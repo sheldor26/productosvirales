@@ -159,6 +159,98 @@ Productosvirales ya tiene Search Console con historial real. Por eso:
    para la próxima actualización: correr el cruce de control cuando
    Ubersuggest libere cupo.
 
+## Dificultad real (SD) cruzada contra el track record del sitio (2026-07-27)
+
+Pedido de Juan: "agregá el número especulativo de tráfico teniendo en cuenta
+la dificultad de las keywords y cómo vengo posicionando mi sitio". Esto
+retoma el pendiente que había quedado anotado desde la corrida base
+(Ubersuggest sin cupo ese día): se bajó el **SD real** (SEO Difficulty,
+Ubersuggest, `locId=2032`, Argentina/español) de las 167 keywords, ahora sí
+completo. Columna nueva `SD real` en la tabla de arriba.
+
+**Lo que se intentó primero (y no funcionó como se esperaba):** cruzar el SD
+real de cada keyword contra la posición real que esa guía ya logró en GSC,
+para ver si el sitio rinde peor en keywords más difíciles — el dato que
+Juan pidió ("cómo vengo posicionando"). Resultado: **correlación
+prácticamente nula** (Pearson r = 0.026 sobre 147 guías con datos reales).
+Guías con SD 71-76 (los más difíciles del catálogo: `microondas`,
+`chromecast`, `perfumes-arabes`, `yogurtera`) tienen, en promedio, la
+MISMA posición real (~7-8) que guías con SD 10-20 (los más fáciles). El
+96% de las guías con datos está en top 10 sin importar el SD de su keyword
+principal.
+
+**Por qué pasa esto (y no es un error del cálculo):** la columna "Estado
+real (GSC)" de este reporte es la posición promedio ponderada por TODAS
+las queries que le traen impresiones a esa URL, no solo la keyword
+principal. Una guía con keyword de cabeza muy difícil (`microondas`, SD 76)
+casi seguro NO está en el top 10 para "microondas" a secas, pero sí está
+arriba para decenas de variantes de cola larga más fáciles dentro de la
+misma página (marca, modelo, "cuál elegir", etc.) — y esas son las que
+levantan el promedio. Este mismo fenómeno ya estaba anotado en los caveats
+de este archivo ("una guía puede tener posición promedio 6-7 en su mezcla
+de 50 queries y seguir estando lejísimos del top para las 2-3 palabras de
+su keyword principal"), pero hasta ahora no había un número real para
+confirmarlo. Ahora lo hay: con el dato de SD real, se puede afirmar que
+el "Pos" de este reporte **no sirve para medir qué tan bien rankea la
+keyword principal específica**, solo qué tan bien rankea la página en
+conjunto.
+
+**Consecuencia honesta:** no se puede construir con los datos actuales un
+"Realista v2" ajustado por dificultad que sea más preciso que el bruto
+existente — intentarlo daría una falsa sensación de precisión. Para
+hacerlo bien haría falta el ranking real de cada guía específicamente para
+su keyword de cabeza (167 chequeos de SERP puntuales, o una herramienta de
+rank tracking), no la posición promedio que ya se tiene. Es un paso
+concreto que se puede hacer si Juan lo pide, pero es una tarea aparte, más
+grande que agregar una columna.
+
+**Lo que el SD real SÍ permite validar con números reales — la separación
+genérico vs. cola/marca no es solo una intuición de patrón de keyword,
+tiene una brecha de dificultad real detrás:**
+
+| Categoría | Guías | SD promedio | SD mediana | Rango |
+|---|--:|--:|--:|--:|
+| Genérico (alta comp.) | 73 | 53.5 | 51 | 33-76 |
+| Cola/marca (viable) | 94 | 39.7 | 44 | 4-63 |
+
+Una brecha real de ~14 puntos de SD entre los dos grupos. El criterio de
+clasificación (marca/comparación/calificador vs. término desnudo) termina
+capturando una diferencia de dificultad real, no solo un patrón de texto.
+
+**Distribución completa de dificultad real (167 keywords):**
+
+| SD | Etiqueta | Guías | Volumen/mes |
+|--:|---|--:|--:|
+| 0-20 | Muy fácil | 12 | 970 |
+| 21-35 | Fácil | 6 | 7.050 |
+| 36-50 | Medio | 103 | 316.450 |
+| 51-65 | Difícil | 33 | 803.900 |
+| 66-100 | Muy difícil | 13 | 597.900 |
+
+**Casos puntuales para revisar la clasificación** (no cambia el total, es
+para decisiones futuras de qué contenido priorizar):
+
+- **"Genérico" con SD sorprendentemente bajo (≤45), candidatos a no ser tan
+  aspiracionales como se asumió**: `recetas-freidora-de-aire` (SD 33),
+  `estufa-electrica-bajo-consumo` (SD 36), `cepillo-de-dientes-electrico`
+  (SD 36, STAGED), `kit-camaras-seguridad` (SD 36), `torre-de-sonido` (SD
+  44), `cafetera-de-filtro` (SD 44), `cortadora-de-pelo` (SD 44),
+  `robot-de-cocina` (SD 45), `procesadora-de-alimentos` (SD 45, STAGED),
+  `alarma-para-casa` (SD 45, STAGED) — vale la pena revisar si alguna de
+  estas merece más enlazado interno o una re-optimización, ya que su techo
+  real puede ser más alto de lo que sugiere la etiqueta "aspiracional".
+- **"Cola/marca" con SD sorprendentemente alto (≥55), más difíciles de lo
+  que asume la categoría**: `termo-stanley` (SD 63, sin datos aún — vigilar
+  de cerca cuando indexe), `parlante-jbl` (SD 61), `robot-aspiradora-roomba`
+  (SD 59, "roomba" es prácticamente un término genérico de marca registrada
+  a esta altura, compite como tal).
+
+**El número para planificar sigue siendo el mismo que antes: ≈10.297/mes
+realista, ≈29.474/mes techo (solo cola/marca)** — pero ahora con una base
+más sólida: no es solo "nos parece que estos son más fáciles", hay una
+brecha de dificultad real medida detrás. No hay un número "v2" más preciso
+que ofrecer sin el ranking específico por keyword.
+
 ## Alcance: las 157 guías completas, no solo pilares
 
 A diferencia de essentialpetgear (1 fila por categoría), acá se pidió
@@ -194,175 +286,175 @@ demanda real por ese solapamiento. Ver caveats.
 
 ## Tabla (157 guías, 151 publicadas + 6 STAGED, corrida 2026-07-26, con clasificación por competencia)
 
-| Guía | Keyword | Categoría | Vol/mes (KWP AR) | Estado real (GSC) | Hoy (real) | Realista 6-12m | Techo optimista |
-|---|---|---|---:|---|---:|---:|---:|
-| mejores-freidoras-de-aire-argentina | freidora de aire | Genérico (alta comp.) | 90.500 | Pos 6.7 | 233 | 4.244 | 8.806 |
-| perfumes-arabes | perfumes arabes | Genérico (alta comp.) | 90.500 | Pos 8.2 | 7 | 3.059 | 8.806 |
-| auriculares-inalambricos | auriculares inalambricos | Genérico (alta comp.) | 74.000 | Pos 5.9 | 3 | 4.877 | 11.988 |
-| microondas | microondas | Genérico (alta comp.) | 49.500 | Pos 4.7 | 29 | 3.262 | 8.019 |
-| aire-acondicionado-portatil | aire acondicionado portatil | Genérico (alta comp.) | 49.500 | Pos 7.8 | 1 | 1.673 | 4.816 |
-| camara-de-seguridad | camara de seguridad | Genérico (alta comp.) | 49.500 | Pos 8.3 | 7 | 1.673 | 4.816 |
-| pava-electrica | pava electrica | Genérico (alta comp.) | 49.500 | Pos 5.6 | 82 | 3.262 | 8.019 |
-| masajeador | masajeador | Genérico (alta comp.) | 49.500 | Pos 6.6 | 0 | 2.322 | 4.816 |
-| termotanque-electrico | termotanque electrico | Genérico (alta comp.) | 49.500 | Pos 8.0 | 5 | 1.673 | 4.816 |
-| chromecast | chromecast | Genérico (alta comp.) | 49.500 | Pos 7.1 | 3 | 2.322 | 4.816 |
-| termo-stanley | termo stanley | Cola/marca (viable) | 49.500 | Sin datos aun | 0 | 14 | 975 |
-| horno-electrico | horno electrico | Genérico (alta comp.) | 40.500 | Pos 6.2 | 14 | 1.899 | 6.561 |
-| parlante-jbl | parlante jbl | Cola/marca (viable) | 40.500 | Pos 8.9 | 3 | 1.037 | 2.669 |
-| yogurtera | yogurtera | Genérico (alta comp.) | 40.500 | Pos 8.4 | 3 | 1.369 | 3.941 |
-| silla-gamer | silla gamer | Genérico (alta comp.) | 33.100 | Pos 7.1 | 8 | 1.552 | 3.221 |
-| ventilador-de-techo | ventilador de techo | Genérico (alta comp.) | 33.100 | Pos 9.6 | 1 | 847 | 2.181 |
-| ventilador-de-pie | ventilador de pie | Genérico (alta comp.) | 33.100 | STAGED | 0 | 10 | 652 |
-| smartwatch | smartwatch | Genérico (alta comp.) | 33.100 | Pos 8.9 | 2 | 847 | 2.181 |
-| caloventor | caloventor | Genérico (alta comp.) | 27.100 | Pos 6.0 | 20 | 1.786 | 4.390 |
-| licuadora | licuadora | Genérico (alta comp.) | 27.100 | Pos 6.4 | 25 | 1.271 | 2.637 |
-| robot-aspiradora | robot aspiradora | Genérico (alta comp.) | 27.100 | Pos 8.0 | 0 | 916 | 2.637 |
-| mejor-aspiradora-robot | aspiradora robot | Genérico (alta comp.) | 27.100 | Pos 8.7 | 28 | 916 | 1.786 |
-| cafetera-italiana | cafetera italiana | Genérico (alta comp.) | 27.100 | Pos 6.5 | 0 | 1.271 | 2.637 |
-| secador-de-pelo | secador de pelo | Genérico (alta comp.) | 27.100 | Pos 7.7 | 13 | 916 | 2.637 |
-| estufas-electricas | estufa electrica | Genérico (alta comp.) | 22.200 | Pos 6.8 | 10 | 1.041 | 2.160 |
-| balanza-digital | balanza digital | Genérico (alta comp.) | 22.200 | Pos 6.4 | 10 | 1.041 | 2.160 |
-| cafetera-express | cafetera express | Genérico (alta comp.) | 22.200 | Pos 8.4 | 63 | 750 | 2.160 |
-| humidificador | humidificador | Genérico (alta comp.) | 22.200 | Pos 8.3 | 7 | 750 | 2.160 |
-| termo | termo | Genérico (alta comp.) | 22.200 | Pos 8.2 | 4 | 750 | 2.160 |
-| nebulizador | nebulizador | Genérico (alta comp.) | 22.200 | Pos 8.9 | 7 | 568 | 1.463 |
-| tensiometro-digital | tensiometro digital | Genérico (alta comp.) | 22.200 | Pos 9.3 | 3 | 568 | 1.463 |
-| termotanque-a-gas | termotanque a gas | Genérico (alta comp.) | 22.200 | Sin datos aun | 0 | 6 | 437 |
-| joystick-ps5 | joystick ps5 | Genérico (alta comp.) | 18.100 | Pos 7.4 | 2 | 612 | 1.761 |
-| parlantes | parlantes bluetooth | Genérico (alta comp.) | 18.100 | Pos 7.3 | 4 | 612 | 1.761 |
-| auriculares-jbl | auriculares jbl | Cola/marca (viable) | 18.100 | Pos 6.1 | 0 | 849 | 2.932 |
-| mejores-perfumes-arabes-hombre | perfume arabe hombre | Cola/marca (viable) | 18.100 | Pos 8.9 | 67 | 463 | 1.193 |
-| planchita-de-pelo | planchita de pelo | Genérico (alta comp.) | 14.800 | Pos 6.4 | 1 | 694 | 1.440 |
-| proyector-portatil | proyector portatil | Genérico (alta comp.) | 14.800 | Pos 7.5 | 22 | 500 | 1.440 |
-| cargador-portatil | cargador portatil | Genérico (alta comp.) | 12.100 | Pos 7.8 | 2 | 409 | 1.177 |
-| atma-freidoras-de-aire-review | freidora de aire atma | Cola/marca (viable) | 12.100 | Pos 6.1 | 31 | 567 | 1.960 |
-| khamrah-lattafa | khamrah lattafa | Cola/marca (viable) | 12.100 | Pos 6.7 | 0 | 567 | 1.177 |
-| cafetera-nespresso | cafetera nespresso | Cola/marca (viable) | 12.100 | Pos 16.6 | 2 | 19 | 310 |
-| cafetera-oster | cafetera oster | Cola/marca (viable) | 12.100 | Pos 7.4 | 3 | 409 | 1.177 |
-| tostadora | tostadora | Genérico (alta comp.) | 12.100 | Pos 9.0 | 9 | 310 | 797 |
-| masajeador-cervical | masajeador cervical | Cola/marca (viable) | 9.900 | Pos 6.1 | 35 | 464 | 1.604 |
-| botella-termica | botella termica | Genérico (alta comp.) | 9.900 | Sin datos aun | 0 | 3 | 195 |
-| ducha-electrica | ducha electrica | Genérico (alta comp.) | 9.900 | Sin datos aun | 0 | 3 | 195 |
-| termometro-digital | termometro digital | Genérico (alta comp.) | 9.900 | Pos 6.6 | 0 | 464 | 963 |
-| camara-de-seguridad-exterior | camara de seguridad exterior | Genérico (alta comp.) | 8.100 | Pos 10.0 | 2 | 160 | 534 |
-| pava-electrica-philips | pava electrica philips | Cola/marca (viable) | 8.100 | Pos 5.9 | 6 | 534 | 1.312 |
-| yara-lattafa-guia-completa | yara lattafa | Cola/marca (viable) | 8.100 | Pos 6.4 | 20 | 380 | 788 |
-| cafetera-dolce-gusto | cafetera dolce gusto | Cola/marca (viable) | 8.100 | Pos 9.9 | 3 | 207 | 534 |
-| microondas-bgh | microondas bgh | Cola/marca (viable) | 6.600 | Pos 6.2 | 0 | 310 | 1.069 |
-| recetas-freidora-de-aire | recetas para freidora de aire | Genérico (alta comp.) | 6.600 | Pos 9.1 | 3 | 169 | 435 |
-| lattafa-asad-comparativa | lattafa asad | Cola/marca (viable) | 6.600 | Pos 7.4 | 2 | 223 | 642 |
-| maquina-de-afeitar | maquina de afeitar | Genérico (alta comp.) | 6.600 | Pos 8.0 | 0 | 223 | 642 |
-| parrilla-electrica | parrilla electrica | Genérico (alta comp.) | 6.600 | STAGED | 0 | 2 | 130 |
-| robot-de-cocina | robot de cocina | Genérico (alta comp.) | 5.400 | Pos 7.3 | 10 | 183 | 525 |
-| auriculares-gamer | auriculares gamer | Genérico (alta comp.) | 5.400 | Pos 8.8 | 4 | 138 | 356 |
-| licuadora-portatil | licuadora portatil | Genérico (alta comp.) | 5.400 | Pos 7.4 | 0 | 183 | 525 |
-| masajeador-espalda | masajeador de espalda | Cola/marca (viable) | 5.400 | Pos 9.3 | 7 | 138 | 356 |
-| pistola-masajeadora | pistola masajeadora | Cola/marca (viable) | 5.400 | Pos 7.8 | 1 | 183 | 525 |
-| peabody-freidoras-de-aire-review | freidora de aire peabody | Cola/marca (viable) | 5.400 | Pos 6.1 | 22 | 253 | 875 |
-| auriculares-sony | auriculares sony | Cola/marca (viable) | 5.400 | Sin datos aun | 0 | 2 | 106 |
-| teclado-gamer | teclado gamer | Genérico (alta comp.) | 4.400 | Pos 7.5 | 1 | 149 | 428 |
-| mouse-gamer | mouse gamer | Genérico (alta comp.) | 4.400 | Pos 7.3 | 0 | 149 | 428 |
-| joystick-xbox | joystick xbox | Genérico (alta comp.) | 4.400 | Pos 6.3 | 1 | 206 | 713 |
-| licuadora-philips | licuadora philips | Cola/marca (viable) | 4.400 | Pos 9.1 | 0 | 113 | 290 |
-| pava-electrica-atma | pava electrica atma | Cola/marca (viable) | 4.400 | Pos 9.3 | 2 | 113 | 290 |
-| masajeador-facial | masajeador facial | Cola/marca (viable) | 4.400 | Pos 8.1 | 7 | 149 | 428 |
-| masajeador-pies | masajeador de pies | Cola/marca (viable) | 4.400 | Pos 6.2 | 2 | 206 | 713 |
-| philips-freidoras-de-aire-review | freidora de aire philips | Cola/marca (viable) | 4.400 | Pos 6.4 | 10 | 206 | 428 |
-| lattafa-guia-marca | perfumes lattafa | Cola/marca (viable) | 4.400 | Pos 6.6 | 0 | 206 | 428 |
-| cafetera-peabody | cafetera peabody | Cola/marca (viable) | 4.400 | Pos 9.5 | 0 | 113 | 290 |
-| reloj-garmin | reloj garmin | Cola/marca (viable) | 4.400 | Sin datos aun (publicada 2026-07-27) | 0 | 1 | 87 |
-| procesadora-de-alimentos | procesadora de alimentos | Genérico (alta comp.) | 4.400 | STAGED | 0 | 1 | 87 |
-| alarma-para-casa | alarma para casa | Genérico (alta comp.) | 4.400 | STAGED | 0 | 1 | 87 |
-| monitor-gamer | monitor gamer | Genérico (alta comp.) | 3.600 | Pos 7.6 | 0 | 122 | 350 |
-| licuadora-oster | licuadora oster | Cola/marca (viable) | 3.600 | Pos 5.6 | 1 | 237 | 583 |
-| pava-electrica-precio | pava electrica precio | Cola/marca (viable) | 3.600 | Pos 8.3 | 0 | 122 | 350 |
-| masajeador-gadnic | masajeador gadnic | Cola/marca (viable) | 3.600 | Pos 5.9 | 24 | 237 | 583 |
-| microondas-samsung | microondas samsung | Cola/marca (viable) | 3.600 | Sin datos aun | 0 | 1 | 71 |
-| microondas-atma | microondas atma | Cola/marca (viable) | 2.900 | Pos 7.7 | 0 | 98 | 282 |
-| horno-atma | horno electrico atma | Cola/marca (viable) | 2.900 | Pos 9.2 | 0 | 74 | 191 |
-| joystick-pc | joystick pc | Genérico (alta comp.) | 2.900 | Pos 6.2 | 10 | 136 | 470 |
-| torre-de-sonido | torre de sonido | Genérico (alta comp.) | 2.900 | Pos 6.7 | 11 | 136 | 282 |
-| parlante-stromberg | parlante stromberg | Cola/marca (viable) | 2.900 | Pos 6.9 | 6 | 136 | 282 |
-| estufa-electrica-bajo-consumo | estufa electrica bajo consumo | Genérico (alta comp.) | 2.900 | Pos 8.9 | 22 | 74 | 191 |
-| sillon-masajeador | sillon masajeador | Cola/marca (viable) | 2.900 | Pos 6.1 | 3 | 136 | 470 |
-| camara-ezviz | camara ezviz | Cola/marca (viable) | 2.900 | Sin datos aun | 0 | 1 | 57 |
-| auriculares-xiaomi | auriculares xiaomi | Cola/marca (viable) | 2.900 | Sin datos aun | 0 | 1 | 57 |
-| mejores-robot-aspiradora-trapeadora | robot aspiradora trapeadora | Genérico (alta comp.) | 2.900 | Pos 11.8 | 0 | 43 | 136 |
-| cafetera-de-filtro | cafetera de filtro | Genérico (alta comp.) | 2.900 | Pos 5.9 | 32 | 191 | 470 |
-| cortadora-de-pelo | cortadora de pelo | Genérico (alta comp.) | 2.900 | Pos 7.7 | 6 | 98 | 282 |
-| cepillo-de-dientes-electrico | cepillo de dientes electrico | Genérico (alta comp.) | 2.900 | STAGED | 0 | 1 | 57 |
-| cerradura-inteligente | cerradura inteligente | Genérico (alta comp.) | 2.900 | STAGED | 0 | 1 | 57 |
-| proyector-astronauta | proyector astronauta / galaxia | Cola/marca (viable) | 2.570 | Sin datos aun | 0 | 1 | 51 |
-| joystick-para-celular | joystick para celular | Genérico (alta comp.) | 2.400 | Pos 9.6 | 2 | 61 | 158 |
-| pava-electrica-peabody | pava electrica peabody | Cola/marca (viable) | 2.400 | Pos 7.6 | 8 | 81 | 234 |
-| oster-freidoras-de-aire-review | freidora de aire oster | Cola/marca (viable) | 2.400 | Pos 7.2 | 0 | 113 | 234 |
-| licuadora-de-mano | licuadora de mano | Cola/marca (viable) | 1.900 | Pos 6.8 | 2 | 89 | 185 |
-| pava-electrica-liliana | pava electrica liliana | Cola/marca (viable) | 1.900 | Pos 5.7 | 0 | 125 | 308 |
-| cafetera-de-capsulas | cafetera de capsulas | Genérico (alta comp.) | 1.900 | Pos 7.4 | 0 | 64 | 185 |
-| cafetera-smartlife | cafetera smartlife | Cola/marca (viable) | 1.900 | Pos 6.2 | 18 | 89 | 308 |
-| masajeador-electrico | masajeador electrico | Genérico (alta comp.) | 1.600 | Pos 9.4 | 1 | 41 | 105 |
-| perfumes-arabes-mujer | perfumes arabes mujer | Cola/marca (viable) | 1.600 | Pos 9.1 | 127 | 127 | 127 |
-| robot-aspiradora-roomba | roomba | Cola/marca (viable) | 1.600 | Pos 10.9 | 1 | 32 | 105 |
-| yogurtera-daewoo | yogurtera daewoo | Cola/marca (viable) | 1.600 | Sin datos aun | 0 | 1 | 32 |
-| depiladora-electrica | depiladora electrica | Genérico (alta comp.) | 1.600 | Pos 8.7 | 1 | 54 | 105 |
-| kit-camaras-seguridad | kit de camaras de seguridad | Genérico (alta comp.) | 1.300 | Pos 11.6 | 1 | 19 | 61 |
-| licuadora-atma | licuadora atma | Cola/marca (viable) | 1.300 | Pos 8.3 | 0 | 44 | 126 |
-| pava-electrica-mercadolibre | pava electrica mercadolibre | Cola/marca (viable) | 1.300 | Pos 9.0 | 0 | 33 | 86 |
-| camara-tplink-tapo | camara tp-link tapo | Cola/marca (viable) | 1.020 | Sin datos aun | 0 | 1 | 20 |
-| auriculares-deportivos | auriculares deportivos | Genérico (alta comp.) | 1.000 | Pos 7.0 | 1 | 47 | 97 |
-| pava-electrica-oster | pava electrica oster | Cola/marca (viable) | 1.000 | Pos 8.2 | 0 | 34 | 97 |
-| gadnic-freidora-review | freidora de aire gadnic | Cola/marca (viable) | 1.000 | Pos 7.7 | 3 | 34 | 97 |
-| robot-aspiradora-samsung | robot aspiradora samsung | Cola/marca (viable) | 1.000 | Pos 9.0 | 0 | 26 | 66 |
-| cafetera-automatica | cafetera automatica | Genérico (alta comp.) | 1.000 | Pos 12.4 | 0 | 15 | 47 |
-| bombilla-de-mate | bombilla de mate | Genérico (alta comp.) | 1.000 | Sin datos aun | 0 | 0 | 20 |
-| kanji-home-freidora-review | freidora de aire kanji home | Cola/marca (viable) | 880 | Pos 7.7 | 0 | 30 | 86 |
-| suono-airfryer-review | freidora de aire suono | Cola/marca (viable) | 880 | Pos 6.0 | 0 | 58 | 143 |
-| robot-aspiradora-atma | robot aspiradora atma | Cola/marca (viable) | 880 | Pos 6.9 | 3 | 41 | 86 |
-| cafetera-liliana | cafetera liliana | Cola/marca (viable) | 880 | Pos 6.0 | 1 | 58 | 143 |
-| pava-electrica-vidrio | pava electrica de vidrio | Cola/marca (viable) | 720 | Pos 6.0 | 1 | 47 | 117 |
-| pava-electrica-acero-inoxidable | pava electrica acero inoxidable | Cola/marca (viable) | 720 | Pos 7.4 | 9 | 24 | 70 |
-| microondas-lg | microondas lg | Cola/marca (viable) | 720 | Sin datos aun | 0 | 1 | 14 |
-| ninja-crispi-review | ninja crispi | Cola/marca (viable) | 590 | Pos 9.0 | 0 | 15 | 39 |
-| masajeador-espalda-cuello | masajeador de espalda y cuello | Cola/marca (viable) | 390 | Pos 6.8 | 1 | 18 | 38 |
-| accesorios-para-freidora-de-aire | accesorios para freidora de aire | Genérico (alta comp.) | 390 | Pos 8.2 | 0 | 13 | 38 |
-| perfumes-arabes-originales | perfumes arabes originales | Cola/marca (viable) | 390 | Pos 7.3 | 2 | 13 | 38 |
-| robot-aspiradora-xiaomi | robot aspiradora xiaomi | Cola/marca (viable) | 390 | Pos 8.2 | 12 | 13 | 38 |
-| kit-gamer | kit gamer | Genérico (alta comp.) | 320 | Pos 7.2 | 0 | 15 | 31 |
-| mejores-freidoras-de-aire-doble-canasta | freidora de aire doble canasta | Cola/marca (viable) | 320 | Pos 6.7 | 6 | 15 | 31 |
-| como-usar-una-freidora-de-aire | como usar una freidora de aire | Cola/marca (viable) | 320 | Pos 7.6 | 0 | 11 | 31 |
-| cuanto-consume-freidora-de-aire | cuanto consume una freidora de aire | Cola/marca (viable) | 320 | Pos 7.5 | 3 | 11 | 31 |
-| perfumes-arabes-mas-vendidos-argentina | perfumes arabes mas vendidos | Cola/marca (viable) | 320 | Pos 5.9 | 97 | 97 | 97 |
-| auriculares-profesionales | auriculares profesionales | Genérico (alta comp.) | 260 | Pos 6.1 | 0 | 12 | 42 |
-| powerxl-freidora-review | freidora de aire powerxl | Cola/marca (viable) | 260 | Pos 10.6 | 0 | 5 | 17 |
-| perfumes-arabes-precio-argentina | perfumes arabes precio | Cola/marca (viable) | 260 | Pos 7.2 | 5 | 12 | 25 |
-| perfumes-arabes-dupes | dupes de perfumes arabes | Cola/marca (viable) | 260 | Pos 7.4 | 100 | 100 | 100 |
-| freidoras-de-aire-con-grill-argentina | freidora de aire con grill | Cola/marca (viable) | 170 | Pos 7.2 | 1 | 8 | 17 |
-| perfumes-arabes-amaderados | perfumes arabes amaderados | Cola/marca (viable) | 170 | Pos 7.4 | 22 | 22 | 22 |
-| robot-aspiradora-precio-argentina | robot aspiradora precio | Cola/marca (viable) | 170 | Pos 8.1 | 0 | 6 | 17 |
-| robot-aspiradora-gadnic | robot aspiradora gadnic | Cola/marca (viable) | 170 | Pos 8.9 | 10 | 10 | 11 |
-| pava-electrica-control-temperatura | pava electrica con control de temperatura | Cola/marca (viable) | 90 | Pos 7.1 | 5 | 5 | 9 |
-| mejores-freidoras-de-aire-economicas-argentina | freidora de aire economica | Cola/marca (viable) | 70 | Pos 15.4 | 1 | 1 | 2 |
-| que-cafetera-comprar | que cafetera comprar | Genérico (alta comp.) | 70 | Pos 8.3 | 0 | 2 | 7 |
-| donde-comprar-perfumes-arabes-argentina | donde comprar perfumes arabes | Cola/marca (viable) | 50 | Pos 7.9 | 3 | 3 | 5 |
-| como-funciona-robot-aspiradora | como funciona un robot aspiradora | Cola/marca (viable) | 50 | Pos 8.5 | 0 | 2 | 5 |
-| mejores-peluches-personajes-argentina | peluches de personajes | Cola/marca (viable) | 50 | Pos 6.9 | 0 | 2 | 5 |
-| pava-electrica-pequena | pava electrica pequeña | Cola/marca (viable) | 40 | Pos 8.0 | 0 | 1 | 4 |
-| horno-electrico-vs-microondas | horno electrico vs microondas | Cola/marca (viable) | 20 | Pos 8.2 | 1 | 1 | 2 |
-| freidora-de-aire-desventajas | desventajas de la freidora de aire | Cola/marca (viable) | 20 | Pos 9.8 | 0 | 1 | 1 |
-| masajeador-donde-comprar-argentina | donde comprar masajeador | Cola/marca (viable) | 10 | Pos 9.3 | 0 | 0 | 1 |
-| mejores-masajeadores-argentina | mejores masajeadores | Genérico (alta comp.) | 10 | Pos 6.4 | 17 | 17 | 17 |
-| freidoras-de-aire-gran-capacidad | freidora de aire gran capacidad | Cola/marca (viable) | 10 | Pos 9.7 | 1 | 1 | 1 |
-| freidora-de-aire-vs-horno | freidora de aire vs horno | Cola/marca (viable) | 10 | Pos 6.2 | 1 | 1 | 2 |
-| vale-la-pena-comprar-freidora-de-aire | vale la pena la freidora de aire | Cola/marca (viable) | 10 | Pos 12.8 | 1 | 1 | 1 |
-| donde-comprar-perfumes-arabes-buenos-aires | donde comprar perfumes arabes en buenos aires | Cola/marca (viable) | 10 | Pos 7.0 | 17 | 17 | 17 |
-| hy300-vs-hy320 | hy300 vs hy320 | Cola/marca (viable) | 10 | Pos 6.0 | 1 | 1 | 2 |
-| liliana-vs-peabody-pava-electrica | liliana vs peabody pava electrica | Cola/marca (viable) | 0 | Pos 3.4 | 0 | 0 | 0 |
-| atma-vs-peabody-freidora-de-aire | atma vs peabody freidora de aire | Cola/marca (viable) | 0 | Pos 5.7 | 13 | 13 | 13 |
-| ninja-vs-philips-freidora-de-aire | ninja vs philips freidora de aire | Cola/marca (viable) | 0 | Pos 6.7 | 0 | 0 | 0 |
-| perfumes-arabes-por-color | perfumes arabes por color | Cola/marca (viable) | 0 | Pos 8.2 | 5 | 5 | 5 |
-| robot-aspiradora-con-mapeo-laser | robot aspiradora con mapeo laser | Cola/marca (viable) | 0 | Pos 9.5 | 0 | 0 | 0 |
-| aspiradora-robot-gadnic-vs-xiaomi | gadnic vs xiaomi robot aspiradora | Cola/marca (viable) | 0 | Pos 4.3 | 22 | 22 | 22 |
-| dia-del-nino-argentina | regalos dia del niño | Cola/marca (viable) | 0 | Pos 5.7 | 6 | 6 | 6 |
+| Guía | Keyword | SD real | Categoría | Vol/mes (KWP AR) | Estado real (GSC) | Hoy (real) | Realista 6-12m | Techo optimista |
+|---|---|--:|---|--:|---|--:|--:|--:|
+| mejores-freidoras-de-aire-argentina | freidora de aire | 71 | Genérico (alta comp.) | 90.500 | Pos 6.7 | 233 | 4.244 | 8.806 |
+| perfumes-arabes | perfumes arabes | 76 | Genérico (alta comp.) | 90.500 | Pos 8.2 | 7 | 3.059 | 8.806 |
+| auriculares-inalambricos | auriculares inalambricos | 71 | Genérico (alta comp.) | 74.000 | Pos 5.9 | 3 | 4.877 | 11.988 |
+| microondas | microondas | 76 | Genérico (alta comp.) | 49.500 | Pos 4.7 | 29 | 3.262 | 8.019 |
+| aire-acondicionado-portatil | aire acondicionado portatil | 58 | Genérico (alta comp.) | 49.500 | Pos 7.8 | 1 | 1.673 | 4.816 |
+| camara-de-seguridad | camara de seguridad | 58 | Genérico (alta comp.) | 49.500 | Pos 8.3 | 7 | 1.673 | 4.816 |
+| pava-electrica | pava electrica | 63 | Genérico (alta comp.) | 49.500 | Pos 5.6 | 82 | 3.262 | 8.019 |
+| masajeador | masajeador | 72 | Genérico (alta comp.) | 49.500 | Pos 6.6 | 0 | 2.322 | 4.816 |
+| termotanque-electrico | termotanque electrico | 63 | Genérico (alta comp.) | 49.500 | Pos 8.0 | 5 | 1.673 | 4.816 |
+| chromecast | chromecast | 76 | Genérico (alta comp.) | 49.500 | Pos 7.1 | 3 | 2.322 | 4.816 |
+| termo-stanley | termo stanley | 63 | Cola/marca (viable) | 49.500 | Sin datos aun | 0 | 14 | 975 |
+| horno-electrico | horno electrico | 61 | Genérico (alta comp.) | 40.500 | Pos 6.2 | 14 | 1.899 | 6.561 |
+| parlante-jbl | parlante jbl | 61 | Cola/marca (viable) | 40.500 | Pos 8.9 | 3 | 1.037 | 2.669 |
+| yogurtera | yogurtera | 74 | Genérico (alta comp.) | 40.500 | Pos 8.4 | 3 | 1.369 | 3.941 |
+| silla-gamer | silla gamer | 58 | Genérico (alta comp.) | 33.100 | Pos 7.1 | 8 | 1.552 | 3.221 |
+| ventilador-de-techo | ventilador de techo | 53 | Genérico (alta comp.) | 33.100 | Pos 9.6 | 1 | 847 | 2.181 |
+| ventilador-de-pie | ventilador de pie | 53 | Genérico (alta comp.) | 33.100 | STAGED | 0 | 10 | 652 |
+| smartwatch | smartwatch | 71 | Genérico (alta comp.) | 33.100 | Pos 8.9 | 2 | 847 | 2.181 |
+| caloventor | caloventor | 70 | Genérico (alta comp.) | 27.100 | Pos 6.0 | 20 | 1.786 | 4.390 |
+| licuadora | licuadora | 70 | Genérico (alta comp.) | 27.100 | Pos 6.4 | 25 | 1.271 | 2.637 |
+| robot-aspiradora | robot aspiradora | 57 | Genérico (alta comp.) | 27.100 | Pos 8.0 | 0 | 916 | 2.637 |
+| mejor-aspiradora-robot | aspiradora robot | 57 | Genérico (alta comp.) | 27.100 | Pos 8.7 | 28 | 916 | 1.786 |
+| cafetera-italiana | cafetera italiana | 57 | Genérico (alta comp.) | 27.100 | Pos 6.5 | 0 | 1.271 | 2.637 |
+| secador-de-pelo | secador de pelo | 52 | Genérico (alta comp.) | 27.100 | Pos 7.7 | 13 | 916 | 2.637 |
+| estufas-electricas | estufa electrica | 55 | Genérico (alta comp.) | 22.200 | Pos 6.8 | 10 | 1.041 | 2.160 |
+| balanza-digital | balanza digital | 55 | Genérico (alta comp.) | 22.200 | Pos 6.4 | 10 | 1.041 | 2.160 |
+| cafetera-express | cafetera express | 55 | Genérico (alta comp.) | 22.200 | Pos 8.4 | 63 | 750 | 2.160 |
+| humidificador | humidificador | 68 | Genérico (alta comp.) | 22.200 | Pos 8.3 | 7 | 750 | 2.160 |
+| termo | termo | 68 | Genérico (alta comp.) | 22.200 | Pos 8.2 | 4 | 750 | 2.160 |
+| nebulizador | nebulizador | 68 | Genérico (alta comp.) | 22.200 | Pos 8.9 | 7 | 568 | 1.463 |
+| tensiometro-digital | tensiometro digital | 55 | Genérico (alta comp.) | 22.200 | Pos 9.3 | 3 | 568 | 1.463 |
+| termotanque-a-gas | termotanque a gas | 50 | Genérico (alta comp.) | 22.200 | Sin datos aun | 0 | 6 | 437 |
+| joystick-ps5 | joystick ps5 | 54 | Genérico (alta comp.) | 18.100 | Pos 7.4 | 2 | 612 | 1.761 |
+| parlantes | parlantes bluetooth | 54 | Genérico (alta comp.) | 18.100 | Pos 7.3 | 4 | 612 | 1.761 |
+| auriculares-jbl | auriculares jbl | 54 | Cola/marca (viable) | 18.100 | Pos 6.1 | 0 | 849 | 2.932 |
+| mejores-perfumes-arabes-hombre | perfume arabe hombre | 49 | Cola/marca (viable) | 18.100 | Pos 8.9 | 67 | 463 | 1.193 |
+| planchita-de-pelo | planchita de pelo | 48 | Genérico (alta comp.) | 14.800 | Pos 6.4 | 1 | 694 | 1.440 |
+| proyector-portatil | proyector portatil | 53 | Genérico (alta comp.) | 14.800 | Pos 7.5 | 22 | 500 | 1.440 |
+| cargador-portatil | cargador portatil | 52 | Genérico (alta comp.) | 12.100 | Pos 7.8 | 2 | 409 | 1.177 |
+| atma-freidoras-de-aire-review | freidora de aire atma | 39 | Cola/marca (viable) | 12.100 | Pos 6.1 | 31 | 567 | 1.960 |
+| khamrah-lattafa | khamrah lattafa | 52 | Cola/marca (viable) | 12.100 | Pos 6.7 | 0 | 567 | 1.177 |
+| cafetera-nespresso | cafetera nespresso | 52 | Cola/marca (viable) | 12.100 | Pos 16.6 | 2 | 19 | 310 |
+| cafetera-oster | cafetera oster | 52 | Cola/marca (viable) | 12.100 | Pos 7.4 | 3 | 409 | 1.177 |
+| tostadora | tostadora | 65 | Genérico (alta comp.) | 12.100 | Pos 9.0 | 9 | 310 | 797 |
+| masajeador-cervical | masajeador cervical | 51 | Cola/marca (viable) | 9.900 | Pos 6.1 | 35 | 464 | 1.604 |
+| botella-termica | botella termica | 51 | Genérico (alta comp.) | 9.900 | Sin datos aun | 0 | 3 | 195 |
+| ducha-electrica | ducha electrica | 51 | Genérico (alta comp.) | 9.900 | Sin datos aun | 0 | 3 | 195 |
+| termometro-digital | termometro digital | 51 | Genérico (alta comp.) | 9.900 | Pos 6.6 | 0 | 464 | 963 |
+| camara-de-seguridad-exterior | camara de seguridad exterior | 38 | Genérico (alta comp.) | 8.100 | Pos 10.0 | 2 | 160 | 534 |
+| pava-electrica-philips | pava electrica philips | 46 | Cola/marca (viable) | 8.100 | Pos 5.9 | 6 | 534 | 1.312 |
+| yara-lattafa-guia-completa | yara lattafa | 51 | Cola/marca (viable) | 8.100 | Pos 6.4 | 20 | 380 | 788 |
+| cafetera-dolce-gusto | cafetera dolce gusto | 46 | Cola/marca (viable) | 8.100 | Pos 9.9 | 3 | 207 | 534 |
+| microondas-bgh | microondas bgh | 50 | Cola/marca (viable) | 6.600 | Pos 6.2 | 0 | 310 | 1.069 |
+| recetas-freidora-de-aire | recetas para freidora de aire | 33 | Genérico (alta comp.) | 6.600 | Pos 9.1 | 3 | 169 | 435 |
+| lattafa-asad-comparativa | lattafa asad | 50 | Cola/marca (viable) | 6.600 | Pos 7.4 | 2 | 223 | 642 |
+| maquina-de-afeitar | maquina de afeitar | 45 | Genérico (alta comp.) | 6.600 | Pos 8.0 | 0 | 223 | 642 |
+| parrilla-electrica | parrilla electrica | 50 | Genérico (alta comp.) | 6.600 | STAGED | 0 | 2 | 130 |
+| robot-de-cocina | robot de cocina | 45 | Genérico (alta comp.) | 5.400 | Pos 7.3 | 10 | 183 | 525 |
+| auriculares-gamer | auriculares gamer | 50 | Genérico (alta comp.) | 5.400 | Pos 8.8 | 4 | 138 | 356 |
+| licuadora-portatil | licuadora portatil | 50 | Genérico (alta comp.) | 5.400 | Pos 7.4 | 0 | 183 | 525 |
+| masajeador-espalda | masajeador de espalda | 45 | Cola/marca (viable) | 5.400 | Pos 9.3 | 7 | 138 | 356 |
+| pistola-masajeadora | pistola masajeadora | 50 | Cola/marca (viable) | 5.400 | Pos 7.8 | 1 | 183 | 525 |
+| peabody-freidoras-de-aire-review | freidora de aire peabody | 37 | Cola/marca (viable) | 5.400 | Pos 6.1 | 22 | 253 | 875 |
+| auriculares-sony | auriculares sony | 50 | Cola/marca (viable) | 5.400 | Sin datos aun | 0 | 2 | 106 |
+| teclado-gamer | teclado gamer | 50 | Genérico (alta comp.) | 4.400 | Pos 7.5 | 1 | 149 | 428 |
+| mouse-gamer | mouse gamer | 50 | Genérico (alta comp.) | 4.400 | Pos 7.3 | 0 | 149 | 428 |
+| joystick-xbox | joystick xbox | 50 | Genérico (alta comp.) | 4.400 | Pos 6.3 | 1 | 206 | 713 |
+| licuadora-philips | licuadora philips | 50 | Cola/marca (viable) | 4.400 | Pos 9.1 | 0 | 113 | 290 |
+| pava-electrica-atma | pava electrica atma | 45 | Cola/marca (viable) | 4.400 | Pos 9.3 | 2 | 113 | 290 |
+| masajeador-facial | masajeador facial | 50 | Cola/marca (viable) | 4.400 | Pos 8.1 | 7 | 149 | 428 |
+| masajeador-pies | masajeador de pies | 45 | Cola/marca (viable) | 4.400 | Pos 6.2 | 2 | 206 | 713 |
+| philips-freidoras-de-aire-review | freidora de aire philips | 37 | Cola/marca (viable) | 4.400 | Pos 6.4 | 10 | 206 | 428 |
+| lattafa-guia-marca | perfumes lattafa | 50 | Cola/marca (viable) | 4.400 | Pos 6.6 | 0 | 206 | 428 |
+| cafetera-peabody | cafetera peabody | 50 | Cola/marca (viable) | 4.400 | Pos 9.5 | 0 | 113 | 290 |
+| reloj-garmin | reloj garmin | 50 | Cola/marca (viable) | 4.400 | Sin datos aun (publicada 2026-07-27) | 0 | 1 | 87 |
+| procesadora-de-alimentos | procesadora de alimentos | 45 | Genérico (alta comp.) | 4.400 | STAGED | 0 | 1 | 87 |
+| alarma-para-casa | alarma para casa | 45 | Genérico (alta comp.) | 4.400 | STAGED | 0 | 1 | 87 |
+| monitor-gamer | monitor gamer | 50 | Genérico (alta comp.) | 3.600 | Pos 7.6 | 0 | 122 | 350 |
+| licuadora-oster | licuadora oster | 50 | Cola/marca (viable) | 3.600 | Pos 5.6 | 1 | 237 | 583 |
+| pava-electrica-precio | pava electrica precio | 45 | Cola/marca (viable) | 3.600 | Pos 8.3 | 0 | 122 | 350 |
+| masajeador-gadnic | masajeador gadnic | 50 | Cola/marca (viable) | 3.600 | Pos 5.9 | 24 | 237 | 583 |
+| microondas-samsung | microondas samsung | 50 | Cola/marca (viable) | 3.600 | Sin datos aun | 0 | 1 | 71 |
+| microondas-atma | microondas atma | 49 | Cola/marca (viable) | 2.900 | Pos 7.7 | 0 | 98 | 282 |
+| horno-atma | horno electrico atma | 44 | Cola/marca (viable) | 2.900 | Pos 9.2 | 0 | 74 | 191 |
+| joystick-pc | joystick pc | 49 | Genérico (alta comp.) | 2.900 | Pos 6.2 | 10 | 136 | 470 |
+| torre-de-sonido | torre de sonido | 44 | Genérico (alta comp.) | 2.900 | Pos 6.7 | 11 | 136 | 282 |
+| parlante-stromberg | parlante stromberg | 49 | Cola/marca (viable) | 2.900 | Pos 6.9 | 6 | 136 | 282 |
+| estufa-electrica-bajo-consumo | estufa electrica bajo consumo | 36 | Genérico (alta comp.) | 2.900 | Pos 8.9 | 22 | 74 | 191 |
+| sillon-masajeador | sillon masajeador | 49 | Cola/marca (viable) | 2.900 | Pos 6.1 | 3 | 136 | 470 |
+| camara-ezviz | camara ezviz | 49 | Cola/marca (viable) | 2.900 | Sin datos aun | 0 | 1 | 57 |
+| auriculares-xiaomi | auriculares xiaomi | 49 | Cola/marca (viable) | 2.900 | Sin datos aun | 0 | 1 | 57 |
+| mejores-robot-aspiradora-trapeadora | robot aspiradora trapeadora | 44 | Genérico (alta comp.) | 2.900 | Pos 11.8 | 0 | 43 | 136 |
+| cafetera-de-filtro | cafetera de filtro | 44 | Genérico (alta comp.) | 2.900 | Pos 5.9 | 32 | 191 | 470 |
+| cortadora-de-pelo | cortadora de pelo | 44 | Genérico (alta comp.) | 2.900 | Pos 7.7 | 6 | 98 | 282 |
+| cepillo-de-dientes-electrico | cepillo de dientes electrico | 36 | Genérico (alta comp.) | 2.900 | STAGED | 0 | 1 | 57 |
+| cerradura-inteligente | cerradura inteligente | 49 | Genérico (alta comp.) | 2.900 | STAGED | 0 | 1 | 57 |
+| proyector-astronauta | proyector astronauta / galaxia | 36 | Cola/marca (viable) | 2.570 | Sin datos aun | 0 | 1 | 51 |
+| joystick-para-celular | joystick para celular | 44 | Genérico (alta comp.) | 2.400 | Pos 9.6 | 2 | 61 | 158 |
+| pava-electrica-peabody | pava electrica peabody | 44 | Cola/marca (viable) | 2.400 | Pos 7.6 | 8 | 81 | 234 |
+| oster-freidoras-de-aire-review | freidora de aire oster | 36 | Cola/marca (viable) | 2.400 | Pos 7.2 | 0 | 113 | 234 |
+| licuadora-de-mano | licuadora de mano | 43 | Cola/marca (viable) | 1.900 | Pos 6.8 | 2 | 89 | 185 |
+| pava-electrica-liliana | pava electrica liliana | 44 | Cola/marca (viable) | 1.900 | Pos 5.7 | 0 | 125 | 308 |
+| cafetera-de-capsulas | cafetera de capsulas | 44 | Genérico (alta comp.) | 1.900 | Pos 7.4 | 0 | 64 | 185 |
+| cafetera-smartlife | cafetera smartlife | 49 | Cola/marca (viable) | 1.900 | Pos 6.2 | 18 | 89 | 308 |
+| masajeador-electrico | masajeador electrico | 49 | Genérico (alta comp.) | 1.600 | Pos 9.4 | 1 | 41 | 105 |
+| perfumes-arabes-mujer | perfumes arabes mujer | 44 | Cola/marca (viable) | 1.600 | Pos 9.1 | 127 | 127 | 127 |
+| robot-aspiradora-roomba | roomba | 59 | Cola/marca (viable) | 1.600 | Pos 10.9 | 1 | 32 | 105 |
+| yogurtera-daewoo | yogurtera daewoo | 49 | Cola/marca (viable) | 1.600 | Sin datos aun | 0 | 1 | 32 |
+| depiladora-electrica | depiladora electrica | 49 | Genérico (alta comp.) | 1.600 | Pos 8.7 | 1 | 54 | 105 |
+| kit-camaras-seguridad | kit de camaras de seguridad | 36 | Genérico (alta comp.) | 1.300 | Pos 11.6 | 1 | 19 | 61 |
+| licuadora-atma | licuadora atma | 49 | Cola/marca (viable) | 1.300 | Pos 8.3 | 0 | 44 | 126 |
+| pava-electrica-mercadolibre | pava electrica mercadolibre | 44 | Cola/marca (viable) | 1.300 | Pos 9.0 | 0 | 33 | 86 |
+| camara-tplink-tapo | camara tp-link tapo | 44 | Cola/marca (viable) | 1.020 | Sin datos aun | 0 | 1 | 20 |
+| auriculares-deportivos | auriculares deportivos | 49 | Genérico (alta comp.) | 1.000 | Pos 7.0 | 1 | 47 | 97 |
+| pava-electrica-oster | pava electrica oster | 44 | Cola/marca (viable) | 1.000 | Pos 8.2 | 0 | 34 | 97 |
+| gadnic-freidora-review | freidora de aire gadnic | 36 | Cola/marca (viable) | 1.000 | Pos 7.7 | 3 | 34 | 97 |
+| robot-aspiradora-samsung | robot aspiradora samsung | 44 | Cola/marca (viable) | 1.000 | Pos 9.0 | 0 | 26 | 66 |
+| cafetera-automatica | cafetera automatica | 49 | Genérico (alta comp.) | 1.000 | Pos 12.4 | 0 | 15 | 47 |
+| bombilla-de-mate | bombilla de mate | 42 | Genérico (alta comp.) | 1.000 | Sin datos aun | 0 | 0 | 20 |
+| kanji-home-freidora-review | freidora de aire kanji home | 36 | Cola/marca (viable) | 880 | Pos 7.7 | 0 | 30 | 86 |
+| suono-airfryer-review | freidora de aire suono | 36 | Cola/marca (viable) | 880 | Pos 6.0 | 0 | 58 | 143 |
+| robot-aspiradora-atma | robot aspiradora atma | 44 | Cola/marca (viable) | 880 | Pos 6.9 | 3 | 41 | 86 |
+| cafetera-liliana | cafetera liliana | 49 | Cola/marca (viable) | 880 | Pos 6.0 | 1 | 58 | 143 |
+| pava-electrica-vidrio | pava electrica de vidrio | 36 | Cola/marca (viable) | 720 | Pos 6.0 | 1 | 47 | 117 |
+| pava-electrica-acero-inoxidable | pava electrica acero inoxidable | 36 | Cola/marca (viable) | 720 | Pos 7.4 | 9 | 24 | 70 |
+| microondas-lg | microondas lg | 48 | Cola/marca (viable) | 720 | Sin datos aun | 0 | 1 | 14 |
+| ninja-crispi-review | ninja crispi | 49 | Cola/marca (viable) | 590 | Pos 9.0 | 0 | 15 | 39 |
+| masajeador-espalda-cuello | masajeador de espalda y cuello | 36 | Cola/marca (viable) | 390 | Pos 6.8 | 1 | 18 | 38 |
+| accesorios-para-freidora-de-aire | accesorios para freidora de aire | 36 | Genérico (alta comp.) | 390 | Pos 8.2 | 0 | 13 | 38 |
+| perfumes-arabes-originales | perfumes arabes originales | 44 | Cola/marca (viable) | 390 | Pos 7.3 | 2 | 13 | 38 |
+| robot-aspiradora-xiaomi | robot aspiradora xiaomi | 44 | Cola/marca (viable) | 390 | Pos 8.2 | 12 | 13 | 38 |
+| kit-gamer | kit gamer | 48 | Genérico (alta comp.) | 320 | Pos 7.2 | 0 | 15 | 31 |
+| mejores-freidoras-de-aire-doble-canasta | freidora de aire doble canasta | 36 | Cola/marca (viable) | 320 | Pos 6.7 | 6 | 15 | 31 |
+| como-usar-una-freidora-de-aire | como usar una freidora de aire | 14 | Cola/marca (viable) | 320 | Pos 7.6 | 0 | 11 | 31 |
+| cuanto-consume-freidora-de-aire | cuanto consume una freidora de aire | 20 | Cola/marca (viable) | 320 | Pos 7.5 | 3 | 11 | 31 |
+| perfumes-arabes-mas-vendidos-argentina | perfumes arabes mas vendidos | 35 | Cola/marca (viable) | 320 | Pos 5.9 | 97 | 97 | 97 |
+| auriculares-profesionales | auriculares profesionales | 49 | Genérico (alta comp.) | 260 | Pos 6.1 | 0 | 12 | 42 |
+| powerxl-freidora-review | freidora de aire powerxl | 36 | Cola/marca (viable) | 260 | Pos 10.6 | 0 | 5 | 17 |
+| perfumes-arabes-precio-argentina | perfumes arabes precio | 42 | Cola/marca (viable) | 260 | Pos 7.2 | 5 | 12 | 25 |
+| perfumes-arabes-dupes | dupes de perfumes arabes | 19 | Cola/marca (viable) | 260 | Pos 7.4 | 100 | 100 | 100 |
+| freidoras-de-aire-con-grill-argentina | freidora de aire con grill | 36 | Cola/marca (viable) | 170 | Pos 7.2 | 1 | 8 | 17 |
+| perfumes-arabes-amaderados | perfumes arabes amaderados | 41 | Cola/marca (viable) | 170 | Pos 7.4 | 22 | 22 | 22 |
+| robot-aspiradora-precio-argentina | robot aspiradora precio | 44 | Cola/marca (viable) | 170 | Pos 8.1 | 0 | 6 | 17 |
+| robot-aspiradora-gadnic | robot aspiradora gadnic | 44 | Cola/marca (viable) | 170 | Pos 8.9 | 10 | 10 | 11 |
+| pava-electrica-control-temperatura | pava electrica con control de temperatura | 36 | Cola/marca (viable) | 90 | Pos 7.1 | 5 | 5 | 9 |
+| mejores-freidoras-de-aire-economicas-argentina | freidora de aire economica | 36 | Cola/marca (viable) | 70 | Pos 15.4 | 1 | 1 | 2 |
+| que-cafetera-comprar | que cafetera comprar | 44 | Genérico (alta comp.) | 70 | Pos 8.3 | 0 | 2 | 7 |
+| donde-comprar-perfumes-arabes-argentina | donde comprar perfumes arabes | 33 | Cola/marca (viable) | 50 | Pos 7.9 | 3 | 3 | 5 |
+| como-funciona-robot-aspiradora | como funciona un robot aspiradora | 14 | Cola/marca (viable) | 50 | Pos 8.5 | 0 | 2 | 5 |
+| mejores-peluches-personajes-argentina | peluches de personajes | 28 | Cola/marca (viable) | 50 | Pos 6.9 | 0 | 2 | 5 |
+| pava-electrica-pequena | pava electrica pequeña | 41 | Cola/marca (viable) | 40 | Pos 8.0 | 0 | 1 | 4 |
+| horno-electrico-vs-microondas | horno electrico vs microondas | 28 | Cola/marca (viable) | 20 | Pos 8.2 | 1 | 1 | 2 |
+| freidora-de-aire-desventajas | desventajas de la freidora de aire | 11 | Cola/marca (viable) | 20 | Pos 9.8 | 0 | 1 | 1 |
+| masajeador-donde-comprar-argentina | donde comprar masajeador | 44 | Cola/marca (viable) | 10 | Pos 9.3 | 0 | 0 | 1 |
+| mejores-masajeadores-argentina | mejores masajeadores | 49 | Genérico (alta comp.) | 10 | Pos 6.4 | 17 | 17 | 17 |
+| freidoras-de-aire-gran-capacidad | freidora de aire gran capacidad | 36 | Cola/marca (viable) | 10 | Pos 9.7 | 1 | 1 | 1 |
+| freidora-de-aire-vs-horno | freidora de aire vs horno | 36 | Cola/marca (viable) | 10 | Pos 6.2 | 1 | 1 | 2 |
+| vale-la-pena-comprar-freidora-de-aire | vale la pena la freidora de aire | 36 | Cola/marca (viable) | 10 | Pos 12.8 | 1 | 1 | 1 |
+| donde-comprar-perfumes-arabes-buenos-aires | donde comprar perfumes arabes en buenos aires | 31 | Cola/marca (viable) | 10 | Pos 7.0 | 17 | 17 | 17 |
+| hy300-vs-hy320 | hy300 vs hy320 | 44 | Cola/marca (viable) | 10 | Pos 6.0 | 1 | 1 | 2 |
+| liliana-vs-peabody-pava-electrica | liliana vs peabody pava electrica | 4 | Cola/marca (viable) | 0 | Pos 3.4 | 0 | 0 | 0 |
+| atma-vs-peabody-freidora-de-aire | atma vs peabody freidora de aire | 4 | Cola/marca (viable) | 0 | Pos 5.7 | 13 | 13 | 13 |
+| ninja-vs-philips-freidora-de-aire | ninja vs philips freidora de aire | 4 | Cola/marca (viable) | 0 | Pos 6.7 | 0 | 0 | 0 |
+| perfumes-arabes-por-color | perfumes arabes por color | 4 | Cola/marca (viable) | 0 | Pos 8.2 | 5 | 5 | 5 |
+| robot-aspiradora-con-mapeo-laser | robot aspiradora con mapeo laser | 4 | Cola/marca (viable) | 0 | Pos 9.5 | 0 | 0 | 0 |
+| aspiradora-robot-gadnic-vs-xiaomi | gadnic vs xiaomi robot aspiradora | 4 | Cola/marca (viable) | 0 | Pos 4.3 | 22 | 22 | 22 |
+| dia-del-nino-argentina | regalos dia del niño | 4 | Cola/marca (viable) | 0 | Pos 5.7 | 6 | 6 | 6 |
 
 ## Totales acumulados (corrida base 2026-07-26; +9 filas loop del día anterior + 1 fila nueva 2026-07-27: `reloj-garmin`)
 

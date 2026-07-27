@@ -8,15 +8,14 @@ import { baseOpenGraph } from "@/lib/site-og";
 import { PriceMoversChart, PriceMoversTable } from "@/components/products/PriceMoversChart";
 import { notFound } from "next/navigation";
 
-// STAGED: página lista pero no publicada todavía (Juan pidió "pushealo pero
-// sin publicar" — se va a mandar a periodistas, quiere confirmar el momento
-// antes de que quede pública). Flipear a `true` cuando dé el OK.
-const PUBLISHED = false;
+// Publicada 2026-07-27 (OK de Juan). Sin pitch a periodistas por ahora
+// (Juan prefirió no mandar mails) — distribución vía Threads en su lugar.
+const PUBLISHED = true;
 
 const PAGE_URL = "https://productosvirales.com.ar/indice-precios/perfumes-arabes";
 const TITLE = "Índice de precios: perfumes árabes en Argentina";
 const DESCRIPTION =
-  "Cuánto subieron o bajaron de precio los perfumes árabes en Mercado Libre Argentina, con datos reales verificados 3 veces por semana desde abril de 2026.";
+  "Cuánto subieron o bajaron de precio los perfumes árabes en Mercado Libre Argentina, con datos reales relevados a lo largo de varios meses de 2026.";
 
 // Mientras no esté publicada, no exportar metadata real: evita que el título/
 // descripción reales queden en el <head> para un crawler que pegue directo a
@@ -102,8 +101,8 @@ export default function PerfumesArabesPriceIndexPage() {
         </h1>
         <p className="mt-3 text-sm text-[var(--text-secondary)] max-w-2xl leading-relaxed">
           Seguimos el precio real de {index.totalTracked} perfumes árabes en Mercado Libre Argentina,
-          verificado en vivo unas 3 veces por semana. Esto es lo que pasó con {usable} de ellos
-          entre el {fmtDateLong(rangeStart)} y el {fmtDateLong(rangeEnd)}: no es una encuesta ni una
+          verificado en vivo a lo largo del tiempo. Esto es lo que pasó con {usable} de ellos
+          entre {fmtDateLong(rangeStart)} y {fmtDateLong(rangeEnd)}: no es una encuesta ni una
           estimación, es el precio de venta real capturado en cada chequeo.
         </p>
       </div>
@@ -156,11 +155,10 @@ export default function PerfumesArabesPriceIndexPage() {
         <p className="font-semibold text-[var(--text-primary)] mb-2">Cómo se armó este índice</p>
         <p>
           Cada precio es el que mostraba la publicación real en Mercado Libre Argentina en el momento
-          del chequeo. Relevamos el precio publicado unas 3 veces por semana desde {fmtDateLong(rangeStart)}.
-          Solo entran acá los perfumes con al menos 4 chequeos registrados, para no sacar conclusiones
-          de una curva con 1 o 2 puntos. La variación es precio inicial vs. precio del último chequeo
-          (no el promedio del período). Este índice se sigue actualizando; esta página refleja el
-          corte del {fmtDateLong(rangeEnd)}.
+          del chequeo, relevado a lo largo de varios meses. Solo entran acá los perfumes con al menos
+          4 chequeos registrados, para no sacar conclusiones de una curva con 1 o 2 puntos. La variación
+          es precio inicial vs. precio del último chequeo (no el promedio del período). Este índice se
+          sigue actualizando; esta página refleja el corte del {fmtDateLong(rangeEnd)}.
         </p>
         <p className="mt-3">
           Si buscás cuál perfume árabe comprar (no solo cómo evolucionó el precio), la{" "}

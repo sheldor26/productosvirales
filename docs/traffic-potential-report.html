@@ -1,0 +1,2341 @@
+<title>Tráfico potencial — productosvirales.com.ar</title>
+<style>
+  :root {
+    --bg: #14110d;
+    --surface: #1b1610;
+    --surface-2: #221b13;
+    --border: #33291a;
+    --ink: #f2ebdc;
+    --ink-dim: #a99a80;
+    --ink-faint: #7c6f5a;
+    --accent: #e2922f;
+    --accent-ink: #1b1408;
+    --real: #57b58d;
+    --real-dim: #3a5f4e;
+    --mid: #d9b64a;
+    --far: #c0603f;
+    --rule: #3a2f1e;
+    --font-display: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    --font-mono: ui-monospace, "SF Mono", "Cascadia Code", "Roboto Mono", Menlo, monospace;
+  }
+  :root[data-theme="light"] {
+    --bg: #faf6ee;
+    --surface: #ffffff;
+    --surface-2: #f3ecdc;
+    --border: #e4d8bd;
+    --ink: #211a0f;
+    --ink-dim: #6e6047;
+    --ink-faint: #948566;
+    --accent: #b3651a;
+    --accent-ink: #fff8ec;
+    --real: #1f7a58;
+    --real-dim: #cfe9dc;
+    --mid: #a3791a;
+    --far: #a63f26;
+    --rule: #e4d8bd;
+  }
+  @media (prefers-color-scheme: light) {
+    :root:not([data-theme="dark"]) {
+      --bg: #faf6ee;
+      --surface: #ffffff;
+      --surface-2: #f3ecdc;
+      --border: #e4d8bd;
+      --ink: #211a0f;
+      --ink-dim: #6e6047;
+      --ink-faint: #948566;
+      --accent: #b3651a;
+      --accent-ink: #fff8ec;
+      --real: #1f7a58;
+      --real-dim: #cfe9dc;
+      --mid: #a3791a;
+      --far: #a63f26;
+      --rule: #e4d8bd;
+    }
+  }
+
+  * { box-sizing: border-box; }
+  body {
+    background: var(--bg);
+    color: var(--ink);
+    font-family: var(--font-display);
+    line-height: 1.5;
+    max-width: 1040px;
+    margin: 0 auto;
+    padding: 48px 24px 96px;
+  }
+  ::selection { background: var(--accent); color: var(--accent-ink); }
+
+  .eyebrow {
+    font-family: var(--font-mono);
+    font-size: 12.5px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin: 0 0 14px;
+  }
+  h1 {
+    font-size: clamp(28px, 4vw, 40px);
+    font-weight: 800;
+    letter-spacing: -0.02em;
+    line-height: 1.08;
+    margin: 0 0 16px;
+    text-wrap: balance;
+    max-width: 22ch;
+  }
+  .lede {
+    color: var(--ink-dim);
+    font-size: 15.5px;
+    max-width: 62ch;
+    margin: 0 0 20px;
+  }
+  .lede strong { color: var(--ink); font-weight: 600; }
+
+  .meta-strip {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px 18px;
+    align-items: center;
+    font-family: var(--font-mono);
+    font-size: 12px;
+    color: var(--ink-faint);
+    border-top: 1px solid var(--rule);
+    border-bottom: 1px solid var(--rule);
+    padding: 10px 0;
+    margin-bottom: 36px;
+  }
+  .meta-strip .dot { width: 6px; height: 6px; border-radius: 50%; background: var(--real); display: inline-block; margin-right: 6px; }
+
+  .stats {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1px;
+    background: var(--border);
+    border: 1px solid var(--border);
+    margin-bottom: 28px;
+  }
+  .stat {
+    background: var(--surface);
+    padding: 22px 20px;
+  }
+  .stat-label {
+    font-family: var(--font-mono);
+    font-size: 11px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--ink-faint);
+    margin-bottom: 10px;
+  }
+  .stat-value {
+    font-family: var(--font-mono);
+    font-size: clamp(24px, 3.4vw, 32px);
+    font-weight: 600;
+    font-variant-numeric: tabular-nums;
+    letter-spacing: -0.01em;
+  }
+  .stat.is-real .stat-value { color: var(--real); }
+  .stat.is-realista .stat-value { color: var(--ink); }
+  .stat.is-techo .stat-value { color: var(--accent); }
+  .stat-sub {
+    margin-top: 8px;
+    font-size: 12.5px;
+    color: var(--ink-dim);
+    line-height: 1.45;
+  }
+
+  details.method {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    padding: 4px 20px;
+    margin-bottom: 28px;
+  }
+  details.method summary {
+    cursor: pointer;
+    padding: 14px 0;
+    font-weight: 600;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    list-style: none;
+  }
+  details.method summary::-webkit-details-marker { display: none; }
+  details.method summary::before {
+    content: "→";
+    color: var(--accent);
+    font-family: var(--font-mono);
+  }
+  details.method[open] summary::before { content: "↓"; }
+  .method-body { padding-bottom: 18px; font-size: 13.5px; color: var(--ink-dim); }
+  .method-body p { margin: 0 0 10px; }
+  .method-body ul { margin: 0 0 10px; padding-left: 20px; }
+  .method-body li { margin-bottom: 6px; }
+  .method-body code {
+    font-family: var(--font-mono);
+    background: var(--surface-2);
+    padding: 1px 5px;
+    border-radius: 3px;
+    font-size: 12.5px;
+    color: var(--ink);
+  }
+
+  .breakdown {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    margin-bottom: 40px;
+  }
+  .bd {
+    border: 1px solid var(--border);
+    border-left: 3px solid var(--bd-color, var(--ink-faint));
+    padding: 12px 14px;
+    background: var(--surface);
+  }
+  .bd.top { --bd-color: var(--real); }
+  .bd.mid { --bd-color: var(--mid); }
+  .bd.far { --bd-color: var(--far); }
+  .bd-title { font-size: 12.5px; font-weight: 600; margin-bottom: 4px; }
+  .bd-n { font-family: var(--font-mono); font-size: 11.5px; color: var(--ink-dim); }
+
+  h2 {
+    font-size: 15px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--ink-dim);
+    margin: 0 0 14px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid var(--rule);
+  }
+
+  .table-wrap {
+    border: 1px solid var(--border);
+    overflow: auto;
+    max-height: 720px;
+    margin-bottom: 12px;
+  }
+  table { border-collapse: collapse; width: 100%; font-size: 13px; }
+  thead th {
+    position: sticky;
+    top: 0;
+    background: var(--surface-2);
+    text-align: left;
+    font-family: var(--font-mono);
+    font-size: 10.5px;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--ink-faint);
+    padding: 10px 12px;
+    border-bottom: 1px solid var(--border);
+    white-space: nowrap;
+    z-index: 1;
+  }
+  tbody td {
+    padding: 9px 12px;
+    border-bottom: 1px solid var(--rule);
+    vertical-align: top;
+    background: var(--surface);
+  }
+  tbody tr:hover td { background: var(--surface-2); }
+  tbody tr.is-staged td { opacity: 0.55; }
+  .c-guide { min-width: 240px; max-width: 340px; }
+  .guide-title { display: block; font-weight: 500; line-height: 1.3; }
+  .guide-slug { display: block; font-family: var(--font-mono); font-size: 10.5px; color: var(--ink-faint); margin-top: 2px; }
+  .c-kw { color: var(--ink-dim); font-size: 12.5px; white-space: nowrap; max-width: 200px; overflow: hidden; text-overflow: ellipsis; }
+  .c-num { font-family: var(--font-mono); text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .c-real { color: var(--real); font-weight: 600; }
+  .c-status { white-space: nowrap; }
+  .chip {
+    font-family: var(--font-mono);
+    font-size: 11px;
+    padding: 2px 8px;
+    border-radius: 20px;
+    display: inline-block;
+    white-space: nowrap;
+  }
+  .chip-top { background: var(--real-dim); color: var(--real); }
+  .chip-mid { background: color-mix(in srgb, var(--mid) 22%, transparent); color: var(--mid); }
+  .chip-far { background: color-mix(in srgb, var(--far) 22%, transparent); color: var(--far); }
+  .chip-nodata { background: var(--surface-2); color: var(--ink-faint); }
+  .chip-staged { background: var(--surface-2); color: var(--ink-faint); font-style: italic; }
+  .cat-generico { background: color-mix(in srgb, var(--far) 18%, transparent); color: var(--far); }
+  .cat-cola { background: var(--real-dim); color: var(--real); }
+  .c-cat { white-space: nowrap; }
+
+  .verdict {
+    border: 1px solid var(--accent);
+    background: color-mix(in srgb, var(--accent) 8%, var(--surface));
+    padding: 18px 20px;
+    margin-bottom: 28px;
+  }
+  .verdict-label {
+    font-family: var(--font-mono);
+    font-size: 11px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin-bottom: 8px;
+  }
+  .verdict p { margin: 0 0 10px; font-size: 14px; color: var(--ink); line-height: 1.55; }
+  .verdict p:last-child { margin-bottom: 0; }
+  .split {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1px;
+    background: var(--border);
+    border: 1px solid var(--border);
+    margin-bottom: 28px;
+  }
+  .split-card { background: var(--surface); padding: 20px; }
+  .split-card .split-tag {
+    display: inline-block;
+    font-family: var(--font-mono);
+    font-size: 10.5px;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    padding: 2px 8px;
+    border-radius: 20px;
+    margin-bottom: 12px;
+  }
+  .split-card.cola .split-tag { background: var(--real-dim); color: var(--real); }
+  .split-card.generico .split-tag { background: color-mix(in srgb, var(--far) 18%, transparent); color: var(--far); }
+  .split-title { font-size: 13.5px; font-weight: 600; margin-bottom: 4px; }
+  .split-value {
+    font-family: var(--font-mono);
+    font-size: 26px;
+    font-weight: 600;
+    font-variant-numeric: tabular-nums;
+    margin-bottom: 4px;
+  }
+  .split-value.dim { color: var(--ink-faint); }
+  .split-sub { font-size: 12.5px; color: var(--ink-dim); line-height: 1.5; }
+
+  .table-note {
+    font-size: 12px;
+    color: var(--ink-faint);
+    margin-bottom: 40px;
+  }
+
+  .caveats {
+    border-top: 1px solid var(--rule);
+    padding-top: 20px;
+  }
+  .caveats h2 { border-bottom: none; padding-bottom: 0; }
+  .caveats ul { margin: 0; padding-left: 20px; color: var(--ink-dim); font-size: 13.5px; }
+  .caveats li { margin-bottom: 10px; }
+  .caveats strong { color: var(--ink); }
+
+  @media (max-width: 720px) {
+    .stats { grid-template-columns: 1fr; }
+    .breakdown { grid-template-columns: 1fr; }
+  }
+</style>
+
+<p class="eyebrow">productosvirales.com.ar · SEO / keyword research</p>
+<h1>Tráfico potencial de lo que estamos tratando de posicionar</h1>
+<p class="lede">
+  Las 167 guías del sitio (161 publicadas, 6 en STAGED), su keyword principal,
+  y qué tráfico orgánico podrían traer. El sitio es <strong>DA1, sin backlinks</strong>:
+  esa es la restricción que manda, así que el bruto no alcanza como respuesta.
+  Separamos cada guía según con quién compite de verdad — término genérico
+  contra sitios de autoridad alta, o cola/marca contra contenido fino — para
+  dar un número creíble, no uno inflado.
+</p>
+<div class="meta-strip">
+  <span><span class="dot"></span>Corrida 2026-07-26</span>
+  <span>167 guías (161 publicadas + 6 STAGED)</span>
+  <span>Volumen: Google Keyword Planner (AR, oficial)</span>
+  <span>Hoy: Google Search Console (snapshot real)</span>
+</div>
+
+<div class="stats">
+  <div class="stat is-real">
+    <div class="stat-label">Hoy · dato real</div>
+    <div class="stat-value">≈ 1.519 / mes</div>
+    <div class="stat-sub">Clicks reales medidos en el snapshot GSC más reciente (27/6 al 24/7). No es una proyección.</div>
+  </div>
+  <div class="stat is-realista">
+    <div class="stat-label">Realista · 6-12 meses (bruto)</div>
+    <div class="stat-value">≈ 64.055 / mes</div>
+    <div class="stat-sub">Suma de las 167 filas. Sobreestima: la mitad depende de ganarle el término genérico a sitios con mucha más autoridad. Ver el desglose de abajo.</div>
+  </div>
+  <div class="stat is-techo">
+    <div class="stat-label">Techo optimista · 12+ meses (bruto)</div>
+    <div class="stat-value">≈ 165.573 / mes</div>
+    <div class="stat-sub">Mismo problema: cota superior nominal, no un número para comprometerse sin backlinks reales.</div>
+  </div>
+</div>
+
+<div class="verdict">
+  <div class="verdict-label">¿Con DA1 llegamos a esos números? Respuesta corta: al bruto no, a la mitad de abajo sí</div>
+  <p>El "realista" y el "techo" de arriba salen de proyectar la posición futura de cada guía desde su posición REAL promedio hoy. Ese promedio está inflado por cola larga fácil (preguntas específicas, comparativas de marca) que no tiene nada que ver con la dificultad de ganarle a Mercado Libre, Amazon o Falabella en el término genérico de 2-3 palabras que se usó para sacar el volumen.</p>
+  <p>Separando las 166 filas en dos grupos según qué compiten, el número creíble sin link building es bastante más chico que el bruto. Ver la tarjeta "Cola/marca" abajo — ese es el que vale la pena tomar en serio para planificar.</p>
+</div>
+
+<h2>El número honesto: separado por con quién compite cada guía</h2>
+<div class="split">
+  <div class="split-card cola">
+    <span class="split-tag">Cola / marca — 94 guías</span>
+    <div class="split-title">Compite contra contenido fino, no contra DA alta</div>
+    <div class="split-value">10.297 <span style="font-size:15px; color:var(--ink-faint);">realista</span></div>
+    <div class="split-value dim">29.474 <span style="font-size:14px;">techo</span></div>
+    <div class="split-sub">Comparativas de marca (Atma vs Peabody), reviews puntuales, preguntas específicas ("cómo usar", "cuánto consume"), variantes de color/tamaño. 345.720 vol/mes, 766 clicks reales hoy. <strong>Este es el número creíble sin backlinks nuevos.</strong></div>
+  </div>
+  <div class="split-card generico">
+    <span class="split-tag">Genérico alta competencia — 67 guías publicadas (+6 STAGED)</span>
+    <div class="split-title">Compite directo contra ML, Amazon, Falabella</div>
+    <div class="split-value">53.758 <span style="font-size:15px; color:var(--ink-faint);">realista</span></div>
+    <div class="split-value dim">136.099 <span style="font-size:14px;">techo</span></div>
+    <div class="split-sub">Términos de categoría desnudos (freidora de aire, microondas, pava eléctrica, cámara de seguridad...). 1.326.250 vol/mes, 753 clicks reales hoy. <strong>Aspiracional: solo se destraba con autoridad y backlinks reales</strong>, el ritmo de contenido actual no alcanza.</div>
+  </div>
+</div>
+
+<h2>Dificultad real (SD) vs. cómo viene posicionando el sitio</h2>
+<div class="verdict" style="border-color: var(--ink-faint); background: color-mix(in srgb, var(--ink-faint) 8%, var(--surface));">
+  <div class="verdict-label" style="color: var(--ink-faint);">Se intentó calibrar un "Realista v2" con dificultad real. No dio un número más preciso — y eso también es una respuesta.</div>
+  <p>Se bajó el SD real (Ubersuggest, Argentina) de las 167 keywords y se cruzó contra la posición real que cada guía ya logró en Search Console, para responder "¿el sitio rinde peor en keywords más difíciles?". Resultado: correlación prácticamente nula (r = 0.026 sobre 147 guías con datos). Guías con SD 71-76 (las más difíciles del catálogo) tienen, en promedio, la misma posición real que guías con SD 10-20.</p>
+  <p><strong>Por qué:</strong> la columna "Estado real" de este reporte es la posición promedio de TODA la mezcla de queries que le trae tráfico a cada guía, no solo su keyword principal. Una guía con keyword de cabeza muy difícil casi seguro no está en el top 10 para esa keyword exacta, pero sí para docenas de variantes de cola larga más fáciles en la misma página — y esas levantan el promedio. Medir el ranking real de la keyword de cabeza específicamente requeriría 167 chequeos de SERP puntuales o una herramienta de rank tracking, no solo la posición promedio que ya se tiene.</p>
+  <p>Lo que el SD real sí confirma con números: la separación genérico/cola-marca no es solo un patrón de texto, tiene una brecha de dificultad real detrás (ver tabla). <strong>El número para planificar sigue siendo el mismo: ≈10.297/mes realista, ≈29.474/mes techo (cola/marca)</strong> — ahora con evidencia real detrás, no una intuición.</p>
+</div>
+
+<div class="split" style="grid-template-columns: 1fr 1fr 1fr 1fr 1fr;">
+  <div class="split-card">
+    <span class="split-tag" style="background: var(--surface-2); color: var(--ink-dim);">SD 0-20</span>
+    <div class="split-title">Muy fácil</div>
+    <div class="split-value dim" style="font-size:18px;">12 guías</div>
+    <div class="split-sub">970 vol/mes</div>
+  </div>
+  <div class="split-card">
+    <span class="split-tag" style="background: var(--surface-2); color: var(--ink-dim);">SD 21-35</span>
+    <div class="split-title">Fácil</div>
+    <div class="split-value dim" style="font-size:18px;">6 guías</div>
+    <div class="split-sub">7.050 vol/mes</div>
+  </div>
+  <div class="split-card">
+    <span class="split-tag" style="background: var(--surface-2); color: var(--ink-dim);">SD 36-50</span>
+    <div class="split-title">Medio</div>
+    <div class="split-value dim" style="font-size:18px;">103 guías</div>
+    <div class="split-sub">316.450 vol/mes</div>
+  </div>
+  <div class="split-card">
+    <span class="split-tag" style="background: color-mix(in srgb, var(--mid) 22%, transparent); color: var(--mid);">SD 51-65</span>
+    <div class="split-title">Difícil</div>
+    <div class="split-value dim" style="font-size:18px;">33 guías</div>
+    <div class="split-sub">803.900 vol/mes</div>
+  </div>
+  <div class="split-card">
+    <span class="split-tag" style="background: color-mix(in srgb, var(--far) 22%, transparent); color: var(--far);">SD 66-100</span>
+    <div class="split-title">Muy difícil</div>
+    <div class="split-value dim" style="font-size:18px;">13 guías</div>
+    <div class="split-sub">597.900 vol/mes</div>
+  </div>
+</div>
+
+<div class="table-note">
+  <strong>Validación de la categoría:</strong> Genérico (alta comp.) promedia SD 53.5 (mediana 51, rango 33-76, n=73). Cola/marca (viable) promedia SD 39.7 (mediana 44, rango 4-63, n=94). Brecha real de ~14 puntos.
+  <br><br>
+  <strong>Candidatos a revisar la clasificación</strong> (no cambia el total, sirve para priorizar): "Genérico" con SD ≤45 que quizás no sean tan aspiracionales — <code>recetas-freidora-de-aire</code> (33), <code>estufa-electrica-bajo-consumo</code> (36), <code>cepillo-de-dientes-electrico</code> (36), <code>kit-camaras-seguridad</code> (36), <code>torre-de-sonido</code> (44), <code>cafetera-de-filtro</code> (44), <code>cortadora-de-pelo</code> (44), <code>robot-de-cocina</code> (45), <code>procesadora-de-alimentos</code> (45), <code>alarma-para-casa</code> (45). "Cola/marca" con SD ≥55, más difíciles de lo asumido — <code>termo-stanley</code> (63), <code>parlante-jbl</code> (61), <code>robot-aspiradora-roomba</code> (59, "roomba" compite casi como marca genérica).
+</div>
+
+<details class="method">
+  <summary>Cómo se calcula esto (metodología, abrir para ver el detalle)</summary>
+  <div class="method-body">
+    <p>A diferencia de un sitio nuevo, productosvirales ya tiene historial real en Search Console. Por eso el método no asume "hoy = 0" ni usa un tier de dificultad genérico: usa la posición REAL de cada guía como ancla.</p>
+    <ul>
+      <li><strong>Keyword principal:</strong> derivada del título/H1 de cada guía (la intención del autor), no de la query que hoy le trae tráfico.</li>
+      <li><strong>Volumen:</strong> Google Keyword Planner (Google Ads API), Argentina, español. Es la fuente oficial de Google; Ubersuggest llegó a su límite diario de reportes el mismo día de esta corrida, así que no hubo cruce de control esta vez.</li>
+      <li><strong>Estado real:</strong> posición promedio ponderada por impresiones de esa URL en GSC, con fragments <code>#</code> ya colapsados a la URL base (para no contar como "página" un simple ancla de índice).</li>
+      <li><strong>Hoy:</strong> clicks reales de esa URL en el mismo snapshot. Medido, no estimado.</li>
+      <li><strong>Realista / techo:</strong> <code>estimate_serp_clicks</code> sobre el volumen oficial, en una posición proyectada desde la posición real de cada guía (25% y 60% de mejora respectivamente), nunca por debajo de lo que ya pasa hoy.</li>
+      <li><strong>Categoría (genérico vs. cola/marca):</strong> agregada después de la corrida original, al notar que la posición promedio de una guía mezcla cola larga fácil con el término de cabeza difícil. Una guía es "genérico" si su keyword es un término de categoría desnudo (sin marca, sin comparación, sin calificador); es "cola/marca" si tiene marca, "vs", o un calificador (precio, review, opiniones, cómo usar, por color, etc.).</li>
+    </ul>
+    <p>El detalle completo, incluidos los caveats de solapamiento entre guías pilar y satélite de marca, está en <code>docs/traffic-potential.md</code> del repo.</p>
+  </div>
+</details>
+
+<h2>Por estado real en Search Console</h2>
+<div class="breakdown">
+  <div class="bd top">
+    <div class="bd-title">Ya en el top 10 (pos ≤10)</div>
+    <div class="bd-n">139 guías · 1.535.120 vol/mes · 1.513 clicks hoy</div>
+  </div>
+  <div class="bd mid">
+    <div class="bd-title">Visible pero floja (pos 11-30)</div>
+    <div class="bd-n">8 guías · 19.240 vol/mes · 6 clicks hoy</div>
+  </div>
+  <div class="bd far">
+    <div class="bd-title">Sin datos aún (nueva o STAGED)</div>
+    <div class="bd-n">20 guías · 171.910 vol/mes · 0 clicks hoy</div>
+  </div>
+</div>
+
+<h2>Las 167 guías, de mayor a menor volumen</h2>
+<div class="table-wrap">
+  <table>
+    <thead>
+      <tr>
+        <th>Guía</th>
+        <th>Keyword</th>
+        <th>SD real</th>
+        <th>Categoría</th>
+        <th>Vol/mes (AR)</th>
+        <th>Estado (GSC)</th>
+        <th>Hoy</th>
+        <th>Realista</th>
+        <th>Techo</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="">
+      <td class="c-guide"><span class="guide-title">Las mejores freidoras de aire en Argentina [2026]: Guía completa</span><span class="guide-slug">mejores-freidoras-de-aire-argentina</span></td>
+      <td class="c-kw">freidora de aire</td>
+      <td class="c-num">71</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">90.500</td>
+      <td class="c-status"><span class="chip chip-top">Pos 6.7</span></td>
+      <td class="c-num c-real">233</td>
+      <td class="c-num">4.244</td>
+      <td class="c-num">8.806</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Perfumes árabes Argentina 2026: la guía completa para empezar</span><span class="guide-slug">perfumes-arabes</span></td>
+      <td class="c-kw">perfumes arabes</td>
+      <td class="c-num">76</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">90.500</td>
+      <td class="c-status"><span class="chip chip-top">Pos 8.2</span></td>
+      <td class="c-num c-real">7</td>
+      <td class="c-num">3.059</td>
+      <td class="c-num">8.806</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Auriculares inalámbricos: cuál comprar en Argentina [2026]</span><span class="guide-slug">auriculares-inalambricos</span></td>
+      <td class="c-kw">auriculares inalambricos</td>
+      <td class="c-num">71</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">74.000</td>
+      <td class="c-status"><span class="chip chip-top">Pos 5.9</span></td>
+      <td class="c-num c-real">3</td>
+      <td class="c-num">4.877</td>
+      <td class="c-num">11.988</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Microondas: cuál comprar en Argentina [2026]</span><span class="guide-slug">microondas</span></td>
+      <td class="c-kw">microondas</td>
+      <td class="c-num">76</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">49.500</td>
+      <td class="c-status"><span class="chip chip-top">Pos 4.7</span></td>
+      <td class="c-num c-real">29</td>
+      <td class="c-num">3.262</td>
+      <td class="c-num">8.019</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Aire acondicionado portátil: cuál comprar en Argentina [2026]</span><span class="guide-slug">aire-acondicionado-portatil</span></td>
+      <td class="c-kw">aire acondicionado portatil</td>
+      <td class="c-num">58</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">49.500</td>
+      <td class="c-status"><span class="chip chip-top">Pos 7.8</span></td>
+      <td class="c-num c-real">1</td>
+      <td class="c-num">1.673</td>
+      <td class="c-num">4.816</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Cámaras de seguridad: cuáles comprar en Argentina [2026]</span><span class="guide-slug">camara-de-seguridad</span></td>
+      <td class="c-kw">camara de seguridad</td>
+      <td class="c-num">58</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">49.500</td>
+      <td class="c-status"><span class="chip chip-top">Pos 8.3</span></td>
+      <td class="c-num c-real">7</td>
+      <td class="c-num">1.673</td>
+      <td class="c-num">4.816</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Mejores pavas eléctricas en Argentina: cuál comprar [2026]</span><span class="guide-slug">pava-electrica</span></td>
+      <td class="c-kw">pava electrica</td>
+      <td class="c-num">63</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">49.500</td>
+      <td class="c-status"><span class="chip chip-top">Pos 5.6</span></td>
+      <td class="c-num c-real">82</td>
+      <td class="c-num">3.262</td>
+      <td class="c-num">8.019</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Masajeador: tipos, beneficios y cuál elegir (2026)</span><span class="guide-slug">masajeador</span></td>
+      <td class="c-kw">masajeador</td>
+      <td class="c-num">72</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">49.500</td>
+      <td class="c-status"><span class="chip chip-top">Pos 6.6</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">2.322</td>
+      <td class="c-num">4.816</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Termotanque eléctrico: cuál comprar en Argentina [2026]</span><span class="guide-slug">termotanque-electrico</span></td>
+      <td class="c-kw">termotanque electrico</td>
+      <td class="c-num">63</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">49.500</td>
+      <td class="c-status"><span class="chip chip-top">Pos 8.0</span></td>
+      <td class="c-num c-real">5</td>
+      <td class="c-num">1.673</td>
+      <td class="c-num">4.816</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Chromecast: cuál comprar en Argentina [2026]</span><span class="guide-slug">chromecast</span></td>
+      <td class="c-kw">chromecast</td>
+      <td class="c-num">76</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">49.500</td>
+      <td class="c-status"><span class="chip chip-top">Pos 7.1</span></td>
+      <td class="c-num c-real">3</td>
+      <td class="c-num">2.322</td>
+      <td class="c-num">4.816</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Termo Stanley en Argentina: el Mate System, el Quencher y si vale la pena</span><span class="guide-slug">termo-stanley</span></td>
+      <td class="c-kw">termo stanley</td>
+      <td class="c-num">63</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">49.500</td>
+      <td class="c-status"><span class="chip chip-nodata">Sin datos aun</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">14</td>
+      <td class="c-num">975</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Horno eléctrico: cuál comprar en Argentina [2026]</span><span class="guide-slug">horno-electrico</span></td>
+      <td class="c-kw">horno electrico</td>
+      <td class="c-num">61</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">40.500</td>
+      <td class="c-status"><span class="chip chip-top">Pos 6.2</span></td>
+      <td class="c-num c-real">14</td>
+      <td class="c-num">1.899</td>
+      <td class="c-num">6.561</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Parlante JBL: cuál comprar en Argentina [2026]</span><span class="guide-slug">parlante-jbl</span></td>
+      <td class="c-kw">parlante jbl</td>
+      <td class="c-num">61</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">40.500</td>
+      <td class="c-status"><span class="chip chip-top">Pos 8.9</span></td>
+      <td class="c-num c-real">3</td>
+      <td class="c-num">1.037</td>
+      <td class="c-num">2.669</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Yogurtera: cuál comprar en Argentina [2026]</span><span class="guide-slug">yogurtera</span></td>
+      <td class="c-kw">yogurtera</td>
+      <td class="c-num">74</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">40.500</td>
+      <td class="c-status"><span class="chip chip-top">Pos 8.4</span></td>
+      <td class="c-num c-real">3</td>
+      <td class="c-num">1.369</td>
+      <td class="c-num">3.941</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Silla gamer: cuál comprar en Argentina [2026]</span><span class="guide-slug">silla-gamer</span></td>
+      <td class="c-kw">silla gamer</td>
+      <td class="c-num">58</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">33.100</td>
+      <td class="c-status"><span class="chip chip-top">Pos 7.1</span></td>
+      <td class="c-num c-real">8</td>
+      <td class="c-num">1.552</td>
+      <td class="c-num">3.221</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Ventilador de techo: cuál comprar en Argentina [2026]</span><span class="guide-slug">ventilador-de-techo</span></td>
+      <td class="c-kw">ventilador de techo</td>
+      <td class="c-num">53</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">33.100</td>
+      <td class="c-status"><span class="chip chip-top">Pos 9.6</span></td>
+      <td class="c-num c-real">1</td>
+      <td class="c-num">847</td>
+      <td class="c-num">2.181</td>
+    </tr>
+<tr class="is-staged">
+      <td class="c-guide"><span class="guide-title">Ventilador de pie: cuál comprar en Argentina [2026]</span><span class="guide-slug">ventilador-de-pie</span></td>
+      <td class="c-kw">ventilador de pie</td>
+      <td class="c-num">53</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">33.100</td>
+      <td class="c-status"><span class="chip chip-staged">STAGED</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">10</td>
+      <td class="c-num">652</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Smartwatch: cuál comprar en Argentina [2026]</span><span class="guide-slug">smartwatch</span></td>
+      <td class="c-kw">smartwatch</td>
+      <td class="c-num">71</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">33.100</td>
+      <td class="c-status"><span class="chip chip-top">Pos 8.9</span></td>
+      <td class="c-num c-real">2</td>
+      <td class="c-num">847</td>
+      <td class="c-num">2.181</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Caloventor: cuál comprar en Argentina [2026]</span><span class="guide-slug">caloventor</span></td>
+      <td class="c-kw">caloventor</td>
+      <td class="c-num">70</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">27.100</td>
+      <td class="c-status"><span class="chip chip-top">Pos 6.0</span></td>
+      <td class="c-num c-real">20</td>
+      <td class="c-num">1.786</td>
+      <td class="c-num">4.390</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Licuadoras 2026: mejores marcas, tipos y cuál comprar</span><span class="guide-slug">licuadora</span></td>
+      <td class="c-kw">licuadora</td>
+      <td class="c-num">70</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">27.100</td>
+      <td class="c-status"><span class="chip chip-top">Pos 6.4</span></td>
+      <td class="c-num c-real">25</td>
+      <td class="c-num">1.271</td>
+      <td class="c-num">2.637</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Robot aspiradora: guía completa y mejores modelos en Argentina [2026]</span><span class="guide-slug">robot-aspiradora</span></td>
+      <td class="c-kw">robot aspiradora</td>
+      <td class="c-num">57</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">27.100</td>
+      <td class="c-status"><span class="chip chip-top">Pos 8.0</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">916</td>
+      <td class="c-num">2.637</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Mejor aspiradora robot: cuál comprar según tu caso</span><span class="guide-slug">mejor-aspiradora-robot</span></td>
+      <td class="c-kw">aspiradora robot</td>
+      <td class="c-num">57</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">27.100</td>
+      <td class="c-status"><span class="chip chip-top">Pos 8.7</span></td>
+      <td class="c-num c-real">28</td>
+      <td class="c-num">916</td>
+      <td class="c-num">1.786</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Cafetera italiana: cuál comprar en Argentina [2026]</span><span class="guide-slug">cafetera-italiana</span></td>
+      <td class="c-kw">cafetera italiana</td>
+      <td class="c-num">57</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">27.100</td>
+      <td class="c-status"><span class="chip chip-top">Pos 6.5</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">1.271</td>
+      <td class="c-num">2.637</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Secador de pelo: cuál comprar en Argentina [2026]</span><span class="guide-slug">secador-de-pelo</span></td>
+      <td class="c-kw">secador de pelo</td>
+      <td class="c-num">52</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">27.100</td>
+      <td class="c-status"><span class="chip chip-top">Pos 7.7</span></td>
+      <td class="c-num c-real">13</td>
+      <td class="c-num">916</td>
+      <td class="c-num">2.637</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Estufas eléctricas: cuál comprar en Argentina [2026]</span><span class="guide-slug">estufas-electricas</span></td>
+      <td class="c-kw">estufa electrica</td>
+      <td class="c-num">55</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">22.200</td>
+      <td class="c-status"><span class="chip chip-top">Pos 6.8</span></td>
+      <td class="c-num c-real">10</td>
+      <td class="c-num">1.041</td>
+      <td class="c-num">2.160</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Balanza digital: cuál comprar en Argentina [2026]</span><span class="guide-slug">balanza-digital</span></td>
+      <td class="c-kw">balanza digital</td>
+      <td class="c-num">55</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">22.200</td>
+      <td class="c-status"><span class="chip chip-top">Pos 6.4</span></td>
+      <td class="c-num c-real">10</td>
+      <td class="c-num">1.041</td>
+      <td class="c-num">2.160</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Cafetera express: guía completa y mejores modelos en Argentina [2026]</span><span class="guide-slug">cafetera-express</span></td>
+      <td class="c-kw">cafetera express</td>
+      <td class="c-num">55</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">22.200</td>
+      <td class="c-status"><span class="chip chip-top">Pos 8.4</span></td>
+      <td class="c-num c-real">63</td>
+      <td class="c-num">750</td>
+      <td class="c-num">2.160</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Humidificador: cuál comprar en Argentina [2026]</span><span class="guide-slug">humidificador</span></td>
+      <td class="c-kw">humidificador</td>
+      <td class="c-num">68</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">22.200</td>
+      <td class="c-status"><span class="chip chip-top">Pos 8.3</span></td>
+      <td class="c-num c-real">7</td>
+      <td class="c-num">750</td>
+      <td class="c-num">2.160</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Termo: cuál comprar en Argentina [2026]</span><span class="guide-slug">termo</span></td>
+      <td class="c-kw">termo</td>
+      <td class="c-num">68</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">22.200</td>
+      <td class="c-status"><span class="chip chip-top">Pos 8.2</span></td>
+      <td class="c-num c-real">4</td>
+      <td class="c-num">750</td>
+      <td class="c-num">2.160</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Nebulizador: cuál comprar en Argentina [2026]</span><span class="guide-slug">nebulizador</span></td>
+      <td class="c-kw">nebulizador</td>
+      <td class="c-num">68</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">22.200</td>
+      <td class="c-status"><span class="chip chip-top">Pos 8.9</span></td>
+      <td class="c-num c-real">7</td>
+      <td class="c-num">568</td>
+      <td class="c-num">1.463</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Tensiómetro digital: cuál comprar en Argentina [2026]</span><span class="guide-slug">tensiometro-digital</span></td>
+      <td class="c-kw">tensiometro digital</td>
+      <td class="c-num">55</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">22.200</td>
+      <td class="c-status"><span class="chip chip-top">Pos 9.3</span></td>
+      <td class="c-num c-real">3</td>
+      <td class="c-num">568</td>
+      <td class="c-num">1.463</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Termotanque a gas: cuál comprar en Argentina [2026]</span><span class="guide-slug">termotanque-a-gas</span></td>
+      <td class="c-kw">termotanque a gas</td>
+      <td class="c-num">50</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">22.200</td>
+      <td class="c-status"><span class="chip chip-nodata">Sin datos aun</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">6</td>
+      <td class="c-num">437</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Joystick PS5: cuál comprar en Argentina [2026]</span><span class="guide-slug">joystick-ps5</span></td>
+      <td class="c-kw">joystick ps5</td>
+      <td class="c-num">54</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">18.100</td>
+      <td class="c-status"><span class="chip chip-top">Pos 7.4</span></td>
+      <td class="c-num c-real">2</td>
+      <td class="c-num">612</td>
+      <td class="c-num">1.761</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Parlantes bluetooth: cuál comprar en Argentina [2026]</span><span class="guide-slug">parlantes</span></td>
+      <td class="c-kw">parlantes bluetooth</td>
+      <td class="c-num">54</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">18.100</td>
+      <td class="c-status"><span class="chip chip-top">Pos 7.3</span></td>
+      <td class="c-num c-real">4</td>
+      <td class="c-num">612</td>
+      <td class="c-num">1.761</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Auriculares JBL: cuál comprar en Argentina [2026]</span><span class="guide-slug">auriculares-jbl</span></td>
+      <td class="c-kw">auriculares jbl</td>
+      <td class="c-num">54</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">18.100</td>
+      <td class="c-status"><span class="chip chip-top">Pos 6.1</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">849</td>
+      <td class="c-num">2.932</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Perfume árabe hombre: los 15 mejores de Argentina 2026</span><span class="guide-slug">mejores-perfumes-arabes-hombre</span></td>
+      <td class="c-kw">perfume arabe hombre</td>
+      <td class="c-num">49</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">18.100</td>
+      <td class="c-status"><span class="chip chip-top">Pos 8.9</span></td>
+      <td class="c-num c-real">67</td>
+      <td class="c-num">463</td>
+      <td class="c-num">1.193</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Planchita de pelo: cuál comprar en Argentina [2026]</span><span class="guide-slug">planchita-de-pelo</span></td>
+      <td class="c-kw">planchita de pelo</td>
+      <td class="c-num">48</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">14.800</td>
+      <td class="c-status"><span class="chip chip-top">Pos 6.4</span></td>
+      <td class="c-num c-real">1</td>
+      <td class="c-num">694</td>
+      <td class="c-num">1.440</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Proyector portátil: cuál comprar en Argentina [2026]</span><span class="guide-slug">proyector-portatil</span></td>
+      <td class="c-kw">proyector portatil</td>
+      <td class="c-num">53</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">14.800</td>
+      <td class="c-status"><span class="chip chip-top">Pos 7.5</span></td>
+      <td class="c-num c-real">22</td>
+      <td class="c-num">500</td>
+      <td class="c-num">1.440</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Cargador portátil: cuál comprar en Argentina [2026]</span><span class="guide-slug">cargador-portatil</span></td>
+      <td class="c-kw">cargador portatil</td>
+      <td class="c-num">52</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">12.100</td>
+      <td class="c-status"><span class="chip chip-top">Pos 7.8</span></td>
+      <td class="c-num c-real">2</td>
+      <td class="c-num">409</td>
+      <td class="c-num">1.177</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Freidoras de aire Atma: análisis de los 4 modelos más vendidos en Argentina</span><span class="guide-slug">atma-freidoras-de-aire-review</span></td>
+      <td class="c-kw">freidora de aire atma</td>
+      <td class="c-num">39</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">12.100</td>
+      <td class="c-status"><span class="chip chip-top">Pos 6.1</span></td>
+      <td class="c-num c-real">31</td>
+      <td class="c-num">567</td>
+      <td class="c-num">1.960</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Khamrah Lattafa: original, Qahwa y cuál comprar (2026)</span><span class="guide-slug">khamrah-lattafa</span></td>
+      <td class="c-kw">khamrah lattafa</td>
+      <td class="c-num">52</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">12.100</td>
+      <td class="c-status"><span class="chip chip-top">Pos 6.7</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">567</td>
+      <td class="c-num">1.177</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Cafeteras Nespresso 2026: modelos, precios y cuál comprar</span><span class="guide-slug">cafetera-nespresso</span></td>
+      <td class="c-kw">cafetera nespresso</td>
+      <td class="c-num">52</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">12.100</td>
+      <td class="c-status"><span class="chip chip-mid">Pos 16.6</span></td>
+      <td class="c-num c-real">2</td>
+      <td class="c-num">19</td>
+      <td class="c-num">310</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Cafetera Oster: cuál comprar en Argentina [2026]</span><span class="guide-slug">cafetera-oster</span></td>
+      <td class="c-kw">cafetera oster</td>
+      <td class="c-num">52</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">12.100</td>
+      <td class="c-status"><span class="chip chip-top">Pos 7.4</span></td>
+      <td class="c-num c-real">3</td>
+      <td class="c-num">409</td>
+      <td class="c-num">1.177</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Tostadora: cuál comprar en Argentina [2026]</span><span class="guide-slug">tostadora</span></td>
+      <td class="c-kw">tostadora</td>
+      <td class="c-num">65</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">12.100</td>
+      <td class="c-status"><span class="chip chip-top">Pos 9.0</span></td>
+      <td class="c-num c-real">9</td>
+      <td class="c-num">310</td>
+      <td class="c-num">797</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Masajeador cervical: los mejores en Argentina</span><span class="guide-slug">masajeador-cervical</span></td>
+      <td class="c-kw">masajeador cervical</td>
+      <td class="c-num">51</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">9.900</td>
+      <td class="c-status"><span class="chip chip-top">Pos 6.1</span></td>
+      <td class="c-num c-real">35</td>
+      <td class="c-num">464</td>
+      <td class="c-num">1.604</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Botella térmica: cuál comprar en Argentina [2026]</span><span class="guide-slug">botella-termica</span></td>
+      <td class="c-kw">botella termica</td>
+      <td class="c-num">51</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">9.900</td>
+      <td class="c-status"><span class="chip chip-nodata">Sin datos aun</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">3</td>
+      <td class="c-num">195</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Ducha eléctrica: cuál comprar en Argentina [2026]</span><span class="guide-slug">ducha-electrica</span></td>
+      <td class="c-kw">ducha electrica</td>
+      <td class="c-num">51</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">9.900</td>
+      <td class="c-status"><span class="chip chip-nodata">Sin datos aun</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">3</td>
+      <td class="c-num">195</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Termómetro digital: cuál comprar en Argentina [2026]</span><span class="guide-slug">termometro-digital</span></td>
+      <td class="c-kw">termometro digital</td>
+      <td class="c-num">51</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">9.900</td>
+      <td class="c-status"><span class="chip chip-top">Pos 6.6</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">464</td>
+      <td class="c-num">963</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Cámara de seguridad exterior: cuál comprar en Argentina [2026]</span><span class="guide-slug">camara-de-seguridad-exterior</span></td>
+      <td class="c-kw">camara de seguridad exterior</td>
+      <td class="c-num">38</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">8.100</td>
+      <td class="c-status"><span class="chip chip-top">Pos 10.0</span></td>
+      <td class="c-num c-real">2</td>
+      <td class="c-num">160</td>
+      <td class="c-num">534</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Pava Philips: ¿vale la pena pagar premium?</span><span class="guide-slug">pava-electrica-philips</span></td>
+      <td class="c-kw">pava electrica philips</td>
+      <td class="c-num">46</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">8.100</td>
+      <td class="c-status"><span class="chip chip-top">Pos 5.9</span></td>
+      <td class="c-num c-real">6</td>
+      <td class="c-num">534</td>
+      <td class="c-num">1.312</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Yara Lattafa: cuántos hay y diferencia con Elixir (2026)</span><span class="guide-slug">yara-lattafa-guia-completa</span></td>
+      <td class="c-kw">yara lattafa</td>
+      <td class="c-num">51</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">8.100</td>
+      <td class="c-status"><span class="chip chip-top">Pos 6.4</span></td>
+      <td class="c-num c-real">20</td>
+      <td class="c-num">380</td>
+      <td class="c-num">788</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Cafetera Dolce Gusto: cuánto cuesta y cuál comprar [2026]</span><span class="guide-slug">cafetera-dolce-gusto</span></td>
+      <td class="c-kw">cafetera dolce gusto</td>
+      <td class="c-num">46</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">8.100</td>
+      <td class="c-status"><span class="chip chip-top">Pos 9.9</span></td>
+      <td class="c-num c-real">3</td>
+      <td class="c-num">207</td>
+      <td class="c-num">534</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Microondas BGH: cuál comprar en Argentina [2026]</span><span class="guide-slug">microondas-bgh</span></td>
+      <td class="c-kw">microondas bgh</td>
+      <td class="c-num">50</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">6.600</td>
+      <td class="c-status"><span class="chip chip-top">Pos 6.2</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">310</td>
+      <td class="c-num">1.069</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Recetas argentinas para freidora de aire: 15 fáciles</span><span class="guide-slug">recetas-freidora-de-aire</span></td>
+      <td class="c-kw">recetas para freidora de aire</td>
+      <td class="c-num">33</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">6.600</td>
+      <td class="c-status"><span class="chip chip-top">Pos 9.1</span></td>
+      <td class="c-num c-real">3</td>
+      <td class="c-num">169</td>
+      <td class="c-num">435</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Lattafa Asad Intense vs Asad Bourbon vs Asad Negro: cuál es cuál y cuál comprar</span><span class="guide-slug">lattafa-asad-comparativa</span></td>
+      <td class="c-kw">lattafa asad</td>
+      <td class="c-num">50</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">6.600</td>
+      <td class="c-status"><span class="chip chip-top">Pos 7.4</span></td>
+      <td class="c-num c-real">2</td>
+      <td class="c-num">223</td>
+      <td class="c-num">642</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Máquina de afeitar: cuál comprar en Argentina [2026]</span><span class="guide-slug">maquina-de-afeitar</span></td>
+      <td class="c-kw">maquina de afeitar</td>
+      <td class="c-num">45</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">6.600</td>
+      <td class="c-status"><span class="chip chip-top">Pos 8.0</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">223</td>
+      <td class="c-num">642</td>
+    </tr>
+<tr class="is-staged">
+      <td class="c-guide"><span class="guide-title">Parrilla eléctrica: cuál comprar en Argentina [2026]</span><span class="guide-slug">parrilla-electrica</span></td>
+      <td class="c-kw">parrilla electrica</td>
+      <td class="c-num">50</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">6.600</td>
+      <td class="c-status"><span class="chip chip-staged">STAGED</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">2</td>
+      <td class="c-num">130</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Robot de cocina: cuál comprar en Argentina [2026]</span><span class="guide-slug">robot-de-cocina</span></td>
+      <td class="c-kw">robot de cocina</td>
+      <td class="c-num">45</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">5.400</td>
+      <td class="c-status"><span class="chip chip-top">Pos 7.3</span></td>
+      <td class="c-num c-real">10</td>
+      <td class="c-num">183</td>
+      <td class="c-num">525</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Auriculares gamer: cuál comprar en Argentina [2026]</span><span class="guide-slug">auriculares-gamer</span></td>
+      <td class="c-kw">auriculares gamer</td>
+      <td class="c-num">50</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">5.400</td>
+      <td class="c-status"><span class="chip chip-top">Pos 8.8</span></td>
+      <td class="c-num c-real">4</td>
+      <td class="c-num">138</td>
+      <td class="c-num">356</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Licuadora portátil: cuál comprar en Argentina [2026]</span><span class="guide-slug">licuadora-portatil</span></td>
+      <td class="c-kw">licuadora portatil</td>
+      <td class="c-num">50</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">5.400</td>
+      <td class="c-status"><span class="chip chip-top">Pos 7.4</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">183</td>
+      <td class="c-num">525</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Masajeador de espalda y lumbar: cuál sirve para tu dolor</span><span class="guide-slug">masajeador-espalda</span></td>
+      <td class="c-kw">masajeador de espalda</td>
+      <td class="c-num">45</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">5.400</td>
+      <td class="c-status"><span class="chip chip-top">Pos 9.3</span></td>
+      <td class="c-num c-real">7</td>
+      <td class="c-num">138</td>
+      <td class="c-num">356</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Pistola masajeadora: cuál comprar en Argentina (2026)</span><span class="guide-slug">pistola-masajeadora</span></td>
+      <td class="c-kw">pistola masajeadora</td>
+      <td class="c-num">50</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">5.400</td>
+      <td class="c-status"><span class="chip chip-top">Pos 7.8</span></td>
+      <td class="c-num c-real">1</td>
+      <td class="c-num">183</td>
+      <td class="c-num">525</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Freidoras de aire Peabody: análisis de los 4 modelos disponibles en Argentina</span><span class="guide-slug">peabody-freidoras-de-aire-review</span></td>
+      <td class="c-kw">freidora de aire peabody</td>
+      <td class="c-num">37</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">5.400</td>
+      <td class="c-status"><span class="chip chip-top">Pos 6.1</span></td>
+      <td class="c-num c-real">22</td>
+      <td class="c-num">253</td>
+      <td class="c-num">875</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Auriculares Sony en Argentina: la WH-CH520 y si te conviene</span><span class="guide-slug">auriculares-sony</span></td>
+      <td class="c-kw">auriculares sony</td>
+      <td class="c-num">50</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">5.400</td>
+      <td class="c-status"><span class="chip chip-nodata">Sin datos aun</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">2</td>
+      <td class="c-num">106</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Teclado gamer: cuál comprar en Argentina [2026]</span><span class="guide-slug">teclado-gamer</span></td>
+      <td class="c-kw">teclado gamer</td>
+      <td class="c-num">50</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">4.400</td>
+      <td class="c-status"><span class="chip chip-top">Pos 7.5</span></td>
+      <td class="c-num c-real">1</td>
+      <td class="c-num">149</td>
+      <td class="c-num">428</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Mouse gamer: cuál comprar en Argentina [2026]</span><span class="guide-slug">mouse-gamer</span></td>
+      <td class="c-kw">mouse gamer</td>
+      <td class="c-num">50</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">4.400</td>
+      <td class="c-status"><span class="chip chip-top">Pos 7.3</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">149</td>
+      <td class="c-num">428</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Joystick Xbox: cuál comprar en Argentina [2026]</span><span class="guide-slug">joystick-xbox</span></td>
+      <td class="c-kw">joystick xbox</td>
+      <td class="c-num">50</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">4.400</td>
+      <td class="c-status"><span class="chip chip-top">Pos 6.3</span></td>
+      <td class="c-num c-real">1</td>
+      <td class="c-num">206</td>
+      <td class="c-num">713</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Licuadora Philips: cuál comprar en Argentina [2026]</span><span class="guide-slug">licuadora-philips</span></td>
+      <td class="c-kw">licuadora philips</td>
+      <td class="c-num">50</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">4.400</td>
+      <td class="c-status"><span class="chip chip-top">Pos 9.1</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">113</td>
+      <td class="c-num">290</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Pava Atma: la mejor opción argentina calidad-precio</span><span class="guide-slug">pava-electrica-atma</span></td>
+      <td class="c-kw">pava electrica atma</td>
+      <td class="c-num">45</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">4.400</td>
+      <td class="c-status"><span class="chip chip-top">Pos 9.3</span></td>
+      <td class="c-num c-real">2</td>
+      <td class="c-num">113</td>
+      <td class="c-num">290</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Masajeador facial: cuáles funcionan y cuáles son puro marketing</span><span class="guide-slug">masajeador-facial</span></td>
+      <td class="c-kw">masajeador facial</td>
+      <td class="c-num">50</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">4.400</td>
+      <td class="c-status"><span class="chip chip-top">Pos 8.1</span></td>
+      <td class="c-num c-real">7</td>
+      <td class="c-num">149</td>
+      <td class="c-num">428</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Mejores masajeadores de pies con calor en Argentina (2026)</span><span class="guide-slug">masajeador-pies</span></td>
+      <td class="c-kw">masajeador de pies</td>
+      <td class="c-num">45</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">4.400</td>
+      <td class="c-status"><span class="chip chip-top">Pos 6.2</span></td>
+      <td class="c-num c-real">2</td>
+      <td class="c-num">206</td>
+      <td class="c-num">713</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Freidoras de aire Philips: análisis de los 5 modelos disponibles en Argentina</span><span class="guide-slug">philips-freidoras-de-aire-review</span></td>
+      <td class="c-kw">freidora de aire philips</td>
+      <td class="c-num">37</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">4.400</td>
+      <td class="c-status"><span class="chip chip-top">Pos 6.4</span></td>
+      <td class="c-num c-real">10</td>
+      <td class="c-num">206</td>
+      <td class="c-num">428</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Lattafa perfumes: guía completa de la marca árabe más vendida en Argentina</span><span class="guide-slug">lattafa-guia-marca</span></td>
+      <td class="c-kw">perfumes lattafa</td>
+      <td class="c-num">50</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">4.400</td>
+      <td class="c-status"><span class="chip chip-top">Pos 6.6</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">206</td>
+      <td class="c-num">428</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Cafetera Peabody: cuál comprar en Argentina [2026]</span><span class="guide-slug">cafetera-peabody</span></td>
+      <td class="c-kw">cafetera peabody</td>
+      <td class="c-num">50</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">4.400</td>
+      <td class="c-status"><span class="chip chip-top">Pos 9.5</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">113</td>
+      <td class="c-num">290</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Reloj Garmin: cuál comprar en Argentina [2026]</span><span class="guide-slug">reloj-garmin</span></td>
+      <td class="c-kw">reloj garmin</td>
+      <td class="c-num">50</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">4.400</td>
+      <td class="c-status"><span class="chip chip-nodata">Sin datos aun</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">1</td>
+      <td class="c-num">87</td>
+    </tr>
+<tr class="is-staged">
+      <td class="c-guide"><span class="guide-title">Procesadora de alimentos: cuál comprar en Argentina [2026]</span><span class="guide-slug">procesadora-de-alimentos</span></td>
+      <td class="c-kw">procesadora de alimentos</td>
+      <td class="c-num">45</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">4.400</td>
+      <td class="c-status"><span class="chip chip-staged">STAGED</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">1</td>
+      <td class="c-num">87</td>
+    </tr>
+<tr class="is-staged">
+      <td class="c-guide"><span class="guide-title">Alarma para casa: cuál comprar en Argentina [2026]</span><span class="guide-slug">alarma-para-casa</span></td>
+      <td class="c-kw">alarma para casa</td>
+      <td class="c-num">45</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">4.400</td>
+      <td class="c-status"><span class="chip chip-staged">STAGED</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">1</td>
+      <td class="c-num">87</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Monitor gamer: cuál comprar en Argentina [2026]</span><span class="guide-slug">monitor-gamer</span></td>
+      <td class="c-kw">monitor gamer</td>
+      <td class="c-num">50</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">3.600</td>
+      <td class="c-status"><span class="chip chip-top">Pos 7.6</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">122</td>
+      <td class="c-num">350</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Licuadora Oster: cuál comprar en Argentina [2026]</span><span class="guide-slug">licuadora-oster</span></td>
+      <td class="c-kw">licuadora oster</td>
+      <td class="c-num">50</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">3.600</td>
+      <td class="c-status"><span class="chip chip-top">Pos 5.6</span></td>
+      <td class="c-num c-real">1</td>
+      <td class="c-num">237</td>
+      <td class="c-num">583</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Pava eléctrica precio Argentina 2026: guía completa por rango</span><span class="guide-slug">pava-electrica-precio</span></td>
+      <td class="c-kw">pava electrica precio</td>
+      <td class="c-num">45</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">3.600</td>
+      <td class="c-status"><span class="chip chip-top">Pos 8.3</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">122</td>
+      <td class="c-num">350</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Masajeador Gadnic: cuál comprar en Argentina [2026]</span><span class="guide-slug">masajeador-gadnic</span></td>
+      <td class="c-kw">masajeador gadnic</td>
+      <td class="c-num">50</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">3.600</td>
+      <td class="c-status"><span class="chip chip-top">Pos 5.9</span></td>
+      <td class="c-num c-real">24</td>
+      <td class="c-num">237</td>
+      <td class="c-num">583</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Microondas Samsung en Argentina: el de grill y si te conviene</span><span class="guide-slug">microondas-samsung</span></td>
+      <td class="c-kw">microondas samsung</td>
+      <td class="c-num">50</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">3.600</td>
+      <td class="c-status"><span class="chip chip-nodata">Sin datos aun</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">1</td>
+      <td class="c-num">71</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Microondas Atma: cuál comprar en Argentina [2026]</span><span class="guide-slug">microondas-atma</span></td>
+      <td class="c-kw">microondas atma</td>
+      <td class="c-num">49</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">2.900</td>
+      <td class="c-status"><span class="chip chip-top">Pos 7.7</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">98</td>
+      <td class="c-num">282</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Horno eléctrico Atma: cuál comprar en Argentina [2026]</span><span class="guide-slug">horno-atma</span></td>
+      <td class="c-kw">horno electrico atma</td>
+      <td class="c-num">44</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">2.900</td>
+      <td class="c-status"><span class="chip chip-top">Pos 9.2</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">74</td>
+      <td class="c-num">191</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Joystick PC: cuál comprar en Argentina [2026]</span><span class="guide-slug">joystick-pc</span></td>
+      <td class="c-kw">joystick pc</td>
+      <td class="c-num">49</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">2.900</td>
+      <td class="c-status"><span class="chip chip-top">Pos 6.2</span></td>
+      <td class="c-num c-real">10</td>
+      <td class="c-num">136</td>
+      <td class="c-num">470</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Torre de sonido: cuál comprar en Argentina [2026]</span><span class="guide-slug">torre-de-sonido</span></td>
+      <td class="c-kw">torre de sonido</td>
+      <td class="c-num">44</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">2.900</td>
+      <td class="c-status"><span class="chip chip-top">Pos 6.7</span></td>
+      <td class="c-num c-real">11</td>
+      <td class="c-num">136</td>
+      <td class="c-num">282</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Parlante Stromberg: cuál comprar en Argentina [2026]</span><span class="guide-slug">parlante-stromberg</span></td>
+      <td class="c-kw">parlante stromberg</td>
+      <td class="c-num">49</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">2.900</td>
+      <td class="c-status"><span class="chip chip-top">Pos 6.9</span></td>
+      <td class="c-num c-real">6</td>
+      <td class="c-num">136</td>
+      <td class="c-num">282</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Estufa eléctrica de bajo consumo: cuál gasta menos [2026]</span><span class="guide-slug">estufa-electrica-bajo-consumo</span></td>
+      <td class="c-kw">estufa electrica bajo consumo</td>
+      <td class="c-num">36</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">2.900</td>
+      <td class="c-status"><span class="chip chip-top">Pos 8.9</span></td>
+      <td class="c-num c-real">22</td>
+      <td class="c-num">74</td>
+      <td class="c-num">191</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Sillón masajeador: cuál comprar en Argentina [2026]</span><span class="guide-slug">sillon-masajeador</span></td>
+      <td class="c-kw">sillon masajeador</td>
+      <td class="c-num">49</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">2.900</td>
+      <td class="c-status"><span class="chip chip-top">Pos 6.1</span></td>
+      <td class="c-num c-real">3</td>
+      <td class="c-num">136</td>
+      <td class="c-num">470</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Cámaras Ezviz en Argentina: cuál comprar y cuál conviene</span><span class="guide-slug">camara-ezviz</span></td>
+      <td class="c-kw">camara ezviz</td>
+      <td class="c-num">49</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">2.900</td>
+      <td class="c-status"><span class="chip chip-nodata">Sin datos aun</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">1</td>
+      <td class="c-num">57</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Auriculares Xiaomi en Argentina: los Redmi Buds y si valen la pena</span><span class="guide-slug">auriculares-xiaomi</span></td>
+      <td class="c-kw">auriculares xiaomi</td>
+      <td class="c-num">49</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">2.900</td>
+      <td class="c-status"><span class="chip chip-nodata">Sin datos aun</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">1</td>
+      <td class="c-num">57</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Robot aspiradora y trapeadora: cuál moja el piso de verdad [2026]</span><span class="guide-slug">mejores-robot-aspiradora-trapeadora</span></td>
+      <td class="c-kw">robot aspiradora trapeadora</td>
+      <td class="c-num">44</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">2.900</td>
+      <td class="c-status"><span class="chip chip-mid">Pos 11.8</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">43</td>
+      <td class="c-num">136</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Cafetera de filtro: las mejores de Argentina [2026]</span><span class="guide-slug">cafetera-de-filtro</span></td>
+      <td class="c-kw">cafetera de filtro</td>
+      <td class="c-num">44</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">2.900</td>
+      <td class="c-status"><span class="chip chip-top">Pos 5.9</span></td>
+      <td class="c-num c-real">32</td>
+      <td class="c-num">191</td>
+      <td class="c-num">470</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Cortadora de pelo: cuál comprar en Argentina [2026]</span><span class="guide-slug">cortadora-de-pelo</span></td>
+      <td class="c-kw">cortadora de pelo</td>
+      <td class="c-num">44</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">2.900</td>
+      <td class="c-status"><span class="chip chip-top">Pos 7.7</span></td>
+      <td class="c-num c-real">6</td>
+      <td class="c-num">98</td>
+      <td class="c-num">282</td>
+    </tr>
+<tr class="is-staged">
+      <td class="c-guide"><span class="guide-title">Cepillo de dientes eléctrico: cuál comprar en Argentina [2026]</span><span class="guide-slug">cepillo-de-dientes-electrico</span></td>
+      <td class="c-kw">cepillo de dientes electrico</td>
+      <td class="c-num">36</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">2.900</td>
+      <td class="c-status"><span class="chip chip-staged">STAGED</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">1</td>
+      <td class="c-num">57</td>
+    </tr>
+<tr class="is-staged">
+      <td class="c-guide"><span class="guide-title">Cerradura inteligente: cuál comprar en Argentina [2026]</span><span class="guide-slug">cerradura-inteligente</span></td>
+      <td class="c-kw">cerradura inteligente</td>
+      <td class="c-num">49</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">2.900</td>
+      <td class="c-status"><span class="chip chip-staged">STAGED</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">1</td>
+      <td class="c-num">57</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Proyector Astronauta: cuál comprar en Argentina y si vale la pena</span><span class="guide-slug">proyector-astronauta</span></td>
+      <td class="c-kw">proyector astronauta / galaxia</td>
+      <td class="c-num">36</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">2.570</td>
+      <td class="c-status"><span class="chip chip-nodata">Sin datos aun</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">1</td>
+      <td class="c-num">51</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Joystick para celular: cuál comprar en Argentina [2026]</span><span class="guide-slug">joystick-para-celular</span></td>
+      <td class="c-kw">joystick para celular</td>
+      <td class="c-num">44</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">2.400</td>
+      <td class="c-status"><span class="chip chip-top">Pos 9.6</span></td>
+      <td class="c-num c-real">2</td>
+      <td class="c-num">61</td>
+      <td class="c-num">158</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Pava Peabody: ¿vale la pena el control de temperatura digital?</span><span class="guide-slug">pava-electrica-peabody</span></td>
+      <td class="c-kw">pava electrica peabody</td>
+      <td class="c-num">44</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">2.400</td>
+      <td class="c-status"><span class="chip chip-top">Pos 7.6</span></td>
+      <td class="c-num c-real">8</td>
+      <td class="c-num">81</td>
+      <td class="c-num">234</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Freidoras de aire Oster en Argentina: Dual DiamondForce y Digital con Ventana</span><span class="guide-slug">oster-freidoras-de-aire-review</span></td>
+      <td class="c-kw">freidora de aire oster</td>
+      <td class="c-num">36</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">2.400</td>
+      <td class="c-status"><span class="chip chip-top">Pos 7.2</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">113</td>
+      <td class="c-num">234</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Licuadora de mano: cuál comprar en Argentina [2026]</span><span class="guide-slug">licuadora-de-mano</span></td>
+      <td class="c-kw">licuadora de mano</td>
+      <td class="c-num">43</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">1.900</td>
+      <td class="c-status"><span class="chip chip-top">Pos 6.8</span></td>
+      <td class="c-num c-real">2</td>
+      <td class="c-num">89</td>
+      <td class="c-num">185</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Pava Liliana: ¿cuál de las 4 comprar en 2026?</span><span class="guide-slug">pava-electrica-liliana</span></td>
+      <td class="c-kw">pava electrica liliana</td>
+      <td class="c-num">44</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">1.900</td>
+      <td class="c-status"><span class="chip chip-top">Pos 5.7</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">125</td>
+      <td class="c-num">308</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Cafetera de cápsulas: cuál comprar en Argentina [2026]</span><span class="guide-slug">cafetera-de-capsulas</span></td>
+      <td class="c-kw">cafetera de capsulas</td>
+      <td class="c-num">44</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">1.900</td>
+      <td class="c-status"><span class="chip chip-top">Pos 7.4</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">64</td>
+      <td class="c-num">185</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Cafetera Smartlife: opiniones y cuál comprar en Argentina [2026]</span><span class="guide-slug">cafetera-smartlife</span></td>
+      <td class="c-kw">cafetera smartlife</td>
+      <td class="c-num">49</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">1.900</td>
+      <td class="c-status"><span class="chip chip-top">Pos 6.2</span></td>
+      <td class="c-num c-real">18</td>
+      <td class="c-num">89</td>
+      <td class="c-num">308</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Masajeador eléctrico: tipos, usos y cuál comprar (2026)</span><span class="guide-slug">masajeador-electrico</span></td>
+      <td class="c-kw">masajeador electrico</td>
+      <td class="c-num">49</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">1.600</td>
+      <td class="c-status"><span class="chip chip-top">Pos 9.4</span></td>
+      <td class="c-num c-real">1</td>
+      <td class="c-num">41</td>
+      <td class="c-num">105</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Perfumes árabes para mujer: las 12 mejores fragancias 2026</span><span class="guide-slug">perfumes-arabes-mujer</span></td>
+      <td class="c-kw">perfumes arabes mujer</td>
+      <td class="c-num">44</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">1.600</td>
+      <td class="c-status"><span class="chip chip-top">Pos 9.1</span></td>
+      <td class="c-num c-real">127</td>
+      <td class="c-num">127</td>
+      <td class="c-num">127</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Roomba en Argentina: qué modelo conviene y cuál no</span><span class="guide-slug">robot-aspiradora-roomba</span></td>
+      <td class="c-kw">roomba</td>
+      <td class="c-num">59</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">1.600</td>
+      <td class="c-status"><span class="chip chip-mid">Pos 10.9</span></td>
+      <td class="c-num c-real">1</td>
+      <td class="c-num">32</td>
+      <td class="c-num">105</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Yogurtera Daewoo en Argentina: la Yoggy Pro y si vale la pena</span><span class="guide-slug">yogurtera-daewoo</span></td>
+      <td class="c-kw">yogurtera daewoo</td>
+      <td class="c-num">49</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">1.600</td>
+      <td class="c-status"><span class="chip chip-nodata">Sin datos aun</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">1</td>
+      <td class="c-num">32</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Depiladora eléctrica: cuál comprar en Argentina [2026]</span><span class="guide-slug">depiladora-electrica</span></td>
+      <td class="c-kw">depiladora electrica</td>
+      <td class="c-num">49</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">1.600</td>
+      <td class="c-status"><span class="chip chip-top">Pos 8.7</span></td>
+      <td class="c-num c-real">1</td>
+      <td class="c-num">54</td>
+      <td class="c-num">105</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Kit de cámaras de seguridad: cuál comprar en Argentina [2026]</span><span class="guide-slug">kit-camaras-seguridad</span></td>
+      <td class="c-kw">kit de camaras de seguridad</td>
+      <td class="c-num">36</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">1.300</td>
+      <td class="c-status"><span class="chip chip-mid">Pos 11.6</span></td>
+      <td class="c-num c-real">1</td>
+      <td class="c-num">19</td>
+      <td class="c-num">61</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Licuadora Atma: cuál comprar en Argentina [2026]</span><span class="guide-slug">licuadora-atma</span></td>
+      <td class="c-kw">licuadora atma</td>
+      <td class="c-num">49</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">1.300</td>
+      <td class="c-status"><span class="chip chip-top">Pos 8.3</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">44</td>
+      <td class="c-num">126</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Pava eléctrica en MercadoLibre: guía para no equivocarte</span><span class="guide-slug">pava-electrica-mercadolibre</span></td>
+      <td class="c-kw">pava electrica mercadolibre</td>
+      <td class="c-num">44</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">1.300</td>
+      <td class="c-status"><span class="chip chip-top">Pos 9.0</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">33</td>
+      <td class="c-num">86</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Cámaras TP-Link Tapo en Argentina: cuál comprar y cuál conviene</span><span class="guide-slug">camara-tplink-tapo</span></td>
+      <td class="c-kw">camara tp-link tapo</td>
+      <td class="c-num">44</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">1.020</td>
+      <td class="c-status"><span class="chip chip-nodata">Sin datos aun</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">1</td>
+      <td class="c-num">20</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Auriculares deportivos: cuál comprar en Argentina [2026]</span><span class="guide-slug">auriculares-deportivos</span></td>
+      <td class="c-kw">auriculares deportivos</td>
+      <td class="c-num">49</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">1.000</td>
+      <td class="c-status"><span class="chip chip-top">Pos 7.0</span></td>
+      <td class="c-num c-real">1</td>
+      <td class="c-num">47</td>
+      <td class="c-num">97</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Pava Oster: ¿vale pagar más por la marca?</span><span class="guide-slug">pava-electrica-oster</span></td>
+      <td class="c-kw">pava electrica oster</td>
+      <td class="c-num">44</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">1.000</td>
+      <td class="c-status"><span class="chip chip-top">Pos 8.2</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">34</td>
+      <td class="c-num">97</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Gadnic freidora de aire 6.5L: review y opiniones [2026]</span><span class="guide-slug">gadnic-freidora-review</span></td>
+      <td class="c-kw">freidora de aire gadnic</td>
+      <td class="c-num">36</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">1.000</td>
+      <td class="c-status"><span class="chip chip-top">Pos 7.7</span></td>
+      <td class="c-num c-real">3</td>
+      <td class="c-num">34</td>
+      <td class="c-num">97</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Robot aspiradora Samsung en Argentina: las 2 que se consiguen</span><span class="guide-slug">robot-aspiradora-samsung</span></td>
+      <td class="c-kw">robot aspiradora samsung</td>
+      <td class="c-num">44</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">1.000</td>
+      <td class="c-status"><span class="chip chip-top">Pos 9.0</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">26</td>
+      <td class="c-num">66</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Cafetera automática: cuál comprar en Argentina [2026]</span><span class="guide-slug">cafetera-automatica</span></td>
+      <td class="c-kw">cafetera automatica</td>
+      <td class="c-num">49</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">1.000</td>
+      <td class="c-status"><span class="chip chip-mid">Pos 12.4</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">15</td>
+      <td class="c-num">47</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Bombilla de mate: cuál comprar en Argentina [2026]</span><span class="guide-slug">bombilla-de-mate</span></td>
+      <td class="c-kw">bombilla de mate</td>
+      <td class="c-num">42</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">1.000</td>
+      <td class="c-status"><span class="chip chip-nodata">Sin datos aun</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">0</td>
+      <td class="c-num">20</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Kanji Home KJH-1700DC freidora de aire 8L: review Argentina 2026</span><span class="guide-slug">kanji-home-freidora-review</span></td>
+      <td class="c-kw">freidora de aire kanji home</td>
+      <td class="c-num">36</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">880</td>
+      <td class="c-status"><span class="chip chip-top">Pos 7.7</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">30</td>
+      <td class="c-num">86</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Suono Airfryer Digital 10L: review completa para Argentina 2026</span><span class="guide-slug">suono-airfryer-review</span></td>
+      <td class="c-kw">freidora de aire suono</td>
+      <td class="c-num">36</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">880</td>
+      <td class="c-status"><span class="chip chip-top">Pos 6.0</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">58</td>
+      <td class="c-num">143</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Robot aspiradora Atma: opiniones y los 3 modelos (2026)</span><span class="guide-slug">robot-aspiradora-atma</span></td>
+      <td class="c-kw">robot aspiradora atma</td>
+      <td class="c-num">44</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">880</td>
+      <td class="c-status"><span class="chip chip-top">Pos 6.9</span></td>
+      <td class="c-num c-real">3</td>
+      <td class="c-num">41</td>
+      <td class="c-num">86</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Cafetera Liliana: cuál comprar en Argentina [2026]</span><span class="guide-slug">cafetera-liliana</span></td>
+      <td class="c-kw">cafetera liliana</td>
+      <td class="c-num">49</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">880</td>
+      <td class="c-status"><span class="chip chip-top">Pos 6.0</span></td>
+      <td class="c-num c-real">1</td>
+      <td class="c-num">58</td>
+      <td class="c-num">143</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Pava eléctrica de vidrio: ¿cuál comprar en 2026?</span><span class="guide-slug">pava-electrica-vidrio</span></td>
+      <td class="c-kw">pava electrica de vidrio</td>
+      <td class="c-num">36</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">720</td>
+      <td class="c-status"><span class="chip chip-top">Pos 6.0</span></td>
+      <td class="c-num c-real">1</td>
+      <td class="c-num">47</td>
+      <td class="c-num">117</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Pava eléctrica acero inoxidable: cuál es la mejor (2026)</span><span class="guide-slug">pava-electrica-acero-inoxidable</span></td>
+      <td class="c-kw">pava electrica acero inoxidable</td>
+      <td class="c-num">36</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">720</td>
+      <td class="c-status"><span class="chip chip-top">Pos 7.4</span></td>
+      <td class="c-num c-real">9</td>
+      <td class="c-num">24</td>
+      <td class="c-num">70</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Microondas LG en Argentina: el Smart Inverter y si vale la pena</span><span class="guide-slug">microondas-lg</span></td>
+      <td class="c-kw">microondas lg</td>
+      <td class="c-num">48</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">720</td>
+      <td class="c-status"><span class="chip chip-nodata">Sin datos aun</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">1</td>
+      <td class="c-num">14</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Ninja Crispi 5.2L: review completa de la freidora de aire [2026]</span><span class="guide-slug">ninja-crispi-review</span></td>
+      <td class="c-kw">ninja crispi</td>
+      <td class="c-num">49</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">590</td>
+      <td class="c-status"><span class="chip chip-top">Pos 9.0</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">15</td>
+      <td class="c-num">39</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Masajeador de espalda y cuello: qué asiento conviene</span><span class="guide-slug">masajeador-espalda-cuello</span></td>
+      <td class="c-kw">masajeador de espalda y cuello</td>
+      <td class="c-num">36</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">390</td>
+      <td class="c-status"><span class="chip chip-top">Pos 6.8</span></td>
+      <td class="c-num c-real">1</td>
+      <td class="c-num">18</td>
+      <td class="c-num">38</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Accesorios para freidora de aire: qué necesitás y cuáles valen la pena</span><span class="guide-slug">accesorios-para-freidora-de-aire</span></td>
+      <td class="c-kw">accesorios para freidora de aire</td>
+      <td class="c-num">36</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">390</td>
+      <td class="c-status"><span class="chip chip-top">Pos 8.2</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">13</td>
+      <td class="c-num">38</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Perfumes árabes originales: cómo identificarlos antes de comprar</span><span class="guide-slug">perfumes-arabes-originales</span></td>
+      <td class="c-kw">perfumes arabes originales</td>
+      <td class="c-num">44</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">390</td>
+      <td class="c-status"><span class="chip chip-top">Pos 7.3</span></td>
+      <td class="c-num c-real">2</td>
+      <td class="c-num">13</td>
+      <td class="c-num">38</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Robot aspiradora Xiaomi [2026]: toda la línea S40, X20 y S20 comparada</span><span class="guide-slug">robot-aspiradora-xiaomi</span></td>
+      <td class="c-kw">robot aspiradora xiaomi</td>
+      <td class="c-num">44</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">390</td>
+      <td class="c-status"><span class="chip chip-top">Pos 8.2</span></td>
+      <td class="c-num c-real">12</td>
+      <td class="c-num">13</td>
+      <td class="c-num">38</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Kit gamer: cuál comprar en Argentina [2026]</span><span class="guide-slug">kit-gamer</span></td>
+      <td class="c-kw">kit gamer</td>
+      <td class="c-num">48</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">320</td>
+      <td class="c-status"><span class="chip chip-top">Pos 7.2</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">15</td>
+      <td class="c-num">31</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Freidora de aire doble canasta: ¿vale la pena? (2026)</span><span class="guide-slug">mejores-freidoras-de-aire-doble-canasta</span></td>
+      <td class="c-kw">freidora de aire doble canasta</td>
+      <td class="c-num">36</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">320</td>
+      <td class="c-status"><span class="chip chip-top">Pos 6.7</span></td>
+      <td class="c-num c-real">6</td>
+      <td class="c-num">15</td>
+      <td class="c-num">31</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Cómo usar una freidora de aire: guía completa para principiantes</span><span class="guide-slug">como-usar-una-freidora-de-aire</span></td>
+      <td class="c-kw">como usar una freidora de aire</td>
+      <td class="c-num">14</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">320</td>
+      <td class="c-status"><span class="chip chip-top">Pos 7.6</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">11</td>
+      <td class="c-num">31</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Cuánto consume una freidora de aire: kWh y costo mensual</span><span class="guide-slug">cuanto-consume-freidora-de-aire</span></td>
+      <td class="c-kw">cuanto consume una freidora de aire</td>
+      <td class="c-num">20</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">320</td>
+      <td class="c-status"><span class="chip chip-top">Pos 7.5</span></td>
+      <td class="c-num c-real">3</td>
+      <td class="c-num">11</td>
+      <td class="c-num">31</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Los perfumes árabes más vendidos en Argentina</span><span class="guide-slug">perfumes-arabes-mas-vendidos-argentina</span></td>
+      <td class="c-kw">perfumes arabes mas vendidos</td>
+      <td class="c-num">35</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">320</td>
+      <td class="c-status"><span class="chip chip-top">Pos 5.9</span></td>
+      <td class="c-num c-real">97</td>
+      <td class="c-num">97</td>
+      <td class="c-num">97</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Auriculares profesionales de estudio: cuál comprar [2026]</span><span class="guide-slug">auriculares-profesionales</span></td>
+      <td class="c-kw">auriculares profesionales</td>
+      <td class="c-num">49</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">260</td>
+      <td class="c-status"><span class="chip chip-top">Pos 6.1</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">12</td>
+      <td class="c-num">42</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">PowerXL AF-E4001-AR freidora de aire 3.8L: review para Argentina 2026</span><span class="guide-slug">powerxl-freidora-review</span></td>
+      <td class="c-kw">freidora de aire powerxl</td>
+      <td class="c-num">36</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">260</td>
+      <td class="c-status"><span class="chip chip-mid">Pos 10.6</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">5</td>
+      <td class="c-num">17</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Perfumes árabes precio 2026: comparativa por marca Argentina</span><span class="guide-slug">perfumes-arabes-precio-argentina</span></td>
+      <td class="c-kw">perfumes arabes precio</td>
+      <td class="c-num">42</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">260</td>
+      <td class="c-status"><span class="chip chip-top">Pos 7.2</span></td>
+      <td class="c-num c-real">5</td>
+      <td class="c-num">12</td>
+      <td class="c-num">25</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Perfumes árabes y sus dupes: qué fragancia cara imita cada uno</span><span class="guide-slug">perfumes-arabes-dupes</span></td>
+      <td class="c-kw">dupes de perfumes arabes</td>
+      <td class="c-num">19</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">260</td>
+      <td class="c-status"><span class="chip chip-top">Pos 7.4</span></td>
+      <td class="c-num c-real">100</td>
+      <td class="c-num">100</td>
+      <td class="c-num">100</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Freidoras con función grill: ¿Vale la pena el grill integrado?</span><span class="guide-slug">freidoras-de-aire-con-grill-argentina</span></td>
+      <td class="c-kw">freidora de aire con grill</td>
+      <td class="c-num">36</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">170</td>
+      <td class="c-status"><span class="chip chip-top">Pos 7.2</span></td>
+      <td class="c-num c-real">1</td>
+      <td class="c-num">8</td>
+      <td class="c-num">17</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Perfumes árabes amaderados: top 10 con oud y madera</span><span class="guide-slug">perfumes-arabes-amaderados</span></td>
+      <td class="c-kw">perfumes arabes amaderados</td>
+      <td class="c-num">41</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">170</td>
+      <td class="c-status"><span class="chip chip-top">Pos 7.4</span></td>
+      <td class="c-num c-real">22</td>
+      <td class="c-num">22</td>
+      <td class="c-num">22</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Robot aspiradora precio en Argentina [2026]: cuánto sale y qué te da cada rango</span><span class="guide-slug">robot-aspiradora-precio-argentina</span></td>
+      <td class="c-kw">robot aspiradora precio</td>
+      <td class="c-num">44</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">170</td>
+      <td class="c-status"><span class="chip chip-top">Pos 8.1</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">6</td>
+      <td class="c-num">17</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Robot aspiradora Gadnic: opiniones y review de la línea</span><span class="guide-slug">robot-aspiradora-gadnic</span></td>
+      <td class="c-kw">robot aspiradora gadnic</td>
+      <td class="c-num">44</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">170</td>
+      <td class="c-status"><span class="chip chip-top">Pos 8.9</span></td>
+      <td class="c-num c-real">10</td>
+      <td class="c-num">10</td>
+      <td class="c-num">11</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Pava eléctrica con control de temperatura: ¿cuál comprar en 2026?</span><span class="guide-slug">pava-electrica-control-temperatura</span></td>
+      <td class="c-kw">pava electrica con control de temperatura</td>
+      <td class="c-num">36</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">90</td>
+      <td class="c-status"><span class="chip chip-top">Pos 7.1</span></td>
+      <td class="c-num c-real">5</td>
+      <td class="c-num">5</td>
+      <td class="c-num">9</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Freidoras de aire económicas: ¿Se puede gastar poco y no arrepentirse?</span><span class="guide-slug">mejores-freidoras-de-aire-economicas-argentina</span></td>
+      <td class="c-kw">freidora de aire economica</td>
+      <td class="c-num">36</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">70</td>
+      <td class="c-status"><span class="chip chip-mid">Pos 15.4</span></td>
+      <td class="c-num c-real">1</td>
+      <td class="c-num">1</td>
+      <td class="c-num">2</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Qué cafetera comprar: express, cápsulas o filtro [2026]</span><span class="guide-slug">que-cafetera-comprar</span></td>
+      <td class="c-kw">que cafetera comprar</td>
+      <td class="c-num">44</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">70</td>
+      <td class="c-status"><span class="chip chip-top">Pos 8.3</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">2</td>
+      <td class="c-num">7</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Dónde comprar perfumes árabes en Argentina: opciones seguras y precios reales</span><span class="guide-slug">donde-comprar-perfumes-arabes-argentina</span></td>
+      <td class="c-kw">donde comprar perfumes arabes</td>
+      <td class="c-num">33</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">50</td>
+      <td class="c-status"><span class="chip chip-top">Pos 7.9</span></td>
+      <td class="c-num c-real">3</td>
+      <td class="c-num">3</td>
+      <td class="c-num">5</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Cómo funciona un robot aspiradora: la guía completa [2026]</span><span class="guide-slug">como-funciona-robot-aspiradora</span></td>
+      <td class="c-kw">como funciona un robot aspiradora</td>
+      <td class="c-num">14</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">50</td>
+      <td class="c-status"><span class="chip chip-top">Pos 8.5</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">2</td>
+      <td class="c-num">5</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Mejores Peluches de Personajes en Argentina: Bluey, Monster High y Más [2026]</span><span class="guide-slug">mejores-peluches-personajes-argentina</span></td>
+      <td class="c-kw">peluches de personajes</td>
+      <td class="c-num">28</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">50</td>
+      <td class="c-status"><span class="chip chip-top">Pos 6.9</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">2</td>
+      <td class="c-num">5</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Pava eléctrica pequeña: ¿por qué casi no existen en Argentina?</span><span class="guide-slug">pava-electrica-pequena</span></td>
+      <td class="c-kw">pava electrica pequeña</td>
+      <td class="c-num">41</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">40</td>
+      <td class="c-status"><span class="chip chip-top">Pos 8.0</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">1</td>
+      <td class="c-num">4</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Horno eléctrico vs microondas: cuál conviene [2026]</span><span class="guide-slug">horno-electrico-vs-microondas</span></td>
+      <td class="c-kw">horno electrico vs microondas</td>
+      <td class="c-num">28</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">20</td>
+      <td class="c-status"><span class="chip chip-top">Pos 8.2</span></td>
+      <td class="c-num c-real">1</td>
+      <td class="c-num">1</td>
+      <td class="c-num">2</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Desventajas de la freidora de aire: lo que nadie te dice antes de comprar</span><span class="guide-slug">freidora-de-aire-desventajas</span></td>
+      <td class="c-kw">desventajas de la freidora de aire</td>
+      <td class="c-num">11</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">20</td>
+      <td class="c-status"><span class="chip chip-top">Pos 9.8</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">1</td>
+      <td class="c-num">1</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Dónde comprar un masajeador en Argentina</span><span class="guide-slug">masajeador-donde-comprar-argentina</span></td>
+      <td class="c-kw">donde comprar masajeador</td>
+      <td class="c-num">44</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">10</td>
+      <td class="c-status"><span class="chip chip-top">Pos 9.3</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">0</td>
+      <td class="c-num">1</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Mejores masajeadores en Argentina</span><span class="guide-slug">mejores-masajeadores-argentina</span></td>
+      <td class="c-kw">mejores masajeadores</td>
+      <td class="c-num">49</td>
+      <td class="c-cat"><span class="chip cat-generico">Genérico (alta comp.)</span></td>
+      <td class="c-num">10</td>
+      <td class="c-status"><span class="chip chip-top">Pos 6.4</span></td>
+      <td class="c-num c-real">17</td>
+      <td class="c-num">17</td>
+      <td class="c-num">17</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Freidoras de aire gran capacidad (8-10L): Para cocinar en volumen</span><span class="guide-slug">freidoras-de-aire-gran-capacidad</span></td>
+      <td class="c-kw">freidora de aire gran capacidad</td>
+      <td class="c-num">36</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">10</td>
+      <td class="c-status"><span class="chip chip-top">Pos 9.7</span></td>
+      <td class="c-num c-real">1</td>
+      <td class="c-num">1</td>
+      <td class="c-num">1</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Freidora de aire vs horno: cuál conviene según tu cocina</span><span class="guide-slug">freidora-de-aire-vs-horno</span></td>
+      <td class="c-kw">freidora de aire vs horno</td>
+      <td class="c-num">36</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">10</td>
+      <td class="c-status"><span class="chip chip-top">Pos 6.2</span></td>
+      <td class="c-num c-real">1</td>
+      <td class="c-num">1</td>
+      <td class="c-num">2</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">¿Vale la pena comprar una freidora de aire? Respuesta honesta</span><span class="guide-slug">vale-la-pena-comprar-freidora-de-aire</span></td>
+      <td class="c-kw">vale la pena la freidora de aire</td>
+      <td class="c-num">36</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">10</td>
+      <td class="c-status"><span class="chip chip-mid">Pos 12.8</span></td>
+      <td class="c-num c-real">1</td>
+      <td class="c-num">1</td>
+      <td class="c-num">1</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Dónde comprar perfumes árabes en Buenos Aires: opciones físicas y online en CABA y GBA</span><span class="guide-slug">donde-comprar-perfumes-arabes-buenos-aires</span></td>
+      <td class="c-kw">donde comprar perfumes arabes en buenos aires</td>
+      <td class="c-num">31</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">10</td>
+      <td class="c-status"><span class="chip chip-top">Pos 7.0</span></td>
+      <td class="c-num c-real">17</td>
+      <td class="c-num">17</td>
+      <td class="c-num">17</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">HY300 vs HY320: cuál proyector conviene comprar en Argentina</span><span class="guide-slug">hy300-vs-hy320</span></td>
+      <td class="c-kw">hy300 vs hy320</td>
+      <td class="c-num">44</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">10</td>
+      <td class="c-status"><span class="chip chip-top">Pos 6.0</span></td>
+      <td class="c-num c-real">1</td>
+      <td class="c-num">1</td>
+      <td class="c-num">2</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Liliana Mateando vs Peabody Digital: ¿cuál pava eléctrica comprar?</span><span class="guide-slug">liliana-vs-peabody-pava-electrica</span></td>
+      <td class="c-kw">liliana vs peabody pava electrica</td>
+      <td class="c-num">4</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">0</td>
+      <td class="c-status"><span class="chip chip-top">Pos 3.4</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">0</td>
+      <td class="c-num">0</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Atma vs Peabody: ¿Cuál freidora de aire elegir en 2026?</span><span class="guide-slug">atma-vs-peabody-freidora-de-aire</span></td>
+      <td class="c-kw">atma vs peabody freidora de aire</td>
+      <td class="c-num">4</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">0</td>
+      <td class="c-status"><span class="chip chip-top">Pos 5.7</span></td>
+      <td class="c-num c-real">13</td>
+      <td class="c-num">13</td>
+      <td class="c-num">13</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Ninja vs Philips: Freidoras premium importadas, ¿cuál elegiría?</span><span class="guide-slug">ninja-vs-philips-freidora-de-aire</span></td>
+      <td class="c-kw">ninja vs philips freidora de aire</td>
+      <td class="c-num">4</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">0</td>
+      <td class="c-status"><span class="chip chip-top">Pos 6.7</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">0</td>
+      <td class="c-num">0</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Perfumes árabes por color del envase: rosa, dorado, azul, marrón y más</span><span class="guide-slug">perfumes-arabes-por-color</span></td>
+      <td class="c-kw">perfumes arabes por color</td>
+      <td class="c-num">4</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">0</td>
+      <td class="c-status"><span class="chip chip-top">Pos 8.2</span></td>
+      <td class="c-num c-real">5</td>
+      <td class="c-num">5</td>
+      <td class="c-num">5</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Robot aspiradora y trapeadora con mapeo láser en Argentina [2026]: cuáles valen la pena</span><span class="guide-slug">robot-aspiradora-con-mapeo-laser</span></td>
+      <td class="c-kw">robot aspiradora con mapeo laser</td>
+      <td class="c-num">4</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">0</td>
+      <td class="c-status"><span class="chip chip-top">Pos 9.5</span></td>
+      <td class="c-num c-real">0</td>
+      <td class="c-num">0</td>
+      <td class="c-num">0</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Aspiradora robot Gadnic vs Xiaomi: cuál te conviene [2026]</span><span class="guide-slug">aspiradora-robot-gadnic-vs-xiaomi</span></td>
+      <td class="c-kw">gadnic vs xiaomi robot aspiradora</td>
+      <td class="c-num">4</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">0</td>
+      <td class="c-status"><span class="chip chip-top">Pos 4.3</span></td>
+      <td class="c-num c-real">22</td>
+      <td class="c-num">22</td>
+      <td class="c-num">22</td>
+    </tr>
+<tr class="">
+      <td class="c-guide"><span class="guide-title">Día del Niño Argentina: qué regalar según la edad [2026]</span><span class="guide-slug">dia-del-nino-argentina</span></td>
+      <td class="c-kw">regalos dia del niño</td>
+      <td class="c-num">4</td>
+      <td class="c-cat"><span class="chip cat-cola">Cola/marca (viable)</span></td>
+      <td class="c-num">0</td>
+      <td class="c-status"><span class="chip chip-top">Pos 5.7</span></td>
+      <td class="c-num c-real">6</td>
+      <td class="c-num">6</td>
+      <td class="c-num">6</td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+<p class="table-note">Volumen y dificultad son de la keyword principal de cada guía únicamente — no incluye la cola larga (FAQ, variantes) que cada guía también captura. Filas en gris claro son STAGED, todavía no publicadas.</p>
+
+<div class="caveats">
+  <h2>Caveats</h2>
+  <ul>
+    <li><strong>El bruto sobreestima porque mezcla dos competencias muy distintas.</strong> "Realista" y "techo" se calculan proyectando la posición REAL promedio de cada guía. Ese promedio lo levantan queries de cola larga fáciles, pero el volumen que se usa para plata es el de la keyword corta y genérica — mucho más disputada. Por eso el desglose por categoría de arriba (genérico vs. cola/marca) es el número que hay que mirar, no el bruto.</li>
+    <li><strong>Con DA1 y sin backlinks, el bloque "genérico" (53.758 realista / 136.099 techo) es aspiracional</strong>, no algo que el ritmo de contenido actual vaya a mover. Compite directo contra Mercado Libre, Amazon y Falabella en términos de 2-3 palabras. Necesita autoridad real construida, no más optimización on-page.</li>
+    <li><strong>El bloque "cola/marca" (10.296 realista / 29.387 techo) es el número creíble hoy</strong>, porque es esencialmente una extensión de lo que ya está pasando: 139 de 160 guías publicadas ya rankean top 10 en su mezcla real de queries, compitiendo contra contenido genérico, no contra autoridad alta.</li>
+    <li><strong>Es tráfico, no ventas</strong> — falta CTR de compra y margen por producto.</li>
+    <li><strong>Solapamiento real entre pilares y satélites de marca.</strong> "robot aspiradora", "mejor aspiradora robot" y las variantes por marca (Atma, Samsung, Xiaomi) compiten en gran medida por el mismo tráfico. Mismo patrón en microondas, cafeteras, pavas eléctricas, masajeadores y perfumes árabes. El total de volumen sumado es una cota superior nominal, no demanda neta.</li>
+    <li><strong>Sin cruce de control de Ubersuggest esta corrida</strong> (llegó a su límite diario de 100 reportes) y sin dificultad SEO orgánica real — el <code>competition_index</code> de Keyword Planner es competencia de anuncios pagos, no de ranking orgánico, y salió saturado para casi todo el listado.</li>
+    <li><strong>"Realista" y "techo" son un piso conservador atado a la posición actual</strong>, no una garantía. Las guías con pocas impresiones reales tienen el mismo problema de cobertura de datos de Search Console que cualquier keyword de cola larga: el umbral de privacidad de Google puede estar ocultando volumen real.</li>
+  </ul>
+</div>
