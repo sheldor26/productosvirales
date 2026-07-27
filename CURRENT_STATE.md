@@ -1,7 +1,22 @@
 # Estado actual
 
 > Snapshot del proyecto. Se actualiza al final de cada sesión.
-> Última actualización: 2026-07-27 (checklist SEO semanal aplicado con trío auditor a 10/10 + `sitemapLastmod` nuevo — ver sesión de más abajo).
+> Última actualización: 2026-07-27 (ranking de `mejores-perfumes-arabes-hombre` completado a 15 productos reales + revisión de reporte GSC "Product snippets" — ver sesión de más abajo).
+
+## Sesión 27-jul (2) — Completa el ranking de `mejores-perfumes-arabes-hombre` a 15 productos reales + revisión de reporte GSC "Product snippets"
+
+Continuación de la sesión de la mañana (checklist SEO semanal), que había dejado anotada como pendiente la inconsistencia "15 mejores" (título/H1) vs. 13 productos rankeados en `mejores-perfumes-arabes-hombre`. Juan pidió resolverla.
+
+1. **Decisión con Juan:** sumar 2 productos reales en vez de bajar el número a 13 en el título, ya que la guía prometía 15 desde el arranque.
+2. **El relleno "Del 14 al 15" ya existente era el problema real, no solo el conteo:** usaba dos perfumes genéricos/dupe sin marca (imitaciones de Asad Bourbon y Asad Negro) en formato compacto sin reseña propia — no cumplía el estándar de las otras 13 entradas ni la promesa de "los 15 mejores".
+3. **Research de candidatos antes de elegir** (a pedido explícito de Juan: "hacé investigación de qué perfumes nos convendría agregar que puedan traer tráfico, clicks, conversión"): se cruzó volumen de búsqueda en Argentina (Keyword Planner de Google Ads + Ubersuggest) y stock verificado en vivo (Bright Data) para 4 candidatos ya presentes en el catálogo.
+   - **Lattafa Emeer descartado:** 0 búsquedas/mes tanto en Ubersuggest (global) como en Keyword Planner (Argentina). Se confirmó que es un lanzamiento de 2024 (Fragrantica + lattafa.com oficial), o sea que no es tan nuevo que la demanda no haya tenido tiempo de aparecer — simplemente no genera búsquedas medibles pese a ~2 años en el mercado.
+   - **Al Wataniah Bareeq Al Dhahab descartado:** tenía volumen decente (320/mes AR) pero la ficha en vivo dice "Este producto no está disponible por el momento" pese a figurar `priceStatus: "fresh"` en el catálogo (dato desactualizado desde el 17-jul).
+   - **Rasasi Hawas Black (#14) y Lattafa Maahir Legacy (#15) elegidos:** demanda real en Argentina (~320-390/mes cada uno), stock confirmado en vivo con múltiples vendedores.
+4. **Cambio aplicado en `src/data/guides.ts`:** reemplazado el bloque "Del 14 al 15" por dos entradas H3 numeradas completas, mismo formato que las otras 13 (descripción propia + campo `ranking`). Se sacó también el párrafo de cierre que recomendaba el Al Wataniah como "fuera del top 15" (ya no aplica, y el producto está sin stock).
+5. **Verificación:** `npm run lint`, `npm run build`, `npm run guides:check` en verde. Render confirmado en dev server temporal: precio, rating y botón de compra correctos en las 2 entradas nuevas, igual que el resto del ranking.
+6. **Commiteado y pusheado**, PR [#37](https://github.com/sheldor26/productosvirales/pull/37) mergeado a master (`0a98b6d`).
+7. **Reporte de Google Search Console "Product snippets" (xlsx que pasó Juan) revisado de paso, no solicitado como tarea aparte:** 0 issues críticos, "Valid" creciendo sano (77→368 desde abril). Las 2 alertas no críticas (`aggregateRating`/`review` faltante en 5 items, con URLs concretas que Juan compartió por captura) se investigaron una por una contra el catálogo real: las 5 son publicaciones genuinamente sin reseñas todavía (Cafetera Liliana Prosteam AC987, Cafetera Atma CA8131, Cafetera Electrolux ECM25, Energy Beauty Bar listado activo, Álbum Panini Mundial 2026) — el propio contenido de cada ficha/guía ya lo dice explícito ("publicación nueva sin calificaciones"). Es la regla de honestidad del sitio funcionando como corresponde (nunca inventar rating), no un bug de renderizado. **Ojo, corrección propia en el camino:** un primer chequeo con `awk`/rango de líneas mal acotado hizo pensar por un momento que el álbum Panini sí tenía rating real y el renderer lo estaba perdiendo (posible bug) — al acotar bien el bloque del objeto se confirmó que no tiene el campo en absoluto. Nada que corregir en código; se resuelve solo cuando esas publicaciones acumulen reseñas reales en MercadoLibre.
 
 ## Sesión 27-jul — Checklist SEO semanal (reporte automático) aplicado + trío auditor 10/10 + `sitemapLastmod`
 
