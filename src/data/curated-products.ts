@@ -29392,6 +29392,512 @@ La Oster AF40W es una airfryer compacta y práctica, con la ventana como su mejo
     reviewsSampledAt: "2026-06-16",
   },
   {
+    id: 'MLA41811351',
+    title: "Freidora De Aire Manual 4lt Oster Diamondforce Ckstaf401mdf Color Negro",
+    seoTitle: "Freidora de Aire Oster Manual 4L CKSTAF401MDF: ¿vale la pena?",
+    metaDescription: "Freidora de aire Oster manual de 4 litros, controles físicos sin pantalla táctil. 4.8★ con más de 630 opiniones. Precio y contras reales.",
+    brand: "Oster",
+    price: 101150,
+    priceUpdated: "2026-07-27",
+    priceLastChecked: "2026-07-27",
+    priceStatus: "fresh",
+    originalPrice: 119000,
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_Q_NP_666059-MLA91053640442_092025-F.webp',
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_666059-MLA91053640442_092025-F.webp",
+      "https://http2.mlstatic.com/D_Q_NP_688178-MLA91053680268_092025-F.webp",
+      ],
+    category: 'Cocina',
+    categorySlug: 'cocina',
+    permalink: 'https://www.mercadolibre.com.ar/freidora-de-aire-manual-4lt-oster-diamondforce-ckstaf401mdf-color-negro/p/MLA41811351',
+    affiliateUrl: 'https://meli.la/1GRmjot',
+    condition: 'new',
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 633,
+    pastelColor: 'var(--pastel-amber)',
+    description: "Freidora de aire Oster manual de 4 litros con recubrimiento DiamondForce, control 100% a perilla (sin pantalla táctil), pensada para 1-2 personas.",
+    pros: [
+      "Control 100% manual con perillas: sin pantalla táctil que se pueda trabar",
+      "633 opiniones con 4.8 estrellas, la base de reseñas más grande de este grupo",
+      "Recubrimiento antiadherente DiamondForce",
+      "Precio de entrada dentro de la línea DiamondForce de Oster",
+      "12 meses de garantía de fábrica",
+    ],
+    cons: [
+      "Los mismos compradores recomiendan 6-7 litros si cocinás para más de 2 personas; 4L se queda corta para familias",
+      "Un comprador señala que el plástico exterior 'se ve medio flojo' en algunas partes pese a la buena calidad general",
+      "Sin pantalla ni programas preseteados: todo se regula a mano con las perillas",
+    ],
+    verdict: "Es la ficha con más historial de reviews de este grupo (633, 4.8★) y controla todo de forma manual con perillas de tiempo y temperatura, sin pantalla táctil que se pueda trabar. El precio es de entrada dentro de la línea DiamondForce de Oster. Los mismos compradores marcan que 4 litros rinde bien para 1-2 personas, pero recomiendan 6-7L si cocinás para una familia.",
+    articleBody: `La Oster CKSTAF401MDF es una freidora de aire manual de 4 litros, con recubrimiento antiadherente DiamondForce y controles físicos: perillas de tiempo y temperatura, sin pantalla táctil. Tiene 4.8 de promedio sobre 633 calificaciones, la base de reseñas más grande de este grupo de fichas.
+
+## Capacidad real: para cuántas personas rinde
+
+4 litros es una capacidad chica dentro del catálogo de freidoras de aire. Los propios compradores lo confirman: uno de ellos, tras probarla, opina que "el tamaño ideal está en los 6-7 litros de capacidad" y que menos "puede ser una pérdida de dinero". Dicho por alguien que la compró y la usa, vale como advertencia honesta: si cocinás para una familia de 4 o más, esta freidora te va a quedar chica. Para 1-2 personas, en cambio, otro comprador la describe como de "tamaño justo".
+
+## Control manual: cómo funciona sin pantalla táctil
+
+No tiene pantalla digital ni programas preseteados. Se maneja con dos perillas: una para el tiempo, otra para la temperatura, regulable entre 80°C y 200°C. Para quien prefiere controles físicos por sobre una pantalla que se puede trabar o ensuciar, es un punto a favor explícito: un comprador dice textualmente que la eligió "porque es de control manual no digital".
+
+## Recubrimiento DiamondForce y limpieza
+
+El interior lleva el recubrimiento antiadherente propio de Oster, pensado para que la comida no se pegue y la limpieza sea más simple. Un comprador destaca que "la rejilla separadora permite que los alimentos suelten su aceite", lo que ayuda a que salga menos grasosa.
+
+## Qué dicen los compradores
+
+Con 633 opiniones y 4.8 estrellas de promedio, es la ficha con más historial de este grupo. Las reseñas describen el producto como silencioso, sin olores fuertes y fácil de limpiar. El punto flojo que se repite es de materiales: un comprador señala que "el plástico del exterior, si bien es de buena calidad, en algunas partes se ve medio flojo".
+
+## Para quién conviene
+
+Conviene para 1-2 personas que buscan una freidora de aire simple, con controles físicos y sin depender de una pantalla táctil. No conviene si cocinás para una familia grande: ahí los propios compradores recomiendan pasar a 6-7 litros.
+
+## En resumen
+
+La Oster CKSTAF401MDF cumple bien lo básico —freír con aire caliente, controles manuales simples— con el respaldo de ser la ficha más reseñada de este grupo. Tené en cuenta que 4 litros es para pocas personas, no para una familia.`,
+    specs: [
+      { label: "Marca", value: "Oster" },
+      { label: "Modelo", value: "CKSTAF401MDF-052" },
+      { label: "Capacidad", value: "4 L" },
+      { label: "Potencia", value: "1.300 W" },
+      { label: "Control", value: "Manual (perillas), sin pantalla táctil" },
+      { label: "Temperatura", value: "80°C a 200°C" },
+      { label: "Funciones", value: "Freír, asar, recalentar, deshidratar" },
+      { label: "Cantidad de canastos", value: "1" },
+      { label: "Ventana transparente", value: "No" },
+      { label: "Recubrimiento", value: "Antiadherente DiamondForce" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Dimensiones", value: "29,6 cm alto x 29,3 cm ancho x 36,2 cm largo" },
+      { label: "Peso", value: "3,3 kg" },
+      { label: "Garantía", value: "12 meses de fábrica" },
+    ],
+    faq: [
+      { question: "¿Tiene pantalla táctil?", answer: "No, es control 100% manual con dos perillas: una de tiempo y otra de temperatura." },
+      { question: "¿Alcanza para una familia de 4?", answer: "Los propios compradores recomiendan una freidora de 6-7 litros si cocinás para más de 2 personas; los 4 litros de esta rinden bien para 1-2." },
+      { question: "¿Qué es el recubrimiento DiamondForce?", answer: "Es el antiadherente propio de Oster, pensado para que la comida no se pegue y facilitar la limpieza." },
+      { question: "¿Trae ventana para ver la cocción?", answer: "No, el cajón es opaco." },
+      { question: "¿Qué funciones tiene?", answer: "Freír, asar, recalentar y deshidratar, todo regulado a mano con las perillas de tiempo y temperatura." },
+      { question: "¿Qué garantía tiene?", answer: "12 meses de garantía de fábrica, según la publicación del vendedor." },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Chile", date: "2025-07", text: "Es una maravilla. La uso para todo y se limpia rápido. No emite olores y es en general bien silenciosa. Creo que el tamaño ideal está en los 6-7 litros de capacidad. Menos creo que puede ser una pérdida de dinero.", useful: 10 },
+      { rating: 5, country: "Chile", date: "2026-01", text: "Capacidad: ideal para una casa de 2 personas. Salen buenas porciones. Limpieza: la rejilla separadora permite que los alimentos suelten su aceite. El plástico del exterior si bien es de buena calidad, en algunas partes se ve medio flojo. Pero está 9/10.", useful: 2 },
+      { rating: 5, country: "Chile", date: "2025-07", text: "Excelente, la elegí ya que es de control manual no digital.", useful: 3 },
+    ],
+    reviewsSampledAt: "2026-07-27",
+    relatedProducts: ["MLA28709303", "MLA41041543", "MLA62320294"],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Freidora de aire Oster CKSTAF401MDF manual 4L DiamondForce',
+      description: 'Freidora de aire Oster manual de 4 litros, recubrimiento antiadherente DiamondForce, control por perillas de tiempo y temperatura (80-200°C), sin pantalla táctil.',
+      brand: { '@type': 'Brand', name: 'Oster' },
+      model: 'CKSTAF401MDF-052',
+      sku: 'MLA41811351',
+      category: 'Freidoras de aire',
+      color: 'Negro',
+      image: 'https://http2.mlstatic.com/D_Q_NP_666059-MLA91053640442_092025-F.webp',
+      url: 'https://productosvirales.com.ar/producto/MLA41811351',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '101150',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+        url: 'https://meli.la/1GRmjot',
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.8',
+        reviewCount: '633',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+  },
+  {
+    id: 'MLA54728380',
+    title: "Freidora De Aire Peabody Regulable XL 9 Litros Pe-afdb910n Negro",
+    seoTitle: "Freidora de Aire Peabody XL 9L PE-AFDB910N: ¿rinde para 6?",
+    metaDescription: "Freidora de aire Peabody XL de 9 litros con divisor y pantalla LED. 4.8★ con 175 opiniones. Capacidad real, curva de aprendizaje y contras.",
+    brand: "Peabody",
+    price: 187565,
+    priceUpdated: "2026-07-27",
+    priceLastChecked: "2026-07-27",
+    priceStatus: "fresh",
+    originalPrice: 229999,
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_844914-MLA91773683529_092025-O.webp',
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_844914-MLA91773683529_092025-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_912170-MLA110624879557_042026-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_781381-MLA109735656526_042026-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_968460-MLA99934730525_112025-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_678091-MLA91376769042_092025-O.webp",
+      ],
+    category: 'Cocina',
+    categorySlug: 'cocina',
+    permalink: 'https://www.mercadolibre.com.ar/freidora-de-aire-peabody-regulable-xl-9lts-pe-afdb910n-negro-negro/p/MLA54728380',
+    affiliateUrl: 'https://meli.la/2SqKFcR',
+    condition: 'new',
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 175,
+    soldQuantity: 500,
+    pastelColor: 'var(--pastel-blue)',
+    description: "Freidora de aire Peabody XL de 9 litros, con divisor removible, pantalla LED táctil y programas de sincronización para cocinar dos platos a la vez.",
+    pros: [
+      "9 litros reales: varios compradores la usan para servir hasta 6 personas sacando el divisor",
+      "Divisor removible: cocina dos preparaciones distintas al mismo tiempo",
+      "Alarma sonora a mitad de cocción para dar vuelta la comida",
+      "175 opiniones, 4.8★, y más de 500 ventas",
+    ],
+    cons: [
+      "Curva de aprendizaje real: un comprador aclara que no sale 'crujiente' de la primera, hay que ajustar tiempo y temperatura según el alimento",
+      "Es grande: un comprador tuvo que reubicarla fuera de su lugar habitual en la cocina por el tamaño",
+      "En horneado, los tiempos hay que ajustarlos a prueba y error: un comprador quemó un poco los bordes de una lasaña por pasarse unos minutos",
+    ],
+    verdict: "La freidora con más capacidad real de este grupo: 9 litros que, sacando el divisor, varios compradores usan para servir hasta 6 personas. Tiene una curva de aprendizaje real —no sale crujiente de entrada— y es grande, así que conviene pensar antes dónde la vas a ubicar.",
+    articleBody: `La Peabody PE-AFDB910N es una freidora de aire XL de 9 litros, con pantalla LED táctil, divisor removible y funciones de sincronización para cocinar dos platos a la vez. Tiene 4.8 de promedio sobre 175 calificaciones y más de 500 ventas.
+
+## Capacidad real: cuántas porciones salen
+
+9 litros es la capacidad más grande de este grupo de fichas. Un comprador lo confirma con un dato concreto: "si saco la división hago algo para 6 personas". Sin el divisor, el espacio interno se une en un solo compartimento grande; con el divisor puesto, funciona como dos freidoras chicas que cocinan por separado y avisan cada una por su lado cuando terminan.
+
+## Pantalla LED y funciones de sincronización
+
+Tiene pantalla táctil, control de temperatura entre 80°C y 200°C, y programas de sincronización (Sync) e igualado (Match) para coordinar los tiempos de cocción de ambos lados del divisor. Trae 9 programas preestablecidos y timer con alarma sonora.
+
+## La curva de aprendizaje que marcan los compradores
+
+La reseña más útil de la publicación es honesta sobre esto: "no es igual que otro tipo de cocción... hay que aprender a que sea así". El mismo comprador aclara que la fantasía de "poner y sacar crujiente" no es automática, requiere ajustar tiempo y temperatura según el alimento. Es un dato real a tener en cuenta antes de comprar, no una freidora que sale perfecta a la primera sin práctica.
+
+## Tamaño: por qué importa antes de comprar
+
+Por sus 9 litros, es un electrodoméstico grande: un comprador comenta que tuvo que ubicarla en otro lugar de la cocina porque no entraba en su espacio habitual. Antes de comprar, conviene medir dónde la vas a guardar y usar.
+
+## Qué dicen las reseñas
+
+Con 175 opiniones y 4.8 estrellas, las reseñas destacan que no deja olor en el ambiente, que avisa a mitad de cocción para revolver o dar vuelta la comida, y que los materiales son de buena calidad. En horneado, un comprador señala que hay que cuidar los tiempos: se le quemaron un poco los bordes de una lasaña por pasarse algunos minutos.
+
+## Para quién conviene
+
+Conviene para familias numerosas o para quien quiere cocinar dos platos distintos a la vez sin usar el horno. No conviene si buscás algo compacto o si no tenés espacio fijo en la cocina para un electrodoméstico grande.
+
+## En resumen
+
+La Peabody XL de 9 litros es la de mayor capacidad real de este grupo, con el plus del divisor para dos preparaciones simultáneas. Tiene curva de aprendizaje y es grande, pero el respaldo de reviews (4.8★, 175 opiniones) es sólido.`,
+    specs: [
+      { label: "Marca", value: "Peabody" },
+      { label: "Modelo", value: "PE-AFDB910N" },
+      { label: "Capacidad", value: "9 L" },
+      { label: "Potencia", value: "2,03 kW (2.030 W)" },
+      { label: "Control", value: "Pantalla LED táctil" },
+      { label: "Temperatura", value: "80°C a 200°C" },
+      { label: "Funciones", value: "Cocción por convección, hornear, sincronización (Sync) e igualado (Match)" },
+      { label: "Programas preestablecidos", value: "9, más temporizador con alarma sonora" },
+      { label: "Cantidad de canastos", value: "1, con divisor removible" },
+      { label: "Ventana transparente", value: "No" },
+      { label: "Recubrimiento", value: "Antiadherente" },
+      { label: "Accesorios incluidos", value: "Recipiente, rejilla extraíble" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Dimensiones", value: "32,5 cm alto x 37 cm ancho x 41,5 cm largo" },
+      { label: "Peso", value: "7,91 kg" },
+    ],
+    faq: [
+      { question: "¿Los 9 litros son reales?", answer: "Sí. Sin el divisor, varios compradores la usan para preparar porciones para hasta 6 personas." },
+      { question: "¿Trae divisor para cocinar dos cosas a la vez?", answer: "Sí, un recipiente con divisor removible que permite dos preparaciones distintas en simultáneo, cada una con su propio tiempo." },
+      { question: "¿Avisa cuando hay que dar vuelta la comida?", answer: "Sí, tiene alarma sonora a mitad de cocción." },
+      { question: "¿Es fácil de usar desde el primer uso?", answer: "Los compradores marcan una curva de aprendizaje real: no sale crujiente de entrada, hay que ajustar tiempo y temperatura según el alimento que estés preparando." },
+      { question: "¿Ocupa mucho lugar?", answer: "Sí. Por su tamaño, un comprador tuvo que reubicarla en otro espacio de su cocina." },
+      { question: "¿Sirve para hornear, además de freír?", answer: "Sí, tiene función de horneado, aunque conviene controlar bien los tiempos para no quemar los bordes de preparaciones como una lasaña." },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "2025-12", text: "Un maquinon! su tamaño hizo que deba ponerlo en otra locación y no mi cocina habitual. Perooo eso mismo es su enorme ventaja. Cocino dos cosas simultáneas, buena potencia, avisa a mitad de ciclo x separado. No es igual que otro tipo de cocción. Hay que aprender a que sea así. Lo vale porque casi sin aceite.", useful: 9 },
+      { rating: 5, country: "Argentina", date: "2026-02", text: "Es hermosa! hemos hecho varias comidas, y hemos usado diferentes fuentes (vidrio, silicona, papel). La comida se cocina muy bien. No deja olor en el ambiente. A mitad de la cocción, suena avisando que es necesario revolver la comida.", useful: 4 },
+      { rating: 5, country: "Argentina", date: "2025-11", text: "Hasta ahora excelente, a pesar de las buenas críticas me sorprendió su rapidez y excelente cocción, la estrené haciendo una docena de empanadas en menos de 20 minutos. Ya reemplacé el horno eléctrico así que la uso muchísimo.", useful: 4 },
+      { rating: 4, country: "Argentina", date: "2026-02", text: "Excelente, práctica, confiable, simple de entender. Es muy útil sólo sacar el divisorio para utilizar toda la canasta.", useful: 3 },
+    ],
+    reviewsSampledAt: "2026-07-27",
+    relatedProducts: ["MLA41811351", "MLA28709303", "MLA62320294"],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Freidora de aire Peabody XL 9L PE-AFDB910N con divisor',
+      description: 'Freidora de aire Peabody XL de 9 litros, pantalla LED táctil, divisor removible y funciones de sincronización para cocinar dos platos a la vez.',
+      brand: { '@type': 'Brand', name: 'Peabody' },
+      model: 'PE-AFDB910N',
+      sku: 'MLA54728380',
+      category: 'Freidoras de aire',
+      color: 'Negro',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_844914-MLA91773683529_092025-O.webp',
+      url: 'https://productosvirales.com.ar/producto/MLA54728380',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '187565',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+        url: 'https://meli.la/2SqKFcR',
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.8',
+        reviewCount: '175',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+  },
+  {
+    id: 'MLA24526175',
+    title: "Freidora De Aire Philips Serie 5000 Conectada Hd9255/80 4.1l Negro",
+    seoTitle: "Freidora de Aire Philips HD9255/80 Conectada: ¿vale el precio?",
+    metaDescription: "Freidora de aire Philips Serie 5000 conectada por app, 4.1 litros. 4.8★ con 400 opiniones. Capacidad real y para quién conviene.",
+    brand: "Philips",
+    price: 329999,
+    priceUpdated: "2026-07-27",
+    priceLastChecked: "2026-07-27",
+    priceStatus: "fresh",
+    originalPrice: undefined,
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_Q_NP_973440-MLA99994313383_112025-F.webp',
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_973440-MLA99994313383_112025-F.webp",
+      "https://http2.mlstatic.com/D_Q_NP_839216-MLU79169362581_092024-F.webp",
+      ],
+    category: 'Cocina',
+    categorySlug: 'cocina',
+    permalink: 'https://www.mercadolibre.com.ar/philips-serie-5000-airfryer-hd9255-80-negro/p/MLA24526175',
+    affiliateUrl: 'https://meli.la/2D51gq5',
+    condition: 'new',
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 400,
+    pastelColor: 'var(--pastel-violet)',
+    description: "Freidora de aire Philips Serie 5000 'conectada' (controlable por app), 4.1 litros, controles físicos a perilla.",
+    pros: [
+      "Versión 'conectada': se puede manejar desde el celular, confirmado por reseñas reales de compradores",
+      "400 opiniones con 4.8 estrellas, la gama más alta de Philips de este grupo",
+      "No deja olor en el ambiente, según varios compradores",
+      "Buena opción para espacios chicos (departamentos)",
+    ],
+    cons: [
+      "Capacidad chica (4.1L): los propios compradores dicen que 'no es de uso familiar', mejor pensada para una pareja o hasta 3 personas",
+      "Tiempos de cocción largos, lo que complica repetir tandas sin que la anterior se enfríe",
+      "Un comprador señala que 'le faltaría un manual' para un uso más práctico",
+      "Es la más cara de este grupo de fichas",
+    ],
+    verdict: "La más cara y de gama más alta de esta tanda: viene con conectividad por app, confirmado por compradores reales, pero su capacidad de 4.1 litros la deja mejor pensada para una pareja o hasta tres personas, no para una familia grande. 400 opiniones con 4.8 estrellas respaldan la calidad de construcción.",
+    articleBody: `La Philips Serie 5000 HD9255/80 es una freidora de aire "conectada" de 4.1 litros: se controla con perillas físicas para uso normal, pero también admite manejo remoto desde el celular. Tiene 4.8 de promedio sobre 400 calificaciones.
+
+## La función "conectada": qué tan real es el control por app
+
+No es solo un nombre de marketing: un comprador lo confirma en su reseña, "la manejo desde el celular ya que es la versión conectada". Los controles físicos (perillas de tiempo y temperatura) siguen estando para el uso del día a día; la app suma la posibilidad de monitorear o ajustar de forma remota.
+
+## Capacidad: para cuántas personas rinde de verdad
+
+4.1 litros es una capacidad chica. La reseña más útil de la publicación lo dice sin vueltas: "no es de uso familiar, es perfecto para una pareja". El mismo comprador agrega que tiene "tiempos largos de cocción, lo que hace difícil llegar a repetir tandas sin que la anterior se enfríe por completo". Otro comprador la recomienda para "parejas o familias pequeñas (tres personas)".
+
+## Funciones y controles físicos
+
+El control es a perilla, con temperatura ajustable entre 80°C y 200°C. No tiene ventana para ver la cocción. Un comprador señala que "le faltaría un manual" para hacer el uso más práctico, aunque valora el resultado final de la cocción.
+
+## Qué dicen los compradores
+
+Con 400 opiniones y 4.8 estrellas, el punto que más se repite es que no deja olor en el ambiente, algo valorado especialmente por quienes viven en departamentos chicos. También se destaca la calidad de los materiales.
+
+## Para quién conviene
+
+Conviene para una pareja o una familia chica (hasta 3 personas) que valora poder monitorear la cocción desde el celular. No conviene si cocinás para una familia numerosa: ahí 4.1 litros y los tiempos de cocción largos van a jugar en contra.
+
+## En resumen
+
+La HD9255/80 es la opción de gama más alta de este grupo por su función conectada, respaldada por 400 opiniones reales. Es cara y chica, así que tiene sentido para quien valora la conectividad y cocina para pocas personas.`,
+    specs: [
+      { label: "Marca", value: "Philips" },
+      { label: "Línea", value: "Serie 5000" },
+      { label: "Modelo", value: "HD9255/80" },
+      { label: "Capacidad", value: "4,1 L" },
+      { label: "Potencia", value: "1,43 kW (1.425 W)" },
+      { label: "Control", value: "Perillas físicas + control remoto por app (versión conectada)" },
+      { label: "Temperatura", value: "80°C a 200°C" },
+      { label: "Funciones", value: "Freír, tostar" },
+      { label: "Cantidad de canastos", value: "1" },
+      { label: "Ventana transparente", value: "No" },
+      { label: "Recubrimiento", value: "Antiadherente" },
+      { label: "Dimensiones", value: "38,4 cm alto x 31,5 cm ancho x 38,4 cm largo" },
+      { label: "Peso", value: "7 kg" },
+    ],
+    faq: [
+      { question: "¿Es realmente controlable desde el celular?", answer: "Sí, compradores confirman que la manejan desde la app por ser la versión 'conectada' de la Serie 5000." },
+      { question: "¿Alcanza para una familia?", answer: "Los propios compradores dicen que no es de uso familiar; rinde mejor para una pareja o hasta 3 personas." },
+      { question: "¿Trae un manual de instrucciones claro?", answer: "Un comprador señaló que le faltó el manual para un uso más práctico, aunque la cocción en sí le resultó satisfactoria." },
+      { question: "¿Dónde están los controles?", answer: "Perillas físicas de tiempo y temperatura, no pantalla táctil." },
+      { question: "¿Deja olor en el ambiente?", answer: "No, según varios compradores, algo que destacan especialmente quienes viven en departamentos chicos." },
+      { question: "¿Puedo cocinar varias tandas seguidas?", answer: "Los tiempos de cocción son largos, así que preparar varias tandas sin que la primera se enfríe puede complicarse." },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "2024", text: "Lo recomiendo para personas que intentan cuidarse, ya sea por salud o por disminuir el uso de frituras. No es de uso familiar, es perfecto para una pareja, tienen una capacidad limitada de porción y tiempos largos de cocción, lo que hace difícil llegar a repetir tandas sin que la anterior se enfríe por completo.", useful: 45 },
+      { rating: 5, country: "Argentina", date: "2024", text: "Es espectacular, lo estrené con papas fritas y salieron buenísimas, además la manejo desde el celular ya que es la versión conectada. Excepcional.", useful: 15 },
+      { rating: 5, country: "Argentina", date: "2024", text: "Vivo en un departamento pequeño y lo que más me gusta es que puedo preparar croquetas, pollo, papas y vegetales de forma rápida y fácil, y no deja olor en el ambiente. Lo recomiendo para parejas o familias pequeñas (tres personas).", useful: 7 },
+      { rating: 5, country: "Argentina", date: "2024", text: "La mejor compra, cocina rapidísimo, se nota que es de buena calidad los materiales, le faltaría un manual así se hace más práctico el uso. El resto un 10, aunque es chica la capacidad vale la pena.", useful: 7 },
+    ],
+    reviewsSampledAt: "2026-07-27",
+    relatedProducts: ["MLA19630913", "MLA53675940", "MLA41811351"],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Freidora de aire Philips Serie 5000 conectada HD9255/80 4.1L',
+      description: 'Freidora de aire Philips Serie 5000 "conectada" (controlable por app), 4.1 litros, controles físicos a perilla, temperatura ajustable 80-200°C.',
+      brand: { '@type': 'Brand', name: 'Philips' },
+      model: 'HD9255/80',
+      sku: 'MLA24526175',
+      category: 'Freidoras de aire',
+      color: 'Negro',
+      image: 'https://http2.mlstatic.com/D_Q_NP_973440-MLA99994313383_112025-F.webp',
+      url: 'https://productosvirales.com.ar/producto/MLA24526175',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '329999',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+        url: 'https://meli.la/2D51gq5',
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.8',
+        reviewCount: '400',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+  },
+  {
+    id: 'MLA54352366',
+    title: "Freidora De Aire Philips Serie 1000 Na130/00 6.2l Negra",
+    seoTitle: "Freidora de Aire Philips NA130/00 6.2L: la más accesible del grupo",
+    metaDescription: "Freidora de aire Philips Serie 1000, 6.2 litros, control mecánico. 4.9★ con 256 opiniones. Precio, specs y para quién conviene.",
+    brand: "Philips",
+    price: 125999,
+    priceUpdated: "2026-07-27",
+    priceLastChecked: "2026-07-27",
+    priceStatus: "fresh",
+    originalPrice: undefined,
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_963662-MLA113774877866_072026-O.webp',
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_963662-MLA113774877866_072026-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_805288-MLA113774612928_072026-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_734838-MLA115069627025_072026-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_926637-MLA113775404806_072026-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_980544-MLA113774878030_072026-O.webp",
+      ],
+    category: 'Cocina',
+    categorySlug: 'cocina',
+    permalink: 'https://www.mercadolibre.com.ar/freidora-de-aire-philips-airfryer-3000-na130-00-62l-negra-color-negro/p/MLA54352366',
+    affiliateUrl: 'https://meli.la/1WMPf6j',
+    condition: 'new',
+    freeShipping: true,
+    rating: 4.9,
+    reviewCount: 256,
+    pastelColor: 'var(--pastel-lila)',
+    description: "Freidora de aire Philips Serie 1000 de 6.2 litros, control 100% mecánico (perillas), sin pantalla táctil ni accesorios adicionales.",
+    pros: [
+      "Precio más accesible de este grupo de cuatro fichas",
+      "La mejor calificación numérica del grupo: 4.9★ sobre 256 opiniones",
+      "6.2 litros, la capacidad más grande entre las freidoras simples (no combo) de esta tanda",
+      "Vendida también por tienda oficial de Philips en Mercado Libre (Grupo Márquez), con 24 meses de garantía de fábrica",
+    ],
+    cons: [
+      "Control 100% mecánico: perillas de tiempo y temperatura, sin pantalla ni programas preseteados",
+      "No incluye accesorios adicionales, según la ficha del vendedor oficial",
+      "No tiene ventana para ver la cocción",
+    ],
+    verdict: "La opción más accesible de las cuatro y la mejor puntuada (4.9★, 256 opiniones), con controles 100% mecánicos: perillas de tiempo y temperatura, sin pantalla ni programas preseteados. A diferencia de las otras tres fichas de este grupo, no pudimos traer citas textuales de compradores para esta en particular: el veredicto se apoya en la ficha técnica verificada y el respaldo de la tienda oficial de Philips.",
+    articleBody: `La Philips NA130/00 es una freidora de aire de la Serie 1000, con 6.2 litros de capacidad y control 100% mecánico: perillas de tiempo y temperatura, sin pantalla táctil. Tiene 4.9 de promedio sobre 256 calificaciones, la mejor puntuación numérica de este grupo de cuatro fichas.
+
+## Capacidad y potencia real
+
+6.2 litros es la capacidad más grande entre las freidoras "simples" (sin función horno combinada) de este grupo. Funciona con 1.700W de potencia y temperatura ajustable hasta 200°C.
+
+## Control mecánico: qué significa en el uso diario
+
+No tiene pantalla digital ni programas preseteados: se regula todo con dos perillas físicas. Es el mismo tipo de control que la Oster CKSTAF401MDF de este grupo, pero en una capacidad más grande (6.2L contra 4L).
+
+## Qué NO trae
+
+La ficha técnica del vendedor oficial es clara en lo que no incluye: no trae ventana para ver la cocción, no incluye accesorios adicionales y no tiene pantalla táctil.
+
+## Por qué está bien puntuada aunque sea la más simple
+
+Con 256 opiniones y 4.9 estrellas, es la mejor calificación numérica de este grupo. Probablemente porque cumple bien lo básico —freír con aire caliente, controles simples que no fallan— sin prometer funciones extra que después generan reclamos. Está respaldada además por Grupo Márquez, tienda oficial de Philips en Mercado Libre, con 24 meses de garantía de fábrica.
+
+## Para quién conviene
+
+Conviene para quien busca lo esencial de una freidora de aire, con buena capacidad (6.2L) y sin pagar de más por pantalla táctil o funciones conectadas. No conviene si buscás programas preseteados o ventana para monitorear la cocción sin abrir el cajón.
+
+## En resumen
+
+La NA130/00 es la ficha más accesible de este grupo y, según la calificación agregada, la mejor puntuada. El control es mecánico y sin accesorios extra, pero cumple lo que promete: freír con aire caliente a buen precio.`,
+    specs: [
+      { label: "Marca", value: "Philips" },
+      { label: "Línea", value: "Serie 1000" },
+      { label: "Modelo", value: "NA130/00" },
+      { label: "Capacidad", value: "6,2 L" },
+      { label: "Potencia", value: "1,7 kW (1.700 W)" },
+      { label: "Control", value: "Mecánico (perillas), sin pantalla táctil" },
+      { label: "Temperatura máxima", value: "200°C" },
+      { label: "Cantidad de canastos", value: "1" },
+      { label: "Ventana transparente", value: "No" },
+      { label: "Recubrimiento", value: "Antiadherente" },
+      { label: "Accesorios incluidos", value: "No" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Dimensiones", value: "30,8 cm alto x 40,3 cm ancho x 30,9 cm largo" },
+      { label: "Peso", value: "4 kg" },
+      { label: "Garantía", value: "24 meses de fábrica (tienda oficial)" },
+    ],
+    faq: [
+      { question: "¿Tiene pantalla táctil?", answer: "No, es control mecánico con perillas de tiempo y temperatura." },
+      { question: "¿Trae accesorios extra?", answer: "No, según la ficha del vendedor oficial." },
+      { question: "¿Tiene ventana para ver la cocción?", answer: "No." },
+      { question: "¿Cuánto pesa y cuánto mide?", answer: "4 kg, con 30.8 cm de alto, 40.3 cm de ancho y 30.9 cm de largo." },
+      { question: "¿Está respaldada por una tienda oficial?", answer: "Sí, Grupo Márquez la vende como tienda oficial de Philips en Mercado Libre, con 24 meses de garantía." },
+      { question: "¿Por qué tiene tan buena calificación si es tan simple?", answer: "Con 256 opiniones y 4.9 estrellas, es la mejor puntuada de este grupo: probablemente porque cumple bien lo básico, sin prometer funciones extra." },
+    ],
+    relatedProducts: ["MLA41811351", "MLA19630913", "MLA53675940"],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Freidora de aire Philips Serie 1000 NA130/00 6.2L',
+      description: 'Freidora de aire Philips Serie 1000 de 6.2 litros, control mecánico por perillas, temperatura ajustable hasta 200°C, sin ventana ni accesorios adicionales.',
+      brand: { '@type': 'Brand', name: 'Philips' },
+      model: 'NA130/00',
+      sku: 'MLA54352366',
+      category: 'Freidoras de aire',
+      color: 'Negro',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_963662-MLA113774877866_072026-O.webp',
+      url: 'https://productosvirales.com.ar/producto/MLA54352366',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '125999',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+        url: 'https://meli.la/1WMPf6j',
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.9',
+        reviewCount: '256',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+  },
+  {
     id: 'MLA62320294',
     title: "Freidora De Aire 5.2 L Ninja Crispi",
     seoTitle: "Freidora de Aire Ninja Crispi 5.2L: ¿vale la pena?",
