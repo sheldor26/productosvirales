@@ -45339,6 +45339,297 @@ A $981.818 con 4.8 estrellas y solo 75 opiniones, es una buena máquina que pide
     relatedProducts: ['MLA48828162', 'MLA47077888'],
   },
 
+  {
+    id: 'MLA63908884',
+    title: 'Cafetera espresso automática Philips EP5541/50 Serie 5500 negra',
+    canonicalName: 'Philips EP5541/50 Serie 5500 LatteGo',
+    mpn: 'EP5541/50',
+    reviewsSampledAt: '2026-07-27',
+    price: 1376999,
+    originalPrice: 1699999,
+    priceUpdated: "2026-07-27",
+    priceLastChecked: "2026-07-27",
+    priceStatus: "fresh",
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_Q_NP_875997-MLA111832258952_062026-F.webp',
+    images: [
+      'https://http2.mlstatic.com/D_Q_NP_875997-MLA111832258952_062026-F.webp',
+      'https://http2.mlstatic.com/D_Q_NP_819158-MLA111832230186_062026-F.webp',
+    ],
+    category: 'Cocina',
+    categorySlug: 'cocina',
+    permalink: 'https://www.mercadolibre.com.ar/p/MLA63908884',
+    affiliateUrl: 'https://meli.la/2sxEonV',
+    condition: 'new',
+    freeShipping: true,
+    brand: 'Philips',
+    rating: 4.9,
+    reviewCount: 162,
+    pastelColor: 'var(--pastel-coral)',
+    description: 'Cafetera espresso totalmente automática de la Tienda Oficial de Philips en MercadoLibre: molinillo cerámico integrado, sistema de espuma LatteGo y 20 bebidas preprogramadas. Cuesta $1.376.999 con el descuento activo (lista $1.699.999) y tiene 4.9 estrellas en 162 opiniones, pero sus propios compradores avisan: el precio es alto para lo que resuelve y pide mantenimiento constante.',
+    seoTitle: "Philips EP5541/50 Serie 5500: ¿vale $1,3 millón?",
+    metaDescription: 'Análisis de la Philips EP5541/50 Serie 5500: molinillo cerámico, LatteGo y 4.9★ en 162 opiniones. El precio real y el mantenimiento que nadie te cuenta.',
+    ogTitle: "Pagar $1,3 millón por una cafetera automática: ¿vale la pena?",
+    ogDescription: 'LatteGo, molinillo cerámico y 20 bebidas preprogramadas — pero las propias reseñas avisan sobre el precio y el mantenimiento. Análisis sin filtro de la Philips Serie 5500.',
+    h1: "Cafetera espresso automática Philips EP5541/50 Serie 5500: análisis sin filtro",
+    pros: [
+      '4.9⭐ con 162 opiniones y +1.000 vendidos, vendida por la Tienda Oficial de Philips en MercadoLibre',
+      'Sistema LatteGo: solo 2 piezas sin tubos, limpieza en menos de 10 segundos según el fabricante y confirmado por las reseñas ("la limpieza es una maravilla")',
+      'Molinillo cerámico integrado con 12 niveles de molienda: café recién molido sin comprar un molinillo aparte',
+      '20 bebidas preprogramadas (calientes y frías, incluye café helado) con memoria para 4 perfiles de usuario',
+      'QuickStart: la máquina no te hace esperar a que se caliente para arrancar',
+      'Los compradores la describen silenciosa e intuitiva, incluso "manejable por adolescentes"',
+    ],
+    cons: [
+      'El precio es el punto flojo según sus propios compradores: una reseña de 4★ lo dice de frente, "el precio es muy alto por lo que te ofrece, solo la recomiendo si la encontrás en oferta"',
+      'Mantenimiento periódico obligatorio: cambiar el filtro de agua cada 3 meses, usar pastillas desengrasantes una vez al mes y hacer descalcificación cada cierto tiempo',
+      'La estructura es de plástico según su propia ficha técnica, no metal, algo a tener en cuenta en esta franja de precio',
+      'Solo 2 porciones simultáneas y un recipiente de leche chico (0,26 L): hay que recargar seguido con uso familiar',
+      'En una reseña real para este mismo modelo en la web oficial de Philips Argentina, un comprador señala que el café con leche "llega a media taza de las grandes"',
+    ],
+    verdict: "Es una cafetera automática de verdad -no una express con más pasos- con un sistema de leche que las reseñas confirman fácil de limpiar y un molinillo que resuelve el café recién molido sin comprar nada aparte. El problema es el precio: a $1.376.999 compite directo con la De'Longhi Magnifica Start en la franja premium, y hasta sus propios compradores avisan que solo conviene comprarla en oferta. Si el mantenimiento periódico no te asusta y buscás automatización total, cumple; si el presupuesto ronda el millón y medio, compará primero contra la alternativa de De'Longhi antes de decidir.",
+    articleBody: `## Qué es la Philips EP5541/50 Serie 5500
+
+La EP5541/50 es la cafetera espresso totalmente automática que Philips vende oficialmente en Argentina, a través de su Tienda Oficial en MercadoLibre. Cuesta $1.376.999 con el descuento activo (lista a $1.699.999, 19% off) y tiene 4.9 estrellas en 162 calificaciones, con más de 1.000 unidades vendidas. Es del grano a la taza: no hay portafiltro que cargar ni café que moler aparte, todo pasa dentro de la máquina.
+
+## Cómo funciona: molinillo, LatteGo y 20 bebidas
+
+Tiene un molinillo cerámico integrado con 12 niveles de molienda y un depósito para 275 g de granos (también acepta café molido si te quedás sin grano, según describe una compradora). Prepara 20 bebidas preprogramadas -espressos, lattes, capuchinos y también versiones frías- a través del sistema LatteGo: dos piezas sin tubos que arman la espuma de leche con solo apretar un botón, incluso con leches vegetales, y que según el fabricante y las reseñas se lavan en menos de 10 segundos. La función QuickStart evita la espera del calentamiento inicial, y una pantalla táctil TFT guarda hasta 4 perfiles de usuario con sus preferencias de café.
+
+## La contra real: el precio y el mantenimiento
+
+Acá está lo que separa esta ficha de una gacetilla de prensa. Una reseña de 4 estrellas en MercadoLibre lo dice sin vueltas: "Preparar cada café es una experiencia muy placentera. Solo la recomiendo si la encontrás en oferta, por que el precio es muy alto por lo que te ofrece." La misma reseña detalla el mantenimiento real que exige: cambiar el filtro de agua cada 3 meses, usar pastillas desengrasantes una vez al mes y hacer una descalcificación cada cierto tiempo. No es un gasto único, es una máquina que pide atención constante para sostener el rendimiento. Sumale que la estructura es de plástico (lo confirma la ficha técnica de MercadoLibre), no metal, algo a tener en cuenta a este precio.
+
+## Lo que dicen las 162 calificaciones
+
+El resumen de opiniones la describe como intuitiva, compacta, silenciosa y con una limpieza automática valorada por los compradores. Una reseña de 5 estrellas la compara con una Oster Pimalatte que tenía antes y destaca que acá "te olvidás de todo eso" (moler, cargar portafiltro, vaciar) porque "solo ponés todos los granos... y apretás el botón". Otra suma que "es hermosa, fácil de usar... es silenciosa" y que la pantalla "todo te indica". Del lado oficial de Philips Argentina, para este mismo modelo EP5541/50, hay una reseña real que matiza: "El café con leche llega a media taza de las grandes, me gustaría que la ración fuera más grande" - un dato que las fotos de marketing no muestran.
+
+## Cómo se compara con la De'Longhi Magnifica Start (la otra premium del catálogo)
+
+En la franja arriba del millón de pesos, la comparación obligada es contra la De'Longhi Magnifica Start ECAM220.80.SB. La Philips, a $1.376.999, queda por debajo de esa referencia y suma el sistema LatteGo (que ese modelo de De'Longhi no trae) y memoria para 4 perfiles de usuario. Antes de decidir entre las dos conviene revisar el rating y el volumen de opiniones real de cada una al momento de comprar, además del respaldo de tienda oficial. [Ver la ficha completa de la De'Longhi Magnifica Start](/producto/MLA39987014) para el comparativo cara a cara.
+
+## ¿Para quién es (y para quién no)?
+
+Es para vos si: querés automatización completa sin aprender a operar una express manual, tomás café con leche o helado seguido y valorás una limpieza rápida del sistema de leche, y podés sostener el mantenimiento periódico (filtro, pastillas, descalcificación) sin que te resulte una carga. No es para vos si: el presupuesto es ajustado (hay express manuales en este catálogo por una fracción del precio), buscás una estructura 100% metálica, o no estás dispuesto a comprarla en oferta, como recomienda una de sus propias compradoras.
+
+## Veredicto
+
+A $1.376.999 con 4.9 estrellas en 162 opiniones y el respaldo de la Tienda Oficial de Philips, es una cafetera automática que cumple lo que promete: café de calidad sin operar nada manualmente. Pero el precio es real y hasta sus compradores lo marcan como el punto débil. Comprala si el mantenimiento periódico no te asusta y la comparás primero contra la De'Longhi Magnifica Start para decidir con los números de las dos sobre la mesa.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'Philips / EP5541/50 (Serie 5500)' },
+      { label: 'Tipo', value: 'Cafetera espresso totalmente automática' },
+      { label: 'Molinillo', value: 'Cerámico integrado, 12 niveles de molienda' },
+      { label: 'Presión', value: '15 bar' },
+      { label: 'Bebidas preprogramadas', value: '20 (calientes y frías, incluye café helado)' },
+      { label: 'Sistema de leche', value: 'LatteGo (2 piezas, sin tubos, apto leches vegetales)' },
+      { label: 'Capacidad de agua', value: '1,8 L' },
+      { label: 'Capacidad de granos', value: '275 g' },
+      { label: 'Recipiente de leche', value: '0,26 L' },
+      { label: 'Interfaz', value: 'Pantalla táctil TFT, memoria para 4 perfiles de usuario' },
+      { label: 'Porciones simultáneas', value: '2' },
+      { label: 'Medidas', value: '37,2 x 24,6 x 43,3 cm' },
+      { label: 'Peso', value: '8 kg' },
+      { label: 'Estructura', value: 'Plástico, según ficha técnica de MercadoLibre' },
+      { label: 'Voltaje', value: '220V' },
+      { label: 'Color', value: 'Negro' },
+    ],
+    faq: [
+      { question: '¿La Philips EP5541/50 es automática de verdad?', answer: 'Sí, es una cafetera "del grano a la taza": tiene molinillo cerámico integrado, dosifica y extrae sola. Una reseña de 5 estrellas la compara con una express manual que tenía antes y resume la diferencia: "solo ponés todos los granos de café en su recipiente y apretás el botón, te sale el café... no tenés que vaciar nada ni limpiar nada ni moler los granos".' },
+      { question: '¿Qué es el sistema LatteGo y por qué importa?', answer: 'Es el sistema de espuma de leche de Philips: dos piezas sin tubos que arman espuma con un botón, incluso con leches vegetales, y que se lavan en menos de 10 segundos según el fabricante. Las reseñas lo confirman: "la limpieza es una maravilla, el recipiente de leche tiene una limpieza rápida".' },
+      { question: '¿Cuánto mantenimiento necesita?', answer: 'Más del que suele mencionarse en la publicidad. Según una reseña real de comprador, hay que cambiar el filtro de agua cada 3 meses, usar pastillas desengrasantes una vez al mes y hacer una descalcificación cada cierto tiempo. Es mantenimiento recurrente, no un gasto único.' },
+      { question: '¿Sirve para café helado?', answer: 'Sí, de las 20 bebidas preprogramadas hay versiones frías además de las calientes (espresso, lattes, capuchinos), calibradas según Philips para mantener el mismo sabor en ambas versiones.' },
+      { question: '¿Por qué cuesta $1.376.999?', answer: 'Por la combinación de molinillo cerámico integrado, sistema LatteGo, 20 bebidas preprogramadas y pantalla táctil con memoria de perfiles. Es un precio alto y hasta las propias reseñas lo señalan: "el precio es muy alto por lo que te ofrece, solo la recomiendo si la encontrás en oferta".' },
+      { question: '¿Conviene esta o la De\'Longhi Magnifica Start?', answer: 'Las dos compiten en la franja premium arriba del millón de pesos. La Philips suma el sistema LatteGo y memoria para 4 perfiles; antes de decidir conviene comparar el rating y el volumen de opiniones vigente de cada una. Ver la ficha completa de la De\'Longhi Magnifica Start para el comparativo cara a cara.' },
+      { question: '¿La estructura es de metal?', answer: 'No: según su propia ficha técnica en MercadoLibre, la estructura es de plástico (con metal en algunas partes internas). Es un dato a tener en cuenta a este precio, sobre todo si comparás contra máquinas de cuerpo de acero inoxidable.' },
+      { question: '¿Es ruidosa?', answer: 'Las reseñas la describen consistentemente como silenciosa: una compradora la elige entre otras cosas por eso y otra la califica "manejable por adolescentes" por lo simple e intuitiva que resulta de usar.' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', date: 'febrero 2026', useful: 17, text: 'Muy buena cafetera, realmente hace todo muy fácil, y salen unos cafés excelentes, de muchos tipos distintos, calientes o fríos y personalizables al extremo de que cada usuario puede tener grabado su café a gusto. Muy automática, hace todo y solo hay que apretar un par de botones. He tenido otras cafeteras como la oster pimalatte que fue muy buena también pero no tiene la cantidad de programas que ésta... Con ésta cafetera te olvidás de todo eso, solo ponés todos los granos de café en su recipiente y apretás el botón, te sale el café y si querés hacer otro volvés a apretar el botón y listo. La limpieza es una maravilla, el recipiente de leche tiene una limpieza rápida y cuando apagas la cafetera se limpia automáticamente el vertedor de café.' },
+      { rating: 5, country: 'Argentina', date: 'enero 2026', useful: 14, text: 'Estoy muy contenta con mi cafetera philips, es hermosa, fácil de usar, los cafés y bebidas son riquísimas, es silenciosa, y me encanta su efectiva pantalla táctil inteligente que todo te indica: largo de café, cantidad y molido de grano, tiene memoria para guardar distintos perfiles de cafés elegidos. Te avisa cuando agregar agua, vaciar bandeja, vaciar residuos de café, agregar café. Además si te quedas sin café en grano, tiene un compartimento para café molido.' },
+      { rating: 4, country: 'Argentina', date: 'enero 2026', useful: 7, text: 'Adictiva!. Preparar cada café es una experiencia muy placentera. Solo la recomiendo si la encontrás en oferta, por que el precio es muy alto por lo que te ofrece. El único punto en contra que le veo es el mantenimiento, tenés que cambiar el filtro de agua cada 3 meses, usar pastillas desengrasantes una vez al mes y cada cierto tiempo hacer una descalcificación. Si estás dispuesto a realizar el mantenimiento por un buen café diario, no lo dudes.' },
+      { rating: 5, country: 'Argentina', date: 'febrero 2026', useful: 4, text: 'Esta increible, la verdad que funciona barbaro! alta compra para a quien le gusta tomar un buen cafe!.' },
+      { rating: 5, country: 'Argentina', date: 'febrero 2026', useful: 3, text: 'Intuitivo, estéticamente hermoso! variedad de cafés infinitos!! lo mejor, la leche espumada y taza de viaje!! fácil de limpiar y recargar! manejable por adolescentes.' },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Philips EP5541/50 Serie 5500 LatteGo',
+      image: 'https://http2.mlstatic.com/D_Q_NP_875997-MLA111832258952_062026-F.webp',
+      description: 'Cafetera espresso totalmente automática Philips EP5541/50 Serie 5500, con molinillo cerámico integrado, sistema de espuma de leche LatteGo y 20 bebidas preprogramadas. 4.9 estrellas con 162 calificaciones en MercadoLibre Argentina, vendida por la Tienda Oficial de Philips.',
+      sku: 'EP5541/50',
+      mpn: 'EP5541/50',
+      brand: { '@type': 'Brand', name: 'Philips' },
+      offers: {
+        '@type': 'Offer',
+        url: 'https://www.mercadolibre.com.ar/p/MLA63908884',
+        priceCurrency: 'ARS',
+        price: 1376999,
+        availability: 'https://schema.org/InStock',
+        itemCondition: 'https://schema.org/NewCondition',
+        seller: { '@type': 'Organization', name: 'Philips (Tienda Oficial MercadoLibre Argentina)' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.9',
+        reviewCount: '162',
+      },
+    },
+    relatedProducts: ['MLA39987014', 'MLA53370426', 'MLA48828162'],
+  },
+
+  {
+    id: 'MLA39987014',
+    title: "Cafetera espresso De'Longhi Magnifica Start ECAM220.80.SB 15 bar gris",
+    canonicalName: "De'Longhi Magnifica Start ECAM220.80.SB",
+    brand: "De'Longhi",
+    mpn: 'ECAM220.80.SB',
+    reviewsSampledAt: '2026-07-27',
+    price: 1779914.53,
+    originalPrice: undefined,
+    priceUpdated: '2026-07-27',
+    priceLastChecked: '2026-07-27',
+    priceStatus: 'fresh',
+    currency: 'ARS',
+    // Imágenes reales pasadas por Juan (copiadas del listado), verificadas con HEAD el 27/07/2026:
+    // todas -F.webp, 200 OK, 20KB-76KB (muy por encima del umbral de miniatura -R).
+    image: 'https://http2.mlstatic.com/D_NQ_NP_2X_886012-MLA99454642066_112025-F.webp',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_2X_886012-MLA99454642066_112025-F.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_2X_994590-MLA95661815998_102025-F.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_2X_903887-MLU78828677142_092024-F.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_2X_677058-MLU78828590596_092024-F.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_2X_937478-MLU78828590612_092024-F.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_2X_665474-MLU78828532870_092024-F.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_2X_706859-MLU78828541970_092024-F.webp',
+    ],
+    category: 'Cocina',
+    categorySlug: 'cocina',
+    permalink: 'https://www.mercadolibre.com.ar/p/MLA39987014',
+    affiliateUrl: 'https://meli.la/1XU8pVs',
+    condition: 'new',
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 35,
+    reviewsWithPhotos: 3,
+    pastelColor: 'var(--pastel-coral)',
+    description: "Cafetera espresso De'Longhi Magnifica Start ECAM220.80.SB: la superautomática más cara del catálogo, a $1.779.914,53. Muele el grano fresco antes de cada café, arma espuma de leche sola con la tecnología LatteCrema Hot y prepara 5 bebidas con un solo toque. Vendida y despachada por Mercado Libre (Full), con 4.7 estrellas — pero solo 35 calificaciones para este precio, y quedan las últimas 4 unidades.",
+    aiReviewSummary: 'Las reseñas completas que pudimos revisar (5 de las 35 totales — MercadoLibre no expandió el resto sin interacción manual) coinciden en la presentación, la calidad de los materiales y lo fácil que resulta de usar, incluso para preparar café con leche "con un solo botón". La única voz con un matiz negativo real aparece dentro de una reseña de 5 estrellas: el consumo de café/grano sube rápido una vez que la usás seguido. No hay ninguna reseña de 4 estrellas o menos entre las que pudimos ver, algo llamativo para una muestra ya chica de 35 calificaciones en total a este precio.',
+    seoTitle: "De'Longhi Magnifica Start ECAM220.80.SB: ¿vale $1,78M?",
+    metaDescription: "Análisis de la cafetera más cara del catálogo: muele el grano, arma espuma de leche sola y son 4.7★ en 35 opiniones. El precio real y para quién tiene sentido.",
+    ogTitle: "$1,78 millones por una cafetera: la más cara del catálogo, analizada",
+    ogDescription: "Superautomática de verdad, con espuma de leche sin manijear y 5 bebidas de un toque — pero con solo 35 calificaciones para semejante precio. Análisis sin filtro.",
+    h1: "Cafetera espresso De'Longhi Magnifica Start ECAM220.80.SB: la más cara del catálogo, analizada sin filtro",
+    pros: [
+      'Superautomática real: muele el grano fresco antes de cada café, con tolva para 250 g y 7 niveles de molienda',
+      'Tecnología LatteCrema Hot: arma espuma de leche sola, sin manijear una lanza de vapor, con limpieza de un toque',
+      '5 bebidas con un solo botón: Espresso, Café, Cappuccino, Latte Macchiato y Agua caliente',
+      'Vendida y despachada por Mercado Libre (Tienda Oficial, Full, +1 millón de ventas): Compra Protegida, Factura A y 1 año de garantía de fábrica',
+      'Mismo precio en 6 cuotas sin interés de $296.652,42',
+      'Pantalla digital y doble boquilla — panel simple, sin curva de aprendizaje según las reseñas disponibles',
+    ],
+    cons: [
+      'Cuesta $1.779.914,53 — un 29% más que la siguiente más cara del catálogo (Philips EP5541/50, $1.376.999) y casi el doble que la Peabody PE-CE5023IX ($1.044.999)',
+      'Solo 35 calificaciones para este precio: una muestra chica, más chica incluso que la de la Philips (162) o la Oster EM7301 (138)',
+      'Según una reseña real de 5 estrellas, el consumo de café "se eleva exponencialmente" con el uso — el costo por taza puede terminar siendo más alto de lo esperado',
+      'Pesa 9,2 kg según el fabricante (mismo modelo global): conviene tener un lugar fijo en la mesada, no es para mover seguido',
+      'Quedan las últimas 4 unidades en la publicación: si el precio en cuotas convence, no hay mucho margen para pensarlo',
+    ],
+    verdict: "Es la cafetera más premium y más cara del catálogo: muele el grano, arma la espuma de leche sola y la vende Mercado Libre directamente. Pero a $1.779.914,53 — con solo 35 calificaciones — hay que preguntarse si esa automatización extra justifica pagar $403.000 más que la Philips EP5541/50 o casi el doble que la Peabody PE-CE5023IX. Si el presupuesto no es problema y el LatteCrema Hot automático es no negociable, es la mejor opción del catálogo hoy. Si no, compará primero contra esas dos antes de pagar la diferencia.",
+    articleBody: `## La cafetera más cara del catálogo
+
+La De'Longhi Magnifica Start ECAM220.80.SB cuesta $1.779.914,53 — la cafetera más cara de todo el catálogo, superando incluso a la Philips EP5541/50 ($1.376.999) y a la Peabody PE-CE5023IX ($1.044.999), que hasta ahora se disputaban el primer puesto. Tiene 4.7 estrellas, pero con apenas 35 calificaciones. Está vendida y despachada directamente por Mercado Libre (Full, Tienda Oficial, más de un millón de ventas), lo que suma un plus de confianza que las otras dos no tienen de la misma forma.
+
+## Qué hace: del grano a la taza, con espuma de leche sola
+
+Es una superautomática real: tiene molinillo integrado con 7 niveles de molienda y una tolva para 250 gramos de café en grano, así que no hay que moler nada aparte. La bomba trabaja a 15 bar y el depósito de agua es de 1,8 litros. Lo que la distingue es la tecnología LatteCrema Hot: arma espuma de leche fina y caliente sin que tengas que manejar una lanza de vapor a mano, con un ciclo de limpieza automático después de cada uso. Con eso arma 5 bebidas con un solo toque: Espresso, Café, Cappuccino, Latte Macchiato y Agua caliente, todo desde una pantalla digital con doble boquilla de salida.
+
+## Lo que dicen los que la compraron
+
+De las 35 calificaciones, Mercado Libre solo mostró 5 reseñas completas sin necesitar hacer clic para expandir el resto — y las cinco son de 5 estrellas. El patrón es consistente: presentación, funcionamiento y calidad de materiales. Una compradora la resume así: "para el hogar es de lo mejor, iba a comprar una Saeco pero es más para uso intensivo. Hace unas bebidas con leche exquisitas". Otra la eligió justamente por lo simple que resulta para toda la familia: "fácil de usar… los chicos felices porque con solo un botón tienen su café con leche".
+
+## La única contra real que encontramos
+
+Entre esas cinco reseñas de 5 estrellas hay una que, sin bajarle la nota, deja un dato honesto: "muy buena cafetera, excelente presentación y funcionamiento, los materiales son de excelente calidad. La única parte mala: la cantidad de café que consumís se eleva exponencialmente con lo práctica que es usarla". Traducido: al ser tan fácil de usar, es fácil también tomar más café (y gastar más grano) del que gastarías con una cafetera que te obliga a prepararla a mano. No es un defecto de la máquina, pero es un costo de uso real que conviene tener en cuenta antes de comprar.
+
+## Vendida por Mercado Libre: qué cambia
+
+A diferencia de la mayoría de las cafeteras del catálogo (vendidas por terceros o por la tienda oficial de cada marca), esta la vende y despacha Mercado Libre directamente, con logística Full. Eso suma Compra Protegida, devolución gratis dentro de los 30 días, Factura A y 1 año de garantía de fábrica — el mismo respaldo que tendría cualquier compra grande en el sitio, sin depender de la reputación de un vendedor particular. A este precio, es un dato que pesa.
+
+## Cómo se compara con las otras cafeteras del catálogo
+
+Contra la [Philips EP5541/50 Serie 5500](/producto/MLA63908884) ($1.376.999): la Philips suma 20 bebidas preprogramadas y memoria para 4 perfiles de usuario, con mejor volumen de opiniones (162 contra 35), pero sus propios compradores avisan que "el precio es muy alto por lo que te ofrece" y que pide mantenimiento periódico (filtro cada 3 meses, desengrasante mensual, descalcificación). La De'Longhi cuesta $403.000 más pero suma espuma de leche automática con LatteCrema Hot, algo que la Philips no tiene de la misma forma.
+
+Contra la [Peabody PE-CE5023IX](/producto/MLA53370426) ($1.044.999): la Peabody tiene molinillo integrado también, pero sus reseñas señalan justamente el molinillo como el punto flojo ("no alcanza a moler tan fino como para el expreso perfecto") y una ficha eléctrica de 20 A que puede pedir instalación dedicada. La De'Longhi cuesta casi el doble, pero no arrastra ninguna de esas dos quejas en las reseñas disponibles.
+
+Contra la [Oster Perfect Brew EM7301](/producto/MLA48828162) ($967.135): sigue siendo la opción con mejor relación precio-rating del trío premium (4.8★ en 138 opiniones), con molinillo de 30 configuraciones elogiado en sus reseñas. Es la alternativa lógica si la automatización total de la De'Longhi no justifica pagar casi el doble.
+
+## ¿Para quién es (y para quién no)?
+
+Es para vos si: el presupuesto no es la limitante, querés la automatización más completa del catálogo (grano molido al momento + espuma de leche sola, sin manijear nada), y valorás que la venda y despache Mercado Libre directamente. No es para vos si: buscás la mejor relación precio-resultado en la franja premium (ahí la Oster EM7301 sigue ganando), te preocupa comprar con una muestra chica de opiniones (35, la más chica del trío de cafeteras premium), o el consumo extra de café por lo cómoda que es la máquina te importa para el presupuesto mensual.
+
+A $1.779.914,53 con 4.7 estrellas y solo 35 opiniones — y con apenas 4 unidades quedando en stock — es la cafetera más completa del catálogo, pero también la que menos margen de opiniones tiene para respaldar semejante precio.`,
+    specs: [
+      { label: 'Marca / Línea', value: "De'Longhi / Magnifica Start" },
+      { label: 'Modelo', value: 'ECAM220.80.SB' },
+      { label: 'Color', value: 'Gris (Silver)' },
+      { label: 'Tecnología', value: 'Automática, con molinillo integrado' },
+      { label: 'Capacidad de granos', value: '250 g (ficha del fabricante, mismo modelo global)' },
+      { label: 'Capacidad de agua', value: '1,8 L' },
+      { label: 'Contenedor de posos', value: '14 unidades' },
+      { label: 'Presión de la bomba', value: '15 bar' },
+      { label: 'Niveles de molienda / intensidad', value: '7 niveles de molienda, 5 de intensidad' },
+      { label: 'Potencia', value: '1.450 W según ficha técnica de ML (la descripción del vendedor indica 1.405 W)' },
+      { label: 'Estructura', value: 'Acero inoxidable' },
+      { label: 'Espuma de leche', value: 'Automática, tecnología LatteCrema Hot con limpieza de un toque' },
+      { label: 'Bebidas con un toque', value: 'Espresso, Café, Cappuccino, Latte Macchiato, Agua caliente' },
+      { label: 'Funciones', value: 'Temporizador, antigoteo, indicador de agua, limpieza automática, función aroma ajustable' },
+      { label: 'Peso', value: '9,2 kg (ficha del fabricante, mismo modelo global ECAM220.80.SB)' },
+      { label: 'Dimensiones', value: '24 x 44 x 35 cm (ancho x prof x alto)' },
+      { label: 'Garantía', value: '1 año de fábrica' },
+    ],
+    faq: [
+      { question: "¿La De'Longhi Magnifica Start ECAM220.80.SB muele el café en el momento?", answer: 'Sí, es una superautomática real: tiene molinillo integrado con 7 niveles de molienda y una tolva para 250 gramos de grano, así que muele antes de cada café. No hace falta comprar un molinillo aparte ni cargar café molido, aunque la ficha técnica no aclara si acepta café pre-molido como alternativa.' },
+      { question: '¿Hace espuma de leche sola?', answer: 'Sí, con la tecnología LatteCrema Hot: arma espuma de leche fina y caliente sin que tengas que manejar una lanza de vapor a mano, con limpieza automática de un toque después de cada uso. Es la base de las bebidas Cappuccino y Latte Macchiato que prepara con un solo botón.' },
+      { question: '¿Cuántas bebidas prepara con un toque?', answer: 'Cinco: Espresso, Café, Cappuccino, Latte Macchiato y Agua caliente. Todo se elige desde una pantalla digital con doble boquilla de salida.' },
+      { question: '¿Quién vende y envía esta cafetera?', answer: 'La vende y despacha Mercado Libre directamente (Tienda Oficial, logística Full, más de un millón de ventas). Eso suma Compra Protegida, devolución gratis dentro de los 30 días, Factura A y 1 año de garantía de fábrica — un respaldo distinto al de comprarle a un vendedor particular.' },
+      { question: '¿Por qué cuesta $1.779.914,53?', answer: "Es la combinación más completa del catálogo: molinillo integrado, espuma de leche automática con LatteCrema Hot, 5 bebidas de un toque y la logística Full de Mercado Libre. Es un 29% más cara que la Philips EP5541/50 ($1.376.999) y casi el doble que la Peabody PE-CE5023IX ($1.044.999), las otras dos superautomáticas premium del catálogo." },
+      { question: "¿Conviene esta o la Peabody PE-CE5023IX?", answer: 'Las reseñas de la Peabody marcan el molinillo como punto flojo ("no alcanza a moler tan fino") y una ficha eléctrica de 20 A que puede pedir instalación dedicada. La De\'Longhi no arrastra ninguna de esas dos quejas en las reseñas disponibles, pero cuesta casi el doble ($1.779.914,53 contra $1.044.999).' },
+      { question: '¿Y contra la Philips EP5541/50?', answer: 'La Philips suma 20 bebidas preprogramadas y memoria para 4 perfiles, con más volumen de opiniones (162 contra 35) — pero sus propios compradores avisan que el precio es alto para lo que ofrece y que pide mantenimiento periódico (filtro, desengrasante, descalcificación). La De\'Longhi cuesta $403.000 más pero suma espuma de leche automática con LatteCrema Hot.' },
+      { question: '¿Es confiable comprar con solo 35 calificaciones?', answer: 'Es la pregunta correcta para este precio: 35 es la muestra más chica de las tres superautomáticas premium del catálogo (contra 162 de la Philips y 138 de la Oster EM7301). Las cinco reseñas completas que pudimos revisar son todas de 5 estrellas, sin ninguna crítica seria más allá del mayor consumo de café que señala una compradora. Es una base sólida pero chica para una compra de casi $1,8 millones.' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', date: 'diciembre 2025', useful: 4, text: 'Muy buena cafetera. Excelente presentación y funcionamiento. Los materiales son de excelente calidad. La única parte mala: la cantidad de café que consumís se eleva exponencialmente con lo práctica que es usarla.' },
+      { rating: 5, country: 'Argentina', date: 'julio 2025', useful: 4, text: 'Para el hogar es de lo mejor! Iba a comprar una Saeco pero es más para uso intensivo. Hace unas bebidas con leche exquisitas!' },
+      { rating: 5, country: 'Argentina', date: 'abril 2026', useful: 1, text: 'Fácil de usar… los chicos felices porque con solo un botón tienen su café con leche.' },
+      { rating: 5, country: 'Argentina', date: 'febrero 2026', useful: 1, text: 'Funciona perfecta.' },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: "De'Longhi Magnifica Start ECAM220.80.SB",
+      image: 'https://http2.mlstatic.com/D_NQ_NP_2X_886012-MLA99454642066_112025-F.webp',
+      description: "Cafetera espresso superautomática De'Longhi Magnifica Start ECAM220.80.SB, con molinillo integrado, espuma de leche automática LatteCrema Hot y 5 bebidas de un toque. Vendida y despachada por Mercado Libre Argentina (Full). 4.7 estrellas con 35 calificaciones.",
+      sku: 'ECAM220.80.SB',
+      mpn: 'ECAM220.80.SB',
+      brand: { '@type': 'Brand', name: "De'Longhi" },
+      offers: {
+        '@type': 'Offer',
+        url: 'https://www.mercadolibre.com.ar/cafetera-espresso-magnifica-ecam22080sb-15bar-color-gris-delonghi/p/MLA39987014',
+        priceCurrency: 'ARS',
+        price: 1779914.53,
+        availability: 'https://schema.org/InStock',
+        itemCondition: 'https://schema.org/NewCondition',
+        seller: { '@type': 'Organization', name: 'Mercado Libre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.7',
+        reviewCount: '35',
+      },
+    },
+    relatedProducts: ['MLA63908884', 'MLA53370426', 'MLA48828162'],
+  },
+
   // ─────────────────────────────────────────────────────────
   // Silo cuidado-personal — pilar secador-de-pelo — fichas STAGED
   // ─────────────────────────────────────────────────────────
@@ -48602,7 +48893,7 @@ Comprálo si Sterling Silver es el color que buscás específicamente. Si el pre
     id: "MLA41152829",
     title: "Joystick Ps5 Sony Playstation 5 Dualsense Edge Zcp1",
     canonicalName: "Joystick DualSense Edge PS5",
-    price: 358620,
+    price: 434999,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_915932-MLA99925683685_112025-F.jpg",
     images: [
@@ -61563,6 +61854,380 @@ Comprá el Samsung Galaxy Watch7 si tenés un celular Android y querés pagar si
         "@type": "AggregateRating",
         ratingValue: "4.9",
         reviewCount: "9204",
+      },
+    },
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva garmin — silo tech, categoria "smartwatches-garmin".
+  // Origen: pedido de Juan de evaluar Garmin como marca específica de
+  // running/deporte (2026-07-27), tras el piloto de comparación técnica
+  // en la guía smartwatch. Keyword Planner: "garmin" 27.100/mes, "reloj
+  // garmin" 4.400/mes, "fēnix" 33.100/mes y "venu" 27.100/mes con
+  // competencia BAJA pese al volumen. Fichas sourceadas vía Bright Data
+  // el mismo día. Posicionamiento: running/multideporte, no lifestyle
+  // genérico — Vivoactive y Venu solo tienen stock por importación
+  // directa desde EEUU en Argentina al momento de sourcear (impuestos y
+  // envío de 12-35 días), Forerunner y Fenix sí tienen stock doméstico
+  // real. La línea Venu se menciona en la guía sin ficha propia
+  // (siembra a futuro, mismo criterio que Oura Ring).
+  // ─────────────────────────────────────────────────────────
+  {
+    id: "MLA44250809",
+    title: "Smartwatch Forerunner 55 Negro Garmin",
+    canonicalName: "Smartwatch Garmin Forerunner 55",
+    price: 357160,
+    originalPrice: 499999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_893613-MLA114854815761_072026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_893613-MLA114854815761_072026-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_688365-MLA92105945860_092025-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_786639-MLA92511365687_092025-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_635258-MLA92106085130_092025-F.webp",
+    ],
+    category: "Tech",
+    categorySlug: "tech",
+    permalink: "https://www.mercadolibre.com.ar/garmin-forerunner-55-reloj-gps-running-caja-negro-malla-negro-bisel-negro-diseno-de-la-malla-mesh/p/MLA44250809",
+    affiliateUrl: "https://meli.la/21ty8dy",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 6433,
+    soldQuantity: 5000,
+    pastelColor: "var(--pastel-azul)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Garmin" },
+      { label: "Modelo", value: "010-02562-00, versión Sport" },
+      { label: "Pantalla", value: "1,04\", LCD MIP monocromática (no AMOLED)" },
+      { label: "Caja", value: "42 mm, polímero reforzado, negro" },
+      { label: "GPS", value: "Real, integrado" },
+      { label: "Conectividad", value: "Bluetooth, Wi-Fi. Sin NFC ni red móvil" },
+      { label: "Resistencia al agua", value: "5 ATM, 50 m" },
+      { label: "Memoria", value: "La ficha de MercadoLibre declara \"32 GB internos, 2 KB de RAM\", pero Garmin no publica esas cifras para este modelo — su documentación oficial habla de historial de hasta 200 horas de datos de actividad, no de RAM ni de 32 GB de almacenamiento. No tomamos el dato de MercadoLibre como confiable" },
+      { label: "Batería", value: "158 mAh. 20 h en modo GPS, hasta 2 semanas en modo reloj" },
+      { label: "Peso", value: "37 g" },
+      { label: "Compatibilidad", value: "Android, iOS" },
+      { label: "Funciones", value: "GPS, contador de pasos, monitor de sueño, detección de caídas, SOS, medidor de O2, control de ciclo menstrual" },
+      { label: "Accesorios incluidos", value: "Cable de carga, manual" },
+    ],
+    relatedProducts: ["MLA61667894", "MLA26825857"],
+    priceUpdated: "2026-07-27",
+    priceLastChecked: "2026-07-27",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-27",
+    description: "Smartwatch Garmin Forerunner 55: la puerta de entrada a la marca en Argentina, con GPS real integrado y la base de reseñas más grande de la categoría (6.433 calificaciones, 4.8 estrellas).",
+    seoTitle: "Garmin Forerunner 55: el reloj Garmin más vendido en Argentina",
+    metaDescription: "Smartwatch Garmin Forerunner 55, GPS real, 6.433 calificaciones reales en MercadoLibre. Precio actualizado y stock verificado.",
+    verdict: "El Forerunner 55 es la puerta de entrada más segura a Garmin en Argentina: GPS real integrado (no depende del celular), 20 horas de batería en modo GPS y, sobre todo, una base de reseñas que ninguna otra opción de Garmin en el país se acerca a igualar (6.433 calificaciones, 4.8 estrellas). Al momento de verificar tenía 28% de descuento sobre el precio de lista y más de 50 unidades disponibles. La contra real: pantalla LCD monocromática, sin AMOLED, sin NFC y sin mapas — es un reloj para entrenar, no un smartwatch de uso diario con notificaciones ricas. No es para vos si buscás pantalla a color o pagos sin contacto: para eso conviene mirar el Forerunner 965 de esta guía.",
+    pros: [
+      "Con diferencia la base de reseñas más grande de este trío Garmin: 6.433 calificaciones, 4.8 estrellas",
+      "GPS real integrado, no depende de llevar el celular para medir distancia",
+      "Precio de entrada a la marca, con 28% de descuento sobre el precio de lista al momento de verificar",
+      "Stock sano: más de 50 unidades disponibles, vendido por una tienda con más de 10 mil ventas",
+    ],
+    cons: [
+      "Pantalla LCD monocromática (MIP), no AMOLED — se nota al lado de modelos más caros de esta guía",
+      "Sin NFC ni mapas: pensado para entrenar, no como smartwatch de uso diario con notificaciones ricas",
+      "El envío gratis que muestra la ficha es una promo de primera compra en MercadoLibre, no una condición fija del vendedor",
+      "No corre apps ni guarda música — es un reloj de entrenamiento, no un smartwatch con memoria multimedia",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Garmin Forerunner 55 es el modelo de entrada de la línea Forerunner, pensado específicamente para correr: GPS real integrado, sin las funciones de smartwatch genérico (NFC, apps, música) que sí tienen otros modelos de esta guía. Es para quien quiere entrenar con datos precisos sin pagar el precio de los modelos AMOLED de gama alta.
+
+## Cómo funciona
+
+Pantalla de 1,04" LCD MIP monocromática (no AMOLED), caja de 42 mm en polímero reforzado, batería de 158 mAh que rinde 20 horas en modo GPS o hasta 2 semanas en modo reloj sin GPS activo. Resistencia al agua de 5 ATM (50 m), conectividad Bluetooth y Wi-Fi, sin NFC ni red móvil. Según su ficha técnica en MercadoLibre, incluye funciones de contador de pasos, monitor de sueño, detección de caídas, SOS, medidor de O2 y control de ciclo menstrual, además de GPS.
+
+## La contra real
+
+La pantalla es el compromiso más claro: LCD monocromática, no AMOLED, se ve bastante más simple que el Forerunner 965 o el Fenix 7 Pro de esta misma guía. Tampoco tiene NFC para pagos ni mapas de navegación. Una reseña real describe bien para qué sirve y para qué no: "excelente reloj, básico pero completo, muy preciso, no es difícil de utilizar, es práctico". Es un reloj de entrenamiento, no un smartwatch de uso diario con notificaciones ricas.
+
+## Cómo se compara con las otras de esta guía
+
+Frente al [Garmin Forerunner 965](/producto/MLA61667894) (la opción AMOLED de esta guía), el 55 cuesta bastante menos pero sacrifica pantalla a color, NFC, música offline y mapas. Frente al [Fenix 7 Pro](/producto/MLA26825857) (tope de gama multideporte), la diferencia es todavía mayor: el Fenix suma mapas, resistencia a 10 ATM y batería solar, a más del triple de precio. El Forerunner 55 tiene sentido si tu prioridad es empezar a entrenar con GPS real de Garmin al menor costo posible, no si buscás un reloj para usar todo el día como reemplazo del celular.
+
+## Para quién sí y para quién no
+
+Comprá el Forerunner 55 si querés tu primer reloj Garmin con GPS real para entrenar, priorizando precio y la base de reseñas más grande de la marca en Argentina. No es para vos si buscás pantalla a color, NFC para pagos o mapas de navegación: para eso, mirá el [Forerunner 965](/producto/MLA61667894) o el [Fenix 7 Pro](/producto/MLA26825857) de esta guía.`,
+    faq: [
+      {
+        question: "¿Tiene GPS real o depende del celular?",
+        answer: "Tiene GPS real integrado. No necesita el celular cerca para medir distancia y ritmo durante el entrenamiento.",
+      },
+      {
+        question: "¿Tiene pantalla a color?",
+        answer: "No. Es una pantalla LCD MIP monocromática (blanco y negro), a diferencia del Forerunner 965 o el Fenix 7 Pro de esta guía, que sí tienen AMOLED a color.",
+      },
+      {
+        question: "¿Cuánto dura la batería?",
+        answer: "Según la ficha del fabricante: 20 horas en modo GPS activo, o hasta 2 semanas en modo reloj sin GPS.",
+      },
+      {
+        question: "¿Tiene NFC para pagar sin contacto?",
+        answer: "No. Ninguna función de pago sin contacto en este modelo. Para eso, en esta guía conviene mirar el Forerunner 965.",
+      },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Smartwatch Garmin Forerunner 55",
+      image: [
+        "https://http2.mlstatic.com/D_Q_NP_893613-MLA114854815761_072026-O.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_688365-MLA92105945860_092025-F.webp",
+      ],
+      description: "Smartwatch Garmin Forerunner 55, GPS real integrado, pantalla LCD MIP, 6.433 calificaciones reales.",
+      brand: { "@type": "Brand", name: "Garmin" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/garmin-forerunner-55-reloj-gps-running-caja-negro-malla-negro-bisel-negro-diseno-de-la-malla-mesh/p/MLA44250809",
+        priceCurrency: "ARS",
+        price: "357160",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.8",
+        reviewCount: "6433",
+      },
+    },
+  },
+  {
+    id: "MLA61667894",
+    title: "Smartwatch Garmin Forerunner 965 Reloj Garmin Gris Y Blanco",
+    canonicalName: "Smartwatch Garmin Forerunner 965",
+    price: 1383199,
+    originalPrice: 1455999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_835518-MLA99939958629_112025-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_835518-MLA99939958629_112025-F.webp",
+      "https://http2.mlstatic.com/D_Q_NP_727276-MLA97204384315_112025-F.webp",
+    ],
+    category: "Tech",
+    categorySlug: "tech",
+    permalink: "https://www.mercadolibre.com.ar/smartwatch-garmin-forerunner-965-reloj-garmin-gris-y-blanco/p/MLA61667894",
+    affiliateUrl: "https://meli.la/2pbrKrj",
+    condition: "new",
+    freeShipping: true,
+    rating: 5.0,
+    reviewCount: 51,
+    soldQuantity: 5,
+    pastelColor: "var(--pastel-coral)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Garmin" },
+      { label: "Modelo", value: "Forerunner 965 Blanco" },
+      { label: "Pantalla", value: "AMOLED 1,4\", 454x454 px" },
+      { label: "Caja", value: "Blanco, bisel plateado" },
+      { label: "GPS", value: "Real, integrado, con altímetro y barómetro" },
+      { label: "Conectividad", value: "Wi-Fi, Bluetooth, NFC" },
+      { label: "Resistencia al agua", value: "5 ATM, apta para nadar" },
+      { label: "Memoria", value: "32 GB internos, con reproducción de audio" },
+      { label: "Batería", value: "Hasta 31 h en modo GPS. En modo smartwatch (sin GPS), hasta 23 días — según la web oficial de Garmin. La ficha de MercadoLibre declara solo \"23 h\", una cifra que no coincide con ninguno de los dos modos oficiales; no la tomamos como dato confiable" },
+      { label: "Malla", value: "Silicona deportiva, ajustable 135-205 mm" },
+      { label: "Compatibilidad", value: "Android, iOS" },
+      { label: "Sensores", value: "Acelerómetro, altímetro, barómetro, frecuencia cardíaca" },
+      { label: "Vendedor", value: "Tienda oficial Mercado Libre (Full), más de 1 millón de ventas" },
+    ],
+    relatedProducts: ["MLA44250809", "MLA26825857"],
+    priceUpdated: "2026-07-27",
+    priceLastChecked: "2026-07-27",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-27",
+    description: "Smartwatch Garmin Forerunner 965: pantalla AMOLED, NFC y mapas, vendido por la tienda oficial de Mercado Libre con stock sano y 51 calificaciones a 5 estrellas.",
+    seoTitle: "Garmin Forerunner 965: AMOLED, NFC y la mejor calificación de esta guía",
+    metaDescription: "Smartwatch Garmin Forerunner 965, pantalla AMOLED, NFC, 51 calificaciones a 5 estrellas. Vendido por la tienda oficial de Mercado Libre.",
+    verdict: "El Forerunner 965 es el punto medio de esta guía: pantalla AMOLED de 1,4\" a color, NFC, GPS con altímetro y barómetro, y la calificación más alta del trío (5.0 estrellas en 51 opiniones). Un dato que la ficha de MercadoLibre no deja claro y vale la pena aclarar con la web oficial de Garmin: la batería rinde hasta 31 horas en modo GPS, pero en modo smartwatch (sin GPS activo) llega a 23 días, mejor que las 2 semanas del Forerunner 55 en el mismo modo. Está vendido por la tienda oficial de Mercado Libre con logística Full, lo que le da el stock más confiable de esta guía (más de 5 unidades disponibles al verificar) frente al Fenix 7 Pro, que dependía de un solo vendedor con última unidad. La contra real: cuesta casi 4 veces más que el Forerunner 55, y sus 51 opiniones son mayormente de compradores de otros países de la región, con pocas confirmadas de Argentina.",
+    pros: [
+      "Pantalla AMOLED de 1,4\" a color (454x454 px), muy por encima de la LCD monocromática del Forerunner 55",
+      "NFC real, GPS con altímetro y barómetro incluidos",
+      "Batería real, según la web oficial de Garmin: hasta 31 h en modo GPS o hasta 23 días en modo smartwatch — mejor que el Forerunner 55 en los dos modos, aunque la ficha de MercadoLibre no lo deja tan claro",
+      "Vendido por la tienda oficial de Mercado Libre con logística Full: el stock más confiable de este trío (más de 5 disponibles al verificar)",
+    ],
+    cons: [
+      "Casi 4 veces más caro que el Forerunner 55 de esta misma guía",
+      "51 opiniones es bastante menos volumen que las 6.433 del Forerunner 55, y la mayoría están marcadas como de otros países (México, Brasil), con pocas confirmadas de compradores locales",
+      "La ficha de MercadoLibre declara solo \"23 h\" de batería, una cifra que no coincide con ninguno de los dos modos que publica la web oficial de Garmin (31 h en GPS, 23 días en modo smartwatch) — no la tomamos como dato confiable",
+      "No suma bisel de titanio, cristal de zafiro ni carga solar como el Fenix 7 Pro de esta guía",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Garmin Forerunner 965 es el escalón AMOLED de la línea Forerunner: pantalla a color, NFC y GPS con altímetro y barómetro, para quien ya decidió que quiere un Garmin de running pero no está dispuesto a resignar pantalla ni pagos sin contacto por el precio de entrada del Forerunner 55.
+
+## Cómo funciona
+
+Pantalla AMOLED de 1,4" con resolución de 454x454 px, caja blanca con bisel plateado. Tiene GPS integrado con altímetro y barómetro, resistencia al agua de 5 ATM (apta para nadar), 32 GB de memoria interna con capacidad de reproducir audio, conectividad Wi-Fi, Bluetooth y NFC, y malla de silicona deportiva ajustable de 135 a 205 mm. Es compatible con Android e iOS. La ficha de MercadoLibre declara la batería en "23 h", una cifra que no coincide con ninguno de los dos modos que publica la web oficial de Garmin: hasta 31 horas en modo GPS, o hasta 23 días en modo smartwatch sin GPS.
+
+## La contra real
+
+No es la batería, pese a lo que sugiere la ficha de MercadoLibre a primera vista: la web oficial de Garmin confirma que en modo smartwatch rinde hasta 23 días, mejor que el Forerunner 55 de esta guía. La contra real es el precio (casi 4 veces el Forerunner 55) y el origen de las reseñas: la mayoría están marcadas como de otros países de la región (México, Brasil), con pocas confirmadas de compradores locales. Eso sí, coinciden en el mismo punto sobre para quién es: "están increíbles todas las funciones que tiene este nuevo modelo, sin embargo es costoso y vale la pena si sabes sacarle provecho o eres una persona que se dedica al deporte". No es un reloj para probar casualmente: el precio y las funciones están pensados para quien entrena en serio.
+
+## Cómo se compara con las otras de esta guía
+
+Frente al [Forerunner 55](/producto/MLA44250809) (la entrada de gama), el 965 suma pantalla AMOLED, NFC y mejores sensores, y según la web oficial de Garmin también le gana en batería (31 h en GPS y 23 días en modo smartwatch, contra 20 h y 2 semanas del 55), a casi 4 veces el precio. Frente al [Fenix 7 Pro](/producto/MLA26825857) (tope de gama multideporte), el 965 es más liviano y más barato, pero no tiene bisel de titanio, cristal de zafiro ni carga solar; en cambio, tiene mejor disponibilidad real de stock, porque lo vende directamente la tienda oficial de Mercado Libre en vez de un solo revendedor.
+
+## Para quién sí y para quién no
+
+Comprá el Forerunner 965 si ya corrés en serio y querés pantalla AMOLED, NFC, buena batería y buenos sensores sin llegar al precio del tope de gama. No es para vos si buscás el máximo de resistencia, mapas y funciones multideporte: para eso, el [Fenix 7 Pro](/producto/MLA26825857) de esta guía.`,
+    faq: [
+      {
+        question: "¿Tiene NFC para pagar sin contacto?",
+        answer: "Sí, según su ficha técnica de MercadoLibre.",
+      },
+      {
+        question: "¿Cuánto dura la batería?",
+        answer: "La ficha de MercadoLibre declara \"23 h\", una cifra que no coincide con ningún modo real. Según la web oficial de Garmin: hasta 31 horas en modo GPS, o hasta 23 días en modo smartwatch sin GPS — mejor que el Forerunner 55 de esta guía en los dos modos.",
+      },
+      {
+        question: "¿Quién lo vende y qué tan confiable es el stock?",
+        answer: "Al momento de verificar, la publicación estaba a nombre de la tienda oficial de Mercado Libre, con logística Full y más de 1 millón de ventas acumuladas — el vendedor más confiable de este trío Garmin.",
+      },
+      {
+        question: "¿Es compatible con iPhone?",
+        answer: "Sí, es compatible con Android e iOS según su ficha técnica.",
+      },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Smartwatch Garmin Forerunner 965",
+      image: [
+        "https://http2.mlstatic.com/D_Q_NP_835518-MLA99939958629_112025-F.webp",
+        "https://http2.mlstatic.com/D_Q_NP_727276-MLA97204384315_112025-F.webp",
+      ],
+      description: "Smartwatch Garmin Forerunner 965, pantalla AMOLED, NFC, GPS con altímetro y barómetro, 51 calificaciones a 5 estrellas.",
+      brand: { "@type": "Brand", name: "Garmin" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/smartwatch-garmin-forerunner-965-reloj-garmin-gris-y-blanco/p/MLA61667894",
+        priceCurrency: "ARS",
+        price: "1383199",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "5.0",
+        reviewCount: "51",
+      },
+    },
+  },
+  {
+    id: "MLA26825857",
+    title: "Reloj Gps Garmin Fenix 7 Pro Zafiro 47mm Color de la caja Negro Color del Bisel Negro Diseño de la Correa Quickfit",
+    canonicalName: "Garmin Fenix 7 Pro Zafiro 47mm",
+    price: 1999999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_805206-MLA84539734312_052025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_805206-MLA84539734312_052025-O.webp",
+    ],
+    category: "Tech",
+    categorySlug: "tech",
+    permalink: "https://www.mercadolibre.com.ar/reloj-gps-garmin-fenix-7-pro-zafiro-47mm-color-de-la-caja-negro-color-del-bisel-negro-diseno-de-la-correa-quickfit/p/MLA26825857",
+    affiliateUrl: "https://meli.la/1WNCUtY",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 65,
+    soldQuantity: 3,
+    pastelColor: "var(--pastel-violeta)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Garmin" },
+      { label: "Modelo", value: "Fenix 7 Pro Zafiro 47mm" },
+      { label: "Pantalla", value: "Transflectiva 1,3\", 260x260 px, cristal de zafiro" },
+      { label: "Caja", value: "47 mm, negro; bisel de titanio, negro" },
+      { label: "Malla", value: "Silicona QuickFit, negro" },
+      { label: "GPS", value: "Real, con mapas y linterna LED" },
+      { label: "Conectividad", value: "Wi-Fi, Bluetooth, NFC" },
+      { label: "Resistencia al agua", value: "10 ATM, 100 m" },
+      { label: "Memoria", value: "32 GB internos — la ficha de MercadoLibre repite el mismo número en el campo RAM, que no tomamos como un dato real de RAM" },
+      { label: "Batería", value: "Modo smartwatch: 18 días (22 días con carga solar). En GPS puro: hasta 57 h (73 h con carga solar); con GPS multibanda de mayor precisión, hasta 23 h (26 h con carga solar) — según la web oficial de Garmin" },
+      { label: "Peso", value: "73 g" },
+      { label: "Compatibilidad", value: "Android, iPhone" },
+      { label: "Funciones", value: "Multideporte, mapas, VO2 máx, esquí, natación en aguas abiertas — según su descripción de MercadoLibre" },
+    ],
+    relatedProducts: ["MLA44250809", "MLA61667894"],
+    priceUpdated: "2026-07-27",
+    priceLastChecked: "2026-07-27",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-27",
+    description: "Garmin Fenix 7 Pro Zafiro 47mm: tope de gama multideporte de esta guía, con bisel de titanio, carga solar y hasta 22 días de batería en modo smartwatch. Stock ajustado al momento de verificar.",
+    seoTitle: "Garmin Fenix 7 Pro: el tope de gama multideporte de esta guía",
+    metaDescription: "Garmin Fenix 7 Pro Zafiro 47mm, bisel de titanio, carga solar, hasta 22 días de batería. 65 calificaciones reales en MercadoLibre.",
+    verdict: "El Fenix 7 Pro es el tope de gama de esta guía: cristal de zafiro, bisel de titanio, resistencia a 10 ATM (el doble que el resto del trío), mapas, linterna LED y, según la web oficial de Garmin, 18 días de batería en modo smartwatch (22 con carga solar) y hasta 57 horas en GPS puro (73 con carga solar). Es, con diferencia, el más caro (casi el doble que el Forerunner 965, más de 5 veces el Forerunner 55). La contra real y la más importante: al momento de verificar quedaba la última unidad en stock de un único vendedor, a diferencia del Forerunner 965, que lo vende la tienda oficial de Mercado Libre con más disponibilidad. Si te interesa esta gama, conviene chequear stock en vivo antes de decidirte, porque puede agotarse o reponerse en cualquier momento.",
+    pros: [
+      "El único de esta guía con bisel de titanio, cristal de zafiro y carga solar",
+      "Resistencia al agua de 10 ATM (100 m), el doble que el resto de este trío",
+      "Batería de largo aliento según la web oficial de Garmin: 18 días en modo smartwatch (22 con sol) y hasta 57 h en GPS puro (73 con sol) — la mejor de esta guía en uso GPS continuo",
+      "Mapas y linterna LED integrados, pensado para multideporte y actividades al aire libre, no solo running",
+    ],
+    cons: [
+      "Al momento de verificar, quedaba la última unidad en stock de un solo vendedor — conviene chequear disponibilidad en vivo antes de comprar",
+      "Es, con diferencia, el más caro de esta guía: casi el doble que el Forerunner 965",
+      "Solo 65 calificaciones, bastante menos volumen que el Forerunner 55 (6.433)",
+      "La ficha de MercadoLibre no publica la batería real ni desglosa memoria de RAM: esos datos salen de la web oficial de Garmin, no de la publicación de venta",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Garmin Fenix 7 Pro Zafiro 47mm es el tope de gama de esta guía: un reloj multideporte con bisel de titanio, cristal de zafiro, mapas, linterna LED y carga solar. Es para quien no solo corre, sino que también hace trekking, esquí o natación en aguas abiertas, y quiere el nivel de resistencia y funciones más alto que ofrece Garmin, sin resignarse a cargarlo todos los días gracias a la carga solar.
+
+## Cómo funciona
+
+Pantalla transflectiva de 1,3" (260x260 px) con cristal de zafiro, caja de 47 mm y bisel de titanio en negro, malla de silicona QuickFit. Resistencia al agua de 10 ATM (100 m), GPS real con mapas y linterna LED integrados, conectividad Wi-Fi, Bluetooth y NFC, 32 GB de memoria interna. La batería, según la web oficial de Garmin (la publicación de MercadoLibre no la detalla): 18 días en modo smartwatch, 22 con carga solar; en GPS puro, hasta 57 horas, 73 con carga solar; con GPS multibanda de mayor precisión, hasta 23 horas, 26 con carga solar.
+
+## La contra real
+
+El precio y la disponibilidad son las dos contras reales de este modelo. Es, por lejos, el más caro de esta guía: casi el doble que el Forerunner 965 y más de 5 veces el Forerunner 55. Y al momento de verificar quedaba la última unidad en stock de un único vendedor, a diferencia del Forerunner 965, que lo vende directamente la tienda oficial de Mercado Libre con mejor disponibilidad. Una reseña real resume bien para qué sirve y qué esperar: "el mejor smartwatch para hacer deporte y ejercicio, muy buenas métricas y muy precisas mediciones... si lo que buscas es sustituir un apple watch no esperes el mismo nivel de integración... no es tan fácil de controlar apps como Spotify, reproducción de videos, o tomar fotos remotamente".
+
+## Cómo se compara con las otras de esta guía
+
+Frente al [Forerunner 965](/producto/MLA61667894), el Fenix suma titanio, zafiro, mapas, linterna y el doble de resistencia al agua, pero cuesta casi el doble y tiene stock mucho más ajustado. Frente al [Forerunner 55](/producto/MLA44250809), la diferencia de precio es enorme (más de 5 veces), y tiene sentido solo si de verdad necesitás las funciones multideporte y la resistencia extra: para correr sin más pretensiones, el 55 alcanza y sobra.
+
+## Para quién sí y para quién no
+
+Comprá el Fenix 7 Pro si hacés multideporte en serio (trekking, esquí, natación en aguas abiertas) y querés el máximo de resistencia y funciones que ofrece Garmin, con carga solar que estira mucho la autonomía. No es para vos si solo corrés en la ciudad (el [Forerunner 55](/producto/MLA44250809) o el [Forerunner 965](/producto/MLA61667894) de esta guía alcanzan) ni si te preocupa la disponibilidad inmediata: conviene verificar stock en vivo antes de decidir la compra.`,
+    faq: [
+      {
+        question: "¿Por qué es tan caro comparado con el resto de esta guía?",
+        answer: "Suma bisel de titanio, cristal de zafiro, resistencia al agua de 10 ATM (el doble que el resto), mapas, linterna LED y carga solar — funciones multideporte que los otros dos modelos de esta guía no tienen.",
+      },
+      {
+        question: "¿Cuánto dura realmente la batería?",
+        answer: "La ficha de MercadoLibre no lo detalla. Según la web oficial de Garmin: en modo smartwatch, 18 días (22 con carga solar); en GPS puro, hasta 57 horas (73 con carga solar); con GPS multibanda de mayor precisión, hasta 23 horas (26 con carga solar).",
+      },
+      {
+        question: "¿Hay buen stock disponible?",
+        answer: "Al momento de verificar, quedaba la última unidad de un único vendedor. Es una señal de stock ajustado — conviene chequear disponibilidad en vivo antes de comprar, a diferencia del Forerunner 965 de esta guía, que lo vende la tienda oficial de Mercado Libre.",
+      },
+      {
+        question: "¿Sirve para nadar o solo para correr?",
+        answer: "Sirve para multideporte: resistencia al agua de 10 ATM apta para natación en aguas abiertas, además de running, trekking y esquí, según su descripción en MercadoLibre.",
+      },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Garmin Fenix 7 Pro Zafiro 47mm",
+      image: [
+        "https://http2.mlstatic.com/D_Q_NP_805206-MLA84539734312_052025-O.webp",
+      ],
+      description: "Garmin Fenix 7 Pro Zafiro 47mm, bisel de titanio, cristal de zafiro, carga solar, resistencia al agua de 10 ATM.",
+      brand: { "@type": "Brand", name: "Garmin" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/reloj-gps-garmin-fenix-7-pro-zafiro-47mm-color-de-la-caja-negro-color-del-bisel-negro-diseno-de-la-correa-quickfit/p/MLA26825857",
+        priceCurrency: "ARS",
+        price: "1999999",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.8",
+        reviewCount: "65",
       },
     },
   },

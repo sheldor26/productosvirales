@@ -22112,6 +22112,10 @@ export const guides: Guide[] = [
         `**Alrededor de {{precio:MLA38058572:k}}:** el [Samsung Galaxy Watch7](/producto/MLA38058572), el único con NFC para pagar sin contacto.`,
       ] },
 
+      { type: "h2", title: `Anillo inteligente: la próxima categoría, todavía no en esta guía`, id: "anillo-inteligente" },
+      { type: "p", content: `Si buscás "anillo inteligente" o "Oura Ring" en Argentina, es una categoría real y en crecimiento a nivel mundial: un anillo sin pantalla que mide sueño, frecuencia cardíaca y actividad, pensado para quien no quiere una pantalla en la muñeca. El Oura Ring es el más conocido, con varios anillos inteligentes de marcas como Samsung y Xiaomi apareciendo también en las búsquedas.` },
+      { type: "p", content: `Todavía no incluimos ninguno en esta guía porque, al revisar MercadoLibre Argentina, no encontramos una opción con la disponibilidad doméstica sana (stock real, entrega rápida, garantía local) que exigimos para el resto de esta guía: lo que hay son publicaciones pausadas o importaciones directas desde Estados Unidos, con impuestos de aduana sumados al precio y entregas de 10 a 15 días. Nuestro criterio es no recomendar algo que no podemos verificar con stock real y sano, así que preferimos avisarte que existe la categoría antes que armar una ficha sobre una publicación que puede no estar disponible cuando la vayas a comprar. Vamos a revisar esta sección a medida que mejore la disponibilidad en el país.` },
+
       { type: "h2", title: `Veredicto: cuál smartwatch comprar`, id: "veredicto" },
       { type: "verdict", content: `Para la mayoría, el **[Xiaomi Redmi Watch 5 Lite](/producto/MLA42520227)** es la compra más segura: el más vendido, con GPS real. Si buscás el más económico, el **[JD Venecia Sport](/producto/MLA26666337)**. Si priorizás más funciones, el **[Amazfit Bip 6](/producto/MLA51929440)**. Si tu prioridad es no cargarlo casi nunca, el **[Haylou Solar LS05S](/producto/MLA24530447)**. Y si querés pagar sin contacto y tenés Android, el **[Samsung Galaxy Watch7](/producto/MLA38058572)**.` },
     ],
@@ -22122,11 +22126,133 @@ export const guides: Guide[] = [
       { question: `¿Necesito GPS en el reloj o alcanza con el del celular?`, answer: `Si entrenás sin llevar el celular, necesitás GPS real integrado, como el [Xiaomi](/producto/MLA42520227), el [Amazfit](/producto/MLA51929440) o el [Samsung](/producto/MLA38058572) de esta guía.` },
       { question: `¿Cuál smartwatch de esta guía tiene NFC para pagar sin contacto?`, answer: `Solo el [Samsung Galaxy Watch7](/producto/MLA38058572), confirmado por reseñas reales. Ninguna de las otras 4 opciones de esta guía tiene NFC, ni siquiera el [Amazfit Bip 6](/producto/MLA51929440), que es la segunda más cara.` },
       { question: `¿Por qué evitaron los smartwatches tipo "X8 Ultra" o "S8 Ultra"?`, answer: `Son clones genéricos sin marca trazable que imitan el diseño de un Apple Watch, frecuentemente con claims de salud (medición de glucosa, precisión clínica) que ningún fabricante certifica. Esta guía prioriza marcas identificables.` },
+      { question: `¿Recomiendan algún anillo inteligente (Oura Ring)?`, answer: `Todavía no. Es una categoría real y en crecimiento, pero al revisar MercadoLibre Argentina no encontramos una publicación con stock confiable: las que hay están pausadas o son importaciones directas desde Estados Unidos con impuestos y 10 a 15 días de entrega. Vamos a sumarla cuando mejore la disponibilidad en el país.` },
     ],
     internalLinks: [
       { label: "Cargador portátil: cuál comprar en Argentina", href: "/guias/tech/cargador-portatil" },
+      { label: "Reloj Garmin: cuál comprar en Argentina", href: "/guias/tech/reloj-garmin" },
     ],
     internalLinksTitle: "Más tech para tu día a día",
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva reloj-garmin — silo tech, categoria "relojes-garmin".
+  // Origen: pedido de Juan de evaluar Garmin como marca específica de
+  // running/deporte (2026-07-27). Keyword Planner: "garmin" 27.100/mes,
+  // "reloj garmin" 4.400/mes, "fēnix" 33.100/mes y "venu" 27.100/mes con
+  // competencia BAJA pese al volumen — el mayor volumen visto en todo
+  // el barrido de tendencias de esta sesión. Fichas sourceadas vía
+  // Bright Data el mismo día. Posicionamiento deliberado en running y
+  // multideporte, no smartwatch lifestyle genérico: al sourcear, la
+  // línea Forerunner y el Fenix tenían stock doméstico real en
+  // MercadoLibre Argentina; Venu y Vivoactive solo se conseguían por
+  // importación directa desde EEUU (impuestos + 12-35 días de envío).
+  // La sección "Otras líneas Garmin en Argentina" cubre esa demanda de
+  // forma honesta, sin ficha ni product-card, como siembra de contenido
+  // para cuando mejore la disponibilidad — mismo criterio aplicado a la
+  // sección "Anillo inteligente" agregada el mismo día dentro de la guía
+  // smartwatch existente (no hay guía Oura Ring propia: no pasaría la
+  // regla de check-guide-monetization.cjs sin una ficha real, y no hay
+  // stock confiable en ML Argentina para fichar una).
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "reloj-garmin",
+    category: "relojes-garmin",
+    silo: "tech",
+    title: `Reloj Garmin: cuál comprar en Argentina [2026]`,
+    seoTitle: `Reloj Garmin: Cuál Comprar en Argentina | Mejores 2026`,
+    metaDescription: `Comparamos los relojes Garmin más vendidos de Argentina: Forerunner 55, Forerunner 965 y Fenix 7 Pro. GPS real, batería y precios reales de MercadoLibre.`,
+    ogTitle: `Reloj Garmin: cuál comprar en Argentina`,
+    ogDescription: `Forerunner 55, Forerunner 965 y Fenix 7 Pro comparados: GPS real, batería real y precio real de MercadoLibre. La guía honesta para elegir tu Garmin.`,
+    ogImage: `https://http2.mlstatic.com/D_Q_NP_893613-MLA114854815761_072026-O.webp`,
+    h1: `Reloj Garmin: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene el **[Garmin Forerunner 55](/producto/MLA44250809)** (alrededor de {{precio:MLA44250809:k}}): la puerta de entrada a la marca, con GPS real y la base de reseñas más grande de Garmin en Argentina (6.433 calificaciones). Si querés pantalla AMOLED a color y NFC, el **[Forerunner 965](/producto/MLA61667894)** (alrededor de {{precio:MLA61667894:k}}), vendido por la tienda oficial de Mercado Libre. Y si hacés multideporte en serio (trekking, esquí, natación), el **[Fenix 7 Pro](/producto/MLA26825857)**, el tope de gama con bisel de titanio y carga solar.`,
+    publishedDate: "2026-07-27",
+    updatedDate: "2026-07-27",
+    hasDisclosure: true,
+    readingTime: 7,
+    standfirst: `Un reloj Garmin va de {{precio:MLA44250809:k}} (la entrada de gama) a {{precio:MLA26825857:k}} (el tope multideporte). La diferencia real no es solo el precio: es si tiene pantalla AMOLED o LCD, si suma NFC y mapas, y sobre todo, qué tan sano está el stock del vendedor. Comparamos 3 con precios reales de MercadoLibre Argentina, priorizando la línea Forerunner (running) porque es la que hoy tiene disponibilidad doméstica confiable en el país.`,
+    quickPicks: [
+      { productMlaId: "MLA44250809", label: "Mejor elección general", labelColor: "green", tagline: "Forerunner 55: la puerta de entrada, GPS real, más reseñas" },
+      { productMlaId: "MLA61667894", label: "AMOLED y NFC", labelColor: "amber", tagline: "Forerunner 965: pantalla a color, tienda oficial de Mercado Libre" },
+      { productMlaId: "MLA26825857", label: "Tope de gama multideporte", labelColor: "purple", tagline: "Fenix 7 Pro: titanio, zafiro y carga solar" },
+    ],
+    intro: [
+      `Garmin es la marca que más busca la gente que corre o entrena en serio en Argentina, con GPS real y métricas deportivas que ningún smartwatch genérico iguala. Pero no todos los modelos Garmin tienen la misma disponibilidad: al armar esta guía, la línea Forerunner (running) y el Fenix (multideporte) tenían stock real y directo en MercadoLibre Argentina, mientras que otras líneas conocidas de la marca, como Venu o Vivoactive, solo se conseguían por importación directa desde Estados Unidos, con impuestos de aduana y hasta 35 días de entrega.`,
+      `Por eso esta guía se enfoca en los 3 modelos Garmin con mejor disponibilidad doméstica real: el [Forerunner 55](/producto/MLA44250809) (entrada de gama), el [Forerunner 965](/producto/MLA61667894) (AMOLED y NFC) y el [Fenix 7 Pro](/producto/MLA26825857) (tope de gama multideporte). Más abajo contamos también qué pasa hoy con Venu y Vivoactive en Argentina, por si tu plan es esperar a que mejore el stock.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_Q_NP_893613-MLA114854815761_072026-O.webp", alt: `Smartwatch Garmin Forerunner 55, la elección general de esta guía`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, el **[Garmin Forerunner 55](/producto/MLA44250809)**: la puerta de entrada, GPS real y la base de reseñas más grande de la marca en Argentina. Si querés **pantalla AMOLED y NFC**, el **[Forerunner 965](/producto/MLA61667894)**. Y si hacés **multideporte en serio**, el **[Fenix 7 Pro](/producto/MLA26825857)**, con titanio y carga solar.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos los relojes Garmin con más ventas y opiniones reales en MercadoLibre Argentina, priorizando los que tenían stock doméstico verificable al momento de sourcear (no publicaciones de importación directa). Cruzamos batería declarada contra batería real reportada en reseñas, y marcamos explícitamente cuándo el stock estaba ajustado. Precios de julio 2026, revisados periódicamente.` },
+
+      { type: "warning", content: `El [Fenix 7 Pro](/producto/MLA26825857) de esta guía tenía la última unidad en stock de un solo vendedor al momento de verificar. Es una señal real de disponibilidad ajustada, no un truco de marketing: si te interesa ese modelo, chequeá stock en vivo antes de decidir la compra.` },
+
+      { type: "h2", title: `Qué mirar antes de comprar un reloj Garmin`, id: "que-mirar" },
+      { type: "p", content: `Primero, **pantalla AMOLED o LCD**: el [Forerunner 55](/producto/MLA44250809) de esta guía tiene LCD monocromática, mientras que el [Forerunner 965](/producto/MLA61667894) y el [Fenix 7 Pro](/producto/MLA26825857) suman AMOLED o transflectiva con mejor definición. Segundo, **NFC para pagos**: solo el [Forerunner 965](/producto/MLA61667894) y el [Fenix 7 Pro](/producto/MLA26825857) de esta guía lo tienen. Tercero, y el más importante en Garmin puntualmente: **el vendedor y el stock real**. Un modelo vendido por la tienda oficial de Mercado Libre (como el [Forerunner 965](/producto/MLA61667894) de esta guía) da mucha más garantía de reposición que un revendedor único con última unidad.` },
+      { type: "p", content: `Un dato específico de esta marca en Argentina: no todas las líneas de Garmin tienen la misma disponibilidad doméstica. La línea Forerunner (running) y el Fenix (multideporte) sí, hoy. Venu y Vivoactive (más orientadas a smartwatch cotidiano) mayormente no — más abajo lo explicamos en detalle.` },
+
+      { type: "h2", title: `Los mejores relojes Garmin 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Garmin Forerunner 55 — mejor elección general` },
+      { type: "product-card", productMlaId: "MLA44250809", label: "Mejor elección general", labelColor: "green", ranking: 1, description: `GPS real, pantalla LCD MIP. 4.8 estrellas en 6.433 calificaciones, la base de reseñas más grande de Garmin en Argentina.` },
+      { type: "p", content: `El [Garmin Forerunner 55](/producto/MLA44250809) es la puerta de entrada a la marca, con GPS real integrado y la base de reseñas más grande de este trío por lejos, a alrededor de {{precio:MLA44250809:k}}.` },
+      { type: "p", content: `La contra real: pantalla LCD monocromática, sin NFC ni mapas. Es un reloj para entrenar, no un smartwatch de uso diario.` },
+      { type: "pull-quote", content: `"Excelente reloj, básico pero completo, muy preciso, no es difícil de utilizar, es práctico."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `2. Garmin Forerunner 965 — AMOLED y NFC` },
+      { type: "product-card", productMlaId: "MLA61667894", label: "AMOLED y NFC", labelColor: "amber", ranking: 2, description: `Pantalla AMOLED a color, NFC, hasta 31 h en GPS o 23 días en modo reloj. 5.0 estrellas, vendido por la tienda oficial de Mercado Libre.` },
+      { type: "p", content: `El [Garmin Forerunner 965](/producto/MLA61667894) suma pantalla AMOLED a color y NFC real, vendido directamente por la tienda oficial de Mercado Libre, a alrededor de {{precio:MLA61667894:k}}.` },
+      { type: "p", content: `La contra real: casi 4 veces más caro que el [Forerunner 55](/producto/MLA44250809), y sus 51 opiniones son mayormente de compradores de otros países de la región. La batería real, según la web oficial de Garmin (la ficha de MercadoLibre solo dice "23 h" sin aclarar el modo), es de hasta 31 h en GPS o 23 días en modo reloj — mejor que el Forerunner 55 en los dos casos.` },
+
+      { type: "h3", title: `3. Garmin Fenix 7 Pro — tope de gama multideporte` },
+      { type: "product-card", productMlaId: "MLA26825857", label: "Tope de gama multideporte", labelColor: "purple", ranking: 3, description: `Bisel de titanio, zafiro, carga solar. 4.8 estrellas en 65 calificaciones. Stock ajustado: última unidad al verificar.` },
+      { type: "p", content: `El [Garmin Fenix 7 Pro](/producto/MLA26825857) es el tope de gama de esta guía, con titanio, zafiro, resistencia a 10 ATM y carga solar que estira la batería hasta 22 días, a alrededor de {{precio:MLA26825857:k}}.` },
+      { type: "p", content: `La contra real: al momento de verificar quedaba la última unidad en stock de un único vendedor. Es, con diferencia, el más caro de esta guía.` },
+      { type: "pull-quote", content: `"El mejor smartwatch para hacer deporte y ejercicio, muy buenas métricas y muy precisas mediciones."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h2", title: `Tabla comparativa: pantalla, NFC, batería y precio`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Pantalla`, `NFC`, `Batería declarada`, `Ideal para`], rows: [
+        [`[Forerunner 55](/producto/MLA44250809)`, `{{precio:MLA44250809}}`, `LCD MIP, monocromática`, `No`, `20 h en GPS / 2 semanas en modo reloj`, `Empezar con Garmin`],
+        [`[Forerunner 965](/producto/MLA61667894)`, `{{precio:MLA61667894}}`, `AMOLED, 1,4", a color`, `Sí`, `31 h en GPS / 23 días en modo reloj`, `Pantalla a color y pagos`],
+        [`[Fenix 7 Pro](/producto/MLA26825857)`, `{{precio:MLA26825857}}`, `Transflectiva, zafiro`, `Sí`, `57 h en GPS / 18 días en modo reloj (73 h y 22 días con sol)`, `Multideporte serio`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu reloj Garmin`, id: "como-elegir" },
+      { type: "h3", title: `¿Solo corrés, o hacés multideporte?` },
+      { type: "p", content: `Si tu entrenamiento es correr en la ciudad o en el parque, el [Forerunner 55](/producto/MLA44250809) o el [Forerunner 965](/producto/MLA61667894) de esta guía alcanzan de sobra. Si además hacés trekking, esquí o natación en aguas abiertas, el [Fenix 7 Pro](/producto/MLA26825857) suma mapas, más resistencia al agua y linterna LED.` },
+      { type: "h3", title: `¿Te importa pagar sin contacto desde la muñeca?` },
+      { type: "p", content: `Solo el [Forerunner 965](/producto/MLA61667894) y el [Fenix 7 Pro](/producto/MLA26825857) de esta guía tienen NFC. El [Forerunner 55](/producto/MLA44250809) no.` },
+      { type: "h3", title: `¿Cuánto te importa la disponibilidad y el vendedor?` },
+      { type: "p", content: `El [Forerunner 965](/producto/MLA61667894) lo vende directamente la tienda oficial de Mercado Libre, con la mejor garantía de reposición de este trío. El [Fenix 7 Pro](/producto/MLA26825857), en cambio, dependía de un único vendedor con última unidad al momento de verificar: si te interesa, chequeá stock en vivo antes de decidir.` },
+
+      { type: "h2", title: `Otras líneas Garmin en Argentina: Venu y Vivoactive`, id: "otras-lineas" },
+      { type: "p", content: `Si buscás "Garmin Venu" o "Garmin Vivoactive" en Argentina, es probable que llegues acá. Son líneas reales de Garmin, más orientadas al uso diario tipo smartwatch (notificaciones, pagos, estilo de vida) que al entrenamiento puro. El problema, al menos hoy: en MercadoLibre Argentina casi no hay stock doméstico de estas dos líneas. Lo que encontramos al buscar Venu y Vivoactive fueron sobre todo accesorios (mallas, cargadores, protectores) y algunas publicaciones de importación directa desde Estados Unidos, con impuestos de aduana sumados al precio y entregas de 12 a 35 días.` },
+      { type: "p", content: `No incluimos ninguna en el ranking de esta guía porque nuestro criterio es no recomendar algo que no podemos verificar con stock doméstico sano. Si tu prioridad es un Garmin para uso diario más que para entrenar, y no te molesta esperar la importación, es una alternativa real; si querés algo que llegue rápido y con garantía de reposición, hoy conviene mirar el [Forerunner 55](/producto/MLA44250809), el [Forerunner 965](/producto/MLA61667894) o el [Fenix 7 Pro](/producto/MLA26825857) de esta guía. Vamos a revisar esta sección a medida que cambie la disponibilidad.` },
+
+      { type: "h2", title: `Cuánto cuesta un reloj Garmin en Argentina [julio 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de {{precio:MLA44250809:k}}:** la entrada de gama, el [Forerunner 55](/producto/MLA44250809). GPS real, sin NFC.`,
+        `**Alrededor de {{precio:MLA61667894:k}}:** el [Forerunner 965](/producto/MLA61667894), con AMOLED y NFC, vendido por la tienda oficial de Mercado Libre.`,
+        `**Alrededor de {{precio:MLA26825857:k}}:** el tope de gama, el [Fenix 7 Pro](/producto/MLA26825857), con titanio y carga solar.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál reloj Garmin comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la mayoría, el **[Garmin Forerunner 55](/producto/MLA44250809)** es la compra más segura: la puerta de entrada a la marca, con GPS real y la base de reseñas más grande de Garmin en Argentina. Si querés pantalla AMOLED y NFC, el **[Forerunner 965](/producto/MLA61667894)**, vendido por la tienda oficial de Mercado Libre. Y si hacés multideporte en serio, el **[Fenix 7 Pro](/producto/MLA26825857)**, aunque conviene chequear stock en vivo antes de decidir.` },
+    ],
+    faq: [
+      { question: `¿Cuál es el mejor reloj Garmin para empezar en Argentina?`, answer: `El [Garmin Forerunner 55](/producto/MLA44250809): GPS real integrado y la base de reseñas más grande de la marca en el país (6.433 calificaciones, 4.8 estrellas).` },
+      { question: `¿Los relojes Garmin de esta guía tienen GPS real?`, answer: `Sí, los 3 tienen GPS real integrado, no dependen del celular para medir distancia.` },
+      { question: `¿Cuál Garmin tiene NFC para pagar sin contacto?`, answer: `El [Forerunner 965](/producto/MLA61667894) y el [Fenix 7 Pro](/producto/MLA26825857) de esta guía. El [Forerunner 55](/producto/MLA44250809) no tiene NFC.` },
+      { question: `¿Por qué esta guía no incluye el Garmin Venu?`, answer: `Porque al armar esta guía, la línea Venu casi no tenía stock doméstico en MercadoLibre Argentina: lo que encontramos fueron accesorios y publicaciones de importación directa desde Estados Unidos, con impuestos y hasta 35 días de entrega. Preferimos no recomendar algo sin stock verificable.` },
+      { question: `¿Vale la pena el Fenix 7 Pro frente al Forerunner 965?`, answer: `Solo si hacés multideporte en serio (trekking, esquí, natación en aguas abiertas): suma titanio, zafiro, más resistencia al agua y carga solar. Para correr en la ciudad, el [Forerunner 965](/producto/MLA61667894) o incluso el [Forerunner 55](/producto/MLA44250809) alcanzan y cuestan mucho menos.` },
+    ],
+    internalLinks: [
+      { label: "Smartwatch: cuál comprar en Argentina", href: "/guias/tech/smartwatch" },
+    ],
+    internalLinksTitle: "Más relojes y wearables",
   },
 
   // ─────────────────────────────────────────────────────────
