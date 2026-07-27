@@ -979,7 +979,7 @@ export const guides: Guide[] = [
       { type: "table", headers: [`Modelo`, `Precio`, `Material`, `Soporta`, `Ideal para`], rows: [
         [`[Alpina FT-088](https://meli.la/1t2j7zH)`, `{{precio:MLA47061669}}`, `Cuero sintético`, `Uso normal`, `La más vendida y barata`],
         [`[Alpina PRE-FT055](https://meli.la/2CJ8LqU)`, `{{precio:MLA47084299}}`, `Cuero sintético`, `Uso normal`, `Alternativa de valor`],
-        [`[Cougar Fusion EX](https://meli.la/1drE2G6)`, `$259.999`, `Tela (fresca)`, `Uso intensivo`, `No transpirar / verano`],
+        [`[Cougar Fusion EX](https://meli.la/1drE2G6)`, `{{precio:MLA69124616}}`, `Tela (fresca)`, `Uso intensivo`, `No transpirar / verano`],
         [`[Cougar Armor Elite](https://meli.la/1Z2hdW6)`, `$379.999`, `Cuero PVC transpirable`, `Hasta 120 kg`, `Premium que dura`],
         [`[Corsair T3 Rush](https://meli.la/1fUDsKj)`, `$786.110`, `Tela (transpirable)`, `Uso intensivo`, `Premium de marca top`],
       ] },
@@ -1217,7 +1217,7 @@ export const guides: Guide[] = [
         [`[Aula F75](https://meli.la/1MgoaV2)`, `{{precio:MLA57380272}}`, `Mecánico (red)`, `75%`, `Mecánico silencioso del momento`],
         [`[Redragon Kumara K552](https://meli.la/1WJcMxC)`, `{{precio:MLA16369071}}`, `Mecánico (ruidoso)`, `TKL`, `El más vendido (en español)`],
         [`[HyperX Alloy Core](https://meli.la/21e4ujZ)`, `{{precio:MLA14075573}}`, `Membrana`, `Full`, `Silencioso y económico, en español`],
-        [`[Logitech G213](https://meli.la/11qvS6t)`, `$75.599`, `Membrana`, `Full`, `Resistente a líquidos`],
+        [`[Logitech G213](https://meli.la/11qvS6t)`, `{{precio:MLA8906508}}`, `Membrana`, `Full`, `Resistente a líquidos`],
         [`[Redragon Horus K622](https://meli.la/19edjTZ)`, `$87.990`, `Mecánico (red)`, `TKL`, `Mecánico silencioso en español`],
         [`[Razer Huntsman Mini](https://meli.la/2cJvkJf)`, `$138.000`, `Mecánico óptico`, `60%`, `Premium competitivo`],
       ] },
