@@ -4,7 +4,7 @@ import type { GuideSection, LabelColor } from "@/lib/types";
 import { getProductById } from "@/lib/products";
 import { formatPrice } from "@/lib/utils";
 import { CouponBadge } from "@/components/products/CouponBadge";
-import { injectLivePrices } from "@/lib/price-token";
+import { toPlainText } from "@/lib/parse-inline-links";
 import { getPriceValidUntil, productHref } from "@/lib/product-url";
 import { Stars } from "./Stars";
 
@@ -182,7 +182,7 @@ export function ProductCard({ section }: ProductCardProps) {
             {section.description && (
               <Link href={productHref(product)} className="block">
                 <p className="text-[13px] sm:text-sm text-[var(--text-secondary)] leading-snug line-clamp-2">
-                  {injectLivePrices(section.description)}
+                  {toPlainText(section.description)}
                 </p>
               </Link>
             )}
@@ -285,7 +285,7 @@ export function ProductCard({ section }: ProductCardProps) {
           {section.description && (
             <Link href={productHref(product)} className="block">
               <p className="text-[15px] md:text-base leading-[1.65] text-[var(--text-secondary)]">
-                {injectLivePrices(section.description)}
+                {toPlainText(section.description)}
               </p>
             </Link>
           )}

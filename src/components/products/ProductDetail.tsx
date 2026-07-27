@@ -342,7 +342,7 @@ export function ProductDetail({ product, relatedProducts = [], priceHistory }: P
           {/* Description */}
           {product.description && (
             <p className="mt-5 text-sm text-[var(--text-secondary)] leading-relaxed">
-              {product.description}
+              {renderInlineMarkdown(product.description)}
             </p>
           )}
 
@@ -350,7 +350,7 @@ export function ProductDetail({ product, relatedProducts = [], priceHistory }: P
           {product.verdict && (
             <div className="mt-5 p-4 rounded-[var(--radius-badge)] bg-[rgba(245,158,11,0.10)] border border-[rgba(245,158,11,0.3)]">
               <p className="text-sm font-medium text-[var(--text-primary)] leading-relaxed">
-                💬 {product.verdict}
+                💬 {renderInlineMarkdown(product.verdict)}
               </p>
             </div>
           )}
@@ -403,7 +403,7 @@ export function ProductDetail({ product, relatedProducts = [], priceHistory }: P
                   {product.pros.map((pro) => (
                     <li key={pro} className="flex items-start gap-2 text-[13px] text-[var(--text-secondary)] leading-snug">
                       <Check size={13} className="text-[#16a34a] shrink-0 mt-0.5" />
-                      {pro}
+                      {renderInlineMarkdown(pro)}
                     </li>
                   ))}
                 </ul>
@@ -418,7 +418,7 @@ export function ProductDetail({ product, relatedProducts = [], priceHistory }: P
                   {product.cons.map((con) => (
                     <li key={con} className="flex items-start gap-2 text-[13px] text-[var(--text-secondary)] leading-snug">
                       <X size={13} className="text-[#ef4444] shrink-0 mt-0.5" />
-                      {con}
+                      {renderInlineMarkdown(con)}
                     </li>
                   ))}
                 </ul>
@@ -521,7 +521,7 @@ export function ProductDetail({ product, relatedProducts = [], priceHistory }: P
                 <h3 className="flex items-center gap-1.5 text-sm font-bold text-[#16a34a] mb-2">
                   <Check size={15} /> Comprala si…
                 </h3>
-                <p className="text-[13px] text-[var(--text-secondary)] leading-relaxed">{paraYes}</p>
+                <p className="text-[13px] text-[var(--text-secondary)] leading-relaxed">{renderInlineMarkdown(paraYes)}</p>
               </div>
             )}
             {paraNo && (
@@ -529,7 +529,7 @@ export function ProductDetail({ product, relatedProducts = [], priceHistory }: P
                 <h3 className="flex items-center gap-1.5 text-sm font-bold text-[var(--text-secondary)] mb-2">
                   <X size={15} /> Mejor otra si…
                 </h3>
-                <p className="text-[13px] text-[var(--text-secondary)] leading-relaxed">{paraNo}</p>
+                <p className="text-[13px] text-[var(--text-secondary)] leading-relaxed">{renderInlineMarkdown(paraNo)}</p>
               </div>
             )}
           </div>

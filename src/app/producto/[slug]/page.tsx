@@ -31,10 +31,11 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!product) return { title: "Producto no encontrado" };
 
   const title = product.seoTitle || product.title;
-  const description =
+  const description = toPlainText(
     product.metaDescription ||
-    product.description ||
-    `Comprá ${product.title} al mejor precio en MercadoLibre Argentina.`;
+      product.description ||
+      `Comprá ${product.title} al mejor precio en MercadoLibre Argentina.`
+  );
 
   const canonical = `https://productosvirales.com.ar${productHref(product)}`;
   const ogImage = `${canonical}/opengraph-image`;
@@ -109,6 +110,10 @@ export default async function ProductPage({ params }: Props) {
     ...product,
     articleBody: product.articleBody ? injectLivePrices(product.articleBody) : product.articleBody,
     faq: product.faq?.map((f) => ({ ...f, answer: injectLivePrices(f.answer) })),
+    description: product.description ? injectLivePrices(product.description) : product.description,
+    verdict: product.verdict ? injectLivePrices(product.verdict) : product.verdict,
+    pros: product.pros?.map((p) => injectLivePrices(p)),
+    cons: product.cons?.map((c) => injectLivePrices(c)),
   };
 
   // ── JSON-LD structured data ──────────────────────────────────────────
