@@ -163,6 +163,7 @@ export default async function ProductPage({ params }: Props) {
     "@context": "https://schema.org",
     "@type": "Product",
     ...custom, // extras primero; los campos canónicos de abajo siempre ganan
+    url: `https://productosvirales.com.ar${productHref(product)}`,
     name: product.canonicalName || (custom.name as string) || product.title,
     description: (custom.description as string) || product.description,
     sku: product.id,
