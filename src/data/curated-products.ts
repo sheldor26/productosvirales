@@ -31364,7 +31364,7 @@ La mejor defensa es comprar de vendedores con reputación Mercado Líder Platinu
   {
     id: "MLA29780185",
     title: "Rasasi Hawas Ice EDP 100ml Hombre",
-    price: 72000,
+    price: 60989,
     priceUpdated: "2026-07-27",
     priceLastChecked: "2026-07-27",
     priceStatus: "fresh",
