@@ -61857,6 +61857,170 @@ Comprá el Samsung Galaxy Watch7 si tenés un celular Android y querés pagar si
   },
 
   // ─────────────────────────────────────────────────────────
+  // WHOOP 5.0 Peak — sumado dentro de la guía smartwatch (silo tech), sin
+  // cluster propio. Origen: investigación de "gadgets de signos vitales"
+  // (2026-07-28) concluyó que es el único producto real de esa categoría
+  // con stock doméstico y volumen de búsqueda; el resto (Oura Ring) sigue
+  // sin stock sano y solo se menciona como texto en la sección "Anillo
+  // inteligente" de la misma guía. A diferencia del Oura, el Whoop SÍ
+  // tiene ficha y product-card real.
+  // Dato de honestidad central: funciona con membresía obligatoria de por
+  // vida (whoop.com/us/en/membership). El primer año viene incluido en
+  // este precio de ML, pero desde el año 2 se paga aparte (US$239/año
+  // para el tier Peak), directo a Whoop, en dólares — ningún vendedor de
+  // ML lo aclara en la publicación.
+  // Discrepancia de batería resuelta a favor de las reseñas + la propia
+  // descripción del vendedor: la ficha técnica estructurada de ML dice
+  // "14 semanas" (implausible para el tamaño de esta batería y contradice
+  // lo que la marca declara públicamente), reseñas reales y la
+  // descripción del vendedor dicen "14 días" / "más de 2 semanas" — se
+  // usó 14 días como dato real, con la nota del error de ML documentada.
+  // ─────────────────────────────────────────────────────────
+  {
+    id: "MLA60036543",
+    title: "Whoop 5.0 Peak pulsera inteligente para salud y rendimiento",
+    canonicalName: "WHOOP 5.0 Peak",
+    brand: "Whoop",
+    price: 613000,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_993991-MLA99944833485_112025-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_993991-MLA99944833485_112025-F.webp",
+      "https://http2.mlstatic.com/D_Q_NP_822110-MLA94906050787_102025-F.webp",
+    ],
+    category: "Tech",
+    categorySlug: "tech",
+    permalink: "https://www.mercadolibre.com.ar/whoop-50-peak-pulsera-inteligente-para-salud-y-rendimiento-247/p/MLA60036543",
+    affiliateUrl: "https://meli.la/1BgLLaz",
+    condition: "new",
+    freeShipping: true,
+    rating: 5.0,
+    reviewCount: 6,
+    soldQuantity: 100,
+    pastelColor: "var(--pastel-azul)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Whoop" },
+      { label: "Fabricante", value: "WHOOP, INC." },
+      { label: "Línea / Modelo", value: "5.0 / PEAK — versión Sport" },
+      { label: "Material de la caja", value: "Policarbonato de grado médico" },
+      { label: "Malla", value: "Tejido SuperKnit, negro (incluye banda SuperKnit Luxe)" },
+      { label: "Tamaño de la caja", value: "34,7 mm" },
+      { label: "Peso", value: "25 g" },
+      { label: "Resistencia al agua", value: "IP68, sumergible hasta 10 m durante 2 horas" },
+      { label: "Batería", value: "14 días de autonomía real, según reseñas de compradores y la propia descripción del vendedor (\"más de 2 semanas\" / \"más de 14 días de duración\"). La ficha técnica estructurada de MercadoLibre lista \"14 semanas\", casi con certeza un error de carga de datos: no coincide con las reseñas ni con lo que la marca declara públicamente para este modelo — no la tomamos como dato real" },
+      { label: "Conectividad", value: "Bluetooth. Sin GPS, sin Wi-Fi, sin NFC, sin red móvil — no tiene pantalla" },
+      { label: "Sistemas operativos compatibles", value: "iOS, Android" },
+      { label: "Funciones", value: "Detección de estrés en tiempo real, frecuencia cardíaca, monitor de sueño y etapas, métricas de salud femenina, ritmo de envejecimiento (WHOOP Age), monitoreo de actividad física, consumo de calorías" },
+      { label: "Accesorios incluidos", value: "Banda SuperKnit Luxe, PowerPack inalámbrico a prueba de agua, dispositivo WHOOP 5.0, cable USB-C" },
+      { label: "Membresía", value: "Primer año de membresía WHOOP Peak incluido en el precio de esta publicación. Desde el año 2 se paga aparte, en dólares, directo a Whoop (no a través de MercadoLibre) — ver detalle en la ficha" },
+      { label: "Es infantil", value: "No" },
+      { label: "Idiomas", value: "Español, Inglés" },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Brasil", date: "julio 2026", useful: 1, text: "Entrega dentro de lo esperado y producto impecable, ¡conectó rápidamente en la aplicación y funcionó! Cumple exactamente con la descripción y es original. (traducida del portugués)" },
+      { rating: 5, country: "Brasil", date: "junio 2026", useful: 0, text: "Batería: Batería de 14 días. Pantalla: Sin pantalla. Producto original, llegó rápido. Y ya estoy usando. (traducida del portugués; ML tradujo mal \"Sem tela\" como \"Sin tela\" en vez de \"Sin pantalla\")" },
+    ],
+    reviewsSampledAt: "2026-07-28",
+    relatedProducts: ["MLA38058572", "MLA51929440", "MLA42520227"],
+    priceUpdated: "2026-07-28",
+    priceLastChecked: "2026-07-28",
+    priceStatus: "fresh",
+    description: "WHOOP 5.0 Peak: pulsera de recuperación sin pantalla, sin GPS, con membresía obligatoria de por vida. El primer año de la membresía Peak (US$239/año) viene incluido en este precio; desde el año 2 se paga aparte, directo a Whoop.",
+    seoTitle: "WHOOP 5.0 Peak: precio real y la membresía que nadie explica",
+    metaDescription: "WHOOP 5.0 Peak en MercadoLibre Argentina: precio real, membresía obligatoria explicada en dólares (US$239/año desde el año 2) y reseñas reales verificadas.",
+    verdict: "El WHOOP 5.0 Peak sirve si ya sabés que querés métricas de recuperación profundas (HRV, sueño por etapas, estrés) sin una pantalla que te distraiga, y estás dispuesto a pagar una membresía todos los años, no solo el dispositivo. La contra más importante no es una spec floja: es que el dispositivo no funciona sin suscripción activa. Esta publicación incluye el primer año de la membresía Peak (US$239 de valor), pero desde el año 2 hay que pagar de nuevo, en dólares, directo a Whoop — ningún vendedor de MercadoLibre lo aclara en la publicación. Sumale una base de reseñas todavía muy chica (6 calificaciones, ninguna de Argentina) y que no es tienda oficial de Whoop. No es para vos si buscás pantalla, GPS o pagar una sola vez: para eso, cualquier smartwatch de esta guía te sirve mejor.",
+    pros: [
+      "Mide recuperación real (HRV, temperatura de piel, sueño por etapas, estrés) sin pantalla que distraiga, pensado para atletas y biohackers, no para notificaciones",
+      "El primer año de la membresía WHOOP Peak (US$239 de valor) viene incluido en el precio de esta publicación",
+      "5.0 estrellas en las calificaciones disponibles, con reseñas que confirman que el producto es original y conecta rápido a la app",
+      "Vendedor con Full (almacenado y enviado por MercadoLibre), 3 años de garantía de fábrica, devolución gratis 30 días y Compra Protegida",
+    ],
+    cons: [
+      "La contra más importante: funciona con membresía obligatoria de por vida. Sin suscripción activa, el dispositivo no sincroniza ni muestra ningún dato — no es opcional. Desde el año 2, el tier Peak de este producto cuesta US$239/año (o US$30/mes sin anualizar), y se paga aparte, en dólares, directo a Whoop, no a través de MercadoLibre",
+      "Base de reseñas todavía muy chica: solo 6 calificaciones en total, y ninguna de Argentina ni menciona la membresía",
+      "No es tienda oficial de Whoop en MercadoLibre Argentina (no existe ninguna publicación que lo sea): es un revendedor/importador local",
+      "Sin GPS, Wi-Fi ni NFC, y sin pantalla: no reemplaza a un smartwatch, es otra categoría de producto, pensada solo para métricas de recuperación",
+    ],
+    articleBody: `## Qué es y por qué no es un smartwatch
+
+El WHOOP 5.0 Peak es una banda de recuperación sin pantalla: no muestra la hora, no tiene notificaciones, no tiene GPS. Mide frecuencia cardíaca, HRV (variabilidad de frecuencia cardíaca), sueño por etapas, temperatura de piel y estrés en tiempo real, y te devuelve esos datos únicamente en la app del celular. Está pensado para atletas y biohackers que quieren entender su recuperación, no para reemplazar un reloj inteligente de uso diario.
+
+## La membresía: el dato que cambia todo (no es opcional)
+
+Esto tiene que quedar claro antes que cualquier spec: Whoop no se vende como una compra única. El dispositivo funciona con una membresía obligatoria (confirmado en whoop.com/us/en/membership) — sin suscripción activa, no sincroniza ni muestra ningún dato. Whoop tiene tres tiers: WHOOP One (US$199/año), WHOOP Peak (US$239/año, el tier de este producto) y WHOOP Life (US$359/año), todos con opción mensual más cara si no se paga anual (hasta US$40/mes en el tier Life). Esta publicación de MercadoLibre incluye el primer año de la membresía Peak, así que el precio que ves ya lo contempla. Pero ningún vendedor de MercadoLibre Argentina explica qué pasa en el año 2: hay que pagar de nuevo, en dólares, directo a Whoop, sin intermediación de MercadoLibre. Si no renovás, el dispositivo deja de sincronizar. Por otro lado, Whoop permite cancelar y devolver el dispositivo dentro de los primeros 30 días por reembolso completo (menos el envío) si te arrepentís antes de comprometerte a un año más.
+
+## Cómo funciona y qué mide
+
+El WHOOP 5.0 Peak pesa 25 g, tiene una caja de 34,7 mm en policarbonato de grado médico y viene con banda SuperKnit Luxe (tejido, no elastómero), un PowerPack inalámbrico a prueba de agua para cargarlo sin sacártelo, y cable USB-C. Es resistente al agua IP68 y sumergible hasta 10 metros durante 2 horas. Mide HRV, frecuencia cardíaca, SpO2, temperatura cutánea, respiración, detección de estrés en tiempo real, monitoreo de sueño por etapas, métricas de salud femenina, WHOOP Age (un cálculo propio de "edad de recuperación") y seguimiento de más de 160 hábitos, según la descripción del vendedor. No tiene GPS, Wi-Fi ni NFC, y se conecta solo por Bluetooth a la app.
+
+## La contra real (batería, reseñas y el revendedor)
+
+Hay una discrepancia real en la batería que vale la pena aclarar. La ficha técnica estructurada de MercadoLibre dice "14 semanas", una cifra que no tiene sentido para el tamaño de esta batería y que no coincide con lo que la marca declara públicamente para este modelo. Una reseña real de comprador dice "batería de 14 días", y la propia descripción del vendedor en el cuerpo del texto habla de "más de 2 semanas" / "más de 14 días de duración". Tomamos 14 días como el dato real: es casi seguro que el campo estructurado de ML tiene un error de carga. Además, la base de reseñas es todavía chica: solo 6 calificaciones en total, ninguna de Argentina, y ML solo mostró el texto completo de 2 de esas 6 sin expandir la sección. Ninguna reseña disponible menciona la membresía, así que ese dato sale directo de la web oficial de Whoop, no de compradores. Por último, este producto lo vende un revendedor/importador (AVANX, +100 ventas, +10 seguidores), no una tienda oficial de Whoop: no existe ninguna tienda oficial de Whoop en MercadoLibre Argentina al momento de escribir esto.
+
+## Para quién sí y para quién no
+
+Comprá el WHOOP 5.0 Peak si ya entrenás en serio, querés métricas de recuperación que un smartwatch común no te da, y el costo de la membresía anual entra en tu presupuesto. No es para vos si buscás un dispositivo de compra única: la membresía sigue después del primer año incluido, cuesta US$239/año desde el año 2, y se paga en dólares directo a Whoop. Tampoco es para vos si querés pantalla, GPS o notificaciones: para eso, cualquiera de los smartwatches de esta guía te sirve mejor.
+
+## Veredicto
+
+Es un producto real, con stock sano (+10 disponibles) y buena calificación (5.0/5, aunque sobre una base chica), que resuelve algo que ningún smartwatch de esta guía resuelve: métricas de recuperación profundas sin pantalla. Pero el costo real no termina en el precio de venta: es un compromiso anual en dólares que sigue después de la compra. Si entendés eso y lo aceptás, es una compra sólida. Si no lo sabías, ahora ya lo sabés antes de comprarlo, que es justamente el punto de esta ficha.`,
+    faq: [
+      {
+        question: "¿Hay que pagar algo más aparte del precio de venta?",
+        answer: "Sí. El precio de esta publicación incluye el primer año de la membresía WHOOP Peak (US$239 de valor), pero desde el año 2 hay que pagarla de nuevo, en dólares, directo a Whoop (no a través de MercadoLibre). Sin membresía activa, el dispositivo no funciona.",
+      },
+      {
+        question: "¿Qué pasa si no pago la membresía?",
+        answer: "El dispositivo deja de sincronizar y no muestra ningún dato. La membresía no es un extra opcional: es un requisito para que el WHOOP funcione, confirmado en whoop.com/us/en/membership.",
+      },
+      {
+        question: "¿El Whoop es lo mismo que un smartwatch?",
+        answer: "No. No tiene pantalla, no tiene GPS, no da notificaciones ni hora. Es una banda de recuperación pensada solo para medir frecuencia cardíaca, HRV, sueño y estrés, y mostrar esos datos en la app del celular.",
+      },
+      {
+        question: "¿Cuánto dura la batería?",
+        answer: "14 días en uso real, según reseñas de compradores y la propia descripción del vendedor. La ficha técnica de MercadoLibre lista \"14 semanas\", que es casi con certeza un error de carga de datos: no lo tomamos como dato real.",
+      },
+      {
+        question: "¿Es tienda oficial de Whoop?",
+        answer: "No. Lo vende un revendedor/importador (AVANX). No existe ninguna tienda oficial de Whoop en MercadoLibre Argentina al momento de esta ficha.",
+      },
+      {
+        question: "¿Cuántas reseñas tiene?",
+        answer: "6 calificaciones en total, todas a 5 estrellas, pero ninguna de Argentina. Es una base todavía chica comparada con otros productos de esta guía: tomalo como una señal positiva, no como algo definitivo.",
+      },
+      {
+        question: "¿Cuánto sale la membresía en cada tier?",
+        answer: "WHOOP One cuesta US$199/año, WHOOP Peak (el tier de este producto) US$239/año y WHOOP Life US$359/año, todos con una opción mensual más cara si no se paga anual.",
+      },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "WHOOP 5.0 Peak",
+      image: [
+        "https://http2.mlstatic.com/D_Q_NP_993991-MLA99944833485_112025-F.webp",
+        "https://http2.mlstatic.com/D_Q_NP_822110-MLA94906050787_102025-F.webp",
+      ],
+      description: "WHOOP 5.0 Peak: pulsera de recuperación sin pantalla, con membresía obligatoria de por vida. Primer año de membresía Peak incluido en el precio de venta.",
+      brand: { "@type": "Brand", name: "Whoop" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/whoop-50-peak-pulsera-inteligente-para-salud-y-rendimiento-247/p/MLA60036543",
+        priceCurrency: "ARS",
+        price: "613000",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "5.0",
+        reviewCount: "6",
+      },
+    },
+  },
+
+  // ─────────────────────────────────────────────────────────
   // Guía nueva garmin — silo tech, categoria "smartwatches-garmin".
   // Origen: pedido de Juan de evaluar Garmin como marca específica de
   // running/deporte (2026-07-27), tras el piloto de comparación técnica
