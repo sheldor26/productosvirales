@@ -110,7 +110,8 @@ export function ProductCard({ product, index = 0, priority = false }: ProductCar
           {discount && (
             <div className="absolute top-2.5 right-2.5">
               <Badge variant="discount" className={badge === "hot-deal" ? "pulse-badge" : ""}>
-                -{discount}%
+                <span className="sr-only">{discount}% de descuento</span>
+                <span aria-hidden="true">-{discount}%</span>
               </Badge>
             </div>
           )}

@@ -8,7 +8,8 @@ interface DiscountBadgeProps {
 export function DiscountBadge({ percentage, className }: DiscountBadgeProps) {
   return (
     <Badge variant="discount" className={className}>
-      -{percentage}%
+      <span className="sr-only">{percentage}% de descuento</span>
+      <span aria-hidden="true">-{percentage}%</span>
     </Badge>
   );
 }

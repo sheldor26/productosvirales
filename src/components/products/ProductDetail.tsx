@@ -304,7 +304,8 @@ export function ProductDetail({ product, relatedProducts = [], priceHistory }: P
                   {formatPrice(product.originalPrice)}
                 </span>
                 <span className="text-sm font-semibold text-[var(--color-discount)]">
-                  -{discount}%
+                  <span className="sr-only">{discount}% de descuento</span>
+                  <span aria-hidden="true">-{discount}%</span>
                 </span>
               </>
             )}

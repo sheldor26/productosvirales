@@ -194,3 +194,19 @@ Juan pidió explícitamente aplicar las ideas ya validadas, en local sin pushear
 `commit` (ver git log): `ImageOff` de lucide + `onError` en `ProductCard.tsx` (placeholder "Imagen no disponible" en vez de romper el layout) y en `ProductGallery.tsx` (auto-avanza a la siguiente imagen del producto si falla la activa; si fallan todas, mismo placeholder). Probado forzando un evento `error` real en el navegador antes de commitear — no es solo lectura de código, se vio el fallback renderizado.
 
 **Pendiente para la próxima iteración:** de las 3 ideas restantes de esta vuelta, la de out-of-stock en el CTA es la de mayor impacto real (afecta conversión/confianza en la página que vende) — buena candidata para la próxima implementación. Ángulo de ideación nuevo: accesibilidad, o internacionalización a otros países de habla hispana.
+
+### Iteración 6 (2026-07-30) — Accesibilidad (a11y) en el flujo de compra
+
+**Preguntado:** contraste/operabilidad del CTA de compra, alt text de imágenes, semántica accesible de badges, foco visible/orden de tab.
+
+**Filtrado antes de llegar a Juan (esta vez se descartó una AFIRMACIÓN TÉCNICA, no solo una idea ya hecha):** Codex afirmó que el CTA (que asumió con el azul `#3483fa` de MercadoLibre) tenía un contraste de 3.64:1, por debajo de WCAG AA. Chequeado contra `globals.css`: el CTA real del sitio es `#111111` sobre blanco (tema claro) / blanco sobre `#111111` (tema oscuro) — contraste real ~19:1, muy por encima incluso de AAA. Codex asumió un color que nunca miró en el código. El "área de toque 44×44" que también pedían ambos ya estaba hecho desde el 2026-07-11 (Tier 1.1 de este mismo documento). Se descarta la idea #1 completa: la premisa era falsa.
+
+**3 ideas nuevas, 1 implementada esta vuelta:**
+1. **Semántica accesible para badges** (Codex #3, Gemini #2, coincidencia total) — los badges de descuento (`-30%`) no tenían texto legible para lector de pantalla, solo el símbolo visual. **Implementada esta misma vuelta** (ver abajo).
+2. **Alt text más descriptivo en imágenes** (Codex #2, Gemini #3) — matizado: los títulos de ML ya son bastante descriptivos por sí solos (ej. "Silla Gamer Cougar Fusion EX Respaldo Reclinable Tela Negro" ya incluye marca/modelo/color/material), no es el "foto 1" genérico que exageró Gemini. Sigue siendo una mejora real pero de prioridad menor a lo que se dijo.
+3. **Foco visible + orden de tab** (Codex #4, más acotado; Gemini #4 proponía además consolidar 3 links de la tarjeta en 1 solo, marcado explícitamente por la propia Gemini como "requiere aviso previo a Juan" por el riesgo de romper el layout — no se toca sin su OK).
+
+**Implementado esta vuelta — badges de descuento con texto accesible:**
+`DiscountBadge.tsx`, `ProductCard.tsx` y `ProductDetail.tsx`: cada "-X%" ahora tiene un `<span className="sr-only">X% de descuento</span>` que lee el lector de pantalla, y el símbolo visual queda `aria-hidden="true"` (no se lee dos veces). Cero cambio visual (confirmado con screenshot antes/después). `sr-only` es una utilidad estándar de Tailwind, no requirió librería nueva.
+
+**Pendiente para la próxima iteración:** foco visible (`focus-visible:ring` global) queda como la idea más segura sin implementar de esta vuelta. Ángulo nuevo: internacionalización a otros países de habla hispana, o performance/Core Web Vitals específico.
