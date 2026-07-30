@@ -264,3 +264,20 @@ Implementado (idea pendiente desde la iteración 6, Codex #4): regla global `:fo
 **Limitación de verificación honesta:** no se pudo forzar el estado `:focus-visible` real vía automatización del navegador (Tab sintético no movió el foco de forma confiable en el entorno de pruebas; `.focus()` programático no activa `:focus-visible` por spec, que exige modalidad de teclado real). Se verificó que la regla CSS es sintácticamente correcta, usa un pseudo-selector estándar con soporte universal en navegadores modernos desde 2021, y `tsc`/`build` pasan limpio — pero no hay una captura de pantalla mostrando el anillo real en acción. Queda pendiente que Juan lo confirme tabulando manualmente si quiere el 100% de certeza visual.
 
 **Con esto se cierra toda la cola pendiente del loop de mejora continua hasta ahora** (12 features implementadas y verificadas, todas commiteadas local sin push). Ver el resto de esta sección para el detalle completo de las 8 iteraciones de ideación.
+
+### Iteración 9 (2026-07-30) — Seguridad y privacidad
+
+**Preguntado:** si "Guardados" (localStorage) y el digest de email merecen algo en `/privacidad`, si hay algo puntual de CSP ajustable sin tocar `next.config.ts`, riesgos reales (no hipotéticos) en el flujo de suscriptores, y un "quick win" de seguridad genuino.
+
+**4 hallazgos, todos verificados contra el código real, 2 implementados:**
+1. **CSP con `unsafe-inline`/`unsafe-eval`: bloqueado sin `next.config.ts`** (coincidencia total) — confirmado, no hay nada que ajustar desde componentes/APIs si el header no cambia. No implementado, requeriría aviso previo a Juan si se retoma.
+2. **Mención de "Guardados" en `/privacidad`** (coincidencia total) — ambas IAs coinciden en que no es dato sensible (solo ids de producto, sin cuenta) pero suma transparencia gratis. **Implementado esta vuelta.**
+3. **CSV formula injection en `/api/subscribers/export`** (Codex) — **hallazgo real, no hipotético**, verificado leyendo el código: `csvCell()` solo escapaba comillas/comas, no neutralizaba valores que arrancan con `=`/`+`/`-`/`@`, que Excel/Sheets pueden interpretar como fórmula al abrir el CSV. El campo `source_detail` (`ref` en `/api/subscribe`) no tiene validación de formato y se puede mandar sin restricciones vía POST directo a la API pública — confirmado con un test de payloads reales (`=HYPERLINK(...)`, `-2+3+cmd`, `@SUM(...)`) antes y después del fix. **Implementado esta vuelta** (mitigation estándar OWASP: anteponer un apóstrofe).
+4. **Minimizar IP en `subscribers`** (Gemini) y **purgar `ip`/`source_detail`/`sent_price_alerts` al dar de baja** (Codex, mismo tema desde otro ángulo) — real y razonable (principio de minimización de datos), pero toca el esquema/flujo de una tabla en producción con datos reales ya cargados — **no implementado esta vuelta**, queda anotado para una sesión que revise el impacto en el flujo de anti-duplicados de alertas antes de tocarlo.
+5. **Honeypot anti-spam en el formulario de newsletter** (Gemini) — real (el rate-limit actual es en memoria, se resetea en cada cold start de Vercel), pero es una feature nueva de tamaño medio (toca `NewsletterBanner.tsx` + `/api/subscribe`), no un fix puntual — queda en la cola para una próxima iteración de implementación, no la ronda de hoy.
+
+**Implementado esta vuelta:**
+1. `src/app/api/subscribers/export/route.ts`: `csvCell()` ahora neutraliza CSV/formula injection (fix de seguridad real).
+2. `src/app/privacidad/page.tsx`: nueva sección "Productos guardados" explicando el uso de localStorage, y fecha de "Última actualización" al día.
+
+**Con 13 features implementadas, decisión de founder solo no técnico:** dado que la cola de pendientes se vació 2 veces seguidas (una tras otra ronda de ideación) y siguen apareciendo hallazgos genuinamente nuevos y de calidad (no solo relleno), el loop sigue. Próximo ángulo: contenido/copywriting y tono de voz, o medición/analytics — o esperar señal de Juan si prefiere pausar acá.

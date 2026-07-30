@@ -8,9 +8,18 @@ import { getSql } from "@/lib/db";
 // Uso:  curl -H "x-pv-secret: <PV_API_SECRET>" \
 //         https://productosvirales.com.ar/api/subscribers/export -o subs.csv
 
-// Escapa un valor para CSV (comillas, comas, saltos de línea).
+// Escapa un valor para CSV (comillas, comas, saltos de línea) y neutraliza
+// CSV/formula injection: si el valor empieza con =, +, -, @ (o tab/CR), Excel
+// y Google Sheets lo pueden interpretar como fórmula al abrir el archivo.
+// `email` y sobre todo `source_detail` (el campo `ref` de /api/subscribe, sin
+// validar) vienen de input externo — un POST directo a la API podría mandar
+// algo tipo `=HYPERLINK(...)`. Se antepone un apóstrofe, el mitigation
+// estándar de OWASP para esto.
 function csvCell(value: unknown): string {
-  const s = value === null || value === undefined ? "" : String(value);
+  let s = value === null || value === undefined ? "" : String(value);
+  if (/^[=+\-@\t\r]/.test(s)) {
+    s = `'${s}`;
+  }
   if (/[",\n\r]/.test(s)) {
     return `"${s.replace(/"/g, '""')}"`;
   }

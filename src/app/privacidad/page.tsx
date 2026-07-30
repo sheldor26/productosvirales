@@ -21,7 +21,7 @@ export default function PrivacidadPage() {
         Política de privacidad
       </h1>
       <p className="text-sm text-[var(--text-muted)]">
-        Última actualización: 20 de julio de 2026
+        Última actualización: 30 de julio de 2026
       </p>
 
       <h2 className="text-xl font-bold text-[var(--text-primary)] mt-6">
@@ -60,6 +60,16 @@ export default function PrivacidadPage() {
         extra para vos. MercadoLibre puede setear sus propias cookies al
         recibir tu visita — su política se aplica una vez que salís de nuestro
         sitio.
+      </p>
+
+      <h2 className="text-xl font-bold text-[var(--text-primary)] mt-6">
+        Productos guardados
+      </h2>
+      <p>
+        Si usás el botón de guardar en una tarjeta de producto, la lista queda
+        en el almacenamiento local de tu navegador (localStorage), no en
+        nuestros servidores. No la asociamos a ninguna cuenta ni email, y se
+        borra sola si limpiás los datos del sitio en tu navegador.
       </p>
 
       <h2 className="text-xl font-bold text-[var(--text-primary)] mt-6">
