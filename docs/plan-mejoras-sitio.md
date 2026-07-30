@@ -256,3 +256,11 @@ Implementado (idea pendiente desde la iteración 5, Codex #1): en `ProductDetail
 Implementado (idea pendiente desde la iteración 5, Codex #2 + Gemini #2, coincidencia total): en `HomeFeed.tsx`, cuando una búsqueda (`/?q=...`) da 0 resultados, en vez de un `ProductGrid` vacío (título + "0 productos encontrados" sin nada abajo) se muestra un estado dedicado: ícono, "No encontramos nada para 'X'", pills a las 10 categorías reales del sitio (`/categoria/[slug]`, crawleables) y un link para volver a ver todo el catálogo. `categories.ts` es liviano (268 líneas de metadata, no el catálogo de 4MB) así que es seguro importarlo en este componente cliente. Verificado en el navegador con una búsqueda real sin resultados.
 
 **Queda en la cola:** foco visible `focus-visible:ring` global (iteración 6) — es la única idea pendiente de todo el loop hasta ahora.
+
+### Retomando la cola (2026-07-30) — foco visible global (a11y)
+
+Implementado (idea pendiente desde la iteración 6, Codex #4): regla global `:focus-visible { outline: 2px solid var(--text-primary); outline-offset: 2px; border-radius: 4px; }` en `globals.css`. `:focus-visible` (no `:focus`) solo se activa con navegación real por teclado, nunca con click de mouse — no agrega ruido visual a la mayoría de las visitas. Usa el color de texto del sitio (se adapta solo a tema claro/oscuro vía la variable ya existente), no un color nuevo.
+
+**Limitación de verificación honesta:** no se pudo forzar el estado `:focus-visible` real vía automatización del navegador (Tab sintético no movió el foco de forma confiable en el entorno de pruebas; `.focus()` programático no activa `:focus-visible` por spec, que exige modalidad de teclado real). Se verificó que la regla CSS es sintácticamente correcta, usa un pseudo-selector estándar con soporte universal en navegadores modernos desde 2021, y `tsc`/`build` pasan limpio — pero no hay una captura de pantalla mostrando el anillo real en acción. Queda pendiente que Juan lo confirme tabulando manualmente si quiere el 100% de certeza visual.
+
+**Con esto se cierra toda la cola pendiente del loop de mejora continua hasta ahora** (12 features implementadas y verificadas, todas commiteadas local sin push). Ver el resto de esta sección para el detalle completo de las 8 iteraciones de ideación.

@@ -294,3 +294,16 @@ h1, h2, h3, h4, h5, h6 {
 .trend-bounce {
   animation: trend-bounce 2.4s ease-in-out infinite;
 }
+
+/* Foco de teclado visible en todo el sitio (a11y). :focus-visible solo se
+   activa con navegación por teclado, no con click de mouse, así que no
+   agrega ruido visual a nadie que use el sitio normal. Nota: en elementos
+   muy cerca del borde de una tarjeta con overflow-hidden (ej. el corner de
+   una imagen), el anillo puede quedar parcialmente recortado por el
+   contenedor padre — no cubierto en esta pasada, es un caso puntual, no el
+   patrón general de navegación. */
+:focus-visible {
+  outline: 2px solid var(--text-primary);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
