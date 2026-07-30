@@ -35,7 +35,7 @@ export function ProductGallery({ product }: ProductGalleryProps) {
     <div>
       {/* Main image */}
       <div
-        className="relative aspect-square rounded-[var(--radius-card)] overflow-hidden"
+        className="relative aspect-[4/3] md:aspect-square rounded-[var(--radius-card)] overflow-hidden"
         style={{ backgroundColor: product.pastelColor || "#f8f8f6" }}
       >
         {allFailed ? (

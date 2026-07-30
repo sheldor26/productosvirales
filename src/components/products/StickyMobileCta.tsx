@@ -13,26 +13,29 @@ interface StickyMobileCtaProps {
 /**
  * Barra de compra fija al pie de la pantalla, solo mobile.
  *
- * Aparece cuando el CTA principal (#product-main-cta) ya quedó arriba
- * del viewport, y se esconde cuando el CTA del final (#product-bottom-cta)
- * entra en pantalla, para no tapar un botón que apunta al mismo lugar.
+ * Aparece al salir del bloque de precio (#product-price), no recién cuando
+ * el CTA principal ya quedó arriba del viewport — en mobile el CTA principal
+ * queda bastante abajo (descripción + veredicto de por medio), así que
+ * esperarlo dejaba a la barra sin trabajo que hacer en ese primer tramo.
+ * Se esconde cuando el CTA del final (#product-bottom-cta) entra en pantalla,
+ * para no tapar un botón que apunta al mismo lugar.
  */
 export function StickyMobileCta({ product }: StickyMobileCtaProps) {
-  const [pastMainCta, setPastMainCta] = useState(false);
+  const [pastPrice, setPastPrice] = useState(false);
   const [bottomCtaVisible, setBottomCtaVisible] = useState(false);
 
   useEffect(() => {
-    const mainCta = document.getElementById("product-main-cta");
+    const priceBlock = document.getElementById("product-price");
     const bottomCta = document.getElementById("product-bottom-cta");
     const observers: IntersectionObserver[] = [];
 
-    if (mainCta) {
+    if (priceBlock) {
       const obs = new IntersectionObserver(
         ([entry]) =>
-          setPastMainCta(!entry.isIntersecting && entry.boundingClientRect.top < 0),
+          setPastPrice(!entry.isIntersecting && entry.boundingClientRect.top < 0),
         { threshold: 0 }
       );
-      obs.observe(mainCta);
+      obs.observe(priceBlock);
       observers.push(obs);
     }
 
@@ -48,7 +51,7 @@ export function StickyMobileCta({ product }: StickyMobileCtaProps) {
     return () => observers.forEach((obs) => obs.disconnect());
   }, []);
 
-  const visible = pastMainCta && !bottomCtaVisible;
+  const visible = pastPrice && !bottomCtaVisible;
 
   return (
     <div

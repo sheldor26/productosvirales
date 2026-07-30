@@ -319,3 +319,24 @@ Implementado (idea pendiente desde la iteración 6, Codex #4): regla global `:fo
 **Verificado en el navegador real, no solo en código:** con un spy en `window.gtag` y lectura directa de `window.dataLayer`, se confirmó que `saved_product_toggle` dispara al tocar el corazón de una card (`{action:"add", item_id:"MLA..."}`, persistido en localStorage) y que `search_no_results` dispara con la query real al buscar algo sin resultados. `tsc --noEmit` y `npm run build` limpios.
 
 **Con 16 features implementadas.** Aclaración de Juan en esta misma sesión: el loop nunca debe tocar el contenido/texto de las guías (eso tiene su propio proceso y calendario vía `/optimizador-guias-pv`) — agregar links internos está bien, reescribir prosa que afecte el ranking en GSC no. Ninguna de las 16 features tocó contenido editorial, así que no hay nada que revisar retroactivamente; queda como regla explícita para toda iteración futura. Próximo ángulo: mobile-specific UX, o legal/compliance más allá de ML.
+
+### Iteración 12 (2026-07-30) — UX mobile en el embudo de conversión
+
+**Preguntado:** fricción específica de mobile (no desktop) en el flujo ficha→click de compra, patrones de retención sin dark patterns, y limpieza visual mobile puntual.
+
+**Nota técnica:** Gemini/agy falló esta vuelta con un error de permisos en modo headless (`jetski: no output produced — a tool required the "command" permission that headless mode cannot prompt for`) — ya visto antes en otra sesión (memoria `agy-falla-en-permisos-modo-headless`), no es un problema del prompt. Se siguió solo con Codex, que trajo fuente real (StatCounter Argentina jun-2026, mobile por encima de desktop) y 4 hallazgos con archivo/línea exacta.
+
+**4 hallazgos de Codex, los 4 verificados contra el código real. 2 implementados esta vuelta, 2 presentados a Juan sin implementar por tensión real con la marca:**
+
+1. **Adelantar el CTA principal, antes de descripción/veredicto** — verificado: el orden real en mobile (una sola columna) es título→byline/compartir→rating→precio→cuotas→envío→descripción→veredicto→CTA. El propio Codex marcó el contra: "algunos usuarios necesitan leer el veredicto antes de comprar". **No implementado** — mover el botón de compra antes del bloque "A favor y en contra" choca con la identidad de "curador honesto" del sitio (apurar el click antes de mostrar la contra real es exactamente el tipo de empuje que el sitio evita). Queda para que Juan lo decida explícitamente si quiere priorizar velocidad de click por sobre mostrar el veredicto primero.
+2. **Sticky CTA aparece demasiado tarde** — verificado en `StickyMobileCta.tsx`: el trigger (`pastMainCta`) esperaba a que el CTA principal (que queda abajo de todo) saliera de pantalla, así que en el primer tramo del scroll la barra no ayudaba en nada. **Implementado esta vuelta**, ver abajo.
+3. **Galería mobile ocupa casi toda la pantalla** — verificado en `ProductGallery.tsx`: imagen principal `aspect-square` a 100% del ancho del viewport + thumbnails en grilla, consumía la mayor parte del primer scroll antes de llegar al precio. **Implementado esta vuelta**, ver abajo.
+4. **Fila de compartir compite con la intención de compra** — verificado: 5-6 íconos de compartir aparecen antes del precio en `ProductDetail.tsx`, vía `ShareButtons.tsx` (componente compartido con `ArticleHeader.tsx` de las guías). **No implementado** — cualquier cambio a `ShareButtons` afecta también el header de las guías, y reducir su visibilidad ahí no tiene la misma justificación (no hay un único CTA de compra compitiendo en esa página). Queda para una sesión aparte si se quiere una versión mobile-compacta específica solo para `ProductDetail`, sin tocar el uso en guías.
+
+**Implementado y verificado esta vuelta:**
+1. `ProductGallery.tsx`: imagen principal `aspect-square` → `aspect-[4/3] md:aspect-square` (mobile ~25% menos alto, desktop sin cambios).
+2. `StickyMobileCta.tsx` + `ProductDetail.tsx`: el trigger de la barra fija pasó de "salió el CTA principal de pantalla" a "salió el bloque de precio de pantalla" (`id="product-price"` nuevo en el div de precio). Antes la barra solo ayudaba después de scrollear descripción+veredicto+CTA completos; ahora aparece apenas se pasa el precio, sin mostrarse al cargar (respeta el propio contra de Codex sobre no ser insistente).
+
+**Verificado en el navegador real, viewport mobile 375×812, producto real:** galería visiblemente más compacta (screenshot antes/después), sticky bar confirmada visible (`translate-y-0`) apenas se scrollea más allá del precio, sin esperar el CTA principal ni la sección de precio histórico. Sin errores de consola. `tsc --noEmit` y `npm run build` limpios.
+
+**Con 17 features implementadas.** Próximo ángulo: legal/compliance más allá de ML, dark mode/theming, u onboarding de primera visita.

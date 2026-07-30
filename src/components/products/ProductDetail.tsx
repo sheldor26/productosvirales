@@ -295,7 +295,7 @@ export function ProductDetail({ product, relatedProducts = [], priceHistory }: P
           )}
 
           {/* Price */}
-          <div className="mt-4 flex items-baseline gap-2">
+          <div id="product-price" className="mt-4 flex items-baseline gap-2">
             <span className="text-3xl font-bold text-[var(--text-primary)]">
               {formatPrice(product.price)}
             </span>
