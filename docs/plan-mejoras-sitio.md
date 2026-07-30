@@ -298,3 +298,24 @@ Implementado (idea pendiente desde la iteración 6, Codex #4): regla global `:fo
 **Implementado y verificado esta vuelta:** los 4 archivos (`NewsletterBanner.tsx`, `NewsletterForm.tsx`, `PriceAlert.tsx`, `api/subscribe/route.ts`) con `tsc --noEmit` limpio, `npm run build` completo sin errores, y probado en el navegador real: se tipeó un email y se envió el form de `PriceAlert` en la home, confirmando que el nuevo texto `"Listo. Te aviso por mail si aparece una baja de precio real."` renderiza correctamente sin errores de consola.
 
 **Con 15 features implementadas.** Próximo ángulo: medición/analytics custom events, o legal/compliance más allá de ML.
+
+### Iteración 11 (2026-07-30) — Medición y analytics
+
+**Preguntado:** qué eventos de negocio faltan trackear (premisa de partida: el click de compra hacia MercadoLibre no tiene evento custom), si es prematuro instrumentar más con el tráfico actual (76-100 usuarios/día), y si hay algo mal configurado en GA4/Clarity ya instalado.
+
+**Corrección importante a la premisa del prompt, las dos IAs coincidieron de forma independiente:** la premisa estaba mal — el click de compra SÍ tiene evento custom. `src/components/analytics/AffiliateTracker.tsx` es un listener global (`document.addEventListener("click", ..., {capture:true})`) que detecta cualquier `<a rel="sponsored">` (todos los links de afiliado) y dispara `affiliate_click` a GA4, Clarity y Vercel Analytics a la vez, con `link_url`/`cta_location`/`page_path`. Verificado leyendo el archivo completo: está bien pensado, con comentarios explicando el porqué. No se tocó nada de esto — ninguna de las dos IAs recomendó agregar un evento duplicado.
+
+**Hallazgo de Gemini sobre el proxy anti-adblock de GA4, verificado y matizado:** Gemini señaló que `transport_url: '/_ga'` (en `layout.tsx` + rewrite en `next.config.ts`) no protege contra todos los adblockers porque el script inicial `gtag.js` se sigue cargando directo desde `googletagmanager.com` (solo el `/g/collect` de después pasa por el proxy propio). Verificado contra el código: es cierto, pero **no es un bug desconocido** — el propio comentario en `layout.tsx` ya dice exactamente eso ("esto solo mueve el /g/collect"), y `AffiliateTracker.tsx` ya declara a Vercel Analytics como el fallback first-party real para cuando GA se bloquea. Es un trade-off ya entendido y mitigado por diseño, no una acción nueva.
+
+**3 eventos reales que faltaban, coincidencia entre Codex y Gemini en los 3, implementados y verificados esta vuelta:**
+1. `newsletter_subscribe_success` — se dispara cuando `/api/subscribe` responde OK en `NewsletterBanner.tsx` y `NewsletterForm.tsx`. Antes: el backend guardaba el lead pero GA4 no tenía forma de saber qué página/guía trae más suscripciones.
+2. `price_alert_success` — mismo caso en `PriceAlert.tsx`, con `has_product` (si venía atado a una ficha sin stock) y `page_path`.
+3. `search_no_results` — en `HomeFeed.tsx`, cuando una búsqueda da 0 resultados, con la query truncada a 60 caracteres (sin mandar texto libre largo). Responde "qué busca la gente y no tengo" — señal de contenido/producto nuevo a priorizar, más valiosa que trackear cada categoría del header con el tráfico actual (ambas IAs coincidieron en NO instrumentar clicks de categorías todavía, volumen insuficiente para justificarlo).
+
+**Un cuarto evento, sugerido solo por Gemini pero de bajo riesgo y consistente con el resto, también implementado:** `saved_product_toggle` (`action: "add"|"remove"`) en `useSavedProducts().toggle()` (`src/lib/use-saved-products.ts`) — centralizado en el hook en vez de en `ProductCard.tsx` como sugirió Gemini, para que cualquier consumidor futuro del hook lo herede automáticamente sin duplicar el evento.
+
+**No implementado, con motivo:** marcar `affiliate_click` como "key event"/conversión en GA4 (Codex) — es configuración de la interfaz de GA4, no código; queda como tarea para que Juan la haga directamente en el panel de Google Analytics, no algo que se pueda commitear.
+
+**Verificado en el navegador real, no solo en código:** con un spy en `window.gtag` y lectura directa de `window.dataLayer`, se confirmó que `saved_product_toggle` dispara al tocar el corazón de una card (`{action:"add", item_id:"MLA..."}`, persistido en localStorage) y que `search_no_results` dispara con la query real al buscar algo sin resultados. `tsc --noEmit` y `npm run build` limpios.
+
+**Con 16 features implementadas.** Aclaración de Juan en esta misma sesión: el loop nunca debe tocar el contenido/texto de las guías (eso tiene su propio proceso y calendario vía `/optimizador-guias-pv`) — agregar links internos está bien, reescribir prosa que afecte el ranking en GSC no. Ninguna de las 16 features tocó contenido editorial, así que no hay nada que revisar retroactivamente; queda como regla explícita para toda iteración futura. Próximo ángulo: mobile-specific UX, o legal/compliance más allá de ML.

@@ -29,6 +29,9 @@ export function NewsletterForm({ source }: NewsletterFormProps = {}) {
         setStatus("ok");
         setMessage("Listo. Te vamos a avisar cuando publiquemos algo nuevo.");
         setEmail("");
+        window.gtag?.("event", "newsletter_subscribe_success", {
+          page_path: window.location.pathname,
+        });
       } else {
         setStatus("error");
         setMessage(

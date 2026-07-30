@@ -47,11 +47,14 @@ export function useSavedProducts() {
 
   const toggle = useCallback((id: string) => {
     const current = readSaved();
-    const next = current.includes(id)
-      ? current.filter((x) => x !== id)
-      : [...current, id];
+    const wasSaved = current.includes(id);
+    const next = wasSaved ? current.filter((x) => x !== id) : [...current, id];
     writeSaved(next);
     setIds(next);
+    window.gtag?.("event", "saved_product_toggle", {
+      action: wasSaved ? "remove" : "add",
+      item_id: id,
+    });
   }, []);
 
   return { ids, isSaved, toggle };

@@ -54,6 +54,10 @@ export function PriceAlert({
         return;
       }
       setStatus("done");
+      window.gtag?.("event", "price_alert_success", {
+        page_path: window.location.pathname,
+        has_product: Boolean(productId),
+      });
     } catch {
       setErrorMsg("No pudimos guardar tu email. Probá de nuevo en un rato.");
       setStatus("error");

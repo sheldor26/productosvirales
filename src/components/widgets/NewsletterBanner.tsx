@@ -74,6 +74,9 @@ export function NewsletterBanner() {
         setStatus("ok");
         setMessage("Listo. Te escribo cuando tenga algo que valga la pena.");
         setEmail("");
+        window.gtag?.("event", "newsletter_subscribe_success", {
+          page_path: window.location.pathname,
+        });
         try {
           localStorage.setItem(STORAGE_KEY, "subscribed");
         } catch {}

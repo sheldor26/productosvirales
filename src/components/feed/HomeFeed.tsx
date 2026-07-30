@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useMemo } from "react";
+import { useState, useMemo, useEffect } from "react";
 import { useSearchParams } from "next/navigation";
 import Link from "next/link";
 import { SearchX } from "lucide-react";
@@ -89,6 +89,15 @@ export function HomeFeed({ products }: HomeFeedProps) {
   const pagedProducts = filteredProducts.slice(0, visibleCount);
   const hasMore = visibleCount < filteredProducts.length;
   const noSearchResults = searchQuery.trim().length > 0 && filteredProducts.length === 0;
+
+  useEffect(() => {
+    if (noSearchResults) {
+      // Truncado: solo lo necesario para agrupar términos, no texto libre largo.
+      window.gtag?.("event", "search_no_results", {
+        query: searchQuery.trim().slice(0, 60),
+      });
+    }
+  }, [noSearchResults, searchQuery]);
 
   return (
     <>
