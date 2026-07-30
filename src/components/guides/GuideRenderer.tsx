@@ -242,7 +242,7 @@ function SectionRenderer({ section }: { section: GuideSection }) {
                 alt={altText}
                 fill
                 sizes="(max-width: 768px) 100vw, 720px"
-                priority
+                preload
                 className="object-contain"
               />
             </div>

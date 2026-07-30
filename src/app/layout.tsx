@@ -101,7 +101,12 @@ export default function RootLayout({
             gtag('config', 'G-7FJY0G4T9K', { transport_url: window.location.origin + '/_ga' });
           `}
         </Script>
-        <Script id="microsoft-clarity" strategy="afterInteractive">
+        {/* lazyOnload (no afterInteractive): Clarity graba sesiones completas
+            de mutaciones del DOM, compite por el hilo principal justo cuando
+            más importa (INP de los primeros clicks). No es crítico para medir
+            conversión (eso lo hacen GA/Vercel), así que puede esperar a que
+            el navegador esté libre. */}
+        <Script id="microsoft-clarity" strategy="lazyOnload">
           {`
             (function(c,l,a,r,i,t,y){
               c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};

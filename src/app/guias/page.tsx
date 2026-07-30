@@ -140,7 +140,7 @@ function GuideThumb({
         alt={thumbnail.alt}
         width={thumbnail.width}
         height={thumbnail.height}
-        priority={priority}
+        preload={priority}
         className={`max-w-full max-h-full ${
           thumbnail.fit === "contain" ? "object-contain p-2.5" : "object-cover w-full h-full"
         }`}

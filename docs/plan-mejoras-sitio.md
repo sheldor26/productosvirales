@@ -69,10 +69,7 @@ Orden por impacto/esfuerzo. Nada del stack base se toca sin OK de Juan (regla 4 
   - Pasos: contenido, tablas, pros/cons, reviews, FAQ y JSON-LD en server; dejar client solo `ProductGallery`, `PriceHistoryChart`, `ShareButtons`, `StickyMobileCta`. Reemplazar GSAP por CSS transitions o import dinámico.
   - Riesgo: **medio–alto**.
 
-- [ ] **3.3 Home cacheable**
-  - Archivos: `src/app/page.tsx` (usa `Math.random()` en `makeRotationSeed()` + `searchParams` → request-driven).
-  - Pasos: seed diario determinístico + `revalidate = 86400`; mover búsqueda a `/buscar`.
-  - Riesgo: **medio**.
+- [x] **3.3 Home cacheable** ✅ ya resuelto (fecha exacta no registrada, encontrado stale en esta nota el 2026-07-30 vía iteración 7 del loop de mejora continua). `src/app/page.tsx` ya tiene `export const revalidate = 600` y `makeRotationSeed()` usa una semilla por bucket de tiempo, no `Math.random()` (comentario propio en el código: "Semilla por bucket de tiempo (no Math.random)"). Esta nota había quedado desactualizada.
 
 ---
 
@@ -210,3 +207,21 @@ Juan pidió explícitamente aplicar las ideas ya validadas, en local sin pushear
 `DiscountBadge.tsx`, `ProductCard.tsx` y `ProductDetail.tsx`: cada "-X%" ahora tiene un `<span className="sr-only">X% de descuento</span>` que lee el lector de pantalla, y el símbolo visual queda `aria-hidden="true"` (no se lee dos veces). Cero cambio visual (confirmado con screenshot antes/después). `sr-only` es una utilidad estándar de Tailwind, no requirió librería nueva.
 
 **Pendiente para la próxima iteración:** foco visible (`focus-visible:ring` global) queda como la idea más segura sin implementar de esta vuelta. Ángulo nuevo: internacionalización a otros países de habla hispana, o performance/Core Web Vitals específico.
+
+### Iteración 7 (2026-07-30) — Performance / Core Web Vitals más allá del plan técnico ya documentado
+
+**Preguntado:** JS de terceros diferible, formatos/config de imágenes, algo específico de Next.js 16 sin aprovechar, CSS/fuentes que bloqueen el render inicial.
+
+**Hallazgo colateral importante:** Codex notó que la home ya tiene `revalidate = 600` y una semilla por bucket de tiempo (no `Math.random()`), contradiciendo el Tier 3.3 de este mismo documento que decía "pendiente". Se verificó contra el código real: es cierto, Tier 3.3 estaba resuelto y la nota había quedado desactualizada — **corregida arriba** (marcada ✅).
+
+**Verificación de afirmaciones técnicas concretas (no solo "¿ya existe?"), tras el episodio de la iteración 6:**
+- `priority` **SÍ está deprecado en Next.js 16 a favor de `preload`** — confirmado leyendo `node_modules/next/dist/docs/.../image.md` línea 293 y la tabla de changelog (`v16.0.0: priority prop deprecated`). Afirmación de Codex correcta. **Implementada esta vuelta** (ver abajo).
+- El default de `formats` de `next/image` es `['image/webp']` únicamente (confirmado en `node_modules/next/dist/shared/lib/image-config.js`) — Gemini tenía razón en que AVIF no está habilitado hoy. Agregarlo toca `next.config.ts`: **requiere aviso previo a Juan**, no implementado.
+- La sugerencia de Gemini de cambiar `display: "optional"` a `"swap"` en las fuentes "para lograr CLS igual a 0" es **técnicamente al revés**: `optional` es la opción que MENOS arriesga CLS (nunca reemplaza la fuente ya pintada), mientras que `swap` sí puede causar un reflow cuando la fuente web reemplaza al fallback. Se descarta, no se implementa.
+- `experimental.reactCompiler` (Codex y Gemini) — real, pero toca `next.config.ts` y probablemente necesita el paquete `babel-plugin-react-compiler` (librería nueva). **Requiere aviso previo a Juan**, no implementado.
+
+**Implementado esta vuelta:**
+1. **Migración `priority` → `preload`** en los 5 usos de `next/image` con prioridad LCP (`ProductCard.tsx`, `ProductGallery.tsx`, `ArticleHeader.tsx`, `GuideRenderer.tsx`, `guias/page.tsx`) — deprecación real de Next 16, sin tocar `next.config.ts`. Verificado en el navegador: sigue inyectando el `<link rel="preload">` correcto.
+2. **Microsoft Clarity: `strategy="afterInteractive"` → `"lazyOnload"`** en `layout.tsx` — coincidencia total entre Codex y Gemini. Clarity graba sesiones completas (mutaciones del DOM), compite por el hilo principal justo en la ventana crítica de INP; no es necesario para medir conversión (eso lo hacen GA/Vercel). Riesgo bajo: se pierden los primeros ~1-2s de grabación de sesión en Clarity, nada de tracking de conversión.
+
+**Pendiente, con aviso explícito a Juan (no implementado sin su OK):** habilitar AVIF en `next.config.ts`, y evaluar `experimental.reactCompiler` (puede requerir instalar `babel-plugin-react-compiler`).

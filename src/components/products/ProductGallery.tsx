@@ -51,7 +51,7 @@ export function ProductGallery({ product }: ProductGalleryProps) {
             fill
             sizes="(max-width: 768px) 100vw, 50vw"
             className="object-contain p-8"
-            priority
+            preload
             onError={() => handleImageError(activeIdx)}
           />
         )}

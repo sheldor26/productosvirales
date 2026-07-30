@@ -119,7 +119,7 @@ export function ArticleHeader({ guide }: ArticleHeaderProps) {
               alt={hero.alt || guide.h1}
               fill
               sizes="(max-width: 768px) 100vw, 1200px"
-              priority
+              preload
               className="object-contain"
             />
           </div>
