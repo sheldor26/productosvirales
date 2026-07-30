@@ -31,7 +31,7 @@ export function SavedProductsView() {
   }, [ids]);
 
   if (products === null) {
-    return <p className="text-sm text-[var(--text-muted)]">Cargando tus guardados...</p>;
+    return <ProductGrid products={[]} loading />;
   }
 
   if (products.length === 0) {
