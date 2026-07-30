@@ -31,11 +31,16 @@ export function NewsletterForm({ source }: NewsletterFormProps = {}) {
         setEmail("");
       } else {
         setStatus("error");
-        setMessage(data.error || "Hubo un error. Probá de nuevo.");
+        setMessage(
+          data.error ||
+            "No salió. Probá de nuevo en un rato; si sigue fallando, escribime a hola@productosvirales.com.ar."
+        );
       }
     } catch {
       setStatus("error");
-      setMessage("Hubo un error. Probá de nuevo.");
+      setMessage(
+        "No salió. Probá de nuevo en un rato; si sigue fallando, escribime a hola@productosvirales.com.ar."
+      );
     }
   }
 

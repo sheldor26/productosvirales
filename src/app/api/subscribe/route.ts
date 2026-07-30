@@ -43,7 +43,7 @@ export async function POST(request: Request) {
   const { allowed, retryAfterSec } = checkRateLimit(ip);
   if (!allowed) {
     return NextResponse.json(
-      { error: "Demasiadas solicitudes. Probá de nuevo en unos minutos." },
+      { error: "Me llegaron varios intentos juntos. Probá de nuevo en unos minutos." },
       {
         status: 429,
         headers: { "Retry-After": String(retryAfterSec) },
@@ -55,7 +55,10 @@ export async function POST(request: Request) {
   try {
     body = await request.json();
   } catch {
-    return NextResponse.json({ error: "Body inválido" }, { status: 400 });
+    return NextResponse.json(
+      { error: "No pude procesar el formulario. Probá de nuevo." },
+      { status: 400 }
+    );
   }
 
   const email =
@@ -64,7 +67,10 @@ export async function POST(request: Request) {
       : undefined;
 
   if (typeof email !== "string" || !EMAIL_REGEX.test(email.trim())) {
-    return NextResponse.json({ error: "Email inválido" }, { status: 400 });
+    return NextResponse.json(
+      { error: "Revisá el mail: parece que quedó mal escrito." },
+      { status: 400 }
+    );
   }
 
   const normalized = email.trim().toLowerCase();

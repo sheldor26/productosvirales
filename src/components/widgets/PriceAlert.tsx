@@ -18,7 +18,7 @@ export function PriceAlert({
   title = "Alertas de precio",
   subtitle = "Te avisamos de las bajas de precio más fuertes de la tienda. Las alertas por producto puntual, en camino.",
   ctaLabel = "Activar alerta",
-  doneLabel = "¡Alerta activada! Atentos a tu mail — te chiflamos las mejores bajas primero.",
+  doneLabel = "Listo. Te aviso por mail si aparece una baja de precio real.",
 }: PriceAlertProps = {}) {
   const [email, setEmail] = useState("");
   const [status, setStatus] = useState<"idle" | "loading" | "done" | "error">("idle");

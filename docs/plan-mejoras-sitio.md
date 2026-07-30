@@ -281,3 +281,20 @@ Implementado (idea pendiente desde la iteración 6, Codex #4): regla global `:fo
 2. `src/app/privacidad/page.tsx`: nueva sección "Productos guardados" explicando el uso de localStorage, y fecha de "Última actualización" al día.
 
 **Con 13 features implementadas, decisión de founder solo no técnico:** dado que la cola de pendientes se vació 2 veces seguidas (una tras otra ronda de ideación) y siguen apareciendo hallazgos genuinamente nuevos y de calidad (no solo relleno), el loop sigue. Próximo ángulo: contenido/copywriting y tono de voz, o medición/analytics — o esperar señal de Juan si prefiere pausar acá.
+
+### Iteración 10 (2026-07-30) — Contenido y copywriting (tono de voz, microcopia)
+
+**Preguntado:** si los mensajes de error/estado de los formularios (NewsletterBanner, NewsletterForm, PriceAlert, /api/subscribe) suenan a plantilla genérica o a la voz curadora del sitio, si hay microcopia de botones/confirmaciones fuera de tono, y si vale la pena priorizar esto ahora.
+
+**Nota técnica:** la salida de Gemini/agy esta vuelta salió corrupta (un loop infinito de un mismo token repetido miles de veces, sin contenido útil) — descartada por completo, no se usó nada de ahí. Se siguió solo con Codex, que sí devolvió una respuesta limpia y específica (archivo + línea exacta por cada hallazgo).
+
+**Opinión honesta de Codex, respetada tal cual la dio:** no hay un problema grande de microcopia. CTAs con país aclarado, avisos de precio/stock, estados vacíos y textos de confianza ya están alineados con "curador honesto". Explícitamente recomendó NO tocar `"Comprar en MercadoLibre"`, `"Ver ficha y opiniones"`, `"Cargar más productos"` ni los estados vacíos ya existentes — en afiliados, claridad gana por sobre personalidad, y sumar voz donde hoy hay texto directo es el riesgo real. Se respetó: no se tocó nada de eso.
+
+**3 hallazgos puntuales, los 3 verificados contra el código real y aplicados como cambios de string (sin tocar lógica):**
+1. Fallback genérico `"Hubo un error. Probá de nuevo."` en `NewsletterBanner.tsx` y `NewsletterForm.tsx` (2 ocurrencias cada uno: catch de `data.error` y catch de red) → `"No salió. Probá de nuevo en un rato; si sigue fallando, escribime a hola@productosvirales.com.ar."` (primera persona, como el resto del banner: "Te escribo cuando tenga algo que valga la pena").
+2. Errores secos de `/api/subscribe/route.ts` que llegan tal cual al frontend vía `data.error`: `"Body inválido"` → `"No pude procesar el formulario. Probá de nuevo."`; `"Email inválido"` → `"Revisá el mail: parece que quedó mal escrito."`; `"Demasiadas solicitudes. Probá de nuevo en unos minutos."` → `"Me llegaron varios intentos juntos. Probá de nuevo en unos minutos."` (primera persona, consistente con el resto de la voz).
+3. Confirmación de `PriceAlert.tsx` pasada de tono: `"¡Alerta activada! Atentos a tu mail — te chiflamos las mejores bajas primero."` (suena vendedor, "mejores" promete un criterio que no siempre se cumple) → `"Listo. Te aviso por mail si aparece una baja de precio real."`.
+
+**Implementado y verificado esta vuelta:** los 4 archivos (`NewsletterBanner.tsx`, `NewsletterForm.tsx`, `PriceAlert.tsx`, `api/subscribe/route.ts`) con `tsc --noEmit` limpio, `npm run build` completo sin errores, y probado en el navegador real: se tipeó un email y se envió el form de `PriceAlert` en la home, confirmando que el nuevo texto `"Listo. Te aviso por mail si aparece una baja de precio real."` renderiza correctamente sin errores de consola.
+
+**Con 15 features implementadas.** Próximo ángulo: medición/analytics custom events, o legal/compliance más allá de ML.
