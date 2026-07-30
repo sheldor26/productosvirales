@@ -189,7 +189,7 @@ export function ProductCard({ product, index = 0, priority = false }: ProductCar
             ctaLocation="card"
             onClick={(e) => e.stopPropagation()}
             className="flex items-center justify-center w-11 h-11 md:w-10 md:h-10 rounded-full bg-[var(--cta-bg)] text-[var(--cta-text)] hover:bg-[var(--cta-hover)] transition-colors shrink-0"
-            ariaLabel="Ver en MercadoLibre"
+            ariaLabel="Ver en MercadoLibre Argentina"
           >
             <ArrowRight size={16} />
           </AffiliateLink>

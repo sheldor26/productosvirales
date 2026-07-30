@@ -70,10 +70,10 @@ export function StickyMobileCta({ product }: StickyMobileCtaProps) {
         <AffiliateLink
           href={product.affiliateUrl}
           ctaLocation="sticky"
-          ariaLabel={`Ver ${product.title} en MercadoLibre`}
+          ariaLabel={`Ver ${product.title} en MercadoLibre Argentina`}
           className="flex-1 flex items-center justify-center gap-2 px-4 py-2.5 text-sm font-semibold rounded-[var(--radius-pill)] bg-[var(--cta-bg)] text-[var(--cta-text)] hover:bg-[var(--cta-hover)] transition-colors"
         >
-          Ver en MercadoLibre
+          Ver en MercadoLibre Argentina
           <ExternalLink size={14} />
         </AffiliateLink>
       </div>

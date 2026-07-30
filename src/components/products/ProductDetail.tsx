@@ -361,10 +361,10 @@ export function ProductDetail({ product, relatedProducts = [], priceHistory }: P
             <AffiliateLink
               href={product.affiliateUrl}
               ctaLocation="ficha-top"
-              ariaLabel="Ir a MercadoLibre (se abre en una pestaña nueva)"
-              className="flex items-center justify-center gap-2 w-full px-6 py-3.5 text-base font-bold rounded-[var(--radius-pill)] bg-[#3483fa] text-white hover:bg-[#2968c8] transition-colors"
+              ariaLabel="Ir a MercadoLibre Argentina (se abre en una pestaña nueva)"
+              className="flex items-center justify-center gap-2 w-full px-6 py-3.5 text-base font-bold rounded-[var(--radius-pill)] bg-[var(--cta-bg)] text-[var(--cta-text)] hover:bg-[var(--cta-hover)] transition-colors"
             >
-              Ir a MercadoLibre
+              Ir a MercadoLibre Argentina
               <ExternalLink size={16} />
             </AffiliateLink>
             <p className="mt-2.5 text-xs text-[var(--text-muted)] text-center leading-relaxed">
@@ -663,7 +663,7 @@ export function ProductDetail({ product, relatedProducts = [], priceHistory }: P
             ¿Te convenció?
           </p>
           <p className="mt-1 text-sm text-[var(--bg-primary)] opacity-70">
-            Confirmá precio y stock en MercadoLibre.
+            Confirmá precio y stock en MercadoLibre Argentina.
           </p>
           <div className="mt-3 text-2xl font-bold text-[#ffe600]">
             {formatPrice(product.price)}
@@ -671,10 +671,10 @@ export function ProductDetail({ product, relatedProducts = [], priceHistory }: P
           <AffiliateLink
             href={product.affiliateUrl}
             ctaLocation="ficha-bottom"
-            ariaLabel="Comprar en MercadoLibre (se abre en una pestaña nueva)"
+            ariaLabel="Comprar en MercadoLibre Argentina (se abre en una pestaña nueva)"
             className="mt-4 inline-flex items-center justify-center gap-2 px-8 py-3.5 text-base font-bold rounded-[var(--radius-pill)] bg-[#ffe600] text-[#111111] hover:brightness-95 transition"
           >
-            Comprar en MercadoLibre
+            Comprar en MercadoLibre Argentina
             <ExternalLink size={16} />
           </AffiliateLink>
         </div>

@@ -9,7 +9,7 @@ const faqItems = [
   },
   {
     q: "¿Cómo compro un producto?",
-    a: 'Hacé clic en el botón de flecha o en "Ver en MercadoLibre" y te llevamos directo al producto en ML para que compres con todas las garantías de la plataforma.',
+    a: 'Hacé clic en el botón de flecha o en "Ver en MercadoLibre Argentina" y te llevamos directo al producto en ML para que compres con todas las garantías de la plataforma.',
   },
   {
     q: '¿Por qué un producto es "viral"?',
