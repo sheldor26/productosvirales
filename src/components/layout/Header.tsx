@@ -3,12 +3,13 @@
 import Link from "next/link";
 import { useState, useEffect, useRef } from "react";
 import { useRouter } from "next/navigation";
-import { Menu, X, Sun, Moon, Search, ChevronDown } from "lucide-react";
+import { Menu, X, Sun, Moon, Search, ChevronDown, Heart } from "lucide-react";
 import { useTheme } from "next-themes";
 import { cn } from "@/lib/utils";
 import { SearchInput } from "@/components/ui/SearchInput";
 import { WhatsAppIcon } from "@/components/icons/WhatsAppIcon";
 import { CATEGORY_NAV } from "@/data/category-nav";
+import { useSavedProducts } from "@/lib/use-saved-products";
 import { MobileNav } from "./MobileNav";
 
 const NAV_LINK_CLS =
@@ -25,6 +26,7 @@ export function Header() {
   const { theme, setTheme } = useTheme();
   const [mounted, setMounted] = useState(false);
   const router = useRouter();
+  const { ids: savedIds } = useSavedProducts();
 
   const handleSearch = (query: string) => {
     setSearchOpen(false);
@@ -206,6 +208,20 @@ export function Header() {
                 <WhatsAppIcon size={15} />
                 Sumate a WhatsApp
               </a>
+
+              {/* Guardados: localStorage del visitante, sin cuentas */}
+              <Link
+                href="/guardados"
+                className="relative p-2 rounded-full hover:bg-[var(--bg-secondary)] transition-colors text-[var(--text-secondary)] cursor-pointer"
+                aria-label={`Tus guardados${savedIds.length > 0 ? ` (${savedIds.length})` : ""}`}
+              >
+                <Heart size={18} />
+                {savedIds.length > 0 && (
+                  <span className="absolute -top-0.5 -right-0.5 flex items-center justify-center min-w-[16px] h-4 px-1 rounded-full bg-[var(--color-discount)] text-white text-[9px] font-bold leading-none">
+                    {savedIds.length}
+                  </span>
+                )}
+              </Link>
 
               {/* Desktop search */}
               <div className="hidden md:block">

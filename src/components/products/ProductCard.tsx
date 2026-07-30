@@ -2,12 +2,13 @@
 
 import Link from "next/link";
 import Image from "next/image";
-import { ArrowRight, Sparkles, TrendingUp, TrendingDown, Flame, Award, Sun, Gift } from "lucide-react";
+import { ArrowRight, Sparkles, TrendingUp, TrendingDown, Flame, Award, Sun, Gift, Heart } from "lucide-react";
 import { AffiliateLink } from "@/components/affiliate/AffiliateLink";
 import { Badge } from "@/components/ui/Badge";
 import { CouponBadge } from "@/components/products/CouponBadge";
 import { formatPrice, formatDiscount } from "@/lib/utils";
 import { productHref } from "@/lib/product-url";
+import { useSavedProducts } from "@/lib/use-saved-products";
 import type { CardProduct } from "@/lib/types";
 
 function TikTokIcon({ size = 12 }: { size?: number }) {
@@ -37,6 +38,8 @@ interface ProductCardProps {
 
 export function ProductCard({ product, index = 0, priority = false }: ProductCardProps) {
   const productUrl = productHref(product);
+  const { isSaved, toggle } = useSavedProducts();
+  const saved = isSaved(product.id);
   const {
     title,
     price,
@@ -61,54 +64,79 @@ export function ProductCard({ product, index = 0, priority = false }: ProductCar
         badge === "viral" ? "shadow-[0_0_14px_rgba(236,72,153,0.16)]" : ""
       }`}
     >
-      {/* Image area */}
-      <Link href={productUrl} className="block relative" style={{ aspectRatio: "10/9" }}>
-        <div
-          className="absolute inset-0"
-          style={{ backgroundColor: pastelColor || "#f8f8f6" }}
-        />
-        <div className="relative w-full h-full overflow-hidden">
-          <Image
-            src={image}
-            alt={title}
-            fill
-            sizes="(max-width: 640px) 50vw, (max-width: 768px) 33vw, 25vw"
-            className="object-contain p-4 group-hover:scale-110 transition-transform duration-500 ease-out"
-            priority={priority}
-            fetchPriority={priority ? "high" : undefined}
-            loading={priority ? "eager" : "lazy"}
+      {/* Image area. Wrapper propio (no el <Link>) para poder poner el botón de
+          guardar como hermano, no hijo: un <button> dentro de un <a> es HTML
+          inválido y rompe el accessibility tree / los clicks. */}
+      <div className="relative" style={{ aspectRatio: "10/9" }}>
+        <Link href={productUrl} className="block relative w-full h-full">
+          <div
+            className="absolute inset-0"
+            style={{ backgroundColor: pastelColor || "#f8f8f6" }}
           />
-        </div>
-
-        {/* Top-left: TikTok badge */}
-        {tiktokViews && (
-          <div className="absolute top-2.5 left-2.5">
-            <Badge variant="viral" className="gap-1">
-              <TikTokIcon size={10} />
-              {tiktokViews} views
-            </Badge>
+          <div className="relative w-full h-full overflow-hidden">
+            <Image
+              src={image}
+              alt={title}
+              fill
+              sizes="(max-width: 640px) 50vw, (max-width: 768px) 33vw, 25vw"
+              className="object-contain p-4 group-hover:scale-110 transition-transform duration-500 ease-out"
+              priority={priority}
+              fetchPriority={priority ? "high" : undefined}
+              loading={priority ? "eager" : "lazy"}
+            />
           </div>
-        )}
 
-        {/* Top-right: Discount badge */}
-        {discount && (
-          <div className="absolute top-2.5 right-2.5">
-            <Badge variant="discount" className={badge === "hot-deal" ? "pulse-badge" : ""}>
-              -{discount}%
-            </Badge>
-          </div>
-        )}
+          {/* Top-left: TikTok badge */}
+          {tiktokViews && (
+            <div className="absolute top-2.5 left-2.5">
+              <Badge variant="viral" className="gap-1">
+                <TikTokIcon size={10} />
+                {tiktokViews} views
+              </Badge>
+            </div>
+          )}
 
-        {/* Bottom-left: Product badge */}
-        {badge && BadgeIcon && (
-          <div className="absolute bottom-2.5 left-2.5">
-            <Badge variant={badge} className="gap-1">
-              <BadgeIcon size={10} />
-              {badgeLabel}
-            </Badge>
-          </div>
-        )}
-      </Link>
+          {/* Top-right: Discount badge */}
+          {discount && (
+            <div className="absolute top-2.5 right-2.5">
+              <Badge variant="discount" className={badge === "hot-deal" ? "pulse-badge" : ""}>
+                -{discount}%
+              </Badge>
+            </div>
+          )}
+
+          {/* Bottom-left: Product badge */}
+          {badge && BadgeIcon && (
+            <div className="absolute bottom-2.5 left-2.5">
+              <Badge variant={badge} className="gap-1">
+                <BadgeIcon size={10} />
+                {badgeLabel}
+              </Badge>
+            </div>
+          )}
+        </Link>
+
+        {/* Bottom-right: guardar (localStorage, sin cuentas). Hermano del
+            Link, no hijo (ver comentario arriba). */}
+        <button
+          type="button"
+          onClick={(e) => {
+            e.preventDefault();
+            e.stopPropagation();
+            toggle(product.id);
+          }}
+          aria-pressed={saved}
+          aria-label={saved ? "Sacar de guardados" : "Guardar producto"}
+          title={saved ? "Sacar de guardados" : "Guardar producto"}
+          className="absolute bottom-2.5 right-2.5 flex items-center justify-center w-8 h-8 rounded-full bg-white/90 backdrop-blur-sm shadow-sm hover:scale-110 transition-transform cursor-pointer"
+        >
+          <Heart
+            size={15}
+            className={saved ? "text-[#ef4444]" : "text-[var(--text-muted)]"}
+            fill={saved ? "#ef4444" : "none"}
+          />
+        </button>
+      </div>
 
       {/* Info area */}
       <div className="p-3 md:p-3.5">
