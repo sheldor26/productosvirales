@@ -2,6 +2,7 @@
 
 import Image from "next/image";
 import { useState } from "react";
+import { ImageOff } from "lucide-react";
 import { TikTokBadge } from "@/components/widgets/TikTokBadge";
 import { cn } from "@/lib/utils";
 import type { Product } from "@/lib/types";
@@ -15,7 +16,20 @@ export function ProductGallery({ product }: ProductGalleryProps) {
   const candidates = product.images && product.images.length > 0 ? product.images : [product.image];
   const images = Array.from(new Set(candidates.filter(Boolean)));
   const [activeIdx, setActiveIdx] = useState(0);
+  const [failedIdx, setFailedIdx] = useState<Set<number>>(new Set());
   const activeImage = images[activeIdx] || product.image;
+  const allFailed = images.length > 0 && images.every((_, i) => failedIdx.has(i));
+
+  function handleImageError(idx: number) {
+    setFailedIdx((prev) => {
+      const next = new Set(prev).add(idx);
+      // Si hay otra imagen sin probar, saltar automáticamente a la siguiente
+      // en vez de mostrar un ícono de imagen rota.
+      const nextUntried = images.findIndex((_, i) => !next.has(i));
+      if (nextUntried !== -1 && idx === activeIdx) setActiveIdx(nextUntried);
+      return next;
+    });
+  }
 
   return (
     <div>
@@ -24,15 +38,23 @@ export function ProductGallery({ product }: ProductGalleryProps) {
         className="relative aspect-square rounded-[var(--radius-card)] overflow-hidden"
         style={{ backgroundColor: product.pastelColor || "#f8f8f6" }}
       >
-        <Image
-          key={activeImage}
-          src={activeImage}
-          alt={product.title}
-          fill
-          sizes="(max-width: 768px) 100vw, 50vw"
-          className="object-contain p-8"
-          priority
-        />
+        {allFailed ? (
+          <div className="absolute inset-0 flex flex-col items-center justify-center gap-2 text-[var(--text-muted)]">
+            <ImageOff size={32} />
+            <span className="text-xs text-center px-4">Imagen no disponible por el momento</span>
+          </div>
+        ) : (
+          <Image
+            key={activeImage}
+            src={activeImage}
+            alt={product.title}
+            fill
+            sizes="(max-width: 768px) 100vw, 50vw"
+            className="object-contain p-8"
+            priority
+            onError={() => handleImageError(activeIdx)}
+          />
+        )}
         {product.tiktokViews && (
           <div className="absolute top-4 left-4">
             <TikTokBadge views={product.tiktokViews} />

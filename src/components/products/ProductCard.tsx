@@ -2,7 +2,8 @@
 
 import Link from "next/link";
 import Image from "next/image";
-import { ArrowRight, Sparkles, TrendingUp, TrendingDown, Flame, Award, Sun, Gift, Heart } from "lucide-react";
+import { useState } from "react";
+import { ArrowRight, Sparkles, TrendingUp, TrendingDown, Flame, Award, Sun, Gift, Heart, ImageOff } from "lucide-react";
 import { AffiliateLink } from "@/components/affiliate/AffiliateLink";
 import { Badge } from "@/components/ui/Badge";
 import { CouponBadge } from "@/components/products/CouponBadge";
@@ -40,6 +41,7 @@ export function ProductCard({ product, index = 0, priority = false }: ProductCar
   const productUrl = productHref(product);
   const { isSaved, toggle } = useSavedProducts();
   const saved = isSaved(product.id);
+  const [imgError, setImgError] = useState(false);
   const {
     title,
     price,
@@ -74,16 +76,24 @@ export function ProductCard({ product, index = 0, priority = false }: ProductCar
             style={{ backgroundColor: pastelColor || "#f8f8f6" }}
           />
           <div className="relative w-full h-full overflow-hidden">
-            <Image
-              src={image}
-              alt={title}
-              fill
-              sizes="(max-width: 640px) 50vw, (max-width: 768px) 33vw, 25vw"
-              className="object-contain p-4 group-hover:scale-110 transition-transform duration-500 ease-out"
-              priority={priority}
-              fetchPriority={priority ? "high" : undefined}
-              loading={priority ? "eager" : "lazy"}
-            />
+            {imgError ? (
+              <div className="absolute inset-0 flex flex-col items-center justify-center gap-1.5 text-[var(--text-muted)]">
+                <ImageOff size={22} />
+                <span className="text-[10px] text-center px-2">Imagen no disponible</span>
+              </div>
+            ) : (
+              <Image
+                src={image}
+                alt={title}
+                fill
+                sizes="(max-width: 640px) 50vw, (max-width: 768px) 33vw, 25vw"
+                className="object-contain p-4 group-hover:scale-110 transition-transform duration-500 ease-out"
+                priority={priority}
+                fetchPriority={priority ? "high" : undefined}
+                loading={priority ? "eager" : "lazy"}
+                onError={() => setImgError(true)}
+              />
+            )}
           </div>
 
           {/* Top-left: TikTok badge */}

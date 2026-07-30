@@ -176,4 +176,21 @@ Juan pidió explícitamente aplicar las ideas ya validadas, en local sin pushear
 - Filtros por caso de uso en listados de guías (iteración 1 #3 / iteración 4 #2, mismo concepto): requiere tagging editorial real por guía (170+), no es un cambio mecánico — mejor candidato para ir guía por guía vía `/optimizador-guias-pv`, no un barrido.
 - `llms-full.txt`, afiliados complementarios, AdSense/Ezoic: bloqueados por reglas propias del proyecto (avisar antes de tocar routing, no crear cuentas de terceros sin autorización, decisión ya tomada de NO por ahora).
 
-**Señal de que el loop está rindiendo menos por vuelta:** de 4 ideas nuevas (iteración 1) a 3 (iteración 2) a 3 (iteración 3) a 2 (iteración 4, y una de esas 2 con una limitación técnica real). Se pausó el loop acá para que Juan decida qué construir antes de seguir generando ideas — seguir de largo con rendimientos decrecientes es la señal clásica de "loop-until-dry".
+**Señal de que el loop estaba rindiendo menos por vuelta:** de 4 ideas nuevas (iteración 1) a 3 (iteración 2) a 3 (iteración 3) a 2 (iteración 4, y una de esas 2 con una limitación técnica real). Se había pausado acá — Juan pidió retomarlo sin pausas y aplicando código real (ver "Ronda de implementación" arriba), así que sigue.
+
+### Iteración 5 (2026-07-30) — Manejo de errores y estados vacíos
+
+**Preguntado:** qué pasa cuando algo sale mal o no hay datos — stock agotado en vivo, búsqueda/categoría sin resultados, imagen que no carga, producto descontinuado (404), algo que se rompe silenciosamente.
+
+**Filtrado antes de llegar a Juan:** el "404 con recuperación" que propusieron LAS DOS IAs (Codex #4, Gemini #1) ya está resuelto — `src/app/not-found.tsx` ya explica "el producto ya no está disponible", con categorías + 8 productos populares. Otra vez las dos IAs coincidieron en algo que ya existía sin saberlo.
+
+**4 ideas nuevas confirmadas contra el código (grep real, no supuesto):**
+1. **Fallback de imagen rota** (Codex #3, Gemini #3, coincidencia total) — confirmado: cero manejo de `onError` en todo el sitio. **Implementada esta misma vuelta** (ver abajo).
+2. **Estado vacío de búsqueda sin resultados** (`/?q=...`) (Codex #2, Gemini #2) — confirmado en `HomeFeed.tsx`: si `filteredProducts` queda vacío, el subtítulo dice "0 productos encontrados" pero no hay contenido de recuperación (categorías, populares, limpiar búsqueda).
+3. **Mensaje claro de "sin stock" en el botón de compra** (Codex #1) — confirmado: cero uso de `priceStatus`/`out_of_stock` en `ProductDetail.tsx`, `StickyMobileCta.tsx` ni `AffiliateLink`. El botón dice "Ver en MercadoLibre" igual esté en stock o no.
+4. **"Guardados" con un producto que ya no existe en el catálogo** (Gemini #4, sobre el feature propio de esta sesión) — hoy `/api/saved-products` filtra silenciosamente los ids que no matchean (no rompe nada), pero el usuario no se entera de que guardó algo que después desapareció del catálogo.
+
+**Implementado esta vuelta — fallback de imagen rota:**
+`commit` (ver git log): `ImageOff` de lucide + `onError` en `ProductCard.tsx` (placeholder "Imagen no disponible" en vez de romper el layout) y en `ProductGallery.tsx` (auto-avanza a la siguiente imagen del producto si falla la activa; si fallan todas, mismo placeholder). Probado forzando un evento `error` real en el navegador antes de commitear — no es solo lectura de código, se vio el fallback renderizado.
+
+**Pendiente para la próxima iteración:** de las 3 ideas restantes de esta vuelta, la de out-of-stock en el CTA es la de mayor impacto real (afecta conversión/confianza en la página que vende) — buena candidata para la próxima implementación. Ángulo de ideación nuevo: accesibilidad, o internacionalización a otros países de habla hispana.
