@@ -2,9 +2,12 @@
 
 import { useState, useMemo } from "react";
 import { useSearchParams } from "next/navigation";
+import Link from "next/link";
+import { SearchX } from "lucide-react";
 import { CategoryTabs } from "@/components/feed/CategoryTabs";
 import { ProductGrid } from "@/components/products/ProductGrid";
 import { normalizeSearch } from "@/lib/utils";
+import { categories } from "@/data/categories";
 import type { CardProduct } from "@/lib/types";
 
 const PAGE_SIZE = 12;
@@ -85,6 +88,7 @@ export function HomeFeed({ products }: HomeFeedProps) {
 
   const pagedProducts = filteredProducts.slice(0, visibleCount);
   const hasMore = visibleCount < filteredProducts.length;
+  const noSearchResults = searchQuery.trim().length > 0 && filteredProducts.length === 0;
 
   return (
     <>
@@ -95,11 +99,45 @@ export function HomeFeed({ products }: HomeFeedProps) {
         />
       )}
 
-      <ProductGrid
-        products={pagedProducts}
-        title={title}
-        subtitle={subtitle}
-      />
+      {noSearchResults ? (
+        <div className="py-12 text-center">
+          <SearchX size={28} className="mx-auto text-[var(--text-muted)]" />
+          <h2
+            className="mt-3 text-lg font-bold text-[var(--text-primary)]"
+            style={{ fontFamily: "var(--font-display)" }}
+          >
+            No encontramos nada para &quot;{searchQuery}&quot;
+          </h2>
+          <p className="mt-1.5 text-sm text-[var(--text-secondary)] max-w-md mx-auto">
+            Probá con otra palabra, o mirá alguna de estas categorías.
+          </p>
+          <div className="mt-5 flex flex-wrap justify-center gap-2 max-w-lg mx-auto">
+            {categories
+              .filter((c) => !c.isSpecial)
+              .map((c) => (
+                <Link
+                  key={c.slug}
+                  href={`/categoria/${c.slug}`}
+                  className="px-3.5 py-1.5 text-xs font-medium rounded-[var(--radius-pill)] bg-[var(--bg-secondary)] text-[var(--text-secondary)] hover:bg-[var(--border)] transition-colors"
+                >
+                  {c.name}
+                </Link>
+              ))}
+          </div>
+          <Link
+            href="/"
+            className="inline-block mt-5 text-sm font-semibold underline decoration-[var(--border)] underline-offset-2"
+          >
+            Ver todos los productos
+          </Link>
+        </div>
+      ) : (
+        <ProductGrid
+          products={pagedProducts}
+          title={title}
+          subtitle={subtitle}
+        />
+      )}
 
       {hasMore && (
         <div className="mt-6 flex justify-center">

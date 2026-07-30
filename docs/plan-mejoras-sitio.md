@@ -250,3 +250,9 @@ Confirmado contra el código real: `formatPrice()` usa `Intl.NumberFormat("es-AR
 Implementado (idea pendiente desde la iteración 5, Codex #1): en `ProductDetail.tsx`, cuando `product.priceStatus === "out_of_stock"`, aparece un aviso (`AlertTriangle` + texto ámbar) arriba del CTA principal: "Al último chequeo esta publicación figuraba pausada o sin stock. Puede haberse repuesto desde entonces — confirmalo en MercadoLibre antes de dar el click." El link sigue funcionando (no se oculta el botón: el dato puede estar desactualizado, y ocultar el CTA le sacaría al usuario la chance de comprobarlo él mismo). Verificado en el navegador con un producto real `out_of_stock` (aparece) y uno `fresh` (correctamente ausente). No se duplicó en `StickyMobileCta` ni en la banda CTA final (esa ya tiene su propio "Confirmá precio y stock" genérico) para no sobrecargar de avisos la misma página.
 
 **Quedan en la cola:** estado vacío de búsqueda sin resultados (iteración 5), foco visible `focus-visible:ring` global (iteración 6).
+
+### Retomando la cola (2026-07-30) — estado vacío de búsqueda sin resultados
+
+Implementado (idea pendiente desde la iteración 5, Codex #2 + Gemini #2, coincidencia total): en `HomeFeed.tsx`, cuando una búsqueda (`/?q=...`) da 0 resultados, en vez de un `ProductGrid` vacío (título + "0 productos encontrados" sin nada abajo) se muestra un estado dedicado: ícono, "No encontramos nada para 'X'", pills a las 10 categorías reales del sitio (`/categoria/[slug]`, crawleables) y un link para volver a ver todo el catálogo. `categories.ts` es liviano (268 líneas de metadata, no el catálogo de 4MB) así que es seguro importarlo en este componente cliente. Verificado en el navegador con una búsqueda real sin resultados.
+
+**Queda en la cola:** foco visible `focus-visible:ring` global (iteración 6) — es la única idea pendiente de todo el loop hasta ahora.
