@@ -12,6 +12,7 @@ import {
   Check,
   X,
   Star,
+  AlertTriangle,
 } from "lucide-react";
 import { gsap, useGSAP } from "@/lib/gsap-config";
 import { Badge } from "@/components/ui/Badge";
@@ -358,6 +359,16 @@ export function ProductDetail({ product, relatedProducts = [], priceHistory }: P
 
           {/* CTA principal (único, dominante) */}
           <div id="product-main-cta" className="mt-6">
+            {product.priceStatus === "out_of_stock" && (
+              <div className="mb-3 flex items-start gap-2 rounded-[var(--radius-card)] bg-amber-50 border border-amber-200 px-3.5 py-2.5 text-xs text-amber-800">
+                <AlertTriangle size={15} className="shrink-0 mt-0.5" />
+                <span>
+                  Al último chequeo esta publicación figuraba pausada o sin stock. Puede
+                  haberse repuesto desde entonces — confirmalo en MercadoLibre antes de dar
+                  el click.
+                </span>
+              </div>
+            )}
             <AffiliateLink
               href={product.affiliateUrl}
               ctaLocation="ficha-top"
