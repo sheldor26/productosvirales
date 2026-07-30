@@ -2,6 +2,7 @@ import "server-only"; // candado: falla el build si un componente cliente import
 import type { CardProduct, Product } from "./types";
 import { curatedProducts } from "@/data/curated-products";
 import { normalizeSearch } from "./utils";
+import { analyzePriceHistory } from "./price-history";
 
 /**
  * Visibility helpers for product filtering across feeds, grids and related blocks.
@@ -31,6 +32,7 @@ export function getVisibleProducts(): Product[] {
  * en páginas server antes de pasar productos a ProductGrid: evita serializar
  * articleBody/faq/reviews de cada producto en el payload RSC del HTML. */
 export function toCardProduct(p: Product): CardProduct {
+  const priceHistory = analyzePriceHistory(p.id, p.price);
   return {
     id: p.id,
     title: p.title,
@@ -44,6 +46,7 @@ export function toCardProduct(p: Product): CardProduct {
     badge: p.badge,
     pastelColor: p.pastelColor,
     priceStatus: p.priceStatus,
+    bestPrice: priceHistory?.verdict.tone === "good",
   };
 }
 

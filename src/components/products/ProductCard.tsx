@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import Image from "next/image";
-import { ArrowRight, Sparkles, TrendingUp, Flame, Award, Sun, Gift } from "lucide-react";
+import { ArrowRight, Sparkles, TrendingUp, TrendingDown, Flame, Award, Sun, Gift } from "lucide-react";
 import { AffiliateLink } from "@/components/affiliate/AffiliateLink";
 import { Badge } from "@/components/ui/Badge";
 import { CouponBadge } from "@/components/products/CouponBadge";
@@ -48,6 +48,7 @@ export function ProductCard({ product, index = 0, priority = false }: ProductCar
     tiktokViews,
     badge,
     pastelColor,
+    bestPrice,
   } = product;
 
   const discount = originalPrice ? formatDiscount(originalPrice, price) : null;
@@ -154,6 +155,17 @@ export function ProductCard({ product, index = 0, priority = false }: ProductCar
             <ArrowRight size={16} />
           </AffiliateLink>
         </div>
+
+        {bestPrice && (
+          <Badge
+            variant="price-low"
+            className="mt-1.5"
+            title="El precio de hoy es el más bajo que le registramos a este producto."
+          >
+            <TrendingDown size={10} />
+            Mínimo histórico
+          </Badge>
+        )}
 
         <CouponBadge price={price} className="mt-1.5" />
       </div>

@@ -92,3 +92,73 @@ Orden por impacto/esfuerzo. Nada del stack base se toca sin OK de Juan (regla 4 
 3. **3.1 + 2.3 juntos** — sacar el catálogo del cliente y montar el buscador server-side comparten el mismo trabajo (índice server-only). Es el proyecto técnico de fondo; se planifica y ejecuta con OK explícito.
 
 > Nota: las optimizaciones on-page de guías por posición (freidora, estufas) quedan para cuando maduren — no se re-optimizan guías frescas. Para eso está `gsc.py oportunidades`.
+
+---
+
+## Loop de mejora continua (Codex + Gemini/agy, a pedido de Juan 2026-07-30)
+
+Registro de qué se preguntó y qué se propuso en cada iteración, para no repetir preguntas ya contestadas. Ver memoria `sinergia-codex-gemini-mejora-continua`.
+
+### Iteración 1 (2026-07-30)
+
+**Preguntado:** las 7 preguntas estándar (funciones nuevas, velocidad, fricción, conversión, "¿funciona bien?", retención sin dark patterns, limpieza visual moderna) a Codex y Gemini/agy en paralelo, con el estado actual del sitio (contexto de `docs/plan-mejoras-sitio.md` ya resumido en el prompt) + investigación web propia de tendencias 2026 (UX/conversión de sitios de afiliados, diseño minimal/rápido).
+
+**Filtrado antes de llegar a Juan:** 3 de las 12 ideas combinadas (Codex 6 + Gemini 6) ya estaban implementadas y se descartaron sin mostrárselas: el "Sticky CTA mobile inteligente" (Gemini #2) es exactamente `StickyMobileCta.tsx`, ya con IntersectionObserver en ambos extremos; el bloque "Veredicto" pros/contras (Gemini #3) es "El resumen honesto" (`ProductDetail.tsx`); el framing "comprálo si / no sirve si" (Codex #2) ya vive en el pull-quote 💬 de cada ficha. Verificado leyendo el código, no asumido.
+
+**4 ideas propuestas a Juan** (coincidencia real entre las dos IAs en 2 de los 4 conceptos, elegido como señal de fuerza):
+1. Badge "precio más bajo en X días" en las tarjetas de listado (home/guías), no solo dentro de la ficha — el dato ya existe (`price-history.json` + `analyzePriceHistory`), falta exponerlo en `ProductCard.tsx`. Propuesto independientemente por Codex ("semáforo de compra") y Gemini ("etiqueta de oportunidad real").
+2. Comparador/lista local sin cuentas (localStorage, sin backend) — propuesto independientemente por Codex ("guardados + comparación rápida") y Gemini ("comparador frente a frente"). Nada de esto existe hoy en el repo (grep confirmado).
+3. Filtros por caso de uso en listados de guías (ej. "para correr", "para casa chica") en vez de solo specs — complementa el buscador `/buscar` ya planeado (Tier 2.3).
+4. Skeleton loaders / micro-interacciones para velocidad percibida — ángulo nuevo, el plan técnico existente (Tier 3) solo cubre velocidad real (RSC/caché), no percibida.
+
+**Pendiente para la próxima iteración:** no repreguntar estas 7 preguntas genéricas — la próxima vuelta debería enfocarse en profundizar UNA de las ideas elegidas por Juan (si elige alguna) o en un ángulo no cubierto todavía (ej. SEO/GEO específico para AI Overviews, monetización más allá de ML afiliados).
+
+### Iteración 2 (2026-07-30) — Diversificación de ingresos
+
+**Preguntado:** si conviene diversificar ingresos más allá de la comisión de ML en esta etapa (4 meses, DA~1, tráfico bajo), y si conviene, qué 2-3 vías priorizar. Explícitamente se preguntó por AdSense/Ezoic.
+
+**Filtrado antes de llegar a Juan:** el "newsletter" que ambas IAs propusieron como prioridad #1 de forma independiente NO es una idea nueva a construir de cero — el capture ya existe (`NewsletterBanner.tsx`, banner no bloqueante con scroll-trigger al 60%, postea a `/api/subscribe`). Lo que falta es el motor de envío de un digest ("mejores ofertas de la semana") y la activación de infraestructura — el MISMO bloqueo ya documentado en Tier 1.3 de este mismo archivo (Resend + secrets en GitHub/Vercel + migraciones Neon). Verificado leyendo el código antes de presentarlo como nuevo.
+
+**Conclusión con más peso (coincidencia total, no parcial):** las dos IAs, de forma independiente, dijeron NO a activar Google AdSense/Ezoic en esta etapa, con cifras concretas: Ezoic exige ~250.000 usuarios/mes para sitios nuevos (fuera del programa Incubator); Gemini sugirió esperar a cruzar ~50.000 visitas/mes. El daño a Core Web Vitals y a la estética "curador honesto" no compensa el RPM bajísimo con el tráfico actual.
+
+**3 ideas/decisiones propuestas a Juan:**
+1. **Decisión, no build:** no activar AdSense/Ezoic todavía — dejarlo anotado como umbral (~50k visitas/mes) para revisar más adelante, no como tarea.
+2. **Activar (no construir) el motor de newsletter/digest** — mismo bloqueo de infraestructura que PriceAlert (Tier 1.3): falta cuenta Resend + secrets + migraciones Neon, más un script nuevo tipo `notify-weekly-digest.cjs` (no existe hoy, solo existe el de bajas de precio).
+3. **Afiliados complementarios muy selectivos** — sumar un link secundario a otra tienda/red de afiliados SOLO en categorías puntuales donde honestamente convenga más que ML (no reemplaza el botón principal). Esfuerzo medio, requiere altas de cuentas nuevas + regla editorial clara por categoría, avisar antes. Patrocinios/CPA directo con marcas D2C quedan para más adelante (ambas IAs coinciden: hoy se negociaría desde debilidad, sin autoridad/tráfico).
+
+**Pendiente para la próxima iteración:** SEO/GEO para respuestas de IA generativa (AI Overviews, ChatGPT, Perplexity) — ángulo todavía no cubierto.
+
+### Iteración 3 (2026-07-30) — GEO / respuestas de IA generativa
+
+**Preguntado:** qué le falta al sitio para maximizar citas en AI Overviews/ChatGPT/Perplexity, qué patrones de contenido aumentan citabilidad, si es realista competir ahora con DA~1, y si hay algo específico de Argentina/español a tener en cuenta.
+
+**Filtrado antes de llegar a Juan (fuerte esta vez):** 3 de las 4+4 recomendaciones ya estaban resueltas, ninguna de las dos IAs lo sabía:
+- "Auditoría de acceso para crawlers de IA" (Codex #1) → `src/app/robots.ts` YA permite explícitamente `GPTBot`, `OAI-SearchBot`, `ChatGPT-User`, `ClaudeBot`, `PerplexityBot` y bloquea solo los bots de entrenamiento puro (`CCBot`, `Google-Extended`). Ya está bien pensado, con comentario explicando el criterio.
+- "Implementar llms.txt" (parte de Gemini #3) → ya existe `src/app/llms.txt/route.ts`, generado en build time desde las guías publicadas reales, agrupado por cluster. Lo que NO existe es la variante "full" (ver abajo).
+- "Autoridad editorial mínima" (Codex #3: metodología/transparencia de afiliados) → ya existe `/sobre-nosotros` con metodología, cómo se gana dinero y por qué confiar, confirmado leyendo el metaDescription real de la página.
+
+**3 ideas nuevas propuestas a Juan:**
+1. **Pasajes densos en datos ("information gain"), 40-60 palabras, con fecha de verificación** — reescribir los bloques clave de las guías con hechos concretos al frente (no prosa de relleno). Propuesto independientemente por Codex y Gemini. No es código: es un ajuste de estilo editorial aplicable vía `/optimizador-guias-pv` en próximas guías nuevas u optimizaciones, no en todo el catálogo de una vez.
+2. **`llms-full.txt`: volcado completo del contenido en Markdown** (más allá del índice liviano que ya existe en `llms.txt`) — para que los crawlers de IA no dependan de renderizar el DOM/JS. Esfuerzo medio, **requiere aviso previo** (toca routing/robots).
+3. **Enlaces salientes a fuentes primarias** (manual oficial del fabricante, certificaciones IRAM, ficha técnica de marca) en las fichas donde esa fuente YA se usa para verificar specs (confirmado con grep: 0 links salientes hoy en `curated-products.ts`/`guides.ts`, pese a que ya se cruzan datos contra manuales oficiales — ver memoria `ratificar-modelo-antes-de-usar-manual`). Hoy se usa la fuente para chequear el dato pero no se cita. Esfuerzo bajo, riesgo bajo, refuerza "curador honesto" con evidencia visible.
+
+**Validación, no acción nueva:** ambas IAs coincidieron en que competir por citas de IA en términos genéricos ("mejor robot aspiradora") no es realista con DA~1 y 4 meses — pero sí para long-tail/marcas locales (Liliana, Peabody, Atma) donde el sitio puede ser la única fuente clara ("vacío de datos"). Esto confirma la estrategia cola/marca que ya se venía siguiendo, no agrega trabajo nuevo.
+
+**Pendiente para la próxima iteración:** benchmarking contra sitios de afiliados reales que rankean bien en Argentina/LATAM — ángulo todavía no cubierto.
+
+### Iteración 4 (2026-07-30) — Benchmarking contra sitios reales
+
+**Preguntado:** qué hacen mejor en UX/contenido/estructura sitios de afiliados/comparadores reales que rankean en Argentina hoy (Codex y Gemini buscaron en vivo: EligiBien, CuálDura, MejoresCompras.com.ar, Historial.com.ar, Precialo.com.ar, comparado también contra la nota de MercadoLibre de cafeteras espresso).
+
+**Filtrado antes de llegar a Juan (la ronda con más redundancia hasta ahora):** de las 8 ideas combinadas, 5 ya estaban resueltas o eran repetición de iteraciones anteriores:
+- "Veredicto cuantificado arriba de todo" (Codex #1) → ya es el bloque `quickPicks` ("Nuestras elecciones") al inicio de cada guía.
+- "Señal de precio confiable / mínimo histórico" (Codex #3) → YA EXISTE, es exactamente `PriceHistoryChart` (mínimo/hoy/máximo + "Hoy está en su precio más bajo registrado"). Codex no lo sabía y lo marcó como esfuerzo alto/riesgo alto.
+- "Secciones anti-marketing / qué ignorar / trampas de categoría" (Codex #4, Gemini #3) → confirmado con grep: el patrón "qué mirar/qué evitar/errores comunes" ya aparece 55 veces en `guides.ts`, ya es estándar del template.
+- "Bloques de decisión por caso de uso" (Codex #2) → mismo concepto que la idea #3 de la Iteración 1 (filtros por caso de uso), no es nuevo.
+- "Badges anti-trampas / mínimo histórico / precio verificado" (Gemini #1) → refuerza (tercera vez que sale) la idea #1 de la Iteración 1 (badge de precio en tarjetas de listado), no es nueva.
+
+**2 ideas genuinamente nuevas:**
+1. **Guías/agrupaciones por límite de presupuesto específico en pesos** (ej. "notebooks por menos de $500.000", "regalos tecnológicos por menos de $50.000") — ángulo de contenido nuevo, bajo esfuerzo, alta relevancia en contexto inflacionario argentino. Riesgo: los montos quedan desactualizados rápido, necesitan revisión periódica.
+2. **Buscador/analizador de link de ML en vivo** (pegar un link, veredicto instantáneo) — propuesto por Gemini, pero **choca con una restricción ya conocida del proyecto**: la API oficial de MercadoLibre está bloqueada (401), el sitio usa Bright Data para todo dato en vivo (ver memoria `no-usamos-api-ml-usamos-brightdata`). Un fetch en vivo simple como lo describe Gemini no es viable tal cual; habría que rediseñarlo (o descartarlo). Marcado explícitamente como "requiere aviso previo a Juan" y con una limitación técnica real detectada, no solo de esfuerzo.
+
+**Señal de que el loop está rindiendo menos por vuelta:** de 4 ideas nuevas (iteración 1) a 3 (iteración 2) a 3 (iteración 3) a 2 (iteración 4, y una de esas 2 con una limitación técnica real). Se pausó el loop acá para que Juan decida qué construir antes de seguir generando ideas — seguir de largo con rendimientos decrecientes es la señal clásica de "loop-until-dry".

@@ -2,7 +2,7 @@ import { cn } from "@/lib/utils";
 
 interface BadgeProps {
   children: React.ReactNode;
-  variant?: "default" | "viral" | "trending" | "discount" | "hot-deal" | "bestseller" | "summer-pick" | "tiktok-viral" | "collector" | "coupon";
+  variant?: "default" | "viral" | "trending" | "discount" | "hot-deal" | "bestseller" | "summer-pick" | "tiktok-viral" | "collector" | "coupon" | "price-low";
   className?: string;
   title?: string;
 }
@@ -33,6 +33,8 @@ export function Badge({ children, variant = "default", className, title }: Badge
         variant === "collector" &&
           "bg-[#5B2A86] text-white px-2.5 py-1.5 backdrop-blur-sm",
         variant === "coupon" &&
+          "bg-[var(--color-trending-up)] text-white px-2.5 py-1.5 backdrop-blur-sm",
+        variant === "price-low" &&
           "bg-[var(--color-trending-up)] text-white px-2.5 py-1.5 backdrop-blur-sm",
         className
       )}

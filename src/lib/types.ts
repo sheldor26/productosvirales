@@ -16,7 +16,12 @@ export type CardProduct = Pick<
   | "badge"
   | "pastelColor"
   | "priceStatus"
->;
+> & {
+  /** true si el precio actual está en su mínimo histórico (o a <=5% de él),
+   * según `analyzePriceHistory`. Derivado en el server al armar la tarjeta,
+   * no es un campo real del catálogo. */
+  bestPrice?: boolean;
+};
 
 export interface Product {
   id: string;
