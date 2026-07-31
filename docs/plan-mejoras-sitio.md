@@ -526,3 +526,7 @@ Implementada la segunda idea que había quedado anotada en la iteración 16 (mí
 **Cuarta falsa alarma de staleness de dev en la sesión:** al verificar el fix de la home en la pestaña de dev reutilizada, el solapamiento seguía apareciendo 8/8 — código server viejo en el dev server. En una pestaña fresca: 12 cards del feed + 8 de la sección semanal, solapamiento 0. También se aprendió que el HTML estático de la home NO incluye las cards del feed (HomeFeed está dentro de `<Suspense>` por `useSearchParams`, se difiere a CSR) — la verificación por `curl` del HTML no sirve para el feed, solo el navegador.
 
 **Con 32 features implementadas, 29 commits locales.**
+
+### Iteración 22 (2026-07-30) — ángulo abierto o retomar la cola
+
+**Lanzada en background:** elegir entre la cola anotada ("Aparece en estas guías", comparador de listados, 404 contextual, lazy-load del chart, "Tu lista", blindaje de anchors) o algo nuevo. Prompt en `PROMPT-iter22.txt`.
