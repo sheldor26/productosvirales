@@ -62,7 +62,7 @@ export function ProductCard({ product, index = 0, priority = false }: ProductCar
 
   return (
     <div
-      className={`product-card ${priority ? "" : "reveal"} group rounded-[var(--radius-card)] overflow-hidden border border-[var(--border)] bg-[var(--bg-primary)] hover:-translate-y-1 hover:shadow-[0_12px_28px_-8px_rgba(0,0,0,0.18)] ${
+      className={`product-card ${priority ? "" : "reveal"} group rounded-[var(--radius-card)] overflow-hidden border border-[var(--border)] bg-[var(--bg-primary)] transition-transform hover:-translate-y-1 hover:shadow-[0_12px_28px_-8px_rgba(0,0,0,0.18)] motion-safe:active:scale-[0.98] ${
         badge === "viral" ? "shadow-[0_0_14px_rgba(236,72,153,0.16)]" : ""
       }`}
     >
@@ -139,7 +139,7 @@ export function ProductCard({ product, index = 0, priority = false }: ProductCar
           aria-pressed={saved}
           aria-label={saved ? "Sacar de guardados" : "Guardar producto"}
           title={saved ? "Sacar de guardados" : "Guardar producto"}
-          className="absolute bottom-2.5 right-2.5 flex items-center justify-center w-8 h-8 rounded-full bg-white/90 backdrop-blur-sm shadow-sm hover:scale-110 transition-transform cursor-pointer"
+          className="absolute bottom-2.5 right-2.5 flex items-center justify-center w-8 h-8 rounded-full bg-white/90 backdrop-blur-sm shadow-sm hover:scale-110 motion-safe:active:scale-90 transition-transform cursor-pointer"
         >
           <Heart
             size={15}
@@ -188,7 +188,7 @@ export function ProductCard({ product, index = 0, priority = false }: ProductCar
             href={affiliateUrl}
             ctaLocation="card"
             onClick={(e) => e.stopPropagation()}
-            className="flex items-center justify-center w-11 h-11 md:w-10 md:h-10 rounded-full bg-[var(--cta-bg)] text-[var(--cta-text)] hover:bg-[var(--cta-hover)] transition-colors shrink-0"
+            className="flex items-center justify-center w-11 h-11 md:w-10 md:h-10 rounded-full bg-[var(--cta-bg)] text-[var(--cta-text)] hover:bg-[var(--cta-hover)] motion-safe:active:scale-90 transition-[background-color,transform] shrink-0"
             ariaLabel="Ver en MercadoLibre Argentina"
           >
             <ArrowRight size={16} />

@@ -382,7 +382,7 @@ export function ProductDetail({ product, relatedProducts = [], priceHistory }: P
               href={product.affiliateUrl}
               ctaLocation="ficha-top"
               ariaLabel="Ir a MercadoLibre Argentina (se abre en una pestaña nueva)"
-              className="flex items-center justify-center gap-2 w-full px-6 py-3.5 text-base font-bold rounded-[var(--radius-pill)] bg-[var(--cta-bg)] text-[var(--cta-text)] hover:bg-[var(--cta-hover)] transition-colors"
+              className="flex items-center justify-center gap-2 w-full px-6 py-3.5 text-base font-bold rounded-[var(--radius-pill)] bg-[var(--cta-bg)] text-[var(--cta-text)] hover:bg-[var(--cta-hover)] motion-safe:active:scale-[0.98] transition-[background-color,transform]"
             >
               Ir a MercadoLibre Argentina
               <ExternalLink size={16} />
@@ -692,7 +692,7 @@ export function ProductDetail({ product, relatedProducts = [], priceHistory }: P
             href={product.affiliateUrl}
             ctaLocation="ficha-bottom"
             ariaLabel="Comprar en MercadoLibre Argentina (se abre en una pestaña nueva)"
-            className="mt-4 inline-flex items-center justify-center gap-2 px-8 py-3.5 text-base font-bold rounded-[var(--radius-pill)] bg-[#ffe600] text-[#111111] hover:brightness-95 transition"
+            className="mt-4 inline-flex items-center justify-center gap-2 px-8 py-3.5 text-base font-bold rounded-[var(--radius-pill)] bg-[#ffe600] text-[#111111] hover:brightness-95 motion-safe:active:scale-[0.98] transition"
           >
             Comprar en MercadoLibre Argentina
             <ExternalLink size={16} />

@@ -74,7 +74,7 @@ export function StickyMobileCta({ product }: StickyMobileCtaProps) {
           href={product.affiliateUrl}
           ctaLocation="sticky"
           ariaLabel={`Ver ${product.title} en MercadoLibre Argentina`}
-          className="flex-1 flex items-center justify-center gap-2 px-4 py-2.5 text-sm font-semibold rounded-[var(--radius-pill)] bg-[var(--cta-bg)] text-[var(--cta-text)] hover:bg-[var(--cta-hover)] transition-colors"
+          className="flex-1 flex items-center justify-center gap-2 px-4 py-2.5 text-sm font-semibold rounded-[var(--radius-pill)] bg-[var(--cta-bg)] text-[var(--cta-text)] hover:bg-[var(--cta-hover)] motion-safe:active:scale-95 transition-[background-color,transform]"
         >
           Ver en MercadoLibre Argentina
           <ExternalLink size={14} />

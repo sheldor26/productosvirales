@@ -443,3 +443,25 @@ Implementada la segunda idea que había quedado anotada en la iteración 16 (mí
 **Verificado en el navegador real:** "microondaz" (typo real) devuelve los 10 microondas del catálogo correctamente. Una query sin sentido real (`zzzznoexistequery123`) sigue mostrando el estado vacío tal cual, sin falsos positivos. `tsc --noEmit` y `npm run build` limpios, sin errores de consola.
 
 **Con 25 features implementadas, 24 commits locales.**
+
+### Iteración 17 (2026-07-30) — Transiciones y fluidez percibida, primera con las tres miradas desde el arranque
+
+**Preguntado:** transiciones entre páginas, feedback inmediato al interactuar, consistencia de skeletons/loading, layout shift.
+
+**Falso positivo real de Gemini, verificado antes de creerle:** afirmó "no existe ningún archivo `loading.tsx` en todo `src/app/`". Falso — verificado con `find`: ya existían `categoria/[slug]/loading.tsx` y `producto/[slug]/loading.tsx` (de la iteración 5, antes de esta parte de la sesión). Descartado el hallazgo tal como estaba planteado.
+
+**Pero el fondo del hallazgo era real, solo mal enunciado:** al mapear las 12 rutas del sitio contra las 2 que sí tienen `loading.tsx`, confirmé que **las guías (`/guias/[slug]` y `/guias/[slug]/[sub]`) y `/trending` no tenían ninguno** — y las guías son el activo de tráfico más importante del sitio (SEO). Real, verificado, implementado.
+
+**Hallazgo convergente entre Codex y Gemini, de forma independiente:** falta feedback `active:` (tap) en botones y cards — hoy casi todo responde solo a `hover`, que no existe en mobile. Verificado contra el código real (`Button.tsx`, `ProductCard.tsx` líneas 65/142/191, `ProductDetail.tsx` línea 385): confirmado, cero estados `active` en todo el sitio.
+
+**Hallazgo de Codex, correctamente descartado por él mismo:** View Transitions nativas (card → ficha) requieren `experimental.viewTransition` en `next.config.ts` (confirmado contra `node_modules/next/dist/docs/01-app/02-guides/view-transitions.md`) — fuera de alcance por la regla de no tocar el stack base sin avisar. Anotado como backlog estratégico, no implementado.
+
+**Implementado:**
+1. `src/app/guias/[slug]/loading.tsx`, `src/app/guias/[slug]/[sub]/loading.tsx`, `src/app/trending/loading.tsx` (3 archivos nuevos) + `GuideLoadingSkeleton` compartido en `src/components/ui/Skeleton.tsx`.
+2. Feedback táctil `motion-safe:active:scale-*` en los botones/cards de mayor uso: `Button.tsx` (todas las variantes), `ProductCard.tsx` (card completa, botón de guardar, CTA circular), `ProductDetail.tsx` (CTA principal y banda final), `StickyMobileCta.tsx`. `motion-safe:` respeta `prefers-reduced-motion` automáticamente (variante nativa de Tailwind, sin config extra).
+
+**No implementado, con motivo:** transición suave en el reordenamiento de grillas al cambiar filtro/orden (Codex, esfuerzo bajo/medio) y micro-fade entre rutas vía `template.tsx` (Gemini, patrón real de Next pero interactúa con el timeline de GSAP ya existente en `ProductDetail.tsx` — mayor riesgo de pisarse con la animación de reveal ya verificada esta sesión) — ambas quedan para una próxima ronda con más tiempo de verificación cruzada con el sistema de animación existente.
+
+**Verificado en el navegador real:** clase `motion-safe:active:scale-90` confirmada tanto en el DOM como generada como regla CSS real (no purgada por Tailwind). Rutas `/guias/tech/reloj-garmin` y `/trending` cargan sin errores de consola. `tsc --noEmit` y `npm run build` limpios.
+
+**Con 27 features implementadas, 26 commits locales.**
