@@ -45,7 +45,10 @@ export default function Home() {
   // DTOs chicos: el catálogo se resuelve acá (server) y baja como prop, así
   // HomeFeed (client) no importa `curated-products` ni serializa productos enteros.
   const feedCards = rotated.map(toFeedCard);
-  const weeklyPopular = rotated.slice(0, 8).map(toCardProduct);
+  // Saltea los primeros 12 (la primera página del feed de arriba): antes esta
+  // sección repetía exactamente los mismos 8 productos que ya se veían al
+  // entrar, desperdiciando una segunda oportunidad de descubrimiento.
+  const weeklyPopular = rotated.slice(12, 20).map(toCardProduct);
 
   return (
     <div className="max-w-[1200px] mx-auto px-4 md:px-6 py-5 md:py-8">

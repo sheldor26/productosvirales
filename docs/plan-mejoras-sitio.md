@@ -515,4 +515,14 @@ Implementada la segunda idea que había quedado anotada en la iteración 16 (mí
 
 ### Iteración 21 (2026-07-30) — ángulo abierto
 
-**Lanzada en background:** sin ángulo prefijado, con permiso explícito de decir "no hay nada nuevo" si corresponde (20 rondas ya cubiertas). Prompt en `PROMPT-iter21.txt`, salidas esperadas en `codex-out-iter21.md` y `agy-out-iter21.md`.
+**Preguntado:** sin ángulo prefijado, con permiso explícito de decir "no hay nada nuevo". Gemini falló otra vez (salida vacía) — se siguió con Codex.
+
+**Hallazgo real de Codex #1, implementado:** "Lo más buscado esta semana" en la home usaba `rotated.slice(0, 8)` — repetía EXACTAMENTE los primeros 8 productos que ya se veían arriba en la primera página del feed (mismo array, mismos índices). Verificado en `src/app/page.tsx:48`. Cambiado a `slice(12, 20)`: como el feed pagina de a 12, la sección ahora muestra productos genuinamente distintos, garantizado por construcción (índices disjuntos del mismo array rotado).
+
+**Hallazgo real de Codex #2, verificado pero NO implementado (riesgo > beneficio actual):** `QuickPicks`/`GuideRenderer`/`StickyBuyBar`/`ProductCard` de guías usan `<a>` crudos para links de afiliado en vez del guard de `AffiliateLink` (que convierte el placeholder `PEGAR_MELI_LA` en "No disponible por ahora" en vez de un link roto). Verificado: los 4 componentes tienen anchors crudos, y existe UN producto con el placeholder (`MLA16142518`, cortadora Philco) — pero está `deprioritized` y **cero guías lo referencian**, así que el riesgo es latente, no activo. Hacer el swap masivo cambiaría el layout en los links-imagen (el guard renderiza un `<span>` de texto donde iría una imagen) — se documenta como deuda conocida en vez de arreglar a ciegas algo que hoy no rompe nada.
+
+**Hallazgo de Codex #3, anotado para el futuro:** "Aparece en estas guías" en las fichas (derivar desde `guides.ts` qué guías referencian cada producto y mostrar 2-4 links internos) — buena idea de enlazado interno bidireccional, esfuerzo medio, queda en la cola.
+
+**Cuarta falsa alarma de staleness de dev en la sesión:** al verificar el fix de la home en la pestaña de dev reutilizada, el solapamiento seguía apareciendo 8/8 — código server viejo en el dev server. En una pestaña fresca: 12 cards del feed + 8 de la sección semanal, solapamiento 0. También se aprendió que el HTML estático de la home NO incluye las cards del feed (HomeFeed está dentro de `<Suspense>` por `useSearchParams`, se difiere a CSR) — la verificación por `curl` del HTML no sirve para el feed, solo el navegador.
+
+**Con 32 features implementadas, 29 commits locales.**
