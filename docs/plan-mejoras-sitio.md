@@ -554,3 +554,7 @@ Implementada la segunda idea que había quedado anotada en la iteración 16 (mí
 **Verificado en navegador (pestaña fresca):** URL rota realista (`/producto/freidora-de-aire-philips-discontinuada-mla99999999`) → 404 muestra "Buscar «freidora aire philips discontinuada»" con href correcto; el click-through a la búsqueda devuelve 7 productos reales; `/xy` no muestra el botón; sin errores de consola. `tsc` + `build` limpios.
 
 **Con 35 features implementadas, 33 commits locales.**
+
+### Iteración 24 (2026-07-31) — una sola idea defendible
+
+**Lanzada en background.** Prompt en `PROMPT-iter24.txt`.
