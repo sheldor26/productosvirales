@@ -6,6 +6,24 @@
 > chequearlos en MercadoLibre. Si son reales, avisar para aplicarlos a mano.
 > Entradas nuevas arriba.
 
+## 2026-07-31
+
+- **MLA24605489** — Al wataniah Bareeq Al Dhahad EDP 100 ml para hombre: $27.777 → $80.000 (+188%)
+  - ML: https://www.mercadolibre.com.ar/al-wataniah-bareeq-al-dhahad-edp-100ml-para-hombre/p/MLA24605489
+  - Sitio: https://productosvirales.com.ar/producto/MLA24605489
+- **MLA38252447** — Balanza Xiaomi Mi Body Composition Scale S400 Bluetooth Medición de doble frecuencia 25 indicadores de salud hasta 150kg: $229.000 → $79.199 (-65%)
+  - ML: https://www.mercadolibre.com.ar/xiaomi-mi-body-composition-scale-s400-pantalla-led-bluetooth-50-150-kg-escala-de-composicion-corporal-inteligente-para-el-hogar-funciona-con-la-aplicacion-mi-home/p/MLA45283782
+  - Sitio: https://productosvirales.com.ar/producto/MLA38252447
+- **MLA12384031** — Joystick Inalambrico EX600001 Microsoft XBox Negro: $120.000 → $460.998 (+284%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA12384031
+  - Sitio: https://productosvirales.com.ar/producto/MLA12384031
+- **MLA19788587** — Ultracomb Pe4910 Pava Electrica Con Infusor De Te Func. Mate: $199.999 → $75.707 (-62%)
+  - ML: https://www.mercadolibre.com.ar/ultracomb-pe4910-pava-electrica-con-infusor-de-te-func-mate/p/MLA19788587
+  - Sitio: https://productosvirales.com.ar/producto/MLA19788587
+- **MLA26504431** — Aspiradora Robot Samsung Jetbot Lidar Mapping Dig. Inverter: $1.300.000 → $3.476.040 (+167%)
+  - ML: https://www.mercadolibre.com.ar/aspiradora-robot-samsung-jetbot-lidar-mapping-dig-inverter/p/MLA26504431
+  - Sitio: https://productosvirales.com.ar/producto/MLA26504431
+
 ## 2026-07-29
 
 - **MLA16269737** — Auriculares Logitech G733 Inalámbricos Color Blanco: $215.178 → $470.079 (+118%)
