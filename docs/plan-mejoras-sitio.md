@@ -340,3 +340,26 @@ Implementado (idea pendiente desde la iteración 6, Codex #4): regla global `:fo
 **Verificado en el navegador real, viewport mobile 375×812, producto real:** galería visiblemente más compacta (screenshot antes/después), sticky bar confirmada visible (`translate-y-0`) apenas se scrollea más allá del precio, sin esperar el CTA principal ni la sección de precio histórico. Sin errores de consola. `tsc --noEmit` y `npm run build` limpios.
 
 **Con 17 features implementadas.** Próximo ángulo: legal/compliance más allá de ML, dark mode/theming, u onboarding de primera visita.
+
+### Iteración 13 (2026-07-30) — Legal/compliance y dark mode
+
+**Preguntado:** gaps legales/compliance argentino (Ley 25.326 de datos personales, disclosure de afiliados, cookies) más allá de lo ya cubierto en /terminos y /privacidad, y componentes reales con colores hardcodeados que rompan el modo oscuro.
+
+**Gotcha técnico real detectado al verificar la sugerencia de Gemini:** Gemini propuso arreglar el aviso de sin-stock agregando clases `dark:bg-amber-900/20` etc. de Tailwind. Verificado contra el repo: el sitio themea con el atributo `[data-theme="dark"]` (toggle manual en el Header, `ThemeProvider`), no con la variante `dark:` de Tailwind (que por defecto sigue `prefers-color-scheme`, y no hay ningún `@custom-variant dark` en el proyecto que la redirija al atributo). Aplicar esa sugerencia literal habría creado un bug nuevo: el bloque respondería al tema del sistema operativo, no al toggle del sitio — quedaría mal si el usuario cambia el tema manualmente sin que coincida con el de su SO. Se implementó con el patrón real del sitio (variables CSS / overlays rgba), no con `dark:`.
+
+**Disclosure de afiliado: ambas IAs coinciden en que ya está bien resuelto** (caja antes del CTA en guías, texto junto al botón en fichas) — no se tocó nada ahí.
+
+**5 hallazgos reales de dark mode, verificados contra el código (cálculo de contraste WCAG hecho a mano donde aplica) e implementados esta vuelta:**
+1. `--text-muted` en dark mode (`#555555` sobre `#0c0c18`) daba **contraste real ~2.60:1** (verificado con la fórmula de luminancia relativa) — muy por debajo de AA (4.5:1). Usado en textos reales de `ProductCard`, `ProductDetail`, Footer, breadcrumbs. Subido a `#7a7a7a` (~4.52:1, pasa AA). Confirmado en el navegador con `getComputedStyle` en modo oscuro real.
+2. `var(--color-primary)` usado en 3 páginas (`/privacidad`, `/sobre-nosotros`, `/contacto`) **nunca estuvo definida en `globals.css`** — los links de contacto por mail perdían el color de énfasis pensado (quedaban con el color heredado). Reemplazado por `var(--text-primary)`, el mismo color de énfasis que ya usa el resto del sitio en estados hover.
+3. Banda CTA final de `ProductDetail.tsx` (`bg-[var(--text-primary)]`, precio hardcodeado `text-[#ffe600]`): en modo oscuro `--text-primary` pasa a ser casi blanco, dejando el precio amarillo prácticamente invisible sobre un fondo claro. La banda estaba pensada como un bloque fijo oscuro (así se ve hoy en modo claro) — se hizo theme-invariant (`bg-[#111111]`, textos en blanco fijo), en vez de depender de una variable que se invierte con el tema. Confirmado en el navegador: fondo `rgb(17,17,17)`, precio `rgb(255,230,0)` legible en dark mode real.
+4. Aviso de sin-stock (`bg-amber-50 border-amber-200 text-amber-800`, colores Tailwind crudos sin ninguna variante de tema) — reemplazado por el mismo patrón rgba-overlay que ya usa el bloque de veredicto de esta misma página (`bg-[rgba(245,158,11,0.10)]` + `text-[var(--text-primary)]`), theme-safe sin depender de `dark:`.
+5. Fallback de color pastel (`pastelColor || "#f8f8f6"`, gris casi blanco) en 4 lugares (`ProductCard.tsx`, `ProductDetail.tsx` relacionados, `ProductGallery.tsx` x2) — productos sin color pastel asignado mostraban un cuadrado brillante y agresivo en modo oscuro. Cambiado a `var(--bg-secondary)`, que ya es theme-aware.
+
+**No implementado, con motivo:**
+- **Banner de consentimiento de cookies** (ambas IAs lo mencionan; Codex explícitamente "mejora conservadora, no bloqueo urgente"; Gemini lo marca esfuerzo medio) — real pero requiere una decisión de negocio (agregar fricción al primer contacto con el sitio a cambio de compliance más estricto) que no es mía para tomar sola. Queda anotado para que Juan decida si lo prioriza.
+- **Expandir `/privacidad` con retención de datos, responsable/base legal, RNBD** (Codex, Ley 25.326) — es real que la página no cubre esto, pero escribir esas afirmaciones (plazos de retención exactos, si el sitio está inscripto en el RNBD) requeriría datos que no tengo y no debo inventar. Queda para que Juan aporte esos datos concretos antes de redactarlo.
+
+**Verificado en el navegador real, con el toggle de tema del sitio (no solo `prefers-color-scheme` del SO):** los 5 fixes confirmados con `getComputedStyle` en modo oscuro real tras activar el toggle manualmente. `tsc --noEmit` y `npm run build` limpios.
+
+**Con 18 features implementadas.** Dado que ya se cubrieron 13 ángulos distintos y esta ronda, aunque productiva, empezó a mezclar dos sub-temas en una sola iteración (señal de que los ángulos 100% nuevos se están agotando), toca preguntarle a Juan si prefiere que el loop siga explorando ángulos cada vez más de nicho, o pausar acá.

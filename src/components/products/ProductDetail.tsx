@@ -360,8 +360,8 @@ export function ProductDetail({ product, relatedProducts = [], priceHistory }: P
           {/* CTA principal (único, dominante) */}
           <div id="product-main-cta" className="mt-6">
             {product.priceStatus === "out_of_stock" && (
-              <div className="mb-3 flex items-start gap-2 rounded-[var(--radius-card)] bg-amber-50 border border-amber-200 px-3.5 py-2.5 text-xs text-amber-800">
-                <AlertTriangle size={15} className="shrink-0 mt-0.5" />
+              <div className="mb-3 flex items-start gap-2 rounded-[var(--radius-card)] bg-[rgba(245,158,11,0.10)] border border-[rgba(245,158,11,0.35)] px-3.5 py-2.5 text-xs text-[var(--text-primary)]">
+                <AlertTriangle size={15} className="shrink-0 mt-0.5 text-[#d97706]" />
                 <span>
                   Al último chequeo esta publicación figuraba pausada o sin stock. Puede
                   haberse repuesto desde entonces — confirmalo en MercadoLibre antes de dar
@@ -475,7 +475,7 @@ export function ProductDetail({ product, relatedProducts = [], priceHistory }: P
                       <Link href={productHref(related)} className="flex items-center gap-2.5 group">
                         <span
                           className="relative w-10 h-10 shrink-0 rounded-[var(--radius-badge)] overflow-hidden"
-                          style={{ backgroundColor: related.pastelColor || "#f8f8f6" }}
+                          style={{ backgroundColor: related.pastelColor || "var(--bg-secondary)" }}
                         >
                           {related.image && (
                             <Image
@@ -667,13 +667,13 @@ export function ProductDetail({ product, relatedProducts = [], priceHistory }: P
       {(product.articleBody || product.faq) && (
         <div
           id="product-bottom-cta"
-          className="detail-cta-band mt-10 max-w-3xl mx-auto rounded-[var(--radius-card)] p-7 md:p-8 text-center bg-[var(--text-primary)]"
+          className="detail-cta-band mt-10 max-w-3xl mx-auto rounded-[var(--radius-card)] p-7 md:p-8 text-center bg-[#111111]"
           style={{ opacity: 0 }}
         >
-          <p className="text-lg font-bold text-[var(--bg-primary)]" style={{ fontFamily: "var(--font-display)" }}>
+          <p className="text-lg font-bold text-white" style={{ fontFamily: "var(--font-display)" }}>
             ¿Te convenció?
           </p>
-          <p className="mt-1 text-sm text-[var(--bg-primary)] opacity-70">
+          <p className="mt-1 text-sm text-white opacity-70">
             Confirmá precio y stock en MercadoLibre Argentina.
           </p>
           <div className="mt-3 text-2xl font-bold text-[#ffe600]">

@@ -36,7 +36,7 @@ export function ProductGallery({ product }: ProductGalleryProps) {
       {/* Main image */}
       <div
         className="relative aspect-[4/3] md:aspect-square rounded-[var(--radius-card)] overflow-hidden"
-        style={{ backgroundColor: product.pastelColor || "#f8f8f6" }}
+        style={{ backgroundColor: product.pastelColor || "var(--bg-secondary)" }}
       >
         {allFailed ? (
           <div className="absolute inset-0 flex flex-col items-center justify-center gap-2 text-[var(--text-muted)]">
@@ -81,7 +81,7 @@ export function ProductGallery({ product }: ProductGalleryProps) {
                     ? "border-[var(--text-primary)] ring-1 ring-[var(--text-primary)]"
                     : "border-[var(--border)] hover:border-[var(--text-secondary)] opacity-80 hover:opacity-100"
                 )}
-                style={{ backgroundColor: product.pastelColor || "#f8f8f6" }}
+                style={{ backgroundColor: product.pastelColor || "var(--bg-secondary)" }}
               >
                 <Image
                   src={src}

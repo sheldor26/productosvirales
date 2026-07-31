@@ -51,7 +51,7 @@ export default function ContactoPage() {
         <p className="text-sm text-[var(--text-muted)]">Escribinos a</p>
         <a
           href="mailto:hola@productosvirales.com.ar"
-          className="inline-block text-lg md:text-xl font-bold text-[var(--color-primary)] underline break-all"
+          className="inline-block text-lg md:text-xl font-bold text-[var(--text-primary)] underline break-all"
         >
           hola@productosvirales.com.ar
         </a>

@@ -73,7 +73,7 @@ export function ProductCard({ product, index = 0, priority = false }: ProductCar
         <Link href={productUrl} className="block relative w-full h-full">
           <div
             className="absolute inset-0"
-            style={{ backgroundColor: pastelColor || "#f8f8f6" }}
+            style={{ backgroundColor: pastelColor || "var(--bg-secondary)" }}
           />
           <div className="relative w-full h-full overflow-hidden">
             {imgError ? (

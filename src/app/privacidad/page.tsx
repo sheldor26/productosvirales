@@ -82,7 +82,7 @@ export default function PrivacidadPage() {
         Contactanos en{" "}
         <a
           href="mailto:hola@productosvirales.com.ar"
-          className="underline text-[var(--color-primary)]"
+          className="underline text-[var(--text-primary)]"
         >
           hola@productosvirales.com.ar
         </a>
