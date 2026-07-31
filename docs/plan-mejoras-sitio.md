@@ -482,6 +482,17 @@ Implementada la segunda idea que había quedado anotada en la iteración 16 (mí
 
 **Con 28 features implementadas, 26 commits locales.** Próximo ángulo: a definir en la siguiente vuelta, con Claude también aportando ideas propias desde el arranque.
 
-### Iteración 19 (2026-07-30) — ángulo abierto, elegido por Codex/Gemini
+### Iteración 19 (2026-07-30) — ángulo abierto, elegido por Codex
 
-**Lanzada en background:** sin ángulo prefijado esta vez — se les pidió a Codex y Gemini elegir el ángulo más valioso no cubierto todavía, con honestidad directa si no encuentran nada. Prompt en `PROMPT-iter19.txt`, salidas esperadas en `codex-out-iter19.md` y `agy-out-iter19.md`.
+**Preguntado:** sin ángulo prefijado — que las IAs eligieran el más valioso no cubierto todavía.
+
+**Gemini falló de nuevo** (salida vacía, segunda vez seguida) — descartado sin relanzar, se siguió con Codex.
+
+**Codex eligió: claridad del embudo catálogo → ficha → MercadoLibre.** 3 hallazgos, los 3 verificados contra el código real:
+1. **CTA de card sin texto visible ("Comprar en MercadoLibre" en las cards de guías vs. solo un ícono de flecha en las del catálogo, `src/components/guides/ProductCard.tsx` vs `src/components/products/ProductCard.tsx`)** — real, confirmado que existen dos componentes `ProductCard` distintos con ese patrón divergente. **No implementado** — es un cambio de diseño real (agregar texto a un botón circular compite con el espacio en grillas de 2 columnas en mobile) que puede afectar el CTR card→ficha vs. card→afiliado; Codex mismo recomendó medirlo antes de tocarlo. Ya existe tracking (`cta_location="card"`) para hacerlo con datos reales más adelante — queda anotado, no se cambia a ciegas.
+2. **`aria-label` genérico en los botones de cada card** — confirmado real: tanto el CTA de afiliado (`"Ver en MercadoLibre Argentina"`) como el botón de guardar (`"Guardar producto"`/`"Sacar de guardados"`) eran idénticos en TODAS las cards de una grilla, sin nombre de producto — un lector de pantalla navegando una grilla de 20 productos escuchaba el mismo texto 20 veces sin poder distinguir cuál es cuál. **Implementado**: ambos ahora incluyen el título del producto (`Ver ${title} en MercadoLibre Argentina`, `Guardar ${title}`/`Sacar ${title} de guardados`).
+3. **`/contacto` faltaba en `sitemap.ts`** — confirmado con `grep`: existe la página, con canonical y schema, pero el sitemap listaba sobre-nosotros/privacidad/términos y se salteaba contacto. **Implementado**: agregada con prioridad 0.4.
+
+**Verificado en producción real:** `curl` contra un build de producción (puerto aparte) confirmó `/sitemap.xml` incluyendo `/contacto`, y el HTML servido en dev confirmó el `aria-label` con el nombre real del producto interpolado correctamente.
+
+**Con 30 features implementadas, 27 commits locales.**

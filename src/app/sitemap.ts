@@ -14,6 +14,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE_URL}/guias`, changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/indice-precios/perfumes-arabes`, changeFrequency: "weekly", priority: 0.6 },
     { url: `${SITE_URL}/sobre-nosotros`, changeFrequency: "monthly", priority: 0.7 },
+    { url: `${SITE_URL}/contacto`, changeFrequency: "yearly", priority: 0.4 },
     { url: `${SITE_URL}/privacidad`, changeFrequency: "yearly", priority: 0.3 },
     { url: `${SITE_URL}/terminos`, changeFrequency: "yearly", priority: 0.3 },
   ];

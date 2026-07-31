@@ -139,7 +139,7 @@ export function ProductCard({ product, index = 0, priority = false }: ProductCar
             toggle(product.id);
           }}
           aria-pressed={saved}
-          aria-label={saved ? "Sacar de guardados" : "Guardar producto"}
+          aria-label={saved ? `Sacar ${title} de guardados` : `Guardar ${title}`}
           title={saved ? "Sacar de guardados" : "Guardar producto"}
           className="absolute bottom-2.5 right-2.5 flex items-center justify-center w-8 h-8 rounded-full bg-white/90 backdrop-blur-sm shadow-sm hover:scale-110 motion-safe:active:scale-90 transition-transform cursor-pointer"
         >
@@ -204,7 +204,7 @@ export function ProductCard({ product, index = 0, priority = false }: ProductCar
             ctaLocation="card"
             onClick={(e) => e.stopPropagation()}
             className="flex items-center justify-center w-11 h-11 md:w-10 md:h-10 rounded-full bg-[var(--cta-bg)] text-[var(--cta-text)] hover:bg-[var(--cta-hover)] motion-safe:active:scale-90 transition-[background-color,transform] shrink-0"
-            ariaLabel="Ver en MercadoLibre Argentina"
+            ariaLabel={`Ver ${title} en MercadoLibre Argentina`}
           >
             <ArrowRight size={16} />
           </AffiliateLink>
