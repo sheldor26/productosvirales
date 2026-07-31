@@ -589,3 +589,17 @@ Implementada la segunda idea que había quedado anotada en la iteración 16 (mí
 **Verificado en navegador:** click en "Comparar" activa el modo (botón pasa a "Comparando"), selección de 3 productos muestra "3 seleccionados" y la tabla con datos reales (precios, -30%/-12%, ratings, "Mínimo histórico", links a MercadoLibre); seleccionar un 5º producto queda bloqueado (49/49 checkboxes deshabilitados con 4 seleccionados); "Limpiar" resetea todo y saca la tabla. En mobile (375px): grid de la tabla en columnas de 150px con scroll horizontal contenido dentro de su propio contenedor (`overflow-x-auto`), sin desbordar la página; checkbox de comparar (top-left) y botón de guardar (bottom-right) no se superponen dentro de la misma card. La herramienta de screenshot del navegador tuvo un glitch de captura (pantalla negra persistente) durante esta verificación — confirmado que era del tool y no del código cruzando contra el DOM real (`getComputedStyle`, `elementsFromPoint`, `innerText`) antes de seguir. `tsc --noEmit`, `npm run build` y `eslint` sobre los 4 archivos tocados, todos limpios (el único warning de `ProductCard.tsx` — `index` sin usar — ya existía antes de este cambio, confirmado con `git diff`).
 
 **Con 38 features implementadas, 37 commits locales.**
+
+### Iteración 27 (2026-07-31) — una sola idea defendible
+
+**Cola vacía tras la ronda 26 (comparador manual ya implementado), les pedí ideas nuevas a los dos. Ambas fueron reales y las implementé las dos:**
+- **Codex:** CTA de afiliado en la tabla "Comparar con otros modelos" de la ficha. Verificado: `ProductDetail.tsx:520` (número de línea previo a este cambio) solo tenía un `<Link>` interno hacia la ficha del producto relacionado, nunca un link a MercadoLibre — a diferencia del comparador de categoría, que sí lleva CTA afiliado (`ComparisonTable.tsx:112`).
+- **Gemini:** botón de guardar ausente en la ficha de producto. Verificado: `ProductDetail.tsx` no importaba `Heart` ni `useSavedProducts` (grep confirmado, cero matches) — el único lugar del sitio donde el visitante NO puede guardar el producto es justo donde más tiempo invierte leyendo antes de decidir.
+
+**Implementado:**
+1. Botón de guardar (corazón) junto a `ShareButtons` en la ficha, misma lógica de `useSavedProducts` que ya usan `ProductCard` y el header.
+2. El botón "Ver" de cada fila de la tabla comparativa pasó de `Link` interno a `AffiliateLink` (`ctaLocation="ficha-comparar"`) — el nombre/imagen de la fila sigue siendo link interno a la ficha, así que la navegación exploratoria no se pierde, solo se agrega la salida directa a MercadoLibre.
+
+**Verificado en navegador:** confirmado con `document.elementsFromPoint`/`querySelectorAll` que el link de "Ver" en la tabla apunta a `meli.la/...` con `rel="sponsored nofollow noopener"` inyectado por `AffiliateLink`. El toggle de guardado se probó con `ref`-based click (no coordenadas manuales — un intento anterior con coordenadas leídas de un screenshot de 800x452 falló silenciosamente porque el viewport real es 1280x720, desfase de escala, no bug de la feature): `localStorage.pv_saved_products` pasa de `[]` a `["MLA..."]` al click, y el contador del header ("Tus guardados") se actualiza en vivo a través del mismo evento `pv-saved-products-change` que ya sincroniza `ProductCard`. `tsc --noEmit`, `eslint` y `npm run build`, todos limpios.
+
+**Con 39 features implementadas, 38 commits locales.**
