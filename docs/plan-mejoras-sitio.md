@@ -557,4 +557,13 @@ Implementada la segunda idea que había quedado anotada en la iteración 16 (mí
 
 ### Iteración 24 (2026-07-31) — una sola idea defendible
 
-**Lanzada en background.** Prompt en `PROMPT-iter24.txt`.
+**Debate de a tres:**
+- **Codex** propuso comparador manual en listados de categoría (seleccionar 2-4 productos y ver tabla comparativa). Evidencia real y bien citada, pero esfuerzo medio/riesgo medio-bajo (estado client-side nuevo, UI de selección, posible confusión "guardar" vs "comparar" en mobile). Queda en la cola para una ronda con más margen, no descartada.
+- **Gemini** refutó primero la cola pendiente (el link de Guardados en el menú mobile) y priorizó en su lugar `CouponBadge` interactivo: convertir el badge pasivo de cupón en un botón de un toque que copia el código al portapapeles. Evidencia archivo:línea correcta.
+- **Claude (propia):** verificado en código que el ícono de Guardados en `Header.tsx:212-224` no tiene ninguna clase `hidden`/`md:` — está visible en el top bar en todos los breakpoints, mobile incluido. El claim de la cola ("falta en mobile") era parcialmente falso: lo único ausente es la entrada de *texto* en el menú hamburguesa, que sería redundante con un ícono ya siempre visible. Coincide con la refutación de Gemini — las tres posiciones convergen en descartar ese ítem de la cola.
+
+**Implementada la idea de Gemini (verificada y de riesgo nulo): `CouponBadge` click-to-copy.** `src/components/products/CouponBadge.tsx` pasó de `<Badge>` pasivo a un `<button>` que envuelve el mismo `<Badge>`, con `navigator.clipboard.writeText(coupon.code)` y feedback visual ("Copiado ✓ pegalo en el carrito") por 2 segundos. Verificado antes de tocar: en los 3 call sites (`ProductCard.tsx:224`, `ProductDetail.tsx:324`, `guides/ProductCard.tsx:195,342`) el badge se renderiza siempre como hermano del `<a>` de afiliado, nunca anidado — sin riesgo de burbujeo de click disparando la navegación. Evento `coupon_copy` agregado a GA4. Si `navigator.clipboard` no existe (contexto no seguro), el click no hace nada y el `title` sigue mostrando el código completo — nunca peor que el badge pasivo original.
+
+**Nota de verificación:** el único cupón activo en `src/data/coupons.ts` (`ALCOLEMELI`) venció el 2026-07-30 23:59, así que hoy no hay cupón visible en el sitio para probar el click en vivo con datos reales. Verificado en su lugar: `tsc --noEmit` limpio, `npm run build` limpio, sin errores de consola en home y en categoría gaming (páginas que renderizan `CouponBadge`). Cuando haya un cupón activo de nuevo, confirmar visualmente el copy-to-clipboard.
+
+**Con 36 features implementadas, 34 commits locales.**

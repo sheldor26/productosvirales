@@ -22,6 +22,7 @@ interface CouponBadgeProps {
  */
 export function CouponBadge({ price, className }: CouponBadgeProps) {
   const [coupon, setCoupon] = useState<Coupon | null>(null);
+  const [copied, setCopied] = useState(false);
 
   useEffect(() => {
     setCoupon(getApplicableCoupon(price));
@@ -29,14 +30,37 @@ export function CouponBadge({ price, className }: CouponBadgeProps) {
 
   if (!coupon) return null;
 
+  // Un toque copia el código: el visitante llega al carrito de MercadoLibre
+  // con el cupón listo para pegar, en vez de tener que memorizarlo mientras
+  // la app de ML le cambia el contexto. Si el navegador no da clipboard
+  // (contexto no seguro), el click no hace nada y el título sigue mostrando
+  // el código completo — nunca peor que el badge pasivo de antes.
+  const handleCopy = (e: React.MouseEvent) => {
+    e.preventDefault();
+    e.stopPropagation();
+    navigator.clipboard
+      ?.writeText(coupon.code)
+      .then(() => {
+        setCopied(true);
+        window.gtag?.("event", "coupon_copy", { coupon_code: coupon.code });
+        window.setTimeout(() => setCopied(false), 2000);
+      })
+      .catch(() => {});
+  };
+
   return (
-    <Badge
-      variant="coupon"
-      className={className}
-      title={`Cupón ${coupon.code}: ${formatPrice(coupon.discountAmount)} OFF en compras desde ${formatPrice(coupon.minPurchase)}. Se ingresa en el carrito de MercadoLibre.`}
+    <button
+      type="button"
+      onClick={handleCopy}
+      className={`inline-flex bg-transparent border-0 p-0 cursor-pointer motion-safe:active:scale-95 transition-transform ${className ?? ""}`}
+      title={`Cupón ${coupon.code}: ${formatPrice(coupon.discountAmount)} OFF en compras desde ${formatPrice(coupon.minPurchase)}. Tocá para copiarlo y pegalo en el carrito de MercadoLibre.`}
+      aria-label={`Copiar cupón ${coupon.code}`}
+      aria-live="polite"
     >
-      <Ticket size={10} />
-      Cupón {coupon.code} -{formatPrice(coupon.discountAmount)}
-    </Badge>
+      <Badge variant="coupon">
+        <Ticket size={10} />
+        {copied ? "Copiado ✓ pegalo en el carrito" : `Cupón ${coupon.code} -${formatPrice(coupon.discountAmount)}`}
+      </Badge>
+    </button>
   );
 }
