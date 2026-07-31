@@ -10,9 +10,22 @@ interface ProductGridProps {
   loading?: boolean;
   title?: string;
   subtitle?: string;
+  compareMode?: boolean;
+  compareSelectedIds?: Set<string>;
+  compareLimitReached?: boolean;
+  onCompareToggle?: (id: string) => void;
 }
 
-export function ProductGrid({ products, loading = false, title, subtitle }: ProductGridProps) {
+export function ProductGrid({
+  products,
+  loading = false,
+  title,
+  subtitle,
+  compareMode = false,
+  compareSelectedIds,
+  compareLimitReached = false,
+  onCompareToggle,
+}: ProductGridProps) {
   const containerRef = useRef<HTMLElement>(null);
 
   useEffect(() => {
@@ -69,7 +82,15 @@ export function ProductGrid({ products, loading = false, title, subtitle }: Prod
           : products.map((product, i) => (
               // Solo la primera imagen como `priority`: marcar más de una compite
               // por ancho de banda y empeora el LCP (advertencia de next/image).
-              <ProductCard key={product.id} product={product} priority={i === 0} />
+              <ProductCard
+                key={product.id}
+                product={product}
+                priority={i === 0}
+                compareMode={compareMode}
+                compareSelected={compareSelectedIds?.has(product.id)}
+                compareLimitReached={compareLimitReached}
+                onCompareToggle={onCompareToggle}
+              />
             ))}
       </div>
     </section>

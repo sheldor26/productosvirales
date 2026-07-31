@@ -3,7 +3,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import { useState } from "react";
-import { ArrowRight, Sparkles, TrendingUp, TrendingDown, Flame, Award, Sun, Gift, Heart, ImageOff, Star } from "lucide-react";
+import { ArrowRight, Sparkles, TrendingUp, TrendingDown, Flame, Award, Sun, Gift, Heart, ImageOff, Star, Check } from "lucide-react";
 import { AffiliateLink } from "@/components/affiliate/AffiliateLink";
 import { Badge } from "@/components/ui/Badge";
 import { CouponBadge } from "@/components/products/CouponBadge";
@@ -35,9 +35,24 @@ interface ProductCardProps {
   index?: number;
   /** Mark the card's image as LCP candidate (priority + fetchpriority=high). */
   priority?: boolean;
+  /** Modo "comparar" activo en la grilla: muestra el checkbox de selección. */
+  compareMode?: boolean;
+  compareSelected?: boolean;
+  /** true cuando ya hay 4 seleccionados y esta card no es una de ellas: el
+   * checkbox se ve pero deshabilitado, en vez de desaparecer sin explicación. */
+  compareLimitReached?: boolean;
+  onCompareToggle?: (id: string) => void;
 }
 
-export function ProductCard({ product, index = 0, priority = false }: ProductCardProps) {
+export function ProductCard({
+  product,
+  index = 0,
+  priority = false,
+  compareMode = false,
+  compareSelected = false,
+  compareLimitReached = false,
+  onCompareToggle,
+}: ProductCardProps) {
   const productUrl = productHref(product);
   const { isSaved, toggle } = useSavedProducts();
   const saved = isSaved(product.id);
@@ -64,9 +79,9 @@ export function ProductCard({ product, index = 0, priority = false }: ProductCar
 
   return (
     <div
-      className={`product-card ${priority ? "" : "reveal"} group rounded-[var(--radius-card)] overflow-hidden border border-[var(--border)] bg-[var(--bg-primary)] transition-transform hover:-translate-y-1 hover:shadow-[0_12px_28px_-8px_rgba(0,0,0,0.18)] motion-safe:active:scale-[0.98] ${
-        badge === "viral" ? "shadow-[0_0_14px_rgba(236,72,153,0.16)]" : ""
-      }`}
+      className={`product-card ${priority ? "" : "reveal"} group rounded-[var(--radius-card)] overflow-hidden border bg-[var(--bg-primary)] transition-transform hover:-translate-y-1 hover:shadow-[0_12px_28px_-8px_rgba(0,0,0,0.18)] motion-safe:active:scale-[0.98] ${
+        compareSelected ? "border-[var(--cta-bg)] border-2" : "border-[var(--border)]"
+      } ${badge === "viral" ? "shadow-[0_0_14px_rgba(236,72,153,0.16)]" : ""}`}
     >
       {/* Image area. Wrapper propio (no el <Link>) para poder poner el botón de
           guardar como hermano, no hijo: un <button> dentro de un <a> es HTML
@@ -98,9 +113,10 @@ export function ProductCard({ product, index = 0, priority = false }: ProductCar
             )}
           </div>
 
-          {/* Top-left: TikTok badge */}
+          {/* Top-left: TikTok badge. Baja un escalón si el checkbox de
+              comparar está activo, para no superponerse con él. */}
           {tiktokViews && (
-            <div className="absolute top-2.5 left-2.5">
+            <div className={`absolute left-2.5 ${compareMode ? "top-10" : "top-2.5"}`}>
               <Badge variant="viral" className="gap-1">
                 <TikTokIcon size={10} />
                 {tiktokViews} views
@@ -128,6 +144,36 @@ export function ProductCard({ product, index = 0, priority = false }: ProductCar
             </div>
           )}
         </Link>
+
+        {/* Top-left: comparar. Solo visible en modo comparar; hermano del
+            Link por el mismo motivo que el botón de guardar. */}
+        {compareMode && (
+          <button
+            type="button"
+            onClick={(e) => {
+              e.preventDefault();
+              e.stopPropagation();
+              onCompareToggle?.(product.id);
+            }}
+            disabled={!compareSelected && compareLimitReached}
+            aria-pressed={compareSelected}
+            aria-label={compareSelected ? `Sacar ${title} de la comparación` : `Agregar ${title} a comparar`}
+            title={
+              !compareSelected && compareLimitReached
+                ? "Máximo 4 productos para comparar"
+                : compareSelected
+                  ? "Sacar de la comparación"
+                  : "Agregar a comparar"
+            }
+            className={`absolute top-2.5 left-2.5 flex items-center justify-center w-7 h-7 rounded-md border-2 transition-colors ${
+              compareSelected
+                ? "bg-[var(--cta-bg)] border-[var(--cta-bg)]"
+                : "bg-white/90 border-[var(--border)]"
+            } ${!compareSelected && compareLimitReached ? "opacity-40 cursor-not-allowed" : "cursor-pointer"}`}
+          >
+            {compareSelected && <Check size={15} className="text-[var(--cta-text)]" />}
+          </button>
+        )}
 
         {/* Bottom-right: guardar (localStorage, sin cuentas). Hermano del
             Link, no hijo (ver comentario arriba). */}

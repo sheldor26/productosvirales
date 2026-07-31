@@ -1,8 +1,12 @@
 "use client";
 
 import { useMemo, useState } from "react";
+import { Scale } from "lucide-react";
 import { ProductGrid } from "./ProductGrid";
+import { ComparisonTable } from "./ComparisonTable";
 import type { CardProduct } from "@/lib/types";
+
+const COMPARE_MAX = 4;
 
 type SortOption = "relevancia" | "precio-asc" | "precio-desc" | "descuento" | "rating" | "vendidos";
 
@@ -56,7 +60,34 @@ interface SortableProductGridProps {
  * al server ni cambia qué productos están en el HTML inicial (SEO intacto). */
 export function SortableProductGrid({ products, title, subtitle }: SortableProductGridProps) {
   const [sort, setSort] = useState<SortOption>("relevancia");
+  const [compareMode, setCompareMode] = useState(false);
+  const [compareIds, setCompareIds] = useState<string[]>([]);
   const sorted = useMemo(() => sortProducts(products, sort), [products, sort]);
+
+  const compareSelectedIds = useMemo(() => new Set(compareIds), [compareIds]);
+  const compareProducts = useMemo(
+    () => compareIds.map((id) => products.find((p) => p.id === id)).filter((p): p is CardProduct => !!p),
+    [compareIds, products]
+  );
+
+  const handleCompareToggle = (id: string) => {
+    setCompareIds((current) => {
+      if (current.includes(id)) return current.filter((x) => x !== id);
+      if (current.length >= COMPARE_MAX) return current;
+      const next = [...current, id];
+      window.gtag?.("event", "compare_select", { item_id: id, selected_count: next.length });
+      return next;
+    });
+  };
+
+  const toggleCompareMode = () => {
+    setCompareMode((v) => {
+      const next = !v;
+      if (!next) setCompareIds([]);
+      window.gtag?.("event", "compare_mode_toggle", { active: next });
+      return next;
+    });
+  };
 
   return (
     <div>
@@ -76,28 +107,65 @@ export function SortableProductGrid({ products, title, subtitle }: SortableProdu
             )}
           </div>
           {products.length > 1 && (
-            <label className="flex items-center gap-2 text-sm text-[var(--text-secondary)] shrink-0">
-              Ordenar por
-              <select
-                value={sort}
-                onChange={(e) => {
-                  const next = e.target.value as SortOption;
-                  setSort(next);
-                  window.gtag?.("event", "sort_products", { sort: next });
-                }}
-                className="rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--bg-primary)] text-[var(--text-primary)] px-3 py-1.5 text-sm cursor-pointer"
+            <div className="flex items-center gap-3 flex-wrap">
+              <button
+                type="button"
+                onClick={toggleCompareMode}
+                aria-pressed={compareMode}
+                className={`flex items-center gap-1.5 text-sm font-medium rounded-[var(--radius-pill)] border px-3.5 py-1.5 transition-colors cursor-pointer ${
+                  compareMode
+                    ? "bg-[var(--cta-bg)] text-[var(--cta-text)] border-[var(--cta-bg)]"
+                    : "border-[var(--border)] text-[var(--text-secondary)] hover:bg-[var(--bg-secondary)]"
+                }`}
               >
-                {Object.entries(SORT_LABELS).map(([value, label]) => (
-                  <option key={value} value={value}>
-                    {label}
-                  </option>
-                ))}
-              </select>
-            </label>
+                <Scale size={14} />
+                {compareMode ? "Comparando" : "Comparar"}
+              </button>
+              <label className="flex items-center gap-2 text-sm text-[var(--text-secondary)] shrink-0">
+                Ordenar por
+                <select
+                  value={sort}
+                  onChange={(e) => {
+                    const next = e.target.value as SortOption;
+                    setSort(next);
+                    window.gtag?.("event", "sort_products", { sort: next });
+                  }}
+                  className="rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--bg-primary)] text-[var(--text-primary)] px-3 py-1.5 text-sm cursor-pointer"
+                >
+                  {Object.entries(SORT_LABELS).map(([value, label]) => (
+                    <option key={value} value={value}>
+                      {label}
+                    </option>
+                  ))}
+                </select>
+              </label>
+            </div>
           )}
         </div>
       )}
-      <ProductGrid products={sorted} />
+
+      {compareMode && (
+        <p className="mb-3 text-xs text-[var(--text-muted)]">
+          Tocá el cuadrado de hasta {COMPARE_MAX} productos para verlos lado a lado.
+          {compareIds.length > 0 && ` ${compareIds.length} seleccionado${compareIds.length !== 1 ? "s" : ""}.`}
+        </p>
+      )}
+
+      <ProductGrid
+        products={sorted}
+        compareMode={compareMode}
+        compareSelectedIds={compareSelectedIds}
+        compareLimitReached={compareIds.length >= COMPARE_MAX}
+        onCompareToggle={handleCompareToggle}
+      />
+
+      {compareMode && (
+        <ComparisonTable
+          products={compareProducts}
+          onRemove={handleCompareToggle}
+          onClear={() => setCompareIds([])}
+        />
+      )}
     </div>
   );
 }
