@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from "react";
 import Link from "next/link";
-import { Heart } from "lucide-react";
+import { Heart, RotateCcw } from "lucide-react";
 import { ProductGrid } from "@/components/products/ProductGrid";
 import { RecentlyViewed } from "@/components/products/RecentlyViewed";
 import { useSavedProducts } from "@/lib/use-saved-products";
@@ -11,25 +11,54 @@ import type { CardProduct } from "@/lib/types";
 export function SavedProductsView() {
   const { ids } = useSavedProducts();
   const [products, setProducts] = useState<CardProduct[] | null>(null);
+  const [fetchFailed, setFetchFailed] = useState(false);
+  const [retryTick, setRetryTick] = useState(0);
 
   useEffect(() => {
     if (ids.length === 0) {
       setProducts([]);
+      setFetchFailed(false);
       return;
     }
     let cancelled = false;
+    setFetchFailed(false);
     fetch(`/api/saved-products?ids=${encodeURIComponent(ids.join(","))}`)
-      .then((res) => res.json())
+      .then((res) => {
+        if (!res.ok) throw new Error(`saved-products respondió ${res.status}`);
+        return res.json();
+      })
       .then((data: CardProduct[]) => {
         if (!cancelled) setProducts(data);
       })
       .catch(() => {
-        if (!cancelled) setProducts([]);
+        // Si guardó productos pero el fetch falla (red inestable, API caída),
+        // NO mostrar "todavía no guardaste nada": es información falsa sobre
+        // datos que sí existen, y contradice la honestidad que promete el
+        // sitio. Se distingue de la lista real vacía con `fetchFailed`.
+        if (!cancelled) setFetchFailed(true);
       });
     return () => {
       cancelled = true;
     };
-  }, [ids]);
+  }, [ids, retryTick]);
+
+  if (fetchFailed) {
+    return (
+      <div className="rounded-[var(--radius-card)] border border-dashed border-[var(--border)] p-10 text-center">
+        <p className="text-sm text-[var(--text-secondary)]">
+          No pudimos cargar tus guardados ahora mismo. Siguen ahí, es un problema de conexión.
+        </p>
+        <button
+          type="button"
+          onClick={() => setRetryTick((n) => n + 1)}
+          className="inline-flex items-center gap-1.5 mt-4 text-sm font-semibold underline decoration-[var(--border)] underline-offset-2 cursor-pointer"
+        >
+          <RotateCcw size={14} />
+          Reintentar
+        </button>
+      </div>
+    );
+  }
 
   if (products === null) {
     return <ProductGrid products={[]} loading />;

@@ -570,4 +570,10 @@ Implementada la segunda idea que había quedado anotada en la iteración 16 (mí
 
 ### Iteración 25 (2026-07-31) — una sola idea defendible
 
-**Lanzada en background.** Prompt en `PROMPT-iter25.txt`.
+**Codex se colgó esta ronda:** lanzado con `model_reasoning_effort=high`, quedó ~17 minutos usando apenas 1s de CPU real (proceso vivo pero sin avanzar) — matado y descartado, sin relanzar. **Gemini/agy** devolvió basura (loop infinito repitiendo la palabra "producing" miles de veces) — descartado también, mismo protocolo del gotcha #6. Ronda resuelta solo con idea propia de Claude.
+
+**Implementado (verificado con lectura directa, riesgo bajo, honestidad de marca):** `SavedProductsView.tsx` mostraba "Todavía no guardaste ningún producto" tanto si la lista estaba realmente vacía como si el fetch a `/api/saved-products` fallaba (red inestable, API caída) — un mensaje falso para un visitante que sí tiene guardados. Se separó el estado de error del estado de lista vacía real: ahora un fetch fallido muestra "No pudimos cargar tus guardados ahora mismo. Siguen ahí, es un problema de conexión." con botón "Reintentar", y solo la ausencia real de ids (`ids.length === 0`) muestra el mensaje de "no guardaste nada". También se sumó `res.ok` check antes de parsear el JSON (antes un 500 con body no-JSON rompía el `.then(res.json())` silenciosamente).
+
+**Verificado en navegador (pestaña fresca):** con `pv_saved_products` vacío, el estado real de "no guardaste nada" se ve sin cambios. Simulando un id guardado + `window.fetch` parcheado para rechazar la llamada a `/api/saved-products`, aparece correctamente "No pudimos cargar tus guardados ahora mismo..." con el botón de reintentar — sin errores de consola. `tsc --noEmit` y `npm run build` limpios.
+
+**Con 37 features implementadas, 36 commits locales.**
