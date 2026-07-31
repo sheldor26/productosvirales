@@ -1,7 +1,7 @@
 import { notFound, permanentRedirect } from "next/navigation";
 import type { Metadata } from "next";
 import { curatedProducts } from "@/data/curated-products";
-import { getVisibleProducts, toCardProduct } from "@/lib/products";
+import { getRotatedVisibleProducts, toCardProduct } from "@/lib/products";
 import { getPriceValidUntil, parseProductSlug, productHref, productSlug } from "@/lib/product-url";
 import { analyzePriceHistory } from "@/lib/price-history";
 import { injectLivePrices } from "@/lib/price-token";
@@ -93,13 +93,29 @@ export default async function ProductPage({ params }: Props) {
 
   // Automatic feeds (same-category + other-categories) exclude deprioritized
   // products so they don't surface in discovery flows.
-  const visibleProducts = getVisibleProducts();
+  // Hash simple y estable del id: cada ficha muestra un recorte distinto de
+  // su categoría (antes era slice(0,4) sobre el catálogo sin mezclar, así que
+  // TODAS las fichas de una categoría mostraban exactamente los mismos 4
+  // productos, sin importar qué tan relevantes fueran para el producto actual).
+  function seedFromId(id: string, salt: string): number {
+    let h = 0;
+    const s = id + salt;
+    for (let i = 0; i < s.length; i++) h = (h * 31 + s.charCodeAt(i)) >>> 0;
+    return h;
+  }
 
-  const related = visibleProducts
-    .filter((p) => p.categorySlug === product.categorySlug && p.id !== product.id)
+  const explicitRelatedIds = new Set(explicitRelated.map((p) => p.id));
+
+  const related = getRotatedVisibleProducts(seedFromId(product.id, "related"))
+    .filter(
+      (p) =>
+        p.categorySlug === product.categorySlug &&
+        p.id !== product.id &&
+        !explicitRelatedIds.has(p.id) // no repetir lo ya curado en "Comparar con otros modelos"
+    )
     .slice(0, 4);
 
-  const otherCategories = visibleProducts
+  const otherCategories = getRotatedVisibleProducts(seedFromId(product.id, "other"))
     .filter((p) => p.categorySlug !== product.categorySlug)
     .slice(0, 4);
 

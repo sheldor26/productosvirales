@@ -1,6 +1,6 @@
 "use client";
 
-import { useRef, type ReactNode } from "react";
+import { useEffect, useRef, type ReactNode } from "react";
 import Image from "next/image";
 import Link from "next/link";
 import {
@@ -18,6 +18,8 @@ import { gsap, useGSAP } from "@/lib/gsap-config";
 import { Badge } from "@/components/ui/Badge";
 import { ProductGallery } from "./ProductGallery";
 import { StickyMobileCta } from "./StickyMobileCta";
+import { RecentlyViewed } from "./RecentlyViewed";
+import { useRecentlyViewed } from "@/lib/use-recently-viewed";
 import { formatPrice, formatDiscount } from "@/lib/utils";
 import { renderInlineMarkdown } from "@/lib/inline-markdown";
 import { productHref } from "@/lib/product-url";
@@ -179,6 +181,11 @@ export function ProductDetail({ product, relatedProducts = [], priceHistory }: P
     typeof product.reviewCount === "number" && product.reviewCount < 50;
   const tileSpecs = pickTileSpecs(product);
   const { blocks: articleBlocks, paraYes, paraNo } = parseArticle(product.articleBody);
+
+  const { record } = useRecentlyViewed();
+  useEffect(() => {
+    record(product.id);
+  }, [product.id, record]);
 
   useGSAP(() => {
     // .detail-image y .detail-info (galería + buy box) quedan afuera: son el
@@ -692,6 +699,8 @@ export function ProductDetail({ product, relatedProducts = [], priceHistory }: P
           </AffiliateLink>
         </div>
       )}
+
+      <RecentlyViewed excludeId={product.id} />
 
       <StickyMobileCta product={product} />
     </div>

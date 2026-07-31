@@ -386,3 +386,28 @@ Implementado (idea pendiente desde la iteración 6, Codex #4): regla global `:fo
 **Verificado exhaustivamente:** `tsc --noEmit` y `npm run build` limpios. Fix de LCP confirmado en el navegador (`.detail-image`/`.detail-info` sin `opacity:0`, sin inline style). Feed RSS confirmado con contenido real, 30 items, sin tokens de precio crudos, `Content-Type: application/rss+xml`. Todo re-verificado contra un build de producción real (`next start`), no solo en dev, dado el hallazgo colateral de arriba.
 
 **Con 21 features implementadas, 21 commits locales.**
+
+### Iteración 15 (2026-07-30) — Retención honesta y algoritmo de relacionados
+
+**Preguntado:** calidad real del algoritmo de "productos relacionados" (verificado contra código, no hipotético) y mejoras de retención sin dark patterns.
+
+**2 bugs reales y convergentes en el algoritmo automático de relacionados, verificados en `src/app/producto/[slug]/page.tsx` (líneas 96-104 antes del fix) y arreglados:**
+1. **Sin variedad entre fichas de la misma categoría** (Codex y Gemini, mismo hallazgo desde ángulos distintos): `related`/`otherCategories` hacían `.filter(categorySlug).slice(0,4)` directo sobre `getVisibleProducts()` — sin ningún shuffle. Como el catálogo es un array estático, **todas las fichas de una misma categoría mostraban exactamente los mismos 4 productos**, en el mismo orden, siempre. Confirmado con el ejemplo real que citó Codex: la ficha de una sartén (`MLA402624780`, categoría "cocina") mostraba como "similares" los primeros 4 productos "cocina" del catálogo — que resultaron ser microondas, porque el catálogo arranca esa categoría con varios microondas BGH.
+2. **Duplicación entre la tabla curada y la grilla automática** (Gemini): `related` no excluía los ids que ya estaban en `product.relatedProducts` (la tabla manual "Comparar con otros modelos"), así que un producto curado a mano podía aparecer una segunda vez en "Productos similares" inmediatamente abajo.
+
+**Implementado:** `related`/`otherCategories` ahora usan `getRotatedVisibleProducts(seed)` (la misma función ya usada para rotar la home, `src/lib/products.ts`) con un seed derivado por hash simple del `product.id`, así cada ficha ve un recorte distinto y estable de su categoría en vez del mismo slice fijo. Se agregó además el filtro para excluir los ids ya presentes en `explicitRelated`.
+
+**Limitación real que el fix NO resuelve, dicha con honestidad:** la categoría "cocina" en este catálogo mezcla electrodomésticos (microondas, freidoras, pavas, robots) con utensilios manuales (sartenes, ollas) bajo el mismo `categorySlug`. Verificado en el navegador después del fix: la ficha de la sartén ahora muestra freidora/parrilla/robot de cocina/pava como "similares" — ya no está duplicado ni es siempre igual, pero sigue sin ser genuinamente comparable a una sartén. Resolver esto de raíz requeriría una subcategoría más fina (cambio de esquema en 500+ productos) o un heurístico de similitud por título/specs — bigger scope que este loop, queda anotado para una sesión aparte si Juan lo prioriza.
+
+**2 hallazgos de datos de Codex, verificados como reales pero NO implementados (requieren criterio de curación, no una regla automática):**
+1. **42 referencias de `relatedProducts` apuntan a productos `deprioritized`** — contradice el criterio documentado "soft-hide from feeds/grids/related" en `products.ts`, pero puede haber casos intencionales (reserva/sin stock). Filtrar en automático arriesga sacar links que Juan puso a propósito.
+2. **10 `relatedProducts` cruzan de categoría** (ej. sartenes "cocina" apuntando a una huevera "hogar") — real, pero corregir cuáles están mal requiere criterio de curación producto por producto, no una regla mecánica.
+
+**Feature nueva implementada, propuesta de forma independiente por ambas IAs — "Vistos recientemente":**
+`src/lib/use-recently-viewed.ts` (hook, mismo patrón que `useSavedProducts`: localStorage, sin cuenta, sin backend, tope de 8 ids) + `src/components/products/RecentlyViewed.tsx` (reutiliza el endpoint `/api/saved-products?ids=` que ya existía para "Guardados" — sirve igual de bien para resolver cualquier lista de ids a `CardProduct[]`). `ProductDetail.tsx` registra la ficha actual al montar y renderiza la sección al final, excluyéndose a sí misma. Retención pasiva y honesta: sin push, sin urgencia falsa, no compite con "Guardados" (eso es intención explícita, esto es historial pasivo).
+
+**Falsa alarma descartada durante la verificación (misma familia que la de la iteración 14):** al probar "Vistos recientemente" en modo dev, una pestaña con HMR activo mostraba un error de React ("deps array changed size") y el registro no se actualizaba entre navegaciones. Verificado en pestaña nueva y contra un build de producción real (`next build` + `next start` en puerto aparte): funciona correctamente, sin errores — era staleness de Turbopack/Fast Refresh en la pestaña reutilizada, no un bug del código.
+
+**Verificado exhaustivamente:** `tsc --noEmit` y `npm run build` limpios. Ambos fixes confirmados en producción real con dos productos reales (microondas → sartén), incluyendo el contenido de "Vistos recientemente" y la ausencia de duplicados.
+
+**Con 23 features implementadas, 22 commits locales.**
