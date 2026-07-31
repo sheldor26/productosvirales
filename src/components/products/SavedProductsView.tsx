@@ -4,6 +4,7 @@ import { useEffect, useState } from "react";
 import Link from "next/link";
 import { Heart, RotateCcw } from "lucide-react";
 import { ProductGrid } from "@/components/products/ProductGrid";
+import { SortableProductGrid } from "@/components/products/SortableProductGrid";
 import { RecentlyViewed } from "@/components/products/RecentlyViewed";
 import { useSavedProducts } from "@/lib/use-saved-products";
 import type { CardProduct } from "@/lib/types";
@@ -88,6 +89,13 @@ export function SavedProductsView() {
         </div>
       </div>
     );
+  }
+
+  // Con 2+ guardados, dar orden/comparar (mismo módulo de categorías y
+  // búsqueda): "guardar" ya es intención alta, esta vista es donde el
+  // visitante decide entre las opciones que juntó.
+  if (products.length > 1) {
+    return <SortableProductGrid products={products} />;
   }
 
   return <ProductGrid products={products} />;

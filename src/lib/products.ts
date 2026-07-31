@@ -48,6 +48,7 @@ export function toCardProduct(p: Product): CardProduct {
     priceStatus: p.priceStatus,
     rating: p.rating,
     soldQuantity: p.soldQuantity,
+    freeShipping: p.freeShipping,
     bestPrice: priceHistory?.verdict.tone === "good",
   };
 }
