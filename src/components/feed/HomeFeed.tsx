@@ -6,7 +6,7 @@ import Link from "next/link";
 import { SearchX } from "lucide-react";
 import { CategoryTabs } from "@/components/feed/CategoryTabs";
 import { ProductGrid } from "@/components/products/ProductGrid";
-import { normalizeSearch } from "@/lib/utils";
+import { normalizeSearch, fuzzyWordMatch } from "@/lib/utils";
 import { categories } from "@/data/categories";
 import type { CardProduct } from "@/lib/types";
 
@@ -51,7 +51,14 @@ export function HomeFeed({ products }: HomeFeedProps) {
     // Búsqueda: matchea todas las palabras contra el haystack precomputado.
     if (searchQuery.trim()) {
       const words = normalizeSearch(searchQuery.trim()).split(/\s+/);
-      return products.filter((p) => words.every((word) => p.search.includes(word)));
+      const exact = products.filter((p) => words.every((word) => p.search.includes(word)));
+      if (exact.length > 0) return exact;
+      // Sin resultados exactos: reintentar tolerando errores de tipeo chicos
+      // (ej. "microondaz") en vez de mostrar la búsqueda vacía directo.
+      return products.filter((p) => {
+        const haystackWords = p.search.split(/\s+/);
+        return words.every((word) => fuzzyWordMatch(word, haystackWords));
+      });
     }
 
     if (activeCategory === "todos") {

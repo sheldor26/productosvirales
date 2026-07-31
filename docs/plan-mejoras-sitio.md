@@ -433,3 +433,13 @@ Implementado (idea pendiente desde la iteración 6, Codex #4): regla global `:fo
 **Verificado en el navegador real:** cambio de "Relevancia" a "Menor precio" reordenó de $175.093/$225.149/... a $2.999/$7.791/$11.900/... correctamente. Evento `sort_products` confirmado disparando en la red real (`ep.sort=precio-asc`), y de paso se confirmó que el evento `TTFB` de Web Vitals (agregado en la iteración 14) también está llegando a GA4 en producción real. `tsc --noEmit` y `npm run build` limpios, sin errores de consola.
 
 **Con 24 features implementadas, 23 commits locales.** El loop sigue — de acá en más, sin volver a preguntar si pausar, y con Claude generando sus propias ideas junto a Codex y Gemini en cada ronda.
+
+### Retomando la cola (2026-07-30) — mi propia idea de la iteración 16: tolerancia a typos en la búsqueda
+
+Implementada la segunda idea que había quedado anotada en la iteración 16 (mía, no de Codex/Gemini): `normalizeSearch` no tenía ninguna tolerancia a errores de tipeo, así que una búsqueda como "microondaz" (con Z) daba cero resultados aunque el producto existiera.
+
+**Implementado, en `src/lib/utils.ts` + `src/components/feed/HomeFeed.tsx`:** nueva función `fuzzyWordMatch()` (distancia de Levenshtein con salida anticipada, palabras de 4+ letras toleran 1-2 errores según largo; palabras de 3 letras o menos exigen match exacto para no generar falsos positivos tipo "tv"). Se usa SOLO como fallback: si el matcheo exacto de siempre da 0 resultados, se reintenta con tolerancia antes de mostrar el estado vacío — la búsqueda normal (el 99% de los casos) no cambia de comportamiento ni de costo.
+
+**Verificado en el navegador real:** "microondaz" (typo real) devuelve los 10 microondas del catálogo correctamente. Una query sin sentido real (`zzzznoexistequery123`) sigue mostrando el estado vacío tal cual, sin falsos positivos. `tsc --noEmit` y `npm run build` limpios, sin errores de consola.
+
+**Con 25 features implementadas, 24 commits locales.**
