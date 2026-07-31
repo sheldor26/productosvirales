@@ -15,6 +15,7 @@ import {
   type LucideIcon,
 } from "lucide-react";
 import { ProductGrid } from "@/components/products/ProductGrid";
+import { NotFoundSearchHint } from "@/components/layout/NotFoundSearchHint";
 import { getVisibleProducts, toCardProduct } from "@/lib/products";
 import { categories } from "@/data/categories";
 
@@ -70,6 +71,7 @@ export default function NotFound() {
           >
             Ver todas las guías
           </Link>
+          <NotFoundSearchHint />
         </div>
       </div>
 

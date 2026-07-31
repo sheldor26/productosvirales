@@ -547,4 +547,10 @@ Implementada la segunda idea que había quedado anotada en la iteración 16 (mí
 
 ### Iteración 23 (2026-07-31) — una sola idea defendible
 
-**Lanzada en background:** formato nuevo tras el patrón de refutaciones: UNA sola idea, con evidencia archivo:línea obligatoria, verificada por la IA proponente antes de proponerla. Prompt en `PROMPT-iter23.txt`.
+**Formato nuevo:** UNA sola idea con evidencia archivo:línea obligatoria. Gemini falló otra vez (error de permisos headless, ya documentado en memoria). Codex propuso el lazy-load de `PriceHistoryChart` con evidencia real y bien citada — pero **refutado por proporcionalidad** con medición previa propia: el chart son 197 líneas de SVG puro con imports triviales (`formatPrice` + tipos), ~2KB gzipped; `next/dynamic` agregaría un chunk extra, riesgo de parpadeo/CLS y complejidad de placeholder por un ahorro insignificante. Si el objetivo fuera peso real del bundle de la ficha, el blanco sería GSAP (~30KB+), no el chart — y GSAP ya quedó desacoplado del LCP en la iteración 14.
+
+**Implementada en su lugar la idea propia (ítem de la cola, verificado y con alcance real): 404 contextual.** `not-found.tsx` es server component y no conoce la URL pedida — nuevo `NotFoundSearchHint.tsx` (client, `usePathname`): extrae las palabras del slug roto (sin id MLA, sin prefijos de ruta, sin números), y si quedan términos útiles renderiza un botón "Buscar «freidora aire philips»" hacia la búsqueda interna. Con la tolerancia a typos de la iteración 16 ya activa, el rescate compone bien. Si el path no deja palabras (ej. `/xy`), no renderiza nada — sin promesas débiles.
+
+**Verificado en navegador (pestaña fresca):** URL rota realista (`/producto/freidora-de-aire-philips-discontinuada-mla99999999`) → 404 muestra "Buscar «freidora aire philips discontinuada»" con href correcto; el click-through a la búsqueda devuelve 7 productos reales; `/xy` no muestra el botón; sin errores de consola. `tsc` + `build` limpios.
+
+**Con 35 features implementadas, 33 commits locales.**
