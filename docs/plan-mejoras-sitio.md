@@ -468,4 +468,16 @@ Implementada la segunda idea que había quedado anotada en la iteración 16 (mí
 
 ### Iteración 18 (2026-07-30) — Comparador liviano en listados + fricciones abiertas
 
-**Lanzada en background:** Codex + Gemini re-evaluando la idea de comparador manual en listados (de la iteración 16, no implementada) contra lo que ya existe (tabla "Comparar con otros modelos" en la ficha), más cualquier fricción real adicional. Prompt en `PROMPT-iter18.txt`, salidas esperadas en `codex-out-iter18.md` y `agy-out-iter18.md`.
+**Preguntado:** si el comparador manual de listados (idea de Codex de la iteración 16, no implementada) sigue teniendo sentido dado lo que ya existe en la ficha, más cualquier otra fricción real.
+
+**Gemini falló esta vuelta** (salida vacía, 0 bytes, sin mensaje de error) — descartado sin usar nada de ahí, se siguió solo con Codex.
+
+**Codex confirmó el comparador de listados como idea real y no redundante** (la ficha solo compara `relatedProducts` curados a mano, después de entrar al producto; el comparador de listado resolvería el paso ANTERIOR: elegir entre varias cards sin abrir/cerrar fichas) — pero esfuerzo medio y riesgo medio (puede ensuciar el mobile si no se hace bien, necesita `freeShipping` en el DTO). **No implementado esta vuelta** — queda anotado para una ronda con más tiempo de diseño de UI.
+
+**Hallazgo de Codex más valioso de la ronda, conectado directo con mi propio trabajo de la iteración 16:** el `SortableProductGrid` (que yo mismo implementé) permite ordenar por "Mejor calificados" y "Más vendidos", pero **la card nunca mostraba esos datos** — el orden cambiaba pero el usuario no podía ver por qué. Verificado con `grep`: cero referencias a `rating`/`soldQuantity` en `ProductCard.tsx` pese a que ambos campos ya estaban en `CardProduct` desde la misma iteración 16.
+
+**Implementado:** línea compacta de rating (★ + valor) y vendidos bajo el título de cada card, solo si el dato existe (`(rating || soldQuantity) &&`), en `ProductCard.tsx`.
+
+**Otra falsa alarma de dev descartada:** al verificar en el navegador, la línea nueva no aparecía en NINGUNA de las 122 cards de "cocina", ni siquiera en un producto (`MLA18193159`) confirmado con `rating: 4.6` real en `curated-products.ts`. Antes de reportarlo como bug, se verificó contra un build de producción real (`next build` + `next start` aparte): el HTML servido en producción SÍ incluye "4.6" y "vendidos" correctamente. Era staleness de Turbopack/HMR en la pestaña de dev reutilizada — tercera vez en la sesión que este patrón exacto aparece, ya no se pierde tiempo dudando, se verifica directo contra producción.
+
+**Con 28 features implementadas, 26 commits locales.** Próximo ángulo: a definir en la siguiente vuelta, con Claude también aportando ideas propias desde el arranque.

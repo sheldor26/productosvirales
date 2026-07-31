@@ -3,7 +3,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import { useState } from "react";
-import { ArrowRight, Sparkles, TrendingUp, TrendingDown, Flame, Award, Sun, Gift, Heart, ImageOff } from "lucide-react";
+import { ArrowRight, Sparkles, TrendingUp, TrendingDown, Flame, Award, Sun, Gift, Heart, ImageOff, Star } from "lucide-react";
 import { AffiliateLink } from "@/components/affiliate/AffiliateLink";
 import { Badge } from "@/components/ui/Badge";
 import { CouponBadge } from "@/components/products/CouponBadge";
@@ -54,6 +54,8 @@ export function ProductCard({ product, index = 0, priority = false }: ProductCar
     badge,
     pastelColor,
     bestPrice,
+    rating,
+    soldQuantity,
   } = product;
 
   const discount = originalPrice ? formatDiscount(originalPrice, price) : null;
@@ -163,6 +165,19 @@ export function ProductCard({ product, index = 0, priority = false }: ProductCar
             {title}
           </h3>
         </Link>
+
+        {(rating || soldQuantity) && (
+          <div className="flex items-center gap-1 mt-1 text-[11px] text-[var(--text-muted)]">
+            {rating && (
+              <span className="flex items-center gap-0.5 text-[var(--text-secondary)]">
+                <Star size={11} className="text-[#f59e0b]" fill="#f59e0b" />
+                {rating.toFixed(1)}
+              </span>
+            )}
+            {rating && soldQuantity && <span aria-hidden="true">·</span>}
+            {soldQuantity && <span>{soldQuantity.toLocaleString("es-AR")} vendidos</span>}
+          </div>
+        )}
 
         <div className="flex items-center justify-between mt-2.5">
           <div className="flex items-baseline gap-1.5 flex-wrap">
