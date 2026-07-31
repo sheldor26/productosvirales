@@ -567,3 +567,7 @@ Implementada la segunda idea que había quedado anotada en la iteración 16 (mí
 **Nota de verificación:** el único cupón activo en `src/data/coupons.ts` (`ALCOLEMELI`) venció el 2026-07-30 23:59, así que hoy no hay cupón visible en el sitio para probar el click en vivo con datos reales. Verificado en su lugar: `tsc --noEmit` limpio, `npm run build` limpio, sin errores de consola en home y en categoría gaming (páginas que renderizan `CouponBadge`). Cuando haya un cupón activo de nuevo, confirmar visualmente el copy-to-clipboard.
 
 **Con 36 features implementadas, 34 commits locales.**
+
+### Iteración 25 (2026-07-31) — una sola idea defendible
+
+**Lanzada en background.** Prompt en `PROMPT-iter25.txt`.
