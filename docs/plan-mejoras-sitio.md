@@ -481,3 +481,7 @@ Implementada la segunda idea que había quedado anotada en la iteración 16 (mí
 **Otra falsa alarma de dev descartada:** al verificar en el navegador, la línea nueva no aparecía en NINGUNA de las 122 cards de "cocina", ni siquiera en un producto (`MLA18193159`) confirmado con `rating: 4.6` real en `curated-products.ts`. Antes de reportarlo como bug, se verificó contra un build de producción real (`next build` + `next start` aparte): el HTML servido en producción SÍ incluye "4.6" y "vendidos" correctamente. Era staleness de Turbopack/HMR en la pestaña de dev reutilizada — tercera vez en la sesión que este patrón exacto aparece, ya no se pierde tiempo dudando, se verifica directo contra producción.
 
 **Con 28 features implementadas, 26 commits locales.** Próximo ángulo: a definir en la siguiente vuelta, con Claude también aportando ideas propias desde el arranque.
+
+### Iteración 19 (2026-07-30) — ángulo abierto, elegido por Codex/Gemini
+
+**Lanzada en background:** sin ángulo prefijado esta vez — se les pidió a Codex y Gemini elegir el ángulo más valioso no cubierto todavía, con honestidad directa si no encuentran nada. Prompt en `PROMPT-iter19.txt`, salidas esperadas en `codex-out-iter19.md` y `agy-out-iter19.md`.
