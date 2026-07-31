@@ -77,9 +77,17 @@ function productGuideIndex(): Map<string, Guide[]> {
   for (const g of getPublishedGuides()) {
     const ids = new Set<string>();
     g.quickPicks?.forEach((q) => ids.add(q.productMlaId));
-    // Cualquier id MLA que aparezca en las secciones (tablas, cards, comparativas).
-    const found = JSON.stringify(g.sections ?? []).match(/MLA[UF]?\d+/g);
-    found?.forEach((id) => ids.add(id));
+    // Cualquier id MLA que aparezca en secciones, FAQ, intro o respuesta
+    // directa (tokens {{precio:MLA…}} y links a fichas cuentan como mención
+    // real). Antes solo se miraban las secciones y un producto citado solo en
+    // el FAQ de una guía quedaba fuera del índice.
+    const haystack = JSON.stringify({
+      sections: g.sections ?? [],
+      faq: g.faq ?? [],
+      intro: g.intro ?? [],
+      directAnswer: g.directAnswer ?? "",
+    });
+    haystack.match(/MLA[UF]?\d+/g)?.forEach((id) => ids.add(id));
     ids.forEach((id) => {
       const arr = map.get(id) ?? [];
       arr.push(g);

@@ -49,15 +49,70 @@ for (let i = 0; i < slugMatches.length; i++) {
   }
 }
 
-if (broken.length === 0) {
-  console.log("✓ Todas las guías tienen al menos un camino de compra (product-card, quickPick, o link).");
-  process.exit(0);
+// ── Segunda pasada: ninguna guía puede referenciar un producto cuyo
+// affiliateUrl sea el placeholder (PEGAR_MELI_LA) o falte. Los CTAs de
+// guías (quickPicks, product-cards, botones de GuideRenderer) usan
+// affiliateUrl directo, así que un placeholder ahí sería un botón de compra
+// roto en la página que más convierte. Chequearlo acá (build-time) es más
+// seguro que un guard en runtime: falla el check antes de publicar, en vez
+// de degradar el CTA en producción.
+const PRODUCTS = path.join(ROOT, "src", "data", "curated-products.ts");
+const productsSrc = fs.readFileSync(PRODUCTS, "utf8");
+const urlByProduct = new Map();
+for (const m of productsSrc.matchAll(
+  /id:\s*['"`](MLA[UF]?\d+)['"`][\s\S]*?affiliateUrl:\s*['"`]([^'"`]*)['"`]/g
+)) {
+  // El primer affiliateUrl después de cada id pertenece a ese producto
+  // (los campos van en ese orden en todas las fichas del catálogo).
+  if (!urlByProduct.has(m[1])) urlByProduct.set(m[1], m[2]);
 }
 
-console.log(`✗ ${broken.length} guía(s) SIN ningún camino de compra (product-card, quickPick, ni link de afiliado/ficha):\n`);
-for (const b of broken) {
-  console.log(`  [${b.status}] ${b.slug}  (publicada: ${b.pub})`);
+const placeholderRefs = [];
+for (let i = 0; i < slugMatches.length; i++) {
+  const slug = slugMatches[i][1];
+  const start = slugMatches[i].index;
+  const end = i + 1 < slugMatches.length ? slugMatches[i + 1].index : src.length;
+  const block = src.slice(start, end);
+
+  const pubMatch = block.match(/publishedDate:\s*[`"]([^`"]+)[`"]/);
+  const pub = pubMatch ? pubMatch[1] : null;
+  const isStaged = pub && pub > today;
+  if (isStaged && !includeStaged) continue;
+
+  const ids = new Set(block.match(/MLA[UF]?\d+/g) ?? []);
+  for (const id of ids) {
+    const url = urlByProduct.get(id);
+    // Ids que no están en el catálogo los cubre check-table-product-links.
+    if (url === undefined) continue;
+    if (!url || url === "PEGAR_MELI_LA") {
+      placeholderRefs.push({ slug, id, status: isStaged ? "staged" : "publicada" });
+    }
+  }
 }
-console.log(`\nEsto es la regla obligatoria del repo: ninguna guía se publica sin al menos un botón de compra real.`);
-console.log(`Agregá un product-card, un quickPick, o un link de afiliado antes de publicar/mergear.`);
-process.exit(1);
+
+let failed = false;
+
+if (broken.length === 0) {
+  console.log("✓ Todas las guías tienen al menos un camino de compra (product-card, quickPick, o link).");
+} else {
+  failed = true;
+  console.log(`✗ ${broken.length} guía(s) SIN ningún camino de compra (product-card, quickPick, ni link de afiliado/ficha):\n`);
+  for (const b of broken) {
+    console.log(`  [${b.status}] ${b.slug}  (publicada: ${b.pub})`);
+  }
+  console.log(`\nEsto es la regla obligatoria del repo: ninguna guía se publica sin al menos un botón de compra real.`);
+  console.log(`Agregá un product-card, un quickPick, o un link de afiliado antes de publicar/mergear.`);
+}
+
+if (placeholderRefs.length === 0) {
+  console.log("✓ Ninguna guía referencia productos con affiliateUrl placeholder o vacío.");
+} else {
+  failed = true;
+  console.log(`✗ ${placeholderRefs.length} referencia(s) a productos con affiliateUrl placeholder/vacío:\n`);
+  for (const r of placeholderRefs) {
+    console.log(`  [${r.status}] ${r.slug} → ${r.id}`);
+  }
+  console.log(`\nCompletá el link meli.la real en curated-products.ts (o sacá el producto de la guía) antes de publicar.`);
+}
+
+process.exit(failed ? 1 : 0);

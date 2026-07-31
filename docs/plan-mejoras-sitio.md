@@ -527,6 +527,20 @@ Implementada la segunda idea que había quedado anotada en la iteración 16 (mí
 
 **Con 32 features implementadas, 29 commits locales.**
 
-### Iteración 22 (2026-07-30) — ángulo abierto o retomar la cola
+### Iteración 22 (2026-07-31) — la ronda del debate real entre las tres IAs
 
-**Lanzada en background:** elegir entre la cola anotada ("Aparece en estas guías", comparador de listados, 404 contextual, lazy-load del chart, "Tu lista", blindaje de anchors) o algo nuevo. Prompt en `PROMPT-iter22.txt`.
+**Preguntado:** elegir entre la cola anotada o algo nuevo. Primera ronda corrida con Fable 5 como cerebro del loop (Juan lo activó pidiendo "exprimirlo").
+
+**Las dos IAs externas convergieron en dos ideas — y las dos fueron refutadas o redirigidas al verificar contra el código:**
+
+1. **"Aparece en estas guías" (Gemini la coronó "bomba atómica SEO/CRO")** — FALSO POSITIVO MAYOR: ya existe completo. `src/lib/related-guides.ts` tiene un índice inverso producto→guías (`productGuideIndex` + `guidesForProduct` + `nextStepLinksForProduct`) y toda ficha renderiza "Seguí con la guía completa" desde hace tiempo. Gemini tomó el ítem de la cola sin verificar. **PERO** mi propia lectura del índice encontró un hueco real: solo escaneaba `sections` + `quickPicks` — un producto citado únicamente en el FAQ, la intro o la respuesta directa de una guía (vía token `{{precio:MLA…}}`) quedaba fuera. Medido antes de tocar: 4 referencias reales en 2 guías (`pava-electrica-precio`, `robot-aspiradora-precio-argentina`). **Implementado:** el haystack ahora incluye `faq`/`intro`/`directAnswer`.
+
+2. **Blindar los `<a>` crudos de afiliado en guías (ambas IAs, Gemini con "riesgo de penalización de Google")** — la premisa del riesgo es FALSA en este repo: verificado que TODOS los anchors crudos ya emiten `rel="sponsored nofollow noopener"` + `target="_blank"` + `data-cta-location` correctos, escritos a mano. El único delta real del swap sería el guard del placeholder `PEGAR_MELI_LA` — y eso se resuelve mejor en build-time que en runtime. **Implementado en su lugar (solución más elegante):** segunda pasada en `scripts/check-guide-monetization.cjs` (ya está en la cadena `guides:check`, sin tocar `package.json`): cruza todos los ids MLA de cada guía contra `curated-products.ts` y falla el build-check si alguna guía referencia un producto con `affiliateUrl` placeholder o vacío. El riesgo latente pasa de "CTA degradado en producción" a "error de build antes de publicar". Verificado con test negativo real: inyectando una referencia al placeholder en una copia de `guides.ts`, el check falla con exit 1 nombrando guía y producto. Hoy: 526 productos mapeados, 1 placeholder conocido (`MLA16142518`), 0 referencias desde guías → pasa limpio.
+
+**Verificado en producción real (`next build` + `next start`):** la ficha de la Roomba j9 (`MLA44718960`, citada SOLO en el FAQ de la guía de precios de robots) ahora muestra "Seguí con la guía completa" incluyendo `robot-aspiradora-precio-argentina` — el link que ganó con la extensión del índice. La ficha del microondas BGH mantiene sus 4 guías intactas (sin regresión).
+
+**Gotcha de método de verificación aprendido (quinto de la sesión):** `curl` a `/producto/MLA…` (URL sin slug) devuelve 200 pero con la página de redirect RSC de Next (digest `NEXT_REDIRECT` en el Suspense boundary), NO la ficha — curl no sigue redirects RSC, solo HTTP. Para verificar fichas por curl hay que usar la URL canónica con slug. La primera pasada de verificación dio "no hay links" por esto y casi se reporta un bug inexistente.
+
+**Hallazgo colateral para Juan (fuera del alcance del loop, es contenido de guías):** `npm run guides:check` está fallando hoy en `check-stale-prose-prices` — precios escritos a mano en la prosa de una guía gamer que ya difieren del catálogo (Corsair T3 Rush escrito $786.110/$786.000 vs actual $719.999; HyperX Cloud escrito $82.646 vs actual $85.667). Corregirlos es trabajo del flujo de precios/optimizador de guías, no del loop.
+
+**Con 34 features implementadas, 31 commits locales.**
