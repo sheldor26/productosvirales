@@ -464,4 +464,8 @@ Implementada la segunda idea que había quedado anotada en la iteración 16 (mí
 
 **Verificado en el navegador real:** clase `motion-safe:active:scale-90` confirmada tanto en el DOM como generada como regla CSS real (no purgada por Tailwind). Rutas `/guias/tech/reloj-garmin` y `/trending` cargan sin errores de consola. `tsc --noEmit` y `npm run build` limpios.
 
-**Con 27 features implementadas, 26 commits locales.**
+**Con 27 features implementadas, 25 commits locales.**
+
+### Iteración 18 (2026-07-30) — Comparador liviano en listados + fricciones abiertas
+
+**Lanzada en background:** Codex + Gemini re-evaluando la idea de comparador manual en listados (de la iteración 16, no implementada) contra lo que ya existe (tabla "Comparar con otros modelos" en la ficha), más cualquier fricción real adicional. Prompt en `PROMPT-iter18.txt`, salidas esperadas en `codex-out-iter18.md` y `agy-out-iter18.md`.
