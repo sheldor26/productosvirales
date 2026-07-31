@@ -4,48 +4,9 @@ import { useMemo, useState } from "react";
 import { Scale } from "lucide-react";
 import { ProductGrid } from "./ProductGrid";
 import { ComparisonTable } from "./ComparisonTable";
+import { useProductCompare } from "@/lib/use-product-compare";
+import { sortProducts, SORT_LABELS, type SortOption } from "@/lib/product-sort";
 import type { CardProduct } from "@/lib/types";
-
-const COMPARE_MAX = 4;
-
-type SortOption = "relevancia" | "precio-asc" | "precio-desc" | "descuento" | "rating" | "vendidos";
-
-const SORT_LABELS: Record<SortOption, string> = {
-  relevancia: "Relevancia",
-  "precio-asc": "Menor precio",
-  "precio-desc": "Mayor precio",
-  descuento: "Mayor descuento",
-  rating: "Mejor calificados",
-  vendidos: "Más vendidos",
-};
-
-function discountPct(p: CardProduct): number {
-  if (!p.originalPrice || p.originalPrice <= p.price) return 0;
-  return (p.originalPrice - p.price) / p.originalPrice;
-}
-
-function sortProducts(products: CardProduct[], sort: SortOption): CardProduct[] {
-  if (sort === "relevancia") return products;
-  const sorted = [...products];
-  switch (sort) {
-    case "precio-asc":
-      sorted.sort((a, b) => a.price - b.price);
-      break;
-    case "precio-desc":
-      sorted.sort((a, b) => b.price - a.price);
-      break;
-    case "descuento":
-      sorted.sort((a, b) => discountPct(b) - discountPct(a));
-      break;
-    case "rating":
-      sorted.sort((a, b) => (b.rating ?? 0) - (a.rating ?? 0));
-      break;
-    case "vendidos":
-      sorted.sort((a, b) => (b.soldQuantity ?? 0) - (a.soldQuantity ?? 0));
-      break;
-  }
-  return sorted;
-}
 
 interface SortableProductGridProps {
   products: CardProduct[];
@@ -60,34 +21,18 @@ interface SortableProductGridProps {
  * al server ni cambia qué productos están en el HTML inicial (SEO intacto). */
 export function SortableProductGrid({ products, title, subtitle }: SortableProductGridProps) {
   const [sort, setSort] = useState<SortOption>("relevancia");
-  const [compareMode, setCompareMode] = useState(false);
-  const [compareIds, setCompareIds] = useState<string[]>([]);
   const sorted = useMemo(() => sortProducts(products, sort), [products, sort]);
-
-  const compareSelectedIds = useMemo(() => new Set(compareIds), [compareIds]);
-  const compareProducts = useMemo(
-    () => compareIds.map((id) => products.find((p) => p.id === id)).filter((p): p is CardProduct => !!p),
-    [compareIds, products]
-  );
-
-  const handleCompareToggle = (id: string) => {
-    setCompareIds((current) => {
-      if (current.includes(id)) return current.filter((x) => x !== id);
-      if (current.length >= COMPARE_MAX) return current;
-      const next = [...current, id];
-      window.gtag?.("event", "compare_select", { item_id: id, selected_count: next.length });
-      return next;
-    });
-  };
-
-  const toggleCompareMode = () => {
-    setCompareMode((v) => {
-      const next = !v;
-      if (!next) setCompareIds([]);
-      window.gtag?.("event", "compare_mode_toggle", { active: next });
-      return next;
-    });
-  };
+  const {
+    compareMode,
+    compareIds,
+    compareSelectedIds,
+    compareProducts,
+    compareLimitReached,
+    toggleCompare,
+    toggleMode,
+    clear,
+    COMPARE_MAX,
+  } = useProductCompare(products);
 
   return (
     <div>
@@ -110,7 +55,7 @@ export function SortableProductGrid({ products, title, subtitle }: SortableProdu
             <div className="flex items-center gap-3 flex-wrap">
               <button
                 type="button"
-                onClick={toggleCompareMode}
+                onClick={toggleMode}
                 aria-pressed={compareMode}
                 className={`flex items-center gap-1.5 text-sm font-medium rounded-[var(--radius-pill)] border px-3.5 py-1.5 transition-colors cursor-pointer ${
                   compareMode
@@ -155,16 +100,12 @@ export function SortableProductGrid({ products, title, subtitle }: SortableProdu
         products={sorted}
         compareMode={compareMode}
         compareSelectedIds={compareSelectedIds}
-        compareLimitReached={compareIds.length >= COMPARE_MAX}
-        onCompareToggle={handleCompareToggle}
+        compareLimitReached={compareLimitReached}
+        onCompareToggle={toggleCompare}
       />
 
       {compareMode && (
-        <ComparisonTable
-          products={compareProducts}
-          onRemove={handleCompareToggle}
-          onClear={() => setCompareIds([])}
-        />
+        <ComparisonTable products={compareProducts} onRemove={toggleCompare} onClear={clear} />
       )}
     </div>
   );
