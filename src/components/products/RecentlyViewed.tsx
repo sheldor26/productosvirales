@@ -6,8 +6,9 @@ import { useRecentlyViewed } from "@/lib/use-recently-viewed";
 import type { CardProduct } from "@/lib/types";
 
 interface RecentlyViewedProps {
-  /** Ficha actual: se excluye de su propio historial. */
-  excludeId: string;
+  /** Ficha actual: se excluye de su propio historial. Opcional — en
+   * contextos sin "producto actual" (ej. el vacío de /guardados) se omite. */
+  excludeId?: string;
 }
 
 /** Fila discreta de las últimas fichas vistas (retención pasiva y honesta,

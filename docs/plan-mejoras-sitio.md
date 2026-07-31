@@ -499,4 +499,16 @@ Implementada la segunda idea que había quedado anotada en la iteración 16 (mí
 
 ### Iteración 20 (2026-07-30) — ángulo abierto
 
-**Lanzada en background:** sin ángulo prefijado, pidiendo honestidad directa si no hay nada de sustancia (19 rondas ya cubiertas). Candidatos sugeridos: integración Guardados/Vistos recientemente entre sí y con el resto del sitio, edge cases 404, performance/bundle sin medir. Prompt en `PROMPT-iter20.txt`, salidas esperadas en `codex-out-iter20.md` y `agy-out-iter20.md`.
+**Preguntado:** sin ángulo prefijado, con honestidad directa si no había nada de sustancia (19 rondas ya cubiertas). Gemini volvió a funcionar esta vuelta (había fallado dos veces seguidas).
+
+**Coincidencia total entre Codex y Gemini, desde ángulos distintos:** ambos llegaron independientemente a la misma idea: "Vistos recientemente" (iteración 15) está aislado — solo aparece al fondo de la ficha de producto, y `/guardados` (iteración 5, sesión anterior) muestra un callejón sin salida cuando está vacío ("Todavía no guardaste ningún producto" y nada más). Codex propuso una unificación más grande ("Tu lista" con dos secciones + link en menú mobile); Gemini propuso la versión quirúrgica: mostrar `<RecentlyViewed />` como fallback del estado vacío de Guardados.
+
+**Implementada la versión de Gemini** (más acotada, mismo valor central, menor riesgo): `excludeId` de `RecentlyViewed.tsx` se hizo opcional (no hay "producto actual" que excluir en este contexto), y `SavedProductsView.tsx` ahora renderiza `<RecentlyViewed />` debajo del mensaje de vacío. La versión más grande de Codex (unificar en "Tu lista", agregar Guardados al menú mobile) queda anotada para una ronda con más tiempo de diseño — no es solo código, es una decisión de information architecture que vale la pena pensar con calma.
+
+**Otros 2 hallazgos reales, no implementados esta vuelta:**
+- Codex: 404 genérica podría sugerir búsqueda/categoría según el path roto — real pero necesita diseñar la heurística de "match débil" con cuidado para no sobreprometer.
+- Gemini: lazy-load de `PriceHistoryChart` con `next/dynamic` — real optimización de bundle, pero requiere placeholder con el mismo alto para no generar layout shift; queda para una ronda de performance dedicada.
+
+**Verificado en el navegador real:** con `pv_saved_products` vaciado a propósito, `/guardados` muestra tanto el mensaje de vacío como "Vistos recientemente" con los 3 productos visitados en la sesión (microondas, auriculares, sartén). Sin errores de consola. `tsc --noEmit` y `npm run build` limpios.
+
+**Con 31 features implementadas, 28 commits locales.**
