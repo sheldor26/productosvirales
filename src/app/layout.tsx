@@ -10,6 +10,7 @@ import { AffiliateTracker } from "@/components/analytics/AffiliateTracker";
 import { ScrollDepthTracker } from "@/components/analytics/ScrollDepthTracker";
 import { CtaTracker } from "@/components/analytics/CtaTracker";
 import { ChannelTracker } from "@/components/analytics/ChannelTracker";
+import { WebVitalsReporter } from "@/components/analytics/WebVitalsReporter";
 import "./globals.css";
 
 const plusJakarta = Plus_Jakarta_Sans({
@@ -54,6 +55,9 @@ export const metadata: Metadata = {
   },
   alternates: {
     canonical: process.env.NEXT_PUBLIC_SITE_URL || "https://productosvirales.com.ar",
+    types: {
+      "application/rss+xml": [{ url: "/feed.xml", title: "ProductosVirales — Guías nuevas" }],
+    },
   },
 };
 
@@ -86,6 +90,7 @@ export default function RootLayout({
         <ScrollDepthTracker />
         <CtaTracker />
         <ChannelTracker />
+        <WebVitalsReporter />
         <Script
           src="https://www.googletagmanager.com/gtag/js?id=G-7FJY0G4T9K"
           strategy="afterInteractive"

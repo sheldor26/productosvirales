@@ -181,8 +181,12 @@ export function ProductDetail({ product, relatedProducts = [], priceHistory }: P
   const { blocks: articleBlocks, paraYes, paraNo } = parseArticle(product.articleBody);
 
   useGSAP(() => {
+    // .detail-image y .detail-info (galería + buy box) quedan afuera: son el
+    // contenido LCP de la página y se pintan de una en el SSR. Ocultarlos
+    // hasta que GSAP hidrate y corra retrasaba el LCP real (imagen/H1 recién
+    // visibles después de descargar+ejecutar la librería).
     const selector =
-      ".detail-image, .detail-info, .detail-proscons, .detail-pricehistory, .detail-related, .detail-parawhom, .detail-article, .detail-reviews, .detail-specs, .detail-faq, .detail-cta-band";
+      ".detail-proscons, .detail-pricehistory, .detail-related, .detail-parawhom, .detail-article, .detail-reviews, .detail-specs, .detail-faq, .detail-cta-band";
 
     const mm = gsap.matchMedia();
 
@@ -190,9 +194,7 @@ export function ProductDetail({ product, relatedProducts = [], priceHistory }: P
       // El SSR pinta estos bloques con opacity:0 (espacio reservado, sin CLS).
       gsap.set(selector, { opacity: 1 });
       const tl = gsap.timeline({ defaults: { opacity: 0, y: 20, duration: 0.4, ease: "power2.out" } });
-      tl.from(".detail-image", { x: -20, y: 0 })
-        .from(".detail-info", { x: 20, y: 0 }, "<0.1")
-        .from(".detail-pricehistory", {}, 0.3)
+      tl.from(".detail-pricehistory", {}, 0)
         .from(".detail-proscons", {}, "-=0.05")
         .from(".detail-related", {}, "-=0.05")
         .from(".detail-parawhom", {}, "-=0.05")
@@ -231,12 +233,12 @@ export function ProductDetail({ product, relatedProducts = [], priceHistory }: P
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-10">
         {/* Left: Image gallery */}
-        <div className="detail-image" style={{ opacity: 0 }}>
+        <div className="detail-image">
           <ProductGallery product={product} />
         </div>
 
         {/* Right: Buy box */}
-        <div className="detail-info flex flex-col" style={{ opacity: 0 }}>
+        <div className="detail-info flex flex-col">
           <Link
             href={`/categoria/${product.categorySlug}`}
             className="text-xs text-[var(--text-muted)] hover:text-[var(--text-secondary)] transition-colors mb-2"
