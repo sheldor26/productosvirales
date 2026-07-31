@@ -512,3 +512,7 @@ Implementada la segunda idea que había quedado anotada en la iteración 16 (mí
 **Verificado en el navegador real:** con `pv_saved_products` vaciado a propósito, `/guardados` muestra tanto el mensaje de vacío como "Vistos recientemente" con los 3 productos visitados en la sesión (microondas, auriculares, sartén). Sin errores de consola. `tsc --noEmit` y `npm run build` limpios.
 
 **Con 31 features implementadas, 28 commits locales.**
+
+### Iteración 21 (2026-07-30) — ángulo abierto
+
+**Lanzada en background:** sin ángulo prefijado, con permiso explícito de decir "no hay nada nuevo" si corresponde (20 rondas ya cubiertas). Prompt en `PROMPT-iter21.txt`, salidas esperadas en `codex-out-iter21.md` y `agy-out-iter21.md`.
