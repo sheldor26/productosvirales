@@ -13,6 +13,7 @@ import {
   X,
   Star,
   AlertTriangle,
+  Heart,
 } from "lucide-react";
 import { gsap, useGSAP } from "@/lib/gsap-config";
 import { Badge } from "@/components/ui/Badge";
@@ -20,6 +21,7 @@ import { ProductGallery } from "./ProductGallery";
 import { StickyMobileCta } from "./StickyMobileCta";
 import { RecentlyViewed } from "./RecentlyViewed";
 import { useRecentlyViewed } from "@/lib/use-recently-viewed";
+import { useSavedProducts } from "@/lib/use-saved-products";
 import { formatPrice, formatDiscount } from "@/lib/utils";
 import { renderInlineMarkdown } from "@/lib/inline-markdown";
 import { productHref } from "@/lib/product-url";
@@ -187,6 +189,9 @@ export function ProductDetail({ product, relatedProducts = [], priceHistory }: P
     record(product.id);
   }, [product.id, record]);
 
+  const { isSaved, toggle } = useSavedProducts();
+  const saved = isSaved(product.id);
+
   useGSAP(() => {
     // .detail-image y .detail-info (galería + buy box) quedan afuera: son el
     // contenido LCP de la página y se pintan de una en el SSR. Ocultarlos
@@ -266,7 +271,19 @@ export function ProductDetail({ product, relatedProducts = [], priceHistory }: P
               Por <span className="font-semibold text-[var(--text-secondary)]">ProductosVirales</span>
               {updated && <> · Actualizado {updated}</>}
             </p>
-            <ShareButtons title={product.title} />
+            <div className="flex items-center gap-2">
+              <button
+                type="button"
+                onClick={() => toggle(product.id)}
+                aria-pressed={saved}
+                aria-label={saved ? `Sacar ${product.title} de guardados` : `Guardar ${product.title}`}
+                title={saved ? "Sacar de guardados" : "Guardar producto"}
+                className="inline-flex items-center justify-center w-9 h-9 rounded-full border border-[var(--border)] text-[var(--text-secondary)] hover:text-[var(--text-primary)] hover:border-[var(--text-muted)] transition-colors cursor-pointer motion-safe:active:scale-90"
+              >
+                <Heart size={15} className={saved ? "text-[#ef4444]" : ""} fill={saved ? "#ef4444" : "none"} />
+              </button>
+              <ShareButtons title={product.title} />
+            </div>
           </div>
 
           {product.badge && (
@@ -517,13 +534,14 @@ export function ProductDetail({ product, relatedProducts = [], priceHistory }: P
                       )}
                     </td>
                     <td className="px-2 py-3 text-right">
-                      <Link
-                        href={productHref(related)}
-                        aria-label={`Ver ${related.title}`}
+                      <AffiliateLink
+                        href={related.affiliateUrl}
+                        ctaLocation="ficha-comparar"
+                        ariaLabel={`Ver ${related.title} en MercadoLibre Argentina`}
                         className="inline-flex items-center gap-1 px-3 py-1.5 text-xs font-bold rounded-[var(--radius-pill)] bg-[#3483fa] text-white hover:bg-[#2968c8] transition-colors whitespace-nowrap"
                       >
                         Ver <ArrowRight size={13} />
-                      </Link>
+                      </AffiliateLink>
                     </td>
                   </tr>
                 ))}
