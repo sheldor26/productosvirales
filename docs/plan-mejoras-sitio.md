@@ -617,3 +617,19 @@ Implementada la segunda idea que había quedado anotada en la iteración 16 (mí
 **Verificado en navegador (pestaña fresca — la primera pestaña mostró HMR obsoleto tras varias ediciones seguidas, gotcha #3):** `/?q=monitor` → "15 productos encontrados" + toolbar "Comparar"/"Ordenar por" visible; cambiar a "Menor precio" reordena correctamente ($131.399 → $131.699 → $162.316...); activar "Comparar" y seleccionar 2 muestra la tabla con datos reales. En `/` sin búsqueda, cero rastro del botón "Comparar" (confirmado con `querySelectorAll` — la navegación por categorías no cambió). `tsc --noEmit`, `eslint` sobre los 4 archivos tocados y `npm run build`, todos limpios.
 
 **Con 40 features implementadas, 39 commits locales.**
+
+### Iteración 29 (2026-07-31) — una sola idea defendible
+
+**Nota operativa:** hubo una brecha de ~1h35 entre el final de la ronda 28 y esta síntesis — el auto-despertar programado no disparó (Juan avisó que "nunca más se volvió a ejecutar el /loop"). Los outputs de Codex y Gemini de esta ronda ya habían terminado de correr y quedaron esperando en disco sin pérdida de trabajo; se retomaron apenas se reanudó la sesión.
+
+**Primera ronda en varias donde Gemini SÍ funcionó** (sin el error de permisos headless). Las dos ideas fueron reales y se implementaron las dos:
+- **Codex:** `/guardados` con 2+ productos solo devolvía `ProductGrid` plano — sin las herramientas de decisión que categorías (ronda 26) y búsqueda (ronda 28) ya tienen. Verificado: `SavedProductsView.tsx` (render final) era literalmente `<ProductGrid products={products} />`, sin sort ni comparar.
+- **Gemini:** `freeShipping: boolean` existe en `Product` y ya se usa en la ficha (`ProductDetail.tsx:353`), pero `CardProduct` (el DTO liviano de las grillas) lo excluía del `Pick` — así que nunca llegaba a home/categorías/búsqueda, la señal de "sin sorpresas de envío" quedaba oculta hasta que el visitante ya había entrado a la ficha.
+
+**Implementado:**
+1. `freeShipping` sumado al `Pick` de `CardProduct` (`types.ts`) y a `toCardProduct()` (`products.ts`). `ProductCard.tsx` muestra "Envío gratis" con el mismo ícono/color que la ficha, debajo de rating/vendidos, solo cuando aplica.
+2. `/guardados` con más de un producto ahora usa `SortableProductGrid` en vez de `ProductGrid` — mismo componente ya construido en la ronda 26, cero código nuevo. Con 0 o 1 guardado, el flujo actual (vacío real / error de red / grilla simple) no cambia.
+
+**Verificado en navegador:** en categoría gaming, 50 de 53 cards muestran "Envío gratis" (coherente con la norma del nicho — casi todo en ML AR tiene envío gratis, memoria `nichos-ml-envio-no-es-contra`). Simulando 2 productos guardados, `/guardados` muestra el toolbar completo "Comparar"/"Ordenar por" junto con "Envío gratis" en las cards — ambas features funcionando en conjunto, sin conflicto. `tsc --noEmit`, `eslint` sobre los 4 archivos tocados (los 2 warnings preexistentes de `ProductCard.tsx`/`SavedProductsView.tsx` confirmados con `git diff` como anteriores a este cambio, ronda 25) y `npm run build`, todos limpios.
+
+**Con 42 features implementadas, 41 commits locales.**
