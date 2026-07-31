@@ -577,3 +577,7 @@ Implementada la segunda idea que había quedado anotada en la iteración 16 (mí
 **Verificado en navegador (pestaña fresca):** con `pv_saved_products` vacío, el estado real de "no guardaste nada" se ve sin cambios. Simulando un id guardado + `window.fetch` parcheado para rechazar la llamada a `/api/saved-products`, aparece correctamente "No pudimos cargar tus guardados ahora mismo..." con el botón de reintentar — sin errores de consola. `tsc --noEmit` y `npm run build` limpios.
 
 **Con 37 features implementadas, 36 commits locales.**
+
+### Iteración 26 (2026-07-31) — una sola idea defendible
+
+**Lanzada en background.** Prompt en `PROMPT-iter26.txt`. Codex esta vez con `model_reasoning_effort=medium` (bajado de `high`, que se colgó en la ronda 25).
