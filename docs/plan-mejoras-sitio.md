@@ -544,3 +544,7 @@ Implementada la segunda idea que había quedado anotada en la iteración 16 (mí
 **Hallazgo colateral para Juan (fuera del alcance del loop, es contenido de guías):** `npm run guides:check` está fallando hoy en `check-stale-prose-prices` — precios escritos a mano en la prosa de una guía gamer que ya difieren del catálogo (Corsair T3 Rush escrito $786.110/$786.000 vs actual $719.999; HyperX Cloud escrito $82.646 vs actual $85.667). Corregirlos es trabajo del flujo de precios/optimizador de guías, no del loop.
 
 **Con 34 features implementadas, 31 commits locales.**
+
+### Iteración 23 (2026-07-31) — una sola idea defendible
+
+**Lanzada en background:** formato nuevo tras el patrón de refutaciones: UNA sola idea, con evidencia archivo:línea obligatoria, verificada por la IA proponente antes de proponerla. Prompt en `PROMPT-iter23.txt`.
