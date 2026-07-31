@@ -46,6 +46,8 @@ export function toCardProduct(p: Product): CardProduct {
     badge: p.badge,
     pastelColor: p.pastelColor,
     priceStatus: p.priceStatus,
+    rating: p.rating,
+    soldQuantity: p.soldQuantity,
     bestPrice: priceHistory?.verdict.tone === "good",
   };
 }

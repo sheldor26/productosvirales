@@ -4,7 +4,7 @@ import type { Metadata } from "next";
 import { categories } from "@/data/categories";
 import { getVisibleProducts, toCardProduct } from "@/lib/products";
 import { productHref } from "@/lib/product-url";
-import { ProductGrid } from "@/components/products/ProductGrid";
+import { SortableProductGrid } from "@/components/products/SortableProductGrid";
 import { baseOpenGraph } from "@/lib/site-og";
 
 interface Props {
@@ -136,7 +136,7 @@ export default async function CategoryPage({ params }: Props) {
         </section>
       )}
 
-      <ProductGrid
+      <SortableProductGrid
         products={(products.length > 0 ? products : visibleProducts.slice(0, 8)).map(toCardProduct)}
         title={products.length > 0 ? undefined : "Productos destacados"}
         subtitle={products.length === 0 ? "Todavía no hay productos en esta categoría. Mirá estos:" : undefined}

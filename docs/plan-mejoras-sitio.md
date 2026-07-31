@@ -411,3 +411,25 @@ Implementado (idea pendiente desde la iteración 6, Codex #4): regla global `:fo
 **Verificado exhaustivamente:** `tsc --noEmit` y `npm run build` limpios. Ambos fixes confirmados en producción real con dos productos reales (microondas → sartén), incluyendo el contenido de "Vistos recientemente" y la ausencia de duplicados.
 
 **Con 23 features implementadas, 22 commits locales.**
+
+### Iteración 16 (2026-07-30) — PWA/installability u otro hallazgo real, primera ronda con Claude proponiendo ideas propias
+
+**Preguntado:** PWA/installability u otro hallazgo real, con honestidad directa si no quedaba nada de valor (15 ángulos ya cubiertos).
+
+**Resultado dividido:** Gemini fue tajante — "no hay nada más de valor real a nivel código" (PWA con ROI casi nulo para un sitio de afiliados de paso). Codex coincidió en bajarle el pulgar a PWA, pero trajo una idea real: ordenar/filtrar en `/categoria/[slug]` y `/trending` (menor precio, más vendidos, mejor rating, envío gratis, descuento) — hoy son grillas planas sin ningún control, esfuerzo medio.
+
+**Corrección de Juan en este punto de la sesión (importante, cambia cómo funciona el loop de acá en adelante):** hasta esta ronda, el rol de Claude era sintetizar/filtrar/aplicar lo que traían Codex y Gemini, nunca aportar ideas propias. Juan corrigió explícitamente: "las ideas también las tenés que generar vos... los tres tienen que generar ideas, debatir, sacar conclusiones, y vos aplicás." Guardado en memoria (`loop-mejora-continua-claude-tambien-propone`).
+
+**Mi propia idea, verificada contra el código antes de traerla a la mesa:** la búsqueda (`normalizeSearch` en `src/lib/utils.ts`) solo baja a minúsculas y saca tildes — cero tolerancia a errores de tipeo. Real, pero de esfuerzo medio (necesita lógica de similitud), queda anotada para una ronda futura, no se implementó esta vuelta.
+
+**Síntesis de los tres y decisión:** entre las dos ideas reales de esfuerzo medio (ordenar/filtrar vs. tolerancia a typos), elegí implementar ordenar/filtrar por ser la que más pega directo en fricción de decisión de compra y velocidad — más alineado con el pedido explícito de Juan de priorizar fluidez/velocidad/fricción por sobre alcance.
+
+**Segunda corrección de Juan en esta misma ronda (también cambia el loop):** al preguntarle si prefería que yo eligiera una feature o pausar el loop, Juan corrigió de nuevo: "prefiero que vos tomes la decisión... el loop tiene que seguir funcionando... que el sitio tienda a la perfección." El loop nunca más debe preguntar si pausar — decidir qué implementar y seguir es trabajo de Claude, solo un pedido explícito de Juan en el chat lo detiene. Guardado en memoria (`loop-mejora-continua-nunca-preguntar-pausar`).
+
+**Implementado:** `SortableProductGrid.tsx` (nuevo, client) — selector de orden (Relevancia/Menor precio/Mayor precio/Mayor descuento/Mejor calificados/Más vendidos) sobre los `CardProduct` ya recibidos del server, sin pedir nada nuevo ni exponer el catálogo completo. `CardProduct` (`src/lib/types.ts`) extendido con `rating` y `soldQuantity` (dos campos escalares chicos, no bloatea el payload como si fuera el `Product` completo) + `toCardProduct()` actualizado. Conectado en `/categoria/[slug]/page.tsx` reemplazando `ProductGrid` directo.
+
+**Riesgo de Codex explícitamente cuidado:** el orden es 100% client-side sobre datos ya presentes en el HTML — las páginas de categoría siguen siendo estáticas (SSG, confirmado en `npm run build`: sigue marcando `●`/`○`, no pasó a dinámica `ƒ`), así que no hay impacto en SEO/canonical ni en el contenido que ve Google.
+
+**Verificado en el navegador real:** cambio de "Relevancia" a "Menor precio" reordenó de $175.093/$225.149/... a $2.999/$7.791/$11.900/... correctamente. Evento `sort_products` confirmado disparando en la red real (`ep.sort=precio-asc`), y de paso se confirmó que el evento `TTFB` de Web Vitals (agregado en la iteración 14) también está llegando a GA4 en producción real. `tsc --noEmit` y `npm run build` limpios, sin errores de consola.
+
+**Con 24 features implementadas, 23 commits locales.** El loop sigue — de acá en más, sin volver a preguntar si pausar, y con Claude generando sus propias ideas junto a Codex y Gemini en cada ronda.

@@ -16,6 +16,8 @@ export type CardProduct = Pick<
   | "badge"
   | "pastelColor"
   | "priceStatus"
+  | "rating"
+  | "soldQuantity"
 > & {
   /** true si el precio actual está en su mínimo histórico (o a <=5% de él),
    * según `analyzePriceHistory`. Derivado en el server al armar la tarjeta,
