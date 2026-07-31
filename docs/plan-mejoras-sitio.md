@@ -496,3 +496,7 @@ Implementada la segunda idea que había quedado anotada en la iteración 16 (mí
 **Verificado en producción real:** `curl` contra un build de producción (puerto aparte) confirmó `/sitemap.xml` incluyendo `/contacto`, y el HTML servido en dev confirmó el `aria-label` con el nombre real del producto interpolado correctamente.
 
 **Con 30 features implementadas, 27 commits locales.**
+
+### Iteración 20 (2026-07-30) — ángulo abierto
+
+**Lanzada en background:** sin ángulo prefijado, pidiendo honestidad directa si no hay nada de sustancia (19 rondas ya cubiertas). Candidatos sugeridos: integración Guardados/Vistos recientemente entre sí y con el resto del sitio, edge cases 404, performance/bundle sin medir. Prompt en `PROMPT-iter20.txt`, salidas esperadas en `codex-out-iter20.md` y `agy-out-iter20.md`.
