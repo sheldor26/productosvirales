@@ -112,21 +112,59 @@ function RatingStars({ rating, size = 15 }: { rating: number; size?: number }) {
   );
 }
 
+/** Atajos a la evidencia que ya está más abajo en la ficha (pros/contras,
+ * comparativa, opiniones, specs, FAQ), debajo del CTA — nunca arriba/al
+ * lado, para no competir con la acción principal (mitigación de riesgo,
+ * ronda 42). Cada link solo aparece si esa sección realmente existe para
+ * este producto, mismo criterio que ya usa cada SectionCard para
+ * mostrarse u ocultarse. */
+function DecisionNav({ product, hasRelated }: { product: Product; hasRelated: boolean }) {
+  const items = [
+    (product.pros || product.cons) && { href: "#ficha-pros-contras", label: "A favor y en contra" },
+    hasRelated && { href: "#ficha-comparar", label: "Comparar" },
+    product.customerReviews && product.customerReviews.length > 0 && {
+      href: "#ficha-opiniones",
+      label: "Opiniones",
+    },
+    product.specs && product.specs.length > 0 && { href: "#ficha-specs", label: "Ficha técnica" },
+    product.faq && product.faq.length > 0 && { href: "#ficha-faq", label: "Preguntas frecuentes" },
+  ].filter((x): x is { href: string; label: string } => !!x);
+
+  if (items.length === 0) return null;
+
+  return (
+    <nav aria-label="Ir directo a" className="mt-3 flex flex-wrap justify-center gap-1.5">
+      {items.map((item) => (
+        <a
+          key={item.href}
+          href={item.href}
+          className="px-2.5 py-1 text-[11px] font-medium rounded-[var(--radius-pill)] border border-[var(--border)] text-[var(--text-secondary)] hover:bg-[var(--bg-secondary)] transition-colors"
+        >
+          {item.label}
+        </a>
+      ))}
+    </nav>
+  );
+}
+
 /** Tarjeta de sección con etiqueta (kicker) y título, estilo embudo. */
 function SectionCard({
   kicker,
   title,
   className = "",
+  id,
   children,
 }: {
   kicker?: string;
   title?: string;
   className?: string;
+  id?: string;
   children: ReactNode;
 }) {
   return (
     <section
-      className={`mt-8 max-w-3xl mx-auto rounded-[var(--radius-card)] border border-[var(--border)] bg-[var(--bg-primary)] p-5 md:p-6 ${className}`}
+      id={id}
+      className={`mt-8 max-w-3xl mx-auto rounded-[var(--radius-card)] border border-[var(--border)] bg-[var(--bg-primary)] p-5 md:p-6 scroll-mt-20 ${className}`}
       style={{ opacity: 0 }}
     >
       {kicker && (
@@ -514,6 +552,7 @@ export function ProductDetail({
               <br />
               Ganamos una comisión si comprás por el link — no te cambia el precio.
             </p>
+            <DecisionNav product={product} hasRelated={relatedProducts.length > 0} />
           </div>
         </div>
       </div>
@@ -535,7 +574,7 @@ export function ProductDetail({
 
       {/* ─── Pros / Cons + mosaicos de specs ─── */}
       {(product.pros || product.cons) && (
-        <SectionCard className="detail-proscons" kicker="El resumen honesto" title="A favor y en contra">
+        <SectionCard id="ficha-pros-contras" className="detail-proscons" kicker="El resumen honesto" title="A favor y en contra">
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
             {product.pros && (
               <div className="rounded-[var(--radius-badge)] p-4 bg-[rgba(22,163,74,0.08)] border border-[rgba(22,163,74,0.22)]">
@@ -588,7 +627,7 @@ export function ProductDetail({
 
       {/* ─── Comparar con otros modelos (tabla con estrellas + botón) ─── */}
       {relatedProducts.length > 0 && (
-        <SectionCard className="detail-related" kicker="Compará" title="Comparar con otros modelos">
+        <SectionCard id="ficha-comparar" className="detail-related" kicker="Compará" title="Comparar con otros modelos">
           <div className="-mx-1 overflow-x-auto">
             <table className="w-full text-sm min-w-[480px]">
               <thead>
@@ -651,7 +690,7 @@ export function ProductDetail({
                         <AffiliateLink
                           href={related.affiliateUrl}
                           ctaLocation="ficha-comparar"
-                          ariaLabel={`Ver ${related.title} en MercadoLibre Argentina`}
+                          ariaLabel={`Ver ${related.title} en MercadoLibre Argentina (se abre en una pestaña nueva)`}
                           className="inline-flex items-center gap-1 px-3 py-1.5 text-xs font-bold rounded-[var(--radius-pill)] bg-[#3483fa] text-white hover:bg-[#2968c8] transition-colors whitespace-nowrap"
                         >
                           Ver <ArrowRight size={13} />
@@ -728,7 +767,7 @@ export function ProductDetail({
 
       {/* ─── Customer reviews ─── */}
       {product.customerReviews && product.customerReviews.length > 0 && (
-        <SectionCard className="detail-reviews" kicker="Voz del comprador" title="Lo que dicen los compradores">
+        <SectionCard id="ficha-opiniones" className="detail-reviews" kicker="Voz del comprador" title="Lo que dicen los compradores">
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
             {product.customerReviews.map((review, i) => (
               <figure
@@ -757,7 +796,7 @@ export function ProductDetail({
 
       {/* ─── Specs table ─── */}
       {product.specs && product.specs.length > 0 && (
-        <SectionCard className="detail-specs" kicker="Ficha técnica" title="Especificaciones">
+        <SectionCard id="ficha-specs" className="detail-specs" kicker="Ficha técnica" title="Especificaciones">
           <div className="rounded-[var(--radius-badge)] border border-[var(--border)] overflow-hidden">
             <table className="w-full text-sm">
               <tbody>
@@ -782,7 +821,7 @@ export function ProductDetail({
 
       {/* ─── FAQ ─── */}
       {product.faq && product.faq.length > 0 && (
-        <SectionCard className="detail-faq" kicker="Antes de comprar" title="Preguntas frecuentes">
+        <SectionCard id="ficha-faq" className="detail-faq" kicker="Antes de comprar" title="Preguntas frecuentes">
           <div className="space-y-3">
             {product.faq.map((item) => (
               <details
