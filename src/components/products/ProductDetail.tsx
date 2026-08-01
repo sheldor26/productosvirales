@@ -43,6 +43,57 @@ interface ProductDetailProps {
   hasAlternatives?: boolean;
 }
 
+/** "79.59%" → 79.59, "70%+" → 70, "~15%" → 15. Ante cualquier formato raro,
+ * 0 en vez de romper el render — la barra simplemente no se ve, no rompe. */
+function parseRatingPercent(value: string): number {
+  const n = parseFloat(value.replace(/[^0-9.]/g, ""));
+  return Number.isFinite(n) ? Math.min(100, Math.max(0, n)) : 0;
+}
+
+const RATING_BREAKDOWN_ROWS = [
+  { key: "five", stars: 5 },
+  { key: "four", stars: 4 },
+  { key: "three", stars: 3 },
+  { key: "two", stars: 2 },
+  { key: "one", stars: 1 },
+] as const;
+
+/** Distribución real de estrellas (% por MercadoLibre), a escala absoluta
+ * 0-100 — nunca normalizada al valor más alto, que distorsiona la lectura
+ * de las demás barras (evidencia citada: Mousavi et al., Journal of
+ * Consumer Research). Colapsada por default (<details>): la evidencia dice
+ * que sumar señales de confianza nuevas arriba de las 5 que ya existen
+ * (rating, reviews, ventas, mínimo histórico, descuento) puede EMPEORAR la
+ * conversión por saturación — así que esto se integra al bloque de rating
+ * existente en vez de agregar una sección nueva siempre visible. */
+function RatingBreakdown({ breakdown }: { breakdown: NonNullable<Product["ratingBreakdown"]> }) {
+  const rows = RATING_BREAKDOWN_ROWS.map((r) => ({ ...r, value: breakdown[r.key] })).filter(
+    (r) => r.value
+  );
+  if (rows.length === 0) return null;
+  return (
+    <details className="mt-1.5">
+      <summary className="cursor-pointer text-xs text-[var(--text-secondary)] underline decoration-[var(--border)] underline-offset-2 w-fit">
+        Ver distribución de calificaciones
+      </summary>
+      <div className="mt-2 space-y-1 max-w-[240px]">
+        {rows.map((r) => (
+          <div key={r.key} className="flex items-center gap-2 text-[11px]">
+            <span className="w-5 text-[var(--text-muted)]">{r.stars}★</span>
+            <div className="flex-1 h-1.5 rounded-full bg-[var(--bg-secondary)] overflow-hidden">
+              <div
+                className="h-full rounded-full bg-[#f59e0b]"
+                style={{ width: `${parseRatingPercent(r.value!)}%` }}
+              />
+            </div>
+            <span className="w-12 text-right text-[var(--text-muted)]">{r.value}</span>
+          </div>
+        ))}
+      </div>
+    </details>
+  );
+}
+
 /** Estrellas de calificación (ámbar). Rellenas según round(rating). */
 function RatingStars({ rating, size = 15 }: { rating: number; size?: number }) {
   const filled = Math.round(rating);
@@ -329,6 +380,7 @@ export function ProductDetail({
               )}
             </div>
           )}
+          {product.ratingBreakdown && <RatingBreakdown breakdown={product.ratingBreakdown} />}
 
           {/* Price */}
           <div id="product-price" className="mt-4 flex items-baseline gap-2">
