@@ -862,3 +862,13 @@ Primera ronda en varias donde ninguna de las tres fuentes tocó el tema de stock
 **Verificado:** build de producción real; en `/categoria/belleza` (188 corazones en pantalla), click en uno actualiza `localStorage` y `aria-pressed` solo en esa card, y el contador de "Tus guardados" del Header se sincroniza igual que antes.
 
 **Con 71 features implementadas, 71 commits locales.**
+
+### Iteración 48 (2026-08-01) — categorías grandes cargaban 138 productos de una sola vez
+
+**Codex** verificó con grep sobre `curated-products.ts` (contando ambos estilos de comillas del catálogo, algo que rondas anteriores habían subestimado) que `cocina` tiene 138 productos, `belleza` 97, `hogar` 89 — todos renderizados de una sola vez en `SortableProductGrid`, sin paginación. **Gemini falló por quinta ronda seguida** (esta vez un error de permiso distinto — `write_file` en vez de `command` — refuerza que conviene revisar la config de `agy` en algún momento, no urgente). **Investigación externa** (ángulo feedback de navegación instantánea, `useLinkStatus` de Next.js 15+): **verificado y ya resuelto** — las 5 rutas dinámicas principales (`/categoria/[slug]`, `/producto/[slug]`, `/guias/[slug]`, `/guias/[slug]/[sub]`, `/trending`) ya tienen `loading.tsx` con skeleton completo, con un comentario en el código que documenta explícitamente que se agregó para resolver ese mismo problema ("la navegación se sentía trabada").
+
+**Implementado:** paginación progresiva en `SortableProductGrid.tsx` (mismo patrón que ya usa `HomeFeed.tsx`: `PAGE_SIZE = 24`, botón "Cargar más productos", reset a la primera página ajustado durante el render al cambiar orden o filtro).
+
+**Verificado:** build de producción real, `/categoria/cocina` pasa de 138 a 24 cards en el HTML inicial, el botón agrega de a 24, y aplicar un filtro de precio resetea correctamente al grid principal (confirmado apuntando al contenedor de grilla específico, no a todos los links `/producto/` de la página).
+
+**Con 72 features implementadas, 72 commits locales.**
