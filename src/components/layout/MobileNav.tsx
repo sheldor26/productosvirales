@@ -27,18 +27,39 @@ interface MobileNavProps {
   onClose: () => void;
 }
 
+const FOCUSABLE_SELECTOR =
+  'a[href], button:not([disabled]), [tabindex]:not([tabindex="-1"])';
+
 export function MobileNav({ open, onClose }: MobileNavProps) {
+  const panelRef = useRef<HTMLDivElement>(null);
   const closeRef = useRef<HTMLButtonElement>(null);
   const openerRef = useRef<HTMLElement | null>(null);
 
-  // Al abrir: recordar quién abrió y mover el foco al botón cerrar; Escape cierra.
+  // Al abrir: recordar quién abrió y mover el foco al botón cerrar; Escape cierra;
+  // Tab/Shift+Tab quedan atrapados dentro del panel (si no, tabular de más saca
+  // el foco al header de atrás, que sigue en el árbol aunque esté tapado).
   // Al cerrar: devolver el foco al elemento que lo abrió (el hamburguesa).
   useEffect(() => {
     if (open) {
       openerRef.current = document.activeElement as HTMLElement;
       closeRef.current?.focus();
       const onKey = (e: KeyboardEvent) => {
-        if (e.key === "Escape") onClose();
+        if (e.key === "Escape") {
+          onClose();
+          return;
+        }
+        if (e.key !== "Tab" || !panelRef.current) return;
+        const focusable = panelRef.current.querySelectorAll<HTMLElement>(FOCUSABLE_SELECTOR);
+        if (focusable.length === 0) return;
+        const first = focusable[0];
+        const last = focusable[focusable.length - 1];
+        if (e.shiftKey && document.activeElement === first) {
+          e.preventDefault();
+          last.focus();
+        } else if (!e.shiftKey && document.activeElement === last) {
+          e.preventDefault();
+          first.focus();
+        }
       };
       window.addEventListener("keydown", onKey);
       return () => window.removeEventListener("keydown", onKey);
@@ -59,6 +80,7 @@ export function MobileNav({ open, onClose }: MobileNavProps) {
 
       {/* Panel */}
       <div
+        ref={panelRef}
         role="dialog"
         aria-modal="true"
         aria-label="Menú de navegación"

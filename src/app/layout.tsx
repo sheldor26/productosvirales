@@ -79,9 +79,21 @@ export default function RootLayout({
       suppressHydrationWarning
     >
       <body className="min-h-screen flex flex-col">
+        {/* Salto de teclado: sin esto, un usuario de teclado/lector de pantalla
+            tiene que tabular por todo el header (logo, nav, categorías, buscador,
+            guardados, tema) en CADA página antes de llegar al contenido. Oculto
+            hasta que recibe foco (Tab desde el body), WCAG 2.4.1. */}
+        <a
+          href="#main-content"
+          className="sr-only focus:not-sr-only focus:fixed focus:top-3 focus:left-3 focus:z-[100] focus:px-4 focus:py-2 focus:rounded-[var(--radius-pill)] focus:bg-[var(--bg-primary)] focus:text-[var(--text-primary)] focus:border focus:border-[var(--border)] focus:shadow-lg"
+        >
+          Saltar al contenido
+        </a>
         <ThemeProvider>
           <Header />
-          <main className="flex-1">{children}</main>
+          <main id="main-content" tabIndex={-1} className="flex-1 focus:outline-none">
+            {children}
+          </main>
           <Footer />
           <NewsletterBanner />
         </ThemeProvider>
