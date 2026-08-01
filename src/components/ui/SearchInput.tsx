@@ -37,6 +37,16 @@ export function SearchInput({
   const router = useRouter();
   const suggestListId = useId();
 
+  // Foco automático al montar (no en el botón colapsado, que ya se enfoca a
+  // mano con su propio timeout): cubre tanto el click en la lupa como el
+  // atajo de teclado Cmd/Ctrl+K de Header.tsx, que monta este componente
+  // recién en ese momento — sin esto, el atajo abre el input pero el
+  // visitante tiene que hacer un click más para poder tipear.
+  useEffect(() => {
+    if (!expandable) inputRef.current?.focus();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
+
   // Autocomplete en vivo: sugerencias del catálogo local mientras se tipea,
   // sin reemplazar el submit tradicional (Enter sigue yendo a /?q=... si no
   // se eligió ninguna sugerencia — fallback natural si falla el fetch).

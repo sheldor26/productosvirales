@@ -50,6 +50,21 @@ export function Header() {
     return () => window.removeEventListener("keydown", onKey);
   }, [catOpen]);
 
+  // Atajo global Cmd/Ctrl+K: abre el buscador desde cualquier parte del
+  // sitio sin tocar el mouse. Patrón estándar (GitHub, Linear, Vercel);
+  // ninguno de los dos navegadores mayoritarios tiene ese combo reservado
+  // para algo del browser mismo, así que preventDefault no rompe nada.
+  useEffect(() => {
+    const onKey = (e: KeyboardEvent) => {
+      if ((e.metaKey || e.ctrlKey) && e.key.toLowerCase() === "k") {
+        e.preventDefault();
+        setSearchOpen(true);
+      }
+    };
+    window.addEventListener("keydown", onKey);
+    return () => window.removeEventListener("keydown", onKey);
+  }, []);
+
   return (
     <>
       <header
@@ -236,6 +251,7 @@ export function Header() {
                     onClick={() => setSearchOpen(true)}
                     className="p-2 rounded-full hover:bg-[var(--bg-secondary)] transition-colors text-[var(--text-secondary)] cursor-pointer"
                     aria-label="Buscar"
+                    title="Buscar (Ctrl/Cmd+K)"
                   >
                     <Search size={18} />
                   </button>
