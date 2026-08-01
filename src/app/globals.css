@@ -189,6 +189,9 @@ h1, h2, h3, h4, h5, h6 {
   60% { transform: skewX(-20deg) translateX(300%); }
   100% { transform: skewX(-20deg) translateX(300%); }
 }
+@media (prefers-reduced-motion: reduce) {
+  .cta-shimmer::before { animation: none; }
+}
 
 /* Pulse para badge hot-deal */
 @keyframes pulse-badge {
@@ -197,6 +200,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 .pulse-badge {
   animation: pulse-badge 1.8s ease-in-out infinite;
+}
+@media (prefers-reduced-motion: reduce) {
+  .pulse-badge { animation: none; }
 }
 
 /* Marquee infinito para trending pills */
@@ -213,6 +219,16 @@ h1, h2, h3, h4, h5, h6 {
 .marquee-wrapper:hover .marquee-track {
   animation-play-state: paused;
 }
+@media (prefers-reduced-motion: reduce) {
+  /* Sin loop automático, el track queda estático en translateX(0): la mitad
+     duplicada (ver TrendingPills.tsx) quedaría oculta e inalcanzable por
+     overflow-hidden. Se vuelve scroll horizontal manual en su lugar. */
+  .marquee-track { animation: none; }
+  .marquee-wrapper {
+    overflow-x: auto;
+    mask-image: none !important;
+  }
+}
 
 /* Ring animation para Bell de PriceAlert */
 @keyframes bell-ring {
@@ -225,6 +241,9 @@ h1, h2, h3, h4, h5, h6 {
 .bell-ring {
   transform-origin: 50% 15%;
   animation: bell-ring 1.2s ease-in-out 0.4s 2;
+}
+@media (prefers-reduced-motion: reduce) {
+  .bell-ring { animation: none; }
 }
 
 /* ─── Reveal on scroll (replaces GSAP) ──────────────────────────────── */
@@ -293,6 +312,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 .trend-bounce {
   animation: trend-bounce 2.4s ease-in-out infinite;
+}
+@media (prefers-reduced-motion: reduce) {
+  .trend-bounce { animation: none; }
 }
 
 /* Foco de teclado visible en todo el sitio (a11y). :focus-visible solo se
