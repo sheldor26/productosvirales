@@ -676,3 +676,17 @@ Implementada la segunda idea que había quedado anotada en la iteración 16 (mí
 **Verificado en navegador (pestaña fresca):** en la ficha del Monitor Samsung Odyssey G3, "Productos similares" muestra el botón "Comparar" y "Ordenar por"; activar comparar y seleccionar 2 de los 4 productos automáticos muestra la tabla con datos reales (precio, descuento, mínimo histórico, rating, CTA a MercadoLibre). `tsc --noEmit`, `eslint` y `npm run build`, todos limpios.
 
 **Con 46 features implementadas, 46 commits locales.**
+
+### Iteración 33 (2026-08-01) — Codex, Gemini e investigación externa, tres ideas distintas
+
+**Codex:** bloque "Guías de compra de esta categoría" en `/categoria/[slug]` — verificado que hoy solo termina en "Otras categorías", sin ningún link a guías del mismo silo (a diferencia de ficha→guía y guía→guía, que ya existen). **Gemini:** ofrecer la alerta de precio también para productos en stock cuando el veredicto es "conviene esperar" — verificado que hoy `PriceAlert` solo se renderiza si `priceStatus === "out_of_stock"` (`page.tsx:332`); un visitante que decide esperar por precio se iba sin dejar forma de recuperarlo, perdiendo el lead y la atribución de la venta diferida. **Investigación externa (ángulo push/wishlist/filtros):** descartó explícitamente Web Push (opt-in ~5% en e-commerce, <1% de interacción real, Chrome revocando permisos activamente desde 2025, y requiere backend nuevo — el sitio no tiene infra de suscripciones push). Trajo dos ideas bien respaldadas para la cola: wishlist compartible por URL (reutilizando Guardados/localStorage) y filtro de rango de precio (+26% conversión citado, el filtro más usado por compradores, 72% lo toca al menos una vez).
+
+**Implementado:**
+1. `/categoria/[slug]`: bloque "Guías de compra de X" con hasta 6 guías filtradas por `guide.silo === categorySlug` (match exacto, sin adivinar sinónimos como "belleza"↔"cuidado-personal" — cero riesgo de mezclar guías de otro silo, a costa de cobertura parcial: 8 de 12 categorías tienen match hoy). Sin match, no renderiza nada.
+2. `/producto/[slug]`: segunda instancia de `PriceAlert` (ya existente, reusado) gated en `priceHistory?.verdict.tone === "wait"` (más preciso que "cualquier producto con stock" — evita ruido en productos ya en su mejor precio) y `priceStatus !== "out_of_stock"` (mutuamente excluyente con la alerta existente).
+
+**Verificado en navegador:** `/categoria/gaming` muestra "Guías de compra de Gaming" con 6 links reales (silla-gamer, kit-gamer, joystick-pc/xbox/celular/ps5); `/categoria/belleza` (sin match de silo) no muestra ninguna sección vacía. Ficha de un perfume con verdict "wait" real (`MLA49628348`) muestra "¿Está caro? Te avisamos si baja"; ficha con verdict "good" (Monitor Noblex, mínimo histórico) NO la muestra — control negativo confirmado. `tsc --noEmit`, `eslint` y `npm run build`, todos limpios.
+
+**Cola para rondas futuras:** wishlist compartible por URL, filtro de rango de precio en categorías/búsqueda (evidencia fuerte, mayor esfuerzo — merece su propia ronda).
+
+**Con 48 features implementadas, 48 commits locales.**
