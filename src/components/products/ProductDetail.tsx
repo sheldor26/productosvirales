@@ -736,7 +736,7 @@ export function ProductDetail({ product, relatedProducts = [], priceHistory }: P
         </div>
       )}
 
-      <RecentlyViewed excludeId={product.id} />
+      <RecentlyViewed excludeId={product.id} currentCategorySlug={product.categorySlug} />
 
       <StickyMobileCta product={product} />
     </div>
