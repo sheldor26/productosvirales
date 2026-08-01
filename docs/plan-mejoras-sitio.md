@@ -757,3 +757,15 @@ Con la cola vacía por primera vez, las tres fuentes propusieron ideas genuiname
 **Verificado (en el build de producción real):** ficha sin stock (joystick Redragon) muestra avisame → "Mientras tanto..." → guías, sin "Productos similares" duplicado; ficha con stock (Monitor Samsung G3) sigue mostrando "Productos similares" sin regresión. Con 2 productos gaming en el historial, una ficha de belleza muestra "Estuviste mirando Gaming — ver todos los modelos" con link a `/categoria/gaming`; la misma sesión en una ficha gaming NO lo muestra (control negativo de redundancia). `tsc --noEmit`, `eslint` y `npm run build`, todos limpios.
 
 **Con 54 features implementadas, 54 commits locales.**
+
+### Iteración 39 (2026-08-01) — Codex de nuevo destapa un bug real en el flujo sin stock, investigación de velocidad percibida encuentra una brecha concreta, Gemini falla
+
+**Codex** propuso "modo sin stock real" en la ficha, verificando algo que la ronda 38 dejó pasar: aunque la ficha ya sabía que un producto estaba sin stock, los tres CTAs de la página (arriba, banda final, sticky mobile) seguían empujando el click afiliado a MercadoLibre como acción dominante. **Gemini falló** otra vez (gotcha #6). **Investigación externa (ángulo velocidad percibida):** con SSG + next/image ya resueltos, encontró que la brecha real y medible (web.dev, Fetch Priority API de Google) es marcar más de una imagen `priority` en la misma carga — compite por ancho de banda y empeora el LCP real. Verificado contra el código: exactamente ese bug existía (`ProductGrid.tsx` marcaba `priority={i===0}` en cada instancia sin coordinación entre grillas de la misma página).
+
+**Implementado (dos features):**
+1. Cuando `priceStatus === "out_of_stock"`: la acción primaria en los tres CTAs pasa a ser interna (ancla a "Ver alternativas disponibles" o "Avisame cuando vuelva"), con el link a MercadoLibre degradado a acción secundaria (nunca eliminado, por si el vendedor repuso stock).
+2. `ProductGrid`/`SortableProductGrid` suman un prop `priority` (default true) para que solo la grilla principal de cada página reclame la imagen de alta prioridad — puesto en `false` en toda grilla secundaria (relacionados, otras categorías, vistos recientemente, "lo más buscado" de la home).
+
+**Verificado (build de producción real, mismo protocolo de los gotchas #3/#13):** ficha sin stock con alternativas muestra "Ver alternativas disponibles" en los tres lugares + "Confirmar en MercadoLibre" como secundario, sin ningún CTA dominante a ML; ficha con stock no cambió (sin regresión). En la home, antes del fix había 2 imágenes con `fetchPriority="high"` simultáneas (HomeFeed + "Lo más buscado"), después exactamente 1. De paso se confirmó que otras dos recomendaciones de la misma investigación (aspect-ratio fijo contra CLS, fondo neutro contra flash blanco) ya estaban resueltas de antes en `ProductCard.tsx`. `tsc --noEmit`, `eslint` y `npm run build`, todos limpios.
+
+**Con 56 features implementadas, 56 commits locales.**
