@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useId, useState } from "react";
 
 interface NewsletterFormProps {
   // Ruta de origen (ej. la guía donde está el form), para guardar de dónde
@@ -9,6 +9,7 @@ interface NewsletterFormProps {
 }
 
 export function NewsletterForm({ source }: NewsletterFormProps = {}) {
+  const messageId = useId();
   const [email, setEmail] = useState("");
   const [status, setStatus] = useState<"idle" | "submitting" | "ok" | "error">("idle");
   const [message, setMessage] = useState("");
@@ -53,6 +54,8 @@ export function NewsletterForm({ source }: NewsletterFormProps = {}) {
         type="email"
         required
         aria-label="Email"
+        aria-describedby={message ? messageId : undefined}
+        aria-invalid={status === "error" ? true : undefined}
         placeholder="tu@email.com"
         value={email}
         onChange={(e) => setEmail(e.target.value)}
@@ -70,9 +73,10 @@ export function NewsletterForm({ source }: NewsletterFormProps = {}) {
       </button>
       {message && (
         <p
+          id={messageId}
+          role={status === "error" ? "alert" : "status"}
           className="sm:w-full text-xs mt-1"
           style={{ color: status === "ok" ? "var(--editorial-accent)" : "var(--text-muted)" }}
-          aria-live="polite"
         >
           {message}
         </p>

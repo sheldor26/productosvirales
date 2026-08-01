@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useEffect, useId, useState } from "react";
 
 // Captación de emails. Banner NO bloqueante abajo a la derecha (mobile: barra
 // abajo, por encima de la sticky de compra). NO tapa el contenido ni los botones
@@ -16,6 +16,7 @@ const STORAGE_KEY = "pv_newsletter_banner"; // valor: "dismissed" | "subscribed"
 const TRIGGER_SCROLL_RATIO = 0.6;
 
 export function NewsletterBanner() {
+  const messageId = useId();
   const [show, setShow] = useState(false);
   const [email, setEmail] = useState("");
   const [status, setStatus] = useState<"idle" | "submitting" | "ok" | "error">("idle");
@@ -116,7 +117,7 @@ export function NewsletterBanner() {
           type="button"
           onClick={dismiss}
           aria-label="Cerrar"
-          className="absolute right-4 top-4 flex h-8 w-8 items-center justify-center rounded-full text-xl leading-none opacity-60 transition-opacity hover:opacity-100"
+          className="absolute right-2 top-2 flex h-10 w-10 items-center justify-center rounded-full text-xl leading-none opacity-60 transition-opacity hover:opacity-100"
           style={{ color: "var(--text-muted)" }}
         >
           ×
@@ -138,6 +139,8 @@ export function NewsletterBanner() {
               type="email"
               required
               aria-label="Email"
+              aria-describedby={message ? messageId : undefined}
+              aria-invalid={status === "error" ? true : undefined}
               placeholder="tu@email.com"
               value={email}
               onChange={(e) => setEmail(e.target.value)}
@@ -161,9 +164,10 @@ export function NewsletterBanner() {
 
           {message && (
             <p
+              id={messageId}
+              role={status === "error" ? "alert" : "status"}
               className="mt-3 text-xs"
               style={{ color: status === "error" ? "var(--text-secondary)" : "var(--text-primary)" }}
-              aria-live="polite"
             >
               {message}
             </p>
