@@ -9,7 +9,6 @@ import { Badge } from "@/components/ui/Badge";
 import { CouponBadge } from "@/components/products/CouponBadge";
 import { formatPrice, formatDiscount } from "@/lib/utils";
 import { productHref } from "@/lib/product-url";
-import { useSavedProducts } from "@/lib/use-saved-products";
 import type { CardProduct } from "@/lib/types";
 
 function TikTokIcon({ size = 12 }: { size?: number }) {
@@ -42,6 +41,12 @@ interface ProductCardProps {
    * checkbox se ve pero deshabilitado, en vez de desaparecer sin explicación. */
   compareLimitReached?: boolean;
   onCompareToggle?: (id: string) => void;
+  /** Guardado (localStorage) levantado a la grilla: un solo useSavedProducts()
+   * por página en vez de uno por card — en categorías grandes (belleza,
+   * gaming, 50+ productos) evita esa cantidad de lecturas de localStorage y
+   * listeners globales redundantes en cada hidratación. */
+  saved?: boolean;
+  onToggleSaved?: (id: string) => void;
 }
 
 export function ProductCard({
@@ -52,10 +57,10 @@ export function ProductCard({
   compareSelected = false,
   compareLimitReached = false,
   onCompareToggle,
+  saved = false,
+  onToggleSaved,
 }: ProductCardProps) {
   const productUrl = productHref(product);
-  const { isSaved, toggle } = useSavedProducts();
-  const saved = isSaved(product.id);
   const [imgError, setImgError] = useState(false);
   const {
     title,
@@ -183,7 +188,7 @@ export function ProductCard({
           onClick={(e) => {
             e.preventDefault();
             e.stopPropagation();
-            toggle(product.id);
+            onToggleSaved?.(product.id);
           }}
           aria-pressed={saved}
           aria-label={saved ? `Sacar ${title} de guardados` : `Guardar ${title}`}

@@ -3,6 +3,7 @@
 import { useEffect, useRef } from "react";
 import { ProductCard } from "./ProductCard";
 import { ProductCardSkeleton } from "@/components/ui/Skeleton";
+import { useSavedProducts } from "@/lib/use-saved-products";
 import type { CardProduct } from "@/lib/types";
 
 interface ProductGridProps {
@@ -35,6 +36,10 @@ export function ProductGrid({
   priority = true,
 }: ProductGridProps) {
   const containerRef = useRef<HTMLElement>(null);
+  // Un solo useSavedProducts() por grilla en vez de uno por card: en
+  // categorías grandes (belleza, gaming, 50+ productos) evita esa misma
+  // cantidad de lecturas de localStorage y listeners globales redundantes.
+  const { isSaved, toggle } = useSavedProducts();
 
   useEffect(() => {
     const root = containerRef.current;
@@ -96,6 +101,8 @@ export function ProductGrid({
                 compareSelected={compareSelectedIds?.has(product.id)}
                 compareLimitReached={compareLimitReached}
                 onCompareToggle={onCompareToggle}
+                saved={isSaved(product.id)}
+                onToggleSaved={toggle}
               />
             ))}
       </div>
