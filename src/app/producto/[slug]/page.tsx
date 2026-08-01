@@ -8,6 +8,7 @@ import { injectLivePrices } from "@/lib/price-token";
 import { ProductDetail } from "@/components/products/ProductDetail";
 import { PriceAlert } from "@/components/widgets/PriceAlert";
 import { ProductGrid } from "@/components/products/ProductGrid";
+import { SortableProductGrid } from "@/components/products/SortableProductGrid";
 import { RelatedGuides } from "@/components/guides/RelatedGuides";
 import { nextStepLinksForProduct } from "@/lib/related-guides";
 import { baseOpenGraph } from "@/lib/site-og";
@@ -345,7 +346,7 @@ export default async function ProductPage({ params }: Props) {
       />
 
       {related.length > 0 && (
-        <ProductGrid
+        <SortableProductGrid
           products={related.map(toCardProduct)}
           title="Productos similares"
           subtitle={`Más productos de ${product.category}`}
