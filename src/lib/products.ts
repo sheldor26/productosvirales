@@ -49,6 +49,7 @@ export function toCardProduct(p: Product): CardProduct {
     rating: p.rating,
     soldQuantity: p.soldQuantity,
     freeShipping: p.freeShipping,
+    brand: p.brand,
     bestPrice: priceHistory?.verdict.tone === "good",
   };
 }

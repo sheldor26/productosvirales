@@ -19,6 +19,7 @@ export type CardProduct = Pick<
   | "rating"
   | "soldQuantity"
   | "freeShipping"
+  | "brand"
 > & {
   /** true si el precio actual está en su mínimo histórico (o a <=5% de él),
    * según `analyzePriceHistory`. Derivado en el server al armar la tarjeta,

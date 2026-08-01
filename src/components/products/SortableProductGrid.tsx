@@ -8,6 +8,7 @@ import { useProductCompare } from "@/lib/use-product-compare";
 import { sortProducts, SORT_LABELS, type SortOption } from "@/lib/product-sort";
 import { buildPriceBuckets, priceInBucket, type PriceBucket } from "@/lib/price-buckets";
 import { buildAvailableSignals, matchesSignals, SIGNAL_LABELS, type SignalFilter } from "@/lib/product-signals";
+import { buildAvailableBrands } from "@/lib/product-brands";
 import type { CardProduct } from "@/lib/types";
 
 interface SortableProductGridProps {
@@ -43,9 +44,13 @@ export function SortableProductGrid({ products, title, subtitle, priority = true
     window.gtag?.("event", "signal_filter_toggle", { signal });
   };
 
+  const [brand, setBrand] = useState<string | null>(null);
+  const availableBrands = useMemo(() => buildAvailableBrands(products), [products]);
+
   const visible = sorted
     .filter((p) => !priceBucket || priceInBucket(p.price, priceBucket))
-    .filter((p) => matchesSignals(p, activeSignals));
+    .filter((p) => matchesSignals(p, activeSignals))
+    .filter((p) => !brand || p.brand === brand);
 
   const {
     compareMode,
@@ -170,6 +175,39 @@ export function SortableProductGrid({ products, title, subtitle, priority = true
         </div>
       )}
 
+      {availableBrands.length > 0 && (
+        <div className="mb-4 flex items-center gap-2 overflow-x-auto pb-1">
+          <button
+            type="button"
+            onClick={() => setBrand(null)}
+            className={`shrink-0 px-3.5 py-1.5 text-sm font-medium rounded-[var(--radius-pill)] border transition-colors cursor-pointer ${
+              !brand
+                ? "bg-[var(--cta-bg)] text-[var(--cta-text)] border-[var(--cta-bg)]"
+                : "border-[var(--border)] text-[var(--text-secondary)] hover:bg-[var(--bg-secondary)]"
+            }`}
+          >
+            Todas las marcas
+          </button>
+          {availableBrands.map((b) => (
+            <button
+              key={b}
+              type="button"
+              onClick={() => {
+                setBrand(b);
+                window.gtag?.("event", "brand_filter", { brand: b });
+              }}
+              className={`shrink-0 px-3.5 py-1.5 text-sm font-medium rounded-[var(--radius-pill)] border transition-colors cursor-pointer whitespace-nowrap ${
+                brand === b
+                  ? "bg-[var(--cta-bg)] text-[var(--cta-text)] border-[var(--cta-bg)]"
+                  : "border-[var(--border)] text-[var(--text-secondary)] hover:bg-[var(--bg-secondary)]"
+              }`}
+            >
+              {b}
+            </button>
+          ))}
+        </div>
+      )}
+
       {compareMode && (
         <p className="mb-3 text-xs text-[var(--text-muted)]">
           Tocá el cuadrado de hasta {COMPARE_MAX} productos para verlos lado a lado.
@@ -177,7 +215,7 @@ export function SortableProductGrid({ products, title, subtitle, priority = true
         </p>
       )}
 
-      {(priceBucket || activeSignals.length > 0) && visible.length === 0 && (
+      {(priceBucket || activeSignals.length > 0 || brand) && visible.length === 0 && (
         <p className="mb-3 text-sm text-[var(--text-muted)]">
           Ningún producto cumple con esos filtros. Probá sacando alguno.
         </p>
