@@ -6,6 +6,7 @@ import { ProductGrid } from "./ProductGrid";
 import { ComparisonTable } from "./ComparisonTable";
 import { useProductCompare } from "@/lib/use-product-compare";
 import { sortProducts, SORT_LABELS, type SortOption } from "@/lib/product-sort";
+import { buildPriceBuckets, priceInBucket, type PriceBucket } from "@/lib/price-buckets";
 import type { CardProduct } from "@/lib/types";
 
 interface SortableProductGridProps {
@@ -22,6 +23,14 @@ interface SortableProductGridProps {
 export function SortableProductGrid({ products, title, subtitle }: SortableProductGridProps) {
   const [sort, setSort] = useState<SortOption>("relevancia");
   const sorted = useMemo(() => sortProducts(products, sort), [products, sort]);
+
+  const [priceBucket, setPriceBucket] = useState<PriceBucket | null>(null);
+  const priceBuckets = useMemo(
+    () => buildPriceBuckets(products.map((p) => p.price)),
+    [products]
+  );
+  const visible = priceBucket ? sorted.filter((p) => priceInBucket(p.price, priceBucket)) : sorted;
+
   const {
     compareMode,
     compareIds,
@@ -89,6 +98,39 @@ export function SortableProductGrid({ products, title, subtitle }: SortableProdu
         </div>
       )}
 
+      {priceBuckets.length > 0 && (
+        <div className="mb-4 flex items-center gap-2 overflow-x-auto pb-1">
+          <button
+            type="button"
+            onClick={() => setPriceBucket(null)}
+            className={`shrink-0 px-3.5 py-1.5 text-sm font-medium rounded-[var(--radius-pill)] border transition-colors cursor-pointer ${
+              !priceBucket
+                ? "bg-[var(--cta-bg)] text-[var(--cta-text)] border-[var(--cta-bg)]"
+                : "border-[var(--border)] text-[var(--text-secondary)] hover:bg-[var(--bg-secondary)]"
+            }`}
+          >
+            Todos los precios
+          </button>
+          {priceBuckets.map((b) => (
+            <button
+              key={b.label}
+              type="button"
+              onClick={() => {
+                setPriceBucket(b);
+                window.gtag?.("event", "price_filter", { range: b.label });
+              }}
+              className={`shrink-0 px-3.5 py-1.5 text-sm font-medium rounded-[var(--radius-pill)] border transition-colors cursor-pointer whitespace-nowrap ${
+                priceBucket?.label === b.label
+                  ? "bg-[var(--cta-bg)] text-[var(--cta-text)] border-[var(--cta-bg)]"
+                  : "border-[var(--border)] text-[var(--text-secondary)] hover:bg-[var(--bg-secondary)]"
+              }`}
+            >
+              {b.label}
+            </button>
+          ))}
+        </div>
+      )}
+
       {compareMode && (
         <p className="mb-3 text-xs text-[var(--text-muted)]">
           Tocá el cuadrado de hasta {COMPARE_MAX} productos para verlos lado a lado.
@@ -96,8 +138,14 @@ export function SortableProductGrid({ products, title, subtitle }: SortableProdu
         </p>
       )}
 
+      {priceBucket && visible.length === 0 && (
+        <p className="mb-3 text-sm text-[var(--text-muted)]">
+          Ningún producto en ese rango. Probá con otro precio.
+        </p>
+      )}
+
       <ProductGrid
-        products={sorted}
+        products={visible}
         compareMode={compareMode}
         compareSelectedIds={compareSelectedIds}
         compareLimitReached={compareLimitReached}
