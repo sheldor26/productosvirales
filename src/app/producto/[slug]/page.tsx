@@ -120,6 +120,10 @@ export default async function ProductPage({ params }: Props) {
     .filter((p) => p.categorySlug !== product.categorySlug)
     .slice(0, 4);
 
+  // Calculado una sola vez: lo usa ProductDetail para el gráfico Y la
+  // decisión de mostrar la alerta de precio más abajo (evitar recalcularlo).
+  const priceHistory = analyzePriceHistory(product.id, product.price);
+
   // Resolvemos los tokens de precio {{precio:…}} ACÁ (server) para pasarle a
   // ProductDetail (client) el texto ya resuelto. Así ese componente usa un
   // parser de markdown client-safe y NO arrastra el catálogo (~4 MB) al bundle.
@@ -326,7 +330,7 @@ export default async function ProductPage({ params }: Props) {
       <ProductDetail
         product={detailProduct}
         relatedProducts={explicitRelated}
-        priceHistory={analyzePriceHistory(product.id, product.price)}
+        priceHistory={priceHistory}
       />
 
       {product.priceStatus === "out_of_stock" && (
@@ -336,6 +340,19 @@ export default async function ProductPage({ params }: Props) {
           subtitle="Dejanos tu mail y te escribimos si este producto vuelve al stock o baja de precio."
           ctaLabel="Avisame"
           doneLabel="¡Listo! Te avisamos apenas vuelva o baje de precio."
+        />
+      )}
+
+      {/* Si el precio está en un mal momento para comprar ("conviene esperar")
+          y el producto SÍ tiene stock, ofrecemos avisar cuando baje — sin esto,
+          el visitante que decide esperar se va sin dejar forma de recuperarlo. */}
+      {product.priceStatus !== "out_of_stock" && priceHistory?.verdict.tone === "wait" && (
+        <PriceAlert
+          productId={product.id}
+          title="¿Está caro? Te avisamos si baja"
+          subtitle="Dejanos tu mail y te escribimos apenas el precio de este producto baje."
+          ctaLabel="Avisame"
+          doneLabel="¡Listo! Te avisamos apenas baje de precio."
         />
       )}
 

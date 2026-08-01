@@ -6,6 +6,8 @@ import { getVisibleProducts, toCardProduct } from "@/lib/products";
 import { productHref } from "@/lib/product-url";
 import { SortableProductGrid } from "@/components/products/SortableProductGrid";
 import { baseOpenGraph } from "@/lib/site-og";
+import { getPublishedGuides } from "@/data/guides";
+import { guideHref } from "@/lib/guide-url";
 
 interface Props {
   params: Promise<{ slug: string }>;
@@ -59,6 +61,17 @@ export default async function CategoryPage({ params }: Props) {
   const relatedCategories = categories.filter(
     (c) => c.slug !== slug && !c.isSpecial
   );
+
+  // Match exacto silo === categoría: más angosto que cubrir sinónimos (ej.
+  // "belleza" vs "cuidado-personal"), pero cero riesgo de mezclar guías de
+  // un silo que no corresponde. Pilares primero, después más recientes.
+  const categoryGuides = getPublishedGuides()
+    .filter((g) => g.silo === slug)
+    .sort((a, b) => {
+      if (a.pillar !== b.pillar) return a.pillar ? -1 : 1;
+      return b.publishedDate.localeCompare(a.publishedDate);
+    })
+    .slice(0, 6);
 
   return (
     <div className="max-w-[1200px] mx-auto px-4 md:px-6 py-5 md:py-8 space-y-8">
@@ -141,6 +154,28 @@ export default async function CategoryPage({ params }: Props) {
         title={products.length > 0 ? undefined : "Productos destacados"}
         subtitle={products.length === 0 ? "Todavía no hay productos en esta categoría. Mirá estos:" : undefined}
       />
+
+      {categoryGuides.length > 0 && (
+        <section>
+          <h2
+            className="text-lg font-bold text-[var(--text-primary)] mb-4"
+            style={{ fontFamily: "var(--font-display)" }}
+          >
+            Guías de compra de {category.name}
+          </h2>
+          <div className="flex flex-wrap gap-2">
+            {categoryGuides.map((g) => (
+              <Link
+                key={g.slug}
+                href={guideHref(g)}
+                className="px-4 py-2 text-sm rounded-[var(--radius-pill)] bg-[var(--bg-secondary)] text-[var(--text-secondary)] hover:bg-[var(--border)] transition-colors"
+              >
+                {g.h1}
+              </Link>
+            ))}
+          </div>
+        </section>
+      )}
 
       {/* Related categories */}
       <section>
