@@ -14,6 +14,10 @@ interface SortableProductGridProps {
   products: CardProduct[];
   title?: string;
   subtitle?: string;
+  /** Ver ProductGrid.tsx: false en cualquier instancia que no sea la grilla
+   * principal de la página (ej. "Productos similares" de una ficha, cuyo
+   * candidato real a LCP es la foto del producto, no esta grilla). */
+  priority?: boolean;
 }
 
 /** Grilla de productos con orden elegible por el visitante (menor precio,
@@ -21,7 +25,7 @@ interface SortableProductGridProps {
  * ("Relevancia") es el que ya manda el server, sin cambios. Todo el orden
  * pasa en el cliente sobre los CardProduct ya recibidos — no pide nada nuevo
  * al server ni cambia qué productos están en el HTML inicial (SEO intacto). */
-export function SortableProductGrid({ products, title, subtitle }: SortableProductGridProps) {
+export function SortableProductGrid({ products, title, subtitle, priority = true }: SortableProductGridProps) {
   const [sort, setSort] = useState<SortOption>("relevancia");
   const sorted = useMemo(() => sortProducts(products, sort), [products, sort]);
 
@@ -181,6 +185,7 @@ export function SortableProductGrid({ products, title, subtitle }: SortableProdu
 
       <ProductGrid
         products={visible}
+        priority={priority}
         compareMode={compareMode}
         compareSelectedIds={compareSelectedIds}
         compareLimitReached={compareLimitReached}

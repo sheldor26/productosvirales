@@ -360,6 +360,7 @@ export default async function ProductPage({ params }: Props) {
             products={related.map(toCardProduct)}
             title="Mientras tanto, mirá estas alternativas"
             subtitle={`Disponibles ahora en ${product.category}`}
+            priority={false}
           />
         </div>
       )}
@@ -388,6 +389,7 @@ export default async function ProductPage({ params }: Props) {
           products={related.map(toCardProduct)}
           title="Productos similares"
           subtitle={`Más productos de ${product.category}`}
+          priority={false}
         />
       )}
 
@@ -395,6 +397,7 @@ export default async function ProductPage({ params }: Props) {
         <ProductGrid
           products={otherCategories.map(toCardProduct)}
           title="Popular en otras categorías"
+          priority={false}
         />
       )}
     </div>

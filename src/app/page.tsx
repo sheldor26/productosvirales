@@ -107,6 +107,7 @@ export default function Home() {
           products={weeklyPopular}
           title="Lo más buscado esta semana"
           subtitle="Ofertas que no podés dejar pasar"
+          priority={false}
         />
       </div>
 

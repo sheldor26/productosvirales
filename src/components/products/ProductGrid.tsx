@@ -14,6 +14,13 @@ interface ProductGridProps {
   compareSelectedIds?: Set<string>;
   compareLimitReached?: boolean;
   onCompareToggle?: (id: string) => void;
+  /** Si esta grilla puede reclamar la primera imagen como candidata a LCP.
+   * Default true para no romper el uso más común (una sola grilla arriba
+   * del todo). Poné false en cualquier grilla secundaria de la misma página
+   * (relacionados, "vistos recientemente", "otras categorías") — marcar más
+   * de una imagen `priority` compite por ancho de banda y empeora el LCP
+   * real en vez de mejorarlo (evidencia de next/image y web.dev). */
+  priority?: boolean;
 }
 
 export function ProductGrid({
@@ -25,6 +32,7 @@ export function ProductGrid({
   compareSelectedIds,
   compareLimitReached = false,
   onCompareToggle,
+  priority = true,
 }: ProductGridProps) {
   const containerRef = useRef<HTMLElement>(null);
 
@@ -80,12 +88,10 @@ export function ProductGrid({
               <ProductCardSkeleton key={i} />
             ))
           : products.map((product, i) => (
-              // Solo la primera imagen como `priority`: marcar más de una compite
-              // por ancho de banda y empeora el LCP (advertencia de next/image).
               <ProductCard
                 key={product.id}
                 product={product}
-                priority={i === 0}
+                priority={priority && i === 0}
                 compareMode={compareMode}
                 compareSelected={compareSelectedIds?.has(product.id)}
                 compareLimitReached={compareLimitReached}

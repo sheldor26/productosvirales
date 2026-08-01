@@ -81,7 +81,7 @@ export function RecentlyViewed({ excludeId, currentCategorySlug }: RecentlyViewe
           </span>
         </Link>
       )}
-      <ProductGrid products={products} title="Vistos recientemente" />
+      <ProductGrid products={products} title="Vistos recientemente" priority={false} />
     </div>
   );
 }
