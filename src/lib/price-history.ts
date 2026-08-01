@@ -25,6 +25,11 @@ export interface PriceChartData {
   current: number;
   /** Cuánto está el precio actual por encima del mínimo histórico, en %. */
   pctFromMin: number;
+  /** Promedio simple de los precios registrados (incluye el de hoy). */
+  avg: number;
+  /** Días reales entre el primer y el último punto — para no inventar un
+   * período fijo ("90 días") cuando el historial real todavía es más corto. */
+  rangeDays: number;
   verdict: { tone: PriceVerdictTone; text: string };
 }
 
@@ -92,5 +97,14 @@ export function analyzePriceHistory(
     };
   }
 
-  return { points, min, max, minDate: minPoint.d, current, pctFromMin, verdict };
+  const avg = Math.round(prices.reduce((sum, p) => sum + p, 0) / prices.length);
+  const rangeDays = Math.max(
+    1,
+    Math.round(
+      (new Date(points[points.length - 1].d).getTime() - new Date(points[0].d).getTime()) /
+        (1000 * 60 * 60 * 24)
+    )
+  );
+
+  return { points, min, max, minDate: minPoint.d, current, pctFromMin, avg, rangeDays, verdict };
 }

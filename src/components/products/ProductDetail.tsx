@@ -14,6 +14,7 @@ import {
   Star,
   AlertTriangle,
   Heart,
+  TrendingDown,
 } from "lucide-react";
 import { gsap, useGSAP } from "@/lib/gsap-config";
 import { Badge } from "@/components/ui/Badge";
@@ -337,6 +338,23 @@ export function ProductDetail({ product, relatedProducts = [], priceHistory }: P
               </>
             )}
           </div>
+
+          {priceHistory?.verdict.tone === "good" && (
+            <Badge
+              variant="price-low"
+              className="self-start mt-2"
+              title="El precio de hoy es el más bajo (o casi) que le registramos a este producto."
+            >
+              <TrendingDown size={10} />
+              Mínimo histórico
+            </Badge>
+          )}
+
+          {priceHistory && priceHistory.rangeDays >= 7 && (
+            <p className="mt-1.5 text-[12.5px] text-[var(--text-secondary)]">
+              Promedio de los últimos {priceHistory.rangeDays} días: {formatPrice(priceHistory.avg)}
+            </p>
+          )}
 
           <CouponBadge price={product.price} className="self-start mt-2" />
 
