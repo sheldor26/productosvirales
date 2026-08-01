@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { CATEGORY_NAV } from "@/data/category-nav";
 
 export function Footer() {
   return (
@@ -46,18 +47,16 @@ export function Footer() {
               Categorías
             </h4>
             <ul className="space-y-2">
-              {["Belleza", "Tech", "Hogar", "Gaming", "Audio", "Cocina"].map(
-                (cat) => (
-                  <li key={cat}>
-                    <Link
-                      href={`/categoria/${cat.toLowerCase()}`}
-                      className="text-sm text-[var(--text-muted)] hover:text-[var(--text-primary)] transition-colors"
-                    >
-                      {cat}
-                    </Link>
-                  </li>
-                )
-              )}
+              {CATEGORY_NAV.map((cat) => (
+                <li key={cat.slug}>
+                  <Link
+                    href={`/categoria/${cat.slug}`}
+                    className="text-sm text-[var(--text-muted)] hover:text-[var(--text-primary)] transition-colors"
+                  >
+                    {cat.label}
+                  </Link>
+                </li>
+              ))}
             </ul>
           </div>
 
