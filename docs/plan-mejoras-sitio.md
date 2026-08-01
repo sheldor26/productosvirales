@@ -852,3 +852,13 @@ Primera ronda en varias donde ninguna de las tres fuentes tocó el tema de stock
 **Verificado:** build de producción real, regla CSS generada confirmada correcta, animaciones sin regresión para quien no activó la preferencia (no hay forma de emular `prefers-reduced-motion` con las herramientas de browser disponibles, así que se verificó la regla generada en vez del comportamiento visual bajo la preferencia activa).
 
 **Con 70 features implementadas, 70 commits locales.**
+
+### Iteración 47 (2026-08-01) — un solo useSavedProducts() por grilla, CLS descartado con evidencia
+
+**Codex** encontró que cada `ProductCard` monta su propia instancia de `useSavedProducts()` (lee `localStorage` + registra 2 listeners globales al montar) — en categorías grandes (belleza 60, gaming 53, cocina 42 productos) eso es una cantidad redundante de lecturas y listeners idénticos en cada hidratación. **Gemini falló por cuarta ronda seguida** (mismo error de permisos en modo headless, no relacionado a este proyecto — confirmado viendo el proceso real en `ps aux`, era de otro repo). **Investigación externa** (ángulo Cumulative Layout Shift por UI dinámica): hipótesis de que `NewsletterBanner`, `StickyMobileCta` o `PriceAlert` podrían empujar contenido al aparecer tarde — **verificado y descartado**: los dos primeros usan `position: fixed` (montado/desmontado condicional no afecta el flujo del resto de la página) y `PriceAlert` es un formulario estático presente desde el render inicial, no algo que aparece tarde.
+
+**Implementado:** `useSavedProducts()` levantado de `ProductCard.tsx` a `ProductGrid.tsx` (mismo patrón que ya usaba `compareMode`/`compareSelected`/`onCompareToggle` en el mismo archivo), pasado como props `saved`/`onToggleSaved` a cada card.
+
+**Verificado:** build de producción real; en `/categoria/belleza` (188 corazones en pantalla), click en uno actualiza `localStorage` y `aria-pressed` solo en esa card, y el contador de "Tus guardados" del Header se sincroniza igual que antes.
+
+**Con 71 features implementadas, 71 commits locales.**
