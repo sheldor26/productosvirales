@@ -2,20 +2,123 @@
 
 import { useEffect, useState } from "react";
 import Link from "next/link";
-import { Heart, RotateCcw } from "lucide-react";
+import { useSearchParams } from "next/navigation";
+import { Heart, RotateCcw, Share2, Check } from "lucide-react";
 import { ProductGrid } from "@/components/products/ProductGrid";
 import { SortableProductGrid } from "@/components/products/SortableProductGrid";
 import { RecentlyViewed } from "@/components/products/RecentlyViewed";
 import { useSavedProducts } from "@/lib/use-saved-products";
 import type { CardProduct } from "@/lib/types";
 
+function ShareButton({ ids }: { ids: string[] }) {
+  const [copied, setCopied] = useState(false);
+
+  const share = async () => {
+    const url = `${window.location.origin}/guardados?ids=${encodeURIComponent(ids.join(","))}`;
+    window.gtag?.("event", "saved_products_share", { count: ids.length });
+    if (navigator.share) {
+      try {
+        await navigator.share({ url, title: "Mi lista de ProductosVirales" });
+        return;
+      } catch {
+        // Cancelado por el usuario o no soportado: caer al copiado.
+      }
+    }
+    // Igual que CouponBadge: si el navegador no da clipboard (contexto no
+    // seguro o permiso denegado), el click no hace nada — nunca peor que no
+    // tener el botón.
+    navigator.clipboard
+      ?.writeText(url)
+      .then(() => {
+        setCopied(true);
+        window.setTimeout(() => setCopied(false), 2000);
+      })
+      .catch(() => {});
+  };
+
+  return (
+    <button
+      type="button"
+      onClick={share}
+      className="flex items-center gap-1.5 text-sm font-medium rounded-[var(--radius-pill)] border border-[var(--border)] text-[var(--text-secondary)] hover:bg-[var(--bg-secondary)] px-3.5 py-1.5 transition-colors cursor-pointer"
+    >
+      {copied ? <Check size={14} /> : <Share2 size={14} />}
+      {copied ? "Link copiado" : "Compartir lista"}
+    </button>
+  );
+}
+
+// Lista compartida: alguien mandó un link con /guardados?ids=..., no son los
+// guardados del visitante que abre el link. Se muestra aparte, sin mezclar
+// con lo que ese visitante ya tenga guardado, y ofrece sumarla a lo propio.
+function SharedListView({ sharedIds }: { sharedIds: string[] }) {
+  const { addMany } = useSavedProducts();
+  const [products, setProducts] = useState<CardProduct[] | null>(null);
+  const [saved, setSaved] = useState(false);
+
+  useEffect(() => {
+    let cancelled = false;
+    fetch(`/api/saved-products?ids=${encodeURIComponent(sharedIds.join(","))}`)
+      .then((res) => (res.ok ? res.json() : []))
+      .then((data: CardProduct[]) => {
+        if (!cancelled) setProducts(data);
+      })
+      .catch(() => {
+        if (!cancelled) setProducts([]);
+      });
+    return () => {
+      cancelled = true;
+    };
+  }, [sharedIds]);
+
+  if (products === null) return <ProductGrid products={[]} loading />;
+
+  return (
+    <div>
+      <div className="mb-5 flex items-center justify-between gap-3 flex-wrap rounded-[var(--radius-card)] bg-[var(--bg-secondary)] px-4 py-3">
+        <p className="text-sm text-[var(--text-secondary)]">
+          Te compartieron esta lista ({products.length} producto{products.length !== 1 ? "s" : ""}).{" "}
+          <Link href="/guardados" className="underline decoration-[var(--border)] underline-offset-2">
+            Ver tus guardados
+          </Link>
+        </p>
+        {products.length > 0 && (
+          <button
+            type="button"
+            onClick={() => {
+              addMany(products.map((p) => p.id));
+              setSaved(true);
+            }}
+            disabled={saved}
+            className="flex items-center gap-1.5 text-sm font-semibold rounded-[var(--radius-pill)] bg-[var(--cta-bg)] text-[var(--cta-text)] px-3.5 py-1.5 disabled:opacity-60 cursor-pointer"
+          >
+            {saved ? <Check size={14} /> : <Heart size={14} />}
+            {saved ? "Guardada" : "Guardar toda la lista"}
+          </button>
+        )}
+      </div>
+      {products.length > 1 ? <SortableProductGrid products={products} /> : <ProductGrid products={products} />}
+    </div>
+  );
+}
+
 export function SavedProductsView() {
   const { ids } = useSavedProducts();
+  const searchParams = useSearchParams();
   const [products, setProducts] = useState<CardProduct[] | null>(null);
   const [fetchFailed, setFetchFailed] = useState(false);
   const [retryTick, setRetryTick] = useState(0);
 
+  const sharedIds = (searchParams.get("ids") || "")
+    .split(",")
+    .map((s) => s.trim())
+    .filter(Boolean);
+
   useEffect(() => {
+    // En modo lista compartida, SharedListView hace su propio fetch — este
+    // efecto no tiene nada que resolver todavía (ids puede estar vacío al
+    // llegar por link directo, sin que eso signifique "no guardó nada").
+    if (sharedIds.length > 0) return;
     if (ids.length === 0) {
       setProducts([]);
       setFetchFailed(false);
@@ -41,7 +144,11 @@ export function SavedProductsView() {
     return () => {
       cancelled = true;
     };
-  }, [ids, retryTick]);
+  }, [ids, retryTick, sharedIds.length]);
+
+  if (sharedIds.length > 0) {
+    return <SharedListView sharedIds={sharedIds} />;
+  }
 
   if (fetchFailed) {
     return (
@@ -91,12 +198,19 @@ export function SavedProductsView() {
     );
   }
 
-  // Con 2+ guardados, dar orden/comparar (mismo módulo de categorías y
-  // búsqueda): "guardar" ya es intención alta, esta vista es donde el
-  // visitante decide entre las opciones que juntó.
-  if (products.length > 1) {
-    return <SortableProductGrid products={products} />;
-  }
-
-  return <ProductGrid products={products} />;
+  return (
+    <div>
+      <div className="mb-4 flex justify-end">
+        <ShareButton ids={products.map((p) => p.id)} />
+      </div>
+      {/* Con 2+ guardados, dar orden/comparar (mismo módulo de categorías y
+          búsqueda): "guardar" ya es intención alta, esta vista es donde el
+          visitante decide entre las opciones que juntó. */}
+      {products.length > 1 ? (
+        <SortableProductGrid products={products} />
+      ) : (
+        <ProductGrid products={products} />
+      )}
+    </div>
+  );
 }

@@ -57,5 +57,15 @@ export function useSavedProducts() {
     });
   }, []);
 
-  return { ids, isSaved, toggle };
+  // Para "Guardar todos" al abrir una lista compartida: agrega los que
+  // falten sin tocar los que el visitante ya tenía guardados.
+  const addMany = useCallback((newIds: string[]) => {
+    const current = readSaved();
+    const merged = [...current, ...newIds.filter((id) => !current.includes(id))];
+    writeSaved(merged);
+    setIds(merged);
+    window.gtag?.("event", "saved_products_import", { count: newIds.length });
+  }, []);
+
+  return { ids, isSaved, toggle, addMany };
 }

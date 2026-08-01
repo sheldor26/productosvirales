@@ -1,5 +1,7 @@
+import { Suspense } from "react";
 import type { Metadata } from "next";
 import { SavedProductsView } from "@/components/products/SavedProductsView";
+import { ProductGrid } from "@/components/products/ProductGrid";
 
 // Contenido 100% personal (localStorage del visitante): no hay nada genérico
 // para indexar acá, así que queda fuera del índice de Google.
@@ -24,7 +26,9 @@ export default function GuardadosPage() {
           borrás los datos del sitio, se pierden.
         </p>
       </div>
-      <SavedProductsView />
+      <Suspense fallback={<ProductGrid products={[]} loading />}>
+        <SavedProductsView />
+      </Suspense>
     </div>
   );
 }
