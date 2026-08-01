@@ -11,6 +11,12 @@ import { buildAvailableSignals, matchesSignals, SIGNAL_LABELS, type SignalFilter
 import { buildAvailableBrands } from "@/lib/product-brands";
 import type { CardProduct } from "@/lib/types";
 
+// Categorías grandes (cocina 138, belleza 97, hogar 89) montaban una
+// ProductCard por producto de una sola vez — cientos de links/botones/
+// observers hidratando de golpe en mobile. Mismo patrón y tamaño de página
+// que ya usa HomeFeed.tsx para el feed de la home.
+const PAGE_SIZE = 24;
+
 interface SortableProductGridProps {
   products: CardProduct[];
   title?: string;
@@ -51,6 +57,20 @@ export function SortableProductGrid({ products, title, subtitle, priority = true
     .filter((p) => !priceBucket || priceInBucket(p.price, priceBucket))
     .filter((p) => matchesSignals(p, activeSignals))
     .filter((p) => !brand || p.brand === brand);
+
+  // Volver a la primera página cuando cambia el orden o algún filtro — sin
+  // esto, filtrar a pocos resultados con visibleCount alto en 0 productos
+  // nuevos que "cargar más". Ajustado durante el render (mismo patrón que
+  // HomeFeed.tsx), no un useEffect aparte.
+  const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
+  const currentPageKey = `${sort}|${priceBucket?.label ?? ""}|${activeSignals.join(",")}|${brand ?? ""}`;
+  const [pageResetKey, setPageResetKey] = useState(currentPageKey);
+  if (currentPageKey !== pageResetKey) {
+    setPageResetKey(currentPageKey);
+    setVisibleCount(PAGE_SIZE);
+  }
+  const pagedVisible = visible.slice(0, visibleCount);
+  const hasMore = visibleCount < visible.length;
 
   const {
     compareMode,
@@ -222,13 +242,25 @@ export function SortableProductGrid({ products, title, subtitle, priority = true
       )}
 
       <ProductGrid
-        products={visible}
+        products={pagedVisible}
         priority={priority}
         compareMode={compareMode}
         compareSelectedIds={compareSelectedIds}
         compareLimitReached={compareLimitReached}
         onCompareToggle={toggleCompare}
       />
+
+      {hasMore && (
+        <div className="mt-6 flex justify-center">
+          <button
+            type="button"
+            onClick={() => setVisibleCount((c) => c + PAGE_SIZE)}
+            className="px-6 py-2.5 text-sm font-medium rounded-[var(--radius-pill)] bg-[var(--bg-secondary)] text-[var(--text-primary)] hover:bg-[var(--border)] transition-colors cursor-pointer"
+          >
+            Cargar más productos
+          </button>
+        </div>
+      )}
 
       {compareMode && (
         <ComparisonTable products={compareProducts} onRemove={toggleCompare} onClear={clear} />
