@@ -842,3 +842,13 @@ Primera ronda en varias donde ninguna de las tres fuentes tocó el tema de stock
 **Verificado:** build de producción real, `getBoundingClientRect()` confirmó 40x40px en el corazón. Nuevo gotcha reafirmado: el screenshot del browser automatizado volvió a fallar (pantalla en blanco) pese a contenido real confirmado por DOM — se resolvió sin depender de la captura visual.
 
 **Con 69 features implementadas, 69 commits locales.**
+
+### Iteración 46 (2026-08-01) — 5 animaciones infinitas sin respetar prefers-reduced-motion
+
+**Codex** y la **investigación externa** (ángulo `prefers-reduced-motion`, WCAG 2.3.3) convergieron en el mismo hallazgo desde ángulos distintos: `globals.css` ya maneja reduced motion para `reveal`, `hero-rise` y el popup de newsletter, pero 5 animaciones infinitas/repetidas quedaban afuera — el shimmer del CTA del hero, el pulso del badge de descuento, el marquee de trending pills, la campanita de `PriceAlert` y el rebote del ícono de tendencia. La investigación aportó el dato clave: WCAG 2.3.3 no distingue "animación grande" de micro-interacción, y las infinitas/repetidas son las que más afectan sensibilidad vestibular real (hasta 35% de adultos 40+ según A11Y Project/NIDCD). **Gemini falló por tercera ronda seguida** (permisos en modo headless) — a revisar el allow-rule de `permissions.allow` en algún momento, no urgente.
+
+**Implementado:** `@media (prefers-reduced-motion: reduce)` en las 5 animaciones. El marquee necesitó más que apagar la animación: el track queda estático en `translateX(0)` y la mitad duplicada del array (loop seamless) quedaba oculta por `overflow-hidden` — resuelto convirtiendo el wrapper en scroll horizontal manual bajo esa preferencia.
+
+**Verificado:** build de producción real, regla CSS generada confirmada correcta, animaciones sin regresión para quien no activó la preferencia (no hay forma de emular `prefers-reduced-motion` con las herramientas de browser disponibles, así que se verificó la regla generada en vez del comportamiento visual bajo la preferencia activa).
+
+**Con 70 features implementadas, 70 commits locales.**
