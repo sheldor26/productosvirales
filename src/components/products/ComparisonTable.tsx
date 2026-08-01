@@ -123,7 +123,7 @@ export function ComparisonTable({ products, onRemove, onClear }: ComparisonTable
                     href={p.affiliateUrl}
                     ctaLocation="comparador"
                     className="mt-3 inline-flex items-center justify-center px-3 py-2 text-xs font-semibold rounded-[var(--radius-button)] bg-[var(--cta-bg)] text-[var(--cta-text)] hover:bg-[var(--cta-hover)] transition-colors"
-                    ariaLabel={`Ver ${p.title} en MercadoLibre Argentina`}
+                    ariaLabel={`Ver ${p.title} en MercadoLibre Argentina (se abre en una pestaña nueva)`}
                   >
                     Ver en MercadoLibre
                   </AffiliateLink>

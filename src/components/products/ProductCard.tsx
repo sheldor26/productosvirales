@@ -272,7 +272,7 @@ export function ProductCard({
               ctaLocation="card"
               onClick={(e) => e.stopPropagation()}
               className="flex items-center justify-center w-11 h-11 md:w-10 md:h-10 rounded-full bg-[var(--cta-bg)] text-[var(--cta-text)] hover:bg-[var(--cta-hover)] motion-safe:active:scale-90 transition-[background-color,transform] shrink-0"
-              ariaLabel={`Ver ${title} en MercadoLibre Argentina`}
+              ariaLabel={`Ver ${title} en MercadoLibre Argentina (se abre en una pestaña nueva)`}
             >
               <ArrowRight size={16} />
             </AffiliateLink>

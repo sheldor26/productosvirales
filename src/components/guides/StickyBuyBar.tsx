@@ -121,6 +121,7 @@ export function StickyBuyBar({ product }: StickyBuyBarProps) {
           target="_blank"
           rel="sponsored nofollow noopener"
           data-cta-location={tableInView ? "sticky-table" : "sticky"}
+          aria-label={`Ver ${product.title} en MercadoLibre (se abre en una pestaña nueva)`}
           className="shrink-0 inline-flex items-center gap-1.5 px-4 text-[13.5px] font-extrabold rounded-[var(--radius-button)]"
           style={{
             minHeight: 44,

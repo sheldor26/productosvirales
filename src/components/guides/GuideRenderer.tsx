@@ -518,6 +518,11 @@ function AboveFoldCta({ productMlaId }: { productMlaId: string }) {
           target="_blank"
           rel="sponsored nofollow noopener"
           data-cta-location="above-fold"
+          aria-label={
+            priceText
+              ? `Comprar a ${priceText} en MercadoLibre (se abre en una pestaña nueva)`
+              : "Comprar en MercadoLibre (se abre en una pestaña nueva)"
+          }
           className="inline-flex items-center gap-1.5 px-5 py-3 text-sm font-extrabold rounded-[var(--radius-button)] transition-transform hover:-translate-y-px"
           style={{
             backgroundColor: "var(--cta-action)",
@@ -564,6 +569,11 @@ function VerdictCta({ productMlaId }: { productMlaId: string }) {
           target="_blank"
           rel="sponsored nofollow noopener"
           data-cta-location="verdict"
+          aria-label={
+            priceText
+              ? `Comprar a ${priceText} en MercadoLibre (se abre en una pestaña nueva)`
+              : "Comprar en MercadoLibre (se abre en una pestaña nueva)"
+          }
           className="inline-flex items-center gap-1.5 px-5 py-3 text-sm font-extrabold rounded-[var(--radius-button)] transition-transform hover:-translate-y-px"
           style={{
             backgroundColor: "var(--cta-action)",
