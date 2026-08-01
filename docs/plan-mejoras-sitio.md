@@ -690,3 +690,15 @@ Implementada la segunda idea que había quedado anotada en la iteración 16 (mí
 **Cola para rondas futuras:** wishlist compartible por URL, filtro de rango de precio en categorías/búsqueda (evidencia fuerte, mayor esfuerzo — merece su propia ronda).
 
 **Con 48 features implementadas, 48 commits locales.**
+
+### Iteración 34 (2026-08-01) — Codex y la cola coinciden exactos, Gemini vuelve a fallar
+
+**Codex propuso, de forma independiente, exactamente el ítem que ya estaba primero en la cola de la ronda 33** (filtro de rango de precio en categorías/búsqueda), con la misma evidencia de arquitectura: `CardProduct` ya trae `price`, `SortableProductGrid` ya tiene toolbar cliente, no hace falta backend nuevo. **Gemini volvió a fallar** con el mismo error de permisos headless de siempre (gotcha #6, descartado sin relanzar).
+
+**Implementado:** `src/lib/price-buckets.ts` (nuevo) con `buildPriceBuckets(prices)` y `priceInBucket(price, bucket)`. Los cortes de precio se calculan sobre el rango real del listado visible (constantes candidatas en `BREAKPOINTS`, se usan solo las que caen dentro de min/max reales) — nunca cortes fijos por categoría, así el filtro no queda mal calibrado si una categoría es toda cara o toda barata. Si todo el listado cae en un solo bucket, no se muestra ningún filtro (no tiene sentido con una sola opción). Integrado en `SortableProductGrid.tsx`: fila de chips "Todos los precios" + un chip por bucket, estado `priceBucket`, filtra `sorted` antes de pasarlo a `ProductGrid`, empty state cuando un rango no tiene productos. Al vivir en `SortableProductGrid`, aparece gratis en categorías, búsqueda (vía `HomeFeed`) y `/guardados` sin tocar cada página.
+
+**Verificación con un susto real:** el primer intento de click en el chip de precio (tanto `.click()` por JS como `computer left_click` con coordenadas de un screenshot recién tomado) pareció no actualizar el estado, mientras el botón "Comparar" preexistente en la misma página sí respondía en las mismas pruebas — generó sospecha real de bug de código. Se resolvió cerrando varias pestañas viejas del navegador (tope de pestañas alcanzado) y reintentando en una pestaña nueva: el mismo test exacto funcionó al toque (Gaming 53→1 con "Hasta $30.000", reset correcto a 53 con "Todos los precios"). Conclusión más probable: interferencia de Fast Refresh/HMR en una pestaña vieja, no un bug real — pero sin certeza absoluta, dejado como posible punto flojo a vigilar si el patrón de click en estos chips vuelve a fallar en verificaciones futuras.
+
+`tsc --noEmit`, `eslint` sobre los 2 archivos tocados y `npm run build`, todos limpios.
+
+**Con 49 features implementadas, 49 commits locales.**
