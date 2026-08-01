@@ -7,6 +7,7 @@ import { ComparisonTable } from "./ComparisonTable";
 import { useProductCompare } from "@/lib/use-product-compare";
 import { sortProducts, SORT_LABELS, type SortOption } from "@/lib/product-sort";
 import { buildPriceBuckets, priceInBucket, type PriceBucket } from "@/lib/price-buckets";
+import { buildAvailableSignals, matchesSignals, SIGNAL_LABELS, type SignalFilter } from "@/lib/product-signals";
 import type { CardProduct } from "@/lib/types";
 
 interface SortableProductGridProps {
@@ -29,7 +30,18 @@ export function SortableProductGrid({ products, title, subtitle }: SortableProdu
     () => buildPriceBuckets(products.map((p) => p.price)),
     [products]
   );
-  const visible = priceBucket ? sorted.filter((p) => priceInBucket(p.price, priceBucket)) : sorted;
+  const [activeSignals, setActiveSignals] = useState<SignalFilter[]>([]);
+  const availableSignals = useMemo(() => buildAvailableSignals(products), [products]);
+  const toggleSignal = (signal: SignalFilter) => {
+    setActiveSignals((prev) =>
+      prev.includes(signal) ? prev.filter((s) => s !== signal) : [...prev, signal]
+    );
+    window.gtag?.("event", "signal_filter_toggle", { signal });
+  };
+
+  const visible = sorted
+    .filter((p) => !priceBucket || priceInBucket(p.price, priceBucket))
+    .filter((p) => matchesSignals(p, activeSignals));
 
   const {
     compareMode,
@@ -131,6 +143,29 @@ export function SortableProductGrid({ products, title, subtitle }: SortableProdu
         </div>
       )}
 
+      {availableSignals.length > 0 && (
+        <div className="mb-4 flex items-center gap-2 flex-wrap">
+          {availableSignals.map((signal) => {
+            const active = activeSignals.includes(signal);
+            return (
+              <button
+                key={signal}
+                type="button"
+                onClick={() => toggleSignal(signal)}
+                aria-pressed={active}
+                className={`px-3.5 py-1.5 text-sm font-medium rounded-[var(--radius-pill)] border transition-colors cursor-pointer ${
+                  active
+                    ? "bg-[var(--cta-bg)] text-[var(--cta-text)] border-[var(--cta-bg)]"
+                    : "border-[var(--border)] text-[var(--text-secondary)] hover:bg-[var(--bg-secondary)]"
+                }`}
+              >
+                {SIGNAL_LABELS[signal]}
+              </button>
+            );
+          })}
+        </div>
+      )}
+
       {compareMode && (
         <p className="mb-3 text-xs text-[var(--text-muted)]">
           Tocá el cuadrado de hasta {COMPARE_MAX} productos para verlos lado a lado.
@@ -138,9 +173,9 @@ export function SortableProductGrid({ products, title, subtitle }: SortableProdu
         </p>
       )}
 
-      {priceBucket && visible.length === 0 && (
+      {(priceBucket || activeSignals.length > 0) && visible.length === 0 && (
         <p className="mb-3 text-sm text-[var(--text-muted)]">
-          Ningún producto en ese rango. Probá con otro precio.
+          Ningún producto cumple con esos filtros. Probá sacando alguno.
         </p>
       )}
 
