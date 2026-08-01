@@ -1,5 +1,6 @@
 "use client";
 
+import Link from "next/link";
 import Image from "next/image";
 import { X, Star, TrendingDown } from "lucide-react";
 import { AffiliateLink } from "@/components/affiliate/AffiliateLink";
@@ -109,14 +110,24 @@ export function ComparisonTable({ products, onRemove, onClear }: ComparisonTable
                   {p.soldQuantity && <span>{p.soldQuantity.toLocaleString("es-AR")} vendidos</span>}
                 </div>
 
-                <AffiliateLink
-                  href={p.affiliateUrl}
-                  ctaLocation="comparador"
-                  className="mt-3 inline-flex items-center justify-center px-3 py-2 text-xs font-semibold rounded-[var(--radius-button)] bg-[var(--cta-bg)] text-[var(--cta-text)] hover:bg-[var(--cta-hover)] transition-colors"
-                  ariaLabel={`Ver ${p.title} en MercadoLibre Argentina`}
-                >
-                  Ver en MercadoLibre
-                </AffiliateLink>
+                {p.priceStatus === "out_of_stock" ? (
+                  <Link
+                    href={productHref(p)}
+                    className="mt-3 inline-flex items-center justify-center px-3 py-2 text-xs font-semibold rounded-[var(--radius-button)] bg-[var(--cta-bg)] text-[var(--cta-text)] hover:bg-[var(--cta-hover)] transition-colors"
+                    aria-label={`Ver alternativas para ${p.title} (sin stock en esta publicación)`}
+                  >
+                    Ver alternativas
+                  </Link>
+                ) : (
+                  <AffiliateLink
+                    href={p.affiliateUrl}
+                    ctaLocation="comparador"
+                    className="mt-3 inline-flex items-center justify-center px-3 py-2 text-xs font-semibold rounded-[var(--radius-button)] bg-[var(--cta-bg)] text-[var(--cta-text)] hover:bg-[var(--cta-hover)] transition-colors"
+                    ariaLabel={`Ver ${p.title} en MercadoLibre Argentina`}
+                  >
+                    Ver en MercadoLibre
+                  </AffiliateLink>
+                )}
               </div>
             );
           })}

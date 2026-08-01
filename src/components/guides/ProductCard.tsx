@@ -193,22 +193,39 @@ export function ProductCard({ section }: ProductCardProps) {
               </p>
             )}
             <CouponBadge price={product.price} className="self-start" />
-            <a
-              href={product.affiliateUrl}
-              target="_blank"
-              rel="sponsored nofollow noopener"
-              data-cta-location="card"
-              className="self-start inline-flex items-center gap-1 mt-1 px-3 py-1.5 text-xs font-extrabold rounded-[var(--radius-button)] transition-transform hover:-translate-y-px"
-              style={{
-                backgroundColor: "var(--cta-action)",
-                color: "var(--cta-action-text)",
-                border: "1px solid rgba(0,0,0,.18)",
-                boxShadow: "0 3px 10px rgba(180,150,0,.30)",
-              }}
-            >
-              Comprar en MercadoLibre
-              <span aria-hidden="true" className="font-extrabold">→</span>
-            </a>
+            {product.priceStatus === "out_of_stock" ? (
+              <Link
+                href={productHref(product)}
+                data-cta-location="card"
+                className="self-start inline-flex items-center gap-1 mt-1 px-3 py-1.5 text-xs font-extrabold rounded-[var(--radius-button)] transition-transform hover:-translate-y-px"
+                style={{
+                  backgroundColor: "var(--cta-action)",
+                  color: "var(--cta-action-text)",
+                  border: "1px solid rgba(0,0,0,.18)",
+                  boxShadow: "0 3px 10px rgba(180,150,0,.30)",
+                }}
+              >
+                Ver alternativas disponibles
+                <span aria-hidden="true" className="font-extrabold">→</span>
+              </Link>
+            ) : (
+              <a
+                href={product.affiliateUrl}
+                target="_blank"
+                rel="sponsored nofollow noopener"
+                data-cta-location="card"
+                className="self-start inline-flex items-center gap-1 mt-1 px-3 py-1.5 text-xs font-extrabold rounded-[var(--radius-button)] transition-transform hover:-translate-y-px"
+                style={{
+                  backgroundColor: "var(--cta-action)",
+                  color: "var(--cta-action-text)",
+                  border: "1px solid rgba(0,0,0,.18)",
+                  boxShadow: "0 3px 10px rgba(180,150,0,.30)",
+                }}
+              >
+                Comprar en MercadoLibre
+                <span aria-hidden="true" className="font-extrabold">→</span>
+              </a>
+            )}
           </div>
         </div>
         <SchemaLd product={product} />
@@ -340,22 +357,39 @@ export function ProductCard({ section }: ProductCardProps) {
               </div>
             )}
             <CouponBadge price={product.price} />
-            <a
-              href={product.affiliateUrl}
-              target="_blank"
-              rel="sponsored nofollow noopener"
-              data-cta-location="card"
-              className="inline-flex items-center gap-1.5 px-5 py-3 text-sm font-extrabold rounded-[var(--radius-button)] transition-transform hover:-translate-y-px"
-              style={{
-                backgroundColor: "var(--cta-action)",
-                color: "var(--cta-action-text)",
-                border: "1px solid rgba(0,0,0,.18)",
-                boxShadow: "0 3px 10px rgba(180,150,0,.30)",
-              }}
-            >
-              Comprar en MercadoLibre
-              <span aria-hidden="true" className="font-extrabold">→</span>
-            </a>
+            {product.priceStatus === "out_of_stock" ? (
+              <Link
+                href={productHref(product)}
+                data-cta-location="card"
+                className="inline-flex items-center gap-1.5 px-5 py-3 text-sm font-extrabold rounded-[var(--radius-button)] transition-transform hover:-translate-y-px"
+                style={{
+                  backgroundColor: "var(--cta-action)",
+                  color: "var(--cta-action-text)",
+                  border: "1px solid rgba(0,0,0,.18)",
+                  boxShadow: "0 3px 10px rgba(180,150,0,.30)",
+                }}
+              >
+                Ver alternativas disponibles
+                <span aria-hidden="true" className="font-extrabold">→</span>
+              </Link>
+            ) : (
+              <a
+                href={product.affiliateUrl}
+                target="_blank"
+                rel="sponsored nofollow noopener"
+                data-cta-location="card"
+                className="inline-flex items-center gap-1.5 px-5 py-3 text-sm font-extrabold rounded-[var(--radius-button)] transition-transform hover:-translate-y-px"
+                style={{
+                  backgroundColor: "var(--cta-action)",
+                  color: "var(--cta-action-text)",
+                  border: "1px solid rgba(0,0,0,.18)",
+                  boxShadow: "0 3px 10px rgba(180,150,0,.30)",
+                }}
+              >
+                Comprar en MercadoLibre
+                <span aria-hidden="true" className="font-extrabold">→</span>
+              </a>
+            )}
           </div>
           {/* "Ver ficha" degradado a link gris debajo (no compite con el CTA). */}
           <p className="mt-2 text-[13px]">

@@ -587,14 +587,24 @@ export function ProductDetail({
                       )}
                     </td>
                     <td className="px-2 py-3 text-right">
-                      <AffiliateLink
-                        href={related.affiliateUrl}
-                        ctaLocation="ficha-comparar"
-                        ariaLabel={`Ver ${related.title} en MercadoLibre Argentina`}
-                        className="inline-flex items-center gap-1 px-3 py-1.5 text-xs font-bold rounded-[var(--radius-pill)] bg-[#3483fa] text-white hover:bg-[#2968c8] transition-colors whitespace-nowrap"
-                      >
-                        Ver <ArrowRight size={13} />
-                      </AffiliateLink>
+                      {related.priceStatus === "out_of_stock" ? (
+                        <Link
+                          href={productHref(related)}
+                          aria-label={`Ver ${related.title} (sin stock en esta publicación)`}
+                          className="inline-flex items-center gap-1 px-3 py-1.5 text-xs font-bold rounded-[var(--radius-pill)] bg-[#3483fa] text-white hover:bg-[#2968c8] transition-colors whitespace-nowrap"
+                        >
+                          Ver <ArrowRight size={13} />
+                        </Link>
+                      ) : (
+                        <AffiliateLink
+                          href={related.affiliateUrl}
+                          ctaLocation="ficha-comparar"
+                          ariaLabel={`Ver ${related.title} en MercadoLibre Argentina`}
+                          className="inline-flex items-center gap-1 px-3 py-1.5 text-xs font-bold rounded-[var(--radius-pill)] bg-[#3483fa] text-white hover:bg-[#2968c8] transition-colors whitespace-nowrap"
+                        >
+                          Ver <ArrowRight size={13} />
+                        </AffiliateLink>
+                      )}
                     </td>
                   </tr>
                 ))}

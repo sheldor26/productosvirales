@@ -1,12 +1,15 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import Link from "next/link";
 import { formatPrice } from "@/lib/utils";
+import { productHref } from "@/lib/product-url";
 
 /** Campos mínimos que necesita la barra. El producto se resuelve en el SERVIDOR
  * (GuideRenderer) y baja como prop, así este componente cliente no importa
  * `getProductById` ni arrastra el catálogo entero al bundle de las guías. */
 interface StickyBuyProduct {
+  id: string;
   title: string;
   image: string;
   affiliateUrl: string;
@@ -14,6 +17,7 @@ interface StickyBuyProduct {
   currency: string;
   rating?: number;
   reviewCount?: number;
+  priceStatus?: string;
 }
 
 interface StickyBuyBarProps {
@@ -95,23 +99,41 @@ export function StickyBuyBar({ product }: StickyBuyBarProps) {
           {priceText ?? ""}
         </div>
       </div>
-      <a
-        href={product.affiliateUrl}
-        target="_blank"
-        rel="sponsored nofollow noopener"
-        data-cta-location={tableInView ? "sticky-table" : "sticky"}
-        className="shrink-0 inline-flex items-center gap-1.5 px-4 text-[13.5px] font-extrabold rounded-[var(--radius-button)]"
-        style={{
-          minHeight: 44,
-          backgroundColor: "var(--cta-action)",
-          color: "var(--cta-action-text)",
-          border: "1px solid rgba(0,0,0,.18)",
-          boxShadow: "0 3px 10px rgba(180,150,0,.30)",
-        }}
-      >
-        {priceText ? `Ver a ${priceText}` : "Ver"}
-        <span aria-hidden="true" className="font-extrabold">→</span>
-      </a>
+      {product.priceStatus === "out_of_stock" ? (
+        <Link
+          href={productHref(product)}
+          data-cta-location={tableInView ? "sticky-table" : "sticky"}
+          className="shrink-0 inline-flex items-center gap-1.5 px-4 text-[13.5px] font-extrabold rounded-[var(--radius-button)]"
+          style={{
+            minHeight: 44,
+            backgroundColor: "var(--cta-action)",
+            color: "var(--cta-action-text)",
+            border: "1px solid rgba(0,0,0,.18)",
+            boxShadow: "0 3px 10px rgba(180,150,0,.30)",
+          }}
+        >
+          Ver alternativas
+          <span aria-hidden="true" className="font-extrabold">→</span>
+        </Link>
+      ) : (
+        <a
+          href={product.affiliateUrl}
+          target="_blank"
+          rel="sponsored nofollow noopener"
+          data-cta-location={tableInView ? "sticky-table" : "sticky"}
+          className="shrink-0 inline-flex items-center gap-1.5 px-4 text-[13.5px] font-extrabold rounded-[var(--radius-button)]"
+          style={{
+            minHeight: 44,
+            backgroundColor: "var(--cta-action)",
+            color: "var(--cta-action-text)",
+            border: "1px solid rgba(0,0,0,.18)",
+            boxShadow: "0 3px 10px rgba(180,150,0,.30)",
+          }}
+        >
+          {priceText ? `Ver a ${priceText}` : "Ver"}
+          <span aria-hidden="true" className="font-extrabold">→</span>
+        </a>
+      )}
     </div>
   );
 }

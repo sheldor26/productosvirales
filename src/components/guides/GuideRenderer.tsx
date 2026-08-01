@@ -15,6 +15,7 @@ import { RelatedGuides } from "./RelatedGuides";
 import { nextStepLinksForGuide, categoryLabel } from "@/lib/related-guides";
 import { ensureSectionIds, getTocItems } from "@/lib/slug";
 import { getProductById } from "@/lib/products";
+import { productHref } from "@/lib/product-url";
 import { formatPrice } from "@/lib/utils";
 import { injectLivePrices } from "@/lib/price-token";
 import { Stars } from "./Stars";
@@ -496,22 +497,39 @@ function AboveFoldCta({ productMlaId }: { productMlaId: string }) {
           </div>
         ) : null}
       </div>
-      <a
-        href={product.affiliateUrl}
-        target="_blank"
-        rel="sponsored nofollow noopener"
-        data-cta-location="above-fold"
-        className="inline-flex items-center gap-1.5 px-5 py-3 text-sm font-extrabold rounded-[var(--radius-button)] transition-transform hover:-translate-y-px"
-        style={{
-          backgroundColor: "var(--cta-action)",
-          color: "var(--cta-action-text)",
-          border: "1px solid rgba(0,0,0,.18)",
-          boxShadow: "0 3px 10px rgba(180,150,0,.30)",
-        }}
-      >
-        {priceText ? `Comprar a ${priceText} en MercadoLibre` : "Comprar en MercadoLibre"}
-        <span aria-hidden="true" className="font-extrabold">→</span>
-      </a>
+      {product.priceStatus === "out_of_stock" ? (
+        <Link
+          href={productHref(product)}
+          data-cta-location="above-fold"
+          className="inline-flex items-center gap-1.5 px-5 py-3 text-sm font-extrabold rounded-[var(--radius-button)] transition-transform hover:-translate-y-px"
+          style={{
+            backgroundColor: "var(--cta-action)",
+            color: "var(--cta-action-text)",
+            border: "1px solid rgba(0,0,0,.18)",
+            boxShadow: "0 3px 10px rgba(180,150,0,.30)",
+          }}
+        >
+          Ver alternativas disponibles
+          <span aria-hidden="true" className="font-extrabold">→</span>
+        </Link>
+      ) : (
+        <a
+          href={product.affiliateUrl}
+          target="_blank"
+          rel="sponsored nofollow noopener"
+          data-cta-location="above-fold"
+          className="inline-flex items-center gap-1.5 px-5 py-3 text-sm font-extrabold rounded-[var(--radius-button)] transition-transform hover:-translate-y-px"
+          style={{
+            backgroundColor: "var(--cta-action)",
+            color: "var(--cta-action-text)",
+            border: "1px solid rgba(0,0,0,.18)",
+            boxShadow: "0 3px 10px rgba(180,150,0,.30)",
+          }}
+        >
+          {priceText ? `Comprar a ${priceText} en MercadoLibre` : "Comprar en MercadoLibre"}
+          <span aria-hidden="true" className="font-extrabold">→</span>
+        </a>
+      )}
     </div>
   );
 }
@@ -525,22 +543,39 @@ function VerdictCta({ productMlaId }: { productMlaId: string }) {
     : null;
   return (
     <div className="not-prose -mt-2 mb-6">
-      <a
-        href={product.affiliateUrl}
-        target="_blank"
-        rel="sponsored nofollow noopener"
-        data-cta-location="verdict"
-        className="inline-flex items-center gap-1.5 px-5 py-3 text-sm font-extrabold rounded-[var(--radius-button)] transition-transform hover:-translate-y-px"
-        style={{
-          backgroundColor: "var(--cta-action)",
-          color: "var(--cta-action-text)",
-          border: "1px solid rgba(0,0,0,.18)",
-          boxShadow: "0 3px 10px rgba(180,150,0,.30)",
-        }}
-      >
-        {priceText ? `Comprar a ${priceText} en MercadoLibre` : "Comprar en MercadoLibre"}
-        <span aria-hidden="true" className="font-extrabold">→</span>
-      </a>
+      {product.priceStatus === "out_of_stock" ? (
+        <Link
+          href={productHref(product)}
+          data-cta-location="verdict"
+          className="inline-flex items-center gap-1.5 px-5 py-3 text-sm font-extrabold rounded-[var(--radius-button)] transition-transform hover:-translate-y-px"
+          style={{
+            backgroundColor: "var(--cta-action)",
+            color: "var(--cta-action-text)",
+            border: "1px solid rgba(0,0,0,.18)",
+            boxShadow: "0 3px 10px rgba(180,150,0,.30)",
+          }}
+        >
+          Ver alternativas disponibles
+          <span aria-hidden="true" className="font-extrabold">→</span>
+        </Link>
+      ) : (
+        <a
+          href={product.affiliateUrl}
+          target="_blank"
+          rel="sponsored nofollow noopener"
+          data-cta-location="verdict"
+          className="inline-flex items-center gap-1.5 px-5 py-3 text-sm font-extrabold rounded-[var(--radius-button)] transition-transform hover:-translate-y-px"
+          style={{
+            backgroundColor: "var(--cta-action)",
+            color: "var(--cta-action-text)",
+            border: "1px solid rgba(0,0,0,.18)",
+            boxShadow: "0 3px 10px rgba(180,150,0,.30)",
+          }}
+        >
+          {priceText ? `Comprar a ${priceText} en MercadoLibre` : "Comprar en MercadoLibre"}
+          <span aria-hidden="true" className="font-extrabold">→</span>
+        </a>
+      )}
     </div>
   );
 }
@@ -730,6 +765,7 @@ export function GuideRenderer({ guide: rawGuide }: GuideRendererProps) {
       {topPick && (
         <StickyBuyBar
           product={{
+            id: topPick.id,
             title: topPick.title,
             image: topPick.image,
             affiliateUrl: topPick.affiliateUrl,
@@ -737,6 +773,7 @@ export function GuideRenderer({ guide: rawGuide }: GuideRendererProps) {
             currency: topPick.currency,
             rating: topPick.rating,
             reviewCount: topPick.reviewCount,
+            priceStatus: topPick.priceStatus,
           }}
         />
       )}
