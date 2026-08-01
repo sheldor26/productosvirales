@@ -830,3 +830,15 @@ Primera ronda en varias donde ninguna de las tres fuentes tocó el tema de stock
 **Verificado:** build de producción real (el dev server volvió a servir HTML obsoleto en `/categoria/coleccionables`, mismo gotcha de siempre — resuelto con `next start`). El harness de browser automatizado no da foco real de ventana (`document.hasFocus()` siempre `false`), así que `:focus` de CSS no se puede probar con captura de pantalla directa — verificado en cambio con la regla CSS generada (specificidad correcta) + una simulación visual manual del estado `:focus`, y el focus trap con eventos `KeyboardEvent` de Tab/Shift-Tab despachados a mano confirmando el ciclo en ambos sentidos. Nuevo gotcha anotado para rondas futuras.
 
 **Con 67 features implementadas, 67 commits locales.**
+
+### Iteración 45 (2026-08-01) — tap targets chicos y formularios de newsletter sin feedback ligado
+
+**Codex** encontró que los formularios de newsletter (`NewsletterForm.tsx`, `NewsletterBanner.tsx`) tienen el input con `aria-label` pero el mensaje de éxito/error no está asociado al campo (sin `aria-describedby`, sin `aria-invalid`) — un lector de pantalla no conecta el feedback con el campo a corregir, justo en el punto de captación de leads. **Gemini falló de nuevo** (bloqueado por permisos en modo headless, gotcha ya documentado). **Investigación externa** (ángulo tap targets mobile, WCAG 2.5.8/2.5.5): el estándar real de la industria es ~44px (no el mínimo WCAG de 24px); Baymard recomienda 7mm de área táctil + espaciado. Al medir con `getBoundingClientRect()` en el código real: el corazón de "guardar" en `ProductCard.tsx` medía 32x32px — el botón de mayor frecuencia de interacción del sitio (aparece en cada card, cada grilla, todas las páginas), y el botón de cerrar del banner de newsletter también medía 32x32px.
+
+**Implementado (dos commits):**
+1. `NewsletterForm.tsx` + `NewsletterBanner.tsx`: `aria-describedby`/`aria-invalid` en el input, `role="alert"`/`"status"` en el mensaje (reemplaza `aria-live`, ya implícito en esos roles).
+2. Corazón de guardar en `ProductCard.tsx`: 32px → 40px (ícono 15→16). Botón de cerrar del banner de newsletter: 32px → 40px.
+
+**Verificado:** build de producción real, `getBoundingClientRect()` confirmó 40x40px en el corazón. Nuevo gotcha reafirmado: el screenshot del browser automatizado volvió a fallar (pantalla en blanco) pese a contenido real confirmado por DOM — se resolvió sin depender de la captura visual.
+
+**Con 69 features implementadas, 69 commits locales.**
