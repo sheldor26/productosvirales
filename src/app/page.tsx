@@ -4,6 +4,7 @@ import { HeroBanner } from "@/components/feed/HeroBanner";
 import { TrendingBar } from "@/components/feed/TrendingBar";
 import { HomeFeed } from "@/components/feed/HomeFeed";
 import { ProductGrid } from "@/components/products/ProductGrid";
+import { RecentlyViewed } from "@/components/products/RecentlyViewed";
 import { PriceAlert } from "@/components/widgets/PriceAlert";
 import { HomeFAQ } from "@/components/feed/HomeFAQ";
 import { getRotatedVisibleProducts, makeRotationSeed, toFeedCard, toCardProduct } from "@/lib/products";
@@ -88,6 +89,15 @@ export default function Home() {
       />
 
       <HeroBanner />
+
+      <div className="mt-6 md:mt-8">
+        {/* Se esconde sola en la primera visita (sin historial todavía) — no
+            hay salto de layout que evitar, a diferencia del feed de abajo. */}
+        <RecentlyViewed
+          title="Volviste — esto viste en este navegador"
+          subtitle="No en otros dispositivos ni cuentas: es solo lo que abriste acá."
+        />
+      </div>
 
       <div className="mt-6 md:mt-8">
         {/* Fallback con la misma forma que el feed real (grilla de skeletons,

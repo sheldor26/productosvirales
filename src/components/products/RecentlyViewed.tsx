@@ -14,6 +14,11 @@ interface RecentlyViewedProps {
    * navegación detectado coincide con esta categoría, no se muestra el
    * aviso — ya está viendo exactamente eso, sería redundante. */
   currentCategorySlug?: string;
+  /** Override de título/subtítulo por contexto (ej. la home usa un copy de
+   * "volviste" más explícito sobre el mecanismo — ver page.tsx). Default
+   * genérico para el resto de los usos (ficha, /guardados vacío). */
+  title?: string;
+  subtitle?: string;
 }
 
 /** Categoría que se repite en el historial reciente, si hay 2 o más vistos
@@ -39,7 +44,12 @@ function detectCategoryPattern(products: CardProduct[]) {
  * sin cuenta ni push): "cuál era ese producto que había visto". Se esconde
  * sola si no hay historial (visita nueva, localStorage limpio, o el único
  * ítem del historial es la ficha actual). */
-export function RecentlyViewed({ excludeId, currentCategorySlug }: RecentlyViewedProps) {
+export function RecentlyViewed({
+  excludeId,
+  currentCategorySlug,
+  title = "Vistos recientemente",
+  subtitle,
+}: RecentlyViewedProps) {
   const { ids } = useRecentlyViewed();
   const [products, setProducts] = useState<CardProduct[]>([]);
   const idsKey = ids.filter((id) => id !== excludeId).join(",");
@@ -81,7 +91,7 @@ export function RecentlyViewed({ excludeId, currentCategorySlug }: RecentlyViewe
           </span>
         </Link>
       )}
-      <ProductGrid products={products} title="Vistos recientemente" priority={false} />
+      <ProductGrid products={products} title={title} subtitle={subtitle} priority={false} />
     </div>
   );
 }
