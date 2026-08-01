@@ -81,7 +81,9 @@ function SectionRenderer({ section }: { section: GuideSection }) {
 
     case "table":
       return (
-        <div className="my-6 overflow-x-auto rounded-[var(--radius-card)] border border-[var(--border)]">
+        <div
+          className="guide-comparison-table my-6 overflow-x-auto rounded-[var(--radius-card)] border border-[var(--border)]"
+        >
           <table className="w-full text-sm">
             <thead>
               <tr className="bg-[var(--bg-secondary)]">

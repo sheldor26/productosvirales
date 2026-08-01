@@ -22,18 +22,43 @@ interface StickyBuyBarProps {
 
 /**
  * Barra fija de compra, SOLO en mobile (<620px). Aparece al scrollear
- * (~600px) para acompañar al lector con el botón siempre a tiro.
+ * (~600px) para acompañar al lector con el botón siempre a tiro, y también
+ * mientras una tabla comparativa está en pantalla (aunque sea más arriba de
+ * los 600px): es exactamente el momento en que el lector está comparando
+ * opciones y necesita el CTA a mano sin tener que volver a subir a buscarlo.
  * El amarillo del botón es el único de la página (regla de oro CRO).
  */
 export function StickyBuyBar({ product }: StickyBuyBarProps) {
-  const [visible, setVisible] = useState(false);
+  const [pastScroll, setPastScroll] = useState(false);
+  const [tableInView, setTableInView] = useState(false);
 
   useEffect(() => {
-    const onScroll = () => setVisible(window.scrollY > 600);
+    const onScroll = () => setPastScroll(window.scrollY > 600);
     onScroll();
     window.addEventListener("scroll", onScroll, { passive: true });
     return () => window.removeEventListener("scroll", onScroll);
   }, []);
+
+  useEffect(() => {
+    const tables = document.querySelectorAll(".guide-comparison-table");
+    if (tables.length === 0 || typeof IntersectionObserver === "undefined") return;
+
+    const visibleTables = new Set<Element>();
+    const io = new IntersectionObserver(
+      (entries) => {
+        for (const entry of entries) {
+          if (entry.isIntersecting) visibleTables.add(entry.target);
+          else visibleTables.delete(entry.target);
+        }
+        setTableInView(visibleTables.size > 0);
+      },
+      { threshold: 0 }
+    );
+    tables.forEach((t) => io.observe(t));
+    return () => io.disconnect();
+  }, []);
+
+  const visible = pastScroll || tableInView;
 
   const priceText = product.price
     ? formatPrice(product.price, product.currency)
@@ -74,7 +99,7 @@ export function StickyBuyBar({ product }: StickyBuyBarProps) {
         href={product.affiliateUrl}
         target="_blank"
         rel="sponsored nofollow noopener"
-        data-cta-location="sticky"
+        data-cta-location={tableInView ? "sticky-table" : "sticky"}
         className="shrink-0 inline-flex items-center gap-1.5 px-4 text-[13.5px] font-extrabold rounded-[var(--radius-button)]"
         style={{
           minHeight: 44,
