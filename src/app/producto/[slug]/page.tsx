@@ -112,9 +112,17 @@ export default async function ProductPage({ params }: Props) {
       (p) =>
         p.categorySlug === product.categorySlug &&
         p.id !== product.id &&
-        !explicitRelatedIds.has(p.id) // no repetir lo ya curado en "Comparar con otros modelos"
+        !explicitRelatedIds.has(p.id) && // no repetir lo ya curado en "Comparar con otros modelos"
+        p.priceStatus !== "out_of_stock" // nunca recomendar una alternativa que tampoco se puede comprar
     )
     .slice(0, 4);
+
+  // Sin stock y con al menos 2 alternativas reales: adelantar "Productos
+  // similares" arriba de las guías, justo después del aviso de "avisame",
+  // para ofrecer una salida de compra disponible antes de perder la visita
+  // (en vez de dejar el "avisame" como único camino hasta el fondo de la
+  // página). Con 0 o 1 alternativa no vale la pena promoverlo.
+  const promoteSimilar = product.priceStatus === "out_of_stock" && related.length >= 2;
 
   const otherCategories = getRotatedVisibleProducts(seedFromId(product.id, "other"))
     .filter((p) => p.categorySlug !== product.categorySlug)
@@ -343,6 +351,14 @@ export default async function ProductPage({ params }: Props) {
         />
       )}
 
+      {promoteSimilar && (
+        <SortableProductGrid
+          products={related.map(toCardProduct)}
+          title="Mientras tanto, mirá estas alternativas"
+          subtitle={`Disponibles ahora en ${product.category}`}
+        />
+      )}
+
       {/* Si el precio está en un mal momento para comprar ("conviene esperar")
           y el producto SÍ tiene stock, ofrecemos avisar cuando baje — sin esto,
           el visitante que decide esperar se va sin dejar forma de recuperarlo. */}
@@ -362,7 +378,7 @@ export default async function ProductPage({ params }: Props) {
         links={nextStepLinksForProduct(product)}
       />
 
-      {related.length > 0 && (
+      {!promoteSimilar && related.length > 0 && (
         <SortableProductGrid
           products={related.map(toCardProduct)}
           title="Productos similares"
