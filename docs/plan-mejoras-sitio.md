@@ -817,3 +817,16 @@ Primera ronda en varias donde ninguna de las tres fuentes tocó el tema de stock
 **Verificado (build de producción real + navegador):** en `/categoria/belleza`, click en "Lattafa" filtra a exactamente 22 productos únicos (coincide con el catálogo real); Ctrl+K despachado por JS abre el combobox de búsqueda con foco puesto ahí (confirmado por `document.activeElement`). `tsc --noEmit`, `eslint` y `npm run build`, todos limpios.
 
 **Con 64 features implementadas, 64 commits locales.**
+
+### Iteración 44 (2026-08-01) — footer desactualizado y dos gaps reales de accesibilidad de teclado
+
+**Codex** encontró que `Footer.tsx` tenía un array hardcodeado de 6 categorías (Belleza, Tech, Hogar, Gaming, Audio, Cocina) mientras `CATEGORY_NAV` —la misma fuente que ya usa el header— tiene 10 hubs vigentes desde hace rondas. Faltaban climatización, salud y bienestar, seguridad y coleccionables. Al verificar conté mal coleccionables la primera vez (grep con comillas dobles, el catálogo mezcla comillas simples y dobles según cuándo se importó cada producto) — la cifra real es climatización 28, salud-bienestar 18, seguridad 20, coleccionables 6 (figuritas del Mundial), las cuatro con productos reales. **Gemini falló** (salida vacía, tercera vez en el historial de este loop). **Investigación externa** (ángulo accesibilidad de teclado/foco, nuevo este round): dos gaps concretos con evidencia (WCAG 2.4.1 y 2.1.2, guías de Nielsen Norman/UXPin/Primer) — no había skip-link en ninguna página, y el menú mobile ya guardaba y devolvía el foco correctamente (de una ronda anterior) pero no atrapaba el Tab dentro del panel.
+
+**Implementado (tres fixes, dos commits):**
+1. Footer alineado 1:1 con `CATEGORY_NAV` (mismo import que ya usa el header).
+2. Skip-link ("Saltar al contenido") como primer hijo del body en `layout.tsx`, oculto hasta foco, saltando a `<main id="main-content" tabIndex={-1}>`.
+3. `MobileNav.tsx`: ciclo real de Tab/Shift+Tab entre el primer y último elemento focuseable del panel (antes tabular de más se escapaba al header de atrás).
+
+**Verificado:** build de producción real (el dev server volvió a servir HTML obsoleto en `/categoria/coleccionables`, mismo gotcha de siempre — resuelto con `next start`). El harness de browser automatizado no da foco real de ventana (`document.hasFocus()` siempre `false`), así que `:focus` de CSS no se puede probar con captura de pantalla directa — verificado en cambio con la regla CSS generada (specificidad correcta) + una simulación visual manual del estado `:focus`, y el focus trap con eventos `KeyboardEvent` de Tab/Shift-Tab despachados a mano confirmando el ciclo en ambos sentidos. Nuevo gotcha anotado para rondas futuras.
+
+**Con 67 features implementadas, 67 commits locales.**
