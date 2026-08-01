@@ -702,3 +702,18 @@ Implementada la segunda idea que había quedado anotada en la iteración 16 (mí
 `tsc --noEmit`, `eslint` sobre los 2 archivos tocados y `npm run build`, todos limpios.
 
 **Con 49 features implementadas, 49 commits locales.**
+
+### Iteración 35 (2026-08-01) — se vacía la cola: wishlist compartible por URL
+
+Con la cola de ideas pendientes en cero (filtro de precio ya implementado en la ronda 34), esta ronda implementó directamente el último ítem que quedaba anotado desde la ronda 33: wishlist compartible por URL, reutilizando `Guardados`/localStorage sin backend nuevo. La API `/api/saved-products` ya aceptaba `?ids=` como lista de ids (usada internamente por `SavedProductsView`), así que compartir se resolvió armando esa misma URL del lado de quien comparte y dándole una vista de lectura del lado de quien la recibe.
+
+**Implementado:**
+1. `src/lib/use-saved-products.ts`: nueva función `addMany(ids)` — agrega ids sin pisar los que el visitante ya tenía guardados (para "Guardar toda la lista").
+2. `src/components/products/SavedProductsView.tsx`: lee `?ids=` con `useSearchParams`. Si viene con ids, entra en modo `SharedListView` (componente nuevo): fetch de esos productos puntuales, bloque "Te compartieron esta lista (N productos)" separado de los guardados propios del visitante (nunca se mezclan), botón "Guardar toda la lista" y link "Ver tus guardados". Sin `?ids=`, comportamiento normal más un botón nuevo "Compartir lista" (Web Share API si el navegador la soporta, si no copia el link al portapapeles con el mismo patrón de degradación silenciosa que ya usa `CouponBadge.tsx` — nunca peor que no tener el botón si falta el permiso).
+3. `src/app/guardados/page.tsx`: envuelto en `Suspense` (obligatorio para `useSearchParams` en esta versión de Next, mismo patrón que la home con `HomeFeed`).
+
+**Verificado en navegador:** guardando 2 productos (Monitor Samsung G3 + CRG5) y visitando el link compartido `/guardados?ids=...` desde una sesión con 1 producto propio ya guardado (Monitor Noblex), se ve el bloque "Te compartieron esta lista (2 productos)" separado, sin tocar el contador del header (seguía en 1); al tocar "Guardar toda la lista", `localStorage` pasó de `["MLA63267892"]` a `["MLA63267892","MLA45717120","MLA31178643"]` (merge correcto, sin duplicar), el botón cambió a "Guardada" y el contador del header subió a 3 en vivo. El botón "Compartir lista" en la vista propia no se pudo confirmar visualmente por el entorno de browser automatizado (permiso de clipboard denegado a nivel navegador de pruebas, no del código — mismo patrón que `CouponBadge` y `ShareButtons`, ya en producción).
+
+`tsc --noEmit` y `npm run build` limpios. `eslint` marca un solo error, preexistente en `use-saved-products.ts` y en la versión anterior de `SavedProductsView.tsx` (confirmado con `git stash` antes de tocar nada), no introducido por este cambio.
+
+**Con 50 features implementadas, 50 commits locales. Cola de ideas en cero — a partir de la próxima ronda todo sale de Codex/Gemini/investigación externa.**
