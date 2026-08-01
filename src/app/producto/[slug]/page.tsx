@@ -339,24 +339,29 @@ export default async function ProductPage({ params }: Props) {
         product={detailProduct}
         relatedProducts={explicitRelated}
         priceHistory={priceHistory}
+        hasAlternatives={promoteSimilar}
       />
 
       {product.priceStatus === "out_of_stock" && (
-        <PriceAlert
-          productId={product.id}
-          title="¿Sin stock? Te avisamos cuando vuelva"
-          subtitle="Dejanos tu mail y te escribimos si este producto vuelve al stock o baja de precio."
-          ctaLabel="Avisame"
-          doneLabel="¡Listo! Te avisamos apenas vuelva o baje de precio."
-        />
+        <div id="avisame-stock">
+          <PriceAlert
+            productId={product.id}
+            title="¿Sin stock? Te avisamos cuando vuelva"
+            subtitle="Dejanos tu mail y te escribimos si este producto vuelve al stock o baja de precio."
+            ctaLabel="Avisame"
+            doneLabel="¡Listo! Te avisamos apenas vuelva o baje de precio."
+          />
+        </div>
       )}
 
       {promoteSimilar && (
-        <SortableProductGrid
-          products={related.map(toCardProduct)}
-          title="Mientras tanto, mirá estas alternativas"
-          subtitle={`Disponibles ahora en ${product.category}`}
-        />
+        <div id="alternativas-disponibles">
+          <SortableProductGrid
+            products={related.map(toCardProduct)}
+            title="Mientras tanto, mirá estas alternativas"
+            subtitle={`Disponibles ahora en ${product.category}`}
+          />
+        </div>
       )}
 
       {/* Si el precio está en un mal momento para comprar ("conviene esperar")

@@ -1,13 +1,16 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import { ExternalLink } from "lucide-react";
+import Link from "next/link";
+import { ArrowRight, ExternalLink } from "lucide-react";
 import { AffiliateLink } from "@/components/affiliate/AffiliateLink";
 import { formatPrice } from "@/lib/utils";
 import type { Product } from "@/lib/types";
 
 interface StickyMobileCtaProps {
   product: Product;
+  /** Ver ProductDetail.tsx: si hay alternativas disponibles promovidas. */
+  hasAlternatives?: boolean;
 }
 
 /**
@@ -20,7 +23,7 @@ interface StickyMobileCtaProps {
  * Se esconde cuando el CTA del final (#product-bottom-cta) entra en pantalla,
  * para no tapar un botón que apunta al mismo lugar.
  */
-export function StickyMobileCta({ product }: StickyMobileCtaProps) {
+export function StickyMobileCta({ product, hasAlternatives = false }: StickyMobileCtaProps) {
   const [pastPrice, setPastPrice] = useState(false);
   const [bottomCtaVisible, setBottomCtaVisible] = useState(false);
 
@@ -70,15 +73,25 @@ export function StickyMobileCta({ product }: StickyMobileCtaProps) {
             {formatPrice(product.price)}
           </span>
         </div>
-        <AffiliateLink
-          href={product.affiliateUrl}
-          ctaLocation="sticky"
-          ariaLabel={`Ver ${product.title} en MercadoLibre Argentina`}
-          className="flex-1 flex items-center justify-center gap-2 px-4 py-2.5 text-sm font-semibold rounded-[var(--radius-pill)] bg-[var(--cta-bg)] text-[var(--cta-text)] hover:bg-[var(--cta-hover)] motion-safe:active:scale-95 transition-[background-color,transform]"
-        >
-          Ver en MercadoLibre Argentina
-          <ExternalLink size={14} />
-        </AffiliateLink>
+        {product.priceStatus === "out_of_stock" ? (
+          <Link
+            href={hasAlternatives ? "#alternativas-disponibles" : "#avisame-stock"}
+            className="flex-1 flex items-center justify-center gap-2 px-4 py-2.5 text-sm font-semibold rounded-[var(--radius-pill)] bg-[var(--cta-bg)] text-[var(--cta-text)] hover:bg-[var(--cta-hover)] motion-safe:active:scale-95 transition-[background-color,transform]"
+          >
+            {hasAlternatives ? "Ver alternativas" : "Avisame cuando vuelva"}
+            <ArrowRight size={14} />
+          </Link>
+        ) : (
+          <AffiliateLink
+            href={product.affiliateUrl}
+            ctaLocation="sticky"
+            ariaLabel={`Ver ${product.title} en MercadoLibre Argentina`}
+            className="flex-1 flex items-center justify-center gap-2 px-4 py-2.5 text-sm font-semibold rounded-[var(--radius-pill)] bg-[var(--cta-bg)] text-[var(--cta-text)] hover:bg-[var(--cta-hover)] motion-safe:active:scale-95 transition-[background-color,transform]"
+          >
+            Ver en MercadoLibre Argentina
+            <ExternalLink size={14} />
+          </AffiliateLink>
+        )}
       </div>
     </div>
   );

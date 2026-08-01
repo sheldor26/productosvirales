@@ -37,6 +37,10 @@ interface ProductDetailProps {
   product: Product;
   relatedProducts?: Product[];
   priceHistory?: PriceChartData | null;
+  /** Si hay 2+ alternativas disponibles promovidas más abajo en la página
+   * (ver page.tsx). Decide a dónde apunta el CTA interno cuando no hay
+   * stock: a las alternativas si existen, si no directo al "avisame". */
+  hasAlternatives?: boolean;
 }
 
 /** Estrellas de calificación (ámbar). Rellenas según round(rating). */
@@ -172,7 +176,12 @@ function parseArticle(articleBody?: string): {
   return { blocks, paraYes, paraNo };
 }
 
-export function ProductDetail({ product, relatedProducts = [], priceHistory }: ProductDetailProps) {
+export function ProductDetail({
+  product,
+  relatedProducts = [],
+  priceHistory,
+  hasAlternatives = false,
+}: ProductDetailProps) {
   const containerRef = useRef<HTMLDivElement>(null);
 
   const discount = product.originalPrice
@@ -413,15 +422,41 @@ export function ProductDetail({ product, relatedProducts = [], priceHistory }: P
                 </span>
               </div>
             )}
-            <AffiliateLink
-              href={product.affiliateUrl}
-              ctaLocation="ficha-top"
-              ariaLabel="Ir a MercadoLibre Argentina (se abre en una pestaña nueva)"
-              className="flex items-center justify-center gap-2 w-full px-6 py-3.5 text-base font-bold rounded-[var(--radius-pill)] bg-[var(--cta-bg)] text-[var(--cta-text)] hover:bg-[var(--cta-hover)] motion-safe:active:scale-[0.98] transition-[background-color,transform]"
-            >
-              Ir a MercadoLibre Argentina
-              <ExternalLink size={16} />
-            </AffiliateLink>
+            {product.priceStatus === "out_of_stock" ? (
+              <>
+                {/* Sin stock: la acción principal pasa a ser interna (alternativas
+                    disponibles o avisame), no empujar el click afiliado a una
+                    publicación que sabemos pausada. El link a MercadoLibre queda
+                    igual, solo que como acción secundaria — nunca se saca del
+                    todo, por si repuso stock desde el último chequeo. */}
+                <Link
+                  href={hasAlternatives ? "#alternativas-disponibles" : "#avisame-stock"}
+                  className="flex items-center justify-center gap-2 w-full px-6 py-3.5 text-base font-bold rounded-[var(--radius-pill)] bg-[var(--cta-bg)] text-[var(--cta-text)] hover:bg-[var(--cta-hover)] motion-safe:active:scale-[0.98] transition-[background-color,transform]"
+                >
+                  {hasAlternatives ? "Ver alternativas disponibles" : "Avisame cuando vuelva"}
+                  <ArrowRight size={16} />
+                </Link>
+                <AffiliateLink
+                  href={product.affiliateUrl}
+                  ctaLocation="ficha-top"
+                  ariaLabel="Confirmar en MercadoLibre Argentina (se abre en una pestaña nueva)"
+                  className="mt-2.5 flex items-center justify-center gap-2 w-full px-6 py-3 text-sm font-semibold rounded-[var(--radius-pill)] border border-[var(--border)] text-[var(--text-secondary)] hover:bg-[var(--bg-secondary)] transition-colors"
+                >
+                  Confirmar en MercadoLibre
+                  <ExternalLink size={14} />
+                </AffiliateLink>
+              </>
+            ) : (
+              <AffiliateLink
+                href={product.affiliateUrl}
+                ctaLocation="ficha-top"
+                ariaLabel="Ir a MercadoLibre Argentina (se abre en una pestaña nueva)"
+                className="flex items-center justify-center gap-2 w-full px-6 py-3.5 text-base font-bold rounded-[var(--radius-pill)] bg-[var(--cta-bg)] text-[var(--cta-text)] hover:bg-[var(--cta-hover)] motion-safe:active:scale-[0.98] transition-[background-color,transform]"
+              >
+                Ir a MercadoLibre Argentina
+                <ExternalLink size={16} />
+              </AffiliateLink>
+            )}
             <p className="mt-2.5 text-xs text-[var(--text-muted)] text-center leading-relaxed">
               Compra protegida en MercadoLibre · el precio puede cambiar, confirmalo allí.
               <br />
@@ -716,29 +751,41 @@ export function ProductDetail({ product, relatedProducts = [], priceHistory }: P
           style={{ opacity: 0 }}
         >
           <p className="text-lg font-bold text-white" style={{ fontFamily: "var(--font-display)" }}>
-            ¿Te convenció?
+            {product.priceStatus === "out_of_stock" ? "¿Sin stock justo ahora?" : "¿Te convenció?"}
           </p>
           <p className="mt-1 text-sm text-white opacity-70">
-            Confirmá precio y stock en MercadoLibre Argentina.
+            {product.priceStatus === "out_of_stock"
+              ? "Esta publicación figuraba pausada al último chequeo."
+              : "Confirmá precio y stock en MercadoLibre Argentina."}
           </p>
           <div className="mt-3 text-2xl font-bold text-[#ffe600]">
             {formatPrice(product.price)}
           </div>
-          <AffiliateLink
-            href={product.affiliateUrl}
-            ctaLocation="ficha-bottom"
-            ariaLabel="Comprar en MercadoLibre Argentina (se abre en una pestaña nueva)"
-            className="mt-4 inline-flex items-center justify-center gap-2 px-8 py-3.5 text-base font-bold rounded-[var(--radius-pill)] bg-[#ffe600] text-[#111111] hover:brightness-95 motion-safe:active:scale-[0.98] transition"
-          >
-            Comprar en MercadoLibre Argentina
-            <ExternalLink size={16} />
-          </AffiliateLink>
+          {product.priceStatus === "out_of_stock" ? (
+            <Link
+              href={hasAlternatives ? "#alternativas-disponibles" : "#avisame-stock"}
+              className="mt-4 inline-flex items-center justify-center gap-2 px-8 py-3.5 text-base font-bold rounded-[var(--radius-pill)] bg-[#ffe600] text-[#111111] hover:brightness-95 motion-safe:active:scale-[0.98] transition"
+            >
+              {hasAlternatives ? "Ver alternativas disponibles" : "Avisame cuando vuelva"}
+              <ArrowRight size={16} />
+            </Link>
+          ) : (
+            <AffiliateLink
+              href={product.affiliateUrl}
+              ctaLocation="ficha-bottom"
+              ariaLabel="Comprar en MercadoLibre Argentina (se abre en una pestaña nueva)"
+              className="mt-4 inline-flex items-center justify-center gap-2 px-8 py-3.5 text-base font-bold rounded-[var(--radius-pill)] bg-[#ffe600] text-[#111111] hover:brightness-95 motion-safe:active:scale-[0.98] transition"
+            >
+              Comprar en MercadoLibre Argentina
+              <ExternalLink size={16} />
+            </AffiliateLink>
+          )}
         </div>
       )}
 
       <RecentlyViewed excludeId={product.id} currentCategorySlug={product.categorySlug} />
 
-      <StickyMobileCta product={product} />
+      <StickyMobileCta product={product} hasAlternatives={hasAlternatives} />
     </div>
   );
 }
