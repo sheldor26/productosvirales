@@ -253,15 +253,30 @@ export function ProductCard({
             )}
           </div>
 
-          <AffiliateLink
-            href={affiliateUrl}
-            ctaLocation="card"
-            onClick={(e) => e.stopPropagation()}
-            className="flex items-center justify-center w-11 h-11 md:w-10 md:h-10 rounded-full bg-[var(--cta-bg)] text-[var(--cta-text)] hover:bg-[var(--cta-hover)] motion-safe:active:scale-90 transition-[background-color,transform] shrink-0"
-            ariaLabel={`Ver ${title} en MercadoLibre Argentina`}
-          >
-            <ArrowRight size={16} />
-          </AffiliateLink>
+          {product.priceStatus === "out_of_stock" ? (
+            // Sin stock: el botón redondo manda a la ficha (donde ya está el
+            // CTA interno de alternativas/avisame), no directo a una
+            // publicación que el sitio sabe pausada — mismo criterio que ya
+            // rige ProductDetail.tsx para esta situación.
+            <Link
+              href={productUrl}
+              onClick={(e) => e.stopPropagation()}
+              className="flex items-center justify-center w-11 h-11 md:w-10 md:h-10 rounded-full bg-[var(--cta-bg)] text-[var(--cta-text)] hover:bg-[var(--cta-hover)] motion-safe:active:scale-90 transition-[background-color,transform] shrink-0"
+              aria-label={`Ver alternativas para ${title} (sin stock en esta publicación)`}
+            >
+              <ArrowRight size={16} />
+            </Link>
+          ) : (
+            <AffiliateLink
+              href={affiliateUrl}
+              ctaLocation="card"
+              onClick={(e) => e.stopPropagation()}
+              className="flex items-center justify-center w-11 h-11 md:w-10 md:h-10 rounded-full bg-[var(--cta-bg)] text-[var(--cta-text)] hover:bg-[var(--cta-hover)] motion-safe:active:scale-90 transition-[background-color,transform] shrink-0"
+              ariaLabel={`Ver ${title} en MercadoLibre Argentina`}
+            >
+              <ArrowRight size={16} />
+            </AffiliateLink>
+          )}
         </div>
 
         {bestPrice && (
