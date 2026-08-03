@@ -59591,14 +59591,14 @@ Comprá la Ezviz CS-DL05 si buscás el mayor respaldo de compradores reales y no
     priceLastChecked: "2026-07-31",
     priceStatus: "fresh",
     reviewsSampledAt: "2026-07-19",
-    description: "Cerradura inteligente Fika FIK-SML01: la más económica de esta guía, con 472 opiniones reales y el mayor volumen de ventas absoluto de la categoría en MercadoLibre.",
+    description: "Cerradura inteligente Fika FIK-SML01: la más económica de esta guía, con 488 opiniones reales y el mayor volumen de ventas absoluto de la categoría en MercadoLibre.",
     seoTitle: "Fika FIK-SML01: la cerradura inteligente más vendida",
-    metaDescription: "Cerradura inteligente Fika FIK-SML01, con huella, tarjeta y app WiFi. 472 opiniones reales, 24% OFF. Precio actualizado.",
+    metaDescription: "Cerradura inteligente Fika FIK-SML01, con huella, tarjeta y app WiFi. 488 opiniones reales, 24% OFF. Precio actualizado.",
     verdict: "Sirve si buscás la cerradura inteligente más barata de esta guía con buen volumen de ventas real (badge \"más vendido\" de la categoría). Cubre huella, tarjeta, clave y app WiFi. La contra real: hay al menos una reseña de Argentina detallada y negativa sobre la confiabilidad del sensor de huella y la tarjeta, algo que vale la pena conocer antes de comprar. No es para vos si preferís la opción con mejor historial de confiabilidad: para eso, la Ezviz CS-DL05 de esta guía tiene casi 5 veces más reseñas.",
     pros: [
       "La más barata de esta guía, con 24% de descuento",
       "Badge \"más vendido\" de la categoría completa en MercadoLibre",
-      "472 calificaciones reales",
+      "488 calificaciones reales",
       "4 métodos de apertura: app WiFi, clave, huella, tarjeta RFID",
       "Hasta 100 huellas/tarjetas/códigos registrables",
     ],
@@ -59618,7 +59618,7 @@ Con apertura por app WiFi, clave numérica, huella digital y tarjeta RFID, permi
 
 ## La contra real
 
-Encontramos una reseña de Argentina detallada y honesta que vale la pena conocer antes de comprar: "la cerradura es malísima no la recomiendo para nada, deja de leer la huella todo el tiempo... la tarjeta que trae abre cuando quiere. Siempre marca error... la app tampoco cumple ninguna función útil, no te abre la puerta", con 23 votos útiles. No es la experiencia mayoritaria (472 calificaciones con buen promedio), pero es un contra real y específico que preferimos mostrar tal cual.
+Encontramos una reseña de Argentina detallada y honesta que vale la pena conocer antes de comprar: "la cerradura es malísima no la recomiendo para nada, deja de leer la huella todo el tiempo... la tarjeta que trae abre cuando quiere. Siempre marca error... la app tampoco cumple ninguna función útil, no te abre la puerta", con 23 votos útiles. No es la experiencia mayoritaria (488 calificaciones con buen promedio), pero es un contra real y específico que preferimos mostrar tal cual.
 
 ## Cómo se compara con los otros de esta guía
 
@@ -59630,7 +59630,7 @@ Comprá la Fika FIK-SML01 si el precio es tu prioridad y el volumen de ventas te
     faq: [
       {
         question: "¿Es confiable el sensor de huella?",
-        answer: "La mayoría de las 472 calificaciones son positivas, pero encontramos al menos una reseña real de Argentina que reporta fallas de lectura repetidas. Vale la pena conocerlo antes de decidir.",
+        answer: "La mayoría de las 488 calificaciones son positivas, pero encontramos al menos una reseña real de Argentina que reporta fallas de lectura repetidas. Vale la pena conocerlo antes de decidir.",
       },
       {
         question: "¿Tiene Bluetooth?",
@@ -59820,7 +59820,7 @@ Comprá el Aqara U200 si no querés reemplazar el cilindro exterior de tu cerrad
     description: "Cerradura inteligente Aqara U300: empotrable, con huella digital y tarjeta RFID, WiFi y Bluetooth. Según el fabricante, soporta Apple Home Key. Respaldo de marca Aqara en un diseño más accesible que el U200.",
     seoTitle: "Aqara U300: cerradura inteligente empotrable",
     metaDescription: "Cerradura inteligente Aqara U300, empotrable, huella digital y WiFi/Bluetooth. Fabricante confirmado. Precio actualizado.",
-    verdict: "Sirve si buscás el respaldo de marca Aqara en una cerradura empotrable más accesible que el U200 de la misma marca. Ambidiestra, con huella digital, tarjeta RFID, WiFi y Bluetooth. El fabricante confirma compatibilidad con Apple Home Key y Matter para este modelo, aunque la ficha de MercadoLibre no lo menciona explícitamente. La contra real: base de reseñas todavía chica (8 opiniones), sin ninguna crítica negativa documentada todavía. No es para vos si buscás el mayor historial de compradores reales: para eso, la Ezviz CS-DL05 de esta guía tiene cientos de veces más reseñas.",
+    verdict: "Sirve si buscás el respaldo de marca Aqara en una cerradura empotrable más accesible que el U200 de la misma marca. Ambidiestra, con huella digital, tarjeta RFID, WiFi y Bluetooth. El fabricante confirma compatibilidad con Apple Home Key y Matter para este modelo, aunque la ficha de MercadoLibre no lo menciona explícitamente. La contra real: base de reseñas todavía chica (9 opiniones), sin ninguna crítica negativa documentada todavía. No es para vos si buscás el mayor historial de compradores reales: para eso, la Ezviz CS-DL05 de esta guía tiene cientos de veces más reseñas.",
     pros: [
       "Respaldo de marca Aqara (fabricante confirmado, aqara.com) en una cerradura empotrable",
       "Huella digital y tarjeta RFID, con WiFi y Bluetooth",
@@ -59829,7 +59829,7 @@ Comprá el Aqara U200 si no querés reemplazar el cilindro exterior de tu cerrad
       "Carga de emergencia por USB-C si se agotan las pilas",
     ],
     cons: [
-      "Base de reseñas todavía chica (8 opiniones), sin ninguna crítica negativa documentada todavía en la muestra disponible",
+      "Base de reseñas todavía chica (9 opiniones), sin ninguna crítica negativa documentada todavía en la muestra disponible",
       "La ficha de MercadoLibre no menciona Apple Home Key ni Matter, pese a que el fabricante los confirma para este modelo: verificar con el vendedor antes de comprar si esa función es determinante",
       "Cuerpo de plástico ABS, no acero inoxidable como el U200",
       "Requiere reemplazar la cerradura tubular de embutir existente",
@@ -59844,7 +59844,7 @@ Con apertura por huella digital y tarjeta RFID, conecta por WiFi y Bluetooth. Fu
 
 ## La contra real
 
-Con solo 8 calificaciones, todavía no hay suficiente historial para evaluar a fondo su confiabilidad a largo plazo, aunque las reseñas disponibles son consistentemente positivas y una de ellas confirma el uso con Apple en la práctica: "excelente producto. Lo estoy usando de forma nativa en el ecosistema de Apple" y "producto de calidad y fácil de instalar. Vale cada centavo". No encontramos ninguna crítica negativa en la muestra disponible.
+Con solo 9 calificaciones, todavía no hay suficiente historial para evaluar a fondo su confiabilidad a largo plazo, aunque las reseñas disponibles son consistentemente positivas y una de ellas confirma el uso con Apple en la práctica: "excelente producto. Lo estoy usando de forma nativa en el ecosistema de Apple" y "producto de calidad y fácil de instalar. Vale cada centavo". No encontramos ninguna crítica negativa en la muestra disponible.
 
 ## Cómo se compara con los otros de esta guía
 
