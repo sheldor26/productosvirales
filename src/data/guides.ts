@@ -21350,8 +21350,8 @@ export const guides: Guide[] = [
       { type: "p", content: `La contra real: la base es de fundición y puede rayar pisos delicados según una reseña, y viene totalmente desarmado con instructivo flojo, igual que el resto de la categoría.` },
 
       { type: "h3", title: `4. Liliana VP20K — aspas de metal, 3 en 1` },
-      { type: "product-card", productMlaId: "MLA41701462", label: "Aspas de metal, 3 en 1", labelColor: "purple", ranking: 4, description: `Formato pie, turbo y pared. Único de la guía con aspas de metal. 2 años de garantía de fábrica, confirmados en el sitio oficial de Liliana.` },
-      { type: "p", content: `El único ventilador de esta guía con aspas de metal en lugar de plástico, con formato turbo real y la garantía de fábrica más larga de la comparativa (2 años, confirmados en liliana.com.ar), a alrededor de {{precio:MLA41701462:k}}.` },
+      { type: "product-card", productMlaId: "MLA41701462", label: "Aspas de metal, 3 en 1", labelColor: "purple", ranking: 4, description: `Formato pie, turbo y pared. Único de la guía con aspas de metal en vez de aluminio o plástico. 2 años de garantía de fábrica, confirmados en el sitio oficial de Liliana.` },
+      { type: "p", content: `El único ventilador de esta guía con aspas de metal en vez de aluminio o plástico, con formato turbo real y la garantía de fábrica más larga de la comparativa (2 años, confirmados en liliana.com.ar), a alrededor de {{precio:MLA41701462:k}}.` },
       { type: "p", content: `Lo honesto: es de los más caros de esta guía, y la perilla para regular la velocidad está ubicada en el cabezal, una posición incómoda según más de una reseña.` },
 
       { type: "h2", title: `Tabla comparativa: rating, ruido y funciones`, id: "tabla-comparativa" },
@@ -21364,11 +21364,11 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Cómo elegir tu ventilador de pie`, id: "como-elegir" },
       { type: "h3", title: `¿Rating alto o volumen de reseñas?` },
-      { type: "p", content: `Los cuatro de esta guía tienen entre 4.5 y 4.8 estrellas, una diferencia chica. Lo que más cambia es el volumen: el Winco tiene 10.551 opiniones contra las 376 del Kanji. Con más de 300 reseñas ya hay una base sólida para confiar en el rating; por debajo de eso, conviene leer los comentarios de texto antes de decidir.` },
+      { type: "p", content: `Los cuatro de esta guía tienen entre 4.5 y 4.8 estrellas, una diferencia chica. Lo que más cambia es el volumen: el [Winco](/producto/MLA19884110) tiene 10.551 opiniones, casi siete veces más que el [Peabody](/producto/MLA41606856) (1.612) y mucho más que las 376 del [Kanji](/producto/MLA29273448). Con más de 300 reseñas ya hay una base sólida para confiar en el rating; por debajo de eso, conviene leer los comentarios de texto antes de decidir.` },
       { type: "h3", title: `¿Control remoto o ahorro?` },
-      { type: "p", content: `Solo el Kanji Home lo incluye entre estos cuatro, a un precio medio. Si el control remoto no es indispensable, el Winco cubre lo esencial a un precio bastante menor.` },
-      { type: "h3", title: `¿Aspas de plástico o de metal?` },
-      { type: "p", content: `La Liliana es la única con aspas metálicas, lo que en teoría suma durabilidad frente al plástico. A cambio, es de las más caras de la guía.` },
+      { type: "p", content: `Solo el [Kanji Home](/producto/MLA29273448) lo incluye entre estos cuatro, a un precio medio. Si el control remoto no es indispensable, el [Winco](/producto/MLA19884110) cubre lo esencial a un precio bastante menor.` },
+      { type: "h3", title: `¿Aspas de plástico, aluminio o metal?` },
+      { type: "p", content: `El [Winco](/producto/MLA19884110) tiene aspas de aluminio y el resto son de plástico, pero la [Liliana](/producto/MLA41701462) es la única con aspas de metal (no aluminio), lo que en teoría suma durabilidad frente a las otras dos opciones. A cambio, es de las más caras de la guía.` },
 
       { type: "h2", title: `Cuánto cuesta un ventilador de pie en Argentina [julio 2026]`, id: "cuanto-cuesta" },
       { type: "list", content: "Franjas de precio reales", items: [
