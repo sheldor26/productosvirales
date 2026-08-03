@@ -685,3 +685,25 @@ Plantilla para cada medición nueva:
 | :-- | :-- | :-- | :-- | :-- |
 | ejemplo-slug | 343 → 520 | 1 → 6 | 7.10 → 5.8 | CTR recuperado + subió posición |
 -->
+
+---
+
+## Test de tono (no de SEO): proyector-portatil, 2026-08-03
+
+No es una optimización de ranking, es un test de conversión secuencial (antes/después, sin split de tráfico — el sitio no tiene infraestructura de A/B testing). Origen: reporte semanal SEO/AEO del 2026-08-03 (loop `weekly-seo-aeo-loop`, snapshot GSC #33) marcó que `proyector-portatil` tiene el mejor engagement del sitio (GA4: 168 vistas, 461s de sesión promedio en 28 días, muy por encima del promedio de 150-250s) pero **0 clicks de afiliado** en el mismo período — la única guía del top 10 de tráfico ausente del ranking de afiliados.
+
+**Hipótesis de Claude:** no es un problema de CTAs (se verificó el componente `ProductCard`/`QuickPicks`/`AboveFoldCta`: estructura idéntica a `cafetera-express`, que sí convierte). Es de tono: los 6 productos ranqueados repetían la misma tríada de advertencias ("los lúmenes son marketing", "es HD no 4K", "Netflix no anda oficial") en cada uno de los 6 párrafos de "contras", generando desconfianza acumulada pese a que ningún dato individual era falso.
+
+**Cambio aplicado (commit pendiente de confirmación de trío):** se consolidaron las 3 advertencias compartidas en un callout único y temprano (antes del ranking), y se reescribieron los párrafos de 4 de los 6 productos para no repetirlas, dejando solo lo específico de cada modelo (ej.: el Gadnic declara "FHD" en el título pero 720p nativo — eso sí es propio de ese modelo y se mantuvo). Ningún dato honesto se quitó, solo se dejó de repetir 6 veces lo que aplica a los 6 por igual. `sitemapLastmod` actualizado a 2026-08-03, `updatedDate` sin tocar a propósito.
+
+**Baseline (GA4 + GSC, 28 días al 2026-08-01, antes del cambio):**
+
+| Métrica | Valor |
+| :-- | :-- |
+| GSC impresiones | 1.854 |
+| GSC clicks | 29 |
+| GA4 vistas | 168 |
+| GA4 sesión promedio | 461 s |
+| GA4 clicks de afiliado | 0 |
+
+**Próxima medición agendada: ~2026-08-31 (≈4 semanas).** Criterio de éxito: que aparezcan clicks de afiliado sin que la sesión promedio se derrumbe (si cae mucho, sería señal de que se perdió el enganche, no solo la desconfianza). Si a las 4 semanas sigue en 0, la hipótesis de tono no alcanza y el problema es de intención de búsqueda/audiencia, no de redacción.
