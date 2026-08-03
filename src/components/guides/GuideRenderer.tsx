@@ -722,9 +722,10 @@ export function GuideRenderer({ guide: rawGuide }: GuideRendererProps) {
               Preguntas frecuentes
             </h2>
           )}
-          {guide.faq.map((item) => (
+          {guide.faq.map((item, index) => (
             <details
               key={item.question}
+              open={index === 0}
               className="group rounded-[var(--radius-card)] border border-[var(--border)] overflow-hidden"
             >
               <summary className="flex items-center justify-between px-4 py-3 cursor-pointer text-[15px] font-semibold text-[var(--text-primary)] hover:bg-[var(--bg-secondary)] transition-colors">
