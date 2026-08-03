@@ -21971,8 +21971,8 @@ export const guides: Guide[] = [
 
       { type: "h3", title: `4. Aqara U300 — empotrable, marca confirmada` },
       { type: "product-card", productMlaId: "MLA45403665", label: "Empotrable, marca Aqara", labelColor: "purple", ranking: 4, description: `Empotrable, huella digital y tarjeta RFID, WiFi y Bluetooth. 5.0 estrellas, base de opiniones chica (9).` },
-      { type: "p", content: `El respaldo de marca Aqara (fabricante confirmado) en una cerradura empotrable más accesible que el U200, a alrededor de {{precio:MLA45403665:k}}.` },
-      { type: "p", content: `Lo honesto: base de reseñas todavía chica, y aunque el fabricante confirma que soporta Apple Home Key, la ficha de MercadoLibre no lo declara explícito como sí lo hace la del U200.` },
+      { type: "p", content: `El respaldo de marca Aqara (fabricante confirmado) en una cerradura empotrable más accesible que el [Aqara U200](/producto/MLA38827156), a alrededor de {{precio:MLA45403665:k}}.` },
+      { type: "p", content: `Lo honesto: base de reseñas todavía chica, y aunque el fabricante confirma que soporta Apple Home Key, la ficha de MercadoLibre no lo declara explícito como sí lo hace la del [Aqara U200](/producto/MLA38827156).` },
 
       { type: "h2", title: `Tabla comparativa: instalación y métodos de apertura`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Instalación`, `Apertura`, `Ideal para`], rows: [

@@ -59542,7 +59542,7 @@ Comprá la Ezviz CS-DL05 si buscás el mayor respaldo de compradores reales y no
         "@type": "Offer",
         url: "https://www.mercadolibre.com.ar/ezviz-cs-dl05-cerradura-inteligente-con-huella-dactilar-color-gris/p/MLA37807940",
         priceCurrency: "ARS",
-        price: "347510",
+        price: "319999",
         availability: "https://schema.org/InStock",
       },
       aggregateRating: {
@@ -59661,8 +59661,8 @@ Comprá la Fika FIK-SML01 si el precio es tu prioridad y el volumen de ventas te
       },
       aggregateRating: {
         "@type": "AggregateRating",
-        ratingValue: "4.7",
-        reviewCount: "472",
+        ratingValue: "4.8",
+        reviewCount: "488",
       },
     },
   },
@@ -59888,7 +59888,7 @@ Comprá el Aqara U300 si querés el respaldo de una marca con fabricante confirm
       aggregateRating: {
         "@type": "AggregateRating",
         ratingValue: "5.0",
-        reviewCount: "8",
+        reviewCount: "9",
       },
     },
   },
