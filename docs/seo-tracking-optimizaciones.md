@@ -447,6 +447,20 @@ Origen: Juan pidió completar los silos con menos guías del sitio (agua-calient
 
 Próxima medición sugerida: cuando Juan publique (sin fecha fija todavía, están en STAGED).
 
+### Re-revisión pre-publicación 2026-08-03 (4 de las guías STAGED, elegidas por volumen/dificultad SEO)
+
+Juan pidió elegir las 4 más interesantes de las 6 guías STAGED (`ventilador-de-pie` 33.100/mes con timing estacional, `cepillo-de-dientes-electrico` y `cerradura-inteligente` por menor dificultad SEO del barrido, `alarma-para-casa` por CPC alto) y pasarlas de nuevo por `/optimizador-guias-pv` + `/trio-auditor` antes de publicar, con foco explícito en enlazado interno ficha↔guía y SEO/GEO. Estas guías ya habían pasado por un trío auditor al crearse (ver entradas de arriba, 2026-07-19) — esta es una segunda pasada, ~2 semanas después, y encontró que los datos hardcodeados en prosa (reviewCount, principalmente) ya habían driftado del catálogo real en ese lapso, más un hallazgo factual nuevo.
+
+**Confirmado en el proceso (aplica a las 4, no hace falta repetirlo por guía):** el enlazado ficha→guía es automático (`src/lib/related-guides.ts`, `guidesForProduct`/`nextStepLinksForProduct`, escanea IDs MLA en toda guía publicada) — no requiere trabajo manual, aparece solo cuando se publique cada guía.
+
+**Hallazgo de renderer sitewide (durante la revisión de ventilador-de-pie):** `docs/guias.md` exige que la 1ª pregunta del FAQ quede abierta por defecto, pero `GuideRenderer.tsx` nunca lo implementaba — afectaba a las 158 guías publicadas del sitio, no solo a las STAGED. Corregido con un cambio de una línea (`open={index === 0}`), verificado en una guía real publicada.
+
+| Slug | Silo | Estado | Trío (GO) |
+| :-- | :-- | :-- | :-- |
+| ventilador-de-pie | climatizacion (pillar) | STAGED, lista para publicar | Codex + Gemini GO (3 rondas: contradicción factual real —"la Liliana es la única con aspas de metal" ignoraba que la ficha del Winco declara "aspas de aluminio", y el aluminio también es metal, corregido aclarando los 3 materiales reales—; frase ambigua "casi siete veces más que el segundo de la lista" corregida a medias en la ronda 1 —quedó una instancia sin arreglar en el bloque más visible, la encontraron ambos auditores por separado en la ronda 2—; 3 menciones de producto sin link en la sección "Cómo elegir") + 4 conteos de reseñas desactualizados corregidos por Claude antes de la primera pasada del trío (Peabody 1.602→1.612, Winco 10.528→10.551, Kanji 372→376, Liliana 4.259→4.192) |
+
+Próxima medición sugerida: cuando Juan publique (sin fecha fija todavía, están en STAGED). Pendiente completar esta tabla con las otras 3 guías (`cepillo-de-dientes-electrico`, `cerradura-inteligente`, `alarma-para-casa`) a medida que se cierren.
+
 ### Guías creadas de cero 2026-07-19 (3ra tanda: completar silos existentes) — STAGED, sin publicar
 
 Origen: de las 5 candidatas con volumen ya validado en el research del 16-jul (smartwatch, tostadora, parrilla eléctrica, alarma para casa, cerradura inteligente — esta última ya ejecutada en la tanda anterior), Juan eligió 4 de 5, descartando tostadora (cocina ya tiene 10 guías, keyword más genérica del grupo). Las 4 elegidas encajan en silos ya existentes, ninguna abre categoría nueva. Mismo criterio STAGED de la tanda anterior.
