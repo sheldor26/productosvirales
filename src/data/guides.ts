@@ -21960,7 +21960,7 @@ export const guides: Guide[] = [
       { type: "pull-quote", content: `"En la descripción decía que era apto para aberturas de 30mm a 110mm de espesor. Mi puerta tiene 85mm y no llega el vástago que trae. Tuve que comprar otro."`, attribution: `Opinión verificada en MercadoLibre` },
 
       { type: "h3", title: `2. Fika FIK-SML01 — la más económica` },
-      { type: "product-card", productMlaId: "MLA52016410", label: "La más económica", labelColor: "slate", ranking: 2, description: `Empotrable, con huella, tarjeta, clave y app WiFi. 4.7 estrellas en 472 calificaciones, la más vendida por volumen de la categoría.` },
+      { type: "product-card", productMlaId: "MLA52016410", label: "La más económica", labelColor: "slate", ranking: 2, description: `Empotrable, con huella, tarjeta, clave y app WiFi. 4.8 estrellas en 488 calificaciones, la más vendida por volumen de la categoría.` },
       { type: "p", content: `La más barata de esta guía, con 24% de descuento y el mayor volumen de ventas absoluto de la categoría en MercadoLibre, a alrededor de {{precio:MLA52016410:k}}.` },
       { type: "p", content: `Lo honesto: encontramos al menos una reseña real de Argentina con problemas de confiabilidad en el sensor de huella y la tarjeta.` },
 
@@ -21970,7 +21970,7 @@ export const guides: Guide[] = [
       { type: "p", content: `Lo honesto: la base de reseñas es chica (7) y es la más cara de la comparativa.` },
 
       { type: "h3", title: `4. Aqara U300 — empotrable, marca confirmada` },
-      { type: "product-card", productMlaId: "MLA45403665", label: "Empotrable, marca Aqara", labelColor: "purple", ranking: 4, description: `Empotrable, huella digital y tarjeta RFID, WiFi y Bluetooth. 5.0 estrellas, base de opiniones chica (8).` },
+      { type: "product-card", productMlaId: "MLA45403665", label: "Empotrable, marca Aqara", labelColor: "purple", ranking: 4, description: `Empotrable, huella digital y tarjeta RFID, WiFi y Bluetooth. 5.0 estrellas, base de opiniones chica (9).` },
       { type: "p", content: `El respaldo de marca Aqara (fabricante confirmado) en una cerradura empotrable más accesible que el U200, a alrededor de {{precio:MLA45403665:k}}.` },
       { type: "p", content: `Lo honesto: base de reseñas todavía chica, y aunque el fabricante confirma que soporta Apple Home Key, la ficha de MercadoLibre no lo declara explícito como sí lo hace la del U200.` },
 
@@ -21984,11 +21984,11 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Cómo elegir tu cerradura inteligente`, id: "como-elegir" },
       { type: "h3", title: `¿Empotrable o retrofit?` },
-      { type: "p", content: `La mayoría de esta guía es empotrable: reemplaza el mecanismo interno de tu cerradura actual. Si no querés perforar ni cambiar el cilindro exterior, el Aqara U200 es la única opción retrofit de esta guía.` },
+      { type: "p", content: `La mayoría de esta guía es empotrable: reemplaza el mecanismo interno de tu cerradura actual. Si no querés perforar ni cambiar el cilindro exterior, el [Aqara U200](/producto/MLA38827156) es la única opción retrofit de esta guía.` },
       { type: "h3", title: `¿Qué medidas tiene tu puerta?` },
       { type: "p", content: `Medí el grosor real de tu puerta antes de comprar. Es la causa más repetida de reclamos en esta categoría: el vástago o mecanismo incluido puede no ajustarse a puertas más gruesas de lo declarado.` },
       { type: "h3", title: `¿Necesitás Apple Home Key o un ecosistema específico?` },
-      { type: "p", content: `El Aqara U200 y el Aqara U300 de esta guía soportan Apple Home Key según el fabricante, aunque solo la ficha de MercadoLibre del U200 lo declara explícito. La Ezviz y la Fika funcionan con apps propias e integraciones más genéricas.` },
+      { type: "p", content: `El [Aqara U200](/producto/MLA38827156) y el [Aqara U300](/producto/MLA45403665) de esta guía soportan Apple Home Key según el fabricante, aunque solo la ficha de MercadoLibre del U200 lo declara explícito. La [Ezviz](/producto/MLA37807940) y la [Fika](/producto/MLA52016410) funcionan con apps propias e integraciones más genéricas.` },
 
       { type: "verdict", content: `Para la mayoría, la **[Ezviz CS-DL05](/producto/MLA37807940)** es la compra más segura: el mayor respaldo de compradores reales de esta guía. Si el precio manda, la **[Fika FIK-SML01](/producto/MLA52016410)**. Si no querés tocar el cilindro exterior de tu puerta, el **[Aqara U200](/producto/MLA38827156)**. Y si preferís el respaldo de marca en formato empotrable, el **[Aqara U300](/producto/MLA45403665)**.` },
     ],
