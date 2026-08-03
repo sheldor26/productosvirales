@@ -21536,11 +21536,11 @@ export const guides: Guide[] = [
 
       { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, el **[Oral-B Power Charcoal](/producto/MLA44745272)**: la marca más reconocida, con 3.386 opiniones reales, aunque funciona a pilas. Si preferís **recargable con sensor de presión**, el **[Suono Premium USB-C](/producto/MLA48897992)**, más barato y más completo. Y para **otra marca reconocida** vendida por Tienda Oficial, el **[GUM Sonic Power](/producto/MLA19856533)**.` },
 
-      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos los cepillos de dientes eléctricos con más ventas y opiniones reales en MercadoLibre Argentina. Descartamos publicaciones de importación con muy pocas reseñas (línea Oral-B iO, Vitality importado), ya que no reflejan volumen de venta real en el país. Los ordenamos por lo que define la compra: a pilas o recargable, sensor de presión, volumen de reseñas y precio. Las calificaciones y las contras son de compradores reales. Precios de julio 2026, revisados periódicamente.` },
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos los cepillos de dientes eléctricos con más ventas y opiniones reales en MercadoLibre Argentina. Descartamos publicaciones de importación con muy pocas reseñas (línea Oral-B iO), ya que no reflejan volumen de venta real en el país. Los ordenamos por lo que define la compra: a pilas o recargable, sensor de presión, volumen de reseñas y precio. Las calificaciones y las contras son de compradores reales. Precios de julio 2026, revisados periódicamente.` },
 
       { type: "h2", title: `Qué mirar antes de comprar un cepillo de dientes eléctrico`, id: "que-mirar" },
       { type: "p", content: `Primero, **a pilas o recargable**. Los modelos a pilas no necesitan cargador ni base, pero las pilas incluidas de fábrica suelen ser de baja calidad y duran poco. Los recargables cargan por USB o base y en general salen más baratos con más funciones, aunque con menos volumen de reseñas en el mercado argentino. Segundo, el **sensor de presión**: avisa cuando cepillás con demasiada fuerza, algo que ningún modelo económico a pilas de esta guía incluye. Tercero, la **cantidad de modos de cepillado**: los básicos tienen uno solo; los más completos, varios.` },
-      { type: "p", content: `Un dato de mercado que vale la pena conocer: en MercadoLibre Argentina, las líneas premium de Oral-B con sensor y conectividad (iO, Vitality en algunas publicaciones) se venden mayormente por importación directa, con muy pocas reseñas todavía. No las incluimos en el ranking principal de esta guía por esa razón: el volumen real de venta local en esa franja de producto todavía es bajo.` },
+      { type: "p", content: `Un dato de mercado que vale la pena conocer: en MercadoLibre Argentina, la línea premium Oral-B iO (con sensor y conectividad a una app) se vende mayormente por importación directa, con muy pocas reseñas todavía. No la incluimos en el ranking principal de esta guía por esa razón: el volumen real de venta local en esa franja de producto todavía es bajo.` },
 
       { type: "h2", title: `Los mejores cepillos de dientes eléctricos 2026`, id: "ranking" },
 
@@ -21556,8 +21556,8 @@ export const guides: Guide[] = [
       { type: "p", content: `Lo honesto: su base de 67 calificaciones es la más chica de esta guía, y no encontramos ninguna crítica negativa documentable en el research disponible.` },
 
       { type: "h3", title: `3. GUM Sonic Power — otra marca reconocida` },
-      { type: "product-card", productMlaId: "MLA19856533", label: "Otra marca reconocida", labelColor: "blue", ranking: 3, description: `A pilas, tecnología sónica, vendido por Tienda Oficial. 4.7 estrellas en 855 calificaciones, 30% de descuento.` },
-      { type: "p", content: `La alternativa a Oral-B con más respaldo de esta guía: 855 calificaciones reales, vendida por Tienda Oficial en MercadoLibre con 30% de descuento, a alrededor de {{precio:MLA19856533:k}}.` },
+      { type: "product-card", productMlaId: "MLA19856533", label: "Otra marca reconocida", labelColor: "blue", ranking: 3, description: `A pilas, tecnología sónica, vendido por Tienda Oficial. 4.7 estrellas en 855 calificaciones, con descuento.` },
+      { type: "p", content: `La alternativa a Oral-B con más respaldo de esta guía: 855 calificaciones reales, vendida por Tienda Oficial en MercadoLibre con descuento, a alrededor de {{precio:MLA19856533:k}}.` },
       { type: "p", content: `Aviso de honestidad: no encontramos reseñas de texto disponibles para este producto al momento del research, solo el agregado de calificaciones, así que no hay una crítica textual específica para citar.` },
 
       { type: "h2", title: `Tabla comparativa: alimentación y funciones`, id: "tabla-comparativa" },
@@ -21569,11 +21569,11 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Cómo elegir tu cepillo de dientes eléctrico`, id: "como-elegir" },
       { type: "h3", title: `¿A pilas o recargable?` },
-      { type: "p", content: `A pilas no depende de cargar batería, pero las pilas incluidas de fábrica suelen durar poco. Recargable evita comprar pilas seguido, aunque hay que acordarse de cargarlo (la Suono de esta guía dura aproximadamente una semana por carga).` },
+      { type: "p", content: `A pilas no depende de cargar batería, pero las pilas incluidas de fábrica suelen durar poco. Recargable evita comprar pilas seguido, aunque hay que acordarse de cargarlo (la [Suono](/producto/MLA48897992) de esta guía dura aproximadamente una semana por carga).` },
       { type: "h3", title: `¿Necesitás sensor de presión?` },
-      { type: "p", content: `Si cepillás con fuerza o tenés encías sensibles, el sensor avisa cuando estás presionando de más. Ninguno de los dos modelos a pilas de esta guía lo incluye; la Suono Premium sí.` },
+      { type: "p", content: `Si cepillás con fuerza o tenés encías sensibles, el sensor avisa cuando estás presionando de más. Ninguno de los dos modelos a pilas de esta guía lo incluye ([Oral-B](/producto/MLA44745272) y [GUM](/producto/MLA19856533)); la [Suono Premium](/producto/MLA48897992) sí.` },
       { type: "h3", title: `¿Marca reconocida o más funciones?` },
-      { type: "p", content: `Oral-B y GUM son marcas con más historia y volumen de venta en Argentina. Si preferís priorizar funciones (sensor, modos, batería recargable) por sobre el reconocimiento de marca, la Suono rinde más por menos plata.` },
+      { type: "p", content: `[Oral-B](/producto/MLA44745272) y [GUM](/producto/MLA19856533) son marcas con más historia y volumen de venta en Argentina. Si preferís priorizar funciones (sensor, modos, batería recargable) por sobre el reconocimiento de marca, la [Suono](/producto/MLA48897992) rinde más por menos plata.` },
 
       { type: "verdict", content: `Para la mayoría, el **[Oral-B Power Charcoal](/producto/MLA44745272)** es la compra más segura: la marca más reconocida, con el mayor volumen de reseñas de esta guía. Si preferís recargable con sensor de presión y más funciones a menor precio, el **[Suono Premium USB-C](/producto/MLA48897992)**. Y si buscás otra marca reconocida con buen respaldo, el **[GUM Sonic Power](/producto/MLA19856533)**.` },
     ],
