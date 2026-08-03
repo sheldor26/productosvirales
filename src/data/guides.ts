@@ -981,7 +981,7 @@ export const guides: Guide[] = [
         [`[Alpina PRE-FT055](https://meli.la/2CJ8LqU)`, `{{precio:MLA47084299}}`, `Cuero sintético`, `Uso normal`, `Alternativa de valor`],
         [`[Cougar Fusion EX](https://meli.la/1drE2G6)`, `{{precio:MLA69124616}}`, `Tela (fresca)`, `Uso intensivo`, `No transpirar / verano`],
         [`[Cougar Armor Elite](https://meli.la/1Z2hdW6)`, `$379.999`, `Cuero PVC transpirable`, `Hasta 120 kg`, `Premium que dura`],
-        [`[Corsair T3 Rush](https://meli.la/1fUDsKj)`, `$786.110`, `Tela (transpirable)`, `Uso intensivo`, `Premium de marca top`],
+        [`[Corsair T3 Rush](https://meli.la/1fUDsKj)`, `{{precio:MLA16171813}}`, `Tela (transpirable)`, `Uso intensivo`, `Premium de marca top`],
       ] },
 
       { type: "h2", title: `Cómo elegir tu silla gamer`, id: "como-elegir" },
@@ -996,7 +996,7 @@ export const guides: Guide[] = [
       { type: "list", items: [
         `**$143.000 a $156.000:** las de entrada, la franja que conviene para la mayoría. La [Alpina FT-088](https://meli.la/1t2j7zH) (la más vendida) y la [PRE-FT055](https://meli.la/2CJ8LqU), en cuero sintético.`,
         `**$260.000 a $380.000:** las premium. La [Cougar Fusion EX](https://meli.la/1drE2G6) (tela, fresca) y la [Cougar Armor Elite](https://meli.la/1Z2hdW6) (robusta, 120 kg, la mejor valorada).`,
-        `**$786.000 o más:** la de marca tope. La [Corsair T3 Rush](https://meli.la/1fUDsKj), solo si querés lo mejor sin mirar el precio.`,
+        `**{{precio:MLA16171813:k}} o más:** la de marca tope. La [Corsair T3 Rush](https://meli.la/1fUDsKj), solo si querés lo mejor sin mirar el precio.`,
       ] },
 
       { type: "h2", title: `Veredicto: cuál silla gamer comprar`, id: "veredicto" },
@@ -1338,7 +1338,7 @@ export const guides: Guide[] = [
       { type: "table", headers: [`Modelo`, `Precio desde`, `Conexión`, `Peso`, `Ideal para`], rows: [
         [`[Redragon M601 RGB](https://meli.la/2rXZqbu)`, `$26.500`, `Cable`, `85-104 g (pesas)`, `El más barato con respaldo`],
         [`[Logitech G203](https://meli.la/2EEbq8S)`, `{{precio:MLA44849297}}`, `Cable`, `85 g`, `El más vendido, compra segura`],
-        [`[Logitech G305](https://meli.la/1dDyCA3)`, `$56.099`, `Inalámbrico (pila AA)`, `99 g`, `El inalámbrico clásico`],
+        [`[Logitech G305](https://meli.la/1dDyCA3)`, `{{precio:MLA11259955}}`, `Inalámbrico (pila AA)`, `99 g`, `El inalámbrico clásico`],
         [`[Logitech G309](https://meli.la/26ynmBo)`, `{{precio:MLA40568693}}`, `Inalámbrico + Bluetooth`, `86 g`, `Inalámbrico moderno, mano chica`],
         [`[Logitech G Pro Wireless](https://meli.la/2HqvQqv)`, `$140.923`, `Inalámbrico (recargable)`, `80 g`, `E-sports, apto zurdos`],
         [`[PRO X Superlight 2](https://meli.la/2ZRDxvS)`, `{{precio:MLA28598537}}`, `Inalámbrico (USB-C)`, `60 g`, `Competitivo profesional`],
