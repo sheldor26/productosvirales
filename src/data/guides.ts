@@ -21311,7 +21311,7 @@ export const guides: Guide[] = [
     standfirst: `Un ventilador de pie va de {{precio:MLA19884110:k}} (el más vendido) a {{precio:MLA41701462:k}} (el de aspas de metal con formato 3 en 1). La decisión real pasa por rating, control remoto y ruido declarado, no solo por precio. Te mostramos cuál conviene, con precios reales de MercadoLibre.`,
     quickPicks: [
       { productMlaId: "MLA41606856", label: "Mejor elección general", labelColor: "green", tagline: "Peabody PE-VP1860N: el mejor calificado, con altura ajustable y 59 dB declarados" },
-      { productMlaId: "MLA19884110", label: "El más vendido", labelColor: "slate", tagline: "Winco W118: 10.528 opiniones reales, el precio más bajo de esta guía" },
+      { productMlaId: "MLA19884110", label: "El más vendido", labelColor: "slate", tagline: "Winco W118: 10.551 opiniones reales, el precio más bajo de esta guía" },
       { productMlaId: "MLA29273448", label: "Con control remoto", labelColor: "blue", tagline: "Kanji Home: el único de esta guía con control remoto a precio medio" },
       { productMlaId: "MLA41701462", label: "Aspas de metal, 3 en 1", labelColor: "purple", tagline: "Liliana VP20K: pie, turbo y pared, con 2 años de garantía de fábrica" },
     ],
@@ -21333,14 +21333,14 @@ export const guides: Guide[] = [
       { type: "h2", title: `Los mejores ventiladores de pie 2026`, id: "ranking" },
 
       { type: "h3", title: `1. Peabody PE-VP1860N — mejor elección general` },
-      { type: "product-card", productMlaId: "MLA41606856", label: "Mejor elección general", labelColor: "green", ranking: 1, description: `18 pulgadas, altura ajustable e inclinación. 59 dB de ruido declarado, el único dato concreto de la guía. 4.8 estrellas en 1.602 calificaciones.` },
-      { type: "p", content: `El mejor calificado de esta guía: 4.8 estrellas sobre 1.602 opiniones reales, y el único con un nivel de ruido declarado con precisión en su ficha técnica (59 dB). Suma altura ajustable, inclinación y rejilla extraíble, a alrededor de {{precio:MLA41606856:k}}.` },
+      { type: "product-card", productMlaId: "MLA41606856", label: "Mejor elección general", labelColor: "green", ranking: 1, description: `18 pulgadas, altura ajustable e inclinación. 59 dB de ruido declarado, el único dato concreto de la guía. 4.8 estrellas en 1.612 calificaciones.` },
+      { type: "p", content: `El mejor calificado de esta guía: 4.8 estrellas sobre 1.612 opiniones reales, y el único con un nivel de ruido declarado con precisión en su ficha técnica (59 dB). Suma altura ajustable, inclinación y rejilla extraíble, a alrededor de {{precio:MLA41606856:k}}.` },
       { type: "p", content: `La contra real: el armado es de los más criticados en las reseñas ("tenés q ser ingeniero en la nasa para armarlo", dice una), y al menos un comprador reportó una falla tras una temporada de uso.` },
       { type: "pull-quote", content: `"Tira una banda de aire en 1 y en 3 parece una turbina de avión, silencioso mal. Lo único tenés q ser ingeniero en la nasa para armarlo."`, attribution: `Opinión verificada en MercadoLibre` },
 
       { type: "h3", title: `2. Winco W118 — el más vendido` },
-      { type: "product-card", productMlaId: "MLA19884110", label: "El más vendido", labelColor: "slate", ranking: 2, description: `3 en 1 (mesa, pared y pie), 5 aspas de aluminio y función turbo. 4.5 estrellas en 10.528 calificaciones, el precio más bajo de la guía.` },
-      { type: "p", content: `Por lejos el más vendido de esta categoría en Argentina: 10.528 calificaciones reales, casi siete veces más que el segundo de la lista. Suma función 3 en 1 (mesa, pared o pie) y modo turbo, a alrededor de {{precio:MLA19884110:k}}, el más barato de esta guía.` },
+      { type: "product-card", productMlaId: "MLA19884110", label: "El más vendido", labelColor: "slate", ranking: 2, description: `3 en 1 (mesa, pared y pie), 5 aspas de aluminio y función turbo. 4.5 estrellas en 10.551 calificaciones, el precio más bajo de la guía.` },
+      { type: "p", content: `Por lejos el más vendido de esta categoría en Argentina: 10.551 calificaciones reales, casi siete veces más que el segundo de la lista. Suma función 3 en 1 (mesa, pared o pie) y modo turbo, a alrededor de {{precio:MLA19884110:k}}, el más barato de esta guía.` },
       { type: "p", content: `Las contras honestas: la propia ficha técnica lo declara "no silencioso" (aunque varias reseñas lo describen distinto, hay contradicción entre fuentes), sin altura ajustable y con un armado que varias reseñas describen como poco claro.` },
       { type: "pull-quote", content: `"Excelente!!! liviano, tira mucho viento!!! bien piola el viento!!! no es ruidoso!!!"`, attribution: `Opinión verificada en MercadoLibre` },
 
@@ -21356,15 +21356,15 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Tabla comparativa: rating, ruido y funciones`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Rating`, `Control remoto`, `Ideal para`], rows: [
-        [`[Peabody PE-VP1860N](/producto/MLA41606856)`, `{{precio:MLA41606856}}`, `4.8 (1.602)`, `No`, `El mejor calificado, con altura ajustable`],
-        [`[Winco W118](/producto/MLA19884110)`, `{{precio:MLA19884110}}`, `4.5 (10.528)`, `No`, `El más vendido, precio más bajo`],
-        [`[Kanji Home KJH-FH2012](/producto/MLA29273448)`, `{{precio:MLA29273448}}`, `4.5 (372)`, `Sí`, `Control remoto a precio medio`],
-        [`[Liliana VP20K](/producto/MLA41701462)`, `{{precio:MLA41701462}}`, `4.6 (4.259)`, `No`, `Aspas de metal, formato 3 en 1`],
+        [`[Peabody PE-VP1860N](/producto/MLA41606856)`, `{{precio:MLA41606856}}`, `4.8 (1.612)`, `No`, `El mejor calificado, con altura ajustable`],
+        [`[Winco W118](/producto/MLA19884110)`, `{{precio:MLA19884110}}`, `4.5 (10.551)`, `No`, `El más vendido, precio más bajo`],
+        [`[Kanji Home KJH-FH2012](/producto/MLA29273448)`, `{{precio:MLA29273448}}`, `4.5 (376)`, `Sí`, `Control remoto a precio medio`],
+        [`[Liliana VP20K](/producto/MLA41701462)`, `{{precio:MLA41701462}}`, `4.6 (4.192)`, `No`, `Aspas de metal, formato 3 en 1`],
       ] },
 
       { type: "h2", title: `Cómo elegir tu ventilador de pie`, id: "como-elegir" },
       { type: "h3", title: `¿Rating alto o volumen de reseñas?` },
-      { type: "p", content: `Los cuatro de esta guía tienen entre 4.5 y 4.8 estrellas, una diferencia chica. Lo que más cambia es el volumen: el Winco tiene 10.528 opiniones contra las 372 del Kanji. Con más de 300 reseñas ya hay una base sólida para confiar en el rating; por debajo de eso, conviene leer los comentarios de texto antes de decidir.` },
+      { type: "p", content: `Los cuatro de esta guía tienen entre 4.5 y 4.8 estrellas, una diferencia chica. Lo que más cambia es el volumen: el Winco tiene 10.551 opiniones contra las 376 del Kanji. Con más de 300 reseñas ya hay una base sólida para confiar en el rating; por debajo de eso, conviene leer los comentarios de texto antes de decidir.` },
       { type: "h3", title: `¿Control remoto o ahorro?` },
       { type: "p", content: `Solo el Kanji Home lo incluye entre estos cuatro, a un precio medio. Si el control remoto no es indispensable, el Winco cubre lo esencial a un precio bastante menor.` },
       { type: "h3", title: `¿Aspas de plástico o de metal?` },
