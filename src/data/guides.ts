@@ -22533,7 +22533,7 @@ export const guides: Guide[] = [
     readingTime: 8,
     standfirst: `Un kit de alarma para casa va de {{precio:MLA58030955:k}} (el más económico) a {{precio:MLA43987591:k}} (el de mayor cobertura). La diferencia real no es solo el precio: es cuántos sensores trae, si tiene respaldo celular además de WiFi, y qué tan bien funciona ese respaldo en la práctica. Comparamos 4 opciones con precios reales de MercadoLibre Argentina y las contras que cuentan los compradores.`,
     quickPicks: [
-      { productMlaId: "MLA28261746", label: "Mejor elección general", labelColor: "green", tagline: "PST G30: el kit más completo, 861 opiniones reales" },
+      { productMlaId: "MLA28261746", label: "Mejor elección general", labelColor: "green", tagline: "PST G30: el kit más completo, 600 opiniones reales" },
       { productMlaId: "MLA58030955", label: "La más económica", labelColor: "slate", tagline: "i-tob KIT4s: kit completo al menor precio" },
       { productMlaId: "MLA43987591", label: "Monitoreo por app", labelColor: "blue", tagline: "Hikvision AXHome: marca global, WiFi + 4G" },
       { productMlaId: "MLA45993557", label: "Para exterior sin central", labelColor: "purple", tagline: "Sensor solar Tuya: standalone, carga solar" },
@@ -22558,13 +22558,13 @@ export const guides: Guide[] = [
       { type: "h2", title: `Las mejores alarmas para casa 2026`, id: "ranking" },
 
       { type: "h3", title: `1. Kit PST G30 — mejor elección general` },
-      { type: "product-card", productMlaId: "MLA28261746", label: "Mejor elección general", labelColor: "green", ranking: 1, description: `Central táctil, 4 sensores, sirena interior y exterior, WiFi + GSM. 4.6 estrellas en 861 calificaciones, el más completo de esta guía.` },
+      { type: "product-card", productMlaId: "MLA28261746", label: "Mejor elección general", labelColor: "green", ranking: 1, description: `Central táctil, 4 sensores, sirena interior y exterior, WiFi + GSM. 4.6 estrellas en 600 calificaciones, el más completo de esta guía.` },
       { type: "p", content: `El kit más completo y con más reseñas reales de esta guía, a alrededor de {{precio:MLA28261746:k}}.` },
       { type: "p", content: `La contra real: la central y el tablero están en la misma unidad, conviene instalarla en un lugar oculto.` },
       { type: "pull-quote", content: `"Tenía desconfianza pero funciona perfectamente... te avisa en el momento al celular. Lo malo que el manual viene en inglés, pero youtube me salvó."`, attribution: `Opinión verificada en MercadoLibre (33 votos útiles)` },
 
       { type: "h3", title: `2. i-tob KIT4s — la más económica` },
-      { type: "product-card", productMlaId: "MLA58030955", label: "La más económica", labelColor: "slate", ranking: 2, description: `Kit completo con WiFi + GSM + PSTN. 4.6 estrellas en 288 calificaciones, el kit completo más barato de esta guía.` },
+      { type: "product-card", productMlaId: "MLA58030955", label: "La más económica", labelColor: "slate", ranking: 2, description: `Kit completo con WiFi + GSM + PSTN. 4.6 estrellas en 291 calificaciones, el kit completo más barato de esta guía.` },
       { type: "p", content: `El kit completo más económico de esta guía, a alrededor de {{precio:MLA58030955:k}}, con triple conectividad.` },
       { type: "p", content: `La contra real: si comprás la versión con sirena exterior, el cable no viene incluido, según una reseña real.` },
 
@@ -22574,7 +22574,7 @@ export const guides: Guide[] = [
       { type: "p", content: `Lo honesto: el paso a la red 4G no es automático si se corta el WiFi, según 2 reseñas reales independientes.` },
 
       { type: "h3", title: `4. Sensor solar Tuya CT80WR — para exterior sin central` },
-      { type: "product-card", productMlaId: "MLA45993557", label: "Para exterior sin central", labelColor: "purple", ranking: 4, description: `Sensor + sirena + panel solar todo-en-uno, sin central. 4.5 estrellas, resistente a la intemperie.` },
+      { type: "product-card", productMlaId: "MLA45993557", label: "Para exterior sin central", labelColor: "purple", ranking: 4, description: `Sensor + sirena + panel solar todo-en-uno, sin central. 4.4 estrellas, resistente a la intemperie.` },
       { type: "p", content: `La opción diferenciada de esta guía: cubre un punto de exterior sin instalar una central, a alrededor de {{precio:MLA45993557:k}}.` },
       { type: "p", content: `La contra real: no se puede controlar del todo desde la app, solo con el control remoto físico, según varias reseñas reales.` },
 
@@ -22588,11 +22588,11 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Cómo elegir tu alarma para casa`, id: "como-elegir" },
       { type: "h3", title: `¿Toda la casa o un punto puntual?` },
-      { type: "p", content: `Si necesitás cubrir toda la casa con varios sensores coordinados, elegí un kit completo (PST, i-tob o Hikvision de esta guía). Si solo querés cubrir un patio, garaje o frente sin instalar central, el sensor solar Tuya alcanza y es mucho más simple de instalar.` },
+      { type: "p", content: `Si necesitás cubrir toda la casa con varios sensores coordinados, elegí un kit completo ([PST](/producto/MLA28261746), [i-tob](/producto/MLA58030955) o [Hikvision](/producto/MLA43987591) de esta guía). Si solo querés cubrir un patio, garaje o frente sin instalar central, el [sensor solar Tuya](/producto/MLA45993557) alcanza y es mucho más simple de instalar.` },
       { type: "h3", title: `¿Qué pasa si se corta la luz o internet?` },
-      { type: "p", content: `Los 3 kits con central de esta guía tienen batería propia y algún tipo de respaldo celular (GSM o 4G). Probá ese respaldo apenas instalás la alarma: en el caso del Hikvision, 2 reseñas reales reportan que el paso a 4G no es automático.` },
+      { type: "p", content: `Los 3 kits con central de esta guía tienen batería propia y algún tipo de respaldo celular (GSM o 4G). Probá ese respaldo apenas instalás la alarma: en el caso del [Hikvision](/producto/MLA43987591), 2 reseñas reales reportan que el paso a 4G no es automático.` },
       { type: "h3", title: `¿Marca reconocida o mejor precio?` },
-      { type: "p", content: `Si el respaldo de una marca global es tu prioridad, el Hikvision. Si buscás el mejor precio con lo básico bien cubierto, el i-tob o el PST de esta guía.` },
+      { type: "p", content: `Si el respaldo de una marca global es tu prioridad, el [Hikvision](/producto/MLA43987591). Si buscás el mejor precio con lo básico bien cubierto, el [i-tob](/producto/MLA58030955) o el [PST](/producto/MLA28261746) de esta guía.` },
 
       { type: "verdict", content: `Para la mayoría, el **[Kit PST G30](/producto/MLA28261746)** es la compra más segura: el más completo, con el mayor respaldo de reseñas reales. Si buscás el más económico, el **[i-tob KIT4s](/producto/MLA58030955)**. Si priorizás una marca global con monitoreo por app, el **[Hikvision AXHome](/producto/MLA43987591)**. Y si solo necesitás cubrir un punto de exterior, el **[sensor solar Tuya](/producto/MLA45993557)**.` },
     ],

@@ -60853,12 +60853,12 @@ Comprala si sos 1-2 personas y buscás cocinar rápido sin gastar de más. No es
     priceLastChecked: "2026-07-31",
     priceStatus: "fresh",
     reviewsSampledAt: "2026-07-19",
-    description: "Kit de alarma hogar PST G30: el más completo y con más reseñas reales de esta guía (861 calificaciones), con central táctil, 4 sensores, sirena interior y exterior, WiFi y GSM.",
+    description: "Kit de alarma hogar PST G30: el más completo y con más reseñas reales de esta guía (600 calificaciones), con central táctil, 4 sensores, sirena interior y exterior, WiFi y GSM.",
     seoTitle: "PST G30: el kit de alarma para casa más completo",
-    metaDescription: "Kit de alarma hogar PST G30, WiFi y GSM, 4 sensores. 861 opiniones reales, precio actualizado.",
-    verdict: "Sirve si buscás el kit de alarma para casa más completo de esta guía: central táctil, 4 sensores (2 de movimiento, 2 de puerta/ventana), sirena interior y exterior, WiFi y GSM como respaldo, y el mayor volumen de reseñas reales (861) de esta comparativa. La contra real, según una reseña con 20 votos útiles: la central y el tablero están en la misma unidad, así que conviene instalarla en un lugar oculto para que un intruso no la desactive apenas entra. No es para vos si buscás la opción más económica: para eso, el i-tob de esta guía.",
+    metaDescription: "Kit de alarma hogar PST G30, WiFi y GSM, 4 sensores. 600 opiniones reales, precio actualizado.",
+    verdict: "Sirve si buscás el kit de alarma para casa más completo de esta guía: central táctil, 4 sensores (2 de movimiento, 2 de puerta/ventana), sirena interior y exterior, WiFi y GSM como respaldo, y el mayor volumen de reseñas reales (600) de esta comparativa. La contra real, según una reseña con 20 votos útiles: la central y el tablero están en la misma unidad, así que conviene instalarla en un lugar oculto para que un intruso no la desactive apenas entra. No es para vos si buscás la opción más económica: para eso, el i-tob de esta guía.",
     pros: [
-      "El más completo y con más reseñas reales de esta guía: 861 calificaciones",
+      "El más completo y con más reseñas reales de esta guía: 600 calificaciones",
       "Kit con 4 sensores, sirena interior y exterior, 2 controles remoto y 2 tags RFID",
       "Doble conectividad WiFi + GSM, hasta 100 zonas inalámbricas",
       "\"No dispara falsas alarmas... el sonido de la sirena interna y externa es muy fuerte\", según una reseña con 24 votos útiles",
@@ -60891,7 +60891,7 @@ Comprá el PST G30 si buscás el kit más completo y con más respaldo de compra
     faq: [
       {
         question: "¿Por qué tiene tantas reseñas reales?",
-        answer: "Es el kit con mayor volumen de ventas de esta guía: 861 calificaciones, muy por encima de las otras opciones del sourcing.",
+        answer: "Es el kit con mayor volumen de ventas de esta guía: 600 calificaciones, muy por encima de las otras opciones del sourcing.",
       },
       {
         question: "¿Dónde conviene instalar la central?",
@@ -60923,7 +60923,7 @@ Comprá el PST G30 si buscás el kit más completo y con más respaldo de compra
       aggregateRating: {
         "@type": "AggregateRating",
         ratingValue: "4.6",
-        reviewCount: "861",
+        reviewCount: "600",
       },
     },
   },
@@ -60967,7 +60967,7 @@ Comprá el PST G30 si buscás el kit más completo y con más respaldo de compra
     description: "Alarma i-tob IT-WGP-KIT4s: el kit completo más económico de esta guía, con WiFi, GSM y PSTN, y un dato de alcance real confirmado por el propio fabricante.",
     seoTitle: "i-tob KIT4s: el kit de alarma más económico",
     metaDescription: "Alarma i-tob IT-WGP-KIT4s, WiFi y GSM. El kit completo más barato de esta guía, opiniones reales.",
-    verdict: "Sirve si buscás el kit de alarma completo más económico de esta guía, con 288 calificaciones reales y triple conectividad (WiFi + GSM + PSTN). Un dato a favor de la honestidad de esta marca: su propia página oficial (itob.com.ar) declara un alcance más conservador (100 m en espacio abierto, pero solo ~40 m dentro de una casa) que el número de marketing que suelen usar otras marcas de la categoría. La contra real: si comprás la versión con sirena exterior, el cable no viene incluido, hay que comprarlo aparte. No es para vos si buscás tags RFID, expansión a 100 zonas inalámbricas o mayor volumen de reseñas: para eso, el PST G30 de esta guía.",
+    verdict: "Sirve si buscás el kit de alarma completo más económico de esta guía, con 291 calificaciones reales y triple conectividad (WiFi + GSM + PSTN). Un dato a favor de la honestidad de esta marca: su propia página oficial (itob.com.ar) declara un alcance más conservador (100 m en espacio abierto, pero solo ~40 m dentro de una casa) que el número de marketing que suelen usar otras marcas de la categoría. La contra real: si comprás la versión con sirena exterior, el cable no viene incluido, hay que comprarlo aparte. No es para vos si buscás tags RFID, expansión a 100 zonas inalámbricas o mayor volumen de reseñas: para eso, el PST G30 de esta guía.",
     pros: [
       "El kit completo más económico de esta guía",
       "Triple conectividad: WiFi + GSM + PSTN (línea de teléfono fija como respaldo adicional)",
@@ -61034,7 +61034,7 @@ Comprá el i-tob si buscás el kit completo más económico de esta guía y no t
       aggregateRating: {
         "@type": "AggregateRating",
         ratingValue: "4.6",
-        reviewCount: "288",
+        reviewCount: "291",
       },
     },
   },
@@ -61256,13 +61256,13 @@ Comprá el sensor solar Tuya si necesitás cubrir un punto específico de exteri
         "@type": "Offer",
         url: "https://www.mercadolibre.com.ar/sensor-de-movimiento-inalambrico-tuya-solar-wifi-y-433mhz-alarma-blanco/p/MLA45993557",
         priceCurrency: "ARS",
-        price: "53534",
+        price: "57750",
         availability: "https://schema.org/InStock",
       },
       aggregateRating: {
         "@type": "AggregateRating",
-        ratingValue: "4.5",
-        reviewCount: "102",
+        ratingValue: "4.4",
+        reviewCount: "116",
       },
     },
   },
