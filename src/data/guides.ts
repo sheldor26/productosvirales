@@ -21340,7 +21340,7 @@ export const guides: Guide[] = [
 
       { type: "h3", title: `2. Winco W118 — el más vendido` },
       { type: "product-card", productMlaId: "MLA19884110", label: "El más vendido", labelColor: "slate", ranking: 2, description: `3 en 1 (mesa, pared y pie), 5 aspas de aluminio y función turbo. 4.5 estrellas en 10.551 calificaciones, el precio más bajo de la guía.` },
-      { type: "p", content: `Por lejos el más vendido de esta categoría en Argentina: 10.551 calificaciones reales, casi siete veces más que el segundo de la lista. Suma función 3 en 1 (mesa, pared o pie) y modo turbo, a alrededor de {{precio:MLA19884110:k}}, el más barato de esta guía.` },
+      { type: "p", content: `Por lejos el más vendido de esta categoría en Argentina: 10.551 calificaciones reales, casi siete veces más que el Peabody (1.612). Suma función 3 en 1 (mesa, pared o pie) y modo turbo, a alrededor de {{precio:MLA19884110:k}}, el más barato de esta guía.` },
       { type: "p", content: `Las contras honestas: la propia ficha técnica lo declara "no silencioso" (aunque varias reseñas lo describen distinto, hay contradicción entre fuentes), sin altura ajustable y con un armado que varias reseñas describen como poco claro.` },
       { type: "pull-quote", content: `"Excelente!!! liviano, tira mucho viento!!! bien piola el viento!!! no es ruidoso!!!"`, attribution: `Opinión verificada en MercadoLibre` },
 
@@ -21368,7 +21368,7 @@ export const guides: Guide[] = [
       { type: "h3", title: `¿Control remoto o ahorro?` },
       { type: "p", content: `Solo el [Kanji Home](/producto/MLA29273448) lo incluye entre estos cuatro, a un precio medio. Si el control remoto no es indispensable, el [Winco](/producto/MLA19884110) cubre lo esencial a un precio bastante menor.` },
       { type: "h3", title: `¿Aspas de plástico, aluminio o metal?` },
-      { type: "p", content: `El [Winco](/producto/MLA19884110) tiene aspas de aluminio y el resto son de plástico, pero la [Liliana](/producto/MLA41701462) es la única con aspas de metal (no aluminio), lo que en teoría suma durabilidad frente a las otras dos opciones. A cambio, es de las más caras de la guía.` },
+      { type: "p", content: `Salvo el [Winco](/producto/MLA19884110) (aluminio) y la [Liliana](/producto/MLA41701462) (metal), el resto de los modelos de esta guía son de plástico. La Liliana es la única con aspas de metal, lo que en teoría suma durabilidad frente al aluminio y al plástico. A cambio, es de las más caras de la guía.` },
 
       { type: "h2", title: `Cuánto cuesta un ventilador de pie en Argentina [julio 2026]`, id: "cuanto-cuesta" },
       { type: "list", content: "Franjas de precio reales", items: [
