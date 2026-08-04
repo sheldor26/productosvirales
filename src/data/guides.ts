@@ -957,13 +957,13 @@ export const guides: Guide[] = [
 
       { type: "h3", title: `2. Cougar Armor Elite Royal — la premium que dura` },
       { type: "product-card", productMlaId: "MLA26019250", label: "La premium que dura", labelColor: "purple", ranking: 2, description: `Premium robusta: soporta hasta 120 kg, cuero PVC transpirable, materiales de larga duración. 4.9 estrellas en más de 1.100 calificaciones.` },
-      { type: "p", content: `Si querés calidad que dure años y no te importa pagarla, la Cougar Armor Elite es la mejor valorada de la guía (**4.9 estrellas** en más de 1.100 opiniones). Soporta **hasta 120 kg**, usa cuero PVC transpirable (no se calienta tanto como el sintético común) y los compradores destacan la solidez de los materiales. A alrededor de $380.000, es la inversión de quien quiere una silla seria.` },
+      { type: "p", content: `Si querés calidad que dure años y no te importa pagarla, la Cougar Armor Elite es la mejor valorada de la guía (**4.9 estrellas** en más de 1.100 opiniones). Soporta **hasta 120 kg**, usa cuero PVC transpirable (no se calienta tanto como el sintético común) y los compradores destacan la solidez de los materiales. A alrededor de {{precio:MLA26019250:k}}, es la inversión de quien quiere una silla seria.` },
       { type: "p", content: `Es más del doble que la Alpina, así que la elegís si valorás la durabilidad y el confort de una marca gamer de verdad, o si pesás más y necesitás una estructura robusta. Para uso liviano, la Alpina alcanza; para uso intensivo y que dure, esta los justifica.` },
       { type: "pull-quote", content: `"Materiales de extrema calidad y súper cómoda. Es un precio elevado, pero cuando llega te das cuenta de que vale cada centavo: se nota que durará años."`, attribution: `Opinión verificada en MercadoLibre` },
 
       { type: "h3", title: `3. Cougar Fusion EX — la más fresca (tela)` },
       { type: "product-card", productMlaId: "MLA69124616", label: "La más fresca", labelColor: "blue", ranking: 3, description: `Tapizado de tela, más fresca y transpirable que las de cuero sintético. 4.9 estrellas. De una marca gamer reconocida.` },
-      { type: "p", content: `Si lo que te molesta es el calor (el cuero sintético se pega y transpira mal), la Cougar Fusion EX viene en **tela transpirable**: mucho más fresca para muchas horas sentado o para el verano argentino. Mantiene la calidad Cougar y 4.9 estrellas, a alrededor de $260.000. Es el punto medio entre la Alpina barata y la Armor premium.` },
+      { type: "p", content: `Si lo que te molesta es el calor (el cuero sintético se pega y transpira mal), la Cougar Fusion EX viene en **tela transpirable**: mucho más fresca para muchas horas sentado o para el verano argentino. Mantiene la calidad Cougar y 4.9 estrellas, a alrededor de {{precio:MLA69124616:k}}. Es el punto medio entre la Alpina barata y la Armor premium.` },
       { type: "p", content: `La contra de la tela: junta un poco más de polvo y es algo menos fácil de limpiar que el cuero (una mancha de líquido cuesta más). Pero si priorizás no transpirar, la diferencia se nota desde el primer día.` },
 
       { type: "h3", title: `4. Alpina PRE-FT055 — alternativa de valor` },
@@ -972,7 +972,7 @@ export const guides: Guide[] = [
 
       { type: "h3", title: `5. Corsair T3 Rush — la premium de marca top` },
       { type: "product-card", productMlaId: "MLA16171813", label: "Premium de marca", labelColor: "purple", ranking: 5, description: `De Corsair, marca top del mundo gaming: tapizado de tela transpirable, construcción de primera. 4.9 estrellas.` },
-      { type: "p", content: `Si querés una marca de primerísima línea del gaming, la Corsair T3 Rush es la premium tope: **tela transpirable**, construcción de calidad y el respaldo de Corsair, con 4.9 estrellas. Es la más cara de la guía (alrededor de $786.000), así que la elegís si la marca y el acabado de gama alta te importan más que el precio.` },
+      { type: "p", content: `Si querés una marca de primerísima línea del gaming, la Corsair T3 Rush es la premium tope: **tela transpirable**, construcción de calidad y el respaldo de Corsair, con 4.9 estrellas. Es la más cara de la guía (alrededor de {{precio:MLA16171813:k}}), así que la elegís si la marca y el acabado de gama alta te importan más que el precio.` },
       { type: "p", content: `Para la mayoría es más de lo necesario: la Cougar Armor da calidad premium por la mitad. La Corsair tiene sentido si ya estás en el mundo Corsair o querés lo mejor sin mirar el precio.` },
 
       { type: "h2", title: `Tabla comparativa: por material, peso y precio`, id: "tabla-comparativa" },
@@ -980,8 +980,8 @@ export const guides: Guide[] = [
         [`[Alpina FT-088](https://meli.la/1t2j7zH)`, `{{precio:MLA47061669}}`, `Cuero sintético`, `Uso normal`, `La más vendida y barata`],
         [`[Alpina PRE-FT055](https://meli.la/2CJ8LqU)`, `{{precio:MLA47084299}}`, `Cuero sintético`, `Uso normal`, `Alternativa de valor`],
         [`[Cougar Fusion EX](https://meli.la/1drE2G6)`, `{{precio:MLA69124616}}`, `Tela (fresca)`, `Uso intensivo`, `No transpirar / verano`],
-        [`[Cougar Armor Elite](https://meli.la/1Z2hdW6)`, `$379.999`, `Cuero PVC transpirable`, `Hasta 120 kg`, `Premium que dura`],
-        [`[Corsair T3 Rush](https://meli.la/1fUDsKj)`, `$786.110`, `Tela (transpirable)`, `Uso intensivo`, `Premium de marca top`],
+        [`[Cougar Armor Elite](https://meli.la/1Z2hdW6)`, `{{precio:MLA26019250}}`, `Cuero PVC transpirable`, `Hasta 120 kg`, `Premium que dura`],
+        [`[Corsair T3 Rush](https://meli.la/1fUDsKj)`, `{{precio:MLA16171813}}`, `Tela (transpirable)`, `Uso intensivo`, `Premium de marca top`],
       ] },
 
       { type: "h2", title: `Cómo elegir tu silla gamer`, id: "como-elegir" },
@@ -995,8 +995,8 @@ export const guides: Guide[] = [
       { type: "h2", title: `Cuánto cuesta una silla gamer en Argentina [junio 2026]`, id: "precios" },
       { type: "list", items: [
         `**$143.000 a $156.000:** las de entrada, la franja que conviene para la mayoría. La [Alpina FT-088](https://meli.la/1t2j7zH) (la más vendida) y la [PRE-FT055](https://meli.la/2CJ8LqU), en cuero sintético.`,
-        `**$260.000 a $380.000:** las premium. La [Cougar Fusion EX](https://meli.la/1drE2G6) (tela, fresca) y la [Cougar Armor Elite](https://meli.la/1Z2hdW6) (robusta, 120 kg, la mejor valorada).`,
-        `**$786.000 o más:** la de marca tope. La [Corsair T3 Rush](https://meli.la/1fUDsKj), solo si querés lo mejor sin mirar el precio.`,
+        `**{{precio:MLA69124616:k}} a {{precio:MLA26019250:k}}:** las premium. La [Cougar Fusion EX](https://meli.la/1drE2G6) (tela, fresca) y la [Cougar Armor Elite](https://meli.la/1Z2hdW6) (robusta, 120 kg, la mejor valorada).`,
+        `**{{precio:MLA16171813:k}} o más:** la de marca tope. La [Corsair T3 Rush](https://meli.la/1fUDsKj), solo si querés lo mejor sin mirar el precio.`,
       ] },
 
       { type: "h2", title: `Veredicto: cuál silla gamer comprar`, id: "veredicto" },
@@ -1081,7 +1081,7 @@ export const guides: Guide[] = [
 
       { type: "h3", title: `4. HyperX Cloud — el clásico cómodo` },
       { type: "product-card", productMlaId: "MLA8732921", label: "El clásico cómodo", labelColor: "amber", ranking: 4, description: `Con cable y micrófono desmontable, famoso por la comodidad para muchas horas. 4.8 estrellas. Una marca de referencia del gaming.` },
-      { type: "p", content: `Si pasás muchas horas con los auriculares puestos, el HyperX Cloud es el clásico por algo: su fama es la **comodidad** (vincha y almohadillas mullidas que no aprietan), con cable y micrófono desmontable, a alrededor de $83.000. HyperX es una de las marcas de referencia del gaming, y este modelo es el que la hizo famosa.` },
+      { type: "p", content: `Si pasás muchas horas con los auriculares puestos, el HyperX Cloud es el clásico por algo: su fama es la **comodidad** (vincha y almohadillas mullidas que no aprietan), con cable y micrófono desmontable, a alrededor de {{precio:MLA8732921:k}}. HyperX es una de las marcas de referencia del gaming, y este modelo es el que la hizo famosa.` },
       { type: "p", content: `Para quien prioriza la comodidad de largas sesiones por sobre el sonido competitivo, es la opción. Si tu prioridad es el audio posicional, el Razer; si es la comodidad para maratones, el HyperX.` },
 
       { type: "h3", title: `5. Redragon Ire Pro H848 — el inalámbrico económico` },
@@ -1098,7 +1098,7 @@ export const guides: Guide[] = [
       { type: "table", headers: [`Modelo`, `Precio`, `Conexión`, `Ideal para`], rows: [
         [`[Kotion Each G9000](https://meli.la/21XciT1)`, `{{precio:MLA9406415}}`, `Con cable`, `El más vendido y barato`],
         [`[Razer BlackShark V2 X](https://meli.la/1eMqyZ5)`, `{{precio:MLA16280514}}`, `Con cable`, `Mejor sonido competitivo`],
-        [`[HyperX Cloud](https://meli.la/2E5hHez)`, `$82.646`, `Con cable`, `Comodidad para muchas horas`],
+        [`[HyperX Cloud](https://meli.la/2E5hHez)`, `{{precio:MLA8732921}}`, `Con cable`, `Comodidad para muchas horas`],
         [`[Redragon Ire Pro](https://meli.la/1EmVgFD)`, `$83.999`, `Inalámbrico`, `Inalámbrico gastando poco`],
         [`[Logitech G435](https://meli.la/1X17nvS)`, `{{precio:MLA18651915}}`, `Inalámbrico`, `Inalámbrico accesible de marca`],
         [`[Logitech G733](https://meli.la/1erBB4P)`, `{{precio:MLA16269737}}`, `Inalámbrico`, `Premium inalámbrico`],
@@ -1114,7 +1114,7 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Cuánto cuestan unos auriculares gamer en Argentina [junio 2026]`, id: "precios" },
       { type: "list", items: [
-        `**$41.000 a $84.000:** los de entrada. El [Kotion G9000](https://meli.la/21XciT1) (el más vendido, con cable), el [HyperX Cloud](https://meli.la/2E5hHez) (cable, cómodo) y el [Redragon Ire Pro](https://meli.la/1EmVgFD) (inalámbrico económico).`,
+        `**{{precio:MLA9406415:k}} a {{precio:MLA8732921:k}}:** los de entrada. El [Kotion G9000](https://meli.la/21XciT1) (el más vendido, con cable), el [HyperX Cloud](https://meli.la/2E5hHez) (cable, cómodo) y el [Redragon Ire Pro](https://meli.la/1EmVgFD) (inalámbrico económico).`,
         `**$100.000 a $150.000:** el salto de calidad. El [Razer BlackShark V2 X](https://meli.la/1eMqyZ5) (mejor sonido, cable) y el [Logitech G435](https://meli.la/1X17nvS) (inalámbrico de marca).`,
         `**$210.000 o más:** el premium. El [Logitech G733](https://meli.la/1erBB4P), inalámbrico tope de gama con RGB.`,
       ] },
@@ -1308,7 +1308,7 @@ export const guides: Guide[] = [
       { type: "h3", title: `2. Logitech G305 Lightspeed — el mejor inalámbrico` },
       { type: "product-card", productMlaId: "MLA11259955", label: "El mejor inalámbrico", labelColor: "blue", ranking: 2, description: `Inalámbrico Lightspeed con sensor HERO de 12.000 DPI y 250 horas de batería con una pila AA. 4.8 estrellas en más de 12.000 calificaciones.` },
       { type: "p", content: `El G305 es el inalámbrico más vendido de Argentina y un clásico con fama de indestructible. Su conexión **Lightspeed** responde en 1 milisegundo (en la práctica, igual que un cable), el sensor **HERO** no acelera ni suaviza el movimiento, y la batería es de otra época: **una pila AA común que dura hasta 250 horas** de juego. Se te acaba, ponés otra y seguís; nada de andar enchufando cables a mitad de partida.` },
-      { type: "p", content: `Lo honesto: pesa 99 gramos (la pila suma), no tiene RGB (solo un LED de estado) y no tiene Bluetooth, solo el receptor USB. Se consigue desde unos $56.000 (mirá bien entre vendedores, los precios varían) y es el salto natural desde el G203 para quien quiere cortar el cable sin pagar precio premium.` },
+      { type: "p", content: `Lo honesto: pesa 99 gramos (la pila suma), no tiene RGB (solo un LED de estado) y no tiene Bluetooth, solo el receptor USB. Se consigue desde unos {{precio:MLA11259955:k}} (mirá bien entre vendedores, los precios varían) y es el salto natural desde el G203 para quien quiere cortar el cable sin pagar precio premium.` },
       { type: "pull-quote", content: `"Inalámbrico, excelente sensor, peso liviano, confiable. El mouse del pueblo."`, attribution: `Opinión verificada en MercadoLibre` },
 
       { type: "h3", title: `3. Redragon Centrophorus M601 RGB — el más barato con respaldo` },
@@ -1338,7 +1338,7 @@ export const guides: Guide[] = [
       { type: "table", headers: [`Modelo`, `Precio desde`, `Conexión`, `Peso`, `Ideal para`], rows: [
         [`[Redragon M601 RGB](https://meli.la/2rXZqbu)`, `$26.500`, `Cable`, `85-104 g (pesas)`, `El más barato con respaldo`],
         [`[Logitech G203](https://meli.la/2EEbq8S)`, `{{precio:MLA44849297}}`, `Cable`, `85 g`, `El más vendido, compra segura`],
-        [`[Logitech G305](https://meli.la/1dDyCA3)`, `$56.099`, `Inalámbrico (pila AA)`, `99 g`, `El inalámbrico clásico`],
+        [`[Logitech G305](https://meli.la/1dDyCA3)`, `{{precio:MLA11259955}}`, `Inalámbrico (pila AA)`, `99 g`, `El inalámbrico clásico`],
         [`[Logitech G309](https://meli.la/26ynmBo)`, `{{precio:MLA40568693}}`, `Inalámbrico + Bluetooth`, `86 g`, `Inalámbrico moderno, mano chica`],
         [`[Logitech G Pro Wireless](https://meli.la/2HqvQqv)`, `$140.923`, `Inalámbrico (recargable)`, `80 g`, `E-sports, apto zurdos`],
         [`[PRO X Superlight 2](https://meli.la/2ZRDxvS)`, `{{precio:MLA28598537}}`, `Inalámbrico (USB-C)`, `60 g`, `Competitivo profesional`],
