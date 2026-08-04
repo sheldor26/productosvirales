@@ -1,5 +1,4 @@
 #!/usr/bin/env node
-/* eslint-disable no-console */
 
 /**
  * Arma docs/ideas-productos-nuevos.md a partir de paginas de categoria/

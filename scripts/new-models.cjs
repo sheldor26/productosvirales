@@ -1,5 +1,4 @@
 #!/usr/bin/env node
-/* eslint-disable no-console */
 
 /**
  * New models radar — para cada nicho/silo del sitio, busca en el catálogo de

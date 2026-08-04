@@ -1,5 +1,4 @@
 #!/usr/bin/env node
-/* eslint-disable no-console */
 
 /**
  * Digest semanal por EMAIL (Resend) a los suscriptores con source='newsletter'

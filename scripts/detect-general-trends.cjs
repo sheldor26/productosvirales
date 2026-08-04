@@ -1,5 +1,4 @@
 #!/usr/bin/env node
-/* eslint-disable no-console */
 
 /**
  * Arma docs/radar-tendencias-argentina.md a partir de la pagina "Tendencias

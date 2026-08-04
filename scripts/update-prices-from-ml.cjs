@@ -1,5 +1,4 @@
 #!/usr/bin/env node
-/* eslint-disable no-console */
 
 /**
  * Update product prices from MercadoLibre — API-first, scraper as fallback.

@@ -1,5 +1,4 @@
 #!/usr/bin/env node
-/* eslint-disable no-console */
 
 /**
  * Aplica precios desde un dataset de Bright Data (collector mercadolibre.com.ar,

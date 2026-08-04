@@ -1,4 +1,3 @@
-/* eslint-disable @typescript-eslint/no-require-imports -- CommonJS script */
 /**
  * Infer the `brand` field for products in src/data/curated-products.ts
  * by matching their title against a curated whitelist.

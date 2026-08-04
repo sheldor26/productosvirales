@@ -1,5 +1,4 @@
 #!/usr/bin/env node
-/* eslint-disable no-console */
 
 /**
  * Arma docs/tendencias-detectadas.md a partir de los datasets de TikTok
