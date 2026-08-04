@@ -16,6 +16,16 @@
 **Archivos involucrados:** `path/a/archivo.ts`
 -->
 
+## 2026-08-04 — Verificar en GSC antes de escribir una "guía nueva" que sugiere un reporte automático
+
+**Qué funcionó:** el reporte semanal del `weekly-seo-aeo-loop` proponía una guía comparativa nueva "Yara vs Yara Elixir". Antes de escribirla, correr `scripts/gsc/gsc.py query-pages "yara elixir" "diferencia entre yara y yara elixir"` mostró que `yara-lattafa-guia-completa` YA rankea posición 7.1-2.5 para esas queries — escribir la guía nueva la hubiera canibalizado. El problema real era CTR bajo en una página que ya rankeaba bien, no falta de contenido; se resolvió con un ajuste de `metaDescription`, sin tocar título/H1/slug (freeze de posiciones top).
+
+**Por qué:** un reporte automático (o cualquier lista de "oportunidades") identifica demanda de búsqueda, pero no necesariamente si el sitio ya la está respondiendo. `query-pages` es la única forma de confirmar qué URL está mostrando Google para una query específica antes de decidir crear contenido nuevo — la keyword suelta (volumen + dificultad en Ubersuggest) no alcanza.
+
+**Cuándo aplicarlo:** cada vez que un reporte/checklist sugiera "guía nueva" para una keyword — correr `query-pages` sobre esa keyword exacta (y variantes cercanas) antes de escribir una sola línea. Si ya hay una URL rankeando, el problema casi seguro es de snippet/CTR, no de contenido faltante.
+
+**Archivos involucrados:** `src/data/guides.ts` (slug `yara-lattafa-guia-completa`), `scripts/gsc/gsc.py`.
+
 ## 2026-07-19 — El trío auditor destapa deuda vieja de fichas, no solo bugs de la sesión actual
 
 **Qué funcionó:** al publicar 4 guías STAGED viejas con `/trio-auditor`, Codex y Gemini no solo revisaron mi propio diff de la sesión — auditando el contexto completo (guía + fichas asociadas) encontraron inconsistencias de datos que llevaban meses sin tocarse (rating/reviewCount desincronizados, framing que contradecía el precio real, un caso extremo donde toda la narrativa de una ficha estaba armada sobre un precio 75% más bajo que el real). Ninguno de los chequeos mecánicos (`guides:check`, `tsc`) los agarra porque viven en prosa libre de `curated-products.ts`, no en tokens de precio.

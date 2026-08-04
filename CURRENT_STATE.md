@@ -1,7 +1,19 @@
 # Estado actual
 
 > Snapshot del proyecto. Se actualiza al final de cada sesión.
-> Última actualización: 2026-07-27 (guía nueva `reloj-garmin` + 3 fichas Garmin + sección "anillo inteligente" en la guía `smartwatch` — ver sesión de más abajo).
+> Última actualización: 2026-08-04 (publicación de 4 guías STAGED + checklist SEO semanal + test A/B de tono en proyector-portatil — ver sesión de más abajo).
+
+## Sesión 2026-08-03/04 — Publicación de 4 guías STAGED, checklist SEO semanal, test de tono en proyector-portatil
+
+Sesión larga (empezó el 2026-08-03, terminó ya entrado el 2026-08-04 sin que se notara el cambio de día — ojo con ese patrón en sesiones largas).
+
+1. **Re-revisión + publicación de 4 guías STAGED** (`ventilador-de-pie`, `cepillo-de-dientes-electrico`, `cerradura-inteligente`, `alarma-para-casa`): cada una pasó por 1-3 rondas de trío auditor (Codex + Gemini). Patrón repetido en las 4: datos hardcodeados en prosa (reviewCount, rating, precio) desincronizados del catálogo real en 3 capas distintas (campo top-level, `structuredData` manual, texto libre de la ficha) — corregir solo una capa no alcanzaba. Hallazgo sitewide durante la revisión: `GuideRenderer.tsx` no abría la primera pregunta del FAQ por defecto pese a que `docs/guias.md` lo exige — afectaba a las 158 guías publicadas, corregido con un cambio de una línea. Las 4 se publicaron (flip de `publishedDate`) y pushearon con autorización explícita de Juan.
+2. **Checklist SEO semanal del reporte `weekly-seo-aeo-loop`** (snapshot GSC #33): 3 `seoTitle` ajustados (cámara de seguridad exterior, termotanque eléctrico, secador de pelo) para matchear clusters de queries en posición 6-10 sin esas palabras clave; 2 links contextuales nuevos hacia `estufa-electrica-bajo-consumo` con ancla exacta.
+3. **Test A/B secuencial de tono en `proyector-portatil`:** la guía con mejor engagement del sitio (461s sesión promedio) pero 0 clicks de afiliado en 28 días. Se descartó el problema de CTAs (verificado: infraestructura idéntica a `cafetera-express`, que sí convierte) y se probó la hipótesis de fatiga por advertencias repetidas — se consolidaron 3 advertencias que se repetían en los 6 productos rankeados en un único callout temprano, sin ocultar ningún dato. El trío detectó un error real en la primera versión (generalización "todos traen Android" cuando un producto no tiene smart), corregido en la 2ª pasada. Medición agendada para 2026-08-31 vía rutina en la nube (`RemoteTrigger`), que deja un aviso commiteado en `docs/seo-tracking-optimizaciones.md` — no puede traer los datos de GSC/GA4 sola (sin credenciales OAuth locales).
+4. **3 candidatas de guía nueva del reporte, ninguna terminó en guía nueva:** "cámaras Geotek" descartada (SERP 100% retail/redes, dificultad SEO 49, sin volumen editorial real en Ubersuggest); "Yara vs Yara Elixir" resuelta sin guía nueva porque `yara-lattafa-guia-completa` ya rankea bien para esas queries (`gsc.py query-pages` lo confirmó) — solo se ajustó `metaDescription`; "HY300 vs HY320" no se tocó, queda condicionado al resultado del test de tono de arriba.
+5. **Diagnóstico de fallas del trío auditor** (documentado en memoria global, no solo acá): Gemini/agy falla de forma reproducible en modo headless con un error de permiso de "command" específico de ciertas tareas (no es cupo agotado necesariamente); Codex puede correr indefinidamente sin escribir el `-o` de salida cuando decide re-correr verificaciones mecánicas ya hechas (como `guides:check` encadenado) en vez de dar veredicto directo — el fix es prohibir explícitamente en el prompt que re-corra chequeos ya confirmados.
+
+## Sesión 27-jul (3) — Guía nueva `reloj-garmin` (3 fichas) + sección "anillo inteligente" en la guía `smartwatch`
 
 ## Sesión 27-jul (3) — Guía nueva `reloj-garmin` (3 fichas) + sección "anillo inteligente" en la guía `smartwatch`
 

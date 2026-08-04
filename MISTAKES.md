@@ -16,6 +16,16 @@
 **Archivos involucrados:** `path/a/archivo.ts`
 -->
 
+## 2026-08-04 — Pegué el mensaje de un commit anterior en un commit nuevo (copy-paste sin revisar)
+
+**Qué pasó:** al commitear el fix de `metaDescription` de `yara-lattafa-guia-completa`, copié y pegué el heredoc del mensaje de commit de una tarea anterior en la misma sesión ("SEO semanal 2026-08-03: seoTitles + links contextuales...") en vez de escribir uno nuevo describiendo el cambio real de Yara. El commit quedó con un mensaje que no correspondía al diff.
+
+**Por qué:** reutilicé la plantilla del comando anterior (heredoc `git commit -m "$(cat <<'EOF' ... EOF)"`) sin releer el contenido antes de ejecutar — el patrón visual del comando era idéntico al de momentos antes, así que no lo noté hasta revisar `git log` después.
+
+**Cómo evitarlo:** antes de correr `git commit`, releer el mensaje completo contra el diff real que se está commiteando, no solo confiar en que el comando "se ve bien" porque sigue la misma estructura de uno anterior. Como no se había pusheado todavía, se corrigió con `git commit --amend` (seguro en este caso puntual: confirmado con `git merge-base --is-ancestor` que el commit no estaba en `origin/master` antes de amendear).
+
+**Archivos involucrados:** `src/data/guides.ts` (commit `8169207`, mensaje corregido).
+
 ## 2026-07-26 — Sugerí auditar un "bug" de JSON-LD que en realidad no existía en producción
 
 **Qué pasó:** mientras escribía la guía `proyector-astronauta`, encontré que la ficha `MLA46927234` tenía un bloque JSON-LD manual (`aggregateRating.reviewCount: '415'`, `offers.price: 20999`) desincronizado del campo dinámico real (`reviewCount: 870`, `price: 18673`). Sin revisar cómo se consume ese campo, lo reporté como bug real y lo flageé con `spawn_task` para auditoría aparte. Juan corrió esa tarea en otra sesión; al retomarla yo mismo, leí el renderer real (`src/app/producto/[slug]/page.tsx`) y descubrí que el `aggregateRating` se calcula en vivo desde `product.rating`/`product.reviewCount` cuando ambos existen (que es el caso en 229 de 231 productos con bloque manual) y el `offers.price` siempre usa `product.price` porque el spread lo pisa al final — el bloque manual nunca llega a renderizarse para casi ningún producto. No había ningún bug visible en producción.
