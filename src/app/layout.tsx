@@ -78,6 +78,10 @@ export default function RootLayout({
       className={`${plusJakarta.variable} ${dmSans.variable} ${dancingScript.variable}`}
       suppressHydrationWarning
     >
+      {/* Casi todas las imágenes de producto salen de mlstatic; abrir la
+          conexión antes de que el navegador la pida achica el tiempo hasta
+          la primera imagen visible (LCP del hero en la mayoría de páginas). */}
+      <link rel="preconnect" href="https://http2.mlstatic.com" />
       <body className="min-h-screen flex flex-col">
         {/* Salto de teclado: sin esto, un usuario de teclado/lector de pantalla
             tiene que tabular por todo el header (logo, nav, categorías, buscador,

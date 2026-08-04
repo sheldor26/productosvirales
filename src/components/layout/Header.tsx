@@ -3,7 +3,7 @@
 import Link from "next/link";
 import { useState, useEffect, useRef } from "react";
 import { useRouter } from "next/navigation";
-import { Menu, X, Sun, Moon, Search, ChevronDown, Heart } from "lucide-react";
+import { Menu, Sun, Moon, Search, ChevronDown, Heart } from "lucide-react";
 import { useTheme } from "next-themes";
 import { cn } from "@/lib/utils";
 import { SearchInput } from "@/components/ui/SearchInput";

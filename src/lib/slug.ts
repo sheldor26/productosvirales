@@ -20,7 +20,7 @@ export function ensureSectionIds(guide: Guide): Guide {
       seen.add(s.id);
       return s;
     }
-    let id = slugify(s.title || "");
+    const id = slugify(s.title || "");
     if (!id) return s;
     let unique = id;
     let i = 2;

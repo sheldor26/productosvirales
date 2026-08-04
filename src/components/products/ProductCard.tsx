@@ -31,7 +31,6 @@ const badgeConfig = {
 
 interface ProductCardProps {
   product: CardProduct;
-  index?: number;
   /** Mark the card's image as LCP candidate (priority + fetchpriority=high). */
   priority?: boolean;
   /** Modo "comparar" activo en la grilla: muestra el checkbox de selección. */
@@ -51,7 +50,6 @@ interface ProductCardProps {
 
 export function ProductCard({
   product,
-  index = 0,
   priority = false,
   compareMode = false,
   compareSelected = false,

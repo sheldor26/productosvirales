@@ -18,8 +18,25 @@ const faqItems = [
 ];
 
 export function HomeFAQ() {
+  const faqLd = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    mainEntity: faqItems.map((item) => ({
+      "@type": "Question",
+      name: item.q,
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: item.a,
+      },
+    })),
+  };
+
   return (
     <section>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqLd) }}
+      />
       <h2
         className="text-xl md:text-2xl font-bold text-[var(--text-primary)] mb-5"
         style={{ fontFamily: "var(--font-display)" }}
