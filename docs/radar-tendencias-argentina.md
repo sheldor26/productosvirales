@@ -7,6 +7,34 @@
 > por filtrar de más. Mirar una vez por semana con criterio propio.
 > Entradas nuevas arriba.
 
+## 2026-08-05
+
+- **clima** — 1 M+ búsquedas (+50%, 5 h)
+- **river plate - rosario central** — 500 mil+ búsquedas (+1.000%, anteayer)
+- **newell's - boca juniors** — 500 mil+ búsquedas (+1.000%, anteayer)
+- **facundo moyano** — 200 mil+ búsquedas (+1.000%, ayer)
+- **natasha ward** — 50 mil+ búsquedas (+1.000%, 23 h)
+- **enner valencia** — 20 mil+ búsquedas (+1.000%, ayer)
+- **k league all-stars - manchester city** — 20 mil+ búsquedas (+1.000%, 5 h)
+- **chelsea - juventus** — 10 mil+ búsquedas (+1.000%, 4 h)
+- **milan - inter** — 10 mil+ búsquedas (+1.000%, 5 h)
+- **7 de agosto** — 10 mil+ búsquedas (+600%, ayer)
+- **remo - santos** — 10 mil+ búsquedas (+1.000%, 15 h)
+- **cesar gastelum** — 5 mil+ búsquedas (+1.000%, 9 h)
+- **nicolás lodeiro** — 5 mil+ búsquedas (+1.000%, 17 h)
+- **michael douglas** — 5 mil+ búsquedas (+900%, 19 h)
+- **multa** — 5 mil+ búsquedas (+1.000%, 22 h)
+- **ley de tierras** — 5 mil+ búsquedas (+600%, anteayer)
+- **balón de oro** — 5 mil+ búsquedas (+1.000%, 20 h)
+- **eva bargiela** — 5 mil+ búsquedas (+700%, ayer)
+- **certificado de defunción** — 5 mil+ búsquedas (+1.000%, 24 h)
+- **pronóstico del tiempo** — 5 mil+ búsquedas (+200%, 6 h)
+- **perez hilton** — 2 mil+ búsquedas (+600%, 12 h)
+- **luciana salazar** — 2 mil+ búsquedas (+400%, 15 h)
+- **premio** — 2 mil+ búsquedas (+400%, 17 h)
+- **fernando muslera** — 1 mil+ búsquedas (+1.000%, 4 h)
+- **franco mastantuono** — 1 mil+ búsquedas (+400%, 1 h)
+
 ## 2026-07-08
 
 - **colombia vs suiza** — 1 M+ búsquedas (+1.000%, ayer)
