@@ -770,3 +770,27 @@ Todas con `affiliateUrl: "PEGAR_MELI_LA"` (placeholder, pendiente de que Juan pe
 - **Pasada 3 (Codex, acotada al residual):** corregido, commit `efc374e`. **Codex: GO, 10/10.**
 
 **Veredicto final: 10/10 de Codex + 10/10 de Gemini.** Segunda confirmación consecutiva de la misma lección de proceso que en `planchita-de-pelo-profesional`: los hallazgos de enlazado interno tienden a sobrevivir en fichas de producto que no se re-revisan línea por línea después del primer fix. Para la guía 3/3 (power-bank-solar), la instrucción es chequear proactivamente todas las menciones cruzadas ANTES de la primera pasada del trío, no después.
+
+---
+
+## Guía nueva (modo CREAR): power-bank-solar, 2026-08-05
+
+Satélite del pilar `cargador-portatil` (silo tech). El pilar no incluye ningún producto con panel solar, así que no hay solapamiento de intención. `gsc.py audit`/`CURRENT_STATE.md` no mostraron otra URL del sitio compitiendo por "power bank solar" antes de escribir.
+
+**4 productos sourceados en vivo por Chrome (MercadoLibre, 2026-08-05), ninguno inventado:**
+
+| Producto | MLA ID | Precio | Rating | Reseñas | Nota |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| Mixio 50.000 mAh | MLAU3079854886 | $56.260 | 4.7 ★ | 336 | El más elegido (mayor capacidad + respaldo) |
+| Gadnic B60 15.000 mAh | MLA35433385 | $39.999 | 4.3 ★ | 201 | Inalámbrico + linterna; discrepancia título (15.000) vs ficha ("10 Ah") sin resolver |
+| Ecopower 22.000 mAh | MLA45503497 | $46.347 | 4.8 ★ | 9 (declarado honestamente) | Mejor nota, base de datos chica |
+| Lictin 12.000 mAh | MLA65964012 | $18.500 | 4.3 ★ | 8 (declarado honestamente) | El más accesible |
+
+Aplicando la lección de `teclado-mecanico-60`: todas las menciones cruzadas de producto en prosa (dentro de la guía y entre las 4 fichas entre sí, incluida la referencia al Gadnic 25.000 mAh del propio pilar) se enlazaron a `/producto/MLA...` desde el primer commit, no en una ronda de corrección posterior. Todas con `affiliateUrl: "PEGAR_MELI_LA"` (placeholder, pendiente de que Juan pegue los links reales). Guía en STAGED (`publishedDate: "2026-09-03"`), enlazado bidireccional con el pilar `cargador-portatil`.
+
+**Trío auditor — 2 pasadas hasta 10/10 real:**
+
+- **Pasada 1 (Codex + Gemini en paralelo):** **Gemini: GO, 10/10** explícito, sin reservas. **Codex: NO-GO, 8/10** con 2 hallazgos reales: (1) un con de la ficha Gadnic decía "precio más alto que el Mixio" cuando en realidad Gadnic ($39.999) es más barato que Mixio ($56.260) — invertido; (2) las 4 menciones de "Gadnic de 25.000 mAh" (el producto del pilar) enlazaban solo a la guía del pilar, no a su ficha `/producto/MLA28743686`. Ambos corregidos: el con se reescribió con la comparación real (peor relación precio por mAh de la comparativa, matemáticamente verificado: Gadnic $2,67/mAh > Lictin $1,54/mAh > Mixio $1,13/mAh), y las 4 menciones ahora enlazan directo a la ficha del Gadnic 25.000 mAh. Commit `61c1164`.
+- **Pasada 2 (Codex, acotada a los 2 puntos):** confirmó ambos resueltos correctamente y sin nuevos hallazgos. **Codex: GO, 10/10.**
+
+**Veredicto final: 10/10 de Codex + 10/10 de Gemini.** Con las 3 guías del loop cerradas, el patrón queda claro: enlazar proactivamente desde el primer commit (aplicado acá) reduce las rondas de auditoría de 3 a 2, pero no las elimina — vale la pena seguir chequeando cifras cruzadas (precios, comparaciones "más caro/más barato que") con la misma rigurosidad que el enlazado, ya que ambos tipos de error pasaron desapercibidos en una primera escritura cuidadosa.
