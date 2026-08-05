@@ -743,3 +743,30 @@ Todas con `affiliateUrl: "PEGAR_MELI_LA"` (placeholder, pendiente de que Juan pe
 - **Codex, pasada 3 (acotada a los 3 residuales):** **GO, 10/10.** Confirmó los 3 puntos resueltos correctamente, sin introducir errores nuevos, y no encontró más residuales al re-barrer la guía completa.
 
 **Veredicto final: 10/10 de Codex + 10/10 de Gemini.** Lección de proceso: un "todos los fixes aplicados" declarado por Claude después de la primera pasada no garantiza cobertura completa — la segunda pasada de Codex encontró que el mismo tipo de error (framing de precio) sobrevivía en fichas de producto que no se habían re-revisado línea por línea tras el primer commit. Vale la pena una pasada de verificación acotada (barata, effort=high pero prompt corto) en vez de asumir que "ya se aplicó" es lo mismo que "se aplicó en todos los lugares".
+
+---
+
+## Guía nueva (modo CREAR): teclado-mecanico-60, 2026-08-05
+
+Satélite del pilar `teclado-gamer` (silo gaming). El pilar ya incluye un 60% premium (Razer Huntsman Mini) como pick #6, pero no compara dentro de esa franja específica: no hay otra guía del sitio que cubra "teclado mecánico 60%" como categoría propia. `gsc.py audit`/`CURRENT_STATE.md` no mostraron otra URL compitiendo por esa intención antes de escribir.
+
+**4 productos sourceados en vivo por Chrome (MercadoLibre, 2026-08-05), ninguno inventado:**
+
+| Producto | MLA ID | Precio | Rating | Reseñas | Idioma |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| Redragon Dragonborn K630 | MLA24102185 | $56.999 | 4.8 ★ | 4.486 | Español con ñ |
+| Havit KB903L | MLA46192536 | $49.225 | 4.8 ★ | 666 | Inglés US (sin ñ) |
+| Noga Ganon 60% | MLA19788553 | $36.999 | 4.7 ★ | 554 | Español |
+| Netmak NM-Dominate | MLAU2880692521 | $43.639 | 5.0 ★ | 3 (declarado honestamente) | Español con ñ |
+
+Nota de honestidad clave: el Netmak tiene solo 3 reseñas totales pese a la nota 5.0 — se presenta como transparencia explícita en la guía y la ficha, no como un dato oculto. El backlog viejo (`docs/productos-backlog.md`) tenía un candidato genérico (MLA58811447) y dos premium (Corsair K65 Mini, HyperX Alloy Origins 60 con id MLAU121305368) marcados "pendiente" — se verificaron en vivo antes de usarlos: el HyperX del backlog daba 404 (stale, confirmado el patrón ya documentado en memoria de que los IDs viejos del backlog no son confiables sin re-verificar), así que se hizo sourcing 100% fresco por búsqueda en vivo en `listado.mercadolibre.com.ar/teclado-mecanico-60` en su lugar.
+
+Todas con `affiliateUrl: "PEGAR_MELI_LA"` (placeholder, pendiente de que Juan pegue los links reales de meli.la antes de publicar). Guía en STAGED (`publishedDate: "2026-09-02"`), enlazado bidireccional con el pilar `teclado-gamer`.
+
+**Trío auditor — 3 pasadas hasta 10/10 real:**
+
+- **Pasada 1 (Codex + Gemini en paralelo):** ambos coincidieron en el mismo bloqueante real: menciones cruzadas de producto en prosa sin link markdown a `/producto/MLA...` — tanto referencias al pilar (Razer Huntsman Mini, Kumara K552) en `guides.ts`, como referencias cruzadas entre las 4 fichas nuevas entre sí ("el Dragonborn K630 de esta guía", "a diferencia del Havit") en `curated-products.ts`. Se confirmó que `ProductDetail.tsx` usa `renderInlineMarkdown` en `verdict`/`cons`/`articleBody`/`faq`, así que sí soporta markdown ahí. Codex: NO-GO 8-9/10. Gemini: GO con reserva (no pudo inspeccionar píxeles de las imágenes), 8.5/10. Nota de proceso: en esta pasada, cada CLI role-playeó ambos roles (Codex+Gemini) en su propio archivo de salida en vez de solo el suyo — el hallazgo era real y coincidente, pero el formato de salida quedó confuso; corregido en la pasada 2 aclarando explícitamente "sos UN SOLO auditor, no dos".
+- **Pasada 2 (con prompt de rol único):** todas las menciones cruzadas linkeadas, commit `58d9739`. **Gemini: GO, 10/10** explícito ("trabajo impecable"). **Codex: NO-GO, 9/10** — un residual real: "como el Huntsman Mini" sin link en el `articleBody` de la ficha Dragonborn K630.
+- **Pasada 3 (Codex, acotada al residual):** corregido, commit `efc374e`. **Codex: GO, 10/10.**
+
+**Veredicto final: 10/10 de Codex + 10/10 de Gemini.** Segunda confirmación consecutiva de la misma lección de proceso que en `planchita-de-pelo-profesional`: los hallazgos de enlazado interno tienden a sobrevivir en fichas de producto que no se re-revisan línea por línea después del primer fix. Para la guía 3/3 (power-bank-solar), la instrucción es chequear proactivamente todas las menciones cruzadas ANTES de la primera pasada del trío, no después.
