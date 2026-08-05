@@ -52621,7 +52621,7 @@ Compralo si priorizás la máxima capacidad bruta y querés el power bank solar 
     description: "Power bank solar Gadnic B60, con carga inalámbrica y linterna integrada. Marca ya conocida en el sitio (Gadnic 25.000 mAh en la guía general de cargadores portátiles). 4.3 estrellas en 201 opiniones.",
     seoTitle: "Gadnic B60: power bank solar con inalámbrica y linterna",
     metaDescription: "Power bank solar Gadnic B60: carga inalámbrica, linterna integrada, 3 puertos. 4.3 estrellas en 201 opiniones. Precio real y discrepancia de capacidad explicada.",
-    verdict: "El Gadnic B60 sirve si querés funciones extra que ninguno de los otros 3 power banks solares de esta guía tiene: carga inalámbrica y linterna integrada, de una marca con otros productos ya evaluados en el sitio (el [Gadnic de 25.000 mAh](/guias/tech/cargador-portatil) de la guía general de cargadores portátiles). La honestidad completa: hay una discrepancia real entre el título (15.000 mAh) y la ficha técnica de MercadoLibre (que declara 10 Ah, es decir 10.000 mAh), sin confirmar con el fabricante.",
+    verdict: "El Gadnic B60 sirve si querés funciones extra que ninguno de los otros 3 power banks solares de esta guía tiene: carga inalámbrica y linterna integrada, de una marca con otros productos ya evaluados en el sitio (el [Gadnic de 25.000 mAh](/producto/MLA28743686) de la [guía general de cargadores portátiles](/guias/tech/cargador-portatil)). La honestidad completa: hay una discrepancia real entre el título (15.000 mAh) y la ficha técnica de MercadoLibre (que declara 10 Ah, es decir 10.000 mAh), sin confirmar con el fabricante.",
     pros: [
       "Único de esta comparativa con carga inalámbrica",
       "Linterna integrada, útil justamente en los cortes de luz o salidas donde más se usa un power bank solar",
@@ -52631,11 +52631,11 @@ Compralo si priorizás la máxima capacidad bruta y querés el power bank solar 
     cons: [
       "Discrepancia real entre el título (15.000 mAh) y la ficha técnica de MercadoLibre (declara \"10 Ah\", o sea 10.000 mAh): no se pudo confirmar cuál es la cifra correcta con el fabricante",
       "Calificación más baja de esta comparativa junto con el [Lictin](/producto/MLA65964012) (4.3)",
-      "Precio más alto que el [Mixio](/producto/MLAU3079854886) pese a la capacidad declarada menor",
+      "Peor relación precio por mAh de esta comparativa: incluso con la cifra más generosa del título (15.000 mAh), sale más caro por mAh que el [Mixio](/producto/MLAU3079854886) o el [Lictin](/producto/MLA65964012)",
     ],
     articleBody: `## Qué es y para quién
 
-El B60 es el power bank solar de Gadnic, marca argentina de electrónica ya conocida en el sitio (aparece en nuestra [guía general de cargadores portátiles](/guias/tech/cargador-portatil) con un modelo de 25.000 mAh sin panel solar). Este trae panel solar, carga inalámbrica y una linterna integrada.
+El B60 es el power bank solar de Gadnic, marca argentina de electrónica ya conocida en el sitio (aparece en nuestra [guía general de cargadores portátiles](/guias/tech/cargador-portatil) con el [Gadnic de 25.000 mAh](/producto/MLA28743686), sin panel solar). Este trae panel solar, carga inalámbrica y una linterna integrada.
 
 ## Lo bueno
 
@@ -52652,7 +52652,7 @@ Comprala si te sirven la carga inalámbrica y la linterna integrada, y preferís
       { question: "¿El Gadnic B60 tiene 15.000 o 10.000 mAh?", answer: "El título de la publicación dice 15.000 mAh, pero la ficha técnica de MercadoLibre declara \"10 Ah\" (10.000 mAh) en el campo de capacidad. Es una discrepancia real entre dos fuentes del mismo vendedor que no pudimos resolver con una ficha de fabricante independiente." },
       { question: "¿Tiene carga inalámbrica de verdad?", answer: "Sí, según la ficha del producto es el único de esta comparativa de 4 power banks solares con esa función." },
       { question: "¿Para qué sirve la linterna integrada?", answer: "Es un extra pensado para el mismo escenario donde más se usa un power bank solar: un corte de luz o una salida al aire libre sin enchufe cerca." },
-      { question: "¿Es la misma marca Gadnic de la guía de cargadores portátiles?", answer: "Sí, es la misma marca argentina, pero un producto distinto: en la [guía general de cargadores portátiles](/guias/tech/cargador-portatil) evaluamos un Gadnic de 25.000 mAh sin panel solar; este B60 es de la línea solar de la marca." },
+      { question: "¿Es la misma marca Gadnic de la guía de cargadores portátiles?", answer: "Sí, es la misma marca argentina, pero un producto distinto: en la [guía general de cargadores portátiles](/guias/tech/cargador-portatil) evaluamos el [Gadnic de 25.000 mAh](/producto/MLA28743686) sin panel solar; este B60 es de la línea solar de la marca." },
     ],
   },
   {

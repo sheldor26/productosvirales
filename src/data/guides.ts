@@ -4380,7 +4380,7 @@ export const guides: Guide[] = [
 
       { type: "h3", title: `2. Gadnic B60 — inalámbrico y con linterna` },
       { type: "product-card", productMlaId: "MLA35433385", label: "Inalámbrico + linterna", labelColor: "amber", ranking: 2, description: `Único de esta comparativa con carga inalámbrica y linterna integrada. Marca ya conocida en el sitio. 4.3 estrellas en 201 opiniones.` },
-      { type: "p", content: `El [Gadnic B60](/producto/MLA35433385) es el único de esta guía con **carga inalámbrica** y suma una **linterna integrada**, útil justo en el escenario donde más se usa un power bank solar (corte de luz, aire libre), a alrededor de {{precio:MLA35433385:k}}. Es la misma marca del [Gadnic de 25.000 mAh](/guias/tech/cargador-portatil) de nuestra guía general de cargadores portátiles, aunque un producto distinto.` },
+      { type: "p", content: `El [Gadnic B60](/producto/MLA35433385) es el único de esta guía con **carga inalámbrica** y suma una **linterna integrada**, útil justo en el escenario donde más se usa un power bank solar (corte de luz, aire libre), a alrededor de {{precio:MLA35433385:k}}. Es la misma marca del [Gadnic de 25.000 mAh](/producto/MLA28743686) de nuestra [guía general de cargadores portátiles](/guias/tech/cargador-portatil), aunque un producto distinto.` },
       { type: "p", content: `Lo honesto: hay una discrepancia real entre el título (15.000 mAh) y la ficha técnica de MercadoLibre, que declara "10 Ah" (10.000 mAh). No pudimos confirmar cuál es la cifra correcta con el fabricante.` },
 
       { type: "h3", title: `3. Ecopower 22.000 mAh — la mejor calificación` },
