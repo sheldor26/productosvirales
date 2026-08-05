@@ -3248,6 +3248,303 @@ Sí, si jugás competitivo, valorás los switches ópticos y querés un teclado 
     ],
   },
 
+  // ─── Teclados mecánicos 60% — importados via Chrome (ago 2026). Satélite teclado-mecanico-60 del silo gaming (STAGED) ───
+  {
+    id: "MLA24102185",
+    title: "Teclado Dragonborn K630 Qwerty Red Negro Con Luz Rgb Español Idioma Español Latinoamérica",
+    canonicalName: "Teclado Redragon Dragonborn K630 60%",
+    price: 56999,
+    originalPrice: 59999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_960287-MLA99934533463_112025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_960287-MLA99934533463_112025-O.webp",
+    ],
+    category: "Gaming",
+    categorySlug: "gaming",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA24102185",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 4486,
+    pastelColor: "var(--pastel-verde)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Redragon" },
+      { label: "Línea", value: "Dragonborn K630" },
+      { label: "Tamaño", value: "60%" },
+      { label: "Idioma", value: "Español latinoamericano (con ñ)" },
+      { label: "Switch", value: "Dust Proof Red (lineal, silencioso)" },
+      { label: "Resistencia a salpicaduras", value: "Sí" },
+      { label: "Cable", value: "Removible, 1,8 m" },
+      { label: "Iluminación", value: "RGB" },
+      { label: "Peso", value: "570 g" },
+    ],
+    relatedProducts: ["MLA16085611", "MLA46192536", "MLA19788553", "MLAU2880692521"],
+    priceUpdated: "2026-08-05",
+    priceLastChecked: "2026-08-05",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-08-05",
+    description: "Teclado mecánico Redragon Dragonborn K630, 60% real con layout español latinoamericano (con ñ) y switches red silenciosos. El más elegido de esta comparativa: 4.8 estrellas en 4.486 opiniones, la base de datos más sólida de los teclados 60% del sitio.",
+    seoTitle: "Redragon Dragonborn K630: el 60% más elegido, en español",
+    metaDescription: "Teclado mecánico Redragon Dragonborn K630 60%: switches red, resistente a salpicaduras, español con ñ. 4.8 estrellas en 4.486 opiniones. Precio real y veredicto.",
+    verdict: "El Dragonborn K630 sirve si buscás un 60% real (sin flechas ni numérico, todo el escritorio libre para el mouse) pero en español con ñ y sin pagar el precio de un premium óptico: switches red silenciosos, resistente a salpicaduras y la base de reseñas más grande de esta comparativa. No es la opción si necesitás flechas o numérico a mano todo el tiempo, ahí un formato más grande rinde mejor.",
+    pros: [
+      "La base de reseñas más grande de esta comparativa: 4.8 estrellas en 4.486 opiniones reales",
+      "Layout español latinoamericano con ñ, algo que no todos los 60% traen",
+      "Switches Dust Proof Red: lineales y silenciosos, buenos para gaming sin molestar al resto",
+      "Resistente a salpicaduras, útil si tomás algo cerca de la compu",
+      "Cable removible de 1,8 m",
+    ],
+    cons: [
+      "Es 60% real: sin flechas, sin fila de F1-F12 ni numérico como teclas físicas, se usan con FN",
+      "No es tan compacto/premium en materiales como un óptico de gama alta (ver Razer Huntsman Mini en la guía general de teclado gamer)",
+      "El RGB se configura con combinaciones de teclas, no trae software dedicado según la ficha",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Dragonborn K630 es un teclado mecánico 60% de Redragon, marca ya conocida en el sitio por el Kumara K552 (el mecánico más vendido de la guía general de teclado gamer). Acá el formato cambia: sin flechas, sin fila de F1-F12 ni numérico, todo el escritorio libre para el mouse. Layout español latinoamericano con ñ, algo que en esta franja de precio no siempre viene incluido.
+
+## Lo bueno
+
+Es, por lejos, el teclado 60% con más respaldo de reseñas de esta comparativa: 4.8 estrellas en 4.486 opiniones reales, casi siete veces más que el segundo. Los switches son Dust Proof Red, lineales y silenciosos (pensados para gaming sin el ruido clicky de otros mecánicos), y el teclado es resistente a salpicaduras, un extra que ni el Razer Huntsman Mini de la guía general tiene declarado. El cable es removible de 1,8 metros.
+
+## La contra real
+
+Es 60% de verdad, así que las flechas, la fila de F y el numérico no existen como teclas físicas: se usan con la tecla FN, y hay curva de adaptación si nunca usaste un formato así. No tiene la terminación premium (keycaps PBT, top de aluminio) de un óptico de gama alta como el Huntsman Mini, y la personalización del RGB se hace con combinaciones de teclas, no con un software dedicado según la ficha del producto.
+
+## Para quién sí y para quién no
+
+Compralo si querés un 60% real para gaming, en español, con el respaldo de reseñas más grande de la categoría y sin pagar el precio de un óptico premium. Si necesitás flechas o numérico a mano todo el tiempo (planillas, trabajo), un formato TKL o full size como el Kumara K552 de la guía general te va a rendir mejor.`,
+    faq: [
+      { question: "¿El Dragonborn K630 tiene ñ?", answer: "Sí, viene en layout español latinoamericano con ñ y acentos en tecla directa, algo que no todos los teclados 60% de esta franja de precio traen." },
+      { question: "¿Cuántas reseñas reales tiene?", answer: "4.486 opiniones con 4.8 estrellas de promedio en MercadoLibre Argentina, la base de datos más grande entre los teclados 60% de este sitio." },
+      { question: "¿Es resistente al agua?", answer: "Es resistente a salpicaduras según la ficha del producto, útil si se te vuelca algo cerca, aunque no está pensado para sumergirlo ni para derrames grandes." },
+      { question: "¿Trae software para configurar el RGB?", answer: "La ficha del producto no menciona un software dedicado; la configuración de luces se hace con combinaciones de teclas directo en el teclado." },
+    ],
+  },
+  {
+    id: "MLA46192536",
+    title: "Teclado Gamer Havit Kb903l Mecánico Usb C 60% Switch Red Teclado Negro",
+    canonicalName: "Teclado Havit KB903L 60%",
+    price: 49225,
+    originalPrice: 74999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_601644-MLA113146483305_062026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_601644-MLA113146483305_062026-O.webp",
+    ],
+    category: "Gaming",
+    categorySlug: "gaming",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA46192536",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 666,
+    pastelColor: "var(--pastel-lila)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Havit" },
+      { label: "Modelo", value: "KB903LB" },
+      { label: "Tamaño", value: "60%" },
+      { label: "Idioma", value: "Inglés US (sin ñ)" },
+      { label: "Switch", value: "Red (lineal)" },
+      { label: "Anti-ghosting", value: "Sí" },
+      { label: "Conectividad", value: "USB-C, cable removible" },
+      { label: "Iluminación", value: "Rainbow RGB" },
+      { label: "Vendedor", value: "Tienda oficial Havit" },
+    ],
+    relatedProducts: ["MLA16085611", "MLA24102185", "MLA19788553", "MLAU2880692521"],
+    priceUpdated: "2026-08-05",
+    priceLastChecked: "2026-08-05",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-08-05",
+    description: "Teclado mecánico Havit KB903L, 60% con switches red y cable USB-C removible, vendido por la tienda oficial de la marca. Layout inglés US (sin ñ). 4.8 estrellas en 666 opiniones.",
+    seoTitle: "Havit KB903L: 60% de tienda oficial, con USB-C",
+    metaDescription: "Teclado mecánico Havit KB903L 60%: switch red, USB-C removible, anti-ghosting. 4.8 estrellas en 666 opiniones, tienda oficial. Precio real y contras honestas.",
+    verdict: "El Havit KB903L sirve si buscás un 60% de tienda oficial (no un revendedor), con cable USB-C removible y switches red silenciosos, y no te molesta el layout en inglés. No es la opción si escribís mucho en español: no tiene ñ ni acentos en tecla directa, a diferencia del Dragonborn K630 de esta misma guía.",
+    pros: [
+      "Vendido por la tienda oficial de Havit, no un revendedor",
+      "4.8 estrellas en 666 opiniones reales",
+      "Cable USB-C removible: se transporta fácil y se reemplaza si se daña",
+      "Switches red lineales y silenciosos, con anti-ghosting",
+      "Buen descuento respecto al precio de lista (34% off)",
+    ],
+    cons: [
+      "Layout inglés US: no tiene ñ ni acentos en tecla directa, a diferencia del Dragonborn K630 de esta guía",
+      "Es 60% real: sin flechas, F1-F12 ni numérico físico, se usan con FN",
+      "Menos reseñas que el Dragonborn K630 (666 contra 4.486), aunque igual de buena calificación",
+    ],
+    articleBody: `## Qué es y para quién
+
+El KB903L es el teclado mecánico 60% de Havit, vendido directo por la tienda oficial de la marca en MercadoLibre Argentina. Switches red lineales, cable USB-C removible y una reseña real que compara con detalle su uso en Linux y el manejo del layout inglés con combinaciones para lograr acentos y ñ.
+
+## Lo bueno
+
+Es de tienda oficial, no de un revendedor, algo que en productos importados chinos no siempre está garantizado. Tiene 4.8 estrellas en 666 opiniones reales, anti-ghosting (registra varias teclas presionadas a la vez, importante para gaming) y cable USB-C removible: se transporta fácil y si se rompe el cable, lo reemplazás por cualquiera estándar sin tirar el teclado. El precio con el 34% de descuento queda competitivo dentro de la franja 60%.
+
+## La contra real
+
+El layout es inglés US, sin ñ ni acentos en tecla directa. Una reseña real y detallada de un usuario de Linux explica cómo resolverlo con combinaciones (altgr + n para la ñ), pero es un paso extra que el Dragonborn K630 de esta misma guía no necesita, porque ya viene en español. Como todo 60%, tampoco tiene flechas ni numérico físico.
+
+## Para quién sí y para quién no
+
+Compralo si preferís comprarle directo a la tienda oficial de la marca, no te complica escribir en inglés (o ya sabés resolver la ñ con combinaciones) y buscás un 60% con buen respaldo de reseñas. Si escribís seguido en español y querés la ñ en tecla directa sin vueltas, el Dragonborn K630 de esta guía es la opción más simple.`,
+    faq: [
+      { question: "¿El Havit KB903L tiene ñ?", answer: "No, viene en layout inglés US sin ñ ni acentos en tecla directa. Se pueden lograr con combinaciones de teclas (por ejemplo altgr + n), según explican compradores en las reseñas, pero no es directo." },
+      { question: "¿Es de tienda oficial?", answer: "Sí, esta publicación puntual está vendida por la tienda oficial de Havit en MercadoLibre Argentina, no por un revendedor." },
+      { question: "¿El cable se puede cambiar?", answer: "Sí, usa cable USB-C removible: si se daña, lo reemplazás por cualquier cable USB-C estándar sin tener que cambiar el teclado entero." },
+      { question: "¿Tiene anti-ghosting?", answer: "Sí, según la ficha del producto, lo que permite que registre varias teclas presionadas al mismo tiempo sin perder ninguna, importante para combos rápidos en juegos." },
+    ],
+  },
+  {
+    id: "MLA19788553",
+    title: "Teclado Gamer Mecanico 60% Pc Rgb Noga Ganon 60% Switch Blue",
+    canonicalName: "Teclado Noga Ganon 60%",
+    price: 36999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_929450-MLU73675454745_122023-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_929450-MLU73675454745_122023-O.webp",
+    ],
+    category: "Gaming",
+    categorySlug: "gaming",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA19788553",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 554,
+    pastelColor: "var(--pastel-celeste)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Noga" },
+      { label: "Modelo", value: "Ganon 60%" },
+      { label: "Idioma", value: "Español" },
+      { label: "Switch", value: "Blue (clicky)" },
+      { label: "Anti-ghosting", value: "Sí" },
+      { label: "Resistencia a salpicaduras", value: "No" },
+      { label: "Cable", value: "Removible" },
+      { label: "Iluminación", value: "RGB" },
+    ],
+    relatedProducts: ["MLA16085611", "MLA24102185", "MLA46192536", "MLAU2880692521"],
+    priceUpdated: "2026-08-05",
+    priceLastChecked: "2026-08-05",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-08-05",
+    description: "Teclado mecánico Noga Ganon 60%, el más accesible de esta comparativa: switches blue clicky, español, 4.7 estrellas en 554 opiniones. La entrada al formato 60% gastando lo mínimo.",
+    seoTitle: "Noga Ganon 60%: el mecánico 60% más accesible",
+    metaDescription: "Teclado mecánico Noga Ganon 60%: switch blue, español, RGB. El más barato de esta comparativa, 4.7 estrellas en 554 opiniones. Precio real y contras honestas.",
+    verdict: "El Noga Ganon 60% sirve si querés probar el formato 60% gastando lo mínimo: switches blue clicky, español y buen respaldo de reseñas para su precio. No sirve si compartís ambiente y el ruido del switch blue molesta, o si buscás resistencia a salpicaduras (no la tiene, a diferencia del Dragonborn K630 de esta misma guía).",
+    pros: [
+      "El más accesible de esta comparativa por lejos",
+      "4.7 estrellas en 554 opiniones reales",
+      "Layout español",
+      "Anti-ghosting, cable removible",
+    ],
+    cons: [
+      "Switch blue: clicky y ruidoso, no ideal para ambientes compartidos (a diferencia del switch red silencioso del Dragonborn K630 o el Havit de esta guía)",
+      "No es resistente a salpicaduras según la ficha",
+      "Vendido por un revendedor, no por una tienda oficial de la marca",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Ganon 60% es el teclado mecánico más accesible de esta comparativa, de Noga, marca argentina conocida en electrónica de consumo. Switches blue (clicky, con el sonido y tacto marcado típico de este tipo de switch), layout español y formato 60% real.
+
+## Lo bueno
+
+Es la puerta de entrada más barata al formato 60% de toda la guía, con 4.7 estrellas en 554 opiniones reales, un respaldo sólido para su precio. Viene en español, tiene anti-ghosting y cable removible. Para quien quiere probar el formato compacto sin gastar de más, cumple.
+
+## La contra real
+
+El switch blue es clicky y ruidoso: si compartís ambiente con alguien, se nota. La ficha no declara resistencia a salpicaduras, a diferencia del Dragonborn K630 de esta misma guía. Y esta publicación puntual la vende un revendedor, no la tienda oficial de Noga, así que conviene revisar la reputación del vendedor antes de comprar.
+
+## Para quién sí y para quién no
+
+Compralo si el presupuesto manda y querés entrar al formato 60% gastando lo mínimo, sin que te moleste el ruido del switch blue. Si compartís espacio o preferís un switch silencioso, el Dragonborn K630 o el Havit KB903L de esta misma guía (ambos con switch red) son mejor opción.`,
+    faq: [
+      { question: "¿El Noga Ganon 60% es el más barato de esta comparativa?", answer: "Sí, es la opción más accesible entre los 4 teclados 60% de esta guía, con 4.7 estrellas en 554 opiniones reales." },
+      { question: "¿Qué tipo de switch tiene?", answer: "Switch blue, que es clicky: hace ruido y tiene un tacto con click marcado. Si compartís ambiente o grabás/llamás seguido, puede molestar; para eso, el Dragonborn K630 o el Havit de esta guía (switch red, silencioso) rinden mejor." },
+      { question: "¿Viene en español?", answer: "Sí, según la ficha del producto el layout es español." },
+      { question: "¿Es de tienda oficial de Noga?", answer: "No, esta publicación puntual la vende un revendedor. Conviene revisar la reputación del vendedor en MercadoLibre antes de comprar." },
+    ],
+  },
+  {
+    id: "MLAU2880692521",
+    title: "Teclado Gamer Mecánico Netmak 60% Rgb Switch Azul Usb-c Ñ",
+    canonicalName: "Teclado Netmak NM-Dominate 60%",
+    price: 43639,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_743118-MLA93170331245_092025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_743118-MLA93170331245_092025-O.webp",
+    ],
+    category: "Gaming",
+    categorySlug: "gaming",
+    permalink: "https://www.mercadolibre.com.ar/p/MLAU2880692521",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new",
+    freeShipping: true,
+    rating: 5.0,
+    reviewCount: 3,
+    pastelColor: "var(--pastel-amarillo)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Netmak" },
+      { label: "Modelo", value: "NM-Dominate" },
+      { label: "Idioma", value: "Español Latinoamérica (con ñ)" },
+      { label: "Switch", value: "Cherry MX RGB Blue" },
+      { label: "Anti-ghosting", value: "Sí" },
+      { label: "Resistencia a salpicaduras", value: "Sí" },
+      { label: "Conectividad", value: "USB-C" },
+      { label: "Iluminación", value: "RGB" },
+      { label: "Peso", value: "580 g" },
+    ],
+    relatedProducts: ["MLA16085611", "MLA24102185", "MLA46192536", "MLA19788553"],
+    priceUpdated: "2026-08-05",
+    priceLastChecked: "2026-08-05",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-08-05",
+    description: "Teclado mecánico Netmak NM-Dominate 60%, el único de esta comparativa con switches Cherry MX (marca alemana de referencia en switches), español con ñ, USB-C y resistente a salpicaduras. Nota alta pero con pocas opiniones todavía.",
+    seoTitle: "Netmak NM-Dominate: el único 60% con switch Cherry MX",
+    metaDescription: "Teclado mecánico Netmak NM-Dominate 60%: switch Cherry MX RGB Blue, español con ñ, resistente a salpicaduras. Precio real y honestidad sobre las reseñas.",
+    verdict: "El Netmak NM-Dominate sirve si valorás tener switches Cherry MX reales (la marca de referencia mundial en switches mecánicos) en vez de un switch genérico, sumado a español con ñ y resistencia a salpicaduras. La honestidad completa: tiene muy pocas opiniones todavía (3 al momento de esta guía), así que la nota de 5.0 es real pero con poco volumen de datos detrás, a diferencia del Dragonborn K630 de esta misma guía.",
+    pros: [
+      "El único de esta comparativa con switches Cherry MX (marca alemana de referencia en switches mecánicos, no un genérico)",
+      "Layout español latinoamericano con ñ",
+      "Resistente a salpicaduras",
+      "Conectividad USB-C",
+    ],
+    cons: [
+      "Muy pocas opiniones todavía (3 al momento de esta guía): la nota de 5.0 es real pero con poco volumen de datos, a diferencia de los otros 3 teclados de esta comparativa",
+      "Es 60% real: sin flechas, F1-F12 ni numérico físico",
+      "Menos posicionado en el sitio que las otras opciones (menos ventas visibles)",
+    ],
+    articleBody: `## Qué es y para quién
+
+El NM-Dominate es el teclado mecánico 60% de Netmak, marca argentina de electrónica, y el único de esta comparativa que declara switches Cherry MX: la marca alemana que fabrica los switches mecánicos de referencia en la industria (muchos teclados "mecánicos" usan switches genéricos que imitan el diseño Cherry sin ser de la marca original).
+
+## Lo bueno
+
+Tener Cherry MX real es un diferencial técnico concreto frente a los switches genéricos de las otras 3 opciones de esta guía. Suma layout español con ñ, resistencia a salpicaduras y conectividad USB-C. En las pocas opiniones que tiene, la calificación es la más alta de la comparativa (5.0).
+
+## La contra real
+
+Acá va la honestidad completa: al momento de escribir esta guía, tiene solo 3 opiniones en MercadoLibre. Es un dato real, no inventado, pero significa que el 5.0 se apoya en muy poco volumen comparado con las 4.486 opiniones del Dragonborn K630 o las 666 del Havit de esta misma guía. Si preferís guiarte por un historial de reseñas más grande, esas dos opciones dan más certeza.
+
+## Para quién sí y para quién no
+
+Compralo si te importa específicamente tener switches Cherry MX originales y no te preocupa que el producto tenga pocas reseñas todavía (es una apuesta más informada que a ciegas, por el prestigio de la marca de switch, pero apuesta al fin). Si preferís elegir en base a un historial de reseñas grande y probado, el Dragonborn K630 de esta misma guía es la opción más segura.`,
+    faq: [
+      { question: "¿Qué son los switches Cherry MX?", answer: "Cherry MX es la marca alemana que originó el diseño de switch mecánico más copiado de la industria. Muchos teclados 'mecánicos' usan switches genéricos que imitan ese diseño sin ser de la marca original; el NM-Dominate es el único de esta comparativa que declara Cherry MX real." },
+      { question: "¿Por qué tiene tan pocas reseñas si la nota es tan alta?", answer: "Es un producto con menos volumen de ventas visible en el sitio que las otras opciones de esta guía, así que acumuló menos opiniones. La nota de 5.0 es real, pero con solo 3 reseñas hay que tomarla con cautela comparada con productos que tienen miles." },
+      { question: "¿Tiene ñ?", answer: "Sí, viene en layout español latinoamericano con ñ y acentos en tecla directa." },
+      { question: "¿Es resistente al agua?", answer: "Es resistente a salpicaduras según la ficha del producto, útil ante un derrame accidental cerca del teclado." },
+    ],
+  },
+
   // ─── Kits gamer (teclado + mouse) — importados via Chrome (jul 2026, API ML caída). Silo gaming (STAGED) ───
   {
     id: "MLA19079378",
