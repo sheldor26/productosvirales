@@ -265,4 +265,24 @@ export const categories: Category[] = [
       </ul>
     `,
   },
+  {
+    slug: "movilidad",
+    name: "Movilidad",
+    icon: "Bike",
+    pastel: "var(--color-pastel-blue)",
+    h1: "Movilidad Personal: Bicicletas, Monopatines y Scooters",
+    description: "Bicicletas, monopatines eléctricos y scooters para moverte por la ciudad, comparados con precio real de MercadoLibre",
+    buyersGuide: `
+      <h2>Qué vas a encontrar en esta categoría</h2>
+      <p>Bicicletas rodado 29 tipo mountain bike y monopatines/scooters eléctricos, las dos categorías de movilidad personal con más demanda en MercadoLibre Argentina. Comparamos modelos reales por precio, respaldo de reseñas y componentes (frenos, cambios, cuadro), no por lo que dice el título del vendedor.</p>
+
+      <h2>Qué mirar antes de comprar</h2>
+      <ul>
+        <li><strong>Material del cuadro (bicicletas):</strong> acero es más pesado pero más barato; aluminio pesa menos pero cuesta más. La ficha técnica de MercadoLibre lo declara, no siempre coincide con lo que sugiere el título.</li>
+        <li><strong>Marca real del cambio de velocidades:</strong> varios títulos mencionan "Shimano" cuando solo una de las dos piezas (delantera o trasera) es de esa marca. Revisá siempre la ficha técnica completa.</li>
+        <li><strong>Peso máximo soportado:</strong> varía bastante entre modelos (115 a 125 kg en bicicletas). Confirmalo antes de comprar si estás cerca del límite.</li>
+        <li><strong>Respaldo de reseñas:</strong> un rating alto con pocas opiniones no es lo mismo que un rating sostenido por miles de compradores reales.</li>
+      </ul>
+    `,
+  },
 ];

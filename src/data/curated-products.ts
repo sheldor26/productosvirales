@@ -66520,6 +66520,485 @@ Comprá este peluche si buscás la opción más accesible y con más respaldo de
       },
     },
   },
+  {
+    id: "MLA48478468",
+    title: "Bicicleta Mtb Overtech R29 Q5 21v Freno A Disco Negro/Rojo Talle L",
+    canonicalName: "Bicicleta Overtech R29 Q5",
+    price: 499999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_793841-MLA85365577803_052025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_793841-MLA85365577803_052025-O.webp",
+    ],
+    category: "Movilidad",
+    categorySlug: "movilidad",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA48478468",
+    affiliateUrl: "https://meli.la/12Hs143",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 18746,
+    pastelColor: "var(--pastel-azul)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Overtech" },
+      { label: "Línea", value: "R29" },
+      { label: "Modelo", value: "Q5" },
+      { label: "Año", value: "2023" },
+      { label: "Rodado", value: "29" },
+      { label: "Tipo", value: "Mountain bike" },
+      { label: "Cuadro", value: "Acero inoxidable" },
+      { label: "Velocidades", value: "21" },
+      { label: "Freno delantero", value: "Disco mecánico" },
+      { label: "Freno trasero", value: "Disco mecánico" },
+      { label: "Cambio trasero", value: "Shimano TY21" },
+      { label: "Cambio delantero", value: "Sunrun FD-35" },
+      { label: "Suspensión", value: "Delantera" },
+      { label: "Peso", value: "20 kg" },
+      { label: "Peso máximo soportado", value: "125 kg" },
+      { label: "Llanta", value: "Aluminio, doble pared" },
+    ],
+    relatedProducts: ["MLA61732398", "MLA63460526", "MLA62903959", "MLA74126437", "MLA1114038122"],
+    priceUpdated: "2026-08-05",
+    priceLastChecked: "2026-08-05",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-08-05",
+    description: "Overtech R29 Q5: la bicicleta rodado 29 más vendida de esta comparativa por lejos, con casi 19.000 calificaciones. Cuadro de acero inoxidable, freno a disco en ambas ruedas y cambio trasero Shimano, aunque el delantero es de una marca genérica.",
+    seoTitle: "Overtech R29 Q5: la bicicleta rodado 29 más vendida en Argentina",
+    metaDescription: "Overtech R29 Q5: 18.746 calificaciones, 4.7 estrellas, freno a disco y cambio trasero Shimano. Precio real, specs verificadas y contras reales antes de comprar.",
+    verdict: "La Overtech R29 Q5 es la bicicleta rodado 29 con más reseñas de todo Mercado Libre Argentina, y eso pesa: casi 19.000 compradores reales la calificaron con 4.7 estrellas. Cumple lo básico (freno a disco en ambas ruedas, suspensión delantera, 21 velocidades) a un precio medio. La contra real: el título menciona \"Shimano\" pero solo el cambio trasero es de esa marca, el delantero es Sunrun. Si buscás la opción más probada del mercado, es esta.",
+    pros: [
+      "Lejos la más vendida de esta comparativa: 18.746 calificaciones con 4.7 estrellas, la base de reseñas más grande de cualquier bicicleta del sitio",
+      "Freno a disco mecánico en ambas ruedas, igual que el resto de esta comparativa",
+      "Cambio trasero Shimano TY21, marca reconocida en componentes de bici",
+      "Soporta hasta 125 kg, el máximo de las 6 bicicletas de esta guía",
+      "Reseñas reales describen el andar como suave y silencioso pese al grupo mixto",
+    ],
+    cons: [
+      "El título menciona \"Shimano\" pero la ficha técnica muestra que solo el cambio trasero es Shimano (TY21); el delantero es Sunrun FD-35, no es un grupo Shimano completo",
+      "Es la más pesada de esta comparativa (20 kg)",
+      "No incluye manual de armado según la ficha técnica",
+      "Reseñas mencionan componentes menores (frenos, caja pedalera) genéricos, esperable a este precio",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Overtech R29 Q5 es una mountain bike rodado 29 de cuadro de acero inoxidable, con 21 velocidades y freno a disco mecánico en ambas ruedas. Es, con enorme diferencia, la bicicleta con más reseñas de toda la categoría en Mercado Libre Argentina.
+
+## Lo bueno
+
+Casi 19.000 calificaciones con 4.7 estrellas es un volumen de prueba social que ninguna otra bicicleta de esta comparativa se acerca a igualar. Las reseñas reales describen un andar suave y silencioso, y varios compradores la comparan favorablemente contra bicicletas de marcas más caras. Trae freno a disco en las dos ruedas y suspensión delantera, lo esperable en esta franja de precio, y soporta hasta 125 kg.
+
+## La contra real
+
+El título del producto menciona "Shimano 12x", pero la ficha técnica oficial muestra 21 velocidades con cambio trasero Shimano TY21 y cambio delantero Sunrun FD-35: no es un grupo Shimano completo, solo una pieza lo es. Varias reseñas confirman esto directamente ("no son shimano pero por ser chino mal"), y también mencionan frenos y caja pedalera genéricos. Es además la más pesada de esta comparativa (20 kg) y no incluye manual de armado.
+
+## Para quién sí y para quién no
+
+Comprala si priorizás la opción más probada del mercado, con la base de reseñas más grande y sólida. Si el cambio Shimano completo te importa específicamente, revisá la SLP 5 Pro o la SLP 10 Pro, que también usan Shimano Tourney en el trasero pero con menos ambigüedad en el nombre del producto.`,
+    faq: [
+      { question: "¿La Overtech R29 Q5 tiene grupo Shimano completo?", answer: "No. Según la ficha técnica, solo el cambio trasero es Shimano (TY21); el delantero es Sunrun FD-35. El título del producto menciona \"Shimano\" pero no es un grupo completo de esa marca." },
+      { question: "¿Cuánto pesa la Overtech R29 Q5?", answer: "20 kg según la ficha técnica, la más pesada de esta comparativa de 6 bicicletas rodado 29." },
+      { question: "¿Por qué tiene tantas reseñas?", answer: "Con 18.746 calificaciones es la bicicleta rodado 29 más vendida de Mercado Libre Argentina en esta comparativa, por lejos la de mayor volumen de ventas." },
+      { question: "¿Incluye manual de armado?", answer: "No, según la ficha técnica del producto no incluye manual de armado, a diferencia de la Alpina 1.0 Pro y las SLP." },
+    ],
+  },
+  {
+    id: "MLA61732398",
+    title: "Bicicleta Alpina Mtb Mountain Bike 1.0 Rodado 29 21 Velocidades Negro/Rojo Talle M",
+    canonicalName: "Bicicleta Alpina MTB 1.0 Pro",
+    price: 390000,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_861485-MLA107450831449_022026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_861485-MLA107450831449_022026-O.webp",
+    ],
+    category: "Movilidad",
+    categorySlug: "movilidad",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA61732398",
+    affiliateUrl: "https://meli.la/2bWQNC7",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 2822,
+    pastelColor: "var(--pastel-verde)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Alpina" },
+      { label: "Línea", value: "MTB" },
+      { label: "Modelo", value: "1.0 Pro" },
+      { label: "Año", value: "2025" },
+      { label: "Rodado", value: "29" },
+      { label: "Tipo", value: "Mountain bike" },
+      { label: "Cuadro", value: "Acero inoxidable" },
+      { label: "Velocidades", value: "21" },
+      { label: "Freno delantero", value: "Disco mecánico" },
+      { label: "Freno trasero", value: "Disco mecánico" },
+      { label: "Cambios", value: "Trioblade EF51 (delantero y trasero)" },
+      { label: "Suspensión", value: "Delantera" },
+      { label: "Peso", value: "17 kg" },
+      { label: "Peso máximo soportado", value: "115 kg" },
+      { label: "Llanta", value: "Aluminio, doble pared" },
+    ],
+    relatedProducts: ["MLA48478468", "MLA63460526", "MLA62903959", "MLA74126437", "MLA1114038122"],
+    priceUpdated: "2026-08-05",
+    priceLastChecked: "2026-08-05",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-08-05",
+    description: "Alpina 1.0 Pro: el mejor equilibrio de esta comparativa entre rating alto y respaldo de reseñas grande (4.8 estrellas en 2.822 calificaciones, la segunda base más grande). Cuadro de acero inoxidable, freno a disco en ambas ruedas.",
+    seoTitle: "Alpina 1.0 Pro: bicicleta rodado 29 con rating alto y gran respaldo",
+    metaDescription: "Alpina MTB 1.0 Pro rodado 29: 4.8 estrellas en 2.822 calificaciones, la segunda base de reseñas más grande de la comparativa. Specs verificadas, precio real y contras honestas.",
+    verdict: "La Alpina 1.0 Pro combina un rating muy alto con un respaldo grande de verdad: 4.8 estrellas en 2.822 reseñas, la segunda base más grande de esta comparativa después de la Overtech. Cumple lo básico bien (freno a disco, suspensión delantera, cuadro liviano para ser de acero), pero soporta menos peso que las demás (115 kg) y varias reseñas mencionan que llega con las ruedas desinfladas y algún pedal flojo. Es la opción más elegida para quien quiere rating alto sin apostar a un producto con pocas reseñas.",
+    pros: [
+      "4.8 estrellas, el segundo mejor rating de esta comparativa (después del 4.9 de la Ghepard)",
+      "Segunda base de reseñas más grande: 2.822 calificaciones",
+      "Buen equilibrio precio-calidad, aunque ya no es la más barata de esta guía",
+      "La más liviana entre las de cuadro de acero (17 kg)",
+      "Incluye manual de armado según la ficha técnica",
+    ],
+    cons: [
+      "Peso máximo soportado más bajo de la comparativa: 115 kg (las demás llegan a 120-125 kg)",
+      "Varias reseñas reportan que llega con las ruedas desinfladas y hay que revisarlas antes de salir",
+      "Al menos una reseña reporta un pedal que se soltó en uso",
+      "El grupo de cambios Trioblade es una marca genérica, sin el reconocimiento de Shimano",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Alpina MTB 1.0 Pro es una mountain bike rodado 29 de cuadro de acero inoxidable, 21 velocidades y freno a disco mecánico en ambas ruedas. Combina un rating muy alto con un respaldo de reseñas grande.
+
+## Lo bueno
+
+Con 4.8 estrellas en 2.822 calificaciones, tiene el segundo mejor rating de esta comparativa (después del 4.9 de la Ghepard, que tiene mucho menos historial) y la segunda base de reseñas más grande, después de la Overtech. Pesa 17 kg, liviana para ser de cuadro de acero, e incluye manual de armado. Las reseñas describen un armado sencillo y una bicicleta cómoda para uso diario.
+
+## La contra real
+
+Soporta hasta 115 kg, el límite más bajo de esta comparativa (las demás llegan a 120-125 kg). Varias reseñas reales mencionan que la bicicleta llega con las ruedas desinfladas de fábrica (hay que inflarlas antes de salir) y al menos un comprador reportó que se le soltó un pedal en uso. El grupo de cambios es Trioblade, una marca sin el reconocimiento de Shimano que sí tienen las SLP.
+
+## Para quién sí y para quién no
+
+Comprala si querés un rating alto respaldado por miles de reseñas reales, y no superás los 115 kg de peso. Revisá que las ruedas tengan buena presión y que los pedales estén bien ajustados antes de la primera salida larga. Si pesás más de 115 kg o preferís un grupo de cambios más reconocido, la Overtech (125 kg, Shimano trasero) o las SLP son mejor opción.`,
+    faq: [
+      { question: "¿Cuánto peso soporta la Alpina 1.0 Pro?", answer: "115 kg según la ficha técnica, el límite más bajo de esta comparativa de 6 bicicletas rodado 29." },
+      { question: "¿Es la bicicleta rodado 29 mejor calificada?", answer: "No, la Ghepard X 1.0 Gen6 tiene mejor rating (4.9 contra 4.8), aunque con muchas menos reseñas (90 contra 2.822). Entre las bicicletas con respaldo grande, la Alpina tiene el mejor rating de esta comparativa." },
+      { question: "¿Llega armada?", answer: "No, según la ficha técnica requiere ensamblado e incluye manual de armado." },
+      { question: "¿Hay que revisar algo antes de la primera salida?", answer: "Sí: varias reseñas reales mencionan que llega con las ruedas desinfladas, así que conviene chequear la presión antes de salir. También revisar que los pedales estén bien ajustados." },
+    ],
+  },
+  {
+    id: "MLA63460526",
+    title: "Bicicleta Mtb Slp 5 Pro Rodado 29 21v Disco Mecánico Acero Negro/Amarillo Talle M",
+    canonicalName: "Bicicleta SLP 5 Pro",
+    price: 444228,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_968766-MLA102324666443_122025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_968766-MLA102324666443_122025-O.webp",
+    ],
+    category: "Movilidad",
+    categorySlug: "movilidad",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA63460526",
+    affiliateUrl: "https://meli.la/2FKhB8E",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 1001,
+    pastelColor: "var(--pastel-ambar)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "SLP" },
+      { label: "Modelo", value: "5 Pro" },
+      { label: "Año", value: "2025" },
+      { label: "Rodado", value: "29" },
+      { label: "Tipo", value: "Mountain bike" },
+      { label: "Cuadro", value: "Acero" },
+      { label: "Velocidades", value: "21" },
+      { label: "Freno delantero", value: "Disco mecánico" },
+      { label: "Freno trasero", value: "Disco mecánico" },
+      { label: "Cambio trasero", value: "Shimano Tourney TZ31" },
+      { label: "Cambio delantero", value: "SLP 3x7" },
+      { label: "Suspensión", value: "Delantera" },
+      { label: "Peso", value: "19 kg" },
+      { label: "Peso máximo soportado", value: "120 kg" },
+      { label: "Altura recomendada", value: "1,65 m a 1,75 m" },
+    ],
+    relatedProducts: ["MLA48478468", "MLA61732398", "MLA62903959", "MLA74126437", "MLA1114038122"],
+    priceUpdated: "2026-08-05",
+    priceLastChecked: "2026-08-05",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-08-05",
+    description: "SLP 5 Pro: cuadro de acero con cambio trasero Shimano Tourney TZ31, marca reconocida en componentes. 1.001 calificaciones con 4.7 estrellas, precio intermedio entre la Alpina y la SLP 10 (versión aluminio de la misma línea).",
+    seoTitle: "SLP 5 Pro: bicicleta rodado 29 con cambio trasero Shimano",
+    metaDescription: "SLP 5 Pro rodado 29: cuadro de acero, cambio trasero Shimano Tourney TZ31, 4.7 estrellas en 1.001 calificaciones. Specs y precio real verificados.",
+    verdict: "La SLP 5 Pro es la opción de esta comparativa con el cambio trasero de marca más reconocida (Shimano Tourney TZ31), en un cuadro de acero a precio intermedio. Es 3 kg más pesada que su hermana de aluminio (SLP 10 Pro), así que si el peso te importa y podés pagar la diferencia, esa es la alternativa lógica dentro de la misma marca.",
+    pros: [
+      "1.001 calificaciones con 4.7 estrellas, buena base de reseñas",
+      "Cambio trasero Shimano Tourney TZ31, marca reconocida mundialmente en componentes de bici",
+      "Freno a disco mecánico en ambas ruedas",
+      "Precio intermedio entre la Alpina (más barata) y la SLP 10 (aluminio, más cara)",
+    ],
+    cons: [
+      "Cuadro de acero: 3 kg más pesada que la SLP 10 Pro (aluminio) de la misma marca y línea de componentes",
+      "El cambio delantero es SLP 3x7, marca propia sin el reconocimiento de Shimano; solo el trasero es Shimano",
+      "Las reseñas sampleadas son en su mayoría cortas y sin detalle de contras específicas, menos información de primera mano que en las otras bicicletas de esta comparativa",
+    ],
+    articleBody: `## Qué es y para quién
+
+La SLP 5 Pro es una mountain bike rodado 29 de cuadro de acero, 21 velocidades y freno a disco mecánico en ambas ruedas, con cambio trasero Shimano Tourney TZ31.
+
+## Lo bueno
+
+El cambio trasero Shimano Tourney TZ31 es un componente de marca reconocida mundialmente, algo que no todas las bicicletas de esta franja de precio ofrecen (la Alpina usa Trioblade, marca genérica). Tiene 1.001 calificaciones con 4.7 estrellas, y su precio queda en un punto intermedio dentro de esta comparativa.
+
+## La contra real
+
+El cambio delantero es SLP 3x7, la marca propia del fabricante, no Shimano: solo la pieza trasera lleva esa marca. Además, al ser de cuadro de acero, pesa 19 kg, 3 kg más que la SLP 10 Pro (la versión aluminio de la misma línea, con el mismo cambio trasero Shimano). Las reseñas que pudimos revisar son en su mayoría cortas y positivas, sin el nivel de detalle sobre contras que sí aparece en las otras bicicletas de esta comparativa.
+
+## Para quién sí y para quién no
+
+Comprala si querés un cambio trasero de marca reconocida sin pagar el extra del cuadro de aluminio. Si el peso te importa más que el precio, la SLP 10 Pro (mismo cambio trasero, cuadro de aluminio, 16 kg) es la alternativa directa dentro de la misma marca.`,
+    faq: [
+      { question: "¿La SLP 5 Pro tiene cambio Shimano?", answer: "El cambio trasero es Shimano Tourney TZ31, según la ficha técnica. El delantero es SLP 3x7, marca propia del fabricante." },
+      { question: "¿Cuánto pesa la SLP 5 Pro?", answer: "19 kg según la ficha técnica, 3 kg más que la SLP 10 Pro (versión aluminio de la misma línea)." },
+      { question: "¿Qué diferencia hay con la SLP 10 Pro?", answer: "La SLP 5 Pro tiene cuadro de acero (19 kg) y la SLP 10 Pro tiene cuadro de aluminio (16 kg, más liviana). Ambas comparten el mismo cambio trasero Shimano Tourney TZ31." },
+      { question: "¿Para qué altura está pensada?", answer: "Según la ficha técnica, el talle M está recomendado para personas de entre 1,65 m y 1,75 m." },
+    ],
+  },
+  {
+    id: "MLA62903959",
+    title: "Bicicleta Slp 10 Mtb Aluminio Rodado 29 Freno Disco Negro/Amarillo Talle 18",
+    canonicalName: "Bicicleta SLP 10 Pro",
+    price: 501047,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_831519-MLA100509098279_122025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_831519-MLA100509098279_122025-O.webp",
+    ],
+    category: "Movilidad",
+    categorySlug: "movilidad",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA62903959",
+    affiliateUrl: "https://meli.la/1xVGDCZ",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 895,
+    pastelColor: "var(--pastel-violeta)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "SLP" },
+      { label: "Modelo", value: "10 Pro" },
+      { label: "Año", value: "2025" },
+      { label: "Rodado", value: "29" },
+      { label: "Tipo", value: "Mountain bike" },
+      { label: "Cuadro", value: "Aluminio" },
+      { label: "Velocidades", value: "21" },
+      { label: "Freno delantero", value: "Disco mecánico" },
+      { label: "Freno trasero", value: "Disco mecánico" },
+      { label: "Cambio trasero", value: "Shimano Tourney TZ31" },
+      { label: "Cambio delantero", value: "SLP 3x7" },
+      { label: "Suspensión", value: "Delantera" },
+      { label: "Peso", value: "16 kg" },
+      { label: "Peso máximo soportado", value: "120 kg" },
+      { label: "Edad mínima recomendada", value: "10 años" },
+    ],
+    relatedProducts: ["MLA48478468", "MLA61732398", "MLA63460526", "MLA74126437", "MLA1114038122"],
+    priceUpdated: "2026-08-05",
+    priceLastChecked: "2026-08-05",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-08-05",
+    description: "SLP 10 Pro: empata con la Fire Bird como la más liviana de esta comparativa (16 kg), pero es la única con cuadro de aluminio (más resistente a la corrosión que el acero). Mismo cambio trasero Shimano Tourney TZ31 que la SLP 5 Pro, en un cuadro más liviano.",
+    seoTitle: "SLP 10 Pro: la bicicleta rodado 29 más liviana de aluminio",
+    metaDescription: "SLP 10 Pro rodado 29: cuadro de aluminio, 16 kg, cambio trasero Shimano Tourney TZ31. 4.7 estrellas en 895 calificaciones. Precio real y contras honestas.",
+    verdict: "La SLP 10 Pro empata con la Fire Bird como la más liviana de esta comparativa (16 kg), pero es la única de cuadro de aluminio, y comparte el cambio trasero Shimano Tourney TZ31 con su hermana de acero. Es la segunda más cara de las 6 (detrás de la Fire Bird), y varias reseñas reales avisan que conviene revisar los pedales y la regulación de cambios apenas llega. Si el peso del cuadro es tu prioridad y podés pagar el extra, es la elegida.",
+    pros: [
+      "Empata con la Fire Bird como la más liviana de esta comparativa (16 kg), pero es la única de cuadro de aluminio",
+      "895 calificaciones con 4.7 estrellas",
+      "Mismo cambio trasero Shimano Tourney TZ31 que la SLP 5 Pro, pero en un cuadro más liviano",
+      "Reseñas reales confirman uso de hasta 120 km semanales sin problemas mayores",
+    ],
+    cons: [
+      "Es la segunda más cara de esta comparativa ($501.047, detrás de la Fire Bird)",
+      "Reseñas reportan que los pedales de plástico de fábrica son de baja duración y conviene cambiarlos pronto",
+      "Varios compradores mencionan que los cambios llegan mal regulados de fábrica y hay que ajustarlos antes de rodar largo",
+      "Al menos una reseña indica que la pata de apoyo (caballete) es corta",
+    ],
+    articleBody: `## Qué es y para quién
+
+La SLP 10 Pro es una mountain bike rodado 29 de cuadro de aluminio, 21 velocidades y freno a disco mecánico en ambas ruedas, con el mismo cambio trasero Shimano Tourney TZ31 que la SLP 5 Pro pero en una estructura más liviana.
+
+## Lo bueno
+
+Con 16 kg empata con la Fire Bird como la más liviana de esta comparativa, pero es la única con cuadro de aluminio (que no se oxida como el acero de las demás). Reseñas confirman que aguanta bien un uso intenso: un comprador reporta hacerle 120 km semanales repartidos en 3 salidas sin problemas. Tiene 895 calificaciones con 4.7 estrellas.
+
+## La contra real
+
+Es la segunda más cara de esta comparativa, detrás de la Fire Bird. Varias reseñas reales avisan de dos cosas para revisar apenas llega: los pedales de plástico de fábrica son de baja duración ("no te van a durar ni un mes", según una reseña) y conviene cambiarlos pronto, y los cambios suelen llegar mal regulados, por lo que hay que ajustarlos (o llevarla a un service) antes de salir a rodar largo. Un comprador también señaló que la pata de apoyo es corta.
+
+## Para quién sí y para quién no
+
+Comprala si el peso del cuadro es tu prioridad, querés aluminio en vez de acero, y estás dispuesto a revisar pedales y regulación de cambios apenas la recibís (o llevarla a un mecánico para el ajuste inicial). Si preferís no lidiar con eso y el peso no te preocupa tanto, la SLP 5 Pro (mismo cambio trasero, 3 kg más, más barata) es la alternativa directa.`,
+    faq: [
+      { question: "¿Cuánto pesa la SLP 10 Pro?", answer: "16 kg según la ficha técnica. Empata con la Fire Bird como la más liviana de esta comparativa de 6 bicicletas rodado 29, pero es la única con cuadro de aluminio." },
+      { question: "¿Hay que ajustar algo al recibirla?", answer: "Varias reseñas reales recomiendan revisar la regulación de los cambios apenas llega, y cambiar los pedales de plástico de fábrica que reportan poca durabilidad." },
+      { question: "¿Qué diferencia tiene con la SLP 5 Pro?", answer: "La SLP 10 Pro tiene cuadro de aluminio (16 kg) y la SLP 5 Pro tiene cuadro de acero (19 kg, más pesada pero más barata). Ambas comparten el mismo cambio trasero Shimano Tourney TZ31." },
+      { question: "¿Desde qué edad se puede usar?", answer: "La ficha técnica recomienda una edad mínima de 10 años." },
+    ],
+  },
+  {
+    id: "MLA74126437",
+    title: "Bicicleta Mtb Ghepard X 1.0 Gen6 Rodado 29 21v Disco Mecánico Negro Talle M",
+    canonicalName: "Bicicleta Ghepard X 1.0 Gen6",
+    price: 316209,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_753423-MLA112356774856_062026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_753423-MLA112356774856_062026-O.webp",
+    ],
+    category: "Movilidad",
+    categorySlug: "movilidad",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA74126437",
+    affiliateUrl: "https://meli.la/2ERuUsp",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.9,
+    reviewCount: 90,
+    pastelColor: "var(--pastel-coral)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Ghepard" },
+      { label: "Modelo", value: "X 1.0" },
+      { label: "Rodado", value: "29" },
+      { label: "Tipo", value: "Mountain bike" },
+      { label: "Cuadro", value: "Acero inoxidable" },
+      { label: "Velocidades", value: "21" },
+      { label: "Freno delantero", value: "Disco mecánico" },
+      { label: "Freno trasero", value: "Disco mecánico" },
+      { label: "Manijas de cambios", value: "Shimano ST-EF500" },
+      { label: "Suspensión", value: "Delantera" },
+      { label: "Peso máximo soportado", value: "120 kg" },
+      { label: "Edad mínima recomendada", value: "14 años" },
+      { label: "Altura recomendada", value: "1,65 m a 1,75 m" },
+    ],
+    relatedProducts: ["MLA48478468", "MLA61732398", "MLA63460526", "MLA62903959", "MLA1114038122"],
+    priceUpdated: "2026-08-05",
+    priceLastChecked: "2026-08-05",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-08-05",
+    description: "Ghepard X 1.0 Gen6: la más barata de esta comparativa y con la mejor calificación (4.9 estrellas), aunque todavía con pocas reseñas (90) comparado con el resto. Manijas de cambios Shimano ST-EF500.",
+    seoTitle: "Ghepard X 1.0 Gen6: la bicicleta rodado 29 más barata bien calificada",
+    metaDescription: "Ghepard X 1.0 Gen6 rodado 29: la más barata de esta comparativa, 4.9 estrellas, manijas de cambios Shimano ST-EF500. Precio real y contras honestas.",
+    verdict: "La Ghepard X 1.0 Gen6 es la más barata de esta comparativa y la que mejor calificación tiene (4.9 estrellas), con manijas de cambios de marca Shimano. La contra real: tiene solo 90 calificaciones, la base de reseñas más chica de las 6 bicicletas de esta guía por lejos. Es una buena apuesta si el precio manda, con el riesgo normal de comprar algo con menos historial todavía.",
+    pros: [
+      "La más barata de esta comparativa: $316.209",
+      "La mejor calificación de las 6: 4.9 estrellas",
+      "Manijas de cambios Shimano ST-EF500, marca reconocida",
+      "Reseñas reales describen un armado rápido y buena terminación por el precio",
+    ],
+    cons: [
+      "Solo 90 calificaciones, la base de reseñas más chica de esta comparativa (la Overtech tiene 18.746)",
+      "La ficha técnica no declara el peso de la bicicleta",
+      "No incluye manual de armado según la ficha técnica",
+      "La ficha especifica la marca de las manijas de cambios (Shimano) pero no confirma por separado la marca de los cambios delantero y trasero",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Ghepard X 1.0 Gen6 es una mountain bike rodado 29 de cuadro de acero inoxidable, 21 velocidades y freno a disco mecánico en ambas ruedas, con manijas de cambios de marca Shimano (ST-EF500).
+
+## Lo bueno
+
+Es la más barata de esta comparativa por bastante margen y, pese a eso, tiene la mejor calificación de las 6 bicicletas: 4.9 estrellas. Las reseñas reales describen un armado rápido y buena terminación para el precio; una reseña incluso cuenta que la bicicleta se compró para donarla a un chico de una zona rural que caminaba 30 km hasta la escuela.
+
+## La contra real
+
+Tiene solo 90 calificaciones, muy por debajo de las demás bicicletas de esta comparativa (la Overtech tiene 18.746, la Alpina 2.822). No es una señal negativa en sí, pero sí un respaldo mucho más chico para apoyar la decisión. La ficha técnica tampoco declara el peso de la bicicleta ni incluye manual de armado.
+
+## Para quién sí y para quién no
+
+Comprala si el precio es tu prioridad número uno y aceptás confiar en una base de reseñas todavía chica (aunque muy bien calificada). Si preferís el respaldo de miles de compradores reales antes de decidir, la Overtech o la Alpina tienen mucho más historial.`,
+    faq: [
+      { question: "¿Cuál es la bicicleta rodado 29 más barata?", answer: "La Ghepard X 1.0 Gen6, a $316.209, la más barata de esta comparativa de 6 bicicletas." },
+      { question: "¿Tiene cambios Shimano?", answer: "La ficha técnica confirma que las manijas de cambios son Shimano ST-EF500. No especifica por separado la marca de los cambios delantero y trasero." },
+      { question: "¿Cuántas reseñas tiene la Ghepard X 1.0 Gen6?", answer: "90 calificaciones con 4.9 estrellas al momento de esta guía, la base de reseñas más chica de esta comparativa." },
+      { question: "¿Cuánto pesa?", answer: "La ficha técnica de MercadoLibre no declara el peso de esta bicicleta." },
+    ],
+  },
+  {
+    id: "MLA1114038122",
+    title: "Bicicleta Mountain Bike Fire Bird Rodado 29 Ltwoo",
+    canonicalName: "Bicicleta Fire Bird Firebird",
+    price: 526000,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_835976-MLA110598319629_042026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_835976-MLA110598319629_042026-O.webp",
+    ],
+    category: "Movilidad",
+    categorySlug: "movilidad",
+    permalink: "https://articulo.mercadolibre.com.ar/MLA-1114038122-bicicleta-mountain-bike-fire-bird-rodado-29-ltwoo-oferta-_JM",
+    affiliateUrl: "https://meli.la/2Tnnw8H",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.6,
+    reviewCount: 1089,
+    pastelColor: "var(--pastel-amarillo)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Fire Bird" },
+      { label: "Línea", value: "Mountain Bike" },
+      { label: "Modelo", value: "Firebird" },
+      { label: "Rodado", value: "29" },
+      { label: "Tipo", value: "Mountain bike" },
+      { label: "Cuadro", value: "Acero" },
+      { label: "Velocidades", value: "21" },
+      { label: "Freno delantero", value: "Disco mecánico" },
+      { label: "Freno trasero", value: "Disco mecánico" },
+      { label: "Cambio delantero", value: "LTWOO / Fast / Lxiang (según stock)" },
+      { label: "Cambio trasero", value: "LTwoo / FAST / Shining TZ (según stock)" },
+      { label: "Suspensión", value: "Delantera" },
+      { label: "Peso", value: "16 kg" },
+      { label: "Peso máximo soportado", value: "120 kg" },
+      { label: "Edad mínima recomendada", value: "12 años" },
+    ],
+    relatedProducts: ["MLA48478468", "MLA61732398", "MLA63460526", "MLA62903959", "MLA74126437"],
+    priceUpdated: "2026-08-05",
+    priceLastChecked: "2026-08-05",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-08-05",
+    description: "Fire Bird Firebird: la tercera base de reseñas más grande de esta comparativa (1.089 calificaciones). Cuadro de acero de solo 16 kg, aunque la ficha declara varias marcas posibles para el cambio de velocidades según el stock disponible.",
+    seoTitle: "Fire Bird Firebird: bicicleta rodado 29 liviana con 1.089 opiniones",
+    metaDescription: "Fire Bird Firebird rodado 29: 4.6 estrellas en 1.089 calificaciones, cuadro de acero de 16 kg. Precio real y la marca de cambios que declara la ficha, sin ocultar nada.",
+    verdict: "La Fire Bird Firebird tiene la tercera base de reseñas más grande de esta comparativa (1.089 calificaciones, detrás de la Overtech y la Alpina) y pesa solo 16 kg pese a ser de cuadro de acero. La contra real y poco común: la ficha técnica declara varias marcas posibles para el cambio de velocidades (LTWOO, Fast, Lxiang o Shining TZ, según el stock), en vez de una marca fija. Buena opción si el respaldo de reseñas te importa y no te preocupa qué marca exacta de cambios te toque.",
+    pros: [
+      "Tercera base de reseñas más grande de esta comparativa: 1.089 calificaciones con 4.6 estrellas",
+      "Solo 16 kg pese a tener cuadro de acero, de las más livianas de esta comparativa",
+      "Reseñas reales confirman que se siente liviana comparada con otras bicicletas",
+      "Freno a disco mecánico en ambas ruedas",
+    ],
+    cons: [
+      "La ficha técnica declara varias marcas posibles para los cambios (LTWOO/Fast/Lxiang adelante, LTwoo/FAST/Shining TZ atrás) en vez de una marca fija: el componente que llega puede variar según el stock del vendedor",
+      "Reseñas reales mencionan detalles de terminación (un rayón chico en el cuadro, una rueda que a un comprador le pareció desalineada) y describen el asiento de fábrica como duro",
+      "No incluye manual de armado según la ficha técnica",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Fire Bird Firebird es una mountain bike rodado 29 de cuadro de acero, 21 velocidades y freno a disco mecánico en ambas ruedas, con 1.089 calificaciones de compradores reales.
+
+## Lo bueno
+
+Es la tercera bicicleta con más reseñas de esta comparativa, detrás de la Overtech y la Alpina pero por delante del resto. Pesa solo 16 kg pese a ser de cuadro de acero, algo que las reseñas confirman directamente: un comprador la describe como "liviana a comparación de otra bici que tenía antes marca chafa".
+
+## La contra real
+
+La ficha técnica declara varias marcas posibles para el cambio de velocidades (LTWOO, Fast o Lxiang adelante; LTwoo, FAST o Shining TZ atrás), algo poco común: el vendedor no fija una sola marca, así que el componente exacto que llega puede variar según el stock disponible en el momento de la compra. Reseñas reales también mencionan detalles de terminación (un rayón chico debajo del asiento, una rueda que a un comprador le pareció ligeramente desalineada) y describen el asiento de fábrica como duro.
+
+## Para quién sí y para quién no
+
+Comprala si el respaldo de casi 1.100 reseñas te da confianza y no te preocupa qué marca exacta de cambios te toque (todas son marcas chinas de nivel similar). Si preferís una marca de componentes fija y confirmada, la SLP 5 Pro o la SLP 10 Pro (ambas con Shimano Tourney TZ31 confirmado) son más predecibles en ese punto.`,
+    faq: [
+      { question: "¿Qué marca de cambios tiene la Fire Bird Firebird?", answer: "La ficha técnica declara varias marcas posibles según el stock: LTWOO, Fast o Lxiang adelante, y LTwoo, FAST o Shining TZ atrás. No es una marca fija como en las SLP." },
+      { question: "¿Cuánto pesa la Fire Bird Firebird?", answer: "16 kg según la ficha técnica, de las más livianas de esta comparativa pese a tener cuadro de acero (no aluminio)." },
+      { question: "¿Cuántas reseñas tiene?", answer: "1.089 calificaciones con 4.6 estrellas, la tercera base de reseñas más grande de esta comparativa de 6 bicicletas, después de la Overtech (18.746) y la Alpina (2.822)." },
+      { question: "¿Qué problemas reportan las reseñas?", answer: "Algunos compradores mencionan detalles de terminación (un rayón chico, una rueda que pareció desalineada) y describen el asiento de fábrica como duro. Son reportes puntuales, no un patrón generalizado." },
+    ],
+  },
 ];
 
 export const categoryPastels: Record<string, string> = {

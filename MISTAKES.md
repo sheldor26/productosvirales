@@ -16,6 +16,16 @@
 **Archivos involucrados:** `path/a/archivo.ts`
 -->
 
+## 2026-08-05 — Cambiar la cantidad de productos de una guía a mitad de escritura dejó claims de ranking desactualizados
+
+**Qué pasó:** la guía `bicicleta-rodado-29` se escribió primero con 4 productos, pasó el trío auditor, y después Juan pidió que fuera de 6. Al sumar los 2 productos nuevos reescribí el ranking y los superlativos ("la más elegida", "la más liviana", "la más cara") pero no propagué el cambio a todas las capas: quedaron fichas en `curated-products.ts` diciendo "de las 4 bicicletas" o "la más barata" (cuando el producto nuevo pasó a serlo), un producto etiquetado "segunda más elegida" cuando en realidad pasó a ser la tercera en reseñas, y el `standfirst` de la guía siguió citando al producto viejo como "el más caro" cuando el nuevo pasó a costar más. El trío auditor (Codex) lo detectó en 2 pasadas separadas — la primera encontró 4 bloqueantes, la segunda encontró 1 residuo que se había escapado incluso después de la corrección grande.
+
+**Por qué:** al reescribir a mano fui bloque por bloque (ficha por ficha, sección por sección de la guía) en vez de primero hacer un inventario de TODOS los superlativos existentes en el documento y verificar cada uno contra los datos nuevos antes de tocar nada. Los superlativos viven repetidos en varias capas del mismo dato (ficha: `description`/`verdict`/`pros`/`articleBody`/`faq`; guía: `standfirst`/`quickPicks`/`product-card`/párrafos/`tabla`/`precios`/`veredicto`/`faq`) y alcanza con no tocar una sola aparición para que quede una inconsistencia factual real.
+
+**Cómo evitarlo:** cuando cambie la composición de un ranking (sumar/sacar productos, o que un producto cambie de precio/rating/reviewCount), antes de dar por cerrado correr un grep explícito de los superlativos usados ("la más X", "segunda/tercera Y", "de las N productos") sobre el bloque completo (ficha + guía) y recalcular cada uno a mano contra los datos actuales, no solo revisar visualmente los bloques que se tocaron directamente.
+
+**Archivos involucrados:** `src/data/curated-products.ts`, `src/data/guides.ts` (guía `bicicleta-rodado-29`)
+
 ## 2026-08-04 — Pegué el mensaje de un commit anterior en un commit nuevo (copy-paste sin revisar)
 
 **Qué pasó:** al commitear el fix de `metaDescription` de `yara-lattafa-guia-completa`, copié y pegué el heredoc del mensaje de commit de una tarea anterior en la misma sesión ("SEO semanal 2026-08-03: seoTitles + links contextuales...") en vez de escribir uno nuevo describiendo el cambio real de Yara. El commit quedó con un mensaje que no correspondía al diff.
