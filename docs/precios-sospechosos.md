@@ -6,6 +6,30 @@
 > chequearlos en MercadoLibre. Si son reales, avisar para aplicarlos a mano.
 > Entradas nuevas arriba.
 
+## 2026-08-05
+
+- **MLA16269737** — Auriculares Logitech G733 Inalámbricos Color Blanco: $213.911 → $467.059 (+118%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA16269737
+  - Sitio: https://productosvirales.com.ar/producto/MLA16269737
+- **MLA26504431** — Aspiradora Robot Samsung Jetbot Lidar Mapping Dig. Inverter: $1.300.000 → $3.476.040 (+167%)
+  - ML: https://www.mercadolibre.com.ar/aspiradora-robot-samsung-jetbot-lidar-mapping-dig-inverter/p/MLA26504431
+  - Sitio: https://productosvirales.com.ar/producto/MLA26504431
+- **MLA38252447** — Balanza Xiaomi Mi Body Composition Scale S400 Bluetooth Medición de doble frecuencia 25 indicadores de salud hasta 150kg: $229.000 → $89.999 (-61%)
+  - ML: https://www.mercadolibre.com.ar/xiaomi-mi-body-composition-scale-s400-pantalla-led-bluetooth-50-150-kg-escala-de-composicion-corporal-inteligente-para-el-hogar-funciona-con-la-aplicacion-mi-home/p/MLA45283782
+  - Sitio: https://productosvirales.com.ar/producto/MLA38252447
+- **MLA12384031** — Joystick Inalambrico EX600001 Microsoft XBox Negro: $120.000 → $460.998 (+284%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA12384031
+  - Sitio: https://productosvirales.com.ar/producto/MLA12384031
+- **MLA47856504** — Plancha De Pelo Revlon 230° Placas 5.08Cm. Recubrimiento Titanio - plateada glitter: $57.199 → $149.999 (+162%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA47856504
+  - Sitio: https://productosvirales.com.ar/producto/MLA47856504
+- **MLA23437114** — Cafetera Nespresso Lattissima One blanca con leche integrada: $859.800 → $417.002 (-52%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA23437114
+  - Sitio: https://productosvirales.com.ar/producto/MLA23437114
+- **MLA21789761** — Horno Electrico Atma Hga3022 Grill 30l 1500w Timer 250° Gris: $202.799 → $499.999 (+147%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA21789761
+  - Sitio: https://productosvirales.com.ar/producto/MLA21789761
+
 ## 2026-08-03
 
 - **MLA16269737** — Auriculares Logitech G733 Inalámbricos Color Blanco: $213.911 → $467.059 (+118%)
