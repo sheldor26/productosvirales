@@ -52506,6 +52506,304 @@ Compralo si trabajás en movilidad con notebook o querés un único cargador par
     ],
   },
 
+  // ─── Power banks solares — importados via Chrome (ago 2026). Satélite power-bank-solar del silo tech (STAGED) ───
+  {
+    id: "MLAU3079854886",
+    title: "Power Bank Solar Cargador Portatil 50000mah C/cable Mixio",
+    canonicalName: "Power Bank Solar Mixio 50.000 mAh",
+    price: 56260,
+    originalPrice: 99999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_764846-MLA83179686271_032025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_764846-MLA83179686271_032025-O.webp",
+    ],
+    category: "Tech",
+    categorySlug: "tech",
+    permalink: "https://www.mercadolibre.com.ar/p/MLAU3079854886",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 336,
+    pastelColor: "var(--pastel-verde)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Mixio" },
+      { label: "Modelo", value: "MX-PB500" },
+      { label: "Capacidad declarada", value: "50.000 mAh" },
+      { label: "Conectores", value: "USB-C, USB, Lightning (iPhone)" },
+      { label: "Velocidad de carga", value: "Super rápida" },
+      { label: "Voltaje de entrada", value: "12 V" },
+      { label: "Voltaje de salida", value: "5 V" },
+      { label: "Batería", value: "Ion de litio" },
+      { label: "Incluye cable", value: "Sí" },
+    ],
+    relatedProducts: ["MLA35433385", "MLA45503497", "MLA65964012", "MLA28743686"],
+    priceUpdated: "2026-08-05",
+    priceLastChecked: "2026-08-05",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-08-05",
+    description: "Power bank solar Mixio de 50.000 mAh, el de mayor capacidad y mayor respaldo de reseñas de esta comparativa: 4.7 estrellas en 336 opiniones. Conectores USB-C, USB y Lightning en un mismo cable.",
+    seoTitle: "Power Bank Solar Mixio 50.000 mAh: el más elegido",
+    metaDescription: "Power bank solar Mixio 50.000 mAh: carga super rápida, USB-C/USB/Lightning, 4.7 estrellas en 336 opiniones. Precio real y veredicto honesto.",
+    verdict: "El Mixio de 50.000 mAh sirve si buscás la mayor capacidad bruta de esta comparativa con el respaldo de reseñas más grande (336, el más alto del grupo): carga super rápida y un solo cable con las 3 puntas más usadas (USB-C, USB y Lightning). No es la opción si priorizás que el panel solar sea el método principal de carga: como en toda esta categoría, un panel de este tamaño sirve de respaldo de emergencia, no reemplaza cargarlo por cable.",
+    pros: [
+      "La mayor capacidad declarada de esta comparativa: 50.000 mAh",
+      "El respaldo de reseñas más grande del grupo: 336 opiniones con 4.7 estrellas",
+      "Cable con 3 conectores (USB-C, USB, Lightning): sirve para iPhone y Android sin cambiar cable",
+      "Carga super rápida según la ficha",
+    ],
+    cons: [
+      "Es el más pesado y grande de la comparativa por su capacidad: no es de bolsillo",
+      "La ficha técnica de MercadoLibre declara \"Capacidad de la batería: 5 mAh\" en un campo, un error de tipeo evidente del vendedor (la capacidad real declarada en el título y la descripción es 50.000 mAh) — no se pudo confirmar con el fabricante",
+      "Sin marca reconocida fuera de MercadoLibre; a diferencia del [Gadnic](/producto/MLA35433385) de esta guía, no hay otros productos de la marca ya evaluados en el sitio",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Mixio MX-PB500 es un power bank con panel solar de 50.000 mAh declarados, el de mayor capacidad de esta comparativa. Trae un cable integrado con 3 conectores (USB-C, USB y Lightning), pensado para no andar buscando el cable correcto según el teléfono.
+
+## Lo bueno
+
+Es el power bank con más reseñas reales de este grupo: 336 opiniones con 4.7 estrellas, muy por encima de las [201 del Gadnic](/producto/MLA35433385) o las bases más chicas del [Ecopower](/producto/MLA45503497) y el [Lictin](/producto/MLA65964012). La capacidad declarada (50.000 mAh) es la más alta de la comparativa, y el cable de 3 puntas resuelve la compatibilidad con cualquier teléfono sin cables sueltos.
+
+## La contra real
+
+La ficha técnica de MercadoLibre tiene un error evidente: en el campo "Capacidad de la batería" figura "5 mAh", que es obviamente un typo del vendedor (ni el título ni la descripción del producto lo respaldan, y 5 mAh no alcanzaría para nada). Se sostiene la cifra de 50.000 mAh del título por ser la que declara el vendedor de forma consistente en el resto de la publicación, pero no hay ficha de fabricante para confirmarla de forma independiente. Como con cualquier power bank de esta categoría, el panel solar es un respaldo de emergencia lento, no un reemplazo de la carga por cable.
+
+## Para quién sí y para quién no
+
+Compralo si priorizás la máxima capacidad bruta y querés el power bank solar con más historial de reseñas reales de esta comparativa. Si te importa más una marca con trayectoria evaluada en el sitio, el [Gadnic](/producto/MLA35433385) de esta guía ya tiene otros productos revisados en la [guía general de cargadores portátiles](/guias/tech/cargador-portatil).`,
+    faq: [
+      { question: "¿El Mixio realmente tiene 50.000 mAh?", answer: "Es la cifra que declara el vendedor en el título y la descripción, aunque la ficha técnica de MercadoLibre tiene un error de tipeo en un campo ('5 mAh') que no coincide. No hay ficha de fabricante independiente para confirmar la capacidad real fuera de lo declarado por el vendedor." },
+      { question: "¿Por qué tiene tantas más reseñas que los otros power banks solares de esta guía?", answer: "Es el que más rotación tiene en MercadoLibre de los 4 que comparamos: 336 opiniones reales contra 201 del [Gadnic](/producto/MLA35433385) y menos de 10 del [Ecopower](/producto/MLA45503497) y el [Lictin](/producto/MLA65964012)." },
+      { question: "¿Sirve para iPhone y Android?", answer: "Sí, el cable integrado trae los 3 conectores más usados (USB-C, USB y Lightning), así que no hace falta buscar un cable aparte según el teléfono." },
+      { question: "¿El panel solar carga rápido?", answer: "Como en toda esta categoría, un panel solar de este tamaño físico genera muy poca energía comparado con un cargador de pared: sirve de respaldo de emergencia (por ejemplo, de campamento sin enchufe), no como método principal de carga." },
+    ],
+  },
+  {
+    id: "MLA35433385",
+    title: "Cargador Solar Gadnic Power Bank B60 15000mAh Inalámbrico Linterna",
+    canonicalName: "Power Bank Solar Gadnic B60 15.000 mAh",
+    price: 39999,
+    originalPrice: 66649,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_933423-MLA110463798244_052026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_933423-MLA110463798244_052026-O.webp",
+    ],
+    category: "Tech",
+    categorySlug: "tech",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA35433385",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.3,
+    reviewCount: 201,
+    pastelColor: "var(--pastel-amarillo)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Gadnic" },
+      { label: "Modelo", value: "B60 (BC000060)" },
+      { label: "Tipo de cargador (ficha ML)", value: "Solar" },
+      { label: "Carga inalámbrica", value: "Sí" },
+      { label: "Linterna integrada", value: "Sí" },
+      { label: "Puertos de carga", value: "3" },
+      { label: "Compatible", value: "Android, iOS" },
+      { label: "Batería", value: "Polímero de litio" },
+      { label: "Incluye cable", value: "Sí" },
+    ],
+    relatedProducts: ["MLAU3079854886", "MLA45503497", "MLA65964012", "MLA28743686"],
+    priceUpdated: "2026-08-05",
+    priceLastChecked: "2026-08-05",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-08-05",
+    description: "Power bank solar Gadnic B60, con carga inalámbrica y linterna integrada. Marca ya conocida en el sitio (Gadnic 25.000 mAh en la guía general de cargadores portátiles). 4.3 estrellas en 201 opiniones.",
+    seoTitle: "Gadnic B60: power bank solar con inalámbrica y linterna",
+    metaDescription: "Power bank solar Gadnic B60: carga inalámbrica, linterna integrada, 3 puertos. 4.3 estrellas en 201 opiniones. Precio real y discrepancia de capacidad explicada.",
+    verdict: "El Gadnic B60 sirve si querés funciones extra que ninguno de los otros 3 power banks solares de esta guía tiene: carga inalámbrica y linterna integrada, de una marca con otros productos ya evaluados en el sitio (el [Gadnic de 25.000 mAh](/guias/tech/cargador-portatil) de la guía general de cargadores portátiles). La honestidad completa: hay una discrepancia real entre el título (15.000 mAh) y la ficha técnica de MercadoLibre (que declara 10 Ah, es decir 10.000 mAh), sin confirmar con el fabricante.",
+    pros: [
+      "Único de esta comparativa con carga inalámbrica",
+      "Linterna integrada, útil justamente en los cortes de luz o salidas donde más se usa un power bank solar",
+      "Marca con otros productos ya evaluados en el sitio (Gadnic en la guía general de cargadores portátiles)",
+      "3 puertos de carga",
+    ],
+    cons: [
+      "Discrepancia real entre el título (15.000 mAh) y la ficha técnica de MercadoLibre (declara \"10 Ah\", o sea 10.000 mAh): no se pudo confirmar cuál es la cifra correcta con el fabricante",
+      "Calificación más baja de esta comparativa junto con el [Lictin](/producto/MLA65964012) (4.3)",
+      "Precio más alto que el [Mixio](/producto/MLAU3079854886) pese a la capacidad declarada menor",
+    ],
+    articleBody: `## Qué es y para quién
+
+El B60 es el power bank solar de Gadnic, marca argentina de electrónica ya conocida en el sitio (aparece en nuestra [guía general de cargadores portátiles](/guias/tech/cargador-portatil) con un modelo de 25.000 mAh sin panel solar). Este trae panel solar, carga inalámbrica y una linterna integrada.
+
+## Lo bueno
+
+Es el único de esta comparativa con carga inalámbrica, y la linterna integrada es un extra que tiene sentido justo en el escenario donde más se usa un power bank solar: un corte de luz o una salida al aire libre. Con 201 opiniones reales, tiene el segundo mejor respaldo de reseñas después del [Mixio](/producto/MLAU3079854886).
+
+## La contra real
+
+Acá hay que ser honestos con un dato que no cierra: el título dice 15.000 mAh, pero la ficha técnica de MercadoLibre (el campo "Capacidad de la batería") declara "10 Ah", que equivale a 10.000 mAh. Es una discrepancia real entre dos fuentes del mismo vendedor, y no encontramos ficha de fabricante independiente para resolverla. Puede ser un error de carga de datos en cualquiera de los dos campos; lo correcto es no inventar cuál es la cifra real y avisarlo.
+
+## Para quién sí y para quién no
+
+Comprala si te sirven la carga inalámbrica y la linterna integrada, y preferís una marca con otros productos ya evaluados en el sitio. Si la capacidad exacta es tu prioridad número uno, el [Mixio](/producto/MLAU3079854886) de esta guía declara una cifra más alta sin la misma discrepancia entre título y ficha técnica.`,
+    faq: [
+      { question: "¿El Gadnic B60 tiene 15.000 o 10.000 mAh?", answer: "El título de la publicación dice 15.000 mAh, pero la ficha técnica de MercadoLibre declara \"10 Ah\" (10.000 mAh) en el campo de capacidad. Es una discrepancia real entre dos fuentes del mismo vendedor que no pudimos resolver con una ficha de fabricante independiente." },
+      { question: "¿Tiene carga inalámbrica de verdad?", answer: "Sí, según la ficha del producto es el único de esta comparativa de 4 power banks solares con esa función." },
+      { question: "¿Para qué sirve la linterna integrada?", answer: "Es un extra pensado para el mismo escenario donde más se usa un power bank solar: un corte de luz o una salida al aire libre sin enchufe cerca." },
+      { question: "¿Es la misma marca Gadnic de la guía de cargadores portátiles?", answer: "Sí, es la misma marca argentina, pero un producto distinto: en la [guía general de cargadores portátiles](/guias/tech/cargador-portatil) evaluamos un Gadnic de 25.000 mAh sin panel solar; este B60 es de la línea solar de la marca." },
+    ],
+  },
+  {
+    id: "MLA45503497",
+    title: "Power Bank Solar Ecopower 22000mAh Carga Rápida Negro/Azul EP-C805",
+    canonicalName: "Power Bank Solar Ecopower 22.000 mAh",
+    price: 46347,
+    originalPrice: 64754,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_803030-MLA99894974373_112025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_803030-MLA99894974373_112025-O.webp",
+    ],
+    category: "Tech",
+    categorySlug: "tech",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA45503497",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new",
+    freeShipping: false,
+    rating: 4.8,
+    reviewCount: 9,
+    pastelColor: "var(--pastel-lila)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Ecopower" },
+      { label: "Modelo", value: "EP-C805" },
+      { label: "Capacidad declarada", value: "22.000 mAh" },
+      { label: "Conector", value: "USB-C" },
+      { label: "Velocidad de carga", value: "Rápida" },
+      { label: "Compatible", value: "Blackview, Huawei, Motorola, Samsung, Xiaomi" },
+      { label: "Voltaje de salida", value: "5 V" },
+      { label: "Puertos de carga", value: "2" },
+      { label: "Incluye cable", value: "Sí" },
+    ],
+    relatedProducts: ["MLAU3079854886", "MLA35433385", "MLA65964012", "MLA28743686"],
+    priceUpdated: "2026-08-05",
+    priceLastChecked: "2026-08-05",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-08-05",
+    description: "Power bank solar Ecopower de 22.000 mAh, la mejor calificación de esta comparativa (4.8 estrellas), aunque con solo 9 opiniones al momento de esta guía. Capacidad de la ficha técnica coincide con el título.",
+    seoTitle: "Ecopower 22.000 mAh: la mejor nota, pocas reseñas",
+    metaDescription: "Power bank solar Ecopower 22.000 mAh: 4.8 estrellas, carga rápida USB-C. Honestidad: solo 9 opiniones al momento de esta guía. Precio real.",
+    verdict: "El Ecopower de 22.000 mAh sirve si valorás la mejor calificación de esta comparativa (4.8) y una capacidad declarada consistente entre el título y la ficha técnica. La honestidad completa: tiene solo 9 opiniones al momento de esta guía, así que la nota es real pero con muy poco volumen de datos detrás, a diferencia del [Mixio](/producto/MLAU3079854886) (336) o el [Gadnic](/producto/MLA35433385) (201) de esta misma guía.",
+    pros: [
+      "La mejor calificación de esta comparativa: 4.8 estrellas",
+      "Capacidad declarada (22.000 mAh) consistente entre el título y la ficha técnica de MercadoLibre, sin la discrepancia que sí tiene el [Gadnic](/producto/MLA35433385)",
+      "Compatible con las marcas de celulares más comunes en Argentina (Samsung, Xiaomi, Motorola, Huawei)",
+    ],
+    cons: [
+      "Muy pocas opiniones todavía (9 al momento de esta guía): la nota de 4.8 es real pero con poco volumen de datos, a diferencia de los otros power banks de esta comparativa",
+      "No tiene envío gratis según la ficha, a diferencia de los otros 3 productos de esta guía",
+      "Solo 2 puertos de carga, la menor cantidad de esta comparativa",
+    ],
+    articleBody: `## Qué es y para quién
+
+El EP-C805 es el power bank solar de Ecopower, de 22.000 mAh declarados con carga rápida por USB-C. Es la opción con mejor calificación de esta comparativa, aunque con una base de reseñas chica todavía.
+
+## Lo bueno
+
+Con 4.8 estrellas, tiene la mejor nota promedio de los 4 power banks solares de esta guía. A diferencia del [Gadnic B60](/producto/MLA35433385), acá la capacidad declarada en la ficha técnica (22 Ah, es decir 22.000 mAh) sí coincide exactamente con el título, sin discrepancias. Declara compatibilidad explícita con las marcas de celular más comunes en Argentina.
+
+## La contra real
+
+Acá va la honestidad completa: al momento de escribir esta guía, tiene solo 9 opiniones en MercadoLibre. Es un dato real, no inventado, pero significa que el 4.8 se apoya en muy poco volumen comparado con las 336 opiniones del [Mixio](/producto/MLAU3079854886) o las 201 del [Gadnic](/producto/MLA35433385). Tampoco tiene envío gratis según la ficha, a diferencia del resto de esta comparativa, y solo trae 2 puertos de carga.
+
+## Para quién sí y para quién no
+
+Comprala si te importa la calificación más alta posible y una ficha técnica sin discrepancias de capacidad, y no te preocupa que el producto tenga pocas reseñas todavía. Si preferís elegir en base a un historial de reseñas grande y probado, el [Mixio](/producto/MLAU3079854886) o el [Gadnic](/producto/MLA35433385) de esta misma guía dan más certeza.`,
+    faq: [
+      { question: "¿Por qué tiene tan pocas reseñas si la nota es tan alta?", answer: "Es un producto con menos volumen de ventas visible en el sitio que las otras opciones de esta guía, así que acumuló menos opiniones. La nota de 4.8 es real, pero con solo 9 reseñas hay que tomarla con cautela comparada con productos que tienen cientos." },
+      { question: "¿La capacidad declarada es confiable?", answer: "Es de las más consistentes de esta comparativa: el título dice 22.000 mAh y la ficha técnica de MercadoLibre declara 22 Ah (22.000 mAh), sin la discrepancia que sí tiene el [Gadnic B60](/producto/MLA35433385) de esta guía." },
+      { question: "¿Tiene envío gratis?", answer: "No, según la ficha del producto no incluye envío gratis, a diferencia de los otros 3 power banks solares de esta comparativa." },
+      { question: "¿Es compatible con mi celular?", answer: "La ficha declara compatibilidad explícita con Samsung, Xiaomi, Motorola, Huawei y Blackview, las marcas más comunes en Argentina, aunque cualquier celular con USB-C debería poder cargarse igual." },
+    ],
+  },
+  {
+    id: "MLA65964012",
+    title: "Cargador solar Lictin para teléfonos, capacidad de 12000 mAh con cable incorporado, color blanco",
+    canonicalName: "Power Bank Solar Lictin 12.000 mAh",
+    price: 18500,
+    originalPrice: 19998,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_763518-MLA109956224127_042026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_763518-MLA109956224127_042026-O.webp",
+    ],
+    category: "Tech",
+    categorySlug: "tech",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA65964012",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.3,
+    reviewCount: 8,
+    pastelColor: "var(--pastel-celeste)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Lictin" },
+      { label: "Modelo", value: "AR001" },
+      { label: "Capacidad declarada", value: "12.000 mAh" },
+      { label: "Conector", value: "USB / USB-C" },
+      { label: "Cable incorporado", value: "Sí, 10 cm" },
+      { label: "Protección contra sobrecarga", value: "Sí" },
+      { label: "Es inalámbrico", value: "No" },
+      { label: "Puertos de carga", value: "3" },
+      { label: "Compatible", value: "iPhone, Motorola, Samsung" },
+    ],
+    relatedProducts: ["MLAU3079854886", "MLA35433385", "MLA45503497", "MLA28743686"],
+    priceUpdated: "2026-08-05",
+    priceLastChecked: "2026-08-05",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-08-05",
+    description: "Power bank solar Lictin de 12.000 mAh, el más accesible de esta comparativa, con cable incorporado y protección contra sobrecarga. 4.3 estrellas, aunque con solo 8 opiniones al momento de esta guía.",
+    seoTitle: "Lictin 12.000 mAh: el power bank solar más barato",
+    metaDescription: "Power bank solar Lictin 12.000 mAh: cable incorporado, protección contra sobrecarga. El más accesible de la comparativa. Precio real y honestidad sobre las reseñas.",
+    verdict: "El Lictin de 12.000 mAh sirve si el presupuesto manda: es el más barato de esta comparativa por lejos, con cable incorporado (no hay que buscar uno aparte) y protección contra sobrecarga declarada. La honestidad completa: tiene solo 8 opiniones al momento de esta guía, y su capacidad (12.000 mAh) es la menor de las 4 opciones. Para más capacidad o más respaldo de reseñas, las otras 3 opciones de esta guía rinden más.",
+    pros: [
+      "El más accesible de esta comparativa por lejos",
+      "Cable incorporado (10 cm): no hay que buscar uno aparte para cargar",
+      "Protección contra sobrecarga declarada en la ficha",
+      "Marca internacional (Lictin) reconocida en accesorios de carga solar",
+    ],
+    cons: [
+      "La menor capacidad declarada de las 4 opciones: 12.000 mAh",
+      "Muy pocas opiniones todavía (8 al momento de esta guía): la nota de 4.3 es real pero con poco volumen de datos",
+      "El cable incorporado es corto (10 cm según la ficha), puede resultar incómodo para usar el teléfono mientras carga",
+      "No tiene carga inalámbrica, a diferencia del [Gadnic B60](/producto/MLA35433385) de esta guía",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Lictin AR001 es el power bank solar más accesible de esta comparativa: 12.000 mAh declarados, cable incorporado y protección contra sobrecarga, de una marca internacional con presencia en accesorios de carga solar.
+
+## Lo bueno
+
+Es, por lejos, la opción más barata de las 4 de esta guía. El cable viene incorporado al equipo (no es un cable aparte que se pueda perder), y la ficha declara protección contra sobrecarga, un detalle de seguridad que no todos los productos económicos de esta categoría aclaran.
+
+## La contra real
+
+Tiene la menor capacidad declarada de la comparativa (12.000 mAh, frente a los 50.000 del [Mixio](/producto/MLAU3079854886) o los 22.000 del [Ecopower](/producto/MLA45503497)), y al momento de esta guía solo acumula 8 opiniones reales en MercadoLibre: la nota de 4.3 es genuina, pero con muy poco volumen detrás. El cable incorporado, además, mide solo 10 cm según la ficha, lo que puede resultar incómodo si querés usar el teléfono mientras carga. No tiene carga inalámbrica, a diferencia del [Gadnic B60](/producto/MLA35433385) de esta guía.
+
+## Para quién sí y para quién no
+
+Comprala si el presupuesto es lo que más pesa en la decisión y buscás algo simple y barato para tener de respaldo. Si necesitás más capacidad para varios días sin enchufe, o preferís un historial de reseñas más grande antes de decidir, las otras 3 opciones de esta guía (especialmente el [Mixio](/producto/MLAU3079854886), con 336 opiniones) dan más certeza.`,
+    faq: [
+      { question: "¿El Lictin es el power bank solar más barato de esta guía?", answer: "Sí, es el más accesible de las 4 opciones comparadas, con 4.3 estrellas aunque con solo 8 opiniones al momento de esta guía." },
+      { question: "¿El cable incorporado se puede reemplazar si se rompe?", answer: "La ficha no lo aclara. Al ser un cable incorporado (no desmontable), conviene tenerlo en cuenta antes de comprar si te preocupa esa posibilidad." },
+      { question: "¿Tiene protección contra sobrecarga?", answer: "Sí, según la ficha del producto, un detalle de seguridad que no todos los power banks económicos declaran." },
+      { question: "¿Alcanza para varios días de uso sin enchufe?", answer: "Con 12.000 mAh declarados, es la menor capacidad de esta comparativa: alcanza para 1-2 cargas de celular. Para varios días sin enchufe, el [Mixio de 50.000 mAh](/producto/MLAU3079854886) o el [Ecopower de 22.000 mAh](/producto/MLA45503497) de esta guía rinden más." },
+    ],
+  },
+
   // ─── Planchitas de pelo — importadas via Chrome (jul 2026, API ML caída). Silo cuidado-personal (STAGED) ───
   {
     id: "MLA44129880",
