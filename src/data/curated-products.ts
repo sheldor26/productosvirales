@@ -3312,7 +3312,7 @@ Es, por lejos, el teclado 60% con más respaldo de reseñas de esta comparativa:
 
 ## La contra real
 
-Es 60% de verdad, así que las flechas, la fila de F y el numérico no existen como teclas físicas: se usan con la tecla FN, y hay curva de adaptación si nunca usaste un formato así. No tiene la terminación premium (keycaps PBT, top de aluminio) de un óptico de gama alta como el Huntsman Mini, y la personalización del RGB se hace con combinaciones de teclas, no con un software dedicado según la ficha del producto.
+Es 60% de verdad, así que las flechas, la fila de F y el numérico no existen como teclas físicas: se usan con la tecla FN, y hay curva de adaptación si nunca usaste un formato así. No tiene la terminación premium (keycaps PBT, top de aluminio) de un óptico de gama alta como el [Huntsman Mini](/producto/MLA16085611), y la personalización del RGB se hace con combinaciones de teclas, no con un software dedicado según la ficha del producto.
 
 ## Para quién sí y para quién no
 
