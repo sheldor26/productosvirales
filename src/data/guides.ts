@@ -19952,10 +19952,122 @@ export const guides: Guide[] = [
       { question: `¿Por qué mi planchita me tira o me quema el pelo?`, answer: `Las causas típicas: placas metálicas básicas que enganchan el pelo, temperatura demasiado alta para tu tipo de pelo (el fino se plancha a 140-160 °C) o plancharlo húmedo con una planchita común. Si te pasa seguido, conviene una con placas de cerámica o turmalina y regulador de temperatura.` },
     ],
     internalLinks: [
+      { label: "Planchita de pelo profesional: cuál comprar", href: "/guias/cuidado-personal/planchita-de-pelo-profesional" },
       { label: "Secador de pelo: cuál comprar (pilar del silo)", href: "/guias/cuidado-personal/secador-de-pelo" },
       { label: "Máquina de afeitar: cuál comprar", href: "/guias/cuidado-personal/maquina-de-afeitar" },
       { label: "Cortadora de pelo: cuál comprar", href: "/guias/cuidado-personal/cortadora-de-pelo" },
       { label: "Depiladora eléctrica: cuál comprar", href: "/guias/cuidado-personal/depiladora-electrica" },
+    ],
+    internalLinksTitle: "Más de cuidado personal",
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // SATÉLITE planchita-de-pelo-profesional — silo cuidado-personal — STAGED
+  // Hermana de planchita-de-pelo (pilar). Ángulo: nivel profesional/salón.
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "planchita-de-pelo-profesional",
+    category: "cuidado-personal",
+    silo: "cuidado-personal",
+    title: `Planchita de pelo profesional: cuál comprar en Argentina [2026]`,
+    seoTitle: `Planchita de Pelo Profesional: Cuál Comprar [2026]`,
+    metaDescription: `Descubrí qué planchita de pelo profesional comprar en Argentina: Lizze, BaByliss, GA.MA o VGR. Comparamos nivel de salón, precio real y veredicto honesto.`,
+    ogTitle: `Planchita de pelo profesional: cuál comprar en Argentina`,
+    ogDescription: `De la más accesible a la mejor calificada: Lizze Extreme, BaByliss PRO Optima 3000, GA.MA Elegance y VGR comparadas por placas, funciones y precio real de MercadoLibre.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_911491-MLA91571419522_092025-O.webp`,
+    h1: `Planchita de pelo profesional: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mejor calificación conviene la **[Lizze Extreme](/producto/MLA50626841)** (alrededor de {{precio:MLA50626841:k}}): placas de titanio y 4.9 estrellas, la más alta de esta comparativa. Si querés la más completa en funciones, la **[BaByliss PRO Optima 3000](/producto/MLA24016915)** (única con apagado automático y pantalla digital). Para el mejor equilibrio precio-resultado, la **[GA.MA Elegance Bella Shine](/producto/MLA44140986)** (la más vendida). Y para entrar a la gama profesional gastando menos, la **[VGR V-519s](/producto/MLA53177143)**.`,
+    publishedDate: "2026-09-01",
+    updatedDate: "2026-08-05",
+    hasDisclosure: true,
+    readingTime: 8,
+    standfirst: `Una planchita de nivel profesional va de {{precio:MLA53177143:k}} (la entrada más accesible) a {{precio:MLA24016915:k}} (la más completa en funciones). A diferencia de una planchita hogareña, acá todas comparten placas de nivel salón; la diferencia está en la marca, la calificación real y las funciones extra. Te mostramos cuál conviene, con precios reales de MercadoLibre.`,
+    quickPicks: [
+      { productMlaId: "MLA50626841", label: "La mejor calificada", labelColor: "green", tagline: "Lizze Extreme: titanio y 4.9 estrellas, la nota más alta de la comparativa" },
+      { productMlaId: "MLA24016915", label: "La más completa", labelColor: "purple", tagline: "BaByliss Optima 3000: pantalla digital y apagado automático, única con esas funciones" },
+      { productMlaId: "MLA44140986", label: "La más vendida", labelColor: "blue", tagline: "GA.MA Elegance: más de 10 mil ventas, el mejor equilibrio precio-resultado" },
+      { productMlaId: "MLA53177143", label: "La más accesible", labelColor: "slate", tagline: "VGR V-519s: entrada a la gama profesional, la más barata de esta guía" },
+    ],
+    intro: [
+      `Nuestra [guía general de planchitas](/guias/cuidado-personal/planchita-de-pelo) ya cubre desde la más económica hasta una profesional de referencia. Esta guía es distinta: acá comparamos **solo planchitas de nivel profesional/salón**, para quien ya sabe que quiere invertir en ese escalón y busca cuál conviene dentro de esa categoría.`,
+      `Comparamos 4 planchitas profesionales por marca, calificación real y funciones (pantalla digital, apagado automático, tipo de placa), con precios reales de MercadoLibre Argentina y reseñas verificadas de compradores.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_911491-MLA91571419522_092025-O.webp", alt: `Planchita profesional Lizze Extreme, la mejor calificada de esta comparativa`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la **mejor calificación**, la **[Lizze Extreme](/producto/MLA50626841)** (4.9 estrellas, titanio). Para **más funciones**, la **[BaByliss Optima 3000](/producto/MLA24016915)** (pantalla digital, apagado automático). Para el **mejor equilibrio precio-resultado**, la **[GA.MA Elegance](/producto/MLA44140986)** (la más vendida). Y para **entrar gastando menos**, la **[VGR V-519s](/producto/MLA53177143)**.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos planchitas de nivel profesional/salón con ventas y opiniones reales en MercadoLibre Argentina, verificadas en vivo. Las ordenamos por lo que define la compra en esta categoría: **calificación real**, **funciones** (apagado automático, pantalla digital, tipo de placa) y precio. Las calificaciones y reseñas citadas son de compradores reales. Precios de agosto 2026, revisados periódicamente.` },
+
+      { type: "h2", title: `Qué diferencia a una planchita "profesional"`, id: "que-mirar" },
+      { type: "p", content: `El término "profesional" en el título de MercadoLibre no siempre significa mucho, pero en esta franja de precio y marca sí hay diferencias reales contra una planchita de entrada: **placas de mejor material** (titanio o cerámica avanzada en vez de metal pelado), **marcas especializadas en peluquería** (Lizze, BaByliss PRO) y, en algunos modelos, **funciones de seguridad y control** que las económicas no traen, como pantalla digital o apagado automático.` },
+      { type: "p", content: `Lo que no cambia es la regla de siempre: revisá la calificación real y las reseñas, no solo el nombre de la marca. En esta comparativa, la más cara no es la mejor calificada.` },
+
+      { type: "h2", title: `Las mejores planchitas profesionales 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Lizze Extreme — la mejor calificada` },
+      { type: "product-card", productMlaId: "MLA50626841", label: "La mejor calificada", labelColor: "green", ranking: 1, description: `Placas giratorias de titanio, de la marca brasilera de peluquería. 4.9 estrellas en más de 1.000 opiniones, la nota más alta de esta comparativa.` },
+      { type: "p", content: `La [Lizze Extreme](/producto/MLA50626841) es la mejor calificada de esta guía: **4.9 estrellas en más de 1.000 opiniones reales**. Placas giratorias de titanio, terminación de nivel salón, a alrededor de {{precio:MLA50626841:k}}. Varias reseñas la comparan directamente contra BaByliss (la otra marca de referencia) a su favor.` },
+      { type: "p", content: `Lo honesto: es la segunda más cara de la comparativa, y no encontramos ficha técnica de fabricante con la temperatura máxima exacta declarada oficialmente.` },
+      { type: "pull-quote", content: `"Realmente increíble, vengo de una babyliss muy potente que planchaba perfecto, pero esta plancha se desliza mucho más suave sobre el pelo, regula la temperatura muy bien y encima tiene como máximo más temperatura que la babyliss, es más liviana y más cómoda para usar."`, attribution: `Opinión verificada en MercadoLibre, 30 votos útiles` },
+
+      { type: "h3", title: `2. BaByliss PRO Optima 3000 — la más completa` },
+      { type: "product-card", productMlaId: "MLA24016915", label: "La más completa", labelColor: "purple", ranking: 2, description: `Pantalla digital, plancha iónica, apagado automático y punta fría. La única de la guía con esas funciones. 4.8 estrellas en más de 2.500 opiniones.` },
+      { type: "p", content: `La [Optima 3000](/producto/MLA24016915) es la más completa en funciones: **pantalla digital**, plancha iónica, **apagado automático** (única de esta guía que lo tiene) y punta fría, a alrededor de {{precio:MLA24016915:k}}. Bivoltaje, útil si viajás. Con más de 2.500 calificaciones y 4.8 de promedio.` },
+      { type: "p", content: `Lo honesto: es la más cara de la comparativa por bastante margen, y tampoco encontramos el rango exacto de temperatura verificado en fabricante.` },
+
+      { type: "h3", title: `3. GA.MA Elegance Bella Shine — la más vendida` },
+      { type: "product-card", productMlaId: "MLA44140986", label: "La más vendida", labelColor: "blue", ranking: 3, description: `Placas de cerámica con iones y cierre con traba. Más de 10 mil unidades vendidas, 4.8 estrellas en 4.625 opiniones: la base de reseñas más grande de esta guía.` },
+      { type: "p", content: `La [GA.MA Elegance](/producto/MLA44140986) es la más vendida de esta comparativa: **más de 10 mil unidades** y 4.8 estrellas en 4.625 opiniones. Placas de cerámica con iones, cierre con traba (el cargador rota, según reseñas, para que el cable dure más), a alrededor de {{precio:MLA44140986:k}}. Ojo: es una línea distinta a la GA.MA Bella Tourmaline de nuestra guía general, no la misma ficha con otro nombre.` },
+      { type: "p", content: `Lo honesto: no llega a la calificación de la Lizze (4.8 contra 4.9) ni suma las funciones extra de la BaByliss.` },
+      { type: "pull-quote", content: `"Amé!!! nunca tuve una planchita así que dudaba en cuál comprar y elegí bien, tiene traba, la parte del cargador se rota (por ende es más difícil que se rompa), no creía lo que decían los comentarios de que te deja el pelo suave y brilloso pero chicas es real."`, attribution: `Opinión verificada en MercadoLibre, 18 votos útiles` },
+
+      { type: "h3", title: `4. VGR V-519s — la más accesible` },
+      { type: "product-card", productMlaId: "MLA53177143", label: "La más accesible", labelColor: "slate", ranking: 4, description: `Placas de cerámica, 450°F según el empaque. La entrada más barata a la gama profesional. 4.6 estrellas en 617 opiniones reales.` },
+      { type: "p", content: `La [VGR V-519s](/producto/MLA53177143) es la puerta de entrada a esta comparativa: placas de cerámica, 450°F según el empaque, a alrededor de {{precio:MLA53177143:k}}, bastante menos que las otras 3 opciones de esta guía. 4.6 estrellas en 617 opiniones reales.` },
+      { type: "p", content: `Lo honesto: una reseña avisa que con mechones chicos de pelo cuesta un poco más planchar, y es la calificación más baja de las 4 (aunque 4.6 sigue siendo buena nota).` },
+      { type: "pull-quote", content: `"Probamos hasta lo más fuerte. Funciona muy bien. En ocasiones, si se toma poquito pelo, resulta más difícil planchar. Pero en general anda muy bien. Calienta rápido y deja el pelo suave y sedoso."`, attribution: `Opinión verificada en MercadoLibre, comprado a tienda oficial VGR` },
+
+      { type: "h2", title: `Tabla comparativa: calificación, funciones y precio`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Calificación`, `Funciones extra`, `Ideal para`], rows: [
+        [`[VGR V-519s](/producto/MLA53177143)`, `{{precio:MLA53177143}}`, `4.6 ★ (617)`, `—`, `Entrar a la gama profesional`],
+        [`[GA.MA Elegance](/producto/MLA44140986)`, `{{precio:MLA44140986}}`, `4.8 ★ (4.625)`, `Cierre con traba`, `Mejor equilibrio precio-resultado`],
+        [`[Lizze Extreme](/producto/MLA50626841)`, `{{precio:MLA50626841}}`, `4.9 ★ (1.011)`, `Placas de titanio`, `La mejor calificada`],
+        [`[BaByliss Optima 3000](/producto/MLA24016915)`, `{{precio:MLA24016915}}`, `4.8 ★ (2.588)`, `Digital, apagado automático, punta fría`, `Más funciones y control`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu planchita profesional`, id: "como-elegir" },
+      { type: "h3", title: `1. Calificación real, no solo la marca` },
+      { type: "p", content: `En esta comparativa, la más cara ([BaByliss](/producto/MLA24016915)) no es la mejor calificada: ese lugar es de la [Lizze Extreme](/producto/MLA50626841) (4.9 contra 4.8). No asumas que pagar más marca garantiza mejor nota: revisá siempre la calificación y el volumen de reseñas real.` },
+      { type: "h3", title: `2. Funciones de seguridad: apagado automático` },
+      { type: "p", content: `De esta guía, solo la [BaByliss Optima 3000](/producto/MLA24016915) tiene apagado automático. Si te preocupa olvidarte la planchita enchufada, es la única opción acá que lo resuelve; las otras 3 no lo declaran en su ficha.` },
+      { type: "h3", title: `3. Presupuesto: cuánto salto tiene sentido pagar` },
+      { type: "p", content: `Hay una diferencia de precio grande entre la [VGR](/producto/MLA53177143) (la más accesible) y la [BaByliss](/producto/MLA24016915) (la más cara). La [GA.MA Elegance](/producto/MLA44140986) queda en el punto medio y es, además, la más vendida: para la mayoría, ese equilibrio alcanza sin necesitar pagar el tope de gama.` },
+
+      { type: "h2", title: `Cuánto cuesta una planchita profesional [agosto 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de {{precio:MLA53177143:k}}:** la entrada, la [VGR V-519s](/producto/MLA53177143). Cumple bien para empezar en la gama profesional.`,
+        `**Alrededor de {{precio:MLA44140986:k}}:** el punto medio, la [GA.MA Elegance](/producto/MLA44140986), la más vendida de esta comparativa.`,
+        `**Alrededor de {{precio:MLA50626841:k}}:** la mejor calificada, la [Lizze Extreme](/producto/MLA50626841), con placas de titanio.`,
+        `**Alrededor de {{precio:MLA24016915:k}}:** el tope de gama en funciones, la [BaByliss Optima 3000](/producto/MLA24016915), con pantalla digital y apagado automático.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál planchita profesional comprar`, id: "veredicto" },
+      { type: "verdict", content: `Si priorizás la **mejor calificación real**, la **[Lizze Extreme](/producto/MLA50626841)** (4.9 estrellas, titanio). Si querés **más funciones y control**, la **[BaByliss Optima 3000](/producto/MLA24016915)** (única con apagado automático y pantalla digital), aunque es la más cara. Para la **mayoría**, el mejor equilibrio es la **[GA.MA Elegance](/producto/MLA44140986)**: la más vendida, buena calificación y precio de punto medio. Y para **entrar a la gama profesional gastando menos**, la **[VGR V-519s](/producto/MLA53177143)**. El error a evitar: pagar el precio más alto asumiendo que es automáticamente la mejor calificada, cuando en esta categoría no siempre es así.` },
+    ],
+    faq: [
+      { question: `¿Cuál es la mejor planchita profesional en Argentina?`, answer: `Por calificación real, la [Lizze Extreme](/producto/MLA50626841) (4.9 estrellas). Si buscás más funciones (pantalla digital, apagado automático), la [BaByliss Optima 3000](/producto/MLA24016915). Para el mejor equilibrio precio-resultado, la [GA.MA Elegance](/producto/MLA44140986), la más vendida de esta comparativa.` },
+      { question: `¿Qué diferencia hay entre esta guía y la guía general de planchitas?`, answer: `Nuestra [guía general](/guias/cuidado-personal/planchita-de-pelo) cubre desde económicas hasta una profesional de referencia. Esta guía compara solo planchitas de nivel profesional/salón, para quien ya decidió invertir en ese escalón y quiere saber cuál conviene dentro de esa categoría.` },
+      { question: `¿Vale la pena pagar más por la BaByliss Optima 3000?`, answer: `Si te importan el apagado automático, la pantalla digital y la punta fría, sí: son funciones reales que las otras 3 opciones de esta guía no tienen. Si solo buscás buen resultado de planchado, la GA.MA Elegance o la Lizze Extreme cumplen igual de bien a menor precio.` },
+      { question: `¿La marca más cara es siempre la mejor calificada?`, answer: `No necesariamente. En esta comparativa, la Lizze Extreme (más barata que la BaByliss) tiene mejor calificación (4.9 contra 4.8). Conviene revisar la nota real y el volumen de reseñas, no solo el precio o el nombre de la marca.` },
+      { question: `¿Estas planchitas tienen placas de titanio?`, answer: `Solo la Lizze Extreme lo declara explícitamente en su ficha. La GA.MA Elegance y la VGR usan placas de cerámica; la BaByliss no especifica el material exacto en el título, aunque es plancha iónica.` },
+      { question: `¿Cuál es la planchita profesional más barata de esta guía?`, answer: `La VGR V-519s, con placas de cerámica y 4.6 estrellas en 617 opiniones. Es una buena entrada a la gama profesional si el presupuesto es lo que más pesa en la decisión.` },
+    ],
+    internalLinks: [
+      { label: "Planchita de pelo: guía general (pilar del silo)", href: "/guias/cuidado-personal/planchita-de-pelo" },
+      { label: "Secador de pelo: cuál comprar", href: "/guias/cuidado-personal/secador-de-pelo" },
+      { label: "Máquina de afeitar: cuál comprar", href: "/guias/cuidado-personal/maquina-de-afeitar" },
+      { label: "Cortadora de pelo: cuál comprar", href: "/guias/cuidado-personal/cortadora-de-pelo" },
     ],
     internalLinksTitle: "Más de cuidado personal",
   },
