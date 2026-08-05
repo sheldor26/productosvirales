@@ -1284,7 +1284,7 @@ export const guides: Guide[] = [
       { productMlaId: "MLAU2880692521", label: "Switch Cherry MX", labelColor: "amber", tagline: "Netmak NM-Dominate: el único con switches Cherry MX reales, pero con pocas reseñas" },
     ],
     intro: [
-      `Nuestra [guía general de teclado gamer](/guias/gaming/teclado-gamer) ya incluye un 60% premium (el Razer Huntsman Mini). Esta guía es distinta: acá comparamos **solo teclados mecánicos 60%**, el formato que saca flechas, fila de F1-F12 y numérico para despejar todo el escritorio y darle más lugar al mouse, ideal para shooters con sensibilidad baja.`,
+      `Nuestra [guía general de teclado gamer](/guias/gaming/teclado-gamer) ya incluye un 60% premium (el [Razer Huntsman Mini](/producto/MLA16085611)). Esta guía es distinta: acá comparamos **solo teclados mecánicos 60%**, el formato que saca flechas, fila de F1-F12 y numérico para despejar todo el escritorio y darle más lugar al mouse, ideal para shooters con sensibilidad baja.`,
       `Comparamos 4 teclados 60% reales de MercadoLibre Argentina por switch, layout (español o inglés) y precio, con reseñas verificadas de compradores. Ojo con el layout: no todos vienen con ñ, y eso puede ser un problema si además escribís seguido en la misma compu.`,
     ],
     sections: [
@@ -1303,23 +1303,23 @@ export const guides: Guide[] = [
       { type: "h3", title: `1. Redragon Dragonborn K630 — el más elegido` },
       { type: "product-card", productMlaId: "MLA24102185", label: "El más elegido", labelColor: "green", ranking: 1, description: `60% real en español con ñ, switches red silenciosos. 4.8 estrellas en 4.486 opiniones, la base de reseñas más grande de esta comparativa.` },
       { type: "p", content: `El [Dragonborn K630](/producto/MLA24102185) es el 60% con más respaldo de esta comparativa: **4.8 estrellas en 4.486 opiniones reales**, casi siete veces más que el segundo. Layout español con ñ, switches Dust Proof Red (lineales y silenciosos) y resistente a salpicaduras, a alrededor de {{precio:MLA24102185:k}}.` },
-      { type: "p", content: `Lo honesto: no tiene la terminación premium (keycaps PBT, top de aluminio) del Razer Huntsman Mini de nuestra guía general, y el RGB se configura con combinaciones de teclas, no con software dedicado.` },
+      { type: "p", content: `Lo honesto: no tiene la terminación premium (keycaps PBT, top de aluminio) del [Razer Huntsman Mini](/producto/MLA16085611) de nuestra guía general, y el RGB se configura con combinaciones de teclas, no con software dedicado.` },
 
       { type: "h3", title: `2. Havit KB903L — el de tienda oficial` },
       { type: "product-card", productMlaId: "MLA46192536", label: "Tienda oficial", labelColor: "purple", ranking: 2, description: `60% con switch red y cable USB-C removible, vendido directo por la tienda oficial de Havit. 4.8 estrellas en 666 opiniones.` },
       { type: "p", content: `El [Havit KB903L](/producto/MLA46192536) lo vende directo la **tienda oficial de la marca**, no un revendedor, a alrededor de {{precio:MLA46192536:k}} (34% de descuento sobre el precio de lista). Switch red silencioso, anti-ghosting y cable USB-C removible. 4.8 estrellas en 666 opiniones.` },
-      { type: "p", content: `Lo honesto: viene en layout **inglés US, sin ñ**. Una reseña real de un usuario de Linux explica cómo lograr la ñ con combinaciones de teclas, pero es un paso extra que el Dragonborn K630 de esta guía no necesita.` },
+      { type: "p", content: `Lo honesto: viene en layout **inglés US, sin ñ**. Una reseña real de un usuario de Linux explica cómo lograr la ñ con combinaciones de teclas, pero es un paso extra que el [Dragonborn K630](/producto/MLA24102185) de esta guía no necesita.` },
       { type: "pull-quote", content: `"Como usuario de linux. El producto es perfecto, todas las teclas funcionan bien y se siente bien... En linux/windows es mejor utilizar el teclado con el layout de teclado en inglés internacional con el altgr ya que si usas el altgr con la n podés utilizar la ñ."`, attribution: `Opinión verificada en MercadoLibre` },
 
       { type: "h3", title: `3. Noga Ganon 60% — el más accesible` },
       { type: "product-card", productMlaId: "MLA19788553", label: "El más accesible", labelColor: "slate", ranking: 3, description: `La entrada más barata al formato 60%, en español, switch blue clicky. 4.7 estrellas en 554 opiniones.` },
       { type: "p", content: `El [Noga Ganon 60%](/producto/MLA19788553) es la puerta de entrada más barata a esta comparativa, a alrededor de {{precio:MLA19788553:k}}. Español, anti-ghosting y 4.7 estrellas en 554 opiniones reales.` },
-      { type: "p", content: `Lo honesto: el switch es **blue, clicky y ruidoso** (a diferencia del red silencioso del Dragonborn o el Havit), no declara resistencia a salpicaduras, y esta publicación puntual la vende un revendedor, no la tienda oficial de Noga.` },
+      { type: "p", content: `Lo honesto: el switch es **blue, clicky y ruidoso** (a diferencia del red silencioso del [Dragonborn](/producto/MLA24102185) o el [Havit](/producto/MLA46192536)), no declara resistencia a salpicaduras, y esta publicación puntual la vende un revendedor, no la tienda oficial de Noga.` },
 
       { type: "h3", title: `4. Netmak NM-Dominate — el de switches Cherry MX` },
       { type: "product-card", productMlaId: "MLAU2880692521", label: "Switch Cherry MX", labelColor: "amber", ranking: 4, description: `El único de esta comparativa con switches Cherry MX reales, español con ñ y resistente a salpicaduras. Nota 5.0, pero con pocas reseñas todavía.` },
       { type: "p", content: `El [Netmak NM-Dominate](/producto/MLAU2880692521) es el único de esta guía con switches **Cherry MX** reales (la marca alemana de referencia en switches mecánicos, no un genérico), a alrededor de {{precio:MLAU2880692521:k}}. Español con ñ y resistente a salpicaduras.` },
-      { type: "p", content: `Lo honesto: al momento de esta guía tiene **solo 3 opiniones** en MercadoLibre. La nota de 5.0 es real, pero con muy poco volumen de datos comparado con las 4.486 del Dragonborn K630.` },
+      { type: "p", content: `Lo honesto: al momento de esta guía tiene **solo 3 opiniones** en MercadoLibre. La nota de 5.0 es real, pero con muy poco volumen de datos comparado con las 4.486 del [Dragonborn K630](/producto/MLA24102185).` },
 
       { type: "h2", title: `Tabla comparativa: switch, idioma y precio`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Switch`, `Idioma`, `Ideal para`], rows: [
@@ -1333,9 +1333,9 @@ export const guides: Guide[] = [
       { type: "h3", title: `1. Español con ñ o inglés US` },
       { type: "p", content: `No todos los 60% de esta franja traen ñ en tecla directa. El [Dragonborn K630](/producto/MLA24102185), el [Noga Ganon](/producto/MLA19788553) y el [Netmak](/producto/MLAU2880692521) sí; el [Havit](/producto/MLA46192536) viene en inglés US. Para jugar da igual, pero si además escribís seguido en la misma compu, el layout en español ahorra vueltas.` },
       { type: "h3", title: `2. Switch silencioso o clicky` },
-      { type: "p", content: `Los switches red (Dragonborn, Havit) son lineales y silenciosos, mejores si compartís ambiente. El switch blue del Noga es clicky, con más ruido y tacto marcado: lindo de tipear, molesto si hay alguien cerca. El Netmak usa Cherry MX Blue, también clicky pero de una marca de switch reconocida.` },
+      { type: "p", content: `Los switches red ([Dragonborn](/producto/MLA24102185), [Havit](/producto/MLA46192536)) son lineales y silenciosos, mejores si compartís ambiente. El switch blue del [Noga](/producto/MLA19788553) es clicky, con más ruido y tacto marcado: lindo de tipear, molesto si hay alguien cerca. El [Netmak](/producto/MLAU2880692521) usa Cherry MX Blue, también clicky pero de una marca de switch reconocida.` },
       { type: "h3", title: `3. Respaldo de reseñas, no solo la nota` },
-      { type: "p", content: `Una calificación de 5.0 con 3 opiniones (Netmak) no pesa igual que un 4.8 con 4.486 (Dragonborn K630). Si preferís comprar con más certeza, priorizá el volumen de reseñas, no solo el promedio.` },
+      { type: "p", content: `Una calificación de 5.0 con 3 opiniones ([Netmak](/producto/MLAU2880692521)) no pesa igual que un 4.8 con 4.486 ([Dragonborn K630](/producto/MLA24102185)). Si preferís comprar con más certeza, priorizá el volumen de reseñas, no solo el promedio.` },
 
       { type: "h2", title: `Cuánto cuesta un teclado mecánico 60% [agosto 2026]`, id: "precios" },
       { type: "list", items: [
@@ -1350,11 +1350,11 @@ export const guides: Guide[] = [
     ],
     faq: [
       { question: `¿Cuál es el mejor teclado mecánico 60% en Argentina?`, answer: `Por respaldo de reseñas, el [Redragon Dragonborn K630](/producto/MLA24102185): 4.8 estrellas en 4.486 opiniones, español con ñ y switch silencioso. Si preferís tienda oficial, el [Havit KB903L](/producto/MLA46192536) (en inglés); para gastar lo mínimo, el [Noga Ganon 60%](/producto/MLA19788553).` },
-      { question: `¿Qué diferencia hay entre esta guía y la guía general de teclado gamer?`, answer: `Nuestra [guía general](/guias/gaming/teclado-gamer) cubre mecánico, membrana y varios tamaños, con un 60% premium (Razer Huntsman Mini). Esta guía compara solo teclados 60%, para quien ya decidió ese formato y quiere ver más opciones dentro de esa categoría específica.` },
+      { question: `¿Qué diferencia hay entre esta guía y la guía general de teclado gamer?`, answer: `Nuestra [guía general](/guias/gaming/teclado-gamer) cubre mecánico, membrana y varios tamaños, con un 60% premium ([Razer Huntsman Mini](/producto/MLA16085611)). Esta guía compara solo teclados 60%, para quien ya decidió ese formato y quiere ver más opciones dentro de esa categoría específica.` },
       { question: `¿Todos los teclados 60% vienen en español?`, answer: `No. De esta guía, el [Dragonborn K630](/producto/MLA24102185), el [Noga Ganon](/producto/MLA19788553) y el [Netmak](/producto/MLAU2880692521) tienen ñ en tecla directa; el [Havit KB903L](/producto/MLA46192536) viene en inglés US. Revisá el layout antes de comprar si escribís seguido en español.` },
       { question: `¿Qué es un switch Cherry MX y por qué importa?`, answer: `Cherry MX es la marca alemana que originó el diseño de switch mecánico más copiado de la industria. Muchos teclados "mecánicos" económicos usan switches genéricos que imitan ese diseño sin ser de la marca original. El [Netmak NM-Dominate](/producto/MLAU2880692521) de esta guía es el único con Cherry MX real, aunque todavía tiene pocas reseñas.` },
       { question: `¿Para qué sirve un teclado 60% frente a uno más grande?`, answer: `El formato 60% saca flechas, fila de F1-F12 y numérico para despejar todo el escritorio y dar más espacio al mouse, algo que se nota en shooters con sensibilidad baja. La contra es que esas teclas se siguen usando, pero combinadas con FN, y hay una curva de adaptación.` },
-      { question: `¿Vale la pena pagar más por el Redragon Dragonborn K630?`, answer: `Si te importa el respaldo de reseñas (4.486 contra 554-666 de las otras opciones) y el layout en español, sí. Si el presupuesto manda y no te molesta el switch clicky, el Noga Ganon 60% de esta guía cumple más barato.` },
+      { question: `¿Vale la pena pagar más por el Redragon Dragonborn K630?`, answer: `Si te importa el respaldo de reseñas (4.486 contra 554-666 de las otras opciones) y el layout en español, sí. Si el presupuesto manda y no te molesta el switch clicky, el [Noga Ganon 60%](/producto/MLA19788553) de esta guía cumple más barato.` },
     ],
     internalLinks: [
       { label: "Teclado gamer: guía general (pilar del silo)", href: "/guias/gaming/teclado-gamer" },
