@@ -66999,6 +66999,1970 @@ Comprala si el respaldo de casi 1.100 reseñas te da confianza y no te preocupa 
       { question: "¿Qué problemas reportan las reseñas?", answer: "Algunos compradores mencionan detalles de terminación (un rayón chico, una rueda que pareció desalineada) y describen el asiento de fábrica como duro. Son reportes puntuales, no un patrón generalizado." },
     ],
   },
+  {
+    id: "MLA49998952",
+    title: "Monopatín Eléctrico Gadnic KINGS221 Recargable Plegable Con Luz Resistente Al Agua",
+    canonicalName: "Monopatín Gadnic KINGS221",
+    price: 685699,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_953371-MLA99453599262_112025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_953371-MLA99453599262_112025-O.webp",
+    ],
+    category: "Movilidad",
+    categorySlug: "movilidad",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA49998952",
+    affiliateUrl: "https://meli.la/1gfQdhA",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.6,
+    reviewCount: 156,
+    pastelColor: "var(--pastel-verde)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Gadnic" },
+      { label: "Modelo", value: "KINGS221" },
+      { label: "Potencia del motor", value: "300 W" },
+      { label: "Velocidad máxima", value: "28 km/h" },
+      { label: "Autonomía declarada", value: "25 km" },
+      { label: "Batería", value: "Litio 36V, 7,8 Ah" },
+      { label: "Tiempo de carga", value: "6 h" },
+      { label: "Tamaño de ruedas", value: "8,5\"" },
+      { label: "Peso máximo soportado", value: "100 kg" },
+      { label: "Edad mínima recomendada", value: "13 años" },
+      { label: "Peso", value: "13,7 kg" },
+      { label: "Freno", value: "Eléctrico a disco" },
+      { label: "Resistente al agua", value: "Sí" },
+    ],
+    relatedProducts: ["MLA23535856", "MLA68036626", "MLA57835728", "MLA35313780", "MLA49566209"],
+    priceUpdated: "2026-08-05",
+    priceLastChecked: "2026-08-05",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-08-05",
+    description: "Gadnic KINGS221: la mayor base de reseñas de esta comparativa (156 calificaciones, 4.6 estrellas) y el precio más bajo junto con la Philco. Resistente al agua, con luz LED y freno eléctrico a disco.",
+    seoTitle: "Gadnic KINGS221: el monopatín eléctrico con más reseñas reales",
+    metaDescription: "Gadnic KINGS221: 156 calificaciones, 4.6 estrellas, resistente al agua. Precio real, autonomía real verificada contra reseñas y contras honestas.",
+    verdict: "El Gadnic KINGS221 tiene la base de reseñas más grande de esta comparativa (156 calificaciones) con un rating sólido de 4.6. Es de los más baratos y de los más livianos entre las opciones para adultos (la Philco es más liviana todavía, con 12,5 kg contra los 13,7 kg de la Gadnic). La contra real: varias reseñas confirman que la autonomía baja a la mitad de la declarada si usás la luz prendida a velocidad máxima, y no tiene suspensión.",
+    pros: [
+      "La mayor base de reseñas de esta comparativa: 156 calificaciones con 4.6 estrellas",
+      "De los más baratos, prácticamente empatado con la Philco",
+      "De los más livianos entre las opciones para adultos de esta comparativa (13,7 kg)",
+      "Resistente al agua y con freno eléctrico a disco",
+    ],
+    cons: [
+      "La autonomía real baja a la mitad de la declarada (unos 12-15 km en vez de los 24-28 km del título) si andás con la luz prendida a velocidad máxima, según reseñas reales",
+      "No tiene suspensión: hay que tener cuidado en calles con pozos o cunetas",
+      "Reseñas recomiendan ajustar los tornillos cada 5-6 usos",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Gadnic KINGS221 es un monopatín eléctrico plegable de 300 W, freno eléctrico a disco y resistente al agua, con la base de reseñas más grande de esta comparativa.
+
+## Lo bueno
+
+Con 156 calificaciones y 4.6 estrellas, es el monopatín con más respaldo real de compradores de esta guía. Es de los más baratos (prácticamente empatado con la Philco) y de los más livianos entre las opciones pensadas para adultos, con 13,7 kg (la Philco es más liviana todavía, con 12,5 kg).
+
+## La contra real
+
+Varias reseñas reales confirman que la autonomía baja a la mitad de la declarada: en vez de los 24-28 km que sugiere el título, con la luz prendida a velocidad máxima ronda los 12-15 km. No tiene suspensión, así que conviene tener cuidado en calles con pozos o cunetas. También se recomienda ajustar los tornillos cada 5-6 usos.
+
+## Para quién sí y para quién no
+
+Comprala si buscás el mejor respaldo de reseñas al precio más bajo, y no te importa recalcular la autonomía real hacia la baja. Si necesitás más autonomía real o vas a andar por calles en mal estado, la Daihatsu V200 (mayor autonomía declarada) es una alternativa a considerar.`,
+    faq: [
+      { question: "¿Cuál es la autonomía real del Gadnic KINGS221?", answer: "La ficha declara 25 km, pero varias reseñas reales confirman que con la luz prendida a velocidad máxima la autonomía baja a unos 12-15 km." },
+      { question: "¿Tiene suspensión?", answer: "No, según la ficha técnica y las reseñas. Hay que tener cuidado en calles con pozos o cunetas." },
+      { question: "¿Cuántas calificaciones tiene?", answer: "156 calificaciones con 4.6 estrellas, la base de reseñas más grande de esta comparativa de 6 monopatines eléctricos." },
+      { question: "¿Es resistente al agua?", answer: "Sí, según la ficha técnica del producto." },
+    ],
+  },
+  {
+    id: "MLA23535856",
+    title: "Monopatín Eléctrico Philco Plegable 250w 25km Color Negro",
+    canonicalName: "Monopatín Philco MSMPANEM1P",
+    price: 685075,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_970378-MLA99899820189_112025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_970378-MLA99899820189_112025-O.webp",
+    ],
+    category: "Movilidad",
+    categorySlug: "movilidad",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA23535856",
+    affiliateUrl: "https://meli.la/2SCnaSH",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.3,
+    reviewCount: 91,
+    pastelColor: "var(--pastel-celeste)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Philco" },
+      { label: "Modelo", value: "MSMPANEM1P" },
+      { label: "Potencia del motor", value: "250 W" },
+      { label: "Velocidad máxima", value: "25 km/h" },
+      { label: "Batería", value: "Litio 36V" },
+      { label: "Es plegable", value: "Sí" },
+      { label: "Edad mínima recomendada", value: "16 años" },
+      { label: "Peso", value: "12,5 kg" },
+    ],
+    relatedProducts: ["MLA49998952", "MLA68036626", "MLA57835728", "MLA35313780", "MLA49566209"],
+    priceUpdated: "2026-08-05",
+    priceLastChecked: "2026-08-05",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-08-05",
+    description: "Philco MSMPANEM1P: prácticamente empatado con la Gadnic como el más barato de esta comparativa, y el más liviano entre las opciones para adultos (12,5 kg). Motor más chico (250 W) y ficha técnica más incompleta que el resto.",
+    seoTitle: "Philco: el monopatín eléctrico más liviano y barato",
+    metaDescription: "Philco MSMPANEM1P: 4.3 estrellas en 91 calificaciones, 12,5 kg, motor 250W. Precio real, specs verificadas y contras honestas antes de comprar.",
+    verdict: "El Philco MSMPANEM1P empata como el más barato de esta comparativa (una diferencia de apenas $624 contra la Gadnic) y es el más liviano entre las opciones para adultos, con 12,5 kg. Tiene el motor más chico de los 6 (250 W) y su ficha técnica en MercadoLibre no declara autonomía ni peso máximo soportado, algo que sí tienen las demás. Reseñas reales confirman que alcanza los 25 km/h declarados.",
+    pros: [
+      "Empata como el más barato de esta comparativa (diferencia de apenas $624 contra la Gadnic)",
+      "El más liviano entre las opciones para adultos de esta comparativa (12,5 kg)",
+      "Reseñas reales confirman que alcanza la velocidad máxima declarada (25 km/h)",
+      "91 calificaciones, una base de reseñas real considerable",
+    ],
+    cons: [
+      "El motor más chico de esta comparativa (250 W)",
+      "La ficha técnica de MercadoLibre no declara autonomía ni peso máximo soportado, a diferencia de las demás fichas de esta comparativa",
+      "El dato de capacidad de batería que muestra la ficha de ML (6,6 mAh) es implausible para un vehículo eléctrico (probable error de tipeo del vendedor, no lo pudimos confirmar)",
+      "Reseñas reales mencionan que puede llegar con una rueda desinflada",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Philco MSMPANEM1P es un monopatín eléctrico plegable de 250 W, el motor más chico de esta comparativa, pensado para quien prioriza el precio más bajo posible.
+
+## Lo bueno
+
+Empata como el más barato de esta comparativa (apenas $624 de diferencia contra la Gadnic) y es el más liviano entre las opciones para adultos, con 12,5 kg. Reseñas reales confirman que alcanza los 25 km/h declarados sin problema. Una reseña real lo resume bien: lo compró porque era el más barato y en cuotas, y cada cuota le sale menos que dos boletos de colectivo por día.
+
+## La contra real
+
+Tiene el motor más chico de esta comparativa (250 W) y su ficha técnica en MercadoLibre no declara autonomía ni peso máximo soportado, a diferencia de las demás fichas de esta comparativa. El dato de capacidad de batería que muestra la ficha (6,6 mAh) es un número implausible para un vehículo eléctrico de este tipo; no pudimos confirmar si es un error de tipeo del vendedor, así que lo marcamos como dato no verificable en vez de repetirlo como si fuera un hecho. Reseñas reales también mencionan que puede llegar con una rueda desinflada de fábrica.
+
+## Para quién sí y para quién no
+
+Comprala si el precio es tu prioridad número uno y aceptás una ficha técnica más incompleta que el resto (sin dato de autonomía ni peso máximo). Si preferís una ficha técnica completa a un precio casi idéntico, la Gadnic KINGS221 es la alternativa directa.`,
+    faq: [
+      { question: "¿Cuál es el monopatín eléctrico más barato de esta comparativa?", answer: "El Philco MSMPANEM1P y el Gadnic KINGS221 empatan prácticamente en precio, con apenas $624 de diferencia entre ambos." },
+      { question: "¿Cuánto pesa el Philco?", answer: "12,5 kg según la ficha técnica, el más liviano entre las opciones para adultos de esta comparativa." },
+      { question: "¿Cuál es su autonomía?", answer: "La ficha técnica de MercadoLibre no declara este dato para este producto, a diferencia de las demás fichas de esta comparativa." },
+      { question: "¿Alcanza la velocidad máxima declarada?", answer: "Sí, reseñas reales de compradores confirman que llega a los 25 km/h declarados." },
+    ],
+  },
+  {
+    id: "MLA68036626",
+    title: "Scooter Eléctrico Xiaomi 6 Lite Color Negro 500w Max Autonomía 25km Suspensión Doble",
+    canonicalName: "Monopatín Xiaomi Electric Scooter 6 Lite",
+    price: 965544,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_814999-MLA109596163862_042026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_814999-MLA109596163862_042026-O.webp",
+    ],
+    category: "Movilidad",
+    categorySlug: "movilidad",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA68036626",
+    affiliateUrl: "https://meli.la/2pzdXqg",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 16,
+    pastelColor: "var(--pastel-azul)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Xiaomi" },
+      { label: "Modelo", value: "6 Lite" },
+      { label: "Potencia del motor", value: "500 W" },
+      { label: "Velocidad máxima", value: "25 km/h" },
+      { label: "Autonomía", value: "25 km" },
+      { label: "Batería", value: "Litio, 6,15 Ah" },
+      { label: "Tiempo de carga", value: "5,5 h" },
+      { label: "Tamaño de ruedas", value: "10\"" },
+      { label: "Peso máximo soportado", value: "100 kg" },
+      { label: "Edad mínima recomendada", value: "16 años" },
+      { label: "Peso", value: "18 kg" },
+      { label: "Freno", value: "Tambor (delantero) y E-ABS (trasero)" },
+      { label: "Suspensión", value: "Doble" },
+    ],
+    relatedProducts: ["MLA49998952", "MLA23535856", "MLA57835728", "MLA35313780", "MLA49566209"],
+    priceUpdated: "2026-08-05",
+    priceLastChecked: "2026-08-05",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-08-05",
+    description: "Xiaomi 6 Lite: la marca global de electrónica de consumo más reconocible de esta comparativa, con doble suspensión y freno tambor + E-ABS. 4.8 estrellas, pero con solo 16 calificaciones, la base de reseñas más chica de las 6.",
+    seoTitle: "Xiaomi 6 Lite: monopatín eléctrico de marca internacional",
+    metaDescription: "Xiaomi Electric Scooter 6 Lite: 500W, doble suspensión, 4.8 estrellas. Precio real, specs verificadas y contras honestas antes de comprar.",
+    verdict: "El Xiaomi 6 Lite es la marca global de electrónica de consumo más reconocible de esta comparativa, con doble suspensión y freno tambor + E-ABS. Tiene el mejor rating junto con la Logus (4.8 estrellas), pero con solo 16 calificaciones, la base de reseñas más chica de esta comparativa. Buena opción si el nombre de marca y la terminación te importan más que el respaldo de reseñas.",
+    pros: [
+      "La marca global de electrónica de consumo más reconocible de esta comparativa (Xiaomi)",
+      "Empata como el mejor rating de esta comparativa: 4.8 estrellas",
+      "Doble suspensión, algo que ninguna otra de esta comparativa tiene",
+      "Freno tambor + E-ABS en las dos ruedas",
+    ],
+    cons: [
+      "Solo 16 calificaciones, la base de reseñas más chica de esta comparativa por lejos (la Gadnic tiene 156)",
+      "Velocidad máxima de 25 km/h, la más baja de las opciones de 500W de esta comparativa (la Daihatsu con el mismo motor declara 35 km/h)",
+      "Es de las más pesadas: 18 kg",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Xiaomi 6 Lite es un scooter eléctrico plegable de 500 W con doble suspensión y freno tambor + E-ABS, de la marca global de electrónica de consumo más reconocible de esta comparativa.
+
+## Lo bueno
+
+Empata como el mejor rating de esta comparativa (4.8 estrellas) y es la única con doble suspensión, algo que se nota en calles en mal estado. Reseñas reales describen un uso diario para ir al trabajo, con comandos simples y buena tecnología.
+
+## La contra real
+
+Tiene solo 16 calificaciones, la base de reseñas más chica de esta comparativa por lejos (la Gadnic tiene 156). Pese a tener el mismo motor de 500 W que la Daihatsu V200, su velocidad máxima declarada es de 25 km/h, bastante menos que los 35 km/h que declara la Daihatsu. Es además una de las más pesadas de esta comparativa, con 18 kg.
+
+## Para quién sí y para quién no
+
+Comprala si el nombre de marca reconocida y la doble suspensión te importan, y aceptás un respaldo de reseñas todavía chico. Si preferís más reseñas antes de decidir, la Gadnic o la Logus tienen mucho más historial.`,
+    faq: [
+      { question: "¿Cuántas calificaciones tiene el Xiaomi 6 Lite?", answer: "16 calificaciones con 4.8 estrellas, la base de reseñas más chica de esta comparativa de 6 monopatines eléctricos." },
+      { question: "¿Tiene suspensión?", answer: "Sí, doble suspensión según la ficha técnica, la única de esta comparativa con esa característica." },
+      { question: "¿Cuánto pesa?", answer: "18 kg según la ficha técnica, de las más pesadas de esta comparativa." },
+      { question: "¿Cuál es su velocidad máxima?", answer: "25 km/h según la ficha técnica, la más baja entre las opciones de 500W de esta comparativa." },
+    ],
+  },
+  {
+    id: "MLA57835728",
+    title: "Monopatín Eléctrico Daihatsu V200 500W Tracción Trasera 10'' 15.6Ah Negro",
+    canonicalName: "Monopatín Daihatsu V200",
+    price: 999999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_982717-MLA113592192481_062026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_982717-MLA113592192481_062026-O.webp",
+    ],
+    category: "Movilidad",
+    categorySlug: "movilidad",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA57835728",
+    affiliateUrl: "https://meli.la/1YEFHaw",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 19,
+    pastelColor: "var(--pastel-ambar)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Daihatsu" },
+      { label: "Modelo", value: "V200" },
+      { label: "Potencia del motor", value: "500 W" },
+      { label: "Velocidad máxima declarada", value: "35 km/h" },
+      { label: "Autonomía", value: "35 km" },
+      { label: "Batería", value: "Litio 36V, 15,6 Ah" },
+      { label: "Tiempo de carga", value: "4 h" },
+      { label: "Tamaño de ruedas", value: "10\"" },
+      { label: "Peso máximo soportado", value: "120 kg" },
+      { label: "Edad mínima recomendada", value: "16 años" },
+      { label: "Peso", value: "16 kg" },
+      { label: "Freno", value: "Tambor" },
+    ],
+    relatedProducts: ["MLA49998952", "MLA23535856", "MLA68036626", "MLA35313780", "MLA49566209"],
+    priceUpdated: "2026-08-05",
+    priceLastChecked: "2026-08-05",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-08-05",
+    description: "Daihatsu V200: la mayor autonomía declarada (35 km) y el mayor soporte de peso (120 kg) de esta comparativa. La ficha declara 35 km/h de velocidad máxima, pero una reseña real reporta que sale limitada a 25 km/h de fábrica (dato no confirmado al 100%).",
+    seoTitle: "Daihatsu V200: el monopatín eléctrico con más autonomía",
+    metaDescription: "Daihatsu V200: 500W, 35 km de autonomía declarada, soporta hasta 120 kg. Precio real y la verdad sobre su velocidad máxima, según reseñas reales.",
+    verdict: "El Daihatsu V200 declara la mayor autonomía (35 km) y el mayor soporte de peso (120 kg) de esta comparativa. La contra real y poco común: la ficha técnica declara 35 km/h de velocidad máxima, pero una reseña real de un comprador reporta que sale de fábrica limitada a 25 km/h, con un máximo alcanzable de 30 km/h mediante un ajuste no oficial (un \"menú secreto\"). Es una discrepancia real entre el título y lo que cuenta un comprador, no un dato confirmado al 100%.",
+    pros: [
+      "Mayor autonomía declarada de esta comparativa: 35 km",
+      "Mayor soporte de peso de esta comparativa: 120 kg",
+      "Motor de 500 W, empatado con el Xiaomi como el más potente",
+      "4.7 estrellas en 19 calificaciones",
+    ],
+    cons: [
+      "La ficha declara 35 km/h de velocidad máxima, pero una reseña real reporta que sale de fábrica limitada a 25 km/h (no confirmado al 100%); el máximo alcanzable con un ajuste no oficial sería de 30 km/h, no los 35 declarados",
+      "Solo 19 calificaciones, una base de reseñas chica",
+      "Reseñas mencionan que con el uso se puede aflojar el caño o la bisagra y hacer ruido",
+      "Sin Bluetooth, a diferencia de otras opciones de esta comparativa",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Daihatsu V200 es un monopatín eléctrico plegable de 500 W, con la mayor autonomía y el mayor soporte de peso declarados de esta comparativa.
+
+## Lo bueno
+
+Declara 35 km de autonomía y soporta hasta 120 kg, ambos el máximo de esta comparativa. Reseñas reales lo describen como ágil y sorprendente para el precio.
+
+## La contra real
+
+El título y la ficha técnica declaran 35 km/h de velocidad máxima, pero una reseña real de un comprador cuenta algo distinto: "su velocidad máxima viene configurada en 25 km/h pero entrando al menú secreto (apretando los dos botoncitos a la vez) se puede aumentarle hasta 30 km/h". Es decir, de fábrica sale limitado a 25 km/h, y el máximo real alcanzable (con un ajuste no oficial, no un uso normal) es 30 km/h, no los 35 que declara la ficha. Lo marcamos como una discrepancia real entre lo declarado y lo que reporta un comprador, no como un dato confirmado al 100%. Además, solo tiene 19 calificaciones, y reseñas mencionan que con el uso se puede aflojar el caño o la bisagra.
+
+## Para quién sí y para quién no
+
+Comprala si priorizás la mayor autonomía y soporte de peso declarados, y no te importa que la velocidad máxima real probablemente sea menor a la del título. Si la velocidad tope es tu prioridad, ninguna de esta comparativa la garantiza sin matices: revisá el detalle de cada una antes de decidir por ese factor solo.`,
+    faq: [
+      { question: "¿El Daihatsu V200 llega realmente a 35 km/h?", answer: "La ficha técnica lo declara, pero una reseña real de un comprador indica que sale de fábrica limitado a 25 km/h y que el máximo alcanzable con un ajuste no oficial es 30 km/h, no 35. Lo marcamos como una discrepancia real, no confirmada al 100%." },
+      { question: "¿Cuál es su autonomía?", answer: "35 km según la ficha técnica, la mayor de esta comparativa de 6 monopatines eléctricos." },
+      { question: "¿Cuánto peso soporta?", answer: "120 kg según la ficha técnica, el máximo de esta comparativa." },
+      { question: "¿Tiene Bluetooth?", answer: "No, según la ficha técnica, a diferencia de otras opciones de esta comparativa como la Xiaomi o la Logus." },
+    ],
+  },
+  {
+    id: "MLA35313780",
+    title: "Monopatin Electrico Logus L7 350 Watts Color Plata",
+    canonicalName: "Monopatín Logus L7",
+    price: 1085998,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_837452-MLA113794567144_072026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_837452-MLA113794567144_072026-O.webp",
+    ],
+    category: "Movilidad",
+    categorySlug: "movilidad",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA35313780",
+    affiliateUrl: "https://meli.la/2sgJGd4",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 112,
+    pastelColor: "var(--pastel-violeta)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Logus" },
+      { label: "Modelo", value: "L7" },
+      { label: "Potencia del motor", value: "350 W" },
+      { label: "Velocidad máxima", value: "30 km/h" },
+      { label: "Autonomía", value: "12 km" },
+      { label: "Batería", value: "Extraíble, 5 Ah" },
+      { label: "Peso máximo soportado", value: "100 kg" },
+      { label: "Edad mínima recomendada", value: "16 años" },
+      { label: "Peso", value: "13 kg" },
+      { label: "Freno", value: "A disco" },
+      { label: "Bluetooth", value: "Sí" },
+    ],
+    relatedProducts: ["MLA49998952", "MLA23535856", "MLA68036626", "MLA57835728", "MLA49566209"],
+    priceUpdated: "2026-08-05",
+    priceLastChecked: "2026-08-05",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-08-05",
+    description: "Logus L7: empata como el mejor rating de esta comparativa (4.8 estrellas) con la segunda base de reseñas más grande (112). Batería extraíble y bluetooth, pero la autonomía declarada más baja de las 6 (12 km).",
+    seoTitle: "Logus L7: monopatín eléctrico con batería extraíble",
+    metaDescription: "Logus L7: 350W, batería extraíble, bluetooth. 4.8 estrellas en 112 calificaciones. Precio real, specs verificadas y contras honestas.",
+    verdict: "El Logus L7 empata como el mejor rating de esta comparativa (4.8 estrellas) con la segunda base de reseñas más grande (112 calificaciones). Tiene batería extraíble y bluetooth, pero declara la autonomía más baja de las 6 (12 km) y reseñas reales confirman que la duración de batería es su punto débil. Es además la más cara de esta comparativa.",
+    pros: [
+      "Empata como el mejor rating de esta comparativa: 4.8 estrellas",
+      "Segunda base de reseñas más grande: 112 calificaciones",
+      "Batería extraíble, útil para cargarla sin mover todo el monopatín",
+      "Bluetooth y freno a disco",
+    ],
+    cons: [
+      "Autonomía declarada más baja de esta comparativa: solo 12 km",
+      "Reseñas reales confirman que la duración de batería es el punto débil del producto",
+      "Es la más cara de esta comparativa ($1.085.998)",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Logus L7 es un monopatín eléctrico plegable de 350 W con batería extraíble y bluetooth, de una de las marcas argentinas con más respaldo de reseñas de esta comparativa.
+
+## Lo bueno
+
+Empata como el mejor rating de esta comparativa (4.8 estrellas) con la segunda base de reseñas más grande, 112 calificaciones. La batería extraíble es un plus real: se puede cargar aparte sin mover todo el monopatín. Reseñas reales lo describen con buena relación precio-calidad y práctico para guardar.
+
+## La contra real
+
+Declara la autonomía más baja de esta comparativa: solo 12 km, muy por debajo de los 25-35 km de las demás. Reseñas reales confirman que la duración de la batería es justamente el punto débil ("lo único que cambiaría es la durabilidad de la batería"). Es además la más cara de esta comparativa.
+
+## Para quién sí y para quién no
+
+Comprala si valorás el respaldo de reseñas, el rating alto y la batería extraíble, y tus trayectos son cortos (la autonomía real ronda los 12 km). Si necesitás más autonomía para trayectos largos, la Daihatsu V200 (35 km declarados) es una alternativa a considerar.`,
+    faq: [
+      { question: "¿Cuál es la autonomía del Logus L7?", answer: "12 km según la ficha técnica, la más baja de esta comparativa de 6 monopatines eléctricos. Reseñas reales confirman que la duración de batería es su punto débil." },
+      { question: "¿Tiene batería extraíble?", answer: "Sí, según la ficha técnica, algo que ninguna otra de esta comparativa declara." },
+      { question: "¿Cuántas calificaciones tiene?", answer: "112 calificaciones con 4.8 estrellas, la segunda base de reseñas más grande de esta comparativa, después de la Gadnic." },
+      { question: "¿Es la opción más cara de esta comparativa?", answer: "Sí, a $1.085.998 es la más cara de las 6 opciones de esta guía." },
+    ],
+  },
+  {
+    id: "MLA49566209",
+    title: "Monopatín Eléctrico Black Power R32 M Negro",
+    canonicalName: "Monopatín Black Power R32 B",
+    price: 705900,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_861715-MLA111583984906_062026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_861715-MLA111583984906_062026-O.webp",
+    ],
+    category: "Movilidad",
+    categorySlug: "movilidad",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA49566209",
+    affiliateUrl: "https://meli.la/11fpRWw",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.4,
+    reviewCount: 24,
+    pastelColor: "var(--pastel-rosa)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Black Power" },
+      { label: "Modelo", value: "R32 B" },
+      { label: "Potencia del motor", value: "320 W" },
+      { label: "Velocidad máxima", value: "25 km/h" },
+      { label: "Autonomía", value: "15 km" },
+      { label: "Batería", value: "Litio 24V, 6 Ah" },
+      { label: "Tiempo de carga", value: "4 h" },
+      { label: "Peso máximo soportado", value: "100 kg" },
+      { label: "Edad mínima recomendada", value: "8 años" },
+      { label: "Edad recomendada", value: "8-13 años" },
+      { label: "Peso", value: "11,5 kg" },
+      { label: "Freno", value: "Disco trasero" },
+    ],
+    relatedProducts: ["MLA49998952", "MLA23535856", "MLA68036626", "MLA57835728", "MLA35313780"],
+    priceUpdated: "2026-08-05",
+    priceLastChecked: "2026-08-05",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-08-05",
+    description: "Black Power R32 M: aparece en la categoría general de monopatín eléctrico, pero la ficha técnica lo declara para 8-13 años. No es una opción para adultos pese a estar listada junto a las demás.",
+    seoTitle: "Black Power R32: el monopatín eléctrico pensado para chicos",
+    metaDescription: "Black Power R32 M: la ficha técnica lo declara para 8-13 años, no para adultos. Precio real y por qué esta guía lo separa de las demás opciones.",
+    verdict: "El Black Power R32 M aparece listado en la misma categoría general que el resto de esta comparativa, pero la ficha técnica es clara: edad mínima 8 años, edad recomendada 8-13 años. Es un monopatín eléctrico pensado para chicos, no un monopatín para adultos más chico o más barato. Lo incluimos en esta guía para que no lo confundas con las demás opciones si buscás uno para vos.",
+    pros: [
+      "Liviano y fácil de manejar según reseñas reales",
+      "Precio accesible dentro de la categoría",
+      "24 calificaciones con 4.4 estrellas",
+    ],
+    cons: [
+      "La ficha técnica lo declara para 8-13 años (edad mínima 8 años): no es una opción pensada para adultos, aunque aparece en la misma categoría general de MercadoLibre",
+      "Menor potencia (320 W) y menor autonomía (15 km) que las opciones para adultos de esta comparativa",
+      "Batería más chica (24V) que las demás",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Black Power R32 M es un monopatín eléctrico plegable de 320 W que aparece en la misma categoría general de MercadoLibre que el resto de los monopatines de esta comparativa. Pero hay un dato importante en la ficha técnica que cambia todo: edad mínima recomendada 8 años, edad recomendada 8-13 años.
+
+## Lo bueno
+
+Para lo que es (un monopatín pensado para chicos), cumple: es liviano (11,5 kg), fácil de manejar según reseñas reales, y tiene un precio accesible con 24 calificaciones y 4.4 estrellas de respaldo.
+
+## La contra real (y la más importante de esta ficha)
+
+No es un monopatín eléctrico "chico" o "de entrada" para adultos: la ficha técnica lo declara explícitamente para 8-13 años. Si estás buscando tu primer monopatín eléctrico como adulto y ves este producto en la misma búsqueda que los demás, es fácil confundirlo. Tiene menos potencia (320 W) y menos autonomía (15 km) que cualquiera de las opciones para adultos de esta comparativa.
+
+## Para quién sí y para quién no
+
+Comprala si estás buscando un monopatín eléctrico para un chico de 8 a 13 años. Si buscás uno para vos como adulto, cualquiera de las otras 5 opciones de esta comparativa (Gadnic, Philco, Xiaomi, Daihatsu o Logus) es la que corresponde, todas declaradas para 16 años o más (salvo la Gadnic, declarada desde 13 años).`,
+    faq: [
+      { question: "¿El Black Power R32 M es para adultos o para chicos?", answer: "Según su propia ficha técnica, es para chicos: edad mínima recomendada 8 años, edad recomendada 8-13 años. No está pensado para uso adulto, aunque aparece listado en la misma categoría general de MercadoLibre que las opciones para adultos." },
+      { question: "¿Por qué está en esta comparativa si es para chicos?", answer: "Porque aparece en los resultados de búsqueda de \"monopatín eléctrico\" junto con las opciones para adultos, y queríamos avisarte antes de que lo confundas con una opción de entrada para vos." },
+      { question: "¿Cuánta autonomía tiene?", answer: "15 km según la ficha técnica, menos que cualquiera de las opciones para adultos de esta comparativa." },
+    ],
+  },
+  {
+    id: "MLA53154634",
+    title: "Monopatin Infantil Regulable Swift Plegable Rainbow Azul",
+    canonicalName: "Monopatín Rainbow Swift",
+    price: 67600,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_982912-MLA100036811625_122025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_982912-MLA100036811625_122025-O.webp",
+    ],
+    category: "Movilidad",
+    categorySlug: "movilidad",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA53154634",
+    affiliateUrl: "https://meli.la/1VWY9df",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 268,
+    pastelColor: "var(--pastel-celeste)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Rainbow" },
+      { label: "Modelo", value: "Swift" },
+      { label: "Cantidad de ruedas", value: "4" },
+      { label: "Edad mínima recomendada", value: "3 años" },
+      { label: "Peso máximo soportado", value: "50 kg" },
+      { label: "Es plegable", value: "Sí" },
+      { label: "Con luces LED", value: "Sí" },
+      { label: "Sistema", value: "Lean to steer (gira inclinando el cuerpo)" },
+      { label: "Manubrio", value: "Ajustable en altura, tipo T-bar" },
+      { label: "Material", value: "Aluminio y plástico" },
+    ],
+    relatedProducts: ["MLA21213845", "MLA46521684", "MLA53272904"],
+    priceUpdated: "2026-08-05",
+    priceLastChecked: "2026-08-05",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-08-05",
+    description: "Rainbow Swift: la más barata de esta comparativa, con muy buena calificación (4.8 estrellas en 268 calificaciones). 4 ruedas, sistema lean to steer y edad mínima de 3 años, la más chica de esta guía.",
+    seoTitle: "Rainbow Swift: el monopatín infantil más barato de esta comparativa",
+    metaDescription: "Rainbow Swift: monopatín infantil de 4 ruedas, 4.8 estrellas en 268 calificaciones, desde los 3 años. Precio real y contras honestas antes de comprar.",
+    verdict: "El Rainbow Swift es el más barato de esta comparativa y tiene muy buena calificación: 4.8 estrellas en 268 opiniones. Con 4 ruedas y sistema lean to steer, es apto desde los 3 años, la edad mínima más baja de esta guía. La contra real: una reseña real avisa que la versión plegable tiene menos estabilidad y un plegado complicado.",
+    pros: [
+      "El más barato de esta comparativa: $67.600",
+      "Muy buena calificación: 4.8 estrellas en 268 calificaciones",
+      "Apto desde los 3 años, la edad mínima más baja de esta guía",
+      "4 ruedas con sistema lean to steer, estable para los más chicos",
+    ],
+    cons: [
+      "Una reseña real avisa que la versión plegable (azul) tiene menos estabilidad al andar y cuesta más girar que otros colores/modelos de la misma línea",
+      "El plegado es descripto como complicado en al menos una reseña",
+      "Al menos un comprador reportó una falla técnica y tuvo que devolverlo",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Rainbow Swift es un monopatín infantil de 4 ruedas con sistema lean to steer (gira inclinando el cuerpo, no girando el manubrio), apto desde los 3 años.
+
+## Lo bueno
+
+Es el más barato de esta comparativa y, pese a eso, tiene muy buena calificación: 4.8 estrellas en 268 opiniones. Las 4 ruedas y el sistema lean to steer lo hacen más estable para los chicos más pequeños que un monopatín de 2 ruedas tradicional. Tiene manubrio ajustable en altura y luces LED.
+
+## La contra real
+
+Una reseña real avisa que la versión plegable de color azul tiene menos estabilidad al andar y cuesta más girar que otras variantes de la misma línea, y que el mecanismo de plegado es complicado. Otro comprador reportó una falla técnica y tuvo que devolverlo, aunque no es un patrón repetido en las demás reseñas.
+
+## Para quién sí y para quién no
+
+Comprala si buscás la opción más económica con mejor respaldo de reseñas, sobre todo para chicos de 3 a 6 años que recién empiezan. Si tu hijo es más grande o pesado, revisá el Rofft Maxi-891 de esta comparativa, que soporta más peso y cubre un rango de edad más amplio.`,
+    faq: [
+      { question: "¿Desde qué edad se puede usar el Rainbow Swift?", answer: "Desde los 3 años según la ficha técnica, la edad mínima más baja de esta comparativa de monopatines infantiles." },
+      { question: "¿Es el monopatín infantil más barato?", answer: "Sí, a $67.600 es el más barato de esta comparativa, y también tiene muy buena calificación (4.8 estrellas)." },
+      { question: "¿Cuánto peso soporta?", answer: "50 kg según la ficha técnica." },
+      { question: "¿Es fácil de plegar?", answer: "Depende del modelo: una reseña real menciona que la versión azul plegable tiene un mecanismo de plegado complicado, a diferencia de otras variantes de la misma línea." },
+    ],
+  },
+  {
+    id: "MLA21213845",
+    title: "Monopatín Plegable Gadnic Metal 30kg Niños Freno Presion Color Gris",
+    canonicalName: "Monopatín Gadnic MONINF06",
+    price: 92799,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_793946-MLA84833489785_052025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_793946-MLA84833489785_052025-O.webp",
+    ],
+    category: "Movilidad",
+    categorySlug: "movilidad",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA21213845",
+    affiliateUrl: "https://meli.la/2tsHYmP",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.3,
+    reviewCount: 402,
+    pastelColor: "var(--pastel-verde)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Gadnic" },
+      { label: "Modelo", value: "MONINF06" },
+      { label: "Cantidad de ruedas", value: "2" },
+      { label: "Peso máximo soportado", value: "60 kg" },
+      { label: "Es plegable", value: "Sí" },
+      { label: "Con luces LED", value: "No" },
+      { label: "Manubrio", value: "Ajustable, tipo T-bar" },
+      { label: "Material", value: "Aluminio (cuadro y tabla)" },
+      { label: "Freno", value: "Trasero, a presión" },
+      { label: "Base", value: "Antideslizante" },
+    ],
+    relatedProducts: ["MLA53154634", "MLA46521684", "MLA53272904"],
+    priceUpdated: "2026-08-05",
+    priceLastChecked: "2026-08-05",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-08-05",
+    description: "Gadnic MONINF06: la mayor base de reseñas de esta comparativa por lejos (402 calificaciones). Cuadro de aluminio de 2 ruedas, plegable, soporta hasta 60 kg. Sin luces LED, a diferencia del resto de esta guía.",
+    seoTitle: "Gadnic: el monopatín infantil con más reseñas reales",
+    metaDescription: "Monopatín Gadnic MONINF06: 402 calificaciones, 4.3 estrellas, cuadro de aluminio plegable. Precio real, specs verificadas y contras honestas.",
+    verdict: "El Gadnic MONINF06 tiene, por lejos, la base de reseñas más grande de esta comparativa: 402 calificaciones con 4.3 estrellas. Es de 2 ruedas (no 4 como el resto de esta guía), de cuadro de aluminio plegable, y soporta hasta 60 kg. La contra real: no trae luces LED, a diferencia de las demás opciones de esta comparativa, y la ficha técnica de MercadoLibre declara un peso del producto (30 kg) que es implausible para un monopatín infantil — lo omitimos por no poder confirmarlo.",
+    pros: [
+      "La mayor base de reseñas de esta comparativa por lejos: 402 calificaciones",
+      "Cuadro de aluminio plegable, resistente",
+      "Soporta hasta 60 kg",
+      "Precio intermedio dentro de esta comparativa",
+    ],
+    cons: [
+      "No trae luces LED, a diferencia de las demás opciones de esta comparativa",
+      "Es de 2 ruedas (menos estable para los más chicos que las opciones de 4 ruedas de esta guía)",
+      "La ficha técnica de MercadoLibre declara un peso del producto de 30 kg, un número implausible para un monopatín infantil; no lo confirmamos y lo omitimos de los specs",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Gadnic MONINF06 es un monopatín infantil de 2 ruedas, cuadro de aluminio plegable, con la base de reseñas más grande de esta comparativa por lejos.
+
+## Lo bueno
+
+Con 402 calificaciones y 4.3 estrellas, es el monopatín infantil con más respaldo real de compradores de esta comparativa, por lejos. Reseñas describen un producto resistente y de buena relación precio-calidad, con varios compradores mencionando que sus hijos lo usan felices.
+
+## La contra real
+
+No incluye luces LED, algo que sí traen las demás opciones de esta comparativa. Al ser de 2 ruedas (no 4), es menos estable para los chicos más pequeños que recién empiezan. Un dato que no pudimos confirmar: la ficha técnica de MercadoLibre declara un peso del producto de 30 kg, un número que no tiene sentido para un monopatín infantil (probablemente un error de carga del vendedor); por eso lo omitimos de los datos técnicos en vez de repetirlo como si fuera un hecho.
+
+## Para quién sí y para quién no
+
+Comprala si el respaldo de reseñas es tu prioridad número uno. Si tu hijo recién empieza y buscás más estabilidad, el Rainbow Swift o el Rofft Maxi-891 (ambos de 4 ruedas) son mejor punto de partida.`,
+    faq: [
+      { question: "¿Cuántas reseñas tiene el monopatín Gadnic?", answer: "402 calificaciones con 4.3 estrellas, la base de reseñas más grande de esta comparativa de monopatines infantiles por lejos." },
+      { question: "¿Tiene luces LED?", answer: "No, según la ficha técnica, a diferencia de las demás opciones de esta comparativa." },
+      { question: "¿Cuánto pesa el monopatín?", answer: "La ficha técnica de MercadoLibre declara 30 kg, un dato que consideramos implausible para este tipo de producto y que no pudimos confirmar; lo omitimos de los specs." },
+      { question: "¿Cuánto peso soporta?", answer: "60 kg según la ficha técnica." },
+    ],
+  },
+  {
+    id: "MLA46521684",
+    title: "Monopatín Infantil Graffiti ROFFT Maxi-891 Nene Nena 4 Ruedas con Luces LED",
+    canonicalName: "Monopatín Rofft Maxi-891",
+    price: 83340,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_639717-MLA109813077748_042026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_639717-MLA109813077748_042026-O.webp",
+    ],
+    category: "Movilidad",
+    categorySlug: "movilidad",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA46521684",
+    affiliateUrl: "https://meli.la/1qfojdv",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.6,
+    reviewCount: 126,
+    pastelColor: "var(--pastel-rosa)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Rofft" },
+      { label: "Modelo", value: "Maxi-891" },
+      { label: "Cantidad de ruedas", value: "4" },
+      { label: "Edad mínima recomendada", value: "3 años" },
+      { label: "Edad máxima recomendada", value: "12 años" },
+      { label: "Peso máximo soportado", value: "70 kg" },
+      { label: "Con luces LED", value: "Sí" },
+      { label: "Manubrio", value: "Ajustable en altura (60-82 cm)" },
+      { label: "Material", value: "PP New Plastic y aluminio" },
+      { label: "Base", value: "Antideslizante" },
+    ],
+    relatedProducts: ["MLA53154634", "MLA21213845", "MLA53272904"],
+    priceUpdated: "2026-08-05",
+    priceLastChecked: "2026-08-05",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-08-05",
+    description: "Rofft Maxi-891: el rango de edad más amplio (3 a 12 años) y el mayor soporte de peso (70 kg) de esta comparativa. 4 ruedas, luces LED, 126 calificaciones con 4.6 estrellas.",
+    seoTitle: "Rofft Maxi-891: el monopatín infantil que soporta más peso",
+    metaDescription: "Rofft Maxi-891: monopatín infantil de 4 ruedas, hasta 70 kg, edades 3-12 años. 4.6 estrellas en 126 calificaciones. Precio real y specs verificadas.",
+    verdict: "El Rofft Maxi-891 cubre el rango de edad más amplio de esta comparativa (3 a 12 años) y soporta el mayor peso (70 kg), útil si buscás un monopatín que le dure más años al mismo chico. Tiene 126 calificaciones con 4.6 estrellas y trae luces LED.",
+    pros: [
+      "El rango de edad más amplio de esta comparativa: 3 a 12 años",
+      "El mayor soporte de peso: 70 kg",
+      "4 ruedas, más estable para los más chicos",
+      "126 calificaciones con 4.6 estrellas, buen respaldo",
+    ],
+    cons: [
+      "El manubrio ajustable llega hasta 82 cm, menos que otras opciones pensadas para chicos más grandes",
+      "No incluye asiento ni la posibilidad de agregarlo",
+      "Precio intermedio entre las opciones económicas y la premium de esta comparativa",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Rofft Maxi-891 es un monopatín infantil de 4 ruedas con luces LED, pensado para acompañar a un chico desde los 3 hasta los 12 años.
+
+## Lo bueno
+
+Es el que cubre el rango de edad más amplio de esta comparativa (3 a 12 años) y el que más peso soporta (70 kg), así que es una opción que puede durarle más años al mismo chico sin que lo quede chico o corto de resistencia. Reseñas reales destacan la calidad de los materiales y un sistema de amortiguación que evita que se vuelque al doblar.
+
+## La contra real
+
+El manubrio ajustable llega hasta 82 cm de altura, menos que lo que podría necesitar un chico ya cerca de los 12 años (el límite superior de edad que declara la ficha). No incluye asiento.
+
+## Para quién sí y para quién no
+
+Comprala si buscás un monopatín que acompañe a tu hijo varios años sin cambiarlo, gracias al rango de edad amplio y el mayor soporte de peso de esta comparativa. Si tu hijo es más chico (3-6 años) y buscás la opción más económica, el Rainbow Swift cumple igual de bien a menor precio.`,
+    faq: [
+      { question: "¿Para qué edades sirve el Rofft Maxi-891?", answer: "De 3 a 12 años según la ficha técnica, el rango más amplio de esta comparativa de monopatines infantiles." },
+      { question: "¿Cuánto peso soporta?", answer: "70 kg según la ficha técnica, el mayor soporte de peso de esta comparativa." },
+      { question: "¿Tiene luces LED?", answer: "Sí, según la ficha técnica." },
+      { question: "¿Cuántas calificaciones tiene?", answer: "126 calificaciones con 4.6 estrellas." },
+    ],
+  },
+  {
+    id: "MLA53272904",
+    title: "Monopatín Globber Elite Deluxe con Luces LED, Azul, de 3 Ruedas para Niños",
+    canonicalName: "Monopatín Globber Elite Deluxe",
+    price: 299990,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_974251-MLA99994304303_112025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_974251-MLA99994304303_112025-O.webp",
+    ],
+    category: "Movilidad",
+    categorySlug: "movilidad",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA53272904",
+    affiliateUrl: "https://meli.la/1U3sohZ",
+    condition: "new",
+    freeShipping: true,
+    rating: 5.0,
+    reviewCount: 4,
+    pastelColor: "var(--pastel-violeta)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Globber" },
+      { label: "Modelo", value: "444-400 Elite Deluxe Lights" },
+      { label: "Cantidad de ruedas", value: "3" },
+      { label: "Es plegable", value: "No (según la ficha técnica)" },
+      { label: "Con luces LED", value: "Sí" },
+      { label: "Sistema", value: "Lean to steer (gira inclinando el cuerpo)" },
+      { label: "Manubrio", value: "Ajustable, tipo T-bar" },
+      { label: "Material", value: "Plástico y aluminio" },
+      { label: "Freno", value: "Trasero" },
+      { label: "Base", value: "Antideslizante" },
+    ],
+    relatedProducts: ["MLA53154634", "MLA21213845", "MLA46521684"],
+    priceUpdated: "2026-08-05",
+    priceLastChecked: "2026-08-05",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-08-05",
+    description: "Globber Elite Deluxe: la única marca internacional de esta comparativa, con sistema lean to steer de 3 ruedas y luces LED. Es, por lejos, la más cara (más de 3 veces el precio de las demás), y todavía tiene pocas reseñas (4).",
+    seoTitle: "Globber Elite Deluxe: el monopatín infantil de marca internacional",
+    metaDescription: "Globber Elite Deluxe: monopatín infantil de 3 ruedas, marca internacional, luces LED. Precio real y contras honestas antes de pagar el plus de marca.",
+    verdict: "El Globber Elite Deluxe es la única marca internacional de esta comparativa, con sistema lean to steer de 3 ruedas. Es, por lejos, la más cara (más de 3 veces el precio de las demás opciones de esta guía), y todavía tiene una base de reseñas chica (solo 4). Un dato para tener en cuenta: la ficha técnica declara que no es plegable, pero al menos una reseña real menciona que es fácil de plegar para el auto — una contradicción que no pudimos resolver con certeza.",
+    pros: [
+      "La única marca internacional de esta comparativa (Globber)",
+      "Sistema lean to steer de 3 ruedas con luces LED",
+      "Reseñas reales destacan la resistencia del producto al uso intenso",
+      "5.0 estrellas, aunque con pocas calificaciones todavía",
+    ],
+    cons: [
+      "Es, por lejos, la más cara de esta comparativa: más de 3 veces el precio de las demás opciones",
+      "Solo 4 calificaciones, la base de reseñas más chica de esta guía",
+      "La ficha técnica declara que no es plegable, pero al menos una reseña real menciona que es fácil de plegar para llevarlo en el auto; no pudimos resolver esta contradicción con certeza",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Globber Elite Deluxe es un monopatín infantil de 3 ruedas con sistema lean to steer y luces LED, de Globber, la única marca internacional de esta comparativa.
+
+## Lo bueno
+
+Es la opción de marca reconocida a nivel internacional de esta guía. Reseñas reales describen un producto resistente ("le da duro y sigue en perfectas condiciones") y fácil de manejar, con buen giro y frenado.
+
+## La contra real
+
+Cuesta más de 3 veces lo que cualquiera de las otras opciones de esta comparativa, y todavía tiene solo 4 calificaciones (aunque las 4 son de 5 estrellas). Hay además una contradicción que no pudimos resolver: la ficha técnica de MercadoLibre declara que el producto no es plegable, pero al menos una reseña real dice lo contrario ("fácil de armar y de plegar para el auto"). Lo marcamos como dato dudoso en vez de afirmar uno de los dos con certeza.
+
+## Para quién sí y para quién no
+
+Comprala si el nombre de marca internacional te importa específicamente y el precio no es un problema. Si buscás algo funcionalmente similar (3-4 ruedas, lean to steer, LED) a una fracción del precio, el Rainbow Swift o el Rofft Maxi-891 de esta comparativa cumplen la misma función.`,
+    faq: [
+      { question: "¿El Globber Elite Deluxe es plegable?", answer: "Según la ficha técnica de MercadoLibre, no. Pero al menos una reseña real de un comprador menciona que es fácil de plegar para el auto, así que hay una contradicción entre la ficha y lo que reportan algunos compradores que no pudimos resolver con certeza." },
+      { question: "¿Por qué es tan cara comparada con las demás?", answer: "Es de una marca internacional reconocida (Globber), a diferencia de las otras 3 opciones de esta comparativa que son marcas locales/regionales. Ese factor de marca explica gran parte de la diferencia de precio." },
+      { question: "¿Cuántas reseñas tiene?", answer: "Solo 4 calificaciones, la base de reseñas más chica de esta comparativa, aunque las 4 son de 5 estrellas." },
+    ],
+  },
+  // Guía nueva bicicleta-rodado-26
+  {
+    id: "MLA1173239137",
+    title: "Bic. Mtb Dama Rodado 26 Con Suspensión 18 Vel Hoko - Envio",
+    canonicalName: "Bicicleta Hoko MTB Dama Rodado 26",
+    price: 294880,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_831918-MLA97919587548_112025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_831918-MLA97919587548_112025-O.webp",
+    ],
+    category: "Movilidad",
+    categorySlug: "movilidad",
+    permalink: "https://articulo.mercadolibre.com.ar/MLA-1173239137-bic-mtb-dama-rodado-26-con-suspension-18-vel-hoko-envio-_JM",
+    affiliateUrl: "https://meli.la/1gXAP21",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 205,
+    pastelColor: "var(--pastel-green)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Hoko" },
+      { label: "Rodado", value: "26" },
+      { label: "Tipo", value: "Mountain bike" },
+      { label: "Género", value: "Mujer" },
+      { label: "Tamaño de cuadro", value: "18\"" },
+      { label: "Material del cuadro", value: "Acero" },
+      { label: "Velocidades", value: "18" },
+      { label: "Frenos", value: "V-brakes" },
+      { label: "Suspensión", value: "Delantera" },
+      { label: "Material de llanta", value: "Aluminio" },
+      { label: "Peso máximo soportado", value: "120 kg" },
+      { label: "Peso de la bicicleta", value: "17 kg" },
+      { label: "Edad mínima recomendada", value: "15 años" },
+      { label: "Es plegable", value: "No" },
+    ],
+    relatedProducts: ["MLA1727747416", "MLA47793497", "MLA26928305", "MLA25595804", "MLA1376856967"],
+    priceUpdated: "2026-08-06",
+    priceLastChecked: "2026-08-06",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-08-06",
+    description: "Hoko MTB Dama: la más elegida de esta comparativa de bicicletas rodado 26, con 205 reseñas reales y 4.7 estrellas. Cuadro de acero, 18 velocidades, suspensión delantera, pensada para mujer desde los 15 años.",
+    seoTitle: "Hoko MTB Dama: la bicicleta rodado 26 con más reseñas reales",
+    metaDescription: "Bicicleta Hoko MTB Dama rodado 26: 205 calificaciones reales, 4.7 estrellas, cuadro de acero y suspensión delantera. Precio real y contras honestas.",
+    verdict: "La Hoko MTB Dama es la bicicleta rodado 26 con mejor respaldo de reseñas verificadas de esta comparativa: 205 calificaciones con 4.7 estrellas. Cuadro de acero de 18\", 18 velocidades y suspensión delantera, pensada para mujeres desde los 15 años. La contra real: los cambios son de marca genérica, no un componente de nombre reconocido.",
+    pros: [
+      "La mayor base de reseñas verificadas de esta comparativa: 205 calificaciones",
+      "Suspensión delantera, un plus frente a las rígidas de esta guía",
+      "Soporta hasta 120 kg, el máximo declarado de esta comparativa junto con la Oxea",
+      "Envío incluido y llega con manual de armado",
+    ],
+    cons: [
+      "Los cambios son de marca genérica (\"Power o fast\"), no un componente reconocido como Shimano",
+      "Requiere ensamblado al recibirla",
+      "Frenos V-brakes, no a disco (menos frenada en mojado que un sistema a disco)",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Hoko MTB Dama es una bicicleta mountain bike rodado 26 con cuadro de acero, pensada específicamente para mujeres desde los 15 años, con suspensión delantera y 18 velocidades.
+
+## Lo bueno
+
+Tiene la base de reseñas más grande y mejor verificada de esta comparativa: 205 calificaciones reales con 4.7 estrellas, sin ninguna salvedad sobre origen de las reseñas. Una compradora real la describe como "fácil de armar" y quedó "super contenta". Soporta hasta 120 kg, empatada con la Oxea Shadane como el mayor soporte de peso de esta guía.
+
+## La contra real
+
+Los cambios de velocidad son de marca genérica ("Power o fast" según la ficha técnica), no un componente reconocido como Shimano. Los frenos son V-brakes, no a disco, así que la frenada en mojado es menos consistente que en modelos con freno a disco. Requiere armado al recibirla, aunque incluye el manual.
+
+## Para quién sí y para quién no
+
+Comprala si buscás la bicicleta rodado 26 para mujer con más respaldo real de compradores de esta comparativa, para uso de montaña liviana o urbano. Si preferís un cuadro más liviano y de aluminio con frenos a disco, la Oxea Shadane de esta guía cumple mejor esa función, a un precio más alto.`,
+    faq: [
+      { question: "¿La Hoko MTB Dama es para mujer?", answer: "Sí, la ficha técnica la declara específicamente para género mujer, con un tamaño de cuadro de 18\" pensado para esa contextura." },
+      { question: "¿Cuántas reseñas tiene?", answer: "205 calificaciones con 4.7 estrellas, la base de reseñas más grande y mejor verificada de esta comparativa de bicicletas rodado 26." },
+      { question: "¿Tiene suspensión?", answer: "Sí, suspensión delantera, según la ficha técnica de MercadoLibre." },
+      { question: "¿Cuánto peso soporta?", answer: "120 kg según la ficha técnica, empatada con la Oxea Shadane como el mayor soporte de peso de esta comparativa." },
+    ],
+  },
+  {
+    id: "MLA1727747416",
+    title: "Bicicleta Fire Bird Mtb Lady 18 Velocidades Rodado 26",
+    canonicalName: "Bicicleta Fire Bird Mtb Lady Rodado 26",
+    price: 279999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_616278-MLA108426021855_032026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_616278-MLA108426021855_032026-O.webp",
+    ],
+    category: "Movilidad",
+    categorySlug: "movilidad",
+    permalink: "https://articulo.mercadolibre.com.ar/MLA-1727747416-bicicleta-fire-bird-mtb-lady-18-velocidades-rodado-26-_JM",
+    affiliateUrl: "https://meli.la/18ytBKc",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 192,
+    pastelColor: "var(--pastel-pink)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Fire Bird" },
+      { label: "Rodado", value: "26" },
+      { label: "Tipo", value: "Mountain bike" },
+      { label: "Modelo", value: "Mtb Lady" },
+      { label: "Género", value: "Mujer" },
+      { label: "Tamaño de cuadro", value: "16\"" },
+      { label: "Material del cuadro", value: "Acero" },
+      { label: "Velocidades", value: "18" },
+      { label: "Frenos", value: "V-brakes" },
+      { label: "Material de llanta", value: "Aluminio" },
+      { label: "Manubrio", value: "Recto" },
+      { label: "Peso máximo soportado", value: "100 kg" },
+      { label: "Peso de la bicicleta", value: "15 kg" },
+      { label: "Es plegable", value: "No" },
+    ],
+    relatedProducts: ["MLA1173239137", "MLA47793497", "MLA26928305", "MLA25595804", "MLA1376856967"],
+    priceUpdated: "2026-08-06",
+    priceLastChecked: "2026-08-06",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-08-06",
+    description: "Fire Bird Mtb Lady: la segunda más barata de esta comparativa, con buen respaldo de reseñas (192, 4.7 estrellas). Cuadro de acero, 18 velocidades, pensada para mujer.",
+    seoTitle: "Fire Bird Mtb Lady: bicicleta rodado 26 para mujer con buen precio",
+    metaDescription: "Bicicleta Fire Bird Mtb Lady rodado 26: 192 calificaciones, 4.7 estrellas, cuadro de acero. Precio real, specs verificadas y contras honestas.",
+    verdict: "La Fire Bird Mtb Lady combina un precio bajo ($279.999, la segunda más barata de esta comparativa) con buen respaldo de reseñas: 192 calificaciones y 4.7 estrellas, vendida por una tienda oficial con más de 10 mil ventas. Cuadro de acero, 18 velocidades, pensada para mujer. La contra real: pedales de plástico y solo llantas de aluminio (el cuadro sigue siendo de acero, no aluminio).",
+    pros: [
+      "La segunda más barata de esta comparativa: $279.999",
+      "Buen respaldo de reseñas: 192 calificaciones con 4.7 estrellas",
+      "Vendida por tienda oficial con más de 10 mil ventas históricas",
+      "18 velocidades y cuadro de acero resistente",
+    ],
+    cons: [
+      "Pedales de plástico, no metal",
+      "Soporta hasta 100 kg, el menor de las bicicletas MTB de esta comparativa (salvo la Doble Suspensión, con 85 kg)",
+      "No tiene pie de apoyo declarado en la ficha técnica",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Fire Bird Mtb Lady es una bicicleta mountain bike rodado 26 de cuadro de acero, con 18 velocidades, pensada específicamente para mujeres.
+
+## Lo bueno
+
+Es la segunda más barata de esta comparativa a $279.999, con buen respaldo de reseñas: 192 calificaciones y 4.7 estrellas, vendida por la tienda oficial "A AERO BIKE" con más de 10 mil ventas históricas. Una compradora real la describe como "de excelente calidad para su precio", aunque aclara que algunas piezas son de plástico.
+
+## La contra real
+
+Los pedales son de plástico, no de metal. Soporta hasta 100 kg, menos que la Hoko o la Kelinbike de esta comparativa. Una reseña real elogia que "al ser de aluminio no pesa nada", pero la ficha técnica declara el cuadro de acero (solo las llantas son de aluminio) — lo aclaramos para no repetir esa confusión como dato propio.
+
+## Para quién sí y para quién no
+
+Comprala si buscás una MTB para mujer con buen precio y respaldo real de reseñas. Si necesitás mayor soporte de peso, la Hoko o la Kelinbike de esta comparativa soportan más (120 kg y 110 kg respectivamente).`,
+    faq: [
+      { question: "¿El cuadro de la Fire Bird Mtb Lady es de aluminio?", answer: "No, la ficha técnica declara el cuadro de acero. Solo las llantas son de aluminio — una reseña real la describe como \"de aluminio\" por error, pero no es lo que confirma la ficha técnica." },
+      { question: "¿Es la más barata de esta comparativa?", answer: "Es la segunda más barata, a $279.999. La Kelinbike Playera es más barata todavía." },
+      { question: "¿Cuánto peso soporta?", answer: "100 kg según la ficha técnica." },
+      { question: "¿Cuántas reseñas tiene?", answer: "192 calificaciones con 4.7 estrellas, vendida por una tienda oficial con más de 10 mil ventas históricas." },
+    ],
+  },
+  {
+    id: "MLA47793497",
+    title: "Bicicleta Mountain Bike Firebird Doble Suspension Rodado 26 Color Negro Tamaño Del Cuadro M",
+    canonicalName: "Bicicleta Fire Bird Doble Suspensión Rodado 26",
+    price: 307212,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_667811-MLA105175584384_012026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_667811-MLA105175584384_012026-O.webp",
+    ],
+    category: "Movilidad",
+    categorySlug: "movilidad",
+    permalink: "https://www.mercadolibre.com.ar/bicicleta-mountain-bike-firebird-doble-suspension-rodado-26-color-negro-tamano-del-cuadro-m/p/MLA47793497",
+    affiliateUrl: "https://meli.la/1ocEiDW",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.5,
+    reviewCount: 315,
+    pastelColor: "var(--pastel-blue)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Fire Bird" },
+      { label: "Rodado", value: "26" },
+      { label: "Tipo", value: "Mountain bike doble suspensión" },
+      { label: "Género", value: "Sin género (unisex)" },
+      { label: "Tamaño de cuadro", value: "M" },
+      { label: "Material del cuadro", value: "Acero" },
+      { label: "Velocidades", value: "18" },
+      { label: "Frenos", value: "V-brakes" },
+      { label: "Suspensión", value: "Delantera y trasera" },
+      { label: "Material de llanta", value: "Aluminio" },
+      { label: "Peso máximo soportado", value: "85 kg" },
+      { label: "Peso de la bicicleta", value: "14 kg" },
+      { label: "Edad mínima recomendada", value: "10 años" },
+      { label: "Es plegable", value: "No" },
+    ],
+    relatedProducts: ["MLA1173239137", "MLA1727747416", "MLA26928305", "MLA25595804", "MLA1376856967"],
+    priceUpdated: "2026-08-06",
+    priceLastChecked: "2026-08-06",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-08-06",
+    description: "Fire Bird Doble Suspensión: la más vendida en unidades de esta comparativa (más de 1.000 ventas según MercadoLibre), y la única con suspensión delantera y trasera. Rodado 26, unisex, cuadro de acero.",
+    seoTitle: "Fire Bird Doble Suspensión: la bicicleta rodado 26 más vendida",
+    metaDescription: "Bicicleta Fire Bird Doble Suspensión rodado 26: más de 1.000 ventas, suspensión delantera y trasera. Precio real y contras honestas antes de comprar.",
+    verdict: "La Fire Bird Doble Suspensión es la más vendida en unidades de esta comparativa (más de 1.000 ventas según la insignia de MercadoLibre) y la única con suspensión delantera y trasera, ideal para terreno más irregular. La contra real: soporta solo 85 kg, notablemente menos que el resto de esta guía (100-120 kg), y su calificación de 4.5 estrellas con 315 opiniones incluye reseñas de otros países del catálogo regional de MercadoLibre, no son 100% de compradores argentinos.",
+    pros: [
+      "La más vendida en unidades de esta comparativa: más de 1.000 ventas según MercadoLibre",
+      "Única con suspensión delantera y trasera de esta guía",
+      "Sin género declarado (unisex), sirve para toda la familia desde los 10 años",
+      "Precio intermedio dentro de esta comparativa",
+    ],
+    cons: [
+      "Soporta solo 85 kg, notablemente menos que el resto de las bicicletas de esta comparativa (100-120 kg)",
+      "Las 315 calificaciones incluyen reseñas de otros países del catálogo regional de MercadoLibre, no son exclusivamente de Argentina",
+      "Pedales de plástico",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Fire Bird Doble Suspensión es una bicicleta mountain bike rodado 26 sin género declarado (apta desde los 10 años), con suspensión delantera y trasera, ideal para terreno más irregular que las rígidas de esta comparativa.
+
+## Lo bueno
+
+Es la más vendida en unidades de toda la búsqueda: más de 1.000 ventas según la insignia de MercadoLibre. Es la única bicicleta de esta comparativa con doble suspensión (delantera y trasera), un plus real para terreno de montaña más exigente. Un comprador real la describe con "buena relación precio calidad", aunque recomienda llevarla a ajustar los cambios al recibirla.
+
+## La contra real
+
+Soporta solo 85 kg, un dato declarado que es notablemente más bajo que el resto de esta comparativa (100-120 kg) — no es un error de tipeo, es la especificación real del fabricante. Además, la calificación de 4.5 estrellas con 315 opiniones que muestra la página de catálogo aclara explícitamente que "incluye opiniones de otros países", así que no representa solo a compradores argentinos.
+
+## Para quién sí y para quién no
+
+Comprala si buscás la opción con más ventas comprobadas de esta comparativa y necesitás doble suspensión para terreno irregular, y tu peso (o el del usuario) está por debajo de los 85 kg. Si pesás más que eso, cualquiera de las otras 5 bicicletas de esta comparativa soporta más peso.`,
+    faq: [
+      { question: "¿Cuánto peso soporta la Fire Bird Doble Suspensión?", answer: "85 kg según la ficha técnica, notablemente menos que el resto de las bicicletas de esta comparativa (100 a 120 kg)." },
+      { question: "¿Es la bicicleta rodado 26 más vendida?", answer: "Según la insignia de ventas de MercadoLibre, sí: más de 1.000 unidades vendidas, la cifra más alta de esta comparativa." },
+      { question: "¿Las 315 reseñas son todas de Argentina?", answer: "No. La propia página de MercadoLibre aclara que esa calificación incluye opiniones de otros países del catálogo regional, no son exclusivamente de compradores argentinos." },
+      { question: "¿Tiene suspensión trasera?", answer: "Sí, es la única bicicleta de esta comparativa con suspensión delantera y trasera al mismo tiempo." },
+    ],
+  },
+  {
+    id: "MLA26928305",
+    title: "Bicicleta Playera Kelinbike V26PDF Rodado 26 Mujer Fucsia Hierro",
+    canonicalName: "Bicicleta Kelinbike Playera V26PDF Rodado 26",
+    price: 260022,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_775650-MLA112591865482_062026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_775650-MLA112591865482_062026-O.webp",
+    ],
+    category: "Movilidad",
+    categorySlug: "movilidad",
+    permalink: "https://www.mercadolibre.com.ar/bicicleta-playera-kelinbike-v26pdf-rodado-26-mujer-fucsia-hierro/p/MLA26928305",
+    affiliateUrl: "https://meli.la/1W9Pzgm",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.5,
+    reviewCount: 137,
+    pastelColor: "var(--pastel-amber)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Kelinbike" },
+      { label: "Modelo", value: "V26PDF" },
+      { label: "Rodado", value: "26" },
+      { label: "Tipo", value: "Playera (cruiser)" },
+      { label: "Género", value: "Mujer" },
+      { label: "Color", value: "Fucsia" },
+      { label: "Material del cuadro", value: "Hierro" },
+      { label: "Frenos", value: "V-brakes" },
+      { label: "Material de llanta", value: "Aluminio" },
+      { label: "Peso máximo soportado", value: "110 kg" },
+      { label: "Edad mínima recomendada", value: "14 años" },
+      { label: "Velocidades", value: "Sin cambios (un solo desarrollo)" },
+      { label: "Es plegable", value: "No" },
+    ],
+    relatedProducts: ["MLA1173239137", "MLA1727747416", "MLA47793497", "MLA25595804", "MLA1376856967"],
+    priceUpdated: "2026-08-06",
+    priceLastChecked: "2026-08-06",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-08-06",
+    description: "Kelinbike Playera V26PDF: la más barata de esta comparativa de bicicletas rodado 26, con 137 reseñas reales. Estilo playera/cruiser, un solo desarrollo, sin cambios de velocidad.",
+    seoTitle: "Kelinbike Playera: la bicicleta rodado 26 más barata",
+    metaDescription: "Bicicleta Kelinbike Playera V26PDF rodado 26: la más barata de la comparativa, 137 calificaciones. Precio real y contras honestas antes de comprar.",
+    verdict: "La Kelinbike Playera V26PDF es la más barata de esta comparativa a $260.022, con 137 calificaciones reales y 4.5 estrellas. Es un estilo playera/cruiser distinto a las mountain bike del resto de la guía: un solo desarrollo, sin cambios de velocidad, pensada para paseo urbano cómodo. La contra real: al no tener cambios, no sirve para subidas o terreno irregular.",
+    pros: [
+      "La más barata de esta comparativa: $260.022",
+      "137 calificaciones reales con 4.5 estrellas",
+      "Estilo playera/cruiser cómodo, asiento amplio",
+      "Soporta hasta 110 kg",
+    ],
+    cons: [
+      "Sin cambios de velocidad (un solo desarrollo): no sirve para subidas ni terreno irregular",
+      "Cuadro de hierro, más pesado que el acero o aluminio del resto de la comparativa",
+      "El vendedor menciona un \"stem de aluminio marca Logan\" en la descripción que no pudimos verificar de forma independiente contra la ficha técnica oficial",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Kelinbike Playera V26PDF es una bicicleta rodado 26 estilo playera/cruiser, de un solo desarrollo (sin cambios de velocidad), pensada para mujer desde los 14 años.
+
+## Lo bueno
+
+Es la más barata de esta comparativa, a $260.022, con 137 calificaciones reales y 4.5 estrellas. Una compradora real la describe como "muy buena, muy cómoda y segura". Soporta hasta 110 kg, un dato competitivo dentro de esta guía.
+
+## La contra real
+
+Al no tener cambios de velocidad, no es apta para subidas pronunciadas ni terreno irregular — está pensada exclusivamente para paseo urbano en plano. El cuadro es de hierro, más pesado que el acero o aluminio de las demás opciones de esta comparativa. El vendedor menciona en su descripción un "stem de aluminio marca Logan", un dato de marketing que no aparece en la ficha técnica oficial y que no pudimos confirmar de forma independiente.
+
+## Para quién sí y para quién no
+
+Comprala si buscás la opción más económica para paseo urbano en plano, sin necesidad de cambios de velocidad. Si necesitás subir pendientes o andar en terreno irregular, cualquiera de las MTB de esta comparativa (Hoko, Fire Bird, Oxea) cumple mejor esa función.`,
+    faq: [
+      { question: "¿Es la bicicleta rodado 26 más barata?", answer: "Sí, a $260.022 es la más barata de esta comparativa." },
+      { question: "¿Tiene cambios de velocidad?", answer: "No, según la ficha técnica es de un solo desarrollo, sin cambios. Está pensada para paseo urbano en plano, no para subidas ni terreno irregular." },
+      { question: "¿Cuánto peso soporta?", answer: "110 kg según la ficha técnica." },
+      { question: "¿De qué material es el cuadro?", answer: "Hierro, según la ficha técnica — más pesado que el acero o aluminio de las demás bicicletas de esta comparativa." },
+    ],
+  },
+  {
+    id: "MLA25595804",
+    title: "Olmo bicicleta vintage amelie rapide acero rod 26 6v",
+    canonicalName: "Bicicleta Olmo Amelie Rapide Rodado 26",
+    price: 409940,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_945374-MLA84483016523_052025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_945374-MLA84483016523_052025-O.webp",
+    ],
+    category: "Movilidad",
+    categorySlug: "movilidad",
+    permalink: "https://www.mercadolibre.com.ar/olmo-bicicleta-vintage-amelie-rapide-acero-rod-26-6v/p/MLA25595804",
+    affiliateUrl: "https://meli.la/1XSoY1X",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 18,
+    pastelColor: "var(--pastel-purple)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Olmo" },
+      { label: "Línea", value: "Amelie" },
+      { label: "Modelo", value: "Amelie rapide" },
+      { label: "Rodado", value: "26" },
+      { label: "Tipo", value: "Paseo / vintage" },
+      { label: "Género", value: "Mujer" },
+      { label: "Color", value: "Negro" },
+      { label: "Tamaño de cuadro", value: "18\"" },
+      { label: "Material del cuadro", value: "Acero" },
+      { label: "Velocidades", value: "6" },
+      { label: "Cambios traseros", value: "Shimano TZ500" },
+      { label: "Frenos", value: "V-brakes" },
+      { label: "Manubrio", value: "Cruiser" },
+      { label: "Edad mínima recomendada", value: "15 años" },
+      { label: "Es plegable", value: "No" },
+    ],
+    relatedProducts: ["MLA1173239137", "MLA1727747416", "MLA47793497", "MLA26928305", "MLA1376856967"],
+    priceUpdated: "2026-08-06",
+    priceLastChecked: "2026-08-06",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-08-06",
+    description: "Olmo Amelie Rapide: la opción de estilo vintage/paseo de esta comparativa de bicicletas rodado 26, con cambios traseros Shimano TZ500 confirmados. Solo 18 reseñas todavía.",
+    seoTitle: "Olmo Amelie Rapide: bicicleta rodado 26 vintage con Shimano",
+    metaDescription: "Bicicleta Olmo Amelie Rapide rodado 26: estilo vintage, cambios Shimano TZ500 confirmados, 6 velocidades. Precio real y contras honestas.",
+    verdict: "La Olmo Amelie Rapide es la única de esta comparativa con estilo vintage/paseo y con un componente de marca reconocida confirmado: cambios traseros Shimano TZ500. Vendida por la tienda oficial Gariotti, con más de 50 mil ventas históricas de la marca. La contra real: solo tiene 18 calificaciones todavía, la base de reseñas más chica de esta guía, y es de las más caras.",
+    pros: [
+      "Único modelo de esta comparativa con componente Shimano confirmado en la ficha técnica (cambios TZ500)",
+      "Estilo vintage/paseo distinto a las mountain bike del resto de la guía",
+      "Vendida por tienda oficial Olmo (Gariotti) con más de 50 mil ventas históricas de la marca",
+      "6 velocidades, suficiente para uso urbano con algo de desnivel",
+    ],
+    cons: [
+      "Solo 18 calificaciones todavía, la base de reseñas más chica de esta comparativa",
+      "Es de las más caras de esta guía: $409.940",
+      "La descripción genérica de la marca menciona \"cuadros de aluminio hidroformado\", pero la ficha técnica de este modelo específico declara cuadro de acero — aclaramos la diferencia para no repetir el dato genérico como propio de este modelo",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Olmo Amelie Rapide es una bicicleta rodado 26 de estilo vintage/paseo, con cuadro de acero, 6 velocidades y manubrio tipo cruiser, pensada para mujer desde los 15 años.
+
+## Lo bueno
+
+Es la única bicicleta de esta comparativa con un componente de marca reconocida confirmado en la ficha técnica: cambios traseros Shimano TZ500 (no un genérico "compatible Shimano"). Está vendida por la tienda oficial de Olmo (Gariotti), con más de 50 mil ventas históricas de la marca en MercadoLibre. Un comprador reciente la describe como de "buena calidad", aunque aclara que "vamos a ver cómo va con los años".
+
+## La contra real
+
+Solo tiene 18 calificaciones todavía, la base de reseñas más chica de esta comparativa — no hay suficiente volumen para confirmar su durabilidad a largo plazo. Es además una de las más caras de la guía. La descripción genérica de la marca Olmo menciona "cuadros de aluminio hidroformado" como característica general de sus líneas, pero la ficha técnica específica de ESTE modelo declara cuadro de acero, no aluminio — marcamos la diferencia para no repetir el dato genérico de marca como si fuera específico de este producto.
+
+## Para quién sí y para quién no
+
+Comprala si buscás un estilo vintage/paseo distinto a las mountain bike de esta comparativa, y valorás tener un componente de marca reconocida confirmado. Si priorizás el mayor respaldo posible de reseñas, la Hoko o la Fire Bird Mtb Lady de esta guía tienen mucho más volumen verificado.`,
+    faq: [
+      { question: "¿La Olmo Amelie Rapide tiene componentes Shimano?", answer: "Sí, los cambios traseros son Shimano TZ500 según la ficha técnica — un dato confirmado, no una promesa genérica de marketing." },
+      { question: "¿El cuadro es de aluminio?", answer: "No, la ficha técnica de este modelo específico declara cuadro de acero. La descripción general de la marca Olmo menciona cuadros de aluminio para otras líneas, pero no aplica a este modelo puntual." },
+      { question: "¿Cuántas reseñas tiene?", answer: "18 calificaciones con 4.8 estrellas, la base de reseñas más chica de esta comparativa de bicicletas rodado 26." },
+      { question: "¿Cuántas velocidades tiene?", answer: "6 velocidades, según la ficha técnica." },
+    ],
+  },
+  {
+    id: "MLA1376856967",
+    title: "Bicicleta Aluminio Oxea Shadane Rodado 26 - 21 Vel Shimano",
+    canonicalName: "Bicicleta Oxea Shadane Rodado 26",
+    price: 463600,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_738731-MLA91289480055_082025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_738731-MLA91289480055_082025-O.webp",
+    ],
+    category: "Movilidad",
+    categorySlug: "movilidad",
+    permalink: "https://articulo.mercadolibre.com.ar/MLA-1376856967-bicicleta-aluminio-oxea-shadane-rodado-26-21-vel-shimano-_JM",
+    affiliateUrl: "https://meli.la/2xv6pSZ",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.9,
+    reviewCount: 10,
+    pastelColor: "var(--pastel-coral)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Oxea" },
+      { label: "Modelo", value: "Shadane" },
+      { label: "Rodado", value: "26" },
+      { label: "Tipo", value: "Mountain bike" },
+      { label: "Género", value: "Sin género (unisex)" },
+      { label: "Tamaños disponibles", value: "XS / S / M" },
+      { label: "Material del cuadro", value: "Aluminio" },
+      { label: "Velocidades", value: "21" },
+      { label: "Cambios delanteros", value: "Shimano TX30" },
+      { label: "Cambios traseros", value: "Shimano Tourney" },
+      { label: "Frenos", value: "Disco mecánico" },
+      { label: "Suspensión", value: "Delantera" },
+      { label: "Peso máximo soportado", value: "120 kg" },
+      { label: "Peso de la bicicleta", value: "13 kg" },
+      { label: "Edad mínima recomendada", value: "9 años" },
+    ],
+    relatedProducts: ["MLA1173239137", "MLA1727747416", "MLA47793497", "MLA26928305", "MLA25595804"],
+    priceUpdated: "2026-08-06",
+    priceLastChecked: "2026-08-06",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-08-06",
+    description: "Oxea Shadane: la más cara y mejor equipada de esta comparativa de bicicletas rodado 26. Cuadro de aluminio, frenos a disco mecánico y cambios Shimano TX30/Tourney confirmados. Mejor rating (4.9), pero solo 10 calificaciones.",
+    seoTitle: "Oxea Shadane: la bicicleta rodado 26 con frenos a disco",
+    metaDescription: "Bicicleta Oxea Shadane rodado 26: cuadro de aluminio, frenos a disco mecánico, 21 velocidades Shimano. Precio real y contras honestas antes de comprar.",
+    verdict: "La Oxea Shadane es la más cara y mejor equipada de esta comparativa: cuadro de aluminio (no acero como el resto de la guía), frenos a disco mecánico y componentes Shimano TX30/Tourney confirmados en la ficha técnica. Tiene el mejor rating (4.9), pero con solo 10 calificaciones, así que ese número tiene poco respaldo estadístico todavía.",
+    pros: [
+      "Único cuadro de aluminio de esta comparativa (el resto es acero)",
+      "Único con frenos a disco mecánico, mejor frenada en mojado que V-brakes",
+      "Componentes Shimano confirmados en la ficha técnica: TX30 delantero, Tourney trasero",
+      "El mejor rating de esta comparativa: 4.9 estrellas",
+    ],
+    cons: [
+      "La más cara de esta comparativa: $463.600",
+      "Solo 10 calificaciones, la base de reseñas más chica junto con la Olmo — el 4.9 tiene poco respaldo estadístico",
+      "Un comprador real reporta que los cambios llegaron descalibrados de fábrica, aunque igual calificó 5/5",
+      "No incluye manual de armado según la ficha técnica",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Oxea Shadane es una bicicleta mountain bike rodado 26 sin género declarado, con cuadro de aluminio, 21 velocidades y frenos a disco mecánico, disponible en tamaños XS, S y M.
+
+## Lo bueno
+
+Es la única bicicleta de esta comparativa con cuadro de aluminio (más liviana que el acero del resto de la guía) y frenos a disco mecánico, con mejor frenada en mojado que los V-brakes de las demás opciones. Los cambios son Shimano confirmados en la ficha técnica: TX30 delantero y Tourney trasero. Tiene el mejor rating de toda la comparativa, 4.9 estrellas.
+
+## La contra real
+
+Solo tiene 10 calificaciones, la base de reseñas más chica junto con la Olmo — con ese volumen, el 4.9 tiene poco respaldo estadístico todavía. Un comprador real la calificó 5/5 pero avisó que "los cambios están muy descalibrados" al recibirla, algo a tener en cuenta para el primer ajuste. Es además la más cara de esta comparativa.
+
+## Para quién sí y para quién no
+
+Comprala si priorizás cuadro de aluminio y frenos a disco por sobre el precio, y no te molesta que el respaldo de reseñas todavía sea chico. Si preferís una opción con mucho más volumen de reseñas verificadas, la Hoko o la Fire Bird Mtb Lady de esta comparativa tienen 10 veces más calificaciones.`,
+    faq: [
+      { question: "¿La Oxea Shadane tiene frenos a disco?", answer: "Sí, a disco mecánico — la única de esta comparativa de bicicletas rodado 26 con ese tipo de freno; el resto usa V-brakes." },
+      { question: "¿De qué material es el cuadro?", answer: "Aluminio, según la ficha técnica — la única bicicleta de esta comparativa que no es de acero." },
+      { question: "¿Tiene componentes Shimano?", answer: "Sí, cambios delanteros Shimano TX30 y traseros Shimano Tourney, confirmados en la ficha técnica." },
+      { question: "¿Por qué tiene tan pocas reseñas si tiene el mejor rating?", answer: "Solo 10 calificaciones todavía, así que aunque el promedio (4.9) es el más alto de esta comparativa, tiene menos respaldo estadístico que modelos con 100+ reseñas como la Hoko o la Fire Bird Mtb Lady." },
+    ],
+  },
+  // Guía nueva bicicleta-electrica
+  {
+    id: "MLA59609902",
+    title: "Bicicleta Electrica Valentini Plegable 20 32km/h 350w !! Negro",
+    canonicalName: "Bicicleta Eléctrica Valentini Plegable 20",
+    price: 1399000,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_785429-MLA114553770427_072026-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_2X_785429-MLA114553770427_072026-F.webp",
+    ],
+    category: "Movilidad",
+    categorySlug: "movilidad",
+    permalink: "https://www.mercadolibre.com.ar/bicicleta-electrica-valentini-plegable-20-32kmh-350w-negro/p/MLA59609902",
+    affiliateUrl: "https://meli.la/2juqpw9",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 33,
+    pastelColor: "var(--pastel-pink)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Valentini Bikes" },
+      { label: "Modelo", value: "20" },
+      { label: "Rodado", value: "20" },
+      { label: "Potencia del motor", value: "350 W" },
+      { label: "Velocidad máxima", value: "32 km/h" },
+      { label: "Batería", value: "Litio 36V, 10 Ah" },
+      { label: "Batería removible", value: "Sí" },
+      { label: "Peso máximo soportado", value: "150 kg" },
+      { label: "Peso de la bicicleta", value: "24 kg" },
+      { label: "Es plegable", value: "Sí" },
+    ],
+    relatedProducts: ["MLA47150419", "MLA63590384", "MLAU3143206258", "MLA26955875", "MLA53621331"],
+    priceUpdated: "2026-08-06",
+    priceLastChecked: "2026-08-06",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-08-06",
+    description: "Valentini Plegable 20: la más barata de esta comparativa de bicicletas eléctricas, con stock inmediato en Argentina. Plegable, motor de 350 W y batería removible.",
+    seoTitle: "Valentini Plegable 20: la bicicleta eléctrica más barata",
+    metaDescription: "Bicicleta eléctrica Valentini Plegable 20: la más barata de la comparativa, motor 350W, plegable, batería removible. Precio real y contras honestas.",
+    verdict: "La Valentini Plegable 20 es la más barata de esta comparativa de bicicletas eléctricas, con stock inmediato en Argentina (no es importación con demora) y motor de 350 W. La contra real: la ficha técnica de MercadoLibre declara la autonomía en \"45 h\" (horas), un dato con error de unidad que no pudimos confirmar en kilómetros reales.",
+    pros: [
+      "La más barata de esta comparativa: $1.399.000",
+      "Plegable, con batería de litio removible",
+      "Stock inmediato en Argentina (envío en 1-2 días, no importación)",
+      "Vendida por tienda con más de 1.000 ventas y categoría MercadoLíder Gold",
+    ],
+    cons: [
+      "La ficha técnica declara la autonomía en \"45 h\" (horas), un error de unidad que no pudimos traducir a kilómetros reales con certeza",
+      "Motor de 350 W, menos potente que la MOOY M7 (500 W) o la HONEYWHALE (900 W) de esta comparativa",
+      "Solo 33 calificaciones todavía",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Valentini Plegable 20 es una bicicleta eléctrica plegable rodado 20, con motor de 350 W y batería de litio removible, pensada para uso urbano diario.
+
+## Lo bueno
+
+Es la más barata de esta comparativa, a $1.399.000, con stock inmediato en Argentina (no es una importación con semanas de demora). Está vendida por "Import Racer", con más de 1.000 ventas y categoría MercadoLíder Gold. Una compradora real la describe: "la batería tiene muy buena autonomía, el motor responde perfecto y es súper cómoda para usar todos los días".
+
+## La contra real
+
+La ficha técnica de MercadoLibre declara la autonomía como "45 h" (horas), un dato con un error de unidad evidente (debería ser kilómetros) que no pudimos traducir a una cifra confiable. Ninguna reseña visible menciona la distancia real recorrida, así que lo dejamos como dato no confirmado en vez de inventar una cifra en kilómetros.
+
+## Para quién sí y para quién no
+
+Comprala si buscás la opción más económica de esta comparativa con stock inmediato y formato plegable. Si necesitás un dato de autonomía real y verificable antes de comprar, la Rango Worker Plus o la HONEYWHALE de esta guía declaran su autonomía en kilómetros de forma más clara.`,
+    faq: [
+      { question: "¿Es la bicicleta eléctrica más barata de esta comparativa?", answer: "Sí, a $1.399.000 es la más barata de esta guía de bicicletas eléctricas." },
+      { question: "¿Cuál es la autonomía real de la Valentini Plegable 20?", answer: "La ficha técnica de MercadoLibre la declara como \"45 h\" (horas), un dato con error de unidad que no pudimos confirmar en kilómetros. No hay reseñas que reporten la distancia real recorrida." },
+      { question: "¿Tiene stock inmediato en Argentina?", answer: "Sí, según la publicación se envía en 1-2 días desde Argentina, no es una importación con demora." },
+      { question: "¿Es plegable?", answer: "Sí, según la ficha técnica, con batería de litio removible." },
+    ],
+  },
+  {
+    id: "MLA47150419",
+    title: "Bicicleta Eléctrica Plegable Autono50km Rango Worker Plus Color Verde",
+    canonicalName: "Bicicleta Eléctrica Rango Worker Plus",
+    price: 1580000,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_600440-MLA99928920461_112025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_600440-MLA99928920461_112025-O.webp",
+    ],
+    category: "Movilidad",
+    categorySlug: "movilidad",
+    permalink: "https://www.mercadolibre.com.ar/bicicleta-electrica-plegable-autono50km-rango-worker-plus-color-verde/p/MLA47150419",
+    affiliateUrl: "https://meli.la/1kHhjpZ",
+    condition: "new",
+    freeShipping: true,
+    rating: 5.0,
+    reviewCount: 10,
+    pastelColor: "var(--pastel-blue)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Rango" },
+      { label: "Modelo", value: "Worker Plus" },
+      { label: "Batería", value: "Litio 36V, 10,4 Ah" },
+      { label: "Velocidad máxima", value: "32 km/h" },
+      { label: "Autonomía declarada por el vendedor", value: "50 km" },
+      { label: "Es plegable", value: "Sí, en 3 pasos" },
+      { label: "Sistema", value: "EPAC (asistencia al pedaleo) + acelerador impermeable" },
+      { label: "Neumáticos", value: "Rueda ancha (fat tire)" },
+    ],
+    relatedProducts: ["MLA59609902", "MLA63590384", "MLAU3143206258", "MLA26955875", "MLA53621331"],
+    priceUpdated: "2026-08-06",
+    priceLastChecked: "2026-08-06",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-08-06",
+    description: "Rango Worker Plus: el mejor rating de esta comparativa de bicicletas eléctricas (5.0), plegable en 3 pasos, con acelerador impermeable. Pensada por el vendedor para uso de trabajo/delivery.",
+    seoTitle: "Rango Worker Plus: bicicleta eléctrica plegable para trabajo",
+    metaDescription: "Bicicleta eléctrica Rango Worker Plus: 5.0 estrellas, plegable, acelerador impermeable, 50km de autonomía declarada. Precio real y contras honestas.",
+    verdict: "La Rango Worker Plus tiene el mejor rating de esta comparativa (5.0 estrellas), aunque con solo 10 calificaciones. Es plegable en 3 pasos, con sistema EPAC de asistencia al pedaleo más acelerador impermeable, y el vendedor la posiciona explícitamente para trabajo/delivery. La contra real: los 50 km de autonomía son una cifra del vendedor que ninguna reseña visible confirma de forma independiente.",
+    pros: [
+      "El mejor rating de esta comparativa: 5.0 estrellas",
+      "Plegable en 3 pasos, con acelerador impermeable además de la asistencia al pedaleo",
+      "Vendida por tienda oficial Rango con más de 1.000 ventas",
+      "Stock confirmado en vivo al momento de la verificación",
+    ],
+    cons: [
+      "Solo 10 calificaciones, volumen bajo para un 5.0 estrellas",
+      "Los 50 km de autonomía son una cifra del vendedor, ninguna reseña visible la confirma de forma independiente",
+      "No declara la potencia del motor en watts en la ficha técnica",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Rango Worker Plus es una bicicleta eléctrica plegable con sistema EPAC (asistencia al pedaleo) más acelerador impermeable, que el vendedor posiciona explícitamente para uso de trabajo o delivery.
+
+## Lo bueno
+
+Tiene el mejor rating de esta comparativa, 5.0 estrellas, vendida por la tienda oficial Rango con más de 1.000 ventas y stock confirmado en vivo. Una compradora real la describe: "se lleva todas las miradas por su practicidad, comodidad y calidad". Es plegable en 3 pasos y combina pedaleo asistido con acelerador impermeable, útil para uso diario en cualquier clima.
+
+## La contra real
+
+Los 50 km de autonomía que declara la publicación son una cifra del vendedor: ninguna reseña visible del producto confirma esa distancia de forma independiente con un recorrido real. Tampoco declara la potencia del motor en watts en la ficha técnica, un dato que sí aparece en la mayoría de las demás bicicletas de esta comparativa. Solo 10 calificaciones todavía, así que el 5.0 estrellas tiene poco respaldo estadístico.
+
+## Para quién sí y para quién no
+
+Comprala si buscás una bicicleta eléctrica plegable pensada para uso de trabajo diario, con acelerador además del pedaleo asistido. Si preferís un dato de potencia de motor claramente declarado, la Enova, la Kroner o la MOOY M7 de esta comparativa lo especifican en watts.`,
+    faq: [
+      { question: "¿Cuál es la autonomía real de la Rango Worker Plus?", answer: "El vendedor declara 50 km, pero ninguna reseña visible del producto confirma esa distancia de forma independiente con un recorrido real reportado." },
+      { question: "¿Es plegable?", answer: "Sí, se pliega en 3 pasos según la publicación." },
+      { question: "¿Tiene acelerador o solo pedaleo asistido?", answer: "Tiene las dos cosas: sistema EPAC de asistencia al pedaleo más un acelerador impermeable independiente." },
+      { question: "¿Para qué uso está pensada?", answer: "El vendedor la posiciona explícitamente para trabajo y delivery en su descripción, aunque sirve igual para uso urbano personal." },
+    ],
+  },
+  {
+    id: "MLA63590384",
+    title: "Bicicleta Eléctrica R29 350w Shimano 8 Velocidades Kroner Verde Lima",
+    canonicalName: "Bicicleta Eléctrica Kroner R29",
+    price: 1811889,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_786383-MLA110341892464_052026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_786383-MLA110341892464_052026-O.webp",
+    ],
+    category: "Movilidad",
+    categorySlug: "movilidad",
+    permalink: "https://www.mercadolibre.com.ar/bicicleta-electrica-r29-350w-shimano-8-velocidades-kroner-verde-lima/p/MLA63590384",
+    affiliateUrl: "https://meli.la/2fX9i2T",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.5,
+    reviewCount: 71,
+    pastelColor: "var(--pastel-green)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Kroner" },
+      { label: "Modelo", value: "KR-E29" },
+      { label: "Rodado", value: "29" },
+      { label: "Potencia del motor", value: "350 W" },
+      { label: "Voltaje", value: "36 V" },
+      { label: "Batería", value: "Litio, 10 Ah, removible" },
+      { label: "Velocidades", value: "8, componentes Shimano" },
+      { label: "Peso máximo soportado", value: "150 kg" },
+      { label: "Peso de la bicicleta", value: "30 kg" },
+      { label: "Es plegable", value: "No" },
+    ],
+    relatedProducts: ["MLA59609902", "MLA47150419", "MLAU3143206258", "MLA26955875", "MLA53621331"],
+    priceUpdated: "2026-08-06",
+    priceLastChecked: "2026-08-06",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-08-06",
+    description: "Kroner R29: la única mountain bike rígida rodado 29 de esta comparativa de bicicletas eléctricas, con componentes Shimano y batería removible. Insignia de \"3° más vendida en Bicicletas Eléctricas\" de MercadoLibre.",
+    seoTitle: "Kroner R29: bicicleta eléctrica mountain bike rodado 29",
+    metaDescription: "Bicicleta eléctrica Kroner R29: rodado 29, motor 350W, 8 velocidades Shimano, batería removible. Precio real y contras honestas antes de comprar.",
+    verdict: "La Kroner R29 es la única mountain bike rígida rodado 29 (rueda grande) de esta comparativa de bicicletas eléctricas, con 8 velocidades de componentes Shimano y batería removible. MercadoLibre la marca como \"3° más vendida\" en la categoría. La contra real: pesa 30 kg, la más pesada de esta guía, y su autonomía declarada (40-45 km) viene de una infografía de marketing del vendedor, no de la ficha técnica estructurada.",
+    pros: [
+      "Única mountain bike rígida rodado 29 (rueda grande) de esta comparativa",
+      "8 velocidades con componentes Shimano confirmados",
+      "Insignia de MercadoLibre: \"3° más vendida en Bicicletas Eléctricas\"",
+      "Batería removible, más fácil de cargar sin mover toda la bicicleta",
+    ],
+    cons: [
+      "Pesa 30 kg, la más pesada de esta comparativa",
+      "La autonomía de 40-45 km declarada viene de una infografía de marketing del vendedor, no de un campo estructurado de la ficha técnica",
+      "Un comprador real reporta que la horquilla podría mejorar con suspensión y bloqueo",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Kroner R29 es una bicicleta eléctrica mountain bike rígida, rodado 29 (rueda grande), con motor de 350 W, 8 velocidades de componentes Shimano y batería removible.
+
+## Lo bueno
+
+Es la única bicicleta de esta comparativa con rodado 29, el tamaño de rueda más grande, con componentes Shimano confirmados en la ficha técnica. MercadoLibre la marca con la insignia "3° más vendida en Bicicletas Eléctricas" de la categoría. Un comprador real la describe con "muy buena relación precio/calidad", destacando que la asistencia al pedaleo "se activa al pedalear constante desde los 17-18 km/h" y que llegó a hacer casi 45 km en una carga con un uso moderado.
+
+## La contra real
+
+Pesa 30 kg, la más pesada de esta comparativa (el resto va de 13 a 24 kg). La autonomía de 40-45 km que promociona el vendedor aparece en material gráfico/infografía, no como un campo estructurado de la ficha técnica de MercadoLibre — la tratamos como estimación del vendedor, no como dato verificado de forma independiente. El mismo comprador que la recomienda avisa que la horquilla delantera podría mejorar con una versión con bloqueo.
+
+## Para quién sí y para quién no
+
+Comprala si buscás específicamente el formato rodado 29 (rueda grande) con componentes Shimano confirmados, y no te molesta el peso mayor a la hora de subirla a un vehículo o cargarla por escaleras. Si preferís algo más liviano, la Valentini o la Rango de esta comparativa pesan bastante menos.`,
+    faq: [
+      { question: "¿La Kroner R29 tiene rodado 29?", answer: "Sí, es la única bicicleta eléctrica de esta comparativa con rodado 29 (rueda grande de mountain bike), el resto son rodado 20 o 26." },
+      { question: "¿Cuánto pesa?", answer: "30 kg según la ficha técnica, la más pesada de esta comparativa." },
+      { question: "¿Cuál es la autonomía real?", answer: "El vendedor promociona 40-45 km en material gráfico, pero no es un dato estructurado de la ficha técnica de MercadoLibre. Un comprador real reportó casi 45 km en una carga con uso moderado, lo que es consistente con la cifra del vendedor." },
+      { question: "¿Tiene componentes Shimano?", answer: "Sí, las 8 velocidades son de componentes Shimano según la ficha técnica." },
+    ],
+  },
+  {
+    id: "MLAU3143206258",
+    title: "Bicicleta Eléctrica M7 40km/h",
+    canonicalName: "Bicicleta Eléctrica MOOY M7",
+    price: 1950399,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_673384-MLA110796604648_052026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_673384-MLA110796604648_052026-O.webp",
+    ],
+    category: "Movilidad",
+    categorySlug: "movilidad",
+    permalink: "https://www.mercadolibre.com.ar/bicicleta-electrica--m7-40kmh/up/MLAU3143206258",
+    affiliateUrl: "https://meli.la/1EZKD7k",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.9,
+    reviewCount: 12,
+    pastelColor: "var(--pastel-amber)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "MOOY" },
+      { label: "Modelo", value: "M7" },
+      { label: "Rodado", value: "20, formato fat-tire/chopper" },
+      { label: "Potencia del motor", value: "500 W" },
+      { label: "Voltaje de batería", value: "48 V" },
+      { label: "Capacidad de batería", value: "15 Ah (720 Wh)" },
+      { label: "Batería removible", value: "Sí" },
+      { label: "Velocidad máxima", value: "40 km/h" },
+      { label: "Peso máximo soportado", value: "120 kg" },
+      { label: "Es plegable", value: "No" },
+      { label: "Requiere ensamblado", value: "Sí" },
+    ],
+    relatedProducts: ["MLA59609902", "MLA47150419", "MLA63590384", "MLA26955875", "MLA53621331"],
+    priceUpdated: "2026-08-06",
+    priceLastChecked: "2026-08-06",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-08-06",
+    description: "MOOY M7: la segunda mayor potencia de motor de esta comparativa de bicicletas eléctricas (500 W, detrás de la HONEYWHALE), formato fat-tire/chopper único de esta guía. Velocidad máxima de 40 km/h confirmada por una reseña real.",
+    seoTitle: "MOOY M7: bicicleta eléctrica de 500W formato chopper",
+    metaDescription: "Bicicleta eléctrica MOOY M7: motor 500W, batería 48V 15Ah, velocidad máxima 40km/h confirmada. Precio real y contras honestas antes de comprar.",
+    verdict: "La MOOY M7 tiene la segunda mayor potencia de motor de esta comparativa, detrás de la HONEYWHALE: 500 W con batería de 48V/15Ah (720 Wh). Un comprador real confirmó que alcanza los 40 km/h reales. Formato fat-tire/chopper, único de esta guía. La contra real: el vendedor no declara la autonomía en kilómetros en ningún lugar de la ficha.",
+    pros: [
+      "Segunda mayor potencia de motor de esta comparativa, detrás de la HONEYWHALE: 500 W",
+      "Velocidad máxima de 40 km/h confirmada por una reseña real, no solo por el vendedor",
+      "Batería de mayor capacidad energética de esta guía: 48V/15Ah (720 Wh)",
+      "Formato fat-tire/chopper, variedad visual y de uso frente al resto de la comparativa",
+    ],
+    cons: [
+      "El vendedor no declara la autonomía en kilómetros en ningún lugar de la ficha técnica",
+      "Requiere ensamblado al recibirla",
+      "No es plegable, ocupa más espacio para guardar que las opciones plegables de esta comparativa",
+    ],
+    articleBody: `## Qué es y para quién
+
+La MOOY M7 es una bicicleta eléctrica de formato fat-tire/chopper (rueda ancha, estética distinta a una bici tradicional), con motor de 500 W y batería de 48V/15Ah.
+
+## Lo bueno
+
+Tiene la segunda mayor potencia de motor de esta comparativa, detrás de la HONEYWHALE (900 W): 500 W, con la batería de mayor capacidad energética del grupo (720 Wh). Un comprador real confirma que "la velocidad máxima alcanzada es de 40 km/h reales" y que "prácticamente no hace ruido y se puede usar sin necesidad de pedalear".
+
+## La contra real
+
+El vendedor no declara la autonomía en kilómetros en ningún lugar de la ficha técnica — con esa capacidad de batería sería razonable esperar un buen rango, pero no hay un número oficial que confirmar, así que no inventamos una cifra. Requiere ensamblado al recibirla (viene en caja, según la misma reseña que confirma la velocidad) y no es plegable.
+
+## Para quién sí y para quién no
+
+Comprala si priorizás potencia de motor y un formato visual distinto (fat-tire/chopper) por sobre un dato de autonomía declarado. Si necesitás saber la autonomía exacta antes de comprar, la Rango Worker Plus o la HONEYWHALE de esta comparativa sí declaran una cifra en kilómetros (aunque también con matices que aclaramos en sus propias fichas).`,
+    faq: [
+      { question: "¿Cuál es la velocidad máxima real de la MOOY M7?", answer: "40 km/h según el vendedor, y un comprador real confirmó en su reseña que alcanzó esa velocidad de forma efectiva." },
+      { question: "¿Cuál es la autonomía de la MOOY M7?", answer: "El vendedor no la declara en kilómetros en ningún lugar de la ficha técnica. No inventamos una cifra: es un dato faltante, no confirmado." },
+      { question: "¿Qué potencia tiene el motor?", answer: "500 W, la segunda mayor potencia de esta comparativa de bicicletas eléctricas, detrás de la HONEYWHALE (900 W)." },
+      { question: "¿Viene armada?", answer: "No, según una reseña real llega en caja y requiere ensamblar algunas partes, aunque el proceso se describe como \"nada complicado\"." },
+    ],
+  },
+  {
+    id: "MLA26955875",
+    title: "Bicicleta Eléctrica Asistida Enova 350v Shimano Epac Rod 26",
+    canonicalName: "Bicicleta Eléctrica Enova Asistida Rodado 26",
+    price: 1999999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_807303-MLA95395791512_102025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_807303-MLA95395791512_102025-O.webp",
+    ],
+    category: "Movilidad",
+    categorySlug: "movilidad",
+    permalink: "https://www.mercadolibre.com.ar/bicicleta-electrica-asistida-enova-350v-shimano-epac-rod-26/p/MLA26955875",
+    affiliateUrl: "https://meli.la/2uLRQuD",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.6,
+    reviewCount: 139,
+    pastelColor: "var(--pastel-purple)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Enova" },
+      { label: "Modelo", value: "ENV-ECP2-DK" },
+      { label: "Rodado", value: "26" },
+      { label: "Potencia del motor", value: "250 W" },
+      { label: "Velocidad máxima", value: "25 km/h" },
+      { label: "Batería", value: "Litio, 36V" },
+      { label: "Peso máximo soportado", value: "100 kg" },
+      { label: "Peso de la bicicleta", value: "23 kg" },
+      { label: "Con luces", value: "Sí" },
+      { label: "Es plegable", value: "No" },
+    ],
+    relatedProducts: ["MLA59609902", "MLA47150419", "MLA63590384", "MLAU3143206258", "MLA53621331"],
+    priceUpdated: "2026-08-06",
+    priceLastChecked: "2026-08-06",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-08-06",
+    description: "Enova Asistida: la más elegida de esta comparativa de bicicletas eléctricas, con 139 reseñas reales verificadas en Argentina, sin salvedades regionales. Sistema EPAC de asistencia al pedaleo, componentes Shimano.",
+    seoTitle: "Enova Asistida: la bicicleta eléctrica con más reseñas reales",
+    metaDescription: "Bicicleta eléctrica Enova Asistida rodado 26: 139 calificaciones verificadas en Argentina, sistema EPAC, componentes Shimano. Precio real y contras honestas.",
+    verdict: "La Enova Asistida es la más elegida de esta comparativa: 139 calificaciones reales de compradores en Argentina, sin la salvedad de reseñas de otros países que sí tienen otras opciones de esta guía. Sistema EPAC de asistencia al pedaleo con componentes Shimano, vendida por una tienda oficial con más de 100 mil ventas históricas. La contra real: la ficha técnica declara la capacidad de batería en \"10,4 mAh\", un dato con error de unidad que no pudimos confirmar.",
+    pros: [
+      "La mayor base de reseñas verificadas en Argentina de esta comparativa: 139 calificaciones, sin salvedad regional",
+      "Vendida por tienda oficial con más de 100 mil ventas históricas",
+      "Componentes Shimano confirmados (sistema EPAC de asistencia al pedaleo)",
+      "Trae luces incorporadas",
+    ],
+    cons: [
+      "La ficha técnica declara la batería en \"10,4 mAh\", un error de unidad (debería ser Ah) que no pudimos confirmar",
+      "La menor velocidad máxima declarada de esta comparativa: 25 km/h",
+      "No declara autonomía en km en la ficha técnica; el dato de ~40 km surge de una reseña de usuario, no del vendedor",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Enova Asistida es una bicicleta eléctrica rodado 26 con sistema EPAC (pedaleo asistido) y componentes Shimano, con motor de 250 W.
+
+## Lo bueno
+
+Es la más elegida de esta comparativa: 139 calificaciones reales de compradores en Argentina, con 4.6 estrellas, sin la salvedad de reseñas de otros países que sí tienen otras bicicletas de esta guía. Está vendida por la tienda oficial PCREGISTRADA, con más de 100 mil ventas históricas. Un comprador real con una hernia de disco la describe como "espectacular" para andar "sin poder hacer mucho esfuerzo al pedalear", y otro reporta hacer 40 km de recorrido (20 de bajada y 20 de subida) cuidando la batería.
+
+## La contra real
+
+La ficha técnica de MercadoLibre declara la capacidad de la batería como "10,4 mAh", una cifra físicamente implausible que casi seguro debería ser Ah (amperios-hora, no miliamperios-hora) — el error se repite tanto en la ficha como en la descripción del vendedor, así que no es un error aislado de carga de datos. No hay un campo de autonomía en kilómetros en la ficha técnica; el dato de ~40 km que citamos surge de una reseña real de un comprador, no de una declaración oficial del vendedor.
+
+## Para quién sí y para quién no
+
+Comprala si priorizás el mayor respaldo real de reseñas verificadas en Argentina de esta comparativa. Si necesitás más velocidad máxima, la MOOY M7 o la HONEYWHALE de esta guía declaran velocidades bastante más altas (40 y 45 km/h respectivamente).`,
+    faq: [
+      { question: "¿Es la bicicleta eléctrica más elegida de esta comparativa?", answer: "Sí, tiene la mayor base de reseñas verificadas específicamente en Argentina (139 calificaciones), sin la salvedad de reseñas regionales de otros países que sí aparece en otra opción de esta guía." },
+      { question: "¿Cuál es la capacidad real de la batería?", answer: "La ficha técnica de MercadoLibre declara \"10,4 mAh\", un dato con error de unidad (debería ser Ah) que no pudimos confirmar de forma independiente." },
+      { question: "¿Cuál es la autonomía real?", answer: "El vendedor no la declara en la ficha técnica. Un comprador real reportó un recorrido de unos 40 km cuidando la batería, pero no es un dato oficial confirmado." },
+      { question: "¿Qué velocidad máxima alcanza?", answer: "25 km/h según la ficha técnica, la velocidad máxima declarada más baja de esta comparativa." },
+    ],
+  },
+  {
+    id: "MLA53621331",
+    title: "Bicicleta Eléctrica HONEYWHALE F6 Pro-S, 50 km de autonomía, 45 km/h, Motor 900W, Batería extraíble, 20\" Neumáticos inflables, Suspensión delantera, Frenos a disco delantero y trasero, Negro",
+    canonicalName: "Bicicleta Eléctrica HONEYWHALE F6 Pro-S",
+    price: 2099000,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_959391-MLA115113002049_072026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_959391-MLA115113002049_072026-O.webp",
+    ],
+    category: "Movilidad",
+    categorySlug: "movilidad",
+    permalink: "https://www.mercadolibre.com.ar/bicicleta-electrica-honeywhale-f6-pro-s-50-km-de-autonomia-45-kmh-motor-900-w-bateria-extraible-20-neumaticos-inflables-suspension-delantera-frenos-a-disco-delantero-y-trasero-negro/p/MLA53621331",
+    affiliateUrl: "https://meli.la/1BU3x92",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 196,
+    pastelColor: "var(--pastel-coral)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "HONEYWHALE" },
+      { label: "Modelo", value: "F6 Pro-S" },
+      { label: "Rodado", value: "20" },
+      { label: "Potencia del motor", value: "900 W" },
+      { label: "Velocidad máxima", value: "45 km/h" },
+      { label: "Torque", value: "70 N.m" },
+      { label: "Capacidad de subir pendientes", value: "15°" },
+      { label: "Batería", value: "Litio, 48V, 10,4 Ah (≈500 Wh)" },
+      { label: "Autonomía declarada por el vendedor", value: "50 km" },
+      { label: "Peso máximo soportado", value: "120 kg" },
+      { label: "Es plegable", value: "Sí" },
+      { label: "Frenos", value: "A disco, delantero y trasero" },
+    ],
+    relatedProducts: ["MLA59609902", "MLA47150419", "MLA63590384", "MLAU3143206258", "MLA26955875"],
+    priceUpdated: "2026-08-06",
+    priceLastChecked: "2026-08-06",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-08-06",
+    description: "HONEYWHALE F6 Pro-S: la más cara y la de mayor potencia (900W) y velocidad máxima declarada (45km/h) de esta comparativa de bicicletas eléctricas. Sus 196 reseñas incluyen compradores de otros países, no son 100% de Argentina.",
+    seoTitle: "HONEYWHALE F6 Pro-S: la bicicleta eléctrica más potente",
+    metaDescription: "Bicicleta eléctrica HONEYWHALE F6 Pro-S: motor 900W, 45km/h, frenos a disco, plegable. Precio real y contras honestas antes de comprar.",
+    verdict: "La HONEYWHALE F6 Pro-S es la más cara de esta comparativa, y también la de mayor potencia (900 W) y velocidad máxima declarada (45 km/h), con frenos a disco delantero y trasero. La contra real: sus 196 calificaciones y 4.8 estrellas incluyen reseñas de otros países del catálogo regional (la propia ficha lo aclara), y el proxy de ventas específico de Argentina es \"+50 ventas\" de la tienda oficial, no las 196 reseñas.",
+    pros: [
+      "Mayor potencia de motor de esta comparativa: 900 W, con 70 N.m de torque",
+      "Mayor velocidad máxima declarada de esta comparativa: 45 km/h",
+      "Frenos a disco delantero y trasero, la única con freno a disco en ambas ruedas de esta guía",
+      "Plegable, con suspensión delantera y batería extraíble",
+    ],
+    cons: [
+      "La más cara de esta comparativa: $2.099.000",
+      "Sus 196 calificaciones y 4.8 estrellas incluyen reseñas de otros países del catálogo regional de MercadoLibre, la propia ficha lo aclara explícitamente",
+      "Los 50 km de autonomía a máxima potencia (900W/45km/h) con una batería de ~500 Wh son una cifra optimista del vendedor, no confirmada de forma independiente para uso real en Argentina",
+    ],
+    articleBody: `## Qué es y para quién
+
+La HONEYWHALE F6 Pro-S es una bicicleta eléctrica plegable rodado 20, con motor de 900 W, frenos a disco delantero y trasero y suspensión delantera, pensada para quienes priorizan potencia y velocidad por sobre el precio.
+
+## Lo bueno
+
+Tiene la mayor potencia de motor (900 W, con 70 N.m de torque) y la mayor velocidad máxima declarada (45 km/h) de toda esta comparativa. Es la única con frenos a disco en ambas ruedas. Un comprador real la describe: "es muy robusta. Es imposible pasar desapercibido con ella. Motor con una potencia que incluso hace que el uso diario sea perfecto".
+
+## La contra real
+
+Sus 196 calificaciones y 4.8 estrellas incluyen reseñas de otros países del catálogo regional de MercadoLibre (la propia ficha aclara "Incluye opiniones de otros países", y la mayoría de las reseñas visibles están marcadas como traducidas de Brasil) — no representan solo a compradores argentinos. El proxy de ventas específico de Argentina es "+50 ventas" de la tienda oficial local, un número mucho más chico que las 196 reseñas. Los 50 km de autonomía a máxima potencia con una batería de ~500 Wh son una cifra optimista del vendedor: a 900 W y 45 km/h reales, es esperable menos autonomía que a menor velocidad, y no hay una reseña de Argentina que confirme el número exacto.
+
+## Para quién sí y para quién no
+
+Comprala si priorizás la mayor potencia y velocidad de esta comparativa y no te molesta pagar más por eso. Si preferís un dato de reseñas 100% verificado en Argentina, la Enova de esta guía tiene menos potencia pero un respaldo de reseñas sin salvedades regionales.`,
+    faq: [
+      { question: "¿Las 196 reseñas de la HONEYWHALE son de Argentina?", answer: "No todas. La propia ficha de MercadoLibre aclara que incluye opiniones de otros países del catálogo regional (mayoría de Brasil, marcadas como traducidas). El proxy de ventas específico de Argentina es \"+50 ventas\" de la tienda oficial local." },
+      { question: "¿Cuál es la velocidad máxima real?", answer: "45 km/h según la ficha técnica, la más alta de esta comparativa de bicicletas eléctricas." },
+      { question: "¿Es confiable la autonomía de 50 km declarada?", answer: "Es una cifra del vendedor. A máxima potencia (900W) y velocidad (45km/h) con una batería de ~500 Wh, es una estimación optimista que ninguna reseña de Argentina confirma con un recorrido real reportado." },
+      { question: "¿Tiene frenos a disco?", answer: "Sí, delantero y trasero — la única bicicleta eléctrica de esta comparativa con freno a disco en ambas ruedas." },
+    ],
+  },
+  // Guía nueva casco-bicicleta
+  {
+    id: "MLA45125910",
+    title: "Casco Bicicleta Dakota Regulable Liviano Con Visera Color Amarillo Talle L",
+    canonicalName: "Casco Dakota Regulable con Visera",
+    price: 27051.87,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_925226-MLA91141039893_082025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_925226-MLA91141039893_082025-O.webp",
+    ],
+    category: "Movilidad",
+    categorySlug: "movilidad",
+    permalink: "https://www.mercadolibre.com.ar/casco-bicicleta-dakota-regulable-liviano-con-visera-color-amarillo-talle-l/p/MLA45125910",
+    affiliateUrl: "https://meli.la/2VTcDZ3",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 2919,
+    pastelColor: "var(--pastel-green)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Dakota" },
+      { label: "Modelo", value: "CAS002" },
+      { label: "Talle", value: "L" },
+      { label: "Peso", value: "300 g" },
+      { label: "Correas ajustables", value: "Sí" },
+      { label: "Visera", value: "Extraíble" },
+      { label: "Ventilación", value: "Sí" },
+      { label: "Material", value: "Poliestireno expandido" },
+      { label: "Usos recomendados", value: "Ciclismo, monopatín, patinaje, patines" },
+      { label: "Bandas reflectivas", value: "No" },
+    ],
+    relatedProducts: ["MLA53403344", "MLA27816766", "MLA19906148"],
+    priceUpdated: "2026-08-06",
+    priceLastChecked: "2026-08-06",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-08-06",
+    description: "Casco Dakota Regulable: el más elegido de esta comparativa, con 2.919 calificaciones reales y 4.8 estrellas. Liviano (300 g), visera extraíble, uso general/urbano.",
+    seoTitle: "Casco Dakota: el casco de bicicleta con más reseñas reales",
+    metaDescription: "Casco de bicicleta Dakota Regulable: 2.919 calificaciones, 4.8 estrellas, visera extraíble, 300 g. Precio real y contras honestas antes de comprar.",
+    verdict: "El casco Dakota Regulable es el más elegido de esta comparativa: 2.919 calificaciones reales con 4.8 estrellas, la mayor base de reseñas por lejos. Liviano (300 g), con visera extraíble y correas ajustables, pensado para uso general/urbano. La contra real: la ficha técnica no declara ninguna certificación de seguridad (CE/CPSC).",
+    pros: [
+      "El más elegido de esta comparativa: 2.919 calificaciones reales, la mayor base de reseñas por lejos",
+      "Liviano: 300 g",
+      "Visera extraíble y correas ajustables para distintos tamaños de cabeza",
+      "Vendido por tienda oficial Dakota con más de 250 mil ventas históricas",
+    ],
+    cons: [
+      "La ficha técnica no declara ninguna certificación de seguridad (CE/CPSC)",
+      "Sin bandas reflectivas, a diferencia del Abus Viantor Mips de esta comparativa",
+      "Pensado para uso general, no específico de MTB/ruta como otras opciones de esta guía",
+    ],
+    articleBody: `## Qué es y para quién
+
+El casco Dakota Regulable es un casco de bicicleta liviano (300 g) con visera extraíble y sistema de correas ajustables, pensado para uso general: ciclismo urbano, monopatín y patines.
+
+## Lo bueno
+
+Es el más elegido de esta comparativa por lejos: 2.919 calificaciones reales con 4.8 estrellas, vendido por la tienda oficial Dakota con más de 250 mil ventas históricas. Un comprador real lo describe: "los materiales son muy livianos... no importa qué tan grande sea tu cráneo podés regularlo". Otro lo elige específicamente por ser "una opción económica comparado con otro que vi que sale x10 veces más".
+
+## La contra real
+
+La ficha técnica no declara ninguna certificación de seguridad (CE/CPSC), a diferencia de lo que suele esperarse en cascos de marcas internacionales. No trae bandas reflectivas, algo que si te importa para andar de noche conviene tener en cuenta.
+
+## Para quién sí y para quién no
+
+Comprala si buscás la opción con más respaldo de reseñas reales de esta comparativa, para uso general urbano o de paseo. Si hacés MTB o ruta de forma más seria y priorizás tecnología de protección específica, el Abus Viantor Mips de esta comparativa está mejor equipado (a un precio bastante más alto).`,
+    faq: [
+      { question: "¿Es el casco de bicicleta más elegido?", answer: "Sí, tiene la mayor base de reseñas reales de esta comparativa: 2.919 calificaciones con 4.8 estrellas." },
+      { question: "¿Tiene certificación de seguridad?", answer: "La ficha técnica de MercadoLibre no declara ninguna certificación (CE/CPSC). No es necesariamente que no la tenga, pero no está confirmado en la publicación." },
+      { question: "¿Cuánto pesa?", answer: "300 g según la ficha técnica." },
+      { question: "¿La visera se puede sacar?", answer: "Sí, es extraíble según la ficha técnica." },
+    ],
+  },
+  {
+    id: "MLA53403344",
+    title: "Casco Bicicleta Con Visera C/ Regulación Ventilaciones Color Negro/Rojo Talle 57-62",
+    canonicalName: "Casco Smart-línea Deportivo con Ventilaciones",
+    price: 22999.48,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_759668-MLA89357182909_082025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_759668-MLA89357182909_082025-O.webp",
+    ],
+    category: "Movilidad",
+    categorySlug: "movilidad",
+    permalink: "https://www.mercadolibre.com.ar/casco-bicicleta-con-visera-c-regulacion-ventilaciones-color-negrorojo-talle-57-62/p/MLA53403344",
+    affiliateUrl: "https://meli.la/1ZiRcvP",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.6,
+    reviewCount: 2338,
+    pastelColor: "var(--pastel-amber)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Smart (línea SLP)" },
+      { label: "Talle", value: "57-62" },
+      { label: "Peso", value: "270 g" },
+      { label: "Correas ajustables", value: "Sí" },
+      { label: "Visera", value: "Extraíble" },
+      { label: "Ventilación", value: "Sí" },
+      { label: "Material", value: "PVC" },
+      { label: "Usos recomendados", value: "Deportivo" },
+      { label: "Edad mínima recomendada", value: "10 años" },
+      { label: "Bandas reflectivas", value: "No" },
+    ],
+    relatedProducts: ["MLA45125910", "MLA27816766", "MLA19906148"],
+    priceUpdated: "2026-08-06",
+    priceLastChecked: "2026-08-06",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-08-06",
+    description: "Casco Smart-línea deportivo: el segundo más barato de esta comparativa, con 2.338 reseñas reales y una historia real de un accidente donde cumplió su función. Uso deportivo, correas ajustables.",
+    seoTitle: "Casco deportivo económico para bicicleta y MTB",
+    metaDescription: "Casco de bicicleta deportivo económico: 2.338 calificaciones, 4.6 estrellas, uso MTB/deportivo. Precio real y contras honestas antes de comprar.",
+    verdict: "Este casco deportivo es el segundo más barato de esta comparativa, con 2.338 calificaciones reales y 4.6 estrellas. Al menos un comprador real lo acredita con una caída real donde el casco cumplió su función. La contra real: el campo \"Modelo\" de la ficha trae un dato que parece mal cargado (\"16 a 25 Ventilaciones\" en vez de un código), y el telgopor se deforma con presión fuerte según otra reseña real.",
+    pros: [
+      "Segundo más barato de esta comparativa",
+      "2.338 calificaciones reales con 4.6 estrellas",
+      "Reseña real de un comprador que sufrió una caída y el casco cumplió su función",
+      "Correas ajustables y visera extraíble",
+    ],
+    cons: [
+      "El campo \"Modelo\" de la ficha trae un dato que parece mal cargado (\"16 a 25 Ventilaciones\") en vez de un código de modelo real",
+      "Una reseña real avisa que el telgopor se deforma si lo presionás mucho",
+      "No declara certificación de seguridad en la ficha técnica",
+    ],
+    articleBody: `## Qué es y para quién
+
+Este casco deportivo con ventilaciones y visera extraíble es una opción económica pensada para uso deportivo/MTB, con edad mínima recomendada de 10 años.
+
+## Lo bueno
+
+Es el segundo más barato de esta comparativa, con 2.338 calificaciones reales y 4.6 estrellas. Tiene una reseña real de peso: un comprador cuenta que se cayó de la bicicleta ("se me salió la cadena") y el casco le protegió la cabeza en el golpe, aunque se rompió el codo y la muñeca. Otro comprador lo describe como "el casco estándar de calidad media a un precio de remate".
+
+## La contra real
+
+La ficha técnica declara el campo "Modelo" como "16 a 25 Ventilaciones", un dato que parece mal cargado por el vendedor (no es un código de modelo real) — lo marcamos como no confirmado. Otra reseña real avisa que el telgopor interior se deforma si lo presionás con fuerza. No declara ninguna certificación de seguridad.
+
+## Para quién sí y para quién no
+
+Comprala si buscás una opción económica para uso deportivo/MTB con buen respaldo de reseñas (el SLP WT-032 de esta comparativa es todavía más barato). Si preferís un casco con marca internacional y MIPS mencionado en el título, el Abus Viantor Mips de esta comparativa cumple mejor esa función, a un precio bastante más alto.`,
+    faq: [
+      { question: "¿Es el casco más barato de esta comparativa?", answer: "Es el segundo más barato; el SLP WT-032 de esta comparativa cuesta un poco menos." },
+      { question: "¿Sirve para MTB?", answer: "Sí, la ficha técnica lo declara para uso deportivo." },
+      { question: "¿Tiene certificación de seguridad declarada?", answer: "No, la ficha técnica de MercadoLibre no declara ninguna certificación (CE/CPSC)." },
+      { question: "¿Cuánto pesa?", answer: "270 g según la ficha técnica." },
+    ],
+  },
+  {
+    id: "MLA27816766",
+    title: "Casco Abus Viantor Mips Para Ciclismo Negro S",
+    canonicalName: "Casco Abus Viantor Mips",
+    price: 108312.64,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_971595-MLU72302174358_102023-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_971595-MLU72302174358_102023-O.webp",
+    ],
+    category: "Movilidad",
+    categorySlug: "movilidad",
+    permalink: "https://www.mercadolibre.com.ar/casco-abus-viantor-mips-para-ciclismo-negro-s/p/MLA27816766",
+    affiliateUrl: "https://meli.la/1ykNkRF",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 14,
+    pastelColor: "var(--pastel-purple)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Abus" },
+      { label: "Talle", value: "S" },
+      { label: "Peso", value: "270 g" },
+      { label: "Correas ajustables", value: "Sí" },
+      { label: "Visera", value: "No extraíble" },
+      { label: "Ventilación", value: "Sí" },
+      { label: "Material", value: "Policarbonato" },
+      { label: "Usos recomendados", value: "MTB" },
+      { label: "Bandas reflectivas", value: "Sí" },
+    ],
+    relatedProducts: ["MLA45125910", "MLA53403344", "MLA19906148"],
+    priceUpdated: "2026-08-06",
+    priceLastChecked: "2026-08-06",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-08-06",
+    description: "Casco Abus Viantor Mips: la única marca internacional de esta comparativa, con tecnología MIPS mencionada en el título del producto. La más cara por lejos, con solo 14 calificaciones todavía.",
+    seoTitle: "Casco Abus Viantor Mips: la opción premium con MIPS mencionado en el título",
+    metaDescription: "Casco de bicicleta Abus Viantor Mips: marca internacional, MIPS mencionado en el título, policarbonato. Precio real y contras honestas antes de comprar.",
+    verdict: "El casco Abus Viantor Mips es la única marca internacional reconocida de ciclismo de esta comparativa (Abus, Alemania), con tecnología MIPS mencionada en el título del producto. Es, por lejos, el más caro de esta guía (más de 4 veces el precio de las demás opciones). La contra real: solo tiene 14 calificaciones todavía, y la ficha declara un dato de circunferencia de cabeza implausible (129,54 cm) que no confirmamos.",
+    pros: [
+      "Única marca internacional reconocida de ciclismo de esta comparativa (Abus, Alemania)",
+      "Tecnología MIPS mencionada en el título del producto, un plus de protección frente a impactos rotacionales",
+      "Único con bandas reflectivas de esta comparativa",
+      "Material policarbonato, más resistente que el PVC/poliestireno del resto de la guía",
+    ],
+    cons: [
+      "Por lejos el más caro de esta comparativa: más de 4 veces el precio de las demás opciones",
+      "Solo 14 calificaciones todavía, la base de reseñas más chica de esta guía",
+      "La ficha técnica declara \"Tamaño de circunferencia de la cabeza: 129,54 cm\", un dato físicamente implausible que no pudimos confirmar",
+      "Visera no extraíble, a diferencia del resto de las opciones de esta comparativa",
+      "No declara ninguna certificación de seguridad (CE/CPSC) en la ficha técnica, igual que el resto de esta comparativa",
+    ],
+    articleBody: `## Qué es y para quién
+
+El casco Abus Viantor Mips es un casco de ciclismo de la marca alemana Abus, con tecnología MIPS (sistema de protección adicional frente a impactos rotacionales) mencionada en el título del producto, pensado para MTB.
+
+## Lo bueno
+
+Es la única marca internacional reconocida de ciclismo de esta comparativa. Un comprador real, que probó varios cascos antes, lo describe: "Tuve varios cascos. Specialized 2 (mips), Bell, Vanrysel. Ninguno me resultó tan cómodo como el Abus. Un espectáculo". Es el único con bandas reflectivas de esta guía, y su material es policarbonato, más resistente que el PVC o poliestireno del resto de las opciones.
+
+## La contra real
+
+Es, por lejos, el más caro de esta comparativa: más de 4 veces el precio de cualquiera de las otras 3 opciones. Solo tiene 14 calificaciones todavía, así que su 4.8 estrellas tiene poco respaldo estadístico. La ficha técnica declara un dato implausible: "Tamaño de circunferencia de la cabeza: 129,54 cm" (ninguna cabeza humana mide eso), que marcamos como no confirmado. La tecnología MIPS aparece en el título de la publicación pero no como un atributo separado en la ficha técnica.
+
+## Para quién sí y para quién no
+
+Comprala si priorizás marca internacional reconocida y el plus de MIPS (mencionado en el título) por sobre el precio. Si buscás la opción con más respaldo de reseñas reales de esta comparativa, el Dakota Regulable tiene 200 veces más calificaciones.`,
+    faq: [
+      { question: "¿El Abus Viantor tiene tecnología MIPS?", answer: "Se menciona en el título del producto, pero no aparece como un atributo separado y confirmado en la ficha técnica de MercadoLibre." },
+      { question: "¿Por qué es tan caro comparado con los demás?", answer: "Es de una marca internacional reconocida de ciclismo (Abus, Alemania), a diferencia de las otras 3 opciones de esta comparativa. Ese factor de marca y la mención de MIPS en el título explican gran parte de la diferencia de precio." },
+      { question: "¿Cuántas reseñas tiene?", answer: "Solo 14 calificaciones todavía, la base de reseñas más chica de esta comparativa, aunque con 4.8 estrellas." },
+      { question: "¿La visera se puede sacar?", answer: "No, según la ficha técnica no es extraíble, a diferencia del resto de las opciones de esta comparativa." },
+      { question: "¿Tiene certificación de seguridad declarada?", answer: "No, la ficha técnica de MercadoLibre no declara ninguna certificación (CE/CPSC), igual que el resto de los cascos de esta comparativa." },
+    ],
+  },
+  {
+    id: "MLA19906148",
+    title: "Casco Slp Bicicleta Ciclismo Mtb 13 Vent C/Regulador Color Negro/Amarillo Talle M/L",
+    canonicalName: "Casco SLP WT-032 MTB",
+    price: 21488.43,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_709519-MLA109736954429_032026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_709519-MLA109736954429_032026-O.webp",
+    ],
+    category: "Movilidad",
+    categorySlug: "movilidad",
+    permalink: "https://www.mercadolibre.com.ar/casco-slp-bicicleta-ciclismo-mtb-13-vent-cregulador-color-negroamarillo-talle-ml/p/MLA19906148",
+    affiliateUrl: "https://meli.la/31HN4gD",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 2588,
+    pastelColor: "var(--pastel-blue)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "SLP" },
+      { label: "Modelo", value: "WT-032" },
+      { label: "Diseño", value: "Geométrico" },
+      { label: "Talle", value: "M/L (57-62cm)" },
+      { label: "Peso", value: "230 g" },
+      { label: "Correas ajustables", value: "Sí" },
+      { label: "Visera", value: "Extraíble" },
+      { label: "Ventilación", value: "13 ventilaciones" },
+      { label: "Material", value: "Plástico" },
+      { label: "Usos recomendados", value: "Ciclismo" },
+    ],
+    relatedProducts: ["MLA45125910", "MLA53403344", "MLA27816766"],
+    priceUpdated: "2026-08-06",
+    priceLastChecked: "2026-08-06",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-08-06",
+    description: "Casco SLP WT-032: el más barato de esta comparativa, con 2.588 reseñas reales. Diseño MTB específico, 13 ventilaciones, el más liviano de esta guía (230 g).",
+    seoTitle: "Casco SLP WT-032: el casco de bicicleta MTB más barato",
+    metaDescription: "Casco de bicicleta SLP WT-032: el más barato de la comparativa, diseño MTB, 230 g, 13 ventilaciones. Precio real y contras honestas.",
+    verdict: "El casco SLP WT-032 es el más barato de esta comparativa, con 2.588 calificaciones reales y 4.7 estrellas. Diseño MTB específico con 13 ventilaciones, y el más liviano de esta guía (230 g). La contra real: la ficha declara el material como \"Plástico\" genérico, sin especificar si es poliestireno o policarbonato como las demás opciones.",
+    pros: [
+      "El más barato de esta comparativa",
+      "2.588 calificaciones reales con 4.7 estrellas",
+      "El más liviano de esta guía: 230 g",
+      "Diseño MTB específico con 13 ventilaciones",
+    ],
+    cons: [
+      "El material declarado en la ficha es \"Plástico\" genérico, sin especificar si es poliestireno o policarbonato",
+      "No declara certificación de seguridad en la ficha técnica",
+      "Sin bandas reflectivas, a diferencia del Abus Viantor Mips de esta comparativa",
+    ],
+    articleBody: `## Qué es y para quién
+
+El casco SLP WT-032 es un casco de bicicleta con diseño MTB específico, 13 ventilaciones y visera extraíble, el más liviano de esta comparativa (230 g).
+
+## Lo bueno
+
+Es el más barato de esta comparativa, con 2.588 calificaciones reales y 4.7 estrellas, un respaldo de reseñas grande pese al precio bajo. Un comprador real lo resume bien: "Por el precio es excelente. No es el mejor casco pero es el casco estándar de calidad media a un precio de remate. Para la calle...". Es también el más liviano de esta guía, con 230 g.
+
+## La contra real
+
+La ficha técnica declara el material como "Plástico" de forma genérica, sin especificar si la carcasa exterior es de poliestireno expandido o policarbonato como las demás opciones de esta comparativa. No declara certificación de seguridad, y no trae bandas reflectivas.
+
+## Para quién sí y para quién no
+
+Comprala si buscás la opción más económica con diseño MTB específico y buen respaldo de reseñas. Si priorizás el mayor volumen de reseñas posible, el Dakota Regulable de esta comparativa tiene algo más de respaldo (2.919 contra 2.588).`,
+    faq: [
+      { question: "¿Es el casco de bicicleta más barato de esta comparativa?", answer: "Sí, es el más barato de las 4 opciones de esta guía." },
+      { question: "¿Sirve para MTB?", answer: "Sí, tiene diseño y ventilación pensados específicamente para MTB según la ficha técnica." },
+      { question: "¿Cuánto pesa?", answer: "230 g según la ficha técnica, el más liviano de esta comparativa." },
+      { question: "¿De qué material es la carcasa?", answer: "La ficha técnica lo declara como \"Plástico\" de forma genérica, sin especificar si es poliestireno expandido o policarbonato." },
+    ],
+  },
 ];
 
 export const categoryPastels: Record<string, string> = {

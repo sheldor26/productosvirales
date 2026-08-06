@@ -1099,7 +1099,7 @@ export const guides: Guide[] = [
         [`[Kotion Each G9000](https://meli.la/21XciT1)`, `{{precio:MLA9406415}}`, `Con cable`, `El más vendido y barato`],
         [`[Razer BlackShark V2 X](https://meli.la/1eMqyZ5)`, `{{precio:MLA16280514}}`, `Con cable`, `Mejor sonido competitivo`],
         [`[HyperX Cloud](https://meli.la/2E5hHez)`, `{{precio:MLA8732921}}`, `Con cable`, `Comodidad para muchas horas`],
-        [`[Redragon Ire Pro](https://meli.la/1EmVgFD)`, `$83.999`, `Inalámbrico`, `Inalámbrico gastando poco`],
+        [`[Redragon Ire Pro](https://meli.la/1EmVgFD)`, `{{precio:MLA58836044}}`, `Inalámbrico`, `Inalámbrico gastando poco`],
         [`[Logitech G435](https://meli.la/1X17nvS)`, `{{precio:MLA18651915}}`, `Inalámbrico`, `Inalámbrico accesible de marca`],
         [`[Logitech G733](https://meli.la/1erBB4P)`, `{{precio:MLA16269737}}`, `Inalámbrico`, `Premium inalámbrico`],
       ] },
@@ -1219,7 +1219,7 @@ export const guides: Guide[] = [
         [`[HyperX Alloy Core](https://meli.la/21e4ujZ)`, `{{precio:MLA14075573}}`, `Membrana`, `Full`, `Silencioso y económico, en español`],
         [`[Logitech G213](https://meli.la/11qvS6t)`, `{{precio:MLA8906508}}`, `Membrana`, `Full`, `Resistente a líquidos`],
         [`[Redragon Horus K622](https://meli.la/19edjTZ)`, `$87.990`, `Mecánico (red)`, `TKL`, `Mecánico silencioso en español`],
-        [`[Razer Huntsman Mini](https://meli.la/2cJvkJf)`, `$138.000`, `Mecánico óptico`, `60%`, `Premium competitivo`],
+        [`[Razer Huntsman Mini](https://meli.la/2cJvkJf)`, `{{precio:MLA16085611}}`, `Mecánico óptico`, `60%`, `Premium competitivo`],
       ] },
 
       { type: "h2", title: `Cómo elegir tu teclado gamer`, id: "como-elegir" },
@@ -1234,7 +1234,7 @@ export const guides: Guide[] = [
       { type: "list", items: [
         `**$62.000 a $64.000:** la franja que conviene para la mayoría. El [Aula F75](https://meli.la/1MgoaV2) (mecánico 75%), el [Redragon Kumara](https://meli.la/1WJcMxC) (el más vendido) y el [HyperX Alloy](https://meli.la/21e4ujZ) (membrana).`,
         `**$76.000 a $88.000:** un escalón de marca o silencio. El [Logitech G213](https://meli.la/11qvS6t) (membrana resistente) y el [Redragon Horus](https://meli.la/19edjTZ) (mecánico silencioso en español).`,
-        `**$138.000 o más:** el premium. El [Razer Huntsman Mini](https://meli.la/2cJvkJf), 60% óptico para competitivo.`,
+        `**{{precio:MLA16085611:k}} o más:** el premium. El [Razer Huntsman Mini](https://meli.la/2cJvkJf), 60% óptico para competitivo.`,
       ] },
 
       { type: "h2", title: `Veredicto: cuál teclado gamer comprar`, id: "veredicto" },
@@ -23691,7 +23691,7 @@ export const guides: Guide[] = [
       { type: "p", content: `Lo honesto: el cambio **delantero** es SLP 3x7, marca propia del fabricante, no Shimano; solo el trasero lleva esa marca. Al ser de cuadro de acero, pesa 19 kg, 3 kg más que su hermana de aluminio, la [SLP 10 Pro](/producto/MLA62903959), con el mismo cambio trasero.` },
 
       { type: "h3", title: `6. SLP 10 Pro — la más liviana` },
-      { type: "product-card", productMlaId: "MLA62903959", label: "La más liviana", labelColor: "purple", ranking: 6, description: `Cuadro de aluminio, 16 kg, empata con la Fire Bird como la más liviana pero es la única de aluminio. Mismo cambio trasero Shimano Tourney TZ31 que la SLP 5 Pro. 4.7 estrellas en 895 calificaciones.` },
+      { type: "product-card", productMlaId: "MLA62903959", label: "La más liviana", labelColor: "purple", ranking: 6, description: `Cuadro de aluminio, 16 kg, empata como la más liviana de esta comparativa pero es la única de aluminio. Mismo cambio trasero Shimano Tourney TZ31 que su hermana de acero. 4.7 estrellas en 895 calificaciones.` },
       { type: "p", content: `La [SLP 10 Pro](/producto/MLA62903959) empata con la [Fire Bird](/producto/MLA1114038122) como la más liviana de esta comparativa gracias a su **cuadro de aluminio (16 kg)**, pero es la única con ese material (la [Fire Bird](/producto/MLA1114038122) es de acero). Comparte el mismo cambio trasero Shimano Tourney TZ31 que la [SLP 5 Pro](/producto/MLA63460526). Reseñas confirman uso de hasta 120 km semanales sin problemas mayores, a alrededor de {{precio:MLA62903959:k}}, la segunda más cara de las 6 (detrás de la [Fire Bird](/producto/MLA1114038122)).` },
       { type: "p", content: `Lo honesto: varias reseñas avisan que los pedales de plástico de fábrica son de baja duración ("no te van a durar ni un mes") y que los cambios suelen llegar mal regulados, por lo que conviene ajustarlos antes de salir a rodar largo.` },
       { type: "pull-quote", content: `"Por el precio es excelente, aunque vino con pedales de plastico de esos que no te van a durar ni un mes (recomendable cambiarlos rapido para evitar accidentes) y mandar a que te regulen todo porque los cambios estan mal regulado."`, attribution: `Comprador verificado en MercadoLibre, opinión con 33 votos útiles` },
@@ -23738,11 +23738,594 @@ export const guides: Guide[] = [
     ],
     internalLinks: [
       { label: "Ver toda la categoría Movilidad", href: "/categoria/movilidad" },
-      { label: "Smartwatch: cuál comprar en Argentina", href: "/guias/tech/smartwatch" },
+      { label: "Bicicleta rodado 26: cuál comprar en Argentina", href: "/guias/movilidad/bicicleta-rodado-26" },
+      { label: "Bicicleta eléctrica: cuál comprar en Argentina", href: "/guias/movilidad/bicicleta-electrica" },
+      { label: "Casco para bicicleta: cuál comprar en Argentina", href: "/guias/movilidad/casco-bicicleta" },
     ],
     internalLinksTitle: "Más de movilidad",
   },
 
+  // ─────────────────────────────────────────────────────────
+  // PILAR bicicleta rodado 26 — silo movilidad, diseño best-of (ver docs/guias.md)
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "bicicleta-rodado-26",
+    category: "bicicletas-rodado-26",
+    silo: "movilidad",
+    pillar: true,
+    title: `Bicicleta rodado 26: cuál comprar en Argentina [2026]`,
+    seoTitle: `Bicicleta Rodado 26: Cuál Comprar en Argentina [2026]`,
+    metaDescription: `Comparamos 6 bicicletas rodado 26 de Argentina: Hoko, Fire Bird, Kelinbike, Olmo y Oxea. Precios reales, reseñas de compradores reales y cuál conviene según tu uso.`,
+    ogTitle: `Bicicleta rodado 26: cuál comprar en Argentina`,
+    ogDescription: `De la más elegida a la más barata: 6 bicicletas rodado 26 comparadas por precio real, respaldo de reseñas y componentes, con contras honestos incluidos.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_831918-MLA97919587548_112025-O.webp`,
+    h1: `Bicicleta rodado 26: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene la **[Hoko MTB Dama](/producto/MLA1173239137)** (alrededor de {{precio:MLA1173239137:k}}): la más elegida, con 205 reseñas reales verificadas. Si priorizás precio, la **[Kelinbike Playera](/producto/MLA26928305)** (alrededor de {{precio:MLA26928305:k}}), la más barata. Si buscás la más vendida en unidades y doble suspensión, la **[Fire Bird Doble Suspensión](/producto/MLA47793497)**. Y si preferís frenos a disco y cuadro de aluminio, la **[Oxea Shadane](/producto/MLA1376856967)**.`,
+    publishedDate: "2026-08-06",
+    updatedDate: "2026-08-06",
+    hasDisclosure: true,
+    readingTime: 9,
+    standfirst: `Una bicicleta rodado 26 va de {{precio:MLA26928305:k}} (la más barata de esta comparativa) a {{precio:MLA1376856967:k}} (la más cara). Comparamos 6 bicicletas rodado 26 reales de MercadoLibre Argentina por precio, respaldo de reseñas y componentes de verdad, con contras honestos incluidos. Este rodado apunta a otro público que el [rodado 29](/guias/movilidad/bicicleta-rodado-29): mujeres, ciclistas de estatura menor y uso urbano liviano.`,
+    quickPicks: [
+      { productMlaId: "MLA1173239137", label: "La más elegida", labelColor: "green", tagline: "Hoko MTB Dama: 205 calificaciones reales, 4.7 estrellas, sin salvedades" },
+      { productMlaId: "MLA26928305", label: "La más barata", labelColor: "amber", tagline: "Kelinbike Playera: la de menor precio, estilo cruiser/playera" },
+      { productMlaId: "MLA47793497", label: "La más vendida en unidades", labelColor: "blue", tagline: "Fire Bird Doble Suspensión: +1.000 ventas, única con doble suspensión" },
+      { productMlaId: "MLA1376856967", label: "Mejor equipada", labelColor: "purple", tagline: "Oxea Shadane: cuadro de aluminio, frenos a disco, componentes Shimano" },
+    ],
+    intro: [
+      `La **bicicleta rodado 26** es un tamaño de rueda más chico que el [rodado 29](/guias/movilidad/bicicleta-rodado-29), pensado sobre todo para mujeres, ciclistas de estatura menor y uso urbano o de paseo liviano. Es la medida más elegida en Argentina para bicicletas de dama, mountain bike liviana y modelos estilo playera/cruiser.`,
+      `Comparamos 6 bicicletas rodado 26 reales de MercadoLibre Argentina por precio, respaldo de reseñas (no solo la nota, sino cuántos compradores la sostienen) y componentes verificados contra la ficha técnica. Un aviso honesto de entrada: no todas declaran componentes de marca reconocida (Shimano); en varias, el cambio de velocidades es de una marca genérica, y lo aclaramos producto por producto.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_831918-MLA97919587548_112025-O.webp", alt: `Bicicleta rodado 26 Hoko MTB Dama, la más elegida de esta comparativa`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la **mayoría**, la **[Hoko MTB Dama](/producto/MLA1173239137)** (la más elegida, 205 reseñas reales). Si priorizás **precio**, la **[Kelinbike Playera](/producto/MLA26928305)** (la más barata). Para la **más vendida en unidades**, la **[Fire Bird Doble Suspensión](/producto/MLA47793497)**. Y para **mejor equipada**, la **[Oxea Shadane](/producto/MLA1376856967)** (aluminio, frenos a disco).` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos bicicletas rodado 26 con ventas reales en MercadoLibre Argentina, verificadas en vivo. Las ordenamos por **respaldo de reseñas** (no solo la nota, sino cuántas opiniones la sostienen), **componentes reales** cruzados contra la ficha técnica y **precio**. Las calificaciones citadas son de compradores reales. Precios de agosto 2026, revisados periódicamente.` },
+
+      { type: "h2", title: `Qué mirar antes de comprar una bicicleta rodado 26`, id: "que-mirar" },
+      { type: "p", content: `**Con o sin cambios de velocidad.** La mayoría de esta comparativa trae entre 6 y 21 velocidades, pero la [Kelinbike Playera](/producto/MLA26928305) es de un solo desarrollo (sin cambios), pensada específicamente para paseo urbano en plano, no para subidas ni terreno irregular.` },
+      { type: "p", content: `**Componentes, con cuidado.** No todas declaran una marca reconocida en el cambio de velocidades. La [Oxea Shadane](/producto/MLA1376856967) y la [Olmo Amelie Rapide](/producto/MLA25595804) tienen Shimano confirmado en la ficha técnica; el resto usa marcas genéricas.` },
+      { type: "p", content: `**Peso máximo soportado.** Varía bastante en esta comparativa: de 85 kg (la [Fire Bird Doble Suspensión](/producto/MLA47793497), el límite más bajo) a 120 kg (la [Hoko](/producto/MLA1173239137) y la [Oxea](/producto/MLA1376856967)). Confirmalo antes de comprar si estás cerca del límite.` },
+      { type: "callout", calloutVariant: "note", calloutTitle: "Distinto del rodado 29 y de las eléctricas", content: `Si buscás rueda más grande para terreno más exigente, revisá nuestra [guía de bicicleta rodado 29](/guias/movilidad/bicicleta-rodado-29). Si preferís pedaleo asistido con motor, mirá nuestra [guía de bicicleta eléctrica](/guias/movilidad/bicicleta-electrica).` },
+
+      { type: "h2", title: `Las mejores bicicletas rodado 26 de 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Hoko MTB Dama — la más elegida` },
+      { type: "product-card", productMlaId: "MLA1173239137", label: "La más elegida", labelColor: "green", ranking: 1, description: `205 calificaciones reales y 4.7 estrellas, la mayor base de reseñas verificadas de esta comparativa. Cuadro de acero de 18", suspensión delantera, 18 velocidades.` },
+      { type: "p", content: `La [Hoko MTB Dama](/producto/MLA1173239137) tiene la base de reseñas más grande y mejor verificada de esta comparativa: **205 calificaciones con 4.7 estrellas**, sin ninguna salvedad sobre el origen de las reseñas, a alrededor de {{precio:MLA1173239137:k}}. Trae suspensión delantera y soporta hasta 120 kg, empatada con la [Oxea](/producto/MLA1376856967) como el mayor soporte de peso de esta guía.` },
+      { type: "p", content: `Lo honesto: los cambios de velocidad son de marca genérica ("Power o fast" según la ficha técnica), no un componente reconocido como Shimano. Los frenos son V-brakes, no a disco.` },
+      { type: "pull-quote", content: `"Muy linda y facil de armar, super contenta, le hice unas modificaciones para que quede más a mi gusto."`, attribution: `Compradora verificada en MercadoLibre, reseña con calificación 5/5` },
+
+      { type: "h3", title: `2. Fire Bird Mtb Lady — mejor relación precio-reseñas` },
+      { type: "product-card", productMlaId: "MLA1727747416", label: "Mejor relación precio-reseñas", labelColor: "slate", ranking: 2, description: `La segunda más barata de esta comparativa, con 192 calificaciones reales y 4.7 estrellas. Cuadro de acero, 18 velocidades, vendida por tienda oficial con más de 10 mil ventas.` },
+      { type: "p", content: `La [Fire Bird Mtb Lady](/producto/MLA1727747416) combina un precio bajo (la segunda más barata de esta comparativa, alrededor de {{precio:MLA1727747416:k}}) con buen respaldo de reseñas: **192 calificaciones con 4.7 estrellas**, vendida por una tienda oficial con más de 10 mil ventas históricas.` },
+      { type: "p", content: `Lo honesto: los pedales son de plástico, y soporta hasta 100 kg, menos que la [Hoko](/producto/MLA1173239137) o la [Kelinbike](/producto/MLA26928305). Una reseña real la describe como "de aluminio", pero la ficha técnica declara el cuadro de acero (solo las llantas son de aluminio) — lo aclaramos para no repetir la confusión.` },
+
+      { type: "h3", title: `3. Fire Bird Doble Suspensión — la más vendida en unidades` },
+      { type: "product-card", productMlaId: "MLA47793497", label: "La más vendida en unidades", labelColor: "blue", ranking: 3, description: `Más de 1.000 ventas según la insignia de MercadoLibre, y la única con suspensión delantera y trasera de esta comparativa. Cuadro de acero, sin género declarado.` },
+      { type: "p", content: `La [Fire Bird Doble Suspensión](/producto/MLA47793497) es la más vendida en unidades de esta comparativa (**más de 1.000 ventas** según la insignia de MercadoLibre) y la única con suspensión delantera y trasera, a alrededor de {{precio:MLA47793497:k}}. Sin género declarado, apta desde los 10 años.` },
+      { type: "p", content: `Lo honesto: soporta solo **85 kg**, notablemente menos que el resto de esta comparativa (100-120 kg) — no es un error, es la especificación real declarada. Además, sus 315 calificaciones con 4.5 estrellas incluyen reseñas de otros países del catálogo regional, no son 100% de compradores argentinos.` },
+      { type: "pull-quote", content: `"Buena relación precio calidad, llegó impecable el mismo día de la compra, lo único que hay que llevarla a una bicicletería que ajusten los cambios, y la pongan a punto para que funcione..."`, attribution: `Comprador verificado en MercadoLibre, reseña con calificación 4/5` },
+
+      { type: "h3", title: `4. Kelinbike Playera — la más barata` },
+      { type: "product-card", productMlaId: "MLA26928305", label: "La más barata", labelColor: "amber", ranking: 4, description: `La de menor precio de esta comparativa, con 137 calificaciones reales. Estilo playera/cruiser, un solo desarrollo, sin cambios de velocidad.` },
+      { type: "p", content: `La [Kelinbike Playera](/producto/MLA26928305) es la más barata de esta comparativa, a alrededor de {{precio:MLA26928305:k}}, con **137 calificaciones y 4.5 estrellas**. Es un estilo playera/cruiser distinto al resto de la guía: un solo desarrollo, sin cambios de velocidad, para paseo urbano cómodo.` },
+      { type: "p", content: `Lo honesto: al no tener cambios, no sirve para subidas ni terreno irregular. El cuadro es de hierro, más pesado que el acero o aluminio del resto de la comparativa.` },
+
+      { type: "h3", title: `5. Olmo Amelie Rapide — estilo vintage con Shimano confirmado` },
+      { type: "product-card", productMlaId: "MLA25595804", label: "Estilo vintage con Shimano", labelColor: "purple", ranking: 5, description: `Único modelo de esta comparativa con cambios traseros Shimano TZ500 confirmados. Estilo vintage/paseo, vendida por la tienda oficial Olmo. Solo 18 calificaciones todavía.` },
+      { type: "p", content: `La [Olmo Amelie Rapide](/producto/MLA25595804) es la única bicicleta de esta comparativa con un componente Shimano confirmado en la ficha técnica (cambios traseros TZ500), en un estilo vintage/paseo distinto al resto de la guía, a alrededor de {{precio:MLA25595804:k}}. Vendida por la tienda oficial de [Olmo](/producto/MLA25595804) (Gariotti), con más de 50 mil ventas históricas de la marca.` },
+      { type: "p", content: `Lo honesto: tiene solo **18 calificaciones** todavía, la base de reseñas más chica de esta comparativa. La descripción genérica de la marca menciona "cuadros de aluminio hidroformado", pero la ficha técnica de este modelo específico declara cuadro de acero — aclaramos la diferencia.` },
+
+      { type: "h3", title: `6. Oxea Shadane — mejor equipada` },
+      { type: "product-card", productMlaId: "MLA1376856967", label: "Mejor equipada", labelColor: "slate", ranking: 6, description: `Único cuadro de aluminio y frenos a disco mecánico de esta comparativa, con componentes Shimano TX30/Tourney confirmados. Mejor rating (4.9), pero solo 10 calificaciones.` },
+      { type: "p", content: `La [Oxea Shadane](/producto/MLA1376856967) es la más cara y mejor equipada de esta comparativa: **cuadro de aluminio** (el resto es acero), **frenos a disco mecánico** y componentes Shimano TX30/Tourney confirmados, a alrededor de {{precio:MLA1376856967:k}}. Tiene el mejor rating de la guía, 4.9 estrellas.` },
+      { type: "p", content: `Lo honesto: solo tiene **10 calificaciones**, así que ese 4.9 tiene poco respaldo estadístico todavía. Un comprador real avisa que los cambios llegaron descalibrados de fábrica, aunque igual calificó 5/5.` },
+
+      { type: "h2", title: `Tabla comparativa: precio, cuadro y componentes`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Cuadro`, `Peso máximo`, `Cambios`, `Ideal para`], rows: [
+        [`[Kelinbike Playera](/producto/MLA26928305)`, `{{precio:MLA26928305}}`, `Hierro`, `110 kg`, `Sin cambios (un desarrollo)`, `La más barata`],
+        [`[Fire Bird Mtb Lady](/producto/MLA1727747416)`, `{{precio:MLA1727747416}}`, `Acero`, `100 kg`, `Power (genérico)`, `Mejor relación precio-reseñas`],
+        [`[Hoko MTB Dama](/producto/MLA1173239137)`, `{{precio:MLA1173239137}}`, `Acero`, `120 kg`, `Power o fast (genérico)`, `La más elegida`],
+        [`[Fire Bird Doble Suspensión](/producto/MLA47793497)`, `{{precio:MLA47793497}}`, `Acero`, `85 kg`, `Power (genérico)`, `La más vendida en unidades`],
+        [`[Olmo Amelie Rapide](/producto/MLA25595804)`, `{{precio:MLA25595804}}`, `Acero`, `No declarado`, `Shimano TZ500 (trasero)`, `Estilo vintage con Shimano`],
+        [`[Oxea Shadane](/producto/MLA1376856967)`, `{{precio:MLA1376856967}}`, `Aluminio`, `120 kg`, `Shimano TX30/Tourney`, `Mejor equipada`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu bicicleta rodado 26`, id: "como-elegir" },
+      { type: "h3", title: `1. El respaldo de reseñas, no solo la nota` },
+      { type: "p", content: `Un 4.9 con 10 opiniones ([Oxea](/producto/MLA1376856967)) no pesa igual que un 4.7 con 205 ([Hoko](/producto/MLA1173239137)). Si preferís comprar con la mayor certeza posible, priorizá el volumen de reseñas.` },
+      { type: "h3", title: `2. Con o sin cambios de velocidad`, },
+      { type: "p", content: `Si vas a andar solo en plano urbano, la [Kelinbike Playera](/producto/MLA26928305) (sin cambios) es la opción más simple y barata. Si necesitás subir pendientes, cualquiera de las otras 5 con cambios de velocidad cumple mejor esa función.` },
+
+      { type: "h2", title: `Cuánto cuesta una bicicleta rodado 26 [agosto 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de {{precio:MLA26928305:k}}:** la más barata, la [Kelinbike Playera](/producto/MLA26928305).`,
+        `**Alrededor de {{precio:MLA1727747416:k}}:** mejor relación precio-reseñas, la [Fire Bird Mtb Lady](/producto/MLA1727747416).`,
+        `**Alrededor de {{precio:MLA1173239137:k}}:** la más elegida, la [Hoko MTB Dama](/producto/MLA1173239137).`,
+        `**Alrededor de {{precio:MLA47793497:k}}:** la más vendida en unidades, la [Fire Bird Doble Suspensión](/producto/MLA47793497).`,
+        `**Alrededor de {{precio:MLA25595804:k}}:** estilo vintage con Shimano confirmado, la [Olmo Amelie Rapide](/producto/MLA25595804).`,
+        `**Alrededor de {{precio:MLA1376856967:k}}:** la más cara y mejor equipada, la [Oxea Shadane](/producto/MLA1376856967).`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál bicicleta rodado 26 comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la **mayoría**, la **[Hoko MTB Dama](/producto/MLA1173239137)**: la mejor base de reseñas verificadas de la categoría, sin salvedades. Si priorizás **precio**, la **[Kelinbike Playera](/producto/MLA26928305)**, aunque sin cambios de velocidad. Para la **más vendida en unidades** y doble suspensión, la **[Fire Bird Doble Suspensión](/producto/MLA47793497)** (ojo con el límite de 85 kg). Si te importa un **componente Shimano confirmado** en estilo vintage, la **[Olmo Amelie Rapide](/producto/MLA25595804)**. Y si buscás **cuadro de aluminio y frenos a disco**, la **[Oxea Shadane](/producto/MLA1376856967)**, aunque con poco historial de reseñas todavía.` },
+    ],
+    faq: [
+      { question: `¿Cuál es la mejor bicicleta rodado 26 en Argentina?`, answer: `Por respaldo de reseñas, la [Hoko MTB Dama](/producto/MLA1173239137): 4.7 estrellas en 205 calificaciones, sin ninguna salvedad sobre el origen de las reseñas. Si priorizás precio, la [Kelinbike Playera](/producto/MLA26928305) es la más barata.` },
+      { question: `¿Qué diferencia hay entre rodado 26 y rodado 29?`, answer: `El rodado 26 tiene rueda más chica, pensado sobre todo para mujeres, ciclistas de estatura menor y uso urbano liviano. El rodado 29 (ver nuestra [guía dedicada](/guias/movilidad/bicicleta-rodado-29)) tiene rueda más grande, mejor para superar pozos y terreno más exigente.` },
+      { question: `¿Alguna de esta comparativa tiene componentes Shimano confirmados?`, answer: `Sí, dos: la [Olmo Amelie Rapide](/producto/MLA25595804) (cambio trasero TZ500) y la [Oxea Shadane](/producto/MLA1376856967) (TX30 delantero, Tourney trasero). El resto usa marcas genéricas.` },
+      { question: `¿Cuánto peso soportan estas bicicletas rodado 26?`, answer: `Varía entre 85 kg (la [Fire Bird Doble Suspensión](/producto/MLA47793497), el límite más bajo) y 120 kg (la [Hoko](/producto/MLA1173239137) y la [Oxea](/producto/MLA1376856967), el máximo de esta comparativa).` },
+      { question: `¿Cuál conviene si busco algo simple para paseo en plano?`, answer: `La [Kelinbike Playera](/producto/MLA26928305): sin cambios de velocidad, estilo cruiser cómodo y la más barata de esta comparativa.` },
+      { question: `¿Puedo usar una bicicleta rodado 26 con motor eléctrico?`, answer: `No las de esta guía: son bicicletas sin motor. Si buscás pedaleo asistido, revisá nuestra [guía de bicicleta eléctrica](/guias/movilidad/bicicleta-electrica), que incluye un modelo rodado 26.` },
+    ],
+    internalLinks: [
+      { label: "Ver toda la categoría Movilidad", href: "/categoria/movilidad" },
+      { label: "Bicicleta rodado 29: cuál comprar en Argentina", href: "/guias/movilidad/bicicleta-rodado-29" },
+      { label: "Bicicleta eléctrica: cuál comprar en Argentina", href: "/guias/movilidad/bicicleta-electrica" },
+      { label: "Casco para bicicleta: cuál comprar en Argentina", href: "/guias/movilidad/casco-bicicleta" },
+    ],
+    internalLinksTitle: "Más de movilidad",
+  },
+  {
+    slug: "monopatin-electrico",
+    category: "monopatines",
+    silo: "movilidad",
+    pillar: true,
+    title: `Monopatín eléctrico: cuál comprar en Argentina [2026]`,
+    seoTitle: `Monopatín Eléctrico: Cuál Comprar en Argentina [2026]`,
+    metaDescription: `Comparamos 6 monopatines eléctricos de Argentina: Gadnic, Philco, Xiaomi, Daihatsu y Logus. Precios reales, reseñas de compradores reales y cuál conviene según tu uso.`,
+    ogTitle: `Monopatín eléctrico: cuál comprar en Argentina`,
+    ogDescription: `De la más elegida a la de marca internacional: 6 monopatines eléctricos comparados por precio real, respaldo de reseñas y autonomía verificada contra reseñas, con contras honestos incluidos.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_953371-MLA99453599262_112025-O.webp`,
+    h1: `Monopatín eléctrico: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene el **[Gadnic KINGS221](/producto/MLA49998952)** (alrededor de {{precio:MLA49998952:k}}): la mayor base de reseñas de esta comparativa, 156 calificaciones. Si priorizás precio, el **[Philco](/producto/MLA23535856)** (alrededor de {{precio:MLA23535856:k}}), prácticamente empatado como el más barato. Para marca internacional, el **[Xiaomi 6 Lite](/producto/MLA68036626)**. Y para mayor autonomía y soporte de peso, el **[Daihatsu V200](/producto/MLA57835728)** (35 km declarados, 120 kg).`,
+    publishedDate: "2026-08-06",
+    updatedDate: "2026-08-06",
+    hasDisclosure: true,
+    readingTime: 10,
+    standfirst: `Un monopatín eléctrico va de {{precio:MLA23535856:k}} (el más barato de esta comparativa) a {{precio:MLA35313780:k}} (el más caro). Comparamos 6 monopatines eléctricos reales de MercadoLibre Argentina por precio, respaldo de reseñas y autonomía verificada contra reseñas de compradores (no solo lo que dice el título), con contras honestos incluidos.`,
+    quickPicks: [
+      { productMlaId: "MLA49998952", label: "La más elegida", labelColor: "green", tagline: "Gadnic KINGS221: 156 calificaciones, la mayor base de reseñas de esta comparativa" },
+      { productMlaId: "MLA23535856", label: "La más barata", labelColor: "amber", tagline: "Philco: prácticamente empatada con la Gadnic como la más barata, la más liviana para adultos" },
+      { productMlaId: "MLA68036626", label: "Marca internacional", labelColor: "blue", tagline: "Xiaomi 6 Lite: la marca global de electrónica de consumo más reconocible de esta comparativa, doble suspensión" },
+      { productMlaId: "MLA57835728", label: "Mayor autonomía", labelColor: "purple", tagline: "Daihatsu V200: 35 km de autonomía y 120 kg de soporte de peso declarados, el máximo de esta comparativa" },
+    ],
+    intro: [
+      `El **monopatín eléctrico** es la alternativa más elegida para moverse distancias cortas en ciudad en Argentina: no necesita licencia de conducir en la mayoría de los municipios, se guarda plegado y evita el tránsito. Antes de salir a la calle con uno, conviene revisar la normativa de circulación de tu municipio (velocidad máxima permitida, uso de casco, por dónde puede circular), algo que varía según la ciudad.`,
+      `Comparamos 6 monopatines eléctricos reales de MercadoLibre Argentina por precio, respaldo de reseñas (no solo la nota, sino cuántos compradores la sostienen) y autonomía real cruzada contra lo que reportan las reseñas, no solo lo que promete el título. Un dato honesto de entrada: la autonomía y la velocidad máxima declaradas en la ficha no siempre coinciden con lo que reportan los compradores reales, sobre todo con la luz prendida o a velocidad máxima. Lo aclaramos producto por producto.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_953371-MLA99453599262_112025-O.webp", alt: `Monopatín eléctrico Gadnic KINGS221, la más elegida de esta comparativa`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la **mayoría**, el **[Gadnic KINGS221](/producto/MLA49998952)** (la mayor base de reseñas, 156 calificaciones). Si priorizás **precio**, el **[Philco](/producto/MLA23535856)** (prácticamente empatado como el más barato). Para **marca internacional**, el **[Xiaomi 6 Lite](/producto/MLA68036626)**. Y para **mayor autonomía**, el **[Daihatsu V200](/producto/MLA57835728)** (35 km declarados).` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos monopatines eléctricos con ventas reales en MercadoLibre Argentina, verificados en vivo. Los ordenamos por lo que define la compra: **respaldo de reseñas** (no solo la nota, sino cuántas opiniones la sostienen), **autonomía y velocidad real** cruzadas contra lo que reportan las reseñas (no solo la ficha técnica) y **precio**. Las calificaciones citadas son de compradores reales. Precios de agosto 2026, revisados periódicamente.` },
+
+      { type: "h2", title: `Qué mirar antes de comprar un monopatín eléctrico`, id: "que-mirar" },
+      { type: "p", content: `**La autonomía real, no la declarada.** Varias fichas declaran una autonomía que solo se alcanza en condiciones ideales (sin luz, a velocidad media, con el usuario más liviano posible). Reseñas reales de esta comparativa confirman que con la luz prendida a velocidad máxima, la autonomía real puede bajar a la mitad de la declarada.` },
+      { type: "p", content: `**La velocidad máxima, con cuidado.** Algunas fichas declaran una velocidad tope que no coincide con lo que reportan compradores reales: en un caso de esta comparativa, la ficha declara 35 km/h pero una reseña real reporta que el producto sale de fábrica limitado a 25 km/h (dato no confirmado al 100%). No des por sentado el número del título sin cruzarlo contra reseñas.` },
+      { type: "p", content: `**Para quién es, no solo el precio.** Uno de los productos de esta comparativa aparece en la categoría general "monopatín eléctrico" pero la ficha técnica lo declara para 8-13 años: es un monopatín para chicos, no una opción de entrada para adultos. Revisá la edad mínima recomendada antes de comprar.` },
+      { type: "callout", calloutVariant: "note", calloutTitle: "Revisá la normativa de tu municipio", content: `El uso de monopatines eléctricos en la vía pública está regulado a nivel municipal en Argentina (velocidad máxima, casco, por dónde circular), y varía según la ciudad. Consultá la normativa local antes de salir a la calle.` },
+
+      { type: "h2", title: `Los mejores monopatines eléctricos de 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Gadnic KINGS221 — la más elegida` },
+      { type: "product-card", productMlaId: "MLA49998952", label: "La más elegida", labelColor: "green", ranking: 1, description: `La mayor base de reseñas de esta comparativa: 156 calificaciones con 4.6 estrellas. Resistente al agua, con freno eléctrico a disco.` },
+      { type: "p", content: `El [Gadnic KINGS221](/producto/MLA49998952) tiene la base de reseñas más grande de esta comparativa: **156 calificaciones con 4.6 estrellas**. Es de los más baratos, resistente al agua y de los más livianos entre las opciones para adultos (13,7 kg), a alrededor de {{precio:MLA49998952:k}}.` },
+      { type: "p", content: `Lo honesto: varias reseñas confirman que la autonomía real baja a la mitad de la declarada (12-15 km en vez de los 24-28 km del título) si usás la luz prendida a velocidad máxima. No tiene suspensión, así que hay que tener cuidado en calles con pozos.` },
+      { type: "pull-quote", content: `"Es resistente y está muy bueno. Se aconseja ajustarle los tornillos cada 5/6 usos. Al no tener suspensión tener cuidado en las ciclovías de argentina con las cunetas y pozos. Si las calles fueran lisas sería perfecto."`, attribution: `Comprador verificado en MercadoLibre, opinión con 70 votos útiles` },
+
+      { type: "h3", title: `2. Logus L7 — mejor rating con gran respaldo` },
+      { type: "product-card", productMlaId: "MLA35313780", label: "Mejor rating con respaldo", labelColor: "purple", ranking: 2, description: `Empata como el mejor rating de esta comparativa (4.8 estrellas) con la segunda base de reseñas más grande (112 calificaciones). Batería extraíble y bluetooth.` },
+      { type: "p", content: `El [Logus L7](/producto/MLA35313780) empata como el mejor rating de esta comparativa: **4.8 estrellas**, con la segunda base de reseñas más grande (112 calificaciones), a alrededor de {{precio:MLA35313780:k}}. Tiene batería extraíble y bluetooth.` },
+      { type: "p", content: `Lo honesto: declara la autonomía más baja de esta comparativa, solo 12 km, y reseñas reales confirman que la duración de batería es justamente su punto débil. Es además la más cara de las 6.` },
+      { type: "pull-quote", content: `"La verdad me parece muy bueno, funciona bien y es grande lo único que cambiaría es la durabilidad de la batería, despues impecable."`, attribution: `Comprador verificado en MercadoLibre, reseña con calificación 4/5` },
+
+      { type: "h3", title: `3. Philco — la más barata` },
+      { type: "product-card", productMlaId: "MLA23535856", label: "La más barata", labelColor: "amber", ranking: 3, description: `Prácticamente empatada como la más barata de esta comparativa, con apenas $624 de diferencia. El más liviano entre las opciones para adultos (12,5 kg).` },
+      { type: "p", content: `El [Philco](/producto/MLA23535856) empata prácticamente como el más barato de esta comparativa (apenas $624 de diferencia contra la [Gadnic](/producto/MLA49998952)), a alrededor de {{precio:MLA23535856:k}}. Es el más liviano entre las opciones para adultos, con 12,5 kg.` },
+      { type: "p", content: `Lo honesto: tiene el motor más chico de esta comparativa (250 W) y su ficha técnica no declara autonomía ni peso máximo soportado, a diferencia del resto. El dato de capacidad de batería que muestra la ficha (6,6 mAh) es implausible para un vehículo eléctrico; lo marcamos como no verificable en vez de repetirlo como si fuera un hecho.` },
+      { type: "pull-quote", content: `"El precio es acorde a la calidad. Lo compré porque era el más barato y en 12 cuotas. Cada cuota equivale al costo mensual de manejarme en colectivo."`, attribution: `Comprador verificado en MercadoLibre, reseña con calificación 5/5` },
+
+      { type: "h3", title: `4. Xiaomi 6 Lite — marca internacional` },
+      { type: "product-card", productMlaId: "MLA68036626", label: "Marca internacional", labelColor: "blue", ranking: 4, description: `La marca global de electrónica de consumo más reconocible de esta comparativa, con doble suspensión y freno tambor + E-ABS. Empata como el mejor rating (4.8), pero con solo 16 calificaciones.` },
+      { type: "p", content: `El [Xiaomi 6 Lite](/producto/MLA68036626) es la marca global de electrónica de consumo más reconocible de esta comparativa, con **doble suspensión** y freno tambor + E-ABS, a alrededor de {{precio:MLA68036626:k}}. Empata como el mejor rating (4.8 estrellas).` },
+      { type: "p", content: `Lo honesto: tiene solo 16 calificaciones, la base de reseñas más chica de esta comparativa por lejos (la [Gadnic](/producto/MLA49998952) tiene 156). Pese a compartir motor de 500 W con la [Daihatsu](/producto/MLA57835728), declara una velocidad máxima de solo 25 km/h.` },
+
+      { type: "h3", title: `5. Daihatsu V200 — mayor autonomía` },
+      { type: "product-card", productMlaId: "MLA57835728", label: "Mayor autonomía", labelColor: "amber", ranking: 5, description: `Mayor autonomía declarada (35 km) y mayor soporte de peso (120 kg) de esta comparativa. La ficha declara 35 km/h de velocidad máxima, pero una reseña real reporta que sale limitado a 25 km/h de fábrica (dato no confirmado al 100%).` },
+      { type: "p", content: `El [Daihatsu V200](/producto/MLA57835728) declara la mayor autonomía (35 km) y el mayor soporte de peso (120 kg) de esta comparativa, a alrededor de {{precio:MLA57835728:k}}.` },
+      { type: "p", content: `Lo honesto: el título y la ficha declaran 35 km/h de velocidad máxima, pero una reseña real de un comprador reporta que sale de fábrica limitado a 25 km/h, con un máximo alcanzable de 30 km/h mediante un ajuste no oficial ("menú secreto") — no confirmado al 100%. Solo tiene 19 calificaciones.` },
+      { type: "pull-quote", content: `"Su velocidad máxima viene configurada en 25 km/h pero entrando al menú secreto (apretando los dos botoncitos a la vez) se puede aumentarle hasta 30 km/h, lo cual es bastante rápido para un monopatín."`, attribution: `Comprador verificado en MercadoLibre, reseña con calificación 5/5` },
+
+      { type: "h3", title: `6. Black Power R32 M — ojo, es para chicos` },
+      { type: "product-card", productMlaId: "MLA49566209", label: "Para chicos, no adultos", labelColor: "slate", ranking: 6, description: `Aparece en la categoría general "monopatín eléctrico", pero la ficha técnica lo declara para 8-13 años. No es una opción para adultos.` },
+      { type: "p", content: `El [Black Power R32 M](/producto/MLA49566209) aparece en los mismos resultados de búsqueda que las demás opciones de esta comparativa, a alrededor de {{precio:MLA49566209:k}}. Pero hay un dato clave en la ficha técnica: edad mínima recomendada **8 años**, edad recomendada **8-13 años**.` },
+      { type: "p", content: `Lo honesto: no es una versión más chica o más barata para adultos, es un monopatín pensado específicamente para chicos, con menos potencia (320 W) y menos autonomía (15 km) que cualquiera de las 5 opciones para adultos de esta comparativa. Lo incluimos para que no lo confundas si buscás uno para vos.` },
+
+      { type: "h2", title: `Tabla comparativa: precio, autonomía y para quién`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Motor`, `Autonomía declarada`, `Reseñas`, `Ideal para`], rows: [
+        [`[Philco](/producto/MLA23535856)`, `{{precio:MLA23535856}}`, `250 W`, `No declarada`, `91 (4.3★)`, `La más barata`],
+        [`[Gadnic KINGS221](/producto/MLA49998952)`, `{{precio:MLA49998952}}`, `300 W`, `25 km`, `156 (4.6★)`, `La más elegida`],
+        [`[Black Power R32 M](/producto/MLA49566209)`, `{{precio:MLA49566209}}`, `320 W`, `15 km`, `24 (4.4★)`, `Para chicos, no adultos`],
+        [`[Xiaomi 6 Lite](/producto/MLA68036626)`, `{{precio:MLA68036626}}`, `500 W`, `25 km`, `16 (4.8★)`, `Marca internacional`],
+        [`[Daihatsu V200](/producto/MLA57835728)`, `{{precio:MLA57835728}}`, `500 W`, `35 km`, `19 (4.7★)`, `Mayor autonomía`],
+        [`[Logus L7](/producto/MLA35313780)`, `{{precio:MLA35313780}}`, `350 W`, `12 km`, `112 (4.8★)`, `Mejor rating con respaldo`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu monopatín eléctrico`, id: "como-elegir" },
+      { type: "h3", title: `1. El respaldo de reseñas, no solo la nota` },
+      { type: "p", content: `Una calificación de 4.8 con solo 16 opiniones ([Xiaomi](/producto/MLA68036626)) no pesa igual que un 4.6 con 156 ([Gadnic](/producto/MLA49998952)). Si preferís comprar con la mayor certeza posible, priorizá el volumen de reseñas por sobre el promedio exacto.` },
+      { type: "h3", title: `2. La autonomía real, cruzada contra reseñas` },
+      { type: "p", content: `Para trayectos cortos en ciudad, la autonomía declarada de la [Gadnic](/producto/MLA49998952) o el [Xiaomi](/producto/MLA68036626) (25 km) alcanza, aunque conviene descontarle un margen si vas a usar la luz. Si necesitás más autonomía real para trayectos largos, el [Daihatsu V200](/producto/MLA57835728) (35 km declarados) es la opción con más margen, incluso considerando que una reseña real reporta que su velocidad máxima real sería menor a la declarada (dato no confirmado al 100%).` },
+      { type: "h3", title: `3. Para quién es, antes que nada` },
+      { type: "p", content: `Si buscás uno para vos como adulto, cualquiera de las 5 opciones pensadas para ese uso sirve: [Gadnic](/producto/MLA49998952), [Philco](/producto/MLA23535856), [Xiaomi](/producto/MLA68036626), [Daihatsu](/producto/MLA57835728) o [Logus](/producto/MLA35313780). El [Black Power](/producto/MLA49566209) es la excepción de esta comparativa: su propia ficha lo declara para 8-13 años.` },
+
+      { type: "h2", title: `Cuánto cuesta un monopatín eléctrico [agosto 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de {{precio:MLA23535856:k}}:** la más barata, el [Philco](/producto/MLA23535856).`,
+        `**Alrededor de {{precio:MLA49998952:k}}:** la más elegida, el [Gadnic KINGS221](/producto/MLA49998952).`,
+        `**Alrededor de {{precio:MLA49566209:k}}:** para chicos de 8-13 años, el [Black Power R32 M](/producto/MLA49566209).`,
+        `**Alrededor de {{precio:MLA68036626:k}}:** marca internacional, el [Xiaomi 6 Lite](/producto/MLA68036626).`,
+        `**Alrededor de {{precio:MLA57835728:k}}:** mayor autonomía y soporte de peso, el [Daihatsu V200](/producto/MLA57835728).`,
+        `**Alrededor de {{precio:MLA35313780:k}}:** mejor rating con gran respaldo, el [Logus L7](/producto/MLA35313780).`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál monopatín eléctrico comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la **mayoría**, el **[Gadnic KINGS221](/producto/MLA49998952)**: la mayor base de reseñas de la categoría, a buen precio. Si priorizás **precio**, el **[Philco](/producto/MLA23535856)**, prácticamente empatado como el más barato. Para **marca internacional** con doble suspensión, el **[Xiaomi 6 Lite](/producto/MLA68036626)**. Si necesitás **mayor autonomía**, el **[Daihatsu V200](/producto/MLA57835728)** (con la salvedad real sobre su velocidad máxima). Y si buscás **mejor rating con gran respaldo**, el **[Logus L7](/producto/MLA35313780)**. El error a evitar: no confundir el **[Black Power R32 M](/producto/MLA49566209)** con una opción para adultos — su propia ficha lo declara para 8-13 años.` },
+    ],
+    faq: [
+      { question: `¿Cuál es el mejor monopatín eléctrico en Argentina?`, answer: `Por respaldo de reseñas, el [Gadnic KINGS221](/producto/MLA49998952): 4.6 estrellas en 156 calificaciones, la mayor base de reseñas de esta comparativa. Si priorizás precio, el [Philco](/producto/MLA23535856) (prácticamente empatado como el más barato).` },
+      { question: `¿La autonomía declarada en la ficha es la real?`, answer: `No siempre. Reseñas reales de esta comparativa confirman que la autonomía baja bastante con la luz prendida a velocidad máxima (caso [Gadnic](/producto/MLA49998952)) y que la velocidad máxima declarada puede no coincidir con lo que sale de fábrica (caso [Daihatsu V200](/producto/MLA57835728)). Cruzá siempre la ficha contra reseñas antes de comprar.` },
+      { question: `¿Cuál es el monopatín eléctrico más barato de esta guía?`, answer: `El [Philco](/producto/MLA23535856) y el [Gadnic KINGS221](/producto/MLA49998952) están prácticamente empatados en precio, con apenas $624 de diferencia entre ambos.` },
+      { question: `¿Hay alguno de esta guía pensado para chicos?`, answer: `Sí, el [Black Power R32 M](/producto/MLA49566209) aparece en la misma categoría general que el resto, pero su ficha técnica lo declara para 8-13 años. No es una opción para adultos pese a listarse junto a las demás.` },
+      { question: `¿Cuál tiene mejor rating?`, answer: `El [Xiaomi 6 Lite](/producto/MLA68036626) y el [Logus L7](/producto/MLA35313780) empatan con 4.8 estrellas. La diferencia real está en el respaldo: el [Logus](/producto/MLA35313780) tiene 112 calificaciones contra solo 16 del [Xiaomi](/producto/MLA68036626).` },
+      { question: `¿Necesito casco o licencia para andar en monopatín eléctrico?`, answer: `La normativa varía según el municipio en Argentina (velocidad máxima permitida, uso de casco, por dónde puede circular). Consultá la normativa local antes de salir a la calle.` },
+      { question: `¿Cuál conviene si necesito más autonomía?`, answer: `El [Daihatsu V200](/producto/MLA57835728) declara 35 km, el máximo de esta comparativa, aunque una reseña real reporta que la velocidad máxima real sería menor a la declarada (dato no confirmado al 100%). Si tu prioridad es la autonomía y no la velocidad tope, sigue siendo la mejor opción de las 6.` },
+    ],
+    internalLinks: [
+      { label: "Ver toda la categoría Movilidad", href: "/categoria/movilidad" },
+      { label: "Bicicleta eléctrica: cuál comprar en Argentina", href: "/guias/movilidad/bicicleta-electrica" },
+      { label: "Monopatín infantil: cuál comprar en Argentina", href: "/guias/movilidad/monopatin-infantil" },
+    ],
+    internalLinksTitle: "Más de movilidad",
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // PILAR bicicleta eléctrica — silo movilidad, diseño best-of (ver docs/guias.md)
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "bicicleta-electrica",
+    category: "bicicletas-electricas",
+    silo: "movilidad",
+    pillar: true,
+    title: `Bicicleta eléctrica: cuál comprar en Argentina [2026]`,
+    seoTitle: `Bicicleta Eléctrica: Cuál Comprar en Argentina [2026]`,
+    metaDescription: `Comparamos 6 bicicletas eléctricas de Argentina: Valentini, Enova, Kroner, MOOY, Rango y HONEYWHALE. Precios reales, reseñas de compradores reales y cuál conviene según tu uso.`,
+    ogTitle: `Bicicleta eléctrica: cuál comprar en Argentina`,
+    ogDescription: `De la más elegida a la más potente: 6 bicicletas eléctricas comparadas por precio real, respaldo de reseñas y autonomía, con contras honestos incluidos.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_807303-MLA95395791512_102025-O.webp`,
+    h1: `Bicicleta eléctrica: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene la **[Enova Asistida](/producto/MLA26955875)** (alrededor de {{precio:MLA26955875:k}}): la más elegida, con 139 reseñas reales verificadas en Argentina, sin salvedades. Si priorizás precio, la **[Valentini Plegable 20](/producto/MLA59609902)** (alrededor de {{precio:MLA59609902:k}}), la más barata y con stock inmediato. Si buscás más potencia, la **[HONEYWHALE F6 Pro-S](/producto/MLA53621331)** (900 W, 45 km/h). Y para rodado 29, la **[Kroner R29](/producto/MLA63590384)**.`,
+    publishedDate: "2026-08-06",
+    updatedDate: "2026-08-06",
+    hasDisclosure: true,
+    readingTime: 10,
+    standfirst: `Una bicicleta eléctrica va de {{precio:MLA59609902:k}} (la más barata de esta comparativa) a {{precio:MLA53621331:k}} (la más cara y más potente). Comparamos 6 bicicletas eléctricas reales de MercadoLibre Argentina por precio, respaldo de reseñas y autonomía declarada, con contras honestos incluidos. Distinta de un [monopatín eléctrico](/guias/movilidad/monopatin-electrico): acá es una bicicleta de verdad, con pedales, cuadro y cadena, con motor de asistencia.`,
+    quickPicks: [
+      { productMlaId: "MLA26955875", label: "La más elegida", labelColor: "green", tagline: "Enova Asistida: 139 reseñas reales verificadas en Argentina, sin salvedades" },
+      { productMlaId: "MLA59609902", label: "La más barata", labelColor: "amber", tagline: "Valentini Plegable 20: la de menor precio, stock inmediato en Argentina" },
+      { productMlaId: "MLA53621331", label: "Mayor potencia", labelColor: "purple", tagline: "HONEYWHALE F6 Pro-S: motor de 900W, 45 km/h de velocidad máxima declarada" },
+      { productMlaId: "MLA47150419", label: "Mejor rating", labelColor: "blue", tagline: "Rango Worker Plus: 5.0 estrellas, plegable con acelerador" },
+    ],
+    intro: [
+      `Una **bicicleta eléctrica** (e-bike) es distinta de un [monopatín eléctrico](/guias/movilidad/monopatin-electrico): acá hablamos de una bicicleta de verdad, con cuadro, pedales y cadena, a la que se le suma un motor de asistencia y una batería. El pedaleo sigue siendo parte de la experiencia (salvo cuando el modelo trae acelerador), a diferencia del monopatín, que es una plataforma sin pedales.`,
+      `Comparamos 6 bicicletas eléctricas reales de MercadoLibre Argentina por precio, respaldo de reseñas (no solo la nota, sino cuántos compradores la sostienen y si son de Argentina) y specs de motor/batería verificadas contra la ficha técnica. Un aviso honesto de entrada: varias fichas técnicas de esta categoría tienen errores de unidad en la batería o la autonomía (horas en vez de kilómetros, mAh en vez de Ah); lo aclaramos producto por producto en vez de repetir el dato con error.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_807303-MLA95395791512_102025-O.webp", alt: `Bicicleta eléctrica Enova Asistida, la más elegida de esta comparativa`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la **mayoría**, la **[Enova Asistida](/producto/MLA26955875)** (la más elegida, 139 reseñas verificadas en Argentina). Si priorizás **precio**, la **[Valentini Plegable 20](/producto/MLA59609902)** (la más barata, stock inmediato). Para **potencia**, la **[HONEYWHALE F6 Pro-S](/producto/MLA53621331)** (900W, 45 km/h). Y para **rodado 29**, la **[Kroner R29](/producto/MLA63590384)**.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos bicicletas eléctricas con ventas reales en MercadoLibre Argentina, verificadas en vivo. Las ordenamos por **respaldo de reseñas de compradores argentinos** (marcando cuando una calificación incluye reseñas de otros países del catálogo regional), **motor y batería** cruzados contra la ficha técnica, y **precio**. Precios de agosto 2026, revisados periódicamente.` },
+
+      { type: "h2", title: `Qué mirar antes de comprar una bicicleta eléctrica`, id: "que-mirar" },
+      { type: "p", content: `**Potencia del motor y velocidad máxima.** Va de 250 W (25 km/h) a 900 W (45 km/h) en esta comparativa. A mayor potencia y velocidad, más rápido se descarga la batería a esa velocidad tope.` },
+      { type: "p", content: `**Autonomía: desconfiá del dato del vendedor si no hay reseñas que lo confirmen.** Varias publicaciones declaran una autonomía en kilómetros que ninguna reseña real confirma con un recorrido reportado. No es necesariamente falso, pero conviene tratarlo como estimación optimista del vendedor, no como un hecho verificado.` },
+      { type: "p", content: `**De dónde son las reseñas.** Algunas fichas de esta categoría muestran calificaciones que incluyen compradores de otros países del catálogo regional de MercadoLibre (mayoría de Brasil), no solo de Argentina. La propia ficha lo aclara cuando pasa; lo señalamos producto por producto.` },
+      { type: "callout", calloutVariant: "note", calloutTitle: "Distinta de un monopatín eléctrico y de una bici sin motor", content: `Si buscás una plataforma sin pedales, revisá nuestra [guía de monopatín eléctrico](/guias/movilidad/monopatin-electrico). Si preferís una bicicleta sin motor, mirá nuestras guías de [rodado 29](/guias/movilidad/bicicleta-rodado-29) y [rodado 26](/guias/movilidad/bicicleta-rodado-26).` },
+
+      { type: "h2", title: `Las mejores bicicletas eléctricas de 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Enova Asistida — la más elegida` },
+      { type: "product-card", productMlaId: "MLA26955875", label: "La más elegida", labelColor: "green", ranking: 1, description: `139 calificaciones reales de compradores en Argentina, sin salvedad regional. Sistema EPAC de asistencia al pedaleo con componentes Shimano, motor de 250W.` },
+      { type: "p", content: `La [Enova Asistida](/producto/MLA26955875) tiene la mayor base de reseñas verificadas específicamente en Argentina de esta comparativa: **139 calificaciones con 4.6 estrellas**, sin la salvedad de reseñas de otros países, a alrededor de {{precio:MLA26955875:k}}. Trae sistema EPAC de asistencia al pedaleo con componentes Shimano.` },
+      { type: "p", content: `Lo honesto: la ficha técnica declara la batería en "10,4 mAh", un error de unidad (debería ser Ah) que se repite tanto en la ficha como en la descripción del vendedor. Tampoco declara autonomía en km; el dato de ~40 km surge de una reseña real, no del vendedor.` },
+      { type: "pull-quote", content: `"Espectacular. Muy buena para las personas que por motivos varios no pueden hacer mucho esfuerzo al momento de pedalear. Particularmente me viene bien por una hernia de disco en la parte baja de la columna."`, attribution: `Comprador verificado en MercadoLibre, opinión con 37 votos útiles` },
+
+      { type: "h3", title: `2. Valentini Plegable 20 — la más barata` },
+      { type: "product-card", productMlaId: "MLA59609902", label: "La más barata", labelColor: "amber", ranking: 2, description: `La de menor precio de esta comparativa, con stock inmediato en Argentina (no importación). Plegable, motor de 350W y batería removible.` },
+      { type: "p", content: `La [Valentini Plegable 20](/producto/MLA59609902) es la más barata de esta comparativa, a alrededor de {{precio:MLA59609902:k}}, con stock inmediato en Argentina (no es importación con semanas de demora). Motor de 350 W, plegable, con batería de litio removible.` },
+      { type: "p", content: `Lo honesto: la ficha técnica declara la autonomía en "45 h" (horas), un error de unidad que no pudimos traducir a kilómetros reales con certeza. Solo 33 calificaciones todavía.` },
+
+      { type: "h3", title: `3. Rango Worker Plus — mejor rating` },
+      { type: "product-card", productMlaId: "MLA47150419", label: "Mejor rating", labelColor: "blue", ranking: 3, description: `El mejor rating de esta comparativa (5.0 estrellas), aunque con solo 10 calificaciones. Plegable en 3 pasos, con acelerador impermeable además de pedaleo asistido.` },
+      { type: "p", content: `La [Rango Worker Plus](/producto/MLA47150419) tiene el mejor rating de esta comparativa, **5.0 estrellas**, a alrededor de {{precio:MLA47150419:k}}. Plegable en 3 pasos, combina asistencia al pedaleo (EPAC) con un acelerador impermeable, y el vendedor la posiciona explícitamente para trabajo o delivery.` },
+      { type: "p", content: `Lo honesto: solo tiene 10 calificaciones, volumen bajo para un 5.0. Los 50 km de autonomía que declara son una cifra del vendedor que ninguna reseña visible confirma de forma independiente.` },
+
+      { type: "h3", title: `4. Kroner R29 — única rodado 29` },
+      { type: "product-card", productMlaId: "MLA63590384", label: "Única rodado 29", labelColor: "slate", ranking: 4, description: `La única mountain bike eléctrica rígida rodado 29 de esta comparativa, con 8 velocidades Shimano y batería removible. Insignia de "3° más vendida" en MercadoLibre.` },
+      { type: "p", content: `La [Kroner R29](/producto/MLA63590384) es la única bicicleta eléctrica de esta comparativa con rodado 29 (rueda grande), con 8 velocidades de componentes Shimano y batería removible, a alrededor de {{precio:MLA63590384:k}}. MercadoLibre la marca como "3° más vendida en Bicicletas Eléctricas".` },
+      { type: "p", content: `Lo honesto: pesa 30 kg, la más pesada de esta comparativa. La autonomía de 40-45 km que promociona el vendedor aparece en material gráfico, no como un campo estructurado de la ficha técnica — aunque un comprador real reportó casi 45 km en una carga con uso moderado.` },
+
+      { type: "h3", title: `5. MOOY M7 — formato fat-tire/chopper` },
+      { type: "product-card", productMlaId: "MLAU3143206258", label: "Formato distinto", labelColor: "purple", ranking: 5, description: `Motor de 500W (la segunda mayor potencia de esta comparativa, detrás de la opción de 900 W), formato fat-tire/chopper único de esta guía, con velocidad máxima de 40 km/h confirmada por una reseña real, no solo por el vendedor.` },
+      { type: "p", content: `La [MOOY M7](/producto/MLAU3143206258) tiene la segunda mayor potencia de motor de esta comparativa, detrás de la [HONEYWHALE](/producto/MLA53621331): **500 W**, con batería de 48V/15Ah, a alrededor de {{precio:MLAU3143206258:k}}. Un comprador real confirmó que alcanza los 40 km/h reales. Formato fat-tire/chopper, único de esta guía.` },
+      { type: "p", content: `Lo honesto: el vendedor no declara la autonomía en kilómetros en ningún lugar de la ficha técnica. No es plegable y requiere ensamblado.` },
+      { type: "pull-quote", content: `"La bicicleta es excelente. Viene bastante armada en una caja. Hay que agregarle algunas cosas (nada complicado) y ya queda lista. La velocidad maxima alcanzada es de 40 km/h reales. Muy recomendable, prácticamente no hace ruido y se puede usar sin necesidad de pedalear (mido 1,90 mts)."`, attribution: `Comprador verificado en MercadoLibre, opinión con 48 votos útiles` },
+
+      { type: "h3", title: `6. HONEYWHALE F6 Pro-S — mayor potencia total` },
+      { type: "product-card", productMlaId: "MLA53621331", label: "Mayor potencia", labelColor: "purple", ranking: 6, description: `900W de potencia y 45 km/h de velocidad máxima declarada, las cifras más altas de esta comparativa. Frenos a disco delantero y trasero, plegable. La más cara.` },
+      { type: "p", content: `La [HONEYWHALE F6 Pro-S](/producto/MLA53621331) tiene la mayor potencia (**900 W**, 70 N.m de torque) y la mayor velocidad máxima declarada (**45 km/h**) de toda esta comparativa, con frenos a disco delantero y trasero, a alrededor de {{precio:MLA53621331:k}}. Es plegable, con suspensión delantera.` },
+      { type: "p", content: `Lo honesto: sus 196 calificaciones y 4.8 estrellas incluyen reseñas de otros países del catálogo regional (la propia ficha lo aclara); el proxy de ventas específico de Argentina es "+50 ventas" de la tienda oficial local. Los 50 km de autonomía a máxima potencia son una cifra optimista del vendedor, no confirmada para uso real en Argentina.` },
+
+      { type: "h2", title: `Tabla comparativa: precio, motor y autonomía`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Motor`, `Velocidad máxima`, `Plegable`, `Ideal para`], rows: [
+        [`[Valentini Plegable 20](/producto/MLA59609902)`, `{{precio:MLA59609902}}`, `350 W`, `32 km/h`, `Sí`, `La más barata`],
+        [`[Rango Worker Plus](/producto/MLA47150419)`, `{{precio:MLA47150419}}`, `No declarado`, `32 km/h`, `Sí, en 3 pasos`, `Mejor rating`],
+        [`[Kroner R29](/producto/MLA63590384)`, `{{precio:MLA63590384}}`, `350 W`, `No declarada`, `No`, `Única rodado 29`],
+        [`[MOOY M7](/producto/MLAU3143206258)`, `{{precio:MLAU3143206258}}`, `500 W`, `40 km/h (confirmada por reseña)`, `No`, `Formato fat-tire/chopper`],
+        [`[Enova Asistida](/producto/MLA26955875)`, `{{precio:MLA26955875}}`, `250 W`, `25 km/h`, `No`, `La más elegida`],
+        [`[HONEYWHALE F6 Pro-S](/producto/MLA53621331)`, `{{precio:MLA53621331}}`, `900 W`, `45 km/h`, `Sí`, `Mayor potencia`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu bicicleta eléctrica`, id: "como-elegir" },
+      { type: "h3", title: `1. El respaldo de reseñas, de dónde son` },
+      { type: "p", content: `La [Enova](/producto/MLA26955875) tiene el mejor respaldo verificado específicamente en Argentina (139 reseñas, sin salvedad). La [HONEYWHALE](/producto/MLA53621331) tiene más reseñas en total (196), pero incluyen compradores de otros países del catálogo regional — su proxy de ventas local real es mucho más chico.` },
+      { type: "h3", title: `2. Potencia según el uso` },
+      { type: "p", content: `Para uso urbano tranquilo, los 250-350 W de la [Enova](/producto/MLA26955875), la [Valentini](/producto/MLA59609902) o la [Kroner](/producto/MLA63590384) alcanzan. Si buscás más velocidad o subir pendientes con menos esfuerzo, la [MOOY M7](/producto/MLAU3143206258) (500W) o la [HONEYWHALE](/producto/MLA53621331) (900W) rinden más, a mayor precio.` },
+
+      { type: "h2", title: `Cuánto cuesta una bicicleta eléctrica [agosto 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de {{precio:MLA59609902:k}}:** la más barata, la [Valentini Plegable 20](/producto/MLA59609902).`,
+        `**Alrededor de {{precio:MLA47150419:k}}:** mejor rating, la [Rango Worker Plus](/producto/MLA47150419).`,
+        `**Alrededor de {{precio:MLA63590384:k}}:** única rodado 29, la [Kroner R29](/producto/MLA63590384).`,
+        `**Alrededor de {{precio:MLAU3143206258:k}}:** segunda mayor potencia y formato fat-tire/chopper, la [MOOY M7](/producto/MLAU3143206258).`,
+        `**Alrededor de {{precio:MLA26955875:k}}:** la más elegida, la [Enova Asistida](/producto/MLA26955875).`,
+        `**Alrededor de {{precio:MLA53621331:k}}:** la más cara y más potente, la [HONEYWHALE F6 Pro-S](/producto/MLA53621331).`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál bicicleta eléctrica comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la **mayoría**, la **[Enova Asistida](/producto/MLA26955875)**: el mejor respaldo de reseñas verificadas en Argentina, sin salvedades. Si priorizás **precio**, la **[Valentini Plegable 20](/producto/MLA59609902)**, con stock inmediato. Si buscás **rodado 29**, la **[Kroner R29](/producto/MLA63590384)** es la única de esta comparativa. Y si **potencia y velocidad** son tu prioridad, la **[HONEYWHALE F6 Pro-S](/producto/MLA53621331)** (900W, 45 km/h), aunque con la salvedad de que su volumen de reseñas incluye compradores de otros países.` },
+    ],
+    faq: [
+      { question: `¿Cuál es la mejor bicicleta eléctrica en Argentina?`, answer: `Por respaldo de reseñas verificadas en Argentina, la [Enova Asistida](/producto/MLA26955875): 139 calificaciones, sin salvedad regional. Si priorizás precio, la [Valentini Plegable 20](/producto/MLA59609902) es la más barata con stock inmediato.` },
+      { question: `¿Qué diferencia hay entre una bicicleta eléctrica y un monopatín eléctrico?`, answer: `La bicicleta eléctrica es una bicicleta de verdad (cuadro, pedales, cadena) con motor de asistencia. El monopatín eléctrico (ver nuestra [guía dedicada](/guias/movilidad/monopatin-electrico)) es una plataforma sin pedales.` },
+      { question: `¿Cuál tiene más autonomía?`, answer: `La mayoría declara entre 45 y 50 km, pero son cifras del vendedor que casi ninguna reseña confirma con un recorrido real reportado. Tratalas como estimaciones optimistas, no como garantía.` },
+      { question: `¿Alguna es rodado 29?`, answer: `Sí, la [Kroner R29](/producto/MLA63590384) es la única mountain bike eléctrica rígida rodado 29 de esta comparativa; el resto son rodado 20 o 26.` },
+      { question: `¿Cuál conviene para trabajo o delivery?`, answer: `La [Rango Worker Plus](/producto/MLA47150419), que el propio vendedor posiciona para ese uso, con acelerador además de pedaleo asistido.` },
+      { question: `¿Las reseñas de la HONEYWHALE son todas de Argentina?`, answer: `No. La ficha de MercadoLibre aclara que incluyen opiniones de otros países del catálogo regional (mayoría de Brasil). El proxy de ventas local real es "+50 ventas" de la tienda oficial argentina.` },
+    ],
+    internalLinks: [
+      { label: "Ver toda la categoría Movilidad", href: "/categoria/movilidad" },
+      { label: "Bicicleta rodado 29: cuál comprar en Argentina", href: "/guias/movilidad/bicicleta-rodado-29" },
+      { label: "Monopatín eléctrico: cuál comprar en Argentina", href: "/guias/movilidad/monopatin-electrico" },
+      { label: "Casco para bicicleta: cuál comprar en Argentina", href: "/guias/movilidad/casco-bicicleta" },
+    ],
+    internalLinksTitle: "Más de movilidad",
+  },
+  {
+    slug: "monopatin-infantil",
+    category: "monopatines-infantiles",
+    silo: "movilidad",
+    title: `Monopatín infantil: cuál comprar en Argentina [2026]`,
+    seoTitle: `Monopatín Infantil: Cuál Comprar en Argentina [2026]`,
+    metaDescription: `Comparamos 4 monopatines infantiles de Argentina: Rainbow, Gadnic, Rofft y Globber. Precios reales, reseñas de compradores reales y cuál conviene según la edad.`,
+    ogTitle: `Monopatín infantil: cuál comprar en Argentina`,
+    ogDescription: `De la más barata a la de marca internacional: 4 monopatines infantiles comparados por precio real, respaldo de reseñas y edad recomendada, con contras honestos incluidos.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_982912-MLA100036811625_122025-O.webp`,
+    h1: `Monopatín infantil: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene el **[Rainbow Swift](/producto/MLA53154634)** (alrededor de {{precio:MLA53154634:k}}): el más barato de esta comparativa, con muy buena calificación, desde los 3 años. Si priorizás respaldo de reseñas, el **[Gadnic MONINF06](/producto/MLA21213845)** (402 calificaciones). Para que le dure más años al mismo chico, el **[Rofft Maxi-891](/producto/MLA46521684)** (3 a 12 años, hasta 70 kg). Y si buscás marca internacional, el **[Globber Elite Deluxe](/producto/MLA53272904)**.`,
+    publishedDate: "2026-08-06",
+    updatedDate: "2026-08-06",
+    hasDisclosure: true,
+    readingTime: 7,
+    standfirst: `Un monopatín infantil va de {{precio:MLA53154634:k}} (el más barato de esta comparativa) a {{precio:MLA53272904:k}} (la marca internacional). Comparamos 4 monopatines infantiles reales de MercadoLibre Argentina por precio, respaldo de reseñas y edad recomendada, con contras honestos incluidos.`,
+    quickPicks: [
+      { productMlaId: "MLA53154634", label: "La más barata", labelColor: "green", tagline: "Rainbow Swift: la más barata de esta comparativa, muy buena calificación (4.8★), desde los 3 años" },
+      { productMlaId: "MLA21213845", label: "La más elegida", labelColor: "blue", tagline: "Gadnic MONINF06: 402 calificaciones, la mayor base de reseñas por lejos" },
+      { productMlaId: "MLA46521684", label: "Mayor rango de edad", labelColor: "amber", tagline: "Rofft Maxi-891: de 3 a 12 años, soporta hasta 70 kg" },
+      { productMlaId: "MLA53272904", label: "Marca internacional", labelColor: "purple", tagline: "Globber Elite Deluxe: la única marca reconocida a nivel mundial de esta comparativa" },
+    ],
+    intro: [
+      `Un **monopatín infantil** (scooter de 2 a 4 ruedas para chicos) es distinto de un monopatín eléctrico para adultos: no lleva batería ni motor, funciona a impulso, y la mayoría trae sistema "lean to steer" (gira inclinando el cuerpo, no girando el manubrio) para que sea más fácil de manejar a edades tempranas.`,
+      `Comparamos 4 monopatines infantiles reales de MercadoLibre Argentina por precio, respaldo de reseñas (no solo la nota, sino cuántos compradores la sostienen) y edad/peso recomendados según cada ficha técnica. Un aviso honesto de entrada: algunos productos de esta categoría (como el [Black Power R32 M](/producto/MLA49566209) de nuestra guía de [monopatín eléctrico](/guias/movilidad/monopatin-electrico)) sí llevan batería pese a estar pensados para chicos — si buscás uno sin motor, esta es tu guía.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_982912-MLA100036811625_122025-O.webp", alt: `Monopatín infantil Rainbow Swift, el más barato de esta comparativa`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la **mayoría**, el **[Rainbow Swift](/producto/MLA53154634)** (el más barato, 4.8 estrellas, desde los 3 años). Si priorizás **respaldo de reseñas**, el **[Gadnic MONINF06](/producto/MLA21213845)** (402 calificaciones). Para que **dure más años**, el **[Rofft Maxi-891](/producto/MLA46521684)** (3 a 12 años, 70 kg). Y para **marca internacional**, el **[Globber Elite Deluxe](/producto/MLA53272904)**.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos monopatines infantiles con ventas reales en MercadoLibre Argentina, verificados en vivo. Los ordenamos por **respaldo de reseñas** (no solo la nota, sino cuántas opiniones la sostienen), **edad y peso recomendados** según cada ficha técnica, y **precio**. Las calificaciones citadas son de compradores reales. Precios de agosto 2026, revisados periódicamente.` },
+
+      { type: "h2", title: `Qué mirar antes de comprar un monopatín infantil`, id: "que-mirar" },
+      { type: "p", content: `**2, 3 o 4 ruedas.** Las de 4 ruedas (o 3 con sistema lean to steer) son más estables para los chicos que recién empiezan (3-5 años). Las de 2 ruedas, más parecidas a un monopatín "grande", suelen ser para chicos un poco más grandes o con más práctica.` },
+      { type: "p", content: `**Edad y peso recomendados, no solo la edad del título.** Cada ficha técnica declara un rango de edad y un peso máximo distinto; conviene chequear los dos, no solo uno. Un chico grande para su edad puede superar el peso máximo de un modelo pensado para su franja etaria.` },
+      { type: "callout", calloutVariant: "note", calloutTitle: "Esta guía es de monopatines sin batería", content: `Si buscás específicamente un monopatín eléctrico (con batería y motor) para un chico, revisá nuestra [guía de monopatín eléctrico](/guias/movilidad/monopatin-electrico), que incluye una opción pensada para 8-13 años.` },
+
+      { type: "h2", title: `Los mejores monopatines infantiles de 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Rainbow Swift — la más barata` },
+      { type: "product-card", productMlaId: "MLA53154634", label: "La más barata", labelColor: "green", ranking: 1, description: `La más barata de esta comparativa, con muy buena calificación (4.8 estrellas en 268 opiniones). 4 ruedas, apta desde los 3 años.` },
+      { type: "p", content: `El [Rainbow Swift](/producto/MLA53154634) es el más barato de esta comparativa y, pese a eso, tiene muy buena calificación: **4.8 estrellas en 268 opiniones**, a alrededor de {{precio:MLA53154634:k}}. Con 4 ruedas y sistema lean to steer, es apto desde los 3 años, la edad mínima más baja de esta guía.` },
+      { type: "p", content: `Lo honesto: una reseña real avisa que la versión plegable de color azul tiene menos estabilidad al andar y un plegado complicado, a diferencia de otras variantes de la misma línea.` },
+      { type: "pull-quote", content: `"Los monopatines son hermosos y buena calidad. A tener en cuenta yo me guíe por los colores y resultó ser que los modelos eran diferentes. El azul es plegable y tiene menos estabilidad al andar y cuesta más girar, y el plegado es bastante complicado."`, attribution: `Comprador verificado en MercadoLibre, reseña con calificación 5/5` },
+
+      { type: "h3", title: `2. Gadnic MONINF06 — la más elegida` },
+      { type: "product-card", productMlaId: "MLA21213845", label: "La más elegida", labelColor: "blue", ranking: 2, description: `La mayor base de reseñas de esta comparativa por lejos: 402 calificaciones. Cuadro de aluminio de 2 ruedas, plegable, soporta hasta 60 kg.` },
+      { type: "p", content: `El [Gadnic MONINF06](/producto/MLA21213845) tiene la base de reseñas más grande de esta comparativa por lejos: **402 calificaciones con 4.3 estrellas**, a alrededor de {{precio:MLA21213845:k}}. Cuadro de aluminio plegable, soporta hasta 60 kg.` },
+      { type: "p", content: `Lo honesto: no trae luces LED, a diferencia de las demás opciones de esta comparativa, y es de 2 ruedas (menos estable para los más chicos que las de 4 ruedas). La ficha técnica de MercadoLibre declara un peso del producto de 30 kg, un número implausible para un monopatín infantil que no pudimos confirmar; lo omitimos de los datos.` },
+
+      { type: "h3", title: `3. Rofft Maxi-891 — mayor rango de edad` },
+      { type: "product-card", productMlaId: "MLA46521684", label: "Mayor rango de edad", labelColor: "amber", ranking: 3, description: `El rango de edad más amplio (3 a 12 años) y el mayor soporte de peso (70 kg) de esta comparativa. 4 ruedas, luces LED, 126 calificaciones.` },
+      { type: "p", content: `El [Rofft Maxi-891](/producto/MLA46521684) cubre el rango de edad más amplio de esta comparativa (**3 a 12 años**) y soporta el mayor peso (**70 kg**), a alrededor de {{precio:MLA46521684:k}}. Trae luces LED y tiene 126 calificaciones con 4.6 estrellas.` },
+      { type: "p", content: `Lo honesto: el manubrio ajustable llega hasta 82 cm, que puede quedarse corto para un chico ya cerca de los 12 años, el límite superior de edad que declara la ficha.` },
+      { type: "pull-quote", content: `"Muy buena calidad de los materiales, super resistentes, hasta tiene un sistema de amortiguador flexible en la parte delantera, que cuando dobla no permite qué se vuelque. Muy conforme, lo recomiendo."`, attribution: `Comprador verificado en MercadoLibre, reseña con calificación 5/5` },
+
+      { type: "h3", title: `4. Globber Elite Deluxe — marca internacional` },
+      { type: "product-card", productMlaId: "MLA53272904", label: "Marca internacional", labelColor: "purple", ranking: 4, description: `La única marca reconocida a nivel internacional de esta comparativa. Es, por lejos, la más cara (más de 3 veces el precio de las demás), y todavía con pocas reseñas.` },
+      { type: "p", content: `El [Globber Elite Deluxe](/producto/MLA53272904) es la única marca internacional de esta comparativa, con sistema lean to steer de 3 ruedas y luces LED, a alrededor de {{precio:MLA53272904:k}}.` },
+      { type: "p", content: `Lo honesto: es, por lejos, la más cara de esta comparativa (más de 3 veces el precio de las demás), y todavía tiene solo 4 calificaciones. Además hay una contradicción sin resolver: la ficha técnica declara que no es plegable, pero al menos una reseña real dice que es fácil de plegar para el auto.` },
+
+      { type: "h2", title: `Tabla comparativa: precio, edad y ruedas`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Ruedas`, `Edad recomendada`, `Reseñas`, `Ideal para`], rows: [
+        [`[Rainbow Swift](/producto/MLA53154634)`, `{{precio:MLA53154634}}`, `4`, `Desde 3 años`, `268 (4.8★)`, `La más barata`],
+        [`[Rofft Maxi-891](/producto/MLA46521684)`, `{{precio:MLA46521684}}`, `4`, `3 a 12 años`, `126 (4.6★)`, `Mayor rango de edad`],
+        [`[Gadnic MONINF06](/producto/MLA21213845)`, `{{precio:MLA21213845}}`, `2`, `No declarada`, `402 (4.3★)`, `La más elegida`],
+        [`[Globber Elite Deluxe](/producto/MLA53272904)`, `{{precio:MLA53272904}}`, `3`, `No declarada`, `4 (5.0★)`, `Marca internacional`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir el monopatín infantil`, id: "como-elegir" },
+      { type: "h3", title: `1. Según la edad y cuánto va a durar` },
+      { type: "p", content: `Para un chico que recién empieza (3-6 años), el [Rainbow Swift](/producto/MLA53154634) cumple perfecto y es el más barato. Si buscás que le dure varios años sin cambiarlo, el [Rofft Maxi-891](/producto/MLA46521684) cubre hasta los 12 años y soporta más peso.` },
+      { type: "h3", title: `2. El respaldo de reseñas, no solo la nota` },
+      { type: "p", content: `Un 5.0 con 4 opiniones ([Globber](/producto/MLA53272904)) no pesa igual que un 4.3 con 402 ([Gadnic](/producto/MLA21213845)). Si preferís comprar con la mayor certeza posible, el volumen de reseñas importa tanto como el promedio exacto.` },
+
+      { type: "h2", title: `Cuánto cuesta un monopatín infantil [agosto 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de {{precio:MLA53154634:k}}:** la más barata, el [Rainbow Swift](/producto/MLA53154634).`,
+        `**Alrededor de {{precio:MLA46521684:k}}:** mayor rango de edad, el [Rofft Maxi-891](/producto/MLA46521684).`,
+        `**Alrededor de {{precio:MLA21213845:k}}:** la más elegida, el [Gadnic MONINF06](/producto/MLA21213845).`,
+        `**Alrededor de {{precio:MLA53272904:k}}:** marca internacional, el [Globber Elite Deluxe](/producto/MLA53272904).`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál monopatín infantil comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la **mayoría**, el **[Rainbow Swift](/producto/MLA53154634)**: el más barato de esta comparativa y con muy buena calificación, ideal para chicos que recién empiezan. Si priorizás **respaldo de reseñas**, el **[Gadnic MONINF06](/producto/MLA21213845)** (402 calificaciones). Si buscás que **le dure más años**, el **[Rofft Maxi-891](/producto/MLA46521684)** (3 a 12 años, 70 kg). Y si el nombre de **marca internacional** te importa y el precio no es problema, el **[Globber Elite Deluxe](/producto/MLA53272904)**.` },
+    ],
+    faq: [
+      { question: `¿Cuál es el mejor monopatín infantil en Argentina?`, answer: `Por relación precio-calidad, el [Rainbow Swift](/producto/MLA53154634): el más barato de esta comparativa y con muy buena calificación (4.8 estrellas). Si priorizás respaldo de reseñas, el [Gadnic MONINF06](/producto/MLA21213845) tiene 402 calificaciones, la mayor base de esta guía.` },
+      { question: `¿Desde qué edad se puede usar un monopatín infantil?`, answer: `Varía según el modelo: el [Rainbow Swift](/producto/MLA53154634) y el [Rofft Maxi-891](/producto/MLA46521684) declaran edad mínima de 3 años. El [Gadnic](/producto/MLA21213845) y el [Globber](/producto/MLA53272904) no declaran edad mínima en la ficha técnica.` },
+      { question: `¿Cuál es la diferencia con un monopatín eléctrico para chicos?`, answer: `Los 4 monopatines de esta guía funcionan a impulso, sin batería ni motor. Si buscás uno con motor eléctrico para un chico de 8-13 años, revisá el [Black Power R32 M](/producto/MLA49566209) de nuestra guía de [monopatín eléctrico](/guias/movilidad/monopatin-electrico).` },
+      { question: `¿Cuál conviene si mi hijo tiene entre 8 y 12 años?`, answer: `El [Rofft Maxi-891](/producto/MLA46521684), que declara un rango de edad de hasta 12 años y soporta hasta 70 kg, el máximo de esta comparativa.` },
+      { question: `¿Vale la pena pagar más por el Globber?`, answer: `Si el nombre de marca internacional te importa específicamente, sí. Pero cuesta más de 3 veces lo que las demás opciones de esta comparativa y todavía tiene pocas reseñas (4). Funcionalmente, el [Rainbow Swift](/producto/MLA53154634) o el [Rofft Maxi-891](/producto/MLA46521684) (ambos con sistema similar de 4 ruedas y LED) cumplen lo mismo a una fracción del precio.` },
+    ],
+    internalLinks: [
+      { label: "Ver toda la categoría Movilidad", href: "/categoria/movilidad" },
+      { label: "Monopatín eléctrico: cuál comprar en Argentina", href: "/guias/movilidad/monopatin-electrico" },
+      { label: "Bicicleta rodado 29: cuál comprar en Argentina", href: "/guias/movilidad/bicicleta-rodado-29" },
+    ],
+    internalLinksTitle: "Más de movilidad",
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // SATÉLITE casco de bicicleta — silo movilidad, diseño best-of (ver docs/guias.md)
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "casco-bicicleta",
+    category: "cascos-bicicleta",
+    silo: "movilidad",
+    title: `Casco para bicicleta: cuál comprar en Argentina [2026]`,
+    seoTitle: `Casco para Bicicleta: Cuál Comprar en Argentina [2026]`,
+    metaDescription: `Comparamos 4 cascos de bicicleta de Argentina: Dakota, un modelo deportivo económico, Abus Viantor Mips y SLP WT-032. Precios reales, reseñas de compradores reales y cuál conviene.`,
+    ogTitle: `Casco para bicicleta: cuál comprar en Argentina`,
+    ogDescription: `Del más barato al premium con MIPS mencionado en el título: 4 cascos de bicicleta comparados por precio real, respaldo de reseñas y protección, con contras honestos incluidos.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_925226-MLA91141039893_082025-O.webp`,
+    h1: `Casco para bicicleta: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene el **[Dakota Regulable](/producto/MLA45125910)** (alrededor de {{precio:MLA45125910:k}}): el más elegido, con casi 3.000 reseñas reales. Si priorizás precio, el **[SLP WT-032](/producto/MLA19906148)** (alrededor de {{precio:MLA19906148:k}}), el más barato. Si buscás marca internacional con MIPS mencionado en el título, el **[Abus Viantor Mips](/producto/MLA27816766)** (bastante más caro). Y si buscás uso deportivo económico, el **[casco de ventilaciones](/producto/MLA53403344)**.`,
+    publishedDate: "2026-08-06",
+    updatedDate: "2026-08-06",
+    hasDisclosure: true,
+    readingTime: 7,
+    standfirst: `Un casco de bicicleta va de {{precio:MLA19906148:k}} (el más barato de esta comparativa) a {{precio:MLA27816766:k}} (el premium, con MIPS mencionado en el título). Comparamos 4 cascos reales de MercadoLibre Argentina por precio, respaldo de reseñas y protección, con contras honestos incluidos — el complemento obvio para cualquiera de nuestras guías de [bicicletas](/guias/movilidad/bicicleta-rodado-29) o [monopatines](/guias/movilidad/monopatin-electrico) de este silo.`,
+    quickPicks: [
+      { productMlaId: "MLA45125910", label: "El más elegido", labelColor: "green", tagline: "Dakota Regulable: 2.919 calificaciones reales, 4.8 estrellas, visera extraíble" },
+      { productMlaId: "MLA19906148", label: "El más barato", labelColor: "amber", tagline: "SLP WT-032: diseño MTB, el más liviano (230 g), 2.588 reseñas" },
+      { productMlaId: "MLA53403344", label: "Uso deportivo económico", labelColor: "blue", tagline: "Reseña real de un comprador al que le salvó la cabeza en una caída" },
+      { productMlaId: "MLA27816766", label: "Marca internacional", labelColor: "purple", tagline: "Abus Viantor Mips: MIPS mencionado en el título, único con bandas reflectivas" },
+    ],
+    intro: [
+      `Un **casco de bicicleta** es el complemento obvio para cualquiera de las [bicicletas](/guias/movilidad/bicicleta-rodado-29) o [monopatines eléctricos](/guias/movilidad/monopatin-electrico) que ya comparamos en el sitio, y una parte de la compra que se pasa por alto seguido pese a ser la más importante para tu seguridad.`,
+      `Comparamos 4 cascos reales de MercadoLibre Argentina por precio, respaldo de reseñas (no solo la nota, sino cuántos compradores la sostienen) y specs verificadas contra la ficha técnica. Un aviso honesto de entrada: ninguno de los 4 cascos de esta comparativa declara una certificación de seguridad (CE/CPSC) en su ficha — no significa necesariamente que no la tengan, pero no está confirmado en la publicación, y lo aclaramos en cada ficha.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_925226-MLA91141039893_082025-O.webp", alt: `Casco de bicicleta Dakota Regulable, el más elegido de esta comparativa`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la **mayoría**, el **[Dakota Regulable](/producto/MLA45125910)** (el más elegido, casi 3.000 reseñas). Si priorizás **precio**, el **[SLP WT-032](/producto/MLA19906148)** (el más barato). Para **marca internacional con MIPS mencionado en el título**, el **[Abus Viantor Mips](/producto/MLA27816766)**. Y para **uso deportivo económico**, el **[casco de ventilaciones](/producto/MLA53403344)**.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos cascos de bicicleta con ventas reales en MercadoLibre Argentina, verificados en vivo. Los ordenamos por **respaldo de reseñas** (no solo la nota, sino cuántas opiniones la sostienen), **specs de protección** cruzadas contra la ficha técnica y **precio**. Las calificaciones citadas son de compradores reales. Precios de agosto 2026, revisados periódicamente.` },
+
+      { type: "h2", title: `Qué mirar antes de comprar un casco de bicicleta`, id: "que-mirar" },
+      { type: "p", content: `**Certificación de seguridad, si está declarada.** Ninguno de los 4 cascos de esta comparativa la declara explícitamente en la ficha de MercadoLibre. No es necesariamente que no la tengan, pero conviene saber que no está confirmado en la publicación antes de comprar.` },
+      { type: "p", content: `**Talle y sistema de ajuste.** Los 4 traen correas ajustables, pero los talles varían (L, 57-62, S, M/L). Confirmá que tu talle esté disponible antes de comprar, sobre todo en el [Abus](/producto/MLA27816766) que viene en S.` },
+      { type: "p", content: `**Tecnología MIPS, si te importa.** Solo el [Abus Viantor](/producto/MLA27816766) la menciona (en el título de la publicación, no como atributo separado de la ficha). Es un sistema de protección adicional frente a impactos rotacionales, no un estándar que traigan todos los cascos.` },
+      { type: "callout", calloutVariant: "note", calloutTitle: "El complemento de tu bicicleta o monopatín", content: `Si todavía no elegiste bicicleta o monopatín, revisá nuestras guías de [bicicleta rodado 29](/guias/movilidad/bicicleta-rodado-29), [bicicleta rodado 26](/guias/movilidad/bicicleta-rodado-26), [bicicleta eléctrica](/guias/movilidad/bicicleta-electrica) o [monopatín eléctrico](/guias/movilidad/monopatin-electrico).` },
+
+      { type: "h2", title: `Los mejores cascos de bicicleta de 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Dakota Regulable — el más elegido` },
+      { type: "product-card", productMlaId: "MLA45125910", label: "El más elegido", labelColor: "green", ranking: 1, description: `La mayor base de reseñas de esta comparativa por lejos: 2.919 calificaciones, 4.8 estrellas. Liviano (300 g), visera extraíble, uso general.` },
+      { type: "p", content: `El [Dakota Regulable](/producto/MLA45125910) es el más elegido de esta comparativa por lejos: **2.919 calificaciones reales con 4.8 estrellas**, a alrededor de {{precio:MLA45125910:k}}. Liviano (300 g), con visera extraíble y correas ajustables, pensado para uso general urbano.` },
+      { type: "p", content: `Lo honesto: la ficha técnica no declara ninguna certificación de seguridad, y no trae bandas reflectivas, a diferencia del [Abus Viantor Mips](/producto/MLA27816766) de esta comparativa.` },
+      { type: "pull-quote", content: `"Estéticamente está re bueno, los materiales son muy livianos pero safa cumple la función... no importa qué tan grande sea tu cráneo podés regularlo."`, attribution: `Comprador verificado en MercadoLibre, reseña con calificación 5/5` },
+
+      { type: "h3", title: `2. SLP WT-032 — el más barato` },
+      { type: "product-card", productMlaId: "MLA19906148", label: "El más barato", labelColor: "amber", ranking: 2, description: `El de menor precio de esta comparativa, con 2.588 calificaciones reales. Diseño MTB con 13 ventilaciones, el más liviano (230 g).` },
+      { type: "p", content: `El [SLP WT-032](/producto/MLA19906148) es el más barato de esta comparativa, a alrededor de {{precio:MLA19906148:k}}, con **2.588 calificaciones y 4.7 estrellas**. Diseño MTB específico con 13 ventilaciones, y el más liviano de esta guía (230 g).` },
+      { type: "p", content: `Lo honesto: la ficha declara el material como "Plástico" genérico, sin especificar si es poliestireno o policarbonato como las demás opciones.` },
+
+      { type: "h3", title: `3. Casco deportivo con ventilaciones — uso deportivo económico` },
+      { type: "product-card", productMlaId: "MLA53403344", label: "Uso deportivo económico", labelColor: "blue", ranking: 3, description: `Segundo más barato de esta comparativa, con 2.338 reseñas. Un comprador real acredita que el casco cumplió su función en una caída real.` },
+      { type: "p", content: `Este [casco deportivo con ventilaciones](/producto/MLA53403344) es el segundo más barato de esta comparativa, a alrededor de {{precio:MLA53403344:k}}, con **2.338 calificaciones y 4.6 estrellas**. Tiene una reseña real de peso: un comprador cuenta que sufrió una caída y el casco protegió su cabeza en el golpe.` },
+      { type: "p", content: `Lo honesto: el campo "Modelo" de la ficha trae un dato que parece mal cargado ("16 a 25 Ventilaciones" en vez de un código real), y otra reseña real avisa que el telgopor interior se deforma si lo presionás con fuerza.` },
+      { type: "pull-quote", content: `"A la semana de comprarlo se me salió la cadena y literal me salvó la vida, me rompí el codo y la muñeca pero el coco perfecto, me frenó el típico golpe de la nuca. Si estás dudando de comprarlo, no des vueltas y hacelo."`, attribution: `Comprador verificado en MercadoLibre, reseña con calificación 5/5` },
+
+      { type: "h3", title: `4. Abus Viantor Mips — marca internacional` },
+      { type: "product-card", productMlaId: "MLA27816766", label: "Marca internacional", labelColor: "purple", ranking: 4, description: `Única marca internacional de ciclismo de esta comparativa, con MIPS mencionado en el título. Por lejos el más caro, con solo 14 calificaciones todavía.` },
+      { type: "p", content: `El [Abus Viantor Mips](/producto/MLA27816766) es la única marca internacional reconocida de ciclismo de esta comparativa (Abus, Alemania), con tecnología MIPS mencionada en el título del producto, a alrededor de {{precio:MLA27816766:k}}. Único con bandas reflectivas de esta guía.` },
+      { type: "p", content: `Lo honesto: es, por lejos, el más caro de esta comparativa (más de 4 veces el precio de las demás opciones), y todavía tiene solo 14 calificaciones. La ficha declara un dato implausible ("circunferencia de cabeza: 129,54 cm") que no pudimos confirmar.` },
+      { type: "pull-quote", content: `"Tuve varios cascos. Specialized 2 (mips), Bell, Vanrysel. Ninguno me resultó tan cómodo como el Abus. Un espectáculo."`, attribution: `Comprador verificado en MercadoLibre, reseña con calificación 5/5` },
+
+      { type: "h2", title: `Tabla comparativa: precio, peso y protección`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Peso`, `Reseñas`, `Certificación declarada`, `Ideal para`], rows: [
+        [`[SLP WT-032](/producto/MLA19906148)`, `{{precio:MLA19906148}}`, `230 g`, `2.588 (4.7★)`, `No declarada`, `El más barato`],
+        [`[Casco deportivo](/producto/MLA53403344)`, `{{precio:MLA53403344}}`, `270 g`, `2.338 (4.6★)`, `No declarada`, `Uso deportivo económico`],
+        [`[Dakota Regulable](/producto/MLA45125910)`, `{{precio:MLA45125910}}`, `300 g`, `2.919 (4.8★)`, `No declarada`, `El más elegido`],
+        [`[Abus Viantor Mips](/producto/MLA27816766)`, `{{precio:MLA27816766}}`, `270 g`, `14 (4.8★)`, `No declarada (MIPS en título)`, `Marca internacional`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu casco de bicicleta`, id: "como-elegir" },
+      { type: "h3", title: `1. El respaldo de reseñas, no solo la nota` },
+      { type: "p", content: `Un 4.8 con 14 opiniones ([Abus](/producto/MLA27816766)) no pesa igual que un 4.8 con 2.919 ([Dakota](/producto/MLA45125910)). Si preferís comprar con la mayor certeza posible, priorizá el volumen de reseñas.` },
+      { type: "h3", title: `2. Uso general vs. deportivo/MTB` },
+      { type: "p", content: `Para uso urbano o de paseo, el [Dakota Regulable](/producto/MLA45125910) cumple perfecto. Si hacés MTB de forma más seria, el [SLP WT-032](/producto/MLA19906148) tiene diseño y ventilación específicos, y el [Abus](/producto/MLA27816766) suma MIPS (mencionado en el título) si el presupuesto lo permite.` },
+
+      { type: "h2", title: `Cuánto cuesta un casco de bicicleta [agosto 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de {{precio:MLA19906148:k}}:** el más barato, el [SLP WT-032](/producto/MLA19906148).`,
+        `**Alrededor de {{precio:MLA53403344:k}}:** uso deportivo económico, el [casco de ventilaciones](/producto/MLA53403344).`,
+        `**Alrededor de {{precio:MLA45125910:k}}:** el más elegido, el [Dakota Regulable](/producto/MLA45125910).`,
+        `**Alrededor de {{precio:MLA27816766:k}}:** marca internacional con MIPS mencionado en el título, el [Abus Viantor Mips](/producto/MLA27816766).`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál casco de bicicleta comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la **mayoría**, el **[Dakota Regulable](/producto/MLA45125910)**: el mejor respaldo de reseñas reales de esta comparativa. Si priorizás **precio**, el **[SLP WT-032](/producto/MLA19906148)**. Para **uso deportivo económico**, el **[casco de ventilaciones](/producto/MLA53403344)**, con una reseña real de peso sobre su función de protección. Y si buscás **marca internacional y MIPS mencionado en el título**, el **[Abus Viantor Mips](/producto/MLA27816766)**, aunque con poco historial de reseñas todavía y a un precio bastante más alto.` },
+    ],
+    faq: [
+      { question: `¿Cuál es el mejor casco de bicicleta en Argentina?`, answer: `Por respaldo de reseñas, el [Dakota Regulable](/producto/MLA45125910): 4.8 estrellas en 2.919 calificaciones, la mayor base de reseñas de esta comparativa. Si priorizás precio, el [SLP WT-032](/producto/MLA19906148) es el más barato.` },
+      { question: `¿Alguno de estos cascos tiene certificación de seguridad?`, answer: `Ninguno de los 4 la declara explícitamente en la ficha técnica de MercadoLibre. No significa necesariamente que no la tengan, pero no está confirmado en la publicación.` },
+      { question: `¿Qué es la tecnología MIPS?`, answer: `Es un sistema de protección adicional frente a impactos rotacionales de la cabeza. Solo el [Abus Viantor](/producto/MLA27816766) de esta comparativa la menciona (en el título, no como atributo separado de la ficha).` },
+      { question: `¿Cuál conviene para MTB?`, answer: `El [SLP WT-032](/producto/MLA19906148) tiene diseño y ventilación específicos de MTB a buen precio. Si el presupuesto lo permite, el [Abus Viantor Mips](/producto/MLA27816766) suma MIPS mencionado en el título.` },
+      { question: `¿Necesito casco para andar en bicicleta o monopatín eléctrico en Argentina?`, answer: `La normativa varía según el municipio. Consultá la normativa local antes de salir a la calle — de todos modos, andar sin casco no es recomendable independientemente de lo que exija la ley.` },
+    ],
+    internalLinks: [
+      { label: "Ver toda la categoría Movilidad", href: "/categoria/movilidad" },
+      { label: "Bicicleta rodado 29: cuál comprar en Argentina", href: "/guias/movilidad/bicicleta-rodado-29" },
+      { label: "Monopatín eléctrico: cuál comprar en Argentina", href: "/guias/movilidad/monopatin-electrico" },
+    ],
+    internalLinksTitle: "Más de movilidad",
+  },
 ];
 
 /**
