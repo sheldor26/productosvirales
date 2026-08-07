@@ -22,7 +22,9 @@ const DESCRIPTION =
 // la URL, aunque el body haga notFound().
 export const metadata: Metadata = PUBLISHED
   ? {
-      title: TITLE,
+      // `absolute`: sin el sufijo ` | ProductosVirales` del layout raíz, que
+      // dejaba el título en 67 caracteres (la SERP corta cerca de 60).
+      title: { absolute: TITLE },
       description: DESCRIPTION,
       alternates: { canonical: PAGE_URL },
       openGraph: {

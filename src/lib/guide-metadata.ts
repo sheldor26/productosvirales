@@ -14,7 +14,11 @@ export function buildGuideMetadata(guide: Guide | undefined): Metadata {
   const ogDesc = injectLivePrices(guide.ogDescription || guide.metaDescription);
 
   return {
-    title: guide.seoTitle,
+    // `absolute` saltea el template `%s | ProductosVirales` del layout raíz.
+    // Ese sufijo comía 19 de los ~60 caracteres que Google muestra en la SERP
+    // y, sin reconocimiento de marca todavía, no aporta clicks: los caracteres
+    // rinden mucho más para la keyword. Las fichas de producto ya lo hacían.
+    title: { absolute: guide.seoTitle },
     description: metaDesc,
     alternates: {
       canonical: url,
