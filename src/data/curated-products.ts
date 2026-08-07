@@ -31,7 +31,7 @@ export const curatedProducts: Product[] = [
     rating: 5,
     reviewCount: 129,
     reviewsSampledAt: "2026-07-03",
-    pastelColor: "var(--pastel-verde)",
+    pastelColor: "var(--pastel-green)",
     visibility: "normal",
     seoTitle: "Samsung Odyssey G30D 24: 180Hz reales, ¿cómo activarlos?",
     metaDescription: "Monitor Samsung Odyssey G30D 24 FHD 180Hz: panel VA, HDR10 y pie con altura regulable. Viene en 60Hz de fábrica, cómo activar los 180 explicado acá.",
@@ -171,7 +171,7 @@ A $244.361 con 5 estrellas en 108 calificaciones, es de los 180 Hz reales más a
     rating: 4.8,
     reviewCount: 1559,
     reviewsSampledAt: "2026-07-03",
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     seoTitle: "Samsung Odyssey CRG5 24 curvo: el más vendido, ¿tiene VESA?",
     metaDescription: "Monitor Samsung Odyssey CRG5 24 curvo 144Hz: el gamer más vendido de Argentina con 4.8★ en 1.502 calificaciones. La ficha dice VESA 75x75, los compradores dicen que no. Lo aclaramos acá.",
@@ -309,7 +309,7 @@ A $365.999 con 4.8 estrellas en 1.502 calificaciones, sigue siendo la apuesta m�
     rating: 4.9,
     reviewCount: 752,
     reviewsSampledAt: "2026-07-03",
-    pastelColor: "var(--pastel-verde)",
+    pastelColor: "var(--pastel-green)",
     visibility: "normal",
     seoTitle: "Noblex NXSM2700 27 IPS 100Hz: el único IPS de la gama",
     metaDescription: "Monitor Noblex NXSM2700 27 IPS 100Hz: 4.9★ en 739 calificaciones. Panel grande con brazo VESA, 2 HDMI reales y sin FreeSync Premium. La ficha honesta acá.",
@@ -444,7 +444,7 @@ A $223.199 con el mejor puntaje de la selección (4.9⭐ en 739 calificaciones),
     rating: 4.8,
     reviewCount: 2526,
     reviewsSampledAt: "2026-07-03",
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     seoTitle: "Philips 241V8L 24: el más vendido, ¿sirve para gaming?",
     metaDescription: "Monitor Philips 241V8L 24 Full HD: el monitor más vendido de Argentina, 4.8★ en 2.468 calificaciones. Para trabajo va de diez, para gaming la ficha honesta acá.",
@@ -585,7 +585,7 @@ A $159.099 con 4.8 estrellas en 2.468 calificaciones, es la entrada más segura 
     rating: 4.9,
     reviewCount: 866,
     reviewsSampledAt: "2026-07-03",
-    pastelColor: "var(--pastel-verde)",
+    pastelColor: "var(--pastel-green)",
     visibility: "normal",
     seoTitle: "Noblex NXSM2200 22 100Hz: el más barato con respaldo real",
     metaDescription: "Monitor Noblex NXSM2200 22 100Hz: 4.9★ en 845 calificaciones, el más barato de la selección. Cómo activar los 100Hz, el ghosting real y la letra chica del 1ms.",
@@ -718,7 +718,7 @@ A $141.899 con 4.9 estrellas en 845 calificaciones, es la entrada al gaming con 
     rating: 4.7,
     reviewCount: 26,
     reviewsSampledAt: "2026-07-03",
-    pastelColor: "var(--pastel-violeta)",
+    pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     seoTitle: "Samsung Odyssey G5 27 QHD 165Hz: el salto premium, ¿vale?",
     metaDescription: "Monitor Samsung Odyssey G5 27 curvo QHD 165Hz: 4.7★, pocas opiniones (26) pero consistentes. Ojo: no siempre trae cable HDMI. La ficha honesta acá.",
@@ -845,7 +845,7 @@ A $554.413 con 4.7 estrellas, es el salto premium correcto dentro del catálogo,
     rating: 4.8,
     reviewCount: 1351,
     reviewsSampledAt: "2026-07-03",
-    pastelColor: "var(--pastel-violeta)",
+    pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     seoTitle: "Xiaomi G34WQi 34 180Hz: ojo, no es IPS pese a la ficha",
     metaDescription: "Monitor Xiaomi G34WQi 34 ultrawide 180Hz: 4.8★ en 1.250 calificaciones. La publicación dice panel IPS; compradores y fabricante confirman que es VA. Todo el detalle acá.",
@@ -984,7 +984,7 @@ A $629.999 con 4.8 estrellas en 1.250 calificaciones, es la puerta de entrada m�
     rating: 4.9,
     reviewCount: 232,
     reviewsSampledAt: "2026-07-03",
-    pastelColor: "var(--pastel-violeta)",
+    pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     seoTitle: "Gigabyte GS34WQC 34: el ultrawide de marca gamer, ¿vale?",
     metaDescription: "Monitor Gigabyte GS34WQC 34 curvo UWQHD 120Hz: 4.9★ en 234 calificaciones, el mejor puntaje de los ultrawide. Panel VA con negros grisáceos y HDR básico, honesto acá.",
@@ -1118,7 +1118,7 @@ A $919.599 con 4.9 estrellas en 234 calificaciones, es el ultrawide con mejor re
     freeShipping: true,
     rating: 4.7,
     reviewCount: 6629,
-    pastelColor: "var(--pastel-verde)",
+    pastelColor: "var(--pastel-green)",
     visibility: "normal",
     specs: [
       { label: "Tapizado", value: "Cuero sintético" },
@@ -1239,7 +1239,7 @@ Comprala si querés una silla gamer barata, funcional y con lumbar regulable par
     freeShipping: true,
     rating: 4.9,
     reviewCount: 1459,
-    pastelColor: "var(--pastel-violeta)",
+    pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     specs: [
       { label: "Tapizado", value: "Cuero PVC transpirable" },
@@ -1359,7 +1359,7 @@ Comprá la Cougar Armor Elite Royal si querés una silla que te dure años, pas�
     freeShipping: true,
     rating: 4.9,
     reviewCount: 406,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Tapizado", value: "Tela (más fresca, transpirable)" },
@@ -1477,7 +1477,7 @@ Comprala si tu problema número uno es el calor y la transpiración, no el ajust
     freeShipping: true,
     rating: 4.6,
     reviewCount: 1787,
-    pastelColor: "var(--pastel-verde)",
+    pastelColor: "var(--pastel-green)",
     visibility: "normal",
     specs: [
       { label: "Tapizado", value: "Cuero sintético" },
@@ -1596,7 +1596,7 @@ Comprala si querés una silla reclinable con apoyabrazos regulables, almohadas i
     freeShipping: true,
     rating: 4.9,
     reviewCount: 1151,
-    pastelColor: "var(--pastel-violeta)",
+    pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     specs: [
       { label: "Tapizado", value: "Tela (transpirable)" },
@@ -1719,7 +1719,7 @@ Comprala si querés una silla de marca top, valorás los apoyabrazos 4D y la tel
     rating: 4.9,
     reviewCount: 54194,
     reviewsSampledAt: "2026-07-04",
-    pastelColor: "var(--pastel-verde)",
+    pastelColor: "var(--pastel-green)",
     visibility: "normal",
     seoTitle: "Logitech G203 Lightsync: el mouse gamer más vendido de AR",
     metaDescription: "Mouse Logitech G203 Lightsync: 4.9★ en 52.576 calificaciones, el más vendido de Argentina. Switches Omron de 10M clicks, cable delicado y chico para manos grandes.",
@@ -1861,7 +1861,7 @@ A $34.799 con 4.9 estrellas en 52.576 calificaciones, sigue siendo la compra seg
     rating: 4.9,
     reviewCount: 27829,
     reviewsSampledAt: "2026-07-04",
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     seoTitle: "Logitech G305 Lightspeed: el inalámbrico más vendido de AR",
     metaDescription: "Mouse Logitech G305 Lightspeed: 4.9★ en 27.331 calificaciones. Sensor HERO de 12.000 DPI, sin RGB, con pila AA. El modo ahorro que limita el polling rate, explicado.",
@@ -2001,7 +2001,7 @@ A $56.099 con 4.9 estrellas en 27.331 calificaciones, es la forma más segura de
     rating: 4.8,
     reviewCount: 6118,
     reviewsSampledAt: "2026-07-04",
-    pastelColor: "var(--pastel-verde)",
+    pastelColor: "var(--pastel-green)",
     visibility: "normal",
     seoTitle: "Redragon Centrophorus M601: el más barato con pesas ajustables",
     metaDescription: "Mouse Redragon Centrophorus M601 RGB: 4.8★ en 6.005 calificaciones. Pesas ajustables, cable mallado y RGB. La ficha honesta: no es para gaming muy exigente.",
@@ -2136,7 +2136,7 @@ A $26.500 con 4.8 estrellas en 6.005 calificaciones, es la entrada más barata a
     rating: 4.9,
     reviewCount: 743,
     reviewsSampledAt: "2026-07-04",
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     seoTitle: "Logitech G309 Lightspeed: el sucesor del G305, ¿vale el salto?",
     metaDescription: "Mouse Logitech G309 Lightspeed: 4.9★ en 692 calificaciones. Sensor HERO 25K, dual Lightspeed+Bluetooth, sin el doble clic del G305. La batería dura menos, honesto acá.",
@@ -2271,7 +2271,7 @@ A $73.399 con 4.9 estrellas en 692 calificaciones, es el upgrade lógico dentro 
     rating: 4.9,
     reviewCount: 937,
     reviewsSampledAt: "2026-07-04",
-    pastelColor: "var(--pastel-violeta)",
+    pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     seoTitle: "Logitech G Pro Wireless: el mouse de e-sports, ¿vale $141K?",
     metaDescription: "Mouse Logitech G Pro Wireless: 4.9★ en 934 calificaciones. Mismo sensor que el Superlight pero 10g más pesado y con teflón común. Micro-USB, no USB-C. Todo el detalle acá.",
@@ -2405,7 +2405,7 @@ A $140.923 con 4.9 estrellas en 934 calificaciones, es la puerta de entrada más
     rating: 4.8,
     reviewCount: 178,
     reviewsSampledAt: "2026-07-04",
-    pastelColor: "var(--pastel-violeta)",
+    pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     seoTitle: "Logitech PRO X Superlight 2: el tope de gama, ¿lo vale?",
     metaDescription: "Mouse Logitech PRO X Superlight 2: 4.8★ en 170 calificaciones. 60g, HERO 2, hasta 8.000Hz de polling (batería a 20h en ese modo). El precio, ¿lo justifica? Acá.",
@@ -2544,7 +2544,7 @@ A $288.469 con 4.8 estrellas en 170 calificaciones, es el tope de gama honesto: 
     freeShipping: true,
     rating: 4.9,
     reviewCount: 28276,
-    pastelColor: "var(--pastel-verde)",
+    pastelColor: "var(--pastel-green)",
     visibility: "normal",
     specs: [
       { label: "Tipo", value: "Mecánico" },
@@ -2664,7 +2664,7 @@ Comprá el K552 si querés tu primer mecánico de verdad, jugás solo o no te mo
     freeShipping: true,
     rating: 4.9,
     reviewCount: 3079,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Tipo", value: "Membrana (silencioso, económico)" },
@@ -2784,7 +2784,7 @@ Comprá este teclado si querés gamer silencioso, en español con ñ y de marca,
     freeShipping: true,
     rating: 4.8,
     reviewCount: 514,
-    pastelColor: "var(--pastel-violeta)",
+    pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     specs: [
       { label: "Tipo", value: "Mecánico, switch red (lineal y silencioso)" },
@@ -2906,7 +2906,7 @@ Comprá el F75 si querés el mejor sonido y tacto por la plata, te copa la idea 
     freeShipping: true,
     rating: 4.8,
     reviewCount: 3475,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Tipo", value: "Membrana" },
@@ -3025,7 +3025,7 @@ Comprá el G213 si querés un teclado de marca, silencioso, que aguante un líqu
     freeShipping: true,
     rating: 4.7,
     reviewCount: 551,
-    pastelColor: "var(--pastel-verde)",
+    pastelColor: "var(--pastel-green)",
     visibility: "normal",
     specs: [
       { label: "Tipo", value: "Mecánico, switch red (silencioso)" },
@@ -3147,7 +3147,7 @@ Comprá el K622 Horus si querés un mecánico silencioso, fino y en español, y 
     freeShipping: true,
     rating: 4.8,
     reviewCount: 790,
-    pastelColor: "var(--pastel-violeta)",
+    pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     specs: [
       { label: "Tipo", value: "Mecánico óptico (respuesta rapidísima)" },
@@ -3268,7 +3268,7 @@ Sí, si jugás competitivo, valorás los switches ópticos y querés un teclado 
     freeShipping: true,
     rating: 4.8,
     reviewCount: 4311,
-    pastelColor: "var(--pastel-verde)",
+    pastelColor: "var(--pastel-green)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Redragon" },
@@ -3343,7 +3343,7 @@ Compralo si querés un 60% real para gaming, en español, con el respaldo de res
     freeShipping: true,
     rating: 4.8,
     reviewCount: 666,
-    pastelColor: "var(--pastel-lila)",
+    pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Havit" },
@@ -3417,7 +3417,7 @@ Compralo si preferís comprarle directo a la tienda oficial de la marca, no te c
     freeShipping: true,
     rating: 4.7,
     reviewCount: 554,
-    pastelColor: "var(--pastel-celeste)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Noga" },
@@ -3489,7 +3489,7 @@ Compralo si el presupuesto manda y querés entrar al formato 60% gastando lo mí
     freeShipping: true,
     rating: 5.0,
     reviewCount: 3,
-    pastelColor: "var(--pastel-amarillo)",
+    pastelColor: "var(--pastel-amber)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Netmak" },
@@ -3566,7 +3566,7 @@ Compralo si te importa específicamente tener switches Cherry MX originales y no
     rating: 4.7,
     reviewCount: 1518,
     ratingBreakdown: { five: "79.59%", four: "12.68%", three: "3.66%", two: "1.63%", one: "2.44%" },
-    pastelColor: "var(--pastel-verde)",
+    pastelColor: "var(--pastel-green)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Gadnic" },
@@ -3650,7 +3650,7 @@ Comprá el K4 Move si querés armar tu primer setup gamer completo (teclado + mo
     rating: 4.5,
     reviewCount: 270,
     ratingBreakdown: { five: "74.33%", four: "13.08%", three: "5.08%", two: "2.42%", one: "5.08%" },
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Senon" },
@@ -3731,7 +3731,7 @@ Comprá el Senon 4 en 1 si estás armando tu setup gamer de cero y preferís res
     rating: 4.8,
     reviewCount: 89,
     ratingBreakdown: { five: "82.95%", four: "12.5%", three: "4.55%", two: "0%", one: "0%" },
-    pastelColor: "var(--pastel-violeta)",
+    pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Level Up" },
@@ -3817,7 +3817,7 @@ Comprá el Level Up Pegasus si ya decidiste que querés un teclado mecánico de 
     freeShipping: true,
     rating: 4.8,
     reviewCount: 1103,
-    pastelColor: "var(--pastel-verde)",
+    pastelColor: "var(--pastel-green)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Redragon" },
@@ -3928,7 +3928,7 @@ Es para vos si: ya decidiste que querés un teclado mecánico de verdad, te copa
     freeShipping: true,
     rating: 4.7,
     reviewCount: 16301,
-    pastelColor: "var(--pastel-verde)",
+    pastelColor: "var(--pastel-green)",
     visibility: "normal",
     specs: [
       { label: "Conexión", value: "Con cable (jack/USB)" },
@@ -4045,7 +4045,7 @@ Comprá el G9000 si es tu primer headset gamer y querés gastar lo mínimo. Para
     freeShipping: true,
     rating: 4.8,
     reviewCount: 8881,
-    pastelColor: "var(--pastel-violeta)",
+    pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     specs: [
       { label: "Conexión", value: "Con cable" },
@@ -4164,7 +4164,7 @@ Comprá el BlackShark V2 X si jugás competitivo en PC y querés sonido posicion
     freeShipping: true,
     rating: 4.7,
     reviewCount: 9477,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Conexión", value: "Inalámbrico (Bluetooth y 2.4 GHz)" },
@@ -4277,7 +4277,7 @@ Comprá el G435 si jugás en PC, PlayStation, Switch o celular y querés algo in
     freeShipping: true,
     rating: 4.8,
     reviewCount: 1141,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Conexión", value: "Con cable" },
@@ -4399,7 +4399,7 @@ Compralo si jugás muchas horas seguidas y la comodidad es tu prioridad número 
     freeShipping: true,
     rating: 4.7,
     reviewCount: 2715,
-    pastelColor: "var(--pastel-verde)",
+    pastelColor: "var(--pastel-green)",
     visibility: "normal",
     specs: [
       { label: "Conexión", value: "Inalámbrico (Bluetooth, recargable USB)" },
@@ -4522,7 +4522,7 @@ Sí, si querés un auricular inalámbrico para jugar y escuchar música sin gast
     freeShipping: true,
     rating: 4.8,
     reviewCount: 5175,
-    pastelColor: "var(--pastel-violeta)",
+    pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     specs: [
       { label: "Conexión", value: "Inalámbrico (2.4 GHz)" },
@@ -4642,7 +4642,7 @@ Comprá el G733 si jugás en PC o PlayStation, querés inalámbrico sin lag y va
     freeShipping: true,
     rating: 4.6,
     reviewCount: 4219,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Capacidad", value: "20 litros" },
@@ -4773,7 +4773,7 @@ Es un microondas honesto: hace lo básico bien, es barato y tiene respaldo de ma
     freeShipping: true,
     rating: 4.7,
     reviewCount: 5692,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Capacidad", value: "20 litros" },
@@ -4895,7 +4895,7 @@ Es una compra sensata si tu uso es el común. BGH digital, descongelado por peso
     freeShipping: true,
     rating: 4.7,
     reviewCount: 3642,
-    pastelColor: "var(--pastel-violeta)",
+    pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     specs: [
       { label: "Capacidad", value: "23 litros" },
@@ -5029,7 +5029,7 @@ Buen microondas con grill, con la marca y el service de Samsung detrás, y 4.7 e
     freeShipping: true,
     rating: 4.8,
     reviewCount: 2864,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Capacidad", value: "28 litros (grande)" },
@@ -5150,7 +5150,7 @@ El BGH B228DS20 es un microondas grande, digital y con grill, de marca nacional 
     freeShipping: true,
     rating: 4.8,
     reviewCount: 2365,
-    pastelColor: "var(--pastel-verde)",
+    pastelColor: "var(--pastel-green)",
     visibility: "normal",
     specs: [
       { label: "Capacidad", value: "20 litros" },
@@ -5254,7 +5254,7 @@ Es una compra sensata si tu uso es el común y preferís la marca Atma. Control 
     freeShipping: true,
     rating: 4.9,
     reviewCount: 88,
-    pastelColor: "var(--pastel-violeta)",
+    pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     specs: [
       { label: "Capacidad", value: "25 litros" },
@@ -5388,7 +5388,7 @@ El LG MH6535GIS es el microondas premium de la categoría y se justifica para qu
     freeShipping: true,
     rating: 4.7,
     reviewCount: 2081,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Capacidad", value: "23 litros" },
@@ -5652,7 +5652,7 @@ Por casi 1.600 opiniones y 4.7 estrellas, el Atma MD1723GN es un microondas con 
     freeShipping: true,
     rating: 4.8,
     reviewCount: 765,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Capacidad", value: "20 litros" },
@@ -5781,7 +5781,7 @@ El Atma MATRB20AN hace una cosa y la hace bien: calentar y descongelar para una 
     freeShipping: true,
     rating: 4.8,
     reviewCount: 354,
-    pastelColor: "var(--pastel-violeta)",
+    pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     specs: [
       { label: "Capacidad", value: "25 litros" },
@@ -5913,7 +5913,7 @@ Microondas grande, con grill y panel digital, de una marca con respaldo en Argen
     freeShipping: true,
     rating: 4.7,
     reviewCount: 2388,
-    pastelColor: "var(--pastel-verde)",
+    pastelColor: "var(--pastel-green)",
     visibility: "normal",
     specs: [
       { label: "Capacidad", value: "45 litros" },
@@ -6045,7 +6045,7 @@ El más vendido del país lo es por una razón: cumple lo que promete a un preci
     freeShipping: true,
     rating: 4.8,
     reviewCount: 1172,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Capacidad", value: "17 litros (chico)" },
@@ -6166,7 +6166,7 @@ El UC-17 hace bien lo que promete: calentar, tostar, dorar con grill y ocupar po
     freeShipping: true,
     rating: 4.7,
     reviewCount: 1893,
-    pastelColor: "var(--pastel-ambar)",
+    pastelColor: "var(--pastel-amber)",
     visibility: "deprioritized",
     specs: [
       { label: "Capacidad", value: "65 litros (grande)" },
@@ -6299,7 +6299,7 @@ El BGH de 65 litros es uno de los hornos de sobremesa más amplios que vas a enc
     freeShipping: true,
     rating: 4.8,
     reviewCount: 1420,
-    pastelColor: "var(--pastel-violeta)",
+    pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     specs: [
       { label: "Capacidad", value: "50 litros (35 útiles)" },
@@ -6426,7 +6426,7 @@ Es de los hornos de mesa más completos para cocinar en serio sin horno de cocin
     freeShipping: true,
     rating: 4.7,
     reviewCount: 1155,
-    pastelColor: "var(--pastel-ambar)",
+    pastelColor: "var(--pastel-amber)",
     visibility: "normal",
     specs: [
       { label: "Capacidad", value: "45 litros" },
@@ -6558,7 +6558,7 @@ El BGH BHE45S22 es un horno grande, completo y de marca confiable a un precio ra
     freeShipping: true,
     rating: 4.7,
     reviewCount: 1776,
-    pastelColor: "var(--pastel-verde)",
+    pastelColor: "var(--pastel-green)",
     visibility: "normal",
     specs: [
       { label: "Capacidad", value: "40 litros" },
@@ -6691,7 +6691,7 @@ Para sumar horno y dos hornallas sin instalar gas, el Atma HG4022API cumple: 40 
     freeShipping: true,
     rating: 4.7,
     reviewCount: 1556,
-    pastelColor: "var(--pastel-verde)",
+    pastelColor: "var(--pastel-green)",
     visibility: "normal",
     specs: [
       { label: "Capacidad", value: "50 litros" },
@@ -6814,7 +6814,7 @@ El HGA5021N es un horno grande y honesto para cocina familiar de todos los días
     freeShipping: true,
     rating: 4.7,
     reviewCount: 730,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Capacidad", value: "30 litros" },
@@ -6948,7 +6948,7 @@ El Atma HGA3022 es una compra sensata para una pareja o familia chica que quiere
     freeShipping: true,
     rating: 4.6,
     reviewCount: 612,
-    pastelColor: "var(--pastel-ambar)",
+    pastelColor: "var(--pastel-amber)",
     visibility: "normal",
     specs: [
       { label: "Capacidad", value: "23 litros (14 útiles)" },
@@ -7074,7 +7074,7 @@ Es un dos en uno honesto para uso de a poco. 1800 W, grill completo, convección
     freeShipping: true,
     rating: 4.8,
     reviewCount: 123,
-    pastelColor: "var(--pastel-violeta)",
+    pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     specs: [
       { label: "Capacidad del bowl", value: "4.7 litros" },
@@ -7206,7 +7206,7 @@ El Suono Neochef Pro es la entrada honesta al mundo del robot de cocina multifun
     freeShipping: true,
     rating: 4.5,
     reviewCount: 92,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Capacidad del bowl", value: "3.3 litros" },
@@ -7336,7 +7336,7 @@ No: familias grandes (el bowl de 1.5 litros útiles te frena), gente que quiere 
     freeShipping: true,
     rating: 4.6,
     reviewCount: 14,
-    pastelColor: "var(--pastel-verde)",
+    pastelColor: "var(--pastel-green)",
     visibility: "normal",
     specs: [
       { label: "Capacidad del bowl", value: "4.5 litros" },
@@ -7594,7 +7594,7 @@ El Atma Mix II 3L es una compra razonable para entrar al mundo de los robots de 
     freeShipping: true,
     rating: 4.8,
     reviewCount: 72,
-    pastelColor: "var(--pastel-violeta)",
+    pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     specs: [
       { label: "Capacidad del bowl", value: "3 litros" },
@@ -8100,7 +8100,7 @@ No: si tenés inducción, si buscás tazones grandes de café largo, o si queré
     freeShipping: true,
     rating: 4.7,
     reviewCount: 167,
-    pastelColor: "var(--pastel-lila)",
+    pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     specs: [
       { label: "Tipo", value: "Sillón masajeador full-body" },
@@ -8239,7 +8239,7 @@ El Gadnic Titanium es la opción completa del rango medio: cubre todo el cuerpo,
     freeShipping: true,
     rating: 4.5,
     reviewCount: 297,
-    pastelColor: "var(--pastel-lila)",
+    pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     specs: [
       { label: "Tipo", value: "Silla de oficina ejecutiva con masaje" },
@@ -8369,7 +8369,7 @@ El Nictom SDO02 entrega lo que es: una silla de oficina decente con un toque de 
     freeShipping: true,
     rating: 4.8,
     reviewCount: 34,
-    pastelColor: "var(--pastel-lila)",
+    pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     specs: [
       { label: "Tipo", value: "Sillón masajeador" },
@@ -8504,7 +8504,7 @@ El Melfit Maui es un sillón masajeador completo y bien valorado, con masaje de 
     freeShipping: true,
     rating: 4.9,
     reviewCount: 37,
-    pastelColor: "var(--pastel-lila)",
+    pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     specs: [
       { label: "Tipo", value: "Sillón reclinable masajeador" },
@@ -8649,7 +8649,7 @@ El Excalibur Manual es honesto en lo que es: el sillón masajeador más barato d
     projection: "Alta",
     originCountry: "Emiratos Árabes Unidos",
     launchYear: 2022,
-    pastelColor: "var(--pastel-ambar)",
+    pastelColor: "var(--pastel-amber)",
     visibility: "normal",
     specs: [
       { label: "Concentración", value: "Eau de Parfum (EDP)" },
@@ -9517,7 +9517,7 @@ Para calor inmediato y barato a una persona, la Winco W173 cumple y cuesta poco.
     freeShipping: true,
     rating: 4.8,
     reviewCount: 31672,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Tipo", value: "Parlante bluetooth ultraportátil" },
@@ -9648,7 +9648,7 @@ El Sound Pocket es el parlante de "lo quiero barato, resistente y para llevar". 
     freeShipping: true,
     rating: 4.8,
     reviewCount: 15854,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Tipo", value: "Parlante bluetooth portátil chico" },
@@ -9774,7 +9774,7 @@ El JBL Go Essential hace una cosa y la hace bien: ser un JBL chico, sumergible y
     freeShipping: true,
     rating: 4.8,
     reviewCount: 469,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Tipo", value: "Parlante bluetooth portátil mediano" },
@@ -9903,7 +9903,7 @@ El Flip 7 es el medio de la gama JBL bien resuelto: potente para su tamaño, res
     freeShipping: true,
     rating: 4.9,
     reviewCount: 233,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Tipo", value: "Parlante bluetooth grande" },
@@ -10034,7 +10034,7 @@ Si solo escuchás en casa, querés entrada auxiliar o usarlo de manos libres, no
     freeShipping: true,
     rating: 4.9,
     reviewCount: 257,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Tipo", value: "Parlante bluetooth de fiesta" },
@@ -10164,7 +10164,7 @@ No: si lo querés para el escritorio, para llevarlo en mochila a diario, o si bu
     freeShipping: true,
     rating: 4.6,
     reviewCount: 3235,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Tipo", value: "Torre de sonido para el hogar" },
@@ -10292,7 +10292,7 @@ Por el precio, la MNT290 hace lo que promete para uso hogareño: sonido fuerte e
     freeShipping: true,
     rating: 4.7,
     reviewCount: 1887,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Tipo", value: "Torre de sonido para el hogar" },
@@ -10416,7 +10416,7 @@ Cumple lo que promete para fiesta y karaoke: micrófono incluido, 9 horas de bat
     freeShipping: true,
     rating: 4.7,
     reviewCount: 351,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Tipo", value: "Torre de sonido para el hogar" },
@@ -10548,7 +10548,7 @@ La AW-T2018R vale por lo práctico: batería de 6 horas, power bank, dos micróf
     freeShipping: true,
     rating: 4.7,
     reviewCount: 923,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Tipo", value: "Parlante 2 en 1 (par que se separa)" },
@@ -10680,7 +10680,7 @@ El Twin 2 es un parlante honesto en su lugar: chico, prolijo, con la gracia de l
     freeShipping: true,
     rating: 4.8,
     reviewCount: 239,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Tipo", value: "Parlante 2 en 1 grande (par que se separa)" },
@@ -10811,7 +10811,7 @@ El Mega Twin es un parlante de ambiente honesto: 20W reales, formato 2 en 1 que 
     freeShipping: true,
     rating: 4.7,
     reviewCount: 117,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Tipo", value: "Parlante portátil compacto" },
@@ -10954,7 +10954,7 @@ Las pegas son claras: 20W para un ambiente, carga lenta 5V 1A y sonido de fiesta
     freeShipping: true,
     rating: 4.8,
     reviewCount: 206328,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Tipo", value: "In-ear inalámbricos (TWS)" },
@@ -11083,7 +11083,7 @@ El más vendido por algo: cumplen lo justo, cuestan poco y la marca responde. Bl
     freeShipping: true,
     rating: 4.9,
     reviewCount: 58320,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Tipo", value: "De vincha (on-ear) inalámbricos" },
@@ -11211,7 +11211,7 @@ La WH-CH520 hace bien lo que promete: vincha barata, liviana, con batería bruta
     freeShipping: true,
     rating: 4.8,
     reviewCount: 8314,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Tipo", value: "In-ear premium (TWS) con cancelación de ruido" },
@@ -11342,7 +11342,7 @@ Buen auricular, condicionado. Suena muy bien, está bien construido y resiste el
     freeShipping: true,
     rating: 4.9,
     reviewCount: 1104,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Tipo", value: "Over-ear (vincha) con cancelación de ruido" },
@@ -11473,7 +11473,7 @@ Un auricular de gama media honesto. La batería y el precio son lo más fuerte; 
     freeShipping: true,
     rating: 4.6,
     reviewCount: 3238,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Tipo", value: "Deportivos con gancho de oreja (TWS)" },
@@ -11602,7 +11602,7 @@ A 24.875 pesos, con gancho de oreja, Bluetooth 5.3 y 4.7 estrellas en más de 3.
     freeShipping: true,
     rating: 4.7,
     reviewCount: 10864,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Tipo", value: "In-ear inalámbricos (TWS)" },
@@ -11729,7 +11729,7 @@ Si en cambio buscás algo discreto, sonido cuidado, cancelación de ruido o resi
     freeShipping: true,
     rating: 4.8,
     reviewCount: 800,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Tipo", value: "In-ear inalámbricos (TWS)" },
@@ -11858,7 +11858,7 @@ El Wave Beam 2 es un in-ear de entrada bien resuelto: ANC, 40 horas de batería,
     freeShipping: true,
     rating: 4.9,
     reviewCount: 37504,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Tipo", value: "De vincha (on-ear) inalámbricos" },
@@ -11981,7 +11981,7 @@ La Tune 520BT hace bien lo básico: suena correcta, dura muchísimo y cuesta poc
     freeShipping: true,
     rating: 4.9,
     reviewCount: 28573,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Tipo", value: "De vincha (on-ear) inalámbricos" },
@@ -12116,7 +12116,7 @@ La 720BT es una vincha honesta de entrada: batería enorme, graves Pure Bass, mu
     freeShipping: true,
     rating: 4.6,
     reviewCount: 2662,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Tipo", value: "In-ear deportivos (TWS)" },
@@ -12231,7 +12231,7 @@ El Lenovo XT80 es una compra honesta si sabés qué estás comprando: auriculare
     freeShipping: true,
     rating: 4.6,
     reviewCount: 473,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Tipo", value: "Open ear deportivos (no tapan el oído)" },
@@ -12353,7 +12353,7 @@ Si corrés o pedaleás afuera y querés escuchar música sin desconectarte del t
     freeShipping: true,
     rating: 4.9,
     reviewCount: 5590,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Tipo", value: "Auriculares de estudio cerrados (over-ear)" },
@@ -12494,7 +12494,7 @@ El ATH-M20x hace una cosa y la hace bien: ser el monitor de estudio mas barato d
     freeShipping: true,
     rating: 4.9,
     reviewCount: 2239,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Tipo", value: "Auriculares de estudio cerrados (over-ear)" },
@@ -12625,7 +12625,7 @@ El ATH-M30x es la opción correcta para producir en casa con presupuesto medido:
     freeShipping: true,
     rating: 4.9,
     reviewCount: 2787,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Tipo", value: "Auriculares de estudio cerrados (over-ear)" },
@@ -12745,7 +12745,7 @@ Si tu uso es producir, mezclar, editar o monitorear, el M40x es una de las refer
     freeShipping: true,
     rating: 4.9,
     reviewCount: 1525,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Tipo", value: "Auriculares de estudio cerrados (over-ear)" },
@@ -12870,7 +12870,7 @@ No: si necesitás referencia 100% plana para masterización profesional, si quer
     freeShipping: true,
     rating: 4.8,
     reviewCount: 236,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Tipo", value: "Auriculares de estudio cerrados (over-ear)" },
@@ -23728,7 +23728,7 @@ El paso natural arriba del HY300: más brillo declarado, hasta 150 pulgadas y la
     rating: 4.5,
     reviewCount: 417,
     soldQuantity: 1000,
-    pastelColor: 'var(--pastel-violet)',
+    pastelColor: 'var(--pastel-purple)',
     description: "Marca: Gadnic\nModelo: HY-500 Pro (PROJ097W)\nBrillo: 200 ANSI declarados (9.000/10.000 lm de marketing)\nResolución nativa: 1280 x 720 px\nTamaño de la imagen: 40\" - 120\"\nContraste: 2000:1\nDistancia de proyección: 1 a 3 m\nCon Wi-Fi: Sí\nScreen mirroring: Sí\nEnfoque automático y rotación 270°\nCon control remoto: Sí\nCon parlante: Sí\nVoltaje: 220V",
     articleBody: `El Gadnic HY-500 Pro es el proyector con el que la marca local apunta a la gama media, y tiene una particularidad que lo separa del resto: además de los "9.000 lúmenes" de marketing del título, la ficha declara **200 lúmenes ANSI** — el dato real que casi ningún proyector económico se anima a publicar. Tiene 4.5 estrellas en 395 calificaciones y está entre los 15 más vendidos de la categoría.
 
@@ -29974,7 +29974,7 @@ La Peabody XL de 9 litros es la de mayor capacidad real de este grupo, con el pl
     freeShipping: true,
     rating: 4.8,
     reviewCount: 392,
-    pastelColor: 'var(--pastel-violet)',
+    pastelColor: 'var(--pastel-purple)',
     description: "Freidora de aire Philips Serie 5000 'conectada' (controlable por app), 4.1 litros, controles físicos a perilla.",
     pros: [
       "Versión 'conectada': se puede manejar desde el celular, confirmado por reseñas reales de compradores",
@@ -30102,7 +30102,7 @@ La HD9255/80 es la opción de gama más alta de este grupo por su función conec
     freeShipping: true,
     rating: 4.8,
     reviewCount: 248,
-    pastelColor: 'var(--pastel-lila)',
+    pastelColor: 'var(--pastel-purple)',
     description: "Freidora de aire Philips Serie 1000 de 6.2 litros, control 100% mecánico (perillas), sin pantalla táctil ni accesorios adicionales.",
     pros: [
       "Precio más accesible de este grupo de cuatro fichas",
@@ -48087,7 +48087,7 @@ Para quien quiere algo más que un corte estándar, con la posibilidad de hacer 
     freeShipping: false,
     rating: 4.6,
     reviewCount: 8342,
-    pastelColor: "var(--pastel-verde)",
+    pastelColor: "var(--pastel-green)",
     visibility: "normal",
     specs: [
       { label: "Conexión", value: "Con cable USB (1,5 m)" },
@@ -48161,7 +48161,7 @@ Comprálo si buscás la entrada más barata y más probada de esta guía, con ca
     freeShipping: true,
     rating: 4.4,
     reviewCount: 7784,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Conexión", value: "Inalámbrico 2,4 GHz (dongle USB), carga por micro-USB" },
@@ -48235,7 +48235,7 @@ Comprálo si querés cortar el cable sin pagar el precio de un inalámbrico prem
     freeShipping: true,
     rating: 4.8,
     reviewCount: 5471,
-    pastelColor: "var(--pastel-violeta)",
+    pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     specs: [
       { label: "Conexión", value: "Inalámbrico 2,4 GHz (dongle) o con cable" },
@@ -48309,7 +48309,7 @@ Comprálo si buscás el joystick mejor puntuado de la guía y valorás la flexib
     freeShipping: true,
     rating: 4.7,
     reviewCount: 3188,
-    pastelColor: "var(--pastel-ambar)",
+    pastelColor: "var(--pastel-amber)",
     visibility: "normal",
     specs: [
       { label: "Conexión", value: "Con cable USB (1,98 m)" },
@@ -48457,7 +48457,7 @@ Comprálo si querés la confianza de Logitech en versión inalámbrica, con pila
     freeShipping: true,
     rating: 4.7,
     reviewCount: 1728,
-    pastelColor: "var(--pastel-lila)",
+    pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     specs: [
       { label: "Conexión", value: "Bluetooth o cable USB-C (sin dongle 2,4 GHz confirmado)" },
@@ -48612,7 +48612,7 @@ Comprálo si querés la opción que "simplemente anda" en PC, consola y celular 
     freeShipping: true,
     rating: 4.8,
     reviewCount: 3743,
-    pastelColor: "var(--pastel-ambar)",
+    pastelColor: "var(--pastel-amber)",
     visibility: "normal",
     specs: [
       { label: "Conexión", value: "Xbox Wireless (consola), Bluetooth o USB-C con cable" },
@@ -48771,7 +48771,7 @@ Comprálo si tu uso principal es PC o PS4 y el celular es un plus que estás dis
     freeShipping: true,
     rating: 4.8,
     reviewCount: 1526,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Conexión", value: "Bluetooth, dongle 2,4 GHz o cable USB-C (tri-modo)" },
@@ -48844,7 +48844,7 @@ Comprálo si querés la garantía oficial de compatibilidad con tu celular (Andr
     freeShipping: true,
     rating: 4.9,
     reviewCount: 852,
-    pastelColor: "var(--pastel-violeta)",
+    pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     specs: [
       { label: "Conexión", value: "Bluetooth, dongle 2,4 GHz o cable (tri-modo), polling rate 1000 Hz" },
@@ -48921,7 +48921,7 @@ Comprálo si querés lo más avanzado técnicamente de esta guía (Hall Effect, 
     freeShipping: false,
     rating: 4.4,
     reviewCount: 1546,
-    pastelColor: "var(--pastel-verde)",
+    pastelColor: "var(--pastel-green)",
     visibility: "normal",
     specs: [
       { label: "Conexión", value: "Bluetooth V3.0, hasta 10 m (según el vendedor)" },
@@ -49067,7 +49067,7 @@ Comprálo si tenés PS5 y querés la experiencia completa de gatillos adaptativo
     freeShipping: true,
     rating: 4.9,
     reviewCount: 93828,
-    pastelColor: "var(--pastel-violeta)",
+    pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     specs: [
       { label: "Compatibilidad", value: "PlayStation 5 (oficial), PC, Mac, Android e iOS" },
@@ -49135,7 +49135,7 @@ Comprálo si Galactic Purple es el color que buscás específicamente. Si el pre
     freeShipping: true,
     rating: 4.9,
     reviewCount: 93828,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Compatibilidad", value: "PlayStation 5 (oficial), PC, Mac, Android e iOS" },
@@ -49203,7 +49203,7 @@ Comprálo si Sterling Silver es el color que buscás específicamente. Si el pre
     freeShipping: true,
     rating: 4.9,
     reviewCount: 2965,
-    pastelColor: "var(--pastel-lila)",
+    pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     specs: [
       { label: "Compatibilidad", value: "PC, PlayStation 4, PlayStation 5" },
@@ -49811,7 +49811,7 @@ Ficha creada para la futura guía \`depiladora-laser\`. No está referenciada to
     rating: 4.7,
     reviewCount: 1264,
     ratingBreakdown: { five: "81.75%", four: "13.18%", three: "2.89%", two: "0.64%", one: "1.53%" },
-    pastelColor: "var(--pastel-verde)",
+    pastelColor: "var(--pastel-green)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Philco" },
@@ -49893,7 +49893,7 @@ Comprá el Philco PHP35HC7API si querés un portátil frío/calor confiable para
     rating: 4.8,
     reviewCount: 141,
     ratingBreakdown: { five: "83.21%", four: "12.41%", three: "2.19%", two: "1.46%", one: "0.73%" },
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "BGH" },
@@ -49968,7 +49968,7 @@ Comprá el BGH BP35WCEW si valorás la garantía y el service de una marca recon
     rating: 4.5,
     reviewCount: 53,
     ratingBreakdown: { five: "75.51%", four: "16.33%", three: "2.04%", two: "0%", one: "6.12%" },
-    pastelColor: "var(--pastel-violeta)",
+    pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Surrey" },
@@ -50046,7 +50046,7 @@ Comprá el Surrey Smart Wi-Fi si el control por app te resulta un plus real (pro
     rating: 4.8,
     reviewCount: 74277,
     ratingBreakdown: { five: "86.26%", four: "9.64%", three: "2.29%", two: "0.67%", one: "1.14%" },
-    pastelColor: "var(--pastel-verde)",
+    pastelColor: "var(--pastel-green)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Femmto" },
@@ -50126,7 +50126,7 @@ Comprá la Femmto BWS11 si lo único que necesitás es saber tu peso de forma pr
     rating: 4.8,
     reviewCount: 42213,
     ratingBreakdown: { five: "84.9%", four: "10.39%", three: "2.57%", two: "0.71%", one: "1.43%" },
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Femmto" },
@@ -50477,7 +50477,7 @@ Comprá la Utile UT-1108 si necesitás mayor capacidad de peso (200 kg) o el an�
     rating: 4.8,
     reviewCount: 408,
     ratingBreakdown: { five: "89.24%", four: "8.66%", three: "1.31%", two: "0.26%", one: "0.52%" },
-    pastelColor: "var(--pastel-verde)",
+    pastelColor: "var(--pastel-green)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Noga" },
@@ -50549,7 +50549,7 @@ Comprá la Noga NG-B01 si querés evitar las pilas y buscás un precio accesible
     rating: 4.8,
     reviewCount: 7342,
     ratingBreakdown: { five: "89.75%", four: "7.35%", three: "1.49%", two: "0.55%", one: "0.87%" },
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Logitech" },
@@ -50819,7 +50819,7 @@ Comprá el Sansei SAP26HC9AN si tu prioridad es el precio más bajo y vas a usar
     rating: 4.5,
     reviewCount: 44,
     ratingBreakdown: { five: "68.89%", four: "20%", three: "6.67%", two: "0%", one: "4.44%" },
-    pastelColor: "var(--pastel-violeta)",
+    pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "RCA" },
@@ -51064,7 +51064,7 @@ Comprala si querés vigilar un frente, patio o cochera con una sola cámara que 
     rating: 4.9,
     reviewCount: 6428,
     ratingBreakdown: { five: "90.64%", four: "7.36%", three: "0.98%", two: "0.32%", one: "0.71%" },
-    pastelColor: "var(--pastel-violeta)",
+    pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "TP-Link" },
@@ -51905,7 +51905,7 @@ Comprá este kit si estás construyendo o remodelando (podés pasar los cables p
     rating: 4.6,
     reviewCount: 2852,
     ratingBreakdown: { five: "77.49%", four: "14.95%", three: "4.09%", two: "1.32%", one: "2.16%" },
-    pastelColor: "var(--pastel-verde)",
+    pastelColor: "var(--pastel-green)",
     visibility: "deprioritized",
     specs: [
       { label: "Marca", value: "Gadnic" },
@@ -51982,7 +51982,7 @@ Compralo si querés la mayor autonomía por la menor plata para viajes, cortes d
     freeShipping: true,
     rating: 4.6,
     reviewCount: 3550,
-    pastelColor: "var(--pastel-verde)",
+    pastelColor: "var(--pastel-green)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Gadnic" },
@@ -52057,7 +52057,7 @@ Compralo si querés la mayor autonomía por la menor plata para viajes, cortes d
     rating: 4.8,
     reviewCount: 1682,
     ratingBreakdown: { five: "86.45%", four: "8.69%", three: "2.01%", two: "1.1%", one: "1.75%" },
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Ugreen" },
@@ -52134,7 +52134,7 @@ Compralo si tenés iPhone con MagSafe y valorás cargar sin cables en el escrito
     rating: 4.8,
     reviewCount: 1194,
     ratingBreakdown: { five: "87.24%", four: "9.77%", three: "1.81%", two: "0.45%", one: "0.72%" },
-    pastelColor: "var(--pastel-violeta)",
+    pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Xiaomi" },
@@ -52292,7 +52292,7 @@ Compralo si el porcentaje exacto en pantalla te resuelve una ansiedad real y pre
     rating: 4.9,
     reviewCount: 513,
     ratingBreakdown: { five: "93.44%", four: "4.68%", three: "0.47%", two: "0.47%", one: "0.94%" },
-    pastelColor: "var(--pastel-lila)",
+    pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Xiaomi" },
@@ -52368,7 +52368,7 @@ Compralo si querés el mejor power bank grande de marca: viajes, trabajo en la c
     rating: 4.9,
     reviewCount: 48,
     ratingBreakdown: { five: "93.48%", four: "6.52%", three: "0%", two: "0%", one: "0%" },
-    pastelColor: "var(--pastel-lila)",
+    pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Mcdodo" },
@@ -52526,7 +52526,7 @@ Compralo si trabajás en movilidad con notebook o querés un único cargador par
     freeShipping: true,
     rating: 4.7,
     reviewCount: 336,
-    pastelColor: "var(--pastel-verde)",
+    pastelColor: "var(--pastel-green)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Mixio" },
@@ -52600,7 +52600,7 @@ Compralo si priorizás la máxima capacidad bruta y querés el power bank solar 
     freeShipping: true,
     rating: 4.3,
     reviewCount: 201,
-    pastelColor: "var(--pastel-amarillo)",
+    pastelColor: "var(--pastel-amber)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Gadnic" },
@@ -52674,7 +52674,7 @@ Comprala si te sirven la carga inalámbrica y la linterna integrada, y preferís
     freeShipping: false,
     rating: 4.8,
     reviewCount: 9,
-    pastelColor: "var(--pastel-lila)",
+    pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Ecopower" },
@@ -52747,7 +52747,7 @@ Comprala si te importa la calificación más alta posible y una ficha técnica s
     freeShipping: true,
     rating: 4.3,
     reviewCount: 8,
-    pastelColor: "var(--pastel-celeste)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Lictin" },
@@ -52824,7 +52824,7 @@ Comprala si el presupuesto es lo que más pesa en la decisión y buscás algo si
     rating: 4.8,
     reviewCount: 24038,
     ratingBreakdown: { five: "82.64%", four: "12.36%", three: "2.87%", two: "0.7%", one: "1.43%" },
-    pastelColor: "var(--pastel-verde)",
+    pastelColor: "var(--pastel-green)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "GA.MA Italy" },
@@ -52903,7 +52903,7 @@ Comprala si querés la planchita probada por más gente del país, con turmalina
     rating: 4.8,
     reviewCount: 8411,
     ratingBreakdown: { five: "84.5%", four: "10.79%", three: "2.8%", two: "0.59%", one: "1.32%" },
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Remington" },
@@ -52980,7 +52980,7 @@ Comprala si tu rutina es lavar y planchar, y querés ahorrarte el paso del secad
     rating: 4.8,
     reviewCount: 8292,
     ratingBreakdown: { five: "89.03%", four: "6.98%", three: "1.74%", two: "0.55%", one: "1.7%" },
-    pastelColor: "var(--pastel-violeta)",
+    pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "BaBylissPRO" },
@@ -53211,7 +53211,7 @@ Comprala si tenés pelo largo, grueso o abundante y el planchado te lleva una et
     rating: 4.8,
     reviewCount: 1212,
     ratingBreakdown: { five: "83.04%", four: "11.6%", three: "2.73%", two: "0.68%", one: "1.95%" },
-    pastelColor: "var(--pastel-lila)",
+    pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Allure" },
@@ -53287,7 +53287,7 @@ Comprala si planchás cada tanto y querés gastar lo mínimo, o como primera pla
     freeShipping: true,
     rating: 4.9,
     reviewCount: 1013,
-    pastelColor: "var(--pastel-verde)",
+    pastelColor: "var(--pastel-green)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Lizze" },
@@ -53357,7 +53357,7 @@ Comprala si ya pasaste por una planchita de entrada y buscás el salto real a ni
     freeShipping: true,
     rating: 4.8,
     reviewCount: 2554,
-    pastelColor: "var(--pastel-lila)",
+    pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "BaByliss PRO" },
@@ -53430,7 +53430,7 @@ Comprala si valorás el apagado automático y el control digital de temperatura,
     freeShipping: true,
     rating: 4.8,
     reviewCount: 4543,
-    pastelColor: "var(--pastel-rosa)",
+    pastelColor: "var(--pastel-pink)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "GA.MA Italy" },
@@ -53502,7 +53502,7 @@ Comprala si buscás el mejor balance precio-resultado dentro de la gama profesio
     freeShipping: true,
     rating: 4.6,
     reviewCount: 620,
-    pastelColor: "var(--pastel-celeste)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "VGR" },
@@ -53574,7 +53574,7 @@ Comprala si querés entrar a la gama profesional gastando lo mínimo, o como seg
     rating: 4.6,
     reviewCount: 2071,
     ratingBreakdown: { five: "75%", four: "16.49%", three: "5.11%", two: "1.56%", one: "1.85%" },
-    pastelColor: "var(--pastel-verde)",
+    pastelColor: "var(--pastel-green)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Liliana" },
@@ -53650,7 +53650,7 @@ Compralo si querés el máximo caudal de aire por la menor plata y no te molesta
     rating: 4.7,
     reviewCount: 942,
     ratingBreakdown: { five: "81.06%", four: "13.74%", three: "3.35%", two: "0.76%", one: "1.08%" },
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Axel" },
@@ -55094,7 +55094,7 @@ Es para vos si: querés una pava con infusor de verdad (para té, mate o hasta c
     freeShipping: true,
     rating: 4.7,
     reviewCount: 3646,
-    pastelColor: "var(--pastel-verde)",
+    pastelColor: "var(--pastel-green)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Señorial" },
@@ -55209,7 +55209,7 @@ Comprá el Señorial Zafiro si tu prioridad es el precio y querés el modelo que
     freeShipping: true,
     rating: 4.8,
     reviewCount: 534,
-    pastelColor: "var(--pastel-verde)",
+    pastelColor: "var(--pastel-green)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Sherman (supervisada por Rheem)" },
@@ -55320,7 +55320,7 @@ Comprá el Sherman si tu casa usa bastante agua caliente seguida (dos duchas o m
     freeShipping: true,
     rating: 4.6,
     reviewCount: 372,
-    pastelColor: "var(--pastel-verde)",
+    pastelColor: "var(--pastel-green)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Exahome" },
@@ -55421,7 +55421,7 @@ Comprá el Exahome si vivís solo, en pareja con uso moderado, o necesitás equi
     freeShipping: true,
     rating: 4.7,
     reviewCount: 562,
-    pastelColor: "var(--pastel-verde)",
+    pastelColor: "var(--pastel-green)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Rheem" },
@@ -55539,7 +55539,7 @@ Comprá el Rheem si el consumo eléctrico a largo plazo te importa más que el d
     rating: 4.7,
     reviewCount: 2336,
     soldQuantity: 10000,
-    pastelColor: "var(--pastel-verde)",
+    pastelColor: "var(--pastel-green)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Gadnic" },
@@ -55764,7 +55764,7 @@ Comprá el Silfab V12 si el precio y la capacidad de tanque son lo primero, ente
     rating: 4.6,
     reviewCount: 26,
     soldQuantity: 100,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Daewoo" },
@@ -55862,7 +55862,7 @@ Comprá el Daewoo DHU335 si el nombre de marca reconocida internacionalmente pes
     rating: 4.4,
     reviewCount: 256,
     soldQuantity: 1000,
-    pastelColor: "var(--pastel-violeta)",
+    pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Maverick" },
@@ -55981,7 +55981,7 @@ Comprá el Maverick VP-3 si querés el paquete más completo de funciones (silen
     rating: 4.9,
     reviewCount: 11298,
     soldQuantity: 50000,
-    pastelColor: "var(--pastel-verde)",
+    pastelColor: "var(--pastel-green)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Yelmo" },
@@ -56094,7 +56094,7 @@ Comprá la Yelmo YG-1700 si buscás la opción más probada y económica para em
     rating: 4.9,
     reviewCount: 160,
     soldQuantity: 500,
-    pastelColor: "var(--pastel-violeta)",
+    pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Lüsqtoff" },
@@ -56199,7 +56199,7 @@ Comprá la Lüsqtoff LQ-YT808 si querés temporizador digital y apagado automát
     rating: 4.8,
     reviewCount: 377,
     soldQuantity: 1000,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Daewoo" },
@@ -56429,7 +56429,7 @@ Comprá la Ultracomb YG-2712V si priorizás la mayor cantidad de frascos y una p
     rating: 4.8,
     reviewCount: 7085,
     soldQuantity: 500,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Stanley" },
@@ -56533,7 +56533,7 @@ Comprá el Stanley si el precio no es tu prioridad y valorás el tapón cebador 
     rating: 4.7,
     reviewCount: 30211,
     soldQuantity: 100000,
-    pastelColor: "var(--pastel-verde)",
+    pastelColor: "var(--pastel-green)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Lumilagro" },
@@ -56636,7 +56636,7 @@ Comprá el Lumilagro Luminox si buscás el termo con más respaldo de compradore
     rating: 4.7,
     reviewCount: 3428,
     soldQuantity: 10000,
-    pastelColor: "var(--pastel-violeta)",
+    pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Lüsqtoff" },
@@ -56851,7 +56851,7 @@ Comprá el Waterdog Ombu si el precio es tu prioridad número uno y buscás un t
     rating: 4.2,
     reviewCount: 9800,
     soldQuantity: 50000,
-    pastelColor: "var(--pastel-verde)",
+    pastelColor: "var(--pastel-green)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "TV Stick (marca genérica, sin fabricante reconocido)" },
@@ -57055,7 +57055,7 @@ Comprá el Fire TV Stick 4K Select si vas a usar principalmente las apps grandes
     rating: 4.8,
     reviewCount: 41480,
     soldQuantity: 10000,
-    pastelColor: "var(--pastel-violeta)",
+    pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Amazon" },
@@ -57156,7 +57156,7 @@ Comprá el Fire TV Stick Lite si priorizás el dispositivo con más respaldo de 
     rating: 4.9,
     reviewCount: 618,
     soldQuantity: 500,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Google" },
@@ -57265,7 +57265,7 @@ Comprá el Google TV Streamer si priorizás la mayor potencia técnica (almacena
     rating: 4.7,
     reviewCount: 3506,
     soldQuantity: 10000,
-    pastelColor: "var(--pastel-verde)",
+    pastelColor: "var(--pastel-green)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Liliana" },
@@ -57368,7 +57368,7 @@ Comprá la Liliana Tostler AT900 si el respaldo de ventas es tu prioridad y tost
     freeShipping: true,
     rating: 4.8,
     reviewCount: 3023,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Atma" },
@@ -57465,7 +57465,7 @@ Comprá la Atma To20Wp si querés recalentar tostadas frías además de tostar, 
     rating: 4.7,
     reviewCount: 562,
     soldQuantity: 1000,
-    pastelColor: "var(--pastel-violeta)",
+    pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Philips" },
@@ -57671,7 +57671,7 @@ Comprá la Daewoo DST-6593 si necesitás tostar 4 rebanadas a la vez y no te imp
     rating: 4.8,
     reviewCount: 1622,
     soldQuantity: 5000,
-    pastelColor: "var(--pastel-verde)",
+    pastelColor: "var(--pastel-green)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Peabody" },
@@ -57916,7 +57916,7 @@ Comprá el Winco W118 si el precio más bajo y el mayor respaldo de compradores 
     rating: 4.5,
     reviewCount: 376,
     soldQuantity: 1000,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Kanji" },
@@ -58038,7 +58038,7 @@ Comprá el Kanji Home KJH-FH2012 si el control remoto es una función que valor�
     rating: 4.6,
     reviewCount: 4205,
     soldQuantity: 10000,
-    pastelColor: "var(--pastel-violeta)",
+    pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Liliana" },
@@ -58298,7 +58298,7 @@ Comprá la Ultracomb PC-6800 si necesitás picar y rebanar porciones chicas (2-3
     rating: 4.8,
     reviewCount: 795,
     soldQuantity: 1000,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Philips" },
@@ -58420,7 +58420,7 @@ Comprá la Philips PHHR730490 si el rallado real y el set completo de accesorios
     rating: 4.7,
     reviewCount: 1051,
     soldQuantity: 1000,
-    pastelColor: "var(--pastel-violeta)",
+    pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Atma" },
@@ -58551,7 +58551,7 @@ Comprá la Atma LP8426AP si querés un solo aparato que haga de procesadora y de
     rating: 4.7,
     reviewCount: 3408,
     soldQuantity: 10000,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Oral-B" },
@@ -58672,7 +58672,7 @@ Comprá el Oral-B Power Charcoal si priorizás una marca reconocida con volumen 
     rating: 4.7,
     reviewCount: 884,
     soldQuantity: 1000,
-    pastelColor: "var(--pastel-verde)",
+    pastelColor: "var(--pastel-green)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "GUM" },
@@ -58921,7 +58921,7 @@ Comprá el Suono Premium USB-C si priorizás funciones (sensor de presión, vari
     rating: 4.8,
     reviewCount: 1099,
     soldQuantity: 5000,
-    pastelColor: "var(--pastel-verde)",
+    pastelColor: "var(--pastel-green)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "San-Up" },
@@ -59152,7 +59152,7 @@ Comprá el San-Up ClearBreath si buscás un pistón tradicional completo en acce
     rating: 4.7,
     reviewCount: 3478,
     soldQuantity: 10000,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Omron" },
@@ -59396,7 +59396,7 @@ Comprá el Aspen Air Pro II si valorás no depender de pilas descartables y viaj
     rating: 4.9,
     reviewCount: 28375,
     soldQuantity: 50000,
-    pastelColor: "var(--pastel-verde)",
+    pastelColor: "var(--pastel-green)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Omron" },
@@ -59629,7 +59629,7 @@ Comprá el Coronet YK-BPW4 si el precio es tu prioridad y no te molesta una pequ
     rating: 4.8,
     reviewCount: 6682,
     soldQuantity: 10000,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Omron" },
@@ -59869,7 +59869,7 @@ Comprá el Microlife BP A200 AFIB si buscás la función de detección de arritm
     rating: 4.6,
     reviewCount: 3373,
     soldQuantity: 5000,
-    pastelColor: "var(--pastel-verde)",
+    pastelColor: "var(--pastel-green)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Escorial" },
@@ -59983,7 +59983,7 @@ Comprá el Escorial CE-14L si buscás el mejor precio con el mayor respaldo de c
     rating: 4.9,
     reviewCount: 164,
     soldQuantity: 500,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Rheem" },
@@ -60337,7 +60337,7 @@ Comprá el Peisa 14 TBF si tu baño no tiene buena ventilación y necesitás un 
     rating: 4.9,
     reviewCount: 2339,
     soldQuantity: 1000,
-    pastelColor: "var(--pastel-verde)",
+    pastelColor: "var(--pastel-green)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "EZVIZ (By Hikvision)" },
@@ -60566,7 +60566,7 @@ Comprá la Fika FIK-SML01 si el precio es tu prioridad y el volumen de ventas te
     rating: 5.0,
     reviewCount: 7,
     soldQuantity: 5,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Aqara" },
@@ -60803,7 +60803,7 @@ Comprá el Aqara U300 si querés el respaldo de una marca con fabricante confirm
     rating: 4.8,
     reviewCount: 10180,
     soldQuantity: 10000,
-    pastelColor: "var(--pastel-verde)",
+    pastelColor: "var(--pastel-green)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Contigo" },
@@ -60915,7 +60915,7 @@ Comprala si buscás la botella térmica con más respaldo de compradores reales 
     rating: 4.8,
     reviewCount: 2894,
     soldQuantity: 10000,
-    pastelColor: "var(--pastel-lila)",
+    pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Thermio" },
@@ -61023,7 +61023,7 @@ Comprala si el precio y la capacidad son tu prioridad, y no te molesta cuidarla 
     rating: 5,
     reviewCount: 135,
     soldQuantity: 500,
-    pastelColor: "var(--pastel-violeta)",
+    pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Stanley" },
@@ -61135,7 +61135,7 @@ Comprala si el reconocimiento de marca es tu prioridad y solo la vas a usar para
     rating: 4.9,
     reviewCount: 332,
     soldQuantity: 500,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Coleman" },
@@ -61255,7 +61255,7 @@ Comprala si querés el dato de retención de temperatura más confiable de esta 
     rating: 4.7,
     reviewCount: 2069,
     soldQuantity: 10000,
-    pastelColor: "var(--pastel-verde)",
+    pastelColor: "var(--pastel-green)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Black+Decker" },
@@ -61368,7 +61368,7 @@ Comprala si buscás la parrilla eléctrica con más respaldo de compradores real
     rating: 4.7,
     reviewCount: 70,
     soldQuantity: 500,
-    pastelColor: "var(--pastel-lila)",
+    pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Atma" },
@@ -61478,7 +61478,7 @@ Comprala si priorizás cocinar con tapa en un espacio chico, con el respaldo de 
     rating: 4.6,
     reviewCount: 67,
     soldQuantity: 100,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Philco" },
@@ -61716,7 +61716,7 @@ Comprala si sos 1-2 personas y buscás cocinar rápido sin gastar de más. No es
     rating: 4.6,
     reviewCount: 870,
     soldQuantity: 10000,
-    pastelColor: "var(--pastel-verde)",
+    pastelColor: "var(--pastel-green)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "PST" },
@@ -61828,7 +61828,7 @@ Comprá el PST G30 si buscás el kit más completo y con más respaldo de compra
     rating: 4.6,
     reviewCount: 294,
     soldQuantity: 1000,
-    pastelColor: "var(--pastel-lila)",
+    pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "i-tob" },
@@ -61939,7 +61939,7 @@ Comprá el i-tob si buscás el kit completo más económico de esta guía y no t
     rating: 4.6,
     reviewCount: 38,
     soldQuantity: 500,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Hikvision" },
@@ -62053,7 +62053,7 @@ Comprá el Hikvision AXHome si priorizás el respaldo de una marca global y plan
     rating: 4.4,
     reviewCount: 95,
     soldQuantity: 500,
-    pastelColor: "var(--pastel-violeta)",
+    pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Tuya - Smart Life" },
@@ -62178,7 +62178,7 @@ Comprá el sensor solar Tuya si necesitás cubrir un punto específico de exteri
     rating: 4.8,
     reviewCount: 32639,
     soldQuantity: 10000,
-    pastelColor: "var(--pastel-verde)",
+    pastelColor: "var(--pastel-green)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Xiaomi" },
@@ -62291,7 +62291,7 @@ Comprá el Xiaomi Redmi Watch 5 Lite si buscás el smartwatch con más respaldo 
     rating: 4.5,
     reviewCount: 6006,
     soldQuantity: 100000,
-    pastelColor: "var(--pastel-lila)",
+    pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "JD Jottade" },
@@ -62403,7 +62403,7 @@ Comprá el JD Venecia Sport si buscás lo más básico y económico: notificacio
     rating: 4.9,
     reviewCount: 8012,
     soldQuantity: 1000,
-    pastelColor: "var(--pastel-violeta)",
+    pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Amazfit (Zepp Health Corp)" },
@@ -62519,7 +62519,7 @@ Comprá el Amazfit Bip 6 si buscás el smartwatch más completo de esta guía y 
     rating: 4.7,
     reviewCount: 76,
     soldQuantity: 100,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Haylou (ecosistema Xiaomi/Huami)" },
@@ -62633,7 +62633,7 @@ Comprá el Haylou Solar LS05S si tu prioridad es no cargar el reloj seguido, y v
     rating: 4.9,
     reviewCount: 9454,
     soldQuantity: 100,
-    pastelColor: "var(--pastel-verde)",
+    pastelColor: "var(--pastel-green)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Samsung" },
@@ -62779,7 +62779,7 @@ Comprá el Samsung Galaxy Watch7 si tenés un celular Android y querés pagar si
     rating: 5.0,
     reviewCount: 7,
     soldQuantity: 100,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Whoop" },
@@ -62939,7 +62939,7 @@ Es un producto real, con stock sano (+10 disponibles) y buena calificación (5.0
     rating: 4.8,
     reviewCount: 6522,
     soldQuantity: 5000,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Garmin" },
@@ -63177,7 +63177,7 @@ Comprá el Forerunner 965 si ya corrés en serio y querés pantalla AMOLED, NFC,
     rating: 4.7,
     reviewCount: 59,
     soldQuantity: 3,
-    pastelColor: "var(--pastel-violeta)",
+    pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Garmin" },
@@ -63426,7 +63426,7 @@ Comprá el Instinct 3 si hacés trekking o pasás mucho tiempo al aire libre y p
     rating: 4.8,
     reviewCount: 945,
     soldQuantity: 5000,
-    pastelColor: "var(--pastel-verde)",
+    pastelColor: "var(--pastel-green)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Un Mate" },
@@ -63535,7 +63535,7 @@ Comprala si buscás la bombilla con más respaldo de compradores reales de esta 
     rating: 4.7,
     reviewCount: 110,
     soldQuantity: 10000,
-    pastelColor: "var(--pastel-lila)",
+    pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "El Santo Mate" },
@@ -63644,7 +63644,7 @@ Comprala si el precio es tu prioridad y querés poder desarmar el filtro para li
     rating: 4.5,
     reviewCount: 77,
     soldQuantity: 5000,
-    pastelColor: "var(--pastel-violeta)",
+    pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Apa Cuero" },
@@ -63754,7 +63754,7 @@ Comprala si buscás el diseño clásico pico de loro en alpaca y no te molesta q
     rating: 4.8,
     reviewCount: 61,
     soldQuantity: 10000,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Rei Verde" },
@@ -63880,7 +63880,7 @@ Comprala si tomás mate con yerba de molienda fina o despalada (uruguaya, canari
     rating: 4.8,
     reviewCount: 39465,
     soldQuantity: 10000,
-    pastelColor: "var(--pastel-verde)",
+    pastelColor: "var(--pastel-green)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Lorenzetti" },
@@ -63992,7 +63992,7 @@ Comprala si buscás la opción con más respaldo de ventas de esta guía, sabien
     rating: 4.5,
     reviewCount: 557,
     soldQuantity: 1000,
-    pastelColor: "var(--pastel-lila)",
+    pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Indelplas" },
@@ -64101,7 +64101,7 @@ Comprala si el precio es tu prioridad número uno, o necesitás una solución r�
     rating: 4.8,
     reviewCount: 18790,
     soldQuantity: 5000,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Lorenzetti" },
@@ -64331,7 +64331,7 @@ Comprala si preferís que la ficha declare un organismo de certificación (Burea
     rating: 4.7,
     reviewCount: 3365,
     soldQuantity: 10000,
-    pastelColor: "var(--pastel-verde)",
+    pastelColor: "var(--pastel-green)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Citizen (distribuido por Silfab)" },
@@ -64444,7 +64444,7 @@ Comprá el Citizen si buscás el termómetro con más respaldo de compradores re
     rating: 4.7,
     reviewCount: 235,
     soldQuantity: 1000,
-    pastelColor: "var(--pastel-lila)",
+    pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "NEKOMMERCE" },
@@ -64555,7 +64555,7 @@ Comprá el NEKOMMERCE si el precio es tu prioridad y no te molesta esperar 1 min
     rating: 4.4,
     reviewCount: 412,
     soldQuantity: 500,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "BBLove" },
@@ -66538,7 +66538,7 @@ Comprá este peluche si buscás la opción más accesible y con más respaldo de
     freeShipping: true,
     rating: 4.7,
     reviewCount: 18746,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Overtech" },
@@ -66620,7 +66620,7 @@ Comprala si priorizás la opción más probada del mercado, con la base de rese�
     freeShipping: true,
     rating: 4.8,
     reviewCount: 2822,
-    pastelColor: "var(--pastel-verde)",
+    pastelColor: "var(--pastel-green)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Alpina" },
@@ -66701,7 +66701,7 @@ Comprala si querés un rating alto respaldado por miles de reseñas reales, y no
     freeShipping: true,
     rating: 4.7,
     reviewCount: 1001,
-    pastelColor: "var(--pastel-ambar)",
+    pastelColor: "var(--pastel-amber)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "SLP" },
@@ -66780,7 +66780,7 @@ Comprala si querés un cambio trasero de marca reconocida sin pagar el extra del
     freeShipping: true,
     rating: 4.7,
     reviewCount: 895,
-    pastelColor: "var(--pastel-violeta)",
+    pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "SLP" },
@@ -66938,7 +66938,7 @@ Comprala si el precio es tu prioridad número uno y aceptás confiar en una base
     freeShipping: true,
     rating: 4.6,
     reviewCount: 1089,
-    pastelColor: "var(--pastel-amarillo)",
+    pastelColor: "var(--pastel-amber)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Fire Bird" },
@@ -67017,7 +67017,7 @@ Comprala si el respaldo de casi 1.100 reseñas te da confianza y no te preocupa 
     freeShipping: true,
     rating: 4.6,
     reviewCount: 156,
-    pastelColor: "var(--pastel-verde)",
+    pastelColor: "var(--pastel-green)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Gadnic" },
@@ -67094,7 +67094,7 @@ Comprala si buscás el mejor respaldo de reseñas al precio más bajo, y no te i
     freeShipping: true,
     rating: 4.3,
     reviewCount: 91,
-    pastelColor: "var(--pastel-celeste)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Philco" },
@@ -67167,7 +67167,7 @@ Comprala si el precio es tu prioridad número uno y aceptás una ficha técnica 
     freeShipping: true,
     rating: 4.8,
     reviewCount: 16,
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Xiaomi" },
@@ -67244,7 +67244,7 @@ Comprala si el nombre de marca reconocida y la doble suspensión te importan, y 
     freeShipping: true,
     rating: 4.7,
     reviewCount: 19,
-    pastelColor: "var(--pastel-ambar)",
+    pastelColor: "var(--pastel-amber)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Daihatsu" },
@@ -67321,7 +67321,7 @@ Comprala si priorizás la mayor autonomía y soporte de peso declarados, y no te
     freeShipping: true,
     rating: 4.8,
     reviewCount: 112,
-    pastelColor: "var(--pastel-violeta)",
+    pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Logus" },
@@ -67396,7 +67396,7 @@ Comprala si valorás el respaldo de reseñas, el rating alto y la batería extra
     freeShipping: true,
     rating: 4.4,
     reviewCount: 24,
-    pastelColor: "var(--pastel-rosa)",
+    pastelColor: "var(--pastel-pink)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Black Power" },
@@ -67470,7 +67470,7 @@ Comprala si estás buscando un monopatín eléctrico para un chico de 8 a 13 añ
     freeShipping: true,
     rating: 4.8,
     reviewCount: 268,
-    pastelColor: "var(--pastel-celeste)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Rainbow" },
@@ -67544,7 +67544,7 @@ Comprala si buscás la opción más económica con mejor respaldo de reseñas, s
     freeShipping: true,
     rating: 4.3,
     reviewCount: 402,
-    pastelColor: "var(--pastel-verde)",
+    pastelColor: "var(--pastel-green)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Gadnic" },
@@ -67618,7 +67618,7 @@ Comprala si el respaldo de reseñas es tu prioridad número uno. Si tu hijo reci
     freeShipping: true,
     rating: 4.6,
     reviewCount: 126,
-    pastelColor: "var(--pastel-rosa)",
+    pastelColor: "var(--pastel-pink)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Rofft" },
@@ -67692,7 +67692,7 @@ Comprala si buscás un monopatín que acompañe a tu hijo varios años sin cambi
     freeShipping: true,
     rating: 5.0,
     reviewCount: 4,
-    pastelColor: "var(--pastel-violeta)",
+    pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Globber" },
