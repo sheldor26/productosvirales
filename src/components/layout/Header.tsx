@@ -192,6 +192,7 @@ export function Header() {
                         <Link
                           key={c.slug}
                           href={`/categoria/${c.slug}`}
+                          prefetch={false}
                           onClick={() => setCatOpen(false)}
                           className="flex items-center gap-2 rounded-lg px-3 py-2 text-sm text-[var(--text-secondary)] hover:bg-[var(--bg-secondary)] hover:text-[var(--text-primary)] transition-colors"
                         >
