@@ -3,6 +3,29 @@
 Log manual para encontrar qué patrón funciona (gancho, categoría, franja horaria).
 Completar vistas/seguidores a las 24-48hs de publicado. Entradas nuevas arriba.
 
+---
+
+## Formato v2 (desde 2026-07-27)
+
+Cambios respecto del v1, todos con dato atrás (ver `~/.claude/skills/price-drops-threads/SKILL.md`):
+**foto obligatoria**, **una sola contra**, **pregunta abierta de cierre**, **1 topic tag**,
+**responder los propios comentarios**, **publicar 6-11 AM de día de semana**.
+
+Línea de base a superar (v1, texto puro, sin pregunta): 8 vistas / 1 seguidor en el mejor caso medido.
+
+| Fecha | Hora | Producto | Categoría | Gancho | Foto | Pregunta | Respondí comentarios | Vistas | Seguidores | Notas |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-07-29 | ? | Licuadora Atma Pro LI8450AP | Cocina | 1 (dato) | sí | sí | | | | Hora sin definir — completar al publicar para clasificar variante del test de horario. Precio verificado en vivo, coincide exacto (sin ambigüedad de multi-oferta). |
+| 2026-07-28 | 10:00 | Lattafa Yara Tous | Belleza/perfumes | 1 (dato) | sí | sí | | | | Variante A del test de horario (mañana, martes 10:00 = buen slot según Buffer). Contra con cita textual de reseña. Precio verificado en vivo. |
+| 2026-07-27 | 20:00 | Pava Liliana AP152 | Cocina/mate | 1 (dato) | sí | sí | | | | 1er post v2. Franja noche = variante B del test de horario (Buffer la marca como la peor). Precio verificado en vivo con Bright Data. |
+
+---
+
+## Formato v1 (histórico, hasta 2026-07-26)
+
+Texto puro, sin foto, sin pregunta de cierre, cierre con CTA estático, hora sin registrar.
+Se conserva como línea de base para comparar.
+
 > ⚠️ **Todas las filas fechadas 2026-07-20 quedaron con precios desactualizados**:
 > se armaron con un diff cacheado de ese día que se siguió reusando por error
 > en mensajes de días posteriores (25/07 real). Hubo 2 corridas de precios más
