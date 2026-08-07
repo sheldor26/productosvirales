@@ -285,4 +285,24 @@ export const categories: Category[] = [
       </ul>
     `,
   },
+  {
+    slug: "hogar-jardin",
+    name: "Hogar y Jardín",
+    icon: "TreePine",
+    pastel: "var(--color-pastel-green)",
+    h1: "Hogar y Jardín: Organización, Exterior y Herramientas",
+    description: "Muebles de organización, artículos de pileta/verano, herramientas de jardín y eléctricas, comparados con precio real de MercadoLibre",
+    buyersGuide: `
+      <h2>Qué vas a encontrar en esta categoría</h2>
+      <p>Muebles chicos de organización (zapateros, estanterías), artículos de pileta y verano, herramientas de jardín y herramientas eléctricas — todo lo que hace falta para equipar y mantener la casa y el patio. Comparamos productos reales de MercadoLibre Argentina por precio, respaldo de reseñas y specs verificadas, no por lo que promete el título del vendedor.</p>
+
+      <h2>Qué mirar antes de comprar</h2>
+      <ul>
+        <li><strong>Medidas reales:</strong> en muebles chicos y organizadores las fotos engañan con la escala. Leé siempre las dimensiones en la descripción antes de comprar.</li>
+        <li><strong>Material:</strong> para organizadores y muebles, fijate que sea metal/acero si va a cargar peso, o plástico ABS/PP si es liviano — evitar PVC barato que se rompe rápido.</li>
+        <li><strong>Potencia y batería (herramientas eléctricas):</strong> comparar Watts o Voltios reales de la ficha técnica, no solo el nombre del producto.</li>
+        <li><strong>Respaldo de reseñas:</strong> un rating alto con pocas opiniones no es lo mismo que un rating sostenido por cientos o miles de compradores reales.</li>
+      </ul>
+    `,
+  },
 ];
