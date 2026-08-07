@@ -19,6 +19,12 @@
       "runtimeExecutable": "npm",
       "runtimeArgs": ["run", "dev", "--prefix", "/Users/juan/Proyectos web/usatoydeals", "--", "-p", "4311"],
       "port": 4311
+    },
+    {
+      "name": "vestuario",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev", "--prefix", "/Users/juan/Proyectos web/vestuario", "--", "-p", "4312"],
+      "port": 4312
     }
   ]
 }

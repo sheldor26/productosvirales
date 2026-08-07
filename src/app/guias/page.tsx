@@ -12,8 +12,11 @@ import type { Guide } from "@/lib/types";
 export const revalidate = 86400;
 
 export const metadata: Metadata = {
-  title:
-    "Guías de compra 2026: mejores productos en MercadoLibre Argentina",
+  // `absolute`: sin el sufijo ` | ProductosVirales` del layout raíz, que se
+  // comía 19 de los ~60 caracteres visibles en la SERP (igual que las guías).
+  title: {
+    absolute: "Guías de compra 2026: qué comprar en MercadoLibre Argentina",
+  },
   description:
     "Comparativas honestas para elegir bien en MercadoLibre Argentina: precios reales, opiniones de compradores y los contras que nadie te cuenta.",
   alternates: {
