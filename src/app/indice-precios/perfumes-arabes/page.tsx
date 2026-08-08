@@ -129,12 +129,12 @@ export default function PerfumesArabesPriceIndexPage() {
         </div>
         <p className="mt-5 text-sm text-[var(--text-primary)] leading-relaxed">
           El promedio esconde una dispersión enorme: el que más subió fue el{" "}
-          <Link href={productHref(productById.get(topGainer.id) ?? { id: topGainer.id, title: topGainer.title })} className="font-semibold underline decoration-[var(--border)] underline-offset-2">
+          <Link href={productHref(productById.get(topGainer.id) ?? { id: topGainer.id, title: topGainer.title })} prefetch={false} className="font-semibold underline decoration-[var(--border)] underline-offset-2">
             {topGainer.title}
           </Link>{" "}
           con un <strong>+{topGainer.pct}%</strong> ({formatPrice(topGainer.firstPrice)} a {formatPrice(topGainer.lastPrice)}),
           mientras el{" "}
-          <Link href={productHref(productById.get(topLoser.id) ?? { id: topLoser.id, title: topLoser.title })} className="font-semibold underline decoration-[var(--border)] underline-offset-2">
+          <Link href={productHref(productById.get(topLoser.id) ?? { id: topLoser.id, title: topLoser.title })} prefetch={false} className="font-semibold underline decoration-[var(--border)] underline-offset-2">
             {topLoser.title}
           </Link>{" "}
           bajó <strong>{topLoser.pct}%</strong> en el mismo período.

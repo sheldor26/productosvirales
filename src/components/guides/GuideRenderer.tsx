@@ -500,6 +500,7 @@ function AboveFoldCta({ productMlaId }: { productMlaId: string }) {
       {product.priceStatus === "out_of_stock" ? (
         <Link
           href={productHref(product)}
+          prefetch={false}
           data-cta-location="above-fold"
           className="inline-flex items-center gap-1.5 px-5 py-3 text-sm font-extrabold rounded-[var(--radius-button)] transition-transform hover:-translate-y-px"
           style={{
@@ -551,6 +552,7 @@ function VerdictCta({ productMlaId }: { productMlaId: string }) {
       {product.priceStatus === "out_of_stock" ? (
         <Link
           href={productHref(product)}
+          prefetch={false}
           data-cta-location="verdict"
           className="inline-flex items-center gap-1.5 px-5 py-3 text-sm font-extrabold rounded-[var(--radius-button)] transition-transform hover:-translate-y-px"
           style={{

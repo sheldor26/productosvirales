@@ -642,7 +642,7 @@ export function ProductDetail({
                 {relatedProducts.map((related) => (
                   <tr key={related.id} className="border-b border-[var(--border)] last:border-0">
                     <td className="px-2 py-3">
-                      <Link href={productHref(related)} className="flex items-center gap-2.5 group">
+                      <Link href={productHref(related)} prefetch={false} className="flex items-center gap-2.5 group">
                         <span
                           className="relative w-10 h-10 shrink-0 rounded-[var(--radius-badge)] overflow-hidden"
                           style={{ backgroundColor: related.pastelColor || "var(--bg-secondary)" }}
@@ -681,6 +681,7 @@ export function ProductDetail({
                       {related.priceStatus === "out_of_stock" ? (
                         <Link
                           href={productHref(related)}
+                          prefetch={false}
                           aria-label={`Ver ${related.title} (sin stock en esta publicación)`}
                           className="inline-flex items-center gap-1 px-3 py-1.5 text-xs font-bold rounded-[var(--radius-pill)] bg-[#3483fa] text-white hover:bg-[#2968c8] transition-colors whitespace-nowrap"
                         >
