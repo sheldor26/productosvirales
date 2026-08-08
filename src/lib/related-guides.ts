@@ -1,6 +1,7 @@
 import type { Guide, Product } from "@/lib/types";
 import { getPublishedGuides, getRelatedGuides } from "@/data/guides";
 import { guideHref } from "@/lib/guide-url";
+import { injectLivePrices } from "@/lib/price-token";
 
 // Enlazado interno automático (hub-and-spoke). Con DA1 la autoridad se gana
 // concentrando enlaces internos en los pilares, no dispersándolos: cada guía y
@@ -16,8 +17,15 @@ export interface RelatedGuideLink {
   subtitle?: string;
 }
 
+// El standfirst de muchas guías arranca con un token de precio ("arranca en
+// {{precio:...}}"). Hay que RESOLVERLO, no borrarlo: borrarlo dejaba frases
+// rotas en las tarjetas de enlazado ("arranca en (dos cámaras WiFi)"). El
+// segundo replace queda como red de seguridad para un token que no resuelva.
 function cleanTokens(s: string | undefined): string {
-  return (s || "").replace(/\{\{[^}]*\}\}/g, "").replace(/\s+/g, " ").trim();
+  return injectLivePrices(s || "")
+    .replace(/\{\{[^}]*\}\}/g, "")
+    .replace(/\s+/g, " ")
+    .trim();
 }
 
 function toLink(g: Guide, isPillar: boolean): RelatedGuideLink {
