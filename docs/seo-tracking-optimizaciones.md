@@ -794,3 +794,227 @@ Aplicando la lección de `teclado-mecanico-60`: todas las menciones cruzadas de 
 - **Pasada 2 (Codex, acotada a los 2 puntos):** confirmó ambos resueltos correctamente y sin nuevos hallazgos. **Codex: GO, 10/10.**
 
 **Veredicto final: 10/10 de Codex + 10/10 de Gemini.** Con las 3 guías del loop cerradas, el patrón queda claro: enlazar proactivamente desde el primer commit (aplicado acá) reduce las rondas de auditoría de 3 a 2, pero no las elimina — vale la pena seguir chequeando cifras cruzadas (precios, comparaciones "más caro/más barato que") con la misma rigurosidad que el enlazado, ya que ambos tipos de error pasaron desapercibidos en una primera escritura cuidadosa.
+
+---
+
+## Optimización de CTR: camara-de-seguridad-exterior, 2026-08-07
+
+Detectada en un barrido sitewide de anomalías de CTR (snapshot GSC #34, 2026-07-09 a 2026-08-05), disparado por la preocupación de Juan de que el sitio "no ganaba terreno" pese a publicar guías activamente. El diagnóstico de fondo: el sitio **sí crece** (~61 clicks/día la primera semana de julio contra ~110/día la última del snapshot, +80%), pero hay un subconjunto de URLs con posición decente que no convierte impresiones en clicks. Esta era la de mayor volumen de todas.
+
+**Baseline (snapshot #34, 28 días):**
+
+| URL | Clicks | Impresiones | CTR | Pos |
+| :-- | --: | --: | --: | --: |
+| `/guias/seguridad/camara-de-seguridad-exterior` | 8 | 2.734 | 0,29 % | 8,36 |
+
+Queries principales (cobertura de datos 51 %, razonable): "camaras de seguridad exterior" (332 impr, pos 6,0, **0 clicks**), "camara de seguridad exterior" (195 impr, pos 6,9, **0 clicks**), más ~133 impresiones repartidas en variantes con intención explícita de precio ("cámaras de seguridad exterior precios", "precio de camaras de seguridad para casas exterior", etc.) y ~86 en variantes editoriales ("mejores…", "cuál es la mejor…"), donde rankeábamos peor (pos 9-12).
+
+**Canibalización: descartada.** `gsc.py query-pages` sobre las 3 queries principales devolvió una sola URL base compitiendo en cada una. La sospecha de Codex de que `kit-camaras-seguridad` competía por las mismas búsquedas no se sostiene con los datos.
+
+**Hallazgo de fondo (más grave que el título): 3 superlativos de precio falsos por deriva.** La guía afirmaba en 3 lugares distintos que la Gadnic SX37 ($59.999) era la más económica, cuando la Gadnic DM200W-Pro cuesta $28.999, menos de la mitad. Los 3 usan tokens `{{precio:}}`, así que `check-stale-prose-prices.cjs` no los detecta: el token resuelve al precio correcto, pero el ENCUADRE semántico ("arranca en", "la más económica") quedó falso cuando los precios se movieron. Corregido en:
+- `standfirst`: el rango ahora arranca en la DM200W-Pro, no en la SX37.
+- Sección "Cuánto cuesta": lista reordenada de forma ascendente real, con "la más económica" atribuida a la DM200W-Pro.
+- `verdict`: se quitó "la más económica de esta guía" de la SX37 y se sumó el precio más bajo como argumento de la DM200W-Pro.
+
+Esto tiene impacto directo en CTR: ~133 impresiones vienen de búsquedas con intención de precio, y el snippet daba a entender que el piso era ~$60.000 cuando en realidad hay una opción de ~$29.000.
+
+**Cambio de title/meta.** Posición 6-8 (fuera del freeze de top 2-5), y con 0,29 % de CTR el riesgo a la baja es prácticamente nulo.
+
+- `seoTitle` antes: `Cámaras de Seguridad Exterior: Precios y Cuál Comprar [2026]`
+- `seoTitle` después: `Mejores Cámaras de Seguridad Exterior 2026: Precios Reales` (57 caracteres)
+- `metaDescription` antes: arrancaba con nombres de marca que el comprador no reconoce (Gadnic SX37, Ezviz C8c, Gadnic DM200W-Pro).
+- `metaDescription` después: `Cuál cámara de seguridad exterior conviene en Argentina: fija o motorizada, IP verificado en ficha. Desde {{precio:MLA66204799:k}}, con la contra honesta de cada una.`
+
+Razonamiento: se lidera con "Mejores" porque es el patrón de las guías que mejor convierten del sitio (`Cuál es la mejor freidora de aire en Argentina`, 3,0 % de CTR; `Mejores Pavas Eléctricas 2026`, 2,7 %) y porque el bolsillo de queries editoriales es donde peor rankeábamos, o sea donde hay más margen. El precio de entrada real pasa a la meta con token en vivo (verificado que resuelve en producción, no queda literal), en vez de hardcodearlo donde volvería a quedar viejo.
+
+**Criterio de éxito:** subir el CTR a igual o mejor posición. Medir a partir de ~2026-09-04 (3-4 semanas).
+
+## Descartado: maquina-de-afeitar (recomendación de Codex que no se aplicó)
+
+Codex propuso retitular hacia "afeitadora eléctrica" por mismatch de intención (el SERP de "máquina de afeitar" mezcla Gillette manual, cortadoras de barba y afeitadoras eléctricas). **No se aplicó, por dos razones verificadas en los datos y en el contenido:**
+
+1. **La guía ya cubre ambos términos a propósito.** El `standfirst` y el `intro` dicen textualmente: «"Máquina de afeitar" y "afeitadora eléctrica" son el mismo producto: acá van las dos búsquedas juntas para no duplicar contenido». Retitular sería cambiar una keyword por la otra, no resolver nada, y resignar la que hoy tiene ranking.
+2. **Los datos no alcanzan para diagnosticar.** 308 impresiones totales, pero las queries visibles en GSC suman ~25 impresiones (≈8 % de cobertura, muy por debajo del 24-50 % habitual), todas de 1-2 impresiones y en posiciones 13-41. Es cola difusa real, sin un bolsillo concentrado de demanda al que apuntar.
+
+Queda como candidata a revisar si el volumen sube y aparece un bolsillo de queries identificable.
+
+## Fix de render: precios vacíos en las tarjetas de enlazado interno, 2026-08-07
+
+Encontrado al verificar el cambio de arriba en el dev server (no venía de GSC). `src/lib/related-guides.ts` armaba el subtítulo de cada tarjeta de guía relacionada con una función `cleanTokens()` que **borraba** los tokens `{{...}}` en vez de resolverlos. Como 46 guías tienen un token de precio en el `standfirst`, la tarjeta mostraba frases rotas, por ejemplo: «Un kit de cámaras de seguridad arranca en (dos cámaras WiFi de interior) y llega a (sistema cableado…)».
+
+Corregido pasando el texto por `injectLivePrices()` antes de limpiar, y dejando el borrado de tokens como red de seguridad para uno que no resuelva. Verificado en vivo: la misma tarjeta ahora muestra «arranca en $ 112.000 (dos cámaras WiFi de interior) y llega a $ 248.000». Los 3 consumidores de la lib son server components, así que el candado `server-only` de `price-token.ts` no rompe nada. Afecta a todas las guías y fichas que muestran el bloque de enlazado interno.
+
+## Optimización de CTR: cargador-portatil, 2026-08-07
+
+Segunda de la tanda de CTR del mismo barrido. Perfil de intención MUY distinto al de `camara-de-seguridad-exterior`: acá las queries son casi todas editoriales/comparativas, justo donde el sitio compite bien.
+
+**Baseline (snapshot #34, 28 días):**
+
+| URL | Clicks | Impresiones | CTR | Pos |
+| :-- | --: | --: | --: | --: |
+| `/guias/tech/cargador-portatil` | 7 | 1.174 | 0,60 % | 7,55 |
+
+Queries visibles (cobertura ~17 %, baja, pero el patrón es muy consistente): "mejor power bank argentina" (16 impr, **pos 4,94**, la mejor posición de la página), "cual es el mejor cargador portátil para celular" (16), "mejores cargadores portatiles" (13), "que cargador portatil es mejor" (12), "cual es el mejor cargador portatil" (9), "mejor cargador portatil" (8, pos 6,63)… El término genérico "cargador portatil" (41 impr) rankea mucho peor (pos 17,2): lo que funciona es la cola editorial, no la cabeza transaccional.
+
+Bolsillos detectados: **"para celular"** (~46 impresiones repartidas) y **"para notebook"** (~18, con la guía cubriéndolo de verdad: tiene un Energizer de 27.000 mAh y 65 W). Ninguno de los dos estaba en el title.
+
+**Mismo bug de rango que en cámaras.** El `standfirst` decía «va de {{precio:MLA28743686:k}} [$44.399] (25.000 mAh genérico)» como piso, pero el Xiaomi de 10.000 mAh cuesta **$38.599**, más barato. Corregido: el rango ahora arranca en el Xiaomi. El techo declarado (Energizer 65 W, $122.962) sí era correcto y no se tocó.
+
+**Cambio de title/meta:**
+
+- `seoTitle` antes: `Cargador Portátil (Power Bank): Cuál Comprar | 2026`
+- `seoTitle` después: `Mejor Cargador Portátil (Power Bank) en Argentina [2026]` (56 caracteres)
+- `metaDescription` antes: arrancaba con "Descubrí" (relleno) y no mencionaba ni celular ni notebook.
+- `metaDescription` después: `Cuál cargador portátil conviene para celular o notebook: la capacidad real es el 60-70% de lo que dice el envase. Desde {{precio:MLA40654567:k}}, con precios reales.`
+
+Razonamiento: se suma "Mejor" (patrón dominante absoluto en las queries) y "en Argentina" (aparece en la query mejor posicionada), conservando "(Power Bank)" porque es un término de búsqueda propio y porque "mejor power bank argentina" es donde más cerca estamos del top. La meta pasa a liderar con los dos bolsillos reales (celular / notebook) y usa como gancho el dato honesto y diferencial de la guía: la capacidad útil real es 60-70 % de la declarada.
+
+**Nota sobre la recomendación de Codex, no aplicada:** proponía `Mejores power banks 2026: 10.000 vs 20.000 mAh, Xiaomi y Gadnic`, asumiendo un SERP de shopping donde hay que competir con specs y marcas. Los datos de GSC dicen lo contrario: la demanda que nos llega es editorial ("cuál es el mejor…"), no de modelo puntual. Meter marcas y mAh en el title habría apuntado a una intención que no es la que nos trae impresiones.
+
+**Criterio de éxito:** subir el CTR a igual o mejor posición. Medir a partir de ~2026-09-04.
+
+## HALLAZGO SISTÉMICO: rangos de precio del standfirst que quedan falsos por deriva, 2026-08-07
+
+Tres casos del mismo bug en un solo día (`zapatero` vía swap de ficha, `camara-de-seguridad-exterior`, `cargador-portatil`) motivaron un barrido de TODAS las guías. El patrón: el `standfirst` declara un rango ("va de X a Y", "arranca en X") con tokens `{{precio:}}`, y cuando los precios de MercadoLibre se mueven, el token sigue resolviendo bien pero el ENCUADRE queda falso: el producto citado como piso ya no es el más barato de la guía, o el citado como techo ya no es el más caro.
+
+**Ningún script del repo lo detecta.** `check-price-tokens.cjs` valida que el token exista y resuelva; `check-stale-prose-prices.cjs` compara precios hardcodeados contra el catálogo. Este bug no es ninguna de las dos cosas: los números son correctos, lo que envejece es la afirmación comparativa alrededor.
+
+**Barrido sitewide: el heurístico marcó 5 guías, pero al verificarlas UNA SOLA era un bug real.** Queda documentado el falso positivo porque la lección importa más que el hallazgo.
+
+| Guía | Veredicto tras verificar |
+| :-- | :-- |
+| `tostadora` | **BUG REAL.** Decía "desde $42.451" (Atma) cuando la Liliana Tostler AT900, que es su propio pick #1 y una tostadora comparable, sale $39.539. Corregido. |
+| `alarma-para-casa` | Falso positivo. El producto de $52.250 es un **sensor de movimiento suelto**, no un kit; el standfirst habla de "un kit de alarma", y entre los 3 kits reales el rango declarado ($279.500 a $403.559) es correcto. |
+| `smartwatch` | Falso positivo. El WHOOP 5.0 de $685.000 está **explícitamente excluido** en el cuerpo de la guía: "no es un smartwatch más de esta guía, es otra categoría de producto". |
+| `termotanque-a-gas` | Falso positivo. Los extremos están etiquetados por mérito ("el más vendido", "el mejor calificado"), no por precio, así que un producto más caro no contradice nada. |
+| `proyector-portatil` | Falso positivo. La frase está acotada: "**los más vendidos** van de X a Y", no todos los productos de la guía. |
+
+**Lección de método (más valiosa que el bug):** un heurístico que compara los tokens del standfirst contra el mín/máx de TODOS los `productMlaId` de la guía sobre-marca, porque varias guías incluyen a propósito productos de categoría adyacente (el sensor suelto en alarmas, el WHOOP en smartwatches, siguiendo el patrón de "siembra" ya establecido) y porque algunos rangos están acotados por venta o por mérito, no por precio. Antes de "corregir" un rango hay que leer QUÉ dice exactamente la frase y si el producto más barato/caro pertenece a la misma categoría que la frase describe.
+
+Impacto real: el `standfirst` es de los primeros textos que ve el usuario y candidato a snippet y a cita de AI Overview, así que un piso de precio inflado sí espanta a las búsquedas con intención de precio. Pero la incidencia real es baja: 3 casos en todo el sitio (`camara-de-seguridad-exterior`, `cargador-portatil`, `tostadora`), los tres ya corregidos, más el caso de `zapatero` que vino por otra vía (swap de ficha por exclusión del Programa de Afiliados).
+
+**Pendiente a evaluar:** un chequeo permanente `check-price-range-claims.cjs` tendría que ser bastante más fino que el heurístico de hoy para no generar ruido: como mínimo, restringir la comparación a los productos que aparecen en el ranking/tabla de la guía (no a los mencionados al pasar) y saltear los standfirst cuyos extremos estén etiquetados por mérito en vez de por precio. Con 3 casos reales en ~180 guías, evaluar si conviene el script o si alcanza con revisarlo en el trío auditor.
+
+## Sourcing + fix de disponibilidad: gadnic-freidora-review, 2026-08-07
+
+Tercera de la tanda de CTR. Caso distinto a los dos anteriores: acá el problema no era el title sino que **el producto reseñado ya no existe**.
+
+**Baseline (snapshot #34, 28 días):** 0 clicks, 614 impresiones, 0,00 % CTR, pos 7,60. Era la guía con más impresiones y cero clicks de todo el sitio.
+
+**Sourcing en vivo (Chrome real, 2026-08-07):** la Gadnic 6.5L de 1400 W (`MLA44142280`, la que se probó a mano) está agotada y la ficha de catálogo de MercadoLibre la da como **no disponible**, no como falta de stock temporal. El precio registrado en el catálogo propio era de $65.149 con `priceLastChecked: 2026-07-02`.
+
+Lo que se consigue hoy de Gadnic 6,5 litros es **otro modelo**: la **Cuk by Gadnic FREI0033, 1600 W digital con 12 programas** (marca "Gadnic", línea "Cuk", confirmado en ficha técnica). Dos publicaciones del mismo modelo, con una diferencia de precio llamativa:
+
+| Publicación | Precio | Reseñas | Vendidos | Vendedor |
+| :-- | --: | :-- | :-- | :-- |
+| `MLA18728637` (beige) | $126.999 | ninguna | +1000 | Bidcom |
+| `MLAU237856001` (blanco) | $233.549 | 4.5★ (13) | +100 | Gadnic oficial |
+
+**Decisión editorial (elegida por Juan): NO se cambió el producto de la review.** La guía contiene afirmaciones de uso de primera mano sobre un modelo concreto de 1400 W con dos perillas; la Cuk actual es 1600 W con panel digital. Transferir esas impresiones a otro modelo habría sido deshonesto. La review queda como referencia de la marca y se corrigió solo el encuadre de disponibilidad.
+
+**Cambios aplicados:**
+- El callout pasó de "Actualmente sin stock en Mercado Libre" (que insinuaba reposición) a "El modelo que probamos ya no se consigue", explicando que la ficha de catálogo lo da como no disponible, y ofreciendo la Cuk by Gadnic actual como opción de la misma marca y capacidad, **explícitamente marcada como otro modelo**. La Philips NA120/00 4.2L ($91.490) queda como la alternativa más barata.
+- Se alinearon otros 4 bloques que seguían diciendo "mientras esté sin stock", "cuando está disponible" o "si podés esperar" (intro, veredicto, párrafo de cierre y FAQ), porque contradecían el callout nuevo. Mismo patrón de siempre: corregir un solo lugar no alcanza, hay que grepear el hecho en toda la guía.
+
+**Nota pendiente:** los links a la Cuk by Gadnic apuntan por ahora al **permalink directo de MercadoLibre**, no a un `meli.la`. Funcionan y el renderer les inyecta `rel="nofollow sponsored"`, pero no generan comisión hasta que Juan genere el link de afiliado y se reemplace. Se eligió el permalink directo en vez de un placeholder para no dejar un link roto en una guía que ya está publicada.
+
+**Criterio de éxito:** que aparezcan clicks donde hoy hay 0. Medir a partir de ~2026-09-04.
+
+## Optimización de CTR + tokenización: mouse-gamer, 2026-08-07
+
+Cuarta de la tanda. Igual que en `gadnic-freidora-review`, el título resultó ser el problema menor.
+
+**Baseline (snapshot #34, 28 días):** 0 clicks, 312 impresiones, 0,00 % CTR, pos 7,20.
+
+**La señal de queries es débil y hay que decirlo:** cobertura de apenas 8 % (26 impresiones visibles de 312), todas las queries de 1 a 4 impresiones, en posiciones que van de 1 a 11, con bastante ruido ("tecnología", "son caros", "40 mil pesos argentinos"). Es cola difusa, igual que `maquina-de-afeitar`. Lo único consistente es el patrón editorial ("cuál es el mejor mouse gamer", "mejores mouse gamer", "mejor mouse gamer calidad precio"). Canibalización: no verificable con esta cobertura, pero no aparece ninguna otra URL compitiendo.
+
+**El hallazgo real: precios escritos a mano muy desactualizados.** La guía tenía 15 precios hardcodeados, y el peor era grave:
+
+| Texto en la guía | Producto | Precio real | Desvío |
+| :-- | :-- | --: | --: |
+| "desde unos $288.500" | Logitech PRO X Superlight 2 | $516.259 | **−44 %** |
+| "casi $290.000" (techo del standfirst) | mismo | $516.259 | **−44 %** |
+| "$26.500" (en 5 lugares) | Redragon M601 | $29.260 | −9,4 % |
+| "$38.600" | Logitech G203 | $36.852 | +4,7 % |
+
+Todos los precios del catálogo estaban `fresh`, chequeados el 2026-08-05, así que el desvío es de la prosa, no del dato. Una página en vivo prometía un mouse a $288.500 que cuesta $516.259.
+
+**Por qué no lo detectó ningún script.** `check-stale-prose-prices.cjs` solo compara líneas con exactamente un precio Y exactamente un producto resoluble en la MISMA línea, y saltea las que tienen superlativos. Los casos de esta guía caían fuera por diseño: el precio estaba en un párrafo sin link al producto, o la línea decía "el más barato".
+
+**Solución aplicada: tokenizar todo.** Los 15 precios pasaron a `{{precio:ID}}` / `{{precio:ID:k}}`, incluidos los tramos de la sección de precios y la tagline de un quickPick (ambos formatos ya tenían precedente en el sitio: 22 taglines y 25 descripciones de product-card con token). Verificado en vivo: el standfirst ahora dice "va de $ 29.000 a $ 516.000". La guía ya no tiene ni un precio escrito a mano, así que este problema no puede volver.
+
+**Cambio de title/meta** (posición 7,2, fuera del freeze de top 2-5; con 0 % de CTR no hay nada que perder):
+- `seoTitle` antes: `Mouse Gamer: Cuál Comprar en Argentina | Guía 2026`
+- `seoTitle` después: `Cuál es el Mejor Mouse Gamer en Argentina [2026]` (47 caracteres). Copia literal del patrón de la guía con mejor CTR del sitio (`Cuál es la mejor freidora de aire en Argentina`, 3,0 %) y coincide palabra por palabra con la query visible más frecuente.
+- `metaDescription`: se sacó el "Descubrí" de relleno y ahora abre con el ángulo honesto de la guía (el DPI de la caja no es lo que importa) más el precio de entrada en token.
+
+**Criterio de éxito:** que aparezcan clicks donde hoy hay 0. Medir a partir de ~2026-09-04. Ojo: con 312 impresiones y cola difusa, este caso tiene mucha menos señal que `camara-de-seguridad-exterior`; si no se mueve, no concluir que el patrón de título falló.
+
+## HALLAZGO: la red de seguridad de precios en prosa casi no tiene cobertura, 2026-08-07
+
+Medición sobre todo el sitio, a raíz de lo encontrado en `mouse-gamer`:
+
+- **987 precios escritos a mano** en `guides.ts`, repartidos en **96 de 177 guías**.
+- Corriendo `migrate-prose-price-tokens.cjs --dry-run` sobre el archivo entero: **558 líneas evaluadas, 0 tokenizables automáticamente**. Todas quedan fuera por diseño: 259 son "1 precio / 0 productos" (precio en prosa sin link al producto en esa línea), 107 son rangos sin producto, 57 tienen superlativos, y 51 tienen varios precios y varios productos (atribución ambigua).
+- O sea: **para la enorme mayoría de esos 987 precios no hay ningún chequeo automático posible hoy**, ni de detección (`check-stale-prose-prices.cjs`) ni de migración.
+
+**Lo que NO se puede afirmar:** cuántos de esos 987 están desactualizados. Puede ser una minoría. `mouse-gamer` prueba que existen errores grandes sin detectar (−44 %), no que sean la norma. No repetir el error de sobre-marcar del barrido de rangos de más arriba.
+
+**Próximo paso sugerido (no ejecutado):** revisar a mano las guías de mayor riesgo, que son las que combinan muchos precios a mano con tráfico real. Por cantidad de precios hardcodeados: `perfumes-arabes-precio-argentina` (58), `robot-aspiradora-precio-argentina` (43), `cuanto-consume-freidora-de-aire` (35), `perfumes-arabes-dupes` (34), `donde-comprar-perfumes-arabes-argentina` (30). Las tres primeras son guías cuyo tema ES el precio, donde un número viejo hace más daño que en cualquier otra. `perfumes-arabes-dupes` además tiene tráfico real (164 clicks, 2,7 % de CTR).
+
+## Revisión de las 3 guías de precios con más números a mano, 2026-08-07
+
+Continuación del hallazgo de cobertura de arriba. Se eligieron las tres guías que combinan muchos precios hardcodeados con un tema que ES el precio, donde un número viejo hace más daño.
+
+**Triage: una de las tres no era lo que parecía.** En `cuanto-consume-freidora-de-aire` los 35 "precios" no son de productos sino de **electricidad** (costo mensual en kWh con tarifas de Edenor y Edesur). No se pueden tokenizar contra el catálogo porque no hay producto detrás. El texto además está fechado ("tarifas de julio 2026"), así que es honesto. Es otro tipo de envejecimiento —tarifario, no de catálogo— y queda fuera de este trabajo. Solo referencia 3 productos.
+
+### robot-aspiradora-precio-argentina
+
+Rango declarado en `standfirst` y `ogDescription`: **"de $130.000 a más de $3.000.000"**. Rango real de los 19 productos de la guía: **$143.925 (Fika SENSE) a $2.333.770 (iRobot Roomba J9)**. Los dos extremos estaban mal:
+- El piso prometía más barato de lo que existe ($130.000 contra $143.925 real).
+- El techo era directamente falso: "más de $3.000.000" cuando el más caro es $2.333.770, un 29 % menos.
+
+Corregido con tokens en ambos campos. Ahora renderiza "De $ 144.000 a $ 2.334.000". La `metaDescription` ya estaba tokenizada y se dejó como estaba: nombra dos productos concretos ("desde la Fika SENSE… hasta la Xiaomi X20 Max…"), no declara un rango absoluto, así que no es incorrecta.
+
+### perfumes-arabes-precio-argentina
+
+Acá el problema más claro era que **la meta y la og se contradecían entre sí**: una decía que los básicos arrancan en **$16.000** y la otra que la entrada es **$40.000**.
+
+Escalera real de precios de la guía:
+
+| Precio | Producto | Categoría |
+| --: | :-- | :-- |
+| $15.070 | Set de 4 tubos 35 ml | kit de miniaturas |
+| $16.199 | Kit x4 tubitos 35 ml | kit de miniaturas |
+| **$27.777** | **Al Wataniah Bareeq Al Dhahab 100 ml** | **primer frasco entero** |
+| $114.199 | Armaf Club de Nuit Intense Man 200 ml | premium, el más caro |
+
+Ninguno de los dos números declarados servía: los $40.000 de la og no corresponden a nada, y los $16.000 de la meta corresponden a un **kit de tubitos**, no a un perfume. Un lector que lee "de $16.000" y llega a un frasco de $27.777 se siente engañado. Mismo tipo de trampa de categoría que el sensor suelto en `alarma-para-casa`: hay que mirar si el producto más barato pertenece a la categoría de la que habla la frase.
+
+Corregido en los dos campos, ahora consistentes entre sí y anclados al primer frasco de 100 ml real: "de $ 28.000 un frasco de 100 ml a $ 114.000 los premium".
+
+**Lección repetida:** en las 4 guías corregidas hoy por rangos (cámaras, cargador portátil, tostadora, y estas dos), el error siempre fue el mismo: el rango se escribió bien el día uno y envejeció, o se ancló a un producto de otra categoría. Los tokens resuelven lo primero; lo segundo solo lo agarra alguien mirando la escalera de precios completa.
+
+### perfumes-arabes-dupes, 2026-08-07
+
+La de más valor de esta tanda: **164 clicks, 6.103 impresiones, 2,7 % de CTR, pos 6,88**. Como ya funciona bien, el criterio fue conservador: **no se tocó ni el title ni la meta**, solo se corrigieron datos.
+
+Tenía **34 precios a mano y cero tokens**. Pero solo una parte era corregible: la mitad son precios de los **originales occidentales** (Creed Aventus, Dior Sauvage Elixir, Tom Ford Tobacco Vanille, Xerjoff Erba Pura…), que no están en nuestro catálogo. Son referencias externas, no se pueden tokenizar, y quedan como estimaciones de mercado fechadas.
+
+La otra mitad sí eran nuestros productos, y **los 7 rangos declarados habían quedado fuera del precio real**:
+
+| Dupe | Rango declarado | Precio real | Desvío |
+| :-- | :-- | --: | :-- |
+| Lattafa Her Confession | $45.000–$58.000 | $70.790 | **22 % por encima del techo** |
+| Maison Alhambra Sceptre Malachite | $60.000–$80.000 | $52.870 | 13 % por debajo del piso |
+| Lattafa Khamrah Qahwa | $55.000–$75.000 | $52.000 | 6 % por debajo |
+| Armaf Club de Nuit Intense Man | $120.000–$145.000 | $114.199 | 5 % por debajo |
+| Rasasi Hawas Ice | $70.000–$85.000 | $88.690 | 4 % por encima |
+| Lattafa Asad Intense | $48.000–$62.000 | $63.000 | 2 % por encima |
+| Lattafa Mayar | $55.000–$65.000 | $54.300 | 1 % por debajo |
+
+El caso serio es **Her Confession**: alguien presupuesta $58.000 y en la ficha se encuentra con $70.790.
+
+**Corregido:** la columna "Precio dupe AR" de la tabla pasó a tokens (7 filas), más dos claims puntuales de prosa que también estaban viejos (el intro decía que el Club de Nuit "cuesta $130.000" cuando son $114.199, y un párrafo repetía el rango $120.000-145.000). La fila de Afnan 9PM se dejó con su rango porque esa guía no referencia ninguna ficha de Afnan, así que no hay a qué tokenizar. Los precios de los originales occidentales se dejaron intactos.
+
+**Chequeo de honestidad, resuelto sin cambios:** la Lattafa Khamrah Qahwa está `out_of_stock` y la guía no lo dice en ningún lado, lo que preocupaba porque ahora la tabla muestra un precio nítido. Verificado en el HTML renderizado: `ProductCard` ya detecta `priceStatus === "out_of_stock"` y en ese caso reemplaza el link de afiliado por un link a la ficha interna. Los 3 links de esa sección apuntan a `/producto/…`, no al listado muerto de MercadoLibre. La cadena no engaña a nadie, así que no se tocó. Queda como imprecisión menor que la fila de la tabla no indique la falta de stock.

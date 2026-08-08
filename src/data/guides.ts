@@ -1373,8 +1373,8 @@ export const guides: Guide[] = [
     category: "gaming",
     silo: "gaming",
     title: `Mouse gamer: cuál comprar en Argentina [2026]`,
-    seoTitle: `Mouse Gamer: Cuál Comprar en Argentina | Guía 2026`,
-    metaDescription: `Descubrí qué mouse gamer comprar en Argentina: con cable o inalámbrico, cuántos DPI necesitás de verdad y cuál conviene. Logitech, Redragon y más.`,
+    seoTitle: `Cuál es el Mejor Mouse Gamer en Argentina [2026]`,
+    metaDescription: `Qué mouse gamer conviene en Argentina: el DPI de la caja no es lo que importa, sino el sensor, el peso y la conexión. Desde {{precio:MLA17743447:k}}, con specs verificadas.`,
     ogTitle: `Mouse gamer: cuál comprar en Argentina`,
     ogDescription: `Del más vendido y barato al ultraliviano de e-sports. Logitech y Redragon comparados por sensor, peso, batería y precio real de MercadoLibre. La guía honesta.`,
     ogImage: `https://http2.mlstatic.com/D_NQ_NP_611122-MLA93494801285_092025-F.jpg`,
@@ -1383,11 +1383,11 @@ export const guides: Guide[] = [
     updatedDate: "2026-07-02",
     hasDisclosure: true,
     readingTime: 9,
-    standfirst: `Un mouse gamer va de $26.500 a casi $290.000, y el número de DPI que te venden en la caja no es lo que separa uno de otro. Te contamos qué importa de verdad (sensor, peso, conexión), comparando los más vendidos de Argentina con specs verificadas del fabricante y precios reales de MercadoLibre.`,
+    standfirst: `Un mouse gamer va de {{precio:MLA17743447:k}} a {{precio:MLA28598537:k}}, y el número de DPI que te venden en la caja no es lo que separa uno de otro. Te contamos qué importa de verdad (sensor, peso, conexión), comparando los más vendidos de Argentina con specs verificadas del fabricante y precios reales de MercadoLibre.`,
     quickPicks: [
       { productMlaId: "MLA44849297", label: "El más vendido", labelColor: "green", tagline: "Logitech G203: con cable, 16.000 opiniones, la compra segura" },
       { productMlaId: "MLA11259955", label: "El mejor inalámbrico", labelColor: "blue", tagline: "Logitech G305: sensor HERO, 250 horas con una pila AA" },
-      { productMlaId: "MLA17743447", label: "El más barato", labelColor: "amber", tagline: "Redragon M601: con RGB y pesas regulables por $26.500" },
+      { productMlaId: "MLA17743447", label: "El más barato", labelColor: "amber", tagline: "Redragon M601: con RGB y pesas regulables por {{precio:MLA17743447:k}}" },
       { productMlaId: "MLA28598537", label: "El de los profesionales", labelColor: "purple", tagline: "PRO X Superlight 2: 60 gramos, el tope de gama de e-sports" },
     ],
     intro: [
@@ -1410,7 +1410,7 @@ export const guides: Guide[] = [
 
       { type: "h3", title: `1. Logitech G203 Lightsync — el más vendido` },
       { type: "product-card", productMlaId: "MLA44849297", label: "El más vendido", labelColor: "green", ranking: 1, description: `Con cable, sensor de 8.000 DPI, 85 gramos y RGB. 4.9 estrellas en más de 16.000 calificaciones: el mouse gamer más vendido del país, por lejos.` },
-      { type: "p", content: `Si querés un solo dato para decidir, es este: el G203 tiene **más de 16.000 calificaciones con 4.9 estrellas**, el mejor respaldo de toda la categoría. Es con cable (2,1 metros), pesa 85 gramos, tiene 6 botones programables, RGB Lightsync y un sensor de 8.000 DPI que sobra para cualquier juego. Se consigue desde unos $38.600 (el precio varía bastante entre vendedores), con 2 años de garantía de Logitech.` },
+      { type: "p", content: `Si querés un solo dato para decidir, es este: el G203 tiene **más de 16.000 calificaciones con 4.9 estrellas**, el mejor respaldo de toda la categoría. Es con cable (2,1 metros), pesa 85 gramos, tiene 6 botones programables, RGB Lightsync y un sensor de 8.000 DPI que sobra para cualquier juego. Se consigue desde unos {{precio:MLA44849297:k}} (el precio varía bastante entre vendedores), con 2 años de garantía de Logitech.` },
       { type: "p", content: `¿La contra? Casi ninguna a este precio: es un mouse de entrada, así que no tiene el sensor premium ni el peso pluma de los caros, y el formato es compacto (las manos muy grandes pueden preferir algo más alto). Pero para jugar, trabajar y todo lo del medio, es la compra más segura de la guía. Sirve igual de bien para diseño o para el uso diario.` },
       { type: "pull-quote", content: `"No hay nada que se le acerque en relación calidad/precio. Si estás dudando, no dudes más y compralo."`, attribution: `Opinión verificada en MercadoLibre` },
 
@@ -1422,34 +1422,34 @@ export const guides: Guide[] = [
 
       { type: "h3", title: `3. Redragon Centrophorus M601 RGB — el más barato con respaldo` },
       { type: "product-card", productMlaId: "MLA17743447", label: "El más barato", labelColor: "amber", ranking: 3, description: `Con cable, sensor Pixart de 7.200 DPI, RGB configurable y kit de 8 pesas para regular el peso. 4.8 estrellas en más de 2.600 calificaciones.` },
-      { type: "p", content: `Si el presupuesto manda, el M601 es el más barato de la guía con ventas reales que lo respalden (más de 2.600 opiniones). Desde unos $26.500 trae un sensor Pixart 3317 de hasta 7.200 DPI, RGB configurable por software y algo que ni los Logitech de esta lista tienen: un **kit de 8 pesas de 2,4 gramos** para regular el peso a gusto, de 85 a 104 gramos. Los switches están certificados para 10 millones de clicks.` },
+      { type: "p", content: `Si el presupuesto manda, el M601 es el más barato de la guía con ventas reales que lo respalden (más de 2.600 opiniones). Desde unos {{precio:MLA17743447:k}} trae un sensor Pixart 3317 de hasta 7.200 DPI, RGB configurable por software y algo que ni los Logitech de esta lista tienen: un **kit de 8 pesas de 2,4 gramos** para regular el peso a gusto, de 85 a 104 gramos. Los switches están certificados para 10 millones de clicks.` },
       { type: "p", content: `Las contras honestas: **suele venir sin envío gratis** (sumalo a la cuenta al comparar), y con las pesas puestas es un mouse pesado, pensado más para control que para velocidad. Para empezar en el gaming o renovar un mouse de oficina gastando lo mínimo, cumple con creces.` },
       { type: "pull-quote", content: `"Muy cómodo a la mano, y eso que tengo manos grandes. Viene con los pesitos abajo y podés controlar el RGB con el programa del mouse."`, attribution: `Opinión verificada en MercadoLibre` },
 
       { type: "h3", title: `4. Logitech G309 Lightspeed — el sucesor moderno` },
       { type: "product-card", productMlaId: "MLA40568693", label: "El sucesor del G305", labelColor: "blue", ranking: 4, description: `Inalámbrico dual (Lightspeed y Bluetooth), sensor HERO 25K y más de 300 horas con una pila AA. 4.9 estrellas. El G305 modernizado.` },
       { type: "p", content: `El G309 es lo que Logitech aprendió del G305 en una versión moderna: sensor **HERO 25K** (el mismo de los modelos premium), conexión dual **Lightspeed y Bluetooth** (podés alternar entre la PC y una notebook o tablet), switches óptico-mecánicos que no desarrollan doble click con el desgaste, y más de **300 horas** de batería por Lightspeed (o 600 por Bluetooth), siempre con una pila AA. Además es más liviano que el G305: 86 gramos con la pila puesta.` },
-      { type: "p", content: `Las contras, directas de las reseñas: consume la pila algo más rápido que el G305 en uso real, y el formato es **más chico y chato**, así que si tenés manos grandes puede resultar poco anatómico. Se consigue desde unos $73.400, y es la mejor compra inalámbrica actual si tu mano es chica o mediana.` },
+      { type: "p", content: `Las contras, directas de las reseñas: consume la pila algo más rápido que el G305 en uso real, y el formato es **más chico y chato**, así que si tenés manos grandes puede resultar poco anatómico. Se consigue desde unos {{precio:MLA40568693:k}}, y es la mejor compra inalámbrica actual si tu mano es chica o mediana.` },
       { type: "pull-quote", content: `"Vengo del G305 y la mejora es notable: más livianito y cómodo. Lo único malo es que consume más pila, pero aun así lo recomiendo totalmente."`, attribution: `Opinión verificada en MercadoLibre` },
 
       { type: "h3", title: `5. Logitech G Pro Wireless — el clásico de e-sports` },
       { type: "product-card", productMlaId: "MLA14428767", label: "Clásico de e-sports", labelColor: "purple", ranking: 5, description: `Inalámbrico de 80 gramos con sensor HERO 25K, batería recargable de 60 horas y botones laterales intercambiables (apto zurdos). 4.8 estrellas.` },
       { type: "p", content: `El G Pro Wireless fue diseñado junto a jugadores profesionales y envejeció como un clásico: 80 gramos, sensor HERO 25K, batería **recargable** de 60 horas (48 si prendés el RGB) y una rareza valiosa: los **botones laterales son intercambiables** entre ambos lados, así que es de los pocos mouse gamer serios **aptos para zurdos**.` },
-      { type: "p", content: `Desde unos $141.000, hoy queda en un lugar incómodo: cuesta el doble que el G309 (que tiene el mismo sensor) sin ser el tope de gama. Lo elegís si necesitás la forma ambidiestra, la batería recargable o lo encontrás en oferta. Si no, el G309 por abajo o el Superlight 2 por arriba tienen más sentido.` },
+      { type: "p", content: `Desde unos {{precio:MLA14428767:k}}, hoy queda en un lugar incómodo: cuesta el doble que el G309 (que tiene el mismo sensor) sin ser el tope de gama. Lo elegís si necesitás la forma ambidiestra, la batería recargable o lo encontrás en oferta. Si no, el G309 por abajo o el Superlight 2 por arriba tienen más sentido.` },
 
       { type: "h3", title: `6. Logitech PRO X Superlight 2 — el de los profesionales` },
       { type: "product-card", productMlaId: "MLA28598537", label: "Tope de gama", labelColor: "purple", ranking: 6, description: `Ultraliviano de 60 gramos con sensor HERO 2 de 44.000 DPI, polling de 8.000 Hz y batería recargable USB-C de unas 95 horas. El que usan los profesionales.` },
       { type: "p", content: `El Superlight 2 es el mouse que domina los torneos de shooters, y el porqué se siente apenas lo agarrás: **60 gramos**, un tercio menos que un mouse común. Sensor HERO 2 (el mejor de Logitech), tasa de respuesta de hasta **8.000 Hz** (ocho veces la estándar), batería recargable por USB-C de unas 95 horas y switches ópticos. Sin RGB, a propósito: cada gramo cuenta.` },
-      { type: "p", content: `Se consigue desde unos $288.500, y esa es toda la discusión: para el jugador casual es plata tirada, porque la diferencia con un G305 no le va a cambiar ninguna partida. Para el competitivo que juega en serio todos los días, es de las pocas compras premium que se justifican de verdad. Vos sabés de qué lado estás.` },
+      { type: "p", content: `Se consigue desde unos {{precio:MLA28598537:k}}, y esa es toda la discusión: para el jugador casual es plata tirada, porque la diferencia con un G305 no le va a cambiar ninguna partida. Para el competitivo que juega en serio todos los días, es de las pocas compras premium que se justifican de verdad. Vos sabés de qué lado estás.` },
       { type: "pull-quote", content: `"El mejor mouse que tuve en mi vida. Si podés pagarlo, vale 100% la pena."`, attribution: `Opinión verificada en MercadoLibre` },
 
       { type: "h2", title: `Tabla comparativa: sensor, peso, batería y precio`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio desde`, `Conexión`, `Peso`, `Ideal para`], rows: [
-        [`[Redragon M601 RGB](https://meli.la/2rXZqbu)`, `$26.500`, `Cable`, `85-104 g (pesas)`, `El más barato con respaldo`],
+        [`[Redragon M601 RGB](https://meli.la/2rXZqbu)`, `{{precio:MLA17743447}}`, `Cable`, `85-104 g (pesas)`, `El más barato con respaldo`],
         [`[Logitech G203](https://meli.la/2EEbq8S)`, `{{precio:MLA44849297}}`, `Cable`, `85 g`, `El más vendido, compra segura`],
         [`[Logitech G305](https://meli.la/1dDyCA3)`, `{{precio:MLA11259955}}`, `Inalámbrico (pila AA)`, `99 g`, `El inalámbrico clásico`],
         [`[Logitech G309](https://meli.la/26ynmBo)`, `{{precio:MLA40568693}}`, `Inalámbrico + Bluetooth`, `86 g`, `Inalámbrico moderno, mano chica`],
-        [`[Logitech G Pro Wireless](https://meli.la/2HqvQqv)`, `$140.923`, `Inalámbrico (recargable)`, `80 g`, `E-sports, apto zurdos`],
+        [`[Logitech G Pro Wireless](https://meli.la/2HqvQqv)`, `{{precio:MLA14428767}}`, `Inalámbrico (recargable)`, `80 g`, `E-sports, apto zurdos`],
         [`[PRO X Superlight 2](https://meli.la/2ZRDxvS)`, `{{precio:MLA28598537}}`, `Inalámbrico (USB-C)`, `60 g`, `Competitivo profesional`],
       ] },
 
@@ -1461,11 +1461,11 @@ export const guides: Guide[] = [
       { type: "h3", title: `3. No pagues por DPI, pagá por sensor` },
       { type: "p", content: `Regla del curador: entre dos mouse, no elijas el de más DPI, elegí el de mejor sensor. Un HERO o un Pixart moderno sin aceleración a 1.600 DPI le gana a un sensor genérico de "12.800 DPI" siempre. Los DPI gigantes (25.600, 44.000) existen porque el sensor es bueno, no al revés. Y las luces RGB: lindas en la gama de entrada, ausentes en la gama pro. Que no te las cobren como rendimiento.` },
 
-      { type: "h2", title: `Cuánto cuesta un mouse gamer en Argentina [julio 2026]`, id: "precios" },
+      { type: "h2", title: `Cuánto cuesta un mouse gamer en Argentina [agosto 2026]`, id: "precios" },
       { type: "list", items: [
-        `**$26.500 a $39.000:** la gama de entrada con respaldo real. El [Redragon M601](https://meli.la/2rXZqbu) (el más barato, con pesas regulables) y el [Logitech G203](https://meli.la/2EEbq8S) (el más vendido del país).`,
-        `**$56.000 a $74.000:** los inalámbricos que convienen. El [G305](https://meli.la/1dDyCA3) (el clásico) y el [G309](https://meli.la/26ynmBo) (el moderno con Bluetooth y sensor premium).`,
-        `**$140.000 o más:** la gama de e-sports. El [G Pro Wireless](https://meli.la/2HqvQqv) (apto zurdos) y el [PRO X Superlight 2](https://meli.la/2ZRDxvS) (60 gramos, el de los profesionales).`,
+        `**{{precio:MLA17743447:k}} a {{precio:MLA44849297:k}}:** la gama de entrada con respaldo real. El [Redragon M601](https://meli.la/2rXZqbu) (el más barato, con pesas regulables) y el [Logitech G203](https://meli.la/2EEbq8S) (el más vendido del país).`,
+        `**{{precio:MLA11259955:k}} a {{precio:MLA40568693:k}}:** los inalámbricos que convienen. El [G305](https://meli.la/1dDyCA3) (el clásico) y el [G309](https://meli.la/26ynmBo) (el moderno con Bluetooth y sensor premium).`,
+        `**{{precio:MLA14428767:k}} o más:** la gama de e-sports. El [G Pro Wireless](https://meli.la/2HqvQqv) (apto zurdos) y el [PRO X Superlight 2](https://meli.la/2ZRDxvS) (60 gramos, el de los profesionales).`,
       ] },
 
       { type: "h2", title: `Veredicto: cuál mouse gamer comprar`, id: "veredicto" },
@@ -3820,8 +3820,8 @@ export const guides: Guide[] = [
     silo: "seguridad",
     pillar: false,
     title: `Cámara de seguridad exterior: cuál comprar en Argentina [2026]`,
-    seoTitle: `Cámaras de Seguridad Exterior: Precios y Cuál Comprar [2026]`,
-    metaDescription: `Comparamos las mejores cámaras de seguridad para exterior en Argentina: Gadnic SX37, Ezviz C8c y Gadnic DM200W-Pro. IP66, motor y precio real.`,
+    seoTitle: `Mejores Cámaras de Seguridad Exterior 2026: Precios Reales`,
+    metaDescription: `Cuál cámara de seguridad exterior conviene en Argentina: fija o motorizada, IP verificado en ficha. Desde {{precio:MLA66204799:k}}, con la contra honesta de cada una.`,
     ogTitle: `Cámara de seguridad exterior: cuál comprar en Argentina`,
     ogDescription: `De la bala fija más probada a la domo motorizada con inteligencia artificial. Comparamos las cámaras de seguridad para exterior más vendidas de Argentina por resistencia al agua, motor y precio real.`,
     ogImage: `https://http2.mlstatic.com/D_NQ_NP_863560-MLA109753503435_032026-O.webp`,
@@ -3832,7 +3832,7 @@ export const guides: Guide[] = [
     sitemapLastmod: "2026-08-03",
     hasDisclosure: true,
     readingTime: 8,
-    standfirst: `Una cámara de seguridad para exterior arranca en {{precio:MLA18967142:k}} (bala fija, la más probada) y llega a {{precio:MLA66806823:k}} (domo motorizada de marca internacional), sin pagar mensualidad. Te mostramos cuál conviene según necesites un ángulo fijo o cobertura amplia, comparando las más vendidas de Argentina con precios reales de MercadoLibre.`,
+    standfirst: `Una cámara de seguridad para exterior arranca en {{precio:MLA66204799:k}} (domo motorizada de 3MP) y llega a {{precio:MLA66806823:k}} (domo de marca internacional), sin pagar mensualidad. Te mostramos cuál conviene según necesites un ángulo fijo o cobertura amplia, comparando las más vendidas de Argentina con precios reales de MercadoLibre.`,
     quickPicks: [
       { productMlaId: "MLA18967142", label: "La más probada", labelColor: "amber", tagline: "Gadnic SX37: bala fija, más de 8.600 opiniones, la de mayor historial" },
       { productMlaId: "MLA66806823", label: "Mejor marca y motor", labelColor: "blue", tagline: "Ezviz C8c: domo motorizada, IP66 y detección de personas por IA" },
@@ -3893,13 +3893,13 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Cuánto cuesta una cámara de seguridad exterior [julio 2026]`, id: "precios" },
       { type: "list", items: [
-        `**Alrededor de {{precio:MLA18967142:k}}:** la [Gadnic SX37](https://meli.la/19g95Yv), bala fija, la más económica y con más historial.`,
-        `**Alrededor de {{precio:MLA66204799:k}}:** la [Gadnic DM200W-Pro](https://meli.la/2f8sBDJ), domo motorizada de mejor resolución.`,
+        `**Alrededor de {{precio:MLA66204799:k}}:** la [Gadnic DM200W-Pro](https://meli.la/2f8sBDJ), domo motorizada de mejor resolución y la más económica de esta guía.`,
+        `**Alrededor de {{precio:MLA18967142:k}}:** la [Gadnic SX37](https://meli.la/19g95Yv), bala fija, la de mayor historial de compradores.`,
         `**Alrededor de {{precio:MLA66806823:k}}:** la [Ezviz C8c](https://meli.la/2huJpqG), domo motorizada de marca internacional, la más cara del grupo.`,
       ] },
 
       { type: "h2", title: `Veredicto: cuál cámara de seguridad exterior comprar`, id: "veredicto" },
-      { type: "verdict", content: `Para un ángulo fijo (la entrada, el frente) y el mayor respaldo de compradores, la **Gadnic SX37**: bala fija, IP65 y más de 8.600 opiniones, la más económica de esta guía. Si necesitás que la cámara gire y priorizás una marca internacional con detección inteligente de personas, la **Ezviz C8c**. Y si te interesa la mejor resolución técnica (3MP) y no te importa que sea un modelo nuevo con poco historial, la **Gadnic DM200W-Pro**. En los tres casos, la memoria micro-SD se compra aparte.` },
+      { type: "verdict", content: `Para un ángulo fijo (la entrada, el frente) y el mayor respaldo de compradores, la **Gadnic SX37**: bala fija, IP65 y más de 8.600 opiniones. Si necesitás que la cámara gire y priorizás una marca internacional con detección inteligente de personas, la **Ezviz C8c**. Y si te interesa la mejor resolución técnica (3MP) y el precio más bajo de esta guía, y no te importa que sea un modelo nuevo con poco historial, la **Gadnic DM200W-Pro**. En los tres casos, la memoria micro-SD se compra aparte.` },
     ],
     faq: [
       { question: `¿Cuál es la mejor cámara de seguridad para exterior en Argentina?`, answer: `Depende de si necesitás un ángulo fijo o cobertura amplia. Para un punto fijo con el mayor respaldo de compradores, la Gadnic SX37 (más de 8.600 opiniones). Para que gire y cubra más área, la Ezviz C8c (marca internacional, IP66) o la Gadnic DM200W-Pro (mejor resolución, 3MP).` },
@@ -4213,8 +4213,8 @@ export const guides: Guide[] = [
     silo: "tech",
     pillar: true,
     title: `Cargador portátil: cuál comprar en Argentina [2026]`,
-    seoTitle: `Cargador Portátil (Power Bank): Cuál Comprar | 2026`,
-    metaDescription: `Descubrí qué cargador portátil comprar en Argentina: 10.000 o 25.000 mAh, con carga rápida o magnético. Compará precios reales y elegí el tuyo.`,
+    seoTitle: `Mejor Cargador Portátil (Power Bank) en Argentina [2026]`,
+    metaDescription: `Cuál cargador portátil conviene para celular o notebook: la capacidad real es el 60-70% de lo que dice el envase. Desde {{precio:MLA40654567:k}}, con precios reales.`,
     ogTitle: `Cargador portátil: cuál comprar en Argentina`,
     ogDescription: `Del power bank más vendido al que carga notebooks. Gadnic, Xiaomi, Energizer y Ugreen comparados por capacidad real, velocidad y precio de MercadoLibre.`,
     ogImage: `https://http2.mlstatic.com/D_NQ_NP_604358-MLA99985510449_112025-O.webp`,
@@ -4224,7 +4224,7 @@ export const guides: Guide[] = [
     updatedDate: "2026-07-14",
     hasDisclosure: true,
     readingTime: 9,
-    standfirst: `Un cargador portátil va de {{precio:MLA28743686:k}} (25.000 mAh genérico) a {{precio:MLA51985227:k}} (65 W, carga notebooks). Te mostramos cuál conviene según tu teléfono y tu uso, con un dato que casi nadie aclara: la capacidad útil real es un 60-70% de la que dice el envase. Precios reales de MercadoLibre.`,
+    standfirst: `Un cargador portátil va de {{precio:MLA40654567:k}} (10.000 mAh con carga rápida) a {{precio:MLA51985227:k}} (65 W, carga notebooks). Te mostramos cuál conviene según tu teléfono y tu uso, con un dato que casi nadie aclara: la capacidad útil real es un 60-70% de la que dice el envase. Precios reales de MercadoLibre.`,
     quickPicks: [
       { productMlaId: "MLA28743686", label: "El más vendido", labelColor: "green", tagline: "Gadnic 25.000 mAh: la mayor capacidad por la menor plata" },
       { productMlaId: "MLA40654567", label: "Mejor precio-marca", labelColor: "blue", tagline: "Xiaomi 10.000 mAh: 22,5 W de turbo a precio de genérico" },
@@ -11420,7 +11420,7 @@ export const guides: Guide[] = [
     publishedDate: "2026-05-16",
     updatedDate: "2026-07-08",
     hasDisclosure: true,
-    standfirst: `Análisis de la Gadnic 6.5L: qué tan buena es, qué perdés frente a una Atma, y qué comprar mientras está sin stock en Mercado Libre.`,
+    standfirst: `Análisis de la Gadnic 6.5L: qué tan buena es, qué perdés frente a una Atma, y qué comprar ahora que ese modelo ya no se consigue en Mercado Libre.`,
     quickPicks: [
       { productMlaId: "MLA61393261", label: "Disponible ahora", labelColor: "green", tagline: "Philips NA120/00 4.2L, la opción de entrada en stock" },
       { productMlaId: "MLA39861162", label: "Si querés más capacidad", labelColor: "purple", tagline: "Atma FR248ABP 8L, acero inoxidable" },
@@ -11428,11 +11428,11 @@ export const guides: Guide[] = [
     intro: [
       `Gadnic es una marca argentina con fuerte presencia en Mercado Libre. Tiene tecnología de consumo, pequeños electrodomésticos, y mucho tráfico de compras. Su airfryer de 6.5 litros estuvo en el catálogo bastante tiempo y aparece constantemente en búsquedas.`,
       `La pregunta real que todos se hacen: si es hecha acá, ¿es más barata sin perder calidad? ¿O simplemente es una alternativa local para quien no quiere importado?`,
-      `Pasé tiempo con un modelo para saber qué tan buena es realmente. Dejamos el análisis publicado aunque hoy esté sin stock, porque suele reponerse y porque sigue sirviendo como referencia frente a otras marcas nacionales.`,
+      `Pasé tiempo con un modelo para saber qué tan buena es realmente. Dejamos el análisis publicado aunque ese modelo ya no se consiga, porque sigue sirviendo como referencia de qué esperar de Gadnic frente a otras marcas nacionales.`,
     ],
     sections: [
       { type: "image", src: "/images/freidoras/gadnic-airfryer-6-5l.webp", alt: `Gadnic Airfryer freidora de aire 6.5 litros 1400W Argentina` },
-      { type: "callout", calloutVariant: "warning", calloutTitle: "Actualmente sin stock en Mercado Libre", content: `Confirmamos en vivo que esta Gadnic 6.5L está agotada. Mientras no repongan, la [Philips NA120/00 de 4.2L](https://meli.la/2gU6JZ1) es la opción de entrada disponible (más chica, pero con 2 años de garantía formal). El resto de este análisis queda como referencia de qué esperar si la Gadnic vuelve a stock.` },
+      { type: "callout", calloutVariant: "warning", calloutTitle: "El modelo que probamos ya no se consigue", content: `Confirmamos en vivo que esta Gadnic 6.5L de 1400 W está agotada, y la ficha de catálogo de Mercado Libre ya la da como no disponible, así que no parece una falta de stock pasajera. Hoy la línea Gadnic de 6,5 litros se vende como [Cuk by Gadnic 1600 W digital](https://www.mercadolibre.com.ar/freidora-de-aire-cuk-by-gadnic-65lts-1600w-air-fryer-panel-digital-antiadherente-temporizador-multifuncion-apagado-automatico-12-programas/p/MLA18728637), que **no es el modelo de este análisis**: tiene más potencia y panel digital con programas en vez de las dos perillas. Si preferís gastar menos, la [Philips NA120/00 de 4.2L](https://meli.la/2gU6JZ1) sigue disponible (más chica, pero con 2 años de garantía formal). El resto de este análisis queda como referencia de qué esperar de la marca.` },
       { type: "h2", title: `Especificaciones: potencia justa para el tamaño` },
       { type: "p", content: `La Gadnic 6.5L tiene 1400W, pantalla digital con display pequeño pero legible, controles táctiles responsivos, y selector de temperatura (150-400°C).` },
       { type: "p", content: `El cuerpo es acero inoxidable con detalles negros, lo que le da un aspecto más terminado que otras opciones. El diseño es compacto: no ocupa tanto como una Atma de 8 litros pero entra más que una PowerXL.` },
@@ -11486,11 +11486,11 @@ export const guides: Guide[] = [
         `La circulación de aire es buena pero no es uniforme si llenas todo`,
       ]},
       { type: "h2", title: `Para quién es la Gadnic` },
-      { type: "p", content: `Si sos de 2-4 personas y querés una freidora decente a precio justo, servía bien. Si buscás marca local con servicio accesible, era tu opción. Mientras esté sin stock, la Philips NA120/00 cubre el mismo rol de entrada aunque con menos capacidad (4.2L).` },
+      { type: "p", content: `Si sos de 2-4 personas y querés una freidora decente a precio justo, servía bien. Si buscás marca local con servicio accesible, era tu opción. Ahora que ese modelo no se consigue, la Philips NA120/00 cubre el mismo rol de entrada aunque con menos capacidad (4.2L).` },
       { type: "p", content: `Si cocinás para 6+ personas o querés máxima durabilidad, considerá Atma o algo más grande.` },
       { type: "h2", title: `Recomendación final` },
-      { type: "p", content: `Gadnic es una buena opción argentina cuando está disponible. Funciona bien, tiene servicio local, y el precio era inteligente. No es la freidora más robusta del mercado, pero para 3-4 años de uso normal sin drama, es sólida.` },
-      { type: "p", content: `Hoy, sin stock, la alternativa de entrada es la [Philips NA120/00](https://meli.la/2gU6JZ1). Si después de leer esto dudás entre esa y la Atma, probablemente Atma te dé más paz mental a largo plazo.` },
+      { type: "p", content: `Gadnic era una buena opción argentina en esta gama. Funciona bien, tiene servicio local, y el precio era inteligente. No es la freidora más robusta del mercado, pero para 3-4 años de uso normal sin drama, es sólida.` },
+      { type: "p", content: `Hoy, con ese modelo discontinuado, la alternativa de entrada es la [Philips NA120/00](https://meli.la/2gU6JZ1). Si querés quedarte en Gadnic, la línea de 6,5 litros sigue viva como [Cuk by Gadnic 1600 W digital](https://www.mercadolibre.com.ar/freidora-de-aire-cuk-by-gadnic-65lts-1600w-air-fryer-panel-digital-antiadherente-temporizador-multifuncion-apagado-automatico-12-programas/p/MLA18728637), aunque sale bastante más y no es el modelo que probamos. Si después de leer esto dudás entre la Philips y la Atma, probablemente Atma te dé más paz mental a largo plazo.` },
       { type: "p", content: `Para chequear si la Gadnic volvió a stock, mirá la [ficha completa](/producto/freidora-de-aire-gadnic-6-5-l-1400w-220-240v-temperatura-80-a-200-c-temporizador-mla44142280).` },
       { type: "p", content: `Y si querés comparar más opciones antes de decidir, leé [las mejores freidoras de aire en Argentina](/guias/mejores-freidoras-de-aire-argentina) y la [review de las freidoras Atma](/guias/atma-freidoras-de-aire-review).` },
     ],
@@ -11509,7 +11509,7 @@ export const guides: Guide[] = [
       },
       {
         question: `¿Conviene Gadnic o mejor espero a tener más presupuesto para Atma?`,
-        answer: `Con la Gadnic sin stock, la decisión real hoy es entre la Philips NA120/00 (más barata, 4.2L) y la Atma FR248ABP (más cara, 8L, más robusta). Si necesitás freidora ya y el espacio/presupuesto son ajustados, Philips. Si podés esperar o cocinás para más gente, Atma.`,
+        answer: `Con ese modelo de Gadnic discontinuado, la decisión real hoy es entre la Philips NA120/00 (más barata, 4.2L) y la Atma FR248ABP (más cara, 8L, más robusta). Si el espacio y el presupuesto son ajustados, Philips. Si cocinás para más gente, Atma. Y si querés seguir en Gadnic, está la Cuk by Gadnic de 6,5 litros y 1600 W, más cara y con panel digital en vez de perillas.`,
       },
       {
         question: `¿La Gadnic calienta mucho el exterior mientras funciona?`,
@@ -13325,9 +13325,9 @@ export const guides: Guide[] = [
     category: "perfumes-arabes",
     title: "Perfumes árabes precio 2026: comparativa por marca Argentina",
     seoTitle: "Perfumes árabes precio 2026: cuánto sale cada marca",
-    metaDescription: "Cuánto sale un perfume árabe en Argentina 2026: de $16.000 los básicos a $100.000+ los premium. Precios marca por marca y cuál rinde más por tu plata.",
+    metaDescription: "Cuánto sale un perfume árabe en Argentina 2026: de {{precio:MLA24605489:k}} un frasco de 100 ml a {{precio:MLA16122300:k}} los premium. Precios marca por marca.",
     ogTitle: "Cuánto sale un perfume árabe en Argentina (2026): precios por marca",
-    ogDescription: "De los $40.000 de entrada a los premium de $100.000+. La comparativa de precios por marca y concentración, para no pagar de más en tu primer árabe.",
+    ogDescription: "De {{precio:MLA24605489:k}} el frasco de entrada a {{precio:MLA16122300:k}} los premium. La comparativa de precios por marca y concentración, para no pagar de más en tu primer árabe.",
     h1: "Perfumes árabes precio 2026: qué cuesta cada marca en Argentina",
     publishedDate: "2026-04-17",
     updatedDate: "2026-06-26",
@@ -15717,7 +15717,7 @@ export const guides: Guide[] = [
     sitemapLastmod: "2026-07-27",
     hasDisclosure: true,
     intro: [
-      "Un Creed Aventus en Argentina cuesta $500.000. Un Armaf Club de Nuit Intense Man, que comparte el 80% de su perfil olfativo, cuesta $130.000. Esa relación se repite con Dior Sauvage Elixir vs Lattafa Asad Intense, Paco Rabanne Invictus vs Rasasi Hawas Ice y otra docena de fragancias premium. El nicho árabe se construyó sobre esa lógica: ofrecer perfiles olfativos similares a perfumes occidentales caros a una fracción del costo.",
+      "Un Creed Aventus en Argentina cuesta $500.000. Un Armaf Club de Nuit Intense Man, que comparte el 80% de su perfil olfativo, cuesta {{precio:MLA16122300:k}}. Esa relación se repite con Dior Sauvage Elixir vs Lattafa Asad Intense, Paco Rabanne Invictus vs Rasasi Hawas Ice y otra docena de fragancias premium. El nicho árabe se construyó sobre esa lógica: ofrecer perfiles olfativos similares a perfumes occidentales caros a una fracción del costo.",
       "Esta guía lista los dupes árabes más buscados en Argentina, qué perfume occidental imita cada uno, qué tan cerca llegan del original, dónde fallan y a quién le conviene cada uno. Cubrimos los 8 que están disponibles en el catálogo argentino con datos reales de reseñas y precio."
     ],
     sections: [
@@ -15750,13 +15750,13 @@ export const guides: Guide[] = [
         type: "table",
         headers: ["Dupe árabe", "Original occidental", "Precio dupe AR", "Precio original AR", "Similitud"],
         rows: [
-          ["Armaf Club de Nuit Intense Man", "Creed Aventus", "$120.000-$145.000", "$450.000-$600.000", "Alta (80-85%)"],
-          ["Lattafa Asad Intense", "Dior Sauvage Elixir", "$48.000-$62.000", "$280.000-$350.000", "Media-alta (70-80%)"],
-          ["Rasasi Hawas Ice", "Paco Rabanne Invictus", "$70.000-$85.000", "$200.000-$300.000", "Media-alta (75%)"],
-          ["Lattafa Khamrah Qahwa", "Tom Ford Tobacco Vanille", "$55.000-$75.000", "$400.000-$550.000", "Media (60-70%)"],
-          ["Lattafa Her Confession", "Mugler Alien", "$45.000-$58.000", "$180.000-$250.000", "Media (60-70%)"],
-          ["Maison Alhambra Sceptre Malachite", "Creed Aventus (alternativo)", "$60.000-$80.000", "$450.000-$600.000", "Media-alta (75%)"],
-          ["Lattafa Mayar", "Xerjoff Erba Pura", "$55.000-$65.000", "$650.000-$800.000", "Media (65%)"],
+          ["Armaf Club de Nuit Intense Man", "Creed Aventus", "{{precio:MLA16122300}}", "$450.000-$600.000", "Alta (80-85%)"],
+          ["Lattafa Asad Intense", "Dior Sauvage Elixir", "{{precio:MLA19715215}}", "$280.000-$350.000", "Media-alta (70-80%)"],
+          ["Rasasi Hawas Ice", "Paco Rabanne Invictus", "{{precio:MLA29780185}}", "$200.000-$300.000", "Media-alta (75%)"],
+          ["Lattafa Khamrah Qahwa", "Tom Ford Tobacco Vanille", "{{precio:MLA31178643}}", "$400.000-$550.000", "Media (60-70%)"],
+          ["Lattafa Her Confession", "Mugler Alien", "{{precio:MLA41304983}}", "$180.000-$250.000", "Media (60-70%)"],
+          ["Maison Alhambra Sceptre Malachite", "Creed Aventus (alternativo)", "{{precio:MLA27855490}}", "$450.000-$600.000", "Media-alta (75%)"],
+          ["Lattafa Mayar", "Xerjoff Erba Pura", "{{precio:MLA25883660}}", "$650.000-$800.000", "Media (65%)"],
           ["Afnan 9PM", "Inspiración propia (no copia directa)", "$45.000-$58.000", "—", "—"]
         ]
       },
@@ -15930,7 +15930,7 @@ export const guides: Guide[] = [
     faq: [
       {
         question: "¿Cuál es el mejor dupe árabe del Creed Aventus?",
-        answer: "Armaf Club de Nuit Intense Man, sin discusión. Es el dupe de Aventus más reconocido del mundo, con 200ml de frasco a $120.000-145.000 en Argentina contra los $450.000-600.000 del Aventus 100ml. La similitud llega al 80-85% para usuario no experto. Maison Alhambra Sceptre Malachite es la alternativa más sutil dentro del mismo catálogo."
+        answer: "Armaf Club de Nuit Intense Man, sin discusión. Es el dupe de Aventus más reconocido del mundo, con 200ml de frasco a {{precio:MLA16122300:k}} en Argentina contra los $450.000-600.000 del Aventus 100ml. La similitud llega al 80-85% para usuario no experto. Maison Alhambra Sceptre Malachite es la alternativa más sutil dentro del mismo catálogo."
       },
       {
         question: "¿Lattafa Asad Intense es realmente como Dior Sauvage Elixir?",
@@ -16982,12 +16982,12 @@ export const guides: Guide[] = [
     seoTitle: `Robot aspiradora precio Argentina 2026: guía por rango`,
     metaDescription: `Cuánto sale un robot aspiradora en Argentina en 2026: desde la Fika SENSE a {{precio:MLA54522658}} hasta la Xiaomi X20 Max a {{precio:MLA44235159}}. Tabla de 18 modelos.`,
     ogTitle: `¿Cuánto sale un robot aspiradora en serio? La tabla completa 2026`,
-    ogDescription: `De $130.000 a más de $3.000.000: te mostramos qué hace cada robot en cada rango y dónde está el punto justo entre lo barato que decepciona y lo caro que no necesitás.`,
+    ogDescription: `De {{precio:MLA54522658:k}} a {{precio:MLA44718960:k}}: te mostramos qué hace cada robot en cada rango y dónde está el punto justo entre lo barato que decepciona y lo caro que no necesitás.`,
     h1: `Robot aspiradora: precios en Argentina y qué te da cada rango [2026]`,
     publishedDate: "2026-06-06",
     updatedDate: "2026-06-06",
     hasDisclosure: true,
-    standfirst: `Comparamos 18 robots aspiradora que se consiguen hoy en MercadoLibre Argentina, de $130.000 a más de $3.000.000. La pregunta no es "cuál es el mejor", es "qué estoy comprando exactamente con cada peso".`,
+    standfirst: `Comparamos 18 robots aspiradora que se consiguen hoy en MercadoLibre Argentina, de {{precio:MLA54522658:k}} a {{precio:MLA44718960:k}}. La pregunta no es "cuál es el mejor", es "qué estoy comprando exactamente con cada peso".`,
     intro: [
       `La búsqueda más honesta del tema es la más simple: **"robot aspiradora precio"**. Antes de elegir marca o features, casi todo el mundo quiere saber una sola cosa: cuánto sale esto y si lo barato sirve. La respuesta corta es que en Argentina hay robots desde **$130.979** y otros que se van a más de **$3.000.000**. Esa diferencia de más de veinte veces no es marketing: es navegación, succión, autonomía y, sobre todo, si el robot piensa por dónde va o choca contra todo.`,
       `Lo difícil no es encontrar el más caro ni el más barato, es entender el medio. Entre un robot de $130.000 que anda chocando al azar y uno de $600.000 que mapea tu casa con láser hay seis o siete escalones de precio, y cada uno te da algo concreto. Acá los separamos en tres rangos —entrada, medio y premium— y te decimos qué ganás exactamente al subir de uno al otro.`,
@@ -21526,7 +21526,7 @@ export const guides: Guide[] = [
     updatedDate: "2026-07-16",
     hasDisclosure: true,
     readingTime: 8,
-    standfirst: `Hay tostadoras desde {{precio:MLA20804912:k}} hasta {{precio:MLA53972632:k}}, con capacidad de 2 o 4 rebanadas y funciones que van de lo más básico (tostar y nada más) a cancelar, descongelar y recalentar. Comparamos las 4 con mejor respaldo de compradores reales de MercadoLibre Argentina, con las contras que las publicaciones no siempre cuentan.`,
+    standfirst: `Hay tostadoras desde {{precio:MLA19479631:k}} hasta {{precio:MLA53972632:k}}, con capacidad de 2 o 4 rebanadas y funciones que van de lo más básico (tostar y nada más) a cancelar, descongelar y recalentar. Comparamos las 4 con mejor respaldo de compradores reales de MercadoLibre Argentina, con las contras que las publicaciones no siempre cuentan.`,
     quickPicks: [
       { productMlaId: "MLA19479631", label: "La más vendida", labelColor: "green", tagline: "Liliana Tostler AT900: 1º en Tostadoras, precio accesible" },
       { productMlaId: "MLA20804912", label: "La mejor calificada", labelColor: "blue", tagline: "Atma To20Wp: 4.8 estrellas, cancela, descongela y recalienta" },
