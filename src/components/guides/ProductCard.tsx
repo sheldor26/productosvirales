@@ -145,6 +145,7 @@ export function ProductCard({ section }: ProductCardProps) {
               El botón amarillo sigue siendo el único CTA de afiliado. */}
           <Link
             href={productHref(product)}
+            prefetch={false}
             aria-label={`Ver ficha de ${product.title}`}
             className="shrink-0 w-[100px] sm:w-[120px] flex items-center justify-center p-2"
             style={{ backgroundColor: "var(--bg-secondary)" }}
@@ -174,13 +175,14 @@ export function ProductCard({ section }: ProductCardProps) {
             >
               <Link
                 href={productHref(product)}
+                prefetch={false}
                 className="hover:underline underline-offset-2"
               >
                 {product.title}
               </Link>
             </h4>
             {section.description && (
-              <Link href={productHref(product)} className="block">
+              <Link href={productHref(product)} prefetch={false} className="block">
                 <p className="text-[13px] sm:text-sm text-[var(--text-secondary)] leading-snug line-clamp-2">
                   {toPlainText(section.description)}
                 </p>
@@ -196,6 +198,7 @@ export function ProductCard({ section }: ProductCardProps) {
             {product.priceStatus === "out_of_stock" ? (
               <Link
                 href={productHref(product)}
+                prefetch={false}
                 data-cta-location="card"
                 className="self-start inline-flex items-center gap-1 mt-1 px-3 py-1.5 text-xs font-extrabold rounded-[var(--radius-button)] transition-transform hover:-translate-y-px"
                 style={{
@@ -261,6 +264,7 @@ export function ProductCard({ section }: ProductCardProps) {
             El botón amarillo sigue siendo el único CTA de afiliado. */}
         <Link
           href={productHref(product)}
+          prefetch={false}
           aria-label={`Ver ficha de ${product.title}`}
           className="shrink-0 md:w-[200px] aspect-square md:aspect-auto md:h-auto flex items-center justify-center p-3 md:p-5"
           style={{ backgroundColor: "var(--bg-secondary)" }}
@@ -281,6 +285,7 @@ export function ProductCard({ section }: ProductCardProps) {
           >
             <Link
               href={productHref(product)}
+              prefetch={false}
               className="hover:underline underline-offset-2"
             >
               {product.title}
@@ -290,6 +295,7 @@ export function ProductCard({ section }: ProductCardProps) {
           {rating && (
             <Link
               href={productHref(product)}
+              prefetch={false}
               className="flex w-fit flex-wrap items-center gap-x-2 gap-y-1 text-sm text-[var(--text-muted)]"
             >
               <Stars rating={rating} />
@@ -301,7 +307,7 @@ export function ProductCard({ section }: ProductCardProps) {
           )}
 
           {section.description && (
-            <Link href={productHref(product)} className="block">
+            <Link href={productHref(product)} prefetch={false} className="block">
               <p className="text-[15px] md:text-base leading-[1.65] text-[var(--text-secondary)]">
                 {toPlainText(section.description)}
               </p>
@@ -361,6 +367,7 @@ export function ProductCard({ section }: ProductCardProps) {
             {product.priceStatus === "out_of_stock" ? (
               <Link
                 href={productHref(product)}
+                prefetch={false}
                 data-cta-location="card"
                 className="inline-flex items-center gap-1.5 px-5 py-3 text-sm font-extrabold rounded-[var(--radius-button)] transition-transform hover:-translate-y-px"
                 style={{
@@ -397,6 +404,7 @@ export function ProductCard({ section }: ProductCardProps) {
           <p className="mt-2 text-[13px]">
             <Link
               href={productHref(product)}
+              prefetch={false}
               className="text-[var(--text-muted)] underline underline-offset-2 hover:text-[var(--text-secondary)] transition-colors"
             >
               Ver ficha y opiniones

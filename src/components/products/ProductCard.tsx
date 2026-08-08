@@ -91,7 +91,7 @@ export function ProductCard({
           guardar como hermano, no hijo: un <button> dentro de un <a> es HTML
           inválido y rompe el accessibility tree / los clicks. */}
       <div className="relative" style={{ aspectRatio: "10/9" }}>
-        <Link href={productUrl} className="block relative w-full h-full">
+        <Link href={productUrl} prefetch={false} className="block relative w-full h-full">
           <div
             className="absolute inset-0"
             style={{ backgroundColor: pastelColor || "var(--bg-secondary)" }}
@@ -205,12 +205,13 @@ export function ProductCard({
       <div className="p-3 md:p-3.5">
         <Link
           href={`/categoria/${categorySlug}`}
+          prefetch={false}
           className="text-[11px] text-[var(--text-muted)] hover:text-[var(--text-secondary)] transition-colors"
         >
           {category}
         </Link>
 
-        <Link href={productUrl}>
+        <Link href={productUrl} prefetch={false}>
           <h3 className="mt-1 text-sm font-medium leading-[1.3] text-[var(--text-primary)] line-clamp-2">
             {title}
           </h3>
@@ -263,6 +264,7 @@ export function ProductCard({
             // rige ProductDetail.tsx para esta situación.
             <Link
               href={productUrl}
+              prefetch={false}
               onClick={(e) => e.stopPropagation()}
               className="flex items-center justify-center w-11 h-11 md:w-10 md:h-10 rounded-full bg-[var(--cta-bg)] text-[var(--cta-text)] hover:bg-[var(--cta-hover)] motion-safe:active:scale-90 transition-[background-color,transform] shrink-0"
               aria-label={`Ver alternativas para ${title} (sin stock en esta publicación)`}

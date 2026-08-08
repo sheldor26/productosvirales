@@ -102,6 +102,7 @@ export function StickyBuyBar({ product }: StickyBuyBarProps) {
       {product.priceStatus === "out_of_stock" ? (
         <Link
           href={productHref(product)}
+          prefetch={false}
           data-cta-location={tableInView ? "sticky-table" : "sticky"}
           className="shrink-0 inline-flex items-center gap-1.5 px-4 text-[13.5px] font-extrabold rounded-[var(--radius-button)]"
           style={{
