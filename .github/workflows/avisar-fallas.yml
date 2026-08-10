@@ -1,0 +1,97 @@
+name: Avisar si falla un workflow programado
+
+# Por que existe: el 2026-08-07 el workflow de precios se rompio y NADIE se
+# entero hasta el 2026-08-10. Tres dias con el catalogo congelado mientras las
+# guias mostraban precios viejos. Cuando se midio, 9 de 13 productos tenian el
+# precio mal, con desvios de hasta +200%.
+#
+# Los workflows programados fallan en silencio: no hay mail, no hay aviso, y
+# el unico rastro es la pestaña Actions, que nadie mira si no sospecha algo.
+# Este workflow cierra ese agujero.
+#
+# Como funciona: escucha el evento `workflow_run` de los workflows
+# programados. Si alguno termina en `failure`, abre un issue. Si ya hay uno
+# abierto para ese mismo workflow, comenta ahi en vez de abrir otro, para no
+# llenar el repo de issues repetidos cuando algo se rompe varios dias seguidos.
+#
+# No usa Telegram a proposito: ese canal es para los suscriptores y las bajas
+# de precio, no para avisos de infraestructura.
+
+on:
+  workflow_run:
+    # OJO: estos nombres tienen que coincidir EXACTO con el `name:` de cada
+    # workflow. Si hay un typo, workflow_run no dispara nunca y el aviso queda
+    # mudo, que es justo la falla silenciosa que esto viene a evitar.
+    workflows:
+      - "Actualizar precios via Bright Data"
+      - "Actualizar precios de MercadoLibre"
+      - "Detectar tendencias TikTok"
+      - "Radar de tendencias Argentina"
+      - "Descubrir productos (Amazon + ML)"
+      - "Scraper puntual Bright Data (URLs a mano)"
+      - "Avisar a IndexNow (Bing/Yandex)"
+    types: [completed]
+
+permissions:
+  issues: write
+  actions: read
+
+jobs:
+  avisar:
+    # Solo cuando fallo de verdad. `cancelled` y `skipped` no son fallas.
+    if: github.event.workflow_run.conclusion == 'failure'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Abrir o actualizar el issue de la falla
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NOMBRE: ${{ github.event.workflow_run.name }}
+          URL: ${{ github.event.workflow_run.html_url }}
+          RAMA: ${{ github.event.workflow_run.head_branch }}
+          CUANDO: ${{ github.event.workflow_run.updated_at }}
+          REPO: ${{ github.repository }}
+        run: |
+          titulo="Falló el workflow: $NOMBRE"
+
+          # ¿Ya hay un issue abierto por esta misma falla?
+          existente=$(gh issue list \
+            --repo "$REPO" \
+            --state open \
+            --label "workflow-roto" \
+            --search "$titulo in:title" \
+            --json number \
+            --jq '.[0].number // empty')
+
+          cuerpo=$(cat <<TXT
+          El workflow **$NOMBRE** termino en \`failure\`.
+
+          - Corrida: $URL
+          - Rama: \`$RAMA\`
+          - Cuando: $CUANDO
+
+          ---
+
+          **Que revisar primero,** segun lo que ya paso antes:
+
+          1. \`gh run view <id> --log-failed\` para ver el paso que rompio.
+          2. Si es el workflow de precios: lo mas probable es que Bright Data
+             haya cambiado el formato del dataset otra vez. Ya paso el
+             2026-08-07 (array JSON a NDJSON) y rompio el \`JSON.parse\`.
+          3. Mientras este roto, el catalogo se congela: los precios de las
+             guias quedan viejos sin que nada lo indique.
+
+          Cerrar este issue cuando la siguiente corrida salga verde.
+          TXT
+          )
+
+          if [ -n "$existente" ]; then
+            echo "Ya hay un issue abierto (#$existente), comento ahi."
+            gh issue comment "$existente" --repo "$REPO" --body "$cuerpo"
+          else
+            echo "Abro issue nuevo."
+            gh issue create \
+              --repo "$REPO" \
+              --title "$titulo" \
+              --label "workflow-roto" \
+              --body "$cuerpo"
+          fi
