@@ -1018,3 +1018,186 @@ El caso serio es **Her Confession**: alguien presupuesta $58.000 y en la ficha s
 **Corregido:** la columna "Precio dupe AR" de la tabla pasó a tokens (7 filas), más dos claims puntuales de prosa que también estaban viejos (el intro decía que el Club de Nuit "cuesta $130.000" cuando son $114.199, y un párrafo repetía el rango $120.000-145.000). La fila de Afnan 9PM se dejó con su rango porque esa guía no referencia ninguna ficha de Afnan, así que no hay a qué tokenizar. Los precios de los originales occidentales se dejaron intactos.
 
 **Chequeo de honestidad, resuelto sin cambios:** la Lattafa Khamrah Qahwa está `out_of_stock` y la guía no lo dice en ningún lado, lo que preocupaba porque ahora la tabla muestra un precio nítido. Verificado en el HTML renderizado: `ProductCard` ya detecta `priceStatus === "out_of_stock"` y en ese caso reemplaza el link de afiliado por un link a la ficha interna. Los 3 links de esa sección apuntan a `/producto/…`, no al listado muerto de MercadoLibre. La cadena no engaña a nadie, así que no se tocó. Queda como imprecisión menor que la fila de la tabla no indique la falta de stock.
+
+---
+
+## Tanda del reporte semanal, 2026-08-10
+
+Origen: reporte SEO semanal (snapshot GSC #35, ventana 2026-07-12 a 2026-08-08). El reporte traía 5 oportunidades; se aplicaron 4. Todo lo de abajo se verificó contra `scripts/gsc/data/gsc.db` directamente, no contra el resumen del reporte — y esa verificación cambió dos conclusiones.
+
+### 1. perfumes-arabes-dupes: CTAs dentro de la tabla de equivalencias
+
+**Baseline:** 6.466 impresiones, 167 clicks orgánicos, CTR 2,6 %, pos 6,9. GA4: 241 vistas, 208 usuarios, 171 s por sesión. Clicks de afiliado: entre 0 y 2 (no figura en el listado de GA4, que llega hasta guías con 6 clicks).
+
+El contraste que define el problema: `cafetera-express` hace **209 vistas y 51 clicks de afiliado** — uno de cada cuatro visitantes. Dupes tiene tráfico comparable y no convierte. No es falta de botones: la guía ya tenía 8 product-cards. Es que **la tabla de equivalencias resuelve la duda** ("¿qué árabe barato huele como X?") y el lector se va sin bajar hasta las cards.
+
+**Aplicado:** la columna "Dupe árabe" (8 filas) pasó de texto plano a link markdown al `meli.la` de cada producto, más un párrafo corto abajo de la tabla avisando que los nombres linkean. La columna 1 de las tablas es `sticky` en mobile, así que queda visible mientras se scrollea en horizontal — es la posición de más exposición de toda la tabla.
+
+Verificado en el navegador: las 8 filas renderizan `<a>` con `rel="nofollow sponsored noopener"` (lo inyecta `inline-markdown.tsx`, no hace falta escribirlo en el dato) y el href correcto para cada producto.
+
+**Corrección de un registro previo:** la entrada del 2026-08-07 decía que la fila de Afnan 9PM se dejaba con precio a mano "porque esa guía no referencia ninguna ficha de Afnan". La ficha **sí existe** en el catálogo (`MLA19846768`, $46.999, priceStatus fresh) — el token resuelve desde `curated-products.ts` sin importar si la guía tiene una product-card de ese producto. Tokenizado: el rango declarado era `$45.000-$58.000` contra un precio real de $46.999.
+
+### 2. perfumes-arabes-por-color: seoTitle
+
+**Baseline:** 4.924 impresiones, 6 clicks, **CTR 0,12 %** (la peor relación del sitio), pos 8,1. Optimizada por última vez el 29/6, o sea fuera de maduración.
+
+Las 20 queries visibles de esa página tienen **0 clicks, todas**. Y el patrón real no es "por color", es la **combinación con dorado**: blanco y dorado (180 impr), blanco con dorado (100), dorado mujer (35), dorados (30), blanco con dorado con tilde (29), rojo con dorado (23), cuadrado dorado (19), azul con dorado (19+17), dorado arabe (18), dorado hombre (15), celeste con tapa dorada (15). Nadie busca "por color": busca el frasco exacto que vio.
+
+El título viejo enumeraba colores sueltos ("blanco, dorado, azul y rosa"), que es justo lo que no se busca.
+
+| | |
+| :-- | :-- |
+| Antes | `Perfumes árabes por color: blanco, dorado, azul y rosa 2026` |
+| Ahora | `¿Qué perfume árabe es el blanco con dorado? Guía por color` |
+
+Se conservó "Guía por color" al final a propósito, para no perder el paraguas de las otras queries de color (azul, rosa, marrón, rojo) que esa página también rankea en pos 7-10. La guía **ya cubre bien** "blanco con dorado": tiene un H2 propio y respuesta directa (Yara Moi), así que el título no promete nada que la página no entregue.
+
+### 3. cocina/tostadora: seoTitle + h1
+
+**Baseline:** 1.067 impresiones, 11 clicks, pos 7,7, 10 clicks de afiliado. Actualizada el 16/7, fuera de maduración.
+
+El dato que decide: las tres queries madre suman **422 impresiones con 0 clicks**, y el desglose muestra el mismatch exacto.
+
+| Query | Impresiones | Pos | Clicks |
+| :-- | --: | --: | --: |
+| tostadora electrica | 174 | 9,0 | 0 |
+| tostadora de pan | 136 | **4,6** | 0 |
+| tostadora | 112 | 7,3 | 0 |
+
+El título decía "Eléctrica", que es **la variante que peor rankea**, y no decía "de pan", que es la que está cuarta. Los únicos 2 clicks de toda la página vienen de queries basura ("marcas comerciales", "opiniones de compradores"), o sea que el downside está acotado en cero: no hay clicks reales que perder.
+
+| | |
+| :-- | :-- |
+| seoTitle antes | `Tostadora Eléctrica: Cuál Comprar en Argentina [2026]` |
+| seoTitle ahora | `Tostadora de Pan: Cuál Comprar en Argentina [2026]` |
+| h1 antes | `Tostadora eléctrica: cuál comprar en Argentina y cuál conviene [2026]` |
+| h1 ahora | `Tostadora de pan: cuál comprar en Argentina y cuál conviene [2026]` |
+
+Para no resignar la variante "eléctrica" se la sumó a la `metaDescription` ("las tostadoras eléctricas más vendidas"), y de todos modos la palabra aparece **22 veces en el cuerpo** contra 1 vez "de pan". Nota curiosa que vale registrar: la guía rankea mejor para el término que casi no usa (pos 4,6) que para el que repite 22 veces (pos 9,0) — Google entiende el tema, no cuenta palabras.
+
+### 4. masajeador-cervical → tensiometro-digital
+
+`tensiometro-digital` hace 2.705 impresiones y 24 clicks con **0 de afiliado**, y todo su cluster está en pos 10-12 (página 2). Ahí un título nuevo no mueve nada: le falta autoridad.
+
+Su silo ya está cross-linkeado (nebulizador, termómetro y balanza los tres le apuntan), pero **las tres hermanas son igual de débiles y nuevas**, así que el silo no tiene de dónde sacar autoridad. `masajeador-cervical` es la página fuerte de toda el área salud: pos 5,7 y 38 clicks de afiliado.
+
+**Aplicado:** entrada nueva en el bloque `internalLinks` ("Relacionado") de masajeador-cervical.
+
+**Lo que se decidió NO hacer:** el reporte pedía un link contextual en el cuerpo, que pesa más. El único punto del texto donde los dos temas se tocan es el FAQ de contraindicaciones ("si tenés hernia de disco cervical... consultá a tu médico"). Colgar de una advertencia médica un link a comprar un tensiómetro es convertir una precaución en una venta. No se hizo, y no se debería hacer en una próxima pasada.
+
+## Descartado: microondas (recomendación del reporte que no se aplicó)
+
+El reporte pedía cambiar el `seoTitle` de `cocina/microondas` a "¿Cuál es el Mejor Microondas en Argentina? Marcas [2026]", con el argumento de que al título "le falta la palabra marca". **Verificado en la base de GSC: el diagnóstico está mal.**
+
+Los clicks de esa página vienen justo del cluster que el reporte daba por muerto:
+
+| Query | Pos | Clicks |
+| :-- | --: | --: |
+| mejores microondas argentina | 3,4 | 4 |
+| microondas recomendados | 6,8 | 2 |
+| mejor marca de microondas en argentina | 4,7 | 1 |
+| mejores marcas de microondas | 5,8 | 1 |
+| mejor marca de microondas | 7,6 | 1 |
+| que marca de microondas es mejor en argentina | 4,3 | 1 |
+| mejor microondas argentina | 3,6 | 1 |
+
+El reporte lo contó como "152 impresiones con 1 click"; son **cuatro queries de marca distintas con un click cada una**, más las de "mejor". El cluster convierte, solo que con volumen chico por query.
+
+Las dos que sí están en 0 son `microondas` a secas (135 impr, pos 4,1) y `cual es el mejor microondas en argentina` (150 impr, pos 4,3). La primera es transaccional pura: ese SERP es ML y las cadenas de electro, una guía editorial no se clickea ahí aunque esté cuarta. La segunda, con formato de pregunta y 0 % de CTR en pos 4, tiene la firma de un AI Overview quedándose con el click.
+
+Y encima la página rankea 3,4-4,7 en lo que paga y hace **21 clicks de afiliado**, o sea que aplica la regla de freeze: tocar el título arriesga lo que funciona para perseguir dos queries que un título probablemente no arregla.
+
+**Pendiente antes de reconsiderarlo:** buscar "cual es el mejor microondas en argentina" en incógnito desde Argentina, 2-3 veces en días distintos, y ver si hay AIO y si nos cita. Si nos cita y el CTR sigue en 0, el problema no es citabilidad. Solo si NO nos cita tiene sentido tocar algo, y aun así primero el bloque de respuesta, no el título.
+
+## Ya estaba hecho: links a mejores-perfumes-arabes-hombre
+
+El reporte pedía sumar links contextuales con ancla exacta "perfume árabe hombre" desde `perfumes-arabes-dupes` y `perfumes-arabes-mas-vendidos-argentina`. **Los dos ya existen** en el cuerpo de esas guías, con esa ancla exacta. En total la guía recibe 21 referencias internas, 8 de ellas contextuales desde distintas guías del silo.
+
+O sea que su problema en pos 11 **no es enlazado interno** — ya lo tiene. Sumar más links desde las mismas dos páginas sería relleno. Con DA 1 y las queries madre en pos 10,7-12,0, el techo es autoridad externa, y ahí el contenido no es la palanca.
+
+
+### Trío auditor sobre esta tanda
+
+Codex dio **NO-GO en la primera pasada** por un bloqueante que era mío: el párrafo nuevo debajo de la tabla decía "más abajo está el detalle de cada uno", pero Afnan 9PM estaba en la tabla sin sección propia. Y detectó la asimetría inversa: **Rasasi Hawas Black tenía sección de detalle completa y no figuraba en la tabla**.
+
+Se resolvió en la dirección correcta (sumar, no recortar): Hawas Black entró como fila nueva con su link y su token, la tabla quedó en 9 filas, y las 8 primeras ahora coinciden **una a una y en el mismo orden** con los 8 H3 de detalle.
+
+**Lo más serio que salió de la auditoría:** Codex marcó tres contradicciones entre la tabla de la guía y las fichas del propio sitio sobre qué perfume imita cada dupe. Se verificaron las tres y **las tres eran ciertas**.
+
+| Producto | Decía la guía | Dice la ficha |
+| :-- | :-- | :-- |
+| Afnan 9PM | "Inspiración propia (no copia directa)" | dupe del **JPG Ultra Male** (en seoTitle, meta, og y h1) |
+| Lattafa Mayar | dupe del Xerjoff Erba Pura | dupe del **Mugler Angel Nova**, con reseñas reales citadas |
+| Maison Alhambra Sceptre Malachite | dupe alternativo del Creed Aventus | dupe del **God of Fire** de Stéphane Humbert Lucas 777 |
+
+El de Afnan se corrigió acá, porque además el párrafo que se había escrito afirmaba explícitamente que "no imita a ningún perfume occidental puntual" — o sea que el texto nuevo estaba contradiciendo la ficha del propio sitio. La fila ahora dice Ultra Male, alineada a la ficha, y el párrafo dejó de hacer esa afirmación. El precio del original quedó en "—" porque no hay un precio verificado de Ultra Male en Argentina y no se inventan números.
+
+**Mayar y Sceptre Malachite quedaron sin tocar a propósito.** A diferencia de Afnan, esos dos tienen H3 propio que coincide con la tabla, así que corregir solo la tabla rompería la coherencia interna de la guía; y decidir cuál atribución es la correcta necesita research de perfumería real, no una corrección a ojo. Quedan como tarea aparte.
+
+**Segunda pasada: GO**, con un opcional que también era real y se aplicó: el intro decía "Cubrimos los 8" y con la fila nueva pasaron a ser 9.
+
+**Lección de método:** en el prompt de la segunda pasada se le afirmó a Codex que las 8 filas correspondían con los 8 H3 "en orden". Era falso — coincidían como conjunto pero en distinto orden. Codex devolvió esa frase como verificada. Un auditor confirma lo que se le afirma si suena razonable: las premisas del prompt hay que chequearlas antes de escribirlas, no solo las conclusiones que devuelve. El orden se corrigió después, a mano, y se verificó en el navegador comparando tabla contra H3 renderizados.
+
+### Lo que quedó pendiente del reporte
+
+- **`ventilador-de-pie` con 0 impresiones desde el 3/8:** no es un bug. El silo `climatizacion` está registrado en `categories.ts` y `category-nav.ts`, la guía entra al sitemap por `getPublishedGuides()`, y la ventana de datos solo cubre 5 días desde que se publicó. Es una guía nueva que Google todavía no ubicó. Acción: IndexNow, no diagnóstico.
+- **Refresh de las 3 guías vencidas** (`cafetera-de-filtro`, `masajeador-cervical`, `mejores-masajeadores-argentina`): requiere chequear stock real en MercadoLibre, y el MCP de Bright Data pide autenticación que no se puede resolver en sesión headless. Queda para una sesión interactiva.
+
+---
+
+## HALLAZGO SISTÉMICO: el mismo producto declarado dupe de tres originales distintos, 2026-08-10
+
+Salió de una mejora opcional de Codex en la auditoría de la tanda semanal. Se verificaron sus tres señalamientos con fuentes de perfumería reales y **los tres eran ciertos**. Al tirar del hilo aparecieron más.
+
+### El caso grave: Maison Alhambra Sceptre Malachite
+
+El sitio le adjudicaba **tres originales distintos al mismo producto**, en tres lugares:
+
+| Dónde | Decía que imita a |
+| :-- | :-- |
+| Ficha `/producto/` (h1, meta, og, description, articleBody) | **God of Fire**, de Stéphane Humbert Lucas 777 |
+| Guía `perfumes-arabes-dupes` (tabla + H3 + card) | Creed Aventus, "alternativo" |
+| Guía `perfumes-arabes-amaderados` (card + label + quickPick + tabla) | Parfums de Marly Greenley |
+
+La ficha era la correcta. Verificado: revendedores publican el producto con la leyenda "inspired by God of Fire" impresa, y hay reviews en video dedicadas a esa comparación. Corregido en 6 lugares, incluido un `label` visible que decía "Clon de PdM Greenley".
+
+Bonus: la tabla de `amaderados` le atribuía notas de **menta y sándalo**, que no están en su pirámide. La pirámide verificada (Fragrantica + sitio oficial, ya cargada en la ficha) es mandarina verde, bergamota y grosella negra / lavanda, pimienta rosa, jazmín / ámbar, almizcle, maderas, vetiver.
+
+### Lattafa Mayar: Erba Pura → Mugler Angel Nova
+
+La guía decía Xerjoff Erba Pura; la ficha decía Angel Nova, respaldada con reseñas de compradoras que tuvieron los dos ("muy similar, solo que un poco más ácido"). Ganó la ficha: la pirámide de Mayar (frambuesa, lichi, grosella negra / rosa, magnolia, benjuí) es la firma del Angel Nova, mientras que el Erba Pura es cítrico-ámbar-vainilla, sin frambuesa ni rosa.
+
+**El detalle que lo confirma:** el sitio **ya tiene otro producto** que es el verdadero dupe de Erba Pura, el "Perfume Erba Pura Árabe Masculino 100ml Genérico". La guía le estaba adjudicando a Mayar un dupe que ya cubría otra ficha del catálogo.
+
+### Afnan 9PM: "inspiración propia" → JPG Ultra Male
+
+La tabla lo daba como "inspiración propia (no copia directa)" mientras la ficha decía, en seoTitle, meta, og y h1, que es el dupe más conocido del Ultra Male. Corregido a favor de la ficha.
+
+### Lattafa Her Confession: el caso inverso
+
+Acá la guía afirmaba **de más**: lo daba como dupe del Mugler Alien en la intro, la tabla, el H3 y la card. La ficha es explícita en contra: "no encontramos evidencia sólida... ni Fragrantica ni las reseñas que revisamos mencionan a Alien... lo más honesto es tomarlo por lo que es: un gourmand floral propio de Lattafa". Se corrigió en 5 lugares, incluida una guía distinta (`lattafa-guia-marca`). Hoy la única mención de "Mugler Alien" en todo el sitio es la que lo nombra para desmentirlo.
+
+### Rasasi Hawas Black: matiz, no error
+
+La tabla lo daba como "Creed Aventus (versión de noche)". La ficha no lo respalda contra Aventus sino contra **Club de Nuit Intense y Hacivat**, con reseñas de gente que tiene ambos frascos. Reencuadrado: "más un primo del dupe que un dupe del original".
+
+### Precios de originales, relevados en vivo
+
+Al cambiar el original hay que cambiar su precio de referencia. Relevado en MercadoLibre Argentina el mismo día, no estimado:
+- **Mugler Angel Nova 100ml:** $270.000-$450.000 (12 publicaciones).
+- **God of Fire:** $610.000-$1.100.000, pero en **50 ml**. La celda lo aclara a propósito: el resto de la tabla es 100 ml, y comparar contra 50 ml sin decirlo infla el ahorro.
+- **JPG Ultra Male:** no se pudo. Después de tres consultas seguidas MercadoLibre dejó de renderizar resultados (throttling por IP, riesgo ya documentado). Quedó en "—". Antes vacío que inventado.
+
+La FAQ de ahorro se recalculó entera contra los precios reales. El dato más útil que salió: **Hawas Ice es el que menos ahorra (55-70%)**, y tiene explicación editorial — es de los árabes más caros del catálogo y el Invictus de los occidentales más baratos, así que la brecha es la más chica de la tabla.
+
+### Qué quedó afuera, a propósito
+
+Los **conteos de reseñas hardcodeados** están viejos en todo el sitio: "7.245" aparece unas 20 veces en `guides.ts` cuando el valor real de la ficha es **10.962**, y "9.144" cuando el real es **12.904**. Hasta las fichas los tienen fijos en sus highlights, contradiciendo su propio campo `reviewCount`.
+
+**No se hizo un reemplazo masivo, y el motivo importa:** al actualizar los números **se da vuelta un claim comparativo**. Hay un texto que afirma que Bharara King es el masculino con más volumen de validación "por encima de Hawas Ice (9.144)". Con los números reales, Hawas Ice tiene 12.904 y Bharara King 11.532, así que Hawas Ice pasa a estar arriba y la frase queda falsa. Un find/replace ciego rompe eso. Codex coincidió en dejarlo para una pasada propia y en que la solución durable es tokenizarlos, no volver a fijarlos a mano.
+
+### Auditoría
+
+Cuatro pasadas de Codex: **NO-GO → 8/10 → 9/10 → 9.4/10 → 9.6/10**. El 0,4 que falta para el 10 es exactamente la deuda de conteos que él mismo acordó dejar afuera.
+
+**Lección de método, la más cara de la sesión:** en una pasada se le afirmó a Codex que las filas de la tabla correspondían con las secciones "en orden". Era falso: coincidían como conjunto pero desordenadas. **Codex devolvió esa frase como verificada.** Un auditor confirma lo que se le afirma si suena razonable. Las premisas del prompt hay que chequearlas con la misma dureza que las conclusiones que devuelve. Se corrigió a mano y se verificó comparando tabla contra H3 en el HTML renderizado, no en el fuente.
