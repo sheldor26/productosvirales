@@ -5,6 +5,66 @@
 > producto/modelo mencionado vale la pena chequear en MercadoLibre y
 > convertir en guía o ficha. Entradas nuevas arriba.
 
+## 2026-08-10
+
+### Perfumes árabes (34 posts únicos de 39 recibidos)
+
+- The Best Mens Arabian Fragrances For Compliments 💨 #fragrance #fragrancetok #arabianfragrance #cologne #perfume
+  - 172.400 likes · 9.744 shares · 56.500 guardados · 1.764 comentarios
+  - https://www.tiktok.com/@nose.diver/video/7577405632228183304
+- Los mejores dupes arabes 🔥 Adquirirlos en naysee parfum #jeanpaulgaultier #perfumesmasculinos #perfumesarabes #perfumes #paratiiiiiiiiiiiii
+  - 94.400 likes · 9.504 shares · 38.000 guardados · 335 comentarios
+  - https://www.tiktok.com/@naysee.parfum/video/7580938007834905857
+- Perfumes árabes que volveria a comprar o que ya repuse #perfumeviraltiktok #perfumesarabes
+  - 80.300 likes · 8.964 shares · 40.300 guardados · 547 comentarios
+  - https://www.tiktok.com/@pushperfumeria/video/7511096637201108280
+- Los mejores perfumes árabes De este 2025 👌🤩⚜️ #perfumesarabes #todoperfumeria #perfumesdehombre
+  - 54.400 likes · 14.700 shares · 24.600 guardados · 380 comentarios
+  - https://www.tiktok.com/@perfumeriatodo.bo/video/7588691629171559736
+- Ranking de perfumes árabes ✨ eu compro todos os meus na @o rei dos perfumes com cupom: MARINA #perfumesarabes #rankingperfumesarabes #maripe
+  - 45.800 likes · 3.950 shares · 25.100 guardados · 403 comentarios
+  - https://www.tiktok.com/@marinadealcantara_/video/7593495265064127760
+- EL ULTIMO NO SE LO ESPERAN #perfume #perfumetiktok #parfum #coleccion #cumplidos
+  - 44.900 likes · 1.865 shares · 12.500 guardados · 290 comentarios
+  - https://www.tiktok.com/@pedritoacorrea/video/7564148361062780172
+- 🔥 The Ultimate Arabic Fragrance Ranking👀 Some of these are absolute masterpieces. Others offer insane performance for the price 💎 If you'
+  - 36.000 likes · 1.772 shares · 8.720 guardados · 896 comentarios
+  - https://www.tiktok.com/@zpch_perfumes/video/7662747110776802593
+- Original y dupe arabe ✍️ #perfume #perfumesmasculinos #perfumesarabes #perfumecollection #perfumesimportados
+  - 23.900 likes · 1.356 shares · 8.727 guardados · 82 comentarios
+  - https://www.tiktok.com/@la_.utileria_.rafaela/video/7670332451033468180
+
+### Freidora de aire (30 posts únicos de 63 recibidos)
+
+- PASTEL DE VERDURAS en freidora de aire, una idea de cena fácil, deliciosa y con muy pocos ingredientes, de hecho es una receta perfecta de a
+  - 375.500 likes · 67.800 shares · 156.300 guardados · 1.331 comentarios
+  - https://www.tiktok.com/@paufeel/video/7329230916746743073
+- 🌮 Easy Air Fryer Chicken Fajitas Save and follow for more quick and easy recipes. Perfect for a busy weeknight dinner! Ingredients: Chicken
+  - 245.800 likes · 88.300 shares · 162.800 guardados · 936 comentarios
+  - https://www.tiktok.com/@doubleoskitchen/video/7651993347594128662
+- This Air Fryer Recipe Is Amazing | Easy & Tasty!🥰 Ingredients:😋 Tortilla 4 eggs Onion Ham Cherry tomatoes Mini mozzarella balls Grated che
+  - 109.500 likes · 49.600 shares · 73.700 guardados · 443 comentarios
+  - https://www.tiktok.com/@hearty_and_delicious/video/7595219025815194902
+- ✨¿Sabías que tu freidora de aire puede hacer mucho más que papitas? 🍟🔥 Aprende recetas fáciles, rápidas y deliciosas que te van a ahorrar 
+  - 110.000 likes · 34.500 shares · 33.600 guardados · 603 comentarios
+  - https://www.tiktok.com/@recetaconairfrayer/video/7548246170192317702
+- #AirfryerRecipes #AirFryer #airfryertiktok #RecetasFaciles #RecetasAirFryer
+  - 95.700 likes · 21.900 shares · 42.800 guardados · 471 comentarios
+  - https://www.tiktok.com/@aire.y.sabor/video/7637647504569306386
+- ✨Día 05 del recetario de adviento ✨👇🏼 🥪 IDEA de CENA en 15 minutos en AIRFRYER 📝 Ingredientes 🔸4 rebanadas gruesas de pan de molde 🔸4 
+  - 85.500 likes · 20.100 shares · 36.400 guardados · 182 comentarios
+  - https://www.tiktok.com/@latoneira/video/7580421075192843542
+- sígueme para más recetas para vagos 🙂‍↕️🍳 #recetasparavagos #cocinar #recetasfaciles #recetasrapidas #quecomoenundia
+  - 55.900 likes · 20.200 shares · 39.800 guardados · 154 comentarios
+  - https://www.tiktok.com/@raquelgonla/video/7572528633026235670
+- Dieser High Protein Orzo One Pot aus dem Airfryer ist genau das Richtige, wenn du ein warmes, cremiges Mittagessen willst, das richtig satt 
+  - 14.900 likes · 7.824 shares · 25.100 guardados · 76 comentarios
+  - https://www.tiktok.com/@airfryer.club/video/7595985301915421985
+
+### Aspiradora robot _(se cortó por el límite de tiempo del workflow — muestra parcial)_ (0 posts únicos de 0 recibidos)
+
+_Sin resultados esta semana._
+
 ## 2026-07-08
 
 ### Perfumes árabes (0 posts únicos de 0 recibidos)
