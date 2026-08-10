@@ -1099,123 +1099,119 @@ A $919.599 con 4.9 estrellas en 234 calificaciones, es el ultrawide con mejor re
 
   // ─── Sillas gamer — importadas via API oficial de ML (jun 2026). Silo gaming (STAGED) ───
   {
-    id: "MLA47061669",
-    title: "Silla Gamer Alpina Ergonómica Giratoria Reclinable FT-088 Negro Cuero Sintético",
-    canonicalName: "Silla Gamer Alpina FT-088",
-    price: 147052,
-    originalPrice: 250000,
+    id: "MLA51876967",
+    title: "Silla Gamer Ergonómica Reclinable Con Apoya Pies Base Giratoria De Cuero Sintético Negro Circle Line CL-GC001",
+    canonicalName: "Silla Gamer Circle Line CL-GC001",
+    price: 229999,
     currency: "ARS",
-    image: "https://http2.mlstatic.com/D_NQ_NP_656227-MLA95633522918_102025-F.jpg",
+    image: "https://http2.mlstatic.com/D_NQ_NP_800123-MLA95709041110_102025-O.webp",
     images: [
-      "https://http2.mlstatic.com/D_NQ_NP_656227-MLA95633522918_102025-F.jpg",
-      "https://http2.mlstatic.com/D_NQ_NP_965893-MLA99700934792_122025-F.jpg",
+      "https://http2.mlstatic.com/D_NQ_NP_800123-MLA95709041110_102025-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_608713-MLA93402419229_092025-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_742970-MLA87003731505_062025-O.webp",
     ],
     category: "Gaming",
     categorySlug: "gaming",
-    permalink: "https://www.mercadolibre.com.ar/p/MLA47061669",
-    affiliateUrl: "https://meli.la/1t2j7zH",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA51876967",
+    affiliateUrl: "https://meli.la/2K8JpdU",
     condition: "new",
     freeShipping: true,
     rating: 4.7,
-    reviewCount: 6629,
+    reviewCount: 1483,
     pastelColor: "var(--pastel-green)",
     visibility: "normal",
     specs: [
       { label: "Tapizado", value: "Cuero sintético" },
-      { label: "Reclinable", value: "Sí, giratoria" },
-      { label: "Apoyabrazos", value: "Sí" },
-      { label: "Marca", value: "Alpina" },
-      { label: "Soporta hasta", value: "150 kg" },
-      { label: "Pistón", value: "Hidráulico clase III (ajuste 10 cm)" },
-      { label: "Reclinación", value: "90° a 180°" },
-      { label: "Tipo de apoyabrazos", value: "Fijos (no regulables)" },
-      { label: "Soporte lumbar", value: "Regulable + almohadas lumbar y cervical removibles" },
-      { label: "Base", value: "Estrella de PVC de alta resistencia" },
-      { label: "Ruedas", value: "Plásticas de PVC giratorias 360°" },
-      { label: "Estructura interna", value: "Acero + espuma de alta densidad" },
-      { label: "Regulación de altura", value: "106 a 116 cm (10 cm de rango)" },
-      { label: "Ancho de asiento", value: "50 cm" },
+      { label: "Apoya pies", value: "Sí, retráctil" },
+      { label: "Apoyacabezas", value: "Sí" },
+      { label: "Marca", value: "Circle Line" },
+      { label: "Modelo", value: "CL-GC001 (línea Gaming)" },
+      { label: "Reclinable", value: "Sí, con base giratoria" },
+      { label: "Tipo de apoyabrazos", value: "Fijos (no ajustables)" },
+      { label: "Altura ajustable", value: "Sí" },
+      { label: "Altura del respaldo", value: "75,5 cm" },
+      { label: "Ancho de la silla", value: "52 cm" },
+      { label: "Profundidad del asiento", value: "50 cm" },
+      { label: "Altura máxima", value: "125 cm" },
+      { label: "Estructura", value: "Metal y plástico reforzado" },
+      { label: "Relleno", value: "Espuma" },
+      { label: "Ruedas", value: "Sí" },
+      { label: "Con luces LED", value: "No" },
+      { label: "Requiere armado", value: "Sí, con manual incluido" },
+      { label: "Peso máximo soportado", value: "No declarado en la ficha de MercadoLibre" },
     ],
     relatedProducts: ["MLA26019250", "MLA47084299"],
-    priceUpdated: "2026-08-05",
-    priceLastChecked: "2026-08-05",
-    priceStatus: "out_of_stock",
-    description: "Silla gamer Alpina FT-088: la más vendida de Argentina por amplio margen (más de 6.100 calificaciones), ergonómica, reclinable y al mejor precio. Tapizado en cuero sintético. Armado fácil. Lo honesto de las reseñas: le falta un poco de gomaespuma y las costuras no son de las más robustas, normal para el precio.",
-    seoTitle: "Silla Gamer Alpina FT-088: la más vendida, ¿conviene?",
-    metaDescription: "Soporta 150 kg, trae lumbar regulable y cervical, pero los apoyabrazos son fijos y la base es de PVC. La más vendida de Argentina, mirá si te sirve.",
-    verdict: "Sirve si querés tu primera silla gamer barata para jugar o trabajar varias horas y no te molesta que los apoyabrazos sean fijos. Trae soporte lumbar regulable, almohada cervical y aguanta hasta 150 kg, que para el precio está muy bien. No la elijas si buscás apoyabrazos que se ajusten en alto o base de metal: para eso tenés que subir de gama.",
+    priceUpdated: "2026-08-10",
+    priceLastChecked: "2026-08-10",
+    priceStatus: "fresh",
+    description: "Silla gamer Circle Line CL-GC001: la única de esta comparativa con apoya pies retráctil, tapizada en cuero sintético, con apoyacabezas y base giratoria. 4.7 estrellas en 1.483 calificaciones y más de 1.000 vendidas. Los apoyabrazos son fijos y la ficha de MercadoLibre no declara peso máximo soportado, dos cosas a tener en cuenta antes de comprarla.",
+    seoTitle: "Silla Gamer Circle Line CL-GC001: la del apoya pies",
+    metaDescription: "Cuero sintético, apoyacabezas y apoya pies retráctil, con 4.7 estrellas en 1.483 opiniones. Los apoyabrazos son fijos y no declara peso máximo: mirá si te sirve.",
+    verdict: "Sirve si pasás muchas horas sentado y querés poder estirar las piernas sin levantarte: el apoya pies retráctil es lo que la diferencia del resto de esta comparativa, y a 4.7 estrellas sobre 1.483 opiniones el respaldo de compradores es sólido. No la elijas si necesitás apoyabrazos regulables en altura, o si pesás bastante y querés un número de peso máximo confirmado: la ficha de MercadoLibre no lo declara, y preferimos decírtelo antes que inventarlo.",
     pros: [
-      "Aguanta hasta 150 kg, más que la mayoría de las sillas baratas de su rango",
-      "Trae soporte lumbar regulable y almohada cervical removible (no todas las económicas las incluyen)",
-      "Reclina de 90° a 180°, o sea que se acuesta casi del todo para descansar",
-      "Pistón hidráulico clase III, el estándar serio en sillas de oficina/gaming",
-      "Estructura interna de acero y espuma de alta densidad, no plástico puro",
-      "Es la más vendida de Argentina por amplio margen: 4.7 estrellas en más de 6.100 calificaciones",
-      "Tapizado de cuero sintético waterproof, fácil de limpiar con un trapo",
+      "Es la única de esta comparativa con apoya pies retráctil: podés estirar las piernas sin levantarte",
+      "Trae apoyacabezas, que en sesiones largas es lo que evita la tensión de cuello",
+      "4.7 estrellas sobre 1.483 calificaciones y más de 1.000 vendidas: respaldo real, no una publicación nueva",
+      "Tapizado de cuero sintético, fácil de limpiar con un trapo húmedo",
+      "Estructura de metal y plástico reforzado, no plástico puro",
+      "Reclinable con base giratoria y altura ajustable",
+      "Envío gratis y viene con manual de armado",
     ],
     cons: [
-      "Los apoyabrazos son fijos: no suben, bajan ni rotan (la publicación dice solo 'Sí', no aclara que no se ajustan)",
-      "La base es estrella de PVC, no de metal: más liviana y menos resistente a largo plazo",
-      "Las ruedas son de plástico PVC, pueden marcar o sonar en pisos duros sin alfombra",
-      "La regulación de altura es de solo 10 cm (de 106 a 116 cm), justa si sos muy alto",
-      "Tapizado de cuero sintético: en verano transpira poco y se pega más que la tela",
-      "Por el precio, la gomaespuma del asiento es justa y las costuras no son las más robustas",
+      "Los apoyabrazos son fijos: no suben, bajan ni rotan. La ficha de MercadoLibre lo declara explícitamente",
+      "La ficha no declara el peso máximo que soporta, así que si pesás bastante no hay dato para decidir",
+      "El cuero sintético transpira poco: en verano se pega más que una silla de tela",
+      "Requiere armado, no viene lista para usar",
+      "No trae luces LED, si buscás el efecto gamer del setup no es esta",
+      "La ficha tampoco declara el tipo de pistón ni la clase de la base, dos datos que sí dan otras marcas",
     ],
     articleBody: `## Qué es y para quién
 
-La Alpina FT-088 es una silla gamer económica pensada para quien quiere su primera silla decente sin gastar de más. Es la más vendida de Argentina por amplio margen: 4.7 estrellas en más de 6.100 calificaciones, números que ninguna otra silla gamer del país se acerca a tener. Es la opción típica del que arma su primer setup, del estudiante que pasa horas frente a la compu o del que necesita reemplazar una silla de oficina vieja sin irse a precios de gama alta. No es una silla premium ni pretende serlo: es la entrada honesta al mundo gamer.
+La Circle Line CL-GC001 es una silla gamer de gama media pensada para quien pasa muchas horas sentado y quiere poder estirar las piernas sin levantarse. Su rasgo distintivo dentro de esta comparativa es el apoya pies retráctil, que ninguna de las otras cuatro tiene: sale de abajo del asiento cuando lo necesitás y se guarda cuando no. Sumado al apoyacabezas y a la reclinación, apunta al que la usa tanto para jugar como para descansar entre sesiones.
+
+Con 4.7 estrellas sobre 1.483 calificaciones y más de 1.000 unidades vendidas, tiene volumen de validación real. No es la más elegida del catálogo argentino, pero está lejos de ser una publicación nueva sin historial.
 
 ## Lo bueno
 
-Aguanta hasta 150 kg, que es más de lo que ofrecen casi todas las sillas baratas de su rango. El dato importa porque el peso máximo es lo primero que se exagera en este nicho, y acá Alpina lo declara en su propia página. Suma soporte lumbar regulable y una almohada cervical removible, dos cosas que muchas económicas no traen y que se notan después de la tercera hora sentado. Reclina de 90° a 180°, o sea que se acuesta casi del todo si querés tirarte un rato. Adentro tiene estructura de acero y espuma de alta densidad, no plástico puro, y monta un pistón hidráulico clase III, que es el estándar serio. El tapizado es cuero sintético waterproof, así que un derrame se limpia con un trapo.
+El apoya pies es lo que justifica elegirla por sobre una silla más barata: no es un accesorio decorativo, cambia cómo usás la silla en pausas largas. El apoyacabezas acompaña, y es de las cosas que más se agradecen después de la tercera hora. La estructura combina metal y plástico reforzado, con relleno de espuma, y el tapizado de cuero sintético se limpia con un trapo. Reclina, gira y regula altura, o sea que cubre lo básico de una silla de escritorio seria.
 
 ## La contra real
 
-Los apoyabrazos son fijos: no suben, no bajan, no rotan. La publicación de ML pone solo "Sí" en apoyabrazos y no aclara esto, pero la página de Alpina lo dice claro: son fijos y confortables, nada de 2D o 4D. Si venís de una silla con apoyabrazos regulables, lo vas a extrañar. La base es estrella de PVC, no de metal: funciona, pero es más liviana y a la larga aguanta menos castigo que una de aluminio. Las ruedas también son de plástico PVC, así que en piso duro sin alfombra pueden marcar o hacer ruido. Y la regulación de altura es de solo 10 cm (de 106 a 116 cm), justa si sos muy alto. Por último, lo que ya dicen las propias reseñas: por el precio, la gomaespuma es justa y las costuras no son las más robustas. Normal para lo que sale.
+Los apoyabrazos son fijos. La ficha de MercadoLibre lo dice sin vueltas en "Con apoyabrazos ajustable: No", así que acá no hay letra chica, pero conviene saberlo antes: si venís de una silla con apoyabrazos regulables, lo vas a extrañar.
+
+Y hay algo que preferimos marcar como lo que es, un dato faltante y no un defecto: **la ficha no declara el peso máximo soportado**. Es de los primeros números que mira cualquiera que pesa más de 100 kg, y acá no está publicado ni por el vendedor ni por la marca. No lo vamos a estimar por vos. Si ese dato es determinante para tu compra, preguntale al vendedor antes de pagar.
+
+Tampoco declara el tipo de pistón ni la clase de la base, dos cosas que otras marcas de este rango sí publican. Con el cuero sintético pasa lo de siempre: transpira poco, así que en verano se pega más que una de tela.
 
 ## Cómo se compara con las otras de la guía
 
-Si te alcanza el presupuesto, las Cougar son otro nivel, pero cuestan más del doble. La Cougar Armor Elite Royal es la premium mejor valorada de la guía (4.9 estrellas), soporta 120 kg con materiales de larga duración y apoyabrazos de verdad, pero su precio es más del doble que la FT-088. La Cougar Fusion EX viene en tela en lugar de cuero sintético, así que es más fresca y no se pega en verano, ideal si el calor te molesta y pasás muchas horas sentado. Dentro de la misma marca, la Alpina PRE-FT055 es prácticamente la hermana de esta: mismo tapizado de cuero sintético, precio muy parecido y combinación negro/rojo, así que entre las dos Alpina la decisión es más de color que de specs. La FT-088 gana en una sola cosa, pero no es menor: es la que más gente compró y calificó.
+La Cougar Armor Elite Royal es la premium de la comparativa y tiene mejor rating (4.9), pero cuesta bastante más y no trae apoya pies. La Cougar Fusion EX viene en tela, así que es la opción si el calor es tu problema principal, aunque también está por encima en precio. La Alpina PRE-FT055 es la entrada de gama de esta guía y sale menos, pero resigna el apoya pies y el apoyacabezas. Y la Corsair T3 Rush es la de marca top, con el precio que eso implica.
+
+O sea: la CL-GC001 se ubica en el medio, y su argumento no es el precio ni la marca, es la función que las otras no tienen.
 
 ## Para quién sí y para quién no
 
-Comprala si querés una silla gamer barata, funcional y con lumbar regulable para tu primer setup o para trabajar. Es ideal si pesás hasta 150 kg, no te importa que los apoyabrazos sean fijos y valorás que sea la opción más probada del país. No la compres si necesitás apoyabrazos que se ajusten en alto, base de metal o un tapizado que no transpire en verano: para eso conviene estirarse a una Cougar de la misma guía. Para lo que sale, la FT-088 cumple lo que promete.`,
+Comprala si pasás jornadas largas sentado y el apoya pies te resuelve algo concreto, o si querés apoyacabezas sin irte a precio premium. No la compres si necesitás apoyabrazos regulables en altura, si el peso máximo es un dato que necesitás confirmado antes de pagar, o si buscás la más barata de la guía: para eso está la Alpina PRE-FT055.`,
     faq: [
       {
-        question: "¿Cuánto peso soporta la Alpina FT-088?",
-        answer: "Soporta hasta 150 kg según la propia página de Alpina. Es de las más altas en sillas gamer económicas, donde lo común es 100 o 120 kg. El dato está confirmado por el fabricante, no inflado por la publicación.",
+        question: "¿Cuánto peso soporta la Circle Line CL-GC001?",
+        answer: "La ficha de MercadoLibre no lo declara, y tampoco lo publica la marca. Preferimos decírtelo antes que estimarlo: si pesás más de 100 kg y ese dato define tu compra, preguntale al vendedor por mensaje antes de pagar. Otras sillas de esta guía sí publican el número.",
       },
       {
-        question: "¿Los apoyabrazos de la FT-088 son regulables?",
-        answer: "No, los apoyabrazos son fijos: no suben, bajan ni rotan. La publicación de ML solo dice 'Sí' en apoyabrazos sin aclararlo, pero Alpina confirma que son fijos. Si querés apoyabrazos 2D o 4D, tenés que subir de gama.",
+        question: "¿Los apoyabrazos son regulables?",
+        answer: "No. La ficha técnica de MercadoLibre marca \"Con apoyabrazos ajustable: No\". Tiene apoyabrazos, pero son fijos: no suben, no bajan y no rotan.",
       },
       {
-        question: "¿Cuánto reclina el respaldo?",
-        answer: "Reclina de 90° a 180°, o sea que se puede acostar casi del todo. Sirve para descansar o tirarte un rato sin levantarte. Es de las que más se abren en su rango de precio.",
-      },
-      {
-        question: "¿De qué material es la silla?",
-        answer: "El tapizado es cuero sintético waterproof, con estructura interna de acero y espuma de alta densidad. La base es estrella de PVC, no de metal, y las ruedas son de plástico PVC. Para el precio, los materiales son los justos pero correctos.",
-      },
-      {
-        question: "¿Trae soporte lumbar y cervical?",
-        answer: "Sí, trae soporte lumbar regulable más almohadas lumbar y cervical removibles. Es un punto a favor porque muchas sillas económicas no las incluyen. Se notan después de varias horas sentado.",
-      },
-      {
-        question: "¿Qué pistón usa, es seguro?",
-        answer: "Usa pistón hidráulico clase III, que es el estándar serio en sillas de oficina y gaming. La altura se regula 10 cm, de 106 a 116 cm. No es el dato que más se exagera acá, está dentro de lo esperable.",
-      },
-      {
-        question: "¿Es difícil de armar?",
-        answer: "Viene desarmada pero el armado es sencillo y trae instrucciones en español más la llave de ajuste. Es el armado típico de una silla gamer: respaldo, asiento, base, pistón y ruedas. Calculá entre 20 y 40 minutos.",
-      },
-      {
-        question: "¿Conviene la FT-088 o una Cougar?",
-        answer: "Depende del presupuesto: la FT-088 es la entrada económica y las Cougar de la guía cuestan más del doble. Las Cougar tienen mejores materiales y apoyabrazos regulables, pero la Alpina es la más vendida y probada del país. Si recién empezás, la FT-088 cumple.",
+        question: "¿El apoya pies se puede guardar?",
+        answer: "Sí, es retráctil: sale de abajo del asiento cuando lo necesitás y se guarda cuando no. Es la característica que la diferencia de las otras cuatro sillas de esta guía, que no lo traen.",
       },
       {
         question: "¿Sirve para trabajar todo el día, no solo para jugar?",
-        answer: "Sí, sirve para jornadas largas gracias al lumbar regulable y la reclinación. La contra para uso de oficina es que los apoyabrazos fijos limitan el ajuste y el cuero sintético transpira poco en verano. Para teletrabajo económico es una opción válida.",
+        answer: "Sí. Tiene apoyacabezas, reclinación y altura ajustable, que es lo que importa en jornadas largas. Las dos contras para uso de oficina son los apoyabrazos fijos, que limitan el ajuste frente al escritorio, y el cuero sintético, que transpira poco en verano.",
+      },
+      {
+        question: "¿Viene armada?",
+        answer: "No, requiere armado. Incluye el manual de ensamblado.",
       },
     ],
   },
@@ -1257,7 +1253,7 @@ Comprala si querés una silla gamer barata, funcional y con lumbar regulable par
       { label: "Peso de la silla", value: "20 kg" },
       { label: "Tilt", value: "Tensión de inclinación regulable" },
     ],
-    relatedProducts: ["MLA47061669", "MLA69124616"],
+    relatedProducts: ["MLA51876967", "MLA69124616"],
     priceUpdated: "2026-08-03",
     priceLastChecked: "2026-08-10",
     priceStatus: "fresh",
@@ -1276,7 +1272,7 @@ Comprala si querés una silla gamer barata, funcional y con lumbar regulable par
     ],
     cons: [
       "Apoyabrazos solo 2D (suben/bajan y van adelante/atrás): no rotan ni se inclinan como los 4D de sillas más caras",
-      "Precio premium del nicho: a 379.999 cuesta más del doble que una Alpina FT-088",
+      "Precio premium del nicho: a 379.999 cuesta más del doble que una Alpina PRE-FT055",
       "Tapizado de cuero PVC: transpira más que el sintético común, pero en pleno verano sigue dando más calor que una de tela",
       "Pesa 20 kg armada, así que moverla seguido cuesta",
       "Cougar es marca gamer reconocida pero no hay red de service amplia como con marcas más masivas",
@@ -1295,11 +1291,11 @@ Los apoyabrazos son 2D, no 4D, y esto la publicación no lo aclara. Quiere decir
 
 ## Como se compara contra las otras de la guía
 
-Frente a la Alpina FT-088 (la más vendida de Argentina, más de 6.100 calificaciones) la diferencia es plata y materiales: la Alpina sale 143.550 y es cuero sintético con estructura más justa; la Cougar cuesta más del doble pero te da acero de verdad y pistón clase 4. Si tu prioridad es gastar poco, la Alpina rinde. Si querés que dure años, la Cougar lo justifica. Y si lo que te molesta es el calor más que la durabilidad, mirá la Cougar Fusion EX de tela (259.999): misma marca, tapizado más fresco, pero sin la estructura full de acero de la Elite Royal. Las tres tienen 4.9 o cerca en calificaciones, así que la decisión es por uso, no por reputación.
+Frente a la Alpina PRE-FT055 (la más elegida de la guía, más de 1.800 calificaciones) la diferencia es plata y materiales: la Alpina es la más barata y es cuero sintético con estructura más justa; la Cougar cuesta más del doble pero te da acero de verdad y pistón clase 4. Si tu prioridad es gastar poco, la Alpina rinde. Si querés que dure años, la Cougar lo justifica. Y si lo que te molesta es el calor más que la durabilidad, mirá la Cougar Fusion EX de tela (259.999): misma marca, tapizado más fresco, pero sin la estructura full de acero de la Elite Royal. Las tres tienen 4.9 o cerca en calificaciones, así que la decisión es por uso, no por reputación.
 
 ## Para quien si y para quien no
 
-Comprá la Cougar Armor Elite Royal si querés una silla que te dure años, pasás muchas horas sentado y el presupuesto te da para la franja premium. La estructura de acero y el pistón clase 4 son lo que pagás, y los vas a aprovechar con el tiempo. No la compres si te frena el precio (la Alpina FT-088 hace el laburo básico por menos de la mitad), si necesitás apoyabrazos 4D para una postura muy específica, o si vivís donde hace mucho calor y preferís el tapizado de tela de la Fusion EX. Con 4.9 estrellas en más de 1.100 calificaciones es la mejor valorada de la guía, pero "mejor valorada" no significa "para todos": significa que cumple lo que promete para quien busca durabilidad.`,
+Comprá la Cougar Armor Elite Royal si querés una silla que te dure años, pasás muchas horas sentado y el presupuesto te da para la franja premium. La estructura de acero y el pistón clase 4 son lo que pagás, y los vas a aprovechar con el tiempo. No la compres si te frena el precio (la Alpina PRE-FT055 hace el laburo básico por bastante menos), si necesitás apoyabrazos 4D para una postura muy específica, o si vivís donde hace mucho calor y preferís el tapizado de tela de la Fusion EX. Con 4.9 estrellas en más de 1.100 calificaciones es la mejor valorada de la guía, pero "mejor valorada" no significa "para todos": significa que cumple lo que promete para quien busca durabilidad.`,
     faq: [
       {
         question: "¿Cuánto peso soporta la Cougar Armor Elite Royal?",
@@ -1330,7 +1326,7 @@ Comprá la Cougar Armor Elite Royal si querés una silla que te dure años, pas�
         answer: "El tapizado es cuero PVC transpirable, que deja pasar más aire que el cuero sintético común. Aun así, en pleno verano una silla de tela como la Cougar Fusion EX va a ser más fresca.",
       },
       {
-        question: "¿Vale la pena pagar más que una Alpina FT-088?",
+        question: "¿Vale la pena pagar más que una Alpina PRE-FT055?",
         answer: "Depende de tu prioridad. La Alpina sale menos de la mitad y hace el laburo básico; la Cougar te da estructura de acero y pistón clase 4, que se notan con los años. Si querés durabilidad de largo plazo, lo justifica.",
       },
       {
@@ -1376,7 +1372,7 @@ Comprá la Cougar Armor Elite Royal si querés una silla que te dure años, pas�
       { label: "Peso de la silla", value: "16.2 kg" },
       { label: "Ruedas", value: "5 cm, silenciosas" },
     ],
-    relatedProducts: ["MLA26019250", "MLA47061669"],
+    relatedProducts: ["MLA26019250", "MLA51876967"],
     priceUpdated: "2026-08-03",
     priceLastChecked: "2026-08-10",
     priceStatus: "fresh",
@@ -1413,11 +1409,11 @@ El apoyabrazos es el detalle que la publicación esconde diciendo solo "apoyabra
 
 ## Cómo se compara
 
-Frente a las otras gamer de la guía, la Fusion EX es la única apuesta clara a la tela. La Cougar Armor Elite Royal es la hermana premium: misma marca, mismos 120 kg y 4.9 estrellas, pero con cuero PVC transpirable y apoyabrazos ajustables, a un precio bastante más alto. Si querés ajustar los brazos y no te molesta el cuero, la Armor Elite te da más control. La Alpina FT-088, en cambio, es la más barata y la más vendida de Argentina por lejos (más de 6.100 calificaciones), también de cuero sintético: si el presupuesto manda y el calor no es tu problema, la Alpina cumple. La Fusion EX se queda en el medio: pagás la tela transpirable y la marca, no una estructura distinta.
+Frente a las otras gamer de la guía, la Fusion EX es la única apuesta clara a la tela. La Cougar Armor Elite Royal es la hermana premium: misma marca, mismos 120 kg y 4.9 estrellas, pero con cuero PVC transpirable y apoyabrazos ajustables, a un precio bastante más alto. Si querés ajustar los brazos y no te molesta el cuero, la Armor Elite te da más control. La Alpina PRE-FT055, en cambio, es la más barata y la más elegida de la guía (más de 1.800 calificaciones), también de cuero sintético: si el presupuesto manda y el calor no es tu problema, la Alpina cumple. La Fusion EX se queda en el medio: pagás la tela transpirable y la marca, no una estructura distinta.
 
 ## Para quién sí y para quién no
 
-Comprala si tu problema número uno es el calor y la transpiración, no el ajuste fino. Tiene 4.9 estrellas en 345 calificaciones, que es una base sólida para una silla de este precio. Es ideal para sesiones largas en clima cálido, donde la tela hace la diferencia real frente al cuero. No la compres si querés apoyabrazos que se regulen a tu gusto (mirá la Armor Elite), si te molesta que la tela sea más complicada de limpiar, o si tu prioridad es el precio más bajo (ahí la Alpina FT-088 gana). Y si pesás más de 120 kg, esta no es para vos.`,
+Comprala si tu problema número uno es el calor y la transpiración, no el ajuste fino. Tiene 4.9 estrellas en 345 calificaciones, que es una base sólida para una silla de este precio. Es ideal para sesiones largas en clima cálido, donde la tela hace la diferencia real frente al cuero. No la compres si querés apoyabrazos que se regulen a tu gusto (mirá la Armor Elite), si te molesta que la tela sea más complicada de limpiar, o si tu prioridad es el precio más bajo (ahí la Alpina PRE-FT055 gana). Y si pesás más de 120 kg, esta no es para vos.`,
     faq: [
       {
         question: "¿La Cougar Fusion EX es de tela o de cuero?",
@@ -1495,14 +1491,14 @@ Comprala si tu problema número uno es el calor y la transpiración, no el ajust
       { label: "Altura total", value: "114 a 124 cm" },
       { label: "Ancho de asiento", value: "50 cm" },
     ],
-    relatedProducts: ["MLA47061669", "MLA69124616"],
+    relatedProducts: ["MLA51876967", "MLA69124616"],
     priceUpdated: "2026-08-10",
     priceLastChecked: "2026-08-10",
     priceStatus: "fresh",
-    description: "Silla gamer Alpina PRE-FT055: la alternativa a la FT-088 dentro de Alpina, ergonómica y reclinable en cuero sintético (negro/rojo), con más de 1.600 calificaciones. Un escalón de precio sobre la más vendida, misma marca de valor.",
-    seoTitle: "Silla Gamer Alpina PRE-FT055: ¿vale el plus sobre la FT-088?",
+    description: "Silla gamer Alpina PRE-FT055: la más elegida y la más barata de nuestra comparativa, ergonómica y reclinable en cuero sintético (negro/rojo), con más de 1.800 calificaciones. La entrada más probada del catálogo argentino.",
+    seoTitle: "Silla Gamer Alpina PRE-FT055: la más elegida, ¿conviene?",
     metaDescription: "Soporta 150 kg, pistón clase III y apoyabrazos regulables en altura y ángulo (la publicación no lo dice). Base de PVC, no de metal. Lo que conviene saber.",
-    verdict: "Sirve si querés una silla gamer reclinable hasta 180°, con almohadas lumbar y cervical y apoyabrazos regulables, en negro/rojo y por menos de lo que cuestan las marcas gamer caras. No es para quien busca materiales de durar años: a este precio el tapizado es cuero sintético y la base es de PVC, no de metal. Es básicamente la FT-088 con un escalón de precio arriba y combinación de color distinta.",
+    verdict: "Sirve si querés una silla gamer reclinable hasta 180°, con almohadas lumbar y cervical y apoyabrazos regulables, en negro/rojo y por menos de lo que cuestan las marcas gamer caras. No es para quien busca materiales de durar años: a este precio el tapizado es cuero sintético y la base es de PVC, no de metal. Es la entrada honesta del catálogo, en combinación de color distinta.",
     pros: [
       "Soporta hasta 150 kg (dato del fabricante), holgado para la mayoría de los cuerpos",
       "Reclina de 90° a 180° con traba, podés tirarla casi plana para descansar",
@@ -1515,13 +1511,13 @@ Comprala si tu problema número uno es el calor y la transpiración, no el ajust
     cons: [
       "Base estrella de PVC, no de metal: a este precio es lo esperable, pero es menos robusta que una de aluminio",
       "Tapizado de cuero sintético: en verano transpira poco y se pega, a diferencia de las de tela",
-      "Cuesta un escalón más que la FT-088 de la misma marca sin ser claramente mejor silla",
+      "Es la de rating más bajo de nuestra comparativa: 4.6, contra 4.7 y 4.9 de las otras cuatro",
       "Apoyabrazos regulables pero no son 4D completos como en sillas de gama alta",
       "Las ruedas son de PVC: andan bien en alfombra, en piso duro pueden marcar con el tiempo",
     ],
     articleBody: `## Que es y para quien
 
-La Alpina PRE-FT055 es una silla gamer reclinable de cuero sintético en negro y rojo, pensada para quien pasa muchas horas frente a la compu y quiere ergonomía sin pagar lo de una marca gamer cara. Es la hermana "Premium" de la FT-088 de la misma marca, la más vendida de Argentina. Soporta hasta 150 kg, reclina de 90° a 180° y trae almohada lumbar y cervical. El público es claro: gamer o trabajo de escritorio con presupuesto medido que prioriza poder reclinar y regular antes que materiales de lujo.
+La Alpina PRE-FT055 es una silla gamer reclinable de cuero sintético en negro y rojo, pensada para quien pasa muchas horas frente a la compu y quiere ergonomía sin pagar lo de una marca gamer cara. Es la línea "Premium" de Alpina, y la más elegida de nuestra comparativa. Soporta hasta 150 kg, reclina de 90° a 180° y trae almohada lumbar y cervical. El público es claro: gamer o trabajo de escritorio con presupuesto medido que prioriza poder reclinar y regular antes que materiales de lujo.
 
 ## Lo bueno
 
@@ -1533,11 +1529,11 @@ La base estrella es de PVC, no de metal, y eso es lo que justo a este precio no 
 
 ## Como se compara contra las otras de la guía
 
-Acá está la pregunta que importa: contra la Alpina FT-088, que es la misma marca y la más vendida del país, la PRE-FT055 cuesta un escalón más sin ser claramente una mejor silla. La FT-088 tiene muchísimas más calificaciones (más de 6.100 contra 1.618 de esta) y un precio más bajo. La diferencia grande es la combinación negro/rojo y el rótulo "Premium", más que un salto real de calidad. Si te gusta el negro liso y querés gastar menos, la FT-088 es la elección obvia. La otra alternativa de la guía es la Cougar Fusion EX de tela: cuesta bastante más, pero el tapizado de tela es más fresco y no se pega en verano. Si el calor es tu problema, esa resuelve algo que ninguna Alpina de cuero sintético resuelve.
+Acá está la pregunta que importa: es la más barata de nuestra comparativa y también la que más gente calificó, con más de 1.800 opiniones. Eso la vuelve la entrada más probada, pero conviene mirar el otro número: 4.6 estrellas es el rating más bajo de las cinco, contra 4.7 de la Circle Line y 4.9 de las tres premium. O sea que es la más elegida por precio y disponibilidad, no por ser la mejor valorada. La diferencia grande frente a las de gama alta no es el diseño sino los materiales, más que un salto real de calidad. La alternativa directa de la guía es la Circle Line CL-GC001, que suma apoya pies retráctil y apoyacabezas por unos pesos más. Y la otra es la Cougar Fusion EX de tela: cuesta bastante más, pero el tapizado de tela es más fresco y no se pega en verano. Si el calor es tu problema, esa resuelve algo que ninguna Alpina de cuero sintético resuelve.
 
 ## Para quien si y para quien no
 
-Comprala si querés una silla reclinable con apoyabrazos regulables, almohadas incluidas y soporte para 150 kg, y el negro/rojo te cierra. Para gaming y escritorio cumple sobrado por lo que sale. No la compres si tu prioridad es que dure años de uso intenso (ahí conviene una base de metal) o si vivís en zona calurosa y la transpiración te molesta (una de tela como la Cougar Fusion EX es mejor opción). Y si solo querés la Alpina más barata posible, la FT-088 te da prácticamente lo mismo por menos.`,
+Comprala si querés una silla reclinable con apoyabrazos regulables, almohadas incluidas y soporte para 150 kg, y el negro/rojo te cierra. Para gaming y escritorio cumple sobrado por lo que sale. No la compres si tu prioridad es que dure años de uso intenso (ahí conviene una base de metal) o si vivís en zona calurosa y la transpiración te molesta (una de tela como la Cougar Fusion EX es mejor opción). Y si te sirve poder estirar las piernas sin levantarte, la Circle Line CL-GC001 es la única de la guía con apoya pies.`,
     faq: [
       {
         question: "¿Cuánto peso soporta la Alpina PRE-FT055?",
@@ -1560,8 +1556,8 @@ Comprala si querés una silla reclinable con apoyabrazos regulables, almohadas i
         answer: "La base estrella es de PVC de alta resistencia, no de metal. Cumple para uso normal, pero una base de aluminio aguanta mejor el uso diario a largo plazo. Es el límite lógico a este precio.",
       },
       {
-        question: "¿Qué diferencia hay con la Alpina FT-088?",
-        answer: "Son de la misma marca y muy parecidas. La PRE-FT055 cuesta un escalón más y viene en negro/rojo con rótulo Premium, pero la FT-088 es más barata, tiene muchísimas más calificaciones y prácticamente la misma silla. Si te gusta el negro liso, la FT-088 conviene.",
+        question: "¿Por qué es la más elegida si tiene el rating más bajo?",
+        answer: "Porque es la más barata de la comparativa y la que más volumen de compra acumuló: más de 1.800 calificaciones. Su 4.6 no es un mal rating, es el más bajo de un grupo donde las premium llegan a 4.9 pagando el doble o el triple. Si tu prioridad es gastar poco con respaldo real de compradores, es la opción; si querés el mejor acabado, hay que subir de gama.",
       },
       {
         question: "¿El tapizado da calor en verano?",
