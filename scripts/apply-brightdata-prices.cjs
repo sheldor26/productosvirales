@@ -66,6 +66,39 @@ function leerDataset(p) {
   }
 }
 
+/**
+ * ¿El producto está sin stock? Devuelve `true` (sin stock), `false` (con stock)
+ * o `null` cuando NO SE PUEDE DETERMINAR.
+ *
+ * Hasta el 2026-08-10 esto era `!r.stock_available`, o sea que trataba la
+ * ausencia del dato como prueba de que no hay stock. Y `stock_available` es
+ * solo el texto que MercadoLibre muestra al lado del boton ("+50 disponibles"),
+ * que ML no siempre renderiza. Resultado medido ese dia: de 14 productos
+ * marcados sin stock, 13 estaban perfectamente a la venta (93% de falsos
+ * positivos). Eso llego a produccion y, combinado con la redireccion de links
+ * sin stock a la ficha interna, desvio 84 links de afiliado en 22 guias.
+ *
+ * Ahora se exige EVIDENCIA POSITIVA para marcar sin stock:
+ *   - texto explicito de pausa/agotado en los campos scrapeados, o
+ *   - el registro no trae precio (una publicacion viva siempre trae precio).
+ * Si el precio esta y no hay senal de pausa, se asume CON stock. Y si no hay
+ * ni precio ni senal util, se devuelve null y no se toca el estado anterior.
+ */
+function sinStock(r) {
+  const textos = [r.stock_available, r.availability, r.status, r.product_status]
+    .filter((v) => typeof v === "string")
+    .join(" ")
+    .toLowerCase();
+
+  if (/pausada|sin stock|agotado|no disponible|out of stock|unavailable/.test(textos)) return true;
+
+  const tienePrecio = Number.isFinite(Number(r?.current_price?.value)) && Number(r.current_price.value) > 0;
+  if (tienePrecio) return false; // hay precio y ninguna senal de pausa: esta a la venta
+
+  if (r.error) return true; // el scraper no pudo abrir la publicacion
+  return null; // sin datos suficientes: no tocar el estado anterior
+}
+
 function usage() {
   console.log(`Uso:
   node scripts/apply-brightdata-prices.cjs <dataset.json> [--apply]
@@ -165,15 +198,17 @@ function compare(catalog, report) {
     }
 
     // Estado de stock: priceStatus persiste el estado de la corrida anterior,
-    // stock_available es el de ahora. El cruce detecta el flip (pausada <-> activa).
+    // el dato scrapeado es el de ahora. El cruce detecta el flip.
     const prevOut = product.priceStatus === "out_of_stock";
-    const nowOut = !r.stock_available;
-    if (nowOut) {
+    const nowOut = sinStock(r);
+    if (nowOut === true) {
       stockMissing.push({ id: product.id, title: product.title, permalink: product.permalink });
     }
-    if (prevOut && !nowOut) {
+    // Con nowOut === null (no se pudo determinar) no se toca nada: se deja el
+    // estado anterior y no se reporta flip.
+    if (prevOut && nowOut === false) {
       stockChanges.push({ id: product.id, title: product.title, permalink: product.permalink, direction: "restock" });
-    } else if (!prevOut && nowOut) {
+    } else if (!prevOut && nowOut === true) {
       stockChanges.push({ id: product.id, title: product.title, permalink: product.permalink, direction: "out" });
     }
   }
@@ -565,7 +600,7 @@ function main() {
   }
   console.log(`Con rating/reviewCount para actualizar: ${ratingReviewChanges.length}`);
   if (stockMissing.length) {
-    console.log(`Sin "unidades disponibles" detectado (revisar si sigue en stock): ${stockMissing.length}`);
+    console.log(`Sin stock confirmado (senal explicita de pausa/agotado, o sin precio): ${stockMissing.length}`);
     for (const s of stockMissing) console.log(`  ${s.id}  ${s.title}  ${s.permalink}`);
   }
   if (stockChanges.length) {
