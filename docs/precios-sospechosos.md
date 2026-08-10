@@ -246,3 +246,29 @@
   - ML: https://www.mercadolibre.com.ar/p/MLA12384031
   - Sitio: https://productosvirales.com.ar/producto/MLA12384031
 
+
+### Verificación de los 9 del 2026-08-10 — RESUELTO
+
+Los 9 se abrieron uno por uno en MercadoLibre con Chrome real el mismo día. **Bright Data acertó en 5, erró en 4.** El umbral del 50% que frena estos cambios hizo bien su trabajo.
+
+| Producto | Catálogo | Bright Data | Real verificado | Veredicto |
+| :-- | --: | --: | --: | :-- |
+| Plancha Revlon | $57.199 | $299.999 | **$299.999** | BD acertó |
+| Joystick Xbox | $120.000 | $460.998 | **$460.998** | BD acertó |
+| Logitech G733 | $213.911 | $470.079 | **$470.079** | BD acertó |
+| Freidora Kanji | $349.999 | $173.000 | **$173.000** | BD acertó |
+| Samsung Jetbot | $1.300.000 | $3.476.040 | **$3.476.040** | BD acertó |
+| Horno Atma HGA3022 | $202.799 | $499.999 | **$594.013** | dirección bien, número mal |
+| Balanza Xiaomi S400 | $229.000 | $84.827 | **$92.000** | dirección bien, número mal |
+| **Cafetera Nespresso Lattissima One** | $859.800 | $417.002 | **$859.800** | **BD inventó una baja** |
+| **Zapatero metal 8 pisos** | $59.999 | $19.999 | **$59.999** | **BD inventó una baja** |
+
+**El patrón que importa:** los dos errores puros de Bright Data son **bajas de precio inventadas** (−52% y −67%), y en los dos casos el precio real es exactamente el que ya tenía el catálogo.
+
+Eso es peligroso de una forma concreta: una baja falsa alimenta el canal de Telegram de bajas de precio. Sin el filtro del 50%, se hubiera anunciado una Nespresso a $417.002 que en realidad sale $859.800. El lector entra, ve el doble, y el canal pierde credibilidad de una.
+
+**Aplicado:** los 7 que tienen número confirmado (5 de BD + 2 releídos en vivo). Los 2 inventados se dejaron como estaban, que ya era lo correcto.
+
+**Confirmado de paso:** el zapatero de metal de 8 pisos está a $59.999, el valor que se había leído a mano esa mañana. Ese conflicto entre la lectura manual y Bright Data se resuelve a favor de la manual.
+
+**Conclusión operativa:** el umbral MIN_RATIO/MAX_RATIO de `apply-brightdata-prices.cjs` no es una molestia, es la red que evita publicar precios falsos. No conviene subirlo ni automatizar la aplicación de los sospechosos: 4 de 9 hubieran entrado mal.
