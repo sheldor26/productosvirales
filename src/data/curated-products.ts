@@ -15769,7 +15769,7 @@ Si el rating de 2.8⭐ te genera dudas o no te hace falta el mecanismo de palanc
     id: 'MLA54423759',
     visibility: 'deprioritized',
     title: 'Ventilador Retractil De Techo Novohome Luz Calida Fria Neutra 6 Velocidades 4 aspas Color Blanco',
-    price: 96499,
+    price: 149990,
     priceUpdated: "2026-08-10",
     priceLastChecked: "2026-08-10",
     priceStatus: "fresh",
@@ -15790,15 +15790,15 @@ Si el rating de 2.8⭐ te genera dudas o no te hace falta el mecanismo de palanc
     condition: 'new',
     freeShipping: false,
     rating: 4.8,
-    reviewCount: 1657,
+    reviewCount: 1661,
     soldQuantity: undefined,
     pastelColor: 'var(--pastel-amber)',
     description: 'Transforma tu espacio con el Ventilador Retráctil de Techo Novohome NH-VTR, una combinación perfecta de funcionalidad y diseño moderno. Con un elegante color blanco y aspas transparentes, este ventilador se integra armoniosamente en cualquier ambiente, aportando un toque contemporáneo a tu hogar. Su',
     badge: 'viral',
     seoTitle: "Ventilador de Techo Retráctil Novohome NH-VTR LED",
-    metaDescription: 'Ventilador retráctil Novohome NH-VTR: 4 aspas transparentes, 6 velocidades, luz LED 3 tonos, 20dB y control remoto. 4.8⭐ con 717 compradores. $113.149.',
+    metaDescription: 'Ventilador retráctil Novohome NH-VTR: 4 aspas transparentes, 6 velocidades, luz LED 3 tonos, 20dB y control remoto. 4.8⭐ con más de 1.600 compradores.',
     ogTitle: 'Ventilador Retráctil de Techo Novohome NH-VTR con Luz LED | ProductosVirales',
-    ogDescription: '4 aspas transparentes retráctiles, 6 velocidades, luz LED fría/cálida/neutra, 20dB y control remoto. Modo verano e invierno. 4.8⭐ con 717 compradores.',
+    ogDescription: '4 aspas transparentes retráctiles, 6 velocidades, luz LED fría/cálida/neutra, 20dB y control remoto. Modo verano e invierno. 4.8⭐ con más de 1.600 compradores.',
     h1: 'Novohome NH-VTR: el ventilador retráctil de techo con luz LED que desaparece cuando no lo usás',
     pros: [
       'Aspas transparentes que se retraen automáticamente',
@@ -15814,7 +15814,7 @@ Si el rating de 2.8⭐ te genera dudas o no te hace falta el mecanismo de palanc
       'Discrepancia de datos de potencia (56W ficha vs 30W motor)',
       'No apto para techos muy bajos (35 cm de alto)',
     ],
-    verdict: 'El ventilador retráctil más valorado del segmento. Luz LED 3 tonos + 6 velocidades + 20 dB + modo invierno — completo y silencioso.',
+    verdict: 'Uno de los ventiladores retráctiles más valorados del segmento. Luz LED 3 tonos + 6 velocidades + 20 dB + modo invierno — completo y silencioso.',
     articleBody: `## Qué hace diferente a un ventilador retráctil
 
 Un ventilador de techo convencional tiene las aspas visibles todo el tiempo, giradas o no. El retráctil cambia eso: cuando no está en funcionamiento, las aspas se pliegan hacia adentro y quedan ocultas dentro del cuerpo del aparato. Lo que queda en el techo es una luminaria redonda, limpia, sin nada que sobresalga.
@@ -15861,7 +15861,7 @@ El NH-VTR requiere instalación eléctrica en techo. No es un aparato enchufable
 
 El temporizador permite programar el apagado automático tanto de la luz como del ventilador, lo que es útil para usarlo mientras te dormís sin dejar el aparato encendido toda la noche.
 
-Si querés comparar con otras opciones del segmento, mirá también el [Peabody PE-VTRDC425B](/producto/ventilador-de-techo-peabody-pe-vtrdc425b-42-retractil-cantidad-de-aspas-3-estruc-mla43536904), el [Etheos retráctil](/producto/ventilador-de-techo-retractil-etheos-100w-luz-led-control-mla44033885) y el [Iluma retráctil](/producto/ventilador-de-techo-retractil-iluma-blanco-control-remoto-4-aspas-6-velocidades-mla66266614).`,
+Si querés comparar con otras opciones del segmento, mirá el [Etheos retráctil](/producto/ventilador-de-techo-retractil-etheos-100w-luz-led-control-mla44033885) y el [Iluma retráctil](/producto/ventilador-de-techo-retractil-iluma-blanco-control-remoto-4-aspas-6-velocidades-mla66266614). El [Peabody PE-VTRDC425B](/producto/ventilador-de-techo-peabody-pe-vtrdc425b-42-retractil-cantidad-de-aspas-3-estruc-mla43536904) era el premium del grupo, pero hoy no se consigue: queda solo como referencia.`,
     specs: [
       { label: 'Marca / Modelo', value: 'Novohome / NH-VTR' },
       { label: 'Voltaje', value: '220V / 50-60 Hz' },
@@ -15904,7 +15904,7 @@ Si querés comparar con otras opciones del segmento, mirá también el [Peabody 
       offers: {
         '@type': 'Offer',
         priceCurrency: 'ARS',
-        price: '113149',
+        price: '149990',
         availability: 'https://schema.org/InStock',
         seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
         url: 'https://meli.la/1sBAiap',
@@ -15912,7 +15912,7 @@ Si querés comparar con otras opciones del segmento, mirá también el [Peabody 
       aggregateRating: {
         '@type': 'AggregateRating',
         ratingValue: '4.8',
-        reviewCount: '717',
+        reviewCount: '1661',
         bestRating: '5',
         worstRating: '1',
       },
@@ -15922,9 +15922,9 @@ Si querés comparar con otras opciones del segmento, mirá también el [Peabody 
     id: 'MLA43536904',
     title: 'Ventilador De Techo Peabody Pe-vtrdc425b 42 Retractil Cantidad de aspas 3 Estructura Blanco Aspas Transparente Diámetro 1.067 m Frecuencia 50 Hz Material de las aspas Acrílico',
     brand: "Peabody",
-    price: 671998,
-    priceUpdated: "2026-07-24",
-    priceLastChecked: "2026-08-05",
+    price: 324900,
+    priceUpdated: "2026-08-10",
+    priceLastChecked: "2026-08-10",
     priceStatus: "out_of_stock",
     originalPrice: undefined,
     currency: 'ARS',
@@ -15943,15 +15943,15 @@ Si querés comparar con otras opciones del segmento, mirá también el [Peabody 
     condition: 'new',
     freeShipping: false,
     rating: 4.8,
-    reviewCount: 748,
+    reviewCount: 770,
     soldQuantity: 1000,
     pastelColor: 'var(--pastel-amber)',
     description: '- 3 palas retráctiles invisibles de gran tamaño.   - 3 tonos de luz progresivas: Fría, Blanca cálida y Amarilla cálida.   - 6 velocidades.   - Dimmer para brillo regulable.   - Control remoto de largo alcance.   - Timer para apagado automático.   - Memoria de último modo de luz.   - Modo Convección:',
     badge: 'viral',
     seoTitle: "Ventilador de Techo Retráctil Peabody PE-VTRDC425B",
-    metaDescription: 'Peabody PE-VTRDC425B: motor DC de cobre, 170 m³/min, luz LED con dimmer, 3 tonos, modo convección y 2 barrales incluidos. 4.9⭐ con 1.169 compradores.',
+    metaDescription: 'Peabody PE-VTRDC425B: motor DC de cobre, 170 m³/min, luz LED con dimmer, 3 tonos, modo convección y 2 barrales incluidos. 4.8⭐ con 770 compradores. Hoy sin stock: mirá las alternativas.',
     ogTitle: 'Ventilador de Techo Retráctil Peabody PE-VTRDC425B | ProductosVirales',
-    ogDescription: 'Motor DC 100% cobre, 170 m³/min, luz LED con dimmer y 3 tonos progresivos, modo convección invierno, 2 barrales incluidos. 4.9⭐ con 1.169 compradores.',
+    ogDescription: 'Motor DC 100% cobre, 170 m³/min, luz LED con dimmer y 3 tonos progresivos, modo convección invierno, 2 barrales incluidos. 4.8⭐ con 770 compradores. Hoy sin stock en MercadoLibre.',
     h1: 'Peabody PE-VTRDC425B: el ventilador retráctil con motor DC de cobre y 170 m³/min de caudal',
     pros: [
       'Motor DC 100% cobre (eficiente y durable)',
@@ -15959,18 +15959,18 @@ Si querés comparar con otras opciones del segmento, mirá también el [Peabody 
       'Luz LED con dimmer + memoria + modo noche',
       'Modo convección para invierno',
       '2 barrales incluidos (40/50 cm)',
-      '1.169 calificaciones con 4.9⭐, el mayor volumen entre los retráctiles DC del catálogo',
+      '770 calificaciones con 4.8⭐, el mayor volumen entre los retráctiles DC del catálogo',
     ],
     cons: [
       '39 dB (más ruidoso que otros retráctiles declarados)',
       'Solo 50 Hz (Novohome acepta 50/60)',
       'Conectividad Wi-Fi con datos contradictorios',
-      'Precio premium (alrededor de $600.000)',
+      'Precio premium (alrededor de {{precio:MLA43536904}})',
     ],
-    verdict: 'El retráctil más vendido del catálogo con motor DC y caudal premium. Si priorizás flujo de aire + control fino de luz, es el indicado.',
+    verdict: 'Fue el retráctil premium del catálogo: motor DC, caudal alto y el control de luz más fino del grupo. Hoy la publicación figura como no disponible en MercadoLibre. Si buscabas motor DC retráctil, el reemplazo directo es el [Iluma Zenith](/producto/ventilador-de-techo-retractil-iluma-blanco-control-remoto-4-aspas-6-velocidades-mla66266614), bastante más barato aunque con muchas menos opiniones detrás.',
     articleBody: `## Por qué Peabody es la marca más buscada en este segmento
 
-En Argentina, "ventilador de techo retráctil Peabody" acumula búsquedas mensuales que ninguna otra marca del segmento tiene en volumen comparable. Eso no es casualidad: Peabody tiene distribución local, presencia en cadenas de electro y un historial de posventa que genera opiniones activas. Con 1.169 calificaciones y 4.9 estrellas en MercadoLibre, el PE-VTRDC425B es de los retráctiles con motor DC con más reseñas del catálogo (el [Etheos](/producto/ventilador-de-techo-retractil-etheos-100w-luz-led-control-mla44033885), con motor AC, tiene una base todavía mayor).
+En Argentina, "ventilador de techo retráctil Peabody" acumula búsquedas mensuales que ninguna otra marca del segmento tiene en volumen comparable. Eso no es casualidad: Peabody tiene distribución local, presencia en cadenas de electro y un historial de posventa que genera opiniones activas. Con 770 calificaciones y 4.8 estrellas en MercadoLibre, el PE-VTRDC425B es de los retráctiles con motor DC con más reseñas del catálogo (el [Etheos](/producto/ventilador-de-techo-retractil-etheos-100w-luz-led-control-mla44033885), con motor AC, tiene una base todavía mayor).
 
 El resumen de compradores lo describe con precisión: "silencioso y ofrece un flujo de aire espectacular, siendo ideal incluso para techos altos. Su diseño es atractivo y cuenta con diferentes opciones de luces que se pueden regular."
 
@@ -16034,7 +16034,7 @@ Si querés comparar con otras opciones del catálogo, mirá el [Etheos retrácti
     faq: [
       { question: '¿El Peabody PE-VTRDC425B tiene modo invierno?', answer: 'Sí. Tiene modo convección que invierte el sentido de giro de las aspas a baja velocidad para distribuir el aire caliente acumulado en el techo hacia abajo, sin generar corriente directa. La ficha de ML dice "aspas reversibles: No" porque la reversión es electrónica, no manual.' },
       { question: '¿Tiene dimmer o solo cambia entre tres tonos de luz?', answer: 'Tiene ambas cosas. Dentro de cada tono de luz (fría, blanca cálida, amarilla cálida) podés regular el brillo con el dimmer desde el control remoto. También tiene modo noche con luz tenue y memoria del último modo usado.' },
-      { question: '¿Qué diferencia hay entre el Peabody y el Novohome NH-VTR del mismo catálogo?', answer: 'Principalmente cuatro diferencias. El Peabody tiene motor DC de cobre (más eficiente), 3 aspas grandes de acrílico vs 4 del Novohome, dimmer regulable y memoria de modo (que el Novohome no menciona), y un caudal declarado de 170 m³/min. El Novohome es más económico (alrededor de $160.000 contra $600.000 del Peabody) y tiene un ruido mínimo más bajo declarado (20 dB vs 39 dB del Peabody).' },
+      { question: '¿Qué diferencia hay entre el Peabody y el Novohome NH-VTR del mismo catálogo?', answer: 'Principalmente cuatro diferencias. El Peabody tiene motor DC de cobre (más eficiente), 3 aspas grandes de acrílico vs 4 del Novohome, dimmer regulable y memoria de modo (que el Novohome no menciona), y un caudal declarado de 170 m³/min. El Novohome es más económico ({{precio:MLA54423759}} contra {{precio:MLA43536904}} del Peabody) y tiene un ruido mínimo más bajo declarado (20 dB vs 39 dB del Peabody).' },
       { question: '¿Para qué tamaño de ambiente sirve?', answer: 'Con 42 pulgadas (1,07 m) de diámetro y 170 m³/min de caudal, los compradores lo mencionan como "ideal incluso para techos altos". Es apto para ambientes de 20 a 35 m² aproximadamente.' },
       { question: '¿Incluye los dos barrales?', answer: 'Sí. Vienen incluidos el barral corto (altura total 40 cm) y el barral largo (altura total 50 cm), permitiendo adaptar la instalación según la altura del techo.' },
       { question: '¿Tiene conectividad con celular?', answer: 'La descripción del vendedor menciona "todas las funciones desde el celular", pero la ficha técnica oficial de MercadoLibre lista "Con Wi-Fi: No". Hay una contradicción. Recomendamos consultar al vendedor antes de comprar si esa función es relevante para tu decisión.' },
@@ -16057,15 +16057,15 @@ Si querés comparar con otras opciones del catálogo, mirá el [Etheos retrácti
       offers: {
         '@type': 'Offer',
         priceCurrency: 'ARS',
-        price: '599999',
-        availability: 'https://schema.org/InStock',
+        price: '324900',
+        availability: 'https://schema.org/OutOfStock',
         seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
         url: 'https://meli.la/1FFciXt',
       },
       aggregateRating: {
         '@type': 'AggregateRating',
-        ratingValue: '4.9',
-        reviewCount: '1169',
+        ratingValue: '4.8',
+        reviewCount: '770',
         bestRating: '5',
         worstRating: '1',
       },
@@ -16095,16 +16095,16 @@ Si querés comparar con otras opciones del catálogo, mirá el [Etheos retrácti
     affiliateUrl: 'https://meli.la/2qxbftx',
     condition: 'new',
     freeShipping: false,
-    rating: 4.7,
-    reviewCount: 2008,
+    rating: 4.8,
+    reviewCount: 1678,
     soldQuantity: undefined,
     pastelColor: 'var(--pastel-amber)',
     description: 'Ventilador de techo retráctil con luz LED   - Potencia máxima combinada: 100 W - Luz LED (frío - cálido - neutro) - 6 velocidades - Medidas desplegado: 120 cm - Silencioso - Cuatro aspas retráctiles de acrílico transparente - Plafón LED de 50 cm de diámetro - Motor bobinado de cobre - Bajo consumo -',
     badge: 'trending',
     seoTitle: "Ventilador de Techo Retráctil Etheos 100W LED",
-    metaDescription: 'Etheos GVTI-VTR negro: ventilador retráctil de techo de 1,2m, 100W, luz LED 3 tonos, remote completo con dimmer y modo nocturno. 4.7⭐ con 1.996 compradores.',
+    metaDescription: 'Etheos GVTI-VTR negro: ventilador retráctil de techo de 1,2m, 100W, luz LED 3 tonos, remote completo con dimmer y modo nocturno. 4.8⭐ con más de 1.600 compradores.',
     ogTitle: 'Ventilador Retráctil de Techo Etheos Negro 100W con Luz LED | ProductosVirales',
-    ogDescription: 'El único retráctil negro del catálogo: 1,2m de diámetro, 100W, luz LED fría/cálida/neutra con dimmer, modo nocturno, modos verano/invierno y 2 barrales. 4.7⭐ con 1.996 compradores.',
+    ogDescription: 'El único retráctil negro del catálogo: 1,2m de diámetro, 100W, luz LED fría/cálida/neutra con dimmer, modo nocturno, modos verano/invierno y 2 barrales. 4.8⭐ con más de 1.600 compradores.',
     h1: 'Etheos GVTI-VTR: el ventilador retráctil negro de 1,2 metros con el remote más completo del segmento',
     pros: [
       '1,2 m de diámetro (el más grande del catálogo)',
@@ -16113,7 +16113,7 @@ Si querés comparar con otras opciones del catálogo, mirá el [Etheos retrácti
       '100 W — alta potencia para ambientes grandes',
       'Modo verano/invierno con botones F/R separados',
       '2 barrales extensores incluidos',
-      '1.996 calificaciones, el mayor volumen del catálogo',
+      'Más de 1.600 calificaciones, el mayor volumen entre los retráctiles del catálogo',
     ],
     cons: [
       'Nivel de ruido sin dato real (ficha dice 0 dB por error)',
@@ -16121,16 +16121,16 @@ Si querés comparar con otras opciones del catálogo, mirá el [Etheos retrácti
       'Sin memoria de último modo (el Peabody sí tiene)',
       'Potencia 100W sin desglose motor vs LED',
     ],
-    verdict: 'La opción si querés negro y mayor cobertura. Remote más detallado del catálogo y 1.996 reseñas de respaldo a precio intermedio.',
+    verdict: 'La opción si querés negro y mayor cobertura. Remote más detallado del catálogo y 1.678 reseñas de respaldo a precio intermedio.',
     articleBody: `## El único retráctil negro: lo que cambia en la estética de un techo
 
 En el segmento de ventiladores retráctiles argentinos, todos los modelos disponibles son blancos. El Etheos GVTI-VTRN es la excepción. Con estructura negro mate, anillo exterior de diseño con estrías horizontales y plafón LED de 50 cm de diámetro, se integra de forma diferente en techos blancos: no desaparece sino que se convierte en un elemento visual del ambiente.
 
-Para dormitorios, living rooms o estudios con paleta oscura, industrial o minimalista, esa diferencia importa tanto como las especificaciones técnicas. Con 4.7 estrellas y más de 1.996 calificaciones —el mayor volumen de reseñas en el catálogo— el Etheos tiene suficiente historial de compradores para evaluar con confianza.
+Para dormitorios, living rooms o estudios con paleta oscura, industrial o minimalista, esa diferencia importa tanto como las especificaciones técnicas. Con 4.8 estrellas y más de 1.600 calificaciones —el mayor volumen de reseñas en el catálogo— el Etheos tiene suficiente historial de compradores para evaluar con confianza.
 
 ## 1,2 metros de diámetro: el más grande del catálogo
 
-El Etheos tiene 1,2 metros de diámetro expandido frente a los 1,07 metros del [Novohome](/producto/ventilador-retractil-de-techo-novohome-luz-calida-fria-neutra-6-velocidades-4-as-mla54423759) y el [Peabody](/producto/ventilador-de-techo-peabody-pe-vtrdc425b-42-retractil-cantidad-de-aspas-3-estruc-mla43536904). Esa diferencia de 13 centímetros en radio no es decorativa: implica aspas más largas y, en teoría, mayor volumen de aire movido a igual velocidad.
+El Etheos tiene 1,2 metros de diámetro expandido frente a los 1,07 metros del [Novohome](/producto/ventilador-retractil-de-techo-novohome-luz-calida-fria-neutra-6-velocidades-4-as-mla54423759) y el [Peabody](/producto/ventilador-de-techo-peabody-pe-vtrdc425b-42-retractil-cantidad-de-aspas-3-estruc-mla43536904). Esa diferencia de 13 centímetros de diámetro no es decorativa: implica aspas más largas y, en teoría, mayor volumen de aire movido a igual velocidad.
 
 Para ambientes de 25 a 40 m², ese diámetro es más adecuado que los 42 pulgadas estándar del segmento. Los compradores mencionan "instalación sencilla" y el hecho de que el aparato cumple bien en espacios grandes, dato que se corresponde con las dimensiones del producto.
 
@@ -16194,7 +16194,7 @@ Completá el panorama con el [Iluma retráctil](/producto/ventilador-de-techo-re
       { question: '¿Cuánto ruido hace?', answer: 'La ficha de MercadoLibre dice 0 dB, lo que es un error de carga — es técnicamente imposible. No hay dato real disponible del fabricante para este modelo. Si el nivel de ruido es crítico, el Novohome NH-VTR del mismo catálogo tiene 20-33 dB documentados.' },
       { question: '¿Las aspas son de plástico o de acrílico?', answer: 'Hay una discrepancia: la ficha ML dice plástico y la descripción técnica dice acrílico transparente. Acrílico es un tipo de plástico, pero de mayor calidad. Las imágenes muestran aspas transparentes de aspecto similar al de otros modelos del catálogo que usan acrílico. Consultar al vendedor para confirmar el material exacto.' },
       { question: '¿Incluye dos barrales?', answer: 'Sí. Incluye barrales extensores de 10 cm y 20 cm para adaptar la altura de instalación al techo disponible.' },
-      { question: '¿Qué diferencia tiene con el Peabody PE-VTRDC425B?', answer: 'Las principales diferencias: Etheos es negro y tiene mayor diámetro (1,2 m vs 1,07 m del Peabody). El Peabody tiene motor DC y declara 170 m³/min de caudal, además de memoria de último modo. El Etheos tiene 100W de potencia (vs 72W del Peabody). El Peabody es más caro (alrededor de $600.000 vs $160.000 del Etheos).' },
+      { question: '¿Qué diferencia tiene con el Peabody PE-VTRDC425B?', answer: 'Las principales diferencias: Etheos es negro y tiene mayor diámetro (1,2 m vs 1,07 m del Peabody). El Peabody tiene motor DC y declara 170 m³/min de caudal, además de memoria de último modo. El Etheos tiene 100W de potencia (vs 72W del Peabody). El Peabody es bastante más caro ({{precio:MLA43536904}} contra {{precio:MLA44033885}} del Etheos) y hoy su publicación figura como no disponible.' },
     ],
     relatedProducts: ['MLA54423759', 'MLA43536904', 'MLA66266614'],
     structuredData: {
@@ -16212,15 +16212,15 @@ Completá el panorama con el [Iluma retráctil](/producto/ventilador-de-techo-re
       offers: {
         '@type': 'Offer',
         priceCurrency: 'ARS',
-        price: '159599',
+        price: '198998',
         availability: 'https://schema.org/InStock',
         seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
         url: 'https://meli.la/2qxbftx',
       },
       aggregateRating: {
         '@type': 'AggregateRating',
-        ratingValue: '4.7',
-        reviewCount: '1996',
+        ratingValue: '4.8',
+        reviewCount: '1678',
         bestRating: '5',
         worstRating: '1',
       },
@@ -16230,7 +16230,7 @@ Completá el panorama con el [Iluma retráctil](/producto/ventilador-de-techo-re
     id: 'MLA66266614',
     title: 'Ventilador De Techo Retractil Iluma Blanco Control Remoto 4 Aspas 6 Velocidades 220 V',
     price: 164116,
-    priceUpdated: "2026-07-24",
+    priceUpdated: "2026-08-10",
     priceLastChecked: "2026-08-10",
     priceStatus: "fresh",
     originalPrice: undefined,
@@ -16260,7 +16260,7 @@ Completá el panorama con el [Iluma retráctil](/producto/ventilador-de-techo-re
     ogDescription: 'De los más accesibles entre los retráctiles con motor DC, con aspas reversibles confirmadas, luz 3 temperaturas y eficiencia A+. Análisis sin filtro con precio actualizado.',
     h1: 'Ventilador de techo retráctil silencioso Iluma Zenith: de los más accesibles entre los DC del catálogo, con aspas reversibles',
     pros: [
-      'De los precios más accesibles entre los retráctiles con motor DC (alrededor de $158.000)',
+      'De los retráctiles más accesibles del catálogo, motor DC incluido (alrededor de {{precio:MLA66266614}})',
       'Motor DC (silencioso y eficiente)',
       'Aspas reversibles confirmadas en ficha ML',
       'Luz LED 3 temperaturas con dimmer y modo noche',
@@ -16268,21 +16268,21 @@ Completá el panorama con el [Iluma retráctil](/producto/ventilador-de-techo-re
       'Compatible 50/60 Hz (cualquier zona de Argentina)',
     ],
     cons: [
-      '61 calificaciones: menos volumen que Peabody o Novohome, pero ya no es una base mínima',
+      '62 calificaciones: mucho menos volumen que el Etheos, el retráctil más probado, pero ya no es una base mínima',
       'Potencia total no especificada en ficha ML',
       'Sin datos de ruido en dB',
       'Discrepancia en temporizador (1H mencionado, no visible en remote)',
     ],
-    verdict: 'Uno de los retráctiles con motor DC más accesibles del catálogo (dentro de ese grupo, no del catálogo completo: los clásicos de palas metálicas siguen siendo más baratos). Tiene todo lo técnico que importa: DC motor, aspas reversibles, LED tricolor, con un volumen de reseñas ya razonable (61).',
+    verdict: 'Uno de los retráctiles con motor DC más accesibles del catálogo, y hoy incluso más barato que los clásicos de palas metálicas, que subieron fuerte. Tiene todo lo técnico que importa: motor DC, aspas reversibles y LED tricolor. La contra es el volumen de reseñas: apenas 62.',
     articleBody: `## Por qué este producto tiene sentido (y por qué con reservas)
 
 Hay una pregunta que aparece bastante seguido en foros de MercadoLibre sobre ventiladores retráctiles: "¿hay alguno que no cueste una fortuna?"
 
-El Iluma Zenith responde eso con un precio de alrededor de $158.000, de los más bajos entre los retráctiles con motor DC (aunque los clásicos de palas metálicas del catálogo siguen siendo más baratos). No es el más vendido del mercado, pero ya acumula 61 calificaciones y sostiene DC motor, aspas reversibles y luz tricolor LED sin el salto de precio del Peabody.
+El Iluma Zenith responde eso con un precio de alrededor de {{precio:MLA66266614}}, de los más bajos entre los retráctiles con motor DC, y hoy por debajo de los clásicos de palas metálicas del catálogo, que se encarecieron bastante. No es el más vendido del mercado, pero ya acumula 62 calificaciones y sostiene DC motor, aspas reversibles y luz tricolor LED sin el salto de precio del Peabody.
 
 ## Qué incluye y cómo funciona
 
-El Zenith es un ventilador de techo con cuatro aspas de acrílico transparente que se pliegan contra el plafón central cuando no están en uso. En modo retráctil parece un plafonnier redondo blanco. Cuando se abren, el diámetro de cobertura llega a 1,07 metros — igual al [Novohome](/producto/ventilador-retractil-de-techo-novohome-luz-calida-fria-neutra-6-velocidades-4-as-mla54423759), el segundo más económico del grupo.
+El Zenith es un ventilador de techo con cuatro aspas de acrílico transparente que se pliegan contra el plafón central cuando no están en uso. En modo retráctil parece un plafonnier redondo blanco. Cuando se abren, el diámetro de cobertura llega a 1,07 metros — igual al [Novohome](/producto/ventilador-retractil-de-techo-novohome-luz-calida-fria-neutra-6-velocidades-4-as-mla54423759), el más económico del grupo.
 
 El motor es de corriente continua (DC), que es el mismo tipo que usa el [Peabody](/producto/ventilador-de-techo-peabody-pe-vtrdc425b-42-retractil-cantidad-de-aspas-3-estruc-mla43536904), aunque a menor potencia. La ficha técnica confirma eficiencia energética A+ y compatibilidad con red eléctrica de 50Hz y 60Hz, lo que lo hace apto para cualquier zona de Argentina sin adaptadores.
 
@@ -16290,7 +16290,7 @@ Las aspas son reversibles. El control remoto tiene un botón específico de "inv
 
 ## Iluma en contexto: dónde entra en el catálogo
 
-Cuatro ventiladores retráctiles, cuatro precios distintos. El Iluma Zenith y el Novohome están prácticamente empatados como los más accesibles del grupo (una diferencia de un par de miles de pesos, que puede variar). El salto grande está con el Peabody, bastante más caro que los otros tres. Si el presupuesto es el filtro principal, el Iluma o el Novohome son las opciones reales del grupo.
+Cuatro ventiladores retráctiles, cuatro precios distintos. El Iluma Zenith y el Novohome son los más accesibles del grupo, con el Novohome un poco por debajo (la diferencia varía). El salto grande está con el Peabody, bastante más caro que los otros tres. Si el presupuesto es el filtro principal, el Iluma o el Novohome son las opciones reales del grupo.
 
 Lo que resignás frente a los demás: menos reseñas que el Novohome o el Peabody, sin datos de ruido verificables, potencia total no especificada en ficha ML, sin Modo Convección avanzado como el Peabody, sin el diseño negro del [Etheos](/producto/ventilador-de-techo-retractil-etheos-100w-luz-led-control-mla44033885) si eso importa.
 
@@ -16312,11 +16312,11 @@ Los valores exactos de cada preset pueden variar — se recomienda pedir al vend
 
 El Zenith no compite con el Peabody ni con el Etheos en features avanzadas. Su público natural es alguien que tiene un techo de altura estándar (2,4m–2,7m) en dormitorio o living de tamaño medio, quiere el look "aspas ocultas" sin pagar el salto de precio del Peabody, prioriza el motor DC pero no necesita aplicación ni Wi-Fi, y no tiene restricciones de frecuencia de red.
 
-Para un dormitorio de matrimonio o un espacio de hasta 18–20m², el diámetro de 1,07m es adecuado. En ambientes más grandes, el Etheos (1,2m de cobertura) o el Peabody darían mejor rendimiento.
+Para un dormitorio de matrimonio o un espacio de hasta 18–20m², el diámetro de 1,07m es adecuado. En ambientes más grandes, el Etheos (1,2m de cobertura) es la opción; el Peabody también entraba por caudal declarado, pero hoy no se consigue.
 
 ## Lo que no sabemos todavía
 
-Con 61 calificaciones, hay cosas que todavía no se pueden confirmar del todo con datos de la comunidad: nivel de ruido real en operación, durabilidad a mediano plazo del mecanismo retráctil, uniformidad de la luz LED en toda la superficie del plafón, temperatura real de los presets de color. Esto no invalida el producto, pero hay que nombrarlo.`,
+Con 62 calificaciones, hay cosas que todavía no se pueden confirmar del todo con datos de la comunidad: nivel de ruido real en operación, durabilidad a mediano plazo del mecanismo retráctil, uniformidad de la luz LED en toda la superficie del plafón, temperatura real de los presets de color. Esto no invalida el producto, pero hay que nombrarlo.`,
     specs: [
       { label: 'Marca / Modelo', value: 'Iluma / Zenith ZENITH40W' },
       { label: 'Diámetro aspas extendidas', value: '1,07 m' },
@@ -16343,9 +16343,9 @@ Con 61 calificaciones, hay cosas que todavía no se pueden confirmar del todo co
       { question: '¿Funciona en redes de 60Hz?', answer: 'Sí. La ficha técnica especifica "Frecuencia: 50Hz / 60Hz", por lo que es compatible con la frecuencia eléctrica de cualquier zona de Argentina.' },
       { question: '¿Cuántas temperaturas de luz tiene?', answer: 'Tres según los infographics del producto: luz fría (~6000K), neutra (~4000K) y cálida (~2700K). El control remoto tiene botones para 3000K y 6500K como extremos, con dimmer para graduar la intensidad. Verificar con el vendedor si los tres presets son ajustes separados o si la temperatura neutra requiere dimmer.' },
       { question: '¿Tiene temporizador?', answer: 'Sí, aunque hay una discrepancia: la descripción menciona 1H, 2H y 4H, pero los botones visibles en el control remoto muestran solo 2H y 4H. Consultar al vendedor si el temporizador de 1 hora está disponible.' },
-      { question: '¿Qué diferencia hay entre el Iluma Zenith y el Novohome NH-VTR?', answer: 'Los precios están prácticamente empatados (ambos alrededor de $158.000-160.000). El Novohome tiene mucho más respaldo de opiniones (1.548 contra 61 del Iluma) y especifica hasta 33dB de ruido; el Iluma no tiene datos de ruido en la ficha. Ambos tienen 1,07m de diámetro y motor silencioso. Si el respaldo de compradores reales pesa más en tu decisión, el Novohome; si te da igual, tienen specs equivalentes en papel.' },
+      { question: '¿Qué diferencia hay entre el Iluma Zenith y el Novohome NH-VTR?', answer: 'Los precios están cerca, con el Novohome algo por debajo ({{precio:MLA54423759}} contra {{precio:MLA66266614}} del Iluma). El Novohome tiene muchísimo más respaldo de opiniones (1.661 contra 62 del Iluma) y especifica hasta 33dB de ruido; el Iluma no tiene datos de ruido en la ficha. Ambos tienen 1,07m de diámetro y motor silencioso. Si el respaldo de compradores reales pesa más en tu decisión, el Novohome; si te da igual, tienen specs equivalentes en papel.' },
       { question: '¿Tiene control por aplicación o Wi-Fi?', answer: 'No. El campo "Con Wi-Fi: No" está confirmado en la ficha de ML. El control es exclusivamente por control remoto físico.' },
-      { question: '¿Para qué tamaño de habitación es adecuado?', answer: 'Para ambientes de hasta 18–20m² con altura de techo estándar (2,4–2,7m). Con 1,07m de diámetro es similar al Novohome. Para habitaciones más grandes, el Etheos (1,2m) o el Peabody serían más adecuados.' },
+      { question: '¿Para qué tamaño de habitación es adecuado?', answer: 'Para ambientes de hasta 18–20m² con altura de techo estándar (2,4–2,7m). Con 1,07m de diámetro es similar al Novohome. Para habitaciones más grandes, el Etheos (1,2m) es la opción; el Peabody también entraba por caudal declarado, pero hoy no se consigue.' },
     ],
     relatedProducts: ['MLA54423759', 'MLA43536904', 'MLA44033885'],
     structuredData: {
@@ -16364,7 +16364,7 @@ Con 61 calificaciones, hay cosas que todavía no se pueden confirmar del todo co
       offers: {
         '@type': 'Offer',
         priceCurrency: 'ARS',
-        price: '158289',
+        price: '164116',
         availability: 'https://schema.org/InStock',
         seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
         url: 'https://meli.la/2j5EPn1',
@@ -16372,7 +16372,7 @@ Con 61 calificaciones, hay cosas que todavía no se pueden confirmar del todo co
       aggregateRating: {
         '@type': 'AggregateRating',
         ratingValue: '4.7',
-        reviewCount: '61',
+        reviewCount: '62',
         bestRating: '5',
         worstRating: '1',
       },
@@ -25910,10 +25910,9 @@ Si ya usás [jade roller o gua sha](/guias/masajeador-facial) y querés sumar al
   {
     id: 'MLA24518712',
     title: "Kit Masajeador Facial Jade Rodillo +piedra Guasha-natural Color Verde",
-    price: 5201,
+    price: 7789,
     priceUpdated: "2026-08-10",
     priceLastChecked: "2026-08-10",
-    priceStatus: "out_of_stock",
     originalPrice: 7790,
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_2X_636629-MLU70439270590_072023-F.webp',
@@ -29382,7 +29381,6 @@ Si esas funcionalidades son parte activa de cómo cocinás, el producto tiene se
     price: 999999,
     priceUpdated: "2026-07-15",
     priceLastChecked: "2026-08-10",
-    priceStatus: "out_of_stock",
     originalPrice: undefined,
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_2X_981648-MLA99506816420_112025-F.webp',
@@ -39926,7 +39924,6 @@ Robot Atma Smart, base de carga, cepillo de piso para líquidos, cepillo redondo
     price: 3476040,
     priceUpdated: '2026-08-10',
     priceLastChecked: '2026-08-10',
-    priceStatus: "out_of_stock",
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_711355-MLA100039491353_122025-F.jpg',
     images: [
@@ -41028,10 +41025,9 @@ El X20 Max es el más completo: tiene la estación todo-en-uno del [X20 Pro](/pr
   {
     id: 'MLA20657750',
     title: 'Aspiradora Robot Roomba 692',
-    price: 441780,
+    price: 511537,
     priceUpdated: "2026-08-10",
     priceLastChecked: "2026-08-10",
-    priceStatus: "out_of_stock",
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_941712-MLA101345707619_122025-F.jpg',
     images: [
@@ -41927,7 +41923,6 @@ No es para vos si: querés programar el café desde la noche anterior (no tiene 
     price: 169919,
     priceUpdated: "2026-08-10",
     priceLastChecked: "2026-08-10",
-    priceStatus: "out_of_stock",
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_853438-MLA99449333302_112025-F.jpg',
     category: 'Cocina',
@@ -42306,7 +42301,6 @@ No es para vos si: querés una jarra robusta que dure años sin cuidarla. En ese
     price: 157257,
     priceUpdated: "2026-08-10",
     priceLastChecked: "2026-08-10",
-    priceStatus: "out_of_stock",
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_935248-MLA105750306188_022026-F.jpg',
     category: 'Cocina',
@@ -45953,25 +45947,25 @@ A $1.779.914,53 con 4.7 estrellas y solo 35 opiniones, es la cafetera más compl
     reviewsSampledAt: '2026-07-02',
     pastelColor: 'var(--pastel-pink)',
     visibility: 'normal',
-    description: 'El secador de pelo más vendido en Mercado Libre Argentina en su categoría: 2100W reales, frío/calor y difusor incluido para rulos. No es iónico (pese a lo que muchos esperan de este precio), pero cumple sin vueltas para uso diario.',
+    description: 'Fue el secador de pelo más vendido de Mercado Libre Argentina en su categoría: 2100W reales, frío/calor y difusor incluido para rulos, con más de 9.300 calificaciones. No es iónico (pese a lo que muchos esperan de este precio). Hoy la publicación figura como no disponible y no encontramos otra oferta del mismo modelo.',
     seoTitle: 'Daewoo DHD-7007 2100W: el secador de pelo más vendido',
-    metaDescription: 'Análisis del Daewoo DHD-7007 2100W: frío/calor, difusor incluido, 8.633 calificaciones. Para quién sirve y para quién se queda corto el difusor.',
+    metaDescription: 'Análisis del Daewoo DHD-7007 2100W: frío/calor, difusor incluido, más de 9.300 calificaciones. Hoy no se consigue: qué alternativas quedan y para quién sirve cada una.',
     pros: [
       '2100W reales de potencia, buena velocidad de secado para uso diario',
       'Difusor incluido para definir rulos, sin comprarlo aparte',
       '3 velocidades y 3 temperaturas, con función de aire frío para fijar el peinado',
-      'El más elegido de la categoría: 8.633 calificaciones y 4.7 estrellas',
-      'Envío gratis y buen respaldo por volumen de ventas',
+      'El más elegido de la categoría: más de 9.300 calificaciones y 4.7 estrellas',
+      'Buen respaldo por volumen de ventas, aunque hoy la publicación figura sin stock',
     ],
     cons: [
       'No es iónico (la ficha técnica lo confirma): no reduce frizz por sí solo',
       'El difusor es chico; con pelo largo o muy rizado hay que ir por partes y a temperatura media para no quemar los rulos',
       'No se pliega, así que no es el más práctico para viajar',
     ],
-    verdict: 'Para la mayoría, es la compra segura: potencia real, difusor incluido y la base de opiniones más grande de la categoría. Si tenés pelo largo y rulado buscando reducir frizz en serio, el difusor se queda chico y conviene mirar una opción iónica como el Yelmo o el Spica.',
+    verdict: 'Fue durante meses la compra segura de la categoría: potencia real, difusor incluido y la base de opiniones más grande del rubro. Hoy no se consigue, así que la recomendación pasa a otro lado. Si lo que buscabas era potencia con algo profesional, el [Yelmo SC-3630](/producto/secador-pelo-profesional-2200w-tourmaline-ion-yelmo-sc-3630-color-celeste-mla21813707); si lo que te atraía era el difusor incluido a buen precio, el [Spica SP-1900](/producto/secador-pelo-cabello-spica-sp-1900-2-velocidades-color-verde-claro-mla22934394), que además es iónico.',
     articleBody: `## Para quién es este secador
 
-El Daewoo DHD-7007 es la opción por defecto para quien quiere un secador que ande bien sin pensar demasiado: 2100W, frío/calor, difusor incluido. Es, por lejos, el más comprado de la categoría en Argentina, con más de 8.600 calificaciones, un volumen que ningún otro modelo de esta guía se acerca a igualar.
+El Daewoo DHD-7007 fue durante meses la opción por defecto para quien quería un secador que anduviera bien sin pensar demasiado: 2100W, frío/calor, difusor incluido. Es, por lejos, el más comprado de la categoría en Argentina, con más de 9.300 calificaciones, un volumen que ningún otro modelo de esta guía se acerca a igualar.
 
 ## Potencia real, no solo el número de la caja
 
@@ -46010,7 +46004,7 @@ El patrón en las reseñas es consistente: "potente", "seca rápido", "cumple". 
       { question: '¿El Daewoo DHD-7007 es iónico?', answer: 'No. La ficha técnica del fabricante confirma que este modelo no tiene tecnología iónica. Si buscás específicamente reducir frizz con tecnología iónica, mirá el Yelmo SC-3630 o el Spica SP-1900 de esta misma guía.' },
       { question: '¿Trae difusor incluido?', answer: 'Sí, viene con difusor para definir rulos sin costo aparte. Es chico, así que con pelo largo y abundante conviene secarlo por partes a temperatura media.' },
       { question: '¿Cuántas velocidades y temperaturas tiene?', answer: 'Tiene 2 velocidades y función de aire frío (cool shot) para fijar el peinado al terminar.' },
-      { question: '¿Por qué es el secador más vendido de la categoría?', answer: 'Combina potencia real (2100W), difusor incluido y un precio competitivo. Con más de 8.600 calificaciones y 4.7 estrellas, es el que más compradores validaron en Argentina.' },
+      { question: '¿Por qué fue el secador más vendido de la categoría?', answer: 'Combinaba potencia real (2100W), difusor incluido y un precio competitivo. Con más de 9.300 calificaciones y 4.7 estrellas, es el que más compradores validaron en Argentina. Hoy no se consigue: la publicación figura como no disponible.' },
     ],
     relatedProducts: ['MLA22934394', 'MLA21813707', 'MLA23558351'],
     structuredData: {
@@ -46047,8 +46041,8 @@ El patrón en las reseñas es consistente: "potente", "seca rápido", "cumple". 
     title: 'Secador Pelo Cabello Spica Sp-1900 2 Velocidades Color Verde claro',
     canonicalName: 'Spica SP-1900 1800W',
     brand: 'Spica',
-    price: 17499,
-    priceUpdated: "2026-07-20",
+    price: 29099,
+    priceUpdated: "2026-08-10",
     priceLastChecked: "2026-08-10",
     priceStatus: "fresh",
     currency: 'ARS',
@@ -46066,12 +46060,12 @@ El patrón en las reseñas es consistente: "potente", "seca rápido", "cumple". 
     freeShipping: false,
     rating: 4.3,
     reviewCount: 2135,
-    reviewsSampledAt: '2026-07-02',
+    reviewsSampledAt: '2026-08-10',
     pastelColor: 'var(--pastel-pink)',
     visibility: 'normal',
-    description: 'El secador más económico de la guía: 1800W, iónico, con difusor y boquilla incluidos. La relación precio-equipamiento es la mejor del catálogo, aunque el rating (4.3) es el más bajo de los seis y con pelo abundante tarda más.',
+    description: 'El secador más económico de la guía: 1800W, iónico, con difusor y boquilla incluidos. La relación precio-equipamiento es la mejor del catálogo, aunque el rating (4.3) es el más bajo de los cinco y con pelo abundante tarda más.',
     seoTitle: 'Spica SP-1900: el secador de pelo más barato y iónico',
-    metaDescription: 'Spica SP-1900 1800W iónico a $16.599: difusor y boquilla incluidos, más de 2.000 opiniones. Para quién alcanza y para quién se queda corto.',
+    metaDescription: 'Spica SP-1900 1800W iónico: el más barato de la guía, difusor y boquilla incluidos, más de 2.000 opiniones. Para quién alcanza y para quién se queda corto.',
     pros: [
       'El precio más bajo de la guía, con tecnología iónica incluida',
       'Trae difusor y boquilla de serie, no hay que comprarlos aparte',
@@ -46080,14 +46074,14 @@ El patrón en las reseñas es consistente: "potente", "seca rápido", "cumple". 
       'Nivel de ruido bajo según varias reseñas',
     ],
     cons: [
-      'El rating (4.3) es el más bajo de los seis secadores de esta guía',
+      'El rating (4.3) es el más bajo de los cinco secadores de esta guía',
       'Con pelo abundante o muy largo, varias reseñas marcan que tarda más en secar',
       'No es de uso profesional según su propia ficha técnica: pensado para uso doméstico ocasional, no diario intensivo',
     ],
-    verdict: 'Si el presupuesto es lo primero que mirás, el Spica es la puerta de entrada: por menos de la mitad del segundo más barato de la guía, trae iónico, difusor y boquilla. La contra es real: con pelo abundante tarda más y el rating es el más bajo del grupo. Para pelo fino o medio, cumple de sobra.',
+    verdict: 'Si el presupuesto es lo primero que mirás, el Spica es la puerta de entrada: es el más barato de la guía por un margen claro y aun así trae iónico, difusor y boquilla. La contra es real: con pelo abundante tarda más y el rating es el más bajo del grupo. Para pelo fino o medio, cumple de sobra.',
     articleBody: `## El más accesible, con tecnología iónica
 
-El Spica SP-1900 es el secador más barato de esta guía y, aun así, viene con tecnología iónica (algo que ni el Daewoo #1 en ventas ni el Silfab traen). Para quien recién arranca o busca un segundo secador de respaldo, es difícil encontrar mejor relación precio-equipamiento en el mercado argentino.
+El Spica SP-1900 es el secador más barato de esta guía y, aun así, viene con tecnología iónica, difusor y boquilla, un equipamiento que ningún otro modelo de la guía junta al precio más bajo. Para quien recién arranca o busca un segundo secador de respaldo, es difícil encontrar mejor relación precio-equipamiento en el mercado argentino.
 
 ## Cómo rinde en la práctica
 
@@ -46095,11 +46089,11 @@ Las reseñas describen un secador "grande y potente" pero sin ruido molesto, alg
 
 ## Dónde se nota el precio
 
-El rating de 4.3 estrellas es el más bajo de los seis modelos de esta guía (el resto está en 4.5 o más), y la objeción que se repite en las reseñas es la velocidad de secado con pelo abundante o muy largo: no es de uso profesional según su propia ficha técnica, así que no está pensado para secar cabelleras grandes todos los días a máxima exigencia.
+El rating de 4.3 estrellas es el más bajo de los cinco modelos de esta guía (el resto está en 4.5 o más), y la objeción que se repite en las reseñas es la velocidad de secado con pelo abundante o muy largo: no es de uso profesional según su propia ficha técnica, así que no está pensado para secar cabelleras grandes todos los días a máxima exigencia.
 
 ## Para quién conviene
 
-Para pelo fino, medio o corto, y para quien no necesita secar todos los días a alta exigencia, el Spica cumple y sobra por el precio. Si tenés pelo abundante y lo vas a usar a diario, el salto al Daewoo o al Silfab (ambos bastante más potentes en la práctica) se nota.`,
+Para pelo fino, medio o corto, y para quien no necesita secar todos los días a alta exigencia, el Spica cumple y sobra por el precio. Si tenés pelo abundante y lo vas a usar a diario, el salto al Yelmo o al Silfab (ambos bastante más potentes en la práctica) se nota.`,
     specs: [
       { label: 'Marca / Modelo', value: 'Spica / SP-1900' },
       { label: 'Potencia', value: '1800 W' },
@@ -46120,10 +46114,10 @@ Para pelo fino, medio o corto, y para quien no necesita secar todos los días a 
       { rating: 5, country: 'Argentina', date: '2023-08-22', text: 'No esperaba un producto tan bueno a ese precio. Me sorprendió para bien.', useful: 6 },
     ],
     faq: [
-      { question: '¿El Spica SP-1900 es iónico?', answer: 'Sí, según su ficha técnica. Es uno de los tres secadores iónicos de esta guía (junto al Yelmo y el Vanta), y el más barato de los tres.' },
+      { question: '¿El Spica SP-1900 es iónico?', answer: 'Sí, según su ficha técnica. Es uno de los cuatro secadores iónicos de esta guía (junto al Yelmo, el Vanta y el Gama), y por lejos el más barato de los cuatro.' },
       { question: '¿Trae difusor?', answer: 'Sí, viene con difusor amplio para rulos y una boquilla para pelo lacio, ambos incluidos en la caja.' },
       { question: '¿Sirve para pelo abundante o muy largo?', answer: 'Varias reseñas de compradores con pelo abundante marcan que tarda más en secar. No es un secador de uso profesional según su propia ficha técnica. Para pelo fino, medio o corto rinde bien.' },
-      { question: '¿Por qué tiene el rating más bajo de esta guía?', answer: 'Con 4.3 estrellas es el más bajo de los seis modelos comparados (el resto está en 4.5 o más). La objeción más repetida es la velocidad de secado con pelo abundante, no fallas de durabilidad.' },
+      { question: '¿Por qué tiene el rating más bajo de esta guía?', answer: 'Con 4.3 estrellas es el más bajo de los cinco modelos comparados (el resto está en 4.5 o más). La objeción más repetida es la velocidad de secado con pelo abundante, no fallas de durabilidad.' },
     ],
     relatedProducts: ['MLA22138728', 'MLA23558351', 'MLA21813707'],
     structuredData: {
@@ -46160,8 +46154,8 @@ Para pelo fino, medio o corto, y para quien no necesita secar todos los días a 
     title: 'Secador Pelo Silfab Heat Expert By 520 S Seca Rapido 1800w',
     canonicalName: 'Silfab Heat Expert By-520S 1800W',
     brand: 'Silfab',
-    price: 38100,
-    priceUpdated: "2026-08-03",
+    price: 41106,
+    priceUpdated: "2026-08-10",
     priceLastChecked: "2026-08-10",
     priceStatus: "fresh",
     currency: 'ARS',
@@ -46179,18 +46173,18 @@ Para pelo fino, medio o corto, y para quien no necesita secar todos los días a 
     freeShipping: false,
     rating: 4.7,
     reviewCount: 365,
-    reviewsSampledAt: '2026-07-02',
+    reviewsSampledAt: '2026-08-10',
     pastelColor: 'var(--pastel-pink)',
     visibility: 'normal',
     description: 'Un profesional liviano (483 g) de 1800W con filtro removible y función turbo. No es iónico ni cerámico, pero las reseñas coinciden en que seca rápido y sin cansar el brazo en sesiones largas.',
     seoTitle: 'Silfab By-520S 1800W: el más liviano para secar rápido',
-    metaDescription: 'Silfab Heat Expert By-520S: 1800W, 483 g, filtro removible, función turbo. 433 opiniones y 4.7 estrellas. Análisis honesto de specs y reseñas reales.',
+    metaDescription: 'Silfab Heat Expert By-520S: 1800W, 483 g, filtro removible, función turbo. 365 opiniones y 4.7 estrellas. Análisis honesto de specs y reseñas reales.',
     pros: [
       'Muy liviano (483 g), no cansa el brazo en sesiones largas',
       'Función turbo para secar más rápido cuando hace falta',
       'Filtro trasero removible, más fácil de limpiar la pelusa',
       '3 niveles de temperatura, más que el estándar de 2 de esta franja de precio',
-      '4.7 estrellas en 433 opiniones, buen respaldo para su antigüedad en el catálogo',
+      '4.7 estrellas en 365 opiniones, buen respaldo para su antigüedad en el catálogo',
     ],
     cons: [
       'No es iónico ni cerámico según su ficha técnica: si buscás esas tecnologías, mirá el Yelmo o el Vanta',
@@ -46274,8 +46268,8 @@ Con 19 ofertas activas de distintos vendedores es, junto al Yelmo, uno de los mo
     title: 'Secador Pelo Profesional 2200w Tourmaline Ion Yelmo Sc-3630 Color Celeste',
     canonicalName: 'Yelmo SC-3630 2200W Tourmaline Ion',
     brand: 'Yelmo',
-    price: 52128,
-    priceUpdated: "2026-07-27",
+    price: 54999,
+    priceUpdated: "2026-08-10",
     priceLastChecked: "2026-08-10",
     priceStatus: "fresh",
     currency: 'ARS',
@@ -46293,22 +46287,22 @@ Con 19 ofertas activas de distintos vendedores es, junto al Yelmo, uno de los mo
     freeShipping: true,
     rating: 4.8,
     reviewCount: 344,
-    reviewsSampledAt: '2026-07-02',
+    reviewsSampledAt: '2026-08-10',
     pastelColor: 'var(--pastel-pink)',
     visibility: 'normal',
     description: 'Motor AC profesional de 2200W verificado en el sitio del fabricante: tourmaline ion, temperatura constante de 60°C y 4.8 estrellas. La opción más redonda entre profesional, iónico y precio accesible de la guía.',
-    seoTitle: 'Yelmo SC-3630: profesional, iónico y motor AC a $49.999',
-    metaDescription: 'Yelmo SC-3630 2200W: motor AC profesional, tecnología Tourmaline Ion, 4.8 estrellas en 330 opiniones. Specs verificadas en el sitio oficial de Yelmo.',
+    seoTitle: 'Yelmo SC-3630: secador profesional iónico con motor AC',
+    metaDescription: 'Yelmo SC-3630 2200W: motor AC profesional, tecnología Tourmaline Ion, 4.8 estrellas en 344 opiniones. Specs verificadas en el sitio oficial de Yelmo.',
     pros: [
       'Motor AC profesional de 2200W, verificado en el sitio oficial de Yelmo (marca argentina)',
       'Tecnología Tourmaline Ion para reducir frizz y sumar brillo',
       'Temperatura constante de 60°C, no fluctúa como los de resistencia simple',
-      '4.8 estrellas en 330 opiniones, el rating más alto junto al Vanta',
+      '4.8 estrellas en 344 opiniones, de los mejores ratings de la guía',
       '2 boquillas concentradoras incluidas y filtro trasero removible',
     ],
     cons: [
       'A potencia mínima, varias reseñas marcan que "despeina" bastante: el caudal de aire es fuerte incluso en el nivel más bajo',
-      'Con 1.2 kg es el más pesado de esta guía después del premium Gama',
+      'Con 1.2 kg es el más pesado de esta guía, bastante por encima del resto',
       'No incluye difusor para rulos (solo boquillas concentradoras)',
     ],
     verdict: 'Es el que mejor equilibra las tres cosas que más importan: motor profesional real (verificado en la web de Yelmo), tecnología iónica contra el frizz y un precio que no llega a la mitad del premium de esta guía. Si no te importa que sea algo pesado, es la compra más redonda.',
@@ -46326,7 +46320,7 @@ Las reseñas son consistentemente positivas en potencia ("la potencia es buena, 
 
 ## Frente al resto de la guía
 
-Comparado con el [Daewoo](/producto/secador-pelo-daewoo-2100w-frio-calor-con-difusor-dhd7007-negro-mla22138728) (el más vendido pero sin iónico) y el [Gama Brilliant Blue Titanium](/producto/secador-pelo-gama-brilliant-blue-titanium-profesional-2200w-color-azul-mla24435487) (premium con motor DC), el Yelmo ocupa el punto medio: motor profesional real, iónico, a la mitad del precio del premium.`,
+Comparado con el [Spica](/producto/secador-pelo-cabello-spica-sp-1900-2-velocidades-color-verde-claro-mla22934394) (el más barato, iónico pero sin motor profesional) y el [Gama Brilliant Blue Titanium](/producto/secador-pelo-gama-brilliant-blue-titanium-profesional-2200w-color-azul-mla24435487) (premium con motor DC), el Yelmo ocupa el punto medio: motor profesional real, iónico, a menos de la mitad del precio del premium.`,
     specs: [
       { label: 'Marca / Modelo', value: 'Yelmo / SC-3630' },
       { label: 'Potencia', value: '2200 W' },
@@ -46351,8 +46345,8 @@ Comparado con el [Daewoo](/producto/secador-pelo-daewoo-2100w-frio-calor-con-dif
     faq: [
       { question: '¿El Yelmo SC-3630 tiene motor AC o DC?', answer: 'Motor AC profesional, confirmado en el sitio oficial de Yelmo (yelmo.com.ar). Es el tipo de motor que usan tradicionalmente los secadores de peluquería para uso intensivo.' },
       { question: '¿Qué hace la tecnología Tourmaline Ion?', answer: 'Libera iones negativos que ayudan a sellar la cutícula del pelo más rápido, reduciendo el frizz y sumando brillo. El efecto se nota más en pelo grueso o rizado que en pelo lacio y fino.' },
-      { question: '¿Es muy pesado?', answer: 'Pesa 1.2 kg, más que el Daewoo, Spica, Silfab o Vanta de esta guía, aunque menos exigente que otros secadores profesionales de peluquería. Si el peso es un factor decisivo, mirá el Silfab (483g) o el Vanta (400g).' },
-      { question: '¿Trae difusor para rulos?', answer: 'No, incluye 2 boquillas concentradoras pero no difusor. Si necesitás difusor, el Daewoo o el Spica de esta guía sí lo traen.' },
+      { question: '¿Es muy pesado?', answer: 'Pesa 1.2 kg, más que el Spica, el Silfab o el Vanta de esta guía, aunque menos exigente que otros secadores profesionales de peluquería. Si el peso es un factor decisivo, mirá el Silfab (483g) o el Vanta (400g).' },
+      { question: '¿Trae difusor para rulos?', answer: 'No, incluye 2 boquillas concentradoras pero no difusor. Si necesitás difusor, el Spica de esta guía sí lo trae.' },
       { question: '¿Por qué "despeina" según algunas reseñas?', answer: 'El caudal de aire es fuerte incluso en la velocidad mínima, algo que varios compradores marcan como contra si buscás un secado suave para peinados delicados.' },
     ],
     relatedProducts: ['MLA22138728', 'MLA24435487', 'MLA7477377'],
@@ -46391,8 +46385,8 @@ Comparado con el [Daewoo](/producto/secador-pelo-daewoo-2100w-frio-calor-con-dif
     title: 'Vanta 3800 Mini Compact Secador Pelo Profesional 1800w Rojo Color Negro',
     canonicalName: 'Vanta 3800 Mini Compact 1800W',
     brand: 'Vanta',
-    price: 70005,
-    priceUpdated: "2026-08-05",
+    price: 98000,
+    priceUpdated: "2026-08-10",
     priceLastChecked: "2026-08-10",
     priceStatus: "fresh",
     currency: 'ARS',
@@ -46411,32 +46405,32 @@ Comparado con el [Daewoo](/producto/secador-pelo-daewoo-2100w-frio-calor-con-dif
     freeShipping: true,
     rating: 4.9,
     reviewCount: 981,
-    reviewsSampledAt: '2026-07-02',
+    reviewsSampledAt: '2026-08-10',
     pastelColor: 'var(--pastel-pink)',
     visibility: 'normal',
-    description: 'Motor AC (según su propia ficha técnica), iónico y cerámico en formato mini compacto de solo 400g. El favorito de peluqueras y estilistas que buscan potencia sin cargar peso, con 4.8 estrellas en casi 950 opiniones.',
+    description: 'Motor AC (según su propia ficha técnica), iónico y cerámico en formato mini compacto de solo 400g. El favorito de peluqueras y estilistas que buscan potencia sin cargar peso, con 4.9 estrellas en 981 opiniones.',
     seoTitle: 'Vanta 3800 Mini Compact: potente, iónico y de 400 gramos',
-    metaDescription: 'Vanta 3800 Mini Compact 1800W: motor AC, iónico, cerámico, solo 400g. 4.8 estrellas en 948 opiniones. La opción compacta y potente de la guía.',
+    metaDescription: 'Vanta 3800 Mini Compact 1800W: motor AC, iónico, cerámico, solo 400g. 4.9 estrellas en 981 opiniones. La opción compacta y potente de la guía.',
     pros: [
-      'Solo 400 gramos: el más liviano de toda la guía, ideal para uso profesional prolongado',
+      'Solo 400 gramos: empata con el Spica como el más liviano de la guía, ideal para uso profesional prolongado',
       'Motor AC según ficha técnica, iónico y cerámico a la vez (combinación poco común en este rango)',
-      '4.8 estrellas en 948 opiniones, elegido por peluqueras y estilistas según las reseñas',
+      '4.9 estrellas en 981 opiniones, el mejor puntaje de la guía, elegido por peluqueras y estilistas',
       'Cable de 2.5 m, el más largo de la guía',
       '13 ofertas activas de distintos vendedores, buena competencia de precio',
     ],
     cons: [
       'En la función máxima, el aire sale muy caliente en relación al caudal, según una reseña detallada',
-      'A $71.000 es el segundo más caro de la guía, sin llegar a las prestaciones del premium Gama',
+      'A {{precio:MLA7477377}} es el segundo más caro de la guía, sin llegar a las prestaciones del premium Gama',
       'No incluye difusor para rulos (solo 2 boquillas de conducción)',
     ],
     verdict: 'Si valorás el peso por sobre todo (uso prolongado, brazo cansado, uso semi-profesional) y no querés resignar potencia ni iónico, el Vanta es la mejor combinación de la guía. Cuesta más que el Yelmo sin ser tan completo en accesorios, así que el peso tiene que ser tu prioridad real.',
     articleBody: `## El más liviano, pensado para uso intensivo
 
-Con apenas 400 gramos, el Vanta es notablemente más liviano que el resto de la guía, incluido el Silfab (483g). Varias reseñas mencionan explícitamente que lo usan peluqueras y estilistas, un contexto donde sostener el secador en alto durante horas hace que cada gramo cuente.
+Con apenas 400 gramos, el Vanta empata con el Spica como el más liviano de la guía y queda por debajo del Silfab (483g). Varias reseñas mencionan explícitamente que lo usan peluqueras y estilistas, un contexto donde sostener el secador en alto durante horas hace que cada gramo cuente.
 
 ## Motor AC, iónico y cerámico juntos
 
-Según su ficha técnica es de motor AC, con recubrimiento cerámico y tecnología iónica al mismo tiempo, una combinación que no se repite en ningún otro modelo de esta guía. En la práctica, varios compradores lo comparan favorablemente contra marcas premium reconocidas, incluso después de haber probado otras opciones "muy buenas" que no rindieron igual.
+Según su ficha técnica es de motor AC, con recubrimiento cerámico y tecnología iónica al mismo tiempo, una combinación poco común en esta franja de precio, que dentro de la guía solo comparte con el Yelmo. En la práctica, varios compradores lo comparan favorablemente contra marcas premium reconocidas, incluso después de haber probado otras opciones "muy buenas" que no rindieron igual.
 
 ## La contra que marcan las reseñas
 
@@ -46444,7 +46438,7 @@ Una reseña detallada (con 13 "útiles" de otros compradores) señala que en la 
 
 ## Precio y competencia
 
-A $71.000 es el segundo más caro de la seis, por debajo del premium Gama Brilliant Blue Titanium mostrado más abajo. Con 13 ofertas activas de distintos vendedores, es de los que más margen de comparación de precio tiene dentro del catálogo.`,
+A {{precio:MLA7477377}} es el segundo más caro de los cinco, por debajo del premium Gama Brilliant Blue Titanium mostrado más abajo. Con 13 ofertas activas de distintos vendedores, es de los que más margen de comparación de precio tiene dentro del catálogo.`,
     specs: [
       { label: 'Marca / Modelo', value: 'Vanta / 3800 Mini Compact' },
       { label: 'Potencia', value: '1800 W' },
@@ -46466,10 +46460,10 @@ A $71.000 es el segundo más caro de la seis, por debajo del premium Gama Brilli
       { rating: 5, country: 'Argentina', date: '2024-08-10', text: 'Muy liviano y potente, excelente producto.', useful: 4 },
     ],
     faq: [
-      { question: '¿Cuánto pesa el Vanta 3800 Mini Compact?', answer: 'Solo 400 gramos según el fabricante, el más liviano de esta guía de seis secadores. Por eso es una opción popular entre peluqueras y estilistas que lo sostienen en alto durante horas.' },
+      { question: '¿Cuánto pesa el Vanta 3800 Mini Compact?', answer: 'Solo 400 gramos según el fabricante: empata con el Spica como el más liviano de esta guía de cinco secadores. Por eso es una opción popular entre peluqueras y estilistas que lo sostienen en alto durante horas.' },
       { question: '¿Es iónico y cerámico a la vez?', answer: 'Sí, según su ficha técnica combina ambas tecnologías, algo poco común en esta franja de precio dentro del catálogo.' },
       { question: '¿Qué tan caliente sale el aire en la función máxima?', answer: 'Una reseña detallada (con varios "útiles" de otros compradores) marca que en la función máxima el aire sale muy caliente en relación al caudal. Si tenés cuero cabelludo sensible, probablemente no necesites usar siempre la potencia máxima.' },
-      { question: '¿Trae difusor?', answer: 'No, incluye 2 boquillas de conducción pero no difusor para rulos. Si necesitás difusor, mirá el Daewoo o el Spica de esta guía.' },
+      { question: '¿Trae difusor?', answer: 'No, incluye 2 boquillas de conducción pero no difusor para rulos. Si necesitás difusor, el Spica de esta guía es el único que lo incluye.' },
     ],
     relatedProducts: ['MLA21813707', 'MLA24435487', 'MLA22138728'],
     structuredData: {
@@ -46506,7 +46500,7 @@ A $71.000 es el segundo más caro de la seis, por debajo del premium Gama Brilli
     title: 'Secador Pelo Gama Brilliant Blue Titanium Profesional 2200w Color Azul',
     canonicalName: 'GA.MA Italy Brilliant Blue Titanio 2200W (motor DC)',
     brand: 'GA.MA Italy',
-    price: 99560,
+    price: 119990,
     priceUpdated: "2026-08-10",
     priceLastChecked: "2026-08-10",
     priceStatus: "fresh",
@@ -46525,7 +46519,7 @@ A $71.000 es el segundo más caro de la seis, por debajo del premium Gama Brilli
     freeShipping: true,
     rating: 4.5,
     reviewCount: 103,
-    reviewsSampledAt: '2026-07-02',
+    reviewsSampledAt: '2026-08-10',
     pastelColor: 'var(--pastel-pink)',
     visibility: 'normal',
     description: 'El premium de la guía: motor DC (verificado en el sitio oficial de GA.MA Italy), recubrimiento de titanio con tecnología iónica y nano silver. Es lo que en Argentina se consigue de la tecnología que las revistas internacionales asocian a los secadores de alta gama, a una fracción del precio de un Dyson.',
@@ -46539,8 +46533,8 @@ A $71.000 es el segundo más caro de la seis, por debajo del premium Gama Brilli
       'Marca italiana con desarrollo propio en secadores profesionales, no un genérico reetiquetado',
     ],
     cons: [
-      'Es el más caro de la guía, casi el triple que el Yelmo (motor AC) sin ofrecer el doble de resultado',
-      'Solo 100 calificaciones: la base de opiniones más chica de los seis modelos comparados',
+      'Es el más caro de la guía, más del doble que el Yelmo (motor AC) sin ofrecer el doble de resultado',
+      'Solo 103 calificaciones: la base de opiniones más chica de los cinco modelos comparados',
       'Una reseña marca que el cable es corto y la potencia "media" pese al precio; otra menciona una falla en un botón',
       'No trae difusor, solo una boquilla',
     ],
@@ -46555,11 +46549,11 @@ El recubrimiento de titanio con tecnología ion apunta directo al frizz y a pein
 
 ## Lo que dicen los que lo compraron
 
-Con solo 100 calificaciones, es la base de opiniones más chica de los seis modelos de esta guía, algo esperable en un producto premium con menos volumen de venta que las opciones económicas. Las reseñas disponibles son mayormente positivas ("super liviano, buen diseño, seca perfecto"), aunque hay alguna voz distinta: una reseña marca cable corto y potencia "media" pese al precio, y otra menciona una falla en un botón poco después de la compra. Con una base de 100 opiniones, cada reseña pesa proporcionalmente más que en un producto con miles.
+Con solo 103 calificaciones, es la base de opiniones más chica de los cinco modelos de esta guía, algo esperable en un producto premium con menos volumen de venta que las opciones económicas. Las reseñas disponibles son mayormente positivas ("super liviano, buen diseño, seca perfecto"), aunque hay alguna voz distinta: una reseña marca cable corto y potencia "media" pese al precio, y otra menciona una falla en un botón poco después de la compra. Con una base de 103 opiniones, cada reseña pesa proporcionalmente más que en un producto con miles.
 
 ## ¿Vale la diferencia de precio?
 
-Frente al [Yelmo SC-3630](/producto/secador-pelo-profesional-2200w-tourmaline-ion-yelmo-sc-3630-color-celeste-mla21813707) (motor AC, iónico, a $49.999), el Gama cuesta prácticamente el doble. Si tu criterio de compra es "quiero motor DC real, verificado, aunque cueste el doble", esta es la única opción de la guía que lo cumple. Si tu criterio es "quiero buen resultado sin pagar de más", el Yelmo sigue siendo la recomendación más razonable.`,
+Frente al [Yelmo SC-3630](/producto/secador-pelo-profesional-2200w-tourmaline-ion-yelmo-sc-3630-color-celeste-mla21813707) (motor AC, iónico, a {{precio:MLA21813707}}), el Gama cuesta más del doble. Si tu criterio de compra es "quiero motor DC real, verificado, aunque cueste el doble", esta es la única opción de la guía que lo cumple. Si tu criterio es "quiero buen resultado sin pagar de más", el Yelmo sigue siendo la recomendación más razonable.`,
     specs: [
       { label: 'Marca / Modelo', value: 'GA.MA Italy / Brilliant Blue Titanio' },
       { label: 'Potencia', value: '2200 W (verificado en gamaitalyonline.com.ar)' },
@@ -46581,9 +46575,9 @@ Frente al [Yelmo SC-3630](/producto/secador-pelo-profesional-2200w-tourmaline-io
     ],
     faq: [
       { question: '¿El GA.MA Italy Brilliant Blue Titanium tiene motor DC o AC?', answer: 'Motor DC, confirmado en el sitio oficial de GA.MA Italy (gamaitalyonline.com.ar), que lo lista bajo su categoría "Secadores Motor DC". Es la tecnología asociada a los secadores de gama alta.' },
-      { question: '¿Por qué es tan caro comparado con el resto de la guía?', answer: 'El motor DC, el recubrimiento de titanio ion y la marca italiana con desarrollo propio explican el salto de precio. Es, de los seis modelos de esta guía, el único con motor DC verificado.' },
+      { question: '¿Por qué es tan caro comparado con el resto de la guía?', answer: 'El motor DC, el recubrimiento de titanio ion y la marca italiana con desarrollo propio explican el salto de precio. Es, de los cinco modelos de esta guía, el único con motor DC verificado.' },
       { question: '¿Vale la pena frente al Yelmo (motor AC)?', answer: 'Si tu prioridad es tener motor DC real y no te importa pagar el doble, sí. Si buscás el mejor resultado por el precio, el Yelmo SC-3630 cubre gran parte del resultado a la mitad del costo.' },
-      { question: '¿Trae difusor?', answer: 'No, incluye una boquilla concentradora. Si necesitás difusor para rulos, mirá el Daewoo o el Spica de esta guía.' },
+      { question: '¿Trae difusor?', answer: 'No, incluye una boquilla concentradora. Si necesitás difusor para rulos, el Spica de esta guía es el único que lo incluye.' },
       { question: '¿Qué es la tecnología nano silver?', answer: 'Según el fabricante, es un recubrimiento con propiedades antibacterianas. Es un claim de marca que no puede verificarse de forma independiente, pero es consistente con lo que promocionan otras líneas de secadores de gama alta con la misma tecnología.' },
     ],
     relatedProducts: ['MLA21813707', 'MLA7477377', 'MLA22138728'],
@@ -53557,7 +53551,7 @@ Comprala si querés entrar a la gama profesional gastando lo mínimo, o como seg
     id: "MLA17380375",
     title: "Ventilador De Techo Liliana Vthi513 Blanco Con 3 Palas Metal Diámetro 1.4 m",
     canonicalName: "Ventilador de Techo Liliana VTHI513 (3 palas metal, con luz)",
-    price: 105990,
+    price: 219429,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_630094-MLA96155780335_102025-O.webp",
     images: [
@@ -53590,13 +53584,13 @@ Comprala si querés entrar a la gama profesional gastando lo mínimo, o como seg
     priceUpdated: "2026-08-10",
     priceLastChecked: "2026-08-10",
     priceStatus: "fresh",
-    reviewsSampledAt: "2026-07-06",
+    reviewsSampledAt: '2026-08-10',
     description: "Ventilador de techo Liliana VTHI513: el clásico argentino de 3 palas metálicas con luz, 1,4 m de diámetro (el más grande de la guía) y más de 2.000 calificaciones. Contra honesta repetida en reseñas: el soporte de techo incluido es malo, conviene comprar uno aparte.",
     seoTitle: "Ventilador de Techo Liliana: el clásico, ¿conviene?",
     metaDescription: "Ventilador de techo Liliana VTHI513: 3 palas de metal, luz, 1,4 m de diámetro y más de 2.000 calificaciones. Precio real, pros y contras.",
-    verdict: "El Liliana VTHI513 sirve si querés el ventilador de techo de siempre: palas metálicas, mucho caudal de aire (funciona bien incluso con techos de 5 metros, reporta una reseña), luz incluida y marca nacional con service, al menor precio de nuestra guía. No sirve si esperás silencio absoluto o un soporte de techo decente: las reseñas coinciden en comprar el soporte aparte (sale unos pocos miles de pesos) y en que se escucha el viento.",
+    verdict: "El Liliana VTHI513 sirve si querés el ventilador de techo de siempre: palas metálicas, mucho caudal de aire (funciona bien incluso con techos de 5 metros, reporta una reseña), luz incluida y marca nacional con service, y el mayor diámetro de nuestra guía (1,4 m). No es la opción económica: hoy es el más caro de la guía, subió fuerte y se compra por el caudal, no por el precio. No sirve si esperás silencio absoluto o un soporte de techo decente: las reseñas coinciden en comprar el soporte aparte (sale unos pocos miles de pesos) y en que se escucha el viento.",
     pros: [
-      "El precio más bajo de nuestra guía de ventiladores de techo, con marca nacional",
+      "Palas metálicas y marca nacional con service y repuestos en el país",
       "Palas metálicas de 1,4 m de diámetro: gran caudal de aire, probado en techos altos según reseñas",
       "Luz incluida con interruptor independiente",
       "Más de 2.000 calificaciones: el clásico más probado del catálogo",
@@ -53609,7 +53603,7 @@ Comprala si querés entrar a la gama profesional gastando lo mínimo, o como seg
     ],
     articleBody: `## Qué es y para quién
 
-El Liliana VTHI513 es el ventilador de techo argentino de toda la vida: 3 palas de metal, 1,4 metros de diámetro (el más grande de nuestra guía), luz con interruptor y llave de pared. Sin control remoto ni luces de colores: caudal de aire puro al menor precio.
+El Liliana VTHI513 es el ventilador de techo argentino de toda la vida: 3 palas de metal, 1,4 metros de diámetro (el más grande de nuestra guía), luz con interruptor y llave de pared. Hoy es el más caro de nuestra guía, así que se compra por el diámetro, no por el precio. Sin control remoto ni luces de colores: caudal de aire puro, aunque hoy al precio más alto de la guía.
 
 ## Lo bueno
 
@@ -53621,7 +53615,7 @@ La más repetida y la más útil: el soporte de techo que viene en la caja es ma
 
 ## Para quién sí y para quién no
 
-Compralo si querés el máximo caudal de aire por la menor plata y no te molesta el formato clásico con llave de pared. No lo compres si buscás silencio para dormir o estética moderna: ahí los retráctiles con motor DC de nuestra guía juegan otro partido.`,
+Compralo si priorizás el máximo caudal de aire y aceptás pagar más y no te molesta el formato clásico con llave de pared. No lo compres si buscás silencio para dormir o estética moderna: ahí los retráctiles con motor DC de nuestra guía juegan otro partido.`,
     faq: [
       { question: "¿El ventilador Liliana viene con luz?", answer: "Sí, trae 1 lámpara con interruptor independiente. Una advertencia de reseña: el repuesto de esa luz no es fácil de conseguir; un comprador le instaló directamente otra que ya tenía." },
       { question: "¿Es verdad que hay que cambiar el soporte?", answer: "Es la recomendación más repetida en las reseñas: el soporte incluido es de mala calidad y uno aparte sale unos pocos miles de pesos. El ventilador en sí funciona muy bien." },
@@ -53633,7 +53627,7 @@ Compralo si querés el máximo caudal de aire por la menor plata y no te molesta
     id: "MLA11828901",
     title: "Ventilador Techo Axel Blanco 1 Luz 4 Palas Metal 5 Vel Diámetro 120 cm Frecuencia 50",
     canonicalName: "Ventilador de Techo Axel AX-VT4PL (4 palas, con luz)",
-    price: 119999,
+    price: 178044,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_758507-MLA95710204038_102025-O.webp",
     images: [
@@ -53646,7 +53640,7 @@ Compralo si querés el máximo caudal de aire por la menor plata y no te molesta
     condition: "new",
     freeShipping: true,
     rating: 4.7,
-    reviewCount: 939,
+    reviewCount: 816,
     ratingBreakdown: { five: "81.06%", four: "13.74%", three: "3.35%", two: "0.76%", one: "1.08%" },
     pastelColor: "var(--pastel-blue)",
     visibility: "normal",
@@ -53663,18 +53657,18 @@ Compralo si querés el máximo caudal de aire por la menor plata y no te molesta
       { label: "Voltaje", value: "220 V" },
     ],
     relatedProducts: ["MLA17380375", "MLA44033885", "MLA57107638"],
-    priceUpdated: "2026-08-03",
+    priceUpdated: "2026-08-10",
     priceLastChecked: "2026-08-10",
     priceStatus: "fresh",
-    reviewsSampledAt: "2026-07-06",
-    description: "Ventilador de techo Axel de 4 palas metálicas con luz y 5 velocidades: el clásico silencioso en velocidades bajas, con casi 1.000 calificaciones. Dato útil de una reseña: la luz necesita un cable extra (3 cables en total, no 2) desde la llave de pared.",
+    reviewsSampledAt: '2026-08-10',
+    description: "Ventilador de techo Axel de 4 palas metálicas con luz y 5 velocidades: el clásico silencioso en velocidades bajas, con 816 calificaciones. Dato útil de una reseña: la luz necesita un cable extra (3 cables en total, no 2) desde la llave de pared.",
     seoTitle: "Ventilador de Techo Axel 4 Palas: ¿vale la pena?",
-    metaDescription: "Ventilador de techo Axel AX-VT4PL: 4 palas de metal, luz, 5 velocidades y casi 1.000 calificaciones. Precio real, pros, contras y veredicto.",
+    metaDescription: "Ventilador de techo Axel AX-VT4PL: 4 palas de metal, luz, 5 velocidades y 816 calificaciones. Precio real, pros, contras y veredicto.",
     verdict: "El Axel de 4 palas sirve si querés un clásico con un escalón más de refinamiento que el Liliana: 4 palas, 5 velocidades para regular fino y reseñas que lo describen silencioso en velocidades bajas (\"un verdadero golazo, lo uso en velocidad 1-2 y es más que suficiente\"). No sirve si tu instalación eléctrica tiene solo 2 cables hasta el techo y no querés obra: la luz necesita un cable propio, avisa una reseña detallada.",
     pros: [
       "4 palas metálicas y 5 velocidades: más regulación fina que los clásicos de 3 velocidades",
       "Silencioso en velocidades bajas, según reseñas (\"lo uso en velocidad 1-2 y es más que suficiente\")",
-      "Casi 1.000 calificaciones con 4.7",
+      "816 calificaciones con 4.7",
       "Luz incluida con interruptor independiente",
     ],
     cons: [
@@ -53688,7 +53682,7 @@ El Axel AX-VT4PL es un ventilador de techo clásico con mejoras puntuales: 4 pal
 
 ## Lo bueno
 
-Las 5 velocidades cambian el uso diario: las reseñas cuentan que en velocidad 1 o 2 alcanza para una habitación y el equipo trabaja casi en silencio ("un verdadero golazo, buen caudal de aire, silencioso"). Varias reseñas lo instalaron por su cuenta sin drama, y una de ellas dejó el dato que vale oro para cualquiera que compre un ventilador de techo con luz (ver abajo). Casi 1.000 calificaciones con 4.7 lo respaldan.
+Las 5 velocidades cambian el uso diario: las reseñas cuentan que en velocidad 1 o 2 alcanza para una habitación y el equipo trabaja casi en silencio ("un verdadero golazo, buen caudal de aire, silencioso"). Varias reseñas lo instalaron por su cuenta sin drama, y una de ellas dejó el dato que vale oro para cualquiera que compre un ventilador de techo con luz (ver abajo). 816 calificaciones con 4.7 lo respaldan.
 
 ## La contra real
 
@@ -53701,14 +53695,14 @@ Compralo si querés un clásico serio para dormitorio o living, con regulación 
       { question: "¿Qué necesito para instalar el Axel con luz independiente?", answer: "Tres cables entre la llave de pared y el ventilador (fase para el motor, fase para la luz y neutro), no los 2 habituales. Es el dato clave de una reseña de instalación: si tu pared tiene solo 2 cables, la luz y el motor van a prender juntos, o necesitás pasar un cable más." },
       { question: "¿Es silencioso?", answer: "En velocidades bajas sí, según las reseñas: en velocidad 1-2 alcanza para una habitación y casi no se escucha. A velocidad máxima, como todo clásico de palas metálicas, se hace notar." },
       { question: "¿Se puede instalar sin un electricista?", answer: "Varias reseñas lo instalaron por su cuenta \"con un poquito de maña\". Si no estás cómodo con electricidad, un instalador lo resuelve rápido; el punto de atención es el tercer cable para la luz." },
-      { question: "¿Qué diferencia tiene con el Liliana?", answer: "El Axel tiene 4 palas y 5 velocidades (regulación más fina, más silencioso en bajas); el Liliana tiene mayor diámetro (1,4 m contra 1,2 m) y precio menor. Para dormitorio, el Axel; para mover el máximo aire en ambientes grandes, el Liliana." },
+      { question: "¿Qué diferencia tiene con el Liliana?", answer: "El Axel tiene 4 palas y 5 velocidades (regulación más fina, más silencioso en bajas); el Liliana tiene mayor diámetro (1,4 m contra 1,2 m), aunque hoy cuesta más que el Axel. Para dormitorio, el Axel; para mover el máximo aire en ambientes grandes, el Liliana." },
     ],
   },
   {
     id: "MLA57107638",
     title: "Ventilador De Techo Kent K3001 Industrial 1.2m Negro 3 Aspas Metal",
     canonicalName: "Ventilador de Techo Industrial Kent K3001",
-    price: 112895,
+    price: 119999,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_616295-MLA96099188159_102025-O.webp",
     images: [
@@ -53740,14 +53734,14 @@ Compralo si querés un clásico serio para dormitorio o living, con regulación 
       { label: "Voltaje", value: "220 V" },
     ],
     relatedProducts: ["MLA17380375", "MLA11828901", "MLA43536904"],
-    priceUpdated: "2026-08-03",
+    priceUpdated: "2026-08-10",
     priceLastChecked: "2026-08-10",
     priceStatus: "fresh",
-    reviewsSampledAt: "2026-07-06",
+    reviewsSampledAt: '2026-08-10',
     description: "Ventilador de techo industrial Kent K3001: aspas metálicas negras, certificación eléctrica argentina (IQC) y 4.9 sin ninguna calificación de 1 o 2 estrellas. Para galpones, quinchos y ambientes abiertos. Contra de reseña: no incluye el soporte para colgar.",
     seoTitle: "Ventilador Industrial Kent K3001: ¿el del quincho?",
     metaDescription: "Ventilador de techo industrial Kent K3001: aspas de metal, certificación IQC y 4.9 de calificación. Para galpón, quincho o taller. Pros y contras.",
-    verdict: "El Kent K3001 sirve si el destino es un quincho, galpón, taller o ambiente abierto: es el formato industrial (potencia y aspas de metal, sin luz ni adornos), con certificación eléctrica argentina y 4.9 sin ninguna calificación por debajo de 3 estrellas. No sirve si esperás que venga listo para colgar: una reseña avisa que el soporte se compra aparte, y su base de opiniones (52) es chica.",
+    verdict: "El Kent K3001 sirve si el destino es un quincho, galpón, taller o ambiente abierto: es el formato industrial (potencia y aspas de metal, sin luz ni adornos), con certificación eléctrica argentina y 4.9 sin ninguna calificación por debajo de 3 estrellas. No sirve si esperás que venga listo para colgar: una reseña avisa que el soporte se compra aparte, y su base de opiniones (55) es chica.",
     pros: [
       "Formato industrial: mueve aire en serio en ambientes abiertos, quinchos y galpones",
       "Certificación de seguridad eléctrica argentina (IQC S.A.), poco común en esta categoría",
@@ -53758,7 +53752,7 @@ Compralo si querés un clásico serio para dormitorio o living, con regulación 
     cons: [
       "No incluye el soporte para colgar: hay que comprarlo aparte, avisa una reseña",
       "Sin luz: es ventilación pura",
-      "Base de calificaciones chica (52), aunque impecable",
+      "Base de calificaciones chica (55), aunque impecable",
       "Sin control remoto (llave de pared)",
     ],
     articleBody: `## Qué es y para quién
@@ -53771,7 +53765,7 @@ Hace una cosa y la hace bien: caudal. Una reseña lo usa en un ambiente abierto 
 
 ## La contra real
 
-No viene con el soporte para colgar: el mismo comprador de la reseña tuvo que comprarlo aparte. Es un detalle menor en precio pero molesto si no lo sabés antes de la instalación. Su base de 52 calificaciones es chica comparada con los clásicos hogareños (aunque perfecta en calidad), y al ser ventilación pura, no esperes luz ni control remoto.
+No viene con el soporte para colgar: el mismo comprador de la reseña tuvo que comprarlo aparte. Es un detalle menor en precio pero molesto si no lo sabés antes de la instalación. Su base de 55 calificaciones es chica comparada con los clásicos hogareños (aunque perfecta en calidad), y al ser ventilación pura, no esperes luz ni control remoto.
 
 ## Para quién sí y para quién no
 
