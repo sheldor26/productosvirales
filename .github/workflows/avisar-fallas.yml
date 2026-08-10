@@ -30,6 +30,7 @@ on:
       - "Descubrir productos (Amazon + ML)"
       - "Scraper puntual Bright Data (URLs a mano)"
       - "Avisar a IndexNow (Bing/Yandex)"
+      - "Chequear que el catalogo siga fresco"
     types: [completed]
 
 permissions:
@@ -52,6 +53,10 @@ jobs:
           REPO: ${{ github.repository }}
         run: |
           titulo="Falló el workflow: $NOMBRE"
+
+          # El label tiene que existir antes de usarlo o `gh issue create` falla.
+          gh label create "workflow-roto" --repo "$REPO" \
+            --color "D93F0B" --description "Un workflow programado fallo" 2>/dev/null || true
 
           # ¿Ya hay un issue abierto por esta misma falla?
           existente=$(gh issue list \
@@ -78,7 +83,9 @@ jobs:
              haya cambiado el formato del dataset otra vez. Ya paso el
              2026-08-07 (array JSON a NDJSON) y rompio el \`JSON.parse\`.
           3. Mientras este roto, el catalogo se congela: los precios de las
-             guias quedan viejos sin que nada lo indique.
+             guias quedan viejos sin que nada lo indique. El workflow
+             \`check-catalogo-fresco\` detecta ese congelamiento por su cuenta:
+             si tambien abrio un issue, este es la causa y aquel la consecuencia.
 
           Cerrar este issue cuando la siguiente corrida salga verde.
           TXT
