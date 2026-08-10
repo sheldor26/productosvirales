@@ -1201,3 +1201,38 @@ Los **conteos de reseñas hardcodeados** están viejos en todo el sitio: "7.245"
 Cuatro pasadas de Codex: **NO-GO → 8/10 → 9/10 → 9.4/10 → 9.6/10**. El 0,4 que falta para el 10 es exactamente la deuda de conteos que él mismo acordó dejar afuera.
 
 **Lección de método, la más cara de la sesión:** en una pasada se le afirmó a Codex que las filas de la tabla correspondían con las secciones "en orden". Era falso: coincidían como conjunto pero desordenadas. **Codex devolvió esa frase como verificada.** Un auditor confirma lo que se le afirma si suena razonable. Las premisas del prompt hay que chequearlas con la misma dureza que las conclusiones que devuelve. Se corrigió a mano y se verificó comparando tabla contra H3 en el HTML renderizado, no en el fuente.
+
+---
+
+## 2026-08-10 — `cocina/microondas`: seoTitle hacia la intención de marca
+
+Última pendiente del checklist del reporte semanal del 2026-08-10 (oportunidad 5). Las otras cuatro se aplicaron el mismo día; esta se había salteado.
+
+**Baseline GSC (snapshot #35, 2026-07-12 a 2026-08-08), la línea contra la que hay que medir:**
+
+| Métrica | Valor |
+|---|---|
+| Impresiones de la URL | 2.653 |
+| Clicks | 59 |
+| Posición media | 5,2 |
+| Clicks de afiliado (GA4, 28 días) | 21 |
+
+Queries que motivaron el cambio, todas con la posición ganada y sin clicks:
+
+- `cual es el mejor microondas en argentina` — 126 impr, **pos 3,8**, 0 clicks
+- `microondas` — 135 impr, pos 4,1, 0 clicks
+- Cluster de marca, 152 impresiones y **1 solo click** entre seis queries: `mejores marcas de microondas en argentina` (37, pos 5,7) · `cual es la mejor marca de microondas en argentina` (31, pos 4,0) · `que marca de microondas es mejor` (23) · `cual es la mejor marca de microondas` (21) · `mejor marca de microondas` (20) · `que marca de microondas es mejor en argentina` (20)
+
+**Qué se cambió:**
+
+- `seoTitle`: `Microondas: Cuál Comprar en Argentina | Mejores 2026` → `¿Cuál es el Mejor Microondas en Argentina? Marcas [2026]`
+- `metaDescription`: reescrita para abrir con "Qué marca de microondas conviene", que es la intención real del cluster que no convierte.
+- `updatedDate` y `sitemapLastmod` a 2026-08-10.
+
+**Qué NO se tocó, y por qué:** `h1`, `title` y `slug` quedaron igual. La keyword genérica está en posición 4,1, dentro del rango donde la regla de freeze dice no tocar. La excepción que justifica mover el `seoTitle` igual: esas posiciones top-5 hoy rinden **cero clicks**, así que no hay tráfico ganado que arriesgar — el riesgo real de tocar es bajo y el techo de mejora es todo.
+
+**Sobre `updatedDate`:** el reporte marcó que los tres títulos del 8/8 se cambiaron sin tocarlo, y que por eso la fecha real había que sacarla de git. Acá se actualizó a propósito para que la ventana de medición sea limpia.
+
+**Medición:** el cambio es del 2026-08-10, así que **no se puede juzgar antes del 2026-09-07** (28 días de ventana GSC). Comparar contra el baseline de arriba, no contra el promedio del sitio. La señal a mirar no es la posición, que ya es buena: es si el CTR de las queries de marca despega de ~0,7%.
+
+**Sin canibalización:** el silo tiene cuatro guías de marca (`Microondas BGH`, `Microondas Atma`, `Microondas Samsung`, `Microondas LG`) que apuntan a la marca concreta. El pilar ahora se queda con el genérico "cuál es la mejor marca", que es justo lo que ninguna de las cuatro puede reclamar.
