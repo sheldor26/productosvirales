@@ -40,6 +40,32 @@ const MIN_RATIO = 0.5;
 const MAX_RATIO = 2;
 const REVIEW_COUNT_MIN_RATIO = 0.5; // igual criterio que precios: una caida a menos de la mitad es sospechosa, no una baja real
 
+/**
+ * Lee un dataset de Bright Data, que puede venir como array JSON o como NDJSON
+ * (un objeto por linea). Bright Data cambia el formato sin avisar: el
+ * 2026-08-07 paso de array a NDJSON y rompio el workflow de precios en
+ * silencio, que quedo 3 dias sin correr mientras el catalogo envejecia.
+ */
+function leerDataset(p) {
+  const txt = fs.readFileSync(p, "utf8").trim();
+  if (!txt) return [];
+  try {
+    const j = JSON.parse(txt);
+    return Array.isArray(j) ? j : [j];
+  } catch {
+    return txt
+      .split("\n")
+      .filter(Boolean)
+      .map((linea, i) => {
+        try {
+          return JSON.parse(linea);
+        } catch {
+          throw new Error(`Linea ${i + 1} del dataset no es JSON valido`);
+        }
+      });
+  }
+}
+
 function usage() {
   console.log(`Uso:
   node scripts/apply-brightdata-prices.cjs <dataset.json> [--apply]
@@ -513,7 +539,7 @@ function main() {
   const datasetPath = args[0];
   const doApply = args.includes("--apply");
 
-  const report = JSON.parse(fs.readFileSync(datasetPath, "utf8"));
+  const report = leerDataset(datasetPath);
   const src = fs.readFileSync(CATALOG_PATH, "utf8");
   const catalog = loadCatalog(src);
   const {
