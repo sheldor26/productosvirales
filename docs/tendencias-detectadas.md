@@ -5,6 +5,66 @@
 > producto/modelo mencionado vale la pena chequear en MercadoLibre y
 > convertir en guía o ficha. Entradas nuevas arriba.
 
+## 2026-07-20
+
+### Perfumes árabes (48 posts únicos de 135 recibidos)
+
+- Lattafa #perfumes #arabicperfumes #fragrance #smell #fyp
+  - 215.100 likes · 16.000 shares · 94.200 guardados · 396 comentarios
+  - https://www.tiktok.com/@angel.smell_/video/7603818262639496455
+- The Best Mens Arabian Fragrances For Compliments 💨 #fragrance #fragrancetok #arabianfragrance #cologne #perfume
+  - 171.500 likes · 9.670 shares · 56.300 guardados · 1.763 comentarios
+  - https://www.tiktok.com/@nose.diver/video/7577405632228183304
+- Bienvenidos perfumes para el verano 😮‍💨🌴🤝 Perfumes árabes frescos para el calor #perfumesarabes #fyp #hermosillo
+  - 187.200 likes · 8.026 shares · 44.600 guardados · 855 comentarios
+  - https://www.tiktok.com/@attare_club/video/7632047186653531410
+- Find your Perfect Fragrance discounted in my showcase #lattafa #fragrance #parfum #men #arabian
+  - 93.400 likes · 5.788 shares · 40.100 guardados · 853 comentarios
+  - https://www.tiktok.com/@duftprobenwelt/video/7607108935027330326
+- Mit Diana10 spart ihr bei @kiphyfragrances, da bestelle ich IMMER meine arabischen Düfte🩷 Lattafa khamrah ist mit Abstand der BESTE Duft de
+  - 104.200 likes · 5.765 shares · 31.200 guardados · 1.010 comentarios
+  - https://www.tiktok.com/@diana.kbn/video/7464941702508219670
+- Tier List perfumaria árabe (de acordo com meu gosto pessoal em fevereiro de 2026) . #perfume #perfumes #perfumaria
+  - 82.300 likes · 5.050 shares · 30.000 guardados · 578 comentarios
+  - https://www.tiktok.com/@matheusueta/video/7606727681677364498
+- My top 6😍 @Lattafa Perfumes #affordableperfume #affordablefragrances #arabtiktok #arabianperfume #lattafaperfume
+  - 57.700 likes · 5.622 shares · 31.800 guardados · 435 comentarios
+  - https://www.tiktok.com/@bydazzlinchristine/video/7584611619443887373
+- perfume combo I save for special obsessions when I want to be the best smelling person in the room! @AMOUAGE guidance 46 + @Kayali yum bouje
+  - 69.200 likes · 2.840 shares · 18.900 guardados · 229 comentarios
+  - https://www.tiktok.com/@beautybyyasi/video/7645728702017424648
+
+### Freidora de aire (15 posts únicos de 15 recibidos)
+
+- 🌮 Easy Air Fryer Chicken Fajitas Save and follow for more quick and easy recipes. Perfect for a busy weeknight dinner! Ingredients: Chicken
+  - 141.700 likes · 52.100 shares · 96.400 guardados · 618 comentarios
+  - https://www.tiktok.com/@doubleoskitchen/video/7651993347594128662
+- Easy Air Fryer Recipe You'll Love! So Delicious!😋 Ingredients:😋 3 tortillas Ham or sausage Tomatoes Grated cheese Salt and pepper Light ma
+  - 139.000 likes · 49.600 shares · 72.400 guardados · 367 comentarios
+  - https://www.tiktok.com/@hearty_and_delicious/video/7627858066125507862
+- ✨¿Sabías que tu freidora de aire puede hacer mucho más que papitas? 🍟🔥 Aprende recetas fáciles, rápidas y deliciosas que te van a ahorrar 
+  - 108.100 likes · 33.800 shares · 32.900 guardados · 595 comentarios
+  - https://www.tiktok.com/@recetaconairfrayer/video/7548246170192317702
+- Easy Air Fryer Hot Dogs | Crispy, Cheesy & Delicious!🥰 Ingredients:😋 Hot dog buns Sausages Pickles (finely chopped) Onion (finely chopped)
+  - 35.500 likes · 15.600 shares · 20.200 guardados · 152 comentarios
+  - https://www.tiktok.com/@hearty_and_delicious/video/7597461350826167574
+- ¿Te queda seco el pollo en la freidora de aire? 📝Hazlo así y luego me cuentas 💚Sígueme si quieres aprender recetas fáciles y saludables. .
+  - 41.500 likes · 11.400 shares · 17.700 guardados · 343 comentarios
+  - https://www.tiktok.com/@crocanteynatural/video/7520245429049560376
+- Easy & Mess-Free Steak & Potatoes! 🥩🥔 For more easy and delicious recipes 👉 @recipie.my Cooking Instructions: 🧑‍🍳 Air-fry at 200°C for 
+  - 20.900 likes · 7.574 shares · 18.400 guardados · 69 comentarios
+  - https://www.tiktok.com/@recipie.my/video/7652785593268587794
+- air fryer cheesy bacon potato crispy baked potato stuffed with butter, bacon and melted cheese air fryer 205C/400F for 25 min air fryer 180C
+  - 27.700 likes · 7.319 shares · 14.400 guardados · 168 comentarios
+  - https://www.tiktok.com/@easyairfryerrecip/video/7652444079531380000
+- 💾 Guarda este tip ❤️ Dale like si amas tu Air Fryer 👉 Sígueme para más hacks diarios #airfryer #recetasfaciles #recipesairfryer
+  - 11.600 likes · 1.822 shares · 7.520 guardados · 82 comentarios
+  - https://www.tiktok.com/@cheffry.airfryer/video/7623300639677811988
+
+### Aspiradora robot _(se cortó por el límite de tiempo del workflow — muestra parcial)_ (0 posts únicos de 0 recibidos)
+
+_Sin resultados esta semana._
+
 ## 2026-07-08
 
 ### Perfumes árabes (0 posts únicos de 0 recibidos)
