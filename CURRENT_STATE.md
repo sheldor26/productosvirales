@@ -1,7 +1,50 @@
 # Estado actual
 
 > Snapshot del proyecto. Se actualiza al final de cada sesión.
-> Última actualización: 2026-08-07 (barrido de SEO técnico sobre un crawl del sitio: URLs canónicas de producto, titles y meta descriptions — ver sesión de más abajo; antes, silo nuevo "hogar-jardin" con la guía `zapatero` STAGED).
+> Última actualización: 2026-08-10 (día largo de integridad de datos: se descubrió que el catálogo llevaba cinco días congelado y mintiendo, se reencuadraron dos guías por productos caídos, y quedó un verificador automático de frescura — ver sesión de más abajo).
+
+## Sesión 2026-08-10 — El catálogo estaba mintiendo: dos guías reencuadradas, verificador de frescura y análisis de CTR
+
+Disparador: cruzar los productos sin stock contra las guías publicadas. Terminó siendo el día que destapó que la capa de datos del sitio no era confiable, y que eso costaba más que cualquier optimización de título pendiente.
+
+### El problema de fondo
+
+1. **El workflow de precios estaba roto en silencio desde el 2026-08-07.** Bright Data había cambiado el formato del dataset (array JSON a NDJSON) y rompió el `JSON.parse`. Tres días con el catálogo congelado mientras las guías mostraban precios viejos con la misma confianza visual que los reales. Los nueve scripts de check del repo dieron verde todos esos días: comparan el sitio contra el catálogo, y el catálogo era coherente consigo mismo. Solo estaba viejo.
+2. **Bright Data falló de cuatro formas distintas en un solo día**, todas medidas: 93% de falsos "sin stock" a la mañana (13 de 14 productos marcados tenían stock), 6 de 8 a la tarde, dos bajas de precio inventadas que iban derecho al canal de Telegram (Nespresso $859.800→$417.002 y zapatero $59.999→$19.999), y precios con desvíos de hasta -23% en la corrida que sí salió verde. **Conclusión operativa: ese scraper no está en condiciones de escribir solo al catálogo, y hoy escribe solo.**
+3. **Se arregló el scraper** (`scripts/apply-brightdata-prices.cjs`): la ausencia de dato de stock ya no se interpreta como "no hay stock" — devuelve `null` y deja el estado anterior intacto. Antes, un campo faltante marcaba el producto como agotado.
+
+### Guías reencuadradas por productos caídos
+
+4. **`secador-de-pelo`:** el Daewoo DHD-7007 (`MLA22138728`) no se consigue más. Era la recomendación #1, el quickPick "El más vendido" y el ranking #1. **El Yelmo SC-3630 pasó a #1**; el ranking quedó en 5. El Daewoo salió del ranking pero conserva sección H2 y FAQ propios que explican que hoy no se consigue: tiene 9.322 opiniones y volumen de búsqueda propio, borrarlo era peor.
+5. **`ventilador-de-techo`:** el Peabody DC (`MLA43536904`) tampoco se consigue. Pero el problema mayor era otro: **el encuadre de la guía se había dado vuelta solo**. El Liliana VTHI513 pasó de $105.990 a $219.429 (+107%) y la guía seguía llamándolo "el clásico económico" cuando ya era el más caro. El Axel subió 48%. **El Iluma Zenith DC subió de #5 a #2** (es retráctil con motor DC y sale menos que el Etheos), el Liliana bajó a #4 reencuadrado como "el de mayor caudal" con la contra de precio explícita, y el Kent pasó a ser el más barato.
+6. **Novohome NH-VTR (`MLA54423759`) sumado a `ventilador-de-techo` como #2.** Existía como ficha pero estaba fuera de la guía y en `visibility: deprioritized` (herencia de una asignación masiva de abril, sin razón vigente). Es el retráctil más barato del catálogo con casi el mismo respaldo que el #1: 4.8 en 1.661 opiniones contra 4.8 en 1.678 del Etheos. Pasó a `normal`.
+7. **El Peabody salió de los `relatedProducts` de cuatro fichas del silo**, para no mandar tráfico desde "Comparar con otros modelos" a algo que no se puede comprar.
+
+### Herramienta nueva: `check-catalogo-fresco`
+
+8. **`scripts/check-catalogo-fresco.cjs` + workflow diario.** No chequea coherencia sino **frescura**, que era el hueco. Tres detecciones: pipeline congelado (si el `priceLastChecked` más reciente de todo el catálogo pasa los 4 días, nadie lo escribió), sin stock en rol crítico (recomendación #1, ranking #1, ancla de precio o quickPick de guía publicada) y datos viejos en alto impacto. **No scrapea**: solo lee los dos archivos de datos, así que corre gratis en CI y no suma volumen contra MercadoLibre. Lo que hace es decir qué verificar y en qué orden (`npm run catalogo:lista` da los permalinks priorizados).
+9. El workflow mantiene **un solo issue vivo** que se reescribe en cada corrida y **se cierra solo** cuando el catálogo vuelve a estar limpio, en vez de comentar todos los días — que es exactamente como se perdió la señal en agosto. Probado end-to-end en producción: [issue #56](https://github.com/sheldor26/productosvirales/issues/56).
+10. **`avisar-fallas.yml`** (del mismo día) ahora vigila también ese workflow, y los dos crean su label antes de usarlo: `gh issue create --label` falla si el label no existe, lo que habría dejado mudo al aviso la primera vez que se disparara.
+
+### SEO y contenido
+
+11. **`cocina/microondas`: `seoTitle` nuevo** (`¿Cuál es el Mejor Microondas en Argentina? Marcas [2026]`). Última pendiente del checklist del reporte semanal. El caso: "cual es el mejor microondas en argentina" en **posición 3,8 con cero clicks** y un cluster de seis queries de marca con 152 impresiones y 1 click. No se tocaron h1, title ni slug (freeze). Baseline registrado en `docs/seo-tracking-optimizaciones.md`; **medible el 2026-09-07**.
+12. **`atma-freidoras-de-aire-review`: `directAnswer` nuevo.** Salió de un patrón medido en GSC: las búsquedas de la marca que llevan "opiniones" o "reviews" sí generan clicks, y las del modelo pelado dan cero — aunque estén mejor posicionadas (la pelada está en 2,9 con cero clicks; las de opiniones en 4,8-5,2 y sí convierten). El universo completo de la marca son 133 queries, 839 impresiones y 7 clicks.
+
+### Análisis de tráfico (diagnóstico, sin cambios)
+
+13. **Impresiones en máximos con CTR bajando: es dilución, no deterioro.** La serie diaria muestra clicks estables o al alza (92 → 95 → 104 → 111) mientras las impresiones subían 26% en dos días, con **posición media plana en 7,1-7,3**. El récord de clicks sigue siendo el 27/07 con 158.
+14. **La curva de CTR propia del sitio explica el número agregado:** solo el 9,4% de las impresiones está en posición 1-3 (CTR 3,46%), el **47,5% está en posición 7-10** (CTR 1,09%) y un 25% en página 2 o peor. Con esa distribución, 1,25% es lo aritméticamente esperable. Mover *todo* el bloque de 7-10 a 4-6 daría **+4,5 clicks/día**: el CTR no es la palanca. El problema real es que **no hay ninguna keyword grande ganada** — la query propia con más impresiones en top 3 tiene 159 en 28 días.
+
+### Lo que se decidió NO hacer
+
+15. **Dos queries del silo freidoras en top 3 con cero clicks: no se tocó nada**, por consenso del trío auditor. `freidora de aire atma` tiene SERP transaccional pura (Shopping, fichas de tienda): ninguna guía compite ahí. Y `¿cuáles son las mejores freidoras de aire calidad precio en argentina?` tiene **AI Overview que responde completo y cita a productosvirales como fuente #2**: la citabilidad ya está lograda y el click se lo come el AIO. Tocar el título de esa guía —que hace 167 clicks de afiliado, la que más factura del sitio— por una query de 35 impresiones tenía mala relación riesgo/beneficio.
+
+### Estado de los auditores
+
+16. **`agy` volvió a funcionar** después de 13 fallos consecutivos en modo headless, en las tres corridas del día. Deja su análisis en un archivo dentro de `~/.gemini/antigravity-cli/brain/<id>/plan_auditoria.md` en vez de stdout, así que hay que ir a buscarlo. Todavía no darlo por estable.
+17. **Se le rechazó un bloqueante a agy, y conviene recordarlo:** afirmó que el modelo correcto era "FR248AP" y pidió reemplazar las 9 menciones de "FR248ABP" del cuerpo de la guía. La ficha técnica de ML dice `Línea: FR248 / Modelo: FR248ABP`. El cuerpo estaba bien; el que estaba mal era el `directAnswer` nuevo, que había copiado el nombre del título de la publicación. De haberle hecho caso se rompían nueve lugares correctos.
+18. **El trío atajó 43 bloqueantes en total** (17 en secador, 22 en ventilador, 4 en atma), casi todos del mismo tipo: **afirmaciones relativas que el cambio de precios volvió falsas** ("el más liviano" del Vanta cuando el Spica también declara 400 g, "los tres secadores iónicos" cuando son cuatro, "casi el triple" cuando es 2,18x) y datos viejos en fichas, incluido `structuredData` con el Peabody en `InStock`.
 
 ## Sesión 2026-08-07 — SEO técnico: URLs canónicas de producto, titles y meta descriptions
 
