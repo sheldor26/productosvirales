@@ -7,6 +7,34 @@
 > por filtrar de más. Mirar una vez por semana con criterio propio.
 > Entradas nuevas arriba.
 
+## 2026-07-29
+
+- **rosario central - racing** — 100 mil+ búsquedas (+1.000%, 15 h)
+- **paro de colectivos** — 100 mil+ búsquedas (+1.000%, ayer)
+- **primera división** — 50 mil+ búsquedas (+1.000%, 5 d)
+- **tigre - nacional** — 50 mil+ búsquedas (+1.000%, 17 h)
+- **ifab embolo** — 20 mil+ búsquedas (+1.000%, 23 h)
+- **argentinos jrs. - estudiantes de río cuarto** — 20 mil+ búsquedas (+1.000%, 15 h)
+- **san lorenzo - gimnasia y esgrima** — 20 mil+ búsquedas (+1.000%, 17 h)
+- **japón** — 20 mil+ búsquedas (+1.000%, ayer)
+- **el idolo** — 20 mil+ búsquedas (+400%, anteayer)
+- **potrero juego** — 20 mil+ búsquedas (+300%, 5 d)
+- **banfield - sarmiento** — 20 mil+ búsquedas (+1.000%, 17 h)
+- **crédito** — 10 mil+ búsquedas (+1.000%, 2 h)
+- **gustavo garzon** — 10 mil+ búsquedas (+1.000%, 13 h)
+- **santos - universidad central** — 10 mil+ búsquedas (+1.000%, 15 h)
+- **presidente de la fifa** — 10 mil+ búsquedas (+1.000%, ayer)
+- **tottenham - sydney** — 5 mil+ búsquedas (+1.000%, 5 h)
+- **discurso** — 5 mil+ búsquedas (+1.000%, 18 h)
+- **ciclogénesis** — 5 mil+ búsquedas (+800%, 23 h)
+- **enzo francescoli** — 2 mil+ búsquedas (+600%, 14 h)
+- **desregulación** — 2 mil+ búsquedas (+700%, 18 h)
+- **keiko fujimori** — 2 mil+ búsquedas (+600%, ayer)
+- **marcelo saracchi** — 2 mil+ búsquedas (+500%, 18 h)
+- **kavinsky** — 1 mil+ búsquedas (+1.000%, 3 h)
+- **kiki ramos** — 1 mil+ búsquedas (+1.000%, 3 h)
+- **cosquin rock** — 1 mil+ búsquedas (+1.000%, 2 h)
+
 ## 2026-07-08
 
 - **colombia vs suiza** — 1 M+ búsquedas (+1.000%, ayer)
