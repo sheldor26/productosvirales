@@ -4,6 +4,80 @@
 > MercadoLibre, de la corrida semanal automática. Generador de ideas — no
 > toca el catálogo. Entradas nuevas arriba.
 
+## 2026-07-21
+
+### Freidora de aire (ML) [ml] (15 productos)
+
+- ![Airfryer Horno Suono Freidora Aire 18 Programas Digital 45l Negro](https://http2.mlstatic.com/D_Q_NP_2X_777529-MLA99466152560_112025-E.webp) — $658.207
+- ![Freidora De Aire Sansei 1700 W 6l Negra Negro](https://http2.mlstatic.com/D_Q_NP_2X_638213-MLA100001955679_112025-E.webp) — $133.099
+- OFERTA IMPERDIBLE — $209.990
+- ![Freidora De Aire Atma Fr248ap 1750w 8l Y Control Táctil](https://http2.mlstatic.com/D_Q_NP_2X_785037-MLA99555415684_122025-E.webp) — $199.999
+- Llega gratis hoy — $239.579
+- ![Junta De Papel Específica Para Alimentos Air Fryer A As Shown](https://http2.mlstatic.com/D_Q_NP_2X_951306-CBT103194888840_012026-E.webp) — $17.771
+- ChinaInternacional China — $127.949
+- ![Freidora De Aire Daewoo Crystal XL Vidrio Daf1891 7lts Color Blanco](https://http2.mlstatic.com/D_Q_NP_2X_615836-MLA95639704224_102025-E.webp) — $363.075
+- ![Freidora De Aire Philips Na120/00 Negra 4.2l Negro](https://http2.mlstatic.com/D_Q_NP_2X_788252-MLA99975580653_112025-E.webp) — $99.999
+- ![Freidora De Aire Liliana Aaf966b Blanca 6l Blanco](https://http2.mlstatic.com/D_Q_NP_2X_922794-MLA99992359125_112025-E.webp) — $159.999
+- ![Freidora De Aire Veltro Roma Essenza 1500w 6lt Digital](https://http2.mlstatic.com/D_Q_NP_2X_673744-MLA90893636618_082025-E.webp) — $125.884
+- Llega gratis mañana — $86.299
+- ![Papel Descartable Para Freidora De Aire 100 Piezas](https://http2.mlstatic.com/D_Q_NP_2X_871991-CBT111812898402_062026-E.webp) — $13.453
+- ![Papel Manteca Antiadherente Para Freidora De Aire](https://http2.mlstatic.com/D_Q_NP_2X_790966-CBT112573558332_062026-E.webp) — $12.390
+- ![Freidora De Aire Philips Canasta Doble 9 Litros Phna35100 Negro](https://http2.mlstatic.com/D_Q_NP_2X_782990-MLA110565781079_042026-E.webp) — $261.626
+
+### Aspiradora robot (ML) [ml] (15 productos)
+
+- OFERTA IMPERDIBLE — $343.639
+- Llega gratis hoy — $249.371
+- ![](https://http2.mlstatic.com/D_NQ_NP_997355-MLA70516180458_072023-A.webp) — $300.000
+- ![Robot Aspirador Inteligente Recargable Por Usb](https://http2.mlstatic.com/D_Q_NP_2X_875512-CBT111503326772_062026-E.webp) — $15.499
+- ![Xiaomi Robot Vacuum S40 Us Color Blanco](https://http2.mlstatic.com/D_Q_NP_2X_778237-MLA99219066155_112025-E.webp) — $499.999
+- ](https://www.mercadolibre.com.ar/xiaomi-robot-vacuum-s40-us-color-blanco/p/MLA62453968?offer_type=BEST_INSTALLMENTS#wid=MLA3017517324&sid=search) — $398.994
+- ![Irobot Roomba 205 Combo Negro](https://http2.mlstatic.com/D_Q_NP_2X_885971-MLA104911412436_012026-E.webp) — $999.999
+- ![Kit Repuestos X12 Para Robot Aspirador Xiaomi S40 12-piece Set](https://http2.mlstatic.com/D_Q_NP_2X_967087-CBT110767290220_052026-E.webp) — $29.388
+- ![Aspiradora Robot Trapeadora Gadnic V51 4 Modos De Mapeo Negro](https://http2.mlstatic.com/D_Q_NP_2X_681869-MLA106101204335_012026-E.webp) — $379.999
+- China Internacional China Enviado por FULL — $200.000
+- ![Robot Aspirador Xiaomi Vacuum H40 Bhr07xbeu Blanco](https://http2.mlstatic.com/D_Q_NP_2X_686132-MLA99453318576_112025-E.webp) — $749.999
+- Llega gratis mañana — $725.000
+- ![Aspiradora Robot Con Wifi Smart 115w Midow 3 Modos Con Base Negro](https://http2.mlstatic.com/D_Q_NP_2X_695909-MLA99448480886_112025-E.webp) — $164.876
+- ![Aspiradora Trapeadora Robot Xiaomi S40](https://http2.mlstatic.com/D_Q_NP_2X_821418-MLA107533427514_032026-E.webp) — $403.000
+- ![De Repuestos Suono Para Aspiradora Robot Basic Color Negro](https://http2.mlstatic.com/D_Q_NP_2X_844835-MLA95958990485_102025-E.webp) — $21.449
+
+### Amazon Kitchen & Dining bestsellers [amazon] (15 productos)
+
+- Nespresso Capsules Vertuo, Variety Pack, Medium and Dark Roast Coffee, 30 Count Coffee Pods, Brews 7.8 oz. — US$42.00
+- Bounty Paper Towels Quick Size, White, 16 Family Rolls = 40 Regular Rolls — US$45.73
+- Owala FreeSip Insulated Stainless Steel Water Bottle with Straw for Sports and Travel, BPA-Free Sports Water Bottle, 24 oz, Pink, Angel Food Cake — US$23.99
+- Amazon Basics Everyday Disposable Paper Plates, 8.62 Inch, Microwave-Safe, Cut Resistant, Soak-Proof, 100 Count, Packaging May Vary — US$5.00
+- Bounty Select-A-Size Paper Towels, White, 2 Triple Rolls = 6 Regular Rolls — US$6.97
+- Scott Paper Towels, Choose-A-Sheet, 6 Double Rolls = 12 Regular Rolls — US$6.84
+- Dixie Medium Paper Plates, 8.5 Inch, 90 Count, 2X Stronger\*, Microwave-Safe, Soak-Proof, Cut Resistant, Disposable Plates For Everyday Breakfast, Lunch, & Dinner Meals — US$5.89
+- Amazon Basics 2-Ply Flex-Sheets Paper Towels, 12 Basics Rolls = 40 Regular Rolls, Everyday Value with 150 Sheets per Roll, Packaging May Vary — US$19.42
+- Brawny Tear-A-Square 3-Ply Paper Towels, 6 Double Rolls = 12 Regular Rolls, Strong, Absorbent, and Durable with 3 Sheet Sizes — US$10.58
+- Lavazza Super Crema Whole Bean Coffee, Medium Espresso Roast, Arabica and Robusta Blend, 2.2 lb Bag, Package May Vary — US$25.00
+- Sparkle Pick-A-Size Paper Towels, 6 Double Rolls — US$7.92
+- Amazon Brand - Happy Belly Medium Roast Coffee Pods, Donut Shop, Compatible with Keurig 2.0 K-Cup Brewers, 100 Count — US$29.62
+- Bounty Paper Napkins, White, 200 Count, Packaging may vary — US$3.10
+- Nespresso Capsules Vertuo, Barista Flavored Pack, Medium Roast Coffee, 30 Count Coffee Pods, Brews 7.8oz. — US$42.00
+- Dixie Ultra, Large Paper Plates, 10 Inch, 172 Count — US$24.03
+
+### Amazon Home & Kitchen bestsellers [amazon] (15 productos)
+
+- Queen Size 4 Piece Sheet Set - Comfy Breathable & Cooling Sheets - Hotel Luxury Bed Sheets for Women & Men - Deep Pockets, Easy-Fit, Extra Soft and Wrinkle Free Sheets - White Oeko-Tex Bed Sheet Set — US$21.24
+- Amazon Basics Lightweight Super Soft Breathable Wrinkle-Resistant Microfiber 4-Piece Bed Sheet Set with 14-Inch Deep Pockets, Queen, Bright White, Solid — US$17.18
+- Zevo Flying Insect Trap Official Refill Cartridges - Fits Zevo Trap and MAX Indoor Fly Trap, Trap+Lock Technology Fly Trap Refill for Gnats, House Flies & Fruit Flies — US$14.49
+- Owala FreeSip Insulated Stainless Steel Water Bottle with Straw, BPA-Free Sports Water Bottle, Great for Travel, 24 Oz, Very, Very Dark — US$29.97
+- Zevo Flying Insect Trap - Plug-in Indoor Fly Trap and Bug Light Trap Refill with Blue and UV Light - No-Mess Cartridge for House Flies, Fruit Fly Trap and Gnats — US$17.97
+- upsimples 11x14 Picture Frame, Display Pictures 8x10 with Mat or 11x14 Without Mat, Wall Hanging Photo Frame, Black, 1 Pack — US$6.29
+- BEDLORE Waterproof Mattress Protector, Queen Size Mattress Pad Noiseless with Deep Pocket 6"-18" Depth, Soft Breathable Dirt-Proof Bed Mattress Cover Washable for Home, Bedroom, Hotel — US$25.49
+- Amazon Basics Slim Velvet Non-Slip Space Saving Suit Clothes Hangers for Closet Organization, Black/Silver, 30-Pack — US$16.19
+- Barossa Design Plastic Shower Liner Clear - Premium PEVA Shower Curtain Liner with Rustproof Grommets and 3 Magnets, Waterproof Cute Lightweight Standard Size Bathroom Curtains - Clear — US$8.49
+- Niagara Sleep Solution Ultra Soft Queen Size Mattress Topper - Rayon Derived from Bamboo Pillow Top Mattress Pad for Back Pain Relief - Naturally Cooling for Hot Sleepers, Green — US$39.99
+- BigFoot Clear Shower Curtain - 72x72 Odorless Plastic with Magnets, Washable Long Bathroom Curtain - Premium PEVA Waterproof Bath Curtain, Rust-Proof Bathroom Essentials — US$9.99
+- Zevo Flying Insect Traps - Plug-in Indoor Fly Trap and Bug Light Trap Refill with Blue and UV Light - No-Mess Cartridge for House Flies, Fruit Fly Trap and Gnats — US$37.00
+- PlayHot Portable Handheld Turbo Fan, 5 Gear Wind, USB-C Rechargeable Fan, Up to 12 Working Hours, 3 IN 1 Hand Fans with Air Turbo Tech Cooling Fan for Outdoor Activities, Travel, Beach — US$16.98
+- Utopia Bedding Down Alternative Bed Pillows for Sleeping Queen Size — US$27.44
+- OLANLY Bathroom Rugs 30x20, Extra Soft Absorbent Chenille Bath Rugs, Rubber Backing Quick Dry, Machine Washable Bath Mats for Bathroom Floor, Tub and Shower, Home Decor Accessories, Grey — US$9.38
+
 ## 2026-07-08
 
 ### Freidora de aire (ML) [ml] (15 productos)
