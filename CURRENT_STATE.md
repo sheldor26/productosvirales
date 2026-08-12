@@ -1,11 +1,11 @@
 # Estado actual
 
 > Snapshot del proyecto. Se actualiza al final de cada sesión.
-> Última actualización: 2026-08-10 (día largo de integridad de datos: se descubrió que el catálogo llevaba cinco días congelado y mintiendo, se reencuadraron dos guías por productos caídos, y quedó un verificador automático de frescura — ver sesión de más abajo).
+> Última actualización: 2026-08-12 (integridad de datos: el catálogo estuvo cinco días congelado, se reencuadraron dos guías por productos caídos, quedó un verificador de frescura, y se confirmó que Bright Data PISA las correcciones manuales — ver sesión de más abajo).
 
-## Sesión 2026-08-10 — El catálogo estaba mintiendo: dos guías reencuadradas, verificador de frescura y análisis de CTR
+## Sesión 2026-08-10 al 12 — El catálogo estaba mintiendo: dos guías reencuadradas, verificador de frescura y análisis de CTR
 
-Disparador: cruzar los productos sin stock contra las guías publicadas. Terminó siendo el día que destapó que la capa de datos del sitio no era confiable, y que eso costaba más que cualquier optimización de título pendiente.
+Disparador: cruzar los productos sin stock contra las guías publicadas. Terminó siendo la sesión que destapó que la capa de datos del sitio no es confiable, y que eso cuesta más que cualquier optimización de título pendiente. El grueso fue el 10/08; el `directAnswer` de Atma, el 11/08; el cierre y el hallazgo del punto 19, el 12/08.
 
 ### El problema de fondo
 
@@ -45,6 +45,13 @@ Disparador: cruzar los productos sin stock contra las guías publicadas. Termin�
 16. **`agy` volvió a funcionar** después de 13 fallos consecutivos en modo headless, en las tres corridas del día. Deja su análisis en un archivo dentro de `~/.gemini/antigravity-cli/brain/<id>/plan_auditoria.md` en vez de stdout, así que hay que ir a buscarlo. Todavía no darlo por estable.
 17. **Se le rechazó un bloqueante a agy, y conviene recordarlo:** afirmó que el modelo correcto era "FR248AP" y pidió reemplazar las 9 menciones de "FR248ABP" del cuerpo de la guía. La ficha técnica de ML dice `Línea: FR248 / Modelo: FR248ABP`. El cuerpo estaba bien; el que estaba mal era el `directAnswer` nuevo, que había copiado el nombre del título de la publicación. De haberle hecho caso se rompían nueve lugares correctos.
 18. **El trío atajó 43 bloqueantes en total** (17 en secador, 22 en ventilador, 4 en atma), casi todos del mismo tipo: **afirmaciones relativas que el cambio de precios volvió falsas** ("el más liviano" del Vanta cuando el Spica también declara 400 g, "los tres secadores iónicos" cuando son cuatro, "casi el triple" cuando es 2,18x) y datos viejos en fichas, incluido `structuredData` con el Peabody en `InStock`.
+
+
+### El hallazgo que cambia la prioridad (12/08)
+
+19. **Bright Data PISA las correcciones manuales, y las devuelve a valores viejos.** Al cerrar la sesión se comparó el catálogo contra los 15 precios verificados a mano en ML durante estos días: **la corrida automática del 12/08 había pisado 11 de los 15**, y en la mayoría los devolvió al valor exacto que tenían antes de la corrección (Spica $29.099 → $17.499, Vanta $98.000 → $70.005, GA.MA $119.990 → $99.560, Atma Pro $149.599 → $115.299). Se re-verificaron dos en vivo el 12/08 y **siguen como se los había verificado**: el Spica está a $29.099 y el Vanta a $98.000. O sea no son bajas reales, es dato falso que se reescribe solo cada 48 horas.
+20. **Los 11 precios se restauraron**, pero es un parche: la próxima corrida los vuelve a pisar. **El fix de fondo está pendiente y es una decisión de diseño para Juan:** que `apply-brightdata-prices.cjs` respete una marca de "verificado a mano" y no la sobrescriba, o que directamente deje de escribir el precio sin revisión humana. Hoy el sistema destruye activamente el trabajo de verificación.
+21. **Limitación conocida del verificador nuevo:** `check-catalogo-fresco` mide FRESCURA, no veracidad. Con los precios pisados el 12/08 daba todo verde, porque el dato era recién escrito — solo que falso. Detecta que el pipeline se murió, no que el pipeline miente.
 
 ## Sesión 2026-08-07 — SEO técnico: URLs canónicas de producto, titles y meta descriptions
 
