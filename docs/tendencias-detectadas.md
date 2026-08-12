@@ -5,6 +5,66 @@
 > producto/modelo mencionado vale la pena chequear en MercadoLibre y
 > convertir en guía o ficha. Entradas nuevas arriba.
 
+## 2026-08-03
+
+### Perfumes árabes (63 posts únicos de 235 recibidos)
+
+- Lattafa #perfumes #arabicperfumes #fragrance #smell #fyp
+  - 216.200 likes · 16.200 shares · 94.600 guardados · 395 comentarios
+  - https://www.tiktok.com/@angel.smell_/video/7603818262639496455
+- The Best Mens Arabian Fragrances For Compliments 💨 #fragrance #fragrancetok #arabianfragrance #cologne #perfume
+  - 172.200 likes · 9.725 shares · 56.400 guardados · 1.762 comentarios
+  - https://www.tiktok.com/@nose.diver/video/7577405632228183304
+- Siguenos si te gustan los perfumes árabes✨
+  - 132.800 likes · 21.500 shares · 52.600 guardados · 4.821 comentarios
+  - https://www.tiktok.com/@cairosperfumes/video/7666906316161486102
+- Bienvenidos perfumes para el verano 😮‍💨🌴🤝 Perfumes árabes frescos para el calor #perfumesarabes #fyp #hermosillo
+  - 189.500 likes · 8.153 shares · 45.100 guardados · 866 comentarios
+  - https://www.tiktok.com/@attare_club/video/7632047186653531410
+- Los mejores dupes arabes 🔥 Adquirirlos en naysee parfum #jeanpaulgaultier #perfumesmasculinos #perfumesarabes #perfumes #paratiiiiiiiiiiiii
+  - 94.100 likes · 9.457 shares · 37.800 guardados · 336 comentarios
+  - https://www.tiktok.com/@naysee.parfum/video/7580938007834905857
+- Find your Perfect Fragrance discounted in my showcase #lattafa #fragrance #parfum #men #arabian
+  - 93.700 likes · 5.812 shares · 40.300 guardados · 850 comentarios
+  - https://www.tiktok.com/@duftprobenwelt/video/7607108935027330326
+- Mit Diana10 spart ihr bei @kiphyfragrances, da bestelle ich IMMER meine arabischen Düfte🩷 Lattafa khamrah ist mit Abstand der BESTE Duft de
+  - 104.400 likes · 5.779 shares · 31.300 guardados · 1.010 comentarios
+  - https://www.tiktok.com/@diana.kbn/video/7464941702508219670
+- Los mejores perfumes árabes De este 2025 👌🤩⚜️ #perfumesarabes #todoperfumeria #perfumesdehombre
+  - 53.900 likes · 14.500 shares · 24.400 guardados · 378 comentarios
+  - https://www.tiktok.com/@perfumeriatodo.bo/video/7588691629171559736
+
+### Freidora de aire _(se cortó por el límite de tiempo del workflow — muestra parcial)_ (0 posts únicos de 0 recibidos)
+
+_Sin resultados esta semana._
+
+### Aspiradora robot (36 posts únicos de 161 recibidos)
+
+- Set up my personal house cleaner with me! 🫧 200 off until Feb 16! @Roborock #roborock #saros10 #robotvacuum #robotvacuumcleaner #roborockpa
+  - 1.700.000 likes · 428.000 shares · 356.800 guardados · 10.400 comentarios
+  - https://www.tiktok.com/@sam.shan.shops/video/7471045522086710534
+- Smart Robot Vacuum with Mechanical Arm #goodthing #productreview #tiktokmakemebuyit #amazonfinds
+  - 121.400 likes · 81.000 shares · 28.800 guardados · 3.419 comentarios
+  - https://www.tiktok.com/@androf.ca/video/7484716195032206597
+- ✨ Découvrez le Dreame X50 Ultra : l’aspirateur robot de nouvelle génération qui change les règles du jeu ! ✨ 🧹 Puissance extrême : Une aspi
+  - 107.800 likes · 54.300 shares · 28.800 guardados · 1.183 comentarios
+  - https://www.tiktok.com/@lila_drila/video/7460065054348578070
+- robotic vacuum, robo vacuum, robot vacuum #robotcleaner #mopvaccum #robot #robotcleaner #robotvacuumcleaner #clean #room #usa_tiktok #tiktok
+  - 124.600 likes · 39.100 shares · 25.200 guardados · 1.015 comentarios
+  - https://www.tiktok.com/@eufynewborn/video/7494892101616831775
+- Pensavo fosse il solito robot. Poi ha pulito il battiscopa. 6ô Il Dreame X60 Pro Ultra Complete aspira, lava, si allunga negli angoli, passa
+  - 58.200 likes · 37.200 shares · 16.600 guardados · 398 comentarios
+  - https://www.tiktok.com/@incucinaconveronica_/video/7651593161550220566
+- Hoy la encuentran a casi mitad de precio! El link está en mi bio. #dreame #dreametech #dreamex40ultra #cleantok #cleanhome #cleaningmotivati
+  - 61.300 likes · 17.700 shares · 17.900 guardados · 580 comentarios
+  - https://www.tiktok.com/@donka.malena/video/7485816759187115310
+- Nouveau Dreame x60 pro ultra complete 🤗💕 🤍 J’ai enfin trouvé un robot qui ne laisse quasiment aucun endroit de côté ! @Dreametech Le Drea
+  - 34.100 likes · 22.900 shares · 11.700 guardados · 471 comentarios
+  - https://www.tiktok.com/@lila_drila/video/7647833127829720353
+- They climb stairs now... 😳 @Dreame UK The Dreame X60 Pro Ultra Complete is certainly not your normal robot... 🤖 check it out through the l
+  - 38.900 likes · 16.100 shares · 8.772 guardados · 285 comentarios
+  - https://www.tiktok.com/@thejunglebadger/video/7668762108334525718
+
 ## 2026-07-08
 
 ### Perfumes árabes (0 posts únicos de 0 recibidos)
