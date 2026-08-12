@@ -7,6 +7,34 @@
 > por filtrar de más. Mirar una vez por semana con criterio propio.
 > Entradas nuevas arriba.
 
+## 2026-07-22
+
+- **francia vs inglaterra** — 2 M+ búsquedas (+1.000%, 6 d)
+- **españa - argentina** — 500 mil+ búsquedas (+1.000%, anteayer)
+- **feriado seleccion** — 500 mil+ búsquedas (+1.000%, anteayer)
+- **fifa investiga argentina** — 200 mil+ búsquedas (+1.000%, ayer)
+- **impuesto a las ganancias** — 100 mil+ búsquedas (+1.000%, ayer)
+- **rosalia** — 50 mil+ búsquedas (+1.000%, 24 h)
+- **de paul** — 50 mil+ búsquedas (+800%, 6 h)
+- **flavio briatore** — 50 mil+ búsquedas (+700%, 17 h)
+- **político** — 20 mil+ búsquedas (+1.000%, ayer)
+- **actor** — 20 mil+ búsquedas (+1.000%, 20 h)
+- **samuel jackson** — 20 mil+ búsquedas (+1.000%, ayer)
+- **nacional - tigre** — 20 mil+ búsquedas (+1.000%, 17 h)
+- **la odisea** — 20 mil+ búsquedas (+200%, 5 d)
+- **pujato** — 20 mil+ búsquedas (+1.000%, ayer)
+- **copa sudamericana** — 20 mil+ búsquedas (+1.000%, ayer)
+- **kaylee hottle** — 10 mil+ búsquedas (+1.000%, 23 h)
+- **universidad central - santos** — 10 mil+ búsquedas (+1.000%, 15 h)
+- **aerolínea** — 5 mil+ búsquedas (+900%, 17 h)
+- **liga argentina** — 5 mil+ búsquedas (+500%, anteayer)
+- **vinicius** — 5 mil+ búsquedas (+600%, ayer)
+- **angel correa** — 5 mil+ búsquedas (+600%, 17 h)
+- **moreno** — 2 mil+ búsquedas (+600%, 18 h)
+- **alerta roja** — 2 mil+ búsquedas (+1.000%, 3 h)
+- **pedro pascal** — 2 mil+ búsquedas (+600%, 20 h)
+- **juan román riquelme** — 2 mil+ búsquedas (+700%, 2 h)
+
 ## 2026-07-08
 
 - **colombia vs suiza** — 1 M+ búsquedas (+1.000%, ayer)
