@@ -7,6 +7,34 @@
 > por filtrar de más. Mirar una vez por semana con criterio propio.
 > Entradas nuevas arriba.
 
+## 2026-08-12
+
+- **celia maría cuccittini** — 500 mil+ búsquedas (+600%, 15 h)
+- **boca juniors - vélez** — 500 mil+ búsquedas (+1.000%, 3 d)
+- **tigre - river plate** — 500 mil+ búsquedas (+1.000%, 3 d)
+- **boca juniors vs. deportivo recoleta** — 200 mil+ búsquedas (+1.000%, 18 h)
+- **de las altas cumbres** — 100 mil+ búsquedas (+1.000%, ayer)
+- **estudiantes - u. católica** — 100 mil+ búsquedas (+1.000%, 14 h)
+- **terremoto colombia** — 100 mil+ búsquedas (+1.000%, anteayer)
+- **telekino** — 100 mil+ búsquedas (+600%, anteayer)
+- **talleres - lanús** — 50 mil+ búsquedas (+1.000%, 15 h)
+- **fluminense - independiente rivadavia** — 50 mil+ búsquedas (+1.000%, 17 h)
+- **12 de agosto** — 20 mil+ búsquedas (+1.000%, 21 h)
+- **alejandro sanz** — 20 mil+ búsquedas (+1.000%, ayer)
+- **capital humano** — 20 mil+ búsquedas (+1.000%, anteayer)
+- **18 de agosto** — 20 mil+ búsquedas (+1.000%, 19 h)
+- **mi argentina** — 20 mil+ búsquedas (+75%, 19 h)
+- **robo** — 20 mil+ búsquedas (+600%, ayer)
+- **córdoba** — 10 mil+ búsquedas (+1.000%, 19 h)
+- **alejandro fantino** — 10 mil+ búsquedas (+1.000%, 17 h)
+- **libertadores** — 10 mil+ búsquedas (+600%, 18 h)
+- **pampa del leoncito** — 10 mil+ búsquedas (+600%, ayer)
+- **san martin** — 10 mil+ búsquedas (+100%, anteayer)
+- **ruta nacional 14** — 5 mil+ búsquedas (+1.000%, 16 h)
+- **bolívar - são paulo** — 5 mil+ búsquedas (+1.000%, 14 h)
+- **crédito hipotecario** — 5 mil+ búsquedas (+400%, 19 h)
+- **eclipse** — 2 mil+ búsquedas (+600%, 4 h)
+
 ## 2026-07-08
 
 - **colombia vs suiza** — 1 M+ búsquedas (+1.000%, ayer)
