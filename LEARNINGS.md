@@ -16,6 +16,54 @@
 **Archivos involucrados:** `path/a/archivo.ts`
 -->
 
+## 2026-08-12 — La palabra de la query dice la intención mejor que la posición
+
+**Qué funcionó:** al mirar por qué la marca Atma rendía mal en GSC (133 queries, 839 impresiones, 7 clicks), en vez de leer el promedio apareció un patrón nítido al ordenar por texto de la query:
+
+| Query | Impr | Pos | Clicks |
+|---|---|---|---|
+| freidora de aire atma **8 litros opiniones** | 84 | 4,8 | 2 |
+| freidora de aire atma **opiniones** | 43 | 5,2 | 2 |
+| freidora de aire atma *(pelada)* | 48 | **2,9** | **0** |
+
+La query pelada está **mejor posicionada** y hace cero; las que llevan "opiniones" están más abajo y sí convierten. Verificado en la SERP en vivo: la pelada devuelve Shopping, patrocinados y fichas de tienda (intención de compra), y ahí una guía no compite por más que esté tercera.
+
+**Por qué:** la posición mide dónde te muestra Google, no si el que busca quiere lo que tenés. Dos queries del mismo producto pueden tener intenciones opuestas, y el promedio de CTR de la marca las mezcla y no dice nada. La palabra que agrega el usuario ("opiniones", "reviews", "vs", "sirve para") es la señal de intención más barata que hay.
+
+**Cuándo aplicarlo:** antes de tocar una página que rankea bien y no convierte, agrupar sus queries por la palabra modificadora y no por la posición. Si las de intención de lectura convierten y las de compra no, el problema no es la página: es que hay queries que no se pueden ganar con contenido informativo. Sirve también al revés, para elegir qué contenido escribir: las de "opiniones" y "vs" son las que un sitio con DA baja puede pelear.
+
+**Archivos involucrados:** `scripts/gsc/gsc.py` (consulta por dimensión `query`)
+
+## 2026-08-12 — Chequear una capa que ningún test miraba: frescura, no coherencia
+
+**Qué funcionó:** el repo tenía nueve scripts de check y todos dieron verde durante los cinco días en que el catálogo estuvo congelado con precios hasta 107% desviados. No era un bug de esos scripts: **todos comparan el sitio contra el catálogo**, y el catálogo era perfectamente coherente consigo mismo. Solo estaba viejo. El script nuevo (`check-catalogo-fresco.cjs`) no chequea coherencia sino frescura, y con un solo número — el `priceLastChecked` más reciente de todo el catálogo — delata el problema entero.
+
+**Por qué:** una batería de tests puede estar completa dentro de su propio marco y ciega a una capa entera. Acá el marco era "¿el sitio dice lo mismo que el catálogo?" y la pregunta que faltaba era "¿el catálogo dice lo mismo que la realidad?". Ninguna cantidad de tests del primer tipo responde el segundo.
+
+**Cuándo aplicarlo:** cuando algo se rompa y los tests hayan dado verde, no buscar el bug en los tests: preguntar qué capa no está mirando ninguno. Y al escribir un verificador, dejar explícito qué NO cubre — este mismo mide frescura y no veracidad, y el 12/08 daba verde con 11 precios falsos porque eran recién escritos.
+
+**Archivos involucrados:** `scripts/check-catalogo-fresco.cjs`, `.github/workflows/check-catalogo-fresco.yml`
+
+## 2026-08-12 — El trío atrapa sobre todo comparaciones que un cambio de precio vuelve falsas
+
+**Qué funcionó:** 43 bloqueantes en tres tandas de auditoría (17 en `secador-de-pelo`, 22 en `ventilador-de-techo`, 4 en `atma-freidoras-de-aire-review`), y casi todos del mismo tipo: **afirmaciones relativas que un cambio de dato volvió falsas**. "El más liviano" del Vanta cuando el Spica también declara 400 g. "Los tres secadores iónicos" cuando son cuatro. "Casi el triple" cuando es 2,18x. "13 centímetros en radio" cuando son de diámetro. Más `structuredData` con el Peabody en `InStock` y conteos de reseñas viejos en seis fichas.
+
+**Por qué:** un cambio de precio o de composición del ranking no toca solo el número: invalida toda la red de comparaciones construida sobre él, y esa red vive repartida en `standfirst`, `quickPicks`, `product-card`, prosa, tabla, veredicto, FAQ, y además en las fichas del silo. Es demasiada superficie para revisar a ojo, y es exactamente lo que un auditor externo con el dato correcto en la mano encuentra rápido.
+
+**Cuándo aplicarlo:** darle al trío los datos reales verificados **en el prompt**, y pedirle explícitamente aritmética literal ("si dice el doble, chequeá que lo sea"). Ahí rinde. Y correr una pasada extra sobre las fichas del silo, no solo sobre la guía: en las tres tandas aparecieron más bloqueantes en fichas que en la guía misma.
+
+**Archivos involucrados:** `src/data/guides.ts`, `src/data/curated-products.ts`
+
+## 2026-08-12 — Verificar la premisa del auditor antes de aplicar su corrección
+
+**Qué funcionó:** agy dio un NO-GO afirmando que el modelo correcto era "FR248AP" y pidiendo reemplazar las 9 menciones de "FR248ABP" del cuerpo de la guía. En vez de aplicarlo, se fue a la ficha técnica de MercadoLibre: dice literalmente `Línea: FR248 / Modelo: FR248ABP`. El cuerpo estaba bien; el que estaba mal era el `directAnswer` nuevo, que había copiado el nombre del **título de la publicación**. La corrección se aplicó al revés de lo pedido.
+
+**Por qué:** el título de una publicación de ML lo escribe el vendedor y suele tener el modelo mal tipeado; la ficha técnica es el campo estructurado. Un auditor que lee el título como fuente llega a la conclusión opuesta con total seguridad. De haberle hecho caso se rompían nueve lugares correctos para dejar uno incorrecto.
+
+**Cuándo aplicarlo:** siempre que un auditor pida un cambio masivo basado en un dato de producto (modelo, capacidad, potencia), verificar ese dato en la ficha técnica antes de tocar nada. Complementa lo ya anotado sobre chequear las premisas que uno mismo le afirma al auditor: también hay que chequear las que el auditor trae.
+
+**Archivos involucrados:** `src/data/guides.ts` (guía `atma-freidoras-de-aire-review`)
+
 ## 2026-08-04 — Verificar en GSC antes de escribir una "guía nueva" que sugiere un reporte automático
 
 **Qué funcionó:** el reporte semanal del `weekly-seo-aeo-loop` proponía una guía comparativa nueva "Yara vs Yara Elixir". Antes de escribirla, correr `scripts/gsc/gsc.py query-pages "yara elixir" "diferencia entre yara y yara elixir"` mostró que `yara-lattafa-guia-completa` YA rankea posición 7.1-2.5 para esas queries — escribir la guía nueva la hubiera canibalizado. El problema real era CTR bajo en una página que ya rankeaba bien, no falta de contenido; se resolvió con un ajuste de `metaDescription`, sin tocar título/H1/slug (freeze de posiciones top).

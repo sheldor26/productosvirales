@@ -16,6 +16,46 @@
 **Archivos involucrados:** `path/a/archivo.ts`
 -->
 
+## 2026-08-12 — Diagnostiqué un bug de indentación que no existía, y el "arreglo" rompió el YAML
+
+**Qué pasó:** al escribir el workflow `check-catalogo-fresco.yml` sospeché que el heredoc que arma el cuerpo del issue preservaba la indentación del YAML, y que por eso GitHub iba a renderizar el issue entero como un bloque de código (4+ espacios al principio de línea = code block en Markdown). Reescribí ese workflow y también `avisar-fallas.yml` para pegar el heredoc al margen izquierdo. Resultado: el heredoc en columna 0 rompió el bloque literal `run: |` y el YAML dejó de parsear.
+
+**Por qué:** el test con el que "confirmé" el bug corría bash directo sobre un archivo `.sh` que yo mismo había escrito con 10 espacios de indentación. Ese test se saltea justo el paso que importa: **YAML quita la indentación común del bloque `run: |` antes de que bash vea nada**. Verificándolo bien (parsear el YAML con PyYAML y mirar el string que sale) el bash recibe todo en columna 0 y el cuerpo del issue siempre estuvo bien.
+
+**Cómo evitarlo:** para verificar el comportamiento de un script embebido en YAML, extraerlo **parseando el YAML**, nunca reescribiéndolo a mano en un archivo aparte. El bug estaba en mi reproducción, no en el código. Y antes de "arreglar" un archivo que ya funcionaba (`avisar-fallas.yml` no había fallado nunca), pedir una prueba de que está roto, no una sospecha.
+
+**Archivos involucrados:** `.github/workflows/check-catalogo-fresco.yml`, `.github/workflows/avisar-fallas.yml`
+
+## 2026-08-12 — Arrastré la fecha del contexto y escribí datos con 2 días de atraso
+
+**Qué pasó:** la sesión venía de una conversación anterior con fecha 2026-08-10 y seguí usando esa fecha durante todo el trabajo, aunque el calendario ya marcaba 11 y después 12. Se escribieron `priceLastChecked`, `priceUpdated`, `reviewsSampledAt`, `updatedDate` y `sitemapLastmod` con una fecha anterior a la real, y la entrada de `CURRENT_STATE.md` se tituló con el día equivocado.
+
+**Por qué:** asumí la fecha del contexto heredado en vez de consultarla. En una sesión que dura varios días de calendario, la fecha "de la sesión" y la de hoy dejan de coincidir sin que nada lo avise.
+
+**Cómo evitarlo:** correr `date` antes de escribir cualquier campo de fecha en el catálogo o en una guía, y de nuevo al cerrar la sesión. Es especialmente crítico acá porque `check-catalogo-fresco` usa `priceLastChecked` para decidir si el pipeline está congelado: fechas atrasadas a mano envenenan justo la señal que ese script mide.
+
+**Archivos involucrados:** `src/data/curated-products.ts`, `src/data/guides.ts`, `CURRENT_STATE.md`
+
+## 2026-08-12 — Llamé "récord" a un número mirando solo los últimos días de la serie
+
+**Qué pasó:** Juan reportó 111 clicks y respondí que era "otro récord". Me corrigió: el récord son 158 clicks, del 27/07. El dato estaba en la misma serie diaria que yo había bajado minutos antes.
+
+**Por qué:** leí la cola reciente de la serie (92 → 95 → 104 → 111, todo en alza) y generalicé a "récord" sin escanear la serie completa buscando el máximo. Un pico aislado varias semanas atrás no aparece si solo mirás la tendencia de los últimos días.
+
+**Cómo evitarlo:** antes de decir "récord", "máximo" o "el mejor", calcular el máximo de la serie explícitamente (`max()`), no inferirlo de la tendencia. Y el error importaba: 158 clicks con 7.081 impresiones prueba que el sitio ya hizo más clicks con menos impresiones, o sea que el techo es más alto que el que yo estaba describiendo.
+
+**Archivos involucrados:** ninguno (análisis de GSC)
+
+## 2026-08-12 — Generalicé una afirmación a partir de un párrafo que hablaba de un solo modelo
+
+**Qué pasó:** al escribir el `directAnswer` de `atma-freidoras-de-aire-review` afirmé que "ningún modelo de la marca trae programas sofisticados". El cuerpo de la guía dice eso del FR248ABP. Los otros tres modelos sí traen: el catálogo lista 8, 6, 12 y 6 programas, y la ficha de ML del propio FR248ABP dice "8 programas preestablecidos". La afirmación era falsa dos veces.
+
+**Por qué:** leí un párrafo sobre un producto ("si querés programas preestablecidos, acá no va") y lo elevé a afirmación sobre la marca entera sin chequear los otros tres. Es el mismo patrón que ya está anotado del 05/08: los datos viven repetidos en varias capas y una lectura parcial produce un claim global falso.
+
+**Cómo evitarlo:** cuando una frase diga "ninguno", "todos" o "la marca entera", verificar el dato en las N fichas del catálogo, no en la prosa de la guía. La prosa habla de un producto por vez; el catálogo tiene el campo por producto.
+
+**Archivos involucrados:** `src/data/guides.ts` (guía `atma-freidoras-de-aire-review`)
+
 ## 2026-08-05 — Cambiar la cantidad de productos de una guía a mitad de escritura dejó claims de ranking desactualizados
 
 **Qué pasó:** la guía `bicicleta-rodado-29` se escribió primero con 4 productos, pasó el trío auditor, y después Juan pidió que fuera de 6. Al sumar los 2 productos nuevos reescribí el ranking y los superlativos ("la más elegida", "la más liviana", "la más cara") pero no propagué el cambio a todas las capas: quedaron fichas en `curated-products.ts` diciendo "de las 4 bicicletas" o "la más barata" (cuando el producto nuevo pasó a serlo), un producto etiquetado "segunda más elegida" cuando en realidad pasó a ser la tercera en reseñas, y el `standfirst` de la guía siguió citando al producto viejo como "el más caro" cuando el nuevo pasó a costar más. El trío auditor (Codex) lo detectó en 2 pasadas separadas — la primera encontró 4 bloqueantes, la segunda encontró 1 residuo que se había escapado incluso después de la corrección grande.
