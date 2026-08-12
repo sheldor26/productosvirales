@@ -4,6 +4,80 @@
 > MercadoLibre, de la corrida semanal automática. Generador de ideas — no
 > toca el catálogo. Entradas nuevas arriba.
 
+## 2026-08-04
+
+### Freidora de aire (ML) [ml] (15 productos)
+
+- OFERTA IMPERDIBLE — $243.554
+- ![Freidora De Aire Sansei 1700 W 6l Negra](https://http2.mlstatic.com/D_Q_NP_2X_638213-MLA100001955679_112025-E.webp) — $133.099
+- ![Freidora De Aire Liliana Aaf966b Blanca 6l Blanco](https://http2.mlstatic.com/D_Q_NP_2X_922794-MLA99992359125_112025-E.webp) — $159.999
+- ![Freidora De Aire Kanji Home Kjhaf1501 6,5lts](https://http2.mlstatic.com/D_Q_NP_2X_752247-MLA99488784036_112025-E.webp) — $99.999
+- ![](https://http2.mlstatic.com/D_NQ_NP_997355-MLA70516180458_072023-A.webp) — $209.990
+- Llega gratis hoy — $346.479
+- China Internacional China Enviado por FULL — $108.999
+- ![Freidora De Aire Atma Fr248ap 1750w 8l Y Control Táctil](https://http2.mlstatic.com/D_Q_NP_2X_785037-MLA99555415684_122025-E.webp) — $185.999
+- Llega gratis mañana — $181.499
+- ![Freidora De Aire Daewoo Crystal XL Vidrio Daf1891 7lts Color Blanco](https://http2.mlstatic.com/D_Q_NP_2X_615836-MLA95639704224_102025-E.webp) — $363.075
+- ![Freidora De Aire Philips Phna23100 13 En 1 6.2 L Negra](https://http2.mlstatic.com/D_Q_NP_2X_698984-MLA99980259093_112025-E.webp) — $191.990
+- ![Freidora De Aire Philips Canasta Doble 9 Litros Phna35100 Negro](https://http2.mlstatic.com/D_Q_NP_2X_782990-MLA110565781079_042026-E.webp) — $252.805
+- Disponible en 2 colores — $143.355
+- ![200 Piezas Papeles Para Freidora De Aire Redondos](https://http2.mlstatic.com/D_Q_NP_2X_945062-CBT113060981947_062026-E.webp) — $11.180
+- ![Molde Redondo Silicona Para Freidora De Aire](https://http2.mlstatic.com/D_Q_NP_2X_787468-CBT111945776376_062026-E.webp) — $17.663
+
+### Aspiradora robot (ML) [ml] (15 productos)
+
+- Llega gratis hoy — $300.000
+- OFERTA IMPERDIBLE — $198.865
+- ![Aspiradora Robot Trapeadora Gadnic V51 4 Modos De Mapeo Negro](https://http2.mlstatic.com/D_Q_NP_2X_681869-MLA106101204335_012026-E.webp) — $678.749
+- ![Irobot Roomba 205 Combo Negro](https://http2.mlstatic.com/D_Q_NP_2X_885971-MLA104911412436_012026-E.webp) — $999.999
+- ![TP-LINK TAPO ASPIRADORA Y TRAPEADORA RV20 MAX PLUS 5300Pa](https://http2.mlstatic.com/D_Q_NP_2X_777217-MLA96905855908_112025-E.webp) — $550.000
+- ![Robot Aspirador Xiaomi Robot Vacuum H50 Bhr08gueu Blanco](https://http2.mlstatic.com/D_Q_NP_2X_779219-MLA110348183166_052026-E.webp) — $930.000
+- ![Robot Aspirador Xiaomi Vacuum H40 Bhr07xbeu Blanco](https://http2.mlstatic.com/D_Q_NP_2X_686132-MLA99453318576_112025-E.webp) — $702.724
+- Llega gratis mañana — $748.990
+- ![Robot Aspirador Xiaomi Robot Vacuum 5 Pro 20000pa Blanco Blanco](https://http2.mlstatic.com/D_Q_NP_2X_733590-MLA97275258972_112025-E.webp) — $1.992.999
+- ![Aspiradora Xiaomi Robot Vacuum X20 Pro D102GL Color Blanco](https://http2.mlstatic.com/D_Q_NP_2X_868948-MLA99945011905_112025-E.webp) — $1.388.999
+- ![Xiaomi Vacuum X20 Max | Aspiradora Smart | Color Negro](https://http2.mlstatic.com/D_Q_NP_2X_600741-MLA99995673079_112025-E.webp) — $1.742.999
+- ![De Repuestos Suono Para Aspiradora Robot Basic Color Negro](https://http2.mlstatic.com/D_Q_NP_2X_844835-MLA95958990485_102025-E.webp) — $21.449
+- ![Aspiradora Trapeadora Secadora 3 En 1 Inalámbrica Lulu Ma01 Ecowell](https://http2.mlstatic.com/D_Q_NP_2X_987005-MLA99487272296_112025-E.webp) — $506.835
+- ![Robot Aspirador Xiaomi Vacuum H50 Pro Blanco](https://http2.mlstatic.com/D_Q_NP_2X_697382-MLA110888161690_052026-E.webp) — $1.548.999
+- ![Robot Limpiacristales Ecovacs Winbot W2 Pro Omni Blanco](https://http2.mlstatic.com/D_Q_NP_2X_660326-MLA115404185275_072026-E.webp) — $1.650.000
+
+### Amazon Kitchen & Dining bestsellers [amazon] (15 productos)
+
+- Owala FreeSip Stainless Steel Water Bottle 24 oz Very, Very Dark — US$29.97
+- Bounty Paper Towels Quick Size, White, 16 Family Rolls = 40 Regular Rolls — US$43.49
+- Nespresso Capsules Vertuo, Variety Pack, Medium and Dark Roast Coffee, 30 Count Coffee Pods, Brews 7.8 oz. — US$42.00
+- Amazon Basics Everyday Disposable Paper Plates, 8.62 Inch, Microwave-Safe, Cut Resistant, Soak-Proof, 100 Count, Packaging May Vary — US$5.97
+- Bounty Select-A-Size Paper Towels, White, 2 Triple Rolls = 6 Regular Rolls — US$6.97
+- Scott Paper Towels, Choose-A-Sheet, 6 Double Rolls, 108 Sheets Per Roll — US$6.84
+- Dixie Medium Paper Plates, 8.5 Inch, 90 Count, 2X Stronger\*, Microwave-Safe, Soak-Proof, Cut Resistant, Disposable Plates For Everyday Breakfast, Lunch, & Dinner Meals — US$5.99
+- Amazon Basics 2-Ply Flex-Sheets Paper Towels, 12 Basics Rolls = 40 Regular Rolls, Everyday Value with 150 Sheets per Roll, Packaging May Vary — US$22.86
+- Lavazza Super Crema Whole Bean Coffee, Medium Espresso Roast, Arabica and Robusta Blend, 2.2 lb Bag, Package May Vary — US$26.99
+- Brawny Tear-A-Square 3-Ply Paper Towels, 6 Double Rolls = 12 Regular Rolls, Strong, Absorbent, and Durable with 3 Sheet Sizes — US$10.58
+- Sparkle Pick-A-Size Paper Towels, 6 Double Rolls — US$7.92
+- Bounty Paper Napkins, White, 200 Count, Packaging may vary — US$3.39
+- Nespresso Vertuo, Barista Flavored Pack, Medium Roast, 30-Count Coffee Pods | Capsules Pack of 1 Brews 7.77 Fl. oz. — US$42.00
+- Amazon Brand - Happy Belly Dark Roast Coffee Pods, Compatible with Keurig 2.0 K-Cup Brewers, 100 Count — US$33.81
+- Viva Signature Cloth Paper Towels, 3 Double Rolls, 86 Sheets per Roll — US$6.99
+
+### Amazon Home & Kitchen bestsellers [amazon] (15 productos)
+
+- Owala FreeSip Stainless Steel Water Bottle 24 oz Very, Very Dark — US$29.97
+- Amazon Basics Lightweight Super Soft, Wrinkle-Free, Breathable Luxury Microfiber 4 Piece Bed Sheet Set with 14-Inch Deep Pockets, Full, Dark Gray, Solid — US$14.95
+- Queen Size 4 Piece Sheet Set - Comfy Breathable & Cooling Sheets - White | Hotel Luxury Bed Sheets for Women & Men, Deep Pockets, Easy-Fit, Extra Soft and Wrinkle Free Sheets, Oeko-Tex Bed Sheet Set — US$24.99
+- Zevo Flying Insect Trap Refill Cartridges for Fruit Flies & Gnats, 4 Count | Fits Zevo MAX & Zevo Flying Insect Trap, Catches House Flies, Gnats & Fruit Flies 24/7, No Added Fragrance or Dyes — US$14.97
+- Amazon Basics Slim Velvet Non-Slip Space Saving Suit Clothes Hangers for Closet Organization, Black/Silver, 30-Pack — US$16.19
+- upsimples 11x14 Picture Frame, Wall Decor Photo Frames, Black 1 Pack | 11 x 14 Frame, 8x10 Frame with Mat for Gallery Wall, Family, Baby, Dog, Dorm, Christmas — US$6.99
+- Zevo Flying Insect Trap for Fruit Flies & Gnats, 1 Base & 1 Refills | Fly Trap Catches House Flies, Gnats & Fruit Flies 24/7, Spray-Free, Odor-Free, Blue & UV Light, Safe for Kids & Pets\* — US$19.98
+- Barossa Design Premium Shower Curtain Liner Standard Size, Clear | Oeko-tex Certified, Rustproof Grommets, 3 Bottom Magnets, Waterproof PEVA, Cute Lightweight Bathroom Curtain — US$8.95
+- Niagara Sleep Solution Ultra Soft & Cooling Mattress Topper - Queen Size | Rayon Derived from Bamboo, Pillow Top Mattress Pad, 20" Deep Pocket, Back Pain Relief, Perfect for Hot Sleepers, Green — US$39.99
+- BEDLORE Waterproof Mattress Protector, Queen Size Mattress Pad Noiseless | Deep Pockets Fit 6"-18" Mattresses, Soft Breathable Dirt-proof Bed Mattress Cover Washable for Home, Bedroom, Hotel — US$23.99
+- 6 Pack Extra Heavy Duty Large Moving Bags with Strong Zipper, Dark Blue | Comfortable Handles, Sturdy & Durable Clothes Storage Bags Totes Bins, Blue Packing Moving Boxes for College Supplies — US$26.99
+- BigFoot Clear Shower Curtain - 72x72 Odorless Plastic with Magnets, Washable Long Bathroom Curtain - Premium PEVA Waterproof Bath Curtain, Rust-Proof Bathroom Essentials — US$9.99
+- OLANLY Bathroom Rugs 30x20, Extra Soft Absorbent Chenille Bath Rugs | Grey, Quick-Drying Rubber Backing, Machine Washable Bath Mat for Bathroom Floor, Tub and Shower, Home Decor Accessories — US$9.37
+- Queen Sheets Set, 4 Pieces 16" Deep Pocket Hotel Luxury Bed Sheets, Grey | Extra Soft Bedsheet Set, Comfy & Breathable Cooling Sheets, Wrinkle & Fade Resistant, Fitted Sheet, Flat Sheet, 2 Pillowcases — US$16.99
+- PlayHot Portable Handheld Turbo Fan, Travel Essentials, Gifts for Women/Men | 5-Speed, Up to 12H, 10m/s Airflow, USB-C Rechargeable, LED Display, 3-in-1 Foldable Personal Fan for Cruise, Beach, Vacation — US$18.99
+
 ## 2026-07-08
 
 ### Freidora de aire (ML) [ml] (15 productos)
