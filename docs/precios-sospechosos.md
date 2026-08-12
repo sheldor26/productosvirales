@@ -6,6 +6,24 @@
 > chequearlos en MercadoLibre. Si son reales, avisar para aplicarlos a mano.
 > Entradas nuevas arriba.
 
+## 2026-08-12
+
+- **MLA8732921** — Auriculares Gamer Con Cable HyperX Cloud HX-HSCA Black y Red: $91.379 → $779.403 (+753%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA8732921
+  - Sitio: https://productosvirales.com.ar/producto/MLA8732921
+- **MLA1835535491** — Masajeador Facial Energy Golden Bar Electroestimulante: $24.999 → $65.500 (+162%)
+  - ML: https://articulo.mercadolibre.com.ar/MLA-1835535491-masajeador-anti-age-facial-reafirmante-con-vibracion-_JM
+  - Sitio: https://productosvirales.com.ar/producto/MLA1835535491
+- **MLA23437114** — Cafetera Nespresso Lattissima One blanca con leche integrada: $859.800 → $417.002 (-52%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA23437114
+  - Sitio: https://productosvirales.com.ar/producto/MLA23437114
+- **MLA69809119** — Zapateros Mueble Zapatos Organizador Zapatero De Metal Plateado De 8 Pisos: $59.999 → $19.999 (-67%)
+  - ML: https://www.mercadolibre.com.ar/zapateros-mueble-zapatos-organizador-zapatero-de-metal-plateado-de-8-pisos/p/MLA69809119
+  - Sitio: https://productosvirales.com.ar/producto/MLA69809119
+- **MLA17380375** — Ventilador De Techo Liliana Vthi513 Blanco Con 3 Palas Metal Diámetro 1.4 m: $219.429 → $105.990 (-52%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA17380375
+  - Sitio: https://productosvirales.com.ar/producto/MLA17380375
+
 ## 2026-08-10
 
 - **MLA16269737** — Auriculares Logitech G733 Inalámbricos Color Blanco: $213.911 → $470.079 (+120%)

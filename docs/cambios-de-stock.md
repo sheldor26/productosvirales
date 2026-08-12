@@ -7,6 +7,108 @@
 > 🔴 = se quedo sin stock (el link de afiliado apunta a una pagina pausada).
 > Entradas nuevas arriba.
 
+## 2026-08-12
+
+- 🟢 VOLVIO EL STOCK — **MLA16269737** Auriculares Logitech G733 Inalámbricos Color Blanco
+  - ML: https://www.mercadolibre.com.ar/p/MLA16269737
+  - Sitio: https://productosvirales.com.ar/producto/MLA16269737
+- 🟢 VOLVIO EL STOCK — **MLA8906508** Teclado Gamer Logitech G213 Prodigy Serie G
+  - ML: https://www.mercadolibre.com.ar/p/MLA8906508
+  - Sitio: https://productosvirales.com.ar/producto/MLA8906508
+- 🟢 VOLVIO EL STOCK — **MLA18651915** Auriculares Gamer Inalámbricos Logitech G G435 para PC y Consolas
+  - ML: https://www.mercadolibre.com.ar/p/MLA18651915
+  - Sitio: https://productosvirales.com.ar/producto/MLA18651915
+- 🟢 VOLVIO EL STOCK — **MLA57380272** Teclado Gamer Mecánico Aula F75 Switch Red Retroiluminado
+  - ML: https://www.mercadolibre.com.ar/p/MLA57380272
+  - Sitio: https://productosvirales.com.ar/producto/MLA57380272
+- 🟢 VOLVIO EL STOCK — **MLA3674559257** Mezclador De Ollas Gadnic Mixer 360° Salsas Automático
+  - ML: https://www.mercadolibre.com.ar/mezclador-de-ollas-gadnic-mixer-360-salsas-automatico/up/MLAU3674559257
+  - Sitio: https://productosvirales.com.ar/producto/MLA3674559257
+- 🟢 VOLVIO EL STOCK — **MLA1572699337** Fabricante De Helados,plancha Ice Cream Rolls Maker Machine
+  - ML: https://articulo.mercadolibre.com.ar/MLA-1572699337-fabricante-de-heladosplancha-ice-cream-rolls-maker-machine-_JM
+  - Sitio: https://productosvirales.com.ar/producto/MLA1572699337
+- 🟢 VOLVIO EL STOCK — **MLA886877609** Humidificador Portátil USB 220ml — Difusor Aromático Cápsula Blanca
+  - ML: https://articulo.mercadolibre.com.ar/MLA-886877609-humidificador-difusor-vaporizador-purificador-de-ambiente-_JM
+  - Sitio: https://productosvirales.com.ar/producto/MLA886877609
+- 🟢 VOLVIO EL STOCK — **MLA402624780** Sartén Doble Antiadherente Cincam 20cm — Para Tortillas Españolas
+  - ML: https://www.mercadolibre.com.ar/sarten-con-tapa-antiadherente-20cm/up/MLAU402624780
+  - Sitio: https://productosvirales.com.ar/producto/MLA402624780
+- 🟢 VOLVIO EL STOCK — **MLA6072318** Auriculares Sennheiser HD 280 Pro Black
+  - ML: https://www.mercadolibre.com.ar/p/MLA6072318
+  - Sitio: https://productosvirales.com.ar/producto/MLA6072318
+- 🟢 VOLVIO EL STOCK — **MLA841529901** Difusor Aromatizador Humidificador Tren Locomotora 300ml — Electroland
+  - ML: https://articulo.mercadolibre.com.ar/MLA-841529901-humificador-electrico-aromaterapia-luces-led-vapor-tren-_JM
+  - Sitio: https://productosvirales.com.ar/producto/MLA841529901
+- 🟢 VOLVIO EL STOCK — **MLA2466154786** Fabricante De Helados, Ice Cream Rolls Maker
+  - ML: https://articulo.mercadolibre.com.ar/MLA-2466154786-fabricante-de-helados-ice-cream-rolls-maker-_JM
+  - Sitio: https://productosvirales.com.ar/producto/MLA2466154786
+- 🟢 VOLVIO EL STOCK — **MLA1841302022** Masajeador Facial Energy Golden Bar Electroestimulante (reserva)
+  - ML: https://articulo.mercadolibre.com.ar/MLA-1841302022-masajeador-facial-energy-golden-bar-electroestimulante-_JM
+  - Sitio: https://productosvirales.com.ar/producto/MLA1841302022
+- 🟢 VOLVIO EL STOCK — **MLA42113760** Freidora De Aire Kanji Home 8 Litros +10 Funciones Canasta Antiadherente Kjh-1700dc 1700w Lh Color Negro
+  - ML: https://www.mercadolibre.com.ar/freidora-de-aire-kanji-home-8-litros-10-funciones-canasta-antiadherente-kjh-1700dc-1700w-lh-color-negro/p/MLA42113760
+  - Sitio: https://productosvirales.com.ar/producto/MLA42113760
+- 🟢 VOLVIO EL STOCK — **MLA53776810** Freidora Doble Piso Pe-afdl102n Capacidad 10 L Peabody Negro
+  - ML: https://www.mercadolibre.com.ar/freidora-doble-piso-pe-afdl102n-capacidad-10-l-peabody-negro/p/MLA53776810
+  - Sitio: https://productosvirales.com.ar/producto/MLA53776810
+- 🟢 VOLVIO EL STOCK — **MLA24526175** Freidora De Aire Philips Serie 5000 Conectada Hd9255/80 4.1l Negro
+  - ML: https://www.mercadolibre.com.ar/philips-serie-5000-airfryer-hd9255-80-negro/p/MLA24526175
+  - Sitio: https://productosvirales.com.ar/producto/MLA24526175
+- 🟢 VOLVIO EL STOCK — **MLA19769919** Afeitadora Remington R31a Rotativo Recargable Usb Color Negro
+  - ML: https://www.mercadolibre.com.ar/p/MLA19769919
+  - Sitio: https://productosvirales.com.ar/producto/MLA19769919
+- 🟢 VOLVIO EL STOCK — **MLA1835535491** Masajeador Facial Energy Golden Bar Electroestimulante
+  - ML: https://articulo.mercadolibre.com.ar/MLA-1835535491-masajeador-anti-age-facial-reafirmante-con-vibracion-_JM
+  - Sitio: https://productosvirales.com.ar/producto/MLA1835535491
+- 🟢 VOLVIO EL STOCK — **MLA27941233** Irobot Roomba Combo I5+ - Robot Aspirador Y Trapeador De Va. Color Tejido Neutro
+  - ML: https://www.mercadolibre.com.ar/irobot-roomba-combo-i5-robot-aspirador-y-trapeador-de-va-color-tejido-neutro/p/MLA27941233
+  - Sitio: https://productosvirales.com.ar/producto/MLA27941233
+- 🟢 VOLVIO EL STOCK — **MLA38252447** Balanza Xiaomi Mi Body Composition Scale S400 Bluetooth Medición de doble frecuencia 25 indicadores de salud hasta 150kg
+  - ML: https://www.mercadolibre.com.ar/xiaomi-mi-body-composition-scale-s400-pantalla-led-bluetooth-50-150-kg-escala-de-composicion-corporal-inteligente-para-el-hogar-funciona-con-la-aplicacion-mi-home/p/MLA45283782
+  - Sitio: https://productosvirales.com.ar/producto/MLA38252447
+- 🟢 VOLVIO EL STOCK — **MLA15086696** Joystick inalámbrico Redragon Harrow G808 negro
+  - ML: https://www.mercadolibre.com.ar/p/MLA15086696
+  - Sitio: https://productosvirales.com.ar/producto/MLA15086696
+- 🟢 VOLVIO EL STOCK — **MLA43960787** Monitor Gamer Curvo Xiaomi G34WQi 34 UWQHD 180Hz
+  - ML: https://www.mercadolibre.com.ar/p/MLA43960787
+  - Sitio: https://productosvirales.com.ar/producto/MLA43960787
+- 🟢 VOLVIO EL STOCK — **MLA23437114** Cafetera Nespresso Lattissima One blanca con leche integrada
+  - ML: https://www.mercadolibre.com.ar/p/MLA23437114
+  - Sitio: https://productosvirales.com.ar/producto/MLA23437114
+- 🟢 VOLVIO EL STOCK — **MLA29654829** Cafetera Nespresso Citiz & Milk Platinum con espumador
+  - ML: https://www.mercadolibre.com.ar/p/MLA29654829
+  - Sitio: https://productosvirales.com.ar/producto/MLA29654829
+- 🟢 VOLVIO EL STOCK — **MLA22138728** Secador pelo daewoo 2100w frio calor con difusor dhd7007 negro
+  - ML: https://www.mercadolibre.com.ar/p/MLA22138728
+  - Sitio: https://productosvirales.com.ar/producto/MLA22138728
+- 🟢 VOLVIO EL STOCK — **MLA56253561** Plancha Parrilla Grill Eléctrica Doble Novohome Placas Antiadherente De Cerámica Tapa Prensa Sandwichera Panini Apertura 180
+  - ML: https://www.mercadolibre.com.ar/plancha-parrilla-grill-electrica-doble-novohome-placas-antiadherente-de-ceramica-tapa-prensa-sandwichera-panini-apertura-180/p/MLA56253561
+  - Sitio: https://productosvirales.com.ar/producto/MLA56253561
+- 🟢 VOLVIO EL STOCK — **MLA3446177644** Huevera Doble Organizador Heladera Cajones Deslizante X24
+  - ML: https://www.mercadolibre.com.ar/huevera-doble-organizador-heladera-cajones-deslizante-x24/up/MLAU3446177644
+  - Sitio: https://productosvirales.com.ar/producto/MLA3446177644
+- 🟢 VOLVIO EL STOCK — **MLA24556041** Pava Eléctrica Telefunken Pe800 Jarra Vidrio 1.8lt Mate Cafe
+  - ML: https://www.mercadolibre.com.ar/pava-electrica-telefunken-pe800-jarra-vidrio-18lt-mate-cafe-color-transparentenegroplateado/p/MLA24556041
+  - Sitio: https://productosvirales.com.ar/producto/MLA24556041
+- 🟢 VOLVIO EL STOCK — **MLA27342886** Maverick Humidificador de Ambiente VP-3 4 Litros Blanco
+  - ML: https://www.mercadolibre.com.ar/p/MLA27342886
+  - Sitio: https://productosvirales.com.ar/producto/MLA27342886
+- 🟢 VOLVIO EL STOCK — **MLA31178643** Lattafa Khamrah Qahwa EDP 100ml Unisex
+  - ML: https://www.mercadolibre.com.ar/perfume-lattafa-khamrah-qahwa-edp-100ml/p/MLA31178643
+  - Sitio: https://productosvirales.com.ar/producto/MLA31178643
+- 🟢 VOLVIO EL STOCK — **MLA15183460** Aire acondicionado RCA portátil frío/calor 3200 frigorías blanco AAPR12XP
+  - ML: https://www.mercadolibre.com.ar/p/MLA15183460
+  - Sitio: https://productosvirales.com.ar/producto/MLA15183460
+- 🟢 VOLVIO EL STOCK — **MLAU3991939658** Álbum Oficial Panini + 25 Sobres Figuritas Copa Mundial 2026
+  - ML: https://www.mercadolibre.com.ar/album-oficial-panini--25-sobres-figuritas-copa-mundial-2026/up/MLAU3991939658
+  - Sitio: https://productosvirales.com.ar/producto/MLAU3991939658
+- 🟢 VOLVIO EL STOCK — **MLA19788587** Ultracomb Pe4910 Pava Electrica Con Infusor De Te Func. Mate
+  - ML: https://www.mercadolibre.com.ar/ultracomb-pe4910-pava-electrica-con-infusor-de-te-func-mate/p/MLA19788587
+  - Sitio: https://productosvirales.com.ar/producto/MLA19788587
+- 🟢 VOLVIO EL STOCK — **MLA74108173** Grand Theft Auto VI GTA VI Caja Física con Código de Descarga para PS5
+  - ML: https://www.mercadolibre.com.ar/grand-theft-auto-vi-gta-vi-caja-fisica-con-codigo-de-descarga-para-ps5/p/MLA74108173
+  - Sitio: https://productosvirales.com.ar/producto/MLA74108173
+
 ## 2026-08-10
 
 - 🟢 VOLVIO EL STOCK — **MLA16269737** Auriculares Logitech G733 Inalámbricos Color Blanco
