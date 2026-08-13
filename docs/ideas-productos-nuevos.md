@@ -4,6 +4,30 @@
 > MercadoLibre, de la corrida semanal automática. Generador de ideas — no
 > toca el catálogo. Entradas nuevas arriba.
 
+## 2026-08-13
+
+### Sombrilla de jardin (ML) [ml] (15 productos)
+
+- ![Sombrilla Jardin Piscina Luces Led Panel Solar Proteccion Uv](https://http2.mlstatic.com/D_Q_NP_2X_953717-MLA100473904620_122025-E.webp) — $239.270
+- ![Base De Sombrilla 20kg Ø 42mm - Marrón Marrón](https://http2.mlstatic.com/D_Q_NP_2X_776766-MLA108859289490_032026-E.webp) — $33.100
+- ![Sombrilla Gigante Para Pesca Redfish Vinilo Alta Gama 2.6mts](https://http2.mlstatic.com/D_Q_NP_2X_718141-MLA113889541530_072026-E.webp) — $134.990
+- Llega gratis mañana — $145.990
+- ![Sombrilla Colgante 3 Mts Diam Jardin Piscina](https://http2.mlstatic.com/D_Q_NP_2X_851163-MLA114424154890_082026-E.webp) — $240.000
+- ![Paraguas Plegable Automático Portátil A Prueba De Viento](https://http2.mlstatic.com/D_Q_NP_2X_943495-CBT108204606843_032026-E.webp) — $22.861
+- ![Repuesto Conector Central Sombrilla Lateral](https://http2.mlstatic.com/D_Q_NP_2X_958038-MLA115724641497_082026-E.webp) — $24.550
+- ![Sombrilla Parasol Recta Waggs 3m Protección Uv Jardín Tejado](https://http2.mlstatic.com/D_Q_NP_2X_846925-MLA99478385460_112025-E.webp) — $193.532
+- ![Sombrilla Central Jardin 2,5 M Inclinable Home World Color Natural](https://http2.mlstatic.com/D_Q_NP_2X_629974-MLA97807163208_112025-E.webp) — $128.999
+- Disponible en 2 colores — $56.404
+- ![Funda Sombrilla Recta Con Manivela Impermeable - Con Cierre](https://http2.mlstatic.com/D_Q_NP_2X_650249-MLA108957673448_032026-E.webp) — $57.230
+- OFERTA IMPERDIBLE — $399.000
+- Disponible en 9 colores9 — $51.051
+- ![Gancho Cuádruple Para Sombrilla De Playa X2](https://http2.mlstatic.com/D_Q_NP_2X_991687-CBT115909920955_082026-E.webp) — $12.508
+- China Internacional China Enviado por FULL — $19.999
+
+### Sombrilla de playa (ML) [ml] (0 productos)
+
+_No se pudo extraer nada esta vez — revisar el parser._
+
 ## 2026-07-08
 
 ### Freidora de aire (ML) [ml] (15 productos)
