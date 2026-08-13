@@ -49,4 +49,24 @@ export const socialPosts: SocialPost[] = [
     offPct: "30",
     postedAt: "2026-08-13T12:21:36-03:00",
   },
+  {
+    title: "Impresora Multifuncional HP Smart Tank 580",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_912590-MLA114382596649_072026-O.webp",
+    affiliateUrl: "https://meli.la/2dEcZm3",
+    newPrice: "420.421",
+    oldPrice: "770.000",
+    offPct: "45",
+    postedAt: "2026-08-13T14:54:59-03:00",
+  },
+  {
+    title: "Silla Gamer Alpina Ergonómica",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_665062-MLA100000173305_112025-O.webp",
+    affiliateUrl: "https://meli.la/1PZmsVB",
+    newPrice: "147.052",
+    oldPrice: "250.000",
+    offPct: "41",
+    postedAt: "2026-08-13T14:54:59-03:00",
+  },
 ];
