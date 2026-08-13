@@ -404,3 +404,19 @@ export interface SocialPost {
   offPct: string;
   postedAt: string; // ISO 8601
 }
+
+/**
+ * Cupón real de MercadoLibre vigente por tiempo limitado, para /enlaces
+ * (Juan lo recibe directo de ML, nunca inventado). Se cruza contra el
+ * precio de cada SocialPost: si `newPrice >= minPurchase` y todavía no
+ * pasó `validUntil`, se muestra un badge al lado de ese producto — nunca
+ * se fuerza ni se combina para que "entre". Nombre distinto del `Coupon`
+ * de arriba (cupón embebido en una ficha de producto) para no pisarlo:
+ * son dos conceptos distintos con la misma palabra.
+ */
+export interface ActiveCoupon {
+  code: string;
+  discountAmount: number;
+  minPurchase: number;
+  validUntil: string; // ISO 8601
+}

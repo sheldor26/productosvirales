@@ -3,7 +3,8 @@ import Image from "next/image";
 import { baseOpenGraph } from "@/lib/site-og";
 import { AffiliateLink } from "@/components/affiliate/AffiliateLink";
 import { socialPosts } from "@/data/social-posts";
-import type { SocialPost } from "@/lib/types";
+import { activeCoupons } from "@/data/active-coupons";
+import type { SocialPost, ActiveCoupon } from "@/lib/types";
 
 // Página pensada como bio-link para Threads/X/Instagram: quien la abre viene
 // de un celular, casi siempre. No hay build-time caching de la lista de
@@ -58,7 +59,26 @@ function timeAgoLabel(isoDate: string): string {
   return `Hace ${days} ${days === 1 ? "día" : "días"}`;
 }
 
+// "339.499" -> 339499. Los precios se guardan como texto ya formateado
+// para mostrar (con puntos de miles), acá se necesita el número real
+// para compararlo contra la compra mínima del cupón.
+function parsePrice(formatted: string): number {
+  return Number(formatted.replace(/\./g, ""));
+}
+
+// Nunca fuerza ni combina productos para que un cupón "entre": solo se
+// muestra cuando ESE producto solo ya supera la compra mínima, y el
+// cupón todavía no venció.
+function findApplicableCoupon(post: SocialPost): ActiveCoupon | undefined {
+  const price = parsePrice(post.newPrice);
+  const now = Date.now();
+  return activeCoupons.find(
+    (coupon) => price >= coupon.minPurchase && new Date(coupon.validUntil).getTime() > now
+  );
+}
+
 function ProductCard({ post, stale }: { post: SocialPost; stale: boolean }) {
+  const coupon = findApplicableCoupon(post);
   return (
     <AffiliateLink
       href={post.affiliateUrl}
@@ -97,6 +117,11 @@ function ProductCard({ post, stale }: { post: SocialPost; stale: boolean }) {
             -{post.offPct}%
           </span>
         </div>
+        {coupon && (
+          <p className="text-[11px] font-bold text-[var(--color-trending-up)] mt-1">
+            🎫 Cupón {coupon.code}: ${coupon.discountAmount.toLocaleString("es-AR")} OFF extra
+          </p>
+        )}
         {stale && (
           <p className="text-[11px] text-[var(--text-muted)] mt-1">
             El precio puede haber cambiado desde que se posteó.
