@@ -1,4 +1,24 @@
 #!/usr/bin/env node
+// ⚠️ OJO ANTES DE TOCAR EL PARSER DE ML (2026-08-13)
+//
+// Si el reporte sale con 0 productos de ML, o con entradas basura tipo
+// "Llega gratis mañana — $145.990", el problema NO es este parser.
+//
+// Lo verificado el 2026-08-13 guardando el markdown crudo como artifact
+// (paso "Subir los markdown crudos" del workflow): para
+// listado.mercadolibre.com.ar Bright Data devuelve 182 lineas que son SOLO el
+// encabezado del sitio (menu de accesibilidad, atajos de teclado, carrito).
+// Cero productos, un solo precio en toda la pagina. El listado de ML se arma
+// por JavaScript y el Web Unlocker con data_format markdown no espera ese
+// render.
+//
+// O sea: la pagina llega vacia de productos y no hay nada que parsear. Se
+// perdio una tarde arreglando el parser antes de mirar la salida real.
+//
+// El "Scraper puntual Bright Data (URLs a mano)" SI funciona porque usa el
+// dataset de productos de ML, no el Web Unlocker generico. Si hace falta
+// descubrir productos de un listado, la via es esa API, no esta.
+//
 
 /**
  * Arma docs/ideas-productos-nuevos.md a partir de paginas de categoria/
