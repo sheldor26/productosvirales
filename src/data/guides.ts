@@ -24799,6 +24799,114 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { label: `Pileta inflable para chicos: cuál comprar`, href: `/guias/pileta-inflable-ninos` },
     ],
   },
+  // Guía nueva sombrilla-de-playa — silo de verano
+  {
+    slug: "sombrilla-de-playa",
+    category: "sombrillas",
+    silo: "hogar-jardin",
+    title: `Sombrilla de playa: cuál comprar en Argentina [2026]`,
+    seoTitle: `Sombrilla de Playa: Cuál Comprar en Argentina [2026]`,
+    metaDescription: `Comparamos 5 sombrillas reales de MercadoLibre por diámetro, peso y estructura. Cuál aguanta viento de verdad y cuál conviene solo para el patio.`,
+    ogTitle: `Sombrilla de playa: cuál comprar en Argentina`,
+    ogDescription: `De $11.000 a $30.000: cinco sombrillas comparadas por diámetro, peso y material, con lo que dicen las reseñas reales sobre el viento.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_718153-MLA99466585830_112025-O.webp`,
+    h1: `Sombrilla de playa: cuál comprar en Argentina y cuál aguanta viento [2026]`,
+    directAnswer: `Para la mayoría conviene la **[MTL MR1001](/producto/sombrilla-playa-mtl-azul-ajustable-proteccion-uv-aluminio-resistent-mla54103750)** (alrededor de {{precio:MLA54103750:k}}): es la mejor calificada de esta comparativa y su estructura de aluminio no se oxida con la arena. Si querés más sombra, la [Proline de 200 cm](/producto/sombrilla-resforzada-reclinable-de-playa-200cm-proline-mla59668073). Para gastar lo mínimo, la [Virke Ibiza](/producto/sombrilla-playa-reforzada-acero-180cm-color-verde-y-azul-virke-ibiza-mla44069333) de {{precio:MLA44069333:k}}. **Ninguna de estas cinco es para viento fuerte:** son sombrillas de playa tranquila o de patio.`,
+    publishedDate: "2026-10-05",
+    updatedDate: "2026-10-05",
+    sitemapLastmod: "2026-10-05",
+    hasDisclosure: true,
+    readingTime: 7,
+    standfirst: `Una sombrilla de playa en MercadoLibre va de {{precio:MLA44069333:k}} a {{precio:MLA63613007:k}}, y el precio no ordena la calidad: la más cara de esta comparativa es la peor calificada. Comparamos cinco por diámetro, peso y material, con lo que dicen las reseñas reales sobre lo único que importa en la costa, que es el viento.`,
+    quickPicks: [
+      { productMlaId: "MLA54103750", label: "La mejor calificada", labelColor: "green", tagline: "MTL MR1001: aluminio que no se oxida, la mejor puntuada de la comparativa" },
+      { productMlaId: "MLA59668073", label: "Más sombra", labelColor: "blue", tagline: "Proline 200 cm: 2 metros y solo 1,14 kg, reclinable" },
+      { productMlaId: "MLA44069333", label: "La más barata", labelColor: "slate", tagline: "Virke Ibiza: 900 gramos y aluminio al precio más bajo" },
+      { productMlaId: "MLA62981988", label: "La única articulada", labelColor: "purple", tagline: "Groen Ibiza: se inclina sin mover el poste, ideal para patio" },
+    ],
+    intro: [
+      `Buscando sombrillas en MercadoLibre aparece un patrón que conviene decir de entrada: **en esta franja de precio ninguna aguanta viento fuerte**. Las reseñas reales de los cinco modelos que comparamos lo repiten con distintas palabras, desde "un poco frágil para la playa pero para el patio me funciona" hasta advertencias más duras.`,
+      `Eso no las vuelve una mala compra, pero cambia para qué sirven: sombra en una playa tranquila, en el patio o en el camping. Con esa expectativa, lo que decide es el **diámetro** (cuánta sombra), el **peso** (si la vas a cargar) y el **material de la estructura**, porque el aluminio no se oxida y el acero sí.`,
+    ],
+    sections: [
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, la **[MTL MR1001](/producto/sombrilla-playa-mtl-azul-ajustable-proteccion-uv-aluminio-resistent-mla54103750)**: la mejor calificada y con estructura de aluminio. Más sombra, la [Proline 200 cm](/producto/sombrilla-resforzada-reclinable-de-playa-200cm-proline-mla59668073). Lo mínimo, la [Virke Ibiza](/producto/sombrilla-playa-reforzada-acero-180cm-color-verde-y-azul-virke-ibiza-mla44069333). Para patio, la [Groen articulada](/producto/sombrilla-articulada-groen-ibiza-playa-jardin-reclinable-15m-rayas-mla62981988). Ninguna es para viento fuerte.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** tomamos sombrillas con stock real en MercadoLibre Argentina y verificamos diámetro, peso, altura y material contra cada ficha. Leímos las opiniones verificadas de las cinco y las citamos textuales, incluso cuando son malas: en este producto la diferencia entre una compra buena y una mala está en lo que los compradores cuentan sobre el viento, no en la ficha técnica.` },
+
+      { type: "h2", title: `Lo que ninguna ficha te dice sobre el viento`, id: "viento" },
+      { type: "p", content: `El dato que más importa en una sombrilla de playa no está en ninguna especificación: cuánto aguanta antes de darse vuelta. Las fichas hablan de protección UV y de diámetro, pero el problema real en la costa argentina es el viento de la tarde.` },
+      { type: "p", content: `Leyendo las opiniones verificadas de las cinco sombrillas aparece la misma idea una y otra vez. Son livianas, cumplen para dar sombra, y no están pensadas para ráfagas. Si vas a una playa ventosa, ninguna de esta comparativa es la respuesta: ahí hace falta otra categoría de producto, con anclaje a rosca y varillas reforzadas, bastante más cara.` },
+      { type: "list", boxed: true, items: [
+        `**Enterrar bien el poste** es más importante que la sombrilla: 30 cm de arena húmeda, no 10 de arena seca.`,
+        `**Cerrarla si te vas del lugar**, aunque sea un rato. La mayoría de las roturas pasan con la sombrilla abierta y sin nadie.`,
+        `**El aluminio no se oxida**; el acero sí, y en la playa la combinación de sal y arena acelera todo.`,
+      ] },
+
+      { type: "h2", title: `Las 5 sombrillas comparadas`, id: "ranking" },
+
+      { type: "h3", title: `1. MTL MR1001: la mejor calificada`, bigNumber: true },
+      { type: "product-card", productMlaId: "MLA54103750", label: "La mejor calificada", labelColor: "green", ranking: 1, description: `1,34 metros de diámetro con estructura de aluminio y protección UV. La mejor puntuada de esta comparativa, con la ventaja de un material que no se oxida.` },
+      { type: "p", content: `La [MTL MR1001](/producto/sombrilla-playa-mtl-azul-ajustable-proteccion-uv-aluminio-resistent-mla54103750) es la que mejor puntaje tiene de las cinco, y su diferencia concreta es el aluminio: en la playa, donde hay sal y arena, una estructura que no se oxida dura varias temporadas más que una de acero. Con 2 kg y 1,8 metros de altura es cómoda de llevar y de armar.` },
+      { type: "p", content: `Sus 1,34 metros de diámetro son de los más chicos de la comparativa: da sombra para una o dos personas sentadas, no para un grupo. Y las reseñas, aun siendo las mejores del grupo, no la sobrevaloran.` },
+      { type: "pull-quote", content: `"Es una sombrilla liviana, cumple la función para la que se compró."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `2. Proline 200 cm: la que más sombra da por peso`, bigNumber: true },
+      { type: "product-card", productMlaId: "MLA59668073", label: "Más sombra", labelColor: "blue", ranking: 2, description: `2 metros de diámetro con solo 1,14 kg, reclinable y con altura regulable. La mejor relación entre tamaño y peso de esta comparativa.` },
+      { type: "p", content: `La [Proline de 200 cm](/producto/sombrilla-resforzada-reclinable-de-playa-200cm-proline-mla59668073) resuelve algo que las chicas no: dos metros de sombra cargando poco más de un kilo. Además se reclina, que a media tarde es la diferencia entre seguir a la sombra o tener que mover todo de lugar.` },
+      { type: "pull-quote", content: `"Livianita, te hace zafar, pero no sé si la banca mucho. Perfecta para el precio-calidad."`, attribution: `Opinión verificada en MercadoLibre` },
+      { type: "p", content: `Esa reseña la define mejor que cualquier ficha. Otro comprador es igual de claro: "un poco frágil para la playa pero para el patio me funciona". Es una buena compra si sabés que estás comprando sombra liviana, no una estructura para el viento.` },
+
+      { type: "h3", title: `3. Virke Ibiza: la más barata y la más liviana`, bigNumber: true },
+      { type: "product-card", productMlaId: "MLA44069333", label: "La más barata", labelColor: "slate", ranking: 3, description: `1,5 metros, 900 gramos y estructura de aluminio con tela impermeable. La más barata de la comparativa sin resignar el material.` },
+      { type: "p", content: `La [Virke Ibiza](/producto/sombrilla-playa-reforzada-acero-180cm-color-verde-y-azul-virke-ibiza-mla44069333) es la más barata de las cinco y pesa 900 gramos, menos que un litro de agua. Lo llamativo a este precio es que mantiene la estructura de aluminio y declara tela impermeable, dos cosas que suelen ser lo primero que se recorta en la gama de entrada.` },
+      { type: "p", content: `Con 1,5 metros de diámetro alcanza para dos personas sentadas. Es la que menos reseñas acumuladas tiene entre las que superan las 4 estrellas, así que hay algo menos de experiencia para contrastar que en las Proline.` },
+
+      { type: "h3", title: `4. Groen Ibiza: la única que se articula`, bigNumber: true },
+      { type: "product-card", productMlaId: "MLA62981988", label: "La única articulada", labelColor: "purple", ranking: 4, description: `1,5 metros con brazo articulado: la sombra se inclina sin desclavar el poste. Pensada más para patio que para arena.` },
+      { type: "p", content: `La [Groen Ibiza](/producto/sombrilla-articulada-groen-ibiza-playa-jardin-reclinable-15m-rayas-mla62981988) es la única articulada de esta comparativa. El brazo se dobla, así que podés seguir el sol sin mover el poste, algo que en un patio con base fija es la diferencia entre usarla y renegar.` },
+      { type: "p", content: `Es también la de puntaje más bajo entre las que recomendamos y la que menos reseñas tiene, apenas 29. Sus compradores la ubican sin adornos.` },
+      { type: "pull-quote", content: `"La uso en casa, por el precio muy buena."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `5. Freewind 2,4 m: la más grande, y la que menos recomendamos`, bigNumber: true },
+      { type: "product-card", productMlaId: "MLA63613007", label: "Con reparos", labelColor: "slate", ranking: 5, description: `2,4 metros de diámetro, la más grande de la comparativa. También la más cara y la peor calificada: sus reseñas advierten sobre la estructura.` },
+      { type: "bad", content: `**Por qué va última pese a ser la más grande.** Es la peor calificada de las cinco y la más cara. Sus opiniones verificadas coinciden en el mismo punto, y son textuales: *"No sirve para la playa. Se da vuelta. La estructura es súper débil."* y *"Es una sombrilla que no sirve para la playa. No resiste el viento."* La incluimos porque es la única de 2,4 metros que encontramos con stock, pero no la recomendamos para la costa.` },
+      { type: "p", content: `Si te importa el tamaño por encima de todo y el destino es un patio protegido, [la ficha completa está acá](/producto/sombrilla-playera-playa-jardin-grande-24-mts-filtro-uv-color-rojo-lisa-mla63613007). Para playa, cualquiera de las cuatro anteriores es una compra más segura por menos plata.` },
+
+      { type: "h2", title: `Tabla comparativa`, id: "tabla" },
+      { type: "table",
+        headers: ["Modelo", "Diámetro", "Peso", "Estructura", "Reclinable", "Precio", "Ideal para"],
+        rows: [
+          ["[MTL MR1001](/producto/sombrilla-playa-mtl-azul-ajustable-proteccion-uv-aluminio-resistent-mla54103750)", "1,34 m", "2 kg", "Aluminio", "No", "{{precio:MLA54103750}}", "La compra más segura"],
+          ["[Proline 200 cm](/producto/sombrilla-resforzada-reclinable-de-playa-200cm-proline-mla59668073)", "2 m", "1,14 kg", "Acero", "Sí", "{{precio:MLA59668073}}", "Más sombra sin peso"],
+          ["[Virke Ibiza](/producto/sombrilla-playa-reforzada-acero-180cm-color-verde-y-azul-virke-ibiza-mla44069333)", "1,5 m", "900 g", "Aluminio", "No", "{{precio:MLA44069333}}", "Presupuesto mínimo"],
+          ["[Groen Ibiza](/producto/sombrilla-articulada-groen-ibiza-playa-jardin-reclinable-15m-rayas-mla62981988)", "1,5 m", "2,5 kg", "Acero", "Sí", "{{precio:MLA62981988}}", "Patio con base fija"],
+          ["[Freewind 2,4 m](/producto/sombrilla-playera-playa-jardin-grande-24-mts-filtro-uv-color-rojo-lisa-mla63613007)", "2,4 m", "3 kg", "Acero", "No", "{{precio:MLA63613007}}", "Solo patio protegido"],
+        ] },
+
+      { type: "h2", title: `Cómo elegir la tuya`, id: "como-elegir" },
+      { type: "h3", title: `Aluminio o acero` },
+      { type: "p", content: `El aluminio no se oxida y pesa menos; el acero es más rígido pero en la playa la sal lo castiga. De esta comparativa, la [MTL](/producto/sombrilla-playa-mtl-azul-ajustable-proteccion-uv-aluminio-resistent-mla54103750) y la [Virke](/producto/sombrilla-playa-reforzada-acero-180cm-color-verde-y-azul-virke-ibiza-mla44069333) son de aluminio. Si la sombrilla va a vivir en el patio, el acero no es problema.` },
+      { type: "h3", title: `Cuánta sombra necesitás` },
+      { type: "p", content: `Un diámetro de 1,5 metros cubre a dos personas sentadas. Dos metros ya dan para una reposera y algo de espacio alrededor. La diferencia entre 1,34 y 2 metros se nota mucho más de lo que sugiere el número.` },
+      { type: "h3", title: `Si la vas a cargar, mirá el peso` },
+      { type: "p", content: `Entre 900 gramos y 3 kg hay una diferencia real cuando además llevás reposeras, conservadora y bolso. La [Virke](/producto/sombrilla-playa-reforzada-acero-180cm-color-verde-y-azul-virke-ibiza-mla44069333) con 900 g y la [Proline](/producto/sombrilla-resforzada-reclinable-de-playa-200cm-proline-mla59668073) con 1,14 kg son las dos más cómodas de trasladar.` },
+
+      { type: "verdict", title: `El veredicto`, content: `Para la mayoría, la **[MTL MR1001](/producto/sombrilla-playa-mtl-azul-ajustable-proteccion-uv-aluminio-resistent-mla54103750)**: la mejor calificada de la comparativa y con estructura de aluminio, que en la playa es lo que hace que dure. Si querés más sombra sin cargar peso, la [Proline de 200 cm](/producto/sombrilla-resforzada-reclinable-de-playa-200cm-proline-mla59668073), sabiendo que sus propias reseñas la describen como liviana y frágil ante el viento. Para gastar lo mínimo, la [Virke Ibiza](/producto/sombrilla-playa-reforzada-acero-180cm-color-verde-y-azul-virke-ibiza-mla44069333). Para un patio con base fija, la [Groen articulada](/producto/sombrilla-articulada-groen-ibiza-playa-jardin-reclinable-15m-rayas-mla62981988). Y una advertencia que vale más que cualquier recomendación: en esta franja de precio ninguna aguanta viento fuerte, así que si tu playa es ventosa, conviene subir de categoría antes que elegir entre estas.` },
+
+      { type: "h2", title: `Preguntas frecuentes`, id: "faq" },
+    ],
+    faq: [
+      { question: `¿Qué sombrilla de playa aguanta el viento?`, answer: `Ninguna de esta comparativa, y conviene saberlo antes de comprar. Las cinco están en la franja de $11.000 a $30.000 y sus opiniones verificadas coinciden en que son livianas y que no resisten ráfagas. Para viento real hace falta otra categoría, con anclaje a rosca y varillas reforzadas, bastante más cara.` },
+      { question: `¿Conviene aluminio o acero en una sombrilla de playa?`, answer: `Aluminio, si va a la playa. No se oxida con la sal y la humedad, y pesa menos. El acero es más rígido pero en la costa se deteriora antes. Si la sombrilla va a quedar en un patio, el acero no representa un problema.` },
+      { question: `¿Qué diámetro de sombrilla necesito?`, answer: `Con 1,5 metros cubrís a dos personas sentadas. Con 2 metros entra una reposera con espacio alrededor. En esta comparativa el rango va de 1,34 a 2,4 metros, y la diferencia se siente bastante más de lo que sugiere el número.` },
+      { question: `¿Cuánto sale una sombrilla de playa en Argentina?`, answer: `En esta comparativa van de {{precio:MLA44069333:k}} la más barata a {{precio:MLA63613007:k}} la más grande. Ojo: el precio no ordena la calidad, porque la más cara de las cinco es también la peor calificada por los compradores.` },
+      { question: `¿Cómo evito que se vuele la sombrilla?`, answer: `Enterrá el poste al menos 30 centímetros en arena húmeda, no en la seca de la superficie. Inclinala contra el viento en vez de dejarla vertical, y cerrala siempre que te vayas del lugar, aunque sea un rato: la mayoría de las roturas pasan con la sombrilla abierta y sin nadie cerca.` },
+    ],
+    internalLinks: [
+      { label: `Pileta Pelopincho: cuál comprar en Argentina`, href: `/guias/pileta-pelopincho` },
+      { label: `Colchón inflable 2 plazas: cuál comprar`, href: `/guias/colchon-inflable-2-plazas` },
+    ],
+  },
 ];
 
 /**
