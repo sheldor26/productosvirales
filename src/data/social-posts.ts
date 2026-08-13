@@ -77,7 +77,7 @@ export const socialPosts: SocialPost[] = [
     newPrice: "185.149",
     oldPrice: "399.699",
     offPct: "53",
-    postedAt: "2026-08-13T16:02:43-03:00",
+    postedAt: "2026-08-13T16:38:17-03:00",
   },
   {
     title: "Masajeador Cervical Eléctrico Portatil Femmto",
@@ -87,6 +87,6 @@ export const socialPosts: SocialPost[] = [
     newPrice: "41.999",
     oldPrice: "100.000",
     offPct: "58",
-    postedAt: "2026-08-13T16:02:43-03:00",
+    postedAt: "2026-08-13T16:38:17-03:00",
   },
 ];
