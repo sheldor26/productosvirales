@@ -1,0 +1,50 @@
+name: Diagnostico Bright Data (que datasets hay)
+
+# Lista lo que la cuenta de Bright Data tiene disponible. Existe porque el
+# token vive solo como secret de GitHub: desde la maquina no se puede consultar
+# la cuenta, y sin saber que datasets hay no se puede armar un workflow de
+# busqueda sin adivinar.
+#
+# Contexto (2026-08-13): el collector de producto (c_mrbcvyc91n9lmqv6dt) que
+# usa el "Scraper puntual" recibe URLs de producto y funciona bien, pero con una
+# URL de listado devuelve un dataset vacio. Para descubrir productos por termino
+# hace falta otra cosa: o un collector de busqueda, o un dataset v3 que soporte
+# discover_new por keyword. Este workflow contesta cual de las dos hay.
+#
+# No escribe nada en el repo: solo imprime en el log.
+
+on:
+  workflow_dispatch: {}
+
+jobs:
+  diagnostico:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Consultar la cuenta
+        env:
+          TOKEN: ${{ secrets.BRIGHTDATA_API_TOKEN }}
+        run: |
+          set +e
+
+          echo "═══ 1. Collectors de la API DCA (la que usa el scraper puntual) ═══"
+          curl -s -m 45 "https://api.brightdata.com/dca/get_collectors" \
+            -H "Authorization: Bearer $TOKEN" | head -c 3000
+          echo; echo
+
+          echo "═══ 2. Datasets v3 disponibles ═══"
+          curl -s -m 45 "https://api.brightdata.com/datasets/v3/datasets" \
+            -H "Authorization: Bearer $TOKEN" | head -c 3000
+          echo; echo
+
+          echo "═══ 3. Datasets del catalogo (filtrando MercadoLibre) ═══"
+          curl -s -m 45 "https://api.brightdata.com/datasets/list" \
+            -H "Authorization: Bearer $TOKEN" > /tmp/list.json
+          head -c 200 /tmp/list.json; echo
+          echo "-- coincidencias con mercado/meli --"
+          grep -io '[^,{}]*mercado[^,{}]*' /tmp/list.json | head -20
+          echo
+
+          echo "═══ 4. Zonas activas (para saber que producto esta contratado) ═══"
+          curl -s -m 45 "https://api.brightdata.com/zone/get_active_zones" \
+            -H "Authorization: Bearer $TOKEN" | head -c 1500
+          echo
