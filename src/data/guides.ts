@@ -24465,6 +24465,340 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     ],
     internalLinksTitle: "Más de hogar y jardín",
   },
+  // Guía nueva pileta-pelopincho — pilar del silo de verano en hogar-jardin
+  {
+    slug: "pileta-pelopincho",
+    category: "piletas",
+    silo: "hogar-jardin",
+    pillar: true,
+    title: `Pileta Pelopincho: cuál comprar en Argentina [2026]`,
+    seoTitle: `Pileta Pelopincho: Cuál Comprar y Qué Medida [2026]`,
+    metaDescription: `Comparamos piletas Pelopincho y las inflables Bestway e Intex de MercadoLibre: qué medida entra en tu patio, cuánta agua lleva cada una y cuál conviene.`,
+    ogTitle: `Pileta Pelopincho: cuál comprar en Argentina`,
+    ogDescription: `De la inflable de 101 litros a la Pelopincho de 14.000: seis piletas comparadas por medidas reales, capacidad y precio de MercadoLibre, con las contras de cada una.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_908132-MLA99531708570_122025-O.webp`,
+    h1: `Pileta Pelopincho: cuál comprar en Argentina y qué medida conviene [2026]`,
+    directAnswer: `Para la mayoría de los patios conviene la **[Pelopincho 1055](/producto/pileta-estructural-pelopincho-1055-rectangular-4500l-lona-azul-2x3m-con-valvula-mla8961672)** (alrededor de {{precio:MLA8961672:k}}): 3 x 2 metros y 75 cm de alto, la medida donde un adulto se sienta y todavía queda patio libre. Si el espacio es más angosto, la [Pelopincho 1043](/producto/pelopincho-1043-pileta-estructural-rectangular-con-capacidad-de-2800-litros-1-6x-mla8961674) de 2,7 x 1,6 m. Si buscás profundidad para nadar, la [RD14](/producto/pileta-pelopincho-rd14-circular-14000l-acero-inoxidable-pvc-estructura-reforzada-mla21205956) de 14.000 litros. Y si son nenes chicos, una [inflable Bestway](/producto/pileta-inflable-3-aros-largo-1-02m-bestway-51024-101-l-verde-mla15550811) de {{precio:MLA15550811:k}} resuelve el verano sin ocupar el patio entero.`,
+    publishedDate: "2026-10-05",
+    updatedDate: "2026-10-05",
+    sitemapLastmod: "2026-10-05",
+    hasDisclosure: true,
+    readingTime: 9,
+    standfirst: `Una pileta de lona armable arranca en {{precio:MLA8961674:k}} y llega a {{precio:MLA21205956:k}} según los litros. La decisión real no es la marca, es qué medida entra en tu patio y cuánta agua estás dispuesto a llenar cada temporada. Comparamos seis opciones reales de MercadoLibre Argentina, de la inflable para nenes a la estructural de 14.000 litros.`,
+    quickPicks: [
+      { productMlaId: "MLA8961672", label: "La más equilibrada", labelColor: "green", tagline: "Pelopincho 1055: 3 x 2 m y 75 cm de alto, entra en un patio de casa" },
+      { productMlaId: "MLA8961674", label: "Para patio angosto", labelColor: "slate", tagline: "Pelopincho 1043: 2,7 x 1,6 m, la estructural más chica de la comparativa" },
+      { productMlaId: "MLA21205956", label: "La más grande", labelColor: "blue", tagline: "Pelopincho RD14: 14.000 litros y 1,3 m de profundidad para nadar" },
+      { productMlaId: "MLA15550811", label: "La más barata", labelColor: "purple", tagline: "Bestway 51024: inflable de 101 litros para chicos de 2 a 6 años" },
+    ],
+    intro: [
+      `En Argentina "pelopincho" dejó de ser una marca y pasó a ser el nombre de la cosa: cualquier pileta de lona armable es una pelopincho, la haga Pelopincho o no. Eso genera una confusión concreta a la hora de comprar, porque bajo la misma palabra conviven una inflable de {{precio:MLA15550811:k}} para nenes y una estructural de {{precio:MLA21205956:k}} con 14.000 litros.`,
+      `La decisión no pasa por la marca sino por dos números: **cuántos metros libres tenés** y **cuánta agua querés llenar cada temporada**. Acá comparamos seis piletas reales de MercadoLibre Argentina por medidas verificadas, capacidad y precio, con la contra honesta de cada una.`,
+    ],
+    sections: [
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para el patio promedio, la **[Pelopincho 1055](/producto/pileta-estructural-pelopincho-1055-rectangular-4500l-lona-azul-2x3m-con-valvula-mla8961672)**: 3 x 2 metros, 75 cm de alto y válvula de desagüe. Si el espacio es angosto, la [1043](/producto/pelopincho-1043-pileta-estructural-rectangular-con-capacidad-de-2800-litros-1-6x-mla8961674). Si querés profundidad real, la [RD14](/producto/pileta-pelopincho-rd14-circular-14000l-acero-inoxidable-pvc-estructura-reforzada-mla21205956) de 14.000 litros. Para nenes de 2 a 6 años, la [inflable Bestway](/producto/pileta-inflable-3-aros-largo-1-02m-bestway-51024-101-l-verde-mla15550811) alcanza y sobra.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** tomamos piletas con stock real en MercadoLibre Argentina y verificamos medidas, capacidad y precio en vivo contra cada publicación. Las ordenamos por lo que define la compra en este producto: los metros que ocupa armada, la profundidad y los litros que hay que llenar. Las calificaciones citadas son de compradores reales y aclaramos cuándo una ficha todavía no tiene ninguna.` },
+
+      { type: "h2", title: `Estructural o inflable: la primera decisión`, id: "tipos" },
+      { type: "p", content: `Una pileta estructural de lona se sostiene con un armazón de caños y aguanta desde 2.800 hasta 14.000 litros; una inflable se sostiene con aros de aire y rara vez pasa los 350. No son dos gamas del mismo producto, son dos productos distintos: la inflable es para que los chicos se refresquen, la estructural es para que se meta la familia.` },
+      { type: "list", boxed: true, items: [
+        `**Estructural de lona:** de 2.800 a 14.000 litros, de 65 cm a 1,3 m de alto. Entran adultos. Se arma una vez por temporada y queda.`,
+        `**Inflable de aros:** de 101 a 330 litros, de 25 a 35 cm de alto. Es para chicos. Se infla, se usa, se guarda en una bolsa. Si es lo que buscás, están comparadas en detalle en la [guía de piletas inflables para chicos](/guias/pileta-inflable-ninos).`,
+        `**La bisagra son los litros:** llenar 14.000 litros no es lo mismo que llenar 300, ni en tiempo ni en agua.`,
+      ] },
+
+      { type: "h2", title: `Las mejores piletas Pelopincho e inflables de 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Pelopincho 1055: la medida que entra en un patio normal`, bigNumber: true },
+      { type: "product-card", productMlaId: "MLA8961672", label: "La más equilibrada", labelColor: "green", ranking: 1, description: `4.500 litros en 3 x 2 metros y 75 cm de alto, con estructura reforzada y válvula de desagüe. La medida donde un adulto se sienta cómodo sin que la pileta se coma el patio entero.` },
+      { type: "p", content: `La [Pelopincho 1055](/producto/pileta-estructural-pelopincho-1055-rectangular-4500l-lona-azul-2x3m-con-valvula-mla8961672) resuelve el caso más común de todos: una casa con patio, chicos, y adultos que también se quieren meter. Sus 75 cm de alto son la diferencia concreta contra los modelos más chicos, porque a esa altura un adulto se sienta y el agua le llega al pecho, en vez de mojarse los tobillos.` },
+      { type: "p", content: `Los 3 x 2 metros son la otra mitad del argumento: ocupa un rectángulo manejable en un patio de casa promedio, y a {{precio:MLA8961672:k}} es el equilibrio que le sirve a la mayoría. Trae válvula de desagüe, detalle que se agradece en marzo cuando hay que vaciar 4.500 litros sin baldes.` },
+      { type: "pull-quote", content: `"Es excelente. Traen un tapón abajo para un fácil desagote, quedé encantada. Grande, fácil de armar. Y lo armé yo sola, así que es fácil."`, attribution: `Opinión verificada en MercadoLibre` },
+      { type: "pull-quote", content: `"Excelente producto. Entran de tres a cuatro personas mayores. Es bastante amplia y cumple bien la función de pileta."`, attribution: `Opinión verificada en MercadoLibre` },
+      { type: "p", content: `La contra real: armada pesa 26,4 kg y llena tiene 4.500 litros, así que el lugar hay que elegirlo bien la primera vez. Moverla con agua no es una opción, y el piso tiene que estar parejo y sin piedritas.` },
+
+      { type: "h3", title: `2. Pelopincho 1043: la estructural más chica`, bigNumber: true },
+      { type: "product-card", productMlaId: "MLA8961674", label: "Para patio angosto", labelColor: "slate", ranking: 2, description: `2.800 litros en 2,7 x 1,6 metros y 65 cm de alto. La estructural más chica de esta comparativa, para patios donde la 1055 directamente no entra.` },
+      { type: "p", content: `La [Pelopincho 1043](/producto/pelopincho-1043-pileta-estructural-rectangular-con-capacidad-de-2800-litros-1-6x-mla8961674) es la respuesta cuando medís el patio y la [1055](/producto/pileta-estructural-pelopincho-1055-rectangular-4500l-lona-azul-2x3m-con-valvula-mla8961672) no da: 40 cm menos de ancho y 30 cm menos de largo. Mantiene lo que define a la línea, estructura reforzada y válvula de desagüe, con 1.700 litros menos que llenar, lo que también significa una factura de agua más chica cada temporada.` },
+      { type: "bad", content: `**Lo honesto sobre esta opción:** al momento de armar esta comparativa la publicación no tenía ninguna calificación publicada y tampoco declaraba stock disponible. Es la de menos respaldo verificable de las tres Pelopincho, así que conviene confirmar disponibilidad antes de comprarla. La incluimos porque es la única estructural de esta medida con precio real, no porque tenga reseñas que la avalen.` },
+      { type: "p", content: `Sus 65 cm de alto son 10 menos que la [1055](/producto/pileta-estructural-pelopincho-1055-rectangular-4500l-lona-azul-2x3m-con-valvula-mla8961672): un adulto se moja, pero no se sienta con la misma comodidad. Si el patio da para la [1055](/producto/pileta-estructural-pelopincho-1055-rectangular-4500l-lona-azul-2x3m-con-valvula-mla8961672), es mejor compra por {{preciodif:MLA8961672:MLA8961674}} de diferencia.` },
+
+      { type: "h3", title: `3. Pelopincho RD14: 14.000 litros para nadar de verdad`, bigNumber: true },
+      { type: "product-card", productMlaId: "MLA21205956", label: "La más grande", labelColor: "blue", ranking: 3, description: `14.000 litros, 3,66 metros de diámetro y 1,3 de profundidad, con armazón de acero inoxidable y PVC. Acá ya no se habla de refrescarse sino de nadar.` },
+      { type: "p", content: `La [Pelopincho RD14](/producto/pileta-pelopincho-rd14-circular-14000l-acero-inoxidable-pvc-estructura-reforzada-mla21205956) juega en otra categoría. Con 1,3 metros de profundidad y 3,66 de diámetro, es la única de esta comparativa donde se puede nadar en serio. El armazón de acero inoxidable y PVC es lo que hace falta para sostener 14.000 litros sin deformarse.` },
+      { type: "pull-quote", content: `"Es grande y de buena calidad la lona. Hay que tener un buen espacio para su armado."`, attribution: `Opinión verificada en MercadoLibre` },
+      { type: "p", content: `Las reseñas reales coinciden en las dos direcciones, y las dos importan: la lona convence, y el armado da trabajo de verdad. Uno de los compradores lo resume sin vueltas.` },
+      { type: "pull-quote", content: `"La pileta es genial, muy grande, pero da un laburito para armar y desarmar."`, attribution: `Opinión verificada en MercadoLibre` },
+      { type: "warning", content: `**Dos cosas antes de comprarla.** La ficha declara edad mínima de 5 años, así que no es la pileta para una casa con nenes chicos como única opción. Y ojo con las publicaciones: existe la misma [RD14](/producto/pileta-pelopincho-rd14-circular-14000l-acero-inoxidable-pvc-estructura-reforzada-mla21205956) listada hasta un 35% más cara, con specs y descripción idénticas. La diferencia es el vendedor y el plan de cuotas, no el producto.` },
+
+      { type: "h3", title: `4. Bestway 51026: la inflable con más sentido`, bigNumber: true },
+      { type: "product-card", productMlaId: "MLA828733034", label: "La inflable equilibrada", labelColor: "purple", ranking: 4, description: `282 litros y 1,52 metros de diámetro, casi el triple de agua que la inflable chica. Trae kit de reparación de fábrica, algo que las Intex de esta comparativa no declaran.` },
+      { type: "p", content: `Entre las inflables, la [Bestway 51026](/producto/pileta-para-ninos-infantil-inflable-3-aros-bestway-51026-mla828733034) es el salto que tiene sentido: 1,52 metros de diámetro contra 1,02 de la [51024](/producto/pileta-inflable-3-aros-largo-1-02m-bestway-51024-101-l-verde-mla15550811), con casi el triple de agua. Y viene con kit de reparación incluido, igual que la [51024](/producto/pileta-inflable-3-aros-largo-1-02m-bestway-51024-101-l-verde-mla15550811): en una pileta de vinilo eso no es un detalle menor, es la diferencia entre un pinchazo y una pileta muerta. Las Intex de esta comparativa no lo declaran.` },
+      { type: "p", content: `La contra honesta: tampoco tenía reseñas publicadas cuando armamos la comparativa, así que no hay experiencia de compradores para contrastar lo que promete la ficha. Y declara 2 a 4 años, un rango más angosto que el de la 51024.` },
+
+      { type: "h3", title: `5. Intex 58439NP: la inflable con más agua`, bigNumber: true },
+      { type: "product-card", productMlaId: "MLA20664028", label: "Más capacidad", labelColor: "blue", ranking: 5, description: `330 litros, 1,47 metros de diámetro y 35 cm de alto. La inflable de mayor capacidad y altura de esta comparativa.` },
+      { type: "p", content: `La [Intex 58439NP](/producto/alberca-inflable-intex-redonda-para-ninos-de-1-47-m-con-3-aros-mla20664028) es la inflable con más agua y más altura de esta comparativa: 330 litros y 35 cm contra los 282 y 30 cm de la [Bestway 51026](/producto/pileta-para-ninos-infantil-inflable-3-aros-bestway-51026-mla828733034), por una diferencia de precio chica ({{preciodif:MLA20664028:MLA828733034}}).` },
+      { type: "bad", content: `**De dónde vienen sus reseñas.** Las calificaciones publicadas en esta ficha son de compradores de México, no de Argentina. Sirven para hacerse una idea de la calidad del producto, pero no dicen nada sobre la experiencia de compra local: envío, garantía o respuesta del vendedor acá.` },
+
+      { type: "h3", title: `6. Bestway 51024: la más barata, con expectativas claras`, bigNumber: true },
+      { type: "product-card", productMlaId: "MLA15550811", label: "La más barata", labelColor: "slate", ranking: 6, description: `101 litros, 1,02 metros de diámetro y 25 cm de alto. La entrada más barata de la comparativa, para chicos de 2 a 6 años.` },
+      { type: "p", content: `La [Bestway 51024](/producto/pileta-inflable-3-aros-largo-1-02m-bestway-51024-101-l-verde-mla15550811) es la forma más barata de tener algo con agua en casa, y conviene leerla por lo que es: 101 litros, 25 cm de alto y capacidad máxima declarada de 2 personas. No es una pileta familiar chica, es una pileta de nenes. Con esa expectativa cumple perfecto.` },
+      { type: "pull-quote", content: `"Muy práctica solución para los que vivimos en departamento."`, attribution: `Opinión verificada en MercadoLibre` },
+      { type: "p", content: `Dos limitaciones concretas que aparecen en las reseñas reales: no tiene válvula de desagüe, así que se vacía dándola vuelta, y la base es fina, por lo que conviene apoyarla sobre una lona o algo que proteja el vinilo del piso. Si estás decidiendo entre inflables y no entre estas y una de lona, la comparación entre las tres inflables está en la [guía de piletas inflables para chicos](/guias/pileta-inflable-ninos).` },
+
+      { type: "h2", title: `Tabla comparativa: medidas, litros y precio`, id: "tabla" },
+      { type: "table",
+        headers: ["Modelo", "Capacidad", "Medidas", "Alto", "Precio", "Ideal para"],
+        rows: [
+          ["[Pelopincho 1055](/producto/pileta-estructural-pelopincho-1055-rectangular-4500l-lona-azul-2x3m-con-valvula-mla8961672)", "4.500 L", "3 x 2 m", "75 cm", "{{precio:MLA8961672}}", "El patio de casa promedio"],
+          ["[Pelopincho 1043](/producto/pelopincho-1043-pileta-estructural-rectangular-con-capacidad-de-2800-litros-1-6x-mla8961674)", "2.800 L", "2,7 x 1,6 m", "65 cm", "{{precio:MLA8961674}}", "Patios angostos"],
+          ["[Pelopincho RD14](/producto/pileta-pelopincho-rd14-circular-14000l-acero-inoxidable-pvc-estructura-reforzada-mla21205956)", "14.000 L", "3,66 m diám.", "1,3 m", "{{precio:MLA21205956}}", "Nadar, no solo refrescarse"],
+          ["[Intex 58439NP](/producto/alberca-inflable-intex-redonda-para-ninos-de-1-47-m-con-3-aros-mla20664028)", "330 L", "1,47 m diám.", "35 cm", "{{precio:MLA20664028}}", "La inflable con más agua"],
+          ["[Bestway 51026](/producto/pileta-para-ninos-infantil-inflable-3-aros-bestway-51026-mla828733034)", "282 L", "1,52 m diám.", "30 cm", "{{precio:MLA828733034}}", "Inflable con kit de reparación"],
+          ["[Bestway 51024](/producto/pileta-inflable-3-aros-largo-1-02m-bestway-51024-101-l-verde-mla15550811)", "101 L", "1,02 m diám.", "25 cm", "{{precio:MLA15550811}}", "Chicos de 2 a 6 años"],
+        ] },
+
+      { type: "h2", title: `Cómo elegir la medida de tu pileta`, id: "como-elegir" },
+      { type: "h3", title: `Medí el patio antes que el precio` },
+      { type: "p", content: `La pileta necesita su superficie más un margen para caminar alrededor y para armarla. Una [1055](/producto/pileta-estructural-pelopincho-1055-rectangular-4500l-lona-azul-2x3m-con-valvula-mla8961672) de 3 x 2 metros pide algo más cercano a 4 x 3 de patio libre. Si el número no cierra, no hay precio que lo arregle: bajá de medida.` },
+      { type: "h3", title: `El piso importa más de lo que parece` },
+      { type: "p", content: `Toda pileta de lona necesita una superficie plana, sin desniveles y sin nada punzante. Sobre césped conviene poner un polietileno grueso abajo como protección. Un desnivel que a ojo no se nota, con 4.500 litros arriba se convierte en una pileta torcida y en tensión desigual sobre la lona.` },
+      { type: "h3", title: `Pensá en el llenado, no solo en la compra` },
+      { type: "p", content: `Llenar 14.000 litros es una decisión de temporada, no de un sábado: son varias horas de manguera y un costo de agua que conviene tener en cuenta antes de elegir el modelo más grande. La [1055](/producto/pileta-estructural-pelopincho-1055-rectangular-4500l-lona-azul-2x3m-con-valvula-mla8961672) con sus 4.500 litros es el punto donde la mayoría encuentra el equilibrio entre disfrutar y no renegar.` },
+      { type: "h3", title: `Válvula de desagüe: la diferencia se nota en marzo` },
+      { type: "p", content: `Las tres Pelopincho de esta comparativa la traen. La Bestway 51024 declara explícitamente que no; en las otras dos inflables el dato no aparece en la ficha. Vaciar 300 litros dando vuelta una inflable es incómodo pero se hace. Vaciar 4.500 sin válvula sería imposible, y por eso en las estructurales es un requisito, no un extra.` },
+
+      { type: "h2", title: `Cuánto sale una pileta en Argentina`, id: "precios" },
+      { type: "list", items: [
+        `**Desde {{precio:MLA15550811:k}}:** inflables de aros para chicos, de 100 a 330 litros. Se guardan en una bolsa.`,
+        `**Alrededor de {{precio:MLA8961674:k}} a {{precio:MLA8961672:k}}:** estructurales de lona de 2.800 a 4.500 litros. El rango donde compra la mayoría.`,
+        `**Arriba de {{precio:MLA21205956:k}}:** estructurales grandes de 14.000 litros con armazón reforzado y profundidad para nadar.`,
+      ] },
+
+      { type: "h2", title: `Cómo mantener el agua limpia toda la temporada`, id: "mantenimiento" },
+      { type: "p", content: `Llenar la pileta es el día uno; el problema real empieza en la segunda semana. El agua quieta al sol se pone verde en pocos días, y vaciar y volver a llenar 4.500 litros cada vez no es una opción ni por costo ni por tiempo. Mantenerla es más barato que renovarla.` },
+      { type: "list", boxed: true, items: [
+        `**Cloro:** es lo que evita que el agua se ponga verde. Se repone cada pocos días según el sol y cuánta gente se meta.`,
+        `**Alguicida:** ataca específicamente las algas, que son las que dan el color verde. Va de la mano del cloro, no lo reemplaza.`,
+        `**Bomba filtrante:** en piletas de 4.500 litros para arriba deja de ser opcional. Es lo que mueve el agua para que el cloro llegue a todos lados.`,
+        `**Cobertor:** tapar la pileta cuando no se usa evita hojas, bichos y evaporación. Es lo más barato que más trabajo ahorra.`,
+      ] },
+      { type: "p", content: `Ninguna de las piletas de esta comparativa incluye bomba ni kit de limpieza: se compran aparte. Es un costo que conviene sumar antes de decidir la medida, porque cuanto más grande la pileta, más insumo consume por temporada.` },
+
+      { type: "verdict", title: `El veredicto`, content: `Para el patio de casa promedio, la **[Pelopincho 1055](/producto/pileta-estructural-pelopincho-1055-rectangular-4500l-lona-azul-2x3m-con-valvula-mla8961672)**: sus 3 x 2 metros y 75 cm de alto son el punto donde un adulto se sienta cómodo y todavía queda patio para caminar, con válvula de desagüe y reseñas reales que confirman que se arma sin ayuda. Si el espacio es angosto, la [1043](/producto/pelopincho-1043-pileta-estructural-rectangular-con-capacidad-de-2800-litros-1-6x-mla8961674), sabiendo que todavía no tiene reseñas que la respalden. Si querés profundidad real para nadar y tenés el espacio nivelado, la [RD14](/producto/pileta-pelopincho-rd14-circular-14000l-acero-inoxidable-pvc-estructura-reforzada-mla21205956). Y si son nenes chicos, no gastes de más: la [inflable Bestway](/producto/pileta-inflable-3-aros-largo-1-02m-bestway-51024-101-l-verde-mla15550811) resuelve el verano y se guarda en un cajón.` },
+
+      { type: "h2", title: `Preguntas frecuentes`, id: "faq" },
+    ],
+    faq: [
+
+      { question: `¿Qué medida de pileta Pelopincho conviene para un patio normal?`, answer: `La [Pelopincho 1055](/producto/pileta-estructural-pelopincho-1055-rectangular-4500l-lona-azul-2x3m-con-valvula-mla8961672), de 3 x 2 metros y 75 cm de alto. Es la medida donde un adulto se sienta cómodo y todavía queda patio libre alrededor. Como regla práctica, calculá un metro extra de cada lado sobre la medida de la pileta para poder armarla y caminar.` },
+      { question: `¿Qué necesito para mantener el agua de la pileta?`, answer: `Cloro para evitar que se ponga verde, alguicida para atacar las algas y un cobertor para taparla cuando no se usa. De 4.500 litros para arriba conviene sumar una bomba filtrante, que mueve el agua para que el cloro llegue a todos lados. Ninguna de las piletas de esta comparativa incluye bomba ni kit de limpieza: se compran aparte.` },
+      { question: `¿Cuál es la diferencia entre una pileta estructural y una inflable?`, answer: `La estructural se sostiene con un armazón de caños y va de 2.800 a 14.000 litros, con 65 cm a 1,3 m de alto: entran adultos. La inflable se sostiene con aros de aire, rara vez pasa los 350 litros y llega a 35 cm de alto: es para chicos. No son dos gamas del mismo producto.` },
+      { question: `¿Cuánto sale una pileta de lona en Argentina?`, answer: `Las inflables para chicos arrancan en {{precio:MLA15550811:k}}. Las estructurales de lona de 2.800 a 4.500 litros van de {{precio:MLA8961674:k}} a {{precio:MLA8961672:k}}, que es donde compra la mayoría. Las grandes de 14.000 litros superan {{precio:MLA21205956:k}}.` },
+      { question: `¿Se puede armar una pileta Pelopincho solo?`, answer: `Sí en los modelos medianos. Varias opiniones verificadas de la [1055](/producto/pileta-estructural-pelopincho-1055-rectangular-4500l-lona-azul-2x3m-con-valvula-mla8961672) mencionan haberla armado sin ayuda de otra persona. En la [RD14](/producto/pileta-pelopincho-rd14-circular-14000l-acero-inoxidable-pvc-estructura-reforzada-mla21205956) de 14.000 litros la cosa cambia: los compradores coinciden en que el armado da trabajo real y conviene ser dos.` },
+      { question: `¿Qué necesita el piso donde va la pileta?`, answer: `Una superficie plana, sin desniveles y sin elementos punzantes como piedritas o ramas. Sobre césped conviene poner un polietileno grueso debajo como protección. Un desnivel mínimo se vuelve un problema visible cuando la pileta está llena.` },
+      { question: `¿Por qué la misma pileta aparece a precios muy distintos en MercadoLibre?`, answer: `Porque publicaciones de distintos vendedores del mismo modelo pueden tener precios muy diferentes. En esta comparativa encontramos la [Pelopincho RD14](/producto/pileta-pelopincho-rd14-circular-14000l-acero-inoxidable-pvc-estructura-reforzada-mla21205956) listada con hasta 35% de diferencia, con specs y descripción idénticas: lo que cambiaba era el vendedor y el plan de cuotas, no el producto. Siempre conviene comparar más de una publicación del mismo modelo.` },
+      { question: `¿Cuánto tarda en llenarse una pileta de lona?`, answer: `Depende del caudal de la canilla y de los litros. Una de 2.800 o 4.500 litros se llena en unas horas con una manguera común; una de 14.000 litros es una tarea de todo un día. Conviene tenerlo en cuenta antes de elegir la medida más grande, porque el llenado se repite cada temporada.` },
+      { question: `¿Qué bomba filtrante necesito según los litros?`, answer: `En piletas chicas de hasta 2.800 litros se puede sostener el agua solo con cloro y recambio. De 4.500 litros para arriba conviene una bomba filtrante, y en las de 14.000 litros deja de ser opcional: sin movimiento el cloro no llega a todos lados. Ninguna de las piletas de esta comparativa la incluye.` },
+      { question: `¿Qué hago si el agua se puso verde?`, answer: `El verde son algas, y aparecen cuando el cloro bajó. Se ataca con alguicida más cloro de choque, moviendo el agua para que llegue a todo. Prevenir es mucho más barato que corregir: mantener el cloro y tapar la pileta cuando no se usa evita llegar a ese punto.` },
+      { question: `¿Cómo se guarda la pileta en invierno?`, answer: `Vaciada, seca y limpia. La lona tiene que estar completamente seca antes de plegarla o aparecen hongos y olor para la temporada siguiente. Conviene guardarla en un lugar donde no la aplasten y lejos de roedores, que son la causa más común de pinchaduras que aparecen recién al armarla de nuevo.` },
+    ],
+    internalLinks: [
+      { label: `Pileta inflable para chicos: cuál comprar`, href: `/guias/pileta-inflable-ninos` },
+      { label: `Zapatero: cuál comprar en Argentina`, href: `/guias/zapatero` },
+      { label: `Ventilador de pie: cuál comprar`, href: `/guias/ventilador-de-pie` },
+    ],
+  },
+  // Guía nueva pileta-inflable-ninos — spoke del silo de verano (hija de pileta-pelopincho)
+  {
+    slug: "pileta-inflable-ninos",
+    category: "piletas",
+    silo: "hogar-jardin",
+    title: `Pileta inflable para chicos: cuál comprar [2026]`,
+    seoTitle: `Pileta Inflable para Chicos: Cuál Comprar [2026]`,
+    metaDescription: `Comparamos 3 piletas inflables reales de MercadoLibre por litros, diámetro y edad recomendada. Cuál conviene según la edad y qué ninguna trae.`,
+    ogTitle: `Pileta inflable para chicos: cuál comprar`,
+    ogDescription: `De 101 a 330 litros: tres piletas inflables comparadas por capacidad, diámetro y edad real recomendada, con lo que ninguna de las tres incluye.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_620326-MLA93001781639_092025-O.webp`,
+    h1: `Pileta inflable para chicos: cuál comprar según la edad [2026]`,
+    directAnswer: `Para la mayoría conviene la **[Bestway 51026](/producto/pileta-para-ninos-infantil-inflable-3-aros-bestway-51026-mla828733034)** (alrededor de {{precio:MLA828733034:k}}): 1,52 metros y 282 litros, con kit de reparación incluido. Si querés la que más agua lleva, la [Intex de 1,47 m](/producto/alberca-inflable-intex-redonda-para-ninos-de-1-47-m-con-3-aros-mla20664028) con 330 litros. Y para gastar lo mínimo o si el espacio es un balcón, la [Bestway 51024](/producto/pileta-inflable-3-aros-largo-1-02m-bestway-51024-101-l-verde-mla15550811) de {{precio:MLA15550811:k}}.`,
+    publishedDate: "2026-10-05",
+    updatedDate: "2026-10-05",
+    sitemapLastmod: "2026-10-05",
+    hasDisclosure: true,
+    readingTime: 6,
+    standfirst: `Una pileta inflable para chicos va de {{precio:MLA15550811:k}} a {{precio:MLA20664028:k}} según los litros. Lo que define la compra no es la marca sino dos cosas: la edad del que se va a meter y cuánto espacio tenés. Comparamos tres opciones reales de MercadoLibre Argentina, con lo que ninguna de las tres incluye.`,
+    quickPicks: [
+      { productMlaId: "MLA828733034", label: "La más equilibrada", labelColor: "green", tagline: "Bestway 51026: 1,52 m y 282 litros, con kit de reparación incluido" },
+      { productMlaId: "MLA20664028", label: "La que más agua lleva", labelColor: "blue", tagline: "Intex 1,47 m: 330 litros y 35 cm de alto, la más profunda de las tres" },
+      { productMlaId: "MLA15550811", label: "La más barata", labelColor: "slate", tagline: "Bestway 51024: 101 litros, entra en un balcón y va hasta los 6 años" },
+    ],
+    intro: [
+      `Una pileta inflable se compra por dos números que casi nunca están en el título: **los litros** y **la edad recomendada**. La diferencia entre 101 y 330 litros parece un detalle y es la diferencia entre que entre un chico o entren dos, y entre que le llegue a los tobillos o a la cintura.`,
+      `Comparamos tres piletas inflables de 3 aros con stock real en MercadoLibre Argentina. Ninguna es cara y las tres cumplen, pero sirven para edades distintas. Si buscás algo más grande y para toda la familia, eso ya es otra categoría: está en la [guía de piletas Pelopincho](/guias/pileta-pelopincho).`,
+    ],
+    sections: [
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, la **[Bestway 51026](/producto/pileta-para-ninos-infantil-inflable-3-aros-bestway-51026-mla828733034)**: 282 litros, 1,52 metros y kit de reparación. Si preferís más agua, la [Intex de 1,47 m](/producto/alberca-inflable-intex-redonda-para-ninos-de-1-47-m-con-3-aros-mla20664028) (330 litros). Para lo mínimo o un balcón, la [Bestway 51024](/producto/pileta-inflable-3-aros-largo-1-02m-bestway-51024-101-l-verde-mla15550811).` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** tomamos piletas inflables de 3 aros con stock real en MercadoLibre Argentina y verificamos capacidad, diámetro, altura y edad declarada contra cada publicación. Las ordenamos por lo que define la compra: litros, tamaño y para qué edad sirve de verdad. Aclaramos cuándo una ficha no tiene reseñas y de qué país son las que sí tiene.` },
+
+      { type: "h2", title: `Qué mirar antes de elegir`, id: "que-mirar" },
+      { type: "p", content: `Una pileta inflable de 3 aros se elige por la edad del que la va a usar y por el espacio disponible, en ese orden. El precio de las tres opciones es lo suficientemente parecido como para que no sea el criterio principal.` },
+      { type: "list", boxed: true, items: [
+        `**Litros:** de 101 a 330. Definen si el agua llega al tobillo o a la cintura de un chico sentado.`,
+        `**Diámetro:** de 1,02 a 1,52 metros. Es lo que decide si entra en un balcón o necesita patio.`,
+        `**Edad declarada:** dos de las tres dicen 2 a 4 años; la más chica llega hasta los 6.`,
+        `**Kit de reparación:** en vinilo, es la diferencia entre un pinchazo y una pileta muerta. Dos de las tres lo traen.`,
+      ] },
+
+      { type: "h2", title: `Las 3 piletas inflables comparadas`, id: "ranking" },
+
+      { type: "h3", title: `1. Bestway 51026: la más equilibrada`, bigNumber: true },
+      { type: "product-card", productMlaId: "MLA828733034", label: "La más equilibrada", labelColor: "green", ranking: 1, description: `282 litros y 1,52 metros de diámetro, con kit de reparación de fábrica. El punto medio entre las tres: casi el triple de agua que la chica sin llegar al precio de la Intex.` },
+      { type: "p", content: `La [Bestway 51026](/producto/pileta-para-ninos-infantil-inflable-3-aros-bestway-51026-mla828733034) es la que mejor resuelve el caso típico: 1,52 metros de diámetro para que entren dos chicos cómodos y 282 litros de agua, casi el triple que la 51024. Trae kit de reparación incluido, que en una pileta de vinilo con chicos alrededor no es un accesorio decorativo.` },
+      { type: "p", content: `Lo honesto: al momento de armar esta comparativa no tenía ninguna reseña publicada, así que no hay experiencia de compradores para contrastar. Su ficha declara 2 a 4 años, un rango más angosto que el de la 51024.` },
+
+      { type: "h3", title: `2. Intex 58439NP: la que más agua lleva`, bigNumber: true },
+      { type: "product-card", productMlaId: "MLA20664028", label: "La que más agua lleva", labelColor: "blue", ranking: 2, description: `330 litros y 35 cm de alto: la de mayor capacidad y más profunda de las tres, por una diferencia de precio chica contra la Bestway 51026.` },
+      { type: "p", content: `La [Intex 58439NP](/producto/alberca-inflable-intex-redonda-para-ninos-de-1-47-m-con-3-aros-mla20664028) lleva 330 litros contra los 282 de la [Bestway 51026](/producto/pileta-para-ninos-infantil-inflable-3-aros-bestway-51026-mla828733034), y con 35 cm es la más alta de las tres. Por {{preciodif:MLA20664028:MLA828733034}} de diferencia, es más agua y más profundidad.` },
+      { type: "bad", content: `**De dónde vienen sus reseñas.** Las calificaciones publicadas en esta ficha son de compradores de México, no de Argentina. Sirven para hacerse una idea del producto, pero no dicen nada sobre la experiencia de compra local: envío, garantía o respuesta del vendedor acá. Tampoco declara kit de reparación, que las dos Bestway sí traen.` },
+
+      { type: "h3", title: `3. Bestway 51024: la más barata y la que más años cubre`, bigNumber: true },
+      { type: "product-card", productMlaId: "MLA15550811", label: "La más barata", labelColor: "slate", ranking: 3, description: `101 litros y 1,02 metros: la más chica y más barata, la única que entra en un balcón. Su ficha declara el rango de edad más amplio de las tres.` },
+      { type: "p", content: `La [Bestway 51024](/producto/pileta-inflable-3-aros-largo-1-02m-bestway-51024-101-l-verde-mla15550811) es la entrada más barata y tiene dos ventajas que no se ven en el precio: es la única que entra en un balcón con 1,02 metros de diámetro, y su ficha declara 2 a 6 años, el rango más amplio de las tres. También trae kit de reparación.` },
+      { type: "pull-quote", content: `"Muy práctica solución para los que vivimos en departamento."`, attribution: `Opinión verificada en MercadoLibre` },
+      { type: "p", content: `A cambio resigna agua: 101 litros y 25 cm de alto es para mojarse, no para nadar. Y las reseñas reales señalan una limitación concreta del material.` },
+      { type: "pull-quote", content: `"La base parece un poco fina pero es cuestión de tener cuidado. Ponerla en una base sin tantas imperfecciones, con alguna lonita para que no se raspe."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h2", title: `Tabla comparativa`, id: "tabla" },
+      { type: "table",
+        headers: ["Modelo", "Litros", "Diámetro", "Alto", "Edad declarada", "Precio", "Ideal para"],
+        rows: [
+          ["[Bestway 51026](/producto/pileta-para-ninos-infantil-inflable-3-aros-bestway-51026-mla828733034)", "282 L", "1,52 m", "30 cm", "2 a 4 años", "{{precio:MLA828733034}}", "El caso típico"],
+          ["[Intex 58439NP](/producto/alberca-inflable-intex-redonda-para-ninos-de-1-47-m-con-3-aros-mla20664028)", "330 L", "1,47 m", "35 cm", "2 a 4 años", "{{precio:MLA20664028}}", "Más agua y profundidad"],
+          ["[Bestway 51024](/producto/pileta-inflable-3-aros-largo-1-02m-bestway-51024-101-l-verde-mla15550811)", "101 L", "1,02 m", "25 cm", "2 a 6 años", "{{precio:MLA15550811}}", "Balcón o presupuesto mínimo"],
+        ] },
+
+      { type: "h2", title: `Lo que ninguna de las tres incluye`, id: "que-falta" },
+      { type: "p", content: `Vale aclararlo antes de comprar, porque son las dos cosas que más se preguntan y ninguna de estas tres las tiene.` },
+      { type: "list", boxed: true, items: [
+        `**Techo o parasol.** Las piletas con techito para proteger del sol son otra categoría, pensada para bebés de menos de 2 años. Ninguna de estas tres lo trae.`,
+        `**Válvula de desagüe.** Se vacían dándolas vuelta. Con 100 a 330 litros es incómodo pero se hace; en una pileta de lona de 4.500 litros sería imposible, y por eso ahí sí es un requisito.`,
+      ] },
+      { type: "p", content: `Si el que la va a usar tiene menos de 2 años, ninguna de estas es la indicada: conviene buscar específicamente un modelo con techo. Y si buscás algo donde entren adultos, eso ya es una pileta de lona estructural, no una inflable: está en la [guía de piletas Pelopincho](/guias/pileta-pelopincho).` },
+
+      { type: "verdict", title: `El veredicto`, content: `Para la mayoría, la **[Bestway 51026](/producto/pileta-para-ninos-infantil-inflable-3-aros-bestway-51026-mla828733034)**: 282 litros, 1,52 metros y kit de reparación incluido, con la salvedad de que todavía no tiene reseñas publicadas. Si querés la que más agua lleva, la [Intex de 1,47 m](/producto/alberca-inflable-intex-redonda-para-ninos-de-1-47-m-con-3-aros-mla20664028) con 330 litros, sabiendo que sus reseñas son de México. Y si el espacio es un balcón o querés gastar lo mínimo, la [Bestway 51024](/producto/pileta-inflable-3-aros-largo-1-02m-bestway-51024-101-l-verde-mla15550811), que además es la que cubre más años.` },
+
+      { type: "h2", title: `Preguntas frecuentes`, id: "faq" },
+    ],
+    faq: [
+      { question: `¿Qué pileta inflable conviene para un bebé de menos de 2 años?`, answer: `Ninguna de las tres de esta comparativa: las tres declaran desde 2 años. Para menores de 2 conviene buscar específicamente un modelo con techo o parasol, que es una categoría aparte pensada para proteger del sol a esa edad.` },
+      { question: `¿Cuántos litros necesita una pileta inflable para chicos?`, answer: `Depende de la edad. Con 101 litros y 25 cm de alto un chico se moja y juega sentado. Con 282 o 330 litros y 30 a 35 cm de alto entran dos chicos y el agua llega bastante más arriba. La diferencia de precio entre una y otra es chica, así que conviene decidir por el espacio disponible.` },
+      { question: `¿Se pueden reparar si se pinchan?`, answer: `Sí, y es habitual en piletas de vinilo. Las dos Bestway de esta comparativa traen kit de reparación de fábrica; la Intex no lo declara en su ficha. Si la que elegís no lo trae, conviene comprar un parche aparte antes de que haga falta.` },
+      { question: `¿Cómo se vacía una pileta inflable?`, answer: `Dándola vuelta: ninguna de las tres tiene válvula de desagüe. Con 101 a 330 litros es incómodo pero se resuelve. Es una de las diferencias con las piletas de lona estructurales, donde la válvula es un requisito porque vaciar 4.500 litros a mano sería imposible.` },
+      { question: `¿Cuánto sale una pileta inflable para chicos en Argentina?`, answer: `Las de esta comparativa van de {{precio:MLA15550811:k}} la más chica de 101 litros a {{precio:MLA20664028:k}} la de 330 litros. Es un rango angosto, y por eso conviene elegir por tamaño y edad antes que por precio.` },
+    ],
+    internalLinks: [
+      { label: `Pileta Pelopincho: cuál comprar en Argentina`, href: `/guias/pileta-pelopincho` },
+      { label: `Zapatero: cuál comprar en Argentina`, href: `/guias/zapatero` },
+    ],
+  },
+  // Guía nueva colchon-inflable-2-plazas — silo de verano (camping / visitas)
+  {
+    slug: "colchon-inflable-2-plazas",
+    category: "colchones-inflables",
+    silo: "hogar-jardin",
+    title: `Colchón inflable 2 plazas: cuál comprar [2026]`,
+    seoTitle: `Colchón Inflable 2 Plazas: Cuál Comprar [2026]`,
+    metaDescription: `Comparamos 3 colchones inflables de 2 plazas de MercadoLibre por altura, bomba incorporada y precio real. Cuál conviene para camping o para visitas.`,
+    ogTitle: `Colchón inflable 2 plazas: cuál comprar`,
+    ogDescription: `Intex, Sufin y Suono comparados por altura, bomba de aire incorporada y precio real de MercadoLibre, con las contras de cada uno.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_990666-MLA112764967149_062026-O.webp`,
+    h1: `Colchón inflable 2 plazas: cuál comprar en Argentina [2026]`,
+    directAnswer: `Para la mayoría conviene el **[Intex Dura Beam 64762](/producto/colchon-inflable-intex-2-plazas-dura-beam-standard-con-bomba-integr-mla22705331)** (alrededor de {{precio:MLA22705331:k}}): 25 cm de alto, el más alto de la comparativa, con bomba de aire incorporada. Si querés gastar lo mínimo, el [Sufin](/producto/colchon-inflable-de-2-plazas-con-inflador-incorporado-y-almohadas-mla58365620) sale {{precio:MLA58365620:k}} y es el más liviano. El [Suono](/producto/colchon-inflable-2-plazas-con-almohadas-inflador-portatil-azul-mla28995489) es el más caro y el más bajo de los tres: solo tiene sentido si aparece con descuento fuerte.`,
+    publishedDate: "2026-10-05",
+    updatedDate: "2026-10-05",
+    sitemapLastmod: "2026-10-05",
+    hasDisclosure: true,
+    readingTime: 6,
+    standfirst: `Un colchón inflable de 2 plazas va de {{precio:MLA58365620:k}} a {{precio:MLA28995489:k}}, y los tres miden lo mismo a lo largo y a lo ancho. Lo que cambia de verdad es la altura, el tipo de bomba y cuánto pesa para llevarlo. Comparamos tres opciones reales de MercadoLibre Argentina.`,
+    quickPicks: [
+      { productMlaId: "MLA22705331", label: "El más alto", labelColor: "green", tagline: "Intex Dura Beam: 25 cm de alto y bomba incorporada" },
+      { productMlaId: "MLA58365620", label: "El más barato", labelColor: "slate", tagline: "Sufin: el más económico y el más liviano, con almohadas" },
+      { productMlaId: "MLA28995489", label: "Con almohadas", labelColor: "purple", tagline: "Suono KITSUEÑO: mantiene el inflado por semanas según reseñas" },
+    ],
+    intro: [
+      `Los tres colchones de esta comparativa miden **191 x 137 cm**, que es la medida estándar de 2 plazas. Como el largo y el ancho no diferencian, la decisión se juega en tres cosas: **cuánto levanta del piso**, **qué tipo de bomba trae** y **cuánto pesa** si lo vas a mover.`,
+      `La altura es lo que más se nota al dormir: cuanto más alto, menos se siente el suelo y más fácil es levantarse. Los tres traen bomba de aire incorporada, así que ninguno necesita inflador aparte.`,
+    ],
+    sections: [
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, el **[Intex Dura Beam](/producto/colchon-inflable-intex-2-plazas-dura-beam-standard-con-bomba-integr-mla22705331)**: 25 cm de alto y bomba incorporada. Para gastar lo mínimo, el [Sufin](/producto/colchon-inflable-de-2-plazas-con-inflador-incorporado-y-almohadas-mla58365620). El [Suono](/producto/colchon-inflable-2-plazas-con-almohadas-inflador-portatil-azul-mla28995489) es el más caro sin ser el más alto, así que solo conviene con descuento.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** tomamos colchones inflables de 2 plazas con stock real en MercadoLibre Argentina y verificamos medidas, altura, tipo de bomba y peso contra cada publicación. Cuando una ficha declara datos que no cierran, lo decimos en vez de copiarlos.` },
+
+      { type: "h2", title: `Qué diferencia a un colchón inflable de otro`, id: "que-mirar" },
+      { type: "list", boxed: true, items: [
+        `**Altura:** de 22 a 25 cm en esta comparativa. Es lo que define cuánto sentís el piso y qué tan fácil es levantarse.`,
+        `**Tipo de bomba:** los tres la traen incorporada. Las de pie son más rápidas que las manuales, pero ninguna es eléctrica.`,
+        `**Peso:** de 1,98 a 3,7 kg. Para camping importa; para tenerlo guardado en casa para las visitas, no.`,
+        `**Almohadas:** dos de los tres las incluyen.`,
+      ] },
+
+      { type: "h2", title: `Los 3 colchones inflables comparados`, id: "ranking" },
+
+      { type: "h3", title: `1. Intex Dura Beam 64762: el más alto`, bigNumber: true },
+      { type: "product-card", productMlaId: "MLA22705331", label: "El más alto", labelColor: "green", ranking: 1, description: `191 x 137 cm y 25 cm de alto, el más alto de los tres, con bomba de aire incorporada. La marca con más recorrido del rubro.` },
+      { type: "p", content: `El [Intex Dura Beam 64762](/producto/colchon-inflable-intex-2-plazas-dura-beam-standard-con-bomba-integr-mla22705331) gana por el dato que más se siente al dormir: **25 cm de alto**, tres más que el Suono, que sale más caro. Cuanto más alto el colchón, menos se nota el piso y menos cuesta levantarse a la mañana, que es la queja clásica de los inflables bajos.` },
+      { type: "pull-quote", content: `"Colchón muy cómodo, me costó un poco inflarlo pero el producto es muy bueno."`, attribution: `Opinión verificada en MercadoLibre` },
+      { type: "p", content: `Esa reseña marca también la contra, que es común a los tres: la bomba incorporada es manual, no eléctrica, así que inflarlo lleva su rato de esfuerzo. Ninguno de esta comparativa se infla apretando un botón.` },
+
+      { type: "h3", title: `2. Sufin 2 plazas: el más barato y el más liviano`, bigNumber: true },
+      { type: "product-card", productMlaId: "MLA58365620", label: "El más barato", labelColor: "slate", ranking: 2, description: `El más económico de la comparativa por amplio margen, con bomba de pie incorporada y almohadas incluidas. Menos de 2 kg, el más liviano para llevar.` },
+      { type: "p", content: `El [Sufin](/producto/colchon-inflable-de-2-plazas-con-inflador-incorporado-y-almohadas-mla58365620) es el más barato de los tres por bastante diferencia ({{preciodif:MLA22705331:MLA58365620}} menos que el Intex) y pesa 1,98 kg, casi la mitad que el Intex. Si el uso es camping y lo vas a cargar, ese dato pesa tanto como el precio.` },
+      { type: "pull-quote", content: `"Buena calidad, cómodo, rígido. Tardás un poco en inflarlo con el pie, pero tiene también esa opción."`, attribution: `Opinión verificada en MercadoLibre` },
+      { type: "bad", content: `**Un dato de su ficha que no usamos.** La publicación declara medidas de 10 x 30 x 25 cm, que son las del paquete cerrado y no las del colchón armado. Es un error de carga del vendedor: un colchón de 2 plazas no mide 30 centímetros. Lo aclaramos porque si comparás fichas en MercadoLibre te vas a topar con ese número y no sirve para comparar.` },
+
+      { type: "h3", title: `3. Suono KITSUEÑO: el más caro, y hay que decirlo`, bigNumber: true },
+      { type: "product-card", productMlaId: "MLA28995489", label: "Con almohadas", labelColor: "purple", ranking: 3, description: `191 x 137 cm y 22 cm de alto, con bomba manual incorporada y almohadas. Sus reseñas destacan que mantiene el inflado por semanas.` },
+      { type: "p", content: `El [Suono KITSUEÑO](/producto/colchon-inflable-2-plazas-con-almohadas-inflador-portatil-azul-mla28995489) tiene la mejor reseña de las tres en lo que más preocupa de un inflable: que no se desinfle solo.` },
+      { type: "pull-quote", content: `"El material es muy bueno. Se infla en menos de 10 minutos. Lo tengo inflado hace casi 1 mes."`, attribution: `Opinión verificada en MercadoLibre` },
+      { type: "p", content: `Ahora, la parte incómoda: es **el más caro de los tres y a la vez el más bajo**, con 22 cm contra los 25 del Intex. Las almohadas y la bomba incorporada también las trae el Sufin, que sale bastante menos. Revisando su ficha no encontramos qué justifica la diferencia. A precio de lista conviene el Intex; si lo ves con descuento fuerte, la reseña sobre el inflado sostenido lo vuelve interesante.` },
+
+      { type: "h2", title: `Tabla comparativa`, id: "tabla" },
+      { type: "table",
+        headers: ["Modelo", "Medidas", "Alto", "Bomba", "Peso", "Precio", "Ideal para"],
+        rows: [
+          ["[Intex Dura Beam 64762](/producto/colchon-inflable-intex-2-plazas-dura-beam-standard-con-bomba-integr-mla22705331)", "191 x 137 cm", "25 cm", "Incorporada", "3,7 kg", "{{precio:MLA22705331}}", "Dormir cómodo en casa"],
+          ["[Sufin 2 plazas](/producto/colchon-inflable-de-2-plazas-con-inflador-incorporado-y-almohadas-mla58365620)", "2 plazas", "No declarado", "De pie", "1,98 kg", "{{precio:MLA58365620}}", "Camping y presupuesto ajustado"],
+          ["[Suono KITSUEÑO](/producto/colchon-inflable-2-plazas-con-almohadas-inflador-portatil-azul-mla28995489)", "191 x 137 cm", "22 cm", "Manual", "No declarado", "{{precio:MLA28995489}}", "Solo con descuento fuerte"],
+        ] },
+
+      { type: "h2", title: `Para camping o para visitas`, id: "usos" },
+      { type: "h3", title: `Si es para camping` },
+      { type: "p", content: `Priorizá el peso y el tipo de bomba. El [Sufin](/producto/colchon-inflable-de-2-plazas-con-inflador-incorporado-y-almohadas-mla58365620) con 1,98 kg es la mitad del [Intex](/producto/colchon-inflable-intex-2-plazas-dura-beam-standard-con-bomba-integr-mla22705331), y su bomba de pie infla más rápido que una manual. En una carpa, esos dos datos valen más que 3 cm de altura.` },
+      { type: "h3", title: `Si es para las visitas en casa` },
+      { type: "p", content: `Ahí el peso no importa y la altura sí: el colchón va a quedar en el piso del living y alguien va a dormir dos noches encima. El [Intex](/producto/colchon-inflable-intex-2-plazas-dura-beam-standard-con-bomba-integr-mla22705331) con 25 cm es el que menos se parece a dormir en el suelo.` },
+      { type: "h3", title: `Si lo vas a usar en la pileta` },
+      { type: "p", content: `No: estos son colchones de dormir, no inflables de agua. Si buscás algo para el agua, mirá la [guía de piletas Pelopincho](/guias/pileta-pelopincho) o las [inflables para chicos](/guias/pileta-inflable-ninos).` },
+
+      { type: "verdict", title: `El veredicto`, content: `Para la mayoría, el **[Intex Dura Beam 64762](/producto/colchon-inflable-intex-2-plazas-dura-beam-standard-con-bomba-integr-mla22705331)**: 25 cm de alto, bomba incorporada y la marca con más recorrido del rubro. Si el uso es camping o el presupuesto manda, el [Sufin](/producto/colchon-inflable-de-2-plazas-con-inflador-incorporado-y-almohadas-mla58365620) sale bastante menos y pesa la mitad, con la salvedad de que su ficha tiene las medidas mal cargadas. El [Suono](/producto/colchon-inflable-2-plazas-con-almohadas-inflador-portatil-azul-mla28995489) solo si lo encontrás con descuento fuerte: a precio de lista es el más caro sin ser el más alto.` },
+
+      { type: "h2", title: `Preguntas frecuentes`, id: "faq" },
+    ],
+    faq: [
+      { question: `¿Qué medida tiene un colchón inflable de 2 plazas?`, answer: `El estándar es 191 x 137 cm, que es lo que declaran las fichas del Intex y el Suono de esta comparativa. Lo que cambia entre modelos no es el largo ni el ancho sino la altura, que va de 22 a 25 cm y define cuánto levanta del piso.` },
+      { question: `¿Los colchones inflables vienen con inflador?`, answer: `Los tres de esta comparativa traen bomba de aire incorporada, así que no hace falta comprar un inflador aparte. Ojo: son manuales o de pie, ninguna es eléctrica, y las reseñas reales coinciden en que inflarlos lleva su rato de esfuerzo.` },
+      { question: `¿Cuánto sale un colchón inflable de 2 plazas en Argentina?`, answer: `En esta comparativa van de {{precio:MLA58365620:k}} el más barato a {{precio:MLA28995489:k}} el más caro. La diferencia no siempre se explica por las prestaciones: el más caro de los tres es también el más bajo.` },
+      { question: `¿Cuál conviene para camping?`, answer: `El más liviano, porque lo vas a cargar. El Sufin pesa 1,98 kg contra los 3,7 kg del Intex, casi la mitad, y su bomba de pie infla más rápido que una manual. Para camping esos datos valen más que un par de centímetros de altura.` },
+      { question: `¿Se desinflan solos?`, answer: `Es la duda más común y depende del modelo y del cuidado. Una opinión verificada del Suono menciona haberlo tenido inflado casi un mes sin problemas. Como toda superficie de PVC, conviene apoyarlo sobre una superficie sin elementos punzantes.` },
+    ],
+    internalLinks: [
+      { label: `Pileta Pelopincho: cuál comprar en Argentina`, href: `/guias/pileta-pelopincho` },
+      { label: `Pileta inflable para chicos: cuál comprar`, href: `/guias/pileta-inflable-ninos` },
+    ],
+  },
 ];
 
 /**

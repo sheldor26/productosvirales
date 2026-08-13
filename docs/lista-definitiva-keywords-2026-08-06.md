@@ -102,3 +102,27 @@ Rechazados pese a buen volumen: dermapen (12.100, 🔴 doble competencia editori
 **Rubros flojos (sin mina de oro, solo 1 candidato limpio decente cada uno):** moda (reloj digital hombre, 1.300), salud/bienestar (botiquín de primeros auxilios, 3.600), bebé (andador, 4.400) — competencia editorial real y establecida en los tres, no priorizar salvo que se busque diversificar por diversificar.
 
 **Total de candidatos limpios (🟢) acumulados hoy: 33.** Sumado a los 4 ya vetados el 2026-08-05 y pendientes de construir (taladro inalambrico, bordeadora electrica, pechera para perro, corralito para bebé), la lista definitiva queda en **37 candidatos con volumen real y competencia baja verificada**, suficiente para varios meses de guías nuevas sin necesidad de otra ronda de research.
+
+---
+
+## ⚠️ Correcciones al SERP tras re-verificar (2026-08-13)
+
+Al construir las guías se re-chequeó el SERP real de varios candidatos y **dos estaban
+mal clasificados como 🟢**. La verificación de SERP de este documento no es confiable para
+el rubro herramientas/jardín: re-verificar antes de escribir.
+
+| Keyword | Era | Es | Por qué |
+| :-- | :-- | :-- | :-- |
+| **bordeadora electrica** (12.100) | 🟢 | 🔴 | Tres competidores editoriales reales: Bidcom News con dos notas dedicadas, todocesped.com.ar con un silo completo de bordeadoras, y el blog de Tramontina. |
+| **taladro inalambrico** (12.100) | 🟢 | 🔴 | Dos comparadores editoriales **argentinos** con el formato exacto "los mejores X": mejorescompras.com.ar ("Los 7 mejores taladros percutores en Argentina 2026") y expertoenproductos.com.ar, más tucarpinteria.net y lo-mejor.com. |
+
+Confirmados como viables en la misma pasada:
+
+| Keyword | Estado | Detalle |
+| :-- | :-- | :-- |
+| **pileta pelopincho** (18.100) | 🟢 confirmado | SERP 100% retailers (Frávega, Megatone, Naldo, Coppel, ML, sitio oficial). Guía construida el 2026-08-13. |
+| **perchero de pie** (9.900) | 🟡 viable | Los únicos comparadores son españoles (libertaddigital, elespanol, lo-mejor) con productos de Amazon España. En google.com.ar domina MercadoLibre: mismo patrón que hizo ganable a zapatero. |
+
+**Regla que sale de esto:** el volumen de Keyword Planner es confiable; la clasificación de
+SERP de este documento no. Antes de escribir una guía, re-verificar el SERP de esa keyword
+puntual, buscando específicamente competidores **argentinos** con formato "los mejores X".
