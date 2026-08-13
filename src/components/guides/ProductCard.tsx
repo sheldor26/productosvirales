@@ -3,6 +3,7 @@ import { Package } from "lucide-react";
 import type { GuideSection, LabelColor } from "@/lib/types";
 import { getProductById } from "@/lib/products";
 import { formatPrice } from "@/lib/utils";
+import { injectLivePrices } from "@/lib/price-token";
 import { CouponBadge } from "@/components/products/CouponBadge";
 import { toPlainText } from "@/lib/parse-inline-links";
 import { getPriceValidUntil, productHref } from "@/lib/product-url";
@@ -42,7 +43,9 @@ function SchemaLd({ product }: { product: ReturnType<typeof getProductById> }) {
           "@type": "Product",
           name: product.canonicalName || product.title,
           image: product.image,
-          ...(product.description ? { description: product.description } : {}),
+          ...(product.description
+            ? { description: injectLivePrices(product.description) }
+            : {}),
           ...(product.brand
             ? { brand: { "@type": "Brand", name: product.brand } }
             : {}),
@@ -184,7 +187,7 @@ export function ProductCard({ section }: ProductCardProps) {
             {section.description && (
               <Link href={productHref(product)} prefetch={false} className="block">
                 <p className="text-[13px] sm:text-sm text-[var(--text-secondary)] leading-snug line-clamp-2">
-                  {toPlainText(section.description)}
+                  {toPlainText(injectLivePrices(section.description))}
                 </p>
               </Link>
             )}
@@ -309,7 +312,7 @@ export function ProductCard({ section }: ProductCardProps) {
           {section.description && (
             <Link href={productHref(product)} prefetch={false} className="block">
               <p className="text-[15px] md:text-base leading-[1.65] text-[var(--text-secondary)]">
-                {toPlainText(section.description)}
+                {toPlainText(injectLivePrices(section.description))}
               </p>
             </Link>
           )}

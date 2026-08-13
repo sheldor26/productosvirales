@@ -148,6 +148,23 @@ Este comando corre, en orden, y para en el primero que falle:
    (una marca competidora solo mencionada, no vendida), no inventar un precio
    exacto: usar un marco aproximado y no numérico ("bastante más cara", "en un
    rango similar") en vez de un monto que nadie va a actualizar nunca.
+   **La prueba social sigue la misma regla que el precio.** Una nota y una
+   cantidad de reseñas envejecen igual de rápido: en agosto 2026 la guía de
+   teclados decía "4.486 opiniones" cuando el catálogo ya iba en 4.585. Usar
+   `{{reviews:ID}}` (cantidad de opiniones) y `{{rating:ID}}` (estrellas, un
+   decimal). Van casi siempre de a dos, porque el patrón de la casa es
+   "{{rating:ID}} estrellas en {{reviews:ID}} opiniones". La palabra la escribe
+   el editor; el token resuelve solo el número.
+
+   Dos salvedades:
+   - **Los aproximados se dejan a mano.** "Más de 4.100 opiniones" sigue siendo
+     verdad cuando el conteo sube, que es lo único que hace un conteo de
+     reseñas. Meterle el token exacto ahí no arregla nada y empeora la prosa
+     ("más de 4.137 opiniones"). El token es para el número exacto.
+   - **Verificar de QUÉ producto es el número, no cuál está más cerca.** En una
+     frase comparativa ("5.0 con 3 opiniones (Netmak) no pesa igual que un 4.8
+     con 4.486") hay dos productos: cada número lleva el ID del suyo. Atribuirle
+     el conteo de un producto a otro es un error de honestidad, no de formato.
 3. **`check-guide-monetization.cjs`** — toda guía tiene que tener al menos un
    `product-card`, un `quickPicks`, o un link de afiliado/ficha real. Sin
    excepciones: incluso una guía informativa ("cómo funciona", "ventajas y

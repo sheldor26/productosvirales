@@ -3282,12 +3282,12 @@ Sí, si jugás competitivo, valorás los switches ópticos y querés un teclado 
     priceLastChecked: "2026-08-12",
     priceStatus: "fresh",
     reviewsSampledAt: "2026-08-05",
-    description: "Teclado mecánico Redragon Dragonborn K630, 60% real con layout español latinoamericano (con ñ) y switches red silenciosos. El más elegido de esta comparativa: 4.8 estrellas en 4.486 opiniones, la base de datos más sólida de los teclados 60% del sitio.",
+    description: "Teclado mecánico Redragon Dragonborn K630, 60% real con layout español latinoamericano (con ñ) y switches red silenciosos. El más elegido de esta comparativa: {{rating:MLA24102185}} estrellas en {{reviews:MLA24102185}} opiniones, la base de datos más sólida de los teclados 60% del sitio.",
     seoTitle: "Redragon Dragonborn K630: el 60% más elegido, en español",
-    metaDescription: "Teclado mecánico Redragon Dragonborn K630 60%: switches red, resistente a salpicaduras, español con ñ. 4.8 estrellas en 4.486 opiniones. Veredicto.",
+    metaDescription: "Teclado mecánico Redragon Dragonborn K630 60%: switches red, resistente a salpicaduras, español con ñ. {{rating:MLA24102185}} estrellas en {{reviews:MLA24102185}} opiniones. Veredicto.",
     verdict: "El Dragonborn K630 sirve si buscás un 60% real (sin flechas ni numérico, todo el escritorio libre para el mouse) pero en español con ñ y sin pagar el precio de un premium óptico: switches red silenciosos, resistente a salpicaduras y la base de reseñas más grande de esta comparativa. No es la opción si necesitás flechas o numérico a mano todo el tiempo, ahí un formato más grande rinde mejor.",
     pros: [
-      "La base de reseñas más grande de esta comparativa: 4.8 estrellas en 4.486 opiniones reales",
+      "La base de reseñas más grande de esta comparativa: {{rating:MLA24102185}} estrellas en {{reviews:MLA24102185}} opiniones reales",
       "Layout español latinoamericano con ñ, algo que no todos los 60% traen",
       "Switches Dust Proof Red: lineales y silenciosos, buenos para gaming sin molestar al resto",
       "Resistente a salpicaduras, útil si tomás algo cerca de la compu",
@@ -3304,7 +3304,7 @@ El Dragonborn K630 es un teclado mecánico 60% de Redragon, marca ya conocida en
 
 ## Lo bueno
 
-Es, por lejos, el teclado 60% con más respaldo de reseñas de esta comparativa: 4.8 estrellas en 4.486 opiniones reales, casi siete veces más que el segundo. Los switches son Dust Proof Red, lineales y silenciosos (pensados para gaming sin el ruido clicky de otros mecánicos), y el teclado es resistente a salpicaduras, un extra que ni el [Razer Huntsman Mini](/producto/teclado-gamer-razer-huntsman-mini-60-optico-rgb-mercury-mla16085611) de la guía general tiene declarado. El cable es removible de 1,8 metros.
+Es, por lejos, el teclado 60% con más respaldo de reseñas de esta comparativa: {{rating:MLA24102185}} estrellas en {{reviews:MLA24102185}} opiniones reales, casi siete veces más que el segundo. Los switches son Dust Proof Red, lineales y silenciosos (pensados para gaming sin el ruido clicky de otros mecánicos), y el teclado es resistente a salpicaduras, un extra que ni el [Razer Huntsman Mini](/producto/teclado-gamer-razer-huntsman-mini-60-optico-rgb-mercury-mla16085611) de la guía general tiene declarado. El cable es removible de 1,8 metros.
 
 ## La contra real
 
@@ -3315,7 +3315,7 @@ Es 60% de verdad, así que las flechas, la fila de F y el numérico no existen c
 Compralo si querés un 60% real para gaming, en español, con el respaldo de reseñas más grande de la categoría y sin pagar el precio de un óptico premium. Si necesitás flechas o numérico a mano todo el tiempo (planillas, trabajo), un formato TKL o full size como el [Kumara K552](/producto/teclado-gamer-redragon-kumara-k552-mecanico-rgb-espanol-latinoamerica-mla16369071) de la guía general te va a rendir mejor.`,
     faq: [
       { question: "¿El Dragonborn K630 tiene ñ?", answer: "Sí, viene en layout español latinoamericano con ñ y acentos en tecla directa, algo que no todos los teclados 60% de esta franja de precio traen." },
-      { question: "¿Cuántas reseñas reales tiene?", answer: "4.486 opiniones con 4.8 estrellas de promedio en MercadoLibre Argentina, la base de datos más grande entre los teclados 60% de este sitio." },
+      { question: "¿Cuántas reseñas reales tiene?", answer: "{{reviews:MLA24102185}} opiniones con {{rating:MLA24102185}} estrellas de promedio en MercadoLibre Argentina, la base de datos más grande entre los teclados 60% de este sitio." },
       { question: "¿Es resistente al agua?", answer: "Es resistente a salpicaduras según la ficha del producto, útil si se te vuelca algo cerca, aunque no está pensado para sumergirlo ni para derrames grandes." },
       { question: "¿Trae software para configurar el RGB?", answer: "La ficha del producto no menciona un software dedicado; la configuración de luces se hace con combinaciones de teclas directo en el teclado." },
     ],
@@ -3371,7 +3371,7 @@ Compralo si querés un 60% real para gaming, en español, con el respaldo de res
     cons: [
       "Layout inglés US: no tiene ñ ni acentos en tecla directa, a diferencia del [Dragonborn K630](/producto/teclado-dragonborn-k630-qwerty-red-negro-con-luz-rgb-espanol-idioma-espanol-lati-mla24102185) de esta guía",
       "Es 60% real: sin flechas, F1-F12 ni numérico físico, se usan con FN",
-      "Menos reseñas que el [Dragonborn K630](/producto/teclado-dragonborn-k630-qwerty-red-negro-con-luz-rgb-espanol-idioma-espanol-lati-mla24102185) (666 contra 4.486), aunque igual de buena calificación",
+      "Menos reseñas que el [Dragonborn K630](/producto/teclado-dragonborn-k630-qwerty-red-negro-con-luz-rgb-espanol-idioma-espanol-lati-mla24102185) ({{reviews:MLA46192536}} contra {{reviews:MLA24102185}}), aunque igual de buena calificación",
     ],
     articleBody: `## Qué es y para quién
 
@@ -3528,7 +3528,7 @@ Tener Cherry MX real es un diferencial técnico concreto frente a los switches g
 
 ## La contra real
 
-Acá va la honestidad completa: al momento de escribir esta guía, tiene solo 3 opiniones en MercadoLibre. Es un dato real, no inventado, pero significa que el 5.0 se apoya en muy poco volumen comparado con las 4.486 opiniones del [Dragonborn K630](/producto/teclado-dragonborn-k630-qwerty-red-negro-con-luz-rgb-espanol-idioma-espanol-lati-mla24102185) o las 666 del [Havit](/producto/teclado-gamer-havit-kb903l-mecanico-usb-c-60-switch-red-teclado-negro-mla46192536) de esta misma guía. Si preferís guiarte por un historial de reseñas más grande, esas dos opciones dan más certeza.
+Acá va la honestidad completa: al momento de escribir esta guía, tiene solo {{reviews:MLAU2880692521}} opiniones en MercadoLibre. Es un dato real, no inventado, pero significa que el {{rating:MLAU2880692521}} se apoya en muy poco volumen comparado con las {{reviews:MLA24102185}} opiniones del [Dragonborn K630](/producto/teclado-dragonborn-k630-qwerty-red-negro-con-luz-rgb-espanol-idioma-espanol-lati-mla24102185) o las 666 del [Havit](/producto/teclado-gamer-havit-kb903l-mecanico-usb-c-60-switch-red-teclado-negro-mla46192536) de esta misma guía. Si preferís guiarte por un historial de reseñas más grande, esas dos opciones dan más certeza.
 
 ## Para quién sí y para quién no
 

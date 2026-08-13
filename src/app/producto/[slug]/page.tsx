@@ -32,10 +32,15 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!product) return { title: "Producto no encontrado" };
 
   const title = product.seoTitle || product.title;
+  // injectLivePrices también acá: si no, un token puesto en metaDescription sale
+  // literal ("{{reviews:MLA…}}") en el meta y en el snippet de Google, que es
+  // justo donde nadie lo mira hasta que ya está indexado.
   const description = toPlainText(
-    product.metaDescription ||
-      product.description ||
-      `Comprá ${product.title} al mejor precio en MercadoLibre Argentina.`
+    injectLivePrices(
+      product.metaDescription ||
+        product.description ||
+        `Comprá ${product.title} al mejor precio en MercadoLibre Argentina.`
+    )
   );
 
   const canonical = `https://productosvirales.com.ar${productHref(product)}`;
