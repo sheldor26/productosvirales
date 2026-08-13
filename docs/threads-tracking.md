@@ -23,6 +23,7 @@ resultado de la cuenta hasta ahora** (post viejo, sin el generador de imágenes)
 
 | Fecha | Producto | Categoría | Cupón real | Precio verificado | Vistas | Seguidores | Notas |
 |---|---|---|---|---|---|---|---|
+| 2026-08-13 | Aspiradora Robot Fika Trapeadora Swift | Electrodomésticos/robot-aspiradora | no (solo % OFF) | sí, Chrome vivo | | | Tienda oficial FIKA (+250 mil ventas), 4.8★/151 op., +100 vendidos, badges reales MÁS VENDIDO + OFERTA IMPERDIBLE, 54% OFF. Stock sano (+25 disponibles). Publicado también en Instagram (feed + Historia) vía API el mismo día. |
 | 2026-08-13 | Cafetera Expresso Cuk By Gadnic 20 Bar | Cocina | no (solo % OFF) | sí, Chrome vivo | | | Tienda oficial Gadnic, 4.6★/118 op., +500 vendidos, 57% OFF. Precio real de 1 unidad confirmado — la página también mostraba precio por pack de 2 y 10 unidades, no usado. |
 | 2026-08-11 | Control DualSense PS5 Gray Camouflage (redo) | Gaming | no (solo % OFF) | sí, Chrome búsqueda de ML | 80 (parcial, sigue sumando) | | Repetición del producto que dio 283 vistas históricas, esta vez con precio actual y las 2 imágenes generadas. Tienda oficial ML, 4.9★/93.126 op., 43% OFF. |
 | 2026-08-10 | Auriculares JBL Wave Beam 2 TWS | Audio | no (solo % OFF) | sí, Chrome búsqueda de ML | | | Primer post con la plantilla branded generada por script, no captura cruda de ML — pasó 2 rondas de trio-auditor (GO). Tienda oficial JBL, 4.8★/834 op., +5 mil vendidos, badge real "MÁS VENDIDO" (no "última unidad": tenía +50 disponibles). Confirmado publicado por Juan. |

@@ -23,11 +23,31 @@ export const socialPosts: SocialPost[] = [
     title: "JBL Boombox 3 Negro",
     imageUrl:
       "https://http2.mlstatic.com/D_NQ_NP_955498-MLA99948623081_112025-O.webp",
-    affiliateUrl:
-      "https://www.mercadolibre.com.ar/jbl-boombox-3-color-negro-negro/p/MLA45498184",
+    affiliateUrl: "https://meli.la/1ZwU3v2",
     newPrice: "639.199",
     oldPrice: "1.259.999",
     offPct: "49",
     postedAt: "2026-08-13T08:15:24-03:00",
+  },
+  {
+    title: "Aspiradora Robot Fika Trapeadora Swift",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_688787-MLA107372121884_032026-O.webp",
+    affiliateUrl: "https://meli.la/2GH7YcV",
+    newPrice: "339.499",
+    oldPrice: "750.000",
+    offPct: "54",
+    postedAt: "2026-08-13T12:21:36-03:00",
+  },
+  {
+    title: "Nintendo Switch OLED + Mario Bros Wonder",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_656472-MLA98119452619_112025-O.webp",
+    affiliateUrl:
+      "https://www.mercadolibre.com.ar/nintendo-switch-oled-super-mario-bros-wonder/p/MLA31000132",
+    newPrice: "699.999",
+    oldPrice: "999.999",
+    offPct: "30",
+    postedAt: "2026-08-13T12:21:36-03:00",
   },
 ];

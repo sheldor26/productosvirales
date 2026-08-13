@@ -3,6 +3,7 @@ import Image from "next/image";
 import { baseOpenGraph } from "@/lib/site-og";
 import { AffiliateLink } from "@/components/affiliate/AffiliateLink";
 import { socialPosts } from "@/data/social-posts";
+import type { SocialPost } from "@/lib/types";
 
 // Página pensada como bio-link para Threads/X/Instagram: quien la abre viene
 // de un celular, casi siempre. No hay build-time caching de la lista de
@@ -38,26 +39,80 @@ const SOCIAL_LINKS = [
   { label: "X", href: "https://x.com/productosvirale" },
 ];
 
+const DAY_MS = 24 * 60 * 60 * 1000;
+
 // postedAt en el futuro (typo de zona horaria al cargar el dato a mano) no
-// debe colar el producto antes de tiempo — hallazgo real de la auditoría
-// (trio-auditor, Codex): Date.now() - futuro da negativo, que es < 24h.
-function isWithinLast24h(isoDate: string): boolean {
-  const diff = Date.now() - new Date(isoDate).getTime();
-  return diff >= 0 && diff < 24 * 60 * 60 * 1000;
+// debe colar el producto como "recién posteado" — hallazgo real de la
+// auditoría (trio-auditor, Codex): Date.now() - futuro da negativo.
+function msSincePosted(isoDate: string): number {
+  return Math.max(0, Date.now() - new Date(isoDate).getTime());
 }
 
-function hoursAgoLabel(isoDate: string): string {
-  const diffMs = Date.now() - new Date(isoDate).getTime();
+function timeAgoLabel(isoDate: string): string {
+  const diffMs = msSincePosted(isoDate);
   const minutes = Math.floor(diffMs / 60000);
   if (minutes < 60) return `Posteado hace ${minutes} min`;
   const hours = Math.floor(minutes / 60);
-  return `Posteado hace ${hours} h`;
+  if (hours < 24) return `Posteado hace ${hours} h`;
+  const days = Math.floor(hours / 24);
+  return `Hace ${days} ${days === 1 ? "día" : "días"}`;
+}
+
+function ProductCard({ post, stale }: { post: SocialPost; stale: boolean }) {
+  return (
+    <AffiliateLink
+      href={post.affiliateUrl}
+      ctaLocation="enlaces-linktree"
+      ariaLabel={`${post.title}, antes $${post.oldPrice}, ahora $${post.newPrice}, ${post.offPct}% off`}
+      className="flex items-center gap-4 rounded-2xl border border-[var(--border)] bg-[var(--bg-primary)] p-3 shadow-sm active:scale-[0.98] transition-transform"
+    >
+      <div className="relative w-20 h-20 shrink-0 rounded-xl bg-white overflow-hidden">
+        <Image
+          src={post.imageUrl}
+          alt=""
+          fill
+          sizes="80px"
+          className="object-contain p-1"
+        />
+      </div>
+      <div className="min-w-0 flex-1">
+        <p
+          className={`text-[11px] font-bold uppercase tracking-wide ${
+            stale ? "text-[var(--text-muted)]" : "text-[#c9694f]"
+          }`}
+        >
+          {timeAgoLabel(post.postedAt)}
+        </p>
+        <p className="text-sm font-bold text-[var(--text-primary)] line-clamp-2 leading-snug mt-0.5">
+          {post.title}
+        </p>
+        <div className="flex items-center gap-2 mt-1.5">
+          <span className="text-xs text-[var(--text-secondary)] line-through">
+            $ {post.oldPrice}
+          </span>
+          <span className="text-base font-extrabold text-[var(--text-primary)]">
+            $ {post.newPrice}
+          </span>
+          <span className="text-[11px] font-bold text-white bg-[#ef8f76] px-2 py-0.5 rounded-full">
+            -{post.offPct}%
+          </span>
+        </div>
+        {stale && (
+          <p className="text-[11px] text-[var(--text-muted)] mt-1">
+            El precio puede haber cambiado desde que se posteó.
+          </p>
+        )}
+      </div>
+    </AffiliateLink>
+  );
 }
 
 export default function EnlacesPage() {
-  const recentPosts = socialPosts
-    .filter((post) => isWithinLast24h(post.postedAt))
-    .sort((a, b) => new Date(b.postedAt).getTime() - new Date(a.postedAt).getTime());
+  const sorted = [...socialPosts].sort(
+    (a, b) => new Date(b.postedAt).getTime() - new Date(a.postedAt).getTime()
+  );
+  const recentPosts = sorted.filter((post) => msSincePosted(post.postedAt) < DAY_MS);
+  const olderPosts = sorted.filter((post) => msSincePosted(post.postedAt) >= DAY_MS);
 
   return (
     <div id="enlaces-page" className="max-w-[520px] mx-auto px-4 py-6 flex flex-col items-center">
@@ -91,49 +146,36 @@ export default function EnlacesPage() {
       <div className="w-full flex flex-col gap-4">
         {recentPosts.length === 0 && (
           <p className="text-center text-sm text-[var(--text-secondary)] py-6">
-            Todavía no posteamos nada en las últimas 24hs — volvé más tarde.
+            {olderPosts.length > 0
+              ? "Nada nuevo en las últimas 24hs — mirá las ofertas anteriores abajo."
+              : "Todavía no posteamos nada en las últimas 24hs — volvé más tarde."}
           </p>
         )}
 
         {recentPosts.map((post) => (
-          <AffiliateLink
-            key={post.affiliateUrl}
-            href={post.affiliateUrl}
-            ctaLocation="enlaces-linktree"
-            ariaLabel={`${post.title}, antes $${post.oldPrice}, ahora $${post.newPrice}, ${post.offPct}% off`}
-            className="flex items-center gap-4 rounded-2xl border border-[var(--border)] bg-[var(--bg-primary)] p-3 shadow-sm active:scale-[0.98] transition-transform"
-          >
-            <div className="relative w-20 h-20 shrink-0 rounded-xl bg-white overflow-hidden">
-              <Image
-                src={post.imageUrl}
-                alt=""
-                fill
-                sizes="80px"
-                className="object-contain p-1"
-              />
-            </div>
-            <div className="min-w-0 flex-1">
-              <p className="text-[11px] font-bold uppercase tracking-wide text-[#c9694f]">
-                {hoursAgoLabel(post.postedAt)}
-              </p>
-              <p className="text-sm font-bold text-[var(--text-primary)] line-clamp-2 leading-snug mt-0.5">
-                {post.title}
-              </p>
-              <div className="flex items-center gap-2 mt-1.5">
-                <span className="text-xs text-[var(--text-secondary)] line-through">
-                  $ {post.oldPrice}
-                </span>
-                <span className="text-base font-extrabold text-[var(--text-primary)]">
-                  $ {post.newPrice}
-                </span>
-                <span className="text-[11px] font-bold text-white bg-[#ef8f76] px-2 py-0.5 rounded-full">
-                  -{post.offPct}%
-                </span>
-              </div>
-            </div>
-          </AffiliateLink>
+          <ProductCard key={post.affiliateUrl} post={post} stale={false} />
         ))}
       </div>
+
+      {olderPosts.length > 0 && (
+        // <details> nativo: no hace falta un client component para el
+        // expandir/colapsar, el navegador lo maneja solo (y es accesible
+        // por default: foco, teclado, lector de pantalla).
+        <details className="w-full mt-4 group">
+          <summary className="cursor-pointer list-none text-center text-sm font-bold text-[var(--text-secondary)] py-2 flex items-center justify-center gap-1">
+            Ver ofertas más antiguas ({olderPosts.length})
+            <span className="transition-transform group-open:rotate-180">▾</span>
+          </summary>
+          <p className="text-center text-[11px] text-[var(--text-muted)] mb-3">
+            ⚠️ Tienen más de 24hs — el precio puede haber cambiado, confirmalo en la publicación antes de comprar.
+          </p>
+          <div className="w-full flex flex-col gap-4">
+            {olderPosts.map((post) => (
+              <ProductCard key={post.affiliateUrl} post={post} stale />
+            ))}
+          </div>
+        </details>
+      )}
 
       <div className="w-full flex flex-col gap-3 mt-10">
         {SOCIAL_LINKS.map((link) => (
