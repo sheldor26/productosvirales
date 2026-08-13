@@ -1,8 +1,16 @@
 #!/usr/bin/env node
-// Publica un post o una Historia en Instagram vía la Graph API oficial de Meta.
+// Publica un post, un carrusel o una Historia en Instagram vía la Graph API
+// oficial de Meta.
 // Uso:
-//   node scripts/publicar-instagram.cjs feed  ruta/a/imagen.png "Copy del post"
-//   node scripts/publicar-instagram.cjs story ruta/a/imagen.png
+//   node scripts/publicar-instagram.cjs feed     ruta/a/imagen.png "Copy del post"
+//   node scripts/publicar-instagram.cjs carousel ruta/img1.png,ruta/img2.png "Copy del post"
+//   node scripts/publicar-instagram.cjs story    ruta/a/imagen.png
+//
+// El carrusel saca 2-3x más alcance que la misma imagen sola en Instagram
+// (investigación de alcance 2026-08-13, ver memoria reglas-alcance-redes-sociales-2026):
+// si el usuario no interactúa con la primera foto, Instagram vuelve a
+// mostrar el post más tarde arrancando por la segunda. Usar carrusel de
+// precio + beneficios siempre que se generen las 2 imágenes del producto.
 //
 // Requiere las variables IG_ACCESS_TOKEN, IG_BUSINESS_ACCOUNT_ID y
 // BLOB_READ_WRITE_TOKEN ya exportadas en el entorno antes de correr esto
@@ -73,6 +81,48 @@ async function createMediaContainer({ igUserId, accessToken, imageUrl, mediaType
   return data.id;
 }
 
+// Item de carrusel: mismo endpoint que un post normal, pero con
+// is_carousel_item=true y SIN caption (el caption va solo en el
+// contenedor padre que agrupa los items).
+async function createCarouselItemContainer({ igUserId, accessToken, imageUrl }) {
+  const params = new URLSearchParams({
+    image_url: imageUrl,
+    is_carousel_item: "true",
+    access_token: accessToken,
+  });
+
+  const res = await fetch(`${GRAPH_API_BASE}/${igUserId}/media?${params.toString()}`, {
+    method: "POST",
+  });
+  const data = await res.json();
+  if (!res.ok) {
+    throw new Error(`Error creando item de carrusel: ${JSON.stringify(data)}`);
+  }
+  return data.id;
+}
+
+// Contenedor padre que agrupa los items ya creados (sus IDs, no las URLs)
+// en un solo post de carrusel.
+async function createCarouselContainer({ igUserId, accessToken, childrenIds, caption }) {
+  const params = new URLSearchParams({
+    media_type: "CAROUSEL",
+    children: childrenIds.join(","),
+    access_token: accessToken,
+  });
+  if (caption) {
+    params.set("caption", caption);
+  }
+
+  const res = await fetch(`${GRAPH_API_BASE}/${igUserId}/media?${params.toString()}`, {
+    method: "POST",
+  });
+  const data = await res.json();
+  if (!res.ok) {
+    throw new Error(`Error creando el contenedor de carrusel: ${JSON.stringify(data)}`);
+  }
+  return data.id;
+}
+
 async function waitUntilReady(containerId, accessToken, { maxAttempts = 10, delayMs = 2000 } = {}) {
   for (let attempt = 1; attempt <= maxAttempts; attempt++) {
     const params = new URLSearchParams({
@@ -109,13 +159,7 @@ async function publishContainer({ igUserId, accessToken, creationId }) {
   return data.id;
 }
 
-async function main() {
-  const [, , tipo, imagePath, caption] = process.argv;
-
-  if (!tipo || !imagePath || !["feed", "story"].includes(tipo)) {
-    console.error('Uso: node scripts/publicar-instagram.cjs <feed|story> <ruta-imagen> ["caption"]');
-    process.exit(1);
-  }
+async function publishFeedOrStory({ tipo, imagePath, caption, igUserId, accessToken }) {
   if (!fs.existsSync(imagePath)) {
     console.error(`No existe el archivo: ${imagePath}`);
     process.exit(1);
@@ -123,9 +167,6 @@ async function main() {
   if (tipo === "story" && caption) {
     console.warn('Aviso: las Historias no admiten caption vía API, se ignora el texto pasado.');
   }
-
-  const accessToken = requireEnv("IG_ACCESS_TOKEN");
-  const igUserId = requireEnv("IG_BUSINESS_ACCOUNT_ID");
   const mediaType = tipo === "story" ? "STORIES" : undefined;
 
   console.log("Subiendo imagen a Vercel Blob...");
@@ -142,6 +183,68 @@ async function main() {
   console.log("Publicando...");
   const mediaId = await publishContainer({ igUserId, accessToken, creationId });
   console.log(`¡Publicado! ID: ${mediaId}`);
+}
+
+async function publishCarousel({ imagePathsArg, caption, igUserId, accessToken }) {
+  const imagePaths = imagePathsArg.split(",").map((p) => p.trim());
+  if (imagePaths.length < 2 || imagePaths.length > 10) {
+    console.error("Un carrusel necesita entre 2 y 10 imágenes (límite de Instagram).");
+    process.exit(1);
+  }
+  for (const imagePath of imagePaths) {
+    if (!fs.existsSync(imagePath)) {
+      console.error(`No existe el archivo: ${imagePath}`);
+      process.exit(1);
+    }
+  }
+
+  const childrenIds = [];
+  for (const imagePath of imagePaths) {
+    console.log(`Subiendo ${imagePath} a Vercel Blob...`);
+    const imageUrl = await uploadImageToBlob(imagePath);
+    console.log(`Imagen pública en: ${imageUrl}`);
+
+    console.log("Creando item de carrusel...");
+    const itemId = await createCarouselItemContainer({ igUserId, accessToken, imageUrl });
+    console.log(`Item creado: ${itemId}`);
+
+    console.log("Esperando a que Instagram procese la imagen...");
+    await waitUntilReady(itemId, accessToken);
+
+    childrenIds.push(itemId);
+  }
+
+  console.log("Creando contenedor de carrusel...");
+  const creationId = await createCarouselContainer({ igUserId, accessToken, childrenIds, caption });
+  console.log(`Contenedor de carrusel creado: ${creationId}`);
+
+  console.log("Esperando a que Instagram procese el carrusel...");
+  await waitUntilReady(creationId, accessToken);
+
+  console.log("Publicando...");
+  const mediaId = await publishContainer({ igUserId, accessToken, creationId });
+  console.log(`¡Publicado! ID: ${mediaId}`);
+}
+
+async function main() {
+  const [, , tipo, imagePathArg, caption] = process.argv;
+
+  if (!tipo || !imagePathArg || !["feed", "story", "carousel"].includes(tipo)) {
+    console.error(
+      'Uso: node scripts/publicar-instagram.cjs <feed|story> <ruta-imagen> ["caption"]\n' +
+      '     node scripts/publicar-instagram.cjs carousel <img1,img2,...> ["caption"]'
+    );
+    process.exit(1);
+  }
+
+  const accessToken = requireEnv("IG_ACCESS_TOKEN");
+  const igUserId = requireEnv("IG_BUSINESS_ACCOUNT_ID");
+
+  if (tipo === "carousel") {
+    await publishCarousel({ imagePathsArg: imagePathArg, caption, igUserId, accessToken });
+  } else {
+    await publishFeedOrStory({ tipo, imagePath: imagePathArg, caption, igUserId, accessToken });
+  }
 }
 
 main().catch((err) => {
