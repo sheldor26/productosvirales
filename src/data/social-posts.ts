@@ -69,4 +69,24 @@ export const socialPosts: SocialPost[] = [
     offPct: "41",
     postedAt: "2026-08-13T14:54:59-03:00",
   },
+  {
+    title: "Barra de Sonido Gadnic Bluetooth 2.1 Canales Subwoofer",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_845956-MLA110761138734_052026-O.webp",
+    affiliateUrl: "https://meli.la/2gC5yLR",
+    newPrice: "185.149",
+    oldPrice: "399.699",
+    offPct: "53",
+    postedAt: "2026-08-13T16:02:43-03:00",
+  },
+  {
+    title: "Masajeador Cervical Eléctrico Portatil Femmto",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_965769-MLA110594813506_052026-O.webp",
+    affiliateUrl: "https://meli.la/11F4Zws",
+    newPrice: "41.999",
+    oldPrice: "100.000",
+    offPct: "58",
+    postedAt: "2026-08-13T16:02:43-03:00",
+  },
 ];
