@@ -76,8 +76,23 @@ jobs:
               continue
             fi
 
+            # Guardar el markdown crudo: el parser se rompe cuando ML cambia el
+            # formato, y sin la salida real se arregla a ciegas.
+            mkdir -p /tmp/paginas
+            slug=$(echo "$label" | tr -cd '[:alnum:] ' | tr ' ' '-')
+            cp /tmp/page.md "/tmp/paginas/${source}-${slug}.md"
+
             node scripts/discover-products.cjs "$source" "$label" /tmp/page.md
           done <<< "$PAGES_EFECTIVO"
+
+      - name: Subir los markdown crudos (para depurar el parser)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: paginas-crudas
+          path: /tmp/paginas
+          retention-days: 7
+          if-no-files-found: warn
 
       - name: Abrir Pull Request si hubo reporte nuevo
         env:
