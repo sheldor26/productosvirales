@@ -4,6 +4,12 @@
 > MercadoLibre, de la corrida semanal automática. Generador de ideas — no
 > toca el catálogo. Entradas nuevas arriba.
 
+## 2026-08-13
+
+### Sombrilla playa [ml] (0 productos)
+
+_No se pudo extraer nada esta vez — revisar el parser._
+
 ## 2026-07-08
 
 ### Freidora de aire (ML) [ml] (15 productos)
