@@ -26,25 +26,41 @@ jobs:
         run: |
           set +e
 
-          echo "═══ 1. Collectors de la API DCA (la que usa el scraper puntual) ═══"
-          curl -s -m 45 "https://api.brightdata.com/dca/get_collectors" \
-            -H "Authorization: Bearer $TOKEN" | head -c 3000
-          echo; echo
-
-          echo "═══ 2. Datasets v3 disponibles ═══"
-          curl -s -m 45 "https://api.brightdata.com/datasets/v3/datasets" \
-            -H "Authorization: Bearer $TOKEN" | head -c 3000
-          echo; echo
-
-          echo "═══ 3. Datasets del catalogo (filtrando MercadoLibre) ═══"
+          echo "═══ Datasets de MercadoLibre con su ID ═══"
           curl -s -m 45 "https://api.brightdata.com/datasets/list" \
             -H "Authorization: Bearer $TOKEN" > /tmp/list.json
-          head -c 200 /tmp/list.json; echo
-          echo "-- coincidencias con mercado/meli --"
-          grep -io '[^,{}]*mercado[^,{}]*' /tmp/list.json | head -20
+          node -e '
+            const all = JSON.parse(require("fs").readFileSync("/tmp/list.json","utf8"));
+            const ml = all.filter(d => /mercado ?li[bv]re|meli/i.test(d.name || ""));
+            console.log("total datasets en el catalogo:", all.length);
+            for (const d of ml) console.log(`  ${d.id}  ${d.name}  (${d.size ?? "?"} filas)`);
+          '
           echo
 
-          echo "═══ 4. Zonas activas (para saber que producto esta contratado) ═══"
-          curl -s -m 45 "https://api.brightdata.com/zone/get_active_zones" \
-            -H "Authorization: Bearer $TOKEN" | head -c 1500
+          echo "═══ Probar discover por keyword en el dataset \"Mercado Libre\" ═══"
+          DS=$(node -pe '
+            const all=JSON.parse(require("fs").readFileSync("/tmp/list.json","utf8"));
+            (all.find(d => /^mercado libre$/i.test(d.name||"")) || {}).id || ""
+          ')
+          echo "dataset_id: $DS"
+          if [ -n "$DS" ]; then
+            curl -s -m 60 -X POST \
+              "https://api.brightdata.com/datasets/v3/trigger?dataset_id=$DS&type=discover_new&discover_by=keyword" \
+              -H "Authorization: Bearer $TOKEN" \
+              -H "Content-Type: application/json" \
+              -d '[{"keyword":"sombrilla playa"}]' | head -c 800
+            echo
+          fi
           echo
+
+          echo "═══ Probar el Browser API (zona mcp_browser) sobre un listado ═══"
+          curl -s -m 90 -X POST "https://api.brightdata.com/request" \
+            -H "Authorization: Bearer $TOKEN" \
+            -H "Content-Type: application/json" \
+            -d '{"zone":"mcp_browser","url":"https://listado.mercadolibre.com.ar/sombrilla-playa-aluminio","format":"raw","data_format":"markdown"}' \
+            > /tmp/browser.md
+          echo "bytes: $(wc -c < /tmp/browser.md)"
+          echo "-- links de producto encontrados --"
+          grep -oE "https://[^)\" ]*(/p/MLA|MLA-)[A-Za-z0-9-]*" /tmp/browser.md | head -8
+          echo "-- precios encontrados --"
+          grep -oE '\$ ?[0-9][0-9.]{3,}' /tmp/browser.md | head -5
