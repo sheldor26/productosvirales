@@ -16,6 +16,16 @@
 **Archivos involucrados:** `path/a/archivo.ts`
 -->
 
+## 2026-08-13 — Publicación automática de Instagram (feed + Historias) quedó funcionando de punta a punta
+
+**Qué funcionó:** `scripts/publicar-instagram.cjs` publica posts y Historias reales en `@productosvirales.ok` vía la Instagram Graph API oficial (flujo "API setup with Instagram login", app Meta "ProductosVirales Social"). Sube la imagen a Vercel Blob (público), crea el media container, espera a que Instagram lo procese, y publica. Reusa el generador de imágenes del post cuadrado (`generar-imagen-post-threads.cjs`) para el feed, y usa un generador nuevo (`generar-imagen-story-instagram.cjs` + `threads-post-template-story.html`, 1080×1920) para Historias — nunca la misma imagen del feed, Instagram la recorta en 9:16 en el celular.
+
+**Por qué:** todo el trabajo pesado (crear la app en Meta, agregar el caso de uso Instagram, sumar los permisos `instagram_business_basic` + `instagram_business_content_publish`, agregar `productosvirales.ok` como Instagram Tester, conectar el Blob store al proyecto) se hizo una sola vez en el browser; de acá en adelante publicar es un solo comando. División de tareas clara: yo armé y depuré todo el código, pero el token de acceso, el `BLOB_READ_WRITE_TOKEN` y la aceptación de la invitación de tester los hizo Juan directamente (nunca manejo credenciales).
+
+**Cuándo aplicarlo:** cualquier publicación futura a Instagram (feed o Historia) de un producto ya verificado en vivo — mismo criterio de datos reales que Threads/X. El token de acceso dura 60 días, hay que regenerarlo antes de que expire (recordar chequear fecha).
+
+**Archivos involucrados:** `scripts/publicar-instagram.cjs`, `scripts/generar-imagen-story-instagram.cjs`, `scripts/threads-post-template-story.html`, `.env.example`
+
 ## 2026-08-12 — La palabra de la query dice la intención mejor que la posición
 
 **Qué funcionó:** al mirar por qué la marca Atma rendía mal en GSC (133 queries, 839 impresiones, 7 clicks), en vez de leer el promedio apareció un patrón nítido al ordenar por texto de la query:

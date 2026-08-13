@@ -16,6 +16,16 @@
 **Archivos involucrados:** `path/a/archivo.ts`
 -->
 
+## 2026-08-13 — Publicación automática de Instagram: dos bugs reales antes de que funcionara
+
+**Qué pasó:** al armar `scripts/publicar-instagram.cjs`, dos fallos consecutivos antes de la primera publicación exitosa. (1) El script apuntaba a `graph.facebook.com`, y con un token generado por el flujo "API setup with Instagram login" eso devuelve `"Cannot parse access token"` (código 190) — parecía un token mal copiado (probé recopiarlo dos veces) pero el token estaba bien, el host era el que no correspondía. (2) La primera Historia de prueba se publicó con la imagen del post cuadrado (1080×1350, formato Threads/feed) en vez de una imagen 9:16 — se veía bien en la versión web de Instagram (letterboxed, sin recortar) pero en el celular (donde las Historias son siempre pantalla completa) salió recortada.
+
+**Por qué:** Meta tiene dos flujos de Instagram Graph API con hosts distintos según cómo se conectó la cuenta — "Instagram login" usa `graph.instagram.com`, "Facebook login" (vía Página de FB) usa `graph.facebook.com` — y usan el mismo formato de token (`IGAA...`) así que el error no lo delata a simple vista. Y la plantilla dedicada para Historias (1080×1920, ya diseñada y auditada en la sesión del formato hype/cupón) nunca se guardó en el repo — vivía solo en el scratchpad de esa sesión, que es efímero, así que se perdió al cerrar la sesión.
+
+**Cómo evitarlo:** si un script de Graph API devuelve "Cannot parse access token" con un token que parece bien formado, chequear primero qué flujo de conexión se usó (Instagram login vs Facebook login) antes de sospechar del token. Y toda plantilla HTML/CSS que pase el trío auditor y se vaya a reusar debe guardarse en el repo (`scripts/`) en el momento, no dejarla en scratchpad — ver `LEARNINGS.md` de la misma fecha.
+
+**Archivos involucrados:** `scripts/publicar-instagram.cjs`, `scripts/threads-post-template-story.html`, `scripts/generar-imagen-story-instagram.cjs`
+
 ## 2026-08-12 — Diagnostiqué un bug de indentación que no existía, y el "arreglo" rompió el YAML
 
 **Qué pasó:** al escribir el workflow `check-catalogo-fresco.yml` sospeché que el heredoc que arma el cuerpo del issue preservaba la indentación del YAML, y que por eso GitHub iba a renderizar el issue entero como un bloque de código (4+ espacios al principio de línea = code block en Markdown). Reescribí ese workflow y también `avisar-fallas.yml` para pegar el heredoc al margen izquierdo. Resultado: el heredoc en columna 0 rompió el bloque literal `run: |` y el YAML dejó de parsear.

@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { width:1080px; height:1350px; font-family:'Arial', 'Helvetica Neue', sans-serif; overflow:hidden; }
+
+  .canvas {
+    width:1080px; height:1350px; position:relative;
+    background: linear-gradient(160deg, #EFE6FF 0%, #F9EEFA 35%, #FFEDE4 100%);
+    overflow:hidden;
+  }
+
+  .spark { position:absolute; color:#f4b5a4; z-index:1; opacity:0.7; }
+
+  /* top bar — real productosvirales wordmark, colors from src/components/layout/Header.tsx */
+  .topbar {
+    position:absolute; top:0; left:0; width:1080px; height:180px;
+    background:#fff;
+    box-shadow: 0 4px 0 rgba(184,169,212,0.25);
+    display:flex; align-items:center;
+    padding: 0 56px;
+    z-index:3;
+  }
+  .wordmark { display:flex; flex-direction:column; }
+  .wordmark .row { display:flex; align-items:center; gap:4px; }
+  .wordmark .productos { font-size:54px; font-weight:800; letter-spacing:-1px; color:#b8a9d4; }
+  .wordmark .virales {
+    font-size:54px; font-weight:800; letter-spacing:-1px; color:#fff;
+    background: linear-gradient(120deg, #f4b5a4, #ef8f76); padding:2px 22px; border-radius:14px; position:relative;
+  }
+  .wordmark .virales svg { position:absolute; top:-4px; right:-10px; width:26px; height:26px; }
+  .wordmark .tagline { font-size:24px; color:#f4b5a4; font-style:italic; margin-top:2px; margin-left:2px; font-weight:600; }
+
+  /* photo frame — fixed box, image always contained inside via object-fit:contain */
+  .photo-frame {
+    position:absolute; top:212px; left:60px; width:960px; height:462px;
+    background:#fff; border-radius:32px; z-index:2;
+    box-shadow: 0 22px 40px rgba(184,169,212,0.35);
+    border: 3px solid #fff;
+    display:flex; align-items:center; justify-content:center;
+    padding:30px;
+  }
+  .photo-frame img { max-width:100%; max-height:100%; object-fit:contain; }
+  .photo-frame .img-fallback {
+    display:none; color:#b8a9d4; font-size:28px; font-weight:700; text-align:center;
+  }
+
+  .off-badge {
+    position:absolute; top:150px; right:34px; z-index:6;
+    width:220px; height:220px; border-radius:50%;
+    background: linear-gradient(135deg, #ff9d82 0%, #ef6f4f 100%);
+    color:#fff; display:flex; flex-direction:column; align-items:center; justify-content:center;
+    box-shadow: 0 14px 30px rgba(239,111,79,0.55), 0 0 0 10px rgba(244,181,164,0.35);
+    transform: rotate(9deg);
+    border: 7px solid #fff;
+  }
+  .off-badge .pct { font-size:64px; font-weight:900; line-height:1; }
+  .off-badge .lbl { font-size:28px; font-weight:800; letter-spacing:1.5px; }
+
+  .stock-pill {
+    position:absolute; top:238px; left:88px; z-index:6;
+    background:#2d2540; color:#fff; font-weight:800; font-size:27px;
+    padding:13px 28px; border-radius:14px;
+    box-shadow: 0 8px 16px rgba(45,37,64,0.3);
+    border: 3px solid #fff;
+    max-width:420px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;
+  }
+
+  .card {
+    position:absolute; bottom:0; left:0; width:1080px; height:648px;
+    background:#fff; border-radius:52px 52px 0 0; z-index:5;
+    box-shadow: 0 -14px 34px rgba(184,169,212,0.18);
+    display:flex; flex-direction:column;
+    padding: 46px 56px 30px 56px;
+    overflow:hidden;
+  }
+  .title {
+    flex-shrink:0;
+    font-size:49px; font-weight:800; color:#1a1a2e; line-height:1.24;
+    margin-bottom:14px;
+    max-height:2.55em; overflow:hidden;
+    word-break:break-word; overflow-wrap:anywhere;
+  }
+  .brand-row { flex-shrink:0; display:flex; align-items:center; gap:12px; margin-bottom:12px; min-width:0; }
+  .brand-tag {
+    font-size:34px; font-weight:700; color:#444;
+    max-width:700px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;
+  }
+  .check { flex-shrink:0; width:30px; height:30px; border-radius:50%; background:#b8a9d4; color:#fff; display:flex; align-items:center; justify-content:center; font-size:19px; font-weight:900; }
+
+  .rating-row { flex-shrink:0; display:flex; align-items:center; gap:12px; margin-bottom:16px; font-size:34px; color:#555; }
+  .star { color:#ef8f76; font-size:34px; }
+
+  .price-row { flex-shrink:0; display:flex; align-items:baseline; gap:22px; margin-bottom:16px; flex-wrap:wrap; }
+  .old-price { font-size:34px; color:#999; text-decoration:line-through; }
+  .new-price { font-size:82px; font-weight:900; color:#1a1a2e; letter-spacing:-1px; }
+
+  .save-pill {
+    flex-shrink:0;
+    display:inline-flex; align-items:center; gap:14px; align-self:flex-start;
+    background: linear-gradient(120deg, #f4b5a4, #ef8f76); color:#fff; font-weight:800; font-size:32px;
+    padding:14px 30px; border-radius:16px; margin-bottom:16px;
+    box-shadow: 0 10px 20px rgba(239,143,118,0.4);
+    max-width:100%; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;
+  }
+
+  /* footer sits in normal flex flow (not absolute) so it can never overlap the price/save-pill above it */
+  .footer-row { flex-shrink:0; margin-top:auto; display:flex; align-items:center; justify-content:flex-end; }
+  .ml-badge {
+    display:flex; flex-direction:column; align-items:center; justify-content:center;
+    background:#fff; border-radius:20px; padding:6px 20px 9px;
+    box-shadow: 0 10px 26px rgba(184,169,212,0.4), 0 0 0 3px #F2ECFF;
+  }
+  .ml-badge .label { font-size:15px; font-weight:700; color:#999; margin-bottom:1px; }
+  .ml-logo { height:58px; }
+</style>
+</head>
+<body>
+  <div class="canvas">
+    <div class="spark" style="top:150px; left:600px; font-size:40px;">&#10022;</div>
+    <div class="spark" style="top:700px; left:30px; font-size:28px;">&#10022;</div>
+    <div class="spark" style="top:130px; left:850px; font-size:22px;">&#10022;</div>
+
+    <div class="topbar">
+      <div class="wordmark">
+        <div class="row">
+          <span class="productos">productos</span>
+          <span class="virales">virales
+            <svg viewBox="0 0 12 12" fill="none">
+              <path d="M2 9L6 5L8 7L11 3" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+              <path d="M8 3H11V6" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+          </span>
+        </div>
+        <div class="tagline">productosvirales.com.ar</div>
+      </div>
+    </div>
+
+    <div class="photo-frame">
+      <img src="__IMG_URL__" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';" />
+      <div class="img-fallback">Foto no disponible</div>
+    </div>
+    <div class="stock-pill">__BADGE__</div>
+    <div class="off-badge"><span class="pct">-__OFF_PCT__%</span><span class="lbl">OFF</span></div>
+
+    <div class="card">
+      <div class="title">__TITLE__</div>
+      <div class="brand-row">
+        <span class="brand-tag">__BRAND__</span>
+        <span class="check">&#10003;</span>
+      </div>
+      <div class="rating-row">
+        <span class="star">&#9733;</span>
+        <span>__RATING__ | __SOLD__</span>
+      </div>
+      <div class="price-row">
+        <span class="old-price">$ __OLD_PRICE__</span>
+        <span class="new-price">$ __NEW_PRICE__</span>
+      </div>
+      <div class="save-pill">&#128176; Ahorrás $ __SAVINGS__</div>
+      <div class="footer-row">
+        <div class="ml-badge">
+          <span class="label">Disponible en</span>
+          <img class="ml-logo" src="__ML_LOGO__" />
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

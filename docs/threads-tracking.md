@@ -5,6 +5,30 @@ Completar vistas/seguidores a las 24-48hs de publicado. Entradas nuevas arriba.
 
 ---
 
+## Formato v3 (hype/cupón, desde 2026-08-09)
+
+**Reemplaza al v2 en Threads** — decisión explícita de Juan, copiando el formato
+que ya vio funcionar a otras cuentas del nicho, no un experimento a ciegas.
+Ver memoria `threads-formato-hype-cupon-no-curador-honesto`. El formato v2
+"curador honesto" sigue siendo la voz del resto del sitio, no de Threads.
+
+Desde el 2026-08-10, el flujo pasó a generar 2 imágenes por post (precio +
+beneficios) con `scripts/generar-imagen-post-threads.cjs` +
+`scripts/generar-imagen-beneficios-threads.cjs`, en vez de captura de pantalla
+cruda de la ficha de ML. Ver memoria `threads-generador-imagen-post`.
+
+Línea de base (posts reales de Juan, formato copiado a mano antes de este log):
+DualSense PS5 Gray Camouflage con cupón DOBLE88 → **283 vistas, el mejor
+resultado de la cuenta hasta ahora** (post viejo, sin el generador de imágenes).
+
+| Fecha | Producto | Categoría | Cupón real | Precio verificado | Vistas | Seguidores | Notas |
+|---|---|---|---|---|---|---|---|
+| 2026-08-13 | Cafetera Expresso Cuk By Gadnic 20 Bar | Cocina | no (solo % OFF) | sí, Chrome vivo | | | Tienda oficial Gadnic, 4.6★/118 op., +500 vendidos, 57% OFF. Precio real de 1 unidad confirmado — la página también mostraba precio por pack de 2 y 10 unidades, no usado. |
+| 2026-08-11 | Control DualSense PS5 Gray Camouflage (redo) | Gaming | no (solo % OFF) | sí, Chrome búsqueda de ML | 80 (parcial, sigue sumando) | | Repetición del producto que dio 283 vistas históricas, esta vez con precio actual y las 2 imágenes generadas. Tienda oficial ML, 4.9★/93.126 op., 43% OFF. |
+| 2026-08-10 | Auriculares JBL Wave Beam 2 TWS | Audio | no (solo % OFF) | sí, Chrome búsqueda de ML | | | Primer post con la plantilla branded generada por script, no captura cruda de ML — pasó 2 rondas de trio-auditor (GO). Tienda oficial JBL, 4.8★/834 op., +5 mil vendidos, badge real "MÁS VENDIDO" (no "última unidad": tenía +50 disponibles). Confirmado publicado por Juan. |
+
+---
+
 ## Formato v2 (desde 2026-07-27)
 
 Cambios respecto del v1, todos con dato atrás (ver `~/.claude/skills/price-drops-threads/SKILL.md`):

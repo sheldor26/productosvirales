@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { width:1080px; height:1920px; font-family:'Arial', 'Helvetica Neue', sans-serif; overflow:hidden; }
+
+  .canvas {
+    width:1080px; height:1920px; position:relative;
+    background: linear-gradient(160deg, #EFE6FF 0%, #F9EEFA 35%, #FFEDE4 100%);
+    overflow:hidden;
+  }
+
+  .spark { position:absolute; color:#f4b5a4; z-index:1; opacity:0.7; }
+
+  /* Sin topbar solida: Instagram ya dibuja su propia UI (usuario/hora) arriba
+     de las Historias, asi que el wordmark flota directo sobre el fondo,
+     dentro de la "safe zone" (y=250-1670) para no quedar tapado. */
+  .wordmark {
+    position:absolute; top:280px; left:0; width:1080px;
+    display:flex; flex-direction:column; align-items:center; z-index:3;
+  }
+  .wordmark .row { display:flex; align-items:center; gap:4px; }
+  .wordmark .productos { font-size:50px; font-weight:800; letter-spacing:-1px; color:#b8a9d4; }
+  .wordmark .virales {
+    font-size:50px; font-weight:800; letter-spacing:-1px; color:#fff;
+    background: linear-gradient(120deg, #f4b5a4, #ef8f76); padding:2px 20px; border-radius:14px; position:relative;
+  }
+  .wordmark .virales svg { position:absolute; top:-4px; right:-10px; width:24px; height:24px; }
+  .wordmark .tagline { font-size:22px; color:#f4b5a4; font-style:italic; margin-top:4px; font-weight:600; }
+
+  .photo-frame {
+    position:absolute; top:390px; left:60px; width:960px; height:560px;
+    background:#fff; border-radius:32px; z-index:2;
+    box-shadow: 0 22px 40px rgba(184,169,212,0.35);
+    border: 3px solid #fff;
+    display:flex; align-items:center; justify-content:center;
+    padding:30px;
+  }
+  .photo-frame img { max-width:100%; max-height:100%; object-fit:contain; }
+  .photo-frame .img-fallback {
+    display:none; color:#b8a9d4; font-size:28px; font-weight:700; text-align:center;
+  }
+
+  .off-badge {
+    position:absolute; top:340px; right:34px; z-index:6;
+    width:200px; height:200px; border-radius:50%;
+    background: linear-gradient(135deg, #ff9d82 0%, #ef6f4f 100%);
+    color:#fff; display:flex; flex-direction:column; align-items:center; justify-content:center;
+    box-shadow: 0 14px 30px rgba(239,111,79,0.55), 0 0 0 10px rgba(244,181,164,0.35);
+    transform: rotate(9deg);
+    border: 7px solid #fff;
+  }
+  .off-badge .pct { font-size:58px; font-weight:900; line-height:1; }
+  .off-badge .lbl { font-size:26px; font-weight:800; letter-spacing:1.5px; }
+
+  .stock-pill {
+    position:absolute; top:430px; left:88px; z-index:6;
+    background:#2d2540; color:#fff; font-weight:800; font-size:25px;
+    padding:12px 26px; border-radius:14px;
+    box-shadow: 0 8px 16px rgba(45,37,64,0.3);
+    border: 3px solid #fff;
+    max-width:400px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;
+  }
+
+  /* La card no se estira hasta el borde inferior del canvas (altura auto):
+     asi el contenido real (con titulo de 2 lineas incluido) manda cuanto
+     mide, y podemos chequear en el PNG final que su borde no pase de
+     y=1670 (limite inferior de la safe zone de Historias). */
+  .card {
+    position:absolute; top:970px; left:0; width:1080px;
+    background:#fff; border-radius:52px 52px 0 0; z-index:5;
+    box-shadow: 0 -14px 34px rgba(184,169,212,0.18);
+    display:flex; flex-direction:column;
+    padding: 40px 56px;
+  }
+  .title {
+    font-size:46px; font-weight:800; color:#1a1a2e; line-height:1.22;
+    margin-bottom:14px;
+    max-height:2.44em; overflow:hidden;
+    word-break:break-word; overflow-wrap:anywhere;
+  }
+  .brand-row { display:flex; align-items:center; gap:12px; margin-bottom:12px; min-width:0; }
+  .brand-tag {
+    font-size:32px; font-weight:700; color:#444;
+    max-width:680px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;
+  }
+  .check { flex-shrink:0; width:28px; height:28px; border-radius:50%; background:#b8a9d4; color:#fff; display:flex; align-items:center; justify-content:center; font-size:18px; font-weight:900; }
+
+  .rating-row { display:flex; align-items:center; gap:12px; margin-bottom:16px; font-size:32px; color:#555; }
+  .star { color:#ef8f76; font-size:32px; }
+
+  /* nowrap a proposito: un precio largo con flex-wrap:wrap podia romper a
+     una segunda linea y sumar alto no planeado (hallazgo real de Codex en
+     la version del post cuadrado). */
+  .price-row { display:flex; align-items:baseline; gap:20px; margin-bottom:14px; flex-wrap:nowrap; }
+  .old-price { font-size:32px; color:#999; text-decoration:line-through; white-space:nowrap; }
+  .new-price { font-size:74px; font-weight:900; color:#1a1a2e; letter-spacing:-1px; white-space:nowrap; }
+
+  .save-pill {
+    display:inline-flex; align-items:center; gap:12px;
+    background: linear-gradient(120deg, #f4b5a4, #ef8f76); color:#fff; font-weight:800; font-size:29px;
+    padding:12px 26px; border-radius:16px; margin-bottom:14px;
+    box-shadow: 0 10px 20px rgba(239,143,118,0.4);
+    max-width:100%; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;
+  }
+
+  .footer-row { margin-top:10px; display:flex; align-items:center; justify-content:flex-end; }
+  .ml-badge {
+    display:flex; flex-direction:column; align-items:center; justify-content:center;
+    background:#fff; border-radius:18px; padding:5px 18px 7px;
+    box-shadow: 0 10px 26px rgba(184,169,212,0.4), 0 0 0 3px #F2ECFF;
+  }
+  .ml-badge .label { font-size:14px; font-weight:700; color:#999; margin-bottom:1px; }
+  .ml-logo { height:44px; }
+</style>
+</head>
+<body>
+  <div class="canvas">
+    <div class="spark" style="top:200px; left:600px; font-size:36px;">&#10022;</div>
+    <div class="spark" style="top:850px; left:30px; font-size:26px;">&#10022;</div>
+    <div class="spark" style="top:180px; left:850px; font-size:20px;">&#10022;</div>
+
+    <div class="wordmark">
+      <div class="row">
+        <span class="productos">productos</span>
+        <span class="virales">virales
+          <svg viewBox="0 0 12 12" fill="none">
+            <path d="M2 9L6 5L8 7L11 3" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M8 3H11V6" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </span>
+      </div>
+      <div class="tagline">productosvirales.com.ar</div>
+    </div>
+
+    <div class="photo-frame">
+      <img src="__IMG_URL__" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';" />
+      <div class="img-fallback">Foto no disponible</div>
+    </div>
+    <div class="stock-pill">__BADGE__</div>
+    <div class="off-badge"><span class="pct">-__OFF_PCT__%</span><span class="lbl">OFF</span></div>
+
+    <div class="card">
+      <div class="title">__TITLE__</div>
+      <div class="brand-row">
+        <span class="brand-tag">__BRAND__</span>
+        <span class="check">&#10003;</span>
+      </div>
+      <div class="rating-row">
+        <span class="star">&#9733;</span>
+        <span>__RATING__ | __SOLD__</span>
+      </div>
+      <div class="price-row">
+        <span class="old-price">$ __OLD_PRICE__</span>
+        <span class="new-price">$ __NEW_PRICE__</span>
+      </div>
+      <div class="save-pill">&#128176; Ahorrás $ __SAVINGS__</div>
+      <div class="footer-row">
+        <div class="ml-badge">
+          <span class="label">Disponible en</span>
+          <img class="ml-logo" src="__ML_LOGO__" />
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
