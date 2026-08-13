@@ -16,6 +16,7 @@
  */
 
 const fs = require("fs");
+const { estaProtegido, leerVerificadoAt, FORCE_FLAG } = require("./lib/price-guard.cjs");
 const path = require("path");
 
 const CATALOG_PATH = path.resolve("src/data/curated-products.ts");
@@ -57,12 +58,14 @@ Options:
   --min-ratio N           Suspicious lower ratio guard (default: 0.2)
   --max-ratio N           Suspicious upper ratio guard (default: 5)
   --product-timeout-ms N   Hard timeout per product (default: 120000)
+  --force-manual-price     pisa precios verificados a mano (por defecto se respetan)
 `);
 }
 
 function parseArgs(argv) {
   const opts = {
     apply: false,
+    forceManualPrice: argv.includes(FORCE_FLAG),
     all: false,
     limit: 20,
     ids: [],
@@ -93,6 +96,8 @@ function parseArgs(argv) {
     else if (arg === "--min-ratio") opts.minRatio = Number(argv[++i]);
     else if (arg === "--max-ratio") opts.maxRatio = Number(argv[++i]);
     else if (arg === "--product-timeout-ms") opts.productTimeoutMs = Number(argv[++i]);
+    // Pisa a proposito un precio verificado a mano. Ver scripts/lib/price-guard.cjs.
+    else if (arg === FORCE_FLAG) opts.forceManualPrice = true;
     else {
       console.error(`Unknown option: ${arg}`);
       usage();
@@ -558,9 +563,23 @@ function upsertNumericProp(block, prop, value, afterProp = "price") {
   return block;
 }
 
+const PROTEGIDOS = [];
+
 function updateProductBlock(block, result, opts) {
   let next = block;
-  if (result.currentPrice) {
+  // Precio verificado a mano hace poco: no se pisa. Ver scripts/lib/price-guard.cjs.
+  // Se sigue refrescando priceLastChecked/rating/reviewCount: el producto SI se
+  // chequeo, lo unico que no se toca es el precio.
+  const protegido = estaProtegido(block, { forzar: Boolean(opts && opts.forceManualPrice) });
+  if (result.currentPrice && protegido) {
+    PROTEGIDOS.push({
+      id: (block.match(/id:\s*['"]([^'"]+)['"]/) || [])[1],
+      actual: (block.match(/\n\s+price:\s*(\d+)/) || [])[1],
+      propuesto: result.currentPrice,
+      verificadoAt: leerVerificadoAt(block),
+    });
+  }
+  if (result.currentPrice && !protegido) {
     next = next.replace(/(\n\s+price:\s*)\d+(?:\.\d+)?(\s*,)/, `$1${result.currentPrice}$2`);
 
     if (result.originalPrice && result.originalPrice > result.currentPrice) {
@@ -579,6 +598,10 @@ function updateProductBlock(block, result, opts) {
     next = upsertNumericProp(next, "rating", result.rating, "freeShipping");
     next = upsertNumericProp(next, "reviewCount", result.reviewCount, "rating");
     next = upsertNumericProp(next, "soldQuantity", result.soldQuantity, "reviewCount");
+  } else if (result.currentPrice && protegido) {
+    next = upsertStringProp(next, "priceLastChecked", TODAY, "price");
+    next = upsertNumericProp(next, "rating", result.rating, "freeShipping");
+    next = upsertNumericProp(next, "reviewCount", result.reviewCount, "rating");
   } else if (result.status === "out_of_stock") {
     next = upsertStringProp(next, "priceLastChecked", TODAY, "price");
     next = upsertStringProp(next, "priceStatus", "out_of_stock", "priceLastChecked");
@@ -771,6 +794,9 @@ async function main() {
   console.log(`  failed:     ${failed.length}`);
   console.log(`  wrote:      ${opts.apply ? "yes" : "no (dry run)"}`);
   console.log(`  results:    ${path.relative(process.cwd(), RESULTS_PATH)}`);
+  if (PROTEGIDOS.length > 0) {
+    require("./lib/price-guard.cjs").avisarProtegidos(PROTEGIDOS, "update-prices-from-ml.cjs");
+  }
 }
 
 main().catch((error) => {

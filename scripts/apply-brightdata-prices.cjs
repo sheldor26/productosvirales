@@ -30,6 +30,9 @@
 
 const fs = require("fs");
 const path = require("path");
+// Guard compartido con los otros 3 scripts que escriben precios, para que el
+// umbral no viva duplicado en cuatro lugares que se desincronizan.
+const { PROTECCION_MANUAL_DIAS, diasDesde, FORCE_FLAG } = require("./lib/price-guard.cjs");
 
 const CATALOG_PATH = path.resolve("src/data/curated-products.ts");
 const SUSPICIOUS_DOC_PATH = path.resolve("docs/precios-sospechosos.md");
@@ -39,32 +42,9 @@ const ENRICHMENT_CACHE_PATH = path.resolve(".cache/brightdata-enrichment.json");
 const PENDING_DROPS_PATH = path.resolve(".cache/pending-price-drops.json");
 const MIN_RATIO = 0.5;
 const MAX_RATIO = 2;
-/**
- * Cuantos dias vale una verificacion manual. Mientras `priceVerifiedAt` sea
- * mas reciente que esto, Bright Data NO puede pisar ese precio.
- *
- * Por que existe: el 2026-08-12 la corrida automatica piso 11 de 15 precios
- * verificados a mano en ML, devolviendolos a sus valores viejos (Spica
- * $29.099 -> $17.499, Vanta $98.000 -> $70.005, GA.MA $119.990 -> $99.560).
- * Se re-verificaron dos en vivo ese mismo dia y seguian como se los habia
- * verificado: no eran bajas reales, era dato falso reescribiendose solo cada
- * 48hs. El guard de MIN_RATIO/MAX_RATIO no los atajaba porque esos desvios
- * (19-23%) caen comodos dentro del rango 0.5-2.
- *
- * 7 dias es a proposito mas que los 2-3 que pasan entre corridas: alcanza
- * para que una verificacion sobreviva varias pasadas del scraper, y es poco
- * como para no congelar un precio que cambio de verdad.
- */
-const PROTECCION_MANUAL_DIAS = 7;
-
-/** Dias entre una fecha YYYY-MM-DD y hoy. Infinity si no hay fecha valida. */
-function diasDesde(fecha) {
-  if (!fecha) return Infinity;
-  const ms = Date.parse(new Date().toISOString().slice(0, 10)) - Date.parse(fecha);
-  return Number.isFinite(ms) ? Math.floor(ms / 86400000) : Infinity;
-}
-const REVIEW_COUNT_MIN_RATIO = 0.5; // igual criterio que precios: una caida a menos de la mitad es sospechosa, no una baja real
-
+// Igual criterio que precios: una caida a menos de la mitad es sospechosa,
+// no una baja real.
+const REVIEW_COUNT_MIN_RATIO = 0.5;
 /**
  * Lee un dataset de Bright Data, que puede venir como array JSON o como NDJSON
  * (un objeto por linea). Bright Data cambia el formato sin avisar: el
@@ -653,9 +633,13 @@ function main() {
   // registrados en docs/precios-protegidos.md (doc propio, no el de
   // sospechosos: son motivos distintos) para que se vea que el scraper
   // propuso otra cosa y se descarto a proposito.
-  const protegidos = changes.filter(
-    (c) => diasDesde(c.priceVerifiedAt) <= PROTECCION_MANUAL_DIAS
-  );
+  const forzar = args.includes(FORCE_FLAG);
+  const protegidos = forzar
+    ? []
+    : changes.filter((c) => diasDesde(c.priceVerifiedAt) <= PROTECCION_MANUAL_DIAS);
+  if (forzar) {
+    console.log(`${FORCE_FLAG}: la proteccion manual de precios queda DESACTIVADA en esta corrida.`);
+  }
   const suspicious = changes.filter((c) => {
     if (protegidos.includes(c)) return false;
     const ratio = c.scraped / c.stored;
