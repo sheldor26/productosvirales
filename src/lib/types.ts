@@ -389,3 +389,18 @@ export interface MLReviews {
   rating_average: number;
   total: number;
 }
+
+/**
+ * Un producto posteado en redes (Threads/X/Instagram), para la página
+ * /enlaces (estilo Linktree). `postedAt` es lo que decide si sigue
+ * apareciendo: se filtra a las últimas 24hs en cada request.
+ */
+export interface SocialPost {
+  title: string;
+  imageUrl: string;
+  affiliateUrl: string;
+  newPrice: string;
+  oldPrice: string;
+  offPct: string;
+  postedAt: string; // ISO 8601
+}

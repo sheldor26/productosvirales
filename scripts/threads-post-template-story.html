@@ -114,6 +114,19 @@
   }
   .ml-badge .label { font-size:14px; font-weight:700; color:#999; margin-bottom:1px; }
   .ml-logo { height:44px; }
+
+  /* Instagram no deja agregar el sticker de link a mano sobre una Historia
+     publicada por API (limitacion de Meta, no de la cuenta) — este texto
+     horneado en la imagen es el reemplazo permanente, no un parche puntual.
+     Va debajo de la card, que en la práctica termina bien antes de los
+     y=1670 de la safe zone (medido con título de 1 y de 2 líneas), así que
+     siempre hay lugar libre acá sin invadir la UI propia de Instagram. */
+  .bio-cta {
+    position:absolute; top:1620px; left:0; width:1080px;
+    display:flex; align-items:center; justify-content:center; gap:14px;
+    font-size:30px; font-weight:800; color:#7a6a9c;
+  }
+  .bio-cta .arrow { font-size:34px; }
 </style>
 </head>
 <body>
@@ -164,6 +177,8 @@
         </div>
       </div>
     </div>
+
+    <div class="bio-cta"><span class="arrow">&#8593;</span> Link en la bio</div>
   </div>
 </body>
 </html>
