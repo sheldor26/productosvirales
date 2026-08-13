@@ -85,6 +85,22 @@ export interface Product {
   priceUpdated?: string;    // ISO date when the price was last verified
   /** ISO date the price was last checked. Drives JSON-LD `priceValidUntil` (we add 30 days). */
   priceLastChecked?: string;
+  /**
+   * Fecha (YYYY-MM-DD) en que un humano verifico este precio a mano en
+   * MercadoLibre, mirando la publicacion. NO lo escribe ningun scraper.
+   *
+   * Existe porque Bright Data devuelve datos falsos de forma sistematica: el
+   * 2026-08-12 su corrida automatica piso 11 de 15 precios verificados a mano,
+   * devolviendolos a valores viejos (el Spica a $17.499 cuando en ML estaba a
+   * $29.099, el Vanta a $70.005 cuando estaba a $98.000). No eran bajas
+   * reales: se re-chequearon en vivo y seguian como los habia verificado.
+   *
+   * `apply-brightdata-prices.cjs` respeta esta marca durante
+   * PROTECCION_MANUAL_DIAS y lo registra en docs/precios-protegidos.md en vez
+   * de aplicarlo. Pasada esa ventana la verificacion caduca y el scraper vuelve
+   * a mandar, para no congelar un precio para siempre.
+   */
+  priceVerifiedAt?: string;
   /** "fresh" = price verified recently. "stale" = could not auto-verify, may be outdated. "out_of_stock" = listing inactive. */
   priceStatus?: "fresh" | "stale" | "out_of_stock";
   reviewCount?: number;

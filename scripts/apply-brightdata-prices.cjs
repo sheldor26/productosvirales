@@ -33,11 +33,36 @@ const path = require("path");
 
 const CATALOG_PATH = path.resolve("src/data/curated-products.ts");
 const SUSPICIOUS_DOC_PATH = path.resolve("docs/precios-sospechosos.md");
+const PROTECTED_DOC_PATH = path.resolve("docs/precios-protegidos.md");
 const HISTORY_PATH = path.resolve("src/data/price-history.json");
 const ENRICHMENT_CACHE_PATH = path.resolve(".cache/brightdata-enrichment.json");
 const PENDING_DROPS_PATH = path.resolve(".cache/pending-price-drops.json");
 const MIN_RATIO = 0.5;
 const MAX_RATIO = 2;
+/**
+ * Cuantos dias vale una verificacion manual. Mientras `priceVerifiedAt` sea
+ * mas reciente que esto, Bright Data NO puede pisar ese precio.
+ *
+ * Por que existe: el 2026-08-12 la corrida automatica piso 11 de 15 precios
+ * verificados a mano en ML, devolviendolos a sus valores viejos (Spica
+ * $29.099 -> $17.499, Vanta $98.000 -> $70.005, GA.MA $119.990 -> $99.560).
+ * Se re-verificaron dos en vivo ese mismo dia y seguian como se los habia
+ * verificado: no eran bajas reales, era dato falso reescribiendose solo cada
+ * 48hs. El guard de MIN_RATIO/MAX_RATIO no los atajaba porque esos desvios
+ * (19-23%) caen comodos dentro del rango 0.5-2.
+ *
+ * 7 dias es a proposito mas que los 2-3 que pasan entre corridas: alcanza
+ * para que una verificacion sobreviva varias pasadas del scraper, y es poco
+ * como para no congelar un precio que cambio de verdad.
+ */
+const PROTECCION_MANUAL_DIAS = 7;
+
+/** Dias entre una fecha YYYY-MM-DD y hoy. Infinity si no hay fecha valida. */
+function diasDesde(fecha) {
+  if (!fecha) return Infinity;
+  const ms = Date.parse(new Date().toISOString().slice(0, 10)) - Date.parse(fecha);
+  return Number.isFinite(ms) ? Math.floor(ms / 86400000) : Infinity;
+}
 const REVIEW_COUNT_MIN_RATIO = 0.5; // igual criterio que precios: una caida a menos de la mitad es sospechosa, no una baja real
 
 /**
@@ -139,6 +164,7 @@ function loadCatalog(src) {
     rating: numProp(b, "rating"),
     reviewCount: numProp(b, "reviewCount"),
     priceStatus: get(b, "priceStatus"),
+    priceVerifiedAt: get(b, "priceVerifiedAt"),
   }));
 }
 
@@ -176,6 +202,7 @@ function compare(catalog, report) {
       unchangedList.push({ id: product.id, price: product.price });
     } else {
       changes.push({
+        priceVerifiedAt: product.priceVerifiedAt,
         id: product.id,
         title: product.title,
         stored: product.price,
@@ -445,6 +472,46 @@ const SUSPICIOUS_DOC_INTRO = `# Precios sospechosos
 
 `;
 
+const PROTECTED_DOC_INTRO = `# Precios protegidos
+
+> Cambios que Bright Data propuso y NO se aplicaron porque el precio estaba
+> verificado a mano hace poco (campo \`priceVerifiedAt\`, ventana de
+> ${PROTECCION_MANUAL_DIAS} dias). Lo escribe \`apply-brightdata-prices.cjs\`.
+>
+> Existe porque el workflow de precios auto-mergea su PR: si esto quedara solo
+> en el log de Actions, nadie se enteraria. El 2026-08-12 Bright Data piso 11
+> de 15 precios verificados a mano devolviendolos a valores viejos, y se
+> descubrio de casualidad.
+>
+> **Como leerlo:** si un producto aparece aca 3 corridas seguidas, o Bright
+> Data tiene un dato roto para esa publicacion, o el precio cambio de verdad y
+> la verificacion manual quedo vieja. En los dos casos: mirar la publicacion en
+> MercadoLibre y, si el precio nuevo es el correcto, actualizar el catalogo a
+> mano y refrescar \`priceVerifiedAt\`.
+
+`;
+
+/**
+ * Deja constancia de los cambios que se descartaron por proteccion manual.
+ * Devuelve true si escribio algo.
+ */
+function appendProtectedDoc(protegidos, today) {
+  if (protegidos.length === 0) return false;
+  const existe = fs.existsSync(PROTECTED_DOC_PATH);
+  const previo = existe ? fs.readFileSync(PROTECTED_DOC_PATH, "utf8") : PROTECTED_DOC_INTRO;
+  const filas = protegidos
+    .map((c) => {
+      const dias = diasDesde(c.priceVerifiedAt);
+      return `- **${c.id}** ${c.title}\n` +
+             `  - catalogo (verificado a mano el ${c.priceVerifiedAt}, hace ${dias}d): $${c.stored}\n` +
+             `  - Bright Data propuso: $${c.scraped} — descartado\n` +
+             `  - ${c.permalink}`;
+    })
+    .join("\n");
+  fs.writeFileSync(PROTECTED_DOC_PATH, `${previo}\n## Corrida ${today}\n\n${filas}\n`);
+  return true;
+}
+
 function appendSuspiciousDoc(suspicious, today) {
   if (suspicious.length === 0) return false;
   const existing = fs.existsSync(SUSPICIOUS_DOC_PATH)
@@ -582,11 +649,21 @@ function main() {
     ratingReviewChanges, stockMissing, stockChanges,
   } = compare(catalog, report);
 
+  // Precios verificados a mano hace poco: Bright Data NO los pisa. Quedan
+  // registrados en docs/precios-protegidos.md (doc propio, no el de
+  // sospechosos: son motivos distintos) para que se vea que el scraper
+  // propuso otra cosa y se descarto a proposito.
+  const protegidos = changes.filter(
+    (c) => diasDesde(c.priceVerifiedAt) <= PROTECCION_MANUAL_DIAS
+  );
   const suspicious = changes.filter((c) => {
+    if (protegidos.includes(c)) return false;
     const ratio = c.scraped / c.stored;
     return ratio < MIN_RATIO || ratio > MAX_RATIO;
   });
-  const reasonable = changes.filter((c) => !suspicious.includes(c));
+  const reasonable = changes.filter(
+    (c) => !suspicious.includes(c) && !protegidos.includes(c)
+  );
 
   console.log(`Filas del dataset: ${report.length}`);
   console.log(`Matcheados con el catalogo: ${matched}`);
@@ -597,6 +674,13 @@ function main() {
   console.log(`Sospechosos (precio se duplico o cayo a menos de la mitad, sin tocar): ${suspicious.length}`);
   for (const c of suspicious) {
     console.log(`  SOSPECHOSO ${c.id}  ${c.stored} -> ${c.scraped}  ${c.title}`);
+  }
+  console.log(`Protegidos (verificados a mano hace <= ${PROTECCION_MANUAL_DIAS} dias, sin tocar): ${protegidos.length}`);
+  for (const c of protegidos) {
+    console.log(
+      `  PROTEGIDO ${c.id}  ${c.stored} -> ${c.scraped} (descartado)  ` +
+      `verificado el ${c.priceVerifiedAt}, hace ${diasDesde(c.priceVerifiedAt)}d  ${c.title}`
+    );
   }
   console.log(`Con rating/reviewCount para actualizar: ${ratingReviewChanges.length}`);
   if (stockMissing.length) {
@@ -615,6 +699,9 @@ function main() {
 
   const today = new Date().toISOString().slice(0, 10);
 
+  if (doApply && appendProtectedDoc(protegidos, today)) {
+    console.log(`\nRegistrados ${protegidos.length} caso(s) protegido(s) en docs/precios-protegidos.md`);
+  }
   if (appendSuspiciousDoc(suspicious, today)) {
     console.log(`\nAgregados ${suspicious.length} caso(s) sospechoso(s) a docs/precios-sospechosos.md`);
   }
