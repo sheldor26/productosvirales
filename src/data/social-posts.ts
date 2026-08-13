@@ -43,8 +43,7 @@ export const socialPosts: SocialPost[] = [
     title: "Nintendo Switch OLED + Mario Bros Wonder",
     imageUrl:
       "https://http2.mlstatic.com/D_NQ_NP_656472-MLA98119452619_112025-O.webp",
-    affiliateUrl:
-      "https://www.mercadolibre.com.ar/nintendo-switch-oled-super-mario-bros-wonder/p/MLA31000132",
+    affiliateUrl: "https://meli.la/27Ky4i7",
     newPrice: "699.999",
     oldPrice: "999.999",
     offPct: "30",
