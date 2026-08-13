@@ -15,14 +15,21 @@ on:
     # Martes 13:00 UTC = 10:00 hora Argentina (dia distinto al de tendencias
     # TikTok, para no juntar todo el mismo dia).
     - cron: "0 13 * * 2"
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      pages:
+        description: "source|label|url por linea (vacio = usa las paginas fijas de abajo)"
+        required: false
+        type: string
 
 permissions:
   contents: write
   pull-requests: write
 
 env:
-  # source|label|url — agregar/sacar paginas aca.
+  # source|label|url — paginas fijas de la corrida programada de los martes.
+  # Para un barrido puntual no hace falta tocar esto: correr el workflow a mano
+  # y pasar las paginas por el input `pages`, que pisa esta lista.
   PAGES: |
     amazon|Amazon Home & Kitchen bestsellers|https://www.amazon.com/Best-Sellers-Home-Kitchen/zgbs/home-garden
     amazon|Amazon Kitchen & Dining bestsellers|https://www.amazon.com/Best-Sellers-Kitchen-Dining/zgbs/kitchen/284507
@@ -46,8 +53,13 @@ jobs:
       - name: Scrapear cada pagina y armar el reporte
         env:
           TOKEN: ${{ secrets.BRIGHTDATA_API_TOKEN }}
+          PAGES_INPUT: ${{ inputs.pages }}
         run: |
           set -e
+          # El input pisa las paginas fijas. En la corrida programada llega
+          # vacio y se usa PAGES.
+          PAGES_EFECTIVO="${PAGES_INPUT:-$PAGES}"
+          echo "Paginas a scrapear:"; echo "$PAGES_EFECTIVO"
           while IFS='|' read -r source label url; do
             [ -z "$source" ] && continue
             echo "=== $label ($source) ==="
@@ -65,7 +77,7 @@ jobs:
             fi
 
             node scripts/discover-products.cjs "$source" "$label" /tmp/page.md
-          done <<< "$PAGES"
+          done <<< "$PAGES_EFECTIVO"
 
       - name: Abrir Pull Request si hubo reporte nuevo
         env:

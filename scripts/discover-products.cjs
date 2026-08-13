@@ -61,12 +61,23 @@ function parseAmazon(text) {
 
 // MercadoLibre: bloques tipo
 //   Titulo (linea plana, se repite como link despues)
+//
+// Ademas del titulo y el precio se captura la URL del producto. Sin eso el
+// reporte servia para tener ideas pero no para sourcear: habia que salir a
+// buscar cada ficha a mano, y las busquedas web devuelven listados, no fichas.
+// Con la URL, el reporte alimenta directo al "Scraper puntual".
 //   SELLER N.N
 //   N% OFF $precio_original   (opcional)
 //   $precio_final
 function parseML(text) {
   const items = [];
   const lines = text.split("\n").map((l) => l.trim()).filter(Boolean);
+  // Mapa titulo -> URL, armado con los links markdown de toda la pagina.
+  const urlPorTitulo = new Map();
+  for (const m of text.matchAll(/\[([^\]]{15,150})\]\((https:\/\/[^)\s]*mercadolibre[^)\s]*)\)/g)) {
+    const t = m[1].trim();
+    if (!urlPorTitulo.has(t)) urlPorTitulo.set(t, m[2]);
+  }
   for (let i = 0; i < lines.length; i++) {
     const priceMatch = lines[i].match(/^\$([\d.]+)$/);
     if (!priceMatch) continue;
@@ -83,7 +94,12 @@ function parseML(text) {
       if (title) break;
     }
     if (title) {
-      items.push({ title, price: `$${priceMatch[1]}`, rating: discount });
+      const url = urlPorTitulo.get(title) || null;
+      // Las URLs de catalogo traen /p/MLA123 y las de articulo MLA-123: el
+      // guion se saca para que el id quede igual al del catalogo.
+      const idCrudo = url ? (url.match(/(MLA-?[A-Z]?\d+)/i) || [])[1] : null;
+      const id = idCrudo ? idCrudo.toUpperCase().replace("-", "") : null;
+      items.push({ title, price: `$${priceMatch[1]}`, rating: discount, url, id });
     }
   }
   return items;
@@ -102,7 +118,10 @@ function dedupe(items) {
 
 function buildSection(source, label, items) {
   const unique = dedupe(items).slice(0, TOP_N);
-  const lines = unique.map((it) => `- ${it.title} — ${it.price}${it.rating ? ` (${it.rating})` : ""}`);
+  const lines = unique.map((it) => {
+    const base = `- ${it.title} — ${it.price}${it.rating ? ` (${it.rating})` : ""}`;
+    return it.url ? `${base}\n  - ${it.url}` : base;
+  });
   return `### ${label} [${source}] (${unique.length} productos)\n\n${lines.join("\n") || "_No se pudo extraer nada esta vez — revisar el parser._"}\n\n`;
 }
 
