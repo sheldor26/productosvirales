@@ -159,4 +159,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "47",
     postedAt: "2026-08-14T11:50:08-03:00",
   },
+  {
+    title: "Sony PlayStation DualSense Joystick Inalambrico PS5",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_759059-MLA99508283678_112025-O.webp",
+    affiliateUrl: "https://meli.la/2eXut3S",
+    newPrice: "109.999",
+    oldPrice: "139.999",
+    offPct: "21",
+    postedAt: "2026-08-14T18:44:29-03:00",
+  },
 ];
