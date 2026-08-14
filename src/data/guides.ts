@@ -20476,6 +20476,8 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       `Esta guía compara los 4 termotanques eléctricos con mejor respaldo de compradores reales en MercadoLibre Argentina, de 40 a 85 litros, para que elijas según cuánta agua caliente necesitás y qué estás dispuesto a resignar por precio.`,
     ],
     sections: [
+      { type: "image", src: "/images/heros/termotanque-electrico.webp", alt: `Termotanque eléctrico vertical de acero instalado en el lavadero de una casa, con sus caños de agua a la vista`, imageSize: "hero" },
+
       { type: "h2", title: `Resumen rápido: cuál comprar según tu caso` },
       { type: "p", content: `El termotanque eléctrico más vendido de Argentina es el Señorial Zafiro de 50 litros, por lejos: tiene casi seis veces más calificaciones que el segundo de esta lista. Pero no trae aislamiento térmico ni protección anticorrosiva, dos características que si te importan a mediano plazo, encontrás en el Sherman o el Rheem. Para una persona sola, el Exahome de 40 litros es el más barato y aun así trae ambas.` },
       { type: "list", items: [
@@ -24499,6 +24501,8 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       `La decisión no pasa por la marca sino por dos números: **cuántos metros libres tenés** y **cuánta agua querés llenar cada temporada**. Acá comparamos las tres piletas Pelopincho con publicación activa en MercadoLibre Argentina por medidas verificadas, capacidad y precio, con la contra honesta de cada una.`,
     ],
     sections: [
+      { type: "image", src: "/images/heros/pileta-pelopincho.webp", alt: `Pileta de lona armada en el patio de una casa argentina, con reposeras al lado y la medianera de ladrillo de fondo`, imageSize: "hero" },
+
       { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para el patio promedio, la **[Pelopincho 1055](/producto/pileta-estructural-pelopincho-1055-rectangular-4500l-lona-azul-2x3m-con-valvula-mla8961672)**: 3 x 2 metros, 75 cm de alto y válvula de desagüe. Si el espacio es angosto, la [1043](/producto/pelopincho-1043-pileta-estructural-rectangular-con-capacidad-de-2800-litros-1-6x-mla8961674). Si querés profundidad real, la [RD14](/producto/pileta-pelopincho-rd14-circular-14000l-acero-inoxidable-pvc-estructura-reforzada-mla21205956) de 14.000 litros. Si son solo nenes chicos, con una inflable de aros alcanza y sobra: están comparadas en la [guía de piletas inflables para chicos](/guias/pileta-inflable-ninos).` },
 
       { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** tomamos piletas con publicación activa y precio en vivo en MercadoLibre Argentina y verificamos medidas, capacidad y precio contra cada publicación. Las ordenamos por lo que define la compra en este producto: los metros que ocupa armada, la profundidad y los litros que hay que llenar. Las calificaciones citadas son de compradores reales, y aclaramos cuándo una publicación no tiene ninguna o no declara stock disponible.` },
@@ -24628,6 +24632,8 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       `Comparamos tres piletas inflables de 3 aros con stock real en MercadoLibre Argentina. Ninguna es cara y las tres cumplen, pero sirven para edades distintas. Si buscás algo más grande y para toda la familia, eso ya es otra categoría: está en la [guía de piletas Pelopincho](/guias/pileta-pelopincho).`,
     ],
     sections: [
+      { type: "image", src: "/images/heros/pileta-inflable-ninos.webp", alt: `Pileta inflable de tres aros para chicos, llena de agua sobre las baldosas de un patio, con una toalla y un balde al lado`, imageSize: "hero" },
+
       { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, la **[Bestway 51026](/producto/pileta-para-ninos-infantil-inflable-3-aros-bestway-51026-mla828733034)**: 282 litros, 1,52 metros y kit de reparación. Si preferís más agua, la [Intex de 1,47 m](/producto/alberca-inflable-intex-redonda-para-ninos-de-1-47-m-con-3-aros-mla20664028) (330 litros). Para lo mínimo o un balcón, la [Bestway 51024](/producto/pileta-inflable-3-aros-largo-1-02m-bestway-51024-101-l-verde-mla15550811).` },
 
       { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** tomamos piletas inflables de 3 aros con stock real en MercadoLibre Argentina y verificamos capacidad, diámetro, altura y edad declarada contra cada publicación. Las ordenamos por lo que define la compra: litros, tamaño y para qué edad sirve de verdad. Aclaramos cuándo una ficha no tiene reseñas y de qué país son las que sí tiene.` },
@@ -24724,6 +24730,8 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       `La altura es lo que más se nota al dormir: cuanto más alto, menos se siente el suelo y más fácil es levantarse. Los tres traen bomba de aire incorporada, así que ninguno necesita inflador aparte.`,
     ],
     sections: [
+      { type: "image", src: "/images/heros/colchon-inflable-2-plazas.webp", alt: `Colchón inflable de dos plazas armado y hecho en el living de un departamento, listo para las visitas`, imageSize: "hero" },
+
       { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, el **[Intex Dura Beam](/producto/colchon-inflable-intex-2-plazas-dura-beam-standard-con-bomba-integrada-mla22705331)**: 25 cm de alto y bomba incorporada. Para gastar lo mínimo, el [Sufin](/producto/colchon-inflable-de-2-plazas-con-inflador-incorporado-y-almohadas-mla58365620). El [Suono](/producto/colchon-inflable-2-plazas-con-almohadas-inflador-portatil-azul-mla28995489) es el más caro sin ser el más alto, así que solo conviene con descuento.` },
 
       { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** tomamos colchones inflables de 2 plazas con stock real en MercadoLibre Argentina y verificamos medidas, altura, tipo de bomba y peso contra cada publicación. Cuando una ficha declara datos que no cierran, lo decimos en vez de copiarlos.` },
@@ -24824,6 +24832,8 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       `Eso no las vuelve una mala compra, pero cambia para qué sirven: sombra en una playa tranquila, en el patio o en el camping. Con esa expectativa, lo que decide es el **diámetro** (cuánta sombra), el **peso** (si la vas a cargar) y el **material de la estructura**, porque el aluminio no se oxida y el acero sí.`,
     ],
     sections: [
+      { type: "image", src: "/images/heros/sombrilla-de-playa.webp", alt: `Sombrilla de playa clavada en la arena de la costa atlántica argentina, dando sombra sobre una lona y una conservadora`, imageSize: "hero" },
+
       { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, la **[MTL MR1001](/producto/sombrilla-playa-mtl-azul-ajustable-proteccion-uv-aluminio-resistente-viento-mla54103750)**: la mejor calificada y con estructura de aluminio. Más sombra, la [Proline 200 cm](/producto/sombrilla-resforzada-reclinable-de-playa-200cm-proline-mla59668073). Lo mínimo, la [Virke Ibiza](/producto/sombrilla-playa-reforzada-acero-180cm-color-verde-y-azul-virke-ibiza-mla44069333). Para patio, la [Groen articulada](/producto/sombrilla-articulada-groen-ibiza-playa-jardin-reclinable-1-5m-rayas-mla62981988). Ninguna es para viento fuerte.` },
 
       { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** tomamos sombrillas con stock real en MercadoLibre Argentina y verificamos diámetro, peso, altura y material contra cada ficha. Leímos las opiniones verificadas de las cinco y las citamos textuales, incluso cuando son malas: en este producto la diferencia entre una compra buena y una mala está en lo que los compradores cuentan sobre el viento, no en la ficha técnica.` },
