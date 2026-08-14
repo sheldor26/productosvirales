@@ -12769,7 +12769,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
         type: "product-card",
         variant: "compact",
         productMlaId: "MLA41304983",
-        description: "Más sensual que Yara, más nocturno, con praliné y vainilla.",
+        description: "Más sensual que Yara, más nocturno, con canela, jazmín y vainilla.",
         label: "Sensual",
         labelColor: "purple"
       },
@@ -13888,7 +13888,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     quickPicks: [
       { productMlaId: "MLA60836327", label: "Nuestra elección", labelColor: "green", tagline: "Yara Elixir: el árabe femenino más viral. 8h de duración con buen anclaje." },
       { productMlaId: "MLA40521028", label: "Para verano y día", labelColor: "blue", tagline: "Yara Tous: tropical-frutal con mango, coco y vainilla. Incluye estuche. 4.7⭐ con 471 reseñas." },
-      { productMlaId: "MLA41304983", label: "Gourmand premium", labelColor: "amber", tagline: "Her Confession: dulce sensual con praliné, vainilla y base oriental." },
+      { productMlaId: "MLA41304983", label: "Gourmand premium", labelColor: "amber", tagline: "Her Confession: floral gourmand con canela, jazmín y vainilla." },
       { productMlaId: "MLA49628348", label: "Para empezar", labelColor: "purple", tagline: "Sabah Al Ward: floral accesible, la puerta de entrada al nicho." },
     ],
     intro: [
@@ -13917,7 +13917,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "table", headers: ["Perfume", "Perfil olfativo", "Mejor para", "Precio relativo"], rows: [
         ["Lattafa Yara Elixir", "Dulce con cítricos", "La más completa, todo el año", "Medio-alto"],
         ["Lattafa Yara Tous", "Tropical frutal (mango, coco, vainilla)", "Verano y uso de día", "Medio"],
-        ["Her Confession", "Gourmand dulce (praliné, vainilla)", "Noche y ocasión especial", "Alto"],
+        ["Her Confession", "Floral gourmand (canela, jazmín, vainilla)", "Noche y ocasión especial", "Alto"],
         ["Lattafa Khamrah", "Especiado dulce (canela, dátil)", "Otoño-invierno, principiantes", "Medio"],
         ["Sabah Al Ward", "Floral accesible", "Empezar con poco presupuesto", "Bajo"],
       ]},
@@ -13972,7 +13972,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       {
         type: "product-card",
         productMlaId: "MLA41304983",
-        description: "Dulce, sensual, con praliné, vainilla y fondo oriental. Perfume de noche clásico. Proyecta fuerte, quizás demasiado si lo usás de día.",
+        description: "Dulce, sensual, con canela en la salida, jazmín en el corazón y un fondo de vainilla y haba tonka. Perfume de noche clásico. Proyecta fuerte, quizás demasiado si lo usás de día.",
         ranking: 3
       },
       {
@@ -15145,7 +15145,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
           ["Asad", "Especiado-amaderado-vainilla", "Hombre +25, otoño-invierno", "$48.000 - $62.000"],
           ["Khamrah", "Gourmand café-canela-dátiles", "Unisex, climas fríos, nocturno", "$55.000 - $75.000"],
           ["Fakhar", "Oriental-amaderado-ahumado", "Premium árabe, sofisticado", "$60.000 - $85.000"],
-          ["Her Confession", "Praliné-vainilla-dulce intenso", "Mujer, noche, gourmand", "$45.000 - $58.000"]
+          ["Her Confession", "Canela-jazmín-vainilla, gourmand", "Mujer, noche, gourmand", "$45.000 - $58.000"]
         ]
       },
       {
@@ -15202,7 +15202,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       {
         type: "product-card",
         productMlaId: "MLA41304983",
-        description: "Praliné, vainilla y fondo oriental. Perfume de noche clásico con proyección fuerte — quizás demasiado si lo usás de día. Es un gourmand floral propio de Lattafa, no el clon de un perfume occidental puntual, aunque circulen comparaciones.",
+        description: "Canela, jazmín y un fondo de vainilla y haba tonka. Perfume de noche clásico con proyección fuerte — quizás demasiado si lo usás de día. Es un gourmand floral propio de Lattafa, no el clon de un perfume occidental puntual, aunque circulen comparaciones.",
         ranking: 4
       },
       {
@@ -15374,7 +15374,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       },
       {
         question: "¿Cuál es el mejor Lattafa para mujer?",
-        answer: "Lattafa Yara Elixir si querés el perfil dulce-cítrico viral de TikTok. Yara Tous si preferís algo más fresco y tropical para verano. Her Confession si buscás un gourmand nocturno tipo praliné-vainilla. Para no equivocarte en la primera compra, el set My Yara Collection de 4 miniaturas te permite probar varios perfiles antes de comprometerte al frasco grande."
+        answer: "Lattafa Yara Elixir si querés el perfil dulce-cítrico viral de TikTok. Yara Tous si preferís algo más fresco y tropical para verano. Her Confession si buscás un floral gourmand nocturno de canela y vainilla. Para no equivocarte en la primera compra, el set My Yara Collection de 4 miniaturas te permite probar varios perfiles antes de comprometerte al frasco grande."
       },
       {
         question: "¿Cuánto cuesta un Lattafa original en Argentina?",
@@ -15609,7 +15609,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
         type: "product-card",
         productMlaId: "MLA32288168",
         variant: "compact",
-        description: "Yara Moi: frasco blanco entero con detalles metalizados dorados. Floral-frutal-gourmand con pera, jazmín y vainilla — la variante más suave y de menor proyección de toda la línea Yara, pensada para uso diario. 4.7⭐ con más de 4.900 reseñas.",
+        description: "Yara Moi: frasco blanco entero con detalles metalizados dorados. Floral-frutal-gourmand con pera, jazmín y vainilla — la variante más suave y de menor proyección de toda la línea Yara, pensada para uso diario. {{rating:MLA32288168}}⭐ con {{reviews:MLA32288168}} reseñas.",
         label: "Blanco con dorado",
         labelColor: "amber"
       },
@@ -15621,7 +15621,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
         type: "product-card",
         productMlaId: "MLA41304983",
         variant: "compact",
-        description: "Her Confession: frasco blanco con busto y detalles dorados. Praliné, vainilla y fondo oriental. Perfume de noche femenino con proyección fuerte, para quien busca un gourmand sensual sin gastar en un importado.",
+        description: "Her Confession: frasco blanco con busto y detalles dorados. Canela, jazmín y un fondo de vainilla y haba tonka. Perfume de noche femenino con proyección fuerte, para quien busca un gourmand sensual sin gastar en un importado.",
         label: "Blanco con dorado, el del busto",
         labelColor: "purple"
       },
@@ -15843,7 +15843,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       {
         type: "product-card",
         productMlaId: "MLA41304983",
-        description: "Lo incluimos para aclarar algo: circula por ahí que es el dupe del Mugler Alien, y no encontramos nada que lo sostenga. Ni Fragrantica ni las reseñas que revisamos mencionan al Alien. La comparación internacional que sí aparece seguido es con el nicho Blanche Bête, por el perfil lácteo-cremoso, pero tampoco hay reseñas argentinas que la confirmen. Lo honesto es tomarlo por lo que es: un gourmand floral propio de Lattafa, con praliné, vainilla y fondo oriental. Proyecta muy fuerte y no es para oficina diurna.",
+        description: "Lo incluimos para aclarar algo: circula por ahí que es el dupe del Mugler Alien, y no encontramos nada que lo sostenga. Ni Fragrantica ni las reseñas que revisamos mencionan al Alien. La comparación internacional que sí aparece seguido es con el nicho Blanche Bête, por el perfil lácteo-cremoso, pero tampoco hay reseñas argentinas que la confirmen. Lo honesto es tomarlo por lo que es: un gourmand floral propio de Lattafa, con canela, jazmín y un fondo de vainilla y haba tonka. Proyecta muy fuerte y no es para oficina diurna.",
         ranking: 5
       },
       {
@@ -16174,7 +16174,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       },
       {
         type: "p",
-        content: "El perfume árabe de mujer más vendido en Argentina es el Lattafa Yara Candy, con 6.632 reseñas verificadas y 4.7⭐. Le siguen: **Yara Elixir** (572, 4.8⭐), **Yara Tous** (471, 4.7⭐) y el **Set My Yara Collection** (720, 4.8⭐). Tres de los cuatro son de la línea Yara: la línea femenina más fuerte del nicho árabe en Argentina por mucho. La cuarta opción más vendida fuera de Yara es **Her Confession**, gourmand nocturno tipo praliné-vainilla. El detalle completo está en [mejores perfumes árabes para mujer](/guias/perfumes-arabes-mujer)."
+        content: "El perfume árabe de mujer más vendido en Argentina es el Lattafa Yara Candy, con 6.632 reseñas verificadas y 4.7⭐. Le siguen: **Yara Elixir** (572, 4.8⭐), **Yara Tous** (471, 4.7⭐) y el **Set My Yara Collection** (720, 4.8⭐). Tres de los cuatro son de la línea Yara: la línea femenina más fuerte del nicho árabe en Argentina por mucho. La cuarta opción más vendida fuera de Yara es **Her Confession**, floral gourmand nocturno de canela y vainilla. El detalle completo está en [mejores perfumes árabes para mujer](/guias/perfumes-arabes-mujer)."
       },
       {
         type: "h2",

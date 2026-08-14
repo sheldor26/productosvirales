@@ -1,7 +1,7 @@
 {
-  "total": 2318,
+  "total": 2314,
   "porArchivo": {
     "src/data/guides.ts": 700,
-    "src/data/curated-products.ts": 1618
+    "src/data/curated-products.ts": 1614
   }
 }

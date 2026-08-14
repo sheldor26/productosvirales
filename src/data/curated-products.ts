@@ -35714,7 +35714,7 @@ Es un perfume árabe amaderado de entrada, nacional y barato, con un perfil dulc
     ],
     articleBody: `## Cómo se compara con otras Lattafa del catálogo
 
-Comparación honesta, con los números que cada producto muestra en MercadoLibre a junio 2026. Si lo tuyo es lo dulce-goloso y querés volumen de reseñas que respalde la compra, la [Yara Candy](/producto/lattafa-yara-candy-mujer-edp-100ml-mla39865991) tiene rating 4.7 sobre más de 6.600 reseñas — es la opción más probada de la línea femenina. La [Her Confession](/producto/lattafa-her-confession-eau-de-parfum-100ml-volumen-de-la-unidad-100-ml-mla41304983) (4.8, 251 reseñas) va por el lado floral-almizclado, más liviana que esta.
+Comparación honesta, con los números que cada producto muestra en MercadoLibre a junio 2026. Si lo tuyo es lo dulce-goloso y querés volumen de reseñas que respalde la compra, la [Yara Candy](/producto/lattafa-yara-candy-mujer-edp-100ml-mla39865991) tiene rating 4.7 sobre más de 6.600 reseñas — es la opción más probada de la línea femenina. La [Her Confession](/producto/lattafa-her-confession-eau-de-parfum-100ml-volumen-de-la-unidad-100-ml-mla41304983) ({{rating:MLA41304983}}, {{reviews:MLA41304983}} reseñas) va por el lado floral gourmand de canela y vainilla, más cálida y nocturna que esta.
 
 La Noble Blush juega otro partido: es la única de las tres con oud en el fondo, y con 4.7 sobre 790 reseñas no necesita que le inflemos nada — el 85% es de 5 estrellas. Sigue teniendo menos volumen de opiniones que la Yara Candy, pero ya no es una apuesta a ciegas. Si querés el paso intermedio hacia lo amaderado-oriental sin pagar la intensidad del Bade'e Al Oud clásico, esta es la indicada.
 
@@ -38589,7 +38589,7 @@ Una compradora colombiana comparte un dato útil: "recomiendo dejar macerar por 
     description: "Eau de parfum floral-frutal-gourmand para mujer con apertura de pera, pimienta rosa y grosella negra, corazón de nardo, jazmín y almendra, y fondo cálido de vainilla, cashmeran y pachulí. La variante más suave y de menor proyección de toda la línea Yara de Lattafa.",
     pros: [
       "La variante más suave y discreta de toda la línea Yara: perfil floral-frutal-gourmand confirmado por el sitio oficial de Lattafa",
-      "4.7 estrellas en 4.952 calificaciones: volumen real, no una variante de nicho dentro de la familia",
+      "{{rating:MLA32288168}} estrellas en {{reviews:MLA32288168}} calificaciones: volumen real, no una variante de nicho dentro de la familia",
       "Precio bastante menor al Yara original (menos de la mitad en la publicación más vendida)",
       "Buena opción para uso diario en oficina o estudio, donde una proyección alta molesta",
     ],
@@ -38611,7 +38611,7 @@ Una compradora colombiana comparte un dato útil: "recomiendo dejar macerar por 
       { name: "Lattafa Yara EDP original", similarity: "Misma línea; el Moi es más suave y de menor proyección, no necesariamente más fresco" },
       { name: "Lattafa Yara Tous EDP", similarity: "El Tous es la variante tropical-frutal con más rendimiento en calor; el Moi es más floral-gourmand y discreto" },
     ],
-    articleBody: `Yara Moi es la variante más suave y discreta de toda la línea Yara de Lattafa, lanzada en 2022. En Mercado Libre Argentina se vende con envío gratis a $40.720, bastante menos que el Yara original en su publicación más vendida. Tiene 4.7 estrellas en 4.952 calificaciones, un volumen alto que confirma que no es una variante de nicho dentro de la familia.
+    articleBody: `Yara Moi es la variante más suave y discreta de toda la línea Yara de Lattafa, lanzada en 2022. En Mercado Libre Argentina se vende con envío gratis a $40.720, bastante menos que el Yara original en su publicación más vendida. Tiene {{rating:MLA32288168}} estrellas en {{reviews:MLA32288168}} calificaciones, un volumen alto que confirma que no es una variante de nicho dentro de la familia.
 
 ## Notas y perfil olfativo
 
@@ -38637,7 +38637,7 @@ Es para vos si: ya probaste el Yara original y te resultó pesado o demasiado pr
 
 ## En resumen
 
-El Yara Moi es la versión más suave y de menor proyección de toda la línea Yara de Lattafa, con una pirámide floral-frutal-gourmand (pera, nardo, jazmín, vainilla, cashmeran) confirmada por el sitio oficial de la marca. La publicación de Mercado Libre exagera la duración (declara 12 horas; reseñas reales y fuentes independientes hablan de 6-8 horas, con al menos un caso de 2-3 horas). Con 4.7 estrellas en 4.952 calificaciones y precio bastante menor al Yara original, es una buena opción para quien busca un Yara de uso diario y no para quien busca proyección. Para ver el resto de la familia comparada en detalle, está la [guía completa de la línea Yara Lattafa](/guias/yara-lattafa-guia-completa) o el ranking completo de la [guía de perfumes árabes para mujer](/guias/perfumes-arabes-mujer).`,
+El Yara Moi es la versión más suave y de menor proyección de toda la línea Yara de Lattafa, con una pirámide floral-frutal-gourmand (pera, nardo, jazmín, vainilla, cashmeran) confirmada por el sitio oficial de la marca. La publicación de Mercado Libre exagera la duración (declara 12 horas; reseñas reales y fuentes independientes hablan de 6-8 horas, con al menos un caso de 2-3 horas). Con {{rating:MLA32288168}} estrellas en {{reviews:MLA32288168}} calificaciones y precio bastante menor al Yara original, es una buena opción para quien busca un Yara de uso diario y no para quien busca proyección. Para ver el resto de la familia comparada en detalle, está la [guía completa de la línea Yara Lattafa](/guias/yara-lattafa-guia-completa) o el ranking completo de la [guía de perfumes árabes para mujer](/guias/perfumes-arabes-mujer).`,
     specs: [
       { label: "Marca", value: "Lattafa" },
       { label: "Línea", value: "Yara" },
