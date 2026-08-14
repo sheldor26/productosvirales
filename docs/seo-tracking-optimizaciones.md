@@ -1236,3 +1236,9 @@ Queries que motivaron el cambio, todas con la posición ganada y sin clicks:
 **Medición:** el cambio es del 2026-08-10, así que **no se puede juzgar antes del 2026-09-07** (28 días de ventana GSC). Comparar contra el baseline de arriba, no contra el promedio del sitio. La señal a mirar no es la posición, que ya es buena: es si el CTR de las queries de marca despega de ~0,7%.
 
 **Sin canibalización:** el silo tiene cuatro guías de marca (`Microondas BGH`, `Microondas Atma`, `Microondas Samsung`, `Microondas LG`) que apuntan a la marca concreta. El pilar ahora se queda con el genérico "cuál es la mejor marca", que es justo lo que ninguna de las cuatro puede reclamar.
+
+---
+
+**Silo de verano publicado (2026-08-14).** Salieron a producción las 4 guías de `hogar-jardin` que estaban en STAGED: `pileta-pelopincho` (pilar, 18.100/mes), `pileta-inflable-ninos` (spoke), `colchon-inflable-2-plazas` (12.100/mes) y `sombrilla-de-playa` (6.600/mes). **Sin baseline: son guías nuevas, no optimizaciones.** El timing es deliberado y conviene recordarlo al medir: la demanda de pileta arranca en octubre y pica entre diciembre y enero, así que publicar en agosto es darle a Google las 6 a 12 semanas que un dominio sin autoridad necesita para asentar una URL nueva. Medir en septiembre va a dar casi cero y eso NO significa que fallaron: la primera lectura útil es de octubre en adelante, contra la temporada real.
+
+Re-medir: ~2026-09-11 solo para confirmar que indexaron, y ~2026-10-15 para el primer dato con demanda real.

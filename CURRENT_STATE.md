@@ -1,7 +1,60 @@
 # Estado actual
 
 > Snapshot del proyecto. Se actualiza al final de cada sesión.
-> Última actualización: 2026-08-12 (integridad de datos: el catálogo estuvo cinco días congelado, se reencuadraron dos guías por productos caídos, quedó un verificador de frescura, y se confirmó que Bright Data PISA las correcciones manuales — ver sesión de más abajo).
+> Última actualización: 2026-08-14 (silo de verano publicado, Google Imágenes medible por primera vez, y dos chequeos que dejaban pasar errores reales — ver sesión de más abajo).
+
+## Sesión 2026-08-14 — Silo de verano en vivo, Google Imágenes deja de ser invisible, y dos chequeos que mentían
+
+### Lo que se publicó
+
+1. **Las 4 guías del silo de verano salieron a producción** (`hogar-jardin`): `pileta-pelopincho` (pilar, 18.100/mes), `pileta-inflable-ninos` (spoke), `colchon-inflable-2-plazas` (12.100/mes) y `sombrilla-de-playa` (6.600/mes). Las tres fechas de cada una flippeadas de `2026-10-05` a `2026-08-14`. Timing deliberado: la demanda de pileta arranca en octubre y pica entre diciembre y enero, y una guía nueva en un dominio sin autoridad tarda de 6 a 12 semanas en asentarse. Publicar en agosto es llegar madura a la temporada; publicar en octubre es llegar tarde.
+
+2. **Las 4 cerraron con GO de los dos auditores**, en 2 a 4 rondas cada una. Los hallazgos reales que trajeron:
+   - **Canibalización pilar/spoke**: `pileta-pelopincho` reseñaba en detalle las mismas 3 inflables que su propio spoke, con H3, tarjeta y fila de tabla. Se sacaron del ranking y ahora delega la categoría entera con links contextuales.
+   - **Contradicción de stock**: la metodología prometía "stock real" mientras el bloque de la 1043 declaraba que esa publicación no declara stock. Pasó a "publicación activa y precio en vivo".
+   - **`colchon-inflable-2-plazas`, 5 correcciones factuales**: el Sufin no declara 191x137 (solo "2 plazas"), así que "los tres miden lo mismo" era falso; "el más alto", "el más liviano" y "el más bajo" comparaban contra fichas sin ese dato; la bomba manual no es común a los tres; y el peso máximo SÍ está publicado (Sufin 300 kg, Intex 273) cuando la FAQ decía que ninguno lo declaraba.
+   - **`sombrilla-de-playa`**: la ficha de la Virke Ibiza declara aluminio y el título de su propia publicación dice acero. Se declara la contradicción y la tabla pasa a "Sin confirmar".
+
+### Google Imágenes: un canal entero que nunca se había medido
+
+3. **`scripts/gsc/gsc.py` nunca mandaba el parámetro `type` a la API**, y GSC devuelve `web` por defecto. Los 37 snapshots guardados hasta hoy son solo búsqueda web. Ahora `fetch` acepta `--type web|image|video|news`; web se sigue guardando con fuente `google` para no romper `audit`, `alerts` ni `oportunidades`, y el resto va como `google-<tipo>`.
+
+4. **El dato que apareció: 35.275 impresiones en Imágenes en 28 días, 70 clicks, CTR 0,20%.** El 98% de esas impresiones cae en posición 20 a 70 de la grilla: prácticamente nunca aparecemos arriba. Se probaron y descartaron dos hipótesis con datos: (a) las fotos hotlinkeadas de ML sí se indexan y nos atribuyen la página (248 fichas sin ninguna imagen propia suman 10.759 impresiones); (b) tener imágenes propias no predice el rinde (freidoras las tiene y es 10x peor que el promedio). Lo que sí correlaciona es que la categoría sea visual: perfumes 21,4% de Img/Web contra 12,9% del resto.
+
+5. **Sitemap de imágenes**, que era el único gap documentado por Google que quedaba abierto: `src/app/sitemap.ts` no declaraba una sola imagen. Ahora cada ficha declara su foto principal más la galería, y cada guía su `ogImage` más las de sus bloques `image`. Resultado verificado sobre el XML: 754 URLs con 1.821 `<image:loc>`, namespace declarado y el archivo parsea como XML válido. **De esas 1.821, solo 27 son propias y 1.785 son de MercadoLibre**, que es el diagnóstico de fondo en una sola cifra.
+
+6. **Expectativa honesta, anotada para no engañarse después**: Imágenes es una palanca secundaria. 70 clicks/mes con un CTR 5 veces peor que el de web. Se hizo solo lo estructural barato; no se invirtió contenido. Re-medir ~2026-09-11 con `gsc.py fetch --type image`.
+
+### Dos chequeos que daban verde sobre errores reales
+
+7. **`check-canonical-product-links.cjs` solo detectaba la URL pelada** (`/producto/MLA123`), nunca validaba que el slug fuera el que genera `productSlug()`. Un link con el slug cortado en otro lado pasaba limpio y cuesta exactamente lo mismo: un redirect por link interno. Así se habían colado **34**, 21 en las guías de verano recién escritas y 13 en el resto del sitio. Corregidos los 34 y el chequeo ahora compara el slug completo (probado con un caso negativo).
+
+8. **`check-price-tokens.cjs` solo buscaba los tokens en `guides.ts`**, no en las fichas, que también los usan en `articleBody`, `pros`, `description` y `verdict`. Un token con ID inexistente ahí salía crudo en producción. Ahora recorre los dos archivos. Además no leía `rating`/`reviewCount` cuando venían en línea compartida (`rating: 4.1, reviewCount: 48,`) y marcaba como rotos tokens válidos.
+
+### Contradicciones de dato resueltas en el silo de perfumes
+
+9. **El perfil olfativo del Her Confession tenía tres versiones en el repo.** Diez lugares en 6 guías decían "praliné, vainilla y fondo oriental"; el `articleBody` de la ficha de la Yara Candy decía "floral-almizclado, más liviana" y le atribuía 251 reseñas; y la ficha propia del producto dice, con detalle, floral gourmand con canela en la salida, jazmín y nardo en el corazón, y vainilla, haba tonka y almizcle en el fondo. **El praliné no está en ninguna parte de esa pirámide: era invento** que se propagó. Gana la ficha, como siempre. Los 10 lugares corregidos.
+
+10. **Además estaba en la sección de color equivocada.** `perfumes-arabes-por-color` lo tenía entre los marrones, descrito como "marrón con tapa dorada". Verificado contra la foto de su publicación en ML: es blanco con un busto dorado sobre la tapa. Se movió a la sección de blancos, y pasó a ser la imagen principal de la guía en lugar del Sceptre Malachite verde, que era un color que la guía ni siquiera cubre. En una guía cuyo único criterio de orden es el color, y cuya query número uno es "perfume árabe blanco y dorado" (309 impresiones), tener el producto blanco archivado como marrón era el error más caro posible.
+
+11. **Yara Moi: tres números distintos para el mismo producto.** La guía decía "4.7 con más de 4.900 reseñas" escrito a mano, su propia ficha decía "4.952 calificaciones" en tres lugares, y el campo `reviewCount` estaba en 4.968. Los cuatro lugares pasaron a `{{rating:}}` y `{{reviews:}}`. **El cambio se pagó el mismo día**: la corrida de Bright Data de la tarde movió el dato a 5.006 y la ficha lo renderizó sola.
+
+### Diagnóstico que no terminó en acción, y por qué
+
+12. **`perfumes-arabes-por-color` tiene 1.506 impresiones y CERO clicks en posición 8.** El contenido no es el problema: el `seoTitle` ya ataca la query número uno y la sección responde con el producto exacto. La intención es de identificación visual ("vi este frasco en un reel, cuál es"), y esa necesidad se satisface mirando una foto, no leyendo un resultado de texto debajo del grid de imágenes.
+
+13. **Se evaluó y se descartó el formato "Mejores X por menos de $X".** En GSC ese modificador aparece en 8 queries con 8 impresiones y 0 clicks en 28 días; Keyword Planner confirma 0/mes para las variantes en AR. Y la familia entera de precio ya estaba probada en el sitio: 3 guías "precio" con 1.227 impresiones y 3 clicks (0,24% de CTR contra 1,12% del promedio). Con inflación, un tramo en pesos se pudre en meses. **Las comparativas sí rinden** (2,14% de CTR, casi el doble del sitio) pero con techo bajo: 7 guías, 2.705 impresiones, y 2 se llevan el 93% de los clicks. Lo estacional ya se venía haciendo; lo que falta ahí es un calendario escrito, no un formato nuevo.
+
+14. **Se midió la palanca real y no es ninguna de esas**: el 34,7% de las impresiones de guías está atrapado en posición 8 a 11, donde el CTR se desploma a 0,80%. Las 15 guías con más volumen ahí valen +95 clicks/mes si suben una sola banda, medido sobre el 27,9% de cobertura que GSC deja ver, así que es un piso.
+
+15. **Se borraron 17 assets muertos de `public/`**: 12 previews sociales de masajeadores obsoletas desde que el sitio genera el OG por ruta, un duplicado byte a byte, una captura de la interfaz de MercadoLibre con su resumen de IA a la vista, y tres creatividades publicitarias de Atma con el copy de la marca incrustado. Quedan 25 fotos limpias sin cablear (5 de pavas, 20 de perfumes): **no se metieron en las guías a propósito**, porque de las de pavas solo una corresponde a un producto que hoy sigue en el ranking, y cablear 20 guías publicadas para sumar 20 imágenes propias al sitemap no justifica el riesgo contra un canal de 70 clicks/mes.
+
+### Pendiente
+
+- **Pasar las 4 URLs nuevas por indexación en GSC** (links abajo, en el mensaje de la sesión).
+- Re-medir el silo de verano cuando haya datos, ~2026-09-11.
+- Re-medir Google Imágenes con `--type image`, misma fecha.
+- Las 25 imágenes locales sin cablear siguen en disco por si alguna guía se reescribe por su propio mérito.
 
 ## Sesión 2026-08-10 al 12 — El catálogo estaba mintiendo: dos guías reencuadradas, verificador de frescura y análisis de CTR
 
