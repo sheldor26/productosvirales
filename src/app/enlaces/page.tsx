@@ -3,8 +3,8 @@ import Image from "next/image";
 import { baseOpenGraph } from "@/lib/site-og";
 import { AffiliateLink } from "@/components/affiliate/AffiliateLink";
 import { socialPosts } from "@/data/social-posts";
-import { activeCoupons } from "@/data/active-coupons";
-import type { SocialPost, ActiveCoupon } from "@/lib/types";
+import { getApplicableCoupon } from "@/lib/coupons";
+import type { SocialPost } from "@/lib/types";
 
 // Página pensada como bio-link para Threads/X/Instagram: quien la abre viene
 // de un celular, casi siempre. No hay build-time caching de la lista de
@@ -66,19 +66,12 @@ function parsePrice(formatted: string): number {
   return Number(formatted.replace(/\./g, ""));
 }
 
-// Nunca fuerza ni combina productos para que un cupón "entre": solo se
-// muestra cuando ESE producto solo ya supera la compra mínima, y el
-// cupón todavía no venció.
-function findApplicableCoupon(post: SocialPost): ActiveCoupon | undefined {
-  const price = parsePrice(post.newPrice);
-  const now = Date.now();
-  return activeCoupons.find(
-    (coupon) => price >= coupon.minPurchase && new Date(coupon.validUntil).getTime() > now
-  );
-}
-
 function ProductCard({ post, stale }: { post: SocialPost; stale: boolean }) {
-  const coupon = findApplicableCoupon(post);
+  // Misma fuente de cupones que el resto del sitio (`src/data/coupons.ts`),
+  // así actualizar el cupón del día en un solo archivo también actualiza
+  // /enlaces. Nunca fuerza ni combina productos para que un cupón "entre":
+  // solo se muestra cuando ESE producto solo ya supera la compra mínima.
+  const coupon = getApplicableCoupon(parsePrice(post.newPrice));
   return (
     <AffiliateLink
       href={post.affiliateUrl}
