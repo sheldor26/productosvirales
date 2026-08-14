@@ -7,6 +7,15 @@
 > 🔴 = se quedo sin stock (el link de afiliado apunta a una pagina pausada).
 > Entradas nuevas arriba.
 
+## 2026-08-14
+
+- 🟢 VOLVIO EL STOCK — **MLA23437114** Cafetera Nespresso Lattissima One blanca con leche integrada
+  - ML: https://www.mercadolibre.com.ar/p/MLA23437114
+  - Sitio: https://productosvirales.com.ar/producto/MLA23437114
+- 🟢 VOLVIO EL STOCK — **MLA1835535491** Masajeador Facial Energy Golden Bar Electroestimulante
+  - ML: https://articulo.mercadolibre.com.ar/MLA-1835535491-masajeador-anti-age-facial-reafirmante-con-vibracion-_JM
+  - Sitio: https://productosvirales.com.ar/producto/MLA1835535491
+
 ## 2026-08-12
 
 - 🟢 VOLVIO EL STOCK — **MLA16269737** Auriculares Logitech G733 Inalámbricos Color Blanco

@@ -6,6 +6,21 @@
 > chequearlos en MercadoLibre. Si son reales, avisar para aplicarlos a mano.
 > Entradas nuevas arriba.
 
+## 2026-08-14
+
+- **MLA8732921** — Auriculares Gamer Con Cable HyperX Cloud HX-HSCA Black y Red: $91.379 → $779.403 (+753%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA8732921
+  - Sitio: https://productosvirales.com.ar/producto/MLA8732921
+- **MLA23437114** — Cafetera Nespresso Lattissima One blanca con leche integrada: $859.800 → $417.002 (-52%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA23437114
+  - Sitio: https://productosvirales.com.ar/producto/MLA23437114
+- **MLA1835535491** — Masajeador Facial Energy Golden Bar Electroestimulante: $24.999 → $95.500 (+282%)
+  - ML: https://articulo.mercadolibre.com.ar/MLA-1835535491-masajeador-anti-age-facial-reafirmante-con-vibracion-_JM
+  - Sitio: https://productosvirales.com.ar/producto/MLA1835535491
+- **MLA42113760** — Freidora De Aire Kanji Home 8 Litros +10 Funciones Canasta Antiadherente Kjh-1700dc 1700w Lh Color Negro: $173.000 → $349.999 (+102%)
+  - ML: https://www.mercadolibre.com.ar/freidora-de-aire-kanji-home-8-litros-10-funciones-canasta-antiadherente-kjh-1700dc-1700w-lh-color-negro/p/MLA42113760
+  - Sitio: https://productosvirales.com.ar/producto/MLA42113760
+
 ## 2026-08-12
 
 - **MLA8732921** — Auriculares Gamer Con Cable HyperX Cloud HX-HSCA Black y Red: $91.379 → $779.403 (+753%)
