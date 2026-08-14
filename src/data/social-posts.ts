@@ -89,4 +89,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "58",
     postedAt: "2026-08-13T16:38:17-03:00",
   },
+  {
+    title: "Harman Kardon Aura Studio 4 Parlante Bluetooth",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_895512-MLA100039550147_122025-O.webp",
+    affiliateUrl: "https://meli.la/2d6Bi3h",
+    newPrice: "415.479",
+    oldPrice: "699.999",
+    offPct: "40",
+    postedAt: "2026-08-14T08:19:30-03:00",
+  },
 ];
