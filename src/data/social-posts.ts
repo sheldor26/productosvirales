@@ -99,4 +99,64 @@ export const socialPosts: SocialPost[] = [
     offPct: "40",
     postedAt: "2026-08-14T08:19:30-03:00",
   },
+  {
+    title: "Moto Cross a Bateria Niños 6V con Luces y Sonido",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_878421-MLA99450345866_112025-O.webp",
+    affiliateUrl: "https://meli.la/25hyabT",
+    newPrice: "294.999",
+    oldPrice: "389.564",
+    offPct: "24",
+    postedAt: "2026-08-14T11:50:08-03:00",
+  },
+  {
+    title: "Bicicleta Mtb Overtech R29 Q3 Con Suspension",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_738744-MLA114427070924_082026-O.webp",
+    affiliateUrl: "https://meli.la/2xJ3czS",
+    newPrice: "207.589",
+    oldPrice: "449.999",
+    offPct: "53",
+    postedAt: "2026-08-14T11:50:08-03:00",
+  },
+  {
+    title: "Cama Elastica 1,8 metros Saltarina con Red Protectora",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_636995-MLA109768878311_032026-O.webp",
+    affiliateUrl: "https://meli.la/2eocPfM",
+    newPrice: "242.499",
+    oldPrice: "359.999",
+    offPct: "32",
+    postedAt: "2026-08-14T11:50:08-03:00",
+  },
+  {
+    title: "Bloques Magneticos Para Armar Estilo Minecraft 154 Piezas",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_754294-MLA89909183767_082025-O.webp",
+    affiliateUrl: "https://meli.la/1qRyKmT",
+    newPrice: "50.160",
+    oldPrice: "114.000",
+    offPct: "56",
+    postedAt: "2026-08-14T11:50:08-03:00",
+  },
+  {
+    title: "Juego De Mesa Monopoly Classic Tokens De Metal Hasbro",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_619179-MLA108762963803_032026-O.webp",
+    affiliateUrl: "https://meli.la/1uJvSG1",
+    newPrice: "54.330",
+    oldPrice: "109.990",
+    offPct: "50",
+    postedAt: "2026-08-14T11:50:08-03:00",
+  },
+  {
+    title: "Auto A Bateria Infantil Blanco Wmt-918",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_637056-MLA95832811397_102025-O.webp",
+    affiliateUrl: "https://meli.la/2JYtsPc",
+    newPrice: "261.790",
+    oldPrice: "499.990",
+    offPct: "47",
+    postedAt: "2026-08-14T11:50:08-03:00",
+  },
 ];

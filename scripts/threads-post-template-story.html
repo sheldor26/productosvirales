@@ -127,6 +127,18 @@
     font-size:30px; font-weight:800; color:#7a6a9c;
   }
   .bio-cta .arrow { font-size:34px; }
+
+  /* optional occasion sticker (e.g. Día del Niño) — empty token by default, only used when passed.
+     Sits in the lower-left of the photo-frame (clear of stock-pill/off-badge above it) — the
+     story card is auto-height with no guaranteed gap near the footer, unlike the square post.
+     clip-path crops the source PNG down to just the round sticker (no white square frame). */
+  .occasion-sticker {
+    position:absolute; z-index:7; top:760px; left:90px;
+    width:220px; height:220px;
+    clip-path: circle(48%);
+    transform: rotate(-9deg);
+    filter: drop-shadow(0 10px 18px rgba(45,37,64,0.35));
+  }
 </style>
 </head>
 <body>
@@ -154,6 +166,7 @@
     </div>
     <div class="stock-pill">__BADGE__</div>
     <div class="off-badge"><span class="pct">-__OFF_PCT__%</span><span class="lbl">OFF</span></div>
+    __STICKER_HTML__
 
     <div class="card">
       <div class="title">__TITLE__</div>

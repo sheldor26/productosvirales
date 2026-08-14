@@ -115,6 +115,18 @@
   }
   .ml-badge .label { font-size:15px; font-weight:700; color:#999; margin-bottom:1px; }
   .ml-logo { height:58px; }
+
+  /* optional occasion sticker (e.g. Día del Niño) — empty token by default, only used when passed.
+     Sits over the "Disponible en Mercado Libre" badge in the card footer.
+     clip-path crops the source PNG down to just the round sticker (no white square frame);
+     filter:drop-shadow follows that clipped circular shape instead of the full box. */
+  .occasion-sticker {
+    position:absolute; z-index:8; bottom:190px; right:50px;
+    width:260px; height:260px;
+    clip-path: circle(48%);
+    transform: rotate(-9deg);
+    filter: drop-shadow(0 10px 18px rgba(45,37,64,0.35));
+  }
 </style>
 </head>
 <body>
@@ -144,6 +156,7 @@
     </div>
     <div class="stock-pill">__BADGE__</div>
     <div class="off-badge"><span class="pct">-__OFF_PCT__%</span><span class="lbl">OFF</span></div>
+    __STICKER_HTML__
 
     <div class="card">
       <div class="title">__TITLE__</div>

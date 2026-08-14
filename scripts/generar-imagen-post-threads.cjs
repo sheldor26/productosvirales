@@ -52,6 +52,16 @@ function buildMlLogoDataUri() {
   return `data:image/svg+xml;base64,${base64}`;
 }
 
+// Sticker de ocasión (ej. Día del Niño): opcional, solo se usa cuando se pasa
+// `sticker` en el JSON con la ruta a un PNG/WEBP local. Nunca se usa por default.
+function buildStickerHtml(stickerPath) {
+  if (!stickerPath) return "";
+  const ext = path.extname(stickerPath).slice(1) || "png";
+  const buffer = fs.readFileSync(stickerPath);
+  const base64 = buffer.toString("base64");
+  return `<img class="occasion-sticker" src="data:image/${ext};base64,${base64}" />`;
+}
+
 function main() {
   const jsonArg = process.argv[2];
   const outputArg = process.argv[3];
@@ -88,6 +98,7 @@ function main() {
     __OFF_PCT__: escapeHtml(data.offPct),
     __SAVINGS__: escapeHtml(data.savings),
     __ML_LOGO__: buildMlLogoDataUri(),
+    __STICKER_HTML__: buildStickerHtml(data.sticker),
   };
 
   for (const [token, value] of Object.entries(replacements)) {
