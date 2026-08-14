@@ -51,7 +51,7 @@
 
 ### Pendiente
 
-- **Pasar las 4 URLs nuevas por indexación en GSC** (links abajo, en el mensaje de la sesión).
+- ~~Pasar las 4 URLs nuevas por indexación en GSC~~ — **hecho el 2026-08-14**, las 4 pedidas a mano en Search Console el mismo día de la publicación.
 - Re-medir el silo de verano cuando haya datos, ~2026-09-11.
 - Re-medir Google Imágenes con `--type image`, misma fecha.
 - Las 25 imágenes locales sin cablear siguen en disco por si alguna guía se reescribe por su propio mérito.

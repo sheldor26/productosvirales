@@ -1241,4 +1241,17 @@ Queries que motivaron el cambio, todas con la posición ganada y sin clicks:
 
 **Silo de verano publicado (2026-08-14).** Salieron a producción las 4 guías de `hogar-jardin` que estaban en STAGED: `pileta-pelopincho` (pilar, 18.100/mes), `pileta-inflable-ninos` (spoke), `colchon-inflable-2-plazas` (12.100/mes) y `sombrilla-de-playa` (6.600/mes). **Sin baseline: son guías nuevas, no optimizaciones.** El timing es deliberado y conviene recordarlo al medir: la demanda de pileta arranca en octubre y pica entre diciembre y enero, así que publicar en agosto es darle a Google las 6 a 12 semanas que un dominio sin autoridad necesita para asentar una URL nueva. Medir en septiembre va a dar casi cero y eso NO significa que fallaron: la primera lectura útil es de octubre en adelante, contra la temporada real.
 
+**Indexación pedida a mano el 2026-08-14**, el mismo día de la publicación, para las 4 URLs:
+
+```
+/guias/hogar-jardin/pileta-pelopincho
+/guias/hogar-jardin/pileta-inflable-ninos
+/guias/hogar-jardin/colchon-inflable-2-plazas
+/guias/hogar-jardin/sombrilla-de-playa
+```
+
+Esa fecha es el punto de partida para contar: el pedido manual acelera el primer rastreo, no la posición. Si al 2026-09-11 alguna de las 4 sigue sin aparecer en el informe de páginas de GSC, ahí sí hay un problema de indexación que mirar; hasta entonces, silencio es lo esperable.
+
+`termotanque-electrico` no entró en el pedido: ya estaba publicada e indexada desde julio y el cambio del día fue solo sumarle la imagen principal, así que se re-rastrea sola por `lastmod` del sitemap.
+
 Re-medir: ~2026-09-11 solo para confirmar que indexaron, y ~2026-10-15 para el primer dato con demanda real.
