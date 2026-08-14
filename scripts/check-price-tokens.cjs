@@ -66,10 +66,17 @@ while ((dm = diffRe.exec(guidesSrc)) !== null) {
 }
 
 // Tokens de prueba social {{reviews:ID}} y {{rating:ID}}.
+// Se buscan en los DOS archivos: las fichas también los usan en articleBody,
+// pros, description y verdict, que pasan por injectLivePrices en la página de
+// producto. Antes solo se miraba guides.ts, así que un token roto dentro de una
+// ficha pasaba el chequeo y salía crudo en producción.
 function recolectar(re) {
   const out = [];
-  let m;
-  while ((m = re.exec(guidesSrc)) !== null) out.push(m[1]);
+  for (const src of [guidesSrc, productsSrc]) {
+    re.lastIndex = 0;
+    let m;
+    while ((m = re.exec(src)) !== null) out.push(m[1]);
+  }
   return out;
 }
 const usedReviews = recolectar(/\{\{\s*reviews:([A-Za-z0-9]+)\s*\}\}/g);
