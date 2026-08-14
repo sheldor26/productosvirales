@@ -40,8 +40,10 @@ const withRating = new Set();
   for (let i = 0; i < posiciones.length; i++) {
     const hasta = i + 1 < posiciones.length ? posiciones[i + 1].at : productsSrc.length;
     const bloque = productsSrc.slice(posiciones[i].at, hasta);
-    const rc = bloque.match(/^ {4}reviewCount: *(\d+)/m);
-    const rt = bloque.match(/^ {4}rating: *([\d.]+)/m);
+    // Los campos pueden venir en su propia linea o compartida
+    // (`rating: 4.1, reviewCount: 48,`): matchear por palabra, no por columna.
+    const rc = bloque.match(/\breviewCount: *(\d+)/);
+    const rt = bloque.match(/\brating: *([\d.]+)/);
     if (rc && Number(rc[1]) > 0) withReviews.add(posiciones[i].id);
     if (rt && Number(rt[1]) > 0) withRating.add(posiciones[i].id);
   }
