@@ -15430,8 +15430,8 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     sections: [
       {
         type: "image",
-        src: "/images/perfumes-imagenes/18-MaisonAlhambra-SceptreMalachite-100ml.webp",
-        alt: "Maison Alhambra Sceptre Malachite, frasco verde: ejemplo de perfumes árabes identificados por el color del envase",
+        src: "/images/perfumes-imagenes/19-Lattafa-HerConfession-100ml.webp",
+        alt: "Lattafa Her Confession, perfume árabe blanco con dorado: el frasco blanco con detalles dorados que más se busca por su color",
         imageSize: "hero"
       },
       {
@@ -15441,7 +15441,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       },
       {
         type: "p",
-        content: "Por color de envase, los más buscados en Argentina son: **rosa** → Lattafa Yara Candy, Yara (original), Bade'e Al Oud Noble Blush o Sabah Al Ward. **Dorado** → Lattafa Yara Elixir, Fakhar Gold Extract, Maahir Legacy o Bharara King. **Azul / celeste** → Rasasi Hawas Ice (el clon del Invictus). **Azul oscuro / negro** → Armaf Club de Nuit Intense Man. **Marrón / café** → Lattafa Khamrah Qahwa, Khamrah Parfum, Asad Bourbon o Afnan 9PM. **Rojo o bordó** → Lattafa Asad Intense. Abajo está el detalle de cada uno con perfil olfativo, precio y a quién le queda bien."
+        content: "Por color de envase, los más buscados en Argentina son: **blanco con dorado** → Lattafa Yara Moi o Her Confession (este último con un busto dorado sobre la tapa). **Rosa** → Lattafa Yara Candy, Yara (original), Bade'e Al Oud Noble Blush o Sabah Al Ward. **Dorado** → Lattafa Yara Elixir, Fakhar Gold Extract, Maahir Legacy o Bharara King. **Azul / celeste** → Rasasi Hawas Ice (el clon del Invictus). **Azul oscuro / negro** → Armaf Club de Nuit Intense Man. **Marrón / café** → Lattafa Khamrah Qahwa, Khamrah Parfum, Asad Bourbon o Afnan 9PM. **Rojo o bordó** → Lattafa Asad Intense. Abajo está el detalle de cada uno con perfil olfativo, precio y a quién le queda bien."
       },
       {
         type: "h3",
@@ -15449,7 +15449,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       },
       {
         type: "p",
-        content: "Muchos frascos combinan un color base con un dorado que casi siempre es la tapa o el líquido, no el color que define el aroma. Para identificarlo, fijate en el color que domina. Si viste **azul con dorado**, manda el azul: es un acuático fresco, casi seguro el Rasasi Hawas Ice (el clon del Invictus). **Rojo o bordó con dorado** apunta al Lattafa Asad Intense. **Rosa con dorado** suele ser el Lattafa Yara Candy (el Yara original combina rosa con plateado, no dorado). **Blanco con dorado** suele ser un dulce o floral suave. Y si el frasco es directamente **dorado**, mirá la sección de dorados más abajo (Yara Elixir, Fakhar Gold Extract, Maahir Legacy)."
+        content: "Muchos frascos combinan un color base con un dorado que casi siempre es la tapa o el líquido, no el color que define el aroma. Para identificarlo, fijate en el color que domina. Si viste **azul con dorado**, manda el azul: es un acuático fresco, casi seguro el Rasasi Hawas Ice (el clon del Invictus). **Rojo o bordó con dorado** apunta al Lattafa Asad Intense. **Rosa con dorado** suele ser el Lattafa Yara Candy (el Yara original combina rosa con plateado, no dorado). **Blanco con dorado** son casi siempre dos: el Yara Moi, blanco liso con detalles dorados, o el Her Confession, que se distingue al toque porque lleva un busto dorado sobre la tapa. Y si el frasco es directamente **dorado**, mirá la sección de dorados más abajo (Yara Elixir, Fakhar Gold Extract, Maahir Legacy)."
       },
       {
         type: "trust-block",
@@ -15578,14 +15578,6 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
         labelColor: "amber"
       },
       {
-        type: "product-card",
-        productMlaId: "MLA41304983",
-        variant: "compact",
-        description: "Her Confession: marrón con tapa dorada. Praliné, vainilla y fondo oriental. Perfume de noche femenino con proyección fuerte, para quien busca un gourmand sensual sin gastar en un importado.",
-        label: "Marrón femenino dulce",
-        labelColor: "amber"
-      },
-      {
         type: "p",
         content: "Otras variantes oscuras: [Asad Bourbon](https://meli.la/1qWMdCK) (marrón bourbon con notas de tabaco) y [Asad Negro](https://meli.la/2t9EpWq) (la versión más oscura de la familia Asad). Para conocer las diferencias entre los tres Asad, mirá la comparativa específica."
       },
@@ -15620,6 +15612,18 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
         description: "Yara Moi: frasco blanco entero con detalles metalizados dorados. Floral-frutal-gourmand con pera, jazmín y vainilla — la variante más suave y de menor proyección de toda la línea Yara, pensada para uso diario. 4.7⭐ con más de 4.900 reseñas.",
         label: "Blanco con dorado",
         labelColor: "amber"
+      },
+      {
+        type: "p",
+        content: "El otro blanco con dorado que aparece seguido es el **Her Confession**, y es bastante más fácil de reconocer: el frasco lleva un busto dorado arriba de la tapa, un detalle que no tiene ningún otro de la lista."
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA41304983",
+        variant: "compact",
+        description: "Her Confession: frasco blanco con busto y detalles dorados. Praliné, vainilla y fondo oriental. Perfume de noche femenino con proyección fuerte, para quien busca un gourmand sensual sin gastar en un importado.",
+        label: "Blanco con dorado, el del busto",
+        labelColor: "purple"
       },
       {
         type: "p",
@@ -20028,8 +20032,8 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "table", headers: [`Modelo`, `Precio`, `Conexión`, `Autonomía`, `Ideal para`], rows: [
         [`[GA.MA Italy Velvet](/producto/depiladora-de-pinzas-gama-velvet-usb-inalambrica-color-blanco-con-rosado-mla21032480)`, `{{precio:MLA21032480}}`, `Inalámbrica (USB)`, `45 min`, `La más vendida, para la mayoría`],
         [`[Daling DL-6032](/producto/depiladora-de-pinzas-usb-inalambrica-color-blanco-con-rosado-color-rosa-mla47224040)`, `{{precio:MLA47224040}}`, `Inalámbrica (USB)`, `1 h`, `La entrada más barata`],
-        [`[Philips Satinelle](/producto/depiladora-bre28500-satinelle-philips-color-rosa-mla19590135)`, `{{precio:MLA19590135}}`, `Con cable`, `No aplica (enchufada)`, `Marca, más cabezales, con estuche`],
-        [`[Gadnic Care D12](/producto/maquina-depiladora-care-by-gadnic-d12-electrica-corporal-2-velocidades-recargable-led-silenciosa-mla19111424)`, `{{precio:MLA19111424}}`, `Inalámbrica (recargable)`, `45 min`, `Multifunción, apta ducha`],
+        [`[Philips Satinelle](/producto/depiladora-bre285-00-satinelle-philips-color-rosa-mla19590135)`, `{{precio:MLA19590135}}`, `Con cable`, `No aplica (enchufada)`, `Marca, más cabezales, con estuche`],
+        [`[Gadnic Care D12](/producto/maquina-depiladora-care-by-gadnic-d12-electrica-corporal-2-velocidades-recargabl-mla19111424)`, `{{precio:MLA19111424}}`, `Inalámbrica (recargable)`, `45 min`, `Multifunción, apta ducha`],
       ] },
 
       { type: "h2", title: `Cómo elegir tu depiladora eléctrica`, id: "como-elegir" },
@@ -20045,19 +20049,19 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "h2", title: `Cuánto cuesta una depiladora eléctrica en Argentina [julio 2026]`, id: "precios" },
       { type: "list", items: [
         `**{{precio:MLA47224040:k}} a {{precio:MLA21032480:k}}:** la franja de entrada. La [Daling DL-6032](/producto/depiladora-de-pinzas-usb-inalambrica-color-blanco-con-rosado-color-rosa-mla47224040) (la más barata) y la [GA.MA Italy Velvet](/producto/depiladora-de-pinzas-gama-velvet-usb-inalambrica-color-blanco-con-rosado-mla21032480) (la más vendida, precio similar).`,
-        `**{{precio:MLA19111424:k}} o más:** la multifunción. La [Gadnic Care D12](/producto/maquina-depiladora-care-by-gadnic-d12-electrica-corporal-2-velocidades-recargable-led-silenciosa-mla19111424), que también afeita, exfolia y masajea.`,
-        `**{{precio:MLA19590135:k}} o más:** la premium de marca. La [Philips Satinelle](/producto/depiladora-bre28500-satinelle-philips-color-rosa-mla19590135), con estuche y 3 cabezales.`,
+        `**{{precio:MLA19111424:k}} o más:** la multifunción. La [Gadnic Care D12](/producto/maquina-depiladora-care-by-gadnic-d12-electrica-corporal-2-velocidades-recargabl-mla19111424), que también afeita, exfolia y masajea.`,
+        `**{{precio:MLA19590135:k}} o más:** la premium de marca. La [Philips Satinelle](/producto/depiladora-bre285-00-satinelle-philips-color-rosa-mla19590135), con estuche y 3 cabezales.`,
       ] },
 
       { type: "h2", title: `Veredicto: cuál depiladora eléctrica comprar`, id: "veredicto" },
       { type: "verdict", content: `Para la mayoría, la **GA.MA Italy Velvet**: la más vendida por lejos, de marca con presencia real en Argentina, a precio accesible. Si buscás la entrada más barata para probar, la **Daling DL-6032**. Si priorizás marca internacional, más cabezales y estuche (y no te molesta usarla enchufada), la **Philips Satinelle**. Y si querés un solo aparato multifunción apto para ducha, la **Gadnic Care D12**. El error a evitar: confundir esta categoría con las depiladoras láser/IPL, que son otra tecnología con otro precio y otro resultado (gradual, no instantáneo).` },
     ],
     faq: [
-      { question: `¿Cuál es la mejor depiladora eléctrica en Argentina?`, answer: `Para la mayoría, la [GA.MA Italy Velvet](/producto/depiladora-de-pinzas-gama-velvet-usb-inalambrica-color-blanco-con-rosado-mla21032480): la más vendida de la categoría, con casi 7.000 calificaciones, de una marca con presencia real en Argentina. Si buscás la más barata, la [Daling DL-6032](/producto/depiladora-de-pinzas-usb-inalambrica-color-blanco-con-rosado-color-rosa-mla47224040); si priorizás marca internacional, la [Philips Satinelle](/producto/depiladora-bre28500-satinelle-philips-color-rosa-mla19590135).` },
+      { question: `¿Cuál es la mejor depiladora eléctrica en Argentina?`, answer: `Para la mayoría, la [GA.MA Italy Velvet](/producto/depiladora-de-pinzas-gama-velvet-usb-inalambrica-color-blanco-con-rosado-mla21032480): la más vendida de la categoría, con casi 7.000 calificaciones, de una marca con presencia real en Argentina. Si buscás la más barata, la [Daling DL-6032](/producto/depiladora-de-pinzas-usb-inalambrica-color-blanco-con-rosado-color-rosa-mla47224040); si priorizás marca internacional, la [Philips Satinelle](/producto/depiladora-bre285-00-satinelle-philips-color-rosa-mla19590135).` },
       { question: `¿Depiladora eléctrica o láser, cuál conviene?`, answer: `Son categorías distintas. La de pinza (esta guía) arranca el vello de raíz al instante, con efecto que dura semanas, y cuesta desde $24.000. La láser/IPL apunta a reducir el vello gradualmente con el tiempo, cuesta bastante más (desde $70.000 en esta categoría) y necesita varias sesiones para ver resultado. Si querés algo inmediato y accesible, pinza; si buscás un efecto más duradero a largo plazo y podés pagar más, láser.` },
       { question: `¿Duele depilarse con pinza eléctrica?`, answer: `Sí, sobre todo las primeras veces: arranca el vello de raíz, así que se siente una molestia real. Con el uso frecuente duele menos, porque el vello sale más fino. Es la contra esperable de este tipo de depilación, no un defecto de un modelo en particular.` },
-      { question: `¿Todas estas depiladoras se pueden usar en la ducha?`, answer: `No. Solo la [Gadnic Care D12](/producto/maquina-depiladora-care-by-gadnic-d12-electrica-corporal-2-velocidades-recargable-led-silenciosa-mla19111424) de esta guía es apta para uso mojado y lavable. Las otras 3 (GA.MA, Daling y Philips) se usan en seco.` },
-      { question: `¿Cuánto dura la batería de una depiladora eléctrica inalámbrica?`, answer: `Entre las de esta guía, va de 45 minutos ([GA.MA Italy Velvet](/producto/depiladora-de-pinzas-gama-velvet-usb-inalambrica-color-blanco-con-rosado-mla21032480) y [Gadnic Care D12](/producto/maquina-depiladora-care-by-gadnic-d12-electrica-corporal-2-velocidades-recargable-led-silenciosa-mla19111424)) a 1 hora ([Daling](/producto/depiladora-de-pinzas-usb-inalambrica-color-blanco-con-rosado-color-rosa-mla47224040)). La Philips Satinelle es con cable, así que no depende de batería.` },
+      { question: `¿Todas estas depiladoras se pueden usar en la ducha?`, answer: `No. Solo la [Gadnic Care D12](/producto/maquina-depiladora-care-by-gadnic-d12-electrica-corporal-2-velocidades-recargabl-mla19111424) de esta guía es apta para uso mojado y lavable. Las otras 3 (GA.MA, Daling y Philips) se usan en seco.` },
+      { question: `¿Cuánto dura la batería de una depiladora eléctrica inalámbrica?`, answer: `Entre las de esta guía, va de 45 minutos ([GA.MA Italy Velvet](/producto/depiladora-de-pinzas-gama-velvet-usb-inalambrica-color-blanco-con-rosado-mla21032480) y [Gadnic Care D12](/producto/maquina-depiladora-care-by-gadnic-d12-electrica-corporal-2-velocidades-recargabl-mla19111424)) a 1 hora ([Daling](/producto/depiladora-de-pinzas-usb-inalambrica-color-blanco-con-rosado-color-rosa-mla47224040)). La Philips Satinelle es con cable, así que no depende de batería.` },
       { question: `¿Vale la pena pagar más por la Philips en vez de la GA.MA Velvet?`, answer: `Depende de qué priorices. La Philips suma marca internacional confirmada, un cabezal más, sistema Opti-Light y estuche, pero es con cable y cuesta más de 3 veces la GA.MA Velvet. Para la mayoría, la GA.MA Velvet (inalámbrica, muchísimas más reseñas) cumple igual de bien a menor precio.` },
     ],
     internalLinks: [
@@ -24473,32 +24477,31 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     pillar: true,
     title: `Pileta Pelopincho: cuál comprar en Argentina [2026]`,
     seoTitle: `Pileta Pelopincho: Cuál Comprar y Qué Medida [2026]`,
-    metaDescription: `Comparamos piletas Pelopincho y las inflables Bestway e Intex de MercadoLibre: qué medida entra en tu patio, cuánta agua lleva cada una y cuál conviene.`,
+    metaDescription: `Comparamos las piletas Pelopincho de MercadoLibre Argentina: qué medida entra en tu patio, cuántos litros lleva cada una y cuál conviene según el espacio.`,
     ogTitle: `Pileta Pelopincho: cuál comprar en Argentina`,
-    ogDescription: `De la inflable de 101 litros a la Pelopincho de 14.000: seis piletas comparadas por medidas reales, capacidad y precio de MercadoLibre, con las contras de cada una.`,
+    ogDescription: `De la 1043 de 2.800 litros a la RD14 de 14.000: tres piletas Pelopincho comparadas por medidas reales, capacidad y precio de MercadoLibre, con las contras de cada una.`,
     ogImage: `https://http2.mlstatic.com/D_NQ_NP_908132-MLA99531708570_122025-O.webp`,
     h1: `Pileta Pelopincho: cuál comprar en Argentina y qué medida conviene [2026]`,
-    directAnswer: `Para la mayoría de los patios conviene la **[Pelopincho 1055](/producto/pileta-estructural-pelopincho-1055-rectangular-4500l-lona-azul-2x3m-con-valvula-mla8961672)** (alrededor de {{precio:MLA8961672:k}}): 3 x 2 metros y 75 cm de alto, la medida donde un adulto se sienta y todavía queda patio libre. Si el espacio es más angosto, la [Pelopincho 1043](/producto/pelopincho-1043-pileta-estructural-rectangular-con-capacidad-de-2800-litros-1-6x-mla8961674) de 2,7 x 1,6 m. Si buscás profundidad para nadar, la [RD14](/producto/pileta-pelopincho-rd14-circular-14000l-acero-inoxidable-pvc-estructura-reforzada-mla21205956) de 14.000 litros. Y si son nenes chicos, una [inflable Bestway](/producto/pileta-inflable-3-aros-largo-1-02m-bestway-51024-101-l-verde-mla15550811) de {{precio:MLA15550811:k}} resuelve el verano sin ocupar el patio entero.`,
+    directAnswer: `Para la mayoría de los patios conviene la **[Pelopincho 1055](/producto/pileta-estructural-pelopincho-1055-rectangular-4500l-lona-azul-2x3m-con-valvula-mla8961672)** (alrededor de {{precio:MLA8961672:k}}): 3 x 2 metros y 75 cm de alto, la medida donde un adulto se sienta y todavía queda patio libre. Si el espacio es más angosto, la [Pelopincho 1043](/producto/pelopincho-1043-pileta-estructural-rectangular-con-capacidad-de-2800-litros-1-6x-mla8961674) de 2,7 x 1,6 m. Si buscás profundidad para nadar, la [RD14](/producto/pileta-pelopincho-rd14-circular-14000l-acero-inoxidable-pvc-estructura-reforzada-mla21205956) de 14.000 litros. Y si son solo nenes chicos, una inflable de aros resuelve el verano sin ocupar el patio entero: las comparamos en la [guía de piletas inflables para chicos](/guias/pileta-inflable-ninos).`,
     publishedDate: "2026-10-05",
     updatedDate: "2026-10-05",
     sitemapLastmod: "2026-10-05",
     hasDisclosure: true,
-    readingTime: 9,
-    standfirst: `Una pileta de lona armable arranca en {{precio:MLA8961674:k}} y llega a {{precio:MLA21205956:k}} según los litros. La decisión real no es la marca, es qué medida entra en tu patio y cuánta agua estás dispuesto a llenar cada temporada. Comparamos seis opciones reales de MercadoLibre Argentina, de la inflable para nenes a la estructural de 14.000 litros.`,
+    readingTime: 8,
+    standfirst: `Una pileta de lona armable arranca en {{precio:MLA8961674:k}} y llega a {{precio:MLA21205956:k}} según los litros. La decisión real no es la marca, es qué medida entra en tu patio y cuánta agua estás dispuesto a llenar cada temporada. Comparamos las tres Pelopincho con publicación activa y precio en vivo en MercadoLibre Argentina, de 2.800 a 14.000 litros.`,
     quickPicks: [
       { productMlaId: "MLA8961672", label: "La más equilibrada", labelColor: "green", tagline: "Pelopincho 1055: 3 x 2 m y 75 cm de alto, entra en un patio de casa" },
       { productMlaId: "MLA8961674", label: "Para patio angosto", labelColor: "slate", tagline: "Pelopincho 1043: 2,7 x 1,6 m, la estructural más chica de la comparativa" },
       { productMlaId: "MLA21205956", label: "La más grande", labelColor: "blue", tagline: "Pelopincho RD14: 14.000 litros y 1,3 m de profundidad para nadar" },
-      { productMlaId: "MLA15550811", label: "La más barata", labelColor: "purple", tagline: "Bestway 51024: inflable de 101 litros para chicos de 2 a 6 años" },
     ],
     intro: [
-      `En Argentina "pelopincho" dejó de ser una marca y pasó a ser el nombre de la cosa: cualquier pileta de lona armable es una pelopincho, la haga Pelopincho o no. Eso genera una confusión concreta a la hora de comprar, porque bajo la misma palabra conviven una inflable de {{precio:MLA15550811:k}} para nenes y una estructural de {{precio:MLA21205956:k}} con 14.000 litros.`,
-      `La decisión no pasa por la marca sino por dos números: **cuántos metros libres tenés** y **cuánta agua querés llenar cada temporada**. Acá comparamos seis piletas reales de MercadoLibre Argentina por medidas verificadas, capacidad y precio, con la contra honesta de cada una.`,
+      `En Argentina "pelopincho" dejó de ser una marca y pasó a ser el nombre de la cosa: cualquier pileta de lona armable es una pelopincho, la haga Pelopincho o no. Eso genera una confusión concreta a la hora de comprar, porque bajo la misma palabra conviven una inflable de aros para nenes y una estructural de {{precio:MLA21205956:k}} con 14.000 litros.`,
+      `La decisión no pasa por la marca sino por dos números: **cuántos metros libres tenés** y **cuánta agua querés llenar cada temporada**. Acá comparamos las tres piletas Pelopincho con publicación activa en MercadoLibre Argentina por medidas verificadas, capacidad y precio, con la contra honesta de cada una.`,
     ],
     sections: [
-      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para el patio promedio, la **[Pelopincho 1055](/producto/pileta-estructural-pelopincho-1055-rectangular-4500l-lona-azul-2x3m-con-valvula-mla8961672)**: 3 x 2 metros, 75 cm de alto y válvula de desagüe. Si el espacio es angosto, la [1043](/producto/pelopincho-1043-pileta-estructural-rectangular-con-capacidad-de-2800-litros-1-6x-mla8961674). Si querés profundidad real, la [RD14](/producto/pileta-pelopincho-rd14-circular-14000l-acero-inoxidable-pvc-estructura-reforzada-mla21205956) de 14.000 litros. Para nenes de 2 a 6 años, la [inflable Bestway](/producto/pileta-inflable-3-aros-largo-1-02m-bestway-51024-101-l-verde-mla15550811) alcanza y sobra.` },
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para el patio promedio, la **[Pelopincho 1055](/producto/pileta-estructural-pelopincho-1055-rectangular-4500l-lona-azul-2x3m-con-valvula-mla8961672)**: 3 x 2 metros, 75 cm de alto y válvula de desagüe. Si el espacio es angosto, la [1043](/producto/pelopincho-1043-pileta-estructural-rectangular-con-capacidad-de-2800-litros-1-6x-mla8961674). Si querés profundidad real, la [RD14](/producto/pileta-pelopincho-rd14-circular-14000l-acero-inoxidable-pvc-estructura-reforzada-mla21205956) de 14.000 litros. Si son solo nenes chicos, con una inflable de aros alcanza y sobra: están comparadas en la [guía de piletas inflables para chicos](/guias/pileta-inflable-ninos).` },
 
-      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** tomamos piletas con stock real en MercadoLibre Argentina y verificamos medidas, capacidad y precio en vivo contra cada publicación. Las ordenamos por lo que define la compra en este producto: los metros que ocupa armada, la profundidad y los litros que hay que llenar. Las calificaciones citadas son de compradores reales y aclaramos cuándo una ficha todavía no tiene ninguna.` },
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** tomamos piletas con publicación activa y precio en vivo en MercadoLibre Argentina y verificamos medidas, capacidad y precio contra cada publicación. Las ordenamos por lo que define la compra en este producto: los metros que ocupa armada, la profundidad y los litros que hay que llenar. Las calificaciones citadas son de compradores reales, y aclaramos cuándo una publicación no tiene ninguna o no declara stock disponible.` },
 
       { type: "h2", title: `Estructural o inflable: la primera decisión`, id: "tipos" },
       { type: "p", content: `Una pileta estructural de lona se sostiene con un armazón de caños y aguanta desde 2.800 hasta 14.000 litros; una inflable se sostiene con aros de aire y rara vez pasa los 350. No son dos gamas del mismo producto, son dos productos distintos: la inflable es para que los chicos se refresquen, la estructural es para que se meta la familia.` },
@@ -24508,7 +24511,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
         `**La bisagra son los litros:** llenar 14.000 litros no es lo mismo que llenar 300, ni en tiempo ni en agua.`,
       ] },
 
-      { type: "h2", title: `Las mejores piletas Pelopincho e inflables de 2026`, id: "ranking" },
+      { type: "h2", title: `Las mejores piletas Pelopincho de 2026`, id: "ranking" },
 
       { type: "h3", title: `1. Pelopincho 1055: la medida que entra en un patio normal`, bigNumber: true },
       { type: "product-card", productMlaId: "MLA8961672", label: "La más equilibrada", labelColor: "green", ranking: 1, description: `4.500 litros en 3 x 2 metros y 75 cm de alto, con estructura reforzada y válvula de desagüe. La medida donde un adulto se sienta cómodo sin que la pileta se coma el patio entero.` },
@@ -24532,22 +24535,6 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "pull-quote", content: `"La pileta es genial, muy grande, pero da un laburito para armar y desarmar."`, attribution: `Opinión verificada en MercadoLibre` },
       { type: "warning", content: `**Dos cosas antes de comprarla.** La ficha declara edad mínima de 5 años, así que no es la pileta para una casa con nenes chicos como única opción. Y ojo con las publicaciones: existe la misma [RD14](/producto/pileta-pelopincho-rd14-circular-14000l-acero-inoxidable-pvc-estructura-reforzada-mla21205956) listada hasta un 35% más cara, con specs y descripción idénticas. La diferencia es el vendedor y el plan de cuotas, no el producto.` },
 
-      { type: "h3", title: `4. Bestway 51026: la inflable con más sentido`, bigNumber: true },
-      { type: "product-card", productMlaId: "MLA828733034", label: "La inflable equilibrada", labelColor: "purple", ranking: 4, description: `282 litros y 1,52 metros de diámetro, casi el triple de agua que la inflable chica. Trae kit de reparación de fábrica, algo que la Intex de esta comparativa no declara.` },
-      { type: "p", content: `Entre las inflables, la [Bestway 51026](/producto/pileta-para-ninos-infantil-inflable-3-aros-bestway-51026-mla828733034) es el salto que tiene sentido: 1,52 metros de diámetro contra 1,02 de la [51024](/producto/pileta-inflable-3-aros-largo-1-02m-bestway-51024-101-l-verde-mla15550811), con casi el triple de agua. Y viene con kit de reparación incluido, igual que la [51024](/producto/pileta-inflable-3-aros-largo-1-02m-bestway-51024-101-l-verde-mla15550811): en una pileta de vinilo eso no es un detalle menor, es la diferencia entre un pinchazo y una pileta muerta. La [Intex 58439NP](/producto/alberca-inflable-intex-redonda-para-ninos-de-1-47-m-con-3-aros-mla20664028) no lo declara.` },
-      { type: "p", content: `La contra honesta: tampoco tenía reseñas publicadas cuando armamos la comparativa, así que no hay experiencia de compradores para contrastar lo que promete la ficha. Y declara 2 a 4 años, un rango más angosto que el de la [51024](/producto/pileta-inflable-3-aros-largo-1-02m-bestway-51024-101-l-verde-mla15550811).` },
-
-      { type: "h3", title: `5. Intex 58439NP: la inflable con más agua`, bigNumber: true },
-      { type: "product-card", productMlaId: "MLA20664028", label: "Más capacidad", labelColor: "blue", ranking: 5, description: `330 litros, 1,47 metros de diámetro y 35 cm de alto. La inflable de mayor capacidad y altura de esta comparativa.` },
-      { type: "p", content: `La [Intex 58439NP](/producto/alberca-inflable-intex-redonda-para-ninos-de-1-47-m-con-3-aros-mla20664028) es la inflable con más agua y más altura de esta comparativa: 330 litros y 35 cm contra los 282 y 30 cm de la [Bestway 51026](/producto/pileta-para-ninos-infantil-inflable-3-aros-bestway-51026-mla828733034), por una diferencia de precio chica ({{preciodif:MLA20664028:MLA828733034}}).` },
-      { type: "bad", content: `**De dónde vienen sus reseñas.** Las calificaciones publicadas en esta ficha son de compradores de México, no de Argentina. Sirven para hacerse una idea de la calidad del producto, pero no dicen nada sobre la experiencia de compra local: envío, garantía o respuesta del vendedor acá.` },
-
-      { type: "h3", title: `6. Bestway 51024: la más barata, con expectativas claras`, bigNumber: true },
-      { type: "product-card", productMlaId: "MLA15550811", label: "La más barata", labelColor: "slate", ranking: 6, description: `101 litros, 1,02 metros de diámetro y 25 cm de alto. La entrada más barata de la comparativa, para chicos de 2 a 6 años.` },
-      { type: "p", content: `La [Bestway 51024](/producto/pileta-inflable-3-aros-largo-1-02m-bestway-51024-101-l-verde-mla15550811) es la forma más barata de tener algo con agua en casa, y conviene leerla por lo que es: 101 litros, 25 cm de alto y capacidad máxima declarada de 2 personas. No es una pileta familiar chica, es una pileta de nenes. Con esa expectativa cumple perfecto.` },
-      { type: "pull-quote", content: `"Muy práctica solución para los que vivimos en departamento."`, attribution: `Opinión verificada en MercadoLibre` },
-      { type: "p", content: `Dos limitaciones concretas que aparecen en las reseñas reales: no tiene válvula de desagüe, así que se vacía dándola vuelta, y la base es fina, por lo que conviene apoyarla sobre una lona o algo que proteja el vinilo del piso. Si estás decidiendo entre inflables y no entre estas y una de lona, la comparación entre las tres inflables está en la [guía de piletas inflables para chicos](/guias/pileta-inflable-ninos).` },
-
       { type: "h2", title: `Tabla comparativa: medidas, litros y precio`, id: "tabla" },
       { type: "table",
         headers: ["Modelo", "Capacidad", "Medidas", "Alto", "Precio", "Ideal para"],
@@ -24555,10 +24542,11 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
           ["[Pelopincho 1055](/producto/pileta-estructural-pelopincho-1055-rectangular-4500l-lona-azul-2x3m-con-valvula-mla8961672)", "4.500 L", "3 x 2 m", "75 cm", "{{precio:MLA8961672}}", "El patio de casa promedio"],
           ["[Pelopincho 1043](/producto/pelopincho-1043-pileta-estructural-rectangular-con-capacidad-de-2800-litros-1-6x-mla8961674)", "2.800 L", "2,7 x 1,6 m", "65 cm", "{{precio:MLA8961674}}", "Patios angostos"],
           ["[Pelopincho RD14](/producto/pileta-pelopincho-rd14-circular-14000l-acero-inoxidable-pvc-estructura-reforzada-mla21205956)", "14.000 L", "3,66 m diám.", "1,3 m", "{{precio:MLA21205956}}", "Nadar, no solo refrescarse"],
-          ["[Intex 58439NP](/producto/alberca-inflable-intex-redonda-para-ninos-de-1-47-m-con-3-aros-mla20664028)", "330 L", "1,47 m diám.", "35 cm", "{{precio:MLA20664028}}", "La inflable con más agua"],
-          ["[Bestway 51026](/producto/pileta-para-ninos-infantil-inflable-3-aros-bestway-51026-mla828733034)", "282 L", "1,52 m diám.", "30 cm", "{{precio:MLA828733034}}", "Inflable con kit de reparación"],
-          ["[Bestway 51024](/producto/pileta-inflable-3-aros-largo-1-02m-bestway-51024-101-l-verde-mla15550811)", "101 L", "1,02 m diám.", "25 cm", "{{precio:MLA15550811}}", "Chicos de 2 a 6 años"],
         ] },
+
+      { type: "h2", title: `Si son solo los chicos: la alternativa inflable`, id: "inflables" },
+      { type: "p", content: `Si nadie del grupo pasa los seis años, una estructural de lona es más pileta de la que hace falta: hay que armarla, llenarla con miles de litros y sostener el agua toda la temporada. Una inflable de aros va de 100 a 330 litros, se infla en minutos y se guarda en una bolsa cuando termina el verano.` },
+      { type: "p", content: `No es una Pelopincho más chica, es otra categoría de producto, y por eso la comparamos aparte. Las comparamos en la [guía de piletas inflables para chicos](/guias/pileta-inflable-ninos), con litros, diámetro y edad declarada de cada modelo.` },
 
       { type: "h2", title: `Cómo elegir la medida de tu pileta`, id: "como-elegir" },
       { type: "h3", title: `Medí el patio antes que el precio` },
@@ -24568,13 +24556,13 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "h3", title: `Pensá en el llenado, no solo en la compra` },
       { type: "p", content: `Llenar 14.000 litros es una decisión de temporada, no de un sábado: son varias horas de manguera y un costo de agua que conviene tener en cuenta antes de elegir el modelo más grande. La [1055](/producto/pileta-estructural-pelopincho-1055-rectangular-4500l-lona-azul-2x3m-con-valvula-mla8961672) con sus 4.500 litros es el punto donde la mayoría encuentra el equilibrio entre disfrutar y no renegar.` },
       { type: "h3", title: `Válvula de desagüe: la diferencia se nota en marzo` },
-      { type: "p", content: `Las tres Pelopincho de esta comparativa la traen. La [Bestway 51024](/producto/pileta-inflable-3-aros-largo-1-02m-bestway-51024-101-l-verde-mla15550811) declara explícitamente que no; en las otras dos inflables el dato no aparece en la ficha. Vaciar 300 litros dando vuelta una inflable es incómodo pero se hace. Vaciar 4.500 sin válvula sería imposible, y por eso en las estructurales es un requisito, no un extra.` },
+      { type: "p", content: `Las tres Pelopincho de esta comparativa la traen, y no es un extra: vaciar 4.500 litros sin válvula sería imposible. En las inflables el panorama es otro, porque 300 litros se resuelven dando vuelta la pileta, así que ahí el dato casi no pesa. En una estructural es un requisito.` },
 
       { type: "h2", title: `Cuánto sale una pileta en Argentina`, id: "precios" },
       { type: "list", items: [
-        `**Desde {{precio:MLA15550811:k}}:** inflables de aros para chicos, de 100 a 330 litros. Se guardan en una bolsa.`,
+        `**Desde {{precio:MLA15550811:k}}:** inflables de aros para chicos, de 100 a 330 litros. Otra categoría, [comparada aparte](/guias/pileta-inflable-ninos).`,
         `**Alrededor de {{precio:MLA8961674:k}} a {{precio:MLA8961672:k}}:** estructurales de lona de 2.800 a 4.500 litros. El rango donde compra la mayoría.`,
-        `**Arriba de {{precio:MLA21205956:k}}:** estructurales grandes de 14.000 litros con armazón reforzado y profundidad para nadar.`,
+        `**Alrededor de {{precio:MLA21205956:k}}:** estructurales grandes de 14.000 litros con armazón reforzado y profundidad para nadar.`,
       ] },
 
       { type: "h2", title: `Cómo mantener el agua limpia toda la temporada`, id: "mantenimiento" },
@@ -24587,7 +24575,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       ] },
       { type: "p", content: `Ninguna de las piletas de esta comparativa incluye bomba ni kit de limpieza: se compran aparte. Es un costo que conviene sumar antes de decidir la medida, porque cuanto más grande la pileta, más insumo consume por temporada.` },
 
-      { type: "verdict", title: `El veredicto`, content: `Para el patio de casa promedio, la **[Pelopincho 1055](/producto/pileta-estructural-pelopincho-1055-rectangular-4500l-lona-azul-2x3m-con-valvula-mla8961672)**: sus 3 x 2 metros y 75 cm de alto son el punto donde un adulto se sienta cómodo y todavía queda patio para caminar, con válvula de desagüe y reseñas reales que confirman que se arma sin ayuda. Si el espacio es angosto, la [1043](/producto/pelopincho-1043-pileta-estructural-rectangular-con-capacidad-de-2800-litros-1-6x-mla8961674), sabiendo que todavía no tiene reseñas que la respalden. Si querés profundidad real para nadar y tenés el espacio nivelado, la [RD14](/producto/pileta-pelopincho-rd14-circular-14000l-acero-inoxidable-pvc-estructura-reforzada-mla21205956). Y si son nenes chicos, no gastes de más: la [inflable Bestway](/producto/pileta-inflable-3-aros-largo-1-02m-bestway-51024-101-l-verde-mla15550811) resuelve el verano y se guarda en un cajón.` },
+      { type: "verdict", title: `El veredicto`, content: `Para el patio de casa promedio, la **[Pelopincho 1055](/producto/pileta-estructural-pelopincho-1055-rectangular-4500l-lona-azul-2x3m-con-valvula-mla8961672)**: sus 3 x 2 metros y 75 cm de alto son el punto donde un adulto se sienta cómodo y todavía queda patio para caminar, con válvula de desagüe y reseñas reales que confirman que se arma sin ayuda. Si el espacio es angosto, la [1043](/producto/pelopincho-1043-pileta-estructural-rectangular-con-capacidad-de-2800-litros-1-6x-mla8961674), sabiendo que todavía no tiene reseñas que la respalden. Si querés profundidad real para nadar y tenés el espacio nivelado, la [RD14](/producto/pileta-pelopincho-rd14-circular-14000l-acero-inoxidable-pvc-estructura-reforzada-mla21205956). Y si son solo nenes chicos, no gastes de más: con una inflable de aros alcanza, resuelve el verano y se guarda en un cajón. Están comparadas en la [guía de piletas inflables para chicos](/guias/pileta-inflable-ninos).` },
 
       { type: "h2", title: `Preguntas frecuentes`, id: "faq" },
     ],
@@ -24595,7 +24583,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
 
       { question: `¿Qué medida de pileta Pelopincho conviene para un patio normal?`, answer: `La [Pelopincho 1055](/producto/pileta-estructural-pelopincho-1055-rectangular-4500l-lona-azul-2x3m-con-valvula-mla8961672), de 3 x 2 metros y 75 cm de alto. Es la medida donde un adulto se sienta cómodo y todavía queda patio libre alrededor. Como regla práctica, calculá un metro extra de cada lado sobre la medida de la pileta para poder armarla y caminar.` },
       { question: `¿Qué necesito para mantener el agua de la pileta?`, answer: `Cloro para evitar que se ponga verde, alguicida para atacar las algas y un cobertor para taparla cuando no se usa. De 4.500 litros para arriba conviene sumar una bomba filtrante, que mueve el agua para que el cloro llegue a todos lados. Ninguna de las piletas de esta comparativa incluye bomba ni kit de limpieza: se compran aparte.` },
-      { question: `¿Cuál es la diferencia entre una pileta estructural y una inflable?`, answer: `La estructural se sostiene con un armazón de caños y va de 2.800 a 14.000 litros, con 65 cm a 1,3 m de alto: entran adultos. La inflable se sostiene con aros de aire, rara vez pasa los 350 litros y llega a 35 cm de alto: es para chicos. No son dos gamas del mismo producto.` },
+      { question: `¿Cuál es la diferencia entre una pileta estructural y una inflable?`, answer: `La estructural se sostiene con un armazón de caños y va de 2.800 a 14.000 litros, con 65 cm a 1,3 m de alto: entran adultos. La inflable se sostiene con aros de aire, rara vez pasa los 350 litros y llega a 35 cm de alto: es para chicos. No son dos gamas del mismo producto. Las inflables las comparamos en la [guía de piletas inflables para chicos](/guias/pileta-inflable-ninos).` },
       { question: `¿Cuánto sale una pileta de lona en Argentina?`, answer: `Las inflables para chicos arrancan en {{precio:MLA15550811:k}}. Las estructurales de lona de 2.800 a 4.500 litros van de {{precio:MLA8961674:k}} a {{precio:MLA8961672:k}}, que es donde compra la mayoría. Las grandes de 14.000 litros superan {{precio:MLA21205956:k}}.` },
       { question: `¿Se puede armar una pileta Pelopincho solo?`, answer: `Sí en los modelos medianos. Varias opiniones verificadas de la [1055](/producto/pileta-estructural-pelopincho-1055-rectangular-4500l-lona-azul-2x3m-con-valvula-mla8961672) mencionan haberla armado sin ayuda de otra persona. En la [RD14](/producto/pileta-pelopincho-rd14-circular-14000l-acero-inoxidable-pvc-estructura-reforzada-mla21205956) de 14.000 litros la cosa cambia: los compradores coinciden en que el armado da trabajo real y conviene ser dos.` },
       { question: `¿Qué necesita el piso donde va la pileta?`, answer: `Una superficie plana, sin desniveles y sin elementos punzantes como piedritas o ramas. Sobre césped conviene poner un polietileno grueso debajo como protección. Un desnivel mínimo se vuelve un problema visible cuando la pileta está llena.` },
@@ -24617,7 +24605,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     category: "piletas",
     silo: "hogar-jardin",
     title: `Pileta inflable para chicos: cuál comprar [2026]`,
-    seoTitle: `Pileta Inflable para Chicos: Cuál Comprar [2026]`,
+    seoTitle: `Pileta Inflable para Chicos: Cuál Comprar según Edad [2026]`,
     metaDescription: `Comparamos 3 piletas inflables reales de MercadoLibre por litros, diámetro y edad recomendada. Cuál conviene según la edad y qué ninguna trae.`,
     ogTitle: `Pileta inflable para chicos: cuál comprar`,
     ogDescription: `De 101 a 330 litros: tres piletas inflables comparadas por capacidad, diámetro y edad real recomendada, con lo que ninguna de las tres incluye.`,
@@ -24657,8 +24645,8 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
 
       { type: "h3", title: `1. Bestway 51026: la más equilibrada`, bigNumber: true },
       { type: "product-card", productMlaId: "MLA828733034", label: "La más equilibrada", labelColor: "green", ranking: 1, description: `282 litros y 1,52 metros de diámetro, con kit de reparación de fábrica. El punto medio entre las tres: casi el triple de agua que la chica sin llegar al precio de la Intex.` },
-      { type: "p", content: `La [Bestway 51026](/producto/pileta-para-ninos-infantil-inflable-3-aros-bestway-51026-mla828733034) es la que mejor resuelve el caso típico: 1,52 metros de diámetro para que entren dos chicos cómodos y 282 litros de agua, casi el triple que la 51024. Trae kit de reparación incluido, que en una pileta de vinilo con chicos alrededor no es un accesorio decorativo.` },
-      { type: "p", content: `Lo honesto: al momento de armar esta comparativa no tenía ninguna reseña publicada, así que no hay experiencia de compradores para contrastar. Su ficha declara 2 a 4 años, un rango más angosto que el de la 51024.` },
+      { type: "p", content: `La [Bestway 51026](/producto/pileta-para-ninos-infantil-inflable-3-aros-bestway-51026-mla828733034) es la que mejor resuelve el caso típico: 1,52 metros de diámetro para que entren dos chicos cómodos y 282 litros de agua, casi el triple que la [51024](/producto/pileta-inflable-3-aros-largo-1-02m-bestway-51024-101-l-verde-mla15550811). Trae kit de reparación incluido, que en una pileta de vinilo con chicos alrededor no es un accesorio decorativo.` },
+      { type: "p", content: `Lo honesto: al momento de armar esta comparativa no tenía ninguna reseña publicada, así que no hay experiencia de compradores para contrastar. Su ficha declara 2 a 4 años, un rango más angosto que el de la [51024](/producto/pileta-inflable-3-aros-largo-1-02m-bestway-51024-101-l-verde-mla15550811).` },
 
       { type: "h3", title: `2. Intex 58439NP: la que más agua lleva`, bigNumber: true },
       { type: "product-card", productMlaId: "MLA20664028", label: "La que más agua lleva", labelColor: "blue", ranking: 2, description: `330 litros y 35 cm de alto: la de mayor capacidad y más profunda de las tres, por una diferencia de precio chica contra la Bestway 51026.` },
@@ -24699,6 +24687,8 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { question: `¿Se pueden reparar si se pinchan?`, answer: `Sí, y es habitual en piletas de vinilo. Las dos Bestway de esta comparativa traen kit de reparación de fábrica; la Intex no lo declara en su ficha. Si la que elegís no lo trae, conviene comprar un parche aparte antes de que haga falta.` },
       { question: `¿Cómo se vacía una pileta inflable?`, answer: `Dándola vuelta: ninguna de las tres tiene válvula de desagüe. Con 101 a 330 litros es incómodo pero se resuelve. Es una de las diferencias con las piletas de lona estructurales, donde la válvula es un requisito porque vaciar 4.500 litros a mano sería imposible.` },
       { question: `¿Cuánto sale una pileta inflable para chicos en Argentina?`, answer: `Las de esta comparativa van de {{precio:MLA15550811:k}} la más chica de 101 litros a {{precio:MLA20664028:k}} la de 330 litros. Es un rango angosto, y por eso conviene elegir por tamaño y edad antes que por precio.` },
+      { question: `¿Con qué se inflan?`, answer: `Ninguna de las tres declara traer inflador en su ficha, así que hay que tenerlo o comprarlo aparte. Se inflan con un inflador de pie, una bomba manual o un compresor de auto. A pulmón se puede, pero son tres aros y da bastante trabajo.` },
+      { question: `¿Qué conviene poner debajo para que no se pinche?`, answer: `Una lona o cualquier cosa que separe el vinilo del piso. Es lo que recomienda una opinión verificada de la [Bestway 51024](/producto/pileta-inflable-3-aros-largo-1-02m-bestway-51024-101-l-verde-mla15550811), que describe la base como fina: apoyarla sobre una superficie sin imperfecciones evita la mayoría de las pinchaduras. Las dos Bestway traen kit de reparación de fábrica; la Intex no lo declara.` },
     ],
     internalLinks: [
       { label: `Pileta Pelopincho: cuál comprar en Argentina`, href: `/guias/pileta-pelopincho` },
@@ -24711,52 +24701,52 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     category: "colchones-inflables",
     silo: "hogar-jardin",
     title: `Colchón inflable 2 plazas: cuál comprar [2026]`,
-    seoTitle: `Colchón Inflable 2 Plazas: Cuál Comprar [2026]`,
+    seoTitle: `Colchón Inflable 2 Plazas: Cuál Comprar en Argentina [2026]`,
     metaDescription: `Comparamos 3 colchones inflables de 2 plazas de MercadoLibre por altura, bomba incorporada y precio real. Cuál conviene para camping o para visitas.`,
     ogTitle: `Colchón inflable 2 plazas: cuál comprar`,
     ogDescription: `Intex, Sufin y Suono comparados por altura, bomba de aire incorporada y precio real de MercadoLibre, con las contras de cada uno.`,
     ogImage: `https://http2.mlstatic.com/D_NQ_NP_990666-MLA112764967149_062026-O.webp`,
-    h1: `Colchón inflable 2 plazas: cuál comprar en Argentina [2026]`,
-    directAnswer: `Para la mayoría conviene el **[Intex Dura Beam 64762](/producto/colchon-inflable-intex-2-plazas-dura-beam-standard-con-bomba-integr-mla22705331)** (alrededor de {{precio:MLA22705331:k}}): 25 cm de alto, el más alto de la comparativa, con bomba de aire incorporada. Si querés gastar lo mínimo, el [Sufin](/producto/colchon-inflable-de-2-plazas-con-inflador-incorporado-y-almohadas-mla58365620) sale {{precio:MLA58365620:k}} y es el más liviano. El [Suono](/producto/colchon-inflable-2-plazas-con-almohadas-inflador-portatil-azul-mla28995489) es el más caro y el más bajo de los tres: solo tiene sentido si aparece con descuento fuerte.`,
+    h1: `Colchón inflable 2 plazas: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene el **[Intex Dura Beam 64762](/producto/colchon-inflable-intex-2-plazas-dura-beam-standard-con-bomba-integrada-mla22705331)** (alrededor de {{precio:MLA22705331:k}}): 25 cm de alto, la mayor altura declarada de la comparativa, con bomba de aire incorporada. Si querés gastar lo mínimo, el [Sufin](/producto/colchon-inflable-de-2-plazas-con-inflador-incorporado-y-almohadas-mla58365620) sale {{precio:MLA58365620:k}} y pesa 1,98 kg. El [Suono](/producto/colchon-inflable-2-plazas-con-almohadas-inflador-portatil-azul-mla28995489) es el más caro de los tres y declara 3 cm menos de altura que el Intex: solo tiene sentido si aparece con descuento fuerte.`,
     publishedDate: "2026-10-05",
     updatedDate: "2026-10-05",
     sitemapLastmod: "2026-10-05",
     hasDisclosure: true,
     readingTime: 6,
-    standfirst: `Un colchón inflable de 2 plazas va de {{precio:MLA58365620:k}} a {{precio:MLA28995489:k}}, y los tres miden lo mismo a lo largo y a lo ancho. Lo que cambia de verdad es la altura, el tipo de bomba y cuánto pesa para llevarlo. Comparamos tres opciones reales de MercadoLibre Argentina.`,
+    standfirst: `Un colchón inflable de 2 plazas va de {{precio:MLA58365620:k}} a {{precio:MLA28995489:k}}, y el largo y el ancho casi no diferencian. Lo que cambia de verdad es la altura, el tipo de bomba y cuánto pesa para llevarlo. Comparamos tres opciones reales de MercadoLibre Argentina.`,
     quickPicks: [
-      { productMlaId: "MLA22705331", label: "El más alto", labelColor: "green", tagline: "Intex Dura Beam: 25 cm de alto y bomba incorporada" },
-      { productMlaId: "MLA58365620", label: "El más barato", labelColor: "slate", tagline: "Sufin: el más económico y el más liviano, con almohadas" },
+      { productMlaId: "MLA22705331", label: "El de más altura", labelColor: "green", tagline: "Intex Dura Beam: 25 cm, la altura más alta declarada" },
+      { productMlaId: "MLA58365620", label: "El más barato", labelColor: "slate", tagline: "Sufin: el más económico, 1,98 kg y con almohadas" },
       { productMlaId: "MLA28995489", label: "Con almohadas", labelColor: "purple", tagline: "Suono KITSUEÑO: mantiene el inflado por semanas según reseñas" },
     ],
     intro: [
-      `Los tres colchones de esta comparativa miden **191 x 137 cm**, que es la medida estándar de 2 plazas. Como el largo y el ancho no diferencian, la decisión se juega en tres cosas: **cuánto levanta del piso**, **qué tipo de bomba trae** y **cuánto pesa** si lo vas a mover.`,
+      `El Intex y el Suono declaran **191 x 137 cm**, que es la medida estándar de 2 plazas; el Sufin solo declara "2 plazas" en su ficha. Como el largo y el ancho no son lo que diferencia, la decisión se juega en tres cosas: **cuánto levanta del piso**, **qué tipo de bomba trae** y **cuánto pesa** si lo vas a mover.`,
       `La altura es lo que más se nota al dormir: cuanto más alto, menos se siente el suelo y más fácil es levantarse. Los tres traen bomba de aire incorporada, así que ninguno necesita inflador aparte.`,
     ],
     sections: [
-      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, el **[Intex Dura Beam](/producto/colchon-inflable-intex-2-plazas-dura-beam-standard-con-bomba-integr-mla22705331)**: 25 cm de alto y bomba incorporada. Para gastar lo mínimo, el [Sufin](/producto/colchon-inflable-de-2-plazas-con-inflador-incorporado-y-almohadas-mla58365620). El [Suono](/producto/colchon-inflable-2-plazas-con-almohadas-inflador-portatil-azul-mla28995489) es el más caro sin ser el más alto, así que solo conviene con descuento.` },
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, el **[Intex Dura Beam](/producto/colchon-inflable-intex-2-plazas-dura-beam-standard-con-bomba-integrada-mla22705331)**: 25 cm de alto y bomba incorporada. Para gastar lo mínimo, el [Sufin](/producto/colchon-inflable-de-2-plazas-con-inflador-incorporado-y-almohadas-mla58365620). El [Suono](/producto/colchon-inflable-2-plazas-con-almohadas-inflador-portatil-azul-mla28995489) es el más caro sin ser el más alto, así que solo conviene con descuento.` },
 
       { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** tomamos colchones inflables de 2 plazas con stock real en MercadoLibre Argentina y verificamos medidas, altura, tipo de bomba y peso contra cada publicación. Cuando una ficha declara datos que no cierran, lo decimos en vez de copiarlos.` },
 
       { type: "h2", title: `Qué diferencia a un colchón inflable de otro`, id: "que-mirar" },
       { type: "list", boxed: true, items: [
-        `**Altura:** de 22 a 25 cm en esta comparativa. Es lo que define cuánto sentís el piso y qué tan fácil es levantarse.`,
-        `**Tipo de bomba:** los tres la traen incorporada. Las de pie son más rápidas que las manuales, pero ninguna es eléctrica.`,
-        `**Peso:** de 1,98 a 3,7 kg. Para camping importa; para tenerlo guardado en casa para las visitas, no.`,
+        `**Altura:** 25 cm el Intex y 22 cm el Suono; el Sufin no la declara. Es lo que define cuánto sentís el piso y qué tan fácil es levantarse.`,
+        `**Tipo de bomba:** los tres la traen incorporada. El Intex y el Suono declaran inflador manual, el Sufin uno de pie. Ninguno declara bomba eléctrica.`,
+        `**Peso:** 1,98 kg el Sufin y 3,7 kg el Intex; el Suono no lo declara. Para camping importa; para tenerlo guardado en casa para las visitas, no.`,
         `**Almohadas:** dos de los tres las incluyen.`,
       ] },
 
       { type: "h2", title: `Los 3 colchones inflables comparados`, id: "ranking" },
 
-      { type: "h3", title: `1. Intex Dura Beam 64762: el más alto`, bigNumber: true },
-      { type: "product-card", productMlaId: "MLA22705331", label: "El más alto", labelColor: "green", ranking: 1, description: `191 x 137 cm y 25 cm de alto, el más alto de los tres, con bomba de aire incorporada. La marca con más recorrido del rubro.` },
-      { type: "p", content: `El [Intex Dura Beam 64762](/producto/colchon-inflable-intex-2-plazas-dura-beam-standard-con-bomba-integr-mla22705331) gana por el dato que más se siente al dormir: **25 cm de alto**, tres más que el Suono, que sale más caro. Cuanto más alto el colchón, menos se nota el piso y menos cuesta levantarse a la mañana, que es la queja clásica de los inflables bajos.` },
+      { type: "h3", title: `1. Intex Dura Beam 64762: el de más altura`, bigNumber: true },
+      { type: "product-card", productMlaId: "MLA22705331", label: "El de más altura", labelColor: "green", ranking: 1, description: `191 x 137 cm y 25 cm de alto, la mayor altura declarada de los tres, con bomba de aire incorporada. La marca con más recorrido del rubro.` },
+      { type: "p", content: `El [Intex Dura Beam 64762](/producto/colchon-inflable-intex-2-plazas-dura-beam-standard-con-bomba-integrada-mla22705331) gana por el dato que más se siente al dormir: **25 cm de alto**, tres más que el Suono, que sale más caro (el Sufin no declara su altura). Cuanto más alto el colchón, menos se nota el piso y menos cuesta levantarse a la mañana, que es la queja clásica de los inflables bajos.` },
       { type: "pull-quote", content: `"Colchón muy cómodo, me costó un poco inflarlo pero el producto es muy bueno."`, attribution: `Opinión verificada en MercadoLibre` },
-      { type: "p", content: `Esa reseña marca también la contra, que es común a los tres: la bomba incorporada es manual, no eléctrica, así que inflarlo lleva su rato de esfuerzo. Ninguno de esta comparativa se infla apretando un botón.` },
+      { type: "p", content: `Esa reseña marca la contra, y es común a los tres: ninguno declara bomba eléctrica. El Intex y el Suono declaran inflador manual, el Sufin uno de pie. Se infla sin comprar nada aparte, pero lleva su rato de esfuerzo.` },
 
-      { type: "h3", title: `2. Sufin 2 plazas: el más barato y el más liviano`, bigNumber: true },
-      { type: "product-card", productMlaId: "MLA58365620", label: "El más barato", labelColor: "slate", ranking: 2, description: `El más económico de la comparativa por amplio margen, con bomba de pie incorporada y almohadas incluidas. Menos de 2 kg, el más liviano para llevar.` },
-      { type: "p", content: `El [Sufin](/producto/colchon-inflable-de-2-plazas-con-inflador-incorporado-y-almohadas-mla58365620) es el más barato de los tres por bastante diferencia ({{preciodif:MLA22705331:MLA58365620}} menos que el Intex) y pesa 1,98 kg, casi la mitad que el Intex. Si el uso es camping y lo vas a cargar, ese dato pesa tanto como el precio.` },
+      { type: "h3", title: `2. Sufin 2 plazas: el más barato, y liviano para llevar`, bigNumber: true },
+      { type: "product-card", productMlaId: "MLA58365620", label: "El más barato", labelColor: "slate", ranking: 2, description: `El más económico de la comparativa por amplio margen, con bomba de pie incorporada y almohadas incluidas. Menos de 2 kg, la mitad que el Intex.` },
+      { type: "p", content: `El [Sufin](/producto/colchon-inflable-de-2-plazas-con-inflador-incorporado-y-almohadas-mla58365620) es el más barato de los tres por bastante diferencia ({{preciodif:MLA22705331:MLA58365620}} menos que el Intex) y pesa 1,98 kg, casi la mitad que el Intex (el Suono no declara su peso). Si el uso es camping y lo vas a cargar, ese dato pesa tanto como el precio.` },
       { type: "pull-quote", content: `"Buena calidad, cómodo, rígido. Tardás un poco en inflarlo con el pie, pero tiene también esa opción."`, attribution: `Opinión verificada en MercadoLibre` },
       { type: "bad", content: `**Un dato de su ficha que no usamos.** La publicación declara medidas de 10 x 30 x 25 cm, que son las del paquete cerrado y no las del colchón armado. Es un error de carga del vendedor: un colchón de 2 plazas no mide 30 centímetros. Lo aclaramos porque si comparás fichas en MercadoLibre te vas a topar con ese número y no sirve para comparar.` },
 
@@ -24764,35 +24754,40 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "product-card", productMlaId: "MLA28995489", label: "Con almohadas", labelColor: "purple", ranking: 3, description: `191 x 137 cm y 22 cm de alto, con bomba manual incorporada y almohadas. Sus reseñas destacan que mantiene el inflado por semanas.` },
       { type: "p", content: `El [Suono KITSUEÑO](/producto/colchon-inflable-2-plazas-con-almohadas-inflador-portatil-azul-mla28995489) tiene la mejor reseña de las tres en lo que más preocupa de un inflable: que no se desinfle solo.` },
       { type: "pull-quote", content: `"El material es muy bueno. Se infla en menos de 10 minutos. Lo tengo inflado hace casi 1 mes."`, attribution: `Opinión verificada en MercadoLibre` },
-      { type: "p", content: `Ahora, la parte incómoda: es **el más caro de los tres y a la vez el más bajo**, con 22 cm contra los 25 del Intex. Las almohadas y la bomba incorporada también las trae el Sufin, que sale bastante menos. Revisando su ficha no encontramos qué justifica la diferencia. A precio de lista conviene el Intex; si lo ves con descuento fuerte, la reseña sobre el inflado sostenido lo vuelve interesante.` },
+      { type: "p", content: `Ahora, la parte incómoda: es **el más caro de los tres y a la vez el de menos altura declarada**, con 22 cm contra los 25 del Intex. Las almohadas y la bomba incorporada también las trae el Sufin, que sale bastante menos. Revisando su ficha no encontramos qué justifica la diferencia. A precio de lista conviene el Intex; si lo ves con descuento fuerte, la reseña sobre el inflado sostenido lo vuelve interesante.` },
 
       { type: "h2", title: `Tabla comparativa`, id: "tabla" },
       { type: "table",
         headers: ["Modelo", "Medidas", "Alto", "Bomba", "Peso", "Precio", "Ideal para"],
         rows: [
-          ["[Intex Dura Beam 64762](/producto/colchon-inflable-intex-2-plazas-dura-beam-standard-con-bomba-integr-mla22705331)", "191 x 137 cm", "25 cm", "Incorporada", "3,7 kg", "{{precio:MLA22705331}}", "Dormir cómodo en casa"],
+          ["[Intex Dura Beam 64762](/producto/colchon-inflable-intex-2-plazas-dura-beam-standard-con-bomba-integrada-mla22705331)", "191 x 137 cm", "25 cm", "Manual", "3,7 kg", "{{precio:MLA22705331}}", "Dormir cómodo en casa"],
           ["[Sufin 2 plazas](/producto/colchon-inflable-de-2-plazas-con-inflador-incorporado-y-almohadas-mla58365620)", "2 plazas", "No declarado", "De pie", "1,98 kg", "{{precio:MLA58365620}}", "Camping y presupuesto ajustado"],
           ["[Suono KITSUEÑO](/producto/colchon-inflable-2-plazas-con-almohadas-inflador-portatil-azul-mla28995489)", "191 x 137 cm", "22 cm", "Manual", "No declarado", "{{precio:MLA28995489}}", "Solo con descuento fuerte"],
         ] },
 
       { type: "h2", title: `Para camping o para visitas`, id: "usos" },
       { type: "h3", title: `Si es para camping` },
-      { type: "p", content: `Priorizá el peso y el tipo de bomba. El [Sufin](/producto/colchon-inflable-de-2-plazas-con-inflador-incorporado-y-almohadas-mla58365620) con 1,98 kg es la mitad del [Intex](/producto/colchon-inflable-intex-2-plazas-dura-beam-standard-con-bomba-integr-mla22705331), y su bomba de pie infla más rápido que una manual. En una carpa, esos dos datos valen más que 3 cm de altura.` },
+      { type: "p", content: `Priorizá el peso y el tipo de bomba. El [Sufin](/producto/colchon-inflable-de-2-plazas-con-inflador-incorporado-y-almohadas-mla58365620) con 1,98 kg es la mitad del [Intex](/producto/colchon-inflable-intex-2-plazas-dura-beam-standard-con-bomba-integrada-mla22705331), y su bomba de pie infla más rápido que una manual. En una carpa, esos dos datos valen más que 3 cm de altura.` },
       { type: "h3", title: `Si es para las visitas en casa` },
-      { type: "p", content: `Ahí el peso no importa y la altura sí: el colchón va a quedar en el piso del living y alguien va a dormir dos noches encima. El [Intex](/producto/colchon-inflable-intex-2-plazas-dura-beam-standard-con-bomba-integr-mla22705331) con 25 cm es el que menos se parece a dormir en el suelo.` },
+      { type: "p", content: `Ahí el peso no importa y la altura sí: el colchón va a quedar en el piso del living y alguien va a dormir dos noches encima. El [Intex](/producto/colchon-inflable-intex-2-plazas-dura-beam-standard-con-bomba-integrada-mla22705331) con 25 cm es el que menos se parece a dormir en el suelo.` },
+      { type: "h3", title: `Si la idea es usarlo como cama todos los días` },
+      { type: "p", content: `Ninguna de las tres fichas declara uso diario ni permanente, y conviene tomarlo como lo que es: un colchón de aire para uso eventual. La opinión verificada más larga que encontramos habla de tenerlo inflado casi un mes, no de dormir encima todo el año. Un inflable pierde algo de aire con el uso y hay que reponerlo cada tanto, así que para una cama de todos los días la comparación honesta no es contra otro inflable sino contra un colchón común.` },
       { type: "h3", title: `Si lo vas a usar en la pileta` },
       { type: "p", content: `No: estos son colchones de dormir, no inflables de agua. Si buscás algo para el agua, mirá la [guía de piletas Pelopincho](/guias/pileta-pelopincho) o las [inflables para chicos](/guias/pileta-inflable-ninos).` },
 
-      { type: "verdict", title: `El veredicto`, content: `Para la mayoría, el **[Intex Dura Beam 64762](/producto/colchon-inflable-intex-2-plazas-dura-beam-standard-con-bomba-integr-mla22705331)**: 25 cm de alto, bomba incorporada y la marca con más recorrido del rubro. Si el uso es camping o el presupuesto manda, el [Sufin](/producto/colchon-inflable-de-2-plazas-con-inflador-incorporado-y-almohadas-mla58365620) sale bastante menos y pesa la mitad, con la salvedad de que su ficha tiene las medidas mal cargadas. El [Suono](/producto/colchon-inflable-2-plazas-con-almohadas-inflador-portatil-azul-mla28995489) solo si lo encontrás con descuento fuerte: a precio de lista es el más caro sin ser el más alto.` },
+      { type: "verdict", title: `El veredicto`, content: `Para la mayoría, el **[Intex Dura Beam 64762](/producto/colchon-inflable-intex-2-plazas-dura-beam-standard-con-bomba-integrada-mla22705331)**: 25 cm de alto, bomba incorporada y la marca con más recorrido del rubro. Si el uso es camping o el presupuesto manda, el [Sufin](/producto/colchon-inflable-de-2-plazas-con-inflador-incorporado-y-almohadas-mla58365620) sale bastante menos y pesa la mitad, con la salvedad de que su ficha tiene las medidas mal cargadas. El [Suono](/producto/colchon-inflable-2-plazas-con-almohadas-inflador-portatil-azul-mla28995489) solo si lo encontrás con descuento fuerte: a precio de lista es el más caro sin ser el más alto.` },
 
       { type: "h2", title: `Preguntas frecuentes`, id: "faq" },
     ],
     faq: [
-      { question: `¿Qué medida tiene un colchón inflable de 2 plazas?`, answer: `El estándar es 191 x 137 cm, que es lo que declaran las fichas del Intex y el Suono de esta comparativa. Lo que cambia entre modelos no es el largo ni el ancho sino la altura, que va de 22 a 25 cm y define cuánto levanta del piso.` },
-      { question: `¿Los colchones inflables vienen con inflador?`, answer: `Los tres de esta comparativa traen bomba de aire incorporada, así que no hace falta comprar un inflador aparte. Ojo: son manuales o de pie, ninguna es eléctrica, y las reseñas reales coinciden en que inflarlos lleva su rato de esfuerzo.` },
-      { question: `¿Cuánto sale un colchón inflable de 2 plazas en Argentina?`, answer: `En esta comparativa van de {{precio:MLA58365620:k}} el más barato a {{precio:MLA28995489:k}} el más caro. La diferencia no siempre se explica por las prestaciones: el más caro de los tres es también el más bajo.` },
-      { question: `¿Cuál conviene para camping?`, answer: `El más liviano, porque lo vas a cargar. El Sufin pesa 1,98 kg contra los 3,7 kg del Intex, casi la mitad, y su bomba de pie infla más rápido que una manual. Para camping esos datos valen más que un par de centímetros de altura.` },
-      { question: `¿Se desinflan solos?`, answer: `Es la duda más común y depende del modelo y del cuidado. Una opinión verificada del Suono menciona haberlo tenido inflado casi un mes sin problemas. Como toda superficie de PVC, conviene apoyarlo sobre una superficie sin elementos punzantes.` },
+      { question: `¿Qué medida tiene un colchón inflable de 2 plazas?`, answer: `El estándar es 191 x 137 cm, que es lo que declaran las fichas del [Intex](/producto/colchon-inflable-intex-2-plazas-dura-beam-standard-con-bomba-integrada-mla22705331) y el [Suono](/producto/colchon-inflable-2-plazas-con-almohadas-inflador-portatil-azul-mla28995489) de esta comparativa; el [Sufin](/producto/colchon-inflable-de-2-plazas-con-inflador-incorporado-y-almohadas-mla58365620) solo declara "2 plazas". Lo que cambia entre modelos no es el largo ni el ancho sino la altura: 25 cm el Intex y 22 cm el Suono.` },
+      { question: `¿Los colchones inflables vienen con inflador?`, answer: `Los tres de esta comparativa traen bomba de aire incorporada, así que no hace falta comprar un inflador aparte. Ojo: ninguno declara bomba eléctrica. El Intex y el Suono declaran inflador manual y el Sufin uno de pie, y las reseñas reales coinciden en que inflarlos lleva su rato de esfuerzo.` },
+      { question: `¿Cuánto sale un colchón inflable de 2 plazas en Argentina?`, answer: `En esta comparativa van de {{precio:MLA58365620:k}} el más barato a {{precio:MLA28995489:k}} el más caro. La diferencia no siempre se explica por las prestaciones: el más caro de los tres declara 3 cm menos de altura que el Intex.` },
+      { question: `¿Cuál conviene para camping?`, answer: `El que menos pese, porque lo vas a cargar. El [Sufin](/producto/colchon-inflable-de-2-plazas-con-inflador-incorporado-y-almohadas-mla58365620) pesa 1,98 kg contra los 3,7 kg del [Intex](/producto/colchon-inflable-intex-2-plazas-dura-beam-standard-con-bomba-integrada-mla22705331), casi la mitad, y su bomba de pie infla más rápido que una manual. El Suono no declara su peso. Para camping esos datos valen más que un par de centímetros de altura.` },
+      { question: `¿Cuánto peso soporta un colchón inflable de 2 plazas?`, answer: `Dos de los tres lo declaran en su publicación: el [Sufin](/producto/colchon-inflable-de-2-plazas-con-inflador-incorporado-y-almohadas-mla58365620) dice soportar 300 kilos y el [Intex](/producto/colchon-inflable-intex-2-plazas-dura-beam-standard-con-bomba-integrada-mla22705331) hasta 273. El [Suono](/producto/colchon-inflable-2-plazas-con-almohadas-inflador-portatil-azul-mla28995489) no publica el dato: si te condiciona la compra, conviene preguntárselo al vendedor por MercadoLibre antes de pagar, porque la respuesta queda escrita en la publicación.` },
+      { question: `¿Qué hago si se pincha?`, answer: `Se repara con un parche de PVC, igual que una pileta de vinilo. Ojo con un detalle: ninguna de las tres fichas declara traer kit de reparación incluido, así que conviene tener uno a mano antes de que haga falta. Los parches se venden sueltos y sirven para cualquier marca.` },
+      { question: `¿Sirven como cama permanente?`, answer: `No están pensados para eso. Ninguna de las tres fichas declara uso diario, y un colchón de aire pierde algo de presión con el uso: hay que reponerla cada tanto. Para las visitas o el camping cumplen; si la idea es dormir todas las noches, la comparación honesta es contra un colchón común, no contra otro inflable.` },
+      { question: `¿Se desinflan solos?`, answer: `Es la duda más común y depende del modelo y del cuidado. Una opinión verificada del [Suono](/producto/colchon-inflable-2-plazas-con-almohadas-inflador-portatil-azul-mla28995489) menciona haberlo tenido inflado casi un mes sin problemas. Como toda superficie de PVC, conviene apoyarlo sobre una superficie sin elementos punzantes.` },
     ],
     internalLinks: [
       { label: `Pileta Pelopincho: cuál comprar en Argentina`, href: `/guias/pileta-pelopincho` },
@@ -24808,10 +24803,10 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     seoTitle: `Sombrilla de Playa: Cuál Comprar en Argentina [2026]`,
     metaDescription: `Comparamos 5 sombrillas reales de MercadoLibre por diámetro, peso y estructura. Cuál aguanta viento de verdad y cuál conviene solo para el patio.`,
     ogTitle: `Sombrilla de playa: cuál comprar en Argentina`,
-    ogDescription: `De $11.000 a $30.000: cinco sombrillas comparadas por diámetro, peso y material, con lo que dicen las reseñas reales sobre el viento.`,
+    ogDescription: `De la de 900 gramos a la de 2,4 metros: cinco sombrillas comparadas por diámetro, peso y material, con lo que dicen las reseñas reales sobre el viento.`,
     ogImage: `https://http2.mlstatic.com/D_NQ_NP_718153-MLA99466585830_112025-O.webp`,
     h1: `Sombrilla de playa: cuál comprar en Argentina y cuál aguanta viento [2026]`,
-    directAnswer: `Para la mayoría conviene la **[MTL MR1001](/producto/sombrilla-playa-mtl-azul-ajustable-proteccion-uv-aluminio-resistent-mla54103750)** (alrededor de {{precio:MLA54103750:k}}): es la mejor calificada de esta comparativa y su estructura de aluminio no se oxida con la arena. Si querés más sombra, la [Proline de 200 cm](/producto/sombrilla-resforzada-reclinable-de-playa-200cm-proline-mla59668073). Para gastar lo mínimo, la [Virke Ibiza](/producto/sombrilla-playa-reforzada-acero-180cm-color-verde-y-azul-virke-ibiza-mla44069333) de {{precio:MLA44069333:k}}. **Ninguna de estas cinco es para viento fuerte:** son sombrillas de playa tranquila o de patio.`,
+    directAnswer: `Para la mayoría conviene la **[MTL MR1001](/producto/sombrilla-playa-mtl-azul-ajustable-proteccion-uv-aluminio-resistente-viento-mla54103750)** (alrededor de {{precio:MLA54103750:k}}): es la mejor calificada de esta comparativa y su estructura de aluminio no se oxida con la arena. Si querés más sombra, la [Proline de 200 cm](/producto/sombrilla-resforzada-reclinable-de-playa-200cm-proline-mla59668073). Para gastar lo mínimo, la [Virke Ibiza](/producto/sombrilla-playa-reforzada-acero-180cm-color-verde-y-azul-virke-ibiza-mla44069333) de {{precio:MLA44069333:k}}. **Ninguna de estas cinco es para viento fuerte:** son sombrillas de playa tranquila o de patio.`,
     publishedDate: "2026-10-05",
     updatedDate: "2026-10-05",
     sitemapLastmod: "2026-10-05",
@@ -24821,7 +24816,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     quickPicks: [
       { productMlaId: "MLA54103750", label: "La mejor calificada", labelColor: "green", tagline: "MTL MR1001: aluminio que no se oxida, la mejor puntuada de la comparativa" },
       { productMlaId: "MLA59668073", label: "Más sombra", labelColor: "blue", tagline: "Proline 200 cm: 2 metros y solo 1,14 kg, reclinable" },
-      { productMlaId: "MLA44069333", label: "La más barata", labelColor: "slate", tagline: "Virke Ibiza: 900 gramos y aluminio al precio más bajo" },
+      { productMlaId: "MLA44069333", label: "La más barata", labelColor: "slate", tagline: "Virke Ibiza: 900 gramos, la más liviana y la más barata" },
       { productMlaId: "MLA62981988", label: "La única articulada", labelColor: "purple", tagline: "Groen Ibiza: se inclina sin mover el poste, ideal para patio" },
     ],
     intro: [
@@ -24829,7 +24824,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       `Eso no las vuelve una mala compra, pero cambia para qué sirven: sombra en una playa tranquila, en el patio o en el camping. Con esa expectativa, lo que decide es el **diámetro** (cuánta sombra), el **peso** (si la vas a cargar) y el **material de la estructura**, porque el aluminio no se oxida y el acero sí.`,
     ],
     sections: [
-      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, la **[MTL MR1001](/producto/sombrilla-playa-mtl-azul-ajustable-proteccion-uv-aluminio-resistent-mla54103750)**: la mejor calificada y con estructura de aluminio. Más sombra, la [Proline 200 cm](/producto/sombrilla-resforzada-reclinable-de-playa-200cm-proline-mla59668073). Lo mínimo, la [Virke Ibiza](/producto/sombrilla-playa-reforzada-acero-180cm-color-verde-y-azul-virke-ibiza-mla44069333). Para patio, la [Groen articulada](/producto/sombrilla-articulada-groen-ibiza-playa-jardin-reclinable-15m-rayas-mla62981988). Ninguna es para viento fuerte.` },
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, la **[MTL MR1001](/producto/sombrilla-playa-mtl-azul-ajustable-proteccion-uv-aluminio-resistente-viento-mla54103750)**: la mejor calificada y con estructura de aluminio. Más sombra, la [Proline 200 cm](/producto/sombrilla-resforzada-reclinable-de-playa-200cm-proline-mla59668073). Lo mínimo, la [Virke Ibiza](/producto/sombrilla-playa-reforzada-acero-180cm-color-verde-y-azul-virke-ibiza-mla44069333). Para patio, la [Groen articulada](/producto/sombrilla-articulada-groen-ibiza-playa-jardin-reclinable-1-5m-rayas-mla62981988). Ninguna es para viento fuerte.` },
 
       { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** tomamos sombrillas con stock real en MercadoLibre Argentina y verificamos diámetro, peso, altura y material contra cada ficha. Leímos las opiniones verificadas de las cinco y las citamos textuales, incluso cuando son malas: en este producto la diferencia entre una compra buena y una mala está en lo que los compradores cuentan sobre el viento, no en la ficha técnica.` },
 
@@ -24846,7 +24841,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
 
       { type: "h3", title: `1. MTL MR1001: la mejor calificada`, bigNumber: true },
       { type: "product-card", productMlaId: "MLA54103750", label: "La mejor calificada", labelColor: "green", ranking: 1, description: `1,34 metros de diámetro con estructura de aluminio y protección UV. La mejor puntuada de esta comparativa, con la ventaja de un material que no se oxida.` },
-      { type: "p", content: `La [MTL MR1001](/producto/sombrilla-playa-mtl-azul-ajustable-proteccion-uv-aluminio-resistent-mla54103750) es la que mejor puntaje tiene de las cinco, y su diferencia concreta es el aluminio: en la playa, donde hay sal y arena, una estructura que no se oxida dura varias temporadas más que una de acero. Con 2 kg y 1,8 metros de altura es cómoda de llevar y de armar.` },
+      { type: "p", content: `La [MTL MR1001](/producto/sombrilla-playa-mtl-azul-ajustable-proteccion-uv-aluminio-resistente-viento-mla54103750) es la que mejor puntaje tiene de las cinco, y su diferencia concreta es el aluminio: en la playa, donde hay sal y arena, una estructura que no se oxida dura varias temporadas más que una de acero. Con 2 kg y 1,8 metros de altura es cómoda de llevar y de armar.` },
       { type: "p", content: `Sus 1,34 metros de diámetro son de los más chicos de la comparativa: da sombra para una o dos personas sentadas, no para un grupo. Y las reseñas, aun siendo las mejores del grupo, no la sobrevaloran.` },
       { type: "pull-quote", content: `"Es una sombrilla liviana, cumple la función para la que se compró."`, attribution: `Opinión verificada en MercadoLibre` },
 
@@ -24857,49 +24852,51 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "p", content: `Esa reseña la define mejor que cualquier ficha. Otro comprador es igual de claro: "un poco frágil para la playa pero para el patio me funciona". Es una buena compra si sabés que estás comprando sombra liviana, no una estructura para el viento.` },
 
       { type: "h3", title: `3. Virke Ibiza: la más barata y la más liviana`, bigNumber: true },
-      { type: "product-card", productMlaId: "MLA44069333", label: "La más barata", labelColor: "slate", ranking: 3, description: `1,5 metros, 900 gramos y estructura de aluminio con tela impermeable. La más barata de la comparativa sin resignar el material.` },
-      { type: "p", content: `La [Virke Ibiza](/producto/sombrilla-playa-reforzada-acero-180cm-color-verde-y-azul-virke-ibiza-mla44069333) es la más barata de las cinco y pesa 900 gramos, menos que un litro de agua. Lo llamativo a este precio es que mantiene la estructura de aluminio y declara tela impermeable, dos cosas que suelen ser lo primero que se recorta en la gama de entrada.` },
-      { type: "p", content: `Con 1,5 metros de diámetro alcanza para dos personas sentadas. Es la que menos reseñas acumuladas tiene entre las que superan las 4 estrellas, así que hay algo menos de experiencia para contrastar que en las Proline.` },
+      { type: "product-card", productMlaId: "MLA44069333", label: "La más barata", labelColor: "slate", ranking: 3, description: `1,5 metros, 900 gramos y tela impermeable. La más barata y la más liviana de la comparativa, con una contradicción de material que conviene leer abajo.` },
+      { type: "p", content: `La [Virke Ibiza](/producto/sombrilla-playa-reforzada-acero-180cm-color-verde-y-azul-virke-ibiza-mla44069333) es la más barata de las cinco y pesa 900 gramos, menos que un litro de agua. A ese precio declara tela impermeable, que suele ser de lo primero que se recorta en la gama de entrada.` },
+      { type: "bad", content: `**Su propia publicación se contradice sobre el material.** La ficha técnica declara estructura de **aluminio**, pero el título de la publicación dice **acero**. Son dos datos del mismo vendedor que no pueden ser ciertos a la vez, y no hay forma de resolverlo desde afuera: si el material te importa (en la playa importa, porque el acero se oxida con la sal), preguntáselo al vendedor por MercadoLibre antes de comprar. La respuesta queda escrita en la publicación.` },
+      { type: "p", content: `Con 1,5 metros de diámetro alcanza para dos personas sentadas, y con {{reviews:MLA44069333}} opiniones y {{rating:MLA44069333}} estrellas tiene respaldo suficiente para saber qué esperar.` },
 
       { type: "h3", title: `4. Groen Ibiza: la única que se articula`, bigNumber: true },
       { type: "product-card", productMlaId: "MLA62981988", label: "La única articulada", labelColor: "purple", ranking: 4, description: `1,5 metros con brazo articulado: la sombra se inclina sin desclavar el poste. Pensada más para patio que para arena.` },
-      { type: "p", content: `La [Groen Ibiza](/producto/sombrilla-articulada-groen-ibiza-playa-jardin-reclinable-15m-rayas-mla62981988) es la única articulada de esta comparativa. El brazo se dobla, así que podés seguir el sol sin mover el poste, algo que en un patio con base fija es la diferencia entre usarla y renegar.` },
-      { type: "p", content: `Es también la de puntaje más bajo entre las que recomendamos y la que menos reseñas tiene, apenas 29. Sus compradores la ubican sin adornos.` },
+      { type: "p", content: `La [Groen Ibiza](/producto/sombrilla-articulada-groen-ibiza-playa-jardin-reclinable-1-5m-rayas-mla62981988) es la única articulada de esta comparativa. El brazo se dobla, así que podés seguir el sol sin mover el poste, algo que en un patio con base fija es la diferencia entre usarla y renegar.` },
+      { type: "p", content: `Es también la de puntaje más bajo entre las que recomendamos y la que menos opiniones acumula, {{reviews:MLA62981988}}. Sus compradores la ubican sin adornos.` },
       { type: "pull-quote", content: `"La uso en casa, por el precio muy buena."`, attribution: `Opinión verificada en MercadoLibre` },
 
       { type: "h3", title: `5. Freewind 2,4 m: la más grande, y la que menos recomendamos`, bigNumber: true },
       { type: "product-card", productMlaId: "MLA63613007", label: "Con reparos", labelColor: "slate", ranking: 5, description: `2,4 metros de diámetro, la más grande de la comparativa. También la más cara y la peor calificada: sus reseñas advierten sobre la estructura.` },
       { type: "bad", content: `**Por qué va última pese a ser la más grande.** Es la peor calificada de las cinco y la más cara. Sus opiniones verificadas coinciden en el mismo punto, y son textuales: *"No sirve para la playa. Se da vuelta. La estructura es súper débil."* y *"Es una sombrilla que no sirve para la playa. No resiste el viento."* La incluimos porque es la única de 2,4 metros que encontramos con stock, pero no la recomendamos para la costa.` },
-      { type: "p", content: `Si te importa el tamaño por encima de todo y el destino es un patio protegido, [la ficha completa está acá](/producto/sombrilla-playera-playa-jardin-grande-24-mts-filtro-uv-color-rojo-lisa-mla63613007). Para playa, cualquiera de las cuatro anteriores es una compra más segura por menos plata.` },
+      { type: "p", content: `Si te importa el tamaño por encima de todo y el destino es un patio protegido, [la ficha completa está acá](/producto/sombrilla-playera-playa-jardin-grande-2-4-mts-filtro-uv-color-rojo-lisa-mla63613007). Para playa, cualquiera de las cuatro anteriores es una compra más segura por menos plata.` },
 
       { type: "h2", title: `Tabla comparativa`, id: "tabla" },
       { type: "table",
         headers: ["Modelo", "Diámetro", "Peso", "Estructura", "Reclinable", "Precio", "Ideal para"],
         rows: [
-          ["[MTL MR1001](/producto/sombrilla-playa-mtl-azul-ajustable-proteccion-uv-aluminio-resistent-mla54103750)", "1,34 m", "2 kg", "Aluminio", "No", "{{precio:MLA54103750}}", "La compra más segura"],
+          ["[MTL MR1001](/producto/sombrilla-playa-mtl-azul-ajustable-proteccion-uv-aluminio-resistente-viento-mla54103750)", "1,34 m", "2 kg", "Aluminio", "No", "{{precio:MLA54103750}}", "La compra más segura"],
           ["[Proline 200 cm](/producto/sombrilla-resforzada-reclinable-de-playa-200cm-proline-mla59668073)", "2 m", "1,14 kg", "Acero", "Sí", "{{precio:MLA59668073}}", "Más sombra sin peso"],
-          ["[Virke Ibiza](/producto/sombrilla-playa-reforzada-acero-180cm-color-verde-y-azul-virke-ibiza-mla44069333)", "1,5 m", "900 g", "Aluminio", "No", "{{precio:MLA44069333}}", "Presupuesto mínimo"],
-          ["[Groen Ibiza](/producto/sombrilla-articulada-groen-ibiza-playa-jardin-reclinable-15m-rayas-mla62981988)", "1,5 m", "2,5 kg", "Acero", "Sí", "{{precio:MLA62981988}}", "Patio con base fija"],
-          ["[Freewind 2,4 m](/producto/sombrilla-playera-playa-jardin-grande-24-mts-filtro-uv-color-rojo-lisa-mla63613007)", "2,4 m", "3 kg", "Acero", "No", "{{precio:MLA63613007}}", "Solo patio protegido"],
+          ["[Virke Ibiza](/producto/sombrilla-playa-reforzada-acero-180cm-color-verde-y-azul-virke-ibiza-mla44069333)", "1,5 m", "900 g", "Sin confirmar", "No", "{{precio:MLA44069333}}", "Presupuesto mínimo"],
+          ["[Groen Ibiza](/producto/sombrilla-articulada-groen-ibiza-playa-jardin-reclinable-1-5m-rayas-mla62981988)", "1,5 m", "2,5 kg", "Acero", "Sí", "{{precio:MLA62981988}}", "Patio con base fija"],
+          ["[Freewind 2,4 m](/producto/sombrilla-playera-playa-jardin-grande-2-4-mts-filtro-uv-color-rojo-lisa-mla63613007)", "2,4 m", "3 kg", "Acero", "No", "{{precio:MLA63613007}}", "Solo patio protegido"],
         ] },
 
       { type: "h2", title: `Cómo elegir la tuya`, id: "como-elegir" },
       { type: "h3", title: `Aluminio o acero` },
-      { type: "p", content: `El aluminio no se oxida y pesa menos; el acero es más rígido pero en la playa la sal lo castiga. De esta comparativa, la [MTL](/producto/sombrilla-playa-mtl-azul-ajustable-proteccion-uv-aluminio-resistent-mla54103750) y la [Virke](/producto/sombrilla-playa-reforzada-acero-180cm-color-verde-y-azul-virke-ibiza-mla44069333) son de aluminio. Si la sombrilla va a vivir en el patio, el acero no es problema.` },
+      { type: "p", content: `El aluminio no se oxida y pesa menos; el acero es más rígido pero en la playa la sal lo castiga. De esta comparativa, la única con aluminio confirmado sin contradicciones es la [MTL](/producto/sombrilla-playa-mtl-azul-ajustable-proteccion-uv-aluminio-resistente-viento-mla54103750). Si la sombrilla va a vivir en el patio, el acero no es problema.` },
       { type: "h3", title: `Cuánta sombra necesitás` },
       { type: "p", content: `Un diámetro de 1,5 metros cubre a dos personas sentadas. Dos metros ya dan para una reposera y algo de espacio alrededor. La diferencia entre 1,34 y 2 metros se nota mucho más de lo que sugiere el número.` },
       { type: "h3", title: `Si la vas a cargar, mirá el peso` },
       { type: "p", content: `Entre 900 gramos y 3 kg hay una diferencia real cuando además llevás reposeras, conservadora y bolso. La [Virke](/producto/sombrilla-playa-reforzada-acero-180cm-color-verde-y-azul-virke-ibiza-mla44069333) con 900 g y la [Proline](/producto/sombrilla-resforzada-reclinable-de-playa-200cm-proline-mla59668073) con 1,14 kg son las dos más cómodas de trasladar.` },
 
-      { type: "verdict", title: `El veredicto`, content: `Para la mayoría, la **[MTL MR1001](/producto/sombrilla-playa-mtl-azul-ajustable-proteccion-uv-aluminio-resistent-mla54103750)**: la mejor calificada de la comparativa y con estructura de aluminio, que en la playa es lo que hace que dure. Si querés más sombra sin cargar peso, la [Proline de 200 cm](/producto/sombrilla-resforzada-reclinable-de-playa-200cm-proline-mla59668073), sabiendo que sus propias reseñas la describen como liviana y frágil ante el viento. Para gastar lo mínimo, la [Virke Ibiza](/producto/sombrilla-playa-reforzada-acero-180cm-color-verde-y-azul-virke-ibiza-mla44069333). Para un patio con base fija, la [Groen articulada](/producto/sombrilla-articulada-groen-ibiza-playa-jardin-reclinable-15m-rayas-mla62981988). Y una advertencia que vale más que cualquier recomendación: en esta franja de precio ninguna aguanta viento fuerte, así que si tu playa es ventosa, conviene subir de categoría antes que elegir entre estas.` },
+      { type: "verdict", title: `El veredicto`, content: `Para la mayoría, la **[MTL MR1001](/producto/sombrilla-playa-mtl-azul-ajustable-proteccion-uv-aluminio-resistente-viento-mla54103750)**: la mejor calificada de la comparativa y con estructura de aluminio, que en la playa es lo que hace que dure. Si querés más sombra sin cargar peso, la [Proline de 200 cm](/producto/sombrilla-resforzada-reclinable-de-playa-200cm-proline-mla59668073), sabiendo que sus propias reseñas la describen como liviana y frágil ante el viento. Para gastar lo mínimo, la [Virke Ibiza](/producto/sombrilla-playa-reforzada-acero-180cm-color-verde-y-azul-virke-ibiza-mla44069333). Para un patio con base fija, la [Groen articulada](/producto/sombrilla-articulada-groen-ibiza-playa-jardin-reclinable-1-5m-rayas-mla62981988). Y una advertencia que vale más que cualquier recomendación: en esta franja de precio ninguna aguanta viento fuerte, así que si tu playa es ventosa, conviene subir de categoría antes que elegir entre estas.` },
 
       { type: "h2", title: `Preguntas frecuentes`, id: "faq" },
     ],
     faq: [
-      { question: `¿Qué sombrilla de playa aguanta el viento?`, answer: `Ninguna de esta comparativa, y conviene saberlo antes de comprar. Las cinco están en la franja de $11.000 a $30.000 y sus opiniones verificadas coinciden en que son livianas y que no resisten ráfagas. Para viento real hace falta otra categoría, con anclaje a rosca y varillas reforzadas, bastante más cara.` },
-      { question: `¿Conviene aluminio o acero en una sombrilla de playa?`, answer: `Aluminio, si va a la playa. No se oxida con la sal y la humedad, y pesa menos. El acero es más rígido pero en la costa se deteriora antes. Si la sombrilla va a quedar en un patio, el acero no representa un problema.` },
+      { question: `¿Qué sombrilla de playa aguanta el viento?`, answer: `Ninguna de esta comparativa, y conviene saberlo antes de comprar. Las cinco están en la franja de {{precio:MLA44069333:k}} a {{precio:MLA63613007:k}} y sus opiniones verificadas coinciden en que son livianas y que no resisten ráfagas. Para viento real hace falta otra categoría, con anclaje a rosca y varillas reforzadas, bastante más cara.` },
+      { question: `¿Conviene aluminio o acero en una sombrilla de playa?`, answer: `Aluminio, si va a la playa. No se oxida con la sal y la humedad, y pesa menos. El acero es más rígido pero en la costa se deteriora antes. Si la sombrilla va a quedar en un patio, el acero no representa un problema. Ojo al comprar: la ficha y el título de una misma publicación pueden declarar materiales distintos, así que conviene preguntarle al vendedor antes de pagar.` },
       { question: `¿Qué diámetro de sombrilla necesito?`, answer: `Con 1,5 metros cubrís a dos personas sentadas. Con 2 metros entra una reposera con espacio alrededor. En esta comparativa el rango va de 1,34 a 2,4 metros, y la diferencia se siente bastante más de lo que sugiere el número.` },
       { question: `¿Cuánto sale una sombrilla de playa en Argentina?`, answer: `En esta comparativa van de {{precio:MLA44069333:k}} la más barata a {{precio:MLA63613007:k}} la más grande. Ojo: el precio no ordena la calidad, porque la más cara de las cinco es también la peor calificada por los compradores.` },
+      { question: `¿Entra en el baúl del auto?`, answer: `Ninguna de las cinco publica la medida cerrada, así que el único dato firme es la altura armada de las cuatro que la declaran: va de 1,8 metros en la [MTL](/producto/sombrilla-playa-mtl-azul-ajustable-proteccion-uv-aluminio-resistente-viento-mla54103750), la [Virke](/producto/sombrilla-playa-reforzada-acero-180cm-color-verde-y-azul-virke-ibiza-mla44069333) y la [Groen](/producto/sombrilla-articulada-groen-ibiza-playa-jardin-reclinable-1-5m-rayas-mla62981988) a 2,28 en la [Freewind](/producto/sombrilla-playera-playa-jardin-grande-2-4-mts-filtro-uv-color-rojo-lisa-mla63613007). Si el baúl es chico, conviene preguntarle al vendedor si el poste se desarma en dos partes antes de comprar: es lo que decide si entra acostada o no.` },
       { question: `¿Cómo evito que se vuele la sombrilla?`, answer: `Enterrá el poste al menos 30 centímetros en arena húmeda, no en la seca de la superficie. Inclinala contra el viento en vez de dejarla vertical, y cerrala siempre que te vayas del lugar, aunque sea un rato: la mayoría de las roturas pasan con la sombrilla abierta y sin nadie cerca.` },
     ],
     internalLinks: [
