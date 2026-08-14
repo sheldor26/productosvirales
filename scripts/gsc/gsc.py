@@ -3,7 +3,7 @@
 
 Subcomandos:
     setup-check          Verifica el JSON, conecta y lista tus propiedades.
-    fetch                Baja queries, paginas y fechas de GOOGLE y guarda un snapshot.
+    fetch                Baja queries, paginas y fechas de GOOGLE y guarda un snapshot. --type web|image|video|news.
     fetch-bing           Baja queries, paginas y fechas de BING y guarda un snapshot.
     audit                Reporte de oportunidades a nivel PAGINA (cerca del top, CTR flojo, canibalizacion). Solo Google.
     oportunidades        Queries en distancia de gol (pos 5-15) + la pagina que las sirve. --match freidora para filtrar.
@@ -14,6 +14,8 @@ Subcomandos:
 Uso tipico:
     python scripts/gsc/gsc.py setup-check
     python scripts/gsc/gsc.py fetch                # corre esto seguido (ej. semanal)
+    python scripts/gsc/gsc.py fetch --type image    # Google Imagenes, inventario aparte
+    python scripts/gsc/gsc.py report --source google-image
     python scripts/gsc/gsc.py fetch-bing            # idem, para Bing Webmaster Tools
     python scripts/gsc/gsc.py audit
     python scripts/gsc/gsc.py report
@@ -160,8 +162,14 @@ def db() -> sqlite3.Connection:
 # ---------------------------------------------------------------------------
 # Descarga
 # ---------------------------------------------------------------------------
-def query_all(service, dimensions, start, end):
-    """Pagina la API hasta traer todas las filas para esas dimensiones."""
+def query_all(service, dimensions, start, end, search_type="web"):
+    """Pagina la API hasta traer todas las filas para esas dimensiones.
+
+    `search_type` es el bucket de busqueda: web, image, video o news. Son
+    inventarios SEPARADOS, no se suman ni se pisan. Durante mucho tiempo esta
+    funcion no mandaba el parametro y la API devuelve `web` por defecto, asi
+    que todos los snapshots viejos son solo web: Imagenes nunca se midio.
+    """
     rows = []
     start_row = 0
     while True:
@@ -172,6 +180,7 @@ def query_all(service, dimensions, start, end):
             "rowLimit": ROW_LIMIT,
             "startRow": start_row,
             "dataState": "all",
+            "type": search_type,
         }
         resp = (
             service.searchanalytics()
@@ -188,10 +197,14 @@ def query_all(service, dimensions, start, end):
 
 def cmd_fetch(args):
     service = get_service()
+    search_type = getattr(args, "type", "web")
+    # web sigue guardandose como 'google' para no romper los snapshots viejos
+    # ni los comandos que filtran por esa fuente (audit, alerts, oportunidades).
+    source = "google" if search_type == "web" else f"google-{search_type}"
     end = dt.date.today() - dt.timedelta(days=args.lag)
     start = end - dt.timedelta(days=args.days - 1)
     s, e = start.isoformat(), end.isoformat()
-    print(f"Bajando GSC de {s} a {e} ({args.days} dias)...")
+    print(f"Bajando GSC [{search_type}] de {s} a {e} ({args.days} dias)...")
 
     plans = {
         "query": ["query"],
@@ -204,14 +217,14 @@ def cmd_fetch(args):
     conn = db()
     cur = conn.cursor()
     cur.execute(
-        "INSERT INTO snapshots (fetched_at, range_start, range_end) VALUES (?,?,?)",
-        (dt.datetime.now().isoformat(timespec="seconds"), s, e),
+        "INSERT INTO snapshots (fetched_at, range_start, range_end, source) VALUES (?,?,?,?)",
+        (dt.datetime.now().isoformat(timespec="seconds"), s, e, source),
     )
     snap_id = cur.lastrowid
 
     totals = {}
     for dim_type, dims in plans.items():
-        rows = query_all(service, dims, s, e)
+        rows = query_all(service, dims, s, e, search_type)
         totals[dim_type] = len(rows)
         for r in rows:
             keys = r.get("keys", [])
@@ -232,14 +245,18 @@ def cmd_fetch(args):
         print(f"  {dim_type:12} {len(rows):>6} filas")
     conn.commit()
 
-    # CSV crudos por si queres abrirlos en Excel/Sheets
-    out_dir = config.EXPORTS_DIR / e
+    # CSV crudos por si queres abrirlos en Excel/Sheets. Cada bucket va a su
+    # propia carpeta para que un fetch de imagenes no pise los CSV de web.
+    out_dir = config.EXPORTS_DIR / (e if search_type == "web" else f"{e}-{search_type}")
     out_dir.mkdir(parents=True, exist_ok=True)
     for dim_type in plans:
         _export_csv(conn, snap_id, dim_type, out_dir / f"{dim_type}.csv")
     conn.close()
-    print(f"\nGuardado snapshot #{snap_id}. CSVs en {out_dir}")
-    print("Proximo paso:  python scripts/gsc/gsc.py audit")
+    print(f"\nGuardado snapshot #{snap_id} (fuente {source}). CSVs en {out_dir}")
+    if search_type == "web":
+        print("Proximo paso:  python scripts/gsc/gsc.py audit")
+    else:
+        print(f"Proximo paso:  python scripts/gsc/gsc.py report --source {source}")
 
 
 def _export_csv(conn, snap_id, dim_type, path):
@@ -866,6 +883,9 @@ def main():
     f = sub.add_parser("fetch", help="baja y guarda un snapshot de Google")
     f.add_argument("--days", type=int, default=28, help="ventana de dias (default 28)")
     f.add_argument("--lag", type=int, default=2, help="dias de retraso de GSC (default 2)")
+    f.add_argument("--type", choices=["web", "image", "video", "news"], default="web",
+                   help="bucket de busqueda (default web). image son las fotos de las "
+                        "guias/fichas en Google Imagenes: inventario aparte, no se suma a web")
 
     sub.add_parser("fetch-bing", help="baja y guarda un snapshot de Bing Webmaster Tools")
 
@@ -883,7 +903,8 @@ def main():
 
     r = sub.add_parser("report", help="rinde por seccion / URL")
     r.add_argument("--section", help="filtrar: producto / guias / categoria / trending")
-    r.add_argument("--source", choices=["google", "bing"], default="google", help="fuente (default google)")
+    r.add_argument("--source", choices=["google", "google-image", "google-video", "google-news", "bing"],
+                   default="google", help="fuente (default google)")
     r.add_argument("--top", type=int, default=20)
 
     al = sub.add_parser("alerts", help="cambios fuertes vs snapshot anterior")
