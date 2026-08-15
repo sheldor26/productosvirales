@@ -1255,3 +1255,35 @@ Esa fecha es el punto de partida para contar: el pedido manual acelera el primer
 `termotanque-electrico` no entró en el pedido: ya estaba publicada e indexada desde julio y el cambio del día fue solo sumarle la imagen principal, así que se re-rastrea sola por `lastmod` del sitemap.
 
 Re-medir: ~2026-09-11 solo para confirmar que indexaron, y ~2026-10-15 para el primer dato con demanda real.
+
+---
+
+**Silo hogar-jardin completado (2026-08-15).** Salieron a producción las 4 guías nuevas que estaban en STAGED:
+`conservadora` (14.800/mes), `mesa-ratona` (14.800/mes), `lampara-de-pie` (14.800/mes) y `estanteria-flotante`
+(12.100/mes). **Sin baseline: son guías nuevas, no optimizaciones.** Con `zapatero` (22.200/mes, publicada el
+2026-08-06) el silo pasa a **cinco pilares y 78.700 búsquedas/mes**, todos enlazados entre sí en las dos
+direcciones.
+
+La jugada no es el volumen sino la **autoridad interna**. Con DA 1 y sin backlinks, lo que mueve la aguja no es
+más prosa: es que cinco URLs temáticamente cercanas se pasen enlaces entre ellas. Por eso las cuatro se
+publicaron juntas y no de a una.
+
+**Estacionalidad, para no malinterpretar la primera medición:** `conservadora` pica entre diciembre y febrero,
+así que su primera lectura útil es de noviembre en adelante. Las otras tres son evergreen y deberían empezar a
+mostrar impresiones antes.
+
+**Indexación pedida a mano el 2026-08-15**, el mismo día de la publicación, para las 4 URLs:
+
+```
+/guias/hogar-jardin/conservadora
+/guias/hogar-jardin/mesa-ratona
+/guias/hogar-jardin/lampara-de-pie
+/guias/hogar-jardin/estanteria-flotante
+```
+
+Las 22 fichas de producto nuevas de estas cuatro guías NO entran en el pedido manual: la regla del proyecto es
+priorizar guías, que son el activo de búsqueda, y dejar que las fichas se rastreen por sitemap y por los enlaces
+internos de las guías.
+
+Re-medir: ~2026-09-12 solo para confirmar que indexaron, y ~2026-10-20 para el primer dato de posición de las
+tres evergreen. La conservadora, recién en noviembre.
