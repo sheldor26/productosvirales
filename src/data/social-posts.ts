@@ -179,4 +179,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "24",
     postedAt: "2026-08-15T08:00:22-03:00",
   },
+  {
+    title: "Nebulizador Mesh San-Up VitaAir 8ml",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_947381-MLA115018617495_072026-O.webp",
+    affiliateUrl: "https://meli.la/1PkWyk6",
+    newPrice: "66.419",
+    oldPrice: "155.199",
+    offPct: "57",
+    postedAt: "2026-08-15T11:22:28-03:00",
+  },
 ];
