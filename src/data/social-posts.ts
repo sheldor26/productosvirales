@@ -189,4 +189,24 @@ export const socialPosts: SocialPost[] = [
     offPct: "57",
     postedAt: "2026-08-15T11:22:28-03:00",
   },
+  {
+    title: "Lego Classic Caja De Ladrillos Creativos Mediana 484 Piezas",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_711582-MLA100016729245_122025-O.webp",
+    affiliateUrl: "https://meli.la/2AUNzC1",
+    newPrice: "116.390",
+    oldPrice: "229.990",
+    offPct: "49",
+    postedAt: "2026-08-15T19:53:04-03:00",
+  },
+  {
+    title: "Pista Hot Wheels Multi-Loop Race Off",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_622203-MLA99948530295_112025-O.webp",
+    affiliateUrl: "https://meli.la/1k6yYzY",
+    newPrice: "96.990",
+    oldPrice: "179.990",
+    offPct: "46",
+    postedAt: "2026-08-15T19:53:04-03:00",
+  },
 ];
