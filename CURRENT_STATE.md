@@ -1,7 +1,7 @@
 # Estado actual
 
 > Snapshot del proyecto. Se actualiza al final de cada sesión.
-> Última actualización: 2026-08-15 (research de keywords verificado, guía de conservadoras en STAGED, y 23 links internos rotos en guías publicadas — ver sesión de más abajo).
+> Última actualización: 2026-08-15 (research de keywords verificado, tres guías nuevas del silo hogar-jardin en STAGED: conservadora, mesa ratona y lámpara de pie, y 23 links internos rotos reparados en guías publicadas — ver sesión de más abajo).
 
 ## Sesión 2026-08-15 — Keywords verificadas, silo hogar-jardin crece, y 23 links internos que iban a ninguna parte
 
@@ -47,9 +47,22 @@
 
 17. **La queja número uno de la categoría no es la calidad, es el armado**: tornillos faltantes, agujeros que no coinciden, manuales incompletos. Aparece en casi todas. Por eso la Mobilarg, la única que llega armada, tiene bloque propio.
 
+### Tercera guía del día: lámpara de pie (STAGED)
+
+18. **Guía `lampara-de-pie` escrita y en STAGED** (14.800/mes), tercer pilar nuevo de `hogar-jardin`, con 5 fichas: PATH trípode nórdico, Lumina curva de hierro 168 cm, TBCin LDP10 con dimmer táctil, Envases Devoto de 120 cm y Global RGB esquinero. Los 5 links meli.la verificados.
+
+19. **El ángulo es "¿trae la lamparita o no?"**, el dato decisivo que nadie mira antes de comprar: **3 de las 5 vienen con portalámparas E27 vacío** y hay que sumar el foco aparte, o sea que el precio publicado no es el precio real. La TBCin llega lista para enchufar con LED integrado y dimmer. La Global RGB también trae LED, pero es decorativa de 5 W, no sirve para iluminar.
+
+20. **La categoría casi no tiene fichas de catálogo:** de los 16 más vendidos, solo 3 son `/p/MLA` con reseñas agregadas; el resto son publicaciones de vendedor único. Menos respaldo estadístico que en conservadoras o mesas ratonas, y la guía lo dice.
+
+21. **La contradicción del RGB se resolvió antes de escribir.** ML declara "Incluye lámpara: No", lo que induce a pensar que hay que comprar un foco. La descripción del vendedor confirma RGBIC integrado de 5 W sin rosca E27 en ningún lado: el campo simplemente no aplica a ese producto.
+
+22. **Ese mismo dato generó el error más caro del día.** Escribir "4 de 5" en vez de "3 de 5" se propagó a **12 lugares del contenido más 2 comentarios de código**. Hicieron falta tres pasadas del trío para limpiarlo: la primera lo detectó (agy puso Honestidad 4/10), la segunda dejó una frase suelta, y la tercera encontró los comentarios que ningún grep de contenido miraba. Anotado en `MISTAKES.md`.
+
 ### Pendiente
 
-- Las guías `conservadora` y `mesa-ratona` están en STAGED. Publicar = dar vuelta las dos fechas a la del día.
+- Las guías `conservadora`, `mesa-ratona` y `lampara-de-pie` están en STAGED. Publicar = dar vuelta las tres fechas a la del día.
+- Falta cruzar las medidas de las mesas ratonas contra las webs de los fabricantes (tarea 175).
 - Quedan 15 leads con volumen medido y SERP sin chequear en `docs/keywords-verificadas-2026-08-15.md`.
 - `mueble zapatero` (6.600) y `botinero` (2.900) son la misma intención que la guía `zapatero` ya publicada: hay que ver en GSC si ya rankea para esas dos antes de escribir nada, o sería auto-canibalización.
 - El soft-404 de fondo sigue sin arreglar: cualquier slug inexistente bajo `/guias/` devuelve 200.

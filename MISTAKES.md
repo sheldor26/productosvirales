@@ -286,3 +286,33 @@ no dice nada sobre humedad, igual que ser de vidrio no dice nada sobre horno.
 **Y el meta-error:** corregí dos de las tres apariciones y declaré el punto resuelto. Es el mismo
 patrón del grep incompleto de los links internos del mismo día: arreglar las ocurrencias que veo
 en vez de buscar todas las formas en que el error puede estar escrito.
+
+## 2026-08-15 — Le pedí al auditor que vigilara un error y lo cometí igual, en la misma tanda
+
+En la guía de lámpara de pie el ángulo editorial principal era "4 de las 5 no traen la
+lamparita". **Son 3.** La Global RGB también tiene LED integrado; lo que pasa es que con 5 W es
+decorativa y no funciona como lámpara de uso. Yo mismo lo había verificado y escrito en su ficha,
+y aun así generalicé mal en la guía.
+
+**Lo que hace grave a este caso:** en el prompt del trío auditor escribí, textualmente, que
+revisaran si había "afirmaciones mal generalizadas... sobre qué producto incluye foco". Le pedí
+al auditor que buscara exactamente el error que estaba cometiendo mientras lo escribía.
+
+Los dos auditores lo encontraron por separado. Gemini le puso **4/10 en honestidad**, la nota más
+baja de toda la sesión, y con razón: el error estaba en el ángulo central, o sea en lo que más se
+lee y lo más probable de que cite un AI Overview.
+
+**La conclusión que importa, y es distinta a la de las entradas anteriores:** tener la regla
+escrita no alcanza. Ya estaba en este archivo desde la guía de mesa ratona, la había leído, y se
+la pasé al auditor. El error igual salió, porque el problema no es no saber la regla: es que la
+generalización cómoda ("las demás", "la única", "4 de 5") se escribe sola mientras uno está
+pensando en el argumento, no en el conteo.
+
+**Lo único que funcionó:** pedir calificación numérica en vez de GO/NO-GO. Con un veredicto
+binario esto pasaba: la guía está bien estructurada, monetiza bien y el defecto es una palabra
+repetida. Obligar a poner un número obligó a los dos auditores a buscar el motivo del descuento.
+
+**Regla operativa:** antes de escribir cualquier claim con número o superlativo sobre el conjunto
+("N de M", "la única", "las demás", "el resto"), contar producto por producto contra la tabla de
+datos, no de memoria. Y al corregirlo, grepear TODAS las formas del claim antes de darlo por
+cerrado: en esta guía había 11 apariciones en 2 archivos.

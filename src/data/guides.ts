@@ -24467,6 +24467,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { question: `¿Cuál es el zapatero más liviano y fácil de mover?`, answer: `El [Zapatero LBS](/producto/organizador-zapatero-lbs-zapatillas-botinero-estantes-desarmable-todo-negro-alum-mla65935388) de aluminio o el [Zapatero de Tela](/producto/zapatero-estante-organizador-de-tela-8-estantes-9-niveles-mlau3149919167) son los más livianos y fáciles de mover o guardar de esta comparativa.` },
     ],
     internalLinks: [
+      { label: "Lámpara de pie: cuál comprar en Argentina", href: "/guias/hogar-jardin/lampara-de-pie" },
       { label: "Mesa ratona: cuál comprar en Argentina", href: "/guias/hogar-jardin/mesa-ratona" },
       { label: "Conservadora: cuál comprar en Argentina", href: "/guias/hogar-jardin/conservadora" },
       { label: "Ver toda la categoría Hogar y Jardín", href: "/categoria/hogar-jardin" },
@@ -25040,6 +25041,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { question: `¿Las conservadoras traen tapón para drenar el agua?`, answer: `Ninguna de las cinco de esta comparativa lo trae, y en las grandes se nota. Es la contra más señalada por los compradores de la [Mor de 75 litros](/producto/conservadora-termica-mor-75l-color-azul-mla28583015): para vaciarla hay que sacar todo y darla vuelta.` },
     ],
     internalLinks: [
+      { label: `Lámpara de pie: cuál comprar en Argentina`, href: `/guias/hogar-jardin/lampara-de-pie` },
       { label: `Mesa ratona: cuál comprar en Argentina`, href: `/guias/hogar-jardin/mesa-ratona` },
       { label: `Zapatero: cuál comprar en Argentina`, href: `/guias/hogar-jardin/zapatero` },
       { label: `Pileta Pelopincho: cuál comprar en Argentina`, href: `/guias/hogar-jardin/pileta-pelopincho` },
@@ -25181,6 +25183,141 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { question: `¿Conviene comprar un set de mesas o una sola?`, answer: `Un set conviene si querés resolver más de un rincón o si tenés poco espacio y valorás poder apilarlas, como el [Ambi O](/producto/mesas-de-centro-ratona-ambi-o-set-x3-acero-mdf-marron-y-negro-mla66551735). Una sola conviene si buscás una superficie continua para apoyar cosas de a varios: ahí ni tres mesas chicas juntas reemplazan a una grande.` },
     ],
     internalLinks: [
+      { label: `Lámpara de pie: cuál comprar en Argentina`, href: `/guias/hogar-jardin/lampara-de-pie` },
+      { label: `Zapatero: cuál comprar en Argentina`, href: `/guias/hogar-jardin/zapatero` },
+      { label: `Conservadora: cuál comprar en Argentina`, href: `/guias/hogar-jardin/conservadora` },
+      { label: `Ver toda la categoría Hogar y Jardín`, href: `/categoria/hogar-jardin` },
+    ],
+    internalLinksTitle: "Más de hogar y jardín",
+  },
+  // ─────────────────────────────────────────────────────────
+  // PILAR lampara-de-pie — silo hogar-jardin, diseño best-of (ver docs/guias.md)
+  // Ángulo: el dato decisivo es si trae la lamparita. 3 de 5 usan E27 vacío;
+  // TBCin y Global RGB traen LED integrado, pero la RGB es decorativa de 5 W.
+  // Ver docs/sourcing-lampara-de-pie-2026-08-15.md
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "lampara-de-pie",
+    category: "lamparas-de-pie",
+    silo: "hogar-jardin",
+    pillar: true,
+    title: `Lámpara de pie: cuál comprar en Argentina [2026]`,
+    seoTitle: `Lámpara de Pie: Cuál Comprar en Argentina [2026]`,
+    metaDescription: `Comparamos 5 lámparas de pie reales de MercadoLibre: trípode, arco, lectura y RGB. Cuál trae la lamparita y cuál no, con contras honestas.`,
+    ogTitle: `Lámpara de pie: cuál comprar en Argentina`,
+    ogDescription: `Trípode, arco, brazo flexible o RGB: 5 lámparas de pie comparadas por tipo de luz, con el dato que nadie mira antes de comprar.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_609930-MLA94268391953_102025-O.webp`,
+    h1: `Lámpara de pie: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene la **[PATH Trípode Nórdica](/producto/lampara-de-pie-tripode-de-madera-nordico-beige-mlau3726389505)** (alrededor de {{precio:MLAU3726389505:k}}): es la más elegida de la categoría y da la luz ambiente que se busca al lado de un sillón. Si querés **leer**, la **[TBCin LDP10](/producto/lampara-de-pie-led-10w-touch-dimer-brazo-flexible-ldp10-blanco-dimerizable-mla29252850)**, que llega lista para enchufar y tiene brazo flexible. Si **no tenés lugar al lado del sillón**, la **[Lumina Curva](/producto/lampara-de-pie-curva-de-hierro-led-e27-minimalista-moderna-natural-negro-mlau3835629976)** pasa la luz por encima. Y si buscás **color para un setup**, la **[Global RGB](/producto/luz-lampara-rgb-esquinero-de-pie-de-140cm-de-alto-control-rgb-negro-mla69432393)**, que ilumina poco pero no es para eso. Ojo: **3 de las 5 vienen con el zócalo E27 vacío** y hay que sumarles el foco.`,
+    publishedDate: "2026-10-05",
+    updatedDate: "2026-10-05",
+    hasDisclosure: true,
+    readingTime: 9,
+    standfirst: `Una lámpara de pie va de {{precio:MLA69432393:k}} (la esquinera RGB) a {{precio:MLAU3835629976:k}} (la de arco). Comparamos 5 lámparas de pie reales de MercadoLibre Argentina por tipo de luz, si incluyen el foco y contras de reseñas verdaderas, dentro de nuestro silo de [Hogar y Jardín](/categoria/hogar-jardin).`,
+    quickPicks: [
+      { productMlaId: "MLAU3726389505", label: "La más elegida", labelColor: "green", tagline: "PATH Trípode Nórdica: la clásica de madera, con más de mil opiniones reales" },
+      { productMlaId: "MLA29252850", label: "Mejor para leer", labelColor: "blue", tagline: "TBCin LDP10: llega lista con LED, dimmer táctil y brazo flexible" },
+      { productMlaId: "MLAU3835629976", label: "Mejor si no hay lugar al lado", labelColor: "purple", tagline: "Lumina Curva: 60 cm de brazo para pasar la luz por encima del sillón" },
+      { productMlaId: "MLA69432393", label: "Luz de color", labelColor: "slate", tagline: "Global RGB: para setup gamer y backlight de TV, no para iluminar" },
+    ],
+    intro: [
+      `Una **lámpara de pie** es la que se apoya en el piso y acompaña al sillón, al sofá o a un rincón de lectura. Es el mueble de luz que resuelve lo que el plafón del techo no: luz cálida, dirigida y a la altura donde uno está sentado.`,
+      `Comparamos 5 lámparas de pie reales de MercadoLibre Argentina, y hay un dato que conviene saber antes de mirar precios: **tres de las cinco no incluyen la lamparita**. Vienen con el zócalo E27 vacío y el foco se compra aparte. Las otras dos traen LED integrado, aunque solo una de ellas sirve como lámpara de verdad: la RGB es decorativa de 5 W. No es una trampa, está declarado en la ficha, pero cambia el precio real de la compra y casi nadie lo mira. Por eso esta guía está ordenada por **tipo de luz y uso**, con ese dato visible en la tabla.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_609930-MLA94268391953_102025-O.webp", alt: `Lámpara de pie trípode nórdica de madera con pantalla de tela, la más elegida de la categoría`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la **mayoría**, la **[PATH Trípode Nórdica](/producto/lampara-de-pie-tripode-de-madera-nordico-beige-mlau3726389505)**. Para **leer**, la **[TBCin LDP10](/producto/lampara-de-pie-led-10w-touch-dimer-brazo-flexible-ldp10-blanco-dimerizable-mla29252850)**, la única lámpara funcional que llega lista para enchufar. Si **no hay lugar al lado del sillón**, la **[Lumina Curva](/producto/lampara-de-pie-curva-de-hierro-led-e27-minimalista-moderna-natural-negro-mlau3835629976)**. Para **decorar con sombras**, la **[Envases Devoto](/producto/lampara-de-pie-envases-devoto-mimbre-120cm-rollo-e27-estructura-negro-pantalla-r-mla53437609)**, sabiendo que es frágil. Y para **color**, la **[Global RGB](/producto/luz-lampara-rgb-esquinero-de-pie-de-140cm-de-alto-control-rgb-negro-mla69432393)**.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos las lámparas de pie con más ventas reales en MercadoLibre Argentina, entrando por el ranking de más vendidos de la categoría, y verificamos cada publicación en vivo. Las ordenamos por **tipo de luz y uso**, no por precio, porque en esta categoría una lámpara de lectura y una decorativa de color no compiten entre sí. Declaramos producto por producto **si incluye el foco o no**, y señalamos dónde la ficha técnica de MercadoLibre no coincide con la descripción del vendedor. Los precios se verifican automáticamente contra MercadoLibre.` },
+
+      { type: "h2", title: `Qué mirar antes de comprar una lámpara de pie`, id: "que-mirar" },
+      { type: "p", content: `**¿Trae la lamparita?** Es la pregunta que decide el precio real y la que menos se hace. Tres de las cinco de esta guía vienen con zócalo E27 vacío: hay que sumar el foco. Las otras dos traen LED integrado, la [TBCin](/producto/lampara-de-pie-led-10w-touch-dimer-brazo-flexible-ldp10-blanco-dimerizable-mla29252850) y la [Global RGB](/producto/luz-lampara-rgb-esquinero-de-pie-de-140cm-de-alto-control-rgb-negro-mla69432393), pero solo la TBCin funciona como lámpara de verdad: la RGB es decorativa de 5 W.` },
+      { type: "p", content: `**Pero el zócalo vacío no es solo una contra.** Varias compradoras de las de E27 cuentan que le ponen una lámpara inteligente o regulable y manejan color e intensidad desde el celular. Eso con un LED integrado no se puede. Así que la pregunta real no es "incluye o no incluye", es **lista para enchufar contra elegís vos el foco**.` },
+      { type: "p", content: `**Luz de ambiente o luz para leer.** Una pantalla de tela difunde la luz hacia los costados y sirve para acompañar; un brazo flexible la dirige a la página. No son intercambiables. Si el plan es leer en el sillón, una trípode con pantalla de tela va a quedar corta por más watts que tenga.` },
+      { type: "p", content: `**Dónde va a apoyarse.** Es la decisión que más se subestima. Si no hay lugar al costado del sillón, ninguna lámpara común sirve por más linda que sea: ahí entra el formato arco, que apoya la base a un lado y lleva la luz por encima.` },
+      { type: "callout", calloutVariant: "warning", calloutTitle: "Ojo con el campo \"Incluye lámpara\" de MercadoLibre", content: `En la [Global RGB](/producto/luz-lampara-rgb-esquinero-de-pie-de-140cm-de-alto-control-rgb-negro-mla69432393) la ficha declara "Incluye lámpara: No", y eso hace pensar que falta comprar un foco. No falta: la descripción del vendedor confirma **LED RGBIC integrado de 5 W** y en ningún lado menciona zócalo, rosca ni foco. Es un campo que no aplica a ese producto. Lo aclaramos porque induce a un gasto que no existe.` },
+
+      { type: "h2", title: `Las mejores lámparas de pie de 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. PATH Trípode Nórdica — la más elegida` },
+      { type: "product-card", productMlaId: "MLAU3726389505", label: "La más elegida", labelColor: "green", ranking: 1, description: `Trípode de madera con pantalla de tela de lienzo, 150 cm. La lámpara de pie más vendida de la categoría, con la mayor base de opiniones de esta comparativa.` },
+      { type: "p", content: `La [PATH Trípode Nórdica](/producto/lampara-de-pie-tripode-de-madera-nordico-beige-mlau3726389505) es la más vendida de la categoría, con **{{rating:MLAU3726389505}} estrellas en {{reviews:MLAU3726389505}} opiniones**, a alrededor de {{precio:MLAU3726389505:k}}. Es la forma que uno tiene en la cabeza cuando busca una lámpara de pie: patas de madera en trípode, pantalla de tela, 150 cm.` },
+      { type: "p", content: `La pantalla de tela difunde la luz hacia los costados, que es justo lo que se busca para ambiente: acompaña al sillón sin encandilar.` },
+      { type: "p", content: `Lo honesto: el cable queda colgando de forma poco prolija, y es la queja más repetida. No rompe nada, pero se ve. Y da luz ambiente, no de lectura: para leer conviene un brazo flexible.` },
+      { type: "pull-quote", content: `"La lámpara es tal como en la foto. Vino en perfectas condiciones, estoy súper conforme! lo único que no me convence es la manera en la que cuelga el cable."`, attribution: `Compradora verificada en MercadoLibre, calificación 4/5` },
+
+      { type: "h3", title: `2. TBCin LDP10 — mejor para leer` },
+      { type: "product-card", productMlaId: "MLA29252850", label: "Mejor para leer", labelColor: "blue", ranking: 2, description: `LED integrado de 10 W, dimmer táctil con 3 tonos y brazo flexible. Llega lista para enchufar, sin comprar foco aparte.` },
+      { type: "p", content: `La [TBCin LDP10](/producto/lampara-de-pie-led-10w-touch-dimer-brazo-flexible-ldp10-blanco-dimerizable-mla29252850) sale alrededor de {{precio:MLA29252850:k}} y tiene **{{rating:MLA29252850}} estrellas en {{reviews:MLA29252850}} opiniones**. Es la única lámpara funcional que no necesita foco aparte (la [Global RGB](/producto/luz-lampara-rgb-esquinero-de-pie-de-140cm-de-alto-control-rgb-negro-mla69432393) también trae LED integrado, pero es decorativa de 5 W), y la única pensada para leer: el tramo final del brazo es flexible y apunta la luz a la página.` },
+      { type: "p", content: `El dimmer táctil con tres tonos deja bajarla cuando se usa de luz de compañía. Y el armado no es tema: varias reseñas hablan de dos minutos.` },
+      { type: "p", content: `Lo honesto: la intensidad es moderada, y lo dice la misma reseña que la recomienda. Sirve para leer, no para iluminar el living entero. Además, al ser LED integrado no podés cambiar el foco ni ponerle una lámpara inteligente, y cuando termine su vida útil no se reemplaza como una lamparita común.` },
+      { type: "pull-quote", content: `"Llegó rapidísimo y bien embalado. La armé en dos minutos. Tiene tres modos de luz. Ideal para lectura en un sillón. Buena altura y deja regular la última parte del brazo (es flexible)."`, attribution: `Comprador verificado en MercadoLibre, calificación 5/5` },
+
+      { type: "h3", title: `3. Lumina Curva — mejor si no hay lugar al lado del sillón` },
+      { type: "product-card", productMlaId: "MLAU3835629976", label: "Formato arco", labelColor: "purple", ranking: 3, description: `168 cm de alto con 60 cm de brazo curvo y estructura de hierro. La única de formato arco de esta comparativa.` },
+      { type: "p", content: `La [Lumina Curva](/producto/lampara-de-pie-curva-de-hierro-led-e27-minimalista-moderna-natural-negro-mlau3835629976) resuelve un problema que las otras no pueden, a alrededor de {{precio:MLAU3835629976:k}}, con **{{rating:MLAU3835629976}} estrellas en {{reviews:MLAU3835629976}} opiniones**. Una lámpara común tiene que apoyarse al lado del sillón; si ahí no hay lugar, no hay lámpara. El arco deja poner la base detrás o al costado y llevar la luz por encima.` },
+      { type: "p", content: `Para eso hace falta contrapeso, y por eso la estructura es de hierro. Con 168 cm es la más alta del grupo.` },
+      { type: "p", content: `Lo honesto: es la más cara de esta comparativa por bastante, y encima hay que sumarle el foco. Y con 60 cm de brazo necesita espacio libre alrededor, así que no es para un rincón apretado.` },
+      { type: "pull-quote", content: `"Preciosa! calidad 10/10, súper conforme con la compra, yo le puse una lámpara inteligente así puedo ir cambiando de colores. Súper recomiendo."`, attribution: `Compradora verificada en MercadoLibre, calificación 5/5` },
+
+      { type: "h3", title: `4. Envases Devoto Mimbre — la decorativa` },
+      { type: "product-card", productMlaId: "MLA53437609", label: "Diseño y sombras", labelColor: "amber", ranking: 4, description: `120 cm con pantalla calada que proyecta sombras en la pared. La más baja de esta comparativa y también la más frágil.` },
+      { type: "p", content: `La [Envases Devoto](/producto/lampara-de-pie-envases-devoto-mimbre-120cm-rollo-e27-estructura-negro-pantalla-r-mla53437609) sale alrededor de {{precio:MLA53437609:k}}. Lo que la distingue no es la luz sino la sombra: la pantalla calada proyecta un patrón en la pared, y ese efecto es lo que compran quienes la eligen. Con 120 cm es la más baja del grupo.` },
+      { type: "p", content: `Lo honesto: es la peor calificada de esta comparativa, y hay una reseña que explica por qué con una franqueza que agradecemos. Vale la pena leerla entera antes de decidir, porque describe exactamente qué compra estás haciendo.` },
+      { type: "pull-quote", content: `"A ver, voy a ser sincero. En cuestión de materiales la lámpara es una basofia. Es como madera balsa, la tenés que tratar con mucho cuidado para no romper nada xq se quiebra de mirarla solamente. Ahora una vez colocada en su lugar, sin tocarla más, queda muy linda y vistosa eso es real. Por eso mis 4 estrellas."`, attribution: `Comprador verificado en MercadoLibre, calificación 4/5` },
+      { type: "p", content: `Un dato para no confundirse: el título la vende como "Mimbre", pero la ficha técnica declara pantalla de plástico y base de MDF. El diseño imita mimbre; el material es otro.` },
+
+      { type: "h3", title: `5. Global RGB Esquinero — luz de color` },
+      { type: "product-card", productMlaId: "MLA69432393", label: "Luz de color", labelColor: "slate", ranking: 5, description: `Barra RGBIC de 140 cm con control remoto, modular en 3 secciones. Es luz de color para setup o TV, no iluminación.` },
+      { type: "p", content: `La [Global RGB](/producto/luz-lampara-rgb-esquinero-de-pie-de-140cm-de-alto-control-rgb-negro-mla69432393) no compite con el resto de esta guía y conviene decirlo de entrada: es luz de color, no luz para iluminar. Sale alrededor de {{precio:MLA69432393:k}}, la más barata del grupo. La tecnología RGBIC muestra varios colores a la vez y se maneja con control remoto.` },
+      { type: "p", content: `El diseño modular en tres secciones está pensado para armarla en ángulo y apoyarla en un rincón: detrás del televisor, al costado del escritorio, o como ambiente de color en un cuarto.` },
+      { type: "p", content: `Lo honesto, y es lo que define la compra: **son 5 W**. No ilumina una habitación ni sirve para leer. Y con apenas {{reviews:MLA69432393}} opiniones, su promedio tiene muy poco respaldo comparado con las más de mil de la trípode.` },
+
+      { type: "h2", title: `Tabla comparativa: tipo de luz, altura y si trae foco`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Altura`, `Tipo de luz`, `¿Trae foco?`, `Ideal para`], rows: [
+        [`[PATH Trípode Nórdica](/producto/lampara-de-pie-tripode-de-madera-nordico-beige-mlau3726389505)`, `{{precio:MLAU3726389505}}`, `150 cm`, `Ambiente difusa`, `No, E27`, `La más elegida`],
+        [`[TBCin LDP10](/producto/lampara-de-pie-led-10w-touch-dimer-brazo-flexible-ldp10-blanco-dimerizable-mla29252850)`, `{{precio:MLA29252850}}`, `152 cm`, `Dirigida, con dimmer`, `**Sí**, LED integrado`, `Leer en el sillón`],
+        [`[Lumina Curva](/producto/lampara-de-pie-curva-de-hierro-led-e27-minimalista-moderna-natural-negro-mlau3835629976)`, `{{precio:MLAU3835629976}}`, `168 cm`, `Cenital, desde arriba`, `No, E27`, `Sin lugar al lado`],
+        [`[Envases Devoto](/producto/lampara-de-pie-envases-devoto-mimbre-120cm-rollo-e27-estructura-negro-pantalla-r-mla53437609)`, `{{precio:MLA53437609}}`, `120 cm`, `Decorativa, con sombras`, `No, E27`, `Efecto en la pared`],
+        [`[Global RGB](/producto/luz-lampara-rgb-esquinero-de-pie-de-140cm-de-alto-control-rgb-negro-mla69432393)`, `{{precio:MLA69432393}}`, `140 cm`, `Color, 5 W`, `LED integrado`, `Setup y TV`],
+      ] },
+      { type: "p", content: `La columna del foco es la que más cambia el precio real: en las tres de zócalo E27 hay que sumar la lamparita, que no viene incluida. En la Global RGB el LED es parte del producto, aunque su ficha de MercadoLibre diga lo contrario.` },
+
+      { type: "h2", title: `Cómo elegir tu lámpara de pie`, id: "como-elegir" },
+      { type: "h3", title: `1. Según para qué la vas a usar` },
+      { type: "p", content: `Para acompañar el sillón con luz cálida, la [PATH Trípode](/producto/lampara-de-pie-tripode-de-madera-nordico-beige-mlau3726389505). Para leer, la [TBCin](/producto/lampara-de-pie-led-10w-touch-dimer-brazo-flexible-ldp10-blanco-dimerizable-mla29252850). Para decorar, la [Envases Devoto](/producto/lampara-de-pie-envases-devoto-mimbre-120cm-rollo-e27-estructura-negro-pantalla-r-mla53437609). Para color, la [Global RGB](/producto/luz-lampara-rgb-esquinero-de-pie-de-140cm-de-alto-control-rgb-negro-mla69432393). Son cuatro usos distintos, no cuatro versiones del mismo producto.` },
+      { type: "h3", title: `2. Según dónde la puedas apoyar` },
+      { type: "p", content: `Si hay lugar al costado del sillón, cualquiera sirve. Si no lo hay, la [Lumina Curva](/producto/lampara-de-pie-curva-de-hierro-led-e27-minimalista-moderna-natural-negro-mlau3835629976) es la única de esta guía que resuelve eso, apoyando la base a un lado y pasando la luz por encima.` },
+      { type: "h3", title: `3. Según si querés elegir el foco o que llegue lista` },
+      { type: "p", content: `Si preferís no comprar nada más, la [TBCin](/producto/lampara-de-pie-led-10w-touch-dimer-brazo-flexible-ldp10-blanco-dimerizable-mla29252850) trae LED integrado con dimmer. Si te interesa poner una lámpara inteligente y manejar color e intensidad desde el celular, necesitás una de zócalo E27: son las otras tres de esta guía, y varias compradoras cuentan que hacen exactamente eso.` },
+
+      { type: "h2", title: `Cuánto cuesta una lámpara de pie [2026]`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de {{precio:MLA69432393:k}}:** la esquinera de color, la [Global RGB](/producto/luz-lampara-rgb-esquinero-de-pie-de-140cm-de-alto-control-rgb-negro-mla69432393).`,
+        `**Alrededor de {{precio:MLA53437609:k}}:** la decorativa de sombras, la [Envases Devoto](/producto/lampara-de-pie-envases-devoto-mimbre-120cm-rollo-e27-estructura-negro-pantalla-r-mla53437609).`,
+        `**Alrededor de {{precio:MLA29252850:k}}:** la de lectura con LED y dimmer, la [TBCin LDP10](/producto/lampara-de-pie-led-10w-touch-dimer-brazo-flexible-ldp10-blanco-dimerizable-mla29252850).`,
+        `**Alrededor de {{precio:MLAU3726389505:k}}:** la más elegida, la [PATH Trípode Nórdica](/producto/lampara-de-pie-tripode-de-madera-nordico-beige-mlau3726389505).`,
+        `**Alrededor de {{precio:MLAU3835629976:k}}:** la de formato arco, la [Lumina Curva](/producto/lampara-de-pie-curva-de-hierro-led-e27-minimalista-moderna-natural-negro-mlau3835629976).`,
+      ] },
+      { type: "p", content: `A tres de estos precios hay que sumarles el foco, porque vienen con el zócalo E27 vacío. Es un costo chico comparado con la lámpara, pero conviene tenerlo en cuenta para no quedarte con una lámpara nueva que no podés encender el mismo día.` },
+
+      { type: "h2", title: `Veredicto: cuál lámpara de pie comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la **mayoría**, la **[PATH Trípode Nórdica](/producto/lampara-de-pie-tripode-de-madera-nordico-beige-mlau3726389505)**: es la más elegida de la categoría, da la luz de ambiente que se busca al lado de un sillón y tiene el mayor respaldo de opiniones. Si el uso real es **leer**, la **[TBCin LDP10](/producto/lampara-de-pie-led-10w-touch-dimer-brazo-flexible-ldp10-blanco-dimerizable-mla29252850)**: brazo flexible, dimmer y llega lista, asumiendo que su intensidad alcanza para la página y no para el ambiente. Si **no tenés dónde apoyarla al lado del sillón**, la **[Lumina Curva](/producto/lampara-de-pie-curva-de-hierro-led-e27-minimalista-moderna-natural-negro-mlau3835629976)** es la única que resuelve eso. Si buscás **efecto decorativo**, la **[Envases Devoto](/producto/lampara-de-pie-envases-devoto-mimbre-120cm-rollo-e27-estructura-negro-pantalla-r-mla53437609)**, sabiendo que es delicada. Y para **color en un setup**, la **[Global RGB](/producto/luz-lampara-rgb-esquinero-de-pie-de-140cm-de-alto-control-rgb-negro-mla69432393)**, que con 5 W no ilumina y no pretende hacerlo. El consejo que vale más que el ranking: **fijate si trae la lamparita antes de comparar precios**, porque tres de estas cinco vienen con el zócalo vacío.` },
+
+      { type: "h2", title: `Preguntas frecuentes`, id: "faq" },
+    ],
+    faq: [
+      { question: `¿Las lámparas de pie vienen con la lamparita?`, answer: `Muchas no. De las cinco de esta comparativa, tres traen el zócalo E27 vacío y hay que comprar el foco aparte. Las otras dos tienen LED integrado: la [TBCin LDP10](/producto/lampara-de-pie-led-10w-touch-dimer-brazo-flexible-ldp10-blanco-dimerizable-mla29252850), que es la única que llega lista y funciona como lámpara de verdad, y la [Global RGB](/producto/luz-lampara-rgb-esquinero-de-pie-de-140cm-de-alto-control-rgb-negro-mla69432393), que también llega lista pero es decorativa de 5 W. El dato está declarado en la ficha de cada publicación, pero casi nadie lo mira antes de comparar precios.` },
+      { question: `¿Conviene una con LED integrado o una de zócalo E27?`, answer: `Depende de qué priorices. El LED integrado llega listo y trae dimmer de fábrica, pero no se puede cambiar el foco ni ponerle una lámpara inteligente, y cuando termina su vida útil no se reemplaza. El zócalo E27 obliga a comprar el foco, pero te deja elegirlo: varias compradoras de esta comparativa le ponen lámparas inteligentes y manejan color e intensidad desde el celular.` },
+      { question: `¿Cuál es la mejor lámpara de pie para leer?`, answer: `La [TBCin LDP10](/producto/lampara-de-pie-led-10w-touch-dimer-brazo-flexible-ldp10-blanco-dimerizable-mla29252850) de esta comparativa, porque el tramo final del brazo es flexible y dirige la luz a la página en vez de difundirla. Las de pantalla de tela, como la trípode, dan luz de ambiente y quedan cortas para leer.` },
+      { question: `¿Qué altura tiene que tener una lámpara de pie?`, answer: `Entre 140 y 170 cm es el rango habitual para acompañar un sillón. En esta comparativa van de 120 cm la más baja a 168 la más alta. Como referencia práctica, para lectura conviene que la pantalla quede apenas por encima del hombro de quien lee.` },
+      { question: `¿Qué es una lámpara de pie de arco?`, answer: `Es la que tiene un brazo curvo que se extiende desde la base, en este caso 60 cm. Sirve cuando no hay lugar para apoyar una lámpara al costado del sillón: se pone la base detrás o a un lado y la luz cae desde arriba. La [Lumina Curva](/producto/lampara-de-pie-curva-de-hierro-led-e27-minimalista-moderna-natural-negro-mlau3835629976) es la única de ese formato en esta guía.` },
+      { question: `¿Una lámpara RGB sirve para iluminar un ambiente?`, answer: `No. La [Global RGB](/producto/luz-lampara-rgb-esquinero-de-pie-de-140cm-de-alto-control-rgb-negro-mla69432393) de esta comparativa tiene 5 W: es luz de color para setup gamer, backlight de televisor o ambiente en un cuarto. Para iluminación real conviene cualquiera de las otras cuatro.` },
+      { question: `¿Por qué la ficha de MercadoLibre dice que la RGB no incluye lámpara?`, answer: `Porque es un campo que no aplica a ese producto. La descripción del vendedor confirma LED RGBIC integrado de 5 W y no menciona zócalo ni rosca en ningún lado: no hay dónde enroscar un foco. Ese "No" hace pensar que falta comprar algo, y no falta nada.` },
+    ],
+    internalLinks: [
+      { label: `Mesa ratona: cuál comprar en Argentina`, href: `/guias/hogar-jardin/mesa-ratona` },
       { label: `Zapatero: cuál comprar en Argentina`, href: `/guias/hogar-jardin/zapatero` },
       { label: `Conservadora: cuál comprar en Argentina`, href: `/guias/hogar-jardin/conservadora` },
       { label: `Ver toda la categoría Hogar y Jardín`, href: `/categoria/hogar-jardin` },
@@ -25277,6 +25414,11 @@ export function getDisplaySilo(g: Pick<Guide, "silo" | "category">): string {
 }
 
 export const guideCategories: Record<string, { name: string; description: string }> = {
+  "lamparas-de-pie": {
+    name: "Guía de Lámparas de Pie",
+    description:
+      "Trípode, arco, lectura o RGB: qué tipo de luz da cada una, qué altura conviene y cuáles traen la lamparita incluida.",
+  },
   "mesas-ratonas": {
     name: "Guía de Mesas Ratonas",
     description:

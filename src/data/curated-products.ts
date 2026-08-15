@@ -70960,6 +70960,410 @@ Comprala si querés una mesa de living de verdad y el presupuesto lo permite, y 
       { question: "¿Se puede mover fácil?", answer: "No como las otras de esta comparativa. Pesa 18 kg contra los 3 a 5 kg del resto, así que una vez ubicada moverla es tarea de dos personas." },
     ],
   },
+  // ── Guía nueva lámpara de pie — silo hogar-jardin ────────────────────────
+  // Sourcing por /mas-vendidos/MLA1585 el 2026-08-15. El eje de la categoría es
+  // si trae o no la lamparita: 3 de 5 usan zócalo E27 vacío; TBCin y Global RGB
+  // traen LED integrado, pero la RGB es decorativa de 5 W, no lámpara de uso.
+  // Ver docs/sourcing-lampara-de-pie-2026-08-15.md
+  {
+    id: "MLAU3726389505",
+    title: "Lampara De Pie Tripode De Madera Nórdico Beige",
+    canonicalName: "PATH Trípode Nórdico",
+    price: 65890,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_609930-MLA94268391953_102025-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_609930-MLA94268391953_102025-O.webp"],
+    category: "Hogar y Jardín",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/lampara-de-pie-tripode-de-madera-nordico/up/MLAU3726389505",
+    affiliateUrl: "https://meli.la/2kjBWG5",
+    condition: "new", freeShipping: true,
+    rating: 4.7, reviewCount: 1159,
+    pastelColor: "var(--pastel-green)", visibility: "normal",
+    specs: [
+      { label: "Marca", value: "PATH Muebles" },
+      { label: "Modelo", value: "PHLAMP15" },
+      { label: "Altura", value: "150 cm" },
+      { label: "Diseño", value: "Trípode nórdico" },
+      { label: "Material de las patas", value: "Madera" },
+      { label: "Material de la pantalla", value: "Tela de lienzo" },
+      { label: "Color de la pantalla", value: "Beige" },
+      { label: "Zócalo", value: "E27" },
+      { label: "Incluye lámpara", value: "No" },
+    ],
+    relatedProducts: ["MLAU3835629976", "MLA29252850", "MLA53437609", "MLA69432393"],
+    priceUpdated: "2026-08-15", priceLastChecked: "2026-08-15", priceVerifiedAt: "2026-08-15",
+    priceStatus: "fresh", reviewsSampledAt: "2026-08-15",
+    description: "La lámpara de pie más elegida de MercadoLibre Argentina: trípode de madera con pantalla de tela, 150 cm, y más de mil opiniones reales.",
+    seoTitle: "PATH Trípode Nórdico: la lámpara de pie más elegida",
+    metaDescription: "Lámpara de pie trípode de madera nórdica: 150 cm, pantalla de lienzo y la mayor base de opiniones. Qué dicen del cable antes de comprarla.",
+    verdict: "Es la lámpara de pie más vendida de la categoría y la que más opiniones acumula de esta comparativa, por lejos. Trípode de madera con pantalla de tela de lienzo, 150 cm de alto: es la forma que la mayoría tiene en la cabeza cuando busca una lámpara de pie. Da luz ambiente cálida, no luz de trabajo. La contra que más se repite no es de calidad sino de terminación: el cable queda colgando de forma poco prolija, y hay que sumarle el foco porque viene con el zócalo E27 vacío.",
+    pros: [
+      "La mayor base de opiniones de esta comparativa, con más de mil calificaciones reales",
+      "Trípode de madera con pantalla de tela: la estética nórdica que entra en cualquier living",
+      "150 cm de alto, la altura estándar para poner al lado de un sillón",
+      "Zócalo E27 libre: podés elegir el foco, incluso uno inteligente o regulable",
+    ],
+    cons: [
+      "El cable queda colgando de forma poco prolija, señalado en reseñas reales",
+      "No incluye la lámpara: hay que sumar el foco al costo de la compra",
+      "Da luz ambiente, no luz dirigida: para leer conviene un modelo de brazo flexible",
+      "Al menos una compradora le pasó lija y barniz para mejorar la terminación de la madera",
+    ],
+    customerReviews: [
+      { rating: 4, country: "Argentina", text: "La lámpara es tal como en la foto. Vino en perfectas condiciones, estoy súper conforme! lo único que no me convence es la manera en la que cuelga el cable.", date: "2026" },
+      { rating: 5, country: "Argentina", text: "Preciosa la lámpara! una lijada y barniz tonalizador que empieza con \"c\" y quedó espectacular! Es un detalle que te cambia todo un ambiente. Es una gran compra de esas que te hacen sentir feliz.", date: "2026" },
+      { rating: 5, country: "Argentina", text: "Super linda la lampara!", date: "2026" },
+    ],
+    articleBody: `## Qué es y para quién
+
+La PATH Trípode Nórdico es una lámpara de pie de 150 cm con patas de madera en trípode y pantalla de tela de lienzo beige. Usa zócalo E27 y no incluye el foco.
+
+## Lo bueno
+
+Es la forma que la gente tiene en la cabeza cuando busca "lámpara de pie", y eso se refleja en los números: más de mil opiniones y 500 unidades vendidas, la mayor base de esta comparativa por amplio margen. Cuando un producto acumula ese volumen, el promedio dice bastante más que en uno con veinte.
+
+La pantalla de tela difunde la luz hacia los costados, que es lo que se busca para ambiente: acompaña al sillón sin encandilar.
+
+Y el zócalo E27 libre, que suena a contra, tiene su lado bueno: elegís vos el foco. Varios compradores de lámparas de este tipo le ponen una lámpara inteligente y manejan color e intensidad desde el celular, algo que un modelo con LED integrado no permite.
+
+## La contra real
+
+El cable. Es la queja más repetida y es de terminación, no de funcionamiento: "lo único que no me convence es la manera en la que cuelga el cable". No rompe nada, pero se ve.
+
+La otra es de expectativa: da luz ambiente, no luz de lectura. Si querés leer en el sillón, un modelo de brazo flexible ilumina mejor la página.
+
+Y hay que sumar el foco al presupuesto, porque viene con el portalámparas vacío.
+
+## Para quién sí y para quién no
+
+Comprala si querés la lámpara de pie clásica, luz cálida de ambiente, y te gusta poder elegir el foco. No la compres si buscás luz para leer, o si querés algo que llegue listo para enchufar sin comprar nada más.`,
+    faq: [
+      { question: "¿La lámpara de pie trípode incluye la lamparita?", answer: "No. Viene con zócalo E27 vacío y hay que sumar el foco aparte. El lado bueno es que elegís vos: podés ponerle una lámpara regulable o inteligente." },
+      { question: "¿Qué altura tiene?", answer: "150 cm, la altura estándar para ubicar al lado de un sillón." },
+      { question: "¿Sirve para leer?", answer: "No es la mejor para eso. La pantalla de tela difunde la luz hacia los costados, así que da ambiente más que luz dirigida. Para lectura conviene un modelo de brazo flexible." },
+      { question: "¿Cuál es su punto flojo?", answer: "El cable queda colgando de forma poco prolija, y es lo que más señalan las reseñas. No afecta el funcionamiento, pero se ve." },
+    ],
+  },
+  {
+    id: "MLAU3835629976",
+    title: "Lámpara De Pie Curva De Hierro Led E27 Minimalista Moderna Natural Negro",
+    canonicalName: "Lumina Curva de Hierro",
+    price: 139900,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_913330-MLA114203862572_082026-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_913330-MLA114203862572_082026-O.webp"],
+    category: "Hogar y Jardín",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/lampara-de-pie-curva-de-hierro--led-e27-minimalista-moderna/up/MLAU3835629976",
+    affiliateUrl: "https://meli.la/1nM4Bux",
+    condition: "new", freeShipping: true,
+    rating: 4.9, reviewCount: 108,
+    pastelColor: "var(--pastel-purple)", visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Lumina" },
+      { label: "Diseño", value: "Arco curvo industrial" },
+      { label: "Altura", value: "168 cm" },
+      { label: "Alcance del brazo", value: "60 cm" },
+      { label: "Material de la base", value: "Hierro" },
+      { label: "Color de la estructura", value: "Negro" },
+      { label: "Zócalo", value: "E27" },
+      { label: "Incluye lámpara", value: "No" },
+    ],
+    relatedProducts: ["MLAU3726389505", "MLA29252850", "MLA53437609", "MLA69432393"],
+    priceUpdated: "2026-08-15", priceLastChecked: "2026-08-15", priceVerifiedAt: "2026-08-15",
+    priceStatus: "fresh", reviewsSampledAt: "2026-08-15",
+    description: "La única de formato arco de esta comparativa: 60 cm de brazo para llevar la luz por encima del sillón sin apoyar la base al lado.",
+    seoTitle: "Lumina Curva de Hierro: el arco sobre el sillón",
+    metaDescription: "Lámpara de pie curva de hierro, 168 cm y 60 cm de brazo: la mejor calificada de la comparativa. Precio real y contras antes de comprar.",
+    verdict: "Es la única de formato arco de esta comparativa y resuelve un problema concreto: llevar la luz por encima del sillón sin tener que apoyar la base justo al lado. Los 60 cm de brazo hacen eso posible. Es la mejor calificada del grupo junto con la TBCin, con estructura de hierro que le da el peso necesario para no volcarse con el brazo extendido. La contra es el precio: es, por bastante, la más cara de esta comparativa, y encima hay que sumarle el foco.",
+    pros: [
+      "La única de formato arco de esta comparativa: 60 cm de brazo para pasar por encima del sillón",
+      "De las mejor calificadas del grupo, con 108 opiniones que respaldan la nota",
+      "Estructura de hierro: el peso necesario para que el brazo extendido no la desestabilice",
+      "168 cm de alto, la más alta de esta comparativa",
+      "Zócalo E27: elegís el foco, y varias reseñas cuentan que le ponen lámparas inteligentes o regulables",
+    ],
+    cons: [
+      "Es, por bastante, la más cara de esta comparativa",
+      "No incluye la lámpara: hay que sumar el foco al costo",
+      "Con 60 cm de brazo necesita espacio libre alrededor: no es para un rincón apretado",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", text: "Estoy sumamente satisfecha, tal cual a publicación, es hermosa. La compre para mi living, le puse una lampara led con la cual ajusto la intensidad de la luz.", date: "2026" },
+      { rating: 5, country: "Argentina", text: "Preciosa! calidad 10/10, súper conforme con la compra, yo le puse una lámpara inteligente así puedo ir cambiando de colores. Súper recomiendo.", date: "2026" },
+      { rating: 5, country: "Argentina", text: "Hermosa!", date: "2026" },
+    ],
+    articleBody: `## Qué es y para quién
+
+La Lumina Curva es una lámpara de pie de arco: 168 cm de alto con un brazo curvo que se extiende 60 cm, estructura de hierro negro y zócalo E27. No incluye el foco.
+
+## Lo bueno
+
+Resuelve algo que las otras no pueden. Una lámpara de pie común tiene que apoyarse al lado del sillón, y si no hay lugar ahí, no hay lámpara. El arco te deja poner la base detrás o al costado y llevar la luz por encima, justo sobre donde te sentás.
+
+Para que eso funcione hace falta peso en la base, y por eso la estructura es de hierro. Es también la más alta del grupo con 168 cm.
+
+Las reseñas la califican muy alto y cuentan cómo la usan: "le puse una lámpara led con la cual ajusto la intensidad de la luz", "le puse una lámpara inteligente así puedo ir cambiando de colores". Ahí se ve el lado bueno del zócalo E27 libre: la lámpara la elegís vos.
+
+## La contra real
+
+El precio. Es la más cara de esta comparativa por un margen amplio, y encima hay que sumarle el foco. Lo que pagás es el formato arco y el hierro, no una prestación extra.
+
+Y necesita espacio: con 60 cm de brazo no entra en un rincón apretado. Hay que pensar dónde va la base y dónde termina la luz antes de comprarla.
+
+## Para quién sí y para quién no
+
+Comprala si no tenés lugar para apoyar una lámpara al lado del sillón, si querés que la luz caiga desde arriba, o si te gusta el formato arco como pieza de diseño. No la compres si el presupuesto manda, o si el living es chico y el brazo va a quedar estorbando el paso.`,
+    faq: [
+      { question: "¿Cuánto se extiende el brazo de la lámpara curva?", answer: "60 cm, medidos desde la base. Eso es lo que permite pasar la luz por encima del sillón sin apoyar la base al lado." },
+      { question: "¿Se cae con el brazo extendido?", answer: "No según las reseñas. La estructura es de hierro justamente para dar el contrapeso necesario. Ninguna opinión reporta problemas de estabilidad." },
+      { question: "¿Incluye la lamparita?", answer: "No, usa zócalo E27 y hay que sumar el foco. Varias compradoras aprovechan eso para ponerle lámparas inteligentes y manejar color e intensidad desde el celular." },
+      { question: "¿Cuánto espacio necesita?", answer: "Hay que contar los 60 cm del brazo además del lugar de la base. En un rincón apretado no entra cómoda." },
+    ],
+  },
+  {
+    id: "MLA29252850",
+    title: "Lampara De Pie Led 10w Touch Dimer Brazo Flexible Ldp10 Blanco Dimerizable",
+    canonicalName: "TBCin LDP10",
+    price: 59603,
+    originalPrice: 90000,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_924841-MLA111959831406_062026-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_924841-MLA111959831406_062026-O.webp"],
+    category: "Hogar y Jardín",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/lampara-de-pie-led-10w-touch-dimer-brazo-flexible-ldp10-color-de-la-estructura-blanco-color-de-la-pantalla-dimerizable/p/MLA29252850",
+    affiliateUrl: "https://meli.la/26MHRx7",
+    condition: "new", freeShipping: true,
+    rating: 4.9, reviewCount: 56,
+    pastelColor: "var(--pastel-blue)", visibility: "normal",
+    specs: [
+      { label: "Marca", value: "TBCin" },
+      { label: "Modelo", value: "LDP10-CCT" },
+      { label: "Altura", value: "152 cm" },
+      { label: "Potencia", value: "10 W LED integrado" },
+      { label: "Control", value: "Dimmer táctil, 3 tonos de luz" },
+      { label: "Brazo", value: "Flexible en el tramo final" },
+      { label: "Material de la base", value: "Aluminio" },
+      { label: "Material de la pantalla", value: "Acero" },
+      { label: "Incluye lámpara", value: "Sí, LED integrado" },
+    ],
+    relatedProducts: ["MLAU3726389505", "MLAU3835629976", "MLA53437609", "MLA69432393"],
+    priceUpdated: "2026-08-15", priceLastChecked: "2026-08-15", priceVerifiedAt: "2026-08-15",
+    priceStatus: "fresh", reviewsSampledAt: "2026-08-15",
+    description: "Llega lista para enchufar: LED integrado de 10 W, dimmer táctil y brazo flexible para dirigir la luz.",
+    seoTitle: "TBCin LDP10: la lámpara de pie para leer",
+    metaDescription: "Lámpara de pie LED 10 W con dimmer táctil y brazo flexible: llega lista, sin comprar foco. Contras reales de intensidad antes de comprar.",
+    verdict: "Llega lista para enchufar, con LED integrado de 10 W, dimmer táctil y tres tonos de luz. La Global RGB también trae LED propio, pero con 5 W es decorativa: esta es la única de esta comparativa que llega lista y sirve como lámpara de uso. Y es la única pensada para leer: el tramo final del brazo es flexible, así que dirigís la luz al libro en vez de al ambiente. Es la mejor calificada del grupo junto con la Lumina. La contra viene de la misma reseña que la recomienda: la intensidad alcanza para leer pero no para iluminar un ambiente entero.",
+    pros: [
+      "Llega lista para enchufar: no hay que comprar foco aparte, y es la única lámpara funcional de esta comparativa que lo hace",
+      "Dimmer táctil con tres tonos de luz, algo que ninguna otra de esta comparativa ofrece de fábrica",
+      "Brazo flexible en el tramo final: dirigís la luz en vez de difundirla",
+      "De las mejor calificadas del grupo",
+      "Armado inmediato: varias reseñas hablan de dos minutos",
+    ],
+    cons: [
+      "La intensidad es moderada: sirve para leer, no para iluminar un ambiente entero",
+      "El LED es integrado, así que no podés cambiar el foco ni ponerle una lámpara inteligente",
+      "Es de las que menos opiniones acumula de esta comparativa",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", text: "El producto me encantó. No tiene muchísima intensidad pero la suficiente para leer. Y ni hablar que tiene un tono tenue de decoración que queda divino. Super recomendable!", date: "2026" },
+      { rating: 5, country: "Argentina", text: "Llegó rapidísimo y bien embalado. La armé en dos minutos. Muy buena calidad. Tiene tres modos de luz. Ideal para lectura en un sillón. Buena altura y deja regular la última parte del brazo (es flexible). Muy buena compra! la recomiendo.", date: "2026" },
+      { rating: 5, country: "Argentina", text: "Es elegante, facil de armar, no ocupa lugar, muy buen producto para recomendar, muchas gracias!!!", date: "2026" },
+    ],
+    articleBody: `## Qué es y para quién
+
+La TBCin LDP10 es una lámpara de pie de 152 cm con LED integrado de 10 W, dimmer táctil, tres tonos de luz y el tramo final del brazo flexible. Base de aluminio, pantalla de acero.
+
+## Lo bueno
+
+Es la única lámpara funcional de esta comparativa que llega lista. Tres de las otras cuatro vienen con el portalámparas E27 vacío y hay que sumar el foco; la Global RGB también trae LED integrado, pero con 5 W es decorativa, no una lámpara de uso.
+
+Y es la única pensada para leer. El brazo flexible en el tramo final deja apuntar la luz a la página en vez de repartirla por el ambiente, y el dimmer táctil con tres tonos permite bajarla cuando se usa de luz de compañía. Una compradora lo resume mejor que la ficha: "Ideal para lectura en un sillón. Buena altura y deja regular la última parte del brazo".
+
+El armado tampoco es tema: varias reseñas hablan de dos minutos.
+
+## La contra real
+
+La intensidad, y la dice la misma reseña que la recomienda: "No tiene muchísima intensidad pero la suficiente para leer". Si esperabas que ilumine todo el living, no es esta.
+
+La otra contra es la contracara de su ventaja. Al ser LED integrado, el foco no se cambia: no podés ponerle una lámpara inteligente ni regulable como hacen los compradores de las de zócalo E27. Lo que ganás en comodidad lo perdés en flexibilidad, y cuando el LED termine su vida útil no se reemplaza como un foco común.
+
+## Para quién sí y para quién no
+
+Comprala si el uso principal es leer en el sillón, si querés dimmer sin comprar nada extra, o si preferís que llegue lista. No la compres si buscás iluminar un ambiente entero, o si te importa poder elegir y cambiar el foco.`,
+    faq: [
+      { question: "¿La TBCin LDP10 necesita lamparita?", answer: "No, tiene LED integrado de 10 W: se enchufa y funciona, sin comprar foco aparte. Es la única lámpara de uso de esta comparativa que llega lista; la Global RGB también trae LED propio pero con 5 W es decorativa." },
+      { question: "¿Sirve para leer?", answer: "Es la mejor de esta comparativa para eso. El tramo final del brazo es flexible y dirige la luz a la página. Una reseña lo confirma: la intensidad alcanza justo para leer." },
+      { question: "¿Ilumina todo el ambiente?", answer: "No. Su propia compradora que la recomienda aclara que no tiene muchísima intensidad. Para luz general conviene una de pantalla difusora." },
+      { question: "¿Se puede cambiar el foco?", answer: "No, el LED es integrado. Esa es la contracara de que venga lista: no le podés poner una lámpara inteligente ni reemplazar el foco cuando termine su vida útil." },
+      { question: "¿Es difícil de armar?", answer: "No. Varias reseñas mencionan que se arma en dos minutos." },
+    ],
+  },
+  {
+    id: "MLA53437609",
+    title: "Lámpara De Pie Envases Devoto Mimbre 120cm Rollo E27 Estructura Negro Pantalla Rojo",
+    canonicalName: "Envases Devoto Mimbre 120 cm",
+    price: 54284,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_722541-MLA103372325944_012026-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_722541-MLA103372325944_012026-O.webp"],
+    category: "Hogar y Jardín",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/lampara-de-pie-envases-devoto-mimbre-120cm-rollo-e27-estructura-negro-pantalla-rojo/p/MLA53437609",
+    affiliateUrl: "https://meli.la/29XQgaZ",
+    condition: "new", freeShipping: true,
+    rating: 4.4, reviewCount: 155,
+    pastelColor: "var(--pastel-amber)", visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Envases Devoto" },
+      { label: "Altura", value: "120 cm" },
+      { label: "Ancho", value: "24 cm" },
+      { label: "Diseño", value: "Imitación mimbre" },
+      { label: "Material de la pantalla", value: "Plástico, según la ficha técnica de MercadoLibre" },
+      { label: "Material de la base", value: "MDF" },
+      { label: "Zócalo", value: "E27" },
+      { label: "Incluye lámpara", value: "No" },
+    ],
+    relatedProducts: ["MLAU3726389505", "MLAU3835629976", "MLA29252850", "MLA69432393"],
+    priceUpdated: "2026-08-15", priceLastChecked: "2026-08-15", priceVerifiedAt: "2026-08-15",
+    priceStatus: "fresh", reviewsSampledAt: "2026-08-15",
+    description: "La más baja de esta comparativa, con pantalla de diseño que proyecta sombras. Sus propias reseñas advierten que el material es frágil.",
+    seoTitle: "Envases Devoto Mimbre: diseño con una contra real",
+    metaDescription: "Lámpara de pie de 120 cm con pantalla estilo mimbre: linda una vez ubicada, pero sus reseñas advierten que el material es muy frágil.",
+    verdict: "Es la más baja de esta comparativa con 120 cm y la que apuesta más al diseño: la pantalla calada proyecta sombras en la pared, que es su verdadero atractivo. También es la peor calificada del grupo, y la razón está en una reseña que conviene leer antes de comprar: el material es muy frágil y hay que manipularla con cuidado. El mismo comprador que la describe así le puso 4 estrellas y aclara que, una vez ubicada y sin tocarla, queda muy linda. Esa es exactamente la compra que estás haciendo.",
+    pros: [
+      "La pantalla calada proyecta sombras en la pared: es su diferencial real frente a las pantallas lisas",
+      "120 cm: la más baja de esta comparativa, entra donde otras quedan altas",
+      "Buen respaldo de opiniones para su precio, con 155 calificaciones",
+      "Zócalo E27 libre: elegís el foco",
+    ],
+    cons: [
+      "El material es frágil: una reseña real lo compara con madera balsa y avisa que se quiebra con facilidad",
+      "Es la peor calificada de esta comparativa",
+      "El título dice \"Mimbre\" pero la ficha técnica declara pantalla de plástico y base de MDF",
+      "No incluye la lámpara: hay que sumar el foco",
+    ],
+    customerReviews: [
+      { rating: 4, country: "Argentina", text: "A ver, voy a ser sincero. En cuestión de materiales la lámpara es una basofia. Es como madera balsa, la tenés que tratar con mucho cuidado para no romper nada xq se quiebra de mirarla solamente. Ahora una vez colocada en su lugar, sin tocarla más, queda muy linda y vistosa eso es real. Por eso mis 4 estrellas.", date: "2026" },
+      { rating: 5, country: "Argentina", text: "Excelente, mejor de lo que me imagine, es hermosa, va en el piso pero la deje alta por ahora, ideal que quede en el suelo, bellísima, superó mis expectativas.", date: "2026" },
+      { rating: 5, country: "Argentina", text: "Excelente.", date: "2026" },
+    ],
+    articleBody: `## Qué es y para quién
+
+La Envases Devoto es una lámpara de pie de 120 cm con pantalla calada de diseño imitación mimbre y base de MDF. Usa zócalo E27 y no incluye el foco.
+
+## Lo bueno
+
+Lo que la distingue no es la luz, es la sombra. La pantalla calada proyecta un patrón en la pared cuando está encendida, y ese efecto es lo que compran quienes la eligen. Las otras de esta comparativa tienen pantallas lisas o directas.
+
+Con 120 cm es también la más baja del grupo, lo que la hace útil donde una de 150 o 168 cm queda desproporcionada.
+
+## La contra real
+
+El material, y hay una reseña que lo dice con una honestidad que agradecemos: "En cuestión de materiales la lámpara es una basofia. Es como madera balsa, la tenés que tratar con mucho cuidado para no romper nada xq se quiebra de mirarla solamente".
+
+Lo importante es cómo sigue: "Ahora una vez colocada en su lugar, sin tocarla más, queda muy linda y vistosa eso es real. Por eso mis 4 estrellas". Esa es la compra: un objeto decorativo lindo y delicado, no un mueble que aguante trajín.
+
+Un dato para no confundirse: el título la vende como "Mimbre", pero la ficha técnica de MercadoLibre declara pantalla de plástico y base de MDF. El diseño imita mimbre; el material es otro.
+
+## Para quién sí y para quién no
+
+Comprala si te interesa el efecto de sombras en la pared, si va a un lugar fijo donde nadie la va a golpear, y si asumís que es delicada. No la compres si hay chicos o mascotas dando vueltas, o si esperás un material sólido.`,
+    faq: [
+      { question: "¿La lámpara Envases Devoto es de mimbre?", answer: "El diseño imita mimbre, pero la ficha técnica de MercadoLibre declara pantalla de plástico y base de MDF. El título y la ficha no coinciden en eso." },
+      { question: "¿Es resistente?", answer: "No. Es la contra más señalada: una reseña real la compara con madera balsa y avisa que se quiebra con facilidad. El mismo comprador aclara que, ubicada y sin tocarla, queda muy linda." },
+      { question: "¿Qué la diferencia de las otras?", answer: "La pantalla calada proyecta sombras en la pared cuando está encendida. Ese efecto decorativo es su verdadero atractivo, no la cantidad de luz." },
+      { question: "¿Qué altura tiene?", answer: "120 cm, la más baja de esta comparativa. Sirve donde una de 150 o 168 cm quedaría desproporcionada." },
+      { question: "¿Incluye la lamparita?", answer: "No. Usa zócalo E27 y hay que sumar el foco aparte." },
+    ],
+  },
+  {
+    id: "MLA69432393",
+    title: "Luz Lampara Rgb Esquinero De Pie De 140cm De Alto Control Rgb Negro",
+    canonicalName: "Global RGB Esquinero 140 cm",
+    price: 49369,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_866092-MLA110554557378_052026-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_866092-MLA110554557378_052026-O.webp"],
+    category: "Hogar y Jardín",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/luz-lampara-rgb-esquinero-de-pie-de-140cm-de-alto-control-rgb-negro/p/MLA69432393",
+    affiliateUrl: "https://meli.la/1j72jpV",
+    condition: "new", freeShipping: true,
+    rating: 4.6, reviewCount: 9,
+    pastelColor: "var(--pastel-slate)", visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Global" },
+      { label: "Modelo", value: "AMBILIGHT-CRNRGB-140-IR" },
+      { label: "Altura", value: "140 cm" },
+      { label: "Tecnología", value: "RGBIC, colores múltiples simultáneos" },
+      { label: "Potencia", value: "5 W" },
+      { label: "Ángulo de iluminación", value: "160 grados" },
+      { label: "Control", value: "Remoto infrarrojo incluido" },
+      { label: "Diseño", value: "Modular en 3 secciones, montaje angular" },
+      { label: "Materiales", value: "Aluminio, policarbonato y ABS" },
+      { label: "Incluye lámpara", value: "LED integrado, no lleva foco" },
+    ],
+    relatedProducts: ["MLA29252850", "MLAU3726389505", "MLAU3835629976", "MLA53437609"],
+    priceUpdated: "2026-08-15", priceLastChecked: "2026-08-15", priceVerifiedAt: "2026-08-15",
+    priceStatus: "fresh", reviewsSampledAt: "2026-08-15",
+    description: "Lámpara esquinera RGB de 140 cm con LED integrado y control remoto. Es luz de ambiente y color, no luz para iluminar una habitación.",
+    seoTitle: "Global RGB Esquinero: luz de color para setup y TV",
+    metaDescription: "Lámpara de pie RGB esquinera de 140 cm con control remoto: para setup gamer y backlight de TV. Por qué sus 5 W no iluminan un ambiente.",
+    verdict: "No compite con el resto de esta comparativa: es luz de color, no luz para iluminar. Con tecnología RGBIC muestra varios colores a la vez, trae control remoto y se arma en tres secciones para apoyar en un rincón. El uso real es setup gamer, luz detrás del televisor o ambiente de color en un cuarto. Dos advertencias honestas: son 5 W, así que no esperes que ilumine nada, y con apenas 9 opiniones su promedio tiene muy poco respaldo estadístico.",
+    pros: [
+      "Tecnología RGBIC: muestra varios colores simultáneos, no un solo color por vez",
+      "Control remoto infrarrojo incluido para color, intensidad y efectos",
+      "Diseño modular en 3 secciones que permite el montaje angular en un rincón",
+      "La más barata de esta comparativa",
+      "LED integrado: llega lista, no lleva foco",
+    ],
+    cons: [
+      "5 W de potencia: es luz decorativa, no sirve para iluminar una habitación ni para leer",
+      "Solo 9 opiniones: el promedio tiene muy poco respaldo estadístico frente a las 1.159 de la trípode",
+      "La ficha técnica de MercadoLibre declara \"Incluye lámpara: No\", un campo que no aplica a este producto e induce a pensar que hay que comprar un foco",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", text: "El producto muy bueno, materiales excelentes. Y muy buena calidad. Recomendadisimo.", date: "2026" },
+      { rating: 5, country: "Argentina", text: "Me sirvió mucho lo use para luz roja en el cuarto de mi bebe.", date: "2026" },
+      { rating: 5, country: "Argentina", text: "Excelente producto.", date: "2026" },
+    ],
+    articleBody: `## Qué es y para quién
+
+La Global RGB Esquinero es una barra de luz de pie de 140 cm, modular en tres secciones, con LED RGBIC integrado de 5 W y control remoto infrarrojo. Cuerpo de aluminio, policarbonato y ABS.
+
+## Lo bueno
+
+Hace algo que ninguna otra de esta comparativa hace: color. La tecnología RGBIC permite varios colores simultáneos en la misma barra, con efectos y transiciones que se manejan por control remoto.
+
+El diseño modular en tres secciones está pensado para armarla en ángulo y apoyarla en un rincón, que es donde tiene sentido: detrás del televisor, al costado del escritorio, o como luz ambiente de color en un cuarto. Una compradora la usa como luz roja en la habitación de su bebé.
+
+Y es la más barata de esta comparativa.
+
+## La contra real
+
+**Son 5 W.** Ese número decide todo: no ilumina una habitación, no sirve para leer y no reemplaza a ninguna de las otras cuatro de esta guía. Es un objeto de ambiente y de color, y hay que comprarla sabiendo eso.
+
+La segunda contra es de evidencia: 9 opiniones. Contra las 1.159 de la trípode nórdica o las 155 de la Devoto, su 4.6 dice muy poco. No significa que sea mala, significa que casi no sabemos nada sobre ella.
+
+## Un dato de la publicación que confunde
+
+La ficha técnica de MercadoLibre declara "Incluye lámpara: No". Ese campo no aplica: la descripción del vendedor confirma LED RGBIC integrado de 5 W y en ningún lado menciona zócalo E27, rosca ni foco. No hay dónde enroscar una lamparita. Ese "No" hace pensar que falta comprar algo, y no falta nada.
+
+## Para quién sí y para quién no
+
+Comprala si querés luz de color para un setup, detrás del televisor o como ambiente en un cuarto. No la compres si esperás iluminación real: para eso están las otras cuatro de esta guía.`,
+    faq: [
+      { question: "¿La lámpara RGB ilumina una habitación?", answer: "No. Son 5 W: es luz decorativa y de color. Para iluminar de verdad conviene cualquiera de las otras cuatro de esta comparativa." },
+      { question: "¿Necesita lamparita?", answer: "No. Tiene LED RGBIC integrado. La ficha de MercadoLibre dice \"Incluye lámpara: No\", pero ese campo no aplica a este producto: no hay dónde enroscar un foco." },
+      { question: "¿Para qué sirve entonces?", answer: "Para setup gamer, luz detrás del televisor y ambiente de color en un cuarto. Una compradora la usa como luz roja en la habitación de su bebé." },
+      { question: "¿Qué tan confiable es su calificación?", answer: "Poco, y conviene saberlo: tiene apenas 9 opiniones. Contra las más de mil de la trípode nórdica, su promedio no dice demasiado." },
+      { question: "¿Qué es RGBIC?", answer: "Es la tecnología que permite mostrar varios colores a la vez en la misma barra, en vez de un solo color uniforme. Se maneja con el control remoto incluido." },
+    ],
+  },
 ];
 
 export const categoryPastels: Record<string, string> = {
