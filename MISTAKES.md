@@ -316,3 +316,48 @@ repetida. Obligar a poner un número obligó a los dos auditores a buscar el mot
 ("N de M", "la única", "las demás", "el resto"), contar producto por producto contra la tabla de
 datos, no de memoria. Y al corregirlo, grepear TODAS las formas del claim antes de darlo por
 cerrado: en esta guía había 11 apariciones en 2 archivos.
+
+## 2026-08-15 — Arreglar un subconjunto y declarar la tarea cerrada (estantería flotante, 14 rondas)
+
+**Qué pasó.** La guía de estantería flotante necesitó **catorce pasadas** del auditor para llegar a 10/10.
+Casi ningún hallazgo fue un dato mal sourceado: fueron claims míos que se propagaron a varios lugares y que
+corregí de a pedazos.
+
+**El patrón, siempre el mismo:**
+
+1. El auditor señala un claim falso en un lugar.
+2. Lo corrijo ahí, hago un grep, veo cero residuos, declaro cerrado.
+3. El auditor lo encuentra vivo en otro campo del mismo objeto.
+
+Pasó cuatro veces con cuatro familias distintas:
+
+| Familia | Dónde sobrevivió después de "arreglarlo" |
+| :-- | :-- |
+| Recuento de carga declarada | intro, tabla, FAQ y callout, en tres rondas distintas |
+| Superlativos de precio | `cons` arreglado, `verdict` no; celda de tabla; `seoTitle` acotado y `verdict` no |
+| Identidad de producto | guía arreglada, `seoTitle` y FAQ de la ficha no |
+| Tarugo "igual al de un estante largo" | seis lugares, y un séptimo apareció después |
+
+**Las tres causas reales:**
+
+- **Grep que muestra solo el primer match de la línea.** Un `verdict` largo contenía la versión correcta al
+  principio y la incorrecta más adelante. Mi barrido lo daba por limpio. Hay que iterar TODOS los matches por
+  línea, no usar `grep -n` y leer el fragmento que imprime.
+- **Grep sin acotar al bloque nuevo.** `grep -c` sobre el archivo entero devolvía decenas de coincidencias de
+  otras guías y enmascaraba si las mías estaban bien o mal.
+- **Parchar sin releer el objeto entero.** Al reemplazar un pro falso del Exahome kit escribí otro que decía
+  "los mismos 20 cm que el kit más caro, sin pagar esa diferencia" cuando ese kit **es** el más caro, y quedó
+  contradiciendo su propio `cons`. Un arreglo puede introducir un error nuevo.
+
+**Regla operativa.** Cuando un auditor marca un claim de conteo, exclusividad, precio o identidad:
+
+1. No corregir el lugar señalado. Primero **listar todas las apariciones de esa familia** en el bloque nuevo
+   de los dos archivos, iterando cada match de cada línea, no el primero.
+2. Evaluar cada aparición contra la tabla de datos, producto por producto, y anotar contra qué está acotada.
+3. Corregirlas todas en una sola pasada y **releer el objeto completo** (verdict, description, pros, cons,
+   articleBody, faq, specs, seoTitle, metaDescription), no solo el campo tocado.
+4. Recién ahí volver a barrer y declarar cerrado.
+
+**Lo que también salió de acá:** nunca afirmé un precio relativo sin dividir. "Comprar suelto sale peor que
+cualquier kit" sonaba obvio y era falso: la unidad de 40 cm le gana por centímetro a dos de los tres kits y es
+la más barata por estante en absoluto. Antes de escribir cualquier comparación de precio, hacer la cuenta.

@@ -1,7 +1,7 @@
 # Estado actual
 
 > Snapshot del proyecto. Se actualiza al final de cada sesión.
-> Última actualización: 2026-08-15 (research de keywords verificado, tres guías nuevas del silo hogar-jardin en STAGED: conservadora, mesa ratona y lámpara de pie, y 23 links internos rotos reparados en guías publicadas — ver sesión de más abajo).
+> Última actualización: 2026-08-15 (research de keywords verificado, cuatro guías nuevas del silo hogar-jardin en STAGED: conservadora, mesa ratona, lámpara de pie y estantería flotante, y 23 links internos rotos reparados en guías publicadas — ver sesión de más abajo).
 
 ## Sesión 2026-08-15 — Keywords verificadas, silo hogar-jardin crece, y 23 links internos que iban a ninguna parte
 
@@ -59,10 +59,25 @@
 
 22. **Ese mismo dato generó el error más caro del día.** Escribir "4 de 5" en vez de "3 de 5" se propagó a **12 lugares del contenido más 2 comentarios de código**. Hicieron falta tres pasadas del trío para limpiarlo: la primera lo detectó (agy puso Honestidad 4/10), la segunda dejó una frase suelta, y la tercera encontró los comentarios que ningún grep de contenido miraba. Anotado en `MISTAKES.md`.
 
+### Cuarta guía del día: estantería flotante (STAGED)
+
+23. **Guía `estanteria-flotante` escrita y en STAGED** (12.100/mes), cuarto pilar de `hogar-jardin`, con 6 fichas: Exahome kit x3, Mamut Deco kit x3, Urbana Fábrica kit x3 negro, SAJO natural con perchero, SAJO combo negro y Exahome individual de 40 cm. Los 6 links meli.la verificados uno por uno.
+
+24. **El ángulo: los 10 kg no son del estante, son de tu pared.** La web de Mamut Deco es la única que lo dice: "aproximadamente hasta 10 kg con pared firme e instalación correcta", y que depende de la firmeza del muro. Ninguna de las seis fichas de ML menciona la palabra durlock. El estado real del dato en los seis: **3 confirmados por el fabricante, 2 declarados solo en ML, 1 sin dato en ninguna fuente**.
+
+25. **Segundo dato ausente: qué mecha necesitás.** Cambia por marca y solo Mamut lo publica (10 mm). Los compradores de Exahome reportan mecha del 12 y tarugos n14, dato que sale de las reseñas y no de ninguna ficha.
+
+26. **La ficha de ML vuelve a fallar dos veces:** Exahome declara "Altura: 18 cm" y "Espesor: 1,8 cm" a la vez (el fabricante confirma 18 mm), y Mamut dice "Formato de venta: Unidad" en una publicación de tres estantes cuya descripción aclara "PRECIO POR COMBO". Y el kit natural de SAJO **llega sin teñir**, dato que solo aparece en el texto largo.
+
+27. **La aritmética que nadie publica, y que casi publico mal.** Precio por centímetro: SAJO natural $150, SAJO negro $159, Mamut $174, Exahome individual $202, Urbana $212, Exahome kit $237. O sea que la unidad suelta le gana a dos de los tres kits, y es la más barata por estante en absoluto. Yo venía repitiendo lo contrario sin haber hecho nunca la división.
+
+28. **Catorce rondas del trío auditor hasta el 10/10.** El patrón que las causó fue siempre el mismo y está anotado en `MISTAKES.md`: corregir un subconjunto de las apariciones de un error y declarar la tarea cerrada. Pasó con los conteos de carga, con los superlativos de precio, con los claims de identidad de producto y con el tarugo deducido. Tres veces el auditor encontró el mismo claim vivo en un campo distinto de la ficha que yo acababa de "arreglar".
+
 ### Pendiente
 
-- Las guías `conservadora`, `mesa-ratona` y `lampara-de-pie` están en STAGED. Publicar = dar vuelta las tres fechas a la del día.
+- Las guías `conservadora`, `mesa-ratona`, `lampara-de-pie` y `estanteria-flotante` están en STAGED. Publicar = dar vuelta las cuatro fechas a la del día.
 - Falta cruzar las medidas de las mesas ratonas contra las webs de los fabricantes (tarea 175).
+- Evaluar un chequeo mecánico que liste los superlativos y claims de conteo de una guía y exija que cada uno declare contra qué está acotado. Los greps armados al momento fallaron repetidas veces por mostrar solo el primer match de cada línea.
 - Quedan 15 leads con volumen medido y SERP sin chequear en `docs/keywords-verificadas-2026-08-15.md`.
 - `mueble zapatero` (6.600) y `botinero` (2.900) son la misma intención que la guía `zapatero` ya publicada: hay que ver en GSC si ya rankea para esas dos antes de escribir nada, o sería auto-canibalización.
 - El soft-404 de fondo sigue sin arreglar: cualquier slug inexistente bajo `/guias/` devuelve 200.

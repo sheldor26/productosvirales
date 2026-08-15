@@ -24467,6 +24467,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { question: `¿Cuál es el zapatero más liviano y fácil de mover?`, answer: `El [Zapatero LBS](/producto/organizador-zapatero-lbs-zapatillas-botinero-estantes-desarmable-todo-negro-alum-mla65935388) de aluminio o el [Zapatero de Tela](/producto/zapatero-estante-organizador-de-tela-8-estantes-9-niveles-mlau3149919167) son los más livianos y fáciles de mover o guardar de esta comparativa.` },
     ],
     internalLinks: [
+      { label: `Estantería flotante: cuál comprar en Argentina`, href: `/guias/hogar-jardin/estanteria-flotante` },
       { label: "Lámpara de pie: cuál comprar en Argentina", href: "/guias/hogar-jardin/lampara-de-pie" },
       { label: "Mesa ratona: cuál comprar en Argentina", href: "/guias/hogar-jardin/mesa-ratona" },
       { label: "Conservadora: cuál comprar en Argentina", href: "/guias/hogar-jardin/conservadora" },
@@ -25041,6 +25042,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { question: `¿Las conservadoras traen tapón para drenar el agua?`, answer: `Ninguna de las cinco de esta comparativa lo trae, y en las grandes se nota. Es la contra más señalada por los compradores de la [Mor de 75 litros](/producto/conservadora-termica-mor-75l-color-azul-mla28583015): para vaciarla hay que sacar todo y darla vuelta.` },
     ],
     internalLinks: [
+      { label: `Estantería flotante: cuál comprar en Argentina`, href: `/guias/hogar-jardin/estanteria-flotante` },
       { label: `Lámpara de pie: cuál comprar en Argentina`, href: `/guias/hogar-jardin/lampara-de-pie` },
       { label: `Mesa ratona: cuál comprar en Argentina`, href: `/guias/hogar-jardin/mesa-ratona` },
       { label: `Zapatero: cuál comprar en Argentina`, href: `/guias/hogar-jardin/zapatero` },
@@ -25183,6 +25185,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { question: `¿Conviene comprar un set de mesas o una sola?`, answer: `Un set conviene si querés resolver más de un rincón o si tenés poco espacio y valorás poder apilarlas, como el [Ambi O](/producto/mesas-de-centro-ratona-ambi-o-set-x3-acero-mdf-marron-y-negro-mla66551735). Una sola conviene si buscás una superficie continua para apoyar cosas de a varios: ahí ni tres mesas chicas juntas reemplazan a una grande.` },
     ],
     internalLinks: [
+      { label: `Estantería flotante: cuál comprar en Argentina`, href: `/guias/hogar-jardin/estanteria-flotante` },
       { label: `Lámpara de pie: cuál comprar en Argentina`, href: `/guias/hogar-jardin/lampara-de-pie` },
       { label: `Zapatero: cuál comprar en Argentina`, href: `/guias/hogar-jardin/zapatero` },
       { label: `Conservadora: cuál comprar en Argentina`, href: `/guias/hogar-jardin/conservadora` },
@@ -25317,6 +25320,154 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { question: `¿Por qué la ficha de MercadoLibre dice que la RGB no incluye lámpara?`, answer: `Porque es un campo que no aplica a ese producto. La descripción del vendedor confirma LED RGBIC integrado de 5 W y no menciona zócalo ni rosca en ningún lado: no hay dónde enroscar un foco. Ese "No" hace pensar que falta comprar algo, y no falta nada.` },
     ],
     internalLinks: [
+      { label: `Estantería flotante: cuál comprar en Argentina`, href: `/guias/hogar-jardin/estanteria-flotante` },
+      { label: `Mesa ratona: cuál comprar en Argentina`, href: `/guias/hogar-jardin/mesa-ratona` },
+      { label: `Zapatero: cuál comprar en Argentina`, href: `/guias/hogar-jardin/zapatero` },
+      { label: `Conservadora: cuál comprar en Argentina`, href: `/guias/hogar-jardin/conservadora` },
+      { label: `Ver toda la categoría Hogar y Jardín`, href: `/categoria/hogar-jardin` },
+    ],
+    internalLinksTitle: "Más de hogar y jardín",
+  },
+  // ─────────────────────────────────────────────────────────
+  // PILAR estanteria-flotante — silo hogar-jardin, diseño best-of (ver docs/guias.md)
+  // Ángulo: los 10 kg declarados no son del estante, son del conjunto estante +
+  // ménsula + tarugo + pared. Lo dice el propio fabricante Mamut Deco en su web.
+  // Segundo dato ausente en todas las fichas de ML: qué mecha necesitás.
+  // Ver docs/sourcing-estanteria-flotante-2026-08-15.md
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "estanteria-flotante",
+    category: "estanterias-flotantes",
+    silo: "hogar-jardin",
+    pillar: true,
+    title: `Estantería flotante: cuál comprar en Argentina [2026]`,
+    seoTitle: `Estantería Flotante: Cuál Comprar en Argentina [2026]`,
+    metaDescription: `Comparamos 6 estanterías flotantes reales de MercadoLibre: melamina y pino, kits e individuales. Cuánto aguantan de verdad y qué mecha necesitás.`,
+    ogTitle: `Estantería flotante: cuál comprar en Argentina`,
+    ogDescription: `6 estanterías flotantes comparadas por profundidad, carga real y precio por estante, con el dato que ninguna ficha de MercadoLibre publica: la mecha.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_738010-MLA96097771731_102025-O.webp`,
+    h1: `Estantería flotante: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene el **[Exahome kit x3](/producto/3-estantes-flotantes-repisa-con-mensulas-invisibles-60x20x18-color-blanco-exahom-mla35809709)** (alrededor de {{precio:MLA35809709:k}}): es el más vendido del rubro y el único con miles de opiniones. Si querés **la misma spec medible por menos**, el **[Mamut Deco kit x3](/producto/3-estantes-flotantes-repisas-mensulas-invisibles-60x20x18-mlau828916072)**, de otro fabricante y bastante más barato. En **negro**, el **[Urbana Fábrica](/producto/kit-x3-uni-60x20-estante-flotante-mueble-hogar-urbanafabrica-negro-mlau3891560042)**. Para **decorar con varias medidas**, el **[SAJO negro](/producto/repisa-flotante-madera-negra-sajo-40-60-80cm-combo-con-perchero-40cm-mla36299841)**. Y para **probar sin gastar**, el **[Exahome de 40 cm](/producto/estante-flotante-exahome-melamina-blanca-40x20x1-8-cm-invisible-mla29565555)**. Ojo con algo: **cuando una ficha declara 10 kg, ese número depende de tu pared, no del estante**.`,
+    publishedDate: "2026-10-05",
+    updatedDate: "2026-10-05",
+    hasDisclosure: true,
+    readingTime: 10,
+    standfirst: `Una estantería flotante va de {{precio:MLA29565555:k}} (una unidad suelta de 40 cm) a {{precio:MLA35809709:k}} (el kit de tres más vendido). Comparamos 6 estanterías flotantes reales de MercadoLibre Argentina por profundidad, carga real y precio por estante, con contras de reseñas verdaderas, dentro de nuestro silo de [Hogar y Jardín](/categoria/hogar-jardin).`,
+    quickPicks: [
+      { productMlaId: "MLA35809709", label: "La más elegida", labelColor: "green", tagline: "Exahome kit x3: melamina de 18 mm y el único con miles de opiniones" },
+      { productMlaId: "MLAU828916072", label: "Mejor precio en 60x20", labelColor: "blue", tagline: "Mamut Deco kit x3: misma spec medible, y el único fabricante que publica la mecha" },
+      { productMlaId: "MLA36299841", label: "Mejor para decorar", labelColor: "purple", tagline: "SAJO negro: tres medidas más perchero, teñido y listo para colgar" },
+      { productMlaId: "MLA29565555", label: "Para probar", labelColor: "slate", tagline: "Exahome 40 cm: la entrada más barata de esta guía, por menos de diez mil" },
+    ],
+    intro: [
+      `Una **estantería flotante** es la repisa que se fija a la pared con una ménsula escondida adentro de la madera, así que desde afuera parece pegada sin nada que la sostenga. Sirve para sumar lugar donde no entra un mueble: arriba del escritorio, al costado de la cama, sobre el lavarropas.`,
+      `Comparamos 6 estanterías flotantes reales de MercadoLibre Argentina, y arrancamos por lo que ninguna ficha te dice: **el peso que aguantan no depende solo del estante, depende de tu pared**. Cinco de las seis declaran un máximo, casi siempre 10 kg, pero ese número asume un muro firme y el tarugo correcto. El fabricante de uno de estos kits lo aclara en su propia web, y es el dato más honesto de todo el rubro. Por eso esta guía está ordenada por **profundidad y uso real**, no por precio.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_738010-MLA96097771731_102025-O.webp", alt: `Kit de tres estantes flotantes de melamina blanca con ménsulas invisibles montados en la pared`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la **mayoría**, el **[Exahome kit x3](/producto/3-estantes-flotantes-repisa-con-mensulas-invisibles-60x20x18-color-blanco-exahom-mla35809709)**. Si querés **pagar menos por la misma spec medible**, el **[Mamut Deco](/producto/3-estantes-flotantes-repisas-mensulas-invisibles-60x20x18-mlau828916072)**. En **negro**, el **[Urbana Fábrica](/producto/kit-x3-uni-60x20-estante-flotante-mueble-hogar-urbanafabrica-negro-mlau3891560042)**. Para **decorar con varias medidas**, el **[SAJO negro](/producto/repisa-flotante-madera-negra-sajo-40-60-80cm-combo-con-perchero-40cm-mla36299841)** o el **[SAJO natural](/producto/kit-3-repisas-1-perchero-biblioteca-especiero-madera-colores-color-natural-mla27777242)** si no te molesta barnizarlo. Y para **probar**, el **[Exahome de 40 cm](/producto/estante-flotante-exahome-melamina-blanca-40x20x1-8-cm-invisible-mla29565555)**.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos las estanterías flotantes con más ventas reales en MercadoLibre Argentina, entrando por el ranking de más vendidos de la categoría, y verificamos cada publicación en vivo. Cruzamos las medidas contra las webs de Exahome, Mamut Deco y SAJO, y **decimos cuándo el fabricante no publica un dato** en vez de repetir el de MercadoLibre como si estuviera confirmado. Las ordenamos por profundidad y uso, no por precio, porque una repisa de 12 cm y una de 20 no sirven para lo mismo. Los precios se verifican automáticamente contra MercadoLibre.` },
+
+      { type: "h2", title: `Qué mirar antes de comprar una estantería flotante`, id: "que-mirar" },
+      { type: "p", content: `**Qué pared tenés.** Es la primera pregunta y casi nadie la hace. La ménsula invisible se fija con un tarugo grueso, y en pared firme de ladrillo o mampostería eso suele funcionar sin drama. En durlock, no: la placa de yeso no sostiene un tarugo común con peso colgando, y hace falta un anclaje específico tipo mariposa. Ninguna de las seis fichas de esta guía menciona la palabra durlock.` },
+      { type: "p", content: `**Qué mecha vas a necesitar.** Cambia según la marca y casi ninguna lo publica. [Mamut Deco](/producto/3-estantes-flotantes-repisas-mensulas-invisibles-60x20x18-mlau828916072) recomienda 10 mm en su web, y es el único fabricante de esta comparativa que lo dice. Los compradores del [kit de Exahome](/producto/3-estantes-flotantes-repisa-con-mensulas-invisibles-60x20x18-color-blanco-exahom-mla35809709) reportan mecha del 12 y tarugos n14. Es la diferencia entre colgar el estante hoy o salir a comprar una mecha.` },
+      { type: "p", content: `**Cuánta profundidad.** Los estantes de melamina de esta guía tienen 20 cm y los de pino de SAJO entre 12 y 12,7 cm. No es un detalle: en 20 cm entra un libro apoyado de plano, en 12 no. Si el plan son libros, la decisión ya está tomada antes de mirar precios.` },
+      { type: "p", content: `**Kit o unidad.** Hacé la cuenta por centímetro de estante en vez de mirar la etiqueta, porque el resultado no es el esperable: la unidad suelta de 40 cm sale más cara por centímetro que el kit de Mamut, pero **más barata que los otros dos kits de melamina**. Comprar de a uno no es automáticamente el peor negocio; depende de contra cuál kit lo compares.` },
+      { type: "callout", calloutVariant: "warning", calloutTitle: "Los 10 kg no son del estante", content: `Tres de estos productos declaran "Peso máximo soportado: 10 kg" en la ficha de MercadoLibre, como si fuera una propiedad del producto. La web de **Mamut Deco**, que fabrica uno de ellos, lo dice de otra manera: soporta **aproximadamente hasta 10 kg con pared firme e instalación correcta**, y aclara que depende de la firmeza del muro, la fijación y la distribución de la carga. O sea que el número es del conjunto estante, ménsula, tarugo y pared. Es la aclaración más honesta del rubro y la hace un solo fabricante. El estado del dato en los seis productos de esta guía: **tres tienen la carga confirmada por el fabricante, dos la declaran solo en MercadoLibre y en uno no existe en ninguna fuente**.` },
+
+      { type: "h2", title: `Las mejores estanterías flotantes de 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Exahome kit x3 — la más elegida` },
+      { type: "product-card", productMlaId: "MLA35809709", label: "La más elegida", labelColor: "green", ranking: 1, description: `Tres estantes de 60x20 en melamina de 18 mm con ménsulas invisibles. El kit más vendido de la categoría, con la mayor base de opiniones de esta comparativa por lejos.` },
+      { type: "p", content: `El [Exahome kit x3](/producto/3-estantes-flotantes-repisa-con-mensulas-invisibles-60x20x18-color-blanco-exahom-mla35809709) sale alrededor de {{precio:MLA35809709:k}} y tiene **{{rating:MLA35809709}} estrellas en {{reviews:MLA35809709}} opiniones**. Ese número es lo que lo separa del resto: ningún otro producto de esta guía llega a 750 opiniones, y los otros dos kits de melamina de 60x20 no pasan de 68.` },
+      { type: "p", content: `Los 20 cm de profundidad son el otro punto fuerte, y entra un libro apoyado de plano. Es la diferencia práctica contra las repisas de pino de esta misma comparativa, que rondan los 12 cm.` },
+      { type: "p", content: `Lo honesto: el producto casi no recibe quejas, el montaje sí. La contra que más se repite es que hace falta mecha del 12 y tarugos n14, un agujero bastante más grande de lo que uno espera para una repisa, y que queda a la vista si la pared no está impecable. También hay reportes sueltos de tornillos torcidos o perforaciones sin terminar.` },
+      { type: "pull-quote", content: `"Re lindas, son estantes. Lo único que mi viejo me odió porque no tenía mecha de 12, según él fue un quilombo ponerla por eso y que le parecía una exageración. Pero bueno se banca los libros así q todo ok."`, attribution: `Comprador verificado en MercadoLibre, calificación 4/5` },
+
+      { type: "h3", title: `2. Mamut Deco kit x3 — mejor precio en el formato 60x20` },
+      { type: "product-card", productMlaId: "MLAU828916072", label: "Mejor precio en 60x20", labelColor: "blue", ranking: 2, description: `Tres estantes de 60x20 en melamina de 18 mm, misma spec medible que el más vendido. Fabricante con local en Lanús y el único que publica qué mecha necesitás.` },
+      { type: "p", content: `El [Mamut Deco kit x3](/producto/3-estantes-flotantes-repisas-mensulas-invisibles-60x20x18-mlau828916072) sale alrededor de {{precio:MLAU828916072:k}}, con **{{rating:MLAU828916072}} estrellas en {{reviews:MLAU828916072}} opiniones**. Comparte la misma spec medible con el número uno: 60x20, melamina de 18 mm, ménsula invisible, 10 kg declarados. La diferencia es de {{preciodif:MLA35809709:MLAU828916072}} a favor de este.` },
+      { type: "p", content: `Y hace algo que ningún otro de esta guía hace: su web publica la mecha recomendada, 10 mm, y aclara de qué depende la carga que aguanta. Ese es exactamente el dato que a los compradores del kit más vendido les faltó.` },
+      { type: "p", content: `Lo honesto: el respaldo. Sesenta y ocho opiniones no son pocas en absoluto, pero al lado de miles no permiten la misma confianza, y el promedio puede moverse. La única crítica concreta que aparece es sobre los herrajes, y quien la escribió tenía tornillos de repuesto a mano.` },
+      { type: "pull-quote", content: `"Muy bien. Algo truchotos los pernos pero tenía otros. Buena relación precio calidad."`, attribution: `Comprador verificado en MercadoLibre, calificación 4/5` },
+      { type: "p", content: `Un dato para no confundirse: la ficha técnica dice "Formato de venta: Unidad" en una publicación titulada "3 Estantes Flotantes". Son tres, la descripción del vendedor dice "PRECIO POR COMBO". Si mirás solo la ficha, calculás el precio por estante tres veces más caro de lo que es.` },
+
+      { type: "h3", title: `3. Urbana Fábrica kit x3 — el negro en melamina` },
+      { type: "product-card", productMlaId: "MLAU3891560042", label: "Única melamina negra", labelColor: "slate", ranking: 3, description: `Tres estantes de 60x20 en melamina negra de 18 mm, con manual de ensamblado. El único kit de melamina negra con stock de esta comparativa.` },
+      { type: "p", content: `El [Urbana Fábrica kit x3](/producto/kit-x3-uni-60x20-estante-flotante-mueble-hogar-urbanafabrica-negro-mlau3891560042) sale alrededor de {{precio:MLAU3891560042:k}} y existe por un motivo concreto: es el único kit de melamina negra de este formato que apareció con stock profundo. Si el color es lo que buscabas, la búsqueda termina acá.` },
+      { type: "p", content: `Incluye manual de ensamblado, cosa que el kit más vendido no trae, y sale más barato por estante que ese. Las reseñas son cortas pero coinciden en algo concreto: quedan firmes.` },
+      { type: "p", content: `Lo honesto: es el de menos respaldo del grupo, con **{{reviews:MLAU3891560042}} opiniones** y poco más de cien unidades vendidas. Un promedio alto con esa base no dice tanto. Y es el único de los seis cuyo fabricante no tiene sitio oficial encontrable: todo lo que sabemos de él sale de la ficha de MercadoLibre y de esos compradores, sin una segunda fuente contra la cual cruzar las specs.` },
+
+      { type: "h3", title: `4. SAJO combo negro — mejor para decorar` },
+      { type: "product-card", productMlaId: "MLA36299841", label: "Mejor para decorar", labelColor: "purple", ranking: 4, description: `Tres repisas de pino macizo de 40, 60 y 80 cm más perchero, teñidas de negro y con las perforaciones hechas. Para decoración, no para carga.` },
+      { type: "p", content: `El [SAJO combo negro](/producto/repisa-flotante-madera-negra-sajo-40-60-80cm-combo-con-perchero-40cm-mla36299841) sale alrededor de {{precio:MLA36299841:k}}, con **{{rating:MLA36299841}} estrellas en {{reviews:MLA36299841}} opiniones**. Es otra cosa que los tres anteriores: pino macizo, tres medidas distintas y un perchero, así que armás una composición escalonada en vez de repetir tres veces la misma repisa.` },
+      { type: "p", content: `Llega teñido de fábrica y con las perforaciones hechas, lo que lo vuelve de los más fáciles de colocar de esta guía. El uso que más aparece en las reseñas es exhibir colecciones: muñecos, figuras, mangas.` },
+      { type: "p", content: `Lo honesto: nadie publica cuánto aguanta. Ni la ficha de MercadoLibre ni la web de SAJO declaran capacidad de carga, es el único de esta guía donde el dato no existe en ninguna fuente. Con 12 cm de fondo, la respuesta práctica es que no está pensado para peso. Su comprador más entusiasta lo dice mejor que cualquier ficha.` },
+      { type: "pull-quote", content: `"Es el mejor precio de ML. Es pino común pero te lo dan pintado c tornillos y tarugos + las perforaciones. Para deco me parece excelente."`, attribution: `Comprador verificado en MercadoLibre, calificación 5/5` },
+
+      { type: "h3", title: `5. SAJO kit natural — el kit más barato` },
+      { type: "product-card", productMlaId: "MLA27777242", label: "El kit más barato", labelColor: "amber", ranking: 5, description: `Tres repisas de pino de 40, 60 y 80 cm más perchero, sin teñir. El kit completo más barato de la comparativa, con una mano de barniz pendiente.` },
+      { type: "p", content: `El [SAJO kit natural](/producto/kit-3-repisas-1-perchero-biblioteca-especiero-madera-colores-color-natural-mla27777242) sale alrededor de {{precio:MLA27777242:k}}, el kit completo más barato de esta guía, con **{{rating:MLA27777242}} estrellas en {{reviews:MLA27777242}} opiniones**. Es el hermano sin teñir del combo negro del mismo fabricante: mismas tres medidas de largo, con el perfil un poco más bajo.` },
+      { type: "p", content: `Lo honesto, y es el dato que define la compra: **llega en madera cruda**. La web de SAJO aclara que los productos son teñidos "exceptuado el natural que se envía sin teñir", y recomienda lijar finamente y barnizar. Eso no figura en ningún campo de la ficha técnica de MercadoLibre, solo en el texto largo de la descripción. Si lo comprás esperando colgarlo el mismo día, te falta una mano de barniz y el tiempo de secado.` },
+      { type: "p", content: `La otra aclaración: la ficha declara 8 kg de carga, pero SAJO no publica capacidad de carga en ninguno de sus productos. Ese número no está verificado contra quien fabrica la repisa, y así lo dejamos declarado.` },
+      { type: "pull-quote", content: `"Están muy bien relación precio y calidad. Son todos de diferentes tamaños. El perchero hay que armarlo así que paciencia."`, attribution: `Compradora verificada en MercadoLibre, calificación 4/5` },
+
+      { type: "h3", title: `6. Exahome individual de 40 cm — para probar` },
+      { type: "product-card", productMlaId: "MLA29565555", label: "Para probar", labelColor: "slate", ranking: 6, description: `Un estante de 40x20 en la misma melamina de 18 mm que el kit de tres de Exahome, por menos de diez mil pesos. La entrada más barata de las seis.` },
+      { type: "p", content: `El [Exahome de 40 cm](/producto/estante-flotante-exahome-melamina-blanca-40x20x1-8-cm-invisible-mla29565555) sale alrededor de {{precio:MLA29565555:k}}, con **{{rating:MLA29565555}} estrellas en {{reviews:MLA29565555}} opiniones**. Sirve para lo que su precio sugiere: probar. Colgás uno, ves si tu pared lo banca y si te gusta cómo queda, y después escalás a un kit.` },
+      { type: "p", content: `No es un producto de segunda: misma melamina de 18 mm y misma ménsula que el kit de tres de Exahome, solo más corto. Un uso que aparece varias veces en las reseñas y que la publicación no menciona es como mesa de luz flotante al costado de la cama.` },
+      { type: "p", content: `Lo honesto: el agujero no achica junto con el estante. La ménsula pide un tarugo grueso para una repisa de 40 cm, y a más de un comprador le pareció desproporcionado. Sobre el precio, la cuenta sorprende: por centímetro de estante queda en el medio de la tabla, más caro que el kit de Mamut pero más barato que los otros dos kits de melamina, incluido el del mismo fabricante.` },
+      { type: "pull-quote", content: `"Son buenos pero me parece exagerado la necesidad de semejante taco para una repisa tan pequeña. Es más engorroso hacer semejante agujero en la pared y después limpiar que lo que es la repisa en sí. La calidad es buena y cumple su función."`, attribution: `Comprador verificado en MercadoLibre, calificación 3/5` },
+
+      { type: "h2", title: `Tabla comparativa: profundidad, carga y precio`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Producto`, `Precio`, `Contenido`, `Fondo`, `Carga declarada`, `Ideal para`], rows: [
+        [`[Exahome kit x3](/producto/3-estantes-flotantes-repisa-con-mensulas-invisibles-60x20x18-color-blanco-exahom-mla35809709)`, `{{precio:MLA35809709}}`, `3 de 60 cm`, `20 cm`, `10 kg, según la pared`, `La más elegida`],
+        [`[Mamut Deco kit x3](/producto/3-estantes-flotantes-repisas-mensulas-invisibles-60x20x18-mlau828916072)`, `{{precio:MLAU828916072}}`, `3 de 60 cm`, `20 cm`, `10 kg, según la pared`, `Mejor precio en 60x20`],
+        [`[Urbana Fábrica kit x3](/producto/kit-x3-uni-60x20-estante-flotante-mueble-hogar-urbanafabrica-negro-mlau3891560042)`, `{{precio:MLAU3891560042}}`, `3 de 60 cm`, `20 cm`, `10 kg, según la pared`, `Única melamina negra`],
+        [`[SAJO combo negro](/producto/repisa-flotante-madera-negra-sajo-40-60-80cm-combo-con-perchero-40cm-mla36299841)`, `{{precio:MLA36299841}}`, `3 más perchero`, `12 cm`, `**Nadie la declara**`, `Decorar y colecciones`],
+        [`[SAJO kit natural](/producto/kit-3-repisas-1-perchero-biblioteca-especiero-madera-colores-color-natural-mla27777242)`, `{{precio:MLA27777242}}`, `3 más perchero`, `12,7 cm`, `8 kg, sin confirmar`, `Kit más barato`],
+        [`[Exahome 40 cm](/producto/estante-flotante-exahome-melamina-blanca-40x20x1-8-cm-invisible-mla29565555)`, `{{precio:MLA29565555}}`, `1 de 40 cm`, `20 cm`, `10 kg, solo el fabricante`, `Probar el formato`],
+      ] },
+      { type: "p", content: `La columna del fondo es la que decide el uso: en 20 cm entra un libro apoyado de plano, en 12 no. Y la de carga muestra el estado real del rubro: de seis productos, tres tienen el dato confirmado por el fabricante, dos lo declaran solo en MercadoLibre, y en uno directamente no existe.` },
+
+      { type: "h2", title: `Cómo elegir tu estantería flotante`, id: "como-elegir" },
+      { type: "h3", title: `1. Según qué vas a apoyar arriba` },
+      { type: "p", content: `Para libros, los de melamina de 20 cm de fondo: el [Exahome kit](/producto/3-estantes-flotantes-repisa-con-mensulas-invisibles-60x20x18-color-blanco-exahom-mla35809709), el [Mamut Deco](/producto/3-estantes-flotantes-repisas-mensulas-invisibles-60x20x18-mlau828916072) o el [Urbana Fábrica](/producto/kit-x3-uni-60x20-estante-flotante-mueble-hogar-urbanafabrica-negro-mlau3891560042). Para plantas, frascos, marcos y colecciones, los de pino de SAJO alcanzan y sobran. Son dos productos distintos que comparten nombre.` },
+      { type: "h3", title: `2. Según qué pared tenés` },
+      { type: "p", content: `En pared firme de ladrillo o mampostería, cualquiera de los seis debería funcionar si el tarugo incluido corresponde a ese muro. En durlock, ninguno funciona con el tarugo que viene: hace falta un anclaje de placa de yeso, tipo mariposa, y bajar bastante las expectativas de carga. Ninguna de estas seis fichas lo aclara, y es la causa más común de que un estante flotante se venga abajo.` },
+      { type: "h3", title: `3. Según cuánto querés cubrir` },
+      { type: "p", content: `Si vas a cubrir una pared entera, el kit de [Mamut Deco](/producto/3-estantes-flotantes-repisas-mensulas-invisibles-60x20x18-mlau828916072) es el que mejor rinde por centímetro en melamina. Pero no des por hecho que cualquier kit gana: los de Exahome y Urbana salen más caros por centímetro que la propia [unidad suelta de 40 cm](/producto/estante-flotante-exahome-melamina-blanca-40x20x1-8-cm-invisible-mla29565555), que además se justifica sola para un punto específico de la casa o para probar antes de decidir.` },
+
+      { type: "h2", title: `Cuánto cuesta una estantería flotante [2026]`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de {{precio:MLA29565555:k}}:** una unidad suelta de 40 cm, el [Exahome individual](/producto/estante-flotante-exahome-melamina-blanca-40x20x1-8-cm-invisible-mla29565555).`,
+        `**Alrededor de {{precio:MLA27777242:k}}:** tres repisas de pino más perchero sin teñir, el [SAJO natural](/producto/kit-3-repisas-1-perchero-biblioteca-especiero-madera-colores-color-natural-mla27777242).`,
+        `**Alrededor de {{precio:MLA36299841:k}}:** el combo de SAJO ya teñido de negro, el [SAJO negro](/producto/repisa-flotante-madera-negra-sajo-40-60-80cm-combo-con-perchero-40cm-mla36299841).`,
+        `**Alrededor de {{precio:MLAU828916072:k}}:** tres estantes de melamina de 60x20, el [Mamut Deco](/producto/3-estantes-flotantes-repisas-mensulas-invisibles-60x20x18-mlau828916072).`,
+        `**Alrededor de {{precio:MLAU3891560042:k}}:** tres estantes de melamina de 60x20 en negro, el [Urbana Fábrica](/producto/kit-x3-uni-60x20-estante-flotante-mueble-hogar-urbanafabrica-negro-mlau3891560042).`,
+        `**Alrededor de {{precio:MLA35809709:k}}:** el kit más vendido del rubro, el [Exahome x3](/producto/3-estantes-flotantes-repisa-con-mensulas-invisibles-60x20x18-color-blanco-exahom-mla35809709).`,
+      ] },
+      { type: "p", content: `Los tres kits de melamina comparten la misma spec medible a tres precios distintos. Lo que se paga de más en el más caro no es una mejor spec: es sobre todo respaldo, miles de opiniones contra decenas. Entre los tres también cambian el color, si traen manual y si el fabricante se puede verificar. Puede valer la pena o no, pero conviene saber qué estás comprando con esa diferencia.` },
+
+      { type: "h2", title: `Veredicto: cuál estantería flotante comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la **mayoría**, el **[Exahome kit x3](/producto/3-estantes-flotantes-repisa-con-mensulas-invisibles-60x20x18-color-blanco-exahom-mla35809709)**: es el más vendido del rubro, tiene 20 cm de fondo para libros y es el único con miles de opiniones detrás. Si querés el mismo formato de 60x20 **al mejor precio**, el **[Mamut Deco](/producto/3-estantes-flotantes-repisas-mensulas-invisibles-60x20x18-mlau828916072)** tiene la misma spec medible por bastante menos, con menos respaldo pero con un fabricante que publica los datos que el resto no. En **negro**, el **[Urbana Fábrica](/producto/kit-x3-uni-60x20-estante-flotante-mueble-hogar-urbanafabrica-negro-mlau3891560042)** es la única opción de melamina, asumiendo su base chica de opiniones. Si el plan es **decorar** y no cargar, el **[SAJO negro](/producto/repisa-flotante-madera-negra-sajo-40-60-80cm-combo-con-perchero-40cm-mla36299841)** llega teñido y perforado, y el **[SAJO natural](/producto/kit-3-repisas-1-perchero-biblioteca-especiero-madera-colores-color-natural-mla27777242)** sale menos si aceptás barnizarlo vos. Y para **probar**, el **[Exahome de 40 cm](/producto/estante-flotante-exahome-melamina-blanca-40x20x1-8-cm-invisible-mla29565555)**. El consejo que vale más que el ranking: **antes de elegir el estante, fijate qué pared tenés y qué mecha tenés en casa**. Es lo que decide si el estante queda colgado o no.` },
+
+      { type: "h2", title: `Preguntas frecuentes`, id: "faq" },
+    ],
+    faq: [
+      { question: `¿Cuánto peso aguanta una estantería flotante?`, answer: `Menos de lo que dice la ficha, si tu pared no acompaña. Los kits de melamina de esta comparativa declaran hasta 10 kg, pero ese número asume pared firme e instalación correcta: lo aclara la web de Mamut Deco, que agrega que depende de la firmeza del muro, la fijación y la distribución de la carga. En durlock sin anclaje específico, ese valor no aplica. De los seis productos de esta guía, tres tienen la carga confirmada por el fabricante, dos la declaran solo en MercadoLibre y en uno no existe el dato.` },
+      { question: `¿Qué mecha necesito para colgar un estante flotante?`, answer: `Depende de la marca, y casi ninguna lo publica. [Mamut Deco](/producto/3-estantes-flotantes-repisas-mensulas-invisibles-60x20x18-mlau828916072) recomienda 10 mm en su web, el único fabricante de esta guía que lo dice. Los compradores del [kit de Exahome](/producto/3-estantes-flotantes-repisa-con-mensulas-invisibles-60x20x18-color-blanco-exahom-mla35809709) reportan mecha del 12 y tarugos n14. Conviene confirmarlo antes de abrir la caja: es la queja de montaje más repetida del rubro.` },
+      { question: `¿Se puede poner una estantería flotante en durlock?`, answer: `No con el tarugo que viene en la caja. La placa de yeso no sostiene un tarugo común con peso colgando: hace falta un anclaje específico tipo mariposa y bajar las expectativas de carga. Ninguna de las seis fichas de esta comparativa menciona el durlock, y es la causa más común de que un estante flotante termine en el piso.` },
+      { question: `¿Qué profundidad necesito para poner libros?`, answer: `Veinte centímetros. Los kits de melamina de esta guía los tienen; las repisas de pino de SAJO rondan los 12 cm y no permiten apoyar un libro de plano. Si el plan son libros, la decisión se toma por el fondo antes que por el precio.` },
+      { question: `¿Conviene comprar un kit o estantes sueltos?`, answer: `Depende de qué kit. Medido por centímetro de estante, el kit de [Mamut Deco](/producto/3-estantes-flotantes-repisas-mensulas-invisibles-60x20x18-mlau828916072) rinde mejor que la unidad suelta, pero los kits de Exahome y Urbana rinden peor que ella. Y en precio absoluto por estante, la [unidad de 40 cm](/producto/estante-flotante-exahome-melamina-blanca-40x20x1-8-cm-invisible-mla29565555) es la más barata de las seis, aunque cubra 20 cm menos de pared que los estantes de los kits de 60x20.` },
+      { question: `¿Por qué la ficha del Exahome dice 18 cm de alto?`, answer: `Porque está mal cargada. Son 18 milímetros de espesor, no 18 centímetros de alto: la descripción del propio vendedor dice "ESPESOR: 18MM" y la web de Exahome vende melamina de 18 mm. Es el mismo dato multiplicado por diez en el campo equivocado. En la misma ficha aparece "Espesor: 1,8 cm", que es el número correcto.` },
+      { question: `¿Las repisas de SAJO vienen pintadas?`, answer: `Depende de cuál. El [combo negro](/producto/repisa-flotante-madera-negra-sajo-40-60-80cm-combo-con-perchero-40cm-mla36299841) viene teñido de fábrica y con las perforaciones hechas. El [kit natural](/producto/kit-3-repisas-1-perchero-biblioteca-especiero-madera-colores-color-natural-mla27777242) se envía sin teñir, y la propia web de SAJO recomienda lijar finamente y barnizar. Ese dato no aparece en ningún campo de la ficha técnica de MercadoLibre.` },
+      { question: `¿Por qué hay tres kits casi idénticos a precios distintos?`, answer: `Porque comparten las specs medibles: 60x20, melamina de 18 mm, ménsula invisible y 10 kg declarados. Lo principal que cambia es el respaldo, y después el color, el manual y si hay un fabricante verificable detrás. El más caro de los tres tiene miles de opiniones; el más barato de los tres, decenas. No hay un dato técnico que explique la diferencia de precio, así que es un intercambio entre pagar menos y comprar con menos evidencia.` },
+    ],
+    internalLinks: [
+      { label: `Lámpara de pie: cuál comprar en Argentina`, href: `/guias/hogar-jardin/lampara-de-pie` },
       { label: `Mesa ratona: cuál comprar en Argentina`, href: `/guias/hogar-jardin/mesa-ratona` },
       { label: `Zapatero: cuál comprar en Argentina`, href: `/guias/hogar-jardin/zapatero` },
       { label: `Conservadora: cuál comprar en Argentina`, href: `/guias/hogar-jardin/conservadora` },
@@ -25414,6 +25565,11 @@ export function getDisplaySilo(g: Pick<Guide, "silo" | "category">): string {
 }
 
 export const guideCategories: Record<string, { name: string; description: string }> = {
+  "estanterias-flotantes": {
+    name: "Guía de Estanterías Flotantes",
+    description:
+      "Repisas de pared con ménsula invisible: cuánta profundidad necesitás, cuánto peso aguantan de verdad y qué mecha pide cada marca.",
+  },
   "lamparas-de-pie": {
     name: "Guía de Lámparas de Pie",
     description:
