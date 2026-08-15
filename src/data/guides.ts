@@ -24467,6 +24467,8 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { question: `¿Cuál es el zapatero más liviano y fácil de mover?`, answer: `El [Zapatero LBS](/producto/organizador-zapatero-lbs-zapatillas-botinero-estantes-desarmable-todo-negro-alum-mla65935388) de aluminio o el [Zapatero de Tela](/producto/zapatero-estante-organizador-de-tela-8-estantes-9-niveles-mlau3149919167) son los más livianos y fáciles de mover o guardar de esta comparativa.` },
     ],
     internalLinks: [
+      { label: "Mesa ratona: cuál comprar en Argentina", href: "/guias/hogar-jardin/mesa-ratona" },
+      { label: "Conservadora: cuál comprar en Argentina", href: "/guias/hogar-jardin/conservadora" },
       { label: "Ver toda la categoría Hogar y Jardín", href: "/categoria/hogar-jardin" },
     ],
     internalLinksTitle: "Más de hogar y jardín",
@@ -24484,7 +24486,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     ogDescription: `De la 1043 de 2.800 litros a la RD14 de 14.000: tres piletas Pelopincho comparadas por medidas reales, capacidad y precio de MercadoLibre, con las contras de cada una.`,
     ogImage: `https://http2.mlstatic.com/D_NQ_NP_908132-MLA99531708570_122025-O.webp`,
     h1: `Pileta Pelopincho: cuál comprar en Argentina y qué medida conviene [2026]`,
-    directAnswer: `Para la mayoría de los patios conviene la **[Pelopincho 1055](/producto/pileta-estructural-pelopincho-1055-rectangular-4500l-lona-azul-2x3m-con-valvula-mla8961672)** (alrededor de {{precio:MLA8961672:k}}): 3 x 2 metros y 75 cm de alto, la medida donde un adulto se sienta y todavía queda patio libre. Si el espacio es más angosto, la [Pelopincho 1043](/producto/pelopincho-1043-pileta-estructural-rectangular-con-capacidad-de-2800-litros-1-6x-mla8961674) de 2,7 x 1,6 m. Si buscás profundidad para nadar, la [RD14](/producto/pileta-pelopincho-rd14-circular-14000l-acero-inoxidable-pvc-estructura-reforzada-mla21205956) de 14.000 litros. Y si son solo nenes chicos, una inflable de aros resuelve el verano sin ocupar el patio entero: las comparamos en la [guía de piletas inflables para chicos](/guias/pileta-inflable-ninos).`,
+    directAnswer: `Para la mayoría de los patios conviene la **[Pelopincho 1055](/producto/pileta-estructural-pelopincho-1055-rectangular-4500l-lona-azul-2x3m-con-valvula-mla8961672)** (alrededor de {{precio:MLA8961672:k}}): 3 x 2 metros y 75 cm de alto, la medida donde un adulto se sienta y todavía queda patio libre. Si el espacio es más angosto, la [Pelopincho 1043](/producto/pelopincho-1043-pileta-estructural-rectangular-con-capacidad-de-2800-litros-1-6x-mla8961674) de 2,7 x 1,6 m. Si buscás profundidad para nadar, la [RD14](/producto/pileta-pelopincho-rd14-circular-14000l-acero-inoxidable-pvc-estructura-reforzada-mla21205956) de 14.000 litros. Y si son solo nenes chicos, una inflable de aros resuelve el verano sin ocupar el patio entero: las comparamos en la [guía de piletas inflables para chicos](/guias/hogar-jardin/pileta-inflable-ninos).`,
     publishedDate: "2026-08-14",
     updatedDate: "2026-08-14",
     sitemapLastmod: "2026-08-14",
@@ -24503,7 +24505,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     sections: [
       { type: "image", src: "/images/heros/pileta-pelopincho.webp", alt: `Pileta de lona armada en el patio de una casa argentina, con reposeras al lado y la medianera de ladrillo de fondo`, imageSize: "hero" },
 
-      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para el patio promedio, la **[Pelopincho 1055](/producto/pileta-estructural-pelopincho-1055-rectangular-4500l-lona-azul-2x3m-con-valvula-mla8961672)**: 3 x 2 metros, 75 cm de alto y válvula de desagüe. Si el espacio es angosto, la [1043](/producto/pelopincho-1043-pileta-estructural-rectangular-con-capacidad-de-2800-litros-1-6x-mla8961674). Si querés profundidad real, la [RD14](/producto/pileta-pelopincho-rd14-circular-14000l-acero-inoxidable-pvc-estructura-reforzada-mla21205956) de 14.000 litros. Si son solo nenes chicos, con una inflable de aros alcanza y sobra: están comparadas en la [guía de piletas inflables para chicos](/guias/pileta-inflable-ninos).` },
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para el patio promedio, la **[Pelopincho 1055](/producto/pileta-estructural-pelopincho-1055-rectangular-4500l-lona-azul-2x3m-con-valvula-mla8961672)**: 3 x 2 metros, 75 cm de alto y válvula de desagüe. Si el espacio es angosto, la [1043](/producto/pelopincho-1043-pileta-estructural-rectangular-con-capacidad-de-2800-litros-1-6x-mla8961674). Si querés profundidad real, la [RD14](/producto/pileta-pelopincho-rd14-circular-14000l-acero-inoxidable-pvc-estructura-reforzada-mla21205956) de 14.000 litros. Si son solo nenes chicos, con una inflable de aros alcanza y sobra: están comparadas en la [guía de piletas inflables para chicos](/guias/hogar-jardin/pileta-inflable-ninos).` },
 
       { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** tomamos piletas con publicación activa y precio en vivo en MercadoLibre Argentina y verificamos medidas, capacidad y precio contra cada publicación. Las ordenamos por lo que define la compra en este producto: los metros que ocupa armada, la profundidad y los litros que hay que llenar. Las calificaciones citadas son de compradores reales, y aclaramos cuándo una publicación no tiene ninguna o no declara stock disponible.` },
 
@@ -24511,7 +24513,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "p", content: `Una pileta estructural de lona se sostiene con un armazón de caños y aguanta desde 2.800 hasta 14.000 litros; una inflable se sostiene con aros de aire y rara vez pasa los 350. No son dos gamas del mismo producto, son dos productos distintos: la inflable es para que los chicos se refresquen, la estructural es para que se meta la familia.` },
       { type: "list", boxed: true, items: [
         `**Estructural de lona:** de 2.800 a 14.000 litros, de 65 cm a 1,3 m de alto. Entran adultos. Se arma una vez por temporada y queda.`,
-        `**Inflable de aros:** de 101 a 330 litros, de 25 a 35 cm de alto. Es para chicos. Se infla, se usa, se guarda en una bolsa. Si es lo que buscás, están comparadas en detalle en la [guía de piletas inflables para chicos](/guias/pileta-inflable-ninos).`,
+        `**Inflable de aros:** de 101 a 330 litros, de 25 a 35 cm de alto. Es para chicos. Se infla, se usa, se guarda en una bolsa. Si es lo que buscás, están comparadas en detalle en la [guía de piletas inflables para chicos](/guias/hogar-jardin/pileta-inflable-ninos).`,
         `**La bisagra son los litros:** llenar 14.000 litros no es lo mismo que llenar 300, ni en tiempo ni en agua.`,
       ] },
 
@@ -24550,7 +24552,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
 
       { type: "h2", title: `Si son solo los chicos: la alternativa inflable`, id: "inflables" },
       { type: "p", content: `Si nadie del grupo pasa los seis años, una estructural de lona es más pileta de la que hace falta: hay que armarla, llenarla con miles de litros y sostener el agua toda la temporada. Una inflable de aros va de 100 a 330 litros, se infla en minutos y se guarda en una bolsa cuando termina el verano.` },
-      { type: "p", content: `No es una Pelopincho más chica, es otra categoría de producto, y por eso la comparamos aparte. Las comparamos en la [guía de piletas inflables para chicos](/guias/pileta-inflable-ninos), con litros, diámetro y edad declarada de cada modelo.` },
+      { type: "p", content: `No es una Pelopincho más chica, es otra categoría de producto, y por eso la comparamos aparte. Las comparamos en la [guía de piletas inflables para chicos](/guias/hogar-jardin/pileta-inflable-ninos), con litros, diámetro y edad declarada de cada modelo.` },
 
       { type: "h2", title: `Cómo elegir la medida de tu pileta`, id: "como-elegir" },
       { type: "h3", title: `Medí el patio antes que el precio` },
@@ -24564,7 +24566,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
 
       { type: "h2", title: `Cuánto sale una pileta en Argentina`, id: "precios" },
       { type: "list", items: [
-        `**Desde {{precio:MLA15550811:k}}:** inflables de aros para chicos, de 100 a 330 litros. Otra categoría, [comparada aparte](/guias/pileta-inflable-ninos).`,
+        `**Desde {{precio:MLA15550811:k}}:** inflables de aros para chicos, de 100 a 330 litros. Otra categoría, [comparada aparte](/guias/hogar-jardin/pileta-inflable-ninos).`,
         `**Alrededor de {{precio:MLA8961674:k}} a {{precio:MLA8961672:k}}:** estructurales de lona de 2.800 a 4.500 litros. El rango donde compra la mayoría.`,
         `**Alrededor de {{precio:MLA21205956:k}}:** estructurales grandes de 14.000 litros con armazón reforzado y profundidad para nadar.`,
       ] },
@@ -24579,7 +24581,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       ] },
       { type: "p", content: `Ninguna de las piletas de esta comparativa incluye bomba ni kit de limpieza: se compran aparte. Es un costo que conviene sumar antes de decidir la medida, porque cuanto más grande la pileta, más insumo consume por temporada.` },
 
-      { type: "verdict", title: `El veredicto`, content: `Para el patio de casa promedio, la **[Pelopincho 1055](/producto/pileta-estructural-pelopincho-1055-rectangular-4500l-lona-azul-2x3m-con-valvula-mla8961672)**: sus 3 x 2 metros y 75 cm de alto son el punto donde un adulto se sienta cómodo y todavía queda patio para caminar, con válvula de desagüe y reseñas reales que confirman que se arma sin ayuda. Si el espacio es angosto, la [1043](/producto/pelopincho-1043-pileta-estructural-rectangular-con-capacidad-de-2800-litros-1-6x-mla8961674), sabiendo que todavía no tiene reseñas que la respalden. Si querés profundidad real para nadar y tenés el espacio nivelado, la [RD14](/producto/pileta-pelopincho-rd14-circular-14000l-acero-inoxidable-pvc-estructura-reforzada-mla21205956). Y si son solo nenes chicos, no gastes de más: con una inflable de aros alcanza, resuelve el verano y se guarda en un cajón. Están comparadas en la [guía de piletas inflables para chicos](/guias/pileta-inflable-ninos).` },
+      { type: "verdict", title: `El veredicto`, content: `Para el patio de casa promedio, la **[Pelopincho 1055](/producto/pileta-estructural-pelopincho-1055-rectangular-4500l-lona-azul-2x3m-con-valvula-mla8961672)**: sus 3 x 2 metros y 75 cm de alto son el punto donde un adulto se sienta cómodo y todavía queda patio para caminar, con válvula de desagüe y reseñas reales que confirman que se arma sin ayuda. Si el espacio es angosto, la [1043](/producto/pelopincho-1043-pileta-estructural-rectangular-con-capacidad-de-2800-litros-1-6x-mla8961674), sabiendo que todavía no tiene reseñas que la respalden. Si querés profundidad real para nadar y tenés el espacio nivelado, la [RD14](/producto/pileta-pelopincho-rd14-circular-14000l-acero-inoxidable-pvc-estructura-reforzada-mla21205956). Y si son solo nenes chicos, no gastes de más: con una inflable de aros alcanza, resuelve el verano y se guarda en un cajón. Están comparadas en la [guía de piletas inflables para chicos](/guias/hogar-jardin/pileta-inflable-ninos).` },
 
       { type: "h2", title: `Preguntas frecuentes`, id: "faq" },
     ],
@@ -24587,7 +24589,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
 
       { question: `¿Qué medida de pileta Pelopincho conviene para un patio normal?`, answer: `La [Pelopincho 1055](/producto/pileta-estructural-pelopincho-1055-rectangular-4500l-lona-azul-2x3m-con-valvula-mla8961672), de 3 x 2 metros y 75 cm de alto. Es la medida donde un adulto se sienta cómodo y todavía queda patio libre alrededor. Como regla práctica, calculá un metro extra de cada lado sobre la medida de la pileta para poder armarla y caminar.` },
       { question: `¿Qué necesito para mantener el agua de la pileta?`, answer: `Cloro para evitar que se ponga verde, alguicida para atacar las algas y un cobertor para taparla cuando no se usa. De 4.500 litros para arriba conviene sumar una bomba filtrante, que mueve el agua para que el cloro llegue a todos lados. Ninguna de las piletas de esta comparativa incluye bomba ni kit de limpieza: se compran aparte.` },
-      { question: `¿Cuál es la diferencia entre una pileta estructural y una inflable?`, answer: `La estructural se sostiene con un armazón de caños y va de 2.800 a 14.000 litros, con 65 cm a 1,3 m de alto: entran adultos. La inflable se sostiene con aros de aire, rara vez pasa los 350 litros y llega a 35 cm de alto: es para chicos. No son dos gamas del mismo producto. Las inflables las comparamos en la [guía de piletas inflables para chicos](/guias/pileta-inflable-ninos).` },
+      { question: `¿Cuál es la diferencia entre una pileta estructural y una inflable?`, answer: `La estructural se sostiene con un armazón de caños y va de 2.800 a 14.000 litros, con 65 cm a 1,3 m de alto: entran adultos. La inflable se sostiene con aros de aire, rara vez pasa los 350 litros y llega a 35 cm de alto: es para chicos. No son dos gamas del mismo producto. Las inflables las comparamos en la [guía de piletas inflables para chicos](/guias/hogar-jardin/pileta-inflable-ninos).` },
       { question: `¿Cuánto sale una pileta de lona en Argentina?`, answer: `Las inflables para chicos arrancan en {{precio:MLA15550811:k}}. Las estructurales de lona de 2.800 a 4.500 litros van de {{precio:MLA8961674:k}} a {{precio:MLA8961672:k}}, que es donde compra la mayoría. Las grandes de 14.000 litros superan {{precio:MLA21205956:k}}.` },
       { question: `¿Se puede armar una pileta Pelopincho solo?`, answer: `Sí en los modelos medianos. Varias opiniones verificadas de la [1055](/producto/pileta-estructural-pelopincho-1055-rectangular-4500l-lona-azul-2x3m-con-valvula-mla8961672) mencionan haberla armado sin ayuda de otra persona. En la [RD14](/producto/pileta-pelopincho-rd14-circular-14000l-acero-inoxidable-pvc-estructura-reforzada-mla21205956) de 14.000 litros la cosa cambia: los compradores coinciden en que el armado da trabajo real y conviene ser dos.` },
       { question: `¿Qué necesita el piso donde va la pileta?`, answer: `Una superficie plana, sin desniveles y sin elementos punzantes como piedritas o ramas. Sobre césped conviene poner un polietileno grueso debajo como protección. Un desnivel mínimo se vuelve un problema visible cuando la pileta está llena.` },
@@ -24598,9 +24600,9 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { question: `¿Cómo se guarda la pileta en invierno?`, answer: `Vaciada, seca y limpia. La lona tiene que estar completamente seca antes de plegarla o aparecen hongos y olor para la temporada siguiente. Conviene guardarla en un lugar donde no la aplasten y lejos de roedores, que son la causa más común de pinchaduras que aparecen recién al armarla de nuevo.` },
     ],
     internalLinks: [
-      { label: `Pileta inflable para chicos: cuál comprar`, href: `/guias/pileta-inflable-ninos` },
-      { label: `Zapatero: cuál comprar en Argentina`, href: `/guias/zapatero` },
-      { label: `Ventilador de pie: cuál comprar`, href: `/guias/ventilador-de-pie` },
+      { label: `Pileta inflable para chicos: cuál comprar`, href: `/guias/hogar-jardin/pileta-inflable-ninos` },
+      { label: `Zapatero: cuál comprar en Argentina`, href: `/guias/hogar-jardin/zapatero` },
+      { label: `Ventilador de pie: cuál comprar`, href: `/guias/climatizacion/ventilador-de-pie` },
     ],
   },
   // Guía nueva pileta-inflable-ninos — spoke del silo de verano (hija de pileta-pelopincho)
@@ -24629,7 +24631,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     ],
     intro: [
       `Una pileta inflable se compra por dos números que casi nunca están en el título: **los litros** y **la edad recomendada**. La diferencia entre 101 y 330 litros parece un detalle y es la diferencia entre que entre un chico o entren dos, y entre que le llegue a los tobillos o a la cintura.`,
-      `Comparamos tres piletas inflables de 3 aros con stock real en MercadoLibre Argentina. Ninguna es cara y las tres cumplen, pero sirven para edades distintas. Si buscás algo más grande y para toda la familia, eso ya es otra categoría: está en la [guía de piletas Pelopincho](/guias/pileta-pelopincho).`,
+      `Comparamos tres piletas inflables de 3 aros con stock real en MercadoLibre Argentina. Ninguna es cara y las tres cumplen, pero sirven para edades distintas. Si buscás algo más grande y para toda la familia, eso ya es otra categoría: está en la [guía de piletas Pelopincho](/guias/hogar-jardin/pileta-pelopincho).`,
     ],
     sections: [
       { type: "image", src: "/images/heros/pileta-inflable-ninos.webp", alt: `Pileta inflable de tres aros para chicos, llena de agua sobre las baldosas de un patio, con una toalla y un balde al lado`, imageSize: "hero" },
@@ -24681,7 +24683,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
         `**Techo o parasol.** Las piletas con techito para proteger del sol son otra categoría, pensada para bebés de menos de 2 años. Ninguna de estas tres lo trae.`,
         `**Válvula de desagüe.** Se vacían dándolas vuelta. Con 100 a 330 litros es incómodo pero se hace; en una pileta de lona de 4.500 litros sería imposible, y por eso ahí sí es un requisito.`,
       ] },
-      { type: "p", content: `Si el que la va a usar tiene menos de 2 años, ninguna de estas es la indicada: conviene buscar específicamente un modelo con techo. Y si buscás algo donde entren adultos, eso ya es una pileta de lona estructural, no una inflable: está en la [guía de piletas Pelopincho](/guias/pileta-pelopincho).` },
+      { type: "p", content: `Si el que la va a usar tiene menos de 2 años, ninguna de estas es la indicada: conviene buscar específicamente un modelo con techo. Y si buscás algo donde entren adultos, eso ya es una pileta de lona estructural, no una inflable: está en la [guía de piletas Pelopincho](/guias/hogar-jardin/pileta-pelopincho).` },
 
       { type: "verdict", title: `El veredicto`, content: `Para la mayoría, la **[Bestway 51026](/producto/pileta-para-ninos-infantil-inflable-3-aros-bestway-51026-mla828733034)**: 282 litros, 1,52 metros y kit de reparación incluido, con la salvedad de que todavía no tiene reseñas publicadas. Si querés la que más agua lleva, la [Intex de 1,47 m](/producto/alberca-inflable-intex-redonda-para-ninos-de-1-47-m-con-3-aros-mla20664028) con 330 litros, sabiendo que sus reseñas son de México. Y si el espacio es un balcón o querés gastar lo mínimo, la [Bestway 51024](/producto/pileta-inflable-3-aros-largo-1-02m-bestway-51024-101-l-verde-mla15550811), que además es la que cubre más años.` },
 
@@ -24697,8 +24699,8 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { question: `¿Qué conviene poner debajo para que no se pinche?`, answer: `Una lona o cualquier cosa que separe el vinilo del piso. Es lo que recomienda una opinión verificada de la [Bestway 51024](/producto/pileta-inflable-3-aros-largo-1-02m-bestway-51024-101-l-verde-mla15550811), que describe la base como fina: apoyarla sobre una superficie sin imperfecciones evita la mayoría de las pinchaduras. Las dos Bestway traen kit de reparación de fábrica; la Intex no lo declara.` },
     ],
     internalLinks: [
-      { label: `Pileta Pelopincho: cuál comprar en Argentina`, href: `/guias/pileta-pelopincho` },
-      { label: `Zapatero: cuál comprar en Argentina`, href: `/guias/zapatero` },
+      { label: `Pileta Pelopincho: cuál comprar en Argentina`, href: `/guias/hogar-jardin/pileta-pelopincho` },
+      { label: `Zapatero: cuál comprar en Argentina`, href: `/guias/hogar-jardin/zapatero` },
     ],
   },
   // Guía nueva colchon-inflable-2-plazas — silo de verano (camping / visitas)
@@ -24781,7 +24783,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "h3", title: `Si la idea es usarlo como cama todos los días` },
       { type: "p", content: `Ninguna de las tres fichas declara uso diario ni permanente, y conviene tomarlo como lo que es: un colchón de aire para uso eventual. La opinión verificada más larga que encontramos habla de tenerlo inflado casi un mes, no de dormir encima todo el año. Un inflable pierde algo de aire con el uso y hay que reponerlo cada tanto, así que para una cama de todos los días la comparación honesta no es contra otro inflable sino contra un colchón común.` },
       { type: "h3", title: `Si lo vas a usar en la pileta` },
-      { type: "p", content: `No: estos son colchones de dormir, no inflables de agua. Si buscás algo para el agua, mirá la [guía de piletas Pelopincho](/guias/pileta-pelopincho) o las [inflables para chicos](/guias/pileta-inflable-ninos).` },
+      { type: "p", content: `No: estos son colchones de dormir, no inflables de agua. Si buscás algo para el agua, mirá la [guía de piletas Pelopincho](/guias/hogar-jardin/pileta-pelopincho) o las [inflables para chicos](/guias/hogar-jardin/pileta-inflable-ninos).` },
 
       { type: "verdict", title: `El veredicto`, content: `Para la mayoría, el **[Intex Dura Beam 64762](/producto/colchon-inflable-intex-2-plazas-dura-beam-standard-con-bomba-integrada-mla22705331)**: 25 cm de alto, bomba incorporada y la marca con más recorrido del rubro. Si el uso es camping o el presupuesto manda, el [Sufin](/producto/colchon-inflable-de-2-plazas-con-inflador-incorporado-y-almohadas-mla58365620) sale bastante menos y pesa la mitad, con la salvedad de que su ficha tiene las medidas mal cargadas. El [Suono](/producto/colchon-inflable-2-plazas-con-almohadas-inflador-portatil-azul-mla28995489) solo si lo encontrás con descuento fuerte: a precio de lista es el más caro sin ser el más alto.` },
 
@@ -24798,8 +24800,8 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { question: `¿Se desinflan solos?`, answer: `Es la duda más común y depende del modelo y del cuidado. Una opinión verificada del [Suono](/producto/colchon-inflable-2-plazas-con-almohadas-inflador-portatil-azul-mla28995489) menciona haberlo tenido inflado casi un mes sin problemas. Como toda superficie de PVC, conviene apoyarlo sobre una superficie sin elementos punzantes.` },
     ],
     internalLinks: [
-      { label: `Pileta Pelopincho: cuál comprar en Argentina`, href: `/guias/pileta-pelopincho` },
-      { label: `Pileta inflable para chicos: cuál comprar`, href: `/guias/pileta-inflable-ninos` },
+      { label: `Pileta Pelopincho: cuál comprar en Argentina`, href: `/guias/hogar-jardin/pileta-pelopincho` },
+      { label: `Pileta inflable para chicos: cuál comprar`, href: `/guias/hogar-jardin/pileta-inflable-ninos` },
     ],
   },
   // Guía nueva sombrilla-de-playa — silo de verano
@@ -24910,9 +24912,280 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { question: `¿Cómo evito que se vuele la sombrilla?`, answer: `Enterrá el poste al menos 30 centímetros en arena húmeda, no en la seca de la superficie. Inclinala contra el viento en vez de dejarla vertical, y cerrala siempre que te vayas del lugar, aunque sea un rato: la mayoría de las roturas pasan con la sombrilla abierta y sin nadie cerca.` },
     ],
     internalLinks: [
-      { label: `Pileta Pelopincho: cuál comprar en Argentina`, href: `/guias/pileta-pelopincho` },
-      { label: `Colchón inflable 2 plazas: cuál comprar`, href: `/guias/colchon-inflable-2-plazas` },
+      { label: `Pileta Pelopincho: cuál comprar en Argentina`, href: `/guias/hogar-jardin/pileta-pelopincho` },
+      { label: `Colchón inflable 2 plazas: cuál comprar`, href: `/guias/hogar-jardin/colchon-inflable-2-plazas` },
     ],
+  },
+  // ─────────────────────────────────────────────────────────
+  // PILAR conservadora — silo hogar-jardin, diseño best-of (ver docs/guias.md)
+  // Specs verificadas contra Termolar, Mor y Coleman: la ficha de ML falló en 4 de 6.
+  // Ver docs/sourcing-conservadoras-2026-08-15.md
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "conservadora",
+    category: "conservadoras",
+    silo: "hogar-jardin",
+    pillar: true,
+    title: `Conservadora: cuál comprar en Argentina [2026]`,
+    seoTitle: `Conservadora: Cuál Comprar en Argentina [2026]`,
+    metaDescription: `Comparamos 5 conservadoras reales de MercadoLibre: Termolar 20 y 32 L, Mor 12 y 75 L y la Vöhler eléctrica con ruedas. Cuántas latas entran en cada una y contras honestas.`,
+    ogTitle: `Conservadora: cuál comprar en Argentina`,
+    ogDescription: `De 12 a 75 litros: 5 conservadoras comparadas por capacidad en latas, precio y contras de reseñas verdaderas, con los datos de Termolar y Mor cruzados contra cada fabricante.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_675913-MLA99951104565_112025-O.webp`,
+    h1: `Conservadora: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene la **[Termolar SUV de 20 litros](/producto/heladera-conservadora-suv-termolar-suv-58-56805-de-20l-gris-playa-picnic-mla22505559)** (alrededor de {{precio:MLA22505559:k}}): es la más vendida de la categoría y entran 26 latas o 2 botellas de 2 litros paradas. Si el uso es asado o familia, la **[Termolar de 32 litros](/producto/heladera-conservadora-termica-termolar-suv-32-litros-gris-color-gris-con-naranja-mla22352427)** (45 latas). Para la máxima capacidad, la **[Mor de 75 litros](/producto/conservadora-termica-mor-75l-color-azul-mla28583015)** (110 latas). Y si querés dejar de comprar hielo, la **[Vöhler eléctrica con ruedas](/producto/conservadora-vohler-33l-frio-calor-12v-220v-con-ruedas-negra-mla61602437)**, que enfría enchufada a 12 V en el auto o a 220 V en casa.`,
+    publishedDate: "2026-10-05",
+    updatedDate: "2026-10-05",
+    hasDisclosure: true,
+    readingTime: 9,
+    standfirst: `Una conservadora va de {{precio:MLA22352425:k}} (la de 12 litros) a {{precio:MLA61602437:k}} (la única eléctrica con ruedas). Comparamos 5 conservadoras reales de MercadoLibre Argentina por precio, capacidad en latas y contras de reseñas verdaderas: las capacidades de las Termolar y las Mor están cruzadas contra la web de cada fabricante, dentro de nuestro silo de [Hogar y Jardín](/categoria/hogar-jardin).`,
+    quickPicks: [
+      { productMlaId: "MLA22505559", label: "La más elegida", labelColor: "green", tagline: "Termolar SUV 20 L: la más vendida de la categoría, 26 latas y 2 botellas de 2 litros paradas" },
+      { productMlaId: "MLA22352427", label: "Mejor para asado o familia", labelColor: "purple", tagline: "Termolar SUV 32 L: 45 latas y abertura deslizante para no perder el frío" },
+      { productMlaId: "MLA28583015", label: "Mayor capacidad", labelColor: "blue", tagline: "Mor 75 L: 110 latas, la alternativa nacional al segmento importado" },
+      { productMlaId: "MLA61602437", label: "Única con ruedas", labelColor: "slate", tagline: "Vöhler 33 L: eléctrica, enfría sin hielo a 12 V en el auto o 220 V en casa" },
+    ],
+    intro: [
+      `Una **conservadora** es la caja térmica que mantiene fría la bebida y la comida fuera de casa: playa, camping, asado, ruta o trabajo en la calle. En Argentina también se la llama cooler o heladerita, y las diferencias reales entre modelos se reducen a tres cosas: cuántos litros entran de verdad, cuánto aguanta el frío y si la vas a poder mover cargada.`,
+      `Comparamos 5 conservadoras reales de MercadoLibre Argentina, de 12 a 75 litros. Un aviso de entrada que vale para toda la categoría: **las capacidades que publica MercadoLibre están mal seguido**. Al cruzar cada ficha contra la web del fabricante encontramos errores en cuatro de seis publicaciones que miramos, incluida una que declaraba casi el doble de litros de los reales. Las capacidades de las Termolar y las Mor de esta guía salen de las webs oficiales de esas marcas, no del título del vendedor. La Vöhler es la excepción: no publica ficha técnica propia accesible, así que ahí usamos la de MercadoLibre, y en la tabla comparativa aclaramos cuál de sus datos no cierra.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_675913-MLA99951104565_112025-O.webp", alt: `Conservadora Termolar SUV de 32 litros, una de las cinco comparadas en esta guía`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la **mayoría**, la **[Termolar SUV de 20 litros](/producto/heladera-conservadora-suv-termolar-suv-58-56805-de-20l-gris-playa-picnic-mla22505559)**: la más vendida de la categoría. Para **asado o familia**, la **[Termolar de 32 litros](/producto/heladera-conservadora-termica-termolar-suv-32-litros-gris-color-gris-con-naranja-mla22352427)**. Para la **máxima capacidad**, la **[Mor de 75 litros](/producto/conservadora-termica-mor-75l-color-azul-mla28583015)**. Si querés **dejar de comprar hielo**, la **[Vöhler eléctrica](/producto/conservadora-vohler-33l-frio-calor-12v-220v-con-ruedas-negra-mla61602437)**. Y si son dos y es por un día, alcanza la **[Mor de 12 litros](/producto/conservadora-termica-camping-mor-de-12-litros-color-rojo-mla22352425)**.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos las conservadoras con más ventas reales en MercadoLibre Argentina y verificamos cada publicación en vivo. Las capacidades, medidas y materiales los cruzamos **contra las webs oficiales de Termolar y Mor**, porque la ficha técnica de MercadoLibre tenía errores en cuatro de las seis publicaciones que revisamos. Dejamos afuera el segmento importado de compra internacional, que en estos tamaños cuesta varias veces más y llega sin calificaciones locales. Los precios se verifican automáticamente contra MercadoLibre.` },
+
+      { type: "h2", title: `Qué mirar antes de comprar una conservadora`, id: "que-mirar" },
+      { type: "p", content: `**Los litros que dice la publicación pueden no ser los reales.** Es el problema más serio de esta categoría y no es menor. Al verificar contra los fabricantes encontramos una conservadora Coleman cuya ficha de MercadoLibre declaraba 45 litros cuando el fabricante especifica 26,5, y una [Termolar de 32 litros](/producto/heladera-conservadora-termica-termolar-suv-32-litros-gris-color-gris-con-naranja-mla22352427) que tenía cargados los datos de capacidad del [modelo de 20](/producto/heladera-conservadora-suv-termolar-suv-58-56805-de-20l-gris-playa-picnic-mla22505559). Antes de comparar dos modelos por litros, buscá el número en la web de la marca.` },
+      { type: "p", content: `**Pensá en latas y botellas, no en litros.** Los litros son un volumen teórico que incluye el espacio que va a ocupar el hielo. El dato útil es cuántas latas o botellas entran: la [Termolar de 20 litros](/producto/heladera-conservadora-suv-termolar-suv-58-56805-de-20l-gris-playa-picnic-mla22505559) toma 26 latas de 350 ml y 2 botellas de 2 litros paradas; la [de 32](/producto/heladera-conservadora-termica-termolar-suv-32-litros-gris-color-gris-con-naranja-mla22352427) llega a 45 latas y 6 botellas.` },
+      { type: "p", content: `**Cómo la vas a mover cargada.** Es lo que más se subestima. Una conservadora de 32 litros llena de hielo y bebida pesa mucho más de lo que sugieren sus kilos vacía, y de las cinco de esta comparativa **solo una tiene ruedas**. Si el trayecto desde el auto hasta el lugar es largo, ese detalle pesa más que diez litros de diferencia.` },
+      { type: "p", content: `**Con hielo o enchufada.** Las conservadoras pasivas dependen del hielo y tienen un límite de horas. Las eléctricas como la [Vöhler](/producto/conservadora-vohler-33l-frio-calor-12v-220v-con-ruedas-negra-mla61602437) enfrían mientras haya corriente, sin límite, pero no sirven de nada donde no hay dónde enchufarlas.` },
+      { type: "callout", calloutVariant: "note", calloutTitle: "Sobre las calificaciones de estas publicaciones", content: `MercadoLibre agrupa en una misma ficha de catálogo las opiniones de varios países de la región, no solo de Argentina. Por eso algunos de estos productos muestran decenas de miles de calificaciones, un volumen que el mercado argentino solo no explica. Las notas y los conteos que citamos son reales, pero **no son todos de compradores argentinos**, y preferimos decirlo antes que presentarlos como si lo fueran.` },
+
+      { type: "h2", title: `Las mejores conservadoras de 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Termolar SUV 20 L — la más elegida` },
+      { type: "product-card", productMlaId: "MLA22505559", label: "La más elegida", labelColor: "green", ranking: 1, description: `La conservadora más vendida de la categoría en MercadoLibre. 20 litros para 26 latas de 350 ml o 2 botellas de 2 litros paradas, con 24 horas de conservación declaradas por Termolar.` },
+      { type: "p", content: `La [Termolar SUV de 20 litros](/producto/heladera-conservadora-suv-termolar-suv-58-56805-de-20l-gris-playa-picnic-mla22505559) es la más vendida de la categoría y la que más calificaciones acumula de esta comparativa: **{{rating:MLA22505559}} estrellas en {{reviews:MLA22505559}} opiniones**, a alrededor de {{precio:MLA22505559:k}}. Entran 26 latas de 350 ml o 2 botellas de 2 litros paradas, algo que [la de 12 litros](/producto/conservadora-termica-camping-mor-de-12-litros-color-rojo-mla22352425) no permite. Termolar declara 12 horas de conservación sin hielo y 24 con hielo.` },
+      { type: "p", content: `Los detalles suman: dos posavasos en la tapa, un estuche con alojamiento para el celular y un sistema de circulación de aire en la base. Con 1,8 kg vacía sigue siendo liviana para su tamaño.` },
+      { type: "p", content: `Lo honesto: la manija es la queja que más se repite. No se rompe, pero se siente insegura con la conservadora cargada. Y para cuatro personas se queda chica, algo que aclara hasta quien la califica bien.` },
+      { type: "pull-quote", content: `"Las asas son firmes, pero con el peso se vuelven un poco dudosas… fuera de eso, excelente material, útil. Ideal para parejas que llevan pocas cosas, ¡para una familia ya no lo recomiendo!"`, attribution: `Comprador verificado en MercadoLibre, calificación 4/5` },
+
+      { type: "h3", title: `2. Termolar SUV 32 L — mejor para asado o familia` },
+      { type: "product-card", productMlaId: "MLA22352427", label: "Mejor para asado o familia", labelColor: "purple", ranking: 2, description: `45 latas de 350 ml o 6 botellas de 2 litros, con una abertura deslizante en la tapa que deja sacar una bebida sin perder el frío acumulado.` },
+      { type: "p", content: `La [Termolar de 32 litros](/producto/heladera-conservadora-termica-termolar-suv-32-litros-gris-color-gris-con-naranja-mla22352427) es el salto de tamaño que la mayoría termina necesitando, a alrededor de {{precio:MLA22352427:k}}. Según Termolar entran **45 latas de 350 ml o 6 botellas PET de 2 litros**, contra las 26 latas y 2 botellas de [la de 20](/producto/heladera-conservadora-suv-termolar-suv-58-56805-de-20l-gris-playa-picnic-mla22505559). La abertura deslizante de la tapa es el detalle que más se agradece en uso, porque podés sacar una lata sin abrir todo y perder el frío que juntaste.` },
+      { type: "p", content: `Lo honesto: no tiene ruedas, y a 32 litros cargada ya se extrañan. Y hay algo importante que conviene saber antes de comparar: **la ficha técnica de MercadoLibre de esta publicación tiene los números equivocados**, le atribuye 26 latas y 4 botellas, que son exactamente los datos del [modelo de 20 litros](/producto/heladera-conservadora-suv-termolar-suv-58-56805-de-20l-gris-playa-picnic-mla22505559). Si te guiabas por esa ficha, esta conservadora parecía apenas más grande, cuando en realidad entran 19 latas más y el triple de botellas de 2 litros.` },
+      { type: "pull-quote", content: `"Prácticamente es la mejor conservadora que vas a encontrar. Excelente calidad, fácil de llevar a un asado, de viaje o a la playa. Encima tiene para dejar la cerveza, un compartimiento para el celular."`, attribution: `Comprador verificado en MercadoLibre, calificación 5/5` },
+
+      { type: "h3", title: `3. Mor 75 L — mayor capacidad` },
+      { type: "product-card", productMlaId: "MLA28583015", label: "Mayor capacidad", labelColor: "blue", ranking: 3, description: `110 latas de 350 ml o 15 botellas de 2 litros. La opción nacional para el tamaño grande, donde el resto del mercado es importación.` },
+      { type: "p", content: `La [Mor de 75 litros](/producto/conservadora-termica-mor-75l-color-azul-mla28583015) es la de mayor capacidad de esta comparativa, a alrededor de {{precio:MLA28583015:k}}: **110 latas de 350 ml o 15 botellas PET de 2 litros**, con {{rating:MLA28583015}} estrellas en {{reviews:MLA28583015}} opiniones.` },
+      { type: "p", content: `Resuelve un problema real del mercado argentino. Cuando buscás una conservadora de 70 litros o más en MercadoLibre, lo que aparece arriba es casi todo compra internacional: marcas importadas a precios varias veces más altos, con demora y sin una sola calificación local. Esta es nacional, se consigue ya y tiene respaldo real de opiniones.` },
+      { type: "p", content: `Lo honesto: no trae tapón de drenaje, y en 75 litros eso se nota bastante. Tampoco tiene ruedas, así que cargada se mueve entre dos personas.` },
+      { type: "pull-quote", content: `"Debería tener un tapón en la parte inferior, para drenar el agua sin tener que sacar todo para vaciarla."`, attribution: `Comprador verificado en MercadoLibre, calificación 4/5` },
+
+      { type: "h3", title: `4. Vöhler 33 L — la única con ruedas` },
+      { type: "product-card", productMlaId: "MLA61602437", label: "Única con ruedas", labelColor: "slate", ranking: 4, description: `Eléctrica de 12 V y 220 V, con frío y calor. No depende del hielo y es la única de esta comparativa que se arrastra en vez de cargarse.` },
+      { type: "p", content: `La [Vöhler de 33 litros](/producto/conservadora-vohler-33l-frio-calor-12v-220v-con-ruedas-negra-mla61602437) no compite por litros: compite por no depender del hielo. Enchufada a 12 V funciona en el auto o el camión, y a 220 V en la casa, con función de frío y de calor. Es también **la única con ruedas** de esta comparativa. Sale alrededor de {{precio:MLA61602437:k}}.` },
+      { type: "p", content: `Es además la única de las cinco cuyas opiniones son inequívocamente argentinas, cosa que se nota apenas se leen. Una compradora la resume así: "es algo armatoste, pero para un flia de camping re va". Otra cuenta que su marido la lleva en el camión.` },
+      { type: "p", content: `Lo honesto: tarda un rato en enfriar, así que conviene enchufarla con anticipación en vez de cargarla diez minutos antes de salir. Es voluminosa para su capacidad, porque el sistema de refrigeración ocupa lugar. Y sin enchufe no enfría: para una tarde de playa sin auto cerca, una conservadora con hielo es mejor herramienta.` },
+      { type: "pull-quote", content: `"Muy buena. Tarda un rato pero mantiene bien el frío! la verdad superó mis expectativas."`, attribution: `Compradora verificada en MercadoLibre, calificación 4/5` },
+
+      { type: "h3", title: `5. Mor 12 L — la más chica` },
+      { type: "product-card", productMlaId: "MLA22352425", label: "La más chica", labelColor: "amber", ranking: 5, description: `12 litros y 1,13 kg vacía. Para dos personas y una salida de un día, o como segunda conservadora para el auto.` },
+      { type: "p", content: `La [Mor de 12 litros](/producto/conservadora-termica-camping-mor-de-12-litros-color-rojo-mla22352425) es la más chica y la más barata de esta comparativa, a alrededor de {{precio:MLA22352425:k}}. Entran 13 latas de 350 ml o 7 botellas de 600 ml, y pesa 1,13 kg vacía. Usa el mismo sistema de aislamiento que los modelos grandes de la marca, así que la diferencia es de tamaño, no de construcción.` },
+      { type: "p", content: `Lo honesto: la queja más repetida no es de calidad sino de expectativa, y es previsible. Doce litros son menos de lo que la gente imagina, y varias opiniones coinciden en que se quedaron cortos. Además la ficha de MercadoLibre la declara plegable, y no lo es: es una caja rígida de plástico inyectado.` },
+
+      { type: "h2", title: `Tabla comparativa: litros, latas y precio`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Litros`, `Latas de 350 ml`, `Ruedas`, `Ideal para`], rows: [
+        [`[Termolar SUV 20 L](/producto/heladera-conservadora-suv-termolar-suv-58-56805-de-20l-gris-playa-picnic-mla22505559)`, `{{precio:MLA22505559}}`, `20 L`, `26`, `No`, `La más elegida`],
+        [`[Termolar SUV 32 L](/producto/heladera-conservadora-termica-termolar-suv-32-litros-gris-color-gris-con-naranja-mla22352427)`, `{{precio:MLA22352427}}`, `32 L`, `45`, `No`, `Asado o familia`],
+        [`[Mor 75 L](/producto/conservadora-termica-mor-75l-color-azul-mla28583015)`, `{{precio:MLA28583015}}`, `75 L`, `110`, `No`, `Mayor capacidad`],
+        [`[Vöhler 33 L eléctrica](/producto/conservadora-vohler-33l-frio-calor-12v-220v-con-ruedas-negra-mla61602437)`, `{{precio:MLA61602437}}`, `33 L`, `No declarada`, `Sí`, `Auto, ruta y trabajo`],
+        [`[Mor 12 L](/producto/conservadora-termica-camping-mor-de-12-litros-color-rojo-mla22352425)`, `{{precio:MLA22352425}}`, `12 L`, `13`, `No`, `Dos personas, un día`],
+      ] },
+      { type: "p", content: `Los litros y las latas de esta tabla salen de las webs oficiales de Termolar y Mor, no de la ficha de MercadoLibre. En la Vöhler la capacidad en latas figura como no declarada porque el único número que publica es incompleto y no se corresponde con los 33 litros que la misma publicación declara: preferimos dejarlo vacío antes que copiar un dato que no cierra consigo mismo.` },
+
+      { type: "h2", title: `Cómo elegir tu conservadora`, id: "como-elegir" },
+      { type: "h3", title: `1. Según cuántos son y cuánto dura la salida` },
+      { type: "p", content: `Para dos personas y un día alcanza la [Mor de 12 litros](/producto/conservadora-termica-camping-mor-de-12-litros-color-rojo-mla22352425). Para dos o tres con botellas grandes, la [Termolar de 20](/producto/heladera-conservadora-suv-termolar-suv-58-56805-de-20l-gris-playa-picnic-mla22505559). Para un asado o una familia de cuatro, la [de 32](/producto/heladera-conservadora-termica-termolar-suv-32-litros-gris-color-gris-con-naranja-mla22352427). Y para camping de varios días o juntadas grandes, la [Mor de 75](/producto/conservadora-termica-mor-75l-color-azul-mla28583015).` },
+      { type: "h3", title: `2. Según cuánto la vas a tener que mover` },
+      { type: "p", content: `Si la bajás del auto y ya llegaste, cualquiera sirve. Si tenés que caminar cargándola, mirá el peso vacía y sumale el hielo: la [Vöhler](/producto/conservadora-vohler-33l-frio-calor-12v-220v-con-ruedas-negra-mla61602437) es la única que se arrastra en vez de levantarse.` },
+      { type: "h3", title: `3. Según si vas a tener dónde enchufarla` },
+      { type: "p", content: `Sin electricidad ni auto cerca, una conservadora eléctrica es un adorno pesado. Con enchufe disponible, deja de existir el límite de horas y de comprar hielo cada vez.` },
+
+      { type: "h2", title: `Cuánto cuesta una conservadora [2026]`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de {{precio:MLA22352425:k}}:** la más chica de la comparativa, la [Mor de 12 litros](/producto/conservadora-termica-camping-mor-de-12-litros-color-rojo-mla22352425).`,
+        `**Alrededor de {{precio:MLA22505559:k}}:** la más elegida, la [Termolar SUV de 20 litros](/producto/heladera-conservadora-suv-termolar-suv-58-56805-de-20l-gris-playa-picnic-mla22505559).`,
+        `**Alrededor de {{precio:MLA22352427:k}}:** el tamaño para asado o familia, la [Termolar de 32 litros](/producto/heladera-conservadora-termica-termolar-suv-32-litros-gris-color-gris-con-naranja-mla22352427).`,
+        `**Alrededor de {{precio:MLA28583015:k}}:** la mayor capacidad, la [Mor de 75 litros](/producto/conservadora-termica-mor-75l-color-azul-mla28583015).`,
+        `**Alrededor de {{precio:MLA61602437:k}}:** la única eléctrica y con ruedas, la [Vöhler de 33 litros](/producto/conservadora-vohler-33l-frio-calor-12v-220v-con-ruedas-negra-mla61602437).`,
+      ] },
+      { type: "p", content: `Por encima de esta franja está el segmento importado de compra internacional, con marcas como Igloo o RTIC. Los dejamos afuera a propósito: cuestan varias veces más que la [Mor de 75 litros](/producto/conservadora-termica-mor-75l-color-azul-mla28583015) por una capacidad parecida, demoran por importación y llegan sin calificaciones de compradores locales que permitan evaluarlos.` },
+
+      { type: "h2", title: `Veredicto: cuál conservadora comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la **mayoría**, la **[Termolar SUV de 20 litros](/producto/heladera-conservadora-suv-termolar-suv-58-56805-de-20l-gris-playa-picnic-mla22505559)**: es la más vendida de la categoría y el tamaño cubre el uso más común. Si el plan es **asado o familia**, la **[Termolar de 32](/producto/heladera-conservadora-termica-termolar-suv-32-litros-gris-color-gris-con-naranja-mla22352427)**, que pasa de 26 a 45 latas y de 2 a 6 botellas de 2 litros. Para **máxima capacidad sin pagar importación**, la **[Mor de 75 litros](/producto/conservadora-termica-mor-75l-color-azul-mla28583015)**, asumiendo que no trae tapón de drenaje. Y si el uso es **auto, ruta o trabajo en la calle**, la **[Vöhler eléctrica](/producto/conservadora-vohler-33l-frio-calor-12v-220v-con-ruedas-negra-mla61602437)** es la única que resuelve el problema de fondo: el hielo se derrite y la corriente no. Un consejo que vale más que cualquier ranking: **verificá los litros en la web de la marca antes de comprar**, porque en esta categoría la ficha de MercadoLibre se equivoca seguido.` },
+
+      { type: "h2", title: `Preguntas frecuentes`, id: "faq" },
+    ],
+    faq: [
+      { question: `¿Cuál es la mejor conservadora en Argentina?`, answer: `La [Termolar SUV de 20 litros](/producto/heladera-conservadora-suv-termolar-suv-58-56805-de-20l-gris-playa-picnic-mla22505559) es la más vendida de la categoría en MercadoLibre y la que más calificaciones acumula de esta comparativa. Entran 26 latas de 350 ml o 2 botellas de 2 litros paradas. Si necesitás más lugar, la [Termolar de 32 litros](/producto/heladera-conservadora-termica-termolar-suv-32-litros-gris-color-gris-con-naranja-mla22352427) llega a 45 latas.` },
+      { question: `¿Cuántas horas mantiene el frío una conservadora?`, answer: `Termolar declara 12 horas sin hielo y 24 horas con hielo para sus modelos SUV de 20 y 32 litros. En la práctica depende mucho de cuánto hielo cargues y de cuántas veces la abras: un comprador de la [Mor de 75 litros](/producto/conservadora-termica-mor-75l-color-azul-mla28583015) reporta hielo que aguantó 16 horas. Las conservadoras eléctricas como la [Vöhler](/producto/conservadora-vohler-33l-frio-calor-12v-220v-con-ruedas-negra-mla61602437) no tienen ese límite mientras estén enchufadas.` },
+      { question: `¿Cuántos litros de conservadora necesito?`, answer: `Como referencia rápida: 12 litros para dos personas un día, 20 para dos o tres con botellas grandes, 32 para un asado o una familia de cuatro, y 75 para camping de varios días o juntadas grandes. Conviene pensarlo en latas antes que en litros, porque parte del volumen se lo lleva el hielo.` },
+      { question: `¿Por qué los litros de MercadoLibre no coinciden con los del fabricante?`, answer: `Porque las fichas técnicas de las publicaciones tienen errores de carga con más frecuencia de la que uno esperaría. Al verificar seis publicaciones contra las webs de las marcas encontramos cuatro con datos equivocados, incluida una Coleman que declaraba 45 litros cuando el fabricante especifica 26,5, y una [Termolar de 32 litros](/producto/heladera-conservadora-termica-termolar-suv-32-litros-gris-color-gris-con-naranja-mla22352427) con los datos de capacidad del [modelo de 20](/producto/heladera-conservadora-suv-termolar-suv-58-56805-de-20l-gris-playa-picnic-mla22505559). Verificá siempre en la web de la marca antes de comparar.` },
+      { question: `¿Conviene una conservadora eléctrica?`, answer: `Conviene si vas a tener dónde enchufarla: auto, camión, casa o camping con electricidad. La [Vöhler](/producto/conservadora-vohler-33l-frio-calor-12v-220v-con-ruedas-negra-mla61602437) enfría mientras haya corriente, así que no hay límite de horas ni hay que comprar hielo. Si el uso es playa sin auto cerca, una conservadora con hielo es mejor y bastante más barata.` },
+      { question: `¿Qué conservadora tiene ruedas?`, answer: `De esta comparativa, solo la [Vöhler de 33 litros](/producto/conservadora-vohler-33l-frio-calor-12v-220v-con-ruedas-negra-mla61602437). Es un dato a tener en cuenta: existen modelos con ruedas de otras marcas, pero al momento de armar esta guía los que encontramos tenían muy pocas unidades disponibles, así que preferimos no recomendarlos.` },
+      { question: `¿Las conservadoras traen tapón para drenar el agua?`, answer: `Ninguna de las cinco de esta comparativa lo trae, y en las grandes se nota. Es la contra más señalada por los compradores de la [Mor de 75 litros](/producto/conservadora-termica-mor-75l-color-azul-mla28583015): para vaciarla hay que sacar todo y darla vuelta.` },
+    ],
+    internalLinks: [
+      { label: `Mesa ratona: cuál comprar en Argentina`, href: `/guias/hogar-jardin/mesa-ratona` },
+      { label: `Zapatero: cuál comprar en Argentina`, href: `/guias/hogar-jardin/zapatero` },
+      { label: `Pileta Pelopincho: cuál comprar en Argentina`, href: `/guias/hogar-jardin/pileta-pelopincho` },
+      { label: `Sombrilla de playa: cuál comprar`, href: `/guias/hogar-jardin/sombrilla-de-playa` },
+      { label: `Colchón inflable 2 plazas: cuál comprar`, href: `/guias/hogar-jardin/colchon-inflable-2-plazas` },
+      { label: `Ver toda la categoría Hogar y Jardín`, href: `/categoria/hogar-jardin` },
+    ],
+    internalLinksTitle: "Más de hogar y jardín",
+  },
+  // ─────────────────────────────────────────────────────────
+  // PILAR mesa-ratona — silo hogar-jardin, diseño best-of (ver docs/guias.md)
+  // Ángulo: el mercado real vende mesas chicas y sets apilables, no mesas de
+  // living grandes. Ver docs/sourcing-mesa-ratona-2026-08-15.md
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "mesa-ratona",
+    category: "mesas-ratonas",
+    silo: "hogar-jardin",
+    pillar: true,
+    title: `Mesa ratona: cuál comprar en Argentina [2026]`,
+    seoTitle: `Mesa Ratona: Cuál Comprar en Argentina [2026]`,
+    metaDescription: `Comparamos 6 mesas ratonas reales de MercadoLibre: sets apilables, metal y la única de formato living. Medidas, armado y contras honestas.`,
+    ogTitle: `Mesa ratona: cuál comprar en Argentina`,
+    ogDescription: `De la más barata al formato living: 6 mesas ratonas comparadas por medidas, armado real y contras de reseñas verdaderas.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_639006-MLA102830949280_012026-O.webp`,
+    h1: `Mesa ratona: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene el **[set Justo Makario Boomerang](/producto/set-de-mesas-ratonas-nordicas-boomerang-en-melamina-blanca-mla63777664)** (alrededor de {{precio:MLA63777664:k}}): son dos mesas por el precio de una y es el más vendido de la categoría. Si querés metal en vez de melamina, la **[Popstore Nórdica](/producto/mesa-popstore-nordica-ratona-arrime-hierro-bandeja-desmontable-color-negro-mla43785597)**. Si tu living es chico, el **[set Ambi O de 3 apilables](/producto/mesas-de-centro-ratona-ambi-o-set-x3-acero-mdf-marron-y-negro-mla66551735)**. Si no querés armar nada, la **[Mobilarg Cuadra 57](/producto/mobilarg-cuadra-57-mesa-ratona-base-acero-1-unidad-negro-mla34969878)**, la única que llega armada. Si buscás gastar lo mínimo, la **[Sajo de 80 cm](/producto/mesa-ratona-80-cm-estilo-clasico-tapa-melamina-negro-patas-inclinadas-color-robl-mla56400904)**, sabiendo que no trae tornillos. Y si querés una mesa de living de verdad, de casi un metro, la **[Dielfe Soho](/producto/mesa-ratona-industrial-soho-2-niveles-con-estante-inferior-chapa-perforada-livin-mla36859297)**, que es la única del formato y tiene poco stock.`,
+    publishedDate: "2026-10-05",
+    updatedDate: "2026-10-05",
+    hasDisclosure: true,
+    readingTime: 9,
+    standfirst: `Una mesa ratona va de {{precio:MLA56400904:k}} (la más barata) a {{precio:MLA36859297:k}} (la única de formato living). Comparamos 6 mesas ratonas reales de MercadoLibre Argentina por medidas, cómo se arman y contras de reseñas verdaderas, dentro de nuestro silo de [Hogar y Jardín](/categoria/hogar-jardin).`,
+    quickPicks: [
+      { productMlaId: "MLA63777664", label: "La más vendida", labelColor: "green", tagline: "Set Justo Makario: dos mesas por el precio de una, la más elegida de la categoría" },
+      { productMlaId: "MLA43785597", label: "Mejor en metal", labelColor: "blue", tagline: "Popstore Nórdica: hierro y acero, bandeja desmontable y apta para exterior" },
+      { productMlaId: "MLA66551735", label: "Mejor para living chico", labelColor: "purple", tagline: "Set Ambi O: tres mesas que se apilan y ocupan el lugar de una" },
+      { productMlaId: "MLA36859297", label: "Única de formato living", labelColor: "amber", tagline: "Dielfe Soho: casi 100 cm y estante inferior, la única mesa grande de verdad" },
+    ],
+    intro: [
+      `Una **mesa ratona** es la mesa baja del living, esa donde termina el control remoto, el mate y lo que se apoya cuando hay gente. En Argentina también se la llama mesa de centro, y las diferencias reales entre modelos se reducen a tres cosas: qué medida entra en tu espacio, de qué está hecha y cuánto vas a renegar armándola.`,
+      `Comparamos 6 mesas ratonas reales de MercadoLibre Argentina. Un dato que conviene saber antes de mirar cualquier ranking: **lo que más se vende en esta categoría no son mesas de living grandes, son mesas chicas y sets de a dos o tres**. De las seis que comparamos, cinco miden entre 40 y 65 cm. Por eso esta guía está ordenada por formato y por espacio disponible, no por tamaño de mayor a menor.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_639006-MLA102830949280_012026-O.webp", alt: `Set de mesas ratonas nórdicas Boomerang de melamina blanca, el más vendido de la categoría`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la **mayoría**, el **[set Justo Makario](/producto/set-de-mesas-ratonas-nordicas-boomerang-en-melamina-blanca-mla63777664)**: dos mesas por el precio de una. Si querés **metal**, la **[Popstore Nórdica](/producto/mesa-popstore-nordica-ratona-arrime-hierro-bandeja-desmontable-color-negro-mla43785597)**. Si el **living es chico**, el **[set Ambi O de 3 apilables](/producto/mesas-de-centro-ratona-ambi-o-set-x3-acero-mdf-marron-y-negro-mla66551735)**. Si no querés **armar nada**, la **[Mobilarg Cuadra 57](/producto/mobilarg-cuadra-57-mesa-ratona-base-acero-1-unidad-negro-mla34969878)**, la única que llega armada. Y si buscás una **mesa de living de verdad**, la **[Dielfe Soho](/producto/mesa-ratona-industrial-soho-2-niveles-con-estante-inferior-chapa-perforada-livin-mla36859297)**.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos las mesas ratonas con más ventas reales en MercadoLibre Argentina, entrando por el ranking de más vendidos de la categoría, y verificamos cada publicación en vivo. Las ordenamos por **formato y espacio que ocupan**, no por precio, porque en esta categoría el tamaño define el uso más que el costo. Señalamos producto por producto **dónde la ficha técnica de MercadoLibre se contradice**, que en esta categoría pasa seguido. Los precios se verifican automáticamente contra MercadoLibre.` },
+
+      { type: "h2", title: `Qué mirar antes de comprar una mesa ratona`, id: "que-mirar" },
+      { type: "p", content: `**Medí el espacio antes que nada.** Es la categoría donde más se compra por foto y peor sale. Una mesa de 40 x 40 cm y una de 100 x 60 cm se ven casi iguales en una publicación, y en el living son muebles distintos. Sacá la cinta métrica y marcá el lugar en el piso antes de elegir.` },
+      { type: "p", content: `**El armado es la queja número uno de esta categoría**, muy por encima de la calidad. Faltan tornillos, los agujeros no coinciden, el manual viene incompleto. Lo verás repetido en las reseñas de casi todas las opciones de esta guía. La única que se escapa del problema es la [Mobilarg Cuadra 57](/producto/mobilarg-cuadra-57-mesa-ratona-base-acero-1-unidad-negro-mla34969878), porque llega armada.` },
+      { type: "p", content: `**Melamina, MDF o metal.** La melamina es lo más barato y lo más liviano, y también lo que más se golpea en el transporte. El MDF es un escalón arriba. El metal, como en la [Popstore](/producto/mesa-popstore-nordica-ratona-arrime-hierro-bandeja-desmontable-color-negro-mla43785597) o la [Mobilarg](/producto/mobilarg-cuadra-57-mesa-ratona-base-acero-1-unidad-negro-mla34969878), es lo que mejor envejece. Ojo con un matiz: ser de metal no equivale a estar aprobada para exterior. De esta guía, la única que lo declara es la [Popstore](/producto/mesa-popstore-nordica-ratona-arrime-hierro-bandeja-desmontable-color-negro-mla43785597); la [Mobilarg](/producto/mobilarg-cuadra-57-mesa-ratona-base-acero-1-unidad-negro-mla34969878) es de acero pero su ficha dice que no es apta.` },
+      { type: "callout", calloutVariant: "warning", calloutTitle: "La ficha técnica de MercadoLibre falla seguido en esta categoría", content: `Al verificar estas seis publicaciones encontramos varios datos que no cierran: un set que declara **8 cm de altura** para una mesa ratona, mesas rectangulares con **diámetro** cargado, y una que dice ser redonda mientras declara ancho y largo distintos. No son detalles: si comparás dos modelos por esos números, estás comparando datos mal cargados. En cada ficha de esta guía aclaramos cuál es el dato dudoso.` },
+
+      { type: "h2", title: `Las mejores mesas ratonas de 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Set Justo Makario Boomerang — la más vendida` },
+      { type: "product-card", productMlaId: "MLA63777664", label: "La más vendida", labelColor: "green", ranking: 1, description: `Dos mesas nórdicas de melamina por el precio de una. El producto más vendido de la categoría, con la mayor base de opiniones de esta comparativa.` },
+      { type: "p", content: `El [set Boomerang](/producto/set-de-mesas-ratonas-nordicas-boomerang-en-melamina-blanca-mla63777664) es el producto más vendido de la categoría mesas ratonas en MercadoLibre Argentina, con **{{rating:MLA63777664}} estrellas en {{reviews:MLA63777664}} opiniones**, a alrededor de {{precio:MLA63777664:k}}. Son dos mesas de 65 x 45 cm con forma curva y patas de madera, que se usan juntas o repartidas en dos rincones.` },
+      { type: "p", content: `La razón de su éxito es simple: por lo que cuesta una mesa te llevás dos muebles, y la estética nórdica entra en casi cualquier living.` },
+      { type: "p", content: `Lo honesto: llegan con golpes en la melamina y con faltantes de tornillería, algo que se repite en las reseñas. Varios describen el material como frágil, y quienes la califican bien lo hacen en relación a lo que pagaron, no en términos absolutos.` },
+      { type: "pull-quote", content: `"Muy lindas y delicadas. Solo unos detalles al armarla. Faltaban algunos tornillos y los orificios no coincidían pero se pudo solucionar fácilmente."`, attribution: `Compradora verificada en MercadoLibre, calificación 4/5` },
+
+      { type: "h3", title: `2. Popstore Nórdica — mejor en metal` },
+      { type: "product-card", productMlaId: "MLA43785597", label: "Mejor en metal", labelColor: "blue", ranking: 2, description: `Estructura de hierro con bandeja de acero desmontable y apta para exterior. La más versátil de esta comparativa.` },
+      { type: "p", content: `La [Popstore Nórdica](/producto/mesa-popstore-nordica-ratona-arrime-hierro-bandeja-desmontable-color-negro-mla43785597) sale alrededor de {{precio:MLA43785597:k}} y tiene **{{rating:MLA43785597}} estrellas en {{reviews:MLA43785597}} opiniones**. Es de hierro y acero, con una bandeja que se desmonta y sirve para llevar cosas, y la ficha la declara apta para exterior: es la única de esta comparativa que lo declara. La [Mobilarg](/producto/mobilarg-cuadra-57-mesa-ratona-base-acero-1-unidad-negro-mla34969878) también es metálica pero su ficha dice que no es apta, y la melamina y el MDF de las demás no aguantan la humedad.` },
+      { type: "p", content: `El armado es su punto fuerte según las reseñas, con tornillería, regatones que encajan y manual en español.` },
+      { type: "p", content: `Lo honesto: el control de calidad de la pintura falla. Más de un comprador la recibe con el esmalte saltado o englobado. Y las medidas de la ficha de MercadoLibre no cierran entre sí, así que si el tamaño es crítico conviene preguntarle al vendedor.` },
+      { type: "pull-quote", content: `"Es hermosa, facil de armar y queda super firme, tiene peso. Lo único es que vino con el esmalte englobado en una parte de la bandeja."`, attribution: `Compradora verificada en MercadoLibre, calificación 4/5` },
+
+      { type: "h3", title: `3. Set Ambi O x3 — mejor para living chico` },
+      { type: "product-card", productMlaId: "MLA66551735", label: "Mejor para living chico", labelColor: "purple", ranking: 3, description: `Tres mesas de acero y MDF que se apilan una dentro de otra. De las mejor calificadas de esta comparativa.` },
+      { type: "p", content: `El [set Ambi O](/producto/mesas-de-centro-ratona-ambi-o-set-x3-acero-mdf-marron-y-negro-mla66551735) son tres mesas cuadradas de 40 x 40 cm que se apilan, a alrededor de {{precio:MLA66551735:k}}, con **{{rating:MLA66551735}} estrellas en {{reviews:MLA66551735}} opiniones**. Resuelve el problema típico del living chico: querés superficie cuando hay gente y querés el piso libre cuando no.` },
+      { type: "p", content: `Base de acero y tapa de MDF, un escalón por encima de la melamina fina del segmento económico, y trae una llave para armarlas.` },
+      { type: "p", content: `Lo honesto: el manual es inconsistente entre envíos. Hay reseñas que dicen que no vino, otras que vino incompleto y otras que estaba todo detallado. Un comprador puso mal un tornillo por eso y marcó la mesa.` },
+      { type: "pull-quote", content: `"Usé la más chiquita para un rincón y las dos más grandes como mesita ratona. También las tres juntas quedan muy buenas y apiladas no ocupan espacio."`, attribution: `Compradora verificada en MercadoLibre, calificación 5/5` },
+
+      { type: "h3", title: `4. Mobilarg Cuadra 57 — la única que viene armada` },
+      { type: "product-card", productMlaId: "MLA34969878", label: "Llega armada", labelColor: "slate", ranking: 4, description: `Acero macizo en base y tapa, terminación negra mate, y ni un tornillo que poner. La mejor calificada de esta comparativa.` },
+      { type: "p", content: `La [Mobilarg Cuadra 57](/producto/mobilarg-cuadra-57-mesa-ratona-base-acero-1-unidad-negro-mla34969878) es la mejor calificada del grupo, con **{{rating:MLA34969878}} estrellas en {{reviews:MLA34969878}} opiniones**, a alrededor de {{precio:MLA34969878:k}}. Su diferencial es que **llega armada**, y en una categoría donde el armado es la queja número uno, eso pesa.` },
+      { type: "p", content: `Acero de punta a punta, 57 x 57 cm, terminación negra mate que las reseñas destacan de forma consistente.` },
+      { type: "p", content: `Lo honesto: al menos un comprador señala que la tapa es fina y la ve más decorativa que funcional para cargar peso. Y es de las más caras de esta comparativa sin ser la más grande: lo que pagás es la terminación y el no armar nada.` },
+
+      { type: "h3", title: `5. Dielfe Soho — la única de formato living` },
+      { type: "product-card", productMlaId: "MLA36859297", label: "Única de formato living", labelColor: "amber", ranking: 5, description: `Casi 100 cm de ancho, dos niveles y 18 kg. La única mesa de living de verdad de esta comparativa. Ojo con el stock.` },
+      { type: "p", content: `La [Dielfe Soho](/producto/mesa-ratona-industrial-soho-2-niveles-con-estante-inferior-chapa-perforada-livin-mla36859297) es la única de esta comparativa que entra en el formato clásico de mesa de living: 99,5 cm de ancho, estante inferior de chapa perforada y 18 kg de estructura de caño, contra los 3 a 5 kg del resto. Sale alrededor de {{precio:MLA36859297:k}}.` },
+      { type: "p", content: `Las reseñas coinciden en dos cosas: el armado es sencillo, incluso en solitario, y en persona se ve mejor que en las fotos de la publicación.` },
+      { type: "p", content: `Lo honesto y lo más importante: **al verificarla quedaban 4 unidades de un solo vendedor**. Puede agotarse en cualquier momento y no hay garantía de reposición. Si te interesa, chequeá disponibilidad antes de decidir.` },
+      { type: "pull-quote", content: `"Es muy linda y grande. Hermosa, yo no necesite ayuda la pude armar sola con un destornillador. Me encanto."`, attribution: `Compradora verificada en MercadoLibre, calificación 5/5` },
+
+      { type: "h3", title: `6. Sajo 80 cm — la más barata` },
+      { type: "product-card", productMlaId: "MLA56400904", label: "La más barata", labelColor: "slate", ranking: 6, description: `80 cm de largo al precio más bajo de la comparativa. La ficha declara que no incluye tornillería.` },
+      { type: "p", content: `La [Sajo de 80 cm](/producto/mesa-ratona-80-cm-estilo-clasico-tapa-melamina-negro-patas-inclinadas-color-robl-mla56400904) es la más barata de esta comparativa, a alrededor de {{precio:MLA56400904:k}}, y con 80 cm de largo se acerca al formato de living sin saltar de categoría de precio. Patas de pino real, no plástico imitando madera.` },
+      { type: "p", content: `Lo honesto: **no trae tornillos**, y no es una queja aislada sino un dato de la propia ficha técnica de MercadoLibre, confirmado por una reseña. Además es la peor calificada y la que menos opiniones tiene del grupo, así que sabemos menos sobre ella que sobre las demás.` },
+
+      { type: "h2", title: `Tabla comparativa: medidas, material y armado`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Medidas`, `Material`, `Armado`, `Ideal para`], rows: [
+        [`[Set Justo Makario x2](/producto/set-de-mesas-ratonas-nordicas-boomerang-en-melamina-blanca-mla63777664)`, `{{precio:MLA63777664}}`, `65 x 45 cm c/u`, `Melamina y madera`, `Requiere`, `La más vendida`],
+        [`[Popstore Nórdica](/producto/mesa-popstore-nordica-ratona-arrime-hierro-bandeja-desmontable-color-negro-mla43785597)`, `{{precio:MLA43785597}}`, `50 cm de alto`, `Hierro y acero`, `Requiere`, `Metal y exterior`],
+        [`[Set Ambi O x3](/producto/mesas-de-centro-ratona-ambi-o-set-x3-acero-mdf-marron-y-negro-mla66551735)`, `{{precio:MLA66551735}}`, `40 x 40 cm c/u`, `Acero y MDF`, `Requiere`, `Living chico`],
+        [`[Mobilarg Cuadra 57](/producto/mobilarg-cuadra-57-mesa-ratona-base-acero-1-unidad-negro-mla34969878)`, `{{precio:MLA34969878}}`, `57 x 57 cm`, `Acero macizo`, `**Viene armada**`, `No armar nada`],
+        [`[Dielfe Soho](/producto/mesa-ratona-industrial-soho-2-niveles-con-estante-inferior-chapa-perforada-livin-mla36859297)`, `{{precio:MLA36859297}}`, `99,5 x 60 cm`, `Caño y melamina`, `Requiere`, `Formato living`],
+        [`[Sajo 80 cm](/producto/mesa-ratona-80-cm-estilo-clasico-tapa-melamina-negro-patas-inclinadas-color-robl-mla56400904)`, `{{precio:MLA56400904}}`, `80 x 40 cm`, `Melamina y pino`, `Requiere, sin tornillos`, `Presupuesto ajustado`],
+      ] },
+      { type: "p", content: `La altura de la Popstore es el único dato de medida que damos de esa ficha porque el resto de sus números no cierran entre sí, y del set Justo Makario no publicamos altura porque la ficha declara un valor imposible. En las dos lo aclaramos en su ficha individual.` },
+
+      { type: "h2", title: `Cómo elegir tu mesa ratona`, id: "como-elegir" },
+      { type: "h3", title: `1. Según el espacio que tenés` },
+      { type: "p", content: `Para un living chico, el [set Ambi O](/producto/mesas-de-centro-ratona-ambi-o-set-x3-acero-mdf-marron-y-negro-mla66551735) se apila y desaparece. Para uno normal, el [set Justo Makario](/producto/set-de-mesas-ratonas-nordicas-boomerang-en-melamina-blanca-mla63777664) o la [Sajo](/producto/mesa-ratona-80-cm-estilo-clasico-tapa-melamina-negro-patas-inclinadas-color-robl-mla56400904). Para uno grande con sillón largo, la [Dielfe](/producto/mesa-ratona-industrial-soho-2-niveles-con-estante-inferior-chapa-perforada-livin-mla36859297) es la única que acompaña la escala.` },
+      { type: "h3", title: `2. Según cuánto quieras renegar armándola` },
+      { type: "p", content: `Si el armado te da pereza o no tenés herramientas, la [Mobilarg](/producto/mobilarg-cuadra-57-mesa-ratona-base-acero-1-unidad-negro-mla34969878) llega armada y se termina la discusión. Si no te molesta, la [Popstore](/producto/mesa-popstore-nordica-ratona-arrime-hierro-bandeja-desmontable-color-negro-mla43785597) es la que mejores comentarios tiene sobre lo simple que resulta.` },
+      { type: "h3", title: `3. Según si va a estar al aire libre` },
+      { type: "p", content: `Solo la [Popstore](/producto/mesa-popstore-nordica-ratona-arrime-hierro-bandeja-desmontable-color-negro-mla43785597) está declarada apta para exterior, y conviene no deducirlo del material: la [Mobilarg](/producto/mobilarg-cuadra-57-mesa-ratona-base-acero-1-unidad-negro-mla34969878) también es metálica y su ficha dice que no lo es. En las cuatro restantes, de melamina y MDF, el material directamente no aguanta humedad. Si la idea es el balcón o la galería, la Popstore es la única de esta guía.` },
+
+      { type: "h2", title: `Cuánto cuesta una mesa ratona [2026]`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de {{precio:MLA56400904:k}}:** la más barata de la comparativa, la [Sajo de 80 cm](/producto/mesa-ratona-80-cm-estilo-clasico-tapa-melamina-negro-patas-inclinadas-color-robl-mla56400904).`,
+        `**Alrededor de {{precio:MLA43785597:k}}:** metal y apta para exterior, la [Popstore Nórdica](/producto/mesa-popstore-nordica-ratona-arrime-hierro-bandeja-desmontable-color-negro-mla43785597).`,
+        `**Alrededor de {{precio:MLA63777664:k}}:** la más vendida y son dos mesas, el [set Justo Makario](/producto/set-de-mesas-ratonas-nordicas-boomerang-en-melamina-blanca-mla63777664).`,
+        `**Alrededor de {{precio:MLA66551735:k}}:** tres mesas apilables, el [set Ambi O](/producto/mesas-de-centro-ratona-ambi-o-set-x3-acero-mdf-marron-y-negro-mla66551735).`,
+        `**Alrededor de {{precio:MLA34969878:k}}:** acero macizo y llega armada, la [Mobilarg Cuadra 57](/producto/mobilarg-cuadra-57-mesa-ratona-base-acero-1-unidad-negro-mla34969878).`,
+        `**Alrededor de {{precio:MLA36859297:k}}:** la única de formato living, la [Dielfe Soho](/producto/mesa-ratona-industrial-soho-2-niveles-con-estante-inferior-chapa-perforada-livin-mla36859297).`,
+      ] },
+      { type: "p", content: `Buscamos alternativas de formato living con más stock que la Dielfe y no encontramos una recomendable: las de 100 a 120 cm que aparecen en MercadoLibre tienen una sola opinión, o tienen calificaciones bajas con reportes de que se vuelcan si un chico se apoya. Preferimos decirlo antes que completar la lista con algo que no compraríamos.` },
+
+      { type: "h2", title: `Veredicto: cuál mesa ratona comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la **mayoría**, el **[set Justo Makario](/producto/set-de-mesas-ratonas-nordicas-boomerang-en-melamina-blanca-mla63777664)**: dos muebles por el precio de uno y el respaldo de opiniones más grande de la categoría, asumiendo que es melamina liviana y que puede llegar con algún golpe. Si querés **metal que aguante el balcón**, la **[Popstore Nórdica](/producto/mesa-popstore-nordica-ratona-arrime-hierro-bandeja-desmontable-color-negro-mla43785597)**. Si el **living es chico**, el **[set Ambi O](/producto/mesas-de-centro-ratona-ambi-o-set-x3-acero-mdf-marron-y-negro-mla66551735)** se apila y te devuelve el piso. Si **no querés armar nada**, la **[Mobilarg Cuadra 57](/producto/mobilarg-cuadra-57-mesa-ratona-base-acero-1-unidad-negro-mla34969878)** es la única que llega lista. Y si buscás una **mesa de living de verdad**, la **[Dielfe Soho](/producto/mesa-ratona-industrial-soho-2-niveles-con-estante-inferior-chapa-perforada-livin-mla36859297)**, decidiendo rápido porque queda poco stock. El consejo que vale más que el ranking: **medí el lugar antes de comprar**, porque en esta categoría dos mesas que se ven iguales en la foto pueden ser muebles completamente distintos.` },
+
+      { type: "h2", title: `Preguntas frecuentes`, id: "faq" },
+    ],
+    faq: [
+      { question: `¿Cuál es la mejor mesa ratona en Argentina?`, answer: `Por respaldo de opiniones, el [set Justo Makario Boomerang](/producto/set-de-mesas-ratonas-nordicas-boomerang-en-melamina-blanca-mla63777664): es el más vendido de la categoría y son dos mesas por el precio de una. Por calidad de construcción, la [Mobilarg Cuadra 57](/producto/mobilarg-cuadra-57-mesa-ratona-base-acero-1-unidad-negro-mla34969878), que es de acero macizo y llega armada.` },
+      { question: `¿Qué medida tiene que tener una mesa ratona?`, answer: `Depende del sillón y del espacio libre. Como referencia práctica: para un living chico alcanza con 40 a 60 cm, para uno normal 65 a 80 cm, y para un sillón largo conviene ir a 100 cm o más. En esta comparativa solo la [Dielfe Soho](/producto/mesa-ratona-industrial-soho-2-niveles-con-estante-inferior-chapa-perforada-livin-mla36859297) llega a esa última medida.` },
+      { question: `¿Por qué casi todas las mesas ratonas más vendidas son chicas?`, answer: `Porque el mercado argentino de esta categoría se mueve por mesas de apoyo y sets apilables, no por mesas de living grandes. De las seis que comparamos, cinco miden entre 40 y 65 cm, y tres se venden de a dos o tres unidades. Las de formato grande son pocas y con poco stock.` },
+      { question: `¿Cuál mesa ratona viene armada?`, answer: `Solo la [Mobilarg Cuadra 57](/producto/mobilarg-cuadra-57-mesa-ratona-base-acero-1-unidad-negro-mla34969878) de esta comparativa. Todas las demás requieren ensamblado, y el armado es justamente la queja más repetida de la categoría: tornillos faltantes, agujeros que no coinciden y manuales incompletos.` },
+      { question: `¿Sirve una mesa ratona para el balcón?`, answer: `Solo si la ficha la declara apta para exterior, y que sea de metal no alcanza por sí solo. De esta comparativa, únicamente la [Popstore Nórdica](/producto/mesa-popstore-nordica-ratona-arrime-hierro-bandeja-desmontable-color-negro-mla43785597) lo declara: la [Mobilarg](/producto/mobilarg-cuadra-57-mesa-ratona-base-acero-1-unidad-negro-mla34969878) es de acero macizo y su propia ficha dice que no es apta. La melamina y el MDF de las demás tampoco aguantan la humedad.` },
+      { question: `¿Se puede confiar en las medidas que publica MercadoLibre?`, answer: `No siempre, y en esta categoría menos. Al verificar estas seis publicaciones encontramos un set que declara 8 cm de altura para una mesa ratona, mesas rectangulares con un diámetro cargado y una que dice ser redonda mientras declara ancho y largo distintos. Si la medida es crítica para tu espacio, conviene preguntarle al vendedor antes de comprar.` },
+      { question: `¿Conviene comprar un set de mesas o una sola?`, answer: `Un set conviene si querés resolver más de un rincón o si tenés poco espacio y valorás poder apilarlas, como el [Ambi O](/producto/mesas-de-centro-ratona-ambi-o-set-x3-acero-mdf-marron-y-negro-mla66551735). Una sola conviene si buscás una superficie continua para apoyar cosas de a varios: ahí ni tres mesas chicas juntas reemplazan a una grande.` },
+    ],
+    internalLinks: [
+      { label: `Zapatero: cuál comprar en Argentina`, href: `/guias/hogar-jardin/zapatero` },
+      { label: `Conservadora: cuál comprar en Argentina`, href: `/guias/hogar-jardin/conservadora` },
+      { label: `Ver toda la categoría Hogar y Jardín`, href: `/categoria/hogar-jardin` },
+    ],
+    internalLinksTitle: "Más de hogar y jardín",
   },
 ];
 
@@ -25004,6 +25277,71 @@ export function getDisplaySilo(g: Pick<Guide, "silo" | "category">): string {
 }
 
 export const guideCategories: Record<string, { name: string; description: string }> = {
+  "mesas-ratonas": {
+    name: "Guía de Mesas Ratonas",
+    description:
+      "Mesas de centro y de apoyo para el living: qué medida entra en tu espacio, qué material aguanta y cuál llega armada, con medidas verificadas.",
+  },
+  conservadoras: {
+    name: "Guía de Conservadoras",
+    description:
+      "De 12 a 75 litros, para playa, camping o asado: cuántas latas entran de verdad en cada una, con las capacidades cruzadas contra la web del fabricante.",
+  },
+  piletas: {
+    name: "Guía de Piletas",
+    description:
+      "Pelopincho estructurales e inflables de aros: qué medida entra en tu patio, para qué edad sirve cada una y cuánto sale armarla.",
+  },
+  "colchones-inflables": {
+    name: "Guía de Colchones Inflables",
+    description:
+      "Para visitas o camping: altura real, peso máximo declarado y si traen inflador, comparados con reseñas verdaderas de MercadoLibre Argentina.",
+  },
+  sombrillas: {
+    name: "Guía de Sombrillas",
+    description:
+      "Diámetro, material del caño y resistencia al viento: qué aguanta de verdad en la costa argentina y qué conviene dejar para el patio.",
+  },
+  "organizacion-hogar": {
+    name: "Guía de Organización del Hogar",
+    description:
+      "Zapateros, estanterías y organizadores: capacidad real en pares o kilos, material y respaldo de reseñas, sin comprar por la foto.",
+  },
+  "relojes-garmin": {
+    name: "Guía de Relojes Garmin",
+    description:
+      "Forerunner, Fenix e Instinct: cuál conviene según si corrés, entrenás o salís al cerro, con batería y resistencia verificadas contra Garmin.",
+  },
+  bicicletas: {
+    name: "Guía de Bicicletas",
+    description:
+      "Rodado 29 para adultos: material del cuadro, marca real del cambio y peso máximo soportado, comparados con precio de MercadoLibre Argentina.",
+  },
+  "bicicletas-rodado-26": {
+    name: "Guía de Bicicletas Rodado 26",
+    description:
+      "El rodado más común de Argentina: para quién es la medida correcta según altura, y qué mirar en cuadro, frenos y cambios antes de comprar.",
+  },
+  "bicicletas-electricas": {
+    name: "Guía de Bicicletas Eléctricas",
+    description:
+      "Autonomía declarada contra autonomía real, potencia del motor y tipo de batería: qué esperar de verdad en las que se consiguen acá.",
+  },
+  "cascos-bicicleta": {
+    name: "Guía de Cascos para Bicicleta",
+    description:
+      "Certificación, talle y ventilación: cuáles declaran norma real y cuáles solo lo dicen en el título de la publicación.",
+  },
+  monopatines: {
+    name: "Guía de Monopatines Eléctricos",
+    description:
+      "Autonomía, potencia y peso máximo: cuál sirve para ir al trabajo todos los días y cuál es solo para vueltas cortas de fin de semana.",
+  },
+  "monopatines-infantiles": {
+    name: "Guía de Monopatines Infantiles",
+    description:
+      "Por edad y por altura: qué medida de rueda y qué manubrio corresponde a cada etapa, con opciones reales de MercadoLibre Argentina.",
+  },
   "fechas-especiales": {
     name: "Guías de Fechas Especiales",
     description:

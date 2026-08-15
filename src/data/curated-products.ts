@@ -70018,6 +70018,948 @@ Comprala si buscás una opción liviana, plegable y con funda que tape el calzad
       "La más cara y no es reclinable",
     ],
   },
+  // ── Guía nueva conservadora — silo hogar-jardin ──────────────────────────
+  // Capacidades verificadas contra las webs de Termolar, Mor y Coleman el
+  // 2026-08-15: la ficha técnica de ML tenía errores en 4 de 6 candidatos.
+  // Ver docs/sourcing-conservadoras-2026-08-15.md
+  {
+    id: "MLA22352425",
+    title: "Conservadora Térmica Camping Mor De 12 Litros Color Rojo",
+    canonicalName: "Conservadora Mor 12 L",
+    price: 34902,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_866234-MLA95836946737_102025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_866234-MLA95836946737_102025-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_659623-MLA74192068345_012024-O.webp",
+    ],
+    category: "Hogar y Jardín",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/conservadora-termica-camping-mor-de-12-litros-color-rojo/p/MLA22352425",
+    affiliateUrl: "https://meli.la/1uFodYK",
+    condition: "new", freeShipping: true,
+    rating: 4.8, reviewCount: 960,
+    pastelColor: "var(--pastel-green)", visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Mor" },
+      { label: "Modelo", value: "25108212" },
+      { label: "Capacidad", value: "12 litros" },
+      { label: "Capacidad en latas", value: "13 latas de 350 ml" },
+      { label: "Capacidad en botellas", value: "7 botellas PET de 600 ml" },
+      { label: "Alto", value: "29 cm" },
+      { label: "Ancho", value: "24 cm" },
+      { label: "Largo", value: "33,5 cm" },
+      { label: "Peso", value: "1,13 kg" },
+      { label: "Material", value: "Polipropileno inyectado, tapa de polietileno" },
+      { label: "Aislamiento", value: "Poliestireno expandido (EPS)" },
+      { label: "Posavasos", value: "Sí" },
+      { label: "Ruedas", value: "No" },
+    ],
+    relatedProducts: ["MLA22505559", "MLA22352427", "MLA28583015", "MLA61602437"],
+    priceUpdated: "2026-08-15", priceLastChecked: "2026-08-15", priceVerifiedAt: "2026-08-15",
+    priceStatus: "fresh", reviewsSampledAt: "2026-08-15",
+    description: "La conservadora más chica de esta comparativa: 12 litros, 1,13 kg y 13 latas. Para dos personas y una salida de un día, no para una familia.",
+    seoTitle: "Conservadora Mor 12 L: la chica de la comparativa",
+    metaDescription: "Conservadora Mor de 12 litros: 13 latas, 1,13 kg y precio real. Para quién alcanza y para quién se queda corta, con reseñas verificadas.",
+    verdict: "Es la más chica y la más barata de esta comparativa, y ese es exactamente su punto: 12 litros, 1,13 kg y capacidad para 13 latas de 350 ml. Sirve para una salida de un día de a dos, para llevar el almuerzo al trabajo o para sumar como segunda conservadora al lado de una grande. La contra más repetida en las reseñas no es un defecto del producto sino de expectativa: la gente compra sin dimensionar cuánto son 12 litros y le queda chica. Si van a ser más de dos personas o más de un día, esta no es.",
+    pros: [
+      "La más liviana de esta comparativa: 1,13 kg vacía, se lleva con una mano",
+      "La más barata de las cinco opciones comparadas",
+      "Polipropileno inyectado con aislamiento de poliestireno expandido, el mismo sistema que las grandes de la marca",
+      "Tamaño real para dos personas confirmado en reseñas: entra el almuerzo y algo para tomar",
+    ],
+    cons: [
+      "12 litros es poco y varias reseñas coinciden en que se quedaron cortos por no dimensionarlo antes de comprar",
+      "No tiene ruedas ni tapón de drenaje",
+      "La ficha de MercadoLibre la declara plegable, y no lo es: es una caja rígida de plástico inyectado",
+      "Las medidas de la ficha de MercadoLibre (17x22x29 cm) no coinciden con las del fabricante (33,5x24x29 cm)",
+    ],
+    customerReviews: [
+      { rating: 4, text: "Muy buena pero no leí bien la cantidad de litros y me quedó chica para lo que yo estaba buscando/necesitaba. Pero excelente producto!!!.", date: "2026" },
+      { rating: 5, text: "Ya la usé varias veces y excelente!! me encanta y su tamaño es ideal!! prácticamente no pesa.", date: "2026" },
+      { rating: 5, text: "Llegó bien empaquetado, sin ningún daño, me fue muy útil en un viaje en pareja con hijo. Mantuvo bien los alimentos fríos.", date: "2026" },
+    ],
+    articleBody: `## Qué es y para quién
+
+La conservadora Mor de 12 litros es la opción más chica de esta comparativa: una caja rígida de polipropileno inyectado con aislamiento de poliestireno expandido, para 13 latas de 350 ml o 7 botellas de 600 ml. Pesa 1,13 kg vacía.
+
+## Lo bueno
+
+Es la más liviana y la más barata de las cinco que comparamos, y hace bien lo único que promete: mantener frío el almuerzo o unas bebidas durante una salida de un día. Los compradores destacan justamente el peso: "prácticamente no pesa". Usa el mismo sistema de aislamiento que los modelos grandes de la marca, así que la diferencia con la [Mor de 75 litros](/producto/conservadora-termica-mor-75l-color-azul-mla28583015) es de tamaño, no de construcción.
+
+## La contra real
+
+La queja más repetida no es sobre la calidad sino sobre el tamaño, y es previsible: 12 litros son menos de lo que la gente imagina. Un comprador lo dice sin vueltas: "no leí bien la cantidad de litros y me quedó chica para lo que yo estaba buscando". Tampoco tiene ruedas ni tapón de drenaje, así que para vaciarla hay que darla vuelta.
+
+Aparte, dos datos de la publicación de MercadoLibre no cierran con los del fabricante: la ficha dice que es plegable, cuando es una caja rígida, y da medidas más chicas que las que publica Mor. Nosotros usamos las del fabricante.
+
+## Para quién sí y para quién no
+
+Comprala si son dos personas, si es para una salida de un día, o si ya tenés una conservadora grande y querés una segunda chica para el auto. No la compres si van a ser cuatro, si es para un fin de semana entero, o si necesitás que entre una botella de dos litros parada.`,
+    faq: [
+      { question: "¿Cuántas latas entran en la conservadora Mor de 12 litros?", answer: "13 latas de 350 ml, según la web oficial de Mor. También entran 7 botellas PET de 600 ml." },
+      { question: "¿Cuánto pesa?", answer: "1,13 kg vacía. Es la más liviana de esta comparativa y se lleva cómodamente con una mano." },
+      { question: "¿Alcanza para una familia?", answer: "No. Con 12 litros alcanza para dos personas y una salida de un día. Varias reseñas reales coinciden en que se queda corta cuando se espera más capacidad." },
+      { question: "¿Es plegable?", answer: "No. La ficha de MercadoLibre dice que sí, pero es una caja rígida de polipropileno inyectado. Ese dato de la publicación está mal." },
+      { question: "¿Tiene tapón para drenar el agua?", answer: "No. Al derretirse el hielo hay que darla vuelta para vaciarla." },
+    ],
+  },
+  {
+    id: "MLA22505559",
+    title: "Heladera Conservadora Suv Termolar SUV - 58/56805 De 20l Gris Playa Picnic",
+    canonicalName: "Termolar SUV 20 L",
+    price: 43369,
+    originalPrice: 69950,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_831093-MLA99997914339_112025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_831093-MLA99997914339_112025-O.webp",
+    ],
+    category: "Hogar y Jardín",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/heladera-conservadora-suv-termolar-suv-5856805-de-20l-gris-playa-picnic/p/MLA22505559",
+    affiliateUrl: "https://meli.la/1bgL6a3",
+    condition: "new", freeShipping: true,
+    rating: 4.8, reviewCount: 30630,
+    pastelColor: "var(--pastel-blue)", visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Termolar" },
+      { label: "Línea", value: "SUV" },
+      { label: "Capacidad", value: "20 litros" },
+      { label: "Capacidad en latas", value: "26 latas de 350 ml o 20 de 473 ml" },
+      { label: "Capacidad en botellas", value: "2 botellas de 2 litros" },
+      { label: "Ancho", value: "43 cm" },
+      { label: "Largo", value: "27 cm" },
+      { label: "Alto", value: "33 cm" },
+      { label: "Peso", value: "1,8 kg" },
+      { label: "Aislamiento", value: "Poliestireno expandido (EPS)" },
+      { label: "Conservación", value: "12 h sin hielo, 24 h con hielo (declarado por Termolar)" },
+      { label: "Posavasos", value: "2" },
+      { label: "Extras", value: "Estuche en la tapa con alojamiento para celular, sistema Air Flow en la base" },
+      { label: "Ruedas", value: "No" },
+    ],
+    relatedProducts: ["MLA22352427", "MLA22352425", "MLA28583015", "MLA61602437"],
+    priceUpdated: "2026-08-15", priceLastChecked: "2026-08-15", priceVerifiedAt: "2026-08-15",
+    priceStatus: "fresh", reviewsSampledAt: "2026-08-15",
+    description: "La conservadora más vendida de la categoría en MercadoLibre. 20 litros, 26 latas y la mayor base de calificaciones de esta comparativa.",
+    seoTitle: "Termolar SUV 20 L: la más vendida de la categoría",
+    metaDescription: "Termolar SUV de 20 litros: 26 latas, conservación declarada de 24 h con hielo y la mayor base de calificaciones. Contras reales antes de comprar.",
+    verdict: "Es la conservadora más vendida de la categoría en MercadoLibre Argentina y la que más calificaciones acumula de esta comparativa, por lejos. Con 20 litros entran 26 latas de 350 ml o 2 botellas de 2 litros paradas, y Termolar declara 24 horas de conservación con hielo. El tamaño es el punto justo para una pareja o una salida de día de tres personas. La contra que más se repite en las reseñas es la manija: aguanta, pero se siente floja cuando la conservadora va llena.",
+    pros: [
+      "La más vendida de la categoría en MercadoLibre y la de mayor base de calificaciones de esta comparativa",
+      "Entran 2 botellas de 2 litros paradas, algo que la Mor de 12 litros no permite",
+      "Termolar declara 12 h de conservación sin hielo y 24 h con hielo",
+      "Trae 2 posavasos, estuche en la tapa con alojamiento para celular y sistema Air Flow en la base",
+      "1,8 kg vacía: sigue siendo liviana para su tamaño",
+    ],
+    cons: [
+      "La manija se siente floja con la conservadora cargada, según reseñas reales",
+      "Para una familia de cuatro se queda chica: el propio comprador que la recomienda aclara que es para parejas",
+      "No tiene ruedas ni tapón de drenaje",
+      "La ficha de MercadoLibre la describe como bolsa de poliéster, cuando es una conservadora rígida con aislamiento de poliestireno expandido",
+    ],
+    customerReviews: [
+      { rating: 4, text: "No es tan grande, caben unas 3 botellas de 2 litros. Pero aún así entrará hielo, así que no sé si necesariamente caben 3 botellas. Las asas son firmes, pero con el peso se vuelven un poco dudosas… fuera de eso, excelente material, útil. Ideal para parejas que llevan pocas cosas, ¡para una familia ya no lo recomiendo!", date: "2026" },
+      { rating: 4, text: "Creí que sería un poco más grande, no tenía en mente la noción de qué serían físicamente los 20 L. Pero no me decepcionó, el tamaño es perfecto para almacenar pocas cosas.", date: "2026" },
+      { rating: 5, text: "Conserva los alimentos, bebidas, hielo durante mucho tiempo. Fuimos a la playa, el hielo duró de un día para otro, la carne permaneció congelada y los refrescos también después de 6 horas.", date: "2026" },
+    ],
+    articleBody: `## Qué es y para quién
+
+La Termolar SUV de 20 litros es la conservadora más vendida de la categoría en MercadoLibre Argentina. Es rígida, con aislamiento de poliestireno expandido, y entran 26 latas de 350 ml o 2 botellas de 2 litros paradas.
+
+## Lo bueno
+
+El tamaño es el punto justo para el uso más común: una pareja, una salida de día, tres personas a la playa. Termolar declara 12 horas de conservación sin hielo y 24 con hielo, y las reseñas lo respaldan con casos concretos de hielo que aguantó de un día para el otro. Los detalles suman más de lo que parece: dos posavasos en la tapa, un estuche con alojamiento para el celular y un sistema de circulación de aire en la base.
+
+## La contra real
+
+La manija. Aparece una y otra vez en las reseñas con el mismo matiz: no se rompe, pero se siente insegura cuando la conservadora va cargada. "Las asas son firmes, pero con el peso se vuelven un poco dudosas."
+
+La otra contra es de escala, y la dice mejor un comprador que la recomienda: "Ideal para parejas que llevan pocas cosas, para una familia ya no lo recomiendo". Tampoco tiene ruedas ni tapón de drenaje.
+
+Un dato para no confundirse: la ficha técnica de MercadoLibre describe este producto como una bolsa de poliéster. No lo es. Es una conservadora rígida, y las especificaciones que publicamos son las de Termolar.
+
+## Sobre las calificaciones
+
+Este producto tiene una cantidad de opiniones muy alta porque MercadoLibre agrupa en la misma ficha de catálogo las calificaciones de varios países de la región, no solo de Argentina. La nota es real y el volumen también, pero no son todas de compradores argentinos.
+
+## Para quién sí y para quién no
+
+Comprala si son dos o tres, si querés meter botellas de dos litros paradas y si el uso es de un día. No la compres si son cuatro o más, si necesitás cargarla llena caminando mucho, o si buscás algo con ruedas.`,
+    faq: [
+      { question: "¿Cuántas latas entran en la Termolar SUV de 20 litros?", answer: "26 latas de 350 ml o 20 de 473 ml, según la web oficial de Termolar. También entran 2 botellas de 2 litros paradas." },
+      { question: "¿Cuánto tiempo mantiene el frío?", answer: "Termolar declara 12 horas sin hielo y 24 horas con hielo. Varias reseñas reales reportan hielo que aguantó de un día para el otro." },
+      { question: "¿Sirve para una familia?", answer: "Para cuatro personas se queda chica. Un comprador que la califica bien lo aclara textualmente: es ideal para parejas, no para una familia." },
+      { question: "¿Por qué tiene tantas opiniones?", answer: "Porque MercadoLibre agrupa en la misma ficha de catálogo las calificaciones de varios países de la región. La nota y el volumen son reales, pero no son todas de compradores argentinos." },
+      { question: "¿Es una bolsa térmica o una conservadora rígida?", answer: "Es rígida, con aislamiento de poliestireno expandido. La ficha de MercadoLibre la describe como bolsa de poliéster, y ese dato de la publicación está mal." },
+    ],
+  },
+  {
+    id: "MLA22352427",
+    title: "Heladera Conservadora Térmica Termolar Suv 32 Litros Gris Color Gris con Naranja",
+    canonicalName: "Termolar SUV 32 L",
+    price: 66712,
+    originalPrice: 87780,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_675913-MLA99951104565_112025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_675913-MLA99951104565_112025-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_856813-MLA92263247634_092025-O.webp",
+    ],
+    category: "Hogar y Jardín",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/heladera-conservadora-termica-termolar-suv-32-litros-gris-color-gris-con-naranja/p/MLA22352427",
+    affiliateUrl: "https://meli.la/2Qta8KC",
+    condition: "new", freeShipping: true,
+    rating: 4.8, reviewCount: 5011,
+    pastelColor: "var(--pastel-purple)", visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Termolar" },
+      { label: "Línea", value: "SUV" },
+      { label: "Modelo", value: "SUV-32Lt" },
+      { label: "Capacidad", value: "32 litros" },
+      { label: "Capacidad en latas", value: "45 latas de 350 ml o 35 de 473 ml" },
+      { label: "Capacidad en botellas", value: "6 botellas PET de 2 litros" },
+      { label: "Largo", value: "52,7 cm" },
+      { label: "Ancho", value: "32,1 cm" },
+      { label: "Alto", value: "39 cm" },
+      { label: "Aislamiento", value: "Poliestireno expandido (EPS)" },
+      { label: "Conservación", value: "12 h sin hielo, 24 h con hielo (declarado por Termolar)" },
+      { label: "Posavasos", value: "Sí, de 74 mm de diámetro" },
+      { label: "Extras", value: "Tapa reversible, abertura deslizante para acceso rápido, manija reforzada" },
+      { label: "Ruedas", value: "No" },
+    ],
+    relatedProducts: ["MLA22505559", "MLA28583015", "MLA22352425", "MLA61602437"],
+    priceUpdated: "2026-08-15", priceLastChecked: "2026-08-15", priceVerifiedAt: "2026-08-15",
+    priceStatus: "fresh", reviewsSampledAt: "2026-08-15",
+    description: "El salto de tamaño que resuelve el asado o el fin de semana: 32 litros, 45 latas y 6 botellas de 2 litros, sin pasar a una conservadora pesada.",
+    seoTitle: "Termolar SUV 32 L: el tamaño para asado o fin de semana",
+    metaDescription: "Termolar SUV de 32 litros: 45 latas, 6 botellas de 2 litros y abertura deslizante. Specs verificadas contra el fabricante y contras reales.",
+    verdict: "Es el salto de tamaño que la mayoría termina necesitando: 32 litros, 45 latas de 350 ml o 6 botellas de 2 litros, con una abertura deslizante en la tapa que deja sacar una bebida sin abrir todo y perder el frío. Para un asado, una salida familiar o un fin de semana corto es la medida correcta de esta comparativa. La contra es que ya no es una conservadora que llevás con una mano sin pensarlo, y sigue sin tener ruedas.",
+    pros: [
+      "45 latas de 350 ml o 6 botellas de 2 litros, contra 26 latas y 2 botellas del modelo de 20 litros",
+      "Abertura deslizante en la tapa: sacás una bebida sin abrir todo y sin perder el frío",
+      "Tapa reversible y manija reforzada",
+      "Termolar declara 12 h de conservación sin hielo y 24 h con hielo",
+      "Compartimento en la tapa para el celular, algo que las reseñas destacan seguido",
+    ],
+    cons: [
+      "Sin ruedas: a 32 litros cargada ya pesa lo suficiente como para extrañarlas",
+      "No tiene tapón de drenaje",
+      "La ficha técnica de MercadoLibre le atribuye 26 latas y 4 botellas, los números de la de 20 litros. Termolar declara 45 latas y 6 botellas",
+      "Las medidas de la ficha de MercadoLibre (26x42x32 cm) tampoco coinciden con las del fabricante (52,7x32,1x39 cm)",
+    ],
+    customerReviews: [
+      { rating: 5, text: "Prácticamente es la mejor conservadora que vas a encontrar. Excelente calidad, fácil de llevar a un asado, de viaje o a la playa. Encima tiene para dejar la cerveza, un compartimiento para el celular. Es realmente muy recomendable.", date: "2026" },
+      { rating: 5, text: "Me gustó mucho el tamaño de este enfriador. Cabe 2 botellas de 2L en diagonal. Una botella de 1,5L, una de bebida alcohólica y algunas latas todavía. No es tan grande y es fácil de cargar cuando está muy lleno, y tampoco tan pequeño que no quepan botellas. Hasta que por fin acerté con el tamaño.", date: "2026" },
+    ],
+    articleBody: `## Qué es y para quién
+
+La Termolar SUV de 32 litros es la hermana grande de [la de 20](/producto/heladera-conservadora-suv-termolar-suv-58-56805-de-20l-gris-playa-picnic-mla22505559). Mismo sistema de aislamiento de poliestireno expandido, pero con capacidad para 45 latas de 350 ml o 6 botellas PET de 2 litros según la web oficial de Termolar.
+
+## Lo bueno
+
+Es el tamaño que resuelve la situación real: un asado, una salida familiar, un fin de semana corto. La abertura deslizante de la tapa es el detalle que más se agradece en uso: podés sacar una lata sin abrir la conservadora entera, que es la forma más rápida de perder el frío que juntaste. La tapa es reversible y la manija viene reforzada.
+
+Un comprador lo resume mejor que cualquier ficha: "fácil de llevar a un asado, de viaje o a la playa. Encima tiene para dejar la cerveza, un compartimiento para el celular".
+
+## La contra real
+
+No tiene ruedas, y a 32 litros cargada de hielo y bebida ya se nota. Tampoco tiene tapón de drenaje.
+
+Y hay algo que conviene saber antes de comparar en MercadoLibre: la ficha técnica de esta publicación tiene los números equivocados. Le atribuye 26 latas y 4 botellas, que son exactamente los datos de la [Termolar de 20 litros](/producto/heladera-conservadora-suv-termolar-suv-58-56805-de-20l-gris-playa-picnic-mla22505559), y da medidas más chicas que las reales. Termolar declara 45 latas, 6 botellas de 2 litros y 52,7 x 32,1 x 39 cm. Si te guiabas por la ficha de MercadoLibre, esta conservadora parecía apenas más grande que la de 20 litros, y en realidad entran 19 latas más y el triple de botellas de 2 litros.
+
+## Para quién sí y para quién no
+
+Comprala si el uso típico es asado, familia o fin de semana, y si querés meter botellas grandes sin hacer Tetris. No la compres si vas a tener que trasladarla llena a pie por tramos largos: para eso conviene una con ruedas.`,
+    faq: [
+      { question: "¿Cuántas latas entran en la Termolar SUV de 32 litros?", answer: "45 latas de 350 ml o 35 de 473 ml, según la web oficial de Termolar. También entran 6 botellas PET de 2 litros." },
+      { question: "¿Por qué la ficha de MercadoLibre dice 26 latas?", answer: "Porque tiene cargados los datos de la [Termolar de 20 litros](/producto/heladera-conservadora-suv-termolar-suv-58-56805-de-20l-gris-playa-picnic-mla22505559). Verificamos contra la web oficial de Termolar, que declara 45 latas de 350 ml para el modelo de 32 litros." },
+      { question: "¿Cuánto tiempo mantiene el frío?", answer: "Termolar declara 12 horas sin hielo y 24 horas con hielo, los mismos valores que para el modelo de 20 litros." },
+      { question: "¿Qué es la abertura deslizante?", answer: "Una tapita corrediza dentro de la tapa principal que permite sacar una bebida sin abrir toda la conservadora, para no perder el frío acumulado." },
+      { question: "¿Tiene ruedas?", answer: "No. Ninguna de las dos Termolar de esta comparativa tiene ruedas. Si las necesitás, la opción con ruedas de esta guía es [la Vöhler eléctrica](/producto/conservadora-vohler-33l-frio-calor-12v-220v-con-ruedas-negra-mla61602437)." },
+    ],
+  },
+  {
+    id: "MLA28583015",
+    title: "Conservadora Térmica Mor 75l Color Azul",
+    canonicalName: "Conservadora Mor 75 L",
+    price: 113850,
+    originalPrice: 199999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_614588-MLU73095672802_112023-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_614588-MLU73095672802_112023-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_976071-MLU73095918088_112023-O.webp",
+    ],
+    category: "Hogar y Jardín",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/conservadora-termica-mor-75l-color-azul/p/MLA28583015",
+    affiliateUrl: "https://meli.la/2CfdKXk",
+    condition: "new", freeShipping: true,
+    rating: 4.8, reviewCount: 764,
+    pastelColor: "var(--pastel-blue)", visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Mor" },
+      { label: "Capacidad", value: "75 litros" },
+      { label: "Capacidad en latas", value: "110 latas de 350 ml" },
+      { label: "Capacidad en botellas", value: "15 botellas PET de 2 litros" },
+      { label: "Largo", value: "64 cm" },
+      { label: "Ancho", value: "46,8 cm" },
+      { label: "Alto", value: "46,7 cm" },
+      { label: "Peso", value: "6,72 kg" },
+      { label: "Material", value: "Polipropileno inyectado, tapa de polietileno" },
+      { label: "Aislamiento", value: "Poliestireno expandido (EPS)" },
+      { label: "Posavasos", value: "Sí" },
+      { label: "Ruedas", value: "No" },
+      { label: "Tapón de drenaje", value: "No" },
+    ],
+    relatedProducts: ["MLA22352427", "MLA61602437", "MLA22505559", "MLA22352425"],
+    priceUpdated: "2026-08-15", priceLastChecked: "2026-08-15", priceVerifiedAt: "2026-08-15",
+    priceStatus: "fresh", reviewsSampledAt: "2026-08-15",
+    description: "La de mayor capacidad de esta comparativa: 75 litros y 110 latas, sin pasar al segmento importado que cuesta varias veces más.",
+    seoTitle: "Conservadora Mor 75 L: la más grande de la comparativa",
+    metaDescription: "Conservadora Mor de 75 litros: 110 latas, 15 botellas de 2 litros y precio real. La alternativa nacional al segmento importado.",
+    verdict: "Es la de mayor capacidad de esta comparativa y la respuesta al problema de las conservadoras grandes en Argentina: el segmento premium de ese tamaño es casi todo compra internacional, con precios varias veces más altos y sin reseñas locales. Esta es nacional, tiene respaldo real de calificaciones y entran 110 latas de 350 ml o 15 botellas de 2 litros. La contra concreta y repetida es que no trae tapón de drenaje: para vaciar 75 litros de agua hay que sacar todo y darla vuelta.",
+    pros: [
+      "110 latas de 350 ml o 15 botellas PET de 2 litros: la mayor capacidad de esta comparativa",
+      "Alternativa nacional al segmento importado, que en este tamaño cuesta varias veces más y llega sin reseñas locales",
+      "6,72 kg vacía, razonable para 75 litros",
+      "Polipropileno inyectado con aislamiento de poliestireno expandido",
+    ],
+    cons: [
+      "No trae tapón de drenaje, y a 75 litros eso se siente: hay que sacar todo y darla vuelta para vaciarla",
+      "Sin ruedas: llena es un trabajo de dos personas",
+      "Al menos un comprador la recibió con una sola bandeja interior en vez de dos",
+      "Es la que menos stock tiene de las cinco de esta comparativa",
+    ],
+    customerReviews: [
+      { rating: 4, text: "Debería tener un tapón en la parte inferior, para drenar el agua sin tener que sacar todo para vaciarla.", date: "2026" },
+      { rating: 4, text: "Me gustó, mantuvo el hielo durante 16 horas, pero solo vino con una bandeja. Luego encontré una en una tienda cerca de aquí y ahora viene con las dos bandejas.", date: "2026" },
+      { rating: 5, text: "Cabe mucha cosa, juro que pensé que fuera menor, pero me encantó porque llama la atención, ya que trabajo en la calle.", date: "2026" },
+    ],
+    articleBody: `## Qué es y para quién
+
+La conservadora Mor de 75 litros es la más grande de esta comparativa: 110 latas de 350 ml o 15 botellas PET de 2 litros, en polipropileno inyectado con aislamiento de poliestireno expandido. Pesa 6,72 kg vacía.
+
+## Lo bueno
+
+Resuelve un problema real del mercado argentino. Cuando buscás una conservadora de 70 litros o más en MercadoLibre, lo que aparece arriba es casi todo compra internacional: marcas como Igloo, RTIC o Engel, a precios varias veces más altos, con demora de importación y sin una sola calificación local. Esta es nacional, se consigue ya, y tiene cientos de calificaciones respaldándola.
+
+En uso, la capacidad impresiona incluso a quien la compró a propósito: "Cabe mucha cosa, juro que pensé que fuera menor". Un comprador reporta hielo que aguantó 16 horas.
+
+## La contra real
+
+No trae tapón de drenaje, y en una conservadora de este tamaño no es un detalle. La reseña que lo señala lo explica perfecto: "Debería tener un tapón en la parte inferior, para drenar el agua sin tener que sacar todo para vaciarla". Con 75 litros, darla vuelta llena de agua no es cómodo.
+
+Tampoco tiene ruedas, así que cargada se mueve entre dos. Y al menos un comprador reporta haberla recibido con una sola bandeja interior en vez de las dos que corresponden.
+
+## Para quién sí y para quién no
+
+Comprala si el uso es familia grande, camping de varios días o juntada donde hay que enfriar mucha bebida de una, y si la vas a cargar en el auto y bajarla ya en destino. No la compres si vas a tener que moverla llena con frecuencia o si te molesta vaciarla dándola vuelta.`,
+    faq: [
+      { question: "¿Cuántas latas entran en la conservadora Mor de 75 litros?", answer: "110 latas de 350 ml, según la web oficial de Mor. También entran 15 botellas PET de 2 litros." },
+      { question: "¿Tiene tapón para drenar el agua?", answer: "No, y es su contra más señalada en las reseñas. Para vaciarla hay que sacar el contenido y darla vuelta." },
+      { question: "¿Tiene ruedas?", answer: "No. Con 6,72 kg vacía y 75 litros de capacidad, llena conviene moverla entre dos personas." },
+      { question: "¿Conviene esta o una importada de tamaño similar?", answer: "Las importadas de 70 litros o más que aparecen en MercadoLibre son compra internacional: cuestan varias veces más, demoran y no tienen calificaciones locales. Esta es nacional, se consigue ya y tiene cientos de opiniones reales." },
+      { question: "¿Cuánto mantiene el frío?", answer: "Mor no publica un valor oficial de conservación para este modelo. Un comprador reporta hielo que duró 16 horas, pero depende mucho de cuánto hielo se cargue y de cuántas veces se abra." },
+    ],
+  },
+  {
+    id: "MLA61602437",
+    title: "Conservadora Vöhler 33L Frío Calor 12V 220V Con Ruedas Negra",
+    canonicalName: "Vöhler VHCE33R 33 L",
+    price: 242499,
+    originalPrice: 381327,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_904723-MLA112579899146_062026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_904723-MLA112579899146_062026-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_953672-MLA112253278210_062026-O.webp",
+    ],
+    category: "Hogar y Jardín",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/conservadora-vohler-33l-frio-calor-12v-220v-con-ruedas-negra/p/MLA61602437",
+    affiliateUrl: "https://meli.la/1feUWEr",
+    condition: "new", freeShipping: true,
+    rating: 4.8, reviewCount: 169,
+    pastelColor: "var(--pastel-slate)", visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Vöhler" },
+      { label: "Modelo", value: "VHCE33R" },
+      { label: "Capacidad", value: "33 litros" },
+      { label: "Alimentación", value: "12 V (auto) y 220 V (red)" },
+      { label: "Función", value: "Frío y calor" },
+      { label: "Largo", value: "34 cm" },
+      { label: "Ancho", value: "45,6 cm" },
+      { label: "Alto", value: "48,5 cm" },
+      { label: "Peso", value: "6,3 kg" },
+      { label: "Material", value: "ABS y plástico PP" },
+      { label: "Ruedas", value: "Sí" },
+      { label: "Bolsillos", value: "Sí" },
+    ],
+    relatedProducts: ["MLA22352427", "MLA28583015", "MLA22505559", "MLA22352425"],
+    priceUpdated: "2026-08-15", priceLastChecked: "2026-08-15", priceVerifiedAt: "2026-08-15",
+    priceStatus: "fresh", reviewsSampledAt: "2026-08-15",
+    description: "La única con ruedas y la única eléctrica de esta comparativa. Enfría sin hielo enchufada a 12 V en el auto o a 220 V en la casa.",
+    seoTitle: "Vöhler 33 L: la única con ruedas y eléctrica",
+    metaDescription: "Conservadora Vöhler de 33 litros con ruedas, frío y calor, 12 V y 220 V. Para auto y viajes largos. Precio real y contras honestas.",
+    verdict: "Es la única con ruedas y la única eléctrica de esta comparativa, y eso la pone en otra categoría más que en otro escalón. No compite por litros: compite por no depender del hielo. Enchufada a 12 V funciona en el auto o el camión, y a 220 V en la casa, con función de frío y de calor. Es la opción para viajes largos, trabajo en la calle o gente que se cansó de comprar hielo. Las contras son las esperables de una eléctrica: tarda en enfriar y es voluminosa.",
+    pros: [
+      "La única con ruedas de esta comparativa: se arrastra en vez de cargarse",
+      "No depende del hielo: enfría mientras esté enchufada, así que no hay límite de horas",
+      "Funciona a 12 V en el auto o camión y a 220 V en la casa",
+      "También calienta, lo que la hace útil para viajes largos con comida preparada",
+      "Sus reseñas son claramente de compradores argentinos, a diferencia de las fichas de catálogo regional",
+    ],
+    cons: [
+      "Tarda un rato en bajar la temperatura: no es frío instantáneo como cargar hielo",
+      "Es voluminosa y varios compradores la describen como armatoste",
+      "Sin enchufe disponible no enfría: si el uso es playa o camping sin electricidad ni auto cerca, no sirve",
+      "Es la más cara de esta comparativa por bastante",
+      "La ficha de MercadoLibre declara capacidad para 6 latas, un dato incompleto que no se corresponde con los 33 litros que ella misma declara",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", text: "Es muy bella. El plus de las rueditas suma. La tapa se desensambla muy fácilmente. Tiene una goma para mejor hermetismo. Es algo armatoste, pero para un flia de camping re va.", date: "2026" },
+      { rating: 5, country: "Argentina", text: "La mejor compra mi marido la lleva en el camión.", date: "2026" },
+      { rating: 4, country: "Argentina", text: "Muy buena. Tarda un rato pero mantiene bien el frío! la verdad superó mis expectativas.", date: "2026" },
+    ],
+    articleBody: `## Qué es y para quién
+
+La Vöhler VHCE33R es una conservadora eléctrica de 33 litros con ruedas, que funciona a 12 V en el auto y a 220 V en la casa, con función de frío y de calor. No es una conservadora pasiva más grande: es otra cosa.
+
+## Lo bueno
+
+Resuelve el problema de fondo de cualquier conservadora: el hielo se derrite. Enchufada, esta enfría mientras haya corriente, así que un viaje de doce horas o un día entero trabajando en la calle dejan de ser un problema de logística de hielo. Es también la única de esta comparativa con ruedas, lo que a 33 litros cargados se agradece.
+
+Y hay un detalle que la distingue del resto: sus reseñas son inequívocamente argentinas. Una compradora la describe como "algo armatoste, pero para un flia de camping re va". Otra resume el uso real: "mi marido la lleva en el camión".
+
+## La contra real
+
+No da frío instantáneo. Una compradora lo dice sin adornos: "tarda un rato pero mantiene bien el frío". Si la cargás con bebida a temperatura ambiente diez minutos antes de salir, no vas a tener el resultado de una conservadora con hielo. Conviene enchufarla con anticipación.
+
+Es voluminosa para su capacidad, porque el sistema de refrigeración ocupa lugar: los 33 litros que declara la publicación entran en un cuerpo de 48,5 cm de alto. A diferencia de las Termolar y las Mor de esta comparativa, acá no pudimos cruzar el dato contra una ficha técnica del fabricante, así que el número es el de MercadoLibre. Y lo más importante: sin enchufe no enfría. Para una tarde de playa sin auto cerca, una conservadora pasiva con hielo es mejor herramienta.
+
+Un dato de la publicación que no cierra: la ficha de MercadoLibre declara capacidad para 6 latas. Es un número incompleto que no se corresponde con los 33 litros que la misma ficha declara, así que no lo publicamos como especificación.
+
+## Para quién sí y para quién no
+
+Comprala si el uso es auto, camión, viajes largos o trabajo en la calle, o si tenés dónde enchufarla en destino. No la compres si el uso es playa sin electricidad, si necesitás la máxima capacidad por peso, o si el presupuesto manda: por bastante menos, la [Termolar de 32 litros](/producto/heladera-conservadora-termica-termolar-suv-32-litros-gris-color-gris-con-naranja-mla22352427) da un volumen parecido sin depender de un enchufe.`,
+    faq: [
+      { question: "¿La conservadora Vöhler necesita hielo?", answer: "No. Enfría por sistema eléctrico mientras esté enchufada a 12 V en el auto o a 220 V en la casa. Sin corriente no enfría." },
+      { question: "¿Cuánto tarda en enfriar?", answer: "No es inmediata. Las reseñas coinciden en que tarda un rato y después mantiene bien la temperatura, así que conviene enchufarla con anticipación." },
+      { question: "¿Sirve para la playa?", answer: "Solo si tenés el auto cerca para enchufarla a 12 V. Sin fuente de energía no funciona, y ahí conviene una conservadora pasiva con hielo." },
+      { question: "¿También calienta?", answer: "Sí, tiene función de frío y de calor, lo que la hace útil para llevar comida preparada en viajes largos." },
+      { question: "¿Tiene ruedas?", answer: "Sí, es la única de esta comparativa que las tiene. Con 6,3 kg vacía y 33 litros de capacidad, se agradecen." },
+    ],
+  },
+  // ── Guía nueva mesa ratona — silo hogar-jardin ───────────────────────────
+  // Sourcing por /mas-vendidos/MLA436384 el 2026-08-15. La ficha técnica de ML
+  // tiene errores de carga en varios de estos productos (altura de 8 cm, diámetro
+  // en mesas rectangulares): se declaran en cada ficha.
+  // Ver docs/sourcing-mesa-ratona-2026-08-15.md
+  {
+    id: "MLA56400904",
+    title: "Mesa Ratona 80 Cm Estilo Clasico Tapa Melamina Negro Patas Inclinadas Color Roble",
+    canonicalName: "Mesa Ratona Sajo 80 cm",
+    price: 26299,
+    originalPrice: 34999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_826991-MLA114492929457_072026-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_826991-MLA114492929457_072026-O.webp"],
+    category: "Hogar y Jardín",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/mesa-ratona-80-cm-estilo-clasico-tapa-melamina-negro-patas-inclinadas-color-roble/p/MLA56400904",
+    affiliateUrl: "https://meli.la/2wmgBDb",
+    condition: "new", freeShipping: true,
+    rating: 3.9, reviewCount: 25,
+    pastelColor: "var(--pastel-slate)", visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Sajo" },
+      { label: "Modelo", value: "MRM803X15" },
+      { label: "Largo", value: "80 cm" },
+      { label: "Ancho", value: "40 cm" },
+      { label: "Altura", value: "42 cm" },
+      { label: "Forma", value: "Rectangular" },
+      { label: "Material de la tapa", value: "Melamina" },
+      { label: "Material de las patas", value: "Pino" },
+      { label: "Peso", value: "3 kg" },
+      { label: "Requiere ensamblado", value: "Sí" },
+      { label: "Incluye tornillería", value: "No, según la propia ficha de MercadoLibre" },
+      { label: "Incluye manual", value: "Sí" },
+    ],
+    relatedProducts: ["MLA43785597", "MLA63777664", "MLA66551735", "MLA34969878", "MLA36859297"],
+    priceUpdated: "2026-08-15", priceLastChecked: "2026-08-15", priceVerifiedAt: "2026-08-15",
+    priceStatus: "fresh", reviewsSampledAt: "2026-08-15",
+    description: "La mesa ratona más barata de esta comparativa: 80 cm de largo por menos de la mitad que la mayoría. La contra está declarada en la propia ficha: no trae tornillos.",
+    seoTitle: "Mesa Ratona Sajo 80 cm: la más barata de la comparativa",
+    metaDescription: "Mesa ratona Sajo de 80 cm: la opción más económica comparada. Qué resigna en rating y por qué conviene contar con tornillos propios antes de armarla.",
+    verdict: "Es la más barata de esta comparativa por bastante, y a 80 cm de largo es también de las pocas que se acerca al formato clásico de mesa de living sin pasar a otra categoría de precio. Ahora, es la peor calificada del grupo y hay una contra que no es opinión: la propia ficha técnica de MercadoLibre declara que NO incluye accesorios de ensamblado, y una reseña lo confirma con todas las letras. Comprala sabiendo que vas a tener que poner la tornillería vos.",
+    pros: [
+      "La más barata de esta comparativa, por márgenes amplios",
+      "80 cm de largo: se acerca al formato de mesa de living clásica sin saltar de categoría de precio",
+      "3 kg: liviana, se mueve con una mano para limpiar debajo",
+      "Patas de pino real, no plástico imitación madera",
+    ],
+    cons: [
+      "La peor calificada de esta comparativa y la que menos opiniones acumula, así que el promedio tiene poco respaldo",
+      "No incluye tornillería: lo declara la ficha técnica de MercadoLibre y lo confirma una reseña real",
+      "Tapa de melamina de 40 cm de ancho: es angosta para apoyar bandeja y vasos a la vez",
+    ],
+    customerReviews: [
+      { rating: 4, country: "Argentina", text: "Por el precio esta okey, lo unico no vienen con tornillos.", date: "2026" },
+      { rating: 5, country: "Argentina", text: "Esta linda la mesa. Buenas terminaciones. Llego en tiempo y forma.", date: "2026" },
+      { rating: 5, country: "Argentina", text: "Son muy lindas, quedan muy bien en sala!.", date: "2026" },
+    ],
+    articleBody: `## Qué es y para quién
+
+La Sajo MRM803X15 es una mesa ratona rectangular de 80 x 40 cm y 42 cm de alto, con tapa de melamina y patas inclinadas de pino. Pesa 3 kg.
+
+## Lo bueno
+
+Es la más barata de esta comparativa por un margen grande, y con 80 cm de largo se acerca al formato clásico de mesa de living, que en esta categoría suele costar varias veces más. Las patas son de pino real, un detalle que no es menor: en el segmento económico abundan las patas de plástico imitando madera.
+
+Las reseñas positivas coinciden en lo mismo: buenas terminaciones y llega bien.
+
+## La contra real
+
+**No trae tornillos.** No es una queja aislada: la propia ficha técnica de MercadoLibre declara que no incluye accesorios de ensamblado, y un comprador lo confirma: "Por el precio esta okey, lo unico no vienen con tornillos". Si la comprás, conseguite la tornillería antes de que llegue.
+
+La otra contra es de evidencia: con 25 opiniones es la que menos respaldo tiene de esta comparativa, y su 3.9 es el promedio más bajo del grupo. No significa que sea mala, significa que sabemos menos sobre ella que sobre las demás.
+
+Y los 40 cm de ancho se notan: es angosta para apoyar una bandeja y vasos al mismo tiempo.
+
+## Para quién sí y para quién no
+
+Comprala si el presupuesto manda, si querés largo de mesa de living sin pagarlo, y si tenés tornillos o no te molesta comprarlos. No la compres si querés apoyar cosas con holgura, o si preferís elegir con muchas opiniones detrás.`,
+    faq: [
+      { question: "¿La mesa ratona Sajo trae tornillos?", answer: "No. La ficha técnica de MercadoLibre declara que no incluye accesorios de ensamblado, y una reseña real lo confirma. Conviene tener la tornillería antes de que llegue." },
+      { question: "¿Cuánto mide?", answer: "80 cm de largo por 40 de ancho y 42 de alto, según la ficha de la publicación. El largo es de los mayores de esta comparativa a este precio." },
+      { question: "¿De qué material es?", answer: "Tapa de melamina y patas de pino. Las patas son de madera real, no plástico imitación." },
+      { question: "¿Por qué tiene el rating más bajo de la comparativa?", answer: "Tiene 3.9 estrellas sobre 25 opiniones, la base más chica del grupo. La queja concreta y repetida es la falta de tornillos; el resto de los comentarios son positivos sobre terminaciones y entrega." },
+    ],
+  },
+  {
+    id: "MLA43785597",
+    title: "Mesa Popstore nordica ratona arrime hierro bandeja desmontable color negro",
+    canonicalName: "Mesa Popstore Nórdica",
+    price: 32950,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_698613-MLA99460703474_112025-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_698613-MLA99460703474_112025-O.webp"],
+    category: "Hogar y Jardín",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/mesa-popstore-nordica-ratona-arrime-hierro-bandeja-desmontable-color-negro/p/MLA43785597",
+    affiliateUrl: "https://meli.la/1GeMHqD",
+    condition: "new", freeShipping: true,
+    rating: 4.7, reviewCount: 1257,
+    pastelColor: "var(--pastel-blue)", visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Popstore" },
+      { label: "Modelo", value: "Nórdica" },
+      { label: "Altura", value: "50 cm" },
+      { label: "Material de la base", value: "Hierro" },
+      { label: "Material de la tapa", value: "Acero" },
+      { label: "Bandeja desmontable", value: "Sí" },
+      { label: "Peso", value: "4 kg" },
+      { label: "Apta para exterior", value: "Sí" },
+      { label: "Requiere ensamblado", value: "Sí, con tornillería incluida" },
+      { label: "Medidas de la tapa", value: "Sin confirmar: la ficha de MercadoLibre declara forma redonda y a la vez 42 x 52 cm y 40 cm de diámetro, tres datos que no cierran entre sí" },
+    ],
+    relatedProducts: ["MLA63777664", "MLA34969878", "MLA66551735", "MLA56400904", "MLA36859297"],
+    priceUpdated: "2026-08-15", priceLastChecked: "2026-08-15", priceVerifiedAt: "2026-08-15",
+    priceStatus: "fresh", reviewsSampledAt: "2026-08-15",
+    description: "Estructura de hierro con bandeja desmontable de acero, apta para exterior. Más de mil opiniones y una de las mejores notas de esta comparativa.",
+    seoTitle: "Mesa Popstore Nórdica: hierro, bandeja desmontable",
+    metaDescription: "Mesa ratona Popstore de hierro con bandeja desmontable y apta para exterior: 4.7 estrellas y más de mil opiniones. Contras reales antes de comprar.",
+    verdict: "Es la única de esta comparativa con estructura de hierro y bandeja de acero desmontable, y la única declarada apta para exterior. Eso la hace la opción más versátil del grupo: sirve de ratona, de mesa de arrime y de bandeja para servir, adentro o en el balcón. Tiene 4.7 estrellas sobre más de mil opiniones, el respaldo más sólido después del set de Justo Makario. La contra que más se repite no es de diseño sino de control de calidad: varios compradores la reciben con defectos de pintura.",
+    pros: [
+      "Estructura de hierro y bandeja de acero: la única de metal macizo de esta comparativa junto con la Mobilarg",
+      "La bandeja se desmonta y sirve para llevar cosas a la mesa",
+      "Apta para exterior, así que funciona en balcón o galería",
+      "Armado sencillo con tornillería incluida y regatones que encajan bien, confirmado en varias reseñas",
+      "El segundo mejor respaldo de opiniones de esta comparativa",
+    ],
+    cons: [
+      "Defectos de pintura al llegar: aparece en más de una reseña, con el esmalte saltado o englobado",
+      "La ficha de MercadoLibre se contradice sobre las medidas: dice forma redonda y a la vez declara 42 x 52 cm y 40 cm de diámetro",
+      "La ficha la declara plegable, pero ninguna reseña menciona que se pliegue: hablan de armarla con tornillos",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", text: "Me encanto. Soy mas inútil que charlotte caniggia y aun asi pude armarla con facilidad. 10/10.", date: "2026" },
+      { rating: 4, country: "Argentina", text: "A diferencia de otros productos viene muy bien empaquetada. Tiene buenas terminaciones, con topecitos de goma, es fácil de armar, los regatones entran perfectos, viene con instrucciones en español. Me vino con un detallecito de pintura que hubiese preferido no tener pero en sí por el precio me gustó mucho.", date: "2026" },
+      { rating: 4, country: "Argentina", text: "Es hermosa, facil de armar y queda super firme, tiene peso. Lo único es que vino con el esmalte englobado en una parte de la bandeja.", date: "2026" },
+    ],
+    articleBody: `## Qué es y para quién
+
+La Popstore Nórdica es una mesa de hierro con bandeja de acero desmontable, de 50 cm de alto. Funciona como mesa ratona, como mesa de arrime al costado del sillón y como bandeja para servir, y la ficha la declara apta para exterior.
+
+## Lo bueno
+
+Es la más versátil de esta comparativa. La bandeja sale y la usás para llevar cosas; el aro de hierro queda como base. Es además la única de esta comparativa declarada apta para exterior: la Mobilarg también es metálica pero su ficha dice que no lo es, y la melamina y el MDF de las demás no aguantan la humedad.
+
+El armado aparece como punto fuerte en las reseñas, con una descripción difícil de mejorar: "Soy mas inútil que charlotte caniggia y aun asi pude armarla con facilidad". Otro comprador detalla que viene bien empaquetada, con topes de goma, regatones que encajan e instrucciones en español.
+
+Con más de mil opiniones y 4.7 estrellas, es el segundo respaldo más sólido del grupo.
+
+## La contra real
+
+El control de calidad de la pintura. Aparece en más de una reseña con el mismo problema: "vino con el esmalte englobado en una parte de la bandeja", "me vino con un detallecito de pintura que hubiese preferido no tener". No es un defecto estructural y la mayoría igual la califica bien, pero conviene revisarla al abrirla.
+
+Un aviso sobre las medidas: la ficha de MercadoLibre se contradice sola. Declara forma redonda, y al mismo tiempo 42 cm de ancho por 52 de largo y 40 cm de diámetro. Tres datos que no pueden ser ciertos a la vez. Por eso no publicamos una medida de tapa como si fuera un dato firme.
+
+## Para quién sí y para quién no
+
+Comprala si querés algo de metal que sirva adentro y afuera, si te gusta la idea de la bandeja desmontable, o si buscás la de mejor relación entre respaldo de opiniones y precio. No la compres si necesitás superficie grande: es una mesa chica de arrime, no una mesa de living.`,
+    faq: [
+      { question: "¿La bandeja de la Popstore se saca?", answer: "Sí, la bandeja de acero es desmontable y se puede usar para servir, dejando el aro de hierro como base." },
+      { question: "¿Sirve para el balcón?", answer: "Sí, la ficha la declara apta para exterior, y es la única de esta comparativa que lo declara. Ojo con el razonamiento fácil: la Mobilarg Cuadra 57 también es metálica y su ficha dice que NO es apta. En las demás, de melamina y MDF, el material directamente no aguanta la humedad." },
+      { question: "¿Es fácil de armar?", answer: "Sí, es lo que más destacan las reseñas. Viene con tornillería, regatones y manual en español, y varios compradores sin experiencia lo resolvieron sin ayuda." },
+      { question: "¿Qué medidas tiene exactamente?", answer: "No lo damos por confirmado. La ficha de MercadoLibre declara forma redonda y a la vez 42 x 52 cm y 40 cm de diámetro: tres datos que no cierran entre sí. Conviene preguntarle al vendedor antes de comprar si la medida es crítica para tu espacio." },
+      { question: "¿Viene con defectos?", answer: "Más de una reseña reporta detalles de pintura al llegar, con el esmalte saltado o englobado. La mayoría igual la califica con 4 o 5 estrellas, pero conviene revisarla al abrir el paquete." },
+    ],
+  },
+  {
+    id: "MLA63777664",
+    title: "Set de Mesas Ratonas Nórdicas Boomerang en Melamina Blanca",
+    canonicalName: "Set Justo Makario Boomerang x2",
+    price: 39300,
+    originalPrice: 79799,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_639006-MLA102830949280_012026-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_639006-MLA102830949280_012026-O.webp"],
+    category: "Hogar y Jardín",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/set-de-mesas-ratonas-nordicas-boomerang-en-melamina-blanca/p/MLA63777664",
+    affiliateUrl: "https://meli.la/2reLEaW",
+    condition: "new", freeShipping: true,
+    rating: 4.5, reviewCount: 3193,
+    pastelColor: "var(--pastel-green)", visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Justo Makario" },
+      { label: "Modelo", value: "Boomerang" },
+      { label: "Unidades por pack", value: "2" },
+      { label: "Largo", value: "65 cm" },
+      { label: "Ancho", value: "45 cm" },
+      { label: "Forma", value: "Boomerang" },
+      { label: "Material de la tapa", value: "Melamina" },
+      { label: "Material de las patas", value: "Madera" },
+      { label: "Cantidad de patas", value: "3" },
+      { label: "Peso", value: "4 kg" },
+      { label: "Requiere ensamblado", value: "Sí, con accesorios y manual incluidos" },
+      { label: "Altura", value: "Sin confirmar: la ficha de MercadoLibre declara 8 cm, un dato imposible para una mesa ratona" },
+    ],
+    relatedProducts: ["MLA66551735", "MLA43785597", "MLA34969878", "MLA56400904", "MLA36859297"],
+    priceUpdated: "2026-08-15", priceLastChecked: "2026-08-15", priceVerifiedAt: "2026-08-15",
+    priceStatus: "fresh", reviewsSampledAt: "2026-08-15",
+    description: "El set de mesas ratonas más vendido de MercadoLibre Argentina: dos mesas nórdicas de melamina con más de 3.000 opiniones reales.",
+    seoTitle: "Set Justo Makario Boomerang: el más vendido",
+    metaDescription: "Set de 2 mesas ratonas nórdicas Justo Makario: más de 3.000 opiniones. Qué reportan sobre tornillos faltantes y golpes antes de comprarlo.",
+    verdict: "Es el producto más vendido de la categoría mesas ratonas en MercadoLibre Argentina y el que más opiniones acumula de esta comparativa, por lejos. Son dos mesas de melamina con forma de boomerang que se pueden usar juntas o separadas en distintos rincones, lo que explica buena parte de su éxito: por el precio de una mesa te llevás dos muebles. La contra es de control de calidad y se repite: golpes en la melamina al llegar y tornillos que faltan o agujeros que no coinciden.",
+    pros: [
+      "El producto más vendido de la categoría y el de mayor base de opiniones de esta comparativa",
+      "Son dos mesas: se usan juntas como conjunto o separadas en dos rincones distintos",
+      "Estética nórdica con patas de madera real",
+      "4 kg el set completo: se mueven con una mano",
+    ],
+    cons: [
+      "Llegan con golpes o marcas en la melamina, mencionado en varias reseñas",
+      "Faltan tornillos o los agujeros no coinciden, según reseñas reales",
+      "Varios compradores describen el material como frágil",
+      "La ficha de MercadoLibre declara una altura de 8 cm, dato imposible que no sirve para planificar el espacio",
+    ],
+    customerReviews: [
+      { rating: 4, country: "Argentina", text: "El producto es bueno y es exactamente como se muestra en las fotos. Fácil de armar, únicamente destaco que llegó con un pequeño detalle/cachón en la parte inferior. Volveríamos a comprarlo.", date: "2026" },
+      { rating: 4, country: "Argentina", text: "Muy lindas y delicadas. Solo unos detalles al armarla. Faltaban algunos tornillos y los orificios no coincidían pero se pudo solucionar fácilmente.", date: "2026" },
+      { rating: 3, country: "Argentina", text: "Pintorescas, no tan fácil de armar xq es medio frágil el material en sí … pero está de acuerdo a precio /calidad.", date: "2026" },
+    ],
+    articleBody: `## Qué es y para quién
+
+El set Boomerang de Justo Makario son dos mesas ratonas nórdicas de melamina con patas de madera y forma curva, de 65 x 45 cm. Es el producto más vendido de la categoría mesas ratonas en MercadoLibre Argentina.
+
+## Lo bueno
+
+La razón de su éxito es simple: por lo que cuesta una mesa, te llevás dos muebles. Se usan juntas formando un conjunto, o separadas en dos rincones distintos de la casa. Con 4 kg el set entero, se reacomodan con una mano.
+
+Y tienen el respaldo más grande de esta comparativa: más de 3.000 opiniones. Cuando un producto acumula ese volumen, el promedio dice bastante más que en uno con veinte.
+
+## La contra real
+
+Control de calidad, en dos frentes que aparecen una y otra vez.
+
+El primero es el transporte: llegan con golpes en la melamina. "Llegó con un pequeño detalle/cachón en la parte inferior", dice un comprador que igual la recompraría.
+
+El segundo es el armado: "Faltaban algunos tornillos y los orificios no coincidían pero se pudo solucionar fácilmente". Varios describen el material como frágil, y uno lo resume sin vueltas: "no tan fácil de armar xq es medio frágil el material en sí, pero está de acuerdo a precio/calidad".
+
+Eso último es la clave para decidir: nadie las compra esperando un mueble macizo, y quienes las califican bien lo hacen sabiendo lo que pagaron.
+
+Un dato de la publicación que no sirve: la ficha declara una altura de 8 centímetros. Es imposible para una mesa ratona y parece ser el espesor de la tapa cargado en el campo equivocado. Para planificar el espacio, no te guíes por ese número.
+
+## Para quién sí y para quién no
+
+Compralas si querés resolver dos rincones con una compra, si te gusta la estética nórdica y si aceptás que en esta franja de precio el material es liviano. No las compres si buscás un mueble macizo, o si te va a molestar tener que conseguir un tornillo o disimular un golpe.`,
+    faq: [
+      { question: "¿Cuántas mesas trae el set Boomerang?", answer: "Dos. Se pueden usar juntas como conjunto o separadas en dos ambientes distintos, que es lo que más destacan las reseñas." },
+      { question: "¿Qué altura tienen?", answer: "No está confirmada. La ficha de MercadoLibre declara 8 cm, que es imposible para una mesa ratona y parece ser el espesor de la tapa cargado en el campo equivocado. Si la altura es crítica para tu espacio, conviene preguntarle al vendedor." },
+      { question: "¿Llegan bien o vienen golpeadas?", answer: "Varias reseñas reportan golpes o marcas en la melamina al llegar, y también tornillos faltantes o agujeros que no coinciden. La mayoría los resolvió y volvería a comprar, pero conviene revisarlas al abrir." },
+      { question: "¿Es un material resistente?", answer: "No. Varios compradores lo describen como frágil, y quienes las califican bien lo hacen en relación al precio. Es melamina liviana, no un mueble macizo." },
+      { question: "¿Por qué es la más vendida?", answer: "Porque son dos muebles por el precio de uno y la estética nórdica funciona en casi cualquier living. Acumula más de 3.000 opiniones, la mayor base de esta comparativa." },
+    ],
+  },
+  {
+    id: "MLA66551735",
+    title: "Mesas De Centro Ratona Ambi O Set X3 Acero Mdf Marrón y Negro",
+    canonicalName: "Set Ambi O x3 Apilables",
+    price: 54707,
+    originalPrice: 59999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_789843-MLA107890444550_032026-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_789843-MLA107890444550_032026-O.webp"],
+    category: "Hogar y Jardín",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/mesas-de-centro-ratona-ambi-o-set-x3-acero-mdf-marron-y-negro/p/MLA66551735",
+    affiliateUrl: "https://meli.la/1PqSowF",
+    condition: "new", freeShipping: true,
+    rating: 4.8, reviewCount: 297,
+    pastelColor: "var(--pastel-purple)", visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Ambi O" },
+      { label: "Modelo", value: "CTD-10 / CTD-11" },
+      { label: "Unidades por pack", value: "3" },
+      { label: "Forma", value: "Cuadrada" },
+      { label: "Largo", value: "40 cm" },
+      { label: "Ancho", value: "40 cm" },
+      { label: "Altura", value: "42 cm" },
+      { label: "Material de la base", value: "Acero" },
+      { label: "Material de la tapa", value: "MDF" },
+      { label: "Peso", value: "4,8 kg" },
+      { label: "Requiere ensamblado", value: "Sí, incluye llave para armarlas" },
+    ],
+    relatedProducts: ["MLA63777664", "MLA34969878", "MLA43785597", "MLA56400904", "MLA36859297"],
+    priceUpdated: "2026-08-15", priceLastChecked: "2026-08-15", priceVerifiedAt: "2026-08-15",
+    priceStatus: "fresh", reviewsSampledAt: "2026-08-15",
+    description: "Tres mesas apilables de acero y MDF que se guardan una dentro de otra. La mejor calificada de esta comparativa junto con la Mobilarg.",
+    seoTitle: "Set Ambi O x3: tres mesas apilables de acero y MDF",
+    metaDescription: "Set de 3 mesas ratonas apilables Ambi O: 4.8 estrellas. Cómo se usan juntas o separadas y qué pasa con el manual de armado.",
+    verdict: "Son tres mesas de acero y MDF que se apilan una dentro de otra, y esa es exactamente su gracia: usás las dos grandes como mesa ratona, la chica en un rincón, y cuando necesitás espacio las juntás y ocupan lo que una sola. Con 4.8 estrellas es de las mejor calificadas de esta comparativa. La contra que aparece es el manual de armado: hay reportes contradictorios sobre si viene o no, y al menos un comprador marcó la mesa por poner un tornillo donde no iba.",
+    pros: [
+      "Tres mesas que se apilan: ocupan el lugar de una cuando no las usás",
+      "De las mejor calificadas de esta comparativa",
+      "Acero en la base y MDF en la tapa: más consistente que la melamina liviana del segmento económico",
+      "Incluye una llave para armarlas, así que no hacen falta herramientas propias",
+      "Se usan como conjunto de living o repartidas por la casa",
+    ],
+    cons: [
+      "El manual de armado es incompleto, y hay reportes contradictorios sobre si viene incluido",
+      "Al menos un comprador puso mal un tornillo por falta de instrucciones y marcó la mesa",
+      "40 x 40 cm cada una: son mesas chicas, no reemplazan una mesa de living grande",
+    ],
+    customerReviews: [
+      { rating: 4, country: "Argentina", text: "Quedan lindas, no ocupan lugar, resuelven el espacio que necesitaba mesa. Lo único negativo es que no tiene manual de armado y puse mal un tornillo q marcó la mesa.", date: "2026" },
+      { rating: 5, country: "Argentina", text: "Muy lindas. Usé la más chiquita para un rincón y las dos más grandes como mesita ratona. También las tres juntas quedan muy buenas y apiladas no ocupan espacio.", date: "2026" },
+      { rating: 5, country: "Argentina", text: "Económicas, de buena calidad y el tamaño justo para un living no tan grande, son muy facil de armar e incluye una llave para armarlas sino tenés herramientas.", date: "2026" },
+    ],
+    articleBody: `## Qué es y para quién
+
+El set Ambi O son tres mesas de centro cuadradas de 40 x 40 cm, con base de acero y tapa de MDF, que se apilan una dentro de otra.
+
+## Lo bueno
+
+El formato apilable resuelve el problema real de los livings chicos argentinos: querés superficie cuando hay gente y querés el piso libre cuando no. Una compradora lo explica mejor que cualquier ficha: "Usé la más chiquita para un rincón y las dos más grandes como mesita ratona. También las tres juntas quedan muy buenas y apiladas no ocupan espacio".
+
+Los materiales son un escalón arriba del segmento económico: acero en la base y MDF en la tapa, en vez de melamina fina. Y trae una llave para el armado, detalle que agradece quien no tiene herramientas en casa.
+
+Con 4.8 estrellas es de las mejor calificadas de esta comparativa.
+
+## La contra real
+
+El manual. Un comprador dice directamente "no tiene manual de armado y puse mal un tornillo q marcó la mesa". Otro aclara que las instrucciones "son incompletas pero usando el sentido común se logra armarlo en un ratito". Y un tercero contradice a los dos: "leí comentarios que no traía instrucciones pero sí vinieron y está todo detallado".
+
+O sea que la documentación es inconsistente entre envíos. No es grave, pero conviene mirar bien las piezas antes de atornillar, porque el error de un comprador dejó marca permanente.
+
+La otra contra es de escala: 40 x 40 cm cada una. Son mesas chicas y no reemplazan una mesa de living grande, ni siquiera juntando las tres.
+
+## Para quién sí y para quién no
+
+Compralas si tenés un living chico, si te sirve poder guardarlas apiladas, o si querés repartir mesas por distintos rincones. No las compres si necesitás una superficie grande y continua para apoyar cosas.`,
+    faq: [
+      { question: "¿Cuántas mesas trae el set Ambi O?", answer: "Tres, y se apilan una dentro de otra. Se pueden usar juntas como conjunto, separadas por la casa, o guardadas apiladas ocupando el lugar de una sola." },
+      { question: "¿Vienen con instrucciones?", answer: "Depende del envío. Hay reseñas que dicen que no vino manual, otras que vino incompleto y otras que estaba todo detallado. Conviene mirar bien las piezas antes de atornillar: un comprador marcó la mesa por poner un tornillo donde no iba." },
+      { question: "¿Hacen falta herramientas?", answer: "No. El set incluye una llave para el armado, algo que las reseñas destacan para quien no tiene herramientas en casa." },
+      { question: "¿De qué material son?", answer: "Base de acero y tapa de MDF, un escalón por encima de la melamina fina que domina el segmento económico de esta categoría." },
+      { question: "¿Alcanzan como mesa de living?", answer: "Para un living chico sí. Cada una mide 40 x 40 cm, así que ni las tres juntas equivalen a una mesa de living grande. Para eso hay que ir al formato de 100 cm o más." },
+    ],
+  },
+  {
+    id: "MLA34969878",
+    title: "Mobilarg Cuadra 57 mesa ratona base acero 1 unidad negro",
+    canonicalName: "Mobilarg Cuadra 57",
+    price: 94738,
+    originalPrice: 142501,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_782736-MLA108918183544_032026-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_782736-MLA108918183544_032026-O.webp"],
+    category: "Hogar y Jardín",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/mobilarg-cuadra-57-mesa-ratona-base-acero-1-unidad-negro/p/MLA34969878",
+    affiliateUrl: "https://meli.la/1YD42U5",
+    condition: "new", freeShipping: true,
+    rating: 4.9, reviewCount: 45,
+    pastelColor: "var(--pastel-slate)", visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Mobilarg" },
+      { label: "Modelo", value: "Cuadra 57" },
+      { label: "Largo", value: "57 cm" },
+      { label: "Ancho", value: "57 cm" },
+      { label: "Altura", value: "45 cm" },
+      { label: "Forma", value: "Cuadrada" },
+      { label: "Material de la base", value: "Acero" },
+      { label: "Material de la tapa", value: "Acero" },
+      { label: "Acabado", value: "Negro mate" },
+      { label: "Peso", value: "4 kg" },
+      { label: "Requiere ensamblado", value: "No, viene armada" },
+    ],
+    relatedProducts: ["MLA43785597", "MLA66551735", "MLA36859297", "MLA63777664", "MLA56400904"],
+    priceUpdated: "2026-08-15", priceLastChecked: "2026-08-15", priceVerifiedAt: "2026-08-15",
+    priceStatus: "fresh", reviewsSampledAt: "2026-08-15",
+    description: "La mejor calificada de esta comparativa y la única que viene armada: acero macizo en base y tapa, sin un solo tornillo que poner.",
+    seoTitle: "Mobilarg Cuadra 57: la única que viene armada",
+    metaDescription: "Mesa ratona Mobilarg Cuadra 57: 4.9 estrellas, acero macizo y llega armada. La contra honesta sobre cuánto peso soporta la tapa.",
+    verdict: "Es la mejor calificada de esta comparativa y la única que llega armada, algo que pesa más de lo que parece en una categoría donde todas las demás acumulan quejas de tornillos faltantes, agujeros que no coinciden y manuales incompletos. Acá abrís la caja y la ponés. Base y tapa de acero, terminación negra mate, y las reseñas coinciden en la calidad. La contra honesta es de uso: al menos un comprador señala que la tapa es fina y la ve más decorativa que para cargar peso.",
+    pros: [
+      "La mejor calificada de esta comparativa",
+      "La única que no requiere ensamblado: llega armada y lista para usar",
+      "Acero macizo en base y tapa, no melamina ni MDF",
+      "Terminación negra mate que las reseñas destacan de forma consistente",
+      "4 kg: liviana pese a ser toda de metal",
+    ],
+    cons: [
+      "La tapa es fina y al menos una reseña la describe como más decorativa que funcional para apoyar peso",
+      "Es de las más caras de esta comparativa, sin ser la más grande",
+      "57 x 57 cm: sigue siendo una mesa chica, no una mesa de living",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", text: "Tal cual la foto, excelente calidad de los materiales y de las terminaciones!.", date: "2026" },
+      { rating: 4, country: "Argentina", text: "Muy linda calidad y terminación. Queda muy bien. Lo único es más decorativa que otra cosa ya que no creo que soporte mucho peso de platos y botella porque es medio fina la parte superior.", date: "2026" },
+      { rating: 5, country: "Argentina", text: "Buena calidad, bien terminados, sólidos. Muy recomendable.", date: "2026" },
+    ],
+    articleBody: `## Qué es y para quién
+
+La Mobilarg Cuadra 57 es una mesa ratona cuadrada de 57 x 57 cm y 45 de alto, con base y tapa de acero en negro mate. Pesa 4 kg y llega armada.
+
+## Lo bueno
+
+Que venga armada no es un detalle menor en esta categoría. Todas las otras opciones de esta comparativa acumulan quejas sobre el armado: tornillos que faltan, agujeros que no coinciden, manuales incompletos, una mesa marcada por poner un tornillo mal. Acá no hay nada de eso porque no hay nada que armar.
+
+Es también la única junto con la Popstore que es de metal de punta a punta, y las reseñas son consistentes sobre la terminación: "excelente calidad de los materiales y de las terminaciones", "bien terminados, sólidos".
+
+Con 4.9 estrellas es la mejor calificada del grupo.
+
+## La contra real
+
+La tapa. Un comprador la describe con precisión: "es más decorativa que otra cosa ya que no creo que soporte mucho peso de platos y botella porque es medio fina la parte superior". No es una queja de calidad sino de expectativa: sirve para apoyar el control, una taza, un libro. Para una picada completa hay opciones más robustas.
+
+La otra contra es de precio contra tamaño: es de las más caras de esta comparativa sin ser la más grande. Lo que pagás es la terminación en acero y el no tener que armarla.
+
+## Para quién sí y para quién no
+
+Comprala si valorás no armar nada, si querés metal real y buena terminación, o si la mesa es sobre todo decorativa y de apoyo liviano. No la compres si vas a cargarle peso, o si buscás la mayor superficie por peso.`,
+    faq: [
+      { question: "¿La Mobilarg Cuadra 57 viene armada?", answer: "Sí, y es la única de esta comparativa que no requiere ensamblado. En una categoría donde el armado es la queja más repetida, ese es su diferencial más claro." },
+      { question: "¿Cuánto peso aguanta?", answer: "Mobilarg no publica un límite de carga. Una reseña real advierte que la tapa es fina y la ve más decorativa que para apoyar peso: sirve para una taza, el control o un libro, no para cargarla de platos y botellas." },
+      { question: "¿De qué material es?", answer: "Acero en la base y en la tapa, con acabado negro mate. Es de las dos únicas de metal macizo de esta comparativa, junto con la Popstore." },
+      { question: "¿Por qué cuesta más que otras si es chica?", answer: "Lo que se paga es la terminación en acero y que llegue armada. Mide 57 x 57 cm, así que no es la más grande del grupo: es la mejor construida." },
+    ],
+  },
+  {
+    id: "MLA36859297",
+    title: "Mesa Ratona Industrial Soho 2 Niveles Con Estante Inferior Chapa Perforada Living Canyon Negro Dielfe",
+    canonicalName: "Dielfe Soho MRS100",
+    price: 166950,
+    originalPrice: 214038,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_741200-MLA99946965847_112025-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_741200-MLA99946965847_112025-O.webp"],
+    category: "Hogar y Jardín",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/mesa-ratona-rectangular-melamina-patas-de-hierro-100cm-soho-canyon-negro-dielfe/p/MLA36859297",
+    affiliateUrl: "https://meli.la/2hUbssT",
+    condition: "new", freeShipping: true,
+    rating: 4.4, reviewCount: 61,
+    pastelColor: "var(--pastel-amber)", visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Dielfe" },
+      { label: "Modelo", value: "MRS100 Soho" },
+      { label: "Ancho", value: "99,5 cm" },
+      { label: "Largo", value: "60 cm" },
+      { label: "Altura", value: "42,5 cm" },
+      { label: "Forma", value: "Rectangular" },
+      { label: "Niveles", value: "2, con estante inferior de chapa perforada" },
+      { label: "Material de la tapa", value: "Melamina" },
+      { label: "Material de la base", value: "Caño metálico" },
+      { label: "Peso", value: "18 kg" },
+      { label: "Requiere ensamblado", value: "Sí, con accesorios y manual incluidos" },
+    ],
+    relatedProducts: ["MLA34969878", "MLA43785597", "MLA66551735", "MLA63777664", "MLA56400904"],
+    priceUpdated: "2026-08-15", priceLastChecked: "2026-08-15", priceVerifiedAt: "2026-08-15",
+    priceStatus: "fresh", reviewsSampledAt: "2026-08-15",
+    description: "La única de formato living grande de esta comparativa: casi 100 cm de ancho y estante inferior. Ojo con el stock, queda muy poco.",
+    seoTitle: "Dielfe Soho 100 cm: la única de formato living",
+    metaDescription: "Mesa ratona Dielfe Soho de casi 100 cm con estante inferior: la única grande de la comparativa. Precio real y aviso de stock antes de comprar.",
+    verdict: "Es la única de esta comparativa que entra en el formato clásico de mesa de living: casi 100 cm de ancho, dos niveles y 18 kg de peso, contra los 3 a 5 kg del resto. Si buscabas una mesa ratona de verdad y no una mesita de apoyo, esta es la de la lista. Sus reseñas coinciden en que es fácil de armar y que se ve mejor en persona que en las fotos. La advertencia es de disponibilidad y es importante: al verificar quedaban 4 unidades, así que puede agotarse en cualquier momento.",
+    pros: [
+      "La única de formato living de esta comparativa: casi 100 cm de ancho contra los 40 a 65 del resto",
+      "Dos niveles, con estante inferior de chapa perforada para revistas o control",
+      "18 kg y base de caño metálico: es la más sólida del grupo por lejos",
+      "Las reseñas coinciden en que el armado es sencillo y se puede hacer sin ayuda",
+      "Varios compradores dicen que en persona se ve mejor que en las fotos de la publicación",
+    ],
+    cons: [
+      "Stock muy bajo: al verificar quedaban 4 unidades, así que puede agotarse pronto",
+      "Es, por lejos, la más cara de esta comparativa",
+      "18 kg significa que una vez ubicada no se mueve con una mano como las demás",
+      "La ficha de MercadoLibre le asigna un diámetro de 60 cm a una mesa rectangular, un dato que no corresponde a la forma",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", text: "Muy buena. Me sorprendió porque las fotos no son muy reales que digamos. Pero posta es tal cual jeje. Excelente. Fácil armado. Muy linda!.", date: "2026" },
+      { rating: 5, country: "Argentina", text: "Es muy linda y grande. Hermosa, yo no necesite ayuda la pude armar sola con un destornillador. Me encanto.", date: "2026" },
+      { rating: 5, country: "Argentina", text: "Fácil armado y re linda, supero mis expectativas !!!.", date: "2026" },
+    ],
+    articleBody: `## Qué es y para quién
+
+La Dielfe Soho MRS100 es una mesa ratona rectangular de casi 100 cm de ancho por 60 de fondo, con estructura de caño metálico, tapa de melamina en tono canyon y un estante inferior de chapa perforada. Pesa 18 kg.
+
+## Lo bueno
+
+Es la única de esta comparativa que responde a lo que la mayoría imagina cuando piensa en "mesa ratona": una mesa de living de verdad, larga, con lugar para apoyar cosas de a varios. El resto del grupo son mesas de 40 a 65 cm, útiles pero de otra escala.
+
+Los 18 kg cuentan la historia: es la única con estructura de caño y peso real, contra los 3 a 5 kg del resto. Y el segundo nivel suma un lugar donde van revistas, controles o lo que no querés a la vista.
+
+Las reseñas son consistentes en dos cosas. El armado es simple: "yo no necesité ayuda la pude armar sola con un destornillador". Y se ve mejor en persona: "me sorprendió porque las fotos no son muy reales que digamos, pero posta es tal cual".
+
+## La contra real
+
+**El stock.** Al momento de verificarla quedaban 4 unidades de un solo vendedor. Es el riesgo concreto de esta ficha: puede agotarse en cualquier momento y no hay garantía de reposición. Si te interesa, conviene chequear disponibilidad antes de decidir.
+
+Es también, por lejos, la más cara de esta comparativa. Lo que pagás es tamaño y estructura, no terminación de lujo: la tapa sigue siendo melamina.
+
+Y sus 18 kg tienen la contracara esperable: una vez que la ubicaste, moverla para limpiar debajo es un trabajo de dos, no el gesto de una mano que permiten las otras.
+
+## Sobre el formato grande en Argentina
+
+Buscamos alternativas de este tamaño con stock profundo y no encontramos una recomendable. Las opciones de 100 a 120 cm que aparecen en MercadoLibre o tienen una sola reseña, o tienen calificaciones bajas con reportes de que se vuelcan si un chico se apoya. Esta es la mejor de su formato, y por eso la incluimos pese al stock.
+
+## Para quién sí y para quién no
+
+Comprala si querés una mesa de living de verdad y el presupuesto lo permite, y si la vas a ubicar en un lugar fijo. No la compres si necesitás moverla seguido, o si te expone a quedarte sin stock mientras lo pensás: en ese caso conviene decidir rápido o ir a otro formato.`,
+    faq: [
+      { question: "¿Cuánto mide la mesa ratona Dielfe Soho?", answer: "99,5 cm de ancho por 60 de fondo y 42,5 de alto, según la ficha de la publicación. Es la única de formato living de esta comparativa; el resto va de 40 a 65 cm." },
+      { question: "¿Es fácil de armar?", answer: "Sí, es lo que más coinciden las reseñas. Una compradora la armó sola con un destornillador, sin ayuda. Viene con accesorios y manual." },
+      { question: "¿Hay stock?", answer: "Poco. Al verificarla quedaban 4 unidades de un solo vendedor, así que puede agotarse en cualquier momento. Conviene chequear disponibilidad antes de decidir." },
+      { question: "¿Para qué sirve el estante inferior?", answer: "Es de chapa perforada y funciona como segundo nivel para revistas, controles o lo que no quieras a la vista sobre la tapa principal." },
+      { question: "¿Se puede mover fácil?", answer: "No como las otras de esta comparativa. Pesa 18 kg contra los 3 a 5 kg del resto, así que una vez ubicada moverla es tarea de dos personas." },
+    ],
+  },
 ];
 
 export const categoryPastels: Record<string, string> = {

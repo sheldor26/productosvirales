@@ -126,3 +126,12 @@ Confirmados como viables en la misma pasada:
 **Regla que sale de esto:** el volumen de Keyword Planner es confiable; la clasificación de
 SERP de este documento no. Antes de escribir una guía, re-verificar el SERP de esa keyword
 puntual, buscando específicamente competidores **argentinos** con formato "los mejores X".
+
+## Continuación: `docs/keywords-verificadas-2026-08-15.md`
+
+El 2026-08-15 se re-verificó el SERP de los candidatos que seguían sin construirse y se sumó
+un barrido nuevo. Ese documento **reemplaza a este** para las keywords que lista: tiene 5
+verdes confirmadas una por una (conservadora, cartuchera, lámpara de pie, estantería flotante,
+tacho de basura), 5 rojas confirmadas, y dos correcciones de volumen a las tablas de arriba
+(torno para uñas es 8.100 y no 9.900; el cesto de basura de cocina se busca como "tacho" y son
+9.900, no 4.400).

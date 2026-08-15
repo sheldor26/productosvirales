@@ -1,7 +1,58 @@
 # Estado actual
 
 > Snapshot del proyecto. Se actualiza al final de cada sesión.
-> Última actualización: 2026-08-14 (silo de verano publicado, Google Imágenes medible por primera vez, y dos chequeos que dejaban pasar errores reales — ver sesión de más abajo).
+> Última actualización: 2026-08-15 (research de keywords verificado, guía de conservadoras en STAGED, y 23 links internos rotos en guías publicadas — ver sesión de más abajo).
+
+## Sesión 2026-08-15 — Keywords verificadas, silo hogar-jardin crece, y 23 links internos que iban a ninguna parte
+
+### Research de keywords con SERP verificado a mano
+
+1. **Se re-verificó el SERP de los candidatos que quedaban sin construir** del research del 2026-08-06, y se sumó un barrido nuevo sobre rubros nunca tocados (bazar, dormitorio, limpieza, mascotas). Resultado en [`docs/keywords-verificadas-2026-08-15.md`](docs/keywords-verificadas-2026-08-15.md): **8 verdes confirmadas, 105.900 búsquedas/mes combinadas**, todas con SERP chequeado una por una.
+
+2. **Cuatro candidatos grandes murieron en la verificación**: hidrolavadora (40.500, mejorescompras.com.ar tiene el título exacto), gazebo (40.500, canigo.com.ar), deshumidificador (12.100, expertoenproductos.com.ar y miprecio.com.ar) y aspiradora de mano (9.900). El patrón: **todo lo que tiene motor o electrónica ya está tomado**; lo ganable son los objetos aburridos sin marca fuerte, que es exactamente por qué zapatero funcionó.
+
+3. **Filtro nuevo que salió de este barrido: chequear que MercadoLibre esté en el SERP.** `matera` (18.100) y `dispenser de agua` (14.800) no tienen competencia editorial pero el SERP lo dominan tiendas D2C y empresas de servicio de botellón, con ML ausente o marginal. Sin ML en la primera página no hay clic de afiliado posible, por más limpia que esté la keyword.
+
+4. **Dos correcciones de volumen al documento de agosto**: "torno para uñas" son 8.100 y no 9.900 (se había medido sin acento), y el cesto de basura de cocina se busca como **"tacho"**, con 9.900 en vez de los 4.400 registrados.
+
+### Guía nueva de conservadoras (STAGED)
+
+5. **Guía `conservadora` escrita y en STAGED** (`publishedDate: 2026-10-05`), pilar del silo `hogar-jardin`, keyword de 14.800/mes. Cinco fichas nuevas en `curated-products.ts`: Mor 12 L, Termolar SUV 20 L, Termolar SUV 32 L, Mor 75 L y Vöhler 33 L eléctrica.
+
+6. **El ángulo diferencial de la guía es un hallazgo del sourcing: la ficha técnica de MercadoLibre publica capacidades equivocadas.** Al cruzar seis publicaciones contra las webs de Termolar, Mor y Coleman aparecieron errores en cuatro. La peor: una Coleman "28 qt" cuya ficha declara 45 litros cuando el fabricante especifica 26,5. La Termolar de 32 L tiene cargados los datos de la de 20. Y en la Soprano pasa al revés: **la ficha técnica está bien y el título del vendedor es el que miente**. Todos los números de la guía salen del fabricante, y la guía lo dice.
+
+7. **Se descartó el segmento importado a propósito.** Las conservadoras grandes de MercadoLibre son casi todas compra internacional (Igloo Trailmate a $884.737, RTIC, Engel), sin una sola calificación local. La Mor de 75 L nacional cubre el mismo tamaño a $113.850. Queda explicado en la guía en vez de rankeado.
+
+8. **Sourcing sin Bright Data.** Su MCP pedía autorización y la sesión no podía correr el OAuth. Se hizo navegando las fichas en Chrome. Gotcha nuevo y reutilizable: **el buscador de ML no renderiza bajo automatización** (el stream de React queda colgado), pero `/mas-vendidos/<categoría>` sí, y es mejor fuente porque devuelve lo que realmente se vende.
+
+### El bug que encontró el auditor: 23 links internos hacia el vacío
+
+9. **Codex marcó como bloqueante que los `internalLinks` apuntaran a `/guias/<slug>` sin el silo.** Al medirlo, el problema era del sitio entero y no de la guía nueva: **23 links rotos**, de los cuales solo 3 eran míos. El resto estaba en guías **ya publicadas** del silo de verano y de climatización, propagado por copiar los links de una guía a la siguiente.
+
+10. **Esos links no dan 404: dan HTTP 200 con la página "Guía no encontrada".** Por eso nunca los detectó nada. El lector hace clic desde una guía en vivo y cae en una página vacía, y Google ve un link interno hacia contenido sin valor: justo el activo que al sitio le falta con DA 1.
+
+11. **El link roto vive en dos sintaxis y es fácil medir solo una.** El primer barrido buscó únicamente `href: "/guias/<slug>"` y dio 12, con lo cual parecía resuelto. Faltaban **11 más** en formato markdown dentro de la prosa, `](/guias/<slug>)`, en párrafos, FAQ y veredictos. Las dos quedaron en 0.
+
+12. **`docs/fichas.md` corregido**: mandaba verificar el peso de las imágenes con `HEAD`, y el CDN de ML responde **405** a HEAD devolviendo el tamaño de su página de error. Con ese método una foto buena parece pesar menos que su miniatura y se descarta por error. Ahora indica GET, y documenta el nivel de resolución `2X` que nadie había registrado.
+
+### Segunda guía del día: mesa ratona (STAGED)
+
+13. **Guía `mesa-ratona` escrita y en STAGED** (14.800/mes), segundo pilar nuevo de `hogar-jardin`, con 6 fichas: Sajo 80 cm, Popstore Nórdica, set Justo Makario x2, set Ambi O x3, Mobilarg Cuadra 57 y Dielfe Soho 100 cm. Los 6 links meli.la verificados uno por uno.
+
+14. **El hallazgo que define el ángulo: en Argentina lo más vendido como "mesa ratona" no son mesas de living grandes, son mesas chicas y sets apilables.** Cinco de las seis miden entre 40 y 65 cm y tres se venden de a dos o tres unidades. Por eso la guía se ordena **por formato y espacio disponible**, no por tamaño descendente. Un ranking de mesas grandes habría sido una guía sobre un producto que acá casi no se vende.
+
+15. **Se buscó reemplazo para el formato grande y se descartaron las dos alternativas que existen.** La Dielfe (única de ~100 cm con buen respaldo) tiene 4 unidades. De las otras dos: una tiene una sola reseña; la otra tiene 3.7 estrellas con compradores que reportan que **se vuelca si un chico se apoya** y que las patas son plástico imitando madera pese a que el título la vende como "Madera". No se incluyeron y la guía explica por qué, mismo criterio que la sombrilla Freewind.
+
+16. **La ficha técnica de ML vuelve a fallar, y la guía lo denuncia:** el set Justo Makario declara **8 cm de altura** para una mesa ratona, la Popstore dice ser redonda mientras declara 42x52 cm y 40 cm de diámetro (tres datos incompatibles), y la Dielfe le asigna diámetro a una mesa rectangular. Donde el dato no cierra, la ficha del sitio dice "Sin confirmar" y explica el motivo.
+
+17. **La queja número uno de la categoría no es la calidad, es el armado**: tornillos faltantes, agujeros que no coinciden, manuales incompletos. Aparece en casi todas. Por eso la Mobilarg, la única que llega armada, tiene bloque propio.
+
+### Pendiente
+
+- Las guías `conservadora` y `mesa-ratona` están en STAGED. Publicar = dar vuelta las dos fechas a la del día.
+- Quedan 15 leads con volumen medido y SERP sin chequear en `docs/keywords-verificadas-2026-08-15.md`.
+- `mueble zapatero` (6.600) y `botinero` (2.900) son la misma intención que la guía `zapatero` ya publicada: hay que ver en GSC si ya rankea para esas dos antes de escribir nada, o sería auto-canibalización.
+- El soft-404 de fondo sigue sin arreglar: cualquier slug inexistente bajo `/guias/` devuelve 200.
 
 ## Sesión 2026-08-14 — Silo de verano en vivo, Google Imágenes deja de ser invisible, y dos chequeos que mentían
 

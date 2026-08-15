@@ -234,3 +234,55 @@
 **Cómo evitarlo:** antes de recomendar o escribir una guía de marca nueva, nunca alcanza con contar productos-por-categoría vs. guías-por-categoría. Hay que grepear los `productMlaId` (o equivalente) que aparecen DENTRO del contenido de las guías existentes de esa categoría/silo y cruzarlos contra los IDs de los productos candidatos. Si ya aparecen con su propio `h3`/`product-card`, es cobertura real aunque la guía "genérica" no tenga el nombre de la marca en el título — no es un hueco, es (en el mejor de los casos) una oportunidad de re-titular como se hizo hoy con `masajeador-espalda`, nunca de duplicar contenido.
 
 **Archivos involucrados:** ninguno modificado (se detectó antes de escribir). Afecta la metodología de investigación de huecos de contenido en general.
+
+## 2026-08-15 — Declaré "0 links rotos" midiendo solo la mitad del problema
+
+Al corregir los links internos hacia guías con silo, escribí un script que buscaba únicamente
+`href: "/guias/<slug>"`. Dio 12, los corregí, volví a correrlo, dio 0, y le dije a Juan que estaba
+resuelto. **No lo estaba.** Faltaban 11 links en formato markdown dentro de la prosa,
+`](/guias/<slug>)`, que aparecen en `content` de párrafos, FAQ y veredictos. Los encontró Codex de
+casualidad, porque su log mostró líneas de la guía de piletas que yo no había mirado.
+
+**Por qué pasó:** asumí que los links internos entre guías vivían solo en el campo `internalLinks`.
+En este repo también van embebidos en la prosa como markdown, que es incluso el caso más
+frecuente.
+
+**Regla:** antes de declarar un defecto resuelto por grep, enumerar todas las sintaxis en que ese
+defecto puede escribirse en el repo. Para links internos son dos: el campo `href:` y el markdown
+`](...)`. Un "0" que sale de una sola expresión no es un 0.
+
+## 2026-08-15 — La verificación de imágenes que manda docs/fichas.md no funciona
+
+`docs/fichas.md` mandaba verificar con `HEAD` que la imagen `-O`/`-F` pesara más que la miniatura
+`-R`. El CDN de ML responde **405 a HEAD** y devuelve el `content-length` de su página de error
+(600-1.400 bytes). O sea que el chequeo compara dos páginas de error.
+
+Casi descarto la foto de la conservadora Mor 12 L porque "pesaba" 634 bytes contra 926 de su
+miniatura. Por GET pesa 8.182 y es un webp válido.
+
+**Regla:** verificar con GET (`curl -s -o /tmp/img -w "%{http_code} %{size_download}"`) y confirmar
+el mime type. Ya quedó corregido en `docs/fichas.md`.
+
+## 2026-08-15 — Confundí "es de metal" con "es apta para exterior", en tres lugares
+
+Escribiendo la guía de mesa ratona di por hecho que una mesa de acero sirve para el balcón. No
+es así: **la aptitud para exterior es un atributo declarado en la ficha, no una consecuencia del
+material.** La Popstore la declara; la Mobilarg es de acero macizo y su propia ficha dice que NO
+es apta.
+
+El error se me coló en tres lugares distintos y los tres los encontró Codex, no yo:
+
+1. La ficha de Popstore decía "una de las dos aptas para exterior", contradiciendo a la guía que
+   decía "solo la Popstore". Contradicción pública entre dos páginas del sitio.
+2. El párrafo de materiales de la guía decía que el metal "es lo único que aguanta exterior".
+3. El FAQ decía "Solo si es de metal", y esa se me escapó **incluso después de corregir las otras
+   dos** en la misma pasada.
+
+**Regla:** cuando un atributo funcional (apta para exterior, apta para lavavajillas, resistente
+al agua) se puede confundir con una propiedad del material, tratarlo como dato declarado y
+grepear la afirmación completa en guía y fichas antes de darla por corregida. Que sea de acero
+no dice nada sobre humedad, igual que ser de vidrio no dice nada sobre horno.
+
+**Y el meta-error:** corregí dos de las tres apariciones y declaré el punto resuelto. Es el mismo
+patrón del grep incompleto de los links internos del mismo día: arreglar las ocurrencias que veo
+en vez de buscar todas las formas en que el error puede estar escrito.

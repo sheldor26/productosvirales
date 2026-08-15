@@ -208,3 +208,28 @@ La query pelada está **mejor posicionada** y hace cero; las que llevan "opinion
 **Por qué funcionó:** el dato vivía duplicado (campo + bloque manual) y solo una de las dos copias se actualizaba automáticamente. Eliminar la duplicación en el punto de render es más barato y más seguro que mantener 121 copias sincronizadas.
 
 **Para repetir:** cuando un dato aparezca duplicado entre campos estructurados y bloques manuales, mover la verdad al campo estructurado y generar el resto. Mismo principio que ya se aplicó con precios API-first.
+
+## 2026-08-15 — El auditor externo encontró un bug del sitio entero, no de la guía
+
+Codex marcó NO-GO en la guía de conservadoras por tres `internalLinks` que apuntaban a
+`/guias/<slug>` sin el silo. Lo importante no fue el hallazgo puntual sino lo que apareció al
+medirlo: **23 links rotos en total, y solo 3 eran de la guía nueva**. El resto estaba en guías ya
+publicadas, propagado por copiar los `internalLinks` de una guía a la siguiente.
+
+Tres cosas que dejó esto:
+
+1. **Cuando un auditor marca un defecto en contenido nuevo, medir el alcance en todo el sitio
+   antes de corregir solo lo señalado.** El contenido nuevo casi siempre se escribe copiando el
+   anterior, así que un defecto en lo nuevo es evidencia de que existe en lo viejo. Corregir solo
+   lo que el auditor vio deja el 87% del problema intacto.
+
+2. **Un bug puede vivir en dos sintaxis y es fácil medir solo una.** El primer barrido buscó
+   `href: "/guias/<slug>"` y dio 12: parecía resuelto. Faltaban 11 más en formato markdown dentro
+   de la prosa, `](/guias/<slug>)`. El "0 links rotos" del primer chequeo era falso. Al grepear un
+   defecto, enumerar todas las formas en que ese defecto puede escribirse antes de declarar limpio.
+
+3. **Un auditor puede dar NO-GO sobre una versión que ya no existe.** En la segunda pasada Codex
+   listó 4 bloqueantes; 3 ya estaban corregidos en disco cuando emitió el veredicto, porque había
+   leído el archivo al arrancar y las correcciones entraron mientras razonaba. Antes de aceptar un
+   bloqueante de una pasada larga, verificar cada punto contra el archivo actual. Uno de los cuatro
+   era real y se corrigió; los otros tres habrían sido trabajo repetido.
