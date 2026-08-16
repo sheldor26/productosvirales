@@ -2145,7 +2145,6 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "table", headers: [`Opción`, `Precio`, `Gatillos adaptativos y haptics`, `Personalización`, `Ideal para`], rows: [
         [`[DualSense oficial](/producto/joystick-inalambrico-dualsense-ps5-cosmic-red-mla18010994)`, `{{precio:MLA18010994}}`, `Sí`, `No`, `La compra correcta para casi todos`],
         [`[DualSense Edge](/producto/joystick-ps5-sony-playstation-5-dualsense-edge-zcp1-mla41152829)`, `{{precio:MLA41152829}}`, `Sí (igual que el estándar)`, `Paletas, gatillos y sticks intercambiables`, `Jugadores competitivos`],
-        [`Compatibles sin licencia oficial`, `Variable, suelen ser más baratos`, `No, ninguno`, `Variable`, `No recomendado: muchos no funcionan de verdad en la consola`],
       ] },
 
       { type: "h2", title: `Cómo elegir tu joystick de PS5`, id: "como-elegir" },
@@ -5831,11 +5830,18 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
             "Diferente, práctica y portátil",
           ],
           [
-            "[Asientos masajeadores](/producto/sillon-masajeador-gadnic-titanium-l-shape-20-programas-22-airbags-zero-gravity-1-mla32066541)",
-            "Asiento para silla/auto, shiatsu/vibración",
-            "Sí (algunos)",
-            "Uso prolongado en oficina o auto",
-            "Cómodos, menos específicos para cuello",
+            "[Asiento masajeador shiatsu](/producto/asiento-masajeador-cervical-espalda-calor-vibracion-shiatsu-mla28420339)",
+            "Asiento shiatsu + vibración, calor",
+            "Sí",
+            "Uso prolongado en oficina",
+            "Cubre toda la espalda, menos específico para cuello",
+          ],
+          [
+            "[Asiento masajeador para auto](/producto/masajeador-de-espalda-asiento-cuello-auto-silla-vibra-calor-mlau274288377)",
+            "Asiento vibración, calor, para auto o silla",
+            "Sí",
+            "Uso prolongado en auto o casa",
+            "Vibración sin shiatsu, y el más barato de los dos asientos",
           ],
         ],
       },

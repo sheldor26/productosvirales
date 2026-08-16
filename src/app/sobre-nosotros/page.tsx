@@ -57,8 +57,10 @@ export default function SobreNosotrosPage() {
         Revisamos cientos de productos en MercadoLibre Argentina cada semana.
         Priorizamos los que cumplen tres criterios: (1) alta rotación de ventas
         en el marketplace, (2) buena calidad-precio comparada con alternativas,
-        y (3) vendedores con reputación sólida. Probamos muchos nosotros
-        mismos y escribimos sobre lo que funciona.
+        y (3) vendedores con reputación sólida. Cruzamos la ficha técnica
+        contra la web del fabricante, seguimos la evolución del precio y
+        leemos las reseñas reales de otros compradores antes de recomendar
+        algo.
       </p>
 
       <h2 className="text-xl font-bold text-[var(--text-primary)] mt-6">
