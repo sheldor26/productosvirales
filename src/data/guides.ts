@@ -25762,6 +25762,151 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     ],
     internalLinksTitle: "Más de cocina",
   },
+  {
+    slug: "cocina-a-gas",
+    category: "cocinas",
+    silo: "cocina",
+    pillar: true,
+    title: `Cocina a gas: cuál comprar en Argentina [2026]`,
+    seoTitle: `Cocina a Gas: Cuál Comprar en Argentina [2026]`,
+    metaDescription: `Comparamos 6 cocinas a gas reales de MercadoLibre. La más vendida del rubro no funciona con garrafa, y su propia ficha lo dice. Qué mirar antes de comprar.`,
+    ogTitle: `Cocina a gas: cuál comprar en Argentina`,
+    ogDescription: `6 cocinas a gas comparadas. La más vendida declara que no convierte a garrafa, y otra declara no tener válvulas de seguridad. Los dos datos están en la ficha.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_681386-MLA100457531586_122025-O.webp`,
+    h1: `Cocina a gas: cuál comprar en Argentina y qué mirar antes [2026]`,
+    directAnswer: `Para la mayoría conviene la **[Drean CD5603AN0](/producto/cocina-drean-cd5603an0-56-cm-encendido-electronico-horno-de-74-litros-mla63018001)** (alrededor de {{precio:MLA63018001:k}}): el horno más grande de la comparativa, encendido electrónico y luz interior. Si querés gastar lo mínimo, la **[Escorial Candor S2](/producto/cocina-escorial-candor-s2-51-cm-4-hornallas-solo-gas-natural-mla6056509)**, que es la más vendida del rubro, **pero solo si tenés gas natural de red: su ficha declara que no convierte a garrafa**. Si el hueco es angosto, la **[Siam Essential](/producto/cocina-siam-essential-csi-cn50p-49-cm-multigas-4-hornallas-mla61348769)** de 49,3 cm.`,
+    publishedDate: "2026-10-12",
+    updatedDate: "2026-10-12",
+    hasDisclosure: true,
+    readingTime: 12,
+    standfirst: `Una cocina a gas va de {{precio:MLA6056509:k}} a {{precio:MLA48950671:k}}. Comparamos 6 cocinas reales de MercadoLibre Argentina por **tipo de gas, válvulas de seguridad, horno y ancho**, con contras de reseñas verdaderas, dentro de nuestro silo de [Cocina](/categoria/cocina).`,
+    quickPicks: [
+      { productMlaId: "MLA63018001", label: "La más equilibrada", labelColor: "green", tagline: "Drean CD5603AN0: horno de 74 L, encendido electrónico y luz interior" },
+      { productMlaId: "MLA6056509", label: "La más barata", labelColor: "slate", tagline: "Escorial Candor S2: la más vendida del rubro, solo para gas natural de red" },
+      { productMlaId: "MLA61348769", label: "Para hueco angosto", labelColor: "blue", tagline: "Siam Essential: 49,3 cm de ancho, multigas y 25 kg" },
+      { productMlaId: "MLA48950671", label: "La más completa", labelColor: "purple", tagline: "Drean CD5617AI0: air fryer, grill eléctrico y encendido automático" },
+    ],
+    intro: [
+      `Elegir una **cocina a gas** parece una decisión de precio y termina siendo una de compatibilidad. Antes que las hornallas, el horno o el color, hay una pregunta que decide todo: **¿en tu casa hay gas natural de red o garrafa?** Si te equivocás ahí, el resto no importa.`,
+      `Comparamos 6 cocinas a gas reales de MercadoLibre Argentina y verificamos, una por una, qué declara su ficha técnica sobre el tipo de gas, las válvulas de seguridad y el tamaño real del horno. Encontramos dos cosas que conviene saber antes de comprar, y las dos están publicadas donde casi nadie mira.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_681386-MLA100457531586_122025-O.webp", alt: `Cocina a gas de cuatro hornallas con horno con visor, en una cocina de casa`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "warning", calloutTitle: "La cocina más vendida del rubro no funciona con garrafa", content: `La **[Escorial Candor S2](/producto/cocina-escorial-candor-s2-51-cm-4-hornallas-solo-gas-natural-mla6056509)** es la cocina a gas más vendida de MercadoLibre Argentina, con más de diez mil unidades y **6.131 opiniones**. Su ficha técnica declara, textual: **"Es convertible a GLP: No"**. GLP es el gas de garrafa. Está pensada solo para **gas natural de red**. Si en tu casa se cocina con garrafa, la cocina que encabeza el ranking no es una opción para vos, y el dato vive en un campo de la ficha que casi nadie abre. **Las otras cinco de esta guía declaran "Es convertible a GLP: Sí".**` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** entramos por el ranking de más vendidos de la categoría Cocinas de MercadoLibre Argentina y verificamos cada publicación en vivo: precio, stock, ficha técnica campo por campo y reseñas de compradores. Miramos especialmente tres campos que deciden la compra y que nadie destaca: **tipo de gas y convertibilidad**, **válvulas de seguridad** y **capacidad del horno**. Cuando un dato de la ficha es imposible, lo decimos en vez de repetirlo. Cuando algo sale de una reseña y no de la ficha, también lo aclaramos. Los precios se verifican automáticamente contra MercadoLibre.` },
+
+      { type: "h2", title: `Gas natural o garrafa: la decisión que va primero`, id: "tipo-de-gas" },
+      { type: "p", content: `En Argentina hay dos formas de alimentar una cocina: **gas natural de red (GN)**, que llega por cañería, y **gas licuado de petróleo (GLP)**, que es la garrafa o el zeppelin. No son intercambiables: cada uno trabaja a una presión distinta y necesita **picos** (inyectores) distintos.` },
+      { type: "p", content: `El campo **"Es convertible a GLP"** de la ficha de MercadoLibre indica si el fabricante contempla ese cambio. Ninguna de las seis publicaciones aclara en su ficha si los picos de conversión vienen incluidos: eso lo sabemos solo por reseñas, y no es igual en todas.` },
+      { type: "table", headers: ["Cocina", "Tipo de gas", "¿Convierte a garrafa?"], rows: [
+        ["[Escorial Candor S2](/producto/cocina-escorial-candor-s2-51-cm-4-hornallas-solo-gas-natural-mla6056509)", "GN", "**No**"],
+        ["[Siam Essential](/producto/cocina-siam-essential-csi-cn50p-49-cm-multigas-4-hornallas-mla61348769)", "Multigas", "Sí"],
+        ["[Usman Industrial](/producto/cocina-industrial-usman-compact-52-cm-4-hornallas-sin-valvulas-de-seguridad-mla36486302)", "Multigas", "Sí"],
+        ["[Florencia 5518F](/producto/cocina-florencia-5518f-56-cm-acero-inoxidable-horno-de-65-litros-mla8791802)", "GN", "Sí"],
+        ["[Drean CD5603AN0](/producto/cocina-drean-cd5603an0-56-cm-encendido-electronico-horno-de-74-litros-mla63018001)", "Multigas", "Sí"],
+        ["[Drean CD5617AI0](/producto/cocina-drean-cd5617ai0-56-cm-air-fryer-grill-electrico-y-encendido-automatico-mla48950671)", "Multigas", "Sí"],
+      ] },
+      { type: "p", content: `Ahora, "convertible" en la ficha no significa lo mismo en todas. Lo interesante es que los propios compradores contaron cómo les fue, y las tres experiencias son distintas.` },
+      { type: "pull-quote", content: `"Me vino con pico para gas natural pero trae picos para gas envasado, los cambié y de 10 me anduvo."`, attribution: `Compradora de la Florencia 5518F, calificación 5/5` },
+      { type: "pull-quote", content: `"Viene con los picos de gas natural y los de garrafa aparte. Es imposible cambiarle el piquito del horno. Hay que regularlo con el que tiene y así y todo hace renegar demasiado."`, attribution: `Comprador de la Usman Industrial, calificación 5/5` },
+      { type: "p", content: `Y en la Siam, un tercero avisa: *"si vas a cambiar los picos, hay que tener las herramientas adecuadas"*. O sea que el campo de la ficha te dice si la conversión es posible, no si va a ser fácil. La conclusión práctica: **si vas a usar garrafa, presupuestá también al gasista**, y si podés, preguntá antes por el pico del horno, que es el que más se resiste.` },
+
+      { type: "h2", title: `Válvulas de seguridad: qué son y cuál no las tiene`, id: "valvulas" },
+      { type: "p", content: `La **válvula de seguridad**, o termocupla, es la pieza que corta el paso del gas si la llama se apaga sola, por una corriente de aire o porque hirvió una olla encima. No es una comodidad.` },
+      { type: "p", content: `Cinco de las seis cocinas de esta guía declaran tenerlas. La **[Usman Industrial](/producto/cocina-industrial-usman-compact-52-cm-4-hornallas-sin-valvulas-de-seguridad-mla36486302)** declara, en su ficha, **"Con válvulas de seguridad: No"**.` },
+      { type: "p", content: `Que sea una cocina industrial explica el criterio de diseño, pero conviene saber lo que implica. Un comprador de la Drean, explicando por qué a él le importó, deja el dato más concreto que encontramos sobre el tema.` },
+      { type: "pull-quote", content: `"Viene con termocupla de seguridad en las hornallas, requisito obligatorio por los matriculados si es para una habilitación de gas."`, attribution: `Comprador de la Drean CD5603AN0, calificación 5/5` },
+      { type: "p", content: `Es el comentario de un comprador y no una norma que hayamos verificado, así que tomalo como lo que es. Pero apunta a algo real: si un gasista matriculado tiene que firmarte la instalación, este punto puede aparecer en la conversación.` },
+
+      { type: "h2", title: `Las mejores cocinas a gas de 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Drean CD5603AN0 — la más equilibrada` },
+      { type: "product-card", productMlaId: "MLA63018001", label: "La más equilibrada", labelColor: "green", ranking: 1, description: `El horno más grande de la comparativa con 74 litros, encendido electrónico, luz interior y válvulas de seguridad.` },
+      { type: "p", content: `La [Drean CD5603AN0](/producto/cocina-drean-cd5603an0-56-cm-encendido-electronico-horno-de-74-litros-mla63018001) sale alrededor de {{precio:MLA63018001:k}} y tiene **{{rating:MLA63018001}} estrellas en {{reviews:MLA63018001}} opiniones**. Encabeza porque es donde esta comparativa deja de hablar de precio y empieza a hablar de uso diario: **74 litros de horno**, el más grande del grupo, **encendido electrónico** en vez de fósforo, y **luz adentro del horno**.` },
+      { type: "p", content: `Un comprador resume las tres mejor que cualquier ficha: *"al tener encendido electrónico te olvidás de los mecheros, la luz del horno permite ver cómo va tu comida sin necesidad de abrir, y muy importante es que tengan válvulas de seguridad en las hornallas como en el horno"*.` },
+      { type: "p", content: `Lo honesto, y son dos cosas. Con {{reviews:MLA63018001}} opiniones tiene el respaldo más chico de la comparativa, bastante lejos de las 6.131 de la Escorial. Y hay una contra que nadie espera de una cocina a gas: **el encendido electrónico necesita enchufe**. A un comprador el cable le quedó dos centímetros corto al reemplazar su cocina vieja. Mirá dónde está la toma antes de comprarla.` },
+
+      { type: "h3", title: `2. Florencia 5518F — el punto medio` },
+      { type: "product-card", productMlaId: "MLA8791802", label: "Buen punto medio", labelColor: "blue", ranking: 2, description: `Acero inoxidable, horno de 65 litros y 447 opiniones con 4,7, sin ninguna contra grave.` },
+      { type: "p", content: `La [Florencia 5518F](/producto/cocina-florencia-5518f-56-cm-acero-inoxidable-horno-de-65-litros-mla8791802) sale alrededor de {{precio:MLA8791802}}, con **{{rating:MLA8791802}} estrellas en {{reviews:MLA8791802}} opiniones**. Es la que menos peros tiene: mesa de acero inoxidable, horno de 65 litros, válvulas de seguridad y eficiencia A en hornallas y horno.` },
+      { type: "p", content: `Es también la que tiene **el mejor reporte de conversión a garrafa** de toda la guía, que ya citamos más arriba: le cambiaron los picos y funcionó sin drama.` },
+      { type: "p", content: `Lo honesto: **no es autolimpiante**, aunque su ficha se preste a confusión. El modelo se llama Easy Clean, que es un esmalte que facilita la limpieza, no un horno pirolítico. Una compradora dejó una reseña justamente por ese malentendido. Y el acero marca: *"quedan las marcas del agua cuando gotea, no sale"*.` },
+
+      { type: "h3", title: `3. Escorial Candor S2 — la más barata y la más vendida` },
+      { type: "product-card", productMlaId: "MLA6056509", label: "La más barata", labelColor: "slate", ranking: 3, description: `La cocina a gas más vendida del rubro, con 6.131 opiniones. Solo para gas natural de red.` },
+      { type: "p", content: `La [Escorial Candor S2](/producto/cocina-escorial-candor-s2-51-cm-4-hornallas-solo-gas-natural-mla6056509) sale alrededor de {{precio:MLA6056509}}, con **{{rating:MLA6056509}} estrellas en {{reviews:MLA6056509}} opiniones**. Es el precio más bajo de la comparativa y el respaldo más grande por lejos.` },
+      { type: "p", content: `Está tercera y no primera por una sola razón, que ya dijimos arriba pero conviene repetir acá: **su ficha declara que no convierte a garrafa**. Si tenés gas natural de red, esta es una compra difícil de discutir por el precio. Si no, no es una opción.` },
+      { type: "p", content: `Sus compradores son notablemente honestos sobre lo que compraron. *"Por ser la más barata, está perfecta"*, escribe una. Otro: *"si bien la lata no es la más gruesa, tampoco podemos exigir tanto por el precio"*. Y la contra técnica llega envuelta en una broma que igual sirve: *"las termocuplas son tan rápidas como un caracol"*, o sea que hay que sostener la perilla apretada un rato al encender.` },
+
+      { type: "h3", title: `4. Siam Essential — para el hueco angosto` },
+      { type: "product-card", productMlaId: "MLA61348769", label: "Para hueco angosto", labelColor: "blue", ranking: 4, description: `49,3 cm de ancho y 25 kg: la más angosta y la más liviana de la comparativa, y multigas.` },
+      { type: "p", content: `La [Siam Essential](/producto/cocina-siam-essential-csi-cn50p-49-cm-multigas-4-hornallas-mla61348769) sale alrededor de {{precio:MLA61348769}}, con **{{rating:MLA61348769}} estrellas en {{reviews:MLA61348769}} opiniones**. Con **49,3 cm de ancho** es la más angosta del grupo, y con 25 kg la más liviana. Si el problema es el hueco entre muebles, esa es toda la conversación.` },
+      { type: "p", content: `Lo honesto, y no es del equipo sino de la publicación: **su ficha declara un horno de 573 litros**. En una cocina de 49,3 x 55,6 x 85 cm eso es más volumen que el mueble entero, así que es un error de carga, casi con seguridad un 57,3 mal escrito. Lo decimos porque el dato está publicado y alguien puede tomarlo en serio al comparar. La única referencia práctica que tenemos es de una compradora: *"el horno un poco justo"*.` },
+
+      { type: "h3", title: `5. Drean CD5617AI0 — la más completa, y la más cara` },
+      { type: "product-card", productMlaId: "MLA48950671", label: "La más completa", labelColor: "purple", ranking: 5, description: `Air fryer integrada, grill eléctrico, encendido automático y dos parrillas. También el precio más alto por lejos.` },
+      { type: "p", content: `La [Drean CD5617AI0](/producto/cocina-drean-cd5617ai0-56-cm-air-fryer-grill-electrico-y-encendido-automatico-mla48950671) sale alrededor de {{precio:MLA48950671}}, con **{{rating:MLA48950671}} estrellas en {{reviews:MLA48950671}} opiniones**. Es la única de la comparativa con **air fryer integrada**, y sus compradores confirman que la función anda: *"viene con la asadera y la rejilla para hacer las papas al aire, una pegada"*.` },
+      { type: "p", content: `Un detalle para no marearse: su ficha declara **"Con freidora: No"**. No es una contradicción, ese campo de MercadoLibre refiere a la freidora tradicional de aceite. Lo que la ficha sí declara es grill eléctrico y alimentación gas y eléctrica, que es lo que necesita una función de aire forzado.` },
+      { type: "p", content: `Lo honesto es la cuenta, y está cuatro secciones más abajo con todos los números: **cuesta $688.119 más que la Drean CD5603AN0**, que es del mismo fabricante, del mismo ancho, y declara **más horno**. Está quinta por eso, no por el equipo.` },
+
+      { type: "h3", title: `6. Usman Industrial Compact — la única industrial` },
+      { type: "product-card", productMlaId: "MLA36486302", label: "La única industrial", labelColor: "amber", ranking: 6, description: `Ladrillos refractarios, rejillas de hierro y mesa de acero inoxidable. Su ficha declara que no tiene válvulas de seguridad.` },
+      { type: "p", content: `La [Usman Industrial Compact](/producto/cocina-industrial-usman-compact-52-cm-4-hornallas-sin-valvulas-de-seguridad-mla36486302) sale alrededor de {{precio:MLA36486302}}, con **{{rating:MLA36486302}} estrellas en {{reviews:MLA36486302}} opiniones**. Es la única industrial del grupo y eso se nota en la construcción: ladrillos refractarios en el horno, rejillas de hierro y mesa de acero inoxidable.` },
+      { type: "p", content: `Está última por dos motivos concretos. El primero, que ya tratamos arriba: **su ficha declara "Con válvulas de seguridad: No"**, la única de las seis. El segundo es el respaldo: **{{rating:MLA36486302}} es la calificación más baja de la comparativa**, y sus reseñas se contradicen fuerte entre sí, con quien llama al horno "una verdadera estafa" y quien lo describe como "bárbaro".` },
+      { type: "p", content: `Lo que sí se repite de forma consistente es la crítica a las perillas de plástico. Y hay un consejo práctico que no está en ningún manual: *"consigan un secador de pelo o una pistola de calor porque viene envuelta en un plástico que costó muchísimo sacar"*.` },
+
+      { type: "h2", title: `Comparativa: las 6 cocinas a gas, una al lado de la otra`, id: "comparativa" },
+      { type: "table", headers: ["Cocina", "Precio", "¿Garrafa?", "Horno", "Válvulas", "Encendido", "Ancho", "Opiniones"], rows: [
+        ["[Escorial Candor S2](/producto/cocina-escorial-candor-s2-51-cm-4-hornallas-solo-gas-natural-mla6056509)", "{{precio:MLA6056509:k}}", "**No**", "52,6 L", "Sí", "Manual", "51 cm", "**{{reviews:MLA6056509}}**"],
+        ["[Siam Essential](/producto/cocina-siam-essential-csi-cn50p-49-cm-multigas-4-hornallas-mla61348769)", "{{precio:MLA61348769:k}}", "Sí", "Dato erróneo", "Sí", "Manual", "**49,3 cm**", "{{reviews:MLA61348769}}"],
+        ["[Usman Industrial](/producto/cocina-industrial-usman-compact-52-cm-4-hornallas-sin-valvulas-de-seguridad-mla36486302)", "{{precio:MLA36486302}}", "Sí", "50 L", "**No**", "Manual", "52 cm", "{{reviews:MLA36486302}}"],
+        ["[Florencia 5518F](/producto/cocina-florencia-5518f-56-cm-acero-inoxidable-horno-de-65-litros-mla8791802)", "{{precio:MLA8791802}}", "Sí", "65 L", "Sí", "Manual", "56 cm", "{{reviews:MLA8791802}}"],
+        ["[Drean CD5603AN0](/producto/cocina-drean-cd5603an0-56-cm-encendido-electronico-horno-de-74-litros-mla63018001)", "{{precio:MLA63018001:k}}", "Sí", "**74 L**", "Sí", "Electrónico", "56 cm", "{{reviews:MLA63018001}}"],
+        ["[Drean CD5617AI0](/producto/cocina-drean-cd5617ai0-56-cm-air-fryer-grill-electrico-y-encendido-automatico-mla48950671)", "{{precio:MLA48950671:k}}", "Sí", "65,5 L", "Sí", "Automático", "56 cm", "{{reviews:MLA48950671}}"],
+      ] },
+      { type: "p", content: `Los anchos van de **49,3 a 56 cm**. Casi siete centímetros de diferencia entre la más angosta y las más anchas, que en un hueco entre muebles decide la compra antes que cualquier otra cosa. Medí primero.` },
+
+      { type: "h2", title: `La air fryer integrada cuesta $688.119`, id: "air-fryer" },
+      { type: "p", content: `Drean vende dos cocinas de 56 cm en esta comparativa, y la diferencia entre las dos es la cuenta más clara de toda la guía.` },
+      { type: "table", headers: ["", "CD5617AI0 con air fryer", "CD5603AN0"], rows: [
+        ["Precio", "{{precio:MLA48950671}}", "{{precio:MLA63018001}}"],
+        ["Horno declarado", "65,5 L", "**74 L**"],
+        ["Grill", "Eléctrico", "No declara"],
+        ["Parrillas", "2", "No declara"],
+        ["Encendido", "Automático", "Electrónico"],
+      ] },
+      { type: "p", content: `**$688.119 de diferencia, un 92% más cara**, y con **menos litros de horno**. Lo que comprás con esa plata es la función de aire y el grill eléctrico. La CD5617AI0 además declara 2 parrillas, un campo que la CD5603AN0 no publica.` },
+      { type: "p", content: `La comparación honesta: con esa diferencia comprás una [freidora de aire](/guias/mejores-freidoras-de-aire-argentina) de las que ya comparamos y te sobra bastante plata. La ventaja real de tenerla adentro del horno es que **no ocupa mesada**, que en una cocina chica no es un detalle menor. Si tu cocina tiene lugar, la cuenta no cierra. Si no lo tiene, puede cerrar.` },
+
+      { type: "h2", title: `Cómo elegir tu cocina a gas`, id: "como-elegir" },
+      { type: "p", content: `**Primero, mirá qué gas tenés.** Si es garrafa, la [Escorial Candor S2](/producto/cocina-escorial-candor-s2-51-cm-4-hornallas-solo-gas-natural-mla6056509) queda descartada por más que sea la más vendida y la más barata. Y presupuestá al gasista: la conversión no es automática.` },
+      { type: "p", content: `**Segundo, medí el hueco.** Los anchos de esta guía van de 49,3 a 56 cm. Si el espacio es justo, la [Siam Essential](/producto/cocina-siam-essential-csi-cn50p-49-cm-multigas-4-hornallas-mla61348769) es la única que baja de 50 cm.` },
+      { type: "p", content: `**Tercero, decidí si querés encendido electrónico.** Cuatro de las seis se prenden con fósforo. Las dos Drean no, y es la diferencia que más se nota todos los días. Contá con que necesitan enchufe.` },
+      { type: "p", content: `**Si querés lo más equilibrado**, la [Drean CD5603AN0](/producto/cocina-drean-cd5603an0-56-cm-encendido-electronico-horno-de-74-litros-mla63018001): el horno más grande, encendido electrónico y luz. **Si querés gastar lo mínimo y tenés gas natural**, la Escorial. **Si querés acero inoxidable sin irte de precio**, la [Florencia 5518F](/producto/cocina-florencia-5518f-56-cm-acero-inoxidable-horno-de-65-litros-mla8791802).` },
+      { type: "p", content: `Si además estás renovando la cocina entera, mirá nuestras guías de [microondas](/guias/cocina/microondas), [horno eléctrico](/guias/cocina/horno-electrico) y [freezer vertical](/guias/cocina/freezer-vertical).` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Qué no pudimos verificar:** todas las especificaciones salen de las fichas de MercadoLibre verificadas en vivo, no de las webs de Escorial, Siam, Usman, Florencia ni Drean. **El consumo de gas real no lo publica ninguna de las seis**, solo la letra de eficiencia energética. Tampoco publican si incluyen los picos de conversión: eso sale de reseñas de compradores y varía por modelo. La capacidad de horno de la Siam Essential está mal cargada en su ficha y no la usamos para comparar. **Sobre el envío:** las seis publicaciones mostraban "envío gratis por ser tu primera compra", que es una promoción de cuenta y no un atributo del producto, así que quien ya compró antes en MercadoLibre puede pagar el envío de un electrodoméstico de entre 25 y 45 kg.` },
+    ],
+    faq: [
+      { question: "¿Cuál es la mejor cocina a gas en Argentina?", answer: "Para la mayoría, la Drean CD5603AN0: tiene el horno más grande de esta comparativa con 74 litros, encendido electrónico, luz interior y válvulas de seguridad, con 4,7 de promedio. Si buscás gastar lo mínimo y tenés gas natural de red, la Escorial Candor S2 es la más barata y la más vendida del rubro." },
+      { question: "¿Todas las cocinas a gas funcionan con garrafa?", answer: "No. De las seis que comparamos, cinco declaran ser convertibles a GLP, que es el gas de garrafa, pero la Escorial Candor S2 declara textualmente \"Es convertible a GLP: No\" pese a ser la más vendida de MercadoLibre Argentina. Antes de comprar conviene mirar ese campo de la ficha técnica." },
+      { question: "¿Es difícil convertir una cocina a garrafa?", answer: "Depende del modelo, y los compradores lo cuentan distinto. En la Florencia 5518F una compradora cambió los picos y funcionó sin problemas. En la Siam avisan que hacen falta las herramientas adecuadas. Y en la Usman un comprador reporta que el pico del horno es imposible de cambiar y que hay que regularlo con el que trae. Presupuestá al gasista." },
+      { question: "¿Qué son las válvulas de seguridad de una cocina?", answer: "Son las termocuplas que cortan el paso del gas si la llama se apaga sola, por ejemplo por una corriente de aire o porque se derramó una olla. Cinco de las seis cocinas de esta comparativa las declaran. La Usman Industrial declara \"Con válvulas de seguridad: No\". Un comprador señala que los gasistas matriculados suelen pedirlas para habilitar una instalación." },
+      { question: "¿Cuánto cuesta una cocina a gas en Argentina?", answer: "Las seis comparadas van desde la Escorial Candor S2, la más barata, hasta la Drean con air fryer, que cuesta casi cuatro veces más. La diferencia grande no está en las hornallas, que son cuatro en todas, sino en el encendido, el tamaño del horno y funciones extra como el grill eléctrico." },
+      { question: "¿Conviene una cocina con air fryer integrada?", answer: "La Drean con air fryer cuesta $688.119 más que la Drean sin esa función, un 92% más, y declara menos horno: 65,5 litros contra 74. Con esa diferencia comprás una freidora de aire de las buenas y te sobra plata. La ventaja concreta de la integrada es que no ocupa mesada, así que la cuenta cierra si tu cocina es chica." },
+      { question: "¿Cuánto mide una cocina a gas estándar?", answer: "En esta comparativa los anchos van de 49,3 cm a 56 cm, y las alturas de 85 a 95 cm. Casi siete centímetros separan a la más angosta de las más anchas, así que conviene medir el hueco entre muebles antes de elegir. La Siam Essential es la única que baja de 50 cm." },
+      { question: "¿Qué significa que una cocina sea industrial?", answer: "En el caso de la Usman de esta guía, una construcción distinta: ladrillos refractarios en el horno, rejillas de hierro y mesa de acero inoxidable, contra el enlozado y el alambre de las domésticas. La contrapartida es que declara no tener válvulas de seguridad y que su horno es el más chico de la comparativa." },
+    ],
+    internalLinks: [
+      { label: `Freezer vertical: cuál comprar en Argentina`, href: `/guias/cocina/freezer-vertical` },
+      { label: `Microondas: cuál comprar en Argentina`, href: `/guias/cocina/microondas` },
+      { label: `Horno eléctrico: cuál comprar`, href: `/guias/cocina/horno-electrico` },
+      { label: `Ver toda la categoría Cocina`, href: `/categoria/cocina` },
+    ],
+    internalLinksTitle: "Más de cocina",
+  },
 ];
 
 /**
@@ -25852,6 +25997,11 @@ export function getDisplaySilo(g: Pick<Guide, "silo" | "category">): string {
 }
 
 export const guideCategories: Record<string, { name: string; description: string }> = {
+  "cocinas": {
+    name: "Guía de Cocinas a Gas",
+    description:
+      "Cocinas a gas comparadas por lo que decide la compra: si convierten a garrafa, si traen válvulas de seguridad, cuánto horno declaran y cuánto miden de ancho.",
+  },
   "freezers": {
     name: "Guía de Freezers",
     description:
