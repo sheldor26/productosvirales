@@ -229,4 +229,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "28",
     postedAt: "2026-08-16T12:27:24-03:00",
   },
+  {
+    title: "Set de 2 Camiones Duravit Volcador y Grua",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_977111-MLA96095502293_102025-O.webp",
+    affiliateUrl: "https://meli.la/2ieVa2R",
+    newPrice: "20.902",
+    oldPrice: "26.184",
+    offPct: "20",
+    postedAt: "2026-08-16T17:34:16-03:00",
+  },
 ];
