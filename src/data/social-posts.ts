@@ -224,9 +224,9 @@ export const socialPosts: SocialPost[] = [
     imageUrl:
       "https://http2.mlstatic.com/D_NQ_NP_865832-MLA99951941953_112025-O.webp",
     affiliateUrl: "https://meli.la/2dZwPLm",
-    newPrice: "58.120",
+    newPrice: "57.000",
     oldPrice: "79.400",
-    offPct: "26",
+    offPct: "28",
     postedAt: "2026-08-16T12:27:24-03:00",
   },
 ];
