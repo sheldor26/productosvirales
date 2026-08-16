@@ -209,4 +209,24 @@ export const socialPosts: SocialPost[] = [
     offPct: "46",
     postedAt: "2026-08-15T19:53:04-03:00",
   },
+  {
+    title: "Casco Bicicleta Dakota Regulable Liviano Con Visera",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_621113-MLA115664225985_082026-O.webp",
+    affiliateUrl: "https://meli.la/2LqxHEx",
+    newPrice: "21.412",
+    oldPrice: "32.990",
+    offPct: "35",
+    postedAt: "2026-08-16T12:27:24-03:00",
+  },
+  {
+    title: "Blocky Pixeland La Invasion 263 Piezas",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_865832-MLA99951941953_112025-O.webp",
+    affiliateUrl: "https://meli.la/2dZwPLm",
+    newPrice: "58.120",
+    oldPrice: "79.400",
+    offPct: "26",
+    postedAt: "2026-08-16T12:27:24-03:00",
+  },
 ];
