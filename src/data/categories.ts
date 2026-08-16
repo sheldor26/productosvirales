@@ -159,7 +159,7 @@ export const categories: Category[] = [
     icon: "Thermometer",
     pastel: "var(--color-pastel-green)",
     h1: "Climatización Viral",
-    description: "Aires acondicionados, ventiladores de techo, estufas y termotanques",
+    description: "Aires acondicionados, ventiladores de techo, estufas eléctricas y a leña, y termotanques",
     buyersGuide: `
       <h2>Qué vas a encontrar en esta categoría</h2>
       <p>Aires acondicionados portátiles para cuartos sin salida de aire fijo, ventiladores de techo de 3 y 4 palas, estufas eléctricas de bajo consumo, caloventores y termotanques eléctricos. Productos de temporada: la demanda de aires se dispara en verano y la de estufas y termotanques en invierno, así que los precios se mueven bastante según la época.</p>

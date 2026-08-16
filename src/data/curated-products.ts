@@ -71898,6 +71898,626 @@ Compralo si querés probar el formato con poco riesgo, si necesitás un solo est
       { question: "¿Sirve como mesa de luz?", answer: "Varias reseñas lo usan así al costado de la cama y lo describen como funcional. Los 20 cm de fondo alcanzan para un celular, un libro y una lámpara chica." },
     ],
   },
+  // Guía nueva salamandra-a-lena — silo climatizacion (sourcing 2026-08-16)
+  {
+    id: "MLA37825191",
+    title: "Salamandra Tromen Eco 7000 — Calefactor a Leña 7.000 kcal/h, Salida 4 Pulgadas",
+    canonicalName: "Tromen Eco 7000",
+    price: 287500,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_665496-MLA95695375662_102025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_665496-MLA95695375662_102025-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_815797-MLA91498875326_092025-O.webp",
+    ],
+    category: "Calefacción",
+    categorySlug: "hogar",
+    permalink: "https://www.mercadolibre.com.ar/salamandra-tromen-calefactor-a-lena-eco-7000kcal-salida-4/p/MLA37825191",
+    affiliateUrl: "https://meli.la/1dZkzYZ",
+    freeShipping: false,
+    condition: "new",
+    rating: 4.8,
+    reviewCount: 992,
+    soldQuantity: 1000,
+    pastelColor: "var(--pastel-amber)",
+    specs: [
+      { label: "Envío", value: "Solo por ser tu primera compra en MercadoLibre, no es gratis para todos" },
+      { label: "Marca", value: "Tromen" },
+      { label: "Modelo", value: "ECO 7000" },
+      { label: "Potencia máxima", value: "7.000 kcal/h" },
+      { label: "Superficie declarada", value: "60 m² - 60 m² (mínimo y máximo iguales, así lo carga la ficha)" },
+      { label: "Material", value: "Chapa" },
+      { label: "Diámetro de salida de humo", value: "10,16 cm, o sea 4 pulgadas exactas" },
+      { label: "Horno", value: "No" },
+      { label: "Grill", value: "No" },
+      { label: "Cenicero removible", value: "No, según la ficha de MercadoLibre" },
+      { label: "Medidas (alto x ancho x profundidad)", value: "53,9 x 46 x 40,9 cm" },
+      { label: "Peso", value: "32,6 kg" },
+      { label: "Requiere ensamblado", value: "No" },
+      { label: "Tipo de combustión", value: "No declarado en ninguna parte de la publicación" },
+    ],
+    relatedProducts: ["MLA34121091", "MLAU162285980", "MLAU3410543565", "MLA35507302"],
+    priceUpdated: "2026-08-16", priceLastChecked: "2026-08-16", priceVerifiedAt: "2026-08-16",
+    priceStatus: "fresh", reviewsSampledAt: "2026-08-16",
+    description: "El calefactor a leña más barato de la comparativa y el segundo más reseñado, con 992 opiniones. 7.000 kcal/h, salida de 4 pulgadas y un detalle que conviene saber antes: la boca de carga es chica.",
+    seoTitle: "Tromen Eco 7000: el calefactor a leña más barato",
+    metaDescription: "Salamandra Tromen Eco 7000 de 7.000 kcal/h con 992 opiniones. Salida de 4 pulgadas, sin cenicero removible y una boca de carga que una compradora describe como chica.",
+    verdict: "Es la entrada más barata al rubro y tiene 992 opiniones que la respaldan, un volumen que en esta categoría no es fácil de conseguir. Compra segura si el ambiente es chico. Dos cosas antes de decidir: su boca de carga es la queja que más se repite entre quienes la usan, y su salida de 4 pulgadas es la más angosta de las tres marcas comparadas, así que los caños no son intercambiables con los de Qutral ni con los de Lepen.",
+    pros: [
+      "El precio más bajo de la comparativa",
+      "992 opiniones con 4,8 de promedio, el segundo volumen de reseñas de la comparativa",
+      "No requiere ensamblado: llega armado",
+      "32,6 kg, el segundo más liviano, lo que simplifica moverlo hasta su lugar definitivo",
+      "Es la única de las seis que publica el diámetro de salida en el título, en pulgadas y no en centímetros",
+      "Una compradora que venía de una salamandra común destaca que dejó de tener humo adentro",
+    ],
+    cons: [
+      "La boca de carga es chica y es la queja que más se repite: una compradora recomienda directamente comprar una más grande",
+      "Su ficha no declara el tipo de combustión, que es el dato con el que la mayoría elige en este rubro",
+      "Sin cenicero removible según la ficha",
+      "Es de chapa, no de acero como las otras cinco",
+      "El campo de superficie dice 60 m² de mínimo y 60 m² de máximo, que no es un rango sino un número repetido dos veces",
+      "Es la más barata en total, pero no la más barata por caloría: eso lo gana el Qutral Andes 13000",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", text: "La verdad un lujo. Consume al inicio entre 8 y 10 kilos de leña, después es cuestión de mantenerla encendida. Al tener una recámara de aire tarda entre 1.30 hs a 2 hs levantar una buena temperatura. Pero después es increíble lo que climatiza." },
+      { rating: 5, country: "Argentina", text: "Muy contenta con la compra, no entra muchas leñas por el tamaño pero calefacciona súper bien, lo recomiendo. Si puedo dar un consejo, comprá uno que sea un poco más grande." },
+      { rating: 5, country: "Argentina", text: "Nos cambió por completo la forma de calefacción de la casa, ya que antes teníamos una salamandra común y siempre humeaba. Ahora cero humo y calienta una banda." },
+      { rating: 5, country: "Argentina", text: "Linda y funcional, algo bajita, pero me armé un leñero de base hecho en hierro, así gané altura y la separé del piso." },
+      { rating: 4, country: "Argentina", text: "Muy contento, me solucionó pasar el invierno en zona donde no tengo gas." },
+    ],
+    articleBody: `Con 992 opiniones y 4,8 de promedio, el Eco 7000 es el segundo calefactor a leña más reseñado de esta comparativa. También es el más barato de esta comparativa. Las dos cosas juntas explican por qué es la puerta de entrada al rubro para mucha gente.
+
+## Los 7.000 kcal/h y los 60 metros
+
+La ficha declara 7.000 kcal/h y, en el campo de superficie, "60 m² - 60 m²". Ese campo está pensado para un rango de mínimo a máximo, y acá está cargado con el mismo número dos veces. No es un error de lectura nuestro: así figura en la publicación. Lo tomamos como un techo declarado de 60 m², no como un rango.
+
+Es la potencia más baja de las seis. Para un ambiente integrado grande o una casa entera, los 13.000 kcal/h del Qutral Andes están mucho mejor parados.
+
+## La contra que repiten los compradores
+
+No es la potencia ni la terminación: es el tamaño de la boca de carga. "No entra muchas leñas por el tamaño", escribe una compradora que igual lo puntúa con 5 estrellas y aclara: "si puedo dar un consejo, comprá uno que sea un poco más grande". Otro comprador coincide desde otro ángulo, describiéndola como "algo bajita" y contando que se armó un leñero de hierro debajo para ganar altura.
+
+Es coherente con las medidas: 53,9 cm de alto es el equipo más bajo de la comparativa.
+
+## Cuánto tarda en levantar temperatura
+
+Una reseña larga da el dato más útil de todo el conjunto: "consume al inicio entre 8 y 10 kilos de leña, después es cuestión de mantenerla encendida. Al tener una recámara de aire tarda entre 1.30 hs a 2 hs levantar una buena temperatura. Pero después es increíble lo que climatiza".
+
+O sea que el arranque es lento y el consumo inicial es alto, y a partir de ahí se estabiliza. Es una expectativa razonable para cualquier equipo a leña, pero conviene tenerla antes de encenderlo por primera vez y creer que algo anda mal.
+
+## Lo que la ficha no dice
+
+El Eco 7000 no declara el tipo de combustión en ninguna parte: ni en el título, ni en la ficha técnica, ni en la descripción. Es llamativo porque simple contra doble combustión es la decisión que más define el consumo de leña, y porque el Qutral lo lleva escrito en el título.
+
+Ahora bien, una reseña sugiere que algo hace bien: "antes teníamos una salamandra común y siempre humeaba. Ahora cero humo y calienta una banda". Eso es la experiencia de un comprador, no una especificación del fabricante, y así hay que leerlo.
+
+## El detalle de los caños
+
+Es la única de las seis que pone el diámetro de salida en el título: "Salida 4". Son 10,16 cm, o sea cuatro pulgadas exactas, la salida más angosta de las tres marcas. Los caños de 4 pulgadas no sirven para un Qutral, que declara 6, ni para el Lepen Moquehue 13500, que declara 5. Antes de comprar los caños, mirá este número.`,
+    faq: [
+      { question: "¿Cuántos metros calienta el Tromen Eco 7000?", answer: "La ficha de MercadoLibre declara 7.000 kcal/h y carga el campo de superficie como \"60 m² - 60 m²\", con el mínimo igual al máximo. Lo leemos como un techo de 60 m². Es la potencia más baja de la comparativa." },
+      { question: "¿El Tromen Eco 7000 es de doble combustión?", answer: "La publicación no lo dice en ningún lado: ni en el título, ni en la ficha técnica, ni en la descripción. MercadoLibre no tiene un campo para ese dato, y Tromen no lo aclara por otra vía en esta publicación. Lo único que hay son reseñas de compradores que vienen de una salamandra común y destacan que ya no les entra humo." },
+      { question: "¿Qué caños necesita el Tromen Eco 7000?", answer: "De 4 pulgadas: la ficha declara 10,16 cm de diámetro de salida, que son cuatro pulgadas exactas, y el título lo repite. No son compatibles con los 6 pulgadas que declaran los Qutral ni con los 5 que declara el Lepen Moquehue 13500." },
+      { question: "¿Le entra leña grande al Tromen Eco 7000?", answer: "Esa es la queja más repetida entre los compradores: la boca de carga es chica. Una compradora que le puso 5 estrellas igual recomienda comprar uno más grande. Si vas a cargar leños largos, mirá el Qutral Andes, cuya puerta amplia es justamente lo que destacan sus reseñas." },
+      { question: "¿Viene armado?", answer: "Sí. La ficha declara \"Requiere ensamblado: No\". Pesa 32,6 kg, así que llega listo para ubicar y conectar a la salida de humos, que se compra aparte." },
+    ],
+  },
+  {
+    id: "MLA34121091",
+    title: "Qutral Andes 13000 — Estufa a Leña Doble Combustión 13.000 kcal/h",
+    canonicalName: "Qutral Andes 13000",
+    price: 446033,
+    originalPrice: 499000,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_836347-MLA99989361301_112025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_836347-MLA99989361301_112025-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_707591-MLA74717620960_032024-O.webp",
+    ],
+    category: "Calefacción",
+    categorySlug: "hogar",
+    permalink: "https://www.mercadolibre.com.ar/qutral-andes-13000-estufa-a-lena-doble-combustion/p/MLA34121091",
+    affiliateUrl: "https://meli.la/1d7NVgX",
+    freeShipping: true,
+    condition: "new",
+    rating: 4.8,
+    reviewCount: 1153,
+    soldQuantity: 1000,
+    badge: "viral",
+    pastelColor: "var(--pastel-amber)",
+    specs: [
+      { label: "Envío", value: "Gratis a todo el país" },
+      { label: "Marca", value: "Qutral" },
+      { label: "Modelo", value: "ANDES 13000" },
+      { label: "Potencia máxima", value: "13.000 kcal/h" },
+      { label: "Superficie declarada", value: "0 m² - 120 m² (el mínimo de cero es como lo carga la ficha)" },
+      { label: "Material", value: "Acero" },
+      { label: "Diámetro de salida de humo", value: "15,24 cm, o sea 6 pulgadas exactas" },
+      { label: "Horno", value: "No" },
+      { label: "Grill", value: "No" },
+      { label: "Cenicero removible", value: "No, según la ficha de MercadoLibre" },
+      { label: "Medidas (alto x ancho x profundidad)", value: "57 x 52 x 49 cm" },
+      { label: "Peso", value: "38 kg" },
+      { label: "Tipo de combustión", value: "Doble, declarada en el título y en la descripción del vendedor" },
+    ],
+    relatedProducts: ["MLAU3410543565", "MLA37825191", "MLAU3412042507", "MLA35507302"],
+    priceUpdated: "2026-08-16", priceLastChecked: "2026-08-16", priceVerifiedAt: "2026-08-16",
+    priceStatus: "fresh", reviewsSampledAt: "2026-08-16",
+    description: "El calefactor a leña más reseñado de esta comparativa, con 1.153 opiniones, y el que menos cuesta por caloría de los seis comparados. 13.000 kcal/h de doble combustión declarada.",
+    seoTitle: "Qutral Andes 13000: el más reseñado y el mejor por caloría",
+    metaDescription: "Estufa a leña Qutral Andes 13000 con 1.153 opiniones y 4,8 de promedio. 13.000 kcal/h de doble combustión, $34 por caloría: el más eficiente de la comparativa.",
+    verdict: "Es el más reseñado de la comparativa con 1.153 opiniones, y también el que menos cuesta por caloría de los seis: $34 contra los $41 del Tromen, que es más barato en total pero rinde menos. Declara doble combustión en el título, algo que ninguna otra publicación de la comparativa hace de forma tan directa. La contra real no está en el equipo sino en lo que falta: la salida de humos se compra aparte, y el mismo Andes con kit de pared cuesta $211.007 más.",
+    pros: [
+      "1.153 opiniones con 4,8 de promedio: el volumen de reseñas más alto de la comparativa",
+      "$34 por caloría, la mejor relación de las seis publicaciones comparadas",
+      "13.000 kcal/h, la segunda potencia más alta del grupo",
+      "Declara doble combustión en el título y la repite en la descripción del vendedor",
+      "Puerta de carga amplia: varias reseñas destacan que le entran leños grandes",
+      "Una reseña detalla 3 a 4 horas de autonomía con 4 o 5 leños de eucalipto colorado",
+    ],
+    cons: [
+      "No incluye la salida de humos: el mismo equipo con kit de pared cuesta $211.007 más",
+      "Sin cenicero removible según la ficha, y en la publicación del mismo modelo con kit un comprador se queja de no tener cómo sacar las cenizas",
+      "El campo de superficie declara un mínimo de 0 m², que no aporta información",
+      "Sin horno ni grill: para cocinar hay que ir al Patagónica o al Lepen 13500",
+      "57 cm de alto: compradores de las dos publicaciones de este modelo lo describen como más bajo de lo que esperaban",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", text: "Cargándola con 4 o 5 leños de 35 cm de largo x 6 cm de espesor de eucalipto colorado, duran ardiendo entre 3 y 4 hs." },
+      { rating: 5, country: "Argentina", text: "Excelente, calienta rápido, no entra nada de humo. En pocos minutos pasamos de 4° a 24° en un ambiente de más de 70 m2." },
+      { rating: 5, country: "Argentina", text: "Muy fácil instalación, rápida para prender y se nota que consume menos leña que una de fundición." },
+      { rating: 5, country: "Argentina", text: "Nos gustó mucho. Pensé que era más alta, pero en realidad es la medida que se indica. La puerta grande es útil para poder poner leña grande." },
+    ],
+    articleBody: `1.153 opiniones. Es el número más alto de los seis equipos comparados, por encima incluso del Tromen Eco 7000, que es más barato. Con 4,8 de promedio, es el producto sobre el que hay más evidencia disponible de esta comparativa.
+
+## Por qué es el más eficiente del grupo
+
+A $446.033 por 13.000 kcal/h, el Andes sale $34 por caloría. El Tromen Eco 7000, que cuesta $158.533 menos, sale $41 por caloría porque entrega apenas 7.000. Es la diferencia entre elegir por precio de lista y elegir por lo que ese precio compra.
+
+Los seis productos comparados, ordenados por lo que cuesta cada caloría, dejan al Andes primero y al Qutral Patagónica con horno último, a $98.
+
+## La doble combustión, dicha con todas las letras
+
+MercadoLibre no tiene un campo de ficha técnica para el tipo de combustión. Es el dato que más define cuánta leña vas a gastar, y sencillamente no existe como atributo.
+
+El Andes es la publicación que mejor resuelve esa ausencia: lo dice en el título, en mayúsculas, y lo repite en la descripción del vendedor. No hay que deducirlo ni buscarlo.
+
+Una reseña respalda el efecto práctico: "se nota que consume menos leña que una de fundición". Otra aporta la medición más concreta que encontramos: "cargándola con 4 o 5 leños de 35 cm de largo x 6 cm de espesor de eucalipto colorado, duran ardiendo entre 3 y 4 hs".
+
+## Lo que rinde en metros
+
+La ficha declara 0 m² a 120 m². El mínimo de cero no significa nada, así que el número útil es el techo de 120 m². Una reseña baja eso a algo verificable: "en pocos minutos pasamos de 4° a 24° en un ambiente de más de 70 m2".
+
+## Las dos contras reales
+
+La primera es de plata y no del equipo: la salida de humos no viene incluida. El mismo Andes 13000, publicado por el mismo vendedor con un kit de pared enlozado, cuesta $657.040. Son $211.007 de diferencia por los caños, casi la mitad del precio del calefactor. Si estás comparando presupuestos, este es el número que cambia la cuenta.
+
+La segunda es la ceniza. La ficha declara que no tiene cenicero removible, y en la publicación del combo un comprador lo pone en palabras: "me gustaría que le agreguen una palita para poder sacar las cenizas porque si no, no hay forma de limpiar". Las dos únicas publicaciones de la comparativa que declaran cenicero removible son las dos de Lepen.
+
+## El detalle de altura
+
+En las dos publicaciones de este modelo aparece la misma observación: es más bajo de lo que la gente espera. "Pensé que era más alta, pero en realidad es la medida que se indica", escribe una compradora, que hace bien en señalar que el dato estaba publicado. Son 57 cm. En la publicación del combo, otra compradora directamente le agregó ladrillos abajo para levantarlo.`,
+    faq: [
+      { question: "¿Cuántos metros calienta el Qutral Andes 13000?", answer: "La ficha declara 13.000 kcal/h y un rango de 0 m² a 120 m². El mínimo de cero no aporta nada, así que el dato útil es el techo de 120 m². Una reseña cuenta que levantó de 4° a 24° un ambiente de más de 70 m2 en pocos minutos." },
+      { question: "¿El Qutral Andes 13000 es de doble combustión?", answer: "Sí, y es la publicación de la comparativa que más claro lo dice: figura en el título en mayúsculas y se repite en la descripción del vendedor. MercadoLibre no tiene un campo de ficha para este dato, así que depende de que cada vendedor lo aclare por su cuenta." },
+      { question: "¿El Qutral Andes 13000 incluye los caños?", answer: "No. La salida de humos se compra aparte. El mismo modelo publicado con kit de pared enlozado cuesta $657.040 contra los $446.033 del equipo solo: $211.007 de diferencia. Usa salida de 6 pulgadas (15,24 cm)." },
+      { question: "¿Cuánta leña consume y cuánto dura una carga?", answer: "La reseña más detallada informa 3 a 4 horas ardiendo con 4 o 5 leños de eucalipto colorado de 35 cm de largo por 6 cm de espesor. Otro comprador señala que consume menos leña que una de fundición. Son experiencias de compradores, no mediciones del fabricante." },
+      { question: "¿Tiene cenicero removible?", answer: "No, así lo declara la ficha de MercadoLibre. Es una limitación real: en la publicación del mismo modelo con kit, un comprador pide expresamente una pala para poder sacar las cenizas. Si eso te importa, las dos publicaciones de Lepen de esta comparativa sí declaran cenicero removible." },
+    ],
+  },
+  {
+    id: "MLAU162285980",
+    title: "Lepen Moquehue Vintage 9000 — Calefactor a Leña 9.000 kcal/h con Cenicero",
+    canonicalName: "Lepen Moquehue Vintage 9000",
+    price: 484111,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_927794-MLA89286915762_082025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_927794-MLA89286915762_082025-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_718866-MLA83334830777_032025-O.webp",
+    ],
+    category: "Calefacción",
+    categorySlug: "hogar",
+    permalink: "https://www.mercadolibre.com.ar/calefactor-a-lena-moquehue-vintage-9000-kcal/up/MLAU162285980",
+    affiliateUrl: "https://meli.la/31VSHNQ",
+    freeShipping: true,
+    condition: "new",
+    rating: 4.7,
+    reviewCount: 276,
+    soldQuantity: 1000,
+    pastelColor: "var(--pastel-amber)",
+    specs: [
+      { label: "Envío", value: "Gratis a todo el país" },
+      { label: "Marca", value: "Lepen" },
+      { label: "Modelo", value: "Moquehue Vintage 9000 Con Cenicero" },
+      { label: "Potencia máxima", value: "9.000 kcal/h" },
+      { label: "Superficie declarada", value: "50 m² - 70 m² (el rango mejor cargado de la comparativa)" },
+      { label: "Material", value: "Acero industrial" },
+      { label: "Diámetro de salida de humo", value: "La ficha no publica este dato. Una compradora informa caños de 5 pulgadas" },
+      { label: "Horno", value: "No" },
+      { label: "Grill", value: "No" },
+      { label: "Cenicero removible", value: "Sí" },
+      { label: "Medidas (alto x ancho x profundidad)", value: "57 x 43 x 39 cm" },
+      { label: "Peso", value: "31 kg" },
+      { label: "Tipo de combustión", value: "El vendedor escribió \"Doble combustion 80%\" en el campo Posiciones de refracción, sin fuente" },
+    ],
+    relatedProducts: ["MLA35507302", "MLA37825191", "MLA34121091", "MLAU3412042507"],
+    priceUpdated: "2026-08-16", priceLastChecked: "2026-08-16", priceVerifiedAt: "2026-08-16",
+    priceStatus: "fresh", reviewsSampledAt: "2026-08-16",
+    description: "El más liviano y compacto de la comparativa, con el rango de superficie mejor declarado de las seis publicaciones. Trae cenicero removible. Dos contras concretas: la pintura y los caños de medida no estándar.",
+    seoTitle: "Lepen Moquehue Vintage 9000: compacto y con cenicero",
+    metaDescription: "Calefactor a leña Lepen Moquehue Vintage 9000 con 276 opiniones. 31 kg, cenicero removible y un rango real de 50 a 70 m². Ojo con la pintura y con los caños de 5 pulgadas.",
+    verdict: "El más chico y liviano de los seis, y uno de los dos de la comparativa con cenicero removible. También es el que mejor declara para cuántos metros sirve: 50 a 70 m², un rango real en vez de un cero o un número repetido. Las dos contras están documentadas por sus propios compradores y son serias: la pintura salta con el uso, y Lepen trabaja con caños de una medida que no es la estándar del mercado, así que la instalación termina atándote a la marca.",
+    pros: [
+      "31 kg y 43 cm de ancho: el más liviano y el más angosto de la comparativa",
+      "Cenicero removible, que ninguna de las tres publicaciones de Qutral ni el Tromen declaran",
+      "Declara 50 m² a 70 m²: Lepen es la única marca cuyas publicaciones declaran un piso real, contra el cero de las tres de Qutral y el 60 repetido del Tromen",
+      "276 opiniones con 4,7 de promedio y más de 1000 unidades vendidas",
+      "El diseño vintage es lo que más se destaca en las reseñas positivas",
+    ],
+    cons: [
+      "La pintura es la queja más repetida: \"la segunda vez que la prendí se empezó a saltar toda\"",
+      "Usa caños de 5 pulgadas, una medida que según una compradora es más difícil y más cara de conseguir, y que termina obligándote a comprarle la instalación a la misma marca",
+      "Su ficha no publica el diámetro de salida de humo, que es justo el dato que hace falta para ese problema",
+      "El vendedor puso \"Doble combustion 80%\" en el campo Posiciones de refracción, que no es un campo para eso, y sin ninguna fuente para ese número",
+      "9.000 kcal/h por $484.111 lo dejan cuarto de seis en precio por caloría",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", text: "Me encantó. Si estás buscando para calentar ambientes chicos es perfecta, y el diseño es hermoso. Lo único que tendría en cuenta es que Lepen trabaja con caños de 5 pulgadas, medida que no suele ser estándar. Suelen ser más difíciles de conseguir o más caros. Terminás comprándole a ellos también para la instalación." },
+      { rating: 5, country: "Argentina", text: "Calienta bien, muy lindo, pero la pintura malísima: la segunda vez que la prendí se empezó a saltar toda hasta que se fue saliendo por todos lados." },
+      { rating: 4, country: "Argentina", text: "Calienta espectacular. En la parte superior cambió el color y tiene una partecita saltada, no sé a qué se debe, pero funciona perfecto. Compré los caños recomendados y no se vuelve el humo." },
+      { rating: 4, country: "Argentina", text: "Funciona excelente." },
+    ],
+    articleBody: `Con 31 kg y 43 cm de ancho, el Moquehue Vintage es el equipo más chico y más liviano de esta comparativa. Está pensado para ambientes que no necesitan 13.000 kcal/h, y su ficha lo dice mejor que cualquier otra del grupo.
+
+## La marca que declara bien la superficie
+
+El campo de superficie de MercadoLibre pide un mínimo y un máximo. En este rubro casi nadie lo llena bien: el Tromen pone 60 y 60, y las tres publicaciones de Qutral arrancan en 0 m². Las dos que sí declaran un piso real son las dos de Lepen: esta con 50 m² y el Moquehue 13500 con 10 m².
+
+Este Lepen declara 50 m² a 70 m². Es un rango real, con un piso que significa algo. Si tenés un living de 55 m², la ficha te está diciendo directamente que entrás en el rango, y eso es más de lo que te dan las otras.
+
+## El cenicero, que parece un detalle y no lo es
+
+Lepen es la única marca de la comparativa cuyas publicaciones declaran cenicero removible. Tanto este modelo como el Moquehue 13500 lo tienen; el Tromen y las tres de Qutral declaran que no.
+
+Que importe o no depende de cuánto lo vayas a usar. En la publicación del Qutral Andes con kit, un comprador escribe: "me gustaría que le agreguen una palita para poder sacar las cenizas porque si no, no hay forma de limpiar". Esa es exactamente la molestia que este equipo evita.
+
+## La pintura: la contra más seria
+
+Dos de las cuatro reseñas con texto hablan del mismo problema. "Calienta bien, muy lindo, pero la pintura malísima: la segunda vez que la prendí se empezó a saltar toda hasta que se fue saliendo por todos lados", escribe una compradora que igual le puso 5 estrellas. Otra, con 4 estrellas, lo describe más suave: "en la parte superior cambió el color y tiene una partecita saltada, no sé a qué se debe, pero funciona perfecto".
+
+No es un caso aislado ni de este modelo solo: en el Moquehue 13500, el hermano mayor, otro comprador reporta que se le salió la pintura de adentro. Es un patrón de la marca que conviene saber. Nadie reporta que afecte al funcionamiento.
+
+## Los caños de 5 pulgadas
+
+Esta es la advertencia más valiosa que dejó un comprador en todo el rubro, y merece leerse entera: "Lepen trabaja con caños de 5 pulgadas, medida que no suele ser estándar. Suelen ser más difíciles de conseguir o más caros. Terminás comprándole a ellos también para la instalación".
+
+El dato se confirma en la ficha del Moquehue 13500, que sí publica el diámetro: 12,7 cm, que son 5 pulgadas exactas. El Tromen usa 4 y los Qutral usan 6.
+
+Lo llamativo es que esta publicación, la del modelo donde el problema aparece reportado, no publica el diámetro de salida en su ficha técnica. El comprador tuvo que descubrirlo comprando.
+
+## Lo que dice el vendedor sobre la combustión
+
+En el campo "Posiciones de refracción", que en el resto de las fichas del rubro dice cosas como "Piso" o "Lateral", el vendedor de este equipo escribió "Doble combustion 80%".
+
+Como MercadoLibre no tiene un campo para el tipo de combustión, el dato se metió donde se pudo. El problema es el número: no hay ninguna fuente para ese 80%, y en la publicación del Moquehue 13500 la misma marca escribe 60% en ese mismo campo. Dos porcentajes distintos, sin explicar qué mide cada uno.`,
+    faq: [
+      { question: "¿Cuántos metros calienta el Lepen Moquehue Vintage 9000?", answer: "La ficha declara 9.000 kcal/h y un rango de 50 m² a 70 m². Junto con el Moquehue 13500, son las dos únicas publicaciones de la comparativa que declaran un piso real en vez de cero o del mismo número repetido. Las tres de Qutral arrancan en 0 m² y el Tromen repite 60." },
+      { question: "¿Qué caños necesita un Lepen?", answer: "Cinco pulgadas, con una salvedad importante: ese número no sale de la ficha de este modelo, que no publica el diámetro, sino de la ficha del Moquehue 13500 y de una compradora. Esa compradora advierte que esa medida no es la estándar del mercado, que es más difícil o más cara de conseguir, y que terminás comprándole la instalación a la propia marca. La ficha de este modelo no publica el diámetro, pero la del Moquehue 13500 sí: 12,7 cm, que son 5 pulgadas exactas." },
+      { question: "¿Es cierto que se le salta la pintura?", answer: "Es la queja más repetida de este modelo: dos de las cuatro reseñas con texto la mencionan, una describiéndola como \"malísima\" y contando que empezó a saltarse la segunda vez que lo encendió. En el Moquehue 13500 de la misma marca hay un reporte parecido. Nadie dice que afecte al funcionamiento." },
+      { question: "¿Tiene cenicero removible?", answer: "Sí, y está incluso en el nombre del modelo que declara la ficha: \"Moquehue Vintage 9000 Con Cenicero\". Es de las dos únicas publicaciones de esta comparativa que lo declaran, junto con el Moquehue 13500. El Tromen y las tres de Qutral declaran que no." },
+      { question: "¿Qué significa el \"Doble combustion 80%\" de la ficha?", answer: "Es un texto que el vendedor escribió en el campo \"Posiciones de refracción\", que no está pensado para eso. MercadoLibre no tiene un campo para el tipo de combustión, así que el dato se metió donde se pudo. No hay fuente para ese 80%, y en el Moquehue 13500 la misma marca escribe 60% en ese mismo campo, sin explicar qué mide cada número." },
+    ],
+  },
+  {
+    id: "MLAU3410543565",
+    title: "Qutral Andes 13000 + Kit Pared Enlozado — Estufa a Leña con Salida de Humos Incluida",
+    canonicalName: "Qutral Andes 13000 con kit de pared",
+    price: 657040,
+    originalPrice: 764000,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_843350-MLA92138114563_092025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_843350-MLA92138114563_092025-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_815110-MLA92140355509_092025-F.jpg",
+    ],
+    category: "Calefacción",
+    categorySlug: "hogar",
+    permalink: "https://www.mercadolibre.com.ar/estufa-a-lena-qutral-andes-13000--kit-pared-enlozado/up/MLAU3410543565",
+    affiliateUrl: "https://meli.la/2uxz43V",
+    freeShipping: true,
+    condition: "new",
+    rating: 4.9,
+    reviewCount: 119,
+    soldQuantity: 500,
+    pastelColor: "var(--pastel-amber)",
+    specs: [
+      { label: "Envío", value: "Gratis a todo el país" },
+      { label: "Marca", value: "Qutral" },
+      { label: "Modelo", value: "ANDES 13000" },
+      { label: "Incluye", value: "El calefactor más el kit de salida de humos de pared enlozado" },
+      { label: "Potencia máxima", value: "13.000 kcal/h" },
+      { label: "Superficie declarada", value: "0 m² - 120 m² (el mínimo de cero es como lo carga la ficha)" },
+      { label: "Material", value: "Acero" },
+      { label: "Diámetro de salida de humo", value: "15,24 cm, o sea 6 pulgadas exactas" },
+      { label: "Horno", value: "No" },
+      { label: "Grill", value: "No" },
+      { label: "Cenicero removible", value: "No, según la ficha de MercadoLibre" },
+      { label: "Medidas (alto x ancho x profundidad)", value: "57 x 52 x 49 cm" },
+      { label: "Peso", value: "38 kg, sin contar el kit" },
+      { label: "Sobreprecio contra el equipo solo", value: "$211.007" },
+    ],
+    relatedProducts: ["MLA34121091", "MLAU3412042507", "MLA35507302", "MLA37825191"],
+    priceUpdated: "2026-08-16", priceLastChecked: "2026-08-16", priceVerifiedAt: "2026-08-16",
+    priceStatus: "fresh", reviewsSampledAt: "2026-08-16",
+    description: "El mismo Qutral Andes 13000 pero con la salida de humos incluida. Sirve para saber, con un número exacto, cuánto costó la salida de humos de este equipo: $211.007 más que el mismo Andes sin kit.",
+    seoTitle: "Qutral Andes 13000 con kit: cuánto cuesta la instalación",
+    metaDescription: "El Qutral Andes 13000 con kit de pared enlozado a $657.040. El mismo equipo sin kit sale $446.033: la salida de humos cuesta $211.007, casi la mitad del calefactor.",
+    verdict: "No es un producto distinto: es el mismo Andes 13000 con la salida de humos adentro de la caja. Por eso es la publicación más útil de toda la comparativa, aunque no sea la que más conviene comprar. Pone precio a lo que casi ninguna publicación del rubro muestra: en este modelo, la salida de humos son $211.007 aparte, casi la mitad del equipo. Si ya tenés la salida hecha, comprá el Andes solo y ahorrate esa plata.",
+    pros: [
+      "Trae la salida de humos incluida: de las seis publicaciones comparadas, solo esta y la Qutral Patagónica la incluyen",
+      "4,9 de promedio sobre 119 opiniones: la calificación más alta de la comparativa junto con el Patagónica",
+      "Es el mismo equipo de 13.000 kcal/h que la publicación más reseñada del rubro",
+      "El kit es enlozado, no chapa común",
+      "Evita el problema de comprar caños del diámetro equivocado: los Qutral declaran 6 pulgadas, el Tromen 4 y el Lepen Moquehue 13500, 5",
+    ],
+    cons: [
+      "$211.007 más caro que el mismo equipo sin kit, un 47% de sobreprecio",
+      "Como equipo, pasa de $34 a $51 por caloría: sigue siendo el mismo Andes",
+      "Sin cenicero removible, y acá está el comprador que pide expresamente una pala para sacar las cenizas",
+      "Un comprador tuvo que agregarle ladrillos refractarios abajo porque le resultó muy bajo",
+      "En el primer encendido larga humo mientras se quema la pintura de fábrica, según una reseña",
+      "119 opiniones contra las 1.153 del mismo modelo sin kit: hay mucha menos evidencia acumulada",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", text: "Además de ser hermosa, calefacciona toda la casa. Cuando la prendés por primera vez larga un poco de humo donde se quema el producto. Excelente producto precio-calidad." },
+      { rating: 5, country: "Argentina", text: "Hermosa. Unos detalles para tener en cuenta: es muy baja, la tuvimos que reformar y le pusimos unos ladrillos refractarios. Y me gustaría que le agreguen una palita para poder sacar las cenizas, porque si no, no hay forma de limpiar." },
+      { rating: 5, country: "Argentina", text: "Buena relación precio calidad. Le da calidez y calor a la casa." },
+      { rating: 5, country: "Argentina", text: "Presentada de la forma en que va a quedar instalada." },
+    ],
+    articleBody: `Esta publicación es el mismo Qutral Andes 13000 de siempre. Misma potencia, mismas medidas, mismo peso, misma ficha técnica línea por línea. Lo único que cambia es que adentro de la caja viene también el kit de salida de humos de pared enlozado.
+
+Por eso vale la pena mirarla aunque no la compres.
+
+## El número que casi ninguna publicación muestra
+
+El Andes 13000 solo cuesta $446.033. Con el kit, $657.040.
+
+La diferencia es de **$211.007**, un 47% más. Eso es lo que cuesta la salida de humos **de este equipo**, comprada al mismo vendedor, en la misma plataforma, el mismo día. No es un precio de referencia del rubro: es el único caso de la comparativa donde el mismo modelo se vende con kit y sin kit, y por eso se puede aislar.
+
+Casi ninguna publicación del rubro muestra ese costo. El comprador ve el precio del equipo, arma su presupuesto y descubre después que le falta casi la mitad de esa plata otra vez. Acá está el número, y no lo estimamos nosotros: sale de comparar dos publicaciones reales.
+
+## Cuándo conviene y cuándo no
+
+Conviene si es tu primera instalación y no tenés nada hecho. Además de resolverte la compra, te evita el error de diámetro: los Qutral declaran salida de 6 pulgadas, el Tromen declara 4 y el Lepen Moquehue 13500 declara 5. Comprar los caños equivocados es un problema caro y frecuente.
+
+No conviene si ya tenés la salida hecha de un equipo anterior con el mismo diámetro. En ese caso estás pagando $211.007 por caños que no vas a usar, y te conviene el Andes solo.
+
+## Las contras que dejaron los compradores
+
+Con 119 opiniones y 4,9 de promedio, esta publicación tiene la calificación más alta de la comparativa, pero mucha menos evidencia acumulada que el mismo modelo sin kit, que tiene 1.153.
+
+Dos reseñas aportan advertencias útiles. La primera, sobre el estreno: "cuando la prendés por primera vez larga un poco de humo donde se quema el producto". Es la pintura de fábrica curándose, y es esperable.
+
+La segunda es más de fondo y toca dos cosas a la vez: "es muy baja, la tuvimos que reformar y le pusimos unos ladrillos refractarios. Y me gustaría que le agreguen una palita para poder sacar las cenizas, porque si no, no hay forma de limpiar".
+
+Lo de la altura coincide con lo que dicen los compradores del Andes sin kit: 57 cm es más bajo de lo que la gente espera. Lo de las cenizas es un dato de ficha: el Andes declara que no tiene cenicero removible. Si eso te importa, las dos publicaciones de Lepen de esta comparativa sí lo declaran.`,
+    faq: [
+      { question: "¿Cuánto cuesta el kit de salida de humos de un calefactor a leña?", answer: "En esta publicación se puede calcular exacto: el Qutral Andes 13000 solo cuesta $446.033 y con kit de pared enlozado $657.040. La salida de humos son $211.007, casi la mitad del precio del equipo. Es un costo que la mayoría de las publicaciones del rubro no muestra." },
+      { question: "¿Conviene comprar el Qutral Andes con kit o sin kit?", answer: "Con kit si es tu primera instalación: además de resolverte la compra, te evita comprar caños del diámetro equivocado. Sin kit si ya tenés la salida hecha con el mismo diámetro de 6 pulgadas, porque ahí estarías pagando $211.007 por caños que no vas a usar." },
+      { question: "¿Es el mismo equipo que el Qutral Andes 13000 sin kit?", answer: "Sí. Las dos publicaciones declaran la misma ficha técnica: 13.000 kcal/h, acero, 57 x 52 x 49 cm, 38 kg y salida de 15,24 cm. La única diferencia es el kit de salida de humos incluido." },
+      { question: "¿Por qué larga humo la primera vez que se enciende?", answer: "Según una reseña, el primer encendido larga humo mientras se quema la pintura de fábrica. Es un comportamiento esperable en equipos nuevos y no indica una falla." },
+      { question: "¿Cómo se sacan las cenizas?", answer: "Con dificultad: la ficha declara que no tiene cenicero removible, y un comprador de esta misma publicación pide expresamente que le agreguen una pala porque, en sus palabras, si no, no hay forma de limpiar. Si eso te preocupa, mirá los dos modelos de Lepen de la comparativa, que sí declaran cenicero removible." },
+    ],
+  },
+  {
+    id: "MLAU3412042507",
+    title: "Qutral Patagónica 9000 con Horno y Grill + Kit Pared Enlozado — Estufa a Leña",
+    canonicalName: "Qutral Patagónica 9000 con horno",
+    price: 879553,
+    originalPrice: 984000,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_700273-MLA92207117501_092025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_700273-MLA92207117501_092025-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_704793-MLA92207654593_092025-F.jpg",
+    ],
+    category: "Calefacción",
+    categorySlug: "hogar",
+    permalink: "https://www.mercadolibre.com.ar/estufa-qutral-patagonica-9000-con-horno--kit-pared-enlozado/up/MLAU3412042507",
+    affiliateUrl: "https://meli.la/1DoHy6z",
+    freeShipping: true,
+    condition: "new",
+    rating: 4.9,
+    reviewCount: 36,
+    soldQuantity: 100,
+    pastelColor: "var(--pastel-amber)",
+    specs: [
+      { label: "Envío", value: "Gratis a todo el país" },
+      { label: "Marca", value: "Qutral" },
+      { label: "Modelo", value: "9000 CON HORNO" },
+      { label: "Línea", value: "Patagónica" },
+      { label: "Incluye", value: "El calefactor más el kit de salida de humos de pared enlozado" },
+      { label: "Potencia máxima", value: "9.000 kcal/h" },
+      { label: "Superficie declarada", value: "0 m² - 90 m² (el mínimo de cero es como lo carga la ficha)" },
+      { label: "Material", value: "Acero" },
+      { label: "Diámetro de salida de humo", value: "15,24 cm, o sea 6 pulgadas exactas" },
+      { label: "Horno", value: "Sí" },
+      { label: "Grill", value: "Sí" },
+      { label: "Cenicero removible", value: "No, según la ficha de MercadoLibre" },
+      { label: "Medidas (alto x ancho x profundidad)", value: "96 x 45 x 39 cm" },
+      { label: "Peso", value: "52 kg, sin contar el kit" },
+    ],
+    relatedProducts: ["MLA35507302", "MLAU3410543565", "MLA34121091", "MLAU162285980"],
+    priceUpdated: "2026-08-16", priceLastChecked: "2026-08-16", priceVerifiedAt: "2026-08-16",
+    priceStatus: "fresh", reviewsSampledAt: "2026-08-16",
+    description: "La única de la comparativa con horno y grill a la vez, y la más alta con 96 cm. Trae el kit de salida incluido. La contra es la cuenta: 9.000 kcal/h por $879.553 la dejan última en precio por caloría.",
+    seoTitle: "Qutral Patagónica 9000 con horno y grill: qué pagás",
+    metaDescription: "Estufa a leña Qutral Patagónica 9000 con horno, grill y kit de pared a $879.553. La única con grill de la comparativa, y también la que más cuesta por caloría.",
+    verdict: "Es la única de las seis que suma horno y grill juntos, y viene con el kit de salida de humos incluido, que en las otras cuatro publicaciones se paga aparte. Con 96 cm de alto es también la más parecida a una cocina a leña que a un calefactor. La contra es aritmética y hay que decirla: entrega 9.000 kcal/h por $879.553, lo que la deja última de las seis en precio por caloría. Se paga por poder cocinar, no por calefaccionar más.",
+    pros: [
+      "La única de la comparativa con horno y grill a la vez",
+      "Trae el kit de salida de humos incluido, que es la parte de la instalación que se paga aparte en las otras cuatro publicaciones",
+      "4,9 de promedio, la calificación más alta del grupo junto con el Andes con kit",
+      "96 cm de alto: el horno queda a una altura de trabajo cómoda, no en el piso",
+      "Salida de 6 pulgadas, la medida más común de las tres marcas comparadas",
+    ],
+    cons: [
+      "$98 por caloría: el peor de los seis, casi el triple que el Qutral Andes 13000",
+      "9.000 kcal/h por casi el doble de precio que el Andes, que da 13.000",
+      "Sin cenicero removible según la ficha, pese al precio",
+      "Solo 36 opiniones, y varias son de compradores que todavía no lo instalaron: \"falta instalarla\", \"estamos por instalarlo\"",
+      "52 kg y 96 cm de alto: el segundo más pesado y el más alto, hay que pensar dónde va antes de que llegue",
+      "Stock limitado: +10 unidades disponibles al momento de verificarlo",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", text: "Es espectacular. Más que conforme con la compra." },
+      { rating: 5, country: "Argentina", text: "Es muy bueno, la encendí y calienta excelente." },
+      { rating: 5, country: "Argentina", text: "Está muy bien terminada, bien empacada. Falta instalarla, muy conforme con lo que me llegó." },
+      { rating: 5, country: "Argentina", text: "Muy lindo, estamos por instalarlo." },
+    ],
+    articleBody: `De los seis equipos comparados, este es el único que tiene horno y grill al mismo tiempo. Con 96 cm de alto, se parece más a una cocina a leña que a un calefactor, y esa es exactamente la idea.
+
+## Lo que pagás y lo que recibís
+
+Hay que poner el número sobre la mesa: 9.000 kcal/h por $879.553 son $98 por caloría. Es el peor ratio de los seis. El Qutral Andes 13000, de la misma marca, sale $34 por caloría.
+
+Dicho de otra forma: el Patagónica cuesta casi el doble que el Andes y calienta menos. Los dos son de Qutral y los dos vienen en versiones con kit.
+
+Eso no lo hace una mala compra. Lo hace una compra de otra cosa. Estás pagando por el horno, por el grill y por los 96 cm de altura que ponen ese horno a una altura de trabajo razonable en vez de obligarte a agacharte hasta el piso. Si lo que buscás es calefaccionar, hay opciones mucho más eficientes en esta misma comparativa. Si lo que buscás es cocinar con leña y calefaccionar de paso, acá no tenés competencia dentro del grupo.
+
+## El kit viene incluido
+
+Como el Andes con kit, esta publicación trae la salida de humos. En el caso del Andes se puede medir exactamente cuánto vale ese kit, porque el mismo equipo se vende también sin él: $211.007. Acá no hay una publicación equivalente sin kit del mismo vendedor para hacer esa cuenta, así que el sobreprecio del kit en este modelo no lo podemos aislar.
+
+Usa salida de 6 pulgadas, igual que el resto de la línea Qutral.
+
+## Qué dicen los 36 compradores
+
+Es el producto con menos opiniones de la comparativa, y hay que leerlas con cuidado. Con 4,9 de promedio, el tono es uniformemente positivo, pero dos de las cuatro reseñas con texto son de gente que todavía no lo usó: "está muy bien terminada, bien empacada, falta instalarla", "muy lindo, estamos por instalarlo".
+
+Eso es información sobre el empaque y la terminación, no sobre el rendimiento. La única que habla de uso real es corta y clara: "es muy bueno, la encendí y calienta excelente".
+
+Con 36 opiniones no hay evidencia acumulada como para hablar del horno, de la durabilidad de la pintura o del consumo. Es un producto nuevo en el catálogo del vendedor y las reseñas todavía no maduraron.
+
+## Lo que la ficha declara y no
+
+Declara horno y grill, ambos en Sí. Declara 0 m² a 90 m², con el mismo mínimo de cero que el resto de la línea. Y declara que no tiene cenicero removible, lo que en un equipo de casi $900.000 es una ausencia que se nota, sobre todo cuando los dos Lepen de la comparativa lo traen a menor precio.`,
+    faq: [
+      { question: "¿La Qutral Patagónica 9000 tiene horno?", answer: "Sí, y también grill: la ficha declara ambos en Sí. Es la única de las seis publicaciones comparadas que suma las dos cosas. Mide 96 cm de alto, así que el horno queda a una altura de trabajo cómoda." },
+      { question: "¿Conviene la Patagónica 9000 o el Andes 13000?", answer: "Depende de para qué. Para calefaccionar, el Andes sin discusión: da 13.000 kcal/h contra 9.000 y sale $34 por caloría contra $98. Para cocinar con leña, la Patagónica es la única de la comparativa con horno y grill. No compiten por lo mismo aunque sean de la misma marca." },
+      { question: "¿Incluye la salida de humos?", answer: "Sí, viene con kit de pared enlozado, de 6 pulgadas como el resto de la línea Qutral. A diferencia del Andes, este vendedor no publica una versión sin kit del mismo modelo, así que no se puede calcular por separado cuánto vale el kit acá." },
+      { question: "¿Es confiable con solo 36 opiniones?", answer: "Tiene 4,9 de promedio, pero conviene leerlas con criterio: varias son de compradores que todavía no lo habían instalado cuando escribieron. Hablan del empaque y de la terminación, no del rendimiento. Con ese volumen todavía no hay evidencia sobre el horno, la pintura o el consumo." },
+      { question: "¿Cuánto pesa y cuánto mide?", answer: "52 kg y 96 x 45 x 39 cm, sin contar el kit. Es el más alto de la comparativa y el segundo más pesado, después del Lepen Moquehue 13500. Conviene definir dónde va antes de que llegue." },
+    ],
+  },
+  {
+    id: "MLA35507302",
+    title: "Lepen Moquehue 13500 con Horno — Estufa a Leña Doble Combustión 13.500 kcal/h",
+    canonicalName: "Lepen Moquehue 13500 con horno",
+    price: 908000,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_682783-MLA100001963207_112025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_682783-MLA100001963207_112025-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_970529-MLA91159890228_092025-O.webp",
+    ],
+    category: "Calefacción",
+    categorySlug: "hogar",
+    permalink: "https://www.mercadolibre.com.ar/calefactor-a-lena-con-horno-lepen-moquehue-13500-cal-100m2/p/MLA35507302",
+    affiliateUrl: "https://meli.la/2Jbkyre",
+    freeShipping: false,
+    condition: "new",
+    rating: 4.6,
+    reviewCount: 76,
+    soldQuantity: 500,
+    pastelColor: "var(--pastel-amber)",
+    specs: [
+      { label: "Envío", value: "Solo por ser tu primera compra en MercadoLibre, no es gratis para todos" },
+      { label: "Marca", value: "Lepen" },
+      { label: "Modelo", value: "Moquehue" },
+      { label: "Potencia máxima", value: "13.500 kcal/h, la más alta de la comparativa" },
+      { label: "Superficie declarada", value: "10 m² - 100 m²" },
+      { label: "Material", value: "Acero" },
+      { label: "Diámetro de salida de humo", value: "12,7 cm, o sea 5 pulgadas exactas" },
+      { label: "Horno", value: "Sí" },
+      { label: "Grill", value: "No" },
+      { label: "Cenicero removible", value: "Sí" },
+      { label: "Medidas (alto x ancho x profundidad)", value: "86 x 52 x 45 cm" },
+      { label: "Peso", value: "59,8 kg, el más pesado de la comparativa" },
+      { label: "Tipo de combustión", value: "El vendedor escribió \"DOBLE COMBUSTION AHORRO 60% DE LEÑA\" en el campo Posiciones de refracción, sin fuente" },
+    ],
+    relatedProducts: ["MLAU162285980", "MLAU3412042507", "MLA34121091", "MLAU3410543565"],
+    priceUpdated: "2026-08-16", priceLastChecked: "2026-08-16", priceVerifiedAt: "2026-08-16",
+    priceStatus: "fresh", reviewsSampledAt: "2026-08-16",
+    description: "La más potente de la comparativa con 13.500 kcal/h, con horno y con cenicero removible. También la más cara, la más pesada y la de calificación más baja del grupo, con 4,6.",
+    seoTitle: "Lepen Moquehue 13500 con horno: la más potente",
+    metaDescription: "Estufa a leña Lepen Moquehue 13500 con horno y cenicero removible. 13.500 kcal/h, la potencia más alta de la comparativa. Ojo con la pintura y con los caños de 5 pulgadas.",
+    verdict: "Es la más potente de las seis y una de las dos que tienen horno, con el agregado del cenicero removible que las tres publicaciones de Qutral y el Tromen no declaran. Si necesitás calefaccionar en serio y además cocinar, es la más completa del grupo. Tres cosas antes de decidir: es la más cara, tiene la calificación más baja de la comparativa con 4,6, y usa caños de 5 pulgadas, una medida que según los propios compradores de la marca no es la estándar del mercado.",
+    pros: [
+      "13.500 kcal/h: la potencia más alta de la comparativa",
+      "Tiene horno, y además cenicero removible, que el Patagónica con horno no declara",
+      "Es la única de las seis que combina la máxima potencia con horno",
+      "Declara un rango de superficie con un piso real de 10 m², en vez del cero de las tres publicaciones de Qutral",
+      "Publica el diámetro de salida en su ficha, cosa que el otro Lepen de la comparativa no hace",
+      "Varios compradores destacan que no larga humo y que el horno funciona bien",
+    ],
+    cons: [
+      "El precio más alto de la comparativa: $908.000",
+      "4,6 de promedio, la calificación más baja de las seis",
+      "La pintura vuelve a aparecer como problema, igual que en el Moquehue Vintage: \"se le salió la pintura de adentro\"",
+      "Caños de 5 pulgadas, una medida que los propios compradores de Lepen describen como difícil de conseguir",
+      "59,8 kg: el más pesado del grupo por casi 8 kg",
+      "En el campo Posiciones de refracción el vendedor puso un ahorro de 60% de leña, sin fuente, y en el otro Lepen la misma marca escribe 80%",
+      "Solo +5 unidades disponibles al momento de verificarlo",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", text: "Hermosa, calienta perfecto, el horno funciona y calienta de diez." },
+      { rating: 5, country: "Argentina", text: "Impecable, tira re bien. No larga nada de humo. Muy recomendable la calidad." },
+      { rating: 4, country: "Argentina", text: "Excelente la estufa, pero se salió una puntada en el chapón de atrás y se le salió la pintura de adentro. El resto un 10, y el envío fue gratis así que eso sumó." },
+      { rating: 5, country: "Argentina", text: "Simplemente perfecta." },
+      { rating: 5, country: "Argentina", text: "Era lo que esperaba. No lo probé aún, pero sí lo vi funcionando en otro domicilio." },
+    ],
+    articleBody: `Con 13.500 kcal/h, el Moquehue 13500 es el equipo más potente de esta comparativa. También es el más caro, el más pesado y el que tiene la calificación más baja del grupo. Las cuatro cosas son ciertas a la vez y conviene mirarlas juntas.
+
+## La única que combina potencia máxima con horno
+
+De las seis publicaciones comparadas, dos tienen horno: esta y la Qutral Patagónica 9000. La Patagónica suma grill, que esta no tiene. Pero esta entrega 13.500 kcal/h contra 9.000, y además declara cenicero removible, que la Patagónica no.
+
+En precio por caloría, la diferencia es grande: $67 acá contra $98 de la Patagónica. Entre las dos con horno, esta rinde bastante mejor por peso.
+
+Contra los equipos sin horno la cuenta cambia: el Qutral Andes 13000 entrega casi lo mismo, 13.000 kcal/h, por $446.033. La mitad de plata. La diferencia es el horno, el cenicero y 500 kcal/h.
+
+## Los 5 pulgadas, ahora sí publicados
+
+La ficha declara 12,7 cm de diámetro de salida, que son cinco pulgadas exactas. Es el dato que su hermano menor, el Moquehue Vintage 9000, no publica y que una compradora de ese modelo tuvo que descubrir instalando: "Lepen trabaja con caños de 5 pulgadas, medida que no suele ser estándar. Suelen ser más difíciles de conseguir o más caros. Terminás comprándole a ellos también para la instalación".
+
+Acá el número está a la vista, así que al menos podés averiguar el precio de los caños antes de comprar. El Tromen usa 4 pulgadas y los Qutral usan 6: ninguno de esos caños te sirve.
+
+## La pintura, otra vez
+
+Es la razón más clara detrás del 4,6, la calificación más baja de la comparativa. Una reseña de 4 estrellas lo cuenta completo: "excelente la estufa, pero se salió una puntada en el chapón de atrás y se le salió la pintura de adentro. El resto un 10".
+
+Ese mismo problema aparece en el Moquehue Vintage 9000 de la misma marca, donde una compradora describe la pintura como "malísima". Dos modelos distintos, el mismo síntoma. Es un patrón de Lepen que conviene tener presente, sobre todo a este precio. Ningún comprador dice que afecte al funcionamiento del equipo.
+
+## Lo que sí funciona, según los compradores
+
+El horno tiene buena prensa: "el horno funciona y calienta de diez". El tiraje también: "impecable, tira re bien. No larga nada de humo". Con 76 opiniones no es el volumen del Qutral Andes, pero alcanza para ver un patrón: los problemas son de terminación, no de rendimiento.
+
+## El 60% que nadie explica
+
+En el campo "Posiciones de refracción", que debería decir dónde se apoya el equipo, el vendedor escribió "DOBLE COMBUSTION AHORRO 60% DE LEÑA".
+
+MercadoLibre no tiene un campo para el tipo de combustión, así que el dato termina metido donde entra. El problema es el número: no hay fuente para ese 60%, y en el Moquehue Vintage 9000 la misma marca escribe 80% en el mismo campo. No se puede saber si los dos porcentajes miden lo mismo, ni contra qué se comparan.`,
+    faq: [
+      { question: "¿Cuántos metros calienta el Lepen Moquehue 13500?", answer: "La ficha declara 13.500 kcal/h, la potencia más alta de la comparativa, y un rango de 10 m² a 100 m². A diferencia de las tres publicaciones de Qutral, que arrancan en cero, este declara un piso real." },
+      { question: "¿Qué caños necesita el Lepen Moquehue 13500?", answer: "De 5 pulgadas: la ficha declara 12,7 cm de diámetro de salida, que son cinco pulgadas exactas. Compradores de la marca advierten que esa medida no es la estándar del mercado y que suele ser más difícil o más cara de conseguir. Los caños de 4 pulgadas del Tromen y los de 6 de los Qutral no sirven." },
+      { question: "¿Conviene el Lepen Moquehue 13500 o la Qutral Patagónica con horno?", answer: "Son las dos únicas con horno de la comparativa. El Lepen entrega 13.500 kcal/h contra 9.000, cuesta $67 por caloría contra $98, y suma cenicero removible. La Patagónica suma grill, que el Lepen no tiene, y trae el kit de salida de humos incluido." },
+      { question: "¿Por qué tiene 4,6 de calificación?", answer: "Es la más baja de la comparativa y el motivo aparece en las reseñas: problemas de terminación. Un comprador reporta que se le salió una puntada del chapón trasero y la pintura de adentro. El mismo problema de pintura aparece en el Moquehue Vintage 9000 de la misma marca. Nadie reporta fallas de funcionamiento: el horno y el tiraje tienen buenas reseñas." },
+      { question: "¿Tiene cenicero removible?", answer: "Sí. Junto con el Moquehue Vintage 9000, son las dos únicas publicaciones de esta comparativa que lo declaran. El Tromen y las tres de Qutral, incluida la Patagónica con horno que cuesta casi lo mismo, declaran que no." },
+    ],
+  },
 ];
 
 export const categoryPastels: Record<string, string> = {

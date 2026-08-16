@@ -361,3 +361,43 @@ Pasó cuatro veces con cuatro familias distintas:
 **Lo que también salió de acá:** nunca afirmé un precio relativo sin dividir. "Comprar suelto sale peor que
 cualquier kit" sonaba obvio y era falso: la unidad de 40 cm le gana por centímetro a dos de los tres kits y es
 la más barata por estante en absoluto. Antes de escribir cualquier comparación de precio, hacer la cuenta.
+
+## 2026-08-16 — Un chequeo numérico no atrapa una generalización
+
+La guía de salamandra a leña pasó una verificación mecánica que armé yo mismo: un script que parsea las
+seis fichas del catálogo y valida los 17 claims comparativos de la guía (el más barato, el más reseñado,
+el mejor $/caloría, quién tiene horno, quién tiene cenicero). Dio 17/17. Gemini también dio GO.
+
+**Codex igual encontró siete errores reales en tres pasadas, y ninguno era numérico.** Todos eran el mismo
+tipo de falla: **saltar del caso particular al rubro entero**.
+
+| Lo que escribí | Por qué era falso |
+| :-- | :-- |
+| "Los Lepen usan 12,7 cm, que son 5 pulgadas" | Solo el Moquehue 13500 publica ese dato. El Vintage 9000 **no llena el campo**, y sus 5 pulgadas las reporta una compradora. La misma guía después decía "no lo publica" en la tabla: contradicción interna |
+| "La salida de humos se compra aparte y cuesta $211.007" | Los $211.007 son la diferencia entre el Andes con kit y sin kit. No es el precio de instalar cualquier salamandra |
+| "La salida de humos se vende aparte" | **Dos de las seis publicaciones la incluyen.** Lo decía mi propio catálogo |
+| "Trae la salida incluida, que en el resto de las publicaciones se compra por separado" | La Qutral Patagónica también la incluye |
+| "El Tromen es el segundo más vendido del rubro" | ML informa ventas en tramos: tres productos dicen "+1000". No se pueden rankear entre sí |
+| "El más elegido" como etiqueta del Andes | Mismo problema: implica ventas. Lo respaldan las reseñas, no las ventas. Pasó a "El más reseñado" |
+| "$97 por caloría" | 97,73 truncado en vez de redondeado. Igual el Andes+kit: 50,54 escrito como $50 |
+
+**Por qué el script no los vio.** Validaba *cuál producto* gana cada superlativo, que es una pregunta sobre
+el orden de una lista. Estos errores son sobre el **alcance de la afirmación**: a cuántos productos aplica,
+y si el dato existe o lo reporta un tercero. Un `min()` sobre seis filas no puede contestar eso.
+
+**Lo que hay que agregar al barrido, además de los superlativos:**
+
+1. **Cada vez que aparezca el nombre de una marca en plural** ("los Lepen", "los Qutral"), verificar que el
+   dato esté en las fichas de TODOS los productos de esa marca, no en uno.
+2. **Cada afirmación en presente sobre "el rubro", "la categoría" o sin sujeto explícito** ("se compra
+   aparte", "cuesta X"), acotarla con un número: "en cuatro de las seis publicaciones".
+3. **Separar el dato de ficha del dato de reseña.** Si lo dice un comprador y no la publicación, el texto
+   tiene que decirlo. Es la diferencia entre un hecho verificable y un testimonio.
+4. **Las ventas de ML vienen en tramos** (+100, +500, +1000). Nunca ordenar productos por ventas ni escribir
+   "el más vendido" o "el más elegido" con ese dato. Las reseñas sí son un número exacto.
+5. **Redondear, no truncar**, y usar la misma regla en todas las cifras derivadas.
+
+**Lo que sí funcionó y conviene repetir:** pasarle al auditor una tabla de verdad completa y pedirle
+explícitamente que busque generalizaciones del caso al rubro. Cuando en la pasada 2 le nombré ese patrón,
+encontró los tres residuos que quedaban en las fichas. Gemini, con la misma tabla pero sin esa instrucción,
+dio GO en la primera pasada y no encontró nada.
