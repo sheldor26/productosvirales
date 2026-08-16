@@ -25623,6 +25623,145 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     ],
     internalLinksTitle: "Más de climatización",
   },
+  {
+    slug: "freezer-vertical",
+    category: "freezers",
+    silo: "cocina",
+    pillar: true,
+    title: `Freezer vertical: cuál comprar en Argentina [2026]`,
+    seoTitle: `Freezer Vertical: Cuál Comprar en Argentina [2026]`,
+    metaDescription: `Comparamos 6 freezers verticales reales de MercadoLibre por precio por litro. Cuál rinde el doble que otro, y por qué un 5,0 de calificación puede no decir nada.`,
+    ogTitle: `Freezer vertical: cuál comprar en Argentina`,
+    ogDescription: `6 freezers verticales comparados por precio por litro, con dos datos que ninguna ficha explica: cuántas opiniones hay detrás de cada calificación y por dónde tira el calor.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_917060-MLA111276376345_052026-O.webp`,
+    h1: `Freezer vertical: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene el **[Midea FC-MJ6WAR1](/producto/freezer-vertical-midea-fc-mj6war1-160-litros-blanco-con-ruedas-mla23435743)** (alrededor de {{precio:MLA23435743:k}}): 160 litros, el que menos cuesta por litro de los seis y el único que declara ruedas. Si el hueco es chico, el **[Philco de 65 litros](/producto/freezer-vertical-philco-phcv065b-65-litros-blanco-20-kg-mla20038035)**, que además es el más reseñado. Si tiene que ir **abajo de una mesada**, el **[Vondom FR55](/producto/freezer-vertical-vondom-fr55-bajo-mesada-85-litros-blanco-4-cajones-mla6071549)**. Y en **negro**, el **[Siam FSI-CV181](/producto/freezer-vertical-siam-fsi-cv181-151-litros-negro-6-cajones-mla50200098)**, con la salvedad del stock. Ojo con algo: **una calificación de 5,0 puede estar calculada sobre una sola opinión**.`,
+    publishedDate: "2026-10-05",
+    updatedDate: "2026-10-05",
+    hasDisclosure: true,
+    readingTime: 11,
+    standfirst: `Un freezer vertical va de {{precio:MLA75635667:k}} (65 litros) a {{precio:MLA19620404:k}} (153 litros). Comparamos 6 freezers verticales reales de MercadoLibre Argentina por **precio por litro**, medidas y respaldo de opiniones, con contras de reseñas verdaderas, dentro de nuestro silo de [Cocina](/categoria/cocina).`,
+    quickPicks: [
+      { productMlaId: "MLA23435743", label: "El mejor por litro", labelColor: "green", tagline: "Midea 160 L: la mayor capacidad, el mejor precio por litro y el único con ruedas" },
+      { productMlaId: "MLA20038035", label: "El más reseñado", labelColor: "blue", tagline: "Philco 65 L: 1.002 opiniones y el más compacto de los seis" },
+      { productMlaId: "MLA6071549", label: "Para bajo mesada", labelColor: "purple", tagline: "Vondom FR55: 85,5 cm de alto y doble función, freezer o heladera" },
+      { productMlaId: "MLA75635667", label: "El más barato", labelColor: "slate", tagline: "Siam 65 L: la entrada más barata, con una sola opinión detrás" },
+    ],
+    intro: [
+      `Un **freezer vertical** es un congelador con puerta de frente, como una heladera, en vez de tapa que se levanta. Se elige por una razón concreta que casi nunca es la capacidad: **ocupa menos metro cuadrado de piso** que un horizontal de litros parecidos, y todo queda a la vista sin tener que revolver hasta el fondo.`,
+      `Comparamos 6 freezers verticales reales de MercadoLibre Argentina y los ordenamos por **cuánto cuesta cada litro**, que es la cuenta que ninguna publicación hace. La diferencia entre el mejor y el peor de esta guía es de más del doble: $5.312 contra $11.880 por litro. Y hay un segundo dato que conviene mirar antes que las estrellas: **sobre cuántas opiniones está calculada cada calificación**.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_917060-MLA111276376345_052026-O.webp", alt: `Freezer vertical blanco de puerta frontal con cajones transparentes, en una cocina`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la **mayoría**, el **[Midea de 160 litros](/producto/freezer-vertical-midea-fc-mj6war1-160-litros-blanco-con-ruedas-mla23435743)**. Si el hueco es **chico**, el **[Philco de 65](/producto/freezer-vertical-philco-phcv065b-65-litros-blanco-20-kg-mla20038035)** o el **[Siam de 65](/producto/freezer-vertical-siam-fsi-cv065b-65-litros-blanco-45-5-cm-de-ancho-mla75635667)**, que es más barato pero tiene una sola opinión. **Abajo de la mesada**, el **[Vondom FR55](/producto/freezer-vertical-vondom-fr55-bajo-mesada-85-litros-blanco-4-cajones-mla6071549)**. En **negro**, el **[Siam FSI-CV181](/producto/freezer-vertical-siam-fsi-cv181-151-litros-negro-6-cajones-mla50200098)**. Y si querés el **mayor respaldo entre los grandes**, el **[Siam FSI-CV180B](/producto/freezer-vertical-siam-fsi-cv180b-153-litros-segun-ficha-blanco-ciclico-mla19620404)**, aunque su título prometa más litros de los que declara su ficha.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** entramos por el ranking de más vendidos de la categoría Freezers de MercadoLibre Argentina y verificamos cada publicación en vivo, una por una: precio, stock, ficha técnica campo por campo y reseñas de compradores. **Calculamos el precio por litro de cada uno** usando la capacidad que declara la ficha técnica, no la del título, y cuando los dos números no coinciden lo decimos. Cuando un dato no está en la ficha, avisamos que no está en vez de estimarlo. Los precios se verifican automáticamente contra MercadoLibre.` },
+
+      { type: "h2", title: `Qué mirar antes de comprar un freezer vertical`, id: "que-mirar" },
+      { type: "p", content: `**Cuánto pagás por litro.** Es la cuenta que ordena esta guía y ninguna publicación la hace. Va de **$5.312 el litro** en el [Midea de 160](/producto/freezer-vertical-midea-fc-mj6war1-160-litros-blanco-con-ruedas-mla23435743) a **$11.880** en el [Philco de 65](/producto/freezer-vertical-philco-phcv065b-65-litros-blanco-20-kg-mla20038035). En esta comparativa los dos equipos de 65 litros son los más baratos en total, pero rinden peor por litro: eso no los descarta, y de hecho el Vondom de 85 litros sale más caro por litro que uno de ellos.` },
+      { type: "p", content: `**Sobre cuántas opiniones está calculada la calificación.** MercadoLibre pone las estrellas al lado del precio sin decir cuántas opiniones hay detrás. En esta comparativa el rango va de **1 opinión a 1.002**. Un 5,0 sobre una opinión y un 4,7 sobre mil son cosas muy distintas que se muestran igual.` },
+      { type: "p", content: `**El hueco, en las tres dimensiones.** Los grandes de esta guía miden entre 142 y 144 cm de alto y entre 55 y 57 de ancho. Los chicos rondan los 45 cm de ancho y 85 de alto. Y la profundidad va de 45,5 a 59 cm, así que si va abajo de una mesada, medí también el fondo.` },
+      { type: "p", content: `**Cuánto espacio libre necesita alrededor.** Ninguna de las seis fichas lo publica, y es un dato que importa mucho en un equipo que se compra para meter en un hueco. Lo único que encontramos al respecto sale de una reseña, y está más abajo.` },
+      { type: "p", content: `**Que ninguno es no frost.** Los seis se descongelan a mano. Ninguna de las seis publicaciones declara tecnología no frost, así que ese es el piso de la categoría en este rango de precios.` },
+
+      { type: "callout", calloutVariant: "warning", calloutTitle: "Un 5,0 de calificación puede estar hecho con una sola opinión", content: `El equipo **más barato de esta guía muestra 5,0 estrellas**. Ese número está calculado sobre **una sola opinión**. No es una mala señal: es la ausencia de señal. Al lado, otro equipo de **exactamente la misma capacidad, 65 litros**, muestra 4,7 estrellas, pero calculadas sobre **1.002 opiniones**, y cuesta **$199.100 más, un 35% por encima**. La elección entre esos dos no es "el barato contra el caro": es **precio contra evidencia**, y conviene decidirla sabiendo eso. MercadoLibre muestra las dos calificaciones con las mismas estrellas y del mismo tamaño.` },
+
+      { type: "h2", title: `Los mejores freezers verticales de 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Midea FC-MJ6WAR1 — el mejor por litro` },
+      { type: "product-card", productMlaId: "MLA23435743", label: "El mejor por litro", labelColor: "green", ranking: 1, description: `160 litros, la mayor capacidad de la comparativa, al precio por litro más bajo. El único que declara ruedas, con 424 opiniones detrás.` },
+      { type: "p", content: `El [Midea FC-MJ6WAR1](/producto/freezer-vertical-midea-fc-mj6war1-160-litros-blanco-con-ruedas-mla23435743) sale alrededor de {{precio:MLA23435743:k}} y tiene **{{rating:MLA23435743}} estrellas en {{reviews:MLA23435743}} opiniones**. Encabeza por la cuenta: **$5.312 el litro**, el mejor de los seis, con la mayor capacidad del grupo.` },
+      { type: "p", content: `Suma algo que suena menor y no lo es: **es el único de la comparativa que declara ruedas**. Con 42 kg encima, eso decide si podés correrlo para limpiar detrás o no. Otros dos de los seis pesan exactamente lo mismo, 42 kg, y ninguno declara ruedas. También trae puertas reversibles.` },
+      { type: "p", content: `Lo honesto: la contra sale de sus propias reseñas y está confirmada desde dos lados. **El compartimento de arriba no trae estante**, así que la comida se apoya directo sobre el fondo. Dos reseñas de 4 estrellas lo señalan como su único defecto, y una de 5 estrellas lo describe sin quejarse.` },
+      { type: "pull-quote", content: `"No entiendo por qué en la parte superior no hay un estante y por ende se deben apoyar los alimentos directamente sobre el diafragma. Error grave. Qué costaba poner una bandeja."`, attribution: `Comprador verificado en MercadoLibre, calificación 4/5` },
+      { type: "p", content: `Lo que sí convence es el silencio, que aparece en tres de las cuatro reseñas que revisamos, y que congela sin necesidad de forzarlo: varios compradores lo usan en la posición mínima o media.` },
+
+      { type: "h3", title: `2. Philco PHCV065B — el más reseñado` },
+      { type: "product-card", productMlaId: "MLA20038035", label: "El más reseñado", labelColor: "blue", ranking: 2, description: `65 litros con 1.002 opiniones, el respaldo más grande de la comparativa. También el más liviano y el más compacto de los seis.` },
+      { type: "p", content: `El [Philco PHCV065B](/producto/freezer-vertical-philco-phcv065b-65-litros-blanco-20-kg-mla20038035) sale alrededor de {{precio:MLA20038035:k}}, con **{{rating:MLA20038035}} estrellas en {{reviews:MLA20038035}} opiniones**. Ese número es el más alto del grupo y lo que lo pone segundo: en un rubro donde la mayoría no pasa de 500 opiniones, mil son mucha evidencia.` },
+      { type: "p", content: `Con 45,3 cm de ancho, 82,5 de alto y **20 kg**, es el más compacto y el más liviano de los seis. Una persona sola lo mueve.` },
+      { type: "p", content: `La duda con 65 litros siempre es si entra algo de verdad. Un comprador la contesta con un número concreto.` },
+      { type: "pull-quote", content: `"Lo compré con dudas porque parecía bastante chico, pero pude guardar casi 30 kg entre carne, pollo, milanesas y demás. Súper recomendable para casas donde vivan hasta 3 o 4 personas."`, attribution: `Comprador verificado en MercadoLibre, calificación 5/5` },
+      { type: "p", content: `Lo honesto, y son dos cosas. La primera es la cuenta: **$11.880 el litro, el peor de la comparativa**, y encima el [Siam de la misma capacidad](/producto/freezer-vertical-siam-fsi-cv065b-65-litros-blanco-45-5-cm-de-ancho-mla75635667) cuesta $199.100 menos. La segunda es el equipamiento: su ficha declara **"No" en control de temperatura, puertas reversibles, luz interior, congelamiento rápido, ruedas y tapón de drenado**. Estás pagando por el respaldo, no por las funciones.` },
+
+      { type: "h3", title: `3. Siam FSI-CV180B — el más respaldado entre los grandes` },
+      { type: "product-card", productMlaId: "MLA19620404", label: "Más opiniones entre los grandes", labelColor: "amber", ranking: 3, description: `153 litros según su ficha técnica, con 498 opiniones y 4,8. El único que publica su certificación IRAM con número.` },
+      { type: "p", content: `El [Siam FSI-CV180B](/producto/freezer-vertical-siam-fsi-cv180b-153-litros-segun-ficha-blanco-ciclico-mla19620404) sale alrededor de {{precio:MLA19620404:k}}, con **{{rating:MLA19620404}} estrellas en {{reviews:MLA19620404}} opiniones**. Es el segundo respaldo más grande de la guía y el más caro de los seis.` },
+      { type: "p", content: `Publica algo que ningún otro de los seis publica: su **certificación IRAM con número de certificado**. El gas refrigerante y la eficiencia energética también los declara, aunque ahí no está solo. En una categoría donde varias fichas ni siquiera dicen cuántos cajones traen, ese nivel de detalle habla bien del vendedor.` },
+      { type: "p", content: `Lo honesto, y es lo que lo baja del podio: **el título de la publicación dice "166 Lts" y su propia ficha técnica declara 153 litros**. Trece litros de diferencia, un 8% menos, dentro del mismo aviso. Y hay un comprador que llegó al mismo lugar sin mirar la ficha.` },
+      { type: "pull-quote", content: `"Tener en cuenta que las paredes del freezer son gruesas y te roba espacio en el interior. Lo demás, 10 puntos."`, attribution: `Comprador verificado en MercadoLibre, calificación 5/5` },
+      { type: "p", content: `Título, ficha técnica y experiencia de uso apuntan al mismo lado. Para nuestras cuentas usamos los 153 de la ficha, que dan $6.054 el litro. Aun tomando los 166 del título quedaría en $5.580, todavía por encima del Midea, que además cuesta $76.200 menos.` },
+
+      { type: "h3", title: `4. Siam FSI-CV181 — el único negro` },
+      { type: "product-card", productMlaId: "MLA50200098", label: "El único negro", labelColor: "slate", ranking: 4, description: `151 litros en negro, con 6 cajones declarados y control de temperatura. Buen precio por litro, pero quedaban 2 unidades al verificarlo.` },
+      { type: "p", content: `El [Siam FSI-CV181](/producto/freezer-vertical-siam-fsi-cv181-151-litros-negro-6-cajones-mla50200098) sale alrededor de {{precio:MLA50200098:k}}, con **{{rating:MLA50200098}} estrellas en {{reviews:MLA50200098}} opiniones**. De los seis equipos de esta guía, cinco son blancos. Este es el negro, y para una cocina integrada al living esa sola diferencia puede decidir la compra.` },
+      { type: "p", content: `Como equipo está bien parado: **$5.449 el litro, el segundo mejor**, con **6 cajones declarados** (la mayor cantidad del grupo), 5 estantes, control de temperatura y puertas reversibles. Publica además el rango real de temperatura, de -12 °C a -24 °C, dato que cuatro de los seis no publican.` },
+      { type: "callout", calloutVariant: "warning", calloutTitle: "Stock bajo", content: `Al verificar esta publicación el 16 de agosto de 2026 quedaban **2 unidades disponibles**. Lo decimos porque cambia la decisión: si te interesa, no conviene dejarlo para dentro de dos semanas. Si cuando entrás ya no está, el reemplazo natural es el [Midea de 160 litros](/producto/freezer-vertical-midea-fc-mj6war1-160-litros-blanco-con-ruedas-mla23435743), que rinde apenas mejor por litro y tiene más del doble de opiniones, con la salvedad de que solo viene en blanco.` },
+      { type: "p", content: `Lo honesto: con 144 cm es **el más alto de la comparativa** y con 57 cm el más ancho, así que hay que medir. Pesa 42 kg y no declara ruedas. Y es el único de los seis cuya ficha no publica la eficiencia energética, mientras que los otros cinco declaran A.` },
+
+      { type: "h3", title: `5. Vondom FR55 — el único bajo mesada` },
+      { type: "product-card", productMlaId: "MLA6071549", label: "Para bajo mesada", labelColor: "purple", ranking: 5, description: `85 litros en 85,5 cm de alto, para que entre debajo de una mesada. El único con doble función: freezer o heladera.` },
+      { type: "p", content: `El [Vondom FR55](/producto/freezer-vertical-vondom-fr55-bajo-mesada-85-litros-blanco-4-cajones-mla6071549) sale alrededor de {{precio:MLA6071549:k}}, con **{{rating:MLA6071549}} estrellas en {{reviews:MLA6071549}} opiniones**. Con 85,5 cm de alto es el único de la guía pensado para ir abajo de una mesada, y eso es todo su motivo de existir.` },
+      { type: "p", content: `Su ficha declara **doble función**, con rango de -18 °C a 0 °C: lo usás como freezer o, subiendo la temperatura, como heladera auxiliar. Ninguno de los otros cinco declara esa posibilidad. Suma 4 cajones y **6 estantes**, la mayor cantidad de estantes del grupo.` },
+      { type: "p", content: `Lo honesto: **$10.471 el litro, el segundo peor de la comparativa**. Y lo dicen sus propios compradores, uno de ellos dándole 5 estrellas: *"el precio comparado con otros es bastante más caro, pero vale la pena"*. Estás pagando el formato, no los litros. La otra contra la resume otra reseña: *"la única contra es que no es no frost"*, aunque agrega que igual no se le forma hielo.` },
+      { type: "p", content: `Un dato de medición: con **57 cm de profundidad** es el segundo más hondo de los seis. Si va abajo de una mesada, medí el fondo además del alto, porque una mesada estándar ronda los 60 cm.` },
+
+      { type: "h3", title: `6. Siam FSI-CV065B — el más barato` },
+      { type: "product-card", productMlaId: "MLA75635667", label: "El más barato", labelColor: "blue", ranking: 6, description: `65 litros a 45,5 cm de ancho, la entrada más barata de la comparativa. La contra no está en el equipo: está en que tiene una sola opinión.` },
+      { type: "p", content: `El [Siam FSI-CV065B](/producto/freezer-vertical-siam-fsi-cv065b-65-litros-blanco-45-5-cm-de-ancho-mla75635667) sale alrededor de {{precio:MLA75635667:k}}, el precio más bajo de la guía. Con 45,5 cm de ancho y 85 de alto es uno de los dos más angostos, y declara 1 cajón, 2 estantes y eficiencia energética A.` },
+      { type: "p", content: `Está último del ranking por una sola razón, y no es el equipo: **su 5,0 de calificación está calculado sobre una única opinión**. No hay evidencia acumulada, no hay contras reportadas por compradores y no hay forma de saber cómo se comporta con el uso.` },
+      { type: "p", content: `Comparado con el [Philco de la misma capacidad](/producto/freezer-vertical-philco-phcv065b-65-litros-blanco-20-kg-mla20038035), sale **$199.100 menos** y declara cajones y estantes que el Philco no publica. Si te alcanza con la ficha técnica y querés gastar lo mínimo, es una compra razonable. Si preferís comprar sobre evidencia, pagá la diferencia.` },
+
+      { type: "h2", title: `Comparativa: los 6 freezers verticales, uno al lado del otro`, id: "comparativa" },
+      { type: "table", headers: ["Modelo", "Precio", "Litros", "$ por litro", "Medidas (An x Prof x Alto)", "Peso", "Opiniones"], rows: [
+        ["[Midea FC-MJ6WAR1](/producto/freezer-vertical-midea-fc-mj6war1-160-litros-blanco-con-ruedas-mla23435743)", "{{precio:MLA23435743:k}}", "**160**", "**$5.312**", "55 x 55 x 142 cm", "42 kg", "{{reviews:MLA23435743}}"],
+        ["[Siam FSI-CV181 negro](/producto/freezer-vertical-siam-fsi-cv181-151-litros-negro-6-cajones-mla50200098)", "{{precio:MLA50200098:k}}", "151", "$5.449", "57 x 54,5 x 144 cm", "42 kg", "{{reviews:MLA50200098}}"],
+        ["[Siam FSI-CV180B](/producto/freezer-vertical-siam-fsi-cv180b-153-litros-segun-ficha-blanco-ciclico-mla19620404)", "{{precio:MLA19620404:k}}", "153", "$6.054", "55 x 59 x 143 cm", "42 kg", "**{{reviews:MLA19620404}}**"],
+        ["[Siam FSI-CV065B](/producto/freezer-vertical-siam-fsi-cv065b-65-litros-blanco-45-5-cm-de-ancho-mla75635667)", "{{precio:MLA75635667:k}}", "65", "$8.817", "45,5 x 45,5 x 85 cm", "23 kg", "**{{reviews:MLA75635667}}**"],
+        ["[Vondom FR55 bajo mesada](/producto/freezer-vertical-vondom-fr55-bajo-mesada-85-litros-blanco-4-cajones-mla6071549)", "{{precio:MLA6071549:k}}", "85", "$10.471", "55 x 57 x 85,5 cm", "33 kg", "{{reviews:MLA6071549}}"],
+        ["[Philco PHCV065B](/producto/freezer-vertical-philco-phcv065b-65-litros-blanco-20-kg-mla20038035)", "{{precio:MLA20038035:k}}", "65", "**$11.880**", "45,3 x 45,5 x 82,5 cm", "**20 kg**", "**{{reviews:MLA20038035}}**"],
+      ] },
+      { type: "p", content: `Los litros son los que declara cada ficha técnica, no los de los títulos. El precio por litro está calculado sobre los precios verificados el día del sourcing y sirve para comparar entre sí, no como valor absoluto: los precios de la tabla se actualizan solos contra MercadoLibre.` },
+
+      { type: "h2", title: `El dato que no está en ninguna ficha: por dónde tira el calor`, id: "calor" },
+      { type: "p", content: `Ninguna de las seis publicaciones dice cuánto espacio libre necesita el equipo alrededor. Es una ausencia rara, porque quien compra un freezer vertical suele hacerlo justamente para meterlo en un hueco entre muebles.` },
+      { type: "p", content: `Lo único concreto que encontramos sobre el tema lo dejó un comprador del Philco:` },
+      { type: "pull-quote", content: `"El calor lo emite por los costados, no por atrás."`, attribution: `Comprador verificado en MercadoLibre, calificación 5/5` },
+      { type: "p", content: `Si el calor sale de costado, encajonarlo entre dos muebles complica la disipación. Es el tipo de cosa que se descubre después de comprar, y aplica a ese equipo en particular: no lo generalizamos al resto, porque ninguna de las otras cinco publicaciones publica el dato ni tiene reseñas que lo mencionen. La recomendación práctica es dejarle aire a los costados salvo que el fabricante diga expresamente lo contrario.` },
+
+      { type: "h2", title: `Vertical u horizontal: por qué el vertical es la opción minoritaria`, id: "vertical-u-horizontal" },
+      { type: "p", content: `Vale decirlo de frente: **de los 20 freezers más vendidos de MercadoLibre Argentina, solo 5 son verticales**. El primero y el segundo del ranking son horizontales. El vertical no es la opción por defecto del rubro.` },
+      { type: "p", content: `La razón es que el horizontal gana en litros por peso y suele salir más barato el litro. Si tenés lugar de sobra y lo que buscás es meter media vaca, el horizontal es el camino.` },
+      { type: "p", content: `El vertical se elige por otra cosa: **ocupa menos metro cuadrado de piso**. Los grandes de esta guía apoyan sobre 55 x 55 cm y crecen para arriba. Y hay una diferencia de uso que no aparece en ninguna ficha: en un vertical todo queda a la vista al abrir la puerta, mientras que en un horizontal lo que está abajo hay que sacarlo para llegar. Si comprás por comodidad de uso diario y no por volumen máximo, es lo que estás pagando.` },
+
+      { type: "h2", title: `Cómo elegir tu freezer vertical`, id: "como-elegir" },
+      { type: "p", content: `**Si tenés lugar y querés el mejor rendimiento**, el [Midea de 160 litros](/producto/freezer-vertical-midea-fc-mj6war1-160-litros-blanco-con-ruedas-mla23435743). Más capacidad, mejor precio por litro y ruedas. Contá con que arriba no hay bandeja.` },
+      { type: "p", content: `**Si el hueco es chico**, mirá los dos de 65 litros y decidí entre precio y respaldo: el [Siam](/producto/freezer-vertical-siam-fsi-cv065b-65-litros-blanco-45-5-cm-de-ancho-mla75635667) sale $199.100 menos, el [Philco](/producto/freezer-vertical-philco-phcv065b-65-litros-blanco-20-kg-mla20038035) tiene 1.002 opiniones contra 1.` },
+      { type: "p", content: `**Si tiene que ir abajo de una mesada**, el [Vondom FR55](/producto/freezer-vertical-vondom-fr55-bajo-mesada-85-litros-blanco-4-cajones-mla6071549) es el único que el fabricante publica como línea bajo mesada, y encima sirve como heladera. Por altura pura, el [Siam de 65 litros](/producto/freezer-vertical-siam-fsi-cv065b-65-litros-blanco-45-5-cm-de-ancho-mla75635667) es incluso más bajo, 85 cm contra 85,5, aunque no se vende como empotrable. En los dos casos medí el fondo: 57 cm el Vondom, 45,5 cm el Siam.` },
+      { type: "p", content: `**Si no querés el blanco de electrodoméstico**, el [Siam FSI-CV181 negro](/producto/freezer-vertical-siam-fsi-cv181-151-litros-negro-6-cajones-mla50200098), con la advertencia de stock.` },
+      { type: "p", content: `**Si vas a comparar contra un horizontal**, hacé la cuenta por litro antes de decidir. Y si lo que buscás es sumar frío a la cocina sin un equipo aparte, mirá también nuestras guías de [microondas](/guias/cocina/microondas) y [horno eléctrico](/guias/cocina/horno-electrico) para ver qué otras cosas conviene resolver primero.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Qué no pudimos verificar:** todas las especificaciones salen de las fichas de MercadoLibre verificadas en vivo, no de las webs de Siam, Philco, Midea ni Vondom. El consumo eléctrico real no lo publica ninguna de las seis publicaciones, solo la letra de eficiencia energética. El espacio libre que necesita cada equipo alrededor tampoco lo publica ninguna. Y en el Siam FSI-CV065B no hay contras que contar: con una sola opinión, no hay experiencia de uso acumulada que citar. **Sobre el envío:** las seis publicaciones mostraban "envío gratis por ser tu primera compra", que es una promoción de cuenta y no un atributo del producto, así que un comprador que ya compró antes en MercadoLibre puede pagar el envío.` },
+    ],
+    faq: [
+      { question: "¿Cuál es el mejor freezer vertical en Argentina?", answer: "Para la mayoría, el Midea FC-MJ6WAR1 de 160 litros: es el que más capacidad tiene de esta comparativa, el que menos cuesta por litro con $5.312 y el único que declara ruedas, con 424 opiniones y 4,7 de promedio. Si el espacio es el problema, el Philco de 65 litros es el más compacto y el más reseñado del grupo." },
+      { question: "¿Cuánto cuesta un freezer vertical en Argentina?", answer: "Los seis equipos comparados van de $573.099 a $926.199. Pero el precio de lista engaña: medido por litro, el rango va de $5.312 a $11.880, más del doble. Los dos equipos de 65 litros son los más baratos en total, pero no son automáticamente los peores por litro: el Vondom de 85 litros sale $10.471 y queda por encima del Siam de 65, que sale $8.817." },
+      { question: "¿Conviene un freezer vertical u horizontal?", answer: "El horizontal rinde más litros por peso y suele salir más barato el litro, y de hecho domina el rubro: de los 20 freezers más vendidos de MercadoLibre, solo 5 son verticales. El vertical se elige porque ocupa menos metro cuadrado de piso y porque todo queda a la vista al abrir la puerta, sin tener que sacar cosas para llegar al fondo." },
+      { question: "¿Qué significa que un freezer sea cíclico?", answer: "Que hay que descongelarlo a mano cada tanto, porque no tiene sistema no frost que evite la acumulación de escarcha. Ninguna de las seis publicaciones de esta comparativa declara tecnología no frost, así que en este rango de precios el deshielo manual es el piso de la categoría." },
+      { question: "¿Por qué un freezer con 5 estrellas puede ser peor opción?", answer: "Porque las estrellas no dicen sobre cuántas opiniones están calculadas. En esta comparativa el equipo más barato muestra 5,0 sobre una única opinión, mientras que otro de la misma capacidad muestra 4,7 sobre 1.002. El primero no es peor ni mejor: simplemente no hay evidencia acumulada sobre cómo se comporta." },
+      { question: "¿Cuánto entra en un freezer vertical de 65 litros?", answer: "Un comprador del Philco reporta haber guardado casi 30 kg entre carne, pollo y milanesas, y lo recomienda para casas de hasta 3 o 4 personas. Como referencia de escala, los equipos grandes de esta guía declaran entre 151 y 160 litros, más del doble." },
+      { question: "¿Cuánto espacio libre necesita un freezer vertical alrededor?", answer: "Ninguna de las seis fichas de MercadoLibre lo publica, lo que es una ausencia notable en un producto que se compra para meter en un hueco. El único dato concreto que encontramos viene de una reseña del Philco, donde un comprador avisa que el calor sale por los costados y no por atrás. Como recomendación general, conviene dejarle aire a los costados." },
+      { question: "¿Los freezers verticales tienen envío gratis?", answer: "En las seis publicaciones que comparamos, el envío gratis aparecía como promoción por primera compra en MercadoLibre, no como beneficio del producto. Si ya compraste antes en la plataforma, conviene revisar el costo de envío antes de cerrar, sobre todo porque son equipos de entre 20 y 42 kg." },
+    ],
+    internalLinks: [
+      { label: `Microondas: cuál comprar en Argentina`, href: `/guias/cocina/microondas` },
+      { label: `Horno eléctrico: cuál comprar en Argentina`, href: `/guias/cocina/horno-electrico` },
+      { label: `Robot de cocina: cuál conviene`, href: `/guias/cocina/robot-de-cocina` },
+      { label: `Ver toda la categoría Cocina`, href: `/categoria/cocina` },
+    ],
+    internalLinksTitle: "Más de cocina",
+  },
 ];
 
 /**
@@ -25713,6 +25852,11 @@ export function getDisplaySilo(g: Pick<Guide, "silo" | "category">): string {
 }
 
 export const guideCategories: Record<string, { name: string; description: string }> = {
+  "freezers": {
+    name: "Guía de Freezers",
+    description:
+      "Freezers verticales comparados por precio por litro: cuánto rinde cada peso, cuántas opiniones hay detrás de cada calificación y qué medidas entran en tu hueco.",
+  },
   "salamandras-a-lena": {
     name: "Guía de Salamandras a Leña",
     description:

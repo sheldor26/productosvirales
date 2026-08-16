@@ -3,6 +3,52 @@
 > Snapshot del proyecto. Se actualiza al final de cada sesión.
 > Última actualización: 2026-08-16 (guía `salamandra-a-lena` nueva en STAGED, primer pilar de calefacción a leña dentro del silo `climatizacion` existente — ver sesión inmediatamente abajo). Antes: 2026-08-15, research de keywords verificado, cuatro guías del silo hogar-jardin publicadas y 23 links internos rotos reparados.
 
+## Sesión 2026-08-16 (parte 2) — Freezer vertical, y dos rubros descartados por calendario
+
+**Guía `freezer-vertical` en STAGED** (`publishedDate: 2026-10-05`), pilar del silo `cocina`, con
+categoría nueva `freezers` y **6 fichas** verificadas en vivo. Keyword de **22.200/mes con dificultad
+11 y curva plana todo el año** (18.100 a 27.100): sin presión de calendario, que fue justamente el
+problema de los otros dos rubros del día.
+
+Hallazgos que sostienen la guía, todos verificados:
+
+1. **Un 5,0 de calificación calculado sobre UNA sola opinión.** Es el equipo más barato de los seis.
+   Al lado, otro de la misma capacidad de 65 litros tiene 1.002 opiniones y cuesta 35% más. La
+   elección no es barato contra caro, es **precio contra evidencia**, y ML muestra las dos
+   calificaciones con las mismas estrellas.
+2. **El título promete 13 litros que la ficha no tiene.** El Siam FSI-CV180B se publica como
+   "166 Lts" y su propia ficha declara 153 L. Un comprador llegó al mismo lugar sin mirar la ficha:
+   *"las paredes del freezer son gruesas y te roba espacio en el interior"*.
+3. **El precio por litro va de $5.312 a $11.880**, más del doble, y ninguna publicación hace esa cuenta.
+4. **Por dónde tira el calor no está en ninguna ficha.** Solo aparece en una reseña: *"el calor lo
+   emite por los costados, no por atrás"*, que es el dato que decide si podés encajonarlo.
+5. **De los 20 freezers más vendidos, solo 5 son verticales.** El vertical se elige por metro cuadrado
+   de piso, no por capacidad ni por precio por litro, donde el horizontal gana.
+
+**Auditoría: GO de Codex tras TRES pasadas, sin agy.** La sesión de `agy` perdió la autenticación
+OAuth a mitad de la jornada y pide login interactivo, así que esta guía **no pasó el trío completo**.
+Codex encontró siete errores factuales míos en las dos primeras pasadas, todos del mismo tipo que la
+guía anterior: exclusividades falsas y generalizaciones. Los peores: dije que el Vondom era el único
+con altura para bajo mesada cuando el Siam de 65 es más bajo (85 contra 85,5 cm), y escribí el 35% en
+la dirección equivocada (es 35% más caro el Philco, no 35% más barato el Siam, que sería 26%).
+
+## Dos rubros que NO se hicieron, y por qué
+
+**Pileta de lona pospuesta a octubre.** Keyword excelente: SD 10 y pico de **90.500 en diciembre**
+contra 2.400 en agosto. Pero al ir a sourcear, la categoría Piletas Estructurales de ML tenía **6
+publicaciones, 4 marcadas como última unidad**, y la categoría padre tenía 4. Los dos mejores
+candidatos: **+5 y 3 unidades disponibles**. Fuera de temporada no hay góndola. El research y el
+ángulo diferenciador contra `pileta-pelopincho` (guía multi-marca contra guía de modelo) ya están
+hechos, así que esa sesión arranca a mitad de camino.
+
+**Calefacción frenada.** Juan cortó la idea de seguir con calefactor tiro balanceado y estufa a
+pellet: estamos a cuatro semanas de que termine el invierno. La guía de salamandra ya estaba escrita
+y se publica igual, pero como depósito para junio 2027, no esperando tráfico ahora.
+
+**La regla que salió de las dos cosas juntas** quedó en memoria: son **dos calendarios, no uno**.
+La ventana de publicación va 2-3 meses antes del pico; la de sourcing va cuando ML tiene stock, que
+es *después*. Antes de prometer una guía hay que chequear el conteo de publicaciones de la categoría.
+
 ## Sesión 2026-08-16 — Salamandra a leña, primer pilar de calefacción
 
 **Guía `salamandra-a-lena` en STAGED** (`publishedDate: 2026-10-05`), pilar, dentro del silo
