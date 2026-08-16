@@ -82,9 +82,28 @@ Igual que en conservadoras, hay que verificar contra fabricante antes de publica
 | **Popstore Nórdica** | "Es plegable: Sí" | Ninguna reseña menciona que se pliegue; hablan de armarla con tornillos |
 | **Dielfe Soho** | "Forma: Rectangular" y "Diámetro: 60 cm" | Mismo error de campo: un rectángulo no tiene diámetro |
 
-**Pendiente:** cruzar altura, medidas y peso soportado contra las webs de Justo Makario,
-Popstore, Ambi O, Sajo y Dielfe donde existan. Donde no cierre, decirlo en vez de elegir un
-número, como se hizo con la Vöhler.
+## Verificación contra fabricante — hecha el 2026-08-15
+
+Se cruzaron las seis contra la web de cada fabricante. El resultado dice bastante del rubro:
+
+| Producto | Qué publica el fabricante | Resultado |
+| :-- | :-- | :-- |
+| **SAJO 80 cm** | sajo.com.ar: Largo 80, Alto 42, Profundidad 40 | **Coincide exacto** con la ficha del sitio |
+| **Mobilarg Cuadra 57** | Alto 45, 57 x 57, bandeja de chapa 54x54x3, caño 15/15 microtexturado | **Coincide exacto**, y suma dos datos que ML no publica |
+| **Justo Makario Boomerang** | Su tienda oficial confirma 65 x 45 cm pero **no publica el alto** | Largo y ancho confirmados; la altura sigue sin confirmar |
+| **Dielfe Soho MRS100** | Su web **no publica medidas**. Solo material, estante inferior y que viene para armar | Las medidas del sitio coinciden con las de los retailers, no con el fabricante |
+| **Popstore Nórdica** | **Sin sitio propio.** Otras publicaciones de la misma línea declaran 46,5 x 46,5 cm | Cuarto valor distinto. Sigue sin confirmar |
+| **Ambi O set x3** | **Sin fabricante encontrable** | Sin verificar |
+
+**El hallazgo de fondo:** de seis fabricantes, solo dos publican las medidas de sus propios
+muebles. Uno las publica a medias, uno tiene web pero no pone medidas, y dos no tienen web.
+Por eso en esta categoría la ficha de MercadoLibre no se puede cruzar contra nada en la mayoría
+de los casos, y por eso las contradicciones sobreviven: nadie las corrige.
+
+Ojo con un detalle de método: al buscar "Dielfe MRS100" el buscador devolvió medidas atribuidas
+a "la web oficial de Dielfe". Al abrir la página del fabricante, esas medidas **no estaban**:
+venían de un retailer. El resumen del buscador no alcanza como verificación, hay que abrir la
+página.
 
 ## Contras reales ya detectados en las reseñas
 
