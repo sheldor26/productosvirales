@@ -239,4 +239,24 @@ export const socialPosts: SocialPost[] = [
     offPct: "20",
     postedAt: "2026-08-16T17:34:16-03:00",
   },
+  {
+    title: "Dylan Blue EDT 200ml Versace para Hombre",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_606364-MLA89551235651_082025-O.webp",
+    affiliateUrl: "https://meli.la/1mbLEBv",
+    newPrice: "180.119",
+    oldPrice: "354.000",
+    offPct: "49",
+    postedAt: "2026-08-17T10:38:59-03:00",
+  },
+  {
+    title: "Aspiradora Robot Trapeadora Gadnic Navegacion Laser",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_724942-MLA106375069086_022026-O.webp",
+    affiliateUrl: "https://meli.la/2ch8hdt",
+    newPrice: "272.999",
+    oldPrice: "678.749",
+    offPct: "59",
+    postedAt: "2026-08-17T10:38:59-03:00",
+  },
 ];
