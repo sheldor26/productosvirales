@@ -5826,7 +5826,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
             "Cumple para lo que cuesta",
           ],
           [
-            "[Baza Almohada](https://meli.la/2JM3if9)",
+            "[Almohada Ydtech](https://meli.la/2JM3if9)",
             "Almohada, vibración + calor, USB",
             "Sí",
             "Para usar acostado o en viajes",
@@ -5874,12 +5874,18 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
         card: {
           heading: "1. Gadnic Yapeyú - El que recomiendo",
           paragraphs: [
-            "Tipo U con 8 nodos shiatsu rotativos y calor infrarrojo. Los nodos giran en ambas direcciones, tiene tres niveles de intensidad, y la batería dura hasta 180 minutos (unas 3 horas, que alcanza de sobra para varios días de uso).",
+            "Tipo U con 8 nodos shiatsu rotativos y calor infrarrojo. Los nodos giran en ambas direcciones y tiene tres niveles de intensidad. Sobre la batería conviene ser exacto: **su ficha técnica no declara cuánto dura**, y el comprador que más detalle da la mide en unas 2 horas. El mismo avisa que no tiene luz de carga, así que nunca sabés cuándo está al 100%.",
             "Lo que funciona bien: los 8 nodos cubren bien la zona entre cuello y trapecio. El calor infrarrojo se siente en la temperatura justa, no quema ni es tibio. Que sea recargable es un punto a favor enorme: lo usás en el sillón, en la cama, donde quieras, sin depender de un enchufe cerca.",
             "Lo que podría ser mejor: el nivel de intensidad más bajo sigue siendo bastante fuerte. Si tenés la zona muy sensible o nunca usaste un masajeador shiatsu, los primeros minutos pueden molestar hasta que te acostumbrás. Gadnic como marca tiene productos desiguales, pero este modelo en particular está bien logrado.",
           ],
-          ctas: [{ label: "Ver precio actual en MercadoLibre", href: "https://meli.la/22qCfXR" }],
         },
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA25864057",
+        label: "El que recomiendo",
+        labelColor: "green",
+        description: "8 nodos shiatsu bidireccionales, calor infrarrojo y 3 intensidades. Inalámbrico, con cargador de 220V y otro de 12V para el auto. {{rating:MLA25864057}} estrellas sobre {{reviews:MLA25864057}} opiniones.",
       },
       {
         type: "card",
@@ -5890,8 +5896,14 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
             "Lo que funciona bien: la versatilidad. Si te duele el cuello un día y la cintura otro, con un solo aparato cubrís las dos zonas. La construcción se siente más sólida que los modelos más baratos.",
             "Lo que no me cierra: cuesta más que el Yapeyú y para cervicales específicamente no siento una diferencia enorme. Si tu problema es solo el cuello, el Gadnic rinde igual o mejor por menos plata. El Wolke tiene sentido si querés algo que te sirva para varias zonas.",
           ],
-          ctas: [{ label: "Ver Wolke Multiuso en MercadoLibre", href: "https://meli.la/2R9wp8o" }],
         },
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA24203342",
+        label: "Cervical y lumbar",
+        labelColor: "blue",
+        description: "Cubre cervical, espalda, lumbares y pies con un solo aparato. Ojo con un dato que la ficha no destaca: va con cable, no es inalámbrico.",
       },
       {
         type: "card",
@@ -5932,14 +5944,20 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       {
         type: "card",
         card: {
-          heading: "4. Almohada Masajeadora Baza - Diferente, no mejor ni peor",
+          heading: "4. Almohada masajeadora Ydtech - Diferente, no mejor ni peor",
           paragraphs: [
             "No es tipo U. Es una almohada ergonómica con vibración y calor. USB recargable, inalámbrica, portátil. La idea es apoyar el cuello sobre ella (en la cama, sillón, o incluso en el auto o avión) y dejar que haga el trabajo.",
             "Lo que funciona: la posición acostado hace que el peso de tu cabeza ayude a la presión, así que el masaje se siente más profundo sin que el aparato tenga que ser más potente. Que sea inalámbrica y recargable por USB la hace práctica para viajes.",
             "Lo que no funciona para todos: solo sirve apoyando el cuello. No la podés usar caminando por la casa como los tipo U. Si querés algo para usar sentado en la oficina, mejor mirá los asientos masajeadores.",
           ],
-          ctas: [{ label: "Ver Almohada Baza en MercadoLibre", href: "https://meli.la/2JM3if9" }],
         },
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA26789578",
+        label: "Otro formato",
+        labelColor: "purple",
+        description: "Almohada de 26 x 24 cm, inalámbrica y recargable por USB, con funda desmontable. Su ficha publica apenas seis campos: no declara potencia, autonomía ni nodos shiatsu.",
       },
       {
         type: "card",
@@ -5949,10 +5967,14 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
             "Si lo que querés es algo para poner en la silla de la oficina o del auto, los asientos masajeadores son otra categoría. Cubren cervicales, espalda y a veces lumbar, con calor y vibración. No son tan específicos para el cuello como los tipo U, pero son más cómodos para uso prolongado.",
             "El Wolke con rodillos tiene calor y funciona bien para silla de oficina. Los asientos shiatsu son un poco más intensos. Depende de si preferís vibración suave o masaje con presión.",
           ],
-          ctas: [
-            { label: "Ver Wolke Sillón Cervical en MercadoLibre", href: "https://meli.la/1xVjx9e" },
-          ],
         },
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLAU189502779",
+        label: "El más completo",
+        labelColor: "amber",
+        description: "Respaldo con rodillos shiatsu, vibración y calor, plegable y para hasta 120 kg. La contra a saber antes: dos compradores por separado avisan que no llega más arriba de los hombros.",
       },
       {
         type: "product-card",
@@ -5992,7 +6014,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       {
         type: "p",
         content:
-          "Si preferís usarlo acostado antes de dormir: la Almohada Baza. Portátil, inalámbrica, con calor. La posición ayuda al masaje y es más relajante que usarlo sentado.",
+          "Si preferís usarlo acostado antes de dormir: la almohada Ydtech. Portátil, inalámbrica, con calor. La posición ayuda al masaje y es más relajante que usarlo sentado.",
       },
       {
         type: "p",
