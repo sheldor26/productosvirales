@@ -1,0 +1,94 @@
+name: Bot social autónomo (Instagram)
+
+# Publica un carrusel por corrida en Instagram: elige un producto del catálogo,
+# lo pasa por los cinco gates de scripts/lib/bot-gates.mjs, genera las dos
+# imágenes y el caption, publica y avisa por Telegram DESPUÉS de publicar.
+#
+# Ver tasks/bot-social.md para el plan completo.
+#
+# Por qué corre justo después del workflow de precios: el gate 1 exige precio
+# verificado hace menos de 24h, y Bright Data corre lunes, miércoles y viernes
+# 12:07 UTC. Fuera de esa ventana el bot no encuentra candidatos y no publica,
+# que es exactamente lo que tiene que pasar.
+#
+# OJO: update-prices-brightdata.yml abre un PR, no mergea solo. Si ese PR queda
+# sin mergear, master sigue con precios viejos y el bot no publica. El aviso de
+# Telegram lo dice explícito cuando pasa.
+#
+# Secrets necesarios (Settings > Secrets and variables > Actions):
+#   IG_ACCESS_TOKEN, IG_BUSINESS_ACCOUNT_ID, BLOB_READ_WRITE_TOKEN
+#   ANTHROPIC_API_KEY, DATABASE_URL, TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID
+
+on:
+  schedule:
+    # Lunes, miércoles y viernes 14:23 UTC = ~11:23 hora Argentina (UTC-3),
+    # unas dos horas después del workflow de precios, para darle margen al PR.
+    #
+    # Minuto :23 a propósito, no :00: GitHub demora o descarta crons en el
+    # minuto exacto de la hora por ser el pico de carga. Mismo criterio (y
+    # misma cicatriz) que update-prices-brightdata.yml.
+    - cron: "23 14 * * 1,3,5"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Dry run (no publica ni escribe en la base)"
+        type: boolean
+        default: true
+      producto:
+        description: "Forzar un producto puntual (ID de ML, ej MLA45951645). Igual pasa los gates."
+        type: string
+        required: false
+
+permissions:
+  contents: read
+
+# Evita que el cron y un workflow_dispatch manual corran pisándose: sin esto,
+# dos corridas superpuestas pueden pasar el gate de "no repetir" antes de que
+# cualquiera de las dos llegue a registrar el post, y publicar el mismo
+# producto duplicado.
+concurrency:
+  group: bot-social
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Bajar el código
+        uses: actions/checkout@v4
+        with:
+          ref: master
+
+      - name: Preparar Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+          cache: npm
+
+      # Instala también el Chromium de puppeteer, que es el que usan los
+      # generadores de imagen en Linux (a mano usan el Chrome de macOS).
+      - name: Instalar dependencias
+        run: npm ci
+
+      - name: Ubicar el Chromium de puppeteer
+        run: echo "CHROME_PATH=$(node -e "console.log(require('puppeteer').executablePath())")" >> "$GITHUB_ENV"
+
+      - name: Correr el bot
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_BUSINESS_ACCOUNT_ID: ${{ secrets.IG_BUSINESS_ACCOUNT_ID }}
+          BLOB_READ_WRITE_TOKEN: ${{ secrets.BLOB_READ_WRITE_TOKEN }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          ARGS=""
+          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
+            ARGS="$ARGS --dry-run"
+          fi
+          if [ -n "${{ github.event.inputs.producto }}" ]; then
+            ARGS="$ARGS --producto ${{ github.event.inputs.producto }}"
+          fi
+          echo "Corriendo: node scripts/bot-social.mjs $ARGS"
+          node scripts/bot-social.mjs $ARGS

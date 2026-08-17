@@ -24,7 +24,11 @@ const { execFileSync } = require("child_process");
 
 const TEMPLATE_PATH = path.join(__dirname, "threads-post-template-beneficios.html");
 const ML_LOGO_PATH = path.join(__dirname, "..", "public", "logo", "mercadolibre.svg");
-const CHROME_PATH = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome";
+// Chrome de macOS por default (como se corre a mano). En CI, donde no existe
+// esa ruta, el workflow exporta CHROME_PATH apuntando al Chromium que ya trae
+// puppeteer, que es dependencia del repo. Ver .github/workflows/bot-social.yml.
+const CHROME_PATH =
+  process.env.CHROME_PATH || "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome";
 
 function escapeHtml(str) {
   return String(str)
