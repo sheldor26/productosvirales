@@ -27,6 +27,22 @@ quedaron con una sola opinión externa porque agy perdió la autenticación OAut
 Codex encontró 32 errores factuales en total (7, 7, 9, 7 y 8), casi todos del mismo patrón: afirmar
 algo sobre el grupo cuando parte del grupo no publica ese campo.
 
+**Reindexación pedida en GSC: 2026-08-16.** Se enviaron a inspección manual las cinco URLs de guía,
+después del deploy del commit `cca15a1`. **No se pidieron las 27 fichas de producto**: se dejan al
+sitemap, siguiendo la regla de priorizar guías en las peticiones manuales.
+
+| Guía | URL enviada a GSC |
+| :-- | :-- |
+| salamandra-a-lena | `/guias/climatizacion/salamandra-a-lena` |
+| freezer-vertical | `/guias/cocina/freezer-vertical` |
+| cocina-a-gas | `/guias/cocina/cocina-a-gas` |
+| colchon-2-plazas | `/guias/hogar-jardin/colchon-2-plazas` |
+| colchon-1-plaza | `/guias/hogar-jardin/colchon-1-plaza` |
+
+**Auditoría completa:** las cinco cerraron con GO de Codex Y de agy. agy confirmó que no hay
+canibalización entre `colchon-2-plazas` y `colchon-1-plaza` pese a compartir silo, categoría y temas,
+ni entre las dos de cocina y las guías de microondas y horno eléctrico que ya estaban en ese silo.
+
 **Qué medir:** al ser cinco URLs nuevas de golpe en un sitio DA 1, vale la pena mirar en 4-6 semanas
 si Google las indexó a todas o si priorizó unas sobre otras. Es el experimento natural que quedó
 armado por publicarlas juntas en vez de escalonadas.
