@@ -3,102 +3,102 @@
 > Snapshot del proyecto. Se actualiza al final de cada sesión.
 > Última actualización: 2026-08-16 (guía `salamandra-a-lena` nueva en STAGED, primer pilar de calefacción a leña dentro del silo `climatizacion` existente — ver sesión inmediatamente abajo). Antes: 2026-08-15, research de keywords verificado, cuatro guías del silo hogar-jardin publicadas y 23 links internos rotos reparados.
 
-## Sesión 2026-08-16 (parte 2) — Freezer vertical, y dos rubros descartados por calendario
+## Sesión 2026-08-16 — Cinco guías publicadas, dos rubros descartados por calendario, y 32 errores propios
 
-**Guía `freezer-vertical` en STAGED** (`publishedDate: 2026-10-05`), pilar del silo `cocina`, con
-categoría nueva `freezers` y **6 fichas** verificadas en vivo. Keyword de **22.200/mes con dificultad
-11 y curva plana todo el año** (18.100 a 27.100): sin presión de calendario, que fue justamente el
-problema de los otros dos rubros del día.
+El día más productivo del sitio hasta ahora, y también el que dejó el diagnóstico más incómodo.
 
-Hallazgos que sostienen la guía, todos verificados:
+### Lo que quedó en vivo
 
-1. **Un 5,0 de calificación calculado sobre UNA sola opinión.** Es el equipo más barato de los seis.
-   Al lado, otro de la misma capacidad de 65 litros tiene 1.002 opiniones y cuesta 35% más. La
-   elección no es barato contra caro, es **precio contra evidencia**, y ML muestra las dos
-   calificaciones con las mismas estrellas.
-2. **El título promete 13 litros que la ficha no tiene.** El Siam FSI-CV180B se publica como
-   "166 Lts" y su propia ficha declara 153 L. Un comprador llegó al mismo lugar sin mirar la ficha:
-   *"las paredes del freezer son gruesas y te roba espacio en el interior"*.
-3. **El precio por litro va de $5.312 a $11.880**, más del doble, y ninguna publicación hace esa cuenta.
-4. **Por dónde tira el calor no está en ninguna ficha.** Solo aparece en una reseña: *"el calor lo
-   emite por los costados, no por atrás"*, que es el dato que decide si podés encajonarlo.
-5. **De los 20 freezers más vendidos, solo 5 son verticales.** El vertical se elige por metro cuadrado
-   de piso, no por capacidad ni por precio por litro, donde el horizontal gana.
+Cinco guías nuevas, **publicadas el mismo día** por decisión de Juan en vez de escalonadas, con
+**27 fichas** y tres categorías nuevas (`freezers`, `cocinas`, `colchones`).
 
-**Auditoría: GO de Codex tras TRES pasadas, sin agy.** La sesión de `agy` perdió la autenticación
-OAuth a mitad de la jornada y pide login interactivo, así que esta guía **no pasó el trío completo**.
-Codex encontró siete errores factuales míos en las dos primeras pasadas, todos del mismo tipo que la
-guía anterior: exclusividades falsas y generalizaciones. Los peores: dije que el Vondom era el único
-con altura para bajo mesada cuando el Siam de 65 es más bajo (85 contra 85,5 cm), y escribí el 35% en
-la dirección equivocada (es 35% más caro el Philco, no 35% más barato el Siam, que sería 26%).
+| Guía | Silo | Keyword | Volumen | SD | Productos | Commit |
+| :-- | :-- | :-- | --: | --: | --: | :-- |
+| `salamandra-a-lena` | climatizacion | salamandra a leña | 12.100 | 11 | 6 | `b941056` |
+| `freezer-vertical` | cocina | freezer vertical | 22.200 | 11 | 6 | `2bdc417` |
+| `cocina-a-gas` | cocina | cocina a gas | 22.200 | 12 | 6 | `06377f6` |
+| `colchon-2-plazas` | hogar-jardin | colchón 2 plazas | 27.100 | **9** | 4 | `fae949f` |
+| `colchon-1-plaza` | hogar-jardin | colchón 1 plaza | 22.200 | 10 | 5 | `63272bf` |
 
-## Dos rubros que NO se hicieron, y por qué
+Publicación en `ccc2c07`, mejoras de agy en `cca15a1`, reindexación registrada en `2adf2f8`.
 
-**Pileta de lona pospuesta a octubre.** Keyword excelente: SD 10 y pico de **90.500 en diciembre**
-contra 2.400 en agosto. Pero al ir a sourcear, la categoría Piletas Estructurales de ML tenía **6
-publicaciones, 4 marcadas como última unidad**, y la categoría padre tenía 4. Los dos mejores
-candidatos: **+5 y 3 unidades disponibles**. Fuera de temporada no hay góndola. El research y el
-ángulo diferenciador contra `pileta-pelopincho` (guía multi-marca contra guía de modelo) ya están
-hechos, así que esa sesión arranca a mitad de camino.
+**Las cinco cerraron con GO de Codex y de agy.** agy además descartó canibalización entre las dos de
+colchones, que comparten silo y categoría, y entre las dos de cocina contra microondas y horno
+eléctrico que ya estaban en ese silo.
 
-**Calefacción frenada.** Juan cortó la idea de seguir con calefactor tiro balanceado y estufa a
-pellet: estamos a cuatro semanas de que termine el invierno. La guía de salamandra ya estaba escrita
-y se publica igual, pero como depósito para junio 2027, no esperando tráfico ahora.
+### Los hallazgos que sostienen las guías
 
-**La regla que salió de las dos cosas juntas** quedó en memoria: son **dos calendarios, no uno**.
-La ventana de publicación va 2-3 meses antes del pico; la de sourcing va cuando ML tiene stock, que
-es *después*. Antes de prometer una guía hay que chequear el conteo de publicaciones de la categoría.
+Todos leídos de la ficha técnica de MercadoLibre, no deducidos:
 
-## Sesión 2026-08-16 — Salamandra a leña, primer pilar de calefacción
+- **La cocina más vendida del rubro no funciona con garrafa.** La Escorial Candor S2, con +10mil
+  unidades, declara `Es convertible a GLP: No`. No es un matiz: es si el aparato anda en tu casa.
+- **Tres de cuatro colchones de dos plazas declaran soportar 100 a 120 kg**, en camas donde duermen
+  dos personas. El cuarto declara 300 y es el más barato.
+- **"2 plazas" y "1 plaza" no son medidas.** Dos plazas son 140x190 o 140x200; una plaza y media son
+  90x190, 100x190 o 100x200. Un comprador tuvo que salir a comprar sábanas.
+- **El freezer más barato muestra 5,0 estrellas calculadas sobre una sola opinión**, al lado de otro
+  de la misma capacidad con 1.002.
+- **ML no tiene campo para el tipo de combustión** en calefactores, y los dos Lepen lo metieron en
+  "Posiciones de refracción" con dos porcentajes distintos y sin fuente.
+- **La air fryer adentro del horno cuesta $688.119**, un 92% más que la misma Drean sin esa función.
 
-**Guía `salamandra-a-lena` en STAGED** (`publishedDate: 2026-10-05`), pilar, dentro del silo
-`climatizacion` que ya existía. No se creó un silo nuevo: la guía nace con enlazado interno hacia las
-guías de estufa eléctrica, caloventor y aire acondicionado portátil, y con links entrantes desde el hub.
-Categoría nueva `salamandras-a-lena` en `guideCategories`.
+### Dos rubros que NO se hicieron, y por qué
 
-Keyword **salamandra a leña**: 12.100/mes ahora, **pico de 49.500 en junio**, dificultad **11**, la más
-baja de todo el barrido de alto ticket. SERP sin comparadores editoriales: los dos primeros son
-`puntoparrilla.com` y `misparrillas.com.ar`, ambos con DA 17.
+**Calefacción frenada por Juan.** Yo venía a hacer tres guías más de calefacción a cuatro semanas del
+fin del invierno. Su pregunta ("¿si se está pasando el invierno ya?") cortó eso. Salamandra ya estaba
+escrita y se publicó igual, pero como depósito para junio 2027: picó en junio con 49.500 y hoy está
+en 12.100.
 
-**6 fichas nuevas**, de $287.500 a $908.000, con precio, stock, ficha técnica campo por campo, reseñas
-e imágenes verificados en vivo el mismo día: Tromen Eco 7000 (`MLA37825191`), Qutral Andes 13000
-(`MLA34121091`, el más reseñado con 1.153 y el mejor $/caloría), Lepen Moquehue Vintage 9000
-(`MLAU162285980`), Qutral Andes + kit de pared (`MLAU3410543565`), Qutral Patagónica 9000 con horno y
-grill (`MLAU3412042507`) y Lepen Moquehue 13500 con horno (`MLA35507302`). Los 6 links meli.la
-verificados uno por uno.
+**Pileta de lona pospuesta a septiembre.** Keyword excelente, SD 10 y pico de **90.500 en diciembre**,
+pero al ir a sourcear la categoría tenía **6 publicaciones y solo 3 piletas usables**, dos de ellas
+marcadas como última unidad. El esqueleto quedó escrito en `docs/esqueleto-pileta-de-lona.md`: SERP,
+canibalización resuelta, estructura y checklist. Esa sesión arranca sin research.
 
-**Por qué este rubro y no jacuzzi.** El barrido de productos de más de $1M mostró que arriba de ese
-precio los productos de ML no tienen compradores: tres jacuzzis de $1,2M a $3M sumaban **4 opiniones y
-6 ventas**. Los dos primeros de esta guía suman **2.145 opiniones**. El tramo de $280k a $900k tiene
-ticket alto y evidencia real para escribir contras honestas.
+### La regla que salió de las dos cosas juntas
 
-**Los cinco hallazgos que sostienen la guía**, todos verificados en las fichas:
+**Son dos calendarios, no uno.** La ventana de publicación va 2-3 meses antes del pico; la de
+sourcing va cuando ML tiene stock, que es **después**. Con calefacción había stock y el pico pasado;
+con pileta el pico por venir y la góndola vacía. Quedó en memoria como
+[[ventana-sourcing-vs-ventana-publicacion]], y desde ahora **se chequea el conteo de publicaciones de
+la categoría antes de prometer una guía**.
 
-1. **MercadoLibre no tiene campo para el tipo de combustión**, que es el dato que más define el consumo
-   de leña. El Qutral lo grita en el título; el Tromen, que es el segundo más reseñado, no lo menciona
-   en ningún lado; y las dos publicaciones de Lepen lo escribieron dentro del campo "Posiciones de
-   refracción", que no es para eso, con dos porcentajes distintos y sin fuente (60% y 80%).
-2. **El precio publicado no es el precio de instalarla.** El mismo Andes 13000 cuesta $446.033 solo y
-   $657.040 con kit de pared: **$211.007 por la salida de humos**, casi la mitad del equipo.
-3. **El diámetro de salida define de quién comprás los caños**, y está en la ficha en centímetros: el
-   Tromen usa 4 pulgadas, los Qutral 6 y el Lepen 13500, 5. El Vintage 9000 no publica el dato, y una
-   compradora avisa que los 5 pulgadas de Lepen no son la medida estándar del mercado.
-4. **Solo las dos publicaciones de Lepen declaran cenicero removible**, y hay un comprador de Qutral
-   quejándose exactamente de eso.
-5. **El campo de superficie está cargado de formas incompatibles**: el Tromen repite 60 como mínimo y
-   máximo, las tres de Qutral arrancan en 0 m², y solo las dos de Lepen declaran un piso real.
+### El diagnóstico incómodo
 
-**Trío auditor: GO.** Gemini dio GO en la primera pasada. Codex dio **NO-GO tres veces** y encontró
-siete errores factuales que ni Gemini ni un chequeo numérico propio de 17 claims detectaron, todos del
-mismo tipo: generalizar del caso particular al rubro entero. Está documentado en
-[MISTAKES.md](MISTAKES.md) porque cambia cómo hay que barrer una guía antes de darla por cerrada.
+**Codex encontró 32 errores factuales míos** en las cinco guías: 7, 7, 9, 7 y 8. Necesitó entre dos y
+cuatro pasadas por guía. Mis chequeos mecánicos propios dieron verde las cinco veces y **no atraparon
+prácticamente ninguno**.
 
-**Descartados por stock**: Teybo 9500 (no disponible), Tromen Pehuen 18000 y Lepen Moquehue 8000 (última
-unidad). El del Pehuen duele porque era la única opción de 18.000 kcal/h: arriba de 13.500 la oferta con
-stock real se achica, y la guía lo dice.
+Casi todos son la misma familia: **afirmar algo sobre el grupo cuando parte del grupo no publica ese
+campo**. Decir "sin luz en el horno" cuando la ficha no dice nada no es lo mismo que decir que no la
+tiene. En la última guía, siete de ocho errores fueron exactamente eso.
 
-**Pendiente de esta guía**: las specs salen de la ficha de MercadoLibre verificada en vivo, no del
-fabricante. Falta cruzarlas contra `tromen.com` y contra Qutral, que se declara fábrica en su descripción.
+Los dos peores del día, por lo evitables:
+- Escribí "4 colchones de 2 plazas" cuando uno es Queen, y lo repetí en metaDescription,
+  ogDescription, intro y standfirst. Es justo el error que esa guía denuncia.
+- Afirmé que 16.843 opiniones eran "el número más alto del sitio". Codex fue a buscar y encontró una
+  ficha con **208.866**.
+
+**Un script puede validar qué producto gana un superlativo, pero no si la frase aplica a quien digo
+que aplica.** Por eso el trío no es opcional acá. Anotado en `MISTAKES.md` con las reglas de barrido.
+
+### Gotchas técnicos nuevos
+
+- **El precio se lee con `meta[itemprop="price"]`, nunca con regex sobre el texto.** El atajo falló
+  tres veces: dio $1.906.932 por un colchón de $441.896, el precio de un producto de otro carrusel, y
+  $1.749.999 por una cocina de $1.440.118. Quedó en memoria.
+- **Los `reviewCount` del JSON embebido tampoco sirven**: dieron 4.912 donde la página mostraba 8.942.
+- **El listado de categoría renderiza; el buscador no.** Y algunas categorías no tienen
+  `/mas-vendidos/` propia.
+- **Sesiones en paralelo sobre master, otra vez.** Hubo que stagear por ruta explícita en cada commit
+  para no llevarse el trabajo de la sesión de social. El `./scripts/nueva-sesion.sh` existe para esto.
+
+### Pendiente
+
+- Medir en 4-6 semanas si Google indexó las cinco o priorizó algunas. Publicarlas juntas armó un
+  experimento natural que no teníamos.
+- `pileta-de-lona` a fines de septiembre, con el esqueleto ya escrito.
+- Specs sin cruzar contra fabricante en las cinco guías: todo sale de la ficha de ML verificada en
+  vivo.
 
 ## Sesión 2026-08-15 — Keywords verificadas, silo hogar-jardin crece, y 23 links internos que iban a ninguna parte
 
