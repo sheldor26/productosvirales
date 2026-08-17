@@ -1336,3 +1336,50 @@ internos de las guías.
 
 Re-medir: ~2026-09-12 solo para confirmar que indexaron, y ~2026-10-20 para el primer dato de posición de las
 tres evergreen. La conservadora, recién en noviembre.
+
+---
+
+## 2026-08-17 — Links de afiliado en tablas comparativas (silo perfumes) + enlazado interno
+
+**La hipótesis que se está testeando.** El 2026-08-10 se le puso el link `meli.la` al nombre de cada perfume en
+la primera columna de la "Tabla de equivalencias" de `perfumes-arabes-dupes`. Esa guía pasó de **0 a 10 clicks
+de afiliado**, y 6 de esos 10 cayeron en los últimos 7 días. Esta tanda replica exactamente ese cambio en las
+otras tres guías de perfumes que tenían la tabla en texto plano.
+
+**Baseline al 2026-08-17** (28 días, snapshot GSC #40, del 2026-07-19 al 2026-08-15):
+
+| Guía | Vistas | Clicks de afiliado | Conversión |
+| :-- | --: | --: | --: |
+| `mejores-perfumes-arabes-hombre` | 252 | 24 | 9,5% |
+| `perfumes-arabes-mujer` | 299 | 23 | 7,7% |
+| `perfumes-arabes-amaderados` | 67 | 1 | 1,5% |
+| **referencia** `cafetera-express` | 261 | 72 | **27,6%** |
+
+Los 15 links se mapearon uno por uno contra el `product-card` que la propia guía reseña, no por nombre. Eso
+evitó tres errores reales: "Afnan 9PM" en la guía de hombre apunta a `MLA47054851`, que no es la ficha de 9PM
+que usa la guía de dupes; y "Lattafa Khamrah" en la de mujer es la Khamrah **Parfum** (`MLA53013853`), no la EDP
+ni la Qahwa. Los 15 productos estaban `fresh` al momento del cambio.
+
+**Enlazado interno de la misma tanda** (todos contextuales, en prosa o FAQ, no en el pie):
+
+- `camara-de-seguridad` → `camara-de-seguridad-exterior`, ancla "cámaras de seguridad exterior" (2 links).
+- `balanza-digital` → `tensiometro-digital`, y `mejores-masajeadores-argentina` → `tensiometro-digital`.
+- `cafetera-automatica` → `cafetera-nespresso`. **`cafetera-de-filtro` no hacía falta: ya tenía 3 links.**
+- `ventilador-de-pie` ↔ `aire-acondicionado-portatil`, que no se enlazaban en ninguna dirección.
+- `mejores-perfumes-arabes-hombre` → `perfumes-arabes-mas-vendidos-argentina`, ancla "los perfumes árabes más
+  vendidos", para cerrar la canibalización de "mejores perfumes arabes" (162 impresiones repartidas) a favor de
+  la genérica sin género.
+
+**Lo que NO se tocó, a propósito.** El reporte proponía reescribir el `seoTitle` de `ventilador-de-techo` porque
+"ventilador de techo" a secas está en posición 11,4. No se hizo: la query que mejor rankea de esa guía es "cual
+es el mejor ventilador de techo en argentina" en **posición 4,5**, o sea dentro del freeze de top 5, y el título
+actual ya dice "Cuál Comprar en Argentina". Cambiarlo arriesga lo único que funciona para ganar un término
+cabecero mucho más difícil.
+
+**Ningún título, H1 ni slug se modificó en esta tanda**, así que no arranca ninguna ventana de maduración nueva.
+Son links: se pueden medir sin esperar los 28 días de un cambio de título.
+
+Re-medir: **~2026-09-14**, comparando clicks de afiliado por guía contra el baseline de la tabla de arriba. El
+éxito no es CTR de búsqueda sino conversión a afiliado. Y ojo con el dato viejo: hasta hoy `ga4.py affiliates`
+mostraba solo 30 filas y sumaba un total de 728 cuando el real era 1.018 en 180 páginas. El límite se subió a
+200, así que la próxima medición no es comparable contra totales de reportes anteriores a esta fecha.

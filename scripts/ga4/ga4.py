@@ -101,7 +101,11 @@ def cmd_affiliates(creds):
         "metrics": [{"name": "eventCount"}],
         "dimensionFilter": {"filter": {"fieldName": "eventName", "stringFilter": {"value": "affiliate_click"}}},
         "orderBys": [{"metric": {"metricName": "eventCount"}, "desc": True}],
-        "limit": 30,
+        # 200 y no 30: con 30 el total impreso abajo era el total de las 30 filas
+        # mostradas, no el real. El 2026-08-17 eso escondia 290 de 1.018 clicks
+        # repartidos en 180 paginas, y guias enteras (torre-de-sonido, balanza
+        # digital, humidificador) nunca aparecian al decidir cual refrescar.
+        "limit": 200,
     })
     rows = rows_of(resp)
     if not rows:

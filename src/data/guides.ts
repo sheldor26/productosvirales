@@ -3535,6 +3535,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "h2", title: `Cómo elegir tu aire acondicionado portátil`, id: "como-elegir" },
       { type: "h3", title: `1. Las frigorías, según tu ambiente` },
       { type: "p", content: `Los modelos de esta guía van de 2.279 a 3.010 frigorías, pensados para una habitación o un living chico a mediano. Una regla práctica: calculá unas 100 frigorías por metro cuadrado de tu ambiente. Para un espacio grande, un solo portátil suele quedar corto: en ese caso, conviene un split fijo. Medí el tamaño real de tu ambiente antes de comprar, no te guíes solo por el precio.` },
+      { type: "p", content: `Y si al hacer la cuenta ves que el gasto no se justifica para los pocos días de calor fuerte que tenés, el escalón de abajo es mover aire en vez de enfriarlo: un [ventilador de pie](/guias/climatizacion/ventilador-de-pie) sale una fracción y consume mucho menos, aunque baja la sensación térmica sin bajar la temperatura del ambiente.` },
       { type: "h3", title: `2. Frío/calor o solo frío` },
       { type: "p", content: `Los cinco modelos de esta guía son frío/calor, así que sirven todo el año: enfrían en verano y calientan en invierno con el mismo equipo. Un solo-frío suele salir más barato, pero en invierno queda guardado sin uso. Si tu presupuesto da, frío/calor es la mejor relación de uso anual.` },
       { type: "h3", title: `3. Ruido, instalación y Wi-Fi` },
@@ -3657,6 +3658,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "p", content: `La mayoría de esta guía llega a 150-180 kg; si necesitás más, la [Utile UT-1108](/producto/balanza-de-bano-personal-inteligente-bluetooth-200-kg-utile-azul-mla65535495) llega a 200 kg. Y si te cansa comprar pilas, la [Noga NG-B01](/producto/balanza-digital-smart-fitness-med-corp-app-recargable-noga-blanco-mla60038492) se recarga por USB, la única de esta guía con esa opción.` },
       { type: "h3", title: `3. El IMC no es una sentencia` },
       { type: "p", content: `Cada marca calcula el IMC con su propia tabla de referencia. Si una app te clasifica distinto de lo que esperabas, no te alarmes de entrada: es una guía general, no un diagnóstico médico. Ante cualquier duda de salud real, consultá a un profesional.` },
+      { type: "p", content: `Si estás armando el control de salud en casa, el otro aparato que suele acompañar a la balanza es el [tensiómetro digital](/guias/salud-bienestar/tensiometro-digital): ahí comparamos los de brazo contra los de muñeca y cuáles están validados clínicamente.` },
 
       { type: "h2", title: `Cuánto cuesta una balanza digital en Argentina [julio 2026]`, id: "precios" },
       { type: "list", items: [
@@ -3774,6 +3776,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "h2", title: `Cómo elegir tu cámara de seguridad`, id: "como-elegir" },
       { type: "h3", title: `1. ¿Interior o exterior?` },
       { type: "p", content: `Es la primera decisión y la que no admite error: una cámara de interior a la intemperie se arruina. Para afuera, exigí **IP66 confirmado en la ficha técnica** (Gadnic SX39, Geotek doble lente, kit Geotek). Para adentro, las de interior dan más calidad por el mismo precio (Tapo C210, Ezviz H1C, TY1).` },
+      { type: "p", content: `Si ya sabés que la vas a poner afuera, tenemos una comparativa dedicada a [cámaras de seguridad exterior](/guias/seguridad/camara-de-seguridad-exterior), con los grados de resistencia al agua y qué aguanta de verdad el sol y la lluvia.` },
       { type: "h3", title: `2. ¿Fija o motorizada?` },
       { type: "p", content: `La fija cuesta menos y sirve si tenés claro qué punto vigilar (una puerta, un pasillo). La motorizada gira desde la app y las mejores siguen solas a la persona: cubre un ambiente entero con una sola cámara. Y si las falsas alarmas te van a volver loco, buscá **detección de figura humana** como la de la TY1, no simple detección de movimiento.` },
       { type: "h3", title: `3. La memoria: el gasto que no está en el precio` },
@@ -3799,7 +3802,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { question: `¿Cuál es la mejor cámara de seguridad en Argentina?`, answer: `La más elegida en Argentina es una cámara motorizada con seguimiento y sin abono mensual: por ventas, ese lugar lo ocupa la [Gadnic SX39](https://meli.la/2Kod5MG) (apta exterior IP66, más de 21.000 calificaciones). Por calificación, la [TP-Link Tapo C210](https://meli.la/2XP2zp1) (4.9, 2K real) para interior. Para exterior exigente, la [Geotek doble lente](https://meli.la/1GQsniy).` },
       { question: `¿Las cámaras de seguridad Wi-Fi necesitan abono mensual?`, answer: `Las de esta guía, no: graban en una memoria micro-SD local y se ven desde la app gratis. Es la gran diferencia con los servicios de alarma con monitoreo, que cobran mensualidad.` },
       { question: `¿Las cámaras vienen con memoria para grabar?`, answer: `No, ninguna. Sin una micro-SD comprada aparte, la cámara muestra en vivo pero no graba. Presupuestá una tarjeta clase 10 por cámara; con 64 GB tenés unos 4 días de grabación continua en Full HD, según una reseña de la Tapo C210.` },
-      { question: `¿Qué cámara sirve para exterior?`, answer: `Las que tienen IP66 confirmado en la ficha: la [Gadnic SX39](https://meli.la/2Kod5MG), la [Geotek doble lente](https://meli.la/1GQsniy) y el [kit de 3 Geotek](https://meli.la/1Ctzici). Las de interior (Tapo C210, Ezviz H1C y TY1) no resisten la intemperie.` },
+      { question: `¿Qué cámara sirve para exterior?`, answer: `Las que tienen IP66 confirmado en la ficha: la [Gadnic SX39](https://meli.la/2Kod5MG), la [Geotek doble lente](https://meli.la/1GQsniy) y el [kit de 3 Geotek](https://meli.la/1Ctzici). Las de interior (Tapo C210, Ezviz H1C y TY1) no resisten la intemperie. El detalle modelo por modelo está en nuestra guía de [cámaras de seguridad exterior](/guias/seguridad/camara-de-seguridad-exterior).` },
       { question: `¿Funcionan sin internet?`, answer: `Necesitan Wi-Fi para configurarse, avisarte al celular y mostrarte la imagen a distancia. Sin internet, las que tienen micro-SD suelen seguir grabando localmente, pero perdés las alertas y la vista en vivo desde afuera de tu casa.` },
       { question: `¿Qué significa que una cámara sea motorizada?`, answer: `Que gira desde la app (y las mejores siguen solas a la persona en movimiento), cubriendo un ambiente entero. Las fijas, como la [Ezviz H1C](https://meli.la/1fGvF6y), apuntan a un solo lugar pero cuestan menos.` },
       { question: `¿Cómo evito las falsas alarmas por mascotas?`, answer: `Buscá detección de figura humana en vez de detección de movimiento simple: la [Ezviz TY1](https://meli.la/11ACYPJ) la tiene. En kits con detección de movimiento común, los compradores con perros y gatos reportan alertas frecuentes disparadas por sus mascotas.` },
@@ -5727,7 +5730,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       {
         question: "¿Sirven los masajeadores para el dolor crónico?",
         answer:
-          "Pueden ayudar a aliviar temporalmente, pero no reemplazan tratamiento médico. Si tenés dolor que no se va hace semanas, andá a un traumatólogo o kinesiólogo. El masajeador puede ser un complemento, no la solución.",
+          "Pueden ayudar a aliviar temporalmente, pero no reemplazan tratamiento médico. Si tenés dolor que no se va hace semanas, andá a un traumatólogo o kinesiólogo. El masajeador puede ser un complemento, no la solución. Y si lo que estás armando es el control de salud en casa, aparte comparamos los [tensiómetros digitales](/guias/salud-bienestar/tensiometro-digital) que se consiguen en Argentina.",
       },
       {
         question: "¿Se pueden usar todos los días?",
@@ -12855,7 +12858,8 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     ],
     intro: [
       "Hace dos años, comprar un Creed Aventus en Argentina costaba 8 sueldos mínimos. Hoy sigue costando eso. La diferencia es que ahora hay fragancias árabes que logran un perfil olfativo muy parecido a un décimo del precio, y el mercado masculino argentino lo notó. Lattafa, Afnan, Rasasi y Armaf se volvieron nombres conocidos en un nicho que hace poco era desconocido fuera de Medio Oriente.",
-      "Este ranking no está armado con los \"más caros\" ni con los \"más raros\". Son los que funcionan: ventas reales en Argentina, valoración consistente de usuarios, y experiencia directa con cada uno."
+      "Este ranking no está armado con los \"más caros\" ni con los \"más raros\". Son los que funcionan: ventas reales en Argentina, valoración consistente de usuarios, y experiencia directa con cada uno.",
+      "Acá van solo los masculinos. Si querés el panorama completo del país sin separar por género, con femeninos y unisex incluidos, la lista es [los perfumes árabes más vendidos](/guias/perfumes-arabes-mas-vendidos-argentina) en Argentina."
     ],
     sections: [
       {
@@ -12898,12 +12902,16 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
         title: "Comparativa rápida: los 5 mejores para hombre"
       },
       { type: "table", headers: ["Perfume", "Perfil olfativo", "Mejor para", "Precio relativo"], rows: [
-        ["Lattafa Asad Intense", "Amaderado especiado", "Uno de los más probados (7.245 reseñas), todo terreno", "Medio"],
-        ["Afnan 9PM", "Dulce ambarino", "Salida de noche", "Bajo-medio"],
-        ["Rasasi Hawas Ice", "Fresco acuático", "Verano y oficina", "Medio-alto"],
-        ["Armaf Club de Nuit Intense Man", "Frutal ahumado (dupe de Aventus)", "Versátil, máxima relación precio-calidad", "Bajo"],
-        ["Bharara King", "Dulce frutal con proyección fuerte", "Quien quiere que lo huelan de lejos", "Medio"],
+        ["[Lattafa Asad Intense](https://meli.la/26owfqo)", "Amaderado especiado", "Uno de los más probados (7.245 reseñas), todo terreno", "Medio"],
+        ["[Afnan 9PM](https://meli.la/2Njx2cC)", "Dulce ambarino", "Salida de noche", "Bajo-medio"],
+        ["[Rasasi Hawas Ice](https://meli.la/24kQeRc)", "Fresco acuático", "Verano y oficina", "Medio-alto"],
+        ["[Armaf Club de Nuit Intense Man](https://meli.la/1BzsFJE)", "Frutal ahumado (dupe de Aventus)", "Versátil, máxima relación precio-calidad", "Bajo"],
+        ["[Bharara King](https://meli.la/2DTqjeW)", "Dulce frutal con proyección fuerte", "Quien quiere que lo huelan de lejos", "Medio"],
       ]},
+      {
+        type: "p",
+        content: "El nombre de cada perfume lleva directo a su publicación en MercadoLibre, así no hace falta bajar hasta la ficha completa. Abajo está el detalle de cada uno: a qué huele, cuánto dura y para quién no es."
+      },
       {
         type: "h2",
         title: "El ranking"
@@ -13799,12 +13807,16 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
         title: "Comparativa rápida: los amaderados más recomendados"
       },
       { type: "table", headers: ["Perfume", "Notas principales", "Mejor para", "Precio relativo"], rows: [
-        ["Lattafa Asad Bourbon", "Bourbon, tabaco, maderas nobles", "Versátil, día y noche", "Medio"],
-        ["Lattafa Maahir Legacy", "Oud real, ámbar gris", "Premium, noche e invierno", "Alto"],
-        ["Lattafa Qaed Al Fursan", "Cuero, sándalo, especias", "Oficina, ámbito formal", "Bajo-medio"],
-        ["Maison Alhambra Sceptre Malachite", "Mandarina verde, pimienta rosa, ámbar y vetiver", "Oficina y salida", "Bajo"],
-        ["Rasasi Hawas Black", "Oud, pachulí, ámbar", "Noche e invierno", "Medio-alto"],
+        ["[Lattafa Asad Bourbon](https://meli.la/1qWMdCK)", "Bourbon, tabaco, maderas nobles", "Versátil, día y noche", "Medio"],
+        ["[Lattafa Maahir Legacy](https://meli.la/25mgKqX)", "Oud real, ámbar gris", "Premium, noche e invierno", "Alto"],
+        ["[Lattafa Qaed Al Fursan](https://meli.la/2TnKuGC)", "Cuero, sándalo, especias", "Oficina, ámbito formal", "Bajo-medio"],
+        ["[Maison Alhambra Sceptre Malachite](https://meli.la/2x5L5Ei)", "Mandarina verde, pimienta rosa, ámbar y vetiver", "Oficina y salida", "Bajo"],
+        ["[Rasasi Hawas Black](https://meli.la/2T9ofP2)", "Oud, pachulí, ámbar", "Noche e invierno", "Medio-alto"],
       ]},
+      {
+        type: "p",
+        content: "El nombre de cada perfume lleva directo a su publicación en MercadoLibre, así no hace falta bajar hasta la ficha completa. Abajo está el detalle de cada uno: a qué huele, cuánto dura y para quién no es."
+      },
       {
         type: "h2",
         title: "Cuál elegir según el contexto"
@@ -13921,12 +13933,16 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
         title: "Comparativa rápida: las 5 más recomendadas"
       },
       { type: "table", headers: ["Perfume", "Perfil olfativo", "Mejor para", "Precio relativo"], rows: [
-        ["Lattafa Yara Elixir", "Dulce con cítricos", "La más completa, todo el año", "Medio-alto"],
-        ["Lattafa Yara Tous", "Tropical frutal (mango, coco, vainilla)", "Verano y uso de día", "Medio"],
-        ["Her Confession", "Floral gourmand (canela, jazmín, vainilla)", "Noche y ocasión especial", "Alto"],
-        ["Lattafa Khamrah", "Especiado dulce (canela, dátil)", "Otoño-invierno, principiantes", "Medio"],
-        ["Sabah Al Ward", "Floral accesible", "Empezar con poco presupuesto", "Bajo"],
+        ["[Lattafa Yara Elixir](https://meli.la/2NrY6fF)", "Dulce con cítricos", "La más completa, todo el año", "Medio-alto"],
+        ["[Lattafa Yara Tous](https://meli.la/1kwTmSn)", "Tropical frutal (mango, coco, vainilla)", "Verano y uso de día", "Medio"],
+        ["[Her Confession](https://meli.la/1EBDqh9)", "Floral gourmand (canela, jazmín, vainilla)", "Noche y ocasión especial", "Alto"],
+        ["[Lattafa Khamrah](https://meli.la/139RJXC)", "Especiado dulce (canela, dátil)", "Otoño-invierno, principiantes", "Medio"],
+        ["[Sabah Al Ward](https://meli.la/2AcVasU)", "Floral accesible", "Empezar con poco presupuesto", "Bajo"],
       ]},
+      {
+        type: "p",
+        content: "El nombre de cada perfume lleva directo a su publicación en MercadoLibre, así no hace falta bajar hasta la ficha completa. Abajo está el detalle de cada uno: a qué huele, cuánto dura y para quién no es."
+      },
       {
         type: "h2",
         title: "¿Por qué elegir árabe en vez de occidental?"
@@ -18728,7 +18744,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
 
       { type: "h2", title: `Qué es una cafetera automática (y qué no)`, id: "que-es" },
       { type: "p", content: `Una cafetera automática es, en esencia, una express que suma un **molinillo integrado** y algún grado de automatización del proceso. El molinillo es la clave: muele el grano justo antes de extraer, lo que conserva los aromas que se pierden en el café ya molido. A partir de ahí, hay dos niveles. La **semiautomática con molinillo** muele y arranca la extracción, pero vos controlás cuándo cortar. La **totalmente automática** (del grano a la taza) muele, dosifica, extrae y corta sola: apretás un botón y listo.`, },
-      { type: "p", content: `Lo que una automática no es: una cafetera de cápsulas. Las de cápsulas también son cómodas, pero usan café preenvasado en cápsula, no grano fresco, y el costo por taza es más alto. Si lo tuyo es la comodidad total sin grano, mirá la [guía de cafeteras de cápsulas](/guias/cafetera-de-capsulas). La automática es para quien quiere café recién molido con poco esfuerzo.` },
+      { type: "p", content: `Lo que una automática no es: una cafetera de cápsulas. Las de cápsulas también son cómodas, pero usan café preenvasado en cápsula, no grano fresco, y el costo por taza es más alto. Si lo tuyo es la comodidad total sin grano, mirá la [guía de cafeteras de cápsulas](/guias/cafetera-de-capsulas), y si el sistema que tenías en mente es Nespresso puntualmente, están comparadas en la [guía de cafeteras Nespresso](/guias/cafetera-nespresso). La automática es para quien quiere café recién molido con poco esfuerzo.` },
       { type: "callout", calloutVariant: "tip", calloutTitle: "Semiautomática o totalmente automática, en una línea", content: `Si te divierte el ritual y querés controlar el café, una semiautomática con molinillo te sobra y gastás menos. Si querés apretar un botón y olvidarte, la totalmente automática lo hace todo, pero se paga. Las dos muelen grano fresco: esa es la ventaja que las separa de una express común.` },
 
       { type: "h2", title: `Las mejores cafeteras automáticas 2026`, id: "ranking" },
@@ -21755,6 +21771,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { question: `¿Cuál es el mejor ventilador de pie en Argentina?`, answer: `Para la mayoría, el [Peabody PE-VP1860N](/producto/ventilador-de-pie-peabody-pe-vp1860n-18-60w-3-paletas-estructura-negro-diametro-mla41606856): 4.8 estrellas, altura ajustable y 59 dB declarados. Si buscás el más vendido y más barato, el [Winco W118](/producto/ventilador-winco-3-en-1-de-mesa-de-pared-de-pie-w118-45-72-cm-50-hz-gris-celeste-mla19884110).` },
       { question: `¿Cuánto consume un ventilador de pie?`, answer: `Entre 60 y 110 W según el modelo de esta guía: una fracción de lo que consume un aire acondicionado. Es de las formas más baratas de refrescar un ambiente.` },
       { question: `¿Qué diferencia hay entre un ventilador de pie y uno de techo?`, answer: `El de pie se puede mover de habitación según haga falta y suele ser más barato; el [de techo](/guias/climatizacion/ventilador-de-techo) queda fijo pero cubre el ambiente completo sin ocupar piso. Si buscás cobertura permanente para un cuarto, el de techo rinde mejor; si necesitás flexibilidad, el de pie gana.` },
+      { question: `¿Un ventilador de pie alcanza o conviene un aire acondicionado?`, answer: `Un ventilador mueve el aire, no lo enfría: baja la sensación térmica pero no la temperatura del ambiente. En un verano suave o de noche suele alcanzar, y consume una fracción de lo que consume un equipo de frío. Si las temperaturas de tu zona pasan holgadamente los 35 grados, ahí sí hace falta enfriar de verdad: comparamos los [aires acondicionados portátiles](/guias/climatizacion/aire-acondicionado-portatil), que no necesitan instalación fija.` },
       { question: `¿Los ventiladores de pie vienen armados?`, answer: `No, la gran mayoría de los modelos de esta guía vienen totalmente desarmados. Varias reseñas señalan que el instructivo incluido es poco claro, así que conviene reservar unos minutos extra.` },
       { question: `¿Cuál conviene si tengo pisos delicados?`, answer: `El [Kanji Home](/producto/ventilador-de-pie-kanji-home-20-con-control-remoto-y-3-velocidades-mla29273448) tiene base de fundición y una reseña reportó que puede rayar pisos sensibles sin protección. El resto de esta guía no tiene ese reclamo específico documentado.` },
       { question: `¿Vale la pena pagar más por control remoto?`, answer: `Depende del uso: si el ventilador va a quedar lejos de donde te sentás (living grande, dormitorio con la cama lejos del enchufe), sí se nota. Si siempre está cerca, el ahorro de elegir un modelo sin control remoto como el [Winco](/producto/ventilador-winco-3-en-1-de-mesa-de-pared-de-pie-w118-45-72-cm-50-hz-gris-celeste-mla19884110) tiene más sentido.` },
