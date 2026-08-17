@@ -1,5 +1,38 @@
 # Tracking de optimizaciones de guías (SEO)
 
+## 2026-08-16 — Publicación de 5 guías nuevas (tanda completa, no escalonada)
+
+Las cinco se escribieron el mismo día y se publicaron juntas por decisión de Juan, pese a que las
+fechas originales estaban escalonadas entre el 5 y el 26 de octubre para no saturar Google.
+
+| Guía | Silo | Keyword | Volumen | SD | Productos |
+| :-- | :-- | :-- | --: | --: | --: |
+| `salamandra-a-lena` | climatizacion | salamandra a leña | 12.100 | 11 | 6 |
+| `freezer-vertical` | cocina | freezer vertical | 22.200 | 11 | 6 |
+| `cocina-a-gas` | cocina | cocina a gas | 22.200 | 12 | 6 |
+| `colchon-2-plazas` | hogar-jardin | colchón 2 plazas | 27.100 | 9 | 4 |
+| `colchon-1-plaza` | hogar-jardin | colchón 1 plaza | 22.200 | 10 | 5 |
+
+**Baseline: cero.** Las cinco son URLs nuevas, sin historial en GSC. La comparación futura se hace
+contra este punto de partida, nunca contra el promedio del sitio.
+
+**Categorías nuevas creadas:** `freezers`, `cocinas`, `colchones`.
+
+**Salvedad de timing:** salamandra a leña se publicó DESPUÉS de su pico estacional (49.500 en junio
+contra 12.100 en agosto). Se publica igual como depósito para junio 2027, no esperando tráfico ahora.
+Las otras cuatro tienen curva plana todo el año.
+
+**Auditoría:** las cinco tienen GO de Codex. Solo salamandra pasó además por agy; las otras cuatro
+quedaron con una sola opinión externa porque agy perdió la autenticación OAuth a mitad de la jornada.
+Codex encontró 32 errores factuales en total (7, 7, 9, 7 y 8), casi todos del mismo patrón: afirmar
+algo sobre el grupo cuando parte del grupo no publica ese campo.
+
+**Qué medir:** al ser cinco URLs nuevas de golpe en un sitio DA 1, vale la pena mirar en 4-6 semanas
+si Google las indexó a todas o si priorizó unas sobre otras. Es el experimento natural que quedó
+armado por publicarlas juntas en vez de escalonadas.
+
+
+
 > Archivo interno de seguimiento. Registra el estado **ANTES** de optimizar cada guía (baseline en GSC) para poder medir la evolución después.
 > La skill `optimizador-guias-pv` lee este archivo antes de optimizar una guía: si la URL ya tiene baseline, lo usa para comparar; si no, la agrega.
 >
