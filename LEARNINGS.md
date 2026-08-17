@@ -16,6 +16,30 @@
 **Archivos involucrados:** `path/a/archivo.ts`
 -->
 
+## 2026-08-16 — Pasarle al auditor una tabla de verdad, no solo el diff
+
+**Qué funcionó:** en las cinco guías del día, el prompt de Codex arrancó con una **tabla de verdad**
+armada a mano: cada producto con precio, medidas, peso, capacidad, opiniones y qué campos NO publica
+su ficha. Después la instrucción explícita de chequear toda afirmación comparativa contra esa tabla,
+recorriendo **todas** las coincidencias por línea y no la primera.
+
+**Por qué funcionó:** con la tabla adelante, Codex encontró **32 errores factuales** que ninguno de
+los cinco scripts de check del repo detectó. Y no eran errores sutiles: "4 colchones de 2 plazas"
+cuando uno era Queen, "la densidad más alta del grupo" cuando dos de cinco no publican densidad, "el
+único con manijas laterales" cuando otro simplemente no llena ese campo.
+
+Sin la tabla, el auditor tendría que reconstruir los datos leyendo las mismas fichas que yo leí, y
+heredaría mis errores de lectura. Con la tabla, tiene una fuente independiente contra la cual medir.
+
+**El límite que quedó claro:** un script valida **qué producto gana un superlativo**. No valida **si
+la frase aplica a quien decís que aplica**. Esa distinción es la que explica por qué mis chequeos
+mecánicos dieron 9/9 en verde mientras Codex encontraba siete errores en el mismo texto.
+
+**Cuándo aplicarlo:** en toda guía comparativa, siempre. Armar la tabla es media hora y ahorra dos o
+tres pasadas de auditoría. Incluir explícitamente la columna de **"campos que este producto NO
+publica"**, porque convertir un dato ausente en un "no lo tiene" fue el error más repetido del día:
+siete de los ocho de la última guía.
+
 ## 2026-08-13 — Publicación automática de Instagram (feed + Historias) quedó funcionando de punta a punta
 
 **Qué funcionó:** `scripts/publicar-instagram.cjs` publica posts y Historias reales en `@productosvirales.ok` vía la Instagram Graph API oficial (flujo "API setup with Instagram login", app Meta "ProductosVirales Social"). Sube la imagen a Vercel Blob (público), crea el media container, espera a que Instagram lo procese, y publica. Reusa el generador de imágenes del post cuadrado (`generar-imagen-post-threads.cjs`) para el feed, y usa un generador nuevo (`generar-imagen-story-instagram.cjs` + `threads-post-template-story.html`, 1080×1920) para Historias — nunca la misma imagen del feed, Instagram la recorta en 9:16 en el celular.
