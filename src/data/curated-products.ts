@@ -74132,6 +74132,496 @@ Si es tu primer colchón en caja, esa es la experiencia esperable: llega mucho m
       { question: "¿Cómo llega un colchón en caja?", answer: "Comprimido y enrollado, mucho más chico de lo que uno espera. Es la sorpresa que más aparece en sus reseñas: un comprador cuenta que al ver la caja creyó que le habían mandado un acolchado. Se saca del envoltorio y recupera la forma; conviene darle tiempo antes de juzgarlo." },
     ],
   },
+  // Guía nueva colchon-1-plaza — silo hogar-jardin (sourcing 2026-08-16)
+  {
+    id: "MLA63548072",
+    title: "Colchón Fika Pocket 1 Plaza — 80x190x20, Resortes y Espuma, En Caja",
+    canonicalName: "Fika Pocket 1 plaza",
+    price: 175499,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_989725-MLA105597362748_012026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_989725-MLA105597362748_012026-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_788546-MLA108088209522_032026-F.jpg",
+    ],
+    category: "Dormitorio",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA63548072",
+    affiliateUrl: "https://meli.la/2RUFwjc",
+    condition: "new",
+    freeShipping: false,
+    rating: 4.8,
+    reviewCount: 1496,
+    soldQuantity: 1000,
+    pastelColor: "var(--pastel-green)",
+    specs: [
+      { label: "Marca", value: "Fika" },
+      { label: "Modelo", value: "Pocket" },
+      { label: "Tamaño declarado", value: "1 plaza, el único de esta guía. Los otros cuatro son 1 plaza y media" },
+      { label: "Medidas (ancho x largo x alto)", value: "80 x 190 x 20 cm" },
+      { label: "Peso máximo soportado", value: "180 kg" },
+      { label: "Relleno", value: "Resortes y espuma. Es el único cuyo campo de relleno declara resortes" },
+      { label: "Firmeza", value: "Medio" },
+      { label: "Manijas laterales", value: "Sí. Känn Livet, Sealy y La Espumería declaran que no; el Calm no publica el campo" },
+      { label: "Colchón en caja", value: "Sí, envasado al vacío" },
+      { label: "Densidad", value: "No la publica" },
+      { label: "Envío", value: "Gratis solo por ser tu primera compra en MercadoLibre" },
+    ],
+    relatedProducts: ["MLA54967234", "MLA18635357", "MLA72723907", "MLA28530883"],
+    priceUpdated: "2026-08-16", priceLastChecked: "2026-08-16", priceVerifiedAt: "2026-08-16",
+    priceStatus: "fresh", reviewsSampledAt: "2026-08-16",
+    description: "El más barato de la comparativa por bastante y el único cuyo campo de relleno declara resortes. También el único de 1 plaza real: 80 cm de ancho, contra los 90 y 100 de los otros cuatro.",
+    seoTitle: "Fika Pocket: el colchón de 1 plaza más barato",
+    metaDescription: "Colchón Fika Pocket de 1 plaza, 80x190x20, con resortes y espuma. El más barato de la comparativa y el único de 80 cm de ancho.",
+    verdict: "Es el más barato de esta guía por bastante margen y el único cuyo relleno declara **resortes y espuma**, que en un colchón de esta plata es raro. Declara 180 kg de peso máximo y trae manijas laterales para moverlo. Ojo con una cosa antes de comprarlo: es el único **1 plaza real**, o sea 80 cm de ancho. Los otros cuatro de esta guía son 1 plaza y media, con 90 o 100. Si tu cama es de una plaza y media, este te queda chico.",
+    pros: [
+      "El precio más bajo de la comparativa, por bastante margen",
+      "El único cuyo relleno declara resortes: los otros cuatro declaran espuma, aunque el Känn Livet suma un campo de sistema de resortes",
+      "180 kg de peso máximo declarado",
+      "Manijas laterales declaradas: tres de los otros cuatro declaran que no las tienen y el Calm no publica el campo",
+      "Firmeza media, la más blanda del grupo junto con La Espumería",
+      "Un comprador destaca que la caja entra en un auto y en un ascensor",
+    ],
+    cons: [
+      "80 cm de ancho: es 1 plaza, no 1 plaza y media. Si tu cama es de 90 o 100, no entra",
+      "\"La tela es muy fina y se sienten los resortes\", según un comprador que igual lo recomienda",
+      "No publica la densidad, así que no se puede comparar por ese dato",
+      "1.496 opiniones, el respaldo más chico de esta comparativa",
+      "Declara \"No\" en ortopédico, hipoalergénico y antiácaros, que otros de esta guía declaran en Sí",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", text: "Una cosa de locos que un colchón tan copado venga en una caja que la metés en el auto, la subís en el ascensor y lo pasás tranquilo por cualquier puerta. Increíble." },
+      { rating: 5, country: "Argentina", text: "Muy bueno. Lo que sí, la tela es muy fina y se sienten los resortes, pero como están envueltos en la goma espuma el colchón en sí es re cómodo. Yo le haría un cubrecolchón grueso." },
+      { rating: 5, country: "Argentina", text: "Fácil de instalar, instrucciones claras, el tamaño igual que se solicitó. La tela se siente súper suave y cómoda. Ojo, se recomienda esperar 72 hs máximo para que el colchón alcance su máxima expansión." },
+      { rating: 5, country: "Argentina", text: "No pasaron dos días y ya está como para usar, muy cómodo, y por ahora no se sienten los resortes como leí en una publicación." },
+    ],
+    articleBody: `Es el colchón más barato de esta comparativa y el único cuyo campo de relleno declara **resortes y espuma**. En este rango de precio eso no es habitual: los otros cuatro declaran espuma, aunque el Känn Livet suma además un campo de sistema de resortes que no termina de explicar.
+
+## El detalle que hay que mirar primero
+
+Su ficha declara **"Tamaño del colchón: 1 plaza"** y mide **80 cm de ancho**.
+
+Los otros cuatro colchones de esta guía declaran **1 plaza y media**, con 90 o 100 cm. Son diez o veinte centímetros de diferencia, y si tu cama es de una plaza y media, este colchón le va a bailar.
+
+Es la trampa de la búsqueda: "colchón 1 plaza" trae las dos cosas mezcladas.
+
+## Resortes, en un colchón barato
+
+Declara relleno de **resortes y espuma** y 180 kg de peso máximo. Un comprador aporta el matiz honesto sobre cómo se sienten:
+
+"La tela es muy fina y se sienten los resortes, pero como están envueltos en la goma espuma el colchón en sí es re cómodo. Yo le haría un cubrecolchón grueso porque si la tela se rompe es dormir directamente en el resorte."
+
+Otro comprador lo contradice desde su experiencia: "por ahora no se sienten los resortes como leí en una publicación". Las dos cosas están en las reseñas y no vamos a elegir una.
+
+## Lo que resuelve la caja
+
+La ventaja más concreta la resume un comprador mejor que cualquier ficha: "una cosa de locos que un colchón tan copado venga en una caja que la metés en el auto, la subís en el ascensor y lo pasás tranquilo por cualquier puerta".
+
+Suma **manijas laterales**, que tres de los otros cuatro declaran no tener y que el Calm directamente no publica.
+
+Sobre la expansión, otro comprador cita las instrucciones: "se recomienda esperar 72 hs máximo para que el colchón alcance su máxima expansión".
+
+## Lo que no publica
+
+Hay que separar dos cosas. **No publica la densidad**, así que por ese dato no se puede comparar con los tres que sí la informan. Y declara explícitamente **"No"** en ortopédico, hipoalergénico y antiácaros, que es distinto: ahí no falta el dato, el dato dice que no.`,
+    faq: [
+      { question: "¿El colchón Fika Pocket es de 1 plaza o de 1 plaza y media?", answer: "De 1 plaza: su ficha lo declara así y mide 80 cm de ancho. Es el único de esta comparativa con esa medida. Los otros cuatro son de 1 plaza y media, con 90 o 100 cm de ancho, así que conviene medir la cama antes de comprar." },
+      { question: "¿Se sienten los resortes del Fika Pocket?", answer: "Los compradores se dividen. Uno dice que la tela es fina y que se sienten, y recomienda un cubrecolchón grueso. Otro cuenta que a él no se le sienten. Los resortes están envueltos en espuma según ese mismo comprador, que igual lo describe como muy cómodo." },
+      { question: "¿Cuánto peso soporta?", answer: "Su ficha declara 180 kg de peso máximo soportado. Es un número alto para un colchón de una plaza, y bastante mayor que los 100 kg que declara el Sealy Cocoon Chill de esta misma guía." },
+      { question: "¿Cuánto hay que esperar para usarlo?", answer: "Un comprador cita las instrucciones: hasta 72 horas para la máxima expansión. Otro cuenta que a los dos días ya estaba listo para usar. Como todos los colchones en caja, las primeras horas no son la referencia." },
+    ],
+  },
+  {
+    id: "MLA54967234",
+    title: "Colchón Känn Livet KL-Eterna 1½ Plaza — 90x190x25, Pillow Top, 200 kg",
+    canonicalName: "Känn Livet KL-Eterna",
+    price: 261899,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_827626-MLA99700986592_122025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_827626-MLA99700986592_122025-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_863030-MLA91926574311_092025-O.webp",
+    ],
+    category: "Dormitorio",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA54967234",
+    affiliateUrl: "https://meli.la/2h7iE5D",
+    condition: "new",
+    freeShipping: false,
+    rating: 4.9,
+    reviewCount: 2498,
+    soldQuantity: 1000,
+    badge: "viral",
+    pastelColor: "var(--pastel-blue)",
+    specs: [
+      { label: "Marca", value: "Känn Livet" },
+      { label: "Modelo", value: "KL-Eterna" },
+      { label: "Tamaño declarado", value: "1 plaza y media" },
+      { label: "Medidas (ancho x largo x alto)", value: "90 x 190 x 25 cm" },
+      { label: "Peso máximo soportado", value: "200 kg, el más alto de la comparativa" },
+      { label: "Relleno", value: "Su ficha declara \"Tipo de relleno: Espuma\" y a la vez \"Sistema de resortes: Resorte Caja\". No aclara cómo se combinan" },
+      { label: "Pillow", value: "Sí, pillow top. El único de esta guía" },
+      { label: "Firmeza", value: "Firme" },
+      { label: "Densidad", value: "26 kg/m³" },
+      { label: "Ortopédico e hipoalergénico", value: "Sí, ambos" },
+      { label: "Marco perimetral", value: "Sí" },
+      { label: "Colchón en caja", value: "Sí, envasado al vacío" },
+      { label: "Envío", value: "Gratis solo por ser tu primera compra en MercadoLibre" },
+    ],
+    relatedProducts: ["MLA63548072", "MLA18635357", "MLA72723907", "MLA28530883"],
+    priceUpdated: "2026-08-16", priceLastChecked: "2026-08-16", priceVerifiedAt: "2026-08-16",
+    priceStatus: "fresh", reviewsSampledAt: "2026-08-16",
+    description: "El mejor calificado de la comparativa con 4,9 sobre 2.498 opiniones. El único con pillow top, el más alto con 25 cm y el que más peso declara soportar: 200 kg.",
+    seoTitle: "Känn Livet KL-Eterna: 4,9 y el único con pillow top",
+    metaDescription: "Colchón Känn Livet KL-Eterna de 1½ plaza, 90x190x25, con pillow top y 200 kg de peso máximo. El mejor calificado de la comparativa con 4,9.",
+    verdict: "Es el mejor calificado de esta guía, con **4,9 sobre 2.498 opiniones**, y el que más cosas suma: el único con **pillow top**, el más alto con 25 cm, y el que más peso declara soportar con **200 kg**. Encima es el segundo más barato. Declara ortopédico, hipoalergénico y marco perimetral. La única salvedad honesta es de origen: un comprador menciona que se fabrica en China y que eso lo hizo dudar antes de comprar, aunque después lo llama \"colchonazo\".",
+    pros: [
+      "4,9 de promedio, la calificación más alta de la comparativa",
+      "200 kg de peso máximo declarado, el más alto del grupo",
+      "El único con pillow top de esta guía",
+      "25 cm de alto, el más alto de la comparativa",
+      "El segundo más barato de los cinco",
+      "Declara ortopédico, hipoalergénico y marco perimetral",
+    ],
+    cons: [
+      "26 kg/m³ de densidad, la más baja entre los tres que la declaran",
+      "Un comprador menciona que se fabrica en China y que eso lo hizo dudar",
+      "2.498 opiniones: bastante menos que las 8.942 del Calm o las 8.238 de La Espumería",
+      "Declara \"No\" en antiácaros, mientras que el Calm, el Sealy y La Espumería lo declaran en Sí",
+      "Firme: si buscás blando, mirá el Fika o La Espumería, que declaran firmeza media",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", text: "En una sola palabra, colchonazo. La primera vez que lo vi dudé mucho por varias opiniones hater y por ser fabricado en China. No encontré ninguna review en YouTube, pero encontré videos que muestran cómo son las fábricas chinas." },
+      { rating: 5, country: "Argentina", text: "Lo saqué del empaque el viernes a la noche y recién lo usé el sábado. Increíble la firmeza y suavidad del colchón. No le tenía mucha fe, ahora te garantizo que no te equivocás si lo comprás." },
+      { rating: 5, country: "Argentina", text: "La mejor compra de todo el año. Sufro dolor de espalda, me lo regalaron mis hijos para el día de la madre. Un placer dormir sin dolor." },
+      { rating: 5, country: "Argentina", text: "De las mejores compras que hice en el año. La realidad es que la calidad supera el costo. Llevo un mes aproximadamente desde que lo compré." },
+    ],
+    articleBody: `**4,9 de promedio sobre 2.498 opiniones.** Es la calificación más alta de esta comparativa, y no por poco: los otros cuatro están en 4,7 y 4,8.
+
+## Lo que suma que los otros no
+
+Es el único de esta guía con **pillow top**, esa capa acolchada cosida arriba que suaviza el contacto sin ablandar el núcleo. Con **25 cm** es también el más alto del grupo, contra los 18 del más finito.
+
+Y declara **200 kg de peso máximo soportado**, el número más alto de los cinco. Para dimensionarlo: el Sealy Cocoon Chill de esta misma guía declara 100.
+
+Suma además ortopédico, hipoalergénico y marco perimetral, que es el refuerzo del borde que evita que el colchón se hunda cuando te sentás en el filo.
+
+Todo eso siendo el **segundo más barato** de la comparativa.
+
+## La duda del origen, contada por un comprador
+
+La reseña más honesta del grupo empieza reconociendo el prejuicio:
+
+"En una sola palabra, colchonazo. La primera vez que lo vi dudé mucho por varias opiniones hater y **por ser fabricado en China**. No encontré ninguna review en YouTube, pero encontré videos que muestran cómo son las fábricas chinas."
+
+Lo dejamos como está: es un dato de origen que a algunos compradores les importa, dicho por alguien que igual terminó comprándolo y recomendándolo.
+
+## La densidad, que es su punto flojo
+
+Declara **26 kg/m³**. De los tres colchones de esta guía que publican ese dato, es el más bajo: el Calm declara 30 y el Sealy 27.
+
+A mayor densidad, mayor durabilidad esperable. No es una condena, pero es el único número de la tabla donde este colchón queda último.
+
+## Lo que dicen del uso
+
+El patrón es consistente y con la misma estructura: desconfianza previa, sorpresa después. "No le tenía mucha fe, ahora te garantizo que no te equivocás si lo comprás". Y para quien busca por dolor de espalda, una reseña directa: "sufro dolor de espalda... un placer dormir sin dolor".`,
+    faq: [
+      { question: "¿Cuál es el colchón de 1 plaza mejor calificado?", answer: "De los cinco que comparamos, el Känn Livet KL-Eterna, con 4,9 de promedio sobre 2.498 opiniones. Los otros cuatro están en 4,7 y 4,8. También es el único con pillow top y el que más peso declara soportar, con 200 kg." },
+      { question: "¿Qué es un pillow top?", answer: "Es una capa acolchada cosida sobre el colchón que suaviza el contacto sin ablandar el núcleo. De los cinco colchones de esta guía, el Känn Livet KL-Eterna es el único que lo declara." },
+      { question: "¿Dónde se fabrica el Känn Livet?", answer: "Un comprador menciona en su reseña que es de fabricación china y que eso lo hizo dudar antes de comprar, aunque terminó recomendándolo con entusiasmo. Es un dato que aporta un comprador, no algo que hayamos verificado con el fabricante." },
+      { question: "¿Qué densidad tiene?", answer: "26 kg/m³ según su ficha. De los tres colchones de esta guía que publican la densidad, es el más bajo: el Calm declara 30 y el Sealy 27. A mayor densidad, mayor durabilidad esperable." },
+    ],
+  },
+  {
+    id: "MLA18635357",
+    title: "Colchón Calm Espuma Elemental 1½ Plaza — 100x190, Densidad 30, 8.942 Opiniones",
+    canonicalName: "Calm Espuma Elemental",
+    price: 292847,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_830353-MLA101685754668_122025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_830353-MLA101685754668_122025-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_961633-MLA113293142706_072026-F.jpg",
+    ],
+    category: "Dormitorio",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA18635357",
+    affiliateUrl: "https://meli.la/1jBuggH",
+    condition: "new",
+    freeShipping: false,
+    rating: 4.7,
+    reviewCount: 8942,
+    soldQuantity: 5000,
+    badge: "viral",
+    pastelColor: "var(--pastel-amber)",
+    specs: [
+      { label: "Marca", value: "Calm" },
+      { label: "Modelo", value: "Espuma Elemental" },
+      { label: "Tamaño declarado", value: "1 plaza y media" },
+      { label: "Medidas (ancho x largo x alto)", value: "100 x 190 x 20 cm" },
+      { label: "Peso máximo soportado", value: "120 kg" },
+      { label: "Densidad", value: "30 kg/m³, la más alta entre los tres colchones de esta guía que publican el dato" },
+      { label: "Relleno", value: "Espuma, dos capas según el título de la publicación" },
+      { label: "Firmeza", value: "Firme" },
+      { label: "Ortopédico y antiácaros", value: "Sí, ambos" },
+      { label: "Pillow", value: "No" },
+      { label: "Colchón en caja", value: "Sí, envasado al vacío" },
+      { label: "Envío", value: "Gratis solo por ser tu primera compra en MercadoLibre" },
+    ],
+    relatedProducts: ["MLA54967234", "MLA28530883", "MLA72723907", "MLA63548072"],
+    priceUpdated: "2026-08-16", priceLastChecked: "2026-08-16", priceVerifiedAt: "2026-08-16",
+    priceStatus: "fresh", reviewsSampledAt: "2026-08-16",
+    description: "El más reseñado de la comparativa, con 8.942 opiniones, y el que más densidad declara de los tres que la publican: 30 kg/m³. Uno de los dos de 100 cm de ancho.",
+    seoTitle: "Calm Espuma Elemental: densidad 30 y 8.942 opiniones",
+    metaDescription: "Colchón Calm de 1½ plaza, 100x190x20, con 30 kg/m³, la densidad más alta entre los tres de la guía que la publican, y 8.942 opiniones.",
+    verdict: "Es el más reseñado de esta guía con **8.942 opiniones**, y el que mejor queda en el dato que más habla de durabilidad: **30 kg/m³ de densidad**, la más alta entre los tres que la publican. Suma 100 cm de ancho, ortopédico y antiácaros. Dos cosas honestas: es **firme de verdad**, y un comprador avisa que al principio se siente duro, y declara 120 kg de peso máximo, un techo medio dentro del grupo.",
+    pros: [
+      "8.942 opiniones, el respaldo más grande de la comparativa",
+      "30 kg/m³ de densidad, la más alta de los tres que la declaran",
+      "100 cm de ancho, de los más anchos del grupo junto con La Espumería",
+      "Declara ortopédico y antiácaros",
+      "Un comprador de largo plazo confirma un año de uso sin problemas",
+    ],
+    cons: [
+      "\"Un poquito duro al principio\", según un comprador",
+      "120 kg de peso máximo declarado: menos que los 180 del Fika y los 200 del Känn Livet",
+      "20 cm de alto, contra los 25 del Känn Livet",
+      "4,7 de promedio, la calificación más baja de la comparativa junto con La Espumería",
+      "No trae pillow ni declara ser hipoalergénico",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", text: "Me fue muy bien, lo compré hace como un año. Es un poquito duro al principio pero con una buena almohada dormís de diez." },
+      { rating: 5, country: "Argentina", text: "Necesitaba un colchón y venía analizando las opiniones. Estoy muy contenta de haber conseguido justo una oferta." },
+      { rating: 5, country: "Argentina", text: "Tengo 40 años de experiencia en dormir casi todos los días, y te aseguro que con este colchón te podés caer en coma tranquilo." },
+      { rating: 5, country: "Argentina", text: "Todavía no cumple el mes, pero la verdad que es una excelente compra. Mi espalda lo agradece." },
+    ],
+    articleBody: `Ocho mil novecientas cuarenta y dos opiniones. Es el colchón con más evidencia acumulada de esta guía, y con 4,7 de promedio esa cantidad significa algo distinto a un puñado de reseñas entusiastas.
+
+## La densidad, que es donde gana
+
+Declara **30 kg/m³**. De los tres colchones de esta comparativa que publican ese dato, es el más alto: el Sealy declara 27 y el Känn Livet 26. Los otros dos no lo publican.
+
+La densidad es el número que más se relaciona con **cuánto va a durar** una espuma antes de hundirse. No garantiza nada por sí solo, pero es el dato menos marketinero de toda la ficha.
+
+Una reseña le da respaldo temporal: "me fue muy bien, lo compré hace como un año".
+
+## La contra, dicha por sus compradores
+
+El mismo comprador que cuenta el año de uso agrega el matiz: "**es un poquito duro al principio** pero con una buena almohada dormís de diez".
+
+Su ficha declara firmeza **Firme**, y eso es literal. Si buscás un colchón donde hundirte, en esta guía los que declaran firmeza media son el Fika y La Espumería.
+
+## Las medidas
+
+Mide **100 x 190 x 20 cm**. Los 100 de ancho lo ponen entre los más anchos del grupo, junto con La Espumería, contra los 90 del Känn Livet y el Sealy, y los 80 del Fika.
+
+Con 20 cm de alto queda en el medio: el Känn Livet declara 25 y el Sealy 18.
+
+## Lo que declara y lo que no
+
+Declara ortopédico y antiácaros en Sí. No declara hipoalergénico ni pillow. Son campos que el vendedor completa en la ficha de MercadoLibre, no certificaciones que hayamos podido verificar por nuestra cuenta.`,
+    faq: [
+      { question: "¿Qué densidad tiene el colchón Calm?", answer: "30 kg/m³ según su ficha, la más alta de esta comparativa entre los tres colchones que publican ese dato. El Sealy declara 27 y el Känn Livet 26; el Fika y La Espumería no lo publican. A mayor densidad, mayor durabilidad esperable de la espuma." },
+      { question: "¿El colchón Calm es duro?", answer: "Su ficha declara firmeza Firme y un comprador lo confirma: dice que es un poquito duro al principio, aunque agrega que con una buena almohada duerme bien. Si buscás algo más blando, en esta guía el Fika y La Espumería declaran firmeza media." },
+      { question: "¿Cuánto mide el Calm de 1 plaza y media?", answer: "100 cm de ancho por 190 de largo y 20 de alto. Es de los más anchos de esta comparativa junto con La Espumería, que mide 100 x 200. El Känn Livet y el Sealy miden 90 de ancho y el Fika, 80." },
+      { question: "¿Cuánto peso soporta?", answer: "Su ficha declara 120 kg de peso máximo soportado. Queda en el medio del grupo: el Sealy declara 100, el Fika 180 y el Känn Livet 200." },
+    ],
+  },
+  {
+    id: "MLA72723907",
+    title: "Colchón Sealy Cocoon Chill 1½ Plaza — 90x190x18, Funda Desmontable Lavable",
+    canonicalName: "Sealy Cocoon Chill",
+    price: 297999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_725957-MLA112849346363_062026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_725957-MLA112849346363_062026-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_764096-MLA108877895881_032026-F.jpg",
+    ],
+    category: "Dormitorio",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA72723907",
+    affiliateUrl: "https://meli.la/2JWM2Qp",
+    condition: "new",
+    freeShipping: false,
+    rating: 4.8,
+    reviewCount: 2224,
+    soldQuantity: 100,
+    pastelColor: "var(--pastel-slate)",
+    specs: [
+      { label: "Marca", value: "Sealy" },
+      { label: "Modelo", value: "Cocoon Chill" },
+      { label: "Tamaño declarado", value: "1 plaza y media" },
+      { label: "Medidas (ancho x largo x alto)", value: "90 x 190 x 18 cm" },
+      { label: "Peso máximo soportado", value: "100 kg, el más bajo de la comparativa" },
+      { label: "Densidad", value: "27 kg/m³" },
+      { label: "Relleno", value: "Espuma" },
+      { label: "Firmeza", value: "Firme" },
+      { label: "Marco perimetral", value: "Sí" },
+      { label: "Hipoalergénico y antiácaros", value: "Sí, ambos" },
+      { label: "Colchón en caja", value: "Sí, envasado al vacío" },
+      { label: "Funda", value: "Desmontable y lavable, según una compradora. La ficha no lo declara" },
+      { label: "Envío", value: "Gratis solo por ser tu primera compra en MercadoLibre" },
+    ],
+    relatedProducts: ["MLA54967234", "MLA18635357", "MLA28530883", "MLA63548072"],
+    priceUpdated: "2026-08-16", priceLastChecked: "2026-08-16", priceVerifiedAt: "2026-08-16",
+    priceStatus: "fresh", reviewsSampledAt: "2026-08-16",
+    description: "El de marca internacional más conocida de la comparativa, con funda desmontable lavable según sus compradores. El más finito con 18 cm y el que menos peso declara.",
+    seoTitle: "Sealy Cocoon Chill: funda lavable y marca conocida",
+    metaDescription: "Colchón Sealy Cocoon Chill de 1½ plaza, 90x190x18, con marco perimetral y funda desmontable lavable según sus compradores. Ojo con los 100 kg que declara.",
+    verdict: "Es el único de una marca internacional reconocida de esta comparativa, con 4,8 sobre 2.224 opiniones y marco perimetral declarado. Su ventaja más concreta la aporta una compradora: **funda desmontable para lavar**, algo que ningún otro de esta guía menciona. Dos contras claras: con **18 cm es el más finito** de los cinco, y declara **100 kg de peso máximo**, el número más bajo del grupo, la mitad de lo que declara el Känn Livet, que además cuesta menos.",
+    pros: [
+      "Marca internacional reconocida, la única de la comparativa",
+      "Funda desmontable para lavar, según una compradora",
+      "4,8 sobre 2.224 opiniones",
+      "Marco perimetral declarado, el refuerzo del borde",
+      "Hipoalergénico y antiácaros declarados",
+      "27 kg/m³ de densidad, la segunda más alta entre los tres que la declaran",
+    ],
+    cons: [
+      "100 kg de peso máximo declarado, el más bajo de la comparativa",
+      "18 cm de alto, el más finito de los cinco",
+      "Es de los más caros del grupo y el Känn Livet cuesta menos declarando el doble de peso",
+      "Declara \"No\" en ortopédico, que el Känn Livet, el Calm y La Espumería declaran en Sí",
+      "90 cm de ancho: si tu cama es de 100, mirá el Calm o La Espumería",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", text: "Amé este colchón. Es todo lo que necesitaba, es firme, descanso súper bien. Ya tenía uno de estos y volví a comprar otro más. Me encanta que viene con la funda desmontable para poder lavar." },
+      { rating: 5, country: "Argentina", text: "Muy lindo y de calidad. Se armó al sacarlo de la bolsa cerrada al vacío y quedó firme." },
+      { rating: 5, country: "Argentina", text: "Mi anterior colchón estaba en mal estado así que el cambio lo sentí la primera noche. Se amolda bien a todas las partes del cuerpo pero tampoco se ablanda de más." },
+      { rating: 5, country: "Argentina", text: "Muy bueno, y el hecho de que llegue en caja es muy práctico. No tuve que pagar flete para traerlo a mi casa como lo hubiera hecho con un colchón tradicional." },
+    ],
+    articleBody: `De los cinco colchones de esta guía, este es el único de una **marca internacional reconocida**. Para mucha gente eso pesa, y es una razón legítima para elegirlo.
+
+## La funda lavable, que no está en la ficha
+
+La ventaja más práctica de este colchón no aparece en ninguno de sus campos técnicos. La cuenta una compradora que ya iba por el segundo:
+
+"Ya tenía uno de estos y volví a comprar otro más. **Me encanta que viene con la funda desmontable para poder lavar.**"
+
+En un colchón de una plaza y media, que muchas veces va a una cama de chicos, poder sacar la funda y lavarla no es un detalle menor. Ningún otro de esta comparativa lo menciona.
+
+## Los dos números que hay que mirar
+
+Declara **18 cm de alto**, el más finito de los cinco. El Känn Livet declara 25.
+
+Y declara **100 kg de peso máximo soportado**, el más bajo de esta guía. Para comparar dentro del mismo grupo: el Fika declara 180 y el Känn Livet 200, y el Känn Livet además cuesta menos que este.
+
+No decimos que se hunda: decimos que el fabricante puso un techo y que ese techo es el más bajo de los cinco.
+
+## Lo que sí trae
+
+**Marco perimetral**, que es el refuerzo del borde para que el colchón no se hunda cuando te sentás en el filo. **27 kg/m³** de densidad, la segunda más alta entre los tres que publican ese dato. Y declara hipoalergénico y antiácaros.
+
+Una reseña describe bien la sensación: "se amolda bien a todas las partes del cuerpo pero tampoco se ablanda de más".
+
+## El ahorro del flete
+
+Un comprador señala una ventaja del formato que se olvida fácil: "el hecho de que llegue en caja es muy práctico. **No tuve que pagar flete** para traerlo a mi casa como lo hubiera hecho con un colchón tradicional".`,
+    faq: [
+      { question: "¿El colchón Sealy tiene funda lavable?", answer: "Según una compradora que ya iba por su segunda unidad, sí: viene con funda desmontable para poder lavar. La ficha técnica de MercadoLibre no declara ese campo, así que el dato sale de la reseña y no de la publicación." },
+      { question: "¿Cuánto peso soporta el Sealy Cocoon Chill?", answer: "Su ficha declara 100 kg de peso máximo soportado, el número más bajo de esta comparativa. El Fika declara 180 y el Känn Livet 200, y este último además cuesta menos." },
+      { question: "¿Qué es el marco perimetral?", answer: "Es un refuerzo en el borde del colchón que evita que se hunda cuando te sentás en el filo, algo que pasa mucho al vestirse o al levantarse. De los cinco de esta guía, lo declaran el Sealy y el Känn Livet." },
+      { question: "¿Cuánto mide de alto?", answer: "18 cm, el más finito de esta comparativa. El Känn Livet declara 25, el Calm, La Espumería y el Fika declaran 20. Si venías de un colchón grueso, el cambio se nota." },
+    ],
+  },
+  {
+    id: "MLA28530883",
+    title: "Colchón La Espumería Freestyle Box 1½ Plaza — 100x200, el Único de 2 Metros",
+    canonicalName: "La Espumería Freestyle Box",
+    price: 327762,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_970915-MLA99504972592_112025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_970915-MLA99504972592_112025-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_672072-MLA97770402352_112025-F.jpg",
+    ],
+    category: "Dormitorio",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA28530883",
+    affiliateUrl: "https://meli.la/16QU87i",
+    condition: "new",
+    freeShipping: false,
+    rating: 4.7,
+    reviewCount: 8238,
+    soldQuantity: 500,
+    pastelColor: "var(--pastel-purple)",
+    specs: [
+      { label: "Marca", value: "La Espumería" },
+      { label: "Modelo", value: "Espuma Freestyle box" },
+      { label: "Tamaño declarado", value: "1 plaza y media" },
+      { label: "Medidas (ancho x largo x alto)", value: "100 x 200 x 20 cm, el único de 2 metros de largo" },
+      { label: "Peso máximo soportado", value: "120 kg" },
+      { label: "Relleno", value: "Espuma" },
+      { label: "Firmeza", value: "Medio" },
+      { label: "Ortopédico, hipoalergénico y antiácaros", value: "Sí, los tres" },
+      { label: "Densidad", value: "No la publica" },
+      { label: "Colchón en caja", value: "Sí, envasado al vacío" },
+      { label: "Envío", value: "Gratis solo por ser tu primera compra en MercadoLibre" },
+    ],
+    relatedProducts: ["MLA18635357", "MLA54967234", "MLA72723907", "MLA63548072"],
+    priceUpdated: "2026-08-16", priceLastChecked: "2026-08-16", priceVerifiedAt: "2026-08-16",
+    priceStatus: "fresh", reviewsSampledAt: "2026-08-16",
+    description: "El único de 2 metros de largo de la comparativa, con 8.238 opiniones. Firmeza media y los tres campos de ortopédico, hipoalergénico y antiácaros declarados.",
+    seoTitle: "La Espumería Freestyle Box: el único de 2 metros",
+    metaDescription: "Colchón La Espumería Freestyle de 1½ plaza, 100x200x20. El único de 2 metros de largo de la comparativa, con 8.238 opiniones y firmeza media.",
+    verdict: "Es el único de esta guía que mide **2 metros de largo**, lo que lo hace la opción obvia si sos alto o si tu cama es de 200. Suma 8.238 opiniones, firmeza media y los tres campos de ortopédico, hipoalergénico y antiácaros declarados en Sí. También es el **más caro de los cinco** y **no publica la densidad**, que es el dato que más habla de durabilidad en un colchón de espuma.",
+    pros: [
+      "El único de 2 metros de largo de la comparativa: el resto mide 190",
+      "8.238 opiniones, el segundo respaldo más grande del grupo",
+      "100 cm de ancho, de los más anchos junto con el Calm",
+      "Declara ortopédico, hipoalergénico y antiácaros, los tres campos",
+      "Firmeza media: la opción menos dura del grupo junto con el Fika",
+    ],
+    cons: [
+      "El precio más alto de la comparativa",
+      "No publica la densidad, así que no se puede comparar por durabilidad esperable",
+      "120 kg de peso máximo declarado, contra los 180 del Fika y los 200 del Känn Livet",
+      "Al medir 2 metros, las sábanas de 1 plaza y media comunes pueden quedar cortas",
+      "4,7 de promedio, la calificación más baja del grupo junto con el Calm",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", text: "Lo compré porque era la única marca que venía del tamaño que necesitaba. Se infló sin problemas y es realmente muy cómodo. Firme pero no una piedra." },
+      { rating: 5, country: "Argentina", text: "Mi peso es de 125 kg. Es muy cómodo y me permite descansar mejor, es muy confortable. En cuanto a calidad y durabilidad, solo el tiempo dirá. Ahora no me dan ganas de levantarme, antes tenía que levantarme por el dolor de espalda." },
+      { rating: 5, country: "Argentina", text: "Dudé muchísimo porque decía: no se puede comparar un colchón clásico bueno con uno que viene en una caja envasado al vacío." },
+      { rating: 5, country: "Argentina", text: "El colchón eliminó por completo mis malas noches." },
+    ],
+    articleBody: `De los cinco colchones de esta guía, cuatro miden 190 cm de largo. Este mide **200**. Es el único, y para mucha gente esa es toda la decisión.
+
+## Los 2 metros
+
+Si medís más de 1,80 o si tu cama ya es de 200 de largo, el resto de esta comparativa te queda corto. Este es el único que resuelve ese caso.
+
+La contracara es la de siempre con las medidas raras: **las sábanas de una plaza y media comunes pueden no llegar**. Vale la pena revisar antes de comprar, porque es un gasto extra que aparece después.
+
+Una compradora explica que eligió justamente por medida, ante la falta de opciones: "lo compré porque era la única marca que venía del tamaño que necesitaba".
+
+## El comprador de 125 kilos
+
+Su ficha declara **120 kg de peso máximo soportado**. Y hay una reseña que vale citar entera por lo concreta:
+
+"**Mi peso es de 125 kg.** Es muy cómodo y me permite descansar mejor, es muy confortable. En cuanto a calidad y durabilidad, solo el tiempo dirá. Ahora no me dan ganas de levantarme, antes tenía que levantarme por el dolor de espalda."
+
+O sea: un comprador cinco kilos por encima del máximo declarado, conforme. Él mismo aclara lo que no puede saber todavía, que es la durabilidad. Lo dejamos así porque es exactamente lo que muestra: el número de la ficha es una declaración del fabricante, no un límite físico verificado, y conviene leerlo como referencia y no como sentencia.
+
+## Lo que no publica
+
+**No declara densidad.** Es el dato que más se relaciona con cuánto va a durar una espuma, y en esta comparativa tres de los cinco lo publican. Este no.
+
+Es una ausencia notable en el colchón más caro del grupo.
+
+## Firmeza media, no dura
+
+Es uno de los dos de esta guía que declaran firmeza **media**, junto con el Fika. Una compradora lo describe mejor: "**firme pero no una piedra**".
+
+Si venís de un colchón hundido y no querés irte al otro extremo, ese es el punto medio que buscás.`,
+    faq: [
+      { question: "¿Hay colchones de 1 plaza y media de 2 metros de largo?", answer: "En esta comparativa hay uno solo: el La Espumería Freestyle Box, de 100 x 200 cm. Los otros cuatro miden 190 de largo. Si medís más de 1,80 o tu cama ya es de 200, es la opción del grupo. Ojo con las sábanas, que pueden quedar cortas." },
+      { question: "¿Cuánto peso soporta el La Espumería Freestyle?", answer: "Su ficha declara 120 kg. Vale mencionar una reseña concreta: un comprador de 125 kg, cinco por encima del máximo declarado, lo describe como muy cómodo, aunque él mismo aclara que sobre durabilidad solo el tiempo dirá. El número de la ficha es una declaración del fabricante." },
+      { question: "¿Qué densidad tiene?", answer: "No la publica, y es el único junto con el Fika que omite ese dato en esta comparativa. Es una ausencia notable siendo el colchón más caro del grupo, porque la densidad es lo que más se relaciona con la durabilidad esperable de una espuma." },
+      { question: "¿Es duro o blando?", answer: "Su ficha declara firmeza media, una de las dos de esta guía que no dicen firme. Una compradora lo describe como firme pero no una piedra. Si buscás algo más duro, el Calm, el Sealy y el Känn Livet declaran firmeza firme." },
+    ],
+  },
 ];
 
 export const categoryPastels: Record<string, string> = {
