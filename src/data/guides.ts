@@ -7363,7 +7363,6 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     directAnswer: `Para deshinchar la cara sin gastar de más, el **kit de rodillo de jade + gua sha** (alrededor de {{precio:MLA24518712:k}}) es lo más honesto: sin motor ni promesas, deshincha si lo usás frío. Para un efecto de firmeza temporal antes de un evento, el Energy Golden Bar (barra con vibración); y para lo más técnico del grupo, el equipo de alta frecuencia Gadnic LF60. Ninguno borra arrugas de forma permanente.`,
     quickPicks: [
       { productMlaId: "MLA24518712", label: "Empezar barato", labelColor: "green", tagline: "Kit rodillo de jade + gua sha: sin motor ni promesas, deshincha si lo usás frío" },
-      { productMlaId: "MLA1835535491", label: "Efecto lifting temporal", labelColor: "amber", tagline: "Energy Golden Bar: barra con vibración (se vende como electroestimulante), firmeza al tacto por un par de horas" },
       { productMlaId: "MLA26522167", label: "Casi profesional", labelColor: "purple", tagline: "Gadnic LF60: alta frecuencia, lo más técnico del grupo (equipo de gabinete doméstico)" },
     ],
     intro: [
@@ -7419,9 +7418,9 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
             "Un dato del manual que conviene saber antes de comprar: no se carga por USB, funciona con una pila AA (1.5V) y hace unas 6.000 a 7.000 vibraciones por minuto. O sea, el manual lo documenta sobre todo como una barra de vibración; el \"electroestimulante\" del nombre es discreto. Sentís un cosquilleo y la piel queda más firme al tacto por un par de horas, pero eso es efecto de la vibración. Usalo con un serum o gel para que deslice mejor y no raspe sobre piel seca.",
             "Un punto a tener en cuenta: la pila se gasta rápido. El propio manual recomienda cambiarla cuando la vibración se debilita y sacarla después de usar. Eso sí, el efecto es temporal, no cambia tu cara permanentemente. Como complemento de una rutina de skincare, suma.",
           ],
-          ctas: [{ label: "Ver Energy Golden Bar en MercadoLibre", href: "https://meli.la/1X3wKvs" }],
         },
       },
+      { type: "callout", calloutVariant: "warning", calloutTitle: "Sin stock al 2026-08-17", content: "La publicación de la Energy Golden Bar está pausada en MercadoLibre, así que hoy no se puede comprar. Dejamos el análisis porque suele volver, pero por ahora las dos opciones disponibles de esta guía son el kit de jade y el equipo de alta frecuencia." },
       { type: "product-card", productMlaId: "MLA1835535491", label: "Vibración facial", labelColor: "amber" },
       {
         type: "card",
@@ -8059,7 +8058,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     ],
     quickPicks: [
       { productMlaId: "MLA24127896", label: "El más vendido", labelColor: "green", tagline: "Portátil, shiatsu con calor y +13.000 calificaciones" },
-      { productMlaId: "MLAU274288377", label: "Cobertura amplia", labelColor: "blue", tagline: "110 cm de vibración, hombros a muslos, buen precio" },
+      { productMlaId: "MLA24203342", label: "Cobertura amplia", labelColor: "blue", tagline: "Cervical, espalda, lumbares y pies con un solo aparato. Va con cable" },
       { productMlaId: "MLA28420339", label: "Shiatsu completo", labelColor: "amber", tagline: "6 nodos, calor y compresión, pero pocas reseñas" },
     ],
     sections: [
@@ -8091,6 +8090,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       },
 
       { type: "h2", title: "Electroland MA68: vibración de cobertura amplia" },
+      { type: "callout", calloutVariant: "warning", calloutTitle: "Sin stock al 2026-08-17", content: "La publicación del Electroland MA68 está pausada en MercadoLibre, así que hoy no se puede comprar. Dejamos el análisis porque el modelo suele volver, pero si buscás cobertura amplia ahora, el [Wolke Blow Premium](https://meli.la/2R9wp8o) cubre cervical, espalda, lumbares y pies." },
       { type: "p", content: "Si querés cubrir toda la espalda y no solo el cuello, pero sin gastar lo de un shiatsu premium, el Electroland MA68 es el término medio. Es un asiento de 110 cm que va desde los hombros hasta los muslos, con cinco motores de vibración, calor en la zona lumbar y timer de 15, 30 o 60 minutos. Funciona en casa a 220V y en el auto a 12V, y es plegable. Ronda los $99.999, con 4.0 de rating sobre unas 145 reseñas y más de 500 vendidos." },
       { type: "product-card", productMlaId: "MLAU274288377", label: "Cobertura amplia", labelColor: "blue" },
       { type: "p", content: "Qué hace bien: cubre mucha superficie de una sola vez, cosa que ni el portátil ni la mayoría de los shiatsu logran. El calor lumbar es un acierto porque es donde más se acumula la rigidez de estar sentado. La opción de 60 minutos es poco común (casi todos se apagan a los 15), y poder usarlo en el auto suma para viajes largos." },
@@ -8128,7 +8128,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
         type: "list",
         items: [
           "[Femmto cervical inalámbrico](https://meli.la/1VsNQ2J) — **{{precio:MLA24127896}}** (cuello y trapecios, el más vendido)",
-          "[Electroland MA68 asiento vibración](https://meli.la/1ZW9A5Y) — **{{precio:MLAU274288377}}** (cobertura amplia, auto y casa)",
+          "[Wolke Blow Premium multiuso](https://meli.la/2R9wp8o) — **{{precio:MLA24203342}}** (cervical, espalda, lumbares y pies)",
           "[Melfit I2500 asiento shiatsu](https://meli.la/1zRo95J) — **{{precio:MLA28420339}}** (shiatsu completo con calor y compresión)",
         ],
       },
@@ -8350,7 +8350,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     quickPicks: [
       { productMlaId: "MLA24127896", label: "Para la mayoría", labelColor: "green", tagline: "Cervical portátil: ataca el dolor más común y es el más vendido" },
       { productMlaId: "MLA37908577", label: "Para contracturas", labelColor: "amber", tagline: "Pistola de percusión, presión profunda para músculos grandes" },
-      { productMlaId: "MLAU274288377", label: "Para la espalda", labelColor: "blue", tagline: "Asiento de vibración que cubre de hombros a muslos" },
+      { productMlaId: "MLAU189502779", label: "Para la espalda", labelColor: "blue", tagline: "Respaldo con rodillos shiatsu y calor, se apoya en cualquier silla" },
     ],
     sections: [
       { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_781455-MLU76151002922_052024-F.jpg", alt: "Pistola masajeadora de percusión, uno de los tipos de masajeador eléctrico más usados", imageSize: "hero" },
@@ -8427,7 +8427,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
           "[Caliber Percussion infrarrojo](https://meli.la/2gqPvgW) — **{{precio:MLA25263767}}** (percutor de mano con calor)",
           "[Suono masajeador de pies](https://meli.la/2d7VKT6) — **{{precio:MLA23131501}}** (pies, con calor y compresión)",
           "[Femmto MP pistola brushless](https://meli.la/159WHqm) — **{{precio:MLA37908577}}** (contracturas y deporte)",
-          "[Electroland MA68 asiento](https://meli.la/1ZW9A5Y) — **{{precio:MLAU274288377}}** (espalda completa, vibración)",
+          "[Wolke Infinity Cosmic respaldo](https://meli.la/1xVjx9e) — **{{precio:MLAU189502779}}** (espalda y glúteos, rodillos shiatsu con calor)",
           "[Melfit I2500 asiento shiatsu](https://meli.la/1zRo95J) — **{{precio:MLA28420339}}** (shiatsu premium con calor)",
         ],
       },
