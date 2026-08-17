@@ -120,6 +120,13 @@ function main() {
   execFileSync(CHROME_PATH, [
     "--headless=new",
     "--disable-gpu",
+    // El runner de GitHub Actions (Ubuntu 24.04+) restringe user namespaces sin
+    // privilegios por AppArmor, y Chromium no puede armar su sandbox: crashea
+    // con "No usable sandbox!" sin este flag. Confirmado en la corrida real de
+    // workflow_dispatch del 2026-08-17. La plantilla es HTML local de confianza
+    // (nunca navega a una URL externa), así que perder el sandbox acá no abre
+    // superficie de ataque real.
+    "--no-sandbox",
     "--hide-scrollbars",
     "--window-size=1080,1350",
     `--screenshot=${outPath}`,

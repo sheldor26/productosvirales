@@ -104,6 +104,9 @@ function main() {
   execFileSync(CHROME_PATH, [
     "--headless=new",
     "--disable-gpu",
+    // Ver el mismo comentario en generar-imagen-post-threads.cjs: sin esto,
+    // Chromium crashea en el runner de GitHub Actions por AppArmor.
+    "--no-sandbox",
     "--hide-scrollbars",
     "--window-size=1080,1350",
     `--screenshot=${outPath}`,
