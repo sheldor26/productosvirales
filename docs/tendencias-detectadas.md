@@ -5,6 +5,43 @@
 > producto/modelo mencionado vale la pena chequear en MercadoLibre y
 > convertir en guía o ficha. Entradas nuevas arriba.
 
+## 2026-08-17
+
+### Perfumes árabes (45 posts únicos de 72 recibidos)
+
+- #perfumes #arabes #paratiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii #urbanfragance26
+  - 207.700 likes · 68.200 shares · 6.338 guardados · 756 comentarios
+  - https://www.tiktok.com/@urban_fragance26/video/7666573099931929877
+- Siguenos si te gustan los perfumes árabes✨
+  - 201.900 likes · 25.000 shares · 63.400 guardados · 5.513 comentarios
+  - https://www.tiktok.com/@cairosperfumes/video/7666906316161486102
+- The Best Mens Arabian Fragrances For Compliments 💨 #fragrance #fragrancetok #arabianfragrance #cologne #perfume
+  - 172.500 likes · 9.755 shares · 56.500 guardados · 1.760 comentarios
+  - https://www.tiktok.com/@nose.diver/video/7577405632228183304
+- Bienvenidos perfumes para el verano 😮‍💨🌴🤝 Perfumes árabes frescos para el calor #perfumesarabes #fyp #hermosillo
+  - 190.600 likes · 8.215 shares · 45.300 guardados · 868 comentarios
+  - https://www.tiktok.com/@attare_club/video/7632047186653531410
+- Como cuando uso mi perfume árabe #fyp #fyp #humor #arabe #perfumearabe
+  - 76.500 likes · 48.400 shares · 6.745 guardados · 407 comentarios
+  - https://www.tiktok.com/@elmiguelarvizu/video/7538252809003617550
+- Los mejores dupes arabes 🔥 Adquirirlos en naysee parfum #jeanpaulgaultier #perfumesmasculinos #perfumesarabes #perfumes #paratiiiiiiiiiiiii
+  - 94.600 likes · 9.539 shares · 38.100 guardados · 333 comentarios
+  - https://www.tiktok.com/@naysee.parfum/video/7580938007834905857
+- Los mejores perfumes árabes De este 2025 👌🤩⚜️ #perfumesarabes #todoperfumeria #perfumesdehombre
+  - 54.700 likes · 14.800 shares · 24.800 guardados · 385 comentarios
+  - https://www.tiktok.com/@perfumeriatodo.bo/video/7588691629171559736
+- My top 6😍 @Lattafa Perfumes #affordableperfume #affordablefragrances #arabtiktok #arabianperfume #lattafaperfume
+  - 60.300 likes · 5.900 shares · 33.800 guardados · 432 comentarios
+  - https://www.tiktok.com/@bydazzlinchristine/video/7584611619443887373
+
+### Freidora de aire _(se cortó por el límite de tiempo del workflow — muestra parcial)_ (0 posts únicos de 0 recibidos)
+
+_Sin resultados esta semana._
+
+### Aspiradora robot _(se cortó por el límite de tiempo del workflow — muestra parcial)_ (0 posts únicos de 0 recibidos)
+
+_Sin resultados esta semana._
+
 ## 2026-07-08
 
 ### Perfumes árabes (0 posts únicos de 0 recibidos)
