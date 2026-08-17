@@ -401,3 +401,35 @@ y si el dato existe o lo reporta un tercero. Un `min()` sobre seis filas no pued
 explícitamente que busque generalizaciones del caso al rubro. Cuando en la pasada 2 le nombré ese patrón,
 encontró los tres residuos que quedaban en las fichas. Gemini, con la misma tabla pero sin esa instrucción,
 dio GO en la primera pasada y no encontró nada.
+
+---
+
+## 2026-08-17 — La protección de sin-stock no cubre los `card.ctas`
+
+**El síntoma.** En `masajeador-cervical`, el CTA "Ver Asiento masajeador para auto/silla en MercadoLibre"
+mandaba a `meli.la/1ZW9A5Y`, que no abre ninguna publicación: cae en el **perfil de afiliado** de ML
+(Productos Virales, "Mis listas") con un feed genérico de cocinas, colchones y perfumes. Un comprador que
+hacía clic buscando un asiento masajeador terminaba en cualquier otra cosa.
+
+**La causa.** El producto (`MLAU274288377`) está `out_of_stock` en el catálogo desde el 2026-08-05. Cuando
+ML pausa una publicación, el `meli.la` deja de resolver al producto y cae en la landing del perfil.
+
+Y acá está el agujero real: `redirigirSinStock()` en `src/lib/parse-inline-links.tsx` **solo reescribe links
+markdown** `[texto](url)` dentro de prosa y tablas. No mira `card.ctas[].href`, que es un campo estructurado.
+Las guías viejas que monetizan con secciones `card` en vez de `product-card` quedan sin esa protección: el
+producto muere en ML y el botón de compra sigue vivo en el sitio.
+
+**Por qué no lo agarró ningún check.** Los cinco scripts del repo validan tokens, links de tabla y que la
+guía tenga `product-card`. Ninguno cruza `card.ctas` contra el `priceStatus` del catálogo, y de hecho estos
+CTAs **ni siquiera estaban en el catálogo**: la guía usaba links sueltos, así que Bright Data nunca los miró.
+
+**El arreglo aplicado.** Los 4 productos de esa guía que ya tenían ficha pasaron de `card.ctas` a
+`product-card`. Con eso heredan la protección: el sin-stock ahora muestra "Ver alternativas disponibles" y
+**cero botones de compra**, verificado en el navegador.
+
+**Lo que queda abierto.** Otros 4 productos de la guía siguen como CTA porque no tienen ficha, y no se
+pudieron sourcear: ML pide login para abrir `/p/MLA…` desde el navegador, y no se pasa por ahí.
+
+**La regla:** cuando una guía monetiza con `card.ctas`, esos links no están protegidos por nada. Ante una
+guía vieja con buenos clicks de afiliado, chequear primero si sus productos existen en el catálogo. Si no
+existen, no hay chequeo de stock: no es que esté todo bien, es que nadie está mirando.

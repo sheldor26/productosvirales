@@ -5902,8 +5902,14 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
             "Lo que funciona bien: la potencia. Si tenés contracturas fuertes que los masajeadores tipo U no llegan a aflojar, esto pega más fuerte. El infrarrojo ayuda a calentar la zona.",
             'Lo que no funciona para todos: necesitás alguien que te lo aplique en la espalda, o hacer acrobacias con el brazo. Y no es algo que te ponés y te relajás; requiere participación activa. Para gente que prefiere "ponérmelo y olvidarme", no es la opción.',
           ],
-          ctas: [{ label: "Ver Caliber Percutor en MercadoLibre", href: "https://meli.la/2gqPvgW" }],
         },
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA25263767",
+        label: "Para contracturas fuertes",
+        labelColor: "amber",
+        description: "Percutor de doble cabezal con infrarrojo. Es el que más fuerte pega de esta guía, y el único que se agarra con la mano en vez de apoyarse en los hombros.",
       },
       {
         type: "card",
@@ -5914,8 +5920,14 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
             "Lo que funciona: es más económico que el Gadnic y la portabilidad es real. Lo cargás por USB, lo tirás en la mochila, lo usás en la oficina. Para tensión leve después de un día largo, algo hace. Me relajó lo suficiente como para dormir mejor un par de noches.",
             "Lo que no funciona: para contracturas reales, no alcanza. La vibración no penetra en el músculo como lo hacen los nodos shiatsu del Yapeyú. Es como comparar que te acaricien el cuello con que te amasen un músculo. Si tenés dolor de verdad, esto no te va a resolver.",
           ],
-          ctas: [{ label: "Ver precio actual en MercadoLibre", href: "https://meli.la/1VsNQ2J" }],
         },
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA24127896",
+        label: "Para tensión leve",
+        labelColor: "green",
+        description: "Vibración, sin calor y sin nodos shiatsu. Alcanza para la tensión de un día largo, no para una contractura. Tiene {{reviews:MLA24127896}} opiniones.",
       },
       {
         type: "card",
@@ -5939,16 +5951,22 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
           ],
           ctas: [
             { label: "Ver Wolke Sillón Cervical en MercadoLibre", href: "https://meli.la/1xVjx9e" },
-            {
-              label: "Ver Asiento Shiatsu con calor en MercadoLibre",
-              href: "https://meli.la/1zRo95J",
-            },
-            {
-              label: "Ver Asiento masajeador para auto/silla en MercadoLibre",
-              href: "https://meli.la/1ZW9A5Y",
-            },
           ],
         },
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA28420339",
+        label: "Asiento con calor",
+        labelColor: "blue",
+        description: "Asiento shiatsu con calor y vibración para cervicales, espalda y lumbar. Es el formato para quedarse sentado un rato largo, no para andar por la casa.",
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLAU274288377",
+        label: "Para el auto",
+        labelColor: "slate",
+        description: "Asiento con vibración y calor pensado para la butaca del auto o una silla de escritorio.",
       },
       {
         type: "bad",
