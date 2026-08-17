@@ -7,6 +7,15 @@
 > 🔴 = se quedo sin stock (el link de afiliado apunta a una pagina pausada).
 > Entradas nuevas arriba.
 
+## 2026-08-17
+
+- 🟢 VOLVIO EL STOCK — **MLA23437114** Cafetera Nespresso Lattissima One blanca con leche integrada
+  - ML: https://www.mercadolibre.com.ar/p/MLA23437114
+  - Sitio: https://productosvirales.com.ar/producto/MLA23437114
+- 🟢 VOLVIO EL STOCK — **MLA24605489** Al wataniah Bareeq Al Dhahad EDP 100 ml para hombre
+  - ML: https://www.mercadolibre.com.ar/al-wataniah-bareeq-al-dhahad-edp-100ml-para-hombre/p/MLA24605489
+  - Sitio: https://productosvirales.com.ar/producto/MLA24605489
+
 ## 2026-08-14
 
 - 🟢 VOLVIO EL STOCK — **MLA23437114** Cafetera Nespresso Lattissima One blanca con leche integrada

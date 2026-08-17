@@ -6,6 +6,21 @@
 > chequearlos en MercadoLibre. Si son reales, avisar para aplicarlos a mano.
 > Entradas nuevas arriba.
 
+## 2026-08-17
+
+- **MLA42113760** — Freidora De Aire Kanji Home 8 Litros +10 Funciones Canasta Antiadherente Kjh-1700dc 1700w Lh Color Negro: $173.000 → $349.999 (+102%)
+  - ML: https://www.mercadolibre.com.ar/freidora-de-aire-kanji-home-8-litros-10-funciones-canasta-antiadherente-kjh-1700dc-1700w-lh-color-negro/p/MLA42113760
+  - Sitio: https://productosvirales.com.ar/producto/MLA42113760
+- **MLA8732921** — Auriculares Gamer Con Cable HyperX Cloud HX-HSCA Black y Red: $91.379 → $779.403 (+753%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA8732921
+  - Sitio: https://productosvirales.com.ar/producto/MLA8732921
+- **MLA24605489** — Al wataniah Bareeq Al Dhahad EDP 100 ml para hombre: $27.777 → $66.690 (+140%)
+  - ML: https://www.mercadolibre.com.ar/al-wataniah-bareeq-al-dhahad-edp-100ml-para-hombre/p/MLA24605489
+  - Sitio: https://productosvirales.com.ar/producto/MLA24605489
+- **MLA20038035** — Freezer Vertical Philco PHCV065B — 65 Litros, Blanco, 20 kg: $772.199 → $365.190 (-53%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA20038035
+  - Sitio: https://productosvirales.com.ar/producto/MLA20038035
+
 ## 2026-08-14
 
 - **MLA8732921** — Auriculares Gamer Con Cable HyperX Cloud HX-HSCA Black y Red: $91.379 → $779.403 (+753%)
