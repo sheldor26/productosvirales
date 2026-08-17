@@ -73734,6 +73734,404 @@ Con **66,5 cm de profundidad** es la más honda de la comparativa, y con 45,4 kg
       { question: "¿Qué problema tienen las gomitas de la parrilla?", answer: "Dos de sus compradores reportan que unas gomitas de la parrilla superior se salen y se pierden con facilidad, y que no se consiguen en el comercio. Los dos aclaran que lo consideran un detalle menor y no un problema de calidad general." },
     ],
   },
+  // Guía nueva colchon-2-plazas — silo hogar-jardin (sourcing 2026-08-16)
+  {
+    id: "MLA54221370",
+    title: "Colchón Känn Livet KL-Aureo 2 Plazas — 140x200, Resortes Pocket y Pillow Top",
+    canonicalName: "Känn Livet KL-Aureo",
+    price: 358899,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_828708-MLA111900852341_052026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_828708-MLA111900852341_052026-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_762801-MLA91536089496_092025-O.webp",
+    ],
+    category: "Dormitorio",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA54221370",
+    affiliateUrl: "https://meli.la/24tR5jJ",
+    condition: "new",
+    freeShipping: false,
+    rating: 4.8,
+    reviewCount: 2547,
+    soldQuantity: 1000,
+    badge: "viral",
+    pastelColor: "var(--pastel-green)",
+    specs: [
+      { label: "Marca", value: "Känn Livet" },
+      { label: "Modelo", value: "KL-Aureo" },
+      { label: "Medidas (ancho x largo x alto)", value: "140 x 200 x 25 cm" },
+      { label: "Peso máximo soportado", value: "300 kg, el más alto de la comparativa por lejos" },
+      { label: "Relleno", value: "Resortes pocket y espuma" },
+      { label: "Pillow", value: "Sí, pillow top" },
+      { label: "Firmeza", value: "Firme" },
+      { label: "Densidad", value: "26 kg/m³" },
+      { label: "Ortopédico", value: "Sí, según la ficha" },
+      { label: "Colchón en caja", value: "Sí, envasado al vacío" },
+      { label: "Envío", value: "Gratis solo por ser tu primera compra en MercadoLibre" },
+    ],
+    relatedProducts: ["MLA22938951", "MLA42252800", "MLA40490705"],
+    priceUpdated: "2026-08-16", priceLastChecked: "2026-08-16", priceVerifiedAt: "2026-08-16",
+    priceStatus: "fresh", reviewsSampledAt: "2026-08-16",
+    description: "El único de la comparativa con resortes pocket y pillow top, y el que más peso declara soportar: 300 kg contra los 100 a 120 de los otros tres. También el más barato.",
+    seoTitle: "Känn Livet KL-Aureo: 300 kg y resortes pocket",
+    metaDescription: "Colchón 2 plazas Känn Livet de 140x200 con resortes pocket y pillow top. Declara 300 kg de peso máximo, contra los 100 a 120 kg de los colchones de espuma.",
+    verdict: "Es el más barato de la comparativa y, al mismo tiempo, el que mejor resuelve el problema que casi nadie mira: **declara 300 kg de peso máximo soportado**, contra los 100 a 120 kg de los tres de espuma. Para una cama de dos personas eso deja de ser un número al azar. Suma resortes pocket, pillow top y 25 cm de alto. La contra es de medida: mide **2 metros de largo**, no 1,90, así que tus sábanas de dos plazas de siempre pueden no entrar.",
+    pros: [
+      "300 kg de peso máximo declarado, el más alto de la comparativa por mucha diferencia",
+      "El precio más bajo de los cuatro",
+      "El único con resortes pocket, que trabajan independientes y transmiten menos movimiento",
+      "El único con pillow top",
+      "25 cm de alto, la mayor altura de la comparativa junto con el Sueño Dorado Box Prime",
+      "Declarado ortopédico en la ficha",
+      "2.547 opiniones con 4,8 de promedio",
+    ],
+    cons: [
+      "Mide 2 metros de largo: un comprador tuvo que comprar sábanas nuevas",
+      "26 kg/m³ de densidad, menor que los 31 del Simmons, que es el otro que la declara",
+      "Llega comprimido y hay que esperar: las instrucciones hablan de 72 horas",
+      "\"Durito de entrada\", según un comprador, aunque después lo describe como espectacular",
+      "2.547 opiniones es bastante menos respaldo que el YOLO by Simmons",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", text: "Compré el colchón híbrido, de resortes. Apenas lo saqué de la caja lo puse sobre el otro colchón, en 10 horas aproximadamente me acosté. Durito de entrada, ahora espectacular descanso. 25 cm reales, buena calidad, con pillow. Ojo que mide 2,00 m de largo, tuve que comprar sábanas." },
+      { rating: 5, country: "Argentina", text: "En 2022 había comprado la muy conocida marca Calm y, comparando esa marca con ésta, puedo decir que es una experiencia totalmente mejorada. Busqué una opción económica ya que el anterior me duró un año y medio." },
+      { rating: 5, country: "Argentina", text: "Se esperó las 72 horas que describe en las instrucciones, y mi viejita conforme y contenta diciendo que ya no le duele más la espalda." },
+      { rating: 5, country: "Argentina", text: "Antes me acostaba y daba vueltas durante horas pensando en mis problemas. Ahora me acuesto y, cuando quiero empezar a preocuparme, ya es de mañana." },
+    ],
+    articleBody: `Es el más barato de esta comparativa y el único con **resortes pocket**. Pero lo que lo pone primero es un número que las otras tres fichas también publican y que casi nadie mira antes de comprar.
+
+## Los 300 kg
+
+Su ficha declara **"Peso máximo soportado: 300 kg"**.
+
+Los otros tres de esta guía declaran **100, 110 y 120 kg**: dos son de dos plazas y el tercero es un Queen.
+
+Es un colchón para dos personas. Una pareja de 75 kilos cada una suma 150, y eso ya supera a tres de los cuatro. Este es el único que se queda cómodo. No decimos que los otros se rompan, decimos que el fabricante puso un techo y ese techo está publicado.
+
+## Resortes pocket y pillow
+
+Es el único de la comparativa con **resortes pocket**, que son resortes embolsados individualmente. La ventaja práctica es que cada uno trabaja por su cuenta, así que cuando uno se da vuelta el otro lo siente menos que en un colchón de resorte tradicional.
+
+También es el único con **pillow top**, y con 25 cm empata en altura con el Sueño Dorado Box Prime. Un comprador confirma la medida: "25 cm reales".
+
+## La contra de las sábanas
+
+Acá está el detalle que más plata cuesta después de la compra. Mide **140 x 200 cm**, no 140 x 190.
+
+Un comprador lo dice sin vueltas: "**ojo que mide 2,00 m de largo, tuve que comprar sábanas**".
+
+En Argentina "dos plazas" no corresponde a una sola medida. Los otros dos colchones de dos plazas de esta guía miden 190 de largo. Si tenés juegos de sábanas de dos plazas de los de siempre, con este pueden quedarte cortos.
+
+## Lo que hay que saber del formato en caja
+
+Llega comprimido y hay que darle tiempo. Un comprador cuenta que "se esperó las 72 horas que describe en las instrucciones". Otro lo puso arriba del colchón viejo y se acostó a las 10 horas, con este resultado: "durito de entrada, ahora espectacular descanso".
+
+O sea que las primeras noches no son la referencia. Si lo probás el primer día y te parece duro, esperá.`,
+    faq: [
+      { question: "¿Cuánto peso soporta el colchón Känn Livet KL-Aureo?", answer: "Su ficha declara 300 kg de peso máximo soportado, el número más alto de esta comparativa. Los otros tres que comparamos declaran 100, 110 y 120 kg: dos de dos plazas y un Queen." },
+      { question: "¿Cuánto mide el Känn Livet de 2 plazas?", answer: "140 cm de ancho por 200 de largo y 25 de alto. Ojo con el largo: son 2 metros y no 1,90, así que las sábanas de dos plazas comunes pueden quedar cortas. Un comprador cuenta que tuvo que comprar sábanas nuevas." },
+      { question: "¿Qué son los resortes pocket?", answer: "Son resortes embolsados individualmente, de modo que cada uno se hunde por su cuenta en vez de arrastrar a los de al lado. En la práctica se transmite menos movimiento de un lado de la cama al otro. Es el único de esta comparativa que los trae." },
+      { question: "¿Cuánto hay que esperar para usarlo?", answer: "Las instrucciones hablan de 72 horas, según un comprador que las respetó. Otro se acostó a las 10 horas y lo describió como durito al principio y muy cómodo después. En los colchones en caja las primeras noches no son la referencia." },
+    ],
+  },
+  {
+    id: "MLA40490705",
+    title: "Colchón Sueño Dorado Box Plus Queen — 160x200, Espuma, En Caja",
+    canonicalName: "Sueño Dorado Box Plus Queen",
+    price: 369324,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_813542-MLA99932755081_112025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_813542-MLA99932755081_112025-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_957535-MLA81767612273_012025-F.jpg",
+    ],
+    category: "Dormitorio",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA40490705",
+    affiliateUrl: "https://meli.la/1D2c6Kb",
+    condition: "new",
+    freeShipping: false,
+    rating: 4.8,
+    reviewCount: 12003,
+    soldQuantity: 1000,
+    badge: "viral",
+    pastelColor: "var(--pastel-purple)",
+    specs: [
+      { label: "Marca", value: "Sueño Dorado" },
+      { label: "Modelo", value: "SD Box Plus" },
+      { label: "Tamaño declarado", value: "Queen, no 2 plazas" },
+      { label: "Medidas (ancho x largo x alto)", value: "160 x 200 x 20 cm" },
+      { label: "Peso máximo soportado", value: "110 kg" },
+      { label: "Relleno", value: "Espuma" },
+      { label: "Firmeza", value: "Firme" },
+      { label: "Pillow", value: "No" },
+      { label: "Hipoalergénico y antiácaros", value: "Sí, ambos" },
+      { label: "Envasado al vacío", value: "No, aunque sí se vende como colchón en caja" },
+      { label: "Envío", value: "Gratis solo por ser tu primera compra en MercadoLibre" },
+    ],
+    relatedProducts: ["MLA54221370", "MLA42252800", "MLA22938951"],
+    priceUpdated: "2026-08-16", priceLastChecked: "2026-08-16", priceVerifiedAt: "2026-08-16",
+    priceStatus: "fresh", reviewsSampledAt: "2026-08-16",
+    description: "El único Queen de la comparativa: 20 cm más ancho que un dos plazas, con 12.003 opiniones. Ojo con el peso máximo declarado, que son 110 kg.",
+    seoTitle: "Sueño Dorado Box Plus Queen: 20 cm más de ancho",
+    metaDescription: "Colchón Sueño Dorado Box Plus Queen de 160x200 con 12.003 opiniones. Qué gana con 20 cm más de ancho y por qué su peso máximo declarado importa.",
+    verdict: "Es el único **Queen** de esta comparativa, y esa es la razón para elegirlo: 160 cm de ancho contra los 140 de un dos plazas, o sea 20 centímetros más para dos personas. Con 12.003 opiniones tiene el segundo respaldo más grande del grupo. Dos cosas antes de decidir: declara **110 kg de peso máximo**, un techo bajo para una cama de a dos, y con 20 cm es el más finito de los cuatro. Y necesitás sommier y sábanas de Queen, no de dos plazas.",
+    pros: [
+      "El único Queen de la comparativa: 160 cm de ancho contra 140",
+      "12.003 opiniones con 4,8 de promedio, el segundo respaldo más grande del grupo",
+      "Declarado hipoalergénico y antiácaros",
+      "Varias reseñas de gente que venía de resortes y dejó de tener dolores de espalda",
+      "Firme, según la ficha y según sus compradores",
+    ],
+    cons: [
+      "110 kg de peso máximo declarado, bajo para un colchón donde duermen dos personas",
+      "20 cm de alto, el más finito de la comparativa",
+      "No es 2 plazas: necesita sommier y sábanas de medida Queen",
+      "Su ficha declara \"Está envasado al vacío: No\" aunque se venda como colchón en caja",
+      "No trae pillow ni declara ser ortopédico",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", text: "Lo puse en la cama en un motorhome que estoy armando. Dormimos con mi señora una semana en ese colchón y es más cómodo que el de resortes de mi casa, nunca me dolió el cuerpo al levantarme, cosa que en mi casa sí." },
+      { rating: 5, country: "Argentina", text: "Tenía un colchón con resortes y me mataba la espalda, además de que cada vez que me subía o me bajaba de la cama se movía todo. Es bastante firme, me gusta mucho la tela." },
+      { rating: 5, country: "Argentina", text: "No soy de comentar ni calificar los productos que compro, pero este sí lo vale. Más que nada para quien anda buscando un buen descanso y aliviar los dolores de espalda, cuello y rodilla. Ya desde la primera noche se siente la diferencia." },
+      { rating: 5, country: "Argentina", text: "Divino el colchón, vengo durmiendo como un campeón. En unos meses compro otro para la otra cama." },
+    ],
+    articleBody: `De los cuatro colchones de esta comparativa, tres miden 140 cm de ancho. Este mide **160**. Es un **Queen**, y su propia ficha lo declara así en el campo de tamaño.
+
+## Los 20 centímetros
+
+Veinte centímetros más de ancho, repartidos entre dos personas, son diez centímetros por cabeza. Suena poco escrito y se nota bastante durmiendo, sobre todo si alguno se mueve.
+
+La contrapartida es que **no es un dos plazas**. Si tu sommier es de 140, este colchón no va a apoyar bien. Y las sábanas de dos plazas no le entran: necesitás juego de Queen, que es más caro y se consigue menos.
+
+Aparece en las búsquedas de "colchón 2 plazas" porque es la medida siguiente, no porque sea lo mismo.
+
+## El peso máximo, que conviene mirar
+
+Su ficha declara **"Peso máximo soportado: 110 kg"**.
+
+Es una cama de dos personas. Ciento diez kilos entre dos son 55 por cabeza. Para muchas parejas ese número queda corto, y es un dato publicado que no aparece en ningún título ni en ninguna foto.
+
+En esta misma guía, el [Känn Livet](/producto/colchon-kann-livet-kl-aureo-2-plazas-140x200-resortes-pocket-y-pillow-top-mla54221370) declara 300 kg. Es la diferencia entre elegir por espuma y elegir por resortes.
+
+## Lo que dicen los 12.003 compradores
+
+Con ese volumen de opiniones y 4,8 de promedio, es el segundo respaldo más grande de la comparativa. Y hay un patrón claro: gente que venía de un colchón de resortes viejo y dejó de tener dolores.
+
+"Tenía un colchón con resortes y me mataba la espalda, además de que cada vez que me subía o me bajaba de la cama se movía todo", escribe una compradora. Otro, que lo probó una semana en un motorhome: "es más cómodo que el de resortes de mi casa, nunca me dolió el cuerpo al levantarme".
+
+## Un detalle raro de la ficha
+
+Se vende como colchón en caja, y su ficha declara **"Es colchón en caja: Sí"**. Pero en el campo de al lado declara **"Está envasado al vacío: No"**, mientras que los otros tres de esta guía declaran que sí.
+
+No sabemos qué significa exactamente en la práctica, porque el vendedor no lo explica. Lo señalamos porque puede cambiar cuánto tarda en recuperar la forma.
+
+Con 20 cm es además el más finito de los cuatro. Los otros van de 22 a 25.`,
+    faq: [
+      { question: "¿Un colchón Queen es lo mismo que uno de 2 plazas?", answer: "No. El Queen mide 160 cm de ancho y el de dos plazas, 140. Son 20 centímetros de diferencia, y cambian el sommier y las sábanas que necesitás. Este Sueño Dorado declara tamaño Queen en su ficha, aunque aparezca en búsquedas de dos plazas." },
+      { question: "¿Cuánto peso soporta el Sueño Dorado Box Plus Queen?", answer: "Su ficha declara 110 kg de peso máximo soportado. Para una cama donde duermen dos personas conviene tenerlo en cuenta: son 55 kg por cabeza. El Känn Livet de esta misma comparativa declara 300 kg." },
+      { question: "¿Sirve para dolores de espalda?", answer: "Varios de sus compradores cuentan que venían de un colchón de resortes viejo y dejaron de tener dolores al levantarse. Es firme según su ficha y según las reseñas. Dicho esto, no declara ser ortopédico, y en esta comparativa el Känn Livet sí lo declara." },
+      { question: "¿Viene envasado al vacío?", answer: "Su ficha declara \"Es colchón en caja: Sí\" pero \"Está envasado al vacío: No\", a diferencia de los otros tres colchones de esta guía que declaran que sí. El vendedor no explica la diferencia, así que no sabemos cómo afecta al tiempo de recuperación." },
+    ],
+  },
+  {
+    id: "MLA42252800",
+    title: "Colchón Sueño Dorado Box Prime 2 Plazas — 140x190x25, Espuma Firme",
+    canonicalName: "Sueño Dorado Box Prime",
+    price: 392699,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_694037-MLA100019150787_122025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_694037-MLA100019150787_122025-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_984072-MLA87193054223_072025-F.jpg",
+    ],
+    category: "Dormitorio",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA42252800",
+    affiliateUrl: "https://meli.la/1EJ18ew",
+    condition: "new",
+    freeShipping: false,
+    rating: 4.8,
+    reviewCount: 1813,
+    soldQuantity: 1000,
+    pastelColor: "var(--pastel-amber)",
+    specs: [
+      { label: "Marca", value: "Sueño Dorado" },
+      { label: "Modelo", value: "Box Prime" },
+      { label: "Medidas (ancho x largo x alto)", value: "140 x 190 x 25 cm" },
+      { label: "Peso máximo soportado", value: "120 kg, el más alto entre los de espuma de esta guía" },
+      { label: "Relleno", value: "Espuma" },
+      { label: "Firmeza", value: "Firme" },
+      { label: "Ortopédico", value: "Sí, según la ficha" },
+      { label: "Hipoalergénico y antiácaros", value: "Sí, ambos" },
+      { label: "Colchón en caja", value: "Sí, envasado al vacío" },
+      { label: "Envío", value: "Gratis solo por ser tu primera compra en MercadoLibre" },
+    ],
+    relatedProducts: ["MLA54221370", "MLA22938951", "MLA40490705"],
+    priceUpdated: "2026-08-16", priceLastChecked: "2026-08-16", priceVerifiedAt: "2026-08-16",
+    priceStatus: "fresh", reviewsSampledAt: "2026-08-16",
+    description: "El colchón de espuma que más peso declara soportar de esta guía, con 120 kg, y la medida clásica de dos plazas: 140x190. Fabricado en Argentina según un comprador.",
+    seoTitle: "Sueño Dorado Box Prime: la medida clásica de 2 plazas",
+    metaDescription: "Colchón Sueño Dorado Box Prime de 140x190x25 en espuma firme, ortopédico y antiácaros. El que más peso declara entre los de espuma de la comparativa.",
+    verdict: "Es uno de los dos que respetan la medida clásica de dos plazas, **140 x 190**, junto con el YOLO by Simmons, así que tus sábanas de siempre entran sin sorpresas. Con 25 cm es de los más altos del grupo y declara ser ortopédico, hipoalergénico y antiácaros. Entre los tres colchones de espuma de esta guía es el que más peso soporta, con 120 kg, aunque sigue muy lejos de los 300 que declara el de resortes. Su contra es el respaldo: 1.813 opiniones son las menos de la comparativa.",
+    pros: [
+      "140 x 190, la medida clásica de dos plazas: tus sábanas entran, igual que en el YOLO by Simmons",
+      "120 kg de peso máximo, el más alto entre los tres colchones de espuma de esta guía",
+      "25 cm de alto, de los más altos del grupo",
+      "Declarado ortopédico, hipoalergénico y antiácaros",
+      "Un comprador destaca que es de fabricación argentina",
+      "\"Hiper firme\", según una reseña, si eso es lo que buscás",
+    ],
+    cons: [
+      "1.813 opiniones, el respaldo más chico de la comparativa",
+      "120 kg de peso máximo sigue siendo un techo bajo para dos personas: el Känn Livet declara 300",
+      "No trae pillow",
+      "Es espuma sola, sin resortes: transmite más el movimiento del otro lado de la cama",
+      "Firmeza firme: si te gusta blando, no es este",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", text: "Si estás buscando colchón de espuma, este es el mejor producto relación precio calidad. Tiene tela tejido de punto, soporta el peso de cualquier persona sin problema y es hiper firme." },
+      { rating: 5, country: "Argentina", text: "Luego de un análisis arduo, de tantas promociones y opciones, me decidí por este. Llevo 15 días con el colchón, está ok, duermo bien, calidad precio súper recomendable. Es un colchón fabricado en Argentina." },
+      { rating: 5, country: "Argentina", text: "No sabía lo mal que estaba durmiendo hasta que cambié el colchón. Un antes y después realmente, comodísimo. Lo único malo es levantarse a la mañana." },
+      { rating: 5, country: "Argentina", text: "Lo tiré en el piso, se infló solo y ahora duermo tan bien que ya no extraño ni los abrazos de invierno." },
+    ],
+    articleBody: `Es uno de los dos colchones de esta comparativa que respetan la medida que la mayoría espera cuando busca "dos plazas": **140 x 190 cm**. El otro es el YOLO by Simmons. Suena aburrido y es una ventaja concreta, porque no tenés que cambiar las sábanas.
+
+## La medida que no sorprende
+
+En esta guía, el [Känn Livet](/producto/colchon-kann-livet-kl-aureo-2-plazas-140x200-resortes-pocket-y-pillow-top-mla54221370) mide 200 de largo y un comprador tuvo que salir a comprar sábanas. El [Sueño Dorado Queen](/producto/colchon-sueno-dorado-box-plus-queen-160x200-espuma-en-caja-mla40490705) es directamente otra medida, 160 de ancho.
+
+Este mide 140 x 190, que es lo que hay en la mayoría de los sommiers de dos plazas de Argentina. Si estás reemplazando un colchón y no querés cambiar nada más, es el camino corto.
+
+## El peso, dentro de lo que da la espuma
+
+Declara **120 kg de peso máximo soportado**. Es el más alto de los tres colchones de espuma de esta guía, que declaran 100, 110 y estos 120.
+
+Pero conviene ponerlo en contexto: el de resortes pocket de esta misma comparativa declara **300 kg**. Si el peso combinado de quienes van a dormir ahí es alto, la espuma no es el camino, por más que este sea el mejor de los tres.
+
+## Lo que dicen sus compradores
+
+Con 1.813 opiniones tiene el respaldo más chico del grupo, pero el tono es parejo y hay comentarios útiles.
+
+Uno resume bien el perfil: "si estás buscando colchón de espuma, este es el mejor producto relación precio calidad. Tiene tela tejido de punto y es hiper firme". La palabra clave ahí es **firme**: la ficha lo declara y los compradores lo confirman. Si te gusta hundirte, no es este.
+
+Otro aporta un dato que no está en la ficha: "es un colchón fabricado en Argentina".
+
+## Ortopédico, hipoalergénico y antiácaros
+
+Los tres campos están declarados en Sí. Vale aclarar qué significan: son declaraciones del vendedor en la ficha de MercadoLibre, no certificaciones que hayamos podido verificar. En esta comparativa, el otro que declara ser ortopédico es el Känn Livet.`,
+    faq: [
+      { question: "¿Cuánto mide un colchón de 2 plazas?", answer: "La medida más común en Argentina es 140 x 190 cm, que es la de este Sueño Dorado Box Prime. Pero no todos los que se venden como dos plazas la respetan: en esta misma comparativa el Känn Livet mide 140 x 200 y un comprador tuvo que comprar sábanas nuevas por esos diez centímetros." },
+      { question: "¿Cuánto peso soporta el Sueño Dorado Box Prime?", answer: "Su ficha declara 120 kg, el número más alto entre los tres colchones de espuma de esta comparativa, que declaran 100, 110 y 120. El de resortes pocket del grupo declara 300 kg." },
+      { question: "¿Es firme o blando?", answer: "Firme, según la ficha y según sus compradores. Una reseña lo describe como hiper firme. Si buscás un colchón donde hundirte, este no es. En esta comparativa el que declara firmeza media es el YOLO by Simmons." },
+      { question: "¿Qué significa que sea ortopédico y antiácaros?", answer: "Son campos que el vendedor declara en Sí en la ficha de MercadoLibre. No son certificaciones que hayamos podido verificar de forma independiente, así que conviene leerlos como lo que son: lo que declara quien lo vende." },
+    ],
+  },
+  {
+    id: "MLA22938951",
+    title: "Colchón YOLO by Simmons 2 Plazas — 140x190, Memory Foam, 16.843 Opiniones",
+    canonicalName: "YOLO by Simmons",
+    price: 441896,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_646856-MLA95965242382_102025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_646856-MLA95965242382_102025-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_994311-MLA81614602418_012025-F.jpg",
+    ],
+    category: "Dormitorio",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA22938951",
+    affiliateUrl: "https://meli.la/2N1bYcv",
+    condition: "new",
+    freeShipping: false,
+    rating: 4.8,
+    reviewCount: 16843,
+    soldQuantity: 10000,
+    badge: "viral",
+    pastelColor: "var(--pastel-blue)",
+    specs: [
+      { label: "Marca", value: "Simmons" },
+      { label: "Modelo", value: "YOLO edition" },
+      { label: "Medidas (ancho x largo x alto)", value: "140 x 190 x 22 cm" },
+      { label: "Peso máximo soportado", value: "100 kg, el más bajo de la comparativa" },
+      { label: "Relleno", value: "Espuma con memory foam" },
+      { label: "Memory foam", value: "Sí, el único de la comparativa que lo declara" },
+      { label: "Densidad", value: "31 kg/m³, la más alta entre los dos que la declaran" },
+      { label: "Firmeza", value: "Medio" },
+      { label: "Pillow", value: "No" },
+      { label: "Antiácaros", value: "Sí" },
+      { label: "Colchón en caja", value: "Sí, envasado al vacío" },
+      { label: "Envío", value: "Gratis solo por ser tu primera compra en MercadoLibre" },
+    ],
+    relatedProducts: ["MLA54221370", "MLA42252800", "MLA40490705"],
+    priceUpdated: "2026-08-16", priceLastChecked: "2026-08-16", priceVerifiedAt: "2026-08-16",
+    priceStatus: "fresh", reviewsSampledAt: "2026-08-16",
+    description: "El colchón más reseñado de la comparativa por lejos, con 16.843 opiniones, y el único con memory foam. También el más caro y el que menos peso declara soportar.",
+    seoTitle: "YOLO by Simmons: 16.843 opiniones y memory foam",
+    metaDescription: "Colchón YOLO by Simmons de 140x190 con memory foam y 16.843 opiniones, el más reseñado de la comparativa. Ojo con los 100 kg de peso máximo que declara.",
+    verdict: "Con **16.843 opiniones** es el colchón con más evidencia acumulada de toda la comparativa, y por muchísimo. Es el único con **memory foam**, tiene la densidad más alta de los dos que la declaran y respeta la medida clásica de 140 x 190. Si comprás por respaldo, no hay discusión. Dos contras concretas: es el más caro de los cuatro y **declara 100 kg de peso máximo, el más bajo del grupo**, en un colchón donde duermen dos personas.",
+    pros: [
+      "16.843 opiniones con 4,8 de promedio: el respaldo más grande de la comparativa por lejos",
+      "El único con memory foam declarado",
+      "31 kg/m³ de densidad, más alta que los 26 del Känn Livet, que es el otro que la publica",
+      "140 x 190: la medida clásica, tus sábanas entran",
+      "Firmeza media, la única del grupo que no es firme",
+      "Antiácaros declarado",
+    ],
+    cons: [
+      "100 kg de peso máximo soportado, el más bajo de la comparativa",
+      "El precio más alto de los cuatro",
+      "22 cm de alto, menos que los 25 del Känn Livet y del Box Prime",
+      "\"No iba a ser como recostarme en una nube\", advierte un comprador que igual quedó conforme",
+      "Es espuma sola: no tiene resortes ni pillow",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", text: "Le tenía poca fe a algo que viene enrollado aplastado en una caja, pero al abrirlo recupera su forma y su firmeza. Es duro, con una capa fina blanda arriba. A mí me gusta así de duro porque descanso bien." },
+      { rating: 4, country: "Argentina", text: "Por comentarios que leí antes de comprarlo, sabía que no iba a ser como recostarme en una nube. Pero pasar de uno de resortes a éste, que no se aplasta, cambió bastante mi descanso. Hace un mes que lo tengo y antes me despertaba varias veces en la noche para cambiar de posición." },
+      { rating: 5, country: "Argentina", text: "Lo compré con toda la desconfianza del mundo porque un colchón de 2 plazas enrollado no es algo a lo que estemos acostumbrados. Hasta la segunda foto me quería matar, era un acolchado. Pero lo saqué del paquete e hizo su magia." },
+      { rating: 5, country: "Argentina", text: "Tenía miedo por cómo venía el colchón, pero luego que lo saqué de la caja es literal, hace magia y te queda como si fuese un colchón convencional." },
+    ],
+    articleBody: `Dieciséis mil ochocientas cuarenta y tres opiniones. Es, por mucha diferencia, el producto con más evidencia acumulada de esta comparativa: casi siete veces las opiniones del Känn Livet.
+
+## Lo que compra ese número
+
+Cuando un producto tiene tantas opiniones con 4,8 de promedio, lo que estás comprando además del colchón es información. Sabés en qué te estás metiendo, y sus compradores son notablemente honestos al respecto.
+
+El comentario más útil no lo elogia: "por comentarios que leí antes de comprarlo, sabía que **no iba a ser como recostarme en una nube**. Pero pasar de uno de resortes a éste, que no se aplasta, cambió bastante mi descanso".
+
+Eso es exactamente lo que hay que esperar: firmeza, no suavidad, aunque su ficha lo declare de firmeza media, la única del grupo que no dice firme.
+
+## Los 100 kg
+
+Su ficha declara **"Peso máximo soportado: 100 kg"**. Es el número más bajo de esta comparativa.
+
+Es un colchón de dos plazas, o sea que ahí duermen dos personas. Cien kilos entre dos son cincuenta por cabeza.
+
+No estamos diciendo que se rompa: estamos diciendo que el fabricante publicó un techo y que ese techo es el más bajo de los cuatro. En esta misma guía, el [Känn Livet de resortes pocket](/producto/colchon-kann-livet-kl-aureo-2-plazas-140x200-resortes-pocket-y-pillow-top-mla54221370) declara 300 kg y cuesta menos.
+
+## El memory foam y la densidad
+
+Es el único de la comparativa que declara **memory foam**, la espuma viscoelástica que se amolda al cuerpo y vuelve despacio.
+
+También declara **31 kg/m³ de densidad**, contra los 26 del Känn Livet. Son los dos únicos que publican ese dato, así que no podemos ordenar a los cuatro por densidad. Entre esos dos, más densidad suele significar más durabilidad.
+
+## El miedo a la caja, contado por los que lo compraron
+
+El patrón más lindo de sus reseñas es la desconfianza inicial, que aparece una y otra vez y siempre termina igual.
+
+"Lo compré con toda la desconfianza del mundo porque un colchón de 2 plazas enrollado no es algo a lo que estemos acostumbrados. **Hasta la segunda foto me quería matar, era un acolchado.** Pero lo saqué del paquete e hizo su magia."
+
+Otro: "le tenía poca fe a algo que viene enrollado aplastado en una caja, pero al abrirlo recupera su forma y su firmeza".
+
+Si es tu primer colchón en caja, esa es la experiencia esperable: llega mucho más chico de lo que imaginás y se expande.`,
+    faq: [
+      { question: "¿Cuánto peso soporta el colchón YOLO by Simmons?", answer: "Su ficha declara 100 kg de peso máximo soportado, el más bajo de esta comparativa. Es un colchón de dos plazas, así que conviene tenerlo presente. El Känn Livet de resortes pocket del mismo grupo declara 300 kg y cuesta menos." },
+      { question: "¿El YOLO by Simmons es duro o blando?", answer: "Su ficha declara firmeza media, la única del grupo que no dice firme, pero sus compradores lo describen como duro con una capa fina blanda arriba. Uno avisa directamente que no es como recostarse en una nube. Si venís de un colchón de resortes hundido, el cambio se nota." },
+      { question: "¿Qué es el memory foam?", answer: "Es espuma viscoelástica que se amolda al cuerpo y recupera la forma despacio. El YOLO es el único de esta comparativa que lo declara en su ficha. También declara 31 kg/m³ de densidad, más que los 26 del Känn Livet, que es el otro que publica ese dato." },
+      { question: "¿Cómo llega un colchón en caja?", answer: "Comprimido y enrollado, mucho más chico de lo que uno espera. Es la sorpresa que más aparece en sus reseñas: un comprador cuenta que al ver la caja creyó que le habían mandado un acolchado. Se saca del envoltorio y recupera la forma; conviene darle tiempo antes de juzgarlo." },
+    ],
+  },
 ];
 
 export const categoryPastels: Record<string, string> = {
