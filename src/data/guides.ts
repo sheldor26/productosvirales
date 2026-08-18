@@ -24929,7 +24929,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "p", content: `Esa reseña la define mejor que cualquier ficha. Otro comprador es igual de claro: "un poco frágil para la playa pero para el patio me funciona". Es una buena compra si sabés que estás comprando sombra liviana, no una estructura para el viento.` },
 
       { type: "h3", title: `3. Virke Ibiza: la más barata y la más liviana`, bigNumber: true },
-      { type: "product-card", productMlaId: "MLA44069333", label: "La más barata", labelColor: "slate", ranking: 3, description: `1,5 metros, 900 gramos y tela impermeable. La más barata y la más liviana de la comparativa, con una contradicción de material que conviene leer abajo.` },
+      { type: "product-card", productMlaId: "MLA44069333", label: "La más barata", labelColor: "slate", ranking: 3, description: `1,5 metros, 900 gramos y tela impermeable. La más barata y la más liviana de las cinco que declaran peso, con una contradicción de material que conviene leer abajo.` },
       { type: "p", content: `La [Virke Ibiza](/producto/sombrilla-playa-reforzada-acero-180cm-color-verde-y-azul-virke-ibiza-mla44069333) es la más barata de las cinco y pesa 900 gramos, menos que un litro de agua. A ese precio declara tela impermeable, que suele ser de lo primero que se recorta en la gama de entrada.` },
       { type: "bad", content: `**Su propia publicación se contradice sobre el material.** La ficha técnica declara estructura de **aluminio**, pero el título de la publicación dice **acero**. Son dos datos del mismo vendedor que no pueden ser ciertos a la vez, y no hay forma de resolverlo desde afuera: si el material te importa (en la playa importa, porque el acero se oxida con la sal), preguntáselo al vendedor por MercadoLibre antes de comprar. La respuesta queda escrita en la publicación.` },
       { type: "p", content: `Con 1,5 metros de diámetro alcanza para dos personas sentadas, y con {{reviews:MLA44069333}} opiniones y {{rating:MLA44069333}} estrellas tiene respaldo suficiente para saber qué esperar.` },
@@ -25900,7 +25900,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "p", content: `Sus compradores son notablemente honestos sobre lo que compraron. *"Por ser la más barata, está perfecta"*, escribe una. Otro: *"si bien la lata no es la más gruesa, tampoco podemos exigir tanto por el precio"*. Y la contra técnica llega envuelta en una broma que igual sirve: *"las termocuplas son tan rápidas como un caracol"*, o sea que hay que sostener la perilla apretada un rato al encender.` },
 
       { type: "h3", title: `4. Siam Essential — para el hueco angosto` },
-      { type: "product-card", productMlaId: "MLA61348769", label: "Para hueco angosto", labelColor: "blue", ranking: 4, description: `49,3 cm de ancho y 25 kg: la más angosta y la más liviana de la comparativa, y multigas.` },
+      { type: "product-card", productMlaId: "MLA61348769", label: "Para hueco angosto", labelColor: "blue", ranking: 4, description: `49,3 cm de ancho y 25 kg: la más angosta y la más liviana de las cinco que declaran peso, y multigas.` },
       { type: "p", content: `La [Siam Essential](/producto/cocina-siam-essential-csi-cn50p-49-cm-multigas-4-hornallas-mla61348769) sale alrededor de {{precio:MLA61348769}}, con **{{rating:MLA61348769}} estrellas en {{reviews:MLA61348769}} opiniones**. Con **49,3 cm de ancho** es la más angosta del grupo, y con 25 kg la más liviana. Si el problema es el hueco entre muebles, esa es toda la conversación.` },
       { type: "p", content: `Lo honesto, y no es del equipo sino de la publicación: **su ficha declara un horno de 573 litros**. En una cocina de 49,3 x 55,6 x 85 cm eso es más volumen que el mueble entero, así que es un error de carga, casi con seguridad un 57,3 mal escrito. Lo decimos porque el dato está publicado y alguien puede tomarlo en serio al comparar. La única referencia práctica que tenemos es de una compradora: *"el horno un poco justo"*.` },
 
@@ -26212,6 +26212,265 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     ],
     internalLinksTitle: "Más de hogar",
   },
+  {
+    slug: "bordeadora-electrica",
+    category: "bordeadoras",
+    silo: "hogar-jardin",
+    pillar: true,
+    title: `Bordeadora eléctrica: cuál comprar en Argentina [2026]`,
+    seoTitle: `Bordeadora Eléctrica: Cuál Comprar en Argentina [2026]`,
+    metaDescription: `Comparamos 6 bordeadoras eléctricas reales de MercadoLibre: la más elegida tiene 1.500 W y sale menos que dos modelos de menor potencia.`,
+    ogTitle: `Bordeadora eléctrica: cuál comprar en Argentina`,
+    ogDescription: `6 bordeadoras comparadas por potencia, ancho de corte, peso y ruido. La de más de 26.000 opiniones es también de las más baratas, y no trae arnés.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_907115-MLA100006958249_122025-O.webp`,
+    h1: `Bordeadora eléctrica: cuál comprar en Argentina y qué mirar antes [2026]`,
+    directAnswer: `Para la mayoría conviene la **[Tramontina de 1.500 W](/producto/bordeadora-electrica-tramontina-1500-w-corte-de-28-cm-eje-recto-85-db-mla9096807)** (alrededor de {{precio:MLA9096807:k}}): es la más potente de esta comparativa, la más elegida por lejos con más de 26.000 opiniones, y aun así cuesta menos que dos modelos de menor potencia. Si el jardín es chico, la **[Gamma G3079AR](/producto/bordeadora-electrica-gamma-g3079ar-300-w-corte-de-22-cm-1-2-kg-mla19812920)** de 1,2 kg. Si no querés cable, la **[Daewoo inalámbrica](/producto/bordeadora-inalambrica-daewoo-dalbc-20wh-4-en-1-21v-con-ruedas-y-2-baterias-mla53401442)**, con la salvedad de que corta 15 cm.`,
+    publishedDate: "2026-10-19",
+    updatedDate: "2026-10-19",
+    hasDisclosure: true,
+    readingTime: 11,
+    standfirst: `Una bordeadora eléctrica va de {{precio:MLA19812920:k}} a {{precio:MLA15841017:k}}. Comparamos 6 modelos reales de MercadoLibre Argentina por **potencia, ancho de corte, peso, ruido declarado y si traen arnés**, con contras sacadas de reseñas verdaderas, dentro de nuestro silo de [Hogar y Jardín](/categoria/hogar-jardin).`,
+    quickPicks: [
+      { productMlaId: "MLA9096807", label: "La más elegida", labelColor: "green", tagline: "Tramontina 1.500 W: más de 26.000 opiniones y 85 dB, la más silenciosa de las que lo declaran" },
+      { productMlaId: "MLA19812920", label: "Para jardín chico", labelColor: "slate", tagline: "Gamma G3079AR: 1,2 kg y la más barata de la comparativa" },
+      { productMlaId: "MLA53401442", label: "Sin cable", labelColor: "blue", tagline: "Daewoo 4 en 1: dos baterías de 21V, ruedas y cuchillas incluidas" },
+      { productMlaId: "MLA15841017", label: "La premium", labelColor: "purple", tagline: "Black+Decker GL1000: cabezal ajustable y certificado eléctrico declarado" },
+    ],
+    intro: [
+      `Elegir una **bordeadora eléctrica** parece una decisión de potencia y termina siendo una de peso y de ruido. Los watts se leen en el título; los kilos y los decibeles están abajo en la ficha, y son los que decidís si terminás el jardín cómodo o arrepentido a los veinte minutos.`,
+      `Comparamos 6 bordeadoras reales de MercadoLibre Argentina y verificamos, una por una, qué declara su ficha técnica sobre potencia, ancho de corte, peso, nivel de ruido y accesorios. Apareció algo que conviene saber antes de mirar precios: **la más elegida del grupo es también la más potente, y sale menos que dos modelos de menor potencia**.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_907115-MLA100006958249_122025-O.webp", alt: `Bordeadora eléctrica de eje recto cortando el borde del césped en un jardín`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Si no querés leer toda la comparativa: la **[Tramontina de 1.500 W](/producto/bordeadora-electrica-tramontina-1500-w-corte-de-28-cm-eje-recto-85-db-mla9096807)** es la más elegida por lejos y la más potente de las seis. Corta 28 cm, pesa 2,62 kg y declara **85 dB**, once menos que las dos Gamma. La contra a saber antes de comprar: **no trae arnés**, y su propia ficha lo dice.` },
+
+      { type: "callout", calloutVariant: "warning", calloutTitle: "Más watts no siempre cuesta más", content: `La **[Tramontina de 1.500 W](/producto/bordeadora-electrica-tramontina-1500-w-corte-de-28-cm-eje-recto-85-db-mla9096807)** cuesta {{precio:MLA9096807:k}}. La **[Gamma G3081AR](/producto/bordeadora-electrica-gamma-g3081ar-1000-w-corte-de-35-cm-con-arnes-mla14737979)**, con 1.000 W, cuesta {{precio:MLA14737979:k}}. Y la **[Black+Decker GL1000](/producto/bordeadora-electrica-black-decker-gl1000-900-w-corte-de-35-cm-cabezal-ajustable-mla15841017)**, con 900 W, cuesta {{precio:MLA15841017:k}}. O sea: **el modelo más potente de esta comparativa no es el más caro, y por bastante**. Lo que pagás de más en las otras dos es ancho de corte (35 cm contra 28) y, en el caso de la Black+Decker, marca con service y certificado eléctrico declarado.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** partimos del rubro de bordeadoras de MercadoLibre Argentina y verificamos cada publicación en vivo el 2026-08-17: precio, stock, ficha técnica campo por campo y reseñas de compradores. Miramos especialmente cinco campos que deciden la compra y que casi nadie destaca: **potencia real**, **ancho de corte**, **peso**, **nivel de ruido declarado** y **si trae arnés**. Cuando un dato no está en la ficha, lo decimos en vez de estimarlo. Cuando algo sale de una reseña y no de la ficha, también lo aclaramos. Los precios se verifican automáticamente contra MercadoLibre.` },
+
+      { type: "h2", title: `Los cinco datos que deciden la compra`, id: "que-mirar" },
+      { type: "p", content: `**Potencia.** Va de 300 W a 1.500 W en esta comparativa. Para bordes y pasto normal, 300 a 600 W alcanzan. Para pasto crecido o maleza, de 1.000 W para arriba.` },
+      { type: "p", content: `**Ancho de corte.** Es el que define cuántas pasadas hacés. Acá van de 15 cm a 35 cm: la diferencia entre la más angosta y la más ancha es **más del doble**, y eso se traduce directo en tiempo.` },
+      { type: "p", content: `**Peso.** El dato que más se subestima. Una bordeadora se sostiene con los brazos todo el tiempo que dure el trabajo. Entre la más liviana de las cinco que declaran peso (1,2 kg) y la más pesada (4,5 kg) hay casi cuatro veces de diferencia.` },
+      { type: "p", content: `**Ruido.** Solo tres de las seis publican el dato, y la diferencia es grande: 85 dB contra 96 dB. Once decibeles no es un detalle, es la diferencia entre poder cortar un domingo temprano o no.` },
+      { type: "p", content: `**Arnés.** Con equipos de 2,6 kg o más, el arnés cambia la experiencia. Y no todas lo traen: la más elegida del grupo, no.` },
+
+      { type: "h2", title: `Comparativa rápida: las 6 frente a frente`, id: "tabla-comparativa" },
+      { type: "table", headers: ["Modelo", "Potencia", "Corte", "Peso", "Ruido", "Ideal para"], rows: [
+        ["[Tramontina 1500 W](https://meli.la/2EeUCb3)", "1.500 W", "28 cm", "2,62 kg", "85 dB", "La mayoría: potencia sin pagar de más"],
+        ["[Tramontina AP1000T](https://meli.la/1TFB942)", "1.000 W", "28 cm", "2,7 kg", "No lo publica", "Patio normal, con carrete incluido"],
+        ["[Gamma G3081AR](https://meli.la/31uqt5H)", "1.000 W", "35 cm", "4,5 kg", "96 dB", "Maleza dura, y viene con arnés"],
+        ["[Gamma G3079AR](https://meli.la/1nqLKXA)", "300 W", "22 cm", "1,2 kg", "96 dB", "Jardín chico y poco peso"],
+        ["[Daewoo DALBC-20WH](https://meli.la/1ut5vfH)", "450 W", "15 cm", "No lo publica", "No lo publica", "Quien no quiere cable"],
+        ["[Black+Decker GL1000](https://meli.la/1pfLFiq)", "900 W", "35 cm", "3,1 kg", "No lo publica", "Marca con service y cabezal ajustable"],
+      ] },
+      { type: "p", content: `El nombre de cada modelo lleva directo a su publicación en MercadoLibre. Abajo está el detalle de las seis, en el mismo orden: qué hace bien cada una y dónde se queda corta.` },
+
+      { type: "h2", title: `El ranking`, id: "ranking" },
+
+      { type: "h3", title: `1. Tramontina 1500 W` },
+      { type: "product-card", productMlaId: "MLA9096807", label: "La más elegida", labelColor: "green", ranking: 1, description: "1.500 W, corte de 28 cm y 85 dB declarados. Más de 26.000 opiniones con {{rating:MLA9096807}} de promedio: el respaldo más grande de esta comparativa por lejos." },
+      { type: "p", content: `Es la bordeadora con más respaldo de esta comparativa y no está cerca: **{{reviews:MLA9096807}} opiniones**, más de cinco veces la segunda. Con 1.500 W es la más potente del grupo, y sin embargo cuesta menos que la Gamma de 1.000 W y bastante menos que la Black+Decker de 900 W.` },
+      { type: "p", content: `Los 85 dB son el dato que menos se mira y más se agradece: las dos Gamma declaran 96, y once decibeles de diferencia se notan. Suma alimentación de tanza **automática y manual**, las dos, algo que valoran varios compradores.` },
+      { type: "pull-quote", content: `"El cortador es muy bueno y muy potente. La única desventaja que puedo señalar es que no viene con un cinturón de soporte."`, attribution: `Comprador de la Tramontina 1500 W, calificación 5/5` },
+      { type: "p", content: `Esa es la contra real y su propia ficha la confirma: declara **"Incluye accesorios: No"**. En un equipo de 2,62 kg con eje recto, el arnés se extraña. Si vas a cortar mucho, presupuestá uno aparte o mirá la Gamma G3081AR, que sí lo trae.` },
+
+      { type: "h3", title: `2. Tramontina AP1000T` },
+      { type: "product-card", productMlaId: "MLA9075289", label: "La mejor puntuada", labelColor: "blue", ranking: 2, description: "1.000 W con el mismo corte de 28 cm y el mismo eje recto que su hermana mayor, más carrete incluido. Es la nota más alta de la comparativa: {{rating:MLA9075289}}." },
+      { type: "p", content: `Es la **mejor puntuada de las seis** y la más barata de las dos Tramontina. Comparte lo que importa con la de 1.500 W: mismo ancho de corte, mismo eje recto, misma alimentación de tanza doble. A cambio de 500 W menos, trae **carrete incluido**, que la otra no.` },
+      { type: "pull-quote", content: `"Pude cuidar de este jardín sola. Cuando la hierba está muy alta, es bueno ir cortando por encima y bajando poco a poco. A veces, el nylon se me atasca."`, attribution: `Compradora de la Tramontina AP1000T, calificación 5/5` },
+      { type: "p", content: `El atasco de tanza es la queja recurrente del rubro entero, no de este modelo en particular: otra compradora cuenta que estuvo por comprar otra marca justamente "por los comentarios reiterados de la dificultad de la tanza".` },
+
+      { type: "h3", title: `3. Gamma G3081AR` },
+      { type: "product-card", productMlaId: "MLA14737979", label: "Para maleza", labelColor: "purple", ranking: 3, description: "Corte de 35 cm, el más ancho de esta guía junto con la Black+Decker, y arnés incluido. Tanza de hasta 2 mm con doble salida." },
+      { type: "p", content: `Su razón de ser es el **corte de 35 cm** y que **viene con arnés**, justo lo que le falta a la Tramontina más elegida. Los compradores la describen bien: "lo más cercano que he probado a una motoguadaña en versión eléctrica".` },
+      { type: "pull-quote", content: `"Rústico pero útil. La ergonomía no es su punto fuerte y vibra bastante, es ruidosa. Pero es lo que necesitaba."`, attribution: `Comprador de la Gamma G3081AR, calificación 4/5` },
+      { type: "p", content: `Ahora, la honestidad manda decir el resto. Con **4,5 kg es la más pesada** de las cinco que declaran peso, declara **96 dB**, y otro comprador de 4 estrellas es lapidario: "es Gamma, sinónimo de medio pelo, el cañito es de lata pintada". Con 1.000 W sale más que la Tramontina de 1.500 W, y sus {{reviews:MLA14737979}} opiniones son el respaldo más chico de esta comparativa.` },
+
+      { type: "h3", title: `4. Gamma G3079AR` },
+      { type: "product-card", productMlaId: "MLA19812920", label: "La más barata", labelColor: "slate", ranking: 4, description: "300 W, 1,2 kg y corte de 22 cm. La más barata y la más liviana de las cinco que declaran peso, pensada para jardines chicos." },
+      { type: "p", content: `Es **la más barata del grupo por bastante margen** y **la más liviana de las cinco que declaran peso**, con 1,2 kg. Para un patio chico o para quien no quiere cargar peso, es la opción obvia. Trae 5 tanzas de repuesto y gira a 14.000 rpm, la velocidad más alta de la guía.` },
+      { type: "p", content: `Pero hay que comprarla sabiendo qué es: **300 W y tanza de 1 mm** son los números más bajos de la comparativa, y su {{rating:MLA19812920}} es la nota más baja de las seis. Una compradora lo resume sin vueltas: "tengo que correr la tanza muy seguido". Para bordes y pasto normal cumple; para maleza, no es esta.` },
+
+      { type: "h3", title: `5. Daewoo DALBC-20WH 4 en 1` },
+      { type: "product-card", productMlaId: "MLA53401442", label: "Sin cable", labelColor: "blue", ranking: 5, description: "La única inalámbrica de la comparativa: dos baterías de 21V, ruedas, cuchillas de metal y plásticas, hojas de sierra, gafas y guantes." },
+      { type: "p", content: `Es **la única inalámbrica de esta guía**, y ese es todo su argumento: sin cable no hay alargue que te limite ni que puedas cortar sin querer. El kit es generoso de verdad: dos baterías, cargador, cuchillas de metal y plásticas, hojas de sierra, ruedas, gafas y guantes.` },
+      { type: "p", content: `Dos cosas antes de decidir. Corta con **disco y cuchillas, no con tanza**, así que el consumible es otro. Y su **ancho de corte es de 15 cm**, el más angosto de la comparativa: menos de la mitad que las de 35 cm, o sea bastantes más pasadas. Una compradora midió 50 metros cuadrados en **tres cargas de batería**.` },
+
+      { type: "h3", title: `6. Black+Decker GL1000` },
+      { type: "product-card", productMlaId: "MLA15841017", label: "La premium", labelColor: "purple", ranking: 6, description: "900 W, corte de 35 cm y cabezal ajustable, la única que lo declara. Trae certificado de seguridad eléctrica con organismo identificado." },
+      { type: "p", content: `Es **la más cara de esta comparativa**, y conviene mirar bien qué compra esa diferencia. En potencia, menos: **900 W** contra los 1.500 W de la Tramontina que sale menos de la mitad. Lo que sí aporta es marca con service, **cabezal ajustable** (la única del grupo que lo declara), corte de 35 cm y un **certificado de seguridad eléctrica con organismo identificado**, que solo ella publica acá.` },
+      { type: "pull-quote", content: `"Ya corté tres veces un terreno de 700 metros y ni se mosqueó. Lo único, gasta tanza a lo loco."`, attribution: `Comprador de la Black+Decker GL1000, calificación 5/5` },
+      { type: "p", content: `El gasto de tanza es la queja más repetida, y va de la mano con otra: varios compradores terminan **anulando el avance automático** para controlarlo a mano. Su ficha además declara **"Con carcasa de protección: No"**.` },
+
+      { type: "h2", title: `Cómo elegir tu bordeadora`, id: "como-elegir" },
+      { type: "h3", title: `1. Primero medí el jardín, después mirá los watts` },
+      { type: "p", content: `Para bordes y un patio de casa, 300 a 600 W alcanzan y te ahorrás peso. Si el pasto se te crece entre corte y corte, o hay maleza, de 1.000 W para arriba. Comprar 1.500 W para bordear un cantero es cargar kilos al pedo.` },
+      { type: "h3", title: `2. El ancho de corte es tiempo` },
+      { type: "p", content: `Con 15 cm vas a pasar más del doble de veces que con 35 cm por la misma superficie. Si el jardín es grande, el ancho pesa más que la potencia.` },
+      { type: "h3", title: `3. Con cable o a batería` },
+      { type: "p", content: `Cinco de las seis van con cable de 220V. La única a batería es la Daewoo, y resuelve el problema del alargue a cambio de autonomía limitada y del ancho de corte más angosto del grupo. Si tu jardín está lejos del tomacorriente, esa es la decisión.` },
+      { type: "h3", title: `4. Fijate si trae arnés antes de comprar` },
+      { type: "p", content: `De las seis, **la Gamma G3081AR es la única que declara arnés** en su ficha. La Daewoo trae un kit generoso (cuchillas, ruedas, gafas, guantes) pero **ningún accesorio de sujeción**. Y la Tramontina de 1.500 W, la más elegida, declara explícitamente que no incluye accesorios. No es un problema si lo sabés antes.` },
+
+      { type: "h2", title: `Cuánto cuesta una bordeadora eléctrica en Argentina`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de {{precio:MLA19812920:k}}:** la [Gamma G3079AR](https://meli.la/1nqLKXA), la más barata de la comparativa, para jardín chico.`,
+        `**Entre {{precio:MLA9075289:k}} y {{precio:MLA9096807:k}}:** las dos [Tramontina](https://meli.la/2EeUCb3), que es donde está la mejor relación entre potencia, peso y respaldo.`,
+        `**Alrededor de {{precio:MLA14737979:k}} a {{precio:MLA53401442:k}}:** la [Gamma G3081AR](https://meli.la/31uqt5H) de 35 cm con arnés y la [Daewoo inalámbrica](https://meli.la/1ut5vfH).`,
+        `**Arriba de {{precio:MLA15841017:k}}:** la [Black+Decker GL1000](https://meli.la/1pfLFiq), la premium del grupo.`,
+      ] },
+
+      { type: "verdict", content: `Para la mayoría, la **Tramontina de 1.500 W**: es la más potente de la comparativa, la más elegida por lejos, la más silenciosa de las que declaran ruido, y cuesta menos que dos modelos de menor potencia. Compralá sabiendo que **no trae arnés**. Si el jardín es chico, la **Gamma G3079AR** por peso y precio. Si hay maleza y querés arnés incluido, la **Gamma G3081AR**, asumiendo sus 4,5 kg y sus 96 dB. Si no querés cable, la **Daewoo**, con 15 cm de corte. Y si buscás marca con service y cabezal ajustable, la **Black+Decker**, que gasta bastante tanza.` },
+
+      { type: "h2", title: `Preguntas frecuentes`, id: "faq" },
+    ],
+    faq: [
+      { question: `¿Cuál es la mejor bordeadora eléctrica en Argentina?`, answer: `Por respaldo de compradores, la [Tramontina de 1.500 W](/producto/bordeadora-electrica-tramontina-1500-w-corte-de-28-cm-eje-recto-85-db-mla9096807): tiene {{reviews:MLA9096807}} opiniones con {{rating:MLA9096807}} de promedio, más de cinco veces la segunda de esta comparativa. Además es la más potente de las seis y declara 85 dB, once menos que las dos Gamma. Su contra es que no trae arnés, y su propia ficha lo aclara.` },
+      { question: `¿Cuántos watts necesita una bordeadora?`, answer: `Depende del jardín, no del catálogo. Para bordes y pasto normal de un patio de casa, 300 a 600 W alcanzan y pesan mucho menos. Para pasto crecido o maleza dura, conviene de 1.000 W para arriba. En esta comparativa el rango va de 300 W a 1.500 W.` },
+      { question: `¿Conviene una bordeadora con cable o a batería?`, answer: `Cinco de las seis de esta guía van con cable de 220V, y una sola es a batería. La inalámbrica resuelve el alargue, que es una molestia real, pero paga dos precios: autonomía limitada (una compradora usó tres cargas para 50 metros cuadrados) y el ancho de corte más angosto del grupo, 15 cm. Si el jardín está lejos del tomacorriente, la batería gana igual.` },
+      { question: `¿Qué diferencia hay entre eje recto y eje curvo?`, answer: `El eje recto llega mejor debajo de arbustos y sirve para gente alta porque no obliga a agacharse; el curvo es más manejable en bordes y espacios cerrados. En esta comparativa las dos Tramontina y la Daewoo son de eje recto, y las dos Gamma y la Black+Decker son de eje curvo.` },
+      { question: `¿Las bordeadoras eléctricas traen arnés?`, answer: `No todas, y conviene chequearlo. De las seis de esta guía, la Gamma G3081AR trae arnés y llave Allen, y la Daewoo trae un kit con ruedas, gafas y guantes. La Tramontina de 1.500 W, que es la más elegida, declara "Incluye accesorios: No", y varios compradores lo mencionan como su única desventaja.` },
+      { question: `¿Cuánto ruido hace una bordeadora eléctrica?`, answer: `Solo tres de las seis publican el dato, así que no se puede comparar todo el grupo. Las que sí lo declaran: la Tramontina de 1.500 W dice 85 dB, y las dos Gamma dicen 96 dB. Once decibeles es una diferencia grande en la práctica, sobre todo si cortás temprano o en un barrio con vecinos cerca.` },
+    ],
+    internalLinks: [
+      { label: "Cortadora de césped: cuál comprar", href: "/guias/hogar-jardin/cortadora-de-cesped" },
+      { label: "Estantería flotante: cuál comprar", href: "/guias/hogar-jardin/estanteria-flotante" },
+      { label: "Zapatero: cuál comprar en Argentina", href: "/guias/hogar-jardin/zapatero" },
+    ],
+    internalLinksTitle: "Más de hogar y jardín",
+  },
+  {
+    slug: "cortadora-de-cesped",
+    category: "cortadoras-de-cesped",
+    silo: "hogar-jardin",
+    pillar: true,
+    title: `Cortadora de césped: cuál comprar en Argentina [2026]`,
+    seoTitle: `Cortadora de Césped: Cuál Comprar en Argentina [2026]`,
+    metaDescription: `Comparamos 6 cortadoras de césped eléctricas reales de MercadoLibre por ancho de corte, bolsa, potencia y peso, con las contras que dicen los compradores.`,
+    ogTitle: `Cortadora de césped: cuál comprar en Argentina`,
+    ogDescription: `6 cortadoras comparadas por ancho de corte, capacidad de bolsa, potencia y peso. La más potente es la que peor terminación tiene, y lo dicen sus propios compradores.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_945377-MLA110419596733_042026-O.webp`,
+    h1: `Cortadora de césped: cuál comprar en Argentina y qué mirar antes [2026]`,
+    directAnswer: `Para la mayoría conviene la **[Lüsqtoff LCO-1640B](/producto/cortadora-de-cesped-electrica-lusqtoff-lco-1640b-1600-w-corte-de-40-cm-bolsa-de-mla15257170)** (alrededor de {{precio:MLA15257170:k}}): combina 40 cm de ancho de corte con la bolsa más grande de esta comparativa, 40 litros, que son las dos cosas que hacen que termines antes. Si el jardín es chico, la **[Gamma G4950](/producto/cortadora-de-cesped-electrica-gamma-g4950-1200-w-corte-de-32-cm-8-kg-mla46949841)**, la más barata y de 8 kg. Si hay pasto salvaje, la **[Dibra R60](/producto/cortadora-de-cesped-electrica-dibra-r60-2100-w-corte-de-44-cm-carcasa-de-acero-mla28534744)** de 2.100 W, asumiendo que sus plásticos son el punto flojo.`,
+    publishedDate: "2026-10-26",
+    updatedDate: "2026-10-26",
+    hasDisclosure: true,
+    readingTime: 11,
+    standfirst: `Una cortadora de césped eléctrica va de {{precio:MLA46949841:k}} a {{precio:MLA28534744:k}}. Comparamos 6 modelos reales de MercadoLibre Argentina por **ancho de corte, capacidad de la bolsa, potencia, peso y material de la carcasa**, con contras sacadas de reseñas verdaderas, dentro de nuestro silo de [Hogar y Jardín](/categoria/hogar-jardin).`,
+    quickPicks: [
+      { productMlaId: "MLA15257170", label: "La más elegida", labelColor: "green", tagline: "Lüsqtoff LCO-1640B: 40 cm de corte y la bolsa más grande del grupo, 40 litros" },
+      { productMlaId: "MLA46949841", label: "La más barata", labelColor: "slate", tagline: "Gamma G4950: 8 kg y el precio más bajo de la comparativa" },
+      { productMlaId: "MLA28534744", label: "Para pasto salvaje", labelColor: "purple", tagline: "Dibra R60: 2.100 W, 44 cm de corte y la única carcasa de acero" },
+      { productMlaId: "MLA45600416", label: "Para corte alto", labelColor: "amber", tagline: "Nebraska NEMECP1200: llega a 6,8 cm, el máximo más alto de las que lo declaran" },
+    ],
+    intro: [
+      `Elegir una **cortadora de césped** parece una decisión de potencia y termina siendo una de logística. Los watts se leen en el título; el ancho de corte y el tamaño de la bolsa están abajo en la ficha, y son los dos que deciden si cortás el jardín de una sentada o si vas a estar parando cada dos pasadas a vaciar el canasto.`,
+      `Comparamos 6 cortadoras eléctricas reales de MercadoLibre Argentina y verificamos, una por una, qué declara su ficha técnica. Apareció algo que conviene saber antes de mirar precios: **la más potente del grupo, y la de corte más ancho entre las que lo declaran, es también la que peor terminación tiene**, y lo dicen sus propios compradores.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_945377-MLA110419596733_042026-O.webp", alt: `Cortadora de césped eléctrica con bolsa recolectora sobre pasto recién cortado`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Si no querés leer toda la comparativa: la **[Lüsqtoff LCO-1640B](/producto/cortadora-de-cesped-electrica-lusqtoff-lco-1640b-1600-w-corte-de-40-cm-bolsa-de-mla15257170)** es la más elegida de las seis y la que junta la bolsa más grande de las seis con uno de los cortes más anchos: **40 cm y 40 litros**. La contra a saber antes de comprar: **varios compradores avisan que el producto que reciben no es el de la foto** de la publicación, aunque coinciden en que funciona bien.` },
+
+      { type: "callout", calloutVariant: "warning", calloutTitle: "La bolsa importa tanto como el ancho de corte", content: `Es el dato que casi nadie mira y el que más define cuánto tardás. La **[Lüsqtoff](/producto/cortadora-de-cesped-electrica-lusqtoff-lco-1640b-1600-w-corte-de-40-cm-bolsa-de-mla15257170)** trae **40 litros**. La **[Dibra R60](/producto/cortadora-de-cesped-electrica-dibra-r60-2100-w-corte-de-44-cm-carcasa-de-acero-mla28534744)**, que es la más cara del grupo y la de corte más ancho entre las cinco que lo declaran, trae **20 litros**: la mitad. O sea que la máquina que más pasto levanta por pasada es también la que más seguido te obliga a parar a vaciarla. Si el jardín es grande, ese detalle te cambia la tarde.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** partimos del rubro de cortadoras de césped de MercadoLibre Argentina y verificamos cada publicación en vivo el 2026-08-17: precio, stock, ficha técnica campo por campo y reseñas de compradores. Miramos especialmente cinco campos que deciden la compra: **ancho de corte**, **capacidad de la bolsa recolectora**, **potencia**, **peso** y **material de la carcasa**. Cuando un dato no está en la ficha, o está cargado mal, lo decimos en vez de repetirlo: tres de estas seis publicaciones tienen algún campo mal etiquetado, y lo aclaramos en cada caso. Los precios se verifican automáticamente contra MercadoLibre.` },
+
+      { type: "h2", title: `Los cinco datos que deciden la compra`, id: "que-mirar" },
+      { type: "p", content: `**Ancho de corte.** Define cuántas pasadas hacés. Acá va de 32 cm a 44 cm entre las cinco que lo declaran: no parece mucho, pero sobre 300 metros cuadrados esa diferencia son varias vueltas menos.` },
+      { type: "p", content: `**Capacidad de la bolsa.** El dato más subestimado del rubro. Va de 20 a 40 litros en esta comparativa, el doble entre una y otra. Cortar es rápido; vaciar el canasto es lo que hace largo el trabajo.` },
+      { type: "p", content: `**Potencia.** De 1.200 W a 2.100 W acá. Para pasto que cortás seguido, 1.200 W alcanzan de sobra. Si dejás pasar semanas y se te crece, ahí sí se nota el motor grande.` },
+      { type: "p", content: `**Peso.** Entre la más liviana de las cinco que declaran peso (8 kg) y la más pesada (19 kg) hay más del doble. Una cortadora se empuja, no se carga, pero el peso decide si podés levantarla sola para guardarla o subirla un escalón.` },
+      { type: "p", content: `**Material de la carcasa.** Cinco de las seis son de plástico y una sola de acero. El plástico no es descalificante —las reseñas de las plásticas son buenas— pero el acero aguanta mejor el golpe contra un cordón o una raíz.` },
+
+      { type: "h2", title: `Comparativa rápida: las 6 frente a frente`, id: "tabla-comparativa" },
+      { type: "table", headers: ["Modelo", "Potencia", "Corte", "Bolsa", "Peso", "Ideal para"], rows: [
+        ["[Lüsqtoff LCO-1640B](https://meli.la/2pgPkhe)", "1.600 W", "40 cm", "40 L", "12 kg", "La mayoría: ancho y bolsa grande juntos"],
+        ["[Wadfow WEN32014](https://meli.la/1onuQn3)", "1.200 W", "32 cm", "30 L", "No lo publica bien", "Quien busca precio y jardín mediano"],
+        ["[Dibra R60](https://meli.la/1xjZgfc)", "2.100 W", "44 cm", "20 L", "19 kg", "Pasto salvaje, y la única de acero"],
+        ["[Nebraska NEMECP1200](https://meli.la/1hsP3Gd)", "1.200 W", "No lo publica bien", "30 L", "8 kg", "Corte alto, hasta 6,8 cm"],
+        ["[Gamma G4950](https://meli.la/2WXgKE2)", "1.200 W", "32 cm", "25 L", "8 kg", "Jardín chico y el precio más bajo"],
+        ["[Philco MJPCD116P](https://meli.la/2VqjEpu)", "1.300 W", "32 cm", "30 L", "12 kg", "Quien prefiere marca conocida"],
+      ] },
+      { type: "p", content: `El nombre de cada modelo lleva directo a su publicación en MercadoLibre. Abajo está el detalle de las seis, en el mismo orden: qué hace bien cada una y dónde se queda corta.` },
+
+      { type: "h2", title: `El ranking`, id: "ranking" },
+
+      { type: "h3", title: `1. Lüsqtoff LCO-1640B` },
+      { type: "product-card", productMlaId: "MLA15257170", label: "La más elegida", labelColor: "green", ranking: 1, description: "1.600 W, corte de 40 cm y bolsa de 40 litros, la más grande de esta comparativa. Es la más elegida de las seis, con {{rating:MLA15257170}} de promedio." },
+      { type: "p", content: `Es la que más compradores eligen de esta comparativa, con **{{reviews:MLA15257170}} opiniones**, y la razón se entiende mirando dos números juntos: **40 cm de ancho de corte** y **40 litros de bolsa**. Menos pasadas y menos paradas a vaciar. Suma **5 posiciones de corte**, de 2,5 a 6,5 cm, la regulación más fina después de la Dibra.` },
+      { type: "pull-quote", content: `"Lo primero es que no es la máquina de la foto ya que no tiene doble gatillo para encenderla. Por lo demás muy conforme, el motor tiene mucha fuerza."`, attribution: `Comprador de la Lüsqtoff LCO-1640B, calificación 4/5` },
+      { type: "p", content: `Esa es la contra concreta y no la dice uno solo: **al menos dos compradores distintos avisan que la máquina que reciben no coincide con la foto de la publicación**, que le falta el doble gatillo. Los dos aclaran que funciona perfecto igual, pero conviene comprarla sabiéndolo. Un tercero suma un detalle de uso real: es **liviana adelante**, así que con la bolsa cargada se le levanta el frente.` },
+
+      { type: "h3", title: `2. Wadfow WEN32014` },
+      { type: "product-card", productMlaId: "MLA40438853", label: "Precio y rendimiento", labelColor: "blue", ranking: 2, description: "1.200 W con corte de 32 cm y bolsa de 30 litros. Más de 400 opiniones con {{rating:MLA40438853}}: el segundo respaldo más grande del grupo." },
+      { type: "p", content: `Es la opción de precio con respaldo real, y las reseñas repiten todas la misma sorpresa: **rinde más de lo que su carcasa de plástico haría suponer**. Un comprador lo dice sin vueltas, que la eligió por barata y corta bárbaro. Otro la probó en pasto alto y duro en un jardín de 10 por 10 y confirma que la cuchilla viene filosa de fábrica.` },
+      { type: "pull-quote", content: `"Bien en líneas generales cumple. Solo la bolsa recolectora no se mantiene en su lugar. Podría tener un sistema de acople o sujeción mejor."`, attribution: `Comprador de la Wadfow WEN32014, calificación 4/5` },
+      { type: "p", content: `Esa queja de la bolsa que se sale es la más repetida de su ficha. Y hay un dato de transparencia: **su ficha técnica de ML declara un peso de 2 kg**, un valor imposible para una cortadora de 1.200 W, así que no lo damos por bueno ni lo usamos para compararla.` },
+
+      { type: "h3", title: `3. Dibra R60` },
+      { type: "product-card", productMlaId: "MLA28534744", label: "Para pasto salvaje", labelColor: "purple", ranking: 3, description: "2.100 W, la potencia más alta del grupo, y 44 cm de corte, el más ancho de las cinco que lo declaran. Única con carcasa de acero y 6 posiciones de altura." },
+      { type: "p", content: `En papel es la máquina más seria de esta comparativa: **2.100 W**, **44 cm de ancho de corte**, **6 posiciones** de altura y **la única carcasa de acero** de las seis. Los compradores son unánimes con el motor y hablan de potencia excelente y chasis firme. Su ficha declara además un **número de certificado de seguridad eléctrica**.` },
+      { type: "pull-quote", content: `"La máquina es muy buena. Como dicen todos, la palanca de plástico es demasiado berreta. La potencia del motor es excelente, se la re banca."`, attribution: `Comprador de la Dibra R60, calificación 4/5` },
+      { type: "p", content: `El "como dicen todos" de esa reseña resume el problema. **Los caños del manubrio y el pulsador son el punto flojo**, y aparece en reseña tras reseña: uno cuenta que en menos de un año se perdieron las contratuercas y el pulsador quedó flojo. Suma que **la cuchilla viene con muy poco filo**. Y es **la más cara del grupo por amplio margen**, más del doble que la Gamma. Con 20 litros tiene además la bolsa más chica de las seis, justo la que menos le conviene a la de corte más ancho.` },
+
+      { type: "h3", title: `4. Nebraska NEMECP1200` },
+      { type: "product-card", productMlaId: "MLA45600416", label: "Para corte alto", labelColor: "amber", ranking: 4, description: "1.200 W y 8 kg, con altura de corte de hasta 6,8 cm: el máximo más alto de las tres que declaran ese dato. Bolsa de 30 litros." },
+      { type: "p", content: `Su ventaja está en un dato que casi nadie mira: **llega hasta 6,8 cm de altura de corte**, el máximo más alto de las tres que lo declaran. Eso importa más de lo que parece, porque dejar el pasto un poco más largo le protege la raíz del sol y aguanta mejor las semanas de calor. Con **8 kg** empata como la más liviana de las cinco que declaran peso.` },
+      { type: "pull-quote", content: `"La altura más baja lo deja muy corto, con esta altura se llena rápido el cesto. El cesto recoge todo."`, attribution: `Compradora de la Nebraska NEMECP1200, calificación 4/5` },
+      { type: "p", content: `Las reseñas coinciden en que el armado es fácil incluso sin abrir el manual. La salvedad de transparencia: **su ficha de ML no publica bien el ancho de corte** —repite el valor de la altura mínima, 2,8 cm— así que ese número no lo damos por bueno y no la comparamos por ancho.` },
+
+      { type: "h3", title: `5. Gamma G4950` },
+      { type: "product-card", productMlaId: "MLA46949841", label: "La más barata", labelColor: "slate", ranking: 5, description: "La más barata de esta comparativa: 1.200 W, corte de 32 cm y 8 kg. Bolsa de 25 litros, pensada para jardines chicos y medianos." },
+      { type: "p", content: `Es **la más barata del grupo** y la que mejor resuelve el caso más común: un jardín chico o mediano, sin pasto salvaje. Con **8 kg** empata como la más liviana de las cinco que declaran peso, y eso se nota, varias reseñas destacan lo fácil que es armarla y maniobrarla.` },
+      { type: "pull-quote", content: `"Se la súper banca! 350 m2 de corte cada semana, relajado, despacio, deja una alfombra. Gran compra."`, attribution: `Comprador de la Gamma G4950, calificación 5/5` },
+      { type: "p", content: `Los peros son chicos pero reales y se repiten: **las ruedas son chicas**, y a veces **tira algo de pasto por arriba antes de que entre al canasto**. Con 25 litros la bolsa es de las más chicas de esta comparativa, así que en superficies grandes vas a parar más seguido.` },
+
+      { type: "h3", title: `6. Philco MJPCD116P` },
+      { type: "product-card", productMlaId: "MLA20727421", label: "Marca conocida", labelColor: "blue", ranking: 6, description: "1.300 W, corte de 32 cm y bolsa de 30 litros, con 12 kg. La opción de marca conocida, con el respaldo de reseñas más chico de las seis." },
+      { type: "p", content: `Es la opción de **marca conocida** de esta comparativa, con un perfil de máquina doméstica sin pretensiones: 1.300 W, 32 cm de corte y bolsa de 30 litros. Los compradores la describen como liviana, de tamaño justo y fácil de armar.` },
+      { type: "pull-quote", content: `"Tiene potencia suficiente para pastos medianamente largos, aunque si planeás cortar el pasto en intervalos muy largos, quizás te convenga optar por otra."`, attribution: `Comprador de la Philco MJPCD116P, calificación 4/5` },
+      { type: "p", content: `Esa reseña la ubica mejor que cualquier ficha. Dos cosas honestas antes de decidir: **la altura de corte se regula atornillando las ruedas**, no con una palanca, así que cambiarla lleva más trabajo que en el resto; y con **{{reviews:MLA20727421}} opiniones** tiene el respaldo más chico de esta comparativa, a un precio donde hay opciones con más historial.` },
+
+      { type: "h2", title: `Cómo elegir tu cortadora de césped`, id: "como-elegir" },
+      { type: "h3", title: `1. Primero medí el jardín, después mirá los watts` },
+      { type: "p", content: `Para un patio de casa que cortás cada semana o dos, 1.200 W alcanzan y te ahorrás peso y plata. Los 2.100 W tienen sentido si dejás pasar mucho tiempo entre cortes o si hay pasto que ya es maleza. Comprar el motor más grande para un jardín chico es pagar de más y empujar más kilos.` },
+      { type: "h3", title: `2. Mirá la bolsa antes que el ancho de corte` },
+      { type: "p", content: `Suena al revés, pero es así en la práctica. Un corte más ancho te ahorra pasadas; una bolsa más grande te ahorra paradas, y las paradas son las que rompen el ritmo. Entre los 20 litros de la Dibra y los 40 de la Lüsqtoff hay el doble de autonomía por vaciada.` },
+      { type: "h3", title: `3. El peso decide dónde la guardás` },
+      { type: "p", content: `Cortar es empujar, así que el peso pesa menos de lo que parece mientras trabajás. Donde sí se nota es después: levantarla para guardarla, subirla a un escalón o cargarla en el auto. Entre 8 y 19 kg hay una diferencia real si la vas a mover sola.` },
+      { type: "h3", title: `4. Chequeá qué campos declara la ficha` },
+      { type: "p", content: `De estas seis publicaciones, **tres tienen algún campo cargado mal**: la Nebraska declara un ancho de corte que en realidad es la altura mínima, la Wadfow dice pesar 2 kg, y la Dibra publica medidas de más de siete metros. No son máquinas peores por eso, pero sí conviene desconfiar de un número que no cierra en vez de tomarlo como dato.` },
+
+      { type: "h2", title: `Cuánto cuesta una cortadora de césped en Argentina`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de {{precio:MLA46949841:k}}:** la [Gamma G4950](https://meli.la/2WXgKE2), la más barata de la comparativa, para jardín chico.`,
+        `**Entre {{precio:MLA40438853:k}} y {{precio:MLA15257170:k}}:** la [Wadfow](https://meli.la/1onuQn3), la [Nebraska](https://meli.la/1hsP3Gd) y la [Lüsqtoff](https://meli.la/2pgPkhe), que es donde está la mejor relación entre corte, bolsa y respaldo.`,
+        `**Alrededor de {{precio:MLA20727421:k}}:** la [Philco](https://meli.la/2VqjEpu), la de marca conocida.`,
+        `**Arriba de {{precio:MLA28534744:k}}:** la [Dibra R60](https://meli.la/1xjZgfc), la más potente y la única de acero.`,
+      ] },
+
+      { type: "verdict", content: `Para la mayoría, la **Lüsqtoff LCO-1640B**: es la más elegida de la comparativa y la única que combina un corte ancho de 40 cm con la bolsa más grande del grupo. Compralá sabiendo que **varios compradores reportan que no llega igual a la foto**. Si el jardín es chico, la **Gamma G4950** por precio y peso. Si buscás precio con más respaldo, la **Wadfow**, asumiendo que la bolsa no queda bien sujeta. Si hay pasto salvaje y valorás el acero, la **Dibra R60**, sabiendo que los caños y el pulsador son su punto flojo. Si te importa dejar el pasto alto, la **Nebraska**. Y si preferís marca conocida, la **Philco**, con el respaldo de reseñas más chico de las seis.` },
+
+      { type: "h2", title: `Preguntas frecuentes`, id: "faq" },
+    ],
+    faq: [
+      { question: `¿Cuál es la mejor cortadora de césped en Argentina?`, answer: `Por respaldo de compradores, la [Lüsqtoff LCO-1640B](/producto/cortadora-de-cesped-electrica-lusqtoff-lco-1640b-1600-w-corte-de-40-cm-bolsa-de-mla15257170): tiene {{reviews:MLA15257170}} opiniones con {{rating:MLA15257170}} de promedio, el mayor respaldo de esta comparativa. Combina 40 cm de ancho de corte con la bolsa más grande del grupo, 40 litros. Su contra es que varios compradores avisan que el producto recibido no coincide con la foto de la publicación, aunque coinciden en que funciona bien.` },
+      { question: `¿Cuántos watts necesita una cortadora de césped?`, answer: `Depende de cada cuánto cortás, no del catálogo. Para un patio de casa que mantenés cada una o dos semanas, 1.200 W alcanzan de sobra. Si dejás pasar más tiempo y el pasto se te crece, o si hay maleza, conviene ir hacia 1.600 W o más. En esta comparativa el rango va de 1.200 W a 2.100 W.` },
+      { question: `¿Qué tamaño de bolsa recolectora conviene?`, answer: `Cuanto más grande, menos veces parás a vaciarla, y esa es la parte que hace largo el trabajo. En esta comparativa van de 20 a 40 litros. Para un jardín chico, 25 a 30 litros alcanzan. Para superficies grandes conviene apuntar a 40, sobre todo si el pasto está alto: varias reseñas mencionan que con pasto crecido el cesto se llena mucho más rápido de lo esperado.` },
+      { question: `¿A qué altura conviene cortar el césped?`, answer: `Dejarlo muy al ras expone la raíz al sol y lo hace sufrir más en verano. Por eso conviene tener posiciones altas disponibles. De las tres que declaran altura de corte en esta guía, la Nebraska llega a 6,8 cm, la Lüsqtoff a 6,5 cm y la Dibra a 5 cm. Una compradora de la Nebraska lo confirma desde el uso: en la altura más baja el pasto queda muy corto y el cesto se llena rápido.` },
+      { question: `¿Conviene una cortadora de plástico o de metal?`, answer: `Cinco de las seis de esta guía tienen carcasa de plástico y solo la Dibra R60 es de acero. El plástico no es descalificante: las reseñas de las plásticas son buenas y varios compradores se sorprenden de lo que rinden. El acero aguanta mejor los golpes contra cordones o raíces, pero en este caso viene con 19 kg de peso y con los plásticos del manubrio como punto flojo.` },
+      { question: `¿Las cortadoras eléctricas traen bolsa recolectora incluida?`, answer: `Las seis de esta comparativa la incluyen, así que no es un diferencial. Lo que sí cambia es la capacidad, que va de 20 a 40 litros, y la calidad del enganche: en la Wadfow la queja más repetida de los compradores es justamente que la bolsa no se mantiene bien en su lugar.` },
+    ],
+    internalLinks: [
+      { label: "Bordeadora eléctrica: cuál comprar", href: "/guias/hogar-jardin/bordeadora-electrica" },
+      { label: "Estantería flotante: cuál comprar", href: "/guias/hogar-jardin/estanteria-flotante" },
+      { label: "Zapatero: cuál comprar en Argentina", href: "/guias/hogar-jardin/zapatero" },
+    ],
+    internalLinksTitle: "Más de hogar y jardín",
+  },
 ];
 
 /**
@@ -26321,6 +26580,16 @@ export const guideCategories: Record<string, { name: string; description: string
     name: "Guía de Salamandras a Leña",
     description:
       "Calefactores a leña comparados por precio por caloría: cuánto sale de verdad la salida de humos, qué caños pide cada marca y quién declara el tipo de combustión.",
+  },
+  "bordeadoras": {
+    name: "Guía de Bordeadoras",
+    description:
+      "Bordeadoras eléctricas comparadas por lo que decide el uso real: potencia, ancho de corte, peso, ruido declarado y si traen arnés o hay que comprarlo aparte.",
+  },
+  "cortadoras-de-cesped": {
+    name: "Guía de Cortadoras de Césped",
+    description:
+      "Cortadoras de césped eléctricas comparadas por lo que decide el uso real: ancho de corte, capacidad de la bolsa recolectora, potencia, peso y material de la carcasa.",
   },
   "estanterias-flotantes": {
     name: "Guía de Estanterías Flotantes",
