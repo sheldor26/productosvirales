@@ -259,4 +259,34 @@ export const socialPosts: SocialPost[] = [
     offPct: "59",
     postedAt: "2026-08-17T10:38:59-03:00",
   },
+  {
+    title: "Maquina Depiladora Care by Gadnic D12",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_738903-MLA97019239613_112025-O.jpg",
+    affiliateUrl: "https://meli.la/2BTGCn1",
+    newPrice: "73.570",
+    oldPrice: "156.799",
+    offPct: "53",
+    postedAt: "2026-08-18T11:43:29-03:00",
+  },
+  {
+    title: "Humidificador de Ambiente Gadnic HM20B 2.2L",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_959929-MLA91555372060_092025-F.webp",
+    affiliateUrl: "https://meli.la/25VU32H",
+    newPrice: "71.049",
+    oldPrice: "133.349",
+    offPct: "46",
+    postedAt: "2026-08-18T11:43:29-03:00",
+  },
+  {
+    title: "Teclado HyperX Alloy Core RGB",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_694227-MLA99961920045_112025-F.jpg",
+    affiliateUrl: "https://meli.la/12X3kBR",
+    newPrice: "78.999",
+    oldPrice: "139.999",
+    offPct: "43",
+    postedAt: "2026-08-18T11:43:29-03:00",
+  },
 ];
