@@ -165,6 +165,29 @@ Este comando corre, en orden, y para en el primero que falle:
      frase comparativa ("5.0 con 3 opiniones (Netmak) no pesa igual que un 4.8
      con 4.486") hay dos productos: cada número lleva el ID del suyo. Atribuirle
      el conteo de un producto a otro es un error de honestidad, no de formato.
+     Ojo con las frases donde el número queda pegado al producto equivocado: en
+     la guía de termos, "el Lumilagro tiene más del cuádruple de calificaciones
+     que el Stanley (26.780)" tenía el conteo del **Lumilagro** escrito al lado
+     del Stanley. El más cercano no es el dueño.
+
+   El conteo no siempre va pegado a la palabra "opiniones". Estas cuatro formas
+   son la misma deuda y también van tokenizadas:
+
+   ```
+   Qué dicen los 7.137 compradores        → los {{reviews:ID}} compradores
+   68 opiniones contra 3.846              → {{reviews:A}} opiniones contra {{reviews:B}}
+   las 6.131 de la Escorial               → las {{reviews:ID}} de la Escorial
+   muy por debajo de la SX37 (8.606)      → muy por debajo de la SX37 ({{reviews:ID}})
+   ```
+
+   Las tres primeras las frena `check-hardcoded-reviews.cjs`. La cuarta (el
+   conteo entre paréntesis después del nombre) todavía no: si la escribís,
+   nadie te avisa.
+
+   **Los títulos `h2`/`h3` NO resuelven tokens.** `GuideRenderer` renderiza
+   `section.title` crudo y `slug.ts` arma el ancla con ese texto, así que un
+   `{{reviews:ID}}` en un título sale literal y ensucia el ancla y el índice.
+   En un título, usar el aproximado: "Qué dicen los más de 10.000 compradores".
 3. **`check-guide-monetization.cjs`** — toda guía tiene que tener al menos un
    `product-card`, un `quickPicks`, o un link de afiliado/ficha real. Sin
    excepciones: incluso una guía informativa ("cómo funciona", "ventajas y

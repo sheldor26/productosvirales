@@ -193,13 +193,21 @@ export default async function ProductPage({ params }: Props) {
         }
       : custom.aggregateRating;
 
+  const rawJsonLdDescription = (custom.description as string) || product.description;
+  const jsonLdDescription = rawJsonLdDescription
+    ? toPlainText(rawJsonLdDescription)
+    : undefined;
+
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Product",
     ...custom, // extras primero; los campos canónicos de abajo siempre ganan
     url: `https://productosvirales.com.ar${productHref(product)}`,
     name: product.canonicalName || (custom.name as string) || product.title,
-    description: (custom.description as string) || product.description,
+    // Mismo motivo que en generateMetadata: el JSON-LD es texto plano que lee
+    // Google. Sin resolver, un {{reviews:MLA…}} de `description` se publica tal
+    // cual en el structured data, donde nadie lo mira hasta que ya está leído.
+    description: jsonLdDescription,
     sku: product.id,
     ...(product.mpn ? { mpn: product.mpn } : {}),
     image: custom.image || product.images || product.image,

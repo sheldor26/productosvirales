@@ -3528,7 +3528,7 @@ Tener Cherry MX real es un diferencial técnico concreto frente a los switches g
 
 ## La contra real
 
-Acá va la honestidad completa: al momento de escribir esta guía, tiene solo {{reviews:MLAU2880692521}} opiniones en MercadoLibre. Es un dato real, no inventado, pero significa que el {{rating:MLAU2880692521}} se apoya en muy poco volumen comparado con las {{reviews:MLA24102185}} opiniones del [Dragonborn K630](/producto/teclado-dragonborn-k630-qwerty-red-negro-con-luz-rgb-espanol-idioma-espanol-lati-mla24102185) o las 666 del [Havit](/producto/teclado-gamer-havit-kb903l-mecanico-usb-c-60-switch-red-teclado-negro-mla46192536) de esta misma guía. Si preferís guiarte por un historial de reseñas más grande, esas dos opciones dan más certeza.
+Acá va la honestidad completa: al momento de escribir esta guía, tiene solo {{reviews:MLAU2880692521}} opiniones en MercadoLibre. Es un dato real, no inventado, pero significa que el {{rating:MLAU2880692521}} se apoya en muy poco volumen comparado con las {{reviews:MLA24102185}} opiniones del [Dragonborn K630](/producto/teclado-dragonborn-k630-qwerty-red-negro-con-luz-rgb-espanol-idioma-espanol-lati-mla24102185) o las {{reviews:MLA46192536}} del [Havit](/producto/teclado-gamer-havit-kb903l-mecanico-usb-c-60-switch-red-teclado-negro-mla46192536) de esta misma guía. Si preferís guiarte por un historial de reseñas más grande, esas dos opciones dan más certeza.
 
 ## Para quién sí y para quién no
 
@@ -9243,7 +9243,7 @@ El Blacksun CFH450 hace lo que promete: calor rápido y barato para un ambiente 
       },
       {
         question: "¿Conviene el Blacksun o el Heatcolor de Liliana?",
-        answer: "El Blacksun CFH450 es el más barato de la línea. El Heatcolor CFH501R cuesta apenas un poco más pero tiene mejor calificación: 4.6 estrellas en más de 1.500 opiniones contra 4.2 en 433 del Blacksun. Si podés estirar la diferencia, el Heatcolor es la apuesta más segura.",
+        answer: "El Blacksun CFH450 es el más barato de la línea. El Heatcolor CFH501R cuesta apenas un poco más pero tiene mejor calificación: {{rating:MLA34782966}} estrellas en más de 1.500 opiniones contra {{rating:MLA19540674}} en {{reviews:MLA19540674}} del Blacksun. Si podés estirar la diferencia, el Heatcolor es la apuesta más segura.",
       },
       {
         question: "¿Tiene modo ventilador para el verano?",
@@ -17401,7 +17401,7 @@ Es el repuesto que evita tirar un limpiavidrios magnético triangular que sigue 
       "3 modos de limpieza automática (arriba, izquierda y derecha) más modo manual por control remoto",
       "Succión de 2800 Pa: fabricante y reseñas coinciden en que sostiene el robot con firmeza incluso en vidrios altos",
       "Batería de respaldo (UPS) de hasta 20 minutos si se corta la luz, para bajarlo con la cuerda de seguridad sin apuro",
-      "Rating 4.5 con 162 reseñas, la base de opiniones más grande de este bloque de limpiavidrios robot (el Atma tiene 3.8 con 49)",
+      "Rating {{rating:MLA46931846}} con {{reviews:MLA46931846}} reseñas, la base de opiniones más grande de este bloque de limpiavidrios robot (el Atma tiene {{rating:MLA51170872}} con {{reviews:MLA51170872}})",
       "Descuento real del 29% sobre el precio de lista ($411.349 a $291.299)",
     ],
     cons: [
@@ -17411,7 +17411,7 @@ Es el repuesto que evita tirar un limpiavidrios magnético triangular que sigue 
       "Viene con un solo repuesto de paño de limpieza, y una reseña real dice que el service oficial no respondió bien ante esa consulta",
       "Sin envío gratis y sin control por app, solo control remoto por infrarrojos",
     ],
-    verdict: "A $291.299 (29% menos que el precio de lista), el Gadnic tiene mejor rating que el Atma (4.5 con 162 reseñas contra 3.8 con 49) y una batería de respaldo de 20 minutos si se corta la luz. Ojo con la letra chica: el manual del fabricante dice que no es apto para vidrios sin marco, así que si tu prioridad es limpiar ventanas de balcón sin marco, conviene mirar antes el Atma, que sí promete esa compatibilidad.",
+    verdict: "A $291.299 (29% menos que el precio de lista), el Gadnic tiene mejor rating que el Atma ({{rating:MLA46931846}} con {{reviews:MLA46931846}} reseñas contra {{rating:MLA51170872}} con {{reviews:MLA51170872}}) y una batería de respaldo de 20 minutos si se corta la luz. Ojo con la letra chica: el manual del fabricante dice que no es apto para vidrios sin marco, así que si tu prioridad es limpiar ventanas de balcón sin marco, conviene mirar antes el Atma, que sí promete esa compatibilidad.",
     bestOccasion: ["Casas y oficinas con varias ventanas o vidrios grandes con marco", "Quien busca el mejor rating y la base de opiniones más grande del bloque", "Quien quiere batería de respaldo ante cortes de luz"],
     notRecommendedFor: ["Vidrios sin marco o de balcón inaccesible (el fabricante no lo recomienda)", "Quien necesita control por app en vez de control remoto", "Quien no quiere tenerlo enchufado todo el rato de limpieza"],
     relatedProducts: ["MLA51170872", "MLA214572440"],
@@ -17432,7 +17432,7 @@ Es el repuesto que evita tirar un limpiavidrios magnético triangular que sigue 
       { question: "¿Es obligatorio usar la cuerda de seguridad?", answer: "Sí, el fabricante la exige como parte del uso seguro, atada a un objeto fijo dentro de la habitación, además de la batería de respaldo (UPS)." },
       { question: "¿Cuántos paños de repuesto trae?", answer: "Según una reseña real, viene con un solo set de paño de repuesto. Si necesitás más o se gasta rápido, hay que comprarlos aparte; la misma reseña dice que el service oficial no respondió bien ante esa consulta." },
       { question: "¿Deja marcas en el vidrio?", answer: "Puede dejar marcado el círculo de la ventosa al retirarlo. Una reseña real recomienda pasar un trapo seco en esa zona apenas termina la limpieza." },
-      { question: "¿Cómo se compara con el Atma del mismo catálogo?", answer: "El Gadnic tiene mejor rating (4.5 contra 3.8) y más reseñas (162 contra 49), pero según su manual solo sirve para vidrios con marco. El [Atma](/producto/robot-limpia-ventanas-atma-3-patrones-de-limpieza-doble-spray-apto-vidrios-con-y-mla51170872) promete explícitamente compatibilidad con vidrios con y sin marco." },
+      { question: "¿Cómo se compara con el Atma del mismo catálogo?", answer: "El Gadnic tiene mejor rating ({{rating:MLA46931846}} contra {{rating:MLA51170872}}) y más reseñas ({{reviews:MLA46931846}} contra {{reviews:MLA51170872}}), pero según su manual solo sirve para vidrios con marco. El [Atma](/producto/robot-limpia-ventanas-atma-3-patrones-de-limpieza-doble-spray-apto-vidrios-con-y-mla51170872) promete explícitamente compatibilidad con vidrios con y sin marco." },
     ],
     articleBody: `## Qué es y cómo funciona
 
@@ -17448,7 +17448,7 @@ Acá aparece la letra chica que conviene leer antes de comprar: el manual oficia
 
 ## Gadnic vs Atma: cuál conviene
 
-Dentro del mismo catálogo, el [Robot Limpia Ventanas Atma](/producto/robot-limpia-ventanas-atma-3-patrones-de-limpieza-doble-spray-apto-vidrios-con-y-mla51170872) ($399.999) hace la promesa contraria: dice explícitamente ser apto para vidrios con y sin marco. Tiene menos reseñas (49 contra 162) y un rating más bajo (3.8 contra 4.5 del Gadnic), pero si tu prioridad es ese uso sin marco, es la opción que lo respalda por escrito. El Gadnic gana en rating, en cantidad de opiniones y en precio ($291.299, un 29% menos que su lista), pero solo para vidrios con marco según su propio manual. Si tu ventana no tiene marco ni balcón y preferís no arriesgar, un [limpiavidrios magnético manual](/producto/limpia-vidrio-magnetico-profesional-triangular-y-respuestos-mla214572440) ($11.999) es la alternativa clásica y mucho más barata para ese caso puntual, aunque exige más trabajo de tu parte que un robot.
+Dentro del mismo catálogo, el [Robot Limpia Ventanas Atma](/producto/robot-limpia-ventanas-atma-3-patrones-de-limpieza-doble-spray-apto-vidrios-con-y-mla51170872) ($399.999) hace la promesa contraria: dice explícitamente ser apto para vidrios con y sin marco. Tiene menos reseñas ({{reviews:MLA51170872}} contra {{reviews:MLA46931846}}) y un rating más bajo ({{rating:MLA51170872}} contra {{rating:MLA46931846}} del Gadnic), pero si tu prioridad es ese uso sin marco, es la opción que lo respalda por escrito. El Gadnic gana en rating, en cantidad de opiniones y en precio ($291.299, un 29% menos que su lista), pero solo para vidrios con marco según su propio manual. Si tu ventana no tiene marco ni balcón y preferís no arriesgar, un [limpiavidrios magnético manual](/producto/limpia-vidrio-magnetico-profesional-triangular-y-respuestos-mla214572440) ($11.999) es la alternativa clásica y mucho más barata para ese caso puntual, aunque exige más trabajo de tu parte que un robot.
 
 ## Para quién sí y para quién no
 
@@ -29437,7 +29437,7 @@ No es coincidencia: la HD9270/91 y la [HD9280/90](/producto/airfryer-hd9280-90-e
 
 La diferencia es que la HD9280/90 agrega Wi-Fi, control desde NutriU y compatibilidad con Amazon Alexa. La HD9270/91 no tiene nada de eso. En términos de cocción, ambos deberían comportarse igual.
 
-Lo que sí cambia es el historial de ventas. La HD9270/91 acumuló 1.729 calificaciones, casi tres veces más que las 667 del HD9280/90. Se vendió mucho más porque estuvo disponible antes y a mejores precios en períodos anteriores.
+Lo que sí cambia es el historial de ventas. La HD9270/91 acumuló {{reviews:MLA19630911}} calificaciones, casi tres veces más que las {{reviews:MLA19630913}} del HD9280/90. Se vendió mucho más porque estuvo disponible antes y a mejores precios en períodos anteriores.
 
 ## La paradoja del precio
 
@@ -44773,7 +44773,7 @@ La Nespresso Lattissima One blanca cuesta $515.880 y es la premium del sistema N
 
 ## Una aclaración honesta sobre las opiniones
 
-Antes de seguir: esta publicación tiene 20 calificaciones. Es muchísimo menos que las 2.663 de la Essenza Mini o las 130 de la Citiz & Milk. El promedio es alto (4.8, con 18 de 20 dando 5 estrellas), pero la muestra es chica. No vamos a inflar el respaldo que no tiene: el análisis se apoya en las specs, en lo que es el sistema Nespresso y en las pocas opiniones reales que sí existen.
+Antes de seguir: esta publicación tiene 20 calificaciones. Es muchísimo menos que las {{reviews:MLA24730361}} de la Essenza Mini o las {{reviews:MLA29654829}} de la Citiz & Milk. El promedio es alto (4.8, con 18 de 20 dando 5 estrellas), pero la muestra es chica. No vamos a inflar el respaldo que no tiene: el análisis se apoya en las specs, en lo que es el sistema Nespresso y en las pocas opiniones reales que sí existen.
 
 ## Cómo funciona: one-touch de verdad
 
@@ -44817,7 +44817,7 @@ A $515.880 con 4.8 estrellas en pocas opiniones, es la apuesta por la comodidad 
     ],
     faq: [
       { question: '¿Qué tiene de especial la Lattissima One?', answer: 'La leche integrada one-touch: a diferencia de las Nespresso que traen un espumador aparte, la Lattissima One tiene un depósito de leche incorporado a la máquina y hace cappuccino o latte macchiato apretando un solo botón, todo en un paso. Es la opción más cómoda del sistema Nespresso para bebidas con leche, sin jarras ni lanceta de vapor.' },
-      { question: '¿Por qué tiene pocas opiniones?', answer: 'Porque esta publicación todavía acumuló pocas calificaciones: 20, frente a las 2.663 de la Essenza Mini o las 130 de la Citiz & Milk. El promedio es alto (4.8, con 18 de 20 dando 5 estrellas), pero la muestra es chica, así que preferimos decírtelo de frente. No significa que sea mala —es un modelo premium reconocido de Nespresso—, pero hay menos respaldo estadístico de compradores que en otros modelos del catálogo.' },
+      { question: '¿Por qué tiene pocas opiniones?', answer: 'Porque esta publicación todavía acumuló pocas calificaciones: 20, frente a las {{reviews:MLA24730361}} de la Essenza Mini o las {{reviews:MLA29654829}} de la Citiz & Milk. El promedio es alto (4.8, con 18 de 20 dando 5 estrellas), pero la muestra es chica, así que preferimos decírtelo de frente. No significa que sea mala —es un modelo premium reconocido de Nespresso—, pero hay menos respaldo estadístico de compradores que en otros modelos del catálogo.' },
       { question: '¿Hay que limpiar la leche cada vez?', answer: 'Sí, y es el principal contra del día a día. Al tener la leche integrada, el circuito necesita una limpieza después de cada uso para que no queden restos. Una review lo dice directo: "tenés que limpiarla cada vez que la usás". Es el costo de la comodidad one-touch: más fácil al preparar, más mantenimiento al terminar. Si eso te pesa, un espumador separado (como el Aeroccino de la Citiz & Milk) se limpia aparte y más simple.' },
       { question: '¿Vale la pena frente a la Citiz & Milk?', answer: 'Solo si la leche integrada one-touch te importa de verdad. La Lattissima One ($515.880) hace cappuccino de un toque con la leche en la máquina; la Citiz & Milk ($368.699) hace lo mismo pero con el espumador Aeroccino aparte (dos pasos), es de acero, tiene más opiniones y cuesta $147.000 menos. Si no te molesta usar el espumador aparte, la Citiz & Milk es la compra más probada; si querés cero maniobra, la Lattissima One.' },
       { question: '¿De qué material es?', answer: 'El cuerpo es de plástico. Es uno de los puntos que un comprador marca: "me esperaba mejor material", aunque aclara que "es muy linda". A este nivel de precio, conviene saberlo: pagás por la función (leche integrada one-touch) y el diseño, no por una terminación en acero como la de la Citiz & Milk.' },
@@ -45596,7 +45596,7 @@ A $981.818 con 4.8 estrellas y solo 75 opiniones, es una buena máquina que pide
       { question: '¿Por qué cuesta casi un millón de pesos?', answer: 'Por la combinación que ninguna otra del catálogo tiene: automatización completa, molinillo integrado, tanque de 2,8 L, doble termoblock y construcción de acero inoxidable con accesorios de peso profesional. La pregunta honesta es si esa combinación vale $143.000 más que la Oster EM7301, que muele y dosifica automático el espresso con mejor rating (4.9 contra 4.8) y más opiniones (110 contra 75).' },
       { question: '¿Conviene esta o la Oster Perfect Brew EM7301?', answer: 'Para la mayoría, la Oster: cuesta $838.899 (contra $981.818), tiene el mejor rating del catálogo (4.9 en 110 opiniones) y su molinillo de 30 configuraciones es elogiado en las reviews, mientras que el de la Peabody es criticado. La Peabody gana en automatización total, tanque de 2,8 L y capacidad de uso intensivo. Si esas tres cosas no son decisivas para vos, la diferencia de precio no se justifica.' },
       { question: '¿El café sale caliente?', answer: 'Mayormente sí, pero hay reportes en contra que conviene conocer: una review de 4 estrellas dice que "el café queda frío" (la compradora asume que le falta aprender a usarla) y una de 3 estrellas señala que "la temperatura del café no es del todo apta". El patrón sugiere que la temperatura depende de la calibración y el precalentamiento — no es un defecto universal, pero aparece más de una vez en solo 75 opiniones.' },
-      { question: '¿Es confiable comprar con solo 75 calificaciones?', answer: 'Es la pregunta correcta para una compra de este precio. Lo bueno: de esas 75, cero son de 1 o 2 estrellas — 60 de 5, 12 de 4 y 3 de 3, un panorama sólido. Lo prudente: es una muestra chica comparada con las 110 de la Oster EM7301 o las 237 de la Peabody PE-CE5010N, y las críticas que existen (molinillo, consumo eléctrico, pérdidas puntuales de agua) son consistentes entre sí. Comprala sabiendo eso.' },
+      { question: '¿Es confiable comprar con solo 75 calificaciones?', answer: 'Es la pregunta correcta para una compra de este precio. Lo bueno: de esas 75, cero son de 1 o 2 estrellas — 60 de 5, 12 de 4 y 3 de 3, un panorama sólido. Lo prudente: es una muestra chica comparada con las {{reviews:MLA48828162}} de la Oster EM7301 o las {{reviews:MLA47077888}} de la Peabody PE-CE5010N, y las críticas que existen (molinillo, consumo eléctrico, pérdidas puntuales de agua) son consistentes entre sí. Comprala sabiendo eso.' },
     ],
     customerReviews: [
       { rating: 4, country: 'Argentina', date: 'noviembre 2025', useful: 13, text: 'Es una buena máquina para tener en casa. Hace buen espresso y emulsiona bien la leche si le agarrás la mano. No me convenció tanto el tema de la presión/bares porque siempre va a ser muy rápida la extracción. La molienda la tenés que usar siempre en 1 o 0 para que salga bien el espresso, y con mínimo 20 g de café para el doble. El molinillo no está mal pero suele taparse: hay que limpiarlo (con el cepillito que trae) frecuentemente para que salga bien el café y no se hagan grumos. Le doy 4/5.' },
@@ -45826,7 +45826,7 @@ A $1.376.999 con 4.9 estrellas en 162 opiniones y el respaldo de la Tienda Ofici
     ],
     cons: [
       'Cuesta $1.779.914,53 — un 29% más que la siguiente más cara del catálogo (Philips EP5541/50, $1.376.999) y casi el doble que la Peabody PE-CE5023IX ($1.044.999)',
-      'Solo 35 calificaciones para este precio: una muestra chica, más chica incluso que la de la Philips (162) o la Oster EM7301 (138)',
+      'Solo {{reviews:MLA39987014}} calificaciones para este precio: una muestra chica, más chica incluso que la de la Philips ({{reviews:MLA63908884}}) o la Oster EM7301 ({{reviews:MLA48828162}})',
       'Según una reseña real de 5 estrellas, el consumo de café "se eleva exponencialmente" con el uso — el costo por taza puede terminar siendo más alto de lo esperado',
       'Pesa 9,2 kg según el fabricante (mismo modelo global): conviene tener un lugar fijo en la mesada, no es para mover seguido',
     ],
@@ -45890,7 +45890,7 @@ A $1.779.914,53 con 4.7 estrellas y solo 35 opiniones, es la cafetera más compl
       { question: '¿Por qué cuesta $1.779.914,53?', answer: "Es la combinación más completa del catálogo: molinillo integrado, espuma de leche automática con LatteCrema Hot, 5 bebidas de un toque y la logística Full de Mercado Libre. Es un 29% más cara que la Philips EP5541/50 ($1.376.999) y casi el doble que la Peabody PE-CE5023IX ($1.044.999), las otras dos superautomáticas premium del catálogo." },
       { question: "¿Conviene esta o la Peabody PE-CE5023IX?", answer: 'Las reseñas de la Peabody marcan el molinillo como punto flojo ("no alcanza a moler tan fino") y una ficha eléctrica de 20 A que puede pedir instalación dedicada. La De\'Longhi no arrastra ninguna de esas dos quejas en las reseñas disponibles, pero cuesta casi el doble ($1.779.914,53 contra $1.044.999).' },
       { question: '¿Y contra la Philips EP5541/50?', answer: 'La Philips suma 20 bebidas preprogramadas y memoria para 4 perfiles, con más volumen de opiniones (162 contra 35) — pero sus propios compradores avisan que el precio es alto para lo que ofrece y que pide mantenimiento periódico (filtro, desengrasante, descalcificación). La De\'Longhi cuesta $403.000 más, pero tiene estructura de acero inoxidable (la Philips es de plástico, según su ficha técnica).' },
-      { question: '¿Es confiable comprar con solo 35 calificaciones?', answer: 'Es la pregunta correcta para este precio: 35 es la muestra más chica entre las cafeteras automáticas más caras del catálogo (contra 162 de la Philips EP5541/50 y 138 de la Oster EM7301). Las cinco reseñas completas que pudimos revisar son todas de 5 estrellas, sin ninguna crítica seria más allá del mayor consumo de café que señala una compradora. Es una base sólida pero chica para una compra de casi $1,8 millones.' },
+      { question: '¿Es confiable comprar con pocas calificaciones?', answer: 'Es la pregunta correcta para este precio: {{reviews:MLA39987014}} es la muestra más chica entre las cafeteras automáticas más caras del catálogo (contra {{reviews:MLA63908884}} de la Philips EP5541/50 y {{reviews:MLA48828162}} de la Oster EM7301). Las cinco reseñas completas que pudimos revisar son todas de 5 estrellas, sin ninguna crítica seria más allá del mayor consumo de café que señala una compradora. Es una base sólida pero chica para una compra de casi $1,8 millones.' },
     ],
     customerReviews: [
       { rating: 5, country: 'Argentina', date: 'diciembre 2025', useful: 4, text: 'Muy buena cafetera. Excelente presentación y funcionamiento. Los materiales son de excelente calidad. La única parte mala: la cantidad de café que consumís se eleva exponencialmente con lo práctica que es usarla.' },
@@ -51599,7 +51599,7 @@ Comprala si priorizás una marca internacional con detección inteligente de per
     description: "Cámara Gadnic DM200W-Pro: la más avanzada técnicamente de esta guía, con 3MP, motor PTZ amplio y compatibilidad ONVIF/RTSP para integrarse a sistemas de terceros. Es un modelo recién llegado al catálogo, con apenas 11 calificaciones: la spec no reemplaza al historial.",
     seoTitle: "Gadnic DM200W-Pro: la cámara exterior más avanzada",
     metaDescription: "Cámara Gadnic DM200W-Pro domo 3MP con ONVIF/RTSP y seguimiento humano. La más avanzada técnicamente, pero con poco historial. Precio y contras reales.",
-    verdict: "La Gadnic DM200W-Pro sirve si sabés lo que es ONVIF/RTSP y querés integrarla a un sistema de cámaras de terceros, o simplemente priorizás la mejor resolución (3MP) y el motor más amplio de esta guía. No sirve si preferís apoyarte en el historial de otros compradores antes de decidir: tiene apenas 11 calificaciones, muy por debajo de la SX37 (8.606) o la C8c (112).",
+    verdict: "La Gadnic DM200W-Pro sirve si sabés lo que es ONVIF/RTSP y querés integrarla a un sistema de cámaras de terceros, o simplemente priorizás la mejor resolución (3MP) y el motor más amplio de esta guía. No sirve si preferís apoyarte en el historial de otros compradores antes de decidir: tiene apenas {{reviews:MLA66204799}} calificaciones, muy por debajo de la SX37 ({{reviews:MLA18967142}}) o la C8c ({{reviews:MLA66806823}}).",
     pros: [
       "La mejor resolución de esta guía: 3MP (2304x1296), contra el Full HD/2MP de las otras dos",
       "El motor PTZ más amplio: 355° horizontal y 90° vertical",
@@ -51625,7 +51625,7 @@ En specs, le gana a las otras dos de esta guía: mejor resolución, mayor rango 
 
 ## La contra real
 
-Acá hay que ser honestos: es un modelo recién llegado al catálogo argentino, con apenas 11 calificaciones. Comparado con las 8.606 de la SX37 o las 107 de la Ezviz C8c, es una base de datos chica para confiar a ciegas. Y hay una reseña real de 3 estrellas que le pone un matiz importante a la ventaja de ONVIF/RTSP: "muchas opciones requieren pago, protocolo muy cerrado, solo sirve si vas a poner todas las cámaras de la misma marca y modelo". En criollo: la integración avanzada existe, pero en la práctica un usuario que solo quiere usar la app del fabricante no la va a aprovechar, y quien busque un sistema multimarca puede encontrarse con más letra chica de la esperada.
+Acá hay que ser honestos: es un modelo recién llegado al catálogo argentino, con apenas 11 calificaciones. Comparado con las {{reviews:MLA18967142}} de la SX37 o las {{reviews:MLA66806823}} de la Ezviz C8c, es una base de datos chica para confiar a ciegas. Y hay una reseña real de 3 estrellas que le pone un matiz importante a la ventaja de ONVIF/RTSP: "muchas opciones requieren pago, protocolo muy cerrado, solo sirve si vas a poner todas las cámaras de la misma marca y modelo". En criollo: la integración avanzada existe, pero en la práctica un usuario que solo quiere usar la app del fabricante no la va a aprovechar, y quien busque un sistema multimarca puede encontrarse con más letra chica de la esperada.
 
 ## Para quién sí y para quién no
 
@@ -52720,7 +52720,7 @@ Con 4.8 estrellas, tiene la mejor nota promedio de los 4 power banks solares de 
 
 ## La contra real
 
-Acá va la honestidad completa: al momento de escribir esta guía, tiene solo 9 opiniones en MercadoLibre. Es un dato real, no inventado, pero significa que el 4.8 se apoya en muy poco volumen comparado con las 336 opiniones del [Mixio](/producto/power-bank-solar-cargador-portatil-50000mah-c-cable-mixio-mlau3079854886) o las 201 del [Gadnic](/producto/cargador-solar-gadnic-power-bank-b60-15000mah-inalambrico-linterna-mla35433385). Tampoco tiene envío gratis según la ficha, a diferencia del resto de esta comparativa, y solo trae 2 puertos de carga.
+Acá va la honestidad completa: al momento de escribir esta guía, tiene solo {{reviews:MLA45503497}} opiniones en MercadoLibre. Es un dato real, no inventado, pero significa que el {{rating:MLA45503497}} se apoya en muy poco volumen comparado con las {{reviews:MLAU3079854886}} opiniones del [Mixio](/producto/power-bank-solar-cargador-portatil-50000mah-c-cable-mixio-mlau3079854886) o las {{reviews:MLA35433385}} del [Gadnic](/producto/cargador-solar-gadnic-power-bank-b60-15000mah-inalambrico-linterna-mla35433385). Tampoco tiene envío gratis según la ficha, a diferencia del resto de esta comparativa, y solo trae 2 puertos de carga.
 
 ## Para quién sí y para quién no
 
@@ -53962,7 +53962,7 @@ Es para vos si: querés una pava con selector de temperatura real a un precio m�
     ogTitle: 'Pava eléctrica Liliana Safeheat AP992N: doble pared, 7 niveles, 4.8⭐/211',
     ogDescription: 'Doble pared que no se calienta al tacto, 7 niveles de temperatura con pantalla digital y función Keep Warm. Interior de acero inoxidable, 1.5L. Ver precio →',
     h1: 'Pava eléctrica Liliana Safeheat AP992N: 7 niveles de temperatura, ¿vale la pena?',
-    verdict: 'A $67.609, es la pava con más niveles de temperatura del catálogo (7, de aproximadamente 45°C a 100°C según una reseña) y la única con doble pared Safeheat que no se calienta al tacto por fuera. El costado flojo: la propia ficha de ML carga mal el atributo "control de temperatura" (dice que no tiene, cuando sí tiene), y su base de 211 calificaciones es chica al lado de las 14.738 de la Atma PE1821NAP.',
+    verdict: 'A $67.609, es la pava con más niveles de temperatura del catálogo (7, de aproximadamente 45°C a 100°C según una reseña) y la única con doble pared Safeheat que no se calienta al tacto por fuera. El costado flojo: la propia ficha de ML carga mal el atributo "control de temperatura" (dice que no tiene, cuando sí tiene), y su base de {{reviews:MLA54676373}} calificaciones es chica al lado de las {{reviews:MLA19589519}} de la Atma PE1821NAP.',
     pros: [
       '7 niveles de temperatura reales: una reseña detallada confirma que van de aproximadamente 45°C a 100°C y que la pava avisa al llegar al nivel elegido',
       'Doble pared protectora Safeheat: el exterior no se calienta al tacto aunque el agua esté hirviendo adentro, confirmado por Liliana y Frávega',
@@ -53973,7 +53973,7 @@ Es para vos si: querés una pava con selector de temperatura real a un precio m�
     cons: [
       'Cerca de la temperatura elegida, la pava pausa el calentamiento para medir y después retoma: una reseña que venía de una pava analógica lo encontró molesto al principio (no es una falla, es el sensor trabajando)',
       'La ficha de ML dice "Con control de temperatura: No" en sus atributos, un dato mal cargado: el propio producto se llama Safeheat justamente por sus 7 niveles de temperatura',
-      'Base de 211 calificaciones, chica comparada con las 14.738 de la Atma PE1821NAP o las 3.793 de la Kanji Home',
+      'Base de {{reviews:MLA54676373}} calificaciones, chica comparada con las {{reviews:MLA19589519}} de la Atma PE1821NAP o las {{reviews:MLA20027329}} de la Kanji Home',
       'Ni ML ni la ficha oficial publican el plazo exacto de garantía de este modelo',
     ],
     articleBody: `## Qué es y qué significa Safeheat
@@ -55821,7 +55821,7 @@ Igual que el Gadnic, usa tecnología ultrasónica (disco vibrador) para converti
 
 ## La contra real
 
-Acá el dato más honesto es el volumen de opiniones: apenas 35 calificaciones, muy por debajo de las 2.221 del Gadnic o las 2.508 del Silfab de esta misma guía. Con una base tan chica, el promedio de 4.4 estrellas pesa menos como garantía estadística. A eso se suma que el precio es más del doble que el Silfab V12 pese a tener menos capacidad de tanque (3 litros contra 4), algo que no se justifica solo por la marca. Las reseñas disponibles también señalan un ruido particular: no es el motor, sino el agua salpicando al evaporarse, y el manual de instrucciones viene mal traducido y no coincide del todo con el producto real.
+Acá el dato más honesto es el volumen de opiniones: apenas {{reviews:MLA28103250}} calificaciones, muy por debajo de las {{reviews:MLA28531856}} del Gadnic o las {{reviews:MLA35313170}} del Silfab de esta misma guía. Con una base tan chica, el promedio de 4.4 estrellas pesa menos como garantía estadística. A eso se suma que el precio es más del doble que el Silfab V12 pese a tener menos capacidad de tanque (3 litros contra 4), algo que no se justifica solo por la marca. Las reseñas disponibles también señalan un ruido particular: no es el motor, sino el agua salpicando al evaporarse, y el manual de instrucciones viene mal traducido y no coincide del todo con el producto real.
 
 ## Cómo se compara con los otros de esta guía
 
@@ -55833,7 +55833,7 @@ Comprá el Daewoo DHU335 si el nombre de marca reconocida internacionalmente pes
     faq: [
       {
         question: "¿Por qué el Daewoo DHU335 tiene tan pocas opiniones comparado con los otros de esta guía?",
-        answer: "Es un modelo con menor volumen de ventas en la categoría de humidificadores en Argentina: 35 calificaciones contra las 2.221 del Gadnic HM20B o las 2.508 del Silfab V12. No significa que sea peor producto, pero sí que el respaldo estadístico es mucho menor.",
+        answer: "Es un modelo con menor volumen de ventas en la categoría de humidificadores en Argentina: {{reviews:MLA28103250}} calificaciones contra las {{reviews:MLA28531856}} del Gadnic HM20B o las {{reviews:MLA35313170}} del Silfab V12. No significa que sea peor producto, pero sí que el respaldo estadístico es mucho menor.",
       },
       {
         question: "¿Vale la pena pagar más del doble que el Silfab V12?",
@@ -56136,7 +56136,7 @@ Comprá la Yelmo YG-1700 si buscás la opción más probada y económica para em
     cons: [
       "El precio de lista (66% off, de $150.000 a {{precio:MLA65120821}}) es inusualmente alto para este segmento; conviene mirar el precio final, no el porcentaje de descuento",
       "No incluye recetario, aunque según una reseña 'en internet hay miles de recetas'",
-      "Solo 145 calificaciones, muchas menos que la Yelmo (12.296) de esta guía",
+      "Solo {{reviews:MLA65120821}} calificaciones, muchas menos que la Yelmo ({{reviews:MLA17840710}}) de esta guía",
       "Cuerpo de plástico, sin partes metálicas",
     ],
     articleBody: `## Qué es y para quién
@@ -56464,7 +56464,7 @@ Comprá la Ultracomb YG-2712V si priorizás la mayor cantidad de frascos y una p
     description: "Termo Stanley Original Mate System Classic 1,2 litros: la marca de mayor reconocimiento global de esta categoría, con 4.8 estrellas en 6.368 calificaciones. Tapón cebador integrado y garantía de por vida.",
     seoTitle: "Termo Stanley Mate System: el más elegido, ¿vale el precio?",
     metaDescription: "Termo Stanley Original Mate System Classic 1,2L: tapón cebador integrado, garantía de por vida. Precio real y opiniones verificadas.",
-    verdict: "Sirve si el precio no es lo que más te importa y priorizás la marca de mayor reconocimiento global (6.368 calificaciones, aunque por debajo de las 26.780 del Lumilagro de esta guía) y el tapón cebador integrado pensado específicamente para mate. Cuesta más de 3 veces que las alternativas argentinas de esta guía, y varias reseñas coinciden en que hay que recalentar el agua antes de cebar si no lo usás enseguida: no es magia, es un termo más. Si buscás lo mismo por mucho menos, el Lumilagro o el Lüsqtoff de esta guía cumplen función similar a una fracción del precio.",
+    verdict: "Sirve si el precio no es lo que más te importa y priorizás la marca de mayor reconocimiento global ({{reviews:MLA19761025}} calificaciones, aunque por debajo de las {{reviews:MLA15297106}} del Lumilagro de esta guía) y el tapón cebador integrado pensado específicamente para mate. Cuesta más de 3 veces que las alternativas argentinas de esta guía, y varias reseñas coinciden en que hay que recalentar el agua antes de cebar si no lo usás enseguida: no es magia, es un termo más. Si buscás lo mismo por mucho menos, el Lumilagro o el Lüsqtoff de esta guía cumplen función similar a una fracción del precio.",
     pros: [
       "Marca de mayor reconocimiento global de esta categoría: 4.8 estrellas en 6.368 calificaciones, #1 en Termos",
       "Tapón cebador integrado de alta precisión, pensado específicamente para cebar mate sin descebar",
@@ -63100,7 +63100,7 @@ Comprá el Forerunner 55 si querés tu primer reloj Garmin con GPS real para ent
     ],
     cons: [
       "Casi 4 veces más caro que el Forerunner 55 de esta misma guía",
-      "51 opiniones es bastante menos volumen que las 6.433 del Forerunner 55, y la mayoría están marcadas como de otros países (México, Brasil), con pocas confirmadas de compradores locales",
+      "{{reviews:MLA61667894}} opiniones es bastante menos volumen que las {{reviews:MLA44250809}} del Forerunner 55, y la mayoría están marcadas como de otros países (México, Brasil), con pocas confirmadas de compradores locales",
       "La ficha de MercadoLibre declara solo \"23 h\" de batería, una cifra que no coincide con ninguno de los dos modos que publica la web oficial de Garmin (31 h en GPS, 23 días en modo smartwatch) — no la tomamos como dato confiable",
       "No suma bisel de titanio, cristal de zafiro ni carga solar como el Fenix 7 Pro de esta guía",
     ],
@@ -70525,7 +70525,7 @@ Las reseñas positivas coinciden en lo mismo: buenas terminaciones y llega bien.
 
 **No trae tornillos.** No es una queja aislada: la propia ficha técnica de MercadoLibre declara que no incluye accesorios de ensamblado, y un comprador lo confirma: "Por el precio esta okey, lo unico no vienen con tornillos". Si la comprás, conseguite la tornillería antes de que llegue.
 
-La otra contra es de evidencia: con 25 opiniones es la que menos respaldo tiene de esta comparativa, y su 3.9 es el promedio más bajo del grupo. No significa que sea mala, significa que sabemos menos sobre ella que sobre las demás.
+La otra contra es de evidencia: con {{reviews:MLA56400904}} opiniones es la que menos respaldo tiene de esta comparativa, y su 3.9 es el promedio más bajo del grupo. No significa que sea mala, significa que sabemos menos sobre ella que sobre las demás.
 
 Y los 40 cm de ancho se notan: es angosta para apoyar una bandeja y vasos al mismo tiempo.
 
@@ -70536,7 +70536,7 @@ Comprala si el presupuesto manda, si querés largo de mesa de living sin pagarlo
       { question: "¿La mesa ratona Sajo trae tornillos?", answer: "No. La ficha técnica de MercadoLibre declara que no incluye accesorios de ensamblado, y una reseña real lo confirma. Conviene tener la tornillería antes de que llegue." },
       { question: "¿Cuánto mide?", answer: "80 cm de largo por 40 de ancho y 42 de alto, según la ficha de la publicación. El largo es de los mayores de esta comparativa a este precio." },
       { question: "¿De qué material es?", answer: "Tapa de melamina y patas de pino. Las patas son de madera real, no plástico imitación." },
-      { question: "¿Por qué tiene el rating más bajo de la comparativa?", answer: "Tiene 3.9 estrellas sobre 25 opiniones, la base más chica del grupo. La queja concreta y repetida es la falta de tornillos; el resto de los comentarios son positivos sobre terminaciones y entrega." },
+      { question: "¿Por qué tiene el rating más bajo de la comparativa?", answer: "Tiene 3.9 estrellas sobre {{reviews:MLA56400904}} opiniones, la base más chica del grupo. La queja concreta y repetida es la falta de tornillos; el resto de los comentarios son positivos sobre terminaciones y entrega." },
     ],
   },
   {
@@ -71081,7 +71081,7 @@ Comprala si querés la lámpara de pie clásica, luz cálida de ambiente, y te g
     verdict: "Es la única de formato arco de esta comparativa y resuelve un problema concreto: llevar la luz por encima del sillón sin tener que apoyar la base justo al lado. Los 60 cm de brazo hacen eso posible. Es la mejor calificada del grupo junto con la TBCin, con estructura de hierro que le da el peso necesario para no volcarse con el brazo extendido. La contra es el precio: es, por bastante, la más cara de esta comparativa, y encima hay que sumarle el foco.",
     pros: [
       "La única de formato arco de esta comparativa: 60 cm de brazo para pasar por encima del sillón",
-      "De las mejor calificadas del grupo, con 108 opiniones que respaldan la nota",
+      "De las mejor calificadas del grupo, con {{reviews:MLAU3835629976}} opiniones que respaldan la nota",
       "Estructura de hierro: el peso necesario para que el brazo extendido no la desestabilice",
       "168 cm de alto, la más alta de esta comparativa",
       "Zócalo E27: elegís el foco, y varias reseñas cuentan que le ponen lámparas inteligentes o regulables",
@@ -71239,7 +71239,7 @@ Comprala si el uso principal es leer en el sillón, si querés dimmer sin compra
     pros: [
       "La pantalla calada proyecta sombras en la pared: es su diferencial real frente a las pantallas lisas",
       "120 cm: la más baja de esta comparativa, entra donde otras quedan altas",
-      "Buen respaldo de opiniones para su precio, con 155 calificaciones",
+      "Buen respaldo de opiniones para su precio, con {{reviews:MLA53437609}} calificaciones",
       "Zócalo E27 libre: elegís el foco",
     ],
     cons: [
@@ -71315,7 +71315,7 @@ Comprala si te interesa el efecto de sombras en la pared, si va a un lugar fijo 
     description: "Lámpara esquinera RGB de 140 cm con LED integrado y control remoto. Es luz de ambiente y color, no luz para iluminar una habitación.",
     seoTitle: "Global RGB Esquinero: luz de color para setup y TV",
     metaDescription: "Lámpara de pie RGB esquinera de 140 cm con control remoto: para setup gamer y backlight de TV. Por qué sus 5 W no iluminan un ambiente.",
-    verdict: "No compite con el resto de esta comparativa: es luz de color, no luz para iluminar. Con tecnología RGBIC muestra varios colores a la vez, trae control remoto y se arma en tres secciones para apoyar en un rincón. El uso real es setup gamer, luz detrás del televisor o ambiente de color en un cuarto. Dos advertencias honestas: son 5 W, así que no esperes que ilumine nada, y con apenas 9 opiniones su promedio tiene muy poco respaldo estadístico.",
+    verdict: "No compite con el resto de esta comparativa: es luz de color, no luz para iluminar. Con tecnología RGBIC muestra varios colores a la vez, trae control remoto y se arma en tres secciones para apoyar en un rincón. El uso real es setup gamer, luz detrás del televisor o ambiente de color en un cuarto. Dos advertencias honestas: son 5 W, así que no esperes que ilumine nada, y con apenas {{reviews:MLA69432393}} opiniones su promedio tiene muy poco respaldo estadístico.",
     pros: [
       "Tecnología RGBIC: muestra varios colores simultáneos, no un solo color por vez",
       "Control remoto infrarrojo incluido para color, intensidad y efectos",
@@ -71325,7 +71325,7 @@ Comprala si te interesa el efecto de sombras en la pared, si va a un lugar fijo 
     ],
     cons: [
       "5 W de potencia: es luz decorativa, no sirve para iluminar una habitación ni para leer",
-      "Solo 9 opiniones: el promedio tiene muy poco respaldo estadístico frente a las 1.159 de la trípode",
+      "Solo {{reviews:MLA69432393}} opiniones: el promedio tiene muy poco respaldo estadístico frente a las {{reviews:MLAU3726389505}} de la trípode",
       "La ficha técnica de MercadoLibre declara \"Incluye lámpara: No\", un campo que no aplica a este producto e induce a pensar que hay que comprar un foco",
     ],
     customerReviews: [
@@ -71349,7 +71349,7 @@ Y es la más barata de esta comparativa.
 
 **Son 5 W.** Ese número decide todo: no ilumina una habitación, no sirve para leer y no reemplaza a ninguna de las otras cuatro de esta guía. Es un objeto de ambiente y de color, y hay que comprarla sabiendo eso.
 
-La segunda contra es de evidencia: 9 opiniones. Contra las 1.159 de la trípode nórdica o las 155 de la Devoto, su 4.6 dice muy poco. No significa que sea mala, significa que casi no sabemos nada sobre ella.
+La segunda contra es de evidencia: {{reviews:MLA69432393}} opiniones. Contra las {{reviews:MLAU3726389505}} de la trípode nórdica o las {{reviews:MLA53437609}} de la Devoto, su {{rating:MLA69432393}} dice muy poco. No significa que sea mala, significa que casi no sabemos nada sobre ella.
 
 ## Un dato de la publicación que confunde
 
@@ -71362,7 +71362,7 @@ Comprala si querés luz de color para un setup, detrás del televisor o como amb
       { question: "¿La lámpara RGB ilumina una habitación?", answer: "No. Son 5 W: es luz decorativa y de color. Para iluminar de verdad conviene cualquiera de las otras cuatro de esta comparativa." },
       { question: "¿Necesita lamparita?", answer: "No. Tiene LED RGBIC integrado. La ficha de MercadoLibre dice \"Incluye lámpara: No\", pero ese campo no aplica a este producto: no hay dónde enroscar un foco." },
       { question: "¿Para qué sirve entonces?", answer: "Para setup gamer, luz detrás del televisor y ambiente de color en un cuarto. Una compradora la usa como luz roja en la habitación de su bebé." },
-      { question: "¿Qué tan confiable es su calificación?", answer: "Poco, y conviene saberlo: tiene apenas 9 opiniones. Contra las más de mil de la trípode nórdica, su promedio no dice demasiado." },
+      { question: "¿Qué tan confiable es su calificación?", answer: "Poco, y conviene saberlo: tiene apenas {{reviews:MLA69432393}} opiniones. Contra las más de mil de la trípode nórdica, su promedio no dice demasiado." },
       { question: "¿Qué es RGBIC?", answer: "Es la tecnología que permite mostrar varios colores a la vez en la misma barra, en vez de un solo color uniforme. Se maneja con el control remoto incluido." },
     ],
   },
@@ -71405,10 +71405,10 @@ Comprala si querés luz de color para un setup, detrás del televisor o como amb
     priceStatus: "fresh", reviewsSampledAt: "2026-08-15",
     description: "El kit de estantes flotantes más vendido de MercadoLibre, con más de 10 mil unidades. Melamina de 18 mm y ménsula invisible. La contra está en el montaje, no en el producto.",
     seoTitle: "Exahome kit x3: el estante flotante más vendido",
-    metaDescription: "Kit de 3 estantes flotantes de 60x20 en melamina de 18 mm, con 3.846 opiniones. Qué mecha necesitás y por qué los 10 kg dependen de tu pared.",
-    verdict: "Es el estante flotante que más se vende en MercadoLibre y el que más respaldo tiene por lejos: 3.846 opiniones, cuando el segundo de esta comparativa no llega a 750. Melamina de 18 mm, 20 cm de profundidad, ménsula invisible incluida. El producto en sí casi no recibe quejas. El montaje sí: varios compradores necesitaron mecha del 12 y tarugos n14, un agujero bastante más grande de lo que se espera para una repisa. Si tenés esa mecha o estás dispuesto a comprarla, es la opción más segura del grupo. Si buscás la misma spec medible por menos, el kit de Mamut sale 27% menos, con mucho menos respaldo.",
+    metaDescription: "Kit de 3 estantes flotantes de 60x20 en melamina de 18 mm, con {{reviews:MLA35809709}} opiniones. Qué mecha necesitás y por qué los 10 kg dependen de tu pared.",
+    verdict: "Es el estante flotante que más se vende en MercadoLibre y el que más respaldo tiene por lejos: {{reviews:MLA35809709}} opiniones, cuando el segundo de esta comparativa no llega a 750. Melamina de 18 mm, 20 cm de profundidad, ménsula invisible incluida. El producto en sí casi no recibe quejas. El montaje sí: varios compradores necesitaron mecha del 12 y tarugos n14, un agujero bastante más grande de lo que se espera para una repisa. Si tenés esa mecha o estás dispuesto a comprarla, es la opción más segura del grupo. Si buscás la misma spec medible por menos, el kit de Mamut sale 27% menos, con mucho menos respaldo.",
     pros: [
-      "El respaldo estadístico más grande de la categoría por lejos: 3.846 opiniones y más de 10 mil vendidos",
+      "El respaldo estadístico más grande de la categoría por lejos: {{reviews:MLA35809709}} opiniones y más de 10 mil vendidos",
       "20 cm de profundidad: entra un libro apoyado de plano, cosa que las repisas de pino de 12 cm no permiten",
       "Melamina de 18 mm verificada contra la web del fabricante, no solo contra la ficha de MercadoLibre",
       "Incluye el kit de ménsulas invisibles, no hay que comprar herrajes aparte",
@@ -71433,7 +71433,7 @@ Un kit de tres estantes flotantes de 60 cm de largo por 20 cm de profundidad, en
 
 ## Lo bueno
 
-El respaldo. Con 3.846 opiniones y más de 10 mil unidades vendidas, tiene cinco veces más opiniones que el segundo de esta comparativa, y más de cincuenta veces más que cualquiera de los otros dos kits de melamina de 60x20.
+El respaldo. Con {{reviews:MLA35809709}} opiniones y más de 10 mil unidades vendidas, tiene cinco veces más opiniones que el segundo de esta comparativa, y más de cincuenta veces más que cualquiera de los otros dos kits de melamina de 60x20.
 
 Los 20 cm de profundidad también importan más de lo que parece: es lo que separa una repisa donde entra un libro apoyado de plano de una donde solo entran adornos. Las repisas de pino de esta comparativa tienen 12 cm.
 
@@ -71458,7 +71458,7 @@ Compralo si querés la opción con más respaldo del rubro, si necesitás 20 cm 
       { question: "¿Entra un libro apoyado de plano?", answer: "Sí. Los 20 cm de profundidad alcanzan para eso, a diferencia de las repisas de pino de 12 cm de esta comparativa." },
       { question: "¿Los estantes son de 18 cm de alto?", answer: "No, son de 18 milímetros de espesor. La ficha de MercadoLibre carga ese dato en el campo de altura y queda un número 10 veces más grande. La descripción del propio vendedor dice \"ESPESOR: 18MM\"." },
       { question: "¿Incluye todo lo necesario para colgarlos?", answer: "Incluye el kit de ménsulas invisibles. No incluye manual de ensamblado, y según las reseñas conviene tener la mecha adecuada antes de abrir la caja." },
-      { question: "¿Conviene contra el kit de Mamut?", answer: "Depende de qué valores. Mamut sale 27% menos con la misma spec medible, pero tiene 68 opiniones contra 3.846. Es un intercambio entre precio y respaldo, no una opción claramente mejor." },
+      { question: "¿Conviene contra el kit de Mamut?", answer: "Depende de qué valores. Mamut sale 27% menos con la misma spec medible, pero tiene {{reviews:MLAU828916072}} opiniones contra {{reviews:MLA35809709}}. Es un intercambio entre precio y respaldo, no una opción claramente mejor." },
     ],
   },
   {
@@ -71497,7 +71497,7 @@ Compralo si querés la opción con más respaldo del rubro, si necesitás 20 cm 
     description: "La misma spec medible que el kit más vendido, 27% más barato. Es el único fabricante de la comparativa que publica qué mecha necesitás.",
     seoTitle: "Mamut Deco kit x3: la misma spec medible, 27% menos",
     metaDescription: "Kit de 3 estantes flotantes de 60x20 en melamina de 18 mm a $10.450 por estante. El único fabricante que publica la mecha y aclara de qué dependen los 10 kg.",
-    verdict: "Tiene la misma spec medible que el kit de Exahome: 60x20, melamina de 18 mm, ménsula invisible, 10 kg declarados. Y sale 27% menos, $10.450 por estante contra $14.242. Lo que no tiene es respaldo: 68 opiniones contra 3.846. A cambio, es el único fabricante de esta comparativa que publica en su web qué mecha necesitás (10 mm) y que aclara que los 10 kg dependen de la firmeza de tu pared. Esa transparencia es justamente el dato que a los compradores de Exahome les faltó.",
+    verdict: "Tiene la misma spec medible que el kit de Exahome: 60x20, melamina de 18 mm, ménsula invisible, 10 kg declarados. Y sale 27% menos, $10.450 por estante contra $14.242. Lo que no tiene es respaldo: {{reviews:MLAU828916072}} opiniones contra {{reviews:MLA35809709}}. A cambio, es el único fabricante de esta comparativa que publica en su web qué mecha necesitás (10 mm) y que aclara que los 10 kg dependen de la firmeza de tu pared. Esa transparencia es justamente el dato que a los compradores de Exahome les faltó.",
     pros: [
       "El precio por estante más bajo de los tres kits de 60x20: $10.450 contra $14.242 del más vendido",
       "El único fabricante de la comparativa que publica la mecha recomendada, 10 mm",
@@ -71506,7 +71506,7 @@ Compralo si querés la opción con más respaldo del rubro, si necesitás 20 cm 
       "Fabricante con local a la calle en Lanús y más de 10 años vendiendo online",
     ],
     cons: [
-      "68 opiniones contra las 3.846 del kit más vendido: mucho menos respaldo estadístico",
+      "{{reviews:MLAU828916072}} opiniones contra las {{reviews:MLA35809709}} del kit más vendido: mucho menos respaldo estadístico",
       "Una reseña reporta que los pernos vienen flojos de calidad: \"algo truchotos los pernos pero tenía otros\"",
       "La ficha de MercadoLibre dice \"Formato de venta: Unidad\" aunque son tres estantes, y confunde el cálculo de precio",
       "Solo está disponible en blanco en esta publicación",
@@ -71530,7 +71530,7 @@ Eso último parece un detalle legal y es el dato más útil de todo el rubro: el
 
 ## La contra real
 
-El respaldo. Sesenta y ocho opiniones no son pocas en términos absolutos, pero al lado de las 3.846 del kit de Exahome no permiten sacar conclusiones con la misma confianza. El 4.7 puede ser real o puede moverse cuando lleguen las próximas cien opiniones.
+El respaldo. Sesenta y ocho opiniones no son pocas en términos absolutos, pero al lado de las {{reviews:MLA35809709}} del kit de Exahome no permiten sacar conclusiones con la misma confianza. El 4.7 puede ser real o puede moverse cuando lleguen las próximas cien opiniones.
 
 La única crítica concreta que aparece es sobre los herrajes: "algo truchotos los pernos pero tenía otros". Un comprador con tornillos de repuesto a mano lo resolvió; quien no los tenga, no.
 
@@ -71545,7 +71545,7 @@ Compralo si querés el precio más bajo por estante en el formato de 60x20 y no 
       { question: "¿Cuántos estantes vienen en el kit de Mamut?", answer: "Tres. La ficha técnica de MercadoLibre dice \"Formato de venta: Unidad\", pero está mal cargada: la descripción del vendedor dice \"PRECIO POR COMBO\" y \"Kit 3 Estantes Flotantes\"." },
       { question: "¿Qué mecha necesito?", answer: "La web de Mamut Deco recomienda mecha de 10 mm. Es el único fabricante de esta comparativa que publica el dato, y no coincide con el que reportan los compradores del kit de Exahome, que hablan de mecha del 12." },
       { question: "¿Aguanta 10 kg?", answer: "El fabricante dice \"aproximadamente hasta 10 kg con pared firme e instalación correcta\", y aclara que depende de la firmeza del muro, la fijación y la distribución de la carga. Es la respuesta más honesta de todo el rubro." },
-      { question: "¿Por qué es más barato que el más vendido?", answer: "Las specs comparables son las mismas. La diferencia visible está en el respaldo: 68 opiniones contra 3.846. No hay un dato técnico que justifique el 27%." },
+      { question: "¿Por qué es más barato que el más vendido?", answer: "Las specs comparables son las mismas. La diferencia visible está en el respaldo: {{reviews:MLAU828916072}} opiniones contra {{reviews:MLA35809709}}. No hay un dato técnico que justifique el 27%." },
       { question: "¿Viene en negro?", answer: "En esta publicación solo blanco. La web del fabricante muestra otras tonalidades, pero para negro con stock en MercadoLibre está el kit de Urbana Fábrica." },
     ],
   },
@@ -71584,8 +71584,8 @@ Compralo si querés el precio más bajo por estante en el formato de 60x20 y no 
     priceStatus: "fresh", reviewsSampledAt: "2026-08-15",
     description: "El único kit de melamina negra de esta comparativa. Buenas reseñas, pero con la base de opiniones más chica de las seis.",
     seoTitle: "Urbana Fábrica kit x3: el estante flotante negro",
-    metaDescription: "Kit de 3 estantes flotantes negros de 60x20 en melamina de 18 mm, con manual incluido. Sus 40 opiniones son el límite del dato, y lo decimos.",
-    verdict: "Es el único kit de melamina negra con stock de esta comparativa, y ese es su motivo real de existir: quien quiera el formato de 60x20 en negro no tiene muchas más opciones. Misma spec medible que los otros dos kits, con manual de ensamblado incluido, cosa que el más vendido no trae. El problema es el respaldo: 40 opiniones y poco más de 100 unidades vendidas. Las reseñas son buenas y varias destacan que quedan firmes, pero es la base más chica del grupo. Y es el único de los seis cuyo fabricante no pudimos verificar en ningún sitio oficial.",
+    metaDescription: "Kit de 3 estantes flotantes negros de 60x20 en melamina de 18 mm, con manual incluido. Sus {{reviews:MLAU3891560042}} opiniones son el límite del dato, y lo decimos.",
+    verdict: "Es el único kit de melamina negra con stock de esta comparativa, y ese es su motivo real de existir: quien quiera el formato de 60x20 en negro no tiene muchas más opciones. Misma spec medible que los otros dos kits, con manual de ensamblado incluido, cosa que el más vendido no trae. El problema es el respaldo: {{reviews:MLAU3891560042}} opiniones y poco más de 100 unidades vendidas. Las reseñas son buenas y varias destacan que quedan firmes, pero es la base más chica del grupo. Y es el único de los seis cuyo fabricante no pudimos verificar en ningún sitio oficial.",
     pros: [
       "El único kit de melamina negra de 60x20 con stock profundo de esta comparativa",
       "Incluye manual de ensamblado, algo que el kit más vendido no trae",
@@ -71593,7 +71593,7 @@ Compralo si querés el precio más bajo por estante en el formato de 60x20 y no 
       "Varias reseñas destacan que quedan firmes una vez instalados",
     ],
     cons: [
-      "La base de opiniones más chica de esta comparativa: 40 reseñas y poco más de 100 vendidos",
+      "La base de opiniones más chica de esta comparativa: {{reviews:MLAU3891560042}} reseñas y poco más de 100 vendidos",
       "Es el único de los seis cuyo fabricante no tiene sitio oficial verificable",
       "Sale 22% más caro que el kit de Mamut por la misma spec medible",
       "Requiere ensamblado, a diferencia del kit de Mamut",
@@ -71617,9 +71617,9 @@ Las reseñas son cortas pero coinciden en algo concreto: quedan firmes. "Súper 
 
 ## La contra real
 
-El respaldo, y hay que decirlo sin vueltas: 40 opiniones y poco más de 100 unidades vendidas. Un 4.8 con esa base no es lo mismo que un 4.6 con 3.846 opiniones. Puede ser un producto excelente, pero todavía no hay datos suficientes para afirmarlo.
+El respaldo, y hay que decirlo sin vueltas: {{reviews:MLAU3891560042}} opiniones y poco más de 100 unidades vendidas. Un {{rating:MLAU3891560042}} con esa base no es lo mismo que un {{rating:MLA35809709}} con {{reviews:MLA35809709}} opiniones. Puede ser un producto excelente, pero todavía no hay datos suficientes para afirmarlo.
 
-Hay una segunda cosa. De los seis productos de esta comparativa, es el único cuyo fabricante no aparece en ningún sitio oficial. Exahome, Mamut Deco y SAJO tienen web propia donde cruzamos las specs; Urbana Fábrica no. Eso no lo convierte en un mal producto, pero significa que todo lo que sabemos de él sale de la ficha de MercadoLibre y de 40 compradores.
+Hay una segunda cosa. De los seis productos de esta comparativa, es el único cuyo fabricante no aparece en ningún sitio oficial. Exahome, Mamut Deco y SAJO tienen web propia donde cruzamos las specs; Urbana Fábrica no. Eso no lo convierte en un mal producto, pero significa que todo lo que sabemos de él sale de la ficha de MercadoLibre y de {{reviews:MLAU3891560042}} compradores.
 
 ## Sobre los 10 kg
 
@@ -71630,7 +71630,7 @@ Igual que en el resto de la categoría, los 10 kg declarados dependen de la pare
 Compralo si necesitás melamina negra en 60x20 y querés el kit completo. No lo compres si el respaldo estadístico te importa más que el color, o si querés poder cruzar las specs contra una web de fabricante.`,
     faq: [
       { question: "¿Vienen tres estantes?", answer: "Sí. La ficha declara \"Formato de venta: Pack\" con \"Unidades por pack: 3\", y en este caso el dato está bien cargado." },
-      { question: "¿Qué tan confiables son sus 4.8 estrellas?", answer: "Poco, y conviene saberlo. Son 40 opiniones y poco más de 100 unidades vendidas. Es la base más chica de esta comparativa: el kit más vendido tiene 3.846." },
+      { question: "¿Qué tan confiables son sus 4.8 estrellas?", answer: "Poco, y conviene saberlo. Son {{reviews:MLAU3891560042}} opiniones y poco más de 100 unidades vendidas. Es la base más chica de esta comparativa: el kit más vendido tiene 3.846." },
       { question: "¿Hay otro estante flotante negro?", answer: "En melamina de 60x20, este es el único de esta comparativa. Si te sirve pino macizo teñido de negro y medidas más chicas, está el combo de SAJO de 40, 60 y 80 cm con perchero." },
       { question: "¿Se puede verificar el fabricante?", answer: "No. Es el único de los seis productos de esta comparativa sin sitio oficial encontrable, así que sus specs no se pudieron cruzar contra otra fuente que la ficha de MercadoLibre." },
       { question: "¿Incluye lo necesario para colgarlos?", answer: "Sí, kit de ménsulas invisibles y manual de ensamblado. Igual conviene confirmar qué mecha pide antes de empezar: en esta categoría el diámetro del tarugo cambia según la marca y casi nadie lo publica." },
@@ -71677,7 +71677,7 @@ Compralo si necesitás melamina negra en 60x20 y querés el kit completo. No lo 
       "El kit completo más barato de esta comparativa, uno de los dos que incluyen perchero",
       "Tres medidas distintas (40, 60 y 80 cm) en vez de tres veces la misma",
       "Pino macizo verificado contra la web de SAJO, no melamina",
-      "De las mejor calificadas del grupo, con una base de 131 opiniones",
+      "De las mejor calificadas del grupo, con una base de {{reviews:MLA27777242}} opiniones",
       "Fabricante argentino con web propia donde cruzar los datos",
     ],
     cons: [
@@ -71761,11 +71761,11 @@ Compralo si querés varias medidas para armar una pared decorada, si te sirve el
     description: "La versión teñida del kit de SAJO: llega negra y lista, sin barnizar. La más elegida de las dos opciones de pino de esta comparativa.",
     seoTitle: "SAJO combo negro: 3 repisas de pino listas para colgar",
     metaDescription: "Combo de 3 repisas de pino de 40, 60 y 80 cm en negro más perchero, con las perforaciones hechas. Para decorar, no para cargar peso.",
-    verdict: "Es la versión que llega lista del kit de SAJO: viene teñida de negro de fábrica, así que no hay que barnizar nada, y trae las perforaciones hechas. Con 727 opiniones es la de pino con más respaldo de esta comparativa. Su mejor reseña también marca el límite del producto mejor que cualquier ficha: \"es pino común pero te lo dan pintado, con tornillos y tarugos más las perforaciones. Para deco me parece excelente\". Para deco. Ni MercadoLibre ni SAJO publican cuánto peso aguanta, y con 12 cm de fondo tampoco es la idea.",
+    verdict: "Es la versión que llega lista del kit de SAJO: viene teñida de negro de fábrica, así que no hay que barnizar nada, y trae las perforaciones hechas. Con {{reviews:MLA36299841}} opiniones es la de pino con más respaldo de esta comparativa. Su mejor reseña también marca el límite del producto mejor que cualquier ficha: \"es pino común pero te lo dan pintado, con tornillos y tarugos más las perforaciones. Para deco me parece excelente\". Para deco. Ni MercadoLibre ni SAJO publican cuánto peso aguanta, y con 12 cm de fondo tampoco es la idea.",
     pros: [
       "Llega teñida de negro: a diferencia de la versión natural, no hay que lijar ni barnizar",
       "Viene con las perforaciones hechas y el kit de tornillos y tarugos",
-      "727 opiniones, el respaldo más grande entre las opciones de pino macizo",
+      "{{reviews:MLA36299841}} opiniones, el respaldo más grande entre las opciones de pino macizo",
       "Tres medidas distintas más perchero por menos de treinta mil pesos",
       "Varias reseñas destacan lo fácil que resulta colocarlas",
     ],
@@ -71788,7 +71788,7 @@ Un combo de tres repisas de pino macizo de 40, 60 y 80 cm, teñidas de negro, m�
 
 Es la versión del kit de SAJO que llega lista. La natural se envía sin teñir y hay que barnizarla; esta viene pintada de fábrica. Y trae las perforaciones hechas, algo que agradecen varias reseñas.
 
-Con 727 opiniones es la opción de pino con más respaldo de esta comparativa, y la diferencia de precio contra la natural es de menos de dos mil pesos. Por eso, entre las dos, esta suele ser la más razonable salvo que quieras específicamente el tono natural.
+Con {{reviews:MLA36299841}} opiniones es la opción de pino con más respaldo de esta comparativa, y la diferencia de precio contra la natural es de menos de dos mil pesos. Por eso, entre las dos, esta suele ser la más razonable salvo que quieras específicamente el tono natural.
 
 El caso de uso que más aparece en las reseñas es concreto: colecciones. Muñecos, figuras, mangas. El perfil de 16 cm ayuda a que las cosas no se caigan.
 
@@ -71851,7 +71851,7 @@ Compralo si querés decorar una pared con varias medidas, exhibir colecciones, o
     pros: [
       "La forma más barata de las seis para probar el formato antes de comprar un kit completo",
       "Misma melamina de 18 mm y misma ménsula invisible que el kit de tres del mismo fabricante",
-      "593 opiniones y más de 5 mil unidades vendidas: buen respaldo para su precio",
+      "{{reviews:MLA29565555}} opiniones y más de 5 mil unidades vendidas: buen respaldo para su precio",
       "20 cm de profundidad, igual que los tres kits de 60x20 de esta comparativa",
       "Varias reseñas lo usan como mesa de luz flotante al costado de la cama",
     ],
@@ -71875,7 +71875,7 @@ Un estante flotante individual de 40 cm de largo por 20 de fondo, en melamina bl
 
 Es la manera barata de averiguar si esto te sirve. Antes de gastar cuarenta mil pesos en un kit de tres, comprás uno, lo colgás, y ves si tu pared lo banca, si la altura te convence y si te gusta cómo queda.
 
-Y no es un producto de segunda: es la misma melamina de 18 mm y la misma ménsula que el kit de tres del mismo fabricante, solo que más corto. Con 593 opiniones y más de cinco mil unidades vendidas, tiene respaldo de sobra para lo que cuesta.
+Y no es un producto de segunda: es la misma melamina de 18 mm y la misma ménsula que el kit de tres del mismo fabricante, solo que más corto. Con {{reviews:MLA29565555}} opiniones y más de cinco mil unidades vendidas, tiene respaldo de sobra para lo que cuesta.
 
 Un uso que aparece varias veces en las reseñas y que no está en la publicación: mesa de luz flotante al costado de la cama. "Los usé como mesa de luz súper funcional".
 
@@ -71939,13 +71939,13 @@ Compralo si querés probar el formato con poco riesgo, si necesitás un solo est
     relatedProducts: ["MLA34121091", "MLAU162285980", "MLAU3410543565", "MLA35507302"],
     priceUpdated: "2026-08-16", priceLastChecked: "2026-08-16", priceVerifiedAt: "2026-08-16",
     priceStatus: "fresh", reviewsSampledAt: "2026-08-16",
-    description: "El calefactor a leña más barato de la comparativa y el segundo más reseñado, con 992 opiniones. 7.000 kcal/h, salida de 4 pulgadas y un detalle que conviene saber antes: la boca de carga es chica.",
+    description: "El calefactor a leña más barato de la comparativa y el segundo más reseñado, con {{reviews:MLA37825191}} opiniones. 7.000 kcal/h, salida de 4 pulgadas y un detalle que conviene saber antes: la boca de carga es chica.",
     seoTitle: "Tromen Eco 7000: el calefactor a leña más barato",
-    metaDescription: "Salamandra Tromen Eco 7000 de 7.000 kcal/h con 992 opiniones. Salida de 4 pulgadas, sin cenicero removible y una boca de carga que una compradora describe como chica.",
-    verdict: "Es la entrada más barata al rubro y tiene 992 opiniones que la respaldan, un volumen que en esta categoría no es fácil de conseguir. Compra segura si el ambiente es chico. Dos cosas antes de decidir: su boca de carga es la queja que más se repite entre quienes la usan, y su salida de 4 pulgadas es la más angosta de las tres marcas comparadas, así que los caños no son intercambiables con los de Qutral ni con los de Lepen.",
+    metaDescription: "Salamandra Tromen Eco 7000 de 7.000 kcal/h con {{reviews:MLA37825191}} opiniones. Salida de 4 pulgadas, sin cenicero removible y una boca de carga que una compradora describe como chica.",
+    verdict: "Es la entrada más barata al rubro y tiene {{reviews:MLA37825191}} opiniones que la respaldan, un volumen que en esta categoría no es fácil de conseguir. Compra segura si el ambiente es chico. Dos cosas antes de decidir: su boca de carga es la queja que más se repite entre quienes la usan, y su salida de 4 pulgadas es la más angosta de las tres marcas comparadas, así que los caños no son intercambiables con los de Qutral ni con los de Lepen.",
     pros: [
       "El precio más bajo de la comparativa",
-      "992 opiniones con 4,8 de promedio, el segundo volumen de reseñas de la comparativa",
+      "{{reviews:MLA37825191}} opiniones con 4,8 de promedio, el segundo volumen de reseñas de la comparativa",
       "No requiere ensamblado: llega armado",
       "32,6 kg, el segundo más liviano, lo que simplifica moverlo hasta su lugar definitivo",
       "Es la única de las seis que publica el diámetro de salida en el título, en pulgadas y no en centímetros",
@@ -71966,7 +71966,7 @@ Compralo si querés probar el formato con poco riesgo, si necesitás un solo est
       { rating: 5, country: "Argentina", text: "Linda y funcional, algo bajita, pero me armé un leñero de base hecho en hierro, así gané altura y la separé del piso." },
       { rating: 4, country: "Argentina", text: "Muy contento, me solucionó pasar el invierno en zona donde no tengo gas." },
     ],
-    articleBody: `Con 992 opiniones y 4,8 de promedio, el Eco 7000 es el segundo calefactor a leña más reseñado de esta comparativa. También es el más barato de esta comparativa. Las dos cosas juntas explican por qué es la puerta de entrada al rubro para mucha gente.
+    articleBody: `Con {{reviews:MLA37825191}} opiniones y 4,8 de promedio, el Eco 7000 es el segundo calefactor a leña más reseñado de esta comparativa. También es el más barato de esta comparativa. Las dos cosas juntas explican por qué es la puerta de entrada al rubro para mucha gente.
 
 ## Los 7.000 kcal/h y los 60 metros
 
@@ -72044,12 +72044,12 @@ Es la única de las seis que pone el diámetro de salida en el título: "Salida 
     relatedProducts: ["MLAU3410543565", "MLA37825191", "MLAU3412042507", "MLA35507302"],
     priceUpdated: "2026-08-17", priceLastChecked: "2026-08-16", priceVerifiedAt: "2026-08-16",
     priceStatus: "fresh", reviewsSampledAt: "2026-08-16",
-    description: "El calefactor a leña más reseñado de esta comparativa, con 1.153 opiniones, y el que menos cuesta por caloría de los seis comparados. 13.000 kcal/h de doble combustión declarada.",
+    description: "El calefactor a leña más reseñado de esta comparativa, con {{reviews:MLA34121091}} opiniones, y el que menos cuesta por caloría de los seis comparados. 13.000 kcal/h de doble combustión declarada.",
     seoTitle: "Qutral Andes 13000: el más reseñado y el mejor por caloría",
-    metaDescription: "Estufa a leña Qutral Andes 13000 con 1.153 opiniones y 4,8 de promedio. 13.000 kcal/h de doble combustión, $34 por caloría: el más eficiente de la comparativa.",
-    verdict: "Es el más reseñado de la comparativa con 1.153 opiniones, y también el que menos cuesta por caloría de los seis: $34 contra los $41 del Tromen, que es más barato en total pero rinde menos. Declara doble combustión en el título, algo que ninguna otra publicación de la comparativa hace de forma tan directa. La contra real no está en el equipo sino en lo que falta: la salida de humos se compra aparte, y el mismo Andes con kit de pared cuesta $211.007 más.",
+    metaDescription: "Estufa a leña Qutral Andes 13000 con {{reviews:MLA34121091}} opiniones y 4,8 de promedio. 13.000 kcal/h de doble combustión, $34 por caloría: el más eficiente de la comparativa.",
+    verdict: "Es el más reseñado de la comparativa con {{reviews:MLA34121091}} opiniones, y también el que menos cuesta por caloría de los seis: $34 contra los $41 del Tromen, que es más barato en total pero rinde menos. Declara doble combustión en el título, algo que ninguna otra publicación de la comparativa hace de forma tan directa. La contra real no está en el equipo sino en lo que falta: la salida de humos se compra aparte, y el mismo Andes con kit de pared cuesta $211.007 más.",
     pros: [
-      "1.153 opiniones con 4,8 de promedio: el volumen de reseñas más alto de la comparativa",
+      "{{reviews:MLA34121091}} opiniones con 4,8 de promedio: el volumen de reseñas más alto de la comparativa",
       "$34 por caloría, la mejor relación de las seis publicaciones comparadas",
       "13.000 kcal/h, la segunda potencia más alta del grupo",
       "Declara doble combustión en el título y la repite en la descripción del vendedor",
@@ -72069,7 +72069,7 @@ Es la única de las seis que pone el diámetro de salida en el título: "Salida 
       { rating: 5, country: "Argentina", text: "Muy fácil instalación, rápida para prender y se nota que consume menos leña que una de fundición." },
       { rating: 5, country: "Argentina", text: "Nos gustó mucho. Pensé que era más alta, pero en realidad es la medida que se indica. La puerta grande es útil para poder poner leña grande." },
     ],
-    articleBody: `1.153 opiniones. Es el número más alto de los seis equipos comparados, por encima incluso del Tromen Eco 7000, que es más barato. Con 4,8 de promedio, es el producto sobre el que hay más evidencia disponible de esta comparativa.
+    articleBody: `{{reviews:MLA34121091}} opiniones. Es el número más alto de los seis equipos comparados, por encima incluso del Tromen Eco 7000, que es más barato. Con 4,8 de promedio, es el producto sobre el que hay más evidencia disponible de esta comparativa.
 
 ## Por qué es el más eficiente del grupo
 
@@ -72147,13 +72147,13 @@ En las dos publicaciones de este modelo aparece la misma observación: es más b
     priceStatus: "fresh", reviewsSampledAt: "2026-08-16",
     description: "El más liviano y compacto de la comparativa, con el rango de superficie mejor declarado de las seis publicaciones. Trae cenicero removible. Dos contras concretas: la pintura y los caños de medida no estándar.",
     seoTitle: "Lepen Moquehue Vintage 9000: compacto y con cenicero",
-    metaDescription: "Calefactor a leña Lepen Moquehue Vintage 9000 con 276 opiniones. 31 kg, cenicero removible y un rango real de 50 a 70 m². Ojo con la pintura y con los caños de 5 pulgadas.",
+    metaDescription: "Calefactor a leña Lepen Moquehue Vintage 9000 con {{reviews:MLAU162285980}} opiniones. 31 kg, cenicero removible y un rango real de 50 a 70 m². Ojo con la pintura y con los caños de 5 pulgadas.",
     verdict: "El más chico y liviano de los seis, y uno de los dos de la comparativa con cenicero removible. También es el que mejor declara para cuántos metros sirve: 50 a 70 m², un rango real en vez de un cero o un número repetido. Las dos contras están documentadas por sus propios compradores y son serias: la pintura salta con el uso, y Lepen trabaja con caños de una medida que no es la estándar del mercado, así que la instalación termina atándote a la marca.",
     pros: [
       "31 kg y 43 cm de ancho: el más liviano y el más angosto de la comparativa",
       "Cenicero removible, que ninguna de las tres publicaciones de Qutral ni el Tromen declaran",
       "Declara 50 m² a 70 m²: Lepen es la única marca cuyas publicaciones declaran un piso real, contra el cero de las tres de Qutral y el 60 repetido del Tromen",
-      "276 opiniones con 4,7 de promedio y más de 1000 unidades vendidas",
+      "{{reviews:MLAU162285980}} opiniones con 4,7 de promedio y más de 1000 unidades vendidas",
       "El diseño vintage es lo que más se destaca en las reseñas positivas",
     ],
     cons: [
@@ -72257,7 +72257,7 @@ Como MercadoLibre no tiene un campo para el tipo de combustión, el dato se meti
     verdict: "No es un producto distinto: es el mismo Andes 13000 con la salida de humos adentro de la caja. Por eso es la publicación más útil de toda la comparativa, aunque no sea la que más conviene comprar. Pone precio a lo que casi ninguna publicación del rubro muestra: en este modelo, la salida de humos son $211.007 aparte, casi la mitad del equipo. Si ya tenés la salida hecha, comprá el Andes solo y ahorrate esa plata.",
     pros: [
       "Trae la salida de humos incluida: de las seis publicaciones comparadas, solo esta y la Qutral Patagónica la incluyen",
-      "4,9 de promedio sobre 119 opiniones: la calificación más alta de la comparativa junto con el Patagónica",
+      "4,9 de promedio sobre {{reviews:MLAU3410543565}} opiniones: la calificación más alta de la comparativa junto con el Patagónica",
       "Es el mismo equipo de 13.000 kcal/h que la publicación más reseñada del rubro",
       "El kit es enlozado, no chapa común",
       "Evita el problema de comprar caños del diámetro equivocado: los Qutral declaran 6 pulgadas, el Tromen 4 y el Lepen Moquehue 13500, 5",
@@ -72268,7 +72268,7 @@ Como MercadoLibre no tiene un campo para el tipo de combustión, el dato se meti
       "Sin cenicero removible, y acá está el comprador que pide expresamente una pala para sacar las cenizas",
       "Un comprador tuvo que agregarle ladrillos refractarios abajo porque le resultó muy bajo",
       "En el primer encendido larga humo mientras se quema la pintura de fábrica, según una reseña",
-      "119 opiniones contra las 1.153 del mismo modelo sin kit: hay mucha menos evidencia acumulada",
+      "{{reviews:MLAU3410543565}} opiniones contra las {{reviews:MLA34121091}} del mismo modelo sin kit: hay mucha menos evidencia acumulada",
     ],
     customerReviews: [
       { rating: 5, country: "Argentina", text: "Además de ser hermosa, calefacciona toda la casa. Cuando la prendés por primera vez larga un poco de humo donde se quema el producto. Excelente producto precio-calidad." },
@@ -72296,7 +72296,7 @@ No conviene si ya tenés la salida hecha de un equipo anterior con el mismo diá
 
 ## Las contras que dejaron los compradores
 
-Con 119 opiniones y 4,9 de promedio, esta publicación tiene la calificación más alta de la comparativa, pero mucha menos evidencia acumulada que el mismo modelo sin kit, que tiene 1.153.
+Con {{reviews:MLAU3410543565}} opiniones y 4,9 de promedio, esta publicación tiene la calificación más alta de la comparativa, pero mucha menos evidencia acumulada que el mismo modelo sin kit, que tiene 1.153.
 
 Dos reseñas aportan advertencias útiles. La primera, sobre el estreno: "cuando la prendés por primera vez larga un poco de humo donde se quema el producto". Es la pintura de fábrica curándose, y es esperable.
 
@@ -72367,7 +72367,7 @@ Lo de la altura coincide con lo que dicen los compradores del Andes sin kit: 57 
       "$98 por caloría: el peor de los seis, casi el triple que el Qutral Andes 13000",
       "9.000 kcal/h por casi el doble de precio que el Andes, que da 13.000",
       "Sin cenicero removible según la ficha, pese al precio",
-      "Solo 36 opiniones, y varias son de compradores que todavía no lo instalaron: \"falta instalarla\", \"estamos por instalarlo\"",
+      "Solo {{reviews:MLAU3412042507}} opiniones, y varias son de compradores que todavía no lo instalaron: \"falta instalarla\", \"estamos por instalarlo\"",
       "52 kg y 96 cm de alto: el segundo más pesado y el más alto, hay que pensar dónde va antes de que llegue",
       "Stock limitado: +10 unidades disponibles al momento de verificarlo",
     ],
@@ -72393,13 +72393,13 @@ Como el Andes con kit, esta publicación trae la salida de humos. En el caso del
 
 Usa salida de 6 pulgadas, igual que el resto de la línea Qutral.
 
-## Qué dicen los 36 compradores
+## Qué dicen los {{reviews:MLAU3412042507}} compradores
 
 Es el producto con menos opiniones de la comparativa, y hay que leerlas con cuidado. Con 4,9 de promedio, el tono es uniformemente positivo, pero dos de las cuatro reseñas con texto son de gente que todavía no lo usó: "está muy bien terminada, bien empacada, falta instalarla", "muy lindo, estamos por instalarlo".
 
 Eso es información sobre el empaque y la terminación, no sobre el rendimiento. La única que habla de uso real es corta y clara: "es muy bueno, la encendí y calienta excelente".
 
-Con 36 opiniones no hay evidencia acumulada como para hablar del horno, de la durabilidad de la pintura o del consumo. Es un producto nuevo en el catálogo del vendedor y las reseñas todavía no maduraron.
+Con {{reviews:MLAU3412042507}} opiniones no hay evidencia acumulada como para hablar del horno, de la durabilidad de la pintura o del consumo. Es un producto nuevo en el catálogo del vendedor y las reseñas todavía no maduraron.
 
 ## Lo que la ficha declara y no
 
@@ -72503,7 +72503,7 @@ Ese mismo problema aparece en el Moquehue Vintage 9000 de la misma marca, donde 
 
 ## Lo que sí funciona, según los compradores
 
-El horno tiene buena prensa: "el horno funciona y calienta de diez". El tiraje también: "impecable, tira re bien. No larga nada de humo". Con 76 opiniones no es el volumen del Qutral Andes, pero alcanza para ver un patrón: los problemas son de terminación, no de rendimiento.
+El horno tiene buena prensa: "el horno funciona y calienta de diez". El tiraje también: "impecable, tira re bien. No larga nada de humo". Con {{reviews:MLA35507302}} opiniones no es el volumen del Qutral Andes, pero alcanza para ver un patrón: los problemas son de terminación, no de rendimiento.
 
 ## El 60% que nadie explica
 
@@ -72561,7 +72561,7 @@ MercadoLibre no tiene un campo para el tipo de combustión, así que el dato ter
     description: "El freezer vertical más barato de la comparativa, con 45,5 cm de ancho y 23 kg. La contra no está en el equipo sino en el respaldo: muestra 5,0 estrellas calculadas sobre una sola opinión.",
     seoTitle: "Siam FSI-CV065B: el freezer vertical más barato",
     metaDescription: "Freezer vertical Siam de 65 litros a 45,5 cm de ancho, el más barato de la comparativa. Por qué su 5,0 de calificación no dice lo que parece.",
-    verdict: "Es el más barato de los seis y uno de los dos más angostos, así que si el problema es el hueco donde va, entra donde los de 1,42 m no entran. Trae 1 cajón y 2 estantes, y declara eficiencia A. Ahora, la parte incómoda: ese 5,0 de calificación sale de una sola opinión. No es una mala señal, es ninguna señal. Si querés el mismo tamaño con evidencia real detrás, el Philco de 65 litros tiene 1.002 opiniones, aunque cuesta $199.100 más.",
+    verdict: "Es el más barato de los seis y uno de los dos más angostos, así que si el problema es el hueco donde va, entra donde los de 1,42 m no entran. Trae 1 cajón y 2 estantes, y declara eficiencia A. Ahora, la parte incómoda: ese 5,0 de calificación sale de una sola opinión. No es una mala señal, es ninguna señal. Si querés el mismo tamaño con evidencia real detrás, el Philco de 65 litros tiene {{reviews:MLA20038035}} opiniones, aunque cuesta $199.100 más.",
     pros: [
       "El precio más bajo de la comparativa",
       "45,5 cm de ancho y 85 cm de alto: entra en huecos donde no entra un equipo de 1,42 m",
@@ -72584,7 +72584,7 @@ La publicación muestra **5,0 de calificación**. Ese número está calculado so
 
 No es una señal mala, es la ausencia de señal. Un promedio de 5,0 sobre una opinión y un promedio de 4,7 sobre mil son dos cosas distintas que MercadoLibre muestra igual, con las mismas estrellas al lado del precio.
 
-Sirve para contrastar con el otro equipo de 65 litros de esta guía, el Philco: cuesta $199.100 más y tiene 1.002 opiniones. La elección entre los dos no es barato contra caro, es **precio contra evidencia**.
+Sirve para contrastar con el otro equipo de 65 litros de esta guía, el Philco: cuesta $199.100 más y tiene {{reviews:MLA20038035}} opiniones. La elección entre los dos no es barato contra caro, es **precio contra evidencia**.
 
 ## Los 65 litros, en concreto
 
@@ -72598,7 +72598,7 @@ Declara 1 cajón y 2 estantes, eficiencia energética A y deshielo cíclico, que
 
 Mide 45,5 x 45,5 x 85 cm y pesa 23 kg. Con esa altura entra abajo de una mesada estándar, aunque el fabricante no lo publica como equipo empotrable, así que conviene dejarle aire alrededor.`,
     faq: [
-      { question: "¿Por qué el Siam FSI-CV065B tiene 5 estrellas?", answer: "Porque tiene una sola opinión, y esa opinión fue de 5 estrellas. No es un promedio representativo: un 5,0 sobre una opinión no dice lo mismo que un 4,7 sobre mil. Si preferís comprar con evidencia acumulada, el Philco de la misma capacidad tiene 1.002 opiniones." },
+      { question: "¿Por qué el Siam FSI-CV065B tiene 5 estrellas?", answer: "Porque tiene una sola opinión, y esa opinión fue de 5 estrellas. No es un promedio representativo: un 5,0 sobre una opinión no dice lo mismo que un 4,7 sobre mil. Si preferís comprar con evidencia acumulada, el Philco de la misma capacidad tiene {{reviews:MLA20038035}} opiniones." },
       { question: "¿Cuánto mide el freezer vertical Siam de 65 litros?", answer: "45,5 cm de ancho, 45,5 cm de profundidad y 85 cm de alto, con 23 kg de peso. Es uno de los dos más angostos de la comparativa, así que entra en huecos donde no entran los equipos de 55 cm de ancho y 1,42 m de alto." },
       { question: "¿Alcanza un freezer de 65 litros?", answer: "Como complemento del freezer de la heladera, sí: sirve para carne comprada en cantidad, pan y helado. Como freezer principal de una familia, queda corto, y además los litros chicos salen más caros: $8.817 por litro contra $5.312 del equipo de 160 litros de esta guía." },
       { question: "¿Hay que descongelarlo a mano?", answer: "Sí. Declara sistema de deshielo cíclico, que significa que se descongela manualmente cada tanto. Ninguno de los seis equipos de esta comparativa declara tecnología no frost." },
@@ -72646,12 +72646,12 @@ Mide 45,5 x 45,5 x 85 cm y pesa 23 kg. Con esa altura entra abajo de una mesada 
     relatedProducts: ["MLA75635667", "MLA23435743", "MLA6071549", "MLA19620404"],
     priceUpdated: "2026-08-16", priceLastChecked: "2026-08-16", priceVerifiedAt: "2026-08-16",
     priceStatus: "fresh", reviewsSampledAt: "2026-08-16",
-    description: "El freezer vertical más reseñado de la comparativa, con 1.002 opiniones, y el más liviano con 20 kg. También el que más cuesta por litro de los seis.",
-    seoTitle: "Philco PHCV065B: 1.002 opiniones en 65 litros",
-    metaDescription: "Freezer vertical Philco de 65 litros con 1.002 opiniones y 4,7. Compradores confirman que un mes de compras entra, y avisan que el calor sale por los costados.",
-    verdict: "Es el que más respaldo tiene de los seis: 1.002 opiniones con 4,7 de promedio, más de mil vendidos y el peso más liviano del grupo. Si comprás por evidencia, este es el que más tiene. Dos cosas que hay que decir igual: es el que más cuesta por litro de toda la comparativa, $11.880 contra los $5.312 del Midea de 160, y su ficha declara \"No\" en control de temperatura, puertas reversibles, luz interior y congelamiento rápido. Pagás por el respaldo, no por el equipamiento.",
+    description: "El freezer vertical más reseñado de la comparativa, con {{reviews:MLA20038035}} opiniones, y el más liviano con 20 kg. También el que más cuesta por litro de los seis.",
+    seoTitle: "Philco PHCV065B: más de 1.000 opiniones en 65 litros",
+    metaDescription: "Freezer vertical Philco de 65 litros con {{reviews:MLA20038035}} opiniones y 4,7. Compradores confirman que un mes de compras entra, y avisan que el calor sale por los costados.",
+    verdict: "Es el que más respaldo tiene de los seis: {{reviews:MLA20038035}} opiniones con 4,7 de promedio, más de mil vendidos y el peso más liviano del grupo. Si comprás por evidencia, este es el que más tiene. Dos cosas que hay que decir igual: es el que más cuesta por litro de toda la comparativa, $11.880 contra los $5.312 del Midea de 160, y su ficha declara \"No\" en control de temperatura, puertas reversibles, luz interior y congelamiento rápido. Pagás por el respaldo, no por el equipamiento.",
     pros: [
-      "1.002 opiniones con 4,7 de promedio: el respaldo más grande de la comparativa",
+      "{{reviews:MLA20038035}} opiniones con 4,7 de promedio: el respaldo más grande de la comparativa",
       "20 kg, el más liviano de los seis, y una sola persona lo mueve",
       "45,3 cm de ancho y 82,5 cm de alto: el más compacto del grupo",
       "Un comprador reporta haber guardado casi 30 kg entre carne, pollo y milanesas",
@@ -72694,7 +72694,7 @@ A $772.199 por 65 litros, este equipo sale **$11.880 el litro**. Es el más caro
 
 Peor todavía, el Siam de esta misma guía tiene **la misma capacidad de 65 litros** y cuesta $199.100 menos. Dicho al revés, que es como pega: **este Philco sale un 35% más caro que el Siam** por los mismos 65 litros.
 
-Entonces, ¿por qué está acá? Por lo que ese Siam no tiene: 1.002 opiniones contra 1. Estás pagando por saber en qué te estás metiendo. Es una razón legítima, pero conviene tenerla explícita en vez de creer que estás comprando más equipo.
+Entonces, ¿por qué está acá? Por lo que ese Siam no tiene: {{reviews:MLA20038035}} opiniones contra {{reviews:MLA75635667}}. Estás pagando por saber en qué te estás metiendo. Es una razón legítima, pero conviene tenerla explícita en vez de creer que estás comprando más equipo.
 
 Porque más equipo no es: su ficha declara "No" en control de temperatura, puertas reversibles, luz interior, congelamiento rápido, ruedas y tapón de drenado.`,
     faq: [
@@ -72760,7 +72760,7 @@ Porque más equipo no es: su ficha declara "No" en control de temperatura, puert
     ],
     cons: [
       "⚠️ Quedaban 2 unidades disponibles al verificarlo el 2026-08-16",
-      "177 opiniones, el segundo respaldo más chico de la comparativa",
+      "{{reviews:MLA50200098}} opiniones, el segundo respaldo más chico de la comparativa",
       "144 cm de alto: es el más alto de los seis, hay que medir antes",
       "42 kg y sin ruedas declaradas, así que moverlo es tarea de dos",
       "Deshielo cíclico, hay que descongelarlo a mano",
@@ -72789,7 +72789,7 @@ Lo decimos porque es la clase de dato que cambia la decisión: si te interesa, n
 
 ## Lo que dicen los compradores
 
-Con 177 opiniones y 4,7 de promedio, el respaldo es más chico que el de otros equipos de esta guía, pero el tono es parejo y sin quejas técnicas. Lo que más se repite es el silencio y la terminación: "estéticamente es divino, no hace nada de ruido y tiene una buena capacidad".
+Con {{reviews:MLA50200098}} opiniones y 4,7 de promedio, el respaldo es más chico que el de otros equipos de esta guía, pero el tono es parejo y sin quejas técnicas. Lo que más se repite es el silencio y la terminación: "estéticamente es divino, no hace nada de ruido y tiene una buena capacidad".
 
 Una reseña deja un detalle honesto sobre el arranque: "demoró en enfriar justo lo que decía el manual de instrucciones". O sea que el manual no miente, pero tampoco es instantáneo.
 
@@ -72843,14 +72843,14 @@ Mide 144 cm de alto, el más alto de los seis, y 57 cm de ancho, el más ancho. 
     priceStatus: "fresh", reviewsSampledAt: "2026-08-16",
     description: "El freezer vertical con más capacidad de la comparativa y el que menos cuesta por litro: 160 litros a $5.312. El único que declara ruedas. La contra está en el compartimento de arriba.",
     seoTitle: "Midea FC-MJ6WAR1: 160 litros, el mejor por litro",
-    metaDescription: "Freezer vertical Midea de 160 litros a $5.312 el litro, el mejor de la comparativa, con ruedas y 424 opiniones. Por qué se quejan del compartimento superior.",
-    verdict: "Es el que más litros da y el que menos cuesta por litro de los seis: $5.312, contra los $11.880 del más chico. Suma las ruedas, que ningún otro declara, más puertas reversibles, y llega con 424 opiniones. Es la opción por defecto si el lugar te da para 55 x 55 cm y 1,42 m de alto. La contra es concreta y sale de sus propias reseñas: el compartimento de arriba no trae estante, así que la comida se apoya sobre el fondo.",
+    metaDescription: "Freezer vertical Midea de 160 litros a $5.312 el litro, el mejor de la comparativa, con ruedas y {{reviews:MLA23435743}} opiniones. Por qué se quejan del compartimento superior.",
+    verdict: "Es el que más litros da y el que menos cuesta por litro de los seis: $5.312, contra los $11.880 del más chico. Suma las ruedas, que ningún otro declara, más puertas reversibles, y llega con {{reviews:MLA23435743}} opiniones. Es la opción por defecto si el lugar te da para 55 x 55 cm y 1,42 m de alto. La contra es concreta y sale de sus propias reseñas: el compartimento de arriba no trae estante, así que la comida se apoya sobre el fondo.",
     pros: [
       "160 litros, la mayor capacidad de la comparativa",
       "$5.312 por litro, el mejor de los seis: menos de la mitad que el equipo más chico",
       "El único que declara ruedas, lo que hace toda la diferencia con 42 kg encima",
       "Puertas reversibles, así que se puede adaptar al lado por el que abrís",
-      "424 opiniones con 4,7 de promedio y más de mil vendidos",
+      "{{reviews:MLA23435743}} opiniones con 4,7 de promedio y más de mil vendidos",
       "Varias reseñas destacan lo silencioso que es y que congela con la perilla al medio",
     ],
     cons: [
@@ -72944,14 +72944,14 @@ Un comprador lo resume por tamaño de familia: "para una familia de tres va perf
     priceStatus: "fresh", reviewsSampledAt: "2026-08-16",
     description: "El único bajo mesada de la comparativa: 85,5 cm de alto para meterlo debajo de una mesada, con doble función freezer o heladera y 4 cajones. Se paga caro el litro.",
     seoTitle: "Vondom FR55: el freezer vertical bajo mesada",
-    metaDescription: "Freezer Vondom FR55 de 85 litros bajo mesada, con doble función y 4 cajones. 330 opiniones, 4,8 de promedio, y por qué sale caro el litro.",
+    metaDescription: "Freezer Vondom FR55 de 85 litros bajo mesada, con doble función y 4 cajones. {{reviews:MLA6071549}} opiniones, 4,8 de promedio, y por qué sale caro el litro.",
     verdict: "Es el único de la comparativa pensado para ir abajo de una mesada, con 85,5 cm de alto, y el único con doble función: lo usás como freezer o como heladera. Suma 4 cajones, 6 estantes, control de temperatura y el rango declarado de -18 °C a 0 °C. Es también el segundo peor en precio por litro, $10.471, y sus propios compradores lo dicen: \"el precio comparado con otros es bastante más caro, pero vale la pena\". Se paga el formato, no la capacidad.",
     pros: [
       "El único bajo mesada de la comparativa: 85,5 cm de alto",
       "Doble función declarada: sirve como freezer o como heladera",
       "6 estantes y 4 cajones, la mayor cantidad de estantes del grupo",
       "Control de temperatura, puertas reversibles y rango declarado de -18 °C a 0 °C",
-      "330 opiniones con 4,8: el mejor promedio del grupo junto con el Siam FSI-CV180B, contando solo los que tienen respaldo real",
+      "{{reviews:MLA6071549}} opiniones con 4,8: el mejor promedio del grupo junto con el Siam FSI-CV180B, contando solo los que tienen respaldo real",
       "Varios compradores destacan que no hace ruido y que no se le forma hielo",
     ],
     cons: [
@@ -72989,7 +72989,7 @@ Esa frase resume bien la compra. No estás pagando litros, estás pagando que en
 
 ## Lo que reportan los que lo usan
 
-Con 330 opiniones y 4,8 de promedio, comparte el mejor promedio del grupo con el Siam FSI-CV180B, dejando afuera el 5,0 que un equipo muestra sobre una sola opinión. Lo que más se repite es el silencio y los cajones: "los cajones enormes, practiquísimos... los cajones tienen lugar para agarrarlos de los costados y sacarlos y ponerlos fácilmente".
+Con {{reviews:MLA6071549}} opiniones y 4,8 de promedio, comparte el mejor promedio del grupo con el Siam FSI-CV180B, dejando afuera el 5,0 que un equipo muestra sobre una sola opinión. Lo que más se repite es el silencio y los cajones: "los cajones enormes, practiquísimos... los cajones tienen lugar para agarrarlos de los costados y sacarlos y ponerlos fácilmente".
 
 Un comprador da el detalle más útil sobre el mantenimiento, que aplica a cualquier equipo cíclico: "hay que mantener la higiene de los cajones y evitar que se genere hielo en el exterior de los mismos para que no se traben".
 
@@ -73048,12 +73048,12 @@ Y un dato de medición que conviene no pasar por alto: con **57 cm de profundida
     relatedProducts: ["MLA50200098", "MLA23435743", "MLA6071549", "MLA20038035"],
     priceUpdated: "2026-08-17", priceLastChecked: "2026-08-16", priceVerifiedAt: "2026-08-16",
     priceStatus: "fresh", reviewsSampledAt: "2026-08-16",
-    description: "El freezer vertical más caro de la comparativa, con 498 opiniones y 4,8. El título dice 166 litros y su propia ficha técnica declara 153: trece litros de diferencia.",
+    description: "El freezer vertical más caro de la comparativa, con {{reviews:MLA19620404}} opiniones y 4,8. El título dice 166 litros y su propia ficha técnica declara 153: trece litros de diferencia.",
     seoTitle: "Siam FSI-CV180B: dice 166 litros, la ficha dice 153",
-    metaDescription: "Freezer vertical Siam FSI-CV180B con 498 opiniones y 4,8. El título promete 166 litros y la ficha declara 153, y un comprador explica por qué.",
-    verdict: "Tiene el segundo mejor promedio de la comparativa, 4,8 sobre 498 opiniones, y es el segundo con más respaldo del grupo. Publica cosas que otros no, como la certificación IRAM y el gas refrigerante. Pero es el más caro de los seis y arrastra una contradicción que conviene saber antes: el título dice 166 litros y su propia ficha técnica declara 153. Un comprador llegó al mismo lugar por su cuenta, avisando que las paredes son gruesas y roban espacio adentro.",
+    metaDescription: "Freezer vertical Siam FSI-CV180B con {{reviews:MLA19620404}} opiniones y 4,8. El título promete 166 litros y la ficha declara 153, y un comprador explica por qué.",
+    verdict: "Tiene el segundo mejor promedio de la comparativa, 4,8 sobre {{reviews:MLA19620404}} opiniones, y es el segundo con más respaldo del grupo. Publica cosas que otros no, como la certificación IRAM y el gas refrigerante. Pero es el más caro de los seis y arrastra una contradicción que conviene saber antes: el título dice 166 litros y su propia ficha técnica declara 153. Un comprador llegó al mismo lugar por su cuenta, avisando que las paredes son gruesas y roban espacio adentro.",
     pros: [
-      "498 opiniones con 4,8 de promedio: el segundo respaldo más grande de la comparativa",
+      "{{reviews:MLA19620404}} opiniones con 4,8 de promedio: el segundo respaldo más grande de la comparativa",
       "Publica la certificación IRAM con número, dato que ninguno de los otros cinco publica",
       "Declara el gas refrigerante R600a y eficiencia energética A",
       "Puertas reversibles, para adaptarlo al lado por el que abrís",
@@ -73114,8 +73114,8 @@ El tono es parejo: silencio y terminaciones. "Muy buenas terminaciones, nada de 
 Hay un detalle que aparece en una reseña y que la ficha no respalda: un comprador menciona "unas rueditas" que hacen que el equipo se mueva al abrir la puerta. La ficha técnica de esta publicación no declara ruedas, así que lo dejamos como lo que es, el reporte de un comprador, sin darlo por confirmado.`,
     faq: [
       { question: "¿Cuántos litros tiene realmente el Siam FSI-CV180B?", answer: "Su ficha técnica declara 153 litros, mientras que el título de la publicación dice 166. Son trece litros de diferencia dentro del mismo aviso. Un comprador aporta una explicación posible desde el uso: dice que las paredes del freezer son gruesas y roban espacio en el interior. Para nuestras cuentas usamos los 153 de la ficha." },
-      { question: "¿Cuál es la diferencia entre el Siam FSI-CV180B y el FSI-CV181?", answer: "Son dos equipos distintos. El FSI-CV180B es blanco, declara 153 litros, mide 55 x 59 x 143 cm y tiene 498 opiniones. El FSI-CV181 es negro, declara 151 litros, mide 57 x 54,5 x 144 cm, declara 6 cajones y cuesta $103.400 menos, pero tiene 177 opiniones." },
-      { question: "¿Conviene el Siam FSI-CV180B o el Midea de 160 litros?", answer: "Por números, el Midea: da más litros según ficha, sale $76.200 menos, rinde $5.312 el litro contra $6.054 y declara ruedas, que el Siam no. El Siam gana en respaldo, con 498 opiniones contra 424, y es el único que publica su certificación IRAM con número." },
+      { question: "¿Cuál es la diferencia entre el Siam FSI-CV180B y el FSI-CV181?", answer: "Son dos equipos distintos. El FSI-CV180B es blanco, declara 153 litros, mide 55 x 59 x 143 cm y tiene {{reviews:MLA19620404}} opiniones. El FSI-CV181 es negro, declara 151 litros, mide 57 x 54,5 x 144 cm, declara 6 cajones y cuesta $103.400 menos, pero tiene {{reviews:MLA50200098}} opiniones." },
+      { question: "¿Conviene el Siam FSI-CV180B o el Midea de 160 litros?", answer: "Por números, el Midea: da más litros según ficha, sale $76.200 menos, rinde $5.312 el litro contra $6.054 y declara ruedas, que el Siam no. El Siam gana en respaldo, con {{reviews:MLA19620404}} opiniones contra {{reviews:MLA23435743}}, y es el único que publica su certificación IRAM con número." },
       { question: "¿Tiene luz interior?", answer: "No. Su ficha declara \"Con luz interior: No\", y tampoco incluye cerradura con llave. Sí declara puertas reversibles, gas R600a y eficiencia energética A." },
     ],
   },
@@ -73162,13 +73162,13 @@ Hay un detalle que aparece en una reseña y que la ficha no respalda: un comprad
     relatedProducts: ["MLA61348769", "MLA8791802", "MLA63018001", "MLA36486302"],
     priceUpdated: "2026-08-16", priceLastChecked: "2026-08-16", priceVerifiedAt: "2026-08-16",
     priceStatus: "fresh", reviewsSampledAt: "2026-08-16",
-    description: "La cocina a gas más vendida de MercadoLibre Argentina y la más barata de esta comparativa, con 6.131 opiniones. Antes de comprarla, un dato que decide todo: su ficha declara que no es convertible a garrafa.",
+    description: "La cocina a gas más vendida de MercadoLibre Argentina y la más barata de esta comparativa, con {{reviews:MLA6056509}} opiniones. Antes de comprarla, un dato que decide todo: su ficha declara que no es convertible a garrafa.",
     seoTitle: "Escorial Candor S2: la más vendida, pero solo gas natural",
-    metaDescription: "Cocina Escorial Candor S2 de 51 cm con 6.131 opiniones, la más vendida del rubro. Su ficha declara que no convierte a garrafa: si tenés GLP, no te sirve.",
-    verdict: "Es la cocina a gas más vendida de la categoría y la más barata de esta comparativa, con 6.131 opiniones detrás. Como compra de entrada tiene todo el sentido, y sus compradores la defienden justamente por eso. Pero hay una condición que la descarta de entrada para mucha gente: **su ficha declara \"Es convertible a GLP: No\"**. GLP es garrafa. Si en tu casa no hay gas natural de red, esta cocina no es una opción, por más que encabece el ranking.",
+    metaDescription: "Cocina Escorial Candor S2 de 51 cm con {{reviews:MLA6056509}} opiniones, la más vendida del rubro. Su ficha declara que no convierte a garrafa: si tenés GLP, no te sirve.",
+    verdict: "Es la cocina a gas más vendida de la categoría y la más barata de esta comparativa, con {{reviews:MLA6056509}} opiniones detrás. Como compra de entrada tiene todo el sentido, y sus compradores la defienden justamente por eso. Pero hay una condición que la descarta de entrada para mucha gente: **su ficha declara \"Es convertible a GLP: No\"**. GLP es garrafa. Si en tu casa no hay gas natural de red, esta cocina no es una opción, por más que encabece el ranking.",
     pros: [
       "El precio más bajo de la comparativa",
-      "6.131 opiniones con 4,6 de promedio: el respaldo más grande del grupo por lejos",
+      "{{reviews:MLA6056509}} opiniones con 4,6 de promedio: el respaldo más grande del grupo por lejos",
       "Válvulas de seguridad declaradas, que en gas no es un lujo",
       "26,5 kg, la segunda más liviana de las seis",
       "Eficiencia energética A tanto en hornallas como en horno",
@@ -73188,7 +73188,7 @@ Hay un detalle que aparece en una reseña y que la ficha no respalda: un comprad
       { rating: 5, country: "Argentina", text: "La verdad que fue lo más barato que conseguí. Si bien la lata no es la más gruesa, tampoco podemos exigir tanto por el precio. A mí me sirve y la recomiendo." },
       { rating: 5, country: "Argentina", text: "En cuanto al precio y calidad es buena, tiene sus detalles en las terminaciones y la bandeja de parrilla de abajo no es de lo mejor. Pero sinceramente es una buena cocina." },
     ],
-    articleBody: `Es la cocina a gas más vendida de MercadoLibre Argentina, con más de diez mil unidades y **6.131 opiniones**. También es la más barata de esta comparativa. Las dos cosas juntas explican por qué encabeza el ranking.
+    articleBody: `Es la cocina a gas más vendida de MercadoLibre Argentina, con más de diez mil unidades y **{{reviews:MLA6056509}} opiniones**. También es la más barata de esta comparativa. Las dos cosas juntas explican por qué encabeza el ranking.
 
 ## El dato que hay que mirar antes que el precio
 
@@ -73202,7 +73202,7 @@ GLP es el gas de garrafa. Ese "No" significa que esta cocina está pensada únic
 
 En buena parte del país se cocina con garrafa. Para esa gente, la cocina más vendida del rubro directamente no es una opción, y el dato está en un campo de la ficha que casi nadie abre. Las otras cinco de esta guía declaran "Es convertible a GLP: Sí".
 
-## Lo que dicen los 6.131 compradores
+## Lo que dicen los {{reviews:MLA6056509}} compradores
 
 El tono es consistente y honesto: es una cocina barata que cumple, y quienes la califican lo hacen sabiendo lo que compraron. "Por ser la más barata, está perfecta", escribe una compradora con 4 estrellas.
 
@@ -73219,7 +73219,7 @@ No trae luz en el horno ni encendido con chispero: es **encendido manual**, o se
 Con 95 cm es la más alta de la comparativa y con 51 cm de ancho es de las más angostas, así que entra donde no entran las de 56.`,
     faq: [
       { question: "¿La cocina Escorial Candor S2 funciona con garrafa?", answer: "No, según su propia ficha técnica de MercadoLibre, que declara \"Es convertible a GLP: No\". GLP es el gas de garrafa. Está pensada solo para gas natural de red. Las otras cinco cocinas de esta comparativa declaran que sí son convertibles." },
-      { question: "¿Por qué la Escorial Candor S2 es la más vendida?", answer: "Por precio: es la más barata de esta comparativa y acumula más de diez mil unidades vendidas con 6.131 opiniones y 4,6 de promedio. Sus compradores la recomiendan sabiendo lo que compraron, con comentarios del tipo \"por ser la más barata, está perfecta\"." },
+      { question: "¿Por qué la Escorial Candor S2 es la más vendida?", answer: "Por precio: es la más barata de esta comparativa y acumula más de diez mil unidades vendidas con {{reviews:MLA6056509}} opiniones y 4,6 de promedio. Sus compradores la recomiendan sabiendo lo que compraron, con comentarios del tipo \"por ser la más barata, está perfecta\"." },
       { question: "¿Tiene encendido automático?", answer: "No. La ficha declara encendido manual, así que hay que prender las hornallas con fósforo o encendedor. Si buscás chispero, en esta comparativa la Drean CD5603AN0 trae encendido electrónico y la CD5617AI0, automático." },
       { question: "¿Qué tamaño de horno tiene?", answer: "52,6 litros según la ficha, el segundo más chico de la comparativa. La Drean CD5603AN0 declara 74 litros y la Florencia 5518F, 65." },
     ],
@@ -73277,7 +73277,7 @@ Con 95 cm es la más alta de la comparativa y con 51 cm de ancho es de las más 
     ],
     cons: [
       "Su ficha declara un horno de 573 litros, un dato imposible que no sirve para comparar",
-      "250 opiniones: solo la Escorial y la Florencia tienen respaldo mucho mayor, pero las dos Drean tienen menos",
+      "{{reviews:MLA61348769}} opiniones: solo la Escorial y la Florencia tienen respaldo mucho mayor, pero las dos Drean tienen menos",
       "Encendido manual, sin chispero",
       "Sin luz en el horno",
       "\"El horno un poco justo\", según una compradora",
@@ -73311,7 +73311,7 @@ Como no podemos saber cuál es el número real, no lo usamos para rankear. Una c
 
 ## Lo que dicen los compradores
 
-Con 250 opiniones y 4,6 de promedio, el respaldo es chico al lado de las 6.131 de la Escorial, aunque mayor que el de las dos Drean de esta guía. El tono es parejo. Lo que más se repite es la facilidad de armado e instalación, y las terminaciones.
+Con {{reviews:MLA61348769}} opiniones y 4,6 de promedio, el respaldo es chico al lado de las {{reviews:MLA6056509}} de la Escorial, aunque mayor que el de las dos Drean de esta guía. El tono es parejo. Lo que más se repite es la facilidad de armado e instalación, y las terminaciones.
 
 Un comprador deja además un consejo práctico que no está en ningún manual: "para nivelarla es muy cómodo sacar la tapa del fondo del horno para poder roscar con la mano las patas".`,
     faq: [
@@ -73411,7 +73411,7 @@ O sea: las hornallas se convierten, el horno se resiste. Es la diferencia entre 
 
 ## El 4,2, que es el más bajo del grupo
 
-Con 314 opiniones tiene la calificación más baja de la comparativa, y las reseñas se contradicen bastante entre sí. Hay quien escribe "el horno es malísimo, una verdadera estafa" y quien dice "el horno también bárbaro".
+Con {{reviews:MLA36486302}} opiniones tiene la calificación más baja de la comparativa, y las reseñas se contradicen bastante entre sí. Hay quien escribe "el horno es malísimo, una verdadera estafa" y quien dice "el horno también bárbaro".
 
 Lo que sí se repite es la crítica a las terminaciones, y siempre en el mismo lugar: las perillas de plástico.
 
@@ -73420,7 +73420,7 @@ Un consejo práctico que aparece en una reseña y que no está en ningún lado: 
       { question: "¿La cocina Usman Industrial tiene válvulas de seguridad?", answer: "No. Su ficha de MercadoLibre declara \"Con válvulas de seguridad: No\", y es la única de esta comparativa que lo declara así. La válvula corta el gas si la llama se apaga sola. Las otras cinco cocinas de esta guía declaran que sí las tienen." },
       { question: "¿Se puede pasar la Usman a garrafa?", answer: "La ficha declara que es convertible a GLP y, según un comprador, viene con los picos de gas natural y los de garrafa por separado. Pero ese mismo comprador advierte que el pico del horno es imposible de cambiar y que hay que regularlo con el que trae, lo que en sus palabras hace renegar bastante." },
       { question: "¿Qué diferencia tiene una cocina industrial?", answer: "En este caso, la construcción: declara ladrillos refractarios en el horno, algo que la Escorial y la Siam declaran no tener, y usa rejillas de hierro y mesa de acero inoxidable en vez del enlozado y el alambre de las domésticas. Su horno, eso sí, es el más chico del grupo con 50 litros." },
-      { question: "¿Por qué tiene 4,2 de calificación?", answer: "Es la más baja de la comparativa sobre 314 opiniones, y las reseñas se contradicen: hay quien califica el horno como excelente y quien lo llama una estafa. La crítica que sí se repite de forma consistente es la calidad de las perillas de plástico." },
+      { question: "¿Por qué tiene 4,2 de calificación?", answer: "Es la más baja de la comparativa sobre {{reviews:MLA36486302}} opiniones, y las reseñas se contradicen: hay quien califica el horno como excelente y quien lo llama una estafa. La crítica que sí se repite de forma consistente es la calidad de las perillas de plástico." },
     ],
   },
   {
@@ -73464,12 +73464,12 @@ Un consejo práctico que aparece en una reseña y que no está en ningún lado: 
     relatedProducts: ["MLA63018001", "MLA6056509", "MLA61348769", "MLA48950671"],
     priceUpdated: "2026-08-16", priceLastChecked: "2026-08-16", priceVerifiedAt: "2026-08-16",
     priceStatus: "fresh", reviewsSampledAt: "2026-08-16",
-    description: "El punto medio de la comparativa: acero inoxidable, horno de 65 litros y 447 opiniones con 4,7. Un comprador confirma que la conversión a garrafa funcionó sin problemas.",
+    description: "El punto medio de la comparativa: acero inoxidable, horno de 65 litros y {{reviews:MLA8791802}} opiniones con 4,7. Un comprador confirma que la conversión a garrafa funcionó sin problemas.",
     seoTitle: "Florencia 5518F: acero inoxidable y 65 litros de horno",
-    metaDescription: "Cocina Florencia 5518F de 56 cm en acero inoxidable, horno de 65 litros y 447 opiniones. La conversión a garrafa que un comprador hizo sin problemas.",
-    verdict: "Es el punto medio razonable de esta comparativa: acero inoxidable, horno de 65 litros, válvulas de seguridad y 4,7 sobre 447 opiniones, sin ninguna contra grave. Y es la que tiene el mejor testimonio sobre lo que más importa en el rubro: un comprador cuenta que le vino con pico de gas natural, que traía los de gas envasado y que los cambió sin drama. Ojo con una cosa: no es autolimpiante, aunque a más de un comprador le pareció que sí.",
+    metaDescription: "Cocina Florencia 5518F de 56 cm en acero inoxidable, horno de 65 litros y {{reviews:MLA8791802}} opiniones. La conversión a garrafa que un comprador hizo sin problemas.",
+    verdict: "Es el punto medio razonable de esta comparativa: acero inoxidable, horno de 65 litros, válvulas de seguridad y 4,7 sobre {{reviews:MLA8791802}} opiniones, sin ninguna contra grave. Y es la que tiene el mejor testimonio sobre lo que más importa en el rubro: un comprador cuenta que le vino con pico de gas natural, que traía los de gas envasado y que los cambió sin drama. Ojo con una cosa: no es autolimpiante, aunque a más de un comprador le pareció que sí.",
     pros: [
-      "4,7 sobre 447 opiniones, uno de los mejores promedios de la comparativa",
+      "4,7 sobre {{reviews:MLA8791802}} opiniones, uno de los mejores promedios de la comparativa",
       "Horno de 65 litros, el tercero más grande del grupo y el mayor entre las cocinas de encendido manual",
       "Mesa de acero inoxidable",
       "Convertible a garrafa, y un comprador confirma que hizo el cambio de picos sin problemas",
@@ -73490,7 +73490,7 @@ Un consejo práctico que aparece en una reseña y que no está en ningún lado: 
       { rating: 5, country: "Argentina", text: "Conforme. Solo que quedan las marcas del agua cuando gotea, no sale, y limpio siempre la cocina. La parrilla se pela el color al deslizar la olla grande pesada. Tener cuidado, levantar siempre." },
       { rating: 5, country: "Argentina", text: "Muy bueno. Solo que compré autolimpiante y el horno siempre está sucio." },
     ],
-    articleBody: `Acero inoxidable, horno de **65 litros**, válvulas de seguridad y **4,7 sobre 447 opiniones**. Es la cocina de esta comparativa que menos peros tiene, y por eso funciona bien como punto medio entre la entrada barata y las Drean con encendido electrónico.
+    articleBody: `Acero inoxidable, horno de **65 litros**, válvulas de seguridad y **4,7 sobre {{reviews:MLA8791802}} opiniones**. Es la cocina de esta comparativa que menos peros tiene, y por eso funciona bien como punto medio entre la entrada barata y las Drean con encendido electrónico.
 
 ## La conversión a garrafa que sí salió bien
 
@@ -73567,7 +73567,7 @@ Sobre la instalación, la referencia más útil la deja otra reseña: "fácil in
     description: "El horno más grande de la comparativa con 74 litros, encendido electrónico y luz interior. Es la primera de la guía que deja de ser una cocina de entrada.",
     seoTitle: "Drean CD5603AN0: 74 litros y encendido electrónico",
     metaDescription: "Cocina Drean CD5603AN0 de 56 cm con el horno más grande de la comparativa, encendido electrónico y luz interior. Qué gana y qué le falta frente a la versión con air fryer.",
-    verdict: "Es el salto real de esta comparativa: el horno más grande del grupo con 74 litros, encendido electrónico en vez de fósforo, luz interior y válvulas de seguridad. Sus compradores destacan justo esas tres cosas. Es la que recomendamos si querés dejar de comprar la cocina más barata sin irse al doble de precio. La contra es el respaldo: 107 opiniones son las menos de la comparativa, y hay que tener en cuenta que el encendido electrónico necesita enchufe.",
+    verdict: "Es el salto real de esta comparativa: el horno más grande del grupo con 74 litros, encendido electrónico en vez de fósforo, luz interior y válvulas de seguridad. Sus compradores destacan justo esas tres cosas. Es la que recomendamos si querés dejar de comprar la cocina más barata sin irse al doble de precio. La contra es el respaldo: {{reviews:MLA63018001}} opiniones son las menos de la comparativa, y hay que tener en cuenta que el encendido electrónico necesita enchufe.",
     pros: [
       "74 litros de horno, el más grande de la comparativa",
       "Encendido electrónico: se terminó el fósforo",
@@ -73577,7 +73577,7 @@ Sobre la instalación, la referencia más útil la deja otra reseña: "fácil in
       "35,8 kg, bastante más liviana que la Florencia o la Usman pese a ser más grande de horno",
     ],
     cons: [
-      "107 opiniones, el respaldo más chico de la comparativa",
+      "{{reviews:MLA63018001}} opiniones, el respaldo más chico de la comparativa",
       "El encendido electrónico necesita enchufe: a un comprador el cable le quedó 2 cm corto",
       "Es el doble de cara que la Escorial más vendida",
       "Su ficha no declara grill ni ladrillos refractarios",
@@ -73683,7 +73683,7 @@ Drean vende una versión de 56 cm con air fryer integrada que cuesta **$688.119 
       "45,4 kg, la más pesada del grupo, y 66,5 cm de profundidad, la más honda",
       "Unas gomitas de la parrilla superior se salen y se pierden fácil, y no se consiguen en el comercio, según dos compradores",
       "Necesita enchufe además de la conexión de gas",
-      "141 opiniones: menos respaldo que la Escorial, la Florencia o la Usman",
+      "{{reviews:MLA48950671}} opiniones: menos respaldo que la Escorial, la Florencia o la Usman",
     ],
     customerReviews: [
       { rating: 5, country: "Argentina", text: "Tiene un horno espectacular, parejo para cocinar tanto carnes como tortas. Viene con la asadera y la rejilla para hacer las papas al aire, una pegada. Para hacer milanesas y papas es buenísimo." },
@@ -73784,14 +73784,14 @@ Con **66,5 cm de profundidad** es la más honda de la comparativa, y con 45,4 kg
       "El único con pillow top",
       "25 cm de alto, la mayor altura de la comparativa junto con el Sueño Dorado Box Prime",
       "Declarado ortopédico en la ficha",
-      "2.547 opiniones con 4,8 de promedio",
+      "{{reviews:MLA54221370}} opiniones con 4,8 de promedio",
     ],
     cons: [
       "Mide 2 metros de largo: un comprador tuvo que comprar sábanas nuevas",
       "26 kg/m³ de densidad, menor que los 31 del Simmons, que es el otro que la declara",
       "Llega comprimido y hay que esperar: las instrucciones hablan de 72 horas",
       "\"Durito de entrada\", según un comprador, aunque después lo describe como espectacular",
-      "2.547 opiniones es bastante menos respaldo que el YOLO by Simmons",
+      "{{reviews:MLA54221370}} opiniones es bastante menos respaldo que el YOLO by Simmons",
     ],
     customerReviews: [
       { rating: 5, country: "Argentina", text: "Compré el colchón híbrido, de resortes. Apenas lo saqué de la caja lo puse sobre el otro colchón, en 10 horas aproximadamente me acosté. Durito de entrada, ahora espectacular descanso. 25 cm reales, buena calidad, con pillow. Ojo que mide 2,00 m de largo, tuve que comprar sábanas." },
@@ -73873,13 +73873,13 @@ O sea que las primeras noches no son la referencia. Si lo probás el primer día
     relatedProducts: ["MLA54221370", "MLA42252800", "MLA22938951"],
     priceUpdated: "2026-08-17", priceLastChecked: "2026-08-16", priceVerifiedAt: "2026-08-16",
     priceStatus: "fresh", reviewsSampledAt: "2026-08-16",
-    description: "El único Queen de la comparativa: 20 cm más ancho que un dos plazas, con 12.003 opiniones. Ojo con el peso máximo declarado, que son 110 kg.",
+    description: "El único Queen de la comparativa: 20 cm más ancho que un dos plazas, con {{reviews:MLA40490705}} opiniones. Ojo con el peso máximo declarado, que son 110 kg.",
     seoTitle: "Sueño Dorado Box Plus Queen: 20 cm más de ancho",
-    metaDescription: "Colchón Sueño Dorado Box Plus Queen de 160x200 con 12.003 opiniones. Qué gana con 20 cm más de ancho y por qué su peso máximo declarado importa.",
-    verdict: "Es el único **Queen** de esta comparativa, y esa es la razón para elegirlo: 160 cm de ancho contra los 140 de un dos plazas, o sea 20 centímetros más para dos personas. Con 12.003 opiniones tiene el segundo respaldo más grande del grupo. Dos cosas antes de decidir: declara **110 kg de peso máximo**, un techo bajo para una cama de a dos, y con 20 cm es el más finito de los cuatro. Y necesitás sommier y sábanas de Queen, no de dos plazas.",
+    metaDescription: "Colchón Sueño Dorado Box Plus Queen de 160x200 con {{reviews:MLA40490705}} opiniones. Qué gana con 20 cm más de ancho y por qué su peso máximo declarado importa.",
+    verdict: "Es el único **Queen** de esta comparativa, y esa es la razón para elegirlo: 160 cm de ancho contra los 140 de un dos plazas, o sea 20 centímetros más para dos personas. Con {{reviews:MLA40490705}} opiniones tiene el segundo respaldo más grande del grupo. Dos cosas antes de decidir: declara **110 kg de peso máximo**, un techo bajo para una cama de a dos, y con 20 cm es el más finito de los cuatro. Y necesitás sommier y sábanas de Queen, no de dos plazas.",
     pros: [
       "El único Queen de la comparativa: 160 cm de ancho contra 140",
-      "12.003 opiniones con 4,8 de promedio, el segundo respaldo más grande del grupo",
+      "{{reviews:MLA40490705}} opiniones con 4,8 de promedio, el segundo respaldo más grande del grupo",
       "Declarado hipoalergénico y antiácaros",
       "Varias reseñas de gente que venía de resortes y dejó de tener dolores de espalda",
       "Firme, según la ficha y según sus compradores",
@@ -73915,7 +73915,7 @@ Es una cama de dos personas. Ciento diez kilos entre dos son 55 por cabeza. Para
 
 En esta misma guía, el [Känn Livet](/producto/colchon-kann-livet-kl-aureo-2-plazas-140x200-resortes-pocket-y-pillow-top-mla54221370) declara 300 kg. Es la diferencia entre elegir por espuma y elegir por resortes.
 
-## Lo que dicen los 12.003 compradores
+## Lo que dicen los {{reviews:MLA40490705}} compradores
 
 Con ese volumen de opiniones y 4,8 de promedio, es el segundo respaldo más grande de la comparativa. Y hay un patrón claro: gente que venía de un colchón de resortes viejo y dejó de tener dolores.
 
@@ -73974,7 +73974,7 @@ Con 20 cm es además el más finito de los cuatro. Los otros van de 22 a 25.`,
     description: "El colchón de espuma que más peso declara soportar de esta guía, con 120 kg, y la medida clásica de dos plazas: 140x190. Fabricado en Argentina según un comprador.",
     seoTitle: "Sueño Dorado Box Prime: la medida clásica de 2 plazas",
     metaDescription: "Colchón Sueño Dorado Box Prime de 140x190x25 en espuma firme, ortopédico y antiácaros. El que más peso declara entre los de espuma de la comparativa.",
-    verdict: "Es uno de los dos que respetan la medida clásica de dos plazas, **140 x 190**, junto con el YOLO by Simmons, así que tus sábanas de siempre entran sin sorpresas. Con 25 cm es de los más altos del grupo y declara ser ortopédico, hipoalergénico y antiácaros. Entre los tres colchones de espuma de esta guía es el que más peso soporta, con 120 kg, aunque sigue muy lejos de los 300 que declara el de resortes. Su contra es el respaldo: 1.813 opiniones son las menos de la comparativa.",
+    verdict: "Es uno de los dos que respetan la medida clásica de dos plazas, **140 x 190**, junto con el YOLO by Simmons, así que tus sábanas de siempre entran sin sorpresas. Con 25 cm es de los más altos del grupo y declara ser ortopédico, hipoalergénico y antiácaros. Entre los tres colchones de espuma de esta guía es el que más peso soporta, con 120 kg, aunque sigue muy lejos de los 300 que declara el de resortes. Su contra es el respaldo: {{reviews:MLA42252800}} opiniones son las menos de la comparativa.",
     pros: [
       "140 x 190, la medida clásica de dos plazas: tus sábanas entran, igual que en el YOLO by Simmons",
       "120 kg de peso máximo, el más alto entre los tres colchones de espuma de esta guía",
@@ -73984,7 +73984,7 @@ Con 20 cm es además el más finito de los cuatro. Los otros van de 22 a 25.`,
       "\"Hiper firme\", según una reseña, si eso es lo que buscás",
     ],
     cons: [
-      "1.813 opiniones, el respaldo más chico de la comparativa",
+      "{{reviews:MLA42252800}} opiniones, el respaldo más chico de la comparativa",
       "120 kg de peso máximo sigue siendo un techo bajo para dos personas: el Känn Livet declara 300",
       "No trae pillow",
       "Es espuma sola, sin resortes: transmite más el movimiento del otro lado de la cama",
@@ -74012,7 +74012,7 @@ Pero conviene ponerlo en contexto: el de resortes pocket de esta misma comparati
 
 ## Lo que dicen sus compradores
 
-Con 1.813 opiniones tiene el respaldo más chico del grupo, pero el tono es parejo y hay comentarios útiles.
+Con {{reviews:MLA42252800}} opiniones tiene el respaldo más chico del grupo, pero el tono es parejo y hay comentarios útiles.
 
 Uno resume bien el perfil: "si estás buscando colchón de espuma, este es el mejor producto relación precio calidad. Tiene tela tejido de punto y es hiper firme". La palabra clave ahí es **firme**: la ficha lo declara y los compradores lo confirman. Si te gusta hundirte, no es este.
 
@@ -74067,12 +74067,12 @@ Los tres campos están declarados en Sí. Vale aclarar qué significan: son decl
     relatedProducts: ["MLA54221370", "MLA42252800", "MLA40490705"],
     priceUpdated: "2026-08-17", priceLastChecked: "2026-08-16", priceVerifiedAt: "2026-08-16",
     priceStatus: "fresh", reviewsSampledAt: "2026-08-16",
-    description: "El colchón más reseñado de la comparativa por lejos, con 16.843 opiniones, y el único con memory foam. También el más caro y el que menos peso declara soportar.",
-    seoTitle: "YOLO by Simmons: 16.843 opiniones y memory foam",
-    metaDescription: "Colchón YOLO by Simmons de 140x190 con memory foam y 16.843 opiniones, el más reseñado de la comparativa. Ojo con los 100 kg de peso máximo que declara.",
-    verdict: "Con **16.843 opiniones** es el colchón con más evidencia acumulada de toda la comparativa, y por muchísimo. Es el único con **memory foam**, tiene la densidad más alta de los dos que la declaran y respeta la medida clásica de 140 x 190. Si comprás por respaldo, no hay discusión. Dos contras concretas: es el más caro de los cuatro y **declara 100 kg de peso máximo, el más bajo del grupo**, en un colchón donde duermen dos personas.",
+    description: "El colchón más reseñado de la comparativa por lejos, con {{reviews:MLA22938951}} opiniones, y el único con memory foam. También el más caro y el que menos peso declara soportar.",
+    seoTitle: "YOLO by Simmons: más de 16.000 opiniones y memory foam",
+    metaDescription: "Colchón YOLO by Simmons de 140x190 con memory foam y {{reviews:MLA22938951}} opiniones, el más reseñado de la comparativa. Ojo con los 100 kg de peso máximo que declara.",
+    verdict: "Con **{{reviews:MLA22938951}} opiniones** es el colchón con más evidencia acumulada de toda la comparativa, y por muchísimo. Es el único con **memory foam**, tiene la densidad más alta de los dos que la declaran y respeta la medida clásica de 140 x 190. Si comprás por respaldo, no hay discusión. Dos contras concretas: es el más caro de los cuatro y **declara 100 kg de peso máximo, el más bajo del grupo**, en un colchón donde duermen dos personas.",
     pros: [
-      "16.843 opiniones con 4,8 de promedio: el respaldo más grande de la comparativa por lejos",
+      "{{reviews:MLA22938951}} opiniones con 4,8 de promedio: el respaldo más grande de la comparativa por lejos",
       "El único con memory foam declarado",
       "31 kg/m³ de densidad, más alta que los 26 del Känn Livet, que es el otro que la publica",
       "140 x 190: la medida clásica, tus sábanas entran",
@@ -74186,7 +74186,7 @@ Si es tu primer colchón en caja, esa es la experiencia esperable: llega mucho m
       "80 cm de ancho: es 1 plaza, no 1 plaza y media. Si tu cama es de 90 o 100, no entra",
       "\"La tela es muy fina y se sienten los resortes\", según un comprador que igual lo recomienda",
       "No publica la densidad, así que no se puede comparar por ese dato",
-      "1.496 opiniones, el respaldo más chico de esta comparativa",
+      "{{reviews:MLA63548072}} opiniones, el respaldo más chico de esta comparativa",
       "Declara \"No\" en ortopédico, hipoalergénico y antiácaros, que otros de esta guía declaran en Sí",
     ],
     customerReviews: [
@@ -74271,10 +74271,10 @@ Hay que separar dos cosas. **No publica la densidad**, así que por ese dato no 
     relatedProducts: ["MLA63548072", "MLA18635357", "MLA72723907", "MLA28530883"],
     priceUpdated: "2026-08-17", priceLastChecked: "2026-08-16", priceVerifiedAt: "2026-08-16",
     priceStatus: "fresh", reviewsSampledAt: "2026-08-16",
-    description: "El mejor calificado de la comparativa con 4,9 sobre 2.498 opiniones. El único con pillow top, el más alto con 25 cm y el que más peso declara soportar: 200 kg.",
+    description: "El mejor calificado de la comparativa con 4,9 sobre {{reviews:MLA54967234}} opiniones. El único con pillow top, el más alto con 25 cm y el que más peso declara soportar: 200 kg.",
     seoTitle: "Känn Livet KL-Eterna: 4,9 y el único con pillow top",
     metaDescription: "Colchón Känn Livet KL-Eterna de 1½ plaza, 90x190x25, con pillow top y 200 kg de peso máximo. El mejor calificado de la comparativa con 4,9.",
-    verdict: "Es el mejor calificado de esta guía, con **4,9 sobre 2.498 opiniones**, y el que más cosas suma: el único con **pillow top**, el más alto con 25 cm, y el que más peso declara soportar con **200 kg**. Encima es el segundo más barato. Declara ortopédico, hipoalergénico y marco perimetral. La única salvedad honesta es de origen: un comprador menciona que se fabrica en China y que eso lo hizo dudar antes de comprar, aunque después lo llama \"colchonazo\".",
+    verdict: "Es el mejor calificado de esta guía, con **4,9 sobre {{reviews:MLA54967234}} opiniones**, y el que más cosas suma: el único con **pillow top**, el más alto con 25 cm, y el que más peso declara soportar con **200 kg**. Encima es el segundo más barato. Declara ortopédico, hipoalergénico y marco perimetral. La única salvedad honesta es de origen: un comprador menciona que se fabrica en China y que eso lo hizo dudar antes de comprar, aunque después lo llama \"colchonazo\".",
     pros: [
       "4,9 de promedio, la calificación más alta de la comparativa",
       "200 kg de peso máximo declarado, el más alto del grupo",
@@ -74286,7 +74286,7 @@ Hay que separar dos cosas. **No publica la densidad**, así que por ese dato no 
     cons: [
       "26 kg/m³ de densidad, la más baja entre los tres que la declaran",
       "Un comprador menciona que se fabrica en China y que eso lo hizo dudar",
-      "2.498 opiniones: bastante menos que las 8.942 del Calm o las 8.238 de La Espumería",
+      "{{reviews:MLA54967234}} opiniones: bastante menos que las {{reviews:MLA18635357}} del Calm o las {{reviews:MLA28530883}} de La Espumería",
       "Declara \"No\" en antiácaros, mientras que el Calm, el Sealy y La Espumería lo declaran en Sí",
       "Firme: si buscás blando, mirá el Fika o La Espumería, que declaran firmeza media",
     ],
@@ -74296,7 +74296,7 @@ Hay que separar dos cosas. **No publica la densidad**, así que por ese dato no 
       { rating: 5, country: "Argentina", text: "La mejor compra de todo el año. Sufro dolor de espalda, me lo regalaron mis hijos para el día de la madre. Un placer dormir sin dolor." },
       { rating: 5, country: "Argentina", text: "De las mejores compras que hice en el año. La realidad es que la calidad supera el costo. Llevo un mes aproximadamente desde que lo compré." },
     ],
-    articleBody: `**4,9 de promedio sobre 2.498 opiniones.** Es la calificación más alta de esta comparativa, y no por poco: los otros cuatro están en 4,7 y 4,8.
+    articleBody: `**4,9 de promedio sobre {{reviews:MLA54967234}} opiniones.** Es la calificación más alta de esta comparativa, y no por poco: los otros cuatro están en 4,7 y 4,8.
 
 ## Lo que suma que los otros no
 
@@ -74326,7 +74326,7 @@ A mayor densidad, mayor durabilidad esperable. No es una condena, pero es el ún
 
 El patrón es consistente y con la misma estructura: desconfianza previa, sorpresa después. "No le tenía mucha fe, ahora te garantizo que no te equivocás si lo comprás". Y para quien busca por dolor de espalda, una reseña directa: "sufro dolor de espalda... un placer dormir sin dolor".`,
     faq: [
-      { question: "¿Cuál es el colchón de 1 plaza mejor calificado?", answer: "De los cinco que comparamos, el Känn Livet KL-Eterna, con 4,9 de promedio sobre 2.498 opiniones. Los otros cuatro están en 4,7 y 4,8. También es el único con pillow top y el que más peso declara soportar, con 200 kg." },
+      { question: "¿Cuál es el colchón de 1 plaza mejor calificado?", answer: "De los cinco que comparamos, el Känn Livet KL-Eterna, con 4,9 de promedio sobre {{reviews:MLA54967234}} opiniones. Los otros cuatro están en 4,7 y 4,8. También es el único con pillow top y el que más peso declara soportar, con 200 kg." },
       { question: "¿Qué es un pillow top?", answer: "Es una capa acolchada cosida sobre el colchón que suaviza el contacto sin ablandar el núcleo. De los cinco colchones de esta guía, el Känn Livet KL-Eterna es el único que lo declara." },
       { question: "¿Dónde se fabrica el Känn Livet?", answer: "Un comprador menciona en su reseña que es de fabricación china y que eso lo hizo dudar antes de comprar, aunque terminó recomendándolo con entusiasmo. Es un dato que aporta un comprador, no algo que hayamos verificado con el fabricante." },
       { question: "¿Qué densidad tiene?", answer: "26 kg/m³ según su ficha. De los tres colchones de esta guía que publican la densidad, es el más bajo: el Calm declara 30 y el Sealy 27. A mayor densidad, mayor durabilidad esperable." },
@@ -74371,12 +74371,12 @@ El patrón es consistente y con la misma estructura: desconfianza previa, sorpre
     relatedProducts: ["MLA54967234", "MLA28530883", "MLA72723907", "MLA63548072"],
     priceUpdated: "2026-08-16", priceLastChecked: "2026-08-16", priceVerifiedAt: "2026-08-16",
     priceStatus: "fresh", reviewsSampledAt: "2026-08-16",
-    description: "El más reseñado de la comparativa, con 8.942 opiniones, y el que más densidad declara de los tres que la publican: 30 kg/m³. Uno de los dos de 100 cm de ancho.",
-    seoTitle: "Calm Espuma Elemental: densidad 30 y 8.942 opiniones",
-    metaDescription: "Colchón Calm de 1½ plaza, 100x190x20, con 30 kg/m³, la densidad más alta entre los tres de la guía que la publican, y 8.942 opiniones.",
-    verdict: "Es el más reseñado de esta guía con **8.942 opiniones**, y el que mejor queda en el dato que más habla de durabilidad: **30 kg/m³ de densidad**, la más alta entre los tres que la publican. Suma 100 cm de ancho, ortopédico y antiácaros. Dos cosas honestas: es **firme de verdad**, y un comprador avisa que al principio se siente duro, y declara 120 kg de peso máximo, un techo medio dentro del grupo.",
+    description: "El más reseñado de la comparativa, con {{reviews:MLA18635357}} opiniones, y el que más densidad declara de los tres que la publican: 30 kg/m³. Uno de los dos de 100 cm de ancho.",
+    seoTitle: "Calm Espuma Elemental: densidad 30 y más de 9.000 opiniones",
+    metaDescription: "Colchón Calm de 1½ plaza, 100x190x20, con 30 kg/m³, la densidad más alta entre los tres de la guía que la publican, y {{reviews:MLA18635357}} opiniones.",
+    verdict: "Es el más reseñado de esta guía con **{{reviews:MLA18635357}} opiniones**, y el que mejor queda en el dato que más habla de durabilidad: **30 kg/m³ de densidad**, la más alta entre los tres que la publican. Suma 100 cm de ancho, ortopédico y antiácaros. Dos cosas honestas: es **firme de verdad**, y un comprador avisa que al principio se siente duro, y declara 120 kg de peso máximo, un techo medio dentro del grupo.",
     pros: [
-      "8.942 opiniones, el respaldo más grande de la comparativa",
+      "{{reviews:MLA18635357}} opiniones, el respaldo más grande de la comparativa",
       "30 kg/m³ de densidad, la más alta de los tres que la declaran",
       "100 cm de ancho, de los más anchos del grupo junto con La Espumería",
       "Declara ortopédico y antiácaros",
@@ -74469,11 +74469,11 @@ Declara ortopédico y antiácaros en Sí. No declara hipoalergénico ni pillow. 
     description: "El de marca internacional más conocida de la comparativa, con funda desmontable lavable según sus compradores. El más finito con 18 cm y el que menos peso declara.",
     seoTitle: "Sealy Cocoon Chill: funda lavable y marca conocida",
     metaDescription: "Colchón Sealy Cocoon Chill de 1½ plaza, 90x190x18, con marco perimetral y funda desmontable lavable según sus compradores. Ojo con los 100 kg que declara.",
-    verdict: "Es el único de una marca internacional reconocida de esta comparativa, con 4,8 sobre 2.224 opiniones y marco perimetral declarado. Su ventaja más concreta la aporta una compradora: **funda desmontable para lavar**, algo que ningún otro de esta guía menciona. Dos contras claras: con **18 cm es el más finito** de los cinco, y declara **100 kg de peso máximo**, el número más bajo del grupo, la mitad de lo que declara el Känn Livet, que además cuesta menos.",
+    verdict: "Es el único de una marca internacional reconocida de esta comparativa, con 4,8 sobre {{reviews:MLA72723907}} opiniones y marco perimetral declarado. Su ventaja más concreta la aporta una compradora: **funda desmontable para lavar**, algo que ningún otro de esta guía menciona. Dos contras claras: con **18 cm es el más finito** de los cinco, y declara **100 kg de peso máximo**, el número más bajo del grupo, la mitad de lo que declara el Känn Livet, que además cuesta menos.",
     pros: [
       "Marca internacional reconocida, la única de la comparativa",
       "Funda desmontable para lavar, según una compradora",
-      "4,8 sobre 2.224 opiniones",
+      "4,8 sobre {{reviews:MLA72723907}} opiniones",
       "Marco perimetral declarado, el refuerzo del borde",
       "Hipoalergénico y antiácaros declarados",
       "27 kg/m³ de densidad, la segunda más alta entre los tres que la declaran",
@@ -74562,13 +74562,13 @@ Un comprador señala una ventaja del formato que se olvida fácil: "el hecho de 
     relatedProducts: ["MLA18635357", "MLA54967234", "MLA72723907", "MLA63548072"],
     priceUpdated: "2026-08-16", priceLastChecked: "2026-08-16", priceVerifiedAt: "2026-08-16",
     priceStatus: "fresh", reviewsSampledAt: "2026-08-16",
-    description: "El único de 2 metros de largo de la comparativa, con 8.238 opiniones. Firmeza media y los tres campos de ortopédico, hipoalergénico y antiácaros declarados.",
+    description: "El único de 2 metros de largo de la comparativa, con {{reviews:MLA28530883}} opiniones. Firmeza media y los tres campos de ortopédico, hipoalergénico y antiácaros declarados.",
     seoTitle: "La Espumería Freestyle Box: el único de 2 metros",
-    metaDescription: "Colchón La Espumería Freestyle de 1½ plaza, 100x200x20. El único de 2 metros de largo de la comparativa, con 8.238 opiniones y firmeza media.",
-    verdict: "Es el único de esta guía que mide **2 metros de largo**, lo que lo hace la opción obvia si sos alto o si tu cama es de 200. Suma 8.238 opiniones, firmeza media y los tres campos de ortopédico, hipoalergénico y antiácaros declarados en Sí. También es el **más caro de los cinco** y **no publica la densidad**, que es el dato que más habla de durabilidad en un colchón de espuma.",
+    metaDescription: "Colchón La Espumería Freestyle de 1½ plaza, 100x200x20. El único de 2 metros de largo de la comparativa, con {{reviews:MLA28530883}} opiniones y firmeza media.",
+    verdict: "Es el único de esta guía que mide **2 metros de largo**, lo que lo hace la opción obvia si sos alto o si tu cama es de 200. Suma {{reviews:MLA28530883}} opiniones, firmeza media y los tres campos de ortopédico, hipoalergénico y antiácaros declarados en Sí. También es el **más caro de los cinco** y **no publica la densidad**, que es el dato que más habla de durabilidad en un colchón de espuma.",
     pros: [
       "El único de 2 metros de largo de la comparativa: el resto mide 190",
-      "8.238 opiniones, el segundo respaldo más grande del grupo",
+      "{{reviews:MLA28530883}} opiniones, el segundo respaldo más grande del grupo",
       "100 cm de ancho, de los más anchos junto con el Calm",
       "Declara ortopédico, hipoalergénico y antiácaros, los tres campos",
       "Firmeza media: la opción menos dura del grupo junto con el Fika",
