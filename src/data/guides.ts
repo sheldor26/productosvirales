@@ -2453,7 +2453,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
 
       { type: "h3", title: `3. Aiwa AW-T2018R — la premium` },
       { type: "product-card", productMlaId: "MLA20012498", label: "La premium", labelColor: "purple", ranking: 3, description: `Torre con más prestaciones: bluetooth, entrada auxiliar y función power bank. 4.7 estrellas en 332 calificaciones.` },
-      { type: "p", content: `Es la opción con más prestaciones del grupo. La Aiwa suma sobre las otras la función **power bank** (carga el celular) y la marca, a un precio más alto (alrededor de $291.000). Tiene menos opiniones que la Noblex y la JVC (332), así que la base de validación es más chica, pero positivas. La elegís si valorás la marca Aiwa y los extras; si no, la Noblex da casi lo mismo por menos.` },
+      { type: "p", content: `Es la opción con más prestaciones del grupo. La Aiwa suma sobre las otras la función **power bank** (carga el celular) y la marca, a un precio más alto (alrededor de $291.000). Tiene menos opiniones ({{reviews:MLA20012498}}) que la Noblex y la JVC, así que la base de validación es más chica, pero positivas. La elegís si valorás la marca Aiwa y los extras; si no, la Noblex da casi lo mismo por menos.` },
 
       { type: "h2", title: `Tabla comparativa: las tres torres`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Extra`, `Ideal para`], rows: [
@@ -3878,7 +3878,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "h3", title: `3. Gadnic DM200W-Pro — mejor resolución` },
       { type: "product-card", productMlaId: "MLA66204799", label: "Mejor resolución", labelColor: "purple", ranking: 3, description: `Domo motorizada, 3MP, el motor más amplio (355°/90°) y compatible con ONVIF/RTSP. Recién llegada al catálogo: apenas 11 calificaciones.` },
       { type: "p", content: `En papel, la Gadnic DM200W-Pro es la más avanzada de esta guía: 3MP de resolución (contra el Full HD del resto), el motor más amplio y compatibilidad con ONVIF y RTSP, protocolos que permiten integrarla a un sistema de cámaras de terceros en vez de depender solo de la app del fabricante, a alrededor de {{precio:MLA66204799:k}}.` },
-      { type: "p", content: `Lo honesto, y es importante: tiene apenas 11 calificaciones, muy por debajo de la SX37 (8.606) o la C8c (112). Y una reseña de 3 estrellas le pone un matiz a la ventaja técnica: "muchas opciones requieren pago, protocolo muy cerrado, solo sirve si vas a poner todas las cámaras de la misma marca y modelo". La spec es real, pero el historial todavía no acompaña.` },
+      { type: "p", content: `Lo honesto, y es importante: tiene apenas {{reviews:MLA66204799}} calificaciones, muy por debajo de la SX37 ({{reviews:MLA18967142}}) o la C8c ({{reviews:MLA66806823}}). Y una reseña de 3 estrellas le pone un matiz a la ventaja técnica: "muchas opciones requieren pago, protocolo muy cerrado, solo sirve si vas a poner todas las cámaras de la misma marca y modelo". La spec es real, pero el historial todavía no acompaña.` },
       { type: "pull-quote", content: `Muchas opciones requieren pago, protocolo muy cerrado, solo sirve si vas a poner todas las cámaras de la misma marca y modelo.`, attribution: `— Comprador verificado en MercadoLibre, 3 de 5 estrellas, 2026` },
 
       { type: "h2", title: `Tabla comparativa: cámaras de seguridad exterior`, id: "tabla-comparativa" },
@@ -3894,7 +3894,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "h3", title: `2. Puerto LAN: el respaldo que pocos miran` },
       { type: "p", content: `La Gadnic SX37 y la Ezviz C8c admiten conexión por cable de red (RJ45) además de Wi-Fi; la Gadnic DM200W-Pro, según su ficha, es solo Wi-Fi. Si el lugar de instalación tiene Wi-Fi débil, tener puerto LAN elimina el problema de raíz en vez de depender de la señal inalámbrica: es un dato que vale la pena confirmar antes de comprar si esa es tu situación.` },
       { type: "h3", title: `3. Historial de compradores vs. specs en papel` },
-      { type: "p", content: `La Gadnic DM200W-Pro gana en resolución y protocolos avanzados, pero tiene apenas 11 calificaciones contra las 8.600 de la SX37. No es que la spec sea falsa: es que el respaldo de compradores todavía no se construyó. Si preferís apoyarte en el historial antes de decidir, la SX37 o la C8c tienen mucho más recorrido.` },
+      { type: "p", content: `La Gadnic DM200W-Pro gana en resolución y protocolos avanzados, pero tiene apenas {{reviews:MLA66204799}} calificaciones contra las {{reviews:MLA18967142}} de la SX37. No es que la spec sea falsa: es que el respaldo de compradores todavía no se construyó. Si preferís apoyarte en el historial antes de decidir, la SX37 o la C8c tienen mucho más recorrido.` },
 
       { type: "h2", title: `Cuánto cuesta una cámara de seguridad exterior [julio 2026]`, id: "precios" },
       { type: "list", items: [
@@ -4391,7 +4391,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "h3", title: `3. Ecopower 22.000 mAh — la mejor calificación` },
       { type: "product-card", productMlaId: "MLA45503497", label: "Mejor calificado", labelColor: "purple", ranking: 3, description: `4.8 estrellas, la mejor nota de esta comparativa, aunque con solo 9 opiniones al momento de esta guía. Capacidad declarada consistente entre título y ficha técnica.` },
       { type: "p", content: `El [Ecopower](/producto/power-bank-solar-ecopower-22000mah-carga-rapida-negro-azul-ep-c805-mla45503497) tiene la **mejor calificación** de esta comparativa (4.8 estrellas), con 22.000 mAh declarados y carga rápida por USB-C, a alrededor de {{precio:MLA45503497:k}}. Es de los pocos de esta guía sin discrepancia entre el título y la ficha técnica de capacidad.` },
-      { type: "p", content: `Lo honesto: tiene **solo 9 opiniones** al momento de esta guía. La nota es real, pero con muy poco volumen comparado con las 336 del [Mixio](/producto/power-bank-solar-cargador-portatil-50000mah-c-cable-mixio-mlau3079854886) o las 201 del [Gadnic](/producto/cargador-solar-gadnic-power-bank-b60-15000mah-inalambrico-linterna-mla35433385).` },
+      { type: "p", content: `Lo honesto: tiene **solo {{reviews:MLA45503497}} opiniones** al momento de esta guía. La nota es real, pero con muy poco volumen comparado con las {{reviews:MLAU3079854886}} del [Mixio](/producto/power-bank-solar-cargador-portatil-50000mah-c-cable-mixio-mlau3079854886) o las {{reviews:MLA35433385}} del [Gadnic](/producto/cargador-solar-gadnic-power-bank-b60-15000mah-inalambrico-linterna-mla35433385).` },
 
       { type: "h3", title: `4. Lictin 12.000 mAh — el más accesible` },
       { type: "product-card", productMlaId: "MLA65964012", label: "El más accesible", labelColor: "slate", ranking: 4, description: `El power bank solar más barato de esta comparativa, con cable incorporado y protección contra sobrecarga. 4.3 estrellas en 8 opiniones.` },
@@ -6998,7 +6998,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { question: "¿La Liliana Mateando tiene función mate de verdad?", answer: "Sí, está confirmada en la ficha técnica oficial, a diferencia de otros modelos económicos donde hay inconsistencia entre ficha y manual. Tiene 2 niveles: uno para mate y otro para hervir, sin lectura en grados." },
       { question: "¿Vale la pena pagar más por la Peabody Digital?", answer: "Depende de cuánto te importe el grado exacto. La Peabody deja elegir la temperatura entre 40° y 100° y la mantiene hasta 2 horas; la Liliana tiene un preset fijo. Si tomás mate a diario y notás la diferencia, sí vale el extra." },
       { question: "¿Cuál dura más, la Liliana o la Peabody?", answer: "La Peabody tiene interior de acero inoxidable, que suele durar más que el plástico de la Liliana y no le pasa gusto al agua. Ninguna de las dos tiene garantía extendida más allá de la estándar del vendedor." },
-      { question: "¿Cuál tiene mejor rating, Liliana o Peabody?", answer: "La Peabody Digital tiene 4.9 estrellas, el rating más alto del catálogo de pavas. La Liliana Mateando tiene 4.6 estrellas, pero sobre una base mucho más grande: 5.489 calificaciones contra 897." },
+      { question: "¿Cuál tiene mejor rating, Liliana o Peabody?", answer: "La Peabody Digital tiene 4.9 estrellas, el rating más alto del catálogo de pavas. La Liliana Mateando tiene 4.6 estrellas, pero sobre una base mucho más grande: {{reviews:MLA8933826}} calificaciones contra {{reviews:MLA47275624}}." },
       { question: "¿Alguna de las dos tiene keep warm?", answer: "Solo la Peabody Digital, hasta 2 horas. La Liliana no mantiene la temperatura: una vez que corta, tenés que volver a calentar si pasó mucho tiempo." },
       { question: "¿Cuál conviene si tengo cortes de luz frecuentes?", answer: "La Peabody tiene función memoria: si se va la luz o levantás la jarra, recuerda tu configuración durante 30 minutos. La Liliana no tiene esa función." },
     ],
@@ -7044,13 +7044,13 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
         content:
           "Liliana tiene cuatro opciones. Dos son acero, dos son plástico. Dos tienen función mate, dos no.",
       },
-      { type: "h3", title: "AP152 — La más barata ({{precio:MLA61505857}})" },
+      { type: "h3", title: "AP152 — La más barata" },
       {
         type: "p",
         content:
           "Acero inoxidable, 1.7L, 1500W, corte automático, base giratoria 360°, filtro removible. Es la pava de acero más barata del mercado: la [Atma](https://meli.la/1TBSj3K) con acero sale {{preciodif:MLA49747515:MLA61505857}} más. Pero no tiene función mate ni control de temperatura.",
       },
-      { type: "h3", title: "AP175B Mateando — MEJOR COMPRA ({{precio:MLA8933826}})" },
+      { type: "h3", title: "AP175B Mateando — MEJOR COMPRA" },
       {
         type: "card",
         card: {
@@ -7062,14 +7062,14 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
           ctas: [{ label: "Ver en MercadoLibre", href: "https://meli.la/2qM28cx" }],
         },
       },
-      { type: "h3", title: "AP175 Tempomate — NO la compres ({{precio:MLA27849823}})" },
+      { type: "h3", title: "AP175 Tempomate — NO la compres" },
       {
         type: "bad",
         title: "AP175 Tempomate",
         content:
           "Prácticamente igual que la [AP175B](https://meli.la/2qM28cx): misma función mate, misma capacidad. Solo cambia el color (negra vs blanca), y encima cuesta {{preciodif:MLA27849823:MLA8933826}} más y suele estar sin stock. Comprá la AP175B blanca: es más barata y está disponible.",
       },
-      { type: "h3", title: "AP992B Safeheat — Premium innecesaria ({{precio:MLA54676373}})" },
+      { type: "h3", title: "AP992B Safeheat — Premium innecesaria" },
       {
         type: "p",
         content:
@@ -7092,19 +7092,19 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
         ],
       },
       { type: "h2", title: "AP175B vs competencia" },
-      { type: "h3", title: "vs Atma PEAT1351 ({{precio:MLA49747515}})" },
+      { type: "h3", title: "vs Atma PEAT1351" },
       {
         type: "p",
         content:
           "La [Atma](https://meli.la/1TBSj3K) cuesta {{preciodif:MLA49747515:MLA8933826}} más, tiene 1.8L vs 1.7L (100ml más = medio mate extra) e interior acero vs plástico de Liliana. Pero NO tiene función mate. Si tomás mate regularmente, la AP175B es la mejor opción; si preferís acero y no te importa el mate, la Atma.",
       },
-      { type: "h3", title: "vs Philips HD9350 ({{precio:MLA24601443}})" },
+      { type: "h3", title: "vs Philips HD9350" },
       {
         type: "p",
         content:
           "[Philips](https://meli.la/2kpg1Zr) es {{preciodif:MLA24601443:MLA8933826}} más cara, tiene acero completo y dura 4-5 años (vs 2-3 años Liliana). Pero NO tiene función mate. Si querés función mate: Liliana. Si querés durabilidad: Philips.",
       },
-      { type: "h3", title: "vs Peabody PE-DK2200N ({{precio:MLA47275624}})" },
+      { type: "h3", title: "vs Peabody PE-DK2200N" },
       {
         type: "p",
         content:
@@ -12587,7 +12587,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       },
       {
         type: "h2",
-        title: "Qué dicen las 6.632 compradoras del Yara Candy"
+        title: "Qué dicen las más de 10.000 compradoras del Yara Candy"
       },
       {
         type: "p",
@@ -12972,11 +12972,11 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       },
       {
         type: "h2",
-        title: "Qué dicen los 7.245 compradores del Asad Intense"
+        title: "Qué dicen los más de 10.000 compradores del Asad Intense"
       },
       {
         type: "p",
-        content: "Como el Asad Intense es uno de los productos masculinos más validados del catálogo argentino (7.245 reseñas con rating 4.6, superado en volumen por Bharara King y Hawas Ice), vale la pena mirar qué dicen sus compradores en Mercado Libre. Procesamos 170 reseñas reales de Argentina, Brasil, Chile, Uruguay y Colombia, y los patrones son sorprendentemente consistentes."
+        content: "Como el Asad Intense es uno de los productos masculinos más validados del catálogo argentino ({{reviews:MLA19715215}} reseñas con rating {{rating:MLA19715215}}, superado en volumen por Bharara King y Hawas Ice), vale la pena mirar qué dicen sus compradores en Mercado Libre. Procesamos 170 reseñas reales de Argentina, Brasil, Chile, Uruguay y Colombia, y los patrones son sorprendentemente consistentes."
       },
       {
         type: "h3",
@@ -13174,7 +13174,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       },
       {
         type: "h2",
-        title: "Qué dicen los 7.137 compradores del Khamrah Qahwa"
+        title: "Qué dicen los más de 11.000 compradores del Khamrah Qahwa"
       },
       {
         type: "p",
@@ -18550,7 +18550,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "h3", title: `3. Nespresso Lattissima One — premium con leche one-touch` },
       { type: "product-card", productMlaId: "MLA23437114", label: "Premium leche one-touch", labelColor: "purple", ranking: 3, description: `La premium con leche integrada: cappuccino y latte macchiato de un solo botón, depósito de leche incorporado (sin espumador aparte). 1.300 W. 4.8 estrellas, pero con pocas opiniones todavía (20).` },
       { type: "p", content: `El escalón de comodidad máxima: a diferencia de la Citiz & Milk (espumador aparte), la Lattissima One tiene un **depósito de leche integrado a la máquina** y hace cappuccino o latte macchiato apretando **un solo botón**, todo en un paso. Es la forma más cómoda de tomar bebidas con leche en el sistema Nespresso.` },
-      { type: "p", content: `Lo honesto, y es importante: esta publicación tiene **solo 20 calificaciones** —muy pocas frente a las 2.663 de la Essenza Mini—, así que el respaldo estadístico es chico y lo decimos de frente. Sumá que el material es plástico (un comprador esperaba mejor terminación), que hay que **limpiar el circuito de leche cada uso**, y que es la más cara del catálogo. Se justifica solo si la leche es central en tu café y querés cero maniobra.` },
+      { type: "p", content: `Lo honesto, y es importante: esta publicación tiene **solo 20 calificaciones** —muy pocas frente a las {{reviews:MLA24730361}} de la Essenza Mini—, así que el respaldo estadístico es chico y lo decimos de frente. Sumá que el material es plástico (un comprador esperaba mejor terminación), que hay que **limpiar el circuito de leche cada uso**, y que es la más cara del catálogo. Se justifica solo si la leche es central en tu café y querés cero maniobra.` },
 
       { type: "callout", calloutVariant: "note", calloutTitle: "¿Y la Nespresso Inissia?", content: `La [Nespresso Inissia](/producto/cafetera-de-capsulas-nespresso-inissia-crema-mla23385666) ({{precio:MLA23385666}}) es otra de entrada del catálogo, en color crema. La dejamos fuera del ranking principal por un motivo honesto: su publicación todavía no tiene calificaciones, así que no hay opiniones de compradores que la respalden. Si querés la entrada más probada, la Essenza Mini gana por respaldo y precio.` },
 
@@ -19512,7 +19512,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
 
       { type: "h2", title: `Por qué Liliana: marca nacional, service de verdad`, id: "por-que-liliana" },
       { type: "p", content: `En la gama económica de cafeteras casi todo es importado con marca de fantasía: si falla fuera de garantía, no hay repuestos ni service. Liliana es la excepción con estructura real en el país, red de service oficial y repuestos que se consiguen. En un electrodoméstico que trabaja con presión, calor y agua todos los días, ese respaldo vale más que un logo: la junta, el portafiltro o el vaporizador son piezas que se desgastan, y acá se reponen en lugar de jubilar la máquina.` },
-      { type: "p", content: `El otro punto a favor es el precio: la AC985 cuesta $174.521, unos $20.000 menos que la [Smartlife SL-EC8501](https://meli.la/1QMpWAw), su rival directa. La contracara es la base de opiniones: 49 calificaciones contra 1.656. Liliana vende menos volumen por esta vía, así que sus ratings, aunque excelentes, están menos probados.` },
+      { type: "p", content: `El otro punto a favor es el precio: la AC985 cuesta $174.521, unos $20.000 menos que la [Smartlife SL-EC8501](https://meli.la/1QMpWAw), su rival directa. La contracara es la base de opiniones: {{reviews:MLA62547964}} calificaciones contra {{reviews:MLA18562154}}. Liliana vende menos volumen por esta vía, así que sus ratings, aunque excelentes, están menos probados.` },
 
       { type: "h2", title: `Las cuatro cafeteras Liliana, una por una`, id: "modelos" },
 
@@ -20701,7 +20701,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "h3", title: `4. Daewoo DHU335 — marca reconocida, pocas opiniones` },
       { type: "product-card", productMlaId: "MLA28103250", label: "Marca reconocida", labelColor: "purple", ranking: 4, description: `3 litros, marca internacional de electrodomésticos. 4.4 estrellas, pero solo 35 calificaciones.` },
       { type: "p", content: `Para quien prioriza el respaldo de una marca internacional de electrodomésticos por sobre el precio o el volumen de opiniones locales. Vapor frío ultrasónico, buena autonomía declarada (9-10 horas) para sus 3 litros de tanque.` },
-      { type: "p", content: `Lo honesto: con solo 35 calificaciones (contra las 2.221 del Gadnic o las 2.508 del Silfab), el respaldo estadístico es el más chico de la guía. Y cuesta más del doble que el Silfab V12 con menos capacidad de tanque, algo que no se explica solo por la marca. El ruido, según una reseña, no viene del motor sino del agua salpicando al evaporarse.` },
+      { type: "p", content: `Lo honesto: con solo {{reviews:MLA28103250}} calificaciones (contra las {{reviews:MLA28531856}} del Gadnic o las {{reviews:MLA35313170}} del Silfab), el respaldo estadístico es el más chico de la guía. Y cuesta más del doble que el Silfab V12 con menos capacidad de tanque, algo que no se explica solo por la marca. El ruido, según una reseña, no viene del motor sino del agua salpicando al evaporarse.` },
 
       { type: "h2", title: `Tabla comparativa: humidificadores de ambiente`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Capacidad`, `Tipo de vapor`, `Silencioso`, `Ideal para`], rows: [
@@ -20810,25 +20810,25 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "h2", title: `Las 4 que comparamos`, id: "ranking" },
 
       { type: "h3", title: `1. Yelmo YG-1700 — la más vendida` },
-      { type: "product-card", productMlaId: "MLA17840710", label: "La más vendida", labelColor: "green", ranking: 1, description: `1,2 litros, 7 frascos de vidrio de 180 ml. 4.9 estrellas en 12.296 calificaciones, más de 50.000 vendidos.` },
-      { type: "p", content: `Es la yogurtera con más respaldo real de compradores del país, y por una distancia enorme: 12.296 calificaciones contra las 350 de la segunda más calificada de esta guía. A alrededor de {{precio:MLA17840710:k}}, es también la más barata.` },
+      { type: "product-card", productMlaId: "MLA17840710", label: "La más vendida", labelColor: "green", ranking: 1, description: `1,2 litros, 7 frascos de vidrio de 180 ml. {{rating:MLA17840710}} estrellas en {{reviews:MLA17840710}} calificaciones, más de 50.000 vendidos.` },
+      { type: "p", content: `Es la yogurtera con más respaldo real de compradores del país, y por una distancia enorme: {{reviews:MLA17840710}} calificaciones contra las {{reviews:MLA66422019}} de la Ultracomb YG-2712V, la segunda más calificada de esta guía. A alrededor de {{precio:MLA17840710:k}}, es también la más barata.` },
       { type: "p", content: `Lo honesto: no tiene temporizador ni apagado automático, así que hay que controlar el tiempo de fermentación (8-12 horas) con una alarma aparte. Varias reseñas coinciden en que esto no es un problema real en la práctica.` },
       { type: "pull-quote", content: `Le pongo 5 estrellas porque no hay más es un golazo la yogurtera!!!!! genial desde la primera vez que lo hice es exactamente el mismo sabor al yogurísimo.`, attribution: `— Comprador verificado en MercadoLibre` },
 
       { type: "h3", title: `2. Lüsqtoff LQ-YT808 — con temporizador digital` },
-      { type: "product-card", productMlaId: "MLA65120821", label: "Con temporizador", labelColor: "purple", ranking: 2, description: `1,7 litros, 8 frascos de vidrio. Temporizador digital (6 a 12 h) y apagado automático. 5.0 estrellas en 145 calificaciones.` },
+      { type: "product-card", productMlaId: "MLA65120821", label: "Con temporizador", labelColor: "purple", ranking: 2, description: `1,7 litros, 8 frascos de vidrio. Temporizador digital (6 a 12 h) y apagado automático. {{rating:MLA65120821}} estrellas en {{reviews:MLA65120821}} calificaciones.` },
       { type: "p", content: `Suma temporizador digital programable y apagado automático, dos funciones que la Yelmo de esta guía no tiene, a un precio medio de {{precio:MLA65120821:k}}. El diseño con frascos a rosca es valorado como prolijo por las reseñas.` },
-      { type: "p", content: `Lo honesto: el cartel de descuento dice 66% off, pero parte de un precio de lista ($150.000) inusualmente alto para el segmento. Fijate en el precio final, no en el porcentaje. Con 145 calificaciones, tiene mucho menos respaldo que la Yelmo.` },
+      { type: "p", content: `Lo honesto: el cartel de descuento dice 66% off, pero parte de un precio de lista ($150.000) inusualmente alto para el segmento. Fijate en el precio final, no en el porcentaje. Con {{reviews:MLA65120821}} calificaciones, tiene mucho menos respaldo que la Yelmo.` },
       { type: "pull-quote", content: `La yogurtera es excelente, muy buen diseño y calidad. No viene con recetario, pero eso no es problema, en internet hay miles de recetas (y ya tengo varias en mente).`, attribution: `— Comprador verificado en MercadoLibre` },
 
       { type: "h3", title: `3. Daewoo Yoggy Pro — la mejor para yogur griego` },
-      { type: "product-card", productMlaId: "MLA65327878", label: "Para yogur griego", labelColor: "blue", ranking: 3, description: `2 litros en un solo recipiente, con filtro para yogur griego y recetario incluido. 4.8 estrellas en 350 calificaciones.` },
+      { type: "product-card", productMlaId: "MLA65327878", label: "Para yogur griego", labelColor: "blue", ranking: 3, description: `2 litros en un solo recipiente, con filtro para yogur griego y recetario incluido. {{rating:MLA65327878}} estrellas en {{reviews:MLA65327878}} calificaciones.` },
       { type: "p", content: `Es la única de esta guía pensada específicamente para yogur griego colado: incluye filtro y recetario. El recipiente único de 2 litros rinde para toda la familia de una sola vez, a alrededor de {{precio:MLA65327878:k}}.` },
       { type: "p", content: `Lo honesto: el colado del yogur griego lo hacés vos, no la máquina (hay que enfriarlo y pasarlo por el filtro a mano), y más de una reseña se queja de que las instrucciones de fábrica son confusas.` },
       { type: "pull-quote", content: `Debo decir que es una maravilla! entran prácticamente 2 litros de leche. En 12 hs tenés un yogur maravilloso y si luego decidís filtrarlo que recomiendo hacerlo una vez q el yogur se enfrió qteda un yogur griego de exportación! no hace nada de ruido, el timer funciona a la perfección.`, attribution: `— Comprador verificado en MercadoLibre` },
 
       { type: "h3", title: `4. Ultracomb YG-2712V — la de más frascos` },
-      { type: "product-card", productMlaId: "MLA66422019", label: "Más frascos", labelColor: "amber", ranking: 4, description: `12 frascos de vidrio, temporizador digital con pantalla LCD. 5.0 estrellas en 125 calificaciones.` },
+      { type: "product-card", productMlaId: "MLA66422019", label: "Más frascos", labelColor: "amber", ranking: 4, description: `12 frascos de vidrio, temporizador digital con pantalla LCD. {{rating:MLA66422019}} estrellas en {{reviews:MLA66422019}} calificaciones.` },
       { type: "p", content: `Trae la mayor cantidad de frascos de esta guía (12), con pantalla LCD para programar el temporizador y apagado automático, a alrededor de {{precio:MLA66422019:k}}.` },
       { type: "callout", calloutVariant: "warning", calloutTitle: "El marketing dice acero inoxidable, el manual dice plástico", content: `MercadoLibre y la propia página de Ultracomb venden la YG-2712V como "cuerpo de acero inoxidable". Pero el manual oficial del fabricante, en su lista de partes, dice explícito: "cubierta de plástico para la unidad". No es una sospecha ni una reseña sin confirmar: es el propio manual contradiciendo el material de marketing. No cambia lo que el equipo hace, pero conviene tenerlo en cuenta al comparar precio contra otros modelos de la guía.` },
       { type: "pull-quote", content: `El cuerpo del aparato no es de metal como indicaba el anuncio cuando compré, sino de plástico. Pero no es un problema. Funciona todo bien. Los yogures quedan muy ricos.`, attribution: `— Comprador verificado en MercadoLibre` },
@@ -21033,7 +21033,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
 
       { type: "h3", title: `4. Stanley Mate System — el premium` },
       { type: "product-card", productMlaId: "MLA19761025", label: "El premium", labelColor: "blue", ranking: 4, description: `1,2 litros, con tapón cebador integrado de alta precisión. 4.8 estrellas en 6.368 calificaciones, #1 en Termos.` },
-      { type: "p", content: `La marca de mayor reconocimiento de esta guía (6.368 calificaciones, aunque por debajo de las 26.780 del Lumilagro) y la única con tapón cebador integrado de fábrica pensado específicamente para mate, a alrededor de {{precio:MLA19761025:k}}.` },
+      { type: "p", content: `La marca de mayor reconocimiento de esta guía ({{reviews:MLA19761025}} calificaciones, aunque por debajo de las {{reviews:MLA15297106}} del Lumilagro) y la única con tapón cebador integrado de fábrica pensado específicamente para mate, a alrededor de {{precio:MLA19761025:k}}.` },
       { type: "p", content: `Lo honesto: cuesta 3 a 4 veces más que el resto de esta guía, y hay una discrepancia entre las propias fuentes de MercadoLibre sobre cuánto conserva (1,5 días según la ficha estructurada, 30 horas según la descripción del vendedor). Una reseña real avisa que para mate conviene recalentar el agua si no lo usás enseguida.` },
       { type: "pull-quote", content: `Superó mis expectativas super liviano y cómodo para trasportar, el picó que tiene sin dudas es el mejor lo puse a prueba para ver la temperatura y el agua seguía caliente. Sin dudas por el precio lo vale, una buena inversión.`, attribution: `— Comprador verificado en MercadoLibre` },
 
@@ -21110,7 +21110,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     ogDescription: `Stanley vende dos cosas muy distintas en Argentina: el Mate System para cebar mate y el Quencher que se hizo viral en redes. Te contamos cuál es cuál, precio real y si vale pagar 3 veces más que una marca argentina.`,
     ogImage: `https://http2.mlstatic.com/D_Q_NP_890141-MLA113708481777_062026-F.webp`,
     h1: `Termo Stanley en Argentina: el Mate System, el Quencher y si vale la pena`,
-    directAnswer: `Si buscás un termo Stanley **para cebar mate**, el real es el **[Stanley Original Mate System Classic 1,2L](/producto/termo-stanley-original-mate-system-classic-1-2-litros-mla19761025)** (alrededor de {{precio:MLA19761025:k}}): tapón cebador integrado de fábrica y 6.368 calificaciones reales (4.8 estrellas). Si lo que viste en redes fue un vaso térmico de colores, ese es el **Quencher**, otra línea de Stanley pensada para bebidas frías del día a día, no para mate. Y antes de pagar 3 a 4 veces más que una marca argentina: el [Lumilagro Luminox](/producto/termo-lumilagro-de-acero-inoxidable-luminox-1-litro-pico-matero-bala-mla15297106) de la guía general de termos tiene más del cuádruple de calificaciones que el Stanley (26.780) y varias reseñas lo comparan directo con buenos resultados.`,
+    directAnswer: `Si buscás un termo Stanley **para cebar mate**, el real es el **[Stanley Original Mate System Classic 1,2L](/producto/termo-stanley-original-mate-system-classic-1-2-litros-mla19761025)** (alrededor de {{precio:MLA19761025:k}}): tapón cebador integrado de fábrica y {{reviews:MLA19761025}} calificaciones reales ({{rating:MLA19761025}} estrellas). Si lo que viste en redes fue un vaso térmico de colores, ese es el **Quencher**, otra línea de Stanley pensada para bebidas frías del día a día, no para mate. Y antes de pagar 3 a 4 veces más que una marca argentina: el [Lumilagro Luminox](/producto/termo-lumilagro-de-acero-inoxidable-luminox-1-litro-pico-matero-bala-mla15297106) de la guía general de termos tiene más del cuádruple de calificaciones que el Stanley ({{reviews:MLA15297106}} contra {{reviews:MLA19761025}}) y varias reseñas lo comparan directo con buenos resultados.`,
     publishedDate: "2026-07-26",
     updatedDate: "2026-07-26",
     hasDisclosure: true,
@@ -21768,7 +21768,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
 
       { type: "h3", title: `2. Winco W118 — el más vendido` },
       { type: "product-card", productMlaId: "MLA19884110", label: "El más vendido", labelColor: "slate", ranking: 2, description: `3 en 1 (mesa, pared y pie), 5 aspas de aluminio y función turbo. 4.5 estrellas en 10.551 calificaciones, el precio más bajo de la guía.` },
-      { type: "p", content: `Por lejos el más vendido de esta categoría en Argentina: 10.551 calificaciones reales, casi siete veces más que el Peabody (1.612). Suma función 3 en 1 (mesa, pared o pie) y modo turbo, a alrededor de {{precio:MLA19884110:k}}, el más barato de esta guía.` },
+      { type: "p", content: `Por lejos el más vendido de esta categoría en Argentina: {{reviews:MLA19884110}} calificaciones reales, casi siete veces más que el Peabody ({{reviews:MLA41606856}}). Suma función 3 en 1 (mesa, pared o pie) y modo turbo, a alrededor de {{precio:MLA19884110:k}}, el más barato de esta guía.` },
       { type: "p", content: `Las contras honestas: la propia ficha técnica lo declara "no silencioso" (aunque varias reseñas lo describen distinto, hay contradicción entre fuentes), sin altura ajustable y con un armado que varias reseñas describen como poco claro.` },
       { type: "pull-quote", content: `"Excelente!!! liviano, tira mucho viento!!! bien piola el viento!!! no es ruidoso!!!"`, attribution: `Opinión verificada en MercadoLibre` },
 
@@ -21792,7 +21792,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
 
       { type: "h2", title: `Cómo elegir tu ventilador de pie`, id: "como-elegir" },
       { type: "h3", title: `¿Rating alto o volumen de reseñas?` },
-      { type: "p", content: `Los cuatro de esta guía tienen entre 4.5 y 4.8 estrellas, una diferencia chica. Lo que más cambia es el volumen: el [Winco](/producto/ventilador-winco-3-en-1-de-mesa-de-pared-de-pie-w118-45-72-cm-50-hz-gris-celeste-mla19884110) tiene 10.551 opiniones, casi siete veces más que el [Peabody](/producto/ventilador-de-pie-peabody-pe-vp1860n-18-60w-3-paletas-estructura-negro-diametro-mla41606856) (1.612) y mucho más que las 376 del [Kanji](/producto/ventilador-de-pie-kanji-home-20-con-control-remoto-y-3-velocidades-mla29273448). Con más de 300 reseñas ya hay una base sólida para confiar en el rating; por debajo de eso, conviene leer los comentarios de texto antes de decidir.` },
+      { type: "p", content: `Los cuatro de esta guía tienen entre 4.5 y 4.8 estrellas, una diferencia chica. Lo que más cambia es el volumen: el [Winco](/producto/ventilador-winco-3-en-1-de-mesa-de-pared-de-pie-w118-45-72-cm-50-hz-gris-celeste-mla19884110) tiene {{reviews:MLA19884110}} opiniones, casi siete veces más que el [Peabody](/producto/ventilador-de-pie-peabody-pe-vp1860n-18-60w-3-paletas-estructura-negro-diametro-mla41606856) ({{reviews:MLA41606856}}) y mucho más que las {{reviews:MLA29273448}} del [Kanji](/producto/ventilador-de-pie-kanji-home-20-con-control-remoto-y-3-velocidades-mla29273448). Con más de 300 reseñas ya hay una base sólida para confiar en el rating; por debajo de eso, conviene leer los comentarios de texto antes de decidir.` },
       { type: "h3", title: `¿Control remoto o ahorro?` },
       { type: "p", content: `Solo el [Kanji Home](/producto/ventilador-de-pie-kanji-home-20-con-control-remoto-y-3-velocidades-mla29273448) lo incluye entre estos cuatro, a un precio medio. Si el control remoto no es indispensable, el [Winco](/producto/ventilador-winco-3-en-1-de-mesa-de-pared-de-pie-w118-45-72-cm-50-hz-gris-celeste-mla19884110) cubre lo esencial a un precio bastante menor.` },
       { type: "h3", title: `¿Aspas de plástico, aluminio o metal?` },
@@ -25444,7 +25444,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
 
       { type: "h3", title: `1. Exahome kit x3 — la más elegida` },
       { type: "product-card", productMlaId: "MLA35809709", label: "La más elegida", labelColor: "green", ranking: 1, description: `Tres estantes de 60x20 en melamina de 18 mm con ménsulas invisibles. El kit más vendido de la categoría, con la mayor base de opiniones de esta comparativa por lejos.` },
-      { type: "p", content: `El [Exahome kit x3](/producto/3-estantes-flotantes-repisa-con-mensulas-invisibles-60x20x18-color-blanco-exahom-mla35809709) sale alrededor de {{precio:MLA35809709:k}} y tiene **{{rating:MLA35809709}} estrellas en {{reviews:MLA35809709}} opiniones**. Ese número es lo que lo separa del resto: ningún otro producto de esta guía llega a 750 opiniones, y los otros dos kits de melamina de 60x20 no pasan de 68.` },
+      { type: "p", content: `El [Exahome kit x3](/producto/3-estantes-flotantes-repisa-con-mensulas-invisibles-60x20x18-color-blanco-exahom-mla35809709) sale alrededor de {{precio:MLA35809709:k}} y tiene **{{rating:MLA35809709}} estrellas en {{reviews:MLA35809709}} opiniones**. Ese número es lo que lo separa del resto: el que más se le acerca en esta guía es el combo de SAJO con {{reviews:MLA36299841}}, y los otros dos kits de melamina de 60x20 no pasan de {{reviews:MLAU828916072}}.` },
       { type: "p", content: `Los 20 cm de profundidad son el otro punto fuerte, y entra un libro apoyado de plano. Es la diferencia práctica contra las repisas de pino de esta misma comparativa, que rondan los 12 cm.` },
       { type: "p", content: `Lo honesto: el producto casi no recibe quejas, el montaje sí. La contra que más se repite es que hace falta mecha del 12 y tarugos n14, un agujero bastante más grande de lo que uno espera para una repisa, y que queda a la vista si la pared no está impecable. También hay reportes sueltos de tornillos torcidos o perforaciones sin terminar.` },
       { type: "pull-quote", content: `"Re lindas, son estantes. Lo único que mi viejo me odió porque no tenía mecha de 12, según él fue un quilombo ponerla por eso y que le parecía una exageración. Pero bueno se banca los libros así q todo ok."`, attribution: `Comprador verificado en MercadoLibre, calificación 4/5` },
@@ -25700,7 +25700,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     standfirst: `Un freezer vertical va de {{precio:MLA75635667:k}} (65 litros) a {{precio:MLA19620404:k}} (153 litros). Comparamos 6 freezers verticales reales de MercadoLibre Argentina por **precio por litro**, medidas y respaldo de opiniones, con contras de reseñas verdaderas, dentro de nuestro silo de [Cocina](/categoria/cocina).`,
     quickPicks: [
       { productMlaId: "MLA23435743", label: "El mejor por litro", labelColor: "green", tagline: "Midea 160 L: la mayor capacidad, el mejor precio por litro y el único con ruedas" },
-      { productMlaId: "MLA20038035", label: "El más reseñado", labelColor: "blue", tagline: "Philco 65 L: 1.002 opiniones y el más compacto de los seis" },
+      { productMlaId: "MLA20038035", label: "El más reseñado", labelColor: "blue", tagline: "Philco 65 L: {{reviews:MLA20038035}} opiniones y el más compacto de los seis" },
       { productMlaId: "MLA6071549", label: "Para bajo mesada", labelColor: "purple", tagline: "Vondom FR55: 85,5 cm de alto y doble función, freezer o heladera" },
       { productMlaId: "MLA75635667", label: "El más barato", labelColor: "slate", tagline: "Siam 65 L: la entrada más barata, con una sola opinión detrás" },
     ],
@@ -25717,17 +25717,17 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
 
       { type: "h2", title: `Qué mirar antes de comprar un freezer vertical`, id: "que-mirar" },
       { type: "p", content: `**Cuánto pagás por litro.** Es la cuenta que ordena esta guía y ninguna publicación la hace. Va de **$5.312 el litro** en el [Midea de 160](/producto/freezer-vertical-midea-fc-mj6war1-160-litros-blanco-con-ruedas-mla23435743) a **$11.880** en el [Philco de 65](/producto/freezer-vertical-philco-phcv065b-65-litros-blanco-20-kg-mla20038035). En esta comparativa los dos equipos de 65 litros son los más baratos en total, pero rinden peor por litro: eso no los descarta, y de hecho el Vondom de 85 litros sale más caro por litro que uno de ellos.` },
-      { type: "p", content: `**Sobre cuántas opiniones está calculada la calificación.** MercadoLibre pone las estrellas al lado del precio sin decir cuántas opiniones hay detrás. En esta comparativa el rango va de **1 opinión a 1.002**. Un 5,0 sobre una opinión y un 4,7 sobre mil son cosas muy distintas que se muestran igual.` },
+      { type: "p", content: `**Sobre cuántas opiniones está calculada la calificación.** MercadoLibre pone las estrellas al lado del precio sin decir cuántas opiniones hay detrás. En esta comparativa el rango va de **{{reviews:MLA75635667}} a {{reviews:MLA20038035}} opiniones**. Un 5,0 sobre una opinión y un 4,7 sobre mil son cosas muy distintas que se muestran igual.` },
       { type: "p", content: `**El hueco, en las tres dimensiones.** Los grandes de esta guía miden entre 142 y 144 cm de alto y entre 55 y 57 de ancho. Los chicos rondan los 45 cm de ancho y 85 de alto. Y la profundidad va de 45,5 a 59 cm, así que si va abajo de una mesada, medí también el fondo.` },
       { type: "p", content: `**Cuánto espacio libre necesita alrededor.** Ninguna de las seis fichas lo publica, y es un dato que importa mucho en un equipo que se compra para meter en un hueco. Lo único que encontramos al respecto sale de una reseña, y está más abajo.` },
       { type: "p", content: `**Que ninguno es no frost.** Los seis se descongelan a mano. Ninguna de las seis publicaciones declara tecnología no frost, así que ese es el piso de la categoría en este rango de precios.` },
 
-      { type: "callout", calloutVariant: "warning", calloutTitle: "Un 5,0 de calificación puede estar hecho con una sola opinión", content: `El equipo **más barato de esta guía muestra 5,0 estrellas**. Ese número está calculado sobre **una sola opinión**. No es una mala señal: es la ausencia de señal. Al lado, otro equipo de **exactamente la misma capacidad, 65 litros**, muestra 4,7 estrellas, pero calculadas sobre **1.002 opiniones**, y cuesta **$199.100 más, un 35% por encima**. La elección entre esos dos no es "el barato contra el caro": es **precio contra evidencia**, y conviene decidirla sabiendo eso. MercadoLibre muestra las dos calificaciones con las mismas estrellas y del mismo tamaño.` },
+      { type: "callout", calloutVariant: "warning", calloutTitle: "Un 5,0 de calificación puede estar hecho con una sola opinión", content: `El equipo **más barato de esta guía muestra 5,0 estrellas**. Ese número está calculado sobre **una sola opinión**. No es una mala señal: es la ausencia de señal. Al lado, otro equipo de **exactamente la misma capacidad, 65 litros**, muestra {{rating:MLA20038035}} estrellas, pero calculadas sobre **{{reviews:MLA20038035}} opiniones**, y cuesta **$199.100 más, un 35% por encima**. La elección entre esos dos no es "el barato contra el caro": es **precio contra evidencia**, y conviene decidirla sabiendo eso. MercadoLibre muestra las dos calificaciones con las mismas estrellas y del mismo tamaño.` },
 
       { type: "h2", title: `Los mejores freezers verticales de 2026`, id: "ranking" },
 
       { type: "h3", title: `1. Midea FC-MJ6WAR1 — el mejor por litro` },
-      { type: "product-card", productMlaId: "MLA23435743", label: "El mejor por litro", labelColor: "green", ranking: 1, description: `160 litros, la mayor capacidad de la comparativa, al precio por litro más bajo. El único que declara ruedas, con 424 opiniones detrás.` },
+      { type: "product-card", productMlaId: "MLA23435743", label: "El mejor por litro", labelColor: "green", ranking: 1, description: `160 litros, la mayor capacidad de la comparativa, al precio por litro más bajo. El único que declara ruedas, con {{reviews:MLA23435743}} opiniones detrás.` },
       { type: "p", content: `El [Midea FC-MJ6WAR1](/producto/freezer-vertical-midea-fc-mj6war1-160-litros-blanco-con-ruedas-mla23435743) sale alrededor de {{precio:MLA23435743:k}} y tiene **{{rating:MLA23435743}} estrellas en {{reviews:MLA23435743}} opiniones**. Encabeza por la cuenta: **$5.312 el litro**, el mejor de los seis, con la mayor capacidad del grupo.` },
       { type: "p", content: `Suma algo que suena menor y no lo es: **es el único de la comparativa que declara ruedas**. Con 42 kg encima, eso decide si podés correrlo para limpiar detrás o no. Otros dos de los seis pesan exactamente lo mismo, 42 kg, y ninguno declara ruedas. También trae puertas reversibles.` },
       { type: "p", content: `Lo honesto: la contra sale de sus propias reseñas y está confirmada desde dos lados. **El compartimento de arriba no trae estante**, así que la comida se apoya directo sobre el fondo. Dos reseñas de 4 estrellas lo señalan como su único defecto, y una de 5 estrellas lo describe sin quejarse.` },
@@ -25735,7 +25735,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "p", content: `Lo que sí convence es el silencio, que aparece en tres de las cuatro reseñas que revisamos, y que congela sin necesidad de forzarlo: varios compradores lo usan en la posición mínima o media.` },
 
       { type: "h3", title: `2. Philco PHCV065B — el más reseñado` },
-      { type: "product-card", productMlaId: "MLA20038035", label: "El más reseñado", labelColor: "blue", ranking: 2, description: `65 litros con 1.002 opiniones, el respaldo más grande de la comparativa. También el más liviano y el más compacto de los seis.` },
+      { type: "product-card", productMlaId: "MLA20038035", label: "El más reseñado", labelColor: "blue", ranking: 2, description: `65 litros con {{reviews:MLA20038035}} opiniones, el respaldo más grande de la comparativa. También el más liviano y el más compacto de los seis.` },
       { type: "p", content: `El [Philco PHCV065B](/producto/freezer-vertical-philco-phcv065b-65-litros-blanco-20-kg-mla20038035) sale alrededor de {{precio:MLA20038035:k}}, con **{{rating:MLA20038035}} estrellas en {{reviews:MLA20038035}} opiniones**. Ese número es el más alto del grupo y lo que lo pone segundo: en un rubro donde la mayoría no pasa de 500 opiniones, mil son mucha evidencia.` },
       { type: "p", content: `Con 45,3 cm de ancho, 82,5 de alto y **20 kg**, es el más compacto y el más liviano de los seis. Una persona sola lo mueve.` },
       { type: "p", content: `La duda con 65 litros siempre es si entra algo de verdad. Un comprador la contesta con un número concreto.` },
@@ -25743,7 +25743,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "p", content: `Lo honesto, y son dos cosas. La primera es la cuenta: **$11.880 el litro, el peor de la comparativa**, y encima el [Siam de la misma capacidad](/producto/freezer-vertical-siam-fsi-cv065b-65-litros-blanco-45-5-cm-de-ancho-mla75635667) cuesta $199.100 menos. La segunda es el equipamiento: su ficha declara **"No" en control de temperatura, puertas reversibles, luz interior, congelamiento rápido, ruedas y tapón de drenado**. Estás pagando por el respaldo, no por las funciones.` },
 
       { type: "h3", title: `3. Siam FSI-CV180B — el más respaldado entre los grandes` },
-      { type: "product-card", productMlaId: "MLA19620404", label: "Más opiniones entre los grandes", labelColor: "amber", ranking: 3, description: `153 litros según su ficha técnica, con 498 opiniones y 4,8. El único que publica su certificación IRAM con número.` },
+      { type: "product-card", productMlaId: "MLA19620404", label: "Más opiniones entre los grandes", labelColor: "amber", ranking: 3, description: `153 litros según su ficha técnica, con {{reviews:MLA19620404}} opiniones y {{rating:MLA19620404}}. El único que publica su certificación IRAM con número.` },
       { type: "p", content: `El [Siam FSI-CV180B](/producto/freezer-vertical-siam-fsi-cv180b-153-litros-segun-ficha-blanco-ciclico-mla19620404) sale alrededor de {{precio:MLA19620404:k}}, con **{{rating:MLA19620404}} estrellas en {{reviews:MLA19620404}} opiniones**. Es el segundo respaldo más grande de la guía y el más caro de los seis.` },
       { type: "p", content: `Publica algo que ningún otro de los seis publica: su **certificación IRAM con número de certificado**. El gas refrigerante y la eficiencia energética también los declara, aunque ahí no está solo. En una categoría donde varias fichas ni siquiera dicen cuántos cajones traen, ese nivel de detalle habla bien del vendedor.` },
       { type: "p", content: `Lo honesto, y es lo que lo baja del podio: **el título de la publicación dice "166 Lts" y su propia ficha técnica declara 153 litros**. Trece litros de diferencia, un 8% menos, dentro del mismo aviso. Y hay un comprador que llegó al mismo lugar sin mirar la ficha.` },
@@ -25794,7 +25794,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
 
       { type: "h2", title: `Cómo elegir tu freezer vertical`, id: "como-elegir" },
       { type: "p", content: `**Si tenés lugar y querés el mejor rendimiento**, el [Midea de 160 litros](/producto/freezer-vertical-midea-fc-mj6war1-160-litros-blanco-con-ruedas-mla23435743). Más capacidad, mejor precio por litro y ruedas. Contá con que arriba no hay bandeja.` },
-      { type: "p", content: `**Si el hueco es chico**, mirá los dos de 65 litros y decidí entre precio y respaldo: el [Siam](/producto/freezer-vertical-siam-fsi-cv065b-65-litros-blanco-45-5-cm-de-ancho-mla75635667) sale $199.100 menos, el [Philco](/producto/freezer-vertical-philco-phcv065b-65-litros-blanco-20-kg-mla20038035) tiene 1.002 opiniones contra 1.` },
+      { type: "p", content: `**Si el hueco es chico**, mirá los dos de 65 litros y decidí entre precio y respaldo: el [Siam](/producto/freezer-vertical-siam-fsi-cv065b-65-litros-blanco-45-5-cm-de-ancho-mla75635667) sale $199.100 menos, el [Philco](/producto/freezer-vertical-philco-phcv065b-65-litros-blanco-20-kg-mla20038035) tiene {{reviews:MLA20038035}} opiniones contra {{reviews:MLA75635667}}.` },
       { type: "p", content: `**Si tiene que ir abajo de una mesada**, el [Vondom FR55](/producto/freezer-vertical-vondom-fr55-bajo-mesada-85-litros-blanco-4-cajones-mla6071549) es el único que el fabricante publica como línea bajo mesada, y encima sirve como heladera. Por altura pura, el [Siam de 65 litros](/producto/freezer-vertical-siam-fsi-cv065b-65-litros-blanco-45-5-cm-de-ancho-mla75635667) es incluso más bajo, 85 cm contra 85,5, aunque no se vende como empotrable. En los dos casos medí el fondo: 57 cm el Vondom, 45,5 cm el Siam.` },
       { type: "p", content: `**Si no querés el blanco de electrodoméstico**, el [Siam FSI-CV181 negro](/producto/freezer-vertical-siam-fsi-cv181-151-litros-negro-6-cajones-mla50200098), con la advertencia de stock.` },
       { type: "p", content: `**Si vas a comparar contra un horizontal**, hacé la cuenta por litro antes de decidir. Y si lo que buscás es sumar frío a la cocina sin un equipo aparte, mirá también nuestras guías de [microondas](/guias/cocina/microondas) y [horno eléctrico](/guias/cocina/horno-electrico) para ver qué otras cosas conviene resolver primero.` },
@@ -25802,7 +25802,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "trust-block", trustVariant: "methodology", content: `**Qué no pudimos verificar:** todas las especificaciones salen de las fichas de MercadoLibre verificadas en vivo, no de las webs de Siam, Philco, Midea ni Vondom. El consumo eléctrico real no lo publica ninguna de las seis publicaciones, solo la letra de eficiencia energética. El espacio libre que necesita cada equipo alrededor tampoco lo publica ninguna. Y en el Siam FSI-CV065B no hay contras que contar: con una sola opinión, no hay experiencia de uso acumulada que citar. **Sobre el envío:** las seis publicaciones mostraban "envío gratis por ser tu primera compra", que es una promoción de cuenta y no un atributo del producto, así que un comprador que ya compró antes en MercadoLibre puede pagar el envío.` },
     ],
     faq: [
-      { question: "¿Cuál es el mejor freezer vertical en Argentina?", answer: "Para la mayoría, el Midea FC-MJ6WAR1 de 160 litros: es el que más capacidad tiene de esta comparativa, el que menos cuesta por litro con $5.312 y el único que declara ruedas, con 424 opiniones y 4,7 de promedio. Si el espacio es el problema, el Philco de 65 litros es el más compacto y el más reseñado del grupo." },
+      { question: "¿Cuál es el mejor freezer vertical en Argentina?", answer: "Para la mayoría, el Midea FC-MJ6WAR1 de 160 litros: es el que más capacidad tiene de esta comparativa, el que menos cuesta por litro con $5.312 y el único que declara ruedas, con {{reviews:MLA23435743}} opiniones y {{rating:MLA23435743}} de promedio. Si el espacio es el problema, el Philco de 65 litros es el más compacto y el más reseñado del grupo." },
       { question: "¿Cuánto cuesta un freezer vertical en Argentina?", answer: "Los seis equipos comparados van de $573.099 a $926.199. Pero el precio de lista engaña: medido por litro, el rango va de $5.312 a $11.880, más del doble. Los dos equipos de 65 litros son los más baratos en total, pero no son automáticamente los peores por litro: el Vondom de 85 litros sale $10.471 y queda por encima del Siam de 65, que sale $8.817." },
       { question: "¿Conviene un freezer vertical u horizontal?", answer: "El horizontal rinde más litros por peso y suele salir más barato el litro, y de hecho domina el rubro: de los 20 freezers más vendidos de MercadoLibre, solo 5 son verticales. El vertical se elige porque ocupa menos metro cuadrado de piso y porque todo queda a la vista al abrir la puerta, sin tener que sacar cosas para llegar al fondo." },
       { question: "¿Qué significa que un freezer sea cíclico?", answer: "Que hay que descongelarlo a mano cada tanto, porque no tiene sistema no frost que evite la acumulación de escarcha. Ninguna de las seis publicaciones de esta comparativa declara tecnología no frost, así que en este rango de precios el deshielo manual es el piso de la categoría." },
@@ -25850,7 +25850,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     sections: [
       { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_681386-MLA100457531586_122025-O.webp", alt: `Cocina a gas de cuatro hornallas con horno con visor, en una cocina de casa`, imageSize: "hero" },
 
-      { type: "callout", calloutVariant: "warning", calloutTitle: "La cocina más vendida del rubro no funciona con garrafa", content: `La **[Escorial Candor S2](/producto/cocina-escorial-candor-s2-51-cm-4-hornallas-solo-gas-natural-mla6056509)** es la cocina a gas más vendida de MercadoLibre Argentina, con más de diez mil unidades y **6.131 opiniones**. Su ficha técnica declara, textual: **"Es convertible a GLP: No"**. GLP es el gas de garrafa. Está pensada solo para **gas natural de red**. Si en tu casa se cocina con garrafa, la cocina que encabeza el ranking no es una opción para vos, y el dato vive en un campo de la ficha que casi nadie abre. **Las otras cinco de esta guía declaran "Es convertible a GLP: Sí".**` },
+      { type: "callout", calloutVariant: "warning", calloutTitle: "La cocina más vendida del rubro no funciona con garrafa", content: `La **[Escorial Candor S2](/producto/cocina-escorial-candor-s2-51-cm-4-hornallas-solo-gas-natural-mla6056509)** es la cocina a gas más vendida de MercadoLibre Argentina, con más de diez mil unidades y **{{reviews:MLA6056509}} opiniones**. Su ficha técnica declara, textual: **"Es convertible a GLP: No"**. GLP es el gas de garrafa. Está pensada solo para **gas natural de red**. Si en tu casa se cocina con garrafa, la cocina que encabeza el ranking no es una opción para vos, y el dato vive en un campo de la ficha que casi nadie abre. **Las otras cinco de esta guía declaran "Es convertible a GLP: Sí".**` },
 
       { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Si tenés **gas natural de red** y querés gastar lo mínimo, la **[Escorial Candor S2](/producto/cocina-escorial-candor-s2-51-cm-4-hornallas-solo-gas-natural-mla6056509)**. Si usás **garrafa**, esa queda descartada: andá a la **[Drean CD5603AN0](/producto/cocina-drean-cd5603an0-56-cm-encendido-electronico-horno-de-74-litros-mla63018001)**, que es multigas, tiene el horno más grande y encendido electrónico. Si el hueco mide menos de 50 cm, la **[Siam Essential](/producto/cocina-siam-essential-csi-cn50p-49-cm-multigas-4-hornallas-mla61348769)**.` },
 
@@ -25885,16 +25885,16 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "product-card", productMlaId: "MLA63018001", label: "La más equilibrada", labelColor: "green", ranking: 1, description: `El horno más grande de la comparativa con 74 litros, encendido electrónico, luz interior y válvulas de seguridad.` },
       { type: "p", content: `La [Drean CD5603AN0](/producto/cocina-drean-cd5603an0-56-cm-encendido-electronico-horno-de-74-litros-mla63018001) sale alrededor de {{precio:MLA63018001:k}} y tiene **{{rating:MLA63018001}} estrellas en {{reviews:MLA63018001}} opiniones**. Encabeza porque es donde esta comparativa deja de hablar de precio y empieza a hablar de uso diario: **74 litros de horno**, el más grande del grupo, **encendido electrónico** en vez de fósforo, y **luz adentro del horno**.` },
       { type: "p", content: `Un comprador resume las tres mejor que cualquier ficha: *"al tener encendido electrónico te olvidás de los mecheros, la luz del horno permite ver cómo va tu comida sin necesidad de abrir, y muy importante es que tengan válvulas de seguridad en las hornallas como en el horno"*.` },
-      { type: "p", content: `Lo honesto, y son dos cosas. Con {{reviews:MLA63018001}} opiniones tiene el respaldo más chico de la comparativa, bastante lejos de las 6.131 de la Escorial. Y hay una contra que nadie espera de una cocina a gas: **el encendido electrónico necesita enchufe**. A un comprador el cable le quedó dos centímetros corto al reemplazar su cocina vieja. Mirá dónde está la toma antes de comprarla.` },
+      { type: "p", content: `Lo honesto, y son dos cosas. Con {{reviews:MLA63018001}} opiniones tiene el respaldo más chico de la comparativa, bastante lejos de las {{reviews:MLA6056509}} de la Escorial. Y hay una contra que nadie espera de una cocina a gas: **el encendido electrónico necesita enchufe**. A un comprador el cable le quedó dos centímetros corto al reemplazar su cocina vieja. Mirá dónde está la toma antes de comprarla.` },
 
       { type: "h3", title: `2. Florencia 5518F — el punto medio` },
-      { type: "product-card", productMlaId: "MLA8791802", label: "Buen punto medio", labelColor: "blue", ranking: 2, description: `Acero inoxidable, horno de 65 litros y 447 opiniones con 4,7, sin ninguna contra grave.` },
+      { type: "product-card", productMlaId: "MLA8791802", label: "Buen punto medio", labelColor: "blue", ranking: 2, description: `Acero inoxidable, horno de 65 litros y {{reviews:MLA8791802}} opiniones con {{rating:MLA8791802}}, sin ninguna contra grave.` },
       { type: "p", content: `La [Florencia 5518F](/producto/cocina-florencia-5518f-56-cm-acero-inoxidable-horno-de-65-litros-mla8791802) sale alrededor de {{precio:MLA8791802}}, con **{{rating:MLA8791802}} estrellas en {{reviews:MLA8791802}} opiniones**. Es la que menos peros tiene: mesa de acero inoxidable, horno de 65 litros, válvulas de seguridad y eficiencia A en hornallas y horno.` },
       { type: "p", content: `Es también la que tiene **el mejor reporte de conversión a garrafa** de toda la guía, que ya citamos más arriba: le cambiaron los picos y funcionó sin drama.` },
       { type: "p", content: `Lo honesto: **no es autolimpiante**, aunque su ficha se preste a confusión. El modelo se llama Easy Clean, que es un esmalte que facilita la limpieza, no un horno pirolítico. Una compradora dejó una reseña justamente por ese malentendido. Y el acero marca: *"quedan las marcas del agua cuando gotea, no sale"*.` },
 
       { type: "h3", title: `3. Escorial Candor S2 — la más barata y la más vendida` },
-      { type: "product-card", productMlaId: "MLA6056509", label: "La más barata", labelColor: "slate", ranking: 3, description: `La cocina a gas más vendida del rubro, con 6.131 opiniones. Solo para gas natural de red.` },
+      { type: "product-card", productMlaId: "MLA6056509", label: "La más barata", labelColor: "slate", ranking: 3, description: `La cocina a gas más vendida del rubro, con {{reviews:MLA6056509}} opiniones. Solo para gas natural de red.` },
       { type: "p", content: `La [Escorial Candor S2](/producto/cocina-escorial-candor-s2-51-cm-4-hornallas-solo-gas-natural-mla6056509) sale alrededor de {{precio:MLA6056509}}, con **{{rating:MLA6056509}} estrellas en {{reviews:MLA6056509}} opiniones**. Es el precio más bajo de la comparativa y el respaldo más grande por lejos.` },
       { type: "p", content: `Está tercera y no primera por una sola razón, que ya dijimos arriba pero conviene repetir acá: **su ficha declara que no convierte a garrafa**. Si tenés gas natural de red, esta es una compra difícil de discutir por el precio. Si no, no es una opción.` },
       { type: "p", content: `Sus compradores son notablemente honestos sobre lo que compraron. *"Por ser la más barata, está perfecta"*, escribe una. Otro: *"si bien la lata no es la más gruesa, tampoco podemos exigir tanto por el precio"*. Y la contra técnica llega envuelta en una broma que igual sirve: *"las termocuplas son tan rápidas como un caracol"*, o sea que hay que sostener la perilla apretada un rato al encender.` },
@@ -25986,7 +25986,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     standfirst: `Un colchón de 2 plazas va de {{precio:MLA54221370:k}} a {{precio:MLA22938951:k}}. Comparamos 4 colchones reales de MercadoLibre Argentina, tres de dos plazas y un Queen, por **peso máximo declarado, medida real y densidad**, con contras de reseñas verdaderas, dentro de nuestro silo de [Hogar y Jardín](/categoria/hogar-jardin).`,
     quickPicks: [
       { productMlaId: "MLA54221370", label: "El mejor equilibrio", labelColor: "green", tagline: "Känn Livet: 300 kg declarados, resortes pocket y el más barato" },
-      { productMlaId: "MLA22938951", label: "El más reseñado", labelColor: "blue", tagline: "YOLO by Simmons: 16.843 opiniones y memory foam" },
+      { productMlaId: "MLA22938951", label: "El más reseñado", labelColor: "blue", tagline: "YOLO by Simmons: {{reviews:MLA22938951}} opiniones y memory foam" },
       { productMlaId: "MLA42252800", label: "La medida clásica", labelColor: "amber", tagline: "Sueño Dorado Box Prime: 140x190, tus sábanas entran" },
       { productMlaId: "MLA40490705", label: "Si querés más ancho", labelColor: "purple", tagline: "Sueño Dorado Queen: 160 cm, 20 más que un 2 plazas" },
     ],
@@ -26032,7 +26032,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "pull-quote", content: `"Durito de entrada. Ahora, espectacular descanso."`, attribution: `Comprador del Känn Livet KL-Aureo, calificación 5/5` },
 
       { type: "h3", title: `2. YOLO by Simmons — el más reseñado` },
-      { type: "product-card", productMlaId: "MLA22938951", label: "El más reseñado", labelColor: "blue", ranking: 2, description: `16.843 opiniones, el respaldo más grande de la comparativa por lejos, y el único con memory foam.` },
+      { type: "product-card", productMlaId: "MLA22938951", label: "El más reseñado", labelColor: "blue", ranking: 2, description: `{{reviews:MLA22938951}} opiniones, el respaldo más grande de la comparativa por lejos, y el único con memory foam.` },
       { type: "p", content: `El [YOLO by Simmons](/producto/colchon-yolo-by-simmons-2-plazas-140x190-memory-foam-16-843-opiniones-mla22938951) sale alrededor de {{precio:MLA22938951:k}}, con **{{rating:MLA22938951}} estrellas en {{reviews:MLA22938951}} opiniones**. Es, por lejos, el respaldo más grande de esta comparativa, y lo que comprás con él, además del colchón, es saber en qué te estás metiendo.` },
       { type: "p", content: `Es el único con **memory foam** y el que más densidad declara: 31 kg/m³. Respeta la medida clásica de 140 x 190, así que no vas a tener que cambiar sábanas.` },
       { type: "p", content: `Lo honesto: es **el más caro de los cuatro** y **declara 100 kg de peso máximo, el más bajo del grupo**. El Känn Livet declara el triple y sale menos. Sus propios compradores además ajustan la expectativa: uno avisa que "no iba a ser como recostarme en una nube" y otro lo describe como "duro, con una capa fina blanda arriba".` },
@@ -26044,7 +26044,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "p", content: `Lo honesto: con {{reviews:MLA42252800}} opiniones es el respaldo más chico de los cuatro. Y es firme de verdad, no medianamente firme: un comprador lo llama "hiper firme". Si buscás hundirte, no es este.` },
 
       { type: "h3", title: `4. Sueño Dorado Box Plus Queen — si querés más ancho` },
-      { type: "product-card", productMlaId: "MLA40490705", label: "Si querés más ancho", labelColor: "purple", ranking: 4, description: `El único Queen de la comparativa: 160 cm de ancho, 20 más que un 2 plazas, con 12.003 opiniones.` },
+      { type: "product-card", productMlaId: "MLA40490705", label: "Si querés más ancho", labelColor: "purple", ranking: 4, description: `El único Queen de la comparativa: 160 cm de ancho, 20 más que un 2 plazas, con {{reviews:MLA40490705}} opiniones.` },
       { type: "p", content: `El [Sueño Dorado Box Plus](/producto/colchon-sueno-dorado-box-plus-queen-160x200-espuma-en-caja-mla40490705) sale alrededor de {{precio:MLA40490705}}, con **{{rating:MLA40490705}} estrellas en {{reviews:MLA40490705}} opiniones**, el segundo respaldo más grande del grupo. Está acá por una sola razón, y es buena: **es Queen**, o sea 160 cm de ancho contra los 140 de un dos plazas.` },
       { type: "p", content: `Veinte centímetros repartidos entre dos personas son diez por cabeza, y se notan si alguno se mueve mucho. Varias reseñas son de gente que venía de un colchón de resortes hundido y dejó de tener dolores de espalda.` },
       { type: "p", content: `Lo honesto, y son tres cosas. **No es un dos plazas**: necesitás sommier y sábanas de Queen. Declara **110 kg** de peso máximo. Y con **20 cm** es el más finito del grupo, contra los 25 del Känn Livet y del Box Prime.` },
@@ -26068,7 +26068,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "h2", title: `Cómo elegir tu colchón de 2 plazas`, id: "como-elegir" },
       { type: "p", content: `**Primero, sumá el peso de quienes van a dormir ahí** y comparalo contra el campo de peso máximo. Si el total pasa los 120 kg, el único de esta guía que se queda cómodo es el [Känn Livet](/producto/colchon-kann-livet-kl-aureo-2-plazas-140x200-resortes-pocket-y-pillow-top-mla54221370), que además es el más barato.` },
       { type: "p", content: `**Segundo, medí el sommier y mirá tus sábanas.** Si querés no cambiar nada, andá a los de 140 x 190: el [Box Prime](/producto/colchon-sueno-dorado-box-prime-2-plazas-140x190x25-espuma-firme-mla42252800) o el [YOLO](/producto/colchon-yolo-by-simmons-2-plazas-140x190-memory-foam-16-843-opiniones-mla22938951).` },
-      { type: "p", content: `**Tercero, decidí cuánta evidencia querés.** El YOLO tiene 16.843 opiniones y el Box Prime 1.813. Los dos tienen 4,8, pero no significan lo mismo.` },
+      { type: "p", content: `**Tercero, decidí cuánta evidencia querés.** El YOLO tiene {{reviews:MLA22938951}} opiniones y el Box Prime {{reviews:MLA42252800}}. Los dos tienen 4,8, pero no significan lo mismo.` },
       { type: "p", content: `**Si dormís de a dos y alguno se mueve mucho**, los resortes pocket del Känn Livet son la única opción del grupo pensada para eso. **Si el problema es que la cama queda chica**, el [Queen](/producto/colchon-sueno-dorado-box-plus-queen-160x200-espuma-en-caja-mla40490705) suma 20 cm de ancho, con la salvedad de que cambia el sommier y las sábanas.` },
 
       { type: "trust-block", trustVariant: "methodology", content: `**Qué no pudimos verificar:** todas las especificaciones salen de las fichas de MercadoLibre verificadas en vivo, no de las webs de Simmons, Sueño Dorado ni Känn Livet. **La densidad solo la publican dos de los cuatro**, así que no se puede ordenar el grupo por ese criterio. Los campos de ortopédico, hipoalergénico y antiácaros son declaraciones del vendedor en la ficha, no certificaciones que hayamos podido comprobar. Tampoco hay garantía publicada de forma comparable entre los cuatro. **Sobre el envío:** las cuatro publicaciones mostraban "envío gratis por ser tu primera compra", que es una promoción de cuenta y no un atributo del producto.` },
@@ -26108,9 +26108,9 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     readingTime: 10,
     standfirst: `Un colchón de 1 plaza va de {{precio:MLA63548072:k}} a {{precio:MLA28530883:k}}. Comparamos 5 colchones reales de MercadoLibre Argentina por **ancho real, peso máximo y densidad**, con contras de reseñas verdaderas, dentro de nuestro silo de [Hogar y Jardín](/categoria/hogar-jardin).`,
     quickPicks: [
-      { productMlaId: "MLA54967234", label: "El mejor calificado", labelColor: "green", tagline: "Känn Livet KL-Eterna: 4,9 sobre 2.498 opiniones, pillow top y 200 kg" },
+      { productMlaId: "MLA54967234", label: "El mejor calificado", labelColor: "green", tagline: "Känn Livet KL-Eterna: {{rating:MLA54967234}} sobre {{reviews:MLA54967234}} opiniones, pillow top y 200 kg" },
       { productMlaId: "MLA63548072", label: "El más barato", labelColor: "blue", tagline: "Fika Pocket: el único cuyo relleno declara resortes, pero es 1 plaza de 80 cm" },
-      { productMlaId: "MLA18635357", label: "El más reseñado", labelColor: "amber", tagline: "Calm: 8.942 opiniones y la densidad más alta entre las tres que la publican" },
+      { productMlaId: "MLA18635357", label: "El más reseñado", labelColor: "amber", tagline: "Calm: {{reviews:MLA18635357}} opiniones y la densidad más alta entre las tres que la publican" },
       { productMlaId: "MLA28530883", label: "Si necesitás 2 metros", labelColor: "purple", tagline: "La Espumería: el único de 200 cm de largo" },
     ],
     intro: [
@@ -26159,13 +26159,13 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "h2", title: `Los mejores colchones de 1 plaza de 2026`, id: "ranking" },
 
       { type: "h3", title: `1. Känn Livet KL-Eterna — el mejor calificado` },
-      { type: "product-card", productMlaId: "MLA54967234", label: "El mejor calificado", labelColor: "green", ranking: 1, description: `4,9 sobre 2.498 opiniones, el único con pillow top, el más alto con 25 cm y el que más peso declara: 200 kg.` },
+      { type: "product-card", productMlaId: "MLA54967234", label: "El mejor calificado", labelColor: "green", ranking: 1, description: `{{rating:MLA54967234}} sobre {{reviews:MLA54967234}} opiniones, el único con pillow top, el más alto con 25 cm y el que más peso declara: 200 kg.` },
       { type: "p", content: `El [Känn Livet KL-Eterna](/producto/colchon-kann-livet-kl-eterna-1-plaza-90x190x25-pillow-top-200-kg-mla54967234) sale alrededor de {{precio:MLA54967234:k}} con **{{rating:MLA54967234}} estrellas en {{reviews:MLA54967234}} opiniones**, la calificación más alta del grupo. Y suma lo que ninguno: **pillow top**, **25 cm de alto** y **200 kg** de peso máximo, siendo además el segundo más barato.` },
       { type: "p", content: `Declara ortopédico, hipoalergénico y marco perimetral, que es el refuerzo del borde para que no se hunda cuando te sentás en el filo.` },
       { type: "p", content: `Lo honesto: su **densidad de 26 kg/m³ es la más baja** entre los tres que la declaran. Y un comprador menciona que se fabrica en China y que eso lo hizo dudar, aunque termina llamándolo "colchonazo".` },
 
       { type: "h3", title: `2. Calm Espuma Elemental — el más reseñado` },
-      { type: "product-card", productMlaId: "MLA18635357", label: "El más reseñado", labelColor: "amber", ranking: 2, description: `8.942 opiniones y 30 kg/m³ de densidad, la más alta entre las tres que la publican. 100 cm de ancho.` },
+      { type: "product-card", productMlaId: "MLA18635357", label: "El más reseñado", labelColor: "amber", ranking: 2, description: `{{reviews:MLA18635357}} opiniones y 30 kg/m³ de densidad, la más alta entre las tres que la publican. 100 cm de ancho.` },
       { type: "p", content: `El [Calm](/producto/colchon-calm-espuma-elemental-1-plaza-100x190-densidad-30-8-942-opiniones-mla18635357) sale alrededor de {{precio:MLA18635357}}, con **{{rating:MLA18635357}} estrellas en {{reviews:MLA18635357}} opiniones**. Es el respaldo más grande del grupo y el que mejor queda en densidad entre los tres que la publican, con **30 kg/m³**.` },
       { type: "p", content: `Una reseña le da respaldo temporal, que es lo que más falta en esta categoría: *"me fue muy bien, lo compré hace como un año"*. Esa misma reseña deja la contra: *"es un poquito duro al principio, pero con una buena almohada dormís de diez"*.` },
 
@@ -26176,7 +26176,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "p", content: `Lo honesto sobre los resortes lo dicen sus propios compradores, y no coinciden: uno avisa que *"la tela es muy fina y se sienten los resortes"* y recomienda un cubrecolchón grueso; otro reporta que *"por ahora no se sienten"*. Están las dos versiones y no elegimos una.` },
 
       { type: "h3", title: `4. La Espumería Freestyle Box — si necesitás 2 metros` },
-      { type: "product-card", productMlaId: "MLA28530883", label: "Si necesitás 2 metros", labelColor: "purple", ranking: 4, description: `El único de 200 cm de largo de la comparativa, con 8.238 opiniones y firmeza media.` },
+      { type: "product-card", productMlaId: "MLA28530883", label: "Si necesitás 2 metros", labelColor: "purple", ranking: 4, description: `El único de 200 cm de largo de la comparativa, con {{reviews:MLA28530883}} opiniones y firmeza media.` },
       { type: "p", content: `El [La Espumería Freestyle](/producto/colchon-la-espumeria-freestyle-box-1-plaza-100x200-el-unico-de-2-metros-mla28530883) sale alrededor de {{precio:MLA28530883}}, con **{{rating:MLA28530883}} estrellas en {{reviews:MLA28530883}} opiniones**. Es **el único de 2 metros de largo**: los otros cuatro miden 190. Si sos alto o tu cama ya es de 200, no hay competencia dentro de esta guía.` },
       { type: "p", content: `Declara los tres campos de ortopédico, hipoalergénico y antiácaros, y firmeza media. Una compradora lo describe con precisión: *"firme pero no una piedra"*.` },
       { type: "p", content: `Lo honesto: es **el más caro de la comparativa** y **no publica la densidad**. En el colchón más caro del grupo, esa ausencia se nota.` },

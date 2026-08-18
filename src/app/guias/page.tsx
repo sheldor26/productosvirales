@@ -6,6 +6,7 @@ import { guideHref, guideUrl } from "@/lib/guide-url";
 import { getGuideThumbnail } from "@/lib/guide-thumbnail";
 import { getGuideCardSignals } from "@/lib/guide-card-signals";
 import { baseOpenGraph } from "@/lib/site-og";
+import { toPlainText } from "@/lib/parse-inline-links";
 import type { Guide } from "@/lib/types";
 
 // Revalidate daily so scheduled guides appear on their publishedDate
@@ -154,7 +155,9 @@ function GuideThumb({
 
 function PillarCard({ guide }: { guide: Guide }) {
   const title = guide.ogTitle || guide.title;
-  const dek = guide.ogDescription || guide.metaDescription;
+  // `ogDescription` no pasa por injectLivePrices en ningún otro lado, así que un
+  // {{precio:…}} escrito ahí se veía literal en la tarjeta del índice.
+  const dek = toPlainText(guide.ogDescription || guide.metaDescription);
   return (
     <Link
       href={guideHref(guide)}
@@ -185,7 +188,9 @@ function PillarCard({ guide }: { guide: Guide }) {
 
 function SatelliteCard({ guide }: { guide: Guide }) {
   const title = guide.ogTitle || guide.title;
-  const dek = guide.ogDescription || guide.metaDescription;
+  // `ogDescription` no pasa por injectLivePrices en ningún otro lado, así que un
+  // {{precio:…}} escrito ahí se veía literal en la tarjeta del índice.
+  const dek = toPlainText(guide.ogDescription || guide.metaDescription);
   return (
     <Link
       href={guideHref(guide)}

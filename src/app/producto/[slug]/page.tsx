@@ -143,7 +143,14 @@ export default async function ProductPage({ params }: Props) {
   const detailProduct = {
     ...product,
     articleBody: product.articleBody ? injectLivePrices(product.articleBody) : product.articleBody,
-    faq: product.faq?.map((f) => ({ ...f, answer: injectLivePrices(f.answer) })),
+    // La PREGUNTA también: "¿Es confiable comprar con solo {{reviews:…}}
+    // calificaciones?" es un patrón normal del contenido, y sin resolver salía
+    // el token literal en el acordeón y en el FAQPage del JSON-LD.
+    faq: product.faq?.map((f) => ({
+      ...f,
+      question: injectLivePrices(f.question),
+      answer: injectLivePrices(f.answer),
+    })),
     description: product.description ? injectLivePrices(product.description) : product.description,
     verdict: product.verdict ? injectLivePrices(product.verdict) : product.verdict,
     pros: product.pros?.map((p) => injectLivePrices(p)),
@@ -193,13 +200,21 @@ export default async function ProductPage({ params }: Props) {
         }
       : custom.aggregateRating;
 
+  const rawJsonLdDescription = (custom.description as string) || product.description;
+  const jsonLdDescription = rawJsonLdDescription
+    ? toPlainText(rawJsonLdDescription)
+    : undefined;
+
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Product",
     ...custom, // extras primero; los campos canónicos de abajo siempre ganan
     url: `https://productosvirales.com.ar${productHref(product)}`,
     name: product.canonicalName || (custom.name as string) || product.title,
-    description: (custom.description as string) || product.description,
+    // Mismo motivo que en generateMetadata: el JSON-LD es texto plano que lee
+    // Google. Sin resolver, un {{reviews:MLA…}} de `description` se publica tal
+    // cual en el structured data, donde nadie lo mira hasta que ya está leído.
+    description: jsonLdDescription,
     sku: product.id,
     ...(product.mpn ? { mpn: product.mpn } : {}),
     image: custom.image || product.images || product.image,

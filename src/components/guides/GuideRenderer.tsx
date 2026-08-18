@@ -731,7 +731,7 @@ export function GuideRenderer({ guide: rawGuide }: GuideRendererProps) {
               className="group rounded-[var(--radius-card)] border border-[var(--border)] overflow-hidden"
             >
               <summary className="flex items-center justify-between px-4 py-3 cursor-pointer text-[15px] font-semibold text-[var(--text-primary)] hover:bg-[var(--bg-secondary)] transition-colors">
-                {item.question}
+                {parseInlineLinks(item.question)}
                 <span className="shrink-0 ml-2 transition-transform group-open:rotate-90">
                   →
                 </span>

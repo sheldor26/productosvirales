@@ -52,6 +52,12 @@ const THRESHOLD = arg("threshold", 3);
 const productsSrc = fs.readFileSync(P_PATH, "utf8");
 const codeToId = new Map();
 const idToPrice = new Map();
+// El precio de lista (originalPrice) también aparece a mano en la prosa: "el
+// cartel dice 66% off, pero parte de un precio de lista ($150.000)". Ese número
+// NO tiene que coincidir con `price`; compararlo contra el precio actual daba
+// un -66% falso. Si lo escrito es exactamente el originalPrice de hoy, está al
+// día por definición, y si mañana cambia el de lista el chequeo vuelve a saltar.
+const idToOriginal = new Map();
 const idMatches = [...productsSrc.matchAll(/\bid:\s*['"](MLA\w+)['"]/g)];
 for (let k = 0; k < idMatches.length; k++) {
   const id = idMatches[k][1];
@@ -60,6 +66,8 @@ for (let k = 0; k < idMatches.length; k++) {
   const slice = productsSrc.slice(s, e);
   const pm = slice.match(/\bprice:\s*(\d+)/);
   if (pm) idToPrice.set(id, Number(pm[1]));
+  const om = slice.match(/\boriginalPrice:\s*(\d+)/);
+  if (om) idToOriginal.set(id, Number(om[1]));
   let cm;
   const codeRe = /meli\.la\/(\w+)/g;
   while ((cm = codeRe.exec(slice)) !== null) codeToId.set(cm[1], id);
@@ -110,11 +118,25 @@ for (let i = FROM - 1; i < TO && i < guidesLines.length; i++) {
     skippedDelta++;
     continue;
   }
+  // Precio POR UNIDAD ("$5.312 el litro", "cuesta por litro con $5.312"): es un
+  // cociente, no el precio del producto. Compararlo contra `price` daba un
+  // +13.000% falso apenas la línea tenía un ID resoluble. La unidad puede ir
+  // después del monto o antes ("menos cuesta por litro con $5.312").
+  const UNIDAD = "(?:litro|kilo|kg|gramo|metro|m2|m²|unidad|estante|calor[ií]a|plaza|persona|mes|d[ií]a)";
+  const before = line.slice(Math.max(0, idx - 30), idx);
+  if (
+    new RegExp(`^\\s*(?:el|por|la|cada)\\s+${UNIDAD}\\b`, "i").test(after) ||
+    new RegExp(`\\b(?:por|el|cada)\\s+${UNIDAD}\\b[^$]{0,12}$`, "i").test(before)
+  ) {
+    skippedDelta++;
+    continue;
+  }
 
   const id = ids[0];
   const written = Number(priceStr.replace(/\D/g, ""));
   const current = idToPrice.get(id);
   if (!current || !written) continue;
+  if (idToOriginal.get(id) === written) continue; // es el precio de lista, no el actual
 
   const diffPct = ((current - written) / written) * 100;
   if (Math.abs(diffPct) >= THRESHOLD) {
