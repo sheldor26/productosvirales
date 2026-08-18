@@ -16,6 +16,26 @@
 **Archivos involucrados:** `path/a/archivo.ts`
 -->
 
+## 2026-08-17 — Tokens `{{precio:MLA…}}` saliendo literales en el HTML publicado
+
+**Qué pasó:** en la guía `pava-electrica-liliana` los `h3` mostraban, textual, "AP152 — La más barata ({{precio:MLA61505857}})" — 6 casos. En el índice `/guias`, el subtítulo de las tarjetas mostraba "De {{precio:MLA24605489:k}} el frasco de entrada a…". El `description` del JSON-LD de las fichas le entregaba a Google "{{reviews:MLA…}} opiniones", el texto de las preguntas del FAQ hacía lo mismo en el acordeón y en el `FAQPage`, y `llms.txt` se lo entregaba a los crawlers de IA en 5 guías. No lo introdujo ningún cambio reciente: estaba en HEAD limpio.
+
+**Por qué:** `injectLivePrices` no se aplica por dato sino **por superficie de render**, y cada superficie nueva hay que acordarse de conectarla. `section.content` pasa por `parseInlineLinks` (que inyecta); `section.title` no pasaba por ningún lado. Lo mismo con `ogDescription || metaDescription` en las tarjetas del índice, con `product.description` en el JSON-LD (el objeto `detailProduct` ya tenía la versión resuelta al lado, sin usar), con `faq.question` (se inyectaba `faq.answer` pero no la pregunta) y con `metaDescription` en `llms.txt`. El script `check-price-tokens.cjs` valida que los tokens **existan** en el catálogo, no que la superficie los **resuelva**, así que daba verde con el bug en producción.
+
+**Cómo evitarlo:** al agregar cualquier superficie que muestre texto editorial (un título, un dek, un feed, un campo de JSON-LD, una pregunta de FAQ), pasarla por `injectLivePrices`. Y la verificación real no es el checker de tokens sino el build: `npm run build` y después barrer las páginas generadas buscando `{{` fuera de los `<script>`. En `.next/server/app` quedan tokens crudos en el payload RSC (props de productos relacionados que se serializan pero nunca se renderizan como texto) — ese ruido es esperado, hay que filtrar `<script>` para no perseguir falsos positivos.
+
+**Archivos involucrados:** `src/components/guides/GuideRenderer.tsx`, `src/app/guias/page.tsx`, `src/app/producto/[slug]/page.tsx`, `src/app/llms.txt/route.ts`
+
+## 2026-08-17 — Links internos absolutos tratados como externos
+
+**Qué pasó:** 32 links entre guías del silo de freidoras apuntaban a `https://productosvirales.com.ar/guias/…` en vez de `/guias/…`. Como `parseInlineLinks` decide interno/externo con `href.startsWith("/")`, esos links salían con `target="_blank"` y `rel="nofollow sponsored noopener"`: el sitio se estaba diciendo a sí mismo que no confiaba en sus propias guías, y perdía el traspaso de autoridad interno. Detectado el 2026-07-03 en otra sesión, quedó sin mergear y siguió en producción seis semanas.
+
+**Por qué:** escribir la URL completa es lo natural al copiarla del navegador, y nada lo frena: no hay checker que mire el prefijo del href. El bug es invisible en la página (el link funciona igual) y solo se nota mirando el HTML.
+
+**Cómo evitarlo:** los links internos van SIEMPRE relativos. Antes de pasar la ruta, verificar el silo: una guía con `silo` vive en `/guias/<silo>/<slug>` y la ruta sin el silo devuelve 200 con "Guía no encontrada", así que sacarle el dominio a ciegas puede romper el link en vez de arreglarlo.
+
+**Archivos involucrados:** `src/data/guides.ts`, `src/lib/parse-inline-links.tsx`
+
 ## 2026-08-13 — Publicación automática de Instagram: dos bugs reales antes de que funcionara
 
 **Qué pasó:** al armar `scripts/publicar-instagram.cjs`, dos fallos consecutivos antes de la primera publicación exitosa. (1) El script apuntaba a `graph.facebook.com`, y con un token generado por el flujo "API setup with Instagram login" eso devuelve `"Cannot parse access token"` (código 190) — parecía un token mal copiado (probé recopiarlo dos veces) pero el token estaba bien, el host era el que no correspondía. (2) La primera Historia de prueba se publicó con la imagen del post cuadrado (1080×1350, formato Threads/feed) en vez de una imagen 9:16 — se veía bien en la versión web de Instagram (letterboxed, sin recortar) pero en el celular (donde las Historias son siempre pantalla completa) salió recortada.

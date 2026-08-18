@@ -25,6 +25,13 @@ interface GuideRendererProps {
 }
 
 function SectionRenderer({ section }: { section: GuideSection }) {
+  // El titulo de una seccion puede llevar tokens igual que el contenido
+  // ("AP152 — La mas barata ({{precio:MLA61505857}})"). El contenido los
+  // resuelve via parseInlineLinks; el titulo no pasaba por ninguna superficie y
+  // salia crudo en el h2/h3 publicado. Se resuelve una vez aca para todos los
+  // `case` que muestran el titulo.
+  const title = section.title ? injectLivePrices(section.title) : section.title;
+
   switch (section.type) {
     case "h2":
       return (
@@ -33,12 +40,12 @@ function SectionRenderer({ section }: { section: GuideSection }) {
           className="text-[26px] md:text-[32px] font-bold text-[var(--text-primary)] mt-14 md:mt-16 mb-5 pb-2 scroll-mt-20 leading-tight"
           style={{ fontFamily: "var(--font-display)" }}
         >
-          {section.title}
+          {title}
         </h2>
       );
 
     case "h3": {
-      const numberMatch = section.bigNumber ? section.title?.match(/^(\d+)\.\s*(.+)/) : null;
+      const numberMatch = section.bigNumber ? title?.match(/^(\d+)\.\s*(.+)/) : null;
       if (numberMatch) {
         const [, num, rest] = numberMatch;
         return (
@@ -68,7 +75,7 @@ function SectionRenderer({ section }: { section: GuideSection }) {
           className="text-xl md:text-[22px] font-semibold text-[var(--text-primary)] mt-10 mb-3 scroll-mt-20 leading-tight"
           style={{ fontFamily: "var(--font-display)" }}
         >
-          {section.title}
+          {title}
         </h3>
       );
     }
@@ -189,9 +196,9 @@ function SectionRenderer({ section }: { section: GuideSection }) {
           className={section.boxed ? "my-6 rounded-[16px] p-4 md:p-5 border border-[var(--border)]" : "my-6"}
           style={section.boxed ? { backgroundColor: "var(--bg-secondary)" } : undefined}
         >
-          {section.title && (
+          {title && (
             <p className="mb-2 font-semibold text-[17px] md:text-[18px] text-[var(--text-primary)]">
-              {section.title}
+              {title}
             </p>
           )}
           <ul className="space-y-3 pl-1">
@@ -211,9 +218,9 @@ function SectionRenderer({ section }: { section: GuideSection }) {
     case "bad":
       return (
         <div className="my-5 p-4 rounded-[var(--radius-card)] border-l-4 border-[var(--color-discount)] bg-[var(--color-discount)]/10">
-          {section.title && (
+          {title && (
             <p className="text-[15px] font-bold text-[var(--text-primary)] mb-2">
-              {section.title}
+              {title}
             </p>
           )}
           <p className="text-[15px] leading-relaxed text-[var(--text-primary)]">
@@ -302,7 +309,7 @@ function SectionRenderer({ section }: { section: GuideSection }) {
         pricing: { Icon: Tag, title: "Cómo elegimos estos precios" },
       } as const;
       const { Icon, title: defaultTitle } = defaults[variant];
-      const title = section.title || defaultTitle;
+      const calloutTitle = title || defaultTitle;
       return (
         <aside
           className="not-prose my-10 rounded-[8px] border-l-[3px] p-5 md:p-6"
@@ -322,7 +329,7 @@ function SectionRenderer({ section }: { section: GuideSection }) {
               className="text-[17px] md:text-lg font-semibold text-[var(--text-primary)] leading-tight"
               style={{ fontFamily: "var(--font-display)" }}
             >
-              {title}
+              {calloutTitle}
             </h4>
           </div>
           <div className="pl-7 text-[15px] md:text-base leading-[1.65] text-[var(--text-secondary)]">
@@ -441,7 +448,7 @@ function SectionRenderer({ section }: { section: GuideSection }) {
       return (
         <nav className="my-6 p-5 rounded-[var(--radius-card)] bg-[var(--bg-secondary)] border border-[var(--border)]">
           <p className="font-semibold text-[var(--text-primary)] mb-2">
-            {section.title}
+            {title}
           </p>
           <ul className="space-y-1.5">
             {(section.items as Array<{ label: string; href: string }>)?.map((item) => (
