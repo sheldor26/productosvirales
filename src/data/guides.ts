@@ -26225,8 +26225,8 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     ogImage: `https://http2.mlstatic.com/D_NQ_NP_907115-MLA100006958249_122025-O.webp`,
     h1: `Bordeadora eléctrica: cuál comprar en Argentina y qué mirar antes [2026]`,
     directAnswer: `Para la mayoría conviene la **[Tramontina de 1.500 W](/producto/bordeadora-electrica-tramontina-1500-w-corte-de-28-cm-eje-recto-85-db-mla9096807)** (alrededor de {{precio:MLA9096807:k}}): es la más potente de esta comparativa, la más elegida por lejos con más de 26.000 opiniones, y aun así cuesta menos que dos modelos de menor potencia. Si el jardín es chico, la **[Gamma G3079AR](/producto/bordeadora-electrica-gamma-g3079ar-300-w-corte-de-22-cm-1-2-kg-mla19812920)** de 1,2 kg. Si no querés cable, la **[Daewoo inalámbrica](/producto/bordeadora-inalambrica-daewoo-dalbc-20wh-4-en-1-21v-con-ruedas-y-2-baterias-mla53401442)**, con la salvedad de que corta 15 cm.`,
-    publishedDate: "2026-10-19",
-    updatedDate: "2026-10-19",
+    publishedDate: "2026-08-18",
+    updatedDate: "2026-08-18",
     hasDisclosure: true,
     readingTime: 11,
     standfirst: `Una bordeadora eléctrica va de {{precio:MLA19812920:k}} a {{precio:MLA15841017:k}}. Comparamos 6 modelos reales de MercadoLibre Argentina por **potencia, ancho de corte, peso, ruido declarado y si traen arnés**, con contras sacadas de reseñas verdaderas, dentro de nuestro silo de [Hogar y Jardín](/categoria/hogar-jardin).`,
@@ -26354,8 +26354,8 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     ogImage: `https://http2.mlstatic.com/D_NQ_NP_945377-MLA110419596733_042026-O.webp`,
     h1: `Cortadora de césped: cuál comprar en Argentina y qué mirar antes [2026]`,
     directAnswer: `Para la mayoría conviene la **[Lüsqtoff LCO-1640B](/producto/cortadora-de-cesped-electrica-lusqtoff-lco-1640b-1600-w-corte-de-40-cm-bolsa-de-mla15257170)** (alrededor de {{precio:MLA15257170:k}}): combina 40 cm de ancho de corte con la bolsa más grande de esta comparativa, 40 litros, que son las dos cosas que hacen que termines antes. Si el jardín es chico, la **[Gamma G4950](/producto/cortadora-de-cesped-electrica-gamma-g4950-1200-w-corte-de-32-cm-8-kg-mla46949841)**, la más barata y de 8 kg. Si hay pasto salvaje, la **[Dibra R60](/producto/cortadora-de-cesped-electrica-dibra-r60-2100-w-corte-de-44-cm-carcasa-de-acero-mla28534744)** de 2.100 W, asumiendo que sus plásticos son el punto flojo.`,
-    publishedDate: "2026-10-26",
-    updatedDate: "2026-10-26",
+    publishedDate: "2026-08-18",
+    updatedDate: "2026-08-18",
     hasDisclosure: true,
     readingTime: 11,
     standfirst: `Una cortadora de césped eléctrica va de {{precio:MLA46949841:k}} a {{precio:MLA28534744:k}}. Comparamos 6 modelos reales de MercadoLibre Argentina por **ancho de corte, capacidad de la bolsa, potencia, peso y material de la carcasa**, con contras sacadas de reseñas verdaderas, dentro de nuestro silo de [Hogar y Jardín](/categoria/hogar-jardin).`,
@@ -26471,6 +26471,714 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     ],
     internalLinksTitle: "Más de hogar y jardín",
   },
+  {
+    slug: "secarropas",
+    category: "secarropas",
+    silo: "hogar",
+    pillar: true,
+    title: `Secarropas: cuál comprar en Argentina [2026]`,
+    seoTitle: `Secarropas: Cuál Comprar en Argentina [2026]`,
+    metaDescription: `Comparamos 6 secarropas centrífugos reales de MercadoLibre: el más elegido es también el más barato, y el más caro admite menos ropa mojada.`,
+    ogTitle: `Secarropas: cuál comprar en Argentina`,
+    ogDescription: `6 secarropas centrífugos comparados por carga real de ropa mojada, precio, altura y respaldo de compradores. Todos tienen el mismo tambor y las mismas revoluciones.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_997534-MLA99441371214_112025-O.webp`,
+    h1: `Secarropas: cuál comprar en Argentina y qué mirar antes [2026]`,
+    directAnswer: `Para la mayoría conviene el **[Drean QV 6.5](/producto/secarropas-centrifugo-drean-qv-6-5-6-5-kg-de-carga-y-tambor-de-acero-inoxidable-mla15242163)** (alrededor de {{precio:MLA15242163:k}}): es el más elegido de esta comparativa por lejos, con más de 4.500 opiniones, y además el más barato de los seis. Admite 6,5 kg de ropa mojada, la carga completa. Si querés la mejor nota, el **[Koh-i-noor B-655](/producto/secarropas-centrifugo-koh-i-noor-b-655-5-5-kg-el-unico-de-carga-frontal-mla6057865)**, único de carga frontal. Y si el espacio manda, ojo con el **[Visión C-765](/producto/secarropas-centrifugo-koh-i-noor-vision-c-765-6-5-kg-71-cm-de-alto-mla15309218)**: con 71,2 cm es el más alto del grupo.`,
+    publishedDate: "2026-11-02",
+    updatedDate: "2026-11-02",
+    hasDisclosure: true,
+    readingTime: 10,
+    standfirst: `Un secarropas centrífugo va de {{precio:MLA15242163:k}} a {{precio:MLA6143871:k}}. Comparamos 6 modelos reales de MercadoLibre Argentina por **capacidad real de ropa mojada, precio, altura, peso y respaldo de compradores**, con contras sacadas de reseñas verdaderas, dentro de nuestro silo de [Hogar](/categoria/hogar).`,
+    quickPicks: [
+      { productMlaId: "MLA15242163", label: "El más elegido", labelColor: "green", tagline: "Drean QV 6.5: más de 4.500 opiniones y el más barato de los seis" },
+      { productMlaId: "MLA6057865", label: "La mejor nota", labelColor: "amber", tagline: "Koh-i-noor B-655: 4,9 estrellas y el único de carga frontal" },
+      { productMlaId: "MLA20731655", label: "El más liviano", labelColor: "blue", tagline: "Patrick CPK06B: 8,7 kg y misma ficha que el Drean" },
+      { productMlaId: "MLA6143871", label: "Acero a la vista", labelColor: "purple", tagline: "Koh-i-noor A-655: terminación en acero, pero 4 kg de ropa mojada" },
+    ],
+    intro: [
+      `Elegir un **secarropas** parece una decisión de marca y termina siendo una de letra chica. Los kilos del titular se leen de lejos; la capacidad de **ropa mojada**, que es para lo que realmente se usa el aparato, está abajo en la ficha, y no siempre coincide con el número grande.`,
+      `Comparamos 6 secarropas centrífugos reales de MercadoLibre Argentina y verificamos, uno por uno, qué declara su ficha técnica. Apareció algo que conviene saber antes de mirar precios: **el más elegido de los seis es también el más barato**, y el más caro es el que menos ropa mojada admite.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_997534-MLA99441371214_112025-O.webp", alt: `Secarropas centrífugo blanco de carga superior visto de frente`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Si no querés leer toda la comparativa: el **[Drean QV 6.5](/producto/secarropas-centrifugo-drean-qv-6-5-6-5-kg-de-carga-y-tambor-de-acero-inoxidable-mla15242163)** es el más elegido de los seis, con más de 4.500 opiniones, **y encima el más barato**. Admite 6,5 kg de ropa mojada, tiene tambor de acero inoxidable y gira a 2.800 rpm. La contra a saber antes de comprar: sus propios compradores describen **el plástico del gabinete como frágil**.` },
+
+      { type: "callout", calloutVariant: "warning", calloutTitle: "Pagar más no te compra un tambor mejor", content: `Este es el dato que ordena la comparativa. **Los seis tienen tambor de acero inoxidable y los seis giran a 2.800 rpm.** No hay uno que centrifugue más rápido ni uno con tambor de mejor material. Lo que sí cambia entre el más barato y el más caro son casi $100.000, y el más caro es justamente el que declara **menos capacidad de ropa mojada**: el [A-655](/producto/secarropas-centrifugo-koh-i-noor-a-655-5-5-kg-linea-acero-inoxidable-mla6143871) publica 4 kg contra los 6,5 kg del [Drean](/producto/secarropas-centrifugo-drean-qv-6-5-6-5-kg-de-carga-y-tambor-de-acero-inoxidable-mla15242163). Antes de pagar la diferencia, mirá qué te da.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** partimos del rubro de secarropas de MercadoLibre Argentina y verificamos cada publicación en vivo el 2026-08-17: precio, stock, ficha técnica campo por campo y reseñas de compradores. Miramos especialmente cinco campos que deciden la compra: **capacidad de ropa mojada** (no la del titular), **precio**, **altura**, **peso** y **respaldo de opiniones**. Cuando un dato no está en la ficha, o está cargado de forma que no cierra, lo decimos en vez de repetirlo: tres de estos seis tienen algún campo así, y lo aclaramos en cada caso. Los precios se verifican automáticamente contra MercadoLibre.` },
+
+      { type: "h2", title: `Los cinco datos que deciden la compra`, id: "que-mirar" },
+      { type: "p", content: `**Capacidad de ropa mojada.** El dato más importante y el peor mirado. El titular dice 5,5 o 6,5 kg, pero la ficha declara aparte cuánta ropa **mojada** admite, que es lo que vas a meter. En esta comparativa cuatro llegan a 6,5 kg, el B-655 queda en 5,5 kg, y el A-655 es el único que declara menos que su propio titular: baja a 4 kg.` },
+      { type: "p", content: `**Precio.** Van de {{precio:MLA15242163:k}} a {{precio:MLA6143871:k}}. Casi $100.000 de diferencia entre el más barato y el más caro, sin que eso compre más revoluciones ni mejor tambor.` },
+      { type: "p", content: `**Altura.** Importa más de lo que parece porque muchos van abajo de una mesada o en un mueble de lavadero. Acá van de 63,5 a 71,2 cm: casi ocho centímetros entre el más bajo y el más alto.` },
+      { type: "p", content: `**Peso.** Entre 8,7 y 10,95 kg en los cinco que lo declaran. Más peso da estabilidad al centrifugar; menos peso conviene si lo vas a mover o guardar seguido.` },
+      { type: "p", content: `**Respaldo de opiniones.** Acá la diferencia es enorme: van de 41 a más de 4.500. Un promedio de 4,8 sobre unas pocas decenas de opiniones no significa lo mismo que el mismo 4,8 sobre miles.` },
+
+      { type: "h2", title: `Comparativa rápida: los 6 frente a frente`, id: "tabla-comparativa" },
+      { type: "table", headers: ["Modelo", "Precio", "Ropa mojada", "Alto", "Opiniones", "Ideal para"], rows: [
+        ["[Drean QV 6.5](https://meli.la/1cdnBFr)", "{{precio:MLA15242163}}", "6,5 kg", "64 cm", "{{reviews:MLA15242163}}", "La mayoría: el más elegido y el más barato"],
+        ["[Patrick CPK06B](https://meli.la/1FdoPnb)", "{{precio:MLA20731655}}", "6,5 kg", "64 cm", "{{reviews:MLA20731655}}", "Quien busca el más liviano"],
+        ["[Koh-i-noor B-655](https://meli.la/1QTf7d8)", "{{precio:MLA6057865}}", "5,5 kg", "63,5 cm", "{{reviews:MLA6057865}}", "La mejor nota y carga frontal"],
+        ["[Koh-i-noor Visión C-765](https://meli.la/2dEHAA6)", "{{precio:MLA15309218}}", "6,5 kg", "71,2 cm", "{{reviews:MLA15309218}}", "Quien tiene altura de sobra"],
+        ["[Koh-i-noor B-665](https://meli.la/2WTMrL4)", "{{precio:MLA6175442}}", "6,5 kg", "69,5 cm", "{{reviews:MLA6175442}}", "Estabilidad, con 10,95 kg"],
+        ["[Koh-i-noor A-655](https://meli.la/2gaCHm9)", "{{precio:MLA6143871}}", "4 kg", "63,5 cm", "{{reviews:MLA6143871}}", "Quien quiere acero a la vista"],
+      ] },
+      { type: "p", content: `El nombre de cada modelo lleva directo a su publicación en MercadoLibre. Abajo está el detalle de los seis, en el mismo orden: qué hace bien cada uno y dónde se queda corto.` },
+
+      { type: "h2", title: `El ranking`, id: "ranking" },
+
+      { type: "h3", title: `1. Drean QV 6.5` },
+      { type: "product-card", productMlaId: "MLA15242163", label: "El más elegido", labelColor: "green", ranking: 1, description: "6,5 kg de ropa mojada, tambor de acero y 2.800 rpm. Más de 4.500 opiniones con {{rating:MLA15242163}} de promedio: el respaldo más grande de esta comparativa por lejos." },
+      { type: "p", content: `Es el secarropas con más respaldo de esta comparativa y no está cerca: **{{reviews:MLA15242163}} opiniones**, casi siete veces el segundo. Y el dato que descoloca: **también es el más barato de los seis**. Admite la carga completa de ropa mojada, 6,5 kg, sin el recorte que declara el modelo más caro.` },
+      { type: "pull-quote", content: `"Me dejó anonadado con su sencillez y eficacia, un producto increíble para su precio."`, attribution: `Comprador del Drean QV 6.5, calificación 5/5` },
+      { type: "p", content: `La contra la ponen los propios compradores y es de material: **el plástico del gabinete se siente frágil**. Otro detalle práctico que repiten es que hay que acomodar la ropa, no tirarla nomás, o vibra. Ninguno de los dos reportes habla de rotura, pero conviene comprarlo sabiéndolo.` },
+
+      { type: "h3", title: `2. Patrick CPK06B` },
+      { type: "product-card", productMlaId: "MLA20731655", label: "El más liviano", labelColor: "blue", ranking: 2, description: "Misma ficha que el Drean en carga, potencia y revoluciones, con 8,7 kg: el más liviano de los cinco que declaran peso." },
+      { type: "p", content: `En ficha técnica es prácticamente **el gemelo del Drean**: mismos 6,5 kg de ropa mojada, mismos 320 W, mismas 2.800 rpm, mismo tambor de acero y casi la misma altura. Con **8,7 kg es el más liviano de los cinco que declaran peso**, que importa si lo vas a mover o guardar.` },
+      { type: "p", content: `Lo honesto es dónde está la diferencia: con **{{reviews:MLA20731655}} opiniones tiene la base más chica de esta comparativa**, y sale más caro que el Drean, que tiene más de cien veces esa cantidad de opiniones. Las reseñas que tiene son buenas pero cortas, del tipo "cumple", sin detalle de uso prolongado.` },
+
+      { type: "h3", title: `3. Koh-i-noor B-655` },
+      { type: "product-card", productMlaId: "MLA6057865", label: "La mejor nota", labelColor: "amber", ranking: 3, description: "El único que llega a {{rating:MLA6057865}} de promedio, y el único de carga frontal de los seis. Empata como el más bajo del grupo." },
+      { type: "p", content: `Tiene dos cosas que no comparte con nadie del grupo: es **el mejor puntuado de esta comparativa**, el único que llega a **{{rating:MLA6057865}}** cuando el resto se queda en 4,8, y es **el único de carga frontal** de los seis. Con 63,5 cm empata como el más bajo, así que entra donde otros no.` },
+      { type: "pull-quote", content: `"Hace 45 años que no dejo de tener uno."`, attribution: `Comprador del Koh-i-noor B-655, calificación 5/5` },
+      { type: "p", content: `Sus reseñas son de las que valen porque hablan de durabilidad real, no de la primera semana: otro comprador cuenta que lo tiene desde 2020 y sigue funcionando. La contra concreta: **5,5 kg de carga contra los 6,5 de cuatro del grupo**, y su ficha **no publica el peso** del equipo.` },
+
+      { type: "h3", title: `4. Koh-i-noor Visión C-765` },
+      { type: "product-card", productMlaId: "MLA15309218", label: "Línea Visión", labelColor: "purple", ranking: 4, description: "6,5 kg de ropa mojada y traba de seguridad, con 71,2 cm de alto: el más alto de los seis, así que conviene medir." },
+      { type: "p", content: `Es la versión de 6,5 kg de la línea Visión y admite **la carga completa de ropa mojada**. Con {{reviews:MLA15309218}} opiniones tiene un respaldo intermedio, y los compradores repiten la misma idea sobre la marca, que es garantía conocida.` },
+      { type: "p", content: `El dato práctico a mirar antes de comprarlo: con **71,2 cm es el más alto de los seis**, casi ocho centímetros más que los más bajos. Si va abajo de una mesada o dentro de un mueble, hay que medir primero. Su ficha además **no publica la potencia**, así que ese número no lo damos por bueno.` },
+
+      { type: "h3", title: `5. Koh-i-noor B-665` },
+      { type: "product-card", productMlaId: "MLA6175442", label: "Línea Clásico", labelColor: "slate", ranking: 5, description: "6,5 kg de ropa mojada, eficiencia energética A y 10,95 kg: el más pesado de los cinco que declaran peso." },
+      { type: "p", content: `Cumple con lo esperable de la línea Clásico: **carga completa de ropa mojada**, tambor de acero, 2.800 rpm y **eficiencia energética A**. Con **10,95 kg es el más pesado de los cinco que declaran peso**, lo que juega a favor de la estabilidad al centrifugar y en contra si lo movés seguido.` },
+      { type: "p", content: `Lo honesto: **sale bastante más que el [Drean](/producto/secarropas-centrifugo-drean-qv-6-5-6-5-kg-de-carga-y-tambor-de-acero-inoxidable-mla15242163)**, que tiene la misma carga de 6,5 kg, el mismo tambor, las mismas revoluciones y **más de quince veces más opiniones**. Un detalle de transparencia: su ficha declara **1,3 kW de potencia**, un número que no cierra contra los 220 a 320 W del resto del grupo, así que no lo usamos para compararlo.` },
+
+      { type: "h3", title: `6. Koh-i-noor A-655` },
+      { type: "product-card", productMlaId: "MLA6143871", label: "Acero a la vista", labelColor: "purple", ranking: 6, description: "El único con terminación en acero inoxidable a la vista y el segundo en respaldo, pero declara 4 kg de ropa mojada: la capacidad más baja de los seis." },
+      { type: "p", content: `Es **el más caro de esta comparativa** y el único con **terminación en acero a la vista**, no blanco como los otros cinco. Tiene el segundo respaldo más grande del grupo, {{reviews:MLA6143871}} opiniones, y son de las más afectuosas que vas a leer: gente que lo compara con el que tuvo su mamá durante treinta años.` },
+      { type: "pull-quote", content: `"Como mi mamá tiene el suyo de hace más de 30 años, yo decidí tener el mío, y en días húmedos me salva la vida."`, attribution: `Compradora del Koh-i-noor A-655, calificación 5/5` },
+      { type: "p", content: `Ahora el dato que hay que decir fuerte porque cambia la decisión: **su ficha declara 4 kg de capacidad de ropa mojada**, la más baja de los seis, contra los 6,5 kg de cuatro de sus competidores. Un secarropas se usa justamente para ropa mojada. La otra contra la ponen los compradores: **el recipiente de agua se llena rápido** y conviene poner otro debajo.` },
+
+      { type: "h2", title: `Cómo elegir tu secarropas`, id: "como-elegir" },
+      { type: "h3", title: `1. Mirá la capacidad de ropa mojada, no la del titular` },
+      { type: "p", content: `Es la diferencia entre comprar bien y comprar mal. El titular de la publicación dice 5,5 o 6,5 kg, pero la ficha técnica declara aparte cuánta ropa mojada admite. En esta comparativa cuatro modelos llegan a 6,5 kg y el B-655 a 5,5 kg, pero el A-655 declara 4 kg, menos que su propio titular, y justo es el más caro.` },
+      { type: "h3", title: `2. Medí dónde lo vas a poner` },
+      { type: "p", content: `Casi ocho centímetros separan al más bajo del más alto de esta comparativa. Si el secarropas va abajo de una mesada, arriba de un mueble o al lado del lavarropas en un lavadero angosto, la altura decide antes que la marca.` },
+      { type: "h3", title: `3. El tambor y las revoluciones no son diferencial acá` },
+      { type: "p", content: `Los seis tienen tambor de acero inoxidable y los seis giran a 2.800 rpm. Es la primera cosa que la publicidad destaca y la última que debería pesar en tu decisión, porque no distingue a ninguno. Lo que sí distingue es precio, carga real y respaldo.` },
+      { type: "h3", title: `4. Un promedio alto con pocas opiniones no es lo mismo` },
+      { type: "p", content: `Los seis promedian 4,8 o más, cinco están en 4,8 justo y el B-655 sube a 4,9, así que la nota sola no ordena nada. Lo que ordena es sobre cuántas opiniones se calculó: acá van de 41 a más de 4.500. Un 4,8 sobre unas pocas decenas de opiniones dice mucho menos que el mismo 4,8 sobre miles.` },
+
+      { type: "h2", title: `Cuánto cuesta un secarropas en Argentina`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de {{precio:MLA15242163:k}}:** el [Drean QV 6.5](https://meli.la/1cdnBFr), el más barato de la comparativa y el que más compradores eligen.`,
+        `**Entre {{precio:MLA20731655:k}} y {{precio:MLA6057865:k}}:** el [Patrick](https://meli.la/1FdoPnb) y el [Koh-i-noor B-655](https://meli.la/1QTf7d8), que es donde están el más liviano y el mejor puntuado.`,
+        `**Alrededor de {{precio:MLA15309218:k}} a {{precio:MLA6175442:k}}:** los dos Koh-i-noor de 6,5 kg, el [Visión C-765](https://meli.la/2dEHAA6) y el [B-665](https://meli.la/2WTMrL4).`,
+        `**Arriba de {{precio:MLA6143871:k}}:** el [A-655](https://meli.la/2gaCHm9), el único con acero a la vista.`,
+      ] },
+
+      { type: "verdict", content: `Para la mayoría, el **Drean QV 6.5**: es el más elegido de la comparativa por lejos, el más barato de los seis, y admite la carga completa de ropa mojada. Compralo sabiendo que **el plástico del gabinete se siente frágil**, según sus propios compradores. Si te importa la nota o necesitás carga frontal, el **Koh-i-noor B-655**, asumiendo sus 5,5 kg. Si lo vas a mover seguido, el **Patrick**, con la salvedad de que tiene pocas opiniones todavía. Si querés acero a la vista, el **A-655**, sabiendo que declara 4 kg de ropa mojada. Y si tenés altura de sobra y preferís la línea Visión, el **C-765**, que con 71,2 cm es el más alto del grupo.` },
+
+      { type: "h2", title: `Preguntas frecuentes`, id: "faq" },
+    ],
+    faq: [
+      { question: `¿Cuál es el mejor secarropas en Argentina?`, answer: `Por respaldo de compradores, el [Drean QV 6.5](/producto/secarropas-centrifugo-drean-qv-6-5-6-5-kg-de-carga-y-tambor-de-acero-inoxidable-mla15242163): tiene {{reviews:MLA15242163}} opiniones con {{rating:MLA15242163}} de promedio, casi siete veces el segundo de esta comparativa. Además es el más barato de los seis y admite 6,5 kg de ropa mojada, la carga completa. Su contra, según sus propios compradores, es que el plástico del gabinete se siente frágil.` },
+      { question: `¿Qué diferencia hay entre la capacidad del titular y la de ropa mojada?`, answer: `El titular de la publicación suele indicar la capacidad nominal, 5,5 o 6,5 kg. La ficha técnica declara aparte cuánta ropa mojada admite, que es lo que realmente vas a cargar. En esta comparativa cinco modelos declaran la misma capacidad que su titular, pero el [Koh-i-noor A-655](/producto/secarropas-centrifugo-koh-i-noor-a-655-5-5-kg-linea-acero-inoxidable-mla6143871), que es el más caro, declara 4 kg contra los 5,5 kg de su titular. Conviene mirar ese campo antes que el titular.` },
+      { question: `¿Un secarropas centrífugo seca la ropa del todo?`, answer: `No, y conviene saberlo antes. Un centrífugo no calienta: gira a alta velocidad y expulsa el agua por fuerza centrífuga, así que la ropa sale húmeda pero escurrida, lista para tender y con mucho menos tiempo de secado. Varios compradores de esta comparativa lo describen como que la ropa sale "casi seca". Los seis modelos giran a 2.800 rpm.` },
+      { question: `¿Conviene carga frontal o superior?`, answer: `De los seis de esta guía, cinco son de carga superior y solo el [Koh-i-noor B-655](/producto/secarropas-centrifugo-koh-i-noor-b-655-5-5-kg-el-unico-de-carga-frontal-mla6057865) es de carga frontal. La superior es lo habitual y suele ser más cómoda si el equipo va a nivel del piso. La frontal puede convenir si lo vas a poner sobre un mueble o una mesada, donde cargar desde arriba te obliga a levantar los brazos.` },
+      { question: `¿Cuánto espacio necesito para un secarropas?`, answer: `Más del que la mayoría calcula. En esta comparativa las alturas van de 63,5 cm a 71,2 cm y los anchos de 34 a 36 cm. El más alto es el [Visión C-765](/producto/secarropas-centrifugo-koh-i-noor-vision-c-765-6-5-kg-71-cm-de-alto-mla15309218) con 71,2 cm. Si va abajo de una mesada o dentro de un mueble de lavadero, medí el hueco antes de elegir modelo, porque casi ocho centímetros separan al más bajo del más alto.` },
+      { question: `¿Sirve de algo que el tambor sea de acero inoxidable?`, answer: `Sirve para durabilidad y para no manchar la ropa, pero en esta comparativa no es un criterio de elección: los seis modelos lo traen. Lo mismo pasa con las revoluciones, los seis giran a 2.800 rpm. Son las dos cosas que más se destacan en las publicaciones y las que menos distinguen a un modelo de otro acá.` },
+    ],
+    internalLinks: [
+      { label: "Cortadora de césped: cuál comprar", href: "/guias/hogar-jardin/cortadora-de-cesped" },
+      { label: "Bordeadora eléctrica: cuál comprar", href: "/guias/hogar-jardin/bordeadora-electrica" },
+    ],
+    internalLinksTitle: "Más para la casa",
+  },
+  {
+    slug: "lavarropas-automatico",
+    category: "lavarropas",
+    silo: "hogar",
+    pillar: true,
+    title: `Lavarropas automático: cuál comprar en Argentina [2026]`,
+    seoTitle: `Lavarropas Automático: Cuál Comprar en Argentina [2026]`,
+    metaDescription: `Comparamos 5 lavarropas automáticos reales de MercadoLibre: el más elegido es también el más barato, y el de mayor capacidad declara la peor eficiencia de las que la publican.`,
+    ogTitle: `Lavarropas automático: cuál comprar en Argentina`,
+    ogDescription: `5 lavarropas comparados por capacidad, eficiencia energética, revoluciones de centrifugado y medidas reales. Con las contras que dicen los compradores.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_646938-MLA99938827243_112025-O.webp`,
+    h1: `Lavarropas automático: cuál comprar en Argentina y qué mirar antes [2026]`,
+    directAnswer: `Para la mayoría conviene el **[Drean Next 6.06 Eco](/producto/lavarropas-automatico-drean-next-6-06-eco-carga-frontal-6-kg-600-rpm-mla6348146)** (alrededor de {{precio:MLA6348146:k}}): es el más elegido de esta comparativa por lejos, con más de 3.200 opiniones, el más barato de los cinco y el de mejor eficiencia energética declarada. Si son familia, el **[Whirlpool de 8 kg](/producto/lavarropas-automatico-whirlpool-wnq80as-inverter-carga-frontal-8-kg-14-programas-mla21651412)** con 14 programas. Si querés la ropa lo más seca posible, el **[Samsung Serie 4](/producto/lavarropas-automatico-samsung-serie-4-ww70aa46bx-7-kg-1-400-rpm-eco-bubble-mla20798476)** con 1.400 rpm. Y si necesitás 10 kg, el **[Whirlpool de carga superior](/producto/lavarropas-automatico-whirlpool-wwi16cs-carga-superior-10-kg-740-rpm-mla36014732)**, sabiendo que declara eficiencia D.`,
+    publishedDate: "2026-11-09",
+    updatedDate: "2026-11-09",
+    hasDisclosure: true,
+    readingTime: 11,
+    standfirst: `Un lavarropas automático va de {{precio:MLA6348146:k}} a {{precio:MLA20798476:k}}. Comparamos 5 modelos reales de MercadoLibre Argentina por **capacidad, eficiencia energética, revoluciones de centrifugado, programas y medidas reales**, con contras sacadas de reseñas verdaderas, dentro de nuestro silo de [Hogar](/categoria/hogar).`,
+    quickPicks: [
+      { productMlaId: "MLA6348146", label: "El más elegido", labelColor: "green", tagline: "Drean Next 6.06 Eco: más de 3.200 opiniones, el más barato y eficiencia A+" },
+      { productMlaId: "MLA21651412", label: "Para familia", labelColor: "blue", tagline: "Whirlpool WNQ80AS: 8 kg, inverter y 14 programas" },
+      { productMlaId: "MLA20798476", label: "Mejor centrifugado", labelColor: "slate", tagline: "Samsung Serie 4: 1.400 rpm, la ropa sale mucho menos mojada" },
+      { productMlaId: "MLA36014732", label: "Mayor capacidad", labelColor: "purple", tagline: "Whirlpool WWI16CS: 10 kg de carga superior, pero eficiencia D" },
+    ],
+    intro: [
+      `Elegir un **lavarropas automático** parece una decisión de kilos y termina siendo una de consumo y de medidas. La capacidad se lee en el título; la eficiencia energética y las revoluciones de centrifugado están abajo en la ficha, y son las que definen cuánto vas a pagar de luz todos los meses y cuánto va a tardar la ropa en secarse.`,
+      `Comparamos 5 lavarropas reales de MercadoLibre Argentina y verificamos, uno por uno, qué declara su ficha técnica. Apareció algo que conviene saber antes de mirar precios: **el más elegido del grupo es también el más barato**, y el de mayor capacidad es el que declara la peor eficiencia energética de las cuatro que la publican.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_646938-MLA99938827243_112025-O.webp", alt: `Lavarropas automático de carga frontal blanco visto de frente`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Si no querés leer toda la comparativa: el **[Drean Next 6.06 Eco](/producto/lavarropas-automatico-drean-next-6-06-eco-carga-frontal-6-kg-600-rpm-mla6348146)** es el más elegido de los cinco, con más de 3.200 opiniones, **es el más barato** y tiene **la mejor eficiencia energética de las cuatro que la declaran, A+**. La contra a saber antes de comprar: con **6 kg es la capacidad más chica** y con **600 rpm el centrifugado más lento** de los que lo declaran. Es excelente para una o dos personas, no para una familia que lava sábanas seguido.` },
+
+      { type: "callout", calloutVariant: "warning", calloutTitle: "La eficiencia energética no se mira y se paga todos los meses", content: `Este es el dato que más se saltea. El **[Drean](/producto/lavarropas-automatico-drean-next-6-06-eco-carga-frontal-6-kg-600-rpm-mla6348146)** declara **A+**, la **[Samsung de 7 kg](/producto/lavarropas-automatico-samsung-inverter-7-kg-carga-frontal-6-programas-mla22827012)** y la **[Serie 4](/producto/lavarropas-automatico-samsung-serie-4-ww70aa46bx-7-kg-1-400-rpm-eco-bubble-mla20798476)** declaran **A**, y el **[Whirlpool de 10 kg](/producto/lavarropas-automatico-whirlpool-wwi16cs-carga-superior-10-kg-740-rpm-mla36014732)** declara **D**. Es el de mayor capacidad del grupo y el que peor consume de los cuatro que publican el dato. Un lavarropas se usa una o dos veces por semana durante años: esa diferencia no se paga al comprarlo, se paga en cada factura. Si igual necesitás los 10 kg, compralo sabiéndolo.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** partimos del rubro de lavarropas de MercadoLibre Argentina y verificamos cada publicación en vivo el 2026-08-17: precio, stock, ficha técnica campo por campo y reseñas de compradores. Miramos especialmente cinco campos que deciden la compra: **capacidad**, **eficiencia energética**, **revoluciones de centrifugado**, **cantidad de programas** y **medidas reales**. Cuando un dato no está en la ficha lo decimos en vez de estimarlo, y acá pasa seguido: solo tres de los cinco publican las revoluciones y solo cuatro la eficiencia. Los precios se verifican automáticamente contra MercadoLibre.` },
+
+      { type: "h2", title: `Los cinco datos que deciden la compra`, id: "que-mirar" },
+      { type: "p", content: `**Capacidad.** Va de 6 a 10 kg en esta comparativa. La regla práctica: 6 kg para una o dos personas, 7 a 8 kg para una familia tipo, 10 kg si lavás acolchados y ropa de cama seguido.` },
+      { type: "p", content: `**Eficiencia energética.** El dato que más plata mueve a largo plazo y el que menos se mira. Acá van de A+ a D entre los cuatro que la declaran. En un equipo que usás todas las semanas durante años, esa diferencia se acumula en cada factura.` },
+      { type: "p", content: `**Revoluciones de centrifugado.** Definen cuán mojada sale la ropa. Entre los tres que publican el dato hay de 600 a 1.400 rpm: más del doble. Con 1.400 rpm la ropa sale casi seca; con 600 vas a necesitar bastante más tiempo de tendido.` },
+      { type: "p", content: `**Cantidad de programas.** Va de 6 a 14 entre los cuatro que lo declaran. Más programas no es mejor por sí solo, pero sí importa que estén los que vas a usar de verdad: ropa de cama, delicados y un lavado rápido.` },
+      { type: "p", content: `**Medidas reales.** Acá hay una trampa concreta. Un comprador del [Samsung Serie 4](/producto/lavarropas-automatico-samsung-serie-4-ww70aa46bx-7-kg-1-400-rpm-eco-bubble-mla20798476) avisa que **la ficha publica el ancho del embalaje, no el del equipo**: dice 67,5 cm cuando el lavarropas mide 60. Si estás midiendo un hueco justo, conviene chequearlo antes.` },
+
+      { type: "h2", title: `Comparativa rápida: los 5 frente a frente`, id: "tabla-comparativa" },
+      { type: "table", headers: ["Modelo", "Precio", "Carga", "Eficiencia", "Centrifugado", "Ideal para"], rows: [
+        ["[Drean Next 6.06 Eco](https://meli.la/2Tv6Nx5)", "{{precio:MLA6348146}}", "Frontal 6 kg", "A+", "600 rpm", "Una o dos personas: el más elegido y el más barato"],
+        ["[Whirlpool WNQ80AS](https://meli.la/32yAB2w)", "{{precio:MLA21651412}}", "Frontal 8 kg", "No la declara", "No la declara", "Familia: 14 programas e inverter"],
+        ["[Whirlpool WWI16CS](https://meli.la/2hEwYVN)", "{{precio:MLA36014732}}", "Superior 10 kg", "D", "740 rpm", "Quien necesita 10 kg y tiene altura"],
+        ["[Samsung Inverter 7 kg](https://meli.la/1QSnScX)", "{{precio:MLA22827012}}", "Frontal 7 kg", "A", "No la declara", "Lavadero angosto: 55 cm de profundidad"],
+        ["[Samsung Serie 4](https://meli.la/18yegmj)", "{{precio:MLA20798476}}", "Frontal 7 kg", "A", "1.400 rpm", "Quien quiere la ropa lo más seca posible"],
+      ] },
+      { type: "p", content: `El nombre de cada modelo lleva directo a su publicación en MercadoLibre. Abajo está el detalle de los cinco, en el mismo orden: qué hace bien cada uno y dónde se queda corto.` },
+
+      { type: "h2", title: `El ranking`, id: "ranking" },
+
+      { type: "h3", title: `1. Drean Next 6.06 Eco` },
+      { type: "product-card", productMlaId: "MLA6348146", label: "El más elegido", labelColor: "green", ranking: 1, description: "Carga frontal de 6 kg con eficiencia A+, la mejor de las cuatro que la declaran. Más de 3.200 opiniones con {{rating:MLA6348146}}: el respaldo más grande de esta comparativa por lejos." },
+      { type: "p", content: `Es el lavarropas con más respaldo de esta comparativa y no está cerca: **{{reviews:MLA6348146}} opiniones**, casi seis veces el segundo. Y es **el más barato de los cinco**. Suma la **mejor eficiencia energética de las cuatro que la declaran, A+**, que en un equipo de uso semanal se paga solo.` },
+      { type: "pull-quote", content: `"Es un excelente lavarropas para el uso que le tiene que dar una persona o dos. Yo lo uso una vez por semana y la ropa sale casi seca."`, attribution: `Comprador del Drean Next 6.06 Eco, calificación 4/5` },
+      { type: "p", content: `Esa reseña lo ubica mejor que cualquier ficha, y marca su límite: con **6 kg es la capacidad más chica del grupo** y con **600 rpm el centrifugado más lento de los tres que publican el dato**. Para una familia que lava sábanas y toallas seguido, conviene mirar los de 8 o 10 kg.` },
+
+      { type: "h3", title: `2. Whirlpool WNQ80AS` },
+      { type: "product-card", productMlaId: "MLA21651412", label: "Para familia", labelColor: "blue", ranking: 2, description: "Carga frontal de 8 kg con inverter y 14 programas, la mayor cantidad de los cuatro que lo declaran. Temperatura regulable de agua fría hasta 95 grados." },
+      { type: "p", content: `Es el que más opciones te da: **14 programas de lavado**, la mayor cantidad de los cuatro que lo declaran, con programas específicos para ropa de cama, bebés y delicados, y temperatura de agua fría hasta 95 °C. Suma **inverter**, **antiarrugas** y **carga autoadaptativa**. Con 8 kg queda en el punto cómodo entre los 6 del Drean y los 10 del de carga superior.` },
+      { type: "pull-quote", content: `"Cuando pongo a lavar la ropa, al momento de iniciar el lavado hace más ruido que mi vecino, después ya no hace más."`, attribution: `Comprador del Whirlpool WNQ80AS, calificación 4/5` },
+      { type: "p", content: `El ruido al arrancar aparece en varias reseñas, siempre con la misma aclaración de que después se silencia. La otra contra es de logística: con **70,8 kg es el más pesado de los cuatro que declaran peso**, así que la instalación no es cosa de una persona sola. Y su ficha **no publica la eficiencia energética**, así que ese dato no lo damos por bueno.` },
+
+      { type: "h3", title: `3. Whirlpool WWI16CS` },
+      { type: "product-card", productMlaId: "MLA36014732", label: "Mayor capacidad", labelColor: "purple", ranking: 3, description: "El único de carga superior de esta comparativa y el de mayor capacidad, 10 kg, con sistema Impeller sin agitador central." },
+      { type: "p", content: `Es **el único de carga superior** de los cinco y **el de mayor capacidad, 10 kg**, y por precio queda prácticamente empatado con el frontal de 8 kg. Los compradores confirman el tamaño con ejemplos concretos: uno cuenta que le entra hasta un colchón. Varios destacan que **la ropa sale casi seca** pese a no ser lavasecarropas. Con **41,5 kg es el más liviano de los cuatro que declaran peso**.` },
+      { type: "p", content: `Ahora los dos datos que hay que decir antes de comprarlo. El primero: declara **eficiencia energética D, la más baja de las cuatro que la publican**, contra el A+ del Drean. El segundo es de espacio: con **1,05 m es el más alto de los cuatro que declaran altura** y **se carga por arriba**, así que no puede ir abajo de una mesada. Suma que con {{reviews:MLA36014732}} opiniones tiene el respaldo más chico del grupo.` },
+
+      { type: "h3", title: `4. Samsung Inverter 7 kg` },
+      { type: "product-card", productMlaId: "MLA22827012", label: "Para lavadero angosto", labelColor: "amber", ranking: 4, description: "Carga frontal de 7 kg con eficiencia A y 55 cm de profundidad, el menos profundo de los que la declaran. Comparte la mejor nota del grupo." },
+      { type: "p", content: `Comparte con su hermano de la serie 4 **la mejor nota de esta comparativa, {{rating:MLA22827012}}**, sostenida sobre {{reviews:MLA22827012}} opiniones. Con 7 kg y **eficiencia A** queda en el punto medio, y sus **55 cm de profundidad** lo hacen el menos profundo de los que publican ese dato, que es exactamente lo que importa en un lavadero angosto o detrás de una puerta.` },
+      { type: "pull-quote", content: `"Los programas para seleccionar son súper claros: lavado ropa de cama, lavado colores, lavado diario. Es súper silencioso."`, attribution: `Comprador del Samsung Inverter 7 kg, calificación 5/5` },
+      { type: "p", content: `Lo silencioso aparece en reseña tras reseña, y es de las cosas que más se agradecen en un monoambiente. La contra es de ficha: con **6 programas es el que menos ofrece de los cuatro que publican ese dato**, menos de la mitad que el Whirlpool frontal, y **su ficha no declara las revoluciones de centrifugado**, que es justo el número que define cuán mojada sale la ropa.` },
+
+      { type: "h3", title: `5. Samsung Serie 4 WW70AA46BX` },
+      { type: "product-card", productMlaId: "MLA20798476", label: "Mejor centrifugado", labelColor: "slate", ranking: 5, description: "1.400 rpm, el centrifugado más rápido de los tres que lo declaran, con Eco Bubble, inverter y 11 programas. El más caro de esta comparativa." },
+      { type: "p", content: `Es **el más caro de esta comparativa**, y lo que compra esa diferencia se ve en un número: **1.400 rpm, el centrifugado más rápido de los tres que lo declaran**, más del doble que el Drean. Eso es ropa notablemente menos mojada al sacarla. Suma **Eco Bubble**, **inverter**, **regulación de velocidad de centrifugado**, **comienzo diferido**, 11 programas y tambor de acero inoxidable.` },
+      { type: "pull-quote", content: `"No es secarropas, pero el centrifugado es genial. Saca las prendas secas prácticamente."`, attribution: `Comprador del Samsung Serie 4, calificación 5/5` },
+      { type: "p", content: `Y un dato práctico que aporta otro comprador y que conviene tener a mano antes de medir: **su ficha declara 67,5 cm de ancho pero el equipo mide 60**, porque MercadoLibre publica la medida del embalaje. Si el hueco es justo, usá 60.` },
+
+      { type: "h2", title: `Cómo elegir tu lavarropas`, id: "como-elegir" },
+      { type: "h3", title: `1. Los kilos se eligen por cuánta gente sos, no por precio` },
+      { type: "p", content: `Para una o dos personas, 6 kg alcanzan y te ahorrás plata y espacio. Para una familia tipo, 7 u 8 kg. Los 10 kg tienen sentido si lavás acolchados, cortinas o ropa de cama seguido. Comprar de más significa pagar más luz y agua en cada lavado que no llenás.` },
+      { type: "h3", title: `2. Mirá la eficiencia antes que la marca` },
+      { type: "p", content: `Es la diferencia entre pagar de más una vez o todos los meses durante años. En esta comparativa hay de A+ a D entre los cuatro que la declaran. Cuando dos modelos te sirven igual, la eficiencia debería desempatar antes que el logo.` },
+      { type: "h3", title: `3. Las revoluciones deciden cuánto tarda en secarse` },
+      { type: "p", content: `Entre 600 y 1.400 rpm hay más del doble de fuerza de centrifugado, y eso se traduce directo en horas de tendido. Si vivís en departamento sin balcón o en una zona húmeda, ese número importa más que un par de programas extra. Si además vas a comprar un [secarropas](/guias/hogar/secarropas), tenelo en cuenta para no pagar dos veces por lo mismo.` },
+      { type: "h3", title: `4. Medí el hueco con la medida del equipo, no la de la caja` },
+      { type: "p", content: `Es la trampa más concreta de este rubro. La ficha del Samsung Serie 4 publica 67,5 cm de ancho y el equipo mide 60: la diferencia es el embalaje. Antes de descartar un modelo porque "no entra", conviene buscar la medida real en las reseñas o en la web del fabricante.` },
+
+      { type: "h2", title: `Cuánto cuesta un lavarropas automático en Argentina`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de {{precio:MLA6348146:k}}:** el [Drean Next 6.06 Eco](https://meli.la/2Tv6Nx5), el más barato de la comparativa y el que más compradores eligen.`,
+        `**Entre {{precio:MLA21651412:k}} y {{precio:MLA36014732:k}}:** el [Whirlpool WNQ80AS](https://meli.la/32yAB2w) y el [Whirlpool WWI16CS](https://meli.la/2hEwYVN), donde por casi el mismo precio elegís entre 8 kg de carga frontal o 10 kg de carga superior.`,
+        `**Alrededor de {{precio:MLA22827012:k}}:** el [Samsung Inverter de 7 kg](https://meli.la/1QSnScX), el menos profundo de los tres que la declaran.`,
+        `**Arriba de {{precio:MLA20798476:k}}:** el [Samsung Serie 4](https://meli.la/18yegmj), el del centrifugado más rápido de los tres que lo declaran.`,
+      ] },
+
+      { type: "verdict", content: `Para la mayoría, el **[Drean Next 6.06 Eco](/producto/lavarropas-automatico-drean-next-6-06-eco-carga-frontal-6-kg-600-rpm-mla6348146)**: es el más elegido de la comparativa por lejos, el más barato de los cinco y el de mejor eficiencia energética declarada. Compralo sabiendo que son **6 kg y 600 rpm**, o sea que es para una o dos personas. Si son familia, el **[Whirlpool de 8 kg](/producto/lavarropas-automatico-whirlpool-wnq80as-inverter-carga-frontal-8-kg-14-programas-mla21651412)** por sus 14 programas, asumiendo que hace ruido al arrancar. Si querés la ropa lo más seca posible al sacarla, el **[Samsung Serie 4](/producto/lavarropas-automatico-samsung-serie-4-ww70aa46bx-7-kg-1-400-rpm-eco-bubble-mla20798476)** con 1.400 rpm. Si el lavadero es angosto, el **[Samsung de 7 kg](/producto/lavarropas-automatico-samsung-inverter-7-kg-carga-frontal-6-programas-mla22827012)** con 55 cm de profundidad. Y si necesitás 10 kg sí o sí, el **[Whirlpool de carga superior](/producto/lavarropas-automatico-whirlpool-wwi16cs-carga-superior-10-kg-740-rpm-mla36014732)**, sabiendo que declara eficiencia D y que mide 1,05 m de alto.` },
+
+      { type: "h2", title: `Preguntas frecuentes`, id: "faq" },
+    ],
+    faq: [
+      { question: `¿Cuál es el mejor lavarropas automático en Argentina?`, answer: `Por respaldo de compradores, el [Drean Next 6.06 Eco](/producto/lavarropas-automatico-drean-next-6-06-eco-carga-frontal-6-kg-600-rpm-mla6348146): tiene {{reviews:MLA6348146}} opiniones con {{rating:MLA6348146}} de promedio, casi seis veces el segundo de esta comparativa. Además es el más barato de los cinco y declara la mejor eficiencia energética de las cuatro que la publican, A+. Su límite es la capacidad: 6 kg, pensado para una o dos personas.` },
+      { question: `¿Cuántos kilos de lavarropas necesito?`, answer: `Depende de cuánta gente sos, no del presupuesto. Para una o dos personas, 6 kg alcanzan de sobra. Para una familia tipo, 7 u 8 kg. Los 10 kg tienen sentido si lavás acolchados, cortinas o ropa de cama seguido. En esta comparativa el rango va de 6 a 10 kg, y comprar de más significa pagar más luz y agua en cada lavado que no llenás.` },
+      { question: `¿Qué diferencia hay entre carga frontal y carga superior?`, answer: `De los cinco de esta guía, cuatro son de carga frontal y solo el [Whirlpool WWI16CS](/producto/lavarropas-automatico-whirlpool-wwi16cs-carga-superior-10-kg-740-rpm-mla36014732) es de carga superior. La frontal permite meter el equipo abajo de una mesada y suele centrifugar más fuerte. La superior es más cómoda para cargar sin agacharse y en este caso ofrece más capacidad, 10 kg, pero mide 1,05 m de alto y se abre por arriba, así que necesita espacio libre encima.` },
+      { question: `¿Para qué sirven las revoluciones de centrifugado?`, answer: `Definen cuán mojada sale la ropa al terminar el lavado, y por lo tanto cuánto tarda en secarse. Entre los tres modelos de esta guía que declaran el dato hay de 600 a 1.400 rpm, más del doble. Un comprador del [Samsung Serie 4](/producto/lavarropas-automatico-samsung-serie-4-ww70aa46bx-7-kg-1-400-rpm-eco-bubble-mla20798476), el de 1.400 rpm, dice que las prendas salen prácticamente secas. Si vivís en departamento sin balcón o en zona húmeda, ese número pesa más que un par de programas extra.` },
+      { question: `¿La eficiencia energética hace mucha diferencia?`, answer: `Sí, y es el dato que menos se mira. En esta comparativa hay de A+ a D entre los cuatro modelos que la declaran. Un lavarropas se usa una o dos veces por semana durante años, así que esa diferencia no se paga al comprarlo sino en cada factura. El [Drean](/producto/lavarropas-automatico-drean-next-6-06-eco-carga-frontal-6-kg-600-rpm-mla6348146) declara A+, la [Samsung de 7 kg](/producto/lavarropas-automatico-samsung-inverter-7-kg-carga-frontal-6-programas-mla22827012) y la [Serie 4](/producto/lavarropas-automatico-samsung-serie-4-ww70aa46bx-7-kg-1-400-rpm-eco-bubble-mla20798476) declaran A, y el [Whirlpool de 10 kg](/producto/lavarropas-automatico-whirlpool-wwi16cs-carga-superior-10-kg-740-rpm-mla36014732) declara D.` },
+      { question: `¿Qué diferencia hay entre un lavarropas automático y uno semiautomático?`, answer: `El automático hace todo el ciclo solo: carga el agua, lava, enjuaga, centrifuga y desagota, y lo controlás con un programa. El semiautomático te obliga a intervenir, normalmente a pasar la ropa de la cuba de lavado a la de centrifugado y a manejar la carga de agua a mano. Los cinco modelos de esta guía son automáticos. Si tu lavarropas es semiautomático y no centrifuga, la salida no es cambiarlo necesariamente: un [secarropas](/guias/hogar/secarropas) aparte resuelve justamente esa parte.` },
+      { question: `¿Conviene un lavarropas con inverter?`, answer: `El motor inverter regula las revoluciones en vez de arrancar y frenar de golpe, y eso se traduce en menos ruido, menos vibración y menos consumo a lo largo de los años. De esta guía, el [Whirlpool WNQ80AS](/producto/lavarropas-automatico-whirlpool-wnq80as-inverter-carga-frontal-8-kg-14-programas-mla21651412) y el [Samsung Serie 4](/producto/lavarropas-automatico-samsung-serie-4-ww70aa46bx-7-kg-1-400-rpm-eco-bubble-mla20798476) lo declaran explícitamente en su ficha, y el [Drean Next 6.06 Eco](/producto/lavarropas-automatico-drean-next-6-06-eco-carga-frontal-6-kg-600-rpm-mla6348146) declara que no lo trae. Si el equipo va a estar cerca de un dormitorio o en un departamento chico, es de las cosas que más se notan en el uso diario.` },
+      { question: `¿Por qué las medidas de la ficha no coinciden con el equipo?`, answer: `Porque en varias publicaciones MercadoLibre carga la medida del embalaje y no la del producto. Pasa en esta misma comparativa: la ficha del [Samsung Serie 4](/producto/lavarropas-automatico-samsung-serie-4-ww70aa46bx-7-kg-1-400-rpm-eco-bubble-mla20798476) declara 67,5 cm de ancho, pero un comprador aclara que el lavarropas mide 60 cm. Si estás midiendo un hueco justo, conviene buscar la medida real en las reseñas o en la web del fabricante antes de descartar un modelo.` },
+    ],
+    internalLinks: [
+      { label: "Secarropas: cuál comprar en Argentina", href: "/guias/hogar/secarropas" },
+      { label: "Cortadora de césped: cuál comprar", href: "/guias/hogar-jardin/cortadora-de-cesped" },
+    ],
+    internalLinksTitle: "Más para la casa",
+  },
+  {
+    slug: "heladera-no-frost",
+    category: "heladeras",
+    silo: "hogar",
+    pillar: true,
+    title: `Heladera no frost: cuál comprar en Argentina [2026]`,
+    seoTitle: `Heladera No Frost: Cuál Comprar en Argentina [2026]`,
+    metaDescription: `Comparamos 6 heladeras no frost reales de MercadoLibre: la eficiencia va de A+ a C y no sigue al precio, y la más elegida es también la más cara.`,
+    ogTitle: `Heladera no frost: cuál comprar en Argentina`,
+    ogDescription: `6 heladeras no frost comparadas por eficiencia energética declarada, litros, inverter y respaldo real de compradores. La segunda más barata declara la peor eficiencia.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_711183-MLA108555507037_032026-O.webp`,
+    h1: `Heladera no frost: cuál comprar en Argentina y qué mirar antes [2026]`,
+    directAnswer: `Para la mayoría conviene la **[Samsung RT29K577J](/producto/heladera-no-frost-samsung-rt29k577j-299-litros-inverter-eficiencia-a-mla17005892)** (alrededor de {{precio:MLA17005892:k}}): declara **eficiencia A+, la mejor de esta comparativa**, trae inverter y tiene más de 1.100 opiniones. En una heladera, que funciona las 24 horas durante más de una década, esa letra pesa más que cualquier otra ficha. Si son familia grande, la **[Philco Side by Side](/producto/heladera-no-frost-philco-phsb450-side-by-side-428-litros-freezer-de-167-l-mla48359050)** de 428 litros, la más elegida del grupo. Si el presupuesto manda, la **[Philco de 174 litros](/producto/heladera-no-frost-philco-phnt198x2-174-litros-freezer-superior-eficiencia-b-mla47665074)**. Y ojo con la **[Whirlpool de 340 litros](/producto/heladera-no-frost-whirlpool-wrm40mb-340-litros-freezer-superior-mla68575853)**: es barata para su capacidad pero declara **eficiencia C**, la más baja de las seis.`,
+    publishedDate: "2026-11-16",
+    updatedDate: "2026-11-16",
+    hasDisclosure: true,
+    readingTime: 11,
+    standfirst: `Una heladera no frost va de {{precio:MLA47665074:k}} a {{precio:MLA48359050:k}}. Comparamos 6 modelos reales de MercadoLibre Argentina por **eficiencia energética declarada, litros, tecnología inverter y respaldo de compradores**, con contras sacadas de reseñas verdaderas, dentro de nuestro silo de [Hogar](/categoria/hogar).`,
+    quickPicks: [
+      { productMlaId: "MLA17005892", label: "La más eficiente", labelColor: "purple", tagline: "Samsung RT29K577J: eficiencia A+, la mejor del grupo, con inverter" },
+      { productMlaId: "MLA48359050", label: "La más elegida", labelColor: "green", tagline: "Philco Side by Side: 428 litros y más de 1.700 opiniones" },
+      { productMlaId: "MLA47665074", label: "La más barata", labelColor: "slate", tagline: "Philco 174 L: la más compacta, entra donde otras no" },
+      { productMlaId: "MLA49755116", label: "Puertas reversibles", labelColor: "amber", tagline: "Gafa HGNW333P: la única que declara traer puertas reversibles" },
+    ],
+    intro: [
+      `Elegir una **heladera no frost** parece una decisión de litros y termina siendo una de consumo. La capacidad se lee en el título; la **eficiencia energética** está abajo en la ficha, y es el único dato de esta compra que vas a seguir pagando todos los meses durante diez o quince años.`,
+      `Comparamos 6 heladeras no frost reales de MercadoLibre Argentina y verificamos, una por una, qué declara su ficha técnica. Apareció algo que conviene saber antes de mirar precios: **la eficiencia va de A+ a C y no sigue al precio**. La segunda más barata del grupo es la que peor consume.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_711183-MLA108555507037_032026-O.webp", alt: `Heladera no frost de dos puertas con freezer superior vista de frente`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Si no querés leer toda la comparativa: la **[Samsung RT29K577J](/producto/heladera-no-frost-samsung-rt29k577j-299-litros-inverter-eficiencia-a-mla17005892)** declara **eficiencia A+, la mejor de las seis**, trae inverter y es la única que declara traer alarma de puerta abierta. Con más de 1.100 opiniones tiene el segundo respaldo más grande del grupo. La contra que aparece en una de sus opiniones: **es bajita y hay que agacharse**, y los estantes no están bien espaciados.` },
+
+      { type: "callout", calloutVariant: "warning", calloutTitle: "La letra de eficiencia no sigue al precio", content: `Este es el dato que ordena la comparativa. La **[Samsung](/producto/heladera-no-frost-samsung-rt29k577j-299-litros-inverter-eficiencia-a-mla17005892)** declara **A+**, cuatro modelos declaran **A** o **B**, y la **[Whirlpool de 340 litros](/producto/heladera-no-frost-whirlpool-wrm40mb-340-litros-freezer-superior-mla68575853)** declara **C**, la más baja de las seis, siendo la segunda más barata del grupo. Una heladera es el único electrodoméstico que funciona **las 24 horas de todos los días del año**, durante diez o quince años. Esa diferencia no se paga al comprarla: se paga en cada factura. Si igual elegís la de 340 litros por capacidad y precio, compralá sabiendo esto.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** partimos del listado real de heladeras no frost nuevas de MercadoLibre Argentina, no de resultados de buscador, y verificamos cada publicación en vivo el 2026-08-17: precio, stock, ficha técnica campo por campo y reseñas de compradores. Miramos especialmente cinco campos que deciden la compra: **eficiencia energética declarada**, **capacidad total**, **tecnología inverter**, **respaldo de opiniones** y **medidas reales**. Cuando un dato no está en la ficha lo decimos en vez de estimarlo: la altura la publican tres de las seis y el volumen del freezer también tres. Los precios se verifican automáticamente contra MercadoLibre.` },
+
+      { type: "h2", title: `Los cinco datos que deciden la compra`, id: "que-mirar" },
+      { type: "p", content: `**Eficiencia energética.** El dato que más plata mueve y el que menos se mira. Acá van de A+ a C entre las seis, y no siguen al precio. En un aparato que nunca se apaga, esa letra decide cuánto te sale tenerlo prendido durante la próxima década.` },
+      { type: "p", content: `**Capacidad total.** Va de 174 a 428 litros. La regla práctica: hasta 200 litros para una o dos personas, de 300 a 380 para una familia tipo, y de 400 para arriba si son muchos o si comprás para el mes.` },
+      { type: "p", content: `**Tecnología inverter.** El compresor inverter regula su velocidad en vez de arrancar y frenar de golpe: menos ruido, menos vibración y menos consumo. De estas seis, tres lo declaran y tres declaran que no lo traen. No siempre lo traen las más caras.` },
+      { type: "p", content: `**Respaldo de opiniones.** Acá la diferencia es enorme: van de 57 a más de 1.700. Una nota alta sobre unas pocas decenas de opiniones no significa lo mismo que la misma nota sobre más de mil. Mirá siempre sobre cuántas está calculado el promedio.` },
+      { type: "p", content: `**Medidas.** De las tres que publican altura, hay 50 centímetros de diferencia entre la más baja y la más alta. Y hay un problema que las fichas no anticipan y que mencionan compradores de dos de estas heladeras: las bajas obligan a agacharse todos los días.` },
+
+      { type: "h2", title: `Comparativa rápida: las 6 frente a frente`, id: "tabla-comparativa" },
+      { type: "table", headers: ["Modelo", "Precio", "Litros", "Eficiencia", "Inverter", "Opiniones"], rows: [
+        ["[Philco PHNT198X2](https://meli.la/2R1738T)", "{{precio:MLA47665074}}", "174 L", "B", "No", "{{reviews:MLA47665074}}"],
+        ["[Whirlpool WRM40MB](https://meli.la/2ijPHv1)", "{{precio:MLA68575853}}", "340 L", "C", "No", "{{reviews:MLA68575853}}"],
+        ["[Whirlpool WRM42HB](https://meli.la/1NXpac9)", "{{precio:MLA41683196}}", "386 L", "A", "Sí", "{{reviews:MLA41683196}}"],
+        ["[Gafa HGNW333P](https://meli.la/1n2BC28)", "{{precio:MLA49755116}}", "354 L", "A", "Sí", "{{reviews:MLA49755116}}"],
+        ["[Samsung RT29K577J](https://meli.la/2DYmMZj)", "{{precio:MLA17005892}}", "299 L", "A+", "Sí", "{{reviews:MLA17005892}}"],
+        ["[Philco PHSB450](https://meli.la/1rwwfkN)", "{{precio:MLA48359050}}", "428 L", "A", "No", "{{reviews:MLA48359050}}"],
+      ] },
+      { type: "p", content: `El nombre de cada modelo lleva directo a su publicación en MercadoLibre. Abajo está el detalle de las seis, ordenadas de la más barata a la más cara: qué hace bien cada una y dónde se queda corta.` },
+
+      { type: "h2", title: `El ranking`, id: "ranking" },
+
+      { type: "h3", title: `1. Samsung RT29K577J` },
+      { type: "product-card", productMlaId: "MLA17005892", label: "La más eficiente", labelColor: "purple", ranking: 1, description: "Eficiencia A+, la mejor de esta comparativa, con inverter y alarma de puerta abierta. Más de 1.100 opiniones con {{rating:MLA17005892}}." },
+      { type: "p", content: `Es la que mejor resuelve lo que más importa a largo plazo: declara **eficiencia A+, la mejor de las seis**, trae **inverter** y es **la única que declara traer alarma de puerta abierta**. Con **{{reviews:MLA17005892}} opiniones** tiene el segundo respaldo más grande del grupo. En un aparato que no se apaga nunca, esa letra vale más que casi cualquier otra ficha técnica.` },
+      { type: "pull-quote", content: `"Muy buena. Es bajita, uno se tiene que agachar para buscar las cosas. Los estantes no están bien espaciados."`, attribution: `Opinión publicada de la Samsung RT29K577J, calificación 4/5` },
+      { type: "p", content: `Esa reseña marca sus dos contras reales, y las dos son de uso diario más que de ficha: la altura obliga a agacharse, y el reparto interno no aprovecha del todo los 299 litros. Con esa capacidad queda en el medio del grupo: si son familia grande, mirá las de 386 o 428.` },
+
+      { type: "h3", title: `2. Philco PHSB450 Side by Side` },
+      { type: "product-card", productMlaId: "MLA48359050", label: "La más elegida", labelColor: "green", ranking: 2, description: "428 litros en formato side by side, con freezer de 167 litros. Más de 1.700 opiniones: el respaldo más grande de esta comparativa." },
+      { type: "p", content: `Es **la más elegida de esta comparativa**, con **{{reviews:MLA48359050}} opiniones**, y al mismo tiempo **la más cara**. Eso rompe el patrón habitual, donde lo más vendido suele ser lo más barato, y dice algo: quien llega hasta acá está comprando el formato, no el precio. Lo que compra son **428 litros side by side**, con el freezer al costado en vez de arriba, y **167 litros solo de freezer** en 5 estantes de vidrio templado más un cajón.` },
+      { type: "pull-quote", content: `"Tremenda, súper espaciosa. Frío como abrazo de suegra, silenciosa como llegada tarde."`, attribution: `Opinión publicada de la Philco PHSB450, calificación 5/5` },
+      { type: "p", content: `Lo honesto es un dato duro que contradice el precio: **no trae inverter**, siendo la más cara del grupo, y su eficiencia declarada es **A**, buena pero no la mejor de las seis. Sumá que el formato side by side necesita más ancho libre por delante para abrir las dos puertas.` },
+
+      { type: "h3", title: `3. Whirlpool WRM42HB` },
+      { type: "product-card", productMlaId: "MLA41683196", label: "El equilibrio", labelColor: "blue", ranking: 3, description: "386 litros con eficiencia A e inverter, y una de las dos mejores notas de la comparativa: {{rating:MLA41683196}} sobre más de 400 opiniones." },
+      { type: "p", content: `La comparación con su hermana de 340 litros explica media guía: por unos **$100.000 más** pasás de 340 a **386 litros**, de eficiencia **C a A**, y sumás **inverter**. Comparte **la mejor nota de esta comparativa, {{rating:MLA41683196}}**, sobre {{reviews:MLA41683196}} opiniones. Una opinión resume bien el efecto del inverter: dice que no se da cuenta de si está prendida.` },
+      { type: "p", content: `La contra a mirar antes de comprarla es de espacio: con **1,83 m es la más alta de las tres que declaran altura**, así que conviene medir el hueco y lo que haya arriba. Sus estantes de freezer son de plástico y no trae alarma de puerta abierta.` },
+
+      { type: "h3", title: `4. Gafa HGNW333P` },
+      { type: "product-card", productMlaId: "MLA49755116", label: "Puertas reversibles", labelColor: "amber", ranking: 4, description: "354 litros con eficiencia A e inverter, y la única de esta comparativa que declara traer puertas reversibles." },
+      { type: "p", content: `Tiene una ventaja que ninguna otra del grupo declara traer y que resuelve un problema muy concreto de cocina argentina: **puertas reversibles**. Si la heladera va contra una pared o pegada a una mesada, elegir hacia qué lado abre es la diferencia entre que entre bien o que moleste todos los días. Suma **354 litros**, **eficiencia A** e **inverter**.` },
+      { type: "p", content: `Lo honesto es el respaldo: con **{{reviews:MLA49755116}} opiniones** es de las que menos historial acumulan acá, así que su {{rating:MLA49755116}} pesa menos que el mismo número sobre mil opiniones. Y su ficha no publica medidas ni peso, así que si el espacio es justo vas a tener que pedirlos.` },
+
+      { type: "h3", title: `5. Whirlpool WRM40MB` },
+      { type: "product-card", productMlaId: "MLA68575853", label: "Litros baratos", labelColor: "slate", ranking: 5, description: "340 litros a un precio bajo para esa capacidad, pero declara eficiencia C: la más baja de esta comparativa." },
+      { type: "p", content: `Su argumento es simple y real: **340 litros por menos plata que la Samsung de 299, que es más chica**. Un comprador dice que enfría muy bien; otro cuenta que le pareció barata para ser Whirlpool. Si lo único que necesitás son litros y el presupuesto aprieta, ahí está.` },
+      { type: "p", content: `Pero hay dos cosas que juegan en contra y conviene decirlas fuerte. Declara **eficiencia energética C, la más baja de las seis**, en el aparato que más horas funciona de toda la casa. Y con **{{reviews:MLA68575853}} opiniones** es la que menos historial tiene de esta comparativa, con {{rating:MLA68575853}}, la nota más baja del grupo. Tampoco trae inverter.` },
+
+      { type: "h3", title: `6. Philco PHNT198X2` },
+      { type: "product-card", productMlaId: "MLA47665074", label: "La más barata", labelColor: "slate", ranking: 6, description: "174 litros en 1,34 m de alto: la más barata y la más compacta de esta comparativa, con más de 500 opiniones." },
+      { type: "p", content: `Es **la más barata de esta comparativa** y la más compacta: **174 litros** en un cuerpo de **1,34 m**, el más bajo de los tres que declaran altura. Para un monoambiente, un departamento chico o una segunda heladera, entra donde las otras no. Con **{{reviews:MLA47665074}} opiniones** tiene respaldo de sobra para su precio.` },
+      { type: "pull-quote", content: `"Es divina, el freezer una masa. Pero es muy petiza: yo soy petiza y me tengo que agachar. Le compré unos pies para levantarla."`, attribution: `Compradora de la Philco PHNT198X2, calificación 4/5` },
+      { type: "p", content: `La altura es la queja concreta, y una compradora cuenta que la resolvió poniéndole unos pies. En lo técnico, dos cosas a saber antes: declara **eficiencia B**, la segunda más baja del grupo, y **no trae inverter**.` },
+
+      { type: "h2", title: `Cómo elegir tu heladera no frost`, id: "como-elegir" },
+      { type: "h3", title: `1. Mirá la letra de eficiencia antes que los litros` },
+      { type: "p", content: `Es el único electrodoméstico que no se apaga nunca. En esta comparativa hay de A+ a C, y la diferencia no la pagás al comprarla sino en cada factura durante los diez o quince años que dure. Cuando dos modelos te sirven igual, la eficiencia debería desempatar antes que la marca o el color.` },
+      { type: "h3", title: `2. Los litros se eligen por cuántos son en casa` },
+      { type: "p", content: `Hasta 200 litros para una o dos personas. De 300 a 380 para una familia tipo. De 400 para arriba si son muchos o si hacés la compra del mes de una. Comprar de más significa enfriar aire vacío todos los días. Y hay una salida que mucha gente no considera: si necesitás volumen de congelado pero no querés pagar una heladera de 428 litros, una más chica más un [freezer vertical](/guias/cocina/freezer-vertical) aparte suele salir menos y te deja elegir dónde poner cada uno.` },
+      { type: "h3", title: `3. El inverter no viene con el precio` },
+      { type: "p", content: `Suena obvio que la más cara traiga la mejor tecnología, y acá no pasa: de las seis, tres traen inverter y tres no, y **la más cara de la comparativa está entre las que no lo traen**. El inverter baja el ruido y el consumo, así que si la heladera va cerca de un dormitorio o en un ambiente único, chequealo en la ficha y no lo asumas.` },
+      { type: "h3", title: `4. Medí el alto, no solo el ancho` },
+      { type: "p", content: `Todo el mundo mide el hueco a lo ancho y se olvida del alto. Entre las tres que publican altura hay 50 centímetros de diferencia. Y hay un problema que ninguna ficha anticipa y que aparece en las reseñas de dos de estas heladeras: **una heladera petisa te obliga a agacharte todos los días**. Si sos alto, mirá ese número.` },
+
+      { type: "h2", title: `Cuánto cuesta una heladera no frost en Argentina`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de {{precio:MLA47665074:k}}:** la [Philco de 174 litros](https://meli.la/2R1738T), la más barata y la más compacta de la comparativa.`,
+        `**Entre {{precio:MLA68575853:k}} y {{precio:MLA41683196:k}}:** las dos Whirlpool, la [de 340 litros](https://meli.la/2ijPHv1) y la [de 386](https://meli.la/1NXpac9), donde por unos $100.000 pasás de eficiencia C a A.`,
+        `**Alrededor de {{precio:MLA49755116:k}} a {{precio:MLA17005892:k}}:** la [Gafa](https://meli.la/1n2BC28) con puertas reversibles y la [Samsung](https://meli.la/2DYmMZj) con eficiencia A+.`,
+        `**Arriba de {{precio:MLA48359050:k}}:** la [Philco Side by Side](https://meli.la/1rwwfkN), la más elegida y la de mayor capacidad.`,
+      ] },
+
+      { type: "verdict", content: `Para la mayoría, la **Samsung RT29K577J**: declara la mejor eficiencia de la comparativa, trae inverter y tiene más de 1.100 opiniones detrás. Compralá sabiendo que **es bajita** y que sus estantes no están bien espaciados. Si son familia grande, la **Philco Side by Side** de 428 litros, que es la más elegida del grupo, asumiendo que no trae inverter. Si querés equilibrio entre litros y consumo, la **Whirlpool WRM42HB**, midiendo antes porque es la más alta de las que publican altura. Si necesitás elegir hacia qué lado abre, la **Gafa**. Y si el presupuesto manda, la **Philco de 174 litros**, sabiendo que es chica y que declara eficiencia B.` },
+
+      { type: "h2", title: `Preguntas frecuentes`, id: "faq" },
+    ],
+    faq: [
+      { question: `¿Cuál es la mejor heladera no frost en Argentina?`, answer: `Depende de qué priorices. Por eficiencia, la [Samsung RT29K577J](/producto/heladera-no-frost-samsung-rt29k577j-299-litros-inverter-eficiencia-a-mla17005892): declara A+, la mejor de esta comparativa, con inverter y más de 1.100 opiniones. Por respaldo de compradores, la [Philco Side by Side](/producto/heladera-no-frost-philco-phsb450-side-by-side-428-litros-freezer-de-167-l-mla48359050), con {{reviews:MLA48359050}} opiniones, que además es la de mayor capacidad con 428 litros. Las dos comparten que son de las más caras del grupo.` },
+      { question: `¿Qué significa que una heladera sea no frost?`, answer: `Que no acumula escarcha y no hay que descongelarla a mano. Un ventilador hace circular el aire frío de forma pareja, lo que además mantiene una temperatura más uniforme en todo el gabinete. La alternativa es el sistema cíclico, más simple y barato, pero que exige descongelado manual cada tanto. Las seis heladeras de esta guía son no frost.` },
+      { question: `¿Conviene una heladera con inverter?`, answer: `El compresor inverter regula su velocidad según cuánto frío hace falta, en vez de arrancar y frenar de golpe. Eso se traduce en menos ruido, menos vibración y menos consumo a lo largo de los años. De las seis de esta guía, la [Whirlpool WRM42HB](/producto/heladera-no-frost-whirlpool-wrm42hb-386-litros-inverter-eficiencia-a-mla41683196), la [Gafa](/producto/heladera-no-frost-gafa-hgnw333p-354-litros-inverter-puertas-reversibles-mla49755116) y la [Samsung](/producto/heladera-no-frost-samsung-rt29k577j-299-litros-inverter-eficiencia-a-mla17005892) lo declaran, y las otras tres declaran que no lo traen. Ojo con asumir que viene con el precio: la más cara de la comparativa no lo tiene.` },
+      { question: `¿Cuánta diferencia hace la eficiencia energética en una heladera?`, answer: `Más que en cualquier otro electrodoméstico, porque es el único que funciona las 24 horas de todos los días del año durante diez o quince años. En esta comparativa las letras van de A+ a C. Y no siguen al precio: la [Whirlpool de 340 litros](/producto/heladera-no-frost-whirlpool-wrm40mb-340-litros-freezer-superior-mla68575853), que es la segunda más barata, declara C, la más baja de las seis, mientras la [Samsung](/producto/heladera-no-frost-samsung-rt29k577j-299-litros-inverter-eficiencia-a-mla17005892) declara A+.` },
+      { question: `¿Cuántos litros de heladera necesito?`, answer: `Se elige por cuántos son en casa, no por presupuesto. Hasta 200 litros alcanza para una o dos personas: la [Philco de 174](/producto/heladera-no-frost-philco-phnt198x2-174-litros-freezer-superior-eficiencia-b-mla47665074) entra en ese caso. De 300 a 380 para una familia tipo. De 400 para arriba si son muchos o si hacés la compra del mes de una sola vez, y ahí entra la [Philco Side by Side de 428](/producto/heladera-no-frost-philco-phsb450-side-by-side-428-litros-freezer-de-167-l-mla48359050). En esta comparativa el rango va de 174 a 428 litros.` },
+      { question: `¿Qué altura conviene mirar antes de comprar?`, answer: `Las dos, la del hueco y la de la heladera. Entre las tres modelos de esta guía que publican altura hay 50 centímetros de diferencia, de 1,34 a 1,83 m. Y hay algo que ninguna ficha anticipa y que sale de las reseñas: una heladera baja obliga a agacharse todos los días para llegar a los estantes de abajo, algo que aparece en una opinión de la [Philco de 174](/producto/heladera-no-frost-philco-phnt198x2-174-litros-freezer-superior-eficiencia-b-mla47665074) y en otra de la [Samsung](/producto/heladera-no-frost-samsung-rt29k577j-299-litros-inverter-eficiencia-a-mla17005892).` },
+    ],
+    internalLinks: [
+      { label: "Lavarropas automático: cuál comprar", href: "/guias/hogar/lavarropas-automatico" },
+      { label: "Secarropas: cuál comprar en Argentina", href: "/guias/hogar/secarropas" },
+      { label: "Freezer vertical: cuál comprar", href: "/guias/cocina/freezer-vertical" },
+    ],
+    internalLinksTitle: "Más para la casa",
+  },
+  {
+    slug: "hidrolavadora",
+    category: "hidrolavadoras",
+    silo: "hogar-jardin",
+    pillar: true,
+    title: `Hidrolavadora: cuál comprar en Argentina [2026]`,
+    seoTitle: `Hidrolavadora: Cuál Comprar en Argentina [2026]`,
+    metaDescription: `6 hidrolavadoras de MercadoLibre comparadas: la más elegida tiene más de 18.000 opiniones, es la más barata y da más presión que dos modelos más caros.`,
+    ogTitle: `Hidrolavadora: cuál comprar en Argentina`,
+    ogDescription: `6 hidrolavadoras comparadas por presión, caudal, peso, manguera y ruedas. Los kilovatios no predicen la presión, y lo demostramos con la ficha de cada una.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_870020-MLA110125632865_042026-O.webp`,
+    h1: `Hidrolavadora: cuál comprar en Argentina y qué mirar antes [2026]`,
+    directAnswer: `Para la mayoría conviene la **[Trent HLT203](/producto/hidrolavadora-trent-hlt203-110-bar-1-2-kw-con-deposito-de-espuma-mla53151118)**: es la más barata de esta comparativa, acumula más de 18.000 opiniones y declara 110 bar, más presión que dos modelos más caros, uno de ellos casi al doble de precio. Si necesitás alcance sin mover el equipo, la **[Trent HLT407](/producto/hidrolavadora-trent-hlt407-profesional-2-kw-150-bar-manguera-de-8-m-mla36781598)** trae 8 metros de manguera. Si el tema es subirla y guardarla, la **[Kärcher Práctica Black](/producto/hidrolavadora-karcher-practica-black-103-bar-1-4-kw-4-kilos-mla58515674)** pesa 4 kg.`,
+    publishedDate: "2026-08-18",
+    updatedDate: "2026-08-18",
+    hasDisclosure: true,
+    readingTime: 11,
+    standfirst: `Una hidrolavadora va de {{precio:MLA53151118:k}} a {{precio:MLA36781598:k}}. Comparamos 6 modelos reales de MercadoLibre Argentina campo por campo, y apareció algo que rompe la intuición: **la potencia en kilovatios no predice la presión que entrega**.`,
+    quickPicks: [
+      { productMlaId: "MLA53151118", label: "La más elegida", labelColor: "green", tagline: "Trent HLT203: más de 18.000 opiniones y la más barata del grupo" },
+      { productMlaId: "MLA36781598", label: "La más potente", labelColor: "purple", tagline: "Trent HLT407: 2 kW, 150 bar y manguera de 8 metros" },
+      { productMlaId: "MLA58515674", label: "El peso más bajo", labelColor: "blue", tagline: "Kärcher Práctica Black: 4 kg, el más bajo de las cinco que lo declaran" },
+      { productMlaId: "MLA24093230", label: "El caudal más alto", labelColor: "amber", tagline: "Gamma Master Wash 2400: 8 litros por minuto declarados" },
+    ],
+    intro: [
+      `Elegir una **hidrolavadora** parece una decisión de potencia y no lo es. El número que las publicaciones ponen más grande son los vatios, pero lo que saca el verdín de una vereda es la **presión**, que se mide en bar, y lo que define cuánto tarda en enjuagar es el **caudal**, que se mide en litros por minuto. Son tres datos distintos y no van siempre juntos.`,
+      `Comparamos 6 hidrolavadoras reales de MercadoLibre Argentina y verificamos, una por una, qué declara su ficha técnica. Apareció algo que conviene saber antes de mirar precios: **la más barata del grupo declara más presión que dos modelos más caros, y uno de ellos cuesta casi el doble**.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_870020-MLA110125632865_042026-O.webp", alt: `Hidrolavadora eléctrica de alta presión con lanza y depósito de espuma` },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Si no querés leer toda la comparativa: la **[Trent HLT203](/producto/hidrolavadora-trent-hlt203-110-bar-1-2-kw-con-deposito-de-espuma-mla53151118)** es la más barata y por lejos la más elegida, con **{{reviews:MLA53151118}} opiniones**. Declara 110 bar, más que la Kärcher y que la Pektra, que cuestan más. Su límite real es la manguera de 3 metros y que no trae ruedas.` },
+
+      { type: "callout", calloutVariant: "warning", calloutTitle: "Los kilovatios no predicen la presión", content: `Este es el dato que ordena toda la guía. La **Pektra declara 1,4 kW y 90 bar**. La **Trent HLT203 declara 1,2 kW y 110 bar**: menos potencia y más presión, por menos plata. La **Kärcher declara 1,4 kW y 103 bar**, también por debajo de la Trent barata pese a costar casi el doble. Si comparás solo vatios, vas a elegir mal.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** partimos de la categoría de hidrolavadoras de MercadoLibre Argentina y verificamos cada publicación en vivo el 2026-08-18: precio, stock, ficha técnica campo por campo y reseñas de compradores. Miramos cinco campos que deciden la compra y que casi nadie destaca: **presión máxima en bar**, **caudal en litros por minuto**, **peso**, **largo de manguera** y **si trae ruedas**. Cuando un dato no está en la ficha, lo decimos en vez de estimarlo. Cuando algo sale de una reseña y no de la ficha, también lo aclaramos. Los precios se verifican automáticamente contra MercadoLibre.` },
+
+      { type: "h2", title: `Los cinco datos que deciden la compra`, id: "que-mirar" },
+      { type: "p", content: `**Presión máxima, en bar.** Es la fuerza con la que sale el agua y lo que decide si despega mugre pegada o solo la moja. Acá van de **90 a 150 bar**. Como referencia práctica: para lavar el auto alcanza con 90 a 110, y para verdín, vereda o techo conviene estar de 120 para arriba.` },
+      { type: "p", content: `**Caudal, en litros por minuto.** El dato más ignorado y el que más se nota en superficies grandes: es cuánta agua mueve por minuto, o sea qué tan rápido enjuaga. De las seis, **cinco lo declaran** y van de 5 a 8 l/min. Dos equipos con la misma presión pero distinto caudal tardan muy distinto en lavar un frente.` },
+      { type: "p", content: `**Peso.** Define si la subís a una terraza o la arrastrás. De las seis, **cinco declaran peso** y van de 4 a 9 kg. La diferencia entre la más liviana y la más pesada es más del doble.` },
+      { type: "p", content: `**Largo de la manguera.** El que más cambia el uso real y el que nadie mira. De las seis, **cinco lo declaran** y van de 3 a 8 metros. Con 3 metros vas a estar moviendo el equipo todo el tiempo; con 8 das la vuelta a un auto sin tocarlo.` },
+      { type: "p", content: `**Ruedas.** Tres de las seis traen y tres no. No es un detalle menor cuando el equipo pesa 8 o 9 kg y la manguera es corta: sin ruedas, cada metro que avanzás es levantar el aparato.` },
+
+      { type: "h2", title: `Comparativa de las 6 hidrolavadoras`, id: "comparativa" },
+      { type: "table", headers: ["Modelo", "Precio", "Presión", "Caudal", "Peso", "Manguera", "Opiniones"], rows: [
+        ["[Trent HLT203](/producto/hidrolavadora-trent-hlt203-110-bar-1-2-kw-con-deposito-de-espuma-mla53151118)", "{{precio:MLA53151118}}", "110 bar", "6 l/min", "4,9 kg", "3 m", "{{reviews:MLA53151118}}"],
+        ["[Pektra PKT1400](/producto/hidrolavadora-pektra-pkt1400-90-bar-1-4-kw-portatil-mla54474544)", "{{precio:MLA54474544}}", "90 bar", "5,5 l/min", "No declarado", "No declarado", "{{reviews:MLA54474544}}"],
+        ["[Tivoli HLT-100](/producto/hidrolavadora-tivoli-hlt-100-125-bar-1-6-kw-con-ruedas-mla55764210)", "{{precio:MLA55764210}}", "125 bar", "No declarado", "6,3 kg", "5 m", "{{reviews:MLA55764210}}"],
+        ["[Kärcher Práctica Black](/producto/hidrolavadora-karcher-practica-black-103-bar-1-4-kw-4-kilos-mla58515674)", "{{precio:MLA58515674}}", "103 bar", "5 l/min", "4 kg", "4 m", "{{reviews:MLA58515674}}"],
+        ["[Gamma Master Wash 2400](/producto/hidrolavadora-gamma-master-wash-2400-g2518ar-150-bar-8-l-min-mla24093230)", "{{precio:MLA24093230}}", "150 bar", "8 l/min", "8 kg", "5 m", "{{reviews:MLA24093230}}"],
+        ["[Trent HLT407](/producto/hidrolavadora-trent-hlt407-profesional-2-kw-150-bar-manguera-de-8-m-mla36781598)", "{{precio:MLA36781598}}", "150 bar", "7,5 l/min", "9 kg", "8 m", "{{reviews:MLA36781598}}"],
+      ] },
+
+      { type: "h2", title: `Las 6 hidrolavadoras, una por una`, id: "ranking" },
+
+      { type: "h3", title: `1. Trent HLT203` },
+      { type: "product-card", productMlaId: "MLA53151118", label: "La más elegida", labelColor: "green", ranking: 1, description: "La más barata de esta comparativa y la de más respaldo por lejos: {{reviews:MLA53151118}} opiniones con {{rating:MLA53151118}}. Declara 110 bar pese a tener la potencia más baja del grupo." },
+      { type: "p", content: `Es la que compraría la mayoría, y el motivo no es solo el precio. Declara **110 bar** con **1,2 kW**, la potencia más baja de las seis: entrega más presión que la Kärcher y que la Pektra, las dos con 1,4 kW. Trae **depósito de espuma** y **apagado automático**, y declara **bomba de acero**.` },
+      { type: "p", content: `Lo que resigna es formato: **manguera de 3 metros**, la más corta de las cinco que la declaran, y **sin ruedas**. Una opinión aporta el dato más útil de todos, que ninguna ficha declara: aguantó unos **25 minutos de uso continuo** sin que se le calentara el motor. Otra aclara algo honesto: a chorro más abierto, limpia menos.` },
+
+      { type: "h3", title: `2. Trent HLT407 Profesional` },
+      { type: "product-card", productMlaId: "MLA36781598", label: "La más potente", labelColor: "purple", ranking: 2, description: "2 kW y 150 bar, la presión más alta del grupo junto con la Gamma. Manguera de 8 metros, la más larga de las cinco que la declaran." },
+      { type: "p", content: `Es **la más potente de esta comparativa** con **2 kW**, y comparte con la Gamma los **150 bar**. Pero su diferencia real no está ahí: está en la **manguera de 8 metros**, la más larga de las cinco que la declaran. Son 5 metros más que la Trent barata, y eso decide si das la vuelta a un auto sin mover el equipo.` },
+      { type: "p", content: `También es **la más cara de las seis** y **la más pesada de las cinco que declaran peso**, con 9 kg, aunque trae ruedas. Y acá va la contra concreta: una opinión con 4 de 5 apunta a **la precariedad de las ruedas plásticas**, que describe como endebles en sus ejes. Otra menciona que hace ruido. Con **{{reviews:MLA36781598}} opiniones** es la segunda más respaldada del grupo.` },
+
+      { type: "h3", title: `3. Gamma Master Wash 2400` },
+      { type: "product-card", productMlaId: "MLA24093230", label: "El caudal más alto", labelColor: "amber", ranking: 3, description: "150 bar y 8 l/min, el caudal más alto de las cinco que lo declaran. Trae ruedas, espuma, apagado automático y manguera de 5 metros." },
+      { type: "p", content: `En ficha es la más completa del grupo por todo lo que trae junto: **150 bar**, la presión más alta **junto con la Trent de 2 kW**, y **8 l/min**, el caudal más alto de las cinco que lo declaran. Ese caudal es lo que la vuelve rápida en superficies grandes.` },
+      { type: "p", content: `Ahora el dato que no vamos a esconder, porque sale de sus propios compradores: **una opinión pone en duda que llegue a los 150 bar declarados** y estima que anda más cerca de 110. Esa misma opinión critica la calidad de la manguera. Es la contra más concreta que encontramos en las seis, y viene de alguien que la usó.` },
+
+      { type: "h3", title: `4. Kärcher Práctica Black` },
+      { type: "product-card", productMlaId: "MLA58515674", label: "El peso más bajo", labelColor: "blue", ranking: 4, description: "4 kg, el peso más bajo de las cinco que lo declaran. De la marca de referencia del rubro, con apagado automático y accesorios que se guardan en el equipo." },
+      { type: "p", content: `Es la de la marca de referencia y **la más liviana de las cinco que declaran peso**, con **4 kg**. Guarda los accesorios en el propio cuerpo, así que es la más cómoda de subir a una terraza o de meter en un placard.` },
+      { type: "p", content: `Pero el precio pide claridad: por **{{precio:MLA58515674}}** entrega **menos presión que la Trent más barata del grupo**, que declara 110 bar por casi la mitad de precio. Además **no trae ruedas** y es **la única de esta comparativa que declara no traer depósito de espuma**, así que el jabón va aparte. Lo que se compra acá es respaldo de marca, tamaño y prolijidad, no la mejor presión por peso.` },
+
+      { type: "h3", title: `5. Tivoli HLT-100` },
+      { type: "product-card", productMlaId: "MLA55764210", label: "El medio del grupo", labelColor: "slate", ranking: 5, description: "125 bar y 1,6 kW, con ruedas y manguera de 5 metros. Es la que menos opiniones acumula de esta comparativa." },
+      { type: "p", content: `Ocupa un lugar cómodo del medio: **125 bar** y **1,6 kW**, con dos cosas que las dos más baratas no tienen: **ruedas** y **manguera de 5 metros**. Con 6,3 kg queda justo en el medio de las cinco que declaran peso.` },
+      { type: "p", content: `Lo que hay que saber: es **la que menos respaldo tiene de esta comparativa**, con **{{reviews:MLA55764210}} opiniones**, aunque su nota sea {{rating:MLA55764210}}. Y su ficha **no declara caudal**, así que en ese campo no se la puede comparar con el resto. Una opinión cuenta que la usó cuatro o cinco horas seguidas entre pisos y techo.` },
+
+      { type: "h3", title: `6. Pektra PKT1400` },
+      { type: "product-card", productMlaId: "MLA54474544", label: "La más básica", labelColor: "slate", ranking: 6, description: "90 bar, la presión más baja de esta comparativa. Portátil según su ficha, orientada a auto, patios y exteriores." },
+      { type: "p", content: `Es la del planteo más modesto y conviene decirlo de entrada: **90 bar, la presión más baja de las seis**, aunque declare **1,4 kW**, más potencia que la Trent barata que llega a 110 bar. Es el mejor ejemplo de que los kilovatios no predicen la presión.` },
+      { type: "p", content: `Sirve para auto, moto, bicicleta y pisos, que es a lo que la orienta su propia ficha. No sirve si el plan es techo o vereda con años de mugre. Dos huecos a mirar: **no declara peso ni largo de manguera**, así que en esos dos campos no se la puede comparar de igual a igual. Una opinión rescata el corte de motor al soltar el gatillo, aunque la ficha no lo declara.` },
+
+      { type: "h2", title: `Qué hidrolavadora comprar según para qué`, id: "como-elegir" },
+      { type: "p", content: `**Para lavar el auto y poco más.** Con 90 a 110 bar alcanza. La [Trent HLT203](/producto/hidrolavadora-trent-hlt203-110-bar-1-2-kw-con-deposito-de-espuma-mla53151118) es la opción obvia por precio y respaldo, y su depósito de espuma ayuda. Si querés algo todavía más simple, la [Pektra](/producto/hidrolavadora-pektra-pkt1400-90-bar-1-4-kw-portatil-mla54474544).` },
+      { type: "p", content: `**Para vereda, patio o verdín.** Acá conviene estar de 120 bar para arriba: la [Gamma Master Wash 2400](/producto/hidrolavadora-gamma-master-wash-2400-g2518ar-150-bar-8-l-min-mla24093230) o la [Trent HLT407](/producto/hidrolavadora-trent-hlt407-profesional-2-kw-150-bar-manguera-de-8-m-mla36781598), que declaran 150. La Gamma suma el caudal más alto; la Trent, la manguera más larga.` },
+      { type: "p", content: `**Si la vas a subir y bajar seguido.** El peso manda sobre todo lo demás. La [Kärcher Práctica Black](/producto/hidrolavadora-karcher-practica-black-103-bar-1-4-kw-4-kilos-mla58515674) con 4 kg declara el peso más bajo de las cinco que lo publican, y guarda los accesorios encima.` },
+      { type: "p", content: `**Si no querés estar moviendo el equipo.** Mirá la manguera antes que la presión. Con 3 metros vas a arrastrar el aparato cada dos minutos; con los 8 de la [Trent HLT407](/producto/hidrolavadora-trent-hlt407-profesional-2-kw-150-bar-manguera-de-8-m-mla36781598) lavás un frente entero desde un solo lugar.` },
+
+      { type: "callout", calloutVariant: "warning", calloutTitle: "Ninguna de las seis es apta para agua caliente", content: `De las seis, **cinco declaran expresamente que no son aptas para agua caliente** y la restante no declara el campo. Es una limitación del rubro doméstico entero, no de un modelo puntual: conectarlas a agua caliente puede dañar la bomba. Si necesitás agua caliente, estás buscando otra categoría de equipo.` },
+
+      { type: "verdict", content: `Si tuviéramos que elegir una sola, la **[Trent HLT203](/producto/hidrolavadora-trent-hlt203-110-bar-1-2-kw-con-deposito-de-espuma-mla53151118)**: es la más barata, declara más presión que dos equipos más caros, uno de ellos casi al doble de precio, y tiene **{{reviews:MLA53151118}} opiniones** detrás, un respaldo que ninguna otra del grupo se acerca a igualar. Sabiendo que vas a mover el equipo seguido, porque la manguera es corta y no trae ruedas. Si eso te molesta y podés estirar el presupuesto, la **[Trent HLT407](/producto/hidrolavadora-trent-hlt407-profesional-2-kw-150-bar-manguera-de-8-m-mla36781598)** resuelve justo ese problema con 8 metros de manguera.` },
+    ],
+    faq: [
+      { question: `¿Cuál es la mejor hidrolavadora en Argentina?`, answer: `Depende de para qué. Por relación precio y respaldo, la [Trent HLT203](/producto/hidrolavadora-trent-hlt203-110-bar-1-2-kw-con-deposito-de-espuma-mla53151118), que es la más barata de esta comparativa y acumula {{reviews:MLA53151118}} opiniones. Por presión, la [Gamma Master Wash 2400](/producto/hidrolavadora-gamma-master-wash-2400-g2518ar-150-bar-8-l-min-mla24093230) y la [Trent HLT407](/producto/hidrolavadora-trent-hlt407-profesional-2-kw-150-bar-manguera-de-8-m-mla36781598) empatan en 150 bar. Por peso, la [Kärcher Práctica Black](/producto/hidrolavadora-karcher-practica-black-103-bar-1-4-kw-4-kilos-mla58515674) con 4 kg.` },
+      { question: `¿Cuántos bar necesito para lavar el auto?`, answer: `Con 90 a 110 bar alcanza de sobra. Todas las de esta guía superan ese piso, incluso la más baja, que declara 90 bar. Para el auto conviene más mirar el depósito de espuma y el largo de la manguera que la presión máxima: con mucha presión y la lanza muy cerca podés dañar la pintura.` },
+      { question: `¿Más vatios significa más presión?`, answer: `No, y es el error más común. En esta comparativa la Trent HLT203 declara 1,2 kW y 110 bar, mientras que la Pektra declara 1,4 kW y 90 bar: más potencia y menos presión. La Kärcher, también de 1,4 kW, declara 103 bar. Los vatios miden lo que consume el motor, no la fuerza con la que sale el agua. Mirá los bar.` },
+      { question: `¿Qué es el caudal y por qué importa?`, answer: `Es cuántos litros de agua mueve por minuto, y define qué tan rápido enjuaga una superficie. De las seis de esta guía, cinco lo declaran y van de 5 a 8 l/min. Dos equipos con la misma presión pero distinto caudal tardan muy distinto en lavar un frente: la presión despega la mugre, el caudal se la lleva.` },
+      { question: `¿Conviene que traiga ruedas?`, answer: `Depende del peso y de la manguera. De las seis de esta guía, tres traen ruedas y tres no. Si el equipo pesa 8 o 9 kg y la manguera es corta, sin ruedas cada metro que avanzás implica levantarlo. Si pesa 4 o 5 kg, como la Kärcher o la Trent HLT203, se puede vivir sin ellas.` },
+      { question: `¿Se le puede conectar agua caliente?`, answer: `No a estas. De las seis, cinco declaran expresamente que no son aptas para agua caliente y la restante no declara el campo. Es una limitación del segmento doméstico en general: el agua caliente puede dañar la bomba. Los equipos que la admiten son de otra categoría, industrial, y de otro precio.` },
+    ],
+    internalLinks: [
+      { label: "Bordeadora eléctrica: cuál comprar", href: "/guias/hogar-jardin/bordeadora-electrica" },
+      { label: "Cortadora de césped: cuál comprar", href: "/guias/hogar-jardin/cortadora-de-cesped" },
+    ],
+    internalLinksTitle: "Más para el jardín",
+  },
+  {
+    slug: "amoladora",
+    category: "amoladoras",
+    silo: "hogar-jardin",
+    pillar: true,
+    title: `Amoladora angular: cuál comprar en Argentina [2026]`,
+    seoTitle: `Amoladora Angular: Cuál Comprar en Argentina [2026]`,
+    metaDescription: `Comparamos 6 amoladoras angulares reales de MercadoLibre: la más cara sale 19% más que la más potente y declara 110 W menos.`,
+    ogTitle: `Amoladora angular: cuál comprar en Argentina`,
+    ogDescription: `6 amoladoras comparadas por potencia, velocidad, peso y respaldo real. Las seis usan el mismo disco de 115 mm, así que el diámetro no decide nada.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_767366-MLA99870233689_112025-O.webp`,
+    h1: `Amoladora angular: cuál comprar en Argentina y qué mirar antes [2026]`,
+    directAnswer: `Para la mayoría conviene la **[Black+Decker G720N](/producto/amoladora-angular-black-decker-g720n-820-w-la-mas-potente-mla6067073)**: declara 820 W, la potencia más alta de esta comparativa, y la Bosch más cara sale 19% más. Si lo que buscás es el mayor respaldo posible, la **[Bosch GWS 700](/producto/amoladora-angular-bosch-gws-700-professional-710-w-12-000-rpm-mla19109935)** tiene más de 37.000 opiniones. Y si el presupuesto manda, la **[Gamma G1922AR](/producto/amoladora-angular-gamma-g1922ar-500-w-disco-de-115-mm-mla47236999)** es la más barata.`,
+    publishedDate: "2026-08-18",
+    updatedDate: "2026-08-18",
+    hasDisclosure: true,
+    readingTime: 10,
+    standfirst: `Una amoladora angular va de {{precio:MLA47236999:k}} a {{precio:MLA19109935:k}}. Comparamos 6 modelos reales de MercadoLibre Argentina campo por campo, y apareció algo que rompe la intuición: **la más potente del grupo no es la más cara, y la más cara declara 110 W menos**.`,
+    quickPicks: [
+      { productMlaId: "MLA6067073", label: "La más potente", labelColor: "amber", tagline: "Black+Decker G720N: 820 W y sale menos que la Bosch más cara" },
+      { productMlaId: "MLA19109935", label: "La más elegida", labelColor: "purple", tagline: "Bosch GWS 700: más de 37.000 opiniones y la nota más alta" },
+      { productMlaId: "MLA47236999", label: "La más barata", labelColor: "blue", tagline: "Gamma G1922AR: 500 W, para trabajos ocasionales" },
+      { productMlaId: "MLA15402820", label: "La más liviana", labelColor: "green", tagline: "Gamma G1910KAR: 1,5 kg, el peso más bajo de las cinco que lo declaran" },
+    ],
+    intro: [
+      `Elegir una **amoladora angular** parece una decisión de potencia y es, sobre todo, una de para qué la vas a usar. Las publicaciones ponen los vatios adelante, pero en este grupo ese número **no ordena el precio**: el modelo de más potencia no es el más caro: hay dos que declaran menos vatios y cuestan más, y la más cara del grupo declara 110 W menos que otra que cuesta bastante menos.`,
+      `Comparamos 6 amoladoras angulares reales de MercadoLibre Argentina y verificamos, una por una, qué declara su ficha técnica. Empecemos por lo que iguala a todas: **las seis usan disco de 115 mm**, así que el diámetro no decide nada acá y conviene sacarlo de la ecuación.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_767366-MLA99870233689_112025-O.webp", alt: `Amoladora angular de 115 mm con protector de disco y mango lateral` },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Si no querés leer toda la comparativa: la **[Black+Decker G720N](/producto/amoladora-angular-black-decker-g720n-820-w-la-mas-potente-mla6067073)** declara **820 W**, la potencia más alta de las seis, tiene **{{reviews:MLA6067073}} opiniones** y la **Bosch GWS 700 sale 19% más**. Si preferís el respaldo más grande antes que la potencia, la **[Bosch GWS 700](/producto/amoladora-angular-bosch-gws-700-professional-710-w-12-000-rpm-mla19109935)** acumula **{{reviews:MLA19109935}} opiniones**.` },
+
+      { type: "callout", calloutVariant: "warning", calloutTitle: "Los vatios no ordenan el precio", content: `Este es el dato que ordena la guía. La **Black+Decker declara 820 W** y sale **{{precio:MLA6067073}}**. La **Bosch GWS 700 declara 710 W** y sale **{{precio:MLA19109935}}**, un 19% más. La **Bosch GWS 770 declara 770 W** y también sale más que la Black+Decker. Si comparás solo vatios contra precio, la conclusión es clara: en este grupo la potencia más alta está en el modelo del medio de la tabla, no arriba.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** partimos de la categoría de amoladoras angulares de MercadoLibre Argentina y verificamos cada publicación en vivo el 2026-08-18: precio, stock, ficha técnica campo por campo y reseñas de compradores. Miramos cinco campos que deciden la compra: **potencia**, **velocidad de rotación**, **peso**, **respaldo de opiniones** y **qué protecciones declara cada una**. Cuando un dato no está en la ficha, lo decimos en vez de estimarlo. Cuando un dato de la ficha es implausible, también lo decimos en vez de publicarlo. Y cuando algo sale de una reseña y no de la ficha, lo aclaramos. Los precios se verifican automáticamente contra MercadoLibre.` },
+
+      { type: "h2", title: `Los cinco datos que deciden la compra`, id: "que-mirar" },
+      { type: "p", content: `**Potencia.** Define si aguanta trabajo sostenido o solo cortes puntuales. Acá van de **500 a 820 W**. Como referencia práctica: hasta 600 W es para uso ocasional de fin de semana, de 700 para arriba ya banca herrería liviana seguida.` },
+      { type: "p", content: `**Velocidad de rotación.** Cuatro de las seis declaran 11.000 rpm y una declara 12.000. La sexta trae en su ficha de MercadoLibre un valor imposible para una amoladora, así que no la comparamos en este campo y lo decimos abierto.` },
+      { type: "p", content: `**Peso.** Es el dato que más se siente y el que menos se mira. De las seis, **cinco declaran peso** y van de **1,5 a 2,1 kg**. Una amoladora se sostiene con las dos manos y a la altura del pecho: 600 gramos de diferencia cambian el cansancio de una tarde entera.` },
+      { type: "p", content: `**Respaldo de opiniones.** Acá la diferencia es enorme, más que en cualquier otro rubro que comparamos: van de poco más de 400 a más de 37.000. Una nota alta sobre unos cientos de opiniones y la misma nota sobre decenas de miles no son la misma información.` },
+      { type: "p", content: `**Protecciones declaradas.** Es el campo peor cubierto del rubro: cada modelo declara un subconjunto distinto y varios directamente no lo declaran. De las tres que publican protección contra sobrecarga, solo una dice traerla. De las tres que publican mango anti-vibración, solo una dice traerlo. Vale mirarlo antes de comprar.` },
+
+      { type: "h2", title: `Comparativa de las 6 amoladoras`, id: "comparativa" },
+      { type: "table", headers: ["Modelo", "Precio", "Potencia", "Velocidad", "Peso", "Opiniones", "Nota"], rows: [
+        ["[Gamma G1922AR](/producto/amoladora-angular-gamma-g1922ar-500-w-disco-de-115-mm-mla47236999)", "{{precio:MLA47236999}}", "500 W", "11.000 rpm", "2 kg", "{{reviews:MLA47236999}}", "{{rating:MLA47236999}}"],
+        ["[Kommberg KB-AA750](/producto/amoladora-angular-kommberg-kb-aa750-750-w-con-5-discos-de-corte-mla61451777)", "{{precio:MLA61451777}}", "750 W", "11.000 rpm", "No declarado", "{{reviews:MLA61451777}}", "{{rating:MLA61451777}}"],
+        ["[Gamma G1910KAR](/producto/amoladora-angular-gamma-g1910kar-750-w-1-5-kilos-mla15402820)", "{{precio:MLA15402820}}", "750 W", "11.000 rpm", "1,5 kg", "{{reviews:MLA15402820}}", "{{rating:MLA15402820}}"],
+        ["[Black+Decker G720N](/producto/amoladora-angular-black-decker-g720n-820-w-la-mas-potente-mla6067073)", "{{precio:MLA6067073}}", "820 W", "11.000 rpm", "1,75 kg", "{{reviews:MLA6067073}}", "{{rating:MLA6067073}}"],
+        ["[Bosch GWS 770](/producto/amoladora-angular-bosch-gws-770-770-w-2-1-kilos-mla52713529)", "{{precio:MLA52713529}}", "770 W", "Ficha mal cargada", "2,1 kg", "{{reviews:MLA52713529}}", "{{rating:MLA52713529}}"],
+        ["[Bosch GWS 700](/producto/amoladora-angular-bosch-gws-700-professional-710-w-12-000-rpm-mla19109935)", "{{precio:MLA19109935}}", "710 W", "12.000 rpm", "1,8 kg", "{{reviews:MLA19109935}}", "{{rating:MLA19109935}}"],
+      ] },
+
+      { type: "h2", title: `Las 6 amoladoras, una por una`, id: "ranking" },
+
+      { type: "h3", title: `1. Black+Decker G720N` },
+      { type: "product-card", productMlaId: "MLA6067073", label: "La más potente", labelColor: "amber", ranking: 1, description: "820 W, la potencia más alta de esta comparativa, con {{reviews:MLA6067073}} opiniones. La Bosch más cara sale 19% más y declara 110 W menos." },
+      { type: "p", content: `Es la que mejor resuelve la ecuación completa: **820 W**, la potencia más alta del grupo, y **{{reviews:MLA6067073}} opiniones** de respaldo, el segundo historial más grande. Y la **Bosch GWS 700 sale 19% más** declarando 110 W menos.` },
+      { type: "p", content: `Es además **la única de las tres que declaran el campo que dice ser antipolvo**. Lo que no trae: **protección contra sobrecarga**, que su ficha declara expresamente como No. Sobre durabilidad hay ruido en las reseñas, y una opinión de alguien que hace carpintería y herrería sale al cruce de los comentarios negativos; otra cuenta que el modelo anterior de la misma línea le duró unos 14 años.` },
+
+      { type: "h3", title: `2. Bosch GWS 700 Professional` },
+      { type: "product-card", productMlaId: "MLA19109935", label: "La más elegida", labelColor: "purple", ranking: 2, description: "Más de 37.000 opiniones y la nota más alta de esta comparativa. También la más cara: el doble que la Gamma de 500 W." },
+      { type: "p", content: `Su argumento es el respaldo, y es aplastante: **{{reviews:MLA19109935}} opiniones** con **{{rating:MLA19109935}}**, la nota más alta de las seis. Ninguna otra del grupo se le acerca. Suma **12.000 rpm**, la velocidad más alta de las cinco con dato comparable, y es **la única de las tres que declaran el campo que dice traer mango anti-vibración**.` },
+      { type: "p", content: `Ahora lo honesto: es **la más cara de esta comparativa** y sale **el doble que la Gamma de 500 W**. Declara **710 W**, menos que la Black+Decker, sobre la que sale 19% más. Acá se paga marca, terminación y respaldo, no potencia. Una opinión con 4 de 5 marca un defecto concreto: **el botón lateral se apaga con cualquier toque** e interrumpe el trabajo.` },
+
+      { type: "h3", title: `3. Gamma G1910KAR` },
+      { type: "product-card", productMlaId: "MLA15402820", label: "La más liviana", labelColor: "green", ranking: 3, description: "1,5 kg, el peso más bajo de las cinco que lo declaran, y la única de las tres que declaran el campo que dice traer protección contra sobrecarga." },
+      { type: "p", content: `Tiene dos argumentos que se sienten en el uso: **1,5 kg**, el peso más bajo de las cinco que declaran peso, y es **la única de las tres que declaran el campo que dice traer protección contra sobrecarga**. Medio kilo menos que la más pesada del grupo cambia el cansancio de una tarde sosteniéndola.` },
+      { type: "p", content: `Con **{{reviews:MLA15402820}} opiniones** tiene un respaldo intermedio sólido. Y acá van las dos contras, las dos de compradores: **una opinión duda de que entregue los 750 W declarados** y la compara contra otra marca de la misma potencia que le pareció más fuerte, y otra avisa que **no viene con los discos que muestra la foto**.` },
+
+      { type: "h3", title: `4. Bosch GWS 770` },
+      { type: "product-card", productMlaId: "MLA52713529", label: "La Bosch de entrada", labelColor: "slate", ranking: 4, description: "770 W de la marca de referencia con más de 2.200 opiniones. Es la más pesada de las cinco que declaran peso." },
+      { type: "p", content: `Es la Bosch de entrada del grupo y su argumento es la marca más el historial: **{{reviews:MLA52713529}} opiniones** con {{rating:MLA52713529}}. Declara **770 W**, menos que la Black+Decker que sale bastante menos, así que acá tampoco se está comprando potencia. Con **2,1 kg** es **la más pesada de las cinco que declaran peso**.` },
+      { type: "p", content: `Un detalle que preferimos decir antes que esconder: **su ficha de MercadoLibre declara una velocidad imposible para una amoladora**, así que no la comparamos en ese campo en vez de publicar un número que no cierra. Sobre durabilidad, las opiniones van para los dos lados: una cuenta uso intensivo de varios años en un taller sin problemas, y otra relata que **a los 19 días se le rompió un rodamiento** y que le reembolsaron el 25%.` },
+
+      { type: "h3", title: `5. Kommberg KB-AA750` },
+      { type: "product-card", productMlaId: "MLA61451777", label: "Con 5 discos incluidos", labelColor: "slate", ranking: 5, description: "750 W y 5 discos de corte por {{precio:MLA61451777}}. Es la de nota más baja de esta comparativa." },
+      { type: "p", content: `Su argumento es concreto: **750 W y 5 discos de corte incluidos** por menos de lo que sale la Gamma de 750 W sola, que viene sin discos. Para quien arranca de cero y necesita los consumibles, eso es plata real.` },
+      { type: "p", content: `Pero es **la de nota más baja de esta comparativa**, con {{rating:MLA61451777}}, y el motivo lo explica mejor que nadie una de sus propias opiniones: dice que **el ruido a engranajes y su facilidad para recalentarse** avisan que es para uso puntual, no sostenido. Ese es el límite. Otra opinión cuenta que igual cortó un caño de hierro de 12 cm sin problema. Dos huecos de ficha: **no declara peso** ni si trae protección contra sobrecarga.` },
+
+      { type: "h3", title: `6. Gamma G1922AR` },
+      { type: "product-card", productMlaId: "MLA47236999", label: "La más barata", labelColor: "blue", ranking: 6, description: "La más barata de esta comparativa, con 500 W. Trae mango lateral, bloqueo de disco y protector incluido." },
+      { type: "p", content: `Es **la más barata de esta comparativa** y también **la de menor potencia**, con **500 W**. Las dos cosas van juntas: alcanza para cortes ocasionales y arreglos de fin de semana, no para uso sostenido.` },
+      { type: "p", content: `Trae lo básico bien cubierto: **mango lateral**, **bloqueo de disco** y **protector incluido**. Su respaldo es el segundo más chico del grupo, con **{{reviews:MLA47236999}} opiniones**, aunque la nota de {{rating:MLA47236999}} es sólida. Una opinión cuenta que la usó para podar árboles con el adaptador correspondiente, un uso por fuera de lo previsto que da una idea de para qué la termina agarrando la gente.` },
+
+      { type: "h2", title: `Qué amoladora comprar según para qué`, id: "como-elegir" },
+      { type: "p", content: `**Para arreglos puntuales en casa.** Con 500 a 750 W alcanza. La [Gamma G1922AR](/producto/amoladora-angular-gamma-g1922ar-500-w-disco-de-115-mm-mla47236999) es la más barata, y si además necesitás los discos, la [Kommberg](/producto/amoladora-angular-kommberg-kb-aa750-750-w-con-5-discos-de-corte-mla61451777) los trae, sabiendo que es para uso espaciado.` },
+      { type: "p", content: `**Para herrería liviana seguida.** Acá conviene potencia y respaldo: la [Black+Decker G720N](/producto/amoladora-angular-black-decker-g720n-820-w-la-mas-potente-mla6067073) con 820 W es la más potente del grupo y más barata que las dos Bosch.` },
+      { type: "p", content: `**Si vas a estar horas con ella en la mano.** Mirá el peso antes que los vatios. La [Gamma G1910KAR](/producto/amoladora-angular-gamma-g1910kar-750-w-1-5-kilos-mla15402820) declara 1,5 kg, y la [Bosch GWS 700](/producto/amoladora-angular-bosch-gws-700-professional-710-w-12-000-rpm-mla19109935) es la única de las tres que declaran el campo que dice traer mango anti-vibración.` },
+      { type: "p", content: `**Si querés la apuesta más segura.** La [Bosch GWS 700](/producto/amoladora-angular-bosch-gws-700-professional-710-w-12-000-rpm-mla19109935) tiene más de 37.000 opiniones y la nota más alta de las seis. Pagás el doble que la más barata, y lo que comprás es ese historial.` },
+
+      { type: "callout", calloutVariant: "warning", calloutTitle: "El disco de 115 mm no diferencia nada acá", content: `Las **seis usan disco de 115 mm**, que es la medida más común del rubro doméstico. Es un empate total, así que ese número no sirve para decidir entre estas. Donde sí conviene mirar es en el diámetro de los discos de repuesto que vas a comprar después: tienen que ser de 115 mm para todas.` },
+
+      { type: "verdict", content: `Si tuviéramos que elegir una sola, la **[Black+Decker G720N](/producto/amoladora-angular-black-decker-g720n-820-w-la-mas-potente-mla6067073)**: declara la potencia más alta de las seis con **820 W**, tiene **{{reviews:MLA6067073}} opiniones** de respaldo y la **Bosch más cara sale 19% más** y declara 110 W menos. Sabiendo que su ficha dice que no trae protección contra sobrecarga. Si el respaldo te pesa más que la potencia y podés pagar el doble que la más barata, la **[Bosch GWS 700](/producto/amoladora-angular-bosch-gws-700-professional-710-w-12-000-rpm-mla19109935)** es la más elegida por lejos de este grupo.` },
+    ],
+    faq: [
+      { question: `¿Cuál es la mejor amoladora angular en Argentina?`, answer: `Depende de qué priorices. Por potencia, la [Black+Decker G720N](/producto/amoladora-angular-black-decker-g720n-820-w-la-mas-potente-mla6067073) con 820 W, la más alta de esta comparativa. Por respaldo, la [Bosch GWS 700](/producto/amoladora-angular-bosch-gws-700-professional-710-w-12-000-rpm-mla19109935) con {{reviews:MLA19109935}} opiniones y la nota más alta del grupo. Por precio, la [Gamma G1922AR](/producto/amoladora-angular-gamma-g1922ar-500-w-disco-de-115-mm-mla47236999).` },
+      { question: `¿Cuántos watts necesita una amoladora?`, answer: `Depende del uso. Hasta 600 W alcanza para cortes ocasionales y arreglos de fin de semana. De 700 W para arriba ya banca herrería liviana de forma seguida. En esta comparativa van de 500 a 820 W, y conviene saber que los vatios no ordenan el precio: la de 820 W sale menos que dos modelos de menor potencia.` },
+      { question: `¿Qué diámetro de disco conviene?`, answer: `Las seis amoladoras de esta guía usan disco de 115 mm, que es la medida estándar del rubro doméstico en Argentina. Como es un empate total, ese dato no sirve para elegir entre ellas. Sí importa después, al comprar los discos de repuesto: tienen que ser de 115 mm.` },
+      { question: `¿Cuánto pesa una amoladora angular?`, answer: `De las seis de esta guía, cinco declaran peso y van de 1,5 a 2,1 kg. La diferencia parece chica en papel pero se siente: la herramienta se sostiene con las dos manos a la altura del pecho, así que 600 gramos cambian bastante el cansancio en una jornada larga.` },
+      { question: `¿Qué protecciones conviene que traiga?`, answer: `Es el campo peor cubierto del rubro. De las tres que declaran protección contra sobrecarga, solo la Gamma G1910KAR dice traerla. De las tres que declaran mango anti-vibración, solo la Bosch GWS 700 dice traerlo. Varias directamente no publican estos campos, así que conviene chequearlo en la ficha antes de comprar en vez de darlo por hecho.` },
+      { question: `¿Sirve una amoladora barata para uso profesional?`, answer: `Para uso sostenido, no. La más barata de esta comparativa declara 500 W, y sobre la Kommberg de 750 W una de sus propias opiniones advierte que se recalienta y que es para uso puntual. Si la vas a usar varias horas seguidas, conviene mirar los modelos de 770 a 820 W, que además tienen historiales de opiniones mucho más grandes.` },
+    ],
+    internalLinks: [
+      { label: "Hidrolavadora: cuál comprar", href: "/guias/hogar-jardin/hidrolavadora" },
+      { label: "Bordeadora eléctrica: cuál comprar", href: "/guias/hogar-jardin/bordeadora-electrica" },
+      { label: "Cortadora de césped: cuál comprar", href: "/guias/hogar-jardin/cortadora-de-cesped" },
+    ],
+    internalLinksTitle: "Más herramientas",
+  },
+  {
+    slug: "motosierra",
+    category: "motosierras",
+    silo: "hogar-jardin",
+    pillar: true,
+    title: `Motosierra: cuál comprar en Argentina [2026]`,
+    seoTitle: `Motosierra: Cuál Comprar en Argentina [2026]`,
+    metaDescription: `Comparamos 6 motosierras reales de MercadoLibre: las de nafta traen 50 cm de espada y las de batería entre 10 y 18. No son la misma herramienta.`,
+    ogTitle: `Motosierra: cuál comprar en Argentina`,
+    ogDescription: `6 motosierras comparadas por espada, peso, autonomía y respaldo real. La más cara del grupo es a batería y trae una cuarta parte de espada que una de nafta más barata.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_876468-MLA99498934994_112025-O.webp`,
+    h1: `Motosierra: cuál comprar en Argentina y qué mirar antes [2026]`,
+    directAnswer: `Primero decidí el tipo, no el precio. Si vas a **cortar leña o troncos**, necesitás nafta: la **[Omaha Tools MS58](/producto/motosierra-a-nafta-omaha-tools-ms58-58-cc-3-5-hp-antivibracion-mla34133812)** trae 58 cc y espadas compatibles de 50,8 cm. Si vas a **podar en el patio**, alcanza una a batería: la **[Lusqtoff GP40-7BK](/producto/mini-electrosierra-lusqtoff-gp40-7bk-1-4-kilos-la-mas-liviana-mla49090527)** es la más elegida del grupo y pesa 1,4 kg. Elegir mal de tipo no se arregla pagando más.`,
+    publishedDate: "2026-12-07",
+    updatedDate: "2026-12-07",
+    hasDisclosure: true,
+    readingTime: 11,
+    standfirst: `Una motosierra va de {{precio:MLA68340924:k}} a {{precio:MLA37011151:k}}. Comparamos 6 modelos reales de MercadoLibre Argentina y el primer hallazgo ordena todo lo demás: **las de nafta traen 50 cm de espada y las de batería entre 10 y 18. No son la misma herramienta.**`,
+    quickPicks: [
+      { productMlaId: "MLA49090527", label: "La más elegida", labelColor: "amber", tagline: "Lusqtoff GP40-7BK: más de 5.800 opiniones y 1,4 kg" },
+      { productMlaId: "MLA34133812", label: "La más grande", labelColor: "purple", tagline: "Omaha Tools MS58: 58 cc y espadas compatibles de 50,8 cm, para leña" },
+      { productMlaId: "MLA68340924", label: "La más barata", labelColor: "blue", tagline: "Omaha OREBRO: para ramas finas del patio" },
+      { productMlaId: "MLA37011151", label: "La mejor nota", labelColor: "green", tagline: "Lusqtoff MML40-9BK: la única con ajuste automático de cadena" },
+    ],
+    intro: [
+      `Elegir una **motosierra** parece una decisión de potencia y en realidad es una sola pregunta previa: **¿leña o poda?** Porque en este rubro hay dos herramientas distintas vendiéndose bajo el mismo nombre, y el número que las separa no es el precio ni los caballos: es **el largo de la espada**.`,
+      `Comparamos 6 motosierras reales de MercadoLibre Argentina y verificamos, una por una, qué declara su ficha técnica. Las de nafta traen **50 cm** de espada. Las de batería, **entre 10 y 18 cm**. Es entre casi tres y cinco veces de diferencia, y explica por qué comprar la equivocada no se arregla gastando más.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_876468-MLA99498934994_112025-O.webp", alt: `Motosierra a nafta con espada larga y freno de cadena` },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Si no querés leer toda la comparativa: para **poda de patio**, la **[Lusqtoff GP40-7BK](/producto/mini-electrosierra-lusqtoff-gp40-7bk-1-4-kilos-la-mas-liviana-mla49090527)** es la más elegida del grupo con **{{reviews:MLA49090527}} opiniones** y pesa 1,4 kg. Para **leña**, la **[Omaha Tools MS58](/producto/motosierra-a-nafta-omaha-tools-ms58-58-cc-3-5-hp-antivibracion-mla34133812)** con 58 cc y 50,8 cm de espada. No son intercambiables.` },
+
+      { type: "callout", calloutVariant: "warning", calloutTitle: "Pagar más no te da más espada", content: `Este es el dato que ordena la guía. La **más cara de las seis es a batería**: sale **{{precio:MLA37011151}}** y trae **12,7 cm de espada**. La **Omaha MS58 a nafta sale menos** y trae **50,8 cm**, cuatro veces más. Si tu problema es leña, subir de precio dentro de las eléctricas no lo resuelve: hay que cambiar de tipo.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** partimos de la categoría de motosierras de MercadoLibre Argentina y verificamos cada publicación en vivo el 2026-08-18: precio, stock, ficha técnica campo por campo y reseñas de compradores. Miramos cinco campos que deciden la compra: **largo de espada**, **tipo de alimentación**, **peso**, **qué protecciones declara** y **respaldo de opiniones**. Este rubro tiene un problema serio de fichas mal cargadas: **cuatro de las seis publican al menos un número imposible** para una motosierra. Cuando pasa eso lo decimos y no comparamos ese campo, en vez de repetir un dato que no cierra. Cuando algo sale de una reseña y no de la ficha, también lo aclaramos.` },
+
+      { type: "h2", title: `Los cinco datos que deciden la compra`, id: "que-mirar" },
+      { type: "p", content: `**Largo de la espada.** El dato que define qué podés cortar, y el que más se ignora. Ojo con un detalle: las cuatro a batería declaran el largo de la espada que traen puesta, mientras que **las dos a nafta declaran el largo de espadas que admiten**, que no es exactamente lo mismo. Acá va de **10,16 a 50,8 cm**. Regla práctica: la espada tiene que ser más larga que el diámetro de lo que vas a cortar. Con 15 cm hacés ramas; con 50 cm hacés troncos.` },
+      { type: "p", content: `**Nafta o batería.** No es una preferencia, es el uso. Nafta: más espada, autonomía por tanque, más peso y ruido, mantenimiento de mezcla. Batería: arranca apretando un botón, liviana, silenciosa, y limitada por autonomía y por espada corta.` },
+      { type: "p", content: `**Peso.** De las seis, **cinco lo declaran** y van de **1,4 a 6,5 kg**. La diferencia es casi cinco veces. Una de poda se sostiene con el brazo estirado y arriba de la cabeza, así que cada kilo se paga en cansancio.` },
+      { type: "p", content: `**Protecciones declaradas.** Es el campo peor cubierto del rubro: cada ficha publica un subconjunto distinto. De las cuatro que declaran sistema antivibración, **solo una dice traerlo**. Y una sola de las seis declara ajuste automático de cadena.` },
+      { type: "p", content: `**Respaldo de opiniones.** Van de poco más de 70 a más de 5.800. En una herramienta que puede lastimar, el historial de compradores pesa más que en cualquier electrodoméstico.` },
+
+      { type: "h2", title: `Comparativa de las 6 motosierras`, id: "comparativa" },
+      { type: "table", headers: ["Modelo", "Precio", "Tipo", "Espada", "Peso", "Opiniones", "Nota"], rows: [
+        [`[Omaha OREBRO MSB-12](/producto/electrosierra-omaha-orebro-msb-12-bateria-espada-de-10-cm-mla68340924)`, "{{precio:MLA68340924}}", "Batería 21 V", "10,16 cm", "No declarado", "{{reviews:MLA68340924}}", "{{rating:MLA68340924}}"],
+        [`[Delhi DL-008](/producto/motosierra-a-bateria-delhi-dl-008-espada-de-18-cm-1-9-kilos-mla62981408)`, "{{precio:MLA62981408}}", "Batería 21 V", "18 cm", "1,9 kg", "{{reviews:MLA62981408}}", "{{rating:MLA62981408}}"],
+        [`[Lusqtoff GP40-7BK](/producto/mini-electrosierra-lusqtoff-gp40-7bk-1-4-kilos-la-mas-liviana-mla49090527)`, "{{precio:MLA49090527}}", "Batería 18 V", "15 cm", "1,4 kg", "{{reviews:MLA49090527}}", "{{rating:MLA49090527}}"],
+        [`[Lusqtoff PROM-52GC](/producto/motosierra-a-nafta-lusqtoff-prom-52gc-52-cc-2-5-hp-espada-de-50-cm-mla35358481)`, "{{precio:MLA35358481}}", "Nafta 52 cc", "50 cm", "6,5 kg", "{{reviews:MLA35358481}}", "{{rating:MLA35358481}}"],
+        [`[Omaha Tools MS58](/producto/motosierra-a-nafta-omaha-tools-ms58-58-cc-3-5-hp-antivibracion-mla34133812)`, "{{precio:MLA34133812}}", "Nafta 58 cc", "50,8 cm", "6 kg", "{{reviews:MLA34133812}}", "{{rating:MLA34133812}}"],
+        [`[Lusqtoff MML40-9BK](/producto/electrosierra-a-bateria-lusqtoff-mml40-9bk-18-v-ajuste-automatico-de-cadena-mla37011151)`, "{{precio:MLA37011151}}", "Batería 18 V", "12,7 cm", "3,6 kg", "{{reviews:MLA37011151}}", "{{rating:MLA37011151}}"],
+      ] },
+
+      { type: "h2", title: `Las 6 motosierras, una por una`, id: "ranking" },
+
+      { type: "h3", title: `1. Lusqtoff GP40-7BK` },
+      { type: "product-card", productMlaId: "MLA49090527", label: "La más elegida", labelColor: "amber", ranking: 1, description: "Más de 5.800 opiniones, por lejos el mayor respaldo del grupo, y 1,4 kg: el peso más bajo de las cinco que lo declaran." },
+      { type: "p", content: `Es **la más elegida de esta comparativa por muchísima diferencia**, con **{{reviews:MLA49090527}} opiniones**, y **la más liviana de las cinco que declaran peso** con **1,4 kg**. En una herramienta que se sostiene con el brazo estirado, ese número es el que decide cuánto aguantás podando.` },
+      { type: "p", content: `Espada de **15 cm** y freno de seguridad declarado. No trae **lubricación automática**, así que la cadena se aceita a mano. Una opinión con 4 de 5 pone el límite honesto: la usó una hora diaria durante diez días y le pareció excelente para **ramas de dureza mediana**, con la duda puesta en cuánto dura el filo.` },
+
+      { type: "h3", title: `2. Omaha Tools MS58` },
+      { type: "product-card", productMlaId: "MLA34133812", label: "La más grande", labelColor: "purple", ranking: 2, description: "58 cc, 3,5 HP y espada de 50,8 cm, los tres valores más altos del grupo. La única de las cuatro que declaran el campo que dice traer antivibración." },
+      { type: "p", content: `Si el plan es **leña**, esta es la de esta comparativa: **58 cc**, **3,5 HP** y **espadas compatibles de 50,8 cm**, la medida más grande del grupo. Es además **la única de las cuatro que declaran el campo que dice traer sistema antivibración**, que en una jornada larga se siente en las manos.` },
+      { type: "p", content: `Su ficha admite **4 horas de uso diario** y declara **115 dBA**, así que la protección auditiva no es opcional. Una opinión con 4 de 5 la resume sin vueltas: por ser china **le sobra fuerza**, y avisa que en los primeros cortes hay que **regular el tensado de la cadena**. Otra cuenta que es la segunda unidad que compra, para leña de estufa.` },
+
+      { type: "h3", title: `3. Lusqtoff MML40-9BK` },
+      { type: "product-card", productMlaId: "MLA37011151", label: "La mejor nota", labelColor: "green", ranking: 3, description: "La nota más alta de esta comparativa y la única del grupo que declara ajuste automático de cadena. También la más cara." },
+      { type: "p", content: `Tiene **la nota más alta de esta comparativa** sobre **{{reviews:MLA37011151}} opiniones**, y es **la única del grupo que declara ajuste automático de la cadena**, que le saca de encima al usuario la parte más molesta del mantenimiento. Viene con dos baterías, cadena de repuesto, lubricante y maletín.` },
+      { type: "p", content: `El dato que hay que mirar de frente: es **la más cara de las seis** y su espada mide **12,7 cm**, así que **sale más que las dos a nafta y trae una fracción de la espada**. Eso no la hace mala, la hace específica. Una opinión cuenta que cortaron **troncos de hasta 30 cm de diámetro** y otra que **cada batería dura unas 3 horas con uso intenso**.` },
+
+      { type: "h3", title: `4. Lusqtoff PROM-52GC` },
+      { type: "product-card", productMlaId: "MLA35358481", label: "La nafta de entrada", labelColor: "slate", ranking: 4, description: "52 cc y espadas compatibles de 50 cm por menos que la electrosierra más cara del grupo. Una opinión publicada cuestiona que sea de la marca." },
+      { type: "p", content: `Es la puerta de entrada a la nafta: **52 cc, 2,5 HP y espadas compatibles de 50 cm**, casi tres veces la espada de la más larga a batería, y sale menos que la electrosierra más cara del grupo. Declara **lubricación automática**. Su propia ficha la ubica en **uso doméstico**, y conviene tomarlo en serio.` },
+      { type: "p", content: `Con **6,5 kg** es **la más pesada de las cinco que declaran peso**. Y acá va lo que no vamos a esconder, porque sale de un comprador: **una opinión publicada afirma que no es marca Lusqtoff**. No lo podemos verificar desde acá, pero está dicho por alguien que la compró. Otra, entusiasta, cuenta que cortaron un sauce trabajando cuatro horas sin problemas.` },
+
+      { type: "h3", title: `5. Delhi DL-008` },
+      { type: "product-card", productMlaId: "MLA62981408", label: "Más espada a batería", labelColor: "green", ranking: 5, description: "18 cm de espada, la más larga de las cuatro a batería, con lubricación automática y freno de seguridad declarados." },
+      { type: "p", content: `Entre las de batería es la que más espada ofrece: **18 cm**, la más larga de las cuatro a batería del grupo, con **1,9 kg**. Declara **lubricación automática** y **freno de seguridad**, y publica algo que casi nadie publica: **1 hora de uso máximo diario**. Ese número ordena expectativas mejor que cualquier promesa.` },
+      { type: "p", content: `Lo que juega en contra: es **la de nota más baja de esta comparativa** y la de **respaldo más chico**, con {{reviews:MLA62981408}} opiniones. Su ficha además declara un nivel sonoro imposible para una motosierra, así que no lo usamos. Una opinión aporta un detalle práctico de armado: **la cadena va con la punta de los dientes hacia adelante**.` },
+
+      { type: "h3", title: `6. Omaha OREBRO MSB-12` },
+      { type: "product-card", productMlaId: "MLA68340924", label: "La más barata", labelColor: "blue", ranking: 6, description: "La más barata del grupo y la de espada más corta, con 10,16 cm. Para ramas finas del patio." },
+      { type: "p", content: `Es **la más barata de esta comparativa** y **la de espada más corta**, con **10,16 cm**. Las dos cosas van juntas: es para poda de ramas finas, y punto. Una opinión marca el techo real mejor que la ficha: podó un naranjo entero con dos baterías y **se la banca bien con ramas de 5 a 8 cm**.` },
+      { type: "p", content: `No trae **lubricación automática** y **no declara peso**, así que en ese campo no se la puede comparar con el resto. Su potencia declarada también es un valor imposible, y preferimos decirlo antes que repetirlo. Con {{reviews:MLA68340924}} opiniones es el segundo respaldo más chico del grupo.` },
+
+      { type: "h2", title: `Qué motosierra comprar según para qué`, id: "como-elegir" },
+      { type: "p", content: `**Para cortar leña o troncos.** Necesitás nafta, no hay vuelta. La [Omaha Tools MS58](/producto/motosierra-a-nafta-omaha-tools-ms58-58-cc-3-5-hp-antivibracion-mla34133812) con 58 cc y espadas de hasta 50,8 cm es la más capaz del grupo; la [Lusqtoff PROM-52GC](/producto/motosierra-a-nafta-lusqtoff-prom-52gc-52-cc-2-5-hp-espada-de-50-cm-mla35358481) es la entrada más barata a esa categoría.` },
+      { type: "p", content: `**Para podar en el patio.** Con una a batería alcanza y sobra. La [Lusqtoff GP40-7BK](/producto/mini-electrosierra-lusqtoff-gp40-7bk-1-4-kilos-la-mas-liviana-mla49090527) es la más elegida y la más liviana de las cinco que declaran peso; la [Omaha OREBRO](/producto/electrosierra-omaha-orebro-msb-12-bateria-espada-de-10-cm-mla68340924) es la más barata si las ramas son finas.` },
+      { type: "p", content: `**Si vas a estar mucho rato con ella en alto.** Mirá el peso antes que la espada: hay casi cinco veces de diferencia entre la más liviana y la más pesada de las cinco que lo declaran.` },
+      { type: "p", content: `**Si querés lo mejor dentro de las eléctricas.** La [Lusqtoff MML40-9BK](/producto/electrosierra-a-bateria-lusqtoff-mml40-9bk-18-v-ajuste-automatico-de-cadena-mla37011151) tiene la mejor nota del grupo y es la única que declara ajuste automático de cadena. Pagás más que por una de nafta, sabiendo que la espada es mucho más corta.` },
+
+      { type: "callout", calloutVariant: "warning", calloutTitle: "Cuatro de las seis fichas traen un número imposible", content: `Es el rubro con las fichas peor cargadas que comparamos. Dos declaran una potencia de un solo dígito de watts, que confunde el dato con el voltaje de la batería. Otra declara un nivel sonoro que corresponde a una habitación en silencio, no a una motosierra. Y otra declara una velocidad máxima de dos cifras cuando debería ser de miles. **Ninguno de esos cuatro números lo publicamos como dato bueno**, y tampoco les inventamos el valor correcto: los dejamos afuera de la comparación y lo decimos.` },
+
+      { type: "verdict", content: `No hay una sola ganadora porque no hay una sola herramienta. Si el trabajo es **leña**, la **[Omaha Tools MS58](/producto/motosierra-a-nafta-omaha-tools-ms58-58-cc-3-5-hp-antivibracion-mla34133812)**: 58 cc, la espada más larga del grupo y la única de las cuatro que declaran el campo que dice traer antivibración, sabiendo que declara 115 dBA y pide protección auditiva. Si el trabajo es **poda**, la **[Lusqtoff GP40-7BK](/producto/mini-electrosierra-lusqtoff-gp40-7bk-1-4-kilos-la-mas-liviana-mla49090527)**: la más elegida por lejos, 1,4 kg, y suficiente para ramas de dureza mediana. Lo que no recomendamos es comprar una eléctrica cara esperando que reemplace a una de nafta: **la más cara de esta comparativa trae una cuarta parte de la espada de la MS58**.` },
+    ],
+    faq: [
+      { question: `¿Qué motosierra conviene comprar en Argentina?`, answer: `Depende de para qué. Para leña o troncos necesitás nafta: la [Omaha Tools MS58](/producto/motosierra-a-nafta-omaha-tools-ms58-58-cc-3-5-hp-antivibracion-mla34133812) trae 58 cc y espadas compatibles de 50,8 cm. Para poda de patio alcanza una a batería: la [Lusqtoff GP40-7BK](/producto/mini-electrosierra-lusqtoff-gp40-7bk-1-4-kilos-la-mas-liviana-mla49090527) es la más elegida de esta comparativa con {{reviews:MLA49090527}} opiniones. Elegir mal el tipo no se arregla pagando más.` },
+      { question: `¿Motosierra a nafta o a batería?`, answer: `La diferencia real está en la espada. Las dos de nafta de esta guía traen 50 y 50,8 cm; las cuatro a batería, entre 10,16 y 18 cm. La nafta te da espada y autonomía por tanque, a cambio de peso, ruido y mantenimiento de mezcla. La batería arranca con un botón, pesa mucho menos y es silenciosa, pero está limitada por autonomía y por espada corta.` },
+      { question: `¿Qué largo de espada necesito?`, answer: `La regla práctica es que la espada sea más larga que el diámetro de lo que vas a cortar. Con 10 a 18 cm, que es el rango de las de batería de esta guía, hacés ramas: una opinión de la más barata cuenta que se la banca bien con ramas de 5 a 8 cm. Para troncos hay que ir a las de 50 cm, que en este grupo son las dos a nafta.` },
+      { question: `¿Cuánto pesa una motosierra?`, answer: `De las seis de esta guía, cinco declaran peso y van de 1,4 a 6,5 kg, casi cinco veces de diferencia. Las de poda a batería están abajo y las de nafta arriba. Si vas a trabajar con los brazos en alto durante un rato largo, el peso importa más que los caballos.` },
+      { question: `¿Qué seguridad conviene que traiga?`, answer: `Es el campo peor cubierto del rubro, porque cada ficha publica un subconjunto distinto. De las cuatro que declaran sistema antivibración, solo la Omaha MS58 dice traerlo. Varias declaran freno de seguridad o freno de cadena. Y la MS58 declara 115 dBA, así que la protección auditiva es obligatoria en las de nafta.` },
+      { question: `¿Se puede confiar en las fichas técnicas de MercadoLibre?`, answer: `En este rubro, no del todo, y conviene saberlo. De las seis motosierras que comparamos, cuatro publican al menos un número imposible: dos declaran potencias de un dígito de watts confundiendo el dato con el voltaje de la batería, una declara un nivel sonoro de habitación en silencio y otra una velocidad máxima de dos cifras. Cuando encontramos un dato así lo decimos y no lo usamos para comparar, en vez de repetirlo.` },
+    ],
+    internalLinks: [
+      { label: "Bordeadora eléctrica: cuál comprar", href: "/guias/hogar-jardin/bordeadora-electrica" },
+      { label: "Cortadora de césped: cuál comprar", href: "/guias/hogar-jardin/cortadora-de-cesped" },
+      { label: "Amoladora angular: cuál comprar", href: "/guias/hogar-jardin/amoladora" },
+    ],
+    internalLinksTitle: "Más para el jardín",
+  },
 ];
 
 /**
@@ -26495,7 +27203,7 @@ export const guideSilos: Record<string, { name: string; description: string }> =
   },
   hogar: {
     name: "Hogar",
-    description: "Aspiradoras robot y otros equipos para mantener la casa limpia sin esfuerzo.",
+    description: "Secarropas, aspiradoras robot y otros equipos que resuelven el trabajo de la casa sin esfuerzo.",
   },
   climatizacion: {
     name: "Climatización",
@@ -26581,10 +27289,40 @@ export const guideCategories: Record<string, { name: string; description: string
     description:
       "Calefactores a leña comparados por precio por caloría: cuánto sale de verdad la salida de humos, qué caños pide cada marca y quién declara el tipo de combustión.",
   },
+  "hidrolavadoras": {
+    name: "Guía de Hidrolavadoras",
+    description:
+      "Hidrolavadoras comparadas por lo que decide el uso real: presión en bar, caudal en litros por minuto, peso, largo de manguera y si traen ruedas.",
+  },
+  "motosierras": {
+    name: "Guía de Motosierras",
+    description:
+      "Motosierras comparadas por lo que decide el uso real: largo de espada, nafta o batería, peso, protecciones declaradas y respaldo de opiniones.",
+  },
+  "amoladoras": {
+    name: "Guía de Amoladoras",
+    description:
+      "Amoladoras angulares comparadas por lo que decide el uso real: potencia, velocidad, peso, respaldo de opiniones y qué protecciones declara cada ficha.",
+  },
   "bordeadoras": {
     name: "Guía de Bordeadoras",
     description:
       "Bordeadoras eléctricas comparadas por lo que decide el uso real: potencia, ancho de corte, peso, ruido declarado y si traen arnés o hay que comprarlo aparte.",
+  },
+  heladeras: {
+    name: "Guía de Heladeras",
+    description:
+      "Heladeras no frost comparadas por lo que decide el uso real: eficiencia energética declarada, litros, tecnología inverter, respaldo de opiniones y medidas.",
+  },
+  lavarropas: {
+    name: "Guía de Lavarropas",
+    description:
+      "Lavarropas automáticos comparados por lo que decide el uso real: capacidad, eficiencia energética declarada, revoluciones de centrifugado, programas y medidas reales.",
+  },
+  secarropas: {
+    name: "Guía de Secarropas",
+    description:
+      "Secarropas centrífugos comparados por lo que decide el uso real: capacidad de ropa mojada declarada, precio, altura, peso y respaldo de opiniones.",
   },
   "cortadoras-de-cesped": {
     name: "Guía de Cortadoras de Césped",

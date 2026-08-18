@@ -250,3 +250,53 @@ Con volumen verificado y canibalización limpia, faltando góndola y SD en todos
 
 Descartados por ahora: cinta de correr (fragmentada), taladro percutor (5.400, el más chico),
 parrilla a gas (2.400 y roce con `parrilla-electrica`).
+
+---
+
+## Iteración 3 — 2026-08-18
+
+**Publicada `hidrolavadora`** (40.500/mes), STAGED al 2026-11-23, silo `hogar-jardin`,
+6 fichas nuevas, GO de los dos auditores. Con esto el top 3 de jardín queda cerrado:
+bordeadora, cortadora e hidrolavadora.
+
+### Hallazgo de método: cómo verificar góndola cuando el listado no renderiza
+
+El 2026-08-18 el listado de ML seguía sin renderizar: `listado.mercadolibre.com.ar/<query>`
+carga el HTML pero se queda en 919 caracteres, cero productos, con el progressbar colgado.
+Pedir el HTML del servidor tampoco sirve: devuelve el shell, sin productos.
+
+**Lo que SÍ funciona: la ruta `/mas-vendidos/<CATEGORIA>`.** Renderiza y devuelve URLs de
+catálogo `/p/MLA` reales. Así se verificó la góndola de hidrolavadoras, que resultó tener
+categoría propia (`MLA30840`) con filtros de marca.
+
+Ruta para llegar a la categoría: `mas-vendidos/` → categoría madre → subcategoría.
+Para hidrolavadoras fue MLA407134 (Herramientas) → MLA5228 (Herramientas Eléctricas) →
+MLA455279 (Limpieza) → **MLA30840 (Hidrolavadoras)**.
+
+### Límite importante de ese método (no confundirlo con "no hay góndola")
+
+`/mas-vendidos` muestra un **top curado, no el catálogo completo**. Sirve como piso, nunca
+como conteo. Concretamente: para "hidrolavadora inalámbrica" aparecieron 4 fichas y para
+"hidrolavadora Karcher" apareció 1. **Eso NO significa que la góndola sea flaca**: significa
+que son *recortes por atributo o marca dentro* de una categoría, y el top de la categoría
+no los lista a todos.
+
+Es el mismo error de inferencia que casi hace descartar heladeras: confundir "la herramienta
+que uso no me los muestra" con "no existen".
+
+### Consecuencia para elegir el próximo rubro
+
+**Priorizar rubros que tengan categoría propia en MercadoLibre**, porque ahí `/mas-vendidos`
+da una verificación limpia. Los recortes por atributo (inalámbrica, a batería) o por marca
+(Karcher) quedan bloqueados hasta que el listado vuelva a renderizar, o hasta encontrar otra
+forma de enumerar la categoría completa.
+
+- `hidrolavadora inalámbrica` (6.600/mes, Keyword Planner confirmado, canibalización limpia)
+  → EN ESPERA por góndola no verificable, no por falta de demanda.
+- `hidrolavadora Karcher` (5.400/mes, canibalización limpia) → misma espera.
+
+### Deuda pendiente que arrastra de la iteración anterior
+
+- **cochecito de bebé**: se descartó con el método flojo (WebSearch sin `/p/MLA`). Hay que
+  rechequearlo por navegador antes de darlo por muerto.
+- **pileta de lona**: 90.500/mes en diciembre. Retomar fines de septiembre de 2026.
