@@ -180,9 +180,10 @@ Este comando corre, en orden, y para en el primero que falle:
    muy por debajo de la SX37 (8.606)      → muy por debajo de la SX37 ({{reviews:ID}})
    ```
 
-   Las tres primeras las frena `check-hardcoded-reviews.cjs`. La cuarta (el
-   conteo entre paréntesis después del nombre) todavía no: si la escribís,
-   nadie te avisa.
+   Las cuatro las frena `check-hardcoded-reviews.cjs`. Las dos últimas piden
+   además una palabra de reseñas cerca, porque la forma sola es ambigua: "las
+   300 del Känn Livet" son kilos y "las 980 del álbum" son figuritas. Si escribís
+   una comparación de reseñas sin nombrarlas, el trinquete no la va a ver.
 
    **Los títulos `h2`/`h3` NO resuelven tokens.** `GuideRenderer` renderiza
    `section.title` crudo y `slug.ts` arma el ancla con ese texto, así que un

@@ -2453,7 +2453,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
 
       { type: "h3", title: `3. Aiwa AW-T2018R — la premium` },
       { type: "product-card", productMlaId: "MLA20012498", label: "La premium", labelColor: "purple", ranking: 3, description: `Torre con más prestaciones: bluetooth, entrada auxiliar y función power bank. 4.7 estrellas en 332 calificaciones.` },
-      { type: "p", content: `Es la opción con más prestaciones del grupo. La Aiwa suma sobre las otras la función **power bank** (carga el celular) y la marca, a un precio más alto (alrededor de $291.000). Tiene menos opiniones que la Noblex y la JVC (332), así que la base de validación es más chica, pero positivas. La elegís si valorás la marca Aiwa y los extras; si no, la Noblex da casi lo mismo por menos.` },
+      { type: "p", content: `Es la opción con más prestaciones del grupo. La Aiwa suma sobre las otras la función **power bank** (carga el celular) y la marca, a un precio más alto (alrededor de $291.000). Tiene menos opiniones ({{reviews:MLA20012498}}) que la Noblex y la JVC, así que la base de validación es más chica, pero positivas. La elegís si valorás la marca Aiwa y los extras; si no, la Noblex da casi lo mismo por menos.` },
 
       { type: "h2", title: `Tabla comparativa: las tres torres`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Extra`, `Ideal para`], rows: [

@@ -19,16 +19,18 @@
  * siguen siendo verdad cuando el conteo sube, y no hay que tokenizarlos.
  *
  * El conteo no es solo "numero + palabra de reseñas". Al 2026-08-17 se sumaron
- * tres familias mas que envejecen igual de mal y se le escapaban al trinquete:
+ * cuatro familias mas que envejecen igual de mal y se le escapaban al trinquete:
  *
  *   - "los 7.137 compradores"        (la palabra es compradores, no opiniones)
  *   - "68 opiniones contra 3.846"    (el SEGUNDO numero de una comparacion)
  *   - "las 6.131 de la Escorial"     (el numero queda suelto, sin la palabra)
+ *   - "de la Overtech (18.746)"      (el conteo entre parentesis)
  *
- * La tercera es la delicada: "las 300 del Kann Livet" tambien son kilos y "las
- * 980 del album" tambien son figuritas. Por eso no alcanza la forma, y se pide
- * ademas una palabra de reseñas cerca (VENTANA chars antes). Es el precio de no
- * llenar el baseline de falsos positivos que despues nadie sabe si son deuda.
+ * Las dos ultimas son las delicadas: "las 300 del Kann Livet" tambien son kilos
+ * y "las 980 del album" tambien son figuritas. Por eso no alcanza la forma, y se
+ * pide ademas una palabra de reseñas cerca (VENTANA chars antes). Es el precio
+ * de no llenar el baseline de falsos positivos que despues nadie sabe si son
+ * deuda.
  *
  * Cuando cambian los PATRONES hay que subir VERSION. El techo viejo conto otra
  * cosa, asi que deja de ser comparable: con la version cambiada, `--bajar` deja
@@ -53,10 +55,14 @@ const NUM = "([0-9](?:[0-9.]{0,8}[0-9])?)";
 // de …" casi nunca es un conteo de reseñas y sí suele ser otra cosa ("las 3 de
 // esta guía", "no las 8 de la ficha").
 const NUM2 = "([0-9][0-9.]{0,8}[0-9])";
+// Entero con separador de miles y nada mas: "112", "2.663", "11.022". Deja
+// afuera el rating ("4.6": el grupo despues del punto no tiene 3 digitos) y el
+// año suelto ("2026": cuatro digitos sin separador).
+const NUM_ENTERO = "([0-9]{1,3}(?:\\.[0-9]{3})*)";
 
 // Subir cuando cambian los PATRONES: el techo guardado deja de ser comparable
 // con el nuevo conteo y `--bajar` habilita UNA recalibracion (ver mas abajo).
-const VERSION = 2;
+const VERSION = 4;
 
 // Cada patron captura en el grupo 1 el numero hardcodeado. `contexto: true`
 // significa que la forma sola es ambigua y hace falta una palabra de reseñas
@@ -72,6 +78,13 @@ const PATRONES = [
   { re: new RegExp(`${PALABRA}\\s+contra\\s+(?:las?|los)?\\s*${NUM}`, "gi") },
   // "las 6.131 de la Escorial", "las 8.942 del Calm", "las 155 de la Devoto"
   { re: new RegExp(`\\blas\\s+${NUM2}\\s+de(?:l|\\s+(?:la|las|los))?\\s+`, "gi"), contexto: true },
+  // "que la G-Blade (1.134)", "vs ATMA (2.368)": el conteo entre parentesis
+  // pegado al nombre del producto, con o sin articulo delante. Usa NUM_ENTERO
+  // para no confundirse con un rating —"Rating (4.6)"— ni con un año —"(2026)".
+  {
+    re: new RegExp(`\\b[A-ZÁÉÍÓÚÜÑ][\\wÁ-Úá-ú/.-]*\\s*\\(${NUM_ENTERO}\\)`, "g"),
+    contexto: true,
+  },
 ];
 
 // "mas de 4.100 opiniones" y amigos: aproximados a proposito, no son deuda.

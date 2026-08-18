@@ -143,7 +143,14 @@ export default async function ProductPage({ params }: Props) {
   const detailProduct = {
     ...product,
     articleBody: product.articleBody ? injectLivePrices(product.articleBody) : product.articleBody,
-    faq: product.faq?.map((f) => ({ ...f, answer: injectLivePrices(f.answer) })),
+    // La PREGUNTA también: "¿Es confiable comprar con solo {{reviews:…}}
+    // calificaciones?" es un patrón normal del contenido, y sin resolver salía
+    // el token literal en el acordeón y en el FAQPage del JSON-LD.
+    faq: product.faq?.map((f) => ({
+      ...f,
+      question: injectLivePrices(f.question),
+      answer: injectLivePrices(f.answer),
+    })),
     description: product.description ? injectLivePrices(product.description) : product.description,
     verdict: product.verdict ? injectLivePrices(product.verdict) : product.verdict,
     pros: product.pros?.map((p) => injectLivePrices(p)),
