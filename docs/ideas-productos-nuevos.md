@@ -4,6 +4,80 @@
 > MercadoLibre, de la corrida semanal automática. Generador de ideas — no
 > toca el catálogo. Entradas nuevas arriba.
 
+## 2026-08-18
+
+### Freidora de aire (ML) [ml] (15 productos)
+
+- +17.800 seguidores — $104.799 (27% OFF)
+- OFERTA IMPERDIBLE — $143.749
+- ![Freidora De Aire Air Fryer Plus Lite 12 L Easyways Negro](https://http2.mlstatic.com/D_Q_NP_2X_703497-MLA99852528915_112025-E.webp) — $238.347
+- ![](https://http2.mlstatic.com/D_NQ_NP_997355-MLA70516180458_072023-A.webp) — $108.999
+- Llega gratis hoy — $108.999
+- ![Freidora De Aire Philips Na120/00 Negra 4.2l Negro](https://http2.mlstatic.com/D_Q_NP_2X_788252-MLA99975580653_112025-E.webp) — $150.000
+- ![Freidora De Aire Philips Phna23100 13 En 1 6.2 L Negra](https://http2.mlstatic.com/D_Q_NP_2X_698984-MLA99980259093_112025-E.webp) — $217.766
+- ![Freidora De Aire Daewoo Crystal XL Vidrio Daf1891 7lts Color Blanco](https://http2.mlstatic.com/D_Q_NP_2X_615836-MLA95639704224_102025-E.webp) — $363.075
+- Disponible en 2 colores — $128.963
+- ![Airfryer Horno Suono Freidora Aire 18 Programas Digital 45l Negro](https://http2.mlstatic.com/D_Q_NP_2X_777529-MLA99466152560_112025-E.webp) — $658.207
+- Llega gratis mañana — $159.999
+- ![Freidora De Aire Oster Staf11mcddfar 11 Litros Flex Negra - Negro](https://http2.mlstatic.com/D_Q_NP_2X_648342-MLA96919041668_112025-E.webp) — $379.989
+- ![Freidora De Aire 12 Lts Kanji Kjhaf2001 Cye Color Negro](https://http2.mlstatic.com/D_Q_NP_2X_655535-MLA99993473537_112025-E.webp) — $449.999
+- ![Freidora De Aire Digital Oster Con Ventana 7.5 Litros](https://http2.mlstatic.com/D_Q_NP_2X_916718-MLA99505955530_112025-E.webp) — $290.999
+- ![Freidora De Aire Easyways Chic Prime 5.5l Con Visor](https://http2.mlstatic.com/D_Q_NP_2X_955174-MLA103365156010_012026-E.webp) — $139.671
+
+### Aspiradora robot (ML) [ml] (15 productos)
+
+- ![Robot Aspirador Xiaomi Vacuum H40 Bhr07xbeu Blanco](https://http2.mlstatic.com/D_Q_NP_2X_686132-MLA99453318576_112025-E.webp) — $624.900
+- ![Robot Aspirador Conga 2499 Ultra Home Advanced Negro Mopa Negro](https://http2.mlstatic.com/D_Q_NP_2X_936969-MLA99508080322_112025-E.webp) — $435.117
+- OFERTA IMPERDIBLE — $199.999
+- Llega gratis hoy — $353.149
+- ![Kit Repuestos X12 Para Robot Aspirador Xiaomi S40 12-piece Set](https://http2.mlstatic.com/D_Q_NP_2X_967087-CBT110767290220_052026-E.webp) — $29.381
+- ![Xiaomi Robot Vacuum S40 Us Color Blanco](https://http2.mlstatic.com/D_Q_NP_2X_778237-MLA99219066155_112025-E.webp) — $499.999
+- ![Robot Limpia Vidrios Interior Y Exterior Automático Con App](https://http2.mlstatic.com/D_Q_NP_2X_919637-MLA94092343493_102025-E.webp) — $826.679
+- China Internacional China Enviado por FULL — $619.849
+- Llega gratis mañana — $525.999
+- ![Robot Aspirador Xiaomi Robot Vacuum H50 Bhr08gueu Blanco](https://http2.mlstatic.com/D_Q_NP_2X_779219-MLA110348183166_052026-E.webp) — $1.019.999
+- ![Aspiradora Inalámbrica Smart-tek Robot Ava Ultra Wifi](https://http2.mlstatic.com/D_Q_NP_2X_789880-MLA107256325077_022026-E.webp) — $810.999
+- ![De Repuestos Suono Para Aspiradora Robot Basic Color Negro](https://http2.mlstatic.com/D_Q_NP_2X_844835-MLA95958990485_102025-E.webp) — $21.449
+- ![Aspiradora Trapeadora Secadora 3 En 1 Inalámbrica Lulu Ma01 Ecowell](https://http2.mlstatic.com/D_Q_NP_2X_987005-MLA99487272296_112025-E.webp) — $506.835
+- ![Smart-Tek Aspiradora Robot AVA PRO X Mapeo Láser App Control Mopa](https://http2.mlstatic.com/D_Q_NP_2X_753680-MLA99488776802_112025-E.webp) — $659.900
+- ![Aspiradora Robot Con Wifi Smart 115w Midow 3 Modos Con Base Negro](https://http2.mlstatic.com/D_Q_NP_2X_602215-MLA115887267581_082026-E.webp) — $198.865
+
+### Amazon Kitchen & Dining bestsellers [amazon] (15 productos)
+
+- Owala FreeSip Stainless Steel Water Bottle 24 oz Very, Very Dark — US$29.97
+- Bounty Paper Towels Quick Size, White, 16 Family Rolls = 40 Regular Rolls — US$43.49
+- Nespresso Capsules Vertuo, Variety Pack, Medium and Dark Roast Coffee, 30 Count Coffee Pods, Brews 7.8 oz. — US$42.00
+- Bounty Select-A-Size Paper Towels, White, 2 Triple Rolls = 6 Regular Rolls — US$6.97
+- Amazon Basics Everyday Disposable Paper Plates, 8.62 Inch, Microwave-Safe, Cut Resistant, Soak-Proof, 100 Count, Packaging May Vary — US$5.97
+- Dixie Medium Paper Plates, 8.5 Inch, 90 Count, 2X Stronger\*, Microwave-Safe, Soak-Proof, Cut Resistant, Disposable Plates For Everyday Breakfast, Lunch, & Dinner Meals — US$5.99
+- Amazon Basics 2-Ply Flex-Sheets Paper Towels, 12 Basics Rolls = 40 Regular Rolls, Everyday Value with 150 Sheets per Roll, Packaging May Vary — US$22.86
+- Lavazza Super Crema Whole Bean Coffee, Medium Espresso Roast, Arabica and Robusta Blend, 2.2 lb Bag, Package May Vary — US$21.49
+- Brawny Tear-A-Square 3-Ply Paper Towels, 6 Double Rolls = 12 Regular Rolls | Strong, absorbent, and durable to tackle any tough mess — US$10.58
+- Bounty Essentials Select-A-Size Paper Towels, 6 Double Rolls, White, 108 Sheets Per Roll — US$7.97
+- Sparkle Tear-A-Square Paper Towels, 12 Double Rolls - Strong 2-Ply Towels for Kitchen Cleanup and Everyday Messes — US$13.97
+- Bounty Paper Napkins, White, 200 Count, Packaging may vary — US$3.19
+- Nespresso Vertuo, Barista Flavored Pack, Medium Roast, 30-Count Coffee Pods | Capsules Pack of 1 Brews 7.77 Fl. oz. — US$42.00
+- Owala FreeSip Sway Stainless Steel Water Bottle 30 oz Black Cherry — US$34.99
+- Amazon Brand - Happy Belly Dark Roast Coffee Pods, Compatible with Keurig 2.0 K-Cup Brewers, 100 Count — US$33.77
+
+### Amazon Home & Kitchen bestsellers [amazon] (15 productos)
+
+- Owala FreeSip Stainless Steel Water Bottle 24 oz Very, Very Dark — US$29.97
+- Amazon Basics Lightweight Super Soft, Wrinkle-Free, Breathable Luxury Microfiber 4 Piece Bed Sheet Set with 14-Inch Deep Pockets, Full, Dark Gray, Solid — US$14.00
+- Queen Size 4 Piece Sheet Set - Comfy Breathable & Cooling Sheets - White | Hotel Luxury Bed Sheets for Women & Men, Deep Pockets, Easy-Fit, Extra Soft and Wrinkle Free Sheets, Oeko-Tex Bed Sheet Set — US$24.99
+- TERRO Liquid Ant Killer Bait Stations, Indoor Ant Traps, T300-2, 12-Pack | Borax Formula, Kills the Queen & the Entire Colony, Liquid Ant Baits Indoor, Kills Household Ants, Indoor Use — US$10.96
+- Amazon Basics Slim Velvet Non-Slip Space Saving Suit Clothes Hangers for Closet Organization, Black/Silver, 30-Pack — US$15.74
+- Zevo Flying Insect Trap Refill Cartridges for Fruit Flies & Gnats, 4 Count | Fits Zevo MAX & Zevo Flying Insect Trap, Catches House Flies, Gnats & Fruit Flies 24/7, No Added Fragrance or Dyes — US$14.97
+- BEDLORE Waterproof Mattress Protector, Queen Size Mattress Pad Noiseless | Deep Pockets Fit 6"-18" Mattresses, Soft Breathable Dirt-proof Bed Mattress Cover Washable for Home, Bedroom, Hotel — US$25.49
+- Niagara Sleep Solution Queen Ultra Soft Mattress Topper — Back Pain Relief | Rayon Derived from Bamboo, 20" Deep Pocket, Naturally Cooling, Pillow Top Mattress Pad, Perfect for Hot Sleepers, Green — US$37.89
+- upsimples 11x14 Picture Frame, Wall Decor Photo Frames, Black 1 Pack | 11 x 14 Frame, 8x10 Frame with Mat for Gallery Wall, Family, Baby, Dog, Dorm, Christmas — US$6.99
+- Zevo Flying Insect Trap for Fruit Flies & Gnats, 1 Plug-in Base & 1 Refills | Catches Fruit Flies & Gnats Near Fruit Bowls & Trash Bins, Spray-Free, Odor-Free, Blue & UV Light Trap, Safe for Kids & Pets\* — US$19.97
+- Barossa Design Oeko-tex Certified Shower Curtain Liner Standard Size, Clear | Waterproof PEVA, Rustproof Grommets, 3 Bottom Magnets, Cute Lightweight Bathroom Curtain, Fits Standard Tub 72" Length — US$8.95
+- BigFoot Clear Shower Curtain - 72x72 Odorless Plastic with Magnets, Washable Long Bathroom Curtain - Premium PEVA Waterproof Bath Curtain, Rust-Proof Bathroom Essentials — US$9.98
+- Queen Sheets Set, 4 Pieces 16" Deep Pocket Hotel Luxury Bed Sheets, Grey | Extra Soft Bedsheet Set, Comfy & Breathable Cooling Sheets, Wrinkle & Fade Resistant, Fitted Sheet, Flat Sheet, 2 Pillowcases — US$13.31
+- OLANLY Bathroom Rugs 30x20, Extra Soft Absorbent Chenille Bath Rugs | Grey, Quick-Drying Rubber Backing, Machine Washable Bath Mat for Bathroom Floor, Tub and Shower, Home Decor Accessories — US$9.47
+- Waterproof Full Size Mattress Protector fits Upto 15" deep Mattresses | Utopia Bedding 200 GSM Soft & Breathable Mattress Cover, Dirt-Proof, Noiseless, Machine Washable Fitted Sheet Style, White — US$18.99
+
 ## 2026-07-08
 
 ### Freidora de aire (ML) [ml] (15 productos)
