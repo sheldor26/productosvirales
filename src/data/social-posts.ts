@@ -289,4 +289,54 @@ export const socialPosts: SocialPost[] = [
     offPct: "43",
     postedAt: "2026-08-18T11:43:29-03:00",
   },
+  {
+    title: "Samsung Galaxy Buds3 Pro Grafito",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_652688-MLA96099645533_102025-F.jpg",
+    affiliateUrl: "https://meli.la/1yLBjSp",
+    newPrice: "299.999",
+    oldPrice: "399.999",
+    offPct: "25",
+    postedAt: "2026-08-18T16:42:50-03:00",
+  },
+  {
+    title: "PC Gamer AMD Ryzen 7 5700G 16GB 480GB SSD",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_877130-MLA105315029264_012026-O.webp",
+    affiliateUrl: "https://meli.la/23NLQnq",
+    newPrice: "743.019",
+    oldPrice: "1.284.452",
+    offPct: "42",
+    postedAt: "2026-08-18T17:09:29-03:00",
+  },
+  {
+    title: "Heladera Conservadora Termolar SUV 20L",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_831093-MLA99997914339_112025-O.webp",
+    affiliateUrl: "https://meli.la/2gnBknm",
+    newPrice: "43.369",
+    oldPrice: "69.950",
+    offPct: "38",
+    postedAt: "2026-08-18T19:58:35-03:00",
+  },
+  {
+    title: "Heladera No Frost Whirlpool WRM42HB 386L",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_769731-MLA89993556970_082025-O.webp",
+    affiliateUrl: "https://meli.la/1xiSyY8",
+    newPrice: "950.899",
+    oldPrice: "1.099.999",
+    offPct: "13",
+    postedAt: "2026-08-18T19:58:35-03:00",
+  },
+  {
+    title: "Monitor Gamer Gigabyte GS34WQC 34 Curvo UWQHD",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_699006-MLA99442569860_112025-F.jpg",
+    affiliateUrl: "https://meli.la/2bxB7q3",
+    newPrice: "919.559",
+    oldPrice: "1.099.999",
+    offPct: "16",
+    postedAt: "2026-08-19T08:23:17-03:00",
+  },
 ];
