@@ -339,4 +339,44 @@ export const socialPosts: SocialPost[] = [
     offPct: "16",
     postedAt: "2026-08-19T08:23:17-03:00",
   },
+  {
+    title: "Balanza Digital Bluetooth Femmto 180kg",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_845343-MLA114064454295_072026-O.webp",
+    affiliateUrl: "https://meli.la/2NHBE7F",
+    newPrice: "13.774",
+    oldPrice: "27.999",
+    offPct: "50",
+    postedAt: "2026-08-20T08:25:22-03:00",
+  },
+  {
+    title: "Masajeador de Pies Shiatsu San-Up ReflexWave",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_923793-MLA87078278911_072025-F.webp",
+    affiliateUrl: "https://meli.la/1UxsxZo",
+    newPrice: "209.999",
+    oldPrice: "375.999",
+    offPct: "44",
+    postedAt: "2026-08-20T08:25:22-03:00",
+  },
+  {
+    title: "Smartwatch JD Venecia Sport",
+    imageUrl:
+      "https://http2.mlstatic.com/D_Q_NP_956541-MLA109309748244_042026-F.webp",
+    affiliateUrl: "https://meli.la/18gQkfQ",
+    newPrice: "39.999",
+    oldPrice: "49.999",
+    offPct: "20",
+    postedAt: "2026-08-20T08:25:22-03:00",
+  },
+  {
+    title: "Cargador Portátil Gadnic 25000mAh",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_781826-MLA81270222720_122024-F.jpg",
+    affiliateUrl: "https://meli.la/1qmUGMT",
+    newPrice: "44.999",
+    oldPrice: "64.999",
+    offPct: "30",
+    postedAt: "2026-08-20T08:25:22-03:00",
+  },
 ];
