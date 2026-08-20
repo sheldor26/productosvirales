@@ -886,3 +886,60 @@ El filtro clasifica en tres:
 ### Lo que queda por chequear del Grupo A
 
 `yara-lattafa-guia-completa`, `bebidas-termicas/termo`, `philips-freidoras-de-aire-review`, `perfumes-arabes-amaderados` y `cocina/yogurtera`. Ninguno se puede recomendar hasta pasarle el filtro.
+
+---
+
+## Tanda 15 — 2026-08-20 · Grupo A completo
+
+Ocho filas, todas con su SERP verificado. **Solo tres eran problema de snippet.**
+
+| Guía | SERP | Veredicto |
+|---|---|---|
+| cocina/yogurtera | editorial | **reescrito** — pero está en posición 9, el margen es chico |
+| yara-lattafa-guia-completa | — | **reescrito** |
+| perfumes-arabes-amaderados | — | **reescrito** |
+| atma-freidoras-de-aire-review | editorial | ya es 2º en clicks de su SERP, poco que ganar |
+| cocina/horno-electrico | editorial | **ranking** (posición 9) |
+| bebidas-termicas/termo | editorial y blando | **ranking** (posición 12) |
+| cocina/tostadora | **tiendas** | muerto, el formato no compite |
+| philips-freidoras-de-aire-review | **tiendas y marca** | muerto |
+
+### Los dos que se caen
+
+**`cocina/tostadora`**: Frávega, MercadoLibre, Megatone, Coto, Naldo, Rodo y dos carruseles. Cero resultados editoriales.
+
+**`philips-freidoras-de-aire-review`**: peor todavía. Para "freidora de aire philips" el SERP es philips.com.ar (1.717 clicks), MercadoLibre (365), Frávega, la tienda oficial de Philips, Megatone, Cetrogar, Carrefour. **Ni un solo resultado editorial en toda la página.**
+
+### `bebidas-termicas/termo`: el SERP más blando que vimos, pero está lejos
+
+1.859 impresiones, 1,51% de CTR, **posición 12**. Sus queries son todas variantes de "mejor termo para mate": intención impecable.
+
+Y el SERP es débil de verdad:
+
+| Pos | Sitio | DA |
+|---:|---|---:|
+| 4 | listado.mercadolibre.com.ar | 88 |
+| 5 | reddit r/yerbamate | 92 |
+| 9 | **elgauchoarg.fr** | **13** |
+| 11 | **yvy-mate.fr** | **22** |
+| **12** | **productosvirales.com.ar** | **1** |
+
+**Dos sitios franceses rankean arriba de un sitio argentino para "el mejor termo para mate".** DA 13 y DA 22. La barrera no es autoridad ni formato: es que está en la posición 12 y hay poco tráfico total en ese SERP (~40 clicks visibles).
+
+### El patrón que cruza todo: el blog de MercadoLibre con contenido viejo
+
+Apareció tres veces en consultas de comparación, justo donde el formato guía sí compite:
+
+| Query | Resultado de ML | Pos | Clicks |
+|---|---|---:|---:|
+| cuál es el mejor horno eléctrico en argentina | "Los 10 mejores hornos eléctricos del **2023**" | 2 | 30 |
+| cuál es la mejor yogurtera en argentina | "Yogurteras más vendidas de **2024**" | 3 | **127** |
+| tostadora de pan | "Tostadoras más vendidas de **2024**" | 11 | 13 |
+
+Son notas de hace dos y tres años ocupando el podio con datos viejos. **Es el competidor más batible que apareció en quince tandas**, y está en el tipo exacto de consulta donde el sitio ya demostró que puede rankear (sexto con DA 1 en perfumes).
+
+### Recomendación final
+
+De ocho filas del Grupo A, **tres ya están reescritas y dos están muertas**. Las tres restantes son de ranking, no de snippet, y en las tres el rival directo es contenido desactualizado del blog de MercadoLibre.
+
+La jugada no es tocar más títulos: es **actualizar y profundizar `cocina/horno-electrico` y `cocina/yogurtera`** para pasar a una nota de ML de 2023-2024 que hoy se lleva 157 clicks entre las dos.

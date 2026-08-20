@@ -15534,6 +15534,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     ogDescription:
       "Lo viste en un reel, no recordás cómo se llama, pero recordás el color. Esta guía lista los perfumes árabes más buscados de Argentina ordenados por color del envase — con nombre exacto, perfil olfativo y precio real.",
     h1: "Perfumes árabes por color del envase: encontrá el frasco viral por su color (2026)",
+    directAnswer: `Si viste un perfume árabe **blanco con detalles dorados**, casi siempre es uno de dos: el **Lattafa Yara Moi**, frasco blanco entero con tapa y detalles metalizados, o el **Lattafa Her Confession**, que se reconoce al toque porque **lleva un busto dorado arriba del frasco**. Si el frasco es **dorado entero**, lo más probable es el Fakhar Gold o el Maahir Legacy. Si es **azul**, el Asad o el Bharara King. Abajo está cada color con su nombre exacto, en qué se diferencian los parecidos y el precio de hoy en Argentina.`,
     publishedDate: "2026-06-01",
     updatedDate: "2026-06-29",
     sitemapLastmod: "2026-07-27",
