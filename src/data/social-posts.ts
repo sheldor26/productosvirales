@@ -389,4 +389,24 @@ export const socialPosts: SocialPost[] = [
     offPct: "12",
     postedAt: "2026-08-20T11:02:56-03:00",
   },
+  {
+    title: "Bloques Magnéticos estilo Minecraft 60 Piezas",
+    imageUrl:
+      "https://http2.mlstatic.com/D_Q_NP_794124-MLA99258855342_112025-F.webp",
+    affiliateUrl: "https://meli.la/1tiWjKH",
+    newPrice: "29.999",
+    oldPrice: "59.999",
+    offPct: "50",
+    postedAt: "2026-08-20T16:59:16-03:00",
+  },
+  {
+    title: "Muñeca Mattel Monster High Draculaura",
+    imageUrl:
+      "https://http2.mlstatic.com/D_Q_NP_753432-MLA96402199741_102025-F.webp",
+    affiliateUrl: "https://meli.la/2pZHtuK",
+    newPrice: "89.990",
+    oldPrice: "149.990",
+    offPct: "40",
+    postedAt: "2026-08-20T16:59:16-03:00",
+  },
 ];
