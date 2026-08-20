@@ -128,6 +128,15 @@
   }
   .bio-cta .arrow { font-size:34px; }
 
+  /* no-discount mode: ver el mismo comentario en threads-post-template.html. */
+  .canvas.no-discount .off-badge,
+  .canvas.no-discount .old-price,
+  .canvas.no-discount .save-pill {
+    display: none;
+  }
+  .canvas.no-discount .new-price { font-size:88px; }
+  .canvas.no-discount .price-row { margin-bottom:24px; }
+
   /* optional occasion sticker (e.g. Día del Niño) — empty token by default, only used when passed.
      Sits in the lower-left of the photo-frame (clear of stock-pill/off-badge above it) — the
      story card is auto-height with no guaranteed gap near the footer, unlike the square post.
@@ -142,7 +151,7 @@
 </style>
 </head>
 <body>
-  <div class="canvas">
+  <div class="canvas __CANVAS_CLASS__">
     <div class="spark" style="top:200px; left:600px; font-size:36px;">&#10022;</div>
     <div class="spark" style="top:850px; left:30px; font-size:26px;">&#10022;</div>
     <div class="spark" style="top:180px; left:850px; font-size:20px;">&#10022;</div>

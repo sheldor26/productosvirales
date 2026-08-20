@@ -116,6 +116,17 @@
   .ml-badge .label { font-size:15px; font-weight:700; color:#999; margin-bottom:1px; }
   .ml-logo { height:58px; }
 
+  /* no-discount mode: for products with no real markdown to show (e.g. a console
+     bundle at list price). Hides the discount circle, crossed-out price and the
+     "Ahorrás" pill instead of showing a dishonest "-0% OFF" / "Ahorrás $0". */
+  .canvas.no-discount .off-badge,
+  .canvas.no-discount .old-price,
+  .canvas.no-discount .save-pill {
+    display: none;
+  }
+  .canvas.no-discount .new-price { font-size:96px; }
+  .canvas.no-discount .price-row { margin-bottom:28px; }
+
   /* optional occasion sticker (e.g. Día del Niño) — empty token by default, only used when passed.
      Sits over the "Disponible en Mercado Libre" badge in the card footer.
      clip-path crops the source PNG down to just the round sticker (no white square frame);
@@ -130,7 +141,7 @@
 </style>
 </head>
 <body>
-  <div class="canvas">
+  <div class="canvas __CANVAS_CLASS__">
     <div class="spark" style="top:150px; left:600px; font-size:40px;">&#10022;</div>
     <div class="spark" style="top:700px; left:30px; font-size:28px;">&#10022;</div>
     <div class="spark" style="top:130px; left:850px; font-size:22px;">&#10022;</div>

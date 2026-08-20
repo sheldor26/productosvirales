@@ -22,10 +22,10 @@ const ML_LOGO_PATH = path.join(__dirname, "..", "public", "logo", "mercadolibre.
 const CHROME_PATH =
   process.env.CHROME_PATH || "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome";
 
-const REQUIRED_FIELDS = [
-  "imgUrl", "badge", "title", "brand", "rating", "sold",
-  "oldPrice", "newPrice", "offPct", "savings",
+const REQUIRED_FIELDS_BASE = [
+  "imgUrl", "badge", "title", "brand", "rating", "sold", "newPrice",
 ];
+const REQUIRED_FIELDS_DISCOUNT = ["oldPrice", "offPct", "savings"];
 
 function escapeHtml(str) {
   return String(str)
@@ -72,7 +72,10 @@ function main() {
     process.exit(1);
   }
 
-  const missing = REQUIRED_FIELDS.filter((f) => !data[f] && data[f] !== 0);
+  const requiredFields = data.noDiscount
+    ? REQUIRED_FIELDS_BASE
+    : [...REQUIRED_FIELDS_BASE, ...REQUIRED_FIELDS_DISCOUNT];
+  const missing = requiredFields.filter((f) => !data[f] && data[f] !== 0);
   if (missing.length) {
     console.error("Faltan campos requeridos:", missing.join(", "));
     process.exit(1);
@@ -87,12 +90,13 @@ function main() {
     __BRAND__: escapeHtml(data.brand),
     __RATING__: escapeHtml(data.rating),
     __SOLD__: escapeHtml(data.sold),
-    __OLD_PRICE__: escapeHtml(data.oldPrice),
+    __OLD_PRICE__: escapeHtml(data.oldPrice || ""),
     __NEW_PRICE__: escapeHtml(data.newPrice),
-    __OFF_PCT__: escapeHtml(data.offPct),
-    __SAVINGS__: escapeHtml(data.savings),
+    __OFF_PCT__: escapeHtml(data.offPct || ""),
+    __SAVINGS__: escapeHtml(data.savings || ""),
     __ML_LOGO__: buildMlLogoDataUri(),
     __STICKER_HTML__: buildStickerHtml(data.sticker),
+    __CANVAS_CLASS__: data.noDiscount ? "no-discount" : "",
   };
 
   for (const [token, value] of Object.entries(replacements)) {
