@@ -943,3 +943,49 @@ Son notas de hace dos y tres años ocupando el podio con datos viejos. **Es el c
 De ocho filas del Grupo A, **tres ya están reescritas y dos están muertas**. Las tres restantes son de ranking, no de snippet, y en las tres el rival directo es contenido desactualizado del blog de MercadoLibre.
 
 La jugada no es tocar más títulos: es **actualizar y profundizar `cocina/horno-electrico` y `cocina/yogurtera`** para pasar a una nota de ML de 2023-2024 que hoy se lleva 157 clicks entre las dos.
+
+---
+
+## Tanda 16 — 2026-08-20 · Guías nuevas: 40 candidatos, 20 validados, 3 escritas
+
+### La regla que sale de acá: el bloque "cómo limpiar / por qué no funciona" está muerto
+
+Se validaron siete consultas de mantenimiento y **cayeron las siete**, por el mismo motivo:
+
+| Consulta | Vol/mes | Por qué se cae |
+|---|---:|---|
+| cómo limpiar el lavarropas | **4.400** | receta fija, AIO en pos 1, 5 bloques antes del 1er orgánico |
+| cómo limpiar horno eléctrico | 1.300 | ídem, y el lector ya tiene el horno |
+| cómo sacar el sarro de la pava | 880 | ídem |
+| por qué el aire acondicionado tira agua | 590 | ídem |
+| cómo sacar el sarro del termo | 590 | ídem |
+| cómo limpiar el filtro del aire | 390 | ídem |
+| por qué la heladera no enfría | 390 | ídem |
+
+**Suman 8.660 búsquedas al mes y no sirve ninguna.** Tres razones que valen como regla general:
+
+1. **La respuesta es una receta idéntica en todos los resultados.** "Ciclo en vacío con vinagre, limpiá el filtro y la goma." No hay tabla, ni cálculo, ni criterio que desempate. Es el caso exacto que el AI Overview se come, y de hecho ya está en posición 1.
+2. **Es intención post-compra.** El lector ya tiene el aparato. Si el ángulo pre-compra ("cuánto consume") rinde 0,47% contra un baseline de 1,50%, el post-compra no tiene por qué rendir mejor: termina explícitamente en no comprar nada, porque lo que se busca es el remedio casero gratis.
+3. **Arriba está el blog del propio MercadoLibre**, más los blogs de Whirlpool y Drean. Competir por autoridad temática de mantenimiento contra el fabricante del electrodoméstico no es una pelea ganable.
+
+**Regla para el backlog:** consultas de mantenimiento y falla se absorben como sección o FAQ dentro de la guía del producto que sí monetiza. Nunca como página propia.
+
+### Deshumidificador: volumen enorme, SERP de góndola
+
+12.100/mes y el mejor ticket visto, pero descartado: MercadoLibre se lleva 4.950 de ~6.500 clicks estimados y hay **tres carruseles de productos** en la página. Es el patrón de tostadora, cámaras y freidora Philips otra vez.
+
+### Las dos que sí pasaron, y están bloqueadas por falta de fichas
+
+**`prensa francesa`** — 8.100/mes. El producto **más vendido de toda la categoría cafeteras es una prensa francesa**, y 10 de los 20 del top lo son. Cero canibalización: hay 12 guías de cafeteras y ninguna la cubre. El eje de decisión que ninguna tienda publica es **vidrio simple vs doble vidrio vs acero térmico**, que decide si el café se enfría en diez minutos.
+**Bloqueante: 0 fichas en el catálogo.**
+
+**`diferencia entre heladera no frost y cíclica`** — 260/mes. SERP editorial, con DA 23, 29 y 37 rankeando. El ángulo es la **brecha de precio en pesos**, que ninguno de los 20 resultados publica.
+**Bloqueante: 6 fichas no frost y 0 cíclicas.** La comparación tendría un solo lado.
+
+### Escritas en esta tanda (STAGED)
+
+| Guía | Sale | Vol/mes |
+|---|---|---:|
+| eau-de-parfum-vs-eau-de-toilette | 2026-09-15 | 480 |
+| papel-aluminio-freidora-de-aire | 2026-09-22 | 880 |
+| lavarropas-carga-frontal-o-superior | 2026-11-16 | 390 |
