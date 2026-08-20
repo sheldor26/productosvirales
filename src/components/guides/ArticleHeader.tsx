@@ -17,10 +17,13 @@ function formatCategory(slug: string): string {
 }
 
 function formatDate(iso: string): string {
+  // Las fechas del contenido son "YYYY-MM-DD" sin hora: new Date() las lee como
+  // medianoche UTC y, renderizadas en horario argentino (UTC-3), caian un dia antes.
   return new Date(iso).toLocaleDateString("es-AR", {
     day: "numeric",
     month: "long",
     year: "numeric",
+    timeZone: "UTC",
   });
 }
 
@@ -96,7 +99,7 @@ export function ArticleHeader({ guide }: ArticleHeaderProps) {
           <span aria-hidden="true" className="text-[var(--text-muted)]">
             ·
           </span>
-          <time dateTime={guide.publishedDate}>
+          <time dateTime={hasUpdate ? guide.updatedDate : guide.publishedDate}>
             {hasUpdate ? "Actualizado " : "Publicado "}
             {formatDate(hasUpdate ? guide.updatedDate : guide.publishedDate)}
           </time>

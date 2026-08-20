@@ -390,7 +390,7 @@ function SectionRenderer({ section }: { section: GuideSection }) {
       const p = palette[variant];
       const headerText = section.calloutTitle || p.label;
       const dateText = section.date
-        ? ` · ${new Date(section.date).toLocaleDateString("es-AR", { day: "numeric", month: "long", year: "numeric" })}`
+        ? ` · ${new Date(section.date).toLocaleDateString("es-AR", { day: "numeric", month: "long", year: "numeric", timeZone: "UTC" })}`
         : "";
       return (
         <aside
