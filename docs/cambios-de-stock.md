@@ -7,6 +7,18 @@
 > 🔴 = se quedo sin stock (el link de afiliado apunta a una pagina pausada).
 > Entradas nuevas arriba.
 
+## 2026-08-21
+
+- 🟢 VOLVIO EL STOCK — **MLA22975097** Mini Proyector Led Portatil 1200 Lumens Color Blanco
+  - ML: https://www.mercadolibre.com.ar/mini-proyector-led-portatil-1200-lumens-color-blanco/p/MLA22975097
+  - Sitio: https://productosvirales.com.ar/producto/MLA22975097
+- 🟢 VOLVIO EL STOCK — **MLA72187457** Cafetera eléctrica Electrolux ECM25 acero inoxidable
+  - ML: https://www.mercadolibre.com.ar/p/MLA72187457
+  - Sitio: https://productosvirales.com.ar/producto/MLA72187457
+- 🟢 VOLVIO EL STOCK — **MLA24692647** Proyector Portatil Led Dakota 8500lm Wifi 1080p Mirrorlink Color Negro
+  - ML: https://www.mercadolibre.com.ar/proyector-portatil-led-dakota-8500lm-wifi-1080p-mirrorlink-color-negro/p/MLA24692647
+  - Sitio: https://productosvirales.com.ar/producto/MLA24692647
+
 ## 2026-08-17
 
 - 🟢 VOLVIO EL STOCK — **MLA23437114** Cafetera Nespresso Lattissima One blanca con leche integrada
