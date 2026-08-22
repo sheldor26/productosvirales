@@ -83,14 +83,14 @@ export function ProductCard({
 
   return (
     <div
-      className={`product-card ${priority ? "" : "reveal"} group rounded-[var(--radius-card)] overflow-hidden border bg-[var(--bg-primary)] transition-transform hover:-translate-y-1 hover:shadow-[0_12px_28px_-8px_rgba(0,0,0,0.18)] motion-safe:active:scale-[0.98] ${
+      className={`product-card ${priority ? "" : "reveal"} group relative rounded-[var(--radius-card)] overflow-hidden border bg-[var(--bg-primary)] transition-transform hover:-translate-y-1 hover:shadow-[0_12px_28px_-8px_rgba(0,0,0,0.18)] motion-safe:active:scale-[0.98] ${
         compareSelected ? "border-[var(--cta-bg)] border-2" : "border-[var(--border)]"
       } ${badge === "viral" ? "shadow-[0_0_14px_rgba(236,72,153,0.16)]" : ""}`}
     >
       {/* Image area. Wrapper propio (no el <Link>) para poder poner el botón de
           guardar como hermano, no hijo: un <button> dentro de un <a> es HTML
           inválido y rompe el accessibility tree / los clicks. */}
-      <div className="relative" style={{ aspectRatio: "10/9" }}>
+      <div className="relative z-10" style={{ aspectRatio: "10/9" }}>
         <Link href={productUrl} prefetch={false} className="block relative w-full h-full">
           <div
             className="absolute inset-0"
@@ -206,12 +206,20 @@ export function ProductCard({
         <Link
           href={`/categoria/${categorySlug}`}
           prefetch={false}
-          className="text-[11px] text-[var(--text-muted)] hover:text-[var(--text-secondary)] transition-colors"
+          className="relative z-10 text-[11px] text-[var(--text-muted)] hover:text-[var(--text-secondary)] transition-colors"
         >
           {category}
         </Link>
 
-        <Link href={productUrl} prefetch={false}>
+        {/* El ::after estira el area clickeable del titulo a toda la tarjeta.
+            La tarjeta ya se levantaba en hover y se hundia al tocarla, pero no
+            navegaba: precio, rating, "Envio gratis" y todo el padding eran
+            zona muerta. Los controles propios se suben con z-10. */}
+        <Link
+          href={productUrl}
+          prefetch={false}
+          className="after:absolute after:inset-0 after:z-0 after:content-['']"
+        >
           <h3 className="mt-1 text-sm font-medium leading-[1.3] text-[var(--text-primary)] line-clamp-2">
             {title}
           </h3>
@@ -266,7 +274,7 @@ export function ProductCard({
               href={productUrl}
               prefetch={false}
               onClick={(e) => e.stopPropagation()}
-              className="flex items-center justify-center w-11 h-11 md:w-10 md:h-10 rounded-full bg-[var(--cta-bg)] text-[var(--cta-text)] hover:bg-[var(--cta-hover)] motion-safe:active:scale-90 transition-[background-color,transform] shrink-0"
+              className="relative z-10 flex items-center justify-center w-11 h-11 md:w-10 md:h-10 rounded-full bg-[var(--cta-bg)] text-[var(--cta-text)] hover:bg-[var(--cta-hover)] motion-safe:active:scale-90 transition-[background-color,transform] shrink-0"
               aria-label={`Ver alternativas para ${title} (sin stock en esta publicación)`}
             >
               <ArrowRight size={16} />
@@ -276,7 +284,7 @@ export function ProductCard({
               href={affiliateUrl}
               ctaLocation="card"
               onClick={(e) => e.stopPropagation()}
-              className="flex items-center justify-center w-11 h-11 md:w-10 md:h-10 rounded-full bg-[var(--cta-bg)] text-[var(--cta-text)] hover:bg-[var(--cta-hover)] motion-safe:active:scale-90 transition-[background-color,transform] shrink-0"
+              className="relative z-10 flex items-center justify-center w-11 h-11 md:w-10 md:h-10 rounded-full bg-[var(--cta-bg)] text-[var(--cta-text)] hover:bg-[var(--cta-hover)] motion-safe:active:scale-90 transition-[background-color,transform] shrink-0"
               ariaLabel={`Ver ${title} en MercadoLibre Argentina (se abre en una pestaña nueva)`}
             >
               <ArrowRight size={16} />
@@ -295,7 +303,7 @@ export function ProductCard({
           </Badge>
         )}
 
-        <CouponBadge price={price} className="mt-1.5" />
+        <CouponBadge price={price} className="relative z-10 mt-1.5" />
       </div>
     </div>
   );

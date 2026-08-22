@@ -1,6 +1,21 @@
 "use client";
 
 import { useEffect, useRef, type ReactNode } from "react";
+
+/** Estrellas + puntaje + conteo. Si la ficha tiene reseñas curadas, todo eso
+ * lleva a la sección de opiniones: es el gesto por defecto en cualquier ficha
+ * de producto y acá no hacía nada. Sin reseñas curadas queda como estaba. */
+function RatingLink({ enlazar, children }: { enlazar: boolean; children: ReactNode }) {
+  if (!enlazar) return <>{children}</>;
+  return (
+    <a
+      href="#ficha-opiniones"
+      className="inline-flex flex-wrap items-center gap-2 hover:underline underline-offset-2"
+    >
+      {children}
+    </a>
+  );
+}
 import Image from "next/image";
 import Link from "next/link";
 import {
@@ -396,21 +411,23 @@ export function ProductDetail({
           {/* Rating */}
           {product.rating && (
             <div className="mt-3 flex flex-wrap items-center gap-2 text-sm">
-              <span
-                role="img"
-                aria-label={`${product.rating} de 5 estrellas${product.reviewCount ? `, ${product.reviewCount} opiniones` : ""}`}
-                className="inline-flex items-center gap-1.5"
-              >
-                <RatingStars rating={product.rating} />
-                <span className="font-bold text-[var(--text-primary)]">
-                  {product.rating.toFixed(1)}
+              <RatingLink enlazar={!!product.customerReviews?.length}>
+                <span
+                  role="img"
+                  aria-label={`${product.rating} de 5 estrellas${product.reviewCount ? `, ${product.reviewCount} opiniones` : ""}`}
+                  className="inline-flex items-center gap-1.5"
+                >
+                  <RatingStars rating={product.rating} />
+                  <span className="font-bold text-[var(--text-primary)]">
+                    {product.rating.toFixed(1)}
+                  </span>
                 </span>
-              </span>
-              {product.reviewCount && (
-                <span className="text-[var(--text-muted)]">
-                  · {product.reviewCount.toLocaleString("es-AR")} opiniones
-                </span>
-              )}
+                {product.reviewCount ? (
+                  <span className="text-[var(--text-muted)]">
+                    · {product.reviewCount.toLocaleString("es-AR")} opiniones
+                  </span>
+                ) : null}
+              </RatingLink>
               {fewReviews && (
                 <span className="text-[11px] font-semibold px-2 py-0.5 rounded-[var(--radius-pill)] text-[#d97706] bg-[rgba(245,158,11,0.12)]">
                   Pocas opiniones — lo decimos de frente
@@ -860,7 +877,10 @@ export function ProductDetail({
               ? "Esta publicación figuraba pausada al último chequeo."
               : "Confirmá precio y stock en MercadoLibre Argentina."}
           </p>
-          <div className="mt-3 text-2xl font-bold text-[#ffe600]">
+          {/* Blanco, no amarillo: el amarillo es exclusivo del boton (regla de
+              oro CRO del sitio). En amarillo, este precio leia como la mitad de
+              arriba del CTA y recibia toques que no hacian nada. */}
+          <div className="mt-3 text-2xl font-bold text-white">
             {formatPrice(product.price)}
           </div>
           {product.priceStatus === "out_of_stock" ? (

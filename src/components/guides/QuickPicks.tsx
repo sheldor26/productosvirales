@@ -115,7 +115,15 @@ export function QuickPicks({ picks }: QuickPicksProps) {
                 </Link>
               </h4>
               {p.product.rating ? (
-                <div className="flex items-center gap-1.5 text-[11px] text-[var(--text-muted)]">
+                // En ProductCard la fila de rating SI es link; acá no lo era.
+                // La misma señal visual se comportaba distinto en dos bloques
+                // de la misma guía.
+                <Link
+                  href={productHref(p.product)}
+                  prefetch={false}
+                  data-cta-location="quickpick-rating"
+                  className="flex w-fit items-center gap-1.5 text-[11px] text-[var(--text-muted)]"
+                >
                   <Stars rating={p.product.rating} size={12} />
                   <span className="font-medium text-[var(--text-secondary)]">
                     {p.product.rating.toFixed(1)}
@@ -123,7 +131,7 @@ export function QuickPicks({ picks }: QuickPicksProps) {
                   {p.product.reviewCount ? (
                     <span>· {p.product.reviewCount.toLocaleString("es-AR")}</span>
                   ) : null}
-                </div>
+                </Link>
               ) : null}
               <p className="flex-1 text-xs text-[var(--text-secondary)] leading-snug line-clamp-2">
                 {parseInlineLinks(p.tagline)}

@@ -132,19 +132,31 @@ function SectionRenderer({
                   key={i}
                   className={i % 2 === 1 ? "bg-[var(--bg-secondary)]/40" : ""}
                 >
-                  {row.map((cell, j) => (
-                    <td
-                      key={j}
-                      className={
-                        "px-4 py-3 text-[var(--text-secondary)] border-t border-[var(--border)]" +
-                        (j === 0
-                          ? ` sticky left-0 z-10 shadow-[2px_0_4px_-2px_rgba(0,0,0,0.12)] ${i % 2 === 1 ? "bg-[var(--bg-secondary)]" : "bg-[var(--bg-primary)]"}`
-                          : "")
-                      }
-                    >
-                      {parseInlineLinks(cell)}
-                    </td>
-                  ))}
+                  {row.map((cell, j) => {
+                    // Solo la primera celda, solo si es EXACTAMENTE un link y no
+                    // trae tokens de precio: si no, se anidarian anclas.
+                    const soloLink =
+                      j === 0 && !cell.includes("{{")
+                        ? cell.trim().match(/^\[([^\]]+)\]\(([^)]+)\)$/)
+                        : null;
+                    return (
+                      <td
+                        key={j}
+                        className={
+                          "px-4 py-3 text-[var(--text-secondary)] border-t border-[var(--border)]" +
+                          (j === 0
+                            ? ` sticky left-0 z-10 shadow-[2px_0_4px_-2px_rgba(0,0,0,0.12)] ${i % 2 === 1 ? "bg-[var(--bg-secondary)]" : "bg-[var(--bg-primary)]"}`
+                            : "")
+                        }
+                      >
+                        {soloLink ? (
+                          <TableCellLink anchor={soloLink[1]} href={soloLink[2]} />
+                        ) : (
+                          parseInlineLinks(cell)
+                        )}
+                      </td>
+                    );
+                  })}
                 </tr>
               ))}
             </tbody>
@@ -488,6 +500,36 @@ function SectionRenderer({
   }
 }
 
+/**
+ * Link de la primera celda de una tabla comparativa. En las 200 tablas del sitio
+ * esa celda es exactamente un link markdown al modelo, pero el area tocable era
+ * solo el texto del ancla (~20px de alto) dentro de una celda de 44px+: casi
+ * toda la celda quedaba muerta. Como bloque con los paddings invertidos, el
+ * link ocupa la celda entera.
+ */
+function TableCellLink({ anchor, href }: { anchor: string; href: string }) {
+  const cls =
+    "block -mx-4 -my-3 px-4 py-3 text-[var(--editorial-accent,currentColor)] underline underline-offset-2 decoration-1 hover:opacity-70 transition-opacity";
+  if (href.startsWith("/")) {
+    return (
+      <Link href={href} prefetch={false} className={cls}>
+        {anchor}
+      </Link>
+    );
+  }
+  return (
+    <a
+      href={href}
+      target="_blank"
+      rel="nofollow sponsored noopener"
+      data-cta-location="tabla-modelo"
+      className={cls}
+    >
+      {anchor}
+    </a>
+  );
+}
+
 /** Caja compacta de recomendación above-the-fold (antes de la intro). */
 function AboveFoldCta({ productMlaId }: { productMlaId: string }) {
   const product = getProductById(productMlaId);
@@ -504,23 +546,32 @@ function AboveFoldCta({ productMlaId }: { productMlaId: string }) {
         <p className="text-[12px] font-semibold text-[var(--text-secondary)]">
           Nuestra recomendación
         </p>
-        <p
-          className="text-[16px] font-extrabold text-[var(--text-primary)] leading-tight"
-          style={{ fontFamily: "var(--font-display)" }}
+        {/* Titulo y estrellas linkean a la ficha: la caja esta arriba del fold
+            y era, salvo el boton, entera zona muerta. */}
+        <Link
+          href={productHref(product)}
+          prefetch={false}
+          data-cta-location="above-fold-producto"
+          className="block hover:opacity-80 transition-opacity"
         >
-          {product.title}
-        </p>
-        {product.rating ? (
-          <div className="mt-0.5 flex items-center gap-1.5 text-[12px] text-[var(--text-muted)]">
-            <Stars rating={product.rating} size={12} />
-            <span className="font-medium text-[var(--text-secondary)]">
-              {product.rating.toFixed(1)}
-            </span>
-            {product.reviewCount ? (
-              <span>· {product.reviewCount.toLocaleString("es-AR")} calificaciones</span>
-            ) : null}
-          </div>
-        ) : null}
+          <p
+            className="text-[16px] font-extrabold text-[var(--text-primary)] leading-tight"
+            style={{ fontFamily: "var(--font-display)" }}
+          >
+            {product.title}
+          </p>
+          {product.rating ? (
+            <div className="mt-0.5 flex items-center gap-1.5 text-[12px] text-[var(--text-muted)]">
+              <Stars rating={product.rating} size={12} />
+              <span className="font-medium text-[var(--text-secondary)]">
+                {product.rating.toFixed(1)}
+              </span>
+              {product.reviewCount ? (
+                <span>· {product.reviewCount.toLocaleString("es-AR")} calificaciones</span>
+              ) : null}
+            </div>
+          ) : null}
+        </Link>
       </div>
       {product.priceStatus === "out_of_stock" ? (
         <Link

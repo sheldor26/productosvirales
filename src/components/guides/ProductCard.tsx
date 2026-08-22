@@ -356,7 +356,14 @@ export function ProductCard({ section }: ProductCardProps) {
             style={{ backgroundColor: "var(--bg-secondary)" }}
           >
             {price && (
-              <div className="leading-tight">
+              // La caja gris se lee como UN control: precio grande a la izquierda,
+              // boton amarillo a la derecha. El precio era texto muerto.
+              <Link
+                href={productHref(product)}
+                prefetch={false}
+                data-cta-location="card-price"
+                className="leading-tight hover:opacity-80 transition-opacity"
+              >
                 <span
                   className="block text-[22px] font-extrabold text-[var(--text-primary)]"
                   style={{ fontFamily: "var(--font-display)" }}
@@ -366,7 +373,7 @@ export function ProductCard({ section }: ProductCardProps) {
                 <span className="text-[10.5px] text-[var(--text-muted)]">
                   Precio verificado contra MercadoLibre
                 </span>
-              </div>
+              </Link>
             )}
             <CouponBadge price={product.price} />
             {product.priceStatus === "out_of_stock" ? (
