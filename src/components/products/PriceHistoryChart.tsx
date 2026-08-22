@@ -95,7 +95,7 @@ export function PriceHistoryChart({ data }: { data: PriceChartData }) {
         preserveAspectRatio="xMidYMid meet"
         role="img"
         aria-label={`Evolución del precio. Mínimo ${formatPrice(min)}, máximo ${formatPrice(max)}, actual ${formatPrice(current)}.`}
-        style={{ display: "block", touchAction: "none" }}
+        style={{ display: "block", touchAction: "pan-y" }}
       >
         <defs>
           <linearGradient id={gradId} x1="0" y1="0" x2="0" y2="1">

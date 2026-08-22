@@ -14,7 +14,7 @@ import type React from "react";
  */
 
 const LINK_CLASS =
-  "text-[var(--cta-bg)] underline underline-offset-2 decoration-1 hover:opacity-70 transition-opacity";
+  "text-[var(--editorial-accent,currentColor)] underline underline-offset-2 decoration-1 hover:opacity-70 transition-opacity";
 
 function renderLink(anchor: string, href: string, key: number): React.ReactNode {
   const isInternal = href.startsWith("/");

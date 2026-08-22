@@ -22061,7 +22061,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     internalLinks: [
       { label: "Microondas: cuál comprar en Argentina", href: "/guias/cocina/microondas" },
       { label: "Yogurtera: cuál comprar en Argentina", href: "/guias/cocina/yogurtera" },
-      { label: "Pava eléctrica: cuál comprar en Argentina", href: "/guias/cocina/pava-electrica" },
+      { label: "Pava eléctrica: cuál comprar en Argentina", href: "/guias/pava-electrica" },
     ],
     internalLinksTitle: "Más para tu cocina",
   },

@@ -205,6 +205,7 @@ export function ProductCard({ section }: ProductCardProps) {
                 data-cta-location="card"
                 className="self-start inline-flex items-center gap-1 mt-1 px-3 py-1.5 text-xs font-extrabold rounded-[var(--radius-button)] transition-transform hover:-translate-y-px"
                 style={{
+                  minHeight: 44,
                   backgroundColor: "var(--cta-action)",
                   color: "var(--cta-action-text)",
                   border: "1px solid rgba(0,0,0,.18)",
@@ -223,6 +224,7 @@ export function ProductCard({ section }: ProductCardProps) {
                 aria-label={`Comprar ${product.title} en MercadoLibre (se abre en una pestaña nueva)`}
                 className="self-start inline-flex items-center gap-1 mt-1 px-3 py-1.5 text-xs font-extrabold rounded-[var(--radius-button)] transition-transform hover:-translate-y-px"
                 style={{
+                  minHeight: 44,
                   backgroundColor: "var(--cta-action)",
                   color: "var(--cta-action-text)",
                   border: "1px solid rgba(0,0,0,.18)",
