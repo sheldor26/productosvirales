@@ -42,19 +42,20 @@ export function ArticleHeader({ guide }: ArticleHeaderProps) {
 
   return (
     <header className="mb-8 md:mb-10">
-      {/* Breadcrumb */}
+      {/* Breadcrumb. En mobile es, junto al eyebrow, el único texto navegable
+          arriba del fold. Estaba en --text-muted (#999), que sobre blanco da
+          2,85:1 de contraste: por debajo del mínimo accesible. Subrayado
+          punteado para que se lea como link sin depender del hover, que en
+          celular no existe. */}
       <nav
         aria-label="Breadcrumb"
-        className="flex items-center gap-1.5 text-xs text-[var(--text-muted)] mb-5"
+        className="flex items-center gap-1.5 text-[13px] text-[var(--text-secondary)] mb-5"
       >
-        <Link href="/" className="hover:text-[var(--text-secondary)] transition-colors">
+        <Link href="/" className="hover:text-[var(--text-primary)] underline underline-offset-2 decoration-dotted decoration-[var(--text-muted)] transition-colors">
           Inicio
         </Link>
-        <span aria-hidden="true">→</span>
-        <Link
-          href="/guias"
-          className="hover:text-[var(--text-secondary)] transition-colors"
-        >
+        <span aria-hidden="true" className="text-[var(--text-muted)]">→</span>
+        <Link href="/guias" className="hover:text-[var(--text-primary)] underline underline-offset-2 decoration-dotted decoration-[var(--text-muted)] transition-colors">
           Guías
         </Link>
       </nav>

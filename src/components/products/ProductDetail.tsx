@@ -340,19 +340,19 @@ export function ProductDetail({
   return (
     <div ref={containerRef}>
       {/* Breadcrumb */}
-      <nav className="flex items-center gap-1.5 text-xs text-[var(--text-muted)] mb-6">
-        <Link href="/" className="hover:text-[var(--text-secondary)] transition-colors">
+      <nav className="flex items-center gap-1.5 text-[13px] text-[var(--text-secondary)] mb-6">
+        <Link href="/" className="hover:text-[var(--text-primary)] underline underline-offset-2 decoration-dotted decoration-[var(--text-muted)] transition-colors">
           Inicio
         </Link>
-        <ChevronRight size={12} />
+        <ChevronRight size={13} className="text-[var(--text-muted)] shrink-0" />
         <Link
           href={`/categoria/${product.categorySlug}`}
-          className="hover:text-[var(--text-secondary)] transition-colors"
+          className="hover:text-[var(--text-primary)] underline underline-offset-2 decoration-dotted decoration-[var(--text-muted)] transition-colors"
         >
           {product.category}
         </Link>
-        <ChevronRight size={12} />
-        <span className="text-[var(--text-secondary)] truncate max-w-[200px]">
+        <ChevronRight size={13} className="text-[var(--text-muted)] shrink-0" />
+        <span className="text-[var(--text-muted)] truncate max-w-[200px]">
           {product.title}
         </span>
       </nav>
