@@ -1383,3 +1383,35 @@ Re-medir: **~2026-09-14**, comparando clicks de afiliado por guía contra el bas
 éxito no es CTR de búsqueda sino conversión a afiliado. Y ojo con el dato viejo: hasta hoy `ga4.py affiliates`
 mostraba solo 30 filas y sumaba un total de 728 cuando el real era 1.018 en 180 páginas. El límite se subió a
 200, así que la próxima medición no es comparable contra totales de reportes anteriores a esta fecha.
+
+## 2026-08-22 — Guía nueva `dia-de-la-madre-argentina` (fecha especial, publicada ya)
+
+| Guía | Silo | Categoría | Keyword del bloque | Volumen (Keyword Planner AR) | Competencia | Productos |
+| :-- | :-- | :-- | :-- | --: | --: | --: |
+| `dia-de-la-madre-argentina` | hogar | fechas-especiales | dia de la madre | 246.000 | 19 | 9 |
+| | | | cuando es el dia de la madre | 135.000 | 11 | |
+| | | | dia de la madre que dia es | 5.400 | 10 | |
+| | | | regalos dia de la madre | 8.100 | **100** | |
+
+**Baseline: cero.** URL nueva, sin historial en GSC.
+
+**Decisión de diseño, con evidencia.** La guía NO se construyó alrededor de "cuándo es el Día de la
+Madre". El SERP de esa consulta (Ubersuggest AR, 2026-08-22) tiene AI Overview en posición 1 y diez
+orgánicos de DA 53 a 100: calendarr 67, Wikipedia 96, Facebook 96, Clarín 93, National Geographic 86,
+YouTube 100. No se gana y además no tiene intención comercial. La fecha va como respuesta de apertura
+y el cuerpo ataca la decisión de regalo por presupuesto, que es donde el formato del sitio compite.
+
+**Referencia interna:** `dia-del-nino-argentina` (misma categoría, publicada 2026-07-20) llegó a 1.321
+impresiones, 19 clicks, posición 6,8 y CTR 1,44% en su primera temporada. Ojo al medir: la cobertura de
+queries de esa guía en GSC es del 15%, así que no se puede atribuir a qué consultas vinieron esos clicks.
+Y sus fragmentos `#` reportan 0% de CTR por diseño, no son páginas: colapsarlos antes de cualquier lectura.
+
+**Qué esperar.** Tráfico de pico, no sostenido: la fecha es el domingo 18 de octubre y la curva del Día
+del Niño tardó 7 semanas en madurar. Se publicó el 22 de agosto, a 8 semanas, que es el último momento útil.
+
+**Mantenimiento pendiente antes de octubre.** Los tramos de presupuesto son etiquetas relativas
+("económicos", "presupuesto medio", "premium") con el rango expresado por token en vivo, así que el precio
+nunca queda viejo. Pero con inflación el ORDEN entre productos puede invertirse y dejar a uno en el tramo
+equivocado. Revalidar el orden por precio antes del 1 de octubre.
+
+Re-medir: **~2026-10-20**, apenas pasada la fecha, contra baseline cero.

@@ -23714,6 +23714,134 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
   // Data (TikTok + MercadoLibre Argentina), 2026-07-20.
   // ─────────────────────────────────────────────────────────
   {
+    slug: "dia-de-la-madre-argentina",
+    category: "fechas-especiales",
+    silo: "hogar",
+    title: `Día de la Madre 2026 en Argentina: qué regalar según tu presupuesto`,
+    h1: `Día de la Madre 2026: qué regalar según tu presupuesto, con precios reales`,
+    seoTitle: `Día de la Madre 2026: qué regalar según tu presupuesto`,
+    metaDescription: `Enterate cuándo es el Día de la Madre 2026 en Argentina y qué regalar en cada rango de precio, con productos reales de MercadoLibre y sus contras.`,
+    ogTitle: `Día de la Madre 2026: la fecha y 9 regalos con precio real`,
+    ogDescription: `Domingo 18 de octubre. Nueve regalos ordenados por presupuesto, con precios de MercadoLibre Argentina y la contra honesta de cada uno.`,
+    ogImage: "https://http2.mlstatic.com/D_Q_NP_890141-MLA113708481777_062026-F.webp",
+    directAnswer: `El Día de la Madre 2026 en Argentina es el **domingo 18 de octubre**. Siempre cae el tercer domingo de octubre, así que la fecha cambia cada año. Para regalar hasta {{precio:MLA17840710:k}} la opción con mejor puntaje de esta guía es la **[yogurtera Yelmo YG-1700](/producto/yogurtera-fabrica-de-yogurt-yelmo-yg-1700-7-jarros-tapas-de-colores-mla17840710)** ({{rating:MLA17840710}} sobre {{reviews:MLA17840710}} opiniones). En el rango medio, el **[masajeador cervical Gadnic](/producto/masajeador-cervical-gadnic-cedro-8-nodos-calor-infrarrojo-silencioso-24w-mla18961711)** es el más elegido, con {{reviews:MLA18961711}} opiniones. Y si el presupuesto da, el **[termo Stanley Mate System](/producto/termo-stanley-original-mate-system-classic-1-2-litros-mla19761025)** es el regalo que más dura de los nueve.`,
+    publishedDate: "2026-08-22",
+    updatedDate: "2026-08-22",
+    hasDisclosure: true,
+    readingTime: 9,
+    standfirst: `El Día de la Madre 2026 es el domingo 18 de octubre. Abajo, nueve regalos ordenados por lo que estás dispuesto a gastar, con el precio real de MercadoLibre Argentina, cuántas personas los compraron y la contra honesta de cada uno.`,
+    quickPicks: [
+      { productMlaId: "MLA17840710", label: "Mejor opción económica", labelColor: "green", tagline: "Yogurtera Yelmo: el puntaje más alto de esta guía" },
+      { productMlaId: "MLA18961711", label: "Mejor rango medio", labelColor: "blue", tagline: "Masajeador cervical Gadnic: el más elegido, con {{reviews:MLA18961711}} opiniones" },
+      { productMlaId: "MLA19761025", label: "Si el presupuesto da", labelColor: "purple", tagline: "Termo Stanley Mate System: el que más años dura" },
+      { productMlaId: "MLA49628348", label: "El más tradicional", labelColor: "slate", tagline: "Perfume Sabah Al Ward: floral oriental de 100 ml" },
+    ],
+    intro: [
+      `Esta guía arranca por la fecha, que es lo primero que casi todos buscan, y sigue por lo que de verdad cuesta decidir: qué comprar sin gastar de más y sin regalar algo que va a terminar en un placard.`,
+      `Los nueve productos están ordenados por presupuesto y salen del catálogo de MercadoLibre Argentina. De cada uno decimos cuántas opiniones tiene y qué le falta, porque un regalo que no se usa es plata tirada aunque haya salido barato.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_Q_NP_890141-MLA113708481777_062026-F.webp", alt: `Termo Stanley Mate System, uno de los regalos de esta guía de Día de la Madre` },
+
+      { type: "h2", id: "cuando-es", title: `¿Cuándo es el Día de la Madre 2026 en Argentina?` },
+      { type: "p", content: `El Día de la Madre 2026 en Argentina se celebra el **domingo 18 de octubre**. En Argentina la fecha es siempre el tercer domingo de octubre, por eso cambia todos los años: en 2025 cayó el 19 de octubre y en 2027 va a ser el 17.` },
+      { type: "p", content: `Esto explica una confusión bastante común. En España, México y buena parte de Europa el Día de la Madre es en mayo, así que si buscás la fecha sin aclarar el país te van a aparecer resultados de mayo que no aplican acá.` },
+      { type: "callout", calloutVariant: "tip", content: `Si vas a comprar por internet, tené en cuenta que la semana previa al 18 de octubre los envíos se saturan. Comprando antes del 10 llegás tranquilo.` },
+
+      { type: "h2", id: "economicos", title: `Regalos económicos` },
+      { type: "p", content: `Los tres de este tramo van de {{precio:MLA17840710:k}} a {{precio:MLA19856080:k}}. Acá conviene apuntar a algo que se use seguido antes que a algo vistoso: los tres tienen más de 7.000 opiniones, que es la señal más honesta de que la gente los compra y los vuelve a comprar.` },
+
+      { type: "h3", id: "yogurtera-yelmo", bigNumber: true, title: `1. Yogurtera Yelmo YG-1700` },
+      { type: "product-card", productMlaId: "MLA17840710", label: "Mejor puntaje de la guía", labelColor: "green", ranking: 1, description: `Yogurtera de 7 jarros con tapas de colores. Tiene {{rating:MLA17840710}} de puntaje sobre {{reviews:MLA17840710}} opiniones, el más alto de los nueve productos de esta guía.` },
+      { type: "p", content: `Hace siete porciones individuales de una vez y los jarros son de vidrio, así que van del aparato a la heladera sin trasvasar nada. A {{precio:MLA17840710:k}} es el regalo más barato de la guía y el que mejor puntaje tiene.` },
+      { type: "p", content: `La contra real: tarda entre 8 y 10 horas en cuajar, así que hay que dejarla de un día para el otro. Y si en la casa nadie come yogur de forma habitual, es exactamente el tipo de regalo que se usa dos veces y queda arriba de la alacena.` },
+
+      { type: "h3", id: "pistola-masajeadora", bigNumber: true, title: `2. Pistola masajeadora recargable` },
+      { type: "product-card", productMlaId: "MLA37908577", label: "Para descontracturar", labelColor: "blue", ranking: 2, description: `Pistola de masaje con motor sin escobillas y batería recargable por USB. {{rating:MLA37908577}} de puntaje sobre {{reviews:MLA37908577}} opiniones.` },
+      { type: "p", content: `Sirve para descontracturar espalda, cuello y piernas sin depender de que alguien te haga el masaje. El motor sin escobillas es lo que la hace más silenciosa que las versiones baratas, que suenan como un taladro.` },
+      { type: "p", content: `La contra real: es un aparato que hay que aprender a usar. Aplicada con demasiada presión o sobre una zona equivocada molesta más de lo que alivia, y no todo el mundo tiene ganas de mirar un tutorial para usar un regalo.` },
+
+      { type: "h3", id: "termo-waterdog", bigNumber: true, title: `3. Termo Waterdog Ombú de 1 litro` },
+      { type: "product-card", productMlaId: "MLA19856080", label: "El de mejor relación precio y marca", labelColor: "amber", ranking: 3, description: `Termo de acero inoxidable con doble pared, 1 litro. {{rating:MLA19856080}} de puntaje sobre {{reviews:MLA19856080}} opiniones.` },
+      { type: "p", content: `Waterdog es una marca argentina con respaldo real y este modelo mantiene la temperatura sin ser un termo de gama alta. A {{precio:MLA19856080:k}} es la entrada más razonable si el regalo va para alguien que toma mate todos los días.` },
+      { type: "p", content: `La contra real: un litro se queda corto para una mateada larga o para compartir. Si el mate es de a dos o de a tres, conviene ir directo al de 1,2 litros del final de esta guía.` },
+
+      { type: "h2", id: "presupuesto-medio", title: `Regalos de presupuesto medio` },
+      { type: "p", content: `Este tramo va de {{precio:MLA18961711:k}} a {{precio:MLA19589519:k}} y es donde mejor funciona el regalo: alcanza para algo que la persona probablemente no se compraría sola, y no es tanto como para que dé culpa recibirlo.` },
+
+      { type: "h3", id: "masajeador-cervical", bigNumber: true, title: `4. Masajeador cervical Gadnic Cedro` },
+      { type: "product-card", productMlaId: "MLA18961711", label: "El más elegido", labelColor: "blue", ranking: 4, description: `Masajeador de cuello con 8 nodos, calor infrarrojo y 24 W. {{rating:MLA18961711}} de puntaje sobre {{reviews:MLA18961711}} opiniones, el más votado de esta guía.` },
+      { type: "p", content: `Es el producto con más opiniones de los nueve: {{reviews:MLA18961711}}. Se coloca sobre los hombros y trabaja el trapecio con calor, que es la zona donde más se acumula la tensión de estar sentado.` },
+      { type: "p", content: `La contra real: tiene 3 niveles de intensidad, pero el más alto resulta fuerte los primeros usos y hay que ir de menor a mayor. Se lleva mejor poniéndolo sobre la ropa en vez de directo sobre la piel.` },
+
+      { type: "h3", id: "perfume-sabah", bigNumber: true, title: `5. Perfume Sabah Al Ward de 100 ml` },
+      { type: "product-card", productMlaId: "MLA49628348", label: "El más tradicional", labelColor: "purple", ranking: 5, description: `Eau de parfum floral oriental de 100 ml. {{rating:MLA49628348}} de puntaje sobre {{reviews:MLA49628348}} opiniones.` },
+      { type: "p", content: `Es un floral oriental de 100 ml, un formato grande para lo que cuesta. Si querés entender cómo se compara con otras opciones del mismo estilo, tenemos una guía completa de [perfumes árabes de mujer](/guias/perfumes-arabes-mujer).` },
+      { type: "p", content: `La contra real: el perfume es el regalo más difícil de acertar si no sabés qué usa la persona. Un floral dulce le encanta a mucha gente y le resulta empalagoso a otra tanta, y no hay forma de saberlo de antemano.` },
+
+      { type: "h3", id: "pava-atma-selector", bigNumber: true, title: `6. Pava eléctrica Atma PE1821NAP con selector de temperatura` },
+      { type: "product-card", productMlaId: "MLA19589519", label: "La segunda más elegida de la guía", labelColor: "amber", ranking: 6, description: `Pava eléctrica de 1,7 litros con selector de temperatura. {{rating:MLA19589519}} de puntaje sobre {{reviews:MLA19589519}} opiniones.` },
+      { type: "p", content: `El selector de temperatura es lo que la separa de una pava común: podés cortar el agua antes del hervor, que es lo que pide el mate para no quemar la yerba. Tiene {{reviews:MLA19589519}} opiniones, el segundo número más alto de esta guía.` },
+      { type: "p", content: `La contra real: ni Atma ni la publicación detallan cuántas posiciones tiene la perilla ni a qué temperatura corresponde cada una, así que el control es aproximado y no exacto. Varias reseñas dudan de que funcione hasta que la prueban al mínimo.` },
+
+      { type: "h2", id: "premium", title: `Regalos premium` },
+      { type: "p", content: `De {{precio:MLA27351841:k}} para arriba el regalo pasa a ser un electrodoméstico de verdad, algo que cambia una rutina de la casa. Conviene chequear antes que no lo tenga ya, porque a este precio la repetición duele.` },
+
+      { type: "h3", id: "freidora-atma", bigNumber: true, title: `7. Freidora de aire Atma Pro FR60AR de 6,5 litros` },
+      { type: "product-card", productMlaId: "MLA27351841", label: "El que más cambia la rutina", labelColor: "green", ranking: 7, description: `Freidora de aire digital de 6,5 litros, sin aceite. {{rating:MLA27351841}} de puntaje sobre {{reviews:MLA27351841}} opiniones.` },
+      { type: "p", content: `Los 6,5 litros dan cómodo para 2 o 3 personas en uso cotidiano, y llegan a 4 si las porciones no son grandes. De 5 en adelante conviene ir a una de 8 litros. Si querés comparar antes de decidir, está la guía de [las mejores freidoras de aire en Argentina](/guias/mejores-freidoras-de-aire-argentina).` },
+      { type: "p", content: `La contra real: ocupa lugar en la mesada y no es un aparato que se guarde y se saque. Si la cocina es chica, es un regalo que genera un problema nuevo mientras resuelve otro.` },
+
+      { type: "h3", id: "cafetera-dolce-gusto", bigNumber: true, title: `8. Cafetera Moulinex Dolce Gusto Piccolo XS` },
+      { type: "product-card", productMlaId: "MLA15705813", label: "Para la que toma café todos los días", labelColor: "blue", ranking: 8, description: `Cafetera de cápsulas compacta. {{rating:MLA15705813}} de puntaje sobre {{reviews:MLA15705813}} opiniones.` },
+      { type: "p", content: `Es la más chica de la línea, así que entra en cualquier mesada. Prepara café con leche y otras bebidas con las cápsulas del sistema, sin aprender nada. Si dudás entre cápsulas y express, tenemos la comparativa de [cafeteras express](/guias/cafetera-express).` },
+      { type: "p", content: `La contra real: te ata a las cápsulas de un solo sistema, y el costo por taza es bastante más alto que el del café molido. El regalo sale una vez, el consumo sigue todos los meses.` },
+
+      { type: "h3", id: "termo-stanley", bigNumber: true, title: `9. Termo Stanley Mate System de 1,2 litros` },
+      { type: "product-card", productMlaId: "MLA19761025", label: "El que más dura", labelColor: "purple", ranking: 9, description: `Termo Stanley Original con pico cebador para mate, 1,2 litros. {{rating:MLA19761025}} de puntaje sobre {{reviews:MLA19761025}} opiniones.` },
+      { type: "p", content: `Es el regalo más caro de la guía y también el que más años dura. El pico cebador está pensado para mate y la marca tiene garantía de por vida en el aislamiento, que es lo que justifica la diferencia de precio contra un termo genérico.` },
+      { type: "p", content: `La contra real: pesa. Lleno pasa el kilo y medio, y para alguien que lo lleva en una mochila todos los días eso se nota. Si el uso es en casa, no importa; si es para salir, el de un litro se lleva mejor.` },
+
+      { type: "h2", id: "tabla", title: `Los 9 regalos comparados` },
+      { type: "table", headers: [`Regalo`, `Precio`, `Puntaje`, `Opiniones`, `Ideal para`], rows: [
+        [`[Yogurtera Yelmo YG-1700](https://meli.la/2kc6W5c)`, `{{precio:MLA17840710}}`, `{{rating:MLA17840710}}`, `{{reviews:MLA17840710}}`, `El presupuesto más ajustado`],
+        [`[Pistola masajeadora](https://meli.la/159WHqm)`, `{{precio:MLA37908577}}`, `{{rating:MLA37908577}}`, `{{reviews:MLA37908577}}`, `Descontracturar en casa`],
+        [`[Termo Waterdog Ombú 1 L](https://meli.la/1XMp2Ui)`, `{{precio:MLA19856080}}`, `{{rating:MLA19856080}}`, `{{reviews:MLA19856080}}`, `Mate de a uno`],
+        [`[Masajeador cervical Gadnic](https://meli.la/21bCTeS)`, `{{precio:MLA18961711}}`, `{{rating:MLA18961711}}`, `{{reviews:MLA18961711}}`, `Tensión en el cuello`],
+        [`[Perfume Sabah Al Ward](https://meli.la/2AcVasU)`, `{{precio:MLA49628348}}`, `{{rating:MLA49628348}}`, `{{reviews:MLA49628348}}`, `El clásico de siempre`],
+        [`[Pava Atma con selector de temperatura](https://meli.la/2uprqZS)`, `{{precio:MLA19589519}}`, `{{rating:MLA19589519}}`, `{{reviews:MLA19589519}}`, `Mate a la temperatura justa`],
+        [`[Freidora Atma Pro 6,5 L](https://meli.la/2H5RRoD)`, `{{precio:MLA27351841}}`, `{{rating:MLA27351841}}`, `{{reviews:MLA27351841}}`, `Uso diario de 2 o 3`],
+        [`[Cafetera Dolce Gusto Piccolo XS](https://meli.la/1f93McA)`, `{{precio:MLA15705813}}`, `{{rating:MLA15705813}}`, `{{reviews:MLA15705813}}`, `Café todos los días`],
+        [`[Termo Stanley Mate System 1,2 L](https://meli.la/1JtPJue)`, `{{precio:MLA19761025}}`, `{{rating:MLA19761025}}`, `{{reviews:MLA19761025}}`, `Que dure años`],
+      ]},
+
+      { type: "h2", id: "como-elegir", title: `Cómo elegir sin equivocarte` },
+      { type: "list", boxed: true, items: [
+        `**Mirá qué usa todos los días, no qué le gusta.** El regalo que se usa es el que se mete en una rutina que ya existe, no el que inaugura una.`,
+        `**Chequeá que no lo tenga.** Suena obvio y es el error más caro: arriba de $100.000 la repetición no se disimula.`,
+        `**Comprá antes del 10 de octubre.** La semana previa al 18 los envíos se saturan y el riesgo de que llegue tarde es real.`,
+        `**Guardá el comprobante.** Con electrodomésticos, el cambio por falla depende de tenerlo.`,
+      ]},
+
+      { type: "verdict", content: `Si tuviéramos que elegir uno solo, es el [masajeador cervical Gadnic](/producto/masajeador-cervical-gadnic-cedro-8-nodos-calor-infrarrojo-silencioso-24w-mla18961711): es el más votado de los nueve con {{reviews:MLA18961711}} opiniones, cuesta {{precio:MLA18961711:k}} y resuelve un problema que casi todo el mundo tiene. Con presupuesto ajustado, la [yogurtera Yelmo](/producto/yogurtera-fabrica-de-yogurt-yelmo-yg-1700-7-jarros-tapas-de-colores-mla17840710) es la de mejor puntaje de la guía. Y si querés que el regalo dure años, el [termo Stanley](/producto/termo-stanley-original-mate-system-classic-1-2-litros-mla19761025).` },
+    ],
+    faq: [
+      { question: `¿Cuándo es el Día de la Madre 2026 en Argentina?`, answer: `El domingo 18 de octubre de 2026. En Argentina siempre se celebra el tercer domingo de octubre, así que la fecha cambia cada año. En 2025 fue el 19 de octubre y en 2027 va a ser el 17.` },
+      { question: `¿Por qué en Argentina el Día de la Madre no es en mayo?`, answer: `Porque cada país fija su propia fecha. En España, México y buena parte de Europa se celebra en mayo, mientras que Argentina lo dejó en el tercer domingo de octubre. Si buscás la fecha sin aclarar el país, te van a aparecer resultados de mayo que no aplican acá.` },
+      { question: `¿Cuánto conviene gastar en un regalo del Día de la Madre?`, answer: `No hay un número correcto. El tramo de presupuesto medio de esta guía, que hoy arranca en {{precio:MLA18961711:k}}, es donde mejor funciona el regalo: alcanza para algo que la persona no se compraría sola y no es tanto como para incomodar. Con menos, conviene priorizar algo de uso diario antes que algo vistoso.` },
+      { question: `¿Hasta cuándo puedo comprar para que llegue a tiempo?`, answer: `Conviene cerrar la compra antes del 10 de octubre. La semana previa a la fecha los envíos se saturan y los plazos que muestra la publicación dejan de cumplirse con la misma prolijidad.` },
+      { question: `¿Qué regalo se usa más a largo plazo?`, answer: `De los nueve de esta guía, el [termo Stanley Mate System](/producto/termo-stanley-original-mate-system-classic-1-2-litros-mla19761025) es el que más dura: la marca da garantía de por vida sobre el aislamiento. La contra es que es el más caro y el que más pesa lleno.` },
+    ],
+    internalLinks: [
+      { label: "Día del Niño: qué regalar según la edad", href: "/guias/juguetes/dia-del-nino-argentina" },
+      { label: "Mejores freidoras de aire en Argentina", href: "/guias/mejores-freidoras-de-aire-argentina" },
+      { label: "Perfumes árabes de mujer: cuál comprar", href: "/guias/perfumes-arabes-mujer" },
+      { label: "Cafetera express: cuál comprar", href: "/guias/cafetera-express" },
+      { label: "Termos: cuál comprar en Argentina", href: "/guias/bebidas-termicas/termo" },
+    ],
+    internalLinksTitle: "Seguí leyendo",
+  },
+  {
     slug: "dia-del-nino-argentina",
     category: "fechas-especiales",
     silo: "juguetes",
