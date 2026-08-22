@@ -59,12 +59,16 @@ export function ArticleHeader({ guide }: ArticleHeaderProps) {
         </Link>
       </nav>
 
-      {/* Eyebrow */}
-      <p
-        className="text-[11px] md:text-xs font-semibold tracking-[0.14em] mb-4"
-        style={{ color: "var(--editorial-accent)" }}
-      >
-        GUÍAS · {categoryLabel}
+      {/* Eyebrow. Es el único enlace interno arriba del fold además del
+          breadcrumb: manda al hub de guías, anclado en esta categoría. */}
+      <p className="text-[11px] md:text-xs font-semibold tracking-[0.14em] mb-4">
+        <Link
+          href={`/guias#cat-${guide.category}`}
+          className="hover:underline underline-offset-2"
+          style={{ color: "var(--editorial-accent)" }}
+        >
+          GUÍAS · {categoryLabel}
+        </Link>
       </p>
 
       {/* H1 */}

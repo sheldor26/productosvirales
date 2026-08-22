@@ -1,4 +1,5 @@
 import { Fragment } from "react";
+import type { ReactNode } from "react";
 import Link from "next/link";
 import Image from "next/image";
 import { ExternalLink, Target, Award, Tag } from "lucide-react";
@@ -12,7 +13,7 @@ import { ProductCard } from "./ProductCard";
 import { QuickPicks } from "./QuickPicks";
 import { StickyBuyBar } from "./StickyBuyBar";
 import { RelatedGuides } from "./RelatedGuides";
-import { nextStepLinksForGuide, categoryLabel } from "@/lib/related-guides";
+import { nextStepLinksForGuide, nextStepHeadingForGuide } from "@/lib/related-guides";
 import { ensureSectionIds, getTocItems } from "@/lib/slug";
 import { getProductById } from "@/lib/products";
 import { productHref } from "@/lib/product-url";
@@ -24,7 +25,15 @@ interface GuideRendererProps {
   guide: Guide;
 }
 
-function SectionRenderer({ section }: { section: GuideSection }) {
+function SectionRenderer({
+  section,
+  nextProductMlaId,
+}: {
+  section: GuideSection;
+  /** `h3` only: id del producto de la `product-card` que va inmediatamente
+   * debajo. Si está, el título del H3 pasa a linkear a esa ficha. */
+  nextProductMlaId?: string;
+}) {
   switch (section.type) {
     case "h2":
       return (
@@ -38,6 +47,22 @@ function SectionRenderer({ section }: { section: GuideSection }) {
       );
 
     case "h3": {
+      // El mismo nombre de producto aparecía dos veces seguidas: acá en grande
+      // y sin link, y abajo en la tarjeta con link. Ahora los dos van a la ficha.
+      const h3Product = nextProductMlaId ? getProductById(nextProductMlaId) : undefined;
+      const h3Title = (text: ReactNode) =>
+        h3Product ? (
+          <Link
+            href={productHref(h3Product)}
+            prefetch={false}
+            data-cta-location="h3-producto"
+            className="hover:underline underline-offset-2 decoration-1"
+          >
+            {text}
+          </Link>
+        ) : (
+          text
+        );
       const numberMatch = section.bigNumber ? section.title?.match(/^(\d+)\.\s*(.+)/) : null;
       if (numberMatch) {
         const [, num, rest] = numberMatch;
@@ -57,7 +82,7 @@ function SectionRenderer({ section }: { section: GuideSection }) {
               className="text-xl md:text-[22px] font-semibold text-[var(--text-primary)]"
               style={{ fontFamily: "var(--font-display)" }}
             >
-              {rest}
+              {h3Title(rest)}
             </span>
           </h3>
         );
@@ -68,7 +93,7 @@ function SectionRenderer({ section }: { section: GuideSection }) {
           className="text-xl md:text-[22px] font-semibold text-[var(--text-primary)] mt-10 mb-3 scroll-mt-20 leading-tight"
           style={{ fontFamily: "var(--font-display)" }}
         >
-          {section.title}
+          {h3Title(section.title)}
         </h3>
       );
     }
@@ -703,15 +728,44 @@ export function GuideRenderer({ guide: rawGuide }: GuideRendererProps) {
           </aside>
 
           {/* Sections */}
-          {bodySections.map((section, i) => (
-            <Fragment key={i}>
-              <SectionRenderer section={section} />
-              {/* Repetir CTA al producto #1 tras el veredicto */}
-              {section.type === "verdict" && topPickId && (
-                <VerdictCta productMlaId={topPickId} />
-              )}
-            </Fragment>
-          ))}
+          {bodySections.map((section, i) => {
+            const next = bodySections[i + 1];
+            const nextProductMlaId =
+              section.type === "h3" && next?.type === "product-card"
+                ? next.productMlaId
+                : undefined;
+            return (
+              <Fragment key={i}>
+                <SectionRenderer section={section} nextProductMlaId={nextProductMlaId} />
+                {/* Repetir CTA al producto #1 tras el veredicto */}
+                {section.type === "verdict" && topPickId && (
+                  <VerdictCta productMlaId={topPickId} />
+                )}
+              </Fragment>
+            );
+          })}
+
+      {/* Enlazado interno: va ANTES del FAQ. Con 39% de profundidad de scroll
+          promedio, todo lo que vive después del FAQ no lo ve casi nadie. */}
+      {guide.internalLinks && guide.internalLinks.length > 0 && (
+        <aside className="mt-10 p-5 rounded-[6px] bg-[var(--bg-secondary)] border border-[var(--border)]">
+          <p className="font-semibold text-[var(--text-primary)] mb-3">
+            {guide.internalLinksTitle || "Guías relacionadas"}
+          </p>
+          <div className="flex flex-wrap gap-2">
+            {guide.internalLinks.map((link) => (
+              <Link
+                key={link.href}
+                href={link.href}
+                className="inline-block px-3 py-1.5 text-sm rounded-full bg-[var(--bg-primary)] border border-[var(--border)] hover:bg-[var(--bg-secondary)] transition-colors"
+                style={{ color: "var(--editorial-accent)" }}
+              >
+                {injectLivePrices(link.label)}
+              </Link>
+            ))}
+          </div>
+        </aside>
+      )}
 
       {/* FAQ */}
       {guide.faq && guide.faq.length > 0 && (
@@ -744,31 +798,10 @@ export function GuideRenderer({ guide: rawGuide }: GuideRendererProps) {
         </div>
       )}
 
-      {/* Legacy internal links — kept as subtle pill row above the new footer */}
-      {guide.internalLinks && guide.internalLinks.length > 0 && (
-        <aside className="mt-10 p-5 rounded-[6px] bg-[var(--bg-secondary)] border border-[var(--border)]">
-          <p className="font-semibold text-[var(--text-primary)] mb-3">
-            {guide.internalLinksTitle || "Guías relacionadas"}
-          </p>
-          <div className="flex flex-wrap gap-2">
-            {guide.internalLinks.map((link) => (
-              <Link
-                key={link.href}
-                href={link.href}
-                className="inline-block px-3 py-1.5 text-sm rounded-full bg-[var(--bg-primary)] border border-[var(--border)] hover:bg-[var(--bg-secondary)] transition-colors"
-                style={{ color: "var(--editorial-accent)" }}
-              >
-                {injectLivePrices(link.label)}
-              </Link>
-            ))}
-          </div>
-        </aside>
-      )}
-
       <RelatedGuides
         className="mt-10"
-        heading={`Más sobre ${categoryLabel(guide.category)}`}
-        subtitle="Seguí explorando esta categoría"
+        heading={nextStepHeadingForGuide(guide)}
+        subtitle="Seguí explorando"
         links={nextStepLinksForGuide(guide)}
       />
 
