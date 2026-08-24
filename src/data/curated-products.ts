@@ -5132,7 +5132,9 @@ El BGH B228DS20 es un microondas grande, digital y con grill, de marca nacional 
     id: "MLA41009857",
     title: "Microondas Atma Matdb20uap 20l 700w Negro",
     canonicalName: "Microondas Atma 20L MATDB20UAP",
+    brand: "Atma",
     price: 224089,
+    originalPrice: 499999,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_852430-MLA99447789936_112025-F.jpg",
     images: [
@@ -5157,7 +5159,7 @@ El BGH B228DS20 es un microondas grande, digital y con grill, de marca nacional 
       { label: "Marca", value: "Atma" },
     ],
     relatedProducts: ["MLA18193159", "MLA17695389"],
-    priceUpdated: "2026-08-17",
+    priceUpdated: "2026-08-24",
     priceLastChecked: "2026-08-24",
     priceStatus: "fresh",
     description: "Microondas Atma de 20 litros y 700 W, control digital, de una marca conocida y confiable. La alternativa de marca a BGH, con más de 2.300 calificaciones. Contra honesta de las reseñas: la luz interior es floja.",
@@ -29386,6 +29388,8 @@ Si esas funcionalidades son parte activa de cómo cocinás, el producto tiene se
   },
   {
     id: 'MLA19630911',
+    priceStatus: "out_of_stock",
+    priceVerifiedAt: "2026-08-24",
     title: "Freidora de aire 6,2 Litros Philips Essential HD927091 Negro",
     brand: "Philips",
     price: 999999,
@@ -43700,7 +43704,8 @@ A $174.521 con 4.7 estrellas, es la flexibilidad hecha cafetera — siempre que 
     originalPrice: undefined,
     priceUpdated: "2026-08-21",
     priceLastChecked: "2026-08-24",
-    priceStatus: "fresh",
+    priceStatus: "out_of_stock",
+    priceVerifiedAt: "2026-08-24",
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_678748-MLA99465933306_112025-F.jpg',
     images: [

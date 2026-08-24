@@ -409,4 +409,84 @@ export const socialPosts: SocialPost[] = [
     offPct: "40",
     postedAt: "2026-08-20T16:59:16-03:00",
   },
+  {
+    title: "Freidora de Aire Philips Canasta Doble 9L",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_755248-MLA99988665433_112025-F.webp",
+    affiliateUrl: "https://meli.la/155LXzo",
+    newPrice: "249.143",
+    oldPrice: "377.490",
+    offPct: "34",
+    postedAt: "2026-08-24T10:49:31-03:00",
+  },
+  {
+    title: "Bicicleta MTB Overtech R29",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_793841-MLA85365577803_052025-O.webp",
+    affiliateUrl: "https://meli.la/1CadcbV",
+    newPrice: "241.999",
+    oldPrice: "499.999",
+    offPct: "51",
+    postedAt: "2026-08-24T10:49:31-03:00",
+  },
+  {
+    title: "Casco Bicicleta Dakota",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_925226-MLA91141039893_082025-O.webp",
+    affiliateUrl: "https://meli.la/2EgBexp",
+    newPrice: "23.211",
+    oldPrice: "32.990",
+    offPct: "29",
+    postedAt: "2026-08-24T10:49:31-03:00",
+  },
+  {
+    title: "Notebook Asus TUF Gaming A15 RTX 3050",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_749137-MLA110076990586_042026-O.webp",
+    affiliateUrl: "https://meli.la/1ihg8Za",
+    newPrice: "1.840.199",
+    oldPrice: "2.801.999",
+    offPct: "34",
+    postedAt: "2026-08-24T10:49:31-03:00",
+  },
+  {
+    title: "Silla Gamer Alpina Ergonómica",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_929992-MLA100025507743_122025-F.jpg",
+    affiliateUrl: "https://meli.la/2y3NTbJ",
+    newPrice: "183.330",
+    oldPrice: "280.000",
+    offPct: "34",
+    postedAt: "2026-08-24T10:49:31-03:00",
+  },
+  {
+    title: "Caloventor Liliana Blacksun",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_694331-MLA99496642372_112025-F.jpg",
+    affiliateUrl: "https://meli.la/2yR3JAN",
+    newPrice: "54.415",
+    oldPrice: "61.999",
+    offPct: "12",
+    postedAt: "2026-08-24T10:49:31-03:00",
+  },
+  {
+    title: "Monitor Samsung Odyssey G3 G30D 24 180Hz",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_651661-MLA101215783396_122025-O.webp",
+    affiliateUrl: "https://meli.la/2jHNRpN",
+    newPrice: "263.199",
+    oldPrice: "379.999",
+    offPct: "30",
+    postedAt: "2026-08-24T17:38:03-03:00",
+  },
+  {
+    title: "Microondas Atma 20L MATDB20UAP",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_852430-MLA99447789936_112025-O.webp",
+    affiliateUrl: "https://meli.la/18Sm8zA",
+    newPrice: "224.089",
+    oldPrice: "499.999",
+    offPct: "55",
+    postedAt: "2026-08-24T17:38:03-03:00",
+  },
 ];
