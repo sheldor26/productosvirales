@@ -10,7 +10,7 @@
     "prices:check": "node scripts/update-prices-from-ml.cjs --dry-run",
     "prices:update": "node scripts/update-prices-from-ml.cjs --apply",
     "indexnow": "node scripts/indexnow.mjs",
-    "guides:check": "node scripts/check-price-tokens.cjs && node scripts/check-stale-prose-prices.cjs && node scripts/check-hardcoded-reviews.cjs && node scripts/check-guide-monetization.cjs && node scripts/check-table-product-links.cjs && node scripts/check-canonical-product-links.cjs && node scripts/check-guide-internal-links.cjs",
+    "guides:check": "node scripts/check-price-tokens.cjs && node scripts/check-stale-prose-prices.cjs && node scripts/check-hardcoded-reviews.cjs && node scripts/check-guide-monetization.cjs && node scripts/check-table-product-links.cjs && node scripts/check-canonical-product-links.cjs && node scripts/check-guide-internal-links.cjs && node scripts/check-uncovered-prose-prices.cjs",
     "catalogo:check": "node scripts/check-catalogo-fresco.cjs",
     "catalogo:lista": "node scripts/check-catalogo-fresco.cjs --lista"
   },
