@@ -3499,13 +3499,13 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
 
       { type: "h3", title: `1. Philco PHP35HC7API — el más vendido` },
       { type: "product-card", productMlaId: "MLA45423359", label: "El más vendido", labelColor: "green", ranking: 1, description: `Frío/calor, 3.010 frigorías, con temporizador y filtro lavable. 4.7 estrellas en más de 1.200 calificaciones: el más elegido de esta comparativa.` },
-      { type: "p", content: `Si querés la opción más probada, es esta. El Philco PHP35HC7API es **frío/calor** con 3.010 frigorías, panel electrónico con pantalla digital, temporizador y filtro lavable, a alrededor de $630.000. Con más de 1.200 opiniones, es por lejos el que más respaldo de ventas tiene de esta comparativa.` },
+      { type: "p", content: `Si querés la opción más probada, es esta. El Philco PHP35HC7API es **frío/calor** con 3.010 frigorías, panel electrónico con pantalla digital, temporizador y filtro lavable, a alrededor de {{precio:MLA45423359:k}}. Con {{reviews:MLA45423359}} opiniones, es por lejos el que más respaldo de ventas tiene de esta comparativa.` },
       { type: "p", content: `Lo honesto: el kit para fijarlo a la ventana no siempre queda del todo estable, según varias reseñas, y en instalaciones eléctricas viejas puede hacer falta reforzar el cableado (un comprador lo compara con instalar un split). Por precio y ventas, sigue siendo el punto de partida lógico.` },
       { type: "pull-quote", content: `"Es excelente! hace poco ruido, casi no molesta. Yo lo uso en calefacción y deshumidificador. Anda super bien. Muy recomendable."`, attribution: `Opinión verificada en MercadoLibre` },
 
       { type: "h3", title: `2. BGH BP35WCEW — la marca con garantía` },
       { type: "product-card", productMlaId: "MLA61656125", label: "Marca con garantía", labelColor: "blue", ranking: 2, description: `Frío/calor de BGH, con garantía y service oficial en el país. 4.8 estrellas, el rating más alto de la comparativa.` },
-      { type: "p", content: `Si preferís una marca con garantía y service reconocido en Argentina, el BGH BP35WCEW es la opción. Es **frío/calor**, de instalación simple según las reseñas, y tiene el **rating más alto** de esta guía (4.8), a alrededor de $760.000. Un comprador reporta que enfrió un cuarto de 6x3,5 metros en media hora.` },
+      { type: "p", content: `Si preferís una marca con garantía y service reconocido en Argentina, el BGH BP35WCEW es la opción. Es **frío/calor**, de instalación simple según las reseñas, y comparte el **rating más alto** de esta guía ({{rating:MLA61656125}}) con el Philco, a alrededor de {{precio:MLA61656125:k}}. Un comprador reporta que enfrió un cuarto de 6x3,5 metros en media hora.` },
       { type: "p", content: `Contra honesta: como todo portátil, hace ruido, y varias reseñas coinciden en que el frío rinde bien para una habitación, no para un ambiente grande. La base de opiniones (137) es más chica que la del Philco, aunque sólida.` },
 
       { type: "h3", title: `3. Sansei SAP26HC9AN — el más económico` },
@@ -3515,12 +3515,12 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
 
       { type: "h3", title: `4. RCA AAPR12XP — con deshumidificación` },
       { type: "product-card", productMlaId: "MLA15183460", label: "Con deshumidificación", labelColor: "blue", ranking: 4, description: `Frío/calor con funciones de deshumidificación y ventilación aparte. 4.5 estrellas en 45 calificaciones, aunque con base de opiniones chica.` },
-      { type: "p", content: `Si además de climatizar querés deshumidificar o solo ventilar sin enfriar, el RCA AAPR12XP suma esas funciones aparte, con 3,5 kW de refrigeración y 3,3 kW de calefacción, a alrededor de $871.000. Una reseña detallada da una regla práctica útil: calculá unas **100 frigorías por metro cuadrado** de tu ambiente.` },
+      { type: "p", content: `Si además de climatizar querés deshumidificar o solo ventilar sin enfriar, el RCA AAPR12XP suma esas funciones aparte, con 3,5 kW de refrigeración y 3,3 kW de calefacción, a alrededor de {{precio:MLA15183460:k}}. Una reseña detallada da una regla práctica útil: calculá unas **100 frigorías por metro cuadrado** de tu ambiente.` },
       { type: "p", content: `Es un producto con menos historial (45 calificaciones) frente al Philco de esta guía. Necesita la ventana a un metro o menos de distancia para la manguera. Si valorás las funciones extra y no te importa el respaldo menor, es una buena opción.` },
 
       { type: "h3", title: `5. Surrey Smart Wi-Fi — el inteligente` },
       { type: "product-card", productMlaId: "MLA54689994", label: "El inteligente", labelColor: "purple", ranking: 5, description: `Frío/calor con control por app de celular, el único Wi-Fi de esta comparativa. 4.6 estrellas en 49 calificaciones.` },
-      { type: "p", content: `Si te interesa prender el equipo antes de llegar a casa o programarlo a distancia, el Surrey Smart es el único de esta guía con **Wi-Fi y control por app**, además del control remoto físico. Es frío/calor con buena potencia (3,5 kW en ambos modos), a alrededor de $936.000.` },
+      { type: "p", content: `Si te interesa prender el equipo antes de llegar a casa o programarlo a distancia, el Surrey Smart es el único de esta guía con **Wi-Fi y control por app**, además del control remoto físico. Es frío/calor con buena potencia (3,5 kW en ambos modos), a alrededor de {{precio:MLA54689994:k}}.` },
       { type: "p", content: `Es un producto más nuevo en el catálogo: su base de opiniones (49) es bastante más chica que la del Philco o el BGH, y una reseña detallada marca que el kit de instalación en la ventana es incómodo. Si el control por Wi-Fi te importa de verdad, vale la diferencia; si no, el Philco o el BGH tienen más historial.` },
 
       { type: "h2", title: `Tabla comparativa: por frigorías, extras y precio`, id: "tabla-comparativa" },
@@ -3541,7 +3541,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "h3", title: `3. Ruido, instalación y Wi-Fi` },
       { type: "p", content: `Ningún portátil es silencioso, pero el nivel varía y bastante: el Sansei es de los más ruidosos (65 dB declarados), mientras que el Philco declara 50 dB, unos 15 dB menos, una diferencia que de noche se nota. Si vas a dormir con él prendido, priorizá ese dato. La instalación es con manguera por una ventana, con un kit que en general funciona pero no siempre queda perfecto a la primera. Y el Wi-Fi (solo en el Surrey de esta guía) suma control por app.` },
 
-      { type: "h2", title: `Cuánto cuesta un aire acondicionado portátil en Argentina [julio 2026]`, id: "precios" },
+      { type: "h2", title: `Cuánto cuesta un aire acondicionado portátil en Argentina`, id: "precios" },
       { type: "list", items: [
         `**Alrededor de {{precio:MLA61382173:k}}:** el [Sansei SAP26HC9AN](https://meli.la/2cghgHg), el más económico (aunque ruidoso).`,
         `**Alrededor de {{precio:MLA45423359:k}}:** el [Philco PHP35HC7API](https://meli.la/1M4kNgw), el más vendido y con más respaldo de opiniones.`,
