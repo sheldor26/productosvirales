@@ -4041,7 +4041,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     ],
     intro: [
       `Comprar un kit en vez de cámaras sueltas tiene una sola razón de fondo: cubrir más de un punto (la entrada y el patio, dos ambientes de un local) a un precio conjunto mejor que comprarlas por separado. La decisión que más importa antes de elegir kit no es la marca, es el **tipo de instalación**: WiFi, que se conecta en minutos sin tocar una pared, o cableado, que exige pasar cables pero nunca depende de la señal inalámbrica de tu casa.`,
-      `En esta guía comparamos los kits de cámaras más vendidos de Argentina de los dos tipos: WiFi plug-and-play (TP-Link Tapo) y sistema cableado tradicional (Dahua), para que elijas según cuánta instalación estés dispuesto a hacer. Si buscás una sola cámara para un solo punto, mirá antes la [guía de cámaras exteriores individuales](/guias/seguridad/camara-de-seguridad-exterior).`,
+      `En esta guía comparamos los kits de cámaras más vendidos de Argentina de los dos tipos: WiFi plug-and-play (TP-Link Tapo) y sistema cableado tradicional (Dahua), para que elijas según cuánta instalación estés dispuesto a hacer. Si buscás una sola cámara para un solo punto, mirá antes nuestra comparativa de [cámaras de seguridad exterior](/guias/seguridad/camara-de-seguridad-exterior).`,
     ],
     sections: [
       { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_824147-MLA97457212801_112025-O.webp", alt: `Kit de cámaras de seguridad TP-Link Tapo C500, dos unidades para exterior`, imageSize: "hero" },
@@ -4089,7 +4089,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "h3", title: `2. El gasto extra que nadie cuenta` },
       { type: "p", content: `En un kit WiFi, el gasto extra suele ser la memoria (no incluida en ninguno de los dos Tapo de esta guía). En un kit cableado como el Dahua, el gasto extra es el cable UTP y las cajas de conexión, que tampoco vienen incluidos. Presupuestalo antes de comprar, sea cual sea el tipo que elijas.` },
       { type: "h3", title: `3. Exterior o interior` },
-      { type: "p", content: `El Tapo C200 de esta guía es solo interior, sin certificación de resistencia al agua. El Tapo C500 sí tiene certificación IP65 confirmada para exterior. El Dahua está pensado para exterior y su ficha lo declara resistente al agua, aunque sin un número de IP específico: ahí lo que más importa es proteger bien las conexiones del cableado. Si dudás entre cubrir solo un punto exterior en vez de dos, la [guía de cámaras exteriores individuales](/guias/seguridad/camara-de-seguridad-exterior) compara opciones sueltas.` },
+      { type: "p", content: `El Tapo C200 de esta guía es solo interior, sin certificación de resistencia al agua. El Tapo C500 sí tiene certificación IP65 confirmada para exterior. El Dahua está pensado para exterior y su ficha lo declara resistente al agua, aunque sin un número de IP específico: ahí lo que más importa es proteger bien las conexiones del cableado. Si dudás entre cubrir solo un punto exterior en vez de dos, la comparativa de [cámaras de seguridad exterior](/guias/seguridad/camara-de-seguridad-exterior) mira las opciones sueltas.` },
 
       { type: "h2", title: `Cuánto cuesta un kit de cámaras de seguridad [julio 2026]`, id: "precios" },
       { type: "list", items: [
@@ -5782,7 +5782,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       "Probé 5 masajeadores cervicales de MercadoLibre. Cuál comprar según tu problema y presupuesto.",
     h1: "Masajeador cervical: cuál comprar en Argentina según tu problema",
     publishedDate: "2026-04-11",
-    updatedDate: "2026-06-26",
+    updatedDate: "2026-08-17",
     hasDisclosure: true,
     intro: [
       "La mayoría de la gente busca esto porque le duele el cuello de estar en la compu. Yo también. Probé cinco modelos. Dos son buenos. Uno es una porquería. Acá va todo.",
@@ -12941,7 +12941,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     h1: "Los 15 mejores perfumes árabes para hombre en Argentina (2026)",
     directAnswer: "El mejor perfume árabe para hombre en Argentina 2026 es el **Lattafa Asad Intense** (alrededor de {{precio:MLA19715215:k}}): especiado y amaderado, con proyección alta y 6 a 10 horas reales de duración en piel. Es uno de los más probados del catálogo, con más de 7.000 reseñas. Para uso diario y de oficina conviene el Rasasi Hawas Ice; para el invierno y la noche, el Khamrah Qahwa.",
     publishedDate: "2026-04-17",
-    updatedDate: "2026-07-16",
+    updatedDate: "2026-08-17",
     hasDisclosure: true,
     quickPicks: [
       { productMlaId: "MLA19715215", label: "Nuestra elección", labelColor: "green", tagline: "Uno de los más probados del catálogo: 7.245 reseñas, 4.6⭐ y 6 a 10h de duración real en piel." },
@@ -13994,7 +13994,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     h1: "Perfumes árabes para mujer: las 12 fragancias más deseadas (2026)",
     directAnswer: "El mejor perfume árabe de mujer en Argentina 2026 es el **Lattafa Yara Elixir** (alrededor de {{precio:MLA60836327:k}}): dulce con cítricos, 8 horas reales de duración y el más viral en TikTok Argentina. Para verano y uso de día conviene el Yara Tous; para empezar sin gastar mucho, el Sabah Al Ward.",
     publishedDate: "2026-04-17",
-    updatedDate: "2026-07-16",
+    updatedDate: "2026-08-17",
     hasDisclosure: true,
     quickPicks: [
       { productMlaId: "MLA60836327", label: "Nuestra elección", labelColor: "green", tagline: "Yara Elixir: el árabe femenino más viral. 8h de duración con buen anclaje." },
