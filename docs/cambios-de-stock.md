@@ -7,6 +7,12 @@
 > 🔴 = se quedo sin stock (el link de afiliado apunta a una pagina pausada).
 > Entradas nuevas arriba.
 
+## 2026-08-24
+
+- 🟢 VOLVIO EL STOCK — **MLA27077238** Máquina Cortar Papas Bastón 2 Cuchillas — Palanca Metal + PVC
+  - ML: https://www.mercadolibre.com.ar/corta-papas-cortadora-verduras-frutas-baston-2-cuchillas/p/MLA27077238
+  - Sitio: https://productosvirales.com.ar/producto/MLA27077238
+
 ## 2026-08-21
 
 - 🟢 VOLVIO EL STOCK — **MLA22975097** Mini Proyector Led Portatil 1200 Lumens Color Blanco

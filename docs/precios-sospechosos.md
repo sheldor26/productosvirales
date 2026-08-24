@@ -6,6 +6,30 @@
 > chequearlos en MercadoLibre. Si son reales, avisar para aplicarlos a mano.
 > Entradas nuevas arriba.
 
+## 2026-08-24
+
+- **MLA8732921** — Auriculares Gamer Con Cable HyperX Cloud HX-HSCA Black y Red: $91.379 → $779.403 (+753%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA8732921
+  - Sitio: https://productosvirales.com.ar/producto/MLA8732921
+- **MLA42113760** — Freidora De Aire Kanji Home 8 Litros +10 Funciones Canasta Antiadherente Kjh-1700dc 1700w Lh Color Negro: $173.000 → $349.999 (+102%)
+  - ML: https://www.mercadolibre.com.ar/freidora-de-aire-kanji-home-8-litros-10-funciones-canasta-antiadherente-kjh-1700dc-1700w-lh-color-negro/p/MLA42113760
+  - Sitio: https://productosvirales.com.ar/producto/MLA42113760
+- **MLA19788587** — Ultracomb Pe4910 Pava Electrica Con Infusor De Te Func. Mate: $199.999 → $99.999 (-50%)
+  - ML: https://www.mercadolibre.com.ar/ultracomb-pe4910-pava-electrica-con-infusor-de-te-func-mate/p/MLA19788587
+  - Sitio: https://productosvirales.com.ar/producto/MLA19788587
+- **MLA47856504** — Plancha De Pelo Revlon 230° Placas 5.08Cm. Recubrimiento Titanio - plateada glitter: $399.999 → $69.999 (-83%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA47856504
+  - Sitio: https://productosvirales.com.ar/producto/MLA47856504
+- **MLA17380375** — Ventilador De Techo Liliana Vthi513 Blanco Con 3 Palas Metal Diámetro 1.4 m: $219.429 → $105.990 (-52%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA17380375
+  - Sitio: https://productosvirales.com.ar/producto/MLA17380375
+- **MLA20038035** — Freezer Vertical Philco PHCV065B — 65 Litros, Blanco, 20 kg: $772.199 → $353.599 (-54%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA20038035
+  - Sitio: https://productosvirales.com.ar/producto/MLA20038035
+- **MLA41479634** — Freidora de Aire Westinghouse AFR-1802 — 10 Litros, 1,8 kW, 12 Funciones: $350.000 → $156.509 (-55%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA41479634
+  - Sitio: https://productosvirales.com.ar/producto/MLA41479634
+
 ## 2026-08-21
 
 - **MLA8732921** — Auriculares Gamer Con Cable HyperX Cloud HX-HSCA Black y Red: $91.379 → $779.403 (+753%)
