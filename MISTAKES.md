@@ -542,3 +542,52 @@ El buscador de ML estuvo caido casi toda la busqueda: devuelve 824 caracteres (s
 encabezado). Es el bug de stream de React ya anotado, pero mucho mas persistente que antes. Sin
 listado no se puede ordenar la gondola por resenas, y hubo que adivinar modelos por busqueda web,
 que es lento y sesgado. Si vuelve a pasar, evaluar Bright Data para el sourcing en vez del navegador.
+
+## 2026-08-25 — Cinco pasadas por citas: corregirle la ortografia al comprador
+
+Las 4 fichas de camaras necesitaron **cinco pasadas de Codex** (NO-GO x4, GO) y las cuatro
+primeras fueron por lo mismo: **citas entre comillas que no eran textuales**.
+
+En total se restauraron **19 apariciones**. Ninguna cambiaba el sentido, y ese es justamente el
+problema: eran "mejoras" invisibles.
+
+| Lo que se escribio | Lo que dijo el comprador |
+| :-- | :-- |
+| "precio de **las** peliculas" | "precio de **los** peliculas" |
+| "la pila se gasta **si no** la sacan" (x3) | "**sino** la sacan" |
+| "**podes** imprimir" | "**puedes** imprimir" |
+| "espero que **si**" con tilde (x2) | sin tilde |
+| "los **rollos** duran el doble" | "los **royos** duran el doble" |
+| "**ojo**: no trae..." y 3 mayusculas mas | "**Ojo**: no trae..." |
+| "sin necesidad de imprimir**,** solo con memoria" | sin la coma |
+| "descargando la app y puedes imprimir" | "descargando la app **instax mini evo** y puedes" |
+
+**El patron:** normalizar al rioplatense, arreglar tipeos, bajar la mayuscula inicial al citar a
+mitad de oracion, agregar una coma que "faltaba". Todo eso es practica editorial normal en
+periodismo. **Acá no aplica:** la regla del sitio es que la resena se cita textual, y el valor de
+la ficha es que el lector confie en que eso es lo que escribio otro comprador.
+
+### LA REGLA
+
+**Toda cita entre comillas tiene que ser substring EXACTO del campo `text` del customerReview.**
+Sin adaptar mayuscula, tilde, puntuacion ni dialecto. Si la cita no entra bien en la oracion,
+se reescribe la oracion, no la cita. Si molesta la mayuscula inicial, se pone la cita despues de
+dos puntos.
+
+### LO QUE ESTA RONDA ENSEÑA DE VERDAD, Y NO ES SOBRE CITAS
+
+Las pasadas 2 y 3 se perdieron porque se corrigieron solo las lineas que Codex citaba. La 4 se
+perdio por algo peor: **se escribio un verificador, pero tenia un punto ciego** (su regex de citas
+escapadas exigia que no hubiera comillas ni backslashes dentro del fragmento, asi que se saltaba
+las citas largas dentro de campos `answer`), y se reporto "0 citas corrompidas" con esa herramienta
+rota. Codex encontro justo una de las que el verificador no miraba.
+
+**Cuando se automatiza una verificacion, hay que verificar el verificador antes de confiar en su
+cero.** La forma barata: contar cuantos fragmentos revisa. El verificador roto revisaba muchos
+menos que los 94 que revisa el arreglado, y ese numero, mirado a tiempo, habria delatado el hueco.
+
+### Bug de metodo de la misma sesion
+
+Durante toda la sesion se reporto `tsc rc=$?` despues de un pipe a `tail`: eso lee el exit code de
+`tail`, no de `tsc`, y siempre da 0. En la practica los errores igual se veian porque se leia la
+salida, pero el "rc=0" no significaba nada. Correcto: `out=$(npx tsc --noEmit 2>&1); rc=$?`.

@@ -8,6 +8,573 @@ import type { Product } from '@/lib/types';
  */
 
 export const curatedProducts: Product[] = [
+  // ─── Cámaras instantáneas y analógicas — sourceadas de ML (ago 2026). Silo tech ───
+  {
+    id: "MLA23076923",
+    title: "Cámara Instantánea Fujifilm Instax Mini 12",
+    canonicalName: "Fujifilm Instax Mini 12",
+    brand: "Fujifilm",
+    price: 148649,
+    originalPrice: 297299,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_768454-MLA100002768483_112025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_768454-MLA100002768483_112025-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_608042-MLA109742324267_032026-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_716625-MLA109742324275_032026-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_995901-MLA109742561641_032026-O.webp",
+    ],
+    category: "Tech",
+    categorySlug: "tech",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA23076923",
+    affiliateUrl: "https://meli.la/2ijDx7f",
+    condition: "new",
+    freeShipping: false,
+    rating: 4.9,
+    reviewCount: 13054,
+    reviewsSampledAt: "2026-08-25",
+    soldQuantity: 1000,
+    pastelColor: "var(--pastel-pink)",
+    visibility: "featured",
+    priceUpdated: "2026-08-25",
+    priceLastChecked: "2026-08-25",
+    priceVerifiedAt: "2026-08-25",
+    priceStatus: "fresh",
+    seoTitle: "Instax Mini 12: precio, opiniones y el costo del cartucho",
+    metaDescription: "Instax Mini 12 a {{precio:MLA23076923}} con {{reviews:MLA23076923}} opiniones. Lo que avisan sus compradores: el cartucho no viene incluido y termina saliendo más que la cámara.",
+    h1: "Fujifilm Instax Mini 12: la cuenta que nadie hace antes de comprarla",
+    pros: [
+      "{{reviews:MLA23076923}} calificaciones con {{rating:MLA23076923}} estrellas: casi cuarenta veces las reseñas de la segunda cámara más opinada de esta comparativa",
+      "Es la más barata de las cuatro cámaras que comparamos, a {{precio:MLA23076923}}",
+      "Se usa sin aprender nada: girás el lente para prenderla, el modo close-up entra solo y el espejo para selfies está al lado del lente",
+      "Funciona con dos pilas AA comunes, así que no dependés de encontrar un cargador ni una batería propietaria",
+      "Exposición automática: la cámara mide la luz y ajusta el flash sola, que es donde más se equivoca quien arranca",
+    ],
+    cons: [
+      "**El cartucho no viene incluido.** Lo avisa una reseña con 108 votos útiles: \"Ojo: no trae los cartuchos incluidos\". Comprás la cámara y no podés sacar una sola foto hasta comprar película aparte",
+      "**Y la película es cara.** La reseña con 113 votos útiles lo pone en números: \"Son muy caras y en poco tiempo habrás gastado más que el valor de la propia cámara en ellas\". Es el costo real de esta compra y casi nadie lo calcula",
+      "No hay forma de elegir qué foto imprimir: cada disparo gasta una película, salga bien o salga mal. La Instax Mini Evo resuelve exactamente eso, a costa de {{preciodif:MLA27036811:MLA23076923}} más",
+      "La calidad de imagen es la que es. La reseña más votada de todas, con 230 votos, lo dice sin vueltas: \"claramente no hay calidad hd, pero con buen manejo de luz pueden salir fotos muy bellas\"",
+      "Lente fijo de 60 mm con apertura f/12.7, sin autofoco ni enfoque manual. En interiores con poca luz depende enteramente del flash",
+    ],
+    verdict: "Es la más elegida de las cuatro cámaras que comparamos, y sus {{reviews:MLA23076923}} calificaciones con {{rating:MLA23076923}} estrellas explican por qué: es barata, es linda y no hay nada que aprender. Pero antes de comprarla hacé la cuenta que sus propios compradores repiten: el cartucho no viene, y a la larga vas a gastar en película más de lo que salió la cámara.",
+    articleBody: `## Qué es la Instax Mini 12
+
+Es una cámara de fotos instantáneas: sacás la foto y sale impresa en el momento, en un papel de 62 x 46 mm. Cuesta {{precio:MLA23076923}} y tiene {{reviews:MLA23076923}} calificaciones con {{rating:MLA23076923}} estrellas en MercadoLibre Argentina.
+
+Ese número merece un segundo. La segunda cámara más opinada de esta comparativa, la Instax Mini Evo, tiene {{reviews:MLA27036811}}: la Mini 12 tiene casi cuarenta veces más. Entre las cuatro que verificamos, no hay ninguna cerca.
+
+## La cuenta que hay que hacer antes de comprarla
+
+Acá está lo importante, y no lo decimos nosotros: lo dicen varias de las reseñas más votadas de la propia publicación.
+
+Una, con 108 votos útiles, avisa lo básico: **"Ojo: no trae los cartuchos incluidos"**. Comprás la cámara, llega, y no podés sacar una sola foto hasta comprar película aparte.
+
+Otra, con 113 votos, va al fondo del asunto: **"atención con el precio de los películas. Son muy caras y en poco tiempo habrás gastado más que el valor de la propia cámara en ellas"**.
+
+Esa es la verdad de esta compra. La cámara sale {{precio:MLA23076923}} una vez; la película se paga para siempre. Si vas a sacar fotos seguido, el gasto real de los primeros meses es varias veces el precio de la etiqueta.
+
+## Cada disparo gasta una foto, salga bien o mal
+
+Este es el otro lado de la misma moneda y es lo que más frustra al principio. No hay pantalla, no hay previsualización, no hay borrar. Apretás el botón y esa película ya se gastó, aunque la foto salga movida, oscura o con el dedo adelante.
+
+Si eso te preocupa, la [Instax Mini Evo](/producto/camara-instantanea-hibrida-fujifilm-instax-mini-evo-mla27036811) está pensada exactamente para resolverlo: saca digital, vos elegís cuál imprimir. Cuesta {{preciodif:MLA27036811:MLA23076923}} más.
+
+## Qué calidad de foto esperar
+
+La reseña más votada de toda la publicación, con 230 votos útiles, es también la más honesta: **"claramente no hay calidad hd, pero con buen manejo de luz pueden salir fotos muy bellas"**.
+
+Es exacto. Tiene un lente fijo de 60 mm con apertura f/12.7, que es muy cerrada, y sensibilidad ISO 800. Traducido: **necesita luz**. Afuera de día anda muy bien. En un interior sin ventanas depende del flash, y el flash aplana.
+
+No compres esta cámara esperando la foto de tu celular en papel. Comprala por lo otro: que la foto exista una sola vez y sea física.
+
+## Lo que sí hace muy fácil
+
+No hay nada que configurar. Girás el aro del lente para prenderla, lo girás otra vez para el modo close-up, y el espejo para selfies está pegado al lente. La exposición la calcula sola. Usa dos pilas AA comunes de kiosco, no una batería propietaria.
+
+Pesa 306 gramos y mide unos 11 x 7 x 12 cm: entra en una mochila sin pensarlo.
+
+## Contra las otras tres de la comparativa
+
+La [Instax Mini Evo](/producto/camara-instantanea-hibrida-fujifilm-instax-mini-evo-mla27036811) es la respuesta al problema de la película desperdiciada, y además tiene apertura f/2.0 contra la f/12.7 de esta, o sea que rinde mucho mejor con poca luz.
+
+La [Kodak Ektar H35](/producto/camara-analogica-kodak-ektar-h35-medio-cuadro-35-mm-mla23035894) ataca el mismo problema por otro lado: es analógica de 35 mm de medio cuadro, así que saca 72 fotos con un rollo de 36. Pero no imprime en el momento: hay que revelar.
+
+La [Instax Pal](/producto/camara-digital-fujifilm-instax-pal-bluetooth-mla28640451) directamente no imprime nada por sí sola, es digital y necesita una impresora aparte.
+
+## Para quién es, y para quién no
+
+Es para vos si querés la experiencia de la foto física inmediata, si es un regalo, o si te alcanza con que sea simple y linda. Los {{reviews:MLA23076923}} compradores que la calificaron no se equivocan: cumple lo que promete.
+
+No es para vos si te molesta el gasto continuo en película, si querés elegir qué imprimir, o si esperabas calidad de foto digital en papel.`,
+    specs: [
+      { label: "Marca / Modelo", value: "Fujifilm Instax Mini 12" },
+      { label: "Tipo", value: "Instantánea: la foto sale impresa en el momento" },
+      { label: "Tamaño de la imagen", value: "62 x 46 mm (formato Instax Mini)" },
+      { label: "Lente", value: "Fijo de 60 mm, apertura f/12.7, sin autofoco ni enfoque manual" },
+      { label: "Sensibilidad", value: "ISO 800" },
+      { label: "Exposición", value: "Automática: la cámara mide la luz y ajusta sola" },
+      { label: "Modos", value: "Modo close-up (se activa girando el aro del lente)" },
+      { label: "Flash", value: "Incorporado" },
+      { label: "Espejo para selfies", value: "Sí, junto al lente" },
+      { label: "Alimentación", value: "2 pilas AA comunes" },
+      { label: "Peso", value: "306 g" },
+      { label: "Medidas", value: "10,8 x 6,7 x 12,1 cm" },
+      { label: "Película incluida", value: "NO. Se compra aparte y es el costo principal de esta cámara" },
+      { label: "Resistencia al agua", value: "No" },
+    ],
+    faq: [
+      { question: "¿La Instax Mini 12 viene con película incluida?", answer: "No, y es una de las advertencias más repetidas por sus compradores. Una reseña con 108 votos útiles lo dice textual: \"Ojo: no trae los cartuchos incluidos\". Hay que comprar la película aparte para poder sacar la primera foto." },
+      { question: "¿Cuánto sale realmente usarla?", answer: "Bastante más que la cámara. La reseña con 113 votos útiles lo resume así: \"Son muy caras y en poco tiempo habrás gastado más que el valor de la propia cámara en ellas\". La cámara sale {{precio:MLA23076923}} una vez; la película se paga cada vez que sacás fotos. Es la cuenta que hay que hacer antes de comprar, no después." },
+      { question: "¿Qué calidad de foto tiene?", answer: "No es calidad digital y no pretende serlo. La reseña más votada de la publicación, con 230 votos, lo dice mejor que nosotros: \"claramente no hay calidad hd, pero con buen manejo de luz pueden salir fotos muy bellas\". Tiene lente fijo f/12.7 e ISO 800, así que necesita luz: de día afuera rinde bien, en interiores oscuros depende del flash." },
+      { question: "¿Se puede elegir qué foto imprimir?", answer: "No. Cada disparo gasta una película, salga bien o mal, porque no hay pantalla ni previsualización. Si eso te molesta, la [Instax Mini Evo](/producto/camara-instantanea-hibrida-fujifilm-instax-mini-evo-mla27036811) saca digital y te deja elegir cuál imprimir, por {{preciodif:MLA27036811:MLA23076923}} más." },
+      { question: "¿Qué pilas usa?", answer: "Dos pilas AA comunes, de las que se compran en cualquier kiosco. No tiene batería propietaria ni necesita cargador, que es una ventaja concreta frente a la Instax Mini Evo, que sí usa batería de litio recargable." },
+      { question: "¿Sirve como regalo?", answer: "Sus {{reviews:MLA23076923}} calificaciones hablan por sí solas, y es de las cuatro cámaras que comparamos la que más unidades vendidas declara. Un consejo honesto: regalá también un pack de película. Si no, la persona abre la caja y no puede sacar ni una foto." },
+      { question: "¿Es lo mismo que una Polaroid?", answer: "No, aunque mucha gente use \"polaroid\" como sinónimo de cámara instantánea. Polaroid es otra marca, con su propio formato de película, y en MercadoLibre Argentina sus modelos aparecen sobre todo como compra internacional. El formato de esta es Instax Mini, que es el que se consigue sin problema en el país." },
+    ],
+    customerReviews: [
+      { rating: 5, date: "2026", useful: 230, text: "Es hermosa. Ya tengo que reinvertir en cartuchos porque una vez que le agarras el gusto te emocionas y te crees fotógrafo profesional claramente no hay calidad hd, pero con buen manejo de luz pueden salir fotos muy bellas. Para guardar en el recuerdo." },
+      { rating: 5, date: "2026", useful: 113, text: "En comparación con otras cámaras polaroid en el mercado, esta es económica y de muy buena calidad. Para quienes vayan a comprar, atención con el precio de los películas. Son muy caras y en poco tiempo habrás gastado más que el valor de la propia cámara en ellas." },
+      { rating: 5, date: "2026", useful: 108, text: "Exelente producto, saca hermosas fotos y el color lo ame. Ojo: no trae los cartuchos incluidos." },
+      { rating: 5, date: "2026", useful: 170, text: "La amo." },
+      { rating: 5, date: "2026", useful: 142, text: "La mejor compra, me encantaron las fotos." },
+    ],
+    relatedProducts: ["MLA27036811", "MLA23035894", "MLA28640451"],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Fujifilm Instax Mini 12",
+      image: "https://http2.mlstatic.com/D_NQ_NP_768454-MLA100002768483_112025-O.webp",
+      description: "Cámara instantánea Fujifilm Instax Mini 12: imprime la foto en el momento en formato 62 x 46 mm, lente fijo de 60 mm f/12.7, exposición automática y pilas AA. La película se compra aparte. 4.9 estrellas con más de 13.000 calificaciones en MercadoLibre Argentina.",
+      brand: { "@type": "Brand", name: "Fujifilm" },
+      offers: {
+        "@type": "Offer",
+        url: "https://meli.la/2ijDx7f",
+        priceCurrency: "ARS",
+        price: 148649,
+        availability: "https://schema.org/InStock",
+        itemCondition: "https://schema.org/NewCondition",
+        seller: { "@type": "Organization", name: "MercadoLibre Argentina" },
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.9",
+        reviewCount: "13054",
+      },
+    },
+  },
+  {
+    id: "MLA27036811",
+    title: "Cámara Instantánea Híbrida Fujifilm Instax Mini Evo",
+    canonicalName: "Fujifilm Instax Mini Evo",
+    brand: "Fujifilm",
+    price: 859999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_946229-MLA109742319285_032026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_946229-MLA109742319285_032026-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_677598-MLA109742319287_032026-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_897435-MLA108917149628_032026-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_808596-MLA99498311140_112025-O.webp",
+    ],
+    category: "Tech",
+    categorySlug: "tech",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA27036811",
+    affiliateUrl: "https://meli.la/2Jua833",
+    condition: "new",
+    freeShipping: false,
+    rating: 4.9,
+    reviewCount: 342,
+    reviewsSampledAt: "2026-08-25",
+    soldQuantity: 100,
+    pastelColor: "var(--pastel-purple)",
+    visibility: "normal",
+    priceUpdated: "2026-08-25",
+    priceLastChecked: "2026-08-25",
+    priceVerifiedAt: "2026-08-25",
+    priceStatus: "fresh",
+    seoTitle: "Instax Mini Evo: la que deja de desperdiciar película",
+    metaDescription: "Instax Mini Evo a {{precio:MLA27036811}}: híbrida, elegís qué foto imprimir e imprimís desde el celular. Apertura f/2.0 contra la f/12.7 de la Mini 12.",
+    h1: "Fujifilm Instax Mini Evo: la que arregla el problema más caro de las instantáneas",
+    pros: [
+      "**Es híbrida: saca digital y vos elegís cuál imprimir.** Eso resuelve el gasto que más se queja en toda la categoría, que es quemar una película en cada disparo salga bien o mal",
+      "Imprime también fotos que ya tenés en el celular, con la app. Una reseña lo destaca como lo mejor del producto",
+      "Apertura f/2.0 contra la f/12.7 de la Instax Mini 12: entra muchísima más luz, así que rinde en interiores donde la Mini 12 depende del flash",
+      "Tiene exposición manual y enfoque manual, algo que ninguna otra de esta comparativa ofrece",
+      "{{rating:MLA27036811}} estrellas en {{reviews:MLA27036811}} calificaciones, y es más liviana que la Mini 12 pese a hacer bastante más",
+    ],
+    cons: [
+      "Es la más cara de la comparativa por lejos: cuesta {{preciodif:MLA27036811:MLA23076923}} más que la [Instax Mini 12](/producto/camara-instantanea-fujifilm-instax-mini-12-mla23076923), o sea casi seis veces su precio",
+      "Tampoco viene con película. Una reseña avisa: \"Lástima que no viene con la funda ni un rollo de papel para impresión\". Igual que la Mini 12, hay que sumarle ese gasto",
+      "Usa batería de litio recargable, no pilas comunes. Si te quedás sin batería lejos de un cable, no se resuelve comprando pilas en un kiosco como con la Mini 12",
+      "Su base de opiniones es mucho más chica que la de la Mini 12: {{reviews:MLA27036811}} contra {{reviews:MLA23076923}}. Sigue siendo sólida, pero es bastante menos evidencia",
+      "Sigue usando película Instax Mini, así que el costo por foto impresa es el mismo. Lo que baja es cuántas imprimís, no cuánto cuesta cada una",
+    ],
+    verdict: "Es la respuesta cara al problema barato: la [Instax Mini 12](/producto/camara-instantanea-fujifilm-instax-mini-12-mla23076923) gasta película en cada disparo, y esta te deja elegir. Si vas a sacar muchas fotos, esa diferencia se paga sola con el tiempo. Si vas a sacar pocas, no: los {{preciodif:MLA27036811:MLA23076923}} de diferencia compran muchísima película.",
+    articleBody: `## Qué es la Instax Mini Evo
+
+Es una cámara instantánea híbrida: saca la foto en digital, la ves en una pantalla, y recién ahí decidís si la imprimís. Cuesta {{precio:MLA27036811}} y tiene {{reviews:MLA27036811}} calificaciones con {{rating:MLA27036811}} estrellas en MercadoLibre Argentina.
+
+## El problema que resuelve, y por qué importa
+
+En la [Instax Mini 12](/producto/camara-instantanea-fujifilm-instax-mini-12-mla23076923) cada disparo gasta una película. Sale movida, gastaste. Salió oscura, gastaste. Y sus propios compradores avisan que la película termina costando más que la cámara.
+
+La Evo rompe eso. Sacás todas las fotos que quieras, mirás cuáles valen la pena, imprimís solo esas. Un comprador lo resume así: **"las fotos se pueden pasar digitalmente sin necesidad de imprimir solo con memoria"**.
+
+Y hace algo más que también ahorra: imprime fotos que ya tenés en el celular. Otra reseña lo destaca como lo mejor del producto: "Se conecta al celular descargando la app instax mini evo y puedes imprimir fotos desde tu celular".
+
+## La diferencia de lente que casi nadie mira
+
+La Mini 12 tiene apertura f/12.7. La Evo tiene **f/2.0**.
+
+Ese número mide cuánta luz entra al lente, y la diferencia entre f/12.7 y f/2.0 es enorme: entra muchísima más luz. En la práctica significa que la Evo saca fotos usables en un bar, un living de noche o un cumpleaños puertas adentro, donde la Mini 12 depende enteramente del flash y aplana todo.
+
+Sumale que tiene exposición manual y enfoque manual, que ninguna otra de esta comparativa ofrece.
+
+## Lo que no resuelve
+
+**El costo por foto impresa es el mismo.** Usa la misma película Instax Mini que la Mini 12, al mismo precio. Lo que cambia es cuántas imprimís, no cuánto sale cada una.
+
+**Tampoco viene con película.** Una reseña lo señala: "Lástima que no viene con la funda ni un rollo de papel para impresión".
+
+**Y depende de batería recargable**, no de pilas AA. Si se descarga lejos de un enchufe, no lo arreglás comprando pilas.
+
+## La cuenta honesta
+
+Cuesta {{preciodif:MLA27036811:MLA23076923}} más que la Mini 12. Esa diferencia compra muchísima película.
+
+Así que la pregunta no es cuál cámara es mejor, es cuántas fotos vas a sacar. Si vas a usarla seguido durante años, la Evo se paga sola en película no desperdiciada, además de sacar mejores fotos. Si es para un viaje o un regalo puntual, la Mini 12 hace el trabajo por una fracción.
+
+## Contra las otras de la comparativa
+
+La [Kodak Ektar H35](/producto/camara-analogica-kodak-ektar-h35-medio-cuadro-35-mm-mla23035894) ataca el mismo problema del costo por foto desde la vereda de enfrente: es analógica de medio cuadro y saca 72 fotos con un rollo de 36. Pero no imprime en el momento, hay que revelar.
+
+La [Instax Pal](/producto/camara-digital-fujifilm-instax-pal-bluetooth-mla28640451) es digital y no imprime nada por sí sola.
+
+## Para quién es, y para quién no
+
+Es para vos si ya sabés que vas a sacar muchas fotos, si te molesta desperdiciar película, o si querés imprimir cosas que ya tenés en el celular.
+
+No es para vos si es un regalo puntual o una compra de impulso: ahí los {{preciodif:MLA27036811:MLA23076923}} de diferencia con la Mini 12 no se justifican.`,
+    specs: [
+      { label: "Marca / Modelo", value: "Fujifilm Instax Mini Evo" },
+      { label: "Tipo", value: "Híbrida: saca digital y vos elegís qué imprimir" },
+      { label: "Tamaño de la imagen", value: "62 x 46 mm (formato Instax Mini)" },
+      { label: "Lente", value: "28 mm, apertura f/2.0 (la Instax Mini 12 es f/12.7)" },
+      { label: "Enfoque", value: "Manual disponible" },
+      { label: "Exposición", value: "Automática y manual" },
+      { label: "Impresión desde el celular", value: "Sí, con la app Instax Mini Evo" },
+      { label: "Flash", value: "Incorporado" },
+      { label: "Espejo para selfies", value: "Sí" },
+      { label: "Batería", value: "Ion de litio recargable (no usa pilas AA)" },
+      { label: "Peso", value: "285 g" },
+      { label: "Medidas", value: "12,3 x 3,6 x 8,7 cm" },
+      { label: "Película incluida", value: "No, se compra aparte" },
+      { label: "Resistencia al agua", value: "No" },
+    ],
+    faq: [
+      { question: "¿Qué significa que sea híbrida?", answer: "Que saca la foto en digital primero y la muestra en una pantalla. Recién ahí decidís si la imprimís o no. En una cámara instantánea común, como la [Instax Mini 12](/producto/camara-instantanea-fujifilm-instax-mini-12-mla23076923), cada disparo gasta una película salga bien o mal." },
+      { question: "¿Se pueden imprimir fotos del celular?", answer: "Sí, con la app de la marca. Es una de las funciones más destacadas en las opiniones: un comprador dice que \"Se conecta al celular descargando la app instax mini evo y puedes imprimir fotos desde tu celular\"." },
+      { question: "¿Sale mejores fotos que la Instax Mini 12?", answer: "En poca luz, sí, y por una razón concreta: la apertura del lente. La Evo es f/2.0 y la Mini 12 es f/12.7, o sea que a la Evo le entra muchísima más luz. En un interior de noche la Mini 12 depende del flash; la Evo no. Además la Evo tiene enfoque y exposición manuales." },
+      { question: "¿Sale más barato usarla que la Mini 12?", answer: "Por foto impresa, no: usa la misma película Instax Mini al mismo precio. Lo que baja es la cantidad que imprimís, porque elegís cuáles. Si sacás muchas fotos, esa diferencia se acumula; si sacás pocas, los {{preciodif:MLA27036811:MLA23076923}} de diferencia con la Mini 12 compran mucha película." },
+      { question: "¿Viene con película?", answer: "No. Una reseña lo señala directamente: \"Lástima que no viene con la funda ni un rollo de papel para impresión\". Hay que sumarle ese gasto, igual que con la Mini 12." },
+      { question: "¿Qué batería usa?", answer: "Batería de litio recargable, no pilas AA. Es más cómodo en el día a día pero menos práctico en emergencias: si se descarga lejos de un enchufe no lo resolvés comprando pilas, cosa que con la [Instax Mini 12](/producto/camara-instantanea-fujifilm-instax-mini-12-mla23076923) sí podés." },
+    ],
+    customerReviews: [
+      { rating: 5, date: "2026", useful: 20, text: "Es una cámara bellísima, me encanta el color y el diseño. Se conecta al celular descargando la app instax mini evo y puedes imprimir fotos desde tu celular." },
+      { rating: 5, date: "2026", useful: 15, text: "Recibí el producto comprado. Lástima que no viene con la funda ni un rollo de papel para impresión." },
+      { rating: 5, date: "2026", useful: 14, text: "Mi primera camara, hay que tener en cuenta solamente que las fotos se pueden pasar digitalmente sin necesidad de imprimir solo con memoria, fuera de ahí es facil de usar y se siente de buena calidad." },
+      { rating: 5, date: "2026", useful: 16, text: "Preciosa. Estéticamente es muy bonita. Funciona bastante bien, las fotos son de buena calidad para una cámara instantánea. Me encanta que puedas imprimir fotos desde el teléfono con la app." },
+    ],
+    relatedProducts: ["MLA23076923", "MLA23035894", "MLA28640451"],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Fujifilm Instax Mini Evo",
+      image: "https://http2.mlstatic.com/D_NQ_NP_946229-MLA109742319285_032026-O.webp",
+      description: "Cámara instantánea híbrida Fujifilm Instax Mini Evo: saca en digital y elegís qué imprimir, imprime desde el celular con app, lente de 28 mm con apertura f/2.0 y enfoque manual. 4.9 estrellas con más de 340 calificaciones en MercadoLibre Argentina.",
+      brand: { "@type": "Brand", name: "Fujifilm" },
+      offers: {
+        "@type": "Offer",
+        url: "https://meli.la/2Jua833",
+        priceCurrency: "ARS",
+        price: 859999,
+        availability: "https://schema.org/InStock",
+        itemCondition: "https://schema.org/NewCondition",
+        seller: { "@type": "Organization", name: "MercadoLibre Argentina" },
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.9",
+        reviewCount: "342",
+      },
+    },
+  },
+  {
+    id: "MLA23035894",
+    title: "Cámara Analógica Kodak Ektar H35 Medio Cuadro 35 mm",
+    canonicalName: "Kodak Ektar H35",
+    brand: "Kodak",
+    price: 299500,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_943492-MLA99407996164_112025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_943492-MLA99407996164_112025-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_793304-MLA104986165812_012026-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_983852-MLA105556789245_012026-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_845455-MLA104988527856_012026-O.webp",
+    ],
+    category: "Tech",
+    categorySlug: "tech",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA23035894",
+    affiliateUrl: "https://meli.la/1VBZg2N",
+    condition: "new",
+    freeShipping: false,
+    rating: 4.7,
+    reviewCount: 78,
+    reviewsSampledAt: "2026-08-25",
+    soldQuantity: 50,
+    pastelColor: "var(--pastel-amber)",
+    visibility: "normal",
+    priceUpdated: "2026-08-25",
+    priceLastChecked: "2026-08-25",
+    priceVerifiedAt: "2026-08-25",
+    priceStatus: "fresh",
+    seoTitle: "Kodak Ektar H35: 72 fotos por rollo, pero no imprime",
+    metaDescription: "Kodak Ektar H35 a {{precio:MLA23035894}}: analógica de medio cuadro, saca 72 fotos con un rollo de 36. Pesa 100 g. No imprime en el momento: hay que revelar.",
+    h1: "Kodak Ektar H35: el doble de fotos por rollo, a cambio de esperar el revelado",
+    pros: [
+      "**Medio cuadro: 72 fotos con un rollo de 36.** Es literalmente el doble, y es la razón por la que existe esta cámara. La reseña más votada lo pone primero: \"un diseño que te permite sacar hasta 72 fotos\"",
+      "Pesa 100 g: menos de la mitad que la Instax Mini Evo (285 g) y que la Instax Mini 12 (306 g)",
+      "Analógica de 35 mm, o sea que usás rollo de fotografía común y elegís qué película cargarle. No estás atado a un formato propietario",
+      "Funciona con una sola pila AAA, que solo alimenta el flash. El obturador es mecánico",
+      "{{rating:MLA23035894}} estrellas en {{reviews:MLA23035894}} calificaciones, y varias reseñas la recomiendan como primera cámara analógica",
+    ],
+    cons: [
+      "**No imprime en el momento.** Esto no es una instantánea: sacás las fotos, terminás el rollo y lo llevás a revelar. Si lo que buscabas era la foto en la mano al instante, esta no es",
+      "Medio cuadro significa que cada foto usa la mitad del negativo, así que el grano se nota más y la definición es menor que en una 35 mm normal",
+      "La pila se descarga sola si la dejás puesta. Lo cuenta un comprador: \"la pila se gasta sino la sacan y deja de funcionar el flash\". Sacala cuando no la uses",
+      "Sin autofoco y sin enfoque manual: es de foco fijo. Lo que esté muy cerca va a salir desenfocado",
+      "Su base de opiniones es chica comparada con la de la Instax Mini 12: {{reviews:MLA23035894}} contra {{reviews:MLA23076923}}",
+    ],
+    verdict: "Ataca el mismo problema que las instantáneas (que cada foto cuesta plata) pero por el lado contrario: en vez de imprimir menos, saca el doble por rollo. A {{precio:MLA23035894}} y con 100 gramos, es la puerta de entrada a la fotografía analógica. Lo que perdés es la inmediatez: acá hay que esperar el revelado.",
+    articleBody: `## Qué es la Kodak Ektar H35
+
+Es una cámara analógica compacta de 35 mm, de medio cuadro. Cuesta {{precio:MLA23035894}} y tiene {{reviews:MLA23035894}} calificaciones con {{rating:MLA23035894}} estrellas en MercadoLibre Argentina.
+
+Aclaración importante antes de seguir: **esta cámara no imprime**. No es una instantánea. Sacás las fotos, terminás el rollo, y lo llevás a revelar como se hacía siempre.
+
+## Medio cuadro: la razón por la que existe
+
+Una cámara de 35 mm común usa todo el ancho del negativo para cada foto y saca 36 fotos por rollo. Esta usa la mitad, así que saca **72**.
+
+La reseña más votada de la publicación, con 55 votos útiles, lo pone como lo primero que hay que saber: **"un diseño que te permite sacar hasta 72 fotos, es una cámara perfecta para arrancar a sacar fotos analógicas"**. Otro comprador lo dice más corto: "esta bueno que saque medio frame porque los royos duran el doble".
+
+Ese es el punto. En analógico, el rollo y el revelado son el gasto real, igual que la película en las instantáneas. Duplicar las fotos por rollo parte ese costo al medio.
+
+## Lo que se paga a cambio
+
+**Se nota el grano.** Cada foto usa la mitad del negativo, así que hay menos superficie para la misma imagen. Las fotos salen con más textura y menos definición que en una 35 mm normal. A mucha gente eso le gusta, es parte de la estética analógica, pero conviene saberlo.
+
+**Es de foco fijo.** No tiene autofoco ni enfoque manual. Lo que esté muy cerca del lente va a salir desenfocado.
+
+**Y hay un detalle de la pila que cuesta descubrir solo.** Un comprador lo avisa: *"la pila se gasta sino la sacan y deja de funcionar el flash"*. Usa una AAA que alimenta únicamente el flash, y si la dejás puesta se descarga aunque no uses la cámara. Sacala entre sesiones.
+
+## Contra las instantáneas de esta comparativa
+
+Es una decisión sobre qué te importa más.
+
+La [Instax Mini 12](/producto/camara-instantanea-fujifilm-instax-mini-12-mla23076923) te da la foto en la mano en un minuto, pero cada disparo gasta película y sus propios compradores avisan que eso termina costando más que la cámara.
+
+La [Instax Mini Evo](/producto/camara-instantanea-hibrida-fujifilm-instax-mini-evo-mla27036811) te deja elegir qué imprimir, pero cuesta {{preciodif:MLA27036811:MLA23035894}} más que esta.
+
+La Ektar H35 no te da nada al instante. Te da 72 fotos por rollo, 100 gramos en el bolsillo, y la espera del revelado, que para mucha gente es justamente la gracia.
+
+## Para quién es, y para quién no
+
+Es para vos si te atrae la fotografía analógica de verdad, si querés el costo por foto más bajo del grupo, o si vas a llevarla encima todo el día y el peso importa.
+
+No es para vos si lo que querés es la foto física inmediata. Para eso están las Instax. Tampoco si te va a frustrar esperar el revelado para ver si saliste con los ojos cerrados.`,
+    specs: [
+      { label: "Marca / Modelo", value: "Kodak Ektar H35" },
+      { label: "Tipo", value: "Analógica compacta de 35 mm, medio cuadro. NO imprime en el momento" },
+      { label: "Fotos por rollo", value: "72 con un rollo de 36 exposiciones (el doble de lo normal)" },
+      { label: "Lente", value: "22 mm, foco fijo, sin autofoco ni enfoque manual" },
+      { label: "Flash", value: "Incorporado, alimentado por la pila" },
+      { label: "Alimentación", value: "1 pila AAA (solo para el flash; el obturador es mecánico)" },
+      { label: "Peso", value: "100 g (menos de la mitad que las dos Instax que publican peso: Mini Evo y Mini 12)" },
+      { label: "Medidas", value: "11 x 3,9 x 6,2 cm" },
+      { label: "Rollo incluido", value: "No, se compra aparte" },
+      { label: "Revelado", value: "Necesario. No hay foto hasta que reveles el rollo" },
+      { label: "Espejo para selfies", value: "No" },
+      { label: "Resistencia al agua", value: "No" },
+    ],
+    faq: [
+      { question: "¿La Kodak Ektar H35 imprime las fotos?", answer: "No. Es analógica de 35 mm, no instantánea. Sacás las fotos, terminás el rollo y lo llevás a revelar. Si lo que buscás es la foto impresa en el momento, mirá la [Instax Mini 12](/producto/camara-instantanea-fujifilm-instax-mini-12-mla23076923) o la [Instax Mini Evo](/producto/camara-instantanea-hibrida-fujifilm-instax-mini-evo-mla27036811)." },
+      { question: "¿Qué es medio cuadro y por qué importa?", answer: "Que cada foto usa la mitad del negativo, así que un rollo de 36 exposiciones te da 72 fotos. Es el doble, y parte al medio el costo por foto, que en analógico es lo que más pesa. La reseña más votada de la publicación lo destaca como su mejor característica." },
+      { question: "¿Se nota que sea medio cuadro en la calidad?", answer: "Sí. Al usar la mitad de superficie del negativo, el grano se nota más y hay menos definición que en una 35 mm normal. Para muchos eso es parte del atractivo analógico, pero conviene saberlo antes de comprar." },
+      { question: "¿Por qué se me gasta la pila?", answer: "Es un detalle que un comprador avisa en su reseña: \"la pila se gasta sino la sacan y deja de funcionar el flash\". La pila AAA alimenta solo el flash y se descarga aunque no uses la cámara. La recomendación práctica es sacarla entre sesiones." },
+      { question: "¿Sirve para empezar en analógico?", answer: "Es de las opciones más citadas para eso. Una reseña con 55 votos útiles la describe como \"una cámara perfecta para arrancar a sacar fotos analógicas\": es simple, liviana (100 g) y el medio cuadro abarata la práctica, que al principio es cuando más fotos de descarte se sacan." },
+      { question: "¿Necesita enfoque?", answer: "No, es de foco fijo: no tiene autofoco ni enfoque manual. Eso la hace muy simple de usar, pero significa que lo que esté muy cerca del lente va a salir desenfocado." },
+    ],
+    customerReviews: [
+      { rating: 5, date: "2026", useful: 55, text: "Hermosa! compacta y con un diseño que te permite sacar hasta 72 fotos, es una cámara perfecta para arrancar a sacar fotos analógicas. La verdad me encantó." },
+      { rating: 5, date: "2026", useful: 9, text: "Buenisima camara, esta bueno que saque medio frame porque los royos duran el doble." },
+      { rating: 5, date: "2026", useful: 7, text: "Fue un regalo para mi novia. Le re gustó, solo un dato para que sepan es que la pila se gasta sino la sacan y deja de funcionar el flash. Pero saca muy lindas fotos." },
+      { rating: 5, date: "2026", useful: 4, text: "Buena." },
+    ],
+    relatedProducts: ["MLA23076923", "MLA27036811", "MLA28640451"],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Kodak Ektar H35",
+      image: "https://http2.mlstatic.com/D_NQ_NP_943492-MLA99407996164_112025-O.webp",
+      description: "Cámara analógica compacta Kodak Ektar H35 de 35 mm y medio cuadro: saca 72 fotos con un rollo de 36, pesa 100 g y tiene flash incorporado. No imprime en el momento: requiere revelado. 4.7 estrellas con más de 70 calificaciones en MercadoLibre Argentina.",
+      brand: { "@type": "Brand", name: "Kodak" },
+      offers: {
+        "@type": "Offer",
+        url: "https://meli.la/1VBZg2N",
+        priceCurrency: "ARS",
+        price: 299500,
+        availability: "https://schema.org/InStock",
+        itemCondition: "https://schema.org/NewCondition",
+        seller: { "@type": "Organization", name: "MercadoLibre Argentina" },
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.7",
+        reviewCount: "78",
+      },
+    },
+  },
+  {
+    id: "MLA28640451",
+    title: "Cámara Digital Fujifilm Instax Pal Bluetooth",
+    canonicalName: "Fujifilm Instax Pal",
+    brand: "Fujifilm",
+    price: 249999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_664168-MLA99419128116_112025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_664168-MLA99419128116_112025-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_950986-MLA91872796293_092025-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_718499-MLA91474713196_092025-O.webp",
+    ],
+    category: "Tech",
+    categorySlug: "tech",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA28640451",
+    affiliateUrl: "https://meli.la/1XbHPpb",
+    condition: "new",
+    freeShipping: false,
+    rating: 4.5,
+    reviewCount: 56,
+    reviewsSampledAt: "2026-08-25",
+    soldQuantity: 25,
+    pastelColor: "var(--pastel-blue)",
+    visibility: "normal",
+    priceUpdated: "2026-08-25",
+    priceLastChecked: "2026-08-25",
+    priceVerifiedAt: "2026-08-25",
+    priceStatus: "fresh",
+    seoTitle: "Instax Pal: es digital y NO imprime, leé esto antes",
+    metaDescription: "Instax Pal a {{precio:MLA28640451}}: cámara digital diminuta que guarda en la app. Ojo: se llama Instax pero no imprime, necesita una impresora aparte.",
+    h1: "Fujifilm Instax Pal: se llama Instax pero no imprime, y eso hay que decirlo primero",
+    pros: [
+      "Es diminuta: entra en un bolsillo o cuelga de un llavero. Su publicación no declara el peso, pero es visiblemente más chica que las otras tres",
+      "Se carga por USB tipo C, o sea con el mismo cable del celular",
+      "Guarda las fotos en la app, así que podés revisarlas y editarlas antes de decidir qué hacer con ellas",
+      "Lente muy angular de 16,25 mm: entra mucho más en el cuadro, útil para grupos y espacios chicos",
+      "{{rating:MLA28640451}} estrellas en {{reviews:MLA28640451}} calificaciones, con flash y espejo para selfies incorporados",
+    ],
+    cons: [
+      "**No imprime.** Es lo primero que hay que saber y el nombre no ayuda: se llama Instax, que es la línea de cámaras instantáneas de Fujifilm, pero esta es digital y guarda en la app. Para tener la foto en papel necesitás comprar una impresora Instax aparte",
+      "Eso genera confusión real entre sus propios compradores. Una reseña dice: \"sabía que se podía editar las fotos antes de imprimirlas, espero que si, aún no llego a eso\". Y otra la recomienda \"para los que quieren empezar con la instantánea\", cuando en rigor no es instantánea",
+      "Su base de opiniones es la más chica de la comparativa: {{reviews:MLA28640451}} calificaciones contra las {{reviews:MLA23076923}} de la Instax Mini 12",
+      "Su puntaje también es el más bajo de las cuatro: {{rating:MLA28640451}} estrellas",
+      "Depende del celular para todo. Sin la app no ves lo que sacaste, a diferencia de la Instax Mini Evo, que tiene su propia pantalla",
+    ],
+    verdict: "Antes que nada: **no imprime**. Es una cámara digital diminuta que guarda en la app, y el nombre Instax confunde a sus propios compradores. Si lo que querés es la foto en papel, la [Instax Mini 12](/producto/camara-instantanea-fujifilm-instax-mini-12-mla23076923) hace eso por menos plata. La Pal tiene sentido solo si ya tenés una impresora Instax, o si lo que buscabas era una cámara de bolsillo y no la impresión.",
+    articleBody: `## Lo primero: no imprime
+
+La Instax Pal cuesta {{precio:MLA28640451}} y tiene {{reviews:MLA28640451}} calificaciones con {{rating:MLA28640451}} estrellas. Es una cámara **digital**, del tamaño de un llavero, que guarda las fotos en la app del celular.
+
+Se llama Instax, que es la línea de cámaras instantáneas de Fujifilm, y ahí está el problema: **esta no imprime nada por sí sola**. Para tener la foto en papel necesitás comprar aparte una impresora Instax.
+
+Lo decimos primero y con todas las letras porque la confusión es real y se ve en las propias opiniones de la publicación. Una compradora escribió: *"sabía que se podía editar las fotos antes de imprimirlas, espero que si, aún no llego a eso"*. Otra la recomienda "para los que quieren empezar con la instantánea sin gastar mucho dinero", cuando en rigor no es una instantánea.
+
+## Qué es entonces
+
+Una cámara digital muy chica y muy angular. El lente es de 16,25 mm, bastante más abierto de campo que los 60 mm de la [Instax Mini 12](/producto/camara-instantanea-fujifilm-instax-mini-12-mla23076923): entra mucho más en el cuadro, lo que sirve para grupos o lugares chicos.
+
+Se carga por USB tipo C, el mismo cable del celular. Tiene flash y espejo para selfies.
+
+## Cuándo tiene sentido comprarla
+
+Hay dos casos donde es una buena compra.
+
+**Si ya tenés una impresora Instax.** Ahí la Pal es la cámara que le faltaba: sacás, elegís y mandás a imprimir solo lo que vale.
+
+**Si lo que querías era una cámara de bolsillo y no la impresión.** Es diminuta de verdad y esa es su gracia real.
+
+## Cuándo no
+
+Si lo que buscabas era la foto física en el momento, esta no es. La [Instax Mini 12](/producto/camara-instantanea-fujifilm-instax-mini-12-mla23076923) hace eso y cuesta {{preciodif:MLA28640451:MLA23076923}} menos.
+
+Si querés elegir qué imprimir pero con la impresión incluida, eso es la [Instax Mini Evo](/producto/camara-instantanea-hibrida-fujifilm-instax-mini-evo-mla27036811): saca digital, tiene pantalla propia e imprime.
+
+Y si el atractivo era la fotografía analógica, la [Kodak Ektar H35](/producto/camara-analogica-kodak-ektar-h35-medio-cuadro-35-mm-mla23035894) es de rollo de 35 mm.
+
+## Para quién es
+
+Es para vos si ya tenés impresora Instax, o si querés una cámara de bolsillo diminuta y la impresión te da igual.
+
+No es para vos si comprabas pensando que salía la foto en papel, que es exactamente lo que le pasó a más de un comprador según sus propias reseñas.`,
+    specs: [
+      { label: "Marca / Modelo", value: "Fujifilm Instax Pal" },
+      { label: "Tipo", value: "Digital. NO imprime: guarda en la app del celular" },
+      { label: "Para imprimir", value: "Necesita una impresora Instax comprada aparte" },
+      { label: "Lente", value: "16,25 mm (muy angular)" },
+      { label: "Flash", value: "Incorporado" },
+      { label: "Espejo para selfies", value: "Sí" },
+      { label: "Alimentación", value: "Batería recargable por USB tipo C" },
+      { label: "Pantalla propia", value: "No: se ve todo desde la app" },
+    ],
+    faq: [
+      { question: "¿La Instax Pal imprime las fotos?", answer: "No. Es una cámara digital que guarda las fotos en la app del celular. El nombre Instax corresponde a la línea de instantáneas de Fujifilm y genera confusión: para tener la foto en papel hay que comprar una impresora Instax aparte. Si querés impresión incluida, mirá la [Instax Mini 12](/producto/camara-instantanea-fujifilm-instax-mini-12-mla23076923) o la [Instax Mini Evo](/producto/camara-instantanea-hibrida-fujifilm-instax-mini-evo-mla27036811)." },
+      { question: "¿Entonces para qué sirve?", answer: "Para dos cosas concretas. Si ya tenés una impresora Instax, es la cámara que la completa: sacás muchas fotos y mandás a imprimir solo las que valen. Y si lo que querías era una cámara de bolsillo diminuta, su publicación no declara el peso, pero es visiblemente más chica que las otras tres." },
+      { question: "¿Se ven las fotos sin el celular?", answer: "No, no tiene pantalla propia. Todo se ve desde la app. La [Instax Mini Evo](/producto/camara-instantanea-hibrida-fujifilm-instax-mini-evo-mla27036811), en cambio, sí tiene pantalla y además imprime." },
+      { question: "¿Cómo se carga?", answer: "Por USB tipo C, con el mismo cable de la mayoría de los celulares. No usa pilas AA como la [Instax Mini 12](/producto/camara-instantanea-fujifilm-instax-mini-12-mla23076923)." },
+      { question: "¿Vale la pena frente a la Instax Mini 12?", answer: "Depende de qué busques, pero para la mayoría no: la Mini 12 cuesta {{preciodif:MLA28640451:MLA23076923}} menos y sí imprime. La Pal solo gana si ya tenés impresora Instax o si el tamaño de bolsillo es lo que te importa." },
+    ],
+    customerReviews: [
+      { rating: 5, date: "2026", useful: 10, text: "Es muy bonita! de bolsillo y buena opción para los que quieren empezar con la instantánea sin gastar mucho dinero." },
+      { rating: 5, date: "2026", useful: 3, text: "La cámara está hermosa, es pequeña y muy fácil de usar guarda las fotos en la app." },
+      { rating: 5, date: "2026", useful: 3, text: "Es preciosa! me encanta el tamaño, estoy aprendiendo a usarla, sabía que se podía editar las fotos antes de imprimirlas, espero que si, aún no llego a eso." },
+    ],
+    relatedProducts: ["MLA23076923", "MLA27036811", "MLA23035894"],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Fujifilm Instax Pal",
+      image: "https://http2.mlstatic.com/D_NQ_NP_664168-MLA99419128116_112025-O.webp",
+      description: "Cámara digital Fujifilm Instax Pal: diminuta, lente de 16,25 mm, carga por USB tipo C y guarda las fotos en la app. No imprime: requiere una impresora Instax aparte. 4.5 estrellas con más de 50 calificaciones en MercadoLibre Argentina.",
+      brand: { "@type": "Brand", name: "Fujifilm" },
+      offers: {
+        "@type": "Offer",
+        url: "https://meli.la/1XbHPpb",
+        priceCurrency: "ARS",
+        price: 249999,
+        availability: "https://schema.org/InStock",
+        itemCondition: "https://schema.org/NewCondition",
+        seller: { "@type": "Organization", name: "MercadoLibre Argentina" },
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.5",
+        reviewCount: "56",
+      },
+    },
+  },
   // ─── Anillos inteligentes — sourceados de ML + verificados contra fabricante (ago 2026). Silo tech ───
   {
     id: "MLA2177777792",
@@ -4068,7 +4635,9 @@ Comprá el G213 si querés un teclado de marca, silencioso, que aguante un líqu
     id: "MLA19893399",
     title: "Teclado Gamer Redragon K622 Horus TKL Switch Red Español",
     canonicalName: "Teclado Gamer Redragon K622 Horus TKL",
+    brand: "Redragon",
     price: 88835,
+    originalPrice: 97999,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_805662-MLA99443113410_112025-F.jpg",
     images: [

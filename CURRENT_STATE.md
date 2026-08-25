@@ -73,6 +73,43 @@ cuatro orígenes distintos valen más que once desde el mismo lugar. Anclas vari
 resetea las ventanas de maduración. Se usó `sitemapLastmod: "2026-08-25"`, que es el campo que
 existe para eso.
 
+### Nichos de ficha: 4 cámaras, la primera vez que el sitio corre esta jugada
+
+Se probaron 16 candidatos de guía nueva y ninguno pasó (ver abajo). Pero apareció un patrón
+repetido en cinco rubros (cámara de fotos, cámara instantánea, tablet, drone, aspiradora
+inalámbrica): **volumen grande en términos de tipo, marca y modelo, y casi cero en comparativa.**
+Son nichos de FICHA, no de guía. El sitio nunca había corrido esa jugada deliberadamente.
+
+Se arrancó por cámaras. Cuatro fichas nuevas en el silo `tech`, cero canibalización (el sitio no
+tenía una sola mención de cámaras):
+
+| Ficha | Precio | Rating | Opiniones | Keyword del modelo |
+| :-- | --: | --: | --: | --: |
+| Fujifilm Instax Mini 12 (`MLA23076923`) | $148.649 | 4.9 | **13.054** | ~2.010/mes |
+| Fujifilm Instax Pal (`MLA28640451`) | $249.999 | 4.5 | 56 | 90/mes |
+| Kodak Ektar H35 (`MLA23035894`) | $299.500 | 4.7 | 78 | ~530/mes |
+| Fujifilm Instax Mini Evo (`MLA27036811`) | $859.999 | 4.9 | 342 | ~1.290/mes |
+
+**Por qué fichas y no guía:** el término genérico "cámara instantánea" son 3.600/mes pero su SERP
+es 100% páginas de categoría de tiendas, sin lugar editorial. En cambio en el término de MODELO
+("instax mini 12", 1.600/mes) rankean fichas de producto de sitios con **DA 14, 15 y 18**, que es
+exactamente lo que son nuestras `/producto/`. Expectativa honesta: 20 a 40 clicks por ficha.
+
+**Hallazgo del rubro: Polaroid es una keyword, no una góndola.** "Cámara polaroids" son 3.600/mes,
+pero las dos Polaroid reales de ML Argentina (Now y Go Gen 2) son compra internacional y tienen
+CERO reseñas, con 1 y 5 unidades vendidas. La gente dice "polaroid" y compra Instax.
+
+**El hilo editorial que salió del sourcing:** las cuatro son respuestas distintas al mismo problema,
+el costo por foto. La Mini 12 quema una película por disparo (sus tres reseñas más votadas hablan
+de eso: una con 113 votos dice que "en poco tiempo habrás gastado más que el valor de la propia
+cámara"). La Evo es híbrida y te deja elegir qué imprimir. La Kodak es analógica de medio cuadro:
+72 fotos por rollo de 36. La Pal directamente no imprime, y eso está puesto en el título porque
+sus propios compradores se confunden.
+
+**Trío auditor: 5 pasadas de Codex** (NO-GO x4, GO) y GO absoluto de agy en la única suya. Las
+cuatro primeras fueron por integridad de citas: 19 apariciones donde se le había "corregido" la
+ortografía al comprador dentro de las comillas. Detalle y regla nueva en `MISTAKES.md`.
+
 ### El agujero del flujo de publicación: guías nuevas que nadie enlaza
 
 Al terminar `cocina-a-gas` se corrió el mismo diagnóstico sobre las **205 guías publicadas** y
