@@ -101,8 +101,29 @@ Modelo de interaccion: Juan habla solo con Claude. Claude es el cerebro y el uni
 9. Distincion clave bloqueante vs no-bloqueante:
    - **NO-GO / bloqueante:** algo que obliga a NO publicar hasta arreglarlo (spec inventada, link interno roto, token de precio erroneo, link de afiliado sin `rel="sponsored"`, canibalizacion grave, bug de render). Claude lo corrige si o si y vuelve a auditar.
    - **GO con sugerencias / no-bloqueante:** mejoras que no frenan (sumar una FAQ, una imagen, matizar un claim). Claude las evalua, aplica las sensatas filtrando por la regla de honestidad (no aplica specs inventadas por Gemini) y sigue.
-10. Si hubo cambios relevantes tras aplicar mejoras, Claude vuelve a pedir auditoria externa.
-11. Publicacion (autorizado por Juan, 2026-07-11): cuando se cumple TODA la compuerta -Claude escribio, checks pasan, Codex da GO, Gemini no marca bloqueantes y las sugerencias no-bloqueantes ya fueron procesadas- **Claude commitea y pushea automaticamente**, sin esperar OK manual. Esta autonomia aplica SOLO a este loop con la compuerta completa; para una edicion suelta fuera del loop de auditoria sigue valiendo la regla general (mostrar el diff y esperar instruccion de Juan).
+10. **Enlaces ENTRANTES a la guia nueva (paso que faltaba, agregado 2026-08-25).** Antes de
+    publicar, agregar 2 o 4 enlaces DESDE guias que ya existen HACIA la guia nueva. No alcanza
+    con los enlaces salientes que la guia nueva lleva adentro: esos no le transfieren autoridad
+    a ella. Como hacerlo, en orden de preferencia:
+    - **Buscar menciones que ya existan sin enlace.** Grepear el tema de la guia nueva en
+      `guides.ts` y linkear donde el texto ya habla de eso. Es la mejor opcion porque no hay
+      que inventar contexto. Ejemplo real: `cocina-a-gas` tenia 15 menciones sin enlace.
+    - **Si no hay menciones, sumarla al bloque `internalLinks` de 2 o 3 guias del mismo silo.**
+      Ese modulo existe para lectura relacionada; es legitimo aunque el texto no la mencione.
+    - **Preferir 3 origenes distintos antes que 10 enlaces de la misma guia.** La diversidad de
+      origen pesa mas que el volumen, y evita que parezca relleno. Variar el texto ancla.
+    - **NO tocar `updatedDate` de las guias de origen.** Un enlace interno no es actualizacion
+      editorial y moverla resetea las ventanas de maduracion que mide el loop SEO. Usar
+      `sitemapLastmod` con la fecha del dia, que es el campo que existe para eso.
+
+    **Por que este paso:** el 2026-08-25 se midieron los enlaces entrantes de las 205 guias
+    publicadas y aparecieron **8 pilares con 0 o 1 entrante y 8 guias huerfanas con 0**, casi
+    todas publicadas entre el 16 y el 22 de agosto. Entre ellas, `impresora-3d`, publicada ese
+    mismo dia. El patron es claro: el flujo le pone enlaces salientes a la guia nueva y nadie le
+    pone entrantes. Verificar con el diagnostico de entrantes antes de dar por cerrada una guia.
+
+11. Si hubo cambios relevantes tras aplicar mejoras, Claude vuelve a pedir auditoria externa.
+12. Publicacion (autorizado por Juan, 2026-07-11): cuando se cumple TODA la compuerta -Claude escribio, checks pasan, Codex da GO, Gemini no marca bloqueantes y las sugerencias no-bloqueantes ya fueron procesadas- **Claude commitea y pushea automaticamente**, sin esperar OK manual. Esta autonomia aplica SOLO a este loop con la compuerta completa; para una edicion suelta fuera del loop de auditoria sigue valiendo la regla general (mostrar el diff y esperar instruccion de Juan).
 
 ## Nota importante sobre Next.js
 

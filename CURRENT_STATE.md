@@ -73,9 +73,59 @@ cuatro orígenes distintos valen más que once desde el mismo lugar. Anclas vari
 resetea las ventanas de maduración. Se usó `sitemapLastmod: "2026-08-25"`, que es el campo que
 existe para eso.
 
+### El agujero del flujo de publicación: guías nuevas que nadie enlaza
+
+Al terminar `cocina-a-gas` se corrió el mismo diagnóstico sobre las **205 guías publicadas** y
+apareció un patrón, no casos sueltos:
+
+- **8 pilares con 0 o 1 enlace entrante**
+- **8 guías huérfanas** (0 entrantes)
+- Casi todas publicadas entre el 16 y el 22 de agosto
+
+Entre ellas, **`impresora-3d`, publicada ese mismo día en esta sesión**. O sea que se arregló un
+caso y dos horas después se creó otro idéntico.
+
+**La causa:** el flujo le pone enlaces SALIENTES a la guía nueva y nadie le pone ENTRANTES desde
+las que ya existen. Los salientes no le transfieren autoridad a ella.
+
+**El arreglo de fondo:** se agregó el **paso 10 a `docs/ARTICLE_CREATION_WORKFLOW.md`**, antes de
+publicar, con el método en orden de preferencia (buscar menciones que ya existan sin enlace;
+si no hay, sumarla al bloque `internalLinks` de 2 o 3 guías del silo), y las dos reglas que
+salieron de la práctica: preferir 3 orígenes distintos antes que 10 enlaces de la misma guía, y
+no tocar `updatedDate` sino `sitemapLastmod`.
+
+**Los cuatro pilares que estaban en 0, arreglados:**
+
+| Guía | Antes | Ahora | Cómo |
+| :-- | --: | --: | :-- |
+| `cocina-a-gas` | 0 | 4 | Menciones que ya existían sin enlace |
+| `impresora-3d` | 0 | 3 | `internalLinks` del silo tech |
+| `salamandra-a-lena` | 0 | 3 | `internalLinks` del silo climatización |
+| `motosierra` | 0 | 3 | 1 en prosa desde `amoladora` + 2 de `internalLinks` |
+
+El de `amoladora` es el mejor del lote: una reseña contaba que usaron la amoladora para podar
+árboles, así que el lector que llega ahí necesita saber que existe la herramienta correcta.
+
+### Lo que NO se hizo, y por qué
+
+`freezer-vertical` (2 entrantes) y `yogurtera-daewoo` (1) se revisaron y **no tienen el problema**.
+En freezer las menciones del sitio son sobre *usar* uno o sobre el *congelador de una heladera*,
+que es otra cosa; forzar ahí sería relleno. `yogurtera-daewoo` recibe su único enlace de su propio
+pilar, que es arquitectura correcta: es el único satélite de su silo y no tiene hermanas con quien
+cruzarse, a diferencia de los cuatro satélites de microondas que se enlazan entre sí.
+
 ### Pendiente
 
-- `freezer-vertical` (pilar, 2 entrantes) y `yogurtera-daewoo` (1) siguen por debajo de la mediana.
+- **5 pilares con 1 entrante:** `chromecast`, `colchon-2-plazas`, `heladera-no-frost`,
+  `hidrolavadora`, `amoladora`. Ninguno en 0 ya.
+- **8 huérfanas** (0 entrantes, no pilares): `freidora-de-aire-desventajas`,
+  `lavarropas-carga-frontal-o-superior`, `papel-aluminio-freidora-de-aire`,
+  `heladera-no-frost-o-ciclica`, `prensa-francesa`, `eau-de-parfum-vs-eau-de-toilette`,
+  `robot-aspiradora-atma`, `dia-de-la-madre-argentina`.
+  **Ojo con `eau-de-parfum-vs-eau-de-toilette`:** enlazarla implica tocar enlaces del silo
+  perfumes, que están bloqueados hasta el 2026-09-12 (ver arriba).
+- `freezer-vertical` (2 entrantes): no es bug, pero si en algún momento se escribe una guía de
+  heladeras que compare con freezer independiente, ahí sí corresponde el enlace.
 - Enlaces de perfumes: bloqueados hasta el 2026-09-12 (ver arriba).
 - Decidir si se abre la estrategia de "nichos de ficha" empezando por cámaras instantáneas.
 
