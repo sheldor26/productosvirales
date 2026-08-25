@@ -118,12 +118,26 @@ cruzarse, a diferencia de los cuatro satélites de microondas que se enlazan ent
 
 - **5 pilares con 1 entrante:** `chromecast`, `colchon-2-plazas`, `heladera-no-frost`,
   `hidrolavadora`, `amoladora`. Ninguno en 0 ya.
-- **8 huérfanas** (0 entrantes, no pilares): `freidora-de-aire-desventajas`,
-  `lavarropas-carga-frontal-o-superior`, `papel-aluminio-freidora-de-aire`,
-  `heladera-no-frost-o-ciclica`, `prensa-francesa`, `eau-de-parfum-vs-eau-de-toilette`,
-  `robot-aspiradora-atma`, `dia-de-la-madre-argentina`.
-  **Ojo con `eau-de-parfum-vs-eau-de-toilette`:** enlazarla implica tocar enlaces del silo
-  perfumes, que están bloqueados hasta el 2026-09-12 (ver arriba).
+- **Las 8 huérfanas: 7 arregladas, 1 bloqueada.** Quedó una sola guía con 0 entrantes en todo
+  el sitio, y es `eau-de-parfum-vs-eau-de-toilette`: enlazarla implica tocar enlaces del silo
+  perfumes, bloqueados hasta el 2026-09-12 (ver arriba). Se hace ese día.
+
+  | Guía | Antes | Ahora | Cómo |
+  | :-- | --: | --: | :-- |
+  | `freidora-de-aire-desventajas` | 0 | 3 | `internalLinks` de la familia freidoras |
+  | `prensa-francesa` | 0 | 3 | `internalLinks` de la familia cafeteras |
+  | `robot-aspiradora-atma` | 0 | 3 | `internalLinks` de la familia robots |
+  | `dia-de-la-madre-argentina` | 0 | 3 | Recíproco con `dia-del-nino` + 2 productos que destaca |
+  | `papel-aluminio-freidora-de-aire` | 0 | 2 | `internalLinks` (uso y accesorios) |
+  | `lavarropas-carga-frontal-o-superior` | 0 | 2 | **1 en prosa** desde `lavarropas-automatico` |
+  | `heladera-no-frost-o-ciclica` | 0 | 2 | **1 en prosa** desde `freezer-vertical` |
+
+  Los dos en prosa son los mejores: en `lavarropas-automatico` el texto comparaba capacidades y
+  decía "los 10 del de carga superior" sin enlace, y en `freezer-vertical` decía "que ninguno es
+  no frost" sin explicar qué significa. Los dos enlazan justo donde al lector le falta el dato.
+
+  **`dia-del-nino-argentina` no enlazaba de vuelta a `dia-de-la-madre-argentina`** pese a que la
+  segunda sí enlaza a la primera y comparten la categoría `fechas-especiales`. Recíproco agregado.
 - `freezer-vertical` (2 entrantes): no es bug, pero si en algún momento se escribe una guía de
   heladeras que compare con freezer independiente, ahí sí corresponde el enlace.
 - Enlaces de perfumes: bloqueados hasta el 2026-09-12 (ver arriba).
