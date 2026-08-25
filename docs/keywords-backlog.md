@@ -989,3 +989,55 @@ Se validaron siete consultas de mantenimiento y **cayeron las siete**, por el mi
 | eau-de-parfum-vs-eau-de-toilette | 2026-09-15 | 480 |
 | papel-aluminio-freidora-de-aire | 2026-09-22 | 880 |
 | lavarropas-carga-frontal-o-superior | 2026-11-16 | 390 |
+
+---
+
+## Tanda 17 — 2026-08-20 · Tercera ronda: 0 de 8, y el patrón que lo explica
+
+29 candidatos nuevos, 23 únicos, 8 validados, **ninguno pasó**. Las ocho se cayeron por lo mismo.
+
+### La tijera volumen/formato
+
+El head term tiene miles de búsquedas y **SERP de tiendas**. La variante comparativa, que es donde una guía compite, tiene diez búsquedas.
+
+| Candidata | Head (SERP de tiendas) | Variante comparativa |
+|---|---:|---:|
+| silla ergonómica | 14.800 | "mejores sillas ergonómicas" **70/mes** |
+| molinillo de café | 8.100 | "mejores molinillos de café" **40/mes** |
+| termotanque solar | 5.400 | "conviene termotanque solar" **0/mes** |
+| máquina de pan | 5.400 | "mejor máquina de pan" **10/mes** |
+| olla a presión eléctrica | 2.900 | "mejores ollas a presión" **10/mes** |
+| deshidratador | 2.400 | "mejor deshidratador" **10/mes** |
+| arrocera eléctrica | 1.900 | "mejores arroceras" **10/mes** |
+| club de nuit | 22.200 | "cuál club de nuit comprar" **0/mes** |
+
+**La regla:** en Argentina, en electrodoméstico chico de marca genérica —Atma, Yelmo, Ultracomb, Gadnic, Peabody— **nadie investiga antes de comprar**. Van derecho a Frávega o al listado de ML. Por eso el head mide miles y la comparativa mide diez.
+
+La demanda de investigación existe donde el producto es **caro, confuso o identitario**: perfumes, colchones, robots aspiradora, cafeteras, gaming. Que es exactamente donde el sitio ya rinde.
+
+### El corolario operativo, y es el que hay que usar de ahora en más
+
+**Dejar de partir del volumen del head.** Partir de la variante comparativa. Si "mejores X" no llega a 200/mes por sí sola, el nicho no se investiga y no hay guía que valga, no importa que el head mida 20.000.
+
+### Dos falacias que hay que matar
+
+**"Hay un sitio de DA 1 rankeando, la autoridad no es la barrera."** Apareció en tres candidatas. En las tres, ese DA bajo era **una tienda**, no una guía. Google no premia sitios chicos: premia el formato ficha de producto. **Mirar el formato del resultado, no su DA.**
+
+**"Hay un Reddit en página 1, sigue en carrera."** Apareció en cinco de las ocho. Un hilo suelto entre diecisiete tiendas no es un SERP editorial. En los casos que sí sobrevivieron —perfumes árabes, hornos eléctricos, yogurtera— los foros y medios ocupaban **varios** slots.
+**Regla nueva: menos de 3 slots editoriales en el top 10 = SERP de tiendas.**
+
+### Y una confirmación incómoda
+
+En **4 de las 8**, la premisa que le llegó al validador era falsa: "no caniba­liza" cuando había tres bloques del tema, "sin AIO" cuando el ángulo propuesto sí lo tiene, "no hay retailer grande" cuando MercadoLibre estaba primero, "blogs en página 1" cuando estaban en la 10, 20 y 23.
+
+Confirma lo que ya sabíamos: **hay que chequear las premisas, no solo el veredicto.**
+
+### Balance de las tres rondas
+
+| Ronda | Validados | Pasaron |
+|---|---:|---:|
+| 1 | 10 | 7 (bajé 2 por dato propio, 1 por canibalización) |
+| 2 | 10 | 2 |
+| 3 | 8 | **0** |
+
+28 candidatos validados, 9 guías escritas. **El espacio ganable para guías de categoría de producto nueva está prácticamente agotado.**
