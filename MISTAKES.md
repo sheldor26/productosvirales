@@ -498,3 +498,47 @@ ser token). Se resuelve escribiendo "8 de las 15 mas utiles", sin la palabra "op
 
 **Voseo.** Se escribio "Medite el dedo" cinco veces. Es tuteo; en rioplatense es "Medi el dedo".
 Lo encontro Codex, no el barrido propio ni ningun chequeo automatico. No hay script que valide voz.
+
+## 2026-08-25 — Nicho descartado tarde: el chequeo de dos minutos que faltaba
+
+Se evaluo el nicho de notebooks y paso los dos filtros que teniamos: la variante comparativa da
+**1.780/mes** (contra un piso de 200) y el SERP tiene sitios de **DA 14 y DA 20 en pagina 1**, o
+sea que no esta cerrado por autoridad. Con eso se arranco el sourcing.
+
+Y ahi se cayo, por algo que ninguno de los dos filtros mira:
+
+| Modelo | Opiniones | Vendidos | Disponible |
+| :-- | --: | --: | :-- |
+| HP 15-fc0043la | 792 | 1.000 | **No** |
+| Asus Vivobook Go 15 | 414 | 1.000 | **No** |
+| HP 15-fc0004la | 368 | 500 | Si |
+| Asus X515ea | 21 | 100 | No |
+| HP 15-fc0041wm | 2 | 5 | No |
+
+Y las 6 notebooks que si estaban a la venta ese dia (Exo, Philco, Gadnic, HP Omnibook, HP
+fd2351la, Elitebook) tenian **cero opiniones las seis**.
+
+**El diagnostico:** en notebooks la rotacion de modelos es mas rapida que el ciclo de acumulacion
+de resenas. Para cuando un modelo junta 400 opiniones ya lo discontinuaron, y el que esta en
+gondola hoy todavia no tiene ninguna. Tener resenas y estar disponible son, en la practica,
+incompatibles. Eso rompe el modelo del sitio: habria que elegir entre recomendar algo que no se
+puede comprar o recomendar algo sin evidencia.
+
+### LA REGLA (chequear ANTES de invertir en un nicho)
+
+**Abrir la ficha del producto MAS RESENADO del rubro y confirmar que se pueda comprar.**
+
+Si el top de resenas esta discontinuado, el rubro rota mas rapido de lo que el sitio puede
+sostener y no se puede armar un lineup honesto. Son dos minutos y habrian ahorrado toda esta ronda.
+
+Va DESPUES del filtro de volumen comparativo (tanda 17 de `docs/keywords-backlog.md`) y ANTES de
+contar la gondola: no sirve que haya 5.000 publicaciones si las que tienen prueba social estan
+muertas. Aplicado a lo que ya se hizo: impresoras 3D lo pasaba (la Bambu A1 Combo, la mas resenada
+con 4.220, esta disponible) y anillos tambien (el Oura, 47 opiniones, disponible).
+
+### Obstaculo operativo de la misma ronda
+
+El buscador de ML estuvo caido casi toda la busqueda: devuelve 824 caracteres (solo el
+encabezado). Es el bug de stream de React ya anotado, pero mucho mas persistente que antes. Sin
+listado no se puede ordenar la gondola por resenas, y hubo que adivinar modelos por busqueda web,
+que es lento y sesgado. Si vuelve a pasar, evaluar Bright Data para el sourcing en vez del navegador.

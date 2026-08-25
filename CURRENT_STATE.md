@@ -1,7 +1,83 @@
 # Estado actual
 
 > Snapshot del proyecto. Se actualiza al final de cada sesión.
-> Última actualización: 2026-08-24 (silo de impresoras 3D nuevo: guía pilar `impresora-3d` en STAGED + 4 fichas, dentro del silo `tech` existente — ver sesión inmediatamente abajo). Antes: 2026-08-16, cinco guías publicadas y el diagnóstico de autoridad.
+> Última actualización: 2026-08-25 (guía de impresoras 3D PUBLICADA, 3 fichas de anillos en vivo, nicho de notebooks descartado y `cocina-a-gas` rescatada de la orfandad — ver sesión inmediatamente abajo). Antes: 2026-08-24, silo de impresoras 3D creado en STAGED.
+
+## Sesión 2026-08-25 — Publicación, notebooks descartado, y un pilar huérfano
+
+### FECHA BLOQUEADA: enlaces del silo perfumes, NO TOCAR hasta 2026-09-12
+
+**Esto es lo más importante de esta entrada, porque hasta ahora vivía solo en la memoria de una
+sesión y no en el repo.**
+
+El trío auditor, al analizar el reporte SEO semanal, pospuso la redistribución de enlaces internos
+del silo `perfumes-arabes` **hasta el 2026-09-12**, y cuando se haga tiene que ser **solo aditiva**
+(sumar enlaces, nunca redistribuir ni sacar los que ya están).
+
+El motivo: hay un cambio anterior madurando y tocar los enlaces ahora resetea la ventana de
+medición. El diagnóstico de fondo es que perfumes NO es la palanca que parecía: ya se lleva el
+28,6% de las impresiones del sitio y donde pierde es en SERPs que no dejan lugar editorial, o sea
+que no es un problema de enlazado interno.
+
+Si alguien abre una sesión antes del 12/9 y pide "reforzar el enlazado de perfumes", la respuesta
+es que está bloqueado y por qué.
+
+### Lo que se publicó
+
+- **Guía `impresora-3d` EN VIVO** (`9e27df1`): se dio vuelta `publishedDate` de 2026-09-01 a
+  2026-08-25. Vive en `/guias/tech/impresora-3d`, titulada "Bambu Lab vs Creality".
+- **3 fichas de anillos inteligentes en vivo** (`463a669`): Ignix K3, Amazfit Helio Ring y
+  Oura Ring 4, más la sección de anillos de la guía `smartwatch` corregida y enlazada a las tres.
+- **Precios al 25/8 y la freidora Atma verificada en vivo** (`55b7299`).
+
+### Notebooks: aprobado por los filtros, descartado en el sourcing
+
+Pasaba todo (comparativa 1.780/mes, SERP con DA 14 y 20 en página 1) y se cayó porque **el top de
+reseñas está discontinuado**: 4 de 5 modelos con reseñas no se pueden comprar, incluida la notebook
+más vendida del país (792 opiniones, +1.000 vendidas). Y las 6 que sí se vendían tenían cero
+opiniones. Salió de ahí un filtro nuevo, documentado en `MISTAKES.md` y en `docs/keywords-backlog.md`.
+
+Se probaron 16 candidatos en total; ninguno viable para guía nueva. Con 69 categorías y 206 guías,
+los rubros donde el argentino investiga antes de comprar ya están cubiertos.
+
+**Hallazgo lateral que vale una estrategia aparte:** cinco rubros (cámara de fotos, cámara
+instantánea, tablet, drone, aspiradora inalámbrica) tienen volumen grande en términos de tipo,
+marca y modelo, y casi cero en comparativa. **Son nichos de ficha, no de guía.** El mejor ejemplo
+verificado: la Fujifilm Instax Mini 12 tiene 13.183 opiniones, está disponible, sale $148.649, y su
+término de modelo son 1.600/mes con fichas de producto de sitios DA 14-18 en página 1. La contra
+honesta es que cada ficha capturaría 20-40 clicks/mes: solo tiene sentido en escala, con 6 u 8.
+
+### Enlazado interno del silo cocina: un pilar estaba huérfano
+
+Se mapearon los enlaces ENTRANTES de las 16 guías del silo (no los salientes, que es lo que suele
+mirarse y no es lo que transfiere autoridad):
+
+| Guía | Entrantes antes |
+| :-- | --: |
+| `cocina-a-gas` (PILAR, keyword de 22.200/mes) | **0** |
+| `yogurtera-daewoo` | 1 |
+| `horno-atma`, `procesadora-de-alimentos`, `freezer-vertical` (PILAR) | 2 |
+| *mediana del sitio* | *4* |
+| `microondas` (pilar) | 14 |
+
+`cocina-a-gas` no recibía **ni un solo enlace** de las otras 205 guías. Se encontraron **15
+menciones sin enlace** de "cocina a gas" y "horno a gas" repartidas por el sitio: no hubo que
+inventar contexto, solo conectar lo ya escrito.
+
+Se agregaron **4 enlaces desde 4 guías distintas** (`horno-electrico-vs-microondas`,
+`freidora-de-aire-vs-horno`, `vale-la-pena-comprar-freidora-de-aire`,
+`cuanto-consume-freidora-de-aire`), no los 15: once de esas menciones estaban en una sola guía, y
+cuatro orígenes distintos valen más que once desde el mismo lugar. Anclas variadas a propósito.
+
+**No se tocó `updatedDate` en ninguna:** un enlace interno no es actualización editorial y moverla
+resetea las ventanas de maduración. Se usó `sitemapLastmod: "2026-08-25"`, que es el campo que
+existe para eso.
+
+### Pendiente
+
+- `freezer-vertical` (pilar, 2 entrantes) y `yogurtera-daewoo` (1) siguen por debajo de la mediana.
+- Enlaces de perfumes: bloqueados hasta el 2026-09-12 (ver arriba).
+- Decidir si se abre la estrategia de "nichos de ficha" empezando por cámaras instantáneas.
 
 ## Sesión 2026-08-24 — Nicho de impresoras 3D, y la velocidad que MercadoLibre no publica
 

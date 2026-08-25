@@ -1041,3 +1041,29 @@ Confirma lo que ya sabíamos: **hay que chequear las premisas, no solo el veredi
 | 3 | 8 | **0** |
 
 28 candidatos validados, 9 guías escritas. **El espacio ganable para guías de categoría de producto nueva está prácticamente agotado.**
+
+
+---
+
+## Filtro nuevo — 2026-08-25 · El producto más reseñado tiene que estar disponible
+
+Sale de descartar notebooks **después** de haberlo aprobado con los filtros que había.
+
+Notebooks pasaba todo: comparativa **1.780/mes** (nueve veces el piso de la tanda 17) y SERP con
+sitios de **DA 14 y 20 en página 1**. Se cayó en el sourcing: de los cinco modelos con reseñas,
+cuatro estaban discontinuados, incluida la más vendida del país (792 opiniones, +1.000 vendidas).
+Y las seis que sí se vendían ese día tenían **cero opiniones**.
+
+**La regla:** antes de invertir en un rubro, abrir la ficha del producto **más reseñado** y
+confirmar que se pueda comprar. Si el top de reseñas está muerto, el rubro rota más rápido que el
+ciclo de reseñas y no se puede armar un lineup honesto.
+
+**Orden de los filtros:**
+
+1. Variante comparativa ≥ 200/mes (tanda 17)
+2. SERP con lugar editorial (que rankeen sitios de DA bajo, no solo tiendas)
+3. **El producto más reseñado se puede comprar** ← nuevo
+4. Góndola real
+
+El 3 va antes del 4 a propósito: no sirve que haya 5.000 publicaciones si las que tienen prueba
+social están discontinuadas. Detalle completo en `MISTAKES.md`.

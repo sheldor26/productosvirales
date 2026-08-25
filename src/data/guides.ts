@@ -406,6 +406,7 @@ export const guides: Guide[] = [
     h1: `Horno eléctrico vs microondas: cuál conviene y cuál comprar [2026]`,
     publishedDate: "2026-07-14",
     updatedDate: "2026-07-14",
+    sitemapLastmod: "2026-08-25",
     hasDisclosure: true,
     readingTime: 7,
     standfirst: `Horno eléctrico y microondas parecen competir, pero hacen cosas distintas: uno cocina, el otro calienta. Te explicamos qué hace cada uno, cuánto consumen de verdad y cuál conviene si solo podés comprar uno, con precios reales de MercadoLibre.`,
@@ -438,7 +439,7 @@ export const guides: Guide[] = [
       { type: "h3", title: `Comprá horno eléctrico si...` },
       { type: "p", content: `Querés **cocinar de verdad** (pizza, pollo, tartas, pan, repostería), no tenés horno a gas o se te rompió, o vivís en un departamento sin gas. El horno eléctrico te da un horno completo sin obra ni instalación. El [Atma 45L con grill](https://meli.la/14iWweG) es el más vendido; si horneás en serio, uno con convección como el [Smartlife 50L](https://meli.la/25fVep5).` },
       { type: "h3", title: `Comprá los dos si...` },
-      { type: "p", content: `Cocinás seguido y querés lo mejor de cada uno: el microondas para apurar (calentar, descongelar) y el horno para cocinar. Es lo que tiene la mayoría de las cocinas, y juntos no salen una fortuna: un microondas básico más un horno mediano se arman por menos de lo que cuesta una cocina nueva.` },
+      { type: "p", content: `Cocinás seguido y querés lo mejor de cada uno: el microondas para apurar (calentar, descongelar) y el horno para cocinar. Es lo que tiene la mayoría de las cocinas, y juntos no salen una fortuna: un microondas básico más un horno mediano se arman por menos de lo que cuesta una [cocina a gas nueva](/guias/cocina/cocina-a-gas).` },
 
       { type: "h2", title: `Tabla comparativa: microondas vs horno eléctrico`, id: "tabla-comparativa" },
       { type: "table", headers: [`Qué mirás`, `Microondas`, `Horno eléctrico`], rows: [
@@ -10403,7 +10404,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     h1: `Cuánto consume una freidora de aire: análisis del gasto real`,
     publishedDate: "2026-06-14",
     updatedDate: "2026-08-18",
-    sitemapLastmod: "2026-07-27",
+    sitemapLastmod: "2026-08-25",
     hasDisclosure: true,
     standfirst: `Calculamos cuánto consume realmente una freidora de aire en pesos argentinos, con y sin subsidio, y la comparamos contra otros electrodomésticos para que sepas si el gasto eléctrico te preocupa o no.`,
     quickPicks: [
@@ -10507,7 +10508,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "p", content: `Para realmente ahorrar con freidora: tenés que cocinar porciones pequeñas regularmente. Si no, el ahorro es marginal o directamente no existe.` },
       { type: "h2", title: `Cuando la freidora sí ahorra: el caso real` },
       { type: "p", content: `El ahorro existe en un caso específico:` },
-      { type: "p", content: `Vos y tu pareja cocinan porciones chicas diarios, sin horno a gas (viven en departamento, por ejemplo). Usaban microondas para todo antes.` },
+      { type: "p", content: `Vos y tu pareja cocinan porciones chicas diarios, sin [horno a gas](/guias/cocina/cocina-a-gas) (viven en departamento, por ejemplo). Usaban microondas para todo antes.` },
       { type: "p", content: `Antes: microondas 30 min diarios = 1.100W × 0,5h = 0,55 kWh/día` },
       { type: "p", content: `Ahora: freidora 20 min diarios = 1.500W × 0,33h = 0,5 kWh/día` },
       { type: "p", content: `Ahorro: 0,05 kWh/día = 1,5 kWh/mes, entre $270 y $345 al mes sin subsidio (entre $82 y $105 con subsidio).` },
@@ -10717,6 +10718,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     h1: `Freidora de aire vs horno: comparación real para tu cocina argentina`,
     publishedDate: "2026-06-18",
     updatedDate: "2026-07-08",
+    sitemapLastmod: "2026-08-25",
     hasDisclosure: true,
     standfirst: `Comparamos freidora de aire y horno en tiempo de cocción, consumo eléctrico, capacidad y resultado, para que sepas cuál conviene según cómo cocinás y qué tipo de horno tenés en tu cocina.`,
     quickPicks: [
@@ -10757,7 +10759,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "p", content: `Para asar vegetales: empate. Los dos hacen el trabajo. Freidora es más rápido, horno permite más cantidad.` },
       { type: "p", content: `Para carne con hueso: horno gana. Un pollo entero, un costillar. La freidora cocina desparejo con piezas grandes.` },
       { type: "h2", title: `El horno a gas cambia todo` },
-      { type: "p", content: `Si tu cocina tiene horno a gas y funciona bien, la propuesta de la freidora es menos atractiva económicamente. El gas cuesta poco. El horno ya está ahí. Y si estás friendo algo, probablemente el horno a gas hace el trabajo casi igual de rápido.` },
+      { type: "p", content: `Si tu cocina tiene [horno a gas](/guias/cocina/cocina-a-gas) y funciona bien, la propuesta de la freidora es menos atractiva económicamente. El gas cuesta poco. El horno ya está ahí. Y si estás friendo algo, probablemente el horno a gas hace el trabajo casi igual de rápido.` },
       { type: "p", content: `Única excepción: si cocinás cosas muy específicas donde la freidora es superior (papas bastón, alitas, empanadas recalentadas), sí vale la pena por rapidez y crujencia.` },
       { type: "h2", title: `Espacio en la cocina: horno ocupa más` },
       { type: "p", content: `Una freidora ocupa 30×25×30 cm (aproximado). Cabe en cualquier mesada o un rincón. Un horno ocupa 60×60×40 cm si es de 6 quemadores. La freidora es más práctica si tu cocina es chica.` },
@@ -11124,6 +11126,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     h1: `¿Vale la pena comprar una freidora de aire? La verdad`,
     publishedDate: "2026-06-21",
     updatedDate: "2026-07-08",
+    sitemapLastmod: "2026-08-25",
     hasDisclosure: true,
     standfirst: `¿Vale la pena gastar en una freidora de aire? Respuesta honesta con el cálculo real de amortización: para quién sí, para quién no, y por qué casi nunca se justifica por plata.`,
     quickPicks: [
@@ -11149,7 +11152,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "p", content: `Pero si cocinás pequeñas porciones (no es pasta para 8, es papas y pollo para 3-4 personas), la freidora es perfecta.` },
       { type: "h3", title: `No tenés horno a gas` },
       { type: "p", content: `Esto es clave. Si tu cocina solo tiene horno eléctrico (o no tenés horno), la freidora tiene sentido. Reduce tiempo de cocción y consumo eléctrico vs horno eléctrico.` },
-      { type: "p", content: `Si tenés horno a gas funcional, las ganancias disminuyen bastante. El gas es barato. La freidora no es justificable solo por tiempo.` },
+      { type: "p", content: `Si tenés [horno a gas](/guias/cocina/cocina-a-gas) funcional, las ganancias disminuyen bastante. El gas es barato. La freidora no es justificable solo por tiempo.` },
       { type: "h3", title: `Tenés espacio en la mesada` },
       { type: "p", content: `No es menor. Una freidora ocupa 30×25 cm mínimo. Si tu cocina es de departamento chiquito y las mesadas están al borde del colapso, no tiene espacio.` },
       { type: "p", content: `Pero si tenés un rincón libre, media mesada sin usar, ahí entra tranquilo.` },
