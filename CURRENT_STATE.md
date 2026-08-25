@@ -1,7 +1,91 @@
 # Estado actual
 
 > Snapshot del proyecto. Se actualiza al final de cada sesión.
-> Última actualización: 2026-08-25 (guía de impresoras 3D PUBLICADA, 3 fichas de anillos en vivo, nicho de notebooks descartado y `cocina-a-gas` rescatada de la orfandad — ver sesión inmediatamente abajo). Antes: 2026-08-24, silo de impresoras 3D creado en STAGED.
+> Última actualización: 2026-08-25 (silo de cámaras deportivas PUBLICADO: 7 fichas + guía pilar, con la generación actual de cada marca declarada — ver sesión inmediatamente abajo). Antes en el mismo día: guía de impresoras 3D publicada, 3 fichas de anillos, notebooks descartado.
+
+## Sesión 2026-08-25 (b) — Cámaras deportivas: el silo más auditado del sitio
+
+### PUBLICADO
+
+- **Guía pilar `camara-deportiva`** en `/guias/tech/camara-deportiva`, categoría nueva
+  `camaras-deportivas`. 9 secciones H2, 10 FAQ, tabla comparativa de 7 filas.
+- **7 fichas nuevas** en `curated-products.ts`: MLA47374183 (GoPro HERO13 Black),
+  MLA19710677 (Insta360 X3), MLA50882755 (Insta360 X5), MLA62340610 (DJI Osmo Action 6),
+  MLA29364436 (DJI Osmo Action 4), MLA16132352 (Akaso V50X), MLA62771175 (Gadnic 4K).
+- **3 links entrantes** desde `power-bank-solar`, `cargador-portatil` y `reloj-garmin`,
+  con `sitemapLastmod` y sin tocar `updatedDate`. La guía NO nace huérfana.
+
+### La keyword no era la que parecía
+
+"Camara deportiva" son **720/mes**, contra los 260 de "camara de accion" con los que se había
+empezado a medir. La familia de tipo suma ~2.070/mes. El comparativo de marca está muerto:
+`gopro vs insta360` son **10/mes**, así que el ángulo comparativo se descartó.
+
+**Ojo con "insta 360" (5.400/mes):** Google lo agrupa con "instagram 360" e "ig 360", los tres con
+volumen idéntico. Buena parte es gente buscando Instagram. El término limpio de marca es
+"camera insta360", **720/mes**.
+
+### El ángulo: honestidad de generaciones
+
+Juan marcó que ordenar por reseñas premia lo viejo, porque las reseñas miden tiempo en el mercado.
+Tenía razón y el efecto era grande: la Insta360 X3 está **tres generaciones atrás** (ya salieron X4,
+X5 y X6) y la DJI Osmo Action 4 **dos**. La GoPro HERO13 Black, en cambio, **sigue siendo la
+generación actual**: no existe la HERO14, GoPro se salteó el ciclo 2025 por primera vez desde 2016.
+
+Verificando en góndola apareció que la generación actual **sí se consigue en Argentina**, y con el
+dato que ordena toda la guía: **ponerse al día cuesta 2,5 veces en Insta360 y 1,9 en DJI**, mientras
+que en GoPro no cuesta nada porque la HERO13 ya lo es. Ése es el argumento de compra, y sale de los
+precios, no de la marca.
+
+### Tres hallazgos que las specs no muestran
+
+1. **La Gadnic no estabiliza, y lo declara su fabricante.** El manual oficial lista
+   "Antivibración con giroscopio: N/A" en español, portugués e inglés. Su publicación de ML no lo
+   menciona. Es el argumento central de la sección de estabilización.
+2. **La GoPro se apaga por temperatura.** Dos compradores de Brasil lo reportan por separado. Eso
+   califica el "+1,5 h en 5.3K30" oficial: el límite práctico puede ser el calor, no la batería.
+3. **A la X3 se le rompen los lentes.** Tres compradores de países distintos avisan que van
+   expuestos; uno cuenta que se le rompió con una caída de menos de 20 cm. Es justo lo que
+   Insta360 resolvió en la X5 con lentes reemplazables en casa.
+
+### Dos discrepancias entre la publicación de ML y el fabricante
+
+- **"Gadnic Air 4K" no es el nombre oficial.** Es "Cámara Deportiva Gadnic 4K WiFi 170° 16 MP",
+  SKU MCDEP017. El "Air" se lo puso quien cargó la publicación.
+- **La publicación de la Akaso declara un sensor IMX386 que Akaso no publica en ningún lado.**
+  Quedó como callout honesto en la guía: no decimos que sea falso, decimos que no lo pudimos
+  verificar contra el fabricante.
+
+### 87 correcciones, cinco frentes de auditoría
+
+| Frente | Hallazgos |
+|---|---:|
+| Auditoría del borrador (3 lentes) | 18 |
+| Codex (4 pasadas) | 14 |
+| Gemini/agy (3 pasadas) | 4 |
+| Workflow de 4 lentes sobre el código | 24 |
+| Workflow de confirmación (2 lentes) | 4 |
+| Barridos propios por familia de patrón | 19 |
+| Lectura de la guía de corrido | 4 |
+
+El detalle completo, con los falsos positivos rechazados y las lecciones de proceso, está en
+`docs/clusters/camaras-deportivas/borrador-guia.md`.
+
+**Lo más grave que se cazó:** la guía afirmaba que la Osmo Action 4 y la Action 6 comparten
+batería. Son 1770 mAh y 1950 mAh. Habría hecho comprar baterías de repuesto equivocadas.
+
+**Lo que más rindió al final** no fue otra ronda de auditores, sino volcar la prosa entera y leerla
+de corrido: ahí aparecieron 4 problemas que ningún auditor había marcado, uno un superlativo falso.
+
+### Pendiente de este silo
+
+- Guías hijas de marca, que es donde está el volumen navegacional:
+  `gopro-cual-comprar` (gopro 12.100 + camara gopro 2.400 + gopro hero 13 ~1.300) y
+  `insta360-cual-comprar` (camera insta360 720 + x5 590 + x4 480 + x3 480).
+- La **Insta360 X6** ya está en góndola argentina pero sin ventas registradas: salió el 12/08/2026.
+  Cuando acumule opiniones, evaluar ficha.
+
+---
 
 ## Sesión 2026-08-25 — Publicación, notebooks descartado, y un pilar huérfano
 
