@@ -4,6 +4,66 @@
 > MercadoLibre, de la corrida semanal automática. Generador de ideas — no
 > toca el catálogo. Entradas nuevas arriba.
 
+## 2026-08-25
+
+### Freidora de aire (ML) [ml] (0 productos)
+
+_No se pudo extraer nada esta vez — revisar el parser._
+
+### Aspiradora robot (ML) [ml] (15 productos)
+
+- OFERTA IMPERDIBLE — $618.799
+- Llega gratis hoy — $199.999
+- ![Robot Aspirador 3 En 1 Inteligente Con Mopa](https://http2.mlstatic.com/D_Q_NP_2X_977286-CBT113453054265_062026-E.webp) — $10.855
+- ![Xiaomi Robot Vacuum S40 Us Color Blanco](https://http2.mlstatic.com/D_Q_NP_2X_778237-MLA99219066155_112025-E.webp) — $418.900
+- ![Aspiradora Robot Trapeadora Xiaomi S40 10000pa Wifi Laser Blanco](https://http2.mlstatic.com/D_Q_NP_2X_660232-CBT114431227174_082026-E.webp) — $399.340
+- ![Aspiradora Inalámbrica Smart-tek Robot Ava Ultra Wifi](https://http2.mlstatic.com/D_Q_NP_2X_889896-MLA115261233410_082026-E.webp) — $810.999
+- ![Blanco Aspiradora Robot Xiaomi Vacuum H50](https://http2.mlstatic.com/D_Q_NP_2X_779219-MLA110348183166_052026-E.webp) — $950.000
+- ![Aspiradora Robot 3 En 1 Con Mopa Succión 200 Pa](https://http2.mlstatic.com/D_Q_NP_2X_713195-CBT113958637118_072026-E.webp) — $22.216
+- China Internacional China Enviado por FULL — $688.149
+- Disponible en 2 colores2 — $26.812
+- ![Aspiradora Robot Kärcher Rcv 1](https://http2.mlstatic.com/D_Q_NP_2X_985533-MLA96128276793_102025-E.webp) — $310.300
+- ![Xiaomi Robot Vacuum S40 Pro](https://http2.mlstatic.com/D_Q_NP_2X_724596-MLA106686110282_022026-E.webp) — $710.178
+- ](https://www.mercadolibre.com.ar/xiaomi-robot-vacuum-s40-pro/p/MLA65702567?offer_type=BEST_INSTALLMENTS#wid=MLA3018284792&sid=search) — $850.999
+- ![Aspiradora Xiaomi Robot Vacuum X20 Pro D102GL Color Blanco](https://http2.mlstatic.com/D_Q_NP_2X_868948-MLA99945011905_112025-E.webp) — $1.395.999
+- ![TP-LINK TAPO ASPIRADORA Y TRAPEADORA RV20 MAX PLUS 5300Pa](https://http2.mlstatic.com/D_Q_NP_2X_777217-MLA96905855908_112025-E.webp) — $504.999
+
+### Amazon Kitchen & Dining bestsellers [amazon] (15 productos)
+
+- Owala FreeSip Stainless Steel Water Bottle 24 oz Denim — US$29.99
+- Bounty Paper Towels Quick Size, White, 16 Family Rolls = 40 Regular Rolls — US$43.49
+- Nespresso Capsules Vertuo, Variety Pack, Medium and Dark Roast Coffee, 30 Count Coffee Pods, Brews 7.8 oz. — US$42.00
+- Bounty Select-A-Size Paper Towels, White, 8 Triple Rolls = 24 Regular Roll — US$19.96
+- Amazon Basics Everyday Disposable Paper Plates, 8.62 Inch, Microwave-Safe, Cut Resistant, Soak-Proof, 100 Count, Packaging May Vary — US$5.97
+- Dixie Medium Paper Plates, 8.5 Inch, 90 Count, 2X Stronger\*, Microwave-Safe, Soak-Proof, Cut Resistant, Disposable Plates For Everyday Breakfast, Lunch, & Dinner Meals — US$5.99
+- Amazon Basics 2-Ply Flex-Sheets Paper Towels, 12 Basics Rolls = 40 Regular Rolls, Everyday Value with 150 Sheets per Roll, Packaging May Vary — US$22.86
+- Lavazza Super Crema Whole Bean Coffee, Medium Espresso Roast, Arabica and Robusta Blend, 2.2 lb Bag, Package May Vary — US$26.99
+- Bounty Essentials Select-A-Size Paper Towels, 6 Double Rolls, White, 108 Sheets Per Roll — US$7.97
+- Brawny Tear-A-Square 3-Ply Paper Towels, 6 Double Rolls = 12 Regular Rolls | Strong, absorbent, and durable to tackle any tough mess — US$10.58
+- Sparkle Tear-A-Square Paper Towels, 12 Double Rolls - Strong 2-Ply Towels for Kitchen Cleanup and Everyday Messes — US$13.97
+- Owala FreeSip Sway Stainless Steel Water Bottle 30 oz Black Cherry — US$34.99
+- Bounty Paper Napkins, White, 200 Count, Packaging may vary — US$3.39
+- Viva Signature Cloth Paper Towels, 3 Double Rolls, 86 Sheets per Roll — US$6.99
+- Nespresso Vertuo, Barista Flavored Pack, Medium Roast, 30-Count Coffee Pods | Capsules Pack of 1 Brews 7.77 Fl. oz. — US$42.00
+
+### Amazon Home & Kitchen bestsellers [amazon] (15 productos)
+
+- Owala FreeSip Stainless Steel Water Bottle 24 oz Denim — US$29.99
+- Amazon Basics Lightweight Super Soft, Wrinkle-Free, Breathable Luxury Microfiber 4 Piece Bed Sheet Set with 14-Inch Deep Pockets, Full, Dark Gray, Solid — US$14.55
+- Queen Size 4 Piece Sheet Set - Comfy Breathable & Cooling Sheets - White | Hotel Luxury Bed Sheets for Women & Men, Deep Pockets, Easy-Fit, Extra Soft and Wrinkle Free Sheets, Oeko-Tex Bed Sheet Set — US$21.23
+- TERRO T300-2 2-Pack Liquid Ant Baits by Terro | Borax Formula, Kills the Queen & the Entire Colony, Liquid Ant Baits Indoor, Kills Household Ants, Indoor Use — US$9.58
+- Amazon Basics Slim Velvet Non-Slip Space Saving Suit Clothes Hangers, Closet Organizer, Black, 50-Pack — US$18.89
+- Zevo Flying Insect Trap Refill Cartridges for Fruit Flies & Gnats, 4 Count | Fits Zevo MAX & Zevo Flying Insect Trap, Catches House Flies, Gnats & Fruit Flies 24/7, No Added Fragrance or Dyes — US$14.97
+- upsimples 11x14 Picture Frame, Wall Decor Photo Frames, Black 1 Pack | 11 x 14 Frame, 8x10 Frame with Mat for Gallery Wall, Family, Baby, Dog, Dorm, Christmas — US$6.29
+- Zevo Flying Insect Trap for Fruit Flies & Gnats, 1 Plug-in Base & 1 Refills | Catches Fruit Flies & Gnats Near Fruit Bowls & Trash Bins, Spray-Free, Odor-Free, Blue & UV Light Trap, Safe for Kids & Pets\* — US$19.97
+- Niagara Sleep Solution Queen Ultra Soft Mattress Topper — Back Pain Relief | Rayon Derived from Bamboo, 20" Deep Pocket, Breathable Pillow Top Mattress Pad, Perfect for Hot Sleepers, Green — US$39.99
+- Barossa Design Oeko-tex Certified Shower Curtain Liner Standard Size, Clear | Waterproof PEVA, Rustproof Grommets, 3 Bottom Magnets, Cute Lightweight Bathroom Curtain, Fits Standard Tub 72" Length — US$8.49
+- BEDLORE Waterproof Mattress Protector, Queen Size Mattress Pad Noiseless | Deep Pockets Fit 6"-18" Mattresses, Soft Breathable Dirt-proof Bed Mattress Cover Washable for Home, Bedroom, Hotel — US$29.99
+- Queen Sheets Set, 4 Pieces 16" Deep Pocket Hotel Luxury Bed Sheets, Grey | Extra Soft Bedsheet Set, Comfy & Breathable Cooling Sheets, Wrinkle & Fade Resistant, Fitted Sheet, Flat Sheet, 2 Pillowcases — US$15.19
+- BigFoot Clear Shower Curtain - 72x72 Odorless Plastic with Magnets, Washable Long Bathroom Curtain - Premium PEVA Waterproof Bath Curtain, Rust-Proof Bathroom Essentials — US$9.99
+- Beckham Hotel Collection Bed Pillows Standard/Queen Size Set of 2 | Original Soft Down Alternative Pillow for Sleeping, Soft Support for Back, Stomach or Side Sleepers — US$41.97
+- OLANLY Bathroom Rugs 30x20, Extra Soft Absorbent Chenille Bath Rugs | Grey, Quick-Drying Rubber Backing, Machine Washable Bath Mat for Bathroom Floor, Tub and Shower, Home Decor Accessories — US$9.38
+
 ## 2026-07-08
 
 ### Freidora de aire (ML) [ml] (15 productos)
