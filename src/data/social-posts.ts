@@ -489,4 +489,54 @@ export const socialPosts: SocialPost[] = [
     offPct: "55",
     postedAt: "2026-08-24T17:38:03-03:00",
   },
+  {
+    title: "Teclado Gamer Redragon K622 Horus TKL",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_805662-MLA99443113410_112025-O.webp",
+    affiliateUrl: "https://meli.la/2FFddS8",
+    newPrice: "88.835",
+    oldPrice: "97.999",
+    offPct: "9",
+    postedAt: "2026-08-25T12:41:22-03:00",
+  },
+  {
+    title: "Monitor Noblex NXSM2200 22 100Hz",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_656487-MLA99941666533_112025-O.webp",
+    affiliateUrl: "https://meli.la/24VQhMv",
+    newPrice: "133.499",
+    oldPrice: "226.599",
+    offPct: "41",
+    postedAt: "2026-08-25T12:55:17-03:00",
+  },
+  {
+    title: "Freidora de Aire y Grill Digital Atma FR901DP 6.3L",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_727889-MLA99464081972_112025-O.webp",
+    affiliateUrl: "https://meli.la/2288aRk",
+    newPrice: "214.209",
+    oldPrice: "309.999",
+    offPct: "30",
+    postedAt: "2026-08-25T12:55:17-03:00",
+  },
+  {
+    title: "Smart TV Noblex 50\" 4K Google TV",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_863179-MLA110194542346_052026-O.webp",
+    affiliateUrl: "https://meli.la/2GTtgFh",
+    newPrice: "634.500",
+    oldPrice: "795.313",
+    offPct: "20",
+    postedAt: "2026-08-25T13:16:55-03:00",
+  },
+  {
+    title: "Licuadora Atma Pro LI8450AP",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_654240-MLA99514945598_112025-O.webp",
+    affiliateUrl: "https://meli.la/2Cb43gM",
+    newPrice: "83.599",
+    oldPrice: "149.999",
+    offPct: "44",
+    postedAt: "2026-08-25T18:20:06-03:00",
+  },
 ];
