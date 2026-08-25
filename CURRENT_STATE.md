@@ -74,6 +74,20 @@ Juan preguntó si el rubro tenía mejor volumen del esperado. Respuesta: sí, pe
   `updatedDate` movida a 2026-08-24.
 - **Disparador para volver a mirarlo:** si el Oura Ring 4 pasa de ~47 a más de 150 opiniones,
   la guía se justifica sola.
+- **Se ficharon los 3** (Juan paso los meli.la el 2026-08-25): `MLA2177777792` Ignix K3
+  ($159.153, 4.5/38, 100 vendidos), `MLA58202122` Amazfit Helio Ring ($410.418, 4.8/29) y
+  `MLA66785049` Oura Ring 4 ($1.099.999, 4.9/47). La seccion de la guia `smartwatch` enlaza a las
+  tres. Los 3 links verificados uno por uno en navegador.
+- **Hallazgo del rubro:** MercadoLibre tiene los anillos inteligentes cargados en la categoria de
+  **joyeria**. La ficha del Oura tiene 11 atributos (Material, Color, Acabado, "Con piedra") y
+  ninguno tecnico: ni bateria, ni sensores, ni resistencia al agua. Todo lo tecnico de las 3 fichas
+  salio de Oura y de Amazfit, no de ML.
+- **Contras reales que salieron:** el Oura no tiene NINGUNA de sus 15 opiniones mas utiles firmada
+  en Argentina (las 15 son de Colombia) y su resena mas votada, con 7 utiles, es sobre el talle;
+  el Amazfit solo existe en talles 8, 10 y 12 y un comprador argentino midio 3 dias de bateria
+  contra los 4 declarados; el K3 mide mal el ejercicio segun dos de sus propios compradores.
+- **Trio auditor: CUATRO pasadas de Codex** (NO-GO, NO-GO, NO-GO, GO) y dos de agy (GO, GO).
+  Ver MISTAKES.md: las tres primeras fueron el mismo error de metodo propio.
 
 ### Pendiente
 

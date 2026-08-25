@@ -8,6 +8,441 @@ import type { Product } from '@/lib/types';
  */
 
 export const curatedProducts: Product[] = [
+  // ─── Anillos inteligentes — sourceados de ML + verificados contra fabricante (ago 2026). Silo tech ───
+  {
+    id: "MLA2177777792",
+    title: "Anillo Inteligente Smart Ring Ignix K3 Titanio 5 ATM",
+    canonicalName: "Ignix K3 Smart Ring",
+    brand: "Ignix",
+    price: 159153,
+    originalPrice: 199000,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_617584-MLA116373890567_082026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_617584-MLA116373890567_082026-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_625823-MLA116373771849_082026-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_852931-MLA116373412951_082026-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_618197-MLA116374233293_082026-O.webp",
+    ],
+    category: "Tech",
+    categorySlug: "tech",
+    permalink: "https://articulo.mercadolibre.com.ar/MLA-2177777792-anillo-inteligente-smart-ring-k3-titanio-salud-y-sueno-_JM",
+    affiliateUrl: "https://meli.la/15edEg5",
+    condition: "new",
+    freeShipping: false,
+    rating: 4.5,
+    reviewCount: 38,
+    reviewsSampledAt: "2026-08-24",
+    soldQuantity: 100,
+    pastelColor: "var(--pastel-slate)",
+    visibility: "normal",
+    priceUpdated: "2026-08-24",
+    priceLastChecked: "2026-08-24",
+    priceVerifiedAt: "2026-08-24",
+    priceStatus: "fresh",
+    seoTitle: "Ignix K3: el anillo inteligente más barato que se consigue",
+    metaDescription: "Anillo inteligente Ignix K3 a {{precio:MLA2177777792}}: titanio, 5 ATM y sin suscripción. {{reviews:MLA2177777792}} opiniones. Dónde mide peor que uno caro.",
+    h1: "Ignix K3: el anillo inteligente más barato de los que se consiguen en Argentina",
+    pros: [
+      "El más barato de los tres anillos que comparamos, a {{precio:MLA2177777792}}, con 100 unidades vendidas declaradas contra las 50 del Amazfit Helio Ring (el Oura Ring 4 no publica ese dato)",
+      "No cobra suscripción: la app viene incluida, a diferencia del Oura Ring 4",
+      "Su publicación incluye una tabla de talles con diámetro interior y circunferencia en milímetros, desde el talle 6: es el dato que más falta cuando se compra un anillo a distancia",
+      "Titanio con resistencia al agua 5 ATM, suficiente para lavarse las manos, ducharse y nadar en superficie",
+      "Se integra con la app Salud del iPhone, según un comprador que lo probó contra el registro del propio celular",
+    ],
+    cons: [
+      "Mide el ejercicio peor que un reloj. Un comprador que entrena fuerza, bicicleta y yoga lo dice sin vueltas: \"por lo menos a mí no me toma bien el ejercicio, las calorías que dice son irrisorias de lo que en realidad\" gasta",
+      "Otro comprador, también con cuatro estrellas, avisa que \"tiene diferencias de mediciones con respecto a otros aparatos médicos\". Es un anillo de bienestar, no un instrumento clínico",
+      "Su resistencia al agua es la mitad que la del Amazfit Helio Ring y la del Oura Ring 4: 5 ATM contra 10 ATM y 100 metros",
+      "La batería dura unos 3 días, la más corta de los tres. El vendedor lo declara como una hora de carga cada tres días",
+      "Es una publicación de vendedor, no una ficha de catálogo de MercadoLibre: si ese vendedor se queda sin stock, la publicación desaparece entera en vez de rotar a otro vendedor",
+    ],
+    verdict: "Es la forma más barata de probar si un anillo inteligente te sirve, a {{precio:MLA2177777792}}, con 100 unidades vendidas declaradas contra las 50 del Amazfit Helio Ring. Cumple bien lo que un anillo hace mejor, que es medir sueño y pulso en reposo. Donde se nota el precio es en el ejercicio: dos compradores distintos avisan que las mediciones de actividad y calorías quedan cortas frente a un reloj o a un aparato médico.",
+    articleBody: `## Qué es el Ignix K3
+
+Es un anillo inteligente de titanio que mide sueño, pulso, oxígeno en sangre y estrés las 24 horas, sin pantalla y sin suscripción. Cuesta {{precio:MLA2177777792}} y tiene {{reviews:MLA2177777792}} calificaciones con {{rating:MLA2177777792}} estrellas en MercadoLibre Argentina, con 100 unidades vendidas declaradas, contra las 50 del Amazfit Helio Ring. El Oura Ring 4 no publica ese dato.
+
+## Lo que MercadoLibre no te dice de ningún anillo
+
+Acá hay algo que conviene saber antes de comparar cualquier anillo inteligente en MercadoLibre: **la categoría está cargada como joyería**. La ficha técnica de este modelo tiene cinco campos, y los de los anillos más caros no tienen muchos más. Vas a ver "Material", "Color" y "Con piedra", pero no vas a ver batería, sensores ni autonomía.
+
+Por eso los datos técnicos de la ficha de acá arriba los sacamos de la descripción del vendedor y de las reseñas, no de los atributos de la publicación.
+
+## Dónde se nota que es el más barato
+
+En el ejercicio. Dos de las cuatro reseñas de cuatro estrellas apuntan al mismo lugar. Una es específica: "por lo menos a mí no me toma bien el ejercicio, entreno fuerza, bicicleta y hago yoga. Las calorías que dice son irrisorias de lo que en realidad" se gasta. La otra es más general pero va en la misma dirección: "muy buen producto por el precio. Sin embargo tiene diferencias de mediciones con respecto a otros aparatos médicos".
+
+Es la contra esperable y hay que decirla: un anillo de este precio sirve para ver tendencias de sueño y de pulso en reposo, no para reemplazar un reloj deportivo ni un aparato clínico.
+
+## La batería y el talle, los dos datos que deciden
+
+**Batería: unos 3 días.** El vendedor lo plantea como una hora de carga cada tres días, y agrega un argumento que vale citar porque es honesto: si un anillo promete una semana de autonomía, conviene preguntarse con qué sensores encendidos midieron ese número.
+
+**Talle: es el punto crítico de todo anillo.** Su publicación incluye una tabla con diámetro interior y circunferencia en milímetros, desde el talle 6. Suena a detalle y no lo es: el problema más citado en las reseñas de anillos inteligentes, de cualquier marca, es que el talle no entra o queda flojo. Medí el dedo con un hilo antes de comprar.
+
+## Contra los otros dos anillos de la comparativa
+
+El [Amazfit Helio Ring](/producto/anillo-inteligente-amazfit-helio-ring-titanio-talle-10-mla58202122) cuesta {{preciodif:MLA58202122:MLA2177777792}} más y sube a 10 ATM de resistencia al agua, con una app de una marca conocida y sensores mejor documentados. Pero solo existe en tres talles.
+
+El [Oura Ring 4](/producto/anillo-inteligente-oura-ring-4-titanio-negro-talle-9-mla66785049) es otra liga de precio, con la mejor batería de los tres y talles del 4 al 15, pero cobra suscripción mensual aparte para desbloquear los análisis.
+
+## Para quién es, y para quién no
+
+Es para vos si querés probar el formato anillo sin poner mucha plata, si lo que te interesa es el sueño y el pulso en reposo, y si no querés pagar una suscripción encima del aparato.
+
+No es para vos si entrenás en serio y esperás que te cuente bien las calorías y las sesiones, porque ahí los propios compradores avisan que queda corto. Tampoco si vas a nadar seguido: 5 ATM alcanza para superficie, no para más.`,
+    specs: [
+      { label: "Marca / Modelo", value: "Ignix K3" },
+      { label: "Material", value: "Titanio" },
+      { label: "Resistencia al agua", value: "5 ATM (la mitad que los otros dos de la comparativa)" },
+      { label: "Batería", value: "Unos 3 días. Una hora de carga cada tres días, según el vendedor" },
+      { label: "Suscripción", value: "No cobra: la app viene incluida" },
+      { label: "Talles", value: "Desde el 6, con tabla de diámetro interior y circunferencia en mm" },
+      { label: "Mide", value: "Sueño, pulso, oxígeno en sangre y estrés, de forma continua" },
+      { label: "Compatibilidad", value: "Se integra con la app Salud del iPhone (reportado por un comprador)" },
+      { label: "Pantalla", value: "No tiene: todo se ve en la app del celular" },
+      { label: "Color", value: "Negro" },
+      { label: "Tipo de publicación", value: "Publicación de vendedor, no ficha de catálogo de MercadoLibre" },
+    ],
+    faq: [
+      { question: "¿Vale la pena el anillo inteligente más barato?", answer: "Depende de para qué. Para ver tendencias de sueño y pulso en reposo, sí: {{reviews:MLA2177777792}} calificaciones con {{rating:MLA2177777792}} estrellas y 100 unidades vendidas declaradas lo respaldan, contra las 50 del Amazfit Helio Ring. Para medir ejercicio, no: dos compradores avisan que las calorías y la actividad quedan cortas frente a un reloj." },
+      { question: "¿Cuánto dura la batería?", answer: "Unos 3 días. El vendedor lo plantea como una hora de carga cada tres días. Es la más corta de los tres anillos de la comparativa: el Amazfit Helio Ring declara hasta 4 días y el Oura Ring 4 entre 5 y 8." },
+      { question: "¿Cobra suscripción?", answer: "No. La app viene incluida con el anillo. Es una diferencia concreta contra el [Oura Ring 4](/producto/anillo-inteligente-oura-ring-4-titanio-negro-talle-9-mla66785049), que cobra una suscripción mensual aparte para desbloquear los puntajes y las tendencias." },
+      { question: "¿Cómo sé qué talle pedir?", answer: "Es el punto más importante de cualquier anillo inteligente y la queja más repetida del rubro. Este modelo publica una tabla con diámetro interior y circunferencia en milímetros, desde el talle 6. Medí el dedo con un hilo, comparalo contra esa tabla, y si dudás entre dos, tené en cuenta que los dedos se hinchan de noche y con calor." },
+      { question: "¿Se puede usar en la ducha o en la pileta?", answer: "Sí, tiene 5 ATM, que alcanza para lavarse las manos, ducharse y nadar en superficie. Es la mitad de lo que aguantan el Amazfit Helio Ring (10 ATM) y el Oura Ring 4 (100 metros), así que para uso intensivo en agua conviene mirar esos dos." },
+      { question: "¿Sirve para medir entrenamientos?", answer: "Es su punto flojo. Un comprador que entrena fuerza, bicicleta y yoga dice que \"no me toma bien el ejercicio\" y que las calorías reportadas son muy inferiores a las reales. Otro señala diferencias de medición contra aparatos médicos. Sirve para el registro pasivo de todo el día, no para reemplazar un reloj deportivo." },
+      { question: "¿Qué diferencia hay con la ficha de catálogo de MercadoLibre?", answer: "Esta es una publicación de un vendedor puntual, no una ficha de catálogo compartida entre varios. En la práctica funciona igual para comprar, pero si ese vendedor se queda sin stock la publicación desaparece entera, en vez de pasar a otro vendedor como pasa en las fichas de catálogo." },
+    ],
+    customerReviews: [
+      { rating: 4, date: "enero 2026", text: "Por lo menos a mí no me toma bien el ejercicio, entreno fuerza, bicicleta y hago yoga. Las calorías que dice son irrisorias de lo que en realidad." },
+      { rating: 4, date: "febrero 2026", text: "Muy buen producto por el precio. Sin embargo tiene diferencias de mediciones con respecto a otros aparatos de médicos." },
+      { rating: 5, date: "abril 2026", text: "Super completo el software que utiliza y que además se integra perfectamente con health de iphone. Es mucho más exacto que el registro del apple." },
+      { rating: 5, date: "diciembre 2025", text: "Es muy bueno para las alerta de salud." },
+      { rating: 5, date: "diciembre 2025", text: "Excelente!!! cumple con lo que ofrece!." },
+    ],
+    relatedProducts: ["MLA58202122", "MLA66785049", "MLA60036543"],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Ignix K3 Smart Ring",
+      image: "https://http2.mlstatic.com/D_NQ_NP_617584-MLA116373890567_082026-O.webp",
+      description: "Anillo inteligente Ignix K3 de titanio: mide sueño, pulso, oxígeno en sangre y estrés, con 5 ATM de resistencia al agua, unos 3 días de batería y sin suscripción. 4.5 estrellas con 38 calificaciones en MercadoLibre Argentina.",
+      brand: { "@type": "Brand", name: "Ignix" },
+      offers: {
+        "@type": "Offer",
+        url: "https://meli.la/15edEg5",
+        priceCurrency: "ARS",
+        price: 159153,
+        availability: "https://schema.org/InStock",
+        itemCondition: "https://schema.org/NewCondition",
+        seller: { "@type": "Organization", name: "MercadoLibre Argentina" },
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.5",
+        reviewCount: "38",
+      },
+    },
+  },
+  {
+    id: "MLA58202122",
+    title: "Anillo Inteligente Amazfit Helio Ring Titanio Talle 10",
+    canonicalName: "Amazfit Helio Ring",
+    brand: "Amazfit",
+    price: 410418,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_620611-MLA108915566170_032026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_620611-MLA108915566170_032026-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_923942-MLA109741586415_032026-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_929698-MLA108915508460_032026-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_940145-MLA108915800844_032026-O.webp",
+    ],
+    category: "Tech",
+    categorySlug: "tech",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA58202122",
+    affiliateUrl: "https://meli.la/2R4oGZA",
+    condition: "new",
+    freeShipping: false,
+    rating: 4.8,
+    reviewCount: 29,
+    reviewsSampledAt: "2026-08-24",
+    soldQuantity: 50,
+    pastelColor: "var(--pastel-blue)",
+    visibility: "normal",
+    priceUpdated: "2026-08-24",
+    priceLastChecked: "2026-08-24",
+    priceVerifiedAt: "2026-08-24",
+    priceStatus: "fresh",
+    seoTitle: "Amazfit Helio Ring: sin suscripción, pero solo 3 talles",
+    metaDescription: "Amazfit Helio Ring a {{precio:MLA58202122}}: titanio, 10 ATM y sin suscripción. Solo existe en talles 8, 10 y 12, y la batería real que reporta un comprador.",
+    h1: "Amazfit Helio Ring: el anillo sin suscripción, con un problema de talles",
+    pros: [
+      "No cobra suscripción, a diferencia del Oura Ring 4: pagás el anillo una vez y la app viene incluida para siempre",
+      "8 de las 15 más útiles están firmadas en Argentina, contra ninguna del Oura Ring 4, donde las 15 son de Colombia",
+      "Resistencia al agua de 10 ATM y titanio, con 3,75 g en el talle 10 y 2,6 mm de espesor según Amazfit",
+      "Mide pulso, oxígeno en sangre, temperatura de la piel y estrés por respuesta de la piel, más acelerómetro y giroscopio",
+      "{{rating:MLA58202122}} estrellas en {{reviews:MLA58202122}} calificaciones, y comparte la app con los relojes de la marca, así que se puede combinar con un Amazfit de muñeca",
+    ],
+    cons: [
+      "**Solo existe en tres talles: 8, 10 y 12.** Es la limitación más seria de este anillo. El Oura Ring 4 va del 4 al 15",
+      "Y el más chico no es tan chico: un comprador argentino cuenta que \"el talle más pequeño es grande, yo le coloqué otro delante para trabarlo\"",
+      "Amazfit declara hasta 4 días de batería. El mismo comprador argentino mide \"aproximadamente 3 días\" en uso real con la configuración que viene de fábrica",
+      "Para actividad física \"trae solo 4 posibilidades y son muy acotadas\", según esa misma reseña. No es un reemplazo de un reloj deportivo",
+      "Su ficha en MercadoLibre está cargada en la categoría de joyería: siete atributos, ninguno técnico. No vas a encontrar batería ni sensores en la publicación",
+    ],
+    verdict: "Es el punto medio razonable de los tres: paga una sola vez, tiene 10 ATM y sensores bien documentados, y 8 de las 15 más útiles están firmadas en Argentina, algo que el Oura Ring 4 no tiene. El problema es el talle: solo existe en 8, 10 y 12, y un comprador avisa que el más chico igual le quedó grande. Si tu medida no cae en esos tres números, mirá el Oura Ring 4, que va del 4 al 15.",
+    articleBody: `## Qué es el Amazfit Helio Ring
+
+Es el anillo inteligente de Amazfit, la marca de relojes deportivos: titanio, 10 ATM de resistencia al agua y 3,75 g en el talle 10, sin pantalla, con todo el detalle en la app del celular. Cuesta {{precio:MLA58202122}} y tiene {{reviews:MLA58202122}} calificaciones con {{rating:MLA58202122}} estrellas en MercadoLibre Argentina.
+
+## La diferencia que más plata te ahorra: no cobra suscripción
+
+El [Oura Ring 4](/producto/anillo-inteligente-oura-ring-4-titanio-negro-talle-9-mla66785049), que es la referencia del rubro, cobra una suscripción mensual aparte para desbloquear los puntajes de sueño y las tendencias. El Helio Ring no: pagás el anillo y la app viene incluida.
+
+Sobre un aparato que se usa años, esa diferencia se acumula y conviene tenerla en la cuenta antes de comparar solo los precios de compra.
+
+## El problema de los talles, que es serio
+
+**Amazfit fabrica este anillo en tres talles: 8, 10 y 12.** Nada más. Para comparar: el Oura Ring 4 va del 4 al 15.
+
+Si tu medida cae justo, no hay problema. Si no, no hay opción intermedia. Y hay un detalle peor, que lo cuenta un comprador argentino en su reseña: "el talle más pequeño es grande, yo le coloqué otro delante para trabarlo". O sea que incluso el 8 puede quedar flojo en dedos finos.
+
+Es el punto que más conviene resolver antes de comprar cualquier anillo inteligente, y en este modelo particularmente, porque el margen de elección es chico.
+
+## Batería: 4 días declarados, 3 en uso real
+
+Amazfit declara hasta 4 días. El mismo comprador argentino que reportó lo del talle midió en su uso: "la batería dura aproximadamente 3 días si lo usás con las indicaciones que vienen precargadas sobre las aplicaciones en uso".
+
+No es un escándalo, es la diferencia habitual entre el número de laboratorio y el número real. Pero si estabas contando con 4 días, contá 3.
+
+## Qué mide, y qué no
+
+Mide pulso, oxígeno en sangre, temperatura de la piel y estrés a través de la respuesta eléctrica de la piel, más acelerómetro y giroscopio para el movimiento. Para sueño y recuperación, que es para lo que se compra un anillo, está bien equipado.
+
+Para deporte, tiene un límite concreto que también sale de las reseñas: "para medir la actividad física trae solo 4 posibilidades y son muy acotadas". Si entrenás varias disciplinas y querés que las distinga, un reloj sigue siendo mejor herramienta.
+
+## Opiniones argentinas en 8 de las 15 más útiles
+
+Vale la pena decirlo porque es raro en este rubro: de las 15 opiniones más útiles de esta publicación, **8 están firmadas en Argentina** y 7 en Brasil. En el [Oura Ring 4](/producto/anillo-inteligente-oura-ring-4-titanio-negro-talle-9-mla66785049), en cambio, las 15 más útiles son todas de otros países.
+
+Cuando una categoría recién arranca en el país, tener reseñas locales cambia bastante lo que podés confiar de la experiencia de compra, la entrega y el soporte.
+
+## Contra los otros dos de la comparativa
+
+El [Ignix K3](/producto/anillo-inteligente-smart-ring-ignix-k3-titanio-5-atm-mla2177777792) cuesta {{preciodif:MLA58202122:MLA2177777792}} menos y publica su tabla de talles desde el 6, pero baja a 5 ATM y sus compradores avisan que mide el ejercicio bastante peor.
+
+El [Oura Ring 4](/producto/anillo-inteligente-oura-ring-4-titanio-negro-talle-9-mla66785049) tiene mejor batería y muchos más talles, pero cuesta {{preciodif:MLA66785049:MLA58202122}} más y le suma la suscripción mensual.
+
+## Para quién es, y para quién no
+
+Es para vos si tu talle es 8, 10 o 12, si querés pagar una sola vez sin suscripción, y si valorás que haya compradores argentinos que ya lo probaron.
+
+No es para vos si tu medida no entra en esos tres talles, si necesitás que distinga bien entre varios deportes, o si esperabas los 4 días de batería completos que declara la marca.`,
+    specs: [
+      { label: "Marca / Modelo", value: "Amazfit Helio Ring" },
+      { label: "Material", value: "Titanio" },
+      { label: "Resistencia al agua", value: "10 ATM (dato del fabricante)" },
+      { label: "Peso", value: "3,75 g en el talle 10 (3,65 g el talle 8, 3,82 g el talle 12)" },
+      { label: "Espesor", value: "2,6 mm" },
+      { label: "Batería", value: "Hasta 4 días declarados por Amazfit. Un comprador argentino reporta unos 3 días en uso real" },
+      { label: "Talles disponibles", value: "Solo 8, 10 y 12 (el Oura Ring 4 va del 4 al 15)" },
+      { label: "Suscripción", value: "No cobra: la app viene incluida" },
+      { label: "Sensores", value: "Pulso, oxígeno en sangre, temperatura de la piel, estrés por respuesta de la piel, acelerómetro y giroscopio" },
+      { label: "Actividades deportivas", value: "4 tipos, según un comprador. No reemplaza a un reloj deportivo" },
+      { label: "Pantalla", value: "No tiene: todo se ve en la app del celular" },
+      { label: "App", value: "Zepp, la misma de los relojes Amazfit: se pueden combinar" },
+      { label: "Color", value: "Titanio" },
+    ],
+    faq: [
+      { question: "¿El Amazfit Helio Ring cobra suscripción?", answer: "No. Pagás el anillo una vez y la app viene incluida. Es la diferencia más concreta contra el [Oura Ring 4](/producto/anillo-inteligente-oura-ring-4-titanio-negro-talle-9-mla66785049), que cobra una suscripción mensual aparte para desbloquear los puntajes de sueño y las tendencias." },
+      { question: "¿En qué talles viene?", answer: "Solo en tres: 8, 10 y 12. Es su limitación más seria, porque el [Oura Ring 4](/producto/anillo-inteligente-oura-ring-4-titanio-negro-talle-9-mla66785049) va del 4 al 15. Y hay un detalle a tener en cuenta: un comprador argentino avisa que incluso el talle más chico le quedó grande y tuvo que ponerse otro anillo delante para que no se le saliera." },
+      { question: "¿Cuánto dura realmente la batería?", answer: "Amazfit declara hasta 4 días. Un comprador argentino midió unos 3 días en uso real con la configuración que viene de fábrica. Es la diferencia habitual entre el dato de laboratorio y el uso cotidiano, pero conviene contar 3." },
+      { question: "¿Sirve para entrenar?", answer: "Con un límite. Mide pulso, oxígeno, temperatura de la piel y estrés de forma continua, que es lo que un anillo hace bien. Pero para actividad física \"trae solo 4 posibilidades y son muy acotadas\", según un comprador. Si entrenás varias disciplinas y querés que las distinga, un reloj sigue siendo mejor." },
+      { question: "¿Se puede nadar con él?", answer: "Sí, tiene 10 ATM según Amazfit, que cubre natación sin problema. Es el doble de lo que aguanta el [Ignix K3](/producto/anillo-inteligente-smart-ring-ignix-k3-titanio-5-atm-mla2177777792), que llega a 5 ATM." },
+      { question: "¿Se puede usar junto con un reloj Amazfit?", answer: "Sí, y es una de las razones por las que algunos lo eligen: comparte la app Zepp con los relojes de la marca. Un comprador cuenta que lo compró junto con un reloj Amazfit justamente para cruzar mediciones, y que \"la app es la misma y tiene mucha info\"." },
+      { question: "¿Por qué su publicación no muestra datos técnicos?", answer: "Porque MercadoLibre tiene los anillos inteligentes cargados en la categoría de joyería. La ficha de esta publicación tiene siete atributos y ninguno es técnico: figura \"Material\", \"Color\" y hasta \"Con piedra\", pero no batería ni sensores. Los datos técnicos de la ficha de acá arriba salen de la página de Amazfit y de las reseñas." },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "febrero 2026", text: "El talle más pequeño es grande yo le coloqué otro delante para trabarlo. La batería dura aproximadamente 3 días si lo usas con las indicaciones que vienen precargadas sobre las aplicaciones en uso. Lo único que hasta ahora encontré de malo es que para medir la actividad física trae solo 4 posibilidades y son muy acotadas." },
+      { rating: 5, country: "Argentina", date: "febrero 2026", text: "Me encantó!! lo compré en conjunto con un reloj amazfit para tener más precisión en las mediciones, pero la app es la misma y tiene mucha info. Yo venía viéndolos desde hace unos años y dudando y superó mis expectativas." },
+      { rating: 5, country: "Argentina", date: "febrero 2026", text: "Vale la pena cada centavo si lo que buscas es un monitoreo completo de tus actividades. Es especial para el control del sueño y sus fases y saber cuan óptimo estás para entrenar. El control de la alimentación es sobresaliente." },
+      { rating: 5, country: "Argentina", date: "febrero 2026", text: "Muy bueno, muy liviano." },
+    ],
+    relatedProducts: ["MLA66785049", "MLA2177777792", "MLA60036543"],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Amazfit Helio Ring",
+      image: "https://http2.mlstatic.com/D_NQ_NP_620611-MLA108915566170_032026-O.webp",
+      description: "Anillo inteligente Amazfit Helio Ring de titanio: 10 ATM de resistencia al agua, 3,75 g, hasta 4 días de batería y sin suscripción. Solo en talles 8, 10 y 12. 4.8 estrellas con 29 calificaciones en MercadoLibre Argentina.",
+      brand: { "@type": "Brand", name: "Amazfit" },
+      offers: {
+        "@type": "Offer",
+        url: "https://meli.la/2R4oGZA",
+        priceCurrency: "ARS",
+        price: 410418,
+        availability: "https://schema.org/InStock",
+        itemCondition: "https://schema.org/NewCondition",
+        seller: { "@type": "Organization", name: "MercadoLibre Argentina" },
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.8",
+        reviewCount: "29",
+      },
+    },
+  },
+  {
+    id: "MLA66785049",
+    title: "Anillo Inteligente Oura Ring 4 Titanio Negro Talle 9",
+    canonicalName: "Oura Ring 4",
+    brand: "Oura",
+    price: 1099999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_924794-MLA108937441061_032026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_924794-MLA108937441061_032026-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_908218-MLA108156924632_032026-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_789358-MLA108157104304_032026-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_863177-MLA108938246027_032026-O.webp",
+    ],
+    category: "Tech",
+    categorySlug: "tech",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA66785049",
+    affiliateUrl: "https://meli.la/1pVMd16",
+    condition: "new",
+    freeShipping: false,
+    rating: 4.9,
+    reviewCount: 47,
+    reviewsSampledAt: "2026-08-24",
+    pastelColor: "var(--pastel-purple)",
+    visibility: "normal",
+    priceUpdated: "2026-08-24",
+    priceLastChecked: "2026-08-24",
+    priceVerifiedAt: "2026-08-24",
+    priceStatus: "fresh",
+    seoTitle: "Oura Ring 4 en Argentina: precio, suscripción y reseñas",
+    metaDescription: "Oura Ring 4 a {{precio:MLA66785049}}: titanio, 100 m, 5 a 8 días de batería y talles del 4 al 15. La suscripción mensual y de dónde son realmente sus reseñas.",
+    h1: "Oura Ring 4: el anillo de referencia, y las dos letras chicas que nadie te cuenta",
+    pros: [
+      "El mejor puntaje de los tres anillos que comparamos: {{rating:MLA66785049}} estrellas en {{reviews:MLA66785049}} calificaciones, la base más grande del grupo",
+      "La batería más larga de la comparativa: entre 5 y 8 días según Oura, contra los 4 declarados del Amazfit Helio Ring y los 3 del Ignix K3",
+      "Talles del 4 al 15: arranca más abajo que los otros dos y es el rango declarado más largo de los tres. El Amazfit Helio Ring solo existe en 8, 10 y 12; el Ignix K3 arranca en el 6",
+      "Titanio macizo por dentro y por fuera, con 100 metros de resistencia al agua y entre 3,3 y 5,2 g según el talle",
+      "Sensores rediseñados: un sistema de 18 caminos de luz apoyado a 0,3 mm de la piel, contra los 1,3 mm de la generación anterior",
+    ],
+    cons: [
+      "**Cobra suscripción.** Oura pide una membresía mensual para desbloquear los puntajes de sueño, las tendencias y el análisis. Sin ella el anillo sigue midiendo pasos, pulso y horas de sueño, pero perdés justamente lo que lo hace valer lo que sale",
+      "**Ninguna de las 15 opiniones más útiles que revisamos es argentina:** las 15 son de compradores de Colombia. El Amazfit Helio Ring, en cambio, tiene 8 de esas 15 firmadas en Argentina",
+      "Se raya. Lo dice un comprador que igual le puso cinco estrellas: \"excelente producto, las métricas que te da son increíbles... se raya fácil\"",
+      "El talle es el problema más citado, incluso en las reseñas buenas: la opinión marcada como más útil de todas, con 7 votos, es de cuatro estrellas y dice \"increíble pero me quedó un poco grande\"",
+      "Es, por lejos, el más caro de la comparativa: cuesta {{preciodif:MLA66785049:MLA58202122}} más que el Amazfit Helio Ring y {{preciodif:MLA66785049:MLA2177777792}} más que el Ignix K3",
+    ],
+    verdict: "Es el mejor anillo de los tres y los datos lo respaldan: {{rating:MLA66785049}} estrellas, la batería más larga y el rango de talles declarado más largo. Pero tiene dos letras chicas que conviene saber antes: cobra una suscripción mensual aparte para desbloquear el análisis, y ninguna de las 15 opiniones más útiles que revisamos es de un comprador argentino. Si el presupuesto manda o querés evitar la suscripción, el Amazfit Helio Ring hace la mayor parte del trabajo.",
+    articleBody: `## Qué es el Oura Ring 4
+
+Es la referencia del rubro: un anillo de titanio macizo que mide sueño, actividad, pulso, variabilidad cardíaca, oxígeno en sangre y temperatura, sin pantalla, con todo el análisis en la app. Cuesta {{precio:MLA66785049}} y tiene {{reviews:MLA66785049}} calificaciones con {{rating:MLA66785049}} estrellas, el mejor puntaje de los tres anillos que comparamos.
+
+## Primera letra chica: la suscripción
+
+El anillo no viene con todo incluido. Oura cobra una membresía mensual para desbloquear los puntajes de sueño y de preparación, las tendencias y el análisis. Sin pagarla, el anillo sigue registrando pasos, pulso, horas de sueño y temperatura, pero te quedás sin la lectura de esos datos, que es exactamente para lo que se compra.
+
+Oura incluye el primer año de membresía con la compra directa. Acá se compra por revendedor, así que **conviene confirmarle al vendedor si esa promoción aplica** antes de darla por hecha.
+
+## Segunda letra chica: ninguna de las 15 opiniones más útiles es argentina
+
+Este dato no está a la vista y cambia bastante cómo leer las {{reviews:MLA66785049}} calificaciones. Al revisar las opiniones más útiles de esta publicación, **las 15 son de compradores de Colombia**. Ninguna de esas 15 es de Argentina.
+
+El propio MercadoLibre lo avisa en letra chica dentro del bloque de opiniones: "incluye opiniones de otros países". No invalida nada de lo que dicen sobre el producto, que es el mismo en todos lados. Pero sí significa que sobre la experiencia local (entrega, garantía, respuesta del vendedor) no hay nada que leer en esa muestra.
+
+Para contrastar: el [Amazfit Helio Ring](/producto/anillo-inteligente-amazfit-helio-ring-titanio-talle-10-mla58202122) tiene 8 de las 15 más útiles firmadas en Argentina.
+
+## Dónde sí le gana a los otros dos, sin discusión
+
+**Batería.** Entre 5 y 8 días según Oura, contra los 4 declarados del Amazfit y los 3 del [Ignix K3](/producto/anillo-inteligente-smart-ring-ignix-k3-titanio-5-atm-mla2177777792).
+
+**Talles.** Va del 4 al 15, arrancando más abajo que los otros dos. El Amazfit solo existe en 8, 10 y 12, lo que directamente deja afuera a mucha gente. Si tu medida es rara, es el que más chances tiene de tenerla.
+
+**Sensores.** La cuarta generación bajó los sensores a 0,3 mm de la piel, contra 1,3 mm de la anterior, y usa un sistema de 18 caminos de luz. Es la razón técnica detrás de las mediciones más finas.
+
+En resistencia al agua, en cambio, no hay diferencia práctica con el Amazfit: 100 metros contra 10 ATM son lo mismo.
+
+## Lo que dicen los compradores, incluidas las críticas
+
+Las opiniones son muy buenas y sorprendentemente concretas sobre para qué lo usan. Uno lo compró por el estrés: "lo compré principalmente para seguir mis niveles de estrés y me ha ayudado a tener una mejor visibilidad y gestión". Otro por el sueño: "ayuda mucho para identificar patrones en el sueño, tiene alertas para que muevas el cuerpo, mide niveles de estrés".
+
+Las dos críticas que aparecen valen más que los elogios, porque son las únicas. Una está adentro de una reseña de cinco estrellas: "se raya fácil". La otra es la opinión marcada como más útil de toda la publicación, con 7 votos, y es de cuatro estrellas: **"increíble pero me quedó un poco grande"**.
+
+Que el comentario más votado de un anillo de más de un millón de pesos sea sobre el talle dice todo lo que hay que saber sobre dónde está el riesgo en esta compra.
+
+## La publicación no tiene datos técnicos, y no es culpa del vendedor
+
+MercadoLibre tiene los anillos inteligentes cargados en la categoría de joyería. La ficha de esta publicación tiene once atributos: Material, Color, Talle, Estilos, Acabado, "Con piedra", "Edad". Ninguno técnico. No vas a encontrar batería, sensores ni resistencia al agua en la publicación de MercadoLibre.
+
+Todos los datos técnicos de la ficha de acá arriba salen de la documentación de Oura, no de la publicación.
+
+## Para quién es, y para quién no
+
+Es para vos si querés lo mejor del rubro y el precio no es el factor que decide, si tu talle no entra en los tres números del Amazfit, o si la batería larga te importa de verdad.
+
+No es para vos si la suscripción mensual te molesta de arranque, si querés leer a un comprador argentino antes de gastar más de un millón de pesos y no te alcanza con las opiniones de otros países, o si lo que buscás es probar el formato: para eso están el [Amazfit Helio Ring](/producto/anillo-inteligente-amazfit-helio-ring-titanio-talle-10-mla58202122) y el [Ignix K3](/producto/anillo-inteligente-smart-ring-ignix-k3-titanio-5-atm-mla2177777792).`,
+    specs: [
+      { label: "Marca / Modelo", value: "Oura Ring 4" },
+      { label: "Material", value: "Titanio macizo por dentro y por fuera" },
+      { label: "Resistencia al agua", value: "100 metros (equivale a los 10 ATM del Amazfit Helio Ring)" },
+      { label: "Peso", value: "Entre 3,3 y 5,2 g según el talle" },
+      { label: "Batería", value: "Entre 5 y 8 días (la más larga de la comparativa)" },
+      { label: "Talles disponibles", value: "Del 4 al 15. El Amazfit Helio Ring solo existe en 8, 10 y 12; el Ignix K3 arranca en el 6" },
+      { label: "Suscripción", value: "Sí: membresía mensual para desbloquear puntajes, tendencias y análisis. Oura incluye el primer año con la compra directa" },
+      { label: "Sensores", value: "Sistema PPG de 18 caminos de luz, apoyado a 0,3 mm de la piel (1,3 mm en la generación anterior)" },
+      { label: "Mide", value: "Sueño, actividad, pulso, variabilidad cardíaca, oxígeno en sangre y temperatura" },
+      { label: "Pantalla", value: "No tiene: todo se ve en la app del celular" },
+      { label: "Acabado", value: "Mate" },
+      { label: "Color", value: "Negro" },
+      { label: "Talle de esta publicación", value: "9" },
+    ],
+    faq: [
+      { question: "¿El Oura Ring 4 cobra suscripción?", answer: "Sí. Oura pide una membresía mensual para desbloquear los puntajes de sueño y preparación, las tendencias y el análisis. Sin pagarla el anillo sigue midiendo pasos, pulso, sueño y temperatura, pero perdés la lectura de esos datos. Oura incluye el primer año con la compra directa; acá se compra por revendedor, así que conviene confirmarlo con el vendedor. Si querés evitar la suscripción, el [Amazfit Helio Ring](/producto/anillo-inteligente-amazfit-helio-ring-titanio-talle-10-mla58202122) y el [Ignix K3](/producto/anillo-inteligente-smart-ring-ignix-k3-titanio-5-atm-mla2177777792) no la cobran." },
+      { question: "¿Las opiniones son de compradores argentinos?", answer: "No. Al revisar las 15 opiniones más útiles de esta publicación, las 15 son de compradores de Colombia. MercadoLibre lo aclara en letra chica: \"incluye opiniones de otros países\". Sobre el producto en sí vale igual, porque es el mismo en todos lados, pero en esa muestra no hay nada sobre la experiencia local de compra." },
+      { question: "¿Cuánto dura la batería?", answer: "Entre 5 y 8 días según Oura, la más larga de los tres anillos que comparamos. El [Amazfit Helio Ring](/producto/anillo-inteligente-amazfit-helio-ring-titanio-talle-10-mla58202122) declara hasta 4 días y el [Ignix K3](/producto/anillo-inteligente-smart-ring-ignix-k3-titanio-5-atm-mla2177777792) unos 3." },
+      { question: "¿Qué talles hay?", answer: "Del 4 al 15, arrancando más abajo que los otros dos. Es una ventaja concreta sobre el Amazfit Helio Ring, que solo existe en 8, 10 y 12. Esta publicación puntual es talle 9. Medí el dedo antes de comprar: la opinión marcada como más útil de esta publicación, con 7 votos, es justamente de alguien a quien le quedó grande." },
+      { question: "¿Se raya?", answer: "Sí, y lo dice un comprador que igual le puso cinco estrellas: \"excelente producto, las métricas que te da son increíbles... se raya fácil\". Es titanio y se usa en la mano todo el día, así que las marcas de uso son esperables." },
+      { question: "¿Se puede nadar o bañarse con él?", answer: "Sí, resiste 100 metros. En la práctica es lo mismo que los 10 ATM del Amazfit Helio Ring; los dos cubren natación sin problema. El [Ignix K3](/producto/anillo-inteligente-smart-ring-ignix-k3-titanio-5-atm-mla2177777792) llega a 5 ATM, la mitad." },
+      { question: "¿Por qué su publicación no muestra la batería ni los sensores?", answer: "Porque MercadoLibre tiene los anillos inteligentes cargados en la categoría de joyería. Los once atributos de esta publicación son Material, Color, Talle, Estilos, Acabado, \"Con piedra\" y similares: ninguno técnico. Los datos de la ficha de acá arriba los tomamos de la documentación de Oura." },
+      { question: "¿Conviene este o el Amazfit Helio Ring?", answer: "El Oura tiene mejor batería, muchos más talles y mejor puntaje, pero cuesta {{preciodif:MLA66785049:MLA58202122}} más y suma la suscripción mensual. El [Amazfit](/producto/anillo-inteligente-amazfit-helio-ring-titanio-talle-10-mla58202122) no cobra suscripción y tiene 8 de las 15 más útiles firmadas en Argentina, pero solo existe en talles 8, 10 y 12. Si tu talle entra ahí y no querés suscripción, el Amazfit. Si querés lo mejor y el talle exacto, el Oura." },
+    ],
+    customerReviews: [
+      { rating: 4, country: "Colombia", date: "mayo 2026", useful: 7, text: "Increíble pero me quedo un poco grande." },
+      { rating: 5, country: "Colombia", date: "abril 2026", useful: 5, text: "Excelente producto, las métricas que te da son increíble te ayuda a entender mejor todo lo de wellness. Se raya fácil." },
+      { rating: 5, country: "Colombia", date: "abril 2026", useful: 3, text: "Lo compré principalmente para seguir mis niveles de estrés y me ha ayudado a tener una mejor visibilidad y gestión de mi estrés mejorando mi salud en general." },
+      { rating: 5, country: "Colombia", date: "mayo 2026", useful: 2, text: "Ayuda mucho para identificar patrones en el sueño, tiene alertas para que muevas el cuerpo, mide niveles de estres." },
+      { rating: 5, country: "Colombia", date: "junio 2026", useful: 4, text: "Tremendo producto súper recomendado." },
+    ],
+    relatedProducts: ["MLA58202122", "MLA2177777792", "MLA60036543"],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Oura Ring 4",
+      image: "https://http2.mlstatic.com/D_NQ_NP_924794-MLA108937441061_032026-O.webp",
+      description: "Anillo inteligente Oura Ring 4 de titanio macizo: mide sueño, actividad, pulso, variabilidad cardíaca, oxígeno y temperatura, con 100 metros de resistencia al agua, 5 a 8 días de batería y talles del 4 al 15. 4.9 estrellas con 47 calificaciones en MercadoLibre Argentina.",
+      brand: { "@type": "Brand", name: "Oura" },
+      offers: {
+        "@type": "Offer",
+        url: "https://meli.la/1pVMd16",
+        priceCurrency: "ARS",
+        price: 1099999,
+        availability: "https://schema.org/InStock",
+        itemCondition: "https://schema.org/NewCondition",
+        seller: { "@type": "Organization", name: "MercadoLibre Argentina" },
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.9",
+        reviewCount: "47",
+      },
+    },
+  },
   // ─── Impresoras 3D — sourceadas de ML + verificadas contra fabricante (ago 2026). Silo tech ───
   {
     id: "MLA44124693",

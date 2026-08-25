@@ -464,3 +464,37 @@ no contra el que se tiene en la cabeza al escribir. Y hay tres trampas específi
 
 La forma barata de encontrarlos: volcar precio, volumen, rating, reviewCount y soldQuantity de los N
 a una tabla y leer cada superlativo contra esa tabla, antes de que lo lea un auditor.
+
+## 2026-08-25 — Corregir solo las lineas que cita el auditor: tres NO-GO seguidos por lo mismo
+
+Las 3 fichas de anillos inteligentes necesitaron **cuatro pasadas de Codex** (NO-GO, NO-GO, NO-GO,
+GO). Las tres primeras fueron el mismo error de metodo, no tres problemas distintos.
+
+Cada vez que Codex marcaba un bloqueante citando lineas puntuales, se corregian **esas** lineas y
+se relanzaba la auditoria. La pasada siguiente encontraba las frases hermanas del mismo patron en
+otros campos del mismo objeto: el bloqueante estaba en `pros`, pero la misma afirmacion vivia
+tambien en `verdict`, en el `articleBody`, en un `h2`, en una `faq` y en la guia que enlaza.
+
+Numeros concretos: en la ultima ronda Codex cito **3** instancias y el barrido completo encontro
+**7**. Una de las 4 extra era la que el no habia visto (`"el rango de talles mas amplio"` en el
+verdict del Oura), justo el claim que no se podia sostener.
+
+**La regla:** cuando un auditor marca un claim, el input no es "arregla esa linea" sino "hay un
+patron". Antes de tocar nada, barrer el bloque entero con una expresion que capture la FAMILIA
+del claim (no la frase literal) y listar todas las instancias. Recien despues corregir, de una.
+Corregir por cita textual garantiza otra pasada.
+
+Ya existia una entrada de 2026-08-24 sobre inventariar variantes antes de arreglar patrones de
+texto. No alcanzo: esa hablaba de un barrido propio, esta agrega que **la salida de un auditor
+tambien es una muestra, no la lista completa**.
+
+### Dos hallazgos laterales de la misma ronda
+
+**Dos reglas del sitio pueden contradecirse.** Codex pedia acotar la muestra de resenas ("8 de las
+15 mas utiles"); `check-hardcoded-reviews.cjs` cuenta la forma literal "N opiniones" como una
+cantidad tipeada a mano que deberia ser token. El chequeo no distingue el TOTAL del producto (47,
+que va tokenizado) del TAMANO DE MUESTRA revisado (15, que es un dato del editor y nunca deberia
+ser token). Se resuelve escribiendo "8 de las 15 mas utiles", sin la palabra "opiniones" pegada.
+
+**Voseo.** Se escribio "Medite el dedo" cinco veces. Es tuteo; en rioplatense es "Medi el dedo".
+Lo encontro Codex, no el barrido propio ni ningun chequeo automatico. No hay script que valide voz.
