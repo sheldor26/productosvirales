@@ -1,7 +1,81 @@
 # Estado actual
 
 > Snapshot del proyecto. Se actualiza al final de cada sesión.
-> Última actualización: 2026-08-25 (silo de cámaras deportivas PUBLICADO: 7 fichas + guía pilar, con la generación actual de cada marca declarada — ver sesión inmediatamente abajo). Antes en el mismo día: guía de impresoras 3D publicada, 3 fichas de anillos, notebooks descartado.
+> Última actualización: 2026-08-25 (silo de cámaras deportivas PUBLICADO con su primera hija de marca: 12 fichas y 2 guías, pilar + `gopro-cual-comprar` — ver sesión inmediatamente abajo). Antes en el mismo día: guía de impresoras 3D publicada, 3 fichas de anillos, notebooks descartado.
+
+## Sesión 2026-08-25 (c) — Primera hija de marca: `gopro-cual-comprar`
+
+### PUBLICADO
+
+- **Guía `gopro-cual-comprar`** en `/guias/tech/gopro-cual-comprar`, hija del pilar
+  `camara-deportiva`. 8 secciones H2, 8 FAQ, tabla de 6 filas.
+- **5 fichas nuevas**: MLA27104632 (HERO12 Black), MLA50182399 (HERO 2024),
+  MLA57723897 (LIT HERO), MLA57726638 (MAX2), MLA70063378 (MISSION 1 PRO). La sexta,
+  la HERO13 Black, ya estaba del pilar.
+- **Enlazado bidireccional con el pilar**, y de paso se adelgazó la duplicación: el dato de que
+  no existe la HERO14 estaba dos veces en el pilar y ahora queda una, con enlace a la hija.
+
+### El eje: el GPS
+
+**Qué comprás con los $181.000 que separan la HERO12 de la HERO13.** Las dos comparten sensor
+(1/1,9"), video máximo (5.3K a 60 fps), agua (10 m), peso (154 g) y las dos superan las mil
+unidades vendidas. La diferencia principal es el **GPS**: GoPro se lo sacó a la HERO12 (primera
+insignia sin GPS desde 2016) y se lo devolvió a la HERO13.
+
+Sin GPS no hay velocímetro, altitud, recorrido, terreno, gráfico de velocidad ni fuerza G
+superpuestos al video. La vuelta honesta que da la guía: **si no vas a usar esas superposiciones,
+la HERO12 es prácticamente la misma cámara por bastante menos**.
+
+**GOTCHA anotado a propósito:** la solapa de specs de gopro.com de la HERO13 NO tiene fila "GPS"
+en "Connected Features". Es una inconsistencia de la tabla de GoPro. La HERO13 SÍ tiene GPS
+(artículo de soporte propio, comunicado del 04/09/2024 y página de producto). Quien audite
+mirando solo esa tabla va a concluir lo contrario.
+
+### Dos hallazgos más
+
+- **Las dos GoPro baratas no estabilizan adentro de la cámara.** La HERO (2024) y la LIT HERO
+  aplican HyperSmooth recién al pasar el video por la app Quik. El archivo de la tarjeta sale
+  temblando. Ninguna de las dos publicaciones lo menciona.
+- **GoPro tiene una 360 vigente y se vende acá.** La MAX2, 8K en 360, con GPS y lentes que se
+  cambian a mano sin recalibrar. Contesta los 390/mes de "go pro 360". Contra honesta: se moja
+  solo 5 m y GoPro dice que no es para uso bajo el agua.
+
+### Segundo caso de nombre inventado en la publicación de ML
+
+`MLA50182399` se vende como **"GoPro HERO Fraction Mini"**, nombre que no existe en el catálogo de
+GoPro. El código `CHDHF-131-AT` y las specs (86 g, 5 m, 4K, 12 MP) la identifican como la
+**HERO (2024)**. Es el mismo caso que la "Gadnic Air" de la guía anterior. La ficha usa el nombre
+del fabricante y la guía lo explica en un callout.
+
+### LA LECCIÓN DE ESTA SESIÓN: consistencia cruzada
+
+**Agregar las 5 fichas de GoPro rompió superlativos en contenido publicado esa misma mañana.**
+Cinco afirmaciones que eran verdaderas quedaron falsas:
+
+| Ficha publicada | Decía | Por qué se rompió |
+|---|---|---|
+| DJI Action 6 | "el sensor más grande del catálogo" | La MISSION 1 PRO tiene 1", más grande que 1/1,1" |
+| DJI Action 6 | "la que más profundo llega del catálogo" | Empate: las dos, 20 m |
+| DJI Action 4 | "la base más chica del catálogo" | LIT HERO 62 y MISSION 1 PRO 18, contra sus 76 |
+| Insta360 X3 | "comparte el puntaje más alto" | La MISSION 1 PRO tiene 5.0 |
+| GoPro HERO13 | "la más barata de las que son generación actual" | La HERO (2024) también lo es y sale la mitad |
+
+La regla ya existía en la memoria del proyecto y no se aplicó. **Antes de escribir una guía que
+suma fichas a un rubro que ya tiene contenido publicado, hay que armar la tabla de verdad del
+conjunto AMPLIADO y grepear los superlativos de las fichas viejas.**
+
+También apareció un error aritmético que cualquier lector con calculadora encuentra: la guía decía
+que la HERO (2024) pesa "menos de la mitad que una HERO Black", cuando son 86 g contra 154 y la
+mitad de 154 es 77.
+
+**22 correcciones en total**, entre Codex y cuatro lentes adversariales.
+
+### Pendiente de este silo
+
+- La hija de Insta360 (`insta360-cual-comprar`): camera insta360 720/mes + x5 590 + x4 480 + x3 480.
+- La Insta360 X6 sigue sin ventas registradas en ML. Cuando junte opiniones, evaluar ficha.
+
+---
 
 ## Sesión 2026-08-25 (b) — Cámaras deportivas: el silo más auditado del sitio
 
