@@ -1,7 +1,86 @@
 # Estado actual
 
 > Snapshot del proyecto. Se actualiza al final de cada sesión.
-> Última actualización: 2026-08-16 (guía `salamandra-a-lena` nueva en STAGED, primer pilar de calefacción a leña dentro del silo `climatizacion` existente — ver sesión inmediatamente abajo). Antes: 2026-08-15, research de keywords verificado, cuatro guías del silo hogar-jardin publicadas y 23 links internos rotos reparados.
+> Última actualización: 2026-08-24 (silo de impresoras 3D nuevo: guía pilar `impresora-3d` en STAGED + 4 fichas, dentro del silo `tech` existente — ver sesión inmediatamente abajo). Antes: 2026-08-16, cinco guías publicadas y el diagnóstico de autoridad.
+
+## Sesión 2026-08-24 — Nicho de impresoras 3D, y la velocidad que MercadoLibre no publica
+
+Primer silo del rubro. Cuatro fichas nuevas y una guía pilar, todo en STAGED.
+
+### Lo que quedó escrito (sin publicar)
+
+| Qué | Dónde | Estado |
+| :-- | :-- | :-- |
+| Guía pilar `impresora-3d` | silo `tech`, categoría nueva `impresoras-3d` | STAGED, `publishedDate` 2026-09-01 |
+| Ficha Creality Ender 3 V3 SE | MLA44124693, $415.999 | 4.8 / 2.574 opiniones |
+| Ficha Creality Ender 3 V3 KE | MLA35330493, $573.999 | 4.8 / 1.823 opiniones |
+| Ficha Bambu Lab A1 Mini | MLA44143658, $627.811 | 4.9 / 1.847 opiniones |
+| Ficha Bambu Lab A1 Combo | MLA69826952, $1.377.390 | 4.9 / 4.220 opiniones |
+
+Se agregó `guideCategories["impresoras-3d"]`. Los 4 links meli.la fueron verificados uno por uno
+en el navegador: los cuatro resuelven al producto correcto.
+
+### El hallazgo que sostiene la guía
+
+**Ninguna de las cuatro publicaciones de MercadoLibre declara la velocidad de impresión.** No es un
+campo de la ficha técnica de la categoría, así que queda a criterio del vendedor y ninguno lo carga.
+Cruzando contra Creality y contra la hoja oficial de Bambu Lab: la Ender 3 V3 SE imprime a
+**250 mm/s** y las otras tres a **500 mm/s**. Es la diferencia más grande entre modelos que, mirando
+las fichas de ML, parecen casi iguales. Ese es el ángulo diferencial de la guía.
+
+### Dos datos mal cargados en la ficha de ML de la Ender 3 V3 KE
+
+- Declara que la impresora mide 24 x 22 x 22 cm. El fabricante publica **433 x 366 x 490 mm**. El
+  número de ML es casi exactamente su zona de impresión, cargada en el campo equivocado.
+- Declara altura de capa hasta 1 mm. El fabricante publica **0,1 a 0,35 mm**.
+
+Ninguno de los dos entró a nuestra ficha. Es el mismo patrón ya anotado: la ficha técnica de ML no
+solo viene incompleta, a veces viene mal etiquetada.
+
+### El dato incómodo del nicho
+
+Keyword Planner (AR, agosto 2026): `impresora 3d` 33.100/mes con competencia HIGH, `bambulab`
+4.400, `bambu lab` 3.600, `ender 3` 880, `ender 3 v3` 720. Pero **`mejor impresora 3d` son 70/mes**.
+O sea: el volumen está en marca y modelo, que capturan las **fichas**, no la guía comparativa. Por
+eso el título se reorientó a `Bambu Lab vs Creality`, que junta 4.480/mes y es mid-funnel ganable
+con DA 1, en vez de pelear el término ancho.
+
+### Trío auditor: NO-GO y después GO
+
+Primera pasada: agy GO, Codex **NO-GO con 4 bloqueantes**, los cuatro válidos. Segunda pasada:
+**GO de los dos**. Antes de la primera pasada Claude se había autoauditado y corregido 5
+superlativos falsos propios (ver MISTAKES.md).
+
+### Anillos inteligentes: el nicho se reevaluó y la guía de smartwatch se corrigió
+
+Juan preguntó si el rubro tenía mejor volumen del esperado. Respuesta: sí, pero la góndola no acompaña.
+
+- **Keywords (AR):** `anillo inteligente` 1.900/mes con **SD 16** e intención transaccional;
+  `oura ring` 5.400/mes. La keyword editorial es 27 veces más grande que la de impresoras 3D.
+- **Dos curvas, interanual mismo mes:** EE.UU. `smart ring` 110.000 → 201.000 (**+83%**);
+  Argentina `anillo inteligente` 1.600 → 1.900 (**+19%**). EE.UU. crece 4,4 veces más rápido: el
+  rezago se está abriendo. Ojo: promediar semestres da negativo en las dos por el pico navideño
+  de diciembre (550.000) en EE.UU. Hay que comparar mes contra mismo mes.
+- **Góndola: floja.** De 7 candidatos verificados, 4 quedaron afuera (Samsung Galaxy Ring y Oura
+  Ring 5 son importación; Colmi R06 y Smart Ring R09 no se pueden comprar). Quedan 3 productos
+  distintos: Oura Ring 4 (MLA66785049, $1.099.999, 47 op), Amazfit Helio Ring (MLA58202122,
+  $410.418, 29 op) y Smart Ring K3 Titanio (MLA2177777792, $165.170, 38 op).
+- **El bloqueante real:** la reseña más alta de toda la categoría son 47. No alcanza para un
+  ranking con el estándar del sitio. **Decisión: no se hace guía pilar todavía.**
+- **Sí se corrigió la guía `smartwatch`**, cuya sección de anillos afirmaba algo ya falso ("no
+  encontramos una publicación con stock confiable"). Ahora cuenta qué cambió, avisa que los
+  anillos se venden **por talle** (cada talle es una publicación distinta) y que el Oura suma
+  suscripción mensual, y deriva al WHOOP 5.0 Peak, que es el mismo planteo con reseñas suficientes.
+  `updatedDate` movida a 2026-08-24.
+- **Disparador para volver a mirarlo:** si el Oura Ring 4 pasa de ~47 a más de 150 opiniones,
+  la guía se justifica sola.
+
+### Pendiente
+
+- Publicar: dar vuelta `publishedDate` de la guía a la fecha que elija Juan.
+- Evaluar si el silo justifica guías hijas (por ahora `internalLinks` apunta a las 4 fichas).
+- La guía tiene 8 preguntas frecuentes; `docs/guias.md` sugiere 5-7. Se dejó en 8 a propósito
+  porque la pregunta de marca nueva cubre la intención del título.
 
 ## Sesión 2026-08-16 — Cinco guías publicadas, dos rubros descartados por calendario, y 32 errores propios
 

@@ -433,3 +433,34 @@ pudieron sourcear: ML pide login para abrir `/p/MLA…` desde el navegador, y no
 **La regla:** cuando una guía monetiza con `card.ctas`, esos links no están protegidos por nada. Ante una
 guía vieja con buenos clicks de afiliado, chequear primero si sus productos existen en el catálogo. Si no
 existen, no hay chequeo de stock: no es que esté todo bien, es que nadie está mirando.
+
+## 2026-08-24 — Siete superlativos falsos en un grupo de solo cuatro productos
+
+Al escribir la guía `impresora-3d` y sus 4 fichas metí **siete afirmaciones comparativas falsas**.
+Cinco las encontré yo autoauditando antes de mandar al trío; dos las encontró Codex.
+
+Las mías:
+1. La Ender 3 V3 KE presentada como "más zona de impresión". FALSO: la SE tiene más volumen
+   (12.100 cm³ contra 11.616) **y cuesta $158.000 menos**. La KE es tercera en volumen.
+2. La A1 Mini con "el puntaje más alto de la guía". Es **empate** 4.9 con la A1 Combo.
+3. La KE con "la boquilla más caliente". **Empate** a 300 °C con las dos Bambu.
+4. La SE con "la zona de impresión más alta de las cuatro". La Combo llega a 256 mm.
+5. La Combo con "más del doble de opiniones que cualquier otra". Son 4.220 contra 2.574 de la SE:
+   1,64 veces, no el doble. Sí es más del doble que la A1 Mini y que la KE.
+
+Las de Codex:
+6. "La A1 Mini imprime a 500 mm/s, lo mismo que **modelos bastante más caros**". FALSO en plural:
+   la KE también hace 500 mm/s y cuesta **menos** que la A1 Mini. Solo la Combo es más cara.
+7. "La más elegida" para la Combo. El dato que la sostiene son opiniones, pero "elegida" se lee
+   como ventas, y en `soldQuantity` la Combo pierde: 500 contra 1.000 de la SE y de la A1 Mini.
+   Nuestro propio catálogo contradecía la frase.
+
+**La regla que sale de esto:** con N productos, todo superlativo tiene que chequearse contra los N,
+no contra el que se tiene en la cabeza al escribir. Y hay tres trampas específicas:
+- **Los empates cuentan como falso.** "El más X" con dos productos iguales en X es mentira.
+- **Los plurales inventan comparaciones.** "Modelos más caros" afirma que hay dos o más.
+- **El adjetivo tiene que apoyarse en el campo que se citó.** "Elegida" implica ventas, no reseñas;
+  si el dato es `reviewCount`, la palabra es "opinada".
+
+La forma barata de encontrarlos: volcar precio, volumen, rating, reviewCount y soldQuantity de los N
+a una tabla y leer cada superlativo contra esa tabla, antes de que lo lea un auditor.

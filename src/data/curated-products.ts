@@ -8,6 +8,632 @@ import type { Product } from '@/lib/types';
  */
 
 export const curatedProducts: Product[] = [
+  // ─── Impresoras 3D — sourceadas de ML + verificadas contra fabricante (ago 2026). Silo tech ───
+  {
+    id: "MLA44124693",
+    title: "Impresora 3D Creality Ender 3 V3 SE 220x220x250 mm",
+    canonicalName: "Creality Ender-3 V3 SE",
+    brand: "Creality",
+    price: 415999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_608879-MLA99949682735_112025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_608879-MLA99949682735_112025-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_934778-MLA99950134867_112025-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_953564-MLA99465994786_112025-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_826143-MLA96419811530_102025-O.webp",
+    ],
+    category: "Tech",
+    categorySlug: "tech",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA44124693",
+    affiliateUrl: "https://meli.la/2BnmoFk",
+    condition: "new",
+    freeShipping: false,
+    rating: 4.8,
+    reviewCount: 2574,
+    reviewsSampledAt: "2026-08-24",
+    soldQuantity: 1000,
+    pastelColor: "var(--pastel-green)",
+    visibility: "normal",
+    priceUpdated: "2026-08-24",
+    priceLastChecked: "2026-08-24",
+    priceVerifiedAt: "2026-08-24",
+    priceStatus: "fresh",
+    seoTitle: "Creality Ender 3 V3 SE: la más barata para arrancar",
+    metaDescription: "Ender 3 V3 SE a {{precio:MLA44124693}}: autonivelación, 220x220x250 mm y {{reviews:MLA44124693}} opiniones. La falla del sensor CR Touch, contada sin vueltas.",
+    h1: "Creality Ender 3 V3 SE: la puerta de entrada más barata, con un sensor que da problemas",
+    pros: [
+      "La más barata de la comparativa a {{precio:MLA44124693}}, y aun así la segunda más opinada de las cuatro: {{reviews:MLA44124693}} calificaciones",
+      "Autonivelación con sensor CR Touch más ajuste automático del Z offset: no hay que nivelar la cama a mano, que es donde más se frustra el que arranca",
+      "Zona de impresión de 220 x 220 x 250 mm: más superficie que la Bambu Lab A1 Mini, que cuesta más",
+      "Acepta PLA, PETG y TPU con filamento estándar de 1,75 mm, sin sistema cerrado que te ate a una marca",
+      "Extrusor directo tipo Sprite: agarra bien el filamento flexible, que es justo donde se traban las impresoras de este rango",
+    ],
+    cons: [
+      "El sensor CR Touch es la falla que más se repite entre las reseñas de una estrella. Dos compradores distintos lo nombran, uno con la impresora recién llegada: \"lo compré hace un día y ya tuvo un problema con el CR touch\". Es la pieza que hace la autonivelación, así que cuando falla la impresora directamente no arranca",
+      "Un comprador recomienda pagar la diferencia y saltar de modelo: \"es mejor juntar dinero y comprar una ke, la versión se viene con demasiadas fallas sobre todo en el cr touch y la adherencia de la cama\"",
+      "Imprime a 250 mm/s como máximo, la mitad que la Ender 3 V3 KE. Ninguna de las dos publicaciones de MercadoLibre declara la velocidad, así que es imposible darse cuenta comparando las fichas",
+      "Viene desarmada y hay que ensamblarla, a diferencia de la Bambu Lab A1 Mini, que llega lista para enchufar",
+      "Varias reseñas cuentan que la pantalla se queda en azul después de un tiempo de uso. Se resuelve actualizando el firmware, pero hay que enterarse y hacerlo",
+    ],
+    verdict: "A {{precio:MLA44124693}} es la forma más barata de entrar a la impresión 3D con autonivelación incluida, y {{reviews:MLA44124693}} calificaciones con {{rating:MLA44124693}} estrellas respaldan que funciona. La letra chica tiene nombre: el sensor CR Touch aparece fallando en varias reseñas de una estrella. Si querés bajar ese riesgo y podés estirar el presupuesto, la Ender 3 V3 KE imprime al doble de velocidad por unos {{preciodif:MLA35330493:MLA44124693}} más.",
+    articleBody: `## Qué es la Creality Ender 3 V3 SE
+
+Es la versión de entrada de la línea Ender 3 V3: una impresora FDM de filamento con zona de impresión de 220 x 220 x 250 mm, autonivelación automática y extrusor directo. Cuesta {{precio:MLA44124693}} y junta {{reviews:MLA44124693}} calificaciones con {{rating:MLA44124693}} estrellas en MercadoLibre Argentina. Es la más barata de las cuatro que comparamos y, salvo la Bambu Lab A1 Combo, la más opinada.
+
+## El sensor CR Touch es la falla que más se repite
+
+Este es el punto que ninguna publicación te va a contar. Filtrando las reseñas de una estrella, el CR Touch aparece nombrado por dos compradores distintos. Uno lo dice con la impresora recién sacada de la caja: "lo compré hace un día y ya tuvo un problema con el CR touch". El otro es más terminante y arma la comparación solo: "es mejor juntar dinero y comprar una ke, la versión se viene con demasiadas fallas sobre todo en el cr touch y la adherencia de la cama".
+
+El CR Touch es el palpador que toca la cama en varios puntos para medir su altura y compensar el desnivel. Es lo que te ahorra el trámite de nivelar con un papelito, y es también la razón por la que esta impresora es amigable para alguien que arranca. Cuando falla, no imprime torcido: no arranca.
+
+No es una falla masiva. Con {{reviews:MLA44124693}} calificaciones y {{rating:MLA44124693}} estrellas de promedio, la enorme mayoría de las unidades anda bien. Pero es el modo de falla característico de este modelo y conviene comprarlo sabiéndolo.
+
+## Imprime a la mitad de velocidad que su hermana mayor
+
+La SE llega a 250 mm/s. La Ender 3 V3 KE llega a 500 mm/s. El doble.
+
+Ese dato no está en ninguna de las dos publicaciones de MercadoLibre. Quien compara las dos fichas ve dos impresoras casi idénticas separadas por {{preciodif:MLA35330493:MLA44124693}} y no tiene forma de saber en qué se le va esa plata. Se le va, sobre todo, en velocidad.
+
+En la práctica: una pieza que acá tarda cuatro horas, en la KE tarda cerca de la mitad. Si vas a imprimir una figura por fin de semana, da igual. Si pensás imprimir seguido, la diferencia se paga sola en tiempo.
+
+## Viene desarmada
+
+Hay que ensamblarla. No es un mueble de cajón, son unos pocos tornillos y un par de cables, y las reseñas coinciden en que es simple, pero es una tarde de trabajo antes de la primera impresión. La Bambu Lab A1 Mini es la única de las cuatro que llega armada de fábrica.
+
+## Qué materiales acepta
+
+PLA, PETG y TPU flexible, con filamento estándar de 1,75 mm de cualquier marca. El extrusor directo Sprite es lo que le permite manejar bien el TPU, que es el material que más se traba en las impresoras de este precio.
+
+La ficha de MercadoLibre además declara compatibilidad con ABS. Es cierto que se le puede cargar, pero la SE es de marco abierto: sin una cámara cerrada, el ABS se deforma y se despega en las esquinas mientras imprime. Tomalo como "se puede intentar", no como "está resuelto".
+
+## Contra la KE y contra la Bambu
+
+La [Creality Ender 3 V3 KE](/producto/impresora-3d-creality-ender-3-v3-ke-500-mm-s-mla35330493) es la misma familia con el doble de velocidad, boquilla que llega a 300 grados y más materiales soportados. Es el paso natural si la velocidad te importa.
+
+La [Bambu Lab A1 Mini](/producto/impresora-3d-bambu-lab-a1-mini-180x180x180-mm-mla44143658) juega a otra cosa: llega armada, pesa 3 kg, tiene mejor puntaje y también imprime a 500 mm/s. Pero su zona de impresión es de 18 cm por lado contra los 22 x 22 x 25 cm de la SE. Es más cómoda y más chica.
+
+Dicho de otra forma: de las cuatro, la SE es la única que imprime a 250 mm/s. Las otras tres van al doble. Eso es exactamente lo que estás comprando cuando elegís la más barata.
+
+## Para quién es, y para quién no
+
+Es para vos si estás arrancando, querés gastar lo mínimo posible para probar si la impresión 3D te engancha, y preferís una zona de impresión grande antes que velocidad. Los {{reviews:MLA44124693}} compradores que la calificaron la respaldan como primera impresora.
+
+No es para vos si pensás imprimir seguido y en volumen, porque ahí la KE te va a ahorrar horas. Tampoco si no querés dedicarle una tarde al armado, o si el riesgo del CR Touch te incomoda más de lo que te seduce el precio.`,
+    specs: [
+      { label: "Marca / Modelo", value: "Creality Ender-3 V3 SE" },
+      { label: "Tecnología", value: "FDM, modelado por deposición fundida" },
+      { label: "Zona de impresión", value: "220 x 220 x 250 mm" },
+      { label: "Dimensiones del equipo", value: "349 x 364 x 490 mm (dato del fabricante)" },
+      { label: "Peso", value: "9,14 kg" },
+      { label: "Velocidad máxima", value: "250 mm/s (dato del fabricante, no declarado en la publicación)" },
+      { label: "Altura de capa", value: "0,1 a 0,35 mm (dato del fabricante)" },
+      { label: "Extrusor", value: "1 extrusor, directo tipo Sprite" },
+      { label: "Nivelación", value: "Automática con sensor CR Touch y ajuste automático del Z offset" },
+      { label: "Cama caliente", value: "Sí, hasta 100 °C" },
+      { label: "Filamento", value: "1,75 mm, sistema abierto (cualquier marca)" },
+      { label: "Materiales", value: "PLA, PETG y TPU. La publicación declara ABS, pero al ser de marco abierto tiende a deformarse" },
+      { label: "Requiere ensamblado", value: "Sí" },
+      { label: "Alimentación", value: "220 V" },
+      { label: "Eficiencia energética", value: "A" },
+      { label: "Color", value: "Negro" },
+    ],
+    faq: [
+      { question: "¿Sirve como primera impresora 3D?", answer: "Sí, es de las más elegidas para arrancar: {{reviews:MLA44124693}} calificaciones con {{rating:MLA44124693}} estrellas, y la autonivelación te saca de encima el trámite de nivelar la cama a mano, que es donde más gente abandona. Un comprador que es profesor de tecnología la usa para prototipar proyectos." },
+      { question: "¿Qué es el CR Touch y por qué aparece en las quejas?", answer: "Es el palpador que toca la cama en varios puntos para medir el desnivel y compensarlo solo. Es lo que hace que la impresora sea amigable para alguien que arranca. Aparece nombrado por dos compradores distintos en las reseñas de una estrella, uno con la impresora recién llegada. Cuando falla, la impresora no arranca. No es masivo, pero es el modo de falla característico de este modelo." },
+      { question: "¿Viene armada?", answer: "No, viene desarmada. Son pocos tornillos y un par de cables, y las reseñas coinciden en que el armado es simple, pero calculá una tarde antes de la primera impresión. Si querés una que llegue lista, la Bambu Lab A1 Mini es la única de la comparativa que viene montada de fábrica." },
+      { question: "¿A qué velocidad imprime?", answer: "Hasta 250 mm/s, según el fabricante. La publicación de MercadoLibre no declara la velocidad. Es la mitad de lo que llega la Ender 3 V3 KE, y esa es la diferencia principal entre las dos, más allá de que las fichas se vean casi iguales." },
+      { question: "¿Puede imprimir ABS?", answer: "La ficha de MercadoLibre dice que sí, y técnicamente se le puede cargar. Pero es una impresora de marco abierto: sin cámara cerrada, el ABS se deforma y se despega en las esquinas mientras imprime. Para ABS de verdad hace falta un gabinete cerrado. Con PLA, PETG y TPU no tenés ese problema." },
+      { question: "¿Qué pasa con la pantalla azul que mencionan algunas reseñas?", answer: "Varias reseñas cuentan que después de un tiempo de uso la pantalla se queda en azul. Un comprador aclara que se resuelve actualizando el firmware y que hay tutoriales dando vueltas. No es una falla terminal, pero es un trámite que conviene tener en el radar." },
+      { question: "¿Necesito filamento de la marca?", answer: "No. Usa filamento estándar de 1,75 mm y el sistema es abierto, así que podés comprar cualquier marca. Eso abarata bastante el costo por pieza frente a los sistemas cerrados." },
+      { question: "¿Conviene esta o la Ender 3 V3 KE?", answer: "La SE ({{precio:MLA44124693}}) es más barata y tiene la zona de impresión un centímetro más alta. La KE ({{precio:MLA35330493}}) imprime al doble de velocidad, llega a 300 °C en la boquilla y acepta más materiales. Si vas a imprimir de vez en cuando, la SE alcanza. Si vas a imprimir seguido, la KE te devuelve la diferencia en horas ahorradas." },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "2025", text: "Es muy buena máquina. Un espectáculo. No llevo un día e hice tres impresiones. Hay muchos diseños free, enteros, articulados o por piezas y que con el cura andan de 10. Lo bueno es que es todo free." },
+      { rating: 5, country: "Argentina", date: "agosto 2025", text: "Muy increíble, soy profesor de Historia y Geografía, trabajo con robótica y tecnología, estoy prototipando varios proyectos. Vale la pena la inversión, el límite del proceso es la creatividad." },
+      { rating: 5, country: "Argentina", date: "2025", text: "Impresora excelente para quienes están empezando, una buena relación calidad-precio y bastante precisa. Planeo comprar otra de esta." },
+      { rating: 1, country: "Argentina", date: "octubre 2025", text: "Es mejor juntar dinero y comprar una ke la versión se viene con demasiadas fallas sobre todo en el cr touch y la adherencia de la cama." },
+      { rating: 1, country: "Argentina", date: "agosto 2025", text: "Lo compré hace un día y ya tuvo un problema con el CR touch." },
+    ],
+    relatedProducts: ["MLA35330493", "MLA44143658", "MLA69826952"],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Creality Ender-3 V3 SE",
+      image: "https://http2.mlstatic.com/D_NQ_NP_608879-MLA99949682735_112025-O.webp",
+      description: "Impresora 3D FDM Creality Ender-3 V3 SE: zona de impresión de 220 x 220 x 250 mm, autonivelación con sensor CR Touch, extrusor directo Sprite y velocidad máxima de 250 mm/s. 4.8 estrellas con 2.574 calificaciones en MercadoLibre Argentina.",
+      brand: { "@type": "Brand", name: "Creality" },
+      offers: {
+        "@type": "Offer",
+        url: "https://meli.la/2BnmoFk",
+        priceCurrency: "ARS",
+        price: 415999,
+        availability: "https://schema.org/InStock",
+        itemCondition: "https://schema.org/NewCondition",
+        seller: { "@type": "Organization", name: "MercadoLibre Argentina" },
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.8",
+        reviewCount: "2574",
+      },
+    },
+  },
+  {
+    id: "MLA35330493",
+    title: "Impresora 3D Creality Ender 3 V3 KE 500 mm/s",
+    canonicalName: "Creality Ender-3 V3 KE",
+    brand: "Creality",
+    price: 573999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_792868-MLA99854868501_112025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_792868-MLA99854868501_112025-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_742494-MLA75420639334_042024-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_768509-MLA92548191046_092025-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_756079-MLA92958180439_092025-O.webp",
+    ],
+    category: "Tech",
+    categorySlug: "tech",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA35330493",
+    affiliateUrl: "https://meli.la/2BZv9dG",
+    condition: "new",
+    freeShipping: false,
+    rating: 4.8,
+    reviewCount: 1823,
+    reviewsSampledAt: "2026-08-24",
+    soldQuantity: 100,
+    pastelColor: "var(--pastel-blue)",
+    visibility: "normal",
+    priceUpdated: "2026-08-24",
+    priceLastChecked: "2026-08-24",
+    priceVerifiedAt: "2026-08-24",
+    priceStatus: "fresh",
+    seoTitle: "Creality Ender 3 V3 KE: 500 mm/s, el doble que la SE",
+    metaDescription: "Ender 3 V3 KE a {{precio:MLA35330493}}: 500 mm/s, boquilla de 300 °C y {{reviews:MLA35330493}} opiniones. Por qué vale más que la SE, y los dos datos que su ficha de ML no tiene bien.",
+    h1: "Creality Ender 3 V3 KE: el doble de velocidad que la SE, y MercadoLibre no lo dice",
+    pros: [
+      "Imprime hasta 500 mm/s, el doble que la Ender 3 V3 SE. Es la diferencia real entre las dos y ninguna de las dos publicaciones la declara",
+      "Boquilla que llega a 300 °C con calentador cerámico de 60 W: abre la puerta a materiales que la SE no maneja bien",
+      "Acepta PLA, PETG, TPU, ABS y ASA con filamento estándar de 1,75 mm y sistema abierto",
+      "{{reviews:MLA35330493}} calificaciones con {{rating:MLA35330493}} estrellas, con reseñas de usuarios que la tuvieron más de un año sin problemas",
+      "Autonivelación automática, sensor de fin de filamento y pantalla color de 4,3 pulgadas",
+    ],
+    cons: [
+      "El postventa es la queja que se repite en las reseñas de una estrella. Un comprador lo resume: \"servicio postventa pésimo, no tienen piezas de repuesto\", y sigue esperando respuesta desde mayo de 2024",
+      "Hay reportes de garantía no reconocida por comprar fuera del canal oficial de la marca: \"como no la compré en su página no me pueden dar la garantía\". Vale saberlo antes, no después",
+      "La ficha de MercadoLibre tiene dos datos mal cargados: dice que la impresora mide 24 x 22 x 22 cm cuando en realidad mide 433 x 366 x 490 mm, y que la altura de capa llega a 1 mm cuando el máximo real es 0,35 mm",
+      "La zona de impresión es un centímetro más baja que la de la SE: 240 mm contra 250 mm de altura",
+      "Viene desarmada, igual que la SE. La única de la comparativa que llega montada es la Bambu Lab A1 Mini",
+    ],
+    verdict: "Es la misma familia que la SE pero con el doble de velocidad y una boquilla que llega a 300 °C, por {{preciodif:MLA35330493:MLA44124693}} más. Si vas a imprimir seguido, esa diferencia se recupera en horas ahorradas. El punto flojo no es la máquina sino el respaldo: el postventa y la garantía aparecen como la queja más repetida entre las reseñas de una estrella.",
+    articleBody: `## Qué es la Creality Ender 3 V3 KE
+
+Es el escalón intermedio de la línea Ender 3 V3: una impresora FDM con zona de impresión de 220 x 220 x 240 mm, autonivelación, sensor de fin de filamento y pantalla color de 4,3 pulgadas. Cuesta {{precio:MLA35330493}} y tiene {{reviews:MLA35330493}} calificaciones con {{rating:MLA35330493}} estrellas en MercadoLibre Argentina.
+
+## 500 mm/s: el dato que decide la compra y que no está en la publicación
+
+La KE imprime hasta 500 mm/s. La [Ender 3 V3 SE](/producto/impresora-3d-creality-ender-3-v3-se-220x220x250-mm-mla44124693) llega a 250 mm/s. El doble.
+
+Ninguna de las dos publicaciones de MercadoLibre declara la velocidad. Alguien que abre las dos fichas ve dos impresoras de la misma marca, de la misma familia, con zonas de impresión casi iguales, separadas por {{preciodif:MLA35330493:MLA44124693}}, y no tiene con qué justificar la diferencia.
+
+La justificación es esa: el tiempo. Una pieza de cuatro horas en la SE sale en aproximadamente la mitad acá. Si imprimís una figura cada tanto, no lo vas a notar. Si imprimís varias piezas por semana, lo vas a notar todos los días.
+
+A eso se suma la boquilla, que llega a 300 °C con un calentador cerámico de 60 W. Más temperatura significa más materiales disponibles: la KE suma ABS y ASA a la lista de PLA, PETG y TPU.
+
+## Dos datos de la ficha de MercadoLibre están mal cargados
+
+Los cruzamos contra la página del fabricante y no coinciden.
+
+La publicación dice que la impresora mide **24 x 22 x 22 cm**. Ese número no coincide con el del fabricante y es casi exactamente su zona de impresión, así que parece ser el volumen de impresión cargado en el campo de las dimensiones del equipo. Creality publica **433 x 366 x 490 mm**. Si estás midiendo el lugar donde la vas a poner, no uses el dato de la publicación.
+
+La publicación también dice que la altura de capa llega a **1 mm**. Ese valor no se corresponde con una boquilla de 0,4 mm: el rango que publica el fabricante es de **0,1 a 0,35 mm**.
+
+Ninguno de los dos números está en nuestra ficha técnica de acá arriba: usamos los del fabricante.
+
+## El problema no es la máquina, es el respaldo
+
+Filtrando las reseñas de una estrella, lo que aparece no son fallas de impresión sino problemas de servicio. Uno lo dice directo: "servicio postventa pésimo, no tienen piezas de repuesto". Ese comprador la llevó a asistencia, volvió con el mismo problema y seguía esperando respuesta.
+
+Otro caso es más específico y más útil de conocer antes de comprar: le negaron la garantía porque no había comprado en el canal oficial de la marca. Textual: "ya hablé a soporte técnico pero como no la compré en su página no me pueden dar la garantía".
+
+Es la contra honesta de este modelo. La máquina en sí acumula {{reviews:MLA35330493}} calificaciones con {{rating:MLA35330493}} estrellas, y hay reseñas de gente que la usó más de un año sin problemas serios. Pero si algo se rompe, el camino de reparación en Argentina no está aceitado.
+
+## Qué materiales acepta de verdad
+
+PLA, PETG y TPU sin vueltas. ABS y ASA figuran en la lista del fabricante, pero con una condición que conviene decir: la KE es de marco abierto, y esos dos materiales se deforman y se despegan en las esquinas si no hay una cámara cerrada alrededor. Se pueden usar, pero pidiendo un gabinete que no viene incluido.
+
+Nylon aparece declarado en la publicación de MercadoLibre. Corre la misma advertencia: es técnicamente cargable, no está resuelto de fábrica.
+
+## Contra la SE y contra las Bambu
+
+Frente a la [Ender 3 V3 SE](/producto/impresora-3d-creality-ender-3-v3-se-220x220x250-mm-mla44124693): el doble de velocidad, más temperatura de boquilla y más materiales, a cambio de {{preciodif:MLA35330493:MLA44124693}} y un centímetro menos de altura de impresión.
+
+Frente a la [Bambu Lab A1 Mini](/producto/impresora-3d-bambu-lab-a1-mini-180x180x180-mm-mla44143658), que cuesta apenas {{preciodif:MLA44143658:MLA35330493}} más: la KE tiene una zona de impresión bastante más grande (220 x 220 x 240 mm contra 180 x 180 x 180 mm) y maneja más materiales. La Bambu gana en comodidad, porque llega armada, y en puntaje.
+
+## Para quién es, y para quién no
+
+Es para vos si ya sabés que vas a imprimir seguido, si el tiempo de impresión te importa, y si querés una zona de trabajo grande sin irte al rango del millón de pesos.
+
+No es para vos si es tu primera impresora y todavía no sabés si te va a enganchar, porque ahí la SE hace el mismo trabajo por menos plata. Tampoco si valorás mucho tener respaldo local ante una falla: ese es el punto más flojo de este modelo.`,
+    specs: [
+      { label: "Marca / Modelo", value: "Creality Ender-3 V3 KE" },
+      { label: "Tecnología", value: "FDM, modelado por deposición fundida" },
+      { label: "Zona de impresión", value: "220 x 220 x 240 mm" },
+      { label: "Dimensiones del equipo", value: "433 x 366 x 490 mm (dato del fabricante; la publicación de ML declara 24 x 22 x 22 cm, que no coincide)" },
+      { label: "Peso", value: "7,8 kg netos (dato del fabricante, no declarado en la publicación)" },
+      { label: "Velocidad máxima", value: "500 mm/s (dato del fabricante, no declarado en la publicación)" },
+      { label: "Altura de capa", value: "0,1 a 0,35 mm (dato del fabricante; la publicación de ML declara hasta 1 mm, que no coincide)" },
+      { label: "Temperatura de boquilla", value: "Hasta 300 °C, calentador cerámico de 60 W" },
+      { label: "Cama caliente", value: "Sí, hasta 100 °C" },
+      { label: "Extrusor", value: "1 extrusor, directo" },
+      { label: "Nivelación", value: "Automática" },
+      { label: "Filamento", value: "1,75 mm, sistema abierto (cualquier marca)" },
+      { label: "Materiales", value: "PLA, PETG y TPU. ABS y ASA se pueden usar, pero al ser de marco abierto piden cámara cerrada" },
+      { label: "Pantalla", value: "Color de 4,3 pulgadas" },
+      { label: "Extras", value: "Sensor de fin de filamento" },
+      { label: "Requiere ensamblado", value: "Sí" },
+      { label: "Alimentación", value: "220 V" },
+      { label: "Color", value: "Gris oscuro" },
+    ],
+    faq: [
+      { question: "¿Cuál es la diferencia real con la Ender 3 V3 SE?", answer: "La velocidad, sobre todo: la KE llega a 500 mm/s y la SE a 250 mm/s. Además la KE tiene boquilla de hasta 300 °C, lo que le abre ABS y ASA, y trae sensor de fin de filamento. La SE tiene un centímetro más de altura de impresión y cuesta {{preciodif:MLA35330493:MLA44124693}} menos. Ninguna de las dos publicaciones de MercadoLibre declara la velocidad, así que comparando fichas es imposible darse cuenta." },
+      { question: "¿Cuánto mide realmente la impresora?", answer: "433 x 366 x 490 mm, según el fabricante. La ficha de MercadoLibre dice 24 x 22 x 22 cm, que es un error: ese número es casi exactamente su zona de impresión, no el tamaño del aparato. Si estás midiendo el escritorio donde la vas a apoyar, usá el dato del fabricante." },
+      { question: "¿Qué altura de capa maneja?", answer: "De 0,1 a 0,35 mm. La publicación de MercadoLibre dice que llega a 1 mm, y eso no es posible con una boquilla de 0,4 mm. Es otro campo que la publicación tiene mal cargado." },
+      { question: "¿Puede imprimir ABS o nylon?", answer: "Se les puede cargar, porque la boquilla llega a 300 °C. Pero la KE es de marco abierto, y tanto el ABS como el nylon se deforman y se despegan en las esquinas si no hay una cámara cerrada. Para usarlos en serio hace falta un gabinete que no viene incluido. Con PLA, PETG y TPU no tenés ese problema." },
+      { question: "¿Cómo es el servicio postventa en Argentina?", answer: "Es el punto más flojo de este modelo. Entre las reseñas de una estrella aparece \"servicio postventa pésimo, no tienen piezas de repuesto\", de alguien que la llevó a asistencia y volvió con el mismo problema. Otro comprador cuenta que le negaron la garantía por no haber comprado en el canal oficial de la marca. Conviene saberlo antes de comprar." },
+      { question: "¿Viene armada?", answer: "No, viene desarmada, igual que la Ender 3 V3 SE. Las reseñas coinciden en que el montaje es simple, y una la describe directamente como \"fácil de montar y de usar\". La única de la comparativa que llega montada de fábrica es la Bambu Lab A1 Mini." },
+      { question: "¿Necesito filamento de la marca?", answer: "No. Usa filamento estándar de 1,75 mm con sistema abierto, así que comprás la marca que quieras. Eso mantiene bajo el costo por pieza." },
+      { question: "¿Conviene esta o la Bambu Lab A1 Mini?", answer: "Cuestan casi lo mismo, apenas {{preciodif:MLA44143658:MLA35330493}} de diferencia. La KE tiene una zona de impresión bastante más grande (220 x 220 x 240 mm contra 180 x 180 x 180 mm) y acepta más materiales. La A1 Mini llega armada, pesa 3 kg y tiene mejor puntaje. Si te importa el tamaño de lo que vas a imprimir, la KE. Si te importa enchufar y usar, la A1 Mini." },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "2025", text: "Rápida, silenciosa, fácil de montar y de usar, e imprime diversos tipos de filamento con precisión. ¡Perfecta!" },
+      { rating: 5, country: "Argentina", date: "diciembre 2025", text: "Está es mi primera impresora, me gusta mucho porque es muy rápida y es fácil aprender a usarla. Tras un año de uso no me ha dado problemas significativos." },
+      { rating: 5, country: "Argentina", date: "agosto 2025", text: "Es una máquina muy buena, la calidad de materiales y lo fácil de la instalación. Se puede lograr muy buena calidad en las impresiones como se puede apreciar." },
+      { rating: 1, country: "Argentina", date: "2025", text: "Servicio postventa pésimo, no tienen piezas de repuesto. Lo llevé a la asistencia. Volvió con el mismo problema." },
+      { rating: 1, country: "Argentina", date: "2025", text: "No se pudo imprimir ni una sola pieza. Ya hablé a soporte técnico pero como no la compré en su página no me pueden dar la garantía." },
+    ],
+    relatedProducts: ["MLA44124693", "MLA44143658", "MLA69826952"],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Creality Ender-3 V3 KE",
+      image: "https://http2.mlstatic.com/D_NQ_NP_792868-MLA99854868501_112025-O.webp",
+      description: "Impresora 3D FDM Creality Ender-3 V3 KE: zona de impresión de 220 x 220 x 240 mm, velocidad máxima de 500 mm/s, boquilla de hasta 300 °C y autonivelación. 4.8 estrellas con 1.823 calificaciones en MercadoLibre Argentina.",
+      brand: { "@type": "Brand", name: "Creality" },
+      offers: {
+        "@type": "Offer",
+        url: "https://meli.la/2BZv9dG",
+        priceCurrency: "ARS",
+        price: 573999,
+        availability: "https://schema.org/InStock",
+        itemCondition: "https://schema.org/NewCondition",
+        seller: { "@type": "Organization", name: "MercadoLibre Argentina" },
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.8",
+        reviewCount: "1823",
+      },
+    },
+  },
+  {
+    id: "MLA44143658",
+    title: "Impresora 3D Bambu Lab A1 Mini 180x180x180 mm",
+    canonicalName: "Bambu Lab A1 mini",
+    brand: "Bambu Lab",
+    price: 627811,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_756275-MLA112813217549_062026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_756275-MLA112813217549_062026-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_896850-MLA112813010305_062026-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_946309-MLA112813452311_062026-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_635578-MLA112813715583_062026-O.webp",
+    ],
+    category: "Tech",
+    categorySlug: "tech",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA44143658",
+    affiliateUrl: "https://meli.la/13BJdkp",
+    condition: "new",
+    freeShipping: false,
+    rating: 4.9,
+    reviewCount: 1847,
+    reviewsSampledAt: "2026-08-24",
+    soldQuantity: 1000,
+    pastelColor: "var(--pastel-purple)",
+    visibility: "normal",
+    priceUpdated: "2026-08-24",
+    priceLastChecked: "2026-08-24",
+    priceVerifiedAt: "2026-08-24",
+    priceStatus: "fresh",
+    seoTitle: "Bambu Lab A1 Mini: la única que llega armada",
+    metaDescription: "Bambu Lab A1 Mini a {{precio:MLA44143658}}: viene montada, 500 mm/s y {{rating:MLA44143658}} estrellas en {{reviews:MLA44143658}} opiniones. Su límite real es el tamaño: 18 cm por lado.",
+    h1: "Bambu Lab A1 Mini: la única de la comparativa que llega armada de fábrica",
+    pros: [
+      "Es la única de las cuatro que viene montada. Una reseña lo cuenta así: \"la impresora es muy buena, ya viene montada, al abrir la caja solo hay que levantarla\"",
+      "{{rating:MLA44143658}} estrellas en {{reviews:MLA44143658}} calificaciones, el puntaje más alto de la comparativa junto con la A1 Combo",
+      "Imprime hasta 500 mm/s según el fabricante, el doble que la Creality Ender 3 V3 SE y lo mismo que la KE",
+      "Pesa 3 kg, la más liviana de las cuatro por lejos: se levanta con una mano y se guarda en un estante",
+      "Trae cortador de filamento y boquilla de acero inoxidable que llega a 300 °C, con puntas opcionales de 0,2, 0,6 y 0,8 mm",
+    ],
+    cons: [
+      "La zona de impresión más chica de la comparativa: 180 x 180 x 180 mm. Es un cubo de 18 cm por lado, contra los 22 x 22 x 25 cm de la Ender 3 V3 SE, que cuesta {{preciodif:MLA44143658:MLA44124693}} menos",
+      "No imprime ABS, ASA, PC, nylon ni filamentos reforzados con fibra: el propio fabricante los marca como no recomendados porque el marco es abierto. Queda para PLA, PETG, TPU y PVA",
+      "La cama llega a 80 °C, la más baja de las cuatro. La Ender 3 V3 SE, la KE y la A1 Combo llegan a 100 °C",
+      "Entre las reseñas de una estrella aparecen atascos: \"ya se estropeó en el tercer día, el eje Z se atascó\". Hay otra por un tubo de PTFE trabado, pero es de alguien que le sumó el AMS por separado: esta publicación no lo incluye",
+      "Un comprador esperaba que el precio incluyera filamento y accesorios que no vinieron, y otro cierra su reseña de una estrella con \"la verdad sale mejor una ender\"",
+    ],
+    verdict: "Es la más fácil de usar de las cuatro: llega armada, pesa 3 kg y tiene el puntaje más alto junto con la A1 Combo. Imprime tan rápido como la Ender 3 V3 KE, que cuesta casi lo mismo. Lo que pagás en comodidad lo perdés en tamaño y en materiales: 18 cm por lado y nada de ABS. Si vas a imprimir piezas chicas y querés enchufar y andar, es la elección obvia.",
+    articleBody: `## Qué es la Bambu Lab A1 Mini
+
+Es la impresora más chica de Bambu Lab: un cubo de impresión de 180 x 180 x 180 mm, chasis de acero y aluminio, 3 kg de peso y autonivelación. Cuesta {{precio:MLA44143658}} y tiene {{reviews:MLA44143658}} calificaciones con {{rating:MLA44143658}} estrellas en MercadoLibre Argentina, el puntaje más alto de la comparativa junto con su hermana grande.
+
+## La única que llega armada
+
+Esta es su ventaja concreta sobre las dos Creality, y una reseña la resume mejor que cualquier ficha técnica: "la impresora es muy buena, ya viene montada. Algunos puntos que no sabía y que me gustaría compartir con los nuevos compradores: al abrir la caja, solo hay que levantarla".
+
+Las dos Ender 3 V3 vienen desarmadas. No es un armado complicado, pero es una tarde de tornillos y cables antes de la primera pieza. Acá abrís la caja, la levantás y enchufás. Para alguien que nunca tocó una impresora 3D, esa diferencia pesa más de lo que parece: otra reseña habla directamente de "cero mantenimiento".
+
+## Imprime tan rápido como la KE
+
+Según el fabricante llega a 500 mm/s, con aceleración de 10 m/s². Es exactamente lo mismo que la [Creality Ender 3 V3 KE](/producto/impresora-3d-creality-ender-3-v3-ke-500-mm-s-mla35330493), que cuesta casi igual, y el doble que la [Ender 3 V3 SE](/producto/impresora-3d-creality-ender-3-v3-se-220x220x250-mm-mla44124693).
+
+Un comprador lo nota sin mirar la ficha: "imprime muy rápido a diferencia de otras impresoras de similar o menor precio, se nota la calidad en sus componentes".
+
+## Su límite real es el tamaño
+
+180 x 180 x 180 mm. Un cubo de 18 cm por lado.
+
+Para poner ese número en contexto: la Ender 3 V3 SE, que cuesta {{preciodif:MLA44143658:MLA44124693}} menos, imprime 220 x 220 x 250 mm. La A1 Combo llega a 256 mm por lado. Si lo que tenés en la cabeza son figuras, repuestos chicos, organizadores o prototipos de escritorio, 18 cm alcanza y sobra. Si pensabas imprimir un casco, una maceta grande o piezas que se dividan en menos partes, este es el modelo equivocado.
+
+## No imprime ABS, y no es un error de la publicación
+
+La ficha de MercadoLibre dice que no es apta para ABS y eso es correcto, no un dato mal cargado. La hoja de especificaciones del propio fabricante lo dice en dos renglones: PLA, PETG, TPU y PVA figuran como ideales, mientras que ABS, ASA, policarbonato, nylon, PET y los filamentos reforzados con fibra de carbono o vidrio están marcados como no recomendados.
+
+El motivo es el marco abierto. Esos materiales necesitan que la temperatura alrededor de la pieza se mantenga estable, y sin una cámara cerrada se deforman y se despegan en las esquinas mientras imprimen. A eso se suma que la cama llega a 80 °C, la más baja de la comparativa.
+
+No es una limitación escondida: es una decisión de diseño. Esta impresora está pensada para los materiales que usa la enorme mayoría de la gente.
+
+## Los atascos que aparecen en las reseñas de una estrella
+
+Con {{rating:MLA44143658}} estrellas de promedio, las quejas son minoría, pero conviene saber cuáles son. Filtrando las de una estrella aparecen dos casos de atasco mecánico. Uno con el filamento: "se quedó atascada en la primera impresión y no salió más, el tubo de PTFE quedó atascado en el AMS y no sale de ninguna manera, a pesar de que fue instalado correctamente". Aclaración importante: esta publicación NO incluye el AMS, así que esa persona le sumó el accesorio por separado. Si comprás la A1 Mini sola, esa pieza no entra en juego. Otro con el movimiento vertical: "ya se estropeó en el tercer día, el eje Z se atascó".
+
+También hay una queja que no es de funcionamiento sino de expectativa: un comprador esperaba que a ese precio viniera filamento y accesorios que no llegaron. Es el mismo reclamo que se repite en la A1 Combo, así que vale tenerlo presente con la marca en general.
+
+## Contra la SE y contra la A1 Combo
+
+Frente a la [Ender 3 V3 SE](/producto/impresora-3d-creality-ender-3-v3-se-220x220x250-mm-mla44124693): la A1 Mini llega armada, imprime al doble de velocidad y tiene mejor puntaje, pero su zona de impresión es notablemente más chica y cuesta {{preciodif:MLA44143658:MLA44124693}} más.
+
+Frente a la [A1 Combo](/producto/impresora-3d-bambu-lab-a1-combo-con-ams-lite-256x256x256-mm-mla69826952): misma plataforma y misma velocidad, pero la Combo suma el sistema multicolor y un cubo de 256 mm por lado. La diferencia de precio es de {{preciodif:MLA69826952:MLA44143658}}.
+
+## Para quién es, y para quién no
+
+Es para vos si querés empezar hoy sin armar nada, si vas a imprimir piezas que entren en 18 cm, y si te alcanza con PLA, PETG y TPU, que es lo que usa casi todo el mundo.
+
+No es para vos si necesitás imprimir piezas grandes, si tu proyecto pide ABS o nylon de verdad, o si te alcanza con menos comodidad a cambio de más superficie: en ese caso la Ender 3 V3 SE te da bastante más volumen por bastante menos plata.`,
+    specs: [
+      { label: "Marca / Modelo", value: "Bambu Lab A1 mini" },
+      { label: "Tecnología", value: "FDM, modelado por deposición fundida" },
+      { label: "Zona de impresión", value: "180 x 180 x 180 mm (la más chica de la comparativa)" },
+      { label: "Dimensiones del equipo", value: "347 x 315 x 365 mm" },
+      { label: "Peso", value: "3 kg (la más liviana de la comparativa)" },
+      { label: "Velocidad máxima", value: "500 mm/s, aceleración de 10 m/s² (dato del fabricante)" },
+      { label: "Altura de capa", value: "0,1 a 0,32 mm" },
+      { label: "Boquilla", value: "Acero inoxidable de 0,4 mm incluida; opcionales de 0,2, 0,6 y 0,8 mm" },
+      { label: "Temperatura de boquilla", value: "Hasta 300 °C, extremo caliente todo metal" },
+      { label: "Cama caliente", value: "Sí, hasta 80 °C (la más baja de la comparativa). Placa PEI texturada o lisa" },
+      { label: "Chasis", value: "Acero y aluminio extruido" },
+      { label: "Nivelación", value: "Automática" },
+      { label: "Filamento", value: "1,75 mm, sistema abierto" },
+      { label: "Materiales ideales", value: "PLA, PETG, TPU y PVA (según el fabricante)" },
+      { label: "Materiales no recomendados", value: "ABS, ASA, policarbonato, nylon, PET y reforzados con fibra: el marco es abierto" },
+      { label: "Requiere ensamblado", value: "No, viene montada de fábrica" },
+      { label: "Extras", value: "Cortador de filamento integrado" },
+      { label: "Alimentación", value: "220 V" },
+      { label: "Color", value: "Gris" },
+    ],
+    faq: [
+      { question: "¿Viene armada?", answer: "Sí, y es la única de la comparativa que llega montada de fábrica. Una reseña lo describe así: \"ya viene montada, al abrir la caja solo hay que levantarla\". Las dos Creality Ender 3 V3 vienen desarmadas y piden una tarde de montaje antes de la primera impresión." },
+      { question: "¿Qué tan chica es la zona de impresión?", answer: "180 x 180 x 180 mm, un cubo de 18 cm por lado. Es la más chica de las cuatro. Para comparar: la Ender 3 V3 SE, que cuesta {{preciodif:MLA44143658:MLA44124693}} menos, imprime 220 x 220 x 250 mm. Para figuras, repuestos y prototipos de escritorio alcanza bien; para piezas grandes queda corta." },
+      { question: "¿Puede imprimir ABS?", answer: "No, y el propio fabricante lo dice: en su hoja de especificaciones marca ABS, ASA, policarbonato, nylon, PET y los reforzados con fibra como no recomendados. El motivo es el marco abierto, que no mantiene la temperatura estable alrededor de la pieza. Los materiales listados como ideales son PLA, PETG, TPU y PVA." },
+      { question: "¿A qué velocidad imprime?", answer: "Hasta 500 mm/s con aceleración de 10 m/s², según el fabricante. Es lo mismo que la Creality Ender 3 V3 KE y el doble que la Ender 3 V3 SE. La publicación de MercadoLibre no declara la velocidad de ninguna de las tres." },
+      { question: "¿Qué problemas reportan los compradores?", answer: "Con {{rating:MLA44143658}} estrellas de promedio las quejas son minoría, pero las de una estrella se concentran en atascos. Un comprador describe el tubo de PTFE trabado y la impresora frenada en la primera impresión; otro cuenta que el eje Z se atascó al tercer día. También hay reclamos por accesorios y filamento que se esperaban en la caja y no vinieron." },
+      { question: "¿Se le puede cambiar la boquilla?", answer: "Sí. Viene con una de acero inoxidable de 0,4 mm y el fabricante ofrece opcionales de 0,2, 0,6 y 0,8 mm. La de 0,2 mm sirve para detalle fino y las más gruesas para imprimir más rápido con menos definición." },
+      { question: "¿Conviene esta o la Ender 3 V3 KE?", answer: "Cuestan casi lo mismo y las dos imprimen a 500 mm/s. La KE tiene mucha más zona de impresión (220 x 220 x 240 mm contra 180 x 180 x 180 mm) y acepta más materiales. La A1 Mini llega armada, pesa 3 kg y tiene mejor puntaje. Si te importa el tamaño de la pieza, la KE. Si te importa la comodidad, la A1 Mini." },
+      { question: "¿Conviene esta o la A1 Combo?", answer: "Es la misma plataforma y la misma velocidad. La Combo suma el sistema multicolor AMS lite y un cubo de impresión de 256 mm por lado, por {{preciodif:MLA69826952:MLA44143658}} más. Si no vas a imprimir en varios colores y tus piezas entran en 18 cm, la Mini hace el mismo trabajo por bastante menos." },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "julio 2026", text: "La impresora es muy buena, ya viene montada. Algunos puntos que no sabía y que me gustaría compartir con los nuevos compradores: al abrir la caja, solo hay que levantarla sosteniéndola." },
+      { rating: 5, country: "Argentina", date: "agosto 2025", text: "El mejor fabricante de impresoras, no tiene competencia para Bambulab, solo impresiones de calidad y cero mantenimiento." },
+      { rating: 5, country: "Argentina", date: "diciembre 2025", text: "Increíble, imprime muy rápido a diferencia de otras impresoras de similar o menor precio, me caso con la marca bambulab, se nota la calidad en sus componentes." },
+      { rating: 1, country: "Argentina", date: "2026", text: "Se quedó atascada en la primera impresión y no salió más; el tubo de PTFE quedó atascado en el AMS y no sale de ninguna manera, a pesar de que fue instalado correctamente." },
+      { rating: 1, country: "Argentina", date: "2026", text: "Ya se estropeó en el tercer día, el eje Z se atascó. Ahora espero que Bambu me dé una respuesta." },
+    ],
+    relatedProducts: ["MLA69826952", "MLA35330493", "MLA44124693"],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Bambu Lab A1 mini",
+      image: "https://http2.mlstatic.com/D_NQ_NP_756275-MLA112813217549_062026-O.webp",
+      description: "Impresora 3D FDM Bambu Lab A1 mini: zona de impresión de 180 x 180 x 180 mm, 500 mm/s, boquilla de acero de hasta 300 °C y llega montada de fábrica. 4.9 estrellas con 1.847 calificaciones en MercadoLibre Argentina.",
+      brand: { "@type": "Brand", name: "Bambu Lab" },
+      offers: {
+        "@type": "Offer",
+        url: "https://meli.la/13BJdkp",
+        priceCurrency: "ARS",
+        price: 627811,
+        availability: "https://schema.org/InStock",
+        itemCondition: "https://schema.org/NewCondition",
+        seller: { "@type": "Organization", name: "MercadoLibre Argentina" },
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.9",
+        reviewCount: "1847",
+      },
+    },
+  },
+  {
+    id: "MLA69826952",
+    title: "Impresora 3D Bambu Lab A1 Combo con AMS lite 256x256x256 mm",
+    canonicalName: "Bambu Lab A1 Combo",
+    brand: "Bambu Lab",
+    price: 1377390,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_767982-MLA111821890757_052026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_767982-MLA111821890757_052026-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_710097-MLA110858783392_052026-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_812379-MLA111821805989_052026-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_787991-MLA111822295749_052026-O.webp",
+    ],
+    category: "Tech",
+    categorySlug: "tech",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA69826952",
+    affiliateUrl: "https://meli.la/1RVGa3v",
+    condition: "new",
+    freeShipping: false,
+    rating: 4.9,
+    reviewCount: 4220,
+    reviewsSampledAt: "2026-08-24",
+    soldQuantity: 500,
+    pastelColor: "var(--pastel-amber)",
+    visibility: "featured",
+    priceUpdated: "2026-08-24",
+    priceLastChecked: "2026-08-24",
+    priceVerifiedAt: "2026-08-24",
+    priceStatus: "fresh",
+    seoTitle: "Bambu Lab A1 Combo: multicolor y la más opinada",
+    metaDescription: "Bambu Lab A1 Combo a {{precio:MLA69826952}}: multicolor con AMS lite, 256 mm por lado y {{reviews:MLA69826952}} opiniones, la más opinada de la comparativa. Qué falta en la caja.",
+    h1: "Bambu Lab A1 Combo: la más opinada de la comparativa, y la única que imprime en varios colores",
+    pros: [
+      "{{reviews:MLA69826952}} calificaciones con {{rating:MLA69826952}} estrellas: la mayor prueba social de la comparativa por lejos, y más del doble que la A1 Mini o la Ender 3 V3 KE",
+      "Es la única que imprime en varios colores, gracias al AMS lite que viene incluido y carga hasta cuatro carretes",
+      "La zona de impresión más grande de la comparativa: 256 x 256 x 256 mm, un cubo de más de 25 cm por lado",
+      "La capa más fina declarada del grupo: llega a 0,08 mm, contra los 0,1 mm de las otras tres",
+      "Imprime hasta 500 mm/s con aceleración de 10.000 mm/s², según el fabricante",
+    ],
+    cons: [
+      "Es la más cara de la comparativa por bastante: cuesta {{preciodif:MLA69826952:MLA44143658}} más que la A1 Mini, que usa la misma plataforma y la misma velocidad",
+      "Dos compradores distintos, uno con cuatro estrellas y otro con una, se quejan de lo mismo: accesorios que no vinieron en la caja. \"Bastante desilusionado que no haya venido ningún accesorio, solo la impresora, el AMS y 20 g de filamento, las herramientas todas en una bolsita\"",
+      "El AMS es la pieza que más aparece fallando. Una reseña de cuatro estrellas lo detalla: \"el ams ya presentó problemas de no poder insertar el filamento, he tenido que quitar bobinas y volver a colocar para poder imprimir\"",
+      "Hay reportes de fallas tempranas entre las reseñas de una estrella: \"a los 10 días dejó de funcionar\", \"la máquina tuvo problemas en menos de 2 meses\" y una pantalla táctil que llegó rota",
+      "No imprime ABS, ASA, policarbonato ni nylon: el fabricante los marca como no recomendados porque el marco es abierto, igual que en la A1 Mini",
+    ],
+    verdict: "Es la que más gente calificó de las cuatro, con {{reviews:MLA69826952}} opiniones y {{rating:MLA69826952}} estrellas, y la única que imprime en varios colores. Suma el cubo de impresión más grande y la capa más fina del grupo. A cambio es la más cara por lejos: si no vas a usar el multicolor ni necesitás los 256 mm, la A1 Mini hace lo mismo, a la misma velocidad, por {{preciodif:MLA69826952:MLA44143658}} menos.",
+    articleBody: `## Qué es la Bambu Lab A1 Combo
+
+Es la Bambu Lab A1 de tamaño completo con el AMS lite incluido, que es el sistema que le permite imprimir con varios colores en la misma pieza. Cubo de impresión de 256 x 256 x 256 mm, 8,3 kg y hasta 500 mm/s. Cuesta {{precio:MLA69826952}} y acumula {{reviews:MLA69826952}} calificaciones con {{rating:MLA69826952}} estrellas en MercadoLibre Argentina.
+
+## La más opinada de la comparativa, por lejos
+
+Este es el dato más fuerte a su favor. Con {{reviews:MLA69826952}} calificaciones es, por lejos, la más opinada de la comparativa: más del doble que la A1 Mini o la Ender 3 V3 KE, y bastante por encima de la Ender 3 V3 SE, que es la segunda. Y mantiene {{rating:MLA69826952}} estrellas de promedio. En un rubro donde una compra equivocada se paga caro, ese volumen de gente que la calificó vale tanto como cualquier especificación.
+
+Las reseñas positivas van en la misma dirección. Una, después de dos meses de uso: "puedo afirmar que fue la mejor adquisición del año". Otra, más gráfica: "la pobrecita no dejó de trabajar ni un minuto desde que llegó y está fuerte y firme, en breve planeo comprar otra".
+
+## Qué significa el multicolor en la práctica
+
+El AMS lite es una torre que sostiene hasta cuatro carretes de filamento y va cambiando cuál usa durante la impresión. Eso permite piezas de varios colores sin frenar nada ni cambiar el rollo a mano.
+
+Es la única de las cuatro que lo hace. Las dos Creality y la A1 Mini imprimen de a un color por pieza.
+
+Vale ser claro con el costo real: cada cambio de color implica purgar el filamento anterior, así que una pieza multicolor gasta bastante más material que la misma pieza en un solo color. Si el multicolor es un capricho ocasional y no el motivo de la compra, mirá primero la [A1 Mini](/producto/impresora-3d-bambu-lab-a1-mini-180x180x180-mm-mla44143658), que es la misma plataforma sin ese sistema.
+
+## Lo que dos compradores coinciden en que falta en la caja
+
+Este es el reclamo que más se repite, y aparece en dos reseñas independientes con puntajes distintos, lo que le da peso.
+
+Uno, con cuatro estrellas: "bastante desilusionado que no haya venido ningún accesorio, meses mirando reseñas del desempaque de la máquina para que solo venga la impresora, el ams y 20 g de filamento, las herramientas todas en una bolsita". Otro, con una estrella, dice lo mismo en menos palabras: no traía los accesorios.
+
+No es una falla de funcionamiento, es una diferencia entre lo que muestran los videos de la marca y lo que llega. Si estás comprando esperando el paquete completo que viste en internet, ajustá la expectativa.
+
+## El AMS es la pieza que más falla
+
+La misma reseña de cuatro estrellas que se queja de los accesorios señala el problema técnico más citado: "el ams ya presentó problemas de no poder insertar el filamento. He tenido que quitar bobinas y volver a colocar para poder imprimir".
+
+Conviene saberlo porque el AMS es justamente la función por la que se paga la diferencia sobre la A1 Mini. Es una reseña sola sobre {{reviews:MLA69826952}}, no una falla generalizada, pero apunta a la pieza más cara del combo.
+
+Entre las reseñas de una estrella hay además reportes de fallas tempranas: "a los 10 días dejó de funcionar", "la máquina tuvo problemas en menos de 2 meses" y una unidad que llegó con la pantalla táctil rota. Con {{rating:MLA69826952}} estrellas sobre {{reviews:MLA69826952}} calificaciones son claramente la excepción, pero existen.
+
+## Materiales: los mismos límites que la A1 Mini
+
+PLA, PETG, TPU y PVA funcionan bien. ABS, ASA, policarbonato, nylon y los filamentos reforzados con fibra están marcados como no recomendados por el propio fabricante, porque el marco es abierto y esos materiales se deforman sin una cámara cerrada.
+
+La cama sí llega a 100 °C, veinte grados más que la A1 Mini, pero eso no alcanza para cambiar la recomendación de materiales.
+
+## Contra la A1 Mini y contra la Ender 3 V3 KE
+
+Frente a la [A1 Mini](/producto/impresora-3d-bambu-lab-a1-mini-180x180x180-mm-mla44143658): misma plataforma, misma velocidad, mismo puntaje. La Combo suma el multicolor y pasa de 180 a 256 mm por lado, por {{preciodif:MLA69826952:MLA44143658}} más. Es una diferencia grande de plata por dos funciones concretas: si no las vas a usar, no las pagues.
+
+Frente a la [Creality Ender 3 V3 KE](/producto/impresora-3d-creality-ender-3-v3-ke-500-mm-s-mla35330493), que también imprime a 500 mm/s: la Combo tiene más volumen, multicolor y muchísimas más opiniones. La KE acepta ABS y ASA y cuesta {{preciodif:MLA69826952:MLA35330493}} menos.
+
+## Para quién es, y para quién no
+
+Es para vos si el multicolor es el motivo de la compra, si necesitás imprimir piezas que no entran en 18 cm, o si querés la opción con más gente respaldándola de las cuatro.
+
+No es para vos si el multicolor te resulta lindo pero prescindible, porque ahí estás pagando {{preciodif:MLA69826952:MLA44143658}} de más sobre una A1 Mini que imprime igual de rápido. Tampoco si tu proyecto necesita ABS o nylon: para eso, mirá la Ender 3 V3 KE.`,
+    specs: [
+      { label: "Marca / Modelo", value: "Bambu Lab A1 Combo (A1 más AMS lite)" },
+      { label: "Tecnología", value: "FDM, modelado por deposición fundida" },
+      { label: "Zona de impresión", value: "256 x 256 x 256 mm (la más grande de la comparativa)" },
+      { label: "Dimensiones del equipo", value: "385 x 410 x 430 mm" },
+      { label: "Peso", value: "8,3 kg" },
+      { label: "Velocidad máxima", value: "500 mm/s, aceleración de 10.000 mm/s² (dato del fabricante)" },
+      { label: "Altura de capa", value: "0,08 a 0,28 mm (la capa más fina de la comparativa)" },
+      { label: "Sistema multicolor", value: "AMS lite incluido, hasta 4 carretes" },
+      { label: "Temperatura de boquilla", value: "Hasta 300 °C" },
+      { label: "Cama caliente", value: "Sí, hasta 100 °C" },
+      { label: "Extrusor", value: "1 extrusor" },
+      { label: "Nivelación", value: "Automática" },
+      { label: "Filamento", value: "1,75 mm, sistema abierto" },
+      { label: "Materiales ideales", value: "PLA, PETG, TPU y PVA (según el fabricante)" },
+      { label: "Materiales no recomendados", value: "ABS, ASA, policarbonato, nylon y reforzados con fibra: el marco es abierto" },
+      { label: "Requiere ensamblado", value: "Sí, incluido el montaje del AMS lite" },
+      { label: "Alimentación", value: "220 V" },
+      { label: "Color", value: "Plateado" },
+    ],
+    faq: [
+      { question: "¿Qué diferencia hay entre la A1 Combo y la A1 Mini?", answer: "La Combo suma el sistema multicolor AMS lite y una zona de impresión de 256 x 256 x 256 mm, contra los 180 x 180 x 180 mm de la Mini. La velocidad es la misma en las dos (500 mm/s) y el puntaje también. La diferencia de precio es de {{preciodif:MLA69826952:MLA44143658}}: si no vas a usar el multicolor ni necesitás el tamaño, la Mini hace el mismo trabajo." },
+      { question: "¿Cómo funciona el multicolor?", answer: "El AMS lite es una torre que sostiene hasta cuatro carretes y cambia cuál usa durante la impresión, sin que tengas que estar cambiando el rollo. Es la única de la comparativa que lo hace. Tené en cuenta que cada cambio de color purga filamento, así que una pieza multicolor gasta bastante más material que la misma pieza en un color." },
+      { question: "¿Qué es lo que más falla según los compradores?", answer: "El AMS. Una reseña de cuatro estrellas lo describe así: \"el ams ya presentó problemas de no poder insertar el filamento, he tenido que quitar bobinas y volver a colocar para poder imprimir\". Es una queja aislada dentro de {{reviews:MLA69826952}} opiniones, pero apunta justo a la función por la que se paga la diferencia sobre la A1 Mini." },
+      { question: "¿Trae todos los accesorios?", answer: "Dos compradores distintos dicen que no, y con puntajes distintos, lo que le da peso al reclamo. Uno detalla que llegó \"solo la impresora, el ams y 20 g de filamento, las herramientas todas en una bolsita\", bastante menos de lo que muestran los videos de desempaque. No afecta el funcionamiento, pero conviene ajustar la expectativa." },
+      { question: "¿Puede imprimir ABS o nylon?", answer: "No de forma recomendada. El fabricante marca ABS, ASA, policarbonato, nylon y los reforzados con fibra como no recomendados, porque el marco es abierto y esos materiales se deforman sin cámara cerrada. Los ideales son PLA, PETG, TPU y PVA. Si necesitás ABS, mirá la Creality Ender 3 V3 KE." },
+      { question: "¿Es confiable?", answer: "Es la más opinada de la comparativa: {{reviews:MLA69826952}} opiniones con {{rating:MLA69826952}} estrellas, más del doble que la A1 Mini o la Ender 3 V3 KE. Entre las de una estrella hay reportes de fallas tempranas, como una que dejó de funcionar a los 10 días, pero son la excepción dentro de ese volumen." },
+      { question: "¿Viene armada?", answer: "No. A diferencia de la A1 Mini, la Combo pide montaje, incluido el del AMS lite. Una reseña aclara que no es complicado: \"fácil de montar, la bandeja de mi máquina venía suelta, solo encajé los de arriba. ¡Fácil montaje del AMS también!\"." },
+      { question: "¿Conviene esta o la Creality Ender 3 V3 KE?", answer: "Las dos imprimen a 500 mm/s. La Combo tiene más volumen de impresión, multicolor y muchísimas más opiniones. La KE acepta ABS y ASA, y cuesta {{preciodif:MLA69826952:MLA35330493}} menos. Si el multicolor no te mueve la aguja y querés más materiales por menos plata, la KE." },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "octubre 2025", text: "Después de 2 meses de uso, puedo afirmar que fue la mejor adquisición del año." },
+      { rating: 5, country: "Argentina", date: "junio 2026", text: "¡Perfecta! La pobrecita no dejó de trabajar ni un minuto desde que llegó y está fuerte y firme, ¡en breve planeo comprar otra!" },
+      { rating: 5, country: "Argentina", date: "agosto 2025", text: "Fácil de montar. La bandeja de mi máquina venía suelta, así que no necesité quitar tornillos, solo encajé los de arriba que vienen en verde. ¡Fácil montaje del AMS también!" },
+      { rating: 4, country: "Argentina", date: "septiembre 2025", text: "Todo bien. Le puse 4 estrellas porque tiene 2 semanas que la compré, y el ams ya presento problemas de no poder insertar el filamento. He tenido que quitar bobinas y volver a colocar para poder imprimir." },
+      { rating: 4, country: "Argentina", date: "octubre 2025", text: "Bastante desilucionado que no haya venido ningún accesorio, meses mirando review del unboxing de la máquina para que solo venga la impresora, el ams y 20g de filamento, las herramientas todas en una bolsita." },
+    ],
+    relatedProducts: ["MLA44143658", "MLA35330493", "MLA44124693"],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Bambu Lab A1 Combo",
+      image: "https://http2.mlstatic.com/D_NQ_NP_767982-MLA111821890757_052026-O.webp",
+      description: "Impresora 3D FDM Bambu Lab A1 Combo con AMS lite: zona de impresión de 256 x 256 x 256 mm, impresión multicolor con hasta 4 carretes, 500 mm/s y capa mínima de 0,08 mm. 4.9 estrellas con 4.220 calificaciones en MercadoLibre Argentina.",
+      brand: { "@type": "Brand", name: "Bambu Lab" },
+      offers: {
+        "@type": "Offer",
+        url: "https://meli.la/1RVGa3v",
+        priceCurrency: "ARS",
+        price: 1377390,
+        availability: "https://schema.org/InStock",
+        itemCondition: "https://schema.org/NewCondition",
+        seller: { "@type": "Organization", name: "MercadoLibre Argentina" },
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.9",
+        reviewCount: "4220",
+      },
+    },
+  },
   // ─── Monitores gamer — importados via API oficial de ML (jul 2026). Silo gaming (STAGED) ───
   {
     id: "MLA63267892",

@@ -257,3 +257,32 @@ Tres cosas que dejó esto:
    leído el archivo al arrancar y las correcciones entraron mientras razonaba. Antes de aceptar un
    bloqueante de una pasada larga, verificar cada punto contra el archivo actual. Uno de los cuatro
    era real y se corrigió; los otros tres habrían sido trabajo repetido.
+
+## 2026-08-24 — Las reseñas negativas de MercadoLibre están, pero hay que ir a buscarlas
+
+Las reseñas destacadas que ML muestra en la página de producto son casi todas de 5 estrellas. Para
+las fichas de impresoras 3D, las cuatro daban puros elogios, y una ficha sin contras reales no
+cumple el estándar del sitio.
+
+**Cómo llegar a las negativas** (funcionó en los cuatro productos):
+
+1. En la página `/p/MLA…`, hacer click por JS en `button.show-more-click`
+   ("Mostrar todas las opiniones"). El modal tarda unos segundos, no aparece al instante.
+2. El modal es un **iframe** (`/noindex/catalog/reviews/<ID>`), y ese ID **no es el del producto**:
+   es un ID de reseñas propio. Por eso navegar a esa ruta con el MLA del producto devuelve vacío.
+3. Dentro del modal hay un filtro "Calificación" con opciones Todas / 5 / 4 / 3 / 2 / 1.
+   Se clickea con coordenadas reales; el click por JS sobre el filtro no alcanza.
+4. Leer los resultados desde `iframe.contentDocument` (es del mismo origen), no desde `document`:
+   un `querySelectorAll` sobre la página de atrás devuelve las reseñas viejas sin filtrar.
+5. **Sanitizar el texto extraído** a un charset simple antes de devolverlo, o la salida se bloquea
+   por parecerse a datos de cookie o query string.
+
+El resultado justifica el trabajo: cada modelo tiene un contra distinto y concreto (un sensor
+puntual, el postventa, atascos, accesorios faltantes), y dos de ellos aparecen mencionados por
+compradores independientes, que es lo que convierte una queja suelta en un patrón citable.
+
+**Segundo aprendizaje de la misma sesión:** cruzar contra la página del fabricante encontró
+**dos campos mal cargados** en una ficha de ML (dimensiones y altura de capa de la Ender 3 V3 KE) y
+un dato que ML no publica en ninguna de las cuatro (la velocidad). Ese último terminó siendo el
+ángulo diferencial de la guía entera. La verificación contra fabricante que pide `docs/fichas.md`
+no es solo para completar specs: es donde aparece el contenido que la competencia no tiene.
