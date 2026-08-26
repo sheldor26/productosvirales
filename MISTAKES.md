@@ -16,6 +16,16 @@
 **Archivos involucrados:** `path/a/archivo.ts`
 -->
 
+## 2026-08-26 — El accesorio salía menos que el instrumento, y el superlativo era falso en seis lugares
+
+**Qué pasó:** en el pilar `instrumentos-musicales` y en la ficha de la guitarra criolla del commit anterior, la CG001 quedó declarada "la más barata de las cinco" y "la más barata del rubro en el catálogo". Es falso: sale $89.999 y el pedal multiefectos M-Vave del mismo grupo sale $87.139. Estaba en seis lugares repartidos entre `guides.ts` y `curated-products.ts`, incluyendo la metaDescription de la ficha, un `pros` y el standfirst y la FAQ de la guía. Del mismo tipo aparecieron tres más: la electroacústica declarada con "la base más grande de opiniones de los cinco" (la Pioneer tiene 4.031 contra sus 3.842), la eléctrica como "la que más eligen los que arrancan" (la electroacústica tiene más opiniones que ella) y, peor, la Pioneer como "la que más resuelve sola de los cinco" — ese último lo escribí yo mismo *al corregir* otro claim, y lo marcaron los dos auditores porque es justamente la que más accesorios externos pide.
+
+**Por qué:** el grupo de cinco no es homogéneo. Mezcla tres instrumentos con un accesorio y un equipo de otra familia, así que "el más barato de los cinco" compara peras con repuestos de pera. Y el margen entre los dos más baratos era del 3%: con Bright Data actualizando precios tres veces por semana, un claim así se puede volver falso sin que nadie toque el texto y sin que ningún check lo detecte. Ninguno de los nueve checks del repo mira relaciones de orden entre precios; sí miran que los tokens estén bien formados, que es otra cosa.
+
+**Cómo evitarlo:** todo superlativo de precio va acotado a la **sub-clase homogénea**, no al grupo entero de la guía. "La más barata de las tres guitarras" tiene saltos del 25% entre miembros y aguanta el movimiento de precios. Para rangos, no usar "de X a Y" (el piso puede cambiar de producto): usar la relación entre extremos, porque "casi diez veces de diferencia" sigue siendo cierto aunque se den vuelta los dos más baratos. Y al sumar un producto nuevo, grepear los superlativos de **todas** las fichas del grupo antes de auditar, en los dos archivos a la vez. Sobre el cuarto caso, el que introduje corrigiendo: releer el parche como si fuera texto nuevo, porque un arreglo puede traer el error que venía a sacar — ya había pasado el 2026-08-25 con Insta360.
+
+**Archivos involucrados:** `src/data/guides.ts`, `src/data/curated-products.ts`
+
 ## 2026-08-13 — Publicación automática de Instagram: dos bugs reales antes de que funcionara
 
 **Qué pasó:** al armar `scripts/publicar-instagram.cjs`, dos fallos consecutivos antes de la primera publicación exitosa. (1) El script apuntaba a `graph.facebook.com`, y con un token generado por el flujo "API setup with Instagram login" eso devuelve `"Cannot parse access token"` (código 190) — parecía un token mal copiado (probé recopiarlo dos veces) pero el token estaba bien, el host era el que no correspondía. (2) La primera Historia de prueba se publicó con la imagen del post cuadrado (1080×1350, formato Threads/feed) en vez de una imagen 9:16 — se veía bien en la versión web de Instagram (letterboxed, sin recortar) pero en el celular (donde las Historias son siempre pantalla completa) salió recortada.

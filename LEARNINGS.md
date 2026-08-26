@@ -16,6 +16,28 @@
 **Archivos involucrados:** `path/a/archivo.ts`
 -->
 
+## 2026-08-26 — Verificar el render real: hay bugs de formato que ningún check agarra
+
+**Qué funcionó:** antes de dar por cerrado el pilar `instrumentos-musicales`, se dio vuelta la fecha de forma
+temporal para sacarlo de STAGED, se levantó el sitio en local y se leyó la página entera renderizada. Ahí
+apareció que el `GuideRenderer` procesa `**negrita**` y links markdown pero **no procesa la cursiva de un
+asterisco**: las dos citas de compradores escritas como `*"..."*` salían con los asteriscos a la vista. Después
+se revirtió la fecha a STAGED.
+
+En la misma pasada aparecieron dos cosas más que solo se ven en pantalla: el bloque de `internalLinks` se titula
+"Guías relacionadas" por defecto y ahí van cinco fichas de producto (existe `internalLinksTitle` para cambiarlo),
+y una lista de precios que arrancaba con "Desde $90.000" y seguía con "Alrededor de $87.000", o sea al revés.
+
+**Por qué:** `tsc --noEmit`, `npm run build` y los nueve checks del repo pasan igual con los tres problemas,
+porque para ellos es texto válido y tokens bien formados. Es una clase entera de bugs sin trinquete automático:
+todo lo que es *cómo se ve* en vez de *qué dice*.
+
+**Cuándo aplicarlo:** en toda guía nueva, entre el "los checks pasan" y el "está lista". Levantar la página,
+leerla completa como lector y no como autor, y recién ahí mandarla al trío auditor. Los auditores leen el objeto
+de datos, no el HTML: no van a ver un asterisco que no se transformó.
+
+**Archivos involucrados:** `src/components/guides/GuideRenderer.tsx`, `src/data/guides.ts`
+
 ## 2026-08-16 — Pasarle al auditor una tabla de verdad, no solo el diff
 
 **Qué funcionó:** en las cinco guías del día, el prompt de Codex arrancó con una **tabla de verdad**

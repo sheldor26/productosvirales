@@ -1,7 +1,95 @@
 # Estado actual
 
 > Snapshot del proyecto. Se actualiza al final de cada sesión.
-> Última actualización: 2026-08-26 (silo nuevo `camaras-vlog` con `osmo-pocket-cual-comprar` en STAGED + 3 fichas, catálogo a 525; antes ese mismo día: `dji-cual-comprar` PUBLICADA + 3 fichas DJI, catálogo a 522 — ver sesión inmediatamente abajo). El 2026-08-25: silo de cámaras deportivas completo y en vivo con 16 fichas y 3 guías.
+> Última actualización: 2026-08-26 (silo nuevo `musica` con el pilar `instrumentos-musicales` en STAGED + 5 fichas, catálogo a 530, guías a 211; antes ese mismo día: silo `camaras-vlog` con `osmo-pocket-cual-comprar` en STAGED + 3 fichas, y `dji-cual-comprar` PUBLICADA + 3 fichas DJI). El 2026-08-25: silo de cámaras deportivas completo y en vivo con 16 fichas y 3 guías.
+
+## Sesión 2026-08-26 (c) — El silo de música, y el accesorio que salía menos que el instrumento
+
+### LO QUE SE HIZO
+
+Cuatro commits: `5bf4fa1` (silo `musica` + categoría `instrumentos-musicales`), `52236e6` (categoría de producto `musica`, `mlCategoryId: MLA1182`), `593437f` (5 fichas nuevas, catálogo 525 → 530) y `89e6d99` (el pilar). Ninguno pusheado todavía.
+
+La guía pilar `instrumentos-musicales` queda en **STAGED con fecha 2026-09-25**, en el silo `musica`, categoría `instrumentos-musicales`, `pillar: true`. Guías: 210 → 211.
+
+Las 5 fichas, con precio verificado el 2026-08-26:
+
+| MLA | Producto | Precio | Rating | Opiniones |
+|---|---|---|---|---|
+| MLA40485883 | Guitarra criolla Femmto CG001 con funda y púas | $89.999 | 4.6 | 1.348 |
+| MLA19491306 | Guitarra electroacústica Femmto EAG003 | $112.714 | 4.5 | 3.842 |
+| MLA25602058 | Guitarra eléctrica Femmto EG001 con amplificador | $199.374 | 4.7 | 3.475 |
+| MLA23145920 | Controlador DJ Pioneer DDJ-FLX4 | $812.242 | 4.9 | 4.031 |
+| MLA19464828 | Pedal multiefectos M-Vave Cube Baby | $87.139 | 4.9 | 3.403 |
+
+### LA ARQUITECTURA QUE PIDIÓ JUAN
+
+La primera propuesta era un silo por instrumento. Juan la corrigió en el momento: **un solo silo para todo el rubro, con un pilar de instrumentos en general y sub-pilares por instrumento adentro**. No mil silos.
+
+```
+musica/
+  instrumentos-musicales     <- el pilar, 18.100/mes, SD 29, transaccional   [ESTA SESIÓN]
+    guitarra-criolla         <- sub-pilar, 14.800/mes, SD 7                  [pendiente]
+    guitarra-electrica       <- sub-pilar, 22.200/mes, SD 9                  [pendiente]
+    controladora-dj          <- sub-pilar, ~11-12k/mes, SD 8                 [pendiente]
+```
+
+### EL ÁNGULO
+
+Dos cosas que salieron de leer las reseñas reales, no de las specs:
+
+1. **Una criolla y una acústica se ven casi iguales en la foto y se tocan distinto.** Es el error número uno del que arranca. Un comprador lo dejó escrito: "Es mentira que sea de juguete. Simplemente no es una criolla."
+2. **Ningún instrumento de entrada viene completo.** El ampli que trae la EG001 es "de juguete" según la reseña más votada de su publicación, y la salida natural es el M-Vave, que otro comprador prefiere a un ampli chico.
+
+El pilar se apoya en esas dos y deja la comparación modelo contra modelo para los sub-pilares.
+
+### EL ERROR DE FONDO: EL ACCESORIO ERA MÁS BARATO QUE EL INSTRUMENTO
+
+El pedal M-Vave sale **$87.139** y la guitarra criolla **$89.999**. La criolla estaba declarada "la más barata de las cinco" en la guía **y** en su propia ficha del commit anterior: seis lugares entre los dos archivos.
+
+La causa no fue distracción: fue tratar como homogéneo un grupo que mezcla instrumentos con accesorios. Y el margen era del 3%, así que ni siquiera hacía falta que Bright Data moviera mucho para romperlo.
+
+**La regla que quedó:** un superlativo de precio va acotado a la sub-clase homogénea, no al grupo entero. "La más barata de las tres guitarras" tiene saltos del 25% y aguanta el movimiento de precios. Para rangos, en vez de "de X a Y" (cuyo piso puede cambiar de producto), usar la relación entre extremos: "casi diez veces de diferencia" sigue siendo cierto aunque se den vuelta los dos más baratos.
+
+### LOS OTROS SUPERLATIVOS FALSOS, TODOS DEL MISMO TIPO
+
+- La electroacústica **no** tiene la base más grande de opiniones de los cinco: la Pioneer tiene 4.031 contra sus 3.842.
+- La eléctrica **no** es "la que más eligen los que arrancan": la electroacústica tiene más opiniones, 3.842 contra 3.475.
+- La Pioneer **no** es "la que más resuelve sola de los cinco". Ese lo introduje al corregir otro claim, y lo marcaron los dos auditores: es justamente la que más accesorios externos pide.
+
+El tercero es el que más enseña: **un parche puede introducir el error que venía a arreglar.** Ya había pasado el 2026-08-25 con Insta360.
+
+### LA AUDITORÍA: CINCO PASADAS HASTA EL GO DOBLE
+
+Codex y agy en paralelo, cinco rondas. agy dio GO en la cuarta; Codex tardó una más. Los dos fallaron la primera vez por infraestructura (Codex se cortó a los primeros comandos, agy dio error de red), y hubo que relanzarlos.
+
+Aportes que no habría encontrado solo:
+
+- **Negativas de spec sin fuente.** "Ninguna de las tres guitarras trae afinador" no es demostrable con la ficha de ML: que una fila no aparezca no prueba que el accesorio no venga. Todas pasaron a afirmar sobre lo que **la publicación lista**. La única taxativa que queda es la de la Pioneer, respaldada por su manual oficial.
+- **Contradicción con la propia tesis.** La guía repetía "ninguno viene completo" y a la vez decía que la eléctrica "trae todo lo necesario". Aparecía en cuatro lugares.
+- **El h2 desmentido por su propio cuerpo.** "Lo que ninguna caja trae" y tres párrafos abajo, que dos guitarras traen funda.
+- **Claim de mercado sin sostén.** "Las marcas internacionales casi no se consiguen en Argentina" — y el propio grupo incluye a Pioneer DJ, que es la marca de referencia del rubro DJ.
+- **Falta de literalidad.** La tabla decía "Solo el cable USB" para la Pioneer; la ficha dice "Cable USB, guía rápida y precauciones".
+- **La sección que faltaba (mejora de Codex, aplicada).** Un pilar de instrumentos musicales que solo habla de guitarras y DJ le debe al lector explicar por qué no están el teclado, el bajo ni la batería. Se agregó ese h2, y de paso ancla la expansión del silo.
+
+### EL BUG DE RENDER QUE NINGÚN CHECK AGARRA
+
+El `GuideRenderer` procesa `**negrita**` y links markdown, pero **no procesa la cursiva de un asterisco**: los dos `*"..."*` de citas de compradores salían con los asteriscos a la vista. `tsc`, `npm run build` y los nueve checks pasaban igual, porque para ellos es texto válido.
+
+Solo se ve levantando la página. Es una clase entera de bugs de formato sin trinquete automático.
+
+### VERIFICACIÓN
+
+`npx tsc --noEmit`, `npm run build` y los nueve checks corridos por separado (nunca encadenados con `&&`), todos en verde. Página levantada en local y revisada de punta a punta: los 5 product-cards, la tabla, las preguntas frecuentes y los tokens de precio resuelven bien, sin ningún `{{ }}` vivo en el texto visible. `/guias` renderiza el silo nuevo como "Música" y no como slug crudo, así que la entrada en `guideCategories` quedó bien puesta.
+
+### LO QUE QUEDA ABIERTO
+
+- **Publicar el pilar.** Está en STAGED 2026-09-25; publicar es dar vuelta las dos fechas.
+- **Al publicar, sumarle enlaces entrantes.** Una guía STAGED devuelve 404, así que los links desde otras guías se agregan recién ese día.
+- **Los tres sub-pilares**, cada uno con sus fichas y sus links `meli.la`, que los tiene que generar Juan.
+- **Sumar `musica` a `CATEGORY_NAV`** cuando el silo tenga 2 o 3 guías.
+- **Pushear.** Los cuatro commits están locales.
+
+---
 
 ## Sesión 2026-08-26 (b) — Osmo Pocket: silo nuevo, y 20 bloqueantes en cinco pasadas de auditoría
 
