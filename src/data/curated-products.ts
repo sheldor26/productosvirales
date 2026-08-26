@@ -1265,7 +1265,7 @@ export const curatedProducts: Product[] = [
     title: "Guitarra Eléctrica Femmto EG001 con Amplificador",
     canonicalName: "Femmto EG001",
     brand: "Femmto",
-    price: 199374,
+    price: 269999,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_855053-MLA114541961514_082026-O.webp",
     category: "Música",
