@@ -7,6 +7,34 @@
 > por filtrar de más. Mirar una vez por semana con criterio propio.
 > Entradas nuevas arriba.
 
+## 2026-08-26
+
+- **racing - boca juniors** — 1 M+ búsquedas (+1.000%, anteayer)
+- **licencia** — 50 mil+ búsquedas (+1.000%, 3 d)
+- **dolly parton** — 50 mil+ búsquedas (+1.000%, 19 h)
+- **declaración** — 20 mil+ búsquedas (+1.000%, 18 h)
+- **valentina pergolini** — 20 mil+ búsquedas (+1.000%, ayer)
+- **costa rica** — 20 mil+ búsquedas (+1.000%, anteayer)
+- **escuela** — 20 mil+ búsquedas (+1.000%, 11 h)
+- **movistar arena** — 20 mil+ búsquedas (+100%, ayer)
+- **tini** — 10 mil+ búsquedas (+1.000%, 17 h)
+- **línea 67** — 10 mil+ búsquedas (+1.000%, 21 h)
+- **cruzeiro - atlético mineiro** — 10 mil+ búsquedas (+1.000%, 14 h)
+- **camión de basura** — 10 mil+ búsquedas (+1.000%, 24 h)
+- **la campora** — 10 mil+ búsquedas (+1.000%, 17 h)
+- **us open** — 10 mil+ búsquedas (+500%, anteayer)
+- **gustavo costas** — 10 mil+ búsquedas (+1.000%, ayer)
+- **omar courtz** — 10 mil+ búsquedas (+600%, ayer)
+- **zonda** — 10 mil+ búsquedas (+1.000%, anteayer)
+- **max higgins** — 5 mil+ búsquedas (+1.000%, 19 h)
+- **guernica** — 5 mil+ búsquedas (+1.000%, 21 h)
+- **santiago del moro** — 5 mil+ búsquedas (+800%, 20 h)
+- **nepal** — 2 mil+ búsquedas (+1.000%, 2 h)
+- **boeing 777** — 2 mil+ búsquedas (+700%, 22 h)
+- **asado** — 2 mil+ búsquedas (+600%, 22 h)
+- **sindicato** — 2 mil+ búsquedas (+800%, 17 h)
+- **paula chaves** — 1 mil+ búsquedas (+1.000%, 1 h)
+
 ## 2026-07-08
 
 - **colombia vs suiza** — 1 M+ búsquedas (+1.000%, ayer)
