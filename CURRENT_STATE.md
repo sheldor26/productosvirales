@@ -1,7 +1,83 @@
 # Estado actual
 
 > Snapshot del proyecto. Se actualiza al final de cada sesión.
-> Última actualización: 2026-08-26 (silo nuevo `musica` con el pilar `instrumentos-musicales` en STAGED + 5 fichas, catálogo a 530, guías a 211; antes ese mismo día: silo `camaras-vlog` con `osmo-pocket-cual-comprar` en STAGED + 3 fichas, y `dji-cual-comprar` PUBLICADA + 3 fichas DJI). El 2026-08-25: silo de cámaras deportivas completo y en vivo con 16 fichas y 3 guías.
+> Última actualización: 2026-08-26 (silo nuevo `musica`: pilar `instrumentos-musicales` + sub-pilar `guitarra-criolla-precio`, los dos en STAGED, con 13 fichas entre los dos. Catálogo a 538, guías a 212; antes ese mismo día: silo `camaras-vlog` con `osmo-pocket-cual-comprar` en STAGED + 3 fichas, y `dji-cual-comprar` PUBLICADA + 3 fichas DJI). El 2026-08-25: silo de cámaras deportivas completo y en vivo con 16 fichas y 3 guías.
+
+## Sesión 2026-08-26 (d) — El sub-pilar de criolla, y el referente que caduca solo
+
+### LO QUE SE HIZO
+
+Tres commits más: `4488dd8` (sourcing de los sub-pilares), `8b6e035` (el plan + dos claims del pilar que quedaron engañosos) y `befbaed` (el sub-pilar de criolla con 8 fichas). Nada pusheado.
+
+La guía `guitarra-criolla-precio` queda **STAGED con fecha 2026-10-02**, silo `musica`, categoría de guía nueva `guitarras`. Guías 206 → 207 (contadas por slug). Catálogo 530 → 538.
+
+Las 8 fichas nuevas, verificadas a mano el 2026-08-26:
+
+| MLA | Producto | Precio | Rating | Calificaciones |
+|---|---|---|---|---|
+| MLA25482706 | Parquer 1/4 para niños | $87.308 | 4.6 | 98 |
+| MLA35245846 | Gadnic con estuche y afinador | $105.139 | 4.7 | 586 |
+| MLA47118056 | Parquer electrocriolla | $140.259 | 4.6 | 139 |
+| MLA68992218 | Rómulo García A-100 Plus | $149.531 | 5.0 | **6** |
+| MLA44345937 | Fonseca 25 | $224.627 | 4.8 | 146 |
+| MLA16059072 | Yamaha C40 | $389.700 | 4.8 | 1.244 |
+| MLA77260613 | Funda Sunset Music AB15 | $20.175 | 4.8 | 173 |
+| MLA21868235 | Encordado D'Addario EJ27N | $33.000 | 4.8 | 4.648 |
+
+### EL PLAN DE SUB-PILARES CAMBIÓ: SON DOS, NO TRES
+
+- **1º guitarra criolla** — "guitarra criolla precio" 1.900/mes SD 8. Va primera no por volumen sino porque su SERP lo rankean sitios de DA 1 a 16, o sea que no hay muro de autoridad, y porque el único competidor editorial del rubro no da precios.
+- **2º guitarra eléctrica** — más volumen (22.200) pero hay que resolver antes el lío de las dos fichas de catálogo de la EG001.
+- **3º ukelele**, en el lugar que iba a ocupar DJ.
+- **DJ se cae.** Mide 880/mes, no los 11-12k que teníamos. Y el motivo no es la góndola: la razón es que **la dificultad está invertida** (cabeza SD 7-11 pero todo catálogo de tienda; cola editorial SD 36-44). Cuando la cola es más difícil que la cabeza, el buscador quiere un catálogo, no un documento.
+
+**El formato que gana es "cuánto sale", no "cuál comprar".** La familia de precio suma 3.400/mes con SD 7-9; todo el racimo "mejor guitarra criolla" junto no llega a 400/mes con SD 21-36. Y la plata está en los accesorios: cuerdas, fundas y clavijas suman 5.400/mes.
+
+### DOS ERRORES DE MÉTODO PROPIOS
+
+**1. Confundí el top de más vendidos con la góndola.** Miré `/mas-vendidos/MLA417638`, que devuelve cuatro productos de una sola marca, y escribí que "la góndola de guitarras la domina una sola marca". El listado completo tiene 4.810 criollas nuevas con Yamaha (273 publicaciones), Fonseca, Gracia y La Alpujarra, y más de 9.999 eléctricas con Epiphone, Ibanez y Fender. **Las marcas internacionales sí están.** El top de ventas está sesgado hacia lo barato.
+
+Eso obligó a corregir dos afirmaciones del pilar que ya estaban commiteadas: la que decía que en el tramo de entrada aparecen "marcas económicas, no las que uno tiene en la cabeza", y la que ponía "arriba de $812.000" como entrada al DJ cuando hay controladoras Pioneer a $383.922 y Numark a $239.994.
+
+**2. La eléctrica EG001 salía 35% más de lo que decía el catálogo.** $269.999 contra los $199.374 que teníamos, y la ficha ya tenía `priceVerifiedAt` de hoy con el valor viejo, así que el guard la iba a proteger de cualquier corrección automática por siete días.
+
+### EL PATRÓN QUE SE REPITIÓ POR TERCERA VEZ
+
+Seis pasadas de auditoría, y el error de fondo fue otra vez el referente contra un grupo no homogéneo. El grupo mezcla siete guitarras con dos accesorios, y adentro hay seis de 4/4 y **una de 1/4 que es la más barata de todas**. Por eso "arranca en $89.999" era falso en cinco lugares.
+
+Pero apareció una variante nueva y peor: **el referente que caduca solo.** La ficha de la Femmto CG001, escrita para el pilar, decía "la más barata de las tres guitarras del catálogo". Era cierto con tres guitarras. Al sumar el sub-pilar el catálogo pasó a siete y la frase quedó falsa **sin que nadie la tocara.**
+
+Otros hallazgos reales de los auditores:
+
+- La Fonseca **no** tiene "el rating más alto del grupo": la Rómulo García tiene 5.0, aunque sea sobre seis calificaciones. Estaba en cuatro lugares.
+- La Yamaha **no** es "la única que no trae funda": es la única cuya ficha lo **declara**. La Fonseca y la Rómulo tampoco la listan.
+- "Casi ninguna incluye funda" era falso al revés: **cuatro de las siete** listan funda o estuche.
+- La tapa de abeto de la Yamaha **no** es única: la Parquer electrocriolla también la declara.
+- La tapa de pino no es del tramo de entrada sino del medio.
+- El salto entre tramos no es "alrededor del 50%": es 1,33x del techo de entrada al piso del medio y 2,50x de la entrada al techo del medio.
+- La tabla imprimía "4/4" limpio para las dos fichas cuya contradicción la propia guía declara.
+
+### TRES FICHAS TÉCNICAS ROTAS, PUBLICADAS COMO CONTRADICCIÓN
+
+- **Gadnic:** declara **5 cuerdas** (una criolla lleva 6) y declara **Es infantil: Sí** junto con tamaño 4/4.
+- **Parquer electrocriolla:** declara forma del cuerpo **Jumbo**, que es de acústica folk, y su resumen de opiniones la llama para niños mientras la ficha dice que no lo es.
+- **Yamaha C40:** declara un **conector Jack de 1/4** cuando es una criolla clásica sin electrónica.
+
+Ninguno se publica como dato: los tres van declarados como contradicción, y en la tabla las dos con el tamaño en duda dicen "4/4, dato dudoso".
+
+### VERIFICACIÓN
+
+`tsc --noEmit`, `npm run build` y los nueve checks corridos por separado, en verde. Los 8 links `meli.la` abiertos uno por uno: los ocho caen en la landing de afiliados y renderizan el producto correcto, ninguno excluido del Programa. Las 8 imágenes con GET real (el CDN de ML responde 405 a HEAD). Página levantada en local y leída entera.
+
+### LO QUE QUEDA ABIERTO
+
+- **Publicar los dos**, que es dar vuelta las fechas. Al publicarlos hay que **cruzar los enlaces** entre pilar y sub-pilar en el mismo commit, porque hasta ese día cada uno devuelve 404 para el otro.
+- **La poda del pilar**, pieza por pieza, anotada en `docs/clusters/instrumentos/sourcing-sub-pilares.md`. Va en el mismo commit que la publicación del sub-pilar, ni antes ni después.
+- **Decidir cuál ficha de la EG001 manda**: la azul a $269.999 con estuche o la negra a $191.384 sin estuche, que es la Nº1 más vendida de eléctricas.
+- **Sumar `musica` a `CATEGORY_NAV`.**
+- **Pushear.** Nueve commits locales.
+
+---
 
 ## Sesión 2026-08-26 (c) — El silo de música, y el accesorio que salía menos que el instrumento
 
