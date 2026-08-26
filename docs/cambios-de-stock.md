@@ -7,6 +7,15 @@
 > 🔴 = se quedo sin stock (el link de afiliado apunta a una pagina pausada).
 > Entradas nuevas arriba.
 
+## 2026-08-26
+
+- 🟢 VOLVIO EL STOCK — **MLA19630911** Freidora de aire 6,2 Litros Philips Essential HD927091 Negro
+  - ML: https://www.mercadolibre.com.ar/freidora-de-aire-62-litros-philips-essential-hd927091-negro/p/MLA19630911
+  - Sitio: https://productosvirales.com.ar/producto/MLA19630911
+- 🟢 VOLVIO EL STOCK — **MLA18562154** Cafetera express Smartlife SL-EC8501 20 bares con espumador
+  - ML: https://www.mercadolibre.com.ar/p/MLA22761858
+  - Sitio: https://productosvirales.com.ar/producto/MLA18562154
+
 ## 2026-08-24
 
 - 🟢 VOLVIO EL STOCK — **MLA27077238** Máquina Cortar Papas Bastón 2 Cuchillas — Palanca Metal + PVC
