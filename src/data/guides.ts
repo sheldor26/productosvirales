@@ -96,7 +96,7 @@ export const guides: Guide[] = [
         `**Línea X:** las cámaras 360 con dos lentes. Son la [X3](/producto/camara-360-insta360-x3-mla19710677), la [X4](/producto/camara-360-insta360-x4-mla36223181), la [X4 Air](/producto/camara-360-insta360-x4-air-mla62879003) y la [X5](/producto/camara-360-insta360-x5-mla49100446) de esta guía, más la X6 que salió en agosto de 2026.`,
         `**Línea GO:** las diminutas de primera persona, que se cuelgan de la ropa. Acá la representa la [GO 3S](/producto/camara-insta360-go-3s-mla39997069). El modelo actual de esa línea es la GO Ultra.`,
         `**Línea Ace:** cámaras de acción tradicionales, rectangulares y con pantalla, que compiten de frente con la GoPro HERO. El modelo actual de esa línea es la Ace Pro 2.`,
-        `**Línea Luna:** cámaras de bolsillo con estabilizador de tres ejes integrado, que compiten con la DJI Osmo Pocket. Debutó en junio de 2026.`,
+        `**Línea Luna:** cámaras de bolsillo con estabilizador de tres ejes integrado, que compiten con la [DJI Osmo Pocket](/guias/tech/osmo-pocket-cual-comprar). Debutó en junio de 2026.`,
       ] },
       { type: "p", content: `De esas cuatro, en las publicaciones que verificamos con stock nacional aparecen la línea X y la línea GO. Si lo que buscás es una cámara de acción rectangular clásica, esa es otra categoría entera y la comparamos en nuestra [guía de cámaras deportivas](/guias/tech/camara-deportiva).` },
       { type: "h2", title: `Los lentes reemplazables: quién los tiene y quién no` },
@@ -159,6 +159,134 @@ export const guides: Guide[] = [
       { label: `Cámara deportiva: cuál comprar en Argentina`, href: `/guias/tech/camara-deportiva` },
       { label: `Qué GoPro comprar: 6 modelos comparados`, href: `/guias/tech/gopro-cual-comprar` },
       { label: `Qué DJI comprar: 5 modelos comparados`, href: `/guias/tech/dji-cual-comprar` },
+      { label: `Qué Osmo Pocket comprar: Pocket 3 o Pocket 4`, href: `/guias/tech/osmo-pocket-cual-comprar` },
+    ],
+  },
+  {
+    slug: "osmo-pocket-cual-comprar",
+    category: "camaras-vlog",
+    silo: "tech",
+    pillar: true,
+    title: `Qué Osmo Pocket comprar en Argentina [2026]: Pocket 3 o Pocket 4`,
+    h1: `Qué Osmo Pocket comprar en Argentina [2026]: Pocket 3 o Pocket 4`,
+    seoTitle: `Qué Osmo Pocket Comprar en Argentina [2026]: 3 o 4`,
+    metaDescription: `3 DJI Osmo Pocket con stock real verificado en Argentina, de {{precio:MLA39393179:k}} a {{precio:MLA68229126:k}}. Cuál trae memoria adentro, cuál te obliga a comprar la tarjeta aparte y qué cambia de verdad entre generaciones.`,
+    ogTitle: `Qué Osmo Pocket comprar en Argentina: Pocket 3 o Pocket 4`,
+    ogDescription: `Pocket 3 y Pocket 4 comparadas contra las fichas oficiales de DJI. Con el dato que ninguna publicación aclara y que te deja sin grabar el primer día.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_662975-MLA109312149246_042026-O.webp`,
+    directAnswer: `Para la mayoría conviene la **[DJI Osmo Pocket 3](/producto/camara-dji-osmo-pocket-3-combo-estandar-mla39393179)** (alrededor de {{precio:MLA39393179:k}}): tiene el **mismo gimbal, la misma lente y un sensor del mismo tamaño, 1 pulgada,** que la Pocket 4, que sale {{preciodif:MLA68229126:MLA39393179}} más. Si no tenés micrófono, el **[pack con Mic](/producto/camara-dji-osmo-pocket-3-pack-creadores-mla37134971)** suma el accesorio que más cambia el uso y es la DJI más probada del sitio, con {{reviews:MLA37134971}} opiniones. Y la **[Osmo Pocket 4](/producto/camara-dji-osmo-pocket-4-creator-combo-mla68229126)** solo si te importan sus 107 GB de memoria interna y la foto de 37 MP. Ojo con una cosa antes de comprar: **la Pocket 3 no trae memoria adentro y la tarjeta no viene en la caja.**`,
+    publishedDate: "2026-08-26",
+    updatedDate: "2026-08-26",
+    hasDisclosure: true,
+    readingTime: 10,
+    standfirst: `Las tres DJI Osmo Pocket que verificamos con stock real en Argentina van de {{precio:MLA39393179:k}} a {{precio:MLA68229126:k}}. El problema para elegir no es cuál graba mejor: las dos generaciones comparten gimbal, lente y tamaño de sensor. Es que una trae memoria adentro y la otra no, y que acá el salto al combo con micrófono es de {{preciodif:MLA37134971:MLA39393179}} sobre una base de {{precio:MLA39393179:k}}, una proporción bastante más alta que el 26% del Creator Combo en la tienda de DJI.`,
+    quickPicks: [
+      { productMlaId: "MLA39393179", label: "Mejor elección general", labelColor: "green", tagline: "Osmo Pocket 3: mismo gimbal y mismo tamaño de sensor que la Pocket 4, por {{preciodif:MLA68229126:MLA39393179}} menos" },
+      { productMlaId: "MLA37134971", label: "La más probada", labelColor: "blue", tagline: "Pocket 3 con micrófono: la DJI con más opiniones de todo el sitio" },
+      { productMlaId: "MLA68229126", label: "La más nueva", labelColor: "purple", tagline: "Osmo Pocket 4: 107 GB adentro y foto de 37 MP" },
+    ],
+    intro: [
+      `Una Osmo Pocket no es una cámara de acción. No está pensada para mojarse, no se cuelga de un casco y no sirve para tirarse de una tirolesa. Es un gimbal mecánico de tres ejes con una cámara arriba, pensado para una cosa: que puedas grabarte caminando y hablando sin que la imagen tiemble. En nuestro catálogo no hay otra cámara de bolsillo con gimbal de tres ejes.`,
+      `Fuimos a las fichas oficiales de DJI y a los manuales de las dos generaciones, y apareció el dato que ninguna publicación de MercadoLibre aclara: **la Osmo Pocket 3 no tiene un solo byte de memoria interna, y la tarjeta no viene en la caja**. Sin una microSD V30 comprada aparte, la cámara que te acaba de costar más de un millón de pesos no graba ni un segundo. Abajo están las tres con precios en vivo.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_662975-MLA109312149246_042026-O.webp", alt: `DJI Osmo Pocket 3, la elección general de esta guía de cámaras para vlog`, imageSize: "hero" },
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, la **[Osmo Pocket 3](/producto/camara-dji-osmo-pocket-3-combo-estandar-mla39393179)**: comparte con la Pocket 4 el **gimbal, la lente y el tamaño de sensor, 1 pulgada**, por {{preciodif:MLA68229126:MLA39393179}} menos. Si no tenés micrófono inalámbrico, el **[pack con Mic](/producto/camara-dji-osmo-pocket-3-pack-creadores-mla37134971)** lo suma y tiene {{reviews:MLA37134971}} opiniones. La **[Pocket 4](/producto/camara-dji-osmo-pocket-4-creator-combo-mla68229126)** vale la pena si te importan los **107 GB internos** o la foto de 37 MP. Y a las dos Pocket 3 hay que sumarles una **microSD V30**, que no viene incluida.` },
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** partimos de la tienda oficial de DJI en MercadoLibre Argentina y verificamos una por una que las tres estuvieran comprables, con stock nacional. Las specs las cruzamos contra dji.com y los manuales oficiales de cada modelo, nunca contra el texto del vendedor: la ficha técnica de dos de estas publicaciones declara un sensor de 1/2,3 pulgadas cuando el real es de 1 pulgada, y una de ellas declara el peso en kilos. Los precios se revisan contra MercadoLibre tres veces por semana.` },
+      { type: "h2", title: `Las 3 Osmo Pocket que comparamos`, id: "ranking" },
+
+      { type: "p", content: `**La anterior, y la que más conviene**` },
+      { type: "h3", title: `DJI Osmo Pocket 3` },
+      { type: "product-card", productMlaId: "MLA39393179", label: "Mejor elección general", labelColor: "green", ranking: 1, description: `Mismo gimbal, misma lente y mismo tamaño de sensor, 1 pulgada, que la Pocket 4, por {{preciodif:MLA68229126:MLA39393179}} menos. {{rating:MLA39393179}} estrellas en {{reviews:MLA39393179}} opiniones.` },
+      { type: "p", content: `Graba 4K a 60 cuadros por segundo con un sensor de **1 pulgada**, que es grande para una cámara de este tamaño, y una lente de 20 mm equivalente con apertura f/2.0 fija. La pantalla táctil de 2 pulgadas **rota**: al girarla la cámara arranca a grabar y cambia sola a vertical, que es el gesto que define a esta línea.` },
+      { type: "p", content: `Y acá está el punto de esta guía. La [Osmo Pocket 4](/producto/camara-dji-osmo-pocket-4-creator-combo-mla68229126) cuesta {{preciodif:MLA68229126:MLA39393179}} más y **comparte con esta el tamaño de sensor, 1 pulgada, la lente entera y el gimbal**: los rangos de movimiento y la vibración angular son los mismos números en las fichas de DJI. Lo que sube en la 4 es el procesado, no la óptica ni el estabilizador.` },
+      { type: "p", content: `Las contras. Es de octubre de 2023. Sus 166 minutos de autonomía están medidos en 1080p a 24 cuadros con la pantalla y el Wi-Fi apagados: **grabando 4K a 60, DJI declara 116**. Y la de arriba de todo, que va aparte.` },
+      { type: "callout", calloutVariant: "warning", calloutTitle: "Sin tarjeta no graba nada", content: `La Osmo Pocket 3 **no tiene memoria interna**. DJI lo dice explícito en su ficha, y la microSD **no viene en la caja**. Además no sirve cualquiera: pide clasificación **V30 o U3**. Si la comprás sin tarjeta, la cámara llega y no podés grabar ni un segundo hasta que consigas una. Es el gasto extra que ninguna publicación te aclara.` },
+
+      { type: "p", content: `**La misma cámara, con el accesorio que de verdad cambia el uso**` },
+      { type: "h3", title: `DJI Osmo Pocket 3 con micrófono` },
+      { type: "product-card", productMlaId: "MLA37134971", label: "La más probada", labelColor: "blue", ranking: 2, description: `La DJI con más opiniones de todo el sitio, y suma micrófono inalámbrico. {{rating:MLA37134971}} estrellas en {{reviews:MLA37134971}} opiniones.` },
+      { type: "p", content: `La cámara adentro de la caja es **exactamente la misma** que la de arriba: mismo sensor, mismo gimbal, misma batería. Lo que cambia es que suma **micrófono inalámbrico DJI Mic**, y en una cámara pensada para grabarte hablando ese es el accesorio que más cambia el resultado. Cuántas piezas trae exactamente hay que verificarlo en la foto de la publicación, y abajo está el porqué.` },
+      { type: "p", content: `Su número fuerte es la evidencia: **{{reviews:MLA37134971}} opiniones**, contra {{reviews:MLA39393179}} del combo básico. Es la cámara DJI más probada de todo nuestro catálogo, incluidas las de acción y las 360.` },
+      { type: "callout", calloutVariant: "warning", calloutTitle: "Contá los transmisores en la foto", content: `**DJI no vende ningún paquete llamado así.** Los combos oficiales de la Pocket 3 son el básico, el Creator Combo (que trae **un** transmisor Mic 2) y cuatro Vlog Combo, de los cuales tres traen **un** solo transmisor y uno trae el sistema completo con **dos** más receptor y estuche de carga. Antes de comprar, mirá la foto de la publicación y contá cuántos transmisores entran. Y si citan autonomía del micrófono, la del transmisor Mic 2 solo es de 6 horas: las 18 que figuran en la web de DJI son del conjunto con estuche de carga.` },
+
+      { type: "p", content: `**La única de las tres que graba desde el minuto cero**` },
+      { type: "h3", title: `DJI Osmo Pocket 4` },
+      { type: "product-card", productMlaId: "MLA68229126", label: "La más nueva", labelColor: "purple", ranking: 3, description: `107 GB de memoria interna y foto de 37 MP. Es la cámara DJI más nueva del sitio. {{rating:MLA68229126}} estrellas en {{reviews:MLA68229126}} opiniones.` },
+      { type: "p", content: `Salió en abril de 2026 y arregla el problema más molesto de la línea: **trae 107 GB de memoria interna utilizables**, así que graba desde que la sacás de la caja sin comprar tarjeta. Suma además foto de unos **37 MP** contra los 9,4 de la Pocket 3, casi cuatro veces más, y **240 minutos** de autonomía declarada contra 166, medidos los dos de la misma forma.` },
+      { type: "p", content: `Su pantalla llega a 1000 candelas por metro cuadrado contra las 700 de la Pocket 3, un 43% más brillante, que es la diferencia entre ver o no ver lo que estás encuadrando a pleno sol.` },
+      { type: "p", content: `La contra es la que ordena toda esta guía: **el gimbal, la lente y el tamaño de sensor son los mismos de la Pocket 3**. Y es la cámara más cara de nuestro catálogo.` },
+
+      { type: "h2", title: `Qué cambia de la Pocket 3 a la Pocket 4, y qué no` },
+      { type: "p", content: `Las dos generaciones conviven con stock y sus publicaciones no ayudan a ver qué separa a una de otra. Esto es lo que **sí** cambia:` },
+      { type: "list", items: [
+        `**Memoria interna.** Es el cambio más concreto. La Pocket 3 no tiene ninguna; la Pocket 4 trae 107 GB utilizables. Es la primera Osmo Pocket con memoria propia.`,
+        `**Foto.** De unos 9,4 MP a unos 37 MP declarados por DJI, casi cuatro veces más.`,
+        `**Autonomía.** De 166 a 240 minutos, con la misma metodología de medición. Un 45% más.`,
+        `**Brillo de pantalla.** De 700 a 1000 candelas por metro cuadrado.`,
+        `**Cámara lenta.** En 4K, de 120 a hasta 240 cuadros por segundo.`,
+        `**Seguimiento.** ActiveTrack pasa de 6.0 a 7.0, y suma bloqueo de sujeto.`,
+      ] },
+      { type: "p", content: `Y esto es lo que **queda igual**, que para decidir importa tanto o más:` },
+      { type: "list", items: [
+        `**La lente entera.** 20 mm equivalente, f/2.0, enfoque desde 0,2 metros. Idénticas.`,
+        `**El tamaño del sensor.** Las dos son de 1 pulgada. Cambia la resolución, no el tamaño.`,
+        `**El gimbal.** Los rangos controlables y la vibración angular son los mismos números. El estabilizador, que es el corazón de una Osmo Pocket, no cambió.`,
+        `**El video normal.** Las dos llegan a 4K a 60 cuadros por segundo y ninguna pasa de ahí.`,
+        `**La pantalla.** Mismas 2 pulgadas y misma resolución. Solo cambió el brillo.`,
+        `**Los micrófonos.** Tres integrados en las dos, con el mismo audio.`,
+      ] },
+      { type: "callout", calloutVariant: "warning", calloutTitle: "El 4K a 240 cuadros es solo cámara lenta", content: `Las publicaciones anuncian "4K/240 fps" en la Pocket 4 y "4K/120" en la Pocket 3 como si fuera el techo de grabación. No lo es: **esos números son exclusivos del modo cámara lenta.** En video normal las dos cámaras llegan a 4K a 60 cuadros por segundo, y ninguna de las dos pasa de ahí.` },
+
+      { type: "h2", title: `Combo básico o con accesorios: la cuenta que acá se da vuelta` },
+      { type: "p", content: `En la tienda oficial de DJI, el paquete base de la Pocket 3 sale 499 dólares y el Creator Combo 629. Son **130 dólares de diferencia**, un 26% más. Y esos accesorios comprados sueltos en la misma tienda suman 252 dólares: casi el doble que la brecha del combo. Con los precios de DJI, **el combo con accesorios es el camino barato**.` },
+      { type: "p", content: `En Argentina la cuenta se da vuelta. Acá el salto entre el combo básico y el que suma micrófono es de {{preciodif:MLA37134971:MLA39393179}}, sobre una base de {{precio:MLA39393179:k}}. Es una proporción bastante más alta que el 26% de la tienda oficial. Traducido: **el argumento de "el combo sale más a cuenta" que vale afuera no se traslada automáticamente acá**, y conviene hacer la cuenta con lo que ya tenés.` },
+      { type: "p", content: `Lo que sí trae el paquete base de la Pocket 3, según DJI: la cámara, un cable USB-C, la cubierta protectora, la correa de muñeca y el mango con rosca de 1/4 de pulgada. **Cinco piezas, y ninguna es una tarjeta de memoria.** Un comprador argentino del combo básico dejó escrito en las reseñas que la publicación mencionaba un trípode que no venía en la caja.` },
+
+      { type: "h2", title: `Cuánto cuesta una Osmo Pocket` },
+      { type: "list", items: [
+        `**Desde {{precio:MLA39393179:k}}:** la [Osmo Pocket 3](/producto/camara-dji-osmo-pocket-3-combo-estandar-mla39393179) en su paquete base. Hay que sumarle una microSD V30 desde el primer día.`,
+        `**Alrededor de {{precio:MLA37134971:k}}:** la [misma Pocket 3 con micrófono inalámbrico](/producto/camara-dji-osmo-pocket-3-pack-creadores-mla37134971), que es la DJI con más opiniones del sitio.`,
+        `**A {{precio:MLA68229126:k}}:** la [Osmo Pocket 4](/producto/camara-dji-osmo-pocket-4-creator-combo-mla68229126), la primera Osmo Pocket con memoria interna y la cámara más cara de nuestro catálogo.`,
+      ] },
+
+      { type: "table", headers: [`Modelo`, `Precio`, `Sensor`, `Memoria interna`, `Autonomía declarada`, `Ideal para`], rows: [
+        [`[DJI Osmo Pocket 3](https://meli.la/1mFyVcB)`, `{{precio:MLA39393179}}`, `1 pulgada`, `**No trae**`, `166 min (116 en 4K/60)`, `El gimbal de DJI gastando lo mínimo`],
+        [`[Osmo Pocket 3 con micrófono](https://meli.la/1KuDocK)`, `{{precio:MLA37134971}}`, `1 pulgada`, `**No trae**`, `166 min (116 en 4K/60)`, `Grabarte hablando, con la mayor evidencia de uso`],
+        [`[DJI Osmo Pocket 4](https://meli.la/2M4iC1d)`, `{{precio:MLA68229126}}`, `1 pulgada`, `**107 GB**`, `240 min`, `Grabar desde el minuto cero, sin comprar tarjeta`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir` },
+      { type: "h3", title: `Primero, si ya tenés tarjeta de memoria` },
+      { type: "p", content: `Es la pregunta que más plata mueve y la que nadie hace. Si tenés una microSD V30 o U3 dando vueltas, las dos Pocket 3 se vuelven bastante más baratas de lo que parecen. Si no la tenés, sumale ese gasto al precio de las dos, o mirá directamente la Pocket 4, que trae 107 GB adentro.` },
+      { type: "h3", title: `Segundo, si necesitás micrófono` },
+      { type: "p", content: `Una Osmo Pocket se usa para grabarte hablando, y ahí el audio importa tanto como la imagen. Los tres micrófonos integrados alcanzan si estás cerca. Si vas a filmar caminando, en la calle o a más de un metro de la cámara, el transmisor inalámbrico deja de ser un accesorio y pasa a ser la diferencia entre un video usable y uno que no.` },
+      { type: "h3", title: `Tercero, cuánta evidencia de uso querés` },
+      { type: "p", content: `El pack con micrófono tiene {{reviews:MLA37134971}} opiniones, la Pocket 4 {{reviews:MLA68229126}} y el combo básico {{reviews:MLA39393179}}. Si preferís comprar algo que ya usó mucha gente antes que la generación más nueva, ese número pesa tanto como las specs.` },
+      { type: "h3", title: `Recién al final, la resolución` },
+      { type: "p", content: `Las tres graban 4K a 60 cuadros por segundo en video normal y ninguna pasa de ahí. Es lo que más aparece en los títulos de las publicaciones y lo que menos las separa entre sí. La diferencia real está en la memoria, en el micrófono y en la foto.` },
+
+      { type: "verdict", content: `Para la mayoría, la **[DJI Osmo Pocket 3](/producto/camara-dji-osmo-pocket-3-combo-estandar-mla39393179)**: tiene el mismo gimbal, la misma lente y el mismo tamaño de sensor, 1 pulgada, que la Pocket 4, por {{preciodif:MLA68229126:MLA39393179}} menos. Si no tenés micrófono inalámbrico, el **[pack que lo incluye](/producto/camara-dji-osmo-pocket-3-pack-creadores-mla37134971)** suma el accesorio que más cambia el resultado en una cámara para grabarte hablando, y es la DJI más probada del sitio con {{reviews:MLA37134971}} opiniones. La **[Osmo Pocket 4](/producto/camara-dji-osmo-pocket-4-creator-combo-mla68229126)** se justifica si te importan sus 107 GB internos, la foto de 37 MP o el 45% más de autonomía, sabiendo que la óptica y el estabilizador son los mismos. Y valga para las dos Pocket 3: **presupuestá también la microSD**, porque no viene en la caja y sin ella no graban nada.` },
+    ],
+    faq: [
+      { question: `¿La DJI Osmo Pocket 3 trae memoria interna?`, answer: `No, y es el dato más importante antes de comprarla. DJI lo declara explícito en su ficha oficial: la [Osmo Pocket 3](/producto/camara-dji-osmo-pocket-3-combo-estandar-mla39393179) **no tiene memoria integrada**, y la microSD **no viene en la caja**. Además pide una tarjeta con clasificación **V30 o U3**, no sirve cualquiera. La [Osmo Pocket 4](/producto/camara-dji-osmo-pocket-4-creator-combo-mla68229126) sí trae 107 GB internos utilizables, así que graba desde el primer momento.` },
+      { question: `¿Qué diferencia hay entre la Osmo Pocket 3 y la Pocket 4?`, answer: `Menos de lo que sugiere el precio. Las dos comparten **el tamaño de sensor, 1 pulgada, la lente de 20 mm f/2.0 y el gimbal de tres ejes**, con los mismos rangos de movimiento. El sensor de la Pocket 4 es distinto, pero de la misma medida. Las dos graban 4K a 60 cuadros por segundo en video normal. Lo que suma la [Pocket 4](/producto/camara-dji-osmo-pocket-4-creator-combo-mla68229126): 107 GB de memoria interna, foto de unos 37 MP contra 9,4, 240 minutos de autonomía contra 166, pantalla un 43% más brillante y cámara lenta en 4K hasta 240 cuadros.` },
+      { question: `¿Es cierto que la Osmo Pocket 4 graba en 4K a 240 cuadros por segundo?`, answer: `Sí, pero **solo en modo cámara lenta**, y las publicaciones no lo aclaran. En grabación normal la Pocket 4 llega a 4K a 60 cuadros por segundo, exactamente igual que la [Pocket 3](/producto/camara-dji-osmo-pocket-3-combo-estandar-mla39393179). Lo mismo vale para el "4K a 120" que anuncian algunas publicaciones de la Pocket 3: es su modo de cámara lenta, no su techo de grabación.` },
+      { question: `¿Cuál es la Osmo Pocket más barata que se consigue en Argentina?`, answer: `De las tres que verificamos con stock nacional, la [Osmo Pocket 3](/producto/camara-dji-osmo-pocket-3-combo-estandar-mla39393179) en su paquete base, a {{precio:MLA39393179}}. Comparte con la Pocket 4 el tamaño de sensor, la lente y el gimbal, así que no se queda atrás en lo que define a esta cámara. Acordate de sumarle el costo de una microSD V30, que no viene incluida.` },
+      { question: `¿Qué trae la caja de la Osmo Pocket 3?`, answer: `Según DJI, el paquete base trae cinco piezas: la cámara, un cable USB-C, la cubierta protectora, la correa de muñeca y el mango con rosca de 1/4 de pulgada. **No trae tarjeta de memoria ni trípode.** Los paquetes con más accesorios suman micrófono, lente gran angular, mango con batería extra, mini trípode y bolso, según cuál sea. Vale la pena mirar la foto de cada publicación y contar las piezas.` },
+      { question: `¿Qué tarjeta de memoria necesita la Osmo Pocket 3, y de cuántos GB?`, answer: `DJI pide una microSD con clasificación **V30 o U3**: una tarjeta común más lenta no le sigue el ritmo al 4K. Acepta hasta 1 TB. Sobre la capacidad, la cuenta sale de su bitrate máximo declarado, 130 Mbps: **una tarjeta de 128 GB da alrededor de dos horas y cuarto de grabación** y una de 64 GB, poco más de una hora. Es una cuenta nuestra a partir de ese bitrate, no un dato de fábrica, y el consumo real cambia según el modo. El detalle que la vuelve fácil: la [Osmo Pocket 3](/producto/camara-dji-osmo-pocket-3-combo-estandar-mla39393179) declara 116 minutos de batería grabando en 4K a 60, así que **con 128 GB la tarjeta te va a durar más que la carga** y no tiene mucho sentido gastar en una más grande.` },
+      { question: `¿Necesito comprar un micrófono aparte para una Osmo Pocket?`, answer: `Depende de cómo filmes. Las dos generaciones traen **tres micrófonos integrados**, que alcanzan si hablás cerca de la cámara. Si vas a grabar caminando, en la calle o a más de un metro, conviene un transmisor inalámbrico. En la Pocket 3 se enlaza por Bluetooth directo a la cámara, sin receptor. El [pack con micrófono](/producto/camara-dji-osmo-pocket-3-pack-creadores-mla37134971) lo suma, aunque cuántos transmisores entran en la caja conviene contarlos en la foto de la publicación.` },
+      { question: `¿Una Osmo Pocket sirve para deportes o para el agua?`, answer: `No. DJI no le declara ninguna resistencia al agua a ninguna de las dos, y su gimbal mecánico va expuesto: no está pensada para el agua, para colgarse de un casco ni para golpes. Es una cámara para grabarte hablando y caminando. Si lo que buscás es una cámara que se moje y aguante, esa es otra categoría y la comparamos en nuestra [guía de cámaras deportivas](/guias/tech/camara-deportiva).` },
+      { question: `¿Cuál es la Osmo Pocket más nueva?`, answer: `De las tres que verificamos con stock nacional, la [Osmo Pocket 4](/producto/camara-dji-osmo-pocket-4-creator-combo-mla68229126), que salió el 22 de abril de 2026. Es además la cámara DJI más nueva de todo nuestro catálogo. La [Pocket 3](/producto/camara-dji-osmo-pocket-3-combo-estandar-mla39393179) es de octubre de 2023, pero sigue con stock y comparte con la nueva el gimbal, la lente y el tamaño de sensor, así que ser más vieja no la deja fuera de juego.` },
+    ],
+    internalLinks: [
+      { label: `DJI Osmo Pocket 3: ficha y opiniones`, href: `/producto/camara-dji-osmo-pocket-3-combo-estandar-mla39393179` },
+      { label: `DJI Osmo Pocket 3 con micrófono: ficha y opiniones`, href: `/producto/camara-dji-osmo-pocket-3-pack-creadores-mla37134971` },
+      { label: `DJI Osmo Pocket 4: ficha y opiniones`, href: `/producto/camara-dji-osmo-pocket-4-creator-combo-mla68229126` },
+      { label: `Qué DJI comprar: 5 modelos comparados`, href: `/guias/tech/dji-cual-comprar` },
+      { label: `Cámara deportiva: cuál comprar en Argentina`, href: `/guias/tech/camara-deportiva` },
+      { label: `Qué Insta360 comprar: 6 opciones comparadas`, href: `/guias/tech/insta360-cual-comprar` },
+      { label: `Qué GoPro comprar: los 6 modelos comparados`, href: `/guias/tech/gopro-cual-comprar` },
     ],
   },
   {
@@ -168,7 +296,7 @@ export const guides: Guide[] = [
     title: `Qué DJI comprar en Argentina [2026]: 5 modelos comparados`,
     h1: `Qué DJI comprar en Argentina [2026]: 5 modelos comparados`,
     seoTitle: `Qué DJI Comprar en Argentina [2026]: Guía por Modelo`,
-    metaDescription: `5 cámaras DJI con stock real verificado en Argentina, de {{precio:MLA29364436:k}} a {{precio:MLA62340610:k}}. Cuál graba 4K a 120 cuadros, cuál se moja 20 metros y por qué la Action 5 Pro conviene más que la Action 6.`,
+    metaDescription: `5 cámaras DJI de acción y 360 con stock real verificado en Argentina, de {{precio:MLA29364436:k}} a {{precio:MLA62340610:k}}. Cuál graba 4K a 120 cuadros, cuál se moja 20 metros y por qué la Action 5 Pro conviene más que la Action 6.`,
     ogTitle: `Qué DJI comprar en Argentina: 5 opciones comparadas`,
     ogDescription: `Osmo Action 4, 5 Pro y 6, Osmo 360 y Osmo Nano comparadas. Con los dos datos que MercadoLibre declara mal y que deciden la compra.`,
     ogImage: `https://http2.mlstatic.com/D_NQ_NP_855156-MLA107408029988_032026-O.webp`,
@@ -177,7 +305,7 @@ export const guides: Guide[] = [
     updatedDate: "2026-08-26",
     hasDisclosure: true,
     readingTime: 11,
-    standfirst: `Las cinco cámaras DJI que verificamos con stock real en Argentina van de {{precio:MLA29364436:k}} a {{precio:MLA62340610:k}}. El problema para elegir no es el precio: es que DJI mete cuatro formas de cámara distintas bajo un mismo nombre, Osmo, así que "quiero una DJI" no dice casi nada. La decisión se toma con dos datos, y los dos están mal cargados en las publicaciones de MercadoLibre.`,
+    standfirst: `Las cinco cámaras DJI de acción y 360 que verificamos con stock real en Argentina van de {{precio:MLA29364436:k}} a {{precio:MLA62340610:k}}. El problema para elegir no es el precio: es que DJI mete cuatro formas de cámara distintas bajo un mismo nombre, Osmo, así que "quiero una DJI" no dice casi nada. La decisión se toma con dos datos, y los dos están mal cargados en las publicaciones de MercadoLibre.`,
     quickPicks: [
       { productMlaId: "MLA66182550", label: "Mejor elección general", labelColor: "green", tagline: "Osmo Action 5 Pro: el mismo 4K a 120 y los mismos 20 metros que la Action 6" },
       { productMlaId: "MLA53612281", label: "La 360 de DJI", labelColor: "purple", tagline: "Osmo 360: más sensor que la Insta360 X5 y 8K a 50 cuadros por segundo" },
@@ -185,13 +313,13 @@ export const guides: Guide[] = [
       { productMlaId: "MLA29364436", label: "La más barata", labelColor: "slate", tagline: "Osmo Action 4: la entrada a DJI, con el mismo sensor que la 5 Pro" },
     ],
     intro: [
-      `Comprar una DJI en Argentina tiene un problema de nombre. DJI hace cuatro formas de cámara distintas al mismo tiempo: rectangulares de acción, una 360 de dos lentes, una diminuta que se cuelga con imán y una de bolsillo con estabilizador. **Las cuatro se llaman Osmo.** Las tres primeras son las que entran en esta guía, y sus publicaciones de MercadoLibre repiten las mismas palabras: 4K, RockSteady, sumergible. Buscar "cámara DJI" no te acerca a una decisión, te deja adentro de cuatro categorías distintas.`,
+      `Comprar una DJI en Argentina tiene un problema de nombre. DJI hace cuatro formas de cámara distintas al mismo tiempo: rectangulares de acción, una 360 de dos lentes, una diminuta que se cuelga con imán y una de bolsillo con estabilizador, [que comparamos aparte](/guias/tech/osmo-pocket-cual-comprar). **Las cuatro se llaman Osmo.** Las tres primeras son las que entran en esta guía, y sus publicaciones de MercadoLibre repiten las mismas palabras: 4K, RockSteady, sumergible. Buscar "cámara DJI" no te acerca a una decisión, te deja adentro de cuatro categorías distintas.`,
       `Fuimos a las hojas de especificaciones oficiales de DJI y aparecieron dos errores en las propias publicaciones. El primero: **la Osmo Action 5 Pro figura con un techo de 4K a 60 cuadros por segundo, y la cámara graba 4K a 120**. La publicación la subdeclara a la mitad. El segundo: **la Osmo 360 figura con un sensor de 1/2,3 pulgadas, y el real es de 1/1,1**, más grande que el de la Insta360 X5. Abajo están las cinco con precios en vivo.`,
     ],
     sections: [
       { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_855156-MLA107408029988_032026-O.webp", alt: `DJI Osmo Action 5 Pro, la elección general de esta guía de cámaras DJI`, imageSize: "hero" },
       { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, la **[Osmo Action 5 Pro](/producto/camara-deportiva-dji-osmo-action-5-pro-mla66182550)**: el mismo 4K a 120 cuadros y los mismos **20 metros de agua** que la Action 6, por {{preciodif:MLA62340610:MLA66182550}} menos. Para **lo más capaz**, la **[Osmo Action 6](/producto/camara-deportiva-dji-osmo-action-6-combo-aventura-mla62340610)**, la única cámara de acción con apertura variable. Para **360**, la **[Osmo 360](/producto/camara-dji-osmo-360-combo-aventura-mla53612281)**, con más sensor que la Insta360 X5. Y la **[Osmo Nano](/producto/camara-dji-osmo-nano-64gb-mla58197668)** es otra cosa: 52 gramos que se cuelgan de la ropa con un imán.` },
-      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** partimos de la tienda oficial de DJI en MercadoLibre Argentina y verificamos una por una que las cinco estuvieran comprables, con stock nacional y no por importación. Las specs las cruzamos contra dji.com y sus hojas de especificaciones oficiales, nunca contra el texto del vendedor. Así aparecieron los dos errores de las publicaciones que ordenan esta guía: el techo de video de la Osmo Action 5 Pro y el tamaño de sensor de la Osmo 360. Los precios se revisan contra MercadoLibre tres veces por semana.` },
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** partimos de la tienda oficial de DJI en MercadoLibre Argentina y verificamos una por una que las cinco de esta guía estuvieran comprables, con stock nacional y no por importación. Dejamos afuera a propósito la línea Osmo Pocket, que es otra categoría de cámara y tiene [su propia guía](/guias/tech/osmo-pocket-cual-comprar). Las specs las cruzamos contra dji.com y sus hojas de especificaciones oficiales, nunca contra el texto del vendedor. Así aparecieron los dos errores de las publicaciones que ordenan esta guía: el techo de video de la Osmo Action 5 Pro y el tamaño de sensor de la Osmo 360. Los precios se revisan contra MercadoLibre tres veces por semana.` },
       { type: "h2", title: `Las 5 DJI que comparamos`, id: "ranking" },
 
       { type: "p", content: `**La del medio, y la que más conviene**` },
@@ -235,7 +363,7 @@ export const guides: Guide[] = [
         `**Osmo Action:** las rectangulares con pantalla, que compiten de frente con la GoPro HERO. Son la [Action 4](/producto/camara-deportiva-dji-osmo-action-4-mla29364436), la [Action 5 Pro](/producto/camara-deportiva-dji-osmo-action-5-pro-mla66182550) y la [Action 6](/producto/camara-deportiva-dji-osmo-action-6-combo-aventura-mla62340610) de esta guía. La actual es la Action 6, de noviembre de 2025.`,
         `**Osmo 360:** la cámara 360 de dos lentes, que compite con la Insta360 X5 y la GoPro MAX2. Acá la representa la [Osmo 360](/producto/camara-dji-osmo-360-combo-aventura-mla53612281), de julio de 2025.`,
         `**Osmo Nano:** las diminutas que se cuelgan con imán y se usan sin sostenerlas, que compiten con la línea GO de Insta360. La [Osmo Nano](/producto/camara-dji-osmo-nano-64gb-mla58197668) salió en septiembre de 2025.`,
-        `**Osmo Pocket:** las de bolsillo con estabilizador de tres ejes integrado. No entran en esta comparativa porque no son cámaras de acción: son cámaras pensadas para grabarse hablando, no para colgar de un casco.`,
+        `**Osmo Pocket:** las de bolsillo con estabilizador de tres ejes integrado. No entran en esta comparativa porque no son cámaras de acción: son cámaras pensadas para grabarse hablando, no para colgar de un casco. Las comparamos aparte en [qué Osmo Pocket comprar](/guias/tech/osmo-pocket-cual-comprar): la actual es la [Osmo Pocket 4](/producto/camara-dji-osmo-pocket-4-creator-combo-mla68229126) y la anterior, la [Osmo Pocket 3](/producto/camara-dji-osmo-pocket-3-combo-estandar-mla39393179), sigue con stock.`,
       ] },
       { type: "p", content: `Si lo que estás decidiendo es entre marcas y no entre modelos de DJI, esa es otra decisión entera y la hicimos en nuestra [guía de cámaras deportivas](/guias/tech/camara-deportiva).` },
 
@@ -269,7 +397,7 @@ export const guides: Guide[] = [
       { type: "p", content: `Un detalle práctico de la [Osmo Action 5 Pro](/producto/camara-deportiva-dji-osmo-action-5-pro-mla66182550): su manual pide que el celular esté conectado a internet durante la activación. En los otros cuatro modelos los manuales solo piden Wi-Fi y Bluetooth del celular, que es la conexión entre el celular y la cámara, no necesariamente internet.` },
 
       { type: "h2", title: `Cuánto sube el precio de un modelo al siguiente` },
-      { type: "p", content: `La escalera de DJI en Argentina no tiene pozos: los cinco modelos suben de a poco y no hay un salto que corte la línea en dos gamas.` },
+      { type: "p", content: `La escalera de las cinco de esta guía no tiene pozos: suben de a poco y no hay un salto que corte la línea en dos gamas. Si sumás la línea Osmo Pocket, que va aparte, la escalera sigue hacia arriba.` },
       { type: "list", items: [
         `**De la [Osmo Action 4](/producto/camara-deportiva-dji-osmo-action-4-mla29364436) a la [Action 5 Pro](/producto/camara-deportiva-dji-osmo-action-5-pro-mla66182550):** {{preciodif:MLA66182550:MLA29364436}}, y por esa diferencia sumás 64 GB internos y 80 minutos más de autonomía declarada.`,
         `**De la [Action 5 Pro](/producto/camara-deportiva-dji-osmo-action-5-pro-mla66182550) a la [Osmo Nano](/producto/camara-dji-osmo-nano-64gb-mla58197668):** {{preciodif:MLA58197668:MLA66182550}}. Es plata para cambiar de formato, no para tener más cámara: comparten el mismo sensor.`,
@@ -292,7 +420,7 @@ export const guides: Guide[] = [
       { type: "h3", title: `Segundo, si la apertura variable te cambia algo` },
       { type: "p", content: `Es lo único importante que separa a la Action 6 de la Action 5 Pro, junto con el sensor. Sirve para controlar la luz que entra sin tocar el obturador, y se nota sobre todo grabando a pleno sol o con cambios fuertes de luz. Si filmás casi siempre en condiciones parejas, es una función por la que estarías pagando de más.` },
       { type: "h3", title: `Tercero, cuánta evidencia de uso querés` },
-      { type: "p", content: `La Osmo 360 tiene {{reviews:MLA53612281}} opiniones, la Action 5 Pro {{reviews:MLA66182550}} y la Osmo Nano {{reviews:MLA58197668}}. La Action 4, {{reviews:MLA29364436}}. Si preferís comprar algo que ya usó mucha gente antes que la novedad, ese número pesa tanto como las specs.` },
+      { type: "p", content: `La Osmo 360 tiene {{reviews:MLA53612281}} opiniones, la Action 5 Pro {{reviews:MLA66182550}} y la Osmo Nano {{reviews:MLA58197668}}. La Action 4, {{reviews:MLA29364436}}. Si preferís comprar algo que ya usó mucha gente antes que la novedad, ese número pesa tanto como las specs. Fuera de esta guía, la DJI con más opiniones del sitio es el pack de la Osmo Pocket 3, con {{reviews:MLA37134971}}, aunque es otra categoría de cámara.` },
       { type: "h3", title: `Recién al final, la resolución` },
       { type: "p", content: `Tres de las cinco graban 4K a 120 cuadros y la diferencia entre ellas está en otro lado: en el sensor, en el agua y en si traen memoria interna. La resolución es lo que más aparece en las publicaciones y lo que menos separa a estos cinco modelos entre sí.` },
 
@@ -314,7 +442,7 @@ export const guides: Guide[] = [
       { question: `¿Necesito comprar tarjeta de memoria para una DJI?`, answer: `Depende del modelo. La [Osmo Action 5 Pro](/producto/camara-deportiva-dji-osmo-action-5-pro-mla66182550) trae 64 GB internos con 47 disponibles, la [Osmo Action 6](/producto/camara-deportiva-dji-osmo-action-6-combo-aventura-mla62340610) los mismos 64 con 50 disponibles, la [Osmo 360](/producto/camara-dji-osmo-360-combo-aventura-mla53612281) trae 128 GB con 105 disponibles y la [Osmo Nano](/producto/camara-dji-osmo-nano-64gb-mla58197668) de esta guía, 64 GB con 48. La única de las cinco que **no trae nada** es la [Osmo Action 4](/producto/camara-deportiva-dji-osmo-action-4-mla29364436): esa sí necesita una microSD desde el primer día.` },
       { question: `¿Cuánto dura la batería de una cámara DJI?`, answer: `El número que publica DJI hay que leerlo con cuidado. Los 240 minutos de la Osmo Action 5 Pro y de la Action 6, y los 160 de la Action 4, están medidos en **1080p a 24 cuadros con las pantallas y el Wi-Fi apagados**, y DJI no publica el equivalente en 4K. Los 100 minutos de la Osmo 360, en cambio, están medidos grabando 8K a 30, que es un modo mucho más exigente. No se pueden comparar entre sí sin mirar en qué modo se midió cada uno.` },
       { question: `¿Hace falta una app para usar una cámara DJI?`, answer: `Sí, y conviene saberlo antes de comprar. Las cinco cámaras de esta guía se activan con la app **DJI Mimo**, y DJI lo pide en el manual de cada una antes del primer uso. En la línea Osmo Action el soporte oficial de DJI documenta un botón "Omitir (intentos restantes: 5)", así que podés usar la cámara cinco veces sin activarla antes de que sea obligatorio. Para la [Osmo 360](/producto/camara-dji-osmo-360-combo-aventura-mla53612281) y la [Osmo Nano](/producto/camara-dji-osmo-nano-64gb-mla58197668) DJI no documenta ese margen. Y la [Osmo Action 5 Pro](/producto/camara-deportiva-dji-osmo-action-5-pro-mla66182550) pide además que el celular tenga internet durante la activación.` },
-      { question: `¿Cuál es la cámara DJI más nueva?`, answer: `Depende de la línea, porque DJI actualiza cada una por su cuenta. En la línea Osmo Action la más nueva es la [Osmo Action 6](/producto/camara-deportiva-dji-osmo-action-6-combo-aventura-mla62340610), de noviembre de 2025. La [Osmo Nano](/producto/camara-dji-osmo-nano-64gb-mla58197668) salió en septiembre de 2025 y la [Osmo 360](/producto/camara-dji-osmo-360-combo-aventura-mla53612281) en julio de 2025. Las otras dos son más viejas: la [Osmo Action 5 Pro](/producto/camara-deportiva-dji-osmo-action-5-pro-mla66182550) es de septiembre de 2024 y la [Osmo Action 4](/producto/camara-deportiva-dji-osmo-action-4-mla29364436) de 2023. Que un modelo sea más nuevo no lo hace la mejor compra: la Action 5 Pro graba el mismo 4K a 120 cuadros que la Action 6 y se moja los mismos 20 metros.` },
+      { question: `¿Cuál es la cámara DJI más nueva?`, answer: `Depende de la línea, porque DJI actualiza cada una por su cuenta. En la línea Osmo Action la más nueva es la [Osmo Action 6](/producto/camara-deportiva-dji-osmo-action-6-combo-aventura-mla62340610), de noviembre de 2025. La [Osmo Nano](/producto/camara-dji-osmo-nano-64gb-mla58197668) salió en septiembre de 2025 y la [Osmo 360](/producto/camara-dji-osmo-360-combo-aventura-mla53612281) en julio de 2025. Fuera de estas tres líneas, la más nueva de todo el catálogo DJI del sitio es la [Osmo Pocket 4](/producto/camara-dji-osmo-pocket-4-creator-combo-mla68229126), de la línea de bolsillo, de abril de 2026. Las otras dos son más viejas: la [Osmo Action 5 Pro](/producto/camara-deportiva-dji-osmo-action-5-pro-mla66182550) es de septiembre de 2024 y la [Osmo Action 4](/producto/camara-deportiva-dji-osmo-action-4-mla29364436) de 2023. Que un modelo sea más nuevo no lo hace la mejor compra: la Action 5 Pro graba el mismo 4K a 120 cuadros que la Action 6 y se moja los mismos 20 metros.` },
       { question: `¿Qué cámaras DJI se pueden meter al agua sin carcasa?`, answer: `Las cinco de esta guía, pero no a la misma profundidad. La [Osmo Action 5 Pro](/producto/camara-deportiva-dji-osmo-action-5-pro-mla66182550) y la [Action 6](/producto/camara-deportiva-dji-osmo-action-6-combo-aventura-mla62340610) llegan a **20 metros**, el máximo de todo nuestro catálogo de cámaras, empatadas con la GoPro MISSION 1 PRO; la [Action 4](/producto/camara-deportiva-dji-osmo-action-4-mla29364436) a 18; la [Osmo 360](/producto/camara-dji-osmo-360-combo-aventura-mla53612281) a 10 con certificación IP68. En la [Osmo Nano](/producto/camara-dji-osmo-nano-64gb-mla58197668) hay que leer la letra chica: **el módulo de cámara se sumerge 10 metros, pero el Vision Dock no**, solo aguanta salpicaduras.` },
     ],
     internalLinks: [
@@ -326,6 +454,7 @@ export const guides: Guide[] = [
       { label: `DJI Osmo Nano: ficha y opiniones`, href: `/producto/camara-dji-osmo-nano-64gb-mla58197668` },
       { label: `DJI Osmo Action 4: ficha y opiniones`, href: `/producto/camara-deportiva-dji-osmo-action-4-mla29364436` },
       { label: `Cámara deportiva: cuál comprar en Argentina`, href: `/guias/tech/camara-deportiva` },
+      { label: `Qué Osmo Pocket comprar: Pocket 3 o Pocket 4`, href: `/guias/tech/osmo-pocket-cual-comprar` },
     ],
   },
   {
@@ -627,6 +756,7 @@ export const guides: Guide[] = [
       { label: `Qué Insta360 comprar: 6 opciones comparadas`, href: `/guias/tech/insta360-cual-comprar` },
       { label: `Qué GoPro comprar: los 6 modelos comparados`, href: `/guias/tech/gopro-cual-comprar` },
       { label: `Qué DJI comprar: 5 modelos comparados`, href: `/guias/tech/dji-cual-comprar` },
+      { label: `Qué Osmo Pocket comprar: Pocket 3 o Pocket 4`, href: `/guias/tech/osmo-pocket-cual-comprar` },
       { label: `GoPro HERO13 Black: ficha y opiniones`, href: `/producto/camara-deportiva-gopro-hero13-black-mla47374183` },
       { label: `Insta360 X3: ficha y opiniones`, href: `/producto/camara-360-insta360-x3-mla19710677` },
       { label: `Insta360 X5: ficha y opiniones`, href: `/producto/camara-360-insta360-x5-mla49100446` },
@@ -28533,6 +28663,11 @@ export function getDisplaySilo(g: Pick<Guide, "silo" | "category">): string {
 }
 
 export const guideCategories: Record<string, { name: string; description: string }> = {
+  "camaras-vlog": {
+    name: "Guía de Cámaras para Vlog",
+    description:
+      "Cámaras de bolsillo con estabilizador de tres ejes comparadas por lo que decide la compra: cuál trae memoria adentro y cuál te obliga a comprar la tarjeta aparte, y qué cambia de verdad entre una generación y la siguiente.",
+  },
   "camaras-deportivas": {
     name: "Guía de Cámaras Deportivas",
     description:

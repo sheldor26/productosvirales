@@ -1,9 +1,89 @@
 # Estado actual
 
 > Snapshot del proyecto. Se actualiza al final de cada sesión.
-> Última actualización: 2026-08-26 (tercera hija del silo de cámaras: `dji-cual-comprar` PUBLICADA + 3 fichas DJI, catálogo a 522 — ver sesión inmediatamente abajo). El 2026-08-25: silo de cámaras deportivas completo y en vivo con 16 fichas y 3 guías.
+> Última actualización: 2026-08-26 (silo nuevo `camaras-vlog` con `osmo-pocket-cual-comprar` en STAGED + 3 fichas, catálogo a 525; antes ese mismo día: `dji-cual-comprar` PUBLICADA + 3 fichas DJI, catálogo a 522 — ver sesión inmediatamente abajo). El 2026-08-25: silo de cámaras deportivas completo y en vivo con 16 fichas y 3 guías.
 
-## Sesión 2026-08-26 — DJI, la marca que compite en cuatro formatos, y dos errores de ficha de MercadoLibre
+## Sesión 2026-08-26 (b) — Osmo Pocket: silo nuevo, y 20 bloqueantes en cinco pasadas de auditoría
+
+### LO QUE SE HIZO
+
+- **Guía `osmo-pocket-cual-comprar`** en STAGED para el 2026-09-20, `pillar: true`. Primera guía de
+  una **categoría nueva, `camaras-vlog`**, dentro del silo tech.
+- **3 fichas** (catálogo 522 → **525**): MLA39393179 Osmo Pocket 3 Combo Estándar ($1.100.000),
+  MLA37134971 Pack Creadores ($1.649.999 · **1.183 opiniones**) y MLA68229126 Pocket 4 Creator
+  Combo ($2.453.049).
+- **8 correcciones** a `dji-cual-comprar`, publicada horas antes, cuyo alcance cambió al existir
+  fichas de la línea Pocket en el sitio.
+
+### POR QUÉ ESTE NICHO
+
+La familia Osmo Pocket vale **~12.130/mes** y `osmo pocket 3` sola son **6.600**, más que cualquier
+keyword suelta del silo de cámaras deportivas. La categoría genérica ("cámara para vlogs", "de
+bolsillo") suma apenas ~920: **13 veces menos**. Se busca por modelo, así que la guía es de marca.
+
+**DJI no tiene competencia real acá.** La Insta360 Luna Ultra, que es la respuesta directa, ya está
+listada en la tienda oficial pero con **cero ventas**, igual que la X6. Sin ventas no hay reseñas y
+sin reseñas no hay evidencia que citar.
+
+### EL ÁNGULO
+
+**La Osmo Pocket 3 no tiene un byte de memoria interna y la microSD no viene en la caja.** Sin una
+tarjeta V30 comprada aparte, la cámara de más de un millón no graba ni un segundo, y ninguna
+publicación lo aclara. La Pocket 4 trae 107 GB y es la única de las tres que graba desde el minuto cero.
+
+Y la cuenta del combo **se da vuelta en Argentina**: en la tienda de DJI el salto al combo con
+accesorios es del 26%, y esos accesorios sueltos salen casi el doble que la brecha del combo. Acá el
+salto es bastante mayor. Afuera el combo es el camino barato; acá no.
+
+### TRES ERRORES MÁS DE MERCADOLIBRE
+
+| Dato | ML decía | DJI oficial |
+|---|---|---|
+| Sensor de las dos Pocket 3 | 1/2.3" | **1 pulgada** |
+| Peso de la Pocket 3 | 116 g en una, **"179 kg"** en la otra | **179 g** |
+| Zoom y autonomía de la Pocket 4 | 4x y 110 min en una publicación, 2x y 4 h en la otra | 4x digital en 4K |
+
+El del sensor ya es patrón confirmado en **tres publicaciones distintas**: `1/2.3"` es el valor por
+defecto de la categoría cámaras en ML, no un dato del producto. Quedó como regla en memoria.
+
+### LA CATEGORÍA NUEVA, Y SU FALLA SIN TRINQUETE
+
+Crear `camaras-vlog` son **dos ediciones, las dos en `guides.ts`**: la entrada en `guideCategories`
+y el campo `category` de la guía. Cero cambios en rutas, sitemap o breadcrumbs.
+
+**Pero si falta la entrada en `guideCategories`, `/guias` renderiza el slug crudo y los nueve checks
+pasan igual**, y `npm run build` también. Es la única falla de este trabajo que ningún script valida.
+Verificado a mano en el navegador: muestra "Guía de Cámaras para Vlog".
+
+### LA AUDITORÍA: 20 BLOQUEANTES EN CINCO PASADAS
+
+Gemini dio GO sin bloqueantes. **Codex quedó sin cuota de uso**, así que se reemplazó su rol con
+auditorías adversariales de lentes independientes. Fueron NO-GO con 7, 5, 4 y 4, y GO en la quinta.
+
+**Casi todos fueron superlativos o negaciones sobre un conjunto no medido.** Y desde la segunda
+pasada, la mayoría los introdujeron las correcciones anteriores: cada arreglo abría una familia que
+no se barría entera. El caso más claro: corregir "la única con memoria interna" a "la única **Osmo
+Pocket** con memoria interna" introdujo un error nuevo, porque existe la Pocket 4 Pro.
+
+El error más instructivo no fue de redacción sino **de alcance**: el standfirst decía que el combo
+"cuesta el doble", que era verdadero con 4 fichas y se volvió falso al bajar a 3, sin que nadie
+tocara la frase. El referente implícito se re-apuntó solo al producto más cercano que quedaba.
+
+### LO QUE QUEDA AFUERA, CON EL LINK YA GENERADO
+
+**Osmo Pocket 4 Combo Estándar (MLA68244220)**, $2.087.949, `https://meli.la/1qKrPjm`. El stock cayó
+a una unidad durante la sesión. Es el escalón más barato de la Pocket 4 y vale sumarla cuando
+repongan: es una pasada aditiva de una sola ficha.
+
+### VERIFICACIÓN
+
+`tsc --noEmit` y `npm run build` en verde. Los nueve checks de contenido en verde, por separado.
+Render en el dev server: cero tokens sin resolver, **24 links `meli.la` y los 24 con
+`rel="sponsored"`**, y `/guias` con el nombre de la categoría correcto.
+
+---
+
+## Sesión 2026-08-26 (a) — DJI, la marca que compite en cuatro formatos, y dos errores de ficha de MercadoLibre
 
 ### LO QUE SE HIZO
 
