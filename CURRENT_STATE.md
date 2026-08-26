@@ -1,7 +1,81 @@
 # Estado actual
 
 > Snapshot del proyecto. Se actualiza al final de cada sesión.
-> Última actualización: 2026-08-25 (silo de cámaras deportivas PUBLICADO con su primera hija de marca: 12 fichas y 2 guías, pilar + `gopro-cual-comprar` — ver sesión inmediatamente abajo). Antes en el mismo día: guía de impresoras 3D publicada, 3 fichas de anillos, notebooks descartado.
+> Última actualización: 2026-08-25 (silo de cámaras deportivas con sus dos hijas de marca: 16 fichas y 3 guías. La de Insta360 queda STAGED; el pilar se corrigió en vivo por un cambio de ficha de la X5 — ver sesión inmediatamente abajo). Antes en el mismo día: guía de impresoras 3D publicada, 3 fichas de anillos, notebooks descartado.
+
+## Sesión 2026-08-25 (d) — Insta360, y una corrección sobre contenido en vivo
+
+### LO QUE SE HIZO
+
+- **Guía `insta360-cual-comprar`** en STAGED para el 2026-09-22, hija del pilar.
+- **4 fichas nuevas**: MLA36223181 (X4), MLA62879003 (X4 Air), MLA49100446 (X5 sola),
+  MLA39997069 (GO 3S). El catálogo queda en 519 productos y el sitio en 208 guías.
+- **Corrección en el pilar publicado**: su ficha de X5 pasó del Essentials Bundle a la X5 sola.
+
+### POR QUÉ SE TOCÓ UNA GUÍA EN VIVO
+
+Sourceando Insta360 apareció que la X5 que el pilar recomendaba era el **Essentials Bundle a
+$1.759.229**, mientras que **la misma cámara sola sale $1.334.000**, con stock nacional y 577
+opiniones. Eran $425.229 de diferencia por accesorios, y la guía mandaba al lector a la cara sin
+avisarle que existía la otra.
+
+El cambio fueron 10 referencias más la reescritura de todo lo que dependía del precio, porque con
+la X5 a $1.334.000 **la más cara del pilar pasó a ser la DJI Osmo Action 6**. La escalera quedó:
+
+  Gadnic 98.749 < Akaso 176.899 < X3 694.990 < Action 4 799.999 < HERO13 930.999 < X5 1.334.000 < Action 6 1.543.649
+
+La tesis de los tres tramos y dos huecos se mantiene: $518.091 entre la Akaso y la X3, y $403.001
+entre la GoPro y la X5.
+
+**La ficha del Essentials Bundle sigue viva** con su propia página; lo que cambió es que ninguna
+guía la recomienda, y la ficha de la X5 sola dice explícitamente que es la misma cámara más barata.
+
+### EL ÁNGULO DE LA GUÍA
+
+**La X4 Air es la sorpresa del sourcing.** Cuesta $49.991 más que la X4 común y por esa diferencia
+trae **los 15 metros de agua y los lentes reemplazables que hacían especial a la X5**. Con sensores
+más chicos, menos batería, y sobre todo **37 opiniones contra las 1.156 de la X4**. Por eso queda
+tercera y no primera: en el papel es tentadora, la evidencia todavía no acompaña.
+
+Otros dos hallazgos: **la X4 Air salió DESPUÉS de la X5** (octubre contra abril de 2025), así que
+el número más bajo no la hace más vieja; y **los lentes de una 360 van expuestos por diseño**, así
+que poder cambiarlos en casa es el dato que ordena la decisión dentro de la línea.
+
+**Decisión de honestidad nueva:** la guía NO publica la autonomía de la X5 en 8K porque dos fuentes
+oficiales de Insta360 dan cifras distintas, y hay una FAQ entera explicando por qué. Es la primera
+vez que el sitio hace explícito ese criterio.
+
+### LA LECCIÓN: LOS PARCHES GENERAN ERRORES NUEVOS
+
+31 correcciones entre dos rondas de auditoría con cuatro y tres lentes adversariales. **La mayoría
+de los hallazgos de la segunda ronda eran regresiones de las correcciones de la primera.** Tres
+ejemplos de la misma sesión:
+
+1. Corrigiendo un superlativo de peso escribí que la X5 pesa "casi el doble que una GoPro HERO
+   Black". Son 200 g contra 154: un 30% más. **Es el mismo error aritmético** que el "menos de la
+   mitad" de la guía de GoPro, cometido el mismo día.
+2. Corrigiendo el conteo de la línea X de cuatro a cinco modelos, metí a la X3 en un grupo del que
+   la frase decía "sus publicaciones dicen todas 8K". La X3 graba 5.7K.
+3. El cambio de la X5 en el pilar dejó **dos restos** en lugares distintos ("cuesta el doble o más"
+   y "dos veces y media"), corregidos en rondas separadas porque el primer barrido no los juntó.
+
+**Lo que funcionó como antídoto:** una lente de auditoría dedicada a ARITMÉTICA, que recalcula toda
+relación expresada en palabras (el doble, la mitad, un tercio, N veces) contra los datos del repo.
+Cazó el 2,5x y de paso confirmó una decena de relaciones que sí cierran.
+
+### Consistencia cruzada, tercera aplicación
+
+Esta vez el chequeo se corrió ANTES de escribir y encontró un error propio antes de publicarlo: la
+X4 pesa 203 g, más que los 200 de la X5, así que la contra que decía que la X5 era "la más pesada
+de las Insta360" quedaba falsa. La auditoría encontró tres roturas más en fichas publicadas.
+
+### Pendiente
+
+- Publicar `insta360-cual-comprar` (dar vuelta la fecha) y agregarle enlaces entrantes.
+- La Insta360 X6 sigue sin ventas registradas en ML.
+- Las líneas Ace y Luna de Insta360 no están en el catálogo: se mencionan sin prometer stock.
+
+---
 
 ## Sesión 2026-08-25 (c) — Primera hija de marca: `gopro-cual-comprar`
 
