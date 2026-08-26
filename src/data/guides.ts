@@ -7822,7 +7822,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "pull-quote", content: "Funciona muy bien. Si bien tiene un par de contras, en relación precio-calidad estoy bastante satisfecho. En primer lugar, el plástico: parece mucho más resistente en las fotos de lo que en realidad es.", attribution: "Comprador verificado en MercadoLibre, noviembre 2022 · 24 personas lo encontraron útil" },
 
       { type: "h2", title: "Peabody Digital: la de mejor rating", id: "peabody" },
-      { type: "product-card", productMlaId: "MLA47275624", label: "Mejor para mate en serio", labelColor: "blue", ranking: 2, description: "Display LED touch con temperatura continua de 40° a 100°C, interior de acero, keep warm 2 horas y función memoria para cortes de luz. 4.9 estrellas, el rating más alto de todo el sitio." },
+      { type: "product-card", productMlaId: "MLA47275624", label: "Mejor para mate en serio", labelColor: "blue", ranking: 2, description: "Display LED touch con temperatura continua de 40° a 100°C, interior de acero, keep warm 2 horas y función memoria para cortes de luz. 4.9 estrellas, el rating más alto de todas las pavas del catálogo." },
       { type: "p", content: "A {{precio:MLA47275624}}, {{preciodif:MLA47275624:MLA8933826}} más que la Liliana, no compite en precio: compite en precisión. Elegís la temperatura exacta desde el panel táctil (70° para mate, 75° si te gusta más suave, 100° para hervir) y la pava la sostiene hasta 2 horas sin que hagas nada. El interior es de acero inoxidable, no plástico." },
       { type: "pull-quote", content: "Tuve una Peabody 10 años y quería conseguir la misma marca. Todas tienen preseteadas las temperaturas, pero esta logra calentar a 75 grados para el mate. Muy fácil manejo y súper canchera.", attribution: "Compradora verificada en MercadoLibre, abril 2025 · 21 personas lo encontraron útil" },
 
@@ -7857,7 +7857,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       ]},
 
       { type: "h2", title: "Veredicto: cuál comprar", id: "veredicto" },
-      { type: "verdict", content: "Para la mayoría, la **Liliana Mateando** a {{precio:MLA8933826}}: función mate confirmada, precio más bajo y la base de opiniones más grande del catálogo. Si el mate es serio en tu casa y querés elegir el grado exacto con acero inoxidable y keep warm, la **Peabody Digital** a {{precio:MLA47275624}} es la mejor pava del sitio para eso, avalada por el rating más alto de todo el catálogo (4.9★)." },
+      { type: "verdict", content: "Para la mayoría, la **Liliana Mateando** a {{precio:MLA8933826}}: función mate confirmada, precio más bajo y la base de opiniones más grande del catálogo. Si el mate es serio en tu casa y querés elegir el grado exacto con acero inoxidable y keep warm, la **Peabody Digital** a {{precio:MLA47275624}} es la mejor pava del sitio para eso, avalada por el rating más alto de todas las pavas del catálogo (4.9★)." },
       { type: "p", content: "¿Ninguna de las dos te convence del todo? En la [guía completa de pavas eléctricas](/guias/pava-electrica) están las siete opciones que comparamos, incluida una de acero a mejor precio y una premium con doble pared." },
     ],
     faq: [
