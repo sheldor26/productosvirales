@@ -82,7 +82,7 @@ export const guides: Guide[] = [
       { type: "p", content: `**La entrada al 360 de la marca, y la más elegida de las seis**` },
       { type: "h3", title: `Insta360 X3` },
       { type: "product-card", productMlaId: "MLA19710677", label: "La más elegida", labelColor: "blue", ranking: 4, description: `{{reviews:MLA19710677}} opiniones, la base más grande de las seis por lejos, y la más barata de las seis.` },
-      { type: "p", content: `Es la más barata de las seis y la que más gente compró: **{{reviews:MLA19710677}} opiniones**, más que la X4 y la X5 juntas. Graba 5.7K en 360, se moja hasta 10 metros sin carcasa y su estabilización FlowState viene activada de fábrica y no se puede apagar desde la cámara.` },
+      { type: "p", content: `Es la más barata de las seis y la que más gente compró: **{{reviews:MLA19710677}} opiniones**, por lejos la base más grande de la línea X. Graba 5.7K en 360, se moja hasta 10 metros sin carcasa y su estabilización FlowState viene activada de fábrica y no se puede apagar desde la cámara.` },
       { type: "p", content: `Lo que hay que saber antes de comprarla es su edad: **salió en 2022**, y desde entonces Insta360 sacó la X4, la X5, la X4 Air y la X6. Sigue siendo una buena cámara y su prueba social lo respalda, pero no esperes el 8K ni los lentes reemplazables de las de arriba.` },
       { type: "p", content: `**Otra idea de cámara, no una 360 más chica**` },
       { type: "h3", title: `Insta360 GO 3S` },
