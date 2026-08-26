@@ -60,6 +60,21 @@ export const categories: Category[] = [
     `,
   },
   {
+    slug: "musica",
+    name: "Música",
+    icon: "Music",
+    pastel: "var(--color-pastel-purple)",
+    mlCategoryId: "MLA1182",
+    h1: "Instrumentos Musicales",
+    description: "Guitarras, teclados y equipos para el que empieza a tocar",
+    buyersGuide: `
+      <h2>Qué vas a encontrar en esta categoría</h2>
+      <p>Instrumentos de entrada para el que arranca: guitarras criollas, electroacústicas y eléctricas, controladores de DJ y los accesorios que hacen falta para poder tocar de verdad. La góndola argentina de instrumentos tiene una particularidad: las marcas que la gente busca (Fender, Gibson, Yamaha) casi no se consiguen, y lo que sí se vende son marcas genéricas de entrada. Acá comparamos lo que realmente se puede comprar.</p>
+      <h2>Lo que casi nadie te aclara</h2>
+      <p>Ningún instrumento de entrada viene completo. Una guitarra criolla necesita púas, funda y afinador; una eléctrica trae un amplificador que suele ser de juguete; un controlador de DJ no trae parlantes ni auriculares, y con celular necesita una fuente aparte. El precio de la publicación casi nunca es el precio de empezar a tocar.</p>
+    `,
+  },
+  {
     slug: "tech",
     name: "Tech",
     icon: "Smartphone",

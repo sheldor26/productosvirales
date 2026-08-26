@@ -28583,6 +28583,11 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
  * aspiradoras-robot agrupado).
  */
 export const guideSilos: Record<string, { name: string; description: string }> = {
+  musica: {
+    name: "Música",
+    description:
+      "Instrumentos para el que arranca: guitarras, teclados, equipos de DJ y lo que hay que sumarle a cada uno para poder tocar.",
+  },
   cocina: {
     name: "Cocina",
     description: "Todo lo que se usa a diario para cocinar: freidoras, cafeteras, pavas, licuadoras, microondas y más.",
@@ -28663,6 +28668,11 @@ export function getDisplaySilo(g: Pick<Guide, "silo" | "category">): string {
 }
 
 export const guideCategories: Record<string, { name: string; description: string }> = {
+  "instrumentos-musicales": {
+    name: "Guía de Instrumentos Musicales",
+    description:
+      "Instrumentos comparados por lo que decide la primera compra: qué trae la caja, qué hay que sumarle aparte para poder tocar, y en qué se diferencian de verdad los tipos que se parecen.",
+  },
   "camaras-vlog": {
     name: "Guía de Cámaras para Vlog",
     description:
