@@ -163,6 +163,142 @@ export const guides: Guide[] = [
     ],
   },
   {
+    slug: "guitarra-criolla-precio",
+    category: "guitarras",
+    silo: "musica",
+    title: `Cuánto sale una guitarra criolla en Argentina [2026]`,
+    h1: `Cuánto sale una guitarra criolla en Argentina [2026]`,
+    seoTitle: `Guitarra Criolla: Precio en Argentina [2026] y Qué Trae Cada Una`,
+    metaDescription: `Precios reales de guitarra criolla verificados en MercadoLibre: las de tamaño completo van de {{precio:MLA40485883:k}} a {{precio:MLA16059072:k}}. Qué cambia entre un tramo y otro, y los dos gastos que aparecen después.`,
+    ogTitle: `Cuánto sale una guitarra criolla en Argentina`,
+    ogDescription: `Siete criollas con precio verificado, ordenadas por tramo. Con lo que casi nadie aclara: lo que hay que sumarle al precio de la publicación.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_850716-MLA95500580456_102025-O.webp`,
+    directAnswer: `Una criolla nueva **de tamaño completo** arranca en **{{precio:MLA40485883}}** y llega hasta **{{precio:MLA16059072}}** entre las que verificamos con stock en Argentina (para chicos hay medidas más chicas y más baratas). El tramo donde compra casi todo el que arranca va de {{precio:MLA40485883:k}} a {{precio:MLA35245846:k}}. Lo que cambia al subir de tramo no es tanto el sonido como las maderas, la terminación y qué viene en la caja. **Tres de las siete no listan funda**, y las cuerdas de repuesto las trae una sola: a esas sumales {{precio:MLA77260613:k}} y {{precio:MLA21868235:k}}.`,
+    publishedDate: "2026-10-02",
+    updatedDate: "2026-10-02",
+    hasDisclosure: true,
+    readingTime: 10,
+    standfirst: `Verificamos siete guitarras criollas con stock real en MercadoLibre Argentina. Las de tamaño completo van de {{precio:MLA40485883}} a {{precio:MLA16059072}}, y hay una medida infantil que sale menos. Acá está qué cambia de verdad entre un tramo de precio y el siguiente, cuál trae los accesorios que las otras no, y cuánto hay que sumarle al número de la publicación para poder tocar.`,
+    quickPicks: [
+      { productMlaId: "MLA40485883", label: "La entrada", labelColor: "green", tagline: "Femmto CG001: la más barata de tamaño completo, con funda y púas" },
+      { productMlaId: "MLA35245846", label: "La que no deja gasto pendiente", labelColor: "blue", tagline: "Gadnic: la única que trae estuche, afinador y cuerdas de repuesto" },
+      { productMlaId: "MLA44345937", label: "El salto de calidad", labelColor: "purple", tagline: "Fonseca 25: fabricación argentina, y el comprador que más sabe del grupo la eligió" },
+      { productMlaId: "MLA16059072", label: "La marca que conocés", labelColor: "slate", tagline: "Yamaha C40: sí se consigue en Argentina, y sale más de cuatro veces la entrada" },
+    ],
+    intro: [
+      `La pregunta llega siempre igual: **cuánto sale una guitarra criolla**. Y la respuesta que da MercadoLibre es una grilla de precios que van de menos de cien mil a más de un millón, sin explicar qué cambia entre uno y otro.`,
+      `Verificamos siete criollas con stock nacional y les leímos las reseñas. En tamaño completo, la escalera real de precios va de **{{precio:MLA40485883}}** a **{{precio:MLA16059072}}**, y adentro de ese rango hay tres tramos que se comportan distinto. Abajo está cada uno con precios en vivo, y al final lo que hay que sumarle al número de la publicación.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_850716-MLA95500580456_102025-O.webp", alt: `Guitarra criolla clásica Yamaha C40, la más cara de esta comparativa de precios de guitarras criollas en Argentina`, imageSize: "hero" },
+      { type: "callout", calloutVariant: "tip", calloutTitle: "La respuesta corta", content: `De las que verificamos, la más barata de tamaño completo es la **[Femmto CG001](/producto/guitarra-criolla-femmto-cg001-con-funda-y-puas-mla40485883)** a {{precio:MLA40485883}} y la más cara la **[Yamaha C40](/producto/guitarra-criolla-clasica-yamaha-c40-mla16059072)** a {{precio:MLA16059072}}. En el medio hay opciones desde {{precio:MLA35245846:k}}. **Fijate qué trae cada caja antes de sumar**: tres de las siete no listan funda, y las cuerdas de repuesto las trae una sola.` },
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo verificamos los precios:** cada una de las siete se abrió en su ficha de MercadoLibre y el precio se leyó del dato estructurado de la página, no del texto de la publicación ni de un buscador. Todas tenían stock disponible el día que las revisamos. Los precios se vuelven a chequear tres veces por semana y en esta página se muestran en vivo, así que lo que ves es el de hoy y no el del día que la escribimos. Donde la ficha técnica de MercadoLibre se contradice a sí misma, lo decimos en vez de elegir el dato que nos conviene.` },
+
+      { type: "h2", title: `Los precios, de menor a mayor`, id: "precios" },
+      { type: "p", content: `**El tramo de entrada: hasta {{precio:MLA35245846:k}}**` },
+      { type: "p", content: `Es donde compra la mayoría de los que arrancan, y donde el riesgo de gastar de más es el más bajo. Las dos de este tramo son de marcas que se venden en MercadoLibre, no de casas de luthería, y sus propios compradores lo dicen sin vueltas.` },
+
+      { type: "h3", title: `Guitarra criolla Femmto CG001` },
+      { type: "product-card", productMlaId: "MLA40485883", label: "La entrada", labelColor: "green", ranking: 1, description: `La más barata de tamaño completo, con funda y púas. {{rating:MLA40485883}} estrellas en {{reviews:MLA40485883}} calificaciones.` },
+      { type: "p", content: `Es el piso de precio en tamaño completo con stock nacional. Tapa de tilo y mástil de cedro, las dos maderas de entrada del rubro, y trae funda y púas, que a este precio no siempre pasa. Un comprador la resume mejor que cualquier ficha: no es una guitarra de buena calidad, pero sirve para dar los primeros pasos si se la trata con cuidado.` },
+      { type: "p", content: `Su publicación no lista **afinador ni cuerdas de repuesto**, y las dos cosas van a hacer falta. Para el afinador hay apps de celular gratis; las cuerdas hay que comprarlas.` },
+
+      { type: "h3", title: `Guitarra criolla Gadnic con estuche y afinador` },
+      { type: "product-card", productMlaId: "MLA35245846", label: "La que no deja gasto pendiente", labelColor: "blue", ranking: 2, description: `Trae estuche, afinador y cuerdas de repuesto en la caja. {{rating:MLA35245846}} estrellas en {{reviews:MLA35245846}} calificaciones.` },
+      { type: "p", content: `Sale {{preciodif:MLA35245846:MLA40485883}} más que la Femmto y es la única de las siete que resuelve los tres gastos que vienen después: **afinador, estuche y un juego de cuerdas de repuesto**. Un comprador lo dejó escrito enumerando lo que le llegó: el afinador, la funda, la púa y las cuerdas nuevas aparte.` },
+      { type: "p", content: `Si contás el afinador y las cuerdas por separado, el sobreprecio contra la 4/4 más barata se paga solo. La madera es la misma de entrada: tapa de tilo.` },
+      { type: "callout", calloutVariant: "warning", calloutTitle: "Dos errores en su ficha técnica", content: `Su publicación declara **5 cuerdas** y una criolla lleva 6. Y declara **Es infantil: Sí** junto con **tamaño 4/4**, que es la medida de un adulto. Los dos datos no pueden ser ciertos a la vez. No publicamos ninguno como dato, y si la medida te importa, preguntale al vendedor antes de comprar.` },
+
+      { type: "p", content: `**El tramo del medio: entre {{precio:MLA47118056:k}} y {{precio:MLA44345937:k}}**` },
+      { type: "p", content: `Acá aparecen dos cosas que abajo no están: fabricación argentina y la opción de enchufarla. El escalón contra el tramo de entrada arranca en un tercio más caro y se estira hasta más del doble.` },
+
+      { type: "h3", title: `Guitarra electrocriolla Parquer Custom con ecualizador` },
+      { type: "product-card", productMlaId: "MLA47118056", label: "La que se enchufa", labelColor: "purple", ranking: 3, description: `Cuerdas de nylon con ecualizador incorporado y funda. {{rating:MLA47118056}} estrellas en {{reviews:MLA47118056}} calificaciones.` },
+      { type: "p", content: `Es la única de las siete que **se puede enchufar a un amplificador** sin dejar de ser criolla: mantiene las cuerdas de nylon y suma un ecualizador incorporado. Eso es algo que no se agrega después. Viene con funda.` },
+      { type: "p", content: `La contra la escribió un comprador y conviene leerla antes: **el sonido acústico es opaco y hay que afinarla después de cada uso.** Y para aprovechar el ecualizador hace falta un amplificador: su publicación lista la funda como único accesorio incluido.` },
+
+      { type: "h3", title: `Guitarra criolla Rómulo García A-100 Plus` },
+      { type: "product-card", productMlaId: "MLA68992218", label: "Industria argentina", labelColor: "blue", ranking: 4, description: `Tapa de pino y mástil de cedro, fabricación nacional. Base de calificaciones todavía chica.` },
+      { type: "p", content: `Fabricación argentina, tamaño completo y acabado brillante, en el medio de la escalera de precios. Sus compradores destacan el origen nacional por encima de cualquier spec.` },
+      { type: "p", content: `Pero hay un dato que hay que decir antes que cualquier elogio: **tiene apenas {{reviews:MLA68992218}} calificaciones.** Es la base más chica de todo el catálogo de música del sitio. Su {{rating:MLA68992218}} de rating es real, pero un puntaje perfecto sobre seis calificaciones dice bastante menos que un 4,6 sobre mil.` },
+
+      { type: "h3", title: `Guitarra criolla Fonseca 25` },
+      { type: "product-card", productMlaId: "MLA44345937", label: "El salto de calidad", labelColor: "purple", ranking: 5, description: `Fabricación argentina con {{rating:MLA44345937}} estrellas sobre {{reviews:MLA44345937}} calificaciones.` },
+      { type: "p", content: `Es la que más arriba llega sin entrar en el tramo de marca internacional. Fabricación argentina, tapa de abedul, mástil de cedro y acabado mate. Sus {{rating:MLA44345937}} estrellas se apoyan en {{reviews:MLA44345937}} calificaciones, que es una base bastante más sólida que la de la Rómulo García.` },
+      { type: "p", content: `El argumento más fuerte a favor no es el precio sino quién la eligió: **un comprador que toca hace 24 años** escribió que superó todas sus expectativas. Otro se detiene en un detalle que a este precio se suele escapar: las cejuelas vienen a la altura correcta y no desafina.` },
+
+      { type: "p", content: `**El tramo de marca: arriba de {{precio:MLA44345937:k}}**` },
+
+      { type: "h3", title: `Guitarra criolla clásica Yamaha C40` },
+      { type: "product-card", productMlaId: "MLA16059072", label: "La marca que conocés", labelColor: "slate", ranking: 6, description: `Tapa de abeto, diapasón de palo de rosa, 19 trastes. {{rating:MLA16059072}} estrellas en {{reviews:MLA16059072}} calificaciones.` },
+      { type: "p", content: `Se dice mucho que las marcas conocidas no se consiguen en Argentina y no es cierto: **la C40 está disponible**, con {{reviews:MLA16059072}} calificaciones. Lo que pasa es que sale {{preciodif:MLA16059072:MLA40485883}} más que la entrada, así que el que arranca casi nunca llega hasta acá.` },
+      { type: "p", content: `Lo que ese precio compra son maderas que en el resto de la comparativa casi no aparecen: **diapasón y puente de palo de rosa** y mástil de nato, que ninguna de las otras seis declara. La tapa es de abeto, que sí comparte con la Parquer electrocriolla. Y trae 19 trastes, dos más que la mayoría de las criollas de entrada.` },
+      { type: "callout", calloutVariant: "warning", calloutTitle: "Su ficha dice que no trae funda", content: `Es la única de las siete cuya publicación declara **Incluye funda: No** en blanco sobre negro, y lista como accesorio incluido **únicamente el manual**. La Fonseca y la Rómulo García tampoco la listan, pero no lo declaran. Siendo la más cara del grupo, a su precio hay que sumarle sí o sí una funda.` },
+
+      { type: "h2", title: `Si la compra es para un chico` },
+      { type: "p", content: `Acá el precio importa menos que la medida. Una guitarra de adulto en manos de un chico no se puede tocar, y eso es lo que hace que se abandone antes del mes.` },
+      { type: "h3", title: `Guitarra criolla para niños Parquer 1/4` },
+      { type: "product-card", productMlaId: "MLA25482706", label: "Para chicos", labelColor: "green", ranking: 7, description: `Tamaño 1/4 real, cuerdas de nylon y funda incluida. {{rating:MLA25482706}} estrellas en {{reviews:MLA25482706}} calificaciones.` },
+      { type: "p", content: `Es **tamaño 1/4 de verdad**, no una 4/4 vendida como infantil. Las otras seis de esta página son 4/4, o sea de adulto. Trae funda y mantiene las cuerdas de nylon, que en manos chicas pesa todavía más que en un adulto.` },
+      { type: "p", content: `La contra es obvia y conviene tenerla clara al comprarla: **se queda chica.** Es una compra para ahora, no para siempre.` },
+
+      { type: "h2", title: `Lo que hay que sumarle al precio de la publicación` },
+      { type: "p", content: `Este es el gasto que no aparece en la grilla de MercadoLibre. De las siete, solo la Gadnic trae afinador y cuerdas de repuesto, y la Yamaha C40 es la única cuya ficha declara explícitamente que no incluye funda.` },
+      { type: "h3", title: `Funda acolchada` },
+      { type: "product-card", productMlaId: "MLA77260613", label: "El primer gasto extra", labelColor: "blue", description: `106 cm de largo, acolchada, impermeable y con bolsillos. {{rating:MLA77260613}} estrellas en {{reviews:MLA77260613}} calificaciones.` },
+      { type: "p", content: `A {{precio:MLA77260613}} es el más barato de los gastos pendientes. Entra una criolla de tamaño completo y tiene bolsillos para las púas y las cuerdas. Un comprador la describe con honestidad: es una funda acorde a su precio, para no castigar la guitarra, no para andar todo el día con ella de un lado a otro.` },
+      { type: "h3", title: `Juego de cuerdas de repuesto` },
+      { type: "product-card", productMlaId: "MLA21868235", label: "El que siempre se termina comprando", labelColor: "blue", description: `Nailon de tensión normal para guitarra clásica. {{reviews:MLA21868235}} calificaciones, la base más grande del catálogo de música.` },
+      { type: "p", content: `Las cuerdas se cortan, sobre todo al principio, y las que vienen de fábrica en una guitarra de entrada son lo primero que se cambia. A {{precio:MLA21868235}}, este encordado tiene {{reviews:MLA21868235}} calificaciones: es la base más grande de todo el catálogo de música del sitio.` },
+      { type: "p", content: `Ojo con una cosa: tiene que ser **de nylon**. Un encordado de metal en una criolla le arruina el mástil.` },
+      { type: "p", content: `**El afinador no hace falta comprarlo.** Hay aplicaciones de celular gratis que resuelven el problema, y el oído del que arranca todavía no distingue la diferencia.` },
+
+      { type: "table", headers: [`Guitarra`, `Precio`, `Tamaño`, `Qué trae la caja`, `Origen`, `Calificaciones`], rows: [
+        [`[Femmto CG001](https://meli.la/2qsM1Rc)`, `{{precio:MLA40485883}}`, `4/4`, `Funda y púas`, `Marca de MercadoLibre`, `{{reviews:MLA40485883}}`],
+        [`[Parquer 1/4 para niños](https://meli.la/1fyuWUM)`, `{{precio:MLA25482706}}`, `**1/4**`, `Funda`, `Marca de MercadoLibre`, `{{reviews:MLA25482706}}`],
+        [`[Gadnic Estudio](https://meli.la/1xyQ4vf)`, `{{precio:MLA35245846}}`, `4/4, dato dudoso`, `**Estuche, afinador y cuerdas**`, `Marca de MercadoLibre`, `{{reviews:MLA35245846}}`],
+        [`[Parquer electrocriolla](https://meli.la/1Tbw8uU)`, `{{precio:MLA47118056}}`, `4/4, dato dudoso`, `Funda. **Se enchufa**`, `Marca de MercadoLibre`, `{{reviews:MLA47118056}}`],
+        [`[Rómulo García A-100 Plus](https://meli.la/27yiLjF)`, `{{precio:MLA68992218}}`, `4/4`, `No lista accesorios`, `**Argentina**`, `{{reviews:MLA68992218}}`],
+        [`[Fonseca 25](https://meli.la/2LWy3Sz)`, `{{precio:MLA44345937}}`, `4/4`, `No lista accesorios`, `**Argentina**`, `{{reviews:MLA44345937}}`],
+        [`[Yamaha C40](https://meli.la/1ENvTP3)`, `{{precio:MLA16059072}}`, `4/4`, `**Solo el manual**`, `Yamaha`, `{{reviews:MLA16059072}}`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir el tramo` },
+      { type: "h3", title: `Si estás probando si te va a gustar` },
+      { type: "p", content: `Tramo de entrada, y sin culpa. La [Femmto CG001](/producto/guitarra-criolla-femmto-cg001-con-funda-y-puas-mla40485883) es el piso de precio en tamaño completo y la [Gadnic](/producto/guitarra-criolla-de-estudio-gadnic-con-estuche-y-afinador-mla35245846) suma el afinador, el estuche y las cuerdas por {{preciodif:MLA35245846:MLA40485883}} más. Si comprás la más barata de las dos vas a gastar eso igual, solo que en un segundo pedido.` },
+      { type: "h3", title: `Si ya sabés que vas a seguir` },
+      { type: "p", content: `Ahí el tramo del medio empieza a tener sentido. La [Fonseca 25](/producto/guitarra-criolla-fonseca-25-mate-natural-mla44345937) es la que más arriba llega sin entrar en el tramo de marca internacional, y el comprador que más años lleva tocando de todos los que dejaron reseña en esta comparativa eligió esa.` },
+      { type: "h3", title: `Si querés que no se quede corta` },
+      { type: "p", content: `La [Yamaha C40](/producto/guitarra-criolla-clasica-yamaha-c40-mla16059072) es la única guitarra de marca internacional de la comparativa. Sale más de cuatro veces la entrada y su ficha declara que no incluye funda, así que al precio hay que sumarle una. A cambio, es la que menos probable es que quieras cambiar en un año.` },
+      { type: "h3", title: `Si es un regalo para un chico` },
+      { type: "p", content: `La medida antes que el precio: la [Parquer 1/4](/producto/guitarra-criolla-para-ninos-parquer-1-4-con-funda-mla25482706). Una 4/4 en manos chicas no se puede tocar, y una guitarra que no se puede tocar se abandona.` },
+
+      { type: "verdict", content: `Una criolla nueva de tamaño completo con stock en Argentina arranca en **{{precio:MLA40485883}}** con la [Femmto CG001](/producto/guitarra-criolla-femmto-cg001-con-funda-y-puas-mla40485883) y llega a **{{precio:MLA16059072}}** con la [Yamaha C40](/producto/guitarra-criolla-clasica-yamaha-c40-mla16059072). El tramo donde compra casi todo el que empieza va de {{precio:MLA40485883:k}} a {{precio:MLA35245846:k}}, y dentro de ese tramo la [Gadnic](/producto/guitarra-criolla-de-estudio-gadnic-con-estuche-y-afinador-mla35245846) es la que menos gasto deja pendiente porque trae afinador, estuche y cuerdas. Si el presupuesto llega más arriba, la [Fonseca 25](/producto/guitarra-criolla-fonseca-25-mate-natural-mla44345937) es el escalón que más sube sin irse a marca internacional. Y antes de cerrar la compra, mirá qué lista la publicación: **si no incluye funda sumale {{precio:MLA77260613:k}}**, y salvo que sea la Gadnic, contá también un juego de cuerdas de repuesto.` },
+    ],
+    faq: [
+      { question: `¿Cuánto sale una guitarra criolla en Argentina?`, answer: `De las siete que verificamos con stock nacional, la más barata de tamaño completo es la [Femmto CG001](/producto/guitarra-criolla-femmto-cg001-con-funda-y-puas-mla40485883) a {{precio:MLA40485883}} y la más cara la [Yamaha C40](/producto/guitarra-criolla-clasica-yamaha-c40-mla16059072) a {{precio:MLA16059072}}. El tramo donde compra la mayoría de los que arrancan va de {{precio:MLA40485883:k}} a {{precio:MLA35245846:k}}. Ojo con lo que suma cada caso: tres de las siete no listan funda, y ahí hay que agregar unos {{precio:MLA77260613}}. Las cuerdas de repuesto las trae una sola, así que en las otras seis conviene contar unos {{precio:MLA21868235}} más.` },
+      { question: `¿Qué cambia entre una criolla barata y una cara?`, answer: `Tres cosas, y el sonido no es la primera. **Las maderas:** las dos del tramo de entrada tienen tapa de tilo; en el medio aparecen pino, abeto y abedul, y arriba el diapasón y el puente de palo de rosa. **La terminación:** las cejuelas a la altura correcta y los trastes sin filos son lo que separa una guitarra que se puede tocar cómoda de una que no, y es justo lo que destacan los compradores de la [Fonseca 25](/producto/guitarra-criolla-fonseca-25-mate-natural-mla44345937). **Y lo que viene en la caja:** la [Gadnic](/producto/guitarra-criolla-de-estudio-gadnic-con-estuche-y-afinador-mla35245846) a {{precio:MLA35245846}} trae afinador, estuche y cuerdas, mientras que la [Yamaha C40](/producto/guitarra-criolla-clasica-yamaha-c40-mla16059072) a {{precio:MLA16059072}} viene con el manual y nada más.` },
+      { question: `¿Cuál es la guitarra criolla más barata que sirve?`, answer: `La [Femmto CG001](/producto/guitarra-criolla-femmto-cg001-con-funda-y-puas-mla40485883) a {{precio:MLA40485883}} es el piso de precio en tamaño completo, y sus propios compradores son honestos sobre qué esperar: no es de buena calidad, pero sirve para dar los primeros pasos si se la cuida. Si podés estirarte {{preciodif:MLA35245846:MLA40485883}} más, la [Gadnic](/producto/guitarra-criolla-de-estudio-gadnic-con-estuche-y-afinador-mla35245846) trae el afinador, el estuche y las cuerdas de repuesto que igual vas a terminar comprando aparte.` },
+      { question: `¿Qué me falta comprar además de la guitarra?`, answer: `Una **funda**, salvo que la traiga: la [Yamaha C40](/producto/guitarra-criolla-clasica-yamaha-c40-mla16059072) declara en su ficha que no la incluye, y la [Fonseca](/producto/guitarra-criolla-fonseca-25-mate-natural-mla44345937) y la [Rómulo García](/producto/guitarra-criolla-clasica-romulo-garcia-a-100-plus-mla68992218) no listan accesorios. Andan por {{precio:MLA77260613}}. Un **juego de cuerdas de repuesto**, porque se cortan sobre todo al principio: alrededor de {{precio:MLA21868235}}, y tiene que ser de nylon. El **afinador** no hace falta comprarlo, hay apps de celular gratis que resuelven el problema. La única que trae las tres cosas es la [Gadnic](/producto/guitarra-criolla-de-estudio-gadnic-con-estuche-y-afinador-mla35245846).` },
+      { question: `¿Qué guitarra criolla comprar para un chico?`, answer: `La medida importa más que el precio. La [Parquer 1/4](/producto/guitarra-criolla-para-ninos-parquer-1-4-con-funda-mla25482706) a {{precio:MLA25482706}} es tamaño infantil real, no una 4/4 vendida como para chicos: las otras seis de esta comparativa son de adulto. Una guitarra demasiado grande no se puede tocar y termina abandonada. Trae funda y cuerdas de nylon, que lastiman mucho menos los dedos. La contra a tener clara es que se queda chica cuando el chico crece.` },
+      { question: `¿Se consiguen guitarras criollas de marca conocida en Argentina?`, answer: `Sí, y conviene aclararlo porque se dice lo contrario. La [Yamaha C40](/producto/guitarra-criolla-clasica-yamaha-c40-mla16059072) está disponible con {{reviews:MLA16059072}} calificaciones. Lo que pasa es que sale {{preciodif:MLA16059072:MLA40485883}} más que una criolla de entrada, así que el que arranca casi nunca llega hasta ahí. También hay fabricación argentina en el tramo del medio: la [Fonseca 25](/producto/guitarra-criolla-fonseca-25-mate-natural-mla44345937) y la [Rómulo García A-100 Plus](/producto/guitarra-criolla-clasica-romulo-garcia-a-100-plus-mla68992218).` },
+      { question: `¿Conviene una criolla que se pueda enchufar?`, answer: `Solo si ya sabés que la vas a amplificar. La [Parquer electrocriolla](/producto/guitarra-electrocriolla-parquer-custom-con-ecualizador-y-funda-mla47118056) a {{precio:MLA47118056}} trae ecualizador incorporado y es lo único de esta lista que no se puede agregar después. Pero para aprovecharlo hace falta un amplificador, que su publicación no lista, y sus compradores avisan que el sonido acústico es opaco y que hay que afinarla después de cada uso. Si vas a tocar sola en casa, ese dinero rinde más en maderas.` },
+      { question: `¿Cuántas calificaciones tiene que tener para confiar?`, answer: `Mirá el número, no solo las estrellas. La [Rómulo García](/producto/guitarra-criolla-clasica-romulo-garcia-a-100-plus-mla68992218) tiene {{rating:MLA68992218}} de rating, que es perfecto, pero sobre apenas {{reviews:MLA68992218}} calificaciones: eso dice mucho menos que el {{rating:MLA40485883}} de la [Femmto CG001](/producto/guitarra-criolla-femmto-cg001-con-funda-y-puas-mla40485883) sobre {{reviews:MLA40485883}}. En esta comparativa las bases más grandes son las de la Femmto CG001, la [Yamaha C40](/producto/guitarra-criolla-clasica-yamaha-c40-mla16059072) y la [Gadnic](/producto/guitarra-criolla-de-estudio-gadnic-con-estuche-y-afinador-mla35245846). Y tené en cuenta que MercadoLibre aclara que las calificaciones incluyen opiniones de otros países.` },
+    ],
+    internalLinksTitle: `Las fichas, una por una`,
+    internalLinks: [
+      { label: `Femmto CG001: ficha y opiniones`, href: `/producto/guitarra-criolla-femmto-cg001-con-funda-y-puas-mla40485883` },
+      { label: `Gadnic con estuche y afinador: ficha y opiniones`, href: `/producto/guitarra-criolla-de-estudio-gadnic-con-estuche-y-afinador-mla35245846` },
+      { label: `Parquer electrocriolla: ficha y opiniones`, href: `/producto/guitarra-electrocriolla-parquer-custom-con-ecualizador-y-funda-mla47118056` },
+      { label: `Rómulo García A-100 Plus: ficha y opiniones`, href: `/producto/guitarra-criolla-clasica-romulo-garcia-a-100-plus-mla68992218` },
+      { label: `Fonseca 25: ficha y opiniones`, href: `/producto/guitarra-criolla-fonseca-25-mate-natural-mla44345937` },
+      { label: `Yamaha C40: ficha y opiniones`, href: `/producto/guitarra-criolla-clasica-yamaha-c40-mla16059072` },
+      { label: `Parquer 1/4 para niños: ficha y opiniones`, href: `/producto/guitarra-criolla-para-ninos-parquer-1-4-con-funda-mla25482706` },
+      { label: `Funda acolchada Sunset Music AB15: ficha y opiniones`, href: `/producto/funda-acolchada-reforzada-para-guitarra-criolla-sunset-music-ab15-mla77260613` },
+      { label: `Encordado D'Addario EJ27N: ficha y opiniones`, href: `/producto/encordado-para-guitarra-criolla-d-addario-ej27n-tension-normal-mla21868235` },
+    ],
+  },
+  {
     slug: "instrumentos-musicales",
     category: "instrumentos-musicales",
     silo: "musica",
@@ -28805,6 +28941,11 @@ export function getDisplaySilo(g: Pick<Guide, "silo" | "category">): string {
 }
 
 export const guideCategories: Record<string, { name: string; description: string }> = {
+  guitarras: {
+    name: "Guía de Guitarras",
+    description:
+      "Guitarras comparadas por tramo de precio, con lo que cada caja trae de verdad y el gasto que aparece después: afinador, cuerdas de repuesto y funda.",
+  },
   "instrumentos-musicales": {
     name: "Guía de Instrumentos Musicales",
     description:
