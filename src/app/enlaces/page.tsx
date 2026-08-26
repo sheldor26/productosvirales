@@ -36,8 +36,10 @@ export const metadata: Metadata = {
 
 const SOCIAL_LINKS = [
   { label: "Sitio", href: "https://productosvirales.com.ar" },
+  { label: "Instagram", href: "https://www.instagram.com/productosvirales.ok" },
   { label: "Threads", href: "https://www.threads.com/@productosvirales.com.ar" },
   { label: "X", href: "https://x.com/productosvirale" },
+  { label: "Telegram (bajas de precio)", href: "https://t.me/productosvirales_argentina" },
 ];
 
 const DAY_MS = 24 * 60 * 60 * 1000;
@@ -196,6 +198,9 @@ export default function EnlacesPage() {
       )}
 
       <div className="w-full flex flex-col gap-3 mt-10">
+        <p className="text-center text-xs font-bold uppercase tracking-wide text-[var(--text-muted)] mb-1">
+          Seguinos en todas nuestras redes
+        </p>
         {SOCIAL_LINKS.map((link) => (
           <a
             key={link.label}

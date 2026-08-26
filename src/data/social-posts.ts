@@ -539,4 +539,34 @@ export const socialPosts: SocialPost[] = [
     offPct: "44",
     postedAt: "2026-08-25T18:20:06-03:00",
   },
+  {
+    title: "Consola PS5 Digital + Astro Bot + Gran Turismo 7",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_762299-MLA96673496657_102025-O.webp",
+    affiliateUrl: "https://meli.la/2uDAPvb",
+    newPrice: "1.499.999",
+    oldPrice: "1.939.999",
+    offPct: "22",
+    postedAt: "2026-08-25T20:06:04-03:00",
+  },
+  {
+    title: "Parlante JBL Charge 5",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_886635-MLA100077802831_122025-O.webp",
+    affiliateUrl: "https://meli.la/2wzqeGq",
+    newPrice: "307.199",
+    oldPrice: "349.999",
+    offPct: "12",
+    postedAt: "2026-08-26T08:13:40-03:00",
+  },
+  {
+    title: "Sillón Masajeador Gadnic Titanium",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_628524-MLA114964176713_072026-O.webp",
+    affiliateUrl: "https://meli.la/22pyuhT",
+    newPrice: "1.162.080",
+    oldPrice: "2.080.849",
+    offPct: "44",
+    postedAt: "2026-08-26T12:12:47-03:00",
+  },
 ];
