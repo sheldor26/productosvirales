@@ -1,7 +1,7 @@
 # Estado actual
 
 > Snapshot del proyecto. Se actualiza al final de cada sesión.
-> Última actualización: 2026-08-25 (silo de cámaras deportivas con sus dos hijas de marca: 16 fichas y 3 guías. La de Insta360 queda STAGED; el pilar se corrigió en vivo por un cambio de ficha de la X5 — ver sesión inmediatamente abajo). Antes en el mismo día: guía de impresoras 3D publicada, 3 fichas de anillos, notebooks descartado.
+> Última actualización: 2026-08-25 (silo de cámaras deportivas COMPLETO Y EN VIVO: 16 fichas y 3 guías, pilar + `gopro-cual-comprar` + `insta360-cual-comprar` — ver sesión inmediatamente abajo). Antes en el mismo día: guía de impresoras 3D publicada, 3 fichas de anillos, notebooks descartado.
 
 ## Sesión 2026-08-25 (d) — Insta360, y una corrección sobre contenido en vivo
 
@@ -69,9 +69,17 @@ Esta vez el chequeo se corrió ANTES de escribir y encontró un error propio ant
 X4 pesa 203 g, más que los 200 de la X5, así que la contra que decía que la X5 era "la más pesada
 de las Insta360" quedaba falsa. La auditoría encontró tres roturas más en fichas publicadas.
 
-### Pendiente
+### PUBLICADA
 
-- Publicar `insta360-cual-comprar` (dar vuelta la fecha) y agregarle enlaces entrantes.
+`insta360-cual-comprar` salió en vivo el mismo día, con **3 enlaces entrantes**: dos desde el pilar
+y uno cruzado desde `gopro-cual-comprar`. De paso se adelgazó la duplicación que quedaba: el pilar
+enumeraba las generaciones de Insta360 en dos lugares, igual que había pasado con la HERO14, y
+ahora la explicación completa vive solo en la sección de generaciones.
+
+**El silo queda completo y en vivo:** pilar `camara-deportiva` más dos hijas de marca, las tres
+enlazadas entre sí, sobre 16 fichas de cámara.
+
+### Pendiente
 - La Insta360 X6 sigue sin ventas registradas en ML.
 - Las líneas Ace y Luna de Insta360 no están en el catálogo: se mencionan sin prometer stock.
 
