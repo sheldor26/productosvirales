@@ -138,7 +138,7 @@ dice. Es el diferencial de la guía.
 | Modelo | Sensor | Peso | Video máx |
 |---|---|---|---|
 | DJI Osmo Action 4 | **1/1,3"** | 145 g | 4K a 120 fps |
-| GoPro HERO13 Black | 1/1,9" | **154 g** (no 159) | 5.3K a 60 fps |
+| GoPro HERO13 Black | 1/1,9" | **159 g** (el 154 era el de la HERO12) | 5.3K a 60 fps |
 | Insta360 X3 | 1/2" | 180 g | 5.7K a 30 fps en 360 |
 | Gadnic MCDEP017 | No declara | 58 g | 4K a 30 fps |
 | Akaso V50X | **No declara** | **No declara** | 4K a 30 fps |
@@ -264,7 +264,7 @@ Los `h3` no resuelven tokens, así que van sin números.
 > HB-Series, y la cámara reconoce sola cuál le pusiste y ajusta los parámetros. Si te interesa el
 > macro o el ultra gran angular, es el único camino de esta comparativa.
 >
-> Pesa 154 gramos con batería y trae rosca de 1/4-20, así que entra en cualquier soporte
+> Pesa 159 gramos con batería y trae rosca de 1/4-20, así que entra en cualquier soporte
 > genérico sin adaptador.
 
 `pull-quote`: **PENDIENTE** (reseña real de ML).
@@ -814,7 +814,7 @@ Que el sensor cuadrado permita reencuadrar sin recorte (DJI nunca lo afirmó).
 |---|---|---|
 | **Más profunda sin carcasa** | **DJI Action 6, 20 m** | Action 6 20 > Action 4 18 > X5 15 > GoPro 10 = X3 10 > Akaso y Gadnic (solo con carcasa) |
 | **Sensor más grande declarado** | **DJI Action 6, 1/1,1"** | Action 6 > X5 1/1,28 > Action 4 1/1,3 > GoPro 1/1,9 > X3 1/2 · Akaso y Gadnic no declaran |
-| **Más liviana declarada** | Gadnic, 58 g | Gadnic 58 < Action 4 145 < Action 6 149 < GoPro 154 < X3 180 < X5 200 · Akaso no declara |
+| **Más liviana declarada** | Gadnic, 58 g | Gadnic 58 < Action 4 145 < Action 6 149 < HERO12 154 < HERO13 159 < X3 180 < X5 200 · Akaso no declara |
 | **Más pesada declarada** | **Insta360 X5, 200 g** | **CAMBIÓ**: antes era la X3 |
 | Más cara | Insta360 X5 | |
 | Más barata | Gadnic | |
@@ -925,3 +925,16 @@ Cinco frentes, cuatro rondas. **87 correcciones aplicadas.**
 `tsc --noEmit`, los 8 checks del sitio y `npm run build` en verde. Render verificado en vivo:
 0 tokens sin resolver, 0 markdown crudo, 42 links de afiliado todos con `rel="sponsored"`,
 69 items de lista de los cuales 46 llevan link.
+
+---
+
+> **CORRECCIÓN 2026-08-26 — el 154 g de la HERO13 era un error de copia.** Son los gramos de la
+> **HERO12**. La HERO13 Black pesa **159 g con batería y dedos de montaje, 125 g sin batería**,
+> según la tabla de specs oficial de GoPro (`gopro.com`, locales US y AR) y su artículo de soporte.
+> Lo que cierra el caso es la aritmética del propio comunicado de lanzamiento del 4-sep-2024:
+> dice que la HERO pesa 86 g y tiene *"46% less mass than HERO13 Black"*. 86 / 0,54 = 159,3 g.
+> Con 154 daría 44%, con 157 daría 45%. **GoPro nunca publicó 154 g para la HERO13.**
+> Las dos cámaras comparten cuerpo idéntico (71,8 x 50,8 x 33,6 mm); lo que cambia es la batería,
+> 1720 mAh contra 1900. Todo lo que decía "mismo peso" en las guías se reemplazó por
+> "mismas medidas de cuerpo", que sí está verificado. NO reintroducir el 154 para la HERO13.
+

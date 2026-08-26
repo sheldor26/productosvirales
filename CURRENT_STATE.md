@@ -1,7 +1,176 @@
 # Estado actual
 
 > Snapshot del proyecto. Se actualiza al final de cada sesión.
-> Última actualización: 2026-08-25 (silo de cámaras deportivas COMPLETO Y EN VIVO: 16 fichas y 3 guías, pilar + `gopro-cual-comprar` + `insta360-cual-comprar` — ver sesión inmediatamente abajo). Antes en el mismo día: guía de impresoras 3D publicada, 3 fichas de anillos, notebooks descartado.
+> Última actualización: 2026-08-26 (tercera hija del silo de cámaras: `dji-cual-comprar` PUBLICADA + 3 fichas DJI, catálogo a 522 — ver sesión inmediatamente abajo). El 2026-08-25: silo de cámaras deportivas completo y en vivo con 16 fichas y 3 guías.
+
+## Sesión 2026-08-26 — DJI, la marca que compite en cuatro formatos, y dos errores de ficha de MercadoLibre
+
+### LO QUE SE HIZO
+
+- **Guía `dji-cual-comprar`** PUBLICADA el 2026-08-26, tercera hija de marca del pilar
+  `camara-deportiva`. 5 product-cards, 4 quickPicks, 8 FAQ, 8 internalLinks, tabla de 5 filas.
+- **3 fichas nuevas** en `curated-products.ts` (catálogo 519 → **522**):
+  MLA66182550 Osmo Action 5 Pro ($962.099 · 4.9 · 133), MLA53612281 Osmo 360
+  ($1.418.249 · 4.9 · 402) y MLA58197668 Osmo Nano 64GB ($1.085.999 · 4.9 · 130).
+- **9 correcciones de consistencia** a contenido ya publicado (pilar + 3 fichas viejas).
+
+### LA TESIS: LA DEL MEDIO ES LA QUE CONVIENE
+
+La **Osmo Action 5 Pro** graba el mismo 4K a 120 cuadros y se moja los mismos 20 metros que la
+Action 6, por **$581.550 menos**. Lo único que suma la 6 es la apertura variable y el sensor de
+1/1,1. El dato de búsqueda lo respalda: **"osmo action 5 pro" 390/mes contra 320 de "dji osmo
+action 6"**, que es más nueva. Mismo patrón que el hallazgo de la X4 Air en la guía de Insta360.
+
+El ángulo de la guía es que **DJI es la única marca grande que compite en cuatro formatos a la
+vez** (Osmo Action, Osmo 360, Osmo Nano, Osmo Pocket), todos llamados Osmo, y por eso "quiero
+una DJI" es la búsqueda que menos dice qué comprar.
+
+### KEYWORDS (Keyword Planner, AR, 2026-08-26)
+
+Cabecera de marca ~**2.020/mes**: camara dji 880 · dji camaras 390 · camara osmo 390 · resto 360.
+Por modelo: dji osmo 360 **480** · osmo action 5 pro **390** · dji osmo action 4 390 ·
+dji osmo action 6 320 · osmo nano 320 · osmo 360 260. Total cámaras DJI ~**4.840/mes**,
+sin drones (~9.400) ni estabilizadores (~700), que son otra góndola.
+
+### LOS DOS ERRORES DE MERCADOLIBRE
+
+Ratificar specs contra `dji.com` encontró que **la publicación mentía en dos de los tres
+productos, las dos veces subdeclarando**:
+
+| Dato | ML decía | DJI oficial |
+|---|---|---|
+| Sensor Osmo 360 | 1/2.3" | **dos de 1/1,1"** — le gana a la Insta360 X5 (1/1,28") |
+| Video Action 5 Pro | 4K/**60** | 4K/**120** — la subdeclaraba a la mitad |
+
+La ficha de la Osmo 360 se contradecía sola: la tabla técnica decía 1/2.3" y el texto de la
+misma página decía 1/1.1". Informe completo con lista negra de 37 datos no publicables en
+`docs/clusters/dji/specs-ratificadas.md`.
+
+### LA TRAMPA DE LA NANO, EVITADA
+
+Los 52 g de la Osmo Nano son **solo el módulo** que se cuelga; el conjunto con Vision Dock pesa
+124 g. La Insta360 GO 3S es 39,1 g el módulo y 135,4 g el conjunto. Módulo contra módulo la Nano
+es **más pesada**; armadas es **8% más liviana**. Escribir "52 g contra 135,4 g" habría inflado
+la ventaja casi 3x. La guía y la ficha declaran siempre las tres piezas por separado.
+
+### UN PASIVO QUE YA ERA FALSO ANTES DE HOY
+
+La ficha del Gadnic (MLA62771175) decía **"58 g: es la cámara de acción más liviana del
+catálogo"**. La Insta360 GO 3S está en catálogo desde antes con **39,1 g**. Estaba mal desde que
+se cargó la GO 3S y lo encontró el chequeo cruzado de esta sesión, no una revisión de esa ficha.
+
+### DOS ERRORES PROPIOS, ENCONTRADOS RELEYENDO LO RECIÉN ESCRITO
+
+1. Se escribió *"la única de las cuatro cámaras 360 de nuestro catálogo"* cuando el catálogo
+   tiene **siete**. Corregido en 6 lugares: ahora nombra las tres cámaras cuyo techo de fps se
+   verificó (X5, X4, MAX2) en vez de reclamar exclusividad sobre un conjunto no medido.
+2. Se dijo que los 20 m eran el máximo del catálogo sin aclarar que la **GoPro MISSION 1 PRO
+   también declara 20 m**. Empate a tres. Corregido en 4 lugares, en los dos archivos.
+
+### EL TRÍO AUDITOR: 6 BLOQUEANTES REALES, CERO FALSOS POSITIVOS
+
+| Pasada | Codex | Gemini |
+|---|---|---|
+| 1ª | NO-GO, 3 bloqueantes | timeout, sin salida |
+| 2ª | NO-GO, 1 bloqueante; confirma las 5 correcciones | GO en 4 de 5, NO-GO por cobertura |
+| 3ª | NO-GO, 2 bloqueantes (uno fuera de alcance) | **GO** |
+| 4ª | **GO** | — |
+
+**Cero falsos positivos en cuatro pasadas**, que es inusual. La causa probable: el prompt llevó
+desde el arranque las reglas de estilo intencionales del sitio y la lista de lo ya verificado, que
+es justo lo que genera el ruido de la primera pasada cuando falta.
+
+Los bloqueantes propios corregidos: el GPS de la Osmo 360 (afirmación negativa que la lista negra
+prohibía), la comparación 5 Pro contra Action 6 que se olvidaba el 8K, el claim de "la 360 más
+cara entre las versiones sin accesorios" cuando la ficha misma es un combo, el superlativo de
+"la única marca con cuatro formatos" que la propia guía de Insta360 desmiente, y la atribución de
+"sumergible" a la línea Osmo Pocket, que no lo es.
+
+### EL HALLAZGO DE GEMINI: LA ACTIVACIÓN CON DJI MIMO
+
+Faltaba un dato que ninguna publicación de MercadoLibre menciona: **las cinco cámaras se activan
+con la app DJI Mimo antes del primer uso**. Verificado leyendo los manuales PDF oficiales de los
+cuatro modelos y el soporte de DJI. Se agregó un H2 y una FAQ, con alcance acotado: el botón
+"Omitir (intentos restantes: 5)" DJI lo documenta **solo para la línea Osmo Action**, y para la
+Osmo 360 y la Nano el texto dice que DJI no lo documenta, que no es lo mismo que decir que no lo
+tienen.
+
+### LA REGLA NUEVA QUE PAGÓ SOLA
+
+Generar una lista negra de datos no publicables **no alcanza**: hay que grepear lo escrito contra
+ella antes de cerrar. Al aplicarla aparecieron tres specs de estabilización mal, que ningún
+auditor había visto: la Osmo 360 decía "no usa RockSteady" cuando dji.com dice que usa RockSteady
+3.0 y HorizonSteady. Quedó en memoria como [[lista-negra-hay-que-grepearla-contra-lo-escrito]].
+
+### CORREGIDO: EL PESO DE LA HERO13 ERA EL DE LA HERO12
+
+Salió del chequeo cruzado: las fichas MLA47374183 (HERO13 Black) y MLA27104632 (HERO12 Black)
+declaraban el **peso idéntico**, "154 g con batería; 121 g sin batería". Dos generaciones con el
+mismo número al byte. **El 154 era el de la HERO12.**
+
+**La HERO13 Black pesa 159 g con batería y dedos de montaje, 125 g sin batería**, según la tabla
+de specs oficial de GoPro en los locales US y AR, su artículo de soporte y TechRadar.
+
+Lo que cierra el caso no es una tabla, es la aritmética del propio comunicado de lanzamiento del
+4-sep-2024: dice que la HERO pesa 86 g y tiene *"46% less mass than HERO13 Black"*.
+**86 / 0,54 = 159,3 g.** Con 154 daría 44%, con 157 daría 45%. Solo 159 devuelve el 46% publicado.
+
+Una investigación anterior había concluido 154 partiendo de una premisa falsa en las dos mitades:
+el comunicado **no declara ningún peso**, y la hoja de specs que decía 154 era la de la HERO12.
+Las dos cámaras comparten cuerpo idéntico (71,8 x 50,8 x 33,6 mm); lo que cambia es la batería,
+1720 mAh contra 1900. El delta cierra solo: 154 − 121 = 33 g, 159 − 125 = 34 g.
+
+**El error se había filtrado a la tesis editorial**, no solo al campo `Peso`. La guía de GoPro
+afirmaba que las dos cámaras tienen "mismo peso" en cuatro lugares. Se corrigieron **11 lugares**
+en los dos archivos de datos: los pesos de las dos fichas, los cuatro claims de "mismo peso" (que
+pasan a "mismas medidas de cuerpo", que sí está verificado), el peso en el pilar, la comparación
+de la ficha de la Insta360 X5 (200 g son 41 más que 159, no 46 más que 154) y la de la HERO (2024),
+que ahora usa el mismo 46% que publica GoPro.
+
+**El hallazgo de la guía de GoPro sobrevive intacto:** sigue siendo "la misma cámara menos GPS".
+Solo se le sacó el peso de la lista de cosas compartidas y se le pusieron las medidas.
+
+Se corrigieron también los dos borradores que consagraban el número equivocado
+(`docs/clusters/gopro/` y `docs/clusters/camaras-deportivas/`), con un bloque que explica el porqué
+para que la próxima sesión no lo reintroduzca.
+
+### DECISIÓN DE ARQUITECTURA
+
+Las 3 fichas entran **solo a la guía hija, no al pilar**. Es el patrón que el silo ya seguía sin
+estar escrito: GoPro tiene 6 fichas y 1 en el pilar; Insta360 tiene 6 y 2. Así el pilar sigue con
+sus siete cámaras y su tesis de "tres tramos y dos pozos" queda intacta.
+
+### PUBLICADA, CON EL SILO ENLAZADO
+
+Se construyó en STAGED a propósito, porque `findGuideByPath` filtra por `getPublishedGuides()` y
+un link entrante a una guía sin publicar sería un 404. Al publicar se hicieron los seis pasos:
+flip de las dos fechas, 3 links en prosa en el pilar, la entrada de `internalLinks` en las tres
+guías del silo, y `sitemapLastmod` a 2026-08-26 en las tres, **sin tocar `updatedDate`**.
+
+El pilar quedó con 12 anclas hacia la guía nueva: las 4 puestas a mano más las que genera solo el
+bloque de guías relacionadas. La guía y las 3 fichas devuelven 200 y están las cuatro en el
+sitemap.
+
+**El silo de cámaras deportivas queda con 19 fichas y 4 guías**: pilar + GoPro + Insta360 + DJI.
+
+### VERIFICACIÓN
+
+`tsc --noEmit` y `npm run build` en verde. Los nueve checks de contenido en verde, corridos por
+separado porque la cadena `&&` enmascara fallas. Renderizado real en el dev server: cero tokens
+sin resolver, cero tokens filtrados a títulos h2/h3, cero imágenes rotas, 34 links con
+`rel="sponsored"`, tabla con los 5 links de afiliado en la primera columna.
+
+Dos fallas **preexistentes en HEAD y ajenas a este trabajo**, verificadas con `git stash`:
+`check-catalogo-fresco` (119 productos viejos con precio ancla) y `npm run lint`
+(5 errores de `react-hooks/set-state-in-effect` en componentes no tocados).
+
+### LO QUE QUEDA ABIERTO
+
+- **Osmo Pocket**: la familia suma ~**12.050/mes** y el Pack Creadores del Pocket 3 tiene **1.183
+  opiniones**, más que cualquier cámara DJI del país. Es la oportunidad más grande que dejó esta
+  sesión, y necesita silo propio: no es una cámara deportiva.
+
+---
 
 ## Sesión 2026-08-25 (d) — Insta360, y una corrección sobre contenido en vivo
 

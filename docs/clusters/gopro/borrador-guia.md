@@ -86,7 +86,7 @@ distintas, sin superposición de keyword objetivo. Las dos enlazan a la misma fi
 | Rating 4.9 | **EMPATE A DOS** | HERO13 y MAX2 |
 | Sensor más grande | MISSION 1 PRO (1") | Después MAX2, HERO13/HERO12 (1/1,9"), HERO 2024 (1/2,8") |
 | La más profunda sin carcasa | MISSION 1 PRO (20 m) | HERO12 y HERO13 10 m; HERO 2024 y LIT HERO 5 m |
-| La más liviana | HERO (2024) (86 g) | LIT HERO 93 g; HERO12 y HERO13 154 g |
+| La más liviana | HERO (2024) (86 g) | LIT HERO 93 g; HERO12 154 g; HERO13 159 g |
 
 **La escalera de precios es PAREJA**, sin huecos: 440k → 550k → 750k → 931k → 1.050k → 1.750k.
 Es el contraste exacto de la tesis del pilar, donde había dos pozos. Sirve para explicar por qué
@@ -107,7 +107,7 @@ comprar dentro de una marca es distinto a comprar por categoría.
 | Batería | Enduro extraíble de 1720 mAh |
 | Autonomía | 70 min en 5.3K60 · +95 min en 5.3K30 · 58 min en 4K120 · +155 min en 1080p30 |
 | Sumergible | 10 m sin carcasa; 60 m con carcasa |
-| Peso | 154 g con batería y patas; 121 g sin batería |
+| Peso | HERO12: 154 g con batería y dedos; 121 g sin. HERO13: 159 g / 125 g |
 | Pantallas | Trasera táctil 2,27" y frontal a color 1,4" |
 
 **NO publicar de la HERO12** (el verificador los dejó en duda): capacidad máxima de microSD,
@@ -162,10 +162,9 @@ contradicen), el tiempo de carga rápida (27 min vs 20 min según fuente), y la 
 
 ## 6. Contradicción heredada del pilar, para no tropezar dos veces
 
-El comunicado de prensa de GoPro dice que la **HERO13 Black pesa 159 g**; la ficha de specs dice
-**154 g**. Son dos fuentes oficiales de GoPro que se contradicen. La ficha publicada usa 154 g,
-que es el de la ficha técnica y el que el verificador adversarial confirmó. Si un auditor lo
-marca, la respuesta es esta.
+**Resuelto el 2026-08-26: la HERO13 pesa 159 g.** Lo que decía esta sección era falso en
+las dos mitades: el comunicado de lanzamiento NO declara ningún peso, y la ficha de specs
+que decía 154 era la de la HERO12. Ver el bloque de corrección al final del documento.
 
 ---
 
@@ -173,7 +172,8 @@ marca, la respuesta es esta.
 
 **La pregunta que la sostiene: HERO12 contra HERO13, por $181.105 de diferencia.** Las dos tienen
 +1000 vendidos, el mismo sensor de 1/1,9", el mismo 5.3K a 60 fps, los mismos 10 m de agua y el
-mismo peso de 154 g. Lo que cambia hay que decirlo con precisión, y por eso importa el dato de GPS.
+mismas medidas de cuerpo (71,8 x 50,8 x 33,6 mm). NO el mismo peso: la HERO12 pesa 154 g y la
+HERO13 159 g. Lo que cambia hay que decirlo con precisión, y por eso importa el dato de GPS.
 
 **Segundo ángulo: GoPro sí tiene una 360, y casi nadie lo sabe.** La MAX2 hace 8K en 360 y sale
 $709.230 menos que la Insta360 X5 del pilar. Eso le contesta con producto real a los 390/mes de
@@ -257,7 +257,7 @@ prensa se contradicen) y la tasa de bits (la landing dice 300 Mbps y la ficha t�
 
 **La pregunta de la guía: ¿qué comprás con los $181.105 que separan a la HERO12 de la HERO13?**
 
-Las dos comparten sensor (1/1,9"), video máximo (5.3K a 60 fps), agua (10 m), peso (154 g) y
+Las dos comparten sensor (1/1,9"), video máximo (5.3K a 60 fps), agua (10 m), medidas de cuerpo y
 las dos tienen +1000 vendidos. La respuesta concreta y verificable es **el GPS**: GoPro se lo
 sacó a la HERO12 y se lo devolvió a la HERO13. Sin GPS no tenés velocímetro, altitud, recorrido
 ni fuerza G superpuestos al video.
@@ -273,3 +273,16 @@ justamente por la estabilización tiene que saberlo, y ninguna de las dos public
 **Tercer ángulo: GoPro sí tiene una 360 y contesta los 390/mes de "go pro 360".** La MAX2 hace 8K,
 tiene GPS y sus lentes se cambian sin herramientas, algo que la Insta360 X5 del pilar no permite.
 Pero se moja solo 5 m contra los 15 de la X5, y GoPro admite que no es para usar bajo el agua.
+
+---
+
+> **CORRECCIÓN 2026-08-26 — el 154 g de la HERO13 era un error de copia.** Son los gramos de la
+> **HERO12**. La HERO13 Black pesa **159 g con batería y dedos de montaje, 125 g sin batería**,
+> según la tabla de specs oficial de GoPro (`gopro.com`, locales US y AR) y su artículo de soporte.
+> Lo que cierra el caso es la aritmética del propio comunicado de lanzamiento del 4-sep-2024:
+> dice que la HERO pesa 86 g y tiene *"46% less mass than HERO13 Black"*. 86 / 0,54 = 159,3 g.
+> Con 154 daría 44%, con 157 daría 45%. **GoPro nunca publicó 154 g para la HERO13.**
+> Las dos cámaras comparten cuerpo idéntico (71,8 x 50,8 x 33,6 mm); lo que cambia es la batería,
+> 1720 mAh contra 1900. Todo lo que decía "mismo peso" en las guías se reemplazó por
+> "mismas medidas de cuerpo", que sí está verificado. NO reintroducir el 154 para la HERO13.
+
