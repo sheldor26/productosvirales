@@ -2486,10 +2486,106 @@ export const guides: Guide[] = [
   // PILAR silla-gamer — silo gaming (/guias/gaming/...)
   // ─────────────────────────────────────────────────────────
   {
-    slug: "silla-gamer",
+    slug: "setup-gamer",
     category: "gaming",
     silo: "gaming",
     pillar: true,
+    title: `Setup gamer: qué necesitás y cuánto sale armar el tuyo [2026]`,
+    h1: `Setup gamer: qué necesitás y cuánto sale armar el tuyo [2026]`,
+    seoTitle: `Setup Gamer: Qué Necesitás y Cuánto Sale Armarlo [2026]`,
+    metaDescription: `Las 5 piezas de un setup gamer completo, con precio real de cada una: de {{precio:MLA9406415:k}} el auricular más barato a {{precio:MLA63267892:k}} el monitor. Cuánto sale armarlo entero, sin PC ni consola.`,
+    ogTitle: `Setup gamer: qué necesitás y cuánto sale armar el tuyo`,
+    ogDescription: `Monitor, silla, teclado, mouse y auriculares: las 5 piezas de un setup gamer, comparadas por precio real de MercadoLibre. Con la cuenta completa, no una lista de fotos.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_929992-MLA100025507743_122025-F.jpg`,
+    directAnswer: `Un setup gamer completo son **cinco piezas**: monitor, silla, teclado, mouse y auriculares. La compra más elegida de cada una suma **monitor** [Samsung Odyssey G3](/producto/monitor-samsung-odyssey-g3-g30d-24-fhd-180hz-plano-negro-mla63267892) ({{precio:MLA63267892}}), **silla** [Alpina PRE-FT055](/producto/silla-gamer-alpina-ergonomica-giratoria-reclinable-pre-ft055-negro-rojo-cuero-si-mla47084299) ({{precio:MLA47084299}}), **teclado + mouse** con el [kit Gadnic K4 Move](/producto/kit-gaming-teclado-y-mouse-gadnic-iluminacion-led-rgb-alta-precision-mla19079378) ({{precio:MLA19079378}}) y **auriculares** [Kotion Each G9000](/producto/auriculares-gamer-kotion-each-g9000-negro-y-azul-con-luz-led-mla9406415) ({{precio:MLA9406415}}). Esto **no incluye la PC ni la consola**, solo lo que rodea al equipo. Ojo con una cosa: si buscás "setup gamer" en Google, la mitad de lo que aparece son fotos de Pinterest e Instagram, no una lista de compra con precios reales.`,
+    publishedDate: "2026-08-28",
+    updatedDate: "2026-08-28",
+    hasDisclosure: true,
+    readingTime: 9,
+    standfirst: `Armar un setup gamer completo (monitor, silla, teclado + mouse y auriculares) con las opciones más elegidas de cada categoría es la suma de cuatro precios reales, no una estimación. Acá está la cuenta pieza por pieza, con precios de MercadoLibre en vivo, sin la PC ni la consola: eso ya lo tenés o lo elegís aparte.`,
+    quickPicks: [
+      { productMlaId: "MLA63267892", label: "El corazón del setup", labelColor: "green", tagline: "Samsung Odyssey G3: 180 Hz a precio de entrada gaming" },
+      { productMlaId: "MLA47084299", label: "Para las horas largas", labelColor: "blue", tagline: "Alpina PRE-FT055: la silla gamer más elegida y la más barata" },
+      { productMlaId: "MLA19079378", label: "Teclado y mouse en una compra", labelColor: "purple", tagline: "Kit Gadnic K4 Move: resuelve las dos piezas juntas" },
+      { productMlaId: "MLA9406415", label: "El sonido", labelColor: "amber", tagline: "Kotion Each G9000: el auricular gamer más vendido de Argentina" },
+    ],
+    intro: [
+      `Buscar "setup gamer" en Google te devuelve dos cosas: fotos de escritorios ajenos en Pinterest e Instagram, o una publicación suelta de MercadoLibre. Ninguna de las dos responde la pregunta real: **qué comprar, en qué orden, y cuánto sale todo junto**.`,
+      `Esta guía junta las cinco piezas de un setup gamer (monitor, silla, teclado, mouse y auriculares) con precios reales y en vivo, y linkea a la comparativa completa de cada una si querés profundizar. **No incluye la PC ni la consola**: eso es una decisión aparte, más grande, que no cubrimos acá.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_929992-MLA100025507743_122025-F.jpg", alt: `Silla gamer Alpina PRE-FT055, una de las cinco piezas de un setup gamer completo`, imageSize: "hero" },
+      { type: "callout", calloutVariant: "tip", calloutTitle: "La respuesta rápida", content: `Las cinco piezas de un setup gamer, con la opción más elegida de cada una: **[monitor](/producto/monitor-samsung-odyssey-g3-g30d-24-fhd-180hz-plano-negro-mla63267892)** ({{precio:MLA63267892}}), **[silla](/producto/silla-gamer-alpina-ergonomica-giratoria-reclinable-pre-ft055-negro-rojo-cuero-si-mla47084299)** ({{precio:MLA47084299}}), **[teclado + mouse](/producto/kit-gaming-teclado-y-mouse-gadnic-iluminacion-led-rgb-alta-precision-mla19079378)** en un solo kit ({{precio:MLA19079378}}) y **[auriculares](/producto/auriculares-gamer-kotion-each-g9000-negro-y-azul-con-luz-led-mla9406415)** ({{precio:MLA9406415}}). Ninguna incluye la PC ni la consola.` },
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo armamos esta guía:** cada pieza sale de nuestra propia comparativa de esa categoría (monitor, silla, teclado, mouse, auriculares), donde ya verificamos precio, specs y reseñas reales de MercadoLibre Argentina uno por uno. Acá los juntamos para responder la pregunta de conjunto: cuánto sale armar el setup completo, no solo cada pieza por separado. Los precios se muestran en vivo y se revisan tres veces por semana.` },
+
+      { type: "h2", title: `Las 5 piezas de un setup gamer`, id: "piezas" },
+
+      { type: "p", content: `**La que más se nota, y la que más pesa en el precio**` },
+      { type: "h3", title: `Monitor` },
+      { type: "product-card", productMlaId: "MLA63267892", label: "El corazón del setup", labelColor: "green", ranking: 1, description: `180 Hz, panel plano, precio de entrada gaming. {{rating:MLA63267892}} estrellas en {{reviews:MLA63267892}} calificaciones.` },
+      { type: "p", content: `Es la pieza más cara de las cinco, y con razón: es lo que estás mirando todo el tiempo. El [Samsung Odyssey G3](/producto/monitor-samsung-odyssey-g3-g30d-24-fhd-180hz-plano-negro-mla63267892) suma 180 Hz a precio de entrada, pero hay opciones curvas, ultrawide y más económicas en la comparativa completa de **[monitor gamer](/guias/gaming/monitor-gamer)**, donde te explicamos qué mirar de verdad (hercios, panel y resolución) antes de gastar.` },
+
+      { type: "p", content: `**La que se paga una vez y dura años**` },
+      { type: "h3", title: `Silla` },
+      { type: "product-card", productMlaId: "MLA47084299", label: "Para las horas largas", labelColor: "blue", ranking: 2, description: `La silla gamer más elegida de Argentina y también la más barata de su comparativa. {{rating:MLA47084299}} estrellas en {{reviews:MLA47084299}} calificaciones.` },
+      { type: "p", content: `Si vas a pasar horas sentado, es donde menos conviene ahorrar de más. La [Alpina PRE-FT055](/producto/silla-gamer-alpina-ergonomica-giratoria-reclinable-pre-ft055-negro-rojo-cuero-si-mla47084299) es la más elegida y también la más barata de su categoría, pero el peso que soporta y el material del tapizado cambian bastante entre modelos. La comparativa completa de **[silla gamer](/guias/gaming/silla-gamer)** ordena las opciones por tu peso y cuántas horas te sentás.` },
+
+      { type: "p", content: `**Las dos piezas que se resuelven juntas, o por separado**` },
+      { type: "h3", title: `Teclado y mouse` },
+      { type: "product-card", productMlaId: "MLA19079378", label: "Teclado y mouse en una compra", labelColor: "purple", ranking: 3, description: `Kit con teclado de membrana RGB y mouse óptico. {{rating:MLA19079378}} estrellas en {{reviews:MLA19079378}} calificaciones.` },
+      { type: "p", content: `La forma más barata de resolver las dos piezas es un **kit**: el [Gadnic K4 Move](/producto/kit-gaming-teclado-y-mouse-gadnic-iluminacion-led-rgb-alta-precision-mla19079378) trae teclado de membrana y mouse óptico juntos. Si preferís lo mejor de cada categoría por separado, el teclado mecánico más vendido es el [Redragon Kumara K552](/producto/teclado-gamer-redragon-kumara-k552-mecanico-rgb-espanol-latinoamerica-mla16369071) ({{precio:MLA16369071}}) y el mouse más elegido es el [Logitech G203](/producto/mouse-gamer-logitech-g203-lightsync-white-mla44849297) ({{precio:MLA44849297}}). El teclado mecánico solo ya sale {{preciodif:MLA16369071:MLA19079378}} más que el kit completo (teclado y mouse juntos), y todavía falta sumarle el mouse — acá no estamos comparando lo mismo: uno es mecánico y de marca, el otro es membrana genérica. Las comparativas completas de **[teclado gamer](/guias/gaming/teclado-gamer)**, **[mouse gamer](/guias/gaming/mouse-gamer)** y **[kit gamer](/guias/gaming/kit-gamer)** entran en el detalle de cada camino.` },
+
+      { type: "p", content: `**El último 20% del setup, y el que menos se nota hasta que falta**` },
+      { type: "h3", title: `Auriculares` },
+      { type: "product-card", productMlaId: "MLA9406415", label: "El sonido", labelColor: "amber", ranking: 4, description: `Con cable, micrófono y luz LED. El auricular gamer más vendido de Argentina, con {{reviews:MLA9406415}} calificaciones.` },
+      { type: "p", content: `Es la pieza más barata de las cinco y la que tiene la base de opiniones más grande de todo el setup: el [Kotion Each G9000](/producto/auriculares-gamer-kotion-each-g9000-negro-y-azul-con-luz-led-mla9406415) tiene {{reviews:MLA9406415}} calificaciones. Si jugás competitivo o preferís inalámbrico, la comparativa completa de **[auriculares gamer](/guias/gaming/auriculares-gamer)** tiene opciones de sonido posicional y sin cable.` },
+
+      { type: "table", headers: [`Pieza`, `Opción elegida`, `Precio`, `Guía completa`], rows: [
+        [`Monitor`, `[Samsung Odyssey G3](/producto/monitor-samsung-odyssey-g3-g30d-24-fhd-180hz-plano-negro-mla63267892)`, `{{precio:MLA63267892}}`, `[Ver todos](/guias/gaming/monitor-gamer)`],
+        [`Silla`, `[Alpina PRE-FT055](/producto/silla-gamer-alpina-ergonomica-giratoria-reclinable-pre-ft055-negro-rojo-cuero-si-mla47084299)`, `{{precio:MLA47084299}}`, `[Ver todos](/guias/gaming/silla-gamer)`],
+        [`Teclado + mouse`, `[Kit Gadnic K4 Move](/producto/kit-gaming-teclado-y-mouse-gadnic-iluminacion-led-rgb-alta-precision-mla19079378)`, `{{precio:MLA19079378}}`, `[Ver todos](/guias/gaming/kit-gamer)`],
+        [`Auriculares`, `[Kotion Each G9000](/producto/auriculares-gamer-kotion-each-g9000-negro-y-azul-con-luz-led-mla9406415)`, `{{precio:MLA9406415}}`, `[Ver todos](/guias/gaming/auriculares-gamer)`],
+      ] },
+
+      { type: "h2", title: `Cuánto sale armar el setup completo` },
+      { type: "p", content: `Sumando las cuatro piezas de la tabla (monitor, silla, kit de teclado y mouse, y auriculares), un setup gamer completo con las opciones más elegidas de cada categoría sale alrededor de **{{precio:MLA63267892}} + {{precio:MLA47084299}} + {{precio:MLA19079378}} + {{precio:MLA9406415}}**. Si en vez del kit vas por teclado mecánico y mouse de marca por separado, sumale la diferencia entre esas dos piezas y el kit.` },
+      { type: "p", content: `**No incluye la PC ni la consola.** Es la decisión más grande de todas y no la cubrimos en esta guía: depende de presupuesto, de qué juegos querés correr y de specs que están fuera de lo que verificamos en MercadoLibre para este catálogo.` },
+
+      { type: "h2", title: `Si jugás en consola` },
+      { type: "p", content: `El setup de consola cambia una pieza: el control reemplaza al teclado y mouse. Si jugás en **PS5**, el [DualSense oficial](/guias/gaming/joystick-ps5) es la compra segura, con gatillos adaptativos y feedback háptico reales que ningún compatible replica. Si jugás en **Xbox**, el [control oficial Xbox Wireless](/guias/gaming/joystick-xbox) es el equivalente. Y si jugás en PC pero preferís control a teclado y mouse, la comparativa de **[joystick PC](/guias/gaming/joystick-pc)** te explica la diferencia entre XInput y DirectInput, que es la que realmente importa.` },
+
+      { type: "h2", title: `Cómo elegir por dónde empezar` },
+      { type: "h3", title: `Si el presupuesto es lo primero` },
+      { type: "p", content: `Empezá por lo que más usás todo el tiempo: el monitor y la silla. Un teclado y mouse genéricos cumplen perfectamente al principio; el kit resuelve las dos piezas por poco dinero.` },
+      { type: "h3", title: `Si ya tenés algunas piezas` },
+      { type: "p", content: `No hace falta reemplazar lo que ya funciona. Si tu teclado y mouse actuales te sirven, la mejora que más se nota suele ser el monitor o la silla, no un cambio de periféricos.` },
+      { type: "h3", title: `Si jugás competitivo` },
+      { type: "p", content: `Ahí el orden cambia: el mouse y el monitor (por los hercios) pesan más que en un setup casual, y vale la pena ver las opciones premium de cada comparativa en vez de quedarte con la más elegida a secas.` },
+
+      { type: "verdict", content: `Un setup gamer son cinco piezas, no una foto de Pinterest: **[monitor](/guias/gaming/monitor-gamer)**, **[silla](/guias/gaming/silla-gamer)**, **[teclado](/guias/gaming/teclado-gamer)**, **[mouse](/guias/gaming/mouse-gamer)** (o un **[kit](/guias/gaming/kit-gamer)** que resuelve las dos últimas juntas) y **[auriculares](/guias/gaming/auriculares-gamer)**. Con las opciones más elegidas de cada categoría, arrancás con **[Samsung Odyssey G3](/producto/monitor-samsung-odyssey-g3-g30d-24-fhd-180hz-plano-negro-mla63267892)**, **[Alpina PRE-FT055](/producto/silla-gamer-alpina-ergonomica-giratoria-reclinable-pre-ft055-negro-rojo-cuero-si-mla47084299)**, **[kit Gadnic K4 Move](/producto/kit-gaming-teclado-y-mouse-gadnic-iluminacion-led-rgb-alta-precision-mla19079378)** y **[Kotion Each G9000](/producto/auriculares-gamer-kotion-each-g9000-negro-y-azul-con-luz-led-mla9406415)**. Si jugás en consola, cambiá teclado y mouse por el control de tu plataforma. Y en ningún caso incluye la PC: esa es otra decisión, más grande, que queda para otro día.` },
+    ],
+    faq: [
+      { question: `¿Qué necesito para armar un setup gamer?`, answer: `Cinco piezas: **monitor**, **silla**, **teclado**, **mouse** (o un kit que resuelve estas dos últimas juntas) y **auriculares**. Esto no incluye la PC ni la consola, que es una decisión aparte y más grande. Con las opciones más elegidas de cada categoría, el [Samsung Odyssey G3](/producto/monitor-samsung-odyssey-g3-g30d-24-fhd-180hz-plano-negro-mla63267892), la [Alpina PRE-FT055](/producto/silla-gamer-alpina-ergonomica-giratoria-reclinable-pre-ft055-negro-rojo-cuero-si-mla47084299), el [kit Gadnic K4 Move](/producto/kit-gaming-teclado-y-mouse-gadnic-iluminacion-led-rgb-alta-precision-mla19079378) y los [Kotion Each G9000](/producto/auriculares-gamer-kotion-each-g9000-negro-y-azul-con-luz-led-mla9406415) arman el setup completo.` },
+      { question: `¿Cuánto sale armar un setup gamer completo?`, answer: `Sumando monitor ({{precio:MLA63267892}}), silla ({{precio:MLA47084299}}), un kit de teclado y mouse ({{precio:MLA19079378}}) y auriculares ({{precio:MLA9406415}}), estás hablando de esos cuatro números juntos. No incluye la PC ni la consola: esa es la parte más cara y más grande, y no la cubrimos en esta guía.` },
+      { question: `¿Por dónde empiezo a armar mi setup gamer?`, answer: `Por lo que más usás todo el tiempo: el monitor y la silla, si el presupuesto pesa. Un teclado y mouse genéricos, o un kit que resuelve las dos piezas juntas, cumplen de sobra al principio. Los auriculares son la pieza más barata y la que menos urgencia tiene si ya tenés parlantes.` },
+      { question: `¿Conviene comprar un kit de teclado y mouse o cada pieza por separado?`, answer: `Depende de qué estés buscando. El [kit Gadnic K4 Move](/producto/kit-gaming-teclado-y-mouse-gadnic-iluminacion-led-rgb-alta-precision-mla19079378) resuelve las dos piezas por {{precio:MLA19079378}}, con teclado de membrana. Si querés un teclado mecánico de verdad y un mouse de marca, el [Redragon Kumara K552](/producto/teclado-gamer-redragon-kumara-k552-mecanico-rgb-espanol-latinoamerica-mla16369071) más el [Logitech G203](/producto/mouse-gamer-logitech-g203-lightsync-white-mla44849297) salen más, pero no es la misma calidad de pieza: el kit es la opción de entrada, no una versión con descuento de las mismas piezas.` },
+      { question: `¿El setup gamer incluye la PC?`, answer: `No. Esta guía cubre lo que rodea a la computadora o consola que ya tenés o vas a elegir aparte: monitor, silla, teclado, mouse y auriculares. Armar o elegir la PC es una decisión más grande, con specs que están fuera de lo que verificamos para este catálogo.` },
+      { question: `¿Qué cambia si juego en consola en vez de PC?`, answer: `El teclado y el mouse se reemplazan por el control de tu consola. En [PS5](/guias/gaming/joystick-ps5) es el DualSense oficial; en [Xbox](/guias/gaming/joystick-xbox), el control Xbox Wireless. El resto del setup (monitor, silla, auriculares) es igual para PC o consola.` },
+    ],
+    internalLinksTitle: `Las piezas destacadas, una por una`,
+    internalLinks: [
+      { label: `Monitor Samsung Odyssey G3: ficha y opiniones`, href: `/producto/monitor-samsung-odyssey-g3-g30d-24-fhd-180hz-plano-negro-mla63267892` },
+      { label: `Silla Alpina PRE-FT055: ficha y opiniones`, href: `/producto/silla-gamer-alpina-ergonomica-giratoria-reclinable-pre-ft055-negro-rojo-cuero-si-mla47084299` },
+      { label: `Kit Gadnic K4 Move: ficha y opiniones`, href: `/producto/kit-gaming-teclado-y-mouse-gadnic-iluminacion-led-rgb-alta-precision-mla19079378` },
+      { label: `Auriculares Kotion Each G9000: ficha y opiniones`, href: `/producto/auriculares-gamer-kotion-each-g9000-negro-y-azul-con-luz-led-mla9406415` },
+      { label: `Teclado Redragon Kumara K552: ficha y opiniones`, href: `/producto/teclado-gamer-redragon-kumara-k552-mecanico-rgb-espanol-latinoamerica-mla16369071` },
+      { label: `Mouse Logitech G203: ficha y opiniones`, href: `/producto/mouse-gamer-logitech-g203-lightsync-white-mla44849297` },
+    ],
+  },
+  {
+    slug: "silla-gamer",
+    category: "gaming",
+    silo: "gaming",
     title: `Silla gamer: cuál comprar en Argentina [2026]`,
     seoTitle: `Silla Gamer: Cuál Comprar en Argentina | Guía 2026`,
     metaDescription: `Descubrí qué silla gamer comprar en Argentina: Alpina, Circle Line, Cougar o Corsair, cuero o tela, cuál conviene según tu presupuesto. Comparativa real.`,
