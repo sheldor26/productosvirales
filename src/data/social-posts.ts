@@ -669,4 +669,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "39",
     postedAt: "2026-08-28T10:23:16-03:00",
   },
+  {
+    title: "Smartwatch Xiaomi Redmi 5 Lite 1.96",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_661173-MLA99926131065_112025-O.webp",
+    affiliateUrl: "https://meli.la/1zuT4jC",
+    newPrice: "83.499",
+    oldPrice: "104.999",
+    offPct: "20",
+    postedAt: "2026-08-28T10:52:52-03:00",
+  },
 ];
