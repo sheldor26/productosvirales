@@ -679,4 +679,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "20",
     postedAt: "2026-08-28T10:52:52-03:00",
   },
+  {
+    title: "Smartwatch Amazfit Bip 6 Amoled",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_622879-MLA99965332573_112025-O.webp",
+    affiliateUrl: "https://meli.la/2eTZSJx",
+    newPrice: "175.200",
+    oldPrice: "230.526",
+    offPct: "23",
+    postedAt: "2026-08-28T11:23:55-03:00",
+  },
 ];
