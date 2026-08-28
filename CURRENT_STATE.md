@@ -1,7 +1,45 @@
 # Estado actual
 
 > Snapshot del proyecto. Se actualiza al final de cada sesión.
-> Última actualización: 2026-08-28 (silo `musica`: cinco guías STAGED — pilar `instrumentos-musicales` y cuatro sub-pilares `guitarra-criolla-precio`, `guitarra-electrica-precio`, `guitarras-de-marca-precio` y `teclado-musical-precio` — con 32 fichas entre las cinco. Catálogo de todo el sitio en 779 productos, 215 guías. El 2026-08-27: `guitarras-de-marca-precio` + Yamaha en eléctrica, silo música a cuatro guías. El 2026-08-26: `guitarra-criolla-precio` + `instrumentos-musicales`; ese mismo día antes, silo `camaras-vlog` + `dji-cual-comprar`.
+> Última actualización: 2026-08-28 (silo `musica`: seis guías STAGED — pilar `instrumentos-musicales` y cinco sub-pilares `guitarra-criolla-precio`, `guitarra-electrica-precio`, `guitarras-de-marca-precio`, `teclado-musical-precio` y `ukelele-precio` — con 35 fichas entre las seis. Catálogo de todo el sitio en 782 productos, 216 guías. El 2026-08-27: `guitarras-de-marca-precio` + Yamaha en eléctrica, silo música a cuatro guías. El 2026-08-26: `guitarra-criolla-precio` + `instrumentos-musicales`; ese mismo día antes, silo `camaras-vlog` + `dji-cual-comprar`.
+
+## Sesión 2026-08-28 (b) — Sub-pilar de ukelele, y el instrumento más vendido del rubro
+
+### LO QUE SE HIZO
+
+Sub-pilar nuevo `ukelele-precio` (STAGED, `2026-11-27`), sexta guía del silo música, categoría de guía nueva `ukeleles`. El silo música queda completo con seis guías: el pilar y cinco sub-pilares por precio, con fechas escalonadas de 2026-09-25 a 2026-11-27.
+
+Juan pidió continuar tras cerrar el sub-pilar de teclados. Se revisó `docs/clusters/instrumentos/sourcing-sub-pilares.md` (plan de sourcing de una sesión anterior) y apareció la oportunidad sin tocar: **el ukelele más vendido de MercadoLibre Argentina es el instrumento más vendido de todo el rubro música**, no solo de ukeleles, y el catálogo del sitio no tenía ni uno. Se armaron 2-3 candidatos (no un sub-pilar de 6-8 fichas como guitarras/teclados, por ser un sub-rubro más chico), se le pasaron los links de MercadoLibre a Juan y él devolvió los tres `meli.la`.
+
+**Las 3 fichas nuevas**, verificadas en vivo el 2026-08-28 vía JSON-LD `offers.price`:
+
+| MLA | Producto | Precio | Rating | Calificaciones |
+|---|---|---|---|---|
+| MLA19176093 | Parquer FZU-002 (soprano acústico) | $35.326 | 4.7 | 2.953 |
+| MLAU3433226320 | Dynamont con cuerdas Aquila (soprano) | $49.171 | 4.6 | 40 |
+| MLA1116514098 | Mahalo MH2VT (concierto electroacústico) | $149.957 | 4.8 | 25 |
+
+### TRÍO AUDITOR: CUATRO RONDAS
+
+La más larga del silo hasta ahora, con dos patrones nuevos:
+
+- **Ronda 1 (NO-GO x2):** Codex encontró que una ficha decía tener "una base de calificaciones que ningún otro instrumento de este catálogo iguala" — falso contra el catálogo música completo (hay fichas con 3.000-4.000 calificaciones fuera de esta comparativa); se acotó a "ningún otro ukelele de esta comparativa". agy encontró un claim de "el único que se puede enchufar... no se le puede agregar después" demasiado absoluto (existen pickups externos para ukelele).
+- **Ronda 2 (NO-GO):** Codex marcó que el fix del claim de "enchufar" solo se había aplicado en 3 de 6 apariciones del mismo patrón en el texto — **la misma lección de "inventariar TODAS las variantes" de sesiones anteriores, repetida en este mismo silo**. Se corrigió con un grep exhaustivo de las 6 apariciones, no una por una a medida que aparecían.
+- **Ronda 3 (GO/GO):** limpio.
+- **Ronda 4:** agy, corriendo con `--dangerously-skip-permissions`, **editó un archivo real por su cuenta** (cambió "del catálogo" por "del rubro" en la descripción de la categoría `ukeleles`, para sacarle la misma ambigüedad que ya se había corregido en el resto de la guía). El cambio era correcto y se verificó con `git diff` antes de aceptarlo, siguiendo la mitigación ya documentada de la skill `trio-auditor` — no hizo falta revertir nada, pero si hubiera sido incorrecto, se habría revertido.
+
+De paso se encontró y corrigió un gap que venía de la sesión anterior: la categoría `teclados` tampoco tenía entrada en `guideCategories` (el índice `/guias` mostraría el slug crudo en vez de un título). Se agregaron las dos entradas juntas.
+
+### VERIFICACIÓN
+
+`tsc --noEmit`, `npm run build` y los nueve checks corridos por separado, en verde después de cada ronda. Render verificado en el navegador con flip-and-revert de la fecha STAGED, y las 6 fechas del silo (ya con el ukelele sumado) re-verificadas una por una antes de cerrar.
+
+### LO QUE QUEDA ABIERTO
+
+- **Publicar las seis piezas del silo**, con la poda del pilar (`instrumentos-musicales` todavía dice "Por qué no están el teclado, el bajo ni la batería", y ahora tampoco está el ukelele) y el cruce de enlaces, en el mismo commit que cada publicación.
+- **Pushear.**
+
+---
 
 ## Sesión 2026-08-28 — Sub-pilar de teclados, y la confusión "no declarado" vs "declarado que no"
 
