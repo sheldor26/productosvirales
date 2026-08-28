@@ -7,6 +7,21 @@
 > 🔴 = se quedo sin stock (el link de afiliado apunta a una pagina pausada).
 > Entradas nuevas arriba.
 
+## 2026-08-28
+
+- 🟢 VOLVIO EL STOCK — **MLA2729985625** Proyector Oso Astronauta MTI 730 — Galaxia y Estrellas BT
+  - ML: https://www.mercadolibre.com.ar/proyector-astronauta--galaxia-estrellas-bluetooth-parlante/up/MLAU2729985625
+  - Sitio: https://productosvirales.com.ar/producto/MLA2729985625
+- 🟢 VOLVIO EL STOCK — **MLA52661526** Mini Proyector Portátil 4k Fika P8 Hd 720p 8000 Lumens 170 ANSI Android Wifi 4k Cine Color Blanco
+  - ML: https://www.mercadolibre.com.ar/mini-proyector-portatil-4k-fika-p8-hd-720p-8000-lumens-170-ansi-android-wifi-4k-cine-color-blanco/p/MLA52661526
+  - Sitio: https://productosvirales.com.ar/producto/MLA52661526
+- 🟢 VOLVIO EL STOCK — **MLA52018443** Mini Proyector Portátil 4k Fika P8 Hd 720p 8000 Lumens 170 ANSI Android Wifi Cine Color Negro
+  - ML: https://www.mercadolibre.com.ar/mini-proyector-portatil-4k-fika-p8-hd-720p-8000-lumens-170-ansi-android-wifi-cine-color-negro/p/MLA52018443
+  - Sitio: https://productosvirales.com.ar/producto/MLA52018443
+- 🟢 VOLVIO EL STOCK — **MLA18562154** Cafetera express Smartlife SL-EC8501 20 bares con espumador
+  - ML: https://www.mercadolibre.com.ar/p/MLA22761858
+  - Sitio: https://productosvirales.com.ar/producto/MLA18562154
+
 ## 2026-08-26
 
 - 🟢 VOLVIO EL STOCK — **MLA19630911** Freidora de aire 6,2 Litros Philips Essential HD927091 Negro
