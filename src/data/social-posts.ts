@@ -749,4 +749,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "5",
     postedAt: "2026-08-28T18:24:04-03:00",
   },
+  {
+    title: "Monitor Gamer ViewSonic 27\" VX2729 200Hz",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_635708-MLA99414885660_112025-O.webp",
+    affiliateUrl: "https://meli.la/15AWXst",
+    newPrice: "250.680",
+    oldPrice: "278.534",
+    offPct: "10",
+    postedAt: "2026-08-28T19:23:17-03:00",
+  },
 ];
