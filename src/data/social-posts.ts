@@ -699,4 +699,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "25",
     postedAt: "2026-08-28T11:52:59-03:00",
   },
+  {
+    title: "Licuadora de Mano Peabody 800W",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_994881-MLA99490288888_112025-O.webp",
+    affiliateUrl: "https://meli.la/2JgxVog",
+    newPrice: "111.899",
+    oldPrice: "149.999",
+    offPct: "25",
+    postedAt: "2026-08-28T12:54:21-03:00",
+  },
 ];
