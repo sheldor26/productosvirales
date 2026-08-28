@@ -719,4 +719,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "23",
     postedAt: "2026-08-28T12:58:07-03:00",
   },
+  {
+    title: "Consola PS5 Slim Digital + Astro Bot + GT7",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_926948-MLA96423004168_102025-O.webp",
+    affiliateUrl: "https://meli.la/1ASwNL2",
+    newPrice: "1.693.619",
+    oldPrice: "2.399.999",
+    offPct: "29",
+    postedAt: "2026-08-28T17:30:19-03:00",
+  },
 ];
