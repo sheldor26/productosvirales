@@ -569,4 +569,74 @@ export const socialPosts: SocialPost[] = [
     offPct: "44",
     postedAt: "2026-08-26T12:12:47-03:00",
   },
+  {
+    title: "Aire Acondicionado Portátil Sansei Frío/Calor",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_887291-MLA112253413180_062026-O.webp",
+    affiliateUrl: "https://meli.la/1N368W9",
+    newPrice: "529.999",
+    oldPrice: "659.999",
+    offPct: "19",
+    postedAt: "2026-08-26T13:31:22-03:00",
+  },
+  {
+    title: "Cámara de Seguridad TP-Link Tapo C210",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_725717-MLA99943629485_112025-O.webp",
+    affiliateUrl: "https://meli.la/163zVTJ",
+    newPrice: "52.699",
+    oldPrice: "80.000",
+    offPct: "34",
+    postedAt: "2026-08-26T18:12:34-03:00",
+  },
+  {
+    title: "Teclado Gamer Redragon Kumara K552",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_649437-MLA99937224833_112025-O.webp",
+    affiliateUrl: "https://meli.la/1zgaW6F",
+    newPrice: "70.353",
+    oldPrice: "87.941",
+    offPct: "20",
+    postedAt: "2026-08-27T09:35:06-03:00",
+  },
+  {
+    title: "Freidora de Aire Atma Pro FR60AR 6.5L",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_704928-MLA99450647716_112025-O.webp",
+    affiliateUrl: "https://meli.la/1NYzyF1",
+    newPrice: "117.934",
+    oldPrice: "147.497",
+    offPct: "20",
+    postedAt: "2026-08-27T09:35:06-03:00",
+  },
+  {
+    title: "Nebulizador San-Up ClearBreath",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_972088-MLA89662926705_082025-O.webp",
+    affiliateUrl: "https://meli.la/1kgZM8w",
+    newPrice: "61.749",
+    oldPrice: "126.899",
+    offPct: "51",
+    postedAt: "2026-08-27T09:35:06-03:00",
+  },
+  {
+    title: "Set de Mesas Ratonas Nórdicas Boomerang",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_639006-MLA102830949280_012026-O.webp",
+    affiliateUrl: "https://meli.la/2FVeLbX",
+    newPrice: "41.061",
+    oldPrice: "84.990",
+    offPct: "51",
+    postedAt: "2026-08-27T09:35:06-03:00",
+  },
+  {
+    title: "Auriculares Gamer Razer Blackshark V2 X",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_640861-MLA99990155459_112025-O.webp",
+    affiliateUrl: "https://meli.la/2eMU81J",
+    newPrice: "108.675",
+    oldPrice: "120.500",
+    offPct: "9",
+    postedAt: "2026-08-28T08:38:46-03:00",
+  },
 ];
