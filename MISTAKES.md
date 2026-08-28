@@ -16,6 +16,16 @@
 **Archivos involucrados:** `path/a/archivo.ts`
 -->
 
+## 2026-08-27 — Una fecha STAGED casi queda publicada sin querer
+
+**Qué pasó:** para verificar el render de una guía en local hay que flipear `publishedDate` a la fecha de hoy temporalmente (porque `findGuideByPath` filtra por fecha publicada) y revertirla al terminar. En una sesión con dos guías nuevas y varias rondas de verificación por auditoría, una reversión se saltó: `guitarra-electrica-precio` quedó con `publishedDate: "2026-08-27"` (hoy) en vez de volver a su STAGED real, `"2026-10-16"`. Se detectó recién al final, en un chequeo explícito de las cuatro fechas del silo antes de commitear.
+
+**Por qué:** el flip-and-revert es una operación manual sin ningún guard automático. Con una sola guía y una sola verificación, es fácil no perderle el rastro. Con dos guías (una nueva, otra ya publicada localmente a la que se le agregó un producto) y múltiples rondas de auditoría intercaladas con más verificaciones de render, el estado "temporalmente flipeado" se volvió difícil de trackear mentalmente. Si se hubiera commiteado así, la guía habría quedado publicada en el sitio sin que nadie tomara esa decisión — el peor tipo de error posible en este flujo, porque no lo agarra ningún check mecánico (`tsc`, `build` y los nueve checks no verifican que una fecha STAGED sea coherente con la intención).
+
+**Cómo evitarlo:** antes de cualquier commit que toque una guía STAGED, correr un grep explícito de `publishedDate` para **todas** las guías del silo o de la sesión, no solo la que se acaba de editar, y confirmar cada fecha contra lo que se pretende. No asumir que "ya la revertí" sin verificarlo. Si una sesión va a hacer múltiples flip-and-revert, considerar anotar en el scratchpad qué guía está flipeada en cada momento.
+
+**Archivos involucrados:** `src/data/guides.ts`
+
 ## 2026-08-26 — El accesorio salía menos que el instrumento, y el superlativo era falso en seis lugares
 
 **Qué pasó:** en el pilar `instrumentos-musicales` y en la ficha de la guitarra criolla del commit anterior, la CG001 quedó declarada "la más barata de las cinco" y "la más barata del rubro en el catálogo". Es falso: sale $89.999 y el pedal multiefectos M-Vave del mismo grupo sale $87.139. Estaba en seis lugares repartidos entre `guides.ts` y `curated-products.ts`, incluyendo la metaDescription de la ficha, un `pros` y el standfirst y la FAQ de la guía. Del mismo tipo aparecieron tres más: la electroacústica declarada con "la base más grande de opiniones de los cinco" (la Pioneer tiene 4.031 contra sus 3.842), la eléctrica como "la que más eligen los que arrancan" (la electroacústica tiene más opiniones que ella) y, peor, la Pioneer como "la que más resuelve sola de los cinco" — ese último lo escribí yo mismo *al corregir* otro claim, y lo marcaron los dos auditores porque es justamente la que más accesorios externos pide.

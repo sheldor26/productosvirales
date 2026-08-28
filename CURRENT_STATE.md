@@ -1,7 +1,52 @@
 # Estado actual
 
 > Snapshot del proyecto. Se actualiza al final de cada sesión.
-> Última actualización: 2026-08-26 (silo nuevo `musica`: pilar `instrumentos-musicales` + sub-pilar `guitarra-criolla-precio`, los dos en STAGED, con 13 fichas entre los dos. Catálogo a 538, guías a 212; antes ese mismo día: silo `camaras-vlog` con `osmo-pocket-cual-comprar` en STAGED + 3 fichas, y `dji-cual-comprar` PUBLICADA + 3 fichas DJI). El 2026-08-25: silo de cámaras deportivas completo y en vivo con 16 fichas y 3 guías.
+> Última actualización: 2026-08-27 (silo `musica`: cuatro guías STAGED — pilar `instrumentos-musicales`, y tres sub-pilares `guitarra-criolla-precio`, `guitarra-electrica-precio` y `guitarras-de-marca-precio` — con 26 fichas entre las cuatro. Catálogo a 550. El 2026-08-26: `guitarra-criolla-precio` + `instrumentos-musicales`, catálogo a 538; ese mismo día antes, silo `camaras-vlog` + `dji-cual-comprar`.
+
+## Sesión 2026-08-27 — Marcas premium, y la fecha que casi queda publicada sin querer
+
+### LO QUE SE HIZO
+
+Un commit (`64f5498`) que suma dos piezas acopladas: la Yamaha Pacifica como octavo producto de `guitarra-electrica-precio`, y la guía nueva `guitarras-de-marca-precio` (Fender, Gibson, Gretsch), en STAGED para 2026-10-30. Catálogo 544 → 550. El silo música queda con cuatro guías: el pilar y tres sub-pilares por precio.
+
+### LA GUÍA NUEVA: FENDER, GIBSON, GRETSCH
+
+Juan pidió sumar marcas premium aunque vendan poco: "abro más el abanico de opciones". Antes de escribir, se midió con Keyword Planner + Ubersuggest: "guitarra fender stratocaster" (4.400/mes, **SD 13**), "guitarra gibson les paul" (2.400/mes, SD 17), más las hermanas de Telecaster, Squier y Gretsch. La competencia de Google Ads es HIGH en todas, pero la dificultad SEO orgánica es baja — el mismo patrón divergente que ya funcionó con la criolla. El SERP verificado de la keyword ancla no tiene ninguna pieza editorial: solo páginas de categoría de tiendas (DA 11-24) y la web oficial de Fender.
+
+**Los dos ángulos:**
+1. **Squier es Fender.** No una imitación: es la línea económica que la propia Fender diseña y fabrica, la misma relación que Epiphone tiene con Gibson.
+2. **Gibson y Gretsch reales son escasos de forma estructural.** Se recorrieron las dos categorías completas en MercadoLibre (219 publicaciones Gibson, 149 Gretsch) y casi todo lo genuino aparece en última unidad — no es mala suerte de una publicación puntual.
+
+**Las 5 fichas:** Squier Stratocaster Sonic $651.558 (4.9★, 87 calif — la base más grande por lejos), Gretsch Streamliner $1.995.086 (5.0★, 10), Fender Standard Telecaster $2.287.080 (4.6★, 9), Gibson Les Paul Tribute $4.416.648 (5.0★, 8 — la base más chica, hecha en EE.UU.), Fender American Professional II $5.747.831 (4.9★, 13 — la más cara, hecha en EE.UU.).
+
+### CINCO PASADAS DE AUDITORÍA, Y EL ERROR ARITMÉTICO MÁS CARO DE LA SESIÓN
+
+El `directAnswer` decía "acá el piso ya cuesta más que el techo de esa comparativa" (comparando contra `guitarra-electrica-precio`). Es **falso**: la Squier ($651.558) sale *menos* que la Yamaha de esa otra guía ($762.300). El dato correcto, que ya estaba bien en otro párrafo de la misma guía, es "cuesta más que siete de las ocho". Quedaron dos versiones contradictorias de la misma comparación en el mismo documento, y solo se detectó al auditar de cero.
+
+Otros hallazgos reales:
+- **"La línea top de Fender"** para la American Professional II — superlativo global sin fuente. Fender tiene líneas todavía más altas (American Ultra II), que Codex encontró citando la propia guía de compra de Fender. Aparecía en 5 lugares entre guía y ficha.
+- **"Cuanto más cara, menos reseñas"** — falso en sentido estricto: la más cara de las cinco (13 calificaciones) tiene más que tres de las otras cuatro. La tesis real es que la Squier concentra la base, no que haya una relación monótona con el precio.
+- Un dato de costo inventado ("diapasón de arce, un acabado más caro que el palo de rosa") sin fuente que lo respalde.
+
+### LA YAMAHA EN LA GUÍA DE ELÉCTRICA: DIEZ PASADAS
+
+Sumar un octavo producto a una guía ya auditada con GO obliga a revisar cada superlativo "de las siete" uno por uno, porque cualquiera puede dejar de ser cierto. La Yamaha pasó a ser la más cara (antes lo era la Ibanez) y, a la vez, la base de opiniones más chica (antes lo era la Epiphone SG Special, que también tiene 5.0). El patrón se repitió en casi cada pieza del documento: hero image, tabla, FAQ, callouts, la sección de maderas del cuerpo (la Yamaha también declara caoba, así que "la SG es la única con caoba" dejó de ser cierto sin la salvedad).
+
+### EL CASI-ERROR MÁS SERIO: UNA FECHA STAGED QUE QUEDÓ SIN REVERTIR
+
+Para verificar el render de cada guía en local, hay que flipear `publishedDate` a hoy temporalmente y revertirla después. Con dos guías y múltiples rondas de verificación, una reversión se saltó: `guitarra-electrica-precio` quedó con `publishedDate: "2026-08-27"` (hoy) en vez de volver a `"2026-10-16"`. Se detectó recién en el chequeo final de estado, antes de commitear — un commit descuidado la hubiera dejado **publicada sin que nadie lo decidiera**. Se verificaron las cuatro fechas del silo una por una, con grep, antes de cerrar.
+
+### VERIFICACIÓN
+
+`tsc --noEmit`, `npm run build` y los nueve checks corridos por separado, en verde después de cada corrección. Las dos guías se levantaron en local con la fecha flipeada y se leyeron renderizadas completas. Los 6 links `meli.la` (Yamaha + 5 de marcas) verificados uno por uno; las 6 imágenes con GET real.
+
+### LO QUE QUEDA ABIERTO
+
+- **Publicar las cuatro piezas del silo**, con la poda del pilar y el cruce de enlaces en el mismo commit que cada publicación, según lo ya anotado en `docs/clusters/instrumentos/sourcing-sub-pilares.md`.
+- **Sumar `musica` a `CATEGORY_NAV`.**
+- **Pushear.** Commits locales acumulados del silo música, ninguno pusheado todavía.
+
+---
 
 ## Sesión 2026-08-26 (d) — El sub-pilar de criolla, y el referente que caduca solo
 
