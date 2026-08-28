@@ -689,4 +689,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "23",
     postedAt: "2026-08-28T11:23:55-03:00",
   },
+  {
+    title: "Pava Eléctrica Vintage Peabody 2200W",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_786211-MLA109752518549_032026-O.webp",
+    affiliateUrl: "https://meli.la/1h5c9zR",
+    newPrice: "74.099",
+    oldPrice: "99.999",
+    offPct: "25",
+    postedAt: "2026-08-28T11:52:59-03:00",
+  },
 ];
