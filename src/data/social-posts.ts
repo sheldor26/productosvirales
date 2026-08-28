@@ -659,4 +659,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "40",
     postedAt: "2026-08-28T09:52:51-03:00",
   },
+  {
+    title: "Microondas BGH Quick Chef 20L",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_893583-MLA98164786504_112025-O.webp",
+    affiliateUrl: "https://meli.la/1jXrzPY",
+    newPrice: "169.199",
+    oldPrice: "279.999",
+    offPct: "39",
+    postedAt: "2026-08-28T10:23:16-03:00",
+  },
 ];
