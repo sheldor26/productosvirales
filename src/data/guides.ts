@@ -556,6 +556,86 @@ export const guides: Guide[] = [
     ],
   },
   {
+    slug: "ukelele-precio",
+    category: "ukeleles",
+    silo: "musica",
+    title: `Cuánto sale un ukelele en Argentina [2026]`,
+    h1: `Cuánto sale un ukelele en Argentina [2026]`,
+    seoTitle: `Ukelele: Precio en Argentina [2026] y Cuál Comprar`,
+    metaDescription: `Ukelele: precios reales en MercadoLibre, de {{precio:MLA19176093:k}} a {{precio:MLA1116514098:k}}. El más barato es el instrumento más vendido de todo el rubro música.`,
+    ogTitle: `Cuánto sale un ukelele en Argentina`,
+    ogDescription: `Tres ukeleles con precio verificado, de la entrada más vendida del rubro al electroacústico de tamaño concierto.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_619137-MLA110409434992_052026-O.webp`,
+    directAnswer: `Un ukelele nuevo con stock en Argentina arranca en **{{precio:MLA19176093}}** y llega hasta **{{precio:MLA1116514098}}** entre los que verificamos. El más barato, el **[Parquer FZU-002](/producto/ukelele-soprano-acustico-parquer-fzu-002-mla19176093)**, no es solo el ukelele más vendido: es **el instrumento más vendido de todo el rubro música de MercadoLibre Argentina**, con {{reviews:MLA19176093}} calificaciones. Sale a menos de la mitad de lo que cuesta [la guitarra criolla más barata del sitio](/producto/guitarra-criolla-femmto-cg001-con-funda-y-puas-mla40485883) ({{precio:MLA40485883}}). El salto real de precio viene con cuerdas de marca (Aquila) o con poder enchufarlo (electroacústico).`,
+    publishedDate: "2026-11-27",
+    updatedDate: "2026-11-27",
+    hasDisclosure: true,
+    readingTime: 8,
+    standfirst: `Verificamos tres ukeleles con stock real en MercadoLibre Argentina, de {{precio:MLA19176093}} a {{precio:MLA1116514098}}. El más barato de los tres es también el instrumento más vendido de todo el rubro música de MercadoLibre Argentina. Acá está qué cambia entre uno y otro, y por qué el precio de entrada de un ukelele es mucho más bajo del que la gente espera.`,
+    quickPicks: [
+      { productMlaId: "MLA19176093", label: "El más vendido", labelColor: "green", tagline: "Parquer FZU-002: el instrumento más vendido de todo el rubro música de MercadoLibre" },
+      { productMlaId: "MLAU3433226320", label: "El escalón de cuerdas", labelColor: "blue", tagline: "Dynamont con cuerdas Aquila: mejor cuerda y mejor madera que la entrada" },
+      { productMlaId: "MLA1116514098", label: "El que se enchufa", labelColor: "purple", tagline: "Mahalo MH2VT: electroacústico, tamaño concierto" },
+    ],
+    intro: [
+      `La pregunta llega siempre igual: **cuánto sale un ukelele**. Y la sorpresa es que la respuesta es bastante más barata de lo que la gente espera: el más vendido de todo el rubro música de MercadoLibre Argentina no es una guitarra ni un teclado, es un ukelele de **{{precio:MLA19176093}}**.`,
+      `Verificamos tres ukeleles con stock nacional y les leímos las reseñas. Van de **{{precio:MLA19176093}}** a **{{precio:MLA1116514098}}**, y ese rango cuenta una historia clara: la entrada ya es buena, y lo que se paga de más es cuerdas de mejor marca o la posibilidad de enchufarlo. Abajo está cada uno con precios en vivo.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_619137-MLA110409434992_052026-O.webp", alt: `Ukelele electroacústico concierto Mahalo MH2VT, el más caro de esta comparativa de precios de ukelele en Argentina`, imageSize: "hero" },
+      { type: "callout", calloutVariant: "tip", calloutTitle: "La respuesta corta", content: `El más barato es el **[Parquer FZU-002](/producto/ukelele-soprano-acustico-parquer-fzu-002-mla19176093)** a {{precio:MLA19176093}}, y también es **el instrumento más vendido de todo el rubro música de MercadoLibre Argentina**. El más caro es el **[Mahalo MH2VT](/producto/ukelele-electroacustico-concierto-mahalo-mh2vt-mla1116514098)** a {{precio:MLA1116514098}}, electroacústico y de tamaño concierto. En el medio, el **[Dynamont con cuerdas Aquila](/producto/ukelele-soprano-dynamont-con-cuerdas-aquila-y-funda-impermeable-mlau3433226320)** suma mejor cuerda y mejor madera por {{preciodif:MLAU3433226320:MLA19176093}} más.` },
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo verificamos los precios:** los tres se abrieron en su ficha de MercadoLibre y el precio se leyó del dato estructurado de la página, no del texto de la publicación. Los tres tenían stock disponible el día que los revisamos. Los precios se vuelven a chequear tres veces por semana y en esta página se muestran en vivo. Donde la ficha técnica de MercadoLibre trae un dato que no cierra (como una medida imposible), lo decimos en vez de publicarlo como si fuera confiable.` },
+
+      { type: "h2", title: `Los precios, de menor a mayor`, id: "precios" },
+
+      { type: "h3", title: `Ukelele Parquer FZU-002` },
+      { type: "product-card", productMlaId: "MLA19176093", label: "El más vendido", labelColor: "green", ranking: 1, description: `El instrumento más vendido de todo el rubro música de MercadoLibre, con funda incluida. {{rating:MLA19176093}} estrellas en {{reviews:MLA19176093}} calificaciones.` },
+      { type: "p", content: `Es el piso de precio de esta comparativa, y no es una entrada cualquiera: es **el instrumento más vendido de todo el rubro música de MercadoLibre Argentina**, con {{reviews:MLA19176093}} calificaciones, la base más grande de esta comparativa por lejos. Trae funda incluida y tamaño soprano, el más chico y el más común para empezar. Un comprador que tiene un taller de lutería hace más de 20 años escribió que supera ampliamente lo esperado para este precio.` },
+      { type: "p", content: `La contra real, que aparece en varias reseñas: las clavijas son de fricción, no de engranaje, y **se desafina los primeros días de uso**. Los propios compradores conformes lo aclaran: es esperable en un instrumento de cuerda nuevo y se estabiliza solo con el uso.` },
+
+      { type: "h3", title: `Ukelele Dynamont con cuerdas Aquila` },
+      { type: "product-card", productMlaId: "MLAU3433226320", label: "El escalón de cuerdas", labelColor: "blue", ranking: 2, description: `Cuerdas Aquila y palo de rosa, con funda impermeable. {{rating:MLAU3433226320}} estrellas en {{reviews:MLAU3433226320}} calificaciones.` },
+      { type: "p", content: `Sale {{preciodif:MLAU3433226320:MLA19176093}} más que la entrada y mejora dos cosas puntuales: **cuerdas Aquila**, una marca real y reconocida en el mundo del ukelele en vez de las genéricas de la entrada, y **palo de rosa** en vez de tilo, una madera más noble. Trae funda impermeable.` },
+      { type: "p", content: `La contra a tener clara es la base de calificaciones: apenas {{reviews:MLAU3433226320}}, muy lejos de las {{reviews:MLA19176093}} de la Parquer. Las reseñas que hay son cortas y sin mucho detalle para chequear a fondo, aunque ninguna trae una queja de fondo.` },
+
+      { type: "h3", title: `Ukelele electroacústico Mahalo MH2VT` },
+      { type: "product-card", productMlaId: "MLA1116514098", label: "El que se enchufa", labelColor: "purple", ranking: 3, description: `Electroacústico, tamaño concierto. {{rating:MLA1116514098}} estrellas en {{reviews:MLA1116514098}} calificaciones.` },
+      { type: "p", content: `Es el único de los tres que viene **electroacústico de fábrica**, sin necesidad de sumarle un pickup externo para poder enchufarlo a un amplificador. Y es de **tamaño concierto**, más grande que el soprano de los otros dos, lo que suma cuerpo y volumen al sonido acústico. Tiene el rating más alto de la comparativa.` },
+      { type: "callout", calloutVariant: "warning", calloutTitle: "Su ficha declara una medida imposible", content: `La ficha técnica de este ukelele declara **altura y ancho de 2,54 cm cada uno**, una medida que no puede ser real para un instrumento de tamaño concierto (2,54 cm es exactamente una pulgada, un valor que huele a error de carga). No la publicamos como dato. Si las medidas te importan para saber si entra donde lo vas a guardar, confirmalas con el vendedor antes de comprar.` },
+      { type: "p", content: `La contra que sí es real: apenas {{reviews:MLA1116514098}} calificaciones, la base más chica de los tres. Tiene sentido si ya sabés que el ukelele te interesa en serio, no como primera compra para probar si te gusta.` },
+
+      { type: "table", headers: [`Ukelele`, `Precio`, `Tamaño`, `Tipo`, `Calificaciones`], rows: [
+        [`[Parquer FZU-002](https://meli.la/1t55DWX)`, `{{precio:MLA19176093}}`, `Soprano`, `Acústico`, `{{reviews:MLA19176093}}`],
+        [`[Dynamont con Aquila](https://meli.la/2xMdFQz)`, `{{precio:MLAU3433226320}}`, `Soprano`, `Acústico`, `{{reviews:MLAU3433226320}}`],
+        [`[Mahalo MH2VT](https://meli.la/1wGGTLg)`, `{{precio:MLA1116514098}}`, `Concierto`, `**Electroacústico**`, `{{reviews:MLA1116514098}}`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir` },
+      { type: "h3", title: `Si estás probando si te va a gustar` },
+      { type: "p", content: `El **[Parquer FZU-002](/producto/ukelele-soprano-acustico-parquer-fzu-002-mla19176093)**, sin dudarlo. Es el más barato, el más vendido y el que tiene la base de calificaciones más sólida de las tres. Las clavijas de fricción y el desafine de los primeros días son el precio de entrar por tan poco.` },
+      { type: "h3", title: `Si ya sabés que vas a seguir` },
+      { type: "p", content: `El **[Dynamont con cuerdas Aquila](/producto/ukelele-soprano-dynamont-con-cuerdas-aquila-y-funda-impermeable-mlau3433226320)** mejora lo que de verdad se nota en el sonido: la cuerda. Por {{preciodif:MLAU3433226320:MLA19176093}} más que la entrada, es una mejora concreta, aunque con una base de opiniones bastante más chica.` },
+      { type: "h3", title: `Si querés poder enchufarlo` },
+      { type: "p", content: `Solo el **[Mahalo MH2VT](/producto/ukelele-electroacustico-concierto-mahalo-mh2vt-mla1116514098)** viene así de fábrica, y además suma tamaño concierto para más cuerpo de sonido. Es el único de los tres que es electroacústico sin sumar un pickup externo: si te importa, hay que empezar por acá.` },
+
+      { type: "verdict", content: `Un ukelele nuevo con stock en Argentina arranca en **{{precio:MLA19176093}}** con el [Parquer FZU-002](/producto/ukelele-soprano-acustico-parquer-fzu-002-mla19176093), que además es el instrumento más vendido de todo el rubro música de MercadoLibre Argentina. El **[Dynamont con cuerdas Aquila](/producto/ukelele-soprano-dynamont-con-cuerdas-aquila-y-funda-impermeable-mlau3433226320)** es la mejora real si el sonido te importa más que el precio. Y el **[Mahalo MH2VT](/producto/ukelele-electroacustico-concierto-mahalo-mh2vt-mla1116514098)** queda para quien ya sabe que quiere enchufarlo: es el único de los tres que viene electroacústico de fábrica.` },
+    ],
+    faq: [
+      { question: `¿Cuánto sale un ukelele en Argentina?`, answer: `De los tres que verificamos con stock nacional, el más barato es el [Parquer FZU-002](/producto/ukelele-soprano-acustico-parquer-fzu-002-mla19176093) a {{precio:MLA19176093}} y el más caro el [Mahalo MH2VT](/producto/ukelele-electroacustico-concierto-mahalo-mh2vt-mla1116514098) a {{precio:MLA1116514098}}. El de entrada es también el instrumento más vendido de todo el rubro música de MercadoLibre Argentina.` },
+      { question: `¿Cuál es el ukelele más vendido de MercadoLibre?`, answer: `El [Parquer FZU-002](/producto/ukelele-soprano-acustico-parquer-fzu-002-mla19176093) a {{precio:MLA19176093}}, con {{reviews:MLA19176093}} calificaciones. No es solo el ukelele más vendido: es el instrumento más vendido de todo el rubro música de MercadoLibre Argentina, más que cualquier guitarra o teclado.` },
+      { question: `¿Un ukelele de entrada sirve para aprender?`, answer: `Sí. El [Parquer FZU-002](/producto/ukelele-soprano-acustico-parquer-fzu-002-mla19176093) tiene {{reviews:MLA19176093}} calificaciones y un comprador con taller de lutería hace más de 20 años escribió que supera ampliamente lo esperado para el precio. La contra real: las clavijas son de fricción y se desafina los primeros días, algo que los propios compradores dicen que se estabiliza con el uso.` },
+      { question: `¿Qué cambia entre un ukelele barato y uno caro?`, answer: `Dos cosas, no el tamaño del sonido nada más. Las **cuerdas**: la entrada trae cuerdas genéricas, mientras que el [Dynamont](/producto/ukelele-soprano-dynamont-con-cuerdas-aquila-y-funda-impermeable-mlau3433226320) suma cuerdas Aquila, una marca real del rubro. Y si **se puede enchufar**: solo el [Mahalo MH2VT](/producto/ukelele-electroacustico-concierto-mahalo-mh2vt-mla1116514098) viene electroacústico de fábrica; a los otros dos se les puede sumar un pickup externo después, pero no es lo mismo que traerlo integrado.` },
+      { question: `¿Cuánto sale un ukelele comparado con una guitarra criolla?`, answer: `Bastante menos. El ukelele más barato de esta comparativa sale a menos de la mitad de lo que cuesta [la guitarra criolla más barata del sitio](/producto/guitarra-criolla-femmto-cg001-con-funda-y-puas-mla40485883) ({{precio:MLA40485883}}). Son instrumentos distintos (el ukelele tiene 4 cuerdas, la criolla 6), pero si el presupuesto es lo primero que pesa, el ukelele arranca bastante más abajo.` },
+      { question: `¿Vale la pena pagar más por un ukelele electroacústico?`, answer: `Solo si ya sabés que lo vas a enchufar. El [Mahalo MH2VT](/producto/ukelele-electroacustico-concierto-mahalo-mh2vt-mla1116514098) a {{precio:MLA1116514098}} suma esa función más tamaño concierto, pero sale bastante más que los otros dos y tiene la base de calificaciones más chica. Si estás probando si te va a gustar el instrumento, ese salto no se justifica todavía.` },
+    ],
+    internalLinksTitle: `Las fichas, una por una`,
+    internalLinks: [
+      { label: `Parquer FZU-002: ficha y opiniones`, href: `/producto/ukelele-soprano-acustico-parquer-fzu-002-mla19176093` },
+      { label: `Dynamont con cuerdas Aquila: ficha y opiniones`, href: `/producto/ukelele-soprano-dynamont-con-cuerdas-aquila-y-funda-impermeable-mlau3433226320` },
+      { label: `Mahalo MH2VT electroacústico: ficha y opiniones`, href: `/producto/ukelele-electroacustico-concierto-mahalo-mh2vt-mla1116514098` },
+    ],
+  },
+  {
     slug: "teclado-musical-precio",
     category: "teclados",
     silo: "musica",
@@ -29325,6 +29405,16 @@ export const guideCategories: Record<string, { name: string; description: string
     name: "Guía de Instrumentos Musicales",
     description:
       "Instrumentos comparados por lo que decide la primera compra: qué trae la caja, qué hay que sumarle aparte para poder tocar, y en qué se diferencian de verdad los tipos que se parecen.",
+  },
+  teclados: {
+    name: "Guía de Teclados",
+    description:
+      "Teclados musicales comparados por lo que decide la compra: si declaran respuesta al tacto o no, y qué separa a una marca real de una de entrada.",
+  },
+  ukeleles: {
+    name: "Guía de Ukeleles",
+    description:
+      "Ukeleles comparados por precio: de la entrada más vendida del rubro a la mejora de cuerdas y al electroacústico que se puede enchufar.",
   },
   "camaras-vlog": {
     name: "Guía de Cámaras para Vlog",
