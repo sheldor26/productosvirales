@@ -10,6 +10,16 @@ import type { SocialPost } from "@/lib/types";
  */
 export const socialPosts: SocialPost[] = [
   {
+    title: "Auriculares Gamer Razer Blackshark V2 X Classic Black",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_640861-MLA99990155459_112025-F.jpg",
+    affiliateUrl: "https://meli.la/1eMqyZ5",
+    newPrice: "108.675",
+    oldPrice: "120.500",
+    offPct: "9",
+    postedAt: "2026-08-28T18:04:51-03:00",
+  },
+  {
     title: "Cafetera Expresso Cuk By Gadnic 20 Bar",
     imageUrl:
       "https://http2.mlstatic.com/D_NQ_NP_743583-MLA113988329118_072026-O.webp",
