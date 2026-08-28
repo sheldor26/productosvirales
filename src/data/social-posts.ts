@@ -739,4 +739,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "29",
     postedAt: "2026-08-28T17:30:19-03:00",
   },
+  {
+    title: "Control DualSense PS5 Perla Chroma",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_837232-MLA85723989332_062025-O.webp",
+    affiliateUrl: "https://meli.la/18GRRfv",
+    newPrice: "203.299",
+    oldPrice: "213.999",
+    offPct: "5",
+    postedAt: "2026-08-28T18:24:04-03:00",
+  },
 ];
