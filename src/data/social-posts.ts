@@ -709,4 +709,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "25",
     postedAt: "2026-08-28T12:54:21-03:00",
   },
+  {
+    title: "Tostadora Atma Dos Rebanadas",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_686726-MLA94802541032_102025-O.webp",
+    affiliateUrl: "https://meli.la/2e12DnC",
+    newPrice: "45.699",
+    oldPrice: "59.999",
+    offPct: "23",
+    postedAt: "2026-08-28T12:58:07-03:00",
+  },
 ];
