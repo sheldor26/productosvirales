@@ -649,4 +649,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "39",
     postedAt: "2026-08-28T09:22:46-03:00",
   },
+  {
+    title: "Cafetera Nespresso Essenza Mini",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_936786-MLA95729072378_102025-O.webp",
+    affiliateUrl: "https://meli.la/2BL6EDJ",
+    newPrice: "264.846",
+    oldPrice: "441.410",
+    offPct: "40",
+    postedAt: "2026-08-28T09:52:51-03:00",
+  },
 ];
