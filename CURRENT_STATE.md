@@ -1,7 +1,25 @@
 # Estado actual
 
 > Snapshot del proyecto. Se actualiza al final de cada sesión.
-> Última actualización: 2026-08-28 (silo `musica`: seis guías STAGED — pilar `instrumentos-musicales` y cinco sub-pilares `guitarra-criolla-precio`, `guitarra-electrica-precio`, `guitarras-de-marca-precio`, `teclado-musical-precio` y `ukelele-precio` — con 35 fichas entre las seis. Catálogo de todo el sitio en 782 productos, 216 guías. El 2026-08-27: `guitarras-de-marca-precio` + Yamaha en eléctrica, silo música a cuatro guías. El 2026-08-26: `guitarra-criolla-precio` + `instrumentos-musicales`; ese mismo día antes, silo `camaras-vlog` + `dji-cual-comprar`.
+> Última actualización: 2026-08-28 (silo `musica` **PUBLICADO completo**: pilar `instrumentos-musicales` y cinco sub-pilares `guitarra-criolla-precio`, `guitarra-electrica-precio`, `guitarras-de-marca-precio`, `teclado-musical-precio` y `ukelele-precio` — las 6 con `publishedDate` de hoy, ya no STAGED. 35 fichas entre las seis. El pilar recibió su poda (linkea a las 5 hijas, ya no dice "por qué no están el teclado" — ahora sí están). Catálogo de todo el sitio en 782 productos, 216 guías. El 2026-08-27: `guitarras-de-marca-precio` + Yamaha en eléctrica. El 2026-08-26: `guitarra-criolla-precio` + `instrumentos-musicales`; ese mismo día antes, silo `camaras-vlog` + `dji-cual-comprar`.
+
+## Sesión 2026-08-28 (c) — Se publica el silo música completo, y la poda del pilar
+
+### LO QUE SE HIZO
+
+A pedido explícito de Juan ("publica las guías y pasame los links"), se pisó `publishedDate`/`updatedDate` de las 6 guías del silo música a hoy, abandonando el escalonado original (2026-09-25 a 2026-11-27, pensado para no saturar Google). Antes de pisar las fechas se preguntó explícitamente si quería las 6 juntas o mantener el escalonado — eligió las 6 juntas.
+
+Se pusheó, y después se hizo la poda del pilar `instrumentos-musicales` que el plan de sourcing tenía prevista para "el mismo commit de la publicación" (quedó un commit aparte, no bloqueó nada): se recortó la sección "Cuánto cuesta empezar" (duplicaba las 5 guías hijas), se sacó un callout de nivel-ficha, se fusionaron dos h3 redundantes, y sobre todo se reescribió por completo el h2 que decía "Por qué no están el teclado, el bajo ni la batería" — ya no es cierto, ahora sí están, así que pasó a linkear a las 5 guías hijas y aclarar que solo bajo y batería siguen sin cobertura.
+
+### VERIFICACIÓN
+
+Dos commits (`4be3d3f` publicación, `5e88dc6` poda), cada uno con `tsc --noEmit`, `npm run build` y los nueve checks en verde por separado. Confirmado en el build que las 6 rutas del silo entran a la generación estática. Render verificado en el navegador para el pilar y para `/guias` (las categorías `teclados` y `ukeleles` ya muestran título propio, no el slug crudo). Los dos commits están pusheados a `origin/master`.
+
+### LO QUE QUEDA ABIERTO
+
+- El silo música está publicado y completo. Próximo paso natural: monitorear Search Console cuando indexe, y considerar el sub-pilar de bajo/batería que el pilar ahora promete cubrir "a medida que las revisamos".
+
+---
 
 ## Sesión 2026-08-28 (b) — Sub-pilar de ukelele, y el instrumento más vendido del rubro
 
