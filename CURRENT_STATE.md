@@ -1,7 +1,51 @@
 # Estado actual
 
 > Snapshot del proyecto. Se actualiza al final de cada sesión.
-> Última actualización: 2026-08-27 (silo `musica`: cuatro guías STAGED — pilar `instrumentos-musicales`, y tres sub-pilares `guitarra-criolla-precio`, `guitarra-electrica-precio` y `guitarras-de-marca-precio` — con 26 fichas entre las cuatro. Catálogo a 550. El 2026-08-26: `guitarra-criolla-precio` + `instrumentos-musicales`, catálogo a 538; ese mismo día antes, silo `camaras-vlog` + `dji-cual-comprar`.
+> Última actualización: 2026-08-28 (silo `musica`: cinco guías STAGED — pilar `instrumentos-musicales` y cuatro sub-pilares `guitarra-criolla-precio`, `guitarra-electrica-precio`, `guitarras-de-marca-precio` y `teclado-musical-precio` — con 32 fichas entre las cinco. Catálogo de todo el sitio en 779 productos, 215 guías. El 2026-08-27: `guitarras-de-marca-precio` + Yamaha en eléctrica, silo música a cuatro guías. El 2026-08-26: `guitarra-criolla-precio` + `instrumentos-musicales`; ese mismo día antes, silo `camaras-vlog` + `dji-cual-comprar`.
+
+## Sesión 2026-08-28 — Sub-pilar de teclados, y la confusión "no declarado" vs "declarado que no"
+
+### LO QUE SE HIZO
+
+Sub-pilar nuevo `teclado-musical-precio` (STAGED, `2026-11-13`), quinta guía del silo música, categoría de guía nueva `teclados` (antes solo existía `guitarras`, y un teclado no es una guitarra). Silo música completo: pilar + cuatro sub-pilares por precio, con fechas escalonadas de 2026-09-25 a 2026-11-13.
+
+**Las 6 fichas nuevas**, verificadas en vivo el 2026-08-27/28 contra `meta[itemprop=price]` en cada `/p/MLA...` (no contra el widget de la landing de `meli.la`, que en la CTK-3500 mostraba un precio stale $357.570 vs. el real $347.070):
+
+| MLA | Producto | Precio | Rating | Calificaciones |
+|---|---|---|---|---|
+| MLA63579452 | Dyvan T61 | $78.790 | 4.5 | 211 |
+| MLA19783697 | Gadnic 54 teclas | $81.500 | 4.5 | 1.021 |
+| MLA19783696 | Parquer K186BK "Sensitivo" | $175.385 | 4.8 | 1.052 |
+| MLA16109682 | Casio CT-S100 | $288.476 | 4.9 | 1.456 |
+| MLA16107361 | Casio CTK-3500 | $347.070 | 4.8 | 1.855 |
+| MLA44710176 | Yamaha PSR-E383 | $487.890 | 4.9 | 1.601 |
+
+### EL ÁNGULO EDITORIAL: RESPUESTA AL TACTO
+
+El diferenciador real entre teclados de entrada y de marca no es el precio, es si las teclas responden a la fuerza con la que se tocan ("respuesta al tacto" o dinámica). Solo tres de las seis fichas declaran ese campo de forma explícita: Casio CT-S100 en No, Casio CTK-3500 y Yamaha en Sí. Las dos de entrada (Dyvan, Gadnic) simplemente no lo listan, y la Parquer se vende como "Sensitivo" en el nombre de la publicación sin que su ficha técnica confirme el dato — la misma disciplina de contradicción-publicada que ya se usó con la Femmto EG001 y la Yamaha C40 en guías anteriores del silo.
+
+### AUTOCORRECCIÓN ANTES DEL TRÍO: 6 ERRORES PROPIOS
+
+Por primera vez en el silo, se corrió un script propio de verificación aritmética (tabla de precios/ratings + grep de patrones "doble/mitad/más que/empata") ANTES de mandar el contenido a Codex/agy, no después. Encontró y corrigió 6 errores reales: un "el doble" que en realidad era 1,5x (48 vs 32 notas de polifonía), un "menos de la mitad" mal calculado (56,7% no es menos de la mitad), dos superlativos que asumían un dato que un producto no declaraba, y dos frases "más que cualquiera" sin verificar contra las seis.
+
+### TRÍO AUDITOR: DOS RONDAS, DOS HALLAZGOS REALES DISTINTOS
+
+- **Codex** encontró la confusión central: el `directAnswer`, el callout "La respuesta corta", el párrafo de la Casio CT-S100 y el `verdict` trataban "el campo no está declarado" (Dyvan, Gadnic) como si fuera "declarado que no tiene" respuesta al tacto ("suenan igual de fuerte", "ninguno... la tiene"). Corregido en los 4 lugares a "no lo declara". El `directAnswer` también anclaba mal el precio: decía que el dato "recién aparece" en la CTK-3500 cuando en realidad empieza a declararse antes, en la CT-S100 (que lo declara en No).
+- **agy (Gemini)**, de forma independiente, encontró un superlativo falso en la ficha de la Yamaha: su `verdict` decía "la mayor cantidad de tonos **y ritmos** del grupo", pero la Parquer tiene 300 ritmos contra los 260 de la Yamaha. Se sacó "y ritmos".
+- Segunda ronda: doble GO, con dos mejoras cosméticas aplicadas (la comparación de peso de la Yamaha omitía a la Gadnic, que sí declara peso; y una frase de la FAQ se reforzó para no dejar lugar a leer "no declarado" como "no tiene").
+
+**Gotcha operativo de esta sesión:** `agy` en modo headless con `--dangerously-skip-permissions` no siempre escribe al archivo redirigido por stdout — a veces guarda su reporte completo en su propia carpeta (`~/.gemini/antigravity-cli/brain/<sesión>/`) y solo devuelve un resumen corto por stdout. Cuando el archivo de salida esperado queda vacío pero el proceso terminó con éxito, buscar ahí antes de asumir que falló.
+
+### VERIFICACIÓN
+
+`tsc --noEmit`, `npm run build` y los nueve checks corridos por separado, en verde después de cada ronda de correcciones (fichas, guía, y los dos hallazgos del trío). Render verificado en el navegador con flip-and-revert de la fecha STAGED, y las 5 fechas del silo re-verificadas con grep una por una antes de cerrar (lección del near-miss del 2026-08-27, sin repetirse esta vez).
+
+### LO QUE QUEDA ABIERTO
+
+- **Publicar las cinco piezas del silo**, con la poda del pilar (`instrumentos-musicales` todavía dice "Por qué no están el teclado, el bajo ni la batería") y el cruce de enlaces, en el mismo commit que cada publicación.
+- **Pushear.** Commits locales acumulados del silo música, ninguno pusheado todavía (el sub-pilar de marcas premium + Yamaha del 2026-08-27 sí se pusheó explícitamente ese día).
+
+---
 
 ## Sesión 2026-08-27 — Marcas premium, y la fecha que casi queda publicada sin querer
 
