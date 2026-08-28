@@ -639,4 +639,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "9",
     postedAt: "2026-08-28T08:38:46-03:00",
   },
+  {
+    title: "Auriculares JBL Quantum 360P Inalámbricos",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_709254-MLA99444648236_112025-O.webp",
+    affiliateUrl: "https://meli.la/1116zLn",
+    newPrice: "149.967",
+    oldPrice: "248.999",
+    offPct: "39",
+    postedAt: "2026-08-28T09:22:46-03:00",
+  },
 ];
