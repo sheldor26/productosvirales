@@ -799,4 +799,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "54",
     postedAt: "2026-08-29T10:32:55-03:00",
   },
+  {
+    title: "Silla Gamer Cougar Speeder One Ergonómica",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_910227-MLA95936539459_102025-O.webp",
+    affiliateUrl: "https://meli.la/2FGrjUj",
+    newPrice: "379.999",
+    oldPrice: "479.999",
+    offPct: "20",
+    postedAt: "2026-08-29T11:14:57-03:00",
+  },
 ];
