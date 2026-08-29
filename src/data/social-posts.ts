@@ -769,4 +769,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "10",
     postedAt: "2026-08-28T19:23:17-03:00",
   },
+  {
+    title: "Gamepad Redragon Harrow Pro Wireless G808pro",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_769478-MLA99951904179_112025-O.webp",
+    affiliateUrl: "https://meli.la/2SPmDFH",
+    newPrice: "58.678",
+    oldPrice: "96.800",
+    offPct: "39",
+    postedAt: "2026-08-29T09:07:51-03:00",
+  },
 ];

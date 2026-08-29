@@ -35,6 +35,7 @@ negro — tienen precio de lista distinto).
 | Monitor Gamer Gigabyte GS34WQC 34" Curvo UWQHD | $919.559 | 2026-08-19 | — |
 | Monitor Gamer Samsung Odyssey G3 G30D 24" 180Hz | $263.199 | 2026-08-24 | — |
 | Monitor Gamer Noblex NXSM2200 22" 100Hz | $133.499 | 2026-08-25 | — |
+| Gamepad Redragon Harrow Pro Wireless G808pro | $58.678 | 2026-08-29 | meli.la/2SPmDFH — sin referencia previa |
 
 ## Electro
 
