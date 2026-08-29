@@ -809,4 +809,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "20",
     postedAt: "2026-08-29T11:14:57-03:00",
   },
+  {
+    title: "Auriculares Gamer Logitech G435 Wireless",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_697638-MLA99515510390_112025-O.webp",
+    affiliateUrl: "https://meli.la/2iowCR3",
+    newPrice: "195.326",
+    oldPrice: "280.605",
+    offPct: "30",
+    postedAt: "2026-08-29T18:00:53-03:00",
+  },
 ];

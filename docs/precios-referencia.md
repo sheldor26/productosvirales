@@ -39,6 +39,7 @@ negro — tienen precio de lista distinto).
 | Monitor Gamer LG UltraGear 24GS60F-B 24" 180Hz | $211.389 | 2026-08-29 | meli.la/1kdUXCc — sin referencia previa |
 | Teclado Mecánico RK Royal Kludge R75 RGB con Perilla | $91.179 | 2026-08-29 | meli.la/168yhvM — sin referencia previa |
 | Silla Gamer Cougar Speeder One Ergonómica | $379.999 | 2026-08-29 | meli.la/2FGrjUj — sin referencia previa |
+| Auriculares Gamer Logitech G435 Wireless | $195.326 | 2026-08-29 | meli.la/2iowCR3 — sin referencia previa |
 
 ## Electro
 
