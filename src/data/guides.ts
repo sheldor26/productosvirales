@@ -3865,6 +3865,101 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
   // PILAR parlantes — silo audio (/guias/audio/...)
   // ─────────────────────────────────────────────────────────
   {
+    slug: "barra-de-sonido-precio",
+    category: "barras-de-sonido",
+    silo: "audio",
+    pillar: true,
+    title: `Cuánto sale una barra de sonido en Argentina [2026]`,
+    h1: `Cuánto sale una barra de sonido en Argentina [2026]`,
+    seoTitle: `Barra de Sonido: Precio en Argentina [2026] y Cuál Comprar`,
+    metaDescription: `Precios reales de barra de sonido verificados en MercadoLibre: de {{precio:MLA61999797:k}} a {{precio:MLA44141923:k}}. Cuál es la más vendida, y por qué una ficha se contradice sola sobre sus canales.`,
+    ogTitle: `Cuánto sale una barra de sonido en Argentina`,
+    ogDescription: `Cinco barras de sonido con precio verificado, de la más vendida a la marca más buscada. Con una contradicción real en la ficha técnica que casi nadie chequea.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_919028-MLA99488782978_112025-F.jpg`,
+    directAnswer: `Una barra de sonido nueva con stock en Argentina arranca en **{{precio:MLA61999797}}** y llega hasta **{{precio:MLA44141923}}** entre las que verificamos. La más barata, la **[Ranser SR7080SW](/producto/barra-de-sonido-ranser-sr7080sw-2-1-canales-con-subwoofer-mla61999797)**, es también la más vendida de toda la categoría en MercadoLibre Argentina. La más cara, la **[JBL SB180](/producto/home-theater-jbl-sb180-con-subwoofer-mla44141923)**, tiene la base de calificaciones más grande de esta comparativa, lejos de cualquier otra. En MercadoLibre esta categoría se llama "Home Theaters", aunque la mayoría de lo que se vende son barras de sonido, no sistemas 5.1 completos.`,
+    publishedDate: "2026-09-12",
+    updatedDate: "2026-09-12",
+    hasDisclosure: true,
+    readingTime: 9,
+    standfirst: `Verificamos cinco barras de sonido con stock real en MercadoLibre Argentina, de {{precio:MLA61999797}} a {{precio:MLA44141923}}. Acá está cuál es la más vendida, cuál marca busca más la gente según el propio ranking de MercadoLibre, y una contradicción real entre el título de una publicación y su ficha técnica que nadie te va a avisar si no la buscás.`,
+    quickPicks: [
+      { productMlaId: "MLA61999797", label: "La más vendida", labelColor: "green", tagline: "Ranser SR7080SW: la más elegida de toda la categoría, con subwoofer" },
+      { productMlaId: "MLA69595880", label: "La mejor oferta", labelColor: "blue", tagline: "Gadnic Nova 160: 47% de descuento declarado, con subwoofer inalámbrico" },
+      { productMlaId: "MLA54053927", label: "La marca más buscada", labelColor: "purple", tagline: "Samsung B400F: la marca que más gente busca en esta categoría" },
+      { productMlaId: "MLA44141923", label: "La más probada", labelColor: "amber", tagline: "JBL SB180: casi 6.000 calificaciones, con reproductor incorporado" },
+    ],
+    intro: [
+      `La pregunta llega siempre igual: **cuánto sale una barra de sonido**. Y buscarla en Google no ayuda: la mitad de lo que aparece son páginas de categoría de tiendas, sin un precio de referencia claro ni una comparación real entre marcas.`,
+      `Verificamos cinco barras de sonido con stock nacional y les leímos las reseñas. Van de **{{precio:MLA61999797}}** a **{{precio:MLA44141923}}**, y en el medio aparece una contradicción real en la ficha técnica de una marca conocida que nadie corrige. Abajo está cada una con precios en vivo.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_919028-MLA99488782978_112025-F.jpg", alt: `Home Theater JBL SB180, la barra de sonido con más calificaciones de esta comparativa en Argentina`, imageSize: "hero" },
+      { type: "callout", calloutVariant: "tip", calloutTitle: "La respuesta corta", content: `La más barata es la **[Ranser SR7080SW](/producto/barra-de-sonido-ranser-sr7080sw-2-1-canales-con-subwoofer-mla61999797)** a {{precio:MLA61999797}}, y también es la más vendida de toda la categoría en MercadoLibre. La más cara es la **[JBL SB180](/producto/home-theater-jbl-sb180-con-subwoofer-mla44141923)** a {{precio:MLA44141923}}, con la base de calificaciones más grande de esta comparativa, lejos de cualquier otra. Si te importa la marca, la **[Samsung B400F](/producto/barra-de-sonido-samsung-b-series-b400f-2-0-mla54053927)** es la que más busca la gente según el propio ranking de tendencias de MercadoLibre.` },
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo verificamos los precios:** partimos del ranking de más vendidos de la categoría "Home Theaters" de MercadoLibre Argentina (así se llama la categoría, aunque casi todo lo que vende son barras de sonido, no sistemas 5.1 completos) y verificamos cada una en su ficha, con el precio leído del dato estructurado de la página, no del texto de la publicación. Las cinco tenían stock disponible el día que las revisamos. Los precios se vuelven a chequear tres veces por semana y en esta página se muestran en vivo. Donde la ficha técnica de una publicación se contradice con su propio título, lo decimos en vez de elegir el dato que nos conviene.` },
+
+      { type: "h2", title: `Los precios, de menor a mayor`, id: "precios" },
+
+      { type: "h3", title: `Barra de sonido Ranser SR7080SW` },
+      { type: "product-card", productMlaId: "MLA61999797", label: "La más vendida", labelColor: "green", ranking: 1, description: `2.1 canales, 120 W RMS, con subwoofer separado. {{rating:MLA61999797}} estrellas en {{reviews:MLA61999797}} calificaciones.` },
+      { type: "p", content: `Es la más barata de esta comparativa, y no por casualidad: es **la barra de sonido más vendida de toda la categoría** en MercadoLibre Argentina. Trae barra y subwoofer separados, con 120 W RMS combinados, y conectividad completa (HDMI, USB, Bluetooth, entrada óptica). Sus compradores la describen una y otra vez como la mejora que le faltaba al sonido plano de la smart TV.` },
+      { type: "p", content: `Entre las reseñas más útiles no encontramos una queja de fondo. La contra real es de specs, no de experiencia: no tiene reproductor propio, según su ficha, y es de un solo parlante además del subwoofer, así que no es un sistema envolvente de verdad.` },
+
+      { type: "h3", title: `Barra de sonido Gadnic Nova 160` },
+      { type: "product-card", productMlaId: "MLA69595880", label: "La mejor oferta", labelColor: "blue", ranking: 2, description: `2.1 canales con subwoofer inalámbrico. {{rating:MLA69595880}} estrellas en {{reviews:MLA69595880}} calificaciones.` },
+      { type: "p", content: `Sale {{preciodif:MLA69595880:MLA61999797}} más que la entrada y trae el descuento declarado más grande de esta comparativa: 47% sobre el precio de lista. Suma subwoofer inalámbrico separado y conectividad completa (Aux, Bluetooth, HDMI, USB). Varios compradores coinciden en la misma frase: "es exactamente lo que buscaba".` },
+      { type: "p", content: `La contra a tener clara es la base de calificaciones: apenas {{reviews:MLA69595880}}, bastante más chica que la de la Ranser o la JBL SB180. Las reseñas que hay son cortas, sin mucho detalle para chequear a fondo, aunque ninguna trae una queja de peso.` },
+
+      { type: "h3", title: `Barra de sonido JBL Cinema SB510` },
+      { type: "product-card", productMlaId: "MLA44873429", label: "Marca real, entrada", labelColor: "purple", ranking: 3, description: `Marca JBL, con una contradicción real entre título y ficha técnica sobre sus canales. {{rating:MLA44873429}} estrellas en {{reviews:MLA44873429}} calificaciones.` },
+      { type: "p", content: `Es la entrada a JBL de esta comparativa, con {{rating:MLA44873429}} estrellas, el rating más alto junto con la SB180. Sus compradores la describen como más que suficiente para una habitación o un ambiente, aunque uno lo aclara con honestidad: "no reemplaza a un home theater, pero es suficiente para una habitación individual".` },
+      { type: "callout", calloutVariant: "warning", calloutTitle: "Su ficha se contradice sobre los canales", content: `El título de esta publicación dice **"3.1 canales"**, pero el campo estructurado **"Configuración de canales"** de la misma ficha declara **2.1**. Son dos datos distintos sobre lo mismo, y no se puede saber cuál es el correcto sin preguntarle al vendedor. No publicamos ninguno de los dos como dato confirmado.` },
+
+      { type: "h3", title: `Barra de sonido Samsung B400F` },
+      { type: "product-card", productMlaId: "MLA54053927", label: "La marca más buscada", labelColor: "purple", ranking: 4, description: `2.0 canales, sin subwoofer separado. La marca más buscada de la categoría según MercadoLibre. {{rating:MLA54053927}} estrellas en {{reviews:MLA54053927}} calificaciones.` },
+      { type: "p", content: `Es la única marca de primer nivel de esta comparativa que no es JBL, y no aparece por casualidad: según el propio ranking de tendencias de búsqueda de MercadoLibre, Samsung es **la marca más buscada** en esta categoría, por encima de JBL, LG y Sony. Es también la única de 2.0 canales sin subwoofer separado, más compacta para espacios chicos. Sus compradores la describen en términos de "cine en casa".` },
+      { type: "p", content: `El dato real a tener en cuenta lo dejó un comprador: **no incluye cable óptico**, así que conectada por Bluetooth a la TV puede aparecer un leve desfasaje entre el audio y el video. Su ficha técnica, además, es inusualmente escueta para una marca de este nivel: solo declara marca, modelo, color y voltaje.` },
+
+      { type: "h3", title: `Home Theater JBL SB180` },
+      { type: "product-card", productMlaId: "MLA44141923", label: "La más probada", labelColor: "amber", ranking: 5, description: `2.1 canales, 110 W RMS, con reproductor incorporado. {{rating:MLA44141923}} estrellas en {{reviews:MLA44141923}} calificaciones.` },
+      { type: "p", content: `Es la más cara de esta comparativa, y sostiene una base de **{{reviews:MLA44141923}} calificaciones**: la más grande de esta comparativa, lejos de cualquier otra. Es también la única de las cinco que trae **reproductor incorporado**, según su ficha. Sus compradores la describen sin vueltas como una experiencia de cine en casa.` },
+      { type: "p", content: `Un comprador aclara que el grave en películas queda un poco por debajo de lo esperado, aunque para música la describe como excelente. Y hay un dato de stock a tener en cuenta: al momento de verificarla, su ficha marcaba **"última unidad disponible"**. Conviene confirmar el stock antes de decidirte por esta.` },
+
+      { type: "table", headers: [`Barra de sonido`, `Precio`, `Canales`, `Calificaciones`], rows: [
+        [`[Ranser SR7080SW](https://meli.la/2w1dW43)`, `{{precio:MLA61999797}}`, `2.1`, `{{reviews:MLA61999797}}`],
+        [`[Gadnic Nova 160](https://meli.la/2wZjJ8p)`, `{{precio:MLA69595880}}`, `2.1`, `{{reviews:MLA69595880}}`],
+        [`[JBL Cinema SB510](https://meli.la/1Lm2Jwx)`, `{{precio:MLA44873429}}`, `Dato contradictorio en su ficha`, `{{reviews:MLA44873429}}`],
+        [`[Samsung B400F](https://meli.la/2njLjqr)`, `{{precio:MLA54053927}}`, `2.0`, `{{reviews:MLA54053927}}`],
+        [`[JBL SB180](https://meli.la/2aeZuw8)`, `{{precio:MLA44141923}}`, `2.1`, `**{{reviews:MLA44141923}}**`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir` },
+      { type: "h3", title: `Si solo querés mejorar el sonido de la TV` },
+      { type: "p", content: `La **[Ranser SR7080SW](/producto/barra-de-sonido-ranser-sr7080sw-2-1-canales-con-subwoofer-mla61999797)**, sin dudarlo. Es la más barata, la más vendida de la categoría y no dejó una queja de peso entre sus compradores.` },
+      { type: "h3", title: `Si te importa la marca` },
+      { type: "p", content: `Entre JBL y Samsung, las dos marcas de primer nivel de esta comparativa: la **[JBL Cinema SB510](/producto/barra-de-sonido-jbl-cinema-sb510-mla44873429)** es la entrada más barata a una marca real, y la **[Samsung B400F](/producto/barra-de-sonido-samsung-b-series-b400f-2-0-mla54053927)** es la que más busca la gente. Ninguna trae subwoofer separado como las opciones de entrada.` },
+      { type: "h3", title: `Si querés la opción más probada` },
+      { type: "p", content: `La **[JBL SB180](/producto/home-theater-jbl-sb180-con-subwoofer-mla44141923)** tiene casi 6.000 calificaciones, lejos de cualquier otra de esta comparativa, y es la única con reproductor incorporado. Es también la más cara, y al verificarla quedaba una sola unidad: confirmá el stock antes de decidirte.` },
+
+      { type: "verdict", content: `Una barra de sonido nueva con stock en Argentina arranca en **{{precio:MLA61999797}}** con la [Ranser SR7080SW](/producto/barra-de-sonido-ranser-sr7080sw-2-1-canales-con-subwoofer-mla61999797), la más vendida de toda la categoría. La **[Gadnic Nova 160](/producto/barra-de-sonido-gadnic-nova-160-inalambrica-con-subwoofer-mla69595880)** suma el mejor descuento declarado. Si te importa la marca, la **[Samsung B400F](/producto/barra-de-sonido-samsung-b-series-b400f-2-0-mla54053927)** es la más buscada según el propio ranking de MercadoLibre, aunque sin cable óptico incluido. Y la **[JBL SB180](/producto/home-theater-jbl-sb180-con-subwoofer-mla44141923)** es la más probada de todas, con casi 6.000 calificaciones, aunque conviene confirmar el stock antes de comprarla.` },
+    ],
+    faq: [
+      { question: `¿Cuánto sale una barra de sonido en Argentina?`, answer: `De las cinco que verificamos con stock nacional, la más barata es la [Ranser SR7080SW](/producto/barra-de-sonido-ranser-sr7080sw-2-1-canales-con-subwoofer-mla61999797) a {{precio:MLA61999797}} y la más cara la [JBL SB180](/producto/home-theater-jbl-sb180-con-subwoofer-mla44141923) a {{precio:MLA44141923}}. La más barata es también la más vendida de toda la categoría en MercadoLibre.` },
+      { question: `¿Cuál es la barra de sonido más vendida de MercadoLibre?`, answer: `La [Ranser SR7080SW](/producto/barra-de-sonido-ranser-sr7080sw-2-1-canales-con-subwoofer-mla61999797) a {{precio:MLA61999797}}, según el propio ranking de más vendidos de la categoría "Home Theaters" de MercadoLibre Argentina. La [JBL SB180](/producto/home-theater-jbl-sb180-con-subwoofer-mla44141923), aunque más cara, tiene la base de calificaciones más grande de esta comparativa, lejos de cualquier otra.` },
+      { question: `¿Barra de sonido y home theater son lo mismo?`, answer: `En la práctica, casi siempre sí para lo que se vende en Argentina hoy. MercadoLibre agrupa las barras de sonido dentro de una categoría que se llama "Home Theaters", pero la inmensa mayoría de lo que aparece ahí son barras de sonido (una o dos piezas, canales 2.0 a 3.1), no sistemas 5.1 completos con parlantes separados para cada canal, que son bastante menos comunes y mucho más caros.` },
+      { question: `¿Qué marca de barra de sonido conviene?`, answer: `Depende de qué priorices. Si buscás la marca que más gente busca, es [Samsung](/producto/barra-de-sonido-samsung-b-series-b400f-2-0-mla54053927), según el propio ranking de tendencias de MercadoLibre. Si buscás la opción más probada en el tiempo, la [JBL SB180](/producto/home-theater-jbl-sb180-con-subwoofer-mla44141923) tiene casi 6.000 calificaciones. Y si el precio es lo primero, ninguna marca de primer nivel le gana a la [Ranser SR7080SW](/producto/barra-de-sonido-ranser-sr7080sw-2-1-canales-con-subwoofer-mla61999797), que además es la más vendida de la categoría.` },
+      { question: `¿Por qué una ficha dice 3.1 canales y otra parte de la misma publicación dice 2.1?`, answer: `Es una contradicción real que encontramos en la [JBL Cinema SB510](/producto/barra-de-sonido-jbl-cinema-sb510-mla44873429): el título de la publicación promete "3.1 canales", pero el campo estructurado "Configuración de canales" de la misma ficha declara 2.1. Pasa más seguido de lo que parece en MercadoLibre: el título lo escribe el vendedor, la ficha técnica es un campo estructurado aparte, y no siempre coinciden. No publicamos ninguno de los dos como dato confirmado hasta no poder chequearlo con el vendedor.` },
+      { question: `¿Hace falta cable óptico para conectar una barra de sonido?`, answer: `No es obligatorio, pero resuelve un problema real. Conectada por Bluetooth a la TV, el audio puede llegar con un leve desfasaje respecto al video, algo que un comprador de la [Samsung B400F](/producto/barra-de-sonido-samsung-b-series-b400f-2-0-mla54053927) señaló específicamente porque esa barra no incluye el cable. Si tu TV tiene salida óptica y te molesta el delay, conviene sumar el cable aparte.` },
+    ],
+    internalLinksTitle: `Las fichas, una por una`,
+    internalLinks: [
+      { label: `Ranser SR7080SW: ficha y opiniones`, href: `/producto/barra-de-sonido-ranser-sr7080sw-2-1-canales-con-subwoofer-mla61999797` },
+      { label: `Gadnic Nova 160: ficha y opiniones`, href: `/producto/barra-de-sonido-gadnic-nova-160-inalambrica-con-subwoofer-mla69595880` },
+      { label: `JBL Cinema SB510: ficha y opiniones`, href: `/producto/barra-de-sonido-jbl-cinema-sb510-mla44873429` },
+      { label: `Samsung B400F: ficha y opiniones`, href: `/producto/barra-de-sonido-samsung-b-series-b400f-2-0-mla54053927` },
+      { label: `JBL SB180: ficha y opiniones`, href: `/producto/home-theater-jbl-sb180-con-subwoofer-mla44141923` },
+    ],
+  },
+  {
     slug: "parlantes",
     category: "parlantes",
     silo: "audio",
@@ -29717,6 +29812,11 @@ export const guideCategories: Record<string, { name: string; description: string
     name: "Guía de Parlantes",
     description:
       "Bluetooth, resistentes al agua o para fiesta: cuáles suenan bien de verdad y cuánto dura la batería en uso real.",
+  },
+  "barras-de-sonido": {
+    name: "Guía de Barras de Sonido",
+    description:
+      "Barras de sonido comparadas por precio real: cuál es la más vendida, cuál marca busca más la gente y qué fichas se contradicen solas.",
   },
   auriculares: {
     name: "Guía de Auriculares",
