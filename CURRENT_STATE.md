@@ -1,7 +1,31 @@
 # Estado actual
 
 > Snapshot del proyecto. Se actualiza al final de cada sesión.
-> Última actualización: 2026-08-28 (silo `musica` **PUBLICADO completo**: pilar `instrumentos-musicales` y cinco sub-pilares `guitarra-criolla-precio`, `guitarra-electrica-precio`, `guitarras-de-marca-precio`, `teclado-musical-precio` y `ukelele-precio` — las 6 con `publishedDate` de hoy, ya no STAGED. 35 fichas entre las seis. El pilar recibió su poda (linkea a las 5 hijas, ya no dice "por qué no están el teclado" — ahora sí están). Catálogo de todo el sitio en 782 productos, 216 guías. El 2026-08-27: `guitarras-de-marca-precio` + Yamaha en eléctrica. El 2026-08-26: `guitarra-criolla-precio` + `instrumentos-musicales`; ese mismo día antes, silo `camaras-vlog` + `dji-cual-comprar`.
+> Última actualización: 2026-08-29 (nuevo pilar `setup-gamer` PUBLICADO en el silo gaming, y guía `barra-de-sonido-precio` STAGED para 2026-09-12 en categoría nueva `barras-de-sonido` del silo audio, con doble GO del trío auditor. Ver sesión de hoy más abajo.)
+
+## Sesión 2026-08-29 — Pilar `setup-gamer`, categoría nueva `barras-de-sonido`, y una recaída en el error de superlativos mal acotados
+
+### LO QUE SE HIZO
+
+**`setup-gamer` (silo gaming, publicado).** A pedido de Juan de replicar el patrón de pilar que funcionó en música, se armó `setup-gamer` como pilar real del silo gaming (categoría "gaming"), reutilizando 6 fichas ya existentes del catálogo (silla, auriculares, teclado, mouse, kit combinado y monitor). De paso se encontró y corrigió un bug real de datos: `silla-gamer` tenía `pillar: true` puesto por error, lo que hacía que las otras 9 guías del silo mostraran esa guía de comparación de producto (no un hub) como "el" pilar en su sidebar de "seguí leyendo". Se sacó el flag y ahora `setup-gamer` aparece correctamente como pilar en las 10 guías del silo.
+
+**`barra-de-sonido-precio` (silo audio, STAGED 2026-09-12).** Investigando si el mismo patrón de pilar convenía en audio o tech, keyword research (Ubersuggest + Keyword Planner) encontró "barra de sonido" (6.600/mes, SD 18) y "home theater" (5.400/mo, SD 13) sin ninguna guía del sitio cubriéndolos y con cero comparadores editoriales en el SERP argentino. Se sourcearon 5 productos reales de la categoría "Home Theaters" de MercadoLibre (así se llama la categoría, aunque casi todo lo que vende son barras de sonido) y se armó la primera guía de la categoría nueva `barras-de-sonido`: Ranser SR7080SW (más barata y más vendida), Gadnic Nova 160 (mejor descuento), JBL Cinema SB510 (con una contradicción real 3.1 vs 2.1 entre título y ficha técnica, publicada sin elegir un lado), Samsung B400F (marca más buscada según el ranking de tendencias de MercadoLibre) y JBL SB180 (la más cara y con más calificaciones del grupo).
+
+### ERROR PROPIO Y CÓMO SE ATAJÓ
+
+El trío auditor encontró, en tres pasadas sucesivas, una recaída real en el patrón de error más repetido de esta cuenta: superlativos mal acotados. Primero, 6 menciones de "la base de calificaciones más grande de **todo el catálogo de audio del sitio**" para la JBL SB180 (5.918 calificaciones) eran falsas — varios productos de audio del sitio (Xiaomi Redmi Buds 6 Play con 211.935, entre otros) tienen bases mucho más grandes; se corrigió a "de esta comparativa", que sí es cierto dentro del grupo de 5. Segundo, en la misma pasada apareció una inconsistencia en la ficha Samsung B400F: el campo `specs` declaraba "Configuración de canales: 2.0" como si fuera un dato estructurado real de MercadoLibre, cuando en realidad se había inferido del nombre comercial del producto — se sacó el campo y se aclaró en el string del Modelo. Una segunda pasada encontró dos problemas más: el 47% de descuento declarado de la Gadnic Nova 160 no tenía `originalPrice` cargado en el dato que lo respalde (se agregó `originalPrice: 442899`, verificado en el sourcing original), y una frase ("ninguna de las dos trae subwoofer tan potente como las de entrada") sugería falsamente que dos productos sin subwoofer separado sí lo tenían. Recién en la tercera pasada Codex y agy dieron GO en la misma ronda.
+
+### VERIFICACIÓN
+
+`tsc --noEmit`, los nueve checks del repo y `npm run build` en verde después de cada tanda de fixes. Render local verificado en navegador con el protocolo de flip-and-revert de la fecha STAGED (confirmado con grep que quedó en 2026-09-12). Trío auditor: 3 rondas, GO/GO recién en la tercera. Se encontró y se borró un archivo suelto (`scratch_guide.ts`) que agy dejó en la raíz del repo durante una de las auditorías pese a que su rol es solo auditar, no escribir — no tenía referencias en el código, era contenido de scratch sin uso.
+
+### LO QUE QUEDA ABIERTO
+
+- `barra-de-sonido-precio` sigue en STAGED (2026-09-12): falta decidir con Juan si commitear/pushear ahora y cuándo publicar (dar vuelta la fecha).
+- Es la primera guía de la categoría `barras-de-sonido`, sin sub-guías hermanas todavía — mismo patrón que se usó para arrancar `parlantes` y `auriculares-inalambricos`.
+- El patrón de "superlativo mal acotado" ya lleva más de una recaída en este sitio (ver también la sesión 2026-08-16 con 32 correcciones); conviene que cualquier guía nueva chequee explícitamente contra el grupo completo relevante ANTES de escribir la superlativa, no después en auditoría.
+
+---
 
 ## Sesión 2026-08-28 (c) — Se publica el silo música completo, y la poda del pilar
 

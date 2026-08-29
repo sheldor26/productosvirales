@@ -16,6 +16,16 @@
 **Archivos involucrados:** `path/a/archivo.ts`
 -->
 
+## 2026-08-29 — El superlativo de "todo el catálogo" volvió a colarse, esta vez en audio
+
+**Qué pasó:** en la guía nueva `barra-de-sonido-precio` (categoría "barras-de-sonido", silo audio) y en la ficha de la JBL SB180, escribí seis veces "la base de calificaciones más grande de **todo el catálogo de audio del sitio**" para sus 5.918 calificaciones. Es falso: varios productos de audio del sitio tienen bases mucho más grandes (el Xiaomi Redmi Buds 6 Play, 211.935; el Sony WH-CH520, 59.010; y otros cuatro más), así que la SB180 queda 9.ª del catálogo completo, no 1.ª. Lo marcó Codex en la primera pasada del trío auditor. Independientemente lo confirmé con un script en Python que ordenó todo `categorySlug: "audio"` por `reviewCount`.
+
+**Por qué:** es exactamente el mismo error que ya está anotado el 2026-08-26 (la CG001 declarada "la más barata del rubro" sin chequear contra todo el catálogo) — solo que ahí ya se había aprendido "acotar al grupo homogéneo de la guía", y acá la redacción se fue para el otro extremo: en vez de acotar de más (comparar contra un grupo mezclado), acoté de menos, generalizando a "todo el catálogo de audio" sin haber mirado ese catálogo completo ni una vez. Nueve productos de audio superan a la SB180 en calificaciones; nunca los miré porque estaba comparando solo contra las otras 4 barras de sonido de la propia guía.
+
+**Cómo evitarlo:** cualquier superlativo que use la palabra "catálogo", "sitio" o "todo" (no "esta comparativa"/"estas cinco") es una afirmación sobre TODO el catálogo del rubro, y exige el mismo chequeo que un superlativo acotado: grepear/ordenar el campo relevante (`reviewCount`, precio, rating) de **todos** los productos de esa `categorySlug` antes de publicarlo, no asumir que el producto más caro o más nuevo de la comparación también gana a nivel sitio. La regla de fondo es la misma de siempre — todo superlativo se verifica contra el grupo real que se está nombrando, ni más chico ni más grande de lo que dice la frase — pero acá quedó claro que "más grande/chico que TODO X" es el caso más caro de verificar mal, porque X casi nunca es el grupo que se tiene a mano en el momento de escribir.
+
+**Archivos involucrados:** `src/data/guides.ts`, `src/data/curated-products.ts`
+
 ## 2026-08-27 — Una fecha STAGED casi queda publicada sin querer
 
 **Qué pasó:** para verificar el render de una guía en local hay que flipear `publishedDate` a la fecha de hoy temporalmente (porque `findGuideByPath` filtra por fecha publicada) y revertirla al terminar. En una sesión con dos guías nuevas y varias rondas de verificación por auditoría, una reversión se saltó: `guitarra-electrica-precio` quedó con `publishedDate: "2026-08-27"` (hoy) en vez de volver a su STAGED real, `"2026-10-16"`. Se detectó recién al final, en un chequeo explícito de las cuatro fechas del silo antes de commitear.
