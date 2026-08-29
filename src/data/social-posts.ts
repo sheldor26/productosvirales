@@ -10,6 +10,16 @@ import type { SocialPost } from "@/lib/types";
  */
 export const socialPosts: SocialPost[] = [
   {
+    title: "Tostadora Atma To20Wp Dos Rebanadas Color Blanco",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_686726-MLA94802541032_102025-F.webp",
+    affiliateUrl: "https://meli.la/2e12DnC",
+    newPrice: "45.246",
+    oldPrice: "65.392",
+    offPct: "30",
+    postedAt: "2026-08-29T08:51:09-03:00",
+  },
+  {
     title: "Auriculares Gamer Razer Blackshark V2 X Classic Black",
     imageUrl:
       "https://http2.mlstatic.com/D_NQ_NP_640861-MLA99990155459_112025-O.webp",
