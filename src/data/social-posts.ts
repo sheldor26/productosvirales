@@ -789,4 +789,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "16",
     postedAt: "2026-08-29T09:50:58-03:00",
   },
+  {
+    title: "Teclado Mecánico RK Royal Kludge R75 RGB con Perilla",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_759934-MLU79199658749_092024-O.webp",
+    affiliateUrl: "https://meli.la/168yhvM",
+    newPrice: "91.179",
+    oldPrice: "199.999",
+    offPct: "54",
+    postedAt: "2026-08-29T10:32:55-03:00",
+  },
 ];

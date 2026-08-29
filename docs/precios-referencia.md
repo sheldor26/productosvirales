@@ -37,6 +37,7 @@ negro — tienen precio de lista distinto).
 | Monitor Gamer Noblex NXSM2200 22" 100Hz | $133.499 | 2026-08-25 | — |
 | Gamepad Redragon Harrow Pro Wireless G808pro | $58.678 | 2026-08-29 | meli.la/2SPmDFH — sin referencia previa |
 | Monitor Gamer LG UltraGear 24GS60F-B 24" 180Hz | $211.389 | 2026-08-29 | meli.la/1kdUXCc — sin referencia previa |
+| Teclado Mecánico RK Royal Kludge R75 RGB con Perilla | $91.179 | 2026-08-29 | meli.la/168yhvM — sin referencia previa |
 
 ## Electro
 
