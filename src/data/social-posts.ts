@@ -819,4 +819,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "30",
     postedAt: "2026-08-29T18:00:53-03:00",
   },
+  {
+    title: "Heladera No Frost Inverter 342L Drean Inox",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_820632-MLA107484343693_022026-O.webp",
+    affiliateUrl: "https://meli.la/2Cgerm5",
+    newPrice: "889.999",
+    oldPrice: "1.499.999",
+    offPct: "40",
+    postedAt: "2026-08-29T18:44:29-03:00",
+  },
 ];

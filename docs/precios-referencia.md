@@ -51,6 +51,7 @@ negro — tienen precio de lista distinto).
 | Aire Acondicionado Portátil Sansei Frío/Calor | $529.999 | 2026-08-26 | — |
 | Sillón Masajeador Gadnic Titanium | $1.162.080 | 2026-08-26 | — |
 | Impresora Multifuncional HP Smart Tank 580 | $420.421 | 2026-08-13 | — |
+| Heladera No Frost Inverter 342L Drean Inox | $889.999 | 2026-08-29 | meli.la/2Cgerm5 — sin referencia previa |
 
 ## Pequeños electrodomésticos
 
