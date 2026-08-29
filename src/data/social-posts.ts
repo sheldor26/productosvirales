@@ -829,4 +829,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "40",
     postedAt: "2026-08-29T18:44:29-03:00",
   },
+  {
+    title: "Smart TV Samsung Crystal UHD 50\" 4K",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_989760-MLA99933062113_112025-O.webp",
+    affiliateUrl: "https://meli.la/2XD4jpw",
+    newPrice: "805.099",
+    oldPrice: "1.499.999",
+    offPct: "46",
+    postedAt: "2026-08-29T19:27:14-03:00",
+  },
 ];
