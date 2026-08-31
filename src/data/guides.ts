@@ -5335,6 +5335,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     ],
     internalLinks: [
       { label: "Ventilador de techo: cuál comprar", href: "/guias/climatizacion/ventilador-de-techo" },
+      { label: "Ventilador de pie: cuál comprar en Argentina", href: "/guias/climatizacion/ventilador-de-pie" },
       { label: "Estufas eléctricas: cuál comprar (guía completa)", href: "/guias/climatizacion/estufas-electricas" },
       { label: "Estufa de bajo consumo: cuál gasta menos", href: "/guias/climatizacion/estufa-electrica-bajo-consumo" },
       { label: "Caloventor: cuál comprar y qué mirar", href: "/guias/climatizacion/caloventor" },
@@ -23976,6 +23977,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     ],
     internalLinks: [
       { label: "Ventilador de techo: cuál comprar en Argentina", href: "/guias/climatizacion/ventilador-de-techo" },
+      { label: "Aire acondicionado portátil: cuál comprar", href: "/guias/climatizacion/aire-acondicionado-portatil" },
       { label: "Humidificador: cuál comprar en Argentina", href: "/guias/climatizacion/humidificador" },
       { label: "Estufas eléctricas: cuál comprar en Argentina", href: "/guias/climatizacion/estufas-electricas" },
     ],
