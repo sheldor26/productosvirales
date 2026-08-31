@@ -1,7 +1,22 @@
 # Estado actual
 
 > Snapshot del proyecto. Se actualiza al final de cada sesión.
-> Última actualización: 2026-08-31 (rutina automática en la nube: se dejó anotado en `docs/seo-tracking-optimizaciones.md` que hoy es el día agendado para medir el test de tono de `proyector-portatil`, pero la sesión no tiene credenciales de GSC/GA4 — medición sigue pendiente de correr localmente. Sin cambios de contenido/producto. Ver sesión de hoy más abajo.)
+> Última actualización: 2026-08-31 (segunda rutina automática del día: chequeo de indexación de `robot-aspiradora-samsung` dio falso negativo por búsqueda web; Juan confirmó en Search Console URL Inspection que la página SÍ está indexada. Sin cambios de contenido/producto. Ver sesiones de hoy más abajo.)
+
+## Sesión 2026-08-31 (b) — Rutina automática: chequeo de indexación `robot-aspiradora-samsung` (falso negativo corregido)
+
+### LO QUE SE HIZO
+
+Sesión disparada por una tarea programada para verificar si la guía `robot-aspiradora-samsung` (casi 3 meses publicada, "Crawled - currently not indexed" en Search Console) quedó indexada tras el reindex manual que Juan forzó el 2026-08-29. Se hicieron dos búsquedas web (`site:` y la frase exacta del título) y ninguna devolvió la URL — solo apareció la guía hermana/pilar `robot-aspiradora`. No se corrió `check_indexing.py` (sin credenciales OAuth de GSC en este checkout de nube). Se avisó a Juan por push notification de que "seguía sin aparecer".
+
+**Corrección:** Juan chequeó directamente en Search Console (URL Inspection) y confirmó "URL is on Google" / "Page is indexed", con enhancements válidos (product snippets, merchant listings, breadcrumbs). La guía **sí está indexada** — la búsqueda web dio un falso negativo porque no es una señal confiable de indexación puntual, solo de posicionamiento en esas consultas específicas.
+
+### LO QUE QUEDA ABIERTO
+
+- Indexación confirmada, no hay pendiente sobre eso. Monitorear si en los próximos días empieza a generar impresiones/clicks reales en Search Console.
+- Lección para próximos chequeos de indexación: usar `check_indexing.py` (API de GSC) o URL Inspection directamente, no búsqueda web como señal principal.
+
+---
 
 ## Sesión 2026-08-31 — Rutina automática: recordatorio de día de medición (test de tono `proyector-portatil`)
 

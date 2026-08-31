@@ -25,6 +25,26 @@
 ---
 -->
 
+## 2026-08-31 (b) — Chequeo de indexación: robot-aspiradora-samsung (falso negativo por búsqueda web, confirmado indexada en GSC)
+
+**Qué se hizo:**
+- Sesión automática (tarea programada) para chequear si la guía `robot-aspiradora-samsung` (publicada hace casi 3 meses, marcada en Search Console como "Crawled - currently not indexed") ya quedó indexada tras el reindex manual que Juan forzó el 2026-08-29.
+- Se hicieron dos búsquedas web: `site:productosvirales.com.ar/guias/robot-aspiradora-samsung` y la frase exacta del título entre comillas. Ninguna de las dos devolvió esa URL — solo apareció la guía hermana `/guias/robot-aspiradora` (el pilar). Se avisó a Juan por push notification que la guía "sigue sin aparecer" pese al reindex.
+- **Esa conclusión era un falso negativo.** Juan chequeó directamente en Search Console (URL Inspection) y la herramienta muestra "URL is on Google" / "Page indexing: Page is indexed", con Product snippets, Merchant listings y Breadcrumbs válidos. La API/UI de Search Console es la fuente de verdad; la búsqueda web (`site:` y frase exacta) no la detectó porque una URL puede estar indexada sin aparecer todavía en esas dos consultas puntuales — es un proxy más débil, como ya advertía la tarea original.
+- No se tocó código ni contenido del repo.
+
+**Archivos tocados:** ninguno (solo este log y `CURRENT_STATE.md`).
+
+**Estado al cerrar:** sin cambios de código, nada para commitear. Falso positivo de "no indexada" corregido con evidencia real de Juan.
+
+**Decisiones pendientes para Juan:**
+- Ninguna urgente sobre indexación — ya está confirmada. Si en unos días no empieza a traer impresiones/clicks reales en Search Console pese a estar indexada, ahí sí valdría reforzarla con más enlaces internos desde `robot-aspiradora` / `mejor-aspiradora-robot`.
+
+**Próximo paso sugerido:**
+- Para futuros chequeos de indexación de una URL puntual, preferir `check_indexing.py` (API de Search Console) o pedirle a Juan que mire URL Inspection directamente, en vez de confiar en búsqueda web como señal principal — dejó una falsa alarma en este caso.
+
+---
+
 ## 2026-08-31 — Recordatorio de día de medición: test de tono proyector-portatil
 
 **Qué se hizo:**
