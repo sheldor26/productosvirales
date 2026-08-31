@@ -2,12 +2,13 @@ import type { Coupon } from "@/lib/types";
 
 export const activeCoupons: Coupon[] = [
   {
-    // Sin horario de inicio en el mensaje de MELI, solo el límite de las
-    // 23:59, así que va sin `validFrom`: vale desde cualquier hora.
-    code: "FINOFERTA",
-    discountAmount: 20000,
+    // Ventana relámpago de la tarde: el badge se prende solo a las 18:00
+    // y se apaga a las 23:59, sin tocar nada.
+    code: "HORASLOCA",
+    discountAmount: 25000,
     minPurchase: 250000,
-    validUntil: "2026-08-29T23:59:00-03:00",
+    validFrom: "2026-08-31T18:00:00-03:00",
+    validUntil: "2026-08-31T23:59:00-03:00",
     active: true,
   },
 ];
