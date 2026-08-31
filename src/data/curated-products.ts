@@ -11389,7 +11389,7 @@ Es de los hornos de mesa más completos para cocinar en serio sin horno de cocin
     rating: 4.7,
     reviewCount: 1148,
     pastelColor: "var(--pastel-amber)",
-    visibility: "normal",
+    visibility: "deprioritized",
     specs: [
       { label: "Capacidad", value: "45 litros" },
       { label: "Potencia", value: "2000 W" },
@@ -11410,8 +11410,8 @@ Es de los hornos de mesa más completos para cocinar en serio sin horno de cocin
     ],
     relatedProducts: ["MLA27167036", "MLA14259153"],
     priceUpdated: "2026-08-17",
-    priceLastChecked: "2026-08-17",
-    priceStatus: "fresh",
+    priceLastChecked: "2026-08-31",
+    priceStatus: "out_of_stock",
     description: "Horno eléctrico de sobremesa BGH de 45 litros con convección y grill, de una marca con service en el país. Calienta rápido y cocina parejo, elegido hasta para emprendimientos de pastelería. 2000 W. Más de 1.100 calificaciones.",
     seoTitle: "Horno BGH BHE45S22 45L: convección, grill y service AR",
     metaDescription: "Horno BGH BHE45S22 de 45 litros con convección y doble grill. Para quien cocina seguido y quiere marca con service. Specs reales, contras y para quién no.",
@@ -15382,7 +15382,7 @@ Cumple lo que promete para fiesta y karaoke: micrófono incluido, 9 horas de bat
     rating: 4.7,
     reviewCount: 351,
     pastelColor: "var(--pastel-blue)",
-    visibility: "normal",
+    visibility: "deprioritized",
     specs: [
       { label: "Tipo", value: "Torre de sonido para el hogar" },
       { label: "Extra", value: "Función power bank (carga el celular)" },
@@ -15399,8 +15399,8 @@ Cumple lo que promete para fiesta y karaoke: micrófono incluido, 9 horas de bat
     ],
     relatedProducts: ["MLA15733030", "MLA45615651"],
     priceUpdated: "2026-08-05",
-    priceLastChecked: "2026-08-05",
-    priceStatus: "fresh",
+    priceLastChecked: "2026-08-31",
+    priceStatus: "out_of_stock",
     description: "Torre de Sonido Aiwa AW-T2018R: equipo de hogar con bluetooth, entrada auxiliar y función power bank. La opción premium entre las torres.",
     seoTitle: "Torre Aiwa AW-T2018R: review, potencia y power bank",
     metaDescription: "Torre de sonido Aiwa AW-T2018R: batería de 6 horas, power bank, 2 micrófonos y luces RGB. Para fiestas chicas y patio. Mirá la pega antes de comprar.",
@@ -46666,8 +46666,9 @@ Robot Roomba j9, base premium de autovaciado y autorrelleno de agua, control rem
     title: 'Cafetera de filtro Atma CA8131 blanca 1,25 L',
     price: 45000,
     priceUpdated: '2026-06-09',
-    priceLastChecked: '2026-06-09',
-    priceStatus: 'fresh',
+    priceLastChecked: '2026-08-31',
+    priceStatus: 'out_of_stock',
+    visibility: 'deprioritized',
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_976321-MLA99453742526_112025-F.jpg',
     images: [
@@ -48483,7 +48484,7 @@ Incluye recetario para cafés y capuchinos, cuchara medidora y el espumador. Con
 
 ## Contra las otras express del catálogo
 
-El siguiente escalón es la [Smartlife SL-EC8501](/producto/cafetera-express-smartlife-sl-ec8501-20-bares-con-espumador-mla18562154) ($194.111), y un poco por debajo de esa está la [Liliana express 2 en 1](/producto/cafetera-express-liliana-ac985-digital-2-en-1-de-20-bar-mla62547964) ($174.521), que sube a 20 bares de presión con pantalla digital. Las dos cuestan entre $40.000 y $60.000 más que la Ultracomb.
+El siguiente escalón es la [Smartlife SL-EC8501](/producto/cafetera-express-smartlife-sl-ec8501-20-bares-con-espumador-mla18562154) ({{precio:MLA18562154}}), y un poco por debajo de esa está la [Liliana express 2 en 1](/producto/cafetera-express-liliana-ac985-digital-2-en-1-de-20-bar-mla62547964) ({{precio:MLA62547964}}), que sube a 20 bares de presión con pantalla digital. Las dos cuestan entre {{preciodif:MLA62547964:MLA36409137}} y {{preciodif:MLA18562154:MLA36409137}} más que la Ultracomb.
 
 El salto de marca es la [Oster BVSTEM5501B](/producto/cafetera-espresso-oster-bvstem5501b-negra-mla23909880) ($289.999): mismos 15 bares pero con espumador con depósito de leche, estructura de acero y el respaldo de la marca de cafeteras más buscada de Argentina — a más del doble de precio.
 
@@ -48594,7 +48595,7 @@ No es para vos si: querés apretar un botón y listo (mirá las cafeteras de cá
     ogDescription: 'Café molido o cápsula, vos elegís. 20 bares, espumador y 4.7★. Y la aclaración que la publicación no hace: Dolce Gusto no entra. Todo el detalle acá.',
     h1: 'Cafetera express Liliana AC985 2 en 1: espresso de 20 bares con café molido o cápsulas tipo Nespresso',
     pros: [
-      '4.7⭐ con 49 calificaciones y reviews que hablan de "cafés como de cafetería"',
+      '4.7⭐ con {{reviews:MLA62547964}} calificaciones y reviews que hablan de "cafés como de cafetería"',
       '2 en 1 real: portafiltro para café molido + adaptador para cápsulas tipo Nespresso',
       'Bomba de 20 bares y 1.200 W: más presión que muchas express del doble de precio',
       'Vaporizador regulable que las reviews elogian: "el espumador de leche excelente"',
@@ -48608,10 +48609,10 @@ No es para vos si: querés apretar un botón y listo (mirá las cafeteras de cá
       'Bastante plástico en el cuerpo, señalan reviews de 4 estrellas',
       'La garantía extendida de ML es redundante: la de fábrica ya cubre 2 años, avisa un comprador',
     ],
-    verdict: 'A $174.521, es la express más versátil de su rango: espresso de 20 bares con café molido y la salida rápida de la cápsula tipo Nespresso para los días sin tiempo. Compra con los ojos abiertos: Dolce Gusto no entra, y el teclado táctil no enamora a todos.',
+    verdict: 'A {{precio:MLA62547964}}, es la express más versátil de su rango: espresso de 20 bares con café molido y la salida rápida de la cápsula tipo Nespresso para los días sin tiempo. Compra con los ojos abiertos: Dolce Gusto no entra, y el teclado táctil no enamora a todos.',
     articleBody: `## Qué es exactamente la Liliana 2 en 1
 
-La Liliana AC985 es una cafetera express digital de 20 bares y 1.200 W que cuesta $174.521 y junta 4.7 estrellas en {{reviews:MLA62547964}} calificaciones. El "2 en 1" significa: hace espresso con café molido (portafiltro clásico) y también acepta cápsulas tipo Nespresso con el adaptador incluido.
+La Liliana AC985 es una cafetera express digital de 20 bares y 1.200 W que cuesta {{precio:MLA62547964}} y junta 4.7 estrellas en {{reviews:MLA62547964}} calificaciones. El "2 en 1" significa: hace espresso con café molido (portafiltro clásico) y también acepta cápsulas tipo Nespresso con el adaptador incluido.
 
 ## El 2 en 1, aclarado de una vez (porque la publicación confunde)
 
@@ -48637,7 +48638,7 @@ Los atributos de ML declaran 220 cm de ancho, 352 cm de profundidad y 372 cm de 
 
 ## Contra la Smartlife SL-EC8501, la Ultracomb CE-6108 y la Prosteam AC987
 
-En espresso puro y barato, la [Ultracomb CE-6108](/producto/cafetera-express-ultracomb-ce-6108-15-bar-roja-mla36409137) ($133.999) hace café de 15 bares por $40.000 menos — sin opción de cápsulas ni panel digital. La [Smartlife SL-EC8501](/producto/cafetera-express-smartlife-sl-ec8501-20-bares-con-espumador-mla18562154) ($194.111) juega en el mismo rango de precio con su propia propuesta de express.
+En espresso puro y barato, la [Ultracomb CE-6108](/producto/cafetera-express-ultracomb-ce-6108-15-bar-roja-mla36409137) ($133.999) hace café de 15 bares por $40.000 menos — sin opción de cápsulas ni panel digital. La [Smartlife SL-EC8501](/producto/cafetera-express-smartlife-sl-ec8501-20-bares-con-espumador-mla18562154) ({{precio:MLA18562154}}) juega en el mismo rango de precio con su propia propuesta de express.
 
 Dentro de la misma marca, la [Liliana Prosteam AC987](/producto/cafetera-express-liliana-prosteam-ac987-digital-de-20-bar-mla70273936) ($222.995) es la línea más nueva: 1.350 W, 5 funciones programadas y calentador de tazas, pero solo café molido — pierde la opción cápsula. Si la cápsula es tu plan B para los días de apuro, la AC985 sigue siendo la jugada.
 
@@ -48645,7 +48646,7 @@ Dentro de la misma marca, la [Liliana Prosteam AC987](/producto/cafetera-express
 
 Es para vos si: querés espresso real de 20 bares con café molido pero valorás el comodín de la cápsula tipo Nespresso para la semana, y el espumador de leche te suma para capuchinos. No es para vos si: tus cápsulas son Dolce Gusto (no entran), te irritan los teclados táctiles mañosos, o preferís espresso simple y más barato (Ultracomb CE-6108).
 
-A $174.521 con 4.7 estrellas, es la flexibilidad hecha cafetera — siempre que entres sabiendo qué incluye la caja y qué no.`,
+A {{precio:MLA62547964}} con 4.7 estrellas, es la flexibilidad hecha cafetera — siempre que entres sabiendo qué incluye la caja y qué no.`,
     specs: [
       { label: 'Marca / Fabricante', value: 'Liliana SRL' },
       { label: 'Modelo', value: 'AC985' },
@@ -48676,7 +48677,7 @@ A $174.521 con 4.7 estrellas, es la flexibilidad hecha cafetera — siempre que 
       { question: '¿Conviene pagar la garantía extendida?', answer: 'Un comprador con dos unidades dice que no: la garantía de fábrica de Liliana ya es de 2 años (impreso en la caja), y la protección adicional paga recién empieza a correr a los 6 meses — pagás cobertura que ya tenés. Su dato de durabilidad es alentador: su primera unidad lleva un año de uso sin problemas.' },
       { question: '¿Qué tan grande es? ¿Las medidas de ML son correctas?', answer: 'La ficha de MercadoLibre tiene un error grosero: declara 220 x 352 x 372 centímetros, casi 4 metros de cafetera. Las medidas reales son 22 cm de ancho, 35,2 de profundidad y 37,2 de alto, con 4 kg de peso — una express de tamaño normal que entra en cualquier mesada.' },
       { question: '¿Cuántos cafés salen con el tanque lleno?', answer: 'El tanque desmontable de 1,5 litros rinde unos 15 pocillos de espresso según el fabricante. Es de los más grandes de la categoría: cargás agua una vez y tenés para varios días de cafés individuales, o para una ronda completa cuando cae gente a casa.' },
-      { question: '¿Conviene esta o la Liliana Prosteam AC987?', answer: 'Depende de las cápsulas. La AC985 ($174.521) es 2 en 1: molido + cápsulas tipo Nespresso, con {{reviews:MLA62547964}} calificaciones que la respaldan. La Prosteam AC987 ($222.995) es la línea más nueva, con 1.350 W, funciones programadas y calentador de tazas, pero solo acepta café molido y su publicación todavía no tiene calificaciones. Si querés el comodín cápsula, AC985.' },
+      { question: '¿Conviene esta o la Liliana Prosteam AC987?', answer: 'Depende de las cápsulas. La AC985 ({{precio:MLA62547964}}) es 2 en 1: molido + cápsulas tipo Nespresso, con {{reviews:MLA62547964}} calificaciones que la respaldan. La Prosteam AC987 ($222.995) es la línea más nueva, con 1.350 W, funciones programadas y calentador de tazas, pero solo acepta café molido y su publicación todavía no tiene calificaciones. Si querés el comodín cápsula, AC985.' },
     ],
     customerReviews: [
       { rating: 5, country: 'Argentina', date: 'febrero 2026', useful: 3, text: 'Compré el año pasado otra igual y venía con un tercer portafiltro para cápsulas más grandes. Esta solo trae uno para cápsulas chicas, que no son las mejores. Mi duda es si esta viene con un faltante, no me pude comunicar con el vendedor: solo trajo uno para cápsulas y el otro para café exprés.' },
@@ -48694,7 +48695,7 @@ A $174.521 con 4.7 estrellas, es la flexibilidad hecha cafetera — siempre que 
       '@type': 'Product',
       name: 'Cafetera express Liliana AC985 digital 2 en 1 de 20 bar',
       image: 'https://http2.mlstatic.com/D_NQ_NP_725326-MLA99126509940_112025-F.jpg',
-      description: 'Cafetera express digital Liliana AC985 2 en 1: espresso con café molido o cápsulas tipo Nespresso, bomba de 20 bares, 1.200 W, tanque de 1,5 litros y vaporizador para espumar leche. 4.7 estrellas con 49 calificaciones en MercadoLibre Argentina.',
+      description: 'Cafetera express digital Liliana AC985 2 en 1: espresso con café molido o cápsulas tipo Nespresso, bomba de 20 bares, 1.200 W, tanque de 1,5 litros y vaporizador para espumar leche. 4.7 estrellas con {{reviews:MLA62547964}} calificaciones en MercadoLibre Argentina.',
       sku: 'AC985',
       mpn: 'AC985',
       brand: { '@type': 'Brand', name: 'Liliana' },
@@ -48702,7 +48703,7 @@ A $174.521 con 4.7 estrellas, es la flexibilidad hecha cafetera — siempre que 
         '@type': 'Offer',
         url: 'https://meli.la/2t3mqay',
         priceCurrency: 'ARS',
-        price: 174521.1,
+        price: 236073,
         availability: 'https://schema.org/InStock',
         itemCondition: 'https://schema.org/NewCondition',
         seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
@@ -48710,7 +48711,7 @@ A $174.521 con 4.7 estrellas, es la flexibilidad hecha cafetera — siempre que 
       aggregateRating: {
         '@type': 'AggregateRating',
         ratingValue: '4.7',
-        reviewCount: '49',
+        reviewCount: '71',
       },
     },
     relatedProducts: ['MLA18562154', 'MLA36409137', 'MLA70273936'],
@@ -48718,12 +48719,12 @@ A $174.521 con 4.7 estrellas, es la flexibilidad hecha cafetera — siempre que 
   {
     id: 'MLA18562154',
     title: 'Cafetera express Smartlife SL-EC8501 20 bares con espumador',
-    price: 233910,
+    price: 247500,
     originalPrice: undefined,
-    priceUpdated: "2026-08-21",
-    priceLastChecked: "2026-08-24",
-    priceStatus: "out_of_stock",
-    priceVerifiedAt: "2026-08-24",
+    priceUpdated: "2026-08-31",
+    priceLastChecked: "2026-08-31",
+    priceStatus: "fresh",
+    priceVerifiedAt: "2026-08-31",
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_678748-MLA99465933306_112025-F.jpg',
     images: [
@@ -48740,15 +48741,15 @@ A $174.521 con 4.7 estrellas, es la flexibilidad hecha cafetera — siempre que 
     freeShipping: true,
     brand: 'Smartlife',
     rating: 4.6,
-    reviewCount: 1730,
+    reviewCount: 1795,
     badge: 'bestseller',
     pastelColor: 'var(--pastel-coral)',
-    description: 'Cafetera express Smartlife SL-EC8501: la espresso económica más probada del catálogo, con {{reviews:MLA18562154}} calificaciones y 4.6 estrellas. Bomba de 20 bares, espumador de leche a vapor, calentador de tazas y un as bajo la manga: trae dos portafiltros, uno para café molido y otro para cápsulas compatibles Nespresso. Espresso real por menos de $200.000.',
+    description: 'Cafetera express Smartlife SL-EC8501: la espresso económica más probada del catálogo, con {{reviews:MLA18562154}} calificaciones y 4.6 estrellas. Bomba de 20 bares, espumador de leche a vapor, calentador de tazas y un as bajo la manga: trae dos portafiltros, uno para café molido y otro para cápsulas compatibles Nespresso. Espresso real por menos de $250.000.',
     aiReviewSummary: 'Relación precio-calidad excelente: 20 bares, espuma fácil y la flexibilidad de usar café molido o cápsulas Nespresso. Lo más elogiado: que por este precio "tiene todo". Las advertencias del panorama: el manual es malo (hay que mirar un tutorial), trae un tapón de silicona escondido en el depósito que hay que sacar antes de usarla, y los primeros cafés salen flojos hasta purgarla y agarrarle la mano.',
     seoTitle: 'Cafetera Smartlife SL-EC8501: 20 bares, ¿la mejor barata?',
     metaDescription: 'La express económica más vendida: 20 bares, espumador y acepta cápsulas Nespresso. 4.6★ en {{reviews:MLA18562154}} opiniones. El truco del tapón escondido que tenés que saber.',
-    ogTitle: 'Smartlife SL-EC8501: espresso de 20 bares por menos de $200K (y un secreto en el depósito)',
-    ogDescription: '1.656 compradores la puntuaron 4.6★. Hace espresso con café molido O cápsulas Nespresso. Pero estrenala leyendo esto: hay un tapón que nadie encuentra.',
+    ogTitle: 'Smartlife SL-EC8501: espresso de 20 bares por menos de $250K (y un secreto en el depósito)',
+    ogDescription: 'Casi 1.800 compradores la puntuaron 4.6★. Hace espresso con café molido O cápsulas Nespresso. Pero estrenala leyendo esto: hay un tapón que nadie encuentra.',
     h1: 'Cafetera express Smartlife SL-EC8501: la espresso de 20 bares más vendida de la gama económica',
     pros: [
       '4.6⭐ con {{reviews:MLA18562154}} calificaciones: la express económica más probada del catálogo',
@@ -48765,10 +48766,10 @@ A $174.521 con 4.7 estrellas, es la flexibilidad hecha cafetera — siempre que 
       'A largo plazo el espumador puede perder fuerza (lo reporta una review tras 4 meses de uso intensivo)',
       'La calidad percibida de los materiales es más sencilla de lo que muestran las fotos',
     ],
-    verdict: 'La mejor puerta de entrada al espresso real por menos de $200.000: 20 bares, espuma fácil y cápsulas Nespresso como plan B. Exige 10 minutos de paciencia inicial (tutorial + tapón + purga) que el manual no te facilita.',
+    verdict: 'La mejor puerta de entrada al espresso real por menos de $250.000: 20 bares, espuma fácil y cápsulas Nespresso como plan B. Exige 10 minutos de paciencia inicial (tutorial + tapón + purga) que el manual no te facilita.',
     articleBody: `## La express económica más vendida del catálogo
 
-La Smartlife SL-EC8501 cuesta $194.111 y acumula {{reviews:MLA18562154}} calificaciones con 4.6 estrellas — ninguna otra cafetera espresso de la gama económica del catálogo fue probada por tanta gente. La receta de su éxito: bomba de 20 bares (más presión que máquinas del doble de precio), espumador a vapor, calentador de tazas y un diferencial que casi nadie ofrece a este precio: acepta café molido y también cápsulas compatibles Nespresso.
+La Smartlife SL-EC8501 cuesta {{precio:MLA18562154}} y acumula {{reviews:MLA18562154}} calificaciones con 4.6 estrellas — ninguna otra cafetera espresso de la gama económica del catálogo fue probada por tanta gente. La receta de su éxito: bomba de 20 bares (más presión que máquinas del doble de precio), espumador a vapor, calentador de tazas y un diferencial que casi nadie ofrece a este precio: acepta café molido y también cápsulas compatibles Nespresso.
 
 "Smartlife cafetera" es una búsqueda con nombre propio en Google Argentina, y este modelo es el motivo.
 
@@ -48788,7 +48789,7 @@ Segunda advertencia de estreno: los primeros cafés salen flojos. Es normal — 
 
 El espumador a vapor se maneja con una perilla lateral que elige entre vapor y agua caliente. El veredicto del panorama: "espumar la leche es facilísimo". Los trucos que suman las reviews: entibiar la leche unos segundos en el microondas antes (espuma más rápido), y dejar correr el chorrito de agua inicial en otro vaso antes de meter la jarra.
 
-El matiz honesto: una review con 4 meses de uso intensivo diario reporta que su espumador perdió fuerza con el tiempo. Es un caso entre 1.656, pero existe y lo contamos.
+El matiz honesto: una review con 4 meses de uso intensivo diario reporta que su espumador perdió fuerza con el tiempo. Es un caso entre {{reviews:MLA18562154}}, pero existe y lo contamos.
 
 ## Lo que dicen las {{reviews:MLA18562154}} calificaciones
 
@@ -48798,15 +48799,15 @@ Las críticas reales, además del estreno complicado: la calidad de materiales "
 
 ## Contra las otras express del catálogo
 
-Por menos plata, la [Ultracomb CE-6108](/producto/cafetera-express-ultracomb-ce-6108-15-bar-roja-mla36409137) ($133.999) hace espresso de 15 bares con 211 reviews — pero sin la doble opción de cápsulas. Por un poco más, la [Liliana 2 en 1 de 20 bar](/producto/cafetera-express-liliana-ac985-digital-2-en-1-de-20-bar-mla62547964) ($174.521) compite directo. El salto de marca es la [Oster BVSTEM5501B](/producto/cafetera-espresso-oster-bvstem5501b-negra-mla23909880) ($289.999): mejor espumador con depósito de leche y respaldo Oster, al precio de resignar las cápsulas.
+Por menos plata, la [Ultracomb CE-6108](/producto/cafetera-express-ultracomb-ce-6108-15-bar-roja-mla36409137) ($133.999) hace espresso de 15 bares con 211 reviews — pero sin la doble opción de cápsulas. Un escalón arriba, la [Liliana 2 en 1 de 20 bar](/producto/cafetera-express-liliana-ac985-digital-2-en-1-de-20-bar-mla62547964) ({{precio:MLA62547964}}) compite directo. El salto de marca es la [Oster BVSTEM5501B](/producto/cafetera-espresso-oster-bvstem5501b-negra-mla23909880): mejor espumador con depósito de leche y respaldo Oster, al precio de resignar las cápsulas.
 
 Y si en realidad querés cápsulas sin ritual, la [Dolce Gusto Piccolo XS](/producto/cafetera-de-capsulas-moulinex-dolce-gusto-piccolo-xs-mla15705813) ($155.132) — la más vendida del catálogo — resuelve por menos, aunque con otro sistema de cápsulas y sin espresso de café molido.
 
 ## ¿Para quién es la SL-EC8501 (y para quién no)?
 
-Es para vos si: querés espresso real y espuma de leche por menos de $200.000, te gusta la idea de alternar molido y cápsulas Nespresso, y estás dispuesto a invertir 10 minutos en un tutorial el primer día. No es para vos si: querés desempacar y que todo ande sin leer nada (mirá la Piccolo XS), o buscás calidad de cafetería para uso intensivo (ahí el salto es Oster o Peabody).
+Es para vos si: querés espresso real y espuma de leche por menos de $250.000, te gusta la idea de alternar molido y cápsulas Nespresso, y estás dispuesto a invertir 10 minutos en un tutorial el primer día. No es para vos si: querés desempacar y que todo ande sin leer nada (mirá la Piccolo XS), o buscás calidad de cafetería para uso intensivo (ahí el salto es Oster o Peabody).
 
-A $194.111 con 4.6 estrellas y 1.656 votos, es la definición de comprar bien en la gama económica: sus defectos están documentados, son evitables, y lo que da por ese precio no lo da nadie.`,
+A {{precio:MLA18562154}} con 4.6 estrellas y {{reviews:MLA18562154}} votos, es la definición de comprar bien en la gama económica: sus defectos están documentados, son evitables, y lo que da por ese precio no lo da nadie.`,
     specs: [
       { label: 'Marca', value: 'Smartlife' },
       { label: 'Modelo', value: 'SL-EC8501' },
@@ -48836,7 +48837,7 @@ A $194.111 con 4.6 estrellas y 1.656 votos, es la definición de comprar bien en
       { question: '¿Cómo sé cuándo está lista para tirar el café?', answer: 'La luz titila mientras calienta; cuando queda fija, está lista. Aplica igual para el café y para el vapor del espumador. Es el tip operativo más repetido de las reviews.' },
       { question: '¿Espuma bien la leche?', answer: 'Sí, es de lo más elogiado: "espumar la leche es facilísimo". Trucos del panorama: entibiar la leche antes en el microondas y dejar correr el primer chorrito de agua del vaporizador en otro vaso. Una sola review (uso intensivo, 4 meses) reporta que el espumador perdió fuerza con el tiempo.' },
       { question: '¿Sale caliente el café?', answer: 'Sí, y para mejorarlo la máquina tiene calentador de tazas arriba. El tip de las reviews: precalentar la taza con el agua caliente de la propia máquina antes de extraer.' },
-      { question: '¿Conviene esta o la Oster BVSTEM5501B?', answer: 'La Smartlife da 20 bares + cápsulas Nespresso por $194.111; la Oster da mejor espumador (con depósito de leche), marca y terminación por $289.999, sin opción de cápsulas. Para entrar al espresso con flexibilidad, la Smartlife; para capuchinos diarios con menos maniobra, la Oster.' },
+      { question: '¿Conviene esta o la Oster BVSTEM5501B?', answer: 'La Smartlife da 20 bares + cápsulas Nespresso por {{precio:MLA18562154}}; la Oster da mejor espumador (con depósito de leche), marca y terminación por $289.999, sin opción de cápsulas. Para entrar al espresso con flexibilidad, la Smartlife; para capuchinos diarios con menos maniobra, la Oster.' },
     ],
     customerReviews: [
       { rating: 5, country: 'Argentina', date: 'febrero 2022', useful: 313, text: 'La compré para mi madre y no le tenía fe. Me sorprendió para bien. Es sencilla pero tiene todo. El tanque de agua se puede desmontar para cargarlo más fácil. Solo tiene tres botones: encendido, café y espumadera. La espumadera se puede seleccionar con una rueda lateral para vapor o agua caliente. Viene con dos mangos portafiltro: uno para el café espresso y el otro para cápsulas.' },
@@ -48854,7 +48855,7 @@ A $194.111 con 4.6 estrellas y 1.656 votos, es la definición de comprar bien en
       '@type': 'Product',
       name: 'Cafetera express Smartlife SL-EC8501 20 bares',
       image: 'https://http2.mlstatic.com/D_NQ_NP_678748-MLA99465933306_112025-F.jpg',
-      description: 'Cafetera express Smartlife SL-EC8501: bomba de 20 bares, espumador a vapor, calentador de tazas, caldera de acero inoxidable y dos portafiltros (café molido y cápsulas compatibles Nespresso). 4.6 estrellas con 1.656 calificaciones en MercadoLibre Argentina.',
+      description: 'Cafetera express Smartlife SL-EC8501: bomba de 20 bares, espumador a vapor, calentador de tazas, caldera de acero inoxidable y dos portafiltros (café molido y cápsulas compatibles Nespresso). 4.6 estrellas con {{reviews:MLA18562154}} calificaciones en MercadoLibre Argentina.',
       sku: 'SL-EC8501',
       mpn: 'SL-EC8501',
       brand: { '@type': 'Brand', name: 'Smartlife' },
@@ -48862,7 +48863,7 @@ A $194.111 con 4.6 estrellas y 1.656 votos, es la definición de comprar bien en
         '@type': 'Offer',
         url: 'https://meli.la/1QMpWAw',
         priceCurrency: 'ARS',
-        price: 194111,
+        price: 247500,
         availability: 'https://schema.org/InStock',
         itemCondition: 'https://schema.org/NewCondition',
         seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
@@ -48870,7 +48871,7 @@ A $194.111 con 4.6 estrellas y 1.656 votos, es la definición de comprar bien en
       aggregateRating: {
         '@type': 'AggregateRating',
         ratingValue: '4.6',
-        reviewCount: '1656',
+        reviewCount: '1795',
       },
     },
     relatedProducts: ['MLA36409137', 'MLA62547964', 'MLA23909880', 'MLA15705813'],
@@ -48925,7 +48926,7 @@ La Prosteam AC987 es la cafetera express digital de la línea actual de Liliana:
 
 ## Lo primero: honestidad sobre las reviews
 
-Esta publicación no tiene calificaciones de compradores todavía. No podemos contarte si el café sale caliente, si el táctil responde bien ni cuánto dura, porque nadie lo contó aún. Lo que sí existe: la reputación de Liliana, marca argentina con décadas en electrodomésticos y servicio técnico local, y el historial de la generación anterior de esta misma línea — la AC985 2 en 1 acumula 4.7 estrellas con 49 calificaciones. Es un respaldo indirecto, no una garantía de este modelo.
+Esta publicación no tiene calificaciones de compradores todavía. No podemos contarte si el café sale caliente, si el táctil responde bien ni cuánto dura, porque nadie lo contó aún. Lo que sí existe: la reputación de Liliana, marca argentina con décadas en electrodomésticos y servicio técnico local, y el historial de la generación anterior de esta misma línea — la AC985 2 en 1 acumula 4.7 estrellas con {{reviews:MLA62547964}} calificaciones. Es un respaldo indirecto, no una garantía de este modelo.
 
 ## 5 funciones programadas: apretás y la máquina corta sola
 
@@ -48951,7 +48952,7 @@ Un detalle de la ficha de ML que conviene interpretar: los atributos dicen "capa
 
 Dentro de la misma línea nueva, la [Liliana Latesense AC991](/producto/cafetera-express-liliana-latesense-ac991-con-latte-automatico-mla70275635) ($272.544) es el paso siguiente: suma depósito de leche de 700 mL y prepara capuchino y latte automáticos con un toque, a cambio de un tanque más chico (1 litro) y $50.000 más.
 
-Hacia abajo, la [Liliana express 2 en 1](/producto/cafetera-express-liliana-ac985-digital-2-en-1-de-20-bar-mla62547964) ($174.521) es la generación anterior: 20 bares, 1.200 W y la flexibilidad de aceptar cápsulas tipo Nespresso además de molido — con 49 calificaciones y 4.7 estrellas que la Prosteam todavía no puede mostrar. Si la falta de reviews te frena, la 2 en 1 es la opción probada de la marca.
+Hacia abajo, la [Liliana express 2 en 1](/producto/cafetera-express-liliana-ac985-digital-2-en-1-de-20-bar-mla62547964) ({{precio:MLA62547964}}) es la generación anterior: 20 bares, 1.200 W y la flexibilidad de aceptar cápsulas tipo Nespresso además de molido — con {{reviews:MLA62547964}} calificaciones y 4.7 estrellas que la Prosteam todavía no puede mostrar. Si la falta de reviews te frena, la 2 en 1 es la opción probada de la marca.
 
 ## ¿Para quién es la Prosteam AC987 (y para quién no)?
 
@@ -48980,7 +48981,7 @@ A $222.995, pagás specs de gama media-alta y línea nueva. El primer lote de re
       { label: 'Voltaje', value: '220 V' },
     ],
     faq: [
-      { question: '¿La Liliana Prosteam AC987 tiene opiniones de compradores?', answer: 'Todavía no: es una publicación reciente de la línea nueva de Liliana y no tiene calificaciones. Lo decimos sin vueltas porque preferimos eso a inventar opiniones. Lo que sí hay es el historial de la marca y de la generación anterior (la AC985 2 en 1, con 4.7 estrellas en 49 calificaciones) como referencia indirecta.' },
+      { question: '¿La Liliana Prosteam AC987 tiene opiniones de compradores?', answer: 'Todavía no: es una publicación reciente de la línea nueva de Liliana y no tiene calificaciones. Lo decimos sin vueltas porque preferimos eso a inventar opiniones. Lo que sí hay es el historial de la marca y de la generación anterior (la AC985 2 en 1, con 4.7 estrellas en {{reviews:MLA62547964}} calificaciones) como referencia indirecta.' },
       { question: '¿Corta sola la extracción o hay que frenarla a mano?', answer: 'Las funciones de café están programadas: elegís americano, espresso frío o espresso de 1 o 2 tazas en el panel digital, y la máquina dosifica y corta sola. Es el diferencial frente a las express semiautomáticas clásicas de su rango, donde el corte a ojo es el reclamo más común.' },
       { question: '¿Qué es la función de espresso frío?', answer: 'Una extracción pensada para preparar café destinado a bebidas frías, directamente desde el panel. Casi ninguna express del catálogo la trae de fábrica: lo habitual es extraer espresso caliente y enfriarlo con hielo, aguándolo. Para los meses de calor es una función con más uso real del que parece.' },
       { question: '¿Acepta cápsulas?', answer: 'No: la Prosteam AC987 trabaja exclusivamente con café molido, con multifiltros de acero inoxidable para 1 o 2 tazas. Si querés la flexibilidad de cápsulas tipo Nespresso además del molido, la opción dentro de la marca es la Liliana express 2 en 1 (AC985), que además cuesta unos $48.000 menos.' },
@@ -48988,7 +48989,7 @@ A $222.995, pagás specs de gama media-alta y línea nueva. El primer lote de re
       { question: '¿Para qué sirve el calentador de tazas?', answer: 'Es la superficie superior de la máquina que precalienta las tazas antes de extraer. El espresso pierde temperatura rapidísimo al tocar porcelana fría, y el café tibio es la queja número uno en toda la categoría de cafeteras. Que venga de fábrica es un punto a favor concreto de este modelo.' },
       { question: '¿Cuántos cafés rinde el tanque?', answer: 'El tanque desmontable de 1,5 litros rinde unos 15 pocillos según Liliana. El atributo de ML que dice "capacidad de tazas: 2" se refiere a otra cosa: la doble boquilla permite extraer hasta 2 espressos simultáneos. Cargás agua una vez y tenés espresso para varios días.' },
       { question: '¿Es industria argentina?', answer: 'Sí: la ficha oficial declara origen Argentina, algo poco común en la categoría (la mayoría de las express del mercado son de fabricación china, incluso las de marcas locales). Suma el respaldo de Liliana, marca argentina con servicio técnico local y garantía de fábrica.' },
-      { question: '¿Conviene esta o la Liliana 2 en 1 que es más barata?', answer: 'La 2 en 1 (AC985, $174.521) tiene a favor las 49 calificaciones con 4.7 estrellas y el comodín de las cápsulas tipo Nespresso. La Prosteam ($222.995) suma potencia (1.350 W contra 1.200), funciones programadas con corte automático, espresso frío y calentador de tazas, pero sin reviews todavía. Probada y flexible contra nueva y más completa: esa es la decisión.' },
+      { question: '¿Conviene esta o la Liliana 2 en 1 que es más barata?', answer: 'La 2 en 1 (AC985, {{precio:MLA62547964}}) tiene a favor las {{reviews:MLA62547964}} calificaciones con 4.7 estrellas y el comodín de las cápsulas tipo Nespresso. La Prosteam ($222.995) suma potencia (1.350 W contra 1.200), funciones programadas con corte automático, espresso frío y calentador de tazas, pero sin reviews todavía. Probada y flexible contra nueva y más completa: esa es la decisión.' },
     ],
     structuredData: {
       '@context': 'https://schema.org',
@@ -49063,7 +49064,7 @@ La Latesense AC991 es la express digital más completa de Liliana: cuesta $272.5
 
 ## Sin reviews todavía: qué significa para tu decisión
 
-Esta publicación no tiene calificaciones de compradores. No hay experiencia ajena que te cuente si la espuma sale cremosa, si el sistema de leche se tapa o cuánto dura. Lo que existe como referencia: Liliana es una marca argentina con décadas de trayectoria y servicio técnico local, y su express anterior — la AC985 2 en 1 — acumula 4.7 estrellas en 49 calificaciones. Eso habla bien de la marca, no de este modelo puntual. Con esa carta sobre la mesa, vamos a lo que las especificaciones sí dicen.
+Esta publicación no tiene calificaciones de compradores. No hay experiencia ajena que te cuente si la espuma sale cremosa, si el sistema de leche se tapa o cuánto dura. Lo que existe como referencia: Liliana es una marca argentina con décadas de trayectoria y servicio técnico local, y su express anterior — la AC985 2 en 1 — acumula 4.7 estrellas en {{reviews:MLA62547964}} calificaciones. Eso habla bien de la marca, no de este modelo puntual. Con esa carta sobre la mesa, vamos a lo que las especificaciones sí dicen.
 
 ## Latte y capuchino con un botón: el diferencial real
 
@@ -49116,7 +49117,7 @@ A $272.544, es una apuesta razonada: pagás la automatización de la leche y con
       { label: 'Origen', value: 'Argentina' },
     ],
     faq: [
-      { question: '¿La Liliana Latesense AC991 tiene opiniones de compradores?', answer: 'Todavía no: es una publicación reciente y no tiene calificaciones. Preferimos decirlo claro antes que inventar opiniones. Como referencia indirecta está la trayectoria de Liliana en Argentina y el 4.7 con 49 calificaciones de su express anterior, la AC985 — pero de este modelo puntual aún no hay experiencia publicada.' },
+      { question: '¿La Liliana Latesense AC991 tiene opiniones de compradores?', answer: 'Todavía no: es una publicación reciente y no tiene calificaciones. Preferimos decirlo claro antes que inventar opiniones. Como referencia indirecta está la trayectoria de Liliana en Argentina y el 4.7 con {{reviews:MLA62547964}} calificaciones de su express anterior, la AC985 — pero de este modelo puntual aún no hay experiencia publicada.' },
       { question: '¿Cómo funciona el capuchino automático?', answer: 'Cargás leche en el depósito integrado de 700 mL, elegís capuchino o latte en el panel (simple o doble) y la máquina hace todo: extrae el espresso y agrega la leche espumada en la proporción correspondiente. No hay jarra, vaporizador a pulso ni técnica que aprender — esa es exactamente la diferencia con las express comunes.' },
       { question: '¿Qué diferencia hay entre la Latesense y la Prosteam AC987?', answer: 'La Latesense ($272.544) automatiza la leche: depósito de 700 mL y capuchino o latte con un botón, con tanque de agua de 1 litro. La Prosteam ($222.995) no tiene sistema de leche automático pero suma tanque de 1,5 litros y función de espresso frío. Si tu bebida diaria lleva leche, Latesense; si es espresso o americano, Prosteam.' },
       { question: '¿Cuántos cafés rinde el tanque de agua?', answer: 'El tanque es de 1 litro, unos 10 pocillos según el fabricante — el más chico de la línea express de Liliana, porque el espacio interno se reparte con el depósito de leche de 700 mL. El atributo de ML "capacidad de tazas: 2" se refiere a los 2 cafés simultáneos de la doble boquilla, no a la capacidad total.' },
@@ -49228,7 +49229,7 @@ Las críticas honestas: el corte manual sorprende al que no leyó la letra chica
 
 Contra la [Nespresso Inissia](/producto/cafetera-de-capsulas-nespresso-inissia-crema-mla23385666) ($350.000): sistemas distintos. Nespresso hace mejor espresso puro; Dolce Gusto gana en variedad (chocolate, té, bebidas con leche) y la Piccolo cuesta menos de la mitad. Contra la [Smartlife 3 en 1](/producto/cafetera-smartlife-3-en-1-capsulas-nespresso-dolce-gusto-y-cafe-molido-mla28314113) ($528.131): la Smartlife acepta cápsulas Dolce Gusto, Nespresso y café molido — flexibilidad total, a más del triple de precio.
 
-Y si lo tuyo es el café molido de verdad, una express económica como la [Smartlife SL-EC8501](/producto/cafetera-express-smartlife-sl-ec8501-20-bares-con-espumador-mla18562154) ($194.111) o la [Ultracomb CE-6108](/producto/cafetera-express-ultracomb-ce-6108-15-bar-roja-mla36409137) ($133.999) te da espresso con espumador por plata parecida — a cambio de moler, cargar y limpiar.
+Y si lo tuyo es el café molido de verdad, una express económica como la [Smartlife SL-EC8501](/producto/cafetera-express-smartlife-sl-ec8501-20-bares-con-espumador-mla18562154) ({{precio:MLA18562154}}) o la [Ultracomb CE-6108](/producto/cafetera-express-ultracomb-ce-6108-15-bar-roja-mla36409137) ($133.999) te da espresso con espumador por plata parecida — a cambio de moler, cargar y limpiar.
 
 ## ¿Para quién es la Piccolo XS (y para quién no)?
 
@@ -49520,7 +49521,7 @@ Las críticas reales no son a la máquina sino al sistema: el costo de la cápsu
 
 La Essenza Mini es la entrada. Si querés **espuma de leche real**, la [Citiz & Milk](/producto/cafetera-nespresso-citiz-milk-platinum-con-espumador-mla29654829) ($368.699) viene con espumador Aeroccino aparte y cuerpo de acero — para capuchino y latte. Si querés todo de un toque (la leche integrada en la máquina), la [Lattissima One](/producto/cafetera-nespresso-lattissima-one-blanca-con-leche-integrada-mla23437114) ($515.880) hace cappuccino one-touch, aunque cuesta más del doble. Y la [Nespresso Inissia](/producto/cafetera-de-capsulas-nespresso-inissia-crema-mla23385666) ($350.000) es la otra de entrada del catálogo, pero sin calificaciones en su publicación todavía — la Essenza Mini gana por respaldo de opiniones y precio.
 
-Si tu prioridad es bajar el costo de la cápsula, una híbrida que acepta cápsulas Nespresso compatibles como la [Smartlife SL-EC8501](/producto/cafetera-express-smartlife-sl-ec8501-20-bares-con-espumador-mla18562154) ($209.999) te deja alternar molido y cápsula — a cambio de algo más de ritual.
+Si tu prioridad es bajar el costo de la cápsula, una híbrida que acepta cápsulas Nespresso compatibles como la [Smartlife SL-EC8501](/producto/cafetera-express-smartlife-sl-ec8501-20-bares-con-espumador-mla18562154) ({{precio:MLA18562154}}) te deja alternar molido y cápsula — a cambio de algo más de ritual.
 
 ## ¿Para quién es la Essenza Mini (y para quién no)?
 
@@ -49962,7 +49963,7 @@ Las críticas existen y ya las contamos: curva de aprendizaje, portafiltros de c
 
 Si solo querés cápsulas y gastar menos, la [Dolce Gusto Piccolo XS](/producto/cafetera-de-capsulas-moulinex-dolce-gusto-piccolo-xs-mla15705813) ($155.132) resuelve por menos de un tercio del precio — pero solo con cápsulas Dolce Gusto y sin espumador. La [Nespresso Inissia](/producto/cafetera-de-capsulas-nespresso-inissia-crema-mla23385666) ($350.000) es el ícono del espresso en cápsula, pero también te ata a un solo sistema y tampoco espuma leche.
 
-Y si lo tuyo es solo café molido, la [Smartlife SL-EC8501](/producto/cafetera-express-smartlife-sl-ec8501-20-bares-con-espumador-mla18562154) ($194.111) de la misma marca hace espresso por mucho menos, resignando las cápsulas. El valor de la 3 en 1 está justamente en no resignar nada.
+Y si lo tuyo es solo café molido, la [Smartlife SL-EC8501](/producto/cafetera-express-smartlife-sl-ec8501-20-bares-con-espumador-mla18562154) ({{precio:MLA18562154}}) de la misma marca hace espresso por mucho menos, resignando las cápsulas. El valor de la 3 en 1 está justamente en no resignar nada.
 
 ## ¿Para quién es la Smartlife 3 en 1 (y para quién no)?
 
@@ -50118,11 +50119,11 @@ El mantenimiento que sugiere el panorama de opiniones: agua de filtro para evita
 
 El salto natural dentro de Oster es la [Perfect Brew EM7301](/producto/cafetera-espresso-oster-perfect-brew-em7301-con-molinillo-mla48828162) ($838.899): molinillo integrado, corte automático y 4.9 estrellas — pero cuesta casi el triple. En el medio está la [Peabody PE-CE5010N](/producto/cafetera-express-peabody-pe-ce5010n-19-bar-con-molinillo-mla47077888) ($520.336), que agrega molinillo por menos plata que la Oster grande.
 
-Hacia abajo, la [Smartlife SL-EC8501](/producto/cafetera-express-smartlife-sl-ec8501-20-bares-con-espumador-mla18562154) ($194.111) y la [Ultracomb CE-6108](/producto/cafetera-express-ultracomb-ce-6108-15-bar-roja-mla36409137) ($133.999) hacen espresso de 15-20 bares por menos, con más de mil reviews entre las dos — a cambio de resignar la marca y el espumador con depósito. Y si lo que buscás es cero ritual, la [Dolce Gusto Piccolo XS](/producto/cafetera-de-capsulas-moulinex-dolce-gusto-piccolo-xs-mla15705813) ($155.132) resuelve con cápsulas.
+Hacia abajo, la [Smartlife SL-EC8501](/producto/cafetera-express-smartlife-sl-ec8501-20-bares-con-espumador-mla18562154) ({{precio:MLA18562154}}) y la [Ultracomb CE-6108](/producto/cafetera-express-ultracomb-ce-6108-15-bar-roja-mla36409137) ($133.999) hacen espresso de 15-20 bares por menos, con más de mil reviews entre las dos — a cambio de resignar la marca y el espumador con depósito. Y si lo que buscás es cero ritual, la [Dolce Gusto Piccolo XS](/producto/cafetera-de-capsulas-moulinex-dolce-gusto-piccolo-xs-mla15705813) ($155.132) resuelve con cápsulas.
 
 ## ¿Para quién es la Oster 5501 (y para quién no)?
 
-Es para vos si: querés tu primera espresso "seria" con respaldo de marca, tomás capuchinos o lattes (el espumador acá vale oro) y no te molesta cortar la extracción a mano. No es para vos si: querés molinillo integrado y automatización (Perfect Brew o Peabody con molinillo), o si tu presupuesto está en los $130-200K, donde Smartlife y Ultracomb dan espresso digno sin la marca.
+Es para vos si: querés tu primera espresso "seria" con respaldo de marca, tomás capuchinos o lattes (el espumador acá vale oro) y no te molesta cortar la extracción a mano. No es para vos si: querés molinillo integrado y automatización (Perfect Brew o Peabody con molinillo), o si tu presupuesto está en los $130-200K, donde la Ultracomb da espresso digno sin la marca.
 
 A $289.999 con 4.7 estrellas, es el punto medio exacto del catálogo: más seria que las económicas, mucho más accesible que los tope de gama.`,
     specs: [
@@ -55015,7 +55016,7 @@ Comprá el BGH BP35WCEW si valorás la garantía y el service de una marca recon
     priceLastChecked: "2026-08-28",
     priceStatus: "fresh",
     reviewsSampledAt: "2026-07-05",
-    description: "Aire acondicionado portátil Surrey Smart Wi-Fi: frío/calor 3.010 kcal/h con control por app. El único con Wi-Fi de esta comparativa. Contra honesta: la base de opiniones todavía es chica (49) y el kit de ventana es, según una reseña, incómodo de instalar.",
+    description: "Aire acondicionado portátil Surrey Smart Wi-Fi: frío/calor 3.010 kcal/h con control por app. El único con Wi-Fi de esta comparativa. Contra honesta: la base de opiniones todavía es chica ({{reviews:MLA54689994}}) y el kit de ventana es, según una reseña, incómodo de instalar.",
     seoTitle: "Aire Acondicionado Surrey Smart Wi-Fi: ¿vale la pena?",
     metaDescription: "Aire acondicionado portátil Surrey Smart Wi-Fi: frío/calor con control por app. Precio real, pros, contras y para quién conviene.",
     verdict: "El Surrey Smart Wi-Fi sirve si querés controlar el equipo por app (prenderlo antes de llegar a casa, programarlo) y no te importa que sea una marca con menos historial de opiniones. No sirve si preferís la mayor base de reseñas posible antes de comprar: tiene bastantes menos calificaciones que el Philco o el BGH de esta guía.",
@@ -55026,7 +55027,7 @@ Comprá el BGH BP35WCEW si valorás la garantía y el service de una marca recon
       "Control remoto físico incluido además del control por app",
     ],
     cons: [
-      "Base de opiniones bastante más chica (49) que el Philco o el BGH de esta guía",
+      "Base de opiniones bastante más chica ({{reviews:MLA54689994}}) que el Philco o el BGH de esta guía",
       "El kit de instalación en la ventana resulta incómodo según una reseña ('un garrón la parte del tubo')",
       "Es más caro que las otras dos opciones de esta guía",
       "Al ser una marca con menos historial en el sitio, conviene confirmar el service disponible antes de comprar",
@@ -55050,7 +55051,7 @@ Comprá el Surrey Smart Wi-Fi si el control por app te resulta un plus real (pro
       { question: "¿Cómo funciona el control por Wi-Fi del Surrey Smart?", answer: "Se maneja desde una app en el celular, además del control remoto físico que incluye. Podés prenderlo o programarlo a distancia, algo que el Philco y el BGH de esta guía no ofrecen." },
       { question: "¿Es difícil de instalar?", answer: "La instalación general es como la de cualquier portátil (manguera por la ventana), pero una reseña puntual marca que el kit de fijación en la ventana resulta incómodo de ajustar." },
       { question: "¿Sirve para calefaccionar en invierno?", answer: "Sí, es frío/calor con 3,5 kW de potencia de calefacción, y las reseñas confirman que lo usan todo el año." },
-      { question: "¿Por qué tiene menos calificaciones que otras marcas?", answer: "Es un producto más nuevo en el catálogo dentro de esta categoría, así que su base de opiniones (49) todavía es chica comparada con marcas más establecidas como Philco o BGH. Eso no significa que sea peor, pero conviene saberlo antes de comprar." },
+      { question: "¿Por qué tiene menos calificaciones que otras marcas?", answer: "Es un producto más nuevo en el catálogo dentro de esta categoría, así que su base de opiniones ({{reviews:MLA54689994}}) todavía es chica comparada con marcas más establecidas como Philco o BGH. Eso no significa que sea peor, pero conviene saberlo antes de comprar." },
     ],
   },
 
