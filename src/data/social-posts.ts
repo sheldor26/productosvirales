@@ -899,4 +899,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "42",
     postedAt: "2026-08-31T15:38:36-03:00",
   },
+  {
+    title: "Heladera Philco One Door con Dispenser 161L",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_716378-MLA99982933229_112025-O.webp",
+    affiliateUrl: "https://meli.la/2PcgbS1",
+    newPrice: "422.999",
+    oldPrice: "677.599",
+    offPct: "37",
+    postedAt: "2026-08-31T16:22:47-03:00",
+  },
 ];
