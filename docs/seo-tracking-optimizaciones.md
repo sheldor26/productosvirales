@@ -757,6 +757,10 @@ No es una optimización de ranking, es un test de conversión secuencial (antes/
 
 **Próxima medición agendada: ~2026-08-31 (≈4 semanas).** Criterio de éxito: que aparezcan clicks de afiliado sin que la sesión promedio se derrumbe (si cae mucho, sería señal de que se perdió el enganche, no solo la desconfianza). Si a las 4 semanas sigue en 0, la hipótesis de tono no alcanza y el problema es de intención de búsqueda/audiencia, no de redacción.
 
+### Momento de medir: 2026-08-31
+
+Este es el día agendado para comparar los resultados contra el baseline de arriba. Este agente en la nube no tiene credenciales de GSC/GA4 para traer los números automáticamente. **Pendiente: correr `scripts/gsc/gsc.py` y `scripts/ga4/ga4.py` manualmente (o pedírselo a Claude en una sesión local) y completar esta sección con impresiones/clicks/posición de GSC y vistas/sesión promedio/clicks de afiliado de GA4, comparados contra el baseline.**
+
 ---
 
 ## Candidatas del reporte semanal 2026-08-03: descartadas o resueltas sin guía nueva
