@@ -879,4 +879,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "19",
     postedAt: "2026-08-31T10:10:23-03:00",
   },
+  {
+    title: "Monitor Gamer X-Micro 34\" Curvo Ultrawide UWQHD 180Hz",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_950869-MLA115771886135_082026-O.webp",
+    affiliateUrl: "https://meli.la/1Qg81wG",
+    newPrice: "514.219",
+    oldPrice: "623.099",
+    offPct: "17",
+    postedAt: "2026-08-31T14:54:51-03:00",
+  },
 ];
