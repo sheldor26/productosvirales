@@ -16,6 +16,16 @@
 **Archivos involucrados:** `path/a/archivo.ts`
 -->
 
+## 2026-08-31 — Falsa alarma de "no indexada" por confiar en búsqueda web en vez de Search Console
+
+**Qué pasó:** una tarea programada me pidió chequear si `robot-aspiradora-samsung` quedó indexada tras el reindex manual del 29/8, usando búsqueda web (`site:...` y la frase exacta del título entre comillas) como método, con instrucción explícita de recurrir a `check_indexing.py` (API de GSC) si la búsqueda web no era concluyente. Ninguna de las dos búsquedas devolvió la URL, así que le mandé a Juan una push notification diciendo que la guía "seguía sin aparecer en búsquedas pese al reindex". Juan chequeó él mismo en Search Console (URL Inspection) y la página está indexada ("Page is indexed", con product snippets, merchant listings y breadcrumbs válidos) — la notificación fue una falsa alarma.
+
+**Por qué:** no tenía credenciales OAuth de GSC en ese checkout de nube, así que no pude correr `check_indexing.py` yo mismo y me quedé con el resultado de la búsqueda web como señal final. Pero una URL puede estar indexada por Google y aun así no aparecer en los primeros resultados de un `site:` o de una frase exacta puntual — la cobertura de esas dos consultas específicas es mucho más débil que el índice real, sobre todo en una guía con tráfico bajo (nicho angosto: solo 2 productos Samsung).
+
+**Cómo evitarlo:** cuando la única señal disponible es búsqueda web y no se puede correr la API real, la notificación a Juan debe decir explícitamente "no es concluyente, hace falta confirmar con Search Console" en vez de afirmar "sigue sin aparecer" — la ausencia en dos búsquedas puntuales no es evidencia de no-indexación, solo de no-posicionamiento en esas consultas. Para preguntas de indexación, la API/UI de Search Console es la única fuente confiable; la búsqueda web sirve para detectar un positivo (si aparece, seguro está indexada) pero no un negativo.
+
+**Archivos involucrados:** ninguno de código — el error fue en la redacción de la push notification de una rutina automática.
+
 ## 2026-08-29 — El superlativo de "todo el catálogo" volvió a colarse, esta vez en audio
 
 **Qué pasó:** en la guía nueva `barra-de-sonido-precio` (categoría "barras-de-sonido", silo audio) y en la ficha de la JBL SB180, escribí seis veces "la base de calificaciones más grande de **todo el catálogo de audio del sitio**" para sus 5.918 calificaciones. Es falso: varios productos de audio del sitio tienen bases mucho más grandes (el Xiaomi Redmi Buds 6 Play, 211.935; el Sony WH-CH520, 59.010; y otros cuatro más), así que la SB180 queda 9.ª del catálogo completo, no 1.ª. Lo marcó Codex en la primera pasada del trío auditor. Independientemente lo confirmé con un script en Python que ordenó todo `categorySlug: "audio"` por `reviewCount`.
