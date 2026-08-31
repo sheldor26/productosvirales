@@ -5,6 +5,66 @@
 > producto/modelo mencionado vale la pena chequear en MercadoLibre y
 > convertir en guía o ficha. Entradas nuevas arriba.
 
+## 2026-08-31
+
+### Perfumes árabes (15 posts únicos de 15 recibidos)
+
+- Siguenos si te gustan los perfumes árabes✨
+  - 251.000 likes · 30.300 shares · 77.900 guardados · 6.486 comentarios
+  - https://www.tiktok.com/@cairosperfumes/video/7666906316161486102
+- Sharing my thoughts on the best fragrances from Lattafa, Armaf, and Rasasi. These brands have some really nice Arabian scents. Anyone else t
+  - 92.700 likes · 3.249 shares · 24.800 guardados · 1.286 comentarios
+  - https://www.tiktok.com/@antinaturalparfums/video/7660645082080627988
+- Encontre sua fragrância árabe favorita. Tem várias opções masculinas incríveis para experimentar, cada uma com seu estilo único. #Lattafa #f
+  - 41.100 likes · 2.956 shares · 18.700 guardados · 313 comentarios
+  - https://www.tiktok.com/@fviguini/video/7635816994901609735
+- Isso aqui vale ouro 💫💫 anota pra não esquecer. ✍🏻 Compro todos meus árabes na @Mattioli Store Perfumes . . . . . . . #explorar #perfume #
+  - 33.700 likes · 2.565 shares · 19.700 guardados · 280 comentarios
+  - https://www.tiktok.com/@asarahnery/video/7592469669429218567
+- Versão importados X árabes #perfumes #importados #perfumesarabes #dicas #tiktokviral
+  - 15.200 likes · 2.086 shares · 9.709 guardados · 118 comentarios
+  - https://www.tiktok.com/@superfumes_/video/7663153490046307604
+- Proof that you don’t need a luxury budget to smell good🤍✨ Brands mentioned: @Auri Scents @Lattafa Perfumes @My Perfumes @Amaran Perfumes @R
+  - 15.300 likes · 602 shares · 10.800 guardados · 218 comentarios
+  - https://www.tiktok.com/@ayshaseyeview/video/7651685851373604117
+- (sin descripción)
+  - 9.267 likes · 7.613 shares · 989 guardados · 368 comentarios
+  - https://www.tiktok.com/@clasesdeguajirafr/video/7676158484236258591
+- These affordable Middle Eastern fragrances are compliment magnets. 🔥✨ If you want people asking, “What are you wearing?” without spending a
+  - 6.951 likes · 566 shares · 4.925 guardados · 116 comentarios
+  - https://www.tiktok.com/@scenttakes/video/7662752799263870222
+
+### Freidora de aire _(se cortó por el límite de tiempo del workflow — muestra parcial)_ (0 posts únicos de 0 recibidos)
+
+_Sin resultados esta semana._
+
+### Aspiradora robot (47 posts únicos de 144 recibidos)
+
+- Set up my personal house cleaner with me! 🫧 200 off until Feb 16! @Roborock #roborock #saros10 #robotvacuum #robotvacuumcleaner #roborockpa
+  - 1.800.000 likes · 429.800 shares · 358.100 guardados · 10.400 comentarios
+  - https://www.tiktok.com/@sam.shan.shops/video/7471045522086710534
+- Puse a prueba el mejor robot aspiradora, trapeadora y barredora #longervideos
+  - 1.400.000 likes · 47.300 shares · 129.600 guardados · 7.500 comentarios
+  - https://www.tiktok.com/@pongamoslo_a_prueba/video/7315555257986190597
+- robotic vacuum, robo vacuum, robot vacuum #robotcleaner #mopvaccum #robot #robotcleaner #robotvacuumcleaner #clean #room #usa_tiktok #tiktok
+  - 125.000 likes · 39.200 shares · 25.300 guardados · 1.029 comentarios
+  - https://www.tiktok.com/@eufynewborn/video/7494892101616831775
+- Robot vacuum cleaner #robot #robotvacuumcleaner #robotvaccuum #cleaner #fyp #foryou
+  - 136.100 likes · 37.900 shares · 11.300 guardados · 409 comentarios
+  - https://www.tiktok.com/@funnykitten01/video/7671621079017852173
+- They climb stairs now... 😳 @Dreame UK The Dreame X60 Pro Ultra Complete is certainly not your normal robot... 🤖 check it out through the l
+  - 95.600 likes · 35.600 shares · 21.300 guardados · 671 comentarios
+  - https://www.tiktok.com/@thejunglebadger/video/7668762108334525718
+- Pensavo fosse il solito robot. Poi ha pulito il battiscopa. 6ô Il Dreame X60 Pro Ultra Complete aspira, lava, si allunga negli angoli, passa
+  - 60.800 likes · 38.700 shares · 17.500 guardados · 431 comentarios
+  - https://www.tiktok.com/@incucinaconveronica_/video/7651593161550220566
+- Anzeige| Stufen? Kein Problem! 🪜😳 Der Link dazu ist auf meinem Profil oder direkt unter Smartprodukt.shop ✅🔗 #dreameaqua10ultra #staubsau
+  - 87.700 likes · 26.700 shares · 20.100 guardados · 429 comentarios
+  - https://www.tiktok.com/@smart_produkt/video/7550738375121161494
+- This is genius 😳 @ECOVACS Sticky spills? No problem. 🤖💦 The ECOVACS X12 OMNICYCLONE pre-sprays tough messes before scrubbing, washes its 
+  - 120.200 likes · 9.210 shares · 16.000 guardados · 320 comentarios
+  - https://www.tiktok.com/@thejunglebadger/video/7660112785908518166
+
 ## 2026-07-08
 
 ### Perfumes árabes (0 posts únicos de 0 recibidos)
