@@ -1,7 +1,46 @@
 # Estado actual
 
 > Snapshot del proyecto. Se actualiza al final de cada sesión.
-> Última actualización: 2026-08-31 (segunda rutina automática del día: chequeo de indexación de `robot-aspiradora-samsung` dio falso negativo por búsqueda web; Juan confirmó en Search Console URL Inspection que la página SÍ está indexada. Sin cambios de contenido/producto. Ver sesiones de hoy más abajo.)
+> Última actualización: 2026-08-31 (sesión (c), la principal del día: checklist completo del reporte semanal — tabla de perfumes, anclas de hombre, refresh de climatización, diagnóstico de SERP, reescritura de `que-cafetera-comprar`, y un chequeo de stock que escaló a una cascada real de precios desactualizados en el cluster de cafeteras. `npm run indexnow` corrido al final. Ver detalle abajo.)
+
+## Sesión 2026-08-31 (c) — Checklist del reporte semanal, y la cascada de precios de Smartlife/Liliana
+
+### LO QUE SE HIZO
+
+Se ejecutaron los 9 ítems del checklist del reporte SEO semanal 2026-08-31, en orden:
+
+1. **Tabla comparativa en `perfumes-arabes-mas-vendidos-argentina`**: reemplazó la lista plana sin links por una tabla con cada perfume linkeado al afiliado y reseñas/rating/precio en vivo por tokens. El trío auditor encontró que el orden de las filas seguía el texto viejo (desactualizado) en vez del `reviewCount` real — corregido en 2 rondas.
+2. **Anclas "perfume árabe hombre" → "perfumes árabes de hombre"** (plural, la query real) en `perfumes-arabes-dupes` y la guía de más vendidos, más el link faltante desde `yara-lattafa-guia-completa`.
+3. **Refresh de `aire-acondicionado-portatil`**: triángulo de links cerrado con `ventilador-de-techo`/`ventilador-de-pie`; los 5 productos verificados en vivo, todos en stock, sin cambios de contenido necesarios.
+4. **Diagnóstico manual de SERP** para "cámaras de seguridad exterior" y "tostadora de pan": confirmado con capturas reales que ambas tienen un carrusel de Shopping + la propia categoría de MercadoLibre con otro carrusel embebido antes de cualquier resultado editorial — no es un problema de título, no se tocó nada.
+5. **Reescritura de `que-cafetera-comprar`** hacia "cuál es la mejor cafetera" (seoTitle/title/h1/metaDescription/intro), con link nuevo desde `cafetera-express`.
+6. **Corrección de `updatedDate`** de `camara-de-seguridad-exterior` a la fecha real del cambio de título (8/8, no 12/7).
+7. **Chequeo de stock de 8 guías que monetizan** — escaló mucho más de lo esperado, ver abajo.
+8. Respetado: no se tocaron los títulos de `yogurtera`, `perfumes-arabes-amaderados`, `yara-lattafa-guia-completa`, `perfumes-arabes-por-color` (hasta 17/9) ni `tostadora` (hasta 7/9).
+9. **`npm run indexnow`**: 992 URLs enviadas tras pushear todo.
+
+### El hallazgo grande: la cascada de precios del cluster de cafeteras
+
+Al chequear stock de `cafetera-express`, la Smartlife SL-EC8501 (su "elección general") estaba marcada `out_of_stock` por el pipeline automático — se verificó en vivo (Chrome logueado de Juan) y **sí tenía stock**, a $247.500 (el catálogo tenía $233.910, que a su vez ya estaba desactualizado de $194.111 en la prosa). Corregir esto disparó una cascada real:
+
+- La Liliana AC985 (comparada constantemente contra la Smartlife) también estaba desactualizada: el catálogo ya tenía el precio real ($236.073, actualizado automáticamente el 10/8) pero la prosa seguía en $174.521 en 13 lugares, y el `reviewCount` en 49 cuando el real es 71.
+- Al migrar "49 calificaciones" a token con un reemplazo de texto global, se corrompió por error el `reviewCount` de un producto **no relacionado** (Surrey Smart Wi-Fi, de `aire-acondicionado-portatil`), que coincidentemente también tenía "49 calificaciones" en su texto original. Detectado por el trío auditor, corregido, y verificado con un grep sistemático de todo el archivo para confirmar que no quedó ningún otro caso.
+- `structuredData` (JSON-LD manual) de Smartlife y Liliana tenían precios/reseñas viejos que nunca se sincronizaron con el campo `price`/`reviewCount` real — corregidos los dos. **Nota para más adelante:** un barrido sistemático encontró **65 productos en todo el catálogo** con este mismo problema (`structuredData` desalineado de su precio real) — es un problema preexistente y sistémico, no se tocó hoy salvo los 2 directamente implicados, queda como tarea futura.
+- Verificando los productos sin pipeline automático de precios (`horno-electrico`, `silla-gamer`, `torre-de-sonido` — las únicas 3 de las 8 sin ese pipeline) aparecieron 3 productos más genuinamente sin stock ("Elige otra variante" en ML): la cafetera de filtro Atma CA8131, el horno BGH 45L BHE45S22 y la torre de sonido Aiwa AW-T2018R. Los tres se marcaron `visibility: "deprioritized"` y se removieron de sus guías (quickPicks, ranking, tabla, veredicto, FAQ), con los conteos de plural/franjas de precio ajustados.
+
+**Trío auditor: 6 rondas hasta doble GO limpio.** Encontró y ayudó a resolver, en orden: el orden de la tabla de perfumes, el bug de corrupción de Surrey, el `structuredData` de Smartlife, el `structuredData` de Liliana, y varios cabos sueltos de precio/plural que quedaron tras remover BGH y Aiwa de sus guías (un precio "menos que las otras" que ya no tenía sentido con 2 productos en vez de 3, un `ranking` residual, una FAQ con precios hardcodeados viejos).
+
+### VERIFICACIÓN
+
+`tsc --noEmit`, los 9 checks del repo y `npm run build` en verde después de cada tanda de cambios. Render local verificado en el navegador para las 6 guías tocadas (perfumes, cafetera-express, cafetera-liliana, que-cafetera-comprar, horno-electrico, torre-de-sonido, aire-acondicionado-portatil). Techos de `check-hardcoded-reviews` (1162→1120) y `check-uncovered-prose-prices` (183→180) bajados para reflejar las migraciones reales a tokens. 4 commits + 1 de merge, todos pusheados a `origin/master`.
+
+### LO QUE QUEDA ABIERTO
+
+- **Los 65 productos con `structuredData` desalineado** (JSON-LD manual con precio/reseñas viejos, desconectado del campo real) — problema sistémico preexistente, candidato a un script que lo sincronice automáticamente o a eliminar el campo manual y calcularlo en build.
+- Revisar si conviene reforzar `robot-aspiradora-samsung` con más enlaces internos (sigue "Crawled - currently not indexed" en el reporte de cobertura pese al reindex forzado del 29/8 y a que Search Console URL Inspection dice que está indexada — señales contradictorias entre reportes, sin resolver del todo).
+- El canal de WhatsApp sigue sin bootstrapear (`WHATSAPP_CHANNEL_JID` vacío) — pendiente de que Juan corra `whatsapp-bootstrap.mjs` con su celular.
+
+---
 
 ## Sesión 2026-08-31 (b) — Rutina automática: chequeo de indexación `robot-aspiradora-samsung` (falso negativo corregido)
 
