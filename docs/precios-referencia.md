@@ -60,6 +60,7 @@ negro — tienen precio de lista distinto).
 | Smart TV Samsung Crystal UHD 50" 4K | $805.099 | 2026-08-29 | meli.la/2XD4jpw — sin referencia previa |
 | Smart TV TCL QLED 55" 4K Google TV 120Hz | $869.999 | 2026-08-31 | meli.la/1skqU94 — ⚠️ visto a las 09:30 del 31/8; a las ~16:20 del mismo día había subido a $907.099 (8% OFF), se salteó ese post. Confirmar precio en vivo antes de volver a postear. |
 | Heladera Philco One Door con Dispenser 161L | $422.999 | 2026-08-31 | meli.la/2PcgbS1 — sin referencia previa |
+| Lavarropas Whirlpool Carga Frontal 8kg 1200 RPM Inverter | $895.999 | 2026-08-31 | meli.la/2Jr9F9s — sin referencia previa |
 
 ## Pequeños electrodomésticos
 

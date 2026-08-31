@@ -909,4 +909,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "37",
     postedAt: "2026-08-31T16:22:47-03:00",
   },
+  {
+    title: "Lavarropas Whirlpool Carga Frontal 8kg 1200 RPM Inverter",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_857139-MLA109485154664_042026-O.webp",
+    affiliateUrl: "https://meli.la/2Jr9F9s",
+    newPrice: "895.999",
+    oldPrice: "1.299.999",
+    offPct: "31",
+    postedAt: "2026-08-31T17:06:22-03:00",
+  },
 ];
