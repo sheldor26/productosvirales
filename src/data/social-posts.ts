@@ -10,6 +10,16 @@ import type { SocialPost } from "@/lib/types";
  */
 export const socialPosts: SocialPost[] = [
   {
+    title: "Licuadora de mano Peabody PE-LMA327B mixer 800 W",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_994881-MLA99490288888_112025-F.jpg",
+    affiliateUrl: "https://meli.la/2JgxVog",
+    newPrice: "111.899",
+    oldPrice: "149.999",
+    offPct: "25",
+    postedAt: "2026-08-31T09:35:12-03:00",
+  },
+  {
     title: "Tostadora Atma To20Wp Dos Rebanadas Color Blanco",
     imageUrl:
       "https://http2.mlstatic.com/D_NQ_NP_2X_686726-MLA94802541032_102025-F.webp",
