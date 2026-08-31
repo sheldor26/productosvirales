@@ -889,4 +889,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "17",
     postedAt: "2026-08-31T14:54:51-03:00",
   },
+  {
+    title: "Notebook Exo Smart T38 Intel N4020 4GB 128GB",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_674154-MLA99475153990_112025-O.webp",
+    affiliateUrl: "https://meli.la/1Sx1zpr",
+    newPrice: "329.999",
+    oldPrice: "569.999",
+    offPct: "42",
+    postedAt: "2026-08-31T15:38:36-03:00",
+  },
 ];

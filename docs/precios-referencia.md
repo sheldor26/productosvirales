@@ -44,6 +44,7 @@ negro — tienen precio de lista distinto).
 | PC Gamer AMD Ryzen 7 5700 32GB RTX 3050 1TB Armada Noxi | $1.481.916 | 2026-08-31 | meli.la/2fk63He — sin referencia previa |
 | Monitor Gamer Gigabyte GO27Q24A 27" QD-OLED 240Hz | $1.031.554 | 2026-08-31 | meli.la/1NEG8vM — sin referencia previa |
 | Monitor Gamer X-Micro 34" Curvo Ultrawide UWQHD 180Hz | $514.219 | 2026-08-31 | meli.la/1Qg81wG — sin referencia previa |
+| Notebook Exo Smart T38 Intel N4020 4GB 128GB | $329.999 | 2026-08-31 | meli.la/1Sx1zpr — sin referencia previa |
 
 ## Electro
 
