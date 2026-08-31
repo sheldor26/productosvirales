@@ -21913,12 +21913,13 @@ El listing lo destaca como "ideal para regalar". La combinación de stickers + m
   },
   {
     id: 'MLA46927234',
+    visibility: 'deprioritized',
     title: 'Proyector Oso Astronauta MTI 731 — 82 Modos y Galaxia BT',
     badge: 'trending',
     price: 22922,
     priceUpdated: "2026-07-29",
-    priceLastChecked: "2026-07-31",
-    priceStatus: "fresh",
+    priceLastChecked: "2026-08-31",
+    priceStatus: "out_of_stock",
     originalPrice: 44907,
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_2X_840830-MLA109740384407_032026-F.webp',
@@ -22082,6 +22083,108 @@ El MTI 731 (oso de pie, 19cm, $20.999) tiene 82 efectos de luz — significativa
         reviewCount: '415',
       },
     },
+    relatedProducts: ['MLA2729985625', 'MLA521391764', 'MLA45675149'],
+  },
+  {
+    id: 'MLA46994091',
+    title: 'Proyector Astronauta MTI M-733XL — Timer 45/90 min y Control Remoto',
+    badge: 'trending',
+    price: 27999,
+    priceUpdated: "2026-08-31",
+    priceLastChecked: "2026-08-31",
+    priceStatus: "fresh",
+    priceVerifiedAt: "2026-08-31",
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_662313-MLA95632473934_102025-F.webp',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_662313-MLA95632473934_102025-F.webp',
+    ],
+    category: 'Hogar',
+    categorySlug: 'hogar',
+    visibility: 'normal',
+    permalink: 'https://www.mercadolibre.com.ar/proyector-astronauta-con-luces-de-galaxia-y-estrellas-lampara-led-para-ninos-con-control-remoto/p/MLA46994091',
+    affiliateUrl: 'https://meli.la/2c25ZmY',
+    condition: 'new',
+    freeShipping: false,
+    rating: 4.8,
+    reviewCount: 57,
+    soldQuantity: 100,
+    pastelColor: 'var(--pastel-amber)',
+    description: 'Proyector astronauta MTI M-733XL: lente de vidrio, control remoto con rango de 5 metros, timer de apagado automático a 45 o 90 minutos, y conexión USB 5V. {{rating:MLA46994091}}⭐ con {{reviews:MLA46994091}} calificaciones. Publicación nueva de otro vendedor, después de que la publicación original del MTI 731 (con más de 870 reseñas) se agotara.',
+    pros: [
+      '{{rating:MLA46994091}}⭐ con {{reviews:MLA46994091}} calificaciones reales',
+      'Lente de vidrio — mejor transmisión óptica que el acrílico',
+      'Timer de apagado automático: 45 o 90 minutos',
+      'Control remoto con rango de 5 metros',
+      'Vendedor MercadoLíder Platinum, más de 5 mil ventas',
+      'Precio similar al que tenía el MTI 731 antes de agotarse',
+    ],
+    cons: [
+      'No pudimos confirmar que tenga parlante Bluetooth (el 731 sí lo tenía)',
+      'No especifica cantidad de efectos de luz en la ficha',
+      'Stock ajustado: pocas unidades disponibles en esta publicación puntual',
+      'No especifica si trae adaptador de corriente incluido',
+    ],
+    verdict: 'El MTI 731 que recomendábamos acá se agotó (la publicación tenía más de 870 reseñas). Este M-733XL es de la misma marca, MTI, vendido por un MercadoLíder Platinum con más de 5 mil ventas: lente de vidrio, timer de 45/90 minutos y control remoto de 5 metros confirmados. Lo que no podemos confirmar es si tiene parlante Bluetooth como el modelo anterior — no lo vamos a afirmar sin verificarlo. Si buscás específicamente esa función, confirmalo en las preguntas de la publicación antes de comprar.',
+    seoTitle: 'Proyector astronauta MTI M-733XL — timer y control remoto',
+    metaDescription: 'Proyector astronauta MTI M-733XL: lente de vidrio, timer de 45/90 minutos, control remoto de 5 metros. {{rating:MLA46994091}} estrellas, {{reviews:MLA46994091}} calificaciones reales.',
+    ogTitle: 'Proyector astronauta MTI M-733XL — timer y control remoto',
+    ogDescription: 'Proyector astronauta MTI M-733XL: lente de vidrio, timer de 45/90 minutos, control remoto de 5 metros. Reseñas reales de compradores en Argentina.',
+    h1: 'Proyector astronauta MTI M-733XL: timer, control remoto y lente de vidrio',
+    articleBody: `El MTI 731 que este sitio recomendaba durante meses se agotó: la publicación tenía más de 870 calificaciones acumuladas, el mayor respaldo del catálogo de proyectores astronauta. Cuando eso pasa, la alternativa más honesta no es forzar la recomendación de un producto que ya no se puede comprar — es buscar qué hay disponible hoy de la misma marca.
+
+El M-733XL es MTI, igual que el 731. Lo vende Alma Libre Home, un MercadoLíder Platinum con más de 5 mil ventas como tienda (no del producto puntual). La publicación tiene {{rating:MLA46994091}} estrellas con {{reviews:MLA46994091}} calificaciones — menos volumen que el 731 tenía, pero son reseñas reales de esta publicación, no prestadas de otra.
+
+## Qué se confirma y qué no
+
+Confirmado en la ficha técnica: lente de la pantalla de vidrio (mismo material que el 731, mejor transmisión óptica que el acrílico), control remoto con rango de 5 metros que ajusta velocidad y brillo de la proyección, timer de apagado automático a 45 o 90 minutos, y alimentación por USB con entrada de 5V.
+
+Lo que no está en la ficha: la cantidad de efectos de luz (el 731 se destacaba por sus 82 modos, un número documentado en su listing) y si tiene parlante Bluetooth. El 731 lo tenía y era parte de su atractivo. Para el M-733XL, ni la ficha técnica ni la descripción del vendedor lo mencionan — así que no lo vamos a dar por hecho. Si esa función te importa, preguntale al vendedor antes de comprar.
+
+## Diseño y dimensiones
+
+24 cm de alto, 12 cm de ancho, 12 cm de diámetro de base. Es un astronauta sentado con el brazo apoyado (no el oso de pie del 731), sosteniendo el cable del control remoto. Estructura y pantalla en blanco, cuerpo de plástico.
+
+## Por qué no repetimos los números del 731
+
+El 731 tenía 82 efectos documentados y más de 870 reseñas — esos números no le pertenecen a esta publicación. Es una publicación distinta, de otro vendedor, con su propio historial. Lo que sí sostenemos es lo que esta ficha puntual confirma: {{rating:MLA46994091}} estrellas en {{reviews:MLA46994091}} calificaciones reales, y las especificaciones técnicas verificadas arriba.`,
+    specs: [
+      { label: 'Marca', value: 'MTI' },
+      { label: 'Modelo', value: 'M-733XL' },
+      { label: 'Diseño', value: 'Astronauta sentado, con control remoto por cable' },
+      { label: 'Color', value: 'Blanco' },
+      { label: 'Dimensiones', value: '24 × 12 × 12 cm' },
+      { label: 'Material lente', value: 'Vidrio' },
+      { label: 'Material estructura', value: 'Plástico' },
+      { label: 'Voltaje', value: '5V' },
+      { label: 'Con USB', value: 'Sí' },
+      { label: 'Con Wi-Fi', value: 'No' },
+      { label: 'Timer', value: '45 / 90 minutos' },
+      { label: 'Control remoto', value: 'Sí — rango de 5 metros, ajusta velocidad y brillo' },
+      { label: 'Rating', value: '4.8 ⭐ (más de 50 calificaciones)' },
+    ],
+    faq: [
+      {
+        question: '¿Por qué esta ficha no es la misma que la del MTI 731?',
+        answer: 'Porque el 731 se agotó. Esta es una publicación nueva, de otro vendedor, del mismo fabricante (MTI). Tiene su propio historial de reseñas: {{rating:MLA46994091}} estrellas en {{reviews:MLA46994091}} calificaciones, menos volumen que el 731 pero real y propio de esta publicación.',
+      },
+      {
+        question: '¿Tiene parlante Bluetooth?',
+        answer: 'No lo pudimos confirmar. Ni la ficha técnica ni la descripción del vendedor lo mencionan, a diferencia del MTI 731 que sí lo tenía documentado. Si esa función es importante para vos, preguntale al vendedor antes de comprar.',
+      },
+      {
+        question: '¿Cuántos efectos de luz tiene?',
+        answer: 'No está especificado en la ficha. El MTI 731 documentaba 82 efectos; para esta publicación no vamos a repetir ese número porque no está confirmado.',
+      },
+      {
+        question: '¿Trae adaptador de corriente?',
+        answer: 'La ficha no lo especifica. Funciona con USB 5V, así que cualquier cargador de celular estándar debería servir — confirmalo con el vendedor si querés estar seguro.',
+      },
+      {
+        question: '¿Cuánto stock tiene esta publicación?',
+        answer: 'Al momento de esta guía, quedaban pocas unidades disponibles. Si se agota, revisá el resto de las 7 opciones de compra de la misma publicación de catálogo — hay otras ofertas del mismo modelo a precios similares.',
+      },
+    ],
     relatedProducts: ['MLA2729985625', 'MLA521391764', 'MLA45675149'],
   },
   {
@@ -28930,9 +29033,9 @@ Un HY300 con Android 11 que cumple de sobra para su precio, sobre todo a oscuras
     brand: "Atma",
     badge: 'viral',
     price: 56999,
-    priceLastChecked: "2026-07-24",
+    priceLastChecked: "2026-08-31",
     priceUpdated: "2026-07-24",
-    priceStatus: "fresh",
+    priceStatus: "out_of_stock",
     originalPrice: 59999,
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_2X_929996-MLA95691305800_102025-F.webp',
@@ -28945,7 +29048,7 @@ Un HY300 con Android 11 que cumple de sobra para su precio, sobre todo a oscuras
     ],
     category: 'Cocina',
     categorySlug: 'cocina',
-    visibility: 'normal',
+    visibility: 'deprioritized',
     permalink: 'https://www.mercadolibre.com.ar/pava-electrica-atma-18-l-interior-acero-inoxidable-negro/p/MLA49747515',
     affiliateUrl: 'https://meli.la/1TBSj3K',
     condition: 'new',
@@ -29072,6 +29175,118 @@ Esta ATMA no tiene función mate ni control de temperatura variable. Si tomás m
         reviewCount: '2368',
       },
     },
+    relatedProducts: ['MLA11145436', 'MLA24601443', 'MLA47275624', 'MLA47183370'],
+  },
+  {
+    id: 'MLAU4016948916',
+    title: 'Pava Eléctrica Atma PEAT1351WP — Interior Acero Inoxidable, 1.8L, 1500W, Blanca',
+    canonicalName: 'Pava Eléctrica Atma PEAT1351 Blanca',
+    brand: "Atma",
+    price: 54900,
+    priceLastChecked: "2026-08-31",
+    priceUpdated: "2026-08-31",
+    priceStatus: "fresh",
+    priceVerifiedAt: "2026-08-31",
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_869906-MLA114993395092_082026-F.webp',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_869906-MLA114993395092_082026-F.webp',
+    ],
+    category: 'Cocina',
+    categorySlug: 'cocina',
+    visibility: 'normal',
+    permalink: 'https://www.mercadolibre.com.ar/pava-electrica-1500w-18-litros-atma-blanco-peat1351wp/up/MLAU4016948916',
+    affiliateUrl: 'https://meli.la/1rMrWSu',
+    condition: 'new',
+    freeShipping: false,
+    soldQuantity: 5,
+    pastelColor: 'var(--pastel-coral)',
+    description: 'Pava eléctrica ATMA PEAT1351 con interior de acero inoxidable. Exterior plástico blanco. 1500W, corte automático a 100°C, filtro, indicador de nivel de agua. Sin control de temperatura variable. Publicación nueva de otro vendedor: mismo modelo de siempre, sin historial de reseñas todavía.',
+    pros: [
+      'Interior de acero inoxidable — agua sin sabor a plástico',
+      '1.8L de capacidad',
+      'Marca argentina con service en todo el país',
+      'Vendedor MercadoLíder Platinum, más de 1.000 ventas como tienda',
+      'Filtro y corte automático',
+    ],
+    cons: [
+      'Publicación nueva: todavía no acumuló reseñas propias',
+      'Sin control de temperatura — solo hierve a 100°C',
+      'Sin función mate',
+      'Exterior plástico (no acero completo)',
+      'Solo 5 unidades vendidas hasta el momento en esta publicación puntual',
+    ],
+    verdict: 'Es el mismo modelo ATMA PEAT1351 de siempre —interior de acero, 1.8L, 1500W— pero en una publicación nueva de otro vendedor, después de que la original se agotara. Todavía no tiene historial de reseñas propio, así que no podemos repetir el argumento de "la más votada": lo que sí se sostiene es la ficha técnica (idéntica a la de siempre) y que la vende un MercadoLíder Platinum con más de 1.000 ventas como tienda.',
+    seoTitle: "Pava Eléctrica ATMA Blanca Acero Inox 1.8L 1500W",
+    metaDescription: 'Pava eléctrica ATMA PEAT1351 blanca, interior acero inoxidable, 1.8L, 1500W. Publicación nueva de otro vendedor tras agotarse la original: mismo modelo, sin reseñas propias todavía.',
+    ogTitle: 'Pava eléctrica ATMA blanca — interior acero inoxidable, 1.8L, 1500W',
+    ogDescription: 'El mismo modelo ATMA PEAT1351 de siempre, ahora en blanco y de otro vendedor. Interior de acero inoxidable, 1.8L, 1500W, corte automático. Ver precio →',
+    h1: 'Pava eléctrica ATMA blanca — interior de acero inoxidable, 1.8L',
+    articleBody: `El interior de acero inoxidable no es un detalle de marketing — es la diferencia entre una pava que le agrega sabor al agua y una que no. Las pavas de plástico interior, especialmente las nuevas, transfieren un leve gusto metálico o plástico al agua caliente. El acero inoxidable no hace eso: el agua hierve, sale, y tiene el sabor que tenía cuando entró.
+
+La ATMA PEAT1351 tiene el exterior en plástico (en esta publicación, blanco) y el interior del jarro en acero inoxidable. Es exactamente el mismo modelo que circuló durante meses en el catálogo — la publicación original se agotó y esta es de otro vendedor.
+
+## Por qué esta ficha no habla de reseñas
+
+La publicación original de esta pava tenía miles de calificaciones acumuladas y era, por lejos, la de mayor respaldo del catálogo de pavas. Esa publicación se agotó. Esta es una publicación nueva, de otro vendedor, con apenas unas pocas ventas hasta el momento: no tiene historial de reseñas propio. No vamos a inventar ni a copiar el argumento de "la más votada" para un listado que recién arranca. Lo que sí podemos afirmar con certeza es la ficha técnica, que es la misma de siempre, y que el vendedor es un MercadoLíder Platinum con más de 1.000 ventas como tienda (no del producto puntual).
+
+## Lo que hace y lo que no hace
+
+El corte automático funciona a 100°C. El agua hierve, la pava se apaga. No tiene control de temperatura variable ni posición específica para mate — hierve y para. Para quien prepara mate, eso significa esperar que el agua baje de temperatura (o conocer el truco de agregar un chorrito de agua fría). Para café instantáneo, té negro, fideos, o cualquier uso que requiera agua hirviendo, el corte a 100°C es exactamente lo que se necesita.
+
+Tiene 1.500W de potencia y capacidad de 1.8 litros — un poco más lenta y un poco más grande que algunos modelos de mayor wattage. La diferencia práctica en tiempo de hervor no es drástica para uso doméstico.
+
+## El diseño
+
+Blanco, cilíndrico, sin decoraciones. El indicador de nivel de agua permite ver cuánta agua queda cargada. Incluye filtro. La base es giratoria.
+
+## ¿Necesitás control de temperatura para el mate?
+
+Esta ATMA no tiene función mate ni control de temperatura variable. Si tomás mate y querés el agua exactamente entre 70°C y 80°C sin adivinar, en el catálogo hay una [Oster BVSTKT4970W](/producto/pava-electrica-oster-con-control-de-temperatura-funcion-mate-1-7l-mla11145436) con perilla de control variable y función mate marcada explícitamente. Cede el interior de acero (la Oster es plástico) a cambio del control de temperatura.`,
+    specs: [
+      { label: 'Marca', value: 'ATMA' },
+      { label: 'Modelo', value: 'PEAT1351' },
+      { label: 'Color', value: 'Blanco' },
+      { label: 'Voltaje', value: '220V' },
+      { label: 'Potencia', value: '1.500W' },
+      { label: 'Capacidad', value: '1.8L' },
+      { label: 'Material interior (jarra)', value: 'Acero inoxidable' },
+      { label: 'Material exterior', value: 'Plástico' },
+      { label: 'Control de temperatura', value: 'No — corte automático a 100°C' },
+      { label: 'Función mate', value: 'No' },
+      { label: 'Pantalla digital', value: 'No' },
+      { label: 'Corte automático', value: 'Sí — a punto de ebullición (100°C)' },
+      { label: 'Indicador de agua', value: 'Sí' },
+      { label: 'Filtro', value: 'Sí' },
+      { label: 'Garantía de fábrica', value: '12 meses' },
+    ],
+    faq: [
+      {
+        question: '¿Por qué esta ficha no muestra calificaciones?',
+        answer:
+          'Es una publicación nueva, de un vendedor distinto al de la publicación original (que se agotó). Todavía no acumuló reseñas propias. Preferimos decir esto de frente antes que reciclar el argumento de "la más votada" de la publicación anterior, que ya no aplica acá.',
+      },
+      {
+        question: '¿Por qué importa que el interior sea de acero inoxidable?',
+        answer:
+          'El plástico en contacto con agua caliente puede transferir un sabor leve al líquido, especialmente cuando el producto es nuevo. El acero inoxidable es inerte a esas temperaturas — no agrega sabor ni olor al agua.',
+      },
+      {
+        question: '¿Se puede usar para el mate?',
+        answer:
+          'La pava hierve a 100°C y se corta. Para mate, la temperatura ideal es entre 70°C y 80°C — hay que esperar que baje o agregar un chorrito de agua fría. Para control preciso de temperatura con función mate explícita, mirá la [Oster BVSTKT4970W](/producto/pava-electrica-oster-con-control-de-temperatura-funcion-mate-1-7l-mla11145436) o el [Peabody PE-DK2200N](/producto/pava-electrica-peabody-digital-40-100-c-y-funcion-mate-mla47275624).',
+      },
+      {
+        question: '¿Cuántas tazas rinde?',
+        answer:
+          'Con 1.8 litros, aproximadamente 7 tazas estándar por ciclo de hervor.',
+      },
+      {
+        question: '¿Es la misma pava que antes, solo que en otro color?',
+        answer:
+          'Sí, mismo modelo PEAT1351, misma ficha técnica (interior acero, 1500W, 1.8L). Cambia el color (blanco en vez de negro), el vendedor y que esta publicación todavía no tiene historial de reseñas.',
+      },
+    ],
     relatedProducts: ['MLA11145436', 'MLA24601443', 'MLA47275624', 'MLA47183370'],
   },
   {

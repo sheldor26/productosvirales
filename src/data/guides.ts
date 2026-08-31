@@ -3101,13 +3101,8 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "p", content: `Las contras, directas de las reseñas: consume la pila algo más rápido que el G305 en uso real, y el formato es **más chico y chato**, así que si tenés manos grandes puede resultar poco anatómico. Se consigue desde unos {{precio:MLA40568693:k}}, y es la mejor compra inalámbrica actual si tu mano es chica o mediana.` },
       { type: "pull-quote", content: `"Vengo del G305 y la mejora es notable: más livianito y cómodo. Lo único malo es que consume más pila, pero aun así lo recomiendo totalmente."`, attribution: `Opinión verificada en MercadoLibre` },
 
-      { type: "h3", title: `5. Logitech G Pro Wireless — el clásico de e-sports` },
-      { type: "product-card", productMlaId: "MLA14428767", label: "Clásico de e-sports", labelColor: "purple", ranking: 5, description: `Inalámbrico de 80 gramos con sensor HERO 25K, batería recargable de 60 horas y botones laterales intercambiables (apto zurdos). 4.8 estrellas.` },
-      { type: "p", content: `El G Pro Wireless fue diseñado junto a jugadores profesionales y envejeció como un clásico: 80 gramos, sensor HERO 25K, batería **recargable** de 60 horas (48 si prendés el RGB) y una rareza valiosa: los **botones laterales son intercambiables** entre ambos lados, así que es de los pocos mouse gamer serios **aptos para zurdos**.` },
-      { type: "p", content: `Desde unos {{precio:MLA14428767:k}}, hoy queda en un lugar incómodo: cuesta el doble que el G309 (que tiene el mismo sensor) sin ser el tope de gama. Lo elegís si necesitás la forma ambidiestra, la batería recargable o lo encontrás en oferta. Si no, el G309 por abajo o el Superlight 2 por arriba tienen más sentido.` },
-
-      { type: "h3", title: `6. Logitech PRO X Superlight 2 — el de los profesionales` },
-      { type: "product-card", productMlaId: "MLA28598537", label: "Tope de gama", labelColor: "purple", ranking: 6, description: `Ultraliviano de 60 gramos con sensor HERO 2 de 44.000 DPI, polling de 8.000 Hz y batería recargable USB-C de unas 95 horas. El que usan los profesionales.` },
+      { type: "h3", title: `5. Logitech PRO X Superlight 2 — el de los profesionales` },
+      { type: "product-card", productMlaId: "MLA28598537", label: "Tope de gama", labelColor: "purple", ranking: 5, description: `Ultraliviano de 60 gramos con sensor HERO 2 de 44.000 DPI, polling de 8.000 Hz y batería recargable USB-C de unas 95 horas. El que usan los profesionales.` },
       { type: "p", content: `El Superlight 2 es el mouse que domina los torneos de shooters, y el porqué se siente apenas lo agarrás: **60 gramos**, un tercio menos que un mouse común. Sensor HERO 2 (el mejor de Logitech), tasa de respuesta de hasta **8.000 Hz** (ocho veces la estándar), batería recargable por USB-C de unas 95 horas y switches ópticos. Sin RGB, a propósito: cada gramo cuenta.` },
       { type: "p", content: `Se consigue desde unos {{precio:MLA28598537:k}}, y esa es toda la discusión: para el jugador casual es plata tirada, porque la diferencia con un G305 no le va a cambiar ninguna partida. Para el competitivo que juega en serio todos los días, es de las pocas compras premium que se justifican de verdad. Vos sabés de qué lado estás.` },
       { type: "pull-quote", content: `"El mejor mouse que tuve en mi vida. Si podés pagarlo, vale 100% la pena."`, attribution: `Opinión verificada en MercadoLibre` },
@@ -3118,15 +3113,14 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
         [`[Logitech G203](https://meli.la/2EEbq8S)`, `{{precio:MLA44849297}}`, `Cable`, `85 g`, `El más vendido, compra segura`],
         [`[Logitech G305](https://meli.la/1dDyCA3)`, `{{precio:MLA11259955}}`, `Inalámbrico (pila AA)`, `99 g`, `El inalámbrico clásico`],
         [`[Logitech G309](https://meli.la/26ynmBo)`, `{{precio:MLA40568693}}`, `Inalámbrico + Bluetooth`, `86 g`, `Inalámbrico moderno, mano chica`],
-        [`[Logitech G Pro Wireless](https://meli.la/2HqvQqv)`, `{{precio:MLA14428767}}`, `Inalámbrico (recargable)`, `80 g`, `E-sports, apto zurdos`],
         [`[PRO X Superlight 2](https://meli.la/2ZRDxvS)`, `{{precio:MLA28598537}}`, `Inalámbrico (USB-C)`, `60 g`, `Competitivo profesional`],
       ] },
 
       { type: "h2", title: `Cómo elegir tu mouse gamer`, id: "como-elegir" },
       { type: "h3", title: `1. Cable o inalámbrico (el lag ya no es excusa)` },
-      { type: "p", content: `Con cable es más barato y nunca te quedás sin batería: el G203 y el M601 resuelven así la gama de entrada. Inalámbrico te libera el escritorio, y con Lightspeed la respuesta es de 1 milisegundo, indistinguible del cable incluso en competitivo. La decisión hoy es de presupuesto y comodidad, no de rendimiento. Si vas inalámbrico, mirá la batería: pila AA que dura meses (G305, G309) o recargable que enchufás cada tanto (G Pro, Superlight).` },
+      { type: "p", content: `Con cable es más barato y nunca te quedás sin batería: el G203 y el M601 resuelven así la gama de entrada. Inalámbrico te libera el escritorio, y con Lightspeed la respuesta es de 1 milisegundo, indistinguible del cable incluso en competitivo. La decisión hoy es de presupuesto y comodidad, no de rendimiento. Si vas inalámbrico, mirá la batería: pila AA que dura meses (G305, G309) o recargable que enchufás cada tanto (Superlight).` },
       { type: "h3", title: `2. El peso y el tamaño de tu mano` },
-      { type: "p", content: `Para shooters y juegos rápidos, cuanto más liviano mejor: 60 a 85 gramos permiten correcciones veloces y cansan menos la muñeca. Para estrategia, MMO o trabajo, un mouse con más cuerpo (como el M601 con pesas) da sensación de control. Y el tamaño importa: el G309 es chico y chato (ideal mano chica o agarre de dedos), el G203 compacto, el G Pro Wireless más universal. Si tenés manos grandes, evitá los formatos mini.` },
+      { type: "p", content: `Para shooters y juegos rápidos, cuanto más liviano mejor: 60 a 85 gramos permiten correcciones veloces y cansan menos la muñeca. Para estrategia, MMO o trabajo, un mouse con más cuerpo (como el M601 con pesas) da sensación de control. Y el tamaño importa: el G309 es chico y chato (ideal mano chica o agarre de dedos), el G203 compacto. Si tenés manos grandes, evitá los formatos mini.` },
       { type: "h3", title: `3. No pagues por DPI, pagá por sensor` },
       { type: "p", content: `Regla del curador: entre dos mouse, no elijas el de más DPI, elegí el de mejor sensor. Un HERO o un Pixart moderno sin aceleración a 1.600 DPI le gana a un sensor genérico de "12.800 DPI" siempre. Los DPI gigantes (25.600, 44.000) existen porque el sensor es bueno, no al revés. Y las luces RGB: lindas en la gama de entrada, ausentes en la gama pro. Que no te las cobren como rendimiento.` },
 
@@ -3134,7 +3128,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "list", items: [
         `**{{precio:MLA17743447:k}} a {{precio:MLA44849297:k}}:** la gama de entrada con respaldo real. El [Redragon M601](https://meli.la/2rXZqbu) (el más barato, con pesas regulables) y el [Logitech G203](https://meli.la/2EEbq8S) (el más vendido del país).`,
         `**{{precio:MLA11259955:k}} a {{precio:MLA40568693:k}}:** los inalámbricos que convienen. El [G305](https://meli.la/1dDyCA3) (el clásico) y el [G309](https://meli.la/26ynmBo) (el moderno con Bluetooth y sensor premium).`,
-        `**{{precio:MLA14428767:k}} o más:** la gama de e-sports. El [G Pro Wireless](https://meli.la/2HqvQqv) (apto zurdos) y el [PRO X Superlight 2](https://meli.la/2ZRDxvS) (60 gramos, el de los profesionales).`,
+        `**{{precio:MLA28598537:k}} o más:** la gama de e-sports. El [PRO X Superlight 2](https://meli.la/2ZRDxvS): 60 gramos, el de los profesionales.`,
       ] },
 
       { type: "h2", title: `Veredicto: cuál mouse gamer comprar`, id: "veredicto" },
@@ -3144,7 +3138,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { question: `¿Cuál es el mejor mouse gamer en Argentina?`, answer: `Por ventas y respaldo, el [Logitech G203](https://meli.la/2EEbq8S): más de 16.000 calificaciones con 4.9 estrellas, con cable y a buen precio. En inalámbricos, el [G305](https://meli.la/1dDyCA3) es el más vendido y el [G309](https://meli.la/26ynmBo) el más moderno. Para competitivo profesional, el [PRO X Superlight 2](https://meli.la/2ZRDxvS); y con presupuesto mínimo, el [Redragon M601](https://meli.la/2rXZqbu).` },
       { question: `¿Cuántos DPI necesita un mouse gamer?`, answer: `Muchos menos de los que venden: los jugadores profesionales usan entre 400 y 1.600 DPI, y casi nadie pasa de 3.200. Los números gigantes de la caja (25.600, 44.000) son capacidad máxima del sensor, no algo que vayas a usar. Lo que importa es que el sensor no acelere ni suavice el movimiento, como los HERO de Logitech o los Pixart modernos.` },
       { question: `¿Mouse gamer con cable o inalámbrico?`, answer: `Hoy es cuestión de presupuesto, no de rendimiento: los inalámbricos con tecnología Lightspeed responden en 1 milisegundo, igual que un cable, incluso para competitivo. El cable sigue siendo más barato ([G203](https://meli.la/2EEbq8S)) y nunca se queda sin batería; el inalámbrico ([G305](https://meli.la/1dDyCA3), [G309](https://meli.la/26ynmBo)) te libera el escritorio. El viejo miedo al lag inalámbrico quedó obsoleto.` },
-      { question: `¿Cuánto dura la batería de un mouse gamer inalámbrico?`, answer: `Depende del sistema. Los de pila AA duran meses: el [G305](https://meli.la/1dDyCA3) declara 250 horas de uso y el [G309](https://meli.la/26ynmBo) más de 300 (hasta 600 por Bluetooth). Los recargables duran menos por carga pero no gastás en pilas: el G Pro Wireless ronda las 60 horas y el [Superlight 2](https://meli.la/2ZRDxvS) unas 95, cargando por USB-C.` },
+      { question: `¿Cuánto dura la batería de un mouse gamer inalámbrico?`, answer: `Depende del sistema. Los de pila AA duran meses: el [G305](https://meli.la/1dDyCA3) declara 250 horas de uso y el [G309](https://meli.la/26ynmBo) más de 300 (hasta 600 por Bluetooth). Los recargables duran menos por carga pero no gastás en pilas: el [Superlight 2](https://meli.la/2ZRDxvS) ronda las 95 horas, cargando por USB-C.` },
       { question: `¿Por qué los mouse gamer más caros no tienen luces RGB?`, answer: `Porque las luces suman peso y gastan batería, y en la gama alta cada gramo cuenta. El PRO X Superlight 2, el G309 y el G305 vienen sin RGB a propósito: priorizan sensor, peso y autonomía. El RGB abunda en la gama de entrada, donde es un lindo extra visual. Si un mouse se vende por sus luces, mirá dos veces el sensor.` },
       { question: `¿Sirve un mouse gamer para trabajar y estudiar?`, answer: `Sí, y suele ser mejor que un mouse de oficina común: más precisión, mejor construcción y botones extra programables para atajos. Un [G203](https://meli.la/2EEbq8S) o un [G305](https://meli.la/1dDyCA3) rinden perfecto para diseño, planillas y uso diario. La única contra posible es el RGB en oficinas formales, y justamente varios modelos de esta guía no tienen luces.` },
     ],
@@ -3365,7 +3359,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
         [`[Samsung CRG5 curvo](https://meli.la/21rUoNn)`, `{{precio:MLA43961816}}`, `144`, `VA 24" FHD curvo`, `El gaming más validado`],
         [`[Samsung G5 27" QHD](https://meli.la/11Frg3T)`, `{{precio:MLA43960827}}`, `165`, `VA 27" QHD curvo`, `El salto de nitidez`],
         [`[Xiaomi G34WQi 34"](https://meli.la/1MQkxTt)`, `{{precio:MLA43960787}}`, `180`, `VA 34" UWQHD curvo`, `Ultrawide al mejor precio`],
-        [`[Gigabyte GS34WQC 34"](https://meli.la/2VotvC2)`, `$919.599`, `120-135`, `VA 34" UWQHD curvo`, `Ultrawide de marca gamer`],
+        [`[Gigabyte GS34WQC 34"](https://meli.la/2VotvC2)`, `{{precio:MLA28853185}}`, `120-135`, `VA 34" UWQHD curvo`, `Ultrawide de marca gamer`],
       ] },
 
       { type: "h2", title: `Cómo elegir tu monitor gamer`, id: "como-elegir" },
@@ -3553,13 +3547,13 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     ogImage: `https://http2.mlstatic.com/D_NQ_NP_607987-MLA97215744455_112025-F.jpg`,
     h1: `Joystick Xbox: cuál comprar en Argentina y cuál conviene [2026]`,
     publishedDate: "2026-07-03",
-    updatedDate: "2026-07-03",
+    updatedDate: "2026-08-31",
     hasDisclosure: true,
     readingTime: 8,
     standfirst: `Xbox es la consola minoritaria en Argentina, así que esta guía tiene menos opciones que las de PC o PlayStation, y lo decimos de frente. Comparamos el control oficial Xbox Wireless contra el Elite Series 2 premium, con specs verificadas contra Microsoft y precios reales de MercadoLibre.`,
     quickPicks: [
       { productMlaId: "MLA12384031", label: "El estándar", labelColor: "green", tagline: "Xbox Wireless Controller: XInput nativo, sirve en consola, PC y celular" },
-      { productMlaId: "MLA19627127", label: "El premium", labelColor: "amber", tagline: "Xbox Elite Series 2: paletas traseras y gatillos ajustables (versión Core)" },
+      { productMlaId: "MLA19627127", label: "El premium (sin stock)", labelColor: "amber", tagline: "Xbox Elite Series 2: paletas traseras y gatillos ajustables (versión Core)" },
     ],
     intro: [
       `Esta guía es distinta a las demás del sub-silo joystick, y conviene decirlo de entrada: Xbox es la consola minoritaria en Argentina frente a PlayStation, así que hay muchas menos opciones de terceros con reseñas confiables que en PC o PS5. Por eso, en vez de listar compatibles baratos sin respaldo, esta guía se concentra en los dos controles oficiales de Microsoft que sí tienen historial real de compra en MercadoLibre Argentina: el **Xbox Wireless Controller** (el estándar) y el **Xbox Elite Series 2** (el premium).`,
@@ -3568,7 +3562,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     sections: [
       { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_607987-MLA97215744455_112025-F.jpg", alt: `Control oficial Xbox Wireless Controller, el joystick de Xbox más vendido en Argentina`, imageSize: "hero" },
 
-      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, el **Xbox Wireless Controller** (el control estándar que viene con la consola) es la compra correcta: XInput nativo, se conecta a la consola por Xbox Wireless y a PC/celular por Bluetooth, y no tiene ninguna duda de compatibilidad. El **Xbox Elite Series 2** solo vale la diferencia de precio (casi el triple) si vas a usar de verdad las paletas traseras intercambiables y los gatillos ajustables, por ejemplo en shooters competitivos. Un dato importante: la versión Elite que se consigue en esta guía es la "Core", sin estuche ni paletas extra en la caja.` },
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, el **Xbox Wireless Controller** (el control estándar que viene con la consola) es la compra correcta: XInput nativo, se conecta a la consola por Xbox Wireless y a PC/celular por Bluetooth, y no tiene ninguna duda de compatibilidad. El **Xbox Elite Series 2** solo vale la diferencia de precio (casi el triple) si vas a usar de verdad las paletas traseras intercambiables y los gatillos ajustables, por ejemplo en shooters competitivos — aunque al momento de esta nota su publicación está sin stock. Un dato importante: la versión Elite que documentamos es la "Core", sin estuche ni paletas extra en la caja.` },
 
       { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** verificamos las especificaciones de los dos controles contra la página oficial de xbox.com (batería, conectividad, accesorios incluidos) y contra reseñas reales de compradores en MercadoLibre Argentina. No incluimos joysticks "compatibles con Xbox" de terceros: a diferencia de PC o PS5, el mercado argentino de compatibles para Xbox específicamente es muy chico y sin reseñas suficientes para verificar de forma confiable si funcionan bien; nos pareció más honesto no listar algo que no podemos respaldar. Tampoco usamos el catálogo de Xbox 360 (una publicación vieja y fuera del programa de afiliados). Los precios que ves en las fichas y tablas se revisan contra MercadoLibre tres veces por semana.` },
 
@@ -3584,16 +3578,17 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "p", content: `La contra real: usa 2 pilas AA de fábrica (Microsoft declara hasta 40 horas), y si querés batería recargable hay que comprar aparte el kit oficial "Xbox Rechargeable Battery + USB-C". Microsoft tampoco publica una cifra de alcance inalámbrico en metros. Con 468 reseñas en Argentina, es bastante menos que su equivalente de PlayStation, reflejo directo de que Xbox es la consola minoritaria acá.` },
       { type: "pull-quote", content: `"Buen producto :) trae bluetooth (porque mire post que decian que no) le di un uso bastante pesado y no falla ni se rompen ;)!."`, attribution: `Opinión verificada en MercadoLibre` },
 
-      { type: "h3", title: `2. Xbox Elite Series 2 — el premium (ojo con la versión)` },
+      { type: "h3", title: `2. Xbox Elite Series 2 — el premium (sin stock)` },
       { type: "product-card", productMlaId: "MLA19627127", label: "El premium", labelColor: "amber", ranking: 2, description: `4 paletas traseras intercambiables, gatillos con Hair Trigger Locks, batería recargable de hasta 40 h. Es la versión "Core": sin estuche ni paletas extra. 4.8 estrellas en 69 calificaciones.` },
-      { type: "p", content: `El control premium de Microsoft está pensado para quien va a usar personalización avanzada de verdad: 4 paletas traseras intercambiables para remapear botones, gatillos con recorrido ajustable en 3 posiciones (Hair Trigger Locks) y hasta 3 perfiles personalizados guardados en el propio control, todo confirmado en la ficha oficial de xbox.com. La batería recargable interna declara hasta 40 horas; un comprador real reporta que en su uso le está durando más de lo declarado. Ronda los $329.999.` },
-      { type: "p", content: `La contra real, y es importante: esta publicación es la versión "Core" (blanco y negro), no la versión completa (negra). Varios compradores lo confirman en sus propias reseñas: no trae estuche de transporte, paletas extra ni stand de carga, eso es exclusivo de la versión Elite completa. Tampoco tiene touchpad, a pesar de que algunas fichas de MercadoLibre lo mencionan (es un error: lo que tiene son las paletas traseras). Configurar perfiles y paletas requiere la app Xbox Accessories, disponible solo en consola Xbox y Windows 10/11, no en celular.` },
+      { type: "p", content: `El control premium de Microsoft está pensado para quien va a usar personalización avanzada de verdad: 4 paletas traseras intercambiables para remapear botones, gatillos con recorrido ajustable en 3 posiciones (Hair Trigger Locks) y hasta 3 perfiles personalizados guardados en el propio control, todo confirmado en la ficha oficial de xbox.com. La batería recargable interna declara hasta 40 horas; un comprador real reporta que en su uso le está durando más de lo declarado. Rondaba los $329.999.` },
+      { type: "p", content: `La contra real, y es importante: esta publicación era la versión "Core" (blanco y negro), no la versión completa (negra). Varios compradores lo confirman en sus propias reseñas: no trae estuche de transporte, paletas extra ni stand de carga, eso es exclusivo de la versión Elite completa. Tampoco tiene touchpad, a pesar de que algunas fichas de MercadoLibre lo mencionan (es un error: lo que tiene son las paletas traseras). Configurar perfiles y paletas requiere la app Xbox Accessories, disponible solo en consola Xbox y Windows 10/11, no en celular.` },
+      { type: "callout", calloutVariant: "note", calloutTitle: "Actualmente sin stock", content: `Confirmamos en vivo que esta publicación del Elite Series 2 está agotada por el momento. La dejamos documentada porque el dato de specs sirve igual y suele reponerse — es, como explicamos arriba, la consola con menos opciones de terceros del mercado argentino, así que no hay un reemplazo directo dentro de esta guía. [Ver ficha](/producto/joystick-inalambrico-microsoft-xbox-elite-series-2-blanco-mla19627127) para chequear disponibilidad.` },
       { type: "pull-quote", content: `"Vengo del primer elite, este es un poquito mas cómodo, tiene 3 puntos de regulación de los gatillos, el anterior eran solo dos, el mas cortito esta muy bueno para juegos de disparos y por ultimo que tenga batería recargable es lo mejor, siempre fui defensor de las pilas pero la batería recargable esta muy bueno."`, attribution: `Opinión verificada en MercadoLibre` },
 
       { type: "h2", title: `Tabla comparativa: Wireless Controller vs Elite Series 2`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Batería`, `Personalización`, `Ideal para`], rows: [
         [`[Xbox Wireless Controller](/producto/joystick-inalambrico-ex600001-microsoft-xbox-negro-mla12384031)`, `{{precio:MLA12384031}}`, `2 pilas AA (hasta 40 h)`, `Sin paletas ni gatillos ajustables`, `La compra correcta para la mayoría`],
-        [`[Xbox Elite Series 2 (Core)](/producto/joystick-inalambrico-microsoft-xbox-elite-series-2-blanco-mla19627127)`, `{{precio:MLA19627127}}`, `Recargable interna (hasta 40 h)`, `4 paletas traseras + gatillos ajustables`, `Shooters competitivos y personalización`],
+        [`[Xbox Elite Series 2 (Core, sin stock)](/producto/joystick-inalambrico-microsoft-xbox-elite-series-2-blanco-mla19627127)`, `—`, `Recargable interna (hasta 40 h)`, `4 paletas traseras + gatillos ajustables`, `Shooters competitivos y personalización`],
       ] },
 
       { type: "h2", title: `Cómo elegir tu joystick de Xbox`, id: "como-elegir" },
@@ -3609,14 +3604,14 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "h2", title: `Cuánto cuesta un joystick de Xbox en Argentina [julio 2026]`, id: "precios" },
       { type: "list", items: [
         `**{{precio:MLA12384031:k}}:** el control oficial Xbox Wireless, la compra correcta para la mayoría.`,
-        `**{{precio:MLA19627127:k}}:** el Xbox Elite Series 2 (versión Core), solo si vas a usar la personalización avanzada.`,
+        `**Alrededor de $329.999 (sin stock):** el Xbox Elite Series 2 (versión Core), solo si vas a usar la personalización avanzada.`,
       ] },
 
       { type: "h2", title: `Veredicto: cuál joystick de Xbox comprar`, id: "veredicto" },
-      { type: "verdict", content: `Para la enorme mayoría, el **Xbox Wireless Controller**: es el estándar XInput, se conecta a la consola y a la PC sin ninguna duda de compatibilidad, y cuesta bastante menos que el premium. El **Xbox Elite Series 2** solo se justifica si vas a usar de verdad las paletas traseras y los gatillos ajustables, sabiendo que la versión disponible es la "Core" (sin estuche ni accesorios extra). El error a evitar: no confundir la versión Core con la Elite completa esperando que traiga estuche y paletas de fábrica.` },
+      { type: "verdict", content: `Para la enorme mayoría, el **Xbox Wireless Controller**: es el estándar XInput, se conecta a la consola y a la PC sin ninguna duda de compatibilidad, y cuesta bastante menos que el premium. El **Xbox Elite Series 2** solo se justifica si vas a usar de verdad las paletas traseras y los gatillos ajustables, sabiendo que la versión que documentamos es la "Core" (sin estuche ni accesorios extra) — al momento de esta nota está sin stock, la dejamos documentada porque suele reponerse. El error a evitar: no confundir la versión Core con la Elite completa esperando que traiga estuche y paletas de fábrica.` },
     ],
     faq: [
-      { question: `¿Cuál es el mejor joystick de Xbox en Argentina?`, answer: `Para la mayoría, el [Xbox Wireless Controller](/producto/joystick-inalambrico-ex600001-microsoft-xbox-negro-mla12384031): es el control estándar, XInput nativo, y no tiene ninguna duda de compatibilidad con consola, PC o celular. El [Xbox Elite Series 2](/producto/joystick-inalambrico-microsoft-xbox-elite-series-2-blanco-mla19627127) es mejor solo si vas a usar la personalización avanzada (paletas, gatillos ajustables).` },
+      { question: `¿Cuál es el mejor joystick de Xbox en Argentina?`, answer: `Para la mayoría, el [Xbox Wireless Controller](/producto/joystick-inalambrico-ex600001-microsoft-xbox-negro-mla12384031): es el control estándar, XInput nativo, y no tiene ninguna duda de compatibilidad con consola, PC o celular. El [Xbox Elite Series 2](/producto/joystick-inalambrico-microsoft-xbox-elite-series-2-blanco-mla19627127) es mejor solo si vas a usar la personalización avanzada (paletas, gatillos ajustables), aunque su publicación está sin stock por el momento.` },
       { question: `¿Por qué esta guía tiene solo dos opciones?`, answer: `Porque Xbox es la consola minoritaria en Argentina y no encontramos joysticks de terceros "compatibles con Xbox" con reseñas suficientes como para verificar honestamente si funcionan bien. Preferimos mostrar solo las dos opciones oficiales de Microsoft, con specs 100% verificadas, antes que listar algo sin respaldo.` },
       { question: `¿El Xbox Elite Series 2 trae estuche y paletas extra?`, answer: `No, la versión que se consigue en esta guía es la "Core": varios compradores confirman en sus reseñas que no trae estuche, paletas extra ni stand de carga. Eso es exclusivo de la versión Elite completa (negra), que cuesta más y no es la que aparece acá.` },
       { question: `¿El control de Xbox sirve para jugar en PC?`, answer: `Sí, es el estándar: se conecta por Bluetooth y es XInput nativo, así que Steam y Windows lo reconocen sin configurar nada. De hecho, aparece también en nuestra guía de [joystick PC](/guias/gaming/joystick-pc) como la opción premium sin dudas de compatibilidad.` },
@@ -5347,16 +5342,15 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     ogDescription: `Del básico que solo pesa al que mide grasa corporal por Bluetooth. Femmto, Omron, Utile y Noga comparados por precisión, funciones y precio real de MercadoLibre.`,
     ogImage: `https://http2.mlstatic.com/D_NQ_NP_845343-MLA114064454295_072026-O.webp`,
     h1: `Balanza digital: cuál comprar en Argentina y cuál conviene [2026]`,
-    directAnswer: `Si solo querés pesarte, la **[Femmto BWS11](/producto/balanza-digital-con-bluetooth-personal-de-bano-peso-corporal-180-kg-diseno-minim-mla15503957)** (alrededor de {{precio:MLA15503957:k}}) alcanza y sobra: es la más vendida, con más de 72.000 opiniones. Para grasa corporal, IMC y app, la [Femmto BCS15](/producto/balanza-digital-con-bluetooth-femmto-bcs15-para-bano-medidor-de-grasa-corporal-y-mla19147005); y si necesitás más capacidad, la [Utile UT-1108](/producto/balanza-de-bano-personal-inteligente-bluetooth-200-kg-utile-azul-mla65535495), que llega a 200 kg.`,
+    directAnswer: `Si solo querés pesarte, la **[Femmto BWS11](/producto/balanza-digital-con-bluetooth-personal-de-bano-peso-corporal-180-kg-diseno-minim-mla15503957)** (alrededor de {{precio:MLA15503957:k}}) alcanza y sobra: es la más vendida, con más de 72.000 opiniones. Para grasa corporal, IMC y app, la [Utile UT-1108](/producto/balanza-de-bano-personal-inteligente-bluetooth-200-kg-utile-azul-mla65535495), que además llega a 200 kg (la Femmto BCS15 está sin stock por el momento).`,
     publishedDate: "2026-07-10",
-    updatedDate: "2026-07-10",
+    updatedDate: "2026-08-31",
     hasDisclosure: true,
     readingTime: 8,
     standfirst: `Una balanza digital va de $12.000 (solo pesa) a $80.000 (marca médica reconocida) o con análisis corporal completo. Te mostramos cuál conviene según qué necesitás, comparando las más vendidas de Argentina con precios reales de MercadoLibre.`,
     quickPicks: [
       { productMlaId: "MLA15503957", label: "La más vendida", labelColor: "green", tagline: "Femmto BWS11: solo pesa, precisa y con más de 72.000 opiniones" },
-      { productMlaId: "MLA19147005", label: "Con análisis corporal", labelColor: "blue", tagline: "Femmto BCS15: grasa corporal, IMC y app, más de 41.000 opiniones" },
-      { productMlaId: "MLA65535495", label: "Mayor capacidad", labelColor: "amber", tagline: "Utile UT-1108: hasta 200 kg, el análisis más completo" },
+      { productMlaId: "MLA65535495", label: "Con análisis corporal", labelColor: "amber", tagline: "Utile UT-1108: hasta 200 kg, el análisis más completo" },
       { productMlaId: "MLA60038492", label: "Sin pilas", labelColor: "purple", tagline: "Noga NG-B01: se recarga por USB, nunca compras pilas" },
     ],
     intro: [
@@ -5366,7 +5360,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     sections: [
       { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_845343-MLA114064454295_072026-O.webp", alt: `Balanza digital Femmto, la más vendida de Argentina`, imageSize: "hero" },
 
-      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Si solo querés saber tu peso, la **[Femmto BWS11](/producto/balanza-digital-con-bluetooth-personal-de-bano-peso-corporal-180-kg-diseno-minim-mla15503957)** es la más vendida y la más barata. Si además querés **grasa corporal, IMC y una app**, la **[Femmto BCS15](/producto/balanza-digital-con-bluetooth-femmto-bcs15-para-bano-medidor-de-grasa-corporal-y-mla19147005)** suma eso por poco más. Si necesitás **más capacidad**, la **[Utile UT-1108](/producto/balanza-de-bano-personal-inteligente-bluetooth-200-kg-utile-azul-mla65535495)** llega a 200 kg. Y si no querés depender nunca de pilas, la **[Noga NG-B01](/producto/balanza-digital-smart-fitness-med-corp-app-recargable-noga-blanco-mla60038492)** se recarga por USB.` },
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Si solo querés saber tu peso, la **[Femmto BWS11](/producto/balanza-digital-con-bluetooth-personal-de-bano-peso-corporal-180-kg-diseno-minim-mla15503957)** es la más vendida y la más barata. Si además querés **grasa corporal, IMC y una app**, la **[Utile UT-1108](/producto/balanza-de-bano-personal-inteligente-bluetooth-200-kg-utile-azul-mla65535495)** llega a 200 kg y da el análisis más completo. Y si no querés depender nunca de pilas, la **[Noga NG-B01](/producto/balanza-digital-smart-fitness-med-corp-app-recargable-noga-blanco-mla60038492)** se recarga por USB.` },
 
       { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos las balanzas digitales con más ventas y opiniones reales en MercadoLibre Argentina. Las ordenamos por lo que define la compra: si **solo pesan** o suman **grasa corporal e IMC**, si sincronizan con una **app**, la precisión según las reseñas y el precio. Las calificaciones son de compradores reales. Los precios que ves en las fichas y tablas se revisan contra MercadoLibre tres veces por semana.` },
 
@@ -5382,10 +5376,11 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "p", content: `Lo honesto: no mide grasa corporal ni IMC, y aunque tiene Bluetooth en la ficha, no sincroniza con ninguna app en la práctica. Para eso, mirá la versión con análisis corporal de abajo.` },
       { type: "pull-quote", content: `"Me pareció perfecto el precio en cuanto a calidad y lo práctico que es. La volvería a comprar sin dudarlo."`, attribution: `Opinión verificada en MercadoLibre` },
 
-      { type: "h3", title: `2. Femmto BCS15 — con análisis corporal` },
+      { type: "h3", title: `2. Femmto BCS15 — con análisis corporal (sin stock)` },
       { type: "product-card", productMlaId: "MLA19147005", label: "Con análisis corporal", labelColor: "blue", ranking: 2, description: `Grasa corporal, IMC y sincronización con app (iOS/Android). 4.8 estrellas en más de 41.000 calificaciones.` },
-      { type: "p", content: `Si querés más que el peso, esta Femmto suma **grasa corporal, IMC y sincronización por Bluetooth** con una app para iOS y Android, a alrededor de {{precio:MLA19147005:k}}. Con más de 41.000 opiniones, tiene el segundo mayor respaldo de esta comparativa, y las reseñas destacan lo consistente que es pesándose varias veces seguidas.` },
+      { type: "p", content: `Si querés más que el peso, esta Femmto suma **grasa corporal, IMC y sincronización por Bluetooth** con una app para iOS y Android. Con más de 41.000 opiniones, tenía el segundo mayor respaldo de esta comparativa, y las reseñas destacan lo consistente que es pesándose varias veces seguidas.` },
       { type: "p", content: `Un dato práctico que casi nadie avisa: los sensores traen una **cinta plástica de protección** que hay que retirar antes del primer uso, o la balanza solo va a mostrar el peso. Sacándola, funciona como corresponde.` },
+      { type: "callout", calloutVariant: "note", calloutTitle: "Actualmente sin stock", content: `Confirmamos en vivo que esta Femmto BCS15 está agotada por el momento. La dejamos documentada porque suele reponerse. [Ver ficha](/producto/balanza-digital-con-bluetooth-femmto-bcs15-para-bano-medidor-de-grasa-corporal-y-mla19147005) para chequear disponibilidad, o mirá la [Utile UT-1108](/producto/balanza-de-bano-personal-inteligente-bluetooth-200-kg-utile-azul-mla65535495) como alternativa con análisis corporal disponible ahora.` },
       { type: "pull-quote", content: `"Junto a la aplicación muestra muchos parámetros y es posible hacer un seguimiento de los mismos. Lo único malo es que en ningún lugar te dice que hay que retirar una cinta plástica que viene en los sensores."`, attribution: `Opinión verificada en MercadoLibre` },
 
       { type: "h3", title: `3. Omron HN-289 — marca reconocida (sin stock)` },
@@ -5395,25 +5390,25 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "h3", title: `4. Utile UT-1108 — la de mayor capacidad` },
       { type: "product-card", productMlaId: "MLA65535495", label: "Mayor capacidad", labelColor: "purple", ranking: 4, description: `Hasta 200 kg y el análisis más completo (grasa, agua, masa muscular y ósea) con app iMon. 4.9 estrellas, aunque con pocas calificaciones todavía.` },
       { type: "p", content: `Si necesitás más capacidad que el resto de esta guía, la Utile UT-1108 llega a **200 kg** y mide grasa corporal, agua, masa muscular, masa ósea y grasa visceral con la app iMon (Android), a alrededor de {{precio:MLA65535495:k}}.` },
-      { type: "p", content: `Lo honesto: todavía tiene pocas calificaciones (17), aunque todas muy positivas. Si preferís ir a lo más probado, la Femmto BCS15 tiene mucho más historial; si necesitás la capacidad o el análisis más completo, esta es la única que lo ofrece.` },
+      { type: "p", content: `Lo honesto: todavía tiene pocas calificaciones (17), aunque todas muy positivas. Con la Femmto BCS15 sin stock, es la única con análisis corporal disponible ahora mismo en esta guía.` },
 
       { type: "h3", title: `5. Noga NG-B01 — la que no usa pilas` },
       { type: "product-card", productMlaId: "MLA60038492", label: "Sin pilas", labelColor: "green", ranking: 5, description: `Se recarga por cable USB, sin pilas. 4.9 estrellas en 381 calificaciones.` },
       { type: "p", content: `Si no querés depender de comprar pilas, la Noga NG-B01 se **recarga por cable USB**, a alrededor de {{precio:MLA60038492:k}}. Una reseña la probó pesando a 4 personas distintas y siempre marcó el valor correcto.` },
-      { type: "p", content: `La ficha técnica no confirma oficialmente un medidor de grasa corporal, aunque varias reseñas mencionan que la app conectada muestra datos adicionales. Para grasa corporal confirmada en la ficha, la Femmto BCS15 es más segura.` },
+      { type: "p", content: `La ficha técnica no confirma oficialmente un medidor de grasa corporal, aunque varias reseñas mencionan que la app conectada muestra datos adicionales. Para grasa corporal confirmada en la ficha, la Utile UT-1108 es más segura.` },
 
       { type: "h2", title: `Tabla comparativa: por funciones y precio`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Grasa corporal / IMC`, `App`, `Ideal para`], rows: [
         [`[Femmto BWS11](https://meli.la/2uS8m62)`, `{{precio:MLA15503957}}`, `No`, `No`, `Solo pesar, la más vendida`],
         [`[Noga NG-B01](https://meli.la/1xGT4Bq)`, `{{precio:MLA60038492}}`, `No confirmado`, `Sí (según reseñas)`, `No usa pilas, se recarga por USB`],
-        [`[Femmto BCS15](https://meli.la/1JsFuZh)`, `{{precio:MLA19147005}}`, `Sí`, `Sí (iOS/Android)`, `Análisis corporal accesible`],
         [`[Utile UT-1108](https://meli.la/2GzBmsp)`, `{{precio:MLA65535495}}`, `Sí (el más completo)`, `Sí (iMon, Android)`, `Mayor capacidad (200 kg)`],
+        [`[Femmto BCS15 (sin stock)](/producto/balanza-digital-con-bluetooth-femmto-bcs15-para-bano-medidor-de-grasa-corporal-y-mla19147005)`, `—`, `Sí`, `Sí (iOS/Android)`, `Análisis corporal, cuando repongan`],
         [`[Omron HN-289 (sin stock)](/producto/balanza-digital-omron-premium-hn-289-silky-grey-hasta-150-kg-mla15286360)`, `—`, `No`, `No`, `Marca médica, cuando repongan`],
       ] },
 
       { type: "h2", title: `Cómo elegir tu balanza digital`, id: "como-elegir" },
       { type: "h3", title: `1. ¿Solo peso o análisis corporal?` },
-      { type: "p", content: `Si te alcanza con saber cuánto pesás, una básica como la [Femmto BWS11](/producto/balanza-digital-con-bluetooth-personal-de-bano-peso-corporal-180-kg-diseno-minim-mla15503957) cumple de sobra. Si querés grasa corporal, IMC y un historial en el tiempo, necesitás una con Bluetooth y app de verdad, como la [Femmto BCS15](/producto/balanza-digital-con-bluetooth-femmto-bcs15-para-bano-medidor-de-grasa-corporal-y-mla19147005) o la [Utile UT-1108](/producto/balanza-de-bano-personal-inteligente-bluetooth-200-kg-utile-azul-mla65535495).` },
+      { type: "p", content: `Si te alcanza con saber cuánto pesás, una básica como la [Femmto BWS11](/producto/balanza-digital-con-bluetooth-personal-de-bano-peso-corporal-180-kg-diseno-minim-mla15503957) cumple de sobra. Si querés grasa corporal, IMC y un historial en el tiempo, necesitás una con Bluetooth y app de verdad, como la [Utile UT-1108](/producto/balanza-de-bano-personal-inteligente-bluetooth-200-kg-utile-azul-mla65535495).` },
       { type: "h3", title: `2. Capacidad de peso y pilas` },
       { type: "p", content: `La mayoría de esta guía llega a 150-180 kg; si necesitás más, la [Utile UT-1108](/producto/balanza-de-bano-personal-inteligente-bluetooth-200-kg-utile-azul-mla65535495) llega a 200 kg. Y si te cansa comprar pilas, la [Noga NG-B01](/producto/balanza-digital-smart-fitness-med-corp-app-recargable-noga-blanco-mla60038492) se recarga por USB, la única de esta guía con esa opción.` },
       { type: "h3", title: `3. El IMC no es una sentencia` },
@@ -5424,15 +5419,15 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "list", items: [
         `**Alrededor de {{precio:MLA15503957:k}}:** la básica que solo pesa, la [Femmto BWS11](https://meli.la/2uS8m62), la más vendida.`,
         `**Alrededor de {{precio:MLA60038492:k}}:** la que se recarga por USB, la [Noga NG-B01](https://meli.la/1xGT4Bq).`,
-        `**Alrededor de {{precio:MLA19147005:k}} a {{precio:MLA65535495:k}}:** con análisis corporal, la [Femmto BCS15](https://meli.la/1JsFuZh) y la [Utile UT-1108](https://meli.la/2GzBmsp) (mayor capacidad).`,
+        `**Alrededor de {{precio:MLA65535495:k}}:** con análisis corporal y mayor capacidad, la [Utile UT-1108](https://meli.la/2GzBmsp) (la Femmto BCS15 está sin stock por el momento).`,
         `**Alrededor de {{precio:MLA15286360:k}}:** la marca médica reconocida, la [Omron HN-289](/producto/balanza-digital-omron-premium-hn-289-silky-grey-hasta-150-kg-mla15286360) (sin stock por el momento).`,
       ] },
 
       { type: "h2", title: `Veredicto: cuál balanza digital comprar`, id: "veredicto" },
-      { type: "verdict", content: `Para la mayoría, la **[Femmto BWS11](/producto/balanza-digital-con-bluetooth-personal-de-bano-peso-corporal-180-kg-diseno-minim-mla15503957)**: la más vendida, precisa y la más barata, si solo te interesa el peso. Si querés **grasa corporal, IMC y app**, la **[Femmto BCS15](/producto/balanza-digital-con-bluetooth-femmto-bcs15-para-bano-medidor-de-grasa-corporal-y-mla19147005)** (acordate de sacar la cinta de los sensores). Si necesitás **más capacidad** o el análisis más completo, la **[Utile UT-1108](/producto/balanza-de-bano-personal-inteligente-bluetooth-200-kg-utile-azul-mla65535495)**. Y si no querés depender de pilas, la **[Noga NG-B01](/producto/balanza-digital-smart-fitness-med-corp-app-recargable-noga-blanco-mla60038492)**. La **Omron HN-289**, marca médica reconocida, está sin stock por el momento. El error a evitar: alarmarte por una clasificación de IMC sin consultar a un profesional si te preocupa de verdad.` },
+      { type: "verdict", content: `Para la mayoría, la **[Femmto BWS11](/producto/balanza-digital-con-bluetooth-personal-de-bano-peso-corporal-180-kg-diseno-minim-mla15503957)**: la más vendida, precisa y la más barata, si solo te interesa el peso. Si querés **grasa corporal, IMC y app**, la **[Utile UT-1108](/producto/balanza-de-bano-personal-inteligente-bluetooth-200-kg-utile-azul-mla65535495)** da el análisis más completo y llega a 200 kg. Y si no querés depender de pilas, la **[Noga NG-B01](/producto/balanza-digital-smart-fitness-med-corp-app-recargable-noga-blanco-mla60038492)**. La **Femmto BCS15** y la **Omron HN-289** están sin stock por el momento; las dejamos documentadas porque suelen reponerse. El error a evitar: alarmarte por una clasificación de IMC sin consultar a un profesional si te preocupa de verdad.` },
     ],
     faq: [
-      { question: `¿Cuál es la mejor balanza digital en Argentina?`, answer: `Por ventas, la [Femmto BWS11](https://meli.la/2uS8m62): la más vendida y barata, aunque solo pesa. Si querés grasa corporal e IMC, la [Femmto BCS15](https://meli.la/1JsFuZh); si necesitás más capacidad, la [Utile UT-1108](https://meli.la/2GzBmsp) llega a 200 kg.` },
+      { question: `¿Cuál es la mejor balanza digital en Argentina?`, answer: `Por ventas, la [Femmto BWS11](https://meli.la/2uS8m62): la más vendida y barata, aunque solo pesa. Si querés grasa corporal, IMC y más capacidad, la [Utile UT-1108](https://meli.la/2GzBmsp) llega a 200 kg.` },
       { question: `¿Qué diferencia hay entre una balanza digital básica y una con análisis corporal?`, answer: `La básica solo mide peso. La de análisis corporal se conecta por Bluetooth a una app y suma grasa corporal, IMC y a veces masa muscular, con historial en el tiempo. La básica es más barata y no depende de ninguna app.` },
       { question: `¿Por qué mi balanza con Bluetooth solo muestra el peso?`, answer: `En algunos modelos, los sensores traen una cinta plástica de protección que hay que retirar antes del primer uso. Sin sacarla, la balanza solo pesa. Revisá ese detalle antes de asumir que el resto de las funciones no anda.` },
       { question: `¿Es confiable el cálculo de IMC de estas balanzas?`, answer: `Sirve como referencia general, pero cada marca usa su propia tabla, así que pueden marcar "sobrepeso" con un peso que otras tablas consideran normal. No lo tomes como diagnóstico médico; ante cualquier duda de salud, consultá a un profesional.` },
@@ -7604,13 +7599,6 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
             "Uso prolongado en oficina",
             "Cubre toda la espalda, menos específico para cuello",
           ],
-          [
-            "[Asiento masajeador para auto](/producto/masajeador-de-espalda-asiento-cuello-auto-silla-vibra-calor-mlau274288377)",
-            "Asiento vibración, calor, para auto o silla",
-            "Sí",
-            "Uso prolongado en auto o casa",
-            "Vibración sin shiatsu, y el más barato de los dos asientos",
-          ],
         ],
       },
       { type: "h2", title: "Calor vs. sin calor: qué diferencia hace" },
@@ -7749,13 +7737,6 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
         description: "Asiento shiatsu con calor y vibración para cervicales, espalda y lumbar. Es el formato para quedarse sentado un rato largo, no para andar por la casa.",
       },
       {
-        type: "product-card",
-        productMlaId: "MLAU274288377",
-        label: "Para el auto",
-        labelColor: "slate",
-        description: "Asiento con vibración y calor pensado para la butaca del auto o una silla de escritorio.",
-      },
-      {
         type: "bad",
         content:
           "Lo que no recomiendo: masajeadores genéricos de menos de $15.000. Hay masajeadores tipo U sin marca por $12.000-$16.000 que se ven tentadores. No los compres. Se sienten como un juguete. La vibración es débil, el material del forro suele ser áspero contra la piel, y varios se rompen a las pocas semanas. Las reviews en MercadoLibre lo confirman: filtrá las de 1-2 estrellas y vas a ver que sobran quejas. Si tu presupuesto máximo es $15.000, mejor comprar un masajeador manual de esos con dos bolas de madera. Suena a chiste pero funciona mejor que estos aparatos.",
@@ -7886,18 +7867,18 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     title: "Pava Philips: ¿vale la pena pagar premium?",
     seoTitle: "Pava eléctrica Philips: ¿vale la pena? Guía 2026",
     metaDescription:
-      "Philips cobra {{precio:MLA24601443:k}} por una pava. ¿Vale la pena frente a una Atma de {{precio:MLA49747515:k}}? Comparativa honesta y cuándo sí conviene comprarla.",
+      "Philips cobra {{precio:MLA24601443:k}} por una pava. ¿Vale la pena frente a una Atma de {{precio:MLAU4016948916:k}}? Comparativa honesta y cuándo sí conviene comprarla.",
     ogTitle: "Pava eléctrica Philips: ¿vale la pena el precio premium?",
     ogDescription:
       "Comparativa honesta de pavas Philips frente a Atma, Peabody y Oster. Cuándo sí vale y cuándo no.",
     h1: "Pava eléctrica Philips: ¿vale la pena pagar el precio premium?",
     publishedDate: "2026-04-13",
-    updatedDate: "2026-07-08",
+    updatedDate: "2026-08-31",
     hasDisclosure: true,
     standfirst: "Philips cobra el doble o el triple que una Atma o Peabody. Comparamos si la diferencia se nota de verdad, cuándo se justifica pagar el premium y cuándo no.",
     quickPicks: [
       { productMlaId: "MLA24601443", label: "La Philips que se justifica", labelColor: "green", tagline: "Acero completo, dura 4-5 años con uso diario" },
-      { productMlaId: "MLA49747515", label: "Mejor relación precio", labelColor: "amber", tagline: "Alrededor de la mitad del precio, con service en Argentina" },
+      { productMlaId: "MLAU4016948916", label: "Mejor relación precio", labelColor: "amber", tagline: "Interior de acero, con service en Argentina" },
       { productMlaId: "MLA47275624", label: "Si necesitás control de temperatura", labelColor: "blue", tagline: "Control continuo 40-100°, algo que Philips básica no tiene" },
       { productMlaId: "MLA47183370", label: "El premium de diseño", labelColor: "purple", tagline: "Doble pared y 6 niveles de temperatura" },
     ],
@@ -7912,7 +7893,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "h2", title: "Resumen rápido: cuál comprar según tu caso", id: "resumen-rapido" },
       { type: "list", items: [
         "**La Philips que se justifica:** [Philips HD9350](https://meli.la/2kpg1Zr) — acero completo, dura 4-5 años con uso diario.",
-        "**Mejor relación precio:** [Atma PEAT1351](https://meli.la/1TBSj3K) — alrededor de la mitad del precio, con service en Argentina.",
+        "**Mejor relación precio:** [Atma PEAT1351](https://meli.la/1rMrWSu) — interior de acero, con service en Argentina.",
         "**Si necesitás control de temperatura:** [Peabody PE-DK2200N](https://meli.la/2cyQgD2) — control continuo 40-100°, algo que Philips básica no tiene.",
         "**El premium de diseño:** [Philips HD9396](https://meli.la/1nfm8ft) — doble pared y 6 niveles de temperatura.",
       ] },
@@ -7932,8 +7913,8 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "pull-quote", content: "Excelente, si bien muchos se quejan que no tiene para regular la temperatura, yo me quedo al lado 2 minutos y voy tanteando que temperatura quiero [...] yo tuve una pava electrica philips mas de 12 años y la cambie porque ya estaba viejita, pero la verdad es una marca excelente para estas cosas.", attribution: "— Comprador verificado en MercadoLibre, hace 7 meses · 6 personas lo encontraron útil" },
 
       { type: "h3", title: "2. Atma PEAT1351 — mejor relación precio" },
-      { type: "product-card", productMlaId: "MLA49747515", label: "Mejor relación precio", labelColor: "amber", ranking: 2, description: "Interior de acero inoxidable, 1.8L, marca argentina con service local. Alrededor de la mitad del precio de la Philips. 4.7 estrellas." },
-      { type: "p", content: "Gana en precio (cuesta bastante menos), servicio técnico en Argentina y disponibilidad de repuestos. Empata con la Philips en velocidad de hervor y capacidad. Pierde en durabilidad estimada (2-3 años vs 4-5) y en terminaciones." },
+      { type: "product-card", productMlaId: "MLAU4016948916", label: "Mejor relación precio", labelColor: "amber", ranking: 2, description: "Interior de acero inoxidable, exterior plástico, 1.8L, marca argentina con service local. Publicación nueva (sin reseñas todavía), mismo modelo de siempre." },
+      { type: "p", content: "Gana en precio (cuesta bastante menos), servicio técnico en Argentina y disponibilidad de repuestos, y tiene más capacidad (1.8L vs 1.7L). Pierde en que el exterior es plástico (no acero completo como la Philips) y en durabilidad estimada (2-3 años vs 4-5). Ojo: es una publicación nueva de otro vendedor, sin historial de reseñas propio todavía — la anterior, con miles de calificaciones, se agotó." },
 
       { type: "h3", title: "3. Peabody PE-DK2200N — si necesitás control de temperatura" },
       { type: "product-card", productMlaId: "MLA47275624", label: "Control de temperatura", labelColor: "blue", ranking: 3, description: "Pantalla digital, control continuo de temperatura (40°-100°), función mantener caliente. 4.9 estrellas, el rating más alto de la comparativa." },
@@ -7953,7 +7934,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
         headers: ["Modelo", "Precio", "Material", "Control temp", "Ideal para"],
         rows: [
           ["[Philips HD9350](https://meli.la/2kpg1Zr)", "{{precio:MLA24601443}}", "Acero completo", "No", "La Philips que sí se justifica"],
-          ["[Atma PEAT1351](https://meli.la/1TBSj3K)", "{{precio:MLA49747515}}", "Acero interior", "No", "Presupuesto ajustado"],
+          ["[Atma PEAT1351](https://meli.la/1rMrWSu)", "{{precio:MLAU4016948916}}", "Interior acero", "No", "Presupuesto ajustado"],
           ["[Peabody PE-DK2200N](https://meli.la/2cyQgD2)", "{{precio:MLA47275624}}", "Acero completo", "Continuo 40-100°", "Necesitás temperatura exacta"],
           ["[Oster con control de temperatura](https://meli.la/1JfvkMc)", "{{precio:MLA11145436}}", "Plástico", "Sí (mate)", "Función mate con otra marca"],
           ["[Philips HD9396](https://meli.la/1nfm8ft)", "{{precio:MLA47183370}}", "Acero completo", "6 niveles preseteados", "Diseño y doble pared"],
@@ -7964,13 +7945,13 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "h3", title: "Garantía oficial vs. importados" },
       { type: "p", content: "En MercadoLibre hay distribuidores oficiales (garantía oficial Philips, precio un poco más alto) e importadores (traen de afuera, un poco más barato, pero con garantía del importador, no de Philips). Si vas a pagar por una Philips, vale la pena pagar el extra y comprarla con garantía oficial." },
       { type: "h3", title: 'El mito del "dura para siempre"' },
-      { type: "p", content: "Escuchamos mil veces: las Philips duran toda la vida. No. Una buena pava Philips dura 4-6 años con uso diario. Una económica dura 2-3. Con los precios de hoy, Philips {{precio:MLA24601443:k}} ÷ 5 años sale más barata por año de lo que parece a simple vista frente a Atma {{precio:MLA49747515:k}} ÷ 2.5 años. La ventaja real es no tener que comprar cada 2 años, no el precio por año." },
+      { type: "p", content: "Escuchamos mil veces: las Philips duran toda la vida. No. Una buena pava Philips dura 4-6 años con uso diario. Una económica dura 2-3. Con los precios de hoy, Philips {{precio:MLA24601443:k}} ÷ 5 años sale más barata por año de lo que parece a simple vista frente a Atma {{precio:MLAU4016948916:k}} ÷ 2.5 años. La ventaja real es no tener que comprar cada 2 años, no el precio por año." },
 
       { type: "callout", calloutVariant: "tip", calloutTitle: "Cuándo sí vale la pena una Philips", content: "Tu pava actual se rompe cada 1-2 años, tomás mate o té 5+ veces por día, te molesta el sabor a plástico, o querés algo que no falle. En esos casos, la inversión se justifica." },
       { type: "callout", calloutVariant: "warning", calloutTitle: "Cuándo NO vale la pena", content: "Tu pava actual dura 3-4 años, solo hervís agua ocasionalmente, necesitás control de temperatura (Philips básica no tiene, mirá la Peabody), o tenés presupuesto ajustado (la Atma hace el mismo trabajo por bastante menos)." },
 
       { type: "h2", title: "Veredicto: cuál comprar", id: "veredicto" },
-      { type: "verdict", content: "Si tu pava actual te dura 1-2 años y después se rompe, la [Philips HD9350](https://meli.la/2kpg1Zr) puede ser buena inversión. Si te dura 3-4 años, la [Atma PEAT1351](https://meli.la/1TBSj3K) hace lo mismo por bastante menos. ¿Necesitás control de temperatura? Ninguna Philips básica lo tiene: andá directo a la [Peabody PE-DK2200N](https://meli.la/2cyQgD2)." },
+      { type: "verdict", content: "Si tu pava actual te dura 1-2 años y después se rompe, la [Philips HD9350](https://meli.la/2kpg1Zr) puede ser buena inversión. Si te dura 3-4 años, la [Atma PEAT1351](https://meli.la/1rMrWSu) hace lo mismo por bastante menos (es una publicación nueva, sin reseñas propias todavía). ¿Necesitás control de temperatura? Ninguna Philips básica lo tiene: andá directo a la [Peabody PE-DK2200N](https://meli.la/2cyQgD2)." },
     ],
     faq: [
       {
@@ -8008,7 +7989,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     internalLinks: [
       { label: "Ver Philips HD9350", href: "https://meli.la/2kpg1Zr" },
       { label: "Ver Philips HD9396 premium", href: "https://meli.la/1nfm8ft" },
-      { label: "Ver Atma PEAT1351", href: "https://meli.la/1TBSj3K" },
+      { label: "Ver Atma PEAT1351", href: "https://meli.la/1rMrWSu" },
       { label: "Ver Peabody digital", href: "https://meli.la/2cyQgD2" },
       { label: "Ver Oster con control temp", href: "https://meli.la/1JfvkMc" },
       { label: "Ver Peabody PE-DK1850 acero", href: "https://meli.la/2T7Y1zd" },
@@ -8040,11 +8021,11 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       "El modelo PEAT1351 es el que vale la pena. El PE0821AP no. Acá te explicamos por qué.",
     h1: "Pava eléctrica Atma: la mejor opción argentina calidad-precio",
     publishedDate: "2026-04-20",
-    updatedDate: "2026-07-08",
+    updatedDate: "2026-08-31",
     hasDisclosure: true,
     standfirst: "Atma es la marca argentina más vendida de pavas eléctricas: service en todo el país y precio accesible. Te contamos cuál modelo vale la pena y cuál evitar.",
     quickPicks: [
-      { productMlaId: "MLA49747515", label: "El modelo Atma recomendado", labelColor: "green", tagline: "Interior de acero, 1.8L, la más grande del catálogo" },
+      { productMlaId: "MLAU4016948916", label: "El modelo Atma recomendado", labelColor: "green", tagline: "Interior de acero, 1.8L (publicación nueva, sin reseñas todavía)" },
       { productMlaId: "MLA24601443", label: "Si querés acero completo", labelColor: "blue", tagline: "Interior y exterior de acero, dura más" },
       { productMlaId: "MLA47275624", label: "Si necesitás control de temperatura", labelColor: "purple", tagline: "Control continuo 40-100°" },
       { productMlaId: "MLA61505857", label: "Alternativa económica con acero", labelColor: "amber", tagline: "Acero completo por menos" },
@@ -8052,14 +8033,16 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     intro: [
       "Atma es argentina. Tiene servicio técnico en todo el país. Y cuesta bastante menos que una Philips.",
       "La pregunta que todos se hacen es: ¿será buena o es \"barata y mala\"?",
-      "Usamos una Atma PEAT1351 durante dos meses. La llenamos de sarro a propósito para ver cómo aguantaba. Sigue funcionando. No es perfecta. Tiene sus problemas. Pero por {{precio:MLA49747515}} hace lo que tiene que hacer: hierve agua y el interior de acero no altera el sabor.",
+      "Usamos una Atma PEAT1351 (la versión negra, hoy descontinuada) durante dos meses. La llenamos de sarro a propósito para ver cómo aguantaba. Siguió funcionando. No es perfecta. Tiene sus problemas. Pero hace lo que tiene que hacer: hierve agua y el interior de acero no altera el sabor. Es exactamente el mismo modelo que analizamos acá, ahora en una publicación nueva (blanca, de otro vendedor) por {{precio:MLAU4016948916}}.",
     ],
     sections: [
-      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_929996-MLA95691305800_102025-F.webp", alt: "Atma PEAT1351, interior de acero inoxidable, el modelo Atma recomendado", imageSize: "hero" },
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_869906-MLA114993395092_082026-F.webp", alt: "Atma PEAT1351, interior de acero inoxidable, el modelo Atma recomendado", imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "note", calloutTitle: "La publicación original se agotó", content: "La Atma PEAT1351 que probamos y usamos como referencia en esta guía se vendía en una publicación negra con miles de calificaciones acumuladas. Esa publicación se agotó. La que está disponible hoy es de otro vendedor, en blanco, y todavía no tiene reseñas propias — es el mismo modelo, con la misma ficha técnica, pero no vamos a repetir claims de \"la más votada\" que ya no aplican a esta publicación puntual." },
 
       { type: "h2", title: "Resumen rápido: cuál comprar según tu caso", id: "resumen-rapido" },
       { type: "list", items: [
-        "**El modelo Atma recomendado:** [Atma PEAT1351](https://meli.la/1TBSj3K) — interior de acero, 1.8L, la más grande del catálogo.",
+        "**El modelo Atma recomendado:** [Atma PEAT1351](https://meli.la/1rMrWSu) — interior de acero, 1.8L (publicación nueva, sin reseñas todavía).",
         "**Si querés acero completo:** [Philips HD9350](https://meli.la/2kpg1Zr) — interior y exterior de acero, dura más.",
         "**Si necesitás control de temperatura:** [Peabody PE-DK2200N](https://meli.la/2cyQgD2) — control continuo de 40 a 100°.",
         "**Alternativa económica con acero:** [Liliana AP152](https://meli.la/1QMfKob) — acero completo por menos plata.",
@@ -8073,30 +8056,29 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "h2", title: "El ranking: el modelo Atma y sus alternativas", id: "ranking" },
 
       { type: "h3", title: "1. Atma PEAT1351 — el modelo Atma recomendado" },
-      { type: "product-card", productMlaId: "MLA49747515", label: "El modelo Atma recomendado", labelColor: "green", ranking: 1, description: "Interior acero inoxidable (no altera sabor del agua), exterior plástico negro, 1.8 litros, 1500W. 4.7 estrellas en 3.612 calificaciones, la base de opiniones más grande del catálogo de pavas." },
-      { type: "p", content: "Lo bueno: agua sin sabor a plástico, 1.8L llenan dos termos, negra (no se nota suciedad), y cuesta {{preciodif:MLA24601443:MLA49747515}} menos que la Philips HD9350. Lo malo: 1500W hierve un poco más lento que las de 2200W, el exterior sigue siendo plástico, y no tiene control de temperatura." },
-      { type: "pull-quote", content: "El producto es muy bueno!! es una opción a buen precio que te ofrece otro material mejor que el plástico! lo único que le agregaria es corte para mate pero vas viendo y te das cuenta!! [...] pruebenlo y tomense unos ricos mates.", attribution: "— Compradora verificada en MercadoLibre, hace 7 meses · 155 personas lo encontraron útil" },
+      { type: "product-card", productMlaId: "MLAU4016948916", label: "El modelo Atma recomendado", labelColor: "green", ranking: 1, description: "Interior acero inoxidable (no altera sabor del agua), exterior plástico blanco, 1.8 litros, 1500W. Publicación nueva de otro vendedor, sin reseñas todavía." },
+      { type: "p", content: "Lo bueno: agua sin sabor a plástico, 1.8L llenan dos termos, y cuesta {{preciodif:MLA24601443:MLAU4016948916}} menos que la Philips HD9350. Lo malo: 1500W hierve un poco más lento que las de 2200W, el exterior sigue siendo plástico, no tiene control de temperatura, y esta publicación puntual todavía no tiene historial de reseñas (la anterior, con miles, se agotó)." },
 
-      { type: "callout", calloutVariant: "warning", calloutTitle: "El modelo Atma que no recomendamos", content: "No compres el [Atma PE0821AP](https://meli.la/27qLeLL) ({{precio:MLA19589524}}): es de plástico completo (interior y exterior), así que después de 6-12 meses el agua hervida empieza a tener sabor raro. La PEAT1351 tiene interior de acero por apenas {{preciodif:MLA49747515:MLA19589524}} más." },
+      { type: "callout", calloutVariant: "warning", calloutTitle: "El modelo Atma que no recomendamos", content: "No compres el [Atma PE0821AP](https://meli.la/27qLeLL) ({{precio:MLA19589524}}): es de plástico completo (interior y exterior), así que después de 6-12 meses el agua hervida empieza a tener sabor raro. La PEAT1351 tiene interior de acero por apenas {{preciodif:MLAU4016948916:MLA19589524}} más." },
 
       { type: "h3", title: "2. Philips HD9350 — si querés acero completo" },
       { type: "product-card", productMlaId: "MLA24601443", label: "Acero completo", labelColor: "blue", ranking: 2, description: "Acero inoxidable completo (interior y exterior), 1.7L, 2200W. 4.7 estrellas en 230 calificaciones." },
-      { type: "p", content: "Gana en velocidad de hervor (2200W vs 1500W) y durabilidad estimada (4-5 años vs 2-3), con construcción completamente de acero. Cuesta {{preciodif:MLA24601443:MLA49747515}} más que la Atma — vale la pena si priorizás que dure más años y no te importa pagar el extra." },
+      { type: "p", content: "Gana en velocidad de hervor (2200W vs 1500W) y durabilidad estimada (4-5 años vs 2-3), con construcción completamente de acero. Cuesta {{preciodif:MLA24601443:MLAU4016948916}} más que la Atma — vale la pena si priorizás que dure más años y no te importa pagar el extra." },
 
       { type: "h3", title: "3. Peabody PE-DK2200N — si necesitás control de temperatura" },
       { type: "product-card", productMlaId: "MLA47275624", label: "Control de temperatura", labelColor: "purple", ranking: 3, description: "Acero completo, control continuo de temperatura de 40 a 100°, mantiene el calor. 4.9 estrellas, el rating más alto de la comparativa." },
       { type: "p", content: "Ninguna Atma tiene control de temperatura real. Si necesitás elegir el grado exacto para mate, té verde o café de especialidad, esta es la opción — no una Atma." },
 
       { type: "h3", title: "4. Liliana AP152 — alternativa económica con acero" },
-      { type: "product-card", productMlaId: "MLA61505857", label: "Acero económico", labelColor: "amber", ranking: 4, description: "Acero inoxidable completo, 1.7L, selector mate fijo, base giratoria 360°. 4.7 estrellas en 529 calificaciones." },
-      { type: "p", content: "Es acero completo (no solo interior, como la Atma) por {{preciodif:MLA49747515:MLA61505857}} menos. Tiene menos capacidad (1.7L vs 1.8L) y un selector mate fijo en vez de niveles, pero si el presupuesto manda, es la de acero más barata del mercado." },
+      { type: "product-card", productMlaId: "MLA61505857", label: "Acero económico", labelColor: "amber", ranking: 4, description: "Acero inoxidable completo, 1.7L, selector mate fijo, base giratoria 360°. 4.7 estrellas en 614 calificaciones." },
+      { type: "p", content: "Es acero completo (no solo interior, como la Atma) por {{preciodif:MLAU4016948916:MLA61505857}} menos. Tiene menos capacidad (1.7L vs 1.8L) y un selector mate fijo en vez de niveles, y a diferencia de esta publicación de Atma, ya tiene cientos de reseñas propias." },
 
       { type: "h2", title: "Tabla comparativa", id: "tabla-comparativa" },
       {
         type: "table",
         headers: ["Modelo", "Precio", "Material", "Control temp", "Ideal para"],
         rows: [
-          ["[Atma PEAT1351](https://meli.la/1TBSj3K)", "{{precio:MLA49747515}}", "Interior acero", "No", "El modelo Atma recomendado"],
+          ["[Atma PEAT1351](https://meli.la/1rMrWSu)", "{{precio:MLAU4016948916}}", "Interior acero", "No", "El modelo Atma recomendado"],
           ["[Philips HD9350](https://meli.la/2kpg1Zr)", "{{precio:MLA24601443}}", "Acero completo", "No", "Acero completo, más durabilidad"],
           ["[Peabody PE-DK2200N](https://meli.la/2cyQgD2)", "{{precio:MLA47275624}}", "Acero completo", "Continuo 40-100°", "Necesitás temperatura exacta"],
           ["[Liliana AP152](https://meli.la/1QMfKob)", "{{precio:MLA61505857}}", "Acero completo", "No", "Acero completo, la más económica"],
@@ -8129,13 +8111,18 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       ] },
 
       { type: "h2", title: "Veredicto: cuál comprar", id: "veredicto" },
-      { type: "verdict", content: "Comprá la [Atma PEAT1351](https://meli.la/1TBSj3K) por {{precio:MLA49747515}}: interior de acero, 1.8L, la más grande base de opiniones del catálogo. ¿Querés acero completo y más durabilidad? La [Philips HD9350](https://meli.la/2kpg1Zr). ¿Necesitás control de temperatura? Ninguna Atma lo tiene: andá directo a la [Peabody PE-DK2200N](https://meli.la/2cyQgD2)." },
+      { type: "verdict", content: "Comprá la [Atma PEAT1351](https://meli.la/1rMrWSu) por {{precio:MLAU4016948916}}: interior de acero, 1.8L, la misma ficha técnica de siempre (aunque esta publicación puntual todavía no tiene reseñas propias). ¿Querés acero completo y más durabilidad? La [Philips HD9350](https://meli.la/2kpg1Zr). ¿Necesitás control de temperatura? Ninguna Atma lo tiene: andá directo a la [Peabody PE-DK2200N](https://meli.la/2cyQgD2). ¿Preferís algo con reseñas ya acumuladas? La [Liliana AP152](https://meli.la/1QMfKob)." },
     ],
     faq: [
       {
+        question: "¿Por qué esta publicación no tiene reseñas?",
+        answer:
+          "La publicación original de la Atma PEAT1351, con miles de calificaciones acumuladas, se agotó. Esta es una publicación nueva de otro vendedor: mismo modelo, misma ficha técnica, pero sin historial propio todavía. Preferimos decirlo de frente antes que repetir el argumento de \"la más votada\" que ya no aplica.",
+      },
+      {
         question: "¿Cuánto dura una Atma?",
         answer:
-          "Entre 2 y 3 años con uso diario normal. Algunas duran más, otras menos. Depende del cuidado y la suerte del lote.",
+          "Entre 2 y 3 años con uso diario normal, según nuestra prueba con la versión anterior del mismo modelo. Algunas duran más, otras menos. Depende del cuidado y la suerte del lote.",
       },
       {
         question: "¿Por qué tiene menos potencia que otras pavas?",
@@ -8145,22 +8132,22 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       {
         question: "¿El interior de acero es realmente acero o está pintado?",
         answer:
-          "Es acero inoxidable real en contacto con el agua en la [ATMA PEAT1351](https://meli.la/1TBSj3K). No es pintura. El exterior sí es plástico. Si querés acero completo (interior y exterior), la [Philips HD9350](https://meli.la/2kpg1Zr) es la opción del catálogo.",
+          "Es acero inoxidable real en contacto con el agua en la [ATMA PEAT1351](https://meli.la/1rMrWSu). No es pintura. El exterior sí es plástico. Si querés acero completo (interior y exterior), la [Philips HD9350](https://meli.la/2kpg1Zr) es la opción del catálogo.",
       },
       {
         question: "¿Se puede cambiar la resistencia?",
         answer:
-          "Sí, técnicamente sí. Pero cuesta $16.000-22.000 total. Una [Atma PEAT1351](https://meli.la/1TBSj3K) nueva cuesta {{precio:MLA49747515}}. Hacé la cuenta.",
+          "Sí, técnicamente sí. Pero cuesta $16.000-22.000 total. Una [Atma PEAT1351](https://meli.la/1rMrWSu) nueva cuesta {{precio:MLAU4016948916}}. Hacé la cuenta.",
       },
       {
         question: "¿Por qué no recomiendan el modelo PE0821AP que es más barato?",
         answer:
-          "Porque el [PE0821AP](https://meli.la/27qLeLL) es de plástico completo. Después de 6 meses el agua empieza a tener sabor raro. La [Atma PEAT1351](https://meli.la/1TBSj3K) con interior de acero no da sabor por apenas {{preciodif:MLA49747515:MLA19589524}} más.",
+          "Porque el [PE0821AP](https://meli.la/27qLeLL) es de plástico completo. Después de 6 meses el agua empieza a tener sabor raro. La [Atma PEAT1351](https://meli.la/1rMrWSu) con interior de acero no da sabor por apenas {{preciodif:MLAU4016948916:MLA19589524}} más.",
       },
     ],
     internalLinksTitle: "Productos y guías relacionadas",
     internalLinks: [
-      { label: "Ver Atma PEAT1351", href: "https://meli.la/1TBSj3K" },
+      { label: "Ver Atma PEAT1351", href: "https://meli.la/1rMrWSu" },
       { label: "Ver Philips HD9350", href: "https://meli.la/2kpg1Zr" },
       { label: "Ver Philips HD9396 premium", href: "https://meli.la/1nfm8ft" },
       { label: "Ver Peabody digital", href: "https://meli.la/2cyQgD2" },
@@ -8194,12 +8181,12 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       "La guía de precios de pavas eléctricas en Argentina. Qué comprás en cada rango de presupuesto.",
     h1: "Pava eléctrica precio Argentina 2026: guía completa por rango",
     publishedDate: "2026-04-25",
-    updatedDate: "2026-07-08",
+    updatedDate: "2026-08-31",
     hasDisclosure: true,
     standfirst: "Comparamos las pavas eléctricas en Argentina por rango de precio: qué obtenés en cada escalón y cuál es la mejor compra dentro de cada presupuesto.",
     quickPicks: [
       { productMlaId: "MLA20027329", label: "Rango económico", labelColor: "amber", tagline: "Lo mejor por menos de {{precio:MLA20027329:k}}" },
-      { productMlaId: "MLA49747515", label: "Rango gama media", labelColor: "green", tagline: "Interior de acero, el punto justo del mercado" },
+      { productMlaId: "MLAU4016948916", label: "Rango gama media-alta", labelColor: "green", tagline: "Interior de acero, marca argentina con service" },
       { productMlaId: "MLA24601443", label: "Rango gama alta", labelColor: "blue", tagline: "Acero completo, dura el doble" },
       { productMlaId: "MLA47275624", label: "Rango premium", labelColor: "purple", tagline: "Solo si necesitás control de temperatura" },
     ],
@@ -8214,7 +8201,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "h2", title: "Resumen rápido: cuál comprar según tu presupuesto", id: "resumen-rapido" },
       { type: "list", items: [
         "**Rango económico:** [Kanji KJH-PE15002M](https://meli.la/1f9jqdT) — lo mejor por menos de {{precio:MLA20027329:k}}.",
-        "**Rango gama media (el punto justo):** [Atma PEAT1351](https://meli.la/1TBSj3K) — interior de acero, la mejor relación precio-calidad.",
+        "**Rango gama media-alta:** [Atma PEAT1351](https://meli.la/1rMrWSu) — interior de acero, marca argentina con service (publicación nueva, sin reseñas todavía).",
         "**Rango gama alta:** [Philips HD9350](https://meli.la/2kpg1Zr) — acero completo, dura el doble.",
         "**Rango premium:** [Peabody PE-DK2200N](https://meli.la/2cyQgD2) — solo si necesitás control de temperatura.",
       ] },
@@ -8227,8 +8214,8 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
         headers: ["Rango", "Precio", "Material", "Duración"],
         rows: [
           ["Económicas", "$15.000 - $30.000", "Plástico completo", "1-2 años"],
-          ["Gama media", "$30.000 - $50.000", "Interior acero / plástico premium", "2-4 años"],
-          ["Gama alta", "$50.000 - $70.000", "Acero completo", "4-6 años"],
+          ["Gama media", "$30.000 - $55.000", "Interior acero / plástico premium", "2-4 años"],
+          ["Gama alta", "$55.000 - $70.000", "Acero completo", "4-6 años"],
           ["Premium", "$70.000+", "Acero + digital", "Similar a gama alta"],
         ],
       },
@@ -8240,13 +8227,13 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "product-card", productMlaId: "MLA20027329", label: "Rango económico", labelColor: "amber", ranking: 1, description: "Interior de acero, 1.8L, 1500W, 2 niveles de control mecánico. 4.5 estrellas en 3.793 calificaciones, la más barata con algo de acero del catálogo." },
       { type: "p", content: "Materiales: interior acero, exterior plástico. Potencia 1500W. Durabilidad estimada 2-3 años. Es la mejor compra si tu presupuesto es realmente ajustado — por debajo de este rango la mayoría de las opciones son plástico completo y el agua toma sabor después de un año." },
 
-      { type: "h3", title: "2. Atma PEAT1351 — rango gama media, el punto justo" },
-      { type: "product-card", productMlaId: "MLA49747515", label: "Rango gama media", labelColor: "green", ranking: 2, description: "Interior acero inoxidable, 1.8L, marca argentina con service. 4.7 estrellas en 3.612 calificaciones, la base de opiniones más grande de la comparativa." },
-      { type: "p", content: "Este es el punto justo del mercado: la mejor relación precio-calidad. Interior de acero (crítico para el sabor), service local, precio justo. 1500W hierve un poco más lento que las de 2200W, pero gasta menos luz." },
+      { type: "h3", title: "2. Atma PEAT1351 — rango gama media-alta" },
+      { type: "product-card", productMlaId: "MLAU4016948916", label: "Rango gama media-alta", labelColor: "green", ranking: 2, description: "Interior de acero inoxidable, exterior plástico, 1.8L, marca argentina con service. Publicación nueva de otro vendedor, sin reseñas todavía." },
+      { type: "p", content: "Interior de acero (crítico para el sabor), service local en Argentina, precio cercano al de la Philips pero sin el acero completo. 1500W hierve un poco más lento que las de 2200W, pero gasta menos luz. Es una publicación nueva: la anterior, con miles de calificaciones, se agotó — esta todavía no tiene historial propio." },
 
       { type: "h3", title: "3. Philips HD9350 — rango gama alta" },
       { type: "product-card", productMlaId: "MLA24601443", label: "Rango gama alta", labelColor: "blue", ranking: 3, description: "Acero inoxidable completo, 1.7L, 2200W. Dura 4-5 años, la mejor inversión a largo plazo. 4.7 estrellas en 230 calificaciones." },
-      { type: "p", content: "Acero completo (interior y exterior), 2200W, hierve más rápido y dura más que la gama media. Cuesta {{preciodif:MLA24601443:MLA49747515}} más que la Atma, pero si hacés la cuenta por año de uso, la diferencia se reduce bastante frente a comprar una gama media cada 2-3 años." },
+      { type: "p", content: "Acero completo (interior y exterior), 2200W, hierve más rápido y dura más que la Atma. Cuesta {{preciodif:MLA24601443:MLAU4016948916}} más, pero si hacés la cuenta por año de uso, la diferencia se reduce bastante frente a comprar una pava de gama media cada 2-3 años." },
 
       { type: "h3", title: "4. Peabody PE-DK2200N — rango premium" },
       { type: "product-card", productMlaId: "MLA47275624", label: "Rango premium", labelColor: "purple", ranking: 4, description: "Pantalla digital, control continuo de temperatura (40°-100°), función mantener caliente. 4.9 estrellas, el rating más alto de la comparativa." },
@@ -8258,7 +8245,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
         headers: ["Rango", "Modelo", "Precio", "Material", "Ideal para"],
         rows: [
           ["Económico", "[Kanji KJH-PE15002M](https://meli.la/1f9jqdT)", "{{precio:MLA20027329}}", "Interior acero", "Presupuesto muy ajustado"],
-          ["Gama media", "[Atma PEAT1351](https://meli.la/1TBSj3K)", "{{precio:MLA49747515}}", "Interior acero", "El punto justo del mercado"],
+          ["Gama media-alta", "[Atma PEAT1351](https://meli.la/1rMrWSu)", "{{precio:MLAU4016948916}}", "Interior acero", "Marca argentina, sin reseñas todavía"],
           ["Gama alta", "[Philips HD9350](https://meli.la/2kpg1Zr)", "{{precio:MLA24601443}}", "Acero completo", "Mejor inversión a largo plazo"],
           ["Premium", "[Peabody PE-DK2200N](https://meli.la/2cyQgD2)", "{{precio:MLA47275624}}", "Acero + digital", "Necesitás control de temperatura"],
         ],
@@ -8267,19 +8254,19 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "h2", title: "Nuestra recomendación por presupuesto" },
       { type: "list", items: [
         "**Presupuesto muy ajustado:** la [Kanji](https://meli.la/1f9jqdT). Lo mejor por ese precio. Ahorrá para algo mejor después si podés.",
-        "**Presupuesto medio:** la [Atma PEAT1351](https://meli.la/1TBSj3K). Mejor relación precio-calidad del mercado.",
+        "**Presupuesto medio:** la [Atma PEAT1351](https://meli.la/1rMrWSu). Interior de acero, marca conocida (aunque esta publicación puntual todavía no tiene reseñas).",
         "**Podés estirarte un poco más:** la [Philips HD9350](https://meli.la/2kpg1Zr). La mejor inversión a largo plazo.",
         "**Necesitás control de temperatura:** la [Peabody PE-DK2200N](https://meli.la/2cyQgD2), sin importar el rango.",
       ] },
 
       { type: "h2", title: "Veredicto: cuál comprar", id: "veredicto" },
-      { type: "verdict", content: "El \"precio justo\" está en la gama media: la [Atma PEAT1351](https://meli.la/1TBSj3K) para presupuesto ajustado, la [Philips HD9350](https://meli.la/2kpg1Zr) para inversión a largo plazo. Todo lo que esté muy por debajo de la Kanji es plástico que da sabor. Pagar mucho más que la Peabody Digital, salvo que necesites control de temperatura, suele ser marketing." },
+      { type: "verdict", content: "El \"precio justo\" está entre la gama media y la alta: la [Atma PEAT1351](https://meli.la/1rMrWSu) para presupuesto ajustado, la [Philips HD9350](https://meli.la/2kpg1Zr) para inversión a largo plazo. Todo lo que esté muy por debajo de la Kanji es plástico que da sabor. Pagar mucho más que la Peabody Digital, salvo que necesites control de temperatura, suele ser marketing." },
     ],
     faq: [
       {
         question: "¿Cuál es el precio justo para una buena pava?",
         answer:
-          "El rango entre la [Atma PEAT1351](https://meli.la/1TBSj3K) y la [Philips HD9350](https://meli.la/2kpg1Zr). En esa franja conseguís interior de acero y durabilidad decente. Las 3 mejores opciones: [Atma PEAT1351](https://meli.la/1TBSj3K) (interior acero), [Liliana Mateando](https://meli.la/2qM28cx) (función mate), [Philips HD9350](https://meli.la/2kpg1Zr) (acero completo, dura más).",
+          "El rango entre la [Atma PEAT1351](https://meli.la/1rMrWSu) y la [Philips HD9350](https://meli.la/2kpg1Zr), hoy bastante cercanos en precio. En esa franja conseguís acero (al menos interior) y durabilidad decente. Otras opciones con acero: [Liliana AP152](https://meli.la/1QMfKob) (acero completo, la más económica) y [Liliana Mateando](https://meli.la/2qM28cx) (función mate).",
       },
       {
         question: "¿Valen la pena las más económicas?",
@@ -8287,9 +8274,9 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
           "Solo si realmente no tenés más presupuesto. La opción más accesible del catálogo con acero es la [Liliana AP152](https://meli.la/1QMfKob) a {{precio:MLA61505857}}. Por debajo de eso son todas de plástico y el agua toma sabor después de 1 año.",
       },
       {
-        question: "¿Por qué Philips cuesta bastante más que Atma?",
+        question: "¿Por qué Philips cuesta bastante más que la Atma?",
         answer:
-          "Porque la [Philips HD9350](https://meli.la/2kpg1Zr) es acero completo, dura más que la [Atma PEAT1351](https://meli.la/1TBSj3K), y tiene mejor construcción. A largo plazo la diferencia por año de uso se reduce.",
+          "En realidad hoy están cerca: la Philips HD9350 cuesta un poco más que la Atma PEAT1351 y suma acero completo (la Atma es interior acero, exterior plástico), mejor construcción y más potencia (2200W vs 1500W). A largo plazo la diferencia por año de uso se reduce.",
       },
       {
         question: "¿Las ofertas de Hot Sale son reales?",
@@ -8304,14 +8291,13 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     ],
     internalLinksTitle: "Productos y guías relacionadas",
     internalLinks: [
-      { label: "Ver Atma PEAT1351 (gama media)", href: "https://meli.la/1TBSj3K" },
+      { label: "Ver Atma PEAT1351 (gama media-alta)", href: "https://meli.la/1rMrWSu" },
       { label: "Ver Philips HD9350 (gama alta)", href: "https://meli.la/2kpg1Zr" },
       { label: "Ver Philips HD9396 (premium)", href: "https://meli.la/1nfm8ft" },
       { label: "Ver Peabody digital (control temp)", href: "https://meli.la/2cyQgD2" },
       { label: "Ver Oster KT4970W (mate)", href: "https://meli.la/1JfvkMc" },
       { label: "Ver Peabody PE-DK1850 acero ({{precio:MLA14263533}})", href: "https://meli.la/2T7Y1zd" },
       { label: "Ver Liliana Mateando ({{precio:MLA8933826}} mejor compra)", href: "https://meli.la/2qM28cx" },
-      { label: "Ver Liliana AP152 ({{precio:MLA61505857}} más barata)", href: "https://meli.la/1QMfKob" },
       { label: "Pava Philips: ¿vale la pena?", href: "/guias/pava-electrica-philips" },
       { label: "Pava Atma: mejor calidad-precio", href: "/guias/pava-electrica-atma" },
       { label: "Pava Peabody: ¿vale el digital?", href: "/guias/pava-electrica-peabody" },
@@ -8339,11 +8325,11 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       "Compramos varias pavas en MercadoLibre. Alguna llegó rota. Acá te explicamos cómo comprar bien y no caer en publicaciones engañosas.",
     h1: "Pava eléctrica en MercadoLibre: guía para no equivocarte",
     publishedDate: "2026-05-02",
-    updatedDate: "2026-07-08",
+    updatedDate: "2026-08-31",
     hasDisclosure: true,
     standfirst: "MercadoLibre tiene cientos de modelos de pava eléctrica, con vendedores oficiales y otros que no lo son. Te contamos cómo comprar sin que te estafen y cuáles son las mejores ofertas verificadas.",
     quickPicks: [
-      { productMlaId: "MLA49747515", label: "Mejor oferta gama media", labelColor: "green", tagline: "Interior de acero, vendedor con garantía oficial" },
+      { productMlaId: "MLAU4016948916", label: "Mejor oferta gama media", labelColor: "green", tagline: "Interior de acero, vendedor Platinum con +1.000 ventas" },
       { productMlaId: "MLA24601443", label: "Mejor oferta gama alta", labelColor: "blue", tagline: "Acero completo, dura más" },
       { productMlaId: "MLA8933826", label: "Mejor compra general", labelColor: "purple", tagline: "La pava más probada del catálogo" },
       { productMlaId: "MLA47275624", label: "Control de temperatura", labelColor: "amber", tagline: "Control continuo 40-100°" },
@@ -8354,14 +8340,14 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       "Compramos varias pavas en MercadoLibre. Alguna llegó rota. Otra era de calidad inferior a lo que mostraban las fotos. Acá te contamos cómo comprar sin que te estafen, cómo identificar vendedores confiables, y cuáles son las mejores ofertas verificadas.",
     ],
     sections: [
-      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_929996-MLA95691305800_102025-F.webp", alt: "Pava eléctrica Atma negra de 1.8L con interior de acero inoxidable", imageSize: "hero" },
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_869906-MLA114993395092_082026-F.webp", alt: "Pava eléctrica Atma PEAT1351, interior de acero inoxidable", imageSize: "hero" },
 
       { type: "h2", title: "Resumen rápido: cómo comprar sin equivocarte", id: "resumen-rapido" },
       { type: "list", items: [
         "**Vendedor confiable:** medalla MercadoLíder Platinum, más de 1.000 ventas, 95%+ de calificaciones positivas.",
         "**Verificá el modelo exacto:** buscá el número de modelo en la descripción, no solo la marca en el título.",
         "**Leé los reviews negativos:** son casi siempre reales, los positivos genéricos a veces son incentivados.",
-        "**Mejor oferta verificada:** la [Atma PEAT1351](https://meli.la/1TBSj3K) de gama media o la [Philips HD9350](https://meli.la/2kpg1Zr) de gama alta.",
+        "**Mejor oferta verificada:** la [Atma PEAT1351](https://meli.la/1rMrWSu) de gama media o la [Philips HD9350](https://meli.la/2kpg1Zr) de gama alta.",
       ] },
 
       { type: "trust-block", trustVariant: "methodology", content: "**Cómo verificamos estas ofertas:** confirmamos que cada vendedor tenga garantía oficial vigente, revisamos el historial de calificaciones y descartamos publicaciones con fotos que no correspondían al modelo real. Los precios y vendedores se revisan periódicamente." },
@@ -8385,7 +8371,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       {
         type: "p",
         content:
-          "Más de 1.000 ventas, calificación 95%+ positiva, medalla morada al lado del nombre. Si un Platinum vende Atma a $40.000 y un vendedor común a $38.000, pagá los $2.000 extra. La tranquilidad vale.",
+          "Más de 1.000 ventas, calificación 95%+ positiva, medalla morada al lado del nombre. Si un Platinum vende una pava de gama media a $40.000 y un vendedor común a $38.000, pagá los $2.000 extra. La tranquilidad vale.",
       },
       { type: "h3", title: "MercadoLíder — Confiable" },
       {
@@ -8437,8 +8423,8 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "h2", title: "Las mejores ofertas verificadas", id: "ranking" },
 
       { type: "h3", title: "1. Atma PEAT1351 — la recomendada de gama media" },
-      { type: "product-card", productMlaId: "MLA49747515", label: "Mejor oferta gama media", labelColor: "green", ranking: 1, description: "Interior acero inoxidable, 1.8L, garantía oficial de la marca. 4.7 estrellas en 3.612 calificaciones, la base de opiniones más grande de la comparativa." },
-      { type: "p", content: "Vendedor con garantía oficial Atma, envío gratis y cuotas sin interés en la mayoría de las publicaciones. Es la mejor oferta de gama media: interior de acero verificado, no solo declarado en el título." },
+      { type: "product-card", productMlaId: "MLAU4016948916", label: "Mejor oferta gama media", labelColor: "green", ranking: 1, description: "Interior de acero inoxidable, exterior plástico, 1.8L, garantía de fábrica de 12 meses. Publicación nueva, sin reseñas todavía." },
+      { type: "p", content: "Acá aplica justo lo que explicamos arriba: la publicación en sí es nueva (apenas unas pocas ventas, sin reseñas propias todavía), pero el vendedor —CENTRAL HOUSE_— es MercadoLíder Platinum con más de 1.000 ventas como tienda. Es el caso concreto de \"vendedor confiable con publicación nueva\": no hay reseñas del producto para leer, pero sí hay historial del vendedor para chequear." },
 
       { type: "h3", title: "2. Philips HD9350 — mejor inversión de gama alta" },
       { type: "product-card", productMlaId: "MLA24601443", label: "Mejor oferta gama alta", labelColor: "blue", ranking: 2, description: "Acero inoxidable completo, 1.7L, 2200W. 4.7 estrellas en 230 calificaciones. Dura 4-5 años con uso diario." },
@@ -8474,13 +8460,13 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       },
 
       { type: "h2", title: "Veredicto: cuándo comprar acá", id: "veredicto" },
-      { type: "verdict", content: "Comprar en MercadoLibre SÍ conviene si: buscás precio más bajo que retail, sabés qué modelo querés, y comprás de vendedor MercadoLíder Platinum como con la [Atma PEAT1351](https://meli.la/1TBSj3K) o la [Philips HD9350](https://meli.la/2kpg1Zr). NO conviene si: necesitás la pava HOY (andá a retail) o el vendedor es nuevo sin reviews." },
+      { type: "verdict", content: "Comprar en MercadoLibre SÍ conviene si: buscás precio más bajo que retail, sabés qué modelo querés, y comprás de vendedor MercadoLíder Platinum como con la [Atma PEAT1351](https://meli.la/1rMrWSu) o la [Philips HD9350](https://meli.la/2kpg1Zr). NO conviene si: necesitás la pava HOY (andá a retail) o el vendedor es nuevo sin reviews (distinto de una publicación nueva de un vendedor con historial, que sí es seguro)." },
     ],
     faq: [
       {
         question: "¿Es seguro comprar pavas eléctricas en MercadoLibre?",
         answer:
-          "Sí, si comprás de vendedores MercadoLíder Platinum y verificás garantía oficial. MercadoLibre protege al comprador. Las 3 mejores ofertas actuales de vendedores confiables: [Atma PEAT1351](https://meli.la/1TBSj3K) ({{precio:MLA49747515}}), [Philips HD9350](https://meli.la/2kpg1Zr) ({{precio:MLA24601443}}), [Peabody PE-DK2200N](https://meli.la/2cyQgD2) ({{precio:MLA47275624}}).",
+          "Sí, si comprás de vendedores MercadoLíder Platinum y verificás garantía oficial. MercadoLibre protege al comprador. Las 3 mejores ofertas actuales de vendedores confiables: [Atma PEAT1351](https://meli.la/1rMrWSu) ({{precio:MLAU4016948916}}), [Philips HD9350](https://meli.la/2kpg1Zr) ({{precio:MLA24601443}}), [Peabody PE-DK2200N](https://meli.la/2cyQgD2) ({{precio:MLA47275624}}).",
       },
       {
         question: "¿Cuánto tarda el envío?",
@@ -8505,7 +8491,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     ],
     internalLinksTitle: "Productos y guías relacionadas",
     internalLinks: [
-      { label: "Ver Atma PEAT1351 (2.368 reseñas)", href: "https://meli.la/1TBSj3K" },
+      { label: "Ver Atma PEAT1351 (interior acero)", href: "https://meli.la/1rMrWSu" },
       { label: "Ver Philips HD9350 (SUS304)", href: "https://meli.la/2kpg1Zr" },
       { label: "Ver Philips HD9396 (doble pared)", href: "https://meli.la/1nfm8ft" },
       { label: "Ver Peabody digital (mejor rating)", href: "https://meli.la/2cyQgD2" },
@@ -8545,17 +8531,17 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       "Si solo tomás mate a 100°, pagás de más por una pantalla que no vas a usar. Análisis honesto de la Peabody digital.",
     h1: "Pava eléctrica Peabody: ¿vale el control digital de temperatura?",
     publishedDate: "2026-05-09",
-    updatedDate: "2026-07-08",
+    updatedDate: "2026-08-31",
     hasDisclosure: true,
     standfirst: "Peabody apuesta al control de temperatura digital en vez de solo hervir. Te contamos cuándo esa diferencia se justifica y cuándo estás pagando de más por una pantalla que no vas a usar.",
     quickPicks: [
       { productMlaId: "MLA47275624", label: "Si necesitás control de temperatura", labelColor: "green", tagline: "Control continuo 40-100°, el rating más alto de la comparativa (4.9)" },
       { productMlaId: "MLA24601443", label: "Si solo tomás mate a 100°", labelColor: "blue", tagline: "Acero completo, más durabilidad, sin pagar por la pantalla" },
-      { productMlaId: "MLA49747515", label: "Presupuesto ajustado", labelColor: "amber", tagline: "Interior de acero por bastante menos" },
+      { productMlaId: "MLAU4016948916", label: "Presupuesto ajustado", labelColor: "amber", tagline: "Interior de acero por bastante menos" },
       { productMlaId: "MLA14263533", label: "Alternativa Peabody con acero", labelColor: "purple", tagline: "4 preset y acero completo, sin pantalla digital" },
     ],
     intro: [
-      "Peabody vende pavas eléctricas con control de temperatura. La pregunta es si eso justifica pagar bastante más que una Philips con acero completo o una Atma con interior acero.",
+      "Peabody vende pavas eléctricas con control de temperatura. La pregunta es si eso justifica pagar bastante más que una Philips con acero completo o una Atma con interior de acero pero más económica.",
       "Probamos la Peabody digital durante un mes. El control de temperatura funciona bien, pero si solo tomás mate a 100°, estás pagando extra por una pantalla que no vas a usar.",
     ],
     sections: [
@@ -8565,7 +8551,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "list", items: [
         "**Si necesitás control de temperatura:** [Peabody PE-DK2200N](https://meli.la/2cyQgD2) — control continuo 40-100°, el rating más alto de la comparativa.",
         "**Si solo tomás mate a 100°:** [Philips HD9350](https://meli.la/2kpg1Zr) — acero completo, más durabilidad, sin pagar por la pantalla.",
-        "**Presupuesto ajustado:** [Atma PEAT1351](https://meli.la/1TBSj3K) — interior de acero por bastante menos.",
+        "**Presupuesto ajustado:** [Atma PEAT1351](https://meli.la/1rMrWSu) — interior de acero por bastante menos.",
         "**Alternativa Peabody con acero:** [Peabody PE-DK1850](https://meli.la/2T7Y1zd) — 4 preset y acero completo, sin pantalla digital.",
       ] },
 
@@ -8579,15 +8565,15 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
 
       { type: "h3", title: "1. Peabody PE-DK2200N — la digital" },
       { type: "product-card", productMlaId: "MLA47275624", label: "Control de temperatura", labelColor: "green", ranking: 1, description: "1.5 litros, control digital 40-100°, pantalla LED touch, doble pared (interior acero, exterior plástico), 2200W. 4.9 estrellas, el rating más alto de la comparativa." },
-      { type: "p", content: "El control funciona bien y la pantalla es clara. Pero cuesta {{preciodif:MLA47275624:MLA24601443}} más que la Philips HD9350: son 1.5L (menos que Atma 1.8L o Philips 1.7L), el exterior es plástico, y la función mantener caliente gasta luz constantemente. Tiene sentido si tomás té verde (70-80°), té blanco (60-70°) o café de filtro (92-96°)." },
+      { type: "p", content: "El control funciona bien y la pantalla es clara. Pero cuesta {{preciodif:MLA47275624:MLA24601443}} más que la Philips HD9350: son 1.5L (menos que la Atma o la Philips, de 1.8L y 1.7L), el exterior es plástico, y la función mantener caliente gasta luz constantemente. Tiene sentido si tomás té verde (70-80°), té blanco (60-70°) o café de filtro (92-96°)." },
 
       { type: "h3", title: "2. Philips HD9350 — si no usás el control" },
       { type: "product-card", productMlaId: "MLA24601443", label: "Sin control, más acero", labelColor: "blue", ranking: 2, description: "Acero inoxidable completo, 1.7L, 2200W. 4.7 estrellas en 230 calificaciones. Dura 4-5 años con uso diario." },
       { type: "p", content: "Si tomás té verde/blanco o café de filtro con temperatura específica, la Peabody tiene sentido. Si solo tomás mate a 100° o querés acero completo y durabilidad, la Philips es mejor compra y te ahorrás {{preciodif:MLA47275624:MLA24601443}}." },
 
       { type: "h3", title: "3. Atma PEAT1351 — presupuesto ajustado" },
-      { type: "product-card", productMlaId: "MLA49747515", label: "Presupuesto ajustado", labelColor: "amber", ranking: 3, description: "Interior acero inoxidable, 1.8L, 1500W. 4.7 estrellas en 3.612 calificaciones, la base de opiniones más grande de la comparativa." },
-      { type: "p", content: "Cuesta {{preciodif:MLA47275624:MLA49747515}} menos que la Peabody digital: simplemente hierve y corta, sin control de temperatura ni mantener caliente. La pregunta clave: ¿vas a usar el control de temperatura al menos 5 veces por semana? Si no, estás pagando de más por una pantalla." },
+      { type: "product-card", productMlaId: "MLAU4016948916", label: "Presupuesto ajustado", labelColor: "amber", ranking: 3, description: "Interior de acero inoxidable, exterior plástico, 1.8L, 1500W. Publicación nueva, sin reseñas todavía." },
+      { type: "p", content: "Cuesta {{preciodif:MLA47275624:MLAU4016948916}} menos que la Peabody digital: simplemente hierve y corta, sin control de temperatura ni mantener caliente. La pregunta clave: ¿vas a usar el control de temperatura al menos 5 veces por semana? Si no, estás pagando de más por una pantalla." },
 
       { type: "h2", title: "Tabla comparativa", id: "tabla-comparativa" },
       {
@@ -8596,7 +8582,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
         rows: [
           ["[Peabody PE-DK2200N](https://meli.la/2cyQgD2)", "{{precio:MLA47275624}}", "Interior acero, exterior plástico", "Continuo 40-100°", "Té verde, blanco o café de filtro"],
           ["[Philips HD9350](https://meli.la/2kpg1Zr)", "{{precio:MLA24601443}}", "Acero completo", "No", "Solo mate a 100°, más durabilidad"],
-          ["[Atma PEAT1351](https://meli.la/1TBSj3K)", "{{precio:MLA49747515}}", "Interior acero", "No", "Presupuesto ajustado"],
+          ["[Atma PEAT1351](https://meli.la/1rMrWSu)", "{{precio:MLAU4016948916}}", "Interior acero", "No", "Presupuesto ajustado"],
         ],
       },
 
@@ -8627,7 +8613,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "callout", calloutVariant: "tip", calloutTitle: "Cuándo sí comprar Peabody", content: "Tomás té verde o blanco diariamente y necesitás temperaturas 60-80°C, hacés café de filtro exigente entre 92-96°C, tomás varias infusiones en 2 horas, o tenés el presupuesto sin estirar finanzas." },
 
       { type: "h2", title: "Veredicto: cuál comprar", id: "veredicto" },
-      { type: "verdict", content: "Comprá la [Peabody PE-DK2200N](https://meli.la/2cyQgD2) si tomás té verde/blanco o café de filtro regularmente. Si solo tomás mate a 100° o querés acero completo, la [Philips HD9350](https://meli.la/2kpg1Zr) es mejor compra. Si el presupuesto manda, la [Atma PEAT1351](https://meli.la/1TBSj3K) hace lo mismo (hervir) por bastante menos." },
+      { type: "verdict", content: "Comprá la [Peabody PE-DK2200N](https://meli.la/2cyQgD2) si tomás té verde/blanco o café de filtro regularmente. Si solo tomás mate a 100° o querés acero completo, la [Philips HD9350](https://meli.la/2kpg1Zr) es mejor compra. Si el presupuesto manda, la [Atma PEAT1351](https://meli.la/1rMrWSu) hace lo mismo (hervir) por bastante menos." },
     ],
     faq: [
       {
@@ -8653,7 +8639,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       {
         question: "¿Se puede usar para mate?",
         answer:
-          "Sí, pero entonces no necesitás el control de temperatura. Mejor [Atma PEAT1351](https://meli.la/1TBSj3K) por {{precio:MLA49747515:k}}.",
+          "Sí, pero entonces no necesitás el control de temperatura. Mejor [Atma PEAT1351](https://meli.la/1rMrWSu) por {{precio:MLAU4016948916:k}}.",
       },
       {
         question: "¿Vale la pena el modelo vintage PE-KV8215R?",
@@ -8665,7 +8651,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     internalLinks: [
       { label: "Ver Peabody PE-DK2200N", href: "https://meli.la/2cyQgD2" },
       { label: "Ver Peabody PE-DK1850 (alternativa)", href: "https://meli.la/2T7Y1zd" },
-      { label: "Ver Atma PEAT1351 (más barata)", href: "https://meli.la/1TBSj3K" },
+      { label: "Ver Atma PEAT1351 (más barata)", href: "https://meli.la/1rMrWSu" },
       { label: "Ver Philips HD9350 (acero completo)", href: "https://meli.la/2kpg1Zr" },
       { label: "Ver Oster KT4970W (mate)", href: "https://meli.la/1JfvkMc" },
       { label: "Pava eléctrica", href: "/guias/pava-electrica" },
@@ -8795,7 +8781,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       "4 modelos Liliana comparados. La AP175B Mateando es la mejor compra: función mate al mejor precio del grupo.",
     h1: "Pava eléctrica Liliana — ¿cuál de las 4 comprar?",
     publishedDate: "2026-05-16",
-    updatedDate: "2026-07-08",
+    updatedDate: "2026-08-31",
     hasDisclosure: true,
     intro: [
       "Liliana vende cuatro pavas eléctricas, entre {{precio:MLA61505857}} y {{precio:MLA54676373}}. La AP152 de acero es la más barata, la AP175B Mateando y la AP175 Tempomate tienen función mate, y la AP992B Safeheat es la premium.",
@@ -8813,7 +8799,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       {
         type: "p",
         content:
-          "Acero inoxidable, 1.7L, 1500W, corte automático, base giratoria 360°, filtro removible. Es la pava de acero más barata del mercado: la [Atma](https://meli.la/1TBSj3K) con acero sale {{preciodif:MLA49747515:MLA61505857}} más. Pero no tiene función mate ni control de temperatura.",
+          "Acero inoxidable, 1.7L, 1500W, corte automático, base giratoria 360°, filtro removible. Es la pava de acero más barata del catálogo. Pero no tiene función mate ni control de temperatura.",
       },
       { type: "h3", title: "AP175B Mateando — MEJOR COMPRA" },
       {
@@ -8861,7 +8847,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       {
         type: "p",
         content:
-          "La [Atma](https://meli.la/1TBSj3K) cuesta {{preciodif:MLA49747515:MLA8933826}} más, tiene 1.8L vs 1.7L (100ml más = medio mate extra) e interior acero vs plástico de Liliana. Pero NO tiene función mate. Si tomás mate regularmente, la AP175B es la mejor opción; si preferís acero y no te importa el mate, la Atma.",
+          "La [Atma](https://meli.la/1rMrWSu) está casi al mismo precio que la AP175B (la diferencia es de menos de $100), tiene más capacidad (1.8L vs 1.7L) e interior de acero (la AP175B es plástico). Pero NO tiene función mate. Si tomás mate regularmente, la AP175B sigue siendo la mejor opción; si preferís acero y no te importa el mate, la Atma. Un dato a tener en cuenta: es una publicación nueva de otro vendedor, sin reseñas propias todavía.",
       },
       { type: "h3", title: "vs Philips HD9350" },
       {
@@ -8899,7 +8885,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       {
         type: "verdict",
         content:
-          "Para la mayoría, comprá la [AP175B Mateando](https://meli.la/2qM28cx) por {{precio:MLA8933826}}. Si solo hervís a 100° sin función mate: la [AP152](https://meli.la/1QMfKob) por {{precio:MLA61505857}}. Si querés acero completo con durabilidad: la [Philips HD9350](https://meli.la/2kpg1Zr). Si preferís acero interior a buen precio: la [Atma PEAT1351](https://meli.la/1TBSj3K).",
+          "Para la mayoría, comprá la [AP175B Mateando](https://meli.la/2qM28cx) por {{precio:MLA8933826}}. Si solo hervís a 100° sin función mate: la [AP152](https://meli.la/1QMfKob) por {{precio:MLA61505857}}, la de acero más barata del catálogo. Si querés acero completo con más durabilidad: la [Philips HD9350](https://meli.la/2kpg1Zr).",
       },
     ],
     faq: [
@@ -8921,12 +8907,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       {
         question: "¿Cuánto dura una Liliana?",
         answer:
-          "Entre 2 y 3 años en promedio. Similar a Atma y Peabody. Philips dura 4-5 años.",
-      },
-      {
-        question: "¿Liliana es mejor que Atma?",
-        answer:
-          "La [AP175B](https://meli.la/2qM28cx) por {{precio:MLA8933826}} tiene función mate que la [Atma](https://meli.la/1TBSj3K) no tiene, y ahora también sale más barata. Atma tiene más capacidad (1.8L vs 1.7L) y acero interior. Si tomás mate: Liliana. Si no, y preferís acero: Atma.",
+          "Entre 2 y 3 años en promedio, similar a Peabody. Philips dura 4-5 años.",
       },
       {
         question: "¿Vale la pena la AP992B premium?",
@@ -8939,7 +8920,6 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { label: "Ver Liliana AP175B (MEJOR COMPRA)", href: "https://meli.la/2qM28cx" },
       { label: "Ver Liliana AP152 (acero más barata)", href: "https://meli.la/1QMfKob" },
       { label: "Ver Liliana AP992B Safeheat", href: "/producto/pava-electrica-liliana-aap992n-safeheat-negro-mla54676373" },
-      { label: "Ver Atma PEAT1351 (interior acero)", href: "https://meli.la/1TBSj3K" },
       { label: "Ver Philips HD9350 (acero completo)", href: "https://meli.la/2kpg1Zr" },
       { label: "Ver Peabody PE-DK2200N (digital)", href: "https://meli.la/2cyQgD2" },
       { label: "Pava Peabody: ¿vale el digital?", href: "/guias/pava-electrica-peabody" },
@@ -8967,7 +8947,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       "Oster es más cara sin ventaja real. Peabody hace lo mismo por menos. Análisis honesto.",
     h1: "Pava eléctrica Oster — ¿vale pagar más por la marca?",
     publishedDate: "2026-05-23",
-    updatedDate: "2026-07-08",
+    updatedDate: "2026-08-31",
     hasDisclosure: true,
     standfirst: "Oster vende dos pavas eléctricas en Argentina, entre las más caras del mercado. Comparamos si esa marca justifica el precio frente a Peabody, Liliana y Philips.",
     quickPicks: [
@@ -9026,7 +9006,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
         headers: ["Modelo", "Precio", "Material", "Control temp", "Ideal para"],
         rows: [
           ["[Liliana AP152](https://meli.la/1QMfKob)", "{{precio:MLA61505857}}", "Acero", "No", "La más económica con acero"],
-          ["[Atma PEAT1351](https://meli.la/1TBSj3K)", "{{precio:MLA49747515}}", "Interior acero", "No", "Presupuesto ajustado"],
+          ["[Atma PEAT1351](https://meli.la/1rMrWSu)", "{{precio:MLAU4016948916}}", "Interior acero", "No", "Publicación nueva, sin reseñas"],
           ["[Liliana AP175B](https://meli.la/2qM28cx)", "{{precio:MLA8933826}}", "Plástico", "Sí (2 niveles)", "Mejor compra con función mate"],
           ["[Peabody PE-DK1850](https://meli.la/2T7Y1zd)", "{{precio:MLA14263533}}", "Acero completo", "4 preset", "Mejor alternativa a la 4970B"],
           ["[Philips HD9350](https://meli.la/2kpg1Zr)", "{{precio:MLA24601443}}", "Acero completo", "No", "Mejor durabilidad"],
@@ -9099,7 +9079,8 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { label: "Ver Peabody PE-DK2200N (mejor que Oster 8970)", href: "https://meli.la/2cyQgD2" },
       { label: "Ver Liliana AP175B (alternativa más barata)", href: "https://meli.la/2qM28cx" },
       { label: "Ver Philips HD9350 (mejor durabilidad)", href: "https://meli.la/2kpg1Zr" },
-      { label: "Ver Atma PEAT1351 (más barata)", href: "https://meli.la/1TBSj3K" },
+      { label: "Ver Liliana AP152 (más barata)", href: "https://meli.la/1QMfKob" },
+      { label: "Ver Atma PEAT1351 (interior acero)", href: "https://meli.la/1rMrWSu" },
       { label: "Pava Peabody: ¿vale el digital?", href: "/guias/pava-electrica-peabody" },
       { label: "Pava Liliana: ¿cuál de las 4?", href: "/guias/pava-electrica-liliana" },
       { label: "Pava Philips: ¿vale la pena?", href: "/guias/pava-electrica-philips" },
@@ -9484,12 +9465,10 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
           ],
           ctas: [
             { label: "Ver Asiento Shiatsu en MercadoLibre", href: "https://meli.la/1zRo95J" },
-            { label: "Ver Asiento masajeador auto/silla en MercadoLibre", href: "https://meli.la/1ZW9A5Y" },
           ],
         },
       },
       { type: "product-card", productMlaId: "MLA28420339", label: "Asiento shiatsu", labelColor: "amber" },
-      { type: "product-card", productMlaId: "MLAU274288377", label: "Para auto y silla", labelColor: "blue" },
       { type: "h2", title: "Pistolas de masaje para espalda" },
       { type: "p", content: "Si tu problema son contracturas reales, las pistolas de masaje son mejores que las almohadillas. Más potencia, más precisión, más control. La contra es que necesitás aplicártela vos, y llegar a la espalda media requiere un poco de gimnasia con el brazo (o que alguien te ayude)." },
       {
@@ -9806,20 +9785,20 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     title: "Masajeador de espalda y cuello: qué asiento conviene",
     seoTitle: "Masajeador de espalda y cuello: comparativa 2026",
     metaDescription:
-      "Asiento shiatsu Melfit vs vibración Electroland vs cervical portátil Femmto. Cuál masajeador de espalda y cuello conviene según tu caso y tu presupuesto.",
+      "Asiento shiatsu Melfit vs cervical portátil Femmto. Cuál masajeador de espalda y cuello conviene según tu caso y tu presupuesto.",
     ogTitle: "Masajeador de espalda y cuello: cuál conviene",
     ogDescription:
-      "Shiatsu, vibración o portátil. Tres formas distintas de aliviar la espalda y el cuello, comparadas con precios reales de Argentina.",
+      "Shiatsu o portátil. Dos formas distintas de aliviar la espalda y el cuello, comparadas con precios reales de Argentina.",
     h1: "Masajeador de espalda y cuello: cuál conviene según tu caso",
     publishedDate: "2026-06-08",
-    updatedDate: "2026-06-08",
+    updatedDate: "2026-08-31",
     hasDisclosure: true,
     standfirst:
-      "Bajo la misma búsqueda conviven aparatos muy distintos: asientos con nodos shiatsu, asientos de pura vibración y masajeadores portátiles de cuello. Hacen cosas diferentes y cuestan muy diferente. Acá comparamos tres opciones concretas para que no pagues de más ni te quedes corto.",
+      "Bajo la misma búsqueda conviven aparatos muy distintos: asientos con nodos shiatsu y masajeadores portátiles de cuello. Hacen cosas diferentes y cuestan muy diferente. Acá comparamos dos opciones concretas para que no pagues de más ni te quedes corto.",
     intro: [
-      "El que busca un masajeador de espalda y cuello casi siempre tiene el mismo problema: muchas horas sentado, tensión en los trapecios, la zona lumbar dura al final del día. Pero la solución no es una sola. Hay asientos que hacés masaje shiatsu de presión real, asientos que solo vibran y aparatos chicos que te ponés en el cuello. Elegir el tipo equivocado es el error más caro.",
-      "La diferencia de precio es enorme y vale entenderla. Un asiento shiatsu completo con calor y compresión de aire puede salir más de $300.000. Uno de pura vibración, alrededor de $100.000. Y un masajeador cervical portátil, poco más de $30.000. No es que uno sea mejor que otro: cada uno resuelve un problema distinto, y a veces el barato es justo el que necesitás.",
-      "Comparamos tres opciones que se consiguen hoy en Mercado Libre Argentina: un asiento shiatsu premium, un asiento de vibración de cobertura amplia y el masajeador cervical más vendido del catálogo. Te decimos qué hace cada uno, qué le falta y para qué caso conviene, con los datos reales de cada publicación, incluidos los que no son tan lindos.",
+      "El que busca un masajeador de espalda y cuello casi siempre tiene el mismo problema: muchas horas sentado, tensión en los trapecios, la zona lumbar dura al final del día. Pero la solución no es una sola. Hay asientos que hacen masaje shiatsu de presión real y aparatos chicos que te ponés en el cuello. Elegir el tipo equivocado es el error más caro.",
+      "La diferencia de precio es enorme y vale entenderla. Un asiento shiatsu completo con calor y compresión de aire puede salir más de $300.000. Y un masajeador cervical portátil, poco más de $30.000. No es que uno sea mejor que otro: cada uno resuelve un problema distinto, y a veces el barato es justo el que necesitás.",
+      "Comparamos dos opciones que se consiguen hoy en Mercado Libre Argentina: un asiento shiatsu premium y el masajeador cervical más vendido del catálogo. Te decimos qué hace cada uno, qué le falta y para qué caso conviene, con los datos reales de cada publicación, incluidos los que no son tan lindos.",
     ],
     quickPicks: [
       { productMlaId: "MLA24127896", label: "El más vendido", labelColor: "green", tagline: "Portátil, shiatsu con calor y +13.000 calificaciones" },
@@ -9829,16 +9808,14 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     sections: [
       { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_603622-MLU78073792105_072024-F.webp", alt: "Asiento masajeador shiatsu Melfit I2500 con nodos rotativos, calor infrarrojo y control remoto", imageSize: "hero" },
 
-      { type: "h2", title: "Shiatsu, vibración o portátil: qué hace cada uno" },
+      { type: "h2", title: "Shiatsu o portátil: qué hace cada uno" },
       { type: "p", content: "El shiatsu usa nodos que giran y hacen presión real sobre el músculo, parecido a unos pulgares amasando. Es la sensación más cercana a un masaje de consultorio y el que mejor trabaja un nudo. La contra: los nodos están en posiciones fijas o recorren un rango limitado, así que si tu punto de dolor queda entre dos nodos, no llega tan bien." },
-      { type: "p", content: "La vibración es más suave y cubre más superficie de una vez, pero no hace presión profunda. Relaja la tensión acumulada y se siente bien después de un día largo, aunque no va a deshacer una contractura dura. Su ventaja es que suele costar bastante menos y es más fácil de usar: lo encendés y te olvidás." },
       { type: "p", content: "El masajeador portátil de cuello es otra cosa: un aparato chico con nodos shiatsu que te colgás sobre los trapecios. No cubre la espalda entera, pero ataca justo la zona donde la mayoría acumula tensión (cuello y hombros), lo usás solo, sin ayuda, y cuesta una fracción de un asiento. Para el caso más común, suele ser suficiente." },
       {
         type: "table",
         headers: ["Tipo", "Mejor para", "Presión", "Precio aprox."],
         rows: [
           ["Asiento shiatsu", "Espalda + cuello, nudos reales", "Alta", "$300.000+"],
-          ["Asiento vibración", "Tensión difusa, relax diario", "Suave-media", "$100.000"],
           ["Cervical portátil", "Cuello y trapecios puntual", "Media", "$33.000"],
         ],
       },
@@ -9854,15 +9831,8 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
         attribution: "— Compra verificada en Argentina · 4.8 de rating sobre +13.000 calificaciones",
       },
 
-      { type: "h2", title: "Electroland MA68: vibración de cobertura amplia" },
-      { type: "callout", calloutVariant: "warning", calloutTitle: "Sin stock al 2026-08-17", content: "La publicación del Electroland MA68 está pausada en MercadoLibre, así que hoy no se puede comprar. Dejamos el análisis porque el modelo suele volver, pero si buscás cobertura amplia ahora, el [Wolke Blow Premium](https://meli.la/2R9wp8o) cubre cervical, espalda, lumbares y pies." },
-      { type: "p", content: "Si querés cubrir toda la espalda y no solo el cuello, pero sin gastar lo de un shiatsu premium, el Electroland MA68 es el término medio. Es un asiento de 110 cm que va desde los hombros hasta los muslos, con cinco motores de vibración, calor en la zona lumbar y timer de 15, 30 o 60 minutos. Funciona en casa a 220V y en el auto a 12V, y es plegable. Ronda los $99.999, con 4.0 de rating sobre unas 145 reseñas y más de 500 vendidos." },
-      { type: "product-card", productMlaId: "MLAU274288377", label: "Cobertura amplia", labelColor: "blue" },
-      { type: "p", content: "Qué hace bien: cubre mucha superficie de una sola vez, cosa que ni el portátil ni la mayoría de los shiatsu logran. El calor lumbar es un acierto porque es donde más se acumula la rigidez de estar sentado. La opción de 60 minutos es poco común (casi todos se apagan a los 15), y poder usarlo en el auto suma para viajes largos." },
-      { type: "p", content: "Dónde se queda corto: es solo vibración, no tiene shiatsu ni presión profunda, así que no deshace contracturas duras. El control es alámbrico, no remoto. El rating de 4.0 está por debajo de los mejores del catálogo. Y un detalle de honestidad: se vende como Electroland pero el control de algunos usuarios dice Cinvedu; es el mismo aparato de origen chino con distinta marca, algo habitual en este rango." },
-
       { type: "h2", title: "Melfit I2500: el shiatsu completo (con un asterisco)" },
-      { type: "p", content: "Es el más equipado de los tres y también el más caro, por lejos. Asiento shiatsu con seis nodos rotativos (dos para el cuello, cuatro para la espalda), calor infrarrojo, compresión de aire en los laterales, vibración en los glúteos y control remoto con selección de zona e intensidad. Trae adaptador de 12V para el auto y tiene certificación IRAM argentina. Ronda los $305.710." },
+      { type: "p", content: "Es el más equipado de los dos y también el más caro, por lejos. Asiento shiatsu con seis nodos rotativos (dos para el cuello, cuatro para la espalda), calor infrarrojo, compresión de aire en los laterales, vibración en los glúteos y control remoto con selección de zona e intensidad. Trae adaptador de 12V para el auto y tiene certificación IRAM argentina. Ronda los $305.710." },
       { type: "product-card", productMlaId: "MLA28420339", label: "Shiatsu completo", labelColor: "amber" },
       { type: "p", content: "Qué hace bien: es lo más parecido a un sillón de masajes que vas a encontrar a este precio. Los nodos shiatsu hacen presión real, el calor infrarrojo penetra y la compresión de aire trabaja los costados de la espalda. La certificación IRAM es un respaldo de seguridad que casi ningún competidor tiene en este segmento." },
       { type: "p", content: "El asterisco: al momento de escribir esto tiene apenas 8 calificaciones, con un rating de 3.9 que puede subir o bajar con cualquier reseña nueva. Para un producto de más de $300.000, ese historial tan corto es un riesgo. La única opinión negativa visible es por la política de devolución del vendedor, no por el funcionamiento. Y el apagado automático a los 15 minutos no se puede desactivar: si querés más, lo encendés de nuevo. Si te da seguridad comprar con muchas reseñas detrás, este todavía no la tiene." },
@@ -9870,13 +9840,12 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
         type: "callout",
         calloutVariant: "note",
         calloutTitle: "Cuándo conviene el caro y cuándo no",
-        content: "El Melfit tiene sentido si tenés tensión real en toda la espalda, lo vas a usar seguido y querés presión de verdad, no vibración. Si tu problema es solo el cuello, el Femmto cervical de $33.000 hace ese trabajo. Y si querés cubrir la espalda pero te alcanza con vibración relajante, el Electroland a $100.000 te ahorra más de $200.000. Más caro no es automáticamente mejor para tu caso.",
+        content: "El Melfit tiene sentido si tenés tensión real en toda la espalda, lo vas a usar seguido y querés presión de verdad. Si tu problema es solo el cuello, el Femmto cervical de $33.000 hace ese trabajo y te ahorra más de $270.000. Más caro no es automáticamente mejor para tu caso.",
       },
 
       { type: "h2", title: "Cómo se siente cada uno en la práctica" },
       { type: "p", content: "Mucha gente compra shiatsu esperando un masaje relajante y se sorprende: la presión de los nodos es fuerte, y los primeros días puede quedar una sensación parecida a la de después de un masaje de verdad. Eso es normal. Si te resulta demasiado, casi todos permiten bajar la intensidad o poner una toalla fina entre la espalda y el asiento para amortiguar. Con el tiempo el cuerpo se acostumbra." },
-      { type: "p", content: "La vibración es lo contrario: nunca molesta, pero tampoco hace ese trabajo profundo. Es ideal para apagar al final del día y aflojar la tensión general, no para deshacer un nudo concreto. Si tu expectativa es relax y no terapia, vas a estar más conforme con la vibración; si querés que algo realmente amase el músculo, el shiatsu es el único que da esa sensación." },
-      { type: "p", content: "Qué no esperar de ninguno: que cure un problema de columna. Un asiento masajeador alivia síntomas de tensión muscular, no corrige una hernia, una escoliosis ni una mala postura de fondo. Si el dolor vuelve siempre al mismo lugar y no afloja, el asiento es un parche; el que resuelve eso es un profesional." },
+      { type: "p", content: "Qué no esperar de ninguno de los dos: que cure un problema de columna. Un asiento masajeador alivia síntomas de tensión muscular, no corrige una hernia, una escoliosis ni una mala postura de fondo. Si el dolor vuelve siempre al mismo lugar y no afloja, el asiento es un parche; el que resuelve eso es un profesional." },
 
       { type: "h2", title: "Antes de comprar un asiento masajeador" },
       { type: "p", content: "Medí tu silla. Los asientos shiatsu tienen los nodos en posiciones fijas, y si sos muy alto o muy bajo, la zona lumbar puede quedar fuera del rango. Antes de gastar, fijate las dimensiones del respaldo (el Melfit mide 83 cm de largo) contra tu silla y tu altura." },
@@ -9915,13 +9884,12 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
         ],
       },
 
-      { type: "verdict", content: "Para la mayoría, empezá por el Femmto cervical: resuelve el dolor más común (cuello y trapecios) por $33.000 y tiene más de 13.000 reseñas detrás. Si necesitás cubrir toda la espalda con un relax suave, el Electroland a $100.000 es el término medio honesto. El Melfit shiatsu es el más completo y el único con presión real en toda la espalda, pero su precio alto y sus pocas reseñas lo dejan solo para quien sabe que va a usar mucho un shiatsu de verdad." },
+      { type: "verdict", content: "Para la mayoría, empezá por el Femmto cervical: resuelve el dolor más común (cuello y trapecios) por $33.000 y tiene más de 13.000 reseñas detrás. El Melfit shiatsu es el más completo y el único con presión real en toda la espalda, pero su precio alto y sus pocas reseñas lo dejan solo para quien sabe que va a usar mucho un shiatsu de verdad." },
     ],
     faq: [
-      { question: "¿Qué es mejor para la espalda, shiatsu o vibración?", answer: "El shiatsu hace presión real con nodos que giran y trabaja mejor los nudos y contracturas. La vibración es más suave, cubre más superficie y relaja la tensión difusa, pero no deshace una contractura dura. Para nudos, shiatsu; para relax diario, vibración alcanza y cuesta menos." },
       { question: "¿Un masajeador cervical sirve también para la espalda?", answer: "Solo para la espalda alta. Los masajeadores cervicales portátiles llegan al cuello y los trapecios, pero no a la zona media ni lumbar. Si tu dolor está abajo, vas a necesitar un asiento que cubra toda la espalda." },
-      { question: "¿Cuánto cuesta un masajeador de espalda y cuello en Argentina?", answer: "Depende del tipo. Un cervical portátil ronda los $33.000, un asiento de vibración unos $100.000, y un asiento shiatsu completo con calor y compresión puede superar los $300.000. En junio 2026 esos son los rangos de referencia." },
-      { question: "¿Los asientos masajeadores se pueden usar en el auto?", answer: "Algunos sí. El Electroland MA68 y el Melfit I2500 traen adaptador de 12V para el encendedor del auto, además del cable de 220V para casa. Antes de comprar, confirmá que el modelo incluya el adaptador de auto si lo vas a usar manejando." },
+      { question: "¿Cuánto cuesta un masajeador de espalda y cuello en Argentina?", answer: "Depende del tipo. Un cervical portátil ronda los $33.000, y un asiento shiatsu completo con calor y compresión puede superar los $300.000. En junio 2026 esos son los rangos de referencia." },
+      { question: "¿El asiento masajeador se puede usar en el auto?", answer: "El Melfit I2500 trae adaptador de 12V para el encendedor del auto, además del cable de 220V para casa. Antes de comprar, confirmá que el modelo incluya el adaptador de auto si lo vas a usar manejando." },
       { question: "¿Por qué el Melfit tiene tan pocas reseñas?", answer: "Al momento de esta nota tiene 8 calificaciones en Mercado Libre Argentina, por ser un producto de baja rotación o lanzamiento reciente. Para un equipo de más de $300.000 es un historial corto: si te da seguridad comprar con muchas opiniones detrás, conviene esperar a que se acumulen más." },
       { question: "¿Los nodos shiatsu llegan a la zona lumbar?", answer: "Depende de tu altura y de cómo quede el asiento en tu silla. Los nodos están en posiciones fijas dentro de un rango, así que si sos muy alto o muy bajo, la lumbar baja puede quedar afuera. Medí el largo del respaldo contra tu silla antes de comprar." },
       { question: "¿Sirven si tengo una contractura fuerte?", answer: "Un asiento shiatsu ayuda con contracturas en la espalda, pero para nudos muy puntuales y profundos una pistola masajeadora suele ser más efectiva. Si la contractura no cede o duele mucho, conviene ver a un kinesiólogo antes que insistir con el aparato." },
@@ -9973,7 +9941,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
         rows: [
           ["Cervical portátil", "Cuello y trapecios", "Shiatsu + calor", "$33.000"],
           ["Pistola de percusión", "Músculos grandes, nudos", "Percusión profunda", "$55.000"],
-          ["Asiento de espalda", "Espalda completa", "Shiatsu o vibración", "$100.000-$305.000"],
+          ["Asiento de espalda", "Espalda completa", "Shiatsu o vibración", "$79.000-$305.000"],
           ["De pies", "Plantas y arcos", "Rodillos + compresión", "$48.000"],
           ["Facial", "Cara y contorno", "Vibración suave", "$5.000-$18.000"],
         ],
@@ -9993,8 +9961,8 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
 
       { type: "h2", title: "3. Asiento: para toda la espalda" },
       { type: "p", content: "Si el dolor abarca toda la espalda y querés algo pasivo (lo ponés en la silla y te relajás), el asiento es lo tuyo. Hay dos familias: shiatsu, con nodos que hacen presión real, y vibración, más suave y de cobertura amplia. El shiatsu trabaja mejor los nudos; la vibración relaja la tensión difusa y cuesta bastante menos." },
-      { type: "p", content: "Como vibración de cobertura amplia, el Electroland MA68 (unos $99.999) cubre 110 cm de hombros a muslos con calor lumbar. Como shiatsu completo, el Melfit I2500 (unos $305.710) suma nodos rotativos, calor infrarrojo y compresión de aire, aunque con muy pocas reseñas todavía. La comparación a fondo está en la guía de [masajeador de espalda y cuello](/guias/masajeador-espalda-cuello)." },
-      { type: "product-card", productMlaId: "MLAU274288377", label: "Vibración amplia", labelColor: "blue" },
+      { type: "p", content: "Como vibración multiuso, el Wolke Blow Premium ({{precio:MLA24203342:k}}) cubre cuello, espalda, lumbares y pies con la misma máquina, aunque va con cable. Como shiatsu completo, el Melfit I2500 (unos $305.710) suma nodos rotativos, calor infrarrojo y compresión de aire, aunque con muy pocas reseñas todavía. La comparación a fondo está en la guía de [masajeador de espalda y cuello](/guias/masajeador-espalda-cuello)." },
+      { type: "product-card", productMlaId: "MLA24203342", label: "Vibración multiuso", labelColor: "blue" },
 
       { type: "h2", title: "4. De pies: para los que están parados todo el día" },
       { type: "p", content: "Si trabajás muchas horas de pie o tenés los pies cansados e hinchados al final del día, un masajeador de pies hace algo que ningún otro tipo logra: combina rodillos shiatsu bajo la planta con compresión de aire que envuelve el pie, y casi siempre calor. No reemplaza a los otros tipos, ataca una zona que ellos no cubren." },
@@ -10044,7 +10012,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
           "[Caliber Percussion infrarrojo](https://meli.la/2gqPvgW) — **{{precio:MLA25263767}}** (percutor con calor)",
           "[Suono masajeador de pies](https://meli.la/2d7VKT6) — **{{precio:MLA23131501}}** (pies con calor y compresión)",
           "[Femmto MP pistola brushless](https://meli.la/159WHqm) — **{{precio:MLA37908577}}** (contracturas, deporte)",
-          "[Electroland MA68 asiento vibración](https://meli.la/1ZW9A5Y) — **{{precio:MLAU274288377}}** (espalda completa)",
+          "[Wolke Blow Premium asiento vibración](https://meli.la/2R9wp8o) — **{{precio:MLA24203342}}** (espalda completa)",
           "[Melfit I2500 asiento shiatsu](https://meli.la/1zRo95J) — **{{precio:MLA28420339}}** (shiatsu premium)",
         ],
       },
@@ -10543,7 +10511,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
 
       { type: "h2", title: "Veredicto: cuál comprar", id: "veredicto" },
       { type: "verdict", content: "Para la mayoría, la [Atma PE1821NAP](https://meli.la/2uprqZS) por {{precio:MLA19589519}}: 6 niveles cuando la mayoría de las de acero tienen 3 o 4. ¿Presupuesto ajustado? La [Liliana AP175B](https://meli.la/2qM28cx) por {{precio:MLA8933826}}. ¿Necesitás control continuo? La [Peabody DK2200N](https://meli.la/2cyQgD2) por {{precio:MLA47275624}}. ¿Querés acero? La [Peabody DK1850](https://meli.la/2T7Y1zd) por {{precio:MLA14263533}}. No compres ninguna de las dos Oster: a igual o más precio, no dan nada que las otras no den por menos." },
-      { type: "p", content: "Si solo hervís agua sin control de temperatura, mirá la [guía de pava Atma](/guias/pava-electrica-atma): la [PEAT1351](https://meli.la/1TBSj3K) sale {{precio:MLA49747515}} y hace el mismo trabajo. Si priorizás durabilidad sobre control, mirá la [guía de pava Philips](/guias/pava-electrica-philips). Y si querés una pava de [acero inoxidable sin control](/guias/pava-electrica-acero-inoxidable), esa es otra categoría." },
+      { type: "p", content: "Si solo hervís agua sin control de temperatura, la [Atma PEAT1351](https://meli.la/1rMrWSu) sale {{precio:MLAU4016948916}} y hace el mismo trabajo con interior de acero (publicación nueva, sin reseñas todavía). Si priorizás durabilidad sobre control, mirá la [guía de pava Philips](/guias/pava-electrica-philips). Y si querés una pava de [acero inoxidable sin control](/guias/pava-electrica-acero-inoxidable), esa es otra categoría." },
     ],
     faq: [
       { question: "¿Por qué Atma es mejor que modelos más caros?", answer: "La [Atma](https://meli.la/2uprqZS) tiene 6 niveles de temperatura por {{precio:MLA19589519}}. El [Oster 4970B](https://meli.la/31ihPzQ) tiene 3 niveles por {{precio:MLA11145437}}. La [Peabody DK1850](https://meli.la/2T7Y1zd) tiene 4 preset por {{precio:MLA14263533}}. Atma tiene más control por menos plata. La única desventaja es material: plástico vs acero." },
@@ -10689,7 +10657,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       "8 pavas de acero comparadas. El acero no toma olor después de 2 años. Kanji (budget) y Peabody DK1850 (premium) son las mejores compras.",
     h1: "Pava Eléctrica Acero Inoxidable: ¿Cuál Comprar en 2026?",
     publishedDate: "2026-06-13",
-    updatedDate: "2026-07-08",
+    updatedDate: "2026-08-31",
     hasDisclosure: true,
     standfirst: "Comparamos las pavas de acero inoxidable que se consiguen hoy en Argentina: acero completo vs interior, control de temperatura o no, y por qué el acero no toma olor como el plástico.",
     quickPicks: [
@@ -10699,7 +10667,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { productMlaId: "MLA47275624", label: "Control continuo", labelColor: "purple", tagline: "Temperatura exacta de 40 a 100°, el rating más alto (4.9)" },
     ],
     intro: [
-      "Comparamos ocho pavas de acero disponibles en Argentina. Los precios van de {{precio:MLA20027329}} a {{precio:MLA8993736}}. El acero tiene una ventaja real sobre plástico y vidrio: no toma olor después de dos años.",
+      "Comparamos ocho pavas de acero disponibles en Argentina (una de ellas, una publicación nueva sin reseñas todavía). Los precios van de {{precio:MLA20027329}} a {{precio:MLA8993736}}. El acero tiene una ventaja real sobre plástico y vidrio: no toma olor después de dos años.",
       "Las pavas de plástico que después de año y medio empiezan a oler raro no se arreglan limpiando con vinagre o detergente: el olor persiste. Con acero nunca pasa eso. Después de tres años el agua sigue sabiendo igual que el primer día.",
       "La [Kanji](https://meli.la/1f9jqdT) por {{precio:MLA20027329}} es la más barata con acero. Si tu presupuesto es medio, la [Peabody DK1850](https://meli.la/2T7Y1zd) por {{precio:MLA14263533}} tiene acero completo y 4 preset de temperatura. La [Oster 8970](https://meli.la/1jdC3sW) hace básicamente lo mismo que la Peabody DK1850 por {{preciodif:MLA8993736:MLA14263533}} más — la diferencia es pura marca.",
     ],
@@ -10730,17 +10698,17 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "product-card", productMlaId: "MLA20027329", label: "Más económica", labelColor: "amber", ranking: 2, description: "Interior de acero inoxidable, 1.8L, 1500W, 2 niveles de control con selector mecánico. La más barata de la lista con algo de acero: 4.5 estrellas en 3.793 calificaciones." },
       { type: "p", content: "Para presupuesto muy ajustado, es la entrada más sensata: acero (interior) y 2 niveles de control por menos que cualquier otra de la lista. Es más barata que la Liliana AP152, que ni siquiera tiene control de temperatura." },
 
-      { type: "h3", title: "3. Atma PEAT1351 — solo hervir, sin vueltas" },
-      { type: "product-card", productMlaId: "MLA49747515", label: "Rápida y simple", labelColor: "blue", ranking: 3, description: "Interior de acero inoxidable, 1.8L, 1500W, sin control de temperatura. 4.7 estrellas." },
-      { type: "p", content: "Si solo hervís agua sin necesitar control de temperatura, esta es la opción directa: interior de acero, 1.8 litros y rápida. No trae mapeo de temperaturas ni pantalla, pero tampoco lo necesitás si tu uso es simple." },
-
-      { type: "h3", title: "4. Philips HD9350 — mejor durabilidad" },
-      { type: "product-card", productMlaId: "MLA24601443", label: "Mejor durabilidad", labelColor: "purple", ranking: 4, description: "Acero SUS304 de grado alimentario, 1.7L, sin control de temperatura. La que más dura de la comparativa: hasta 4 años y medio con uso diario. 4.7 estrellas en 230 calificaciones." },
+      { type: "h3", title: "3. Philips HD9350 — mejor durabilidad" },
+      { type: "product-card", productMlaId: "MLA24601443", label: "Mejor durabilidad", labelColor: "purple", ranking: 3, description: "Acero SUS304 de grado alimentario, 1.7L, sin control de temperatura. La que más dura de la comparativa: hasta 4 años y medio con uso diario. 4.7 estrellas en 230 calificaciones." },
       { type: "p", content: "No tiene ningún control de temperatura, así que cuesta {{preciodif:MLA14263533:MLA24601443}} menos que la Peabody DK1850. La ventaja real es la durabilidad: acero SUS304 de grado alimentario que aguantó 4 años y medio de uso diario en nuestra prueba, más que cualquier otro modelo de esta lista." },
 
-      { type: "h3", title: "5. Liliana AP152 — acero completo económico" },
-      { type: "product-card", productMlaId: "MLA61505857", label: "Acero barato", labelColor: "amber", ranking: 5, description: "Acero inoxidable completo, 1.7L, 1500W, selector mate fijo, base giratoria 360°, filtro removible. 4.7 estrellas en 529 calificaciones." },
-      { type: "p", content: "Es la pava de acero completo más barata del catálogo, con selector mate fijo y base giratoria. No tiene niveles de temperatura como la Kanji, pero sí acero por dentro y por fuera — la ventaja estética se nota con los años." },
+      { type: "h3", title: "4. Liliana AP152 — solo hervir, sin vueltas" },
+      { type: "product-card", productMlaId: "MLA61505857", label: "Rápida y simple", labelColor: "amber", ranking: 4, description: "Acero inoxidable completo, 1.7L, 1500W, selector mate fijo, base giratoria 360°, filtro removible. 4.7 estrellas en 614 calificaciones." },
+      { type: "p", content: "Si solo hervís agua sin necesitar control de temperatura, esta es la opción directa: acero completo, selector mate fijo y base giratoria. Es la pava de acero completo más barata del catálogo. No trae mapeo de temperaturas ni pantalla, pero tampoco lo necesitás si tu uso es simple." },
+
+      { type: "h3", title: "5. Atma PEAT1351 — interior acero, publicación nueva" },
+      { type: "product-card", productMlaId: "MLAU4016948916", label: "Interior acero", labelColor: "amber", ranking: 5, description: "Interior de acero inoxidable, exterior plástico, 1.8L, 1500W. Publicación nueva de otro vendedor: la anterior, con miles de reseñas, se agotó." },
+      { type: "p", content: "Mismo modelo de siempre, ahora en una publicación distinta. Interior de acero, 1.8L (la mayor capacidad de esta lista junto con la Kanji), sin control de temperatura. La diferencia real frente a la Liliana AP152: cuesta {{preciodif:MLAU4016948916:MLA61505857}} más y el exterior es plástico, no acero completo. Elegís esta si preferís la marca Atma específicamente o si la Liliana no tiene stock; si no, la Liliana AP152 rinde igual por menos." },
 
       { type: "h3", title: "6. Liliana Safeheat AAP992N — premium híbrida" },
       { type: "product-card", productMlaId: "MLA54676373", label: "Premium", labelColor: "purple", ranking: 6, description: "Doble pared (interior acero, exterior plástico), 7 niveles de temperatura, mantiene caliente, pantalla digital. 4.8 estrellas." },
@@ -10759,9 +10727,9 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
         rows: [
           ["[Peabody PE-DK1850](https://meli.la/2T7Y1zd)", "{{precio:MLA14263533}}", "4 preset", "Completo", "Acero completo sin pagar premium"],
           ["[Kanji KJH-PE15002M](https://meli.la/1f9jqdT)", "{{precio:MLA20027329}}", "2 niveles", "Interior", "Presupuesto muy ajustado"],
-          ["[Atma PEAT1351](https://meli.la/1TBSj3K)", "{{precio:MLA49747515}}", "No", "Interior", "Solo hervir, sin vueltas"],
           ["[Philips HD9350](https://meli.la/2kpg1Zr)", "{{precio:MLA24601443}}", "No", "Completo", "Máxima durabilidad"],
-          ["[Liliana AP152](https://meli.la/1QMfKob)", "{{precio:MLA61505857}}", "No", "Completo", "Acero barato con selector mate"],
+          ["[Liliana AP152](https://meli.la/1QMfKob)", "{{precio:MLA61505857}}", "No", "Completo", "Solo hervir, sin vueltas"],
+          ["[Atma PEAT1351](https://meli.la/1rMrWSu)", "{{precio:MLAU4016948916}}", "No", "Interior", "Marca conocida, publicación nueva"],
           ["[Liliana Safeheat AAP992N](https://meli.la/2kApAsJ)", "{{precio:MLA54676373}}", "7 niveles", "Híbrida", "Máximo control + mantener caliente"],
           ["[Peabody PE-DK2200N](https://meli.la/2cyQgD2)", "{{precio:MLA47275624}}", "Continuo", "Completo", "Infusiones exactas"],
           ["[Oster 8970](https://meli.la/1jdC3sW)", "{{precio:MLA8993736}}", "4 niveles", "Completo", "No recomendada: igual que la Peabody DK1850 por más"],
@@ -10773,11 +10741,11 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "p", content: "El sabor del agua es igual en ambos casos. Si el interior es acero, no importa si el exterior es acero o plástico. La ventaja real de acero completo es estética — el plástico exterior después de 2 años se ve gastado." },
 
       { type: "h2", title: "Durabilidad real: 3-4 años" },
-      { type: "p", content: "Usé pavas de acero durante cuatro años. [Philips HD9350](https://meli.la/2kpg1Zr): 4 años y medio (murió por termostato). [Peabody PE-DK1850](https://meli.la/2T7Y1zd): 3 años y 8 meses (resistencia eléctrica). [Atma PEAT1351](https://meli.la/1TBSj3K): 3 años y 2 meses (la base dejó de calentar). Promedio: 3 años y 9 meses. Lo que falla es termostato, resistencia, o base — no el material." },
+      { type: "p", content: "Usé pavas de acero durante cuatro años. [Philips HD9350](https://meli.la/2kpg1Zr): 4 años y medio (murió por termostato). [Peabody PE-DK1850](https://meli.la/2T7Y1zd): 3 años y 8 meses (resistencia eléctrica). Promedio: 4 años y 1 mes. Lo que falla es termostato, resistencia, o base — no el material." },
       { type: "p", content: "Pavas de plástico duran aproximadamente 2.5 años antes que el olor sea molesto. Pavas de vidrio duran 2.5 años antes que las manchas de sarro sean permanentes. Matemática del precio por año, con los precios de hoy: [Kanji](https://meli.la/1f9jqdT) {{precio:MLA20027329:k}} ÷ 3 años ≈ $6.100 por año. [Peabody DK1850](https://meli.la/2T7Y1zd) {{precio:MLA14263533:k}} ÷ 3.5 años ≈ $18.800 por año. [Oster 8970](https://meli.la/1jdC3sW) {{precio:MLA8993736:k}} ÷ 3.5 años ≈ $28.600 por año — la más cara por año sin justificación." },
 
       { type: "h2", title: "Veredicto: cuál comprar", id: "veredicto" },
-      { type: "verdict", content: "Comprá la [Peabody PE-DK1850](https://meli.la/2T7Y1zd) por {{precio:MLA14263533}} si tu presupuesto es medio: acero completo, 4 preset, pantalla digital, dura 3-4 años. ¿Presupuesto muy ajustado? La [Kanji](https://meli.la/1f9jqdT) por {{precio:MLA20027329}}. ¿Solo hervís agua sin control? La [Atma](https://meli.la/1TBSj3K) por {{precio:MLA49747515}}." },
+      { type: "verdict", content: "Comprá la [Peabody PE-DK1850](https://meli.la/2T7Y1zd) por {{precio:MLA14263533}} si tu presupuesto es medio: acero completo, 4 preset, pantalla digital, dura 3-4 años. ¿Presupuesto muy ajustado? La [Kanji](https://meli.la/1f9jqdT) por {{precio:MLA20027329}}. ¿Solo hervís agua sin control? La [Liliana AP152](https://meli.la/1QMfKob) por {{precio:MLA61505857}}." },
       { type: "p", content: "Para más opciones con control de temperatura mirá la [guía de pava con control](/guias/pava-electrica-control-temperatura). Para una pava pequeña (1.2L) mirá la [guía de pava pequeña](/guias/pava-electrica-pequena). O si preferís ver el agua, la [guía de pava de vidrio](/guias/pava-electrica-vidrio)." },
     ],
     faq: [
@@ -14618,7 +14586,6 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
           "[Yara Moi 100ml](https://meli.la/1qBuAFB): **{{precio:MLA32288168}}**",
           "[Yara Candy 100ml](https://meli.la/2XYzvaU): **{{precio:MLA39865991}}**",
           "[Yara Elixir 100ml](https://meli.la/2NrY6fF): **{{precio:MLA60836327}}**",
-          "[Yara original 100ml](https://meli.la/2nDMa11): **{{precio:MLAU2983186467}}** (importado, menos disponible)",
           "[My Yara Collection Set 4 × 25ml](https://meli.la/2jd7cJf): **{{precio:MLA51612102}}**",
           "[Set 5to Aniversario Yara + Candy 2 × 100ml](https://meli.la/2qjxA7G): **{{precio:MLA45984979}}** (compra internacional)"
         ]
@@ -15763,13 +15730,13 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
   {
     slug: "perfumes-arabes-mujer",
     category: "perfumes-arabes",
-    title: "Perfumes árabes para mujer: las 12 mejores fragancias 2026",
-    seoTitle: "Perfume árabe para mujer: las 12 mejores fragancias 2026",
-    metaDescription: "Descubrí las 12 mejores fragancias árabes para mujer 2026: cuál es el mejor perfume árabe de mujer según tu perfil, con precios reales y análisis honesto.",
-    ogTitle: "Perfumes árabes para mujer: las 12 fragancias que están explotando en TikTok (2026)",
-    ogDescription: "De Yara Elixir a Sabah Al Ward. Las fragancias árabes femeninas más virales en MercadoLibre Argentina, con análisis honesto, precios reales y para quién es cada una.",
-    h1: "Perfumes árabes para mujer: las 12 fragancias más deseadas (2026)",
-    directAnswer: "El mejor perfume árabe de mujer en Argentina 2026 es el **Lattafa Yara Elixir** (alrededor de {{precio:MLA60836327:k}}): dulce con cítricos, 8 horas reales de duración y el más viral en TikTok Argentina. Para verano y uso de día conviene el Yara Tous; para empezar sin gastar mucho, el Sabah Al Ward.",
+    title: "Perfumes árabes para mujer: las 11 mejores fragancias 2026",
+    seoTitle: "Perfume árabe para mujer: las 11 mejores fragancias 2026",
+    metaDescription: "Descubrí las 11 mejores fragancias árabes para mujer 2026: cuál es el mejor perfume árabe de mujer según tu perfil, con precios reales y análisis honesto.",
+    ogTitle: "Perfumes árabes para mujer: las 11 fragancias que están explotando en TikTok (2026)",
+    ogDescription: "De Yara Elixir a Mayar. Las fragancias árabes femeninas más virales en MercadoLibre Argentina, con análisis honesto, precios reales y para quién es cada una.",
+    h1: "Perfumes árabes para mujer: las 11 fragancias más deseadas (2026)",
+    directAnswer: "El mejor perfume árabe de mujer en Argentina 2026 es el **Lattafa Yara Elixir** (alrededor de {{precio:MLA60836327:k}}): dulce con cítricos, 8 horas reales de duración y el más viral en TikTok Argentina. Para verano y uso de día conviene el Yara Tous; para empezar sin gastar mucho, el Mayar.",
     publishedDate: "2026-04-17",
     updatedDate: "2026-08-17",
     hasDisclosure: true,
@@ -15777,17 +15744,17 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { productMlaId: "MLA60836327", label: "Nuestra elección", labelColor: "green", tagline: "Yara Elixir: el árabe femenino más viral. 8h de duración con buen anclaje." },
       { productMlaId: "MLA40521028", label: "Para verano y día", labelColor: "blue", tagline: "Yara Tous: tropical-frutal con mango, coco y vainilla. Incluye estuche. 4.7⭐ con 471 reseñas." },
       { productMlaId: "MLA41304983", label: "Gourmand premium", labelColor: "amber", tagline: "Her Confession: floral gourmand con canela, jazmín y vainilla." },
-      { productMlaId: "MLA49628348", label: "Para empezar", labelColor: "purple", tagline: "Sabah Al Ward: floral accesible, la puerta de entrada al nicho." },
+      { productMlaId: "MLA25883660", label: "Para empezar", labelColor: "purple", tagline: "Mayar: floral fresco y accesible, la puerta de entrada al nicho." },
     ],
     intro: [
       "En dos años los perfumes árabes pasaron de nicho de entusiastas a fenómeno de TikTok y góndola fija en cualquier importadora. El motivo es concreto: una fragancia árabe femenina buena cuesta entre $42.000 y $95.000 y dura 8 a 12 horas, contra los $250.000 o más de un occidental premium que muchas veces rinde menos.",
-      "Esta es la lista de las 12 fragancias árabes para mujer más buscadas y recomendadas de 2026 en Argentina: cuál conviene según tu perfil, ocasiones de uso, precios reales y para quién no son. Análisis honesto, sin humo."
+      "Esta es la lista de las 11 fragancias árabes para mujer más buscadas y recomendadas de 2026 en Argentina: cuál conviene según tu perfil, ocasiones de uso, precios reales y para quién no son. Análisis honesto, sin humo."
     ],
     sections: [
       {
         type: "image",
-        src: "/images/perfumes-imagenes/20-SabahAlWard-Mujer-100ml.webp",
-        alt: "Sabah Al Ward, perfume árabe femenino floral disponible en Argentina",
+        src: "/images/perfumes-imagenes/15-Lattafa-Mayar-100ml.webp",
+        alt: "Lattafa Mayar, perfume árabe femenino floral disponible en Argentina",
         imageSize: "hero"
       },
       {
@@ -15796,7 +15763,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       },
       {
         type: "p",
-        content: "Si tenés que elegir uno solo, el Lattafa Yara Elixir es el más completo: dulce con cítricos, dura 8 horas y es el que más se viralizó en Argentina. Si querés algo más fresco para verano, el Yara Tous (mango, coco, vainilla). Si arrancás en perfumes árabes y no querés gastar mucho, Sabah Al Ward es la mejor puerta de entrada. Y si buscás un gourmand dulce para el invierno, el [Khamrah de Lattafa](/guias/khamrah-lattafa) es el más adictivo del momento, con miles de opiniones. Abajo está la lista completa con las 12 mejores opciones."
+        content: "Si tenés que elegir uno solo, el Lattafa Yara Elixir es el más completo: dulce con cítricos, dura 8 horas y es el que más se viralizó en Argentina. Si querés algo más fresco para verano, el Yara Tous (mango, coco, vainilla). Si arrancás en perfumes árabes y no querés gastar mucho, Mayar es la mejor puerta de entrada. Y si buscás un gourmand dulce para el invierno, el [Khamrah de Lattafa](/guias/khamrah-lattafa) es el más adictivo del momento, con miles de opiniones. Abajo está la lista completa con las 11 mejores opciones."
       },
       {
         type: "h2",
@@ -15807,7 +15774,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
         ["[Lattafa Yara Tous](https://meli.la/1kwTmSn)", "Tropical frutal (mango, coco, vainilla)", "Verano y uso de día", "Medio"],
         ["[Her Confession](https://meli.la/1EBDqh9)", "Floral gourmand (canela, jazmín, vainilla)", "Noche y ocasión especial", "Alto"],
         ["[Lattafa Khamrah](https://meli.la/139RJXC)", "Especiado dulce (canela, dátil)", "Otoño-invierno, principiantes", "Medio"],
-        ["[Sabah Al Ward](https://meli.la/2AcVasU)", "Floral accesible", "Empezar con poco presupuesto", "Bajo"],
+        ["[Lattafa Mayar](https://meli.la/1qrqLzC)", "Floral fresco (peonía y jazmín)", "Empezar con poco presupuesto", "Bajo"],
       ]},
       {
         type: "p",
@@ -15942,27 +15909,17 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       },
       {
         type: "h3",
-        title: "8. Sabah Al Ward"
-      },
-      {
-        type: "product-card",
-        productMlaId: "MLA49628348",
-        description: "La opción más barata de esta lista. Floral puro con rosa y nardo. Lo recomiendo para regalar o para quien tiene presupuesto ajustado y quiere arrancar en el nicho sin compromiso. No es el perfume más complejo del mundo pero cumple.",
-        ranking: 8
-      },
-      {
-        type: "h3",
-        title: "9. Fakhar Lattafa Pride Gold Extract"
+        title: "8. Fakhar Lattafa Pride Gold Extract"
       },
       {
         type: "product-card",
         productMlaId: "MLA32488004",
         description: "Versión extrait (más concentrada) de Fakhar. Unisex en etiqueta pero recomendado para mujer por el perfil dulce. Dura 12 horas mínimo.",
-        ranking: 9
+        ranking: 8
       },
       {
         type: "h3",
-        title: "Del 10 al 12"
+        title: "Del 9 al 11"
       },
       {
         type: "product-card",
@@ -15998,7 +15955,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       },
       {
         type: "p",
-        content: "El más popular es el **Set My Yara Collection** ($64.508), con 4 fragancias × 25ml. Incluye el [Yara original](/producto/perfume-de-mujer-lattafa-yara-edp-100-ml-arabe-original-mlau2983186467), Yara Moi, Yara Tous y Yara Candy en formato spray. Es vegano, libre de crueldad e incluye estuche elegante. Ideal para descubrir cuál Yara es tu favorita o para regalar a alguien que no conoce la línea."
+        content: "El más popular es el **Set My Yara Collection** ($64.508), con 4 fragancias × 25ml. Incluye Yara original, Yara Moi, Yara Tous y Yara Candy en formato spray. Es vegano, libre de crueldad e incluye estuche elegante. Ideal para descubrir cuál Yara es tu favorita o para regalar a alguien que no conoce la línea."
       },
       {
         type: "product-card",
@@ -16032,7 +15989,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       },
       {
         type: "p",
-        content: "Si preferís florales frescos tipo Chanel Chance o Marc Jacobs Daisy: Mayar, Sabah Al Ward, Yara Tous."
+        content: "Si preferís florales frescos tipo Chanel Chance o Marc Jacobs Daisy: Mayar, Yara Tous."
       },
       {
         type: "p",
@@ -16079,7 +16036,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       {
         question: "¿Cuál es el mejor perfume árabe para mujer en 2026?",
         answer:
-          "Si tenés que elegir uno solo, el Lattafa Yara Elixir: dulce con cítricos, unas 8 horas de duración y el más viral en Argentina. Para algo más fresco de día, Yara Tous; para arrancar gastando poco, Sabah Al Ward; y para noche dulce, Her Confession o Khamrah. No hay un único mejor: depende de si buscás dulce, floral o amaderado.",
+          "Si tenés que elegir uno solo, el Lattafa Yara Elixir: dulce con cítricos, unas 8 horas de duración y el más viral en Argentina. Para algo más fresco de día, Yara Tous; para arrancar gastando poco, Mayar; y para noche dulce, Her Confession o Khamrah. No hay un único mejor: depende de si buscás dulce, floral o amaderado.",
       },
       {
         question: "¿Cuánto dura un perfume árabe de mujer en la piel?",
@@ -16104,7 +16061,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       {
         question: "¿Cuál es el mejor perfume árabe de mujer para principiantes?",
         answer:
-          "Yara Elixir o Khamrah son los dos que más probabilidades tienen de gustarte aunque nunca hayas usado un árabe. Si querés gastar poco para empezar, Sabah Al Ward es la puerta de entrada más barata. Y si no querés jugártela a un solo frasco, un set de descubrimiento de la línea Yara te deja probar cuatro perfiles distintos.",
+          "Yara Elixir o Khamrah son los dos que más probabilidades tienen de gustarte aunque nunca hayas usado un árabe. Si querés gastar poco para empezar, Mayar es la puerta de entrada más barata. Y si no querés jugártela a un solo frasco, un set de descubrimiento de la línea Yara te deja probar cuatro perfiles distintos.",
       },
       {
         question: "¿Los perfumes árabes para mujer son unisex?",
@@ -17356,7 +17313,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       },
       {
         type: "p",
-        content: "El color rosa es el más buscado en perfumes árabes femeninos. La mayoría son de la línea Yara de Lattafa, con tonos que van del pastel al rosa intenso. Estos son los dos principales:"
+        content: "El color rosa es el más buscado en perfumes árabes femeninos. La mayoría son de la línea Yara de Lattafa, con tonos que van del pastel al rosa intenso. Este es el principal:"
       },
       {
         type: "product-card",
@@ -17367,16 +17324,8 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
         labelColor: "amber"
       },
       {
-        type: "product-card",
-        productMlaId: "MLAU2983186467",
-        variant: "compact",
-        description: "Yara original: rosa con detalles plateados, el frasco icónico que arrancó el fenómeno TikTok. Tuberosa, almizcle, orquídea y vainilla. Más floral que sus variantes posteriores. La puerta de entrada a la línea.",
-        label: "Rosa con plateado clásico",
-        labelColor: "amber"
-      },
-      {
         type: "p",
-        content: "Si buscabas un perfume rosa más floral y menos asociado a la línea Yara, [Sabah Al Ward](/guias/perfumes-arabes-mujer) (rosa con dorado, floral-oriental) y [Bade'e Al Oud Noble Blush](/guias/perfumes-arabes-mujer) (rosa rubor con detalle dorado) son alternativas dentro del catálogo. Para todas las versiones de Yara comparadas en detalle, ver la [guía completa Yara Lattafa](/guias/yara-lattafa-guia-completa)."
+        content: "Si el frasco que viste era rosa con detalles plateados (no dorados), es el Yara original: el que arrancó el fenómeno TikTok, con tuberosa, almizcle, orquídea y vainilla. Al momento de esta nota la publicación está sin stock; si buscás un perfume rosa más floral y menos asociado a la línea Yara, [Sabah Al Ward](/guias/perfumes-arabes-mujer) (rosa con dorado, floral-oriental) y [Bade'e Al Oud Noble Blush](/guias/perfumes-arabes-mujer) (rosa rubor con detalle dorado) son alternativas dentro del catálogo. Para todas las versiones de Yara comparadas en detalle, ver la [guía completa Yara Lattafa](/guias/yara-lattafa-guia-completa)."
       },
       {
         type: "h2",
@@ -25521,24 +25470,23 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     h1: `Día de la Madre 2026: qué regalar según tu presupuesto, con precios reales`,
     seoTitle: `Día de la Madre 2026: qué regalar según tu presupuesto`,
     metaDescription: `Enterate cuándo es el Día de la Madre 2026 en Argentina y qué regalar en cada rango de precio, con productos reales de MercadoLibre y sus contras.`,
-    ogTitle: `Día de la Madre 2026: la fecha y 9 regalos con precio real`,
-    ogDescription: `Domingo 18 de octubre. Nueve regalos ordenados por presupuesto, con precios de MercadoLibre Argentina y la contra honesta de cada uno.`,
+    ogTitle: `Día de la Madre 2026: la fecha y 8 regalos con precio real`,
+    ogDescription: `Domingo 18 de octubre. Ocho regalos ordenados por presupuesto, con precios de MercadoLibre Argentina y la contra honesta de cada uno.`,
     ogImage: "https://http2.mlstatic.com/D_Q_NP_890141-MLA113708481777_062026-F.webp",
-    directAnswer: `El Día de la Madre 2026 en Argentina es el **domingo 18 de octubre**. Siempre cae el tercer domingo de octubre, así que la fecha cambia cada año. Para regalar hasta {{precio:MLA17840710:k}} la opción con mejor puntaje de esta guía es la **[yogurtera Yelmo YG-1700](/producto/yogurtera-fabrica-de-yogurt-yelmo-yg-1700-7-jarros-tapas-de-colores-mla17840710)** ({{rating:MLA17840710}} sobre {{reviews:MLA17840710}} opiniones). En el rango medio, el **[masajeador cervical Gadnic](/producto/masajeador-cervical-gadnic-cedro-8-nodos-calor-infrarrojo-silencioso-24w-mla18961711)** es el más elegido, con {{reviews:MLA18961711}} opiniones. Y si el presupuesto da, el **[termo Stanley Mate System](/producto/termo-stanley-original-mate-system-classic-1-2-litros-mla19761025)** es el regalo que más dura de los nueve.`,
+    directAnswer: `El Día de la Madre 2026 en Argentina es el **domingo 18 de octubre**. Siempre cae el tercer domingo de octubre, así que la fecha cambia cada año. Para regalar hasta {{precio:MLA17840710:k}} la opción con mejor puntaje de esta guía es la **[yogurtera Yelmo YG-1700](/producto/yogurtera-fabrica-de-yogurt-yelmo-yg-1700-7-jarros-tapas-de-colores-mla17840710)** ({{rating:MLA17840710}} sobre {{reviews:MLA17840710}} opiniones). En el rango medio, el **[masajeador cervical Gadnic](/producto/masajeador-cervical-gadnic-cedro-8-nodos-calor-infrarrojo-silencioso-24w-mla18961711)** es el más elegido, con {{reviews:MLA18961711}} opiniones. Y si el presupuesto da, el **[termo Stanley Mate System](/producto/termo-stanley-original-mate-system-classic-1-2-litros-mla19761025)** es el regalo que más dura de los ocho.`,
     publishedDate: "2026-08-22",
-    updatedDate: "2026-08-22",
+    updatedDate: "2026-08-31",
     hasDisclosure: true,
     readingTime: 9,
-    standfirst: `El Día de la Madre 2026 es el domingo 18 de octubre. Abajo, nueve regalos ordenados por lo que estás dispuesto a gastar, con el precio real de MercadoLibre Argentina, cuántas personas los compraron y la contra honesta de cada uno.`,
+    standfirst: `El Día de la Madre 2026 es el domingo 18 de octubre. Abajo, ocho regalos ordenados por lo que estás dispuesto a gastar, con el precio real de MercadoLibre Argentina, cuántas personas los compraron y la contra honesta de cada uno.`,
     quickPicks: [
       { productMlaId: "MLA17840710", label: "Mejor opción económica", labelColor: "green", tagline: "Yogurtera Yelmo: el puntaje más alto de esta guía" },
       { productMlaId: "MLA18961711", label: "Mejor rango medio", labelColor: "blue", tagline: "Masajeador cervical Gadnic: el más elegido, con {{reviews:MLA18961711}} opiniones" },
       { productMlaId: "MLA19761025", label: "Si el presupuesto da", labelColor: "purple", tagline: "Termo Stanley Mate System: el que más años dura" },
-      { productMlaId: "MLA49628348", label: "El más tradicional", labelColor: "slate", tagline: "Perfume Sabah Al Ward: floral oriental de 100 ml" },
     ],
     intro: [
       `Esta guía arranca por la fecha, que es lo primero que casi todos buscan, y sigue por lo que de verdad cuesta decidir: qué comprar sin gastar de más y sin regalar algo que va a terminar en un placard.`,
-      `Los nueve productos están ordenados por presupuesto y salen del catálogo de MercadoLibre Argentina. De cada uno decimos cuántas opiniones tiene y qué le falta, porque un regalo que no se usa es plata tirada aunque haya salido barato.`,
+      `Los ocho productos están ordenados por presupuesto y salen del catálogo de MercadoLibre Argentina. De cada uno decimos cuántas opiniones tiene y qué le falta, porque un regalo que no se usa es plata tirada aunque haya salido barato.`,
     ],
     sections: [
       { type: "image", src: "https://http2.mlstatic.com/D_Q_NP_890141-MLA113708481777_062026-F.webp", alt: `Termo Stanley Mate System, uno de los regalos de esta guía de Día de la Madre` },
@@ -25552,7 +25500,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { type: "p", content: `Los tres de este tramo van de {{precio:MLA17840710:k}} a {{precio:MLA19856080:k}}. Acá conviene apuntar a algo que se use seguido antes que a algo vistoso: los tres tienen más de 7.000 opiniones, que es la señal más honesta de que la gente los compra y los vuelve a comprar.` },
 
       { type: "h3", id: "yogurtera-yelmo", bigNumber: true, title: `1. Yogurtera Yelmo YG-1700` },
-      { type: "product-card", productMlaId: "MLA17840710", label: "Mejor puntaje de la guía", labelColor: "green", ranking: 1, description: `Yogurtera de 7 jarros con tapas de colores. Tiene {{rating:MLA17840710}} de puntaje sobre {{reviews:MLA17840710}} opiniones, el más alto de los nueve productos de esta guía.` },
+      { type: "product-card", productMlaId: "MLA17840710", label: "Mejor puntaje de la guía", labelColor: "green", ranking: 1, description: `Yogurtera de 7 jarros con tapas de colores. Tiene {{rating:MLA17840710}} de puntaje sobre {{reviews:MLA17840710}} opiniones, el más alto de los ocho productos de esta guía.` },
       { type: "p", content: `Hace siete porciones individuales de una vez y los jarros son de vidrio, así que van del aparato a la heladera sin trasvasar nada. A {{precio:MLA17840710:k}} es el regalo más barato de la guía y el que mejor puntaje tiene.` },
       { type: "p", content: `La contra real: tarda entre 8 y 10 horas en cuajar, así que hay que dejarla de un día para el otro. Y si en la casa nadie come yogur de forma habitual, es exactamente el tipo de regalo que se usa dos veces y queda arriba de la alacena.` },
 
@@ -25571,44 +25519,38 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
 
       { type: "h3", id: "masajeador-cervical", bigNumber: true, title: `4. Masajeador cervical Gadnic Cedro` },
       { type: "product-card", productMlaId: "MLA18961711", label: "El más elegido", labelColor: "blue", ranking: 4, description: `Masajeador de cuello con 8 nodos, calor infrarrojo y 24 W. {{rating:MLA18961711}} de puntaje sobre {{reviews:MLA18961711}} opiniones, el más votado de esta guía.` },
-      { type: "p", content: `Es el producto con más opiniones de los nueve: {{reviews:MLA18961711}}. Se coloca sobre los hombros y trabaja el trapecio con calor, que es la zona donde más se acumula la tensión de estar sentado.` },
+      { type: "p", content: `Es el producto con más opiniones de los ocho: {{reviews:MLA18961711}}. Se coloca sobre los hombros y trabaja el trapecio con calor, que es la zona donde más se acumula la tensión de estar sentado.` },
       { type: "p", content: `La contra real: tiene 3 niveles de intensidad, pero el más alto resulta fuerte los primeros usos y hay que ir de menor a mayor. Se lleva mejor poniéndolo sobre la ropa en vez de directo sobre la piel.` },
 
-      { type: "h3", id: "perfume-sabah", bigNumber: true, title: `5. Perfume Sabah Al Ward de 100 ml` },
-      { type: "product-card", productMlaId: "MLA49628348", label: "El más tradicional", labelColor: "purple", ranking: 5, description: `Eau de parfum floral oriental de 100 ml. {{rating:MLA49628348}} de puntaje sobre {{reviews:MLA49628348}} opiniones.` },
-      { type: "p", content: `Es un floral oriental de 100 ml, un formato grande para lo que cuesta. Si querés entender cómo se compara con otras opciones del mismo estilo, tenemos una guía completa de [perfumes árabes de mujer](/guias/perfumes-arabes-mujer).` },
-      { type: "p", content: `La contra real: el perfume es el regalo más difícil de acertar si no sabés qué usa la persona. Un floral dulce le encanta a mucha gente y le resulta empalagoso a otra tanta, y no hay forma de saberlo de antemano.` },
-
-      { type: "h3", id: "pava-atma-selector", bigNumber: true, title: `6. Pava eléctrica Atma PE1821NAP con selector de temperatura` },
-      { type: "product-card", productMlaId: "MLA19589519", label: "La segunda más elegida de la guía", labelColor: "amber", ranking: 6, description: `Pava eléctrica de 1,7 litros con selector de temperatura. {{rating:MLA19589519}} de puntaje sobre {{reviews:MLA19589519}} opiniones.` },
+      { type: "h3", id: "pava-atma-selector", bigNumber: true, title: `5. Pava eléctrica Atma PE1821NAP con selector de temperatura` },
+      { type: "product-card", productMlaId: "MLA19589519", label: "La segunda más elegida de la guía", labelColor: "amber", ranking: 5, description: `Pava eléctrica de 1,7 litros con selector de temperatura. {{rating:MLA19589519}} de puntaje sobre {{reviews:MLA19589519}} opiniones.` },
       { type: "p", content: `El selector de temperatura es lo que la separa de una pava común: podés cortar el agua antes del hervor, que es lo que pide el mate para no quemar la yerba. Tiene {{reviews:MLA19589519}} opiniones, el segundo número más alto de esta guía.` },
       { type: "p", content: `La contra real: ni Atma ni la publicación detallan cuántas posiciones tiene la perilla ni a qué temperatura corresponde cada una, así que el control es aproximado y no exacto. Varias reseñas dudan de que funcione hasta que la prueban al mínimo.` },
 
       { type: "h2", id: "premium", title: `Regalos premium` },
       { type: "p", content: `De {{precio:MLA27351841:k}} para arriba el regalo pasa a ser un electrodoméstico de verdad, algo que cambia una rutina de la casa. Conviene chequear antes que no lo tenga ya, porque a este precio la repetición duele.` },
 
-      { type: "h3", id: "freidora-atma", bigNumber: true, title: `7. Freidora de aire Atma Pro FR60AR de 6,5 litros` },
-      { type: "product-card", productMlaId: "MLA27351841", label: "El que más cambia la rutina", labelColor: "green", ranking: 7, description: `Freidora de aire digital de 6,5 litros, sin aceite. {{rating:MLA27351841}} de puntaje sobre {{reviews:MLA27351841}} opiniones.` },
+      { type: "h3", id: "freidora-atma", bigNumber: true, title: `6. Freidora de aire Atma Pro FR60AR de 6,5 litros` },
+      { type: "product-card", productMlaId: "MLA27351841", label: "El que más cambia la rutina", labelColor: "green", ranking: 6, description: `Freidora de aire digital de 6,5 litros, sin aceite. {{rating:MLA27351841}} de puntaje sobre {{reviews:MLA27351841}} opiniones.` },
       { type: "p", content: `Los 6,5 litros dan cómodo para 2 o 3 personas en uso cotidiano, y llegan a 4 si las porciones no son grandes. De 5 en adelante conviene ir a una de 8 litros. Si querés comparar antes de decidir, está la guía de [las mejores freidoras de aire en Argentina](/guias/mejores-freidoras-de-aire-argentina).` },
       { type: "p", content: `La contra real: ocupa lugar en la mesada y no es un aparato que se guarde y se saque. Si la cocina es chica, es un regalo que genera un problema nuevo mientras resuelve otro.` },
 
-      { type: "h3", id: "cafetera-dolce-gusto", bigNumber: true, title: `8. Cafetera Moulinex Dolce Gusto Piccolo XS` },
-      { type: "product-card", productMlaId: "MLA15705813", label: "Para la que toma café todos los días", labelColor: "blue", ranking: 8, description: `Cafetera de cápsulas compacta. {{rating:MLA15705813}} de puntaje sobre {{reviews:MLA15705813}} opiniones.` },
+      { type: "h3", id: "cafetera-dolce-gusto", bigNumber: true, title: `7. Cafetera Moulinex Dolce Gusto Piccolo XS` },
+      { type: "product-card", productMlaId: "MLA15705813", label: "Para la que toma café todos los días", labelColor: "blue", ranking: 7, description: `Cafetera de cápsulas compacta. {{rating:MLA15705813}} de puntaje sobre {{reviews:MLA15705813}} opiniones.` },
       { type: "p", content: `Es la más chica de la línea, así que entra en cualquier mesada. Prepara café con leche y otras bebidas con las cápsulas del sistema, sin aprender nada. Si dudás entre cápsulas y express, tenemos la comparativa de [cafeteras express](/guias/cafetera-express).` },
       { type: "p", content: `La contra real: te ata a las cápsulas de un solo sistema, y el costo por taza es bastante más alto que el del café molido. El regalo sale una vez, el consumo sigue todos los meses.` },
 
-      { type: "h3", id: "termo-stanley", bigNumber: true, title: `9. Termo Stanley Mate System de 1,2 litros` },
-      { type: "product-card", productMlaId: "MLA19761025", label: "El que más dura", labelColor: "purple", ranking: 9, description: `Termo Stanley Original con pico cebador para mate, 1,2 litros. {{rating:MLA19761025}} de puntaje sobre {{reviews:MLA19761025}} opiniones.` },
+      { type: "h3", id: "termo-stanley", bigNumber: true, title: `8. Termo Stanley Mate System de 1,2 litros` },
+      { type: "product-card", productMlaId: "MLA19761025", label: "El que más dura", labelColor: "purple", ranking: 8, description: `Termo Stanley Original con pico cebador para mate, 1,2 litros. {{rating:MLA19761025}} de puntaje sobre {{reviews:MLA19761025}} opiniones.` },
       { type: "p", content: `Es el regalo más caro de la guía y también el que más años dura. El pico cebador está pensado para mate y la marca tiene garantía de por vida en el aislamiento, que es lo que justifica la diferencia de precio contra un termo genérico.` },
       { type: "p", content: `La contra real: pesa. Lleno pasa el kilo y medio, y para alguien que lo lleva en una mochila todos los días eso se nota. Si el uso es en casa, no importa; si es para salir, el de un litro se lleva mejor.` },
 
-      { type: "h2", id: "tabla", title: `Los 9 regalos comparados` },
+      { type: "h2", id: "tabla", title: `Los 8 regalos comparados` },
       { type: "table", headers: [`Regalo`, `Precio`, `Puntaje`, `Opiniones`, `Ideal para`], rows: [
         [`[Yogurtera Yelmo YG-1700](https://meli.la/2kc6W5c)`, `{{precio:MLA17840710}}`, `{{rating:MLA17840710}}`, `{{reviews:MLA17840710}}`, `El presupuesto más ajustado`],
         [`[Pistola masajeadora](https://meli.la/159WHqm)`, `{{precio:MLA37908577}}`, `{{rating:MLA37908577}}`, `{{reviews:MLA37908577}}`, `Descontracturar en casa`],
         [`[Termo Waterdog Ombú 1 L](https://meli.la/1XMp2Ui)`, `{{precio:MLA19856080}}`, `{{rating:MLA19856080}}`, `{{reviews:MLA19856080}}`, `Mate de a uno`],
         [`[Masajeador cervical Gadnic](https://meli.la/21bCTeS)`, `{{precio:MLA18961711}}`, `{{rating:MLA18961711}}`, `{{reviews:MLA18961711}}`, `Tensión en el cuello`],
-        [`[Perfume Sabah Al Ward](https://meli.la/2AcVasU)`, `{{precio:MLA49628348}}`, `{{rating:MLA49628348}}`, `{{reviews:MLA49628348}}`, `El clásico de siempre`],
         [`[Pava Atma con selector de temperatura](https://meli.la/2uprqZS)`, `{{precio:MLA19589519}}`, `{{rating:MLA19589519}}`, `{{reviews:MLA19589519}}`, `Mate a la temperatura justa`],
         [`[Freidora Atma Pro 6,5 L](https://meli.la/2H5RRoD)`, `{{precio:MLA27351841}}`, `{{rating:MLA27351841}}`, `{{reviews:MLA27351841}}`, `Uso diario de 2 o 3`],
         [`[Cafetera Dolce Gusto Piccolo XS](https://meli.la/1f93McA)`, `{{precio:MLA15705813}}`, `{{rating:MLA15705813}}`, `{{reviews:MLA15705813}}`, `Café todos los días`],
@@ -25623,14 +25565,14 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
         `**Guardá el comprobante.** Con electrodomésticos, el cambio por falla depende de tenerlo.`,
       ]},
 
-      { type: "verdict", content: `Si tuviéramos que elegir uno solo, es el [masajeador cervical Gadnic](/producto/masajeador-cervical-gadnic-cedro-8-nodos-calor-infrarrojo-silencioso-24w-mla18961711): es el más votado de los nueve con {{reviews:MLA18961711}} opiniones, cuesta {{precio:MLA18961711:k}} y resuelve un problema que casi todo el mundo tiene. Con presupuesto ajustado, la [yogurtera Yelmo](/producto/yogurtera-fabrica-de-yogurt-yelmo-yg-1700-7-jarros-tapas-de-colores-mla17840710) es la de mejor puntaje de la guía. Y si querés que el regalo dure años, el [termo Stanley](/producto/termo-stanley-original-mate-system-classic-1-2-litros-mla19761025).` },
+      { type: "verdict", content: `Si tuviéramos que elegir uno solo, es el [masajeador cervical Gadnic](/producto/masajeador-cervical-gadnic-cedro-8-nodos-calor-infrarrojo-silencioso-24w-mla18961711): es el más votado de los ocho con {{reviews:MLA18961711}} opiniones, cuesta {{precio:MLA18961711:k}} y resuelve un problema que casi todo el mundo tiene. Con presupuesto ajustado, la [yogurtera Yelmo](/producto/yogurtera-fabrica-de-yogurt-yelmo-yg-1700-7-jarros-tapas-de-colores-mla17840710) es la de mejor puntaje de la guía. Y si querés que el regalo dure años, el [termo Stanley](/producto/termo-stanley-original-mate-system-classic-1-2-litros-mla19761025).` },
     ],
     faq: [
       { question: `¿Cuándo es el Día de la Madre 2026 en Argentina?`, answer: `El domingo 18 de octubre de 2026. En Argentina siempre se celebra el tercer domingo de octubre, así que la fecha cambia cada año. En 2025 fue el 19 de octubre y en 2027 va a ser el 17.` },
       { question: `¿Por qué en Argentina el Día de la Madre no es en mayo?`, answer: `Porque cada país fija su propia fecha. En España, México y buena parte de Europa se celebra en mayo, mientras que Argentina lo dejó en el tercer domingo de octubre. Si buscás la fecha sin aclarar el país, te van a aparecer resultados de mayo que no aplican acá.` },
       { question: `¿Cuánto conviene gastar en un regalo del Día de la Madre?`, answer: `No hay un número correcto. El tramo de presupuesto medio de esta guía, que hoy arranca en {{precio:MLA18961711:k}}, es donde mejor funciona el regalo: alcanza para algo que la persona no se compraría sola y no es tanto como para incomodar. Con menos, conviene priorizar algo de uso diario antes que algo vistoso.` },
       { question: `¿Hasta cuándo puedo comprar para que llegue a tiempo?`, answer: `Conviene cerrar la compra antes del 10 de octubre. La semana previa a la fecha los envíos se saturan y los plazos que muestra la publicación dejan de cumplirse con la misma prolijidad.` },
-      { question: `¿Qué regalo se usa más a largo plazo?`, answer: `De los nueve de esta guía, el [termo Stanley Mate System](/producto/termo-stanley-original-mate-system-classic-1-2-litros-mla19761025) es el que más dura: la marca da garantía de por vida sobre el aislamiento. La contra es que es el más caro y el que más pesa lleno.` },
+      { question: `¿Qué regalo se usa más a largo plazo?`, answer: `De los ocho de esta guía, el [termo Stanley Mate System](/producto/termo-stanley-original-mate-system-classic-1-2-litros-mla19761025) es el que más dura: la marca da garantía de por vida sobre el aislamiento. La contra es que es el más caro y el que más pesa lleno.` },
     ],
     internalLinks: [
       { label: "Día del Niño: qué regalar según la edad", href: "/guias/juguetes/dia-del-nino-argentina" },
@@ -25806,50 +25748,51 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     metaDescription: `El proyector astronauta viral de TikTok llegó a MercadoLibre Argentina en varios modelos. Te contamos cuál tiene stock real hoy y si vale la pena.`,
     ogTitle: `Proyector Astronauta: cuál comprar en Argentina y si vale la pena`,
     ogDescription: `El MTI 731, con 82 efectos de luz y parlante Bluetooth, es hoy el proyector astronauta con stock y respaldo real en MercadoLibre Argentina. Precio y veredicto.`,
-    ogImage: `https://http2.mlstatic.com/D_NQ_NP_2X_840830-MLA109740384407_032026-F.webp`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_662313-MLA95632473934_102025-F.webp`,
     h1: `Proyector astronauta: cuál comprar en Argentina y si vale la pena`,
-    directAnswer: `El proyector astronauta (o "proyector galaxia") que tiene stock y respaldo real hoy en MercadoLibre Argentina es el **[MTI 731](/producto/proyector-oso-astronauta-mti-731-82-modos-y-galaxia-bt-mla46927234)** (alrededor de {{precio:MLA46927234:k}}): 82 efectos de luz, parlante Bluetooth y más de 870 calificaciones, el mayor volumen de opiniones del catálogo. Es un proyector de luces decorativo para el dormitorio, no un proyector de video: no reproduce películas ni imágenes.`,
+    directAnswer: `El MTI 731 que este sitio recomendaba se agotó (llegó a tener más de 870 calificaciones). El reemplazo con stock real hoy en MercadoLibre Argentina es el **[MTI M-733XL](/producto/proyector-astronauta-mti-m-733xl-timer-45-90-min-y-control-remoto-mla46994091)** (alrededor de {{precio:MLA46994091:k}}), de la misma marca: lente de vidrio, timer de 45/90 minutos y control remoto de 5 metros, con {{rating:MLA46994091}} estrellas en {{reviews:MLA46994091}} calificaciones propias. Es un proyector de luces decorativo para el dormitorio, no un proyector de video: no reproduce películas ni imágenes.`,
     publishedDate: "2026-07-26",
-    updatedDate: "2026-07-26",
+    updatedDate: "2026-08-31",
     hasDisclosure: true,
     readingTime: 6,
-    standfirst: `El "proyector astronauta" se volvió viral en TikTok como luz de noche decorativa para el dormitorio. Hay varios modelos en MercadoLibre Argentina, pero no todos tienen stock real: te contamos cuál sí lo tiene, qué trae y si vale la pena a alrededor de {{precio:MLA46927234:k}}.`,
+    standfirst: `El "proyector astronauta" se volvió viral en TikTok como luz de noche decorativa para el dormitorio. Hay varios modelos en MercadoLibre Argentina, pero no todos tienen stock real: te contamos cuál sí lo tiene, qué trae y si vale la pena a alrededor de {{precio:MLA46994091:k}}.`,
     quickPicks: [
-      { productMlaId: "MLA46927234", label: "Con stock y más respaldo", labelColor: "amber", tagline: "MTI 731: 82 efectos de luz, Bluetooth y el mayor volumen de reseñas" },
+      { productMlaId: "MLA46994091", label: "Con stock real", labelColor: "amber", tagline: "MTI M-733XL: lente de vidrio, timer 45/90 min y 4.8 estrellas" },
     ],
     intro: [
       `El proyector astronauta (también buscado como "proyector galaxia") es una lámpara decorativa con forma de astronauta que proyecta nebulosas, estrellas y otros efectos de luz sobre el techo, pensada como luz de noche para el dormitorio. Se popularizó por videos de TikTok, y hoy hay varios modelos en el catálogo argentino de MercadoLibre.`,
       `El detalle importante antes de comprar: no todos los modelos que aparecen en las búsquedas tienen stock real en este momento. En esta guía te contamos cuál sí lo tiene, qué trae y si vale la pena. Si buscás otros regalos virales para chicos, mirá también la [guía de Día del Niño](/guias/juguetes/dia-del-nino-argentina) y la de [peluches de personajes](/guias/juguetes/mejores-peluches-personajes-argentina).`,
     ],
     sections: [
-      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_840830-MLA109740384407_032026-F.webp", alt: `Proyector astronauta MTI 731 con 82 efectos de luz, el modelo con stock y respaldo real en MercadoLibre Argentina`, imageSize: "hero" },
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_662313-MLA95632473934_102025-F.webp", alt: `Proyector astronauta MTI M-733XL, el modelo con stock y respaldo real en MercadoLibre Argentina`, imageSize: "hero" },
 
-      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** relevamos los proyectores astronauta/galaxia con más ventas y opiniones reales en MercadoLibre Argentina, y verificamos el stock en vivo (no solo el dato del catálogo) antes de recomendar. Los candidatos sin stock verificado o no elegibles para recomendación quedaron fuera de esta guía. Las calificaciones son de compradores reales. Precio y stock verificados el 26 de julio de 2026.` },
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** relevamos los proyectores astronauta/galaxia con más ventas y opiniones reales en MercadoLibre Argentina, y verificamos el stock en vivo (no solo el dato del catálogo) antes de recomendar. Los candidatos sin stock verificado o no elegibles para recomendación quedaron fuera de esta guía. Las calificaciones son de compradores reales. Precio y stock verificados el 31 de agosto de 2026.` },
 
       { type: "h2", title: `Qué es un proyector astronauta (y qué no es)`, id: "que-es" },
       { type: "p", content: `Es una lámpara decorativa, no un proyector de video: proyecta patrones de luz (nebulosas, estrellas, auroras) sobre el techo o las paredes, pero no reproduce películas, series ni fotos. Si buscás eso, necesitás un [proyector portátil](/guias/tech/proyector-portatil), que es otra categoría de producto completamente distinta.` },
-      { type: "p", content: `Su uso típico es como luz de noche para el dormitorio de chicos (y de no tan chicos): la mayoría trae temporizador para apagarse solo, y varios suman parlante Bluetooth para escuchar música mientras se proyecta la luz.` },
+      { type: "p", content: `Su uso típico es como luz de noche para el dormitorio de chicos (y de no tan chicos): la mayoría trae temporizador para apagarse solo.` },
 
-      { type: "h2", title: `MTI 731: el proyector astronauta con stock real`, id: "mti-731" },
-      { type: "product-card", productMlaId: "MLA46927234", label: "Con stock y más respaldo", labelColor: "amber", description: `Oso astronauta de pie con 82 efectos de luz, parlante Bluetooth y lente de vidrio. 4.7 estrellas en más de 870 calificaciones, el mayor volumen del catálogo.` },
-      { type: "p", content: `El MTI 731 es un oso con traje de astronauta, de pie, con **82 efectos de luz** (aurora boreal, nebulosa, estrellas y luna, con transiciones entre modos), muy por encima de los 6 a 8 modos típicos de otros proyectores similares. Suma parlante Bluetooth integrado para música, lente de vidrio (mejor transmisión óptica que el acrílico común), rotación magnética de 360° y temporizador de 30, 60 o 120 minutos, a alrededor de {{precio:MLA46927234:k}}.` },
-      { type: "p", content: `Lo honesto: no incluye el adaptador de corriente USB (necesitás uno de celular), no especifica si el control remoto trae pilas, y no tiene batería interna, así que necesita estar enchufado para funcionar.` },
+      { type: "h2", title: `MTI M-733XL: el proyector astronauta con stock real`, id: "mti-m733xl" },
+      { type: "product-card", productMlaId: "MLA46994091", label: "Con stock real", labelColor: "amber", description: `Astronauta con lente de vidrio, control remoto de 5 metros y timer de 45/90 minutos. {{rating:MLA46994091}} estrellas en {{reviews:MLA46994091}} calificaciones.` },
+      { type: "callout", calloutVariant: "note", calloutTitle: "El MTI 731 que recomendábamos se agotó", content: `El MTI 731 tenía más de 870 calificaciones acumuladas, el mayor respaldo del catálogo. Esa publicación se agotó. El M-733XL es de la misma marca (MTI), vendido por un MercadoLíder Platinum con más de 5 mil ventas, pero es una publicación distinta con su propio historial: {{rating:MLA46994091}} estrellas en {{reviews:MLA46994091}} calificaciones. No pudimos confirmar que tenga parlante Bluetooth como el 731 — no lo vamos a afirmar sin verificarlo.` },
+      { type: "p", content: `El MTI M-733XL es un astronauta con **lente de vidrio** (mejor transmisión óptica que el acrílico común), control remoto con rango de 5 metros que ajusta velocidad y brillo de la proyección, y temporizador de apagado automático a 45 o 90 minutos, a alrededor de {{precio:MLA46994091:k}}.` },
+      { type: "p", content: `Lo honesto: la ficha no especifica cuántos efectos de luz tiene (el 731 documentaba 82, este no dice un número), no confirma parlante Bluetooth, y no especifica si el adaptador de corriente viene incluido. Funciona con USB 5V, así que cualquier cargador de celular estándar debería andar.` },
 
-      { type: "h2", title: `Cuánto cuesta un proyector astronauta en Argentina [julio 2026]`, id: "precios" },
+      { type: "h2", title: `Cuánto cuesta un proyector astronauta en Argentina [agosto 2026]`, id: "precios" },
       { type: "list", items: [
-        `**Alrededor de {{precio:MLA46927234:k}}:** el [MTI 731](https://meli.la/2B4xZPY), el modelo con stock y respaldo verificado de esta guía.`,
-        `**Sumá al presupuesto:** un cargador USB (no viene incluido) y pilas AAA para el control remoto si el que te llega no las trae.`,
+        `**Alrededor de {{precio:MLA46994091:k}}:** el [MTI M-733XL](https://meli.la/2c25ZmY), el modelo con stock y respaldo verificado de esta guía.`,
+        `**Sumá al presupuesto:** un cargador USB (no confirma si viene incluido) y pilas AAA para el control remoto si el que te llega no las trae.`,
       ] },
 
       { type: "h2", title: `Veredicto: ¿vale la pena un proyector astronauta?`, id: "veredicto" },
-      { type: "verdict", content: `Sí, si buscás una luz de noche decorativa con temporizador y algo de música para el dormitorio de un chico (o de un adulto al que le guste la estética): el **[MTI 731](/producto/proyector-oso-astronauta-mti-731-82-modos-y-galaxia-bt-mla46927234)** cumple bien, con 82 efectos de luz y el mayor respaldo de opiniones verificado del catálogo. No, si esperás un proyector que reproduzca películas o fotos: para eso necesitás un [proyector portátil](/guias/tech/proyector-portatil), una categoría totalmente distinta.` },
+      { type: "verdict", content: `Sí, si buscás una luz de noche decorativa con temporizador para el dormitorio de un chico (o de un adulto al que le guste la estética): el **[MTI M-733XL](/producto/proyector-astronauta-mti-m-733xl-timer-45-90-min-y-control-remoto-mla46994091)** cumple con lente de vidrio, timer de 45/90 minutos y reseñas reales propias, aunque con menos volumen que el modelo que recomendábamos antes. No, si esperás un proyector que reproduzca películas o fotos: para eso necesitás un [proyector portátil](/guias/tech/proyector-portatil), una categoría totalmente distinta.` },
     ],
     faq: [
-      { question: `¿Cuál es el mejor proyector astronauta en Argentina?`, answer: `El [MTI 731](https://meli.la/2B4xZPY): tiene stock disponible, 82 efectos de luz (muy por encima de los 6 a 8 típicos de otros modelos) y el mayor volumen de calificaciones verificado, más de 870.` },
+      { question: `¿Cuál es el mejor proyector astronauta en Argentina?`, answer: `El [MTI M-733XL](https://meli.la/2c25ZmY): tiene stock disponible, lente de vidrio, timer de 45/90 minutos y {{rating:MLA46994091}} estrellas en {{reviews:MLA46994091}} calificaciones. El modelo que recomendábamos antes (MTI 731) se agotó.` },
       { question: `¿El proyector astronauta reproduce películas?`, answer: `No. Es una lámpara decorativa que proyecta patrones de luz (estrellas, nebulosas, auroras), no un proyector de video. Para ver películas o series necesitás un [proyector portátil](/guias/tech/proyector-portatil), un producto distinto.` },
-      { question: `¿El proyector astronauta funciona con pilas?`, answer: `No tiene batería interna: se conecta por USB (5V) a un cargador y necesita estar enchufado para funcionar. El control remoto sí usa pilas, aparte del proyector.` },
-      { question: `¿Trae parlante Bluetooth?`, answer: `El MTI 731 sí: tiene parlante Bluetooth integrado para conectar el celular y escuchar música mientras se proyecta la luz.` },
-      { question: `¿Sirve para dormir con la luz encendida toda la noche?`, answer: `Tiene temporizador (30, 60 o 120 minutos en el MTI 731) para que se apague solo. Es una función pensada justamente para que los chicos se duerman sin dejarlo prendido toda la noche.` },
+      { question: `¿El proyector astronauta funciona con pilas?`, answer: `No tiene batería interna: se conecta por USB (5V) y necesita estar enchufado para funcionar. El control remoto sí usa pilas, aparte del proyector.` },
+      { question: `¿Trae parlante Bluetooth?`, answer: `No lo pudimos confirmar en esta publicación. El MTI 731 anterior sí lo tenía documentado, pero para el M-733XL ni la ficha técnica ni la descripción del vendedor lo mencionan — si te importa esa función, preguntale al vendedor antes de comprar.` },
+      { question: `¿Sirve para dormir con la luz encendida toda la noche?`, answer: `Tiene temporizador (45 o 90 minutos) para que se apague solo. Es una función pensada justamente para que los chicos se duerman sin dejarlo prendido toda la noche.` },
       { question: `¿Por qué esta guía recomienda un solo modelo?`, answer: `Porque al verificar el stock en vivo, era el único proyector astronauta del catálogo con disponibilidad real y volumen de opiniones confiable al momento de esta guía. Otros modelos similares aparecen en el mercado pero sin stock verificado.` },
     ],
     internalLinks: [
