@@ -14713,6 +14713,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { label: "Khamrah de Lattafa: original vs Qahwa", href: "/guias/khamrah-lattafa" },
       { label: "Lattafa: guía de la marca", href: "/guias/lattafa-guia-marca" },
       { label: "Perfume árabe de mujer: las 12 mejores", href: "/guias/perfumes-arabes-mujer" },
+      { label: "Perfumes árabes de hombre: el ranking completo", href: "/guias/mejores-perfumes-arabes-hombre" },
       { label: "Precios reales en Argentina", href: "/guias/perfumes-arabes-precio-argentina" },
     ],
     internalLinksTitle: "Más perfumes árabes",
@@ -17733,7 +17734,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       },
       {
         type: "p",
-        content: "Estos cuatro cubren los clones masculinos más pedidos. Si querés el panorama completo de la categoría [perfume árabe hombre](/guias/mejores-perfumes-arabes-hombre) más allá de los dupes, el ranking general ordena todo el segmento."
+        content: "Estos cuatro cubren los clones masculinos más pedidos. Si querés el panorama completo de la categoría [perfumes árabes de hombre](/guias/mejores-perfumes-arabes-hombre) más allá de los dupes, el ranking general ordena todo el segmento."
       },
       {
         type: "h2",
@@ -18385,7 +18386,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       },
       {
         type: "p",
-        content: "El perfume árabe de hombre más vendido en Argentina es el Rasasi Hawas Ice (9.144 reseñas, 4.8⭐). Le siguen: **Asad Intense** (7.245, 4.6⭐) y **Afnan 9PM Elixir** (1.060, 4.8⭐). Los tres en familias olfativas distintas: Hawas Ice es fresco-frutal-acuático, Asad Intense es especiado-amaderado, 9PM Elixir es gourmand-oriental. Para profundizar en cada uno y conocer otras alternativas masculinas, ver el ranking completo de [perfume árabe hombre](/guias/mejores-perfumes-arabes-hombre)."
+        content: "El perfume árabe de hombre más vendido en Argentina es el Rasasi Hawas Ice (9.144 reseñas, 4.8⭐). Le siguen: **Asad Intense** (7.245, 4.6⭐) y **Afnan 9PM Elixir** (1.060, 4.8⭐). Los tres en familias olfativas distintas: Hawas Ice es fresco-frutal-acuático, Asad Intense es especiado-amaderado, 9PM Elixir es gourmand-oriental. Para profundizar en cada uno y conocer otras alternativas masculinas, ver el ranking completo de [perfumes árabes de hombre](/guias/mejores-perfumes-arabes-hombre)."
       },
       {
         type: "h2",
