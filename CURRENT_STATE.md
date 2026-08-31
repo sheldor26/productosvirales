@@ -1,7 +1,22 @@
 # Estado actual
 
 > Snapshot del proyecto. Se actualiza al final de cada sesión.
-> Última actualización: 2026-08-29 (nuevo pilar `setup-gamer` PUBLICADO en el silo gaming, y guía `barra-de-sonido-precio` STAGED para 2026-09-12 en categoría nueva `barras-de-sonido` del silo audio, con doble GO del trío auditor. Ver sesión de hoy más abajo.)
+> Última actualización: 2026-08-31 (rutina automática en la nube: se dejó anotado en `docs/seo-tracking-optimizaciones.md` que hoy es el día agendado para medir el test de tono de `proyector-portatil`, pero la sesión no tiene credenciales de GSC/GA4 — medición sigue pendiente de correr localmente. Sin cambios de contenido/producto. Ver sesión de hoy más abajo.)
+
+## Sesión 2026-08-31 — Rutina automática: recordatorio de día de medición (test de tono `proyector-portatil`)
+
+### LO QUE SE HIZO
+
+Sesión disparada por una tarea programada (no por Juan en vivo), corriendo en un checkout de nube aislado sin las credenciales OAuth locales de `scripts/gsc/gsc.py` / `scripts/ga4/ga4.py`. El único objetivo era dejar constancia de que hoy es el día agendado (desde la sesión 2026-08-03) para medir si el cambio de tono en `proyector-portatil` (consolidar 3 advertencias repetidas en un callout único) subió los clicks de afiliado desde 0.
+
+No se corrieron los scripts de GSC/GA4 (fallarían por falta de credenciales) ni se inventaron números. Se agregó una entrada `### Momento de medir: 2026-08-31` en `docs/seo-tracking-optimizaciones.md`, debajo del baseline existente (sin pisarlo), dejando el pendiente explícito: correr GSC/GA4 localmente y completar la comparación real. Commit `6c1127f`, pusheado a `origin/master` sin conflictos.
+
+### LO QUE QUEDA ABIERTO
+
+- **Medición real pendiente**, sigue sin hacerse: Juan (o una sesión local de Claude con las credenciales) tiene que correr `scripts/gsc/gsc.py` y `scripts/ga4/ga4.py`, y completar `docs/seo-tracking-optimizaciones.md` con impresiones/clicks/posición (GSC) + vistas/sesión promedio/clicks de afiliado (GA4) de `proyector-portatil`, comparados contra el baseline del 2026-08-03 (1.854 impr., 29 clicks GSC; 168 vistas, 461s sesión, 0 clicks de afiliado en GA4).
+- Con esos números, decidir si la hipótesis de tono se sostiene o si el problema es de intención de búsqueda/audiencia (criterio ya definido en la sección del test).
+
+---
 
 ## Sesión 2026-08-29 — Pilar `setup-gamer`, categoría nueva `barras-de-sonido`, y una recaída en el error de superlativos mal acotados
 

@@ -25,6 +25,26 @@
 ---
 -->
 
+## 2026-08-31 — Recordatorio de día de medición: test de tono proyector-portatil
+
+**Qué se hizo:**
+- Sesión automática (tarea programada) para el día agendado de medir el test de tono de `proyector-portatil` (ver `docs/seo-tracking-optimizaciones.md`, sección "Test de tono (no de SEO)", cambio del 2026-08-03, baseline 28 días al 2026-08-01).
+- Corrió en un checkout de nube aislado, **sin credenciales OAuth de GSC/GA4** (`scripts/gsc/gsc.py` y `scripts/ga4/ga4.py` dependen de archivos gitignored ligados al login local de Juan) — no se intentó correrlos ni se inventaron números.
+- Se agregó una entrada `### Momento de medir: 2026-08-31` debajo del baseline existente (sin pisarlo) dejando explícito el pendiente: correr GSC/GA4 manualmente (local o pedírselo a Claude en sesión local) y completar impresiones/clicks/posición (GSC) + vistas/sesión promedio/clicks de afiliado (GA4) comparados contra el baseline.
+
+**Archivos tocados:** `docs/seo-tracking-optimizaciones.md`.
+
+**Estado al cerrar:** commiteado y pusheado a `origin/master` (commit `6c1127f`), sin conflictos.
+
+**Decisiones pendientes para Juan:**
+- Correr `scripts/gsc/gsc.py` y `scripts/ga4/ga4.py` localmente (o en una sesión local con Claude) y completar la sección de medición con los números reales de `proyector-portatil` vs. el baseline del 2026-08-03.
+- Con esos números, decidir si la hipótesis de tono se sostiene (aparecieron clicks de afiliado sin que se derrumbe la sesión promedio) o si el problema es de intención de búsqueda/audiencia.
+
+**Próximo paso sugerido:**
+- Una vez completados los números, decidir si el mismo tratamiento de tono (consolidar advertencias repetidas en un callout) se replica en otras guías con patrón similar (alto engagement, bajo/nulo click de afiliado).
+
+---
+
 ## 2026-06-06 — Nicho aspiradoras robot completo + scraper arreglado + API oficial de ML validada
 
 **Qué se hizo:**
