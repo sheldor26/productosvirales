@@ -18243,14 +18243,14 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
         headers: ["Puesto", "Perfume", "Reseñas", "Rating", "Precio"],
         rows: [
           ["1", "[Rasasi Hawas Ice](https://meli.la/24kQeRc)", "{{reviews:MLA29780185}}", "{{rating:MLA29780185}}⭐", "{{precio:MLA29780185}}"],
-          ["2", "[Lattafa Asad Intense](https://meli.la/26owfqo)", "{{reviews:MLA19715215}}", "{{rating:MLA19715215}}⭐", "{{precio:MLA19715215}}"],
-          ["3", "[Lattafa Khamrah Qahwa](https://meli.la/1B8Vwwf)", "{{reviews:MLA31178643}}", "{{rating:MLA31178643}}⭐", "{{precio:MLA31178643}}"],
+          ["2", "[Lattafa Khamrah Qahwa](https://meli.la/1B8Vwwf)", "{{reviews:MLA31178643}}", "{{rating:MLA31178643}}⭐", "{{precio:MLA31178643}}"],
+          ["3", "[Lattafa Asad Intense](https://meli.la/26owfqo)", "{{reviews:MLA19715215}}", "{{rating:MLA19715215}}⭐", "{{precio:MLA19715215}}"],
           ["4", "[Lattafa Yara Candy](https://meli.la/2XYzvaU)", "{{reviews:MLA39865991}}", "{{rating:MLA39865991}}⭐", "{{precio:MLA39865991}}"],
           ["5", "[Afnan 9PM Elixir Parfum Intense](https://meli.la/1nRAN9K)", "{{reviews:MLA53394464}}", "{{rating:MLA53394464}}⭐", "{{precio:MLA53394464}}"],
-          ["6", "[Set Lattafa Yara + Yara Candy 5th Anniversary](https://meli.la/2qjxA7G)", "{{reviews:MLA45984979}}", "{{rating:MLA45984979}}⭐", "{{precio:MLA45984979}}"],
+          ["6", "[Lattafa Yara Elixir](https://meli.la/2NrY6fF)", "{{reviews:MLA60836327}}", "{{rating:MLA60836327}}⭐", "{{precio:MLA60836327}}"],
           ["7", "[Lattafa Khamrah Parfum](https://meli.la/139RJXC)", "{{reviews:MLA53013853}}", "{{rating:MLA53013853}}⭐", "{{precio:MLA53013853}}"],
           ["8", "[Set Lattafa My Yara Collection](https://meli.la/2jd7cJf)", "{{reviews:MLA51612102}}", "{{rating:MLA51612102}}⭐", "{{precio:MLA51612102}}"],
-          ["9", "[Lattafa Yara Elixir](https://meli.la/2NrY6fF)", "{{reviews:MLA60836327}}", "{{rating:MLA60836327}}⭐", "{{precio:MLA60836327}}"],
+          ["9", "[Set Lattafa Yara + Yara Candy 5th Anniversary](https://meli.la/2qjxA7G)", "{{reviews:MLA45984979}}", "{{rating:MLA45984979}}⭐", "{{precio:MLA45984979}}"],
           ["10", "[Lattafa Yara Tous](https://meli.la/1kwTmSn)", "{{reviews:MLA40521028}}", "{{rating:MLA40521028}}⭐", "{{precio:MLA40521028}}"]
         ]
       },
