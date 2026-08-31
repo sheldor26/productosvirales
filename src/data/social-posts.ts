@@ -849,4 +849,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "38",
     postedAt: "2026-08-31T08:43:33-03:00",
   },
+  {
+    title: "PC Gamer AMD Ryzen 7 5700 32GB RTX 3050 1TB Armada Noxi",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_604251-MLA115404754566_082026-O.webp",
+    affiliateUrl: "https://meli.la/2fk63He",
+    newPrice: "1.481.916",
+    oldPrice: "2.499.999",
+    offPct: "40",
+    postedAt: "2026-08-31T09:26:37-03:00",
+  },
 ];
