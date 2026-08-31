@@ -919,4 +919,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "31",
     postedAt: "2026-08-31T17:06:22-03:00",
   },
+  {
+    title: "Notebook Gamer MSI Cyborg 15 Core Ultra 7 RTX 5070 16GB 1TB",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_748480-MLA98409502572_112025-O.webp",
+    affiliateUrl: "https://meli.la/32EUAe2",
+    newPrice: "3.729.990",
+    oldPrice: "5.309.999",
+    offPct: "29",
+    postedAt: "2026-08-31T19:05:45-03:00",
+  },
 ];
