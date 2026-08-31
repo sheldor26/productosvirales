@@ -869,4 +869,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "40",
     postedAt: "2026-08-31T09:26:37-03:00",
   },
+  {
+    title: "Monitor Gamer Gigabyte GO27Q24A 27\" QD-OLED 240Hz",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_735839-MLA115185053086_082026-O.webp",
+    affiliateUrl: "https://meli.la/1NEG8vM",
+    newPrice: "1.031.554",
+    oldPrice: "1.273.523",
+    offPct: "19",
+    postedAt: "2026-08-31T10:10:23-03:00",
+  },
 ];
