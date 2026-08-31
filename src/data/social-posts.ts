@@ -929,4 +929,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "29",
     postedAt: "2026-08-31T19:05:45-03:00",
   },
+  {
+    title: "Monitor Valkyrie VH2714 27\" 2K QHD 200Hz GSync IPS",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_673237-MLA99471985408_112025-O.webp",
+    affiliateUrl: "https://meli.la/2BB7USw",
+    newPrice: "320.319",
+    oldPrice: "415.999",
+    offPct: "23",
+    postedAt: "2026-08-31T19:49:59-03:00",
+  },
 ];
