@@ -839,4 +839,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "46",
     postedAt: "2026-08-29T19:27:14-03:00",
   },
+  {
+    title: "Notebook Asus TUF Gaming A16 RTX 5050 16GB 1TB",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_920562-MLA111000320795_042026-O.webp",
+    affiliateUrl: "https://meli.la/2Z5Engk",
+    newPrice: "2.772.099",
+    oldPrice: "4.539.999",
+    offPct: "38",
+    postedAt: "2026-08-31T08:43:33-03:00",
+  },
 ];

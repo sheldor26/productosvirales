@@ -40,6 +40,7 @@ negro — tienen precio de lista distinto).
 | Teclado Mecánico RK Royal Kludge R75 RGB con Perilla | $91.179 | 2026-08-29 | meli.la/168yhvM — sin referencia previa |
 | Silla Gamer Cougar Speeder One Ergonómica | $379.999 | 2026-08-29 | meli.la/2FGrjUj — sin referencia previa |
 | Auriculares Gamer Logitech G435 Wireless | $195.326 | 2026-08-29 | meli.la/2iowCR3 — sin referencia previa |
+| Notebook Asus TUF Gaming A16 RTX 5050 16GB 1TB | $2.772.099 | 2026-08-31 | meli.la/2Z5Engk — sin referencia previa |
 
 ## Electro
 
