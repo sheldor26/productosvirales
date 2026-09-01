@@ -949,4 +949,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "40",
     postedAt: "2026-09-01T08:18:19-03:00",
   },
+  {
+    title: "Monitor Gamer ASUS TUF Gaming VG34VQL3A 34\" 2K UWQHD Curvo 180Hz",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_682053-MLA96076033449_102025-O.webp",
+    affiliateUrl: "https://meli.la/1K8xPpe",
+    newPrice: "1.032.499",
+    oldPrice: "1.799.999",
+    offPct: "42",
+    postedAt: "2026-09-01T09:04:29-03:00",
+  },
 ];

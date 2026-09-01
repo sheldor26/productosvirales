@@ -48,7 +48,7 @@ negro — tienen precio de lista distinto).
 | Notebook Gamer MSI Cyborg 15 Core Ultra 7 RTX 5070 16GB 1TB | $3.729.990 | 2026-08-31 | https://www.mercadolibre.com.ar/notebook-gamer-msi-cyborg-15-con-intel-core-ultra-7-rtx-5070-16gb-de-ram-y-1tb-ssd/p/MLA62330955 — sin referencia previa |
 | Monitor Valkyrie VH2714 27" 2K QHD 200Hz-144Hz GSync IPS | $320.319 | 2026-08-31 | https://www.mercadolibre.com.ar/monitor-valkyrie-vh2714-27-2k-qhd-200hz-144hz-gsync-1ms-ips-verde-musgo/p/MLA52089018 — sin referencia previa |
 | PC Gamer AMD Ryzen 7 5700 32GB RTX 5060 1TB (Integrados Argentinos/Mexx) | $2.129.273 | 2026-08-31 | https://www.mercadolibre.com.ar/pc-gamer-amd-ryzen-7-5700-32gb-ssd-1tb-geforce-rtx-5060/p/MLA51171765 — sin referencia previa |
-| Monitor Gamer Asus TUF Gaming VG34VQL3A 34" 2K UWQHD Curvo 180Hz | $1.079.999 | 2026-08-31 | https://www.mercadolibre.com.ar/monitor-gamer-asus-tuf-gaming-vg34vql3a-34-2k-ultrawide-wqhd-curvo-va-180hz-1ms-hdmi-displayport-vesa-parlantes-ergonomico-inclinable-para-pc-consolas-vg34vql3a/p/MLA43957166 — sin referencia previa |
+| Monitor Gamer Asus TUF Gaming VG34VQL3A 34" 2K UWQHD Curvo 180Hz | $1.032.499 | 2026-09-01 | https://www.mercadolibre.com.ar/monitor-gamer-asus-tuf-gaming-vg34vql3a-34-2k-ultrawide-wqhd-curvo-va-180hz-1ms-hdmi-displayport-vesa-parlantes-ergonomico-inclinable-para-pc-consolas-vg34vql3a/p/MLA43957166 — precio bajó más desde la última verificación (era $1.079.999 el 31/8) |
 
 ## Electro
 
