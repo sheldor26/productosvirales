@@ -959,4 +959,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "42",
     postedAt: "2026-09-01T09:04:29-03:00",
   },
+  {
+    title: "Smart TV Sansei 55\" LED 4K Google TV",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_859796-MLA95677461150_102025-O.webp",
+    affiliateUrl: "https://meli.la/1TX1TF2",
+    newPrice: "659.999",
+    oldPrice: "920.699",
+    offPct: "28",
+    postedAt: "2026-09-01T09:45:49-03:00",
+  },
 ];
