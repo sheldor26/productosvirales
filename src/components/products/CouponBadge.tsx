@@ -3,12 +3,15 @@
 import { useEffect, useState } from "react";
 import { Ticket } from "lucide-react";
 import { Badge } from "@/components/ui/Badge";
-import { getApplicableCoupon } from "@/lib/coupons";
+import { couponDiscountFor, getApplicableCoupon } from "@/lib/coupons";
 import { formatPrice } from "@/lib/utils";
 import type { Coupon } from "@/lib/types";
 
 interface CouponBadgeProps {
   price: number;
+  /** Slug de categoría del producto. Necesario para los cupones que MELI
+   *  limita a ciertas categorías; sin esto, esos cupones no se muestran. */
+  categorySlug?: string;
   className?: string;
 }
 
@@ -20,15 +23,19 @@ interface CouponBadgeProps {
  * vencido. Arrancando en null y resolviendo en useEffect, cada visita lee la
  * hora real del visitante y el badge desaparece solo apenas vence.
  */
-export function CouponBadge({ price, className }: CouponBadgeProps) {
+export function CouponBadge({ price, categorySlug, className }: CouponBadgeProps) {
   const [coupon, setCoupon] = useState<Coupon | null>(null);
   const [copied, setCopied] = useState(false);
 
   useEffect(() => {
-    setCoupon(getApplicableCoupon(price));
-  }, [price]);
+    setCoupon(getApplicableCoupon(price, categorySlug));
+  }, [price, categorySlug]);
 
   if (!coupon) return null;
+
+  // Monto real para ESTE producto: en los cupones porcentuales cambia
+  // con el precio, así que no se puede leer un valor fijo del cupón.
+  const discount = couponDiscountFor(coupon, price);
 
   // Un toque copia el código: el visitante llega al carrito de MercadoLibre
   // con el cupón listo para pegar, en vez de tener que memorizarlo mientras
@@ -53,13 +60,13 @@ export function CouponBadge({ price, className }: CouponBadgeProps) {
       type="button"
       onClick={handleCopy}
       className={`inline-flex bg-transparent border-0 p-0 cursor-pointer motion-safe:active:scale-95 transition-transform ${className ?? ""}`}
-      title={`Cupón ${coupon.code}: ${formatPrice(coupon.discountAmount)} OFF en compras desde ${formatPrice(coupon.minPurchase)}. Tocá para copiarlo y pegalo en el carrito de MercadoLibre.`}
+      title={`Cupón ${coupon.code}: ${formatPrice(discount)} OFF en compras desde ${formatPrice(coupon.minPurchase)}. Tocá para copiarlo y pegalo en el carrito de MercadoLibre.`}
       aria-label={`Copiar cupón ${coupon.code}`}
       aria-live="polite"
     >
       <Badge variant="coupon">
         <Ticket size={10} />
-        {copied ? "Copiado ✓ pegalo en el carrito" : `Cupón ${coupon.code} -${formatPrice(coupon.discountAmount)}`}
+        {copied ? "Copiado ✓ pegalo en el carrito" : `Cupón ${coupon.code} -${formatPrice(discount)}`}
       </Badge>
     </button>
   );

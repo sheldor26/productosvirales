@@ -303,7 +303,7 @@ export function ProductCard({
           </Badge>
         )}
 
-        <CouponBadge price={price} className="relative z-10 mt-1.5" />
+        <CouponBadge price={price} categorySlug={categorySlug} className="relative z-10 mt-1.5" />
       </div>
     </div>
   );

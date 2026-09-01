@@ -197,7 +197,7 @@ export function ProductCard({ section }: ProductCardProps) {
                 <span>Incluye estuche</span>
               </p>
             )}
-            <CouponBadge price={product.price} className="self-start" />
+            <CouponBadge price={product.price} categorySlug={product.categorySlug} className="self-start" />
             {product.priceStatus === "out_of_stock" ? (
               <Link
                 href={productHref(product)}
@@ -375,7 +375,7 @@ export function ProductCard({ section }: ProductCardProps) {
                 </span>
               </Link>
             )}
-            <CouponBadge price={product.price} />
+            <CouponBadge price={product.price} categorySlug={product.categorySlug} />
             {product.priceStatus === "out_of_stock" ? (
               <Link
                 href={productHref(product)}

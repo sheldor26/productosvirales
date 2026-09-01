@@ -177,8 +177,20 @@ export interface Product {
 
 export interface Coupon {
   code: string;
-  discountAmount: number;
+  /** Descuento de monto fijo en pesos. Va esto O `discountPercent`, no ambos. */
+  discountAmount?: number;
+  /** Descuento porcentual (10 = 10% OFF). MELI casi siempre le pone un tope. */
+  discountPercent?: number;
+  /** Tope del descuento cuando es porcentual (ignorado si es monto fijo). */
+  maxDiscount?: number;
   minPurchase: number;
+  /**
+   * Slugs de categoría donde MELI acepta el cupón. Omitido = todo el sitio.
+   * Si está presente, el cupón SOLO se muestra donde se conoce la categoría
+   * del producto: en superficies sin ese dato (/enlaces) se omite a
+   * propósito, para no prometer un descuento que el carrito va a rechazar.
+   */
+  categories?: string[];
   /** ISO datetime start. `null`/omitido = válido desde cualquier hora. */
   validFrom?: string | null;
   /** ISO datetime end. `null`/omitido = sin vencimiento confirmado por MELI. */

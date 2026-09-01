@@ -3,7 +3,7 @@ import Image from "next/image";
 import { baseOpenGraph } from "@/lib/site-og";
 import { AffiliateLink } from "@/components/affiliate/AffiliateLink";
 import { socialPosts } from "@/data/social-posts";
-import { getApplicableCoupon } from "@/lib/coupons";
+import { couponDiscountFor, getApplicableCoupon } from "@/lib/coupons";
 import type { SocialPost } from "@/lib/types";
 
 // Página pensada como bio-link para Threads/X/Instagram: quien la abre viene
@@ -73,7 +73,10 @@ function ProductCard({ post, stale }: { post: SocialPost; stale: boolean }) {
   // así actualizar el cupón del día en un solo archivo también actualiza
   // /enlaces. Nunca fuerza ni combina productos para que un cupón "entre":
   // solo se muestra cuando ESE producto solo ya supera la compra mínima.
-  const coupon = getApplicableCoupon(parsePrice(post.newPrice));
+  const price = parsePrice(post.newPrice);
+  // Sin categorySlug a propósito: SocialPost no guarda categoría, así que
+  // los cupones que MELI limita a ciertas categorías quedan fuera de acá.
+  const coupon = getApplicableCoupon(price);
   return (
     <AffiliateLink
       href={post.affiliateUrl}
@@ -114,7 +117,7 @@ function ProductCard({ post, stale }: { post: SocialPost; stale: boolean }) {
         </div>
         {coupon && (
           <p className="text-[11px] font-bold text-[var(--color-trending-up)] mt-1">
-            🎫 Cupón {coupon.code}: ${coupon.discountAmount.toLocaleString("es-AR")} OFF extra
+            🎫 Cupón {coupon.code}: ${couponDiscountFor(coupon, price).toLocaleString("es-AR")} OFF extra
           </p>
         )}
         {stale && (

@@ -472,7 +472,7 @@ export function ProductDetail({
             </p>
           )}
 
-          <CouponBadge price={product.price} className="self-start mt-2" />
+          <CouponBadge price={product.price} categorySlug={product.categorySlug} className="self-start mt-2" />
 
           {/* Cuotas / price honesty */}
           <p className="mt-1 text-[13px] text-[var(--text-secondary)]">
