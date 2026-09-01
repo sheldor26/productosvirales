@@ -979,4 +979,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "41",
     postedAt: "2026-09-01T10:28:07-03:00",
   },
+  {
+    title: "Cafetera Nespresso Inissia Negra",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_830105-MLA115307019012_082026-O.webp",
+    affiliateUrl: "https://meli.la/1BNsCJb",
+    newPrice: "181.950",
+    oldPrice: "363.900",
+    offPct: "50",
+    postedAt: "2026-09-01T11:01:39-03:00",
+  },
 ];

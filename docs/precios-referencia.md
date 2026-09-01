@@ -74,6 +74,7 @@ negro — tienen precio de lista distinto).
 |---|---|---|---|
 | Cafetera Expresso Cuk By Gadnic 20 Bar | $448.899 | 2026-08-13 | — |
 | Cafetera Nespresso Essenza Mini | $264.846 | 2026-08-28 | sin referencia previa |
+| Cafetera Nespresso Inissia Negra | $181.950 | 2026-09-01 | https://www.mercadolibre.com.ar/cafetera-nespresso-inissia-negra/p/MLA25058359 — sin referencia previa, modelo distinto a la Essenza Mini de la fila de arriba |
 | Freidora de Aire Philips Canasta Doble 9L | $249.143 | 2026-08-24 | — |
 | Freidora de Aire Atma Pro FR60AR 6.5L | $117.934 | 2026-08-27 | — |
 | Freidora de Aire y Grill Digital Atma FR901DP 6.3L | $214.209 | 2026-08-25 | — |
