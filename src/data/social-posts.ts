@@ -939,4 +939,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "23",
     postedAt: "2026-08-31T19:49:59-03:00",
   },
+  {
+    title: "PC Gamer AMD Ryzen 7 5700 32GB RTX 5060 1TB",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_663379-MLA99504065230_112025-O.webp",
+    affiliateUrl: "https://meli.la/2B9VmzP",
+    newPrice: "2.129.273",
+    oldPrice: "3.555.139",
+    offPct: "40",
+    postedAt: "2026-09-01T08:18:19-03:00",
+  },
 ];
