@@ -1029,4 +1029,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "28",
     postedAt: "2026-09-01T19:43:24-03:00",
   },
+  {
+    title: "Meta Quest 3s 128GB VR Standalone/PC",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_825462-MLA99524415402_122025-O.webp",
+    affiliateUrl: "https://meli.la/2iUE37b",
+    newPrice: "930.999",
+    oldPrice: "1.175.699",
+    offPct: "20",
+    postedAt: "2026-09-01T20:06:15-03:00",
+  },
 ];

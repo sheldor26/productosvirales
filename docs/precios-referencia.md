@@ -23,6 +23,7 @@ negro — tienen precio de lista distinto).
 | Control DualSense estándar (negro/blanco, sin edición especial) | **$109.999** | 2026-08-14 | meli.la/2eXut3S |
 | Control DualSense edición especial (Perla Chroma u otro color premium) | $203.299 | 2026-08-28 | meli.la/18GRRfv — sin referencia previa, primera vez que se postea esta variante |
 | Silla Gamer Alpina Ergonómica | **$147.052** | 2026-08-13 | meli.la/1PZmsVB |
+| Meta Quest 3s 128GB VR Standalone/PC | $930.999 | 2026-09-01 | https://www.mercadolibre.com.ar/meta-quest-3s-128gb-standalonepc-vr-realidad-aumentada/p/MLA52904889 — sin referencia previa. Con cupón CYBERPLAY (vence hoy 23:59) queda en $837.899, esa parte no es referencia estable |
 | Monitor Gamer ViewSonic 27" VX2729 200Hz | $250.680 | 2026-08-28 | meli.la/15AWXst — sin referencia previa |
 | Teclado Gamer Redragon Kumara K552 | $70.353 | 2026-08-27 | — |
 | Teclado Gamer Redragon K622 Horus TKL | $88.835 | 2026-08-25 | — |
