@@ -29,6 +29,7 @@ Next.js 16 (App Router) + React 19 + Tailwind v4 + TypeScript. Sin DB: contenido
 - `docs/ARTICLE_CREATION_WORKFLOW.md` — cómo agregar un artículo nuevo (lado técnico).
 - **`docs/guias.md` — sistema de diseño y plantilla OFICIAL de todas las guías. Toda guía nueva sigue ESTE diseño (estilo TechRadar best-of). Leer SIEMPRE antes de escribir o rediseñar una guía.**
 - **`docs/fichas.md` — proceso OFICIAL para importar/enriquecer una ficha de producto (fuentes, página del fabricante, checklist agent-ready, reglas de honestidad). Leer SIEMPRE antes de importar un producto.**
+- **`docs/productos-sin-stock.md` — cada vez que se marca un producto `deprioritized` por falta de stock (no por otra razón), registrarlo acá con la rutina de revisión de restock. Leer al marcar uno nuevo o al retomar el seguimiento de los existentes.**
 - `docs/clusters/<cluster>/` — borradores editoriales por cluster (perfumes-arabes, freidoras-de-aire, etc.).
 
 ## Comandos

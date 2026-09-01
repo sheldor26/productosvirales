@@ -34621,8 +34621,9 @@ Si esas funcionalidades son parte activa de cómo cocinás, el producto tiene se
   },
   {
     id: 'MLA19630911',
-    priceStatus: "fresh",
-    priceVerifiedAt: "2026-08-24",
+    visibility: 'deprioritized',
+    priceStatus: "out_of_stock",
+    priceVerifiedAt: "2026-08-31",
     title: "Freidora de aire 6,2 Litros Philips Essential HD927091 Negro",
     brand: "Philips",
     price: 999999,
