@@ -69,6 +69,7 @@ negro — tienen precio de lista distinto).
 | Lavarropas Whirlpool Carga Frontal 8kg 1200 RPM Inverter | $895.999 | 2026-08-31 | meli.la/2Jr9F9s — sin referencia previa |
 | Notebook Acer Aspire 3 AMD Ryzen 7 16GB 512GB | $1.298.999 | 2026-09-01 | https://www.mercadolibre.com.ar/notebook-acer-aspire-3-con-amd-ryzen-7-16-gb-de-ram-y-512-gb-ssd-pantalla-full-hd-de-156/p/MLA48471309 — sin referencia previa |
 | Notebook HP 255r G10 AMD Ryzen 5 24GB 512GB | $1.399.999 | 2026-09-01 | https://www.mercadolibre.com.ar/notebook-hp-255r-g10-amd-ryzen-5-7535u-24gb-ram-512gb-ssd-windows-11-home-color-plata/p/MLA68310856 — sin referencia previa |
+| Amazon Kindle Paperwhite 12 Gen 16GB Waterproof | $354.040 | 2026-09-01 | https://www.mercadolibre.com.ar/amazon-kindle-paperwhite-12-gen-16-gb-waterproof-7-negro/p/MLA44601586 — sin referencia previa. Precio sin cupón (el post usó además el cupón CYBERPLAY, 10% OFF extra hasta las 23:59 del 1/9, que bajaba a $318.636 — esa parte no es referencia estable, solo el $354.040 lo es) |
 
 ## Pequeños electrodomésticos
 

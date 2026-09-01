@@ -1009,4 +1009,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "25",
     postedAt: "2026-09-01T11:52:20-03:00",
   },
+  {
+    title: "Amazon Kindle Paperwhite 12 Gen 16GB Waterproof",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_940632-MLA99492505934_112025-O.webp",
+    affiliateUrl: "https://meli.la/2jFN7Sy",
+    newPrice: "354.040",
+    oldPrice: "399.990",
+    offPct: "11",
+    postedAt: "2026-09-01T19:28:40-03:00",
+  },
 ];
