@@ -969,4 +969,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "28",
     postedAt: "2026-09-01T09:45:49-03:00",
   },
+  {
+    title: "Smart TV Noblex 50\" Roku TV Disney+ Apple TV",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_890284-MLA110799509116_052026-O.webp",
+    affiliateUrl: "https://meli.la/1NHJWR5",
+    newPrice: "525.999",
+    oldPrice: "899.999",
+    offPct: "41",
+    postedAt: "2026-09-01T10:28:07-03:00",
+  },
 ];

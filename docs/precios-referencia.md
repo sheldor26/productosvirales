@@ -65,6 +65,7 @@ negro — tienen precio de lista distinto).
 | Smart TV TCL QLED 55" 4K Google TV 120Hz | $869.999 | 2026-08-31 | meli.la/1skqU94 — ⚠️ visto a las 09:30 del 31/8; a las ~16:20 del mismo día había subido a $907.099 (8% OFF), se salteó ese post. Confirmar precio en vivo antes de volver a postear. |
 | Heladera Philco One Door con Dispenser 161L | $422.999 | 2026-08-31 | meli.la/2PcgbS1 — sin referencia previa |
 | Smart TV Sansei 55" LED 4K Google TV | $659.999 | 2026-09-01 | https://www.mercadolibre.com.ar/smart-tv-sansei-55-pulgadas-led-4k-google-tv/p/MLA48347373 — sin referencia previa |
+| Smart TV Noblex 50" Roku TV Disney+ Apple TV (Full HD) | $525.999 | 2026-09-01 | https://www.mercadolibre.com.ar/smart-tv-led-noblex-50-db50x3510-roku-tv-disney-apple-tv/p/MLA69749075 — sin referencia previa, modelo distinto al Noblex 50" 4K Google TV de la fila de arriba |
 | Lavarropas Whirlpool Carga Frontal 8kg 1200 RPM Inverter | $895.999 | 2026-08-31 | meli.la/2Jr9F9s — sin referencia previa |
 
 ## Pequeños electrodomésticos
