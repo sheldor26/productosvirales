@@ -999,4 +999,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "31",
     postedAt: "2026-09-01T11:10:33-03:00",
   },
+  {
+    title: "Notebook HP 255r G10 AMD Ryzen 5 24GB 512GB",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_610241-MLA116718262577_082026-O.webp",
+    affiliateUrl: "https://meli.la/2DMUFKB",
+    newPrice: "1.399.999",
+    oldPrice: "1.889.999",
+    offPct: "25",
+    postedAt: "2026-09-01T11:52:20-03:00",
+  },
 ];
