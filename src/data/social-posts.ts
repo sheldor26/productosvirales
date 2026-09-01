@@ -1039,4 +1039,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "20",
     postedAt: "2026-09-01T20:06:15-03:00",
   },
+  {
+    title: "Tablet Lenovo Idea Tab 11\" 8GB 128GB + Pen + Folio Case",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_968573-MLA100675338254_122025-O.webp",
+    affiliateUrl: "https://meli.la/33yLv7P",
+    newPrice: "549.999",
+    oldPrice: "981.747",
+    offPct: "43",
+    postedAt: "2026-09-01T20:33:54-03:00",
+  },
 ];
