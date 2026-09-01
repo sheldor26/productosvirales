@@ -989,4 +989,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "50",
     postedAt: "2026-09-01T11:01:39-03:00",
   },
+  {
+    title: "Notebook Acer Aspire 3 AMD Ryzen 7 16GB 512GB",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_632043-MLA100053885503_122025-O.webp",
+    affiliateUrl: "https://meli.la/1yArcod",
+    newPrice: "1.298.999",
+    oldPrice: "1.890.898",
+    offPct: "31",
+    postedAt: "2026-09-01T11:10:33-03:00",
+  },
 ];

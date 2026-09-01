@@ -67,6 +67,7 @@ negro — tienen precio de lista distinto).
 | Smart TV Sansei 55" LED 4K Google TV | $659.999 | 2026-09-01 | https://www.mercadolibre.com.ar/smart-tv-sansei-55-pulgadas-led-4k-google-tv/p/MLA48347373 — sin referencia previa |
 | Smart TV Noblex 50" Roku TV Disney+ Apple TV (Full HD) | $525.999 | 2026-09-01 | https://www.mercadolibre.com.ar/smart-tv-led-noblex-50-db50x3510-roku-tv-disney-apple-tv/p/MLA69749075 — sin referencia previa, modelo distinto al Noblex 50" 4K Google TV de la fila de arriba |
 | Lavarropas Whirlpool Carga Frontal 8kg 1200 RPM Inverter | $895.999 | 2026-08-31 | meli.la/2Jr9F9s — sin referencia previa |
+| Notebook Acer Aspire 3 AMD Ryzen 7 16GB 512GB | $1.298.999 | 2026-09-01 | https://www.mercadolibre.com.ar/notebook-acer-aspire-3-con-amd-ryzen-7-16-gb-de-ram-y-512-gb-ssd-pantalla-full-hd-de-156/p/MLA48471309 — sin referencia previa |
 
 ## Pequeños electrodomésticos
 
