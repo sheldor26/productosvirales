@@ -19,7 +19,7 @@ negro — tienen precio de lista distinto).
 
 | Producto | Precio de referencia (mejor real visto) | Fecha | Fuente |
 |---|---|---|---|
-| Consola PS5 Digital/Slim + Astro Bot + GT7 (bundle) | **$1.499.999** | 2026-08-25 | meli.la/2uDAPvb |
+| Consola PS5 Digital/Slim + Astro Bot + GT7 (bundle) | **$1.429.899** | 2026-09-01 | meli.la/2uDAPvb — bajó desde $1.499.999 (25/8); con cupón CYBERPLAY (vence hoy 23:59, tope $100.000) queda en $1.329.899, esa parte no es referencia estable |
 | Control DualSense estándar (negro/blanco, sin edición especial) | **$109.999** | 2026-08-14 | meli.la/2eXut3S |
 | Control DualSense edición especial (Perla Chroma u otro color premium) | $203.299 | 2026-08-28 | meli.la/18GRRfv — sin referencia previa, primera vez que se postea esta variante |
 | Silla Gamer Alpina Ergonómica | **$147.052** | 2026-08-13 | meli.la/1PZmsVB |
