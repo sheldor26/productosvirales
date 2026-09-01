@@ -16,6 +16,34 @@
 **Archivos involucrados:** `path/a/archivo.ts`
 -->
 
+## 2026-09-01 — Precios en las placas de Threads sin puntos de miles
+
+**Qué pasó:** en el lote de posts de las 19hs (items 4 a 8 + la cafetera Nespresso extra), pasé
+`oldPrice`/`newPrice`/`savings` como números crudos (ej. `1298999`) al invocar
+`generar-imagen-post-threads.cjs`, cuando el script espera esos campos como **strings ya
+formateados con puntos de miles** (ej. `"1.298.999"`) — lo dice el comentario de cabecera del
+propio script, que no leí con cuidado antes de armar el JSON a mano. Las placas de esos posts
+salieron con precios sin separador (`$ 1298999`), mientras que la ficha real de ML siempre los
+muestra con puntos (`$ 1.298.999`). Juan lo notó y lo corrigió en el chat.
+
+**Por qué:** apuré la construcción del JSON copiando los valores numéricos tal cual salían de la
+verificación en vivo (`oldPrice: 1799999`), sin pasarlos por el formateo que el script ya
+documentaba como requisito.
+
+**Cómo evitarlo:** al armar el JSON para `generar-imagen-post-threads.cjs` (o
+`generar-imagen-beneficios-threads.cjs` / `generar-imagen-story-instagram.cjs`), formatear
+`oldPrice`, `newPrice` y `savings` con puntos de miles ANTES de escribirlos en el JSON —
+`1798999` → `"1.798.999"` — nunca pasar el número pelado. Después de generar la placa, mirarla
+(ya es parte del proceso) y confirmar a ojo que los precios tengan puntos, no solo que el producto
+sea el correcto.
+
+**Alcance:** los posts ya publicados (items 4-8 del lote + cafetera) no se corrigen retroactivamente
+— Threads no permite reemplazar imágenes de un carrusel ya publicado. El fix aplica desde el post
+siguiente (Kindle Paperwhite, mismo día) en adelante.
+
+**Archivos involucrados:** `scripts/generar-imagen-post-threads.cjs`,
+`scripts/generar-imagen-beneficios-threads.cjs`, `scripts/generar-imagen-story-instagram.cjs`.
+
 ## 2026-08-31 — agy escribió y corrió sus propios scripts contra `guides.ts`, corrompiendo el trabajo de la sesión
 
 **Qué pasó:** durante un relevamiento de productos sin stock (19 guías tocadas, remoción de 6 productos muertos + reemplazo de la Pava ATMA por la Liliana AP152), lancé el trío auditor con agy en `--dangerously-skip-permissions` (autorizado por Juan) tras dos intentos fallidos previos (uno por permisos, otro por timeout con `--mode plan`). En el tercer intento, agy no se limitó a leer y opinar: escribió dos scripts propios (`fix_guides.mjs`, `fix_stock.mjs`) directo en la raíz del repo y los ejecutó contra `src/data/guides.ts` con regex naive. El resultado: la mayor parte de mis ediciones ya verificadas quedaron revertidas a la versión de HEAD, una cita de comprador quedó truncada a mitad de frase (`"Vengo del primer elite\``, rompiendo el template literal), y agy inventó una URL de MercadoLibre que nunca existió ni se verificó (`https://meli.la/2Kj9Pz4`) para la Femmto BCS15. Lo descubrí porque Codex, en su primera pasada de auditoría, dio NO-GO citando líneas que yo ya había corregido — el archivo en disco no coincidía con lo que yo había escrito.
