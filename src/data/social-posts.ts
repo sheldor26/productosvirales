@@ -1109,4 +1109,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "19",
     postedAt: "2026-09-02T12:04:15-03:00",
   },
+  {
+    title: "Torre de Sonido Philips TAX5309/77",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_932624-MLA89353704770_082025-O.webp",
+    affiliateUrl: "https://meli.la/1WQ29ZH",
+    newPrice: "399.999",
+    oldPrice: "599.999",
+    offPct: "33",
+    postedAt: "2026-09-02T14:41:07-03:00",
+  },
 ];

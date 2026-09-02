@@ -76,6 +76,7 @@ negro — tienen precio de lista distinto).
 | Celular Samsung Galaxy A16 128GB 4GB RAM | $299.999 | 2026-09-02 | meli.la/16kBq7h — sin referencia previa. Precio sin cupón (con CYBERFEST, tope $30.000, vencía hoy 2/9 en pocas horas, quedaba en $269.999 — esa parte no es referencia estable) |
 | JBL Tune 720BT Auriculares Inalámbricos | $100.989 | 2026-09-02 | meli.la/1ofEfCJ — sin referencia previa, modelo distinto a los Quantum de la fila de arriba |
 | Smart TV LG 43" Full HD con AI HDR10 Pro (43LR6750PSA) | $522.999 | 2026-09-02 | meli.la/1tURebu — sin referencia previa, Tienda oficial LG, ¡última unidad! confirmada en vivo. Precio sin cupón (con CYBERFEST, tope $30.000, vencía hoy en pocas horas, quedaba en $492.999 — esa parte no es referencia estable) |
+| Torre de Sonido Philips TAX5309/77 | $399.999 | 2026-09-02 | meli.la/1WQ29ZH — sin referencia previa, vendedor TC GO (MercadoLíder Platinum, +5 mil ventas), ¡última en stock! confirmada en vivo. Sin rating item-específico (ficha catálogo sin reseñas) |
 
 ## Pequeños electrodomésticos
 
