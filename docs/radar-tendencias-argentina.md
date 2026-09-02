@@ -7,6 +7,34 @@
 > por filtrar de más. Mirar una vez por semana con criterio propio.
 > Entradas nuevas arriba.
 
+## 2026-09-02
+
+- **banfield - river plate** — 200 mil+ búsquedas (+1.000%, 3 d)
+- **us open** — 50 mil+ búsquedas (+300%, anteayer)
+- **barreda** — 50 mil+ búsquedas (+800%, 5 d)
+- **morfina** — 20 mil+ búsquedas (+1.000%, anteayer)
+- **callejero fino** — 20 mil+ búsquedas (+1.000%, anteayer)
+- **miguel zavaleta** — 20 mil+ búsquedas (+1.000%, anteayer)
+- **salario** — 20 mil+ búsquedas (+300%, 7 h)
+- **exequiel zeballos** — 20 mil+ búsquedas (+1.000%, 20 h)
+- **bono jubilados** — 20 mil+ búsquedas (+700%, ayer)
+- **pipo gorosito** — 20 mil+ búsquedas (+500%, ayer)
+- **atlético mineiro - cruzeiro** — 10 mil+ búsquedas (+1.000%, 17 h)
+- **us open 2026** — 10 mil+ búsquedas (+200%, 3 d)
+- **evento de el niño de 2026 2027** — 10 mil+ búsquedas (+1.000%, 19 h)
+- **gabriela sabatini** — 5 mil+ búsquedas (+900%, 18 h)
+- **korean air** — 5 mil+ búsquedas (+1.000%, ayer)
+- **guillermo heisinger** — 5 mil+ búsquedas (+1.000%, 17 h)
+- **tomás rebord** — 5 mil+ búsquedas (+800%, 23 h)
+- **precio dolar blue** — 5 mil+ búsquedas (+300%, ayer)
+- **océano pacífico** — 2 mil+ búsquedas (+700%, 19 h)
+- **mark ruffalo** — 2 mil+ búsquedas (+1.000%, 5 h)
+- **carburando** — 2 mil+ búsquedas (+800%, 20 h)
+- **gerardo morales** — 2 mil+ búsquedas (+800%, 20 h)
+- **carlos horacio salinas** — 2 mil+ búsquedas (+400%, 7 h)
+- **día del estudiante** — 2 mil+ búsquedas (+300%, 18 h)
+- **pity alvarez** — 500+ búsquedas (+1.000%, 1 h)
+
 ## 2026-07-08
 
 - **colombia vs suiza** — 1 M+ búsquedas (+1.000%, ayer)
