@@ -1139,4 +1139,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "26",
     postedAt: "2026-09-02T17:15:35-03:00",
   },
+  {
+    title: "Mouse Gamer Havit MS1038 RGB 8000 DPI",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_697593-MLA114199215868_082026-O.webp",
+    affiliateUrl: "https://meli.la/2F5Fxgo",
+    newPrice: "13.999",
+    oldPrice: "24.999",
+    offPct: "44",
+    postedAt: "2026-09-02T18:27:13-03:00",
+  },
 ];
