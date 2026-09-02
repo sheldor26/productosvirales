@@ -1049,4 +1049,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "43",
     postedAt: "2026-09-01T20:33:54-03:00",
   },
+  {
+    title: "Combo Kit Gamer Teclado Mecánico + Mouse Óptico Level Up",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_881192-MLA99451391438_112025-O.webp",
+    affiliateUrl: "https://meli.la/1fhVLQt",
+    newPrice: "87.267",
+    oldPrice: "127.764",
+    offPct: "31",
+    postedAt: "2026-09-02T08:22:54-03:00",
+  },
 ];

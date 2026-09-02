@@ -25,6 +25,7 @@ negro — tienen precio de lista distinto).
 | Silla Gamer Alpina Ergonómica | **$147.052** | 2026-08-13 | meli.la/1PZmsVB |
 | Meta Quest 3s 128GB VR Standalone/PC | $930.999 | 2026-09-01 | https://www.mercadolibre.com.ar/meta-quest-3s-128gb-standalonepc-vr-realidad-aumentada/p/MLA52904889 — sin referencia previa. Con cupón CYBERPLAY (vence hoy 23:59) queda en $837.899, esa parte no es referencia estable |
 | Monitor Gamer ViewSonic 27" VX2729 200Hz | $250.680 | 2026-08-28 | meli.la/15AWXst — sin referencia previa |
+| Combo Kit Gamer Teclado Mecánico + Mouse Óptico Level Up | $87.267 | 2026-09-02 | https://www.mercadolibre.com.ar/combo-kit-gamer-teclado-mecanico-mouse-optico-level-up-negro/p/MLA22297233 — sin referencia previa |
 | Teclado Gamer Redragon Kumara K552 | $70.353 | 2026-08-27 | — |
 | Teclado Gamer Redragon K622 Horus TKL | $88.835 | 2026-08-25 | — |
 | Auriculares Gamer Razer Blackshark V2 X | $108.675 | 2026-08-28 | — |
