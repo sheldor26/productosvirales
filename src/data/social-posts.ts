@@ -1079,4 +1079,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "44",
     postedAt: "2026-09-02T09:47:03-03:00",
   },
+  {
+    title: "Celular Samsung Galaxy A16 128GB 4GB RAM",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_988202-MLA99854807973_112025-O.webp",
+    affiliateUrl: "https://meli.la/16kBq7h",
+    newPrice: "269.999",
+    oldPrice: "469.999",
+    offPct: "42",
+    postedAt: "2026-09-02T10:35:41-03:00",
+  },
 ];
