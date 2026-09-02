@@ -7,6 +7,15 @@
 > 🔴 = se quedo sin stock (el link de afiliado apunta a una pagina pausada).
 > Entradas nuevas arriba.
 
+## 2026-09-02
+
+- 🟢 VOLVIO EL STOCK — **MLA49747515** Pava Eléctrica ATMA Negra — Interior Acero Inoxidable, 1.8L, 1500W
+  - ML: https://www.mercadolibre.com.ar/pava-electrica-atma-18-l-interior-acero-inoxidable-negro/p/MLA49747515
+  - Sitio: https://productosvirales.com.ar/producto/MLA49747515
+- 🟢 VOLVIO EL STOCK — **MLA19630911** Freidora de aire 6,2 Litros Philips Essential HD927091 Negro
+  - ML: https://www.mercadolibre.com.ar/freidora-de-aire-62-litros-philips-essential-hd927091-negro/p/MLA19630911
+  - Sitio: https://productosvirales.com.ar/producto/MLA19630911
+
 ## 2026-08-28
 
 - 🟢 VOLVIO EL STOCK — **MLA2729985625** Proyector Oso Astronauta MTI 730 — Galaxia y Estrellas BT
