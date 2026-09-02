@@ -54,6 +54,7 @@ negro — tienen precio de lista distinto).
 | Mouse Gamer Havit MS1038 RGB 8000 DPI | $13.999 | 2026-09-02 | meli.la/2F5Fxgo — sin referencia previa, Tienda oficial HAVIT. El cupón "$6.000 OFF" visible en el listado NO aplica a este producto solo (compra mínima $75.000), no se usó |
 | Silla Gamer Nictom SG01 Ergonómica | $184.999 | 2026-09-02 | meli.la/1ExfY7z — sin referencia previa, Tienda oficial Nictom, 4° en Sillas Gamer (general) |
 | Auriculares De Estudio Beyerdynamic DT 270 Pro Compact | $260.010 | 2026-09-02 | meli.la/2sT5VGc — sin referencia previa, Tienda oficial RF INNOVATION. Precio sin cupón (con cupón ML $6.000 OFF, mínima $75.000, vence 13/09/2026, queda en $254.010 — esa parte no es referencia estable, pero el cupón dura semanas) |
+| Teclado Mecánico Gamer Havit KB10L Pro-SP | $49.999 | 2026-09-02 | meli.la/1qUCKKF — sin referencia previa, Tienda oficial HAVIT, 1° en Teclados Físicos (general) |
 
 ## Electro
 

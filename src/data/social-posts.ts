@@ -1169,4 +1169,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "25",
     postedAt: "2026-09-02T19:49:55-03:00",
   },
+  {
+    title: "Teclado Mecánico Gamer Havit KB10L Pro-SP",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_739949-MLA115092423229_072026-O.webp",
+    affiliateUrl: "https://meli.la/1qUCKKF",
+    newPrice: "49.999",
+    oldPrice: "59.999",
+    offPct: "16",
+    postedAt: "2026-09-02T19:53:49-03:00",
+  },
 ];
