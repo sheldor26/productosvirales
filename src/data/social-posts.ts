@@ -1099,4 +1099,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "49",
     postedAt: "2026-09-02T11:19:27-03:00",
   },
+  {
+    title: "Smart TV LG 43\" Full HD con AI HDR10 Pro",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_712386-MLA111283217613_052026-O.webp",
+    affiliateUrl: "https://meli.la/1tURebu",
+    newPrice: "492.999",
+    oldPrice: "611.599",
+    offPct: "19",
+    postedAt: "2026-09-02T12:04:15-03:00",
+  },
 ];

@@ -75,6 +75,7 @@ negro — tienen precio de lista distinto).
 | Tablet Lenovo Idea Tab 11" 8GB 128GB + Pen + Folio Case | $549.999 | 2026-09-01 | https://www.mercadolibre.com.ar/tablet-lenovo-idea-tab-8gb-128g-11-pen-folio-case-lunar-grey/p/MLA63096486 — sin referencia previa. Precio sin cupón (con CYBERPLAY, vence hoy 23:59, quedaba en $494.999 — esa parte no es referencia estable) |
 | Celular Samsung Galaxy A16 128GB 4GB RAM | $299.999 | 2026-09-02 | meli.la/16kBq7h — sin referencia previa. Precio sin cupón (con CYBERFEST, tope $30.000, vencía hoy 2/9 en pocas horas, quedaba en $269.999 — esa parte no es referencia estable) |
 | JBL Tune 720BT Auriculares Inalámbricos | $100.989 | 2026-09-02 | meli.la/1ofEfCJ — sin referencia previa, modelo distinto a los Quantum de la fila de arriba |
+| Smart TV LG 43" Full HD con AI HDR10 Pro (43LR6750PSA) | $522.999 | 2026-09-02 | meli.la/1tURebu — sin referencia previa, Tienda oficial LG, ¡última unidad! confirmada en vivo. Precio sin cupón (con CYBERFEST, tope $30.000, vencía hoy en pocas horas, quedaba en $492.999 — esa parte no es referencia estable) |
 
 ## Pequeños electrodomésticos
 
