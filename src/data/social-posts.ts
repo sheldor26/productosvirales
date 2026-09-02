@@ -1059,4 +1059,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "31",
     postedAt: "2026-09-02T08:22:54-03:00",
   },
+  {
+    title: "Aspiradora Robot Gadnic Navegación Inteligente Multi Superficie",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_967228-MLA110649529480_052026-O.webp",
+    affiliateUrl: "https://meli.la/2z24qVM",
+    newPrice: "214.049",
+    oldPrice: "356.749",
+    offPct: "40",
+    postedAt: "2026-09-02T09:04:58-03:00",
+  },
 ];
