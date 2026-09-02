@@ -1149,4 +1149,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "44",
     postedAt: "2026-09-02T18:27:13-03:00",
   },
+  {
+    title: "Silla Gamer Nictom SG01 Ergonómica",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_728755-MLA113984192350_072026-O.webp",
+    affiliateUrl: "https://meli.la/1ExfY7z",
+    newPrice: "184.999",
+    oldPrice: "249.999",
+    offPct: "26",
+    postedAt: "2026-09-02T19:06:38-03:00",
+  },
 ];
