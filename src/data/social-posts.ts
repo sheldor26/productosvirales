@@ -1089,4 +1089,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "42",
     postedAt: "2026-09-02T10:35:41-03:00",
   },
+  {
+    title: "JBL Tune 720BT Auriculares Inalámbricos",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_879868-MLA102084184934_122025-O.webp",
+    affiliateUrl: "https://meli.la/1ofEfCJ",
+    newPrice: "100.989",
+    oldPrice: "199.999",
+    offPct: "49",
+    postedAt: "2026-09-02T11:19:27-03:00",
+  },
 ];

@@ -74,6 +74,7 @@ negro — tienen precio de lista distinto).
 | Amazon Kindle Paperwhite 12 Gen 16GB Waterproof | $354.040 | 2026-09-01 | https://www.mercadolibre.com.ar/amazon-kindle-paperwhite-12-gen-16-gb-waterproof-7-negro/p/MLA44601586 — sin referencia previa. Precio sin cupón (el post usó además el cupón CYBERPLAY, 10% OFF extra hasta las 23:59 del 1/9, que bajaba a $318.636 — esa parte no es referencia estable, solo el $354.040 lo es) |
 | Tablet Lenovo Idea Tab 11" 8GB 128GB + Pen + Folio Case | $549.999 | 2026-09-01 | https://www.mercadolibre.com.ar/tablet-lenovo-idea-tab-8gb-128g-11-pen-folio-case-lunar-grey/p/MLA63096486 — sin referencia previa. Precio sin cupón (con CYBERPLAY, vence hoy 23:59, quedaba en $494.999 — esa parte no es referencia estable) |
 | Celular Samsung Galaxy A16 128GB 4GB RAM | $299.999 | 2026-09-02 | meli.la/16kBq7h — sin referencia previa. Precio sin cupón (con CYBERFEST, tope $30.000, vencía hoy 2/9 en pocas horas, quedaba en $269.999 — esa parte no es referencia estable) |
+| JBL Tune 720BT Auriculares Inalámbricos | $100.989 | 2026-09-02 | meli.la/1ofEfCJ — sin referencia previa, modelo distinto a los Quantum de la fila de arriba |
 
 ## Pequeños electrodomésticos
 
