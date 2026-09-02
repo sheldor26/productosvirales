@@ -1119,4 +1119,24 @@ export const socialPosts: SocialPost[] = [
     offPct: "33",
     postedAt: "2026-09-02T14:41:07-03:00",
   },
+  {
+    title: "Cafetera Espresso Digital Unnic 20 Bares",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_861859-MLA99453476496_112025-O.webp",
+    affiliateUrl: "https://meli.la/13BBAbL",
+    newPrice: "195.599",
+    oldPrice: "299.999",
+    offPct: "34",
+    postedAt: "2026-09-02T17:14:05-03:00",
+  },
+  {
+    title: "Freezer Horizontal Gafa 316L Inverter",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_686765-MLA113913813654_072026-O.webp",
+    affiliateUrl: "https://meli.la/1rpttBU",
+    newPrice: "699.999",
+    oldPrice: "949.443",
+    offPct: "26",
+    postedAt: "2026-09-02T17:15:35-03:00",
+  },
 ];
