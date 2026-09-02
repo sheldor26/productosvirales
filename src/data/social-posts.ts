@@ -1159,4 +1159,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "26",
     postedAt: "2026-09-02T19:06:38-03:00",
   },
+  {
+    title: "Auriculares De Estudio Beyerdynamic DT 270 Pro Compact",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_719335-MLA108238315016_032026-O.webp",
+    affiliateUrl: "https://meli.la/2sT5VGc",
+    newPrice: "260.010",
+    oldPrice: "346.680",
+    offPct: "25",
+    postedAt: "2026-09-02T19:49:55-03:00",
+  },
 ];
