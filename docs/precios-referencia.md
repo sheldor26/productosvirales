@@ -85,6 +85,7 @@ negro — tienen precio de lista distinto).
 | Freidora de Aire Philips Canasta Doble 9L | $249.143 | 2026-08-24 | — |
 | Freidora de Aire Atma Pro FR60AR 6.5L | $117.934 | 2026-08-27 | — |
 | Freidora de Aire y Grill Digital Atma FR901DP 6.3L | $214.209 | 2026-08-25 | — |
+| Freidora de Aire Analógica Kanjihome 2.7L 1000W | $60.149 | 2026-09-02 | https://www.mercadolibre.com.ar/freidora-de-aire-analogica-kanjihome-27lts-khaf-1003-1000w-color-negro/p/MLA46031096 — sin referencia previa |
 | Microondas BGH Quick Chef 20L | $169.199 | 2026-08-28 | sin referencia previa |
 | Microondas Atma 20L MATDB20UAP | $224.089 | 2026-08-24 | — |
 | Licuadora Atma Pro LI8450AP | $83.599 | 2026-08-25 | — |

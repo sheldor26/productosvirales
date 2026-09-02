@@ -1069,4 +1069,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "40",
     postedAt: "2026-09-02T09:04:58-03:00",
   },
+  {
+    title: "Freidora de Aire Analógica Kanjihome 2.7L 1000W",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_770660-MLA99934710985_112025-O.webp",
+    affiliateUrl: "https://meli.la/1DZKaiR",
+    newPrice: "60.149",
+    oldPrice: "108.999",
+    offPct: "44",
+    postedAt: "2026-09-02T09:47:03-03:00",
+  },
 ];
