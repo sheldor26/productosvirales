@@ -35611,9 +35611,10 @@ La PowerXL es una airfryer rápida, compacta y bien puntuada, ideal para uso de 
     metaDescription:
       "Conocé la freidora de aire Kanji Home de 8 L: más de 10 funciones, control digital y canasta antiadherente. 4.8★ con {{reviews:MLA42113760}} opiniones. Vé el precio.",
     brand: "Kanji",
-    price: 173000,
-    priceUpdated: '2026-08-10',
-    priceLastChecked: "2026-08-12",
+    price: 349999,
+    priceUpdated: '2026-08-31',
+    priceLastChecked: "2026-08-31",
+    priceVerifiedAt: "2026-08-31",
     priceStatus: "fresh",
     originalPrice: undefined,
     currency: 'ARS',
@@ -35640,15 +35641,15 @@ La PowerXL es una airfryer rápida, compacta y bien puntuada, ideal para uso de 
       "Capacidad grande de 8 litros, cocina para 4 a 6 personas",
       "1700W y control digital con funciones automáticas",
       "Fácil de usar y de limpiar según los compradores",
-      "Buena relación precio-calidad",
       "Rating de 4.8 sobre casi 3.000 calificaciones",
     ],
     cons: [
       "La rejilla no retiene líquidos: para budines o mezclas líquidas hay que usar moldes",
       "8 litros ocupa lugar en la mesada",
       "Las funciones preseteadas son solo tiempo y temperatura, nada que no puedas poner a mano",
+      "El precio subió fuerte (duplicó en agosto de 2026): ya no es la opción económica de 8 litros, hoy compite con freidoras premium",
     ],
-    verdict: "Una freidora de aire grande con muy buena relación precio-calidad, fácil de usar y de limpiar. Anda como un mini horno o parrilla; el único pero es que con la rejilla no podés hacer nada líquido sin un molde.",
+    verdict: "Una freidora de aire grande, fácil de usar y de limpiar, que anda como un mini horno o parrilla. El precio subió fuerte en agosto de 2026 y dejó de ser la alternativa económica de 8 litros que era antes — hoy hay que evaluarla contra opciones premium, no contra las accesibles. El único pero de uso: con la rejilla no podés hacer nada líquido sin un molde.",
     articleBody: `La Kanji Home de 8 litros es una freidora de aire grande, con 1700W y control digital. Tiene 4.8 de promedio sobre casi 3.000 calificaciones, en la franja alta de su categoría. Lo que más repiten los compradores es la relación precio-calidad y lo fácil que es de usar y de limpiar.
 
 ## Capacidad y para cuántos
@@ -35669,11 +35670,11 @@ El tono es muy positivo. Destacan que es fácil de usar, fácil de limpiar y que
 
 ## Para quién conviene
 
-Conviene para una familia o grupo que quiere capacidad y buen precio, y que va a cocinar sobre todo cosas sólidas como papas, carnes y verduras. No conviene si tu cocina es chica o si pensabas hacer muchas preparaciones líquidas sin moldes. Para más sobre la marca, está el [review de la Kanji Home](/guias/kanji-home-freidora-review).
+Conviene para una familia o grupo que quiere capacidad grande y va a cocinar sobre todo cosas sólidas como papas, carnes y verduras. El precio subió fuerte en agosto de 2026, así que hoy compite con freidoras premium, no con las económicas de 8L — vale comparar antes de decidir. No conviene si tu cocina es chica o si pensabas hacer muchas preparaciones líquidas sin moldes. Para más sobre la marca, está el [review de la Kanji Home](/guias/kanji-home-freidora-review).
 
 ## En resumen
 
-La Kanji Home de 8 litros es una airfryer grande con muy buena relación precio-calidad, fácil de usar y de limpiar. Funciona como un mini horno; solo recordá usar moldes para lo líquido.`,
+La Kanji Home de 8 litros es una airfryer grande, fácil de usar y de limpiar, que funciona como un mini horno. Dejó de ser la opción económica que era: el precio se duplicó en agosto de 2026. Recordá usar moldes para lo líquido.`,
     faq: [
       { question: "¿Para cuántas personas alcanza?", answer: "Por sus 8 litros sirve para 4 a 6 personas. Un comprador la usa sin problema para 4 y hace budines y comidas completas. Recordá que los litros son el volumen del horno, no la cantidad exacta de comida." },
       { question: "¿Puedo hacer budines o cosas líquidas?", answer: "Sí, pero con molde. La rejilla no retiene líquidos, así que para budines o mezclas líquidas hay que usar un molde de silicona, papel o metal sin rayar el antiadherente." },
@@ -50257,9 +50258,10 @@ A $528.131 con 4.7 estrellas y {{reviews:MLA28314113}} opiniones, es la compra m
   {
     id: 'MLA23909880',
     title: 'Cafetera espresso Oster BVSTEM5501B negra',
-    price: 349999,
-    priceUpdated: "2026-08-31",
+    price: 403222,
+    priceUpdated: "2026-09-02",
     priceLastChecked: "2026-09-02",
+    priceVerifiedAt: "2026-09-02",
     priceStatus: "fresh",
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_811045-MLA100066139885_122025-F.jpg',

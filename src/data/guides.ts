@@ -12924,7 +12924,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     standfirst: `Comparamos los 20 modelos de freidora de aire disponibles hoy en Argentina, de Atma a Philips, para que elijas según tu presupuesto y cuántas personas cocinás.`,
     quickPicks: [
       { productMlaId: "MLA39861162", label: "Mejor para la mayoría", labelColor: "green", tagline: "8 litros, control táctil, garantía local" },
-      { productMlaId: "MLA42113760", label: "Familia numerosa", labelColor: "purple", tagline: "8 litros, la más grande disponible ahora" },
+      { productMlaId: "MLA55779230", label: "Familia numerosa", labelColor: "purple", tagline: "9L doble canasta, cocina dos cosas a la vez" },
       { productMlaId: "MLA61393261", label: "Mejor precio accesible", labelColor: "amber", tagline: "4.2 litros a precio de entrada" },
     ],
     intro: [
@@ -12935,12 +12935,12 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     sections: [
       { type: "image", src: "/images/freidoras/peabody-pe-afd650n.webp", alt: `Peabody PE-AFD650N, una de las mejores freidoras de aire en Argentina` },
       { type: "h2", title: `¿Cuál es la mejor freidora de aire en Argentina?` },
-      { type: "p", content: `La mejor freidora de aire para la mayoría de los hogares en Argentina es la Atma FR248ABP de 8 litros: la mejor relación capacidad, precio y garantía local. Si cocinás todos los días y el presupuesto da, la Ninja Crispi cocina más parejo (la Philips HD9270 que ocupaba este lugar está sin stock, ver nota abajo). Para familia numerosa, la Kanji Home de 8 litros. Abajo, el detalle según tu caso.` },
+      { type: "p", content: `La mejor freidora de aire para la mayoría de los hogares en Argentina es la Atma FR248ABP de 8 litros: la mejor relación capacidad, precio y garantía local. Si cocinás todos los días y el presupuesto da, la Ninja Crispi cocina más parejo (la Philips HD9270 que ocupaba este lugar está sin stock, ver nota abajo). Para familia numerosa, la Philips PHNA35100 de 9L doble canasta (la Kanji Home que ocupaba este lugar duplicó su precio en agosto, ver nota abajo). Abajo, el detalle según tu caso.` },
       { type: "list", items: [
         `Mejor relación precio/calidad para 2-4 personas: [Atma FR248ABP 8L](/guias/atma-freidoras-de-aire-review)`,
         `Mejor opción con doble canasta: [Atma Pro Doble FRD248AP](/guias/atma-freidoras-de-aire-review) o [Philips PHNA35100](/guias/philips-freidoras-de-aire-review)`,
         `Mejor freidora con función grill: [Atma FR901DP Grill](/guias/atma-freidoras-de-aire-review) o [Peabody PE-AFG01IX](/guias/peabody-freidoras-de-aire-review)`,
-        `Mejor freidora grande (familia numerosa): [Kanji Home 8L](/guias/kanji-home-freidora-review) o [Philips PHNA35100 9L](/guias/philips-freidoras-de-aire-review) (la Suono Digital 10L está sin stock)`,
+        `Mejor freidora grande (familia numerosa): [Philips PHNA35100 9L](/guias/philips-freidoras-de-aire-review) (la Suono Digital 10L está sin stock; la Kanji Home 8L ya no es la opción económica que era, ver nota abajo)`,
         `Mejor marca premium: [Ninja Crispi 5.2L](/guias/ninja-crispi-review) (la Philips HD9270 está sin stock)`,
         `Mejor precio accesible: [PowerXL 3.8L](/guias/powerxl-freidora-review) o [Philips NA120/00 4.2L](/guias/gadnic-freidora-review)`,
       ]},
@@ -12951,11 +12951,10 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "product-card", productMlaId: "MLA39861162", label: "Mejor para la mayoría", labelColor: "green", ranking: 1, description: `8 litros para familia de 4 a 6, control táctil y garantía local. La mejor relación capacidad, precio y service en Argentina. Si dudás, es esta.` },
       { type: "pull-quote", content: `Excelente!. Es una opción muy práctica para cocinar. Entran 4 milanesas medianas de pollo, 4 rodajas de pan lactal para tostar. Hasta ahora probé con milanesa, para muslo deshuesada, papas noise y pan para tostar. Hice muffins y salieron muy bien!.`, attribution: `— Comprador verificado en MercadoLibre, hace 11 meses · 43 personas lo encontraron útil` },
       { type: "callout", calloutVariant: "note", calloutTitle: "La Philips HD9270 (nuestro pick de \"mejor cocción\") está sin stock", content: `Verificado en vivo el 31/08: todas las publicaciones de este modelo en MercadoLibre (nuevas y usadas, de cualquier vendedor) muestran "última unidad" con el botón de compra deshabilitado — no es un vendedor puntual, el modelo está agotado en toda la góndola. Si priorizás cocción pareja tipo Philips, la alternativa disponible es la [Ninja Crispi 5.2L](/guias/ninja-crispi-review).` },
-      { type: "product-card", productMlaId: "MLA42113760", label: "Familia numerosa", labelColor: "purple", ranking: 2, description: `8 litros, la mayor capacidad disponible ahora en una sola cesta. Cocina para 6 personas sin hacer tandas. La contra: menos historial de service que Atma o Peabody.` },
+      { type: "product-card", productMlaId: "MLA55779230", label: "Familia numerosa", labelColor: "purple", ranking: 2, description: `9 litros en doble canasta independiente, pantalla táctil y app. Cocina dos preparaciones a la vez sin hacer tandas.` },
+      { type: "callout", calloutVariant: "note", calloutTitle: "La Kanji Home (nuestro pick de \"familia numerosa\") duplicó su precio", content: `Verificado en vivo el 31/08: las 3 publicaciones activas de este modelo arrancan en {{precio:MLA42113760}}, más del doble de lo que costaba hace unas semanas — ya no es la opción económica de 8L que era. Sigue siendo un producto que funciona bien (ver reseñas más abajo), pero al precio de hoy compite con freidoras premium, no con las accesibles. La [Philips PHNA35100](/guias/philips-freidoras-de-aire-review) ocupa ahora el lugar de "familia numerosa" en esta guía.` },
       { type: "h2", title: `Qué dicen los que ya la compraron`, id: "opiniones" },
-      { type: "p", content: `Estas son opiniones publicadas en las fichas de MercadoLibre de los modelos que recomendamos arriba, leídas el 2026-08-18. Las copiamos tal cual están, con las quejas incluidas, porque la mitad útil de una opinión suele ser la parte que molesta.` },
-      { type: "pull-quote", content: `Recomiendo, funciona bárbaro y el precio está muy bien. Si quieren ahorrar más, no gasten en una con funciones, porque no es más que tiempo y temperatura preseteados, nada que no puedan poner ustedes mismos.`, attribution: "Opinión publicada de la Kanji Home de 8 litros" },
-      { type: "p", content: `Esa opinión sola te puede ahorrar plata, y coincide con lo que vemos comparando fichas técnicas: **los programas preestablecidos son combinaciones de tiempo y temperatura**, no una tecnología distinta de cocción. Si te sentís cómodo poniendo 200 °C y 18 minutos a mano, un modelo con doce programas no te da nada que no tengas.` },
+      { type: "p", content: `Estas son opiniones publicadas en las fichas de MercadoLibre de modelos de esta guía, leídas el 2026-08-18. Las copiamos tal cual están, con las quejas incluidas, porque la mitad útil de una opinión suele ser la parte que molesta.` },
       { type: "pull-quote", content: `Me dijeron que me iba a cambiar la vida y sí, me la cambió para bien. Soy un inútil en la cocina y con esto como muy bien.`, attribution: "Opinión publicada de la Atma de 8 litros, versión blanca" },
       { type: "p", content: `Y la contra que más se repite no tiene que ver con la cocción sino con la rejilla:` },
       { type: "pull-quote", content: `Muy bueno, fácil de usar. Sirve para cocinar para 4 o hacer budines y cosas completas. No me gusta el tema de la rejilla porque no permite hacer nada líquido, tenés que usar moldes de silicona, papel o metal sin rayar el antiadherente.`, attribution: "Opinión publicada de la Kanji Home de 8 litros" },
@@ -12965,7 +12964,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
         `**"Fácil de usar y limpiar. Probé pollo, bifes, solomillo con boniato, morrones y verduras. Funciona como un horno o parrilla a gas."** — Kanji Home de 8 litros`,
         `**"Por ahora excelente. Tiene una rejilla que se saca, todo con antiadherente, fácil de limpiar. Cocina bien y tiene varias funciones."** — Atma de 8 litros, versión blanca`,
       ]},
-      { type: "p", content: `Lo que se repite entre las opiniones de los dos modelos que más recomendamos: **la limpieza y la velocidad son lo que engancha**, y las quejas casi nunca son sobre cómo cocina. Son sobre la rejilla, sobre el ruido, o sobre haber pagado de más por funciones que resultaron ser presets.` },
+      { type: "p", content: `Lo que se repite entre estas opiniones: **la limpieza y la velocidad son lo que engancha**, y las quejas casi nunca son sobre cómo cocina. Son sobre la rejilla, sobre el ruido, o sobre haber pagado de más por funciones que resultaron ser presets.` },
       { type: "h2", title: `Los más vendidos hoy en Argentina`, id: "mas-vendidos" },
       { type: "p", content: `Este no es nuestro ranking: es **el orden real de más vendidos de Mercado Libre Argentina**, leído el 2026-08-20. Sacamos de la lista las freidoras de aceite, que comparten categoría con las de aire y ensucian la comparación. De los dieciséis modelos a aire que aparecen, **los verificamos los dieciséis**, uno por uno: precio, ficha técnica, opiniones e imágenes.` },
       { type: "table", headers: [`Puesto`, `Modelo`, `Precio`, `Capacidad`, `Potencia`], rows: [
@@ -13022,7 +13021,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "p", content: `La opción más compacta y accesible del catálogo. PowerXL tiene buena presencia en el mercado latinoamericano como marca de entrada. Los 3.8 litros la hacen ideal para 1 a 2 personas o para quienes tienen espacio limitado en la mesada. [Ver en Mercado Libre](https://meli.la/1Z6YNuK)` },
       { type: "p", content: `→ Análisis completo: [PowerXL freidora de aire: review](/guias/powerxl-freidora-review)` },
       { type: "h3", title: `Kanji Home KJH-1700DC — 8 litros` },
-      { type: "p", content: `Kanji Home es una marca de electrodomésticos de precio accesible con distribución en Argentina. Los 8 litros a su precio la hacen competitiva para familias grandes con presupuesto ajustado. Control digital, pantalla táctil. [Ver en Mercado Libre](https://meli.la/2pFTX5c)` },
+      { type: "p", content: `Kanji Home es una marca de electrodomésticos de precio accesible con distribución en Argentina, aunque esta publicación puntual dejó de ser accesible: el precio se duplicó en agosto de 2026 (verificado en vivo, {{precio:MLA42113760}} hoy). Los 8 litros y el control digital con pantalla táctil siguen ahí, pero al precio actual compite con freidoras premium, no con las de presupuesto ajustado. [Ver en Mercado Libre](https://meli.la/2pFTX5c)` },
       { type: "p", content: `→ Análisis completo: [Kanji Home freidora de aire: review](/guias/kanji-home-freidora-review)` },
       { type: "h3", title: `Gadnic 6.5L — 1.400W` },
       { type: "p", content: `Gadnic es una marca de tecnología y electrodomésticos con fuerte presencia en el mercado argentino online. La freidora de 6.5 litros a 1.400W es una opción de precio intermedio-bajo para familias de 3 a 5 personas. Ya no se consigue en Mercado Libre. Si querés quedarte en Gadnic, hoy la marca vende la [Cuk AIRCRISP de 17 litros](https://meli.la/2uZdzVJ), que es otra cosa: formato horno con puerta y bastante más cara. Si lo que buscabas era una de canasto a ese precio, la [Liliana AF966N de 6 litros](https://meli.la/1Gpkhmr) es lo más parecido que hay disponible.` },
@@ -13049,7 +13048,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
         [`[Oster Digital Ventana](https://meli.la/1s4Hmke)`, `4 L`, `~1.400W`, `Digital + Visor`, `2-3`, `$$`],
         [`[Ninja Crispi](https://meli.la/2uHHEk7)`, `5.2 L`, `~1.500W`, `Digital`, `3-4`, `$$$`],
         [`[PowerXL AF-E4001-AR](https://meli.la/1Z6YNuK)`, `3.8 L`, `~1.400W`, `Digital`, `1-2`, `$`],
-        [`[Kanji Home KJH-1700DC](https://meli.la/2pFTX5c)`, `8 L`, `1.700W`, `Digital`, `4-6`, `$`],
+        [`[Kanji Home KJH-1700DC](https://meli.la/2pFTX5c)`, `8 L`, `1.700W`, `Digital`, `4-6`, `$$$`],
         [`[Gadnic (sin stock)](/producto/freidora-de-aire-gadnic-6-5-l-1400w-220-240v-temperatura-80-a-200-c-temporizador-mla44142280)`, `6.5 L`, `1.400W`, `Digital`, `3-5`, `$`],
         [`[Suono Digital (sin stock)](/producto/airfryer-suono-digital-y-doble-resistencia-12-programas-10l-negro-mla54106293)`, `10 L`, `2.200W`, `Digital`, `5-7`, `$$`],
       ]},
@@ -13068,7 +13067,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "p", content: `Philips tiene la tecnología Rapid Air, que genera una circulación de aire más pareja que la mayoría. Se nota en el resultado: cocción más uniforme, menos puntos crudos o sobrecocidos. El precio premium tiene respaldo técnico.` },
       { type: "p", content: `Ninja con su tecnología Crispi Wave apunta a una textura exterior más crocante. Funciona. La diferencia frente a marcas nacionales en papas y rebozados es perceptible.` },
       { type: "p", content: `Atma y Peabody son las más accesibles en precio y tienen el mejor soporte posventa en Argentina (garantía local, repuestos, service en todo el país). Para uso cotidiano sin grandes exigencias, rinden muy bien.` },
-      { type: "p", content: `Kanji, Gadnic y Suono son las más económicas en capacidad. Funcionan, pero si en dos años necesitás un repuesto o un técnico, ahí está el riesgo real. No es imposible conseguirlo, pero no es tan fácil como con Atma o Philips.` },
+      { type: "p", content: `Gadnic y Suono son las más económicas en capacidad (Kanji dejó de serlo, su precio se duplicó en agosto de 2026). Funcionan, pero si en dos años necesitás un repuesto o un técnico, ahí está el riesgo real. No es imposible conseguirlo, pero no es tan fácil como con Atma o Philips.` },
     ],
     faq: [
       {
@@ -14082,8 +14081,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     hasDisclosure: true,
     standfirst: `Análisis de la Suono 10L, de las más grandes del mercado: qué cocina bien, qué perdés frente a Atma o Philips, y qué comprar mientras está sin stock.`,
     quickPicks: [
-      { productMlaId: "MLA42113760", label: "Disponible ahora", labelColor: "green", tagline: "Kanji Home 8L, capacidad similar" },
-      { productMlaId: "MLA55779230", label: "Premium con más capacidad", labelColor: "amber", tagline: "Philips PHNA35100 9L doble canasta" },
+      { productMlaId: "MLA55779230", label: "Disponible ahora", labelColor: "green", tagline: "Philips PHNA35100 9L doble canasta" },
     ],
     intro: [
       `Si tu familia es numerosa o cocinás para visita regularmente, eventualmente considerás una freidora grande. La Suono de 10 litros aparece en las búsquedas porque es una de las pocas opciones con esa capacidad individual (sin contar modelos doble piso).`,
@@ -14091,9 +14089,9 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     ],
     sections: [
       { type: "image", src: "/images/freidoras/suono-airfryer-digital-10l.webp", alt: `Suono Airfryer Digital freidora de aire 10 litros Argentina` },
-      { type: "callout", calloutVariant: "warning", calloutTitle: "Actualmente sin stock en Mercado Libre", content: `Confirmamos en vivo que esta Suono 10L está agotada. Mientras no repongan, la [Kanji Home 8L](https://meli.la/2pFTX5c) es la más parecida en capacidad disponible ahora, y la [Philips PHNA35100 9L](https://meli.la/15VAU5a) suma doble canasta y mejor distribución de aire. El resto de este análisis queda como referencia de qué esperar si la Suono vuelve a stock.` },
+      { type: "callout", calloutVariant: "warning", calloutTitle: "Actualmente sin stock en Mercado Libre", content: `Confirmamos en vivo que esta Suono 10L está agotada. Mientras no repongan, la [Philips PHNA35100 9L](https://meli.la/15VAU5a) es la alternativa disponible con capacidad similar, doble canasta y mejor distribución de aire (la Kanji Home 8L que sugeríamos acá antes duplicó su precio en agosto de 2026 y dejó de ser una alternativa accesible). El resto de este análisis queda como referencia de qué esperar si la Suono vuelve a stock.` },
       { type: "h2", title: `Especificaciones: el tamaño es el factor` },
-      { type: "p", content: `10 litros es mucho. Para contexto: la Atma estándar es 8L, la Kanji también 8L. Con 10L, estamos hablando de cocinar para 6-8 personas sin problema, o cocinar para 4 haciendo un volumen importante de una vez.` },
+      { type: "p", content: `10 litros es mucho. Para contexto: la Atma estándar es 8L. Con 10L, estamos hablando de cocinar para 6-8 personas sin problema, o cocinar para 4 haciendo un volumen importante de una vez.` },
       { type: "p", content: `La potencia es 2200W, alta para el tamaño. Pantalla digital, controles digitales, selector de temperatura (150-400°C) y tiempo.` },
       { type: "p", content: `El cuerpo es plástico reforzado (no acero inoxidable como opciones premium). El cesto es de acero con revestimiento antiadherente. El diseño es cuadrado, pragmático, sin pretensiones estéticas.` },
       { type: "p", content: `Peso: 3.8 kg. Manejable pero no es algo que muevas todos los días.` },
@@ -14120,8 +14118,8 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "h2", title: `Comparación Suono vs alternativas grandes` },
       { type: "p", content: `Suono 10L ({{precio:MLA54106293}}): un grande. Poco historial, servicio técnico débil. Sin stock.` },
       { type: "p", content: `Atma FR248ABP 8L ({{precio:MLA39861162}}): robusto, servicio técnico sólido. 2L menos, pero disponible.` },
-      { type: "p", content: `Kanji Home 8L ({{precio:MLA42113760}}): capacidad similar, disponible ahora, pero menos historial de service que Atma.` },
-      { type: "p", content: `Philips PHNA35100 9L ({{precio:MLA55779230}}): doble canasta, mejor distribución de aire, disponible. Es la más cara del grupo.` },
+      { type: "p", content: `Kanji Home 8L ({{precio:MLA42113760}}): capacidad similar, disponible, pero su precio se duplicó en agosto de 2026 — hoy es la más cara del grupo, no la más accesible.` },
+      { type: "p", content: `Philips PHNA35100 9L ({{precio:MLA55779230}}): doble canasta, mejor distribución de aire, disponible, y hoy más barata que la Kanji Home.` },
       { type: "p", content: `Si el criterio es confianza a largo plazo, Atma gana. Si necesitás la mayor capacidad posible hoy, Philips PHNA35100.` },
       { type: "h2", title: `Pros que se notan` },
       { type: "list", items: [
@@ -14146,7 +14144,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "p", content: `Si buscás capacidad mayor y también querés dos temperaturas simultáneas, la Peabody Doble Piso era la alternativa, pero hoy también está sin stock.` },
       { type: "h2", title: `Recomendación final` },
       { type: "p", content: `La Suono es una freidora grande a precio razonable cuando está disponible. El problema es que es de una marca que no tiene trayectoria en este rubro, y en Argentina eso importa cuando necesitás servicio técnico.` },
-      { type: "p", content: `Hoy, sin stock, la alternativa más parecida en capacidad es la [Kanji Home 8L](https://meli.la/2pFTX5c). Si querés más presupuesto y preferís doble canasta con mejor distribución de aire, la [Philips PHNA35100](https://meli.la/15VAU5a).` },
+      { type: "p", content: `Hoy, sin stock, la alternativa disponible es la [Philips PHNA35100](https://meli.la/15VAU5a): doble canasta, mejor distribución de aire, y hoy más barata que la Kanji Home 8L, que dejó de ser la opción accesible que era (su precio se duplicó en agosto de 2026).` },
       { type: "p", content: `Para chequear si la Suono volvió a stock, mirá la [ficha completa](/producto/airfryer-suono-digital-y-doble-resistencia-12-programas-10l-negro-mla54106293).` },
       { type: "p", content: `Antes de decidir, mirá también [las mejores freidoras de aire en Argentina](/guias/mejores-freidoras-de-aire-argentina) y [las de gran capacidad](/guias/freidoras-de-aire-gran-capacidad).` },
     ],
@@ -14165,7 +14163,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       },
       {
         question: `¿Vale la pena sobre una Atma?`,
-        answer: `Atma es más robusta, mejor servicio técnico, y está disponible. Suono es 2L más grande, pero sin stock por ahora. Si necesitás comprar ya, Atma o Kanji Home.`,
+        answer: `Atma es más robusta, mejor servicio técnico, y está disponible. Suono es 2L más grande, pero sin stock por ahora. Si necesitás comprar ya, Atma sigue siendo la más accesible (la Kanji Home dejó de serlo: duplicó su precio en agosto de 2026).`,
       },
       {
         question: `¿Hay servicio técnico Suono en Argentina?`,
@@ -14173,7 +14171,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       },
       {
         question: `¿Qué diferencia hay con Peabody Doble Piso?`,
-        answer: `Peabody te da dos cestas (6.5L y 3.5L) para cocinar dos cosas simultáneas a distinta temperatura. Suono te da una única de 10L. Ambas están sin stock actualmente: si necesitás capacidad grande ya, la Kanji Home (8L, una sola cesta) o la Philips PHNA35100 (9L, doble canasta) son las disponibles.`,
+        answer: `Peabody te da dos cestas (6.5L y 3.5L) para cocinar dos cosas simultáneas a distinta temperatura. Suono te da una única de 10L. Ambas están sin stock actualmente: si necesitás capacidad grande ya, la Philips PHNA35100 (9L, doble canasta) es la disponible (la Kanji Home 8L también sigue disponible, pero dejó de ser la opción accesible: duplicó su precio en agosto de 2026).`,
       },
     ],
     internalLinks: [
