@@ -58,6 +58,7 @@ negro — tienen precio de lista distinto).
 | Teclado Mecánico Gamer Havit KB10L Pro-SP | $49.999 | 2026-09-02 | meli.la/1qUCKKF — sin referencia previa, Tienda oficial HAVIT, 1° en Teclados Físicos (general) |
 | Monitor Gamer Level Up 27" Curvo 200Hz | $294.975 | 2026-09-03 | meli.la/1Tb4CZF — sin referencia previa, Tienda oficial Level Up, sin cupón en la ficha |
 | Gabinete Raptor Nova Prime RGB | $59.784 | 2026-09-03 | meli.la/1akRynZ — sin referencia previa, Tienda oficial Raptor, 8° en Gabinetes, ¡última unidad! confirmada en vivo |
+| Teclado Mecánico Inalámbrico Xtrike Me GK-995W | $43.649 | 2026-09-03 | meli.la/1XM8dKT — sin referencia previa, Tienda oficial Mora Informática, sin cupón en la ficha |
 
 ## Electro
 

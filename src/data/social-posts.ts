@@ -1269,4 +1269,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "40",
     postedAt: "2026-09-03T15:59:09-03:00",
   },
+  {
+    title: "Teclado Mecánico Inalámbrico Xtrike Me GK-995W",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_707204-MLA99969853091_112025-O.webp",
+    affiliateUrl: "https://meli.la/1XM8dKT",
+    newPrice: "43.649",
+    oldPrice: "79.999",
+    offPct: "45",
+    postedAt: "2026-09-03T16:02:28-03:00",
+  },
 ];
