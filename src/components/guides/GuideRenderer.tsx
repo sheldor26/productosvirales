@@ -2,7 +2,7 @@ import { Fragment } from "react";
 import type { ReactNode } from "react";
 import Link from "next/link";
 import Image from "next/image";
-import { ExternalLink, Target, Award, Tag } from "lucide-react";
+import { ExternalLink, Target, Award, Tag, TrendingDown } from "lucide-react";
 import { parseInlineLinks } from "@/lib/parse-inline-links";
 import type { Guide, GuideSection } from "@/lib/types";
 import { ArticleHeader } from "./ArticleHeader";
@@ -13,12 +13,14 @@ import { ProductCard } from "./ProductCard";
 import { QuickPicks } from "./QuickPicks";
 import { StickyBuyBar } from "./StickyBuyBar";
 import { RelatedGuides } from "./RelatedGuides";
+import { Badge } from "@/components/ui/Badge";
 import { nextStepLinksForGuide, nextStepHeadingForGuide } from "@/lib/related-guides";
 import { ensureSectionIds, getTocItems } from "@/lib/slug";
 import { getProductById } from "@/lib/products";
 import { productHref } from "@/lib/product-url";
 import { formatPrice } from "@/lib/utils";
 import { injectLivePrices } from "@/lib/price-token";
+import { analyzePriceHistory } from "@/lib/price-history";
 import { Stars } from "./Stars";
 
 interface GuideRendererProps {
@@ -537,6 +539,7 @@ function AboveFoldCta({ productMlaId }: { productMlaId: string }) {
   const priceText = product.price
     ? formatPrice(product.price, product.currency)
     : null;
+  const bestPrice = analyzePriceHistory(product.id, product.price)?.verdict.tone === "good";
   return (
     <div
       className="not-prose my-6 flex flex-wrap items-center gap-4 rounded-[var(--radius-card)] border p-4"
@@ -572,6 +575,16 @@ function AboveFoldCta({ productMlaId }: { productMlaId: string }) {
             </div>
           ) : null}
         </Link>
+        {bestPrice && (
+          <Badge
+            variant="price-low"
+            className="mt-1"
+            title="El precio de hoy es el más bajo que le registramos a este producto."
+          >
+            <TrendingDown size={10} />
+            Mínimo histórico
+          </Badge>
+        )}
       </div>
       {product.priceStatus === "out_of_stock" ? (
         <Link

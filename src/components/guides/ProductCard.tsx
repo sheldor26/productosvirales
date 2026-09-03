@@ -1,12 +1,15 @@
 import Link from "next/link";
-import { Package } from "lucide-react";
+import { Package, TrendingDown } from "lucide-react";
 import type { GuideSection, LabelColor } from "@/lib/types";
 import { getProductById } from "@/lib/products";
 import { formatPrice } from "@/lib/utils";
 import { injectLivePrices } from "@/lib/price-token";
 import { CouponBadge } from "@/components/products/CouponBadge";
+import { Badge } from "@/components/ui/Badge";
+import { WhatsAppIcon } from "@/components/icons/WhatsAppIcon";
 import { toPlainText } from "@/lib/parse-inline-links";
-import { getPriceValidUntil, productHref } from "@/lib/product-url";
+import { getPriceValidUntil, productHref, productUrl } from "@/lib/product-url";
+import { analyzePriceHistory, shortDate } from "@/lib/price-history";
 import { Stars } from "./Stars";
 
 interface ProductCardProps {
@@ -136,6 +139,17 @@ export function ProductCard({ section }: ProductCardProps) {
   // el resto queda en el borde neutro de siempre.
   const isWinner = section.ranking === 1;
 
+  // Mínimo histórico: mismo cálculo que la tarjeta de grilla (src/lib/products.ts toCardProduct),
+  // pero acá no pasamos por ese DTO porque necesitamos articleBody/faq del Product completo.
+  const priceHistory = analyzePriceHistory(product.id, product.price);
+  const bestPrice = priceHistory?.verdict.tone === "good";
+  // priceLastChecked (automático) o priceVerifiedAt (a mano) — el que haya, no inventamos fecha.
+  const verifiedDate = product.priceLastChecked || product.priceVerifiedAt;
+
+  const shareHref = `https://wa.me/?text=${encodeURIComponent(
+    `Mirá esto: ${product.title}${product.price ? ` (${formatPrice(product.price, product.currency)})` : ""} — ${productUrl(product)}`
+  )}`;
+
   if (variant === "compact") {
     return (
       <aside
@@ -197,7 +211,18 @@ export function ProductCard({ section }: ProductCardProps) {
                 <span>Incluye estuche</span>
               </p>
             )}
-            <CouponBadge price={product.price} categorySlug={product.categorySlug} className="self-start" />
+            <div className="flex flex-wrap items-center gap-1.5 self-start">
+              <CouponBadge price={product.price} categorySlug={product.categorySlug} />
+              {bestPrice && (
+                <Badge
+                  variant="price-low"
+                  title="El precio de hoy es el más bajo que le registramos a este producto."
+                >
+                  <TrendingDown size={10} />
+                  Mínimo histórico
+                </Badge>
+              )}
+            </div>
             {product.priceStatus === "out_of_stock" ? (
               <Link
                 href={productHref(product)}
@@ -371,11 +396,24 @@ export function ProductCard({ section }: ProductCardProps) {
                   {price}
                 </span>
                 <span className="text-[10.5px] text-[var(--text-muted)]">
-                  Precio verificado contra MercadoLibre
+                  {verifiedDate
+                    ? `Precio verificado el ${shortDate(verifiedDate)}`
+                    : "Precio verificado contra MercadoLibre"}
                 </span>
               </Link>
             )}
-            <CouponBadge price={product.price} categorySlug={product.categorySlug} />
+            <div className="flex flex-wrap items-center gap-1.5">
+              <CouponBadge price={product.price} categorySlug={product.categorySlug} />
+              {bestPrice && (
+                <Badge
+                  variant="price-low"
+                  title="El precio de hoy es el más bajo que le registramos a este producto."
+                >
+                  <TrendingDown size={10} />
+                  Mínimo histórico
+                </Badge>
+              )}
+            </div>
             {product.priceStatus === "out_of_stock" ? (
               <Link
                 href={productHref(product)}
@@ -412,8 +450,8 @@ export function ProductCard({ section }: ProductCardProps) {
               </a>
             )}
           </div>
-          {/* "Ver ficha" degradado a link gris debajo (no compite con el CTA). */}
-          <p className="mt-2 text-[13px]">
+          {/* "Ver ficha" y "Compartir" degradados a links grises debajo (no compiten con el CTA). */}
+          <p className="mt-2 flex flex-wrap items-center gap-x-3 gap-y-1 text-[13px]">
             <Link
               href={productHref(product)}
               prefetch={false}
@@ -421,6 +459,17 @@ export function ProductCard({ section }: ProductCardProps) {
             >
               Ver ficha y opiniones
             </Link>
+            <a
+              href={shareHref}
+              target="_blank"
+              rel="noopener"
+              data-cta-location="card-share"
+              aria-label={`Compartir ${product.title} por WhatsApp`}
+              className="inline-flex items-center gap-1 text-[var(--text-muted)] underline underline-offset-2 hover:text-[var(--text-secondary)] transition-colors"
+            >
+              <WhatsAppIcon size={12} />
+              Compartir
+            </a>
           </p>
         </div>
       </div>

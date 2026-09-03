@@ -33,8 +33,8 @@ export interface PriceChartData {
   verdict: { tone: PriceVerdictTone; text: string };
 }
 
-function shortDate(iso: string): string {
-  // "2026-06-06" -> "6 jun". Parseamos a mano para evitar corrimientos de zona horaria.
+/** "2026-06-06" -> "6 jun". Parseamos a mano para evitar corrimientos de zona horaria. */
+export function shortDate(iso: string): string {
   const [, m, d] = iso.split("-").map(Number);
   const meses = ["ene", "feb", "mar", "abr", "may", "jun", "jul", "ago", "sep", "oct", "nov", "dic"];
   return `${d} ${meses[(m ?? 1) - 1]}`;

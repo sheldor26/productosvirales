@@ -37,6 +37,13 @@ export function productHref(product: ProductLike): string {
   return `/producto/${productSlug(product)}`;
 }
 
+const SITE = "https://productosvirales.com.ar";
+
+/** Absolute URL for a product ficha, e.g. para compartir por WhatsApp. */
+export function productUrl(product: ProductLike): string {
+  return `${SITE}${productHref(product)}`;
+}
+
 /**
  * Extract the MLA ID from a slug. Tolerates legacy bare-ID URLs
  * (`/producto/MLA12345`) and stale title prefixes (slug rewritten after
