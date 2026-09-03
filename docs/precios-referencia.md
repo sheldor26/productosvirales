@@ -57,6 +57,7 @@ negro — tienen precio de lista distinto).
 | Auriculares De Estudio Beyerdynamic DT 270 Pro Compact | $260.010 | 2026-09-02 | meli.la/2sT5VGc — sin referencia previa, Tienda oficial RF INNOVATION. Precio sin cupón (con cupón ML $6.000 OFF, mínima $75.000, vence 13/09/2026, queda en $254.010 — esa parte no es referencia estable, pero el cupón dura semanas) |
 | Teclado Mecánico Gamer Havit KB10L Pro-SP | $49.999 | 2026-09-02 | meli.la/1qUCKKF — sin referencia previa, Tienda oficial HAVIT, 1° en Teclados Físicos (general) |
 | Monitor Gamer Level Up 27" Curvo 200Hz | $294.975 | 2026-09-03 | meli.la/1Tb4CZF — sin referencia previa, Tienda oficial Level Up, sin cupón en la ficha |
+| Gabinete Raptor Nova Prime RGB | $59.784 | 2026-09-03 | meli.la/1akRynZ — sin referencia previa, Tienda oficial Raptor, 8° en Gabinetes, ¡última unidad! confirmada en vivo |
 
 ## Electro
 

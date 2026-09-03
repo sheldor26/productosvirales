@@ -1259,4 +1259,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "46",
     postedAt: "2026-09-03T15:17:51-03:00",
   },
+  {
+    title: "Gabinete Raptor Nova Prime RGB",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_948396-MLA95532818214_102025-O.webp",
+    affiliateUrl: "https://meli.la/1akRynZ",
+    newPrice: "59.784",
+    oldPrice: "99.999",
+    offPct: "40",
+    postedAt: "2026-09-03T15:59:09-03:00",
+  },
 ];
