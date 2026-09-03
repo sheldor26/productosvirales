@@ -1239,4 +1239,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "19",
     postedAt: "2026-09-03T11:42:57-03:00",
   },
+  {
+    title: "Reloj Inteligente Xiaomi Redmi Watch 6",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_719429-MLA109950484140_042026-O.webp",
+    affiliateUrl: "https://meli.la/1jaooAN",
+    newPrice: "182.999",
+    oldPrice: "249.999",
+    offPct: "26",
+    postedAt: "2026-09-03T12:03:22-03:00",
+  },
 ];

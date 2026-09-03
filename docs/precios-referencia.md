@@ -114,6 +114,7 @@ negro — tienen precio de lista distinto).
 | Nebulizador San-Up ClearBreath | $61.749 | 2026-08-27 | — |
 | Máquina Depiladora Care by Gadnic D12 | $73.570 | 2026-08-18 | — |
 | Nebulizador Piston Portátil Silencioso Femmto | $39.999 | 2026-09-03 | meli.la/23HUBef — sin referencia previa, Tienda oficial Femmto Healthcare, modelo distinto a los San-Up de arriba, sin cupón en la ficha |
+| Reloj Inteligente Xiaomi Redmi Watch 6 | $182.999 | 2026-09-03 | meli.la/1jaooAN — sin referencia previa, Tienda oficial Xiaomi, 4° en Smartwatches. Reemplazo del Redmi Watch 5 descartado el 2/9 (subió sin descuento). La oferta original de este mismo Watch 6 (vendedor XSTOREAR, últimas 3 unidades, $173.841) ya no era la opción por defecto al re-verificar el 3/9 — se usó la Tienda oficial a $182.999 por ser la más segura y disponible |
 | Máquina Cortar Pelo Profesional Wmark NG-X1SET | $225.990 | 2026-09-03 | meli.la/2HzZYNo — sin referencia previa, vendedor tiendadelbarbero (MercadoLíder +1000 ventas), ¡últimas 2 unidades! confirmadas en vivo. Ranking "3° en Cortadoras de Pelo Wmark" es brand-scoped, no se usó. Precio sin cupón (con cupón ML $6.000 OFF, mínima $75.000, vence 13/09/2026, queda en $219.990 — esa parte no es referencia estable, pero el cupón dura semanas) |
 
 ## Herramientas
