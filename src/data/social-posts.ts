@@ -1279,4 +1279,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "45",
     postedAt: "2026-09-03T16:02:28-03:00",
   },
+  {
+    title: "Auriculares JBL Quantum 100M2 Headset Negro Gamer",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_964214-MLA99991757979_112025-O.webp",
+    affiliateUrl: "https://meli.la/1BjK1z9",
+    newPrice: "77.599",
+    oldPrice: "89.999",
+    offPct: "13",
+    postedAt: "2026-09-03T19:02:25-03:00",
+  },
 ];

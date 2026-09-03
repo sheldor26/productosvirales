@@ -29,7 +29,7 @@ negro — tienen precio de lista distinto).
 | Teclado Gamer Redragon Kumara K552 | $70.353 | 2026-08-27 | — |
 | Teclado Gamer Redragon K622 Horus TKL | $88.835 | 2026-08-25 | — |
 | Auriculares Gamer Razer Blackshark V2 X | $108.675 | 2026-08-28 | — |
-| Auriculares JBL Quantum 100M2 Headset Gamer | $73.759 | 2026-08-15 | — |
+| Auriculares JBL Quantum 100M2 Headset Gamer | **$71.599** | 2026-09-03 | meli.la/1BjK1z9 — Tienda oficial JBL Quantum, 7° en Auriculares (general). Precio sin cupón $77.599 (13% OFF); con cupón ML $6.000 OFF (mínima $75.000, vence 13/09/2026) queda en $71.599, por debajo del registro anterior de $73.759 (15/8) — esa parte del cupón no es referencia estable, pero el cupón dura semanas |
 | Auriculares JBL Quantum 360P Inalámbricos | $149.967 | 2026-08-28 | sin referencia previa |
 | Consola Nintendo Switch 2 256GB | $1.482.626 | 2026-08-20 | — |
 | PC Gamer AMD Ryzen 7 5700G 16GB 480GB SSD | $743.019 | 2026-08-18 | — |
