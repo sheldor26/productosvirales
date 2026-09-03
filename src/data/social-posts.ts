@@ -1199,4 +1199,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "68",
     postedAt: "2026-09-03T08:54:22-03:00",
   },
+  {
+    title: "Nebulizador Piston Portátil Silencioso Femmto",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_872500-MLA92882910515_092025-O.webp",
+    affiliateUrl: "https://meli.la/23HUBef",
+    newPrice: "39.999",
+    oldPrice: "79.999",
+    offPct: "50",
+    postedAt: "2026-09-03T09:39:28-03:00",
+  },
 ];

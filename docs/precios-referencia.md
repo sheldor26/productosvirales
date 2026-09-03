@@ -111,6 +111,7 @@ negro — tienen precio de lista distinto).
 | Nebulizador Mesh San-Up VitaAir 8ml | $66.419 | 2026-08-15 | — |
 | Nebulizador San-Up ClearBreath | $61.749 | 2026-08-27 | — |
 | Máquina Depiladora Care by Gadnic D12 | $73.570 | 2026-08-18 | — |
+| Nebulizador Piston Portátil Silencioso Femmto | $39.999 | 2026-09-03 | meli.la/23HUBef — sin referencia previa, Tienda oficial Femmto Healthcare, modelo distinto a los San-Up de arriba, sin cupón en la ficha |
 
 ## Herramientas
 
