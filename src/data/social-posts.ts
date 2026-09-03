@@ -1209,4 +1209,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "50",
     postedAt: "2026-09-03T09:39:28-03:00",
   },
+  {
+    title: "Máquina Cortar Pelo Profesional Wmark NG-X1SET",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_766606-MLA106533222186_022026-O.webp",
+    affiliateUrl: "https://meli.la/2HzZYNo",
+    newPrice: "225.990",
+    oldPrice: "299.000",
+    offPct: "24",
+    postedAt: "2026-09-03T10:20:45-03:00",
+  },
 ];
