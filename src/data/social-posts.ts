@@ -1249,4 +1249,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "26",
     postedAt: "2026-09-03T12:03:22-03:00",
   },
+  {
+    title: "Monitor Gamer Level Up 27\" Curvo 200Hz",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_798594-MLA115400825174_082026-O.webp",
+    affiliateUrl: "https://meli.la/1Tb4CZF",
+    newPrice: "294.975",
+    oldPrice: "549.999",
+    offPct: "46",
+    postedAt: "2026-09-03T15:17:51-03:00",
+  },
 ];

@@ -56,6 +56,7 @@ negro — tienen precio de lista distinto).
 | Silla Gamer Nictom SG01 Ergonómica | $184.999 | 2026-09-02 | meli.la/1ExfY7z — sin referencia previa, Tienda oficial Nictom, 4° en Sillas Gamer (general) |
 | Auriculares De Estudio Beyerdynamic DT 270 Pro Compact | $260.010 | 2026-09-02 | meli.la/2sT5VGc — sin referencia previa, Tienda oficial RF INNOVATION. Precio sin cupón (con cupón ML $6.000 OFF, mínima $75.000, vence 13/09/2026, queda en $254.010 — esa parte no es referencia estable, pero el cupón dura semanas) |
 | Teclado Mecánico Gamer Havit KB10L Pro-SP | $49.999 | 2026-09-02 | meli.la/1qUCKKF — sin referencia previa, Tienda oficial HAVIT, 1° en Teclados Físicos (general) |
+| Monitor Gamer Level Up 27" Curvo 200Hz | $294.975 | 2026-09-03 | meli.la/1Tb4CZF — sin referencia previa, Tienda oficial Level Up, sin cupón en la ficha |
 
 ## Electro
 
