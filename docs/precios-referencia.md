@@ -103,6 +103,7 @@ negro — tienen precio de lista distinto).
 | Licuadora de Mano Peabody 800W | $111.899 | 2026-08-28 | sin referencia previa |
 | Tostadora Atma Dos Rebanadas | $45.699 | 2026-08-28 | sin referencia previa |
 | Pava Eléctrica Vintage Peabody 2200W | $74.099 | 2026-08-28 | sin referencia previa |
+| Pava Eléctrica Digital Novohome 2L | $44.399 | 2026-09-03 | meli.la/1qXNweU — sin referencia previa, Tienda oficial Novohome, 1° en Jarras Eléctricas, modelo distinto a la Peabody de arriba. Sin cupón aplicable (compra mínima mayor al precio del producto) |
 | Humidificador de Ambiente Gadnic HM20B 2.2L | $71.049 | 2026-08-18 | — |
 | Caloventor Liliana Blacksun | $54.415 | 2026-08-24 | — |
 | Balanza Digital Bluetooth Femmto 180kg | $13.774 | 2026-08-20 | — |

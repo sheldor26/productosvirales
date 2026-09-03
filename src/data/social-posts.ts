@@ -1219,4 +1219,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "24",
     postedAt: "2026-09-03T10:20:45-03:00",
   },
+  {
+    title: "Pava Eléctrica Digital Novohome 2L",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_703421-MLA104225933254_012026-O.webp",
+    affiliateUrl: "https://meli.la/1qXNweU",
+    newPrice: "44.399",
+    oldPrice: "85.990",
+    offPct: "48",
+    postedAt: "2026-09-03T11:02:58-03:00",
+  },
 ];
