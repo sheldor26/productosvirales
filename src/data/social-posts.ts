@@ -1179,4 +1179,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "16",
     postedAt: "2026-09-02T19:53:49-03:00",
   },
+  {
+    title: "Sony PlayStation 4 Slim 1TB + Joystick + 1 Juego",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_637688-MLA100002742147_112025-O.webp",
+    affiliateUrl: "https://meli.la/1FntsbN",
+    newPrice: "648.050",
+    oldPrice: "997.000",
+    offPct: "35",
+    postedAt: "2026-09-03T08:15:29-03:00",
+  },
 ];
