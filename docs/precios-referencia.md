@@ -112,6 +112,12 @@ negro — tienen precio de lista distinto).
 | Nebulizador San-Up ClearBreath | $61.749 | 2026-08-27 | — |
 | Máquina Depiladora Care by Gadnic D12 | $73.570 | 2026-08-18 | — |
 
+## Herramientas
+
+| Producto | Precio de referencia (mejor real visto) | Fecha | Fuente |
+|---|---|---|---|
+| Hidrolavadora Trent Move 1600W 1885 PSI | $126.040 | 2026-09-03 | meli.la/2NNfHZQ — sin referencia previa, Tienda oficial Trent, +250 mil ventas, 9° en Hidrolavadoras. Precio sin cupón (con cupón ML $6.000 OFF, mínima $75.000, vence 13/09/2026, queda en $120.040 — esa parte no es referencia estable, pero el cupón dura semanas) |
+
 ## Pendiente de revisar
 
 - La PS5 posteada el 2026-08-28 ($1.693.619, "29% OFF") quedó **por encima**

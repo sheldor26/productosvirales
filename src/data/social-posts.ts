@@ -1189,4 +1189,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "35",
     postedAt: "2026-09-03T08:15:29-03:00",
   },
+  {
+    title: "Hidrolavadora Trent Move 1600W 1885 PSI",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_695425-MLA99379266330_112025-O.webp",
+    affiliateUrl: "https://meli.la/2NNfHZQ",
+    newPrice: "126.040",
+    oldPrice: "399.999",
+    offPct: "68",
+    postedAt: "2026-09-03T08:54:22-03:00",
+  },
 ];
