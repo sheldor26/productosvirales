@@ -1229,4 +1229,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "48",
     postedAt: "2026-09-03T11:02:58-03:00",
   },
+  {
+    title: "Impresora HP Smart Tank 210 Sistema Continuo Wi-Fi",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_804138-MLA114374992867_072026-O.webp",
+    affiliateUrl: "https://meli.la/34fW3wn",
+    newPrice: "304.999",
+    oldPrice: "379.999",
+    offPct: "19",
+    postedAt: "2026-09-03T11:42:57-03:00",
+  },
 ];
