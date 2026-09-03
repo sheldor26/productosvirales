@@ -134,6 +134,16 @@ negro — tienen precio de lista distinto).
   $1.499.999, no contra el precio de lista de esa ficha puntual.
 - La Silla Gamer Alpina posteada el 2026-08-24 ($183.330) también quedó por
   encima de la referencia ($147.052 del 13/8). Mismo criterio.
+- La Silla Gamer Alpina ft-088 posteada el 2026-09-03 a las 19:43 quedó en
+  $213.000 (37% OFF nominal), otra vez por encima de la referencia real
+  ($147.052 del 13/8). Al sourcear vía la página de /ofertas con el filtro de
+  "deal" en la URL se veía $170.000 (32% OFF) — ese precio con filtro de deal
+  NO es el que ve el comprador real: tanto la ficha canónica sin filtro como
+  el link de afiliado meli.la/1PZmsVB, clickeado de punta a punta, resuelven
+  a $213.000. Van 3 veces que esta misma silla (mismo link de afiliado) se
+  postea por encima de su mejor precio histórico — sospechar de este listado
+  puntual la próxima vez que aparezca en /ofertas, y verificar SIEMPRE contra
+  el link de afiliado final, no contra la vista previa con filtro de deal.
 
 ## Cómo sumar una categoría nueva
 

@@ -1289,4 +1289,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "13",
     postedAt: "2026-09-03T19:02:25-03:00",
   },
+  {
+    title: "Silla Gamer Alpina Ergonómica ft-088",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_665062-MLA100000173305_112025-O.webp",
+    affiliateUrl: "https://meli.la/1PZmsVB",
+    newPrice: "213.000",
+    oldPrice: "340.000",
+    offPct: "37",
+    postedAt: "2026-09-03T19:43:39-03:00",
+  },
 ];
