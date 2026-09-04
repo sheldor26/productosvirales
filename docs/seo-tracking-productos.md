@@ -165,6 +165,111 @@ Lote de 31 fichas de perfumes árabes procesadas una por una (modo OPTIMIZAR sob
 
 ---
 
+## Lote fichas thin de 8 guías tech/música/cocina: 57 fichas (skill `optimizador-productos-pv`, 2026-09-02 a 2026-09-04)
+
+Trabajo de fondo (no reactivo a un pedido puntual de Juan): recorrido de las guías del sitio priorizando las que tenían más concentración de fichas "thin" (sin `articleBody` ni `faq`), en este orden: `freidoras` (14), `guitarra-criolla-precio` (9), `guitarra-electrica-precio` (8), `guitarras-de-marca-precio` (7, bajó a 5 por solape con guitarra-electrica-precio), `camara-deportiva` (7, bajó a 6 por una baja de stock), `insta360-cual-comprar` (6, bajó a 4 por solape con camara-deportiva), `teclado-musical-precio` (6), `gopro-cual-comprar` (6, bajó a 5 por solape con camara-deportiva/insta360). Varios productos aparecen en más de una guía (Femmto EG001 negra, Yamaha Pacifica, Insta360 X3/X5, GoPro HERO13 Black): se cuentan una sola vez en la tabla de abajo.
+
+**Método aplicado por igual a las 57:** precio/rating/reviewCount verificados en vivo contra MercadoLibre por `mcp__claude-in-chrome` (nunca el navegador sandboxeado, que ML bloquea — memoria `ml-bloqueo-usar-chrome-de-juan`), redacción de `articleBody` (secciones H2 con apertura de respuesta directa, estilo GEO/AIO citable, voz "comparador honesto" sin guion largo) y `faq` de 8-9 preguntas, enlazado interno hub-and-spoke (mínimo 3 links salientes: guía pilar/de categoría + 2-3 fichas hermanas de la misma guía, texto ancla descriptivo), actualización de `price`/`reviewCount`/`priceUpdated`/`priceLastChecked`/`reviewsSampledAt` a los valores en vivo. Verificación mecánica corrida varias veces a lo largo del lote (no una sola vez al final): `npx tsc --noEmit`, los 9 scripts de check (`check-price-tokens`, `check-canonical-product-links`, `check-hardcoded-reviews`, `check-stale-prose-prices`, `check-uncovered-prose-prices`, `check-price-guard`, `check-guide-internal-links`, `check-table-product-links`, `check-guide-monetization`) y `npm run build`, todos en verde al cierre del lote.
+
+**Sin baseline GSC en esta sesión**: no se hizo pull de Search Console. Las 57 quedan sin fila de impresiones/clicks/posición hasta que se exporte GSC y se complete abajo (no pisar esta fila cuando eso pase: agregar una sección nueva en "Mediciones posteriores").
+
+**Nota sobre el detalle por fila:** para `freidoras`, `guitarra-criolla-precio` y `guitarra-electrica-precio` (procesadas al principio de una sesión larga que se resumió por límite de contexto en el medio), no se conservó el detalle de investigación producto por producto con la granularity de los lotes anteriores de este archivo (ej. el lote de 31 perfumes): la tabla abajo describe el tratamiento aplicado, no cada hallazgo puntual. Para `camara-deportiva`, `insta360-cual-comprar`, `teclado-musical-precio` y `gopro-cual-comprar` (procesadas después del resumen, con detalle real disponible) se listan los hallazgos de honestidad específicos como notas debajo de cada tabla.
+
+### Cámaras (`camara-deportiva`, `insta360-cual-comprar`, `gopro-cual-comprar`) — 15 fichas
+
+| Ficha (id ML) | Producto | Guía principal |
+| :-- | :-- | :-- |
+| MLA16132352 | Akaso V50X | camara-deportiva |
+| MLA62771175 | Gadnic MCDEP017 4K | camara-deportiva |
+| MLA47374183 | GoPro HERO13 Black | camara-deportiva / gopro-cual-comprar |
+| MLA62340610 | DJI Osmo Action 6 | camara-deportiva |
+| MLA19710677 | Insta360 X3 | insta360-cual-comprar |
+| MLA36223181 | Insta360 X4 | insta360-cual-comprar |
+| MLA62879003 | Insta360 X4 Air | insta360-cual-comprar |
+| MLA49100446 | Insta360 X5 | insta360-cual-comprar |
+| MLA50882755 | Insta360 X5 Essentials Bundle | insta360-cual-comprar |
+| MLA39997069 | Insta360 GO 3S | insta360-cual-comprar |
+| MLA70063378 | GoPro MISSION 1 PRO | gopro-cual-comprar |
+| MLA27104632 | GoPro HERO12 Black | gopro-cual-comprar |
+| MLA50182399 | GoPro HERO (2024) | gopro-cual-comprar |
+| MLA57726638 | GoPro MAX2 | gopro-cual-comprar |
+| MLA57723897 | GoPro LIT HERO | gopro-cual-comprar |
+
+Optimizada: 2026-09-03 (insta360-cual-comprar, camara-deportiva) y 2026-09-04 (gopro-cual-comprar).
+
+Hallazgos de honestidad reales encontrados en esta pasada:
+- **DJI Osmo Action 4 (MLA29364436) confirmada sin stock real** ("Este producto no está disponible. Elige otra variante.", reproducible). No es una de las 57 (no se le escribió articleBody), pero su baja forzó reescribir partes de `camara-deportiva` y de la guía `dji-cual-comprar` (renumeración, nuevo precio piso, callout de sin-stock); registrado con detalle en [`docs/productos-sin-stock.md`](../docs/productos-sin-stock.md).
+- **Akaso V50X**: el con "Akaso no publica el sensor" era falso (el título vigente de ML dice "Sensor IMX386"); se corrigió, se sumó el spec real.
+- **GoPro HERO (2024)**: el título promociona "60fps" pero la ficha técnica estructurada de ML no tiene ningún campo de fps; se dejó el 30fps ya verificado contra la documentación oficial de GoPro en una sesión anterior y se explicó la discrepancia de frente en articleBody/FAQ en vez de aceptar el 60fps sin verificar.
+- **GoPro MAX2**: un bullet de la publicación dice literalmente "Pesa 402kg" (error de carga de unidades). Se mantuvo el peso real (195 g, ficha del fabricante) y se agregó una sección honesta señalando el error de la publicación.
+- **GoPro MISSION 1 PRO**: el modo nocturno graba en 4K, no en 8K como el resto de los modos (confirmado por reseña real); GoPro no publica un peso consistente entre sus propias fuentes (ML declara 171 g); ~9 de las 18 opiniones son de compradores de otros países (Brasil sobre todo), aclarado de frente.
+- **Vetra AF-G500**: precio "Exclusivo Negocios" más bajo detectado (la cuenta de Juan es de negocio); se descartó a propósito y se mantuvo el precio consumidor estándar, con la razón explicada en el articleBody.
+- **Teclado musical**: no aplica a este bloque (va en la tabla de música).
+
+### Música (`guitarra-criolla-precio`, `guitarra-electrica-precio`, `guitarras-de-marca-precio`, `teclado-musical-precio`) — 28 fichas
+
+| Ficha (id ML) | Producto |
+| :-- | :-- |
+| MLA16059072 | Yamaha C40 (guitarra criolla) |
+| MLA44345937 | Fonseca 25 |
+| MLA68992218 | Rómulo García A-100 Plus |
+| MLA47118056 | Parquer Custom GC109LBEQ3 (electrocriolla) |
+| MLA35245846 | Gadnic Estudio |
+| MLA25482706 | Parquer GC830 (1/4, niños) |
+| MLA77260613 | Funda Sunset Music AB15 |
+| MLA21868235 | Encordado D'Addario EJ27N |
+| MLA40485883 | Femmto CG001 |
+| MLA63579452 | Teclado Dyvan T61 |
+| MLA19783697 | Teclado Gadnic ORG00013 |
+| MLA19783696 | Teclado Parquer K186BK |
+| MLA16109682 | Teclado Casio Casiotone CT-S100 |
+| MLA16107361 | Teclado Casio CTK-3500 |
+| MLA44710176 | Teclado Yamaha PSR-E383 |
+| MLA23305108 | Squier Stratocaster Sonic HSS |
+| MLA46518777 | Gretsch Streamliner G2622T |
+| MLA47298027 | Fender Standard Telecaster |
+| MLA17453014 | Gibson Les Paul Tribute |
+| MLA18258523 | Fender American Professional II Stratocaster |
+| MLA23214055 | Yamaha Pacifica PAC012 |
+| MLA17375288 | Femmto EG001 negra (con ampli) |
+| MLA40731408 | Parquer ST300 |
+| MLA17488700 | Jackson JS11 Dinky |
+| MLA17473751 | Epiphone Les Paul Melody Maker |
+| MLA18068441 | Epiphone SG Special |
+| MLA17469502 | Ibanez GRX40 |
+| MLA25602058 | Femmto EG001 (con ampli) |
+
+Optimizada: 2026-09-02 a 2026-09-03.
+
+Hallazgos de honestidad reales encontrados en esta pasada:
+- **Teclado Gadnic ORG00013 vs. Dyvan T61**: el precio en vivo del Gadnic ($64.674) cruzó por debajo del Dyvan ($82.531), invirtiendo cuál era "el más barato" de la guía. Se reordenó la sección de entrada de `teclado-musical-precio` (Gadnic pasó al ranking 1) y se reescribió el veredicto y 3 FAQ que nombraban al Dyvan como piso de precio.
+- **Epiphone SG Special / Fonseca 25**: `check-hardcoded-reviews` detectó dos violaciones del trinquete ("43 opiniones" en un H2, "7 opiniones" en una FAQ de la Fonseca citando a Rómulo García); se corrigieron reemplazando el número fijo por el token `{{reviews:ID}}`.
+- **Ibanez GRX40**: "última unidad" confirmado repetido en más de una semana de visitas distintas a la misma publicación; documentado como patrón estructural observado en vivo, no como urgencia inventada.
+- Varios pares de precios quedaron a menos de 1-2% de diferencia tras la verificación en vivo (Femmto EG001 negra vs. azul, Parquer ST300 vs. ambas Femmto, Ibanez GRX40 vs. Epiphone SG Special): se reemplazó el token direccional `{{preciodif:A:B}}` por la frase "cuesta prácticamente lo mismo" para no afirmar una dirección que puede volverse falsa con la próxima variación de precio.
+
+### Freidoras de aire (`freidoras`) — 14 fichas
+
+| Ficha (id ML) | Producto |
+| :-- | :-- |
+| MLA46031096 | Kanji Home KJHAF1003 2.7L analógica |
+| MLA57822248 | Kanji KJHAF1404 4L digital |
+| MLA46208363 | Liliana AF966N Airview 6L con ventana |
+| MLA42479783 | Novohome NH-AF70WIX 7L |
+| MLA45520216 | Philco FR259PH 9L |
+| MLA39861128 | Atma FR248AWP 8L blanca con ventana |
+| MLA36816568 | Gadnic Cuk AIRCRISP 17L formato horno |
+| MLA39932833 | Atma FR246AWP 6L blanca con ventana |
+| MLA42519580 | Yelmo FR7309 5L violeta |
+| MLA39458507 | Cuk by Gadnic 4,2L digital |
+| MLA39456847 | Westinghouse WKAF508 6.5L |
+| MLA40069273 | Cuk by Gadnic 2,5L con perillas |
+| MLA71611933 | Vetra AF-G500 5L canasta de vidrio |
+| MLA41479634 | Westinghouse AFR-1802 10L 12 funciones |
+
+Optimizada: 2026-09-02.
+
+---
+
 ## Mediciones posteriores
 
 > Agregar acá cada re-medición. Formato sugerido: una subsección por fecha de export, con las URLs que cambiaron y el delta contra el baseline (o contra la medición anterior).

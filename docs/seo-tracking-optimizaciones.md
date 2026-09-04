@@ -1419,3 +1419,45 @@ nunca queda viejo. Pero con inflación el ORDEN entre productos puede invertirse
 equivocado. Revalidar el orden por precio antes del 1 de octubre.
 
 Re-medir: **~2026-10-20**, apenas pasada la fecha, contra baseline cero.
+
+## 2026-09-04 — Guía nueva `difusor-de-aromas` (silo salud-bienestar, categoría nueva)
+
+| Guía | Silo | Categoría | Keyword del bloque | Volumen (Ubersuggest AR) | Volumen (Keyword Planner AR) | SD | Productos |
+| :-- | :-- | :-- | :-- | --: | --: | --: | --: |
+| `difusor-de-aromas` | salud-bienestar | difusores-de-aromas | difusor de aromas | 4.400 | 4.400 | 9 | 3 |
+
+**Baseline: cero.** URL nueva, sin historial en GSC.
+
+**Origen: barrido de catálogo, no research de keyword desde cero.** Se cruzaron los 789 productos de
+`curated-products.ts` contra `guides.ts` para encontrar productos ya sourceados sin ninguna guía que los
+cubra. Salieron 5 candidatos de difusores de aromas, ya cruzados entre sí por `relatedProducts` desde una
+sesión anterior (evidencia de que el cluster ya estaba planeado, la guía nunca se terminó). Al verificar en
+vivo, 2 de los 5 estaban con "Publicación pausada" (MLA841529901, MLA886877609): se marcaron
+`deprioritized`/`out_of_stock`, ver `docs/productos-sin-stock.md`. Quedaron 3 productos activos para la
+guía. Se encontró un 4to producto con mucho mejor respaldo (Gadnic DIFU0004 500ml, MLA28531688, 2.357
+calificaciones, 4.8★, "2º más vendido" de la categoría) pero Juan todavía no generó el link de afiliado:
+la ficha quedó completa y armada, `visibility: "deprioritized"` con `affiliateUrl: "PEGAR_MELI_LA"`, lista
+para sumarse a la guía (quickPicks + ranking + tabla) en cuanto llegue el link real.
+
+**Sin canibalización, confirmado.** La guía `humidificador` (silo climatizacion) ya excluía esta categoría
+antes de esta sesión ("muchos productos llamados humidificador en MercadoLibre son en realidad difusores
+de aroma chiquitos"). Se sumaron 2 links entrantes desde esa guía (un callout y una FAQ que ya mencionaban
+"difusores de aroma" sin link) hacia `difusor-de-aromas`, cumpliendo la regla de enlaces entrantes del
+`ARTICLE_CREATION_WORKFLOW.md`.
+
+**Auditoría del trío: 2 rondas hasta doble GO.** Codex encontró en la primera pasada 3 bloqueantes reales
+(reviewCount hardcodeado desactualizado en 2 fichas hermanas — 693 vs 699 real en el Gadnic 300ml, 316 vs
+323 real en el AJ-507 — y una FAQ que decía "130-500ml, como los de esta guía" cuando la guía solo tiene
+3 productos de 130-300ml) más 1 mejora opcional (la ficha deprioritized prometía que la guía comparaba
+"los cuatro"). Los 4 se corrigieron y la segunda pasada dio GO limpio de los dos auditores. agy no marcó
+ningún bloqueante en ninguna de las dos pasadas.
+
+**Verificación:** `npx tsc --noEmit`, los 8 checks de `npm run guides:check` y `npm run build` en verde
+después de cada tanda de cambios. Render local verificado en el navegador (precios, ratings y reviewCount
+resuelven correctamente por token).
+
+**Pendiente real:** cuando Juan pase el link de afiliado del Gadnic DIFU0004 500ml (MLA28531688), sumarlo
+como 4to producto a `quickPicks`, al ranking y a la tabla comparativa de esta guía, y sacarle
+`visibility: "deprioritized"`.
+
+Re-medir: **~2026-10-02** (≈4 semanas), contra baseline cero.

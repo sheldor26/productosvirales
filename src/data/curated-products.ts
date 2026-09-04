@@ -65,6 +65,49 @@ export const curatedProducts: Product[] = [
       { label: "Tasa de bits máxima", value: "200 Mbps" },
     ],
     relatedProducts: ["MLA19710677", "MLA49100446", "MLA62879003"],
+    articleBody: `## Qué es la Insta360 X4
+
+Es el escalón intermedio de la línea X: llena el hueco entre la X3 y la X5. Cuesta {{precio:MLA36223181}} y tiene {{reviews:MLA36223181}} calificaciones con {{rating:MLA36223181}} estrellas en MercadoLibre Argentina, en [nuestra comparativa de qué Insta360 comprar en Argentina](/guias/tech/insta360-cual-comprar).
+
+## El salto de resolución sobre la X3
+
+Graba 8K en 360, contra los 5.7K de la Insta360 X3 de esta comparativa. Trae rosca de 1/4 de pulgada más punto de liberación rápida, así que entra en soportes genéricos sin adaptador, algo que la X3 no tiene. Su pantalla táctil es de 2,5 pulgadas con vidrio Gorilla Glass, y su tasa de bits máxima de 200 Mbps es más alta que la de la X5.
+
+## La contra grande: los lentes no son reemplazables
+
+Acá está lo que más pesa contra esta X4: sus lentes **no son reemplazables por el usuario**, a diferencia de los de la X5 y la X4 Air de esta comparativa. Los protectores de lente sí se cambian, pero si se rompe el lente en sí, hay que mandar la cámara a service técnico. Es justamente el problema que reportan compradores de la X3 en sus reseñas, y que la X5 y la X4 Air resolvieron después.
+
+## Se moja menos que las dos de arriba
+
+Es sumergible hasta 10 metros sin carcasa, contra los 15 de la X5 y la X4 Air. Con la carcasa de buceo, llega a 50 metros.
+
+## Sensor chico, empatado con la X3
+
+Sus sensores son de 1/2 pulgada, los más chicos de la línea X que comparamos, empatados con los de la X3. Si la calidad de imagen en poca luz es tu prioridad, ni esta X4 ni la X3 son la mejor opción: para eso está la X5, con sensores de 1/1,28 pulgadas.
+
+## Contra las otras Insta360 de la comparativa
+
+Cuesta {{preciodif:MLA36223181:MLA19710677}} más que la [Insta360 X3](/producto/camara-360-insta360-x3-mla19710677), con el salto a 8K y la rosca de montaje, pero comparte con ella el mismo tamaño de sensor y la falta de lentes reemplazables.
+
+Cuesta {{preciodif:MLA49100446:MLA36223181}} menos que la [Insta360 X5](/producto/camara-360-insta360-x5-mla49100446), que sí tiene lentes reemplazables y sensores más grandes.
+
+Cuesta prácticamente lo mismo que la [Insta360 X4 Air](/producto/camara-360-insta360-x4-air-mla62879003), que pesa menos (165 g contra 203) y comparte con la X5 los 15 metros de agua y los lentes reemplazables, algo que esta X4 no tiene.
+
+## Para quién es, y para quién no
+
+Es para vos si buscás más resolución que la X3 y un montaje más versátil (rosca de 1/4), sin llegar a pagar el precio completo de la X5.
+
+No es para vos si te preocupa el riesgo de romper un lente: sin reemplazo posible por tu cuenta, cualquier golpe fuerte implica mandarla a service. Para eso, la X5 o la X4 Air de esta comparativa resuelven ese punto débil.`,
+    faq: [
+      { question: "¿Se pueden cambiar los lentes si se rompen?", answer: "No. A diferencia de la X5 y la X4 Air de esta comparativa, los lentes de la X4 no son reemplazables por el usuario. Los protectores de lente sí se cambian, pero si se rompe el lente en sí, hay que mandar la cámara a service técnico." },
+      { question: "¿Qué la diferencia de la X3?", answer: "Graba 8K en 360 contra los 5.7K de la X3, suma rosca de 1/4 de pulgada para soportes genéricos y tiene pantalla con Gorilla Glass. Comparte con la X3 el mismo tamaño de sensor (1/2 pulgada) y la falta de lentes reemplazables." },
+      { question: "¿Hasta qué profundidad es sumergible?", answer: "10 metros sin carcasa, menos que los 15 de la X5 y la X4 Air de esta comparativa. Con la carcasa de buceo, llega hasta 50 metros." },
+      { question: "¿Vale la pena pagar menos que por la X5?", answer: "Depende de qué priorices. Cuesta {{preciodif:MLA49100446:MLA36223181}} menos, pero resigna sensores más grandes y la posibilidad de cambiar un lente roto vos mismo. Si esos dos puntos no te preocupan, esta X4 ahorra plata sin perder la resolución 8K." },
+      { question: "¿Qué tasa de bits tiene?", answer: "200 Mbps máximo, más alta que la de la X5 de esta comparativa, aunque eso no compensa el sensor más chico ni la falta de lentes reemplazables." },
+      { question: "¿Cuánto pesa?", answer: "203 gramos, más que la X5 (200 g) y bastante más que la X4 Air (165 g), la más liviana de la línea X que comparamos." },
+      { question: "¿Trae rosca para soportes?", answer: "Sí, rosca de 1/4 de pulgada más punto de liberación rápida, así que entra en soportes genéricos sin necesidad de un adaptador propietario." },
+      { question: "¿Conviene más esta o la X4 Air?", answer: "Cuestan prácticamente lo mismo. La X4 Air pesa menos y comparte con la X5 los 15 metros de agua y los lentes reemplazables, dos ventajas reales que esta X4 no tiene. Para la mayoría, la X4 Air es la mejor opción a precio similar." },
+    ],
   },
   {
     id: "MLA62879003",
@@ -119,6 +162,53 @@ export const curatedProducts: Product[] = [
       { label: "Fecha de lanzamiento", value: "28 de octubre de 2025, seis meses después de la X5" },
     ],
     relatedProducts: ["MLA49100446", "MLA36223181", "MLA19710677"],
+    articleBody: `## Qué es la Insta360 X4 Air
+
+Es una rama lateral de la línea X de Insta360, no la sucesora de nada. Cuesta {{precio:MLA62879003}} y tiene {{reviews:MLA62879003}} calificaciones con {{rating:MLA62879003}} estrellas en MercadoLibre Argentina, en [nuestra comparativa de qué Insta360 comprar en Argentina](/guias/tech/insta360-cual-comprar).
+
+## Salió después de la X5, y eso confunde el orden
+
+Acá está el dato que casi ninguna publicación aclara: la X4 Air **salió seis meses después de la X5**, el 28 de octubre de 2025. El número "4" en el nombre sugiere que es anterior a la X5, pero no lo es. Es una versión más liviana y más accesible que convive con la X5 en el catálogo, no un paso previo en la línea de tiempo.
+
+## Lo que conserva de la X5 que la X4 no tiene
+
+Comparte dos cosas clave con la X5 de esta comparativa que la X4 (la numerada, sin "Air") no ofrece: se moja hasta **15 metros sin carcasa**, más que los 10 de la X4, y sus **lentes se cambian en casa sin service técnico**, igual que los de la X5. Son justamente los dos datos que distinguen a las Insta360 más nuevas de las más viejas.
+
+## Lo que resigna: sensor y batería más chicos
+
+Sus sensores son de 1/1,8 pulgadas, más chicos que los 1/1,28 de la X5. Y su batería de 2010 mAh es más chica que la de la X4 (2290 mAh), con un detalle importante: **no son intercambiables entre las dos**, aunque comparten casi todo el resto del diseño.
+
+## La más liviana de la línea X que comparamos
+
+Pesa 165 gramos, la más liviana de todas las Insta360 de la línea X en esta comparativa. Si el peso en la mano o en el arnés te importa, es su ventaja más concreta.
+
+## Pocas opiniones todavía, y un dato que Insta360 no publica
+
+Tiene apenas {{reviews:MLA62879003}} calificaciones: salió en octubre de 2025, así que todavía hay poca evidencia acumulada comparada con modelos más viejos de la línea. Otro dato que falta: Insta360 no publica el tamaño ni el tipo de pantalla en su ficha oficial para este modelo puntual.
+
+## Contra las otras Insta360 de la comparativa
+
+Cuesta {{preciodif:MLA49100446:MLA62879003}} menos que la [Insta360 X5](/producto/camara-360-insta360-x5-mla49100446), que tiene sensores más grandes pero comparte los mismos 15 metros de agua y los mismos lentes reemplazables.
+
+Cuesta prácticamente lo mismo que la [Insta360 X4](/producto/camara-360-insta360-x4-mla36223181), aunque con menos profundidad sin carcasa (10 metros contra los 15 de esta X4 Air) y sin lentes reemplazables.
+
+Cuesta {{preciodif:MLA62879003:MLA19710677}} más que la [Insta360 X3](/producto/camara-360-insta360-x3-mla19710677), la más elegida de esta comparativa, que no tiene lentes reemplazables y se moja solo 10 metros.
+
+## Para quién es, y para quién no
+
+Es para vos si buscás lentes reemplazables y 15 metros de agua sin pagar el precio completo de la X5, y valorás que sea la más liviana de la línea.
+
+No es para vos si el tamaño de sensor es tu prioridad: para eso, la X5 de esta comparativa sigue siendo la opción con más calidad de imagen.`,
+    faq: [
+      { question: "¿La X4 Air es anterior a la X5?", answer: "No, es al revés: la X4 Air salió seis meses después de la X5, el 28 de octubre de 2025. El nombre confunde porque sugiere que es una generación anterior, pero convive con la X5 como una rama lateral más liviana y accesible." },
+      { question: "¿Se pueden cambiar los lentes si se rompen?", answer: "Sí, igual que en la X5 de esta comparativa: se cambian en casa con el kit oficial, sin necesidad de service técnico. Es una de las dos cosas que comparte con la X5 y que la X4 numerada no tiene." },
+      { question: "¿Hasta qué profundidad es sumergible?", answer: "15 metros sin carcasa, lo mismo que la X5 y más que los 10 de la X4. Con la carcasa de buceo, llega hasta 60 metros." },
+      { question: "¿La batería es compatible con la de la X4?", answer: "No. Aunque comparten gran parte del diseño, la batería de 2010 mAh de la X4 Air no es intercambiable con la de 2290 mAh de la X4." },
+      { question: "¿Vale la pena pagar menos que por la X5?", answer: "Depende de si te importa el tamaño de sensor. La X5 cuesta {{preciodif:MLA49100446:MLA62879003}} más y tiene sensores más grandes (1/1,28 pulgadas contra 1/1,8), pero comparten los mismos 15 metros de agua y los mismos lentes reemplazables. Si la calidad de imagen en poca luz no es tu prioridad, esta X4 Air ahorra plata." },
+      { question: "¿Es la más liviana de las Insta360?", answer: "De la línea X que comparamos, sí: pesa 165 gramos, menos que la X4, la X5 y el bundle de la X5." },
+      { question: "¿Tiene mucho respaldo de opiniones?", answer: "No todavía: tiene apenas {{reviews:MLA62879003}} calificaciones porque salió en octubre de 2025. Es normal que tenga menos evidencia acumulada que modelos con más tiempo en el mercado." },
+      { question: "¿Qué pantalla tiene?", answer: "Insta360 no publica el tamaño ni el tipo de pantalla en su ficha oficial para este modelo puntual, así que no es un dato que podamos confirmar con certeza." },
+    ],
   },
   {
     id: "MLA49100446",
@@ -176,6 +266,61 @@ export const curatedProducts: Product[] = [
       { label: "Tasa de bits máxima", value: "180 Mbps" },
     ],
     relatedProducts: ["MLA50882755", "MLA36223181", "MLA62879003"],
+    articleBody: `## Qué es la Insta360 X5
+
+Es la versión sola de la cámara 360 más nueva de Insta360 en nuestro catálogo, sin los accesorios del bundle. Cuesta {{precio:MLA49100446}} y tiene {{reviews:MLA49100446}} calificaciones con {{rating:MLA49100446}} estrellas en MercadoLibre Argentina, en [nuestra comparativa de cámaras deportivas en Argentina](/guias/tech/camara-deportiva). Al momento de verificar esta ficha, la publicación mostraba última unidad disponible.
+
+## La misma cámara, sin pagar por accesorios que ya tenés
+
+Es exactamente la misma X5 que el bundle con accesorios, pero {{preciodif:MLA49100446:MLA50882755}} más barata. Si ya tenés palo selfie, batería de repuesto o tarjeta microSD de una cámara anterior, esta versión sola es la que más conviene: no pagás de nuevo por algo que ya tenés.
+
+## Los sensores más grandes de las Insta360 que comparamos
+
+Trae dos sensores de 1/1,28 pulgadas, uno por lente, un 144% más grandes que los de la X4. Es la mejora técnica principal frente a generaciones anteriores de la marca, y se nota especialmente en poca luz.
+
+## Lentes que cambiás en casa, sin service técnico
+
+Insta360 lo presenta como el primer sistema de lentes reemplazables en una cámara 360: si rompés un lente (algo que reportan varios compradores de la Insta360 X3 de esta misma comparativa), lo cambiás vos mismo con el kit oficial, sin mandar la cámara a service.
+
+## Sumergible 15 metros sin carcasa
+
+Es resistente al agua hasta 15 metros sin necesidad de carcasa, con certificación IP68. Con la carcasa de buceo específica, llega hasta 60 metros.
+
+## Lo que no trae: viene sola
+
+Justamente por ser la versión sin accesorios, no incluye batería de repuesto ni palo selfie: se compran aparte si no los tenés ya. Es la contracara del ahorro frente al bundle.
+
+## Ya no es la generación actual: la X6 salió en agosto de 2026
+
+Un dato de transparencia que hay que tener claro: esta X5 ya no es el modelo tope de línea de Insta360. La X6 salió en agosto de 2026. Sigue siendo una cámara muy capaz (los sensores más grandes de las Insta360 que comparamos), pero si tu prioridad es tener lo último de la marca, esta no lo es.
+
+## La autonomía en 8K que Insta360 no publica de forma consistente
+
+Un hallazgo honesto que vale la pena compartir: para la autonomía en 8K, dos fuentes oficiales de Insta360 dan cifras distintas entre sí. Por eso no publicamos ese dato específico en la ficha técnica: preferimos omitirlo antes que elegir arbitrariamente cuál de las dos fuentes oficiales creerle. Sí podemos confirmar 135 minutos en 5.7K a 30 cuadros, y 208 minutos en 5.7K a 24 cuadros con el modo de ahorro, ambos medidos en laboratorio por Insta360.
+
+## Contra las otras cámaras de esta comparativa
+
+Cuesta {{preciodif:MLA49100446:MLA47374183}} más que la [GoPro HERO13 Black](/producto/camara-deportiva-gopro-hero13-black-mla47374183), que graba en formato tradicional en vez de 360.
+
+Cuesta {{preciodif:MLA62340610:MLA49100446}} menos que la [DJI Osmo Action 6](/producto/camara-deportiva-dji-osmo-action-6-combo-aventura-mla62340610), también en formato tradicional, con sensor más grande todavía.
+
+Contra su propia hermana menor, la [Insta360 X3](/producto/camara-360-insta360-x3-mla19710677) de esta comparativa, esta X5 suma sensores más grandes y lentes reemplazables sin service, a un precio más alto.
+
+## Para quién es, y para quién no
+
+Es para vos si ya tenés accesorios de una cámara anterior y no querés pagar de nuevo por ellos, valorás los sensores más grandes de las Insta360 de esta comparativa, y priorizás poder cambiar un lente roto vos mismo.
+
+No es para vos si buscás la generación más nueva de la marca (para eso hace falta la X6, que no está en esta comparativa), o si necesitás batería de repuesto y palo desde el primer día: acá se compran aparte.`,
+    faq: [
+      { question: "¿Por qué es más barata que el bundle con accesorios?", answer: "Es exactamente la misma cámara X5, pero sin batería de repuesto ni palo selfie incluidos. Si ya tenés esos accesorios de una cámara anterior, esta versión sola cuesta {{preciodif:MLA49100446:MLA50882755}} menos que el bundle." },
+      { question: "¿Es la cámara 360 más nueva de Insta360?", answer: "No, ya no. La X6 salió en agosto de 2026. Esta X5 sigue siendo muy capaz (los sensores más grandes de las Insta360 que comparamos), pero no es el modelo tope de línea actual de la marca." },
+      { question: "¿Se pueden cambiar los lentes si se rompen?", answer: "Sí, y es una mejora real frente a generaciones anteriores: Insta360 lo presenta como el primer sistema de lentes reemplazables en una cámara 360. Se cambian en casa con el kit oficial, sin necesidad de service técnico." },
+      { question: "¿Cuánto dura la batería en 8K?", answer: "No lo publicamos con precisión: dos fuentes oficiales de Insta360 dan cifras distintas para ese dato específico, así que preferimos omitirlo antes que elegir arbitrariamente cuál creerle. En 5.7K a 30 cuadros, la autonomía confirmada es de 135 minutos." },
+      { question: "¿Trae batería de repuesto o palo selfie?", answer: "No, esta es la versión sola: vienen aparte. Si los necesitás desde el primer día, hay que sumarlos al presupuesto o elegir el bundle con accesorios." },
+      { question: "¿Qué tan grandes son los sensores comparados con la X3?", answer: "Son sensores de 1/1,28 pulgadas, un 144% más grandes que los de la X4 (la generación entre la X3 y esta X5). Es la mejora técnica principal de esta versión." },
+      { question: "¿Hasta qué profundidad es sumergible?", answer: "15 metros sin carcasa, con certificación IP68. Con la carcasa de buceo específica, llega hasta 60 metros." },
+      { question: "¿Vale la pena pagar más por la DJI Osmo Action 6?", answer: "La DJI cuesta {{preciodif:MLA62340610:MLA49100446}} más y graba en formato tradicional con sensor todavía más grande. Si el formato 360 es lo que buscás, esta Insta360 X5 no tiene reemplazo directo en formato tradicional." },
+    ],
   },
   {
     id: "MLA39997069",
@@ -229,8 +374,52 @@ export const curatedProducts: Product[] = [
       { label: "Sumergible", value: "La cámara sola, 10 metros sin carcasa (IPX8). Con la carcasa de buceo, 60 metros" },
       { label: "Resistencia al agua del Action Pod", value: "IPX4: aguanta salpicaduras pero no se sumerge" },
       { label: "Pantalla del Action Pod", value: "2,2 pulgadas, 640 x 320, rebatible" },
+      { label: "Memoria interna", value: "64 GB, según el título de la publicación vigente" },
     ],
     relatedProducts: ["MLA19710677", "MLA36223181", "MLA57723897"],
+    articleBody: `## Qué es la Insta360 GO 3S
+
+Es otra idea de cámara, no una 360 más: una cámara diminuta que se cuelga de la ropa con un imán y filma en formato tradicional. Cuesta {{precio:MLA39997069}} y tiene {{reviews:MLA39997069}} calificaciones con {{rating:MLA39997069}} estrellas en MercadoLibre Argentina, en [nuestra comparativa de qué Insta360 comprar en Argentina](/guias/tech/insta360-cual-comprar).
+
+## 39 gramos que se cuelgan con un imán
+
+La cámara sola pesa unos 39 gramos y se pega a la ropa, una gorra o una mochila con un imán, sin necesidad de un arnés ni de sostenerla con la mano. Estabiliza adentro de la propia cámara y en tiempo real, no en la aplicación después de grabar, algo que la distingue de varias cámaras de esta comparativa.
+
+## La contra que hay que saber: 38 minutos, medidos en 1080p
+
+Acá está el dato más importante antes de comprar: la cámara sola dura apenas **38 minutos**, y ese número está medido en 1080p, no en 4K. Insta360 no publica el equivalente en la resolución máxima, así que en el uso real a 4K la autonomía va a ser todavía más corta.
+
+## El Action Pod suma autonomía, pero no se moja
+
+El Action Pod es la pieza con pantalla rebatible que lleva la autonomía de 38 a **140 minutos**. Pero hay una letra chica real: el Action Pod aguanta salpicaduras (certificación IPX4) pero **no se sumerge**. Al agua entra solo la cámara, sin el Pod.
+
+## No graba 4K a 60 cuadros por segundo
+
+Su techo de video es 4K a 30 cuadros por segundo: no llega a los 60 cuadros que sí ofrecen otras cámaras de esta comparativa. Para cámara lenta en 4K, esta GO 3S se queda corta.
+
+## El mismo sensor que la GO 3, no el de la GO Ultra
+
+Su sensor es de 1/2,3 pulgadas, el mismo tamaño que el de la GO 3 anterior, no el sensor más grande de la GO Ultra. Si venías de una GO 3 esperando un salto de sensor, no lo vas a encontrar acá: el salto está en otras cosas, como la estabilización en tiempo real.
+
+## Contra las otras Insta360 de la comparativa
+
+No compite de frente con la [Insta360 X3](/producto/camara-360-insta360-x3-mla19710677) ni con la [X4](/producto/camara-360-insta360-x4-mla36223181) de esta comparativa: esas graban en 360 grados, esta graba en formato tradicional con una cámara mínima. Cuesta {{preciodif:MLA39997069:MLA19710677}} más que la X3 y {{preciodif:MLA36223181:MLA39997069}} menos que la X4, pero la comparación de precio importa menos que la de formato: son propuestas distintas para usos distintos.
+
+## Para quién es, y para quién no
+
+Es para vos si querés filmar en primera persona sin sostener nada, valorás la estabilización en tiempo real dentro de la cámara, y entendés que la autonomía de la cámara sola es corta.
+
+No es para vos si buscás grabar en 360 grados (para eso, la X3, la X4 o la X5 de esta comparativa), o si necesitás que el combo completo (cámara más Action Pod) se pueda sumergir: solo la cámara entra al agua, no el Pod.`,
+    faq: [
+      { question: "¿Cuánto dura la batería realmente?", answer: "La cámara sola dura 38 minutos, medidos en 1080p, no en 4K. Insta360 no publica el dato equivalente en 4K, así que en la resolución máxima la autonomía real va a ser menor. Con el Action Pod conectado, sube a 140 minutos, con la misma medición en 1080p." },
+      { question: "¿El Action Pod se puede meter al agua?", answer: "No. Solo la cámara es sumergible, hasta 10 metros sin carcasa. El Action Pod tiene certificación IPX4, que aguanta salpicaduras pero no se sumerge. Al agua entra solo la cámara, sin el Pod." },
+      { question: "¿Graba 4K a 60 cuadros por segundo?", answer: "No, su techo es 4K a 30 cuadros por segundo. Si buscás cámara lenta en 4K, esta GO 3S se queda corta comparada con otras cámaras de esta comparativa." },
+      { question: "¿Es lo mismo que una cámara 360?", answer: "No. La Insta360 X3, la X4 y la X5 de esta comparativa graban en 360 grados y elegís el encuadre después. La GO 3S graba en formato tradicional con una cámara diminuta que se cuelga con imán: es otra idea de cámara, no compite de frente con las 360." },
+      { question: "¿Cuánto pesa?", answer: "La cámara sola pesa unos 39 gramos. El Action Pod, la pieza con pantalla, agrega unos 96 gramos más si lo usás conectado." },
+      { question: "¿Qué sensor tiene?", answer: "1/2,3 pulgadas, el mismo tamaño que el de la GO 3 anterior, no el sensor más grande de la GO Ultra. El salto de esta GO 3S está en la estabilización en tiempo real, no en el sensor." },
+      { question: "¿Trae memoria interna?", answer: "Sí, 64 GB según el título de la publicación vigente en MercadoLibre." },
+      { question: "¿Cómo estabiliza?", answer: "Con FlowState aplicado dentro de la propia cámara y en tiempo real, en modo Video y en grabación en bucle. A diferencia de otras cámaras, no depende de procesar la estabilización después en la aplicación." },
+    ],
   },
   // ─── GoPro: los 6 modelos verificados con stock nacional (ago 2026). Silo tech ───
   // Specs verificadas contra gopro.com, investor.gopro.com y los manuales oficiales.
@@ -250,7 +439,7 @@ export const curatedProducts: Product[] = [
     freeShipping: false,
     rating: 4.8,
     reviewCount: 867,
-    reviewsSampledAt: "2026-08-25",
+    reviewsSampledAt: "2026-09-04",
     soldQuantity: 1000,
     visibility: "featured",
     priceUpdated: "2026-09-02",
@@ -283,6 +472,67 @@ export const curatedProducts: Product[] = [
       { label: "Peso", value: "154 g con batería y dedos de montaje; 121 g sin batería" },
       { label: "Pantalla trasera", value: "Táctil de 2,27 pulgadas" },
       { label: "Pantalla frontal", value: "A color, de 1,4 pulgadas" },
+    ],
+    articleBody: `## Qué es la GoPro HERO12 Black
+
+La GoPro HERO12 Black es, en los números que importan, casi la misma cámara que la [HERO13 Black](/producto/camara-deportiva-gopro-hero13-black-mla47374183): mismo sensor, misma resolución máxima de video, misma profundidad de agua y medidas de cuerpo casi idénticas. Lo que le falta es el GPS, y por eso cuesta {{preciodif:MLA27104632:MLA47374183}} menos.
+
+## Comparte casi todo con la HERO13 Black, menos el GPS
+
+Graba 5.3K a 60 cuadros por segundo y 2.7K a 240 para cámara lenta, usa la misma generación de estabilización HyperSmooth 6.0 con AutoBoost que la HERO13, y aguanta 10 metros de agua sin carcasa (60 con la carcasa protectora). En video y en resistencia al agua, no hay diferencia real entre las dos cámaras: la diferencia está en un solo componente.
+
+## Sin GPS: qué perdés en la práctica
+
+GoPro le sacó el GPS a esta generación (la HERO11 Black sí lo tenía, y la HERO13 se lo devolvió). Sin GPS no podés superponer velocímetro, altitud, recorrido ni fuerza G al video, algo que sí importa si filmás moto, bici de montaña o esquí y querés esos datos en pantalla. Si no te interesan esos overlays, no vas a notar la ausencia en el día a día.
+
+## La batería, según quienes la usan a fondo
+
+El punto más repetido entre las opiniones reales no es el GPS, es la batería. Una reseña con 23 votos útiles lo resume sin vueltas: "Está padre... pero la batería le dura muy poco (personalmente soy repartidor, obviamente estoy todo el día) si ese es tu caso no la compres." La ficha usa una batería Enduro de 1720 mAh, más chica que los 1900 mAh de la HERO13 Black, así que quien graba muchas horas seguidas conviene que sume una batería extra.
+
+## Cuánto dura en un uso real, no solo en el papel
+
+GoPro publica la autonomía en cuatro resoluciones (70 minutos en 5.3K60, más de 95 en 5.3K30, 58 en 4K120 y más de 155 en 1080p30), y una reseña de un comprador que la probó en la montaña confirma que esos números se sostienen: un recorrido de 45 minutos grabando en hyperlapse le consumió cerca del 40% de batería. El mismo comprador avisa que hay que tener cuidado con la carga: la primera vez cargó bien, la segunda no quiso cargar, y tuvo que buscar una solución online. No es lo más común entre las opiniones, pero conviene saberlo.
+
+## Necesita algo de práctica para sacarle el jugo
+
+Otra opinión real lo dice de frente: "se necesita su tiempo para ver todas las opciones y mucha práctica para entender cada cosa, pero en general es una buena cámara de acción." No es una cámara de apretar un botón y listo si querés aprovechar los modos avanzados; el menú tiene profundidad y conviene invertir un rato en entenderlo.
+
+## Cómo se compara con el resto del catálogo GoPro
+
+{{preciodif:MLA27104632:MLA50182399}} más cara que la [GoPro HERO (2024)](/producto/camara-deportiva-gopro-hero-2024-mla50182399), la entrada de gama del catálogo, y {{preciodif:MLA57726638:MLA27104632}} más barata que la [MAX2](/producto/camara-360-gopro-max2-mla57726638), que es 360 grados y no comparable en formato. Para el punto medio entre precio y prestaciones dentro del catálogo GoPro, la HERO12 Black es la opción más razonable si el GPS no es un requisito; la [guía completa de cámaras GoPro](/guias/tech/gopro-cual-comprar) compara las seis en detalle para elegir según el uso.`,
+    faq: [
+      {
+        question: "¿Cuánto cuesta la GoPro HERO12 Black en Argentina?",
+        answer: "El precio de contado en Mercado Libre es {{precio:MLA27104632}}, con {{reviews:MLA27104632}} opiniones y 4.8 de 5 estrellas. Conviene confirmar el valor en la publicación porque puede variar.",
+      },
+      {
+        question: "¿Qué diferencia tiene con la GoPro HERO13 Black?",
+        answer: "Comparten sensor, resolución máxima de video, profundidad de agua y medidas de cuerpo. La diferencia principal es que la HERO12 Black no tiene GPS y usa una batería un poco más chica (1720 mAh contra 1900 mAh), y por eso cuesta {{preciodif:MLA27104632:MLA47374183}} menos.",
+      },
+      {
+        question: "¿Para qué sirve el GPS que le falta?",
+        answer: "El GPS permite superponer velocímetro, altitud, recorrido y fuerza G sobre el video grabado. Si no filmás actividades donde esos datos importan (moto, bici de montaña, esquí), no vas a notar la ausencia en el uso diario.",
+      },
+      {
+        question: "¿Cuánto dura la batería?",
+        answer: "GoPro declara hasta 70 minutos en 5.3K60 y más de 155 minutos en 1080p30. Una reseña real de un usuario que la probó en la montaña confirma esos números en la práctica, pero otras opiniones avisan que en uso intensivo todo el día (por ejemplo, reparto) la batería se queda corta.",
+      },
+      {
+        question: "¿Es fácil de usar para alguien que nunca tuvo una GoPro?",
+        answer: "Tiene curva de aprendizaje. Varias opiniones de compradores coinciden en que hace falta tiempo y práctica para entender todas las opciones del menú, aunque una vez que se domina, funciona bien como cámara de acción.",
+      },
+      {
+        question: "¿Es sumergible sin carcasa?",
+        answer: "Sí, hasta 10 metros sin carcasa adicional. Con la carcasa protectora que se vende aparte, llega a 60 metros.",
+      },
+      {
+        question: "¿Acepta los lentes intercambiables de la HERO13 Black?",
+        answer: "No. Los lentes HB-Series que sí funcionan en la HERO13 Black no son compatibles con la HERO12 Black.",
+      },
+      {
+        question: "¿Conviene comprar la HERO12 Black en vez de la HERO13 Black?",
+        answer: "Si no necesitás GPS ni los lentes intercambiables HB-Series, sí: ahorrás {{preciodif:MLA27104632:MLA47374183}} y mantenés el mismo sensor, la misma resolución y la misma resistencia al agua. Si filmás actividades donde el velocímetro o la altitud en pantalla importan, la HERO13 Black justifica la diferencia.",
+      },
     ],
     relatedProducts: ["MLA47374183", "MLA50182399", "MLA57726638"],
   },
@@ -336,8 +586,57 @@ export const curatedProducts: Product[] = [
       { label: "Peso", value: "86 gramos" },
       { label: "Ángulo del lente", value: "165 grados" },
       { label: "Pantalla", value: "Táctil trasera LCD de 1,76 pulgadas" },
+      { label: "Modelo alfanumérico", value: "CHDHF-131-AT, según la ficha vigente de la publicación" },
+      { label: "Garantía", value: "6 meses de fábrica, según la publicación vigente" },
     ],
     relatedProducts: ["MLA57723897", "MLA27104632", "MLA47374183"],
+    articleBody: `## Qué es la GoPro HERO (2024)
+
+Es la más barata y la más liviana de las seis GoPro de nuestro catálogo. Cuesta {{precio:MLA50182399}} y tiene {{reviews:MLA50182399}} calificaciones con {{rating:MLA50182399}} estrellas en MercadoLibre Argentina, en [nuestra comparativa de qué GoPro comprar en Argentina](/guias/tech/gopro-cual-comprar).
+
+## 86 gramos: la más liviana del catálogo
+
+Pesa 86 gramos, la más liviana de las seis GoPro que comparamos. Con ángulo de 165 grados y pantalla táctil trasera, es una cámara pensada para llevar en el bolsillo sin pensarlo dos veces.
+
+## La contra central: no estabiliza en la cámara
+
+Acá está el dato que su publicación no aclara y que más pesa en la decisión: **no estabiliza en la cámara**. HyperSmooth se aplica recién después, al procesar el video en la app Quik de GoPro. Si vas a compartir el video directo de la tarjeta sin pasar por la app, no vas a tener estabilización.
+
+## La batería viene pegada, no se puede cambiar
+
+Su batería con tecnología Enduro viene integrada: no se puede sacar ni cambiar por una de repuesto. Para un día largo de filmación, no existe la opción de llevar una batería extra como sí tienen otras GoPro de esta comparativa.
+
+## Sin GPS, y GoPro lo declara explícitamente
+
+No tiene GPS. La ficha oficial de GoPro lo marca como no disponible de forma explícita, no es una ausencia que dedujimos: es un dato confirmado por el fabricante.
+
+## Un dato del título que la ficha técnica no respalda
+
+Un aviso de transparencia: el título de la publicación menciona "60fps", pero la ficha técnica estructurada no declara ningún dato de cuadros por segundo, solo "Tipo de resolución: 4K" sin más detalle. No lo tomamos como un dato confiable: mantenemos los 30 cuadros por segundo que confirma la documentación oficial de GoPro para este modelo.
+
+## Contra las otras GoPro de la comparativa
+
+Cuesta {{preciodif:MLA57723897:MLA50182399}} menos que la [GoPro LIT HERO](/producto/camara-deportiva-gopro-lit-hero-mla57723897), otra opción de entrada de esta misma comparativa.
+
+Cuesta {{preciodif:MLA27104632:MLA50182399}} menos que la [GoPro HERO12 Black](/producto/camara-deportiva-gopro-hero12-black-mla27104632), que sí estabiliza en la cámara y tiene batería extraíble.
+
+Cuesta {{preciodif:MLA47374183:MLA50182399}} menos que la [GoPro HERO13 Black](/producto/camara-deportiva-gopro-hero13-black-mla47374183), la mejor elección general de esta comparativa.
+
+## Para quién es, y para quién no
+
+Es para vos si buscás la entrada más barata y liviana a la marca GoPro, y no te molesta procesar el video en la app para tener estabilización.
+
+No es para vos si necesitás GPS, batería de repuesto para sesiones largas, o estabilización lista de fábrica sin pasar por la aplicación: para eso, cualquiera de las Black de esta comparativa resuelve mejor.`,
+    faq: [
+      { question: "¿Estabiliza sola, sin pasar por la app?", answer: "No. Es la contra central de esta cámara: HyperSmooth se aplica recién después, al procesar el video en la app Quik de GoPro. Si compartís el video directo de la tarjeta, no vas a tener estabilización." },
+      { question: "¿Tiene GPS?", answer: "No, y la ficha oficial de GoPro lo marca como no disponible de forma explícita. Es un dato confirmado por el fabricante, no una ausencia que dedujimos." },
+      { question: "¿Se puede cambiar la batería?", answer: "No, viene integrada con tecnología Enduro y no se puede sacar ni cambiar por una de repuesto. Para sesiones largas, esa es una limitación real frente a otras GoPro de esta comparativa." },
+      { question: "¿Graba 4K a 60 cuadros por segundo?", answer: "El título de la publicación lo menciona, pero la ficha técnica estructurada no declara ningún dato de cuadros por segundo. No lo tomamos como confiable: la documentación oficial de GoPro confirma 30 cuadros por segundo en 4K para este modelo." },
+      { question: "¿Cuánto pesa?", answer: "86 gramos, la más liviana de las seis GoPro de esta comparativa." },
+      { question: "¿Hasta qué profundidad es sumergible?", answer: "5 metros sin carcasa, la menor de esta comparativa." },
+      { question: "¿Vale la pena pagar más por la HERO12 Black?", answer: "Si necesitás batería extraíble y estabilización en la cámara, sí: la HERO12 cuesta {{preciodif:MLA27104632:MLA50182399}} más y resuelve las dos contras principales de esta HERO (2024)." },
+      { question: "¿Qué garantía tiene?", answer: "6 meses de fábrica, según la publicación vigente en MercadoLibre." },
+    ],
   },
   {
     id: "MLA57723897",
@@ -391,6 +690,57 @@ export const curatedProducts: Product[] = [
       { label: "Modos de captura", value: "Video 16:9, Video 4:3, cámara lenta y foto" },
     ],
     relatedProducts: ["MLA50182399", "MLA27104632", "MLA47374183"],
+    articleBody: `## Qué es la GoPro LIT HERO
+
+Es la única de las seis GoPro de nuestro catálogo con luz LED integrada. Cuesta {{precio:MLA57723897}} y tiene {{reviews:MLA57723897}} calificaciones con {{rating:MLA57723897}} estrellas en MercadoLibre Argentina, en [nuestra comparativa de qué GoPro comprar en Argentina](/guias/tech/gopro-cual-comprar). Al momento de verificar esta ficha, quedaban solo 5 unidades disponibles.
+
+## La luz es su razón de existir
+
+Tiene tres niveles de brillo con un botón dedicado, y funciona incluso con la cámara apagada, así que sirve como linterna independiente. Es el diferencial real frente a las otras cinco GoPro de esta comparativa, ninguna de las cuales trae luz integrada.
+
+## Lo que cuesta prender la luz, según los propios números de GoPro
+
+Acá está un dato honesto que GoPro publica de forma transparente: prender la luz al máximo le cuesta unos 63 minutos de autonomía. Con la luz apagada dura 175 minutos en 1080p30; con el LED al máximo, baja a 112. Es un costo real y medido, no una estimación nuestra.
+
+## No estabiliza en la cámara
+
+Igual que la HERO (2024) de esta comparativa, no estabiliza sola: la ficha oficial de GoPro dice textualmente que HyperSmooth se aplica después, en la app Quik, no en la cámara mientras filmás.
+
+## Batería integrada: para cualquier problema, hay que llamar a service
+
+Su batería de 1255 mAh viene integrada y no se puede sacar ni reemplazar. GoPro pide llamar al servicio técnico por cualquier tema relacionado con la batería, a diferencia de otras GoPro de esta comparativa con batería extraíble.
+
+## Sin GPS
+
+No tiene GPS, así que no hay velocímetro ni altitud superpuestos al video, algo que sí ofrece la HERO13 Black de esta comparativa.
+
+## 4K a 60 cuadros, vía cámara lenta
+
+Graba 4K a 60 y 30 cuadros por segundo, y 1080p a 60 y 30. El 4K60 se graba específicamente desde el modo de cámara lenta 2x, disponible también en 1080p60.
+
+## Contra las otras GoPro de la comparativa
+
+Cuesta {{preciodif:MLA57723897:MLA50182399}} más que la [HERO (2024)](/producto/camara-deportiva-gopro-hero-2024-mla50182399), que no tiene luz LED pero comparte las mismas dos contras de estabilización y batería.
+
+Cuesta {{preciodif:MLA27104632:MLA57723897}} menos que la [HERO12 Black](/producto/camara-deportiva-gopro-hero12-black-mla27104632), que sí estabiliza en la cámara y tiene batería extraíble, aunque sin luz integrada.
+
+Cuesta {{preciodif:MLA47374183:MLA57723897}} menos que la [HERO13 Black](/producto/camara-deportiva-gopro-hero13-black-mla47374183), la mejor elección general de esta comparativa.
+
+## Para quién es, y para quién no
+
+Es para vos si vas a filmar en condiciones de poca luz y valorás tener una linterna incorporada lista para usar, y no te molesta procesar el video en la app para tener estabilización.
+
+No es para vos si necesitás GPS, batería de repuesto para el día completo, o estabilización en la cámara sin pasar por la app: para eso, la HERO12 o la HERO13 Black de esta comparativa resuelven mejor.`,
+    faq: [
+      { question: "¿Es la única GoPro con luz integrada?", answer: "Sí, dentro de esta comparativa. Tiene tres niveles de brillo con botón dedicado y funciona incluso con la cámara apagada, sirviendo como linterna independiente." },
+      { question: "¿Cuánto cuesta prender la luz en autonomía?", answer: "Unos 63 minutos, según los propios números que publica GoPro: 175 minutos en 1080p30 con la luz apagada contra 112 minutos con el LED al máximo." },
+      { question: "¿Estabiliza sola?", answer: "No. La ficha oficial de GoPro dice textualmente que la estabilización se aplica después, en la app Quik, no en la cámara mientras filmás. Es la misma limitación que tiene la HERO (2024) de esta comparativa." },
+      { question: "¿Se puede cambiar la batería?", answer: "No, viene integrada de 1255 mAh y no se puede sacar ni reemplazar. GoPro pide llamar al servicio técnico por cualquier problema relacionado con la batería." },
+      { question: "¿Tiene GPS?", answer: "No, así que no hay velocímetro ni altitud superpuestos al video, a diferencia de la HERO13 Black de esta comparativa." },
+      { question: "¿Graba en cámara lenta?", answer: "Sí, cámara lenta 2x disponible en 4K60 y en 1080p60. El modo 4K a 60 cuadros se graba específicamente desde ese modo." },
+      { question: "¿Es sumergible?", answer: "Hasta 5 metros sin carcasa, con la tapa trabada. No es sumergible mientras carga." },
+      { question: "¿Vale la pena pagar más por la HERO12 Black?", answer: "Si no necesitás la luz LED pero sí batería extraíble y estabilización en la cámara, sí: la HERO12 cuesta {{preciodif:MLA27104632:MLA57723897}} más y resuelve esas dos limitaciones." },
+    ],
   },
   {
     id: "MLA57726638",
@@ -445,6 +795,61 @@ export const curatedProducts: Product[] = [
       { label: "Estabilización", value: "Max HyperSmooth con bloqueo de horizonte de 360 grados" },
     ],
     relatedProducts: ["MLA19710677", "MLA50882755", "MLA47374183"],
+    articleBody: `## Qué es la GoPro MAX2
+
+Es la respuesta de GoPro al formato 360. Cuesta {{precio:MLA57726638}} y tiene {{reviews:MLA57726638}} calificaciones con {{rating:MLA57726638}} estrellas en MercadoLibre Argentina, en [nuestra comparativa de qué GoPro comprar en Argentina](/guias/tech/gopro-cual-comprar).
+
+## GPS: GoPro afirma que es la única 360 que lo tiene
+
+Tiene GPS integrado, y GoPro afirma que es la única cámara 360 con esa función. Eso permite superponer velocidad, altitud y recorrido directamente sobre el video, algo que ninguna otra cámara 360 de nuestro catálogo ofrece.
+
+## Lentes que se cambian en el momento, sin herramientas
+
+Usa el sistema Twist-and-Go: los lentes se cambian a mano, en el momento, sin kit, sin herramientas y sin recalibrar después. Es un trámite más simple que el de las cámaras 360 de Insta360 de nuestro catálogo, que si bien también permiten cambiar lentes, requieren el kit oficial.
+
+## La contra del agua: no está pensada para bucear
+
+Se moja hasta 5 metros con la tapa trabada, pero GoPro lo aclara de frente: el sellado es para lluvia y salpicaduras, no para uso bajo el agua. Si tu plan es filmar buceando, esta no es la herramienta, a diferencia de otras 360 que sí se presentan como aptas para eso.
+
+## GoPro no publica autonomía para este modelo
+
+Un hueco de información real: GoPro no publica ningún dato oficial de autonomía para la MAX2. No es que lo omitamos nosotros, es que la documentación oficial del fabricante no lo incluye.
+
+## Pesa más que las HERO Black
+
+Pesa 195 gramos, bastante más que las GoPro HERO Black de esta comparativa. Es el costo físico de meter dos lentes y sensores para cubrir la esfera completa.
+
+## Un error de la publicación que vale la pena aclarar
+
+Uno de los puntos destacados de la publicación declara que la cámara "pesa 402kg", un error de tipeo evidente (probablemente quiso decir gramos, no kilogramos). No lo tomamos como dato: usamos los 195 gramos que confirma la ficha técnica oficial de GoPro.
+
+## Como toda 360, hay que editar antes de que sirva
+
+Igual que las Insta360 de nuestro catálogo, el video 360 de la MAX2 no sale listo para compartir: siempre hay que pasarlo por la app para elegir el encuadre final antes de que sirva.
+
+## Contra las otras GoPro de la comparativa
+
+Cuesta {{preciodif:MLA57726638:MLA50182399}} más que la [HERO (2024)](/producto/camara-deportiva-gopro-hero-2024-mla50182399), la entrada de esta comparativa en formato tradicional.
+
+Cuesta {{preciodif:MLA57726638:MLA27104632}} más que la [HERO12 Black](/producto/camara-deportiva-gopro-hero12-black-mla27104632), también en formato tradicional pero sin la posibilidad de grabar en 360.
+
+Cuesta prácticamente lo mismo que la [HERO13 Black](/producto/camara-deportiva-gopro-hero13-black-mla47374183), la mejor elección general de esta comparativa: la diferencia entre ambas es el formato, no el precio.
+
+## Para quién es, y para quién no
+
+Es para vos si querés grabar en 360 dentro del ecosistema GoPro, valorás el GPS integrado, y no vas a filmar en buceo profundo.
+
+No es para vos si necesitás sumergirla más allá de salpicaduras y lluvia, o si preferís el formato tradicional de una GoPro HERO en vez del 360.`,
+    faq: [
+      { question: "¿Es la única cámara 360 con GPS?", answer: "Según afirma GoPro, sí. Permite superponer velocidad, altitud y recorrido sobre el video, algo que ninguna otra 360 de nuestro catálogo ofrece." },
+      { question: "¿Se puede usar para bucear?", answer: "No. Se moja hasta 5 metros con la tapa trabada, pero GoPro aclara de frente que el sellado es para lluvia y salpicaduras, no para uso bajo el agua." },
+      { question: "¿Cuánto dura la batería?", answer: "GoPro no publica ningún dato oficial de autonomía para este modelo. Es un hueco de información real de la documentación del fabricante, no algo que omitamos nosotros." },
+      { question: "¿Es cierto que pesa 402 kg?", answer: "No, es un error de tipeo en uno de los puntos destacados de la publicación (probablemente quiso decir gramos). La ficha técnica oficial de GoPro confirma 195 gramos." },
+      { question: "¿Cómo se cambian los lentes?", answer: "Con el sistema Twist-and-Go: se cambian a mano, en el momento, sin herramientas ni necesidad de recalibrar después. Es más simple que el proceso de las cámaras 360 de Insta360, que requieren su kit oficial." },
+      { question: "¿Qué resolución graba en 360?", answer: "8K a 30 cuadros por segundo, además de 5.6K a 60 y 4K a 100. Con un solo lente, graba 4K a 60 cuadros en 16:9, 9:16 y 4:3." },
+      { question: "¿Vale la pena esta o la HERO13 Black?", answer: "Cuestan prácticamente lo mismo, pero son formatos distintos. La MAX2 graba en 360 con GPS; la HERO13 Black graba en formato tradicional y es la más opinada de esta comparativa. La elección depende del formato que busques, no del precio." },
+      { question: "¿Tiene batería extraíble?", answer: "Sí, batería Enduro de 1960 mAh, extraíble. A diferencia de la HERO (2024) o la LIT HERO de esta comparativa, que tienen batería integrada." },
+    ],
   },
   {
     id: "MLA70063378",
@@ -496,6 +901,71 @@ export const curatedProducts: Product[] = [
       { label: "Acercamiento", value: "2x real, aprovechando el sensor Quad Bayer" },
       { label: "Estabilización", value: "HyperSmooth con bloqueo de horizonte de 360 grados" },
       { label: "GPS", value: "Sí" },
+    ],
+    articleBody: `## Qué es la GoPro MISSION 1 PRO
+
+La GoPro MISSION 1 PRO es la cámara más cara y más completa de esta comparativa, pero no es una cámara de acción como las HERO: es una cámara de cine compacta con sensor de 1 pulgada, pensada para quien prioriza la calidad de imagen por sobre la resistencia de atarse a un casco o una tabla. Si buscás una cámara de acción clásica para deporte, la [guía completa de GoPro](/guias/tech/gopro-cual-comprar) tiene modelos más acordes en precio y en uso.
+
+## El sensor de 1 pulgada, el más grande de las seis que comparamos
+
+El sensor de 1 pulgada y 50 MP tipo Quad Bayer es el diferencial real de la MISSION 1 PRO frente al resto del catálogo GoPro del sitio: es más grande que el de cualquier HERO Black, y permite grabar 8K a sensor completo en formato 4:3, sin recorte, algo que ni la HERO13 Black ni la [HERO12 Black](/producto/camara-deportiva-gopro-hero12-black-mla27104632) hacen. En la práctica, eso se traduce en más detalle y mejor comportamiento con poca luz que una cámara de acción convencional.
+
+## El modo nocturno graba en 4K, no en 8K
+
+El modo noche de la MISSION 1 PRO no sostiene los 8K del resto de los modos: graba en 4K. Una reseña de un comprador de Brasil, con 5 estrellas, lo aclara sin filtro: "Excelente, el modo nocturno es muy bueno. Sin embargo, cabe destacar que el modo nocturno solo permite grabar en 4K." No es un defecto raro (es una limitación técnica lógica de cualquier sensor grande a baja luz), pero conviene saberlo antes de comprar si el uso principal es de noche.
+
+## Es una cámara de cine compacta, no una cámara de acción
+
+GoPro la vende dentro de la línea MISSION, pensada como herramienta de cine compacto y no como cámara de acción para pegar en un casco de skate o atar a una tabla de surf. Se moja hasta 20 metros sin carcasa (el doble que las HERO Black), pero su cuerpo con pantalla frontal LCD y pantalla trasera OLED táctil está pensado para sostenerla en la mano o montarla en un gimbal, no para absorber golpes constantes. Para uso de acción intensivo (bici, moto, casco), una [HERO13 Black](/producto/camara-deportiva-gopro-hero13-black-mla47374183) sigue siendo la opción más probada.
+
+## El peso que GoPro no logra poner de acuerdo
+
+La ficha técnica de Mercado Libre declara 171 gramos para la MISSION 1 PRO, pero es uno de los pocos productos de este catálogo donde ni las propias fuentes de GoPro coinciden entre sí sobre el peso exacto. Lo decimos de frente en vez de elegir un número al azar: hasta que la marca publique una cifra estable y consistente en todos sus canales, conviene tomar el peso como una referencia aproximada, no como un dato cerrado.
+
+## Pocas opiniones todavía, y varias de otros países
+
+La MISSION 1 PRO tiene {{reviews:MLA70063378}} opiniones con 5 de 5 estrellas, un número chico para sacar conclusiones firmes, y una parte de esas opiniones vienen de compradores de Brasil y otros países (la propia publicación de Mercado Libre lo aclara). Las que hay son elogiosas: "el producto es robusto, de excelente calidad y me dejó muy satisfecho" dice una con 7 votos útiles, y otra la describe como "super chiquita, cabe en una mano". Es una buena señal inicial, pero no reemplaza el historial de miles de opiniones que sí acumulan las HERO de este catálogo.
+
+## Cuánto más cuesta que las otras GoPro de esta comparativa
+
+{{preciodif:MLA70063378:MLA47374183}} más cara que la HERO13 Black, {{preciodif:MLA70063378:MLA57726638}} más cara que la [MAX2](/producto/camara-360-gopro-max2-mla57726638) y {{preciodif:MLA70063378:MLA27104632}} más cara que la HERO12 Black: la MISSION 1 PRO es, por lejos, la opción más cara del catálogo GoPro del sitio. Esa diferencia solo se justifica si el sensor de 1 pulgada y el 8K a sensor completo se van a usar de verdad; si no, conviene repasar la [guía completa de cámaras GoPro](/guias/tech/gopro-cual-comprar) antes de pagar de más por prestaciones que no se van a aprovechar.`,
+    faq: [
+      {
+        question: "¿Cuánto cuesta la GoPro MISSION 1 PRO en Argentina?",
+        answer: "El precio de contado en Mercado Libre es {{precio:MLA70063378}}. Es un valor que puede variar, así que conviene confirmarlo en la publicación antes de comprar.",
+      },
+      {
+        question: "¿La MISSION 1 PRO es una cámara de acción como las HERO?",
+        answer: "No exactamente. GoPro la ubica dentro de su línea de cine compacto, pensada para sostener en la mano o montar en un gimbal, no como cámara de acción para pegar en un casco. Se moja sin carcasa hasta 20 metros, pero su diseño prioriza la calidad de imagen antes que la resistencia a golpes.",
+      },
+      {
+        question: "¿Qué diferencia real tiene el sensor de 1 pulgada frente a una HERO13 Black?",
+        answer: "Es un sensor físicamente más grande, con 50 MP tipo Quad Bayer, que permite grabar 8K a sensor completo en formato 4:3 sin recorte. En la práctica, eso da más detalle y mejor manejo de poca luz que el sensor de una HERO Black convencional.",
+      },
+      {
+        question: "¿Graba siempre en 8K, incluso de noche?",
+        answer: "No. El modo nocturno de la MISSION 1 PRO limita la grabación a 4K, según confirma una reseña de un comprador real. El resto de los modos sí llega a 8K a sensor completo.",
+      },
+      {
+        question: "¿La batería es compatible con la HERO13 Black?",
+        answer: "Sí. Usa la batería Enduro 2, que es intercambiable con las baterías de la HERO13 Black, así que quien ya tiene esa cámara puede compartir baterías entre las dos.",
+      },
+      {
+        question: "¿Cuánto pesa la GoPro MISSION 1 PRO?",
+        answer: "La ficha técnica de Mercado Libre indica 171 gramos, pero las propias fuentes de GoPro no coinciden entre sí sobre el peso exacto. Conviene tomar esa cifra como una referencia aproximada hasta que la marca publique un dato consistente.",
+      },
+      {
+        question: "¿Tiene GPS?",
+        answer: "Sí, la MISSION 1 PRO incluye GPS integrado, algo que no todas las cámaras de esta comparativa tienen.",
+      },
+      {
+        question: "¿Tiene muchas opiniones de compradores?",
+        answer: "Tiene {{reviews:MLA70063378}} opiniones con 5 de 5 estrellas, pero es un número chico y varias vienen de compradores de otros países. Es una buena señal inicial, aunque todavía no hay el historial extenso que tienen modelos como la HERO13 Black.",
+      },
+      {
+        question: "¿Conviene comprar la MISSION 1 PRO en vez de una HERO13 Black o una MAX2?",
+        answer: "Solo si el sensor de 1 pulgada y el 8K a sensor completo van a usarse de verdad, porque es la opción más cara del catálogo GoPro del sitio por bastante margen. Para uso de acción cotidiano (deporte, casco, viajes), una HERO13 Black o una HERO12 Black rinden más por lo que cuestan.",
+      },
     ],
     relatedProducts: ["MLA47374183", "MLA57726638", "MLA27104632"],
   },
@@ -563,7 +1033,56 @@ export const curatedProducts: Product[] = [
       { rating: 5, country: "Brasil", date: "2025", text: "Excelente, imagen extraordinaria, duración de la batería muy buena, solo tuve un apagón cuando grabé en 5K durante más de 40 minutos, pero por lo demás todo bien." },
       { rating: 5, country: "Brasil", date: "2025", text: "Excelente, producto original, no incluye accesorios además del agarre de fijación. Es necesario una tarjeta de memoria para realizar la primera configuración." },
     ],
-    relatedProducts: ["MLA19710677", "MLA62340610", "MLA29364436"],
+    relatedProducts: ["MLA19710677", "MLA62340610", "MLA66182550"],
+    articleBody: `## Qué es la GoPro HERO13 Black
+
+Es la mejor elección general de nuestra comparativa de cámaras deportivas: la más barata de las dos que siguen siendo generación actual de su marca. Cuesta {{precio:MLA47374183}} y tiene {{reviews:MLA47374183}} calificaciones con {{rating:MLA47374183}} estrellas en MercadoLibre Argentina, en [nuestra comparativa de cámaras deportivas en Argentina](/guias/tech/camara-deportiva). Al momento de verificar esta ficha, quedaban solo 2 unidades disponibles.
+
+## Por qué sigue siendo el modelo actual, sin HERO14
+
+Un dato que casi ninguna publicación aclara: GoPro se salteó el ciclo 2025 y no lanzó una HERO14. Eso significa que esta HERO13 sigue siendo el modelo tope de línea vigente de la marca, no una generación atrás como sí ocurre con otras cámaras de esta comparativa.
+
+## Lentes intercambiables que se detectan solos
+
+Es la única de esta comparativa con lentes intercambiables de la línea HB-Series que se detectan automáticamente y ajustan los parámetros de la cámara solos, sin configuración manual. Combinado con la rosca 1/4-20 incorporada, entra en soportes genéricos sin necesitar un adaptador propietario.
+
+## La contra real: se apaga por temperatura
+
+Acá está la queja más repetida entre sus propios compradores, y la publicamos completa porque viene de gente que la usó de verdad. Una reseña lo confirma: **"la única desventaja es que se calienta mucho y a veces necesita apagarse hasta que vuelva a la temperatura normal"**. Otra cuenta algo similar: **"solo tuve un apagón cuando grabé en 5K durante más de 40 minutos"**. Grabando en la resolución máxima durante sesiones largas, es un comportamiento a esperar, no un caso aislado.
+
+## No incluye tarjeta de memoria
+
+Un comprador lo aclara de forma directa: **"es necesario una tarjeta de memoria para realizar la primera configuración"**, y no viene en la caja. Sumá ese gasto extra antes de poder usarla el mismo día que te llega.
+
+## Se moja hasta 10 metros sin carcasa, la mitad que la DJI
+
+Es sumergible hasta 10 metros sin carcasa adicional, la mitad de los 20 metros que ofrece la DJI Osmo Action 6 de esta misma comparativa. Para uso recreativo en pileta o mar poco profundo alcanza; para buceo más serio, hace falta la carcasa.
+
+## La batería no es compatible con GoPro anteriores
+
+Usa la batería Enduro extraíble de 1900 mAh, que no es compatible con baterías de modelos GoPro anteriores. Si venís de una HERO más vieja, no vas a poder reutilizar las baterías que ya tenías.
+
+## Contra las otras cámaras de esta comparativa
+
+Cuesta {{preciodif:MLA47374183:MLA19710677}} más que la [Insta360 X3](/producto/camara-360-insta360-x3-mla19710677), aunque esta última graba en 360 grados en vez del formato tradicional de la GoPro.
+
+La [DJI Osmo Action 6](/producto/camara-deportiva-dji-osmo-action-6-combo-aventura-mla62340610) cuesta {{preciodif:MLA62340610:MLA47374183}} más, con sensor más grande y apertura variable, aunque el 8K le llegó por firmware, no de fábrica.
+
+## Para quién es, y para quién no
+
+Es para vos si querés la generación actual de GoPro sin pagar el precio de la DJI más cara de esta comparativa, y publicás la autonomía correcta según la resolución que uses.
+
+No es para vos si vas a grabar sesiones largas en la resolución máxima sin pausas: sus propios compradores reportan apagados por temperatura en esas condiciones. Tampoco si buscás bucear más de 10 metros sin carcasa: para eso, la DJI Osmo Action 6 llega más profundo.`,
+    faq: [
+      { question: "¿Por qué se apaga sola a veces?", answer: "Sus propios compradores reportan que se apaga por temperatura al grabar en alta resolución durante sesiones largas. Una reseña lo confirma: se calienta y necesita apagarse hasta volver a temperatura normal. Otra tuvo un apagón grabando 5K durante más de 40 minutos." },
+      { question: "¿Incluye tarjeta de memoria?", answer: "No, y hace falta una para la primera configuración. Un comprador lo aclara directamente en su reseña: es necesario comprarla aparte antes de poder usar la cámara." },
+      { question: "¿Es el modelo actual de GoPro?", answer: "Sí. GoPro se salteó el ciclo 2025 y no lanzó una HERO14, así que esta HERO13 sigue siendo el modelo tope de línea vigente de la marca, no una generación atrás." },
+      { question: "¿Hasta qué profundidad es sumergible sin carcasa?", answer: "10 metros sin carcasa adicional, la mitad de los 20 metros que ofrece la DJI Osmo Action 6 de esta misma comparativa. Con carcasa se puede ir más profundo." },
+      { question: "¿La batería sirve para una GoPro más vieja?", answer: "No. Usa la batería Enduro de 1900 mAh, que no es compatible con baterías de modelos GoPro anteriores. Si venís de una HERO más vieja, no vas a poder reutilizarlas." },
+      { question: "¿Qué la hace distinta de las otras cámaras de esta comparativa?", answer: "Es la única con lentes intercambiables que se detectan automáticamente y ajustan los parámetros solos. Suma rosca 1/4-20 incorporada, así que entra en soportes genéricos sin adaptador." },
+      { question: "¿Vale la pena pagar más por la DJI Osmo Action 6?", answer: "La DJI cuesta {{preciodif:MLA62340610:MLA47374183}} más, con sensor más grande, apertura variable y más profundidad sin carcasa. Si esas diferencias no son prioridad, esta GoPro cumple siendo la más barata de las dos cámaras de generación actual de esta comparativa." },
+      { question: "¿Publica bien el dato de autonomía?", answer: "Sí, es de las pocas de esta comparativa que publica autonomía tanto en su resolución máxima como en 1080p: más de 1,5 horas en 4K30 y 5.3K30, y más de 2,5 horas en 1080p30." },
+    ],
   },
   {
     id: "MLA19710677",
@@ -628,6 +1147,57 @@ export const curatedProducts: Product[] = [
       { rating: 5, country: "México", date: "2025", text: "Soy motociclista y hace un mes comencé a investigar y a comparar las distintas cámaras en el mercado, y definitivamente la insta360 fue la mejor decisión. Solo recuerden adquirir también una microsd v30 o mayor, ya que sí falla si se utiliza con una memoria convencional." },
     ],
     relatedProducts: ["MLA50882755", "MLA47374183", "MLA62340610"],
+    articleBody: `## Qué es la Insta360 X3
+
+Es la cámara 360 más accesible de nuestro catálogo: graba una esfera completa, así que no hay que apuntar, el encuadre se elige después al editar. Cuesta {{precio:MLA19710677}} y tiene {{reviews:MLA19710677}} calificaciones con {{rating:MLA19710677}} estrellas en MercadoLibre Argentina, en [nuestra comparativa de cámaras deportivas en Argentina](/guias/tech/camara-deportiva). Al momento de verificar esta ficha, la publicación mostraba última unidad disponible.
+
+## Grabar en 360: la propuesta que cambia todo
+
+Graba a 5.7K en formato 360 grados. La diferencia práctica con una cámara de acción tradicional es enorme: no tenés que decidir el encuadre mientras filmás, lo elegís después en la app, con toda la esfera capturada. Suma bloqueo de horizonte a 360 grados, así que el horizonte se mantiene nivelado aunque la cámara gire por completo durante la grabación.
+
+## FlowState viene activada de fábrica
+
+La estabilización FlowState viene activada por defecto y no se puede desactivar por error desde la cámara. Es una decisión de diseño que evita el problema más común en cámaras de acción: grabar sin querer con la estabilización apagada y perder el material.
+
+## Es de 2022: ya hay cuatro generaciones más nuevas
+
+Un dato que hay que tener claro antes de comprar: esta X3 salió en 2022. Desde entonces, Insta360 lanzó la X4, la X5, la X4 Air y la X6. No la convierte en una mala compra (sigue siendo capaz y comparte el puntaje más alto de esta comparativa), pero cambia la cuenta: si tu prioridad es tener lo último de la marca, hay que mirar la X5 de esta misma comparativa, no esta.
+
+## Los lentes expuestos: la contra real
+
+Acá está el punto débil que más repiten sus compradores. Tres reseñas lo advierten explícitamente, y una lo cuenta con detalle: **"se resbaló, cayó de menos de 20 centímetros y se rompió un lente. Tengan mucho cuidado y compren los protectores"**. Otra reseña coincide: **"es muy delicada: esta cámara tiene los lentes expuestos"**. Si la comprás, comprá también los protectores de lente: no es opcional, es parte del costo real de tenerla.
+
+## En poca luz, la calidad se desploma
+
+Una reseña lo confirma con honestidad: **"necesitas siempre buena luz, en entornos con baja luz la calidad se desploma"**. La misma persona agrega que al recortar fotos se pierde calidad y el resultado se ve acuarelado. Para exteriores de día, rinde bien; para interiores oscuros o de noche, no es su fuerte.
+
+## Siempre hay que editar antes de que sirva
+
+A diferencia de una cámara tradicional donde el video ya sale encuadrado, acá el archivo 360 siempre necesita pasar por la app para elegir el encuadre final. No es un video listo para compartir apenas lo grabás: es materia prima que hay que procesar.
+
+## Contra las otras cámaras de esta comparativa
+
+Cuesta {{preciodif:MLA47374183:MLA19710677}} menos que la [GoPro HERO13 Black](/producto/camara-deportiva-gopro-hero13-black-mla47374183), aunque son propuestas distintas: formato 360 contra formato tradicional.
+
+La [DJI Osmo Action 6](/producto/camara-deportiva-dji-osmo-action-6-combo-aventura-mla62340610) cuesta {{preciodif:MLA62340610:MLA19710677}} más, también en formato tradicional, con sensor más grande y apertura variable.
+
+Si buscás la generación más nueva de Insta360, la [Insta360 X5](/producto/camara-360-insta360-x5-mla49100446) de esta misma comparativa es el modelo actual de la marca.
+
+## Para quién es, y para quién no
+
+Es para vos si querés grabar en 360 sin gastar de más, entendés que vas a tener que editar el material después, y comprás protectores de lente desde el día uno.
+
+No es para vos si buscás la generación más nueva de Insta360 (para eso está la X5 de esta comparativa), si vas a filmar mucho en interiores con poca luz, o si no querés arriesgar los lentes expuestos sin protección extra.`,
+    faq: [
+      { question: "¿Los lentes se rompen fácil?", answer: "Es la contra más repetida entre sus compradores. Tres reseñas lo advierten, y una cuenta que se le rompió un lente con una caída de menos de 20 centímetros. Si la comprás, sumá los protectores de lente desde el día uno." },
+      { question: "¿Es el modelo más nuevo de Insta360?", answer: "No, es de 2022. Desde entonces salieron la X4, la X5, la X4 Air y la X6. Sigue siendo capaz, pero si buscás lo último de la marca, la Insta360 X5 de esta misma comparativa es el modelo actual." },
+      { question: "¿Cómo graba en 360 grados?", answer: "Captura una esfera completa a 5.7K, así que no hay que apuntar mientras filmás: el encuadre se elige después, editando en la app. El video siempre necesita ese paso antes de estar listo para compartir." },
+      { question: "¿Funciona bien en poca luz?", answer: "No es su fuerte. Una reseña lo confirma: en entornos con baja luz la calidad se desploma. Para exteriores de día rinde bien; para interiores oscuros, no." },
+      { question: "¿La estabilización se puede desactivar por error?", answer: "No. FlowState viene activada de fábrica y no se puede desactivar desde la cámara, así que no corrés el riesgo de grabar sin querer sin estabilización." },
+      { question: "¿Hasta qué profundidad es sumergible?", answer: "10 metros sin carcasa, con certificación IPX8. Con la carcasa de buceo específica, llega hasta 50 metros." },
+      { question: "¿Vale la pena pagar más por la GoPro HERO13?", answer: "Depende del formato que busques. La GoPro cuesta {{preciodif:MLA47374183:MLA19710677}} más y graba en formato tradicional, no en 360. Si lo que te atrae es la posibilidad de elegir el encuadre después de filmar, esta Insta360 X3 cumple esa función que la GoPro no ofrece." },
+      { question: "¿Qué tarjeta de memoria necesita?", answer: "microSD UHS-I V30 o superior. Una reseña de un motociclista lo confirma: falla si se usa con una memoria convencional de menor velocidad." },
+    ],
   },
   {
     id: "MLA50882755",
@@ -685,6 +1255,51 @@ export const curatedProducts: Product[] = [
       { label: "Tasa de bits máxima", value: "180 Mbps" },
     ],
     relatedProducts: ["MLA19710677", "MLA62340610", "MLA47374183"],
+    articleBody: `## Qué es el Insta360 X5 Essentials Bundle
+
+Es la Insta360 X5 con un combo de accesorios extra: batería de repuesto, palo invisible para selfies, protectores de lente y un estuche de transporte, según se ve en las fotos de la publicación. Cuesta {{precio:MLA50882755}} y tiene {{reviews:MLA50882755}} calificaciones con {{rating:MLA50882755}} estrellas en MercadoLibre Argentina, en [nuestra comparativa de qué Insta360 comprar en Argentina](/guias/tech/insta360-cual-comprar). Al momento de verificar esta ficha, quedaban solo 3 unidades disponibles.
+
+## La misma cámara que la versión sola, con accesorios que se compran juntos
+
+Es exactamente el mismo instrumento que la [Insta360 X5](/producto/camara-360-insta360-x5-mla49100446) de esta comparativa: mismos sensores, mismo sistema de lentes reemplazables, misma resolución. La diferencia es que acá los accesorios vienen en la misma compra en vez de sumarlos por separado después.
+
+## Los sensores más grandes de las Insta360 de esta comparativa
+
+Trae dos sensores de 1/1,28 pulgadas, uno por lente, un 144% más grandes que los de la X4. Graba 8K en 360, contra los 5.7K de la X3, y se moja hasta 15 metros sin carcasa, un 50% más que la X4.
+
+## Lentes reemplazables sin service técnico
+
+Insta360 lo presenta como el primer sistema de lentes reemplazables en una cámara 360: si rompés un lente (una queja real que aparece en las opiniones de la X3 de esta comparativa), lo cambiás en casa con el kit oficial, sin mandar la cámara a service.
+
+## Cuesta más del doble que la X3
+
+Es la contra de precio más directa: para el mismo tipo de uso (grabar 360 y elegir el encuadre después), la [Insta360 X3](/producto/camara-360-insta360-x3-mla19710677) de esta comparativa cuesta {{preciodif:MLA50882755:MLA19710677}} menos. La diferencia se justifica en resolución, tamaño de sensor y en no depender de mandar la cámara a reparar si se rompe un lente.
+
+## Ya no es la generación actual: la X6 salió en agosto de 2026
+
+Sigue siendo una cámara muy capaz, pero conviene saberlo antes de comprar: la X6 de Insta360 salió en agosto de 2026 y ya la superó como modelo tope de línea. Además, la X6 sí trae memoria interna (64 GB), algo que ni esta X5 ni el resto de la línea X de esta comparativa ofrecen.
+
+## Contra las otras opciones de esta comparativa
+
+Cuesta {{preciodif:MLA50882755:MLA49100446}} más que la [Insta360 X5 sin accesorios](/producto/camara-360-insta360-x5-mla49100446): la diferencia son justamente los accesorios del bundle. Si ya tenés batería de repuesto, palo selfie o estuche de otra cámara, la versión sola te ahorra esa plata.
+
+Cuesta {{preciodif:MLA50882755:MLA39997069}} más que la [Insta360 GO 3S](/producto/camara-insta360-go-3s-mla39997069), que no graba en 360 sino en formato tradicional con una cámara diminuta que se cuelga con imán: son propuestas completamente distintas.
+
+## Para quién es, y para quién no
+
+Es para vos si querés la X5 completa con los accesorios básicos resueltos en una sola compra, y no tenés ya batería de repuesto, palo selfie o estuche de una cámara anterior.
+
+No es para vos si ya tenés esos accesorios: en ese caso, la versión sola de la X5 te da exactamente la misma cámara sin pagar de más por cosas que ya tenés.`,
+    faq: [
+      { question: "¿Qué diferencia tiene con la Insta360 X5 sin accesorios?", answer: "Es exactamente la misma cámara. La diferencia es que este bundle suma batería de repuesto, palo invisible para selfies, protectores de lente y un estuche de transporte, todo en la misma compra. Cuesta {{preciodif:MLA50882755:MLA49100446}} más que la versión sola." },
+      { question: "¿Vale la pena pagar por el bundle si ya tengo accesorios?", answer: "No especialmente. Si ya tenés batería de repuesto, palo selfie o estuche de otra cámara, la versión sola de la X5 te da la misma cámara sin pagar de más por accesorios que no vas a usar." },
+      { question: "¿Qué accesorios trae exactamente?", answer: "Según las fotos de la publicación: batería de repuesto, palo invisible para selfies, protectores de lente y un estuche de transporte." },
+      { question: "¿Es la generación más nueva de Insta360?", answer: "No, ya no. La X6 salió en agosto de 2026 y la superó como modelo tope de línea. La X6 además suma memoria interna de 64 GB, algo que esta X5 no tiene." },
+      { question: "¿Se pueden cambiar los lentes si se rompen?", answer: "Sí, y es una mejora real frente a la X3 de esta comparativa: Insta360 la presenta como la primera cámara 360 con lentes reemplazables. Se cambian en casa con el kit oficial, sin necesidad de service técnico." },
+      { question: "¿Por qué cuesta tanto más que la X3?", answer: "Cuesta {{preciodif:MLA50882755:MLA19710677}} más porque suma resolución (8K contra 5.7K), sensores mucho más grandes y lentes reemplazables, algo que la X3 no ofrece. Para el mismo tipo de uso básico, la X3 alcanza; para más calidad de imagen y tranquilidad si se rompe un lente, esta X5 se justifica." },
+      { question: "¿Hasta qué profundidad es sumergible?", answer: "15 metros sin carcasa, con certificación IP68, un 50% más que la Insta360 X4 de esta comparativa. Con la carcasa de buceo específica, llega hasta 60 metros." },
+      { question: "¿Trae memoria interna?", answer: "No, ni esta versión ni la sola de la X5 tienen memoria interna. Hace falta una microSD UHS-I V30 o superior. La X6, que ya es la generación actual, sí trae 64 GB internos." },
+    ],
   },
   {
     id: "MLA62340610",
@@ -702,7 +1317,7 @@ export const curatedProducts: Product[] = [
     freeShipping: false,
     rating: 4.9,
     reviewCount: 204,
-    reviewsSampledAt: "2026-08-25",
+    reviewsSampledAt: "2026-09-03",
     soldQuantity: 100,
     visibility: "normal",
     priceUpdated: "2026-09-02",
@@ -739,7 +1354,58 @@ export const curatedProducts: Product[] = [
       { label: "Memoria interna", value: "64 GB, de los cuales 50 quedan disponibles. Ampliable con microSD" },
       { label: "Lentes", value: "Tapa de lente reemplazable. Acepta lente Macro y lente FOV Boost" },
     ],
-    relatedProducts: ["MLA66182550", "MLA29364436", "MLA53612281"],
+    relatedProducts: ["MLA66182550", "MLA53612281", "MLA47374183"],
+    articleBody: `## Qué es la DJI Osmo Action 6
+
+Es la cámara de acción tradicional más capaz de nuestro catálogo: sensor de 1/1,1 pulgadas, apertura variable y 20 metros de agua sin carcasa. Cuesta {{precio:MLA62340610}} y tiene {{reviews:MLA62340610}} calificaciones con {{rating:MLA62340610}} estrellas en MercadoLibre Argentina, en [nuestra comparativa de cámaras deportivas en Argentina](/guias/tech/camara-deportiva). Al momento de verificar esta ficha, quedaban solo 2 unidades disponibles.
+
+## La primera apertura variable de una cámara de acción
+
+Tiene apertura variable de f/2.0 a f/4.0, algo que ninguna otra cámara de acción tradicional había ofrecido antes de este modelo. En la práctica, eso significa más control sobre cuánta luz entra al sensor según la escena, algo que hasta ahora era exclusivo de cámaras de foto y video más grandes.
+
+## El sensor más grande del catálogo
+
+Entre las cámaras de esta comparativa que declaran el tamaño de sensor, este es el más grande: un CMOS cuadrado de 1/1,1 pulgadas, con píxeles de 2,4 micrones y 13,5 pasos de rango dinámico. Un sensor más grande capta más luz, lo que se nota especialmente en situaciones de poca iluminación.
+
+## 20 metros sin carcasa: el máximo de esta comparativa
+
+Es sumergible hasta 20 metros sin necesidad de carcasa adicional, el máximo de las siete cámaras que comparamos, empatada con la Osmo Action 5 Pro y la GoPro MISSION 1 PRO. Con carcasa, llega a 60 metros.
+
+## El 8K llegó por firmware, no de fábrica
+
+Un dato de transparencia importante: la resolución 8K no venía incluida cuando salió la cámara al mercado. Llegó por una actualización de firmware en diciembre de 2025. Eso no la hace menos real, pero sí explica por qué en 8K la estabilización queda limitada a RockSteady (sin las versiones más avanzadas) y se recortan las opciones de ángulo disponibles.
+
+## La autonomía que DJI no publica en 4K ni 8K
+
+Declara 240 minutos de autonomía, pero ese número está medido en laboratorio grabando en 1080p a 24 cuadros por segundo. DJI no publica el dato equivalente en 4K ni en 8K, así que en el uso real a las resoluciones más altas, esperá menos tiempo de batería.
+
+## El salto de precio contra su hermana menor
+
+Cuesta casi el doble que la [DJI Osmo Action 4](/producto/camara-deportiva-dji-osmo-action-4-mla29364436), que tiene sensor más chico y llega a 18 metros en vez de 20. Si el sensor grande y la apertura variable no son prioridad para vos, la Action 4 puede rendir suficiente por bastante menos plata.
+
+## Contra las otras cámaras de esta comparativa
+
+Cuesta {{preciodif:MLA62340610:MLA47374183}} más que la [GoPro HERO13 Black](/producto/camara-deportiva-gopro-hero13-black-mla47374183), la mejor elección general de esta comparativa.
+
+Cuesta {{preciodif:MLA62340610:MLA19710677}} más que la [Insta360 X3](/producto/camara-360-insta360-x3-mla19710677), aunque esta última graba en 360 grados, una propuesta completamente distinta.
+
+Cuesta {{preciodif:MLA62340610:MLA49100446}} más que la [Insta360 X5](/producto/camara-360-insta360-x5-mla49100446), la 360 más nueva de esta comparativa.
+
+## Para quién es, y para quién no
+
+Es para vos si vas a gastar fuerte, no te interesa el formato 360, y priorizás el sensor más grande y la apertura variable de todo el catálogo.
+
+No es para vos si el presupuesto es una variable importante: la Osmo Action 4 de la misma marca cuesta casi la mitad y sigue siendo una cámara sólida para la mayoría de los usos.`,
+    faq: [
+      { question: "¿Es cierto que el 8K llegó por una actualización, no de fábrica?", answer: "Sí. La resolución 8K no venía incluida cuando salió la cámara al mercado: llegó por una actualización de firmware en diciembre de 2025. En 8K, la estabilización queda limitada a RockSteady y se recortan las opciones de ángulo." },
+      { question: "¿Qué significa que tenga apertura variable?", answer: "Es la primera cámara de acción tradicional con apertura variable de f/2.0 a f/4.0, lo que da más control sobre cuánta luz entra al sensor según la escena, algo hasta ahora exclusivo de cámaras más grandes." },
+      { question: "¿Cuánto dura la batería filmando en 4K u 8K?", answer: "DJI no publica ese dato. Los 240 minutos que declara están medidos en laboratorio grabando 1080p a 24 cuadros por segundo, así que en 4K u 8K la autonomía real va a ser menor." },
+      { question: "¿Vale la pena pagar el doble por esta en vez de la Osmo Action 4?", answer: "Depende de qué priorices. Esta Osmo Action 6 tiene sensor más grande y apertura variable, y llega a 20 metros sin carcasa contra los 18 de la Action 4. Si esas diferencias no son prioridad, la Action 4 rinde suficiente por casi la mitad del precio." },
+      { question: "¿Hasta qué profundidad es sumergible sin carcasa?", answer: "20 metros sin carcasa adicional, el máximo de esta comparativa, empatada con la Osmo Action 5 Pro y la GoPro MISSION 1 PRO. Con carcasa, llega a 60 metros." },
+      { question: "¿Trae memoria interna?", answer: "Sí, 64 GB, de los cuales 50 quedan disponibles para uso. Se puede usar sin comprar una tarjeta microSD aparte, aunque también acepta ampliación." },
+      { question: "¿Conviene más esta o una cámara 360 como la Insta360 X5?", answer: "Son propuestas distintas. Esta Osmo Action 6 graba en formato tradicional con mejor sensor y apertura variable. La Insta360 X5 cuesta {{preciodif:MLA62340610:MLA49100446}} menos y graba en 360 grados, donde elegís el encuadre después de filmar." },
+      { question: "¿Cuánto pesa?", answer: "149 gramos, con pantalla táctil trasera de 2,5 pulgadas y una pantalla frontal adicional de 1,46 pulgadas." },
+    ],
   },
   {
     id: "MLA29364436",
@@ -756,14 +1422,14 @@ export const curatedProducts: Product[] = [
     condition: "new",
     freeShipping: false,
     rating: 4.7,
-    reviewCount: 73,
-    reviewsSampledAt: "2026-08-25",
+    reviewCount: 74,
+    reviewsSampledAt: "2026-09-03",
     soldQuantity: 50,
-    visibility: "normal",
+    visibility: "deprioritized",
     priceUpdated: "2026-08-25",
-    priceLastChecked: "2026-08-25",
-    priceVerifiedAt: "2026-08-25",
-    priceStatus: "fresh",
+    priceLastChecked: "2026-09-03",
+    priceVerifiedAt: "2026-09-03",
+    priceStatus: "out_of_stock",
     seoTitle: "DJI Osmo Action 4: precio en Argentina, specs y opiniones",
     metaDescription: "DJI Osmo Action 4 a {{precio:MLA29364436}}. Sensor de 1/1,3 pulgadas y 18 m sumergible sin carcasa. Es de 2023: DJI ya va por la Action 6.",
     pros: [
@@ -852,7 +1518,7 @@ export const curatedProducts: Product[] = [
       { label: "GPS", value: "No tiene integrado, confirmado por DJI" },
       { label: "Lanzamiento", value: "19 de septiembre de 2024" },
     ],
-    relatedProducts: ["MLA62340610", "MLA29364436", "MLA47374183"],
+    relatedProducts: ["MLA62340610", "MLA58197668", "MLA47374183"],
   },
   {
     id: "MLA53612281",
@@ -1206,6 +1872,49 @@ export const curatedProducts: Product[] = [
       { label: "Modelo", value: "C40, versión detallada C40 BL" },
     ],
     relatedProducts: ["MLA44345937", "MLA40485883", "MLA68992218"],
+    articleBody: `## Qué es la Yamaha C40
+
+Es la única guitarra criolla de marca internacional de todo nuestro catálogo: Yamaha fabrica instrumentos desde hace más de un siglo. Cuesta {{precio:MLA16059072}} y tiene {{reviews:MLA16059072}} calificaciones con {{rating:MLA16059072}} estrellas en MercadoLibre Argentina, en [nuestra comparativa de cuánto sale una guitarra criolla en Argentina](/guias/musica/guitarra-criolla-precio).
+
+## La marca conocida sí se consigue, a este precio
+
+Es la respuesta a la pregunta que se hace todo el que arranca a buscar: sí, la marca que conocés se consigue en Argentina. Lo que hay que saber es que sale más de cuatro veces lo que la criolla de entrada más barata de esta comparativa. No es un precio caprichoso: viene con maderas y terminación que ninguna otra criolla del catálogo declara.
+
+## Las maderas que ninguna otra criolla de esta comparativa tiene
+
+Declara diapasón y puente de palo de rosa, y mástil de nato, tres materiales que no aparecen en ninguna de las otras criollas que comparamos. Suma 19 trastes, dos más que la mayoría de las criollas de entrada, distribuidos justamente sobre ese mástil de nato para permitir ejecutar escalas completas.
+
+## Lo que no trae: solo el manual, sin funda
+
+Acá está la contra más concreta a tener en cuenta antes de comprar: su ficha declara explícitamente **"Incluye funda: No"**, y lista como único accesorio incluido el manual. Es la única guitarra de toda esta comparativa cuya publicación aclara de forma explícita que no trae funda. Si venís mirando otras opciones que sí la incluyen, como la Femmto CG001, sumá ese costo extra al comparar precios finales.
+
+## Un dato de la ficha que no tiene sentido en esta línea
+
+Un aviso de transparencia sobre la propia publicación: su ficha técnica declara un conector de salida Jack de 1/4 de pulgada, típico de una guitarra electroacústica. Pero la C40 es una criolla clásica sin electrónica declarada en ningún otro lado de la publicación. No lo tomamos como un dato confiable: si tu plan es enchufarla a un amplificador, confirmalo con el vendedor antes de comprar, porque probablemente sea un error de carga de la ficha.
+
+## Contra las otras guitarras criollas de la comparativa
+
+La [Fonseca 25](/producto/guitarra-criolla-fonseca-25-mate-natural-mla44345937) cuesta {{preciodif:MLA16059072:MLA44345937}} menos, con una base de opiniones bastante más chica que esta Yamaha.
+
+La [Femmto CG001](/producto/guitarra-criolla-femmto-cg001-con-funda-y-puas-mla40485883) cuesta {{preciodif:MLA16059072:MLA40485883}} menos, y a diferencia de esta Yamaha, sí incluye funda y púas en la caja.
+
+La [Rómulo García A-100 Plus](/producto/guitarra-criolla-clasica-romulo-garcia-a-100-plus-mla68992218) cuesta {{preciodif:MLA16059072:MLA68992218}} menos, con fabricación argentina, aunque con una base de opiniones muchísimo más chica que esta Yamaha.
+
+## Para quién es, y para quién no
+
+Es para vos si el presupuesto da y querés un instrumento de marca reconocida que no vas a tener que cambiar en un año, con maderas que ninguna otra criolla de esta comparativa ofrece.
+
+No es para vos si todavía estás probando si te va a gustar tocar: hay opciones bastante más baratas en esta misma comparativa para ese momento, y esta no incluye funda, así que el gasto inicial sube todavía más.`,
+    faq: [
+      { question: "¿Trae funda incluida?", answer: "No. Su ficha declara de forma explícita \"Incluye funda: No\" y lista como único accesorio incluido el manual. Es la única guitarra de esta comparativa cuya publicación lo aclara así de directo." },
+      { question: "¿Se puede enchufar a un amplificador?", answer: "No debería: es una criolla clásica sin electrónica declarada. Su ficha técnica menciona un conector Jack de 1/4 de pulgada, pero no lo tomamos como dato confiable porque no encaja con el resto de la publicación. Si tu plan es enchufarla, confirmalo con el vendedor antes de comprar." },
+      { question: "¿Por qué es tan cara comparada con otras criollas?", answer: "Cuesta {{preciodif:MLA16059072:MLA40485883}} más que la Femmto CG001, la más barata de esta comparativa. La diferencia se explica en maderas que ninguna otra criolla del catálogo declara (diapasón y puente de palo de rosa, mástil de nato) y en ser la única marca internacional del grupo." },
+      { question: "¿Qué maderas tiene?", answer: "Tapa de abeto, diapasón y puente de palo de rosa, mástil de nato, y laterales y fondo de meranti. Son las maderas más específicas de toda esta comparativa: ninguna otra criolla las declara todas." },
+      { question: "¿Cuántos trastes tiene?", answer: "19 trastes, dos más que la mayoría de las criollas de entrada de esta comparativa, lo que permite ejecutar escalas completas sobre el mástil." },
+      { question: "¿Las calificaciones son todas de compradores argentinos?", answer: "No todas. MercadoLibre aclara que las calificaciones de esta publicación incluyen opiniones de otros países, así que el número total no representa exclusivamente la experiencia de compradores en Argentina." },
+      { question: "¿Vale la pena pagar más por esta que por la Femmto CG001?", answer: "Depende de tu situación. Si ya sabés que vas a seguir tocando en serio y querés maderas que ninguna otra criolla de esta comparativa ofrece, sí. Si todavía estás probando si te va a gustar, la Femmto CG001 cuesta {{preciodif:MLA16059072:MLA40485883}} menos y encima incluye funda, algo que esta Yamaha no trae." },
+      { question: "¿Es una guitarra para principiantes o para tocar en serio?", answer: "Sirve para ambos casos, pero su precio la posiciona mejor para quien ya sabe que va a seguir tocando: es más de cuatro veces el precio de la criolla más barata de esta comparativa, así que no es la primera elección para simplemente probar si te gusta el instrumento." },
+    ],
   },
   {
     id: "MLA44345937",
@@ -1223,7 +1932,7 @@ export const curatedProducts: Product[] = [
     freeShipping: false,
     rating: 4.9,
     reviewCount: 96,
-    reviewsSampledAt: "2026-08-26",
+    reviewsSampledAt: "2026-09-03",
     visibility: "normal",
     priceUpdated: "2026-08-26",
     priceLastChecked: "2026-09-04",
@@ -1260,6 +1969,49 @@ export const curatedProducts: Product[] = [
       { label: "Modelo", value: "25, línea Estudio" },
     ],
     relatedProducts: ["MLA68992218", "MLA16059072", "MLA40485883"],
+    articleBody: `## Qué es la Fonseca 25
+
+Es la criolla de fabricación argentina de esta comparativa, en el tramo medio de precio. Cuesta {{precio:MLA44345937}} y tiene {{reviews:MLA44345937}} calificaciones con {{rating:MLA44345937}} estrellas en MercadoLibre Argentina, en [nuestra comparativa de cuánto sale una guitarra criolla en Argentina](/guias/musica/guitarra-criolla-precio).
+
+## El argumento no es romántico, lo dice quien más sabe
+
+Entre las opiniones que revisamos hay una que pesa más que las demás: la escribió un comprador que toca hace 24 años, y dice que la guitarra superó todas sus expectativas. Cuando alguien con ese recorrido elige la fabricación nacional por sobre otras opciones, es una señal más confiable que la de alguien que recién empieza.
+
+## Otra contradicción entre los puntos destacados y la ficha técnica
+
+Ya veníamos avisando este tipo de error en otras guitarras de esta comparativa, y esta no es la excepción. Los puntos destacados de la publicación dicen **"Tapa de imitación de Pino"**, mientras que la ficha técnica estructurada (la tabla de "Características del producto") declara **tapa de abedul**. Usamos la ficha técnica estructurada, que dentro de la misma publicación es la fuente más confiable, pero preferimos avisar la contradicción antes de que la compres.
+
+## Los detalles técnicos que sí funcionan bien
+
+Una reseña destaca dos cosas que se le suelen escapar a una guitarra de entrada: **las cejuelas vienen a la altura correcta** y **no desafina**. Son detalles de fabricación que hacen la diferencia entre una guitarra cómoda de tocar y una que hay que estar ajustando todo el tiempo.
+
+## El dato de la funda que conviene confirmar
+
+El resumen de opiniones de MercadoLibre menciona una funda básica, pero la ficha técnica no la lista entre los accesorios incluidos. Es una zona gris real: no podemos confirmar con certeza si viene o no. Conviene preguntarle directamente al vendedor antes de comprar, en vez de asumir que sí la trae.
+
+## Contra las otras guitarras criollas de la comparativa
+
+La [Yamaha C40](/producto/guitarra-criolla-clasica-yamaha-c40-mla16059072) cuesta {{preciodif:MLA16059072:MLA44345937}} más, con la base de opiniones más grande del catálogo de música y sin contradicciones entre bullets y ficha técnica.
+
+La [Femmto CG001](/producto/guitarra-criolla-femmto-cg001-con-funda-y-puas-mla40485883) cuesta {{preciodif:MLA44345937:MLA40485883}} menos, aunque con madera de entrada y su propia contradicción de ficha (tapa y mástil invertidos en los puntos destacados).
+
+La [Rómulo García A-100 Plus](/producto/guitarra-criolla-clasica-romulo-garcia-a-100-plus-mla68992218) cuesta {{preciodif:MLA44345937:MLA68992218}} menos, también de fabricación argentina, aunque con una base de opiniones muchísimo más chica que esta Fonseca.
+
+## Para quién es, y para quién no
+
+Es para vos si valorás la fabricación argentina, si buscás el tramo medio de precio, o si un comprador con 24 años de experiencia tocando te convence más que una ficha técnica.
+
+No es para vos si te preocupa la ambigüedad sobre si incluye funda: confirmalo con el vendedor antes de comprar, porque la publicación no lo aclara de forma consistente.`,
+    faq: [
+      { question: "¿Por qué la eligen compradores con experiencia?", answer: "Una reseña la escribió alguien que toca hace 24 años y dice que la guitarra superó todas sus expectativas. Es un dato que pesa más que el de un comprador principiante, justamente porque viene de alguien con más referencia para comparar." },
+      { question: "¿De qué madera es la tapa realmente?", answer: "Según la ficha técnica estructurada de la publicación (la fuente más confiable dentro de la misma página), es abedul. Ojo: los puntos destacados de la misma publicación dicen \"imitación de Pino\", así que hay una contradicción interna que preferimos avisar." },
+      { question: "¿Incluye funda?", answer: "No está claro. El resumen de opiniones de MercadoLibre menciona una funda básica, pero la ficha técnica no la lista entre los accesorios incluidos. Es una zona gris real: conviene confirmarlo con el vendedor antes de comprar." },
+      { question: "¿Desafina fácil?", answer: "Según una reseña, no: destaca específicamente que las cejuelas vienen a la altura correcta y que no desafina, dos detalles que en una guitarra de entrada suelen fallar." },
+      { question: "¿Es de fabricación argentina de verdad?", answer: "Sí, su ficha declara origen de fabricación argentina, y es uno de los argumentos que más repiten sus propios compradores por sobre el precio." },
+      { question: "¿Vale la pena pagar más que por la Femmto CG001?", answer: "Depende de qué priorices. Cuesta {{preciodif:MLA44345937:MLA40485883}} más, pero suma fabricación argentina y detalles de calidad que una reseña confirma (cejuelas correctas, no desafina). La Femmto es la opción para arriesgar menos plata mientras probás si te gusta el instrumento." },
+      { question: "¿Tiene mucho respaldo de opiniones?", answer: "Tiene {{reviews:MLA44345937}} calificaciones, una base bastante más sólida que la de la Rómulo García A-100 Plus (que tiene un puntaje más alto pero sobre apenas {{reviews:MLA68992218}} opiniones), aunque más chica que la de la Femmto CG001 o la Yamaha C40." },
+      { question: "¿Cuántos meses de garantía tiene?", answer: "6 meses de garantía de fábrica, según la publicación vigente en MercadoLibre." },
+    ],
   },
   {
     id: "MLA68992218",
@@ -1315,6 +2067,49 @@ export const curatedProducts: Product[] = [
       { label: "Modelo", value: "A-100 Plus" },
     ],
     relatedProducts: ["MLA44345937", "MLA35245846", "MLA40485883"],
+    articleBody: `## Qué es la Rómulo García A-100 Plus
+
+Es la otra guitarra criolla de fabricación argentina de esta comparativa, en el tramo del medio de precio. Cuesta {{precio:MLA68992218}} y tiene {{rating:MLA68992218}} estrellas en MercadoLibre Argentina, en [nuestra comparativa de cuánto sale una guitarra criolla en Argentina](/guias/musica/guitarra-criolla-precio).
+
+## El problema real no es el instrumento, es la información
+
+Antes que cualquier otra cosa: tiene apenas **{{reviews:MLA68992218}} calificaciones**. Es la base de opiniones más chica de todo el catálogo de música del sitio, y no alcanza para sacar conclusiones firmes. Su {{rating:MLA68992218}} de rating es un dato real, pero un puntaje perfecto sobre siete calificaciones dice bastante menos que un 4,6 sobre miles. No es que la guitarra sea mala, es que todavía no hay evidencia suficiente para confirmar que sea consistentemente buena.
+
+## Fabricación argentina, lo que más valoran sus compradores
+
+Igual que la Fonseca 25, es de fabricación nacional, y eso es lo que más mencionan quienes ya la compraron. Un comprador que recién arranca destaca que es de buena calidad para ser de gama de entrada, una señal alentadora aunque, otra vez, con poca base para confirmarla.
+
+## Tapa de pino: la madera más económica del grupo
+
+Declara tapa de pino, que es la madera más económica de las seis criollas de tamaño completo que comparamos. No es necesariamente un problema (el pino es una madera perfectamente válida para una guitarra de entrada), pero conviene saber que no es la gama más alta dentro de este catálogo.
+
+## Sin accesorios listados
+
+Su ficha técnica no lista accesorios incluidos. Si necesitás funda, afinador o cuerdas de repuesto, vas a tener que sumarlos aparte, a diferencia de la Gadnic de esta misma comparativa, que ya los trae en la caja.
+
+## Contra las otras guitarras criollas de la comparativa
+
+La [Fonseca 25](/producto/guitarra-criolla-fonseca-25-mate-natural-mla44345937) cuesta {{preciodif:MLA44345937:MLA68992218}} más, también de fabricación argentina, pero con una base de opiniones bastante más sólida que esta Rómulo García.
+
+La [Gadnic con estuche y afinador](/producto/guitarra-criolla-de-estudio-gadnic-con-estuche-y-afinador-mla35245846) cuesta {{preciodif:MLA68992218:MLA35245846}} menos y ya trae afinador y cuerdas de repuesto, dos gastos que esta ficha no cubre.
+
+La [Femmto CG001](/producto/guitarra-criolla-femmto-cg001-con-funda-y-puas-mla40485883) cuesta {{preciodif:MLA68992218:MLA40485883}} menos, con funda y púas incluidas.
+
+## Para quién es, y para quién no
+
+Es para vos si te importa que sea de fabricación argentina y el precio del tramo medio te cierra, y no te molesta decidir con poca evidencia de otros compradores.
+
+No es para vos si preferís apoyarte en lo que dijeron muchos otros compradores antes de comprar: para eso, otras fichas de esta comparativa tienen muchísima más base de opiniones para confiar.`,
+    faq: [
+      { question: "¿Se puede confiar en su calificación perfecta?", answer: "Con cautela. Tiene {{reviews:MLA68992218}} calificaciones, la base más chica de todo el catálogo de música del sitio. Un 5 sobre siete opiniones dice mucho menos que un 4,6 sobre miles, así que conviene no darle el mismo peso que a una ficha con más respaldo." },
+      { question: "¿Es de fabricación argentina?", answer: "Sí, y es lo que más destacan sus compradores, igual que en la Fonseca 25 de esta misma comparativa." },
+      { question: "¿De qué madera es la tapa?", answer: "Pino, la madera más económica de las seis criollas de tamaño completo que comparamos. No es un problema en sí, pero no es la gama más alta del catálogo." },
+      { question: "¿Trae funda o afinador?", answer: "No, su ficha técnica no lista accesorios incluidos. Si los necesitás, tenés que sumarlos aparte o elegir la Gadnic de esta comparativa, que ya los incluye." },
+      { question: "¿Vale la pena por el precio?", answer: "Está en el tramo del medio de precio del catálogo: {{preciodif:MLA68992218:MLA40485883}} más que la Femmto CG001 y bastante menos que la Yamaha C40. Si te importa la fabricación argentina, es una opción razonable, aunque con poca evidencia de otros compradores todavía." },
+      { question: "¿Conviene más esta o la Fonseca 25?", answer: "La Fonseca 25 cuesta {{preciodif:MLA44345937:MLA68992218}} más, pero tiene una base de opiniones bastante más sólida. Si preferís apoyarte en lo que dijeron más compradores antes de decidir, la Fonseca da más tranquilidad." },
+      { question: "¿Para cuántas personas o qué nivel es?", answer: "Su publicación la describe con \"proyección sonora estándar para estudiantes y adultos\", así que está pensada para el uso general de quien está aprendiendo o toca de forma recreativa." },
+      { question: "¿Cuántos meses de garantía tiene?", answer: "6 meses de garantía de fábrica, según la publicación vigente en MercadoLibre." },
+    ],
   },
   {
     id: "MLA47118056",
@@ -1332,7 +2127,7 @@ export const curatedProducts: Product[] = [
     freeShipping: false,
     rating: 4.6,
     reviewCount: 142,
-    reviewsSampledAt: "2026-08-26",
+    reviewsSampledAt: "2026-09-03",
     visibility: "normal",
     priceUpdated: "2026-09-04",
     priceLastChecked: "2026-09-04",
@@ -1368,6 +2163,50 @@ export const curatedProducts: Product[] = [
       { label: "Modelo", value: "GC109LBEQ3, línea Custom" },
     ],
     relatedProducts: ["MLA40485883", "MLA19491306", "MLA35245846"],
+    articleBody: `## Qué es la Parquer Custom
+
+Es la única guitarra de todo nuestro catálogo de criollas que se puede enchufar: mantiene las cuerdas de nylon típicas de una criolla, pero suma un ecualizador incorporado. Cuesta {{precio:MLA47118056}} y tiene {{reviews:MLA47118056}} calificaciones con {{rating:MLA47118056}} estrellas en MercadoLibre Argentina, en [nuestra comparativa de cuánto sale una guitarra criolla en Argentina](/guias/musica/guitarra-criolla-precio).
+
+## Lo que ninguna otra criolla de esta comparativa tiene
+
+Es la del medio en un sentido literal: conserva las cuerdas de nylon que hacen blanda a una criolla para los dedos de los primeros meses, pero suma la salida para enchufarla a un amplificador. Es algo que ninguna de las otras ocho de esta comparativa ofrece, y no se puede agregar después si compraste una criolla acústica común.
+
+## Dos contradicciones reales en la misma ficha
+
+Antes de comprarla conviene saber esto: la ficha técnica declara la forma del cuerpo como **Jumbo**, que es una forma de acústica folk y no de criolla. No lo publicamos como dato confiable. Además, el resumen de opiniones de MercadoLibre la describe como **ideal para niños pequeños**, pero la propia ficha técnica declara **"Es infantil: No"** y tamaño **4/4**, que es la medida de un adulto. Los dos datos no pueden ser ciertos a la vez: conviene confirmar la medida real con el vendedor antes de comprar, sobre todo si la buscás para un chico.
+
+## Lo que dicen los compradores sobre el sonido
+
+Un aviso honesto que sale de las opiniones: el sonido acústico (sin enchufar) es opaco, y hay que afinarla después de cada uso. No es un defecto exclusivo de esta guitarra (el desafine frecuente es común en criollas de entrada), pero conviene tenerlo presente si esperabas un sonido acústico tan bueno como el amplificado.
+
+## Para aprovechar el ecualizador hace falta un amplificador
+
+Su publicación lista la funda como único accesorio incluido: no trae amplificador ni cable. Si tu plan es usarla enchufada, sumá ese costo aparte al comparar precios con las otras criollas de esta comparativa.
+
+## Contra las otras guitarras criollas de la comparativa
+
+Cuesta {{preciodif:MLA47118056:MLA40485883}} más que la [Femmto CG001](/producto/guitarra-criolla-femmto-cg001-con-funda-y-puas-mla40485883), que no se puede enchufar pero tampoco tiene contradicciones tan marcadas en su ficha.
+
+Cuesta {{preciodif:MLA47118056:MLA35245846}} más que la [Gadnic con estuche y afinador](/producto/guitarra-criolla-de-estudio-gadnic-con-estuche-y-afinador-mla35245846), que trae afinador y cuerdas de repuesto, aunque sin la posibilidad de enchufarla.
+
+Si tu plan es tocar amplificado en serio y no te importa perder las cuerdas de nylon, también tenemos fichada la [Femmto EAG003](/producto/guitarra-electroacustica-femmto-eag003-mla19491306), una electroacústica real de la misma marca que la Femmto CG001.
+
+## Para quién es, y para quién no
+
+Es para vos si querés poder tocar acústica y también enchufada sin comprar dos guitarras distintas, y no te molesta afinarla seguido.
+
+No es para vos si buscás el mejor sonido acústico posible (una reseña avisa que es opaco sin enchufar), o si la comprás para un chico: la ficha se contradice sobre si es infantil o de tamaño completo, así que conviene confirmarlo antes.`,
+    faq: [
+      { question: "¿Es la única criolla de esta comparativa que se puede enchufar?", answer: "Sí. Mantiene las cuerdas de nylon típicas de una criolla, pero suma un ecualizador incorporado para enchufarla a un amplificador, algo que ninguna otra de las ocho guitarras de esta comparativa ofrece." },
+      { question: "¿Sirve para un chico?", answer: "Hay una contradicción real en la ficha: el resumen de opiniones de MercadoLibre la describe como ideal para niños pequeños, pero la ficha técnica declara \"Es infantil: No\" y tamaño 4/4, que es de adulto. Conviene confirmar la medida real con el vendedor antes de comprarla para un chico." },
+      { question: "¿Cómo suena sin enchufar?", answer: "Una reseña avisa que el sonido acústico es opaco, y que hay que afinarla después de cada uso. No es un defecto exclusivo de este modelo, pero conviene saberlo si esperabas que sonara igual de bien enchufada y sin enchufar." },
+      { question: "¿Incluye amplificador?", answer: "No. Su publicación lista la funda como único accesorio incluido. Si querés usarla enchufada, vas a necesitar comprar el amplificador aparte." },
+      { question: "¿Qué forma tiene el cuerpo?", answer: "Su ficha técnica declara la forma como \"Jumbo\", que es propia de una acústica folk, no de una criolla. No lo tomamos como dato confiable: probablemente sea un error de carga de la publicación." },
+      { question: "¿Trae funda?", answer: "Sí, funda incluida, algo que en este tramo de precio no siempre pasa con otras guitarras de la comparativa." },
+      { question: "¿Vale la pena pagar más que por la Femmto CG001?", answer: "Si querés poder enchufarla, sí: cuesta {{preciodif:MLA47118056:MLA40485883}} más que la Femmto CG001, pero suma el ecualizador que ninguna otra criolla de esta comparativa tiene. Si solo buscás una criolla acústica simple, la Femmto es la opción más económica." },
+      { question: "¿Cuántos meses de garantía tiene?", answer: "3 meses de garantía de fábrica, menos que otras guitarras de esta comparativa como la Fonseca 25, que declara 6 meses." },
+      { question: "¿Qué madera tiene la tapa?", answer: "Abeto, la misma madera que usa la Yamaha C40 de esta comparativa, aunque a un precio bastante menor." },
+    ],
   },
   {
     id: "MLA35245846",
@@ -1420,6 +2259,47 @@ export const curatedProducts: Product[] = [
       { label: "Modelo", value: "Línea Estudio" },
     ],
     relatedProducts: ["MLA40485883", "MLA68992218", "MLA21868235"],
+    articleBody: `## Qué es la Gadnic con estuche y afinador
+
+Es la guitarra criolla de esta comparativa que menos gasto extra deja pendiente después de la compra. Cuesta {{precio:MLA35245846}} y tiene {{reviews:MLA35245846}} calificaciones con {{rating:MLA35245846}} estrellas en MercadoLibre Argentina, en [nuestra comparativa de cuánto sale una guitarra criolla en Argentina](/guias/musica/guitarra-criolla-precio).
+
+## La única que trae afinador de fábrica
+
+Acá está su ventaja real frente a las otras ocho guitarras de esta comparativa: es la única que incluye afinador en la caja. Sin afinar, una guitarra suena mal aunque toques bien, y comprar un afinador aparte es el primer gasto extra del que arranca de cero. Suma también estuche de transporte y un juego de cuerdas de repuesto, los otros dos gastos que suelen aparecer apenas llega el instrumento. Un comprador lo confirma enumerando lo que le llegó: el afinador, la funda, la púa y un juego de cuerdas nuevas aparte.
+
+## La contra real: la madera es de entrada
+
+A cambio de todo ese equipamiento, la tapa es de tilo, la misma madera de entrada que usa la Femmto CG001, la más barata del catálogo. No es mala madera para empezar, pero no está a la altura de una criolla de gama media como la Fonseca 25 o la Yamaha C40.
+
+## Dos errores de carga en la ficha técnica
+
+Antes de comprarla conviene saber esto: la ficha técnica de la publicación tiene **dos datos que no pueden ser ciertos**. El primero declara **5 cuerdas**, cuando toda criolla lleva 6: no lo publicamos como dato real, es un error de carga. El segundo declara al mismo tiempo **"Es infantil: Sí"** y **tamaño 4/4**, que es la medida de un adulto: los dos datos se contradicen entre sí. Conviene confirmar el tamaño real con el vendedor antes de comprar, sobre todo si la buscás para un chico.
+
+## Si tu guitarra no trae cuerdas de repuesto
+
+Esta Gadnic ya incluye un juego extra en la caja, así que no lo necesitás de entrada. Pero si más adelante se te rompe una cuerda o comprás otra guitarra de esta comparativa que no las incluye, el [encordado D'Addario EJ27N](/producto/encordado-para-guitarra-criolla-d-addario-ej27n-tension-normal-mla21868235) es la opción de repuesto que también tenemos fichada.
+
+## Contra las otras guitarras criollas de la comparativa
+
+Cuesta {{preciodif:MLA35245846:MLA40485883}} más que la [Femmto CG001](/producto/guitarra-criolla-femmto-cg001-con-funda-y-puas-mla40485883), que trae funda y púas pero no afinador ni cuerdas de repuesto.
+
+La [Rómulo García A-100 Plus](/producto/guitarra-criolla-clasica-romulo-garcia-a-100-plus-mla68992218) cuesta {{preciodif:MLA68992218:MLA35245846}} más, con fabricación argentina, pero sin el combo de accesorios que trae esta Gadnic.
+
+## Para quién es, y para quién no
+
+Es para vos si querés empezar a tocar el mismo día que llega, sin hacer un segundo pedido de afinador, funda o cuerdas.
+
+No es para vos si priorizás la calidad de la madera por sobre los accesorios incluidos, o si la vas a comprar para un chico: confirmá el tamaño real con el vendedor antes, porque la ficha se contradice en ese dato puntual.`,
+    faq: [
+      { question: "¿Es la única guitarra criolla que trae afinador?", answer: "Sí, dentro de esta comparativa es la única que incluye afinador de fábrica. Sin afinar, una guitarra suena mal aunque toques bien, y comprarlo aparte es el primer gasto extra del que arranca de cero." },
+      { question: "¿Qué trae incluido en la caja?", answer: "Estuche de transporte, afinador y un juego de cuerdas de repuesto. Un comprador lo confirma enumerando lo que le llegó: el afinador, la funda, la púa y un juego de cuerdas nuevas aparte." },
+      { question: "¿Es cierto que tiene 5 cuerdas?", answer: "No, ese dato de la ficha técnica es un error de carga de la publicación. Toda guitarra criolla lleva 6 cuerdas; no publicamos el dato de 5 porque no es real." },
+      { question: "¿Sirve para un chico?", answer: "Su ficha se contradice en ese punto: declara al mismo tiempo \"Es infantil: Sí\" y tamaño 4/4, que es la medida de un adulto. Conviene confirmar el tamaño real con el vendedor antes de comprarla para un chico." },
+      { question: "¿De qué madera es la tapa?", answer: "Tilo, la misma madera de entrada que usa la Femmto CG001, la más barata del catálogo. No es una madera de gama alta, pero es estándar para una guitarra de entrada." },
+      { question: "¿Vale la pena pagar más que por la Femmto CG001?", answer: "Depende de qué priorices. Cuesta {{preciodif:MLA35245846:MLA40485883}} más, pero incluye afinador y cuerdas de repuesto, que la Femmto no trae. Si sumás esos gastos aparte, la diferencia real de precio es menor de lo que parece." },
+      { question: "¿En qué colores viene?", answer: "La publicación ofrece varias opciones de color y acabado; la que tenemos fichada en esta ficha es la azul." },
+      { question: "¿Qué cuerdas de repuesto comprar si se me rompe una?", answer: "Esta Gadnic ya incluye un juego extra en la caja. Para cuando lo necesites después, tenemos fichado el encordado D'Addario EJ27N, que es la opción de reemplazo estándar para guitarra criolla." },
+    ],
   },
   {
     id: "MLA25482706",
@@ -1437,7 +2317,7 @@ export const curatedProducts: Product[] = [
     freeShipping: false,
     rating: 4.6,
     reviewCount: 98,
-    reviewsSampledAt: "2026-08-26",
+    reviewsSampledAt: "2026-09-03",
     visibility: "normal",
     priceUpdated: "2026-09-04",
     priceLastChecked: "2026-09-04",
@@ -1475,6 +2355,49 @@ export const curatedProducts: Product[] = [
       { label: "Modelo", value: "GC830, línea Custom" },
     ],
     relatedProducts: ["MLA40485883", "MLA35245846", "MLA47118056"],
+    articleBody: `## Qué es la Parquer 1/4 para niños
+
+Es la única guitarra criolla de tamaño genuinamente infantil de todo nuestro catálogo: 1/4, no una 4/4 de adulto etiquetada como "para niños". Cuesta {{precio:MLA25482706}} y tiene {{reviews:MLA25482706}} calificaciones con {{rating:MLA25482706}} estrellas en MercadoLibre Argentina, en [nuestra comparativa de cuánto sale una guitarra criolla en Argentina](/guias/musica/guitarra-criolla-precio).
+
+## Por qué el tamaño importa más que cualquier spec
+
+Si la compra es para un chico, la medida pesa más que cualquier otra característica, porque una guitarra de adulto en manos chicas no se puede tocar cómodamente y termina abandonada. A diferencia de otra ficha de esta misma comparativa (la Parquer Custom electrocriolla), donde la propia publicación se contradice sobre si es infantil o de tamaño completo, acá la ficha técnica es consistente: declara tamaño 1/4, "Es tamaño mini: Sí" y "Es infantil: Sí", los tres datos apuntando en la misma dirección.
+
+## Cuerdas de nylon, y por qué pesa más en un chico
+
+Mantiene las cuerdas de nylon típicas de una criolla, que son las que menos lastiman los dedos. En un adulto que recién empieza ya es una ventaja; en un chico, que tiene los dedos más sensibles, pesa todavía más.
+
+## La contra obvia: se queda chica
+
+No hay forma de evitarlo: es una compra para ahora, no para siempre. Cuando el chico crezca, va a necesitar pasar a una guitarra de tamaño completo, como cualquiera de las otras ocho de esta comparativa.
+
+## La madera y lo que no incluye
+
+La tapa, los laterales y el fondo son de tilo, madera de entrada, aunque el mástil es de palo de rosa. Viene con funda incluida, pero su ficha técnica no lista afinador ni cuerdas de repuesto entre los accesorios: si buscás esos dos extras en el combo, la Gadnic de esta comparativa los incluye, aunque en tamaño de adulto.
+
+## Contra las otras guitarras de la comparativa
+
+Es la más barata de todo el catálogo: cuesta {{preciodif:MLA40485883:MLA25482706}} menos que la Femmto CG001, que es la 4/4 más económica. Pero la comparación de precio importa poco acá: son tamaños distintos para usos distintos, no compiten por el mismo comprador.
+
+La [Gadnic con estuche y afinador](/producto/guitarra-criolla-de-estudio-gadnic-con-estuche-y-afinador-mla35245846) cuesta {{preciodif:MLA35245846:MLA25482706}} más, en tamaño de adulto, con afinador y cuerdas de repuesto incluidos.
+
+La [Parquer Custom electrocriolla](/producto/guitarra-electrocriolla-parquer-custom-con-ecualizador-y-funda-mla47118056), de la misma marca, cuesta {{preciodif:MLA47118056:MLA25482706}} más y es justamente el ejemplo de ficha con contradicciones sobre el tamaño que esta Parquer 1/4 no tiene.
+
+## Para quién es, y para quién no
+
+Es para vos si estás buscando la primera guitarra para un chico, y valorás que la medida sea genuinamente infantil y no una de adulto mal etiquetada.
+
+No es para vos si buscás una guitarra para un adolescente o un adulto: 1/4 es demasiado chica y no va a poder tocarse cómodo. Para eso, cualquiera de las otras ocho guitarras de esta comparativa, todas de tamaño 4/4, es la opción correcta.`,
+    faq: [
+      { question: "¿Es realmente de tamaño infantil, o es una guitarra de adulto etiquetada como para niños?", answer: "Es genuinamente de tamaño 1/4, confirmado en su ficha técnica junto con \"Es tamaño mini: Sí\" y \"Es infantil: Sí\", los tres datos consistentes entre sí. A diferencia de otra ficha de esta comparativa, acá no hay contradicción sobre el tamaño." },
+      { question: "¿Sirve para un adolescente o un adulto?", answer: "No. Al ser 1/4, es una compra que se queda chica cuando el chico crece. Para un adolescente o un adulto, conviene cualquiera de las otras guitarras de esta comparativa, todas de tamaño 4/4." },
+      { question: "¿Trae funda?", answer: "Sí, funda incluida, confirmada en la ficha técnica de la publicación." },
+      { question: "¿Incluye afinador o cuerdas de repuesto?", answer: "No, su ficha técnica no los lista entre los accesorios incluidos. Si buscás ese combo completo, la Gadnic de esta comparativa lo trae, aunque en tamaño de adulto." },
+      { question: "¿De qué madera está hecha?", answer: "La tapa, los laterales y el fondo son de tilo, una madera de entrada. El mástil es de palo de rosa, un detalle mejor de lo esperado para este precio." },
+      { question: "¿Es la guitarra más barata del catálogo?", answer: "Sí, cuesta {{preciodif:MLA40485883:MLA25482706}} menos que la Femmto CG001, que es la más barata entre las guitarras de tamaño completo. Pero al ser tamaños distintos para usos distintos, no compiten realmente por el mismo comprador." },
+      { question: "¿Cuántas cuerdas tiene y de qué material?", answer: "6 cuerdas de nylon, igual que toda guitarra criolla, y son justamente las que menos lastiman los dedos, algo que pesa más en un chico que recién empieza." },
+      { question: "¿Cuánto respaldo de opiniones tiene?", answer: "Tiene {{reviews:MLA25482706}} calificaciones, una base más chica que la de las criollas de tamaño completo más vendidas del catálogo, pero suficiente para no ser un caso aislado." },
+    ],
   },
   {
     id: "MLA77260613",
@@ -1528,6 +2451,41 @@ export const curatedProducts: Product[] = [
       { label: "Modelo", value: "AB15" },
     ],
     relatedProducts: ["MLA21868235", "MLA16059072", "MLA44345937"],
+    articleBody: `## Qué es la funda Sunset Music AB15
+
+Es una funda acolchada e impermeable para guitarra criolla o acústica de tamaño completo, con bolsillos para púas y cuerdas de repuesto. Cuesta {{precio:MLA77260613}} y tiene {{reviews:MLA77260613}} calificaciones con {{rating:MLA77260613}} estrellas en MercadoLibre Argentina, en [nuestra comparativa de cuánto sale una guitarra criolla en Argentina](/guias/musica/guitarra-criolla-precio).
+
+## Para qué sirve exactamente, y quién la necesita
+
+Tres de las nueve guitarras de esta comparativa no incluyen funda en la caja. La [Yamaha C40](/producto/guitarra-criolla-clasica-yamaha-c40-mla16059072) lo declara en blanco sobre negro en su propia ficha ("Incluye funda: No"), y la [Fonseca 25](/producto/guitarra-criolla-fonseca-25-mate-natural-mla44345937) simplemente no lista accesorios incluidos. Si compraste alguna de esas dos, esta funda es justamente el gasto que sigue.
+
+## Lo que protege, y lo que no es
+
+Por lo que sale, cumple: protege del roce cotidiano y de la lluvia gracias al acolchado y la impermeabilidad. Lo que no es, y lo aclara un comprador sin vueltas, es un estuche rígido para transportar la guitarra todos los días de un lado a otro. Es una funda acorde a su precio, pensada para guardar la guitarra en casa y moverla ocasionalmente, no para una rutina de viajes constantes.
+
+## Medidas: para qué guitarra sirve
+
+Mide 106 cm de largo por 42 cm de ancho, así que entra una criolla de tamaño 4/4 completo, como la mayoría de las guitarras de esta comparativa. No sirve para una guitarra de tamaño 1/4 como la Parquer infantil: le queda grande.
+
+## El otro gasto extra: las cuerdas de repuesto
+
+Si tu guitarra tampoco trae cuerdas de repuesto, sumá ese gasto además de la funda. Tenemos fichado el [encordado D'Addario EJ27N](/producto/encordado-para-guitarra-criolla-d-addario-ej27n-tension-normal-mla21868235) como la opción de reemplazo estándar para guitarra criolla.
+
+## Para quién es, y para quién no
+
+Es para vos si compraste una guitarra de esta comparativa que no trae funda, y buscás protegerla del polvo, el roce y la lluvia sin gastar en un estuche rígido.
+
+No es para vos si viajás seguido con la guitarra o necesitás protección real contra golpes: para eso hace falta un estuche rígido, no una funda acolchada de esta gama de precio.`,
+    faq: [
+      { question: "¿Qué guitarras de esta comparativa necesitan comprarla aparte?", answer: "Tres de las nueve guitarras que comparamos no incluyen funda: la Yamaha C40 lo declara explícitamente en su ficha (\"Incluye funda: No\"), y la Fonseca 25 no lista accesorios incluidos. Si compraste alguna de esas dos, esta funda cubre ese gasto pendiente." },
+      { question: "¿Es lo mismo que un estuche rígido?", answer: "No. Un comprador lo aclara sin vueltas: es una funda acorde a su precio, para no castigar la guitarra en el uso diario, no para viajar todos los días con ella. Si necesitás protección real contra golpes, hace falta un estuche rígido." },
+      { question: "¿Para qué tamaño de guitarra sirve?", answer: "Mide 106 cm de largo por 42 cm de ancho, así que entra una guitarra de tamaño completo (4/4). No sirve para una guitarra infantil de tamaño 1/4 como la Parquer de esta comparativa: le queda grande." },
+      { question: "¿Es impermeable?", answer: "Sí, además de acolchada. Protege del roce cotidiano y de la lluvia, aunque no reemplaza a un estuche rígido si necesitás protección contra golpes fuertes." },
+      { question: "¿Tiene bolsillos para accesorios?", answer: "Sí, trae bolsillos para guardar las púas y un juego de cuerdas de repuesto, así que podés llevar todo junto con la guitarra." },
+      { question: "¿Cuánto pesa?", answer: "500 g, así que suma un poco de peso a la carga total si vas a transportar la guitarra seguido." },
+      { question: "¿En qué colores viene?", answer: "La publicación ofrece dos colores; la que tenemos fichada en esta ficha es la azul." },
+      { question: "¿Qué otro gasto extra conviene sumar?", answer: "Si tu guitarra tampoco trae cuerdas de repuesto, tenemos fichado el encordado D'Addario EJ27N como la opción estándar de reemplazo para guitarra criolla." },
+    ],
   },
   {
     id: "MLA21868235",
@@ -1578,6 +2536,45 @@ export const curatedProducts: Product[] = [
       { label: "Modelo", value: "EJ27N" },
     ],
     relatedProducts: ["MLA77260613", "MLA40485883", "MLA35245846"],
+    articleBody: `## Qué es el encordado D'Addario EJ27N
+
+Es un juego completo de 6 cuerdas de nailon, tensión normal, para guitarra clásica o criolla. Cuesta {{precio:MLA21868235}} y tiene {{reviews:MLA21868235}} calificaciones con {{rating:MLA21868235}} estrellas en MercadoLibre Argentina, en [nuestra comparativa de cuánto sale una guitarra criolla en Argentina](/guias/musica/guitarra-criolla-precio).
+
+## La base de opiniones más grande de todo el catálogo de música
+
+Con {{reviews:MLA21868235}} calificaciones, es el producto con más respaldo de todo el catálogo de música del sitio, muy por encima de cualquier guitarra que comparamos. En un repuesto que se compra una y otra vez, ese volumen es justamente la señal que más vale: significa que muchísima gente ya lo compró, lo usó y volvió a calificarlo bien.
+
+## Por qué vas a terminar comprándolo, tarde o temprano
+
+Las cuerdas se cortan, sobre todo al principio mientras aprendés a afinar y a tocar. Y las que vienen de fábrica en una guitarra de entrada suelen ser de las primeras piezas que conviene cambiar. Es el segundo gasto que casi todo el que arranca termina haciendo, después de la guitarra misma.
+
+## Tensión normal o tensión alta: cuál elegir
+
+Este juego es de **tensión normal**, que es la de uso general y la que recomendamos por default. Si buscás más volumen o más resistencia bajo los dedos, existe una versión de tensión alta, que es otro modelo distinto a este.
+
+## La advertencia de compatibilidad que hay que respetar
+
+Sirve solo para guitarra clásica o criolla, de cuerdas de nailon. En una guitarra acústica de cuerdas de metal no entra, y usar el encordado equivocado puede dañar el instrumento. Antes de comprar, confirmá que tu guitarra sea criolla y no acústica de cuerdas de acero.
+
+## Qué guitarras de la comparativa ya lo incluyen, y cuáles no
+
+La [Gadnic con estuche y afinador](/producto/guitarra-criolla-de-estudio-gadnic-con-estuche-y-afinador-mla35245846) ya incluye un juego de cuerdas de repuesto en la caja, así que no lo necesitás de entrada si la compraste. La [Femmto CG001](/producto/guitarra-criolla-femmto-cg001-con-funda-y-puas-mla40485883), en cambio, no lista cuerdas de repuesto entre sus accesorios incluidos: si la compraste, este es uno de los gastos que probablemente te aparezca más adelante.
+
+## Para quién es, y para quién no
+
+Es para vos si tu guitarra criolla no trae cuerdas de repuesto, si se te cortó una cuerda, o si preferís tener un juego de más guardado desde el principio.
+
+No es para vos si todavía no tenés la guitarra (es un repuesto, no un instrumento), o si tu guitarra es acústica de cuerdas de metal: para esa, este encordado de nailon no sirve.`,
+    faq: [
+      { question: "¿Por qué tiene tantas más opiniones que las guitarras de esta comparativa?", answer: "Es un producto de reposición: las cuerdas se cortan y se cambian una y otra vez, mientras que una guitarra se compra una sola vez. Con {{reviews:MLA21868235}} calificaciones, es el producto con más respaldo de todo el catálogo de música del sitio." },
+      { question: "¿Sirve para cualquier guitarra?", answer: "No. Sirve solo para guitarra clásica o criolla, de cuerdas de nailon. En una guitarra acústica de cuerdas de metal no entra, y usar el juego equivocado puede dañar el instrumento." },
+      { question: "¿Qué diferencia hay entre tensión normal y tensión alta?", answer: "Este juego es tensión normal, la de uso general y la recomendada por default. La tensión alta da más volumen y más resistencia bajo los dedos, pero es un modelo distinto a este." },
+      { question: "¿Qué guitarras de esta comparativa ya traen cuerdas de repuesto?", answer: "La Gadnic con estuche y afinador ya incluye un juego de repuesto en la caja. La Femmto CG001, en cambio, no lo lista entre sus accesorios incluidos, así que probablemente lo necesites más adelante si la comprás." },
+      { question: "¿Cuántas cuerdas trae el juego?", answer: "6 cuerdas, un juego completo: E, B, G, D, A, E, con calibres desde 0.71 hasta 1.09 mm." },
+      { question: "¿Cuánto sale comparado con la funda?", answer: "Cuesta {{preciodif:MLA21868235:MLA77260613}} más que la funda Sunset Music AB15 de esta comparativa. Un juego de cuerdas cuesta más de un tercio de lo que sale la funda." },
+      { question: "¿Es una marca confiable?", answer: "Sí. D'Addario es una marca de referencia en cuerdas a nivel internacional, no una marca de entrada exclusiva de MercadoLibre." },
+      { question: "¿Puedo comprarlo si todavía no tengo la guitarra?", answer: "No tiene sentido: es un repuesto, no un instrumento. Conviene esperar a tener la guitarra y confirmar que sea criolla antes de comprar el encordado." },
+    ],
   },
   {
     id: "MLA40485883",
@@ -1595,7 +2592,7 @@ export const curatedProducts: Product[] = [
     freeShipping: false,
     rating: 4.6,
     reviewCount: 1360,
-    reviewsSampledAt: "2026-08-26",
+    reviewsSampledAt: "2026-09-03",
     soldQuantity: 5000,
     visibility: "normal",
     priceUpdated: "2026-09-04",
@@ -1633,6 +2630,48 @@ export const curatedProducts: Product[] = [
       { label: "Modelo", value: "CG001" },
     ],
     relatedProducts: ["MLA19491306", "MLA25602058", "MLA19464828"],
+    customerReviews: [
+      { rating: 5, country: "Argentina", text: "Si bien no una guitarra de buena calidad es muy buen producto como para dar los primeros pasos, solo se tiene que tener más cuidado al manipular y el guardado." },
+    ],
+    articleBody: `## Qué es la Femmto CG001
+
+Es la guitarra criolla de tamaño completo (4/4) más barata de todo nuestro catálogo, con funda y púas incluidas en la caja. Cuesta {{precio:MLA40485883}} y tiene {{reviews:MLA40485883}} calificaciones con {{rating:MLA40485883}} estrellas en MercadoLibre Argentina, en [nuestra comparativa de cuánto sale una guitarra criolla en Argentina](/guias/musica/guitarra-criolla-precio).
+
+## La publicación se contradice a sí misma, y no solo una vez
+
+Ya sabíamos que el título dice "Ambidiestro" mientras la ficha técnica declara orientación "Diestro". Al revisar la publicación en vivo encontramos otra contradicción del mismo tipo: la lista de puntos destacados dice **"Tapa de caoba"** y **"Mástil de madera de tilo"**, mientras que la ficha técnica estructurada (la tabla de "Características del producto") declara exactamente lo contrario: **tapa de tilo y mástil de cedro**. Usamos la ficha técnica estructurada, que es la fuente más confiable dentro de la misma publicación, pero preferimos avisar la contradicción en vez de que te enteres recién cuando la tengas en la mano.
+
+## Para quién de verdad alcanza esta guitarra
+
+Una reseña lo resume mejor que cualquier ficha técnica: **"no es una guitarra de buena calidad, pero es muy buen producto para dar los primeros pasos, solo hay que tener más cuidado al manipularla y guardarla"**. Es exactamente el target de esta guitarra: alguien que no sabe todavía si va a seguir con el instrumento y no quiere arriesgar mucha plata en el intento.
+
+## Lo que trae, y lo que vas a tener que comprar aparte
+
+Incluye funda y púas, algo que en una guitarra de entrada casi nunca viene de fábrica. Lo que su publicación no lista es afinador ni cuerdas de repuesto, que van a ser el primer gasto extra después de la compra inicial.
+
+## Contra las otras guitarras criollas de la comparativa
+
+La [Yamaha C40](/producto/guitarra-criolla-clasica-yamaha-c40-mla16059072) cuesta {{preciodif:MLA16059072:MLA40485883}} más, con la base de opiniones más sólida de todo el catálogo de música del sitio y sin las contradicciones de ficha que tiene esta Femmto.
+
+La [Gadnic con estuche y afinador](/producto/guitarra-criolla-de-estudio-gadnic-con-estuche-y-afinador-mla35245846) cuesta {{preciodif:MLA35245846:MLA40485883}} más, pero ya incluye afinador, uno de los gastos extra que la Femmto no cubre.
+
+La [Rómulo García A-100 Plus](/producto/guitarra-criolla-clasica-romulo-garcia-a-100-plus-mla68992218) cuesta {{preciodif:MLA68992218:MLA40485883}} más, con fabricación argentina, aunque con una base de opiniones mucho más chica que esta Femmto.
+
+## Para quién es, y para quién no
+
+Es para vos si estás arrancando de cero, no sabés todavía si vas a seguir con la guitarra, y preferís poner la menor cantidad de plata posible en riesgo mientras lo descubrís.
+
+No es para vos si ya sabés que vas a seguir tocando en serio, o si te importa que la ficha del producto sea consistente: para eso, otra opción de esta comparativa con menos contradicciones internas puede darte más tranquilidad al comprar.`,
+    faq: [
+      { question: "¿Es ambidiestra o para diestros?", answer: "Acá hay una contradicción real de la propia publicación: el título dice \"Ambidiestro\", pero tanto la ficha técnica como uno de los puntos destacados aclaran \"Encordada para diestros\". Conviene confirmarlo con el vendedor antes de comprar si sos zurdo." },
+      { question: "¿De qué madera son la tapa y el mástil?", answer: "Según la ficha técnica estructurada de la publicación (la fuente más confiable dentro de la misma página), la tapa es de tilo y el mástil de cedro. Ojo: los puntos destacados de la misma publicación dicen lo contrario (\"tapa de caoba\", \"mástil de tilo\"), así que hay una contradicción interna que preferimos avisar." },
+      { question: "¿Es una guitarra de buena calidad?", answer: "Una reseña lo dice sin vueltas: \"no es una guitarra de buena calidad, pero es muy buen producto para dar los primeros pasos, solo hay que tener más cuidado al manipularla y guardarla\". Es el tipo de opinión que conviene tomar como expectativa real, no como advertencia para evitarla." },
+      { question: "¿Qué trae incluido en la caja?", answer: "Funda y púas, algo que en una guitarra de entrada de este precio casi nunca viene de fábrica. No incluye afinador ni cuerdas de repuesto, que vas a tener que comprar aparte." },
+      { question: "¿Es la guitarra criolla más barata del catálogo?", answer: "Es la más barata de tamaño completo (4/4). Solo la sale menos la Parquer de tamaño 1/4, que es una guitarra infantil, no de tamaño adulto." },
+      { question: "¿Vale la pena pagar más por la Yamaha C40?", answer: "Si buscás una marca con trayectoria y la base de opiniones más grande del catálogo de música del sitio, sí: la Yamaha C40 cuesta {{preciodif:MLA16059072:MLA40485883}} más, pero no tiene las contradicciones de ficha que sí tiene esta Femmto." },
+      { question: "¿Conviene más esta o la Gadnic con afinador incluido?", answer: "La Gadnic cuesta {{preciodif:MLA35245846:MLA40485883}} más, pero ya trae afinador, uno de los primeros gastos extra que vas a tener con la Femmto. Si contás ese costo aparte, la diferencia real de precio es menor de lo que parece." },
+      { question: "¿Sirve para tocar en serio o solo para probar?", answer: "Está pensada para probar. La propia reseña citada en esta ficha lo aclara: sirve para dar los primeros pasos, no es una guitarra de alta calidad. Si ya sabés que vas a seguir en serio, conviene mirar otra opción de esta comparativa." },
+    ],
   },
   {
     id: "MLA19491306",
@@ -2127,7 +3166,7 @@ export const curatedProducts: Product[] = [
     ],
     cons: [
       "Tiene apenas {{reviews:MLA63579452}} calificaciones, la base más chica de las seis de esta comparativa",
-      "Empata el rating más bajo del grupo (4.5) junto con la Gadnic",
+      "Empata el rating más bajo del grupo (4.4) junto con la Gadnic",
       "Su ficha no lista si las teclas responden a la fuerza con la que se tocan (respuesta al tacto)",
       "Polifonía máxima de 32 notas, la misma que la Casio CT-S100 pero bastante menos que la CTK-3500 o la Yamaha",
     ],
@@ -2145,6 +3184,53 @@ export const curatedProducts: Product[] = [
       { label: "Modelo", value: "T61" },
     ],
     relatedProducts: ["MLA19783697", "MLA19783696", "MLA16109682"],
+    articleBody: `## Qué es el Dyvan T61
+
+Es una de las dos entradas más baratas de nuestro catálogo de teclados musicales, y la que más trae en la caja de las dos. Cuesta {{precio:MLA63579452}} y tiene {{reviews:MLA63579452}} calificaciones con {{rating:MLA63579452}} estrellas en MercadoLibre Argentina, en [nuestra comparativa de cuánto sale un teclado musical en Argentina](/guias/musica/teclado-musical-precio).
+
+## Lo que más trae en la caja de las dos entradas
+
+Según su ficha, incluye atril, cable USB, manual y micrófono. Es más de lo que suele venir en este tramo de precio, y la diferencia concreta frente a la Gadnic de esta comparativa: no vas a tener que comprar el atril aparte para poder leer una partitura mientras tocás.
+
+## 61 teclas, la medida estándar
+
+Tiene 61 teclas, la medida más común en un teclado de entrada, más que las 54 de la Gadnic de esta comparativa. Suma 200 ritmos incorporados para practicar con acompañamiento.
+
+## La contra real: sin respuesta al tacto
+
+Antes de comprarlo conviene saber esto: su ficha no lista si las teclas responden a la fuerza con la que las tocás, lo que se llama respuesta al tacto o dinámica. Es el dato que más pesa en esta comparativa completa, según explicamos en la guía: sin ese dato confirmado, no es la opción si tu plan es aprender a tocar con matices de volumen desde el principio.
+
+## Base de opiniones chica todavía
+
+Tiene apenas {{reviews:MLA63579452}} calificaciones, la base más chica de las seis de esta comparativa. Su rating de {{rating:MLA63579452}} empata el más bajo del grupo junto con la Gadnic, así que conviene tomarlo con cautela hasta que se acumule más evidencia.
+
+## Polifonía de 32 notas
+
+Su polifonía máxima es de 32 notas, la misma que la Casio CT-S100 de esta comparativa, pero bastante menos que las de la Casio CTK-3500 o la Yamaha. Para tocar acordes simples alcanza; para piezas con mucha superposición de notas, se queda corto antes que las opciones de gama más alta.
+
+## Contra las otras opciones de la comparativa
+
+Cuesta prácticamente lo mismo que la [Gadnic de 54 teclas](/producto/teclado-organo-electronico-gadnic-54-teclas-con-pantalla-led-mla19783697), que tiene menos teclas pero comparte el mismo hueco de información sobre respuesta al tacto.
+
+Cuesta {{preciodif:MLA19783696:MLA63579452}} menos que el [Parquer K186BK](/producto/teclado-parquer-k186bk-61-teclas-sensitivo-master-mla19783696), que se vende como "Sensitivo" en el nombre aunque su ficha técnica no confirma ese dato.
+
+Cuesta {{preciodif:MLA16109682:MLA63579452}} menos que la [Casio Casiotone CT-S100](/producto/teclado-musical-casio-casiotone-ct-s100-mla16109682), que sí declara el dato de respuesta al tacto (en No, aunque al menos lo aclara).
+
+## Para quién es, y para quién no
+
+Es para vos si buscás la entrada más completa en accesorios (atril, micrófono, cable USB) al menor precio, y todavía no sabés si vas a seguir con el instrumento.
+
+No es para vos si tu plan es aprender a tocar con dinámica de volumen desde el arranque: para eso hace falta un teclado que declare respuesta al tacto, y este no lo confirma.`,
+    faq: [
+      { question: "¿Tiene respuesta al tacto?", answer: "Su ficha no lo lista. Es el dato más importante para saber si las teclas responden a la fuerza con la que las tocás, y en este teclado no está confirmado ni en un sentido ni en otro." },
+      { question: "¿Qué trae en la caja?", answer: "Según su ficha, incluye atril, cable USB, manual y micrófono. Es más de lo que suele venir en teclados de este precio." },
+      { question: "¿Cuántas teclas tiene?", answer: "61 teclas, la medida estándar de un teclado de entrada, más que las 54 de la Gadnic de esta comparativa." },
+      { question: "¿Es confiable su calificación?", answer: "Tiene apenas {{reviews:MLA63579452}} calificaciones, la base más chica de las seis de esta comparativa. Empata el rating más bajo del grupo junto con la Gadnic, así que conviene tomarlo con cautela." },
+      { question: "¿Cuánta polifonía tiene?", answer: "32 notas máximo, la misma que la Casio CT-S100 de esta comparativa, pero menos que la Casio CTK-3500 o la Yamaha PSR-E383. Alcanza para acordes simples, no para piezas con mucha superposición de notas." },
+      { question: "¿Vale la pena pagar más por el Parquer K186BK?", answer: "El Parquer cuesta {{preciodif:MLA19783696:MLA63579452}} más y se vende como \"Sensitivo\" en el nombre, pero su propia ficha técnica no confirma ese dato. Antes de pagar la diferencia, conviene saber que ninguno de los dos garantiza respuesta al tacto de forma confirmada." },
+      { question: "¿Funciona a pila o necesita corriente?", answer: "Las dos cosas: funciona con pilas o conectado a la corriente doméstica de 220V." },
+      { question: "¿Tiene interfaz MIDI?", answer: "No, según su ficha. Si necesitás conectarlo a una computadora para grabar o usar software musical, esta no es la opción." },
+    ],
   },
   {
     id: "MLA19783697",
@@ -2192,10 +3278,60 @@ export const curatedProducts: Product[] = [
       { label: "Ancho", value: "69,8 cm" },
       { label: "Peso", value: "1,2 kg" },
       { label: "Color", value: "Negro" },
+      { label: "Entrada de auriculares", value: "Sí, según la ficha vigente de la publicación" },
+      { label: "Entrada de micrófono", value: "Sí, y las fotos de la publicación muestran un micrófono incluido en la caja" },
+      { label: "Grabación y reproducción", value: "Sí, permite guardar y reproducir lo tocado, según la ficha vigente" },
       { label: "Marca", value: "Gadnic" },
       { label: "Modelo", value: "ORG00013" },
     ],
     relatedProducts: ["MLA63579452", "MLA19783696", "MLA16109682"],
+    articleBody: `## Qué es el Gadnic ORG00013
+
+Es una de las dos entradas más baratas de nuestro catálogo de teclados musicales, y la que tiene la base de opiniones más sólida de todo el tramo de entrada. Cuesta {{precio:MLA19783697}} y tiene {{reviews:MLA19783697}} calificaciones con {{rating:MLA19783697}} estrellas en MercadoLibre Argentina, en [nuestra comparativa de cuánto sale un teclado musical en Argentina](/guias/musica/teclado-musical-precio).
+
+## La base de opiniones más grande del tramo de entrada, por lejos
+
+Con {{reviews:MLA19783697}} calificaciones, tiene un respaldo enorme para ser la entrada del grupo, muy por encima de la Dyvan T61, la otra opción de este mismo tramo de precio. Es una señal real: mucha gente ya lo compró y lo calificó bien.
+
+## La contra real: 54 teclas, menos que el resto
+
+Tiene 54 teclas, menos que las 61 que trae el resto de esta comparativa. No es un problema para empezar, pero si más adelante pensás tocar partituras completas que necesitan el rango completo del teclado, te vas a quedar corto de teclas antes que de presupuesto.
+
+## Lo que trae, según las fotos de la publicación
+
+Las fotos muestran un micrófono y un adaptador de corriente incluidos en la caja, además de la entrada de auriculares para practicar sin molestar y la entrada de micrófono para cantar mientras tocás. También declara funciones de grabación y reproducción, para guardar lo que tocaste.
+
+## Sin respuesta al tacto declarada
+
+Igual que la Dyvan T61 de esta comparativa, su ficha no lista si las teclas responden a la fuerza con la que las tocás. Es el dato que más pesa en esta comparativa: sin esa confirmación, no es la opción si tu plan es aprender con matices de volumen desde el principio.
+
+## 100 ritmos, la mitad que la Dyvan T61
+
+Declara 100 ritmos incorporados, la mitad de los 200 que trae la Dyvan T61. Para practicar con acompañamiento básico alcanza, pero tiene menos variedad que su competidora directa en precio.
+
+## Contra las otras opciones de la comparativa
+
+Cuesta prácticamente lo mismo que la [Dyvan T61](/producto/teclado-musical-electronico-dyvan-t61-con-atril-mla63579452), que tiene 61 teclas en vez de 54 y el doble de ritmos, pero no trae micrófono confirmado por foto.
+
+Cuesta {{preciodif:MLA19783696:MLA19783697}} menos que el [Parquer K186BK](/producto/teclado-parquer-k186bk-61-teclas-sensitivo-master-mla19783696), que se vende como "Sensitivo" en el nombre aunque su ficha técnica no confirma ese dato.
+
+Cuesta {{preciodif:MLA16109682:MLA19783697}} menos que la [Casio Casiotone CT-S100](/producto/teclado-musical-casio-casiotone-ct-s100-mla16109682), que sí declara el dato de respuesta al tacto (en No, aunque al menos lo aclara).
+
+## Para quién es, y para quién no
+
+Es para vos si buscás la entrada con más respaldo de opiniones del catálogo, y no te molesta un teclado de 54 teclas para empezar.
+
+No es para vos si necesitás el rango completo de 61 teclas para tocar partituras, o si tu plan es aprender con dinámica de volumen desde el principio.`,
+    faq: [
+      { question: "¿Por qué tiene tantas más opiniones que la Dyvan T61?", answer: "Es la entrada con más respaldo de todo el tramo de precio: {{reviews:MLA19783697}} calificaciones, muy por encima de la Dyvan T61. No hay un dato específico que explique la diferencia, pero es una señal real de que mucha gente ya lo compró y lo calificó bien." },
+      { question: "¿Cuántas teclas tiene?", answer: "54 teclas, menos que las 61 del resto de esta comparativa. Alcanza para empezar, pero puede quedarse corto para tocar partituras completas más adelante." },
+      { question: "¿Trae micrófono incluido?", answer: "Las fotos de la publicación muestran un micrófono y un adaptador de corriente incluidos en la caja, además de una entrada de micrófono para cantar mientras tocás." },
+      { question: "¿Tiene respuesta al tacto?", answer: "Su ficha no lo lista, igual que la Dyvan T61 de esta comparativa. Sin ese dato confirmado, no es la opción si tu plan es aprender con dinámica de volumen desde el principio." },
+      { question: "¿Se puede grabar lo que tocás?", answer: "Sí, según la ficha vigente de la publicación, tiene funciones de grabación y reproducción para guardar y volver a escuchar lo que tocaste." },
+      { question: "¿Cuántos ritmos tiene?", answer: "100 ritmos incorporados, la mitad de los 200 que trae la Dyvan T61, la otra opción de este mismo tramo de precio." },
+      { question: "¿Tiene entrada para auriculares?", answer: "Sí, según la ficha vigente de la publicación, así que se puede practicar sin molestar a nadie." },
+      { question: "¿Cuánto pesa?", answer: "1,2 kg según su ficha, y mide 69,8 cm de ancho." },
+    ],
   },
   {
     id: "MLA19783696",
@@ -2247,6 +3383,53 @@ export const curatedProducts: Product[] = [
       { label: "Modelo", value: "K186BK" },
     ],
     relatedProducts: ["MLA16109682", "MLA16107361", "MLA19783697"],
+    articleBody: `## Qué es el Parquer K186BK
+
+Es el escalón del medio de esta comparativa, antes de pasar a una marca de trayectoria como Casio. Cuesta {{precio:MLA19783696}} y tiene {{reviews:MLA19783696}} calificaciones con {{rating:MLA19783696}} estrellas en MercadoLibre Argentina, en [nuestra comparativa de cuánto sale un teclado musical en Argentina](/guias/musica/teclado-musical-precio).
+
+## La contradicción que hay que saber antes de comprar
+
+Su propio nombre lo vende como **"Sensitivo"**. Pero al revisar su ficha técnica estructurada, el campo de respuesta al tacto **no está declarado**: ni confirma ni desmiente que las teclas respondan a la fuerza con la que las tocás. No es que digamos que es mentira, es que no hay un dato verificable que lo respalde más allá de la palabra en el título. Si la respuesta al tacto te importa de verdad, las dos Casio de esta comparativa sí lo declaran de forma explícita, una en Sí y otra en No.
+
+## 61 teclas completas, MIDI y bastante más polifonía
+
+Tiene 61 teclas, la medida completa, con interfaz MIDI para conectarlo a una computadora. Su polifonía máxima es de 96 notas, más del doble que la Dyvan T61 (la Gadnic de esta comparativa no declara este dato), así que soporta piezas con más superposición de sonido antes de cortar notas.
+
+## 300 ritmos, el triple que la Gadnic
+
+Declara 300 ritmos incorporados, el triple que la Gadnic y 100 más que la Dyvan T61 de esta comparativa. Es la opción con más variedad de acompañamiento del tramo de entrada y medio.
+
+## Buena base de opiniones, aunque menor que la Casio CTK-3500
+
+Tiene {{reviews:MLA19783696}} calificaciones, una base sólida, aunque bastante menor que las de la Casio CTK-3500 de esta comparativa, que además sí declara respuesta al tacto de forma explícita.
+
+## Lo que no lista: pedales
+
+Su ficha no lista pedales incluidos. Si necesitás pedal de sustain para tocar piano, vas a tener que sumarlo aparte.
+
+## Contra las otras opciones de la comparativa
+
+Cuesta {{preciodif:MLA19783696:MLA19783697}} más que el [Gadnic de 54 teclas](/producto/teclado-organo-electronico-gadnic-54-teclas-con-pantalla-led-mla19783697), que tiene menos teclas y menos ritmos, pero comparte el mismo hueco de información sobre respuesta al tacto.
+
+Cuesta {{preciodif:MLA16109682:MLA19783696}} menos que la [Casio Casiotone CT-S100](/producto/teclado-musical-casio-casiotone-ct-s100-mla16109682), que declara respuesta al tacto en No, así que al menos aclara el dato aunque sea negativo.
+
+Cuesta {{preciodif:MLA16107361:MLA19783696}} menos que la [Casio CTK-3500](/producto/teclado-musical-casio-ctk-3500-mla16107361), la más elegida de toda esta comparativa, que sí declara respuesta al tacto real.
+
+## Para quién es, y para quién no
+
+Es para vos si buscás más polifonía y más ritmos que las opciones de entrada, sin llegar todavía al precio de una Casio, y no te importa que la respuesta al tacto quede sin confirmar.
+
+No es para vos si la respuesta al tacto es un factor decisivo para vos: la palabra "Sensitivo" en el nombre no está respaldada por un dato verificable en su ficha técnica, así que no podemos confirmarla como cierta.`,
+    faq: [
+      { question: "¿Es cierto que tiene respuesta al tacto, como dice el nombre?", answer: "No lo podemos confirmar. El título de la publicación lo vende como \"Sensitivo\", pero la ficha técnica estructurada no tiene ese campo declarado: no confirma ni desmiente el dato. Si la respuesta al tacto te importa de verdad, las dos Casio de esta comparativa sí lo declaran explícitamente." },
+      { question: "¿Cuánta polifonía tiene?", answer: "96 notas máximo, más del doble que la Dyvan T61 de esta comparativa. La Gadnic no declara este dato, así que no se puede comparar con ella en ese punto." },
+      { question: "¿Trae pedales incluidos?", answer: "No, su ficha no los lista. Si necesitás pedal de sustain, hay que sumarlo aparte." },
+      { question: "¿Cuántos ritmos tiene?", answer: "300 ritmos incorporados, el triple que la Gadnic y 100 más que la Dyvan T61 de esta comparativa." },
+      { question: "¿Tiene interfaz MIDI?", answer: "Sí, así que se puede conectar a una computadora para grabar o usar software musical, algo que la Dyvan T61 de esta comparativa no ofrece." },
+      { question: "¿Vale la pena pagar más por una Casio?", answer: "Depende de si la respuesta al tacto te importa. La Casio Casiotone CT-S100 cuesta {{preciodif:MLA16109682:MLA19783696}} más y declara ese dato en No; la Casio CTK-3500 cuesta {{preciodif:MLA16107361:MLA19783696}} más y lo declara en Sí. Este Parquer no confirma el dato en ningún sentido, así que si necesitás certeza, conviene pagar la diferencia por una Casio." },
+      { question: "¿Cuántas teclas tiene?", answer: "61 teclas, la medida completa, igual que la Dyvan T61 y las dos Casio de esta comparativa." },
+      { question: "¿Trae atril?", answer: "Sí, según su ficha incluye atril y transformador." },
+    ],
   },
   {
     id: "MLA16109682",
@@ -2299,6 +3482,47 @@ export const curatedProducts: Product[] = [
       { label: "Modelo", value: "CT-S100" },
     ],
     relatedProducts: ["MLA16107361", "MLA44710176", "MLA19783696"],
+    articleBody: `## Qué es la Casio Casiotone CT-S100
+
+Es la entrada real a Casio, la marca de referencia mundial en teclados. Cuesta {{precio:MLA16109682}} y tiene {{reviews:MLA16109682}} calificaciones con {{rating:MLA16109682}} estrellas en MercadoLibre Argentina, en [nuestra comparativa de cuánto sale un teclado musical en Argentina](/guias/musica/teclado-musical-precio). Al momento de verificar esta ficha, quedaban solo 4 unidades disponibles.
+
+## Casio de verdad, no una marca de entrada de MercadoLibre
+
+A diferencia de la Dyvan, la Gadnic o el Parquer de esta comparativa, esta es una Casio real: la misma marca que fabrica teclados desde hace décadas y que es referencia mundial en el rubro de entrada. Empata el rating más alto de esta comparativa, {{rating:MLA16109682}}, junto con la Yamaha PSR-E383.
+
+## La contra que su propia ficha declara sin rodeos
+
+Acá está el dato honesto que hay que saber antes de comprar: su ficha declara explícitamente que **no tiene respuesta al tacto**. Las teclas suenan igual de fuerte sin importar cómo las presiones. Es información real y verificada, a diferencia del Parquer de esta comparativa, que se vende como "Sensitivo" sin poder confirmarlo. Acá al menos el dato está claro, aunque sea negativo.
+
+## Pocos ritmos comparado con el resto
+
+Declara solo 61 ritmos, bastante menos que los 100 de la Casio CTK-3500 o los 260 de la Yamaha PSR-E383 de esta comparativa. Si la variedad de acompañamiento te importa, este no es el punto fuerte de esta ficha.
+
+## Accesorios mínimos
+
+Según su ficha, no incluye accesorios más allá del manual y el atril para partituras. No trae micrófono ni cable USB como sí ofrecen algunas opciones del tramo de entrada.
+
+## Contra las otras opciones de la comparativa
+
+Cuesta {{preciodif:MLA16109682:MLA19783696}} más que el [Parquer K186BK](/producto/teclado-parquer-k186bk-61-teclas-sensitivo-master-mla19783696), que se vende como "Sensitivo" sin confirmarlo, mientras que esta Casio al menos declara el dato con certeza (aunque sea en No).
+
+Cuesta {{preciodif:MLA16107361:MLA16109682}} menos que la [Casio CTK-3500](/producto/teclado-musical-casio-ctk-3500-mla16107361), que sí declara respuesta al tacto real y es la más elegida de esta comparativa.
+
+## Para quién es, y para quién no
+
+Es para vos si valorás la trayectoria real de Casio por sobre marcas de entrada de MercadoLibre, y no te importa que las teclas no respondan a la fuerza con la que las tocás.
+
+No es para vos si tu plan es aprender a tocar con dinámica de volumen: para eso hace falta subir a la Casio CTK-3500 o a la Yamaha PSR-E383 de esta misma comparativa, que sí declaran respuesta al tacto real.`,
+    faq: [
+      { question: "¿Tiene respuesta al tacto?", answer: "No, y su ficha lo declara explícitamente: las teclas suenan igual de fuerte sin importar cómo las presiones. Es un dato honesto, a diferencia del Parquer de esta comparativa, que se vende como \"Sensitivo\" sin poder confirmarlo." },
+      { question: "¿Es una Casio real?", answer: "Sí, es la entrada real a Casio, la marca de referencia mundial en teclados de entrada. No es una marca de entrada exclusiva de MercadoLibre como algunas otras opciones de esta comparativa." },
+      { question: "¿Cuántos ritmos tiene?", answer: "61 ritmos, bastante menos que los 100 de la Casio CTK-3500 o los 260 de la Yamaha PSR-E383 de esta comparativa." },
+      { question: "¿Qué trae incluido?", answer: "Según su ficha, solo manual y atril para partituras. No incluye micrófono ni cable USB." },
+      { question: "¿Vale la pena pagar más por la Casio CTK-3500?", answer: "Si necesitás respuesta al tacto real, sí: la CTK-3500 cuesta {{preciodif:MLA16107361:MLA16109682}} más y declara ese dato en Sí. Esta CT-S100 lo declara en No, así que no sirve si tu plan es tocar con dinámica de volumen." },
+      { question: "¿Cuánto pesa?", answer: "3,3 kg según su ficha." },
+      { question: "¿Tiene interfaz MIDI?", answer: "Sí, así que se puede conectar a una computadora para grabar o usar software musical." },
+      { question: "¿Está en stock?", answer: "Al momento de verificar esta ficha, quedaban solo 4 unidades disponibles. Si te interesa, conviene no dar por sentado que va a seguir disponible." },
+    ],
   },
   {
     id: "MLA16107361",
@@ -2351,13 +3575,60 @@ export const curatedProducts: Product[] = [
       { label: "Modelo", value: "CTK-3500" },
     ],
     relatedProducts: ["MLA16109682", "MLA44710176", "MLA19783696"],
+    articleBody: `## Qué es la Casio CTK-3500
+
+Es la más elegida de toda nuestra comparativa de teclados musicales: la base de opiniones más grande de las seis, y con motivo. Cuesta {{precio:MLA16107361}} y tiene {{reviews:MLA16107361}} calificaciones con {{rating:MLA16107361}} estrellas en MercadoLibre Argentina, en [nuestra comparativa de cuánto sale un teclado musical en Argentina](/guias/musica/teclado-musical-precio).
+
+## El diferencial real: respuesta al tacto declarada en Sí
+
+Acá está lo que la separa de la Casio CT-S100 de esta misma comparativa: su ficha declara respuesta al tacto **Sí**, de forma explícita. Las teclas responden a la fuerza con la que las tocás, algo que ni la CT-S100 (que lo declara en No) ni el Parquer de esta comparativa (que lo vende como "Sensitivo" sin poder confirmarlo) ofrecen con la misma certeza.
+
+## La base de opiniones más grande de la comparativa
+
+Con {{reviews:MLA16107361}} calificaciones, es la que más gente compró y calificó de las seis que comparamos. Es una señal fuerte: la combinación de marca real, respuesta al tacto confirmada y precio intermedio parece ser la que más convence.
+
+## 400 tonos y 100 ritmos: un salto real sobre la CT-S100
+
+Declara 400 tonos y 100 ritmos, bastante más que los 122 tonos y 61 ritmos de la Casio CT-S100 de esta comparativa. Su polifonía máxima es de 48 notas, un 50% más que las 32 de la CT-S100.
+
+## La contra a anotar: el adaptador no está incluido
+
+Su ficha declara que el adaptador de corriente **no está incluido**. Sumalo aparte antes de comprar si no tenés uno compatible, o vas a necesitar pilas para el primer uso.
+
+## Tampoco lista pedales
+
+Igual que el resto de esta comparativa, no lista pedales incluidos. Si necesitás pedal de sustain, hay que sumarlo por separado.
+
+## Contra las otras opciones de la comparativa
+
+Cuesta {{preciodif:MLA16107361:MLA16109682}} más que la [Casio Casiotone CT-S100](/producto/teclado-musical-casio-casiotone-ct-s100-mla16109682), que es la misma marca pero sin respuesta al tacto declarada.
+
+Cuesta {{preciodif:MLA44710176:MLA16107361}} menos que la [Yamaha PSR-E383](/producto/teclado-musical-yamaha-psr-e383-mla44710176), la más cara de esta comparativa, que suma más funciones pero a un precio bastante mayor.
+
+Cuesta {{preciodif:MLA16107361:MLA19783696}} más que el [Parquer K186BK](/producto/teclado-parquer-k186bk-61-teclas-sensitivo-master-mla19783696), que se vende como "Sensitivo" sin poder confirmarlo, mientras que acá el dato está declarado con certeza.
+
+## Para quién es, y para quién no
+
+Es para vos si buscás respuesta al tacto real y confirmada, sin pagar el precio de la Yamaha, y valorás elegir la opción con más respaldo de opiniones de todo el catálogo.
+
+No es para vos si buscás el combo más completo de accesorios: el adaptador de corriente no viene incluido, así que hay que sumarlo al presupuesto inicial.`,
+    faq: [
+      { question: "¿Por qué es la más elegida de esta comparativa?", answer: "Tiene {{reviews:MLA16107361}} calificaciones, la base más grande de las seis que comparamos. La combinación de marca real (Casio), respuesta al tacto confirmada en Sí y un precio intermedio parece ser la que más convence." },
+      { question: "¿Tiene respuesta al tacto de verdad?", answer: "Sí, y su ficha lo declara explícitamente. Es la diferencia principal con la Casio CT-S100 de esta comparativa, que declara ese mismo dato en No." },
+      { question: "¿Incluye el adaptador de corriente?", answer: "No, su ficha lo declara explícitamente: el adaptador no está incluido. Conviene sumarlo al presupuesto o tener pilas para el primer uso." },
+      { question: "¿Cuántos tonos y ritmos tiene?", answer: "400 tonos y 100 ritmos, bastante más que los 122 tonos y 61 ritmos de la Casio CT-S100 de esta misma comparativa." },
+      { question: "¿Trae pedales?", answer: "No, su ficha no los lista, igual que el resto de los teclados de esta comparativa. Hay que sumar el pedal de sustain aparte si lo necesitás." },
+      { question: "¿Vale la pena pagar más por la Yamaha PSR-E383?", answer: "La Yamaha cuesta {{preciodif:MLA44710176:MLA16107361}} más y suma más funciones y tonos, pero para la mayoría esta CTK-3500 ya resuelve lo esencial (respuesta al tacto real) a un precio bastante más accesible." },
+      { question: "¿Cuánta polifonía tiene?", answer: "48 notas máximo, un 50% más que las 32 de la Casio CT-S100 de esta comparativa." },
+      { question: "¿Cuánto pesa?", answer: "3,4 kg según su ficha." },
+    ],
   },
   {
     id: "MLA44710176",
     title: "Teclado Musical Yamaha PSR-E383",
     canonicalName: "Yamaha PSR-E383",
     brand: "Yamaha",
-    price: 487890,
+    price: 542100,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_809301-MLA99941677023_112025-O.webp",
     category: "Música",
@@ -2405,6 +3676,50 @@ export const curatedProducts: Product[] = [
       { label: "Modelo", value: "PSR-E383" },
     ],
     relatedProducts: ["MLA16107361", "MLA16109682", "MLA19783696"],
+    articleBody: `## Qué es la Yamaha PSR-E383
+
+Es la marca de mayor trayectoria de nuestra comparativa: Yamaha fabrica teclados e instrumentos desde hace más de un siglo. Cuesta {{precio:MLA44710176}} y tiene {{reviews:MLA44710176}} calificaciones con {{rating:MLA44710176}} estrellas en MercadoLibre Argentina, en [nuestra comparativa de cuánto sale un teclado musical en Argentina](/guias/musica/teclado-musical-precio).
+
+## La lista más larga de funciones de la comparativa
+
+Su ficha declara respuesta al tacto en Sí, igual que la Casio CTK-3500 de esta comparativa. Suma 650 tonos, más que las dos Casio (las únicas otras que declaran ese dato), y un grabador incorporado que ninguna de las dos Casio tiene según su ficha. También trae ranura para tarjeta de memoria.
+
+## La más cara, por lejos
+
+Es la más cara de esta comparativa: cuesta {{preciodif:MLA44710176:MLA63579452}} más que la Dyvan T61, la entrada más económica del grupo. Esa diferencia se explica en la cantidad de funciones, pero conviene tenerla presente antes de comparar precios entre las seis opciones.
+
+## Un dato de su propia ficha que no cierra
+
+Antes de comprarla conviene saber esto: su ficha declara medidas de **altura 107 cm y ancho 43 cm**, que no cierran para un teclado de 61 teclas (lo esperable sería lo opuesto, más ancho que alto). No lo publicamos como un dato confiable: si el tamaño exacto te importa para saber si entra en tu espacio, confirmalo directamente con el vendedor antes de comprar.
+
+## Sin pedales, y más pesada que las Casio
+
+Su ficha no incluye pedales. Pesa 5 kg, más que las dos Casio de esta comparativa (3,3 y 3,4 kg); la Dyvan y el Parquer no declaran este dato, así que no se pueden comparar en ese punto.
+
+## Contra las otras opciones de la comparativa
+
+Cuesta {{preciodif:MLA44710176:MLA16107361}} más que la [Casio CTK-3500](/producto/teclado-musical-casio-ctk-3500-mla16107361), la más elegida de esta comparativa, que también declara respuesta al tacto real pero con menos tonos y sin grabador.
+
+Cuesta {{preciodif:MLA44710176:MLA16109682}} más que la [Casio Casiotone CT-S100](/producto/teclado-musical-casio-casiotone-ct-s100-mla16109682), que empata el mismo rating pero no declara respuesta al tacto.
+
+Cuesta {{preciodif:MLA44710176:MLA19783696}} más que el [Parquer K186BK](/producto/teclado-parquer-k186bk-61-teclas-sensitivo-master-mla19783696), el escalón del medio de esta comparativa, que no confirma respuesta al tacto pese a venderse como "Sensitivo".
+
+## Para quién es, y para quién no
+
+Es para vos si valorás la trayectoria de marca por sobre todo, y querés la lista más completa de funciones de esta comparativa: respuesta al tacto, grabador, ranura de memoria y la mayor cantidad de tonos.
+
+No es para vos si el presupuesto es la prioridad: es, por lejos, la más cara de las seis, y la Casio CTK-3500 ya resuelve lo esencial (respuesta al tacto real) a bastante menos precio.`,
+    faq: [
+      { question: "¿Por qué es tan cara comparada con las demás?", answer: "Es la que más funciones suma: respuesta al tacto, grabador incorporado, ranura para tarjeta de memoria y 650 tonos, más que cualquier otra de esta comparativa. Cuesta {{preciodif:MLA44710176:MLA63579452}} más que la Dyvan T61, la entrada más económica del grupo." },
+      { question: "¿Las medidas que declara son confiables?", answer: "No del todo: su ficha declara altura 107 cm y ancho 43 cm, que no cierran para un teclado de 61 teclas (lo esperable sería más ancho que alto). No lo publicamos como dato confiable: si el tamaño exacto te importa, confirmalo con el vendedor antes de comprar." },
+      { question: "¿Tiene respuesta al tacto?", answer: "Sí, y su ficha lo declara explícitamente, igual que la Casio CTK-3500 de esta comparativa." },
+      { question: "¿Tiene grabador incorporado?", answer: "Sí, según su ficha, algo que ninguna de las dos Casio de esta comparativa tiene." },
+      { question: "¿Cuánto pesa?", answer: "5 kg, más que las dos Casio de esta comparativa (3,3 y 3,4 kg). La Dyvan y el Parquer no declaran este dato." },
+      { question: "¿Trae pedales?", answer: "No, según su ficha, igual que el resto de los teclados de esta comparativa." },
+      { question: "¿Vale la pena pagar tanto más que por la Casio CTK-3500?", answer: "Depende de qué necesites. Cuesta {{preciodif:MLA44710176:MLA16107361}} más que la CTK-3500, que también tiene respuesta al tacto real. La diferencia está en el grabador, la ranura de memoria y los tonos extra: si no vas a usar esas funciones, la CTK-3500 ya resuelve lo esencial por bastante menos." },
+      { question: "¿Cuántos tonos y ritmos tiene?", answer: "650 tonos y 260 ritmos, la mayor cantidad de las seis de esta comparativa." },
+      { question: "¿Trae ranura para tarjeta de memoria?", answer: "Sí, según su ficha, algo que no declaran las otras cinco opciones de esta comparativa." },
+    ],
   },
   {
     id: "MLA23305108",
@@ -2458,6 +3773,53 @@ export const curatedProducts: Product[] = [
       { label: "Modelo", value: "0373202511" },
     ],
     relatedProducts: ["MLA47298027", "MLA18258523", "MLA17469502"],
+    articleBody: `## Qué es la Squier Stratocaster Sonic HSS
+
+Es la puerta de entrada real a Fender, no una imitación con nombre parecido. Cuesta {{precio:MLA23305108}} y tiene {{reviews:MLA23305108}} calificaciones con {{rating:MLA23305108}} estrellas en MercadoLibre Argentina, en [nuestra comparativa de Fender, Gibson y Gretsch en Argentina](/guias/musica/guitarras-de-marca-precio).
+
+## La aclaración que ahorra plata: Squier es Fender
+
+Hay una confusión que le cuesta dinero al que recién entra a este rubro: pensar que Squier es una copia barata de Fender. **No lo es.** Squier es la línea económica que la propia Fender diseña, fabrica y vende, la misma relación que tiene Epiphone con Gibson. No es un atajo ni una imitación con el nombre parecido: es el punto de entrada real a la marca.
+
+## Otro tramo, no un paso siguiente de las eléctricas de entrada
+
+Antes de comprarla conviene ubicarla bien en la escalera de precios: esta Squier no es un "paso siguiente" de una eléctrica de entrada como la Femmto o la Parquer de nuestra otra comparativa. Cuesta más que siete de las ocho guitarras de esa comparativa, y es apenas la más barata de las cinco de marca internacional que comparamos acá. Es otro mundo de precio, no una mejora incremental.
+
+## HSS: humbucker más dos simple coil
+
+Combina un humbucker cerámico en el puente con dos simple coil cerámicos, la misma lógica de versatilidad que el Ibanez GRX40 de nuestra otra comparativa: sonidos limpios con los simple coil y más peso con el humbucker.
+
+## La contradicción de la ficha sobre el puente
+
+Antes de comprar conviene saber esto: la ficha se contradice sobre el tipo de puente. Clasifica el puente como **Synch trémolo** y declara que tiene **palanca**, pero el campo "Tipo de puente" dice **Fijo**. Los tres datos no pueden ser ciertos a la vez. No lo publicamos como un dato único: si te importa confirmar si tiene trémolo o no, preguntale al vendedor antes de comprar.
+
+## Sin estuche incluido
+
+Su ficha declara explícitamente que no incluye estuche. A este nivel de precio, conviene sumar uno rígido aparte para proteger la inversión.
+
+## Contra las otras guitarras de la comparativa
+
+La [Gretsch Streamliner G2622T](/producto/guitarra-electrica-gretsch-streamliner-g2622t-mla46518777) cuesta bastante más, con un cuerpo semihueco y trémolo, un tramo distinto de sonido y de precio.
+
+El [Fender Standard Telecaster](/producto/guitarra-electrica-fender-standard-telecaster-mla47298027) cuesta {{preciodif:MLA47298027:MLA23305108}} más, un escalón más adentro de Fender, con la forma Telecaster en vez de Stratocaster.
+
+La [Fender American Professional II](/producto/guitarra-electrica-fender-american-professional-ii-stratocaster-mla18258523) cuesta {{preciodif:MLA18258523:MLA23305108}} más, la más cara de esta comparativa, hecha en Estados Unidos.
+
+## Para quién es, y para quién no
+
+Es para vos si querés entrar a Fender de verdad sin pagar por una guitarra hecha en Estados Unidos, y entendés que Squier no es una marca inferior, es la línea económica oficial.
+
+No es para vos si venís de una eléctrica de entrada y buscás una mejora incremental de precio: esta Squier es un salto grande, no un paso chico, y conviene tenerlo presupuestado antes de comparar.`,
+    faq: [
+      { question: "¿Squier es lo mismo que Fender?", answer: "Squier es la línea económica que la propia Fender diseña, fabrica y vende, la misma relación que tiene Epiphone con Gibson. No es una imitación ni una marca aparte: es el punto de entrada real a Fender." },
+      { question: "¿Es un paso siguiente lógico de una eléctrica de entrada?", answer: "No en precio: cuesta más que siete de las ocho guitarras de nuestra comparativa de eléctricas de entrada, y es la más barata de las cinco de marca internacional de esta otra comparativa. Es otro tramo completo, no una mejora incremental." },
+      { question: "¿Tiene trémolo o puente fijo?", answer: "La ficha se contradice: clasifica el puente como Synch trémolo y declara que tiene palanca, pero el campo \"Tipo de puente\" dice Fijo. No podemos confirmar cuál es el dato correcto: conviene preguntarle al vendedor antes de comprar si esto te importa." },
+      { question: "¿Trae estuche incluido?", answer: "No, su ficha lo declara explícitamente. A este nivel de precio, conviene sumar un estuche rígido aparte para proteger la inversión." },
+      { question: "¿Qué configuración de micrófonos tiene?", answer: "Un humbucker cerámico en el puente y dos simple coil cerámicos (configuración HSS), la misma lógica de versatilidad que el Ibanez GRX40 de nuestra otra comparativa." },
+      { question: "¿Cuántos trastes tiene?", answer: "21 trastes, uno menos que la mayoría de las eléctricas de nuestra otra comparativa de entrada." },
+      { question: "¿Vale la pena pagar más por el Telecaster o la American Professional II?", answer: "Depende de qué busques. El Fender Standard Telecaster cuesta {{preciodif:MLA47298027:MLA23305108}} más y suma la forma Telecaster. La American Professional II cuesta {{preciodif:MLA18258523:MLA23305108}} más y está hecha en Estados Unidos, un escalón de fabricación completamente distinto." },
+      { question: "¿Tiene buena base de opiniones?", answer: "Sí, {{reviews:MLA23305108}} calificaciones, la base más grande de las cinco guitarras de marca internacional que comparamos, y empata el rating más alto junto con la American Professional II." },
+    ],
   },
   {
     id: "MLA46518777",
@@ -2475,7 +3837,7 @@ export const curatedProducts: Product[] = [
     freeShipping: false,
     rating: 5,
     reviewCount: 10,
-    reviewsSampledAt: "2026-08-27",
+    reviewsSampledAt: "2026-09-03",
     visibility: "normal",
     priceUpdated: "2026-09-04",
     priceLastChecked: "2026-09-04",
@@ -2512,6 +3874,53 @@ export const curatedProducts: Product[] = [
       { label: "Modelo", value: "G2622T, línea Streamliner" },
     ],
     relatedProducts: ["MLA23305108", "MLA17453014", "MLA47298027"],
+    articleBody: `## Qué es la Gretsch Streamliner G2622T
+
+Es la línea de entrada real a Gretsch, la marca conocida por el sonido rockabilly y los cuerpos semihuecos. Cuesta {{precio:MLA46518777}} y tiene {{reviews:MLA46518777}} estrellas con {{rating:MLA46518777}} de rating en MercadoLibre Argentina, en [nuestra comparativa de Fender, Gibson y Gretsch en Argentina](/guias/musica/guitarras-de-marca-precio). Al momento de verificar esta ficha, la publicación mostraba última unidad disponible.
+
+## El semihueco que define el sonido de la marca
+
+Su cuerpo es Center Block: un semihueco con un bloque interno de madera que reduce el feedback típico de las guitarras hollow body (completamente huecas) a volumen alto. Es la construcción que sostiene el sonido característico de Gretsch, ni una eléctrica maciza convencional ni una acústica amplificada.
+
+## Trémolo de fábrica, sin la ambigüedad de la Squier
+
+Trae palanca de trémolo, y acá el dato es claro: a diferencia de la [Squier Stratocaster Sonic](/producto/guitarra-electrica-fender-squier-stratocaster-sonic-hss-mla23305108) de esta misma comparativa, cuya ficha se contradice sobre si el puente es fijo o con trémolo, la Gretsch no deja lugar a dudas en ese punto.
+
+## Por qué el stock es escaso de forma estructural
+
+La publicación avisaba última unidad al momento de verificarla, y no es una casualidad de esta ficha puntual. Es de origen Indonesia, la línea más accesible de fabricación de Gretsch: para conseguir la fabricación en Japón o Estados Unidos hay que subir varios escalones más de precio. En Argentina, el stock de guitarras Gretsch reales tiende a ser bajo en general, así que si te interesa esta unidad, conviene moverse rápido.
+
+## Poca evidencia todavía, pero consistente
+
+Tiene apenas {{reviews:MLA46518777}} calificaciones, una de las bases más chicas de esta comparativa. Su {{rating:MLA46518777}} es perfecto, pero con tan poca evidencia conviene leerlo con la misma cautela que aplicamos a cualquier ficha con pocas opiniones.
+
+## Lo que la ficha no confirma
+
+No lista si incluye estuche o amplificador. A este nivel de precio, es habitual que no vengan incluidos, pero conviene confirmarlo con el vendedor antes de comprar.
+
+## Contra las otras guitarras de la comparativa
+
+Cuesta {{preciodif:MLA46518777:MLA23305108}} más que la Squier Stratocaster Sonic, que es Fender de verdad pero en un tramo de precio bastante más accesible.
+
+El [Fender Standard Telecaster](/producto/guitarra-electrica-fender-standard-telecaster-mla47298027) cuesta prácticamente lo mismo, otro tramo de Fender, con forma Telecaster maciza en vez del semihueco de esta Gretsch.
+
+La [Gibson Les Paul Tribute](/producto/guitarra-electrica-gibson-les-paul-tribute-mla17453014) cuesta {{preciodif:MLA17453014:MLA46518777}} más, el Gibson real más accesible que encontramos, hecho en Estados Unidos.
+
+## Para quién es, y para quién no
+
+Es para vos si buscás el sonido semihueco característico de Gretsch, con trémolo de fábrica confirmado, y podés moverte rápido antes de que se agote el stock.
+
+No es para vos si preferís decidir con mucha evidencia de otros compradores detrás: con apenas {{reviews:MLA46518777}} calificaciones, hay poca experiencia local todavía para contrastar.`,
+    faq: [
+      { question: "¿Por qué siempre aparece con poco stock?", answer: "No es casualidad de esta publicación puntual: es de origen Indonesia, la línea más accesible de fabricación de Gretsch, y en Argentina el stock de guitarras Gretsch reales tiende a ser escaso de forma estructural. Si te interesa, conviene moverse rápido." },
+      { question: "¿Qué significa que el cuerpo sea Center Block?", answer: "Es un semihueco con un bloque interno de madera que reduce el feedback típico de las guitarras completamente huecas a volumen alto. Es la construcción que define el sonido característico de Gretsch." },
+      { question: "¿Tiene trémolo de verdad?", answer: "Sí, y sin ambigüedad: a diferencia de la Squier Stratocaster Sonic de esta misma comparativa, cuya ficha se contradice sobre el tipo de puente, la Gretsch declara palanca de trémolo sin contradicciones internas." },
+      { question: "¿Es fabricada en Estados Unidos?", answer: "No, es de origen Indonesia, la línea de entrada de Gretsch. Para la fabricación en Japón o Estados Unidos hay que subir varios escalones más de precio dentro de la marca." },
+      { question: "¿Se puede confiar en su calificación perfecta?", answer: "Con cautela: tiene apenas {{reviews:MLA46518777}} calificaciones, una de las bases más chicas de esta comparativa. El 5.0 es real pero se apoya en poca evidencia todavía." },
+      { question: "¿Incluye estuche?", answer: "Su ficha no lo especifica. A este nivel de precio es habitual que no venga incluido, pero conviene confirmarlo con el vendedor antes de comprar." },
+      { question: "¿Vale la pena pagar más por un Gibson real?", answer: "La Gibson Les Paul Tribute cuesta {{preciodif:MLA17453014:MLA46518777}} más y está hecha en Estados Unidos. Si buscás específicamente el sonido semihueco de Gretsch, esta Streamliner no tiene reemplazo directo; si el objetivo es un Gibson real, ese es otro salto de precio distinto." },
+      { question: "¿Para qué estilo de música sirve mejor?", answer: "Su construcción semihueca y su historia la asocian con el sonido rockabilly, aunque el Center Block también la hace manejable a volúmenes más altos que una hollow body tradicional, sin tanto feedback." },
+    ],
   },
   {
     id: "MLA47298027",
@@ -2529,7 +3938,7 @@ export const curatedProducts: Product[] = [
     freeShipping: false,
     rating: 4.6,
     reviewCount: 9,
-    reviewsSampledAt: "2026-08-27",
+    reviewsSampledAt: "2026-09-03",
     visibility: "normal",
     priceUpdated: "2026-09-04",
     priceLastChecked: "2026-09-04",
@@ -2564,6 +3973,53 @@ export const curatedProducts: Product[] = [
       { label: "Modelo", value: "Telecaster" },
     ],
     relatedProducts: ["MLA23305108", "MLA18258523", "MLA46518777"],
+    articleBody: `## Qué es el Fender Standard Telecaster
+
+Es el escalón intermedio real dentro de la propia Fender: la línea Standard se ubica entre Squier y Player en el catálogo oficial de la marca. Cuesta {{precio:MLA47298027}} y tiene {{reviews:MLA47298027}} calificaciones con {{rating:MLA47298027}} estrellas en MercadoLibre Argentina, en [nuestra comparativa de Fender, Gibson y Gretsch en Argentina](/guias/musica/guitarras-de-marca-precio).
+
+## Un escalón real, no solo un cambio de nombre
+
+Tiene sentido para el que ya sabe que Squier le queda corto, pero todavía no está listo para pagar una guitarra fabricada en Estados Unidos. Es más cara que la Squier de esta comparativa, y sigue siendo fabricada en Indonesia, no en Estados Unidos: para eso hay que subir a la línea American Professional.
+
+## La forma Telecaster: el sonido country y twang
+
+Tiene la silueta de un solo corte que Fender definió en los años 50, asociada históricamente al sonido country y al twang característico. Es una forma distinta a la Stratocaster de la Squier o de la American Professional II de esta comparativa.
+
+## Diapasón de arce, un detalle que se nota
+
+El diapasón es de arce, distinto del palo de rosa que suele verse en guitarras de entrada. No es solo un detalle estético: el arce da un sonido más brillante y definido que el palo de rosa, algo característico de varias Telecaster clásicas.
+
+## Lo que la ficha no confirma: el tipo de micrófono
+
+Declara 2 micrófonos, pero no especifica el tipo. En una Telecaster, lo tradicional son dos simple coil, pero no podemos confirmarlo con certeza para esta publicación puntual: si te importa ese dato específico, preguntale al vendedor antes de comprar.
+
+## Buen stock, algo que no todas tienen en esta comparativa
+
+Al momento de verificar esta ficha, tenía varias unidades disponibles, algo que no todas las guitarras de esta comparativa pueden decir: tanto la Gretsch como el Ibanez de nuestra otra comparativa avisan última unidad de forma recurrente.
+
+## Contra las otras guitarras de la comparativa
+
+Cuesta {{preciodif:MLA47298027:MLA23305108}} más que la [Squier Stratocaster Sonic](/producto/guitarra-electrica-fender-squier-stratocaster-sonic-hss-mla23305108), el punto de entrada a Fender.
+
+Cuesta prácticamente lo mismo que la [Gretsch Streamliner G2622T](/producto/guitarra-electrica-gretsch-streamliner-g2622t-mla46518777), aunque con forma Telecaster maciza en vez del semihueco de la Gretsch.
+
+La [Fender American Professional II](/producto/guitarra-electrica-fender-american-professional-ii-stratocaster-mla18258523) cuesta {{preciodif:MLA18258523:MLA47298027}} más, la línea hecha en Estados Unidos.
+
+## Para quién es, y para quién no
+
+Es para vos si ya probaste con una Squier o una eléctrica de entrada y buscás un escalón real de Fender, con la forma Telecaster clásica, sin pagar todavía por fabricación estadounidense.
+
+No es para vos si el origen de fabricación es tu prioridad número uno: para una Fender hecha en Estados Unidos, hace falta subir a la línea American Professional, otro salto de precio distinto.`,
+    faq: [
+      { question: "¿Dónde se ubica la línea Standard dentro de Fender?", answer: "Entre Squier y Player en el catálogo oficial de la marca. Es un escalón real: más cara que Squier, pero todavía fabricada fuera de Estados Unidos, a diferencia de la línea American Professional." },
+      { question: "¿Es fabricada en Estados Unidos?", answer: "No, es fabricada en Indonesia, la línea Standard. Para una Fender hecha en Estados Unidos, hay que subir a la línea American Professional, que implica otro salto de precio." },
+      { question: "¿Qué tipo de micrófonos tiene?", answer: "Su ficha declara 2 micrófonos pero no especifica el tipo. En una Telecaster tradicional suelen ser dos simple coil, pero no podemos confirmarlo con certeza para esta publicación puntual." },
+      { question: "¿Por qué el diapasón de arce es distinto al palo de rosa?", answer: "El arce da un sonido más brillante y definido que el palo de rosa, algo característico de varias Telecaster clásicas. Es un detalle de sonido, no solo estético." },
+      { question: "¿Tiene buen stock?", answer: "Sí, al momento de verificar esta ficha tenía varias unidades disponibles, a diferencia de otras guitarras de esta comparativa (como la Gretsch) que avisan última unidad de forma recurrente." },
+      { question: "¿Vale la pena pagar más por la American Professional II?", answer: "Si el origen de fabricación te importa, sí: la American Professional II cuesta {{preciodif:MLA18258523:MLA47298027}} más y está hecha en Estados Unidos. Si te alcanza con un escalón real de Fender sin ese salto de precio final, esta Standard cumple." },
+      { question: "¿Tiene mucho respaldo de opiniones?", answer: "No, tiene apenas {{reviews:MLA47298027}} calificaciones, una de las bases más chicas de esta comparativa. Conviene tomar su rating con cautela por la poca evidencia disponible." },
+      { question: "¿Para qué estilo de música sirve mejor?", answer: "La forma Telecaster está asociada históricamente al sonido country y al twang, aunque es una guitarra versátil que se usa en muchos géneros de rock también." },
+    ],
   },
   {
     id: "MLA17453014",
@@ -2581,7 +4037,7 @@ export const curatedProducts: Product[] = [
     freeShipping: false,
     rating: 5,
     reviewCount: 8,
-    reviewsSampledAt: "2026-08-27",
+    reviewsSampledAt: "2026-09-03",
     visibility: "normal",
     priceUpdated: "2026-08-27",
     priceLastChecked: "2026-09-04",
@@ -2620,6 +4076,57 @@ export const curatedProducts: Product[] = [
       { label: "Modelo", value: "Les Paul Tribute" },
     ],
     relatedProducts: ["MLA46518777", "MLA18258523", "MLA23305108"],
+    articleBody: `## Qué es la Gibson Les Paul Tribute
+
+Es el Gibson real más accesible que pudimos verificar con stock en Argentina: fabricada en Estados Unidos, no una línea económica como Epiphone. Cuesta {{precio:MLA17453014}} y tiene {{reviews:MLA17453014}} calificaciones con {{rating:MLA17453014}} estrellas en MercadoLibre Argentina, en [nuestra comparativa de Fender, Gibson y Gretsch en Argentina](/guias/musica/guitarras-de-marca-precio). Al momento de verificar esta ficha, la publicación mostraba última unidad disponible.
+
+## Gibson real, no Epiphone: la aclaración que importa
+
+Su ficha declara origen Estados Unidos, sin ambigüedad. Es el mismo tipo de distinción que la de Squier con Fender, pero al revés: acá Gibson es la marca real y Epiphone (que aparece en nuestra otra comparativa de eléctricas de entrada) es su línea económica. Si buscás específicamente un Gibson, esta es la puerta de entrada real, no una alternativa con nombre parecido.
+
+## La construcción clásica de una Les Paul
+
+Cuerpo y mástil de caoba maciza, con tapa de arce, la combinación de materiales que define a una Les Paul desde hace décadas. El mástil es encolado (set-in), no atornillado, una construcción distinta a la de casi todas las demás guitarras de nuestras comparativas, que suelen ser atornilladas.
+
+## Sin trémolo: puente fijo Tune-o-matic
+
+No tiene palanca de trémolo. Su puente es fijo, tipo Tune-o-matic, así que no se pueden hacer bends de palanca como en una Stratocaster. Es una elección de diseño tradicional de Gibson, no una limitación del modelo puntual.
+
+## Trae estuche y kit de accesorios de Gibson
+
+Según su ficha, incluye estuche y un kit de accesorios de la propia marca. A este nivel de precio es lo esperable, y acá se confirma.
+
+## Por qué el stock es escaso de forma estructural
+
+Su publicación avisaba última unidad al momento de verificarla. En la práctica, es lo normal: casi todo el catálogo de Gibson real en Argentina aparece así. No es una urgencia fabricada de esta publicación puntual, es el patrón habitual de disponibilidad de la marca en el país.
+
+## La base de opiniones más chica de esta comparativa
+
+Tiene apenas {{reviews:MLA17453014}} calificaciones, la base más chica de las cinco guitarras de marca que comparamos. Su 5.0 es real, pero con tan pocas opiniones conviene tomarlo con la misma cautela que aplicamos a cualquier ficha con poca evidencia.
+
+## Contra las otras guitarras de la comparativa
+
+Cuesta {{preciodif:MLA17453014:MLA46518777}} más que la [Gretsch Streamliner G2622T](/producto/guitarra-electrica-gretsch-streamliner-g2622t-mla46518777), otra marca real con stock igual de escaso.
+
+Cuesta {{preciodif:MLA18258523:MLA17453014}} menos que la [Fender American Professional II](/producto/guitarra-electrica-fender-american-professional-ii-stratocaster-mla18258523), también hecha en Estados Unidos pero de otra marca y otra forma de cuerpo.
+
+Cuesta {{preciodif:MLA17453014:MLA23305108}} más que la [Squier Stratocaster Sonic](/producto/guitarra-electrica-fender-squier-stratocaster-sonic-hss-mla23305108), el punto de entrada de esta comparativa.
+
+## Para quién es, y para quién no
+
+Es para vos si específicamente buscás un Gibson real, con la construcción clásica de una Les Paul, y podés moverte rápido antes de que se agote la unidad disponible.
+
+No es para vos si buscás trémolo o si preferís apoyarte en mucha evidencia de otros compradores: con apenas {{reviews:MLA17453014}} calificaciones, hay poca experiencia local todavía.`,
+    faq: [
+      { question: "¿Es un Gibson real o una línea económica como Epiphone?", answer: "Es Gibson real, fabricada en Estados Unidos según su ficha. Epiphone es la línea económica de Gibson (aparece en nuestra otra comparativa de eléctricas de entrada), no esta." },
+      { question: "¿Por qué siempre aparece con última unidad?", answer: "No es una casualidad de esta publicación puntual: casi todo el catálogo de Gibson real en Argentina aparece con stock mínimo. Es el patrón habitual de disponibilidad de la marca en el país, no una alarma fabricada." },
+      { question: "¿Tiene palanca de trémolo?", answer: "No. Su puente es fijo, tipo Tune-o-matic, así que no se pueden hacer bends de palanca. Es una elección de diseño tradicional de las Les Paul, no una limitación puntual de este modelo." },
+      { question: "¿Trae estuche?", answer: "Sí, según su ficha incluye estuche y un kit de accesorios de la propia Gibson." },
+      { question: "¿Qué maderas tiene?", answer: "Cuerpo y mástil de caoba maciza, con tapa de arce, la combinación clásica de una Les Paul. El mástil es encolado (set-in), no atornillado como en la mayoría de las eléctricas de esta y nuestra otra comparativa." },
+      { question: "¿Se puede confiar en su calificación perfecta?", answer: "Con cautela: tiene apenas {{reviews:MLA17453014}} calificaciones, la base más chica de las cinco guitarras de marca que comparamos. El 5.0 es real pero se apoya en muy poca evidencia todavía." },
+      { question: "¿Vale la pena pagar más por la Fender American Professional II?", answer: "La Fender cuesta {{preciodif:MLA18258523:MLA17453014}} más y está hecha en Estados Unidos también, pero es otra marca y otra forma de cuerpo (Stratocaster contra Les Paul). La elección pasa por preferencia de sonido y forma, no por cuál es objetivamente superior." },
+      { question: "¿Conviene más esta o la Gretsch Streamliner?", answer: "La Gretsch cuesta {{preciodif:MLA17453014:MLA46518777}} menos y ofrece un sonido semihueco completamente distinto. Si buscás específicamente un Gibson real con construcción Les Paul, esta no tiene reemplazo directo dentro de esta comparativa." },
+    ],
   },
   {
     id: "MLA18258523",
@@ -2637,7 +4144,7 @@ export const curatedProducts: Product[] = [
     freeShipping: false,
     rating: 4.9,
     reviewCount: 14,
-    reviewsSampledAt: "2026-08-27",
+    reviewsSampledAt: "2026-09-03",
     visibility: "normal",
     priceUpdated: "2026-09-04",
     priceLastChecked: "2026-09-04",
@@ -2677,6 +4184,49 @@ export const curatedProducts: Product[] = [
       { label: "Modelo", value: "Stratocaster" },
     ],
     relatedProducts: ["MLA17453014", "MLA47298027", "MLA23305108"],
+    articleBody: `## Qué es la Fender American Professional II
+
+Es el techo de esta comparativa: la línea que Fender fabrica en Estados Unidos con sus mejores micrófonos, no una versión con el nombre parecido. Cuesta {{precio:MLA18258523}} y tiene {{reviews:MLA18258523}} calificaciones con {{rating:MLA18258523}} estrellas en MercadoLibre Argentina, en [nuestra comparativa de Fender, Gibson y Gretsch en Argentina](/guias/musica/guitarras-de-marca-precio). Al momento de verificar esta ficha, quedaban 3 unidades disponibles.
+
+## Hecha en Estados Unidos, y su ficha lo declara
+
+Es la línea American Professional II, la gama alta de Fender fabricada en Estados Unidos. Su ficha lo declara sin ambigüedad, a diferencia de la Squier (fabricada donde Fender decide para la línea económica) o la Standard (fabricada en Indonesia) de esta misma comparativa.
+
+## Micrófonos diseñados para esta línea, no genéricos
+
+Trae micrófonos V-Mod II, diseñados específicamente para esta línea, no los genéricos que suelen traer las guitarras de entrada. Es una de las diferencias técnicas reales que justifican el salto de precio, más allá del país de fabricación.
+
+## Trae estuche: algo que ni la Squier ni la Standard confirman
+
+Incluye estuche. La Squier de esta comparativa declara explícitamente que no lo trae, y la Standard directamente no lo lista en su ficha. A este nivel de precio, es esperable que venga incluido, y acá se confirma.
+
+## El salto de precio contra la propia Standard
+
+Antes de decidir, conviene tener esto claro: el salto de precio contra la línea Standard de la propia Fender es de más del doble. A este precio, la decisión ya no es sobre si conviene o no comparado con otra guitarra: es sobre si el instrumento te va a acompañar muchos años, porque la diferencia con el escalón anterior de la misma marca es enorme.
+
+## Contra las otras guitarras de la comparativa
+
+Es la más cara de toda esta comparativa: cuesta {{preciodif:MLA18258523:MLA23305108}} más que la Squier Stratocaster Sonic, el punto de entrada a Fender.
+
+Cuesta {{preciodif:MLA18258523:MLA47298027}} más que el [Fender Standard Telecaster](/producto/guitarra-electrica-fender-standard-telecaster-mla47298027), el escalón intermedio de la propia marca.
+
+Cuesta {{preciodif:MLA18258523:MLA17453014}} más que la [Gibson Les Paul Tribute](/producto/guitarra-electrica-gibson-les-paul-tribute-mla17453014), el Gibson real más accesible que encontramos, también hecho en Estados Unidos.
+
+## Para quién es, y para quién no
+
+Es para vos si ya tocás en serio, sabés que vas a quedarte con el instrumento muchos años, y querés la fabricación estadounidense de Fender sin concesiones.
+
+No es para vos si estás probando si te gusta el instrumento, o si el presupuesto es una variable importante: el salto contra la línea Standard de la propia Fender es de más del doble, y hay opciones bastante más accesibles en esta misma comparativa.`,
+    faq: [
+      { question: "¿Es realmente hecha en Estados Unidos?", answer: "Sí, su ficha lo declara sin ambigüedad. Es la línea American Professional II, la gama alta de Fender fabricada en Estados Unidos, a diferencia de la Squier o la línea Standard de esta misma comparativa." },
+      { question: "¿Qué diferencia tienen los micrófonos V-Mod II?", answer: "Están diseñados específicamente para esta línea, no son los genéricos que suelen traer las guitarras de entrada. Es una de las diferencias técnicas reales detrás del salto de precio." },
+      { question: "¿Incluye estuche?", answer: "Sí. Es una diferencia concreta frente a la Squier de esta comparativa, que declara explícitamente que no lo incluye, y frente a la Standard, que directamente no lo lista." },
+      { question: "¿Vale la pena el salto de precio contra la línea Standard?", answer: "Depende de tu nivel. El salto contra la Standard de la propia Fender es de más del doble. Tiene sentido si ya tocás en serio y sabés que te va a acompañar muchos años; si todavía estás probando, la Standard o la Squier de esta comparativa son puntos de entrada más razonables." },
+      { question: "¿Tiene mucho respaldo de opiniones?", answer: "No, tiene apenas {{reviews:MLA18258523}} calificaciones. A este precio, muy poca gente compra y deja reseña, así que la base de evidencia es chica en términos absolutos, aunque razonable para el volumen de ventas de una guitarra de este nivel." },
+      { question: "¿Qué opciones de diapasón tiene?", answer: "La publicación ofrece arce o palo de rosa como opciones de material del diapasón. Esta ficha corresponde a la versión con diapasón de arce." },
+      { question: "¿Vale la pena pagar más por esta que por un Gibson real?", answer: "Esta Fender cuesta {{preciodif:MLA18258523:MLA17453014}} más que la Gibson Les Paul Tribute de esta comparativa, el Gibson real más accesible que encontramos. La elección entre ambas pasa más por preferencia de sonido y forma (Stratocaster contra Les Paul) que por cuál es objetivamente mejor." },
+      { question: "¿Está en stock?", answer: "Al momento de verificar esta ficha, quedaban 3 unidades disponibles. A este nivel de precio, el stock suele ser más limitado que en las guitarras de entrada." },
+    ],
   },
   {
     id: "MLA23214055",
@@ -2694,7 +4244,7 @@ export const curatedProducts: Product[] = [
     freeShipping: false,
     rating: 5,
     reviewCount: 21,
-    reviewsSampledAt: "2026-08-27",
+    reviewsSampledAt: "2026-09-03",
     visibility: "normal",
     priceUpdated: "2026-08-27",
     priceLastChecked: "2026-09-04",
@@ -2730,6 +4280,45 @@ export const curatedProducts: Product[] = [
       { label: "Modelo", value: "PAC012, línea Pacifica" },
     ],
     relatedProducts: ["MLA17469502", "MLA17488700", "MLA25602058"],
+    articleBody: `## Qué es la Yamaha Pacifica PAC012
+
+Es la marca de mayor trayectoria de todo nuestro catálogo de eléctricas, y la Pacifica es justamente el modelo por el que Yamaha es conocida entre quien está empezando. Cuesta {{precio:MLA23214055}} y tiene {{reviews:MLA23214055}} calificaciones con {{rating:MLA23214055}} estrellas en MercadoLibre Argentina, en [nuestra comparativa de cuánto sale una guitarra eléctrica en Argentina](/guias/musica/guitarra-electrica-precio). Al momento de verificar esta ficha, la publicación mostraba una sola unidad disponible: si te interesa, no des por sentado que va a seguir en stock.
+
+## Por qué es la más recomendada del mundo para empezar
+
+Yamaha fabrica instrumentos desde hace más de un siglo, y la Pacifica es una de las eléctricas de entrada más recomendadas en foros y tiendas de instrumentos a nivel mundial, no solo en Argentina. Combina un humbucker en el puente con dos simple coil (configuración HSS), la misma lógica de versatilidad que el Ibanez GRX40 de esta comparativa, pero de una marca con más historia detrás.
+
+## La paradoja: la marca más conocida, con menos evidencia
+
+Acá hay algo que llama la atención: pese a ser la marca de mayor trayectoria de esta comparativa, tiene la base de opiniones más chica de las ocho, incluso más chica que la de la Epiphone SG Special. Su {{rating:MLA23214055}} es real, pero se apoya en poquísima gente. No es una señal de mala calidad (la reputación de la Pacifica es sólida a nivel mundial), pero sí significa que hay menos experiencias locales con las que contrastar antes de comprar.
+
+## Sin estuche, sin amplificador: hay que sumar todo
+
+Su ficha declara explícitamente que no incluye estuche, y su publicación tampoco lista amplificador incluido. Siendo la más cara de las ocho, es también la que más gasto extra deja pendiente si estás arrancando de cero.
+
+## Contra las otras eléctricas de la comparativa
+
+Cuesta {{preciodif:MLA23214055:MLA17469502}} más que el [Ibanez RG GIO GRX40](/producto/guitarra-electrica-ibanez-rg-gio-grx40-superstrat-mla17469502), que ofrece una configuración de micrófonos similar (versatilidad entre simple coil y humbucker), aunque de otra marca.
+
+Cuesta {{preciodif:MLA23214055:MLA17488700}} más que el [Jackson JS11](/producto/guitarra-electrica-jackson-js11-dinky-de-alamo-mla17488700), que tiene casi 800 calificaciones respaldándolo, muchas más que esta Yamaha.
+
+Cuesta {{preciodif:MLA23214055:MLA25602058}} más que las dos [Femmto EG001](/producto/guitarra-electrica-femmto-eg001-con-amplificador-mla25602058), que además resuelven guitarra y amplificador en la misma compra.
+
+## Para quién es, y para quién no
+
+Es para vos si valorás la reputación mundial de la marca por encima de la evidencia local, y el presupuesto te permite ser la opción más cara de esta comparativa sin que eso te frene.
+
+No es para vos si preferís apoyarte en muchas opiniones de otros compradores antes de decidir: para eso, el Jackson JS11 o las Femmto EG001 de esta comparativa tienen bases de opiniones bastante más grandes.`,
+    faq: [
+      { question: "¿Por qué es la más cara de esta comparativa?", answer: "Cuesta {{preciodif:MLA23214055:MLA17375288}} más que la Femmto EG001 negra, la más barata del grupo. La diferencia se explica en la trayectoria de la marca: Yamaha fabrica instrumentos desde hace más de un siglo, y la Pacifica es su modelo de entrada más reconocido a nivel mundial." },
+      { question: "¿Por qué tiene tan pocas calificaciones si es tan conocida?", answer: "Es una paradoja real de esta ficha en particular: tiene la base de opiniones más chica de las ocho guitarras que comparamos, incluso menor que la de la Epiphone SG Special. No refleja la reputación mundial de la Pacifica, sino que esta publicación puntual en MercadoLibre Argentina todavía tiene poca evidencia local." },
+      { question: "¿Está en stock?", answer: "Al momento de verificar esta ficha, la publicación mostraba una sola unidad disponible. Si te interesa, conviene actuar rápido: no hay garantía de que siga en stock." },
+      { question: "¿Incluye estuche o amplificador?", answer: "No, ninguno de los dos. Su ficha declara explícitamente que no incluye estuche, y la publicación tampoco lista amplificador. Siendo la más cara de esta comparativa, también es la que más gasto extra deja pendiente." },
+      { question: "¿Qué configuración de micrófonos tiene?", answer: "Un humbucker en el puente y dos simple coil (configuración HSS), la misma lógica de versatilidad que el Ibanez RG GIO GRX40 de esta comparativa: sonidos limpios con los simple coil y más peso con el humbucker." },
+      { question: "¿Vale la pena pagar tanto más que por un Jackson o un Ibanez?", answer: "Depende de qué priorices. El Jackson JS11 cuesta {{preciodif:MLA23214055:MLA17488700}} menos y tiene casi 800 calificaciones respaldándolo, muchas más que esta Yamaha. Si preferís apoyarte en evidencia de otros compradores, el Jackson da más tranquilidad; si priorizás la trayectoria de marca, la Yamaha es la opción de mayor prestigio." },
+      { question: "¿Qué madera tiene el cuerpo?", answer: "Caoba, con mástil de arce. Escala de 648 mm y 22 trastes, las medidas estándar de una guitarra eléctrica." },
+      { question: "¿Es una buena guitarra para empezar?", answer: "Según su reputación mundial, sí: la Pacifica es una de las eléctricas de entrada más recomendadas en foros y tiendas de instrumentos a nivel global, no solo en Argentina. Localmente, esta publicación puntual todavía tiene poca evidencia de compradores." },
+    ],
   },
   {
     id: "MLA17375288",
@@ -2756,7 +4345,7 @@ export const curatedProducts: Product[] = [
     seoTitle: "Femmto EG001 negra: precio y una ficha que se contradice sola",
     metaDescription: "Guitarra eléctrica Femmto EG001 negra a {{precio:MLA17375288}}. Mismo modelo que la azul del catálogo. Su ficha estructurada y su descripción no coinciden sobre si trae funda.",
     pros: [
-      "Es de las más baratas de las guitarras eléctricas del catálogo, {{preciodif:MLA25602058:MLA17375288}} menos que la misma EG001 en azul",
+      "Es de las más baratas de las guitarras eléctricas del catálogo, prácticamente al mismo precio que la misma EG001 en azul",
       "La descripción de la publicación lista más de lo que aparece en la ficha técnica: amplificador MA-5, palanca de trémolo, 2 llaves allen, 3 púas y un juego extra de cuerdas",
       "{{reviews:MLA17375288}} calificaciones, una base grande y consistente con la de la versión azul",
       "Mismas specs que la versión azul: 3 micrófonos con selector de 5 posiciones, 22 trastes, escala de 650 mm",
@@ -2781,12 +4370,59 @@ export const curatedProducts: Product[] = [
       { label: "Incluye funda o estuche", value: "El campo estructurado de la ficha declara que no, pero la descripción de la misma publicación lista funda de poliéster 600D entre lo incluido. Es una contradicción de la propia publicación: confirmalo con el vendedor antes de comprar" },
       { label: "Accesorios que lista la descripción", value: "Cable, palanca de trémolo, correa, 2 llaves allen, 3 púas y un juego extra de cuerdas" },
       { label: "Acabado", value: "Brillante" },
-      { label: "Color", value: "Negro" },
+      { label: "Color", value: "La publicación la vende como negra, pero la ficha técnica estructurada declara el color como Blanco/Negro (cuerpo blanco con pickguard negro, el clásico dos tonos de una Stratocaster)" },
       { label: "Origen", value: "China" },
       { label: "Marca", value: "Femmto" },
       { label: "Modelo", value: "EG001" },
     ],
     relatedProducts: ["MLA25602058", "MLA40485883", "MLA19464828"],
+    articleBody: `## Qué es la Femmto EG001 negra
+
+Es un combo de guitarra eléctrica con amplificador incluido, una de las dos únicas opciones de esta comparativa que trae ambas cosas juntas. Cuesta {{precio:MLA17375288}} y tiene {{reviews:MLA17375288}} calificaciones con {{rating:MLA17375288}} estrellas en MercadoLibre Argentina, en [nuestra comparativa de cuánto sale una guitarra eléctrica en Argentina](/guias/musica/guitarra-electrica-precio).
+
+## Por qué el amplificador incluido es la diferencia que más importa
+
+Una eléctrica sola no suena: necesita un amplificador para poder escucharse. De las ocho guitarras que comparamos, solo dos lo incluyen, y esta es una de ellas. La descripción de la publicación identifica el modelo como MA-5, de 5 W. No es un amplificador de estudio ni pensado para tocar en vivo, pero resuelve el problema de arrancar sin gastar en un segundo producto aparte.
+
+## Una contradicción real sobre si trae funda
+
+Antes de comprar conviene saber esto: el campo estructurado de la ficha técnica declara **"Incluye estuche: No"**, pero la descripción de la misma publicación lista una **funda de poliéster 600D** entre lo que incluye el combo. Las fotos del producto muestran la funda como parte del paquete, lo que apoya la versión de la descripción, pero preferimos avisar la contradicción antes de que lo confirmes recién cuando te llegue el pedido: preguntale al vendedor cuál de los dos datos es el correcto.
+
+## El color no es exactamente "negra"
+
+El nombre de la publicación la vende como "negra", pero la ficha técnica estructurada declara el color como **Blanco/Negro**: cuerpo blanco con pickguard negro, el clásico dos tonos de una Stratocaster. No es necesariamente un error, puede ser una forma coloquial de nombrarla, pero si esperás un cuerpo completamente negro, esta publicación no es exactamente eso.
+
+## El diapasón es de fibra prensada, no madera maciza
+
+Es de MDF, un material de fibra prensada en vez de madera maciza. Es la contra técnica más concreta del combo, y es la misma que tiene su versión azul, así que no es un defecto de esta unidad en particular sino del modelo completo.
+
+## Lo que dice la reseña sobre el amplificador
+
+Según la reseña más votada de la publicación de la versión azul, el amplificador es la parte floja del combo. Tiene sentido tratándose de un amplificador de entrada de 5 W: sirve para practicar en tu cuarto, no para mucho más.
+
+## Contra las otras eléctricas de la comparativa
+
+Es prácticamente el mismo precio que su [versión azul](/producto/guitarra-electrica-femmto-eg001-con-amplificador-mla25602058): mismo instrumento, mismo amplificador, mismas contras. La diferencia real entre ambas es solo el color.
+
+La [Parquer ST300 Stratocaster](/producto/guitarra-electrica-stratocaster-parquer-st300-con-funda-mla40731408) cuesta prácticamente lo mismo, con una forma de cuerpo Stratocaster reconocible, aunque sin amplificador incluido.
+
+El [Jackson JS11](/producto/guitarra-electrica-jackson-js11-dinky-de-alamo-mla17488700) cuesta {{preciodif:MLA17488700:MLA17375288}} más, ya en el tramo de las marcas internacionales, también sin amplificador en el combo.
+
+## Para quién es, y para quién no
+
+Es para vos si estás arrancando de cero y necesitás guitarra y amplificador juntos sin hacer una segunda compra, y no te molesta que el amplificador sea de entrada.
+
+No es para vos si ya tenés amplificador y solo buscás el instrumento: en ese caso, pagar por el combo completo no tiene sentido, y te conviene mirar una guitarra sola de esta comparativa.`,
+    faq: [
+      { question: "¿Trae amplificador incluido?", answer: "Sí, es una de las dos únicas guitarras de esta comparativa que lo incluye. La descripción de la publicación lo identifica como modelo MA-5, de 5 W, pensado para practicar, no para tocar en vivo." },
+      { question: "¿Incluye funda o estuche?", answer: "Hay una contradicción real en la propia publicación: el campo estructurado dice \"Incluye estuche: No\", pero la descripción lista una funda de poliéster 600D entre lo incluido, y las fotos del producto la muestran como parte del paquete. Preferimos avisar esta contradicción y recomendar confirmarla con el vendedor antes de comprar." },
+      { question: "¿Es realmente negra?", answer: "El nombre de la publicación la vende como negra, pero la ficha técnica declara el color como Blanco/Negro: cuerpo blanco con pickguard negro, el clásico dos tonos de una Stratocaster. Si esperás un cuerpo completamente negro, esta publicación no es exactamente eso." },
+      { question: "¿Qué diferencia real tiene con la versión azul?", answer: "Ninguna en specs: mismo instrumento, mismo amplificador MA-5, mismos accesorios según la descripción. Cuestan prácticamente lo mismo. La única diferencia real es el color." },
+      { question: "¿De qué material es el diapasón?", answer: "MDF, fibra prensada en vez de madera maciza. Es la contra técnica más concreta del combo, y es la misma en la versión azul." },
+      { question: "¿El amplificador que trae es bueno?", answer: "Según la reseña más votada de la publicación de la versión azul, es la parte floja del combo. Tiene sentido: es un amplificador de entrada de 5 W, pensado para practicar en tu cuarto, no para más que eso." },
+      { question: "¿Vale la pena si ya tengo amplificador?", answer: "No especialmente: estás pagando por un combo completo cuando solo necesitás el instrumento. Si ya tenés con qué amplificarla, puede convenir más mirar una guitarra sola de esta comparativa." },
+      { question: "¿Cuántos trastes y micrófonos tiene?", answer: "22 trastes y 3 micrófonos con selector de 5 posiciones, con escala de 650 mm, la medida estándar de una guitarra eléctrica." },
+    ],
   },
   {
     id: "MLA40731408",
@@ -2822,7 +4458,7 @@ export const curatedProducts: Product[] = [
       "Su publicación no lista amplificador incluido, a diferencia de las dos Femmto EG001 de esta comparativa",
       "El mismo comprador avisa que trastea un poco y que hay que calibrarla antes de usarla, algo de esperar en esta gama",
       "Su ficha no lista el tipo de micrófonos ni el tipo de puente, así que esos dos datos quedan sin confirmar",
-      "Sale {{preciodif:MLA40731408:MLA17375288}} más que la EG001 negra, que sí trae amplificador",
+      "Cuesta prácticamente lo mismo que las dos Femmto EG001 de esta comparativa, que sí traen amplificador incluido",
     ],
     verdict: "Es la puerta de entrada a una forma de guitarra reconocible: Stratocaster de verdad, no una eléctrica genérica como las Femmto. Viene con funda, que a este precio no siempre pasa. La contra a tener clara es que su publicación no lista amplificador incluido: sin uno, o sin un pedal con salida de auriculares, una eléctrica sola no suena.",
     specs: [
@@ -2842,6 +4478,47 @@ export const curatedProducts: Product[] = [
       { label: "Modelo", value: "ST300BK" },
     ],
     relatedProducts: ["MLA25602058", "MLA17488700", "MLA19464828"],
+    articleBody: `## Qué es la Parquer ST300
+
+Es la primera guitarra de esta comparativa con una forma de cuerpo reconocible: Stratocaster de verdad, no una eléctrica genérica como las dos Femmto EG001. Cuesta {{precio:MLA40731408}} y tiene {{reviews:MLA40731408}} calificaciones con {{rating:MLA40731408}} estrellas en MercadoLibre Argentina, en [nuestra comparativa de cuánto sale una guitarra eléctrica en Argentina](/guias/musica/guitarra-electrica-precio).
+
+## La puerta de entrada a una forma clásica
+
+A este precio, es la opción más económica de esta comparativa con una forma de cuerpo que cualquiera reconoce como Stratocaster. Trae funda incluida, algo que ni el Jackson ni los dos Epiphone de esta comparativa listan. La escala es de 610 mm, más corta que el resto de las eléctricas que comparamos, lo que puede facilitar el agarre a manos chicas.
+
+## La contra central: no trae amplificador
+
+Su publicación no lista amplificador incluido, a diferencia de las dos Femmto EG001 de esta comparativa, que sí lo traen. Una eléctrica sola no suena: si no tenés con qué amplificarla o un pedal con salida de auriculares, vas a necesitar sumar ese gasto aparte.
+
+## Lo que confirma un comprador con expectativas realistas
+
+Una reseña la resume mejor que cualquier ficha técnica: **"dentro de la gama baja está muy aceptable, no pierde la afinación ni haciéndole bends"**. El mismo comprador avisa que trastea un poco y que hay que calibrarla antes de usarla, algo esperable en esta gama de precio, no un defecto exclusivo de esta unidad.
+
+## Datos que la ficha no confirma
+
+Su publicación no lista el tipo de micrófonos ni el tipo de puente, así que esos dos datos quedan sin confirmar. Si te importan esos detalles técnicos específicos, conviene preguntarle al vendedor antes de comprar.
+
+## Contra las otras eléctricas de la comparativa
+
+Cuesta prácticamente lo mismo que las dos [Femmto EG001](/producto/guitarra-electrica-femmto-eg001-con-amplificador-mla25602058), que sí traen amplificador incluido, pero con forma de cuerpo genérica en vez de Stratocaster.
+
+El [Jackson JS11](/producto/guitarra-electrica-jackson-js11-dinky-de-alamo-mla17488700) cuesta {{preciodif:MLA17488700:MLA40731408}} más, ya en el tramo de marca internacional, también sin amplificador en el combo.
+
+## Para quién es, y para quién no
+
+Es para vos si ya tenés con qué amplificarla y buscás la forma de cuerpo Stratocaster reconocible al mejor precio de esta comparativa.
+
+No es para vos si estás arrancando de cero sin amplificador: en ese caso, las dos Femmto EG001 de esta comparativa resuelven guitarra y amplificador en la misma compra, al mismo precio que esta.`,
+    faq: [
+      { question: "¿Es una Stratocaster de verdad?", answer: "Sí, en la forma del cuerpo: es la primera de las formas de guitarra reconocibles de esta comparativa por precio, a diferencia de las dos Femmto EG001, que son eléctricas de forma genérica." },
+      { question: "¿Trae amplificador incluido?", answer: "No, su publicación no lo lista, a diferencia de las dos Femmto EG001 de esta comparativa. Sin amplificador o un pedal con salida de auriculares, no vas a poder escucharla." },
+      { question: "¿Incluye funda?", answer: "Sí, funda incluida, algo que ni el Jackson JS11 ni los dos Epiphone de esta comparativa listan en su publicación." },
+      { question: "¿Es de buena calidad para el precio?", answer: "Según una reseña con expectativas realistas, sí: \"dentro de la gama baja está muy aceptable, no pierde la afinación ni haciéndole bends\". El mismo comprador avisa que trastea un poco y hay que calibrarla al principio, algo esperable en esta gama." },
+      { question: "¿Qué tipo de micrófonos y puente tiene?", answer: "Su publicación no lo especifica, así que esos dos datos técnicos quedan sin confirmar. Conviene preguntarle al vendedor si te importan los detalles específicos." },
+      { question: "¿Vale la pena si ya tengo amplificador?", answer: "Sí, es una buena opción en ese caso: pagás por una forma de cuerpo Stratocaster reconocible al mismo precio que las Femmto EG001, sin pagar de más por un amplificador que ya tenés." },
+      { question: "¿Para manos chicas es más cómoda?", answer: "Puede serlo: su escala es de 610 mm, más corta que el resto de las eléctricas de esta comparativa, lo que facilita el agarre." },
+      { question: "¿Vale la pena pagar más por el Jackson JS11?", answer: "Si buscás una marca internacional con más respaldo, sí: el Jackson cuesta {{preciodif:MLA17488700:MLA40731408}} más. Si el presupuesto es la prioridad y te alcanza con una Stratocaster de forma reconocible, esta ST300 cumple a bastante menos precio." },
+    ],
   },
   {
     id: "MLA17488700",
@@ -2897,6 +4574,53 @@ export const curatedProducts: Product[] = [
       { label: "Modelo", value: "JS11, serie JS" },
     ],
     relatedProducts: ["MLA40731408", "MLA17469502", "MLA25602058"],
+    articleBody: `## Qué es el Jackson JS11 Dinky
+
+Es la primera marca de guitarras de trayectoria real de esta comparativa: Jackson fabrica guitarras eléctricas desde hace décadas, no es una marca de entrada exclusiva de MercadoLibre. Cuesta {{precio:MLA17488700}} y tiene {{reviews:MLA17488700}} calificaciones con {{rating:MLA17488700}} estrellas en MercadoLibre Argentina, en [nuestra comparativa de cuánto sale una guitarra eléctrica en Argentina](/guias/musica/guitarra-electrica-precio).
+
+## Lo que significa entrar al tramo de marca internacional
+
+Su 4.9 empata con la Ibanez de esta comparativa, y queda apenas debajo del 5.0 que comparten la Epiphone SG Special y la Yamaha. Pero con casi 800 calificaciones detrás, tiene la base más grande de las cuatro marcas internacionales que comparamos, así que ese 4.9 se apoya en mucha más evidencia que el de la Ibanez.
+
+## Dos humbuckers de alta salida: para qué sirven
+
+Trae dos micrófonos humbucker de alta salida, pensados para sonidos con más distorsión que los single coil de la Femmto o la Parquer de esta misma comparativa. Un comprador lo resume bien: **"sonido muy bueno y versátil, en limpio brillante y con distorsión bastante pesado"**. Si tu referencia musical es metal o rock pesado, esta orientación de micrófonos importa más que en cualquier otra guitarra de esta comparativa.
+
+## Sin estuche ni amplificador: hay que presupuestarlos aparte
+
+Su publicación no lista estuche ni amplificador incluido. A diferencia de las dos Femmto EG001, que resuelven guitarra y amplificador en la misma compra, acá tenés que sumar esos dos gastos por separado antes de poder tocarla.
+
+## Lo que avisa un comprador: hay que ajustarla al recibirla
+
+El mismo comprador que la elogia por el sonido avisa algo práctico: hay que ajustarla al recibirla, altura de cuerdas y octavado. No es un defecto exclusivo de esta unidad, es un paso habitual en una guitarra eléctrica recién comprada, pero conviene saber que no vas a poder tocarla "de fábrica" sin ese ajuste previo.
+
+## La forma Dinky, no la silueta más tradicional
+
+Es una variante moderna de superstrat, no la silueta más clásica para quien recién arranca (como una Stratocaster o una Les Paul). Si buscás una forma más tradicional para aprender, otra guitarra de esta comparativa puede sentirse más familiar.
+
+## Contra las otras eléctricas de la comparativa
+
+Cuesta {{preciodif:MLA17488700:MLA40731408}} más que la [Parquer ST300](/producto/guitarra-electrica-stratocaster-parquer-st300-con-funda-mla40731408), que también tiene una forma de guitarra reconocible (Stratocaster) y trae funda incluida.
+
+Cuesta {{preciodif:MLA17488700:MLA25602058}} más que las dos [Femmto EG001](/producto/guitarra-electrica-femmto-eg001-con-amplificador-mla25602058), que resuelven guitarra y amplificador en la misma compra.
+
+El [Ibanez RG GIO GRX40](/producto/guitarra-electrica-ibanez-rg-gio-grx40-superstrat-mla17469502) cuesta {{preciodif:MLA17469502:MLA17488700}} más, con el mismo puntaje de 4.9 pero con muchísima menos base de opiniones detrás.
+
+## Para quién es, y para quién no
+
+Es para vos si buscás una marca internacional de trayectoria real, sonidos con más distorsión gracias a los humbuckers, y ya tenés (o vas a comprar aparte) amplificador y estuche.
+
+No es para vos si estás arrancando de cero sin nada más: sin amplificador ni estuche presupuestados aparte, el gasto total termina siendo bastante más alto que el precio de etiqueta.`,
+    faq: [
+      { question: "¿Por qué es más cara que la Parquer ST300 si las dos son formas reconocibles?", answer: "Cuesta {{preciodif:MLA17488700:MLA40731408}} más porque es una marca internacional de trayectoria real (Jackson), con humbuckers de alta salida orientados a sonidos con distorsión, mientras que la Parquer es una marca de entrada de MercadoLibre." },
+      { question: "¿Trae amplificador o estuche incluido?", answer: "No, su publicación no lista ninguno de los dos. A diferencia de las dos Femmto EG001 de esta comparativa, acá vas a tener que sumar esos gastos aparte antes de poder tocarla." },
+      { question: "¿Para qué estilo de música sirve mejor?", answer: "Sus dos humbuckers de alta salida están pensados para sonidos con más distorsión que los single coil de otras guitarras de esta comparativa. Un comprador la describe como versátil, buena tanto en limpio como con distorsión pesada." },
+      { question: "¿Llega lista para tocar apenas la recibís?", answer: "No exactamente. El mismo comprador que la elogia avisa que hay que ajustarla al recibirla: altura de cuerdas y octavado. Es un paso habitual en cualquier eléctrica nueva, no un defecto de esta unidad en particular." },
+      { question: "¿Qué tan confiable es su calificación de 4.9?", answer: "Bastante: tiene casi 800 calificaciones detrás, la base más grande de las cuatro marcas internacionales de esta comparativa. Empata en puntaje con la Ibanez, pero con muchísima más evidencia respaldándolo." },
+      { question: "¿Qué forma de cuerpo tiene?", answer: "Dinky, una variante moderna de superstrat. No es la silueta más tradicional (como una Stratocaster o una Les Paul), así que si buscás algo más clásico para aprender, otra guitarra de esta comparativa puede sentirse más familiar." },
+      { question: "¿Vale la pena pagar más por el Ibanez RG GIO GRX40?", answer: "El Ibanez cuesta {{preciodif:MLA17469502:MLA17488700}} más y empata en el mismo puntaje de 4.9, pero con muchísima menos base de opiniones. El Jackson da más tranquilidad por el volumen de evidencia detrás de su nota." },
+      { question: "¿De qué madera es el cuerpo?", answer: "Álamo, con mástil de arce y diapasón de amaranto, maderas más específicas que las de las guitarras de entrada de esta comparativa." },
+    ],
   },
   {
     id: "MLA17473751",
@@ -2914,7 +4638,7 @@ export const curatedProducts: Product[] = [
     freeShipping: false,
     rating: 4.7,
     reviewCount: 162,
-    reviewsSampledAt: "2026-08-26",
+    reviewsSampledAt: "2026-09-03",
     visibility: "normal",
     priceUpdated: "2026-09-04",
     priceLastChecked: "2026-09-04",
@@ -2952,6 +4676,49 @@ export const curatedProducts: Product[] = [
       { label: "Modelo", value: "Melody Maker E1" },
     ],
     relatedProducts: ["MLA18068441", "MLA17488700", "MLA25602058"],
+    articleBody: `## Qué es la Epiphone Les Paul Melody Maker
+
+Es la forma Les Paul de esta comparativa: la silueta que la mayoría del mundo asocia con una guitarra eléctrica de rock, de Epiphone, la marca hermana de Gibson que fabrica su línea económica. Cuesta {{precio:MLA17473751}} y tiene {{reviews:MLA17473751}} calificaciones con {{rating:MLA17473751}} estrellas en MercadoLibre Argentina, en [nuestra comparativa de cuánto sale una guitarra eléctrica en Argentina](/guias/musica/guitarra-electrica-precio). Al momento de verificar esta ficha, quedaban solo 2 unidades disponibles.
+
+## Más liviana que una Les Paul tradicional
+
+Una Les Paul de verdad suele ser pesada, por el cuerpo macizo de caoba. Esta Melody Maker resuelve eso: un comprador la destaca justamente por ser liviana y fácil de transportar, algo que la silueta Les Paul tradicional no ofrece. Si te gusta la forma pero te preocupa el peso, esta versión de Epiphone la resuelve.
+
+## Buen trato de precio, según sus compradores
+
+Otro comprador lo resume bien: una Epiphone barata que no decepciona. Es una síntesis honesta del lugar que ocupa en el mercado: no es la gama alta de Epiphone, pero cumple lo que promete a su precio.
+
+## La contra concreta: las pastillas hacen ruido
+
+El mismo comprador que la recomienda avisa algo específico: las pastillas meten bastante ruido, y aclara directamente que no es el instrumento para un músico profesional. Es una guitarra de entrada honesta sobre sus propios límites, según quien ya la usó.
+
+## El puente fijo: más simple de mantener afinado
+
+Tiene puente fijo tipo wraparound, en vez de un puente con trémolo. Eso lo hace más simple de mantener afinado en el uso diario, aunque sacrifica la posibilidad de hacer vibrato con la palanca, algo que sí tienen otras guitarras de esta comparativa.
+
+## Contra las otras eléctricas de la comparativa
+
+Cuesta {{preciodif:MLA18068441:MLA17473751}} menos que su hermana, la [Epiphone SG Special](/producto/guitarra-electrica-epiphone-sg-special-mla18068441), que suma un humbucker en vez de los single coil de esta Melody Maker.
+
+Cuesta {{preciodif:MLA17473751:MLA17488700}} más que el [Jackson JS11](/producto/guitarra-electrica-jackson-js11-dinky-de-alamo-mla17488700), que además tiene mejor rating y una base de opiniones bastante más grande.
+
+Cuesta {{preciodif:MLA17473751:MLA25602058}} más que las dos [Femmto EG001](/producto/guitarra-electrica-femmto-eg001-con-amplificador-mla25602058), que resuelven guitarra y amplificador en la misma compra.
+
+## Para quién es, y para quién no
+
+Es para vos si querés la silueta Les Paul sin el peso de una tradicional, y buscás una guitarra de entrada honesta sobre sus propios límites.
+
+No es para vos si sos músico profesional o buscás la máxima calidad de sonido: el propio comprador que la recomienda aclara que no es el instrumento para ese nivel.`,
+    faq: [
+      { question: "¿Es liviana comparada con una Les Paul tradicional?", answer: "Sí, y es uno de sus puntos fuertes según sus compradores: una Les Paul tradicional suele ser pesada por el cuerpo macizo de caoba, y esta Melody Maker resuelve eso siendo notablemente más liviana y fácil de transportar." },
+      { question: "¿Las pastillas hacen ruido?", answer: "Según un comprador, sí, meten bastante ruido. El mismo comprador aclara que no es el instrumento para un músico profesional, aunque la recomienda igual para quien está empezando." },
+      { question: "¿Sirve para un músico profesional?", answer: "No según sus propios compradores: uno que la recomienda aclara directamente que no es el instrumento para ese nivel. Es una guitarra de entrada honesta sobre sus límites." },
+      { question: "¿Qué tipo de puente tiene?", answer: "Puente fijo tipo wraparound, más simple de mantener afinado que uno con trémolo, aunque sin la posibilidad de hacer vibrato con palanca." },
+      { question: "¿Trae estuche o amplificador?", answer: "No, su publicación no lista ninguno de los dos. Vas a tener que sumarlos aparte." },
+      { question: "¿Conviene más esta o la Epiphone SG Special?", answer: "La SG Special cuesta {{preciodif:MLA18068441:MLA17473751}} más y suma un humbucker en vez de los single coil de esta Melody Maker, lo que la orienta a sonidos con más peso. Si preferís la silueta Les Paul clásica y un precio más accesible, esta Melody Maker es la opción." },
+      { question: "¿Es una Epiphone real o una copia?", answer: "Es una Epiphone real: la marca hermana de Gibson, que fabrica su línea económica bajo licencia. No es una copia genérica sin marca." },
+      { question: "¿Está en stock?", answer: "Al momento de verificar esta ficha, quedaban solo 2 unidades disponibles. Si te interesa, conviene no dar por sentado que va a seguir disponible." },
+    ],
   },
   {
     id: "MLA18068441",
@@ -2969,7 +4736,7 @@ export const curatedProducts: Product[] = [
     freeShipping: false,
     rating: 5,
     reviewCount: 43,
-    reviewsSampledAt: "2026-08-26",
+    reviewsSampledAt: "2026-09-03",
     visibility: "normal",
     priceUpdated: "2026-09-04",
     priceLastChecked: "2026-09-04",
@@ -3007,6 +4774,51 @@ export const curatedProducts: Product[] = [
       { label: "Modelo", value: "SG Special" },
     ],
     relatedProducts: ["MLA17473751", "MLA17469502", "MLA25602058"],
+    articleBody: `## Qué es la Epiphone SG Special
+
+Es la forma SG de esta comparativa: más liviana y con un perfil más filoso que una Les Paul, la silueta que muchos asocian con el rock pesado. Cuesta {{precio:MLA18068441}} y tiene {{reviews:MLA18068441}} calificaciones con {{rating:MLA18068441}} estrellas en MercadoLibre Argentina, en [nuestra comparativa de cuánto sale una guitarra eléctrica en Argentina](/guias/musica/guitarra-electrica-precio). Al momento de verificar esta ficha, quedaban 4 unidades disponibles.
+
+## Caoba maciza: el salto real de materiales
+
+Su cuerpo es de caoba maciza, un dato que vale la pena remarcar porque la Yamaha Pacifica de esta misma comparativa también declara caoba, pero su ficha no aclara si es maciza o laminada. El resto de las guitarras de esta comparativa declaran aliso, álamo o tilo. Es un salto de materiales real frente al resto del catálogo.
+
+## Dos humbuckers, pensados para distorsión limpia
+
+Trae dos micrófonos humbucker, orientados a sonidos con distorsión sin el ruido de fondo que suele tener un single coil. Un comprador lo resume así: **"gran ensamblaje, color y tono, con sonido excelente y auténtico para lo que cuesta"**.
+
+## La contra real no es del instrumento: es la base de opiniones
+
+Tiene {{reviews:MLA18068441}} calificaciones, una base muy chica para esta comparativa. Su {{rating:MLA18068441}} de rating perfecto hay que leerlo con esa salvedad: la Yamaha Pacifica de esta misma comparativa comparte ese 5.0, con una base todavía más chica. No es una señal de mala calidad, es una señal de que todavía hay poca evidencia acumulada.
+
+## Sin estuche incluido
+
+Su ficha declara explícitamente que no incluye estuche. Sumalo aparte si lo necesitás.
+
+## Un ajuste inicial, según un comprador
+
+Un comprador avisa que trastea un poco, aunque lo atribuye a que le falta calibración de fábrica, no a un defecto del instrumento. Es un ajuste habitual en una guitarra eléctrica recién comprada, como también reportan compradores de otras fichas de esta comparativa.
+
+## Contra las otras eléctricas de la comparativa
+
+Cuesta {{preciodif:MLA18068441:MLA17473751}} más que su hermana, la [Epiphone Les Paul Melody Maker](/producto/guitarra-electrica-epiphone-les-paul-melody-maker-mla17473751), que tiene single coil en vez de los humbuckers de esta SG Special.
+
+Cuesta {{preciodif:MLA18068441:MLA25602058}} más que las dos [Femmto EG001](/producto/guitarra-electrica-femmto-eg001-con-amplificador-mla25602058), que resuelven guitarra y amplificador en la misma compra.
+
+## Para quién es, y para quién no
+
+Es para vos si buscás la silueta SG, caoba maciza real y sonidos con distorsión sin ruido de fondo, y no te preocupa apoyarte en una base de opiniones todavía chica.
+
+No es para vos si preferís decidir con mucha evidencia de otros compradores detrás: para eso, el Jackson JS11 o las Femmto EG001 de esta comparativa tienen bases de opiniones bastante más grandes.`,
+    faq: [
+      { question: "¿El cuerpo es de caoba maciza o laminada?", answer: "Maciza, según su ficha. Es un dato que la distingue del resto de esta comparativa: la Yamaha Pacifica también declara caoba, pero su ficha no aclara si es maciza o laminada, y el resto declara aliso, álamo o tilo." },
+      { question: "¿Se puede confiar en su calificación perfecta?", answer: "Con cautela. Tiene apenas {{reviews:MLA18068441}} calificaciones, una base muy chica para esta comparativa. La Yamaha Pacifica comparte ese mismo 5.0, con una base todavía más chica. No es una señal de mala calidad, es señal de que hay poca evidencia todavía." },
+      { question: "¿Qué micrófonos tiene?", answer: "Dos humbuckers, pensados para sonidos con distorsión sin el ruido de fondo que suele tener un single coil. Un comprador destaca el sonido como excelente y auténtico para lo que cuesta." },
+      { question: "¿Trae estuche?", answer: "No, su ficha lo declara explícitamente. Vas a tener que sumarlo aparte si lo necesitás." },
+      { question: "¿Llega bien calibrada?", answer: "Un comprador avisa que trastea un poco, aunque lo atribuye a que le falta calibración de fábrica, no a un defecto del instrumento. Es un ajuste habitual en cualquier eléctrica nueva." },
+      { question: "¿Conviene más esta o la Epiphone Les Paul Melody Maker?", answer: "Depende del sonido que busques. Esta SG Special cuesta {{preciodif:MLA18068441:MLA17473751}} más, pero suma humbuckers para sonidos con más distorsión y caoba maciza. La Les Paul Melody Maker es más liviana y más barata, con single coil." },
+      { question: "¿Es liviana como la Les Paul Melody Maker?", answer: "La forma SG en general es más liviana que una Les Paul tradicional, gracias a su perfil más delgado y filoso. Es parte de su atractivo frente a la silueta Les Paul." },
+      { question: "¿Cuántas unidades quedan disponibles?", answer: "Al momento de verificar esta ficha, quedaban 4 unidades. Si te interesa, conviene confirmar el stock actualizado antes de decidir." },
+    ],
   },
   {
     id: "MLA17469502",
@@ -3024,7 +4836,7 @@ export const curatedProducts: Product[] = [
     freeShipping: false,
     rating: 4.9,
     reviewCount: 273,
-    reviewsSampledAt: "2026-08-26",
+    reviewsSampledAt: "2026-09-03",
     visibility: "normal",
     priceUpdated: "2026-09-04",
     priceLastChecked: "2026-09-04",
@@ -3040,7 +4852,7 @@ export const curatedProducts: Product[] = [
     ],
     cons: [
       "Su propia publicación avisa que queda última unidad en stock al momento de verificarla: si te interesa, no convendría esperar",
-      "Sale {{preciodif:MLA17469502:MLA18068441}} más que la Epiphone SG Special",
+      "Cuesta prácticamente lo mismo que la Epiphone SG Special",
       "Su ficha declara explícitamente que no incluye estuche",
       "El mismo comprador que la recomienda señala que los micrófonos hacen algo de ruido cuando las manos no están apoyadas sobre las cuerdas",
     ],
@@ -3057,12 +4869,55 @@ export const curatedProducts: Product[] = [
       { label: "Construcción del mástil", value: "Atornillado al cuerpo" },
       { label: "Incluye estuche", value: "No. Su ficha lo declara explícitamente" },
       { label: "Amplificador incluido", value: "Su publicación no lo lista" },
-      { label: "Stock", value: "Su publicación declara última unidad disponible al momento de verificarla (2026-08-26)" },
+      { label: "Stock", value: "Su publicación declara última unidad disponible al momento de verificarla (2026-09-03), igual que hace más de una semana: parece ser el ritmo habitual de reposición, no una alarma puntual" },
       { label: "Origen", value: "China" },
       { label: "Marca", value: "Ibanez" },
       { label: "Modelo", value: "GRX40, línea RG GIO" },
     ],
     relatedProducts: ["MLA18068441", "MLA17488700", "MLA25602058"],
+    articleBody: `## Qué es el Ibanez GRX40
+
+Es la segunda guitarra más cara de esta comparativa, detrás de la Yamaha Pacifica, de una de las casas de referencia de la guitarra eléctrica moderna. Cuesta {{precio:MLA17469502}} y tiene {{reviews:MLA17469502}} calificaciones con {{rating:MLA17469502}} estrellas en MercadoLibre Argentina, en [nuestra comparativa de cuánto sale una guitarra eléctrica en Argentina](/guias/musica/guitarra-electrica-precio).
+
+## La configuración más versátil junto con la Yamaha
+
+Combina un micrófono humbucker con dos simple coil, la misma configuración HSS que la Yamaha Pacifica de esta comparativa, y es de las dos la más versátil en variedad de sonidos. Un comprador la destaca justamente por eso: lo cómoda que es para digitar y la variedad de sonidos que permite combinar.
+
+## El stock: última unidad, desde hace más de una semana
+
+Su propia publicación avisa que queda una sola unidad disponible, y lo declaraba así también hace más de una semana, la vez anterior que revisamos esta ficha. Eso sugiere que no es una alarma puntual sino el ritmo habitual de reposición de este vendedor: igual, si te interesa, no conviene dar por sentado que va a seguir disponible.
+
+## Sin estuche incluido
+
+Su ficha declara explícitamente que no incluye estuche. Sumalo aparte si lo necesitás, junto con el amplificador, que tampoco lista la publicación.
+
+## El ruido que reporta un comprador
+
+El mismo comprador que la recomienda señala algo específico: los micrófonos hacen algo de ruido cuando las manos no están apoyadas sobre las cuerdas. Es un comportamiento típico de los single coil (no exclusivo de esta guitarra), pero vale la pena saberlo antes de comprar si te molesta ese tipo de ruido de fondo.
+
+## Contra las otras eléctricas de la comparativa
+
+Cuesta prácticamente lo mismo que la [Epiphone SG Special](/producto/guitarra-electrica-epiphone-sg-special-mla18068441), que suma caoba maciza y dos humbuckers en vez de la configuración HSS de este Ibanez.
+
+Cuesta {{preciodif:MLA17469502:MLA17488700}} más que el [Jackson JS11](/producto/guitarra-electrica-jackson-js11-dinky-de-alamo-mla17488700), que tiene casi 800 calificaciones respaldándolo, muchas más que este Ibanez.
+
+Cuesta {{preciodif:MLA17469502:MLA25602058}} más que las dos [Femmto EG001](/producto/guitarra-electrica-femmto-eg001-con-amplificador-mla25602058), que resuelven guitarra y amplificador en la misma compra.
+
+## Para quién es, y para quién no
+
+Es para vos si buscás la configuración de micrófonos más versátil de esta comparativa (junto con la Yamaha), de una marca de referencia, y te alcanza el presupuesto para ser la segunda más cara del grupo.
+
+No es para vos si el ruido de los single coil te molesta especialmente, o si preferís apoyarte en una base de opiniones más grande: el Jackson JS11 tiene casi el triple de calificaciones que este Ibanez.`,
+    faq: [
+      { question: "¿Por qué es la segunda más cara de esta comparativa?", answer: "La explica la marca: Ibanez es una de las casas de referencia de la guitarra eléctrica moderna, con una configuración de micrófonos HSS (humbucker más dos simple coil) que la hace de las más versátiles de esta comparativa junto con la Yamaha Pacifica." },
+      { question: "¿Sigue con poco stock?", answer: "Sí, su publicación avisa última unidad disponible, y ya lo declaraba así hace más de una semana la vez anterior que revisamos esta ficha. Parece ser el ritmo habitual de reposición del vendedor, no una alarma puntual, pero igual conviene no dar por sentado que va a seguir en stock." },
+      { question: "¿Los micrófonos hacen ruido?", answer: "Según un comprador, sí, algo de ruido cuando las manos no están apoyadas sobre las cuerdas. Es un comportamiento típico de los micrófonos simple coil en general, no un defecto exclusivo de esta guitarra." },
+      { question: "¿Trae estuche o amplificador?", answer: "No, ninguno de los dos. Su ficha declara explícitamente que no incluye estuche, y la publicación tampoco lista amplificador." },
+      { question: "¿Qué configuración de micrófonos tiene?", answer: "Un humbucker y dos simple coil (configuración HSS), la misma lógica que la Yamaha Pacifica de esta comparativa: sonidos limpios con los simple coil y más peso con el humbucker." },
+      { question: "¿Conviene más este o la Epiphone SG Special?", answer: "Cuestan prácticamente lo mismo. La SG Special suma caoba maciza y dos humbuckers, orientada a sonidos con más distorsión. Este Ibanez es más versátil gracias a su configuración HSS. La elección pasa por el tipo de sonido que busques, no por el precio." },
+      { question: "¿Es cómodo para tocar?", answer: "Según un comprador, sí: lo destaca específicamente por lo cómodo que es para digitar y por la variedad de sonidos que permite combinar." },
+      { question: "¿Vale la pena pagar más por la Yamaha Pacifica?", answer: "Si priorizás la trayectoria de marca por sobre todo, sí. Si buscás una configuración de micrófonos similarmente versátil (HSS) sin pagar tanto, este Ibanez cumple una función parecida a bastante menos precio que la Yamaha." },
+    ],
   },
   {
     id: "MLA25602058",
@@ -3098,7 +4953,7 @@ export const curatedProducts: Product[] = [
     cons: [
       "El amplificador es la parte floja del combo: la reseña más votada de la publicación dice que es de juguete y que duró unas semanas",
       "El diapasón es de MDF, que es fibra prensada y no madera maciza",
-      "Sale {{preciodif:MLA25602058:MLA17375288}} más que la versión negra, cuya ficha estructurada declara que no trae funda, aunque la descripción de esa misma publicación dice lo contrario",
+      "Cuesta prácticamente lo mismo que la versión negra, cuya ficha estructurada declara que no trae funda, aunque la descripción de esa misma publicación dice lo contrario",
       "Una guitarra eléctrica sola no suena: sin amplificador o sin un pedal con salida de auriculares no se escucha nada",
     ],
     verdict: "Es una de las dos eléctricas del catálogo que trae guitarra y algo con qué escucharla en la misma caja, que es lo que resuelve el arranque. Su ficha estructurada declara que sí incluye funda, a diferencia de la versión negra. Los tres micrófonos con selector dan más sonidos de los que se esperan a este precio. La contra a tener clara es el amplificador: los compradores coinciden en que es lo primero que falla.",
@@ -3121,6 +4976,47 @@ export const curatedProducts: Product[] = [
       { label: "Modelo", value: "EG001" },
     ],
     relatedProducts: ["MLA19464828", "MLA40485883", "MLA19491306"],
+    articleBody: `## Qué es la Femmto EG001 azul
+
+Es el mismo combo de guitarra eléctrica con amplificador que la versión negra de esta comparativa, en color negro y azul. Cuesta {{precio:MLA25602058}} y tiene {{reviews:MLA25602058}} calificaciones con {{rating:MLA25602058}} estrellas en MercadoLibre Argentina, en [nuestra comparativa de cuánto sale una guitarra eléctrica en Argentina](/guias/musica/guitarra-electrica-precio).
+
+## Acá la ficha sí coincide sobre la funda
+
+A diferencia de la versión negra, donde el campo estructurado y la descripción de la publicación se contradicen sobre si incluye funda, en esta versión azul **los dos coinciden**: tanto el campo estructurado como la descripción declaran una funda de poliéster 600D incluida. Es un dato más confiable que en su hermana, simplemente porque no hay contradicción que resolver.
+
+## El amplificador, la parte floja del combo
+
+Acá va la contra más seria de todo el combo, y sale directo de la reseña más votada de esta publicación: describe el amplificador como **de juguete**, y cuenta que **duró apenas unas semanas** antes de fallar. No descarta el resto del combo (la guitarra en sí no recibe la misma crítica), pero conviene entrar con expectativas bajas sobre esa parte específica del paquete.
+
+## El diapasón, otra vez de fibra prensada
+
+Es de MDF, no de madera maciza, la misma contra técnica que tiene la versión negra. A este precio es un material esperable, pero conviene saberlo antes de comprar si veías esta como una guitarra de nivel superior a lo que realmente es.
+
+## Contra su propia versión negra
+
+Cuestan prácticamente lo mismo. La diferencia real no es de precio sino de consistencia de ficha: esta versión azul no tiene la contradicción sobre la funda que sí tiene la negra. Si ese detalle te preocupa, esta es la opción más clara de las dos.
+
+## Contra las otras eléctricas de la comparativa
+
+La [Parquer ST300 Stratocaster](/producto/guitarra-electrica-stratocaster-parquer-st300-con-funda-mla40731408) cuesta prácticamente lo mismo, con una forma de cuerpo Stratocaster reconocible, pero sin amplificador en el combo.
+
+El [Jackson JS11](/producto/guitarra-electrica-jackson-js11-dinky-de-alamo-mla17488700) cuesta {{preciodif:MLA17488700:MLA25602058}} más, ya en el tramo de marca internacional, también sin amplificador incluido.
+
+## Para quién es, y para quién no
+
+Es para vos si estás arrancando de cero, necesitás guitarra y amplificador en la misma compra, y preferís la versión con la ficha más consistente entre las dos EG001.
+
+No es para vos si esperás que el amplificador te dure sin fallar más de unas semanas: la reseña más votada de la publicación avisa justamente eso. Para tocar en serio, vas a necesitar reemplazarlo antes o después.`,
+    faq: [
+      { question: "¿Incluye funda?", answer: "Sí, y en esta versión no hay contradicción: tanto el campo estructurado de la ficha como la descripción de la publicación coinciden en que incluye una funda de poliéster 600D. Es más confiable en ese punto que la versión negra, donde los dos datos se contradicen." },
+      { question: "¿El amplificador que trae es confiable?", answer: "No según la reseña más votada de la publicación: lo describe como de juguete y dice que duró apenas unas semanas antes de fallar. Es la contra más seria de todo el combo." },
+      { question: "¿Qué diferencia real tiene con la versión negra?", answer: "Cuestan prácticamente lo mismo. La diferencia real es de consistencia de ficha: esta azul no tiene la contradicción sobre la funda que sí tiene la negra, así que es la opción más clara entre las dos si ese detalle te importa." },
+      { question: "¿De qué material es el diapasón?", answer: "MDF, fibra prensada en vez de madera maciza. Es la misma contra técnica que tiene la versión negra: a este precio es esperable, pero conviene saberlo." },
+      { question: "¿Trae amplificador incluido?", answer: "Sí, modelo MA-5 de 5 W, según la descripción de la publicación. Es uno de los dos combos de esta comparativa que trae guitarra y amplificador juntos, aunque la calidad del amplificador es la parte más criticada." },
+      { question: "¿Cuántos micrófonos y trastes tiene?", answer: "3 micrófonos con selector de 5 posiciones y 22 trastes, con escala de 650 mm, la medida estándar de una guitarra eléctrica." },
+      { question: "¿Vale la pena si voy a tocar en serio?", answer: "Para arrancar, sí, porque resuelve guitarra y amplificador en una sola compra. Pero si el plan es tocar en serio, vas a necesitar reemplazar el amplificador más temprano que tarde, según la experiencia que reporta la reseña más votada." },
+      { question: "¿Qué colores tiene?", answer: "Esta publicación la vende en negro y azul. También existe la versión que vendemos como \"negra\" en esta misma comparativa, aunque su ficha técnica la declara Blanco/Negro." },
+    ],
   },
   {
     id: "MLA23145920",
@@ -3270,20 +5166,62 @@ export const curatedProducts: Product[] = [
       "No es sumergible sin carcasa: aguanta 40 m pero siempre con la carcasa puesta",
       "La estabilización viene desactivada de fábrica y hay que prenderla desde el menú",
       "La estabilización es excluyente con la corrección de distorsión: se usa una o la otra",
-      "Akaso no publica peso, medidas, sensor ni apertura de este modelo",
+      "Akaso no publica peso, medidas ni apertura de este modelo",
     ],
     verdict: "Es el techo del tramo económico y la única de ese tramo que estabiliza. Las dos baterías con cargador doble que trae en la caja son lo que separa filmar una mañana de filmar un día entero. Acordate de prender la estabilización en el menú, porque viene apagada de fábrica.",
     specs: [
       { label: "Resolución de video máxima", value: "4K a 30 cuadros por segundo, y es el modo por defecto" },
       { label: "Resolución de foto", value: "20 MP por defecto. También 12, 8, 5 y 3 MP" },
       { label: "Estabilización", value: "Electrónica EIS 2.0. Viene desactivada de fábrica y es excluyente con la corrección de distorsión" },
+      { label: "Sensor", value: "IMX386, según el título de la publicación vigente" },
       { label: "Sumergible", value: "Hasta 40 metros, siempre con la carcasa incluida. No es sumergible sin carcasa" },
       { label: "Pantalla", value: "Táctil de 2 pulgadas" },
       { label: "Batería", value: "3,7 V de 1350 mAh. Vienen dos baterías y un cargador doble en la caja" },
       { label: "Autonomía", value: "Unos 120 minutos grabando en 4K según Akaso, que aclara que varía según el uso" },
       { label: "Ángulo de visión", value: "Ajustable en cuatro pasos: 70, 110, 140 y 170 grados" },
     ],
-    relatedProducts: ["MLA62771175", "MLA29364436", "MLA47374183"],
+    relatedProducts: ["MLA62771175", "MLA66182550", "MLA47374183"],
+    articleBody: `## Qué es la Akaso V50X
+
+Es el techo del tramo económico de nuestro catálogo de cámaras deportivas: la única de ese tramo que trae estabilización electrónica. Cuesta {{precio:MLA16132352}} y tiene {{reviews:MLA16132352}} calificaciones con {{rating:MLA16132352}} estrellas en MercadoLibre Argentina, en [nuestra comparativa de cámaras deportivas en Argentina](/guias/tech/camara-deportiva).
+
+## Dos baterías y cargador doble: filmar un día entero
+
+Lo que más separa a esta cámara del resto de su tramo de precio es lo que trae en la caja: dos baterías y un cargador doble. Es la diferencia práctica entre filmar una mañana y filmar un día entero sin tener que parar a cargar.
+
+## La estabilización viene apagada: hay que prenderla
+
+Un dato accionable que conviene saber antes de usarla por primera vez: la estabilización electrónica EIS 2.0 **viene desactivada de fábrica**. Si no entrás al menú a activarla, vas a estar filmando sin ese beneficio que la distingue del resto de las cámaras de su tramo. Es un paso que se salta fácil si no se sabe de antemano.
+
+## Estabilización o corrección de distorsión: hay que elegir
+
+Otro dato técnico real: la estabilización es excluyente con la corrección de distorsión del lente gran angular. No se pueden usar las dos funciones al mismo tiempo, hay que elegir una según la toma que estés filmando.
+
+## Sumergible, pero solo con la carcasa puesta
+
+Aguanta hasta 40 metros de profundidad, un número alto, pero siempre con la carcasa incluida puesta. No es sumergible a cuerpo desnudo.
+
+## Contra las otras cámaras de esta comparativa
+
+Cuesta {{preciodif:MLA16132352:MLA62771175}} más que la [Gadnic 4K](/producto/camara-deportiva-gadnic-4k-wifi-170-16-mp-mla62771175), la entrada más económica de esta comparativa, que no tiene estabilización.
+
+La [GoPro HERO13 Black](/producto/camara-deportiva-gopro-hero13-black-mla47374183) cuesta {{preciodif:MLA47374183:MLA16132352}} más, la mejor elección general de esta comparativa para quien puede gastar más.
+
+## Para quién es, y para quién no
+
+Es para vos si buscás el mejor equilibrio del tramo económico, valorás las dos baterías con cargador doble para sesiones largas, y te acordás de activar la estabilización en el menú apenas la recibís.
+
+No es para vos si querés sumergirla sin carcasa, o si el presupuesto te alcanza para un tramo superior: para eso, la DJI Osmo Action 4 o la GoPro HERO13 de esta comparativa rinden mejor.`,
+    faq: [
+      { question: "¿Por qué no filma estabilizado apenas la saco de la caja?", answer: "Porque la estabilización electrónica EIS 2.0 viene desactivada de fábrica. Hay que entrar al menú y activarla manualmente antes de empezar a filmar, si no vas a perderte ese beneficio." },
+      { question: "¿Se puede usar la estabilización y la corrección de distorsión juntas?", answer: "No, son excluyentes entre sí: hay que elegir una de las dos según la toma que estés filmando, no se pueden combinar." },
+      { question: "¿Es sumergible sin carcasa?", answer: "No. Aguanta hasta 40 metros de profundidad, pero siempre con la carcasa incluida puesta. No es resistente al agua a cuerpo desnudo." },
+      { question: "¿Cuántas baterías trae?", answer: "Dos, junto con un cargador doble en la caja. Es la diferencia real entre filmar una mañana y filmar un día entero sin parar a cargar." },
+      { question: "¿Qué sensor tiene?", answer: "IMX386, según el título de la publicación vigente en MercadoLibre." },
+      { question: "¿Vale la pena pagar más por la Gadnic 4K?", answer: "Es al revés: la Gadnic cuesta {{preciodif:MLA16132352:MLA62771175}} menos, pero no tiene estabilización, algo que sí trae esta Akaso. Si el presupuesto es ajustado y no te importa filmar sin estabilización, la Gadnic alcanza; si buscás ese plus, esta Akaso lo justifica." },
+      { question: "¿Cuánto dura la batería grabando en 4K?", answer: "Unos 120 minutos según Akaso, que aclara que el número varía según el uso real." },
+      { question: "¿Tiene pantalla táctil?", answer: "Sí, de 2 pulgadas, con ángulo de visión ajustable en cuatro pasos: 70, 110, 140 y 170 grados." },
+    ],
   },
   {
     id: "MLA62771175",
@@ -3336,7 +5274,50 @@ export const curatedProducts: Product[] = [
       { label: "Peso", value: "58 g aproximado" },
       { label: "Conectividad", value: "WiFi" },
     ],
-    relatedProducts: ["MLA16132352", "MLA29364436", "MLA47374183"],
+    relatedProducts: ["MLA16132352", "MLA66182550", "MLA47374183"],
+    articleBody: `## Qué es la Gadnic 4K
+
+Es la cámara deportiva más barata de todo nuestro catálogo. Cuesta {{precio:MLA62771175}} y tiene {{reviews:MLA62771175}} calificaciones con {{rating:MLA62771175}} estrellas en MercadoLibre Argentina, en [nuestra comparativa de cámaras deportivas en Argentina](/guias/tech/camara-deportiva).
+
+## Lo que el fabricante admite y casi nadie destaca: no estabiliza
+
+Antes de cualquier otra cosa: **su propio manual oficial declara la estabilización como N/A**, en español, portugués e inglés. No es un dato que se pueda discutir ni una opinión de comprador aislada, es lo que el fabricante mismo publica. Para filmar caminando o en el agua, no se nota tanto. Para un casco, una bici o una moto, donde el movimiento es fuerte y constante, la imagen va a temblar.
+
+## Sumergible, pero solo con la carcasa puesta
+
+Aguanta hasta 30 metros de profundidad, pero siempre con la carcasa colocada. No es sumergible a cuerpo desnudo como sí lo son las cámaras de gama más alta de esta comparativa.
+
+## El dato de autonomía que Gadnic no publica
+
+Declara 110 minutos de grabación, pero ese número está medido en 1080p, no en 4K. Gadnic no publica la autonomía real filmando en la máxima resolución, así que en la práctica, si grabás en 4K, esperá menos tiempo de batería del que sugiere ese número.
+
+## La más liviana del catálogo
+
+Con 58 gramos, es la cámara deportiva más liviana de las siete que comparamos. Trae batería extraíble, así que se puede llevar una de repuesto para extender la sesión de grabación sin cargar en el lugar.
+
+## Contra las otras cámaras de esta comparativa
+
+La [Akaso V50X](/producto/camara-deportiva-akaso-v50x-mla16132352) cuesta {{preciodif:MLA16132352:MLA62771175}} más, en el mismo tramo de entrada que esta Gadnic.
+
+La [GoPro HERO13 Black](/producto/camara-deportiva-gopro-hero13-black-mla47374183) cuesta {{preciodif:MLA47374183:MLA62771175}} más: es otro tramo de precio completo, no una mejora incremental sobre esta Gadnic.
+
+La [DJI Osmo Action 6](/producto/camara-deportiva-dji-osmo-action-6-combo-aventura-mla62340610) cuesta {{preciodif:MLA62340610:MLA62771175}} más, con estabilización real y sumergible sin carcasa, justo lo que esta Gadnic no ofrece.
+
+## Para quién es, y para quién no
+
+Es para vos si es tu primera cámara deportiva, buscás la entrada más económica, y tu uso principal va a ser caminando o en el agua, sin movimiento brusco.
+
+No es para vos si pensás usarla en un casco, una bici o una moto: sin estabilización, la imagen va a temblar. Para eso, otra opción de esta comparativa rinde mejor, aunque cueste más.`,
+    faq: [
+      { question: "¿Tiene estabilización de imagen?", answer: "No. Su propio manual oficial la lista como N/A, en español, portugués e inglés. Es un dato que declara el fabricante mismo, no una opinión de comprador." },
+      { question: "¿Se puede meter al agua sin carcasa?", answer: "No, aguanta hasta 30 metros pero siempre con la carcasa puesta. No es sumergible a cuerpo desnudo como las cámaras de gama más alta de esta comparativa." },
+      { question: "¿Cuánto dura la batería filmando en 4K?", answer: "Gadnic no publica ese dato. Los 110 minutos que declara están medidos en 1080p, no en la máxima resolución, así que en 4K la autonomía real va a ser menor." },
+      { question: "¿Sirve para usar en un casco o una bici?", answer: "No es lo ideal, justamente por no tener estabilización: en movimiento fuerte y constante, la imagen va a temblar. Para ese uso, conviene una cámara con estabilización real de esta misma comparativa." },
+      { question: "¿Es la más liviana del catálogo?", answer: "Sí, pesa 58 gramos, la más liviana de las siete cámaras deportivas que comparamos." },
+      { question: "¿La batería es extraíble?", answer: "Sí, de 900 mAh, así que se puede llevar una de repuesto para extender la sesión sin necesidad de cargar en el momento." },
+      { question: "¿Vale la pena pagar más por la Akaso V50X?", answer: "Cuesta {{preciodif:MLA16132352:MLA62771175}} más y está en el mismo tramo de entrada que esta Gadnic. Conviene comparar specs puntuales entre ambas antes de decidir, ya que la diferencia de precio no es grande." },
+      { question: "¿Para qué resoluciones filma?", answer: "4K a 30 cuadros por segundo como máximo, además de 2.7K a 30, 1080p a 60 y 720p a 120 cuadros por segundo." },
+    ],
   },
   // ─── Cámaras instantáneas y analógicas — sourceadas de ML (ago 2026). Silo tech ───
   {
@@ -23597,6 +25578,8 @@ Es un organizador giratorio barato y práctico que libera el cajón y deja los u
     id: 'MLA705286189',
     title: 'Aromatizador Ultrasónico USB LED RGB Simil Madera 130ml',
     price: 11891,
+    priceLastChecked: "2026-09-04",
+    priceStatus: "fresh",
     originalPrice: 13295,
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_2X_768535-MLA71548722529_092023-F.webp',
@@ -23730,7 +25713,7 @@ El resumen de opiniones de ML dice: "elegante y funciona bien, siendo ideal para
         '@type': 'Offer',
         url: 'https://meli.la/2QdWdwH',
         priceCurrency: 'ARS',
-        price: 12630,
+        price: 11891,
         availability: 'https://schema.org/InStock',
         seller: { '@type': 'Organization', name: 'MercadoLibre' },
       },
@@ -23740,11 +25723,13 @@ El resumen de opiniones de ML dice: "elegante y funciona bien, siendo ideal para
         reviewCount: '54',
       },
     },
-    relatedProducts: ['MLA231395761', 'MLA210122868', 'MLA886877609', 'MLA841529901'],
+    relatedProducts: ['MLA231395761', 'MLA210122868'],
   },
   {
     id: 'MLA841529901',
-    priceStatus: "fresh",
+    priceStatus: "out_of_stock",
+    priceLastChecked: "2026-09-04",
+    visibility: "deprioritized",
     title: 'Difusor Aromatizador Humidificador Tren Locomotora 300ml — Electroland',
     price: 47999,
     originalPrice: 47999,
@@ -23957,9 +25942,9 @@ El packaging del tren en colores bronce/plata, negro o dorado es lo que hace que
     verdict: 'Tener {{reviews:MLA231395761}} calificaciones en 4.7⭐ no es suerte. En una categoría donde los difusores baratos suelen fallar al mes, este se sostiene. Si buscás el difusor de aceites esenciales para usar todos los días sin sorpresas, es este.',
     seoTitle: "Difusor Aromatizador Gadnic 300ml 20hs",
     metaDescription: 'Difusor de aceites esenciales Gadnic DIFU0001. 300ml, hasta 20 horas continuas, LED 16 colores y timer. 4.7 estrellas en {{reviews:MLA231395761}} calificaciones.',
-    ogTitle: 'El aromatizador Gadnic con 693 opiniones y 4.7 estrellas — 300ml, 20 horas',
-    ogDescription: 'Difusor ultrasónico Gadnic, marca argentina. 20 horas de autonomía, LED 16 colores, control remoto con pilas incluidas. 693 calificaciones reales. Ver precio →',
-    h1: 'Aromatizador de ambiente Gadnic 300ml — el difusor de aceites esenciales con 693 opiniones y 4.7 estrellas',
+    ogTitle: 'El aromatizador Gadnic con 699 opiniones y 4.7 estrellas — 300ml, 20 horas',
+    ogDescription: 'Difusor ultrasónico Gadnic, marca argentina. 20 horas de autonomía, LED 16 colores, control remoto con pilas incluidas. 699 calificaciones reales. Ver precio →',
+    h1: 'Aromatizador de ambiente Gadnic 300ml — el difusor de aceites esenciales con 699 opiniones y 4.7 estrellas',
     articleBody: `Hay productos que tienen muchas calificaciones y las mantienen. El Gadnic DIFU0001 tiene {{reviews:MLA231395761}} calificaciones en ML y promedia 4.7 estrellas — eso no es suerte ni efecto de pocas reseñas: es uso real sostenido en el tiempo. En una categoría donde los aromatizadores baratos suelen acumular críticas de durabilidad después del primer mes, ese número dice bastante.
 
 Es un difusor de aceites esenciales de 300ml con hasta 20 horas de autonomía en modo continuo. No 8, no 12 — 20 horas. Con el depósito lleno lo ponés cuando te despertás y sigue funcionando a la noche. Marca Gadnic, fabricado con homologación argentina, incluye adaptador 220V con homologación y control remoto con pilas ya incluidas. No hay nada para comprar por separado.
@@ -24008,7 +25993,7 @@ Tampoco hace ruido — el sistema ultrasónico es silencioso. Apto para usar mie
       { label: 'Dimensiones', value: '8.5 × 12.5 cm' },
       { label: 'Peso', value: '237 g' },
       { label: 'Voltaje', value: '100-240V (universal)' },
-      { label: 'Rating', value: '4.7 ⭐ (693 calificaciones)' },
+      { label: 'Rating', value: '4.7 ⭐ (699 calificaciones)' },
     ],
     faq: [
       {
@@ -24064,17 +26049,17 @@ Tampoco hace ruido — el sistema ultrasónico es silencioso. Apto para usar mie
         '@type': 'Offer',
         url: 'https://meli.la/2bqzDDr',
         priceCurrency: 'ARS',
-        price: 37349,
+        price: 26999,
         availability: 'https://schema.org/InStock',
         seller: { '@type': 'Organization', name: 'MercadoLibre' },
       },
       aggregateRating: {
         '@type': 'AggregateRating',
         ratingValue: '4.7',
-        reviewCount: '693',
+        reviewCount: '699',
       },
     },
-    relatedProducts: ['MLA210122868', 'MLA886877609', 'MLA841529901', 'MLA705286189'],
+    relatedProducts: ['MLA210122868', 'MLA705286189'],
   },
   {
     id: 'MLA210122868',
@@ -24122,9 +26107,9 @@ Tampoco hace ruido — el sistema ultrasónico es silencioso. Apto para usar mie
     verdict: 'Con {{reviews:MLA210122868}} calificaciones, es de los aromatizadores USB más vendidos de ML. Para escritorio o mesita de noche cumple perfecto. Si necesitás algo con aceites esenciales puros y más autonomía, mirá el Gadnic 300ml. Si querés algo ultra compacto, el bola simil madera de 130ml.',
     seoTitle: "Humidificador Aromatizador USB AJ-507 130ml",
     metaDescription: 'Vaporizador humidificador USB con difusor aromático, LED 7 colores y funcionamiento silencioso. 130ml, compacto. 4.1 estrellas en {{reviews:MLA210122868}} opiniones.',
-    ogTitle: 'Aromatizador USB compacto con 316 opiniones — humidifica y aromatiza en silencio',
-    ogDescription: 'Vaporizador USB AJ-507: 130ml, LED 7 colores, silencioso. Para escritorio o mesita de noche. 316 reseñas en ML. Enchufá al cargador del cel y listo → Ver precio',
-    h1: 'Aromatizador de ambiente USB compacto AJ-507 — 316 opiniones, silencioso, para el escritorio o la mesita de noche',
+    ogTitle: 'Aromatizador USB compacto con 323 opiniones — humidifica y aromatiza en silencio',
+    ogDescription: 'Vaporizador USB AJ-507: 130ml, LED 7 colores, silencioso. Para escritorio o mesita de noche. 323 reseñas en ML. Enchufá al cargador del cel y listo → Ver precio',
+    h1: 'Aromatizador de ambiente USB compacto AJ-507 — 323 opiniones, silencioso, para el escritorio o la mesita de noche',
     articleBody: `{{reviews:MLA210122868}} calificaciones en ML no se acumulan solas. El AJ-507 lleva tiempo en el mercado y el número dice que mucha gente lo compró, lo usó, y se tomó el tiempo de opinar. Con un promedio de 4.1 estrellas en esas {{reviews:MLA210122868}} reseñas, el producto no es perfecto — ninguno lo es — pero sí cumple lo que promete en su rango de precio.
 
 Es un humidificador vaporizador USB de 130ml. Funcionamiento ultrasónico, sin ruido, con luz LED en 7 colores. Va enchufado a cualquier cargador USB de 5V 2A — el de tu teléfono, un hub de escritorio, una batería portátil. No necesita instalación ni toma 220V cerca: donde hay un USB, hay aromatizador.
@@ -24163,7 +26148,7 @@ El modo correcto de uso: primero el agua, después la fragancia. No al revés.`,
       { label: 'Fragancias compatibles', value: 'Solo a base de agua' },
       { label: 'Dimensiones', value: '13 × 11 cm (aprox)' },
       { label: 'Garantía del vendedor', value: '6 meses' },
-      { label: 'Rating', value: '4.1 ⭐ (316 calificaciones)' },
+      { label: 'Rating', value: '4.1 ⭐ (323 calificaciones)' },
     ],
     faq: [
       {
@@ -24219,21 +26204,180 @@ El modo correcto de uso: primero el agua, después la fragancia. No al revés.`,
         '@type': 'Offer',
         url: 'https://meli.la/1W7dAYq',
         priceCurrency: 'ARS',
-        price: 18050,
+        price: 16000,
         availability: 'https://schema.org/InStock',
         seller: { '@type': 'Organization', name: 'MercadoLibre' },
       },
       aggregateRating: {
         '@type': 'AggregateRating',
         ratingValue: '4.1',
-        reviewCount: '316',
+        reviewCount: '323',
       },
     },
-    relatedProducts: ['MLA231395761', 'MLA886877609', 'MLA705286189', 'MLA841529901'],
+    relatedProducts: ['MLA231395761', 'MLA705286189'],
+  },
+  {
+    id: 'MLA28531688',
+    title: 'Difusor Humidificador Aromatizante Gadnic LED 500ml — DIFU0004',
+    canonicalName: 'Gadnic DIFU0004 500ml',
+    brand: 'Gadnic',
+    price: 45314,
+    priceUpdated: "2026-09-04",
+    priceLastChecked: "2026-09-04",
+    priceStatus: "fresh",
+    originalPrice: 71899,
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_2X_984548-MLA93846610083_092025-F.webp',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_2X_984548-MLA93846610083_092025-F.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_2X_685154-MLA93846521237_092025-F.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_2X_930597-MLA93846668951_092025-F.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_2X_653167-MLA93427518034_092025-F.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_2X_960434-MLA93846472355_092025-F.webp',
+    ],
+    category: 'Hogar',
+    categorySlug: 'hogar',
+    permalink: 'https://www.mercadolibre.com.ar/difusor-humidificador-aromatizante-gadnic-led-500ml-temporizador-control-remoto/p/MLA28531688',
+    affiliateUrl: 'PEGAR_MELI_LA',
+    condition: 'new',
+    freeShipping: false,
+    rating: 4.8,
+    reviewCount: 2357,
+    reviewsSampledAt: '2026-09-04',
+    soldQuantity: 10000,
+    visibility: 'deprioritized',
+    pastelColor: 'var(--pastel-amber)',
+    description: 'Difusor humidificador aromático Gadnic DIFU0004, 500ml, hasta 30 horas de autonomía. LED 7 colores, temporizador y control remoto incluido con pilas. Marca argentina con garantía de 12 meses y service técnico nacional. 2do más vendido de la categoría "Difusores de Aromas Eléctricos" en MercadoLibre Argentina.',
+    pros: [
+      '{{rating:MLA28531688}}⭐ con {{reviews:MLA28531688}} calificaciones — la base más grande de esta categoría, lejos de cualquier otro difusor del catálogo',
+      '500ml y hasta 30 horas de autonomía — el mayor volumen y la mayor duración de los que comparamos',
+      'Control remoto incluido con pilas',
+      'Temporizador programable + LED de 7 colores',
+      'Marca argentina Gadnic con garantía de 12 meses y service técnico propio a nivel nacional',
+      'Cuerpo disponible en 4 colores (blanco, azul, rojo, verde)',
+    ],
+    cons: [
+      'En modo continuo, algunas reseñas reportan condensación cerca de la salida de vapor — en modo intermitente no ocurre',
+      'Va siempre enchufado a 220V, no tiene batería',
+      'El fabricante recomienda usar esencias específicas "para humidificador", no cualquier aceite',
+    ],
+    verdict: 'Es la opción con más respaldo de esta comparativa, lejos: {{reviews:MLA28531688}} calificaciones y {{rating:MLA28531688}} estrellas, varias veces más que cualquier otro difusor de este catálogo. El salto de 300ml a 500ml y de 20 a 30 horas de autonomía se nota en el uso diario. La letra chica real: en modo continuo puede dejar unas gotas de condensación cerca de la base, así que sobre una mesa delicada conviene usar el modo intermitente.',
+    seoTitle: 'Difusor Gadnic 500ml DIFU0004: precio y opiniones en Argentina',
+    metaDescription: 'Difusor humidificador Gadnic DIFU0004 500ml a {{precio:MLA28531688}}. {{reviews:MLA28531688}} calificaciones reales, 30 horas de autonomía y garantía de 12 meses.',
+    ogTitle: 'El difusor Gadnic con más de 2.300 opiniones — 500ml, 30 horas de autonomía',
+    ogDescription: 'Difusor humidificador Gadnic DIFU0004, 500ml, hasta 30 horas de autonomía, LED 7 colores y control remoto. Más de 2.300 calificaciones reales, 4.8 estrellas. Ver precio →',
+    h1: 'Difusor humidificador Gadnic DIFU0004 500ml — el más elegido de esta comparativa, con más de 2.300 opiniones',
+    articleBody: `## Qué es el Gadnic DIFU0004
+
+Es el difusor con más respaldo real de compradores de toda esta comparativa: {{reviews:MLA28531688}} calificaciones y {{rating:MLA28531688}} estrellas, según Mercado Libre "2º más vendido" de la categoría "Difusores de Aromas Eléctricos" en Argentina. Cuesta {{precio:MLA28531688}} y es el de mayor capacidad de los que comparamos: 500ml contra los 130-300ml del resto.
+
+## El salto de 300ml a 500ml, y de 20 a 30 horas
+
+El [Gadnic DIFU0001 de 300ml](/producto/difusor-aromatizador-gadnic-difu0001-300ml-aceites-esenciales-mla231395761) ya es el de mayor capacidad entre los compactos de esta guía, con hasta 20 horas de autonomía. Este DIFU0004 va un escalón más arriba: 500ml de depósito y hasta 30 horas de funcionamiento continuo, según el fabricante. En la práctica, eso significa cargarlo con menos frecuencia si lo dejás funcionando de forma prolongada, algo que se nota en un living o un dormitorio grande.
+
+## Lo que dicen más de 2.300 compradores reales
+
+Con una base de reseñas así de grande, hay de todo, pero el patrón es consistente: "el difusor aromático es un producto excelente que cumple con las expectativas. Destaca por su capacidad para perfumar grandes espacios y su iluminación atractiva", resume el propio resumen de opiniones de Mercado Libre. Una compradora lo cuenta con más detalle: "me encantó el producto, lo uso a diario sinceramente, le puse esencias al agua y la verdad es hermoso, los colores los amo" (102 votos útiles). Otra reseña, más escueta, agrega el dato de alcance: "al principio si no estás al lado no sentís nada, pero al cabo de unos minutos ya se siente en toda la habitación" (94 votos útiles).
+
+## El detalle honesto: condensación en modo continuo
+
+La reseña más votada de todas (125 votos útiles, 4 de 5 estrellas) no es una queja grave, pero vale la pena conocerla antes de comprar: "con carga completa y de modo intermitente [...] me atrevería a decir hasta 4 o 5 días. Muy lindo estéticamente. El único problema que le encontré es que a veces [...] el lugar donde está apoyado se moja un poquito, a tener en cuenta si la mesa es delicada. Esto último solo ocurre con el modo continuo, con el modo intermitente no sucede." Es un matiz real, no un defecto de fábrica: en modo intermitente (el que usa la mayoría, según las reseñas) no aparece. Y como aclara el mismo comprador, va siempre enchufado — ningún difusor de esta comparativa funciona a batería.
+
+## Garantía y soporte en Argentina
+
+Gadnic es marca argentina con página oficial (gadnic.com.ar) y garantía de 12 meses con service técnico propio a nivel nacional, según su propia ficha técnica. En una categoría llena de productos genéricos sin marca reconocible, tener a quién reclamar si algo falla es un diferencial real, el mismo que ya tiene el DIFU0001 de 300ml de esta comparativa.
+
+## Cómo se compara con el resto de esta guía
+
+{{preciodif:MLA28531688:MLA231395761}} más caro que el Gadnic DIFU0001 de 300ml, pero con {{preciodif:MLA28531688:MLA210122868}} más de diferencia sobre el AJ-507 y bastante más que eso sobre el aromatizador USB simil madera. Es el más caro de los cuatro que comparamos, y también el único pensado para un ambiente grande, no para un escritorio o una mesita de noche. La [guía completa de difusores de aromas](/guias/salud-bienestar/difusor-de-aromas) compara las otras tres opciones en detalle según el espacio y el presupuesto.`,
+    specs: [
+      { label: 'Marca', value: 'Gadnic (Argentina)' },
+      { label: 'Modelo', value: 'DIFU0004' },
+      { label: 'Capacidad', value: '500 ml' },
+      { label: 'Autonomía', value: 'Hasta 30 horas' },
+      { label: 'Voltaje', value: 'Entrada 220V / Salida 24V' },
+      { label: 'Temporizador', value: 'Programable' },
+      { label: 'Iluminación', value: 'LED 7 colores' },
+      { label: 'Control', value: 'Control remoto incluido (con pilas)' },
+      { label: 'Alimentación', value: 'Fuente homologada incluida' },
+      { label: 'Dimensiones', value: '15,5 cm de diámetro × 10 cm de alto' },
+      { label: 'Peso', value: '326 g' },
+      { label: 'Garantía', value: '12 meses, service técnico Gadnic a nivel nacional' },
+      { label: 'Colores de cuerpo', value: 'Blanco, Azul, Rojo, Verde' },
+      { label: 'Rating', value: '4.8 ⭐ (más de 2.300 calificaciones)' },
+    ],
+    faq: [
+      {
+        question: '¿Cuánto cuesta el difusor Gadnic DIFU0004 500ml en Argentina?',
+        answer: 'El precio de contado en Mercado Libre es {{precio:MLA28531688}}, con {{reviews:MLA28531688}} calificaciones reales y {{rating:MLA28531688}} estrellas. Conviene confirmar el valor en la publicación porque puede variar.',
+      },
+      {
+        question: '¿Qué diferencia tiene con el Gadnic DIFU0001 de 300ml?',
+        answer: 'El DIFU0004 tiene más capacidad (500ml contra 300ml) y más autonomía (hasta 30 horas contra 20), pero cuesta {{preciodif:MLA28531688:MLA231395761}} más. Para un ambiente grande o para no recargarlo tan seguido, el DIFU0004 rinde más; para un espacio chico, el DIFU0001 alcanza.',
+      },
+      {
+        question: '¿Cuánto dura con el depósito lleno?',
+        answer: 'El fabricante declara hasta 30 horas en uso continuo. Una reseña real de un comprador que lo usa en modo intermitente (pulsos con pausas) calcula entre 4 y 5 días con una sola carga de 500ml.',
+      },
+      {
+        question: '¿Es cierto que moja la mesa donde está apoyado?',
+        answer: 'Según la reseña más votada del producto, puede dejar unas gotas de condensación cerca de la base, pero solo en modo continuo — en modo intermitente no ocurre. Si tu mesa es delicada, conviene usar ese modo o apoyarlo sobre una base protectora.',
+      },
+      {
+        question: '¿Incluye el control remoto y las pilas?',
+        answer: 'Sí, el control remoto viene en la caja con las pilas incluidas.',
+      },
+      {
+        question: '¿Funciona a batería o siempre hay que tenerlo enchufado?',
+        answer: 'Siempre enchufado. Ninguno de los difusores eléctricos de esta comparativa funciona a batería: todos necesitan estar conectados a una fuente de alimentación (220V en este caso) mientras están en uso.',
+      },
+      {
+        question: '¿Qué garantía tiene?',
+        answer: 'Gadnic ofrece 12 meses de garantía con service técnico propio a nivel nacional, según su ficha técnica oficial. Es una de las pocas marcas de esta categoría con soporte real en Argentina.',
+      },
+      {
+        question: '¿En qué colores viene?',
+        answer: 'El cuerpo del difusor está disponible en blanco, azul, rojo y verde, según la publicación de Mercado Libre.',
+      },
+      {
+        question: '¿Conviene comprar este en vez de uno más chico y barato?',
+        answer: 'Depende del espacio. Para un living, un dormitorio grande o un ambiente que querés aromatizar de punta a punta, el DIFU0004 rinde mejor por su mayor volumen y autonomía. Para un escritorio o una mesita de noche, los modelos compactos de 130ml de esta guía alcanzan y cuestan bastante menos.',
+      },
+    ],
+    customerReviews: [
+      { rating: 4, country: "Argentina", date: "2025", text: "Con carga completa y de modo intermitente (tira 10 segundos y para 10 segundos) durante bastante, me atrevería a decir hasta 4 o 5 días. Muy lindo estéticamente. El único problema que le encontré es que a veces (dependiendo de hacia donde se dirija el vapor) el lugar donde está apoyado se moja un poquito, a tener en cuenta si la mesa es delicada. Esto último solo ocurre con el modo continuo, con el modo intermitente no sucede. Dato adicional, va siempre enchufado, no posee batería." },
+      { rating: 5, country: "Argentina", date: "2025", text: "Me encantó el producto. Lo uso a diario sinceramente. Le puse esencias al agua y la verdad es hermoso! Los colores los amo." },
+      { rating: 5, country: "Argentina", date: "2025", text: "Es buenísimo, cuando lo vi me pareció pequeño, mas rinde muchísimo y, en mi caso también es ideal para el espacio donde puedo ubicarlo y funciona de maravillas! Vale lo que cuesta." },
+      { rating: 5, country: "Argentina", date: "2025", text: "Está muy bueno, al principio si no estás al lado no sentís nada, pero al cabo de unos minutos ya se siente en toda la habitación." },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Difusor Humidificador Aromatizante Gadnic LED 500ml DIFU0004',
+      description: 'Difusor humidificador aromático Gadnic DIFU0004, 500ml, hasta 30 horas de autonomía. LED 7 colores, temporizador y control remoto incluido con pilas. Marca argentina con garantía de 12 meses.',
+      brand: { '@type': 'Brand', name: 'Gadnic' },
+      model: 'DIFU0004',
+      offers: {
+        '@type': 'Offer',
+        url: 'PEGAR_MELI_LA',
+        priceCurrency: 'ARS',
+        price: 45314,
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.8',
+        reviewCount: '2357',
+      },
+    },
+    relatedProducts: ['MLA231395761', 'MLA210122868', 'MLA705286189'],
   },
   {
     id: 'MLA886877609',
-    priceStatus: "fresh",
+    priceStatus: "out_of_stock",
+    priceLastChecked: "2026-09-04",
+    visibility: "deprioritized",
     title: 'Humidificador Portátil USB 220ml — Difusor Aromático Cápsula Blanca',
     price: 8399,
     originalPrice: undefined,
@@ -82725,7 +84869,7 @@ Si venís de un colchón hundido y no querés irte al otro extremo, ese es el pu
     category: "Cocina", categorySlug: "cocina",
     permalink: "https://www.mercadolibre.com.ar/p/MLA46031096",
     affiliateUrl: "https://meli.la/19ayhGS",
-    condition: "new", freeShipping: false, rating: 4.8, reviewCount: 252,
+    condition: "new", freeShipping: false, rating: 4.8, reviewCount: 312,
     pastelColor: "var(--pastel-blue)",
     specs: [
       { label: "Marca", value: "Kanji Home" }, { label: "Modelo", value: "KJHAF1003" },
@@ -82733,6 +84877,7 @@ Si venís de un colchón hundido y no querés irte al otro extremo, ese es el pu
       { label: "Potencia", value: "1 kW. Es la potencia más baja del catálogo, empatada con la Cuk by Gadnic de 2,5 litros" },
       { label: "Control", value: "Perillas, no digital" },
       { label: "Rango de temperatura", value: "155 a 200 °C" },
+      { label: "Temporizador", value: "Hasta 30 minutos, según la ficha vigente de la publicación" },
       { label: "Peso", value: "1,5 kg. Es el más bajo de todas las que declaran peso" },
       { label: "Medidas", value: "20 x 20 x 25 cm" },
       { label: "Ventana transparente", value: "No" },
@@ -82751,6 +84896,43 @@ Si venís de un colchón hundido y no querés irte al otro extremo, ese es el pu
       { rating: 5, country: "Argentina", text: "Diseño compacto. La limpieza, medio pelo. El producto es genial: para una o dos personas está muy bien." },
       { rating: 4, country: "Argentina", text: "Se la compré a mi hija y dijo que le encantó. Se hizo unos choricitos rápido, bien cocidos y sin aceite." },
     ],
+    articleBody: `## Qué es la Kanji Home KJHAF1003
+
+Es la freidora de aire más barata de nuestra comparativa: cuesta {{precio:MLA46031096}} y tiene {{reviews:MLA46031096}} calificaciones con {{rating:MLA46031096}} estrellas en MercadoLibre Argentina, dentro de [nuestra comparativa de las mejores freidoras de aire en Argentina](/guias/mejores-freidoras-de-aire-argentina). Es analógica: se maneja con una perilla de temperatura y otra de tiempo, sin pantalla ni programas preestablecidos.
+
+## Lo que promete la publicación, y lo que confirman quienes la usan
+
+La publicación de MercadoLibre describe sus 2,7 litros como capacidad **"ideal para preparar porciones familiares"**. Eso no coincide con el tamaño real: solo la Cuk by Gadnic de 2,5 litros es más chica en todo este catálogo. Las propias opiniones de compradores lo corrigen de forma directa. Una lo dice sin vueltas: **"para una o dos personas está muy bien"**. Si el plan es cocinar para una familia de 4, esta no es la freidora, aunque el texto de venta lo sugiera.
+
+## Cómo es el control por perillas
+
+No tiene pantalla táctil ni programas preestablecidos, a diferencia de casi todo el resto de esta comparativa. Se maneja con una perilla de temperatura (155 a 200 °C) y una de tiempo, con un temporizador de hasta 30 minutos según la ficha vigente de la publicación. Es un control más manual: no hay un botón de "papas fritas" que cargue tiempo y temperatura solo, hay que ajustarlo cada vez. A cambio, es un mecanismo con menos electrónica que puede fallar.
+
+## Por qué arranca más caliente que las digitales
+
+Su rango va de 155 a 200 °C, bastante más arriba que las freidoras digitales de esta comparativa, que bajan hasta 75 u 80 °C. En la práctica, esto significa que no sirve tan bien para recalentar comida a fuego bajo: el piso más bajo que ofrece ya es una temperatura de cocción, no de recalentado suave.
+
+## Contra las otras opciones de Kanji y del catálogo
+
+Un escalón arriba, dentro de la misma marca, está la [Kanji KJHAF1404](/producto/freidora-de-aire-kanji-kjhaf1404-4-litros-1-4-kw-digital-mla57822248): 4 litros, control digital y rango desde 80 °C, por {{preciodif:MLA57822248:MLA46031096}} más. Si el uso es para más de una o dos personas, o si te interesa recalentar sin resecar, esa diferencia de precio se justifica.
+
+Contra las freidoras más grandes de la comparativa, como la [Liliana AF966N Airview](/producto/freidora-de-aire-liliana-af966n-airview-6-litros-con-ventana-mla46208363) ({{preciodif:MLA46208363:MLA46031096}} más, 6 litros con ventana) o la [Atma FR248AWP](/producto/freidora-de-aire-atma-fr248awp-8-litros-1-75-kw-blanca-con-ventana-mla39861128) ({{preciodif:MLA39861128:MLA46031096}} más, 8 litros, la más elegida del catálogo), la diferencia de capacidad es enorme. La Kanji Home KJHAF1003 no compite en ese terreno: su argumento es el precio y el tamaño mínimo, no el rendimiento para una familia.
+
+## Para quién es, y para quién no
+
+Es para vos si vivís solo o en pareja, si buscás la entrada más barata a la categoría, o si preferís un control simple por perillas sin depender de electrónica. Sus {{reviews:MLA46031096}} calificaciones y sus propios compradores lo confirman para ese uso puntual.
+
+No es para vos si buscás cocinar para una familia (la publicación lo sugiere, la capacidad real no lo sostiene), si querés programas preestablecidos, o si vas a usarla seguido para recalentar comida sin resecarla: para eso conviene un modelo con piso de temperatura más bajo, como el resto de esta comparativa.`,
+    faq: [
+      { question: "¿La Kanji Home KJHAF1003 alcanza para una familia?", answer: "No, aunque la publicación de MercadoLibre la describe como ideal para \"porciones familiares\". Con 2,7 litros es de las más chicas del catálogo, y sus propios compradores lo confirman: una opinión dice textual que \"para una o dos personas está muy bien\"." },
+      { question: "¿Tiene pantalla digital o programas preestablecidos?", answer: "No. Se maneja por perillas: una de temperatura (155 a 200 °C) y otra de tiempo, con un temporizador de hasta 30 minutos. No hay programas automáticos como en las freidoras digitales del catálogo." },
+      { question: "¿Sirve para recalentar comida sin resecarla?", answer: "No es su fuerte. Su rango arranca en 155 °C, bastante por encima de las freidoras digitales de esta comparativa, que bajan hasta 75 u 80 °C. Para recalentar a fuego bajo, conviene un modelo con piso de temperatura más bajo." },
+      { question: "¿Cuánto pesa y qué lugar ocupa?", answer: "Pesa 1,5 kg, la más liviana de todas las que declaran peso en este catálogo, y mide 20 x 20 x 25 cm. Es la opción más chica para una mesada reducida." },
+      { question: "¿Vale la pena pagar más por la Kanji KJHAF1404?", answer: "Si el uso es para más de una o dos personas, sí. La KJHAF1404 tiene 4 litros, control digital y arranca en 80 °C (sirve para recalentar), por {{preciodif:MLA57822248:MLA46031096}} más que esta." },
+      { question: "¿Trae ventana para ver la cocción?", answer: "No. Al ser analógica y de las más chicas de la comparativa, no incorpora ventana transparente. Hay que abrir el canasto para controlar el punto de cocción." },
+      { question: "¿Qué dicen los compradores sobre la limpieza?", answer: "Una opinión la califica como \"medio pelo\": no es tan simple de limpiar como las que declaran superficie antiadherente sin reservas. Es la única contra de mantenimiento que aparece en las reseñas revisadas." },
+      { question: "¿Es la más barata del catálogo?", answer: "Sí, es la freidora de aire más económica de toda esta comparativa. Solo la Cuk by Gadnic de 2,5 litros la supera en tamaño mínimo, pero no en precio." },
+    ],
   },
   {
     id: "MLA57822248",
@@ -82762,7 +84944,7 @@ Si venís de un colchón hundido y no querés irte al otro extremo, ese es el pu
     category: "Cocina", categorySlug: "cocina",
     permalink: "https://www.mercadolibre.com.ar/p/MLA57822248",
     affiliateUrl: "https://meli.la/1EvBGFe",
-    condition: "new", freeShipping: false, rating: 4.8, reviewCount: 751,
+    condition: "new", freeShipping: false, rating: 4.8, reviewCount: 800,
     pastelColor: "var(--pastel-green)",
     specs: [
       { label: "Marca", value: "Kanji" }, { label: "Modelo", value: "KJHAF1404" },
@@ -82775,8 +84957,8 @@ Si venís de un colchón hundido y no querés irte al otro extremo, ese es el pu
       { label: "Peso", value: "No declarado en la ficha" },
     ],
     relatedProducts: ["MLA46031096","MLA46208363","MLA42479783"],
-    priceUpdated: "2026-09-02", priceLastChecked: "2026-08-18", priceVerifiedAt: "2026-08-18",
-    priceStatus: "fresh", reviewsSampledAt: "2026-08-18",
+    priceUpdated: "2026-09-03", priceLastChecked: "2026-09-03", priceVerifiedAt: "2026-09-03",
+    priceStatus: "fresh", reviewsSampledAt: "2026-09-03",
     description: "4 litros con control digital y rango desde 80 °C, por debajo de los $75.000. La opción para quien vive solo y quiere resolver rápido.",
     seoTitle: "Kanji KJHAF1404: 4 litros digital",
     metaDescription: "Freidora de aire Kanji KJHAF1404 de 4 litros y control digital. Para cuántas personas alcanza y qué dicen sus compradores sobre la limpieza.",
@@ -82786,6 +84968,49 @@ Si venís de un colchón hundido y no querés irte al otro extremo, ese es el pu
     customerReviews: [
       { rating: 5, country: "Argentina", text: "Excelente relación precio-calidad. La medida es ideal para alguien que vive solo y quiere resolver rápido las comidas. No ocupa mucho lugar." },
       { rating: 5, country: "Argentina", text: "Es fácil de lavar, aunque se ve manchada rápido por afuera al ser superficie táctil en vez de botones." },
+    ],
+    articleBody: `## Qué es la Kanji KJHAF1404
+
+Es una freidora de aire de 4 litros con control digital, por debajo de los $75.000. Cuesta {{precio:MLA57822248}} y tiene {{reviews:MLA57822248}} calificaciones con {{rating:MLA57822248}} estrellas en MercadoLibre Argentina, dentro de [nuestra comparativa de las mejores freidoras de aire en Argentina](/guias/mejores-freidoras-de-aire-argentina).
+
+## La publicación dice "grandes porciones", la reseña real dice otra cosa
+
+La publicación describe sus 4 litros como ideales para "preparar grandes porciones". Sus propios compradores lo matizan: una reseña la define de forma mucho más precisa como **"ideal para alguien que vive solo y quiere resolver rápido las comidas, sin ocupar mucho lugar"**. Con 4 litros, es un tamaño para 1 o 2 personas, no para una familia numerosa: preferimos guiarte con la experiencia real de uso antes que con el adjetivo de venta.
+
+## El salto sobre la analógica más chica de la marca
+
+Comparada con la [Kanji Home KJHAF1003](/producto/freidora-de-aire-kanji-home-kjhaf1003-2-7-litros-1-kw-analogica-mla46031096), de la misma familia de marca, el salto se nota en tres cosas: 4 litros contra 2,7, control digital en vez de perillas, y un rango que arranca en 80 °C contra los 155 °C de la analógica. Ese piso más bajo es justamente lo que habilita recalentar sin resecar la comida, algo que la analógica no puede hacer bien.
+
+## Lo que no trae: ventana
+
+A diferencia de varias freidoras de esta comparativa, no tiene ventana transparente. Hay que abrir el canasto para controlar el punto de cocción, lo que corta el proceso.
+
+## Un detalle estético real: se mancha rápido
+
+Una reseña avisa algo que no es una falla de funcionamiento pero sí afecta el día a día: al ser superficie táctil en vez de botones físicos, **se ve manchada rápido por afuera**. Es fácil de lavar según la misma reseña, pero conviene saber que el panel táctil muestra las huellas más que un panel con botones tradicionales.
+
+## Contra las otras freidoras de la comparativa
+
+Cuesta {{preciodif:MLA57822248:MLA46031096}} más que la Kanji Home KJHAF1003 analógica, con el salto de funciones ya mencionado.
+
+La [Liliana AF966N Airview](/producto/freidora-de-aire-liliana-af966n-airview-6-litros-con-ventana-mla46208363) cuesta {{preciodif:MLA46208363:MLA57822248}} más, con 6 litros contra 4 y la ventana que esta ficha no tiene.
+
+La [Novohome NH-AF70WIX](/producto/freidora-de-aire-novohome-nh-af70wix-7-litros-4-funciones-mla42479783) cuesta {{preciodif:MLA42479783:MLA57822248}} más, con 7 litros y ventana, aunque con una reseña seria sobre apagado espontáneo que esta ficha no tiene.
+
+## Para quién es, y para quién no
+
+Es para vos si vivís solo o en pareja y buscás resolver la cocina diaria rápido, con control digital y sin gastar demasiado.
+
+No es para vos si necesitás ventana para controlar la cocción sin abrir, o si cocinás para 3 personas o más de forma habitual: para eso conviene una freidora de mayor capacidad de esta misma comparativa.`,
+    faq: [
+      { question: "¿Para cuántas personas alcanza realmente?", answer: "La publicación la describe para \"grandes porciones\", pero sus propios compradores la ubican de forma más precisa: una reseña la define como ideal para alguien que vive solo. Con 4 litros, rinde mejor para 1 o 2 personas que para una familia numerosa." },
+      { question: "¿Sirve para recalentar comida sin resecarla?", answer: "Sí. Arranca en 80 °C, un piso bastante más bajo que los 155 °C de la Kanji Home KJHAF1003 analógica de la misma marca, y ese rango es el que permite recalentar sin arruinar la comida." },
+      { question: "¿Trae ventana para ver la cocción?", answer: "No. Hay que abrir el canasto para controlar el punto de cocción, a diferencia de otras freidoras de esta comparativa que sí incluyen ventana transparente." },
+      { question: "¿Se ensucia o mancha fácil?", answer: "Una reseña avisa que la superficie externa, al ser táctil en vez de botones físicos, se ve manchada rápido. No es una falla, pero conviene saberlo: un panel táctil muestra más las huellas que uno con botones." },
+      { question: "¿Vale la pena pagar más que por la Kanji Home KJHAF1003?", answer: "Depende de qué necesites. Esta cuesta {{preciodif:MLA57822248:MLA46031096}} más, pero suma control digital, 1,3 litros más de capacidad y un piso de temperatura mucho más bajo (80 °C contra 155 °C), lo que la hace mucho mejor para recalentar." },
+      { question: "¿Cuánto pesa?", answer: "Su ficha de MercadoLibre no declara peso, así que en ese dato puntual no se la puede comparar con el resto del catálogo." },
+      { question: "¿Conviene más esta o la Liliana AF966N Airview?", answer: "La Liliana cuesta {{preciodif:MLA46208363:MLA57822248}} más, pero tiene 6 litros contra 4 y ventana transparente, algo que esta Kanji no ofrece. Si el presupuesto es la prioridad, esta Kanji alcanza para 1 o 2 personas." },
+      { question: "¿Tiene un solo canasto?", answer: "Sí, un solo canasto, como la mayoría de las freidoras de esta comparativa. No permite cocinar dos alimentos por separado al mismo tiempo." },
     ],
   },
   {
@@ -82798,7 +85023,7 @@ Si venís de un colchón hundido y no querés irte al otro extremo, ese es el pu
     category: "Cocina", categorySlug: "cocina",
     permalink: "https://www.mercadolibre.com.ar/p/MLA46208363",
     affiliateUrl: "https://meli.la/1Gpkhmr",
-    condition: "new", freeShipping: false, rating: 4.9, reviewCount: 115,
+    condition: "new", freeShipping: false, rating: 4.9, reviewCount: 160,
     pastelColor: "var(--pastel-amber)",
     specs: [
       { label: "Marca", value: "Liliana" }, { label: "Modelo", value: "AF966N Airview" },
@@ -82806,6 +85031,7 @@ Si venís de un colchón hundido y no querés irte al otro extremo, ese es el pu
       { label: "Potencia", value: "1,65 kW" },
       { label: "Control", value: "Digital con pantalla táctil" },
       { label: "Ventana transparente", value: "Sí" },
+      { label: "Color", value: "Una reseña de comprador reporta que llegó en color crema, no blanco. La publicación vigente en MercadoLibre hoy la muestra como negra. Confirmá el color con el vendedor antes de comprar, porque parece variar según el momento y la oferta" },
       { label: "Medidas", value: "35,8 x 33,8 x 32,8 cm" },
       { label: "Accesorios", value: "Rejilla incluida" },
       { label: "Canastos", value: "1, pero admite doble altura" },
@@ -82817,17 +85043,60 @@ Si venís de un colchón hundido y no querés irte al otro extremo, ese es el pu
       { label: "Peso", value: "7,7 kg. Su ficha de ML lo carga como 7.700 usando el punto como separador de miles" },
     ],
     relatedProducts: ["MLA42479783","MLA39861128","MLA57822248"],
-    priceUpdated: "2026-09-02", priceLastChecked: "2026-08-18", priceVerifiedAt: "2026-08-18",
-    priceStatus: "fresh", reviewsSampledAt: "2026-08-18",
-    description: "6 litros con ventana transparente, doble altura y la nota más alta de nuestra comparativa. También la de respaldo más chico, con poco más de 100 opiniones.",
+    priceUpdated: "2026-09-03", priceLastChecked: "2026-09-03", priceVerifiedAt: "2026-09-03",
+    priceStatus: "fresh", reviewsSampledAt: "2026-09-03",
+    description: "6 litros con ventana transparente, doble altura y la nota más alta de nuestra comparativa. También la de respaldo más chico, con poco más de 150 opiniones.",
     seoTitle: "Liliana AF966N Airview: 6 litros con ventana",
     metaDescription: "Freidora de aire Liliana AF966N Airview de 6 litros con ventana transparente. La mejor nota de la comparativa y qué avisan sus compradores.",
     verdict: "Tiene **la nota más alta de esta comparativa**, {{rating:MLA46208363}}, y dos diferencias prácticas. La primera es la **ventana transparente**: se mira sin abrir el canasto, y abrir corta la cocción. La segunda no aparece en su publicación de MercadoLibre y la sacamos del manual del fabricante: **admite doble altura**, o sea que la bandeja trae cuatro encastres para apoyar la rejilla a media altura y cocinar en dos pisos simultáneos. No es doble canasto, no hay dos temperaturas independientes, pero resuelve cocinar dos cosas a la vez. Declara **6 litros** y **1,65 kW**, con pantalla táctil y rejilla incluida. Ahora lo honesto: es **la de respaldo más chico del grupo**, con apenas **{{reviews:MLA46208363}} opiniones**, así que esa nota alta se apoya en mucha menos gente que el resto. Dos avisos que salen de compradores y que la ficha no dice: **no es blanca, es crema**, y **los sonidos de aviso molestan**. Sobre el peso: son **7,7 kg**, aunque su ficha de ML lo escriba como 7.700 usando el punto como separador de miles. Con ese número es **una de las más pesadas de las que declaran peso**, apenas debajo de la Novohome de 7 litros.",
     pros: ["La nota más alta de esta comparativa","Ventana transparente: se mira sin cortar la cocción","Admite doble altura: dos pisos de cocción simultáneos, según el manual","8 programas y rango desde 80 °C, datos que su publicación de ML no declara","6 litros con pantalla táctil y rejilla incluida","Una opinión confirma que rinde para 3 o 4 personas"],
-    cons: ["El respaldo más chico del grupo, con poco más de 100 opiniones","Una opinión avisa que no es blanca sino crema","Una opinión se queja de los sonidos de aviso","7,7 kg: es de las más pesadas de las que declaran peso"],
+    cons: ["El respaldo más chico del grupo, con poco más de 150 opiniones","Una opinión avisa que no es blanca sino crema, y la ficha vigente hoy la muestra negra: el color parece variar","Una opinión se queja de los sonidos de aviso","7,7 kg: es de las más pesadas de las que declaran peso"],
     customerReviews: [
       { rating: 5, country: "Argentina", text: "Sirve para 3 o 4 personas y la cocción es muy buena. No es blanca, es crema. Está buena, aunque me molestan los sonidos que tiene." },
       { rating: 5, country: "Argentina", text: "El diseño es muy sobrio y cocina perfecto, hay que tomarle la mano. Para una o dos personas es ideal." },
+    ],
+    articleBody: `## Qué es la Liliana AF966N Airview
+
+Es una freidora de aire de 6 litros con pantalla digital táctil y ventana transparente. Cuesta {{precio:MLA46208363}} y tiene {{rating:MLA46208363}} estrellas en MercadoLibre Argentina, dentro de [nuestra comparativa de las mejores freidoras de aire en Argentina](/guias/mejores-freidoras-de-aire-argentina).
+
+## El dato que la publicación de ML no dice: admite doble altura
+
+Según el manual del fabricante, la bandeja trae cuatro encastres a media altura para apoyar la rejilla incluida y cocinar en dos pisos a la vez, dentro del mismo canasto. No es lo mismo que un doble canasto (sigue habiendo una sola temperatura para los dos pisos), pero resuelve un problema real: cocinar dos cosas distintas al mismo tiempo sin usar dos tandas. Este dato no aparece en la publicación de MercadoLibre, así que muchos compradores ni se enteran de que la freidora lo puede hacer.
+
+## La nota más alta, con el respaldo más chico
+
+Tiene {{rating:MLA46208363}}, la nota más alta de toda esta comparativa. Pero hay que leerla con contexto: se apoya en apenas {{reviews:MLA46208363}} opiniones, la base más chica del grupo por lejos. No decimos que la nota esté mal, decimos que descansa en mucha menos gente que el resto de las freidoras que comparamos, así que conviene tomarla con algo más de cautela.
+
+## El color: lo que dicen las reseñas y lo que muestra la ficha hoy
+
+Acá hay una discrepancia real que preferimos publicar antes que esconder. Una reseña de un comprador avisa que **le llegó color crema en vez de blanco**. Al revisar la publicación vigente en MercadoLibre hoy, el color que se muestra como oferta principal es **negro**. No podemos confirmar con certeza cuál llega en cada compra puntual: parece depender del momento y de qué vendedor tenga stock. Nuestra recomendación honesta es confirmar el color exacto con el vendedor antes de pagar, en vez de guiarte solo por la foto de portada.
+
+## Los sonidos de aviso
+
+Una reseña se queja de que los sonidos de aviso molestan. Es una queja menor de uso diario, no una falla de funcionamiento, pero la incluimos porque es justamente el tipo de detalle que solo aparece después de usar el producto en la casa, no en la ficha de venta.
+
+## Contra las otras freidoras de la comparativa
+
+La [Novohome NH-AF70WIX](/producto/freidora-de-aire-novohome-nh-af70wix-7-litros-4-funciones-mla42479783) cuesta {{preciodif:MLA42479783:MLA46208363}} más y tiene 1 litro más de capacidad, pero carga una reseña seria sobre apagado espontáneo que esta ficha no tiene.
+
+La [Atma FR248AWP](/producto/freidora-de-aire-atma-fr248awp-8-litros-1-75-kw-blanca-con-ventana-mla39861128) cuesta {{preciodif:MLA39861128:MLA46208363}} más, con 8 litros y el respaldo de opiniones más grande de todo el catálogo, muy por encima de esta.
+
+La [Kanji KJHAF1404](/producto/freidora-de-aire-kanji-kjhaf1404-4-litros-1-4-kw-digital-mla57822248) cuesta {{preciodif:MLA46208363:MLA57822248}} menos, aunque con 4 litros en vez de 6 y sin la función de doble altura que distingue a esta Liliana.
+
+## Para quién es, y para quién no
+
+Es para vos si te sirve cocinar dos alimentos a la vez en pisos separados, si priorizás la ventana transparente, o si cocinás para 3 o 4 personas según confirman sus propios compradores.
+
+No es para vos si te preocupa comprar a ciegas sobre el color exacto que va a llegar, o si preferís apoyarte en una base de opiniones más grande antes de decidir: esta ficha tiene la más chica de todo el grupo.`,
+    faq: [
+      { question: "¿La Liliana AF966N Airview cocina en dos pisos a la vez?", answer: "Sí, según el manual del fabricante. La bandeja trae cuatro encastres a media altura para apoyar la rejilla incluida y cocinar dos alimentos distintos al mismo tiempo, dentro del mismo canasto. Es un dato que la publicación de MercadoLibre no declara." },
+      { question: "¿De qué color es realmente esta freidora?", answer: "Acá hay una discrepancia real. Una reseña de comprador avisa que le llegó color crema en vez de blanco, y la publicación vigente en MercadoLibre hoy muestra la versión negra como oferta principal. No podemos confirmar cuál llega en cada compra puntual: conviene chequear el color exacto con el vendedor antes de pagar." },
+      { question: "¿Es confiable su nota si tiene pocas opiniones?", answer: "Tiene {{rating:MLA46208363}}, la más alta de esta comparativa, pero se apoya en apenas {{reviews:MLA46208363}} calificaciones, la base más chica del grupo. La nota es real, pero conviene leerla sabiendo que hay menos gente detrás que en el resto de las freidoras comparadas." },
+      { question: "¿Hace mucho ruido?", answer: "Una reseña se queja de que los sonidos de aviso molestan. No es una falla de funcionamiento, es una preferencia de uso diario que vale la pena saber de antemano." },
+      { question: "¿Cuánto pesa?", answer: "7,7 kg, de las más pesadas entre las freidoras de esta comparativa que declaran peso. Su ficha de MercadoLibre lo carga como 7.700 usando el punto como separador de miles, así que si ves ese número ahí, es un error de formato, no que pese 7 toneladas." },
+      { question: "¿Para cuántas personas alcanza?", answer: "Una reseña confirma que rinde bien para 3 o 4 personas. Con 6 litros y la función de doble altura, cocinar para ese tamaño de familia no debería requerir varias tandas." },
+      { question: "¿Trae ventana para ver la cocción?", answer: "Sí, ventana transparente, así que se puede controlar el punto de cocción sin abrir el canasto." },
+      { question: "¿Conviene más esta o la Kanji KJHAF1404, mucho más barata?", answer: "Depende de qué priorices. La Kanji KJHAF1404 cuesta {{preciodif:MLA46208363:MLA57822248}} menos, pero tiene 4 litros en vez de 6 y no ofrece la función de doble altura que distingue a esta Liliana." },
     ],
   },
   {
@@ -82840,7 +85109,7 @@ Si venís de un colchón hundido y no querés irte al otro extremo, ese es el pu
     category: "Cocina", categorySlug: "cocina",
     permalink: "https://www.mercadolibre.com.ar/p/MLA42479783",
     affiliateUrl: "https://meli.la/1z5t8GN",
-    condition: "new", freeShipping: false, rating: 4.8, reviewCount: 1884,
+    condition: "new", freeShipping: false, rating: 4.8, reviewCount: 2016,
     pastelColor: "var(--pastel-purple)",
     specs: [
       { label: "Marca", value: "Novohome" }, { label: "Modelo", value: "NH-AF70WIX" },
@@ -82854,17 +85123,59 @@ Si venís de un colchón hundido y no querés irte al otro extremo, ese es el pu
       { label: "Canastos", value: "1, como las otras seis" },
     ],
     relatedProducts: ["MLA39861128","MLA46208363","MLA45520216"],
-    priceUpdated: "2026-09-02", priceLastChecked: "2026-08-18", priceVerifiedAt: "2026-08-18",
-    priceStatus: "fresh", reviewsSampledAt: "2026-08-18",
-    description: "7 litros con ventana, cuatro funciones y casi 1.900 opiniones. Una opinión reporta que a los 3 meses se apagaba sola a los 10 minutos.",
+    priceUpdated: "2026-09-03", priceLastChecked: "2026-09-03", priceVerifiedAt: "2026-09-03",
+    priceStatus: "fresh", reviewsSampledAt: "2026-09-03",
+    description: "7 litros con ventana, cuatro funciones y más de 2.000 opiniones. Una opinión reporta que a los 3 meses se apagaba sola a los 10 minutos.",
     seoTitle: "Novohome NH-AF70WIX: 7 litros y 4 funciones",
     metaDescription: "Freidora de aire Novohome NH-AF70WIX de 7 litros con ventana y 4 funciones. Qué reportan sus compradores después de meses de uso.",
     verdict: "Declara las cuatro funciones del tramo medio, **freír, asar, recalentar y deshidratar**, con **7 litros**, **ventana transparente** y rango desde 80 °C. Con **{{reviews:MLA42479783}} opiniones** tiene un respaldo sólido. Pero acá va una contra seria y la publicamos entera porque viene de alguien que la usó meses: **una opinión reporta que después de 3 meses se apagaba sola a los 10 minutos, en todos los usos**. No es un caso de mala cocción, es una falla de funcionamiento. Otras dos opiniones apuntan a la curva de aprendizaje: a una le salió **el pollo seco por subir la temperatura de más**, y otra necesitó **más tiempo del preestablecido** para las papas.",
-    pros: ["Cuatro funciones declaradas: freír, asar, recalentar y deshidratar","7 litros con ventana transparente","Rango desde 80 °C","Casi 1.900 opiniones de respaldo"],
+    pros: ["Cuatro funciones declaradas: freír, asar, recalentar y deshidratar","7 litros con ventana transparente","Rango desde 80 °C","Más de 2.000 opiniones de respaldo"],
     cons: ["Una opinión reporta que a los 3 meses se apagaba sola a los 10 minutos","Dos opiniones mencionan que hay que ajustarle los tiempos preestablecidos","8 kg: es la más pesada de las que declaran peso","Un solo canasto, como las otras seis"],
     customerReviews: [
       { rating: 5, country: "Argentina", text: "Después de 3 meses de la compra, a los 10 minutos se apaga sola. Eso sucede en todos los usos, no solo de vez en cuando." },
       { rating: 5, country: "Argentina", text: "A la primera le salió seco el pollo, puse más temperatura de la que debía. Ahora dejo todo tal como está programado y funciona bien." },
+    ],
+    articleBody: `## La falla que hay que saber antes de comprarla
+
+Antes de cualquier otra cosa: **una reseña de un comprador que la usó varios meses reporta que, a partir de los 3 meses de uso, la freidora empezó a apagarse sola a los 10 minutos, en todos los usos, no de forma ocasional**. Lo publicamos completo porque es exactamente el tipo de dato que una publicación de MercadoLibre nunca va a mostrar por sí sola, y que solo aparece cuando alguien la usó el tiempo suficiente como para toparse con el problema.
+
+Con eso dicho: es una sola reseña entre {{reviews:MLA42479783}} calificaciones, así que no podemos afirmar que sea una falla frecuente en toda la partida. Lo que sí podemos hacer es no silenciarla, y avisar que si te pasa algo similar, no sos el único caso reportado.
+
+## Qué es la Novohome NH-AF70WIX
+
+Es una freidora de aire de 7 litros, con panel de pantalla digital táctil y ventana transparente. Cuesta {{precio:MLA42479783}} y tiene {{rating:MLA42479783}} estrellas en MercadoLibre Argentina, dentro de [nuestra comparativa de las mejores freidoras de aire en Argentina](/guias/mejores-freidoras-de-aire-argentina). Declara cuatro funciones: freír, asar, recalentar y deshidratar, con un rango de temperatura de 80 a 200 °C.
+
+## Las otras dos quejas, más chicas, sobre la curva de aprendizaje
+
+Dos reseñas más apuntan a algo distinto de una falla: el ajuste inicial de tiempos y temperaturas. Una cuenta que la primera vez le salió **el pollo seco por subir la temperatura de más**, y que después de dejar los valores tal como vienen programados, funciona bien. Otra necesitó **más tiempo del que traía preestablecido** para que las papas quedaran a punto. Es lo típico de una freidora nueva en la casa: la primera tanda casi nunca sale perfecta hasta calibrar el equipo a tu gusto.
+
+## Lo que cumple bien
+
+Con **8 kg** es la más pesada de las que declaran peso en esta comparativa, así que conviene un lugar fijo en la mesada. A cambio trae **ventana transparente** para controlar la cocción sin abrir el canasto, y un rango que arranca en **80 °C**, lo bastante bajo como para recalentar sin resecar del todo (aunque no tan bajo como el piso de 75 °C de la Atma FR248AWP).
+
+## Contra las otras freidoras de la comparativa
+
+La [Atma FR248AWP](/producto/freidora-de-aire-atma-fr248awp-8-litros-1-75-kw-blanca-con-ventana-mla39861128) cuesta {{preciodif:MLA39861128:MLA42479783}} más, tiene 1 litro más de capacidad y es la más elegida de todo el catálogo por lejos, con el doble de opiniones. Entre sus reseñas no aparece un reclamo de apagado espontáneo como el de esta ficha.
+
+La [Liliana AF966N Airview](/producto/freidora-de-aire-liliana-af966n-airview-6-litros-con-ventana-mla46208363) cuesta {{preciodif:MLA42479783:MLA46208363}} menos, aunque con 6 litros es más chica y su respaldo de opiniones es mucho menor.
+
+La [Philco FR259PH](/producto/freidora-de-aire-philco-fr259ph-9-litros-2-kw-mla45520216) cuesta {{preciodif:MLA45520216:MLA42479783}} más, con 9 litros y 2 kW de potencia (la más alta del grupo), pero no trae ventana transparente.
+
+## Para quién es, y para quién no
+
+Es para vos si buscás 7 litros con ventana y cuatro funciones a un precio intermedio, y estás dispuesto a calibrar los primeros usos hasta encontrarle la mano al equipo.
+
+No es para vos si te preocupa el reporte de apagado espontáneo y preferís un modelo con más respaldo de opiniones sin ese reclamo puntual, como la Atma FR248AWP de esta misma comparativa.`,
+    faq: [
+      { question: "¿Es cierto que la Novohome NH-AF70WIX se apaga sola?", answer: "Hay un reporte concreto: una reseña de un comprador que la usó varios meses cuenta que, a partir de los 3 meses de uso, empezó a apagarse sola a los 10 minutos, en todos los usos. Es una sola reseña entre más de 2.000 calificaciones, así que no podemos confirmar que sea un problema generalizado, pero preferimos avisarlo antes que silenciarlo." },
+      { question: "¿Qué tan grave es ese reclamo, le pasa a la mayoría?", answer: "No hay forma de saberlo con certeza desde acá: es un solo reporte entre {{reviews:MLA42479783}} calificaciones, la mayoría de las cuales son positivas. Lo tratamos como una señal de alerta a tener en cuenta, no como una falla confirmada en toda la partida." },
+      { question: "¿Cuántos litros tiene y para cuántas personas alcanza?", answer: "Tiene 7 litros, un tamaño intermedio en esta comparativa. Alcanza para una familia de tamaño medio sin necesidad de cocinar en varias tandas." },
+      { question: "¿Qué funciones tiene además de freír?", answer: "Declara cuatro funciones: freír, asar, recalentar y deshidratar. El rango de temperatura va de 80 a 200 °C." },
+      { question: "¿Trae ventana para ver la cocción?", answer: "Sí, ventana transparente, así que se puede controlar el punto de cocción sin abrir el canasto." },
+      { question: "¿Conviene más esta o la Atma FR248AWP?", answer: "La Atma FR248AWP cuesta {{preciodif:MLA39861128:MLA42479783}} más, pero tiene 1 litro más de capacidad, es la más elegida de todo el catálogo (con el doble de opiniones) y entre sus reseñas no aparece un reclamo de apagado como el de esta ficha." },
+      { question: "¿Cuánto pesa y cuánto lugar ocupa?", answer: "Pesa 8 kg, la más pesada de las freidoras que declaran peso en esta comparativa. Conviene dejarla en un lugar fijo de la mesada en vez de guardarla y sacarla cada vez." },
+      { question: "¿Sirve para recalentar comida sin resecarla?", answer: "Su rango arranca en 80 °C, lo bastante bajo como para recalentar sin resecar del todo. No baja tanto como el piso de 75 °C de la Atma FR248AWP de esta misma comparativa, pero cumple." },
+      { question: "¿Por qué a algunas personas les salió seca la primera cocción?", answer: "Dos reseñas hablan de la curva de aprendizaje típica de una freidora nueva. Una subió la temperatura de más y le salió el pollo seco; después de dejar los valores preestablecidos, funcionó bien. Otra necesitó más tiempo del que traía programado para las papas. Es normal calibrar los primeros usos hasta encontrarle la mano al equipo." },
     ],
   },
   {
@@ -82877,13 +85188,13 @@ Si venís de un colchón hundido y no querés irte al otro extremo, ese es el pu
     category: "Cocina", categorySlug: "cocina",
     permalink: "https://www.mercadolibre.com.ar/p/MLA45520216",
     affiliateUrl: "https://meli.la/1AZKSno",
-    condition: "new", freeShipping: false, rating: 4.8, reviewCount: 1568,
+    condition: "new", freeShipping: false, rating: 4.8, reviewCount: 1569,
     pastelColor: "var(--pastel-coral)",
     specs: [
       { label: "Marca", value: "Philco" }, { label: "Modelo", value: "FR259PH" },
       { label: "Capacidad", value: "9 litros" },
       { label: "Potencia", value: "2 kW. Es la más alta de esta comparativa" },
-      { label: "Control", value: "Digital con pantalla táctil" },
+      { label: "Control", value: "Digital con pantalla táctil, con 12 programas de cocción según el título de la publicación" },
       { label: "Ventana transparente", value: "No" },
       { label: "Canastos", value: "1, como las otras seis" },
       { label: "Peso", value: "No declarado en la ficha" },
@@ -82901,18 +85212,61 @@ Si venís de un colchón hundido y no querés irte al otro extremo, ese es el pu
       { rating: 5, country: "Argentina", text: "Buen material y fácil de limpiar. Después de 5 o 6 usos se empezó a pelar la rejilla interior." },
       { rating: 4, country: "Argentina", text: "Buena calidad y tamaño. En el caso de las papas fritas, a veces el dorado va de acuerdo al tipo y frescura de ellas: no siempre salen iguales." },
     ],
+    articleBody: `## Qué es la Philco FR259PH
+
+Es una freidora de aire de 9 litros y 2 kW, la más potente de todo el catálogo que tenemos fichado. Cuesta {{precio:MLA45520216}} y tiene {{reviews:MLA45520216}} calificaciones con {{rating:MLA45520216}} estrellas en MercadoLibre Argentina, dentro de [nuestra comparativa de las mejores freidoras de aire en Argentina](/guias/mejores-freidoras-de-aire-argentina).
+
+## Lo que significa ser la más potente del grupo
+
+Con 2 kW y 9 litros, es la combinación que mejor sostiene una cocción pareja cuando el canasto va lleno hasta arriba, que es justo donde las freidoras más chicas se quedan cortas. Suma pantalla táctil con 12 programas de cocción según el título de la publicación.
+
+## El problema de durabilidad que hay que saber
+
+Antes de comprarla conviene tener esto presente: **una reseña reporta que a los 5 o 6 usos se le empezó a pelar la rejilla interior**. La misma persona aclara que el material es bueno y fácil de limpiar en general, pero ese detalle puntual de durabilidad en la rejilla es real y lo publicamos completo.
+
+## Sin ventana, con 9 litros: el trade-off que más se nota
+
+No trae ventana transparente, y con esta capacidad se siente más que en una freidora chica: vas a estar abriendo el canasto para controlar el punto de cocción, y eso corta el proceso más veces de las que harías con un modelo con ventana.
+
+## El dorado de las papas depende de la papa, no solo de la freidora
+
+Una reseña aporta un matiz honesto que vale la pena repetir: el dorado de las papas fritas a veces varía según el tipo y la frescura de la papa, no siempre sale igual. No es necesariamente un problema del equipo, es una variable que también depende de lo que metés adentro.
+
+## Contra las otras freidoras de la comparativa
+
+La [Atma FR248AWP](/producto/freidora-de-aire-atma-fr248awp-8-litros-1-75-kw-blanca-con-ventana-mla39861128) cuesta {{preciodif:MLA45520216:MLA39861128}} menos, con 1 litro menos de capacidad pero ventana transparente y el mayor respaldo de opiniones de todo el catálogo.
+
+La [Gadnic Cuk AIRCRISP](/producto/freidora-de-aire-gadnic-cuk-aircrisp-17-litros-formato-horno-mla36816568) cuesta {{preciodif:MLA36816568:MLA45520216}} más, con casi el doble de capacidad (17 litros) pero en formato horno con puerta, no canasto.
+
+La [Novohome NH-AF70WIX](/producto/freidora-de-aire-novohome-nh-af70wix-7-litros-4-funciones-mla42479783) cuesta {{preciodif:MLA45520216:MLA42479783}} menos, con 2 litros menos de capacidad y una reseña seria sobre apagado espontáneo que esta ficha no tiene.
+
+## Para quién es, y para quién no
+
+Es para vos si buscás la mayor potencia de esta comparativa para cocinar con el canasto lleno, o si necesitás 9 litros para una familia grande.
+
+No es para vos si priorizás la ventana transparente para controlar la cocción sin abrir, o si te preocupa el reporte de durabilidad en la rejilla: para eso, otras opciones de esta comparativa tienen mejor respaldo en ese punto puntual.`,
+    faq: [
+      { question: "¿Por qué es la más potente de la comparativa?", answer: "Declara 2 kW, la potencia más alta de todo el catálogo que tenemos fichado. Combinada con sus 9 litros, es la que mejor sostiene una cocción pareja cuando el canasto va lleno." },
+      { question: "¿Es cierto que se pela la rejilla interior?", answer: "Hay un reporte concreto: una reseña cuenta que a los 5 o 6 usos se le empezó a pelar la rejilla interior, aunque la misma persona aclara que el material general es bueno y fácil de limpiar. Es un dato de durabilidad real que preferimos no silenciar." },
+      { question: "¿Trae ventana para ver la cocción?", answer: "No. Con 9 litros de capacidad, esa ausencia se nota más que en una freidora chica: hay que abrir el canasto para controlar el punto de cocción." },
+      { question: "¿Por qué a veces las papas no doran igual?", answer: "Una reseña aporta un matiz honesto: el dorado depende también del tipo y la frescura de la papa, no solo de la freidora. Es una variable que aplica a cualquier freidora de aire, no un problema exclusivo de este modelo." },
+      { question: "¿Cuántos programas de cocción tiene?", answer: "12 programas de cocción, según el título de la publicación vigente en MercadoLibre." },
+      { question: "¿Cuánto pesa?", answer: "Su ficha de MercadoLibre no declara peso, así que en ese dato puntual no se la puede comparar con el resto del catálogo." },
+      { question: "¿Vale la pena pagar más que por la Atma FR248AWP?", answer: "La Atma FR248AWP cuesta {{preciodif:MLA45520216:MLA39861128}} menos, tiene 1 litro menos de capacidad, pero suma ventana transparente y es la freidora con más respaldo de opiniones de todo el catálogo. Si la ventana es importante para vos, la Atma es la opción más sólida." },
+      { question: "¿Para cuántas personas alcanza?", answer: "Con 9 litros, es de las más grandes de esta comparativa y alcanza cómodo para una familia numerosa, sobre todo con el canasto lleno gracias a su potencia de 2 kW." },
+    ],
   },
   {
     id: "MLA39861128",
     title: "Freidora de Aire Atma FR248AWP — 8 Litros, 1,75 kW, Blanca con Ventana",
     canonicalName: "Atma FR248AWP", mpn: "FR248AWP",
-    price: 132870, currency: "ARS",
+    price: 127899, currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_938034-MLA99538599448_122025-O.webp",
     images: ["https://http2.mlstatic.com/D_NQ_NP_938034-MLA99538599448_122025-O.webp"],
     category: "Cocina", categorySlug: "cocina",
     permalink: "https://www.mercadolibre.com.ar/p/MLA39861128",
     affiliateUrl: "https://meli.la/19o3ttY",
-    condition: "new", freeShipping: false, rating: 4.8, reviewCount: 3996,
+    condition: "new", freeShipping: false, rating: 4.8, reviewCount: 4142,
     badge: "bestseller", pastelColor: "var(--pastel-pink)",
     specs: [
       { label: "Marca", value: "Atma" },
@@ -82921,24 +85275,68 @@ Si venís de un colchón hundido y no querés irte al otro extremo, ese es el pu
       { label: "Capacidad", value: "8 litros" },
       { label: "Potencia", value: "1,75 kW" },
       { label: "Funciones", value: "Freír, recalentar, deshidratar y asar" },
-      { label: "Control", value: "Digital con pantalla táctil" },
+      { label: "Control", value: "Digital con pantalla táctil, con 8 programas preestablecidos según la ficha vigente de la publicación" },
       { label: "Rango de temperatura", value: "75 a 200 °C. Es de los pisos más bajos entre las que declaran rango; la Yelmo FR7309 arranca en 60 °C" },
       { label: "Ventana transparente", value: "Sí" },
       { label: "Peso", value: "5,5 kg" },
       { label: "Canastos", value: "1, como las otras seis" },
     ],
     relatedProducts: ["MLA42479783","MLA45520216","MLA46208363"],
-    priceUpdated: "2026-09-02", priceLastChecked: "2026-08-18", priceVerifiedAt: "2026-08-18",
-    priceStatus: "fresh", reviewsSampledAt: "2026-08-18",
-    description: "La más elegida de nuestra comparativa, con casi 4.000 opiniones. 8 litros, cuatro funciones, ventana transparente y el rango de temperatura más amplio del grupo.",
+    priceUpdated: "2026-09-03", priceLastChecked: "2026-09-03", priceVerifiedAt: "2026-09-03",
+    priceStatus: "fresh", reviewsSampledAt: "2026-09-03",
+    description: "La más elegida de nuestra comparativa, con más de 4.000 opiniones. 8 litros, cuatro funciones, ventana transparente y el rango de temperatura más amplio del grupo.",
     seoTitle: "Atma FR248AWP: la freidora más elegida",
-    metaDescription: "Freidora de aire Atma FR248AWP de 8 litros con ventana y cuatro funciones, la más elegida de la comparativa con casi 4.000 opiniones.",
+    metaDescription: "Freidora de aire Atma FR248AWP de 8 litros con ventana y cuatro funciones, la más elegida de la comparativa con más de 4.000 opiniones.",
     verdict: "Es **la más elegida de esta comparativa por lejos**: **{{reviews:MLA39861128}} opiniones** con {{rating:MLA39861128}}. Ninguna otra del grupo se le acerca en respaldo, y ese es su argumento principal. Declara **8 litros**, cuatro funciones, **ventana transparente** y el **piso de temperatura de 75 °C**, de los más bajos entre las que declaran rango, que es lo que permite recalentar sin arruinar. Con **5,5 kg** es de las livianas para su tamaño. Un detalle de transparencia: **la ficha técnica de la publicación dice FR248ABP, pero ese código es el de la versión negra**. Lo chequeamos contra el catálogo de Atma, que publica la FR248AWP como la blanca y la FR248ABP como la negra, y esta es la blanca. Usamos el nombre del título, que es el que coincide con el fabricante. Las opiniones son entusiastas y coinciden en lo mismo: reemplaza la sartén y es simple de usar.",
-    pros: ["La más elegida de esta comparativa, con casi 4.000 opiniones","8 litros con ventana transparente","Cuatro funciones: freír, recalentar, deshidratar y asar","Piso de 75 °C, de los más bajos entre las que declaran rango","5,5 kg, liviana para su capacidad"],
+    pros: ["La más elegida de esta comparativa, con más de 4.000 opiniones","8 litros con ventana transparente","Cuatro funciones: freír, recalentar, deshidratar y asar","Piso de 75 °C, de los más bajos entre las que declaran rango","5,5 kg, liviana para su capacidad"],
     cons: ["La publicación se contradice a sí misma en el código de modelo","Un solo canasto, como las otras seis","De las más caras del grupo","No declara nivel de ruido"],
     customerReviews: [
       { rating: 5, country: "Argentina", text: "Por ahora excelente. Tiene una rejilla que se saca, todo con antiadherente, fácil de limpiar. Cocina bien y tiene varias funciones." },
       { rating: 5, country: "Argentina", text: "Me dijeron que me iba a cambiar la vida y sí, me la cambió para bien. Soy un inútil en la cocina y con esto como muy bien." },
+    ],
+    articleBody: `## Qué es la Atma FR248AWP
+
+Es una freidora de aire de 8 litros, con pantalla digital táctil y ventana transparente para ver la cocción sin abrir el canasto. Cuesta {{precio:MLA39861128}} y tiene {{reviews:MLA39861128}} calificaciones con {{rating:MLA39861128}} estrellas en MercadoLibre Argentina, en [nuestra comparativa de las mejores freidoras de aire en Argentina](/guias/mejores-freidoras-de-aire-argentina).
+
+## Por qué es la más elegida del grupo
+
+Ese número de opiniones no es casualidad ni casi ninguna otra freidora del catálogo se le acerca. La [Novohome NH-AF70WIX](/producto/freidora-de-aire-novohome-nh-af70wix-7-litros-4-funciones-mla42479783), la segunda más opinada de esta comparativa, tiene {{reviews:MLA42479783}}: la Atma FR248AWP tiene más del doble. Con esa cantidad de gente que ya la compró y calificó, hay mucha menos incertidumbre sobre cómo se comporta en el uso real que con un modelo recién llegado.
+
+## El error de código que tiene la propia publicación
+
+Antes de comprarla conviene saber esto: **la ficha técnica de la publicación de MercadoLibre declara el modelo FR248ABP**, que no es el de esta freidora. Cruzamos el dato contra el catálogo del fabricante y ahí queda claro: Atma llama FR248AWP a la versión blanca (la que es esta ficha, con ventana) y FR248ABP a la versión negra. El título de la publicación sí dice FR248AWP, así que el error queda encerrado en la tabla de specs, no en lo que efectivamente se compra. Lo aclaramos igual porque, si alguna vez necesitás buscar el manual o un repuesto por número de modelo, el código correcto para esta freidora blanca es FR248AWP.
+
+## Qué tan bien resuelve el recalentado
+
+Declara cuatro funciones, freír, recalentar, deshidratar y asar, pero la que más la distingue del resto del grupo es el piso de temperatura: **arranca en 75 °C**, uno de los más bajos entre las que declaran rango en esta comparativa. Recalentar comida a 200 °C la reseca; a 75 °C se puede entibiar sin secarla. Es el mismo motivo por el que las opiniones la describen como reemplazo de la sartén para el día a día, no solo para freír desde cero.
+
+## La pantalla y los programas preestablecidos
+
+Tiene control digital por pantalla táctil, con 8 programas preestablecidos según la ficha vigente de la publicación. Sirven como punto de partida (tiempo y temperatura ya cargados según el tipo de alimento), pero como pasa en toda la categoría, conviene ajustarlos con la experiencia: cada casa cocina distinto según cuánta comida entra en el canasto.
+
+## Contra las otras freidoras de la comparativa
+
+Cuesta {{preciodif:MLA39861128:MLA42479783}} más que la [Novohome NH-AF70WIX](/producto/freidora-de-aire-novohome-nh-af70wix-7-litros-4-funciones-mla42479783), que declara las mismas cuatro funciones con 7 litros en vez de 8, pero tiene una opinión seria en contra: un comprador reporta que a los 3 meses se le apagaba sola a los 10 minutos, en todos los usos. La Atma no tiene ese reclamo entre sus opiniones.
+
+Contra la [Philco FR259PH](/producto/freidora-de-aire-philco-fr259ph-9-litros-2-kw-mla45520216), la diferencia de precio es mínima ({{preciodif:MLA45520216:MLA39861128}}), pero la Philco es más grande (9 litros contra 8) y más potente (2 kW contra 1,75 kW). A cambio, la Philco no trae ventana transparente, así que con esa capacidad vas a estar abriendo el canasto para mirar cómo va la cocción, y eso corta el proceso.
+
+La [Liliana AF966N Airview](/producto/freidora-de-aire-liliana-af966n-airview-6-litros-con-ventana-mla46208363) tiene la nota más alta del grupo y también ventana, pero es más chica (6 litros) y su respaldo es mucho menor: {{reviews:MLA46208363}} opiniones contra las {{reviews:MLA39861128}} de la Atma. Para una familia numerosa, los 8 litros de la Atma rinden más por tanda.
+
+## Para quién es, y para quién no
+
+Es para vos si buscás la opción con más respaldo de opiniones del catálogo, si vas a recalentar comida seguido y no solo freír desde cero, o si querés ver la cocción sin abrir el canasto. Los {{reviews:MLA39861128}} compradores que la calificaron avalan que cumple lo que promete.
+
+No es para vos si el presupuesto es la prioridad número uno: hay opciones más baratas en esta misma comparativa, aunque con menos funciones o menos respaldo. Tampoco si te hace falta cocinar dos alimentos por separado al mismo tiempo, porque como las otras seis de este grupo, trae un solo canasto.`,
+    faq: [
+      { question: "¿Cuántos litros tiene la Atma FR248AWP y para cuántas personas alcanza?", answer: "Tiene 8 litros, de los más grandes de esta comparativa. Alcanza para una familia de 4 personas sin necesidad de cocinar en dos tandas, algo que sí hace falta con las freidoras de 4 o 5 litros del catálogo." },
+      { question: "¿La FR248AWP es la misma freidora que la FR248ABP?", answer: "No. FR248AWP es el código de la versión blanca (esta ficha) y FR248ABP el de la versión negra, según el catálogo de Atma. El problema es que la ficha técnica de la publicación de MercadoLibre declara FR248ABP aunque el producto que llega es blanco: es un error de carga de la publicación, no un cambio de producto." },
+      { question: "¿Sirve para recalentar comida sin que quede seca?", answer: "Sí, y es uno de sus puntos fuertes frente al resto del grupo: arranca en 75 °C, uno de los pisos de temperatura más bajos entre las freidoras que declaran ese rango. Recalentar a 200 °C reseca la comida; a 75 °C se puede entibiar sin ese problema." },
+      { question: "¿Cuántos programas preestablecidos tiene?", answer: "8 programas, según la ficha vigente de la publicación en MercadoLibre. Funcionan como punto de partida de tiempo y temperatura, pero conviene ajustarlos con el uso porque el resultado depende de cuánta comida entra en el canasto." },
+      { question: "¿Vale la pena pagar más que por la Novohome NH-AF70WIX?", answer: "Depende de qué priorices. Cuesta {{preciodif:MLA39861128:MLA42479783}} más que la Novohome, pero esta última tiene una opinión seria en contra: un comprador reporta que a los 3 meses se apagaba sola a los 10 minutos, en todos los usos. La Atma no tiene ese reclamo en sus opiniones y además tiene 1 litro más de capacidad." },
+      { question: "¿Trae ventana para ver la cocción?", answer: "Sí, ventana transparente. Es uno de los datos que la distingue de la Philco FR259PH de esta comparativa, que con 9 litros no trae ventana y obliga a abrir el canasto para controlar, lo que corta la cocción." },
+      { question: "¿Cuánto pesa y ocupa mucho lugar en la mesada?", answer: "Pesa 5,5 kg, de las más livianas de este grupo para su capacidad de 8 litros. Igual, como toda freidora de este tamaño, conviene medir el espacio de mesada antes de comprar: no es un electrodoméstico chico." },
+      { question: "¿Cuál es la queja más común entre quienes ya la compraron?", answer: "Entre las opiniones que revisamos no aparece un reclamo de funcionamiento repetido, a diferencia de la Novohome NH-AF70WIX de esta misma comparativa. Las críticas objetivas que sí se pueden hacer son de la ficha: el error de código de modelo en la publicación, y que no declara nivel de ruido." },
+      { question: "¿Conviene más esta o la Liliana AF966N Airview?", answer: "La Liliana tiene la nota más alta del grupo y también ventana transparente, pero es más chica (6 litros contra 8) y tiene mucho menos respaldo: {{reviews:MLA46208363}} opiniones contra las {{reviews:MLA39861128}} de la Atma. Para una familia numerosa, los 8 litros de la Atma rinden más por tanda; para una casa de 1 o 2 personas, la Liliana alcanza y cuesta {{preciodif:MLA39861128:MLA46208363}} menos." },
     ],
   },
   {
@@ -82951,13 +85349,14 @@ Si venís de un colchón hundido y no querés irte al otro extremo, ese es el pu
     category: "Cocina", categorySlug: "cocina",
     permalink: "https://www.mercadolibre.com.ar/p/MLA36816568",
     affiliateUrl: "https://meli.la/2uZdzVJ",
-    condition: "new", freeShipping: false, rating: 4.8, reviewCount: 1911,
+    condition: "new", freeShipping: false, rating: 4.8, reviewCount: 1934,
     pastelColor: "var(--pastel-blue)",
     specs: [
       { label: "Marca", value: "Gadnic" }, { label: "Modelo", value: "Cuk AIRCRISP (FREI0024)" },
       { label: "Capacidad", value: "17 litros. Es la mayor del catálogo; la siguiente tiene 10" },
       { label: "Potencia", value: "1,5 kW" },
       { label: "Formato", value: "Horno con puerta, no canasto" },
+      { label: "Color", value: "Plateado" },
       { label: "Control", value: "Digital con pantalla táctil" },
       { label: "Ventana transparente", value: "Sí" },
       { label: "Medidas", value: "40,4 x 31,9 x 35,4 cm" },
@@ -82976,6 +85375,41 @@ Si venís de un colchón hundido y no querés irte al otro extremo, ese es el pu
       { rating: 5, country: "Argentina", text: "Es una fiesta el tiempo en el que cocinás. Es para uso de 2 personas y es un embole el tema de limpiar las partes, al igual que un horno." },
       { rating: 5, country: "Argentina", text: "Me resulta sumamente útil y dejé de utilizar horno y microondas. Para un grupo familiar reducido es óptima." },
     ],
+    articleBody: `## Qué es la Gadnic Cuk AIRCRISP
+
+No es una freidora de canasto: es un **horno digital con dos puertas**, de 17 litros, la mayor capacidad de todo el catálogo que tenemos fichado (la siguiente más grande tiene 10). Cuesta {{precio:MLA36816568}} y tiene {{reviews:MLA36816568}} calificaciones con {{rating:MLA36816568}} estrellas en MercadoLibre Argentina, dentro de [nuestra comparativa de las mejores freidoras de aire en Argentina](/guias/mejores-freidoras-de-aire-argentina).
+
+## Por qué el formato cambia todo, no solo el tamaño
+
+El resto de las freidoras de esta comparativa son de canasto: se abre una gaveta, se saca el canasto entero y se lava en el lavavajillas. Esta funciona distinto: tiene puerta con bisagra, como un horno chico, con bandejas y una jaula giratoria para asado incluidas. Eso habilita cocinar piezas más grandes, como un pollo entero, algo que un canasto de 5 u 8 litros no puede.
+
+## Los siete accesorios que trae
+
+Declara bandeja recogemigas, bandeja de aceite, rejilla, cesta, tenedor para asador, mango y jaula. Es el equipamiento más completo de esta comparativa, pensado para asar piezas enteras además de freír.
+
+## Lo que cuesta en limpieza
+
+Acá está el trade-off real, y lo sacamos textual de una reseña: **limpiar las partes es un embole, igual que un horno**. Tiene sentido: con más accesorios y un formato de puertas en vez de canasto único, no hay una sola pieza para tirar al lavavajillas y listo. Otra reseña confirma el otro lado de la moneda: **dejó de usar horno y microondas** para un grupo familiar reducido, así que la ganancia de versatilidad es real, solo que viene con más piezas para lavar después.
+
+## Vale la pena el salto de precio
+
+Es, por lejos, la más cara de esta comparativa. Cuesta {{preciodif:MLA36816568:MLA39861128}} más que la [Atma FR248AWP](/producto/freidora-de-aire-atma-fr248awp-8-litros-1-75-kw-blanca-con-ventana-mla39861128), {{preciodif:MLA36816568:MLA45520216}} más que la [Philco FR259PH](/producto/freidora-de-aire-philco-fr259ph-9-litros-2-kw-mla45520216) y {{preciodif:MLA36816568:MLA42479783}} más que la [Novohome NH-AF70WIX](/producto/freidora-de-aire-novohome-nh-af70wix-7-litros-4-funciones-mla42479783). Esa diferencia solo se justifica si el plan es asar piezas enteras o cocinar para un grupo grande: si el uso es freír papas y milanesas para 2 o 3 personas, cualquiera de esas tres opciones más económicas alcanza y sobra.
+
+## Para quién es, y para quién no
+
+Es para vos si querés reemplazar el horno de la cocina, si necesitás asar piezas enteras como un pollo, o si cocinás en volumen para varias personas y valorás la capacidad de 17 litros por encima del precio.
+
+No es para vos si buscás la comodidad de lavar un solo canasto en el lavavajillas, si el presupuesto es ajustado, o si el uso principal va a ser freír porciones chicas: para eso, una freidora de canasto de esta misma comparativa resuelve con menos plata y menos piezas para limpiar.`,
+    faq: [
+      { question: "¿Es una freidora de canasto o un horno?", answer: "Es un horno digital con dos puertas, no una freidora de canasto. Trae bandejas, rejilla y una jaula giratoria para asar piezas enteras, a diferencia del resto de esta comparativa que se abre como una gaveta con un canasto único." },
+      { question: "¿Para cuántas personas alcanza?", answer: "Con 17 litros, la mayor capacidad de todo el catálogo, alcanza para un grupo familiar o para cocinar en volumen. Una reseña la usa a diario para 2 personas y destaca que reemplazó el horno y el microondas de la casa." },
+      { question: "¿Es difícil de limpiar?", answer: "Sí, más que una freidora de canasto convencional. Una reseña lo dice de forma textual: \"es un embole el tema de limpiar las partes, al igual que un horno\". Es la contracara de tener más accesorios y un formato de puertas en vez de un canasto único." },
+      { question: "¿Qué accesorios trae incluidos?", answer: "Siete: bandeja recogemigas, bandeja de aceite, rejilla, cesta, tenedor para asador, mango y jaula giratoria. Es el equipamiento más completo de esta comparativa." },
+      { question: "¿Reemplaza al horno y al microondas de la cocina?", answer: "Según una reseña, sí: un comprador cuenta que dejó de usar horno y microondas después de comprarla, para un grupo familiar reducido. No es una promesa nuestra, es la experiencia reportada por quien la usa a diario." },
+      { question: "¿Vale la pena pagar tanto más que una freidora de canasto normal?", answer: "Depende del uso. Cuesta {{preciodif:MLA36816568:MLA39861128}} más que la Atma FR248AWP de 8 litros. Si el plan es asar piezas enteras o cocinar en volumen, se justifica; si solo vas a freír porciones chicas para 2 o 3 personas, una freidora de canasto de esta misma comparativa alcanza con menos plata." },
+      { question: "¿De qué color viene?", answer: "Plateado, es el único color de esta publicación." },
+      { question: "¿Cuánto espacio de mesada necesita?", answer: "Mide 40,4 x 31,9 x 35,4 cm, bastante más que una freidora de canasto convencional. Al tener puertas que se abren hacia afuera, conviene dejarle espacio libre alrededor, no solo en el ancho de la base." },
+    ],
   },
   // Freidoras de aire — 7 fichas del top 20 de la gondola de ML, verificadas
   // en vivo el 2026-08-20 (precio, rating, opiniones, specs e imagenes).
@@ -82989,7 +85423,7 @@ Si venís de un colchón hundido y no querés irte al otro extremo, ese es el pu
     category: "Cocina", categorySlug: "cocina",
     permalink: "https://www.mercadolibre.com.ar/p/MLA39932833",
     affiliateUrl: "https://meli.la/33RaeXc",
-    condition: "new", freeShipping: false, rating: 4.9, reviewCount: 898,
+    condition: "new", freeShipping: false, rating: 4.9, reviewCount: 1819,
     pastelColor: "var(--pastel-blue)",
     specs: [
       { label: "Marca", value: "Atma" },
@@ -83016,6 +85450,50 @@ Si venís de un colchón hundido y no querés irte al otro extremo, ese es el pu
     customerReviews: [
       { rating: 5, country: "Argentina", text: "Es muy facil de usar, los tiempos de coccion realmente se acortan. Y si utilizas un molde de silicona no se ensucia nada." },
     ],
+    articleBody: `## Qué es la Atma FR246AWP
+
+Es la versión de 6 litros de la Atma FR248AWP: mismo motor de 1,75 kW, misma ventana transparente y el mismo piso de temperatura de 75 °C, en un cuerpo más chico. Cuesta {{precio:MLA39932833}} y tiene {{rating:MLA39932833}} estrellas en MercadoLibre Argentina, dentro de [nuestra comparativa de las mejores freidoras de aire en Argentina](/guias/mejores-freidoras-de-aire-argentina).
+
+## Qué significa tener el mismo motor en menos volumen
+
+Declara los mismos 1,75 kW que la [Atma FR248AWP de 8 litros](/producto/freidora-de-aire-atma-fr248awp-8-litros-1-75-kw-blanca-con-ventana-mla39861128), pero calentando un espacio más chico. En la práctica, eso suele traducirse en menos tiempo de precalentado y una cocción más pareja con el canasto lleno, aunque MercadoLibre no publica pruebas de tiempo comparadas y no vamos a inventar un número que no está verificado.
+
+## El mismo piso de 75 °C que su hermana grande
+
+Comparte el rango de 75 a 200 °C con la versión de 8 litros, uno de los pisos más bajos entre las freidoras digitales de esta comparativa. Sirve igual para recalentar sin resecar, con la ventaja de que el volumen chico calienta más rápido para porciones individuales.
+
+## Lo que la ficha no dice
+
+Ni el fabricante ni la publicación declaran **peso ni medidas** para este modelo puntual. Es un hueco de información real: si el lugar en la mesada es ajustado, conviene guiarse por la Atma de 8 litros, que sí declara 5,5 kg y 20 x 20 x 25 cm, como referencia aproximada de una freidora de esta marca.
+
+## Cuánta evidencia real hay detrás de la nota
+
+MercadoLibre agrupa las opiniones de esta freidora al nivel del anuncio, que incluye tanto la versión blanca como la negra. Eso significa que las {{reviews:MLA39932833}} calificaciones no están garantizadas como exclusivas del color blanco de esta ficha. La nota de {{rating:MLA39932833}} sigue siendo un dato real y público, solo aclaramos de dónde sale para que sepas leerla con ese contexto.
+
+## Contra las otras freidoras de la comparativa
+
+Cuesta {{preciodif:MLA39861128:MLA39932833}} menos que la Atma FR248AWP de 8 litros, con el mismo motor pero 2 litros menos de capacidad: la elección entre ambas es de tamaño, no de calidad.
+
+Contra la [Liliana AF966N Airview](/producto/freidora-de-aire-liliana-af966n-airview-6-litros-con-ventana-mla46208363), que también tiene 6 litros y ventana, esta cuesta {{preciodif:MLA46208363:MLA39932833}} menos y comparte casi la misma capacidad, aunque la Liliana suma la posibilidad de cocinar en doble altura.
+
+Contra la [Novohome NH-AF70WIX](/producto/freidora-de-aire-novohome-nh-af70wix-7-litros-4-funciones-mla42479783), esta cuesta {{preciodif:MLA42479783:MLA39932833}} menos, con 1 litro menos de capacidad pero sin el reclamo de apagado espontáneo que aparece en una reseña de esa ficha.
+
+## Para quién es, y para quién no
+
+Es para vos si cocinan 2 o 3 personas, si querés el mismo motor de la Atma más grande sin pagar por litros que no vas a usar, o si priorizás el precio más bajo dentro de la línea Atma con ventana.
+
+No es para vos si cocinan para una familia de 5 o más, porque 6 litros se quedan cortos, o si necesitás confirmar peso y medidas exactas antes de comprar: esta ficha en particular no los declara.`,
+    faq: [
+      { question: "¿Es la misma freidora que la Atma FR248AWP de 8 litros?", answer: "Comparte el mismo motor de 1,75 kW y el mismo piso de temperatura de 75 °C, pero es un modelo distinto con 6 litros de capacidad en vez de 8. La elección entre ambas es de tamaño, no de calidad: el resto de las especificaciones declaradas coincide." },
+      { question: "¿Para cuántas personas alcanza?", answer: "Con 6 litros rinde bien para 2 o 3 personas. Para una familia de 5 o más conviene la versión de 8 litros de esta misma marca, que está en la comparativa." },
+      { question: "¿Sirve para recalentar comida sin resecarla?", answer: "Sí. Comparte el piso de 75 °C con la Atma de 8 litros, uno de los más bajos entre las freidoras digitales de esta comparativa, y ese rango es justamente el que permite recalentar sin arruinar la comida." },
+      { question: "¿Cuánto pesa y qué medidas tiene?", answer: "Ni el fabricante ni la publicación de MercadoLibre declaran peso ni medidas para este modelo puntual. Es una limitación real de la ficha, así que si el espacio en la mesada es ajustado, conviene confirmar el tamaño con el vendedor antes de comprar." },
+      { question: "¿Vale la pena pagar más por la de 8 litros?", answer: "Depende de cuántas personas cocinen. La versión de 8 litros cuesta {{preciodif:MLA39861128:MLA39932833}} más y comparte el mismo motor: si cocinan 2 o 3 personas, esta de 6 litros alcanza y sobra." },
+      { question: "¿Viene en otro color además de blanco?", answer: "Sí, la publicación de MercadoLibre también ofrece una versión negra con el mismo modelo base. Esta ficha corresponde específicamente a la blanca." },
+      { question: "¿Cuántas opiniones reales tiene esta freidora?", answer: "MercadoLibre muestra {{reviews:MLA39932833}} calificaciones, pero las agrupa a nivel de anuncio, que incluye tanto la versión blanca como la negra. No hay forma de separar cuántas corresponden a cada color desde la información pública." },
+      { question: "¿Trae ventana para ver la cocción?", answer: "Sí, ventana transparente, igual que la versión de 8 litros de esta misma línea." },
+      { question: "¿Conviene más esta o la Liliana AF966N Airview?", answer: "Ambas tienen 6 litros y ventana. Esta cuesta {{preciodif:MLA46208363:MLA39932833}} menos, pero la Liliana suma la posibilidad de cocinar en doble altura, algo que esta ficha no ofrece." },
+    ],
   },
   {
     id: "MLA42519580",
@@ -83027,16 +85505,16 @@ Si venís de un colchón hundido y no querés irte al otro extremo, ese es el pu
     category: "Cocina", categorySlug: "cocina",
     permalink: "https://www.mercadolibre.com.ar/p/MLA42519580",
     affiliateUrl: "https://meli.la/293eBZj",
-    condition: "new", freeShipping: false, rating: 4.7, reviewCount: 767,
+    condition: "new", freeShipping: false, rating: 4.7, reviewCount: 1682,
     pastelColor: "var(--pastel-purple)",
     specs: [
       { label: "Marca", value: "Yelmo" },
       { label: "Modelo", value: "FR 7309, linea Saludable" },
       { label: "Capacidad", value: "5 litros" },
       { label: "Potencia", value: "1,4 kW" },
-      { label: "Color", value: "Violeta" },
+      { label: "Color", value: "Violeta, el único de esta publicación" },
       { label: "Funciones", value: "Freir, asar, recalentar y deshidratar" },
-      { label: "Control", value: "Digital con pantalla tactil" },
+      { label: "Control", value: "Digital con pantalla tactil, con 8 programas preestablecidos según el título de la publicación" },
       { label: "Temperatura minima", value: "60 °C. Es el piso mas bajo de las freidoras que tenemos fichadas" },
       { label: "Peso", value: "4,3 kg" },
       { label: "Medidas", value: "39 cm de alto x 30 x 30 cm" },
@@ -83055,6 +85533,45 @@ Si venís de un colchón hundido y no querés irte al otro extremo, ese es el pu
       { rating: 5, country: "Argentina", text: "Re feliz con mi compra, puedo hacer de todo ahi, rapido, facil y saludable. Hice budines integrales, medallones de pollo con jamon y queso, galletitas de coco. No es solo para freir papas, hice hasta huevos duros." },
       { rating: 4, country: "Argentina", text: "Hago todo aca. No tengo horno asi que la uso como uno, solo use el programa de horneado a 220. El resto no me sirvieron para lo que intente cocinar. Para dos personas es excelente." },
     ],
+    articleBody: `## Qué es la Yelmo FR7309
+
+Es una freidora de aire de 5 litros con pantalla digital táctil, 8 programas preestablecidos y un diferencial poco común: **arranca en 60 °C**, el piso de temperatura más bajo de todo el catálogo que tenemos fichado. Cuesta {{precio:MLA42519580}} y tiene {{reviews:MLA42519580}} calificaciones con {{rating:MLA42519580}} estrellas en MercadoLibre Argentina, en [nuestra comparativa de las mejores freidoras de aire en Argentina](/guias/mejores-freidoras-de-aire-argentina).
+
+## Por qué el piso de 60 °C importa más de lo que parece
+
+La mayoría de las freidoras digitales de esta comparativa arrancan entre 75 y 80 °C. Esta baja hasta 60 °C, y esa diferencia habilita algo que casi ninguna otra hace bien: **la función deshidratar**, que necesita temperaturas bajas sostenidas durante mucho tiempo para secar frutas o hierbas sin cocinarlas. Si ese uso te interesa, es una de las pocas opciones de esta comparativa que lo declara de forma explícita.
+
+## El violeta: querido u odiado, no hay término medio
+
+Es el único color de esta publicación, y no es una elección neutra para cualquier cocina. Antes de comprar conviene mirar bien la foto: no hay opción de pedirla en otro color dentro de esta misma ficha.
+
+## Lo que avisa una reseña sobre los 8 programas
+
+Declara 8 programas preestablecidos, pero una reseña cuenta algo honesto: varios no le sirvieron para lo que intentó cocinar, y terminó usando solo el programa de horneado a 220 °C, con buenos resultados ("para dos personas es excelente"). Otra reseña, en cambio, cuenta que le sacó mucho jugo: hizo budines integrales, medallones de pollo, galletitas y hasta huevos duros. La lectura honesta es que los programas automáticos son un punto de partida, no una garantía de resultado para cualquier receta.
+
+## Contra las otras freidoras de la comparativa
+
+Cuesta {{preciodif:MLA42519580:MLA57822248}} más que la [Kanji KJHAF1404](/producto/freidora-de-aire-kanji-kjhaf1404-4-litros-1-4-kw-digital-mla57822248), que tiene 1 litro menos y no declara función deshidratar.
+
+La [Vetra AF-G500](/producto/freidora-de-aire-vetra-af-g500-5-litros-canasta-de-vidrio-mla71611933) cuesta {{preciodif:MLA71611933:MLA42519580}} más, con la misma capacidad de 5 litros pero canasta de vidrio en vez de antiadherente convencional.
+
+La [Liliana AF966N Airview](/producto/freidora-de-aire-liliana-af966n-airview-6-litros-con-ventana-mla46208363) cuesta {{preciodif:MLA46208363:MLA42519580}} más, con 1 litro más de capacidad y ventana transparente, pero sin el piso de temperatura tan bajo de esta Yelmo.
+
+## Para quién es, y para quién no
+
+Es para vos si te interesa deshidratar frutas o hierbas en casa, si te gusta el color violeta, o si buscás una freidora de 5 litros con varios programas para experimentar.
+
+No es para vos si el violeta no encaja con tu cocina (es el único color disponible), o si esperás que los 8 programas resuelvan cualquier receta sin ajuste: una reseña avisa que varios no le sirvieron y terminó usando solo uno.`,
+    faq: [
+      { question: "¿Para qué sirve que arranque en 60 °C?", answer: "Habilita la función deshidratar, que necesita temperaturas bajas sostenidas para secar frutas o hierbas sin cocinarlas. Es el piso de temperatura más bajo de todo el catálogo que tenemos fichado, y por eso es de las pocas opciones que declara esa función." },
+      { question: "¿Viene en otro color además de violeta?", answer: "No, el violeta es el único color de esta publicación. No hay opción de elegir otro tono dentro de esta misma ficha." },
+      { question: "¿Los 8 programas preestablecidos funcionan bien para cualquier receta?", answer: "No según todas las reseñas. Una cuenta que varios programas no le sirvieron para lo que intentó cocinar y terminó usando solo el de horneado a 220 °C, con buen resultado. Otra, en cambio, los usó para budines, pollo y hasta huevos duros con éxito. Conviene tratarlos como punto de partida, no como garantía." },
+      { question: "¿Cuánto pesa y qué medidas tiene?", answer: "Pesa 4,3 kg y mide 39 cm de alto por 30 x 30 cm de base, datos que la publicación sí declara completos." },
+      { question: "¿Para cuántas personas alcanza?", answer: "Una reseña la usa para dos personas y la describe como excelente para ese uso. Con 5 litros, es un tamaño intermedio en esta comparativa." },
+      { question: "¿Vale la pena pagar más por la Liliana AF966N Airview?", answer: "Depende de qué priorices. La Liliana cuesta {{preciodif:MLA46208363:MLA42519580}} más, tiene 1 litro más de capacidad y ventana transparente, pero no baja tanto de temperatura como esta Yelmo, que arranca en 60 °C contra los 80 °C de la Liliana." },
+      { question: "¿Qué diferencia tiene con la Vetra AF-G500 de canasta de vidrio?", answer: "Comparten los 5 litros de capacidad, pero la Vetra tiene canasta de vidrio en vez de antiadherente convencional y cuesta {{preciodif:MLA71611933:MLA42519580}} más." },
+      { question: "¿Es más barata que la Kanji KJHAF1404?", answer: "No, cuesta {{preciodif:MLA42519580:MLA57822248}} más que la Kanji KJHAF1404, aunque tiene 1 litro más de capacidad y declara función deshidratar, algo que la Kanji no ofrece." },
+    ],
   },
   {
     id: "MLA39458507",
@@ -83066,7 +85583,7 @@ Si venís de un colchón hundido y no querés irte al otro extremo, ese es el pu
     category: "Cocina", categorySlug: "cocina",
     permalink: "https://www.mercadolibre.com.ar/p/MLA39458507",
     affiliateUrl: "https://meli.la/1RRYqzm",
-    condition: "new", freeShipping: false, rating: 4.7, reviewCount: 1549,
+    condition: "new", freeShipping: false, rating: 4.7, reviewCount: 3268,
     pastelColor: "var(--pastel-amber)",
     specs: [
       { label: "Marca", value: "Gadnic, linea Cuk" },
@@ -83076,6 +85593,9 @@ Si venís de un colchón hundido y no querés irte al otro extremo, ese es el pu
       { label: "Color", value: "Negro" },
       { label: "Funciones", value: "Freir y recalentar" },
       { label: "Control", value: "Digital con pantalla tactil" },
+      { label: "Rango de temperatura", value: "80 a 200 °C, según la ficha vigente de la publicación" },
+      { label: "Programas", value: "5 programas automáticos, según la ficha vigente de la publicación" },
+      { label: "Temporizador", value: "Hasta 60 minutos" },
       { label: "Peso", value: "3,5 kg" },
       { label: "Medidas", value: "35 cm de alto x 25 x 29,5 cm" },
       { label: "Voltaje", value: "220V" },
@@ -83087,11 +85607,48 @@ Si venís de un colchón hundido y no querés irte al otro extremo, ese es el pu
     seoTitle: "Cuk by Gadnic 4,2L: la mas vendida de la linea",
     metaDescription: "Freidora de aire Cuk by Gadnic de 4,2 litros y 1,3 kW con pantalla tactil. Precio, specs verificadas y opiniones reales de compradores.",
     verdict: "Es la Gadnic que mas se vende, con **{{reviews:MLA39458507}} opiniones** y {{rating:MLA39458507}}, y el volumen de respaldo es su mejor argumento. Los **4,2 litros** la ubican para uno o dos, quizas tres si las porciones no son grandes. Declara solo **dos funciones**, freir y recalentar, asi que si buscabas programas para hornear o deshidratar, no es esta. Un detalle a tener en cuenta: **la ficha se nombra a si misma de dos formas**, F2.6 en el campo Modelo y FREI420D en el alfanumerico. Usamos el segundo, que es el que identifica el producto.",
-    pros: ["Respaldo altisimo de opiniones para su categoria", "Pantalla tactil a precio de gama de entrada", "Compacta y liviana, 3,5 kg", "Declara medidas completas"],
-    cons: ["Solo declara dos funciones, freir y recalentar", "4,2 litros se quedan cortos para mas de dos o tres", "La ficha de ML se contradice en el nombre del modelo", "No declara rango de temperatura"],
+    pros: ["Respaldo altisimo de opiniones para su categoria", "Pantalla tactil a precio de gama de entrada", "Compacta y liviana, 3,5 kg", "Declara medidas completas", "Declara rango de 80 a 200 °C y temporizador de hasta 60 minutos"],
+    cons: ["Solo declara dos funciones amplias, freir y recalentar (aunque suma 5 programas automáticos dentro de esas dos)", "4,2 litros se quedan cortos para mas de dos o tres", "La ficha de ML se contradice en el nombre del modelo"],
     customerReviews: [
       { rating: 5, country: "Argentina", text: "Todo perfecto, excelente producto. El volumen es suficiente para dos porciones o mas. Recomendable." },
       { rating: 5, country: "Argentina", text: "Es muy buena. Y es comoda y facil limpiarla." },
+    ],
+    articleBody: `## Qué es la Cuk by Gadnic de 4,2 litros
+
+Es la freidora de aire más vendida de toda la línea Gadnic en MercadoLibre Argentina, con {{reviews:MLA39458507}} calificaciones y {{rating:MLA39458507}} estrellas. Cuesta {{precio:MLA39458507}}, tiene 4,2 litros de capacidad y control digital con pantalla táctil, dentro de [nuestra comparativa de las mejores freidoras de aire en Argentina](/guias/mejores-freidoras-de-aire-argentina).
+
+## El respaldo de opiniones es su mejor argumento
+
+Con más de 3.000 calificaciones, es de las freidoras con más evidencia real de uso de todo este catálogo. Eso no garantiza que sea la mejor para vos, pero sí que hay muchísima gente que ya la compró y la calificó, así que el riesgo de sorpresa es bajo.
+
+## Dos funciones amplias, cinco programas adentro
+
+Declara solo dos funciones: freír y recalentar. Si buscabas hornear, deshidratar o asar como funciones separadas, no es esta freidora. Dentro de esas dos funciones, sí trae **5 programas automáticos** para simplificar cocciones frecuentes, y un rango de temperatura de **80 a 200 °C** con temporizador de hasta 60 minutos.
+
+## El detalle del nombre que se contradice a sí mismo
+
+Un aviso de transparencia sobre la propia ficha de MercadoLibre: se nombra a sí misma de dos formas distintas. En el campo "Modelo" aparece como F2.6, y en el código alfanumérico del producto figura FREI420D. Usamos el segundo en esta ficha, que es el identificador real del producto.
+
+## Contra las otras opciones chicas de la comparativa
+
+Cuesta {{preciodif:MLA39458507:MLA46031096}} más que la [Kanji Home KJHAF1003](/producto/freidora-de-aire-kanji-home-kjhaf1003-2-7-litros-1-kw-analogica-mla46031096), que es analógica y más chica (2,7 litros). También cuesta {{preciodif:MLA39458507:MLA40069273}} más que su propia hermana, la Cuk by Gadnic de 2,5 litros con perillas.
+
+Contra la [Kanji KJHAF1404](/producto/freidora-de-aire-kanji-kjhaf1404-4-litros-1-4-kw-digital-mla57822248), la diferencia de precio es de {{preciodif:MLA39458507:MLA57822248}}: la Kanji tiene 0,2 litros menos y arranca en 80 °C igual que esta.
+
+## Para quién es, y para quién no
+
+Es para vos si buscás una freidora digital compacta y liviana (3,5 kg) para 1 o 2 personas, con el respaldo de opiniones más grande de las chicas de este catálogo.
+
+No es para vos si necesitás funciones extra como hornear o deshidratar, o si cocinás para 3 personas o más de forma habitual: 4,2 litros se quedan cortos en ese caso.`,
+    faq: [
+      { question: "¿Cuántas funciones tiene la Cuk by Gadnic de 4,2 litros?", answer: "Declara dos funciones amplias: freír y recalentar. Dentro de esas dos, suma 5 programas automáticos para simplificar cocciones frecuentes. Si buscás hornear o deshidratar como funciones separadas, no es esta freidora." },
+      { question: "¿Para cuántas personas alcanza?", answer: "Con 4,2 litros, rinde bien para 1 o 2 personas, y hasta 3 si las porciones no son grandes. Para familias más numerosas, conviene una freidora con más capacidad de esta misma comparativa." },
+      { question: "¿Por qué la ficha tiene dos nombres de modelo distintos?", answer: "Es una inconsistencia real de la propia publicación de MercadoLibre: en el campo \"Modelo\" figura como F2.6, y en el código alfanumérico del producto aparece como FREI420D. Usamos FREI420D en esta ficha, que es el identificador real." },
+      { question: "¿Qué rango de temperatura tiene?", answer: "De 80 a 200 °C, según la ficha vigente de la publicación, con un temporizador de hasta 60 minutos." },
+      { question: "¿Por qué tiene tantas opiniones?", answer: "Es la freidora más vendida de toda la línea Gadnic en MercadoLibre Argentina, con más de 3.000 calificaciones. Ese volumen de respaldo es justamente su argumento más fuerte frente a otras freidoras chicas del catálogo." },
+      { question: "¿Vale la pena pagar más que por la Cuk de 2,5 litros?", answer: "Si necesitás más capacidad, sí: esta cuesta {{preciodif:MLA39458507:MLA40069273}} más que la Cuk de 2,5 litros, pero tiene control digital en vez de perillas y casi el doble de volumen." },
+      { question: "¿Cuánto pesa y qué medidas tiene?", answer: "Pesa 3,5 kg y mide 35 cm de alto por 25 x 29,5 cm de base, de las más compactas y livianas de esta comparativa." },
+      { question: "¿Conviene más esta o la Kanji KJHAF1404?", answer: "Son muy similares: la diferencia de precio es de {{preciodif:MLA39458507:MLA57822248}}, y la Kanji tiene apenas 0,2 litros menos con el mismo rango de temperatura desde 80 °C. La elección puede pasar más por el respaldo de opiniones (mayor en esta Cuk) que por las specs." },
     ],
   },
   {
@@ -83104,7 +85661,7 @@ Si venís de un colchón hundido y no querés irte al otro extremo, ese es el pu
     category: "Cocina", categorySlug: "cocina",
     permalink: "https://www.mercadolibre.com.ar/p/MLA39456847",
     affiliateUrl: "https://meli.la/2KZzqxT",
-    condition: "new", freeShipping: false, rating: 4.8, reviewCount: 728,
+    condition: "new", freeShipping: false, rating: 4.8, reviewCount: 1519,
     pastelColor: "var(--pastel-green)",
     specs: [
       { label: "Marca", value: "Westinghouse, linea Home" },
@@ -83114,7 +85671,8 @@ Si venís de un colchón hundido y no querés irte al otro extremo, ese es el pu
       { label: "Color", value: "Negro" },
       { label: "Funciones", value: "Freir, asar y recalentar. La publicacion habla de 7 funciones automaticas" },
       { label: "Control", value: "Digital con pantalla tactil" },
-      { label: "Temperatura minima", value: "80 °C" },
+      { label: "Rango de temperatura", value: "80 a 200 °C, según la ficha vigente de la publicación" },
+      { label: "Ventana transparente", value: "Las fotos de la publicación muestran puerta con visor y luz interior; el texto de la ficha no lo menciona de forma explícita" },
       { label: "Peso", value: "4 kg" },
       { label: "Medidas", value: "31 cm de alto x 28 x 36 cm" },
       { label: "Voltaje", value: "220V" },
@@ -83127,10 +85685,53 @@ Si venís de un colchón hundido y no querés irte al otro extremo, ese es el pu
     metaDescription: "Freidora de aire Westinghouse WKAF508 de 6,5 litros y 1,5 kW con pantalla tactil. Precio, specs verificadas y opiniones reales.",
     verdict: "Es una opcion de volumen medio bien plantada: **6,5 litros** alcanzan comodo para tres o cuatro, con **1,5 kW** y pantalla tactil. Tiene {{rating:MLA39456847}} sobre {{reviews:MLA39456847}} opiniones. Hay una contra que aparece en las opiniones y conviene decirla: **a mas de un comprador las papas fritas no le salen bien**, aunque el resto de las preparaciones si. Tambien se menciona olor a plastico en los primeros usos, algo comun en freidoras nuevas que se va con un par de ciclos en vacio.",
     pros: ["6,5 litros a precio de gama media", "Pantalla tactil y siete funciones automaticas declaradas", "Declara peso y medidas completas", "Buen respaldo de opiniones"],
-    cons: ["Una opinion insiste en que las papas fritas es lo unico que no le sale bien", "Olor a plastico en los primeros usos, segun una opinion", "La ficha declara tres funciones pero el titulo habla de siete", "No declara temperatura maxima"],
+    cons: ["Una opinion insiste en que las papas fritas es lo unico que no le sale bien", "Olor a plastico en los primeros usos, segun una opinion", "La ficha declara tres funciones pero el titulo habla de siete"],
     customerReviews: [
       { rating: 4, country: "Argentina", text: "La compramos para hacer papas fritas, es lo unico que sale mal, el resto sale riquisimo, budines mejor que en el horno, pollo, carnes, verduras, todo espectacular, pero las papas no." },
       { rating: 5, country: "Argentina", text: "Hasta ahora que lo estoy probando excelente, lei que da olor a plastico porque es nuevo y lo que hice fue poner una cebolla cruda para quitar el olor." },
+    ],
+    articleBody: `## Qué es la Westinghouse WKAF508
+
+Es una freidora de aire de 6,5 litros con pantalla digital táctil, un volumen medio pensado para 3 o 4 personas. Cuesta {{precio:MLA39456847}} y tiene {{reviews:MLA39456847}} calificaciones con {{rating:MLA39456847}} estrellas en MercadoLibre Argentina, dentro de [nuestra comparativa de las mejores freidoras de aire en Argentina](/guias/mejores-freidoras-de-aire-argentina).
+
+## Todo sale bien, menos justamente las papas fritas
+
+Acá va la contra más honesta que encontramos en esta comparativa, y es irónica para una freidora de aire: **una reseña cuenta que las papas fritas son lo único que no le sale bien**. La misma persona aclara que el resto rinde excelente ("budines mejor que en el horno, pollo, carnes, verduras, todo espectacular"), así que no es un problema general del equipo, es puntual de esa preparación específica. Vale la pena tenerlo en cuenta si tu uso principal va a ser justamente papas fritas.
+
+## El olor a plástico de los primeros usos
+
+Es normal en electrodomésticos nuevos y no es exclusivo de esta freidora. Una reseña lo confirma y comparte un truco casero: puso una cebolla cruda adentro para ayudar a que se vaya el olor en los primeros ciclos. Después de eso, la calificación es excelente.
+
+## El rango de temperatura completo
+
+Va de 80 a 200 °C, según la ficha vigente de la publicación. Es un rango estándar dentro de esta comparativa, ni el más bajo (como el piso de 60 o 75 °C de otras fichas) ni el más alto.
+
+## La ventana que las fotos muestran, pero el texto no menciona
+
+Un detalle que vale la pena aclarar: las fotos de la publicación muestran una puerta con visor y luz interior, algo parecido a una ventana transparente. Pero el texto de la ficha no lo menciona como característica explícita. Preferimos avisarlo así, tal cual está la información, en vez de asegurar una función que no está confirmada por escrito.
+
+## Contra las otras freidoras de la comparativa
+
+La [Liliana AF966N Airview](/producto/freidora-de-aire-liliana-af966n-airview-6-litros-con-ventana-mla46208363) cuesta {{preciodif:MLA46208363:MLA39456847}} más, con 6 litros (menos que esta) pero ventana transparente confirmada por escrito.
+
+La [Novohome NH-AF70WIX](/producto/freidora-de-aire-novohome-nh-af70wix-7-litros-4-funciones-mla42479783) cuesta {{preciodif:MLA42479783:MLA39456847}} más, con 0,5 litros más de capacidad, pero con una reseña seria sobre apagado espontáneo que esta ficha no tiene.
+
+La [Atma FR246AWP](/producto/freidora-de-aire-atma-fr246awp-6-litros-1-75-kw-blanca-con-ventana-mla39932833) cuesta {{preciodif:MLA39932833:MLA39456847}} más, con 0,5 litros menos, pero con ventana confirmada y un piso de temperatura más bajo (75 °C contra 80 °C).
+
+## Para quién es, y para quién no
+
+Es para vos si buscás un volumen medio de 6,5 litros a precio accesible, con pantalla táctil y buen respaldo de opiniones.
+
+No es para vos si tu uso principal va a ser hacer papas fritas seguido: una reseña avisa que es justo lo único que no le sale bien. Para eso, otra freidora de esta comparativa puede rendir mejor.`,
+    faq: [
+      { question: "¿Es cierto que no hace bien las papas fritas?", answer: "Una reseña lo reporta así: las papas fritas son lo único que no le sale bien, mientras que el resto de las preparaciones (budines, pollo, carnes, verduras) salen excelentes según la misma persona. No es un problema general del equipo, parece puntual de esa preparación." },
+      { question: "¿Es normal que huela a plástico al principio?", answer: "Sí, es común en electrodomésticos nuevos. Una reseña lo confirma y comparte un truco: puso una cebolla cruda adentro en los primeros ciclos para ayudar a que se vaya el olor." },
+      { question: "¿Para cuántas personas alcanza?", answer: "Con 6,5 litros, es un volumen medio que alcanza cómodo para 3 o 4 personas." },
+      { question: "¿Qué rango de temperatura tiene?", answer: "De 80 a 200 °C, según la ficha vigente de la publicación. Es un rango estándar dentro de esta comparativa." },
+      { question: "¿Trae ventana para ver la cocción?", answer: "Las fotos de la publicación muestran una puerta con visor y luz interior, pero el texto de la ficha no lo confirma como característica explícita. Preferimos avisar esta ambigüedad en vez de asegurar algo que no está confirmado por escrito." },
+      { question: "¿Cuántas funciones tiene realmente?", answer: "La ficha técnica declara tres funciones (freír, asar y recalentar), pero el título de la publicación habla de 7 funciones automáticas. Es una inconsistencia de la propia publicación que preferimos mencionar en vez de silenciar." },
+      { question: "¿Cuánto pesa y qué medidas tiene?", answer: "Pesa 4 kg y mide 31 cm de alto por 28 x 36 cm de base, datos que la publicación declara completos." },
+      { question: "¿Conviene más esta o la Liliana AF966N Airview?", answer: "La Liliana cuesta {{preciodif:MLA46208363:MLA39456847}} más, tiene menos capacidad (6 litros contra 6,5) pero suma ventana transparente confirmada por escrito, algo que esta Westinghouse no tiene garantizado en el texto de su ficha." },
     ],
   },
   {
@@ -83143,7 +85744,7 @@ Si venís de un colchón hundido y no querés irte al otro extremo, ese es el pu
     category: "Cocina", categorySlug: "cocina",
     permalink: "https://www.mercadolibre.com.ar/p/MLA40069273",
     affiliateUrl: "https://meli.la/14jVkwS",
-    condition: "new", freeShipping: false, rating: 4.8, reviewCount: 505,
+    condition: "new", freeShipping: false, rating: 4.8, reviewCount: 1075,
     pastelColor: "var(--pastel-coral)",
     specs: [
       { label: "Marca", value: "Gadnic, linea Cuk" },
@@ -83154,6 +85755,7 @@ Si venís de un colchón hundido y no querés irte al otro extremo, ese es el pu
       { label: "Funciones", value: "Freir, asar y recalentar" },
       { label: "Control", value: "Doble perilla" },
       { label: "Rango de temperatura", value: "80 °C a 200 °C" },
+      { label: "Temporizador", value: "Hasta 60 minutos" },
       { label: "Canastos", value: "1" },
       { label: "Medidas", value: "31 cm de alto x 26,5 x 21 cm" },
       { label: "Voltaje", value: "220V" },
@@ -83171,6 +85773,45 @@ Si venís de un colchón hundido y no querés irte al otro extremo, ese es el pu
       { rating: 5, country: "Argentina", text: "Tema de garantia tendria que ver porque no me vino ni un papel de garantia. Anda perfecto, facil de usar y precio calidad buenisimo." },
       { rating: 5, country: "Argentina", text: "Me resulto muy util, al mediodia me tengo que cocinar rapido y sano, es ideal." },
     ],
+    articleBody: `## Qué es la Cuk by Gadnic de 2,5 litros
+
+Es la freidora de aire más chica y más barata de todo el catálogo que tenemos fichado. Cuesta {{precio:MLA40069273}} y tiene {{reviews:MLA40069273}} calificaciones con {{rating:MLA40069273}} estrellas en MercadoLibre Argentina, dentro de [nuestra comparativa de las mejores freidoras de aire en Argentina](/guias/mejores-freidoras-de-aire-argentina).
+
+## Para quién alcanzan de verdad 2,5 litros
+
+Es un tamaño pensado para una persona, o dos si las porciones son moderadas. Una reseña la describe justamente así: la usa al mediodía para cocinar rápido y sano. No es la freidora para una familia, y no pretende serlo: su argumento es el precio y el tamaño mínimo.
+
+## Perillas en vez de pantalla, y por qué eso no es un problema
+
+Se maneja con dos perillas, sin pantalla ni programas automáticos. Con solo 1 kW, es de las que menos consume de todo el catálogo, junto con la Kanji Home KJHAF1003 analógica. Para el uso al que está pensada (porciones chicas, cocina rápida), la simpleza del control por perillas no es una limitación real.
+
+## El aviso sobre la garantía que conviene tomarse en serio
+
+Acá va una advertencia real que sale directamente de las opiniones: **a un comprador no le llegó papel de garantía** dentro de la caja. La misma persona aclara que el producto anda perfecto y que la relación precio-calidad es buena, pero recomendamos guardar la factura de MercadoLibre como respaldo, por las dudas.
+
+## Contra las otras freidoras chicas de la comparativa
+
+Cuesta prácticamente lo mismo que la [Kanji Home KJHAF1003](/producto/freidora-de-aire-kanji-home-kjhaf1003-2-7-litros-1-kw-analogica-mla46031096) ({{preciodif:MLA46031096:MLA40069273}} de diferencia), que tiene 0,2 litros más y también es analógica.
+
+Cuesta {{preciodif:MLA57822248:MLA40069273}} menos que la [Kanji KJHAF1404](/producto/freidora-de-aire-kanji-kjhaf1404-4-litros-1-4-kw-digital-mla57822248), que suma control digital y 1,5 litros más de capacidad.
+
+Contra su propia hermana, la [Cuk by Gadnic de 4,2 litros](/producto/freidora-de-aire-cuk-by-gadnic-4-2-litros-1-3-kw-digital-mla39458507), la diferencia es de {{preciodif:MLA39458507:MLA40069273}}: casi el doble de capacidad con control digital en vez de perillas.
+
+## Para quién es, y para quién no
+
+Es para vos si vivís solo, si buscás la entrada más económica a la categoría, o si preferís un control simple sin depender de pantallas ni programas.
+
+No es para vos si cocinás para más de dos personas, o si te preocupa el papel de garantía: conviene guardar la factura de MercadoLibre desde el día uno.`,
+    faq: [
+      { question: "¿Para cuántas personas alcanza la Cuk de 2,5 litros?", answer: "Es un tamaño pensado para una persona, o dos si las porciones son moderadas. No rinde para una familia, y es la más chica de todo el catálogo que tenemos fichado." },
+      { question: "¿Tiene pantalla o programas automáticos?", answer: "No. Se maneja con dos perillas, una de temperatura (80 a 200 °C) y otra de tiempo (hasta 60 minutos), sin pantalla digital ni programas preestablecidos." },
+      { question: "¿Es cierto que no trae papel de garantía?", answer: "Una reseña reporta que no le llegó papel de garantía dentro de la caja, aunque el producto funciona bien. Conviene guardar la factura de MercadoLibre como respaldo, por las dudas." },
+      { question: "¿Cuánto consume comparada con una freidora grande?", answer: "Con 1 kW, es de las que menos consumen de todo el catálogo, junto con la Kanji Home KJHAF1003 analógica. Una freidora de 8 litros como la Atma FR248AWP consume 1,75 kW, casi el doble." },
+      { question: "¿Vale la pena pagar más por la Cuk de 4,2 litros?", answer: "Si necesitás más capacidad, sí. La versión de 4,2 litros cuesta {{preciodif:MLA39458507:MLA40069273}} más, pero suma control digital y casi el doble de volumen." },
+      { question: "¿Ocupa mucho lugar en la mesada?", answer: "No, es de las más compactas de esta comparativa: mide apenas 21 cm de fondo, así que entra en cualquier mesada chica." },
+      { question: "¿Conviene más esta o la Kanji Home KJHAF1003?", answer: "Son casi idénticas en precio ({{preciodif:MLA46031096:MLA40069273}} de diferencia) y ambas analógicas. La Kanji Home tiene 0,2 litros más de capacidad; la elección entre ambas pasa más por preferencia de marca que por specs." },
+      { question: "¿Qué funciones tiene además de freír?", answer: "Declara freír, asar y recalentar, con un rango de temperatura de 80 a 200 °C." },
+    ],
   },
   {
     id: "MLA71611933",
@@ -83182,7 +85823,7 @@ Si venís de un colchón hundido y no querés irte al otro extremo, ese es el pu
     category: "Cocina", categorySlug: "cocina",
     permalink: "https://www.mercadolibre.com.ar/p/MLA71611933",
     affiliateUrl: "https://meli.la/2smkTbP",
-    condition: "new", freeShipping: false, rating: 4.8, reviewCount: 155,
+    condition: "new", freeShipping: false, rating: 4.8, reviewCount: 264,
     pastelColor: "var(--pastel-pink)",
     specs: [
       { label: "Marca", value: "Vetra" },
@@ -83210,6 +85851,47 @@ Si venís de un colchón hundido y no querés irte al otro extremo, ese es el pu
       { rating: 5, country: "Argentina", text: "Es esteticamente muy linda, delicada y muy facil de limpiar. La coccion fue rapida y la comida quedo excelente. La compre por sobre todas las cosas por no tener teflon." },
       { rating: 5, country: "Argentina", text: "Muy buen diseno, con recipiente de vidrio de muy facil lavado. Especial para 3 personas adultas, me sorprendio la capacidad. Ya cocine papas, chinchulines y pollo, sale todo crocante." },
     ],
+    articleBody: `## Qué es la Vetra AF-G500
+
+Es la única freidora de aire de todo nuestro catálogo con **canasta de vidrio templado**, en vez de la canasta metálica con antiadherente que usan el resto. Cuesta {{precio:MLA71611933}} y tiene {{rating:MLA71611933}} estrellas en MercadoLibre Argentina, dentro de [nuestra comparativa de las mejores freidoras de aire en Argentina](/guias/mejores-freidoras-de-aire-argentina).
+
+## El material que resuelve la queja más repetida del catálogo
+
+En varias fichas de esta comparativa aparece la misma queja: el antiadherente se pela o se raya con el uso. Acá esa preocupación no existe, porque no hay teflón ni recubrimiento que pelar. Una reseña lo dice de forma explícita: **la compró por sobre todas las cosas por no tener teflón**. El vidrio, además, deja ver la cocción desde arriba sin necesidad de ventana lateral.
+
+## Lo que cuesta esa ventaja
+
+Con **1,2 kW**, es de las de menor potencia para 5 litros de esta comparativa, y tiene **{{reviews:MLA71611933}} opiniones**, de las bases de respaldo más chicas que fichamos. El vidrio también pesa más que el plástico o metal liviano, y aunque es vidrio templado, sigue siendo un material que se puede romper con un golpe fuerte, algo que no aplica al resto de las freidoras de esta comparativa.
+
+## Un aviso sobre el precio
+
+Al verificar esta ficha en vivo, la vimos ofrecida con una etiqueta de **"Exclusivo Negocios"** a un precio más bajo que el que mostramos acá. Esa condición suele aplicar a cuentas de MercadoLibre registradas como negocio, no necesariamente al precio que ve cualquier comprador particular. Preferimos no usar ese valor como referencia hasta poder confirmar que es el mismo para todos los compradores: el precio que mostramos en esta ficha es el que corresponde a una cuenta de consumidor final.
+
+## Contra las otras freidoras de 5 litros de la comparativa
+
+La [Yelmo FR7309](/producto/freidora-de-aire-yelmo-fr7309-5-litros-1-4-kw-violeta-mla42519580) cuesta {{preciodif:MLA71611933:MLA42519580}} menos, con la misma capacidad de 5 litros pero canasta antiadherente convencional en vez de vidrio.
+
+## Contra las opciones más económicas del grupo
+
+La [Kanji KJHAF1404](/producto/freidora-de-aire-kanji-kjhaf1404-4-litros-1-4-kw-digital-mla57822248) cuesta {{preciodif:MLA71611933:MLA57822248}} menos, aunque con 1 litro menos de capacidad y canasta antiadherente convencional.
+
+La [Liliana AF966N Airview](/producto/freidora-de-aire-liliana-af966n-airview-6-litros-con-ventana-mla46208363) cuesta {{preciodif:MLA46208363:MLA71611933}} más, con 1 litro más de capacidad y ventana transparente, aunque también con canasta metálica convencional.
+
+## Para quién es, y para quién no
+
+Es para vos si te preocupa el antiadherente pelándose con el uso, o si valorás poder ver la cocción sin necesidad de ventana lateral gracias al vidrio.
+
+No es para vos si priorizás la potencia (1,2 kW es de las más bajas para 5 litros de esta comparativa), si te preocupa el riesgo de rotura del vidrio, o si preferís apoyarte en una base de opiniones más grande antes de decidir.`,
+    faq: [
+      { question: "¿Por qué la canasta es de vidrio y no de metal antiadherente?", answer: "Es el diferencial principal de esta freidora: resuelve de raíz la queja más repetida en el resto del catálogo, que el antiadherente se pela con el uso. Una reseña la compró justamente por eso: \"por sobre todas las cosas por no tener teflón\"." },
+      { question: "¿El vidrio se puede romper?", answer: "Es vidrio templado, más resistente que el vidrio común, pero sigue siendo un material que se puede romper con un golpe fuerte, algo que no aplica a las freidoras con canasta metálica del resto de esta comparativa." },
+      { question: "¿Por qué vi un precio distinto al navegar en MercadoLibre?", answer: "Es posible que hayas visto una oferta con la etiqueta \"Exclusivo Negocios\", que suele aplicar a cuentas registradas como negocio y no necesariamente al precio que ve un comprador particular. El precio que mostramos en esta ficha corresponde a una cuenta de consumidor final." },
+      { question: "¿Es potente para 5 litros?", answer: "Con 1,2 kW, es de las de menor potencia para su capacidad dentro de esta comparativa. No es poca potencia en términos absolutos, pero comparada con otras freidoras de 5 litros del catálogo, queda por debajo." },
+      { question: "¿Para cuántas personas alcanza?", answer: "Una reseña la describe como especial para 3 personas adultas y destaca que la capacidad la sorprendió. Con 5 litros, es un tamaño intermedio en esta comparativa." },
+      { question: "¿Tiene poco respaldo de opiniones?", answer: "Sí, es de las bases de opiniones más chicas que tenemos fichadas en esta comparativa. La nota es real y positiva, pero se apoya en menos gente que el resto de las freidoras que comparamos." },
+      { question: "¿Trae ventana transparente además del vidrio de la canasta?", answer: "Sí, además de que el propio material de la canasta permite ver la cocción desde arriba, la publicación declara ventana transparente." },
+      { question: "¿Conviene más esta o una freidora antiadherente convencional?", answer: "Depende de qué priorices. Cuesta {{preciodif:MLA71611933:MLA42519580}} más que la Yelmo FR7309, que tiene la misma capacidad con canasta antiadherente tradicional. La diferencia de precio es lo que cuesta evitar el teflón." },
+    ],
   },
   {
     id: "MLA41479634",
@@ -83221,7 +85903,7 @@ Si venís de un colchón hundido y no querés irte al otro extremo, ese es el pu
     category: "Cocina", categorySlug: "cocina",
     permalink: "https://www.mercadolibre.com.ar/p/MLA41479634",
     affiliateUrl: "https://meli.la/11NyrV7",
-    condition: "new", freeShipping: false, rating: 4.8, reviewCount: 1216,
+    condition: "new", freeShipping: false, rating: 4.8, reviewCount: 2000,
     pastelColor: "var(--pastel-blue)",
     specs: [
       { label: "Marca", value: "Westinghouse, linea Hogar" },
@@ -83236,8 +85918,8 @@ Si venís de un colchón hundido y no querés irte al otro extremo, ese es el pu
       { label: "Voltaje", value: "220V" },
     ],
     relatedProducts: ["MLA45520216", "MLA36816568", "MLA39861128"],
-    priceUpdated: "2026-09-02", priceLastChecked: "2026-08-20", priceVerifiedAt: "2026-08-20",
-    priceStatus: "fresh", reviewsSampledAt: "2026-08-20",
+    priceUpdated: "2026-09-03", priceLastChecked: "2026-09-03", priceVerifiedAt: "2026-09-03",
+    priceStatus: "fresh", reviewsSampledAt: "2026-09-03",
     description: "Diez litros con doce funciones automaticas, la de mayor capacidad a canasto de nuestro catalogo. Puesto 20 entre las mas vendidas de Mercado Libre Argentina.",
     seoTitle: "Westinghouse AFR-1802: 10 litros para familia",
     metaDescription: "Freidora de aire Westinghouse AFR-1802 de 10 litros y 1,8 kW con 12 funciones. Entra un pollo entero. Precio, specs y opiniones reales.",
@@ -83247,6 +85929,41 @@ Si venís de un colchón hundido y no querés irte al otro extremo, ese es el pu
     customerReviews: [
       { rating: 5, country: "Argentina", text: "Es enorme. Comodamente entra un pollo entero. Las papas fritas buenisimas, aunque hay que remover varias veces, pero se hacen con solo un chorrito de aceite. Super facil de limpiar." },
       { rating: 5, country: "Argentina", text: "Desde que la compre hace un mes, no prendi el horno. Hice bifes, papas, tartas, tortas, pan, milanesas, pollo, langostinos y rabas." },
+    ],
+    articleBody: `## Qué es la Westinghouse AFR-1802
+
+Es la freidora de canasto de mayor capacidad de todo nuestro catálogo: **10 litros**, sin pasar al formato horno con puerta. Cuesta {{precio:MLA41479634}} y tiene {{reviews:MLA41479634}} calificaciones con {{rating:MLA41479634}} estrellas en MercadoLibre Argentina, dentro de [nuestra comparativa de las mejores freidoras de aire en Argentina](/guias/mejores-freidoras-de-aire-argentina).
+
+## Por qué vale la pena para familias grandes: entra un pollo entero
+
+Las opiniones coinciden en el punto que más importa a esta escala: **entra un pollo entero**, cómodamente, según más de una reseña. Alcanza para una familia de 5 o más personas sin necesidad de cocinar en varias tandas, algo que ninguna freidora de 5 a 8 litros de esta comparativa puede prometer con la misma comodidad. Una reseña resume el impacto real: dejó de prender el horno un mes entero, e hizo de todo, desde bifes y papas hasta tartas, pan y pollo.
+
+## Un matiz honesto sobre las papas fritas
+
+Una reseña avisa algo esperable en un canasto de este tamaño: **las papas necesitan que las remuevas varias veces** durante la cocción para que doren parejo. No es una falla, es una consecuencia lógica de tener mucho más volumen: cuanto más grande el canasto, más importa mezclar el contenido a mitad de cocción.
+
+## El precio: por qué es tan cara comparada con el resto
+
+Es, por lejos, la más cara de nuestro catálogo de freidoras de canasto. Cuesta {{preciodif:MLA41479634:MLA45520216}} más que la [Philco FR259PH](/producto/freidora-de-aire-philco-fr259ph-9-litros-2-kw-mla45520216) de 9 litros, y {{preciodif:MLA41479634:MLA39861128}} más que la [Atma FR248AWP](/producto/freidora-de-aire-atma-fr248awp-8-litros-1-75-kw-blanca-con-ventana-mla39861128), la más elegida del catálogo. Esa diferencia solo se justifica si de verdad necesitás los 10 litros completos: para una familia de 3 o 4, cualquiera de esas dos opciones alcanza y sobra por bastante menos plata.
+
+## Contra la opción de mayor capacidad todavía, en formato horno
+
+La [Gadnic Cuk AIRCRISP](/producto/freidora-de-aire-gadnic-cuk-aircrisp-17-litros-formato-horno-mla36816568) cuesta {{preciodif:MLA41479634:MLA36816568}} menos y tiene casi el doble de capacidad (17 litros), pero en formato horno con puerta, no canasto: cambia lo que se puede cocinar y también lo que hay que limpiar después. Si el volumen es la prioridad número uno y no te molesta el formato horno, esa opción rinde más por el precio.
+
+## Para quién es, y para quién no
+
+Es para vos si cocinás para una familia de 5 o más personas de forma habitual, o si querés poder meter un pollo entero sin pensarlo dos veces.
+
+No es para vos si cocinás para 3 o 4 personas: hay opciones de 8 y 9 litros de esta misma comparativa por bastante menos plata que rinden igual de bien para ese tamaño de familia.`,
+    faq: [
+      { question: "¿Entra un pollo entero de verdad?", answer: "Sí, según más de una reseña. Una la describe como enorme y cuenta que entra un pollo entero cómodamente, algo que ninguna freidora más chica de esta comparativa puede prometer con la misma facilidad." },
+      { question: "¿Para cuántas personas alcanza?", answer: "Con 10 litros, alcanza para una familia de 5 personas o más sin necesidad de cocinar en varias tandas. Es la mayor capacidad a canasto (sin pasar a formato horno) de todo nuestro catálogo." },
+      { question: "¿Por qué hay que remover las papas varias veces?", answer: "Una reseña lo avisa: con un canasto de este tamaño, conviene remover las papas más de una vez durante la cocción para que doren parejo. No es una falla del equipo, es una consecuencia lógica de tener mucho más volumen." },
+      { question: "¿Vale la pena pagar tanto más que por una de 8 o 9 litros?", answer: "Depende del tamaño de tu familia. Cuesta {{preciodif:MLA41479634:MLA39861128}} más que la Atma FR248AWP de 8 litros. Si cocinás para 3 o 4 personas, esa opción alcanza y sobra por bastante menos plata. Si necesitás los 10 litros completos (familias de 5 o más), la diferencia se justifica." },
+      { question: "¿Cuántas funciones automáticas tiene?", answer: "12 funciones automáticas declaradas, con un rango de temperatura de 80 a 200 °C." },
+      { question: "¿Conviene más esta o la Gadnic Cuk AIRCRISP de 17 litros?", answer: "La Gadnic Cuk cuesta {{preciodif:MLA41479634:MLA36816568}} menos y tiene casi el doble de capacidad, pero es formato horno con puerta, no canasto. Si el volumen es lo más importante y no te molesta ese formato, esa opción rinde más por el precio." },
+      { question: "¿Cuánto pesa?", answer: "Su ficha de MercadoLibre no declara peso, así que en ese dato puntual no se la puede comparar con el resto del catálogo. Sí declara medidas: 32 cm de alto por 31,5 x 31,5 cm de base." },
+      { question: "¿Por qué dejó de usar el horno una compradora después de tenerla?", answer: "Una reseña cuenta que, desde que la compró, no prendió más el horno de la cocina durante un mes: hizo bifes, papas, tartas, tortas, pan, milanesas, pollo, langostinos y rabas. Es el tipo de experiencia que solo un tamaño grande como este habilita." },
     ],
   },
 
