@@ -1459,4 +1459,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "30",
     postedAt: "2026-09-04T19:26:09-03:00",
   },
+  {
+    title: "Soldadora Logus Lite SMLL-120SG",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_969052-MLA114423625724_082026-O.webp",
+    affiliateUrl: "https://meli.la/1GAx6Qz",
+    newPrice: "173.630",
+    oldPrice: "305.998",
+    offPct: "43",
+    postedAt: "2026-09-04T19:29:03-03:00",
+  },
 ];
