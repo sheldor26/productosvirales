@@ -102,6 +102,7 @@ negro — tienen precio de lista distinto).
 | Smart TV 65" Samsung Crystal UHD 4K (UN65DU7000GCZB) | $1.217.899 | 2026-09-04 | meli.la/11Pi96D — sin referencia previa, Tienda oficial Techcel. Precio sin cupón (con cupón ML "Múltiples Categorías" 10% OFF, mínima $200.000, tope $80.000, ¡vencía el mismo día 04/09/2026! queda en $1.137.899 — esa parte no es referencia estable, cupón de corta vida a diferencia de los que duran semanas) |
 | Notebook Acer Aspire Go 15 Ryzen 7 7730U 16GB/512GB | $1.234.999 | 2026-09-04 | meli.la/1LvTEMc — sin referencia previa, Tienda oficial Integrados Argentinos. "3° en Notebooks Acer" es brand-scoped, no se usó en el copy |
 | JBL Boombox 3 Parlante Bluetooth | $619.379 | 2026-09-04 | meli.la/1ZwU3v2 — mismo link usado el 2026-08-13 ($639.199, 49% OFF); precio mejoró a $619.379 (50% OFF), Tienda oficial JBL, 8° en Parlantes y Bafles. Cupón ML "Múltiples Categorías" 10% OFF (mínima $200.000, tope $80.000, vencía 2026-09-04) queda en $557.441 |
+| Freezer Horizontal Gafa 200L Inverter Blanco FGHI202B-M | $535.000 | 2026-09-04 | meli.la/2NKjTfY — sin referencia previa, modelo distinto al Gafa 316L y al Philco 99L de las filas de arriba, Tienda oficial azkar, 2° en Freezers, ¡últimas 3 unidades! confirmado en vivo dos veces (sourcing y publicación) |
 
 ## Pequeños electrodomésticos
 

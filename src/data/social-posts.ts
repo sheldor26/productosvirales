@@ -1449,4 +1449,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "50",
     postedAt: "2026-09-04T19:11:27-03:00",
   },
+  {
+    title: "Freezer Horizontal Gafa 200L Inverter",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_926772-MLA116051897475_082026-O.webp",
+    affiliateUrl: "https://meli.la/2NKjTfY",
+    newPrice: "535.000",
+    oldPrice: "772.232",
+    offPct: "30",
+    postedAt: "2026-09-04T19:26:09-03:00",
+  },
 ];
