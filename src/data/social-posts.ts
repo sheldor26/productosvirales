@@ -1469,4 +1469,24 @@ export const socialPosts: SocialPost[] = [
     offPct: "43",
     postedAt: "2026-09-04T19:29:03-03:00",
   },
+  {
+    title: "Nintendo Switch 2 Consola 256GB",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_788400-MLA99958400949_112025-O.webp",
+    affiliateUrl: "https://meli.la/28gHdKR",
+    newPrice: "1.160.000",
+    oldPrice: "1.699.999",
+    offPct: "32",
+    postedAt: "2026-09-04T20:14:55-03:00",
+  },
+  {
+    title: "Consola PS5 Digital + Astro Bot + Gran Turismo 7",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_762299-MLA96673496657_102025-O.webp",
+    affiliateUrl: "https://meli.la/2uDAPvb",
+    newPrice: "1.432.499",
+    oldPrice: "1.499.999",
+    offPct: "5",
+    postedAt: "2026-09-04T20:16:38-03:00",
+  },
 ];

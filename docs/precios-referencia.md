@@ -63,6 +63,8 @@ negro — tienen precio de lista distinto).
 | PC Gamer Armada Completa AMD Ryzen 7 5700G 32GB/1TB | $910.894 | 2026-09-04 | meli.la/29NDAm6 — sin referencia previa, modelo distinto al PC Gamer Ryzen 7 5700G 16GB/480GB de la fila de arriba, Tienda oficial Integrados Argentinos, sin cupón en la ficha |
 | Bundle Logitech G Volante G29 (PS/PC + palanca de cambios) | $619.871 | 2026-09-04 | meli.la/1NqVdCE — sin referencia previa, Tienda oficial PC Center Computers, 5° en Simuladores de Manejo, sin cupón en la ficha. ¡Últimas 3 unidades! confirmado en vivo al publicar (bajó de +5 disponibles al sourcear) |
 | Monitor Gamer Gigabyte 24.5" GS25F14 144Hz 1ms FHD | $199.999 | 2026-09-04 | meli.la/23SgBhM — sin referencia previa, Tienda oficial Armytech, 15° en Monitores (general), sin cupón en la ficha |
+| Nintendo Switch 2 Consola 256GB | $1.160.000 | 2026-09-04 | meli.la/28gHdKR — sin referencia previa, Tienda oficial Game Sense ("Mejor precio"), 4.9★ (3342 op.), 5° en Consolas. El oldPrice $1.699.999 es el precio real de la opción "Tienda oficial Nintendo" en la MISMA ficha (no inventado), 32% menos. Cuotas bank-restringidas (BBVA/Supervielle), no se usaron |
+| Consola PS5 Digital + Astro Bot + Gran Turismo 7 | $1.432.499 | 2026-09-04 | meli.la/2uDAPvb — mismo link usado el 2026-08-25 ($1.499.999/22%) y el 2026-09-01 ($1.429.899/28%); esta vez la ficha NO mostraba precio tachado propio para "Mejor precio", se usó el precio real de la opción "Tienda oficial PlayStation" en la MISMA ficha ($1.499.999, 5% OFF) en vez de reusar viejas referencias no verificadas. Tienda oficial Soy Gamer, 4.9★ (12.790 op.), 4° en Consolas, ¡últimas 5 unidades! confirmado en vivo dos veces |
 
 ## Electro
 
