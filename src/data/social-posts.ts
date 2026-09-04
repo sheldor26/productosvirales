@@ -1439,4 +1439,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "41",
     postedAt: "2026-09-04T18:55:47-03:00",
   },
+  {
+    title: "JBL Boombox 3 Parlante Bluetooth",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_955498-MLA99948623081_112025-O.webp",
+    affiliateUrl: "https://meli.la/1ZwU3v2",
+    newPrice: "619.379",
+    oldPrice: "1.259.999",
+    offPct: "50",
+    postedAt: "2026-09-04T19:11:27-03:00",
+  },
 ];
