@@ -88,6 +88,7 @@ negro — tienen precio de lista distinto).
 | Torre de Sonido Philips TAX5309/77 | $399.999 | 2026-09-02 | meli.la/1WQ29ZH — sin referencia previa, vendedor TC GO (MercadoLíder Platinum, +5 mil ventas), ¡última en stock! confirmada en vivo. Sin rating item-específico (ficha catálogo sin reseñas) |
 | Impresora HP Smart Tank 210 Sistema Continuo Wi-Fi | $304.999 | 2026-09-03 | meli.la/34fW3wn — sin referencia previa, Tienda oficial DALECLICK, 2° en Impresoras. El cupón ML $6.000 OFF visto al sourcear ya no estaba disponible al re-verificar, no se usó |
 | Freezer Horizontal Gafa 316L Inverter (FGHI302P-L) | $699.999 | 2026-09-02 | meli.la/1rpttBU — sin referencia previa, Tienda oficial Gafa, 2° en Freezers, sourceado fuera del lote (pedido puntual de Juan). Precio sin cupón (con cupón ML $40.000 OFF, mínima $500.000, vence 13/09/2026, queda en $659.999 — esa parte no es referencia estable, pero el cupón dura semanas, no horas) |
+| Notebook EXO MCF T2-37 (Intel N4020, 4GB, 128GB) | $332.999 | 2026-09-04 | meli.la/22H78FX — sin referencia previa, modelo distinto al Notebook Exo Smart T38 de la fila de arriba, MercadoLíder Platinum, Tienda oficial EXO, hasta 12 cuotas sin interés con todos los bancos |
 
 ## Pequeños electrodomésticos
 

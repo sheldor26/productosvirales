@@ -1309,4 +1309,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "31",
     postedAt: "2026-09-04T08:33:18-03:00",
   },
+  {
+    title: "Notebook EXO MCF T2-37",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_903432-MLA99483314042_112025-O.webp",
+    affiliateUrl: "https://meli.la/22H78FX",
+    newPrice: "332.999",
+    oldPrice: "569.999",
+    offPct: "41",
+    postedAt: "2026-09-04T09:14:38-03:00",
+  },
 ];
