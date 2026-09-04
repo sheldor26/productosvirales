@@ -1369,4 +1369,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "23",
     postedAt: "2026-09-04T12:42:49-03:00",
   },
+  {
+    title: "Notebook Asus VivoBook Go 15 Ryzen 5",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_652024-MLA107245126123_022026-O.webp",
+    affiliateUrl: "https://meli.la/2s678Er",
+    newPrice: "945.999",
+    oldPrice: "1.963.498",
+    offPct: "51",
+    postedAt: "2026-09-04T13:23:35-03:00",
+  },
 ];
