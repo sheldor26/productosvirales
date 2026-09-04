@@ -1389,4 +1389,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "28",
     postedAt: "2026-09-04T15:16:35-03:00",
   },
+  {
+    title: "Smart TV 65\" Samsung Crystal UHD 4K",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_816045-MLA99935757295_112025-O.webp",
+    affiliateUrl: "https://meli.la/11Pi96D",
+    newPrice: "1.217.899",
+    oldPrice: "1.699.999",
+    offPct: "28",
+    postedAt: "2026-09-04T15:35:18-03:00",
+  },
 ];
