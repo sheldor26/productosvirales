@@ -1419,4 +1419,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "50",
     postedAt: "2026-09-04T16:49:12-03:00",
   },
+  {
+    title: "Aire Acondicionado Split Inverter Philco 3800W",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_987855-MLA111945222829_052026-O.webp",
+    affiliateUrl: "https://meli.la/1eZ4zaF",
+    newPrice: "799.999",
+    oldPrice: "1.399.999",
+    offPct: "42",
+    postedAt: "2026-09-04T18:14:22-03:00",
+  },
 ];

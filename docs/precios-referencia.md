@@ -68,6 +68,7 @@ negro — tienen precio de lista distinto).
 
 | Producto | Precio de referencia (mejor real visto) | Fecha | Fuente |
 |---|---|---|---|
+| Aire Acondicionado Split Inverter Philco 3800W/3268FG PHIN38HA6AN | $799.999 | 2026-09-04 | meli.la/1eZ4zaF — sin referencia previa, Tienda oficial Mercado Libre, 1° en Aires Acondicionados (general), 3 cuotas sin interés con todos los bancos, sin cupón en la ficha |
 | Heladera Conservadora Termolar SUV 20L | $43.369 | 2026-08-18 | — |
 | Heladera No Frost Whirlpool WRM42HB 386L | $950.899 | 2026-08-18 | — |
 | Smart TV Noblex 50" 4K Google TV | $634.500 | 2026-08-25 | — |
