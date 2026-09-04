@@ -1329,4 +1329,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "45",
     postedAt: "2026-09-04T09:55:40-03:00",
   },
+  {
+    title: "Smart TV 43\" TCL QLED 43S5K Google TV",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_608008-MLA111568871398_062026-O.webp",
+    affiliateUrl: "https://meli.la/2PPhFjF",
+    newPrice: "459.899",
+    oldPrice: "539.999",
+    offPct: "14",
+    postedAt: "2026-09-04T10:37:36-03:00",
+  },
 ];
