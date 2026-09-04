@@ -1379,4 +1379,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "51",
     postedAt: "2026-09-04T13:23:35-03:00",
   },
+  {
+    title: "Bundle Logitech G Volante G29 PS/PC",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_974490-MLA99860664763_112025-O.webp",
+    affiliateUrl: "https://meli.la/1NqVdCE",
+    newPrice: "619.871",
+    oldPrice: "867.795",
+    offPct: "28",
+    postedAt: "2026-09-04T15:16:35-03:00",
+  },
 ];
