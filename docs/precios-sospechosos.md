@@ -6,6 +6,30 @@
 > chequearlos en MercadoLibre. Si son reales, avisar para aplicarlos a mano.
 > Entradas nuevas arriba.
 
+## 2026-09-04
+
+- **MLA8732921** — Auriculares Gamer Con Cable HyperX Cloud HX-HSCA Black y Red: $91.379 → $779.403 (+753%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA8732921
+  - Sitio: https://productosvirales.com.ar/producto/MLA8732921
+- **MLA21789761** — Horno Electrico Atma Hga3022 Grill 30l 1500w Timer 250° Gris: $499.999 → $238.999 (-52%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA21789761
+  - Sitio: https://productosvirales.com.ar/producto/MLA21789761
+- **MLA15705813** — Cafetera de cápsulas Moulinex Dolce Gusto Piccolo XS: $114.436 → $359.860 (+214%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA15705813
+  - Sitio: https://productosvirales.com.ar/producto/MLA15705813
+- **MLA15244160** — Multiprocesadora Ultracomb 600w Pc-6800 Negro Bold de Vidrio Capacidad 1,2Lts: $70.199 → $199.999 (+185%)
+  - ML: https://www.mercadolibre.com.ar/multiprocesadora-ultracomb-600w-pc-6800-negro-bold-de-vidrio-capacidad-12lts/p/MLA15244160
+  - Sitio: https://productosvirales.com.ar/producto/MLA15244160
+- **MLA17380375** — Ventilador De Techo Liliana Vthi513 Blanco Con 3 Palas Metal Diámetro 1.4 m: $219.429 → $106.392 (-52%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA17380375
+  - Sitio: https://productosvirales.com.ar/producto/MLA17380375
+- **MLA62609709** — Bloques Magnéticos Cubos Para Armar Estilo Minecraft 60 Piezas: $27.150 → $80.999 (+198%)
+  - ML: https://www.mercadolibre.com.ar/bloques-magneticos-cubos-para-armar-de-construccion-estilo-minecraft-para-ninos-60-piezas-didacticos-creativo-ilimitado-material-seguro-y-resistente-no-toxicos-bordes-suaves-levys-bazar/p/MLA62609709
+  - Sitio: https://productosvirales.com.ar/producto/MLA62609709
+- **MLA48098024** — Cortador Papas Bastón Aloha — Cuchilla Acero Inoxidable, Apto Lavavajillas: $7.401 → $3.344 (-55%)
+  - ML: https://www.mercadolibre.com.ar/cortador-papa-frita-baston-aloha-cuchilla-acero-inoxidable/p/MLA48098024
+  - Sitio: https://productosvirales.com.ar/producto/MLA48098024
+
 ## 2026-09-02
 
 - **MLA21789761** — Horno Electrico Atma Hga3022 Grill 30l 1500w Timer 250° Gris: $499.999 → $238.999 (-52%)
