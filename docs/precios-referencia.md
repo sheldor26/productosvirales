@@ -60,6 +60,7 @@ negro — tienen precio de lista distinto).
 | Gabinete Raptor Nova Prime RGB | $59.784 | 2026-09-03 | meli.la/1akRynZ — sin referencia previa, Tienda oficial Raptor, 8° en Gabinetes, ¡última unidad! confirmada en vivo |
 | Teclado Mecánico Inalámbrico Xtrike Me GK-995W | $43.649 | 2026-09-03 | meli.la/1XM8dKT — sin referencia previa, Tienda oficial Mora Informática, sin cupón en la ficha |
 | Monitor Samsung 24" Gamer S3 S30GD Full HD IPS 100Hz | $170.999 | 2026-09-04 | meli.la/23zeYi7 — sin referencia previa, Tienda oficial Importanova ("Mejor precio", distinto de la opción "Tienda oficial Samsung" que sale más cara), 1° en Monitores, sin cupón en la ficha |
+| PC Gamer Armada Completa AMD Ryzen 7 5700G 32GB/1TB | $910.894 | 2026-09-04 | meli.la/29NDAm6 — sin referencia previa, modelo distinto al PC Gamer Ryzen 7 5700G 16GB/480GB de la fila de arriba, Tienda oficial Integrados Argentinos, sin cupón en la ficha |
 
 ## Electro
 
