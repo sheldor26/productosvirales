@@ -1429,4 +1429,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "42",
     postedAt: "2026-09-04T18:14:22-03:00",
   },
+  {
+    title: "Smart TV TCL QLED 55\" 4K 120Hz Google TV",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_801835-MLA96126700023_102025-O.webp",
+    affiliateUrl: "https://meli.la/1skqU94",
+    newPrice: "799.999",
+    oldPrice: "1.359.999",
+    offPct: "41",
+    postedAt: "2026-09-04T18:55:47-03:00",
+  },
 ];
