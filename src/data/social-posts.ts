@@ -1299,4 +1299,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "37",
     postedAt: "2026-09-03T19:43:39-03:00",
   },
+  {
+    title: "Monitor Samsung 24 Gamer S3 S30GD Full HD IPS 100Hz",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_918310-MLA99927876503_112025-O.webp",
+    affiliateUrl: "https://meli.la/23zeYi7",
+    newPrice: "170.999",
+    oldPrice: "249.999",
+    offPct: "31",
+    postedAt: "2026-09-04T08:33:18-03:00",
+  },
 ];
