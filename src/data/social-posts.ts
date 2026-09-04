@@ -1399,4 +1399,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "28",
     postedAt: "2026-09-04T15:35:18-03:00",
   },
+  {
+    title: "Notebook Acer Aspire Go 15 Ryzen 7",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_876025-MLA111198115363_052026-O.webp",
+    affiliateUrl: "https://meli.la/1LvTEMc",
+    newPrice: "1.234.999",
+    oldPrice: "1.901.238",
+    offPct: "35",
+    postedAt: "2026-09-04T16:42:45-03:00",
+  },
 ];

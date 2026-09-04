@@ -97,6 +97,7 @@ negro — tienen precio de lista distinto).
 | Smart TV Philips 40" HD Google TV | $392.945 | 2026-09-04 | meli.la/2eJ62GR — sin referencia previa, marca distinta a las TCL/Noblex/Samsung/Sansei/LG de las filas de arriba, Tienda oficial Tango Hogar (+50mil ventas). El "$367.945,63 con Cupón" que mostraba la ficha no tenía cupón real disponible al chequear (modal "No tenés cupones disponibles") — no se usó |
 | Notebook Asus VivoBook Go 15 Ryzen 5 8GB/512GB | $945.999 | 2026-09-04 | meli.la/2s678Er — sin referencia previa, Tienda oficial Espacio Electronica. ⚠️ Esta ficha (MLA65524375) tiene 3 variantes de Sistema Operativo al mismo precio base: FreeDOS sin nada, FreeDOS sin sistema, y Windows 11 Home — se usó a propósito la variante con Windows 11 (no la que carga por default). Si se vuelve a postear, confirmar que el selector "Sistema Operativo" tenga marcado Windows-Home-11 antes de publicar |
 | Smart TV 65" Samsung Crystal UHD 4K (UN65DU7000GCZB) | $1.217.899 | 2026-09-04 | meli.la/11Pi96D — sin referencia previa, Tienda oficial Techcel. Precio sin cupón (con cupón ML "Múltiples Categorías" 10% OFF, mínima $200.000, tope $80.000, ¡vencía el mismo día 04/09/2026! queda en $1.137.899 — esa parte no es referencia estable, cupón de corta vida a diferencia de los que duran semanas) |
+| Notebook Acer Aspire Go 15 Ryzen 7 7730U 16GB/512GB | $1.234.999 | 2026-09-04 | meli.la/1LvTEMc — sin referencia previa, Tienda oficial Integrados Argentinos. "3° en Notebooks Acer" es brand-scoped, no se usó en el copy |
 
 ## Pequeños electrodomésticos
 
