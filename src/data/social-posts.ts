@@ -1549,4 +1549,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "42",
     postedAt: "2026-09-05T11:56:12-03:00",
   },
+  {
+    title: "Freidora de Aire Novohome 7L Digital",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_939491-MLA112941234645_062026-O.webp",
+    affiliateUrl: "https://meli.la/1esd9Ux",
+    newPrice: "114.990",
+    oldPrice: "296.979",
+    offPct: "61",
+    postedAt: "2026-09-05T15:57:38-03:00",
+  },
 ];
