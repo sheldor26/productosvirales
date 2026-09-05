@@ -1579,4 +1579,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "55",
     postedAt: "2026-09-05T17:27:52-03:00",
   },
+  {
+    title: "Notebook Asus VivoBook 16 Ryzen 7 16GB/512GB",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_814894-MLA111083832190_052026-O.webp",
+    affiliateUrl: "https://meli.la/1FRtquh",
+    newPrice: "1.506.999",
+    oldPrice: "2.402.398",
+    offPct: "37",
+    postedAt: "2026-09-05T18:08:15-03:00",
+  },
 ];
