@@ -1569,4 +1569,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "18",
     postedAt: "2026-09-05T16:47:31-03:00",
   },
+  {
+    title: "Notebook HP 255r G10 Ryzen 7 16GB/512GB",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_730278-MLA102672162393_122025-O.webp",
+    affiliateUrl: "https://meli.la/2Y9NQAR",
+    newPrice: "1.150.419",
+    oldPrice: "2.606.998",
+    offPct: "55",
+    postedAt: "2026-09-05T17:27:52-03:00",
+  },
 ];
