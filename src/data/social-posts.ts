@@ -1509,4 +1509,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "41",
     postedAt: "2026-09-05T09:16:36-03:00",
   },
+  {
+    title: "Nintendo Switch 2 Consola 256GB",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_788400-MLA99958400949_112025-O.webp",
+    affiliateUrl: "https://meli.la/28gHdKR",
+    newPrice: "1.160.000",
+    oldPrice: "1.699.999",
+    offPct: "32",
+    postedAt: "2026-09-05T09:57:20-03:00",
+  },
 ];
