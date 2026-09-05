@@ -1529,4 +1529,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "35",
     postedAt: "2026-09-05T10:36:34-03:00",
   },
+  {
+    title: "Consola PS5 Digital + Astro Bot + Gran Turismo 7",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_762299-MLA96673496657_102025-O.webp",
+    affiliateUrl: "https://meli.la/2uDAPvb",
+    newPrice: "1.432.499",
+    oldPrice: "1.499.999",
+    offPct: "5",
+    postedAt: "2026-09-05T11:17:04-03:00",
+  },
 ];
