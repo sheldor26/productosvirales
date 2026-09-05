@@ -73,6 +73,7 @@ negro — tienen precio de lista distinto).
 |---|---|---|---|
 | Aire Acondicionado Split Inverter Philco 3800W/3268FG PHIN38HA6AN | $799.999 | 2026-09-04 | meli.la/1eZ4zaF — sin referencia previa, Tienda oficial Mercado Libre, 1° en Aires Acondicionados (general), 3 cuotas sin interés con todos los bancos, sin cupón en la ficha |
 | Smart TV TCL QLED 55" 4K 120Hz 55C655A Google TV | $799.999 | 2026-09-04 | meli.la/1skqU94 — sin referencia previa, Tienda oficial DMAKER ACERCANDO OPORTUNIDADES, "5° en Televisores TCL" es brand-scoped, no se usó en el copy. Cupón ML 10% OFF (mínima $200.000, tope $80.000, vencía 2026-09-04) queda en $719.999, mencionado en el copy como bonus |
+| Smart TV TCL QLED 55" 4K 120Hz 55C655A Google TV | $799.999 | 2026-09-05 | meli.la/1skqU94 — repost autorizado por Juan (tanda mañana 5/9), precio idéntico al del día anterior, cupón ML del día anterior ya había vencido, se sacó del copy |
 | Heladera Conservadora Termolar SUV 20L | $43.369 | 2026-08-18 | — |
 | Heladera No Frost Whirlpool WRM42HB 386L | $950.899 | 2026-08-18 | — |
 | Smart TV Noblex 50" 4K Google TV | $634.500 | 2026-08-25 | — |
