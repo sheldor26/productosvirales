@@ -1589,4 +1589,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "37",
     postedAt: "2026-09-05T18:08:15-03:00",
   },
+  {
+    title: "Control DualSense Edge PS5",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_995522-MLA82310242505_022025-O.webp",
+    affiliateUrl: "https://meli.la/1HUxEyr",
+    newPrice: "447.899",
+    oldPrice: "559.999",
+    offPct: "20",
+    postedAt: "2026-09-05T19:40:52-03:00",
+  },
 ];
