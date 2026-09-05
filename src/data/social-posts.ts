@@ -1559,4 +1559,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "61",
     postedAt: "2026-09-05T15:57:38-03:00",
   },
+  {
+    title: "Smart TV Samsung 55\" QLED Q6F 4K",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_840312-MLA108249322714_032026-O.webp",
+    affiliateUrl: "https://meli.la/2GdMxYx",
+    newPrice: "899.999",
+    oldPrice: "1.099.999",
+    offPct: "18",
+    postedAt: "2026-09-05T16:47:31-03:00",
+  },
 ];
