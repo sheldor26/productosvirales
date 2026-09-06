@@ -1649,4 +1649,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "32",
     postedAt: "2026-09-06T12:53:24-03:00",
   },
+  {
+    title: "Aspiradora TP-Link Tapo RV20 MAX PLUS",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_777217-MLA96905855908_112025-O.webp",
+    affiliateUrl: "https://meli.la/1wRTtJR",
+    newPrice: "382.946",
+    oldPrice: "660.092",
+    offPct: "41",
+    postedAt: "2026-09-06T13:33:19-03:00",
+  },
 ];
