@@ -158,6 +158,7 @@ negro — tienen precio de lista distinto).
 |---|---|---|---|
 | Hidrolavadora Trent Move 1600W 1885 PSI | $126.040 | 2026-09-03 | meli.la/2NNfHZQ — sin referencia previa, Tienda oficial Trent, +250 mil ventas, 9° en Hidrolavadoras. Precio sin cupón (con cupón ML $6.000 OFF, mínima $75.000, vence 13/09/2026, queda en $120.040 — esa parte no es referencia estable, pero el cupón dura semanas) |
 | Soldadora Logus Lite SMLL-120SG 20-120amp MMA/MIG/LIFT TIG | $173.630 | 2026-09-04 | meli.la/1GAx6Qz — sin referencia previa, Tienda oficial Logus, 1° en Soldadoras. Tiene un cupón "por seguir a la tienda" ($167.630) que no se usó en el copy por ser condicional |
+| Compresor de Aire 50L Maneko (kit + manguera 10mts) | $319.130 | 2026-09-06 | meli.la/1tBqAfz — sin referencia previa, MÁS VENDIDO, +500 vendidos, sin cupón en la ficha |
 
 ## Deportes y Fitness
 

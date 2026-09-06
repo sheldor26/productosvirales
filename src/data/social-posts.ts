@@ -1639,4 +1639,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "57",
     postedAt: "2026-09-06T12:12:39-03:00",
   },
+  {
+    title: "Compresor de Aire 50L Maneko",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_800293-MLA115703987680_092026-O.webp",
+    affiliateUrl: "https://meli.la/1tBqAfz",
+    newPrice: "319.130",
+    oldPrice: "470.000",
+    offPct: "32",
+    postedAt: "2026-09-06T12:53:24-03:00",
+  },
 ];
