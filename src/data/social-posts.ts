@@ -1679,4 +1679,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "26",
     postedAt: "2026-09-06T17:22:15-03:00",
   },
+  {
+    title: "Antena Starlink Mini Satelital Kit Car 12/24V",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_832862-MLA116944809109_082026-O.webp",
+    affiliateUrl: "https://meli.la/2XhZ3Mq",
+    newPrice: "387.903",
+    oldPrice: "474.050",
+    offPct: "18",
+    postedAt: "2026-09-06T18:04:29-03:00",
+  },
 ];
