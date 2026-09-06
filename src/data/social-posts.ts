@@ -1619,4 +1619,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "23",
     postedAt: "2026-09-06T11:53:41-03:00",
   },
+  {
+    title: "Notebook Lenovo IdeaPad 1 15.6\" Celeron",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_818976-MLA99992613487_112025-O.webp",
+    affiliateUrl: "https://meli.la/1m9zm51",
+    newPrice: "634.499",
+    oldPrice: "1.024.647",
+    offPct: "38",
+    postedAt: "2026-09-06T12:00:12-03:00",
+  },
 ];
