@@ -1609,4 +1609,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "0",
     postedAt: "2026-09-06T08:17:41-03:00",
   },
+  {
+    title: "Aspiradora Robot Xiaomi Vacuum H50",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_779219-MLA110348183166_052026-O.webp",
+    affiliateUrl: "https://meli.la/246695Y",
+    newPrice: "779.999",
+    oldPrice: "1.019.999",
+    offPct: "23",
+    postedAt: "2026-09-06T11:53:41-03:00",
+  },
 ];
