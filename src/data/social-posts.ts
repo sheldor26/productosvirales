@@ -1629,4 +1629,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "38",
     postedAt: "2026-09-06T12:00:12-03:00",
   },
+  {
+    title: "Cinta Caminadora Eléctrica Enerfit 735",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_742698-MLA100041243345_122025-O.webp",
+    affiliateUrl: "https://meli.la/1bphiBo",
+    newPrice: "535.696",
+    oldPrice: "1.271.275",
+    offPct: "57",
+    postedAt: "2026-09-06T12:12:39-03:00",
+  },
 ];
