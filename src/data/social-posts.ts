@@ -1659,4 +1659,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "41",
     postedAt: "2026-09-06T13:33:19-03:00",
   },
+  {
+    title: "Freidora Eléctrica Comercial 12L Novohome",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_824804-MLA113399076971_062026-O.webp",
+    affiliateUrl: "https://meli.la/1qXpDYw",
+    newPrice: "150.099",
+    oldPrice: "199.990",
+    offPct: "24",
+    postedAt: "2026-09-06T14:14:04-03:00",
+  },
 ];

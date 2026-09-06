@@ -129,6 +129,7 @@ negro — tienen precio de lista distinto).
 | Aspiradora Robot Gadnic Navegación Inteligente Multi Superficie | $214.049 | 2026-09-02 | https://www.mercadolibre.com.ar/aspiradora-robot-gadnic-limpieza-navegacion-inteligente-multi-superficie-diseno-slim-succion-automatizada-recarga-auto/p/MLA42045783 — sin referencia previa. Precio sin cupón (con CYBER GADNIC, vence 30/9, queda en $203.346 — esa parte no es referencia estable) |
 | Aspiradora Robot Xiaomi Vacuum H50 | $779.999 | 2026-09-06 | meli.la/246695Y — sin referencia previa, modelo distinto al Gadnic de arriba, opción "Mejor precio" (vendedor no oficial, pero precio propio verificado con tachado en la misma ficha, no cruzado), 7° en Aspiradoras Robot, sin cupón en la ficha |
 | Aspiradora TP-Link Tapo RV20 MAX PLUS | $382.946 | 2026-09-06 | meli.la/1wRTtJR — sin referencia previa, marca/modelo distinto al Xiaomi H50 de arriba (mismo día, categoría espaciada por marca), OFERTA IMPERDIBLE, +1000 vendidos, sin cupón en la ficha |
+| Freidora Eléctrica Comercial 12L Novohome (doble canasto, industrial) | $150.099 | 2026-09-06 | meli.la/1qXpDYw — sin referencia previa, distinta de la Freidora de Aire Novohome ya posteada (esta es de aceite/industrial), MÁS VENDIDO, +1000 vendidos, sin cupón en la ficha |
 | Freidora de Aire Philips Canasta Doble 9L | $249.143 | 2026-08-24 | — |
 | Freidora de Aire Novohome 7L Digital | $114.990 | 2026-09-05 | meli.la/1esd9Ux — sin referencia previa, Tienda oficial Novohome, 3° en Freidoras de Aire (badge de la ficha dice "3º en De Aire", nombre completo de categoría). Precio sin cupón. Con cupón ML "CYBERELECTRO" (10% OFF, mínima $50.000, tope $80.000, vence 2026-09-05 23:59, categoría Electro) queda en $103.491, verificado en vivo agregando al carrito e ingresando el código — esa parte no es referencia estable (vence en horas) |
 | Freidora de Aire Atma Pro FR60AR 6.5L | $117.934 | 2026-08-27 | — |
@@ -169,6 +170,12 @@ negro — tienen precio de lista distinto).
 
 ## Pendiente de revisar
 
+- Aire Acondicionado Split Philco Inverter 3750W (Tienda oficial NOVOGAR,
+  meli.la/1UNDCK1, MLA63226247, opción "Mejor precio" $742.599) se descartó
+  al re-verificar el 2026-09-06 14:12: la ficha mostraba "Por el momento no
+  podemos realizar envíos a esta ubicación" (botones "Comprar ahora" y
+  "Agregar al carrito" deshabilitados). No se publicó. Si vuelve a aparecer
+  en /ofertas, re-chequear envío en vivo antes de armar el post.
 - La PS5 posteada el 2026-08-28 ($1.693.619, "29% OFF") quedó **por encima**
   de la referencia real ($1.499.999 del 25/8). No se revierte el post ya
   publicado, pero si vuelve a aparecer este bundle, comparar contra
