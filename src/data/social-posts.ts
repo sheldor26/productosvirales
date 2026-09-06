@@ -1689,4 +1689,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "18",
     postedAt: "2026-09-06T18:04:29-03:00",
   },
+  {
+    title: "Smart TV Roku TV Noblex FHD 43\"",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_662320-MLA110709001937_042026-O.webp",
+    affiliateUrl: "https://meli.la/2LYyr3Q",
+    newPrice: "389.599",
+    oldPrice: "659.999",
+    offPct: "40",
+    postedAt: "2026-09-06T18:42:52-03:00",
+  },
 ];
