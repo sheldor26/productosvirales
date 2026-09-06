@@ -1599,4 +1599,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "20",
     postedAt: "2026-09-05T19:40:52-03:00",
   },
+  {
+    title: "Control DualSense PS5 Edición Limitada 30 Años",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_679016-MLA99880015379_112025-O.webp",
+    affiliateUrl: "https://meli.la/1SVZhme",
+    newPrice: "399.999",
+    oldPrice: "399.999",
+    offPct: "0",
+    postedAt: "2026-09-06T08:17:41-03:00",
+  },
 ];
