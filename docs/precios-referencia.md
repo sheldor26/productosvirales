@@ -117,6 +117,7 @@ negro — tienen precio de lista distinto).
 | Notebook Acer Aspire Go 15 Ryzen 7 7730U 16GB/512GB | $1.234.999 | 2026-09-05 | meli.la/1LvTEMc — repost autorizado por Juan (tanda mañana 5/9), precio idéntico, variante Windows 11 reconfirmada |
 | JBL Boombox 3 Parlante Bluetooth | $619.379 | 2026-09-04 | meli.la/1ZwU3v2 — mismo link usado el 2026-08-13 ($639.199, 49% OFF); precio mejoró a $619.379 (50% OFF), Tienda oficial JBL, 8° en Parlantes y Bafles. Cupón ML "Múltiples Categorías" 10% OFF (mínima $200.000, tope $80.000, vencía 2026-09-04) queda en $557.441 |
 | Freezer Horizontal Gafa 200L Inverter Blanco FGHI202B-M | $535.000 | 2026-09-04 | meli.la/2NKjTfY — sin referencia previa, modelo distinto al Gafa 316L y al Philco 99L de las filas de arriba, Tienda oficial azkar, 2° en Freezers, ¡últimas 3 unidades! confirmado en vivo dos veces (sourcing y publicación) |
+| Smart TV Philco 55" 4K UHD Google TV WiFi (PLD55US25GH) | $636.099 | 2026-09-06 | meli.la/1Ai29vW — sin referencia previa, Tienda oficial Philco, 4.9★ (153 op.), +500 vendidos, ¡ÚLTIMA UNIDAD! confirmada en vivo (bajó de 2 a 1 unidad entre el sourcing y la publicación). Precio sin cupón (con cupón ML "Cupón en TVs & Streaming" $49.000 OFF, mínima $490.000, tope $49.000, vence 2026-09-13, queda en $587.099 — cupón de larga duración, no como los diarios Cyber) |
 
 ## Pequeños electrodomésticos
 

@@ -1669,4 +1669,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "24",
     postedAt: "2026-09-06T14:14:04-03:00",
   },
+  {
+    title: "Smart TV Philco 55\" 4K UHD Google TV WiFi",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_709413-MLA99902922317_112025-O.webp",
+    affiliateUrl: "https://meli.la/1Ai29vW",
+    newPrice: "636.099",
+    oldPrice: "862.999",
+    offPct: "26",
+    postedAt: "2026-09-06T17:22:15-03:00",
+  },
 ];
