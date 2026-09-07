@@ -125,6 +125,7 @@ negro — tienen precio de lista distinto).
 | Smart TV Samsung 65" 4K UHD HDR PurColor (65U8000F) | $1.199.999 | 2026-09-07 | meli.la/16Tnkzz — sin referencia previa, modelo distinto a los Samsung QLED Q6F 55" y Crystal UHD 50"/65" ya posteados, Tienda oficial Samsung (+1M ventas), OFERTA IMPERDIBLE, 4.8★ (365 op.), +1000 vendidos |
 | Lavarropas Samsung Inverter Carga Frontal 9.5kg (WW95AA046BWUBG) | $1.009.499 | 2026-09-07 | meli.la/2kevoRH — sin referencia previa, primer lavarropas Samsung en el sitio (antes solo Whirlpool/Midea), "Mejor precio" vendido por Tienda oficial Naldo (no Samsung directo), OFERTA IMPERDIBLE, 4.9★ (1184 op.), +1000 vendidos, Ecobubble, 10 años de garantía en el motor |
 | Kit 2 Cámaras Seguridad Geotek IP 6MP WiFi | $123.556 | 2026-09-07 | meli.la/2Q8DFi6 — sin referencia previa, primera cámara de seguridad en el sitio (categoría nueva), MÁS VENDIDO/OFERTA DEL DÍA, 4.8★ (11.959 op.!), +10 mil vendidos, "1° en Cámaras de Seguridad" (general), Tienda oficial GEOTEK, envío FULL |
+| Aire Acondicionado Split Samsung Inverter 4500F Frío/Calor (AR40F18) | $1.105.837 | 2026-09-07 | meli.la/2e4nezK — sin referencia previa, primer AC Samsung en el sitio (antes solo Philco), MÁS VENDIDO, 4.8★ (489 op.), +1000 vendidos, "13° en Aires Acondicionados" (general), Tienda oficial Samsung. Cupón ML "CYBERKILLER" (10% OFF, mínima $40.000, tope $30.000, vence 2026-09-07 23:59) queda en $1.075.837, verificado en vivo agregando al carrito e ingresando el código — esa parte no es referencia estable (vence hoy) |
 
 ## Pequeños electrodomésticos
 

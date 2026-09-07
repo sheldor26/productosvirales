@@ -1779,4 +1779,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "38",
     postedAt: "2026-09-07T12:08:47-03:00",
   },
+  {
+    title: "Aire Acondicionado Split Samsung Inverter 4500F Frío/Calor",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_837848-MLA104256824673_012026-O.webp",
+    affiliateUrl: "https://meli.la/2e4nezK",
+    newPrice: "1.105.837",
+    oldPrice: "1.899.999",
+    offPct: "41",
+    postedAt: "2026-09-07T12:19:23-03:00",
+  },
 ];
