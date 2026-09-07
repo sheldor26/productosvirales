@@ -1699,4 +1699,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "40",
     postedAt: "2026-09-06T18:42:52-03:00",
   },
+  {
+    title: "Notebook HP 15-fd0331la Intel Core 3 8GB 512GB",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_899224-MLA108576942549_032026-O.webp",
+    affiliateUrl: "https://meli.la/1xNs8Ek",
+    newPrice: "937.199",
+    oldPrice: "1.899.999",
+    offPct: "50",
+    postedAt: "2026-09-07T08:25:14-03:00",
+  },
 ];
