@@ -1789,4 +1789,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "41",
     postedAt: "2026-09-07T12:19:23-03:00",
   },
+  {
+    title: "Parlante Portátil Soundcore by Anker Select 3",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_790884-MLA111406179517_052026-O.webp",
+    affiliateUrl: "https://meli.la/2qMM2wY",
+    newPrice: "53.990",
+    oldPrice: "155.990",
+    offPct: "65",
+    postedAt: "2026-09-07T15:38:12-03:00",
+  },
 ];
