@@ -1839,4 +1839,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "36",
     postedAt: "2026-09-07T17:20:46-03:00",
   },
+  {
+    title: "Monitor Gamer Samsung 22\" Full HD IPS 100Hz",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_641204-MLA100016236545_122025-O.webp",
+    affiliateUrl: "https://meli.la/2EyYGLm",
+    newPrice: "154.899",
+    oldPrice: "249.999",
+    offPct: "38",
+    postedAt: "2026-09-07T18:00:25-03:00",
+  },
 ];
