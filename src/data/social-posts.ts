@@ -1709,4 +1709,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "50",
     postedAt: "2026-09-07T08:25:14-03:00",
   },
+  {
+    title: "Bicicleta Spinning Shock Rider Profesional Energy Fit",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_641627-MLA116701210345_082026-O.webp",
+    affiliateUrl: "https://meli.la/2fap6Xp",
+    newPrice: "497.000",
+    oldPrice: "700.000",
+    offPct: "29",
+    postedAt: "2026-09-07T09:13:23-03:00",
+  },
 ];

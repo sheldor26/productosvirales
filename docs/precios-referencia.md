@@ -171,6 +171,7 @@ negro — tienen precio de lista distinto).
 | Producto | Precio de referencia (mejor real visto) | Fecha | Fuente |
 |---|---|---|---|
 | Cinta Caminadora Eléctrica Enerfit 735 | $535.696 | 2026-09-06 | meli.la/1bphiBo — sin referencia previa, primera categoría de fitness en el sitio, MÁS VENDIDO, +1000 vendidos, envío gratis, sin cupón en la ficha |
+| Bicicleta Spinning Shock Rider Profesional Energy Fit | $497.000 | 2026-09-07 | meli.la/2fap6Xp — sin referencia previa, primera bicicleta de spinning fija en el sitio (distinta de las MTB del silo movilidad), MÁS VENDIDO, 4.7★ (2314 op.), +10 mil vendidos, "1° en Bicicletas Fijas" (general), Tienda oficial Energy Fit, envío FULL |
 
 ## Pendiente de revisar
 
