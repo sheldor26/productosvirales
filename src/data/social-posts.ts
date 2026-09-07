@@ -1849,4 +1849,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "38",
     postedAt: "2026-09-07T18:00:25-03:00",
   },
+  {
+    title: "Tablet Xiaomi Redmi Pad 2 11\" 128GB",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_975815-MLA99510216084_112025-O.webp",
+    affiliateUrl: "https://meli.la/1HSpdAY",
+    newPrice: "399.999",
+    oldPrice: "890.000",
+    offPct: "55",
+    postedAt: "2026-09-07T18:21:12-03:00",
+  },
 ];
