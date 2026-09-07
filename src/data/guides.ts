@@ -1306,6 +1306,7 @@ export const guides: Guide[] = [
       { label: `GoPro LIT HERO: ficha y opiniones`, href: `/producto/camara-deportiva-gopro-lit-hero-mla57723897` },
       { label: `GoPro MISSION 1 PRO: ficha y opiniones`, href: `/producto/camara-gopro-mission-1-pro-mla70063378` },
       { label: `Cámara deportiva: cuál comprar en Argentina`, href: `/guias/tech/camara-deportiva` },
+      { label: `Cámara instantánea: cuál comprar`, href: `/guias/tech/camara-instantanea` },
       { label: `Cargador portátil: cuál comprar`, href: `/guias/tech/cargador-portatil` },
     ],
   },
@@ -1459,11 +1460,11 @@ export const guides: Guide[] = [
       { label: `Qué GoPro comprar: los 6 modelos comparados`, href: `/guias/tech/gopro-cual-comprar` },
       { label: `Qué DJI comprar: 5 modelos comparados`, href: `/guias/tech/dji-cual-comprar` },
       { label: `Qué Osmo Pocket comprar: Pocket 3 o Pocket 4`, href: `/guias/tech/osmo-pocket-cual-comprar` },
+      { label: `Cámara instantánea: cuál comprar`, href: `/guias/tech/camara-instantanea` },
       { label: `GoPro HERO13 Black: ficha y opiniones`, href: `/producto/camara-deportiva-gopro-hero13-black-mla47374183` },
       { label: `Insta360 X3: ficha y opiniones`, href: `/producto/camara-360-insta360-x3-mla19710677` },
       { label: `Insta360 X5: ficha y opiniones`, href: `/producto/camara-360-insta360-x5-mla49100446` },
       { label: `DJI Osmo Action 6: ficha y opiniones`, href: `/producto/camara-deportiva-dji-osmo-action-6-combo-aventura-mla62340610` },
-      { label: `DJI Osmo Action 4: ficha y opiniones`, href: `/producto/camara-deportiva-dji-osmo-action-4-mla29364436` },
       { label: `Akaso V50X: ficha y opiniones`, href: `/producto/camara-deportiva-akaso-v50x-mla16132352` },
       { label: `Cámara Deportiva Gadnic 4K: ficha y opiniones`, href: `/producto/camara-deportiva-gadnic-4k-wifi-170-16-mp-mla62771175` },
       { label: `Cargador portátil: cuál comprar`, href: `/guias/tech/cargador-portatil` },
@@ -16074,8 +16075,8 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     h1: "Perfumes árabes en Argentina: la guía honesta para empezar (2026)",
     directAnswer: `Para empezar con perfumes árabes en Argentina conviene arrancar por las marcas grandes (Lattafa, Armaf, Al Haramain) compradas a vendedores con buena reputación en MercadoLibre: son la vía más barata a fragancias intensas y duraderas. Desconfiá de precios demasiado bajos, porque en el nicho circulan falsificaciones. En esta guía: marcas, precios reales y las trampas más comunes.`,
     publishedDate: "2026-04-27",
-    updatedDate: "2026-06-26",
-    sitemapLastmod: "2026-07-27",
+    updatedDate: "2026-09-07",
+    sitemapLastmod: "2026-09-07",
     hasDisclosure: true,
     standfirst: "Después de dos años explorando el nicho, esto es lo que me hubiera gustado saber al principio. Marcas, precios reales, dupes legítimos y las trampas que te pueden hacer perder dinero.",
     quickPicks: [
@@ -16111,6 +16112,18 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     ],
     sections: [
       { type: "image", src: "/images/perfumes-imagenes/04-Set4Perfumes-Tubo-35ml-Unisex.webp", alt: "Kit variado de perfumes árabes en Argentina", imageSize: "hero" },
+
+      { type: "p", content: "Comparativa rápida antes de entrar en detalle, con las cuatro puertas de entrada más elegidas del nicho:" },
+      {
+        type: "table",
+        headers: ["Perfume", "Perfil", "Precio", "Reseñas"],
+        rows: [
+          ["[Lattafa Asad Intense](https://meli.la/26owfqo)", "Oriental amaderado-especiado, masculino", "{{precio:MLA19715215}}", "{{reviews:MLA19715215}}"],
+          ["[Lattafa Yara Elixir](https://meli.la/2NrY6fF)", "Oriental floral con vainilla, femenino", "{{precio:MLA60836327}}", "{{reviews:MLA60836327}}"],
+          ["[Lattafa Khamrah Qahwa](https://meli.la/1B8Vwwf)", "Café oriental gourmand, unisex", "{{precio:MLA31178643}}", "{{reviews:MLA31178643}}"],
+          ["[Rasasi Hawas Ice](https://meli.la/24kQeRc)", "Fresco-frutal, masculino, verano", "{{precio:MLA29780185}}", "{{reviews:MLA29780185}}"],
+        ]
+      },
 
       { type: "h2", title: "Qué son y por qué importan" },
       { type: "p", content: "Los perfumes árabes vienen mayoritariamente de Emiratos Árabes Unidos y Arabia Saudita. Lo que en Occidente conocemos como 'el nicho árabe' explotó comercialmente en los últimos diez años de la mano de cinco casas grandes: Lattafa, Afnan, Rasasi, Armaf y Maison Alhambra. Antes de eso eran un mundo cerrado de bazares y encomiendas; hoy están en Mercado Libre con stock argentino y envío en 48 horas." },
@@ -17248,8 +17261,8 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     h1: "Perfumes árabes por color del envase: encontrá el frasco viral por su color (2026)",
     directAnswer: `Si viste un perfume árabe **blanco con detalles dorados**, casi siempre es uno de dos: el **Lattafa Yara Moi**, frasco blanco entero con tapa y detalles metalizados, o el **Lattafa Her Confession**, que se reconoce al toque porque **lleva un busto dorado arriba del frasco**. Si el frasco es **dorado entero**, lo más probable es el Fakhar Gold o el Maahir Legacy. Si es **azul**, el Asad o el Bharara King. Abajo está cada color con su nombre exacto, en qué se diferencian los parecidos y el precio de hoy en Argentina.`,
     publishedDate: "2026-06-01",
-    updatedDate: "2026-06-29",
-    sitemapLastmod: "2026-07-27",
+    updatedDate: "2026-09-07",
+    sitemapLastmod: "2026-09-07",
     hasDisclosure: true,
     intro: [
       "Pasa todo el tiempo: ves un perfume árabe en un reel de TikTok, te llama la atención, pero no escuchaste bien el nombre. Lo único que recordás es el color del envase. Rosa pastel, dorado intenso, azul cristal, marrón café. Esta guía resuelve exactamente ese problema.",
@@ -17270,6 +17283,26 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       {
         type: "p",
         content: "Por color de envase, los más buscados en Argentina son: **blanco con dorado** → Lattafa Yara Moi o Her Confession (este último con un busto dorado sobre la tapa). **Rosa** → Lattafa Yara Candy, Yara (original), Bade'e Al Oud Noble Blush o Sabah Al Ward. **Dorado** → Lattafa Yara Elixir, Fakhar Gold Extract, Maahir Legacy o Bharara King. **Azul / celeste** → Rasasi Hawas Ice (el clon del Invictus). **Azul oscuro / negro** → Armaf Club de Nuit Intense Man. **Marrón / café** → Lattafa Khamrah Qahwa, Khamrah Parfum, Asad Bourbon o Afnan 9PM. **Rojo o bordó** → Lattafa Asad Intense. Abajo está el detalle de cada uno con perfil olfativo, precio y a quién le queda bien."
+      },
+      {
+        type: "p",
+        content: "Comparativa rápida por color, con el perfume más buscado de cada uno:"
+      },
+      {
+        type: "table",
+        headers: ["Color", "Perfume", "Precio", "Reseñas"],
+        rows: [
+          ["Blanco con dorado", "[Lattafa Yara Moi](https://meli.la/1qBuAFB)", "{{precio:MLA32288168}}", "{{reviews:MLA32288168}}"],
+          ["Blanco con dorado (busto)", "[Lattafa Her Confession](https://meli.la/1EBDqh9)", "{{precio:MLA41304983}}", "{{reviews:MLA41304983}}"],
+          ["Rosa", "[Lattafa Yara Candy](https://meli.la/2XYzvaU)", "{{precio:MLA39865991}}", "{{reviews:MLA39865991}}"],
+          ["Dorado femenino", "[Lattafa Yara Elixir](https://meli.la/2NrY6fF)", "{{precio:MLA60836327}}", "{{reviews:MLA60836327}}"],
+          ["Dorado premium unisex", "[Fakhar Gold Extract](https://meli.la/2RmHufc)", "{{precio:MLA32488004}}", "{{reviews:MLA32488004}}"],
+          ["Dorado masculino", "[Bharara King](https://meli.la/2DTqjeW)", "{{precio:MLA19053146}}", "{{reviews:MLA19053146}}"],
+          ["Celeste / azul claro", "[Rasasi Hawas Ice](https://meli.la/24kQeRc)", "{{precio:MLA29780185}}", "{{reviews:MLA29780185}}"],
+          ["Azul oscuro", "[Armaf Club de Nuit Intense Man](https://meli.la/1BzsFJE)", "{{precio:MLA16122300}}", "{{reviews:MLA16122300}}"],
+          ["Marrón / café", "[Lattafa Khamrah Qahwa](https://meli.la/1B8Vwwf)", "{{precio:MLA31178643}}", "{{reviews:MLA31178643}}"],
+          ["Marrón rojizo / bordó", "[Lattafa Asad Intense](https://meli.la/26owfqo)", "{{precio:MLA19715215}}", "{{reviews:MLA19715215}}"],
+        ]
       },
       {
         type: "h3",
@@ -20705,7 +20738,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { productMlaId: "MLA36409137", label: "Más barata", labelColor: "amber", tagline: "Espresso de 15 bares por {{precio:MLA36409137}}" },
     ],
     intro: [
-      `La **cafetera express** te cambia el café de todos los días: pasás del de jarra o del instantáneo a un espresso con crema, hecho con presión real. Y en Argentina 2026 hay una buena noticia: ya no hace falta gastar un millón de pesos. Hoy una máquina de 15 o 20 bares con espumador de leche arranca en $134.000, y la franja de $190.000 a $300.000 concentra opciones con cientos o miles de calificaciones reales.`,
+      `La **cafetera express** te cambia el café de todos los días: pasás del de jarra o del instantáneo a un espresso con crema, hecho con presión real. Y en Argentina 2026 hay una buena noticia: ya no hace falta gastar un millón de pesos. Hoy una máquina de 15 o 20 bares con espumador de leche arranca en {{precio:MLA36409137}}, y la franja de $190.000 a $300.000 concentra opciones con cientos o miles de calificaciones reales.`,
       `La trampa del mercado local es otra: los números de marketing. Publicaciones que prometen 19 bares cuando la ficha técnica dice 15, máquinas "automáticas" que en realidad no cortan solas, y modelos que venían con accesorios que la versión actual ya no trae. En esta guía cruzamos cada dato con la ficha técnica oficial y con lo que cuentan los compradores en las reseñas, que es donde aparece la verdad.`,
       `Comparamos los modelos de cafetera express que se consiguen hoy en MercadoLibre Argentina, desde la más barata hasta el tope de gama con molinillo integrado. Si no querés leer todo, el resumen de arriba te lleva directo. Si querés entender qué estás pagando, seguí: son diez minutos que te ahorran una mala compra.`,
     ],
@@ -20799,7 +20832,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { question: `¿Conviene una cafetera express o una de cápsulas?`, answer: `Depende del ritual. La express da el mejor café y el costo por taza más bajo (café molido), a cambio de preparar y limpiar. Las cápsulas ganan en velocidad y cero limpieza, pero cada taza cuesta más. Camino del medio: las duales como la Smartlife SL-EC8501 aceptan ambos sistemas, o una [Dolce Gusto Piccolo XS](https://meli.la/1f93McA) si la comodidad gana siempre.` },
       { question: `¿Las cafeteras express cortan solas el café?`, answer: `Las económicas no: vos frenás la extracción, y se aprende en dos o tres cafés. El corte automático de dosis aparece recién en la gama del molinillo integrado, como la [Oster Perfect Brew EM7301](https://meli.la/2amGBqP) o la [Peabody PE-CE5023IX](https://meli.la/1n158eE) totalmente automática.` },
       { question: `¿Vale la pena el molinillo integrado?`, answer: `Si tomás café todos los días, es el upgrade que más se siente: el grano recién molido conserva aromas que el café envasado pierde en semanas. La [Peabody PE-CE5010N](https://meli.la/2uKu8pv) lo ofrece a {{precio:MLA47077888}}, la mitad de lo que costaba esa función hace un par de años. Si tomás café ocasional, un buen café molido fresco te da el 90% por menos.` },
-      { question: `¿Qué cafetera express compro si es mi primera vez?`, answer: `Una con bomba real y comunidad grande de usuarios: la [Smartlife SL-EC8501](https://meli.la/1QMpWAw) o, con menos presupuesto, la [Ultracomb CE-6108](https://meli.la/11sCGja) a $133.999. Las dos tienen cientos o miles de reseñas que ya documentaron todos los errores de principiante. Evitá las "express" de menos de $100.000: casi ninguna tiene bomba de verdad.` },
+      { question: `¿Qué cafetera express compro si es mi primera vez?`, answer: `Una con bomba real y comunidad grande de usuarios: la [Smartlife SL-EC8501](https://meli.la/1QMpWAw) o, con menos presupuesto, la [Ultracomb CE-6108](https://meli.la/11sCGja) a {{precio:MLA36409137}}. Las dos tienen cientos o miles de reseñas que ya documentaron todos los errores de principiante. Evitá las "express" de menos de $100.000: casi ninguna tiene bomba de verdad.` },
     ],
     internalLinks: [
       { label: "Cuál es la mejor cafetera: express, cápsulas o filtro", href: "/guias/que-cafetera-comprar" },
@@ -21345,7 +21378,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { type: "list", items: [
         `**Más rating, mismo concepto:** la [Oster Perfect Brew EM7301](https://meli.la/2amGBqP) ($838.899) tiene molinillo integrado, corte automático de dosis y el mejor rating de todas las cafeteras que analizamos: 4.9 estrellas. Cuesta $318.000 más que la 5010N pero juega entre las dos Peabody en precio, con más respaldo de marca. La comparamos a fondo en la [guía de cafeteras Oster](/guias/cafetera-oster).`,
         `**Sin molinillo y con la mitad de presupuesto:** la [Oster BVSTEM5501B](https://meli.la/1SZrW1t) ({{precio:MLA23909880}}) resigna el molido en el momento pero suma un espumador con depósito de leche que hace el capuchino solo. 4.7 estrellas en 402 calificaciones.`,
-        `**Presupuesto de entrada:** si el molinillo no es prioridad, en la [guía de cafeteras express](/guias/cafetera-express) está el ranking completo desde $133.999.`,
+        `**Presupuesto de entrada:** si el molinillo no es prioridad, en la [guía de cafeteras express](/guias/cafetera-express) está el ranking completo desde {{precio:MLA36409137}}.`,
       ] },
 
       { type: "h2", title: `Veredicto: cuál Peabody comprar`, id: "veredicto" },
@@ -21393,7 +21426,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** analizamos las cafeteras de filtro disponibles hoy en MercadoLibre Argentina y las ordenamos por relación precio-prestaciones, cruzando ficha técnica con calificaciones públicas de compradores reales. Miramos capacidad real de jarra, si es programable, materiales (la fragilidad es la queja número uno de la categoría) y qué dicen las reseñas sobre la temperatura del café. Los precios son de junio 2026.` },
 
       { type: "h2", title: `Filtro, express o cápsulas: cuál te corresponde`, id: "filtro-vs-express" },
-      { type: "p", content: `Las tres categorías hacen cosas distintas y conviene tenerlo claro antes de gastar un peso. La **express** empuja agua a presión y hace espresso con crema: el mejor café, a cambio de un ritual de moler, compactar y limpiar, y desde $133.999 las que valen la pena (el ranking completo está en la guía de [cafetera express](/guias/cafetera-express)). Las **cápsulas** automatizan todo con dosis selladas: máxima comodidad, costo por taza más alto. La **de filtro** hace café de jarra por goteo: ni la intensidad del espresso ni la velocidad de la cápsula, pero llena un litro de café con el molido más barato del supermercado.` },
+      { type: "p", content: `Las tres categorías hacen cosas distintas y conviene tenerlo claro antes de gastar un peso. La **express** empuja agua a presión y hace espresso con crema: el mejor café, a cambio de un ritual de moler, compactar y limpiar, y desde {{precio:MLA36409137}} las que valen la pena (el ranking completo está en la guía de [cafetera express](/guias/cafetera-express)). Las **cápsulas** automatizan todo con dosis selladas: máxima comodidad, costo por taza más alto. La **de filtro** hace café de jarra por goteo: ni la intensidad del espresso ni la velocidad de la cápsula, pero llena un litro de café con el molido más barato del supermercado.` },
       { type: "p", content: `La cuenta que define la compra es simple: ¿cuántas tazas se toman por día en tu casa? Una o dos, mirá cápsulas o express. Cuatro o más, la de filtro amortiza sola: una jarra entera cuesta en café molido lo que una cápsula y media. Y el goteo tiene un plus que las otras no dan: la jarra queda caliente sobre la base mientras dure el desayuno.` },
 
       { type: "h2", title: `El ranking: mejores cafeteras de filtro 2026`, id: "ranking" },
@@ -21446,7 +21479,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     ],
     faq: [
       { question: `¿Cuál es la mejor cafetera de filtro en Argentina?`, answer: `Por datos, la [Atma CA8133](https://meli.la/1xm8Wd8): $47.567, 1,25 litros, antigoteo y 4.6 estrellas en 879 calificaciones, la base de opiniones más grande de la categoría. Si querés programación o jarra de acero, la [Smartlife SL-CM1095](https://meli.la/2Dw1odT) y la [Liliana AC935](https://meli.la/2fbAbdd) son los escalones siguientes.` },
-      { question: `¿Qué diferencia hay entre cafetera de filtro y express?`, answer: `La de filtro hace café de jarra por goteo, suave y en cantidad, con el molido más barato. La express empuja el agua a presión y hace espresso con crema, taza por taza, desde $133.999 en máquinas con bomba real. Son cafés distintos: jarra para la mesa, espresso para el ritual. El ranking de express está en la [guía de cafeteras express](/guias/cafetera-express).` },
+      { question: `¿Qué diferencia hay entre cafetera de filtro y express?`, answer: `La de filtro hace café de jarra por goteo, suave y en cantidad, con el molido más barato. La express empuja el agua a presión y hace espresso con crema, taza por taza, desde {{precio:MLA36409137}} en máquinas con bomba real. Son cafés distintos: jarra para la mesa, espresso para el ritual. El ranking de express está en la [guía de cafeteras express](/guias/cafetera-express).` },
       { question: `¿Cuánto cuesta una cafetera de filtro en Argentina?`, answer: `En junio 2026, entre $40.756 ([Ultracomb CA-2205](https://meli.la/1aZSTdt)) y $112.767 ([Liliana AC935](https://meli.la/2fbAbdd) con jarra de acero). El punto dulce de la categoría está en los $47.567 de la [Atma CA8133](https://meli.la/1xm8Wd8), la más probada.` },
       { question: `¿Vale la pena una cafetera de filtro programable?`, answer: `Si tomás café apenas te levantás, sí: cargás agua y café a la noche y la máquina arranca sola a la hora que le pusiste. La opción económica es la [Ultracomb CA-2205](https://meli.la/1aZSTdt) ($40.756), con la advertencia de que su reloj se desconfigura si la desenchufás. La [Smartlife SL-CM1095](https://meli.la/2Dw1odT) hace lo mismo con mejores materiales por $79.999.` },
       { question: `¿Por qué la Ultracomb CA-2205 tiene rating 4.4?`, answer: `Las reseñas lo explican: materiales frágiles que piden trato con cuidado, una jarra más chica de lo que sugiere la publicación y, el punto más serio, sin repuesto de jarra disponible si se rompe. Aun así junta 631 calificaciones y a $40.756 es la programable más barata; es una compra razonable solo si esos recortes no te molestan.` },
@@ -22218,7 +22251,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     h1: `Planchita de pelo: cuál comprar en Argentina y cuál conviene según tu pelo [2026]`,
     directAnswer: `Para la mayoría conviene la **[GA.MA Bella Tourmaline](/producto/planchita-de-pelo-ga-ma-italy-bella-tourmaline-red-ion-negra-y-roja-mla44129880)** (alrededor de {{precio:MLA44129880:k}}): turmalina con iones y más de 23.000 opiniones reales. Si querés alisar sin pasar por el secador, la **[Remington Wet2Straight](/producto/planchita-remington-s27a-cabello-humedo-seco-230-c-mla44139566)**. Para pelo grueso o uso intensivo, la **[BaByliss Nano Titanium](/producto/planchita-de-pelo-babylisspro-nano-titanium-9559-mla6079020)** (la de las peluquerías). Y si querés gastar lo mínimo, la **[Allure PL1010AP](/producto/planchita-de-cabello-profesional-allure-pl1010ap-color-azul-mla24043222)**.`,
     publishedDate: "2026-07-22",
-    updatedDate: "2026-07-22",
+    updatedDate: "2026-09-07",
     hasDisclosure: true,
     readingTime: 9,
     standfirst: `Una planchita de pelo va de {{precio:MLA24043222:k}} (la económica funcional) a {{precio:MLA6079020:k}} (la profesional de peluquería). La diferencia real está en las placas y el control de temperatura, no en el marketing. Te mostramos cuál conviene según tu tipo de pelo, con precios reales de MercadoLibre.`,
@@ -22315,7 +22348,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { question: `¿Qué placas son mejores: cerámica, turmalina o titanio?`, answer: `Depende del pelo. La cerámica reparte el calor parejo y alcanza para pelo fino o normal. La turmalina suma iones contra el frizz, ideal para pelo grueso o rebelde. El titanio es el material profesional: alisa en menos pasadas, pero castiga más si se usa a máxima temperatura en pelo fino. El metal pelado, como el de las económicas, es el escalón más básico.` },
       { question: `¿A qué temperatura conviene planchar el pelo?`, answer: `Pelo fino, teñido o dañado: 140-160 °C. Pelo normal: 170-190 °C. Pelo grueso o muy rebelde: 200-230 °C. Si tu pelo pide temperaturas bajas, necesitás una planchita con regulador: las de temperatura única (como la [GA.MA](/producto/planchita-de-pelo-ga-ma-italy-bella-tourmaline-red-ion-negra-y-roja-mla44129880) o la [Allure](/producto/planchita-de-cabello-profesional-allure-pl1010ap-color-azul-mla24043222)) trabajan siempre en el rango alto.` },
       { question: `¿Qué planchitas tienen apagado automático?`, answer: `De esta guía: la [Remington Wet2Straight](/producto/planchita-remington-s27a-cabello-humedo-seco-230-c-mla44139566), la [Philips 5000](/producto/planchita-de-pelo-philips-5000-series-bhs515-00-blanca-mla44124334) y la [Revlon de placas anchas](/producto/plancha-de-pelo-revlon-230-placas-5-08cm-recubrimiento-titanio-plateada-glitter-mla47856504). La [GA.MA](/producto/planchita-de-pelo-ga-ma-italy-bella-tourmaline-red-ion-negra-y-roja-mla44129880), la [Allure](/producto/planchita-de-cabello-profesional-allure-pl1010ap-color-azul-mla24043222) y la [BaByliss](/producto/planchita-de-pelo-babylisspro-nano-titanium-9559-mla6079020) no lo declaran en su ficha.` },
-      { question: `¿Vale la pena una planchita profesional como la BaByliss?`, answer: `Solo si planchás muy seguido pelo grueso, largo o abundante, o trabajás de esto: el titanio y las placas anchas alisan en una sola pasada. Para planchado ocasional de pelo normal, cuesta 4 a 5 veces más que una [GA.MA](/producto/planchita-de-pelo-ga-ma-italy-bella-tourmaline-red-ion-negra-y-roja-mla44129880) sin que esa diferencia se note en el resultado.` },
+      { question: `¿Vale la pena una planchita profesional como la BaByliss?`, answer: `Solo si planchás muy seguido pelo grueso, largo o abundante, o trabajás de esto: el titanio y las placas anchas alisan en una sola pasada. Para planchado ocasional de pelo normal, cuesta 4 a 5 veces más que una [GA.MA](/producto/planchita-de-pelo-ga-ma-italy-bella-tourmaline-red-ion-negra-y-roja-mla44129880) sin que esa diferencia se note en el resultado. Si tu prioridad es justamente nivel salón, armamos una comparativa aparte: [cuál es la mejor planchita de pelo](/guias/cuidado-personal/planchita-de-pelo-profesional) a nivel profesional.` },
       { question: `¿Por qué mi planchita me tira o me quema el pelo?`, answer: `Las causas típicas: placas metálicas básicas que enganchan el pelo, temperatura demasiado alta para tu tipo de pelo (el fino se plancha a 140-160 °C) o plancharlo húmedo con una planchita común. Si te pasa seguido, conviene una con placas de cerámica o turmalina y regulador de temperatura.` },
     ],
     internalLinks: [
@@ -22930,6 +22963,201 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
   },
 
   // ─────────────────────────────────────────────────────────
+  // PILAR cámara instantánea — silo tech, categoria "camaras-instantaneas"
+  // Origen: keyword research 2026-09-04 (Ubersuggest + Keyword Planner, 3.600
+  // búsquedas/mes, SD 9). Las 4 fichas ya estaban completas (articleBody+FAQ+
+  // customerReviews) desde una sesión anterior, cruzadas entre sí por
+  // relatedProducts, pero sin guía propia hasta ahora.
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "camara-instantanea",
+    category: "camaras-instantaneas",
+    silo: "tech",
+    pillar: true,
+    title: `Cámara instantánea: cuál comprar en Argentina [2026]`,
+    seoTitle: `Cámara Instantánea: Cuál Comprar en Argentina [2026]`,
+    metaDescription: `Cámara instantánea de {{precio:MLA23035894:k}} a {{precio:MLA27036811:k}}, comparadas por precio real y opiniones de MercadoLibre. La cuenta de la película que casi nadie hace antes de comprar.`,
+    ogTitle: `Cámara instantánea: cuál comprar en Argentina`,
+    ogDescription: `Instax Mini 12, Instax Mini Evo, Kodak Ektar H35 e Instax Pal comparadas por precio real, película y opiniones de MercadoLibre. Con la advertencia que nadie hace antes de comprar: la película sale más que la cámara.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_768454-MLA100002768483_112025-O.webp`,
+    h1: `Cámara instantánea: cuál comprar en Argentina y la cuenta que hay que hacer antes [2026]`,
+    directAnswer: `Para la mayoría conviene la **[Fujifilm Instax Mini 12](/producto/camara-instantanea-fujifilm-instax-mini-12-mla23076923)** (alrededor de {{precio:MLA23076923:k}}): es la más elegida por lejos, con {{reviews:MLA23076923}} calificaciones, casi cuarenta veces más que la segunda de esta comparativa. Pero hay una cuenta que sus propios compradores repiten: la película no viene incluida y a la larga sale más que la cámara. Si eso te preocupa, la **[Instax Mini Evo](/producto/camara-instantanea-hibrida-fujifilm-instax-mini-evo-mla27036811)** es híbrida y te deja elegir qué imprimir, aunque cuesta bastante más. Si buscás el costo por foto más bajo, la **[Kodak Ektar H35](/producto/camara-analogica-kodak-ektar-h35-medio-cuadro-35-mm-mla23035894)** es analógica y saca 72 fotos por rollo, aunque no imprime en el momento. Y cuidado con la **[Instax Pal](/producto/camara-digital-fujifilm-instax-pal-bluetooth-mla28640451)**: pese al nombre, no imprime nada por sí sola.`,
+    publishedDate: "2026-09-04",
+    updatedDate: "2026-09-04",
+    hasDisclosure: true,
+    readingTime: 9,
+    standfirst: `Comparamos cuatro cámaras instantáneas con stock real en MercadoLibre Argentina, de {{precio:MLA23035894}} a {{precio:MLA27036811}}. Hay una cuenta que casi ninguna publicación aclara de entrada: en la más vendida, la película termina costando más que la cámara. Te mostramos cuál conviene según cuántas fotos vas a sacar, y una que ni siquiera imprime pese a su nombre.`,
+    quickPicks: [
+      { productMlaId: "MLA23076923", label: "La más elegida", labelColor: "green", tagline: "Instax Mini 12: {{reviews:MLA23076923}} calificaciones, simple y barata, pero la película sale cara" },
+      { productMlaId: "MLA27036811", label: "La premium, no desperdicia película", labelColor: "purple", tagline: "Instax Mini Evo: híbrida, elegís qué imprimir e imprimís desde el celular" },
+      { productMlaId: "MLA23035894", label: "La analógica, el doble por rollo", labelColor: "amber", tagline: "Kodak Ektar H35: 72 fotos con un rollo de 36, pero no imprime al instante" },
+      { productMlaId: "MLA28640451", label: "La compacta (ojo, no imprime)", labelColor: "blue", tagline: "Instax Pal: diminuta y de bolsillo, pero es digital, no instantánea" },
+    ],
+    intro: [
+      `"Cámara instantánea" suena simple: apretás el botón y sale la foto impresa. Pero en MercadoLibre Argentina el nombre "Instax" aparece en modelos que hacen cosas muy distintas entre sí, y hay una trampa real: una de las cuatro cámaras de esta comparativa no imprime absolutamente nada por sí sola, pese a llamarse Instax.`,
+      `Verificamos cuatro cámaras con stock real y buen respaldo de compradores, de {{precio:MLA23035894}} a {{precio:MLA27036811}}. Hay una cuenta que la más vendida de todas repite en sus propias reseñas: la película no viene incluida, y en poco tiempo sale más cara que la cámara. Te lo explicamos abajo, cámara por cámara, con lo que dicen sus compradores reales.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_768454-MLA100002768483_112025-O.webp", alt: `Cámara instantánea Fujifilm Instax Mini 12, la más elegida de esta comparativa`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "La respuesta corta", content: `La **[Instax Mini 12](/producto/camara-instantanea-fujifilm-instax-mini-12-mla23076923)** ({{precio:MLA23076923}}) es la más elegida, con {{reviews:MLA23076923}} calificaciones, pero la película no viene incluida y sale cara. La **[Instax Mini Evo](/producto/camara-instantanea-hibrida-fujifilm-instax-mini-evo-mla27036811)** ({{precio:MLA27036811}}) es híbrida: elegís qué imprimir, así no desperdiciás película. La **[Kodak Ektar H35](/producto/camara-analogica-kodak-ektar-h35-medio-cuadro-35-mm-mla23035894)** ({{precio:MLA23035894}}) es analógica y saca 72 fotos por rollo, pero no imprime en el momento. Y la **[Instax Pal](/producto/camara-digital-fujifilm-instax-pal-bluetooth-mla28640451)** ({{precio:MLA28640451}}), pese al nombre, no imprime nada por sí sola.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** verificamos precio, stock y reseñas reales de cada cámara directo en su publicación de MercadoLibre Argentina. Evaluamos lo que más cambia entre modelos: si imprime o no de verdad, el costo real de la película o el rollo, la calidad de foto según sus propios compradores y el respaldo de calificaciones. Los precios se revisan varias veces por semana y se muestran en vivo en esta página.` },
+
+      { type: "h2", title: `Las cuatro que comparamos`, id: "ranking" },
+
+      { type: "h3", title: `1. Fujifilm Instax Mini 12 — la más elegida` },
+      { type: "product-card", productMlaId: "MLA23076923", label: "La más elegida", labelColor: "green", ranking: 1, description: `Imprime en el momento, 62 x 46 mm, se usa sin aprender nada. {{rating:MLA23076923}} estrellas en {{reviews:MLA23076923}} calificaciones.` },
+      { type: "p", content: `Con {{reviews:MLA23076923}} calificaciones, no hay ninguna otra cámara de esta comparativa que se le acerque: la segunda más opinada (la Instax Mini Evo) tiene menos de la cuarentava parte. Es la más barata de las que sí imprimen al instante, y no hay nada que configurar: se enciende girando el lente.` },
+      { type: "pull-quote", content: `En comparación con otras cámaras polaroid en el mercado, esta es económica y de muy buena calidad. Para quienes vayan a comprar, atención con el precio de los películas. Son muy caras y en poco tiempo habrás gastado más que el valor de la propia cámara en ellas.`, attribution: `— Comprador verificado en MercadoLibre Argentina, 2026 (113 votos útiles)` },
+      { type: "p", content: `Esa reseña, con 113 votos útiles, resume el punto central de esta cámara: la cámara se paga una vez, la película se paga para siempre. Es barata en la etiqueta, no en el uso.` },
+
+      { type: "h3", title: `2. Fujifilm Instax Mini Evo — la premium, no desperdicia película` },
+      { type: "product-card", productMlaId: "MLA27036811", label: "La premium, no desperdicia película", labelColor: "purple", ranking: 2, description: `Híbrida: saca digital y vos elegís qué imprimir. Apertura f/2.0 contra la f/12.7 de la Mini 12. {{rating:MLA27036811}} estrellas en {{reviews:MLA27036811}} calificaciones.` },
+      { type: "p", content: `Es {{preciodif:MLA27036811:MLA23076923}} más cara que la Mini 12, pero resuelve exactamente el problema que sus compradores repiten: acá elegís qué imprimir, en vez de gastar una película en cada disparo salga bien o mal. También imprime fotos que ya tenés en el celular, con la app.` },
+      { type: "pull-quote", content: `Se conecta al celular descargando la app instax mini evo y puedes imprimir fotos desde tu celular.`, attribution: `— Comprador verificado en MercadoLibre Argentina, 2026` },
+      { type: "p", content: `El costo por foto impresa es el mismo que en la Mini 12 (usa la misma película Instax Mini), pero como elegís cuáles imprimir, terminás gastando menos rollos en total si sacás muchas fotos por sesión.` },
+
+      { type: "h3", title: `3. Kodak Ektar H35 — la analógica, el doble por rollo` },
+      { type: "product-card", productMlaId: "MLA23035894", label: "La analógica, el doble por rollo", labelColor: "amber", ranking: 3, description: `Medio cuadro: 72 fotos con un rollo de 36. No imprime en el momento, hay que revelar. {{rating:MLA23035894}} estrellas en {{reviews:MLA23035894}} calificaciones.` },
+      { type: "p", content: `Ataca el mismo problema del costo por foto desde la vereda de enfrente: en vez de imprimir menos, saca el doble por rollo. Es la más liviana de las cuatro (100 g) y, entre las que verificamos, la de menor precio.` },
+      { type: "callout", calloutVariant: "warning", calloutTitle: "No es instantánea", content: `La Kodak Ektar H35 **no imprime en el momento**. Es analógica de 35 mm: sacás las fotos, terminás el rollo y lo llevás a revelar. Si lo que buscás es la foto física inmediata, esta no es la opción — mirá la Instax Mini 12 o la Instax Mini Evo de esta comparativa.` },
+
+      { type: "h3", title: `4. Fujifilm Instax Pal — la compacta (ojo, no imprime)` },
+      { type: "product-card", productMlaId: "MLA28640451", label: "La compacta (ojo, no imprime)", labelColor: "blue", ranking: 4, description: `Digital, del tamaño de un llavero, guarda las fotos en la app. Necesita una impresora Instax aparte. {{rating:MLA28640451}} estrellas en {{reviews:MLA28640451}} calificaciones.` },
+      { type: "p", content: `Se llama Instax, la línea de instantáneas de Fujifilm, pero es digital y no imprime nada por sí sola. La confusión es real: se ve en las propias opiniones de la publicación.` },
+      { type: "pull-quote", content: `Sabía que se podía editar las fotos antes de imprimirlas, espero que si, aún no llego a eso.`, attribution: `— Comprador verificado en MercadoLibre Argentina, 2026` },
+      { type: "p", content: `Tiene sentido en dos casos: si ya tenés una impresora Instax y te faltaba la cámara, o si lo que buscabas era una cámara de bolsillo diminuta y la impresión te da igual. Si comprabas pensando que salía la foto en papel, es exactamente lo que le pasó a más de un comprador según sus propias reseñas.` },
+
+      { type: "table", headers: [`Cámara`, `Precio`, `Tipo`, `Fotos por carga`, `Calificaciones`], rows: [
+        [`[Instax Mini 12](https://meli.la/2ijDx7f)`, `{{precio:MLA23076923}}`, `Instantánea`, `1 por disparo (película aparte)`, `{{reviews:MLA23076923}}`],
+        [`[Instax Mini Evo](https://meli.la/2Jua833)`, `{{precio:MLA27036811}}`, `Híbrida (elegís qué imprimir)`, `1 por disparo (película aparte)`, `{{reviews:MLA27036811}}`],
+        [`[Kodak Ektar H35](https://meli.la/1VBZg2N)`, `{{precio:MLA23035894}}`, `Analógica (no imprime al instante)`, `72 por rollo de 36`, `{{reviews:MLA23035894}}`],
+        [`[Instax Pal](https://meli.la/1XbHPpb)`, `{{precio:MLA28640451}}`, `Digital (no imprime)`, `Guarda en la app`, `{{reviews:MLA28640451}}`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir` },
+      { type: "h3", title: `Si querés la más simple y no te importa gastar en película` },
+      { type: "p", content: `La **[Instax Mini 12](/producto/camara-instantanea-fujifilm-instax-mini-12-mla23076923)**, sin dudarlo: es la más elegida, la más barata de las que imprimen al instante, y no hay nada que aprender. Sumale desde el principio el costo de la película en el presupuesto.` },
+      { type: "h3", title: `Si vas a sacar muchas fotos y odiás desperdiciar película` },
+      { type: "p", content: `La **[Instax Mini Evo](/producto/camara-instantanea-hibrida-fujifilm-instax-mini-evo-mla27036811)**. Cuesta {{preciodif:MLA27036811:MLA23076923}} más, pero si vas a usarla seguido esa diferencia se paga sola en película no desperdiciada, además de sacar mejores fotos en interiores.` },
+      { type: "h3", title: `Si buscás el costo por foto más bajo` },
+      { type: "p", content: `La **[Kodak Ektar H35](/producto/camara-analogica-kodak-ektar-h35-medio-cuadro-35-mm-mla23035894)**. Es la más barata de las cuatro y saca el doble de fotos por rollo que una analógica común. Lo que resignás es la inmediatez: hay que esperar el revelado.` },
+      { type: "h3", title: `Antes de comprar la Instax Pal por el nombre` },
+      { type: "p", content: `Confirmá que no estás buscando una cámara que imprima. La **[Instax Pal](/producto/camara-digital-fujifilm-instax-pal-bluetooth-mla28640451)** es digital pese a su nombre: solo tiene sentido si ya tenés una impresora Instax, o si lo único que querés es una cámara de bolsillo.` },
+
+      { type: "verdict", content: `Para la mayoría conviene la **[Instax Mini 12](/producto/camara-instantanea-fujifilm-instax-mini-12-mla23076923)** ({{precio:MLA23076923}}): la más elegida, con {{reviews:MLA23076923}} calificaciones, simple y barata, siempre que sumes el costo de la película al presupuesto. Si vas a sacar muchas fotos y no querés desperdiciar película, la **[Instax Mini Evo](/producto/camara-instantanea-hibrida-fujifilm-instax-mini-evo-mla27036811)** ({{precio:MLA27036811}}) se paga sola con el tiempo. Si el costo por foto es lo que más te importa, la **[Kodak Ektar H35](/producto/camara-analogica-kodak-ektar-h35-medio-cuadro-35-mm-mla23035894)** ({{precio:MLA23035894}}) saca el doble por rollo, aunque no imprime al instante. Y la **[Instax Pal](/producto/camara-digital-fujifilm-instax-pal-bluetooth-mla28640451)** ({{precio:MLA28640451}}) solo tiene sentido si ya tenés impresora Instax o buscás algo de bolsillo: pese al nombre, no imprime nada por sí sola.` },
+    ],
+    faq: [
+      { question: `¿Cuánto cuesta una cámara instantánea en Argentina?`, answer: `De las cuatro que verificamos, la más barata es la [Kodak Ektar H35](/producto/camara-analogica-kodak-ektar-h35-medio-cuadro-35-mm-mla23035894) a {{precio:MLA23035894}} (aunque es analógica, no instantánea), y la más elegida es la [Instax Mini 12](/producto/camara-instantanea-fujifilm-instax-mini-12-mla23076923) a {{precio:MLA23076923}}, con {{reviews:MLA23076923}} calificaciones.` },
+      { question: `¿Es lo mismo cámara instantánea que Polaroid?`, answer: `No exactamente, aunque mucha gente use "Polaroid" como sinónimo. Polaroid es otra marca, con su propio formato de película, y en MercadoLibre Argentina sus modelos aparecen sobre todo como compra internacional. El formato Instax, el de esta comparativa, es el que se consigue sin problema en el país.` },
+      { question: `¿La película viene incluida con la cámara?`, answer: `No, en ninguna de las cuatro. Es la advertencia más repetida en las opiniones de la [Instax Mini 12](/producto/camara-instantanea-fujifilm-instax-mini-12-mla23076923): comprás la cámara y no podés sacar una sola foto hasta comprar la película aparte, y sus propios compradores avisan que termina saliendo más cara que la cámara.` },
+      { question: `¿Cuál cámara instantánea no imprime realmente, pese al nombre?`, answer: `La [Instax Pal](/producto/camara-digital-fujifilm-instax-pal-bluetooth-mla28640451). Se llama Instax, la línea de instantáneas de Fujifilm, pero es una cámara digital que guarda las fotos en la app del celular. Para tener la foto en papel hace falta comprar una impresora Instax aparte, algo que confunde a varios de sus propios compradores.` },
+      { question: `¿Cuál saca mejor calidad de foto en interiores o con poca luz?`, answer: `La [Instax Mini Evo](/producto/camara-instantanea-hibrida-fujifilm-instax-mini-evo-mla27036811), por lejos. Tiene apertura f/2.0 contra la f/12.7 de la Instax Mini 12, así que le entra muchísima más luz. En un interior de noche, la Mini 12 depende enteramente del flash y aplana la imagen; la Evo no.` },
+      { question: `¿Conviene una cámara analógica en vez de una instantánea?`, answer: `Depende de qué prioricés. La [Kodak Ektar H35](/producto/camara-analogica-kodak-ektar-h35-medio-cuadro-35-mm-mla23035894) saca 72 fotos por rollo (el doble de una 35 mm normal) y tiene el costo por foto más bajo de esta comparativa, pero no da nada al instante: hay que terminar el rollo y revelarlo. Si lo que querés es la foto física inmediata, una Instax hace ese trabajo.` },
+      { question: `¿Cuál conviene para regalo?`, answer: `La [Instax Mini 12](/producto/camara-instantanea-fujifilm-instax-mini-12-mla23076923), sin dudarlo: es la más vendida de esta comparativa y no hay nada que aprender a usarla. Un consejo honesto: regalá también un pack de película, porque no viene incluida y si no la persona abre la caja y no puede sacar ni una foto.` },
+      { question: `¿Qué pilas o batería usan?`, answer: `La Instax Mini 12 usa dos pilas AA comunes, sin batería propietaria. La Instax Mini Evo y la Instax Pal usan batería recargable (litio la Evo, USB tipo C la Pal). La Kodak Ektar H35 usa una sola pila AAA que alimenta solo el flash, ya que el obturador es mecánico.` },
+    ],
+    internalLinksTitle: `Las fichas, una por una`,
+    internalLinks: [
+      { label: `Instax Mini 12: ficha y opiniones`, href: `/producto/camara-instantanea-fujifilm-instax-mini-12-mla23076923` },
+      { label: `Instax Mini Evo: ficha y opiniones`, href: `/producto/camara-instantanea-hibrida-fujifilm-instax-mini-evo-mla27036811` },
+      { label: `Kodak Ektar H35: ficha y opiniones`, href: `/producto/camara-analogica-kodak-ektar-h35-medio-cuadro-35-mm-mla23035894` },
+      { label: `Instax Pal: ficha y opiniones`, href: `/producto/camara-digital-fujifilm-instax-pal-bluetooth-mla28640451` },
+    ],
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // PILAR anillo inteligente — silo tech, categoria "anillos-inteligentes"
+  // Origen: keyword research 2026-09-04 (Ubersuggest + Keyword Planner, 1.900
+  // búsquedas/mes, SD 16). El Oura Ring 4 (el más conocido) se confirmó sin
+  // stock real en Argentina ("Elige otra variante", sin variante alternativa,
+  // reproducible tras recargar) al momento de armar esta guía — se marcó
+  // deprioritized/out_of_stock, ver docs/productos-sin-stock.md. Quedan 2
+  // productos activos: Ignix K3 y Amazfit Helio Ring.
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "anillo-inteligente",
+    category: "anillos-inteligentes",
+    silo: "tech",
+    pillar: true,
+    title: `Anillo inteligente: cuál comprar en Argentina [2026]`,
+    seoTitle: `Anillo Inteligente: Cuál Comprar en Argentina [2026]`,
+    metaDescription: `Anillo inteligente de {{precio:MLA2177777792:k}} a {{precio:MLA58202122:k}}, comparados por precio real y opiniones de MercadoLibre. Qué pasó con el Oura Ring 4, y cuáles sí tienen stock hoy.`,
+    ogTitle: `Anillo inteligente: cuál comprar en Argentina`,
+    ogDescription: `Ignix K3 y Amazfit Helio Ring comparados por precio, batería, resistencia al agua y talles disponibles. Con la explicación honesta de por qué el Oura Ring 4, el más conocido, no está en esta comparativa.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_617584-MLA116373890567_082026-O.webp`,
+    h1: `Anillo inteligente: cuál comprar en Argentina y qué pasó con el Oura Ring 4 [2026]`,
+    directAnswer: `El Oura Ring 4, el anillo inteligente más conocido, **está sin stock en Argentina** al momento de escribir esto. De los que sí tienen stock real hoy, para la mayoría conviene el **[Ignix K3](/producto/anillo-inteligente-smart-ring-ignix-k3-titanio-5-atm-mla2177777792)** (alrededor de {{precio:MLA2177777792:k}}): el más barato, sin suscripción, ideal para probar si el formato anillo te sirve. Si vas a nadar seguido y podés pagar más, el **[Amazfit Helio Ring](/producto/anillo-inteligente-amazfit-helio-ring-titanio-talle-10-mla58202122)** ({{precio:MLA58202122:k}}) suma el doble de resistencia al agua y sensores mejor documentados, aunque solo existe en tres talles. Ninguno de los dos reemplaza a un reloj deportivo para entrenamientos específicos.`,
+    publishedDate: "2026-09-04",
+    updatedDate: "2026-09-04",
+    hasDisclosure: true,
+    readingTime: 8,
+    standfirst: `Comparamos los anillos inteligentes con stock real en MercadoLibre Argentina, de {{precio:MLA2177777792}} a {{precio:MLA58202122}}. Un aviso antes de arrancar: el Oura Ring 4, el más buscado de la categoría, se quedó sin stock local. Te explicamos qué pasó y cuáles sí podés comprar hoy, con sus contras reales.`,
+    quickPicks: [
+      { productMlaId: "MLA2177777792", label: "El más barato", labelColor: "green", tagline: "Ignix K3: sin suscripción, ideal para probar el formato anillo" },
+      { productMlaId: "MLA58202122", label: "Sin suscripción, más resistente", labelColor: "blue", tagline: "Amazfit Helio Ring: 10 ATM y sensores mejor documentados, solo 3 talles" },
+    ],
+    intro: [
+      `Un anillo inteligente mide sueño, pulso y actividad las 24 horas sin pantalla ni notificaciones, pensado para quien no quiere nada en la muñeca. Es una categoría en crecimiento a nivel mundial, y el nombre que todos reconocen es el Oura Ring.`,
+      `Hay un problema real con esa categoría en Argentina: el stock va y viene. Verificamos los tres modelos que suelen aparecer con distribución local y, al momento de escribir esto, el **Oura Ring 4 está sin stock**. Te contamos qué pasó y comparamos los dos que sí tenés hoy, de {{precio:MLA2177777792}} a {{precio:MLA58202122}}.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_617584-MLA116373890567_082026-O.webp", alt: `Anillo inteligente Ignix K3, el más barato de esta comparativa`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "warning", calloutTitle: "¿Buscabas el Oura Ring 4?", content: `El Oura Ring 4 es el anillo inteligente más conocido, pero su publicación en MercadoLibre Argentina muestra **"Este producto no está disponible. Elige otra variante"**, sin ninguna variante alternativa a la que cambiar. Lo confirmamos recargando la página más de una vez. Las otras publicaciones que aparecen al buscarlo son todas de importación internacional (Estados Unidos), con aduana y envío de 10 a 15 días, no lo mismo que comprar con stock local. Mientras eso no cambie, el **[Amazfit Helio Ring](/producto/anillo-inteligente-amazfit-helio-ring-titanio-talle-10-mla58202122)** es la alternativa más parecida: también sin suscripción, con buena resistencia al agua.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** verificamos precio, stock y reseñas reales de cada anillo directo en su publicación de MercadoLibre Argentina. Evaluamos lo que más cambia entre modelos: la resistencia al agua, la batería real (no solo la declarada), si cobra suscripción y qué talles ofrece, porque el talle es el problema más citado de toda la categoría. Los precios se revisan varias veces por semana y se muestran en vivo en esta página.` },
+
+      { type: "h2", title: `Los dos que comparamos`, id: "ranking" },
+
+      { type: "h3", title: `1. Ignix K3 — el más barato` },
+      { type: "product-card", productMlaId: "MLA2177777792", label: "El más barato", labelColor: "green", ranking: 1, description: `Titanio, 5 ATM, sin suscripción. Tabla de talles desde el 6. {{rating:MLA2177777792}} estrellas en {{reviews:MLA2177777792}} calificaciones.` },
+      { type: "p", content: `Es la forma más barata de probar si el formato anillo te sirve, con 100 unidades vendidas declaradas. Cumple bien lo que un anillo hace mejor (medir sueño y pulso en reposo), pero sus propios compradores avisan que mide el ejercicio peor que un reloj.` },
+      { type: "pull-quote", content: `Por lo menos a mí no me toma bien el ejercicio, entreno fuerza, bicicleta y hago yoga. Las calorías que dice son irrisorias de lo que en realidad.`, attribution: `— Comprador verificado en MercadoLibre Argentina, 2026` },
+      { type: "p", content: `Es la única de esta comparativa que publica una tabla de talles con diámetro interior y circunferencia en milímetros, desde el talle 6 — el dato que más falta cuando se compra un anillo a distancia.` },
+
+      { type: "h3", title: `2. Amazfit Helio Ring — sin suscripción, más resistente` },
+      { type: "product-card", productMlaId: "MLA58202122", label: "Sin suscripción, más resistente", labelColor: "blue", ranking: 2, description: `Titanio, 10 ATM (el doble que el Ignix K3), sensores bien documentados. Solo existe en talles 8, 10 y 12. {{rating:MLA58202122}} estrellas en {{reviews:MLA58202122}} calificaciones.` },
+      { type: "p", content: `Cuesta {{preciodif:MLA58202122:MLA2177777792}} más que el Ignix K3, pero paga una sola vez (sin suscripción, como el Ignix) y sube a 10 ATM de resistencia al agua, suficiente para nadar sin preocuparte. Sus sensores están mejor documentados por el fabricante, y más de la mitad de sus reseñas más útiles están firmadas en Argentina.` },
+      { type: "pull-quote", content: `El talle más pequeño es grande, yo le coloqué otro delante para trabarlo. La batería dura aproximadamente 3 días si lo usás con las indicaciones que vienen precargadas.`, attribution: `— Comprador verificado en MercadoLibre Argentina, 2026` },
+      { type: "callout", calloutVariant: "warning", calloutTitle: "Solo existe en tres talles", content: `Amazfit fabrica este anillo únicamente en talles 8, 10 y 12. Si tu medida no cae en esos tres números, no hay opción intermedia, y según una reseña real hasta el talle más chico puede quedar grande en dedos finos. Medí el dedo con un hilo antes de comprar.` },
+
+      { type: "table", headers: [`Anillo`, `Precio`, `Resistencia al agua`, `Batería`, `Suscripción`, `Calificaciones`], rows: [
+        [`[Ignix K3](https://meli.la/15edEg5)`, `{{precio:MLA2177777792}}`, `5 ATM`, `Unos 3 días`, `No cobra`, `{{reviews:MLA2177777792}}`],
+        [`[Amazfit Helio Ring](https://meli.la/2R4oGZA)`, `{{precio:MLA58202122}}`, `10 ATM`, `Hasta 4 días (3 en uso real)`, `No cobra`, `{{reviews:MLA58202122}}`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir` },
+      { type: "h3", title: `Si querés probar el formato sin gastar mucho` },
+      { type: "p", content: `El **[Ignix K3](/producto/anillo-inteligente-smart-ring-ignix-k3-titanio-5-atm-mla2177777792)**. Es el más barato de los dos, mide bien sueño y pulso en reposo, y no cobra suscripción. No esperes que reemplace a un reloj deportivo.` },
+      { type: "h3", title: `Si vas a nadar seguido` },
+      { type: "p", content: `El **[Amazfit Helio Ring](/producto/anillo-inteligente-amazfit-helio-ring-titanio-talle-10-mla58202122)**, con 10 ATM contra los 5 ATM del Ignix K3 y sensores mejor documentados. Confirmá antes que tu talle sea 8, 10 o 12, porque no hay más opciones. Ojo: ninguno de los dos anillos de esta comparativa reemplaza a un reloj deportivo si entrenás varias disciplinas en serio, según avisan sus propios compradores.` },
+      { type: "h3", title: `Si específicamente querías un Oura Ring` },
+      { type: "p", content: `Hoy no se puede conseguir con stock local en Argentina. Las publicaciones de importación desde Estados Unidos existen, pero suman aduana y 10 a 15 días de entrega. El Amazfit Helio Ring es la alternativa más parecida: también sin suscripción, con buena resistencia al agua y sensores documentados por el fabricante.` },
+
+      { type: "verdict", content: `El Oura Ring 4, el más conocido, está sin stock en Argentina al momento de escribir esto. De los dos que sí tenés hoy, para la mayoría conviene el **[Ignix K3](/producto/anillo-inteligente-smart-ring-ignix-k3-titanio-5-atm-mla2177777792)** ({{precio:MLA2177777792}}): el más barato, sin suscripción, para probar si el anillo te sirve. Si vas a nadar seguido, el **[Amazfit Helio Ring](/producto/anillo-inteligente-amazfit-helio-ring-titanio-talle-10-mla58202122)** ({{precio:MLA58202122}}) suma el doble de resistencia al agua, aunque solo existe en tres talles. Para entrenamientos específicos, ninguno de los dos reemplaza a un reloj deportivo.` },
+    ],
+    faq: [
+      { question: `¿Para qué sirve un anillo inteligente?`, answer: `Mide sueño, frecuencia cardíaca, oxígeno en sangre y actividad de forma continua, sin pantalla ni notificaciones. Está pensado para quien quiere ese registro pasivo sin llevar nada en la muñeca. No reemplaza a un reloj deportivo para medir entrenamientos específicos.` },
+      { question: `¿Qué pasó con el Oura Ring 4 en Argentina?`, answer: `Su publicación con stock local se quedó sin disponibilidad: muestra "Este producto no está disponible. Elige otra variante", sin ninguna variante a la que cambiar. Lo confirmamos recargando la página. Las publicaciones que aparecen ahora son de importación desde Estados Unidos, con aduana y envío de 10 a 15 días.` },
+      { question: `¿Cuánto cuesta un anillo inteligente en Argentina?`, answer: `De los dos con stock real que verificamos, el más barato es el [Ignix K3](/producto/anillo-inteligente-smart-ring-ignix-k3-titanio-5-atm-mla2177777792) a {{precio:MLA2177777792}} y el más caro el [Amazfit Helio Ring](/producto/anillo-inteligente-amazfit-helio-ring-titanio-talle-10-mla58202122) a {{precio:MLA58202122}}.` },
+      { question: `¿Los anillos inteligentes cobran suscripción?`, answer: `Los dos que comparamos (Ignix K3 y Amazfit Helio Ring) no cobran nada aparte: pagás el anillo una vez y la app viene incluida. El Oura Ring, cuando tiene stock, sí cobra una suscripción mensual para desbloquear los puntajes y tendencias.` },
+      { question: `¿Cómo sé qué talle pedir?`, answer: `Es el problema más citado de toda la categoría. El [Ignix K3](/producto/anillo-inteligente-smart-ring-ignix-k3-titanio-5-atm-mla2177777792) publica una tabla de talles desde el 6, con diámetro interior y circunferencia en milímetros. El [Amazfit Helio Ring](/producto/anillo-inteligente-amazfit-helio-ring-titanio-talle-10-mla58202122) solo viene en 8, 10 y 12, y una reseña real avisa que hasta el más chico puede quedar grande. Medí el dedo con un hilo antes de comprar cualquiera de los dos.` },
+      { question: `¿Se puede nadar con un anillo inteligente?`, answer: `Con el [Amazfit Helio Ring](/producto/anillo-inteligente-amazfit-helio-ring-titanio-talle-10-mla58202122) sí, tiene 10 ATM según el fabricante. El [Ignix K3](/producto/anillo-inteligente-smart-ring-ignix-k3-titanio-5-atm-mla2177777792) llega a 5 ATM, que alcanza para ducharse y nadar en superficie, no para uso intensivo en agua.` },
+      { question: `¿Sirve para medir entrenamientos como un reloj deportivo?`, answer: `No del todo. Compradores de los dos modelos avisan lo mismo: las calorías y la actividad física quedan cortas frente a un reloj deportivo. Un anillo inteligente rinde mejor para sueño y pulso en reposo que para entrenamientos específicos.` },
+      { question: `¿Hay alguna alternativa sin pantalla que no sea un anillo?`, answer: `Sí, el [WHOOP 5.0 Peak](/producto/whoop-5-0-peak-pulsera-inteligente-para-salud-y-rendimiento-mla60036543), una banda de muñeca con el mismo planteo (sin pantalla, solo métricas en la app), aunque con membresía obligatoria desde el segundo año.` },
+    ],
+    internalLinksTitle: `Guías relacionadas`,
+    internalLinks: [
+      { label: `Smartwatch: cuál comprar en Argentina`, href: `/guias/tech/smartwatch` },
+      { label: `Ignix K3: ficha y opiniones`, href: `/producto/anillo-inteligente-smart-ring-ignix-k3-titanio-5-atm-mla2177777792` },
+      { label: `Amazfit Helio Ring: ficha y opiniones`, href: `/producto/anillo-inteligente-amazfit-helio-ring-titanio-talle-10-mla58202122` },
+      { label: `WHOOP 5.0 Peak: ficha y opiniones`, href: `/producto/whoop-5-0-peak-pulsera-inteligente-para-salud-y-rendimiento-mla60036543` },
+    ],
+  },
+
+  // ─────────────────────────────────────────────────────────
   // PILAR yogurtera — silo cocina, categoria "yogurteras"
   // Origen: research masivo 2026-07-16 + consulta al trío (Codex/Gemini/
   // Claude) sobre prioridad de ejecución, priorizada #1 de 4.
@@ -22950,7 +23178,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     h1: `Yogurtera: cuál comprar en Argentina y cuál conviene [2026]`,
     directAnswer: `Para la mayoría conviene la **[Yelmo YG-1700](/producto/yogurtera-fabrica-de-yogurt-yelmo-yg-1700-7-jarros-tapas-de-colores-mla17840710)** (alrededor de {{precio:MLA17840710:k}}): la más vendida y calificada de Argentina, con 12.296 calificaciones, aunque no tiene temporizador ni apagado automático. Si querés programarla y que se apague sola, la **[Lüsqtoff LQ-YT808](/producto/yogurtera-lusqtoff-lq-yt808-1-7-litros-con-8-frascos-de-vidrio-y-temporizador-di-mla65120821)** suma esas dos funciones a precio medio. Para hacer yogur griego colado en casa, la única pensada específicamente para eso es la **[Daewoo Yoggy Pro](/producto/yogurtera-daewoo-yoggy-pro-dym672t-con-timer-digital-griego-blanco-mla65327878)**, con filtro y recetario incluidos. Y si priorizás la mayor cantidad de frascos (12) con pantalla digital, la **[Ultracomb YG-2712V](/producto/yogurtera-digital-ultracomb-yg-2712v-12-frascos-vidrio-temporizador-mla66422019)**, aunque el manual del fabricante confirma que el cuerpo es plástico, no acero inoxidable como se la vende.`,
     publishedDate: "2026-07-16",
-    updatedDate: "2026-07-16",
+    updatedDate: "2026-09-07",
     hasDisclosure: true,
     readingTime: 8,
     standfirst: `Hay yogurteras desde {{precio:MLA17840710:k}} hasta {{precio:MLA65327878:k}}, con capacidades de 1,2 a 2,5 litros y funciones que van de lo más simple (una llave y listo) a temporizador digital con pantalla LCD. Comparamos las 4 con mejor respaldo de compradores reales de MercadoLibre Argentina, con las contras que las publicaciones no siempre cuentan.`,
@@ -22999,10 +23227,10 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
 
       { type: "h2", title: `Tabla comparativa: yogurteras eléctricas`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Capacidad`, `Frascos`, `Temporizador`, `Ideal para`], rows: [
-        [`[Yelmo YG-1700](/producto/yogurtera-fabrica-de-yogurt-yelmo-yg-1700-7-jarros-tapas-de-colores-mla17840710)`, `{{precio:MLA17840710}}`, `1,2 L`, `7`, `No`, `La más probada y barata`],
-        [`[Lüsqtoff LQ-YT808](/producto/yogurtera-lusqtoff-lq-yt808-1-7-litros-con-8-frascos-de-vidrio-y-temporizador-di-mla65120821)`, `{{precio:MLA65120821}}`, `1,7 L`, `8`, `Sí (digital)`, `Programar y olvidarte`],
-        [`[Daewoo Yoggy Pro](/producto/yogurtera-daewoo-yoggy-pro-dym672t-con-timer-digital-griego-blanco-mla65327878)`, `{{precio:MLA65327878}}`, `2 L`, `1 (recipiente grande)`, `Sí`, `Yogur griego colado`],
-        [`[Ultracomb YG-2712V](/producto/yogurtera-digital-ultracomb-yg-2712v-12-frascos-vidrio-temporizador-mla66422019)`, `{{precio:MLA66422019}}`, `2,2-2,5 L`, `12`, `Sí (LCD)`, `Mayor cantidad de porciones`],
+        [`[Yelmo YG-1700](https://meli.la/2kc6W5c)`, `{{precio:MLA17840710}}`, `1,2 L`, `7`, `No`, `La más probada y barata`],
+        [`[Lüsqtoff LQ-YT808](https://meli.la/1LueXy3)`, `{{precio:MLA65120821}}`, `1,7 L`, `8`, `Sí (digital)`, `Programar y olvidarte`],
+        [`[Daewoo Yoggy Pro](https://meli.la/2zWSg4T)`, `{{precio:MLA65327878}}`, `2 L`, `1 (recipiente grande)`, `Sí`, `Yogur griego colado`],
+        [`[Ultracomb YG-2712V](https://meli.la/1XFyfn4)`, `{{precio:MLA66422019}}`, `2,2-2,5 L`, `12`, `Sí (LCD)`, `Mayor cantidad de porciones`],
       ] },
 
       { type: "h2", title: `Cómo elegir tu yogurtera`, id: "como-elegir" },
@@ -23900,7 +24128,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     h1: `Ventilador de pie: cuál comprar en Argentina y cuál conviene [2026]`,
     directAnswer: `Para la mayoría conviene el **[Peabody PE-VP1860N](/producto/ventilador-de-pie-peabody-pe-vp1860n-18-60w-3-paletas-estructura-negro-diametro-mla41606856)** (alrededor de {{precio:MLA41606856:k}}): el mejor calificado de esta guía, con altura ajustable y 59 dB de ruido declarado. Si buscás el precio más bajo con el mayor respaldo de compradores, el [Winco W118](/producto/ventilador-winco-3-en-1-de-mesa-de-pared-de-pie-w118-45-72-cm-50-hz-gris-celeste-mla19884110), el más vendido de Argentina en esta categoría. Si querés control remoto, el [Kanji Home KJH-FH2012](/producto/ventilador-de-pie-kanji-home-20-con-control-remoto-y-3-velocidades-mla29273448); y si preferís aspas de metal en formato 3 en 1, la [Liliana VP20K](/producto/ventilador-liliana-vp20k-3-en-1-de-pie-turbo-pared-20-3-aspas-metalicas-mla41701462).`,
     publishedDate: "2026-08-03",
-    updatedDate: "2026-07-19",
+    updatedDate: "2026-09-07",
     hasDisclosure: true,
     readingTime: 8,
     standfirst: `Un ventilador de pie va de {{precio:MLA19884110:k}} (el más vendido) a {{precio:MLA41701462:k}} (el de aspas de metal con formato 3 en 1). La decisión real pasa por rating, control remoto y ruido declarado, no solo por precio. Te mostramos cuál conviene, con precios reales de MercadoLibre.`,
@@ -23951,10 +24179,10 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
 
       { type: "h2", title: `Tabla comparativa: rating, ruido y funciones`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Rating`, `Control remoto`, `Ideal para`], rows: [
-        [`[Peabody PE-VP1860N](/producto/ventilador-de-pie-peabody-pe-vp1860n-18-60w-3-paletas-estructura-negro-diametro-mla41606856)`, `{{precio:MLA41606856}}`, `4.8 (1.612)`, `No`, `El mejor calificado, con altura ajustable`],
-        [`[Winco W118](/producto/ventilador-winco-3-en-1-de-mesa-de-pared-de-pie-w118-45-72-cm-50-hz-gris-celeste-mla19884110)`, `{{precio:MLA19884110}}`, `4.5 (10.551)`, `No`, `El más vendido, precio más bajo`],
-        [`[Kanji Home KJH-FH2012](/producto/ventilador-de-pie-kanji-home-20-con-control-remoto-y-3-velocidades-mla29273448)`, `{{precio:MLA29273448}}`, `4.5 (376)`, `Sí`, `Control remoto a precio medio`],
-        [`[Liliana VP20K](/producto/ventilador-liliana-vp20k-3-en-1-de-pie-turbo-pared-20-3-aspas-metalicas-mla41701462)`, `{{precio:MLA41701462}}`, `4.6 (4.192)`, `No`, `Aspas de metal, formato 3 en 1`],
+        [`[Peabody PE-VP1860N](https://meli.la/2P1uH4q)`, `{{precio:MLA41606856}}`, `4.8 (1.612)`, `No`, `El mejor calificado, con altura ajustable`],
+        [`[Winco W118](https://meli.la/2uhnx1r)`, `{{precio:MLA19884110}}`, `4.5 (10.551)`, `No`, `El más vendido, precio más bajo`],
+        [`[Kanji Home KJH-FH2012](https://meli.la/21YbCwr)`, `{{precio:MLA29273448}}`, `4.5 (376)`, `Sí`, `Control remoto a precio medio`],
+        [`[Liliana VP20K](https://meli.la/2WpWhbB)`, `{{precio:MLA41701462}}`, `4.6 (4.192)`, `No`, `Aspas de metal, formato 3 en 1`],
       ] },
 
       { type: "h2", title: `Cómo elegir tu ventilador de pie`, id: "como-elegir" },
@@ -24733,9 +24961,9 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
 
       { type: "h2", title: `Anillo inteligente: la categoría ya llegó a Argentina`, id: "anillo-inteligente" },
       { type: "p", content: `Si buscás "anillo inteligente" o "Oura Ring" en Argentina, es una categoría real y en crecimiento a nivel mundial: un anillo sin pantalla que mide sueño, frecuencia cardíaca y actividad, pensado para quien no quiere nada en la muñeca. El Oura Ring es el más conocido, y también aparecen en las búsquedas modelos de Samsung, Amazfit y Xiaomi.` },
-      { type: "p", content: `**Esto cambió desde la última revisión de esta guía.** Cuando la escribimos, lo único que había en MercadoLibre Argentina eran publicaciones pausadas o importaciones desde Estados Unidos, con impuestos de aduana y 10 a 15 días de entrega. Al volver a chequearlo, el **[Oura Ring 4](/producto/anillo-inteligente-oura-ring-4-titanio-negro-talle-9-mla66785049)** y el **[Amazfit Helio Ring](/producto/anillo-inteligente-amazfit-helio-ring-titanio-talle-10-mla58202122)** ya se consiguen con stock doméstico y entrega en pocos días, sin importación. El Samsung Galaxy Ring y el Oura Ring 5, en cambio, siguen apareciendo solo como compra internacional.` },
-      { type: "p", content: `Aun así, todavía no armamos un ranking de anillos: los que se consiguen juntan apenas unas pocas decenas de opiniones cada uno, muy lejos de las bases de reseñas con las que comparamos los relojes de esta guía. Armar un ranking con esa evidencia sería inventar un orden que los datos no sostienen. Lo que sí hicimos es fichar los tres que se consiguen, con sus contras reales: el [Oura Ring 4](/producto/anillo-inteligente-oura-ring-4-titanio-negro-talle-9-mla66785049), el [Amazfit Helio Ring](/producto/anillo-inteligente-amazfit-helio-ring-titanio-talle-10-mla58202122) y el [Ignix K3](/producto/anillo-inteligente-smart-ring-ignix-k3-titanio-5-atm-mla2177777792), que es el más barato y declara 100 unidades vendidas.` },
-      { type: "p", content: `Dos cosas para tener en cuenta si estás mirando uno. La primera: **se venden por talle de anillo**, como una alianza, y cada talle es una publicación distinta. Si errás el talle, va a devolución, así que medí el dedo antes de comprar. La segunda: el Oura Ring 4 cuesta más que cualquiera de los relojes de esta guía, y su app cobra una suscripción mensual aparte para desbloquear los puntajes de sueño y las tendencias. Oura incluye el primer año con la compra, pero acá se compra por revendedor, así que conviene confirmar con el vendedor si esa promoción aplica antes de contar con ella. Sin suscripción el anillo sigue midiendo pasos, pulso y horas de sueño, pero perdés el análisis, que es para lo que se compra.` },
+      { type: "p", content: `**La categoría tiene un vaivén de stock real.** Cuando escribimos esta guía por primera vez, lo único que había en MercadoLibre Argentina eran publicaciones pausadas o importaciones desde Estados Unidos, con impuestos de aduana y 10 a 15 días de entrega. Después llegaron el Oura Ring 4 y el Amazfit Helio Ring con stock doméstico, pero al revisarlo de nuevo, el Oura Ring 4 volvió a quedarse sin stock. El Amazfit Helio Ring y el Ignix K3 sí tienen stock real hoy.` },
+      { type: "p", content: `Armamos una [guía completa de anillos inteligentes](/guias/tech/anillo-inteligente) con los que sí se consiguen, comparados por precio, batería, resistencia al agua y talles disponibles, con las contras reales de cada uno.` },
+      { type: "p", content: `Dos cosas para tener en cuenta si estás mirando uno. La primera: **se venden por talle de anillo**, como una alianza, y cada talle es una publicación distinta. Si errás el talle, va a devolución, así que medí el dedo antes de comprar. La segunda: el Oura Ring 4, cuando tiene stock, cuesta más que cualquiera de los relojes de esta guía, y su app cobra una suscripción mensual aparte para desbloquear los puntajes de sueño y las tendencias. Ninguno de los dos que sí tienen stock hoy (Amazfit Helio Ring, Ignix K3) cobra esa suscripción.` },
       { type: "p", content: `Si lo que te atrae es la idea de medir sueño y recuperación sin tener una pantalla encima, hoy la opción con reseñas suficientes para recomendarla es el [WHOOP 5.0 Peak](/producto/whoop-5-0-peak-pulsera-inteligente-para-salud-y-rendimiento-mla60036543), que es exactamente el mismo planteo pero en la muñeca: sin pantalla, sin notificaciones, solo métricas en la app.` },
 
       { type: "h2", title: `Veredicto: cuál smartwatch comprar`, id: "veredicto" },
@@ -24748,7 +24976,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { question: `¿Necesito GPS en el reloj o alcanza con el del celular?`, answer: `Si entrenás sin llevar el celular, necesitás GPS real integrado, como el [Xiaomi](/producto/smartwatch-xiaomi-redmi-5-lite-1-96-negro-mla42520227), el [Amazfit](/producto/smartwatch-reloj-inteligente-amazfit-bip-6-amoled-1-97-gps-llamadas-bluetooth-5-mla51929440) o el [Samsung](/producto/reloj-inteligente-samsung-galaxy-watch7-de-44-mm-con-bluetooth-galaxy-ai-pantall-mla38058572) de esta guía.` },
       { question: `¿Cuál smartwatch de esta guía tiene NFC para pagar sin contacto?`, answer: `Solo el [Samsung Galaxy Watch7](/producto/reloj-inteligente-samsung-galaxy-watch7-de-44-mm-con-bluetooth-galaxy-ai-pantall-mla38058572), confirmado por reseñas reales. Ninguna de las otras 4 opciones de esta guía tiene NFC, ni siquiera el [Amazfit Bip 6](/producto/smartwatch-reloj-inteligente-amazfit-bip-6-amoled-1-97-gps-llamadas-bluetooth-5-mla51929440), que es la segunda más cara.` },
       { question: `¿Por qué evitaron los smartwatches tipo "X8 Ultra" o "S8 Ultra"?`, answer: `Son clones genéricos sin marca trazable que imitan el diseño de un Apple Watch, frecuentemente con claims de salud (medición de glucosa, precisión clínica) que ningún fabricante certifica. Esta guía prioriza marcas identificables.` },
-      { question: `¿Recomiendan algún anillo inteligente (Oura Ring)?`, answer: `El Oura Ring 4 y el Amazfit Helio Ring ya se consiguen en MercadoLibre Argentina con stock doméstico y entrega en pocos días, cosa que no pasaba cuando escribimos esta guía. Todavía no armamos un ranking porque cada uno junta apenas unas pocas decenas de opiniones, muy poco para compararlos con el rigor que usamos acá. Dos avisos: se venden por talle de anillo, así que medí el dedo antes de comprar, y el Oura suma una suscripción mensual para desbloquear los puntajes y tendencias (el primer año viene incluido de fábrica, pero acá se compra por revendedor: confirmalo antes). Fichamos los tres que se consiguen con sus contras reales: el [Oura Ring 4](/producto/anillo-inteligente-oura-ring-4-titanio-negro-talle-9-mla66785049), el [Amazfit Helio Ring](/producto/anillo-inteligente-amazfit-helio-ring-titanio-talle-10-mla58202122) y el [Ignix K3](/producto/anillo-inteligente-smart-ring-ignix-k3-titanio-5-atm-mla2177777792). Si preferís medir sueño y recuperación sin pantalla pero con una base de reseñas más grande detrás, la opción sigue siendo el [WHOOP 5.0 Peak](/producto/whoop-5-0-peak-pulsera-inteligente-para-salud-y-rendimiento-mla60036543).` },
+      { question: `¿Recomiendan algún anillo inteligente (Oura Ring)?`, answer: `El Oura Ring es el más conocido, pero en Argentina su stock va y viene: al momento de escribir esto está agotado otra vez. El [Amazfit Helio Ring](/producto/anillo-inteligente-amazfit-helio-ring-titanio-talle-10-mla58202122) y el [Ignix K3](/producto/anillo-inteligente-smart-ring-ignix-k3-titanio-5-atm-mla2177777792) sí tienen stock real hoy, y son los que comparamos en detalle en nuestra [guía de anillos inteligentes](/guias/tech/anillo-inteligente), con precio, batería, resistencia al agua y talles disponibles. Se venden por talle de anillo: medí el dedo antes de comprar. Si preferís medir sueño y recuperación sin pantalla pero con una base de reseñas más grande detrás, la opción sigue siendo el [WHOOP 5.0 Peak](/producto/whoop-5-0-peak-pulsera-inteligente-para-salud-y-rendimiento-mla60036543).` },
       { question: `¿El Whoop es lo mismo que un smartwatch?`, answer: `No. El [WHOOP 5.0 Peak](/producto/whoop-5-0-peak-pulsera-inteligente-para-salud-y-rendimiento-mla60036543) no tiene pantalla, GPS ni notificaciones: es una banda de recuperación pensada solo para medir frecuencia cardíaca, HRV, sueño y estrés, y mostrar esos datos en la app del celular. Es otra categoría de producto, no compite con los relojes de esta guía.` },
       { question: `¿Cuánto sale mantener el Whoop después del primer año?`, answer: `El [WHOOP 5.0 Peak](/producto/whoop-5-0-peak-pulsera-inteligente-para-salud-y-rendimiento-mla60036543) incluye el primer año de membresía en el precio de venta, pero desde el año 2 hay que pagarla aparte: US$239/año para el tier Peak, en dólares, directo a Whoop y no a través de MercadoLibre. Sin esa membresía activa, el dispositivo no sincroniza ni muestra datos.` },
     ],
@@ -29614,6 +29842,16 @@ export const guideCategories: Record<string, { name: string; description: string
     name: "Guía de Cámaras Deportivas",
     description:
       "Cámaras deportivas comparadas por lo que decide la compra: cuánto estabilizan de verdad, cuáles se mojan sin carcasa y de qué generación es cada una de las que se consiguen acá.",
+  },
+  "camaras-instantaneas": {
+    name: "Guía de Cámaras Instantáneas",
+    description:
+      "Instax, analógicas y digitales de bolsillo comparadas por lo que decide la compra: si imprimen de verdad, cuánto sale la película y cuál es solo un nombre parecido.",
+  },
+  "anillos-inteligentes": {
+    name: "Guía de Anillos Inteligentes",
+    description:
+      "Anillos inteligentes comparados por lo que decide la compra: resistencia al agua, batería real, suscripción y talles disponibles, con el estado de stock del Oura Ring 4 siempre actualizado.",
   },
   "colchones": {
     name: "Guía de Colchones",

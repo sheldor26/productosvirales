@@ -1461,3 +1461,78 @@ como 4to producto a `quickPicks`, al ranking y a la tabla comparativa de esta gu
 `visibility: "deprioritized"`.
 
 Re-medir: **~2026-10-02** (≈4 semanas), contra baseline cero.
+
+## 2026-09-04 — Guía nueva `camara-instantanea` (silo tech, categoría nueva)
+
+| Guía | Silo | Categoría | Keyword del bloque | Volumen (Ubersuggest AR) | Volumen (Keyword Planner AR) | SD | Productos |
+| :-- | :-- | :-- | :-- | --: | --: | --: | --: |
+| `camara-instantanea` | tech | camaras-instantaneas | camara instantanea | 3.600 | 3.600 | 9 | 4 |
+
+**Baseline: cero.** URL nueva, sin historial en GSC.
+
+**Origen: mismo barrido de catálogo que `difusor-de-aromas`.** Las 4 fichas (Fujifilm Instax Mini 12,
+Instax Mini Evo, Kodak Ektar H35 e Instax Pal) ya estaban completas y cruzadas entre sí por
+`relatedProducts` desde una sesión anterior, sin guía propia hasta ahora. Se verificaron las 4 en vivo:
+precio de la Instax Mini Evo corregido de $859.999 (precio de "Tienda oficial") a $767.155 (precio real de
+"Mejor precio" en el multi-oferta de ML, con `originalPrice` agregado); reviewCount actualizado en las 4
+fichas; `structuredData` desalineado corregido en las 4 (mismo problema sistémico que ya se documentó en
+otras fichas esta sesión).
+
+**Sin canibalización, confirmado.** Las guías de cámaras existentes (`camara-deportiva`, `gopro-cual-comprar`,
+`insta360-cual-comprar`, `dji-cual-comprar`) cubren cámaras de acción/360; esta cubre instantáneas/analógicas,
+intención de búsqueda completamente distinta. Se sumaron 2 links entrantes desde `camara-deportiva` y
+`gopro-cual-comprar` (mismo silo tech). De paso se sacó un link muerto a la ficha DJI Osmo Action 4
+(MLA29364436, deprioritized desde el 2026-09-03) que había quedado colgado en el `internalLinks` de
+`camara-deportiva`.
+
+**Auditoría del trío: 2 rondas hasta doble GO.** Codex encontró en la primera pasada 2 bloqueantes reales
+en las fichas hermanas (no en la guía): la Instax Mini 12 seguía diciendo "es la más barata de las cuatro"
+cuando con los precios en vivo la Kodak Ektar H35 pasó a ser más barata, y la Instax Mini Evo decía "casi
+seis veces" el precio de la Mini 12 cuando con el precio corregido (Mejor precio) la proporción real es
+~3,5x. Los dos se corrigieron ("la más barata de las que imprimen en el momento" y "más de tres veces su
+precio"). agy no marcó ningún bloqueante en ninguna de las dos pasadas (la segunda falló primero por
+timeout, se reintentó).
+
+**Verificación:** `npx tsc --noEmit`, los 8 checks de `npm run guides:check`, `node scripts/check-price-guard.cjs`
+y `npm run build` en verde después de cada tanda de cambios. Render local verificado en el navegador.
+
+Re-medir: **~2026-10-02** (≈4 semanas), contra baseline cero.
+
+## 2026-09-04 — Guía nueva `anillo-inteligente` (silo tech, categoría nueva, solo 2 productos)
+
+| Guía | Silo | Categoría | Keyword del bloque | Volumen (Ubersuggest AR) | Volumen (Keyword Planner AR) | SD | Productos |
+| :-- | :-- | :-- | :-- | --: | --: | --: | --: |
+| `anillo-inteligente` | tech | anillos-inteligentes | anillo inteligente | 1.900 | 1.900 | 16 | 2 (de 3 candidatos) |
+
+**Baseline: cero.** URL nueva, sin historial en GSC.
+
+**El candidato original tenía 3 productos, quedó en 2 por una baja de stock encontrada en el momento
+de armar la guía.** El Oura Ring 4 (MLA66785049), el anillo más conocido de la categoría, mostró
+"Este producto no está disponible. Elige otra variante." sin ninguna variante alternativa, reproducible
+tras recargar. Las publicaciones alternativas de "Oura Ring 4" en el buscador son todas de importación
+internacional (USA), no stock doméstico. Se marcó `deprioritized`/`out_of_stock` (ver
+`docs/productos-sin-stock.md`). En vez de descartar la guía o esperar, se armó con los 2 productos que
+sí tienen stock real (Ignix K3, Amazfit Helio Ring) y un callout dedicado explicando la baja del Oura,
+que además es la keyword de marca con más volumen dentro de la categoría ("anillo oura", 590/mes) —
+la ausencia del Oura se explica de frente en vez de omitirla.
+
+**Bonus de enlazado no planeado.** La guía `smartwatch` (ya publicada) tenía una sección "Anillo
+inteligente" que linkeaba directo a las 3 fichas y decía "todavía no armamos un ranking". Se actualizó
+para reflejar la baja del Oura y, en vez de listar fichas sueltas, ahora linkea 2 veces (cuerpo + FAQ)
+a la guía nueva — el mejor caso de enlazado entrante de esta sesión: un puente ya existente y con
+tráfico propio, no un link agregado de cero.
+
+**Auditoría del trío: 2 rondas hasta doble GO.** agy dio GO limpio en la primera pasada, sin
+bloqueantes. Codex encontró en la primera pasada 3 bloqueantes reales: una contradicción de intención
+("nadar seguido o entrenar en serio" recomendado en directAnswer/H3/verdict, pero la FAQ decía que
+ningún anillo reemplaza a un reloj deportivo — se separó "nadar sí / entrenar no" en los 4 lugares); la
+FAQ del Ignix K3 seguía recomendando al Oura Ring 4 para uso intensivo en agua sin aclarar que está sin
+stock (corregido); y datos hardcodeados desactualizados en `structuredData` de las 2 fichas activas
+(Ignix K3: "38 calificaciones" y `offers.price: 159153` cuando los reales son 40 y 169150; Amazfit
+Helio Ring: "4.8 estrellas" cuando el real es 4.9). Los 5 se corrigieron (los 3 bloqueantes + 2 datos
+más en el mismo `structuredData`) y la segunda pasada de Codex dio GO limpio.
+
+**Verificación:** `npx tsc --noEmit`, los 8 checks de `npm run guides:check`, `node scripts/check-price-guard.cjs`
+y `npm run build` en verde después de cada tanda de cambios. Render local verificado en el navegador.
+
+Re-medir: **~2026-10-02** (≈4 semanas), contra baseline cero.

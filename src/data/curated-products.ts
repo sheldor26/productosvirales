@@ -5342,8 +5342,8 @@ No es para vos si pensás usarla en un casco, una bici o una moto: sin estabiliz
     condition: "new",
     freeShipping: false,
     rating: 4.9,
-    reviewCount: 13706,
-    reviewsSampledAt: "2026-08-25",
+    reviewCount: 13709,
+    reviewsSampledAt: "2026-09-04",
     soldQuantity: 1000,
     pastelColor: "var(--pastel-pink)",
     visibility: "featured",
@@ -5356,7 +5356,7 @@ No es para vos si pensás usarla en un casco, una bici o una moto: sin estabiliz
     h1: "Fujifilm Instax Mini 12: la cuenta que nadie hace antes de comprarla",
     pros: [
       "{{reviews:MLA23076923}} calificaciones con {{rating:MLA23076923}} estrellas: casi cuarenta veces las reseñas de la segunda cámara más opinada de esta comparativa",
-      "Es la más barata de las cuatro cámaras que comparamos, a {{precio:MLA23076923}}",
+      "Es la más barata de las que imprimen en el momento, a {{precio:MLA23076923}}",
       "Se usa sin aprender nada: girás el lente para prenderla, el modo close-up entra solo y el espejo para selfies está al lado del lente",
       "Funciona con dos pilas AA comunes, así que no dependés de encontrar un cargador ni una batería propietaria",
       "Exposición automática: la cámara mide la luz y ajusta el flash sola, que es donde más se equivoca quien arranca",
@@ -5462,7 +5462,7 @@ No es para vos si te molesta el gasto continuo en película, si querés elegir q
         "@type": "Offer",
         url: "https://meli.la/2ijDx7f",
         priceCurrency: "ARS",
-        price: 148649,
+        price: 217279,
         availability: "https://schema.org/InStock",
         itemCondition: "https://schema.org/NewCondition",
         seller: { "@type": "Organization", name: "MercadoLibre Argentina" },
@@ -5470,7 +5470,7 @@ No es para vos si te molesta el gasto continuo en película, si querés elegir q
       aggregateRating: {
         "@type": "AggregateRating",
         ratingValue: "4.9",
-        reviewCount: "13054",
+        reviewCount: "13709",
       },
     },
   },
@@ -5479,7 +5479,8 @@ No es para vos si te molesta el gasto continuo en película, si querés elegir q
     title: "Cámara Instantánea Híbrida Fujifilm Instax Mini Evo",
     canonicalName: "Fujifilm Instax Mini Evo",
     brand: "Fujifilm",
-    price: 859999,
+    price: 767155,
+    originalPrice: 859999,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_946229-MLA109742319285_032026-O.webp",
     images: [
@@ -5500,9 +5501,9 @@ No es para vos si te molesta el gasto continuo en película, si querés elegir q
     soldQuantity: 100,
     pastelColor: "var(--pastel-purple)",
     visibility: "normal",
-    priceUpdated: "2026-08-25",
+    priceUpdated: "2026-09-04",
     priceLastChecked: "2026-09-04",
-    priceVerifiedAt: "2026-08-25",
+    priceVerifiedAt: "2026-09-04",
     priceStatus: "fresh",
     seoTitle: "Instax Mini Evo: la que deja de desperdiciar película",
     metaDescription: "Instax Mini Evo a {{precio:MLA27036811}}: híbrida, elegís qué foto imprimir e imprimís desde el celular. Apertura f/2.0 contra la f/12.7 de la Mini 12.",
@@ -5515,7 +5516,7 @@ No es para vos si te molesta el gasto continuo en película, si querés elegir q
       "{{rating:MLA27036811}} estrellas en {{reviews:MLA27036811}} calificaciones, y es más liviana que la Mini 12 pese a hacer bastante más",
     ],
     cons: [
-      "Es la más cara de la comparativa por lejos: cuesta {{preciodif:MLA27036811:MLA23076923}} más que la [Instax Mini 12](/producto/camara-instantanea-fujifilm-instax-mini-12-mla23076923), o sea casi seis veces su precio",
+      "Es la más cara de la comparativa por lejos: cuesta {{preciodif:MLA27036811:MLA23076923}} más que la [Instax Mini 12](/producto/camara-instantanea-fujifilm-instax-mini-12-mla23076923), más de tres veces su precio",
       "Tampoco viene con película. Una reseña avisa: \"Lástima que no viene con la funda ni un rollo de papel para impresión\". Igual que la Mini 12, hay que sumarle ese gasto",
       "Usa batería de litio recargable, no pilas comunes. Si te quedás sin batería lejos de un cable, no se resuelve comprando pilas en un kiosco como con la Mini 12",
       "Su base de opiniones es mucho más chica que la de la Mini 12: {{reviews:MLA27036811}} contra {{reviews:MLA23076923}}. Sigue siendo sólida, pero es bastante menos evidencia",
@@ -5609,7 +5610,7 @@ No es para vos si es un regalo puntual o una compra de impulso: ahí los {{preci
         "@type": "Offer",
         url: "https://meli.la/2Jua833",
         priceCurrency: "ARS",
-        price: 859999,
+        price: 767155,
         availability: "https://schema.org/InStock",
         itemCondition: "https://schema.org/NewCondition",
         seller: { "@type": "Organization", name: "MercadoLibre Argentina" },
@@ -5617,7 +5618,7 @@ No es para vos si es un regalo puntual o una compra de impulso: ahí los {{preci
       aggregateRating: {
         "@type": "AggregateRating",
         ratingValue: "4.9",
-        reviewCount: "342",
+        reviewCount: "348",
       },
     },
   },
@@ -5746,7 +5747,7 @@ No es para vos si lo que querés es la foto física inmediata. Para eso están l
         "@type": "Offer",
         url: "https://meli.la/1VBZg2N",
         priceCurrency: "ARS",
-        price: 299500,
+        price: 205453,
         availability: "https://schema.org/InStock",
         itemCondition: "https://schema.org/NewCondition",
         seller: { "@type": "Organization", name: "MercadoLibre Argentina" },
@@ -5754,7 +5755,7 @@ No es para vos si lo que querés es la foto física inmediata. Para eso están l
       aggregateRating: {
         "@type": "AggregateRating",
         ratingValue: "4.7",
-        reviewCount: "78",
+        reviewCount: "81",
       },
     },
   },
@@ -5882,7 +5883,7 @@ No es para vos si comprabas pensando que salía la foto en papel, que es exactam
       aggregateRating: {
         "@type": "AggregateRating",
         ratingValue: "4.5",
-        reviewCount: "56",
+        reviewCount: "57",
       },
     },
   },
@@ -5962,7 +5963,7 @@ Es la contra esperable y hay que decirla: un anillo de este precio sirve para ve
 
 El [Amazfit Helio Ring](/producto/anillo-inteligente-amazfit-helio-ring-titanio-talle-10-mla58202122) cuesta {{preciodif:MLA58202122:MLA2177777792}} más y sube a 10 ATM de resistencia al agua, con una app de una marca conocida y sensores mejor documentados. Pero solo existe en tres talles.
 
-El [Oura Ring 4](/producto/anillo-inteligente-oura-ring-4-titanio-negro-talle-9-mla66785049) es otra liga de precio, con la mejor batería de los tres y talles del 4 al 15, pero cobra suscripción mensual aparte para desbloquear los análisis.
+El Oura Ring 4 es otra liga de precio, con la mejor batería de los tres y talles del 4 al 15, pero cobra suscripción mensual aparte para desbloquear los análisis — al momento de escribir esto, además, se quedó sin stock en Argentina.
 
 ## Para quién es, y para quién no
 
@@ -5985,9 +5986,9 @@ No es para vos si entrenás en serio y esperás que te cuente bien las calorías
     faq: [
       { question: "¿Vale la pena el anillo inteligente más barato?", answer: "Depende de para qué. Para ver tendencias de sueño y pulso en reposo, sí: {{reviews:MLA2177777792}} calificaciones con {{rating:MLA2177777792}} estrellas y 100 unidades vendidas declaradas lo respaldan, contra las 50 del Amazfit Helio Ring. Para medir ejercicio, no: dos compradores avisan que las calorías y la actividad quedan cortas frente a un reloj." },
       { question: "¿Cuánto dura la batería?", answer: "Unos 3 días. El vendedor lo plantea como una hora de carga cada tres días. Es la más corta de los tres anillos de la comparativa: el Amazfit Helio Ring declara hasta 4 días y el Oura Ring 4 entre 5 y 8." },
-      { question: "¿Cobra suscripción?", answer: "No. La app viene incluida con el anillo. Es una diferencia concreta contra el [Oura Ring 4](/producto/anillo-inteligente-oura-ring-4-titanio-negro-talle-9-mla66785049), que cobra una suscripción mensual aparte para desbloquear los puntajes y las tendencias." },
+      { question: "¿Cobra suscripción?", answer: "No. La app viene incluida con el anillo. Es una diferencia concreta contra el Oura Ring 4 (hoy sin stock en Argentina), que cobra una suscripción mensual aparte para desbloquear los puntajes y las tendencias." },
       { question: "¿Cómo sé qué talle pedir?", answer: "Es el punto más importante de cualquier anillo inteligente y la queja más repetida del rubro. Este modelo publica una tabla con diámetro interior y circunferencia en milímetros, desde el talle 6. Medí el dedo con un hilo, comparalo contra esa tabla, y si dudás entre dos, tené en cuenta que los dedos se hinchan de noche y con calor." },
-      { question: "¿Se puede usar en la ducha o en la pileta?", answer: "Sí, tiene 5 ATM, que alcanza para lavarse las manos, ducharse y nadar en superficie. Es la mitad de lo que aguantan el Amazfit Helio Ring (10 ATM) y el Oura Ring 4 (100 metros), así que para uso intensivo en agua conviene mirar esos dos." },
+      { question: "¿Se puede usar en la ducha o en la pileta?", answer: "Sí, tiene 5 ATM, que alcanza para lavarse las manos, ducharse y nadar en superficie. Es la mitad de lo que aguanta el Amazfit Helio Ring (10 ATM), así que para uso intensivo en agua conviene mirar ese." },
       { question: "¿Sirve para medir entrenamientos?", answer: "Es su punto flojo. Un comprador que entrena fuerza, bicicleta y yoga dice que \"no me toma bien el ejercicio\" y que las calorías reportadas son muy inferiores a las reales. Otro señala diferencias de medición contra aparatos médicos. Sirve para el registro pasivo de todo el día, no para reemplazar un reloj deportivo." },
       { question: "¿Qué diferencia hay con la ficha de catálogo de MercadoLibre?", answer: "Esta es una publicación de un vendedor puntual, no una ficha de catálogo compartida entre varios. En la práctica funciona igual para comprar, pero si ese vendedor se queda sin stock la publicación desaparece entera, en vez de pasar a otro vendedor como pasa en las fichas de catálogo." },
     ],
@@ -5998,19 +5999,19 @@ No es para vos si entrenás en serio y esperás que te cuente bien las calorías
       { rating: 5, date: "diciembre 2025", text: "Es muy bueno para las alerta de salud." },
       { rating: 5, date: "diciembre 2025", text: "Excelente!!! cumple con lo que ofrece!." },
     ],
-    relatedProducts: ["MLA58202122", "MLA66785049", "MLA60036543"],
+    relatedProducts: ["MLA58202122", "MLA60036543"],
     structuredData: {
       "@context": "https://schema.org",
       "@type": "Product",
       name: "Ignix K3 Smart Ring",
       image: "https://http2.mlstatic.com/D_NQ_NP_617584-MLA116373890567_082026-O.webp",
-      description: "Anillo inteligente Ignix K3 de titanio: mide sueño, pulso, oxígeno en sangre y estrés, con 5 ATM de resistencia al agua, unos 3 días de batería y sin suscripción. 4.5 estrellas con 38 calificaciones en MercadoLibre Argentina.",
+      description: "Anillo inteligente Ignix K3 de titanio: mide sueño, pulso, oxígeno en sangre y estrés, con 5 ATM de resistencia al agua, unos 3 días de batería y sin suscripción. 4.5 estrellas con 40 calificaciones en MercadoLibre Argentina.",
       brand: { "@type": "Brand", name: "Ignix" },
       offers: {
         "@type": "Offer",
         url: "https://meli.la/15edEg5",
         priceCurrency: "ARS",
-        price: 159153,
+        price: 169150,
         availability: "https://schema.org/InStock",
         itemCondition: "https://schema.org/NewCondition",
         seller: { "@type": "Organization", name: "MercadoLibre Argentina" },
@@ -6018,7 +6019,7 @@ No es para vos si entrenás en serio y esperás que te cuente bien las calorías
       aggregateRating: {
         "@type": "AggregateRating",
         ratingValue: "4.5",
-        reviewCount: "38",
+        reviewCount: "40",
       },
     },
   },
@@ -6069,14 +6070,14 @@ No es para vos si entrenás en serio y esperás que te cuente bien las calorías
       "Para actividad física \"trae solo 4 posibilidades y son muy acotadas\", según esa misma reseña. No es un reemplazo de un reloj deportivo",
       "Su ficha en MercadoLibre está cargada en la categoría de joyería: siete atributos, ninguno técnico. No vas a encontrar batería ni sensores en la publicación",
     ],
-    verdict: "Es el punto medio razonable de los tres: paga una sola vez, tiene 10 ATM y sensores bien documentados, y 8 de las 15 más útiles están firmadas en Argentina, algo que el Oura Ring 4 no tiene. El problema es el talle: solo existe en 8, 10 y 12, y un comprador avisa que el más chico igual le quedó grande. Si tu medida no cae en esos tres números, mirá el Oura Ring 4, que va del 4 al 15.",
+    verdict: "Es el punto medio razonable de los dos anillos con stock real hoy en Argentina: paga una sola vez, tiene 10 ATM y sensores bien documentados, y 8 de las 15 más útiles están firmadas en el país. El problema es el talle: solo existe en 8, 10 y 12, y un comprador avisa que el más chico igual le quedó grande. Si tu medida no cae en esos tres números, la alternativa con más talles (el Oura Ring 4) está sin stock local al momento de escribir esto.",
     articleBody: `## Qué es el Amazfit Helio Ring
 
 Es el anillo inteligente de Amazfit, la marca de relojes deportivos: titanio, 10 ATM de resistencia al agua y 3,75 g en el talle 10, sin pantalla, con todo el detalle en la app del celular. Cuesta {{precio:MLA58202122}} y tiene {{reviews:MLA58202122}} calificaciones con {{rating:MLA58202122}} estrellas en MercadoLibre Argentina.
 
 ## La diferencia que más plata te ahorra: no cobra suscripción
 
-El [Oura Ring 4](/producto/anillo-inteligente-oura-ring-4-titanio-negro-talle-9-mla66785049), que es la referencia del rubro, cobra una suscripción mensual aparte para desbloquear los puntajes de sueño y las tendencias. El Helio Ring no: pagás el anillo y la app viene incluida.
+El Oura Ring 4, que es la referencia del rubro (aunque hoy sin stock en Argentina), cobra una suscripción mensual aparte para desbloquear los puntajes de sueño y las tendencias. El Helio Ring no: pagás el anillo y la app viene incluida.
 
 Sobre un aparato que se usa años, esa diferencia se acumula y conviene tenerla en la cuenta antes de comparar solo los precios de compra.
 
@@ -6102,7 +6103,7 @@ Para deporte, tiene un límite concreto que también sale de las reseñas: "para
 
 ## Opiniones argentinas en 8 de las 15 más útiles
 
-Vale la pena decirlo porque es raro en este rubro: de las 15 opiniones más útiles de esta publicación, **8 están firmadas en Argentina** y 7 en Brasil. En el [Oura Ring 4](/producto/anillo-inteligente-oura-ring-4-titanio-negro-talle-9-mla66785049), en cambio, las 15 más útiles son todas de otros países.
+Vale la pena decirlo porque es raro en este rubro: de las 15 opiniones más útiles de esta publicación, **8 están firmadas en Argentina** y 7 en Brasil. En el Oura Ring 4, en cambio, las 15 más útiles son todas de otros países.
 
 Cuando una categoría recién arranca en el país, tener reseñas locales cambia bastante lo que podés confiar de la experiencia de compra, la entrega y el soporte.
 
@@ -6110,7 +6111,7 @@ Cuando una categoría recién arranca en el país, tener reseñas locales cambia
 
 El [Ignix K3](/producto/anillo-inteligente-smart-ring-ignix-k3-titanio-5-atm-mla2177777792) cuesta {{preciodif:MLA58202122:MLA2177777792}} menos y publica su tabla de talles desde el 6, pero baja a 5 ATM y sus compradores avisan que mide el ejercicio bastante peor.
 
-El [Oura Ring 4](/producto/anillo-inteligente-oura-ring-4-titanio-negro-talle-9-mla66785049) tiene mejor batería y muchos más talles, pero cuesta {{preciodif:MLA66785049:MLA58202122}} más y le suma la suscripción mensual.
+El Oura Ring 4 tiene mejor batería y muchos más talles, pero cuesta bastante más, le suma la suscripción mensual y está sin stock en Argentina al momento de escribir esto.
 
 ## Para quién es, y para quién no
 
@@ -6133,8 +6134,8 @@ No es para vos si tu medida no entra en esos tres talles, si necesitás que dist
       { label: "Color", value: "Titanio" },
     ],
     faq: [
-      { question: "¿El Amazfit Helio Ring cobra suscripción?", answer: "No. Pagás el anillo una vez y la app viene incluida. Es la diferencia más concreta contra el [Oura Ring 4](/producto/anillo-inteligente-oura-ring-4-titanio-negro-talle-9-mla66785049), que cobra una suscripción mensual aparte para desbloquear los puntajes de sueño y las tendencias." },
-      { question: "¿En qué talles viene?", answer: "Solo en tres: 8, 10 y 12. Es su limitación más seria, porque el [Oura Ring 4](/producto/anillo-inteligente-oura-ring-4-titanio-negro-talle-9-mla66785049) va del 4 al 15. Y hay un detalle a tener en cuenta: un comprador argentino avisa que incluso el talle más chico le quedó grande y tuvo que ponerse otro anillo delante para que no se le saliera." },
+      { question: "¿El Amazfit Helio Ring cobra suscripción?", answer: "No. Pagás el anillo una vez y la app viene incluida. Es la diferencia más concreta contra el Oura Ring 4 (hoy sin stock en Argentina), que cobra una suscripción mensual aparte para desbloquear los puntajes de sueño y las tendencias." },
+      { question: "¿En qué talles viene?", answer: "Solo en tres: 8, 10 y 12. Es su limitación más seria, porque el Oura Ring 4 va del 4 al 15 (aunque hoy no tiene stock local). Y hay un detalle a tener en cuenta: un comprador argentino avisa que incluso el talle más chico le quedó grande y tuvo que ponerse otro anillo delante para que no se le saliera." },
       { question: "¿Cuánto dura realmente la batería?", answer: "Amazfit declara hasta 4 días. Un comprador argentino midió unos 3 días en uso real con la configuración que viene de fábrica. Es la diferencia habitual entre el dato de laboratorio y el uso cotidiano, pero conviene contar 3." },
       { question: "¿Sirve para entrenar?", answer: "Con un límite. Mide pulso, oxígeno, temperatura de la piel y estrés de forma continua, que es lo que un anillo hace bien. Pero para actividad física \"trae solo 4 posibilidades y son muy acotadas\", según un comprador. Si entrenás varias disciplinas y querés que las distinga, un reloj sigue siendo mejor." },
       { question: "¿Se puede nadar con él?", answer: "Sí, tiene 10 ATM según Amazfit, que cubre natación sin problema. Es el doble de lo que aguanta el [Ignix K3](/producto/anillo-inteligente-smart-ring-ignix-k3-titanio-5-atm-mla2177777792), que llega a 5 ATM." },
@@ -6147,13 +6148,13 @@ No es para vos si tu medida no entra en esos tres talles, si necesitás que dist
       { rating: 5, country: "Argentina", date: "febrero 2026", text: "Vale la pena cada centavo si lo que buscas es un monitoreo completo de tus actividades. Es especial para el control del sueño y sus fases y saber cuan óptimo estás para entrenar. El control de la alimentación es sobresaliente." },
       { rating: 5, country: "Argentina", date: "febrero 2026", text: "Muy bueno, muy liviano." },
     ],
-    relatedProducts: ["MLA66785049", "MLA2177777792", "MLA60036543"],
+    relatedProducts: ["MLA2177777792", "MLA60036543"],
     structuredData: {
       "@context": "https://schema.org",
       "@type": "Product",
       name: "Amazfit Helio Ring",
       image: "https://http2.mlstatic.com/D_NQ_NP_620611-MLA108915566170_032026-O.webp",
-      description: "Anillo inteligente Amazfit Helio Ring de titanio: 10 ATM de resistencia al agua, 3,75 g, hasta 4 días de batería y sin suscripción. Solo en talles 8, 10 y 12. 4.8 estrellas con 29 calificaciones en MercadoLibre Argentina.",
+      description: "Anillo inteligente Amazfit Helio Ring de titanio: 10 ATM de resistencia al agua, 3,75 g, hasta 4 días de batería y sin suscripción. Solo en talles 8, 10 y 12. 4.9 estrellas con 29 calificaciones en MercadoLibre Argentina.",
       brand: { "@type": "Brand", name: "Amazfit" },
       offers: {
         "@type": "Offer",
@@ -6166,7 +6167,7 @@ No es para vos si tu medida no entra en esos tres talles, si necesitás que dist
       },
       aggregateRating: {
         "@type": "AggregateRating",
-        ratingValue: "4.8",
+        ratingValue: "4.9",
         reviewCount: "29",
       },
     },
@@ -6195,11 +6196,11 @@ No es para vos si tu medida no entra en esos tres talles, si necesitás que dist
     reviewCount: 47,
     reviewsSampledAt: "2026-08-24",
     pastelColor: "var(--pastel-purple)",
-    visibility: "normal",
+    visibility: "deprioritized",
     priceUpdated: "2026-08-24",
-    priceLastChecked: "2026-08-28",
+    priceLastChecked: "2026-09-04",
     priceVerifiedAt: "2026-08-24",
-    priceStatus: "fresh",
+    priceStatus: "out_of_stock",
     seoTitle: "Oura Ring 4 en Argentina: precio, suscripción y reseñas",
     metaDescription: "Oura Ring 4 a {{precio:MLA66785049}}: titanio, 100 m, 5 a 8 días de batería y talles del 4 al 15. La suscripción mensual y de dónde son realmente sus reseñas.",
     h1: "Oura Ring 4: el anillo de referencia, y las dos letras chicas que nadie te cuenta",
@@ -6310,7 +6311,7 @@ No es para vos si la suscripción mensual te molesta de arranque, si querés lee
         url: "https://meli.la/1pVMd16",
         priceCurrency: "ARS",
         price: 1099999,
-        availability: "https://schema.org/InStock",
+        availability: "https://schema.org/OutOfStock",
         itemCondition: "https://schema.org/NewCondition",
         seller: { "@type": "Organization", name: "MercadoLibre Argentina" },
       },
@@ -8041,7 +8042,7 @@ A $919.599 con 4.9 estrellas en {{reviews:MLA28853185}} calificaciones, es el ul
     id: "MLA51876967",
     title: "Silla Gamer Ergonómica Reclinable Con Apoya Pies Base Giratoria De Cuero Sintético Negro Circle Line CL-GC001",
     canonicalName: "Silla Gamer Circle Line CL-GC001",
-    price: 160049,
+    price: 229999,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_800123-MLA95709041110_102025-O.webp",
     images: [
@@ -8396,7 +8397,7 @@ Comprala si tu problema número uno es el calor y la transpiración, no el ajust
     id: "MLA47084299",
     title: "Silla Gamer Alpina Ergonómica Giratoria Reclinable PRE-FT055 Negro/Rojo Cuero Sintético",
     canonicalName: "Silla Gamer Alpina PRE-FT055",
-    price: 183330,
+    price: 192000,
     originalPrice: 280000,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_929992-MLA100025507743_122025-F.jpg",
@@ -12972,8 +12973,8 @@ El más vendido del país lo es por una razón: cumple lo que promete a un preci
     id: "MLA23096996",
     title: "Horno Eléctrico de Mesa Ultracomb Uc-17 17litros Rojo/Negro 1280W",
     canonicalName: "Horno Eléctrico Ultracomb UC-17 17L",
-    price: 107999,
-    originalPrice: 149999,
+    price: 97999,
+    originalPrice: undefined,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_875168-MLA100055819327_122025-F.jpg",
     images: [
@@ -36460,11 +36461,11 @@ Si el circuito eléctrico es una restricción, el [Atma Pro Doble FRD248AP de 8.
     id: 'MLA53675940',
     title: "Freidora De Aire Philips Phna23100 13 En 1 6.2 L Negra",
     brand: "Philips",
-    price: 183703,
-    priceUpdated: "2026-08-31",
-    priceLastChecked: "2026-09-04",
+    price: 206877,
+    priceUpdated: "2026-09-07",
+    priceLastChecked: "2026-09-07",
     priceStatus: "fresh",
-    originalPrice: undefined,
+    originalPrice: 217766,
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_2X_698984-MLA99980259093_112025-F.webp',
     images: [
@@ -50436,7 +50437,7 @@ No es para vos si: comprás solo con respaldo de opiniones — la Smartlife SL-C
       { question: '¿La Electrolux ECM25 tiene opiniones de compradores?', answer: 'No: es una publicación nueva y todavía no tiene calificaciones. Todo lo que contamos acá sale de la ficha técnica y la descripción oficial — no hay experiencias de usuarios para citar, y no vamos a inventarlas. Si las opiniones te dan tranquilidad, la Smartlife SL-CM1095 es la programable con respaldo del catálogo.' },
       { question: '¿Es de acero inoxidable de verdad?', answer: 'La ficha técnica de MercadoLibre lo confirma: materiales de la estructura, acero inoxidable, con acabado plateado. Es el diferencial frente a las filtro económicas del catálogo, todas de plástico. Además evita el problema clásico de las cafeteras blancas: las manchas de café que no salen del plástico claro.' },
       { question: '¿Se puede programar para que el café esté listo a la mañana?', answer: 'Sí: tiene temporizador integrado que, según la descripción oficial, permite programar el inicio del ciclo de preparación. Es la misma lógica de la Ultracomb CA-2205, pero en cuerpo de acero. El detalle honesto: sin reviews, nadie documentó todavía qué tan fácil o engorroso es configurarlo.' },
-      { question: '¿Qué tipo de café hace?', answer: 'Café de filtro por goteo, el clásico de jarra: cargás agua y café molido, y la máquina gotea la preparación. No tiene bomba de presión, así que no hace espresso ni capuchino. Para espresso real, el catálogo arranca con la Ultracomb CE-6108 a $133.999.' },
+      { question: '¿Qué tipo de café hace?', answer: 'Café de filtro por goteo, el clásico de jarra: cargás agua y café molido, y la máquina gotea la preparación. No tiene bomba de presión, así que no hace espresso ni capuchino. Para espresso real, el catálogo arranca con la Ultracomb CE-6108 a {{precio:MLA36409137}}.' },
       { question: '¿Para cuántas tazas alcanza?', answer: 'La capacidad es de 1,2 litros, que la descripción traduce como múltiples servicios de café por preparación. Está en la misma liga que las jarras de 1,25 L de las Atma: suficiente para una familia o para una mañana entera de trabajo sin repetir el ciclo.' },
       { question: '¿Por qué cuesta más que las Atma si no tiene opiniones?', answer: 'Pagás dos cosas: el cuerpo de acero inoxidable (las Atma son de plástico) y la marca internacional con servicio técnico establecido. Si eso no te importa, la CA8133 a $47.567 con 879 calificaciones es la compra racional. La ECM25 apunta a quien quiere mejor material y diseño en la mesada.' },
       { question: '¿Entra en una mesada chica?', answer: 'Sí: mide 28 cm de alto, 19 cm de largo y 23 cm de ancho según la descripción oficial — formato compacto que entra debajo de las alacenas estándar. Es menos profunda que la Ultracomb CA-2205 (30 cm), un detalle si tu espacio de mesada está contado.' },
@@ -50769,10 +50770,10 @@ A $112.767 con 4.8 estrellas, es la filtro para comprar una sola vez: la jarra d
   {
     id: 'MLA36409137',
     title: 'Cafetera express Ultracomb CE-6108 15 bar roja',
-    price: 132706,
-    originalPrice: undefined,
-    priceUpdated: "2026-08-31",
-    priceLastChecked: "2026-09-04",
+    price: 173922,
+    originalPrice: 281363,
+    priceUpdated: "2026-09-07",
+    priceLastChecked: "2026-09-07",
     priceStatus: "fresh",
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_693732-MLA106780579790_022026-F.jpg',
@@ -50792,12 +50793,12 @@ A $112.767 con 4.8 estrellas, es la filtro para comprar una sola vez: la jarra d
     rating: 4.6,
     reviewCount: 367,
     pastelColor: 'var(--pastel-coral)',
-    description: 'Cafetera express Ultracomb CE-6108: el espresso real más barato del catálogo. Bomba de presión de acero inoxidable de 15 bares, boquilla de vapor para espumar leche y capacidad para uno o dos pocillos por extracción. Con 4.6 estrellas en {{reviews:MLA36409137}} calificaciones, es la puerta de entrada al espresso de verdad por $133.999 — menos de la mitad que una Oster.',
+    description: 'Cafetera express Ultracomb CE-6108: el espresso real más barato del catálogo. Bomba de presión de acero inoxidable de 15 bares, boquilla de vapor para espumar leche y capacidad para uno o dos pocillos por extracción. Con 4.6 estrellas en {{reviews:MLA36409137}} calificaciones, es la puerta de entrada al espresso de verdad por {{precio:MLA36409137}} — menos de la mitad que una Oster.',
     aiReviewSummary: 'La describen como económica, robusta y fácil de usar una vez que le encontrás el punto: hay quien la usa a diario en una oficina con varios empleados. Calienta enseguida y saca dos pocillos rápido. Las críticas honestas: no corta sola, la bomba es ruidosa y vibra, las tazas grandes no entran sin sacar la bandeja, y el espumador es difícil de limpiar y espuma menos que otros.',
     seoTitle: 'Cafetera express Ultracomb CE-6108: ¿el espresso más barato?',
-    metaDescription: 'El espresso más barato del catálogo: Ultracomb CE-6108 a $133.999, 15 bares y 4.6★ en {{reviews:MLA36409137}} opiniones. Qué hace bien, qué critican y la verdad sobre los bares.',
+    metaDescription: 'El espresso más barato del catálogo: Ultracomb CE-6108 a {{precio:MLA36409137}}, 15 bares y 4.6★ en {{reviews:MLA36409137}} opiniones. Qué hace bien, qué critican y la verdad sobre los bares.',
     ogTitle: 'Ultracomb CE-6108: espresso con crema en casa sin fundirte',
-    ogDescription: 'Probar espresso real cuesta $133.999 con esta express de 15 bares y 4.6★. Lo que elogian 211 compradores y las mañas que tiene, contado sin vueltas.',
+    ogDescription: 'Probar espresso real cuesta {{precio:MLA36409137}} con esta express de 15 bares y 4.6★. Lo que elogian 211 compradores y las mañas que tiene, contado sin vueltas.',
     h1: 'Cafetera express Ultracomb CE-6108: el espresso real más barato del catálogo',
     pros: [
       '4.6⭐ con {{reviews:MLA36409137}} calificaciones: el espresso más barato del catálogo, probado por cientos',
@@ -50814,10 +50815,10 @@ A $112.767 con 4.8 estrellas, es la filtro para comprar una sola vez: la jarra d
       'El espumador es difícil de limpiar y espuma menos que otros, según un comprador',
       'Tiene curva de aprendizaje: varias reviews recomiendan leer el manual o ver un video antes del primer café',
     ],
-    verdict: 'El espresso real más barato del catálogo: 15 bares, espumador y {{reviews:MLA36409137}} calificaciones por $133.999. Pide paciencia para encontrarle el punto y no corta sola, pero como primera express para probar si el ritual es para vos, es difícil de superar en precio.',
+    verdict: 'El espresso real más barato del catálogo: 15 bares, espumador y {{reviews:MLA36409137}} calificaciones por {{precio:MLA36409137}}. Pide paciencia para encontrarle el punto y no corta sola, pero como primera express para probar si el ritual es para vos, es difícil de superar en precio.',
     articleBody: `## El espresso real más barato del catálogo
 
-La Ultracomb CE-6108 es una cafetera express semiautomática de 15 bares que cuesta $133.999: la forma más barata de hacer espresso de verdad en este catálogo. Junta 4.6 estrellas en {{reviews:MLA36409137}} calificaciones, prepara uno o dos pocillos por extracción e incluye boquilla de vapor para espumar leche.
+La Ultracomb CE-6108 es una cafetera express semiautomática de 15 bares que cuesta {{precio:MLA36409137}}: la forma más barata de hacer espresso de verdad en este catálogo. Junta 4.6 estrellas en {{reviews:MLA36409137}} calificaciones, prepara uno o dos pocillos por extracción e incluye boquilla de vapor para espumar leche.
 
 ## ¿15 o 19 bares? La corrección
 
@@ -50851,7 +50852,7 @@ El salto de marca es la [Oster BVSTEM5501B](/producto/cafetera-espresso-oster-bv
 
 ## ¿Para quién es la CE-6108 (y para quién no)?
 
-Es para vos si: querés probar el espresso de verdad — con crema, con ritual, con portafiltro — gastando lo mínimo, y no te asusta ver un video de YouTube antes del primer café. A $133.999 con {{reviews:MLA36409137}} calificaciones, es la entrada más barata y probada a la categoría.
+Es para vos si: querés probar el espresso de verdad — con crema, con ritual, con portafiltro — gastando lo mínimo, y no te asusta ver un video de YouTube antes del primer café. A {{precio:MLA36409137}} con {{reviews:MLA36409137}} calificaciones, es la entrada más barata y probada a la categoría.
 
 No es para vos si: querés apretar un botón y listo (mirá las cafeteras de cápsulas o las filtro programables), tomás siempre en tazas grandes sin paciencia para sacar la bandeja, o el ruido de la bomba en una cocina abierta te va a molestar. Y si el presupuesto da, la Oster duplica el precio pero suma comodidades.`,
     specs: [
@@ -50883,8 +50884,8 @@ No es para vos si: querés apretar un botón y listo (mirá las cafeteras de cá
       { question: '¿Usa cápsulas?', answer: 'No: funciona exclusivamente con café molido, con contenedor para uno o dos pocillos. La ficha lo confirma ("cápsulas compatibles: No"). Si buscás la comodidad de las cápsulas, en el catálogo están las Dolce Gusto y Nespresso; si querés el ritual del espresso real, esta es la entrada más barata.' },
       { question: '¿Es difícil de usar?', answer: 'Tiene curva de aprendizaje, y las reviews lo admiten con humor: "la primera vez que la usé me estresé un poco, tuve que ver un video en YouTube". El consejo repetido: leer el manual o mirar un tutorial antes del primer café. La recompensa, según un comprador: "una vez que le encontrás el punto es bárbara".' },
       { question: '¿Es ruidosa?', answer: 'La bomba es potente y eso se escucha: "un poquito ruidosa y vibradora", describe la review que la usa a diario en una oficina — y aclara que es precisamente porque es robusta. Son segundos de extracción, no un ruido constante, pero en una cocina abierta de madrugada se nota.' },
-      { question: '¿Aguanta uso intensivo?', answer: 'El mejor dato de durabilidad viene de una review de 5 estrellas: la compró para su casa porque es la misma que usan en su trabajo, "permanentemente y somos varios empleados". Para una express de $133.999, que haya una sobreviviendo al uso de oficina es más valioso que cualquier spec.' },
-      { question: '¿Conviene esta o una express de marca más conocida?', answer: 'Depende del presupuesto. La CE-6108 ($133.999) hace espresso real con 15 bares y 4.6 de rating. La Oster BVSTEM5501B ($289.999) suma espumador con depósito de leche, estructura de acero y marca, a más del doble. Si es tu primera express y no sabés si el ritual es para vos, arrancá barato.' },
+      { question: '¿Aguanta uso intensivo?', answer: 'El mejor dato de durabilidad viene de una review de 5 estrellas: la compró para su casa porque es la misma que usan en su trabajo, "permanentemente y somos varios empleados". Para una express de {{precio:MLA36409137}}, que haya una sobreviviendo al uso de oficina es más valioso que cualquier spec.' },
+      { question: '¿Conviene esta o una express de marca más conocida?', answer: 'Depende del presupuesto. La CE-6108 ({{precio:MLA36409137}}) hace espresso real con 15 bares y 4.6 de rating. La Oster BVSTEM5501B ($289.999) suma espumador con depósito de leche, estructura de acero y marca, a más del doble. Si es tu primera express y no sabés si el ritual es para vos, arrancá barato.' },
     ],
     customerReviews: [
       { rating: 5, country: 'Argentina', date: 'enero 2018', useful: 412, text: 'La cafetera es excelente. No tiene altura suficiente como para poner jarros de capuchino ni sacando la bandeja para derrames, pero igual se pueden hacer tranquilamente porque se puede poner una jarra con pico para hacer el café y así se agrega el café a los jarros de capuchino. El pico facilita el agregado del café al jarro y siempre queda entre la leche y la espuma. Se preparan rápido porque la cafetera calienta enseguida, lo que también permite sacar de a dos pocillos, jarritos americanos o cualquier taza de esas medidas rápidamente.' },
@@ -63812,7 +63813,8 @@ Comprá la Ultracomb YG-2712V si priorizás la mayor cantidad de frascos y una p
     id: "MLA19761025",
     title: "Termo Stanley Original Mate System Classic 1.2 Litros",
     canonicalName: "Termo Stanley Mate System Classic 1,2L",
-    price: 184000,
+    price: 144000,
+    originalPrice: 160000,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_Q_NP_890141-MLA113708481777_062026-F.webp",
     images: [
