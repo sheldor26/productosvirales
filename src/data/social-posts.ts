@@ -1809,4 +1809,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "50",
     postedAt: "2026-09-07T16:15:47-03:00",
   },
+  {
+    title: "Termotanque a Gas Multigas Señorial 85L",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_706798-MLA97509884274_112025-O.webp",
+    affiliateUrl: "https://meli.la/32LtPmK",
+    newPrice: "430.541",
+    oldPrice: "545.690",
+    offPct: "21",
+    postedAt: "2026-09-07T16:22:19-03:00",
+  },
 ];

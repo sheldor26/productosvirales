@@ -127,6 +127,7 @@ negro — tienen precio de lista distinto).
 | Kit 2 Cámaras Seguridad Geotek IP 6MP WiFi | $123.556 | 2026-09-07 | meli.la/2Q8DFi6 — sin referencia previa, primera cámara de seguridad en el sitio (categoría nueva), MÁS VENDIDO/OFERTA DEL DÍA, 4.8★ (11.959 op.!), +10 mil vendidos, "1° en Cámaras de Seguridad" (general), Tienda oficial GEOTEK, envío FULL |
 | Aire Acondicionado Split Samsung Inverter 4500F Frío/Calor (AR40F18) | $1.105.837 | 2026-09-07 | meli.la/2e4nezK — sin referencia previa, primer AC Samsung en el sitio (antes solo Philco), MÁS VENDIDO, 4.8★ (489 op.), +1000 vendidos, "13° en Aires Acondicionados" (general), Tienda oficial Samsung. Cupón ML "CYBERKILLER" (10% OFF, mínima $40.000, tope $30.000, vence 2026-09-07 23:59) queda en $1.075.837, verificado en vivo agregando al carrito e ingresando el código — esa parte no es referencia estable (vence hoy) |
 | Parlante Portátil Soundcore by Anker Select 3 | $53.990 | 2026-09-07 | meli.la/2qMM2wY — sin referencia previa, marca distinta al JBL Boombox 3 de la fila de arriba, OFERTA IMPERDIBLE, 4.8★ (152 op.), +1000 vendidos, "3° en Parlantes Portátiles" (general), Tienda oficial Anker, envío FULL |
+| Termotanque a Gas Multigas Señorial 85L (TTS-85) | $430.541 | 2026-09-07 | meli.la/32LtPmK — sin referencia previa, primera categoría de termotanques en el sitio, OFERTA IMPERDIBLE, 4.6★ (634 op.), +5 mil vendidos, "8° en Termotanques" (general), Tienda oficial Ecomodico |
 
 ## Pequeños electrodomésticos
 
