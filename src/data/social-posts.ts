@@ -1829,4 +1829,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "35",
     postedAt: "2026-09-07T16:42:31-03:00",
   },
+  {
+    title: "Freezer De Pozo Telefunken 50L",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_622145-MLA99929754875_112025-O.webp",
+    affiliateUrl: "https://meli.la/2GFsLbo",
+    newPrice: "321.503",
+    oldPrice: "509.999",
+    offPct: "36",
+    postedAt: "2026-09-07T17:20:46-03:00",
+  },
 ];

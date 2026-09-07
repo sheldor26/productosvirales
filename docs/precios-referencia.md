@@ -129,6 +129,7 @@ negro — tienen precio de lista distinto).
 | Parlante Portátil Soundcore by Anker Select 3 | $53.990 | 2026-09-07 | meli.la/2qMM2wY — sin referencia previa, marca distinta al JBL Boombox 3 de la fila de arriba, OFERTA IMPERDIBLE, 4.8★ (152 op.), +1000 vendidos, "3° en Parlantes Portátiles" (general), Tienda oficial Anker, envío FULL |
 | Termotanque a Gas Multigas Señorial 85L (TTS-85) | $430.541 | 2026-09-07 | meli.la/32LtPmK — sin referencia previa, primera categoría de termotanques en el sitio, OFERTA IMPERDIBLE, 4.6★ (634 op.), +5 mil vendidos, "8° en Termotanques" (general), Tienda oficial Ecomodico |
 | Dispenser de Agua Frío/Calor Frimax Premium | $266.499 | 2026-09-07 | meli.la/2NR8NpP — sin referencia previa, primera categoría de dispensadores de agua en el sitio, MÁS VENDIDO, 4.8★ (585 op.), +5 mil vendidos, "14° en Dispensadores de Agua" (general), Tienda oficial FRIMAX HOME |
+| Freezer De Pozo Telefunken 50L (TFK-FP50) | $321.503 | 2026-09-07 | meli.la/2GFsLbo — sin referencia previa, distinto de los Freezer Gafa (200L/316L) ya posteados, marca Telefunken nueva en el sitio, OFERTA IMPERDIBLE, 4.8★ (976 op.), +1000 vendidos, "6° en Freezers" (general), Tienda oficial Electro Point |
 
 ## Pequeños electrodomésticos
 
