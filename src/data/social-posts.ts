@@ -1739,4 +1739,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "25",
     postedAt: "2026-09-07T10:16:51-03:00",
   },
+  {
+    title: "Control DualSense PS5 Volcanic Rojo",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_944000-MLA99504547436_112025-O.webp",
+    affiliateUrl: "https://meli.la/1g6UGcu",
+    newPrice: "163.499",
+    oldPrice: "249.999",
+    offPct: "34",
+    postedAt: "2026-09-07T10:47:39-03:00",
+  },
 ];

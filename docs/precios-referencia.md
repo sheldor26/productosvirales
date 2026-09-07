@@ -22,6 +22,7 @@ negro — tienen precio de lista distinto).
 | Consola PS5 Digital/Slim + Astro Bot + GT7 (bundle) | **$1.429.899** | 2026-09-01 | meli.la/2uDAPvb — bajó desde $1.499.999 (25/8); con cupón CYBERPLAY (vence hoy 23:59, tope $100.000) queda en $1.329.899, esa parte no es referencia estable |
 | Control DualSense estándar (negro/blanco, sin edición especial) | **$109.999** | 2026-08-14 | meli.la/2eXut3S |
 | Control DualSense edición especial (Perla Chroma u otro color premium) | $203.299 | 2026-08-28 | meli.la/18GRRfv — sin referencia previa, primera vez que se postea esta variante |
+| Control DualSense Volcanic Rojo | $163.499 | 2026-09-07 | meli.la/1g6UGcu — sin referencia previa, color/edición distinta a las ya posteadas (Perla Chroma, 30 Años), MÁS VENDIDO, 4.9★ (91.390 op. — ficha genérica del modelo, acumula reseñas de todos los colores), +1000 vendidos, "2° en Gamepads y Joysticks" (general), Tienda oficial D DINATECH |
 | Silla Gamer Alpina Ergonómica | **$147.052** | 2026-08-13 | meli.la/1PZmsVB |
 | Meta Quest 3s 128GB VR Standalone/PC | $930.999 | 2026-09-01 | https://www.mercadolibre.com.ar/meta-quest-3s-128gb-standalonepc-vr-realidad-aumentada/p/MLA52904889 — sin referencia previa. Con cupón CYBERPLAY (vence hoy 23:59) queda en $837.899, esa parte no es referencia estable |
 | Monitor Gamer ViewSonic 27" VX2729 200Hz | $250.680 | 2026-08-28 | meli.la/15AWXst — sin referencia previa |
