@@ -124,6 +124,7 @@ negro — tienen precio de lista distinto).
 | Notebook HP 15-fd0331la Intel Core 3 8GB/512GB | $937.199 | 2026-09-07 | meli.la/1xNs8Ek — sin referencia previa, modelo distinto a los HP 255r ya posteados (línea 15-fd, Intel Core 3 en vez de AMD Ryzen), Tienda oficial HP, OFERTA IMPERDIBLE, 4.9★ (101 op.), +500 vendidos |
 | Smart TV Samsung 65" 4K UHD HDR PurColor (65U8000F) | $1.199.999 | 2026-09-07 | meli.la/16Tnkzz — sin referencia previa, modelo distinto a los Samsung QLED Q6F 55" y Crystal UHD 50"/65" ya posteados, Tienda oficial Samsung (+1M ventas), OFERTA IMPERDIBLE, 4.8★ (365 op.), +1000 vendidos |
 | Lavarropas Samsung Inverter Carga Frontal 9.5kg (WW95AA046BWUBG) | $1.009.499 | 2026-09-07 | meli.la/2kevoRH — sin referencia previa, primer lavarropas Samsung en el sitio (antes solo Whirlpool/Midea), "Mejor precio" vendido por Tienda oficial Naldo (no Samsung directo), OFERTA IMPERDIBLE, 4.9★ (1184 op.), +1000 vendidos, Ecobubble, 10 años de garantía en el motor |
+| Kit 2 Cámaras Seguridad Geotek IP 6MP WiFi | $123.556 | 2026-09-07 | meli.la/2Q8DFi6 — sin referencia previa, primera cámara de seguridad en el sitio (categoría nueva), MÁS VENDIDO/OFERTA DEL DÍA, 4.8★ (11.959 op.!), +10 mil vendidos, "1° en Cámaras de Seguridad" (general), Tienda oficial GEOTEK, envío FULL |
 
 ## Pequeños electrodomésticos
 
