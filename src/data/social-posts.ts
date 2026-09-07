@@ -1819,4 +1819,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "21",
     postedAt: "2026-09-07T16:22:19-03:00",
   },
+  {
+    title: "Dispenser de Agua Frío/Calor Frimax Premium",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_922652-MLA117140597243_092026-O.webp",
+    affiliateUrl: "https://meli.la/2NR8NpP",
+    newPrice: "266.499",
+    oldPrice: "409.999",
+    offPct: "35",
+    postedAt: "2026-09-07T16:42:31-03:00",
+  },
 ];
