@@ -1889,4 +1889,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "52",
     postedAt: "2026-09-07T19:22:31-03:00",
   },
+  {
+    title: "Impresora Multifunción Pantum M6559NW WiFi",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_631449-MLA108015890067_032026-O.webp",
+    affiliateUrl: "https://meli.la/2LDjirF",
+    newPrice: "261.998",
+    oldPrice: "475.999",
+    offPct: "44",
+    postedAt: "2026-09-07T19:46:13-03:00",
+  },
 ];

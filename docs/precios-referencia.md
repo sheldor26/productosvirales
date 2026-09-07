@@ -134,6 +134,7 @@ negro — tienen precio de lista distinto).
 | Tablet Xiaomi Redmi Pad 2 11" 128GB | $399.999 | 2026-09-07 | meli.la/1HSpdAY — sin referencia previa, marca distinta a la Tablet Lenovo Idea Tab de la fila de arriba, OFERTA IMPERDIBLE, 4.9★ (2216 op.), +1000 vendidos, "7° en Tablets" (general), Tienda oficial Aurus, envío FULL |
 | Disco Duro Externo Seagate Expansion 4TB (STKM4000400) | $308.999 | 2026-09-07 | meli.la/1uC32HS — sin referencia previa, primera categoría de almacenamiento externo en el sitio, OFERTA IMPERDIBLE, 4.8★ (2530 op.), +10 mil vendidos, "12° en Discos Rígidos y SSDs" (general), "Mejor precio" vendido por Tienda oficial Acuario Insumos y Tecnología |
 | PC de Escritorio Completa i5 16GB/240GB + Monitor 19" | $572.828 | 2026-09-07 | meli.la/1uQiDtT — sin referencia previa, PC de oficina/hogar (no gaming, distinta de los PC Gamer de la sección Gaming), incluye monitor+teclado+mouse, Tienda GrupoTecno, ¡ÚLTIMA UNIDAD! confirmada en vivo, 4.6★ (106 op.), +100 vendidos |
+| Impresora Multifunción Pantum M6559NW WiFi | $261.998 | 2026-09-07 | meli.la/2LDjirF — sin referencia previa, marca distinta a las HP ya posteadas, MÁS VENDIDO, 4.7★ (735 op.), +1000 vendidos, ¡ÚLTIMAS 2 UNIDADES! confirmadas en vivo, "Mejor precio" ya seleccionado |
 
 ## Pequeños electrodomésticos
 
