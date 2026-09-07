@@ -1729,4 +1729,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "23",
     postedAt: "2026-09-07T09:44:33-03:00",
   },
+  {
+    title: "Lavarropas Samsung Inverter Carga Frontal 9.5kg",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_646739-MLA108870024921_032026-O.webp",
+    affiliateUrl: "https://meli.la/2kevoRH",
+    newPrice: "1.009.499",
+    oldPrice: "1.345.999",
+    offPct: "25",
+    postedAt: "2026-09-07T10:16:51-03:00",
+  },
 ];
