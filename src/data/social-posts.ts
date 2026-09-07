@@ -1869,4 +1869,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "17",
     postedAt: "2026-09-07T19:00:31-03:00",
   },
+  {
+    title: "Pistola Masajeadora Gadnic 30 Velocidades",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_978462-MLA113987338714_072026-O.webp",
+    affiliateUrl: "https://meli.la/1CpvjBH",
+    newPrice: "73.539",
+    oldPrice: "120.899",
+    offPct: "39",
+    postedAt: "2026-09-07T19:19:56-03:00",
+  },
 ];
