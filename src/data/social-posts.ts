@@ -1899,4 +1899,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "44",
     postedAt: "2026-09-07T19:46:13-03:00",
   },
+  {
+    title: "Placa de Video Asus Prime RTX 5060 Ti OC 8GB",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_645077-MLA96868694463_102025-O.webp",
+    affiliateUrl: "https://meli.la/1eH5ncA",
+    newPrice: "965.092",
+    oldPrice: "1.499.999",
+    offPct: "35",
+    postedAt: "2026-09-07T20:01:47-03:00",
+  },
 ];
