@@ -2871,7 +2871,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
         [`[Redragon Kumara K552](https://meli.la/1WJcMxC)`, `{{precio:MLA16369071}}`, `Mecánico (ruidoso)`, `TKL`, `El más vendido (en español)`],
         [`[HyperX Alloy Core](https://meli.la/21e4ujZ)`, `{{precio:MLA14075573}}`, `Membrana`, `Full`, `Silencioso y económico, en español`],
         [`[Logitech G213](https://meli.la/11qvS6t)`, `{{precio:MLA8906508}}`, `Membrana`, `Full`, `Resistente a líquidos`],
-        [`[Redragon Horus K622](https://meli.la/19edjTZ)`, `$87.990`, `Mecánico (red)`, `TKL`, `Mecánico silencioso en español`],
+        [`[Redragon Horus K622](https://meli.la/19edjTZ)`, `{{precio:MLA19893399}}`, `Mecánico (red)`, `TKL`, `Mecánico silencioso en español`],
         [`[Razer Huntsman Mini](https://meli.la/2cJvkJf)`, `{{precio:MLA16085611}}`, `Mecánico óptico`, `60%`, `Premium competitivo`],
       ] },
 
@@ -10297,7 +10297,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     category: "masajeadores",
     title: `Masajeador Gadnic: cuál comprar en Argentina [2026]`,
     seoTitle: `Masajeador Gadnic: precios y cuál comprar en Argentina 2026`,
-    metaDescription: `Toda la línea de masajeadores Gadnic comparada: el cervical Cedro de 9.455 reseñas, la pistola Gunax y el asiento. Precios reales y cuál conviene según tu caso.`,
+    metaDescription: `Toda la línea de masajeadores Gadnic comparada: el cervical Cedro de {{reviews:MLA18961711}} reseñas, la pistola Gunax y el asiento. Precios reales y cuál conviene según tu caso.`,
     ogTitle: `Masajeador Gadnic: cuál conviene de toda la línea`,
     ogDescription: `La marca de masajeadores más buscada de Argentina, modelo por modelo: cervicales, pistola, asiento y ejercitador de piernas. Análisis honesto con precios reales.`,
     h1: `Masajeador Gadnic: cuál conviene de toda la línea`,
@@ -10305,9 +10305,9 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     updatedDate: "2026-06-28",
     hasDisclosure: true,
     readingTime: 10,
-    standfirst: `Gadnic es la marca de masajeadores más buscada en Mercado Libre Argentina. Su catálogo va del cervical de $50.999 con casi 10.000 reseñas hasta el asiento y la pistola. Acá te ordenamos cuál es cuál, qué hace bien cada uno y para quién conviene.`,
+    standfirst: `Gadnic es la marca de masajeadores más buscada en Mercado Libre Argentina. Su catálogo va del cervical de {{precio:MLA18961711}} con casi 29.000 reseñas hasta el asiento y la pistola. Acá te ordenamos cuál es cuál, qué hace bien cada uno y para quién conviene.`,
     quickPicks: [
-      { productMlaId: "MLA18961711", label: "Mejor en general", labelColor: "green", tagline: "El cervical Cedro: 9.455 reseñas a 4.8 por {{precio:MLA18961711}}" },
+      { productMlaId: "MLA18961711", label: "Mejor en general", labelColor: "green", tagline: "El cervical Cedro: {{reviews:MLA18961711}} reseñas a {{rating:MLA18961711}} por {{precio:MLA18961711}}" },
       { productMlaId: "MLA22138401", label: "Para contracturas", labelColor: "amber", tagline: "La pistola Gunax recargable con 4 cabezales" },
       { productMlaId: "MLA19043353", label: "Cervical + lumbar", labelColor: "blue", tagline: "Llega también a la zona baja de la espalda" },
     ],
@@ -10323,13 +10323,13 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
 
       { type: "h2", title: `Gadnic en masajeadores: qué esperar de la marca`, id: "la-marca" },
       { type: "p", content: `Gadnic es una marca argentina que importa y vende directo, sobre todo online. Eso le permite precios más bajos que las marcas internacionales, a cambio de un detalle que conviene saber: la mayoría de sus productos son de origen chino rebrandeados, algo habitual en este segmento. No es bueno ni malo en sí mismo; significa que la calidad depende del modelo puntual, no de la marca como un todo.` },
-      { type: "p", content: `Y eso se ve clarísimo en los números. Sus masajeadores cervicales son de lo mejor puntuado del nicho: el Cedro tiene 4.8 estrellas con 9.455 calificaciones, algo que ninguna otra marca del catálogo se acerca. Pero el asiento de vibración baja a 4.1. Por eso esta guía no te dice "comprá Gadnic" en abstracto: te dice cuál de sus masajeadores conviene y cuál saltear.` },
+      { type: "p", content: `Y eso se ve clarísimo en los números. Sus masajeadores cervicales son de lo mejor puntuado del nicho: el Cedro tiene {{rating:MLA18961711}} estrellas con {{reviews:MLA18961711}} calificaciones, algo que ninguna otra marca del catálogo se acerca. Pero el asiento de vibración baja a 4.1. Por eso esta guía no te dice "comprá Gadnic" en abstracto: te dice cuál de sus masajeadores conviene y cuál saltear.` },
 
       { type: "h2", title: `La línea Gadnic, modelo por modelo`, id: "ranking" },
 
       { type: "h3", title: `1. Gadnic Cedro — el cervical más vendido` },
-      { type: "product-card", productMlaId: "MLA18961711", label: "Mejor en general", labelColor: "green", ranking: 1, description: `Cervical shiatsu de 8 nodos bidireccionales con calor infrarrojo, 24W. 4.8 estrellas con 9.455 calificaciones por {{precio:MLA18961711}}: el masajeador más probado del catálogo.` },
-      { type: "p", content: `Es el masajeador Gadnic que recomendamos a la mayoría, y las 9.455 calificaciones explican por qué. Por $50.999 te da **8 nodos shiatsu que giran en los dos sentidos**, calor infrarrojo, apagado automático y protección contra sobrecalentamiento. Ataca justo la zona donde casi todos acumulamos tensión: el cuello y los trapecios. Viene con adaptador de 12V, así que también lo usás en el auto.` },
+      { type: "product-card", productMlaId: "MLA18961711", label: "Mejor en general", labelColor: "green", ranking: 1, description: `Cervical shiatsu de 8 nodos bidireccionales con calor infrarrojo, 24W. {{rating:MLA18961711}} estrellas con {{reviews:MLA18961711}} calificaciones por {{precio:MLA18961711}}: el masajeador más probado del catálogo.` },
+      { type: "p", content: `Es el masajeador Gadnic que recomendamos a la mayoría, y las {{reviews:MLA18961711}} calificaciones explican por qué. Por {{precio:MLA18961711}} te da **8 nodos shiatsu que giran en los dos sentidos**, calor infrarrojo, apagado automático y protección contra sobrecalentamiento. Ataca justo la zona donde casi todos acumulamos tensión: el cuello y los trapecios. Viene con adaptador de 12V, así que también lo usás en el auto.` },
       { type: "p", content: `Lo honesto: funciona enchufado, no es a batería, así que no es tan libre como un cervical inalámbrico. Y llega al cuello y la espalda alta, no a la zona lumbar ni a la espalda completa. Para esa zona necesitás otro modelo de la misma línea. Pero como puerta de entrada a Gadnic y como cervical calidad-precio, es difícil de superar en Argentina.` },
 
       { type: "h3", title: `2. Gadnic Gunax — la pistola masajeadora` },
@@ -10338,9 +10338,9 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "p", content: `Lo honesto: la ficha no aclara el tipo de motor (lo más probable es que sea brushed, no brushless), y 3 velocidades es lo justo. Si el ruido y la durabilidad te importan, conviene comparar contra una brushless antes de decidir. Tenés el análisis a fondo en la [guía de pistola masajeadora](/guias/pistola-masajeadora).` },
 
       { type: "h3", title: `3. Gadnic 8 nodos cervical y lumbar — más alcance` },
-      { type: "product-card", productMlaId: "MLA19043353", label: "Cervical + lumbar", labelColor: "blue", ranking: 3, description: `Hermano mayor del Cedro: mismos 8 nodos shiatsu y calor infrarrojo, pero suma vibración y llega a la zona lumbar. 4.7 estrellas en 1.320 calificaciones, {{precio:MLA19043353}}.` },
+      { type: "product-card", productMlaId: "MLA19043353", label: "Cervical + lumbar", labelColor: "blue", ranking: 3, description: `Hermano mayor del Cedro: mismos 8 nodos shiatsu y calor infrarrojo, pero suma vibración y llega a la zona lumbar. {{rating:MLA19043353}} estrellas en {{reviews:MLA19043353}} calificaciones, {{precio:MLA19043353}}.` },
       { type: "p", content: `Es el Cedro con más alcance: mantiene los **8 nodos shiatsu bidireccionales y el calor infrarrojo**, agrega sistema de vibración y, sobre todo, llega a la **zona lumbar**, no solo al cuello. Si la tensión la sentís también más abajo de la espalda, este es el de la línea que la cubre.` },
-      { type: "p", content: `Lo honesto: cuesta $20.000 más que el Cedro y tiene bastantes menos reseñas (1.320 contra 9.455), aunque su 4.7 sigue siendo muy bueno. Si tu molestia es puramente de cuello, el Cedro te ahorra plata y tiene más respaldo de opiniones. Pagás la diferencia solo si querés la cobertura lumbar.` },
+      { type: "p", content: `Lo honesto: cuesta {{preciodif:MLA18961711:MLA19043353}} menos que el Cedro, pero tiene bastantes menos reseñas ({{reviews:MLA19043353}} contra {{reviews:MLA18961711}}), aunque su {{rating:MLA19043353}} sigue siendo muy bueno. Elegí este modelo si necesitás la cobertura lumbar: el menor precio hoy es un plus, pero el Cedro sigue ganando por respaldo de opiniones.` },
 
       { type: "h3", title: `4. Gadnic Acacia — el asiento con shiatsu para toda la espalda` },
       { type: "product-card", productMlaId: "MLA21263803", label: "Espalda completa", labelColor: "purple", ranking: 4, description: `Asiento premium con masaje shiatsu (nodos rotatorios), vibración y calor, del cuello a los glúteos. Sirve en auto, oficina y sofá. 4.7 estrellas en 282 calificaciones, ~{{precio:MLA21263803:k}}.` },
@@ -10354,21 +10354,21 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
 
       { type: "h2", title: `Tabla comparativa: la línea Gadnic`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Tipo`, `Zona`, `Rating`], rows: [
-        [`[Gadnic Cedro](https://meli.la/21bCTeS)`, `{{precio:MLA18961711}}`, `Shiatsu + calor`, `Cuello, espalda alta`, `4.8 (9.455)`],
+        [`[Gadnic Cedro](https://meli.la/21bCTeS)`, `{{precio:MLA18961711}}`, `Shiatsu + calor`, `Cuello, espalda alta`, `{{rating:MLA18961711}} ({{reviews:MLA18961711}})`],
         [`[Gadnic Gunax](https://meli.la/16Cf8XR)`, `{{precio:MLA22138401}}`, `Pistola percusión`, `Músculos grandes`, `4.6 (187)`],
-        [`[Gadnic 8 nodos lumbar](https://meli.la/1KvJsz4)`, `{{precio:MLA19043353}}`, `Shiatsu + vibración`, `Cuello y lumbar`, `4.7 (1.320)`],
+        [`[Gadnic 8 nodos lumbar](https://meli.la/1KvJsz4)`, `{{precio:MLA19043353}}`, `Shiatsu + vibración`, `Cuello y lumbar`, `{{rating:MLA19043353}} ({{reviews:MLA19043353}})`],
         [`[Gadnic Acacia asiento](https://meli.la/26bbbro)`, `~{{precio:MLA21263803:k}}`, `Shiatsu + calor`, `Espalda completa`, `4.7 (282)`],
         [`[Gadnic Healthy Leg](https://meli.la/2J1FnpN)`, `{{precio:MLA24043083}}`, `Ejercitador piernas`, `Piernas, circulación`, `4.6 (689)`],
       ] },
 
       { type: "h2", title: `Cómo elegir tu masajeador Gadnic`, id: "como-elegir" },
-      { type: "p", content: `Empezá por la zona que te molesta. Si es el **cuello y los hombros** (el caso más común, típico de estar frente a la pantalla), el Cedro es la elección obvia: barato, shiatsu real y casi 10.000 reseñas. Si la tensión baja hasta la **zona lumbar**, subí al modelo de 8 nodos cervical y lumbar.` },
+      { type: "p", content: `Empezá por la zona que te molesta. Si es el **cuello y los hombros** (el caso más común, típico de estar frente a la pantalla), el Cedro es la elección obvia: barato, shiatsu real y casi 29.000 reseñas. Si la tensión baja hasta la **zona lumbar**, subí al modelo de 8 nodos cervical y lumbar.` },
       { type: "p", content: `Si tu tema son **contracturas duras o entrenás**, ninguna almohadilla te va a dar la presión de una pistola: ahí va la Gunax. Si querés cubrir **toda la espalda con presión real** mientras trabajás o manejás, el asiento Acacia con shiatsu, sabiendo que es el más caro de la guía. Y si buscás **mover las piernas** por circulación, el Healthy Leg, que es otra cosa.` },
-      { type: "callout", calloutVariant: "tip", calloutTitle: "La regla rápida con Gadnic", content: `Sus cervicales son la apuesta segura: ratings altísimos, miles de reseñas y precios bajos. El Cedro a $50.999 resuelve el dolor más común y es el mejor punto de partida para la marca. El asiento Acacia es otra liga de precio (~$438.000): solo si querés shiatsu para toda la espalda y el presupuesto te da.` },
+      { type: "callout", calloutVariant: "tip", calloutTitle: "La regla rápida con Gadnic", content: `Sus cervicales son la apuesta segura: ratings altísimos, miles de reseñas y precios bajos. El Cedro a {{precio:MLA18961711}} resuelve el dolor más común y es el mejor punto de partida para la marca. El asiento Acacia es otra liga de precio (~$438.000): solo si querés shiatsu para toda la espalda y el presupuesto te da.` },
 
       { type: "h2", title: `Cuánto cuesta un masajeador Gadnic en Argentina [junio 2026]`, id: "precios" },
       { type: "list", items: [
-        `**$50.000 a $75.000:** los cervicales, que son lo mejor de la marca. El [Cedro](https://meli.la/21bCTeS) a $50.999 y el [8 nodos cervical-lumbar](https://meli.la/1KvJsz4) a $72.038. Acá está la mejor relación precio-prestaciones.`,
+        `**$50.000 a $75.000:** los cervicales, que son lo mejor de la marca. El [8 nodos cervical-lumbar](https://meli.la/1KvJsz4) a {{precio:MLA19043353}} y el [Cedro](https://meli.la/21bCTeS) a {{precio:MLA18961711}}. Acá está la mejor relación precio-prestaciones.`,
         `**~$70.000:** la [pistola Gunax](https://meli.la/16Cf8XR) ($69.999), para contracturas y deporte.`,
         `**~{{precio:MLA24043083:k}}:** el [Healthy Leg](https://meli.la/2J1FnpN), ejercitador de piernas para activar la circulación.`,
         `**~$438.000:** el [asiento Acacia](https://meli.la/26bbbro), el premium de la línea: shiatsu, vibración y calor para toda la espalda. Es el más caro, lejos.`,
@@ -10376,15 +10376,15 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "trust-block", trustVariant: "pricing", content: `Precios verificados manualmente en Mercado Libre Argentina en junio 2026. En masajeadores los precios se mueven mucho con las ofertas y las cuotas; confirmá en cada link antes de comprar. Para ver vendedores y formas de pago, mirá la guía de [dónde comprar masajeadores](/guias/masajeador-donde-comprar-argentina).` },
 
       { type: "h2", title: `Veredicto: cuál Gadnic comprar`, id: "veredicto" },
-      { type: "verdict", content: `Para la mayoría, el **Gadnic Cedro** ($50.999): shiatsu real, calor infrarrojo y 9.455 reseñas a 4.8 lo hacen el masajeador calidad-precio más sólido de la marca y uno de los mejores del país. Si la tensión te llega a la lumbar, subí al **8 nodos cervical-lumbar**. Si son contracturas duras, la **pistola Gunax**. El asiento Acacia (4.7) solo si querés shiatsu para toda la espalda y bancás que es, lejos, el más caro de la guía (~$438.000). Y el Healthy Leg es otra categoría: piernas, no contracturas.` },
+      { type: "verdict", content: `Para la mayoría, el **Gadnic Cedro** ({{precio:MLA18961711}}): shiatsu real, calor infrarrojo y {{reviews:MLA18961711}} reseñas a {{rating:MLA18961711}} lo hacen el masajeador calidad-precio más sólido de la marca y uno de los mejores del país. Si la tensión te llega a la lumbar, subí al **8 nodos cervical-lumbar**. Si son contracturas duras, la **pistola Gunax**. El asiento Acacia (4.7) solo si querés shiatsu para toda la espalda y bancás que es, lejos, el más caro de la guía (~$438.000). Y el Healthy Leg es otra categoría: piernas, no contracturas.` },
     ],
     faq: [
-      { question: `¿Cuál es el mejor masajeador Gadnic?`, answer: `Por datos, el [cervical Cedro](https://meli.la/21bCTeS): {{precio:MLA18961711}}, 8 nodos shiatsu con calor infrarrojo y 4.8 estrellas sobre 9.455 calificaciones, la base de opiniones más grande del nicho. Es el mejor punto de partida para la marca. Si necesitás llegar a la zona lumbar, el modelo de 8 nodos cervical-lumbar; si son contracturas, la pistola Gunax.` },
-      { question: `¿Los masajeadores Gadnic son buenos?`, answer: `Depende del modelo. Sus cervicales son de lo mejor puntuado del nicho (el Cedro tiene 4.8 con casi 10.000 reseñas) y son los más baratos. El asiento Acacia con shiatsu sube a 4.7 pero también el precio (~$438.000). Gadnic es una marca local que vende directo, con productos de origen chino rebrandeados: la calidad y el precio varían por modelo, no es uniforme.` },
-      { question: `¿Cuánto cuesta un masajeador Gadnic en Argentina?`, answer: `En junio 2026, los cervicales van de $50.999 (Cedro) a $72.038 (8 nodos cervical-lumbar), la pistola Gunax ronda los $69.999, el ejercitador de piernas Healthy Leg está en torno a $128.000, y el asiento premium Acacia con shiatsu es el más caro, lejos, alrededor de $438.000.` },
+      { question: `¿Cuál es el mejor masajeador Gadnic?`, answer: `Por datos, el [cervical Cedro](https://meli.la/21bCTeS): {{precio:MLA18961711}}, 8 nodos shiatsu con calor infrarrojo y {{rating:MLA18961711}} estrellas sobre {{reviews:MLA18961711}} calificaciones, la base de opiniones más grande del nicho. Es el mejor punto de partida para la marca. Si necesitás llegar a la zona lumbar, el modelo de 8 nodos cervical-lumbar; si son contracturas, la pistola Gunax.` },
+      { question: `¿Los masajeadores Gadnic son buenos?`, answer: `Depende del modelo. Sus cervicales son de lo mejor puntuado del nicho (el Cedro tiene {{rating:MLA18961711}} con casi 29.000 reseñas) y son los más baratos. El asiento Acacia con shiatsu sube a 4.7, pero también sube fuerte el precio: es, lejos, el más caro de la línea. Gadnic es una marca local que vende directo, con productos de origen chino rebrandeados: la calidad y el precio varían por modelo, no es uniforme.` },
+      { question: `¿Cuánto cuesta un masajeador Gadnic en Argentina?`, answer: `Los cervicales van de {{precio:MLA19043353}} (8 nodos cervical-lumbar) a {{precio:MLA18961711}} (Cedro), la pistola Gunax ronda los $69.999, el ejercitador de piernas Healthy Leg está en torno a $128.000, y el asiento premium Acacia con shiatsu es el más caro, lejos, alrededor de $438.000.` },
       { question: `¿La pistola masajeadora Gadnic sirve?`, answer: `La Gunax es una pistola de percusión recargable, con 4 cabezales y 3 velocidades, a $69.999 y 4.6 estrellas. Para contracturas y recuperación cumple. Lo que no aclara la ficha es el tipo de motor; si buscás lo más silencioso y durable, conviene compararla contra una brushless antes de decidir.` },
       { question: `¿El masajeador cervical Gadnic se puede usar en el auto?`, answer: `Sí. El Cedro y el modelo de 8 nodos cervical-lumbar incluyen adaptador de 12V para el encendedor del auto, además del cable de 220V para casa. Son ideales para usar en viajes largos o en la silla de la oficina.` },
-      { question: `¿Qué diferencia hay entre el Gadnic Cedro y el de 8 nodos lumbar?`, answer: `Los dos son shiatsu de 8 nodos con calor infrarrojo. La diferencia es el alcance: el Cedro apunta al cuello y la espalda alta, mientras que el modelo cervical-lumbar suma vibración y llega también a la zona baja de la espalda. El Cedro es más barato y tiene muchas más reseñas; el lumbar conviene solo si necesitás esa cobertura extra.` },
+      { question: `¿Qué diferencia hay entre el Gadnic Cedro y el de 8 nodos lumbar?`, answer: `Los dos son shiatsu de 8 nodos con calor infrarrojo. La diferencia es el alcance: el Cedro apunta al cuello y la espalda alta, mientras que el modelo cervical-lumbar suma vibración y llega también a la zona baja de la espalda. El Cedro tiene muchas más reseñas, aunque hoy cuesta un poco más; el lumbar conviene si necesitás esa cobertura extra, y el menor precio de hoy es un plus, no el motivo principal para elegirlo.` },
       { question: `¿El Gadnic Healthy Leg es un masajeador?`, answer: `No en el sentido habitual. Es un ejercitador pasivo de piernas: simula el movimiento de caminar estando sentado para activar la circulación, pensado para adultos mayores o rehabilitación. No trabaja contracturas ni nudos musculares. Si buscás eso, mirá los cervicales o la pistola.` },
     ],
     internalLinksTitle: "Relacionado",
@@ -19459,7 +19459,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { type: "h3", title: `1. Gadnic 5000 Pa LIDAR AC800 — el tope, y el único que vale "premium"` },
       { type: "product-card", productMlaId: "MLA62126950", label: "Mejor de la línea", labelColor: "green", ranking: 1, description: `El único Gadnic con navegación LIDAR y base autolimpiante. Mapea la casa con láser, aspira con 5000 Pa, se vacía solo en una bolsa de 3.2L y declara 140 minutos de autonomía. Tiene rating 4.8 con más de 1.000 vendidas, lo que para una marca argentina es muchísimo respaldo.` },
       { type: "p", content: `Acá está el salto real de Gadnic. El [AC800](https://meli.la/2UjN3FV) usa **LIDAR** —un láser giratorio que arma el mapa de tu casa— en lugar de chocar y rebotar al azar. Eso significa recorrido ordenado, por habitación, sin dejar el ambiente a medias ni pasar tres veces por el mismo lugar.` },
-      { type: "p", content: `Lo que de verdad cambia la vida es la **base autolimpiante**: el robot vuelve solo a la estación y se vacía en una bolsa de **3.2 litros**, así que en vez de limpiar el depósito todos los días, lo hacés cada varias semanas. Esa función, que hasta 2023 solo veías en equipos de más de un millón, acá viene en un robot de unos {{precio:MLA62126950:k}}. Sumá **5000 Pa** de succión, batería de **3200 mAh** para unos **140 minutos** de autonomía y la app **Tuya** para horarios y mapa, y entendés por qué junta más de 1.000 reseñas con 4.8 de promedio.` },
+      { type: "p", content: `Lo que de verdad cambia la vida es la **base autolimpiante**: el robot vuelve solo a la estación y se vacía en una bolsa de **3.2 litros**, así que en vez de limpiar el depósito todos los días, lo hacés cada varias semanas. Esa función, que hasta 2023 solo veías en equipos de más de un millón, acá viene en un robot de unos {{precio:MLA62126950:k}}. Sumá **5000 Pa** de succión, batería de **3200 mAh** para unos **140 minutos** de autonomía y la app **Tuya** para horarios y mapa, y entendés por qué junta {{reviews:MLA62126950}} reseñas con {{rating:MLA62126950}} de promedio.` },
       { type: "p", content: `¿La parte honesta? Es Tuya, no un ecosistema propio: la app cumple pero no es la más prolija, y el service no tiene la cobertura de una marca global. Aun así, para el precio, es el robot con autovaciado más accesible de origen argentino que vas a encontrar.` },
       { type: "pull-quote", content: `Pensé que el autovaciado era un chiche, hasta que pasé tres semanas sin tocar el robot. La casa impecable y yo sin acordarme de que existe.`, attribution: `— Comprador en Argentina, 2025` },
   
@@ -29718,6 +29718,113 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     ],
     internalLinksTitle: "Más para el jardín",
   },
+
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva gadnic — silo marcas, categoria "marcas"
+  // Primer formato de guía "¿es buena la marca X?" del sitio, no un
+  // ranking de un tipo de producto. Origen: reporte SEO semanal
+  // 2026-09-07 (730 impresiones y subiendo 7 semanas seguidas en el
+  // cluster "gadnic es buena marca" / "gadnic es confiable" / "gadnic
+  // opiniones", sin página madre) + research propio (Ubersuggest +
+  // Keyword Planner, ~780/mes combinado, dificultad SEO 17-23).
+  // Todos los datos (rating, reviewCount, garantía, gadnic.com.ar) salen
+  // de fichas ya existentes en curated-products.ts, ninguno inventado.
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "gadnic",
+    category: "marcas",
+    silo: "marcas",
+    pillar: true,
+    title: `¿Es buena la marca Gadnic? Análisis con datos reales [2026]`,
+    seoTitle: `¿Es Buena la Marca Gadnic? Opiniones y Datos Reales [2026]`,
+    metaDescription: `Analizamos 36 productos Gadnic vigentes en Mercado Libre Argentina: rating, cantidad de opiniones y en qué categorías conviene y en cuál no. Sin inventar nada.`,
+    ogTitle: `¿Es buena la marca Gadnic? Lo que dicen los números`,
+    ogDescription: `Gadnic tiene productos con 4.1 estrellas y productos con {{reviews:MLA18961711}} opiniones a 4.8. No es una respuesta de sí o no: es una respuesta por categoría.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_634516-MLA99583747574_122025-F.jpg`,
+    h1: `¿Es buena la marca Gadnic? Lo que dicen 36 productos con datos reales`,
+    directAnswer: `Sí, en general: Gadnic es una marca argentina de electro económico (importa y distribuye, con página oficial en gadnic.com.ar y 12 meses de garantía con service técnico nacional) que rinde mejor de lo que su precio hace pensar en varias categorías. Su masajeador cervical **[Gadnic Cedro](https://meli.la/21bCTeS)** tiene **4.8 estrellas en {{reviews:MLA18961711}} opiniones**, de las bases de calificaciones más grandes de todo el catálogo de MercadoLibre Argentina, y su equipo de alta frecuencia **[Gadnic LF60](https://meli.la/2a6LCX1)** suma {{reviews:MLA26522167}} más. Pero no es pareja: es una marca generalista, no especializada, y eso se nota en que el peor producto de la línea (un asiento masajeador para auto) quedó en 4.1 estrellas y hoy queda en la última unidad, de un vendedor sin historial de ventas. La respuesta correcta no es "sí" o "no": es "depende de qué categoría", y acá te mostramos cuál.`,
+    publishedDate: "2026-09-07",
+    updatedDate: "2026-09-07",
+    hasDisclosure: true,
+    readingTime: 9,
+    standfirst: `Gadnic aparece en casi cualquier búsqueda de electro económico en Argentina, y la pregunta se repite: ¿es una marca confiable o solo barata? Analizamos los 36 productos Gadnic vigentes en nuestro catálogo (de masajeadores a robots aspiradora) con su rating y cantidad real de opiniones en MercadoLibre, sin promediar categorías que no tienen nada que ver entre sí.`,
+    quickPicks: [
+      { productMlaId: "MLA18961711", label: "El más confiable de la marca", labelColor: "green", tagline: `Masajeador Cedro: 4.8★ en {{reviews:MLA18961711}} opiniones, de las bases más grandes del sitio` },
+      { productMlaId: "MLA62126950", label: "Mejor en limpieza del hogar", labelColor: "blue", tagline: "Robot aspiradora AC800 con mapeo LiDAR y base autolimpiante" },
+      { productMlaId: "MLA26522167", label: "Mejor en cuidado personal", labelColor: "purple", tagline: `Alta frecuencia LF60: 4.8★ en {{reviews:MLA26522167}} opiniones` },
+      { productMlaId: "MLA28743686", label: "Mejor para el día a día", labelColor: "slate", tagline: "Cargador portátil de 25.000 mAh, el Gadnic más vendido en tech" },
+    ],
+    intro: [
+      `"Gadnic es buena marca" y "Gadnic es confiable" son de las búsquedas que más crecen sobre electro económico en Argentina, y tiene sentido: aparece en casi cualquier categoría (masajeadores, robots aspiradora, cámaras, proyectores, sillones, difusores) a precios bastante más bajos que las marcas internacionales, y esa combinación genera desconfianza antes de comprar.`,
+      `La respuesta corta, después de mirar los 36 productos Gadnic que tenemos vigentes en el catálogo (más 6 que quedaron deprioritizados): **depende de la categoría, no de la marca como bloque único**. Es una marca argentina que importa y distribuye (no fabrica), con página oficial en gadnic.com.ar y 12 meses de garantía con service técnico a nivel nacional. Eso le da un respaldo que no tienen las marcas genéricas sin nombre. Pero al vender en tantos rubros distintos, el nivel varía: hay productos con casi 29.000 opiniones a 4.8 estrellas, y hay uno que quedó en 4.1 y hoy sobrevive de un vendedor sin historial, con una sola unidad en stock.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_634516-MLA99583747574_122025-F.jpg", alt: `Masajeador cervical Gadnic Cedro, el producto Gadnic con más opiniones de todo el catálogo`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Sí, en general: Gadnic es marca argentina con página oficial (gadnic.com.ar) y 12 meses de garantía con service técnico nacional, y varios de sus productos están entre los mejor calificados de su categoría en todo MercadoLibre Argentina. Pero es generalista, no especializada: el rating varía fuerte según el rubro. Su **[masajeador Cedro](https://meli.la/21bCTeS)** tiene 4.8★ en {{reviews:MLA18961711}} opiniones; su asiento masajeador para auto quedó en 4.1★ y hoy queda última unidad, de un vendedor sin historial de ventas. Conviene mirar el producto puntual, no la marca en abstracto.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo evaluamos:** relevamos los 36 productos Gadnic con stock activo hoy en nuestro catálogo (más 6 que quedaron deprioritizados, incluidos igual para que el panorama sea completo), en 7 categorías distintas: cuidado personal y masajeadores, robots aspiradora, hogar, tech, cocina, climatización y música/audio. Para cada uno tomamos el rating y la cantidad de calificaciones reales de MercadoLibre, sin promediarlos entre categorías que no compiten entre sí (un masajeador y una guitarra no se comparan). Los datos de marca (garantía, sitio oficial, origen) salen de gadnic.com.ar y de las fichas técnicas oficiales de MercadoLibre, nunca inventados. Los precios se revisan periódicamente contra MercadoLibre.` },
+
+      { type: "h2", title: `¿Qué tipo de marca es Gadnic?`, id: "la-marca" },
+      { type: "p", content: `Gadnic es una marca argentina que **importa y distribuye**, no fabrica: la gran mayoría de sus productos son de origen chino con marca propia puesta encima, algo habitual en este segmento de electro económico y no exclusivo de Gadnic. Tiene página oficial en **gadnic.com.ar**, donde confirma specs de varios de sus productos, y ofrece **12 meses de garantía con service técnico propio a nivel nacional**, según su propia ficha técnica. En una categoría llena de marcas sin nombre reconocible o sin sitio propio rastreable, eso es un diferencial real: tenés a quién reclamarle si algo falla.` },
+      { type: "p", content: `Lo que eso NO significa es que todos sus productos rindan igual. Al vender en rubros tan distintos como masajeadores, robots aspiradora, cámaras, proyectores, guitarras y cargadores portátiles, la calidad depende del modelo puntual, no de un estándar único de fábrica. Por eso esta guía no contesta "sí" o "no" en abstracto: te muestra dónde la marca rinde mejor y dónde conviene mirar dos veces antes de comprar.` },
+
+      { type: "h2", title: `Los números de Gadnic, categoría por categoría`, id: "los-numeros" },
+
+      { type: "h3", title: `Cuidado personal y masajeadores: el punto más fuerte de la marca` },
+      { type: "product-card", productMlaId: "MLA18961711", label: "El más confiable de la marca", labelColor: "green", ranking: 1, description: `Masajeador cervical shiatsu de 8 nodos con calor infrarrojo. 4.8 estrellas en {{reviews:MLA18961711}} calificaciones: una de las bases de opiniones más grandes de todo MercadoLibre Argentina, no solo de Gadnic.` },
+      { type: "p", content: `Acá es donde Gadnic más se destaca. El **[Cedro](https://meli.la/21bCTeS)** es, con diferencia, su producto más probado: {{reviews:MLA18961711}} calificaciones reales a 4.8 estrellas, un volumen que compite de igual a igual con cualquier producto masivo del catálogo, sin importar la marca. El resto de la línea de masajeadores sostiene el nivel: el cervical-lumbar de 8 nodos tiene {{reviews:MLA19043353}} calificaciones a {{rating:MLA19043353}}, y la pistola Gunax {{reviews:MLA22138401}} a {{rating:MLA22138401}}. El detalle completo, modelo por modelo, está en la [guía de masajeador Gadnic](/guias/masajeador-gadnic).` },
+      { type: "p", content: `El equipo de alta frecuencia facial **[LF60](https://meli.la/2a6LCX1)** repite el patrón: {{reviews:MLA26522167}} calificaciones a {{rating:MLA26522167}} estrellas, uno de los productos de belleza en casa mejor calificados del sitio, sea de la marca que sea.` },
+
+      { type: "h3", title: `Robots aspiradora: buen nivel, con la LiDAR como punta` },
+      { type: "product-card", productMlaId: "MLA62126950", label: "Mejor en limpieza del hogar", labelColor: "blue", ranking: 2, description: `Robot aspiradora con mapeo LiDAR 360°, base autolimpiante y depósito de 3,2 litros. 4.8 estrellas en {{reviews:MLA62126950}} calificaciones.` },
+      { type: "p", content: `Gadnic tiene una línea completa de robots aspiradora, de entrada a LiDAR, y el rating se sostiene arriba de 4.6 en toda la línea: el de 3 modos tiene {{reviews:MLA42045783}} calificaciones a {{rating:MLA42045783}} (el más probado de todos), el AspiRob {{reviews:MLA36838658}} a {{rating:MLA36838658}}, y el **[AC800 con LiDAR](https://meli.la/2UjN3FV)** suma mapeo por láser y base que se limpia sola, a {{rating:MLA62126950}} estrellas en {{reviews:MLA62126950}} opiniones. Comparamos toda la línea en la [guía de robot aspiradora Gadnic](/guias/robot-aspiradora-gadnic).` },
+
+      { type: "h3", title: `Tech del día a día: sólido, sin sorpresas` },
+      { type: "product-card", productMlaId: "MLA28743686", label: "Mejor para el día a día", labelColor: "slate", ranking: 3, description: `Cargador portátil de 25.000 mAh con carga rápida y doble entrada (micro USB y USB-C). 4.6 estrellas en {{reviews:MLA28743686}} calificaciones.` },
+      { type: "p", content: `En productos de uso diario sin mucha vuelta, como el **[cargador portátil de 25.000 mAh](https://meli.la/1SyyXcw)**, Gadnic cumple sin destacarse ni fallar: {{reviews:MLA28743686}} calificaciones a {{rating:MLA28743686}} estrellas, un nivel típico de un power bank correcto de gama media. El humidificador ultrasónico HM20B sostiene el mismo patrón, con {{reviews:MLA28531856}} calificaciones a {{rating:MLA28531856}}.` },
+
+      { type: "h2", title: `Dónde tener cuidado con Gadnic`, id: "donde-cuidado" },
+      { type: "p", content: `Ser honestos con lo bueno implica serlo también con lo flojo. El **asiento masajeador para auto y hogar** de la marca quedó en **4.1 estrellas sobre {{reviews:MLA19712537}} calificaciones**, el rating más bajo de todo lo que relevamos de Gadnic, y hoy sobrevive con una sola unidad en stock, vendida por un vendedor sin historial de ventas en MercadoLibre. No lo escondemos: es la prueba de que "es Gadnic" no es garantía automática en todos los rubros.` },
+      { type: "p", content: `El otro matiz honesto: varios productos Gadnic todavía tienen pocas opiniones (la barra de sonido Nova 160, por ejemplo, suma {{reviews:MLA69595880}}), así que el respaldo de datos es más chico que en sus categorías estrella. Un rating de 4.7 u 4.8 con pocas decenas de opiniones pesa menos que uno con miles, aunque el número final se parezca. Y como la mayoría de sus productos son de origen chino rebrandeado (normal en este segmento, no un secreto), la calidad real depende siempre del modelo puntual: no asumas que porque un producto Gadnic te fue bien, todos los demás van a rendir igual.` },
+
+      { type: "h2", title: `Tabla comparativa: los productos Gadnic mejor calificados`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Producto`, `Categoría`, `Precio`, `Rating`, `Opiniones`], rows: [
+        [`[Masajeador Cedro](https://meli.la/21bCTeS)`, `Cuidado personal`, `{{precio:MLA18961711}}`, `{{rating:MLA18961711}}`, `{{reviews:MLA18961711}}`],
+        [`[Alta frecuencia LF60](https://meli.la/2a6LCX1)`, `Cuidado personal`, `{{precio:MLA26522167}}`, `{{rating:MLA26522167}}`, `{{reviews:MLA26522167}}`],
+        [`[Aspiradora robot 3 modos](https://meli.la/2WGATBu)`, `Hogar`, `{{precio:MLA42045783}}`, `{{rating:MLA42045783}}`, `{{reviews:MLA42045783}}`],
+        [`[Cargador portátil 25.000 mAh](https://meli.la/1SyyXcw)`, `Tech`, `{{precio:MLA28743686}}`, `{{rating:MLA28743686}}`, `{{reviews:MLA28743686}}`],
+        [`[Depiladora Care D12](https://meli.la/2mAHAfC)`, `Cuidado personal`, `{{precio:MLA19111424}}`, `{{rating:MLA19111424}}`, `{{reviews:MLA19111424}}`],
+        [`[Robot aspiradora AC800 LiDAR](https://meli.la/2UjN3FV)`, `Hogar`, `{{precio:MLA62126950}}`, `{{rating:MLA62126950}}`, `{{reviews:MLA62126950}}`],
+        [`[Humidificador HM20B](https://meli.la/31qDsFS)`, `Climatización`, `{{precio:MLA28531856}}`, `{{rating:MLA28531856}}`, `{{reviews:MLA28531856}}`],
+        [`[Difusor DIFU0001](https://meli.la/2bqzDDr)`, `Hogar`, `{{precio:MLA231395761}}`, `{{rating:MLA231395761}}`, `{{reviews:MLA231395761}}`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir dentro del catálogo Gadnic`, id: "como-elegir" },
+      { type: "p", content: `Si estás por comprar algo de Gadnic, la pregunta correcta no es "¿es buena la marca?" sino "¿es bueno este producto puntual?". Empezá siempre por rating **y** cantidad de opiniones juntos: un 4.8 con miles de opiniones es un dato sólido, un 4.8 con apenas un puñado todavía no dice casi nada. Priorizá sus categorías con más volumen probado (masajeadores, robots aspiradora, alta frecuencia), y si el producto que te interesa tiene pocas calificaciones, leé el texto de esas reseñas antes de decidir, no te quedes solo con las estrellas.` },
+      { type: "callout", calloutVariant: "warning", calloutTitle: "Un dato, no un veredicto de marca", content: `Que el asiento masajeador para auto haya quedado en 4.1 estrellas no significa que "Gadnic sea mala marca": significa que ESE producto puntual rindió peor que el resto de su catálogo. Es exactamente el mismo criterio que aplicamos con cualquier otra marca del sitio: juzgamos el producto, no generalizamos a partir de un solo caso.` },
+
+      { type: "h2", title: `Veredicto: ¿comprar productos Gadnic?`, id: "veredicto" },
+      { type: "verdict", content: `Sí, con criterio de producto puntual, no de marca en bloque. Gadnic es una marca argentina real, con página oficial, garantía de 12 meses y service técnico nacional, y en varias categorías (cuidado personal, robots aspiradora) tiene algunos de los productos mejor calificados de todo MercadoLibre Argentina, con el **[masajeador Cedro](https://meli.la/21bCTeS)** como el caso más claro: 4.8 estrellas en casi 29.000 opiniones. Al mismo tiempo, es una marca generalista que vende en rubros muy distintos, y eso hace que el nivel no sea parejo: antes de comprar cualquier producto Gadnic, mirá su rating y su cantidad de opiniones puntuales, no la reputación general de la marca.` },
+    ],
+    faq: [
+      { question: `¿Es argentina la marca Gadnic?`, answer: `Sí, es una marca argentina que importa y distribuye productos (no los fabrica), con página oficial en gadnic.com.ar. La mayoría de sus productos son de origen chino con marca propia puesta encima, algo habitual en este segmento y no exclusivo de Gadnic.` },
+      { question: `¿Gadnic tiene garantía?`, answer: `Sí, 12 meses de garantía con service técnico propio a nivel nacional, según su propia ficha técnica y su sitio oficial. Es uno de los pocos respaldos reales en una categoría llena de productos genéricos sin marca reconocible.` },
+      { question: `¿Cuál es el mejor producto de Gadnic?`, answer: `Por volumen de opiniones y rating, el [masajeador cervical Cedro](https://meli.la/21bCTeS): 4.8 estrellas en {{reviews:MLA18961711}} calificaciones, una de las bases más grandes de todo MercadoLibre Argentina. En robots aspiradora, el [AC800 con LiDAR](https://meli.la/2UjN3FV) es la punta de la línea.` },
+      { question: `¿Gadnic es buena marca o es mejor comprar otra?`, answer: `Depende de la categoría, no hay una respuesta única. En masajeadores y robots aspiradora, Gadnic compite de igual a igual con marcas mucho más conocidas. En otras categorías con menos historial de ventas, conviene mirar el rating y la cantidad de opiniones del producto puntual antes de decidir, en vez de asumir el mismo nivel en todo el catálogo.` },
+      { question: `¿Hay algún producto Gadnic que no convenga?`, answer: `El asiento masajeador para auto y hogar quedó con el rating más bajo de la marca (4.1 estrellas sobre {{reviews:MLA19712537}} calificaciones) y hoy queda última unidad, vendida por un perfil sin historial de ventas. No es representativo del resto del catálogo, pero es el ejemplo real de que la calidad varía según el modelo.` },
+      { question: `¿Los productos Gadnic son originales o truchos?`, answer: `Son originales de la marca Gadnic: no son una falsificación de otra marca, sino productos genéricos fabricados en China con la marca Gadnic puesta por el importador argentino, un modelo de negocio legal y muy común en electro económico. La confusión frecuente es pensar que "no fabrica" significa "es trucho", y no es lo mismo.` },
+      { question: `¿Dónde comprar productos Gadnic en Argentina?`, answer: `Mayormente por MercadoLibre, donde tiene catálogo amplio con vendedores oficiales y stock actualizado, además de su sitio gadnic.com.ar para consultar specs. Comprar por MercadoLibre suma además la protección de compra de la plataforma sobre la garantía del fabricante.` },
+    ],
+    internalLinks: [
+      { label: "Masajeador Gadnic: cuál conviene de toda la línea", href: "/guias/masajeador-gadnic" },
+      { label: "Robot aspiradora Gadnic: cuál conviene", href: "/guias/robot-aspiradora-gadnic" },
+      { label: "Freidora de aire Gadnic: análisis", href: "/guias/gadnic-freidora-review" },
+      { label: "Robot aspiradora Gadnic vs Xiaomi", href: "/guias/aspiradora-robot-gadnic-vs-xiaomi" },
+      { label: "Difusor de aromas: cuál comprar", href: "/guias/salud-bienestar/difusor-de-aromas" },
+    ],
+    internalLinksTitle: "Más sobre productos Gadnic",
+  },
 ];
 
 /**
@@ -29788,6 +29895,10 @@ export const guideSilos: Record<string, { name: string; description: string }> =
   "hogar-jardin": {
     name: "Hogar y Jardín",
     description: "Organización, artículos de pileta/verano y herramientas de jardín y eléctricas, con precio real de MercadoLibre.",
+  },
+  marcas: {
+    name: "Marcas",
+    description: "¿Es buena la marca X? Analizamos el catálogo completo de cada marca con datos reales de MercadoLibre, categoría por categoría.",
   },
 };
 
@@ -30222,5 +30333,10 @@ export const guideCategories: Record<string, { name: string; description: string
     name: "Guías de Yogurteras",
     description:
       "De una llave y listo a temporizador digital con pantalla LCD: cuál conviene según tu uso, con precios reales de MercadoLibre.",
+  },
+  marcas: {
+    name: "Guías de Marcas",
+    description:
+      "¿Es buena la marca X? Analizamos el catálogo completo de cada marca con rating y cantidad real de opiniones de MercadoLibre, categoría por categoría.",
   },
 };

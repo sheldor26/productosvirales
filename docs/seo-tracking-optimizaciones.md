@@ -1536,3 +1536,62 @@ más en el mismo `structuredData`) y la segunda pasada de Codex dio GO limpio.
 y `npm run build` en verde después de cada tanda de cambios. Render local verificado en el navegador.
 
 Re-medir: **~2026-10-02** (≈4 semanas), contra baseline cero.
+
+## 2026-09-07 — Guía nueva `gadnic` (silo/categoría "marcas", nueva, primer formato "¿es buena la marca X?")
+
+| Guía | Silo | Categoría | Keyword del cluster | Volumen (Ubersuggest AR) | Volumen (Keyword Planner AR) | SD |
+| :-- | :-- | :-- | :-- | --: | --: | --: |
+| `gadnic` | marcas | marcas | gadnic es buena marca / es confiable / opiniones | ~690/mes combinado | ~690/mes combinado (match casi exacto) | 17-23 |
+
+**Baseline: cero.** URL nueva, sin historial en GSC. Origen: reporte SEO semanal 2026-09-07, cluster
+con 730 impresiones y creciendo 7 semanas seguidas (480→532→553→628→641→696→730) sin página madre.
+Validado con Ubersuggest y Keyword Planner (Google Ads oficial) en paralelo: ambas fuentes coincidieron
+casi exacto en las 4 variantes principales, algo raro de ver, que le sube bastante la confianza al número.
+
+**Primer formato de guía "¿es buena la marca X?" del sitio.** Hasta ahora todas las guías comparan
+modelos de un tipo de producto; esta analiza el catálogo completo de UNA marca (Gadnic) a través de
+7 categorías (masajeadores, robots aspiradora, tech, cocina, climatización, música/audio, hogar).
+Se creó la categoría/silo `marcas` nueva, pensada como cabecera para futuras guías del mismo formato
+(la candidata siguiente validada es Smartlife, ~590-690/mes, ver research de esta sesión). Se adaptó
+la plantilla oficial de `docs/guias.md` (quickPicks por categoría fuerte en vez de por modelo, ranking
+agrupado por rubro, sección honesta "Dónde tener cuidado", tabla cross-categoría) sin spec previa para
+este tipo de contenido.
+
+**Auditoría del trío: 6 rondas hasta GO final — la más larga de la sesión, y con motivo.** agy dio GO
+limpio en la primera pasada. Codex encontró bloqueantes reales en 4 de las 6 rondas:
+
+- **Ronda 1:** el conteo "23 productos vigentes + 4 sin stock" no coincidía con el catálogo real (**42**
+  fichas Gadnic: 36 `normal` + 6 `deprioritized`) porque el script de conteo inicial solo buscaba
+  `brand: "Gadnic"` y se perdió 13 productos con la marca solo en el título. El asiento masajeador para
+  auto (MLA19712537) se citaba como "sin stock" sin verificación en vivo: en MercadoLibre en realidad
+  dice **"¡Última en Stock!"**, 1 unidad, vendedor con 0 ventas — un dato más preciso y más honesto que
+  "sin stock" a secas. Las guías hijas linkeadas (`masajeador-gadnic`, `robot-aspiradora-gadnic`) tenían
+  números hardcodeados viejos del Cedro y del AC800 que contradecían los tokens de la guía nueva.
+- **Rondas 2-3:** quedaron 2 menciones aproximadas ("casi 10.000 reseñas") sin corregir en
+  `masajeador-gadnic`, y Codex señaló que la propia ficha del Cedro en `curated-products.ts` (no la
+  guía) tenía prosa y `structuredData` viejos (9.455/$50.999) nunca antes auditados porque
+  `check-stale-prose-prices.cjs` no escanea la prosa de `curated-products.ts`, solo la de `guides.ts`.
+- **Ronda 4, la más seria:** al corregir el precio real del Cedro ($50.999→$69.999), su relación de
+  precio con el "8 nodos cervical-lumbar" (MLA19043353, $60.668) se invirtió — el Cedro pasó de ser el
+  más barato de los dos a ser el más caro. Quedaron 7 frases en 2 archivos afirmando la relación vieja
+  ("el Cedro te ahorra plata", "paga más que el Cedro"). Se reescribió la lógica comparativa completa,
+  no solo los números, usando `{{preciodif:MLA18961711:MLA19043353}}` para el diferencial.
+- **Ronda 5:** un pro del Cedro decía "el más accesible del segmento", ya falso tras el cambio de
+  precio; y el lumbar seguía con reviewCount viejo (1.320 en vez de 1.407) en 2 lugares de la guía y en
+  su propio `structuredData`.
+- **Ronda 6:** ajuste editorial menor (dos frases remataban "no para ahorrar" sonando contradictorias
+  con el hecho de que el lumbar ahora es más barato; se reformularon para que el precio más bajo quede
+  como plus, no como motivo principal). GO final de Codex.
+
+**Lección para la próxima guía de marca (Smartlife):** contar el universo real de productos por
+título/canonicalName, no solo por el campo `brand`; verificar en vivo cualquier claim de "sin stock"
+antes de escribirlo; y ante cualquier corrección de precio, revisar EXPLÍCITAMENTE si esa ficha se
+compara por precio contra alguna otra en el catálogo (la inversión de ronda 4 fue el hallazgo más caro
+de toda la sesión en tiempo de corrección).
+
+**Verificación:** `npx tsc --noEmit`, los 9 scripts de `npm run guides:check` (ratchet de reseñas
+hardcodeadas bajado de 1115 a 1102 en el proceso, técho actualizado con `--bajar`),
+`node scripts/check-price-guard.cjs` y `npm run build` en verde después de cada ronda. Render local
+verificado en el navegador (quickPicks, product-cards, tabla, FAQ, verdict, internalLinks, todo OK).
+
+Re-medir: **~2026-10-05** (≈4 semanas), contra baseline cero.
