@@ -1759,4 +1759,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "36",
     postedAt: "2026-09-07T11:17:52-03:00",
   },
+  {
+    title: "Bicicleta MTB Aluminio Ghepard X2.0 Rodado 29",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_976958-MLA114676272126_082026-O.webp",
+    affiliateUrl: "https://meli.la/1cbSHm5",
+    newPrice: "226.316",
+    oldPrice: "549.999",
+    offPct: "58",
+    postedAt: "2026-09-07T11:47:56-03:00",
+  },
 ];
