@@ -180,6 +180,7 @@ negro — tienen precio de lista distinto).
 | Cinta Caminadora Eléctrica Enerfit 735 | $535.696 | 2026-09-06 | meli.la/1bphiBo — sin referencia previa, primera categoría de fitness en el sitio, MÁS VENDIDO, +1000 vendidos, envío gratis, sin cupón en la ficha |
 | Bicicleta Spinning Shock Rider Profesional Energy Fit | $497.000 | 2026-09-07 | meli.la/2fap6Xp — sin referencia previa, primera bicicleta de spinning fija en el sitio (distinta de las MTB del silo movilidad), MÁS VENDIDO, 4.7★ (2314 op.), +10 mil vendidos, "1° en Bicicletas Fijas" (general), Tienda oficial Energy Fit, envío FULL |
 | Bicicleta MTB Aluminio Ghepard X2.0 Rodado 29 | $226.316 | 2026-09-07 | meli.la/1cbSHm5 — sin referencia previa, marca/modelo distinto a las Overtech del silo movilidad, MÁS VENDIDO, 4.8★ (solo 11 op., pero +500 vendidos — social proof vía ventas), "7° en Bicicletas Convencionales" (general), Tienda oficial SLP |
+| Monopatín Eléctrico Logus L6 350W | $497.523 | 2026-09-07 | meli.la/1gpD7bd — sin referencia previa, primera categoría de monopatín/scooter eléctrico en el sitio, OFERTA IMPERDIBLE, 4.8★ (346 op.), +1000 vendidos, "3° en Eléctricos" (general), Tienda oficial Logus, envío FULL. ⚠️ Al re-verificar, la ficha mostraba $482.523 (con cupón "TU PRIMER LOGUS" $15.000 OFF aplicado automáticamente por la sesión) — se usó $497.523 sin cupón, coincide con el precio sourceado originalmente |
 
 ## Pendiente de revisar
 

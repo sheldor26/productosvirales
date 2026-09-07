@@ -1799,4 +1799,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "65",
     postedAt: "2026-09-07T15:38:12-03:00",
   },
+  {
+    title: "Monopatín Eléctrico Logus L6 350W",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_948237-MLA116667790695_082026-O.webp",
+    affiliateUrl: "https://meli.la/1gpD7bd",
+    newPrice: "497.523",
+    oldPrice: "998.999",
+    offPct: "50",
+    postedAt: "2026-09-07T16:15:47-03:00",
+  },
 ];
