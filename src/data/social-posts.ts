@@ -1879,4 +1879,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "39",
     postedAt: "2026-09-07T19:19:56-03:00",
   },
+  {
+    title: "PC de Escritorio Completa i5 16GB 240GB + Monitor 19\"",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_698308-MLA98501862216_112025-O.webp",
+    affiliateUrl: "https://meli.la/1uQiDtT",
+    newPrice: "572.828",
+    oldPrice: "1.208.078",
+    offPct: "52",
+    postedAt: "2026-09-07T19:22:31-03:00",
+  },
 ];

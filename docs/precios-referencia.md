@@ -133,6 +133,7 @@ negro — tienen precio de lista distinto).
 | Freezer De Pozo Telefunken 50L (TFK-FP50) | $321.503 | 2026-09-07 | meli.la/2GFsLbo — sin referencia previa, distinto de los Freezer Gafa (200L/316L) ya posteados, marca Telefunken nueva en el sitio, OFERTA IMPERDIBLE, 4.8★ (976 op.), +1000 vendidos, "6° en Freezers" (general), Tienda oficial Electro Point |
 | Tablet Xiaomi Redmi Pad 2 11" 128GB | $399.999 | 2026-09-07 | meli.la/1HSpdAY — sin referencia previa, marca distinta a la Tablet Lenovo Idea Tab de la fila de arriba, OFERTA IMPERDIBLE, 4.9★ (2216 op.), +1000 vendidos, "7° en Tablets" (general), Tienda oficial Aurus, envío FULL |
 | Disco Duro Externo Seagate Expansion 4TB (STKM4000400) | $308.999 | 2026-09-07 | meli.la/1uC32HS — sin referencia previa, primera categoría de almacenamiento externo en el sitio, OFERTA IMPERDIBLE, 4.8★ (2530 op.), +10 mil vendidos, "12° en Discos Rígidos y SSDs" (general), "Mejor precio" vendido por Tienda oficial Acuario Insumos y Tecnología |
+| PC de Escritorio Completa i5 16GB/240GB + Monitor 19" | $572.828 | 2026-09-07 | meli.la/1uQiDtT — sin referencia previa, PC de oficina/hogar (no gaming, distinta de los PC Gamer de la sección Gaming), incluye monitor+teclado+mouse, Tienda GrupoTecno, ¡ÚLTIMA UNIDAD! confirmada en vivo, 4.6★ (106 op.), +100 vendidos |
 
 ## Pequeños electrodomésticos
 
