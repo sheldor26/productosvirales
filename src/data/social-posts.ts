@@ -1719,4 +1719,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "29",
     postedAt: "2026-09-07T09:13:23-03:00",
   },
+  {
+    title: "Smart TV Samsung 65\" 4K UHD HDR PurColor",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_826594-MLA105112585900_012026-O.webp",
+    affiliateUrl: "https://meli.la/16Tnkzz",
+    newPrice: "1.199.999",
+    oldPrice: "1.559.999",
+    offPct: "23",
+    postedAt: "2026-09-07T09:44:33-03:00",
+  },
 ];

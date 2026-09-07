@@ -121,6 +121,7 @@ negro — tienen precio de lista distinto).
 | Antena Starlink Mini Satelital Kit Car 12/24V | $387.903 | 2026-09-06 | meli.la/2XhZ3Mq — sin referencia previa, primer producto de categoría satelital/antenas en el sitio, MÁS VENDIDO, "4° en Antenas" (general), vendido por EVLO (MercadoLíder, +10 mil ventas), envío FULL gratis. ⚠️ Ficha sin rating numérico (ítem "Nuevo", solo +25 vendidos) — no se inventó estrella, se usó "Nuevo" en el copy/asset |
 | Smart TV Roku TV Noblex FHD 43" (DB43X3110) | $389.599 | 2026-09-06 | meli.la/2LYyr3Q — sin referencia previa, primer Roku TV Noblex en el sitio (distinto del Noblex 50" Roku TV Disney+/Apple TV ya posteado), Tienda oficial DMAKER, MÁS VENDIDO, 4.8★ (173 op.), +1000 vendidos, "14° en Televisores" (general). Precio sin cupón (con cupón ML de la ficha quedaba en $374.599 — esa parte no es referencia estable) |
 | Notebook HP 15-fd0331la Intel Core 3 8GB/512GB | $937.199 | 2026-09-07 | meli.la/1xNs8Ek — sin referencia previa, modelo distinto a los HP 255r ya posteados (línea 15-fd, Intel Core 3 en vez de AMD Ryzen), Tienda oficial HP, OFERTA IMPERDIBLE, 4.9★ (101 op.), +500 vendidos |
+| Smart TV Samsung 65" 4K UHD HDR PurColor (65U8000F) | $1.199.999 | 2026-09-07 | meli.la/16Tnkzz — sin referencia previa, modelo distinto a los Samsung QLED Q6F 55" y Crystal UHD 50"/65" ya posteados, Tienda oficial Samsung (+1M ventas), OFERTA IMPERDIBLE, 4.8★ (365 op.), +1000 vendidos |
 
 ## Pequeños electrodomésticos
 
