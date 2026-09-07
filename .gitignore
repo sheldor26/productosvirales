@@ -41,6 +41,9 @@ yarn-error.log*
 .env*
 !.env.example
 
+# MCP config local (API keys de servidores MCP, ej. json2video)
+.mcp.json
+
 # vercel
 .vercel
 
