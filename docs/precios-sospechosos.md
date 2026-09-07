@@ -6,6 +6,24 @@
 > chequearlos en MercadoLibre. Si son reales, avisar para aplicarlos a mano.
 > Entradas nuevas arriba.
 
+## 2026-09-07
+
+- **MLA16132352** — Cámara Deportiva Akaso V50X: $176.899 → $599.999 (+239%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA16132352
+  - Sitio: https://productosvirales.com.ar/producto/MLA16132352
+- **MLA8732921** — Auriculares Gamer Con Cable HyperX Cloud HX-HSCA Black y Red: $91.379 → $779.403 (+753%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA8732921
+  - Sitio: https://productosvirales.com.ar/producto/MLA8732921
+- **MLA48098024** — Cortador Papas Bastón Aloha — Cuchilla Acero Inoxidable, Apto Lavavajillas: $7.401 → $3.344 (-55%)
+  - ML: https://www.mercadolibre.com.ar/cortador-papa-frita-baston-aloha-cuchilla-acero-inoxidable/p/MLA48098024
+  - Sitio: https://productosvirales.com.ar/producto/MLA48098024
+- **MLA15705813** — Cafetera de cápsulas Moulinex Dolce Gusto Piccolo XS: $114.436 → $359.860 (+214%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA15705813
+  - Sitio: https://productosvirales.com.ar/producto/MLA15705813
+- **MLA62609709** — Bloques Magnéticos Cubos Para Armar Estilo Minecraft 60 Piezas: $27.150 → $80.999 (+198%)
+  - ML: https://www.mercadolibre.com.ar/bloques-magneticos-cubos-para-armar-de-construccion-estilo-minecraft-para-ninos-60-piezas-didacticos-creativo-ilimitado-material-seguro-y-resistente-no-toxicos-bordes-suaves-levys-bazar/p/MLA62609709
+  - Sitio: https://productosvirales.com.ar/producto/MLA62609709
+
 ## 2026-09-04
 
 - **MLA8732921** — Auriculares Gamer Con Cable HyperX Cloud HX-HSCA Black y Red: $91.379 → $779.403 (+753%)

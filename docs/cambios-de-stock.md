@@ -7,6 +7,15 @@
 > 🔴 = se quedo sin stock (el link de afiliado apunta a una pagina pausada).
 > Entradas nuevas arriba.
 
+## 2026-09-07
+
+- 🟢 VOLVIO EL STOCK — **MLA886877609** Humidificador Portátil USB 220ml — Difusor Aromático Cápsula Blanca
+  - ML: https://articulo.mercadolibre.com.ar/MLA-886877609-humidificador-difusor-vaporizador-purificador-de-ambiente-_JM
+  - Sitio: https://productosvirales.com.ar/producto/MLA886877609
+- 🟢 VOLVIO EL STOCK — **MLA841529901** Difusor Aromatizador Humidificador Tren Locomotora 300ml — Electroland
+  - ML: https://articulo.mercadolibre.com.ar/MLA-841529901-humificador-electrico-aromaterapia-luces-led-vapor-tren-_JM
+  - Sitio: https://productosvirales.com.ar/producto/MLA841529901
+
 ## 2026-09-02
 
 - 🟢 VOLVIO EL STOCK — **MLA49747515** Pava Eléctrica ATMA Negra — Interior Acero Inoxidable, 1.8L, 1500W
