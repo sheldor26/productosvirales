@@ -1859,4 +1859,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "55",
     postedAt: "2026-09-07T18:21:12-03:00",
   },
+  {
+    title: "Disco Duro Externo Seagate Expansion 4TB",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_764965-MLA95705979678_102025-O.webp",
+    affiliateUrl: "https://meli.la/1uC32HS",
+    newPrice: "308.999",
+    oldPrice: "372.576",
+    offPct: "17",
+    postedAt: "2026-09-07T19:00:31-03:00",
+  },
 ];
