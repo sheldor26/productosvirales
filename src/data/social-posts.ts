@@ -1749,4 +1749,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "34",
     postedAt: "2026-09-07T10:47:39-03:00",
   },
+  {
+    title: "Aspiradora Robot Suono LaserPlus LiDAR 5000Pa",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_708182-MLA96662694332_112025-O.webp",
+    affiliateUrl: "https://meli.la/1YgrrRA",
+    newPrice: "275.599",
+    oldPrice: "435.499",
+    offPct: "36",
+    postedAt: "2026-09-07T11:17:52-03:00",
+  },
 ];
