@@ -30182,6 +30182,125 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     ],
     internalLinksTitle: "Más para tu hogar",
   },
+
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva sandwichera — silo cocina, categoría nueva
+  // Origen: research propio 2026-09-08. Keyword "sandwichera"
+  // 5.400/mes, SD 12. Sin canibalización: no existía guía dedicada.
+  // Nota: existe una ficha huérfana previa (Novohome NH-GR1000,
+  // MLA56253561) de una "parrilla eléctrica clamshell" que su propio
+  // copy compara con "una sanguichera" pero que ML no categoriza
+  // como Sandwicheras; se decidió NO reciclarla acá para no forzar
+  // el encaje, y se flageó por separado (spawn_task) para engancharla
+  // a su guía original o crear la de parrilla eléctrica.
+  // 4 fichas nuevas importadas el mismo día (ver curated-products.ts).
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "sandwichera",
+    category: "sandwichera",
+    silo: "cocina",
+    pillar: true,
+    title: `Sandwichera: cuál comprar en Argentina [2026]`,
+    seoTitle: `Sandwichera: Cuál Comprar en Argentina | 2026`,
+    metaDescription: `Descubrí qué sandwichera comprar en Argentina: la más barata, la más elegida y la familiar para 4 sándwiches. Precios reales de MercadoLibre y contras honestas.`,
+    ogTitle: `Sandwichera: cuál comprar en Argentina`,
+    ogDescription: `Kanji, Ultracomb y OM comparadas: 2 o 4 sándwiches por tanda, placas fijas o intercambiables. Precios reales de MercadoLibre y las contras que nadie cuenta.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_679257-MLA95495521256_102025-O.webp`,
+    h1: `Sandwichera: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene la **[Ultracomb SW2800](/producto/sandwichera-ultracomb-de-4-panes-sw2800-acero-inox-750w-cts-color-negro-mla23998430)** (alrededor de {{precio:MLA23998430:k}}): cuerpo de acero, 750W y la base de opiniones más grande entre las sandwicheras simples de esta comparativa (la Ultracomb SW-2801, que suma waffle y panini, tiene más en total). Si buscás la más barata, la **[Kanji KJH-SM700SW](/producto/sandwichera-kanji-kjh-sm700sw-antideslizante-700w-blanca-color-blanco-mla27949591)**. Si necesitás hacer varios sándwiches a la vez, la **[OM-4004](/producto/sandwichera-electrica-om-4004-negro-antiadherente-750w-4-porciones-mla39794983)**, con capacidad real para 4 sándwiches independientes. Y si querés también panini y waffle en el mismo equipo, la **[Ultracomb SW-2801](/producto/sandwichera-3-en-1-marca-ultracomb-modelo-sw-2801-negro-waffle-sandwich-mla22580428)**.`,
+    publishedDate: "2026-09-08",
+    updatedDate: "2026-09-08",
+    hasDisclosure: true,
+    readingTime: 8,
+    standfirst: `Una sandwichera va de {{precio:MLA27949591:k}} (la más básica) a {{precio:MLA22580428:k}} (la 3 en 1 con panini y waffle); la mejor elección general ronda los {{precio:MLA23998430:k}}. La decisión real pasa por cuántos sándwiches necesitás hacer a la vez y si las placas son fijas o desmontables, no solo por precio. Te mostramos cuál conviene, con precios reales de MercadoLibre.`,
+    quickPicks: [
+      { productMlaId: "MLA23998430", label: "Mejor elección general", labelColor: "green", tagline: "Ultracomb SW2800: acero inoxidable, 750W, buen respaldo de opiniones" },
+      { productMlaId: "MLA27949591", label: "La más barata", labelColor: "slate", tagline: "Kanji KJH-SM700SW: la entrada más económica" },
+      { productMlaId: "MLA39794983", label: "La familiar", labelColor: "amber", tagline: "OM-4004: capacidad real para 4 sándwiches a la vez" },
+      { productMlaId: "MLA22580428", label: "La más versátil", labelColor: "purple", tagline: "Ultracomb SW-2801: 3 en 1, con panini y waffle" },
+    ],
+    intro: [
+      `La sandwichera es de esas cosas que parecen todas iguales hasta que las comparás de cerca: dos que se llaman "de 4 panes" en realidad hacen 2 sándwiches, mientras que una menos conocida hace 4 sándwiches independientes de verdad. La decisión real pasa por cuánta gente cocina en tu casa y si las placas se pueden sacar para lavar o no, no solo por el precio.`,
+      `En esta guía comparamos las sandwicheras más vendidas y mejor calificadas de MercadoLibre Argentina, con las contras reales que cuentan los compradores: desde tapas que tardan en enfriarse hasta un aviso honesto sobre qué significa realmente "4 panes" en el nombre de una publicación.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_679257-MLA95495521256_102025-O.webp", alt: `Sandwichera Ultracomb SW2800 de acero inoxidable, la mejor elección general de esta guía`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, la **[Ultracomb SW2800](/producto/sandwichera-ultracomb-de-4-panes-sw2800-acero-inox-750w-cts-color-negro-mla23998430)**: acero inoxidable, 750W y la base de opiniones más grande entre las sandwicheras simples de esta guía (la Ultracomb SW-2801, que suma waffle y panini, tiene más en total). Si buscás **el precio más bajo**, la **[Kanji KJH-SM700SW](/producto/sandwichera-kanji-kjh-sm700sw-antideslizante-700w-blanca-color-blanco-mla27949591)**. Si necesitás **hacer varios sándwiches a la vez**, la **[OM-4004](/producto/sandwichera-electrica-om-4004-negro-antiadherente-750w-4-porciones-mla39794983)**, con capacidad real para 4 independientes. Y para **panini y waffle además de sándwich**, la **[Ultracomb SW-2801](/producto/sandwichera-3-en-1-marca-ultracomb-modelo-sw-2801-negro-waffle-sandwich-mla22580428)**, con placas intercambiables.` },
+
+      { type: "callout", calloutVariant: "note", calloutTitle: `Ojo con el "4 panes" del título`, content: `Varias publicaciones se llaman "sandwichera de 4 panes" pero en realidad hacen **2 sándwiches** por tanda (4 medias tapas de pan), no 4 sándwiches independientes. Si necesitás genuinamente 4 a la vez, fijate en la ficha técnica que diga "capacidad de sándwiches: 4", no solo en el título de la publicación.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos las sandwicheras con más ventas y opiniones reales en MercadoLibre Argentina. Las ordenamos por lo que define la compra: capacidad real (verificada en la ficha técnica, no solo en el título), material de las placas (fijas o desmontables), potencia y precio. Las calificaciones y las contras son de compradores reales. Los precios que ves en las fichas y tablas se revisan contra MercadoLibre periódicamente.` },
+
+      { type: "h2", title: `Qué mirar antes de comprar una sandwichera`, id: "que-mirar" },
+      { type: "p", content: `Primero, **la capacidad real**: revisá el campo "capacidad de sándwiches" de la ficha técnica, no solo el título de la publicación, porque nombres como "de 4 panes" suelen significar 2 sándwiches completos. Segundo, **las placas**: fijas son más simples pero más incómodas de lavar si se derrama relleno; desmontables (como en los equipos 3 en 1) se limpian mejor pero suelen costar más. Tercero, **la potencia**: de 700W en las más chicas a 750W en la mayoría de esta guía, lo que define cuánto tarda en calentar.` },
+      { type: "p", content: `Un detalle que se repite en las reseñas de la categoría: casi todas calientan rápido, pero varias avisan que la tapa tarda bastante en enfriarse después de apagarla. Vale la pena tenerlo en cuenta si hay chicos en casa.` },
+
+      { type: "h2", title: `Las mejores sandwicheras 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Ultracomb SW2800 — mejor elección general` },
+      { type: "product-card", productMlaId: "MLA23998430", label: "Mejor elección general", labelColor: "green", ranking: 1, description: `Cuerpo de acero inoxidable, 750W. 4.7 estrellas en {{reviews:MLA23998430}} calificaciones, la base más grande entre las sandwicheras simples de esta guía.` },
+      { type: "p", content: `Es la sandwichera que recomendamos a la mayoría: cuerpo de **acero inoxidable**, **750W** de potencia, a alrededor de {{precio:MLA23998430:k}}. Con {{reviews:MLA23998430}} calificaciones a 4.7 estrellas, tiene la base de opiniones más grande entre las sandwicheras simples de esta guía (la Ultracomb SW-2801, que suma waffle y panini, tiene más en total).` },
+      { type: "p", content: `La contra real, y un dato honesto sobre el nombre: pese a llamarse "de 4 panes", la ficha técnica confirma que hace 2 sándwiches por tanda (4 medias tapas), no 4 sándwiches independientes. Las placas, además, son fijas.` },
+
+      { type: "h3", title: `2. Kanji KJH-SM700SW — la más barata` },
+      { type: "product-card", productMlaId: "MLA27949591", label: "La más barata", labelColor: "slate", ranking: 2, description: `700W, para 2 sándwiches. 4.7 estrellas en {{reviews:MLA27949591}} calificaciones, la entrada más económica de esta guía.` },
+      { type: "p", content: `La sandwichera más barata de esta guía: {{reviews:MLA27949591}} opiniones a 4.7 estrellas, a alrededor de {{precio:MLA27949591:k}}. Cumple lo básico con 700W para 2 sándwiches, y se guarda parada u horizontal.` },
+      { type: "p", content: `La contra real: varias reseñas avisan que calienta rápido pero tarda bastante en enfriarse, así que hay que tener cuidado al tocar la tapa recién usada.` },
+      { type: "pull-quote", content: `"Calienta rápido pero demora un montón en enfriarse y ojo con tocar la tapa porque te queda el dedo rostizado."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `3. OM-4004 — la familiar` },
+      { type: "product-card", productMlaId: "MLA39794983", label: "La familiar", labelColor: "amber", ranking: 3, description: `Capacidad real para 4 sándwiches independientes, 750W. 4.7 estrellas en {{reviews:MLA39794983}} calificaciones.` },
+      { type: "p", content: `La única de esta guía con capacidad real para **4 sándwiches independientes** en simultáneo, el doble que el Ultracomb SW2800 o la Kanji (que hacen 2 cada una). Tiene 750W con doble calentamiento, a alrededor de {{precio:MLA39794983:k}}.` },
+      { type: "p", content: `La contra real: es de una marca menos conocida que Ultracomb o Kanji en este catálogo, y la ficha no especifica el organismo de certificación de seguridad eléctrica (a diferencia de la Ultracomb SW-2801, que sí declara IRAM).` },
+
+      { type: "h3", title: `4. Ultracomb SW-2801 — la más versátil` },
+      { type: "product-card", productMlaId: "MLA22580428", label: "La más versátil", labelColor: "purple", ranking: 4, description: `3 en 1: placas intercambiables para sándwich, panini y waffle. 4.6 estrellas en {{reviews:MLA22580428}} calificaciones, la más elegida de esta guía.` },
+      { type: "p", content: `Un equipo 3 en 1 con placas intercambiables para **sándwich sellado, panini a la plancha y waffle**, con certificación IRAM, a alrededor de {{precio:MLA22580428:k}}. Con {{reviews:MLA22580428}} calificaciones, es la de mayor volumen de opiniones de esta guía.` },
+      { type: "p", content: `La contra real: es la más cara por lejos, y una reseña detallada avisa que los materiales se sienten livianos para el precio, y que conviene dejarla precalentar 10-15 minutos antes de usar.` },
+      { type: "pull-quote", content: `"Los materiales parecen un poco de juguete, el plástico meh, las placas son livianitas... como no sale 100 lucas, tenés que dejar que caliente unos 10-15 minutos, después tanto sándwiches como cosas que puse en el grill quedaron geniales."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h2", title: `Tabla comparativa: capacidad, placas y precio`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Sándwiches`, `Placas`, `Potencia`, `Rating`], rows: [
+        [`[Ultracomb SW2800](/producto/sandwichera-ultracomb-de-4-panes-sw2800-acero-inox-750w-cts-color-negro-mla23998430)`, `{{precio:MLA23998430}}`, `2`, `Fijas, acero`, `750 W`, `{{rating:MLA23998430}} ({{reviews:MLA23998430}})`],
+        [`[Kanji KJH-SM700SW](/producto/sandwichera-kanji-kjh-sm700sw-antideslizante-700w-blanca-color-blanco-mla27949591)`, `{{precio:MLA27949591}}`, `2`, `Fijas`, `700 W`, `{{rating:MLA27949591}} ({{reviews:MLA27949591}})`],
+        [`[OM-4004](/producto/sandwichera-electrica-om-4004-negro-antiadherente-750w-4-porciones-mla39794983)`, `{{precio:MLA39794983}}`, `4`, `Fijas`, `750 W`, `{{rating:MLA39794983}} ({{reviews:MLA39794983}})`],
+        [`[Ultracomb SW-2801](/producto/sandwichera-3-en-1-marca-ultracomb-modelo-sw-2801-negro-waffle-sandwich-mla22580428)`, `{{precio:MLA22580428}}`, `2`, `Desmontables`, `750 W`, `{{rating:MLA22580428}} ({{reviews:MLA22580428}})`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu sandwichera`, id: "como-elegir" },
+      { type: "h3", title: `¿Cuántos sándwiches necesitás a la vez?` },
+      { type: "p", content: `Si sos 1 o 2 personas, con las 2 de esta guía (Ultracomb SW2800 o Kanji) alcanza. Si cocinás para toda la familia y no querés ir tanda por tanda, la [OM-4004](/producto/sandwichera-electrica-om-4004-negro-antiadherente-750w-4-porciones-mla39794983) es la única con capacidad real para 4 sándwiches independientes.` },
+      { type: "h3", title: `¿Placas fijas o desmontables?` },
+      { type: "p", content: `Tres de las cuatro de esta guía tienen placas fijas: más simples, pero más incómodas de lavar si se derrama relleno por los bordes. La [Ultracomb SW-2801](/producto/sandwichera-3-en-1-marca-ultracomb-modelo-sw-2801-negro-waffle-sandwich-mla22580428) tiene placas desmontables e intercambiables, más fáciles de limpiar y con la ventaja extra de sumar panini y waffle.` },
+      { type: "h3", title: `¿Vale la pena una 3 en 1?` },
+      { type: "p", content: `Si vas a usar también la función waffle o panini con cierta frecuencia, sí: te ahorra comprar tres aparatos distintos. Si solo necesitás sándwiches simples, pagás de más por funciones que quizás no uses.` },
+
+      { type: "h2", title: `Cuánto cuesta una sandwichera en Argentina [septiembre 2026]`, id: "cuanto-cuesta" },
+      { type: "list", content: "Franjas de precio reales", items: [
+        `**Alrededor de {{precio:MLA27949591:k}}:** la [Kanji KJH-SM700SW](/producto/sandwichera-kanji-kjh-sm700sw-antideslizante-700w-blanca-color-blanco-mla27949591), la más barata de esta guía.`,
+        `**Alrededor de {{precio:MLA39794983:k}} a {{precio:MLA23998430:k}}:** la [OM-4004](/producto/sandwichera-electrica-om-4004-negro-antiadherente-750w-4-porciones-mla39794983) (familiar, 4 sándwiches) y la [Ultracomb SW2800](/producto/sandwichera-ultracomb-de-4-panes-sw2800-acero-inox-750w-cts-color-negro-mla23998430) (la mejor elección general).`,
+        `**Alrededor de {{precio:MLA22580428:k}}:** la [Ultracomb SW-2801](/producto/sandwichera-3-en-1-marca-ultracomb-modelo-sw-2801-negro-waffle-sandwich-mla22580428), la más cara de esta guía, con panini y waffle.`,
+      ] },
+
+      { type: "verdict", content: `Para la mayoría, la **[Ultracomb SW2800](/producto/sandwichera-ultracomb-de-4-panes-sw2800-acero-inox-750w-cts-color-negro-mla23998430)** es la compra más segura: acero inoxidable, 750W y el mayor respaldo de opiniones entre las sandwicheras simples de esta guía. Si el precio manda, la **[Kanji KJH-SM700SW](/producto/sandwichera-kanji-kjh-sm700sw-antideslizante-700w-blanca-color-blanco-mla27949591)** es la más barata. Si necesitás hacer varios sándwiches a la vez para toda la familia, la **[OM-4004](/producto/sandwichera-electrica-om-4004-negro-antiadherente-750w-4-porciones-mla39794983)**, con capacidad real para 4. Y si además querés panini y waffle, sabiendo que es la más cara, la **[Ultracomb SW-2801](/producto/sandwichera-3-en-1-marca-ultracomb-modelo-sw-2801-negro-waffle-sandwich-mla22580428)**.` },
+    ],
+    faq: [
+      { question: `¿Cuál es la mejor sandwichera en Argentina?`, answer: `Para la mayoría, la [Ultracomb SW2800](/producto/sandwichera-ultracomb-de-4-panes-sw2800-acero-inox-750w-cts-color-negro-mla23998430): acero inoxidable, 750W y buen respaldo de opiniones. Si buscás la más barata, la [Kanji KJH-SM700SW](/producto/sandwichera-kanji-kjh-sm700sw-antideslizante-700w-blanca-color-blanco-mla27949591).` },
+      { question: `¿Por qué algunas sandwicheras "de 4 panes" en realidad hacen 2 sándwiches?`, answer: `Es una convención confusa del rubro: "4 panes" suele referirse a 4 medias tapas de pan (2 sándwiches completos), no a 4 sándwiches independientes. Fijate en el campo "capacidad de sándwiches" de la ficha técnica para saber la capacidad real. La [OM-4004](/producto/sandwichera-electrica-om-4004-negro-antiadherente-750w-4-porciones-mla39794983) de esta guía sí hace 4 sándwiches independientes de verdad.` },
+      { question: `¿Vale la pena una sandwichera 3 en 1 con waffle?`, answer: `Si vas a usar también las funciones panini y waffle con cierta frecuencia, sí: te ahorra comprar equipos separados. Si solo necesitás sándwiches, la [Ultracomb SW2800](/producto/sandwichera-ultracomb-de-4-panes-sw2800-acero-inox-750w-cts-color-negro-mla23998430) o la [Kanji](/producto/sandwichera-kanji-kjh-sm700sw-antideslizante-700w-blanca-color-blanco-mla27949591) cumplen a menor precio.` },
+      { question: `¿Las placas fijas son un problema?`, answer: `No para uso normal, pero son más incómodas de limpiar si se derrama relleno por los bordes. Si eso te preocupa, la [Ultracomb SW-2801](/producto/sandwichera-3-en-1-marca-ultracomb-modelo-sw-2801-negro-waffle-sandwich-mla22580428) tiene placas desmontables.` },
+      { question: `¿Es peligrosa la tapa después de usarla?`, answer: `Varias reseñas de esta categoría avisan que la tapa tarda bastante en enfriarse una vez que se calentó. Conviene esperar antes de tocarla, sobre todo con chicos cerca.` },
+      { question: `¿Cuánta potencia necesita una sandwichera?`, answer: `Entre 700 y 750W en los modelos de esta guía. La diferencia no es enorme, pero a más potencia, más rápido calienta.` },
+    ],
+    internalLinks: [
+      { label: "Batidora: cuál comprar en Argentina", href: "/guias/cocina/batidora" },
+      { label: "Anafe eléctrico: cuál comprar en Argentina", href: "/guias/cocina/anafe-electrico" },
+      { label: "Freidora de aire: cuál comprar en Argentina", href: "/guias/mejores-freidoras-de-aire-argentina" },
+      { label: "Aspiradora de mano: cuál comprar en Argentina", href: "/guias/hogar/aspiradora-de-mano" },
+    ],
+    internalLinksTitle: "Más para tu cocina",
+  },
 ];
 
 /**
@@ -30520,6 +30639,11 @@ export const guideCategories: Record<string, { name: string; description: string
     name: "Guía de Batidoras",
     description:
       "De mano o de pie, batidores de metal o plástico: cuál conviene según cuánto vas a hornear. Las más vendidas de MercadoLibre, comparadas.",
+  },
+  sandwichera: {
+    name: "Guía de Sandwicheras",
+    description:
+      "Cuántos sándwiches hace de verdad cada una (no solo lo que dice el título) y si las placas se lavan fácil. Las más vendidas de MercadoLibre, comparadas.",
   },
   climatizacion: {
     name: "Guías de Climatización",

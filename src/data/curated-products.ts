@@ -87109,6 +87109,256 @@ Para quien quiere el salto a una aspiradora inalámbrica de pie con potencia rea
       { question: "¿Por qué es tanto más cara que las otras de esta comparativa?", answer: "Es una aspiradora inalámbrica de pie de gama alta, con más potencia, más autonomía de batería y accesorios que las 2 en 1 con cable o la de mano compacta de esta comparativa. El salto de precio corresponde a un salto real de prestaciones." },
     ],
   },
+  {
+    id: "MLA27949591",
+    title: "Sandwichera Kanji Kjh-sm700sw Antideslizante 700w Blanca Color Blanco",
+    canonicalName: "Kanji KJH-SM700SW", mpn: "KJH-SM700SB-01", brand: "Kanji",
+    price: 24180, currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_903257-MLA99397766480_112025-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_903257-MLA99397766480_112025-O.webp"],
+    category: "Cocina", categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/sandwichera-kanji-kjh-sm700sw-antideslizante-700w-blanca-color-blanco/p/MLA27949591",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new", freeShipping: true, rating: 4.7, reviewCount: 198,
+    pastelColor: "var(--pastel-blue)",
+    priceUpdated: "2026-09-08", priceLastChecked: "2026-09-08", priceStatus: "fresh", reviewsSampledAt: "2026-09-08",
+    specs: [
+      { label: "Marca", value: "Kanji" },
+      { label: "Modelo", value: "KJH-SM700SB-01" },
+      { label: "Potencia", value: "700 W" },
+      { label: "Capacidad de sandwiches", value: "2" },
+      { label: "Tipos de placas", value: "Antiadherente, fijas" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Almacenamiento", value: "Vertical u horizontal" },
+      { label: "Base", value: "Con patas antideslizantes" },
+    ],
+    relatedProducts: ["MLA23998430", "MLA39794983", "MLA22580428"],
+    description: "Sandwichera Kanji KJH-SM700SW, 700W, para 2 sándwiches. La más barata de esta comparativa, con buen respaldo de opiniones argentinas.",
+    seoTitle: "Kanji KJH-SM700SW: la sandwichera más barata, ¿rinde?",
+    metaDescription: "Kanji KJH-SM700SW a {{precio:MLA27949591}}: 700W, para 2 sándwiches, {{reviews:MLA27949591}} calificaciones. La más barata de esta comparativa.",
+    ogTitle: "Kanji KJH-SM700SW: la sandwichera más barata de esta comparativa",
+    ogDescription: "700W, placas antiadherentes, se guarda parada u horizontal. La más barata, con un aviso honesto sobre la tapa caliente.",
+    h1: "Kanji KJH-SM700SW: sandwichera de entrada, la más barata de esta comparativa",
+    verdict: "La sandwichera más barata de esta comparativa: {{reviews:MLA27949591}} calificaciones a 4.7 estrellas. Cumple lo básico con 700W para 2 sándwiches, y se guarda parada u horizontal gracias a sus patas antideslizantes. El aviso honesto: varias reseñas confirman que calienta rápido pero tarda bastante en enfriarse, así que hay que tener cuidado al tocar la tapa recién usada.",
+    pros: [
+      "La más barata de esta comparativa",
+      "{{reviews:MLA27949591}} calificaciones a {{rating:MLA27949591}} estrellas, buen respaldo para el precio",
+      "Calienta rápido, según reseñas",
+      "Se guarda parada u horizontal, ocupa poco espacio",
+    ],
+    cons: [
+      "Tarda bastante en enfriarse después de usarla: cuidado al tocar la tapa",
+      "Placas fijas, no desmontables para lavar",
+      "Solo 2 sándwiches por tanda, la misma capacidad que la elección general de esta comparativa pero con menos potencia (700W contra 750W)",
+    ],
+    articleBody: `## La sandwichera más barata de esta comparativa
+
+La Kanji KJH-SM700SW es la opción de entrada: {{precio:MLA27949591}} por una sandwichera de 700W para 2 sándwiches. Acumula {{reviews:MLA27949591}} calificaciones a 4.7 estrellas, todas de Argentina. Se guarda parada o acostada, con patas antideslizantes en la base.
+
+## Lo honesto: cuidado con la tapa
+
+Varias reseñas coinciden en que calienta rápido, pero avisan de un detalle a tener en cuenta: tarda bastante en enfriarse después de apagarla, así que conviene esperar antes de tocar la tapa para evitar quemarte. Las placas son antiadherentes pero fijas, no se pueden sacar para lavar por separado.
+
+## Para quién es
+
+Para quien busca resolver un desayuno o merienda rápida sin gastar de más, en un depto o casa chica. Si vas a usarla seguido o para más gente, el Ultracomb SW2800 de esta comparativa suma más potencia y placas de acero por un precio bastante razonable.`,
+    faq: [
+      { question: "¿Cuántos sándwiches hace por vez?", answer: "2 sándwiches por tanda, con placas antiadherentes fijas (no desmontables)." },
+      { question: "¿Es peligrosa la tapa después de usarla?", answer: "Varias reseñas avisan que tarda bastante en enfriarse una vez que se calentó, así que conviene tener cuidado al tocarla recién usada, sobre todo con chicos cerca." },
+      { question: "¿Cuántas calificaciones tiene?", answer: "{{reviews:MLA27949591}} calificaciones a {{rating:MLA27949591}} estrellas." },
+      { question: "¿Qué diferencia tiene con el Ultracomb SW2800?", answer: "El Ultracomb suma 50W más de potencia y placas de acero inoxidable (contra las fijas de la Kanji), a un precio moderadamente mayor. Si el presupuesto es lo primero, la Kanji cumple." },
+      { question: "¿Ocupa mucho espacio?", answer: "No, se puede guardar parada u horizontal gracias a sus patas antideslizantes, pensada para cocinas chicas." },
+      { question: "¿Trae garantía?", answer: "La ficha de MercadoLibre no detalla el plazo de garantía de fábrica de este modelo puntual; confirmalo en la publicación antes de comprar." },
+    ],
+  },
+  {
+    id: "MLA23998430",
+    title: "Sandwichera Ultracomb De 4 Panes Sw2800 Acero Inox 750w Cts Color Negro",
+    canonicalName: "Ultracomb SW2800", mpn: "SW-2800", brand: "Ultracomb",
+    price: 36170, originalPrice: 51400, currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_679257-MLA95495521256_102025-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_679257-MLA95495521256_102025-O.webp"],
+    category: "Cocina", categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/sandwichera-ultracomb-de-4-panes-sw2800-acero-inox-750w-cts-color-negro/p/MLA23998430",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new", freeShipping: true, rating: 4.7, reviewCount: 1174,
+    pastelColor: "var(--pastel-coral)",
+    priceUpdated: "2026-09-08", priceLastChecked: "2026-09-08", priceStatus: "fresh", reviewsSampledAt: "2026-09-08",
+    specs: [
+      { label: "Marca", value: "Ultracomb" },
+      { label: "Modelo", value: "SW-2800" },
+      { label: "Potencia", value: "750 W" },
+      { label: "Capacidad de sandwiches", value: "2 (4 medios panes)" },
+      { label: "Tipos de placas", value: "Antiadherente, fijas" },
+      { label: "Material", value: "Acero" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Peso", value: "1,5 kg" },
+    ],
+    relatedProducts: ["MLA27949591", "MLA39794983", "MLA22580428"],
+    description: "Sandwichera Ultracomb SW2800, 750W, cuerpo de acero inoxidable. La mejor elección general de esta comparativa, con más de 1.100 calificaciones.",
+    seoTitle: "Ultracomb SW2800: la sandwichera de acero, ¿vale la pena?",
+    metaDescription: "Ultracomb SW2800 a {{precio:MLA23998430}}: 750W, acero inoxidable y {{reviews:MLA23998430}} calificaciones. La mejor elección general de esta comparativa.",
+    ogTitle: "Ultracomb SW2800: sandwichera de acero inoxidable, buen respaldo de opiniones",
+    ogDescription: "750W, cuerpo de acero, la base de opiniones más grande entre las sandwicheras simples de esta comparativa (la Ultracomb SW-2801, que suma waffle y panini, tiene más en total). Un dato honesto sobre qué significa realmente \"4 panes\".",
+    h1: "Ultracomb SW2800: sandwichera de acero, la mejor elección general de esta comparativa",
+    verdict: "La mejor elección general de esta comparativa: {{reviews:MLA23998430}} calificaciones a 4.7 estrellas. Cuerpo de acero inoxidable, 750W y un dato honesto sobre el nombre: aunque se llama \"de 4 panes\", la ficha técnica confirma que hace 2 sándwiches por tanda (4 medias tapas de pan), no 4 sándwiches independientes como el OM-4004 de esta comparativa.",
+    pros: [
+      "{{reviews:MLA23998430}} calificaciones, la base de opiniones más grande entre las sandwicheras simples de esta comparativa (la Ultracomb SW-2801, que suma waffle y panini, tiene más en total)",
+      "Cuerpo de acero inoxidable, más resistente que el plástico de la Kanji",
+      "750W, calienta rápido según reseñas reales",
+      "Badge de más vendida en su categoría",
+    ],
+    cons: [
+      "El nombre \"de 4 panes\" puede confundir: hace 2 sándwiches por tanda (4 medias tapas), no 4 sándwiches independientes",
+      "Placas fijas, no desmontables para lavar",
+      "Si buscás 4 sándwiches independientes de verdad, el OM-4004 de esta comparativa rinde el doble",
+    ],
+    articleBody: `## La mejor elección general de esta comparativa
+
+La Ultracomb SW2800 tiene cuerpo de acero inoxidable, 750W y acumula {{reviews:MLA23998430}} calificaciones a 4.7 estrellas, la base de opiniones más grande entre las sandwicheras simples de esta comparativa (la Ultracomb SW-2801, que suma waffle y panini, tiene más en total). Cuesta {{precio:MLA23998430}}.
+
+## Lo honesto sobre el nombre "4 panes"
+
+El nombre comercial puede confundir: la ficha técnica de MercadoLibre confirma que la "capacidad de sándwiches" real es 2, no 4. Lo que hace son 4 medias tapas de pan (2 sándwiches completos) por tanda, un uso habitual del término en el rubro pero que no siempre queda claro en el título de la publicación. Si buscás genuinamente 4 sándwiches independientes en simultáneo, el OM-4004 de esta comparativa sí lo hace.
+
+## Para quién es
+
+Para quien busca una sandwichera confiable, de acero, para uso diario de 1 a 2 personas. Si necesitás hacer varios sándwiches a la vez para toda la familia, el OM-4004 (4 sándwiches reales) de esta comparativa rinde más.`,
+    faq: [
+      { question: "¿La Ultracomb SW2800 hace 4 sándwiches por vez?", answer: "No: pese al nombre \"de 4 panes\", la ficha técnica confirma que la capacidad real es 2 sándwiches (4 medias tapas de pan) por tanda. Para 4 sándwiches independientes de verdad, mirá el OM-4004 de esta comparativa." },
+      { question: "¿Las placas son de acero?", answer: "El cuerpo exterior es de acero inoxidable; las placas de cocción son antiadherentes y fijas, no se desmontan para lavar." },
+      { question: "¿Cuántas calificaciones tiene?", answer: "{{reviews:MLA23998430}} calificaciones a {{rating:MLA23998430}} estrellas, la base de opiniones más grande entre las sandwicheras simples de esta comparativa (la Ultracomb SW-2801, que suma waffle y panini, tiene más en total)." },
+      { question: "¿Qué diferencia tiene con la Kanji?", answer: "La Ultracomb suma 50W más de potencia y cuerpo de acero (contra el plástico de la Kanji), a un precio moderadamente mayor." },
+      { question: "¿Trae garantía?", answer: "La ficha de MercadoLibre no detalla el plazo de garantía de fábrica de este modelo puntual; confirmalo en la publicación antes de comprar." },
+      { question: "¿Cuánto tarda en calentar?", answer: "Reseñas reales confirman que calienta rápido; con la temperatura ya alcanzada, el tiempo de cocción de cada tanda de sándwiches es corto." },
+    ],
+  },
+  {
+    id: "MLA39794983",
+    title: "Sandwichera Eléctrica OM-4004 Negro Antiadherente 750W 4 Porciones",
+    canonicalName: "OM-4004", mpn: "OM-4004", brand: "OM",
+    price: 34650, currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_865801-MLA111905116693_052026-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_865801-MLA111905116693_052026-O.webp"],
+    category: "Cocina", categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/sandwichera-electrica-om-4004-negro-antiadherente-750w-4-porciones/p/MLA39794983",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new", freeShipping: true, rating: 4.7, reviewCount: 365,
+    pastelColor: "var(--pastel-amber)",
+    priceUpdated: "2026-09-08", priceLastChecked: "2026-09-08", priceStatus: "fresh", reviewsSampledAt: "2026-09-08",
+    specs: [
+      { label: "Marca", value: "OM" },
+      { label: "Modelo", value: "OM-4004" },
+      { label: "Potencia", value: "750 W" },
+      { label: "Capacidad de sandwiches", value: "4 (independientes)" },
+      { label: "Tipos de placas", value: "Antiadherente, doble calentamiento" },
+      { label: "Voltaje", value: "220V" },
+    ],
+    relatedProducts: ["MLA27949591", "MLA23998430", "MLA22580428"],
+    description: "Sandwichera eléctrica OM-4004, 750W, capacidad real para 4 sándwiches independientes. La opción familiar de esta comparativa.",
+    seoTitle: "OM-4004: la sandwichera familiar para 4 sándwiches a la vez",
+    metaDescription: "OM-4004 a {{precio:MLA39794983}}: 750W, 4 sándwiches independientes y {{reviews:MLA39794983}} calificaciones. La opción familiar de esta comparativa.",
+    ogTitle: "OM-4004: sandwichera para 4 sándwiches independientes a la vez",
+    ogDescription: "750W, doble calentamiento, capacidad real para 4 sándwiches simultáneos. La opción familiar de esta comparativa, de una marca menos conocida.",
+    h1: "OM-4004: sandwichera familiar, para 4 sándwiches a la vez",
+    verdict: "La opción familiar de esta comparativa: capacidad real para 4 sándwiches independientes en simultáneo (el doble que el Ultracomb SW2800 o la Kanji de esta comparativa), con 750W y doble calentamiento. Es de una marca menos conocida que Ultracomb o Kanji, con {{reviews:MLA39794983}} calificaciones a 4.7 estrellas, y la ficha no especifica organismo de certificación de seguridad eléctrica.",
+    pros: [
+      "Capacidad real para 4 sándwiches independientes a la vez, el doble que el resto de esta comparativa",
+      "750W con doble calentamiento (arriba y abajo)",
+      "Precio intermedio, más barata que el Ultracomb SW2800 pese a mayor capacidad",
+      "{{reviews:MLA39794983}} calificaciones a {{rating:MLA39794983}} estrellas",
+    ],
+    cons: [
+      "Marca menos conocida que Ultracomb o Kanji, con menos historial en el sitio",
+      "La ficha de MercadoLibre no especifica el organismo de certificación de seguridad eléctrica",
+      "Placas fijas, no desmontables para lavar",
+    ],
+    articleBody: `## La opción familiar de esta comparativa
+
+La OM-4004 es la única de esta comparativa con capacidad real para **4 sándwiches independientes** en simultáneo, el doble que el Ultracomb SW2800 o la Kanji (que hacen 2 cada una pese a que el Ultracomb se llame "de 4 panes"). Tiene 750W con doble calentamiento y cuesta {{precio:MLA39794983}}.
+
+## Lo honesto sobre la marca
+
+OM es una marca menos conocida que Ultracomb, Liliana o Kanji en el catálogo de este sitio, y la ficha de MercadoLibre no especifica el organismo de certificación de seguridad eléctrica (a diferencia de otros modelos que sí declaran IRAM). Las reseñas que tiene son positivas pero más cortas y genéricas que las de otros modelos de esta comparativa. No es una señal de alarma, pero es un dato a tener en cuenta.
+
+## Para quién es
+
+Para familias o convivientes que hacen varios sándwiches a la vez y no quieren ir tanda por tanda. Si sos 1 o 2 personas, cualquiera de las otras opciones de esta comparativa alcanza y cuesta lo mismo o menos.`,
+    faq: [
+      { question: "¿Realmente hace 4 sándwiches a la vez?", answer: "Sí, la ficha técnica confirma capacidad para 4 sándwiches independientes, no 4 medias tapas como en otros modelos con nombres similares. Es la única de esta comparativa con esa capacidad real." },
+      { question: "¿Qué marca es OM?", answer: "Una marca menos conocida que Ultracomb, Liliana o Kanji en el catálogo de este sitio. Las reseñas son positivas, aunque más cortas y genéricas que las de marcas más establecidas." },
+      { question: "¿Tiene certificación de seguridad?", answer: "La ficha de MercadoLibre no especifica el organismo de certificación de seguridad eléctrica, a diferencia de otros modelos de esta comparativa que sí declaran IRAM. Confirmá este dato en la publicación antes de comprar si te preocupa." },
+      { question: "¿Cuántas calificaciones tiene?", answer: "{{reviews:MLA39794983}} calificaciones a {{rating:MLA39794983}} estrellas." },
+      { question: "¿Las placas son desmontables?", answer: "No, son antiadherentes pero fijas, no se sacan para lavar por separado." },
+      { question: "¿Vale la pena para 1 o 2 personas?", answer: "No especialmente: si sos poca gente, cualquiera de las otras 3 opciones de esta comparativa cumple igual o mejor a un precio similar o menor. La ventaja real de esta se nota con varios comensales a la vez." },
+    ],
+  },
+  {
+    id: "MLA22580428",
+    title: "Sandwichera 3 En 1 Marca Ultracomb Modelo Sw-2801 - Negro Waffle Sandwich",
+    canonicalName: "Ultracomb SW-2801", mpn: "SW-2801", brand: "Ultracomb",
+    price: 58405, currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_810392-MLA112998865188_072026-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_810392-MLA112998865188_072026-O.webp"],
+    category: "Cocina", categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/sandwichera-3-en-1-marca-ultracomb-modelo-sw-2801-negro-waffle-sandwich/p/MLA22580428",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new", freeShipping: true, rating: 4.6, reviewCount: 1969,
+    pastelColor: "var(--pastel-purple)",
+    priceUpdated: "2026-09-08", priceLastChecked: "2026-09-08", priceStatus: "fresh", reviewsSampledAt: "2026-09-08",
+    specs: [
+      { label: "Marca", value: "Ultracomb" },
+      { label: "Modelo", value: "SW-2801" },
+      { label: "Línea", value: "Desayuno" },
+      { label: "Potencia", value: "750 W" },
+      { label: "Capacidad de sandwiches", value: "2" },
+      { label: "Tipos de placas", value: "Sandwich, panini/grill y waffle, intercambiables" },
+      { label: "Con placas removibles", value: "Sí" },
+      { label: "Material", value: "Acero inoxidable (panel frontal)" },
+      { label: "Certificación", value: "IRAM" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Peso", value: "2,2 kg" },
+    ],
+    relatedProducts: ["MLA27949591", "MLA23998430", "MLA39794983"],
+    description: "Sandwichera 3 en 1 Ultracomb SW-2801, placas intercambiables para sándwich sellado, panini a la plancha y waffle. La opción premium de esta comparativa, con certificación IRAM.",
+    seoTitle: "Ultracomb SW-2801: la sandwichera 3 en 1, ¿vale la pena?",
+    metaDescription: "Ultracomb SW-2801 a {{precio:MLA22580428}}: 3 en 1, placas intercambiables y {{reviews:MLA22580428}} calificaciones. La opción premium de esta comparativa.",
+    ogTitle: "Ultracomb SW-2801: sandwichera 3 en 1 con placas intercambiables",
+    ogDescription: "Sándwich, panini y waffle en un solo equipo, con certificación IRAM. La más completa de esta comparativa, aunque hay que dejarla precalentar más de lo esperado.",
+    h1: "Ultracomb SW-2801: sandwichera 3 en 1, la opción premium de esta comparativa",
+    verdict: "La opción más versátil de esta comparativa: placas intercambiables para sándwich sellado, panini a la plancha y waffle, con certificación IRAM. Es la más cara, pero también la de mayor volumen de opiniones: {{reviews:MLA22580428}} calificaciones a 4.6 estrellas. El aviso honesto de una reseña detallada: los materiales se sienten livianos para el precio, y conviene dejarla precalentar 10-15 minutos, más de lo que uno esperaría.",
+    pros: [
+      "3 en 1: placas intercambiables para sándwich, panini/grill y waffle",
+      "{{reviews:MLA22580428}} calificaciones, la base de opiniones más grande de esta comparativa",
+      "Certificación de seguridad eléctrica IRAM",
+      "Placas removibles, más fáciles de lavar que las fijas del resto de esta comparativa",
+    ],
+    cons: [
+      "La más cara de esta comparativa",
+      "Una reseña detallada avisa que los materiales (placas, plástico) se sienten livianos para el precio",
+      "Conviene dejarla precalentar 10-15 minutos antes de usar, más tiempo del esperado",
+      "Las luces indicadoras generan confusión, según la misma reseña",
+    ],
+    articleBody: `## La opción más versátil de esta comparativa
+
+La Ultracomb SW-2801 es un equipo 3 en 1: sus placas se intercambian en segundos para preparar sándwiches sellados, paninis a la plancha o waffles. Cuesta {{precio:MLA22580428}} y tiene certificación de seguridad eléctrica IRAM. Con {{reviews:MLA22580428}} calificaciones a 4.6 estrellas, tiene la base de opiniones más grande de esta comparativa.
+
+## Lo que dicen los compradores reales
+
+Una reseña muy detallada y honesta (186 votos útiles) pone las expectativas en su lugar: "los materiales parecen un poco de juguete, el plástico meh, las placas son livianitas", pero aclara que a este precio "no vale ni 1/4" de una sandwichera premium tipo Starbucks, y que rinde bien para lo que cuesta. El mismo comprador avisa que conviene dejarla precalentar 10-15 minutos (más de lo esperado) para que sándwiches y grill queden bien, y que las luces indicadoras confunden más de lo que ayudan.
+
+## Para quién es
+
+Para quien quiere un solo equipo que resuelva sándwiches, panini y waffles sin comprar tres aparatos distintos, y no le molesta que los materiales se sientan más livianos que en un equipo mucho más caro. Si solo necesitás sándwiches simples, el Ultracomb SW2800 o la Kanji de esta comparativa cumplen a menor precio.`,
+    faq: [
+      { question: "¿Las placas son realmente intercambiables?", answer: "Sí, la ficha técnica y las reseñas confirman que se cambian en segundos entre sándwich sellado, panini/grill y waffle, sin herramientas." },
+      { question: "¿Cuánto tarda en precalentar?", answer: "Una reseña detallada recomienda dejarla precalentar entre 10 y 15 minutos antes de usarla, más tiempo del que uno esperaría de una sandwichera." },
+      { question: "¿Los materiales son de buena calidad?", answer: "Son livianos para el precio, según una reseña muy detallada: el plástico y las placas no se sienten premium. Funcionalmente cumple bien, pero no es un equipo de gama alta en cuanto a materiales." },
+      { question: "¿Tiene certificación de seguridad?", answer: "Sí, certificación IRAM (Instituto Argentino de Normalización y Certificación), a diferencia del OM-4004 de esta comparativa, que no la especifica." },
+      { question: "¿Cuántas calificaciones tiene?", answer: "{{reviews:MLA22580428}} calificaciones a {{rating:MLA22580428}} estrellas, la base de opiniones más grande de esta comparativa." },
+      { question: "¿Vale la pena pagar más por esta que por una sandwichera simple?", answer: "Si vas a usar también la función waffle o panini, sí. Si solo necesitás sándwiches, el Ultracomb SW2800 o la Kanji de esta comparativa cumplen igual a menor precio." },
+    ],
+  },
 ];
 
 export const categoryPastels: Record<string, string> = {

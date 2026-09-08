@@ -1761,3 +1761,69 @@ links reales), `node scripts/check-price-guard.cjs` y `npm run build` en verde. 
 en el navegador. Las 4 imágenes verificadas con GET real (2.790 a 23.102 bytes).
 
 Re-medir: **~2026-10-06** (≈4 semanas), contra baseline cero.
+
+## 2026-09-08 — Guía nueva `sandwichera` (silo cocina, categoría nueva, 4 fichas nuevas)
+
+| Guía | Silo | Categoría | Keyword | Volumen (Ubersuggest AR) | SD | Productos |
+| :-- | :-- | :-- | :-- | --: | --: | --: |
+| `sandwichera` | cocina | sandwichera | sandwichera | 5.400 | 12 | 4 |
+
+**Baseline: cero.** URL nueva, sin historial en GSC. Sin canibalización: no existía guía dedicada.
+
+**Hallazgo editorial central: el nombre "de 4 panes" es engañoso.** Verificado ficha por ficha: la
+Ultracomb SW2800 se vende como "de 4 panes" pero su propio campo "Capacidad de sándwiches" declara 2 (4
+medias tapas = 2 sándwiches completos). La OM-4004, de una marca menos conocida, sí declara "Capacidad
+de sándwiches: 4" (independientes de verdad). Se construyó un callout dedicado en la guía ("Ojo con el
+'4 panes' del título") y se posicionó a la OM-4004 como "la familiar", el único pick genuino de 4
+sándwiches simultáneos.
+
+**4 fichas nuevas importadas desde cero** (Kanji KJH-SM700SW, Ultracomb SW2800, OM-4004, Ultracomb
+SW-2801), siguiendo `docs/fichas.md`. Se descartaron 3 candidatos sin stock (Philco Maxx Gold PGR23G,
+Philco PGR21pi Maxx Clean —pese a tener 39.151 calificaciones, la más alta vista en toda la búsqueda—, y
+Philco Jumbo Steel) y se descartó a propósito la Liliana AS989 (en stock, pero casi el mismo precio que
+la Ultracomb SW2800 con menos potencia y cuerpo de plástico: no aportaba diferenciación real frente a
+sumar la OM-4004, que sí trae una capacidad genuinamente distinta).
+
+**Ficha huérfana descubierta y flageada aparte, no reciclada.** Existe en el catálogo una ficha completa
+(Novohome NH-GR1000 "Parrilla Eléctrica Clamshell", `MLA56253561`) cuyo propio copy la compara con "una
+sanguichera", pero MercadoLibre la categoriza como parrilla/grill, no como Sandwicheras, y no pertenece a
+ninguna guía. Se decidió no forzar el encaje en esta guía nueva; se registró como tarea aparte
+(`task_b99ec530`) para engancharla a su guía original o crear la de parrilla eléctrica.
+
+**Auditoría del trío: 2 rondas hasta doble GO, con un incidente propio serio en el medio — un `sed`
+sin acotar rompió contenido de otros 5 productos ajenos a esta guía.** Ronda 1: antes incluso de lanzar
+el trío, Claude detectó y corrigió una contradicción real (la Ultracomb SW2800, 1.174 reseñas, y la
+Ultracomb SW-2801, 1.969 reseñas y 3 en 1, se disputaban ambas "la base de opiniones más grande de esta
+guía"). El arreglo se hizo con un `sed -i` de reemplazo global de la frase compartida, sin acotarlo al
+archivo/sección de la sandwichera SW2800 — y esa misma frase existía, coincidencia, en el texto de otros
+5 productos totalmente ajenos: el vaporizador Silfab V12, otra ficha con "2.508 calificaciones", la
+batidora Liliana Optibat AB100 y las aspiradoras Gadnic JTL60Y y Electrolux STK12 (las dos últimas de la
+guía aspiradora-de-mano armada esa misma sesión). El `sed` les insertó a las cinco un paréntesis
+sin sentido hablando de "la Ultracomb SW-2801". Lo encontró `agy` en su primera pasada, reportándolo como
+una "contradicción de copy-paste" en la ficha de la SW-2801 (la punta visible del problema real). Se
+revirtieron las cinco fichas/guías ajenas línea por línea a su texto exacto original, y se reaplicó el
+acotamiento correcto ("entre las sandwicheras simples de esta guía") SOLO en las 6 ubicaciones reales de
+la SW2800, más 2 que Codex encontró sin acotar en esa misma ronda 1 (un `product-card.description` y el
+`verdict` de la guía, con frases ligeramente distintas que el primer `sed` no había cubierto). Ronda 2:
+doble GO limpio; ambos auditores confirmaron con un barrido explícito de todo el sitio que no quedó
+ningún rastro del daño colateral. Codex señaló además, de paso, una inconsistencia de reviewCount en la
+ficha del Silfab V12 (2.508 en la prosa vs. 2.144 real) — confirmada con `git diff HEAD` como
+**preexistente al commit anterior, sin relación con el trabajo de esta sesión**; se registró aparte
+(`task_d90b02fe`), no bloqueó el GO de esta guía.
+
+**Lección nueva, la más cara de la sesión hasta ahora:** nunca usar `sed`/reemplazo global de una frase
+que pueda repetirse en contenido de otros productos sin acotar explícitamente al bloque/sección exacta
+del producto que se está corrigiendo (por `id`, por rango de líneas del `slug` de la guía, o ambos).
+Un hallazgo de 2 productos puede necesitar tocar un patrón de texto que, sin querer, existe también en
+contenido de productos no relacionados en cualquier otra parte del archivo de 87.000+ líneas. La
+verificación mecánica de rutina no lo iba a atrapar (no rompe tokens, no cambia precios ni slugs); solo
+lo agarró la lectura humana/AI de `agy` en la auditoría. Mitigación aplicada desde este incidente: para
+correcciones de texto compartido, usar siempre un script que acote el reemplazo al bloque delimitado por
+el `id`/`slug` del producto/guía exacto (ver el patrón usado para revertir y reaplicar en este mismo
+ciclo), nunca un `sed -i` de archivo completo con una frase que no incluya el identificador del producto.
+
+**Verificación:** `npx tsc --noEmit`, los 8 scripts de `npm run guides:check` que no dependen de
+`affiliateUrl`, `node scripts/check-price-guard.cjs` y `npm run build` en verde tras cada ronda. Render
+local verificado en el navegador. Las 4 imágenes verificadas con GET real (5.592 a 24.350 bytes).
+
+Re-medir: **~2026-10-06** (≈4 semanas), contra baseline cero.
