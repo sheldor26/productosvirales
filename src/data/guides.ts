@@ -1770,7 +1770,7 @@ export const guides: Guide[] = [
       { type: "pull-quote", content: `"Cocina mucho más rápido de lo que yo esperaba. Anda bien y ocupa poco espacio; eso sí, es pequeño, así que una tarta grande no entra."`, attribution: `Opinión verificada en MercadoLibre` },
 
       { type: "h3", title: `3. Smartlife 50L con convección y spiedo — el más grande y el que más cocina` },
-      { type: "product-card", productMlaId: "MLA14259153", label: "El que más cocina", labelColor: "purple", ranking: 3, description: `50 litros con convección, spiedo y 6 funciones: temperatura precisa, cocina parejo como un horno de cocina. 4.7 estrellas en más de 1.500 calificaciones.` },
+      { type: "product-card", productMlaId: "MLA14259153", label: "El que más cocina", labelColor: "purple", ranking: 3, description: `50 litros con convección, spiedo y 6 funciones: temperatura precisa, cocina parejo como un horno de cocina. {{rating:MLA14259153}} estrellas en {{reviews:MLA14259153}} calificaciones.` },
       { type: "p", content: `Si son varios en casa o te tomás en serio cocinar (repostería, pan, pollo al asador), este es el más grande de la guía y el más completo. El Smartlife de **50 litros** suma **convección forzada** (cocina parejo, sin zonas frías), **spiedo motorizado** (asador giratorio para pollo) y 6 funciones, con temperatura precisa hasta 250 °C que los compradores destacan para bizcochuelos y pan. A alrededor de {{precio:MLA14259153:k}}, y con **2 años de garantía**, el doble de lo habitual (el resto de la guía da 12 meses).` },
       { type: "p", content: `Es el que más se acerca a un horno de cocina de verdad, a cambio de un precio algo mayor que un horno simple del mismo tamaño. Si solo vas a calentar y hacer pizza, es más de lo que necesitás; si horneás, cocinás variado o sos varios en casa, la convección, el spiedo y los 50 litros se notan.` },
 
@@ -21511,9 +21511,9 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     readingTime: 9,
     standfirst: `Smartlife se volvió la marca value de las cafeteras en Argentina: precios de gama económica con miles de calificaciones reales arriba de 4.6. Comparamos las tres que se consiguen hoy en MercadoLibre: la SL-EC8501 de 20 bares, la 3 en 1 que acepta todas las cápsulas y la de filtro digital programable.`,
     intro: [
-      `Smartlife juega un juego claro en el mercado argentino: prestaciones que las marcas grandes cobran el doble, a precio de gama económica. En cafeteras le salió especialmente bien. La **SL-EC8501** junta {{reviews:MLA18562154}} calificaciones con 4.6 estrellas, la **3 en 1** suma otras 1.654 con 4.7, y entre las dos forman la base de opiniones más grande de cualquier marca de cafeteras del catálogo. Eso explica que "cafetera smartlife" sea una búsqueda con nombre propio en Google.`,
+      `Smartlife juega un juego claro en el mercado argentino: prestaciones que las marcas grandes cobran el doble, a precio de gama económica. En cafeteras le salió especialmente bien. La **SL-EC8501** junta {{reviews:MLA18562154}} calificaciones con 4.6 estrellas, la **3 en 1** suma otras {{reviews:MLA28314113}} con {{rating:MLA28314113}}, y entre las dos forman la base de opiniones más grande de cualquier marca de cafeteras del catálogo. Eso explica que "cafetera smartlife" sea una búsqueda con nombre propio en Google.`,
       `La letra chica también existe, y la contamos de entrada: los manuales de Smartlife son flojos, la SL-EC8501 viene con un tapón de silicona escondido en el depósito que volvió loco a más de un comprador, y los primeros cafés salen aguados hasta que purgás el circuito. Nada de eso frena la compra; todo eso conviene saberlo antes del primer café.`,
-      `Acá comparamos los tres modelos con stock y garantía en MercadoLibre Argentina: la express SL-EC8501 ({{precio:MLA18562154}}), la 3 en 1 de cápsulas ($528.131) y la filtro digital SL-CM1095 ($79.999). Tres máquinas para tres tipos de casa.`,
+      `Acá comparamos los tres modelos con stock y garantía en MercadoLibre Argentina: la express SL-EC8501 ({{precio:MLA18562154}}), la 3 en 1 de cápsulas ({{precio:MLA28314113}}) y la filtro digital SL-CM1095 ({{precio:MLA15297115}}). Tres máquinas para tres tipos de casa.`,
     ],
     sections: [
       { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_870792-MLA87138671692_072025-F.jpg", alt: `Cafetera express Smartlife SL-EC8501 de 20 bares con espumador, el modelo más vendido de la marca en Argentina`, imageSize: "hero" },
@@ -21533,24 +21533,24 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { type: "pull-quote", content: `"Hice mis primeros cafés en casa, nada que envidiar a un resto bar. El café sale caliente, la espuma en la leche fantástica."`, attribution: `Comprador verificado en MercadoLibre, febrero 2022` },
 
       { type: "h3", title: `Smartlife 3 en 1: Nespresso, Dolce Gusto y café molido en la misma máquina` },
-      { type: "product-card", productMlaId: "MLA28314113", label: "La todoterreno de cápsulas", labelColor: "purple", description: `La única del catálogo que acepta cápsulas Nespresso, Dolce Gusto y café molido. 20 bares, cuerpo de acero inoxidable y 4.7 estrellas en 1.654 calificaciones.` },
+      { type: "product-card", productMlaId: "MLA28314113", label: "La todoterreno de cápsulas", labelColor: "purple", description: `La única del catálogo que acepta cápsulas Nespresso, Dolce Gusto y café molido. 20 bares, cuerpo de acero inoxidable y {{rating:MLA28314113}} estrellas en {{reviews:MLA28314113}} calificaciones.` },
       { type: "p", content: `Acá está la jugada más ambiciosa de Smartlife: una máquina que no te obliga a casarte con ningún sistema. Acepta **cápsulas Nespresso, cápsulas Dolce Gusto y café molido**, con 20 bares de presión y cuerpo de acero inoxidable. Las reseñas suman un dato que la ficha no destaca: corta la extracción sola y la dosis es programable, algo que la SL-EC8501 no hace. Si en tu casa conviven el del espresso de molido y la del chococino en cápsula, esta máquina termina la discusión.` },
-      { type: "p", content: `Lo honesto: cuesta $528.131, casi el triple que la SL-EC8501, y esa diferencia solo se justifica si de verdad vas a usar los tres sistemas. Las reseñas avisan además que la palanca del portafiltro de cápsulas exige fuerza los primeros usos y que conviene leer el manual con paciencia, porque la programación tiene sus truquitos. Con 4.7 estrellas en 1.654 calificaciones, los que la compraron no se arrepienten.` },
+      { type: "p", content: `Lo honesto: cuesta {{precio:MLA28314113}}, bastante más que la SL-EC8501, y esa diferencia solo se justifica si de verdad vas a usar los tres sistemas. Las reseñas avisan además que la palanca del portafiltro de cápsulas exige fuerza los primeros usos y que conviene leer el manual con paciencia, porque la programación tiene sus truquitos. Con {{rating:MLA28314113}} estrellas en {{reviews:MLA28314113}} calificaciones, los que la compraron no se arrepienten.` },
       { type: "pull-quote", content: `"Soy barista, por lo tanto tengo conocimientos y no tiene nada que envidiarle a otras, para uso en casa es perfecta."`, attribution: `Comprador verificado en MercadoLibre, julio 2024` },
 
       { type: "h3", title: `Smartlife SL-CM1095: la de filtro digital para el café de jarra` },
-      { type: "product-card", productMlaId: "MLA15297115", label: "La filtro programable", labelColor: "blue", description: `Cafetera de filtro digital programable de 1,5 litros (12 pocillos), con pantalla y timer para despertarte con el café hecho. 4.7 estrellas en 94 calificaciones.` },
-      { type: "p", content: `La tercera Smartlife es otra categoría: café de jarra por goteo, para la casa donde el café se toma de a tazas grandes y varias veces al día. Su gracia es el **timer programable con pantalla digital**: la cargás a la noche y te despertás con el café hecho, una función que las reseñas mencionan una y otra vez como el motivo de compra. A $79.999 con 4.7 estrellas, es el paso intermedio entre las filtro básicas de $45.000 y las filtro premium con jarra de acero.` },
+      { type: "product-card", productMlaId: "MLA15297115", label: "La filtro programable", labelColor: "blue", description: `Cafetera de filtro digital programable de 1,5 litros (12 pocillos), con pantalla y timer para despertarte con el café hecho. {{rating:MLA15297115}} estrellas en {{reviews:MLA15297115}} calificaciones.` },
+      { type: "p", content: `La tercera Smartlife es otra categoría: café de jarra por goteo, para la casa donde el café se toma de a tazas grandes y varias veces al día. Su gracia es el **timer programable con pantalla digital**: la cargás a la noche y te despertás con el café hecho, una función que las reseñas mencionan una y otra vez como el motivo de compra. A {{precio:MLA15297115}} con {{rating:MLA15297115}} estrellas, para el rango completo de filtro (de la más básica a la premium con jarra de acero) mirá la [guía de cafetera de filtro](/guias/cafetera-de-filtro).` },
       { type: "p", content: `El matiz que sale de las reseñas: la placa mantiene el café más tibio que caliente, así que conviene tomarlo al momento o pasarlo a un termo. Para el resto, cumple sin drama: 1,5 litros, antigoteo y la programación que funciona como promete.` },
 
       { type: "h2", title: `Tabla comparativa: las tres Smartlife frente a frente`, id: "tabla" },
       { type: "table", headers: [`—`, `SL-EC8501`, `3 en 1`, `SL-CM1095`], rows: [
-        [`Precio`, `[{{precio:MLA18562154}}](https://meli.la/1QMpWAw)`, `[$528.131](https://meli.la/1soScPB)`, `[$79.999](https://meli.la/2Dw1odT)`],
+        [`Precio`, `[{{precio:MLA18562154}}](https://meli.la/1QMpWAw)`, `[{{precio:MLA28314113}}](https://meli.la/1soScPB)`, `[{{precio:MLA15297115}}](https://meli.la/2Dw1odT)`],
         [`Tipo`, `Express`, `Express + cápsulas`, `Filtro (jarra)`],
         [`Presión`, `20 bares`, `20 bares`, `—`],
         [`Cápsulas`, `Nespresso compatibles`, `Nespresso + Dolce Gusto`, `No`],
         [`Corte automático`, `No`, `Sí, programable`, `Sí (fin de ciclo)`],
-        [`Rating`, `4.6 ★ ({{reviews:MLA18562154}} calificaciones)`, `4.7 ★ (1.654 calificaciones)`, `4.7 ★ (94 calificaciones)`],
+        [`Rating`, `{{rating:MLA18562154}} ★ ({{reviews:MLA18562154}} calificaciones)`, `{{rating:MLA28314113}} ★ ({{reviews:MLA28314113}} calificaciones)`, `{{rating:MLA15297115}} ★ ({{reviews:MLA15297115}} calificaciones)`],
         [`Para quién`, `Espresso diario sin gastar de más`, `Casas que mezclan sistemas`, `Café de jarra programado`],
       ] },
 
@@ -21566,12 +21566,12 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { type: "verdict", content: `Para la mayoría, la **SL-EC8501** a {{precio:MLA18562154}}: 20 bares, cápsulas Nespresso de respaldo y {{reviews:MLA18562154}} compradores que ya documentaron todos los errores de estreno (tapón, manual, purga). La **3 en 1** es la mejor máquina de la marca, pero solo paga su precio si vas a usar los tres sistemas. Y la **SL-CM1095** resuelve otra vida distinta: la del café de jarra que arranca solo a las 7 de la mañana. Smartlife no falla en ninguna de las tres; lo que cambia es qué café se toma en tu casa.` },
     ],
     faq: [
-      { question: `¿Las cafeteras Smartlife son buenas? ¿Qué dicen las opiniones?`, answer: `Los números públicos dicen que sí: la [SL-EC8501](https://meli.la/1QMpWAw) tiene 4.6 estrellas en {{reviews:MLA18562154}} calificaciones y la [3 en 1](https://meli.la/1soScPB) 4.7 en 1.654, las dos bases de opiniones más grandes de la gama económica. La advertencia repetida no es de calidad sino de estreno: manuales flojos y una purga inicial que el manual no explica bien.` },
+      { question: `¿Las cafeteras Smartlife son buenas? ¿Qué dicen las opiniones?`, answer: `Los números públicos dicen que sí: la [SL-EC8501](https://meli.la/1QMpWAw) tiene {{rating:MLA18562154}} estrellas en {{reviews:MLA18562154}} calificaciones y la [3 en 1](https://meli.la/1soScPB) {{rating:MLA28314113}} en {{reviews:MLA28314113}}, las dos bases de opiniones más grandes de la gama económica. La advertencia repetida no es de calidad sino de estreno: manuales flojos y una purga inicial que el manual no explica bien.` },
       { question: `¿Qué cápsulas acepta la Smartlife SL-EC8501?`, answer: `Cápsulas compatibles Nespresso (las chicas), gracias a su segundo portafiltro. No acepta Dolce Gusto: para eso está la [Smartlife 3 en 1](https://meli.la/1soScPB), que acepta Nespresso, Dolce Gusto y café molido. Varios compradores de la SL-EC8501 reportan que con cápsulas los cafés salen incluso mejores, aprovechando los 20 bares.` },
       { question: `¿Por qué mi Smartlife no toma agua al estrenarla?`, answer: `Casi seguro es el tapón de silicona de transporte que viene escondido dentro del depósito de la [SL-EC8501](https://meli.la/1QMpWAw). Es la queja número uno de las reseñas: si no lo sacás, la máquina hace el proceso completo en seco. Sacalo antes del primer uso y problema resuelto.` },
-      { question: `¿Qué diferencia hay entre la SL-EC8501 y la 3 en 1?`, answer: `Tres cosas: la [3 en 1](https://meli.la/1soScPB) acepta también cápsulas Dolce Gusto, corta la extracción sola con dosis programable, y tiene cuerpo de acero inoxidable. La [SL-EC8501](https://meli.la/1QMpWAw) hace molido y Nespresso con corte manual. La diferencia de precio es grande: {{precio:MLA18562154}} contra $528.131.` },
+      { question: `¿Qué diferencia hay entre la SL-EC8501 y la 3 en 1?`, answer: `Tres cosas: la [3 en 1](https://meli.la/1soScPB) acepta también cápsulas Dolce Gusto, corta la extracción sola con dosis programable, y tiene cuerpo de acero inoxidable. La [SL-EC8501](https://meli.la/1QMpWAw) hace molido y Nespresso con corte manual. La diferencia de precio es grande: {{precio:MLA18562154}} contra {{precio:MLA28314113}}.` },
       { question: `¿La cafetera de filtro Smartlife se puede programar?`, answer: `Sí, es su función estrella: la [SL-CM1095](https://meli.la/2Dw1odT) tiene pantalla digital y timer para dejarla cargada a la noche y despertarte con el café hecho. Las reseñas confirman que la programación funciona bien; el único matiz es que la placa mantiene el café tibio, no bien caliente.` },
-      { question: `¿Conviene una Smartlife o una Oster?`, answer: `Depende del desayuno. La [Smartlife SL-EC8501](https://meli.la/1QMpWAw) ({{precio:MLA18562154}}) gana en precio, presión y flexibilidad de cápsulas. La [Oster BVSTEM5501B](https://meli.la/1SZrW1t) ($289.999) gana en espumador (con depósito de leche que dosifica solo) y reputación de marca. Para espresso solo, la Smartlife; para capuchinos diarios sin técnica, la Oster.` },
+      { question: `¿Conviene una Smartlife o una Oster?`, answer: `Depende del desayuno. La [Smartlife SL-EC8501](https://meli.la/1QMpWAw) ({{precio:MLA18562154}}) gana en precio, presión y flexibilidad de cápsulas. La [Oster BVSTEM5501B](https://meli.la/1SZrW1t) ({{precio:MLA23909880}}) gana en espumador (con depósito de leche que dosifica solo) y reputación de marca. Para espresso solo, la Smartlife; para capuchinos diarios sin técnica, la Oster.` },
     ],
     internalLinks: [
       { label: "Cafetera express: guía completa y ranking", href: "/guias/cafetera-express" },
@@ -29824,6 +29824,121 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { label: "Difusor de aromas: cuál comprar", href: "/guias/salud-bienestar/difusor-de-aromas" },
     ],
     internalLinksTitle: "Más sobre productos Gadnic",
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva anafe-electrico — silo cocina, categoría nueva
+  // Origen: research propio 2026-09-07. Keyword "anafe eléctrico"
+  // 18.100/mes (Ubersuggest y Keyword Planner coinciden casi exacto),
+  // SD 11 (muy baja), intención Transactional. Sin canibalización:
+  // no existía ninguna guía ni ficha propia de anafe en el sitio.
+  // 4 fichas nuevas importadas el mismo día (ver curated-products.ts).
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "anafe-electrico",
+    category: "anafe-electrico",
+    silo: "cocina",
+    pillar: true,
+    title: `Anafe Eléctrico: cuál comprar en Argentina [2026]`,
+    seoTitle: `Anafe Eléctrico: Cuál Comprar en Argentina | 2026`,
+    metaDescription: `Descubrí qué anafe eléctrico comprar en Argentina: el más barato, el más vendido y el vitrocerámico premium. Precios reales y contras honestas.`,
+    ogTitle: `Anafe eléctrico: cuál comprar en Argentina`,
+    ogDescription: `Ultracomb, Yelmo y Winco comparados: de 1 a 2 hornallas, de perilla a vitrocerámico táctil. Precios reales de MercadoLibre y las contras que nadie cuenta.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_728949-MLA114661196087_072026-O.webp`,
+    h1: `Anafe eléctrico: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene el **[Yelmo AN-9906](/producto/anafe-electrico-de-mesa-yelmo-an-9906-color-bordo-2-hornallas-5-niveles-de-poten-mla16092131)** (alrededor de {{precio:MLA16092131:k}}): 2 hornallas con 5 niveles de potencia cada una, el mejor equilibrio entre precio y capacidad. Si buscás el más barato para una sola hornalla, el **[Ultracomb AN-2200](/producto/anafe-electrico-1-hornalla-ultracomb-modelo-an-2200-negro-18-cm-1500w-mla6158568)**. Si preferís el de mayor volumen de opiniones entre los de 2 hornallas, el **[Winco W41](/producto/anafe-electrico-doble-2-hornallas-winco-w41-2200w-color-negro-mla18651655)**. Y si querés lo más completo (vitrocerámica, táctil, temporizador) y con la base de opiniones más grande de todo el catálogo, el **[Ultracomb AN-2211](/producto/anafe-electrico-1-hornalla-vitroceramico-pantalla-led-ultracomb-an-2211-negro-20-mla15831117)**.`,
+    publishedDate: "2026-09-07",
+    updatedDate: "2026-09-07",
+    hasDisclosure: true,
+    readingTime: 9,
+    standfirst: `Un anafe eléctrico va de {{precio:MLA6158568:k}} (el más básico) a {{precio:MLA15831117:k}} (el vitrocerámico con pantalla táctil). La decisión real pasa por cuántas hornallas necesitás y si querés control por perilla o digital, no solo por precio. Te mostramos cuál conviene, con precios reales de MercadoLibre.`,
+    quickPicks: [
+      { productMlaId: "MLA16092131", label: "Mejor elección general", labelColor: "green", tagline: "Yelmo AN-9906: 2 hornallas, 5 niveles de potencia, el mejor equilibrio" },
+      { productMlaId: "MLA6158568", label: "El más barato", labelColor: "slate", tagline: "Ultracomb AN-2200: 1 hornalla, la entrada más económica" },
+      { productMlaId: "MLA18651655", label: "El más vendido", labelColor: "blue", tagline: "Winco W41: el de 2 hornallas con más opiniones de esta guía" },
+      { productMlaId: "MLA15831117", label: "El más completo", labelColor: "purple", tagline: "Ultracomb AN-2211: vitrocerámico, táctil, con temporizador" },
+    ],
+    intro: [
+      `El anafe eléctrico es la forma más simple de tener una hornalla sin depender del gas: sirve para un corte del servicio, un departamento sin conexión, una changa o una segunda cocina. La decisión real pasa por cuántas hornallas necesitás y si te alcanza con perilla o preferís control digital, no por el precio más bajo a secas.`,
+      `En esta guía comparamos los anafes eléctricos más vendidos y mejor calificados de MercadoLibre Argentina, con las contras reales que cuentan los compradores: desde cables cortos hasta el cuidado que pide una superficie vitrocerámica.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_728949-MLA114661196087_072026-O.webp", alt: `Anafe eléctrico Yelmo AN-9906 de 2 hornallas, la mejor elección general de esta guía`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, el **[Yelmo AN-9906](/producto/anafe-electrico-de-mesa-yelmo-an-9906-color-bordo-2-hornallas-5-niveles-de-poten-mla16092131)**: 2 hornallas con 5 niveles de potencia, el mejor equilibrio entre precio y capacidad. Si buscás **el precio más bajo**, el **[Ultracomb AN-2200](/producto/anafe-electrico-1-hornalla-ultracomb-modelo-an-2200-negro-18-cm-1500w-mla6158568)**. Si preferís **el más vendido de 2 hornallas**, el **[Winco W41](/producto/anafe-electrico-doble-2-hornallas-winco-w41-2200w-color-negro-mla18651655)**. Y para lo **más completo, con la base de opiniones más grande de todo el catálogo**, el **[Ultracomb AN-2211](/producto/anafe-electrico-1-hornalla-vitroceramico-pantalla-led-ultracomb-an-2211-negro-20-mla15831117)**, vitrocerámico y táctil.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos los anafes eléctricos con más ventas y opiniones reales en MercadoLibre Argentina. Los ordenamos por lo que define la compra: cantidad de hornallas, potencia, tipo de control (perilla o táctil) y precio. Las calificaciones y las contras son de compradores reales. Los precios que ves en las fichas y tablas se revisan contra MercadoLibre periódicamente.` },
+
+      { type: "h2", title: `Qué mirar antes de comprar un anafe eléctrico`, id: "que-mirar" },
+      { type: "p", content: `Primero, **cuántas hornallas necesitás**: una sola alcanza para un corte de gas ocasional o cocinar de a un plato; dos te permiten cocinar como en una cocina real, con una olla y una sartén al mismo tiempo. Segundo, el **tipo de control**: la mayoría de los anafes económicos usan perillas simples, mientras que los modelos vitrocerámicos suman control táctil, pantalla digital y temporizador, a un precio bastante mayor. Tercero, la **potencia**: va de 1500W en los más chicos a 2000W o más en los de 2 hornallas, lo que se traduce en velocidad real para hervir o freír.` },
+      { type: "p", content: `Un detalle que se repite en las reseñas de la categoría: los anafes eléctricos calientan rápido, y eso tiene un costado a cuidar. Más de una reseña avisa que hay que estar atento para no quemar la comida si te descuidás, algo menos frecuente con una hornalla a gas de potencia media.` },
+
+      { type: "h2", title: `Los mejores anafes eléctricos 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Yelmo AN-9906 — mejor elección general` },
+      { type: "product-card", productMlaId: "MLA16092131", label: "Mejor elección general", labelColor: "green", ranking: 1, description: `2 hornallas con 5 niveles de potencia cada una, 2,25 kW en total. Superficie de acero e hierro. 4.7 estrellas en {{reviews:MLA16092131}} calificaciones.` },
+      { type: "p", content: `Es el anafe que recomendamos a la mayoría: dos hornallas independientes con **5 niveles de potencia** cada una, superficie de acero e hierro y diseño de mesa que también se puede apoyar de pie, a alrededor de {{precio:MLA16092131:k}}. Con {{reviews:MLA16092131}} calificaciones a 4.7 estrellas, es de los anafes de 2 hornallas mejor puntuados del catálogo.` },
+      { type: "p", content: `La contra real: para dorar carne con una plancha gruesa es más lento que el gas, según una reseña detallada, aunque con el tiempo suficiente logra el mismo resultado. No tiene temporizador ni pantalla digital.` },
+      { type: "pull-quote", content: `"Estéticamente es muy lindo, y es pesado, aparenta ser de muy buena calidad. En cuanto al funcionamiento, para calentar líquidos es muy rápido y no tiene nada que envidiarle al gas."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `2. Ultracomb AN-2200 — el más barato` },
+      { type: "product-card", productMlaId: "MLA6158568", label: "El más barato", labelColor: "slate", ranking: 2, description: `1 hornalla de 1500W con encendido automático y control por perilla. 4.7 estrellas en {{reviews:MLA6158568}} calificaciones, el más barato de esta guía.` },
+      { type: "p", content: `El anafe eléctrico más barato de esta guía: {{reviews:MLA6158568}} opiniones a 4.7 estrellas, a alrededor de {{precio:MLA6158568:k}}. Una sola hornalla de 1500W con termostato que mantiene la potencia elegida sin que tengas que estar regulando.` },
+      { type: "p", content: `La contra real: el cable de alimentación es corto, según una reseña. Es un anafe simple, sin temporizador ni pantalla, pensado para resolver una hornalla de respaldo al menor precio posible.` },
+      { type: "pull-quote", content: `"Una vez que la base ganó cierta temperatura la mantiene por mucho tiempo. El cable es corto, esa es la única contra que pueda mencionar, pero los componentes son de muy buena calidad en relación a su precio."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `3. Winco W41 — el más vendido` },
+      { type: "product-card", productMlaId: "MLA18651655", label: "El más vendido", labelColor: "blue", ranking: 3, description: `2 hornallas de 2200W con superficie de acero inoxidable. {{rating:MLA18651655}} estrellas en {{reviews:MLA18651655}} calificaciones, la base de opiniones más grande entre los de 2 hornallas.` },
+      { type: "p", content: `El anafe con mayor volumen de opiniones entre los de 2 hornallas de esta comparativa: {{reviews:MLA18651655}} calificaciones, más del doble que el Yelmo AN-9906. Dos hornallas de 2200W con superficie de acero inoxidable y control por perillas, a alrededor de {{precio:MLA18651655:k}}.` },
+      { type: "p", content: `La contra real: una reseña reporta que llegó con las patas desniveladas (son de goma con rosca, se ajustan a mano). Con {{rating:MLA18651655}} estrellas, tiene el rating más bajo de esta guía, aunque con un respaldo de opiniones muy superior a la mayoría de la categoría.` },
+
+      { type: "h3", title: `4. Ultracomb AN-2211 — el más completo` },
+      { type: "product-card", productMlaId: "MLA15831117", label: "El más completo", labelColor: "purple", ranking: 4, description: `Vitrocerámico con control táctil, pantalla LED y temporizador. 4.7 estrellas en {{reviews:MLA15831117}} calificaciones, la base de opiniones más grande de todo el catálogo.` },
+      { type: "p", content: `El más completo de esta guía: superficie **vitrocerámica** con control **táctil**, pantalla LED y **temporizador** integrado, a alrededor de {{precio:MLA15831117:k}}. Con {{reviews:MLA15831117}} calificaciones, es el anafe eléctrico con más opiniones de todo el catálogo que relevamos, superando incluso a modelos mucho más baratos.` },
+      { type: "p", content: `Lo honesto: es, por lejos, el más caro de esta guía, más del doble que el Ultracomb AN-2200 de entrada de la misma marca. La superficie de vidrio exige limpieza sin productos abrasivos para no rayarla.` },
+      { type: "pull-quote", content: `"Un caño el anafe, me quedé sorprendido con la calidad. Trae un ventilador en la parte de abajo, por debajo no calienta prácticamente nada. Tardó exactamente 6 minutos en hervir 1 litro y medio de agua."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h2", title: `Tabla comparativa: hornallas, potencia y precio`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Hornallas`, `Control`, `Rating`], rows: [
+        [`[Yelmo AN-9906](/producto/anafe-electrico-de-mesa-yelmo-an-9906-color-bordo-2-hornallas-5-niveles-de-poten-mla16092131)`, `{{precio:MLA16092131}}`, `2 (5 niveles c/u)`, `Perillas`, `{{rating:MLA16092131}} ({{reviews:MLA16092131}})`],
+        [`[Ultracomb AN-2200](/producto/anafe-electrico-1-hornalla-ultracomb-modelo-an-2200-negro-18-cm-1500w-mla6158568)`, `{{precio:MLA6158568}}`, `1`, `Perilla`, `{{rating:MLA6158568}} ({{reviews:MLA6158568}})`],
+        [`[Winco W41](/producto/anafe-electrico-doble-2-hornallas-winco-w41-2200w-color-negro-mla18651655)`, `{{precio:MLA18651655}}`, `2`, `Perillas`, `{{rating:MLA18651655}} ({{reviews:MLA18651655}})`],
+        [`[Ultracomb AN-2211](/producto/anafe-electrico-1-hornalla-vitroceramico-pantalla-led-ultracomb-an-2211-negro-20-mla15831117)`, `{{precio:MLA15831117}}`, `1`, `Táctil + temporizador`, `{{rating:MLA15831117}} ({{reviews:MLA15831117}})`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu anafe eléctrico`, id: "como-elegir" },
+      { type: "h3", title: `¿1 o 2 hornallas?` },
+      { type: "p", content: `Si es para un corte de gas ocasional, una changa o resolver de a un plato, con 1 hornalla como el [Ultracomb AN-2200](/producto/anafe-electrico-1-hornalla-ultracomb-modelo-an-2200-negro-18-cm-1500w-mla6158568) alcanza y sale bastante menos. Si vas a cocinar como en una cocina real, con olla y sartén al mismo tiempo, subí a un modelo de 2 hornallas como el [Yelmo AN-9906](/producto/anafe-electrico-de-mesa-yelmo-an-9906-color-bordo-2-hornallas-5-niveles-de-poten-mla16092131) o el [Winco W41](/producto/anafe-electrico-doble-2-hornallas-winco-w41-2200w-color-negro-mla18651655).` },
+      { type: "h3", title: `¿Perilla o control táctil?` },
+      { type: "p", content: `Tres de los cuatro de esta guía usan perillas simples, sin vueltas. El [Ultracomb AN-2211](/producto/anafe-electrico-1-hornalla-vitroceramico-pantalla-led-ultracomb-an-2211-negro-20-mla15831117) suma control táctil, pantalla LED y temporizador, a cambio de un precio bastante mayor. Si nunca usaste anafe eléctrico, uno de perilla es más simple para empezar.` },
+      { type: "h3", title: `¿Vale la pena la vitrocerámica?` },
+      { type: "p", content: `La superficie vitrocerámica del AN-2211 reparte mejor el calor y es más fácil de limpiar (una pasada con detergente en frío), pero exige no usar esponjas ni productos abrasivos que puedan rayar el vidrio. Los de chapa pintada o metal de esta guía son más resistentes al uso descuidado, aunque menos elegantes.` },
+
+      { type: "h2", title: `Cuánto cuesta un anafe eléctrico en Argentina [septiembre 2026]`, id: "cuanto-cuesta" },
+      { type: "list", content: "Franjas de precio reales", items: [
+        `**Alrededor de {{precio:MLA6158568:k}}:** el [Ultracomb AN-2200](/producto/anafe-electrico-1-hornalla-ultracomb-modelo-an-2200-negro-18-cm-1500w-mla6158568), 1 hornalla, el más barato de esta guía.`,
+        `**Alrededor de {{precio:MLA18651655:k}} a {{precio:MLA16092131:k}}:** el [Winco W41](/producto/anafe-electrico-doble-2-hornallas-winco-w41-2200w-color-negro-mla18651655) y el [Yelmo AN-9906](/producto/anafe-electrico-de-mesa-yelmo-an-9906-color-bordo-2-hornallas-5-niveles-de-poten-mla16092131), los dos de 2 hornallas.`,
+        `**Alrededor de {{precio:MLA15831117:k}}:** el [Ultracomb AN-2211](/producto/anafe-electrico-1-hornalla-vitroceramico-pantalla-led-ultracomb-an-2211-negro-20-mla15831117), el más caro de esta guía, vitrocerámico y táctil.`,
+      ] },
+
+      { type: "verdict", content: `Para la mayoría, el **[Yelmo AN-9906](/producto/anafe-electrico-de-mesa-yelmo-an-9906-color-bordo-2-hornallas-5-niveles-de-poten-mla16092131)** es la compra más segura: 2 hornallas, 5 niveles de potencia y un buen respaldo de opiniones al mejor equilibrio de precio. Si el precio manda y con 1 hornalla alcanza, el **[Ultracomb AN-2200](/producto/anafe-electrico-1-hornalla-ultracomb-modelo-an-2200-negro-18-cm-1500w-mla6158568)** es el más barato de esta guía. Si preferís el más vendido de 2 hornallas, el **[Winco W41](/producto/anafe-electrico-doble-2-hornallas-winco-w41-2200w-color-negro-mla18651655)**. Y si querés lo más completo, con la base de opiniones más grande de todo el catálogo, sabiendo que es el más caro, el **[Ultracomb AN-2211](/producto/anafe-electrico-1-hornalla-vitroceramico-pantalla-led-ultracomb-an-2211-negro-20-mla15831117)**.` },
+    ],
+    faq: [
+      { question: `¿Cuál es el mejor anafe eléctrico en Argentina?`, answer: `Para la mayoría, el [Yelmo AN-9906](/producto/anafe-electrico-de-mesa-yelmo-an-9906-color-bordo-2-hornallas-5-niveles-de-poten-mla16092131): 2 hornallas con 5 niveles de potencia y buen respaldo de opiniones. Si buscás el más barato, el [Ultracomb AN-2200](/producto/anafe-electrico-1-hornalla-ultracomb-modelo-an-2200-negro-18-cm-1500w-mla6158568).` },
+      { question: `¿Cuánto consume un anafe eléctrico?`, answer: `Entre 1500 y 2000W según el modelo de esta guía, con los de 2 hornallas llegando a 2,25 kW usando las dos a la vez. Es un consumo moderado para uso ocasional o de una comida por vez.` },
+      { question: `¿Un anafe eléctrico reemplaza a la cocina a gas?`, answer: `Para uso ocasional (corte de gas, changa, departamento sin conexión) sí. Para cocinar todos los días para varias personas, un modelo de 2 hornallas como el Yelmo AN-9906 o el Winco W41 cubre bastante, aunque dorar carne con plancha gruesa sigue siendo más lento que con gas.` },
+      { question: `¿Cuál conviene si nunca usé un anafe eléctrico?`, answer: `Uno de perilla simple como el [Ultracomb AN-2200](/producto/anafe-electrico-1-hornalla-ultracomb-modelo-an-2200-negro-18-cm-1500w-mla6158568) o el [Yelmo AN-9906](/producto/anafe-electrico-de-mesa-yelmo-an-9906-color-bordo-2-hornallas-5-niveles-de-poten-mla16092131). El control táctil del [Ultracomb AN-2211](/producto/anafe-electrico-1-hornalla-vitroceramico-pantalla-led-ultracomb-an-2211-negro-20-mla15831117) suma funciones, pero no hace falta para empezar.` },
+      { question: `¿Es seguro dejar un anafe eléctrico prendido y alejarse?`, answer: `No se recomienda con ninguno de esta guía: varias reseñas avisan que calientan rápido y hay riesgo real de quemar la comida si te descuidás. Ninguno de los cuatro modelos de esta guía declara apagado automático por inactividad.` },
+      { question: `¿Cómo se limpia un anafe vitrocerámico?`, answer: `En frío, con detergente o unas gotas de alcohol. Nunca con esponjas abrasivas ni productos de limpieza fuertes, porque pueden rayar el vidrio de la superficie vitrocerámica del [Ultracomb AN-2211](/producto/anafe-electrico-1-hornalla-vitroceramico-pantalla-led-ultracomb-an-2211-negro-20-mla15831117).` },
+      { question: `¿Vale la pena pagar más por 2 hornallas?`, answer: `Si cocinás más de un plato a la vez con frecuencia, sí: el salto de precio entre el [Ultracomb AN-2200](/producto/anafe-electrico-1-hornalla-ultracomb-modelo-an-2200-negro-18-cm-1500w-mla6158568) (1 hornalla) y el [Yelmo AN-9906](/producto/anafe-electrico-de-mesa-yelmo-an-9906-color-bordo-2-hornallas-5-niveles-de-poten-mla16092131) (2 hornallas) se recupera rápido en comodidad diaria.` },
+    ],
+    internalLinks: [
+      { label: "Horno eléctrico: cuál comprar en Argentina", href: "/guias/cocina/horno-electrico" },
+      { label: "Freidora de aire: cuál comprar en Argentina", href: "/guias/mejores-freidoras-de-aire-argentina" },
+      { label: "Cafetera express: guía completa y ranking", href: "/guias/cafetera-express" },
+      { label: "Pava eléctrica: cuál comprar en Argentina", href: "/guias/pava-electrica" },
+    ],
+    internalLinksTitle: "Más para tu cocina",
   },
 ];
 

@@ -1595,3 +1595,50 @@ hardcodeadas bajado de 1115 a 1102 en el proceso, técho actualizado con `--baja
 verificado en el navegador (quickPicks, product-cards, tabla, FAQ, verdict, internalLinks, todo OK).
 
 Re-medir: **~2026-10-05** (≈4 semanas), contra baseline cero.
+
+## 2026-09-07 — Guía nueva `anafe-electrico` (silo cocina, categoría nueva, 4 fichas nuevas)
+
+| Guía | Silo | Categoría | Keyword | Volumen (Ubersuggest AR) | Volumen (Keyword Planner AR) | SD | Productos |
+| :-- | :-- | :-- | :-- | --: | --: | --: | --: |
+| `anafe-electrico` | cocina | anafe-electrico | anafe eléctrico | 18.100 | 18.100 | 11 | 4 |
+
+**Baseline: cero.** URL nueva, sin historial en GSC. Match exacto entre Ubersuggest y Keyword Planner
+(máxima confianza), dificultad SEO muy baja. Sin canibalización: no existía ninguna guía ni ficha de
+anafe en el sitio antes de esta sesión.
+
+**4 fichas nuevas importadas desde cero** (Ultracomb AN-2200, Yelmo AN-9906, Ultracomb AN-2211 y un
+cuarto producto que cambió en el camino, ver abajo), siguiendo `docs/fichas.md`: datos extraídos del
+JSON-LD embebido de cada página de MercadoLibre (precio, rating, reviewCount reales), specs de la
+ficha técnica de ML, reviews reales citadas textual, imágenes verificadas con GET real (no HEAD) contra
+el CDN de ML. Ultracomb confirmado con sitio oficial (ultracomb.com.ar tiene ficha propia de AN-2200 y
+AN-2211).
+
+**El 4º producto cambió a mitad de camino: la publicación original quedó excluida del Programa de
+Afiliados de ML.** El candidato inicial para "el más vendido" era un Oryx HPS203 (MLA35913926, 2.034
+reseñas), pero al generar el link de afiliado MercadoLibre devolvió "Esta URL no está permitida en el
+Programa" — una publicación puntual puede quedar excluida sin aviso previo, no es algo que se pueda
+forzar. Se reemplazó por un Winco W41 (MLA18651655, 2 hornallas, 2200W, acero inoxidable, 4.6★, 3.308
+reseñas, más reseñas que el Oryx original) con ficha completa escrita desde cero.
+
+**Auditoría del trío: 2 rondas hasta doble GO, con un hallazgo real de "agy escribe sin avisar".**
+Codex encontró en la primera pasada 4 bloqueantes reales, todos derivados del reemplazo de producto:
+restos textuales del Oryx en el FAQ/verdict de las otras 3 fichas; el Ultracomb AN-2200 (1.650 reseñas)
+reclamándose "el más probado"/"con más calificaciones" cuando el Winco (3.308) y el AN-2211 (4.716)
+tienen más; el Winco reclamando "mayor volumen de esta guía" cuando el AN-2211 tiene más; y el Yelmo
+(1.309) reclamando "más respaldo de compradores" cuando el Winco tiene más entre los de 2 hornallas.
+Los 4 se corrigieron acotando cada superlativo a su alcance real ("entre los de 2 hornallas", "de todo
+el catálogo que relevamos", etc.), y de paso se suavizaron 2 frases sueltas de la ficha del AN-2211
+("el más probado de Argentina") que hacían una afirmación no verificable más allá de esta comparativa.
+Al revisar el resultado se encontró que una de las taglines de `quickPicks` había quedado con un texto
+distinto al que Claude había escrito ("el modelo de entrada más probado" en vez de "la entrada más
+económica") — evidencia de que agy escribió directo en el archivo auditado pese a `--mode plan` y su
+rol de solo auditar (comportamiento ya documentado en la skill `trio-auditor`). Se corrigió sin
+problema; el contenido final es correcto, pero quedó registrado como recordatorio de seguir chequeando
+`git diff` después de cada pasada de agy con `--dangerously-skip-permissions`.
+
+**Verificación:** `npx tsc --noEmit`, los 9 scripts de `npm run guides:check`, `node scripts/check-price-guard.cjs`
+y `npm run build` en verde después de cada ronda. Render local verificado en el navegador (quickPicks,
+product-cards, tabla, FAQ, verdict, internalLinks, cupones dinámicos reales, todo OK). Las 4 imágenes
+verificadas con GET real (7.8 KB a 17 KB, todas fotos completas, no miniaturas).
+
+Re-medir: **~2026-10-05** (≈4 semanas), contra baseline cero.

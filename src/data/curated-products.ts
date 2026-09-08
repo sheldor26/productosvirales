@@ -86293,6 +86293,288 @@ No es para vos si cocinás para 3 o 4 personas: hay opciones de 8 y 9 litros de 
     ],
   },
 
+  // ─────────────────────────────────────────────────────────
+  // Silo cocina, categoría nueva "anafe-electrico". 4 fichas nuevas
+  // importadas 2026-09-07 (docs/fichas.md), fuente: API/ficha técnica de ML
+  // vía navegador (JSON-LD embebido en la página, no scraping), Ultracomb
+  // confirmado con sitio oficial (ultracomb.com.ar tiene AN-2200 y AN-2211).
+  // affiliateUrl placeholder hasta que Juan genere los 4 links en el panel
+  // de afiliados de ML — reemplazar antes de publicar la guía.
+  // ─────────────────────────────────────────────────────────
+  {
+    id: "MLA6158568",
+    title: "Anafe Eléctrico 1 Hornalla Ultracomb Modelo An-2200 Negro 18 cm 1500W",
+    canonicalName: "Ultracomb AN-2200", mpn: "AN-2200", brand: "Ultracomb",
+    price: 31999, originalPrice: 67150, currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_645717-MLA111668751320_062026-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_645717-MLA111668751320_062026-O.webp"],
+    category: "Cocina", categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/anafe-electrico-1-hornalla-ultracomb-modelo-an-2200-negro-18-cm-1500w/p/MLA6158568",
+    affiliateUrl: "https://meli.la/11EDgx4",
+    condition: "new", freeShipping: true, rating: 4.7, reviewCount: 1650,
+    pastelColor: "var(--pastel-slate)",
+    priceUpdated: "2026-09-07", priceLastChecked: "2026-09-07", priceStatus: "fresh", reviewsSampledAt: "2026-09-07",
+    specs: [
+      { label: "Marca", value: "Ultracomb" },
+      { label: "Modelo", value: "AN-2200" },
+      { label: "Cantidad de hornallas", value: "1" },
+      { label: "Diámetro de la hornalla", value: "18 cm" },
+      { label: "Potencia", value: "1500 W" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Tipo de encendido", value: "Automático" },
+      { label: "Tipo de control", value: "Perilla" },
+      { label: "Materiales de la superficie", value: "Chapa pintada al polvo" },
+      { label: "Tipo de montaje", value: "De pie" },
+      { label: "Garantía de fábrica", value: "6 meses" },
+    ],
+    relatedProducts: ["MLA16092131", "MLA18651655", "MLA15831117"],
+    description: "Anafe eléctrico Ultracomb AN-2200 de 1 hornalla de 18 cm y 1500W, con encendido automático y control por perilla. El más económico de esta comparativa.",
+    seoTitle: "Ultracomb AN-2200: el anafe eléctrico más barato de la gama",
+    metaDescription: "Ultracomb AN-2200 a {{precio:MLA6158568}}: 1 hornalla, 1500W y {{reviews:MLA6158568}} calificaciones. El anafe eléctrico de entrada más barato de esta comparativa.",
+    ogTitle: "Ultracomb AN-2200: la puerta de entrada a los anafes eléctricos",
+    ogDescription: "1500W, 1 hornalla y 4.7 estrellas en más de 1.600 calificaciones. Por qué este es el anafe eléctrico que recomendamos si el presupuesto manda.",
+    h1: "Ultracomb AN-2200: el anafe eléctrico más barato de la gama",
+    verdict: "El anafe eléctrico más barato de esta comparativa, con buen respaldo de compradores reales: {{reviews:MLA6158568}} calificaciones a 4.7 estrellas. Una sola hornalla de 1500W, suficiente para cocinar de a un plato por vez o resolver un corte de gas. La única contra real que aparece en las reseñas es menor: el cable de alimentación es corto.",
+    pros: [
+      "El precio más bajo de esta comparativa",
+      "{{reviews:MLA6158568}} calificaciones a 4.7 estrellas: buen respaldo de opiniones para el precio",
+      "Termostato incorporado: la hornalla regula sola para mantener la temperatura",
+      "Calienta rápido, según coinciden las reseñas",
+    ],
+    cons: [
+      "El cable de alimentación es corto, según una reseña detallada",
+      "Una sola hornalla: no sirve para cocinar más de un plato a la vez",
+      "No tiene temporizador ni pantalla digital",
+    ],
+    articleBody: `## El anafe más barato de esta comparativa
+
+El Ultracomb AN-2200 es el anafe eléctrico más económico de esta comparativa, con buen respaldo de opiniones: {{reviews:MLA6158568}} calificaciones a 4.7 estrellas. Es una placa de 1 hornalla de 18 cm y 1500W, pensada para cocinar de a un plato por vez o para tener a mano ante un corte de gas, a {{precio:MLA6158568}}.
+
+## Cómo funciona en el uso diario
+
+Tiene un termostato que apaga y prende la resistencia sola para mantener la potencia que elegiste con la perilla, así que una vez que la base agarra temperatura la sostiene sin que vos tengas que estar regulando. Una reseña detallada recomienda no superar el nivel 5 de potencia para cocinar de forma más pareja y cuidar la vida útil del equipo, algo que no está en la ficha pero sí en la experiencia real de uso.
+
+## Lo honesto
+
+El único defecto real que aparece en las reseñas es el largo del cable, más corto de lo esperable para moverlo de lugar en la cocina. No tiene temporizador ni pantalla digital: es un anafe de perilla, simple, sin vueltas. Si buscás esas funciones extra, el AN-2211 vitrocerámico de esta misma marca las suma, a un precio bastante mayor.
+
+## Para quién es
+
+Para quien necesita una sola hornalla de respaldo (corte de gas, changa, pieza de estudiante) y quiere gastar lo mínimo posible sin resignar respaldo de opiniones. Si cocinás para más de una persona o necesitás dos hornallas en simultáneo, mirá el Yelmo AN-9906 o el Winco W41 de esta misma comparativa.`,
+    faq: [
+      { question: "¿Cuánto consume el Ultracomb AN-2200?", answer: "Su potencia declarada es de 1500W. Usado a pleno un par de horas por día, es un consumo moderado para un anafe eléctrico, bastante menor al de un horno eléctrico." },
+      { question: "¿Sirve para reemplazar la cocina a gas?", answer: "Para uso ocasional o de una sola hornalla sí, según confirman los compradores. Para cocinar para varias personas todos los días, conviene un modelo de 2 hornallas como el Yelmo AN-9906 o el Winco W41." },
+      { question: "¿Trae algún accesorio incluido?", answer: "No, es solo la placa de cocción con su cable de alimentación. No incluye ollas ni sartenes." },
+      { question: "¿Cuánto tarda en calentar?", answer: "Los compradores lo describen como rápido para calentar líquidos y mantener la temperatura una vez alcanzada, gracias al termostato que regula la potencia sola." },
+      { question: "¿Qué garantía tiene?", answer: "6 meses de garantía de fábrica, según la ficha técnica de MercadoLibre." },
+      { question: "¿Cuál es la contra principal según las reseñas?", answer: "El cable de alimentación es más corto de lo esperable, según una reseña detallada. El resto de la experiencia de uso es positiva." },
+    ],
+  },
+  {
+    id: "MLA16092131",
+    title: "Anafe Eléctrico de Mesa Yelmo An-9906 Color Bordó 2 Hornallas 5 Niveles de Potencia",
+    canonicalName: "Yelmo AN-9906", mpn: "AN-9906", brand: "Yelmo",
+    price: 50100, originalPrice: 59999, currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_728949-MLA114661196087_072026-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_728949-MLA114661196087_072026-O.webp"],
+    category: "Cocina", categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/anafe-electrico-de-mesa-yelmo-an-9906-color-bordo-2-hornallas-5-niveles-de-potencia/p/MLA16092131",
+    affiliateUrl: "https://meli.la/1tUr7yf",
+    condition: "new", freeShipping: true, rating: 4.7, reviewCount: 1309,
+    pastelColor: "var(--pastel-coral)",
+    priceUpdated: "2026-09-07", priceLastChecked: "2026-09-07", priceStatus: "fresh", reviewsSampledAt: "2026-09-07",
+    specs: [
+      { label: "Marca", value: "Yelmo" },
+      { label: "Modelo", value: "AN-9906" },
+      { label: "Cantidad de hornallas", value: "2" },
+      { label: "Niveles de potencia", value: "5" },
+      { label: "Potencia total", value: "2,25 kW" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Tipo de encendido", value: "Automático" },
+      { label: "Tipo de control", value: "Perillas" },
+      { label: "Materiales de la superficie", value: "Acero e hierro" },
+      { label: "Tipo de montaje", value: "De mesa / de pie" },
+    ],
+    relatedProducts: ["MLA6158568", "MLA18651655", "MLA15831117"],
+    description: "Anafe eléctrico Yelmo AN-9906 de 2 hornallas con 5 niveles de potencia cada una, 2,25 kW en total. El de mejor relación entre precio y cantidad de hornallas de esta comparativa.",
+    seoTitle: "Yelmo AN-9906: anafe eléctrico de 2 hornallas y 5 niveles",
+    metaDescription: "Yelmo AN-9906 a {{precio:MLA16092131}}: 2 hornallas, 5 niveles de potencia y {{reviews:MLA16092131}} calificaciones. Cocinar dos platos a la vez sin gas.",
+    ogTitle: "Yelmo AN-9906: dos hornallas, 5 niveles de potencia",
+    ogDescription: "2,25 kW repartidos en dos hornallas, con 4.7 estrellas en más de 1.300 calificaciones. La opción para cocinar más de un plato a la vez.",
+    h1: "Yelmo AN-9906: el anafe eléctrico de 2 hornallas con mejor relación precio y potencia",
+    verdict: "Si necesitás dos hornallas y no querés pagar el salto a un modelo vitrocerámico, el Yelmo AN-9906 es una opción con buen respaldo de compradores: {{reviews:MLA16092131}} calificaciones a 4.7 estrellas. Suma 5 niveles de potencia por hornalla, superficie de acero e hierro y diseño de mesa que también podés apoyar de pie. La única contra real: para dorar carne con una plancha gruesa es más lento que el gas.",
+    pros: [
+      "2 hornallas con 5 niveles de potencia cada una",
+      "{{reviews:MLA16092131}} calificaciones a 4.7 estrellas",
+      "Superficie de acero e hierro, según la ficha técnica pensada para durar",
+      "Diseño de mesa: se puede ubicar sobre cualquier superficie",
+    ],
+    cons: [
+      "Para dorar carne con una plancha gruesa es más lento que el gas, según una reseña",
+      "Sin temporizador ni pantalla digital",
+      "Más caro que un anafe de 1 hornalla básico",
+    ],
+    articleBody: `## Dos hornallas, cinco niveles de potencia cada una
+
+El Yelmo AN-9906 suma dos hornallas independientes con 5 niveles de potencia cada una, 2,25 kW en total, a {{precio:MLA16092131}}. Es la opción de esta comparativa para quien necesita cocinar más de un plato a la vez sin pagar el salto a un modelo vitrocerámico digital.
+
+## Qué dicen los compradores
+
+Con {{reviews:MLA16092131}} calificaciones a 4.7 estrellas, es de los anafes de 2 hornallas mejor puntuados del catálogo de MercadoLibre. Una reseña detallada lo describe como "estéticamente muy lindo" y "pesado, aparenta ser de muy buena calidad", y confirma que para calentar líquidos es tan rápido como el gas.
+
+## Lo honesto
+
+La misma reseña avisa el límite real: para dorar carne con una plancha gruesa, el Yelmo es más lento que una hornalla a gas, aunque con el tiempo suficiente logra el mismo resultado. Con una plancha más fina, la diferencia se achica. No tiene temporizador ni pantalla digital: el control es 100% por perillas.
+
+## Para quién es
+
+Para cocinar de a dos platos (una olla y una sartén, por ejemplo) sin pagar el salto a un modelo vitrocerámico como el Ultracomb AN-2211 de esta comparativa. Si tu prioridad es dorar carne rápido con plancha gruesa, el gas le sigue ganando; para el resto de la cocina diaria, cumple sin drama.`,
+    faq: [
+      { question: "¿El Yelmo AN-9906 sirve para dorar carne?", answer: "Sí, pero es más lento que el gas si usás una plancha gruesa, según confirma una reseña detallada. Con una plancha más fina la diferencia se nota menos, y con el tiempo suficiente logra dorar igual." },
+      { question: "¿Las dos hornallas funcionan al mismo tiempo?", answer: "Sí, son independientes y cada una tiene sus propios 5 niveles de potencia, así que podés usarlas juntas o por separado según lo que estés cocinando." },
+      { question: "¿Se puede usar de pie o solo de mesa?", answer: "El diseño está pensado como anafe de mesa, pero por su estructura también se puede apoyar de pie sobre cualquier superficie plana y resistente al calor." },
+      { question: "¿Qué potencia total consume?", answer: "2,25 kW sumando las dos hornallas a máxima potencia. Usando una sola hornalla o niveles más bajos, el consumo baja proporcionalmente." },
+      { question: "¿Tiene apagado automático o temporizador?", answer: "No tiene temporizador ni pantalla digital: el control es manual, por perillas, con 5 niveles de potencia por hornalla." },
+      { question: "¿Qué diferencia hay con el Winco W41 de esta comparativa?", answer: "Ambos tienen 2 hornallas y control por perilla. El Yelmo suma 5 niveles de potencia declarados; el Winco declara 2200W y tiene cuerpo de acero inoxidable. El Winco tiene un mayor respaldo de opiniones en nuestro relevamiento, aunque el Yelmo promedia un rating ligeramente superior." },
+    ],
+  },
+  {
+    id: "MLA18651655",
+    title: "Anafe Electrico Doble 2 Hornallas Winco W41 2200w Color Negro",
+    canonicalName: "Winco W41", mpn: "W41", brand: "Winco",
+    price: 45699, originalPrice: 59999, currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_601479-MLA99481598610_112025-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_601479-MLA99481598610_112025-O.webp"],
+    category: "Cocina", categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/anafe-electrico-doble-2-hornallas-winco-w41-2200w-color-negro/p/MLA18651655",
+    affiliateUrl: "https://meli.la/1jCMsG3",
+    condition: "new", freeShipping: true, rating: 4.6, reviewCount: 3308,
+    pastelColor: "var(--pastel-blue)",
+    priceUpdated: "2026-09-07", priceLastChecked: "2026-09-07", priceStatus: "fresh", reviewsSampledAt: "2026-09-07",
+    specs: [
+      { label: "Marca", value: "Winco" },
+      { label: "Modelo", value: "W41" },
+      { label: "Cantidad de hornallas", value: "2" },
+      { label: "Potencia", value: "2200 W" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Tipos de alimentación", value: "Eléctrica" },
+      { label: "Tipo de control", value: "Perillas" },
+      { label: "Materiales de la superficie", value: "Acero inoxidable" },
+      { label: "Tipo de montaje", value: "De pie" },
+      { label: "Ranking en Anafes de MercadoLibre", value: "Top 20, insignia Más Vendido" },
+    ],
+    relatedProducts: ["MLA6158568", "MLA16092131", "MLA15831117"],
+    description: "Anafe eléctrico Winco W41 de 2 hornallas y 2200W con superficie de acero inoxidable. El de mayor volumen de opiniones entre los modelos de 2 hornallas de esta comparativa, con más de 3.300 calificaciones.",
+    seoTitle: "Winco W41: anafe eléctrico de 2 hornallas, opiniones",
+    metaDescription: "Winco W41 a {{precio:MLA18651655}}: 2 hornallas de 2200W y {{reviews:MLA18651655}} calificaciones. El anafe de 2 hornallas con más volumen de opiniones de esta comparativa.",
+    ogTitle: "Winco W41: el anafe con más de 3.300 opiniones reales",
+    ogDescription: "Superficie de acero inoxidable y 2200W en dos hornallas: por qué este anafe junta más de 3.300 calificaciones en MercadoLibre Argentina.",
+    h1: "Winco W41: el anafe eléctrico de 2 hornallas con más opiniones reales",
+    verdict: "El anafe de mayor volumen de opiniones entre los modelos de 2 hornallas de esta comparativa: {{reviews:MLA18651655}} calificaciones a 4.6 estrellas. Dos hornallas de 2200W con superficie de acero inoxidable, insignia de Más Vendido y top 20 de toda la categoría Anafes de MercadoLibre. La única contra real, y menor: una reseña reporta que llegó con las patas desniveladas.",
+    pros: [
+      "{{reviews:MLA18651655}} calificaciones: el mayor volumen de opiniones en 2 hornallas de esta comparativa",
+      "2 hornallas de 2200W con superficie de acero inoxidable",
+      "Insignia Más Vendido y top 20 de toda la categoría Anafes en MercadoLibre",
+      "No larga olor ni humo tras el curado inicial, según varias reseñas",
+    ],
+    cons: [
+      "Una reseña reporta que llegó con las patas desniveladas (son de goma con rosca, se puede ajustar)",
+      "Una reseña recomienda no usar las dos hornallas al mismo tiempo por precaución",
+      "Sin temporizador ni pantalla digital",
+    ],
+    articleBody: `## El anafe de 2 hornallas con más opiniones reales de esta comparativa
+
+El Winco W41 junta {{reviews:MLA18651655}} calificaciones en MercadoLibre Argentina, más que cualquier otro anafe eléctrico de 2 hornallas de esta comparativa. Son dos hornallas de 2200W con superficie de acero inoxidable y control por perillas, a {{precio:MLA18651655}}. Tiene la insignia de Más Vendido y está en el top 20 de toda la categoría Anafes del sitio.
+
+## Qué dicen los compradores
+
+Varias reseñas coinciden en que, después de "curarlo" (prenderlo unos minutos al máximo antes del primer uso real), deja de largar el olor a plástico típico de un anafe nuevo y no genera humo. Una reseña de 4 estrellas, honesta con el detalle menor: llegó con las patas desniveladas, aunque son de goma con rosca y se pueden ajustar.
+
+## Lo honesto
+
+La misma reseña cuenta que, por precaución mientras esperaba que volviera el gas del edificio, prefirió no usar las dos hornallas al mismo tiempo. No es una limitación confirmada por la ficha técnica, pero es el tipo de cautela real que transmiten los compradores con equipos de esta potencia. Como el resto de los anafes de perilla de esta guía, no tiene temporizador ni pantalla digital.
+
+## Para quién es
+
+Para quien quiere dos hornallas de acero inoxidable con el mayor respaldo de opiniones entre los modelos de 2 hornallas de esta comparativa, a un precio intermedio entre el Ultracomb AN-2200 de entrada y el Ultracomb AN-2211 vitrocerámico. Si preferís una marca con niveles de potencia declarados paso a paso, el Yelmo AN-9906 de esta comparativa es la alternativa directa en un rango de precio similar.`,
+    faq: [
+      { question: "¿El Winco W41 larga olor al estrenarlo?", answer: "Al principio sí, como la mayoría de los anafes eléctricos nuevos. Varias reseñas confirman que prenderlo unos minutos al máximo antes del primer uso real ('curarlo') resuelve el olor a plástico y evita el humo en los usos posteriores." },
+      { question: "¿Cuántas calificaciones tiene este anafe?", answer: "{{reviews:MLA18651655}} calificaciones a {{rating:MLA18651655}} estrellas, el mayor volumen de opiniones en modelos de 2 hornallas de esta comparativa, con insignia de Más Vendido en MercadoLibre." },
+      { question: "¿Tiene algún problema reportado?", answer: "Una reseña detallada reporta que llegó con las patas desniveladas. Son de goma con rosca, así que se pueden ajustar manualmente sin herramientas." },
+      { question: "¿Se pueden usar las dos hornallas a la vez?", answer: "La ficha técnica no restringe el uso simultáneo, pero al menos una reseña prefiere no usarlas juntas por precaución con el consumo eléctrico. Si tu instalación es nueva o dudás de la capacidad, empezá con una sola hornalla." },
+      { question: "¿Qué diferencia hay con el Ultracomb AN-2200 de esta comparativa?", answer: "El AN-2200 tiene 1 sola hornalla de 1500W; el Winco W41 suma una segunda hornalla, sube a 2200W de potencia total y tiene superficie de acero inoxidable, a un precio mayor." },
+      { question: "¿Qué garantía tiene?", answer: "La ficha de MercadoLibre no detalla el plazo de garantía de fábrica de este modelo puntual; confirmalo en la publicación antes de comprar." },
+    ],
+  },
+  {
+    id: "MLA15831117",
+    title: "Anafe Eléctrico 1 Hornalla vitrocerámico pantalla LED Ultracomb An-2211 Negro 2000W",
+    canonicalName: "Ultracomb AN-2211", mpn: "AN-2211", brand: "Ultracomb",
+    price: 67222, originalPrice: 73228, currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_751061-MLA42880665797_072020-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_751061-MLA42880665797_072020-O.webp"],
+    category: "Cocina", categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/anafe-electrico-1-hornalla-vitroceramico-pantalla-led-ultracomb-an-2211-negro-2000w/p/MLA15831117",
+    affiliateUrl: "https://meli.la/2s6q5SJ",
+    condition: "new", freeShipping: true, rating: 4.7, reviewCount: 4716,
+    pastelColor: "var(--pastel-violet)",
+    priceUpdated: "2026-09-07", priceLastChecked: "2026-09-07", priceStatus: "fresh", reviewsSampledAt: "2026-09-07",
+    specs: [
+      { label: "Marca", value: "Ultracomb" },
+      { label: "Modelo", value: "AN-2211" },
+      { label: "Cantidad de hornallas", value: "1" },
+      { label: "Materiales de la superficie", value: "Vidrio (vitrocerámica)" },
+      { label: "Tipo de control", value: "Táctil, con pantalla LED" },
+      { label: "Temporizador", value: "Sí" },
+      { label: "Potencia", value: "2000 W" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Tipo de encendido", value: "Automático" },
+      { label: "Tipo de montaje", value: "De pie" },
+    ],
+    relatedProducts: ["MLA6158568", "MLA16092131", "MLA18651655"],
+    description: "Anafe eléctrico Ultracomb AN-2211 vitrocerámico, con control táctil, pantalla LED y temporizador. El más completo y el de mayor volumen de opiniones de todo el catálogo de anafes que relevamos: más de 4.700 calificaciones.",
+    seoTitle: "Ultracomb AN-2211: el anafe vitrocerámico con más opiniones",
+    metaDescription: "Ultracomb AN-2211 a {{precio:MLA15831117}}: vitrocerámica, control táctil, temporizador y {{reviews:MLA15831117}} calificaciones. El anafe premium con más opiniones del catálogo que relevamos.",
+    ogTitle: "Ultracomb AN-2211: vitrocerámica, táctil y con más de 4.700 opiniones",
+    ogDescription: "Ventilador de enfriamiento, control táctil y temporizador: el anafe vitrocerámico que sus más de 4.700 compradores describen como superior al resto.",
+    h1: "Ultracomb AN-2211: el anafe eléctrico vitrocerámico más completo y con más opiniones",
+    verdict: "El anafe eléctrico más completo de esta comparativa, y el de mayor volumen de opiniones de todo el catálogo que relevamos: {{reviews:MLA15831117}} calificaciones a 4.7 estrellas. Suma superficie vitrocerámica, control táctil con pantalla LED, temporizador y un ventilador de enfriamiento por debajo que casi ningún anafe de esta gama declara. Cuesta bastante más que los de perilla de esta comparativa, pero el salto de funciones lo justifica si el presupuesto da.",
+    pros: [
+      "{{reviews:MLA15831117}} calificaciones: la base de opiniones más grande de todo el catálogo de anafes que relevamos",
+      "Superficie vitrocerámica con control táctil y pantalla LED",
+      "Temporizador integrado",
+      "Ventilador de enfriamiento por debajo de la placa, según confirma una reseña detallada",
+      "Hierve 1,5 litros de agua en unos 6 minutos, según la misma reseña",
+    ],
+    cons: [
+      "El más caro de esta comparativa, por lejos",
+      "La vitrocerámica exige limpieza sin productos abrasivos para no rayarla",
+      "Una sola hornalla",
+    ],
+    articleBody: `## El anafe vitrocerámico con más opiniones de todo el catálogo
+
+El Ultracomb AN-2211 es la versión vitrocerámica y digital de la línea AN de Ultracomb, con {{reviews:MLA15831117}} calificaciones a 4.7 estrellas: la base de opiniones más grande de todo el catálogo de anafes eléctricos que relevamos, superando incluso a modelos mucho más baratos. Cuesta {{precio:MLA15831117}}.
+
+## Qué lo diferencia de un anafe de perilla
+
+Suma control táctil con pantalla LED, selector de potencia y tiempo, y un temporizador integrado. Una reseña muy detallada (169 votos útiles) cuenta un detalle que la ficha no menciona: trae un ventilador de enfriamiento en la parte de abajo, así que la base casi no calienta por debajo mientras la superficie vitrocerámica sí lo hace. El mismo comprador midió el rendimiento real: hirvió 1,5 litros de agua en 6 minutos exactos, y lo describe como superior a "una barbaridad" de otros anafes eléctricos que probó antes.
+
+## Lo honesto
+
+Es, por lejos, el más caro de esta comparativa: más del doble que el Ultracomb AN-2200 de entrada de la misma marca. La superficie de vidrio vitrocerámico exige cuidados que un anafe de chapa no pide: limpiarla en frío, con detergente o alcohol, y nunca con esponjas o productos abrasivos que puedan rayarla. Sigue siendo de 1 sola hornalla, igual que el AN-2200.
+
+## Para quién es
+
+Para quien ya decidió invertir en el mejor anafe eléctrico de perilla-fija (o mejor dicho, sin perilla) que se consigue en Argentina, con funciones de cocina moderna (temporizador, control preciso, pantalla digital) y no le importa pagar el salto de precio. Si buscás algo más básico y barato, el AN-2200 de la misma marca cumple lo esencial a una fracción del precio.`,
+    faq: [
+      { question: "¿El Ultracomb AN-2211 tiene ventilador?", answer: "Sí, aunque no está en la ficha técnica publicada: una reseña detallada confirma que trae un ventilador de enfriamiento en la base, que hace que la parte de abajo del anafe casi no caliente durante el uso." },
+      { question: "¿Cuánto tarda en hervir agua?", answer: "Según una reseña que lo midió con cronómetro, hierve 1,5 litros de agua en 6 minutos exactos, un tiempo que el comprador describe como muy superior al de otros anafes eléctricos que había probado antes." },
+      { question: "¿Cómo se limpia la superficie vitrocerámica?", answer: "En frío, con unas gotas de alcohol o detergente con agua. Es importante no usar esponjas ni productos abrasivos, porque pueden rayar el vidrio de la vitrocerámica." },
+      { question: "¿Vale la pena pagar el doble que un anafe de perilla?", answer: "Depende de qué valorás. Si querés control preciso de temperatura, temporizador y una superficie más fácil de limpiar, sí. Si solo necesitás calentar comida sin vueltas, el Ultracomb AN-2200 de esta misma marca cumple a una fracción del precio." },
+      { question: "¿Es mejor que un anafe de inducción?", answer: "No: una reseña que compara ambos tipos aclara que un anafe de inducción es superior, pero juega en otra categoría de precio y necesita ollas compatibles. Dentro de los anafes por resistencia/vitrocerámica tradicionales, este es de los mejor calificados." },
+      { question: "¿Tiene más de una hornalla?", answer: "No, es de 1 sola hornalla. Si necesitás dos, mirá el Yelmo AN-9906 o el Winco W41 de esta misma comparativa." },
+    ],
+  },
 ];
 
 export const categoryPastels: Record<string, string> = {
