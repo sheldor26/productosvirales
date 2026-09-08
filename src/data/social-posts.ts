@@ -10,6 +10,16 @@ import type { SocialPost } from "@/lib/types";
  */
 export const socialPosts: SocialPost[] = [
   {
+    title: "Aspiradora Trapeadora Robot Atma Atar21c1dh Blanca",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_608905-MLA99516871408_112025-F.jpg",
+    affiliateUrl: "https://meli.la/1TWykcE",
+    newPrice: "239.999",
+    oldPrice: "410.399",
+    offPct: "41",
+    postedAt: "2026-09-08T10:42:31-03:00",
+  },
+  {
     title: "Licuadora de mano Peabody PE-LMA327B mixer 800 W",
     imageUrl:
       "https://http2.mlstatic.com/D_NQ_NP_994881-MLA99490288888_112025-F.jpg",
