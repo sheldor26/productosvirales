@@ -1970,6 +1970,74 @@ local verificado en el navegador. Las 4 imágenes verificadas con GET real (2.39
 
 Re-medir: **~2026-10-06** (≈4 semanas), contra baseline cero.
 
+## 2026-09-08 — Guía nueva `purificador-de-aire` (silo hogar, categoría nueva, 4 fichas nuevas) — cuarta de un segundo lote
+
+| Guía | Silo | Categoría | Keyword | Volumen (Ubersuggest AR) | SD | Productos |
+| :-- | :-- | :-- | :-- | --: | --: | --: |
+| `purificador-de-aire` | hogar | purificador-de-aire | purificador de aire | 4.400 | 14 | 4 |
+
+**Baseline: cero.** URL nueva, sin historial en GSC. Cuarta guía del segundo lote. Sin canibalización:
+la única mención previa de "purificador" en el sitio era incidental (filtro anti-cal de una pava
+eléctrica). Silo `hogar`, no `cocina` (categoría distinta a las tres guías previas de este lote).
+
+**4 fichas nuevas importadas desde cero**, todas verificadas en vivo en MercadoLibre Argentina: Xiaomi
+Smart Air Purifier 4 Compact (HEPA real, $509.000, 4.9★/**1.070 reseñas** — la base más grande, la más
+elegida), Gadnic PURAIR01 (HEPA H13 + UV-C + WiFi/App Tuya, $435.699, 4.9★ pero solo 8 reseñas, la más
+completa), Levoit LAP-C161-WUS (HEPA real, $155.868, 4.8★/57 reseñas, la más económica con HEPA), Gadnic
+3 en 1 Ionizador (SIN HEPA, solo ionizador, $57.199, 4.4★/84 reseñas, la más económica en términos
+absolutos).
+
+**Hallazgo honesto central y estructural de esta guía: 3 de los 4 productos filtran de verdad (HEPA), 1
+es un ionizador puro.** Se decidió incluir el Gadnic 3 en 1 igual porque compite genuinamente por la
+misma keyword en MercadoLibre, pero se documentó de forma explícita y educativa (sección "Qué mirar",
+columna dedicada en la tabla comparativa, FAQ propia) que un ionizador NO filtra partículas físicamente,
+a diferencia de un HEPA — para que el lector elija con esa información, no para ocultarla.
+
+**Segundo hallazgo honesto: la ficha del Xiaomi está marcada por MercadoLibre como "catálogo
+compartido".** Verificado en vivo: la propia página dice "Incluye opiniones de otros países", y las
+reseñas visibles incluyen México y Chile además de Argentina (mismo patrón ya visto en
+`aspiradora-de-mano` con la Electrolux STK12 y el Xiaomi G20 Lite). Documentado de frente en la ficha y
+la guía.
+
+**Tercer hallazgo honesto: el Gadnic PURAIR01 tiene solo 8 calificaciones pese a su 4.9★.** Documentado
+explícitamente como una base de opiniones chica, no comparable a la del Xiaomi.
+
+**Incidente operativo real durante el sourcing: varios candidatos con ID `MLAU...` no resuelven vía
+`/p/`.** A diferencia de los IDs `MLA...` (sin `U`) que sí resuelven con `https://www.mercadolibre.com.ar/p/MLA...`,
+los IDs con prefijo `MLAU` (listados individuales de vendedor, no fichas de catálogo compartidas)
+devuelven 404 con ese patrón de URL, y tampoco resuelven con `articulo.mercadolibre.com.ar/MLA-<numero>`
+(da un 404 distinto o "esta página no existe"). Se descartaron 2 candidatos fuertes por esto
+(Turboblender TB-AIRP21 con 79 reseñas, y la variante de Levoit Core Mini con 653 reseñas) y se
+reemplazaron por alternativas con ID `MLA` plano que sí resolvieron limpio. **Lección: al buscar
+candidatos, priorizar resultados con ID `MLA` plano sobre `MLAU` cuando ambos estén disponibles — ahorra
+tiempo de sourcing.**
+
+**Corrección de un hallazgo real en la ronda 1 del trío: un número de reseñas hardcodeado.** La FAQ de
+la ficha del Gadnic PURAIR01 decía "apenas 8 calificaciones" en texto plano en vez de usar el token
+`{{reviews:MLA69728489}}`, lo cual rompía `check-hardcoded-reviews.cjs`. Corregido con un `Edit` puntual
+acotado a esa única línea (no una frase de prosa compartida, así que no aplicaba el riesgo de daño
+colateral de sed global). Ronda 2: GO limpio de `agy`, sin ediciones no autorizadas.
+
+**Incidente operativo: caída de acceso de Codex confirmada persistente en esta guía también (ronda 1 y
+ronda 2).** Mismo error 404 en el modelo `gpt-5.5` documentado en la guía `picadora-de-carne` (ver
+memoria del proyecto [[codex-cuenta-chatgpt-puede-perder-acceso-a-modelo]]). No se reintentó una tercera
+vez; esta guía también cierra con el GO de `agy` (que cubrió los puntos técnicos de Codex en su propio
+reporte) más la verificación mecánica completa de Claude.
+
+**Corrección operativa de Juan a mitad de sesión: preferir el navegador interno sobre su Chrome real
+para sourcing en ML.** Ver memoria del proyecto [[browser-preferir-interno-no-chrome-real]] — controlar
+su Chrome real le interfiere si está usando la computadora en simultáneo. Las páginas de producto que
+redirigen a home en el navegador interno (bloqueo de bot ya documentado) siguen necesitando el fallback a
+Chrome real puntualmente, pero solo como último recurso.
+
+**Verificación:** `npx tsc --noEmit`, los 4 scripts de `guides:check` que no dependen de `affiliateUrl`
+(`check-table-product-links`, `check-canonical-product-links`, `check-guide-internal-links`,
+`check-uncovered-prose-prices`), `check-hardcoded-reviews`, `node scripts/check-price-guard.cjs` y `npm
+run build` en verde tras la corrección. Render local verificado en el navegador. Las 4 imágenes
+verificadas con GET real (7.986 a 20.542 bytes).
+
+Re-medir: **~2026-10-06** (≈4 semanas), contra baseline cero.
+
 ## 2026-09-08 — Guía nueva `picadora-de-carne` (silo cocina, categoría nueva, 4 fichas nuevas) — tercera de un segundo lote
 
 | Guía | Silo | Categoría | Keyword | Volumen (Ubersuggest AR) | SD | Productos |

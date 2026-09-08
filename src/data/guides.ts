@@ -30872,6 +30872,119 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     ],
     internalLinksTitle: "Más para tu cocina",
   },
+  // Guía nueva purificador-de-aire — silo hogar, categoría nueva
+  // Origen: research propio 2026-09-08. Keyword "purificador de aire"
+  // 4.400/mes, SD 14. Sin canibalización: solo existía una mención
+  // incidental de "purificador" en la ficha de una pava eléctrica
+  // (filtro anti-cal), y un producto no relacionado de vaporizador de
+  // ambiente. Nunca como categoría propia.
+  // 4 fichas nuevas importadas el mismo día (ver curated-products.ts).
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "purificador-de-aire",
+    category: "purificador-de-aire",
+    silo: "hogar",
+    pillar: true,
+    title: `Purificador de Aire: cuál comprar en Argentina [2026]`,
+    seoTitle: `Purificador de Aire: Cuál Comprar en Argentina | 2026`,
+    metaDescription: `Descubrí qué purificador de aire comprar en Argentina: el más elegido, el más completo o el más económico. Precios reales de MercadoLibre y contras honestas.`,
+    ogTitle: `Purificador de aire: cuál comprar en Argentina`,
+    ogDescription: `Xiaomi, Gadnic y Levoit comparados: HEPA real o solo ionizador. Precios reales de MercadoLibre y las contras que nadie cuenta.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_939614-MLA99943515047_112025-O.webp`,
+    h1: `Purificador de aire: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene el **[Xiaomi Smart Air Purifier 4 Compact](/producto/purificador-de-aire-xiaomi-smart-air-purifier-4-compact-blanco-mla43937894)** (alrededor de {{precio:MLA43937894:k}}): filtro HEPA real y por lejos el más elegido. Si necesitás más cobertura y control por app, el **[Gadnic PURAIR01](/producto/purificador-aire-inteligente-gadnic-filtro-hepa-y-uv-c-85w-nanocristales-7-etapa-mla69728489)** con UV-C. Si buscás algo más económico con HEPA real, el **[Levoit LAP-C161](/producto/purificador-levoit-con-filtro-hepa-para-hogar-y-dormitorio-blanco-crema-mla2040677334)**. Y si el presupuesto es lo primero, el **[Gadnic 3 en 1 Ionizador](/producto/purificador-de-aire-gadnic-3-en-1-ionizador-hogar-silencioso-blanco-mla67194282)** (sin filtro HEPA, solo ionizador).`,
+    publishedDate: "2026-09-08",
+    updatedDate: "2026-09-08",
+    hasDisclosure: true,
+    readingTime: 8,
+    standfirst: `Un purificador de aire va de {{precio:MLA67194282:k}} (ionizador, sin HEPA) a {{precio:MLA43937894:k}} (el más elegido, con HEPA real). La decisión real pasa por si tiene filtro HEPA de verdad o es solo un ionizador, y cuánta superficie cubre, no solo por precio. Te mostramos cuál conviene, con precios reales de MercadoLibre.`,
+    quickPicks: [
+      { productMlaId: "MLA43937894", label: "Mejor elección general", labelColor: "green", tagline: "Xiaomi Smart Air Purifier 4 Compact: HEPA real, el más elegido" },
+      { productMlaId: "MLA69728489", label: "El más completo", labelColor: "purple", tagline: "Gadnic PURAIR01: HEPA H13 + UV-C + WiFi" },
+      { productMlaId: "MLA2040677334", label: "Con HEPA, más económico", labelColor: "amber", tagline: "Levoit LAP-C161: filtro HEPA real, precio bajo" },
+      { productMlaId: "MLA67194282", label: "El más económico", labelColor: "slate", tagline: "Gadnic 3 en 1: ionizador enchufable, sin HEPA" },
+    ],
+    intro: [
+      `El purificador de aire resuelve algo simple pero clave: filtrar de verdad partículas, alérgenos y olores del aire que respirás, no solo perfumarlo. La decisión real pasa por si tiene filtro HEPA físico o es solo un ionizador que emite partículas cargadas, y cuánta superficie cubre de verdad, no solo por el precio.`,
+      `En esta guía comparamos los purificadores de aire más vendidos y mejor calificados de MercadoLibre Argentina, con las contras reales que cuentan los compradores: desde publicaciones de catálogo compartido con otros países hasta la diferencia real entre un ionizador y un purificador con filtro HEPA.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_939614-MLA99943515047_112025-O.webp", alt: `Purificador de aire Xiaomi Smart Air Purifier 4 Compact, el más elegido de esta guía`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, el **[Xiaomi Smart Air Purifier 4 Compact](/producto/purificador-de-aire-xiaomi-smart-air-purifier-4-compact-blanco-mla43937894)**: filtro HEPA real y por lejos el más elegido. Si necesitás **más cobertura y control por app**, el **[Gadnic PURAIR01](/producto/purificador-aire-inteligente-gadnic-filtro-hepa-y-uv-c-85w-nanocristales-7-etapa-mla69728489)** con UV-C. Si buscás **algo más económico con HEPA real**, el **[Levoit LAP-C161](/producto/purificador-levoit-con-filtro-hepa-para-hogar-y-dormitorio-blanco-crema-mla2040677334)**. Y si **el presupuesto es lo primero**, el **[Gadnic 3 en 1 Ionizador](/producto/purificador-de-aire-gadnic-3-en-1-ionizador-hogar-silencioso-blanco-mla67194282)** (sin filtro HEPA).` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos los purificadores de aire con más ventas y opiniones reales en MercadoLibre Argentina. Las ordenamos por lo que define la compra: si tienen filtro HEPA o solo ionizan, la superficie de cobertura declarada y el precio. Las calificaciones y las contras son de compradores reales. Los precios que ves en las fichas y tablas se revisan contra MercadoLibre periódicamente.` },
+
+      { type: "h2", title: `Qué mirar antes de comprar un purificador de aire`, id: "que-mirar" },
+      { type: "p", content: `Primero, **HEPA real o solo ionizador**: un filtro HEPA atrapa partículas físicamente (polvo, pelo de mascota, alérgenos); un ionizador solo emite partículas cargadas al aire, sin filtrar nada. Son tecnologías distintas y no cumplen la misma función, aunque ambas se vendan como "purificador de aire". Segundo, **la superficie de cobertura declarada**: no sirve de nada un equipo pensado para 10m³ en un living de 30m². Tercero, **el origen de la publicación**: algunas fichas de marcas internacionales están marcadas como catálogo compartido con otros países de la región, lo que infla el número de opiniones visibles sin que sean todas de compradores argentinos.` },
+      { type: "p", content: `Un detalle honesto de la categoría: el costo de los filtros de repuesto a futuro casi nunca aparece claro en la publicación. Varias reseñas de esta guía preguntan por eso sin obtener respuesta pública; conviene confirmarlo con el vendedor antes de comprar si te importa el mantenimiento a largo plazo.` },
+
+      { type: "h2", title: `Los mejores purificadores de aire 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Xiaomi Smart Air Purifier 4 Compact — mejor elección general` },
+      { type: "product-card", productMlaId: "MLA43937894", label: "Mejor elección general", labelColor: "green", ranking: 1, description: `Filtro HEPA real, 27m² de cobertura, 20dB. 4.9 estrellas en {{reviews:MLA43937894}} calificaciones, la base más grande de esta guía por lejos.` },
+      { type: "p", content: `Es el purificador que recomendamos a la mayoría: filtro **HEPA real** más carbón activado, cobertura de hasta 27m² y 20 dB de ruido declarado, a alrededor de {{precio:MLA43937894:k}}. Con {{reviews:MLA43937894}} calificaciones a 4.9 estrellas, es por lejos el más elegido de esta guía.` },
+      { type: "p", content: `La contra real: MercadoLibre marca esta publicación como catálogo compartido con otros países, así que buena parte de las calificaciones no son de compradores argentinos (aunque las hay).` },
+      { type: "pull-quote", content: `"Me encantó, detecta automáticamente la calidad del aire y ajusta su velocidad en función de eso. Mi perrito es alérgico y lo agradece mucho."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `2. Gadnic PURAIR01 — el más completo` },
+      { type: "product-card", productMlaId: "MLA69728489", label: "El más completo", labelColor: "purple", ranking: 2, description: `HEPA H13, UV-C, WiFi, hasta 70m². 4.9 estrellas en {{reviews:MLA69728489}} calificaciones (todavía pocas).` },
+      { type: "p", content: `El sistema más completo de esta guía: filtro **HEPA H13**, esterilización **UV-C**, sensor de calidad de aire y control por WiFi con la app Tuya, para ambientes de hasta 70m², a alrededor de {{precio:MLA69728489:k}}.` },
+      { type: "p", content: `La contra real: todavía tiene muy pocas calificaciones ({{reviews:MLA69728489}}), así que su 4.9 estrellas es un dato preliminar, no una base sólida como la del Xiaomi de esta guía.` },
+
+      { type: "h3", title: `3. Levoit LAP-C161 — con HEPA, más económico` },
+      { type: "product-card", productMlaId: "MLA2040677334", label: "Con HEPA, más económico", labelColor: "amber", ranking: 3, description: `Filtro HEPA real a precio bajo. 4.8 estrellas en {{reviews:MLA2040677334}} calificaciones.` },
+      { type: "p", content: `La opción más económica de esta guía que sí tiene **filtro HEPA real**, a alrededor de {{precio:MLA2040677334:k}}. Con {{reviews:MLA2040677334}} calificaciones a 4.8 estrellas, varias reseñas confirman mejoras reales en alergias respiratorias.` },
+      { type: "p", content: `La contra real: lo vende un reseller que lo importa, no una tienda oficial de Levoit, y la ficha no declara el área de cobertura ni la potencia.` },
+      { type: "pull-quote", content: `"Me daba desconfianza que sea el más barato jajaja pero terminó siendo un lujo! vino todo en condiciones y el aparato funciona de 10, recomiendo."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `4. Gadnic 3 en 1 Ionizador — el más económico` },
+      { type: "product-card", productMlaId: "MLA67194282", label: "El más económico", labelColor: "slate", ranking: 4, description: `Ionizador enchufable, sin HEPA. 4.4 estrellas en {{reviews:MLA67194282}} calificaciones.` },
+      { type: "p", content: `La opción más económica de esta guía, a alrededor de {{precio:MLA67194282:k}} por un kit de 3 unidades enchufables, sin instalación.` },
+      { type: "p", content: `La contra real y un dato honesto: es un **ionizador**, no un purificador con filtro HEPA como el resto de esta guía. No filtra partículas físicamente, solo emite iones negativos, y cubre apenas 10m³ por unidad.` },
+      { type: "pull-quote", content: `"Creo que está bueno. Igual, si no anda, no te enterás."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h2", title: `Tabla comparativa: filtro, cobertura y precio`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Filtro HEPA`, `Cobertura`, `Ruido`, `Rating`], rows: [
+        [`[Xiaomi Smart Air Purifier 4](/producto/purificador-de-aire-xiaomi-smart-air-purifier-4-compact-blanco-mla43937894)`, `{{precio:MLA43937894}}`, `Sí`, `27 m²`, `20 dB`, `{{rating:MLA43937894}} ({{reviews:MLA43937894}})`],
+        [`[Gadnic PURAIR01](/producto/purificador-aire-inteligente-gadnic-filtro-hepa-y-uv-c-85w-nanocristales-7-etapa-mla69728489)`, `{{precio:MLA69728489}}`, `Sí (H13 + UV-C)`, `50-70 m²`, `< 66 dB`, `{{rating:MLA69728489}} ({{reviews:MLA69728489}})`],
+        [`[Levoit LAP-C161](/producto/purificador-levoit-con-filtro-hepa-para-hogar-y-dormitorio-blanco-crema-mla2040677334)`, `{{precio:MLA2040677334}}`, `Sí`, `No declarada`, `No declarado`, `{{rating:MLA2040677334}} ({{reviews:MLA2040677334}})`],
+        [`[Gadnic 3 en 1 Ionizador](/producto/purificador-de-aire-gadnic-3-en-1-ionizador-hogar-silencioso-blanco-mla67194282)`, `{{precio:MLA67194282}}`, `No (ionizador)`, `10 m³`, `< 5 dB`, `{{rating:MLA67194282}} ({{reviews:MLA67194282}})`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu purificador de aire`, id: "como-elegir" },
+      { type: "h3", title: `¿HEPA real o solo ionizador?` },
+      { type: "p", content: `Si necesitás filtrar partículas de verdad (alergias, mascotas, humo), elegí una opción con filtro HEPA real: el [Xiaomi](/producto/purificador-de-aire-xiaomi-smart-air-purifier-4-compact-blanco-mla43937894), el [Gadnic PURAIR01](/producto/purificador-aire-inteligente-gadnic-filtro-hepa-y-uv-c-85w-nanocristales-7-etapa-mla69728489) o el [Levoit](/producto/purificador-levoit-con-filtro-hepa-para-hogar-y-dormitorio-blanco-crema-mla2040677334) de esta guía. El [Gadnic 3 en 1](/producto/purificador-de-aire-gadnic-3-en-1-ionizador-hogar-silencioso-blanco-mla67194282) es solo un ionizador: sirve como complemento en espacios chicos, no como reemplazo.` },
+      { type: "h3", title: `¿Cuánta superficie necesitás cubrir?` },
+      { type: "p", content: `Para un dormitorio o ambiente chico (hasta 27m²), el [Xiaomi](/producto/purificador-de-aire-xiaomi-smart-air-purifier-4-compact-blanco-mla43937894) alcanza de sobra. Para un living integrado o un ambiente más grande (hasta 70m²), el [Gadnic PURAIR01](/producto/purificador-aire-inteligente-gadnic-filtro-hepa-y-uv-c-85w-nanocristales-7-etapa-mla69728489) de esta guía es la opción correcta.` },
+      { type: "h3", title: `¿Vale la pena pagar por control con app?` },
+      { type: "p", content: `Si te sirve monitorear la calidad de aire en tiempo real y programar el equipo desde el celular, el [Gadnic PURAIR01](/producto/purificador-aire-inteligente-gadnic-filtro-hepa-y-uv-c-85w-nanocristales-7-etapa-mla69728489) de esta guía suma esa función. El resto se opera con controles físicos.` },
+
+      { type: "h2", title: `Cuánto cuesta un purificador de aire en Argentina [septiembre 2026]`, id: "cuanto-cuesta" },
+      { type: "list", content: "Franjas de precio reales", items: [
+        `**Alrededor de {{precio:MLA67194282:k}}:** el [Gadnic 3 en 1 Ionizador](/producto/purificador-de-aire-gadnic-3-en-1-ionizador-hogar-silencioso-blanco-mla67194282), sin filtro HEPA.`,
+        `**Alrededor de {{precio:MLA2040677334:k}}:** el [Levoit LAP-C161](/producto/purificador-levoit-con-filtro-hepa-para-hogar-y-dormitorio-blanco-crema-mla2040677334), la opción más económica con HEPA real.`,
+        `**Alrededor de {{precio:MLA69728489:k}} a {{precio:MLA43937894:k}}:** el [Gadnic PURAIR01](/producto/purificador-aire-inteligente-gadnic-filtro-hepa-y-uv-c-85w-nanocristales-7-etapa-mla69728489) y el [Xiaomi Smart Air Purifier 4](/producto/purificador-de-aire-xiaomi-smart-air-purifier-4-compact-blanco-mla43937894), las opciones premium de esta guía.`,
+      ] },
+
+      { type: "verdict", content: `Para la mayoría, el **[Xiaomi Smart Air Purifier 4 Compact](/producto/purificador-de-aire-xiaomi-smart-air-purifier-4-compact-blanco-mla43937894)** es la compra más segura: filtro HEPA real y por lejos el más elegido de esta guía. Si necesitás más cobertura y control por app, el **[Gadnic PURAIR01](/producto/purificador-aire-inteligente-gadnic-filtro-hepa-y-uv-c-85w-nanocristales-7-etapa-mla69728489)**. Si buscás algo más económico con HEPA real, el **[Levoit LAP-C161](/producto/purificador-levoit-con-filtro-hepa-para-hogar-y-dormitorio-blanco-crema-mla2040677334)**. Y si el presupuesto es lo primero, el **[Gadnic 3 en 1 Ionizador](/producto/purificador-de-aire-gadnic-3-en-1-ionizador-hogar-silencioso-blanco-mla67194282)**, sabiendo que no reemplaza a un HEPA real.` },
+    ],
+    faq: [
+      { question: `¿Cuál es el mejor purificador de aire en Argentina?`, answer: `Para la mayoría, el [Xiaomi Smart Air Purifier 4 Compact](/producto/purificador-de-aire-xiaomi-smart-air-purifier-4-compact-blanco-mla43937894): filtro HEPA real y por lejos el más elegido. Si necesitás más cobertura, el [Gadnic PURAIR01](/producto/purificador-aire-inteligente-gadnic-filtro-hepa-y-uv-c-85w-nanocristales-7-etapa-mla69728489) con UV-C.` },
+      { question: `¿Cuál es la diferencia entre un ionizador y un purificador con filtro HEPA?`, answer: `El filtro HEPA atrapa partículas físicamente (polvo, pelo, alérgenos); un ionizador solo emite partículas cargadas al aire, sin filtrar nada. El [Gadnic 3 en 1](/producto/purificador-de-aire-gadnic-3-en-1-ionizador-hogar-silencioso-blanco-mla67194282) de esta guía es un ionizador; el resto tiene filtro HEPA real.` },
+      { question: `¿Por qué algunas publicaciones tienen opiniones de otros países?`, answer: `MercadoLibre comparte el catálogo de algunas marcas internacionales entre varios países de la región, así que las calificaciones pueden incluir compradores de México, Chile u otros países además de Argentina. Pasa con el Xiaomi de esta guía.` },
+      { question: `¿Vale la pena un purificador sin filtro HEPA?`, answer: `Como complemento en espacios chicos, sí, y suele ser bastante más barato. Pero no reemplaza a un purificador con filtro HEPA real si necesitás filtrar partículas de verdad en un ambiente grande.` },
+      { question: `¿Cuánto cuestan los filtros de repuesto?`, answer: `Ninguna de las publicaciones de esta guía lo aclara con precisión; varias reseñas reales preguntan lo mismo sin obtener respuesta pública. Conviene confirmarlo con el vendedor antes de comprar si te importa el costo de mantenimiento a futuro.` },
+      { question: `¿Qué superficie cubren?`, answer: `Varía mucho: desde 10m³ el ionizador Gadnic hasta 70m² el Gadnic PURAIR01 de esta guía. Elegí según el tamaño real del ambiente donde lo vas a usar.` },
+    ],
+    internalLinks: [
+      { label: "Aspiradora de mano: cuál comprar en Argentina", href: "/guias/hogar/aspiradora-de-mano" },
+      { label: "Secarropas: cuál comprar en Argentina", href: "/guias/hogar/secarropas" },
+      { label: "Plancha de ropa: cuál comprar en Argentina", href: "/guias/hogar/plancha-de-ropa" },
+      { label: "Lavarropas automático: cuál comprar en Argentina", href: "/guias/hogar/lavarropas-automatico" },
+    ],
+    internalLinksTitle: "Más para tu hogar",
+  },
 ];
 
 /**
@@ -31240,6 +31353,11 @@ export const guideCategories: Record<string, { name: string; description: string
     name: "Guía de Picadora de Carne",
     description:
       "Cuánta potencia necesitás de verdad y qué tan compacta te conviene: las más vendidas y mejor calificadas de MercadoLibre, comparadas.",
+  },
+  "purificador-de-aire": {
+    name: "Guía de Purificador de Aire",
+    description:
+      "HEPA real o solo ionizador, cuánta superficie cubren de verdad: los más vendidos y mejor calificados de MercadoLibre, comparados.",
   },
   climatizacion: {
     name: "Guías de Climatización",

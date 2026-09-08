@@ -88630,6 +88630,274 @@ Para quien busca el máximo de potencia de esta comparativa y no le importa paga
       { question: "¿Trae garantía?", answer: "La ficha de MercadoLibre no detalla el plazo de garantía de fábrica de este modelo puntual; confirmalo en la publicación antes de comprar." },
     ],
   },
+  {
+    id: "MLA43937894",
+    title: "Purificador de aire Xiaomi Smart Air Purifier 4 Compact blanco -",
+    canonicalName: "Xiaomi Smart Air Purifier 4 Compact", mpn: "Smart Air Purifier 4 Compact", brand: "Xiaomi",
+    price: 509000, currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_939614-MLA99943515047_112025-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_939614-MLA99943515047_112025-O.webp"],
+    category: "Hogar", categorySlug: "hogar",
+    permalink: "https://www.mercadolibre.com.ar/purificador-de-aire-xiaomi-smart-air-purifier-4-compact-blanco-/p/MLA43937894",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new", freeShipping: true, rating: 4.9, reviewCount: 1070,
+    pastelColor: "var(--pastel-blue)",
+    priceUpdated: "2026-09-08", priceLastChecked: "2026-09-08", priceStatus: "fresh", reviewsSampledAt: "2026-09-08",
+    specs: [
+      { label: "Marca", value: "Xiaomi" },
+      { label: "Modelo", value: "Smart Air Purifier 4 Compact" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Potencia", value: "27 W" },
+      { label: "Área máxima de cobertura", value: "27 m²" },
+      { label: "Con filtro HEPA", value: "Sí" },
+      { label: "Método de filtración", value: "HEPA + carbón activado" },
+      { label: "Nivel de ruido", value: "20 dB" },
+      { label: "Es portátil", value: "Sí" },
+      { label: "Dimensiones", value: "23 x 23 x 36 cm" },
+    ],
+    relatedProducts: ["MLA69728489", "MLA2040677334", "MLA67194282"],
+    description: "Purificador de aire Xiaomi Smart Air Purifier 4 Compact, filtro HEPA para hasta 27m². La más elegida de esta comparativa, con más de 1.000 calificaciones.",
+    seoTitle: "Xiaomi Smart Air Purifier 4 Compact: el más elegido",
+    metaDescription: "Xiaomi Smart Air Purifier 4 Compact a {{precio:MLA43937894}}: filtro HEPA, 27m² y {{reviews:MLA43937894}} calificaciones. El más elegido de esta comparativa.",
+    ogTitle: "Xiaomi Smart Air Purifier 4 Compact: purificador con HEPA, el más elegido",
+    ogDescription: "Filtro HEPA real, 27m² de cobertura, 20dB de ruido declarado. El más elegido por lejos, con un aviso honesto sobre sus reseñas.",
+    h1: "Xiaomi Smart Air Purifier 4 Compact: purificador de aire, el más elegido de esta comparativa",
+    verdict: "El purificador de aire más elegido de esta comparativa, por lejos: {{reviews:MLA43937894}} calificaciones a 4.9 estrellas, muchas más que cualquier otra opción. Tiene filtro HEPA real (más carbón activado), cobertura de hasta 27m² y 20 dB de ruido declarado, a {{precio:MLA43937894}}. El aviso honesto: MercadoLibre marca esta publicación como catálogo compartido con otros países de la región, así que buena parte de las calificaciones no son de compradores argentinos (aunque las hay).",
+    pros: [
+      "El más elegido de esta comparativa, con {{reviews:MLA43937894}} calificaciones",
+      "Filtro HEPA real, no solo ionizador",
+      "20 dB de ruido declarado, silencioso según varias reseñas",
+      "Modo automático que ajusta la velocidad según la calidad del aire detectada",
+    ],
+    cons: [
+      "Es el más caro de esta comparativa",
+      "MercadoLibre marca la publicación como catálogo compartido con otros países: no todas las calificaciones son de Argentina",
+      "Una reseña avisa que, en la velocidad más alta para espacios grandes, hace más ruido del esperado",
+      "Una reseña menciona que le preocupa el costo de los filtros de repuesto a futuro",
+    ],
+    articleBody: `## El más elegido de esta comparativa, por lejos
+
+El Xiaomi Smart Air Purifier 4 Compact es el purificador de aire más elegido de esta comparativa: {{reviews:MLA43937894}} calificaciones a 4.9 estrellas, muchas más que el resto. Tiene filtro HEPA real (no solo ionizador), cobertura de hasta 27m² y 20 dB de ruido declarado. Cuesta {{precio:MLA43937894}}, el más caro de esta comparativa.
+
+## Un dato honesto sobre las reseñas
+
+MercadoLibre marca esta publicación como catálogo compartido: "incluye opiniones de otros países". Entre las calificaciones visibles hay compradores de México y Chile además de Argentina. No invalida el producto (Xiaomi es una marca con mucho historial), pero conviene saberlo antes de tomar el número de calificaciones como referencia 100% local.
+
+## Lo que dicen los compradores reales
+
+Las reseñas destacan que el modo automático detecta mala calidad de aire y sube de revoluciones solo, útil para fumadores, mascotas o alergias. El aviso honesto: alguna reseña avisa que no es tan silencioso al funcionar a máxima potencia, y otra menciona la preocupación por el costo futuro de los filtros de repuesto.
+
+## Para quién es
+
+Para quien prioriza la marca con más historial y respaldo de opiniones de esta comparativa, y no le importa pagar el precio más alto por eso. Si buscás algo más económico con filtro HEPA real, el Levoit de esta comparativa cumple bien a un tercio del precio.`,
+    faq: [
+      { question: "¿Tiene filtro HEPA real?", answer: "Sí, además de carbón activado. No es un simple ionizador: filtra partículas físicamente." },
+      { question: "¿Las reseñas son de Argentina?", answer: "MercadoLibre marca esta publicación como catálogo compartido con otros países de la región; hay calificaciones de México, Chile y también de Argentina." },
+      { question: "¿Es realmente silencioso?", answer: "Declara 20 dB, y varias reseñas lo confirman para uso nocturno. Una reseña avisa que a máxima potencia (para espacios grandes) el ruido sube más de lo esperado." },
+      { question: "¿Cuántas calificaciones tiene?", answer: "{{reviews:MLA43937894}} calificaciones a {{rating:MLA43937894}} estrellas, la base de opiniones más grande de esta comparativa por lejos." },
+      { question: "¿Qué superficie cubre?", answer: "Hasta 27m², según la ficha técnica. Para espacios más grandes, el Gadnic con UV-C de esta comparativa declara cobertura de hasta 70m²." },
+      { question: "¿Trae garantía?", answer: "La ficha de MercadoLibre no detalla el plazo de garantía de fábrica de este modelo puntual; confirmalo en la publicación antes de comprar." },
+    ],
+  },
+  {
+    id: "MLA69728489",
+    title: "Purificador Aire Inteligente Gadnic Filtro Hepa Y Uv C 85w Nanocristales 7 Etapas App Tuya",
+    canonicalName: "Gadnic PURAIR01", mpn: "PURAIR01", brand: "Gadnic",
+    price: 435699, currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_872226-MLA114899440039_072026-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_872226-MLA114899440039_072026-O.webp"],
+    category: "Hogar", categorySlug: "hogar",
+    permalink: "https://www.mercadolibre.com.ar/purificador-aire-inteligente-gadnic-filtro-hepa-y-uv-c-85w-nanocristales-7-etapas-app-tuya/p/MLA69728489",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new", freeShipping: true, rating: 4.9, reviewCount: 8,
+    pastelColor: "var(--pastel-purple)",
+    priceUpdated: "2026-09-08", priceLastChecked: "2026-09-08", priceStatus: "fresh", reviewsSampledAt: "2026-09-08",
+    specs: [
+      { label: "Marca", value: "Gadnic" },
+      { label: "Modelo", value: "PURAIR01" },
+      { label: "Potencia", value: "85 W" },
+      { label: "Área máxima de cobertura", value: "50 a 70 m²" },
+      { label: "Sistema de filtración", value: "7 etapas: prefiltro, HEPA H13, nanocristales, fotocatálisis, UV-C, ionización" },
+      { label: "Conectividad", value: "WiFi, App Tuya" },
+      { label: "CADR", value: "380 m³/h" },
+      { label: "Nivel de ruido", value: "Menor a 66 dB" },
+      { label: "Sensor de calidad de aire", value: "Sí, PM2.5, temperatura y humedad" },
+    ],
+    relatedProducts: ["MLA43937894", "MLA2040677334", "MLA67194282"],
+    description: "Purificador de aire inteligente Gadnic PURAIR01, filtro HEPA H13 + UV-C, WiFi. La opción más completa de esta comparativa, para ambientes de hasta 70m².",
+    seoTitle: "Gadnic PURAIR01: el purificador con UV-C y WiFi más completo",
+    metaDescription: "Gadnic PURAIR01 a {{precio:MLA69728489}}: HEPA H13, UV-C, WiFi y {{reviews:MLA69728489}} calificaciones. La opción más completa de esta comparativa.",
+    ogTitle: "Gadnic PURAIR01: purificador con HEPA H13, UV-C y control por WiFi",
+    ogDescription: "7 etapas de filtración, hasta 70m² de cobertura, control por app. La opción más completa de esta comparativa, con pocas opiniones todavía.",
+    h1: "Gadnic PURAIR01: purificador de aire con UV-C, la opción más completa de esta comparativa",
+    verdict: "La opción más completa de esta comparativa: sistema de 7 etapas con filtro HEPA H13, esterilización UV-C, sensor de calidad de aire y control por WiFi con la app Tuya, para ambientes de hasta 70m². Cuesta {{precio:MLA69728489}}, el segundo más caro de esta comparativa. El aviso honesto: todavía tiene pocas calificaciones ({{reviews:MLA69728489}}), así que su 4.9 estrellas es un dato preliminar, no una base sólida como la del Xiaomi de esta comparativa.",
+    pros: [
+      "El sistema de filtración más completo de esta comparativa: HEPA H13 + UV-C + fotocatálisis + ionización",
+      "Mayor cobertura declarada de esta comparativa: hasta 70m²",
+      "Control por WiFi y app, con sensor de PM2.5, temperatura y humedad",
+      "CADR de 380 m³/h, un flujo de aire alto según su ficha técnica",
+    ],
+    cons: [
+      "Todavía tiene muy pocas calificaciones ({{reviews:MLA69728489}}); su 4.9 estrellas no es una base tan sólida como la del Xiaomi de esta comparativa",
+      "Es el segundo más caro de esta comparativa",
+      "Una reseña pregunta dónde conseguir los filtros de repuesto, sin que la ficha lo aclare",
+    ],
+    articleBody: `## La opción más completa de esta comparativa
+
+El Gadnic PURAIR01 es el purificador de aire más completo de esta comparativa: filtro HEPA H13, esterilización UV-C, fotocatálisis, ionización negativa, sensor de calidad de aire y control por WiFi con la app Tuya, para ambientes de hasta 70m². Cuesta {{precio:MLA69728489}}.
+
+## Un dato honesto sobre las reseñas
+
+Tiene apenas {{reviews:MLA69728489}} calificaciones, todas positivas hasta ahora, pero es una base chica para confiar del todo en el 4.9. Es un producto relativamente nuevo en el catálogo; si preferís una base de opiniones más grande y probada, el Xiaomi de esta comparativa acumula muchas más.
+
+## Lo que dicen los compradores reales
+
+Las reseñas disponibles son breves pero consistentes: destacan que es silencioso y que cumple lo que promete. Una pregunta que quedó sin responder en una reseña: dónde conseguir los filtros de repuesto a futuro, algo a confirmar antes de comprar si te importa el costo de mantenimiento.
+
+## Para quién es
+
+Para ambientes grandes (living integrado, oficina, dormitorio principal) donde 27m² de cobertura no alcanza, y para quien valora controlar el equipo por app y tener un sensor de calidad de aire en tiempo real. Si preferís algo con más historial de opiniones, el Xiaomi de esta comparativa es la apuesta más segura.`,
+    faq: [
+      { question: "¿Tiene pocas opiniones?", answer: "Sí, apenas {{reviews:MLA69728489}} calificaciones hasta el momento, todas positivas. Es un dato honesto a tener en cuenta: no es una base tan sólida como la del Xiaomi de esta comparativa, que tiene más de 1.000." },
+      { question: "¿Qué cobertura tiene?", answer: "Hasta 70m² según su ficha técnica, la más alta de esta comparativa." },
+      { question: "¿Se controla por app?", answer: "Sí, por WiFi con la app Tuya, que también muestra el sensor de calidad de aire (PM2.5), temperatura y humedad en tiempo real." },
+      { question: "¿Qué diferencia tiene con un purificador HEPA simple?", answer: "Suma esterilización UV-C, fotocatálisis e ionización negativa a las 7 etapas de filtración, además del filtro HEPA H13 que ya traen otras opciones de esta comparativa." },
+      { question: "¿Dónde se consiguen los filtros de repuesto?", answer: "La ficha de MercadoLibre no lo aclara; una reseña real hizo la misma pregunta sin recibir respuesta pública. Confirmalo con el vendedor antes de comprar si te importa el mantenimiento a futuro." },
+      { question: "¿Trae garantía?", answer: "La ficha de MercadoLibre no detalla el plazo de garantía de fábrica de este modelo puntual; confirmalo en la publicación antes de comprar." },
+    ],
+  },
+  {
+    id: "MLA2040677334",
+    title: "Purificador Levoit Con Filtro Hepa Para Hogar Y Dormitorio Blanco Crema",
+    canonicalName: "Levoit LAP-C161-WUS", mpn: "LAP-C161-WUS", brand: "Levoit",
+    price: 155868, currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_890875-MLA84093949047_042025-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_890875-MLA84093949047_042025-O.webp"],
+    category: "Hogar", categorySlug: "hogar",
+    permalink: "https://www.mercadolibre.com.ar/purificador-levoit-con-filtro-hepa-para-hogar-y-dormitorio-blanco-crema/p/MLA2040677334",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new", freeShipping: false, rating: 4.8, reviewCount: 57,
+    pastelColor: "var(--pastel-amber)",
+    priceUpdated: "2026-09-08", priceLastChecked: "2026-09-08", priceStatus: "fresh", reviewsSampledAt: "2026-09-08",
+    specs: [
+      { label: "Marca", value: "Levoit" },
+      { label: "Modelo", value: "LAP-C161-WUS" },
+      { label: "Color", value: "Blanco crema" },
+      { label: "Con filtro HEPA", value: "Sí" },
+      { label: "Dimensiones", value: "30 x 20 x 20 cm" },
+      { label: "Origen", value: "Importado, vendido por reseller (MS Global)" },
+    ],
+    relatedProducts: ["MLA43937894", "MLA69728489", "MLA67194282"],
+    description: "Purificador de aire Levoit LAP-C161-WUS, filtro HEPA real. La opción más económica con filtro HEPA de esta comparativa.",
+    seoTitle: "Levoit LAP-C161: purificador HEPA, la opción más económica",
+    metaDescription: "Levoit LAP-C161 a {{precio:MLA2040677334}}: filtro HEPA real y {{reviews:MLA2040677334}} calificaciones. La opción más económica con HEPA de esta comparativa.",
+    ogTitle: "Levoit LAP-C161: purificador con filtro HEPA, el más económico",
+    ogDescription: "Filtro HEPA real a un precio bastante menor que el resto. La opción más económica con HEPA de esta comparativa, según reseñas reales de compradores.",
+    h1: "Levoit LAP-C161: purificador de aire con HEPA, la opción más económica de esta comparativa",
+    verdict: "La opción más económica con filtro HEPA real de esta comparativa: a {{precio:MLA2040677334}}, bastante menos que el Xiaomi o el Gadnic con UV-C de esta comparativa. Con {{reviews:MLA2040677334}} calificaciones a 4.8 estrellas, varias reseñas destacan mejoras reales en alergias y calidad del sueño. Un dato a tener en cuenta: lo vende un reseller que importa el producto, no una tienda oficial de la marca.",
+    pros: [
+      "La opción más económica con filtro HEPA real de esta comparativa",
+      "4.8 estrellas, varias reseñas confirman mejoras reales en alergias respiratorias",
+      "Silencioso según reseñas, apto para dormitorio",
+      "Reseñas de compradores que lo compararon favorablemente contra opciones más caras",
+    ],
+    cons: [
+      "Lo vende un reseller que lo importa, no es una tienda oficial de Levoit",
+      "Menos calificaciones acumuladas que el Xiaomi de esta comparativa",
+      "La ficha no declara el área de cobertura ni la potencia, a diferencia de las otras opciones de esta comparativa",
+    ],
+    articleBody: `## La opción más económica con HEPA real
+
+El Levoit LAP-C161-WUS tiene filtro HEPA real a {{precio:MLA2040677334}}, bastante menos que el Xiaomi o el Gadnic con UV-C de esta comparativa. Con {{reviews:MLA2040677334}} calificaciones a 4.8 estrellas, tiene buen respaldo para su precio.
+
+## Lo que dicen los compradores reales
+
+Varias reseñas cuentan mejoras concretas: una eliminó el olor a cigarrillo que generaba quejas en la casa; otra, con alergias respiratorias de toda la vida, dejó de necesitar antialérgicos después de usarlo por las noches durante meses, y su padre también notó mejoras en alergias y ronquidos. Una reseña resume bien el valor: "me daba desconfianza que sea el más barato, pero terminó siendo un lujo".
+
+## Un dato a tener en cuenta
+
+Lo vende un reseller (MS Global) que lo importa de Estados Unidos, no una tienda oficial de Levoit en Argentina. La garantía de 30 días la ofrece el vendedor, además de la garantía de fábrica del producto. No es necesariamente un problema, pero es distinto a comprarle a la marca directamente.
+
+## Para quién es
+
+Para quien quiere un purificador con filtro HEPA real (no solo ionizador) sin pagar el precio de las opciones premium de esta comparativa. Si preferís comprarle a la marca directamente o necesitás más cobertura declarada, el Xiaomi o el Gadnic con UV-C de esta comparativa son la alternativa.`,
+    faq: [
+      { question: "¿Tiene filtro HEPA real?", answer: "Sí, es uno de los puntos fuertes de este modelo: filtra partículas físicamente, no es un simple ionizador, a un precio bastante menor que las otras opciones con HEPA de esta comparativa." },
+      { question: "¿Es una tienda oficial de Levoit?", answer: "No, lo vende un reseller (MS Global) que lo importa de Estados Unidos. Ofrece 30 días de garantía propia además de la garantía de fábrica." },
+      { question: "¿Sirve para alergias?", answer: "Varias reseñas reales confirman mejoras concretas en alergias respiratorias y calidad de sueño después de varios meses de uso nocturno." },
+      { question: "¿Cuántas calificaciones tiene?", answer: "{{reviews:MLA2040677334}} calificaciones a {{rating:MLA2040677334}} estrellas." },
+      { question: "¿Qué superficie cubre?", answer: "La ficha no declara el área de cobertura específica, a diferencia del Xiaomi (27m²) o el Gadnic con UV-C (70m²) de esta comparativa." },
+      { question: "¿Trae garantía?", answer: "El vendedor ofrece 30 días de garantía propia, adicional a la garantía de fábrica del producto." },
+    ],
+  },
+  {
+    id: "MLA67194282",
+    title: "Purificador De Aire Gadnic 3 En 1 Ionizador Hogar Silencioso Blanco",
+    canonicalName: "Gadnic 3 en 1 Ionizador", mpn: "IOAIR001", brand: "Gadnic",
+    price: 57199, currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_878393-MLA108732954194_032026-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_878393-MLA108732954194_032026-O.webp"],
+    category: "Hogar", categorySlug: "hogar",
+    permalink: "https://www.mercadolibre.com.ar/purificador-de-aire-gadnic-3-en-1-ionizador-hogar-silencioso-blanco/p/MLA67194282",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new", freeShipping: false, rating: 4.4, reviewCount: 84,
+    pastelColor: "var(--pastel-coral)",
+    priceUpdated: "2026-09-08", priceLastChecked: "2026-09-08", priceStatus: "fresh", reviewsSampledAt: "2026-09-08",
+    specs: [
+      { label: "Marca", value: "Gadnic" },
+      { label: "Modelo", value: "IOAIR001" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Tecnología", value: "Ionizador (sin filtro HEPA)" },
+      { label: "Concentración de iones", value: "Hasta 120 millones por cm³" },
+      { label: "Nivel de ruido", value: "Menor a 5 dB" },
+      { label: "Formato", value: "Enchufable, sin instalación" },
+      { label: "Área máxima de cobertura", value: "Hasta 10 m³" },
+      { label: "Cantidad en la caja", value: "3 unidades" },
+    ],
+    relatedProducts: ["MLA43937894", "MLA69728489", "MLA2040677334"],
+    description: "Purificador de aire Gadnic 3 en 1, ionizador enchufable (sin filtro HEPA). La opción más económica de esta comparativa, para espacios chicos.",
+    seoTitle: "Gadnic 3 en 1 Ionizador: la opción más económica",
+    metaDescription: "Gadnic 3 en 1 Ionizador a {{precio:MLA67194282}}: enchufable, sin instalación y {{reviews:MLA67194282}} calificaciones. La opción más económica de esta comparativa.",
+    ogTitle: "Gadnic 3 en 1 Ionizador: purificador enchufable, el más económico",
+    ogDescription: "Enchufable, silencioso, viene de a 3 unidades. La opción más económica de esta comparativa, aunque no es un purificador HEPA como el resto.",
+    h1: "Gadnic 3 en 1 Ionizador: la opción más económica de esta comparativa",
+    verdict: "La opción más económica de esta comparativa, a {{precio:MLA67194282}} por un kit de 3 unidades. El dato honesto más importante: es un ionizador enchufable, no un purificador con filtro HEPA como el resto de esta comparativa, así que no filtra partículas físicamente, solo emite iones negativos. Cubre espacios chicos (hasta 10m³ por unidad) y es prácticamente silencioso (menos de 5 dB). Con {{reviews:MLA67194282}} calificaciones a 4.4 estrellas, es la nota más baja de esta comparativa.",
+    pros: [
+      "La opción más económica de esta comparativa, y vienen 3 unidades en la caja",
+      "Enchufable, sin instalación ni armado",
+      "Prácticamente silencioso: menos de 5 dB declarados",
+      "Varias reseñas reportan mejoras en alergias y calidad de sueño",
+    ],
+    cons: [
+      "No tiene filtro HEPA: es un ionizador, no filtra partículas físicamente como el resto de esta comparativa",
+      "Cobertura chica: hasta 10m³ por unidad, muy por debajo de las otras tres opciones",
+      "4.4 estrellas, la nota más baja de esta comparativa",
+      "Una reseña admite que, al no hacer ruido ni tener indicador de funcionamiento claro, \"si no anda, no te enterás\"",
+    ],
+    articleBody: `## La opción más económica de esta comparativa
+
+El Gadnic 3 en 1 es un ionizador enchufable, no un purificador con filtro HEPA como el resto de esta comparativa: emite hasta 120 millones de iones negativos por cm³ para reducir partículas suspendidas en el aire, sin filtrarlas físicamente. Cuesta {{precio:MLA67194282}} por un kit de 3 unidades, la opción más económica de esta comparativa.
+
+## El dato honesto que hay que saber antes de comprar
+
+A diferencia del Xiaomi, el Levoit o el Gadnic con UV-C de esta comparativa, este modelo NO tiene filtro HEPA: es un ionizador puro. Sirve como complemento en espacios chicos (hasta 10m³ por unidad, según su ficha), pero no reemplaza a un purificador con filtro real si necesitás filtrar partículas de verdad en un ambiente grande.
+
+## Lo que dicen los compradores reales
+
+Las reseñas destacan que ayuda con la rinitis alérgica al dormir y que es prácticamente silencioso. El aviso honesto de una reseña, con sentido del humor: "creo que está bueno, igual, si no anda, no te enterás", en referencia a lo difícil que es verificar el efecto de un ionizador a simple vista.
+
+## Para quién es
+
+Para espacios chicos (un escritorio, una mesita de luz) y un presupuesto ajustado, como complemento y no como reemplazo de un purificador HEPA. Si necesitás filtrar partículas de verdad en un ambiente completo, el Levoit de esta comparativa es la opción más económica con filtro HEPA real.`,
+    faq: [
+      { question: "¿Tiene filtro HEPA?", answer: "No. Es un ionizador: emite iones negativos para reducir partículas suspendidas, pero no las filtra físicamente como el Xiaomi, el Levoit o el Gadnic con UV-C de esta comparativa." },
+      { question: "¿Sirve realmente?", answer: "Varias reseñas reportan mejoras en alergias y calidad de sueño, aunque una reseña honesta admite que es difícil verificar el efecto a simple vista al no hacer ruido ni tener un indicador claro." },
+      { question: "¿Qué superficie cubre?", answer: "Hasta 10m³ por unidad según su ficha técnica, pensado para espacios chicos como un escritorio o una mesita de luz, no un ambiente completo." },
+      { question: "¿Cuántas calificaciones tiene?", answer: "{{reviews:MLA67194282}} calificaciones a {{rating:MLA67194282}} estrellas, la nota más baja de esta comparativa." },
+      { question: "¿Vienen varias unidades?", answer: "Sí, el kit trae 3 unidades, según confirma una reseña real." },
+      { question: "¿Trae garantía?", answer: "La ficha de MercadoLibre no detalla el plazo de garantía de fábrica de este modelo puntual; confirmalo en la publicación antes de comprar." },
+    ],
+  },
 ];
 
 export const categoryPastels: Record<string, string> = {
