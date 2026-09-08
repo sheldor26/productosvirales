@@ -30415,6 +30415,118 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     ],
     internalLinksTitle: "Más para tu hogar",
   },
+
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva exprimidor — silo cocina, categoría nueva
+  // Origen: research propio 2026-09-08. Keyword "exprimidor"
+  // 1.600/mes, SD 12. Sin canibalización: no existía guía ni ficha
+  // de exprimidor en el sitio.
+  // 4 fichas nuevas importadas el mismo día (ver curated-products.ts).
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "exprimidor",
+    category: "exprimidor",
+    silo: "cocina",
+    pillar: true,
+    title: `Exprimidor: cuál comprar en Argentina [2026]`,
+    seoTitle: `Exprimidor: Cuál Comprar en Argentina | 2026`,
+    metaDescription: `Descubrí qué exprimidor comprar en Argentina: el más barato, el de acero y el extractor más completo. Precios reales de MercadoLibre y contras honestas.`,
+    ogTitle: `Exprimidor: cuál comprar en Argentina`,
+    ogDescription: `Yelmo, Atma y Liliana comparados: exprimidores de cítricos y un extractor para frutas y verduras. Precios reales de MercadoLibre y las contras que nadie cuenta.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_836541-MLA99402701142_112025-O.webp`,
+    h1: `Exprimidor: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene el **[Yelmo EX-1303](/producto/exprimidor-electrico-yelmo-ex-1303-700ml-25w-blanco-mla15481319)** (alrededor de {{precio:MLA15481319:k}}): el más barato y también el más elegido de esta comparativa. Si buscás materiales más resistentes, el **[Yelmo EX-1304](/producto/yelmo-ex1304-potente-exprimidor-de-citrico-120w-inoxidable-color-gris-mla15471770)**, de acero inoxidable. Si te importa no salpicar la mesada, el **[Atma EX8220P](/producto/exprimidor-electrico-para-jugos-atma-ex8220p-con-2-conos-color-blanco-mla20029303)**, con tapa protectora. Y si querés jugos de fruta y verdura, no solo cítricos, el **[Liliana Juicematic AE940N](/producto/extractor-de-jugos-liliana-juicematic-negra-ae940n-mla50745117)**.`,
+    publishedDate: "2026-09-08",
+    updatedDate: "2026-09-08",
+    hasDisclosure: true,
+    readingTime: 8,
+    standfirst: `Un exprimidor va de {{precio:MLA15481319:k}} (el más básico) a {{precio:MLA50745117:k}} (el extractor más completo). La decisión real pasa por si solo tomás jugo de cítricos o querés versatilidad para más frutas y verduras, y si te importan los materiales, no solo el precio. Te mostramos cuál conviene, con precios reales de MercadoLibre.`,
+    quickPicks: [
+      { productMlaId: "MLA15481319", label: "Mejor elección general", labelColor: "green", tagline: "Yelmo EX-1303: el más barato y más elegido" },
+      { productMlaId: "MLA15471770", label: "Materiales resistentes", labelColor: "blue", tagline: "Yelmo EX-1304: acero inoxidable, 120W" },
+      { productMlaId: "MLA20029303", label: "Sin salpicar", labelColor: "amber", tagline: "Atma EX8220P: con tapa protectora" },
+      { productMlaId: "MLA50745117", label: "La más completa", labelColor: "purple", tagline: "Liliana Juicematic: extractor para frutas y verduras" },
+    ],
+    intro: [
+      `El exprimidor parece el electrodoméstico más simple de la cocina, y en general lo es: la decisión real pasa por cuánto vas a usarlo, si te importan los materiales (plástico o acero) y si solo tomás jugo de cítricos o querés algo más versátil para frutas y verduras en general.`,
+      `En esta guía comparamos los exprimidores más vendidos y mejor calificados de MercadoLibre Argentina, con las contras reales que cuentan los compradores: desde si el salto de potencia realmente se nota hasta un extractor que va más allá de la naranja.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_836541-MLA99402701142_112025-O.webp", alt: `Exprimidor eléctrico Yelmo EX-1303, el más barato y más elegido de esta guía`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, el **[Yelmo EX-1303](/producto/exprimidor-electrico-yelmo-ex-1303-700ml-25w-blanco-mla15481319)**: el más barato y el más elegido de esta guía. Si buscás **materiales más resistentes**, el **[Yelmo EX-1304](/producto/yelmo-ex1304-potente-exprimidor-de-citrico-120w-inoxidable-color-gris-mla15471770)**, de acero inoxidable. Si te importa **no salpicar la mesada**, el **[Atma EX8220P](/producto/exprimidor-electrico-para-jugos-atma-ex8220p-con-2-conos-color-blanco-mla20029303)**, con tapa protectora. Y para **jugos de fruta y verdura, no solo cítricos**, el **[Liliana Juicematic AE940N](/producto/extractor-de-jugos-liliana-juicematic-negra-ae940n-mla50745117)**.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos los exprimidores con más ventas y opiniones reales en MercadoLibre Argentina. Los ordenamos por lo que define la compra: potencia, material (plástico o acero), si son solo para cítricos o extractores más versátiles, y precio. Las calificaciones y las contras son de compradores reales. Los precios que ves en las fichas y tablas se revisan contra MercadoLibre periódicamente.` },
+
+      { type: "h2", title: `Qué mirar antes de comprar un exprimidor`, id: "que-mirar" },
+      { type: "p", content: `Primero, **cítricos o extractor general**: la mayoría de los exprimidores son solo para naranja, pomelo y limón; un extractor como el Liliana Juicematic también procesa manzana, zanahoria y otras frutas y verduras. Segundo, **el material**: plástico es más liviano y barato, acero inoxidable resiste más el uso frecuente. Tercero, **la potencia**: no siempre se traduce en una diferencia notoria al exprimir, según confirman varias reseñas de esta categoría.` },
+      { type: "p", content: `Un detalle honesto que se repite en las reseñas: pagar más por más potencia no siempre garantiza un resultado dramáticamente mejor. La diferencia más clara entre modelos suele estar en los materiales y en detalles prácticos (tapa antisalpicaduras, apto lavavajillas), no solo en los watts.` },
+
+      { type: "h2", title: `Los mejores exprimidores 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Yelmo EX-1303 — mejor elección general` },
+      { type: "product-card", productMlaId: "MLA15481319", label: "Mejor elección general", labelColor: "green", ranking: 1, description: `25W, jarra de 0,7L, apto lavavajillas. 4.6 estrellas en {{reviews:MLA15481319}} calificaciones, la base más grande de esta guía.` },
+      { type: "p", content: `Es el exprimidor que recomendamos a la mayoría: **25W**, jarra de 0,7L, doble cono y apto lavavajillas, a alrededor de {{precio:MLA15481319:k}}. Con {{reviews:MLA15481319}} calificaciones a 4.6 estrellas, tiene la base de opiniones más grande de esta guía y también es el más barato.` },
+      { type: "p", content: `La contra real: alguna reseña indica que la calidad de los materiales no es la mejor, aunque cumple bien su función. Si querés algo más resistente, el Yelmo EX-1304 de acero de esta comparativa suma durabilidad.` },
+      { type: "pull-quote", content: `"Fácil de armar, usar, desarmar y lavar. Literalmente el exprimidor perfecto, en menos de cinco minutos hago dos vasos grandes de naranja exprimida."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `2. Yelmo EX-1304 — materiales resistentes` },
+      { type: "product-card", productMlaId: "MLA15471770", label: "Materiales resistentes", labelColor: "blue", ranking: 2, description: `120W, cuerpo y filtro de acero inoxidable. 4.7 estrellas en {{reviews:MLA15471770}} calificaciones.` },
+      { type: "p", content: `Suma **cuerpo y filtro de acero inoxidable**, **120W** y pico vertedor con traba antigoteo, a alrededor de {{precio:MLA15471770:k}}. Con {{reviews:MLA15471770}} calificaciones a 4.7 estrellas, tiene buen respaldo para su gama.` },
+      { type: "p", content: `La contra real, y un aviso honesto: una reseña detallada indica que el salto de potencia frente a un exprimidor de 25W no se nota tan claramente como el precio haría esperar. La mejora más clara está en los materiales, no en la potencia percibida.` },
+
+      { type: "h3", title: `3. Atma EX8220P — sin salpicar` },
+      { type: "product-card", productMlaId: "MLA20029303", label: "Sin salpicar", labelColor: "amber", ranking: 3, description: `30W, con tapa protectora contra salpicaduras. 4.7 estrellas en {{reviews:MLA20029303}} calificaciones.` },
+      { type: "p", content: `Precio intermedio entre el Yelmo EX-1303 y el EX-1304 de esta guía, con un diferencial real: **tapa protectora contra salpicaduras**, algo que ninguno de los otros exprimidores simples de esta comparativa tiene, a alrededor de {{precio:MLA20029303:k}}.` },
+      { type: "p", content: `La contra real: en potencia (30W) y prestaciones es muy similar al Yelmo EX-1303, con menos calificaciones acumuladas y un precio algo mayor. Vale la pena solo si te interesa específicamente la tapa protectora.` },
+
+      { type: "h3", title: `4. Liliana Juicematic AE940N — la más completa` },
+      { type: "product-card", productMlaId: "MLA50745117", label: "La más completa", labelColor: "purple", ranking: 4, description: `Extractor de jugos para frutas y verduras, no solo cítricos, 130W. 4.7 estrellas en {{reviews:MLA50745117}} calificaciones.` },
+      { type: "p", content: `A diferencia del resto de esta guía, pensado solo para cítricos, este es un **extractor de jugos** para frutas y verduras en general (manzana, zanahoria y más), con un cono exprimidor incluido para cítricos también, a alrededor de {{precio:MLA50745117:k}}.` },
+      { type: "p", content: `La contra real: la base no se puede desarmar del todo, así que hay que tener cuidado de no mojar el cable al lavarla, y el jugo puede quedar con bastante pulpa si no te gusta esa textura. Es, además, la más cara de esta guía.` },
+      { type: "pull-quote", content: `"No te ensucias las manos y exprime hasta lo último literal. Tarda 20 segundos y aprovechas toda la fruta."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h2", title: `Tabla comparativa: tipo, potencia y precio`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Tipo`, `Potencia`, `Material`, `Rating`], rows: [
+        [`[Yelmo EX-1303](/producto/exprimidor-electrico-yelmo-ex-1303-700ml-25w-blanco-mla15481319)`, `{{precio:MLA15481319}}`, `Cítricos`, `25 W`, `Plástico`, `{{rating:MLA15481319}} ({{reviews:MLA15481319}})`],
+        [`[Yelmo EX-1304](/producto/yelmo-ex1304-potente-exprimidor-de-citrico-120w-inoxidable-color-gris-mla15471770)`, `{{precio:MLA15471770}}`, `Cítricos`, `120 W`, `Acero inoxidable`, `{{rating:MLA15471770}} ({{reviews:MLA15471770}})`],
+        [`[Atma EX8220P](/producto/exprimidor-electrico-para-jugos-atma-ex8220p-con-2-conos-color-blanco-mla20029303)`, `{{precio:MLA20029303}}`, `Cítricos`, `30 W`, `Plástico`, `{{rating:MLA20029303}} ({{reviews:MLA20029303}})`],
+        [`[Liliana Juicematic](/producto/extractor-de-jugos-liliana-juicematic-negra-ae940n-mla50745117)`, `{{precio:MLA50745117}}`, `Frutas y verduras`, `130 W`, `—`, `{{rating:MLA50745117}} ({{reviews:MLA50745117}})`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu exprimidor`, id: "como-elegir" },
+      { type: "h3", title: `¿Cítricos solamente o extractor versátil?` },
+      { type: "p", content: `Si solo tomás jugo de naranja o pomelo, cualquiera de los tres exprimidores simples de esta guía alcanza. Si querés hacer jugos de manzana, zanahoria u otras frutas y verduras, el [Liliana Juicematic AE940N](/producto/extractor-de-jugos-liliana-juicematic-negra-ae940n-mla50745117) es la única opción real de esta guía.` },
+      { type: "h3", title: `¿Vale la pena pagar por más potencia?` },
+      { type: "p", content: `No siempre: una reseña detallada del Yelmo EX-1304 (120W) confirma que la diferencia frente a un exprimidor de 25W no se nota tan claramente como el precio haría esperar. La mejora más clara al subir de gama está en los materiales, no en la potencia percibida.` },
+      { type: "h3", title: `¿Qué detalles prácticos conviene mirar?` },
+      { type: "p", content: `Apto lavavajillas (el Yelmo EX-1303 lo es), tapa protectora contra salpicaduras (el Atma EX8220P la tiene) y material de la jarra (plástico o acero). Son detalles que a veces pesan más en el uso diario que la potencia del motor.` },
+
+      { type: "h2", title: `Cuánto cuesta un exprimidor en Argentina [septiembre 2026]`, id: "cuanto-cuesta" },
+      { type: "list", content: "Franjas de precio reales", items: [
+        `**Alrededor de {{precio:MLA15481319:k}}:** el [Yelmo EX-1303](/producto/exprimidor-electrico-yelmo-ex-1303-700ml-25w-blanco-mla15481319), el más barato de esta guía.`,
+        `**Alrededor de {{precio:MLA20029303:k}} a {{precio:MLA15471770:k}}:** el [Atma EX8220P](/producto/exprimidor-electrico-para-jugos-atma-ex8220p-con-2-conos-color-blanco-mla20029303) (con tapa protectora) y el [Yelmo EX-1304](/producto/yelmo-ex1304-potente-exprimidor-de-citrico-120w-inoxidable-color-gris-mla15471770) (de acero).`,
+        `**Alrededor de {{precio:MLA50745117:k}}:** el [Liliana Juicematic AE940N](/producto/extractor-de-jugos-liliana-juicematic-negra-ae940n-mla50745117), el más caro de esta guía, extractor de frutas y verduras.`,
+      ] },
+
+      { type: "verdict", content: `Para la mayoría, el **[Yelmo EX-1303](/producto/exprimidor-electrico-yelmo-ex-1303-700ml-25w-blanco-mla15481319)** es la compra más segura: el más barato y también el más elegido de esta guía. Si valorás materiales resistentes, el **[Yelmo EX-1304](/producto/yelmo-ex1304-potente-exprimidor-de-citrico-120w-inoxidable-color-gris-mla15471770)**, de acero inoxidable. Si te importa no salpicar la mesada, el **[Atma EX8220P](/producto/exprimidor-electrico-para-jugos-atma-ex8220p-con-2-conos-color-blanco-mla20029303)**. Y si querés versatilidad para frutas y verduras, no solo cítricos, sabiendo que es el más caro, el **[Liliana Juicematic AE940N](/producto/extractor-de-jugos-liliana-juicematic-negra-ae940n-mla50745117)**.` },
+    ],
+    faq: [
+      { question: `¿Cuál es el mejor exprimidor en Argentina?`, answer: `Para la mayoría, el [Yelmo EX-1303](/producto/exprimidor-electrico-yelmo-ex-1303-700ml-25w-blanco-mla15481319): el más barato y el más elegido de esta guía. Si valorás materiales resistentes, el [Yelmo EX-1304](/producto/yelmo-ex1304-potente-exprimidor-de-citrico-120w-inoxidable-color-gris-mla15471770), de acero inoxidable.` },
+      { question: `¿Vale la pena pagar más por un exprimidor de más potencia?`, answer: `No siempre: una reseña detallada confirma que el salto de 25W a 120W no se nota tan claramente al exprimir como el precio haría esperar. La mejora más clara está en los materiales.` },
+      { question: `¿Qué diferencia hay entre un exprimidor y un extractor de jugos?`, answer: `Un exprimidor tradicional solo sirve para cítricos (naranja, pomelo, limón). Un extractor como el [Liliana Juicematic AE940N](/producto/extractor-de-jugos-liliana-juicematic-negra-ae940n-mla50745117) también procesa manzana, zanahoria y otras frutas y verduras, con más versatilidad pero a un precio mayor.` },
+      { question: `¿Los exprimidores plásticos son apto lavavajillas?`, answer: `Depende del modelo: el [Yelmo EX-1303](/producto/exprimidor-electrico-yelmo-ex-1303-700ml-25w-blanco-mla15481319) de esta guía sí lo es. Confirmá este dato en la ficha antes de comprar si es importante para vos.` },
+      { question: `¿Cuánta pulpa queda en el jugo?`, answer: `Varía según el modelo. El [Liliana Juicematic](/producto/extractor-de-jugos-liliana-juicematic-negra-ae940n-mla50745117), por ejemplo, según una reseña deja bastante pulpa si no te gusta esa textura; se puede colar aparte si preferís un jugo más líquido.` },
+      { question: `¿Cuál conviene si tomo jugo de naranja todos los días?`, answer: `Cualquiera de los tres exprimidores de cítricos de esta guía cumple bien para uso diario. Si buscás que dure más con uso frecuente, el Yelmo EX-1304 de acero inoxidable es la apuesta más segura en materiales.` },
+    ],
+    internalLinks: [
+      { label: "Batidora: cuál comprar en Argentina", href: "/guias/cocina/batidora" },
+      { label: "Sandwichera: cuál comprar en Argentina", href: "/guias/cocina/sandwichera" },
+      { label: "Anafe eléctrico: cuál comprar en Argentina", href: "/guias/cocina/anafe-electrico" },
+      { label: "Aspiradora de mano: cuál comprar en Argentina", href: "/guias/hogar/aspiradora-de-mano" },
+    ],
+    internalLinksTitle: "Más para tu cocina",
+  },
 ];
 
 /**
@@ -30763,6 +30875,11 @@ export const guideCategories: Record<string, { name: string; description: string
     name: "Guía de Sandwicheras",
     description:
       "Cuántos sándwiches hace de verdad cada una (no solo lo que dice el título) y si las placas se lavan fácil. Las más vendidas de MercadoLibre, comparadas.",
+  },
+  exprimidor: {
+    name: "Guía de Exprimidores",
+    description:
+      "Solo cítricos o extractor para frutas y verduras, plástico o acero: cuál conviene según cuánto exprimís. Los más vendidos de MercadoLibre, comparados.",
   },
   climatizacion: {
     name: "Guías de Climatización",

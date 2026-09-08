@@ -87613,6 +87613,258 @@ Para quien plancha seguido, en volumen, y quiere potencia real y autonomía de v
       { question: "¿Tiene sistema antigoteo y antisarro?", answer: "Sí, ambos sistemas están incluidos, pensados para mantener el rendimiento del vapor a lo largo del tiempo." },
     ],
   },
+  {
+    id: "MLA15481319",
+    title: "Exprimidor Electrico Yelmo Ex-1303 700ml 25w Blanco",
+    canonicalName: "Yelmo EX-1303", mpn: "EX-1303", brand: "Yelmo",
+    price: 26867, currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_836541-MLA99402701142_112025-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_836541-MLA99402701142_112025-O.webp"],
+    category: "Cocina", categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/exprimidor-electrico-yelmo-ex-1303-700ml-25w-blanco/p/MLA15481319",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new", freeShipping: true, rating: 4.6, reviewCount: 1141,
+    pastelColor: "var(--pastel-blue)",
+    priceUpdated: "2026-09-08", priceLastChecked: "2026-09-08", priceStatus: "fresh", reviewsSampledAt: "2026-09-08",
+    specs: [
+      { label: "Marca", value: "Yelmo" },
+      { label: "Modelo", value: "EX-1303" },
+      { label: "Potencia", value: "25 W" },
+      { label: "Capacidad de la jarra", value: "0,7 L, plástico" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Doble sentido de giro", value: "Sí" },
+      { label: "Accionamiento automático", value: "Sí" },
+      { label: "Apto lavavajillas", value: "Sí" },
+      { label: "Accesorios incluidos", value: "Jarra, cono pequeño, cono grande" },
+    ],
+    relatedProducts: ["MLA15471770", "MLA20029303", "MLA50745117"],
+    description: "Exprimidor eléctrico Yelmo EX-1303, 25W, jarra de 0,7L. La más barata de esta comparativa y también la de mayor volumen de opiniones.",
+    seoTitle: "Yelmo EX-1303: el exprimidor más barato, ¿alcanza?",
+    metaDescription: "Yelmo EX-1303 a {{precio:MLA15481319}}: 25W, jarra de 0,7L y {{reviews:MLA15481319}} calificaciones. El más barato de esta comparativa.",
+    ogTitle: "Yelmo EX-1303: exprimidor de entrada, el más barato de esta comparativa",
+    ogDescription: "25W, doble cono, apto lavavajillas. El más elegido y más barato, con un aviso honesto sobre la calidad de los materiales.",
+    h1: "Yelmo EX-1303: exprimidor eléctrico, el más barato y más elegido de esta comparativa",
+    verdict: "El exprimidor más barato de esta comparativa y también el más elegido: {{reviews:MLA15481319}} calificaciones a 4.6 estrellas, la base de opiniones más grande de las cuatro. Cumple lo básico con 25W, jarra de 0,7L y doble cono, apto lavavajillas. El aviso honesto: alguna reseña indica que la calidad de los materiales no es la mejor, aunque cumple bien su función.",
+    pros: [
+      "El más barato de esta comparativa",
+      "{{reviews:MLA15481319}} calificaciones, la base de opiniones más grande de las cuatro",
+      "Apto lavavajillas, fácil de limpiar según reseñas",
+      "Doble cono para distintos tamaños de cítricos",
+    ],
+    cons: [
+      "25W: el motor más chico de esta comparativa entre los exprimidores de cono simple",
+      "Alguna reseña indica que la calidad de los materiales no es la mejor",
+      "Jarra de plástico, no de acero como el Yelmo EX-1304 de esta comparativa",
+    ],
+    articleBody: `## El más barato y más elegido de esta comparativa
+
+El Yelmo EX-1303 es la opción de entrada: {{precio:MLA15481319}} por un exprimidor de 25W con jarra de 0,7L. Es también el más elegido de esta comparativa: {{reviews:MLA15481319}} calificaciones a 4.6 estrellas, la base de opiniones más grande de las cuatro.
+
+## Lo que dicen los compradores reales
+
+Las reseñas coinciden en la practicidad: "fácil de armar, usar, desarmar y lavar", dice una con 97 votos útiles, destacando que en menos de cinco minutos rinde dos vasos grandes de jugo. El punto de cuidado que aparece en más de una reseña es la calidad de los materiales: "no es la mejor", aunque "cumple muy bien su tarea de exprimir". Es apto lavavajillas, un plus real para el día a día.
+
+## Para quién es
+
+Para uso doméstico normal, jugo de vez en cuando o todos los días para 1-2 personas, sin gastar de más. Si vas a exprimir en cantidad o buscás materiales más resistentes, el Yelmo EX-1304 (120W, acero inoxidable) de esta comparativa rinde más, a un precio bastante mayor.`,
+    faq: [
+      { question: "¿Vale la pena pagar más por un exprimidor de más potencia?", answer: "Depende del uso. Para jugo ocasional o de 1-2 personas, los 25W de este modelo alcanzan de sobra. Si exprimís seguido o en cantidad, el Yelmo EX-1304 (120W) de esta comparativa rinde más." },
+      { question: "¿Es apto para lavavajillas?", answer: "Sí, la jarra y los conos son aptos para lavavajillas, algo que varias reseñas destacan como un plus práctico." },
+      { question: "¿Cuántas calificaciones tiene?", answer: "{{reviews:MLA15481319}} calificaciones a {{rating:MLA15481319}} estrellas, la base de opiniones más grande de esta comparativa." },
+      { question: "¿La calidad de los materiales es buena?", answer: "Cumple bien su función, pero alguna reseña indica que la calidad de los materiales no es la mejor para el precio. No es un defecto grave reportado, pero vale la pena saberlo." },
+      { question: "¿Qué diferencia tiene con el Atma EX8220P?", answer: "Son muy similares en potencia y tamaño. El Atma suma una tapa protectora contra salpicaduras; el Yelmo tiene más calificaciones acumuladas y es levemente más barato." },
+      { question: "¿Trae garantía?", answer: "La ficha de MercadoLibre no detalla el plazo de garantía de fábrica de este modelo puntual; confirmalo en la publicación antes de comprar." },
+    ],
+  },
+  {
+    id: "MLA15471770",
+    title: "Yelmo Ex1304 Potente Exprimidor De Citrico 120w Inoxidable Color Gris",
+    canonicalName: "Yelmo EX-1304", mpn: "EX-1304", brand: "Yelmo",
+    price: 57737, currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_745973-MLA95391793876_102025-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_745973-MLA95391793876_102025-O.webp"],
+    category: "Cocina", categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/yelmo-ex1304-potente-exprimidor-de-citrico-120w-inoxidable-color-gris/p/MLA15471770",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new", freeShipping: true, rating: 4.7, reviewCount: 559,
+    pastelColor: "var(--pastel-coral)",
+    priceUpdated: "2026-09-08", priceLastChecked: "2026-09-08", priceStatus: "fresh", reviewsSampledAt: "2026-09-08",
+    specs: [
+      { label: "Marca", value: "Yelmo" },
+      { label: "Modelo", value: "EX-1304" },
+      { label: "Potencia", value: "120 W" },
+      { label: "Material", value: "Acero inoxidable (cuerpo y filtro)" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Accionamiento automático", value: "Sí" },
+      { label: "Pico vertedor", value: "Acero inoxidable, con traba antigoteo" },
+      { label: "Accesorios incluidos", value: "Cono pequeño, cono grande" },
+      { label: "Peso", value: "2,03 kg" },
+    ],
+    relatedProducts: ["MLA15481319", "MLA20029303", "MLA50745117"],
+    description: "Exprimidor eléctrico Yelmo EX-1304, 120W, cuerpo y filtro de acero inoxidable. La opción de materiales más resistentes de esta comparativa.",
+    seoTitle: "Yelmo EX-1304: exprimidor de acero inoxidable, ¿vale la pena?",
+    metaDescription: "Yelmo EX-1304 a {{precio:MLA15471770}}: 120W, acero inoxidable y {{reviews:MLA15471770}} calificaciones. La opción de materiales más resistentes de esta comparativa.",
+    ogTitle: "Yelmo EX-1304: exprimidor de acero inoxidable, 120W",
+    ogDescription: "Cuerpo y filtro de acero inoxidable, pico antigoteo. La opción de materiales más resistentes, con un aviso honesto sobre si vale la pena el salto de potencia.",
+    h1: "Yelmo EX-1304: exprimidor de acero inoxidable, materiales más resistentes de esta comparativa",
+    verdict: "La opción de materiales más resistentes de esta comparativa: 120W, cuerpo y filtro de acero inoxidable, pico vertedor con traba antigoteo. Con {{reviews:MLA15471770}} calificaciones a 4.7 estrellas, tiene buen respaldo. El aviso honesto de una reseña detallada: la diferencia de potencia frente a un exprimidor de 25W no se nota tan claramente como el precio haría esperar, aunque los materiales sí son notablemente mejores.",
+    pros: [
+      "Cuerpo y filtro de acero inoxidable, más resistente que el plástico del resto de esta comparativa",
+      "Pico vertedor con traba antigoteo",
+      "{{reviews:MLA15471770}} calificaciones a {{rating:MLA15471770}} estrellas",
+      "Fácil de desarmar y limpiar, según reseñas",
+    ],
+    cons: [
+      "Una reseña detallada avisa que la diferencia de potencia frente a modelos de 25W no siempre se nota al exprimir",
+      "El manual advierte no usarlo de forma continua por mucho tiempo",
+      "Bastante más caro que el Yelmo EX-1303 de esta comparativa, con menos calificaciones acumuladas",
+    ],
+    articleBody: `## La opción de materiales más resistentes de esta comparativa
+
+El Yelmo EX-1304 suma cuerpo y filtro de acero inoxidable, 120W y pico vertedor con traba antigoteo, a {{precio:MLA15471770}}. Con {{reviews:MLA15471770}} calificaciones a 4.7 estrellas, tiene buen respaldo para su gama.
+
+## Lo honesto sobre el salto de potencia
+
+Una reseña muy detallada pone las expectativas en su lugar: comparándolo con un exprimidor viejo de 25W, no notó "una diferencia notoria" al exprimir, pese al salto de potencia en el papel. El mismo comprador reporta que el motor se frena una o dos veces al hacer fuerza (posible sistema de seguridad) y que el manual advierte no usarlo de forma continua por mucho tiempo. Donde sí hay una mejora clara es en los materiales: acero inoxidable en vez de plástico, y una terminación más prolija.
+
+## Para quién es
+
+Para quien valora materiales resistentes y una estética más cuidada, y no le molesta pagar más por eso aunque la potencia extra no siempre se note en el uso diario. Si el presupuesto es lo primero, el Yelmo EX-1303 de esta comparativa cumple función similar a una fracción del precio.`,
+    faq: [
+      { question: "¿Los 120W hacen una diferencia notoria frente a un exprimidor de 25W?", answer: "Según una reseña detallada, no tanto como el salto de precio haría esperar. La mejora más clara está en los materiales (acero inoxidable) más que en la potencia percibida al exprimir." },
+      { question: "¿Se puede usar de forma continua por mucho tiempo?", answer: "El manual del fabricante advierte no usarlo de forma continua por tiempos largos. Una reseña reporta que el motor se frena una o dos veces al hacer fuerza, posiblemente un sistema de seguridad." },
+      { question: "¿De qué material es?", answer: "Cuerpo y filtro de acero inoxidable, a diferencia del resto de esta comparativa que usa plástico en la jarra o el cuerpo." },
+      { question: "¿Cuántas calificaciones tiene?", answer: "{{reviews:MLA15471770}} calificaciones a {{rating:MLA15471770}} estrellas." },
+      { question: "¿Vale la pena pagar más que el Yelmo EX-1303?", answer: "Si valorás materiales resistentes y una estética más cuidada, sí. Si solo buscás exprimir jugo sin gastar de más, el EX-1303 cumple una función similar a bastante menos precio." },
+      { question: "¿Trae garantía?", answer: "La ficha de MercadoLibre no detalla el plazo de garantía de fábrica de este modelo puntual; confirmalo en la publicación antes de comprar." },
+    ],
+  },
+  {
+    id: "MLA20029303",
+    title: "Exprimidor Electrico Para Jugos Atma Ex8220p Con 2 Conos Color Blanco",
+    canonicalName: "Atma EX8220P", mpn: "EX8220P", brand: "Atma",
+    price: 33461, currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_639122-MLA99463714136_112025-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_639122-MLA99463714136_112025-O.webp"],
+    category: "Cocina", categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/exprimidor-electrico-para-jugos-atma-ex8220p-con-2-conos-color-blanco/p/MLA20029303",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new", freeShipping: true, rating: 4.7, reviewCount: 694,
+    pastelColor: "var(--pastel-amber)",
+    priceUpdated: "2026-09-08", priceLastChecked: "2026-09-08", priceStatus: "fresh", reviewsSampledAt: "2026-09-08",
+    specs: [
+      { label: "Marca", value: "Atma" },
+      { label: "Modelo", value: "EX8220P" },
+      { label: "Potencia", value: "30 W" },
+      { label: "Capacidad de la jarra", value: "0,8 L, plástico" },
+      { label: "Doble sentido de giro", value: "Sí" },
+      { label: "Accionamiento automático", value: "Sí" },
+      { label: "Con tapa protectora", value: "Sí, contra salpicaduras" },
+      { label: "Accesorios incluidos", value: "Cono pequeño, cono grande" },
+      { label: "Peso", value: "750 g" },
+    ],
+    relatedProducts: ["MLA15481319", "MLA15471770", "MLA50745117"],
+    description: "Exprimidor eléctrico Atma EX8220P, 30W, con tapa protectora contra salpicaduras. Una opción de precio intermedio entre las de esta comparativa.",
+    seoTitle: "Atma EX8220P: exprimidor con tapa antisalpicaduras",
+    metaDescription: "Atma EX8220P a {{precio:MLA20029303}}: 30W, tapa protectora y {{reviews:MLA20029303}} calificaciones. Precio intermedio entre las opciones de esta comparativa.",
+    ogTitle: "Atma EX8220P: exprimidor con tapa protectora contra salpicaduras",
+    ogDescription: "30W, doble cono, tapa antisalpicaduras. Una opción de precio intermedio, sin grandes diferencias frente a la más barata salvo ese detalle.",
+    h1: "Atma EX8220P: exprimidor con tapa protectora, precio intermedio",
+    verdict: "Una opción de precio intermedio entre las de esta comparativa: {{precio:MLA20029303}}, entre el Yelmo EX-1303 (más barato) y el Yelmo EX-1304 (de acero). Lo honesto: en potencia y prestaciones es muy similar al EX-1303, salvo por una tapa protectora contra salpicaduras que suma comodidad. Con {{reviews:MLA20029303}} calificaciones a 4.7 estrellas, tiene buen respaldo.",
+    pros: [
+      "Tapa protectora contra salpicaduras, un plus práctico que no tienen los otros exprimidores simples de esta comparativa",
+      "{{reviews:MLA20029303}} calificaciones a {{rating:MLA20029303}} estrellas",
+      "Doble sentido de giro y accionamiento automático",
+      "Liviano (750 g), fácil de guardar",
+    ],
+    cons: [
+      "No se diferencia demasiado del Yelmo EX-1303 en potencia (30W contra 25W), pese al precio algo mayor",
+      "Menos calificaciones acumuladas que el Yelmo EX-1303 de esta comparativa",
+      "Jarra de plástico, no de acero como el Yelmo EX-1304",
+    ],
+    articleBody: `## Precio intermedio, con una tapa protectora como diferencial
+
+El Atma EX8220P cuesta {{precio:MLA20029303}}, entre el Yelmo EX-1303 (más barato) y el Yelmo EX-1304 (de acero) de esta comparativa. En potencia (30W) y tamaño es muy similar al EX-1303: la diferencia real que aporta es una tapa protectora contra salpicaduras, algo que ninguno de los otros exprimidores simples de esta comparativa tiene.
+
+## Lo honesto
+
+No hay una razón de peso para elegirlo por sobre el Yelmo EX-1303 si el precio es lo primero: son similares en potencia y capacidad, y el EX-1303 tiene más calificaciones acumuladas y sale un poco menos. La tapa protectora es el único diferencial real, útil si te molesta que salpique al exprimir.
+
+## Para quién es
+
+Para quien valora específicamente no salpicar la mesada al exprimir y no le importa pagar un poco más por eso. Si el precio es lo único que importa, el Yelmo EX-1303 de esta comparativa cumple prácticamente lo mismo a menor costo.`,
+    faq: [
+      { question: "¿Qué diferencia tiene con el Yelmo EX-1303?", answer: "Son muy similares en potencia (30W contra 25W) y capacidad. La diferencia real es que el Atma trae una tapa protectora contra salpicaduras; el Yelmo tiene más calificaciones acumuladas y es levemente más barato." },
+      { question: "¿Para qué sirve la tapa protectora?", answer: "Evita que el jugo salpique la mesada mientras exprimís, un detalle práctico que no tienen los otros exprimidores simples de esta comparativa." },
+      { question: "¿Cuántas calificaciones tiene?", answer: "{{reviews:MLA20029303}} calificaciones a {{rating:MLA20029303}} estrellas." },
+      { question: "¿Vale la pena pagar más que el Yelmo EX-1303?", answer: "Solo si te interesa específicamente la tapa protectora contra salpicaduras. En potencia y prestaciones generales no hay una diferencia real que justifique el precio mayor por sí sola." },
+      { question: "¿Es apto lavavajillas?", answer: "La ficha de MercadoLibre no lo especifica para este modelo; confirmalo en la publicación antes de comprar si es importante para vos." },
+      { question: "¿Trae garantía?", answer: "La ficha de MercadoLibre no detalla el plazo de garantía de fábrica de este modelo puntual; confirmalo en la publicación antes de comprar." },
+    ],
+  },
+  {
+    id: "MLA50745117",
+    title: "Extractor De Jugos Liliana Juicematic Negra Ae940n",
+    canonicalName: "Liliana Juicematic AE940N", mpn: "AE940N", brand: "Liliana",
+    price: 62752, currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_878899-MLA96416665242_102025-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_878899-MLA96416665242_102025-O.webp"],
+    category: "Cocina", categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/extractor-de-jugos-liliana-juicematic-negra-ae940n/p/MLA50745117",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new", freeShipping: true, rating: 4.7, reviewCount: 435,
+    pastelColor: "var(--pastel-purple)",
+    priceUpdated: "2026-09-08", priceLastChecked: "2026-09-08", priceStatus: "fresh", reviewsSampledAt: "2026-09-08",
+    specs: [
+      { label: "Marca", value: "Liliana" },
+      { label: "Línea", value: "JuiceMatic" },
+      { label: "Modelo", value: "AE940N" },
+      { label: "Tipo", value: "Extractor de jugos (frutas y verduras), no solo cítricos" },
+      { label: "Potencia", value: "130 W" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Cantidad de velocidades", value: "1" },
+      { label: "Con contenedor de pulpa", value: "Sí" },
+      { label: "Accesorios incluidos", value: "Cono exprimidor" },
+    ],
+    relatedProducts: ["MLA15481319", "MLA15471770", "MLA20029303"],
+    description: "Extractor de jugos Liliana Juicematic AE940N, 130W, para frutas y verduras (no solo cítricos), con cono exprimidor incluido. La opción más completa de esta comparativa.",
+    seoTitle: "Liliana Juicematic AE940N: extractor de jugos, ¿vale la pena?",
+    metaDescription: "Liliana Juicematic AE940N a {{precio:MLA50745117}}: extractor de frutas y verduras, 130W y {{reviews:MLA50745117}} calificaciones. La opción más completa de esta comparativa.",
+    ogTitle: "Liliana Juicematic AE940N: extractor de jugos para frutas y verduras",
+    ogDescription: "No es solo para cítricos: extrae jugo de manzana, zanahoria y más. La opción más completa de esta comparativa, con un par de detalles honestos sobre la limpieza.",
+    h1: "Liliana Juicematic AE940N: extractor de jugos, la opción más completa de esta comparativa",
+    verdict: "La opción más completa de esta comparativa: a diferencia de los otros tres, que son exprimidores solo para cítricos, esta es un extractor de jugos para frutas y verduras en general (manzana, zanahoria, etc.), con un cono exprimidor incluido para cítricos también. Con {{reviews:MLA50745117}} calificaciones a 4.7 estrellas, tiene buen respaldo. Dos avisos honestos: la base no se puede desarmar del todo, así que hay que tener cuidado de no mojar el cable al lavarla, y el jugo puede quedar con bastante pulpa si no te gusta esa textura.",
+    pros: [
+      "Extrae jugo de frutas y verduras en general, no solo cítricos, a diferencia del resto de esta comparativa",
+      "Incluye cono exprimidor para cítricos también",
+      "{{reviews:MLA50745117}} calificaciones a {{rating:MLA50745117}} estrellas",
+      "Fácil de limpiar el filtro con agua y detergente, según una reseña",
+    ],
+    cons: [
+      "La base no se puede desarmar del todo: hay que tener cuidado de no mojar el cable al lavarla",
+      "El jugo puede quedar con bastante pulpa si no te gusta esa textura, según una reseña",
+      "La más cara de esta comparativa",
+    ],
+    articleBody: `## La opción más completa de esta comparativa
+
+A diferencia de los otros tres exprimidores de esta comparativa, pensados solo para cítricos, el Liliana Juicematic AE940N es un extractor de jugos para frutas y verduras en general: manzana, zanahoria y más, además de incluir un cono exprimidor para cítricos. Cuesta {{precio:MLA50745117}} y tiene {{reviews:MLA50745117}} calificaciones a 4.7 estrellas.
+
+## Lo que dicen los compradores reales
+
+Las reseñas destacan lo fácil que es de usar: "no te ensucias las manos y exprime hasta lo último", cuenta una. Dos avisos honestos a tener en cuenta: una reseña indica que "es un poquito complicado de lavar, porque la parte de la base no se saca", así que hay que tener cuidado de no mojar el cable; y otra que el jugo queda "con bastante pulpa" si no filtrás.
+
+## Para quién es
+
+Para quien quiere hacer jugos de fruta y verdura variados, no solo de cítricos, y no le importa pagar más por esa versatilidad. Si solo tomás jugo de naranja o pomelo, cualquiera de los tres exprimidores simples de esta comparativa cumple a menor precio.`,
+    faq: [
+      { question: "¿Sirve solo para cítricos?", answer: "No, es un extractor de jugos para frutas y verduras en general (manzana, zanahoria, etc.), y además incluye un cono exprimidor para cítricos. Es la única de esta comparativa con esa versatilidad." },
+      { question: "¿Es fácil de limpiar?", answer: "El filtro se lava fácil con agua y detergente, pero una reseña avisa que la base no se puede desarmar del todo, así que hay que tener cuidado de no mojar el cable durante el lavado." },
+      { question: "¿El jugo queda con pulpa?", answer: "Sí, una reseña indica que queda con bastante pulpa si no te gusta esa textura. Se puede colar aparte si preferís un jugo más líquido." },
+      { question: "¿Cuántas calificaciones tiene?", answer: "{{reviews:MLA50745117}} calificaciones a {{rating:MLA50745117}} estrellas." },
+      { question: "¿Vale la pena pagar más que un exprimidor simple?", answer: "Si vas a hacer jugos de fruta y verdura variados, no solo cítricos, sí. Si solo tomás jugo de naranja o pomelo, cualquiera de los exprimidores simples de esta comparativa cumple a menor precio." },
+      { question: "¿Trae garantía?", answer: "La ficha de MercadoLibre no detalla el plazo de garantía de fábrica de este modelo puntual; confirmalo en la publicación antes de comprar." },
+    ],
+  },
 ];
 
 export const categoryPastels: Record<string, string> = {

@@ -1869,3 +1869,57 @@ sola ronda desde que se empezó a aplicar la lección de acotar las correcciones
 en el navegador. Las 4 imágenes verificadas con GET real (4.520 a 14.768 bytes).
 
 Re-medir: **~2026-10-06** (≈4 semanas), contra baseline cero.
+
+## 2026-09-08 — Guía nueva `exprimidor` (silo cocina, categoría nueva, 4 fichas nuevas) — última del lote de 4
+
+| Guía | Silo | Categoría | Keyword | Volumen (Ubersuggest AR) | SD | Productos |
+| :-- | :-- | :-- | :-- | --: | --: | --: |
+| `exprimidor` | cocina | exprimidor | exprimidor | 1.600 | 12 | 4 |
+
+**Baseline: cero.** URL nueva, sin historial en GSC. Sin canibalización: no existía guía ni ficha de
+exprimidor en el sitio.
+
+**4 fichas nuevas importadas desde cero** (Yelmo EX-1303 25W, Yelmo EX-1304 120W acero inoxidable, Atma
+EX8220P 30W con tapa protectora, Liliana Juicematic AE940N extractor para frutas y verduras), siguiendo
+`docs/fichas.md`. El Yelmo EX-1303 es, a la vez, el más barato ($26.867) y el de más calificaciones
+(1.141) — no es un error de superlativos, es simplemente el producto real que gana en ambos frentes.
+
+**Honestidad editorial poco común: un producto (Atma EX8220P) se posicionó deliberadamente SIN un
+superlativo fuerte.** Verificado en vivo que el Atma (30W) rinde de forma casi idéntica al Yelmo EX-1303
+(25W, más barato y con más reseñas): en vez de inflar una diferenciación que los datos no sostienen, la
+ficha y la guía dicen de frente que "no hay una razón de peso para elegirlo por sobre el Yelmo EX-1303 si
+el precio es lo primero", quedándose con su único diferencial real (tapa protectora contra
+salpicaduras) como argumento de venta.
+
+**Otro hallazgo honesto, ya recurrente esta sesión: el Yelmo EX-1304 (120W) no rinde tan distinto de un
+exprimidor de 25W como el salto de precio y potencia en el papel haría esperar**, según una reseña
+detallada que lo compara directamente contra un modelo viejo de 25W. La mejora real está en los
+materiales (acero inoxidable) más que en la potencia percibida al exprimir — se documentó así en la
+ficha y la guía en vez de vender la potencia como el argumento principal.
+
+**Auditoría del trío: 2 rondas hasta doble GO.** Ronda 1: `agy` dio GO limpio de entrada. Codex encontró
+un bloqueante real: la ficha del Yelmo EX-1304 se autoproclamaba "la mejor elección general" en 6 campos
+(`description`, `metaDescription`, `ogTitle`/`ogDescription`, `h1`, `verdict`, título del `articleBody`),
+un rol que en la guía correctamente pertenece al Yelmo EX-1303 — un caso de copiar/adaptar la plantilla
+de otra ficha sin actualizar todos los superlativos heredados. Se corrigió con `Edit` puntual (nunca
+`sed` global, aplicando la lección de la guía `sandwichera` de esta misma sesión) a "la opción de
+materiales más resistentes", y se verificó con grep exhaustivo que no quedó ningún rastro del error antes
+de relanzar. Ronda 2: doble GO limpio, sin ediciones de `agy` en ninguna de las dos rondas.
+
+**Verificación:** `npx tsc --noEmit`, los 8 scripts de `npm run guides:check` que no dependen de
+`affiliateUrl`, `node scripts/check-price-guard.cjs` y `npm run build` en verde tras cada ronda. Render
+local verificado en el navegador. Las 4 imágenes verificadas con GET real (4.916 a 8.464 bytes).
+
+Re-medir: **~2026-10-06** (≈4 semanas), contra baseline cero.
+
+---
+
+**Cierre del lote de 4 guías nuevas (2026-09-08), armadas en modo `/loop` autónomo:** anafe-electrico y
+batidora (sesión previa a este lote), más aspiradora-de-mano, sandwichera, plancha-de-ropa y exprimidor
+(este lote). Las 4 del lote quedaron auditadas por el trío y commiteadas el mismo día, con
+`affiliateUrl: "PEGAR_MELI_LA"` pendiente en las 16 fichas hasta que Juan genere los links reales de
+MercadoLibre. Lección más cara del lote: nunca usar `sed`/reemplazo global de una frase de prosa
+compartida sin acotar al bloque exacto del producto (ver [[sed-global-nunca-sin-acotar-a-producto]] en la
+memoria del proyecto) — costó revertir contenido de 5 productos ajenos en la guía `sandwichera`. A partir
+de ahí, cada guía se autochequeó con grep exhaustivo de superlativos ANTES de lanzar el trío, lo que
+redujo plancha-de-ropa a una sola ronda y dejó solo 1 hallazgo real (no de daño colateral) en exprimidor.
