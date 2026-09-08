@@ -1939,4 +1939,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "34",
     postedAt: "2026-09-08T08:37:34-03:00",
   },
+  {
+    title: "Xiaomi TV Box S 3rd Gen 32GB/2GB",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_980909-MLA99852696239_112025-O.webp",
+    affiliateUrl: "https://meli.la/2gCBm4o",
+    newPrice: "174.600",
+    oldPrice: "268.616",
+    offPct: "35",
+    postedAt: "2026-09-08T09:24:12-03:00",
+  },
 ];

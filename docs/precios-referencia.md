@@ -139,6 +139,7 @@ negro — tienen precio de lista distinto).
 | Impresora Multifunción Pantum M6559NW WiFi | $261.998 | 2026-09-07 | meli.la/2LDjirF — sin referencia previa, marca distinta a las HP ya posteadas, MÁS VENDIDO, 4.7★ (735 op.), +1000 vendidos, ¡ÚLTIMAS 2 UNIDADES! confirmadas en vivo, "Mejor precio" ya seleccionado |
 | Parlante Bluetooth Aiwa Portátil 80W Mega Bass | $166.299 | 2026-09-08 | meli.la/2m2fLi7 — sin referencia previa, marca distinta al Parlante Anker y al JBL Boombox 3 ya posteados, MÁS VENDIDO, 4.8★ (329 op.), +1000 vendidos, Tienda oficial Aiwa Electronics. Ficha default a "En cuotas" $191.299 (43% OFF) — se seleccionó "Mejor precio" $166.299 (50% OFF) |
 | Cocina Multigas Drean 60cm Inox con Display (CD6009EI) | $1.259.999 | 2026-09-08 | meli.la/2e9ztww — sin referencia previa, primera cocina/anafe grande en el sitio (categoría nueva), MÁS VENDIDO, 4.7★ (17 op.), +100 vendidos, "6° en Cocinas Industriales Drean" es brand-scoped (no usado en copy), Tienda oficial Drean |
+| Xiaomi TV Box S 3rd Gen 32GB/2GB | $174.600 | 2026-09-08 | meli.la/2gCBm4o — sin referencia previa, primer TV Box del sitio (categoría nueva), MÁS VENDIDO, 4.9★ (3137 op.), +5 mil vendidos, "13° en Media Streaming" (general), Tienda oficial Tecnoteam, envío FULL |
 
 ## Pequeños electrodomésticos
 
