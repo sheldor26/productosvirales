@@ -2169,4 +2169,44 @@ export const socialPosts: SocialPost[] = [
     offPct: "18",
     postedAt: "2026-09-08T17:42:37-03:00",
   },
+  {
+    title: 'Monitor Gamer Samsung Odyssey OLED G5 27"',
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_814343-MLA112767436142_062026-O.webp",
+    affiliateUrl: "https://meli.la/1inzT3G",
+    newPrice: "903.167",
+    oldPrice: "1.199.999",
+    offPct: "24",
+    postedAt: "2026-09-08T19:24:32-03:00",
+  },
+  {
+    title: 'Smart TV Hisense 43" Q6QV QLED 4K',
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_677642-MLA92680388687_092025-O.webp",
+    affiliateUrl: "https://meli.la/2ZzB2CU",
+    newPrice: "566.999",
+    oldPrice: "784.299",
+    offPct: "27",
+    postedAt: "2026-09-08T19:25:31-03:00",
+  },
+  {
+    title: "Memoria RAM DDR4 Kingdian 8GB 3200MHz",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_866861-MLA113924720241_062026-O.webp",
+    affiliateUrl: "https://meli.la/2xmgqmR",
+    newPrice: "111.645",
+    oldPrice: "249.999",
+    offPct: "55",
+    postedAt: "2026-09-08T19:26:24-03:00",
+  },
+  {
+    title: 'Monitor Gamer Gigabyte GS27QA 27" QHD 180Hz',
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_944335-MLA82415934409_022025-O.webp",
+    affiliateUrl: "https://meli.la/1nCTCTa",
+    newPrice: "415.199",
+    oldPrice: "549.999",
+    offPct: "24",
+    postedAt: "2026-09-08T19:27:44-03:00",
+  },
 ];
