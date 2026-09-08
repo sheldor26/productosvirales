@@ -1909,4 +1909,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "35",
     postedAt: "2026-09-07T20:01:47-03:00",
   },
+  {
+    title: "Parlante Bluetooth Aiwa Portátil 80W Mega Bass",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_951630-MLA106982036286_022026-O.webp",
+    affiliateUrl: "https://meli.la/2m2fLi7",
+    newPrice: "166.299",
+    oldPrice: "336.149",
+    offPct: "50",
+    postedAt: "2026-09-08T08:18:34-03:00",
+  },
 ];
