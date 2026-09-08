@@ -1711,3 +1711,53 @@ Render local verificado en el navegador (quickPicks, product-cards, tabla, FAQ, 
 desambiguación cruzados, internalLinks, todo OK).
 
 Re-medir: **~2026-10-06** (≈4 semanas), contra baseline cero.
+
+## 2026-09-08 — Guía nueva `aspiradora-de-mano` (silo hogar, categoría nueva, 4 fichas nuevas)
+
+| Guía | Silo | Categoría | Keyword | Volumen (Ubersuggest AR) | SD | Productos |
+| :-- | :-- | :-- | :-- | --: | --: | --: |
+| `aspiradora-de-mano` | hogar | aspiradora-de-mano | aspiradora de mano | 9.900 | 11 | 4 |
+
+**Baseline: cero.** URL nueva, sin historial en GSC. Dificultad SEO baja. Sin canibalización: no
+existía guía ni ficha dedicada; solo un callout de desambiguación dentro de la guía pilar
+`robot-aspiradora` ("No confundir con la aspiradora de mano"), que se actualizó con un link cruzado a
+esta guía nueva. También se sumó un link recíproco desde `robot-aspiradora` (silo pilar, muy visitado)
+hacia esta guía.
+
+**4 fichas nuevas importadas desde cero** (Gadnic JTL60Y, Electrolux STK12, Gadnic 9000Pa, Xiaomi G20
+Lite), siguiendo `docs/fichas.md`. Se descartó un candidato sin stock (Fika Volt Pro, `price: 0` en
+JSON-LD).
+
+**Hallazgo honesto nuevo para este sitio: 2 de las 4 fichas son publicaciones de catálogo compartido
+con otros países de la región, y la mayoría de sus reseñas NO son de Argentina.** Navegando en vivo la
+Electrolux STK12 (34.424 calificaciones) y la Xiaomi G20 Lite (2.892 calificaciones), la mayoría de las
+reseñas individuales están etiquetadas Brasil, Chile o Uruguay, no Argentina. En vez de presentar esos
+números como si fueran 100% respaldo local (lo que hubiera sido la lectura fácil dado lo alto de las
+cifras), se declaró explícitamente en ambas fichas, en un párrafo dedicado de la guía ("¿De dónde son
+las reseñas que estás leyendo?") y en una FAQ propia. Para las citas textuales, se buscó puntualmente
+una reseña etiquetada Argentina entre las disponibles de cada producto (se encontró una en cada caso) en
+vez de usar cualquiera de las mayoritarias regionales. **Lección para futuras guías:** cuando una ficha
+tenga un volumen de reseñas desproporcionadamente alto frente al resto del catálogo (acá 34.424 contra
+2.000-6.000 del resto), vale la pena chequear el país de las reseñas individuales antes de asumir que el
+número es 100% respaldo argentino — puede ser un catálogo compartido regional.
+
+**Dos errores de carga de datos de MercadoLibre detectados y manejados con la voz honesta del sitio,
+cada uno distinto:** la ficha de la Electrolux STK12 carga la potencia como "1.100.000 W" (imposible);
+como no hay forma de confirmar el dato real desde ninguna fuente, se **omitió** esa fila del `specs`
+estructurado en vez de inventar un valor (regla de `docs/fichas.md`: si no se puede verificar, no se
+inventa, se omite). La ficha de la Xiaomi G20 Lite carga "Potencia de succión: 16.000 W", un error de
+unidad (debería ser Pa, no W) con el valor numérico sí verosímil; ahí se **corrigió la unidad**
+manteniendo el número (16.000 Pa), a diferencia del caso de la Electrolux donde no había número
+confiable para conservar.
+
+**Auditoría del trío: 1 sola ronda, doble GO limpio.** Ni Codex ni `agy` encontraron bloqueantes reales.
+`agy` falló una vez con "Error: timeout waiting for response" (fallo transitorio ya documentado en este
+sitio) y se relanzó con el mismo comando exacto; en esa segunda corrida no tocó ningún archivo (verificado
+con diff contra un snapshot tomado antes de lanzarlo), y dio GO reportando únicamente, sin editar.
+
+**Verificación:** `npx tsc --noEmit`, los 8 scripts de `npm run guides:check` que no dependen de
+`affiliateUrl` (los 4 placeholders `PEGAR_MELI_LA` son intencionales, pendientes de que Juan genere los
+links reales), `node scripts/check-price-guard.cjs` y `npm run build` en verde. Render local verificado
+en el navegador. Las 4 imágenes verificadas con GET real (2.790 a 23.102 bytes).
+
+Re-medir: **~2026-10-06** (≈4 semanas), contra baseline cero.

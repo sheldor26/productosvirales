@@ -86840,6 +86840,275 @@ Para quien hornea seguido, en cantidad, y quiere liberar las manos mientras la m
       { question: "¿Qué capacidad tiene el bowl?", answer: "4 litros, de acero inoxidable." },
     ],
   },
+  {
+    id: "MLA45758897",
+    title: "Aspiradora Gadnic JTL60Y 2 En 1 Vertical Y De Mano 600W 15Kpa Filtro HEPA Lavable Cable 5m Deposito 1L",
+    canonicalName: "Gadnic JTL60Y", mpn: "JTL60Y", brand: "Gadnic",
+    price: 75749, originalPrice: 170749, currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_928530-MLA109897100656_042026-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_928530-MLA109897100656_042026-O.webp"],
+    category: "Hogar", categorySlug: "hogar",
+    permalink: "https://www.mercadolibre.com.ar/aspiradora-gadnic-jtl60y-2-en-1-vertical-y-de-mano-600w-15kpa-filtro-hepa-lavable-cable-5m-deposito-1l/p/MLA45758897",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new", freeShipping: true, rating: 4.7, reviewCount: 6422,
+    pastelColor: "var(--pastel-blue)",
+    priceUpdated: "2026-09-08", priceLastChecked: "2026-09-08", priceStatus: "fresh", reviewsSampledAt: "2026-09-08",
+    specs: [
+      { label: "Marca", value: "Gadnic" },
+      { label: "Modelo", value: "JTL60Y" },
+      { label: "Tipo", value: "Vertical y de mano (2 en 1)" },
+      { label: "Es inalámbrica", value: "No, con cable de 5 m" },
+      { label: "Potencia", value: "600 W" },
+      { label: "Succión declarada", value: "15 kPa" },
+      { label: "Capacidad del depósito", value: "1 L, sin bolsa" },
+      { label: "Filtro", value: "HEPA lavable" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Peso", value: "1,5 kg" },
+      { label: "Accesorios incluidos", value: "Boquilla, boquilla de esquina" },
+      { label: "Con ruedas", value: "No" },
+    ],
+    relatedProducts: ["MLA18781059", "MLA38465716", "MLA36681158"],
+    description: "Aspiradora Gadnic JTL60Y 2 en 1, vertical y de mano, 600W con filtro HEPA lavable. La más elegida de esta comparativa entre las de cable, con más de 6.400 calificaciones y buen respaldo de opiniones argentinas.",
+    seoTitle: "Gadnic JTL60Y: la aspiradora 2 en 1 vertical y de mano más elegida",
+    metaDescription: "Gadnic JTL60Y a {{precio:MLA45758897}}: 600W, filtro HEPA lavable y {{reviews:MLA45758897}} calificaciones. La 2 en 1 con cable más elegida de esta comparativa.",
+    ogTitle: "Gadnic JTL60Y: aspiradora 2 en 1 vertical y de mano con filtro HEPA",
+    ogDescription: "600W, filtro HEPA lavable, cable de 5 m. Más de 6.400 compradores la calificaron con 4.7 estrellas, aunque avisan que hay que darle pausas cada 20 minutos de uso seguido.",
+    h1: "Gadnic JTL60Y: aspiradora 2 en 1 vertical y de mano, la más elegida de esta comparativa",
+    verdict: "La aspiradora 2 en 1 (vertical y de mano) más elegida de esta comparativa: {{reviews:MLA45758897}} calificaciones a 4.7 estrellas, todas verificadas en MercadoLibre Argentina. Trae 600W de potencia, filtro HEPA lavable y depósito transparente de 1L sin bolsa. El punto a cuidar, según varias reseñas, son los plásticos: conviene darle pausas cada 20 minutos de uso seguido para no forzar el motor.",
+    pros: [
+      "{{reviews:MLA45758897}} calificaciones, todas de compradores argentinos, la base más grande de esta comparativa entre las de cable",
+      "Filtro HEPA lavable, no hay que comprar repuestos descartables",
+      "Convierte de vertical a mano sacando el cuerpo principal, para sillones, autos y rincones",
+      "Cable de 5 m, no depende de batería",
+      "Precio accesible para la potencia que ofrece",
+    ],
+    cons: [
+      "Con cable: hay que estar cerca de un tomacorriente, no es para llevar por toda la casa sin límites",
+      "Varias reseñas avisan que los plásticos son algo delicados y conviene no forzarla",
+      "Se recomienda usarla en tandas de 20 minutos con pausas, no de forma continua por horas",
+      "Depósito de 1L: hay que vaciarlo seguido en limpiezas grandes",
+    ],
+    articleBody: `## La 2 en 1 con cable más elegida de esta comparativa
+
+La Gadnic JTL60Y es una aspiradora 2 en 1: funciona como escoba vertical para el piso y se separa en una aspiradora de mano para sillones, autos y rincones. Cuesta {{precio:MLA45758897}} y acumula {{reviews:MLA45758897}} calificaciones a 4.7 estrellas, todas de compradores verificados en MercadoLibre Argentina: la base de opiniones más grande de esta comparativa entre las que funcionan con cable.
+
+## Lo que dicen los compradores reales
+
+Las reseñas coinciden en la relación precio-potencia: "excelente potencia, es pequeña y poderosa", dice una con 316 votos útiles, que además destaca que el cable "debe tener 3 metros fácil" (la ficha declara 5 m). El punto de cuidado que se repite es el plástico: una reseña recomienda usarla en tandas de 20 minutos con pausas de 10, y vaciar el filtro seguido para no forzar el motor. Con ese cuidado, ninguna reseña reporta roturas.
+
+## Para quién es
+
+Para quien busca una 2 en 1 confiable, con cable (sin depender de batería) y filtro HEPA lavable, sin pagar el salto de precio de una premium inalámbrica como la Xiaomi G20 Lite de esta comparativa. Si preferís no depender de un tomacorriente, la Gadnic 9000Pa (inalámbrica) o la Xiaomi de esta misma comparativa son mejor opción.`,
+    faq: [
+      { question: "¿La Gadnic JTL60Y es inalámbrica?", answer: "No, funciona con cable de 5 m. Si buscás una inalámbrica, mirá la Gadnic 9000Pa (compacta, para auto y hogar) o la Xiaomi G20 Lite (premium, de pie) de esta misma comparativa." },
+      { question: "¿Sirve como aspiradora de mano y vertical a la vez?", answer: "Sí, es 2 en 1: se usa como escoba vertical para el piso y, sacando el cuerpo principal, se convierte en aspiradora de mano para sillones, auto o rincones." },
+      { question: "¿Hay que darle descanso durante el uso?", answer: "Varias reseñas lo recomiendan: usarla en tandas de unos 20 minutos con pausas de 10, sobre todo en limpiezas largas, para no forzar el motor ni los plásticos." },
+      { question: "¿El filtro es descartable o lavable?", answer: "Es HEPA lavable: no hace falta comprar repuestos descartables, solo enjuagarlo y dejarlo secar antes de volver a usarla." },
+      { question: "¿Cuántas calificaciones tiene?", answer: "{{reviews:MLA45758897}} calificaciones a {{rating:MLA45758897}} estrellas, todas de compradores verificados en MercadoLibre Argentina." },
+      { question: "¿Trae garantía?", answer: "La ficha de MercadoLibre no detalla el plazo de garantía de fábrica de este modelo puntual; confirmalo en la publicación antes de comprar." },
+    ],
+  },
+  {
+    id: "MLA18781059",
+    title: "Aspiradora Vertical Electrolux STKs VERTICAIS STK12 1.2L negra 50Hz/60Hz 3015AKBR401",
+    canonicalName: "Electrolux STK12", mpn: "STK12", brand: "Electrolux",
+    price: 82999, originalPrice: 111110, currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_669950-MLA99900339543_112025-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_669950-MLA99900339543_112025-O.webp"],
+    category: "Hogar", categorySlug: "hogar",
+    permalink: "https://www.mercadolibre.com.ar/aspiradora-vertical-electrolux-stks-verticais-stk12-12l-negra-50hz60hz-3015akbr401/p/MLA18781059",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new", freeShipping: true, rating: 4.9, reviewCount: 34424,
+    pastelColor: "var(--pastel-coral)",
+    priceUpdated: "2026-09-08", priceLastChecked: "2026-09-08", priceStatus: "fresh", reviewsSampledAt: "2026-09-08",
+    specs: [
+      { label: "Marca", value: "Electrolux" },
+      { label: "Modelo", value: "STK12" },
+      { label: "Tipo", value: "Vertical y de mano (2 en 1)" },
+      { label: "Es inalámbrica", value: "No, radio de acción de 6 m" },
+      { label: "Capacidad del depósito", value: "1,2 L, sin bolsa" },
+      { label: "Voltaje", value: "220V, 50/60 Hz" },
+      { label: "Peso", value: "2 kg" },
+      { label: "Con posición de estacionamiento", value: "Sí" },
+      { label: "Certificación de seguridad eléctrica", value: "IRAM" },
+      { label: "Con ruedas", value: "No" },
+    ],
+    relatedProducts: ["MLA45758897", "MLA38465716", "MLA36681158"],
+    description: "Aspiradora vertical Electrolux STK12, 2 en 1 (vertical y de mano), de la Tienda oficial. La de mayor calificación y volumen de opiniones de esta comparativa: 4.9 estrellas. Ojo: la ficha de MercadoLibre carga mal la potencia, y la mayoría de las reseñas vienen de Brasil, no de Argentina.",
+    seoTitle: "Electrolux STK12: la aspiradora vertical mejor calificada, ¿de fiar?",
+    metaDescription: "Electrolux STK12 a {{precio:MLA18781059}}: 2 en 1, Tienda oficial, {{reviews:MLA18781059}} calificaciones y 4.9 estrellas. La mejor nota de esta comparativa, con una aclaración honesta sobre el origen de las reseñas.",
+    ogTitle: "Electrolux STK12: 4.9 estrellas, la mejor calificada de esta comparativa",
+    ogDescription: "2 en 1, de la Tienda oficial de Electrolux, con la base de opiniones más grande de esta comparativa. Te contamos por qué conviene leer las reseñas con un dato de contexto que la ficha no aclara.",
+    h1: "Electrolux STK12: aspiradora vertical y de mano, la mejor calificada de esta comparativa",
+    verdict: "La mejor calificada de esta comparativa: 4.9 estrellas en {{reviews:MLA18781059}} opiniones, vendida por la Tienda oficial de Electrolux. Dos datos honestos antes de comprar: la ficha de MercadoLibre carga la potencia como un valor claramente erróneo (no lo replicamos acá porque no se puede confirmar el dato real), y la gran mayoría de esas miles de opiniones son de otros países de la región (sobre todo Brasil), porque es una publicación de catálogo compartido. Igual encontramos reseñas reales de Argentina, y son positivas con un contra concreto: el depósito se llena rápido y el filtro se obstruye.",
+    pros: [
+      "4.9 estrellas, la calificación más alta de esta comparativa",
+      "{{reviews:MLA18781059}} calificaciones acumuladas, la base más grande de esta comparativa (aunque compartida con otros países de la región)",
+      "Vendida por la Tienda oficial de Electrolux, con certificación de seguridad eléctrica IRAM",
+      "2 en 1: vertical para piso, de mano para sillones y rincones",
+      "Marca con reconocimiento y repuestos más fáciles de conseguir que una marca chica",
+    ],
+    cons: [
+      "La ficha de MercadoLibre carga mal la potencia (un valor evidentemente erróneo); no se puede confirmar el dato real",
+      "La mayoría de las miles de opiniones son de otros países (Brasil, principalmente), no específicamente de Argentina",
+      "Una reseña argentina real avisa que el depósito se llena rápido y el filtro se obstruye",
+      "El repuesto del filtro no siempre se consigue fácil, según la misma reseña",
+    ],
+    articleBody: `## La mejor calificada de esta comparativa, con un contexto que hay que aclarar
+
+La Electrolux STK12 tiene la nota más alta de esta comparativa: 4.9 estrellas en {{reviews:MLA18781059}} opiniones, a {{precio:MLA18781059}}. Es una 2 en 1 (vertical y de mano) vendida por la Tienda oficial de Electrolux, con certificación de seguridad eléctrica IRAM.
+
+## Lo honesto: dos datos que la ficha no aclara
+
+Primero, la ficha técnica de MercadoLibre carga la potencia con un valor evidentemente erróneo (fuera de cualquier rango real para un electrodoméstico de este tipo), así que no lo replicamos en la tabla de specs: no hay forma de confirmar el dato real desde acá. Segundo, y más importante: esta publicación es de catálogo compartido entre varios países de la región, así que la enorme mayoría de esas {{reviews:MLA18781059}} opiniones son de Brasil y otros mercados, no de Argentina. Igual encontramos una reseña real de un comprador argentino: calificó con 4 estrellas, destacó "el poder de aspirado" pero avisó que el depósito se llena rápido para un uso intenso y que, si se rompe el filtro al limpiarlo, el repuesto es difícil de conseguir.
+
+## Para quién es
+
+Para quien prioriza una marca reconocida con soporte y garantía formal, y no le molesta que el volumen de reseñas sea regional en vez de 100% argentino. Si preferís reseñas 100% locales con buen respaldo, la Gadnic JTL60Y de esta comparativa tiene más de 6.400 calificaciones, todas de compradores verificados en Argentina.`,
+    faq: [
+      { question: "¿Las reseñas de la Electrolux STK12 son de Argentina?", answer: "La gran mayoría no: es una publicación de catálogo compartido con otros países de la región (sobre todo Brasil), así que la mayoría de las {{reviews:MLA18781059}} opiniones vienen de ahí. Sí encontramos al menos una reseña real de un comprador argentino, positiva con un contra concreto sobre el filtro." },
+      { question: "¿Cuánta potencia tiene la Electrolux STK12?", answer: "La ficha de MercadoLibre carga un valor de potencia claramente erróneo, así que no lo podemos confirmar desde acá. Lo que sí está confirmado es su radio de acción de 6 m con cable." },
+      { question: "¿Es de mano y vertical a la vez?", answer: "Sí, es 2 en 1: funciona como aspiradora vertical para el piso y se convierte en de mano para sillones, tapizados y rincones." },
+      { question: "¿Tiene algún problema reportado?", answer: "Una reseña real de Argentina avisa que el depósito de 1,2L se llena rápido en uso intenso y obstruye el filtro, y que si se rompe al limpiarlo, el repuesto no siempre se consigue fácil." },
+      { question: "¿Por qué tiene tantas más calificaciones que las otras de esta comparativa?", answer: "Porque es una publicación de catálogo compartido con otros países de la región: acumula opiniones de varios mercados, no solo de Argentina. Por eso el número es tan alto en comparación." },
+      { question: "¿Trae garantía?", answer: "Al ser vendida por la Tienda oficial de Electrolux, la garantía de fábrica suele ser más clara que en una publicación de un vendedor chico; confirmá el plazo exacto en la publicación antes de comprar." },
+    ],
+  },
+  {
+    id: "MLA38465716",
+    title: "Aspiradora De Mano Portátil Gadnic 9000Pa Batería Duradera Auto y Hogar 120W",
+    canonicalName: "Gadnic 9000Pa", mpn: "Portac", brand: "Gadnic",
+    price: 46749, currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_942110-MLA100939627408_122025-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_942110-MLA100939627408_122025-O.webp"],
+    category: "Hogar", categorySlug: "hogar",
+    permalink: "https://www.mercadolibre.com.ar/aspiradora-de-mano-portatil-gadnic-9000pa-bateria-duradera-auto-y-hogar-120w/p/MLA38465716",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new", freeShipping: true, rating: 4.5, reviewCount: 3705,
+    pastelColor: "var(--pastel-amber)",
+    priceUpdated: "2026-09-08", priceLastChecked: "2026-09-08", priceStatus: "fresh", reviewsSampledAt: "2026-09-08",
+    specs: [
+      { label: "Marca", value: "Gadnic" },
+      { label: "Modelo", value: "ASP00032" },
+      { label: "Tipo", value: "De mano, compacta" },
+      { label: "Es inalámbrica", value: "Sí, a batería" },
+      { label: "Duración de la batería", value: "Hasta 25 minutos" },
+      { label: "Succión declarada", value: "9.000 Pa" },
+      { label: "Potencia", value: "120 W" },
+      { label: "Capacidad del depósito", value: "530 mL" },
+      { label: "Peso", value: "530 g" },
+      { label: "Uso recomendado", value: "Auto y hogar" },
+      { label: "Accesorios incluidos", value: "Manguera, boquilla de esquina, cepillo" },
+    ],
+    relatedProducts: ["MLA45758897", "MLA18781059", "MLA36681158"],
+    description: "Aspiradora de mano portátil Gadnic 9000Pa, inalámbrica, para auto y hogar. La más barata de esta comparativa y la única compacta genuinamente sin cable, con más de 3.700 calificaciones argentinas.",
+    seoTitle: "Gadnic 9000Pa: la aspiradora de mano inalámbrica más barata",
+    metaDescription: "Gadnic 9000Pa a {{precio:MLA38465716}}: inalámbrica, compacta, para auto y hogar, con {{reviews:MLA38465716}} calificaciones. La más barata de esta comparativa.",
+    ogTitle: "Gadnic 9000Pa: aspiradora de mano inalámbrica para auto y hogar",
+    ogDescription: "Compacta, liviana (530 g) e inalámbrica. La más barata de esta comparativa, aunque algunas reseñas avisan que la batería dura justo lo necesario, no más.",
+    h1: "Gadnic 9000Pa: aspiradora de mano inalámbrica, la más barata de esta comparativa",
+    verdict: "La más barata de esta comparativa y la única genuinamente compacta e inalámbrica de las dos opciones accesibles: {{reviews:MLA38465716}} calificaciones a 4.5 estrellas, todas de Argentina. Ideal para auto, sillones, rincones y limpiezas rápidas, con 530 mL de depósito. La batería (hasta 25 minutos) alcanza para el uso que promete, aunque algunas reseñas avisan que dura justo lo necesario, sin sobrar.",
+    pros: [
+      "La más barata de esta comparativa",
+      "Genuinamente inalámbrica: sin cable, sin depender de un tomacorriente",
+      "Compacta y liviana (530 g), fácil de guardar en el auto o un cajón",
+      "{{reviews:MLA38465716}} calificaciones, todas de compradores argentinos",
+      "Trae 3 accesorios (manguera, boquilla de esquina, cepillo) para distintos usos",
+    ],
+    cons: [
+      "Depósito chico (530 mL): no es para una limpieza grande de toda la casa",
+      "Algunas reseñas avisan que la batería dura justo lo necesario, sin margen extra",
+      "120W: la potencia más baja de esta comparativa, pensada para uso rápido, no profundo",
+      "No sirve para pisos grandes como reemplazo de una vertical",
+    ],
+    articleBody: `## La más barata y la única realmente compacta e inalámbrica
+
+La Gadnic 9000Pa es la opción más barata de esta comparativa: {{precio:MLA38465716}} por una aspiradora de mano genuinamente inalámbrica, pensada para auto y hogar. Acumula {{reviews:MLA38465716}} calificaciones a 4.5 estrellas, todas de compradores verificados en Argentina. Pesa apenas 530 g y trae manguera, boquilla de esquina y cepillo.
+
+## Lo que dicen los compradores reales
+
+Las reseñas destacan la practicidad: "la batería dura lo justo y necesario para aspirar pelos de mascotas, sillas y sillones, rincones y ventanas de una vez, o el auto completo también de una vez", cuenta una con 254 votos útiles. El punto de cuidado, que aparece en más de una reseña, es justamente ese: "super práctico pero dura re poco la batería", dice otra. La lectura honesta es que rinde para lo que promete (una limpieza rápida completa) pero no da margen para mucho más.
+
+## Para quién es
+
+Para el auto, sillones, escaleras, rincones y limpiezas rápidas puntuales, sin depender de un cable ni cargar el peso de una vertical. No reemplaza a una aspiradora de piso para una casa grande: para eso, la Gadnic JTL60Y o la Electrolux STK12 de esta comparativa, ambas con más potencia y depósito, rinden mejor.`,
+    faq: [
+      { question: "¿Cuánto dura la batería de la Gadnic 9000Pa?", answer: "Hasta 25 minutos según la ficha. Varias reseñas confirman que alcanza justo para una limpieza rápida completa (auto, sillones, rincones), pero avisan que no sobra batería para mucho más." },
+      { question: "¿Sirve para aspirar toda la casa?", answer: "No es lo ideal: con 530 mL de depósito y 120W está pensada para limpiezas rápidas y puntuales (auto, sillones, rincones), no para reemplazar una aspiradora vertical en una casa grande." },
+      { question: "¿Es realmente inalámbrica?", answer: "Sí, funciona 100% a batería, sin cable. Es la única de esta comparativa con esa característica en un formato compacto y económico (la Xiaomi G20 Lite también es inalámbrica, pero es de pie y mucho más cara)." },
+      { question: "¿Cuántas calificaciones tiene?", answer: "{{reviews:MLA38465716}} calificaciones a {{rating:MLA38465716}} estrellas, todas de compradores verificados en Argentina." },
+      { question: "¿Qué accesorios trae?", answer: "Manguera, boquilla de esquina y cepillo, para adaptarse a distintas superficies: tapizados, rincones y superficies delicadas." },
+      { question: "¿Trae garantía?", answer: "La ficha de MercadoLibre no detalla el plazo de garantía de fábrica de este modelo puntual; confirmalo en la publicación antes de comprar." },
+    ],
+  },
+  {
+    id: "MLA36681158",
+    title: "Aspiradora Xiaomi G20 Lite",
+    canonicalName: "Xiaomi G20 Lite", mpn: "C203", brand: "Xiaomi",
+    price: 370610, currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_903676-MLA95703628258_102025-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_903676-MLA95703628258_102025-O.webp"],
+    category: "Hogar", categorySlug: "hogar",
+    permalink: "https://www.mercadolibre.com.ar/aspiradora-xiaomi-g20-lite/p/MLA36681158",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new", freeShipping: true, rating: 4.8, reviewCount: 2892,
+    pastelColor: "var(--pastel-purple)",
+    priceUpdated: "2026-09-08", priceLastChecked: "2026-09-08", priceStatus: "fresh", reviewsSampledAt: "2026-09-08",
+    specs: [
+      { label: "Marca", value: "Xiaomi" },
+      { label: "Línea", value: "G20 Lite" },
+      { label: "Tipo", value: "Vertical inalámbrica, con cuerpo de mano al desmontar el tubo" },
+      { label: "Es inalámbrica", value: "Sí, batería 22.2V" },
+      { label: "Duración de la batería", value: "Hasta 45 minutos" },
+      { label: "Potencia del motor", value: "215 W" },
+      { label: "Succión declarada", value: "16.000 Pa" },
+      { label: "Capacidad del depósito", value: "550 mL, sin bolsa" },
+      { label: "Peso", value: "2,4 kg" },
+      { label: "Con ruedas", value: "Sí (en el cabezal)" },
+      { label: "Materiales", value: "Tubo metálico, carcasa plástica" },
+      { label: "Accesorios incluidos", value: "Vástago, cepillos y soporte de pared" },
+    ],
+    relatedProducts: ["MLA45758897", "MLA18781059", "MLA38465716"],
+    description: "Aspiradora Xiaomi G20 Lite, inalámbrica, 16.000 Pa de succión y soporte de pared incluido. La opción premium de esta comparativa, con stock limitado al momento de esta nota.",
+    seoTitle: "Xiaomi G20 Lite: la aspiradora inalámbrica premium, ¿vale la pena?",
+    metaDescription: "Xiaomi G20 Lite a {{precio:MLA36681158}}: inalámbrica, 16.000 Pa y {{reviews:MLA36681158}} calificaciones. La opción premium de esta comparativa.",
+    ogTitle: "Xiaomi G20 Lite: aspiradora inalámbrica premium con 16.000 Pa",
+    ogDescription: "Batería de hasta 45 minutos, 16.000 Pa de succión y soporte de pared incluido. Compradores la comparan directamente contra una Dyson, a una fracción del precio.",
+    h1: "Xiaomi G20 Lite: aspiradora inalámbrica premium, la opción de gama alta de esta comparativa",
+    verdict: "La opción premium de esta comparativa: {{precio:MLA36681158}} por una aspiradora inalámbrica con batería de hasta 45 minutos, 16.000 Pa de succión declarados y soporte de pared incluido. Es, por lejos, la más cara del grupo, pero varias reseñas la comparan favorablemente contra marcas mucho más caras como Dyson. Un dato a tener en cuenta: al momento de esta nota, la publicación mostraba stock muy limitado.",
+    pros: [
+      "16.000 Pa de succión declarados, la más potente de esta comparativa entre las inalámbricas",
+      "Batería de hasta 45 minutos, la más duradera de esta comparativa",
+      "Trae soporte de pared, vástago y varios cepillos intercambiables",
+      "Reseñas la comparan favorablemente contra una Dyson, a una fracción del precio",
+      "4.8 estrellas, la segunda calificación más alta de esta comparativa",
+    ],
+    cons: [
+      "Por lejos la más cara de esta comparativa: varias veces el precio de cualquier otra opción",
+      "Stock muy limitado al momento de esta nota; conviene confirmar disponibilidad antes de decidirse",
+      "Depósito de 550 mL, más chico que el de las 2 en 1 con cable de esta comparativa",
+      "Una reseña avisa que hay que usar el soporte de pared siempre, porque si se cae puede romperse el depósito",
+    ],
+    articleBody: `## La opción premium de esta comparativa
+
+La Xiaomi G20 Lite es una aspiradora inalámbrica de pie, con {{precio:MLA36681158}}, 215W de potencia de motor y 16.000 Pa de succión declarados (la ficha de MercadoLibre carga ese número con la unidad "W" en vez de "Pa", un error de tipeo evidente: la cifra corresponde a la succión, no a la potencia). La batería dura hasta 45 minutos, la más larga de esta comparativa, y trae soporte de pared para guardarla cargando.
+
+## Lo que dicen los compradores reales
+
+Varias reseñas la comparan directamente contra marcas premium mucho más caras: "tengo una Dyson V15 que cuesta 9 veces esta y falló con errores típicos de Dyson; esta que vale mucho menos tiene la misma utilidad, duración y eficacia", cuenta un comprador. Otra reseña destaca que junta pelos de mascota en alfombras sin problema. El cuidado que se repite: usar siempre el soporte de pared, porque si se cae, el depósito (donde se acumula la suciedad) puede romperse.
+
+## Para quién es
+
+Para quien quiere el salto a una aspiradora inalámbrica de pie con potencia real, sin pagar el precio de una Dyson. Es varias veces más cara que cualquier otra opción de esta comparativa, así que tiene sentido solo si el presupuesto lo permite y vas a usarla como aspiradora principal de la casa. Para uso ocasional o de auto, la Gadnic 9000Pa (mucho más barata) alcanza; para uso diario de piso sin ese presupuesto, la Gadnic JTL60Y o la Electrolux STK12 con cable cumplen bien.`,
+    faq: [
+      { question: "¿La Xiaomi G20 Lite tiene 16.000W de potencia?", answer: "No: la ficha de MercadoLibre carga ese número con la unidad incorrecta. 16.000 es la cifra de succión, medida en Pa (pascales), no de potencia en watts. La potencia real del motor es 215W." },
+      { question: "¿Es mejor que una Dyson?", answer: "No la probamos contra una Dyson directamente, pero varias reseñas de compradores que sí tuvieron ambas la describen con la misma utilidad y eficacia que una Dyson, a una fracción del precio." },
+      { question: "¿Cuánto dura la batería?", answer: "Hasta 45 minutos según la ficha, la duración más larga de esta comparativa entre las inalámbricas." },
+      { question: "¿Hay stock disponible?", answer: "Al momento de esta nota, la publicación mostraba stock muy limitado. Confirmá disponibilidad en MercadoLibre antes de decidirte, porque puede agotarse." },
+      { question: "¿Sirve para pelos de mascotas?", answer: "Sí, reseñas confirman que junta pelos de mascota en alfombras sin problema, gracias a la succión de 16.000 Pa declarada." },
+      { question: "¿Por qué es tanto más cara que las otras de esta comparativa?", answer: "Es una aspiradora inalámbrica de pie de gama alta, con más potencia, más autonomía de batería y accesorios que las 2 en 1 con cable o la de mano compacta de esta comparativa. El salto de precio corresponde a un salto real de prestaciones." },
+    ],
+  },
 ];
 
 export const categoryPastels: Record<string, string> = {

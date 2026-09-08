@@ -19013,6 +19013,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { label: "Robot aspiradora con mapeo láser", href: "/guias/robot-aspiradora-con-mapeo-laser" },
       { label: "Cómo funciona una robot aspiradora", href: "/guias/como-funciona-robot-aspiradora" },
       { label: "Robot aspiradora Atma: opiniones y modelos", href: "/guias/robot-aspiradora-atma" },
+      { label: "Aspiradora de mano: cuál comprar en Argentina", href: "/guias/hogar/aspiradora-de-mano" },
     ],
     internalLinksTitle: "Guías relacionadas",
     quickPicks: [
@@ -19707,7 +19708,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { type: "h2", id: "que-es", title: `Qué es una aspiradora robot (y qué no es)` },
       { type: "p", content: `Una aspiradora robot es un electrodoméstico autónomo, redondo o en forma de D, de unos 7 a 10 cm de alto, que limpia el piso solo. Se mueve sin que lo empujes, esquiva muebles, baja la potencia o la sube según el modelo y vuelve a su base a cargar. La idea es simple: programás que limpie todos los días a las 10 de la mañana mientras estás en el laburo, y volvés a una casa más limpia sin haber tocado nada.` },
       { type: "p", content: `Lo que **no** es: no reemplaza una limpieza profunda. No sube escaleras, no limpia rincones a 90° perfectos, y en una casa muy desordenada (cables, medias, juguetes en el piso) se traba. Pensalo como un mantenimiento diario que te saca el 80% del trabajo, no como la solución mágica que te ahorra agarrar la aspiradora de mano nunca más.` },
-      { type: "callout", calloutVariant: "note", calloutTitle: `No confundir con la aspiradora de mano`, content: `Si buscabas una Samsung de mano o "vertical" tipo 2000W, eso es otra cosa: la agarrás vos. Acá hablamos de **robots** que andan solos por el piso. Son dos productos distintos para necesidades distintas.` },
+      { type: "callout", calloutVariant: "note", calloutTitle: `No confundir con la aspiradora de mano`, content: `Si buscabas una aspiradora de mano o "vertical", eso es otra cosa: la agarrás vos. Acá hablamos de **robots** que andan solos por el piso. Son dos productos distintos para necesidades distintas: mirá la [guía de aspiradora de mano](/guias/hogar/aspiradora-de-mano) si buscás esa.` },
   
       { type: "h2", id: "navegacion", title: `Cómo se mueve: navegación random vs giroscópica vs LIDAR` },
       { type: "p", content: `Esta es **la** parte que más cambia el precio y la experiencia. Cómo se mueve el robot define si tu casa queda bien limpia o si pasa tres veces por el mismo lugar y nunca toca el rincón de atrás del sillón. Hay tres niveles.` },
@@ -30060,6 +30061,127 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     ],
     internalLinksTitle: "Más para tu cocina",
   },
+
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva aspiradora-de-mano — silo hogar, categoría nueva
+  // Origen: research propio 2026-09-08. Keyword "aspiradora de mano"
+  // 9.900/mes, SD 11. Sin canibalización: no existía guía ni ficha
+  // dedicada; solo un callout de desambiguación dentro de la guía
+  // pilar de robot-aspiradora (ver ese archivo, "No confundir con
+  // la aspiradora de mano"), actualizado con link cruzado a esta.
+  // 4 fichas nuevas importadas el mismo día (ver curated-products.ts).
+  // Nota de honestidad: 2 de las 4 fichas (Electrolux, Xiaomi) son
+  // publicaciones de catálogo compartido con otros países de la
+  // región — la mayoría de sus reseñas no son de Argentina. Se
+  // documentó explícitamente en ambas fichas y en la guía.
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "aspiradora-de-mano",
+    category: "aspiradora-de-mano",
+    silo: "hogar",
+    pillar: true,
+    title: `Aspiradora de Mano: cuál comprar en Argentina [2026]`,
+    seoTitle: `Aspiradora de Mano: Cuál Comprar en Argentina | 2026`,
+    metaDescription: `Descubrí qué aspiradora de mano comprar en Argentina: la más barata, la más elegida y la inalámbrica premium. Precios reales de MercadoLibre y contras honestas.`,
+    ogTitle: `Aspiradora de mano: cuál comprar en Argentina`,
+    ogDescription: `Gadnic, Electrolux y Xiaomi comparadas: con cable o inalámbricas, 2 en 1 o compactas. Precios reales de MercadoLibre y las contras que nadie cuenta.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_928530-MLA109897100656_042026-O.webp`,
+    h1: `Aspiradora de mano: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene la **[Gadnic JTL60Y](/producto/aspiradora-gadnic-jtl60y-2-en-1-vertical-y-de-mano-600w-15kpa-filtro-hepa-lavabl-mla45758897)** (alrededor de {{precio:MLA45758897:k}}): 2 en 1 vertical y de mano, 600W, filtro HEPA lavable y la base de opiniones más grande entre las de cable, todas de Argentina. Si buscás la más barata e inalámbrica, la **[Gadnic 9000Pa](/producto/aspiradora-de-mano-portatil-gadnic-9000pa-bateria-duradera-auto-y-hogar-120w-mla38465716)**. Si preferís la mejor calificada (con una aclaración importante sobre sus reseñas), la **[Electrolux STK12](/producto/aspiradora-vertical-electrolux-stks-verticais-stk12-1-2l-negra-50hz-60hz-3015akb-mla18781059)**. Y si querés lo más potente e inalámbrico de gama alta, la **[Xiaomi G20 Lite](/producto/aspiradora-xiaomi-g20-lite-mla36681158)**.`,
+    publishedDate: "2026-09-08",
+    updatedDate: "2026-09-08",
+    hasDisclosure: true,
+    readingTime: 9,
+    standfirst: `Una aspiradora de mano va de {{precio:MLA38465716:k}} (la más básica e inalámbrica) a {{precio:MLA36681158:k}} (la premium); las 2 en 1 con cable rondan los {{precio:MLA45758897:k}}. La decisión real pasa por si te alcanza con cable o necesitás inalámbrica, y cuánto depósito necesitás. Te mostramos cuál conviene, con precios reales de MercadoLibre.`,
+    quickPicks: [
+      { productMlaId: "MLA45758897", label: "Mejor elección general", labelColor: "green", tagline: "Gadnic JTL60Y: 2 en 1, 600W, filtro HEPA lavable" },
+      { productMlaId: "MLA38465716", label: "La más barata", labelColor: "slate", tagline: "Gadnic 9000Pa: inalámbrica, compacta, para auto y hogar" },
+      { productMlaId: "MLA18781059", label: "La mejor calificada", labelColor: "blue", tagline: "Electrolux STK12: 4.9 estrellas, de la Tienda oficial" },
+      { productMlaId: "MLA36681158", label: "La premium inalámbrica", labelColor: "purple", tagline: "Xiaomi G20 Lite: 16.000 Pa, hasta 45 minutos de batería" },
+    ],
+    intro: [
+      `La aspiradora de mano resuelve lo que un robot o una aspiradora de piso grande no hacen bien: sillones, autos, escaleras, rincones y limpiezas rápidas puntuales. La decisión real pasa por si te alcanza con una con cable (más barata, sin límite de batería) o necesitás una inalámbrica, y cuánto depósito y potencia necesitás según el uso.`,
+      `En esta guía comparamos las aspiradoras de mano más vendidas y mejor calificadas de MercadoLibre Argentina, con las contras reales que cuentan los compradores. Un aviso honesto antes de arrancar: dos de los cuatro modelos de esta guía son publicaciones de catálogo compartido con otros países de la región, así que buena parte de sus reseñas no son específicamente de Argentina. Lo aclaramos en cada ficha para que compres con los ojos abiertos.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_928530-MLA109897100656_042026-O.webp", alt: `Aspiradora Gadnic JTL60Y 2 en 1, vertical y de mano, la mejor elección general de esta guía`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, la **[Gadnic JTL60Y](/producto/aspiradora-gadnic-jtl60y-2-en-1-vertical-y-de-mano-600w-15kpa-filtro-hepa-lavabl-mla45758897)**: 2 en 1, 600W, filtro HEPA lavable y reseñas 100% argentinas. Si buscás **el precio más bajo e inalámbrica**, la **[Gadnic 9000Pa](/producto/aspiradora-de-mano-portatil-gadnic-9000pa-bateria-duradera-auto-y-hogar-120w-mla38465716)**. Si preferís **la mejor calificada** (con una aclaración importante sobre el origen de sus reseñas), la **[Electrolux STK12](/producto/aspiradora-vertical-electrolux-stks-verticais-stk12-1-2l-negra-50hz-60hz-3015akb-mla18781059)**. Y para **lo más potente e inalámbrico de gama alta**, la **[Xiaomi G20 Lite](/producto/aspiradora-xiaomi-g20-lite-mla36681158)**, aunque con stock limitado.` },
+
+      { type: "callout", calloutVariant: "note", calloutTitle: "¿Buscás un robot que limpie solo?", content: `Esta guía es sobre aspiradoras que **usás vos con la mano**: para sillones, autos y rincones. Si buscás un robot que aspire el piso solo, sin que lo empujes, mirá la [guía de robot aspiradora](/guias/robot-aspiradora): son dos productos distintos para necesidades distintas.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos las aspiradoras de mano con más ventas y opiniones reales en MercadoLibre Argentina. Las ordenamos por lo que define la compra: si funcionan con cable o a batería, la potencia, la capacidad del depósito y el precio. Cuando una publicación es de catálogo compartido con otros países de la región (y por lo tanto buena parte de sus reseñas no son de Argentina), lo aclaramos de frente en la ficha correspondiente. Los precios que ves en las fichas y tablas se revisan contra MercadoLibre periódicamente.` },
+
+      { type: "h2", title: `Qué mirar antes de comprar una aspiradora de mano`, id: "que-mirar" },
+      { type: "p", content: `Primero, **con cable o inalámbrica**: con cable no depende de batería y suele ser más barata, pero te limita a estar cerca de un tomacorriente; inalámbrica es más práctica pero tiene un límite de autonomía (entre 25 y 45 minutos en esta guía) y cuesta más. Segundo, **la capacidad del depósito**: de 530 mL en las compactas a 1,2 L en las 2 en 1, lo que define cuánto podés limpiar antes de vaciarla. Tercero, **el origen de las reseñas**: en MercadoLibre, algunas publicaciones de marcas internacionales comparten catálogo con otros países de la región, así que un número alto de opiniones no siempre significa que todas sean de compradores argentinos.` },
+      { type: "p", content: `Un detalle que se repite en las reseñas de la categoría: ninguna aspiradora de mano reemplaza a una de piso para una casa grande. Sirven para mantenimiento rápido y puntual (sillones, auto, rincones, escaleras), no para un baldeo o limpieza profunda de toda la casa.` },
+
+      { type: "h2", title: `Las mejores aspiradoras de mano 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Gadnic JTL60Y — mejor elección general` },
+      { type: "product-card", productMlaId: "MLA45758897", label: "Mejor elección general", labelColor: "green", ranking: 1, description: `2 en 1 vertical y de mano, 600W, filtro HEPA lavable. 4.7 estrellas en {{reviews:MLA45758897}} calificaciones, todas de Argentina.` },
+      { type: "p", content: `Es la aspiradora de mano que recomendamos a la mayoría: **2 en 1** (vertical para piso, de mano para sillones y rincones), **600W**, filtro **HEPA lavable** y depósito de 1L, a alrededor de {{precio:MLA45758897:k}}. Con {{reviews:MLA45758897}} calificaciones a 4.7 estrellas, todas verificadas en MercadoLibre Argentina, tiene la base de opiniones más grande de esta guía entre las que funcionan con cable.` },
+      { type: "p", content: `La contra real: funciona con cable de 5 m, así que depende de un tomacorriente cerca. Varias reseñas avisan que conviene darle pausas cada 20 minutos de uso seguido para no forzar los plásticos.` },
+      { type: "pull-quote", content: `"Excelente potencia, es pequeña y poderosa. Trae tres accesorios, para barrer y aspirar alfombras, esquinero y un cepillo más pequeño que sirve para tapizados. No le tenía fe. Muy satisfecha con la compra."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `2. Gadnic 9000Pa — la más barata` },
+      { type: "product-card", productMlaId: "MLA38465716", label: "La más barata", labelColor: "slate", ranking: 2, description: `Inalámbrica, compacta, para auto y hogar. 4.5 estrellas en {{reviews:MLA38465716}} calificaciones, todas de Argentina, la más barata de esta guía.` },
+      { type: "p", content: `La más barata de esta guía y la única compacta genuinamente inalámbrica: {{reviews:MLA38465716}} opiniones a 4.5 estrellas, todas de Argentina, a alrededor de {{precio:MLA38465716:k}}. Pesa 530 g, trae manguera, boquilla de esquina y cepillo, ideal para auto y limpiezas rápidas.` },
+      { type: "p", content: `La contra real: el depósito es chico (530 mL) y algunas reseñas avisan que la batería (hasta 25 minutos) dura justo lo necesario, sin margen extra.` },
+
+      { type: "h3", title: `3. Electrolux STK12 — la mejor calificada` },
+      { type: "product-card", productMlaId: "MLA18781059", label: "La mejor calificada", labelColor: "blue", ranking: 3, description: `2 en 1, de la Tienda oficial de Electrolux. {{rating:MLA18781059}} estrellas en {{reviews:MLA18781059}} calificaciones, la nota y el volumen más altos de esta guía.` },
+      { type: "p", content: `La calificación más alta de esta guía: {{rating:MLA18781059}} estrellas en {{reviews:MLA18781059}} opiniones, vendida por la Tienda oficial de Electrolux, a alrededor de {{precio:MLA18781059:k}}. Es 2 en 1, con certificación de seguridad eléctrica IRAM.` },
+      { type: "p", content: `La contra real, y un dato honesto que hay que aclarar: es una publicación de catálogo compartido con otros países de la región, así que la gran mayoría de esas miles de opiniones son de Brasil, no de Argentina. Encontramos una reseña real de un comprador argentino: avisa que el depósito se llena rápido y el filtro se obstruye.` },
+      { type: "pull-quote", content: `"Es impresionante el poder de aspirado que tiene. Es muy buena para un depto. No le doy 5 estrellas porque se llena muy rápido el recipiente y se empieza a obstruir el filtro."`, attribution: `Opinión verificada en MercadoLibre (comprador argentino)` },
+
+      { type: "h3", title: `4. Xiaomi G20 Lite — la premium inalámbrica` },
+      { type: "product-card", productMlaId: "MLA36681158", label: "La premium inalámbrica", labelColor: "purple", ranking: 4, description: `Inalámbrica de gama alta, 16.000 Pa de succión y hasta 45 minutos de batería. 4.8 estrellas en {{reviews:MLA36681158}} calificaciones, con stock limitado.` },
+      { type: "p", content: `La opción premium de esta guía: aspiradora inalámbrica de pie con **16.000 Pa** de succión declarados y batería de hasta **45 minutos**, a alrededor de {{precio:MLA36681158:k}}. Varias reseñas la comparan favorablemente contra marcas mucho más caras como Dyson.` },
+      { type: "p", content: `La contra real: es, por lejos, la más cara de esta guía, y al momento de esta nota la publicación mostraba stock muy limitado. Confirmá disponibilidad antes de decidirte.` },
+      { type: "pull-quote", content: `"Tengo una Dyson V15 que cuesta 9 veces esta y falló con errores típicos de Dyson. Esta que vale mucho menos tiene la misma utilidad, duración y eficacia."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h2", title: `Tabla comparativa: cable, potencia y precio`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Tipo`, `Cable/batería`, `Depósito`, `Rating`], rows: [
+        [`[Gadnic JTL60Y](/producto/aspiradora-gadnic-jtl60y-2-en-1-vertical-y-de-mano-600w-15kpa-filtro-hepa-lavabl-mla45758897)`, `{{precio:MLA45758897}}`, `2 en 1`, `Cable 5 m`, `1 L`, `{{rating:MLA45758897}} ({{reviews:MLA45758897}})`],
+        [`[Gadnic 9000Pa](/producto/aspiradora-de-mano-portatil-gadnic-9000pa-bateria-duradera-auto-y-hogar-120w-mla38465716)`, `{{precio:MLA38465716}}`, `De mano compacta`, `Batería, 25 min`, `530 mL`, `{{rating:MLA38465716}} ({{reviews:MLA38465716}})`],
+        [`[Electrolux STK12](/producto/aspiradora-vertical-electrolux-stks-verticais-stk12-1-2l-negra-50hz-60hz-3015akb-mla18781059)`, `{{precio:MLA18781059}}`, `2 en 1`, `Cable 6 m`, `1,2 L`, `{{rating:MLA18781059}} ({{reviews:MLA18781059}})`],
+        [`[Xiaomi G20 Lite](/producto/aspiradora-xiaomi-g20-lite-mla36681158)`, `{{precio:MLA36681158}}`, `Vertical inalámbrica`, `Batería, 45 min`, `550 mL`, `{{rating:MLA36681158}} ({{reviews:MLA36681158}})`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu aspiradora de mano`, id: "como-elegir" },
+      { type: "h3", title: `¿Con cable o inalámbrica?` },
+      { type: "p", content: `Con cable (Gadnic JTL60Y, Electrolux STK12) no depende de batería y suele salir menos, pero te limita a estar cerca de un tomacorriente. Inalámbrica (Gadnic 9000Pa, Xiaomi G20 Lite) es más práctica para el auto o mover por toda la casa, pero tiene un límite de autonomía y cuesta más, sobre todo en la gama alta.` },
+      { type: "h3", title: `¿Compacta para auto o 2 en 1 para toda la casa?` },
+      { type: "p", content: `Si el uso principal es el auto, sillones y rincones puntuales, una compacta como la [Gadnic 9000Pa](/producto/aspiradora-de-mano-portatil-gadnic-9000pa-bateria-duradera-auto-y-hogar-120w-mla38465716) alcanza y sale menos. Si querés que también haga de escoba para el piso todos los días, una 2 en 1 como la [Gadnic JTL60Y](/producto/aspiradora-gadnic-jtl60y-2-en-1-vertical-y-de-mano-600w-15kpa-filtro-hepa-lavabl-mla45758897) o la [Electrolux STK12](/producto/aspiradora-vertical-electrolux-stks-verticais-stk12-1-2l-negra-50hz-60hz-3015akb-mla18781059) rinden más.` },
+      { type: "h3", title: `¿De dónde son las reseñas que estás leyendo?` },
+      { type: "p", content: `En MercadoLibre, algunas publicaciones de marcas internacionales (como la Electrolux o la Xiaomi de esta guía) comparten catálogo con otros países de la región: el número de opiniones incluye compradores de Brasil, Chile, Uruguay y otros mercados, no solo Argentina. No significa que el producto sea malo, pero conviene saberlo antes de asumir que todas esas miles de calificaciones son de compradores locales.` },
+
+      { type: "h2", title: `Cuánto cuesta una aspiradora de mano en Argentina [septiembre 2026]`, id: "cuanto-cuesta" },
+      { type: "list", content: "Franjas de precio reales", items: [
+        `**Alrededor de {{precio:MLA38465716:k}}:** la [Gadnic 9000Pa](/producto/aspiradora-de-mano-portatil-gadnic-9000pa-bateria-duradera-auto-y-hogar-120w-mla38465716), la más barata de esta guía, inalámbrica y compacta.`,
+        `**Alrededor de {{precio:MLA45758897:k}} a {{precio:MLA18781059:k}}:** la [Gadnic JTL60Y](/producto/aspiradora-gadnic-jtl60y-2-en-1-vertical-y-de-mano-600w-15kpa-filtro-hepa-lavabl-mla45758897) y la [Electrolux STK12](/producto/aspiradora-vertical-electrolux-stks-verticais-stk12-1-2l-negra-50hz-60hz-3015akb-mla18781059), las dos 2 en 1 con cable.`,
+        `**Alrededor de {{precio:MLA36681158:k}}:** la [Xiaomi G20 Lite](/producto/aspiradora-xiaomi-g20-lite-mla36681158), la premium inalámbrica, la más cara de esta guía por lejos.`,
+      ] },
+
+      { type: "verdict", content: `Para la mayoría, la **[Gadnic JTL60Y](/producto/aspiradora-gadnic-jtl60y-2-en-1-vertical-y-de-mano-600w-15kpa-filtro-hepa-lavabl-mla45758897)** es la compra más segura: 2 en 1, 600W, filtro HEPA lavable y reseñas 100% argentinas. Si el precio manda y querés inalámbrica, la **[Gadnic 9000Pa](/producto/aspiradora-de-mano-portatil-gadnic-9000pa-bateria-duradera-auto-y-hogar-120w-mla38465716)** es la más barata. Si preferís la calificación más alta, sabiendo que buena parte de sus reseñas son regionales y no solo argentinas, la **[Electrolux STK12](/producto/aspiradora-vertical-electrolux-stks-verticais-stk12-1-2l-negra-50hz-60hz-3015akb-mla18781059)**. Y si querés lo más potente e inalámbrico de gama alta, con stock limitado, la **[Xiaomi G20 Lite](/producto/aspiradora-xiaomi-g20-lite-mla36681158)**.` },
+    ],
+    faq: [
+      { question: `¿Cuál es la mejor aspiradora de mano en Argentina?`, answer: `Para la mayoría, la [Gadnic JTL60Y](/producto/aspiradora-gadnic-jtl60y-2-en-1-vertical-y-de-mano-600w-15kpa-filtro-hepa-lavabl-mla45758897): 2 en 1, 600W, filtro HEPA lavable y reseñas 100% argentinas. Si buscás la más barata, la [Gadnic 9000Pa](/producto/aspiradora-de-mano-portatil-gadnic-9000pa-bateria-duradera-auto-y-hogar-120w-mla38465716).` },
+      { question: `¿Aspiradora de mano con cable o inalámbrica?`, answer: `Con cable no depende de batería y suele salir menos, pero te limita a estar cerca de un tomacorriente. Inalámbrica es más práctica pero tiene un límite de autonomía (25 a 45 minutos en esta guía) y cuesta más.` },
+      { question: `¿Es lo mismo una aspiradora de mano que un robot aspiradora?`, answer: `No. La aspiradora de mano la usás vos, para sillones, auto y rincones. El robot aspiradora anda solo por el piso, sin que lo empujes. Son herramientas distintas: mirá la [guía de robot aspiradora](/guias/robot-aspiradora) si buscás esa segunda.` },
+      { question: `¿Por qué algunas fichas de esta guía aclaran que las reseñas no son solo de Argentina?`, answer: `Porque la Electrolux STK12 y la Xiaomi G20 Lite son publicaciones de catálogo compartido con otros países de la región: el número de opiniones incluye compradores de Brasil, Chile, Uruguay y otros mercados. Lo aclaramos de frente para que compres con los ojos abiertos.` },
+      { question: `¿Cuánto dura la batería de una aspiradora de mano inalámbrica?`, answer: `Entre 25 minutos (Gadnic 9000Pa, compacta) y 45 minutos (Xiaomi G20 Lite, premium) en los modelos de esta guía. Alcanza para una limpieza rápida completa, pero no para uso continuo por horas.` },
+      { question: `¿Vale la pena pagar por una premium como la Xiaomi G20 Lite?`, answer: `Si vas a usarla como aspiradora principal de la casa y el presupuesto te lo permite, sí: más potencia, más autonomía y accesorios completos. Para uso ocasional o de auto, la Gadnic 9000Pa (mucho más barata) alcanza.` },
+    ],
+    internalLinks: [
+      { label: "Robot aspiradora: guía completa y mejores modelos", href: "/guias/robot-aspiradora" },
+      { label: "Cómo funciona una robot aspiradora", href: "/guias/como-funciona-robot-aspiradora" },
+      { label: "Freidora de aire: cuál comprar en Argentina", href: "/guias/mejores-freidoras-de-aire-argentina" },
+      { label: "Batidora: cuál comprar en Argentina", href: "/guias/cocina/batidora" },
+    ],
+    internalLinksTitle: "Más para tu hogar",
+  },
 ];
 
 /**
@@ -30378,6 +30500,11 @@ export const guideCategories: Record<string, { name: string; description: string
     name: "Guía de Aspiradoras Robot",
     description:
       "Cuál mapea y cuál choca, cuál trapea de verdad y desde cuánto sale uno que valga la pena. Las más vendidas, comparadas.",
+  },
+  "aspiradora-de-mano": {
+    name: "Guía de Aspiradora de Mano",
+    description:
+      "Con cable o inalámbrica, compacta o 2 en 1: cuál conviene según el uso. Las más vendidas de MercadoLibre, comparadas.",
   },
   cafeteras: {
     name: "Guía de Cafeteras",
