@@ -1959,4 +1959,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "43",
     postedAt: "2026-09-08T09:27:04-03:00",
   },
+  {
+    title: 'Smart TV Samsung 50" UHD 4K 50U8000F',
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_813072-MLA115849865992_092026-O.webp",
+    affiliateUrl: "https://meli.la/2qa9jL5",
+    newPrice: "699.999",
+    oldPrice: "917.999",
+    offPct: "23",
+    postedAt: "2026-09-08T10:10:56-03:00",
+  },
 ];
