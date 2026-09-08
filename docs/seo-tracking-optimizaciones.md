@@ -1970,7 +1970,92 @@ local verificado en el navegador. Las 4 imágenes verificadas con GET real (2.39
 
 Re-medir: **~2026-10-06** (≈4 semanas), contra baseline cero.
 
-## 2026-09-08 — Guía nueva `deshidratador-de-alimentos` (silo cocina, categoría nueva, 4 fichas nuevas) — sexta de un segundo lote
+## 2026-09-08 — Guía nueva `arrocera-electrica` (silo cocina, categoría nueva, 4 fichas nuevas) — séptima y última de un segundo lote
+
+| Guía | Silo | Categoría | Keyword | Volumen (Ubersuggest AR) | SD | Productos |
+| :-- | :-- | :-- | :-- | --: | --: | --: |
+| `arrocera-electrica` | cocina | arrocera-electrica | arrocera eléctrica | 1.900 | 16 | 4 |
+
+**Baseline: cero.** URL nueva, sin historial en GSC. Séptima y última guía del segundo lote. Sin
+canibalización: cero menciones previas de "arrocera" en todo el sitio.
+
+**4 fichas nuevas importadas desde cero**, todas verificadas en vivo en MercadoLibre Argentina: Yelmo
+AR-9801 (vapor, 1.8L, $63.999, 4.8★/**1.004 reseñas** — la base más grande, la más elegida y más barata),
+Novohome NH-OM900 (a presión, 5L, 13 funciones, $98.899, 4.7★/431 reseñas, mayor capacidad), Gadnic
+Riceron (1.5L, multi función, $124.999, 4.5★/934 reseñas, la más compacta), Oster 8030b (10 en 1, 2.2L,
+$495.715, 4.7★/130 reseñas, marca internacional y la más cara por lejos).
+
+**Incidente técnico real y nuevo para el sitio: primera ficha con ID de MercadoLibre en formato `MLAU`
+(no `MLA`).** La Yelmo AR-9801 usa el ID `MLAU2857208489`, un formato que MercadoLibre asigna a ciertos
+listados individuales de vendedor (no fichas de catálogo compartido). Se confirmó que el código del sitio
+ya soporta esto: `parseProductSlug()` en `src/lib/product-url.ts` matchea `MLAU?` con regex. El
+`permalink` de esta ficha usa el patrón real de ML para este tipo de ID (`/up/MLAU...`, no `/p/MLA...`),
+verificado navegando la página real. El slug interno del sitio se calculó con el mismo `productSlug()`
+que el resto y se confirmó visualmente en el navegador que resuelve bien.
+
+**Incidente operativo real durante el sourcing: fricción severa para encontrar productos con ID
+resoluble.** Varios candidatos fuertes (Yelmo por Google, Gadnic Riceron, Oster 8030b) solo mostraban
+snippets de Google sin el ID visible en el texto, y el patrón `/p/MLA` de búsqueda no los encontraba
+directamente. Se resolvió extrayendo el `href` real del resultado de Google vía
+`document.querySelectorAll('a[href*="mercadolibre.com.ar"][href*="/p/MLA"]')` en JavaScript (Chrome real),
+en vez de depender del texto visible o de clickear con coordenadas (que falló repetidamente por problemas
+de viewport del navegador interno quedando en 0x0 al estar en background/oculto). **Lección: cuando el
+texto de Google no muestra el ID directamente, extraer el `href` real vía JS de los enlaces de resultado
+es más confiable que clickear.**
+
+**2 candidatos descartados por estar sin stock** (Philco PPA12pi, 1.030 reseñas reales pero
+`availability: OutOfStock` y `price: 0`; una ficha de Gadnic Riceron con ID `MLA2075358762` también
+`OutOfStock`) — mismo patrón ya establecido esta sesión de descartar por `price: 0`.
+
+**Corrección propia real antes de auditar: `labelColor: "coral"` (valor inválido del enum).** Mismo error
+ya cometido una vez antes en esta sesión (guía `exprimidor`). Detectado por revisión propia antes de
+correr `tsc` (que también lo habría atrapado), corregido a `"slate"` en las 2 ocurrencias con un
+`replace_all` acotado al valor exacto del enum (seguro, no una frase de prosa compartida).
+
+**Auditoría del trío: 1 sola ronda, GO de `agy`, sin ediciones no autorizadas.** `agy` cubrió también los
+puntos técnicos de Codex en su propio reporte, incluida la verificación específica del manejo del ID
+`MLAU`.
+
+**Incidente operativo: caída de acceso de Codex confirmada persistente en las 5 guías de este lote donde
+se intentó tras el primer fallo.** Ver memoria del proyecto [[codex-cuenta-chatgpt-puede-perder-acceso-a-modelo]].
+
+**Verificación:** `npx tsc --noEmit`, los 4 scripts de `guides:check` que no dependen de `affiliateUrl`,
+`check-hardcoded-reviews`, `node scripts/check-price-guard.cjs` y `npm run build` en verde. Render local
+verificado en el navegador, incluida la página de producto con ID `MLAU`. Las 4 imágenes verificadas con
+GET real (5.652 a 18.150 bytes).
+
+Re-medir: **~2026-10-06** (≈4 semanas), contra baseline cero.
+
+---
+
+**Cierre del segundo lote de 7 guías nuevas (2026-09-08), armadas en modo `/loop` autónomo:**
+lavavajillas, balanza-de-cocina, picadora-de-carne, purificador-de-aire, campana-extractora,
+deshidratador-de-alimentos y arrocera-electrica. Las 7 quedaron auditadas (6 con GO de `agy` + verificación
+mecánica completa de Claude; solo `lavavajillas` tuvo las 2 rondas completas del trío antes de que Codex
+perdiera acceso a su modelo) y commiteadas el mismo día, con 24 fichas nuevas en total. De esas 24,
+las 4 de `deshidratador-de-alimentos` ya tienen link real de afiliado aplicado (Juan los pasó durante la
+sesión); las 20 restantes (lavavajillas, balanza-de-cocina, picadora-de-carne, purificador-de-aire,
+campana-extractora, arrocera-electrica) siguen con `affiliateUrl: "PEGAR_MELI_LA"` pendiente.
+
+**Incidente más consequente del lote: caída de acceso de Codex a mitad de sesión** (404 persistente en el
+modelo `gpt-5.5` de la cuenta ChatGPT configurada, a partir de la tercera guía del lote). Documentado y
+memorizado ([[codex-cuenta-chatgpt-puede-perder-acceso-a-modelo]]) — requiere que Juan revise el
+acceso/plan de esa cuenta. Mitigación aplicada: cerrar cada guía con el GO de `agy` (que cubre también los
+puntos técnicos del rol de Codex en su propio reporte) más la verificación mecánica completa de Claude, sin
+bloquear el avance del lote.
+
+**Segundo aprendizaje operativo del lote: preferir el navegador interno sobre el Chrome real de Juan.**
+Corrección de Juan a mitad de sesión (memoria [[browser-preferir-interno-no-chrome-real]]): controlar su
+Chrome real le interfiere si está usando la computadora. Aplicado desde `purificador-de-aire` en adelante:
+navegador interno primero para búsquedas de listado, Chrome real solo como último recurso para páginas de
+producto individuales que el interno bloquea, cerrando las pestañas apenas se termina.
+
+**Tercer aprendizaje: la extracción de `href` real vía JavaScript es más confiable que clickear resultados
+de Google cuando el texto no muestra el ID del producto directamente** (ver detalle en la entrada de
+`arrocera-electrica` arriba) — útil para sourcing futuro en categorías donde los productos son
+mayoritariamente listados individuales de vendedor sin ficha de catálogo compartida.
+
+ (silo cocina, categoría nueva, 4 fichas nuevas) — sexta de un segundo lote
 
 | Guía | Silo | Categoría | Keyword | Volumen (Ubersuggest AR) | SD | Productos |
 | :-- | :-- | :-- | :-- | --: | --: | --: |

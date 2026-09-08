@@ -31213,6 +31213,120 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     ],
     internalLinksTitle: "Más para tu cocina",
   },
+  // Guía nueva arrocera-electrica — silo cocina, categoría nueva
+  // Origen: research propio 2026-09-08. Keyword "arrocera eléctrica"
+  // 1.900/mes, SD 16. Sin canibalización: cero menciones previas de
+  // "arrocera" en el sitio como categoría propia. Séptima y última
+  // guía del segundo lote.
+  // 4 fichas nuevas importadas el mismo día (ver curated-products.ts).
+  // Nota: la Yelmo AR-9801 tiene ID con prefijo MLAU (no MLA); su
+  // permalink real de MercadoLibre usa el patrón /up/ en vez de /p/.
+  // El sitio ya soporta MLAU en parseProductSlug() de product-url.ts.
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "arrocera-electrica",
+    category: "arrocera-electrica",
+    silo: "cocina",
+    pillar: true,
+    title: `Arrocera Eléctrica: cuál comprar en Argentina [2026]`,
+    seoTitle: `Arrocera Eléctrica: Cuál Comprar en Argentina | 2026`,
+    metaDescription: `Descubrí qué arrocera eléctrica comprar en Argentina: la más elegida, a presión o multifunción. Precios reales de MercadoLibre y contras honestas.`,
+    ogTitle: `Arrocera eléctrica: cuál comprar en Argentina`,
+    ogDescription: `Yelmo, Novohome, Gadnic y Oster comparadas: simple al vapor, a presión o compacta. Precios reales de MercadoLibre y las contras que nadie cuenta.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_997747-MLA88660047918_072025-O.webp`,
+    h1: `Arrocera eléctrica: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene la **[Yelmo AR-9801](/producto/yelmo-ar-9801-arrocera-electrica-700w-1-8l-al-vapor-mlau2857208489)** (alrededor de {{precio:MLAU2857208489:k}}): por lejos la más elegida y la más barata. Si cocinás para varios y querés cocción a presión, la **[Novohome NH-OM900](/producto/arrocera-olla-electrica-a-presion-multifuncion-novohome-panel-digital-5-litros-1-mla55016702)** (5L). Si tenés poco espacio o cocinás para 1-3 personas, la **[Gadnic Riceron](/producto/arrocera-electrica-cuk-by-gadnic-riceron-olla-electrica-multi-funcion-1-5l-mla19840167)**. Y si priorizás una marca internacional, la **[Oster 8030b](/producto/olla-arrocera-multifuncion-10-en-1-oster-8030b-color-negro-frecuencia-50-hz-mla23335355)**, sabiendo que es la más cara por lejos.`,
+    publishedDate: "2026-09-08",
+    updatedDate: "2026-09-08",
+    hasDisclosure: true,
+    readingTime: 8,
+    standfirst: `Una arrocera eléctrica va de {{precio:MLAU2857208489:k}} (la más elegida) a {{precio:MLA23335355:k}} (marca internacional). La decisión real pasa por si necesitás solo arroz al vapor o cocción a presión y multifunción, no solo por precio. Te mostramos cuál conviene, con precios reales de MercadoLibre.`,
+    quickPicks: [
+      { productMlaId: "MLAU2857208489", label: "Mejor elección general", labelColor: "green", tagline: "Yelmo AR-9801: por lejos la más elegida" },
+      { productMlaId: "MLA55016702", label: "A presión, mayor capacidad", labelColor: "amber", tagline: "Novohome NH-OM900: 5L, 13 funciones" },
+      { productMlaId: "MLA19840167", label: "La más compacta", labelColor: "purple", tagline: "Gadnic Riceron: 1.5L, ideal 1-3 personas" },
+      { productMlaId: "MLA23335355", label: "Marca internacional", labelColor: "slate", tagline: "Oster 8030b: 10 en 1, la más cara" },
+    ],
+    intro: [
+      `La arrocera eléctrica resuelve algo simple: cocinar arroz sin quemarlo ni tener que estar controlando el punto justo de agua. La decisión real pasa por si necesitás solo eso (arroz al vapor) o si te sirve cocción a presión y funciones extra (sopa, yogur, guisos), no solo por el precio.`,
+      `En esta guía comparamos las arroceras eléctricas más vendidas y mejor calificadas de MercadoLibre Argentina, con las contras reales que cuentan los compradores: desde manuales poco detallados hasta el ahorro real de tiempo que da cocinar a presión.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_997747-MLA88660047918_072025-O.webp", alt: `Arrocera eléctrica Yelmo AR-9801, la más elegida de esta guía`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, la **[Yelmo AR-9801](/producto/yelmo-ar-9801-arrocera-electrica-700w-1-8l-al-vapor-mlau2857208489)**: por lejos la más elegida y la más barata. Si cocinás para varios y querés **cocción a presión**, la **[Novohome NH-OM900](/producto/arrocera-olla-electrica-a-presion-multifuncion-novohome-panel-digital-5-litros-1-mla55016702)** (5L). Si tenés **poco espacio o cocinás para 1-3 personas**, la **[Gadnic Riceron](/producto/arrocera-electrica-cuk-by-gadnic-riceron-olla-electrica-multi-funcion-1-5l-mla19840167)**. Y si priorizás **una marca internacional**, la **[Oster 8030b](/producto/olla-arrocera-multifuncion-10-en-1-oster-8030b-color-negro-frecuencia-50-hz-mla23335355)**.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos las arroceras eléctricas con más ventas y opiniones reales en MercadoLibre Argentina. Las ordenamos por lo que define la compra: sistema de cocción (vapor o presión), capacidad, cantidad de funciones y precio. Las calificaciones y las contras son de compradores reales. Los precios que ves en las fichas y tablas se revisan contra MercadoLibre periódicamente.` },
+
+      { type: "h2", title: `Qué mirar antes de comprar una arrocera eléctrica`, id: "que-mirar" },
+      { type: "p", content: `Primero, **el sistema de cocción**: al vapor (más simple, más común) o a presión (más rápido, sobre todo para carnes y guisos, pero con una curva de aprendizaje). Segundo, **la capacidad**: para 1-3 personas alcanza con 1,5-2L; para familias más grandes conviene 5L o más. Tercero, **las funciones extra**: sopa, yogur, guisos o mantener caliente pueden reemplazar otros electrodomésticos si los usás seguido.` },
+      { type: "p", content: `Un detalle honesto de la categoría: varias reseñas de esta guía coinciden en que los manuales que vienen con estas arroceras son poco detallados, sobre todo para explicar las proporciones exactas de agua y arroz. Conviene buscar la referencia (1 de arroz por 2 de agua es una base común) y ajustar con la práctica.` },
+
+      { type: "h2", title: `Las mejores arroceras eléctricas 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Yelmo AR-9801 — mejor elección general` },
+      { type: "product-card", productMlaId: "MLAU2857208489", label: "Mejor elección general", labelColor: "green", ranking: 1, description: `1.8L, cocción al vapor, con vaporera incluida. 4.8 estrellas en {{reviews:MLAU2857208489}} calificaciones, la base más grande de esta guía por lejos.` },
+      { type: "p", content: `Es la arrocera que recomendamos a la mayoría: **1.8L**, cocción al vapor y viene con vaporera, cuchara y taza medidora, a alrededor de {{precio:MLAU2857208489:k}}. Con {{reviews:MLAU2857208489}} calificaciones a 4.8 estrellas, es por lejos la más elegida de esta guía, y también la más barata.` },
+      { type: "p", content: `La contra real: es solo para arroz y vapor, sin las funciones extra (sopa, yogur, presión) de otras opciones de esta guía.` },
+      { type: "pull-quote", content: `"La arrocera es muy fácil de usar y el arroz queda perfecto, incluso para sushi."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `2. Novohome NH-OM900 — a presión, mayor capacidad` },
+      { type: "product-card", productMlaId: "MLA55016702", label: "A presión, mayor capacidad", labelColor: "amber", ranking: 2, description: `5L, cocción a presión, 13 funciones. 4.7 estrellas en {{reviews:MLA55016702}} calificaciones.` },
+      { type: "p", content: `La opción de mayor capacidad de esta guía: **5L**, cocción a presión, 13 funciones y pantalla digital programable, a alrededor de {{precio:MLA55016702:k}}.` },
+      { type: "p", content: `La contra real: varias reseñas coinciden en que el manual es poco detallado, así que hay que ir probando las funciones por ensayo y error.` },
+      { type: "pull-quote", content: `"Cocinar carnes y que se desarmen. Todo se reduce a la mitad de tiempo al menos lo que pude comprobar."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `3. Gadnic Riceron — la más compacta` },
+      { type: "product-card", productMlaId: "MLA19840167", label: "La más compacta", labelColor: "purple", ranking: 3, description: `1.5L, multi función, ideal 1-3 personas. 4.5 estrellas en {{reviews:MLA19840167}} calificaciones.` },
+      { type: "p", content: `La opción más compacta de esta guía: **1.5L**, pensada para 1-3 personas, con funciones de arroz, sopa, avena, vapor, yogur y guisos, a alrededor de {{precio:MLA19840167:k}}.` },
+      { type: "p", content: `La contra real: la tapa no tiene de dónde agarrar (riesgo de quemarse con el vapor), y el manual tampoco explica bien las proporciones de agua y arroz.` },
+
+      { type: "h3", title: `4. Oster 8030b — marca internacional` },
+      { type: "product-card", productMlaId: "MLA23335355", label: "Marca internacional", labelColor: "slate", ranking: 4, description: `10 en 1, 2.2L, marca reconocida. 4.7 estrellas en {{reviews:MLA23335355}} calificaciones (las menos de esta guía).` },
+      { type: "p", content: `La opción de marca internacional de esta guía: 10 funciones, 2.2L y pantalla digital, a alrededor de {{precio:MLA23335355:k}}, por lejos la más cara de las cuatro.` },
+      { type: "p", content: `La contra real: tiene bastantes menos calificaciones que el resto, y una reseña la comparó desfavorablemente contra otro modelo Oster más chico que, según ella, rinde igual o mejor por menos.` },
+
+      { type: "h2", title: `Tabla comparativa: cocción, capacidad y precio`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Cocción`, `Capacidad`, `Funciones`, `Rating`], rows: [
+        [`[Yelmo AR-9801](/producto/yelmo-ar-9801-arrocera-electrica-700w-1-8l-al-vapor-mlau2857208489)`, `{{precio:MLAU2857208489}}`, `Vapor`, `1,8 L`, `Arroz, vapor`, `{{rating:MLAU2857208489}} ({{reviews:MLAU2857208489}})`],
+        [`[Novohome NH-OM900](/producto/arrocera-olla-electrica-a-presion-multifuncion-novohome-panel-digital-5-litros-1-mla55016702)`, `{{precio:MLA55016702}}`, `A presión`, `5 L`, `13 funciones`, `{{rating:MLA55016702}} ({{reviews:MLA55016702}})`],
+        [`[Gadnic Riceron](/producto/arrocera-electrica-cuk-by-gadnic-riceron-olla-electrica-multi-funcion-1-5l-mla19840167)`, `{{precio:MLA19840167}}`, `Vapor`, `1,5 L`, `Arroz, sopa, yogur, avena`, `{{rating:MLA19840167}} ({{reviews:MLA19840167}})`],
+        [`[Oster 8030b](/producto/olla-arrocera-multifuncion-10-en-1-oster-8030b-color-negro-frecuencia-50-hz-mla23335355)`, `{{precio:MLA23335355}}`, `Vapor`, `2,2 L`, `10 en 1`, `{{rating:MLA23335355}} ({{reviews:MLA23335355}})`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu arrocera eléctrica`, id: "como-elegir" },
+      { type: "h3", title: `¿Vapor o a presión?` },
+      { type: "p", content: `Para arroz simple, el vapor de la [Yelmo](/producto/yelmo-ar-9801-arrocera-electrica-700w-1-8l-al-vapor-mlau2857208489) alcanza de sobra. Si también querés cocinar carnes y guisos en la mitad de tiempo, la [Novohome](/producto/arrocera-olla-electrica-a-presion-multifuncion-novohome-panel-digital-5-litros-1-mla55016702) con cocción a presión de esta guía es la opción correcta.` },
+      { type: "h3", title: `¿Cuántas personas cocinás?` },
+      { type: "p", content: `Para 1-3 personas, la [Gadnic Riceron](/producto/arrocera-electrica-cuk-by-gadnic-riceron-olla-electrica-multi-funcion-1-5l-mla19840167) (1.5L) de esta guía alcanza y ocupa poco espacio. Para familias más grandes, la [Novohome](/producto/arrocera-olla-electrica-a-presion-multifuncion-novohome-panel-digital-5-litros-1-mla55016702) (5L) rinde mucho más por tanda.` },
+      { type: "h3", title: `¿Vale la pena pagar por una marca internacional?` },
+      { type: "p", content: `Si te importa el respaldo de una marca reconocida y no te importa pagar bastante más, la [Oster](/producto/olla-arrocera-multifuncion-10-en-1-oster-8030b-color-negro-frecuencia-50-hz-mla23335355) de esta guía cumple. Si el presupuesto manda, las otras tres opciones rinden igual de bien a una fracción del precio.` },
+
+      { type: "h2", title: `Cuánto cuesta una arrocera eléctrica en Argentina [septiembre 2026]`, id: "cuanto-cuesta" },
+      { type: "list", content: "Franjas de precio reales", items: [
+        `**Alrededor de {{precio:MLAU2857208489:k}}:** la [Yelmo AR-9801](/producto/yelmo-ar-9801-arrocera-electrica-700w-1-8l-al-vapor-mlau2857208489), la más elegida y más barata de esta guía.`,
+        `**Alrededor de {{precio:MLA55016702:k}} a {{precio:MLA19840167:k}}:** la [Novohome](/producto/arrocera-olla-electrica-a-presion-multifuncion-novohome-panel-digital-5-litros-1-mla55016702) (a presión) y la [Gadnic Riceron](/producto/arrocera-electrica-cuk-by-gadnic-riceron-olla-electrica-multi-funcion-1-5l-mla19840167) (compacta).`,
+        `**Alrededor de {{precio:MLA23335355:k}}:** la [Oster 8030b](/producto/olla-arrocera-multifuncion-10-en-1-oster-8030b-color-negro-frecuencia-50-hz-mla23335355), la opción de marca internacional, por lejos la más cara de esta guía.`,
+      ] },
+
+      { type: "verdict", content: `Para la mayoría, la **[Yelmo AR-9801](/producto/yelmo-ar-9801-arrocera-electrica-700w-1-8l-al-vapor-mlau2857208489)** es la compra más segura: por lejos la más elegida y la más barata de esta guía. Si cocinás para varios y querés cocción a presión, la **[Novohome NH-OM900](/producto/arrocera-olla-electrica-a-presion-multifuncion-novohome-panel-digital-5-litros-1-mla55016702)**. Si tenés poco espacio, la **[Gadnic Riceron](/producto/arrocera-electrica-cuk-by-gadnic-riceron-olla-electrica-multi-funcion-1-5l-mla19840167)**. Y si priorizás una marca internacional, la **[Oster 8030b](/producto/olla-arrocera-multifuncion-10-en-1-oster-8030b-color-negro-frecuencia-50-hz-mla23335355)**, sabiendo que es la más cara por lejos.` },
+    ],
+    faq: [
+      { question: `¿Cuál es la mejor arrocera eléctrica en Argentina?`, answer: `Para la mayoría, la [Yelmo AR-9801](/producto/yelmo-ar-9801-arrocera-electrica-700w-1-8l-al-vapor-mlau2857208489): por lejos la más elegida y la más barata. Si necesitás cocción a presión, la [Novohome NH-OM900](/producto/arrocera-olla-electrica-a-presion-multifuncion-novohome-panel-digital-5-litros-1-mla55016702).` },
+      { question: `¿Cuál es la diferencia entre cocinar al vapor y a presión?`, answer: `El vapor es más simple y suficiente para arroz; la cocción a presión reduce a la mitad el tiempo de cocción de carnes y guisos, aunque tiene una curva de aprendizaje mayor, según reseñas reales de la Novohome de esta guía.` },
+      { question: `¿Cuánta agua y arroz hay que poner?`, answer: `Una proporción común es 1 de arroz por 2 de agua, aunque puede variar según el modelo. Varias reseñas de esta guía avisan que los manuales incluidos no siempre son precisos, así que conviene ajustar con la práctica.` },
+      { question: `¿Cuál conviene para 1 o 2 personas?`, answer: `La [Gadnic Riceron](/producto/arrocera-electrica-cuk-by-gadnic-riceron-olla-electrica-multi-funcion-1-5l-mla19840167) de esta guía (1.5L) está pensada específicamente para 1-3 personas y ocupa poco espacio.` },
+      { question: `¿Sirven para hacer arroz de sushi?`, answer: `Sí, según reseñas reales de la Yelmo de esta guía, que la usaron específicamente para arroz de sushi con buen resultado.` },
+      { question: `¿Vale la pena pagar por una marca internacional como Oster?`, answer: `Si valorás el respaldo de una marca reconocida y no te importa pagar bastante más, sí. Si el presupuesto manda, la Yelmo, la Novohome o la Gadnic Riceron de esta guía cumplen igual de bien a una fracción del precio.` },
+    ],
+    internalLinks: [
+      { label: "Batidora: cuál comprar en Argentina", href: "/guias/cocina/batidora" },
+      { label: "Lavavajillas: cuál comprar en Argentina", href: "/guias/cocina/lavavajillas" },
+      { label: "Picadora de carne: cuál comprar en Argentina", href: "/guias/cocina/picadora-de-carne" },
+      { label: "Deshidratador de alimentos: cuál comprar en Argentina", href: "/guias/cocina/deshidratador-de-alimentos" },
+    ],
+    internalLinksTitle: "Más para tu cocina",
+  },
 ];
 
 /**
@@ -31596,6 +31710,11 @@ export const guideCategories: Record<string, { name: string; description: string
     name: "Guía de Deshidratador de Alimentos",
     description:
       "Cuántas bandejas necesitás y si te sirve un temporizador digital: los más vendidos y mejor calificados de MercadoLibre, comparados.",
+  },
+  "arrocera-electrica": {
+    name: "Guía de Arrocera Eléctrica",
+    description:
+      "Simple al vapor, a presión o multifunción: cuál conviene según cuánta gente cocinás. Las más vendidas y mejor calificadas de MercadoLibre, comparadas.",
   },
   climatizacion: {
     name: "Guías de Climatización",

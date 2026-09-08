@@ -89415,6 +89415,261 @@ Para quien ya decidió esta marca en particular, o quiere aprovecharlo también 
       { question: "¿Trae garantía?", answer: "La ficha de MercadoLibre no detalla el plazo de garantía de fábrica de este modelo puntual; confirmalo en la publicación antes de comprar." },
     ],
   },
+  {
+    id: "MLAU2857208489",
+    title: "Yelmo Ar 9801 Arrocera Eléctrica 700w 1.8l Al Vapor",
+    canonicalName: "Yelmo AR-9801", mpn: "AR-9801", brand: "Yelmo",
+    price: 63999, currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_997747-MLA88660047918_072025-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_997747-MLA88660047918_072025-O.webp"],
+    category: "Cocina", categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/yelmo-ar-9801-arrocera-electrica-700w-18l-al-vapor/up/MLAU2857208489",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new", freeShipping: true, rating: 4.8, reviewCount: 1004,
+    pastelColor: "var(--pastel-blue)",
+    priceUpdated: "2026-09-08", priceLastChecked: "2026-09-08", priceStatus: "fresh", reviewsSampledAt: "2026-09-08",
+    specs: [
+      { label: "Marca", value: "Yelmo" },
+      { label: "Modelo", value: "AR-9801" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Potencia", value: "700 W" },
+      { label: "Capacidad", value: "1,8 L" },
+      { label: "Material de la tapa", value: "Vidrio templado" },
+      { label: "Con función mantener caliente", value: "Sí" },
+      { label: "Accesorios incluidos", value: "Cuchara, taza medidora, vaporera" },
+      { label: "Recubrimiento", value: "Antiadherente" },
+    ],
+    relatedProducts: ["MLA55016702", "MLA19840167", "MLA23335355"],
+    description: "Arrocera eléctrica Yelmo AR-9801, 1.8L, cocción al vapor. La más elegida de esta comparativa, con más de 1.000 calificaciones.",
+    seoTitle: "Yelmo AR-9801: la arrocera eléctrica más elegida",
+    metaDescription: "Yelmo AR-9801 a {{precio:MLAU2857208489}}: 1.8L, cocción al vapor y {{reviews:MLAU2857208489}} calificaciones. La más elegida de esta comparativa.",
+    ogTitle: "Yelmo AR-9801: arrocera eléctrica con vaporera, la más elegida",
+    ogDescription: "700W, 1.8L, tapa de vidrio templado, con vaporera incluida. La más elegida y más barata de esta comparativa.",
+    h1: "Yelmo AR-9801: arrocera eléctrica, la más elegida de esta comparativa",
+    verdict: "La arrocera eléctrica más elegida de esta comparativa, por lejos: {{reviews:MLAU2857208489}} calificaciones a 4.8 estrellas, muchas más que cualquier otra opción, y también la más barata a {{precio:MLAU2857208489}}. Tiene 1.8L de capacidad, cocción al vapor y viene con vaporera, cuchara y taza medidora. Sirve tanto para arroz común como para arroz de sushi, según reseñas reales.",
+    pros: [
+      "La más elegida de esta comparativa, con {{reviews:MLAU2857208489}} calificaciones",
+      "También la más barata de las cuatro",
+      "4.8 estrellas, la calificación más alta de esta comparativa",
+      "Trae vaporera, cuchara y taza medidora incluidas",
+    ],
+    cons: [
+      "Es solo para arroz y vapor, sin las funciones extra (sopa, yogur, presión) de otras opciones de esta comparativa",
+      "Capacidad de 1.8L, no tan grande como la Novohome de esta comparativa",
+      "No tiene pantalla digital ni programación, según su ficha técnica",
+    ],
+    articleBody: `## La más elegida de esta comparativa, por lejos
+
+La Yelmo AR-9801 es la arrocera eléctrica más elegida de esta comparativa: {{reviews:MLAU2857208489}} calificaciones a 4.8 estrellas, muchas más que el resto. Cuesta {{precio:MLAU2857208489}}, la más barata de esta comparativa. Tiene 1.8L de capacidad, cocción al vapor y viene con vaporera, cuchara y taza medidora.
+
+## Lo que dicen los compradores reales
+
+Las reseñas confirman que sirve tanto para arroz común como para arroz de sushi: "la arrocera es muy fácil de usar y el arroz queda perfecto, incluso para sushi". Otra reseña muy detallada explica el uso completo: 1 de arroz y 2 de agua, dejar reposar y usar la vaporera para verduras al mismo tiempo, todo en 20 minutos sin tener que vigilarla.
+
+## Para quién es
+
+Para quien busca una arrocera simple y confiable para el uso más común (arroz al vapor, con o sin vaporera para acompañar), con el mejor respaldo de opiniones reales de esta comparativa. Si necesitás más funciones (sopa, yogur, cocción a presión), la Novohome o la Gadnic Riceron de esta comparativa suman esas opciones.`,
+    faq: [
+      { question: "¿Sirve para arroz de sushi?", answer: "Sí, según reseñas reales que la usaron específicamente para arroz de sushi con buen resultado." },
+      { question: "¿Cuántas calificaciones tiene?", answer: "{{reviews:MLAU2857208489}} calificaciones a {{rating:MLAU2857208489}} estrellas, la base de opiniones más grande de esta comparativa por lejos." },
+      { question: "¿Trae vaporera?", answer: "Sí, incluye vaporera, cuchara y taza medidora, según su ficha técnica." },
+      { question: "¿Tiene más funciones que solo arroz?", answer: "Cocina al vapor y mantiene caliente, pero no tiene los modos extra (sopa, yogur, cocción a presión) que sí tienen la Novohome y la Gadnic Riceron de esta comparativa." },
+      { question: "¿Qué capacidad tiene?", answer: "1,8 litros, según su ficha técnica." },
+      { question: "¿Trae garantía?", answer: "La ficha de MercadoLibre no detalla el plazo de garantía de fábrica de este modelo puntual; confirmalo en la publicación antes de comprar." },
+    ],
+  },
+  {
+    id: "MLA55016702",
+    title: "Arrocera Olla Eléctrica A Presión Multifunción Novohome Panel Digital 5 Litros 13 Funciones De Cocción Color Negro",
+    canonicalName: "Novohome NH-OM900", mpn: "NH-OM900", brand: "Novohome",
+    price: 98899, originalPrice: 149990, currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_758889-MLA113713331951_062026-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_758889-MLA113713331951_062026-O.webp"],
+    category: "Cocina", categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/arrocera-olla-electrica-a-presion-multifuncion-novohome-panel-digital-5-litros-13-funciones-de-coccion-color-negro/p/MLA55016702",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new", freeShipping: true, rating: 4.7, reviewCount: 431,
+    pastelColor: "var(--pastel-amber)",
+    priceUpdated: "2026-09-08", priceLastChecked: "2026-09-08", priceStatus: "fresh", reviewsSampledAt: "2026-09-08",
+    specs: [
+      { label: "Marca", value: "Novohome" },
+      { label: "Modelo", value: "NH-OM900" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Potencia", value: "900 W" },
+      { label: "Capacidad", value: "5 L" },
+      { label: "Sistema de cocción", value: "A presión" },
+      { label: "Funciones de cocción", value: "13" },
+      { label: "Con pantalla digital", value: "Sí" },
+      { label: "Es programable", value: "Sí" },
+      { label: "Con apagado automático", value: "Sí" },
+      { label: "Material de la tapa", value: "Acero inoxidable" },
+    ],
+    relatedProducts: ["MLAU2857208489", "MLA19840167", "MLA23335355"],
+    description: "Olla eléctrica a presión multifunción Novohome, 5L, 13 funciones de cocción. La de mayor capacidad y potencia de esta comparativa.",
+    seoTitle: "Novohome NH-OM900: olla a presión con 13 funciones",
+    metaDescription: "Novohome NH-OM900 a {{precio:MLA55016702}}: 5L, cocción a presión y {{reviews:MLA55016702}} calificaciones. La de mayor capacidad de esta comparativa.",
+    ogTitle: "Novohome NH-OM900: olla a presión multifunción, 5L",
+    ogDescription: "900W, 5L, cocción a presión, 13 funciones y pantalla digital. La de mayor capacidad y potencia de esta comparativa.",
+    h1: "Novohome NH-OM900: olla a presión multifunción, la de mayor capacidad de esta comparativa",
+    verdict: "La opción de mayor capacidad y potencia de esta comparativa: 5L, cocción a presión, 13 funciones y pantalla digital programable, a {{precio:MLA55016702}}. Con {{reviews:MLA55016702}} calificaciones a 4.7 estrellas, tiene muy buen respaldo. El aviso honesto de varias reseñas: el manual que trae es poco detallado, así que conviene ir probando por ensayo y error las primeras veces.",
+    pros: [
+      "La de mayor capacidad de esta comparativa: 5L",
+      "Cocción a presión: reduce a la mitad el tiempo de cocción de carnes, según reseñas reales",
+      "13 funciones de cocción con pantalla digital y apagado automático",
+      "Buen precio para lo que ofrece: bastante menos que la Oster de esta comparativa",
+    ],
+    cons: [
+      "Varias reseñas coinciden en que el manual es poco detallado; hay que ir probando las funciones",
+      "No se puede programar el tiempo de cocción manualmente, solo elegir el modo preestablecido",
+      "Más cara que la Yelmo o la Gadnic Riceron de esta comparativa",
+    ],
+    articleBody: `## La de mayor capacidad y potencia de esta comparativa
+
+La Novohome NH-OM900 es la opción de mayor capacidad de esta comparativa: 5L, cocción a presión, 13 funciones de cocción y pantalla digital programable, a {{precio:MLA55016702}}. Con {{reviews:MLA55016702}} calificaciones a 4.7 estrellas, tiene muy buen respaldo.
+
+## Lo que dicen los compradores reales
+
+Las reseñas destacan lo rápido que cocina con presión: "cocinar carnes y que se desarmen, todo se reduce a la mitad de tiempo al menos lo que pude comprobar". Otra reseña resume el uso básico: sellar la carne, agregar condimentos y un chorrito de líquido, tapar y esperar a que suene. El aviso honesto más repetido: el manual es poco detallado y no explica bien las medidas de arroz y líquido, así que las primeras veces conviene ir probando.
+
+## Para quién es
+
+Para quien cocina para varias personas y quiere ahorrar tiempo con cocción a presión (guisos, carnes, caldos), y no le molesta aprender el equipo por prueba y error las primeras veces. Si preferís algo más simple para arroz al vapor solamente, la Yelmo de esta comparativa cumple bien y es más barata.`,
+    faq: [
+      { question: "¿El manual es bueno?", answer: "Varias reseñas coinciden en que no: es poco detallado y no explica bien las medidas exactas de arroz y líquido. Conviene ir probando por ensayo y error las primeras veces." },
+      { question: "¿Realmente cocina más rápido con presión?", answer: "Sí, según reseñas reales que confirman que las carnes se cocinan y desarman en la mitad de tiempo comparado con métodos tradicionales." },
+      { question: "¿Se puede programar el tiempo manualmente?", answer: "No, según una reseña: solo se puede elegir entre los modos de cocción preestablecidos, no ajustar el tiempo exacto de cada uno." },
+      { question: "¿Cuántas calificaciones tiene?", answer: "{{reviews:MLA55016702}} calificaciones a {{rating:MLA55016702}} estrellas." },
+      { question: "¿Qué capacidad tiene?", answer: "5 litros, la más grande de esta comparativa." },
+      { question: "¿Trae garantía?", answer: "La ficha de MercadoLibre no detalla el plazo de garantía de fábrica de este modelo puntual; confirmalo en la publicación antes de comprar." },
+    ],
+  },
+  {
+    id: "MLA19840167",
+    title: "Arrocera Eléctrica Cuk By Gadnic Riceron Olla Eléctrica Multi Función 1.5L",
+    canonicalName: "Gadnic Riceron", mpn: "Riceron", brand: "Gadnic",
+    price: 124999, currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_923412-MLA99423240304_112025-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_923412-MLA99423240304_112025-O.webp"],
+    category: "Cocina", categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/arrocera-electrica-cuk-by-gadnic-riceron-olla-electrica-multi-funcion-15l/p/MLA19840167",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new", freeShipping: true, rating: 4.5, reviewCount: 934,
+    pastelColor: "var(--pastel-purple)",
+    priceUpdated: "2026-09-08", priceLastChecked: "2026-09-08", priceStatus: "fresh", reviewsSampledAt: "2026-09-08",
+    specs: [
+      { label: "Marca", value: "Gadnic" },
+      { label: "Línea", value: "Cuk By Gadnic Riceron" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Potencia", value: "200 W" },
+      { label: "Capacidad", value: "1,5 L" },
+      { label: "Funciones", value: "Arroz, sopa, avena, vapor, yogur, guisos, mantener caliente" },
+      { label: "Recipiente interior", value: "Antiadherente, removible" },
+      { label: "Tipo de control", value: "Panel simple" },
+    ],
+    relatedProducts: ["MLAU2857208489", "MLA55016702", "MLA23335355"],
+    description: "Arrocera eléctrica Gadnic Riceron, 1.5L multi función, compacta. Ideal para 1-3 personas, con más de 900 calificaciones.",
+    seoTitle: "Gadnic Riceron: la arrocera compacta multi función",
+    metaDescription: "Gadnic Riceron a {{precio:MLA19840167}}: 1.5L, multi función y {{reviews:MLA19840167}} calificaciones. La opción más compacta de esta comparativa.",
+    ogTitle: "Gadnic Riceron: arrocera compacta con función yogurtera",
+    ogDescription: "200W, 1.5L, multi función (arroz, sopa, yogur, avena, vapor). La opción más compacta de esta comparativa, ideal para 1-3 personas.",
+    h1: "Gadnic Riceron: arrocera eléctrica compacta, la opción para pocas personas de esta comparativa",
+    verdict: "La opción más compacta de esta comparativa: 1.5L, pensada para 1-3 personas, con funciones de arroz, sopa, avena, vapor, yogur y guisos, a {{precio:MLA19840167}}. Con {{reviews:MLA19840167}} calificaciones a 4.5 estrellas, tiene muy buen respaldo real. El aviso honesto: varias reseñas coinciden en que el manual es pobre para explicar el uso de cada función.",
+    pros: [
+      "Segunda base de opiniones más grande de esta comparativa, con {{reviews:MLA19840167}} calificaciones",
+      "Muy versátil para su tamaño: hace arroz, sopa, avena, yogur y guisos",
+      "Diseño compacto, ideal para 1-3 personas o cocinas chicas",
+      "Fácil de usar según varias reseñas, incluso para quien no cocina seguido",
+    ],
+    cons: [
+      "Varias reseñas coinciden en que el manual es pobre para explicar las funciones y las proporciones de agua",
+      "La tapa no tiene de dónde agarrar, riesgo de quemarse con el vapor según una reseña",
+      "4.5 estrellas, la nota más baja de esta comparativa",
+    ],
+    articleBody: `## La opción más compacta de esta comparativa
+
+La Gadnic Riceron es la arrocera más compacta de esta comparativa: 1.5L, pensada para 1-3 personas, con funciones de arroz, sopa, avena, vapor, yogur y guisos, a {{precio:MLA19840167}}. Con {{reviews:MLA19840167}} calificaciones a 4.5 estrellas, tiene muy buen respaldo real pese a ser la más chica.
+
+## Lo que dicen los compradores reales
+
+Las reseñas destacan la versatilidad para su tamaño: "además de hacer arroz fácil y rápido hace el mejor yogur y también pequeños bizcochuelos, la uso a diario". El aviso honesto más repetido: "el manual no es muy completo" para explicar la proporción correcta de agua y arroz; varias reseñas recomiendan buscar tutoriales en YouTube las primeras veces. Otro aviso real: la tapa no tiene de dónde agarrar, así que hay que tener cuidado con el vapor al abrirla.
+
+## Para quién es
+
+Para 1-3 personas o cocinas chicas, y para quien valora tener varias funciones (yogur incluido) en un equipo compacto. Si cocinás para más gente o preferís algo más grande, la Novohome (5L) o el Oster (2.2L, 12 tazas) de esta comparativa rinden más por tanda.`,
+    faq: [
+      { question: "¿El manual explica bien las funciones?", answer: "Varias reseñas coinciden en que no: el manual es pobre, especialmente para explicar la proporción correcta de agua y arroz. Conviene buscar tutoriales en YouTube las primeras veces." },
+      { question: "¿Hace yogur de verdad?", answer: "Sí, según reseñas reales que la usan a diario también para hacer yogur casero y pequeños bizcochuelos." },
+      { question: "¿Es segura la tapa?", answer: "Una reseña avisa que la tapa no tiene de dónde agarrar, así que hay que tener cuidado de no quemarse con el vapor al abrirla." },
+      { question: "¿Cuántas calificaciones tiene?", answer: "{{reviews:MLA19840167}} calificaciones a {{rating:MLA19840167}} estrellas, la segunda base de opiniones más grande de esta comparativa." },
+      { question: "¿Para cuántas personas alcanza?", answer: "Está pensada para 1-3 personas o porciones compactas, según su ficha técnica." },
+      { question: "¿Trae garantía?", answer: "La ficha de MercadoLibre no detalla el plazo de garantía de fábrica de este modelo puntual; confirmalo en la publicación antes de comprar." },
+    ],
+  },
+  {
+    id: "MLA23335355",
+    title: "Olla Arrocera Multifunción 10 En 1 Oster 8030b Color Negro Frecuencia 50 Hz",
+    canonicalName: "Oster CKSTRC8030", mpn: "CKSTRC8030", brand: "Oster",
+    price: 495715, currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_766894-MLA99858514465_112025-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_766894-MLA99858514465_112025-O.webp"],
+    category: "Cocina", categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/olla-arrocera-multifuncion-10-en-1-oster-8030b-color-negro-frecuencia-50-hz/p/MLA23335355",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new", freeShipping: true, rating: 4.7, reviewCount: 130,
+    pastelColor: "var(--pastel-coral)",
+    priceUpdated: "2026-09-08", priceLastChecked: "2026-09-08", priceStatus: "fresh", reviewsSampledAt: "2026-09-08",
+    specs: [
+      { label: "Marca", value: "Oster" },
+      { label: "Modelo", value: "CKSTRC8030" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Potencia", value: "900 W" },
+      { label: "Capacidad", value: "2,2 L (12 tazas)" },
+      { label: "Sistema de cocción", value: "A vapor" },
+      { label: "Material de la tapa", value: "Vidrio" },
+      { label: "Con pantalla digital", value: "Sí" },
+      { label: "Con función mantener caliente", value: "Sí" },
+      { label: "Accesorios incluidos", value: "Vaso medidor, paleta de arroz" },
+    ],
+    relatedProducts: ["MLAU2857208489", "MLA55016702", "MLA19840167"],
+    description: "Olla arrocera multifunción Oster 10 en 1, marca internacional. La más cara y de mayor prestigio de esta comparativa.",
+    seoTitle: "Oster 8030b: la arrocera de marca internacional",
+    metaDescription: "Oster 8030b a {{precio:MLA23335355}}: 10 en 1, 2.2L y {{reviews:MLA23335355}} calificaciones. La opción de marca internacional de esta comparativa.",
+    ogTitle: "Oster 8030b: olla arrocera multifunción 10 en 1",
+    ogDescription: "900W, 2.2L, 10 funciones, pantalla digital. La opción de marca internacional de esta comparativa, aunque también la más cara.",
+    h1: "Oster 8030b: olla arrocera multifunción, la opción de marca internacional de esta comparativa",
+    verdict: "La opción de marca internacional de esta comparativa: 10 funciones, 2.2L, pantalla digital y tapa de vidrio, a {{precio:MLA23335355}}, por lejos la más cara de las cuatro. Con {{reviews:MLA23335355}} calificaciones a 4.7 estrellas, tiene buen respaldo, aunque bastante menos volumen de opiniones que el resto de esta comparativa. El aviso honesto: una reseña la comparó desfavorablemente contra otro modelo Oster de 5 funciones, que según ella rinde igual o mejor.",
+    pros: [
+      "Marca internacional reconocida, con historial largo en electrodomésticos",
+      "10 funciones, pantalla digital y tapa de vidrio para ver la cocción",
+      "No se pega nada y es fácil de limpiar, según varias reseñas",
+      "Vaso medidor y paleta de arroz incluidos",
+    ],
+    cons: [
+      "Es por lejos la más cara de esta comparativa",
+      "Tiene bastantes menos calificaciones que el resto de esta comparativa",
+      "Una reseña avisa que en algunas funciones puede salpicar si hay poco contenido",
+      "Una reseña la comparó desfavorablemente contra el modelo Oster de 5 funciones, que según ella rinde igual o mejor",
+    ],
+    articleBody: `## La opción de marca internacional de esta comparativa
+
+La Oster 8030b es la opción de marca internacional de esta comparativa: 10 funciones, 2.2L de capacidad, pantalla digital y tapa de vidrio, a {{precio:MLA23335355}}. Es, por lejos, la más cara de las cuatro.
+
+## Lo que dicen los compradores reales
+
+Las reseñas destacan lo fácil de limpiar que es: "no se pega nada, súper fácil de limpiar, además no salpica nada así que termino de cocinar y queda todo limpio". Una reseña la compró para su padre con hipertensión, valorando que conserva mejor el sabor y los nutrientes al cocinar al vapor. El aviso honesto: una reseña de 4 estrellas avisa que en algunas funciones, con poco contenido, puede salpicar, y otra la comparó desfavorablemente contra un modelo Oster de 5 funciones que, según ella, rinde igual o mejor por menos.
+
+## Para quién es
+
+Para quien prioriza una marca internacional reconocida y no le importa pagar bastante más por eso. Si el presupuesto manda, la Yelmo, la Novohome o la Gadnic Riceron de esta comparativa cumplen igual de bien a una fracción del precio.`,
+    faq: [
+      { question: "¿Vale la pena pagar tanto más por ser Oster?", answer: "Depende de cuánto valores la marca: una reseña real la comparó contra otro modelo Oster de 5 funciones y dijo que rinde igual o mejor por menos. Si el presupuesto manda, la Yelmo, la Novohome o la Gadnic Riceron de esta comparativa cumplen bien a una fracción del precio." },
+      { question: "¿Salpica al cocinar?", answer: "Una reseña avisa que en algunas funciones, si hay poco contenido, puede salpicar un poco; recomienda usar un repasador encima como precaución." },
+      { question: "¿Cuántas calificaciones tiene?", answer: "{{reviews:MLA23335355}} calificaciones a {{rating:MLA23335355}} estrellas, bastante menos que el resto de esta comparativa." },
+      { question: "¿Es fácil de limpiar?", answer: "Sí, varias reseñas destacan que no se pega nada y que no salpica durante la cocción normal." },
+      { question: "¿Qué capacidad tiene?", answer: "2,2 litros (12 tazas), según su ficha técnica." },
+      { question: "¿Trae garantía?", answer: "La ficha de MercadoLibre no detalla el plazo de garantía de fábrica de este modelo puntual; confirmalo en la publicación antes de comprar." },
+    ],
+  },
 ];
 
 export const categoryPastels: Record<string, string> = {
