@@ -2039,4 +2039,84 @@ export const socialPosts: SocialPost[] = [
     offPct: "34",
     postedAt: "2026-09-08T15:56:57-03:00",
   },
+  {
+    title: "Silla Gamer Nictom Pro Pc Ergonómica",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_845201-MLA113985074882_072026-O.webp",
+    affiliateUrl: "https://meli.la/1Q8auWM",
+    newPrice: "219.999",
+    oldPrice: "449.999",
+    offPct: "51",
+    postedAt: "2026-09-08T16:43:48-03:00",
+  },
+  {
+    title: 'Monitor Gamer Level Up 27" Curvo 200Hz',
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_798594-MLA115400825174_082026-O.webp",
+    affiliateUrl: "https://meli.la/1Tb4CZF",
+    newPrice: "294.975",
+    oldPrice: "549.999",
+    offPct: "46",
+    postedAt: "2026-09-08T16:44:39-03:00",
+  },
+  {
+    title: 'Monitor Gamer ASRock Challenger CL25FFA 24.5"',
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_728524-MLA100464313074_122025-O.webp",
+    affiliateUrl: "https://meli.la/1i4UDgo",
+    newPrice: "179.999",
+    oldPrice: "339.999",
+    offPct: "47",
+    postedAt: "2026-09-08T16:45:28-03:00",
+  },
+  {
+    title: "Teclado Mecánico Gamer Havit KB10L Pro-SP",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_739949-MLA115092423229_072026-O.webp",
+    affiliateUrl: "https://meli.la/1qUCKKF",
+    newPrice: "32.999",
+    oldPrice: "59.999",
+    offPct: "45",
+    postedAt: "2026-09-08T16:46:25-03:00",
+  },
+  {
+    title: 'Smart TV Noblex 75" 4K LED Google TV',
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_829456-MLA99524474450_122025-O.webp",
+    affiliateUrl: "https://meli.la/2H6Yy1Y",
+    newPrice: "1.529.899",
+    oldPrice: "1.999.999",
+    offPct: "23",
+    postedAt: "2026-09-08T16:47:17-03:00",
+  },
+  {
+    title: 'Smart TV Hisense 50" 50A4NV',
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_676272-MLA108106492272_032026-O.webp",
+    affiliateUrl: "https://meli.la/1k1jmkL",
+    newPrice: "533.599",
+    oldPrice: "661.999",
+    offPct: "19",
+    postedAt: "2026-09-08T16:48:20-03:00",
+  },
+  {
+    title: 'Smart TV Philco 43" PLD43FS24VH',
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_816219-MLA99953477533_112025-O.webp",
+    affiliateUrl: "https://meli.la/1UrjMw7",
+    newPrice: "399.999",
+    oldPrice: "799.999",
+    offPct: "50",
+    postedAt: "2026-09-08T16:49:18-03:00",
+  },
+  {
+    title: 'Smart TV Sansei 55" LED 4K Google TV',
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_859796-MLA95677461150_102025-O.webp",
+    affiliateUrl: "https://meli.la/1TX1TF2",
+    newPrice: "616.999",
+    oldPrice: "920.699",
+    offPct: "32",
+    postedAt: "2026-09-08T16:50:12-03:00",
+  },
 ];
