@@ -2019,4 +2019,24 @@ export const socialPosts: SocialPost[] = [
     offPct: "24",
     postedAt: "2026-09-08T12:31:41-03:00",
   },
+  {
+    title: "Silla Gamer Cougar Fusion Ex",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_622518-MLA115722874507_082026-O.webp",
+    affiliateUrl: "https://meli.la/2DevJ4S",
+    newPrice: "259.999",
+    oldPrice: "399.999",
+    offPct: "35",
+    postedAt: "2026-09-08T15:55:22-03:00",
+  },
+  {
+    title: 'Smart TV Led TCL 65" V6C UHD Google TV',
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_861101-MLA110273924557_042026-O.webp",
+    affiliateUrl: "https://meli.la/1ShQsft",
+    newPrice: "1.050.799",
+    oldPrice: "1.599.999",
+    offPct: "34",
+    postedAt: "2026-09-08T15:56:57-03:00",
+  },
 ];
