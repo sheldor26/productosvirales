@@ -31095,6 +31095,124 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     ],
     internalLinksTitle: "Más para tu cocina",
   },
+  // Guía nueva deshidratador-de-alimentos — silo cocina, categoría nueva
+  // Origen: research propio 2026-09-08. Keyword "deshidratador de alimentos"
+  // 2.400/mes, SD 11. Sin canibalización: solo existían menciones
+  // incidentales en fichas de freidoras de aire ("no es un deshidratador
+  // dedicado"), nunca como categoría propia.
+  // 4 fichas nuevas importadas el mismo día (ver curated-products.ts).
+  // Nota: Aliante y Suono son productos genuinamente muy similares
+  // (mismo tipo, 5 bandejas, plástico, precio parecido); se documentó
+  // esa similitud de forma honesta en vez de forzar una diferenciación
+  // artificial — Suono se posiciona por su versatilidad real probada
+  // en reseñas (secado de filamento de impresora 3D), no por precio
+  // ni por volumen de opiniones (ahí gana el Aliante en ambos).
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "deshidratador-de-alimentos",
+    category: "deshidratador-de-alimentos",
+    silo: "cocina",
+    pillar: true,
+    title: `Deshidratador de Alimentos: cuál comprar en Argentina [2026]`,
+    seoTitle: `Deshidratador de Alimentos: Cuál Comprar en Argentina | 2026`,
+    metaDescription: `Descubrí qué deshidratador de alimentos comprar en Argentina: el más elegido, con temporizador digital o el más versátil. Precios reales de MercadoLibre y contras honestas.`,
+    ogTitle: `Deshidratador de alimentos: cuál comprar en Argentina`,
+    ogDescription: `Aliante, Gadnic y Suono comparados: cuántas bandejas necesitás y si te sirve un temporizador digital. Precios reales de MercadoLibre y las contras que nadie cuenta.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_764621-MLA99985700983_112025-O.webp`,
+    h1: `Deshidratador de alimentos: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene el **[Aliante AL-01](/producto/deshidratador-de-alimentos-automatico-carnes-frutas-verduras-mla46731508)** (alrededor de {{precio:MLA46731508:k}}): por lejos el más elegido y el más barato. Si tenés poco espacio, el **[Gadnic Cuk 235W](/producto/deshidratador-de-alimentos-cuk-by-gadnic-235w-4-bandejas-secador-frutas-verduras-mla41881314)**, más compacto. Si necesitás más capacidad y temporizador digital, la **[Gadnic Cuk 8 Bandejas](/producto/deshidratador-de-alimentos-cuk-by-gadnic-8-bandejas-acero-inox-panel-tactil-digi-mla29228269)**. Y si además querés secar filamento de impresora 3D, el **[Suono](/producto/deshidratador-de-alimentos-suono-5-bandejas-carnes-frutas-ve-color-blanco-mla48935775)**.`,
+    publishedDate: "2026-09-08",
+    updatedDate: "2026-09-08",
+    hasDisclosure: true,
+    readingTime: 8,
+    standfirst: `Un deshidratador de alimentos va de {{precio:MLA46731508:k}} (el más elegido) a {{precio:MLA29228269:k}} (la mayor capacidad, con temporizador digital). La decisión real pasa por cuántas bandejas necesitás y si te sirve el apagado automático, no solo por precio. Te mostramos cuál conviene, con precios reales de MercadoLibre.`,
+    quickPicks: [
+      { productMlaId: "MLA46731508", label: "Mejor elección general", labelColor: "green", tagline: "Aliante AL-01: por lejos el más elegido" },
+      { productMlaId: "MLA41881314", label: "El más compacto", labelColor: "slate", tagline: "Gadnic Cuk 235W: 4 bandejas, poco espacio" },
+      { productMlaId: "MLA29228269", label: "Mayor capacidad", labelColor: "amber", tagline: "Gadnic Cuk 8 Bandejas: acero y temporizador digital" },
+      { productMlaId: "MLA48935775", label: "El más versátil", labelColor: "purple", tagline: "Suono: también sirve para filamento de impresora 3D" },
+    ],
+    intro: [
+      `El deshidratador de alimentos resuelve algo simple: conservar frutas, verduras, carnes y hierbas sin heladera, concentrando el sabor y los nutrientes. La decisión real pasa por cuántas bandejas necesitás según cuánto proceses de una vez, y si te sirve un temporizador con apagado automático, no solo por el precio.`,
+      `En esta guía comparamos los deshidratadores de alimentos más vendidos y mejor calificados de MercadoLibre Argentina, con las contras reales que cuentan los compradores: desde la bandeja que deshidrata peor que el resto hasta un indicador de temperatura que no siempre es preciso.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_764621-MLA99985700983_112025-O.webp", alt: `Deshidratador de alimentos Aliante AL-01, el más elegido de esta guía`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, el **[Aliante AL-01](/producto/deshidratador-de-alimentos-automatico-carnes-frutas-verduras-mla46731508)**: por lejos el más elegido y el más barato. Si tenés **poco espacio**, el **[Gadnic Cuk 235W](/producto/deshidratador-de-alimentos-cuk-by-gadnic-235w-4-bandejas-secador-frutas-verduras-mla41881314)**, más compacto. Si necesitás **más capacidad y temporizador digital**, la **[Gadnic Cuk 8 Bandejas](/producto/deshidratador-de-alimentos-cuk-by-gadnic-8-bandejas-acero-inox-panel-tactil-digi-mla29228269)**. Y si además querés **secar filamento de impresora 3D**, el **[Suono](/producto/deshidratador-de-alimentos-suono-5-bandejas-carnes-frutas-ve-color-blanco-mla48935775)**.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos los deshidratadores de alimentos con más ventas y opiniones reales en MercadoLibre Argentina. Los ordenamos por lo que define la compra: cantidad de bandejas, rango de temperatura, si tienen temporizador digital y precio. Las calificaciones y las contras son de compradores reales. Los precios que ves en las fichas y tablas se revisan contra MercadoLibre periódicamente.` },
+
+      { type: "h2", title: `Qué mirar antes de comprar un deshidratador de alimentos`, id: "que-mirar" },
+      { type: "p", content: `Primero, **la cantidad de bandejas**: define cuánto podés procesar de una sola vez. Segundo, **si tiene temporizador digital con apagado automático**: sin él, hay que controlar el tiempo a mano (con el celular, por ejemplo). Tercero, **el rango de temperatura**: la mayoría de esta categoría va de 35°C a 70-75°C, suficiente para frutas, verduras, carnes y hierbas.` },
+      { type: "p", content: `Un detalle honesto de la categoría: en los modelos con varias bandejas, la más cercana a la puerta suele deshidratar peor que el resto, porque recibe menos flujo de aire caliente. Varias reseñas recomiendan rotar las bandejas a mitad de proceso para compensarlo.` },
+
+      { type: "h2", title: `Los mejores deshidratadores de alimentos 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Aliante AL-01 — mejor elección general` },
+      { type: "product-card", productMlaId: "MLA46731508", label: "Mejor elección general", labelColor: "green", ranking: 1, description: `5 bandejas, 35-70°C ajustable. 4.5 estrellas en {{reviews:MLA46731508}} calificaciones, la base más grande de esta guía por lejos.` },
+      { type: "p", content: `Es el deshidratador que recomendamos a la mayoría: **5 bandejas**, temperatura ajustable de 35°C a 70°C y libre de BPA, a alrededor de {{precio:MLA46731508:k}}. Con {{reviews:MLA46731508}} calificaciones a 4.5 estrellas, es por lejos el más elegido de esta guía, y también el más barato.` },
+      { type: "p", content: `La contra real: no tiene temporizador, así que hay que controlar el tiempo de deshidratado manualmente.` },
+      { type: "pull-quote", content: `"La verdad que la mejor compra que hice en lo que va del año. La fruta me la seca en unas 12 hrs. Las hierbas en 6 hrs. Es buenísimo el producto, para mis infusiones y granolas que vendo, va bárbaro!"`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `2. Gadnic Cuk 235W — el más compacto` },
+      { type: "product-card", productMlaId: "MLA41881314", label: "El más compacto", labelColor: "slate", ranking: 2, description: `4 bandejas, diseño pensado para poco espacio. 4.4 estrellas en {{reviews:MLA41881314}} calificaciones.` },
+      { type: "p", content: `La opción más compacta de esta guía: **4 bandejas** y un diseño pensado para ocupar poco espacio en la cocina, a alrededor de {{precio:MLA41881314:k}}. Con {{reviews:MLA41881314}} calificaciones a 4.4 estrellas, tiene buen respaldo.` },
+      { type: "p", content: `La contra real: una reseña avisa que genera menos temperatura de la que indica el panel, y otra pide una bandeja lisa para alimentos líquidos que no incluye.` },
+
+      { type: "h3", title: `3. Gadnic Cuk 8 Bandejas — mayor capacidad` },
+      { type: "product-card", productMlaId: "MLA29228269", label: "Mayor capacidad", labelColor: "amber", ranking: 3, description: `8 bandejas de acero inoxidable, temporizador digital. 4.7 estrellas en {{reviews:MLA29228269}} calificaciones, la nota más alta de esta guía.` },
+      { type: "p", content: `La mayor capacidad de esta guía: **8 bandejas de acero inoxidable**, panel táctil digital y temporizador de hasta 24 horas, a alrededor de {{precio:MLA29228269:k}}. Con {{reviews:MLA29228269}} calificaciones a 4.7 estrellas, es la mejor calificada de las cuatro.` },
+      { type: "p", content: `La contra real: es la más cara por lejos de esta guía, y una reseña muy detallada avisa que la bandeja más cercana a la puerta deshidrata peor que el resto.` },
+      { type: "pull-quote", content: `"Roto las bandejas exponiendo la parte del fondo al frente cuando inicio el 2do deshidratado y los alimentos quedan de 10. Tener en cuenta que ocupa bastante lugar y hay que dejarle unos 5-10cm de espacio adicional alrededor."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `4. Suono — el más versátil` },
+      { type: "product-card", productMlaId: "MLA48935775", label: "El más versátil", labelColor: "purple", ranking: 4, description: `5 bandejas, también usado para secar filamento de impresora 3D. 4.5 estrellas en {{reviews:MLA48935775}} calificaciones.` },
+      { type: "p", content: `Muy similar al Aliante de esta guía (5 bandejas, 35-70°C, libre de BPA), a alrededor de {{precio:MLA48935775:k}}. Con {{reviews:MLA48935775}} calificaciones a 4.5 estrellas, tiene buen respaldo.` },
+      { type: "p", content: `La contra real: cuesta un poco más y tiene menos calificaciones que el Aliante. La ventaja real que muestran las reseñas: es muy versátil para usos no alimenticios, como secar filamento de impresora 3D.` },
+      { type: "pull-quote", content: `"Lo compre para secar los filamentos de la impresora 3d, funciona excelente y cuesta la mitad que el secador de filamentos más barato. Pude secar tpu, abs, petg y pla sin problemas."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h2", title: `Tabla comparativa: bandejas, temporizador y precio`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Bandejas`, `Temporizador`, `Material`, `Rating`], rows: [
+        [`[Aliante AL-01](/producto/deshidratador-de-alimentos-automatico-carnes-frutas-verduras-mla46731508)`, `{{precio:MLA46731508}}`, `5`, `No`, `Plástico`, `{{rating:MLA46731508}} ({{reviews:MLA46731508}})`],
+        [`[Gadnic Cuk 235W](/producto/deshidratador-de-alimentos-cuk-by-gadnic-235w-4-bandejas-secador-frutas-verduras-mla41881314)`, `{{precio:MLA41881314}}`, `4`, `No`, `Plástico`, `{{rating:MLA41881314}} ({{reviews:MLA41881314}})`],
+        [`[Gadnic Cuk 8 Bandejas](/producto/deshidratador-de-alimentos-cuk-by-gadnic-8-bandejas-acero-inox-panel-tactil-digi-mla29228269)`, `{{precio:MLA29228269}}`, `8`, `Sí, hasta 24h`, `Acero inoxidable`, `{{rating:MLA29228269}} ({{reviews:MLA29228269}})`],
+        [`[Suono 5 Bandejas](/producto/deshidratador-de-alimentos-suono-5-bandejas-carnes-frutas-ve-color-blanco-mla48935775)`, `{{precio:MLA48935775}}`, `5`, `No especificado`, `Plástico`, `{{rating:MLA48935775}} ({{reviews:MLA48935775}})`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu deshidratador de alimentos`, id: "como-elegir" },
+      { type: "h3", title: `¿Cuántas bandejas necesitás?` },
+      { type: "p", content: `Para uso doméstico regular, 4 o 5 bandejas como el [Gadnic Cuk 235W](/producto/deshidratador-de-alimentos-cuk-by-gadnic-235w-4-bandejas-secador-frutas-verduras-mla41881314) o el [Aliante](/producto/deshidratador-de-alimentos-automatico-carnes-frutas-verduras-mla46731508) alcanzan de sobra. Si deshidratás en volumen (para vender o stockear), la [Gadnic Cuk 8 Bandejas](/producto/deshidratador-de-alimentos-cuk-by-gadnic-8-bandejas-acero-inox-panel-tactil-digi-mla29228269) de esta guía rinde mucho más por tanda.` },
+      { type: "h3", title: `¿Vale la pena pagar por temporizador digital?` },
+      { type: "p", content: `Si no querés estar pendiente de apagarlo (procesos de 6 a 24 horas), sí: la [Gadnic Cuk 8 Bandejas](/producto/deshidratador-de-alimentos-cuk-by-gadnic-8-bandejas-acero-inox-panel-tactil-digi-mla29228269) de esta guía se apaga sola. El resto necesita que controles el tiempo vos mismo, por ejemplo con el timer del celular.` },
+      { type: "h3", title: `¿Aliante o Suono?` },
+      { type: "p", content: `Son muy parecidos para uso alimenticio. El [Aliante](/producto/deshidratador-de-alimentos-automatico-carnes-frutas-verduras-mla46731508) es más barato y tiene más calificaciones acumuladas; el [Suono](/producto/deshidratador-de-alimentos-suono-5-bandejas-carnes-frutas-ve-color-blanco-mla48935775) de esta guía suma versatilidad probada para secar filamento de impresora 3D u otros usos no alimenticios.` },
+
+      { type: "h2", title: `Cuánto cuesta un deshidratador de alimentos en Argentina [septiembre 2026]`, id: "cuanto-cuesta" },
+      { type: "list", content: "Franjas de precio reales", items: [
+        `**Alrededor de {{precio:MLA46731508:k}} a {{precio:MLA48935775:k}}:** el [Aliante AL-01](/producto/deshidratador-de-alimentos-automatico-carnes-frutas-verduras-mla46731508) y el [Suono](/producto/deshidratador-de-alimentos-suono-5-bandejas-carnes-frutas-ve-color-blanco-mla48935775), las opciones de 5 bandejas de esta guía.`,
+        `**Alrededor de {{precio:MLA41881314:k}}:** el [Gadnic Cuk 235W](/producto/deshidratador-de-alimentos-cuk-by-gadnic-235w-4-bandejas-secador-frutas-verduras-mla41881314), la opción compacta.`,
+        `**Alrededor de {{precio:MLA29228269:k}}:** la [Gadnic Cuk 8 Bandejas](/producto/deshidratador-de-alimentos-cuk-by-gadnic-8-bandejas-acero-inox-panel-tactil-digi-mla29228269), la de mayor capacidad de esta guía.`,
+      ] },
+
+      { type: "verdict", content: `Para la mayoría, el **[Aliante AL-01](/producto/deshidratador-de-alimentos-automatico-carnes-frutas-verduras-mla46731508)** es la compra más segura: por lejos el más elegido y el más barato de esta guía. Si tenés poco espacio, el **[Gadnic Cuk 235W](/producto/deshidratador-de-alimentos-cuk-by-gadnic-235w-4-bandejas-secador-frutas-verduras-mla41881314)**. Si necesitás más capacidad y temporizador digital, la **[Gadnic Cuk 8 Bandejas](/producto/deshidratador-de-alimentos-cuk-by-gadnic-8-bandejas-acero-inox-panel-tactil-digi-mla29228269)**. Y si además querés secar filamento de impresora 3D, el **[Suono](/producto/deshidratador-de-alimentos-suono-5-bandejas-carnes-frutas-ve-color-blanco-mla48935775)**.` },
+    ],
+    faq: [
+      { question: `¿Cuál es el mejor deshidratador de alimentos en Argentina?`, answer: `Para la mayoría, el [Aliante AL-01](/producto/deshidratador-de-alimentos-automatico-carnes-frutas-verduras-mla46731508): por lejos el más elegido y el más barato. Si necesitás más capacidad, la [Gadnic Cuk 8 Bandejas](/producto/deshidratador-de-alimentos-cuk-by-gadnic-8-bandejas-acero-inox-panel-tactil-digi-mla29228269) con temporizador digital.` },
+      { question: `¿Cuánto tarda en deshidratar frutas o verduras?`, answer: `Según reseñas reales, la fruta suele tardar entre 8 y 12 horas y las hierbas entre 4 y 6 horas, dependiendo del grosor del corte y la temperatura elegida.` },
+      { question: `¿Por qué una bandeja deshidrata peor que las demás?`, answer: `En los modelos de varias bandejas, la más cercana a la puerta recibe menos flujo de aire caliente. Varias reseñas recomiendan rotar las bandejas a mitad de proceso para parejar el resultado.` },
+      { question: `¿Necesito temporizador digital?`, answer: `No es imprescindible, pero evita tener que controlar el tiempo manualmente en procesos de varias horas. La [Gadnic Cuk 8 Bandejas](/producto/deshidratador-de-alimentos-cuk-by-gadnic-8-bandejas-acero-inox-panel-tactil-digi-mla29228269) de esta guía es la única con esa función.` },
+      { question: `¿Sirve para algo más que comida?`, answer: `Sí: reseñas reales de esta guía muestran usos como secar filamento de impresora 3D (el [Suono](/producto/deshidratador-de-alimentos-suono-5-bandejas-carnes-frutas-ve-color-blanco-mla48935775) y el [Aliante](/producto/deshidratador-de-alimentos-automatico-carnes-frutas-verduras-mla46731508)) y hasta restaurar cintas de audio analógicas a baja temperatura.` },
+      { question: `¿Cuál conviene si tengo poco espacio en la cocina?`, answer: `El [Gadnic Cuk 235W](/producto/deshidratador-de-alimentos-cuk-by-gadnic-235w-4-bandejas-secador-frutas-verduras-mla41881314) de esta guía tiene el diseño más compacto, aunque con menos capacidad que las opciones de 5 u 8 bandejas.` },
+    ],
+    internalLinks: [
+      { label: "Batidora: cuál comprar en Argentina", href: "/guias/cocina/batidora" },
+      { label: "Lavavajillas: cuál comprar en Argentina", href: "/guias/cocina/lavavajillas" },
+      { label: "Picadora de carne: cuál comprar en Argentina", href: "/guias/cocina/picadora-de-carne" },
+      { label: "Campana extractora: cuál comprar en Argentina", href: "/guias/cocina/campana-extractora" },
+    ],
+    internalLinksTitle: "Más para tu cocina",
+  },
 ];
 
 /**
@@ -31473,6 +31591,11 @@ export const guideCategories: Record<string, { name: string; description: string
     name: "Guía de Campana Extractora",
     description:
       "Cuánto caudal necesitás de verdad y qué tan simple es la instalación: las más vendidas y mejor calificadas de MercadoLibre, comparadas.",
+  },
+  "deshidratador-de-alimentos": {
+    name: "Guía de Deshidratador de Alimentos",
+    description:
+      "Cuántas bandejas necesitás y si te sirve un temporizador digital: los más vendidos y mejor calificados de MercadoLibre, comparados.",
   },
   climatizacion: {
     name: "Guías de Climatización",

@@ -89158,6 +89158,263 @@ Para quien prioriza una marca internacional reconocida y no le importa pagar el 
       { question: "¿Trae garantía?", answer: "La ficha de MercadoLibre no detalla el plazo de garantía de fábrica de este modelo puntual; confirmalo en la publicación antes de comprar." },
     ],
   },
+  {
+    id: "MLA46731508",
+    title: "Deshidratador De Alimentos Automático Carnes Frutas Verduras",
+    canonicalName: "Aliante AL-01", mpn: "AL-01", brand: "Aliante",
+    price: 62930, originalPrice: 89900, currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_764621-MLA99985700983_112025-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_764621-MLA99985700983_112025-O.webp"],
+    category: "Cocina", categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/deshidratador-de-alimentos-automatico-carnes-frutas-verduras/p/MLA46731508",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new", freeShipping: true, rating: 4.5, reviewCount: 633,
+    pastelColor: "var(--pastel-blue)",
+    priceUpdated: "2026-09-08", priceLastChecked: "2026-09-08", priceStatus: "fresh", reviewsSampledAt: "2026-09-08",
+    specs: [
+      { label: "Marca", value: "Aliante" },
+      { label: "Modelo", value: "AL-01" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Potencia", value: "350 W" },
+      { label: "Cantidad de bandejas", value: "5" },
+      { label: "Temperatura", value: "35°C a 70°C, con termostato" },
+      { label: "Con temporizador", value: "No" },
+      { label: "Material", value: "Plástico libre de BPA" },
+      { label: "Apto lavavajillas", value: "Sí (bandejas)" },
+      { label: "Dimensiones", value: "28 x 30 x 20 cm" },
+    ],
+    relatedProducts: ["MLA41881314", "MLA29228269", "MLA48935775"],
+    description: "Deshidratador de alimentos Aliante AL-01, 5 bandejas, 350W. La más elegida de esta comparativa, con más de 600 calificaciones.",
+    seoTitle: "Aliante AL-01: el deshidratador de alimentos más elegido",
+    metaDescription: "Aliante AL-01 a {{precio:MLA46731508}}: 5 bandejas, 350W y {{reviews:MLA46731508}} calificaciones. El más elegido de esta comparativa.",
+    ogTitle: "Aliante AL-01: deshidratador de alimentos, el más elegido",
+    ogDescription: "5 bandejas, 35-70°C ajustable, libre de BPA. El más elegido por lejos, con un aviso honesto: no tiene temporizador.",
+    h1: "Aliante AL-01: deshidratador de alimentos, el más elegido de esta comparativa",
+    verdict: "El deshidratador de alimentos más elegido de esta comparativa, por lejos: {{reviews:MLA46731508}} calificaciones a 4.5 estrellas, muchas más que cualquier otra opción, y también el más barato a {{precio:MLA46731508}}. Tiene 5 bandejas, temperatura ajustable de 35°C a 70°C y es libre de BPA. El aviso honesto: no tiene temporizador, así que hay que controlar el tiempo de deshidratado manualmente.",
+    pros: [
+      "El más elegido de esta comparativa, con {{reviews:MLA46731508}} calificaciones",
+      "También el más barato de las cuatro opciones",
+      "5 bandejas desmontables, aptas para lavavajillas",
+      "Sirve para usos más allá de la comida: reseñas reales lo usan para filamento de impresora 3D y hasta cintas de audio analógicas",
+    ],
+    cons: [
+      "No tiene temporizador: hay que controlar el tiempo de deshidratado a mano",
+      "Es de plástico, no de acero inoxidable como la Gadnic Cuk 8 bandejas de esta comparativa",
+      "El manual es la única guía incluida; conviene buscar tiempos de referencia en internet",
+    ],
+    articleBody: `## El más elegido de esta comparativa, por lejos
+
+El Aliante AL-01 es el deshidratador de alimentos más elegido de esta comparativa: {{reviews:MLA46731508}} calificaciones a 4.5 estrellas, muchas más que el resto. Cuesta {{precio:MLA46731508}} y es también el más barato. Tiene 5 bandejas desmontables y temperatura ajustable de 35°C a 70°C.
+
+## Lo que dicen los compradores reales
+
+Las reseñas muestran una sorprendente variedad de usos: "la fruta me la seca en unas 12 horas, las hierbas en 6 horas, es buenísimo para mis infusiones y granolas que vendo". Otra reseña lo usó para secar filamento de impresora 3D, y una más insólita todavía: para "hornear" cintas de audio analógicas de un estudio de grabación, a 50°C durante 24 horas, con resultado perfecto.
+
+## Para quién es
+
+Para quien busca la opción con más respaldo de opiniones reales de esta comparativa al mejor precio, y no le molesta controlar el tiempo de deshidratado con un timer aparte (como el del celular). Si preferís que el equipo se apague solo, la Gadnic Cuk 8 bandejas de esta comparativa incluye temporizador digital.`,
+    faq: [
+      { question: "¿Tiene temporizador?", answer: "No, hay que controlar el tiempo de deshidratado manualmente. Si preferís apagado automático, la Gadnic Cuk 8 bandejas de esta comparativa sí incluye temporizador digital." },
+      { question: "¿Cuántas calificaciones tiene?", answer: "{{reviews:MLA46731508}} calificaciones a {{rating:MLA46731508}} estrellas, la base de opiniones más grande de esta comparativa por lejos." },
+      { question: "¿Sirve para algo más que comida?", answer: "Según reseñas reales, sí: se usó para secar filamento de impresora 3D y hasta para restaurar cintas de audio analógicas a baja temperatura." },
+      { question: "¿Cuánto tarda en deshidratar?", answer: "Según reseñas reales, la fruta tarda unas 12 horas y las hierbas unas 6 horas, aunque el tiempo exacto depende del alimento y el grosor del corte." },
+      { question: "¿Las bandejas son aptas para lavavajillas?", answer: "Sí, según su ficha técnica, facilitando la limpieza." },
+      { question: "¿Trae garantía?", answer: "La ficha de MercadoLibre no detalla el plazo de garantía de fábrica de este modelo puntual; confirmalo en la publicación antes de comprar." },
+    ],
+  },
+  {
+    id: "MLA41881314",
+    title: "Deshidratador De Alimentos Cuk By Gadnic 235W 4 Bandejas Secador Frutas Verduras Snacks Naturales",
+    canonicalName: "Gadnic Cuk 235W", mpn: "DESHID", brand: "Gadnic",
+    price: 86749, currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_884919-MLA99992133983_112025-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_884919-MLA99992133983_112025-O.webp"],
+    category: "Cocina", categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/deshidratador-de-alimentos-cuk-by-gadnic-235w-4-bandejas-secador-frutas-verduras-mla41881314/p/MLA41881314",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new", freeShipping: true, rating: 4.4, reviewCount: 103,
+    pastelColor: "var(--pastel-coral)",
+    priceUpdated: "2026-09-08", priceLastChecked: "2026-09-08", priceStatus: "fresh", reviewsSampledAt: "2026-09-08",
+    specs: [
+      { label: "Marca", value: "Gadnic" },
+      { label: "Línea", value: "Cuk By Gadnic" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Potencia", value: "235 W" },
+      { label: "Cantidad de bandejas", value: "4" },
+      { label: "Material", value: "Plástico resistente" },
+      { label: "Diseño", value: "Compacto" },
+      { label: "Dimensiones", value: "22 x 24,5 cm (ancho x alto)" },
+      { label: "Peso", value: "2,5 kg" },
+    ],
+    relatedProducts: ["MLA46731508", "MLA29228269", "MLA48935775"],
+    description: "Deshidratador de alimentos Gadnic Cuk 235W, 4 bandejas, diseño compacto. Ocupa poco espacio en la cocina.",
+    seoTitle: "Gadnic Cuk 235W: el deshidratador de alimentos compacto",
+    metaDescription: "Gadnic Cuk 235W a {{precio:MLA41881314}}: 4 bandejas, diseño compacto y {{reviews:MLA41881314}} calificaciones.",
+    ogTitle: "Gadnic Cuk 235W: deshidratador de alimentos compacto",
+    ogDescription: "235W, 4 bandejas, diseño compacto que ocupa poco espacio. Con un aviso honesto sobre la precisión del indicador de temperatura.",
+    h1: "Gadnic Cuk 235W: deshidratador de alimentos compacto de esta comparativa",
+    verdict: "La opción más compacta de esta comparativa: 4 bandejas y diseño pensado para ocupar poco espacio en la cocina, a {{precio:MLA41881314}}. Con {{reviews:MLA41881314}} calificaciones a 4.4 estrellas, tiene buen respaldo. El aviso honesto: una reseña avisa que genera menos temperatura de la que indica el panel, y otra pide una bandeja lisa para alimentos líquidos que no incluye.",
+    pros: [
+      "Diseño compacto, pensado para ocupar poco espacio en la cocina",
+      "No es nada ruidoso, según una reseña que lo compara con otras marcas",
+      "{{reviews:MLA41881314}} calificaciones a {{rating:MLA41881314}} estrellas",
+      "Fácil de usar para deshidratar de un día para el otro",
+    ],
+    cons: [
+      "Una reseña avisa que genera menos temperatura de la que indica el panel",
+      "No incluye una bandeja lisa para alimentos líquidos (como puré de frutas para hacer láminas)",
+      "Solo 4 bandejas, la menor cantidad de esta comparativa",
+    ],
+    articleBody: `## La opción más compacta de esta comparativa
+
+El Gadnic Cuk 235W tiene 4 bandejas y un diseño pensado para ocupar poco espacio en la cocina, a {{precio:MLA41881314}}. Con {{reviews:MLA41881314}} calificaciones a 4.4 estrellas, tiene buen respaldo.
+
+## Lo que dicen los compradores reales
+
+Las reseñas destacan lo silencioso que es: "no es para nada ruidoso, como otras marcas que he tenido". Una lo usa toda la noche para tener fruta deshidratada lista a la mañana. El aviso honesto de otra reseña: "genera menos temperatura de lo que dice el indicador, pero funciona bien" — así que conviene no guiarse a ciegas por el número en el panel.
+
+## Para quién es
+
+Para cocinas con poco espacio de guardado, donde 4 bandejas alcanzan y el tamaño compacto pesa más que la capacidad. Si necesitás procesar más cantidad de una vez, el Aliante (5 bandejas) o la Gadnic Cuk 8 bandejas de esta comparativa rinden más por tanda.`,
+    faq: [
+      { question: "¿Es ruidoso?", answer: "Al contrario: una reseña lo destaca como nada ruidoso en comparación con otras marcas que tuvo antes." },
+      { question: "¿El indicador de temperatura es preciso?", answer: "Una reseña real avisa que genera menos temperatura de la que muestra el panel, aunque funciona bien igual. Conviene no guiarse a ciegas por el número exacto." },
+      { question: "¿Cuántas calificaciones tiene?", answer: "{{reviews:MLA41881314}} calificaciones a {{rating:MLA41881314}} estrellas." },
+      { question: "¿Incluye bandeja para líquidos?", answer: "No, según una reseña real que pidió específicamente una bandeja lisa para alimentos líquidos (como puré para hacer láminas de fruta)." },
+      { question: "¿Cuántas bandejas tiene?", answer: "4, la menor cantidad de esta comparativa (el Aliante tiene 5, la Gadnic Cuk grande tiene 8)." },
+      { question: "¿Trae garantía?", answer: "La ficha de MercadoLibre no detalla el plazo de garantía de fábrica de este modelo puntual; confirmalo en la publicación antes de comprar." },
+    ],
+  },
+  {
+    id: "MLA29228269",
+    title: "Deshidratador de Alimentos Cuk By Gadnic 8 Bandejas Acero Inox Panel Táctil Digital 630 W Temporizador 35 75 C Ajustable",
+    canonicalName: "Gadnic Cuk 8 Bandejas Digital", mpn: "DESHID13", brand: "Gadnic",
+    price: 447800, currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_769670-MLA99974094107_112025-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_769670-MLA99974094107_112025-O.webp"],
+    category: "Cocina", categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/deshidratador-de-alimentos-cuk-by-gadnic-8-bandejas-acero-inox-panel-tactil-digital-630-w-temporizador-35-75-c-ajustable/p/MLA29228269",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new", freeShipping: true, rating: 4.7, reviewCount: 265,
+    pastelColor: "var(--pastel-amber)",
+    priceUpdated: "2026-09-08", priceLastChecked: "2026-09-08", priceStatus: "fresh", reviewsSampledAt: "2026-09-08",
+    specs: [
+      { label: "Marca", value: "Gadnic" },
+      { label: "Línea", value: "Cuk By Gadnic" },
+      { label: "Modelo", value: "DESHID13" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Potencia", value: "630 W" },
+      { label: "Cantidad de bandejas", value: "8, de acero inoxidable" },
+      { label: "Temperatura", value: "35°C a 75°C, ajustable" },
+      { label: "Con temporizador", value: "Sí, hasta 24 horas" },
+      { label: "Tipo de control", value: "Panel táctil digital" },
+      { label: "Puerta transparente con luz interior", value: "Sí" },
+      { label: "Apagado automático", value: "Sí, por temporizador y por sobrecalentamiento" },
+    ],
+    relatedProducts: ["MLA46731508", "MLA41881314", "MLA48935775"],
+    description: "Deshidratador de alimentos Gadnic Cuk 8 bandejas, acero inoxidable, panel táctil digital y temporizador. La mayor capacidad de esta comparativa.",
+    seoTitle: "Gadnic Cuk 8 Bandejas: deshidratador con temporizador digital",
+    metaDescription: "Gadnic Cuk 8 Bandejas a {{precio:MLA29228269}}: acero inoxidable, temporizador digital y {{reviews:MLA29228269}} calificaciones. La mayor capacidad de esta comparativa.",
+    ogTitle: "Gadnic Cuk 8 Bandejas: deshidratador de acero con temporizador digital",
+    ogDescription: "8 bandejas de acero inoxidable, panel táctil digital, temporizador hasta 24 horas. La mayor capacidad de esta comparativa.",
+    h1: "Gadnic Cuk 8 Bandejas: deshidratador de alimentos, la mayor capacidad de esta comparativa",
+    verdict: "La mayor capacidad de esta comparativa: 8 bandejas de acero inoxidable, panel táctil digital y temporizador de hasta 24 horas, a {{precio:MLA29228269}}. Con {{reviews:MLA29228269}} calificaciones a 4.7 estrellas, es la mejor calificada de las cuatro. El aviso honesto de una reseña muy detallada: la bandeja más cercana a la puerta deshidrata peor que el resto, y conviene rotarlas a mitad de proceso.",
+    pros: [
+      "La mayor capacidad de esta comparativa: 8 bandejas de acero inoxidable",
+      "4.7 estrellas, la mejor calificación de esta comparativa",
+      "Temporizador digital de hasta 24 horas y apagado automático",
+      "Puerta transparente con luz interior para supervisar sin abrirla",
+    ],
+    cons: [
+      "Es la más cara de esta comparativa por lejos",
+      "Una reseña muy detallada avisa que la bandeja más cercana a la puerta deshidrata peor; conviene rotarlas a mitad de proceso",
+      "Ocupa bastante lugar y necesita 5-10cm de espacio libre alrededor porque se calienta, según la misma reseña",
+    ],
+    articleBody: `## La mayor capacidad de esta comparativa
+
+La Gadnic Cuk 8 Bandejas es la opción de mayor capacidad de esta comparativa: 8 bandejas de acero inoxidable, panel táctil digital y temporizador de hasta 24 horas, a {{precio:MLA29228269}}. Con {{reviews:MLA29228269}} calificaciones a 4.7 estrellas, es la mejor calificada de las cuatro.
+
+## Lo que dice una reseña muy detallada
+
+Un comprador que ya había leído sobre el problema de la bandeja delantera lo confirmó y encontró la solución: "lo que probé hacer es 2 programas de 5 horas a 70°C y roto las bandejas exponiendo la parte del fondo al frente cuando inicio el 2do deshidratado, y los alimentos quedan de 10". También avisa que "ocupa bastante lugar y hay que dejarle unos 5-10cm de espacio adicional alrededor ya que se calienta bastante".
+
+## Para quién es
+
+Para quien deshidrata en volumen (para vender, para una familia grande, o para stockear) y valora el temporizador digital con apagado automático. Si vas a usarla poco o el espacio de tu cocina es limitado, el Aliante o la Gadnic Cuk 235W de esta comparativa son más chicas y bastante más baratas.`,
+    faq: [
+      { question: "¿Deshidrata parejo en todas las bandejas?", answer: "Una reseña muy detallada avisa que la bandeja más cercana a la puerta deshidrata peor que el resto, y recomienda rotar las bandejas a mitad de proceso para compensarlo." },
+      { question: "¿Cuánto espacio necesita?", answer: "Según una reseña detallada, conviene dejarle 5-10cm de espacio libre alrededor porque se calienta bastante durante el uso." },
+      { question: "¿Cuántas calificaciones tiene?", answer: "{{reviews:MLA29228269}} calificaciones a {{rating:MLA29228269}} estrellas, la mejor calificación de esta comparativa." },
+      { question: "¿Tiene apagado automático?", answer: "Sí, por temporizador (hasta 24 horas) y también por protección contra sobrecalentamiento." },
+      { question: "¿Es de acero inoxidable?", answer: "Sí, las 8 bandejas son de acero inoxidable, a diferencia del Aliante y la Gadnic Cuk 235W de esta comparativa, que son de plástico." },
+      { question: "¿Trae garantía?", answer: "La ficha de MercadoLibre no detalla el plazo de garantía de fábrica de este modelo puntual; confirmalo en la publicación antes de comprar." },
+    ],
+  },
+  {
+    id: "MLA48935775",
+    title: "Deshidratador De Alimentos Suono 5 Bandejas Carnes Frutas Ve Color Blanco",
+    canonicalName: "Suono 5 Bandejas", mpn: "Suono", brand: "Suono",
+    price: 65999, currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_709205-MLA100073006863_122025-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_709205-MLA100073006863_122025-O.webp"],
+    category: "Cocina", categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/deshidratador-de-alimentos-suono-5-bandejas-carnes-frutas-ve-color-blanco/p/MLA48935775",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new", freeShipping: true, rating: 4.5, reviewCount: 414,
+    pastelColor: "var(--pastel-purple)",
+    priceUpdated: "2026-09-08", priceLastChecked: "2026-09-08", priceStatus: "fresh", reviewsSampledAt: "2026-09-08",
+    specs: [
+      { label: "Marca", value: "Suono" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Potencia", value: "240 W" },
+      { label: "Cantidad de bandejas", value: "5" },
+      { label: "Temperatura", value: "35°C a 70°C, ajustable" },
+      { label: "Material", value: "Plástico libre de BPA" },
+      { label: "Con temporizador", value: "No especificado en la ficha técnica" },
+    ],
+    relatedProducts: ["MLA46731508", "MLA41881314", "MLA29228269"],
+    description: "Deshidratador de alimentos Suono, 5 bandejas, 240W. Muy versátil según reseñas reales: comida, filamento de impresora 3D y más.",
+    seoTitle: "Suono 5 Bandejas: deshidratador de alimentos versátil",
+    metaDescription: "Suono 5 Bandejas a {{precio:MLA48935775}}: 5 bandejas, 240W y {{reviews:MLA48935775}} calificaciones.",
+    ogTitle: "Suono 5 Bandejas: deshidratador de alimentos versátil",
+    ogDescription: "5 bandejas, 35-70°C ajustable. Muy versátil según reseñas reales, con un aviso honesto sobre los tiempos de secado.",
+    h1: "Suono 5 Bandejas: deshidratador de alimentos, alternativa versátil de esta comparativa",
+    verdict: "Una alternativa muy similar al Aliante de esta comparativa: 5 bandejas y temperatura ajustable de 35°C a 70°C, a {{precio:MLA48935775}}. Con {{reviews:MLA48935775}} calificaciones a 4.5 estrellas, tiene buen respaldo. Un dato honesto: cuesta un poco más y tiene menos calificaciones que el Aliante, así que si el precio es lo único que te importa, el Aliante rinde igual por menos. La ventaja real que muestran las reseñas: es muy versátil para usos no alimenticios, como secar filamento de impresora 3D.",
+    pros: [
+      "{{reviews:MLA48935775}} calificaciones a {{rating:MLA48935775}} estrellas, buen respaldo real",
+      "Muy versátil: reseñas reales lo usan para secar filamento de impresora 3D (PLA, ABS, PETG, TPU) además de comida",
+      "5 bandejas desmontables, libre de BPA",
+      "Buen resultado deshidratando carnes, frutas y verduras según reseñas",
+    ],
+    cons: [
+      "Cuesta un poco más que el Aliante de esta comparativa, con menos calificaciones acumuladas",
+      "Una reseña avisa que tarda un poco más de lo que indica en deshidratar",
+      "Otra reseña avisa que a temperatura máxima quema un poco los vegetales",
+    ],
+    articleBody: `## Una alternativa muy similar al Aliante, con un plus de versatilidad
+
+El Suono 5 Bandejas es muy parecido al Aliante de esta comparativa: 5 bandejas, temperatura ajustable de 35°C a 70°C y plástico libre de BPA, a {{precio:MLA48935775}}. Si solo te importa el precio y la cantidad de opiniones, el Aliante rinde igual por menos.
+
+## Lo que lo hace destacar: la versatilidad
+
+Una reseña lo compró específicamente para secar filamento de impresora 3D: "funciona excelente y cuesta la mitad que el secador de filamentos más barato... pude secar TPU, ABS, PETG y PLA sin problemas". Para comida, las reseñas son sólidas: "lo usé con carnes, frutas y verduras, tanto para guardar seco como para hacer polvo, ningún problema".
+
+## Los avisos honestos
+
+Una reseña avisa que "tarda un poco más de lo que dice en deshidratar", y otra que "con la temperatura máxima quema un poco los vegetales". Nada grave, pero conviene saberlo antes de dejarlo sin supervisión la primera vez.
+
+## Para quién es
+
+Para quien ya decidió esta marca en particular, o quiere aprovecharlo también para secar filamento de impresora 3D u otros usos no alimenticios. Para uso puramente alimenticio y el mejor precio, el Aliante de esta comparativa cumple igual de bien.`,
+    faq: [
+      { question: "¿Sirve para secar filamento de impresora 3D?", answer: "Sí, según una reseña real que lo probó con TPU, ABS, PETG y PLA sin problemas, a una fracción del precio de un secador de filamentos dedicado." },
+      { question: "¿Es mejor que el Aliante de esta comparativa?", answer: "Son muy similares para uso alimenticio. El Aliante es más barato y tiene más calificaciones; el Suono suma versatilidad probada para usos no alimenticios como secar filamento 3D." },
+      { question: "¿Cuántas calificaciones tiene?", answer: "{{reviews:MLA48935775}} calificaciones a {{rating:MLA48935775}} estrellas." },
+      { question: "¿Tarda mucho en deshidratar?", answer: "Una reseña real avisa que tarda un poco más de lo que indica la ficha, aunque el resultado final es bueno." },
+      { question: "¿Quema los alimentos a temperatura máxima?", answer: "Una reseña avisa que a la temperatura más alta quema un poco los vegetales; conviene no usar siempre el máximo para alimentos delicados." },
+      { question: "¿Trae garantía?", answer: "La ficha de MercadoLibre no detalla el plazo de garantía de fábrica de este modelo puntual; confirmalo en la publicación antes de comprar." },
+    ],
+  },
 ];
 
 export const categoryPastels: Record<string, string> = {

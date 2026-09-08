@@ -1970,6 +1970,55 @@ local verificado en el navegador. Las 4 imágenes verificadas con GET real (2.39
 
 Re-medir: **~2026-10-06** (≈4 semanas), contra baseline cero.
 
+## 2026-09-08 — Guía nueva `deshidratador-de-alimentos` (silo cocina, categoría nueva, 4 fichas nuevas) — sexta de un segundo lote
+
+| Guía | Silo | Categoría | Keyword | Volumen (Ubersuggest AR) | SD | Productos |
+| :-- | :-- | :-- | :-- | --: | --: | --: |
+| `deshidratador-de-alimentos` | cocina | deshidratador-de-alimentos | deshidratador de alimentos | 2.400 | 11 | 4 |
+
+**Baseline: cero.** URL nueva, sin historial en GSC. Sexta guía del segundo lote. Sin canibalización:
+solo existían menciones incidentales en fichas de freidoras de aire ("no es un deshidratador
+dedicado").
+
+**4 fichas nuevas importadas desde cero**, todas verificadas en vivo en MercadoLibre Argentina: Aliante
+AL-01 (5 bandejas, 350W, $62.930, 4.5★/**633 reseñas** — la base más grande, el más elegido y el más
+barato), Gadnic Cuk 235W (4 bandejas, $86.749, 4.4★/103 reseñas, el más compacto), Gadnic Cuk 8 Bandejas
+(acero inoxidable, panel táctil digital, temporizador hasta 24h, $447.800, 4.7★/265 reseñas — la nota más
+alta, la mayor capacidad), Suono 5 Bandejas ($65.999, 4.5★/414 reseñas, el más versátil).
+
+**Hallazgo honesto central: Aliante y Suono son productos genuinamente casi idénticos** (5 bandejas,
+plástico libre de BPA, rango de temperatura casi igual). En vez de forzar una diferenciación artificial,
+se documentó de frente: el Aliante gana en precio Y en reseñas, así que el Suono no reclama ningún
+superlativo de precio ni de popularidad — su rol se ancla en un hallazgo real de sus propias reseñas
+(varios compradores lo usan para secar filamento de impresora 3D: PLA, ABS, PETG, TPU), y tanto la ficha
+como la guía dicen explícitamente "si solo te importa el precio y las opiniones, el Aliante rinde igual
+por menos".
+
+**3 candidatos de mayor capacidad descartados por no tener ninguna reseña real** (Fendia 12 bandejas,
+Excalibur 4926T220FB, Tinana 7 bandejas digital — todos con `aggregateRating` ausente en su JSON-LD pese
+a buen posicionamiento de búsqueda). Se prefirió la Gadnic Cuk 8 Bandejas (265 reseñas reales) como techo
+de capacidad de la guía.
+
+**Bug mecánico real encontrado y corregido ANTES de auditar**: el link interno a la ficha de la Gadnic
+Cuk 8 Bandejas se escribió con el slug completo del título (muy largo) en vez de la versión truncada a 80
+caracteres que produce `productSlug()`. Atrapado por `check-canonical-product-links.cjs` (9 ocurrencias).
+Corregido con `sed` acotado a esa cadena larga y específica (segura por ser única, no una frase de prosa
+compartida) en las 9 ubicaciones de `guides.ts`.
+
+**Auditoría del trío: 1 sola ronda, GO de `agy`, sin ediciones no autorizadas.** `agy` cubrió también los
+puntos técnicos de Codex en su propio reporte.
+
+**Incidente operativo: caída de acceso de Codex confirmada persistente también en esta guía (cuarta vez
+consecutiva en este lote).** Ver memoria del proyecto [[codex-cuenta-chatgpt-puede-perder-acceso-a-modelo]].
+No se reintentó una segunda vez.
+
+**Verificación:** `npx tsc --noEmit`, los 4 scripts de `guides:check` que no dependen de `affiliateUrl`,
+`check-hardcoded-reviews`, `node scripts/check-price-guard.cjs` y `npm run build` en verde tras la
+corrección del slug. Render local verificado en el navegador, incluida la navegación directa a la ficha
+corregida. Las 4 imágenes verificadas con GET real (17.528 a 38.340 bytes).
+
+Re-medir: **~2026-10-06** (≈4 semanas), contra baseline cero.
+
 ## 2026-09-08 — Guía nueva `campana-extractora` (silo cocina, categoría nueva, 4 fichas nuevas) — quinta de un segundo lote
 
 | Guía | Silo | Categoría | Keyword | Volumen (Ubersuggest AR) | SD | Productos |
