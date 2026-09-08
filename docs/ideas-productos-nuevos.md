@@ -4,6 +4,63 @@
 > MercadoLibre, de la corrida semanal automática. Generador de ideas — no
 > toca el catálogo. Entradas nuevas arriba.
 
+## 2026-09-08
+
+### Freidora de aire (ML) [ml] (0 productos)
+
+_No se pudo extraer nada esta vez — revisar el parser._
+
+### Aspiradora robot (ML) [ml] (12 productos)
+
+- Llega gratis hoy — $356.749
+- Llega gratis mañana — $774.899
+- ![TP-LINK TAPO ASPIRADORA Y TRAPEADORA RV20 MAX PLUS 5300Pa](https://http2.mlstatic.com/D_Q_NP_2X_777217-MLA96905855908_112025-E.webp) — $382.946
+- OFERTA IMPERDIBLE — $435.499
+- ![Robot Aspirador Xiaomi Robot Vacuum 5 Pro 20000pa Blanco Blanco](https://http2.mlstatic.com/D_Q_NP_2X_733590-MLA97275258972_112025-E.webp) — $2.999.999
+- ![Irobot Roomba 205 Combo Negro](https://http2.mlstatic.com/D_Q_NP_2X_885971-MLA104911412436_012026-E.webp) — $999.999
+- ![Robot Aspirador Inteligente Doméstico Negro,hogar 18 Cm Negr Negro](https://http2.mlstatic.com/D_Q_NP_2X_901252-CBT115202967215_072026-E.webp) — $1.451.208
+- ![Xiaomi Robot Vacuum S40 Us Color Blanco](https://http2.mlstatic.com/D_Q_NP_2X_778237-MLA99219066155_112025-E.webp) — $389.999
+- ](https://www.mercadolibre.com.ar/xiaomi-robot-vacuum-s40-us-color-blanco/p/MLA62453968?offer_type=BEST_INSTALLMENTS#wid=MLA3919732834&sid=search) — $199.999
+- ![Aspiradora inalámbrica Philips Série 3000 PHXC313351 300 mL](https://http2.mlstatic.com/D_Q_NP_2X_773499-MLA100062691737_122025-E.webp) — $391.989
+- ![Aspiradora Inalámbrica Smart-tek Robot Ava Ultra Wifi](https://http2.mlstatic.com/D_Q_NP_2X_690234-MLA115299172510_082026-E.webp) — $810.999
+- ![Aspiradora Robot Trapeadora Gadnic V51 4 Modos De Mapeo Negro](https://http2.mlstatic.com/D_Q_NP_2X_681869-MLA106101204335_012026-E.webp) — $299.999
+
+### Amazon Kitchen & Dining bestsellers [amazon] (15 productos)
+
+- Bounty Paper Towels Quick Size, White, 16 Family Rolls = 40 Regular Rolls — US$43.49
+- Owala FreeSip Stainless Steel Water Bottle 24 oz Denim — US$29.99
+- Nespresso Capsules Vertuo, Variety Pack, Medium and Dark Roast Coffee, 30 Count Coffee Pods, Brews 7.8 oz. — US$42.00
+- Bounty Select-A-Size Paper Towels, White, 2 Triple Rolls = 6 Regular Rolls — US$7.32
+- Amazon Basics Everyday Disposable Paper Plates, 8.62 Inch, Microwave-Safe, Cut Resistant, Soak-Proof, 100 Count, Packaging May Vary — US$5.97
+- Scott Paper Towels, Choose-A-Sheet, 6 Double Rolls, 108 Sheets Per Roll — US$6.84
+- Dixie Paper Plates 8.5 Inch, 90 Count, Disposable Plates | For parties as dessert plates or snack plates, 2X stronger, small paper plates are soak-proof, cut resistant, microwave-safe — US$5.89
+- STANLEY Quencher H2.0 Flow State Tumbler, 40 oz, Cranberry | Handle and Straw | 3-Position Lid | Cup Holder Compatible for Travel | Insulated Stainless Steel Cup | BPA-Free — US$45.00
+- Amazon Basics 2-Ply Flex-Sheets Paper Towels, 12 Basics Rolls = 40 Regular Rolls, Everyday Value with 150 Sheets per Roll, Packaging May Vary — US$22.86
+- Lavazza Super Crema Whole Bean Coffee, Medium Espresso Roast, Arabica and Robusta Blend, 2.2 lb Bag, Package May Vary — US$26.99
+- Sparkle Pick-A-Size Kitchen Paper Towels, 6 Double Rolls, 660 Sheets | Strong 2 ply paper towels for kitchen cleanup and everyday messes, high absorbency for soaking up spills and wiping surfaces — US$7.92
+- STANLEY IceFlow 2.0 Flip Straw Tumbler, 30 oz, Black 2.0 | Easy Carry Handle | Twist On Lid and Flip Up Straw | Leak Resistant Water Bottle | Insulated Stainless Steel | BPA-Free — US$21.00
+- STANLEY Quencher ProTour Flipstraw Tumbler, 40 oz, Hydrangea | Built-In Straw & Handle | Cupholder Compatible for Travel | Leakproof Insulated Stainless Steel Cup | BPA-Free — US$45.00
+- Bounty Paper Napkins, White, 200 Count, Packaging may vary — US$3.49
+- Amazon Brand - Happy Belly Dark Roast Coffee Pods, Compatible with Keurig 2.0 K-Cup Brewers, 100 Count — US$33.02
+
+### Amazon Home & Kitchen bestsellers [amazon] (15 productos)
+
+- STANLEY Quencher H2.0 Flow State Tumbler, 40 oz, Cranberry | Handle and Straw | 3-Position Lid | Cup Holder Compatible for Travel | Insulated Stainless Steel Cup | BPA-Free — US$45.00
+- Owala FreeSip Stainless Steel Water Bottle 24 oz Denim — US$29.99
+- Amazon Basics Lightweight Super Soft Easy Care Wrinkle Free Microfiber 3 Piece Bed Sheet Set with 14-Inch Deep Pockets, Twin, Navy Blue, Solid, Kids, Men & Women Bedding — US$11.60
+- TERRO Liquid Ant Killer Bait Stations, 12-Pack, Indoor Ant Traps, T300B | Borax Formula, Kills the Queen & the Entire Colony, Liquid Ant Baits Indoor, Kills Household Ants, Indoor Use — US$10.48
+- Zevo Flying Insect Trap Refill Cartridges for Fruit Flies & Gnats, 4 Count | Fits Zevo MAX & Zevo Flying Insect Trap, Catches House Flies, Gnats & Fruit Flies 24/7, No Added Fragrance or Dyes — US$14.97
+- Queen Size 4 Piece Sheet Set - Breathable & Cooling Sheets - Dark Grey | Hotel Luxury Bed Sheets for Women & Men, Deep Pockets, Easy-Fit, Extra Soft and Wrinkle Free Sheets, Oeko-Tex Bed Sheet Set — US$24.99
+- Barossa Design Oeko-tex Certified Shower Curtain Liner Standard Size, Clear | Waterproof PEVA, Rustproof Grommets, 3 Bottom Magnets, Cute Lightweight Bathroom Curtain, Fits Standard Tub 72" Length — US$8.95
+- Amazon Basics Slim Velvet Non-Slip Space Saving Suit Clothes Hangers, Closet Organizer, Black, 50-Pack — US$20.99
+- Zevo Flying Insect Trap for Fruit Flies & Gnats, 1 Plug-in Base & 1 Refills | Catches Fruit Flies & Gnats Near Fruit Bowls & Trash Bins, Spray-Free, Odor-Free, Blue & UV Light Trap, Safe for Kids & Pets\* — US$19.97
+- upsimples 11x14 Picture Frame, Wall Decor Photo Frames, Black 1 Pack | 11 x 14 Frame, 8x10 Frame with Mat for Gallery Wall, Family, Baby, Dog, Dorm, Christmas — US$6.99
+- STANLEY Quencher ProTour Flipstraw Tumbler, 40 oz, Hydrangea | Built-In Straw & Handle | Cupholder Compatible for Travel | Leakproof Insulated Stainless Steel Cup | BPA-Free — US$45.00
+- BEDLORE Waterproof Mattress Protector, Queen Size Mattress Pad Noiseless | Deep Pockets Fit 6"-18" Mattresses, Soft Breathable Dirt-proof Bed Mattress Cover Washable for Home, Bedroom, Hotel — US$23.99
+- Niagara Sleep Solution Queen Ultra Soft Mattress Topper — Back Pain Relief | Rayon Derived from Bamboo, 20" Deep Pocket, Breathable Pillow Top Mattress Pad, Perfect for Hot Sleepers, Green — US$37.99
+- STANLEY IceFlow 2.0 Flip Straw Tumbler, 30 oz, Black 2.0 | Easy Carry Handle | Twist On Lid and Flip Up Straw | Leak Resistant Water Bottle | Insulated Stainless Steel | BPA-Free — US$21.00
+- TERRO Fruit Fly Trap 4-Pack, 180 Day Lure Supply, Food-Based Lure | Apple-Shaped Design for Kitchen Counters, Fruit Bowls, Trash Cans, Food-Based Lure, Indoor Pest Control, Fruit Fly Killer — US$11.94
+
 ## 2026-07-08
 
 ### Freidora de aire (ML) [ml] (15 productos)
