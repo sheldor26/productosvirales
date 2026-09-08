@@ -2119,4 +2119,54 @@ export const socialPosts: SocialPost[] = [
     offPct: "32",
     postedAt: "2026-09-08T16:50:12-03:00",
   },
+  {
+    title: "Monitor Gamer LG UltraGear 24GS60F-B",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_721575-MLA99938046415_112025-O.webp",
+    affiliateUrl: "https://meli.la/1kdUXCc",
+    newPrice: "211.389",
+    oldPrice: "254.476",
+    offPct: "16",
+    postedAt: "2026-09-08T17:38:54-03:00",
+  },
+  {
+    title: "Memoria RAM DDR4 Kingdian 16GB 3200MHz",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_954180-MLA99988530147_112025-O.webp",
+    affiliateUrl: "https://meli.la/11Qwxys",
+    newPrice: "189.149",
+    oldPrice: "300.000",
+    offPct: "36",
+    postedAt: "2026-09-08T17:39:50-03:00",
+  },
+  {
+    title: "Silla Gamer Con Luces LED",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_704523-MLA95696481722_102025-O.webp",
+    affiliateUrl: "https://meli.la/2XyT379",
+    newPrice: "189.999",
+    oldPrice: "269.999",
+    offPct: "29",
+    postedAt: "2026-09-08T17:40:49-03:00",
+  },
+  {
+    title: 'Smart TV Kanji 50" QLED 4K UHD',
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_699722-MLA107761789868_032026-O.webp",
+    affiliateUrl: "https://meli.la/1rnLSpE",
+    newPrice: "532.172",
+    oldPrice: "666.999",
+    offPct: "20",
+    postedAt: "2026-09-08T17:41:42-03:00",
+  },
+  {
+    title: 'Smart TV Noblex 40" Roku TV',
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_841735-MLA110793474055_042026-O.webp",
+    affiliateUrl: "https://meli.la/2jR5qpe",
+    newPrice: "366.599",
+    oldPrice: "449.999",
+    offPct: "18",
+    postedAt: "2026-09-08T17:42:37-03:00",
+  },
 ];
