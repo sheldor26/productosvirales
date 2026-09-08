@@ -63648,7 +63648,7 @@ La Daewoo Yoggy Pro DYM672T es una yogurtera eléctrica de 2 litros con un solo 
 
 ## Cómo funciona
 
-Calienta con tecnología PTC (220-240V, 20W confirmados por el manual oficial) a una temperatura constante de 42°C para fermentar los 2 litros de leche en el recipiente único, durante 8 a 12 horas. Al cumplirse el tiempo programado, el manual oficial aclara que el equipo no se apaga del todo: pasa a un modo "mantener caliente" con luz verde, distinto de un apagado total. Para conseguir la textura de yogur griego, hay que enfriar el yogur ya fermentado en la heladera (el manual recomienda colador y balde 2 horas, más 1 hora extra de frío) y después pasarlo por el filtro incluido: ese paso de colado se hace por fuera de la máquina, no automáticamente. El manual oficial (disponible en daewooshop.com.ar) funciona también como recetario, con los métodos paso a paso.
+Calienta con tecnología PTC (220-240V, 20W confirmados por el manual oficial) a una temperatura constante de 42°C para fermentar los 2 litros de leche en el recipiente único, durante 8 a 12 horas. Un detalle importante: el equipo mantiene esa temperatura constante, pero no calienta la leche de entrada. Conviene entibiar la leche aparte (a mano, hasta unos 45°C) antes de volcarla en el recipiente, para que la fermentación arranque parejo desde el primer momento en vez de que la máquina tenga que ir subiendo la temperatura de una leche fría de heladera. Dentro de la ventana de 8 a 12 horas, cuanto más tiempo se deja, más ácido queda el yogur; conviene probar y ajustar según el gusto propio. Al cumplirse el tiempo programado, el manual oficial aclara que el equipo no se apaga del todo: pasa a un modo "mantener caliente" con luz verde, distinto de un apagado total. Para conseguir la textura de yogur griego, hay que enfriar el yogur ya fermentado en la heladera (el manual recomienda colador y balde 2 horas, más 1 hora extra de frío) y después pasarlo por el filtro incluido: ese paso de colado se hace por fuera de la máquina, no automáticamente, y conviene hacerlo con el yogur ya frío, no recién sacado tibio de la máquina, porque frío toma más cuerpo y cuela mejor. El manual oficial (disponible en daewooshop.com.ar) funciona también como recetario, con los métodos paso a paso.
 
 ## La contra real
 
@@ -63693,6 +63693,14 @@ Comprá la Daewoo Yoggy Pro si tu objetivo es específicamente yogur griego cola
       {
         question: "¿El filtro incluido alcanza para hacer buen yogur griego?",
         answer: "Para la mayoría sí, pero varios compradores en la tienda oficial de Daewoo recomiendan sumar un lienzo fino o una bolsita de tela aparte (vendida por separado, no siempre incluida) para colar mejor el suero y lograr una textura más firme.",
+      },
+      {
+        question: "¿Hay que calentar la leche antes de ponerla en la máquina?",
+        answer: "Conviene sí. El equipo mantiene la temperatura de fermentación constante, pero no la genera desde cero: si se pone leche fría de heladera, tarda más en arrancar. Entibiarla aparte hasta unos 45°C antes de volcarla en el recipiente da un resultado más parejo.",
+      },
+      {
+        question: "¿Cuánto tiempo conviene fermentar?",
+        answer: "Dentro de la ventana de 8 a 12 horas del manual, es cuestión de gusto: menos tiempo da un yogur más suave, y cerca de las 12 horas queda más ácido. Conviene probar una vez y ajustar la próxima según lo que más guste en casa.",
       },
     ],
   },
