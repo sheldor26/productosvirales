@@ -46,6 +46,8 @@ negro — tienen precio de lista distinto).
 | Teclado Mecánico RK Royal Kludge R75 RGB con Perilla | $91.179 | 2026-08-29 | meli.la/168yhvM — sin referencia previa |
 | Silla Gamer Cougar Speeder One Ergonómica | $379.999 | 2026-08-29 | meli.la/2FGrjUj — sin referencia previa |
 | Auriculares Gamer Logitech G435 Wireless | $195.326 | 2026-08-29 | meli.la/2iowCR3 — sin referencia previa |
+| Auriculares Gamer Logitech G435 Wireless | **$177.338** | 2026-09-08 | meli.la/2iowCR3 — mismo link/ficha que el post del 29/8 ($195.326), bajó más, "Mejor precio" ya seleccionado por default, 4.7★ (9436 op.), +10 mil vendidos, Tienda oficial Tecnoteam, sin badge ML explícito (no se inventó MÁS VENDIDO/OFERTA IMPERDIBLE, se usó "MEJOR PRECIO" que sí es literal de la ficha) |
+| Monitor Gaming Xiaomi G24i 200Hz | $244.499 | 2026-09-08 | meli.la/1GAyhFf — sin referencia previa, primera vez que se postea la marca Xiaomi en monitores (ya se postearon Valkyrie, MSI, X-Micro, ViewSonic, LG, Samsung, Gigabyte), OFERTA IMPERDIBLE, 4.8★ (115 op.), +100 vendidos, Tienda oficial Xiaomi, envío FULL. ⚠️ El listado de /ofertas mostraba $599.999→$396.999 (33% OFF); la ficha real al entrar mostraba $379.999→$244.499 (35% OFF) — se usó el precio de la ficha, no el del listado |
 | Notebook Asus TUF Gaming A16 RTX 5050 16GB 1TB | $2.772.099 | 2026-08-31 | meli.la/2Z5Engk — sin referencia previa |
 | PC Gamer AMD Ryzen 7 5700 32GB RTX 3050 1TB Armada Noxi | $1.481.916 | 2026-08-31 | meli.la/2fk63He — sin referencia previa |
 | Monitor Gamer Gigabyte GO27Q24A 27" QD-OLED 240Hz | $1.031.554 | 2026-08-31 | meli.la/1NEG8vM — sin referencia previa |

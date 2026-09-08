@@ -1979,4 +1979,24 @@ export const socialPosts: SocialPost[] = [
     offPct: "23",
     postedAt: "2026-09-08T10:10:56-03:00",
   },
+  {
+    title: "Auriculares Gamer Logitech G435 Wireless",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_697638-MLA99515510390_112025-O.webp",
+    affiliateUrl: "https://meli.la/2iowCR3",
+    newPrice: "177.338",
+    oldPrice: "292.224",
+    offPct: "39",
+    postedAt: "2026-09-08T10:43:29-03:00",
+  },
+  {
+    title: "Monitor Gaming Xiaomi G24i 200Hz",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_778222-MLA100027334288_122025-O.webp",
+    affiliateUrl: "https://meli.la/1GAyhFf",
+    newPrice: "244.499",
+    oldPrice: "379.999",
+    offPct: "35",
+    postedAt: "2026-09-08T10:44:57-03:00",
+  },
 ];
