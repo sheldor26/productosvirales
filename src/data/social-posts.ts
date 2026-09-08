@@ -1919,4 +1919,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "50",
     postedAt: "2026-09-08T08:18:34-03:00",
   },
+  {
+    title: "Consola Nintendo Switch 2",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_788400-MLA99958400949_112025-O.webp",
+    affiliateUrl: "https://meli.la/2TqsLsm",
+    newPrice: "1.499.999",
+    oldPrice: "1.699.999",
+    offPct: "11",
+    postedAt: "2026-09-08T08:34:19-03:00",
+  },
 ];
