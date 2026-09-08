@@ -46853,11 +46853,12 @@ El combo cumple lo que dice: álbum oficial más 175 figuritas para empezar. Es 
   {
     id: 'MLA18642318',
     title: 'Aspiradora Trapeadora Robot Atma Atar21c1dh Blanca',
-    price: 239989,
-    originalPrice: 269999,
-    priceUpdated: "2026-09-07",
-    priceLastChecked: "2026-09-07",
+    price: 239999,
+    originalPrice: 410399,
+    priceUpdated: "2026-08-31",
+    priceLastChecked: "2026-08-31",
     priceStatus: "fresh",
+    priceVerifiedAt: "2026-08-31",
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_608905-MLA99516871408_112025-F.jpg',
     images: [
