@@ -1929,4 +1929,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "11",
     postedAt: "2026-09-08T08:34:19-03:00",
   },
+  {
+    title: "Cocina Multigas Drean 60cm Inox con Display",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_917626-MLA104282339258_012026-O.webp",
+    affiliateUrl: "https://meli.la/2e9ztww",
+    newPrice: "1.259.999",
+    oldPrice: "1.935.998",
+    offPct: "34",
+    postedAt: "2026-09-08T08:37:34-03:00",
+  },
 ];
