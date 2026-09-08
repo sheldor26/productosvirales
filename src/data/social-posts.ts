@@ -1999,4 +1999,24 @@ export const socialPosts: SocialPost[] = [
     offPct: "35",
     postedAt: "2026-09-08T10:44:57-03:00",
   },
+  {
+    title: 'Smart TV Samsung 50" Crystal UHD 4K UN50DU7000',
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_632846-MLA99936966813_112025-O.webp",
+    affiliateUrl: "https://meli.la/1nABcrb",
+    newPrice: "711.780",
+    oldPrice: "1.999.999",
+    offPct: "64",
+    postedAt: "2026-09-08T12:30:36-03:00",
+  },
+  {
+    title: 'Smart TV Samsung 43" FHD 43F6000',
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_781807-MLA95283852822_102025-O.webp",
+    affiliateUrl: "https://meli.la/2PgFpcG",
+    newPrice: "454.999",
+    oldPrice: "599.999",
+    offPct: "24",
+    postedAt: "2026-09-08T12:31:41-03:00",
+  },
 ];
