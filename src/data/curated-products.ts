@@ -86575,6 +86575,271 @@ Para quien ya decidió invertir en el mejor anafe eléctrico de perilla-fija (o 
       { question: "¿Tiene más de una hornalla?", answer: "No, es de 1 sola hornalla. Si necesitás dos, mirá el Yelmo AN-9906 o el Winco W41 de esta misma comparativa." },
     ],
   },
+  {
+    id: "MLA28427866",
+    title: "Batidora Manual Optibat AB100 De 350W Color Blanco Liliana",
+    canonicalName: "Liliana Optibat AB100", mpn: "AB100", brand: "Liliana",
+    price: 42182, originalPrice: 52719, currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_988670-MLA99512697472_112025-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_988670-MLA99512697472_112025-O.webp"],
+    category: "Cocina", categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/batidora-manual-optibat-ab100-de-350w-color-blanco-liliana/p/MLA28427866",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new", freeShipping: true, rating: 4.4, reviewCount: 2033,
+    pastelColor: "var(--pastel-blue)",
+    priceUpdated: "2026-09-08", priceLastChecked: "2026-09-08", priceStatus: "fresh", reviewsSampledAt: "2026-09-08",
+    specs: [
+      { label: "Marca", value: "Liliana" },
+      { label: "Línea", value: "Optibat" },
+      { label: "Modelo", value: "AB100" },
+      { label: "Tipo de batidora", value: "De mano" },
+      { label: "Potencia", value: "350 W" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Cantidad de velocidades", value: "3" },
+      { label: "Con función turbo", value: "Sí" },
+      { label: "Con botón eyector", value: "Sí" },
+      { label: "Accesorios incluidos", value: "2 batidores, 1 amasador" },
+      { label: "Materiales de los batidores", value: "Metal y plástico" },
+    ],
+    relatedProducts: ["MLA51335717", "MLA15992328", "MLA45462816"],
+    description: "Batidora de mano Liliana Optibat AB100, 350W, 3 velocidades y función turbo. La más barata de esta comparativa, con más de 2.000 calificaciones. Ojo: los batidores que trae de fábrica son de plástico, no de metal.",
+    seoTitle: "Liliana Optibat AB100: la batidora de mano más barata para empezar",
+    metaDescription: "Liliana Optibat AB100 a {{precio:MLA28427866}}: 350W, 3 velocidades y {{reviews:MLA28427866}} calificaciones. La entrada más económica, con un detalle honesto sobre sus batidores de plástico.",
+    ogTitle: "Liliana Optibat AB100: la batidora de mano más barata de esta comparativa",
+    ogDescription: "350W, 3 velocidades, función turbo y más de 2.000 calificaciones. La entrada más barata para batir sin gastar de más, con lo bueno y lo malo de sus batidores plásticos.",
+    h1: "Liliana Optibat AB100: batidora de mano de entrada, la más barata de esta comparativa",
+    verdict: "La opción más barata de esta comparativa y la más elegida: {{reviews:MLA28427866}} calificaciones a 4.4 estrellas. Cumple lo básico (batir, mezclar, amasar con el accesorio que trae) con 3 velocidades y función turbo. El punto flojo, confirmado por varias reseñas, son los batidores: vienen en plástico, no en metal como los otros modelos de esta comparativa, y flexan si la mezcla es espesa.",
+    pros: [
+      "La más barata de esta comparativa",
+      "{{reviews:MLA28427866}} calificaciones, la base más grande de esta comparativa",
+      "Función turbo y botón eyector para sacar los batidores sin tocarlos",
+      "Incluye accesorio amasador para masas simples",
+      "Liviana y compacta para guardar",
+    ],
+    cons: [
+      "Los batidores que trae son de plástico, no de metal: varias reseñas reportan que flexan con mezclas espesas",
+      "Solo 3 velocidades, la cantidad más chica de esta comparativa",
+      "350W, potencia intermedia entre las batidoras de mano de esta comparativa (menos que el Ultracomb BM-2608R, más que la Yelmo BM-1608)",
+    ],
+    articleBody: `## La batidora de mano más barata de esta comparativa
+
+La Liliana Optibat AB100 es la opción de entrada: {{precio:MLA28427866}} por una batidora de mano de 350W con 3 velocidades y función turbo. Es también la más elegida, con {{reviews:MLA28427866}} calificaciones a 4.4 estrellas, la base de opiniones más grande de esta comparativa.
+
+## Lo honesto: los batidores son de plástico
+
+La ficha técnica lo confirma y varias reseñas lo repiten: los 2 batidores que trae de fábrica están hechos en metal y plástico, no en metal puro como los del Ultracomb BM-2608R o el Yelmo BM-1608 de esta misma comparativa. Con mezclas espesas (masa de bizcochuelo, manteca fría) algunos compradores reportan que flexan. Para batidos livianos, merengue o mezclas líquidas no es un problema.
+
+## Para quién es
+
+Para quien recién arranca a hornear en casa y no quiere gastar de más en el primer intento. Cumple lo básico: batir, mezclar, y amasar con el accesorio que trae. Si vas a amasar seguido o con mezclas espesas, el Ultracomb BM-2608R de esta comparativa suma más potencia y batidores de metal por un precio bastante razonable.`,
+    faq: [
+      { question: "¿Los batidores de la Liliana Optibat AB100 son de metal?", answer: "No, son de plástico (con un núcleo de metal). Es la principal diferencia con el Ultracomb BM-2608R y el Yelmo BM-1608 de esta comparativa, que sí traen batidores 100% metálicos. Con mezclas espesas, varias reseñas reportan que flexan." },
+      { question: "¿Sirve para amasar pan?", answer: "Trae un accesorio amasador, pero con solo 350W de potencia no es la mejor opción para masas pesadas o en cantidad. Para eso conviene el Ultracomb BM-2608R (500W) o directamente una batidora de pie como la Peabody PE-BM110P de esta comparativa." },
+      { question: "¿Cuántas calificaciones tiene?", answer: "{{reviews:MLA28427866}} calificaciones a {{rating:MLA28427866}} estrellas, la base de opiniones más grande de esta comparativa." },
+      { question: "¿Qué diferencia tiene con el Ultracomb BM-2608R?", answer: "El Ultracomb suma 150W más de potencia, 2 velocidades más, batidores de metal y un gancho amasador, a un precio mayor. Si el presupuesto es lo primero, la Liliana cumple; si vas a usarla seguido, el Ultracomb rinde más." },
+      { question: "¿Trae garantía?", answer: "La ficha de MercadoLibre no detalla el plazo de garantía de fábrica de este modelo puntual; confirmalo en la publicación antes de comprar." },
+      { question: "¿Cuántas velocidades tiene?", answer: "3 velocidades más función turbo, la cantidad más chica de esta comparativa. El Yelmo BM-1608 tiene 7." },
+    ],
+  },
+  {
+    id: "MLA51335717",
+    title: "Batidora De Mano Ultracomb 500w. 5 Velocidades Bm-2608r Rojo Gancho Amasado",
+    canonicalName: "Ultracomb BM-2608R", mpn: "BM-2608R", brand: "Ultracomb",
+    price: 51974, originalPrice: 99999, currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_711480-MLA85966946710_062025-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_711480-MLA85966946710_062025-O.webp"],
+    category: "Cocina", categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/batidora-de-mano-ultracomb-500w-5-velocidades-bm-2608r-rojo-gancho-amasado/p/MLA51335717",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new", freeShipping: true, rating: 4.6, reviewCount: 490,
+    pastelColor: "var(--pastel-coral)",
+    priceUpdated: "2026-09-08", priceLastChecked: "2026-09-08", priceStatus: "fresh", reviewsSampledAt: "2026-09-08",
+    specs: [
+      { label: "Marca", value: "Ultracomb" },
+      { label: "Modelo", value: "BM-2608R" },
+      { label: "Tipo de batidora", value: "De mano" },
+      { label: "Potencia", value: "500 W" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Cantidad de velocidades", value: "5" },
+      { label: "Con función turbo", value: "Sí" },
+      { label: "Con botón eyector", value: "Sí" },
+      { label: "Accesorios incluidos", value: "2 batidores, ganchos para amasar" },
+      { label: "Materiales de los batidores", value: "Metal" },
+      { label: "Peso", value: "720 g" },
+    ],
+    relatedProducts: ["MLA28427866", "MLA15992328", "MLA45462816"],
+    description: "Batidora de mano Ultracomb BM-2608R, 500W, 5 velocidades y ganchos amasadores de metal incluidos. La más potente de las batidoras de mano de esta comparativa, con la mejor relación entre potencia y precio.",
+    seoTitle: "Ultracomb BM-2608R: batidora de mano con gancho amasador, ¿rinde?",
+    metaDescription: "Ultracomb BM-2608R a {{precio:MLA51335717}}: 500W, 5 velocidades, ganchos amasadores de metal y {{reviews:MLA51335717}} calificaciones. La más potente entre las batidoras de mano de esta comparativa.",
+    ogTitle: "Ultracomb BM-2608R: la batidora de mano más potente de esta comparativa",
+    ogDescription: "500W, 5 velocidades, ganchos amasadores de metal incluidos. Compradores reales avisan que las pinzas se quedan chicas para todo lo que el motor puede dar.",
+    h1: "Ultracomb BM-2608R: batidora de mano de 500W con gancho amasador",
+    verdict: "La más potente de las batidoras de mano de esta comparativa: 500W contra los 350W de la Liliana Optibat AB100 y los 300W del Yelmo BM-1608. Trae ganchos amasadores y batidores 100% de metal, sin el problema de flexión que reportan los batidores plásticos de la Liliana. El único pero real, repetido en más de una reseña, son las pinzas: son de tamaño estándar y se sienten chicas para toda la potencia que tiene el motor si trabajás con un bowl grande.",
+    pros: [
+      "500W, la potencia más alta entre las batidoras de mano de esta comparativa",
+      "Batidores 100% de metal, sin el riesgo de flexión de los plásticos",
+      "Incluye ganchos para amasar, útil para masas de pan o pizza caseras",
+      "5 velocidades más función turbo",
+      "{{reviews:MLA51335717}} calificaciones a {{rating:MLA51335717}} estrellas",
+    ],
+    cons: [
+      "Las pinzas/batidores son de tamaño estándar: con un bowl grande y mezcla espesa, cuesta más batir de lo que el motor promete",
+      "Menos calificaciones acumuladas que el Yelmo BM-1608 o la Liliana Optibat AB100",
+      "No incluye espátula ni otros accesorios extra",
+    ],
+    articleBody: `## La batidora de mano más potente de esta comparativa
+
+La Ultracomb BM-2608R tiene 500W, la potencia más alta entre las tres batidoras de mano de esta comparativa (frente a los 350W de la Liliana Optibat AB100 y los 300W del Yelmo BM-1608). Cuesta {{precio:MLA51335717}} y suma 5 velocidades más función turbo. A diferencia de la Liliana, sus batidores son 100% de metal, así que no tiene el problema de flexión con mezclas espesas que reportan varias reseñas de esa competidora.
+
+## Lo que dicen los compradores reales
+
+Las reseñas coinciden en que el motor entrega la potencia que promete: sirve para batidos pesados, aunque conviene hacer pausas cortas si trabajás mucho tiempo seguido. El punto que repite más de un comprador es que las pinzas (los batidores) son de tamaño estándar, no más grandes, así que en un bowl grande con mucha mezcla cuesta más batir de lo que el motor de 500W haría esperar. No es un defecto de fabricación, es una limitación de diseño a tener en cuenta.
+
+## Para quién es
+
+Para quien va a amasar con cierta frecuencia (pan casero, pizza, facturas) y quiere batidores de metal que no se degraden con el uso. Si solo vas a batir crema o mezclas livianas de vez en cuando, la Liliana Optibat AB100 alcanza y sale bastante menos. Si necesitás potencia real para tandas grandes y de forma seguida, la batidora de pie Peabody PE-BM110P de esta comparativa da un salto mayor.`,
+    faq: [
+      { question: "¿Los batidores de la Ultracomb BM-2608R son de metal?", answer: "Sí, tanto los batidores como los ganchos amasadores son 100% de metal, a diferencia de la Liliana Optibat AB100 de esta comparativa, que los trae en plástico." },
+      { question: "¿Sirve para amasar pan casero?", answer: "Sí, incluye ganchos amasadores pensados para masas livianas como pan o pizza casera. Para volúmenes grandes y uso frecuente, una batidora de pie como la Peabody PE-BM110P rinde mejor." },
+      { question: "¿Por qué algunas reseñas se quejan de las pinzas si el motor es potente?", answer: "Porque el tamaño de los batidores es estándar, no más grande, así que en un bowl grande con mucha mezcla el motor de 500W no siempre se aprovecha del todo. Con bowls chicos o medianos no es un problema." },
+      { question: "¿Cuántas calificaciones tiene?", answer: "{{reviews:MLA51335717}} calificaciones a {{rating:MLA51335717}} estrellas." },
+      { question: "¿Qué diferencia tiene con el Yelmo BM-1608?", answer: "La Ultracomb tiene más potencia (500W contra 300W) pero menos velocidades (5 contra 7). El Yelmo tiene más calificaciones acumuladas." },
+      { question: "¿Trae garantía?", answer: "La ficha de MercadoLibre no detalla el plazo de garantía de fábrica de este modelo puntual; confirmalo en la publicación antes de comprar." },
+    ],
+  },
+  {
+    id: "MLA15992328",
+    title: "Batidora De Mano Yelmo Electrica Bm-1608 300w 7 Velocidades",
+    canonicalName: "Yelmo BM-1608", mpn: "BM-1608", brand: "Yelmo",
+    price: 58899, currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_884283-MLA97294051814_112025-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_884283-MLA97294051814_112025-O.webp"],
+    category: "Cocina", categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/batidora-de-mano-yelmo-electrica-bm-1608-300w-7-velocidades/p/MLA15992328",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new", freeShipping: true, rating: 4.7, reviewCount: 913,
+    pastelColor: "var(--pastel-amber)",
+    priceUpdated: "2026-09-08", priceLastChecked: "2026-09-08", priceStatus: "fresh", reviewsSampledAt: "2026-09-08",
+    specs: [
+      { label: "Marca", value: "Yelmo" },
+      { label: "Modelo", value: "BM-1608" },
+      { label: "Tipo de batidora", value: "De mano" },
+      { label: "Potencia", value: "300 W" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Cantidad de velocidades", value: "7" },
+      { label: "Con función turbo", value: "Sí" },
+      { label: "Con botón eyector", value: "Sí" },
+      { label: "Accesorios incluidos", value: "2 batidores, ganchos para amasar" },
+      { label: "Materiales de los batidores", value: "Metal" },
+      { label: "Peso", value: "780 g" },
+    ],
+    relatedProducts: ["MLA28427866", "MLA51335717", "MLA45462816"],
+    description: "Batidora de mano Yelmo BM-1608, 300W, 7 velocidades y batidores de metal. La mejor calificada entre las batidoras de mano de esta comparativa, con 4.7 estrellas.",
+    seoTitle: "Yelmo BM-1608: la batidora de mano compacta con 7 velocidades",
+    metaDescription: "Yelmo BM-1608 a {{precio:MLA15992328}}: 300W, 7 velocidades, batidores de metal y {{reviews:MLA15992328}} calificaciones. Una de las opciones más compactas y valoradas de esta comparativa.",
+    ogTitle: "Yelmo BM-1608: 7 velocidades y batidores de metal en formato compacto",
+    ogDescription: "300W, 7 velocidades, batidores de metal duraderos. Compacta, fácil de limpiar, aunque compradores avisan que no rinde para grandes cantidades.",
+    h1: "Yelmo BM-1608: batidora de mano con 7 velocidades y formato compacto",
+    verdict: "La batidora de mano mejor calificada de esta comparativa: {{rating:MLA15992328}} estrellas en {{reviews:MLA15992328}} calificaciones. Suma 7 velocidades, la mayor cantidad de esta comparativa, y batidores de metal duraderos. Es compacta y liviana, ideal para espacios chicos, pero con solo 300W (la potencia más baja de las tres batidoras de mano) no rinde igual con cantidades grandes o masas pesadas.",
+    pros: [
+      "{{rating:MLA15992328}} estrellas, la calificación más alta entre las batidoras de mano de esta comparativa",
+      "7 velocidades, la mayor variedad de esta comparativa",
+      "Batidores y ganchos de metal, sin el riesgo de flexión de los plásticos",
+      "Compacta y liviana (780 g), fácil de guardar y limpiar",
+      "No se calienta con uso moderado, según reseñas",
+    ],
+    cons: [
+      "300W, la potencia más baja de las tres batidoras de mano de esta comparativa",
+      "Reseñas avisan que no conviene para amasar o batir grandes cantidades de una sola vez",
+      "El botón eyector pide presionar fuerte para soltar los batidores",
+    ],
+    articleBody: `## Compacta y la mejor calificada de mano
+
+La Yelmo BM-1608 tiene {{rating:MLA15992328}} estrellas en {{reviews:MLA15992328}} calificaciones, la calificación más alta entre las tres batidoras de mano de esta comparativa, y casi el doble de opiniones que la Ultracomb BM-2608R. Cuesta {{precio:MLA15992328}} y tiene 7 velocidades, la mayor cantidad de este grupo. Sus batidores y ganchos son de metal, igual que la Ultracomb BM-2608R.
+
+## Lo honesto sobre la potencia
+
+Con 300W es la menos potente de las tres batidoras de mano de esta comparativa (frente a 500W de la Ultracomb y 350W de la Liliana). Varias reseñas lo confirman: rinde bien para batir crema, mezclas livianas o bollos chicos, pero no está pensada para amasar o batir en cantidad. Un comprador lo resume así: "no tiene mucha potencia, no es conveniente usarlo para amasar grandes cantidades, pero para batir o hacer bollos pequeños es perfecto". El botón eyector, además, pide presionar con cierta fuerza para soltar los batidores.
+
+## Para quién es
+
+Para cocina de uso doméstico normal: tortas, bizcochuelos, merengues, mezclas livianas, en departamentos o cocinas con poco espacio de guardado. Si vas a amasar o batir en cantidad de forma habitual, la Ultracomb BM-2608R de esta comparativa suma potencia real para eso. Y si necesitás volumen grande y uso frecuente, la batidora de pie Peabody PE-BM110P es el salto correcto.`,
+    faq: [
+      { question: "¿Sirve para amasar pan o masas pesadas?", answer: "No es lo ideal: con 300W es la menos potente de las batidoras de mano de esta comparativa, y varias reseñas confirman que rinde bien para bollos chicos pero no para grandes cantidades de masa pesada. Para eso conviene la Ultracomb BM-2608R (500W) o una batidora de pie." },
+      { question: "¿Cuántas calificaciones tiene?", answer: "{{reviews:MLA15992328}} calificaciones a {{rating:MLA15992328}} estrellas, casi el doble de opiniones que la Ultracomb BM-2608R." },
+      { question: "¿Los batidores son de metal o plástico?", answer: "De metal, tanto los batidores como los ganchos para amasar. No tiene el problema de flexión que reportan los batidores plásticos de la Liliana Optibat AB100." },
+      { question: "¿Es fácil de limpiar y guardar?", answer: "Sí, reseñas destacan que es compacta (780 g), fácil de limpiar y que entra en espacios chicos de alacena o cajón." },
+      { question: "¿Cuesta sacar los batidores con el botón eyector?", answer: "Alguna reseña avisa que hay que presionar con cierta fuerza para que salgan. No es un defecto grave, pero es un detalle a tener en cuenta." },
+      { question: "¿Qué diferencia tiene con la Ultracomb BM-2608R?", answer: "La Yelmo tiene más velocidades (7 contra 5) y más calificaciones acumuladas, pero menos potencia (300W contra 500W). Si priorizás potencia para amasar, la Ultracomb rinde más." },
+    ],
+  },
+  {
+    id: "MLA45462816",
+    title: "Batidora De Mesa Peabody Pe-bm110p 1000w 4l Rosa 6 Vel. Frecuencia Wats",
+    canonicalName: "Peabody PE-BM110P", mpn: "PE-BM110P", brand: "Peabody",
+    price: 599999, currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_913806-MLA99498242386_112025-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_913806-MLA99498242386_112025-O.webp"],
+    category: "Cocina", categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/batidora-de-mesa-peabody-pe-bm110p-1000w-4l-rosa-6-vel-frecuencia-wats/p/MLA45462816",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new", freeShipping: true, rating: 4.8, reviewCount: 1347,
+    pastelColor: "var(--pastel-pink)",
+    priceUpdated: "2026-09-08", priceLastChecked: "2026-09-08", priceStatus: "fresh", reviewsSampledAt: "2026-09-08",
+    specs: [
+      { label: "Marca", value: "Peabody" },
+      { label: "Modelo", value: "PE-BM110P" },
+      { label: "Tipo de batidora", value: "De pie (planetaria)" },
+      { label: "Potencia", value: "1000 W" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Cantidad de velocidades", value: "6" },
+      { label: "Capacidad del bowl", value: "4 L, acero inoxidable" },
+      { label: "Accesorios incluidos", value: "Batidor de alambre, gancho para amasar, mezclador, espátula de silicona" },
+      { label: "Materiales de los batidores", value: "Metal" },
+      { label: "Dimensiones", value: "37 x 41 x 24,5 cm" },
+      { label: "Peso", value: "5 kg" },
+    ],
+    relatedProducts: ["MLA28427866", "MLA51335717", "MLA15992328"],
+    description: "Batidora de pie planetaria Peabody PE-BM110P, 1000W, bowl de acero inoxidable de 4L y 3 accesorios intercambiables. La opción premium de esta comparativa, para quien hornea seguido y en cantidad.",
+    seoTitle: "Peabody PE-BM110P: la batidora de pie planetaria, ¿vale la pena?",
+    metaDescription: "Peabody PE-BM110P a {{precio:MLA45462816}}: 1000W, bowl de 4L y {{reviews:MLA45462816}} calificaciones. La opción premium de esta comparativa, con el límite real de uso intensivo que reportan compradores.",
+    ogTitle: "Peabody PE-BM110P: batidora de pie planetaria con bowl de 4L",
+    ogDescription: "1000W, bowl de acero inoxidable de 4L y 3 accesorios incluidos. Una reseña detallada cuenta qué pasa después de usarla para amasar tandas grandes de forma seguida.",
+    h1: "Peabody PE-BM110P: batidora de pie planetaria, la opción premium de esta comparativa",
+    verdict: "La opción premium de esta comparativa, con {{reviews:MLA45462816}} calificaciones a {{rating:MLA45462816}} estrellas, la nota más alta del grupo. Bowl de acero inoxidable de 4L, 1000W y 3 accesorios intercambiables (batidor de alambre, gancho para amasar y mezclador) más espátula de silicona. Un dato honesto: la ficha de MercadoLibre carga la potencia como '1.000.000 W', un error de tipeo evidente del vendedor; la potencia real, según el título y la descripción, es 1000W. Una reseña detallada avisa además que para uso muy intensivo y repetido (amasar tandas grandes seguidas) el bowl puede empezar a aflojarse.",
+    pros: [
+      "La calificación más alta de esta comparativa: {{rating:MLA45462816}} estrellas",
+      "Bowl de acero inoxidable de 4L, el único de pie de esta comparativa",
+      "3 accesorios intercambiables (batidor, gancho, mezclador) más espátula de silicona incluida",
+      "1000W, la potencia más alta de esta comparativa",
+      "Libera las manos: no hace falta sostenerla como a una batidora de mano",
+    ],
+    cons: [
+      "La más cara por lejos: varias veces el precio de cualquier batidora de mano de esta comparativa",
+      "Una reseña detallada reporta que el bowl se afloja con uso muy intensivo y repetido (tandas grandes seguidas de amasado)",
+      "La ficha de MercadoLibre carga mal la potencia ('1.000.000 W'); el dato real es 1000W",
+      "Ocupa espacio fijo en la mesada, a diferencia de una de mano que se guarda en un cajón",
+    ],
+    articleBody: `## La opción premium de esta comparativa
+
+La Peabody PE-BM110P es una batidora de pie planetaria: bowl de acero inoxidable de 4L, 1000W y 6 velocidades, con {{precio:MLA45462816}}. Es la más cara por lejos, pero también la que mejor calificación tiene de esta comparativa: {{reviews:MLA45462816}} opiniones a {{rating:MLA45462816}} estrellas. Trae 3 accesorios intercambiables (batidor de alambre, gancho para amasar y mezclador) más una espátula de silicona.
+
+## Un error de tipeo en la ficha, y un límite real de uso
+
+La ficha técnica de MercadoLibre carga la potencia como "1.000.000 W", un error de tipeo evidente del vendedor (nadie vende un electrodoméstico de mesada de un millón de watts). El dato real, según el título de la publicación y la descripción, es 1000W. Aparte de ese error, una reseña muy detallada y honesta cuenta el límite real del producto: usándola para amasar 30 panettones en una semana (uso mucho más intensivo que el doméstico normal), el bowl se fue aflojando de a poco hasta que hubo que ajustar tornillos a mano. La compradora aclara que para uso doméstico normal, ocasional, no tuvo ese problema.
+
+## Para quién es
+
+Para quien hornea seguido, en cantidad, y quiere liberar las manos mientras la máquina bate o amasa sola. Si tu uso es ocasional (una torta de vez en cuando), cualquiera de las tres batidoras de mano de esta comparativa cumple a una fracción del precio. Si vas a amasar de forma intensiva y casi profesional, conviene evaluar directamente una planetaria de mayor gama, pensada para ese uso.`,
+    faq: [
+      { question: "¿La Peabody PE-BM110P tiene 1.000.000 de watts como dice la ficha?", answer: "No, es un error de tipeo del vendedor en la ficha técnica de MercadoLibre. La potencia real, según el título y la descripción de la publicación, es 1000W." },
+      { question: "¿Sirve para amasar en cantidad todos los días?", answer: "Para uso doméstico normal sí. Para uso muy intensivo y repetido, una reseña detallada reporta que el bowl empezó a aflojarse después de amasar 30 panettones en una semana. No está pensada para uso semiprofesional constante." },
+      { question: "¿Qué accesorios incluye?", answer: "Batidor de alambre, gancho para amasar, mezclador y espátula de silicona, todos intercambiables en el mismo cuerpo." },
+      { question: "¿Vale la pena pagar tanto más que una batidora de mano?", answer: "Depende del uso. Si horneás seguido y en cantidad, libera las manos y rinde más. Si tu uso es ocasional, cualquiera de las batidoras de mano de esta comparativa cumple a una fracción del precio." },
+      { question: "¿Cuántas calificaciones tiene?", answer: "{{reviews:MLA45462816}} calificaciones a {{rating:MLA45462816}} estrellas, la nota más alta de esta comparativa." },
+      { question: "¿Qué capacidad tiene el bowl?", answer: "4 litros, de acero inoxidable." },
+    ],
+  },
 ];
 
 export const categoryPastels: Record<string, string> = {

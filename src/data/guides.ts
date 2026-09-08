@@ -6601,6 +6601,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "p", content: `Una licuadora de mano es un mango con motor del que sale una varilla con cuchilla en la punta, que sumergís directo en lo que querés procesar. No tiene jarra: trabajás en la propia olla, en un bol o en el vaso que viene incluido. Eso la hace imbatible para preparaciones calientes (no tenés que pasar la sopa hirviendo a una jarra) y para texturas finas como cremas y purés.` },
       { type: "p", content: `Su fuerte es la **versatilidad**. Con los accesorios correctos hace sopas, purés, cremas, mayonesas, salsas, aderezos, bate claras y pica. "Para alguien que no tiene ni idea de cocina, esta máquina te vuela la cabeza", dice la review más votada de la Peabody, con 466 personas que la encontraron útil. Lo que no hace bien es un licuado de fruta en cantidad o un jugo para varios: para eso es mejor una de vaso.` },
       { type: "callout", calloutVariant: "tip", calloutTitle: "De mano vs. de vaso, en una línea", content: `La de mano va a la preparación (la olla, el bol); la de vaso espera a que le lleves los ingredientes a la jarra. Si cocinás mucho (sopas, purés, salsas), la de mano es clave. Si lo tuyo son licuados y jugos, una de vaso. No compiten: ver la [guía de licuadoras](/guias/licuadora) para elegir el tipo.` },
+      { type: "callout", calloutVariant: "note", calloutTitle: "¿Vas a hornear seguido, no solo cocinar?", content: `La de mano trae un accesorio batidor para claras o crema ocasional, pero si tu uso principal es hornear (bizcochuelos, masas, merengue con frecuencia), conviene una **batidora** dedicada, con dos varillas pensadas para eso. Mirá la [guía de batidoras](/guias/cocina/batidora) para esa comparación.` },
 
       { type: "h2", title: `La mejor licuadora de mano: Peabody PE-LMA327B`, id: "ranking" },
       { type: "product-card", productMlaId: "MLA13112158", label: "La de mano recomendada", labelColor: "green", ranking: 1, description: `800 W, 5 velocidades más pulso y varilla de acero inoxidable, con batidor, vaso medidor, picadora y organizador. 4.6 estrellas en 6.868 calificaciones, la base de opiniones más grande de las licuadoras del catálogo.` },
@@ -6650,6 +6651,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { label: "Mejores licuadoras de Argentina: cuál comprar", href: "/guias/licuadora" },
       { label: "Licuadora Atma: la mejor relación precio", href: "/guias/licuadora-atma" },
       { label: "Licuadora portátil: la mejor para batidos", href: "/guias/licuadora-portatil" },
+      { label: "Batidora: cuál comprar en Argentina", href: "/guias/cocina/batidora" },
     ],
     internalLinksTitle: "Seguí comparando licuadoras",
   },
@@ -29940,6 +29942,124 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     ],
     internalLinksTitle: "Más para tu cocina",
   },
+
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva batidora — silo cocina, categoría nueva
+  // Origen: research propio 2026-09-08. Keyword "batidora"
+  // 14.800/mes y "batidora de mano" 9.900/mes (Ubersuggest y
+  // Keyword Planner coinciden), SD 12, intención Transactional.
+  // Sin canibalización con licuadora-de-mano: esa guía cubre
+  // minipimer/licuadora de mano (varilla que licúa en la olla),
+  // esta cubre batidora de mano tradicional (varillas que baten).
+  // 4 fichas nuevas importadas el mismo día (ver curated-products.ts).
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "batidora",
+    category: "batidora",
+    silo: "cocina",
+    pillar: true,
+    title: `Batidora: cuál comprar en Argentina [2026]`,
+    seoTitle: `Batidora: Cuál Comprar en Argentina | 2026`,
+    metaDescription: `Descubrí qué batidora comprar en Argentina: de mano o de pie, la más barata y la de mayor potencia. Precios reales de MercadoLibre y contras honestas.`,
+    ogTitle: `Batidora: cuál comprar en Argentina`,
+    ogDescription: `Liliana, Ultracomb, Yelmo y Peabody comparadas: de mano o de pie, batidores de metal o plástico. Precios reales de MercadoLibre y las contras que nadie cuenta.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_711480-MLA85966946710_062025-O.webp`,
+    h1: `Batidora: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene la **[Ultracomb BM-2608R](/producto/batidora-de-mano-ultracomb-500w-5-velocidades-bm-2608r-rojo-gancho-amasado-mla51335717)** (alrededor de {{precio:MLA51335717:k}}): 500W, la más potente de mano, con batidores 100% de metal y gancho amasador incluido. Si buscás la más barata, la **[Liliana Optibat AB100](/producto/batidora-manual-optibat-ab100-de-350w-color-blanco-liliana-mla28427866)**. Si preferís la mejor calificada de mano, la **[Yelmo BM-1608](/producto/batidora-de-mano-yelmo-electrica-bm-1608-300w-7-velocidades-mla15992328)** (4.7 estrellas). Y si necesitás una de pie para hornear en cantidad y con las manos libres, la **[Peabody PE-BM110P](/producto/batidora-de-mesa-peabody-pe-bm110p-1000w-4l-rosa-6-vel-frecuencia-wats-mla45462816)**.`,
+    publishedDate: "2026-09-08",
+    updatedDate: "2026-09-08",
+    hasDisclosure: true,
+    readingTime: 9,
+    standfirst: `Una batidora de mano va de {{precio:MLA28427866:k}} (la más básica) a {{precio:MLA15992328:k}} (la mejor calificada de mano); una de pie arranca en {{precio:MLA45462816:k}}. La decisión real pasa por cuánto vas a amasar y si los batidores son de metal o de plástico, no solo por precio. Te mostramos cuál conviene, con precios reales de MercadoLibre.`,
+    quickPicks: [
+      { productMlaId: "MLA51335717", label: "Mejor elección general", labelColor: "green", tagline: "Ultracomb BM-2608R: 500W, batidores de metal y gancho amasador" },
+      { productMlaId: "MLA28427866", label: "La más barata", labelColor: "slate", tagline: "Liliana Optibat AB100: la entrada más económica" },
+      { productMlaId: "MLA15992328", label: "La mejor calificada de mano", labelColor: "blue", tagline: "Yelmo BM-1608: 4.7 estrellas, la mejor calificada de mano" },
+      { productMlaId: "MLA45462816", label: "La opción de pie", labelColor: "purple", tagline: "Peabody PE-BM110P: bowl de 4L, para hornear en cantidad" },
+    ],
+    intro: [
+      `La batidora eléctrica es la herramienta que no falta en una cocina que hornea: bate claras a nieve, monta crema, mezcla masas de bizcochuelo y torta. La decisión real pasa por cuánto vas a amasar (los batidores de plástico flexan con masas espesas, los de metal no) y si te alcanza con una de mano o necesitás una de pie que libere las manos, no por el precio más bajo a secas.`,
+      `En esta guía comparamos las batidoras más vendidas y mejor calificadas de MercadoLibre Argentina, con las contras reales que cuentan los compradores: desde batidores que flexan hasta el límite real de uso intensivo de una batidora de pie.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_711480-MLA85966946710_062025-O.webp", alt: `Batidora de mano Ultracomb BM-2608R con gancho amasador, la mejor elección general de esta guía`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, la **[Ultracomb BM-2608R](/producto/batidora-de-mano-ultracomb-500w-5-velocidades-bm-2608r-rojo-gancho-amasado-mla51335717)**: 500W, batidores 100% de metal y gancho amasador incluido. Si buscás **el precio más bajo** (y a la vez la más elegida, con la base de opiniones más grande de esta guía), la **[Liliana Optibat AB100](/producto/batidora-manual-optibat-ab100-de-350w-color-blanco-liliana-mla28427866)**. Si preferís **la mejor calificada de mano**, la **[Yelmo BM-1608](/producto/batidora-de-mano-yelmo-electrica-bm-1608-300w-7-velocidades-mla15992328)**, con 4.7 estrellas, 7 velocidades y un formato muy compacto. Y para **hornear en cantidad con las manos libres**, la **[Peabody PE-BM110P](/producto/batidora-de-mesa-peabody-pe-bm110p-1000w-4l-rosa-6-vel-frecuencia-wats-mla45462816)**, de pie y con bowl de 4L.` },
+
+      { type: "callout", calloutVariant: "note", calloutTitle: "¿Buscás para licuar en la olla, no para batir?", content: `Si lo que necesitás es procesar sopas, purés o mayonesas directo en la olla (lo que en Argentina también se llama a veces "batidora de mano" pero es en realidad una **minipimer**), esta no es tu guía: mirá la [licuadora de mano](/guias/licuadora-de-mano), que tiene varilla con cuchilla en vez de batidores. Esta guía compara batidoras tradicionales: las que baten claras, montan crema y mezclan masas con dos varillas.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos las batidoras con más ventas y opiniones reales en MercadoLibre Argentina. Las ordenamos por lo que define la compra: potencia, material de los batidores (metal o plástico), cantidad de velocidades y precio. Las calificaciones y las contras son de compradores reales. Los precios que ves en las fichas y tablas se revisan contra MercadoLibre periódicamente.` },
+
+      { type: "h2", title: `Qué mirar antes de comprar una batidora`, id: "que-mirar" },
+      { type: "p", content: `Primero, **el material de los batidores**: de metal aguantan mezclas espesas sin flexar, de plástico (aunque tengan núcleo metálico) ceden con masas pesadas, según reportan varias reseñas. Segundo, **la potencia**: va de 300W en las de mano más chicas a 500W en las más fuertes, y hasta 1000W en una de pie. Tercero, **de mano o de pie**: una de mano es más barata y se guarda en un cajón; una de pie libera las manos, tiene bowl propio y rinde más en uso frecuente, a un precio bastante mayor.` },
+      { type: "p", content: `Un detalle que se repite en las reseñas de la categoría: ninguna batidora, ni siquiera la de pie, está pensada para uso semiprofesional constante. Con tandas grandes y seguidas (amasar varias veces por semana, por ejemplo), hasta el modelo más caro de esta guía puede empezar a mostrar desgaste.` },
+
+      { type: "h2", title: `Las mejores batidoras 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Ultracomb BM-2608R — mejor elección general` },
+      { type: "product-card", productMlaId: "MLA51335717", label: "Mejor elección general", labelColor: "green", ranking: 1, description: `500W, la más potente de mano, con batidores y gancho amasador 100% de metal. 4.6 estrellas en {{reviews:MLA51335717}} calificaciones.` },
+      { type: "p", content: `Es la batidora de mano que recomendamos a la mayoría: **500W**, la potencia más alta entre las de mano de esta guía, con batidores y ganchos amasadores **100% de metal**, a alrededor de {{precio:MLA51335717:k}}. Con {{reviews:MLA51335717}} calificaciones a 4.6 estrellas, además es más barata que la Yelmo BM-1608 de esta misma guía.` },
+      { type: "p", content: `La contra real: más de una reseña avisa que las pinzas (los batidores) son de tamaño estándar, así que en un bowl grande con mucha mezcla el motor no siempre se aprovecha del todo. No es un defecto, es una limitación de diseño a tener en cuenta.` },
+      { type: "pull-quote", content: `"Es una batidora con buenas prestaciones, excelente motor con una buena respuesta para cualquier postre que desees hacer. Muy buena potencia, sirve para batidos pesados haciendo las pausas correspondientes."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `2. Liliana Optibat AB100 — la más barata` },
+      { type: "product-card", productMlaId: "MLA28427866", label: "La más barata", labelColor: "slate", ranking: 2, description: `350W, 3 velocidades y función turbo. 4.4 estrellas en {{reviews:MLA28427866}} calificaciones, la entrada más económica y la más elegida de esta guía.` },
+      { type: "p", content: `La batidora más barata de esta guía: {{reviews:MLA28427866}} opiniones a 4.4 estrellas, a alrededor de {{precio:MLA28427866:k}}. Cumple lo básico con 3 velocidades, función turbo y accesorio amasador para masas simples.` },
+      { type: "p", content: `La contra real: los batidores que trae de fábrica son de plástico, no de metal como el resto de esta guía. Varias reseñas reportan que flexan con mezclas espesas, aunque para batidos livianos o merengue no es un problema.` },
+
+      { type: "h3", title: `3. Yelmo BM-1608 — 7 velocidades` },
+      { type: "product-card", productMlaId: "MLA15992328", label: "7 velocidades", labelColor: "blue", ranking: 3, description: `300W, 7 velocidades y batidores de metal. {{rating:MLA15992328}} estrellas en {{reviews:MLA15992328}} calificaciones, una opción compacta y muy bien valorada.` },
+      { type: "p", content: `Una de las batidoras de mano mejor valoradas de esta guía: {{reviews:MLA15992328}} calificaciones a {{rating:MLA15992328}} estrellas, casi el doble de opiniones que la Ultracomb. Suma 7 velocidades, la mayor cantidad de esta guía, batidores de metal y es compacta (780 g), a alrededor de {{precio:MLA15992328:k}}.` },
+      { type: "p", content: `La contra real: con 300W es la menos potente de las tres batidoras de mano de esta guía. Un comprador lo resume bien: "no es conveniente usarlo para amasar grandes cantidades, pero para batir o hacer bollos pequeños es perfecto".` },
+      { type: "pull-quote", content: `"Maravillosa! hice una cantidad considerable de tortas a lo largo de toda la semana y la verdad que se la re banco, es fácil de limpiar, los batidores son de buena calidad, entra en cualquier lugar donde la guardes, no se calienta al usar."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `4. Peabody PE-BM110P — la opción de pie` },
+      { type: "product-card", productMlaId: "MLA45462816", label: "La opción de pie", labelColor: "purple", ranking: 4, description: `Planetaria de pie, 1000W, bowl de acero inoxidable de 4L y 3 accesorios intercambiables. {{rating:MLA45462816}} estrellas en {{reviews:MLA45462816}} calificaciones, la más alta de esta guía.` },
+      { type: "p", content: `La única de pie de esta guía: bowl de acero inoxidable de **4L**, **1000W** y 3 accesorios intercambiables (batidor de alambre, gancho para amasar y mezclador) más espátula de silicona, a alrededor de {{precio:MLA45462816:k}}. Tiene la calificación más alta de esta guía: {{reviews:MLA45462816}} opiniones a {{rating:MLA45462816}} estrellas.` },
+      { type: "p", content: `Lo honesto: es, por lejos, la más cara de esta guía. Y un dato curioso de la ficha de MercadoLibre: carga la potencia como "1.000.000 W", un error de tipeo evidente del vendedor (la potencia real, según el título de la publicación, es 1000W). Una reseña detallada avisa además que con uso muy intensivo y repetido (varias tandas grandes seguidas), el bowl puede empezar a aflojarse.` },
+      { type: "pull-quote", content: `"A medida que iba haciendo los panettones me daba cuenta que poco a poco el bowl de la máquina iba quedando más flojo. Te la recomiendo de acuerdo al uso que le vas a dar: para uso doméstico normal, sin problema."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h2", title: `Tabla comparativa: potencia, batidores y precio`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Tipo`, `Potencia`, `Batidores`, `Rating`], rows: [
+        [`[Ultracomb BM-2608R](/producto/batidora-de-mano-ultracomb-500w-5-velocidades-bm-2608r-rojo-gancho-amasado-mla51335717)`, `{{precio:MLA51335717}}`, `De mano`, `500 W`, `Metal`, `{{rating:MLA51335717}} ({{reviews:MLA51335717}})`],
+        [`[Liliana Optibat AB100](/producto/batidora-manual-optibat-ab100-de-350w-color-blanco-liliana-mla28427866)`, `{{precio:MLA28427866}}`, `De mano`, `350 W`, `Metal y plástico`, `{{rating:MLA28427866}} ({{reviews:MLA28427866}})`],
+        [`[Yelmo BM-1608](/producto/batidora-de-mano-yelmo-electrica-bm-1608-300w-7-velocidades-mla15992328)`, `{{precio:MLA15992328}}`, `De mano`, `300 W`, `Metal`, `{{rating:MLA15992328}} ({{reviews:MLA15992328}})`],
+        [`[Peabody PE-BM110P](/producto/batidora-de-mesa-peabody-pe-bm110p-1000w-4l-rosa-6-vel-frecuencia-wats-mla45462816)`, `{{precio:MLA45462816}}`, `De pie`, `1000 W`, `Metal`, `{{rating:MLA45462816}} ({{reviews:MLA45462816}})`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu batidora`, id: "como-elegir" },
+      { type: "h3", title: `¿Batidores de metal o de plástico?` },
+      { type: "p", content: `Es la diferencia que más se repite en las reseñas de la categoría. Los batidores de metal (Ultracomb BM-2608R, Yelmo BM-1608 y Peabody PE-BM110P de esta guía) aguantan mezclas espesas sin ceder. Los de plástico, como los de la [Liliana Optibat AB100](/producto/batidora-manual-optibat-ab100-de-350w-color-blanco-liliana-mla28427866), cumplen para batidos livianos pero varias reseñas reportan que flexan con masas pesadas.` },
+      { type: "h3", title: `¿De mano o de pie?` },
+      { type: "p", content: `Si tu uso es ocasional (una torta de vez en cuando), cualquiera de las tres de mano de esta guía alcanza y sale bastante menos. Si horneás seguido, en cantidad, y querés liberar las manos mientras la máquina trabaja sola, la [Peabody PE-BM110P](/producto/batidora-de-mesa-peabody-pe-bm110p-1000w-4l-rosa-6-vel-frecuencia-wats-mla45462816) de pie es el salto correcto, aunque cuesta varias veces más.` },
+      { type: "h3", title: `¿Cuánta potencia necesitás?` },
+      { type: "p", content: `Para batidos livianos, merengue o crema, con 300W como la Yelmo BM-1608 alcanza de sobra. Si vas a amasar con cierta frecuencia (pan casero, pizza, facturas), conviene subir a los 500W de la Ultracomb BM-2608R. Para uso realmente intensivo, ninguna de mano de esta guía es la mejor opción: ahí es donde entra la Peabody de pie.` },
+
+      { type: "h2", title: `Cuánto cuesta una batidora en Argentina [septiembre 2026]`, id: "cuanto-cuesta" },
+      { type: "list", content: "Franjas de precio reales", items: [
+        `**Alrededor de {{precio:MLA28427866:k}}:** la [Liliana Optibat AB100](/producto/batidora-manual-optibat-ab100-de-350w-color-blanco-liliana-mla28427866), la más barata de esta guía, con batidores de plástico.`,
+        `**Alrededor de {{precio:MLA51335717:k}} a {{precio:MLA15992328:k}}:** la [Ultracomb BM-2608R](/producto/batidora-de-mano-ultracomb-500w-5-velocidades-bm-2608r-rojo-gancho-amasado-mla51335717) y la [Yelmo BM-1608](/producto/batidora-de-mano-yelmo-electrica-bm-1608-300w-7-velocidades-mla15992328), las dos con batidores de metal.`,
+        `**Alrededor de {{precio:MLA45462816:k}}:** la [Peabody PE-BM110P](/producto/batidora-de-mesa-peabody-pe-bm110p-1000w-4l-rosa-6-vel-frecuencia-wats-mla45462816), de pie, la más cara de esta guía por lejos.`,
+      ] },
+
+      { type: "verdict", content: `Para la mayoría, la **[Ultracomb BM-2608R](/producto/batidora-de-mano-ultracomb-500w-5-velocidades-bm-2608r-rojo-gancho-amasado-mla51335717)** es la compra más segura: 500W, batidores de metal y gancho amasador, más barata incluso que la Yelmo de esta guía. Si el precio manda, la **[Liliana Optibat AB100](/producto/batidora-manual-optibat-ab100-de-350w-color-blanco-liliana-mla28427866)** es la más barata, aunque con batidores de plástico. Si preferís más velocidades en un formato compacto, la **[Yelmo BM-1608](/producto/batidora-de-mano-yelmo-electrica-bm-1608-300w-7-velocidades-mla15992328)**. Y si horneás en cantidad y querés liberar las manos, sabiendo que es la más cara por lejos, la **[Peabody PE-BM110P](/producto/batidora-de-mesa-peabody-pe-bm110p-1000w-4l-rosa-6-vel-frecuencia-wats-mla45462816)** de pie.` },
+    ],
+    faq: [
+      { question: `¿Cuál es la mejor batidora en Argentina?`, answer: `Para la mayoría, la [Ultracomb BM-2608R](/producto/batidora-de-mano-ultracomb-500w-5-velocidades-bm-2608r-rojo-gancho-amasado-mla51335717): 500W, batidores de metal y gancho amasador, a buen precio. Si buscás la más barata, la [Liliana Optibat AB100](/producto/batidora-manual-optibat-ab100-de-350w-color-blanco-liliana-mla28427866).` },
+      { question: `¿Batidora de mano o de pie?`, answer: `Si tu uso es ocasional, con una de mano alcanza y sale bastante menos. Si horneás seguido y en cantidad, y querés liberar las manos, una de pie como la Peabody PE-BM110P rinde más, a un precio varias veces mayor.` },
+      { question: `¿Es lo mismo una batidora que una licuadora de mano?`, answer: `No. La batidora tiene dos varillas que baten (claras, crema, masas); la licuadora de mano (minipimer) tiene una varilla con cuchilla que licúa directo en la olla, para sopas y purés. Son herramientas distintas: mirá la [guía de licuadora de mano](/guias/licuadora-de-mano) si buscás esa segunda.` },
+      { question: `¿Por qué importa que los batidores sean de metal?`, answer: `Porque los de plástico, aunque tengan núcleo metálico, ceden con mezclas espesas según reportan varias reseñas. La [Liliana Optibat AB100](/producto/batidora-manual-optibat-ab100-de-350w-color-blanco-liliana-mla28427866) de esta guía es la única con batidores de plástico; el resto los trae 100% de metal.` },
+      { question: `¿Cuánta potencia necesita una batidora?`, answer: `Para batidos livianos y merengue, 300W alcanza. Para amasar con cierta frecuencia, conviene 500W como la [Ultracomb BM-2608R](/producto/batidora-de-mano-ultracomb-500w-5-velocidades-bm-2608r-rojo-gancho-amasado-mla51335717). Para uso realmente intensivo, una de pie como la Peabody PE-BM110P rinde mejor que cualquiera de mano.` },
+      { question: `¿Vale la pena una batidora de pie?`, answer: `Si horneás seguido y en cantidad, sí: libera las manos y tiene bowl propio. Cuesta varias veces más que una de mano, y una reseña detallada de la [Peabody PE-BM110P](/producto/batidora-de-mesa-peabody-pe-bm110p-1000w-4l-rosa-6-vel-frecuencia-wats-mla45462816) avisa que con uso muy intensivo repetido el bowl puede aflojarse: para uso doméstico normal no es un problema.` },
+    ],
+    internalLinks: [
+      { label: "Licuadora de mano: cuál comprar en Argentina", href: "/guias/licuadora-de-mano" },
+      { label: "Anafe eléctrico: cuál comprar en Argentina", href: "/guias/cocina/anafe-electrico" },
+      { label: "Freidora de aire: cuál comprar en Argentina", href: "/guias/mejores-freidoras-de-aire-argentina" },
+      { label: "Horno eléctrico: cuál comprar en Argentina", href: "/guias/cocina/horno-electrico" },
+    ],
+    internalLinksTitle: "Más para tu cocina",
+  },
 ];
 
 /**
@@ -30268,6 +30388,11 @@ export const guideCategories: Record<string, { name: string; description: string
     name: "Guía de Licuadoras",
     description:
       "Cuál licúa hielo de verdad, cuál no le pasa gusto al agua y desde cuánto sale una que dure. Las más vendidas de MercadoLibre, comparadas.",
+  },
+  batidora: {
+    name: "Guía de Batidoras",
+    description:
+      "De mano o de pie, batidores de metal o plástico: cuál conviene según cuánto vas a hornear. Las más vendidas de MercadoLibre, comparadas.",
   },
   climatizacion: {
     name: "Guías de Climatización",

@@ -1642,3 +1642,72 @@ product-cards, tabla, FAQ, verdict, internalLinks, cupones dinámicos reales, to
 verificadas con GET real (7.8 KB a 17 KB, todas fotos completas, no miniaturas).
 
 Re-medir: **~2026-10-05** (≈4 semanas), contra baseline cero.
+
+## 2026-09-08 — Guía nueva `batidora` (silo cocina, categoría nueva, 4 fichas nuevas)
+
+| Guía | Silo | Categoría | Keyword | Volumen (Ubersuggest AR) | Volumen (Keyword Planner AR) | SD | Productos |
+| :-- | :-- | :-- | :-- | --: | --: | --: | --: |
+| `batidora` | cocina | batidora | batidora | 14.800 | — | 12 | 4 |
+| | | | batidora de mano | 9.900 | — | — | (sub-intención) |
+
+**Baseline: cero.** URL nueva, sin historial en GSC. Match cercano entre Ubersuggest y Keyword Planner.
+Dificultad SEO baja.
+
+**Descarte de canibalización real, no obvio: "batidora de mano" es ambiguo en el mercado argentino.**
+Antes de construir, se detectó que el sitio ya tiene una guía `licuadora-de-mano` (categoría
+"licuadoras") cubriendo minipimer/licuadora de mano (varilla con cuchilla que licúa directo en la olla).
+En español rioplatense, "batidora de mano" a veces se usa también para esa herramienta, generando
+ambigüedad real de búsqueda. Se decidió construir `batidora` como guía separada, exclusivamente para
+batidoras tradicionales (dos varillas que baten claras/masas, de mano o de pie), con callouts de
+desambiguación cruzados en ambas guías (uno nuevo en `batidora` apuntando a `licuadora-de-mano`, y uno
+nuevo agregado a `licuadora-de-mano` apuntando a `batidora`, más un link recíproco en `internalLinks`).
+Un candidato de producto inicial, la Liliana Masterpic AH130 (MLA22299132, "mixer 3 en 1"), se investigó
+y se descartó de esta guía nueva porque MercadoLibre la clasifica en su propia categoría como
+"Licuadoras de Mano" (no "Batidoras") y su kit trae una varilla de acero para procesar en líquidos
+calientes, típico de minipimer, no de batidora — incluirla hubiera vuelto a mezclar el terreno que se
+estaba separando.
+
+**4 fichas nuevas importadas desde cero** (Liliana Optibat AB100, Ultracomb BM-2608R, Yelmo BM-1608,
+Peabody PE-BM110P), siguiendo `docs/fichas.md`: datos extraídos del JSON-LD embebido de cada página de
+MercadoLibre (precio, rating, reviewCount reales), specs de la ficha técnica de ML, reviews reales
+citadas textual, imágenes verificadas con GET real (no HEAD) contra el CDN de ML (5.954 a 9.968 bytes,
+todas fotos completas). Se descartaron 3 candidatos sin stock (`price: 0` en JSON-LD): Oster
+FPSTHM101, Peabody PE-HM550 y Peabody PE-BM103I. La ficha de la Peabody PE-BM110P trae un error de
+carga real de MercadoLibre ("Potencia: 1.000.000 W" en la ficha técnica pública del vendedor): se
+documentó como dato honesto en la ficha y se corrigió el valor real (1000W, según título y descripción
+de la publicación) en el campo `specs` estructurado. La misma publicación mostraba "ÚLTIMAS 5 UNIDADES"
+al momento de importarla — riesgo de quiebre de stock a corto plazo, a monitorear.
+
+**Auditoría del trío: 3 rondas hasta doble GO, con un hallazgo real de "agy escribe sin avisar" (de
+nuevo) que además introdujo un bug nuevo.** Ronda 1: Codex encontró que la ficha y la guía decían que
+la Yelmo BM-1608 (913 reseñas) era "la más elegida"/"con más opiniones", cuando la Liliana Optibat AB100
+en realidad tiene 2.033 (más del doble) — clásico error de no re-chequear superlativos cruzados tras
+armar el ranking. También encontró que la ficha de la Liliana decía "350W, la potencia más baja" cuando
+la Yelmo (300W) es la que tiene la potencia más baja real. En esa misma ronda, `agy` (con
+`--dangerously-skip-permissions`, autorización de Juan vigente desde el 2026-08-20) volvió a escribir
+directo en los archivos auditados pese a su rol de solo auditar — y esta vez el resultado no fue
+neutral: reescribió 3 de los 4 slugs de `/producto/...` en la guía con URLs **fabricadas** que no
+correspondían a `productSlug()` real (ej. cambió el slug correcto por
+`batidora-de-mano-electrica-amasadora-500w-roja-ultracomb-color-rojo-mla51335717`, que no coincide con
+el `title` real de esa ficha), rompiendo 20 links internos que `check-canonical-product-links.cjs` había
+dado en 0 antes de esa pasada. También borró sin avisar un comentario interno que documentaba el
+descarte de la Masterpic AH130. Se corrigieron los 20 slugs recalculando `productSlug()` desde el
+`title` real de cada ficha, y se completó el rebalanceo de superlativos que `agy` había dejado a medias
+(fijó los campos "de vidriera" de la ficha de Yelmo — seoTitle, ogTitle, h1 — pero dejó sin tocar
+`verdict`, `pros` y el `directAnswer`/`standfirst`/`quickPicks` de la guía, todavía con la reseña vieja).
+Ronda 2: con instrucción explícita de "solo reportar, no editar" para `agy`, ambos auditores dieron un
+hallazgo real más: "la mejor calificada" para la Yelmo (4.7★, la más alta *entre las de mano*) no
+aclaraba el alcance, chocando en teoría con la Peabody (4.8★, la más alta de toda la guía); y el callout
+nuevo de desambiguación en `licuadora-de-mano` decía "si buscás batir claras, no es esta guía" pese a
+que el cuerpo de esa misma guía ya menciona que la minipimer "bate claras" con su accesorio incluido.
+Se corrigieron ambos (agregando "de mano" en 5 lugares de la guía nueva, y reformulando el callout para
+distinguir uso ocasional del accesorio vs. uso principal de hornear). Ronda 3: doble GO limpio, sin
+ediciones de `agy` (respetó la instrucción de solo reportar).
+
+**Verificación:** `npx tsc --noEmit`, los 8 scripts de `npm run guides:check` que no dependen de
+`affiliateUrl` (los 4 placeholders `PEGAR_MELI_LA` son intencionales, pendientes de que Juan genere los
+links reales), `node scripts/check-price-guard.cjs` y `npm run build` en verde después de cada ronda.
+Render local verificado en el navegador (quickPicks, product-cards, tabla, FAQ, verdict, callouts de
+desambiguación cruzados, internalLinks, todo OK).
+
+Re-medir: **~2026-10-06** (≈4 semanas), contra baseline cero.
