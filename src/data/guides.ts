@@ -30985,6 +30985,116 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     ],
     internalLinksTitle: "Más para tu hogar",
   },
+  // Guía nueva campana-extractora — silo cocina, categoría nueva
+  // Origen: research propio 2026-09-08. Keyword "campana extractora"
+  // 2.400/mes, SD 12. Sin canibalización: cero menciones previas de
+  // "campana" o "extractora" en el sitio como categoría propia.
+  // 4 fichas nuevas importadas el mismo día (ver curated-products.ts).
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "campana-extractora",
+    category: "campana-extractora",
+    silo: "cocina",
+    pillar: true,
+    title: `Campana Extractora: cuál comprar en Argentina [2026]`,
+    seoTitle: `Campana Extractora: Cuál Comprar en Argentina | 2026`,
+    metaDescription: `Descubrí qué campana extractora comprar en Argentina: la más elegida, la más potente o la más económica. Precios reales de MercadoLibre y contras honestas.`,
+    ogTitle: `Campana extractora: cuál comprar en Argentina`,
+    ogDescription: `Nappo, Gadnic y Midea comparadas: cuánto caudal necesitás y qué tan simple es la instalación. Precios reales de MercadoLibre y las contras que nadie cuenta.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_790544-MLA95231025718_102025-O.webp`,
+    h1: `Campana extractora: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene la **[Nappo NEE-170](/producto/campana-extractora-purificador-de-cocina-130w-nappo-nee-170-59-5-x-48-1-x-19-8-mla60693763)** (alrededor de {{precio:MLA60693763:k}}): por lejos la más elegida. Si el precio es lo primero, la **[Gadnic Cuk 65W](/producto/campana-extractora-de-cocina-cuk-by-gadnic-65w-botonera-frontal-3-velocidades-lu-mla66581942)**. Si necesitás más caudal y control sin tocarla, la **[Gadnic Cuk 230W](/producto/campana-extractor-de-cocina-cuk-by-gadnic-230w-control-tactil-sensor-de-mano-luc-mla66748048)**. Y si priorizás una marca internacional, la **[Midea RH-DN60XAR1](/producto/campana-extractora-de-humo-midea-rh-dn60xar1-inox-mla66919867)**, la mejor calificada (aunque con pocas opiniones todavía).`,
+    publishedDate: "2026-09-08",
+    updatedDate: "2026-09-08",
+    hasDisclosure: true,
+    readingTime: 8,
+    standfirst: `Una campana extractora va de {{precio:MLA66581942:k}} (la más económica) a {{precio:MLA66919867:k}} (la mejor calificada). La decisión real pasa por cuánto caudal necesitás y qué tan simple es la instalación, no solo por precio. Te mostramos cuál conviene, con precios reales de MercadoLibre.`,
+    quickPicks: [
+      { productMlaId: "MLA60693763", label: "Mejor elección general", labelColor: "green", tagline: "Nappo NEE-170: por lejos la más elegida" },
+      { productMlaId: "MLA66581942", label: "La más económica", labelColor: "slate", tagline: "Gadnic Cuk 65W: filtros lavables, precio bajo" },
+      { productMlaId: "MLA66748048", label: "La más potente", labelColor: "amber", tagline: "Gadnic Cuk 230W: control táctil, sin tocarla" },
+      { productMlaId: "MLA66919867", label: "Mejor calificada", labelColor: "purple", tagline: "Midea RH-DN60XAR1: acero y vidrio, 5 estrellas" },
+    ],
+    intro: [
+      `La campana extractora resuelve algo simple pero importante: sacar el humo, el vapor y los olores de la cocina antes de que se metan en toda la casa. La decisión real pasa por cuánto caudal de aire necesitás según cuánto cocinás, y qué tan simple es la instalación, no solo por el precio.`,
+      `En esta guía comparamos las campanas extractoras más vendidas y mejor calificadas de MercadoLibre Argentina, con las contras reales que cuentan los compradores: desde lo ajustado que puede quedar el paso del cable hasta un flexible de salida que necesitó un refuerzo casero.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_790544-MLA95231025718_102025-O.webp", alt: `Campana extractora Nappo NEE-170, la más elegida de esta guía`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, la **[Nappo NEE-170](/producto/campana-extractora-purificador-de-cocina-130w-nappo-nee-170-59-5-x-48-1-x-19-8-mla60693763)**: por lejos la más elegida. Si **el precio es lo primero**, la **[Gadnic Cuk 65W](/producto/campana-extractora-de-cocina-cuk-by-gadnic-65w-botonera-frontal-3-velocidades-lu-mla66581942)**. Si necesitás **más caudal y control sin tocarla**, la **[Gadnic Cuk 230W](/producto/campana-extractor-de-cocina-cuk-by-gadnic-230w-control-tactil-sensor-de-mano-luc-mla66748048)**. Y si priorizás **una marca internacional**, la **[Midea RH-DN60XAR1](/producto/campana-extractora-de-humo-midea-rh-dn60xar1-inox-mla66919867)**, la mejor calificada.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos las campanas extractoras con más ventas y opiniones reales en MercadoLibre Argentina. Las ordenamos por lo que define la compra: potencia del motor, caudal de aire declarado, facilidad de instalación y precio. Las calificaciones y las contras son de compradores reales. Los precios que ves en las fichas y tablas se revisan contra MercadoLibre periódicamente.` },
+
+      { type: "h2", title: `Qué mirar antes de comprar una campana extractora`, id: "que-mirar" },
+      { type: "p", content: `Primero, **el caudal de aire (m³/h)**, no solo la potencia en watts: es el dato que dice cuánto aire mueve de verdad. Segundo, **el tipo de instalación**: la mayoría necesita salida al exterior mediante un ducto, y varias reseñas de esta categoría avisan que la instalación no siempre es tan simple como parece, sobre todo para quien no tiene experiencia. Tercero, **los filtros**: los de aluminio lavables reducen el costo de mantenimiento a largo plazo frente a los descartables.` },
+      { type: "p", content: `Un detalle honesto de la categoría: el accesorio flexible de salida que trae de fábrica no siempre es de la mejor calidad. Una reseña detallada de esta guía tuvo que reforzarlo con una malla metálica casera porque el aire a presión lo empujaba fuera de lugar en velocidad 2.` },
+
+      { type: "h2", title: `Las mejores campanas extractoras 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Nappo NEE-170 — mejor elección general` },
+      { type: "product-card", productMlaId: "MLA60693763", label: "Mejor elección general", labelColor: "green", ranking: 1, description: `130W, acero inoxidable, 3 velocidades. 4.6 estrellas en {{reviews:MLA60693763}} calificaciones, la base más grande de esta guía por lejos.` },
+      { type: "p", content: `Es la campana que recomendamos a la mayoría: motor de **130W**, cuerpo de acero inoxidable y 3 velocidades, a alrededor de {{precio:MLA60693763:k}}. Con {{reviews:MLA60693763}} calificaciones a 4.6 estrellas, es por lejos la más elegida de esta guía.` },
+      { type: "p", content: `La contra real: varias reseñas coinciden en que la instalación no es tan simple como parece para quien no tiene experiencia, y una avisa que el paso del cable por la reducción de aluminio queda muy ajustado.` },
+
+      { type: "h3", title: `2. Gadnic Cuk 65W — la más económica` },
+      { type: "product-card", productMlaId: "MLA66581942", label: "La más económica", labelColor: "slate", ranking: 2, description: `65W, filtros de aluminio lavables. 4.7 estrellas en {{reviews:MLA66581942}} calificaciones.` },
+      { type: "p", content: `La opción más económica de esta guía: motor de **65W**, caudal de 350 m³/h y filtros de aluminio lavables de 3 capas, a alrededor de {{precio:MLA66581942:k}}. Con {{reviews:MLA66581942}} calificaciones a 4.7 estrellas, tiene buen respaldo pese al precio bajo.` },
+      { type: "p", content: `La contra real: una reseña avisa que no trae instrucciones de armado y colocación detalladas, y es la de menor potencia de esta guía.` },
+      { type: "pull-quote", content: `"Hermosa! super delicada! era lo q esperábamos! buena potencia de extracción de olores y vapores."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `3. Gadnic Cuk 230W — la más potente` },
+      { type: "product-card", productMlaId: "MLA66748048", label: "La más potente", labelColor: "amber", ranking: 3, description: `230W, control táctil con sensor de mano. 4.8 estrellas en {{reviews:MLA66748048}} calificaciones.` },
+      { type: "p", content: `La más potente de esta guía: motor de **230W** y caudal de 750 m³/h (más del doble que la Gadnic Cuk 65W), con control táctil y sensor de mano para encenderla sin tocarla, a alrededor de {{precio:MLA66748048:k}}.` },
+      { type: "p", content: `La contra real: una reseña la describe como "un poco ruidosa", y es la segunda más cara de esta guía.` },
+      { type: "pull-quote", content: `"Precio-calidad superó mis expectativas. Un poco ruidosa. Más compacta que otros modelos. El encendido con gesto muy práctico."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `4. Midea RH-DN60XAR1 — mejor calificada` },
+      { type: "product-card", productMlaId: "MLA66919867", label: "Mejor calificada", labelColor: "purple", ranking: 4, description: `Acero y vidrio, marca internacional. 5 estrellas en {{reviews:MLA66919867}} calificaciones (todavía pocas).` },
+      { type: "p", content: `La mejor calificada de esta guía: 5 estrellas en {{reviews:MLA66919867}} calificaciones, marca internacional reconocida, acero inoxidable y vidrio, a alrededor de {{precio:MLA66919867:k}}, la más cara de esta guía.` },
+      { type: "p", content: `La contra real: tiene bastantes menos calificaciones que la Nappo, así que el 5 estrellas es un dato preliminar. Una reseña muy detallada avisa que el flexible de salida es demasiado blando y necesitó un refuerzo casero.` },
+      { type: "pull-quote", content: `"Una brutalidad lo que rinde. Hiper potente y muy silenciosa. La única crítica es que el flexible que trae es demasiado blando."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h2", title: `Tabla comparativa: potencia, caudal y precio`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Potencia`, `Caudal`, `Control`, `Rating`], rows: [
+        [`[Nappo NEE-170](/producto/campana-extractora-purificador-de-cocina-130w-nappo-nee-170-59-5-x-48-1-x-19-8-mla60693763)`, `{{precio:MLA60693763}}`, `130 W`, `No declarado`, `Botones`, `{{rating:MLA60693763}} ({{reviews:MLA60693763}})`],
+        [`[Gadnic Cuk 65W](/producto/campana-extractora-de-cocina-cuk-by-gadnic-65w-botonera-frontal-3-velocidades-lu-mla66581942)`, `{{precio:MLA66581942}}`, `65 W`, `350 m³/h`, `Botonera`, `{{rating:MLA66581942}} ({{reviews:MLA66581942}})`],
+        [`[Gadnic Cuk 230W](/producto/campana-extractor-de-cocina-cuk-by-gadnic-230w-control-tactil-sensor-de-mano-luc-mla66748048)`, `{{precio:MLA66748048}}`, `230 W`, `750 m³/h`, `Táctil + sensor`, `{{rating:MLA66748048}} ({{reviews:MLA66748048}})`],
+        [`[Midea RH-DN60XAR1](/producto/campana-extractora-de-humo-midea-rh-dn60xar1-inox-mla66919867)`, `{{precio:MLA66919867}}`, `213 W`, `No declarado`, `Botones`, `{{rating:MLA66919867}} ({{reviews:MLA66919867}})`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu campana extractora`, id: "como-elegir" },
+      { type: "h3", title: `¿Cuánto caudal necesitás?` },
+      { type: "p", content: `Para uso diario estándar, la [Gadnic Cuk 65W](/producto/campana-extractora-de-cocina-cuk-by-gadnic-65w-botonera-frontal-3-velocidades-lu-mla66581942) (350 m³/h) alcanza de sobra. Si cocinás mucho o con frecuencia frituras y parrillas, la [Gadnic Cuk 230W](/producto/campana-extractor-de-cocina-cuk-by-gadnic-230w-control-tactil-sensor-de-mano-luc-mla66748048) (750 m³/h) de esta guía extrae más del doble.` },
+      { type: "h3", title: `¿Cómo es la instalación?` },
+      { type: "p", content: `Todas las de esta guía se instalan de pared con salida al exterior mediante ducto. Varias reseñas de la Nappo avisan que la instalación no es tan simple para quien no tiene experiencia; si no te sentís cómodo, contratar a alguien con experiencia evita sorpresas como el flexible de salida que necesitó refuerzo en la Midea de esta guía.` },
+      { type: "h3", title: `¿Vale la pena pagar por control táctil?` },
+      { type: "p", content: `Si cocinás seguido con las manos sucias o mojadas, el sensor de mano de la [Gadnic Cuk 230W](/producto/campana-extractor-de-cocina-cuk-by-gadnic-230w-control-tactil-sensor-de-mano-luc-mla66748048) de esta guía es un diferencial real. El resto se opera con botones o teclas físicas.` },
+
+      { type: "h2", title: `Cuánto cuesta una campana extractora en Argentina [septiembre 2026]`, id: "cuanto-cuesta" },
+      { type: "list", content: "Franjas de precio reales", items: [
+        `**Alrededor de {{precio:MLA66581942:k}} a {{precio:MLA60693763:k}}:** la [Gadnic Cuk 65W](/producto/campana-extractora-de-cocina-cuk-by-gadnic-65w-botonera-frontal-3-velocidades-lu-mla66581942) y la [Nappo NEE-170](/producto/campana-extractora-purificador-de-cocina-130w-nappo-nee-170-59-5-x-48-1-x-19-8-mla60693763), las opciones más económicas de esta guía.`,
+        `**Alrededor de {{precio:MLA66748048:k}} a {{precio:MLA66919867:k}}:** la [Gadnic Cuk 230W](/producto/campana-extractor-de-cocina-cuk-by-gadnic-230w-control-tactil-sensor-de-mano-luc-mla66748048) y la [Midea RH-DN60XAR1](/producto/campana-extractora-de-humo-midea-rh-dn60xar1-inox-mla66919867), las opciones premium de esta guía.`,
+      ] },
+
+      { type: "verdict", content: `Para la mayoría, la **[Nappo NEE-170](/producto/campana-extractora-purificador-de-cocina-130w-nappo-nee-170-59-5-x-48-1-x-19-8-mla60693763)** es la compra más segura: por lejos la más elegida de esta guía. Si el precio es lo primero, la **[Gadnic Cuk 65W](/producto/campana-extractora-de-cocina-cuk-by-gadnic-65w-botonera-frontal-3-velocidades-lu-mla66581942)**. Si necesitás más caudal y control sin tocarla, la **[Gadnic Cuk 230W](/producto/campana-extractor-de-cocina-cuk-by-gadnic-230w-control-tactil-sensor-de-mano-luc-mla66748048)**. Y si priorizás una marca internacional, la **[Midea RH-DN60XAR1](/producto/campana-extractora-de-humo-midea-rh-dn60xar1-inox-mla66919867)**, sabiendo que su base de opiniones todavía es chica.` },
+    ],
+    faq: [
+      { question: `¿Cuál es la mejor campana extractora en Argentina?`, answer: `Para la mayoría, la [Nappo NEE-170](/producto/campana-extractora-purificador-de-cocina-130w-nappo-nee-170-59-5-x-48-1-x-19-8-mla60693763): por lejos la más elegida. Si necesitás más caudal, la [Gadnic Cuk 230W](/producto/campana-extractor-de-cocina-cuk-by-gadnic-230w-control-tactil-sensor-de-mano-luc-mla66748048) (750 m³/h).` },
+      { question: `¿Cuánto caudal de aire necesito?`, answer: `Para uso diario estándar, 350 m³/h como la Gadnic Cuk 65W de esta guía alcanza de sobra. Si cocinás mucho o con frituras frecuentes, conviene 700 m³/h o más.` },
+      { question: `¿Es difícil instalar una campana extractora?`, answer: `Varía según el modelo y la experiencia de quien la instale. Varias reseñas de la Nappo de esta guía avisan que no es tan simple para quien no tiene experiencia; si no te sentís cómodo, conviene contratar a alguien.` },
+      { question: `¿Todas necesitan salida al exterior?`, answer: `Las 4 de esta guía están pensadas para instalación de pared con salida al exterior mediante ducto. Existen modelos sin salida (de recirculación) que no forman parte de esta comparativa.` },
+      { question: `¿Vale la pena el control táctil con sensor de mano?`, answer: `Si cocinás seguido con las manos sucias o mojadas, sí: la [Gadnic Cuk 230W](/producto/campana-extractor-de-cocina-cuk-by-gadnic-230w-control-tactil-sensor-de-mano-luc-mla66748048) de esta guía permite operarla con un gesto, sin tocar botones.` },
+      { question: `¿Por qué la Midea tiene pocas opiniones si es la mejor calificada?`, answer: `Es un producto con menos historial de ventas en el catálogo que la Nappo de esta guía. Sus 5 estrellas son reales pero sobre una base más chica, un dato honesto a tener en cuenta.` },
+    ],
+    internalLinks: [
+      { label: "Batidora: cuál comprar en Argentina", href: "/guias/cocina/batidora" },
+      { label: "Lavavajillas: cuál comprar en Argentina", href: "/guias/cocina/lavavajillas" },
+      { label: "Picadora de carne: cuál comprar en Argentina", href: "/guias/cocina/picadora-de-carne" },
+      { label: "Exprimidor: cuál comprar en Argentina", href: "/guias/cocina/exprimidor" },
+    ],
+    internalLinksTitle: "Más para tu cocina",
+  },
 ];
 
 /**
@@ -31358,6 +31468,11 @@ export const guideCategories: Record<string, { name: string; description: string
     name: "Guía de Purificador de Aire",
     description:
       "HEPA real o solo ionizador, cuánta superficie cubren de verdad: los más vendidos y mejor calificados de MercadoLibre, comparados.",
+  },
+  "campana-extractora": {
+    name: "Guía de Campana Extractora",
+    description:
+      "Cuánto caudal necesitás de verdad y qué tan simple es la instalación: las más vendidas y mejor calificadas de MercadoLibre, comparadas.",
   },
   climatizacion: {
     name: "Guías de Climatización",

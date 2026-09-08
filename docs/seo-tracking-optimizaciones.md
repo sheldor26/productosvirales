@@ -1970,6 +1970,44 @@ local verificado en el navegador. Las 4 imágenes verificadas con GET real (2.39
 
 Re-medir: **~2026-10-06** (≈4 semanas), contra baseline cero.
 
+## 2026-09-08 — Guía nueva `campana-extractora` (silo cocina, categoría nueva, 4 fichas nuevas) — quinta de un segundo lote
+
+| Guía | Silo | Categoría | Keyword | Volumen (Ubersuggest AR) | SD | Productos |
+| :-- | :-- | :-- | :-- | --: | --: | --: |
+| `campana-extractora` | cocina | campana-extractora | campana extractora | 2.400 | 12 | 4 |
+
+**Baseline: cero.** URL nueva, sin historial en GSC. Quinta guía del segundo lote. Sin canibalización:
+cero menciones previas de "campana" o "extractora" en todo el sitio.
+
+**4 fichas nuevas importadas desde cero**, todas verificadas en vivo en MercadoLibre Argentina: Nappo
+NEE-170 (130W, $215.999, 4.6★/**158 reseñas** — la base más grande, la más elegida), Gadnic Cuk 65W
+(65W/350 m³/h, $210.499, 4.7★/93 reseñas, la más económica), Gadnic Cuk 230W SIL (230W/750 m³/h, control
+táctil con sensor de mano, $311.077, 4.8★/115 reseñas, la más potente), Midea RH-DN60XAR1 (213W, acero y
+vidrio, $319.999, 5.0★ pero solo 20 reseñas, la mejor calificada).
+
+**Hallazgo honesto: la Midea tiene rating 5.0 pero apenas 20 calificaciones**, muy por debajo de las 158
+de la Nappo. Documentado explícitamente como dato preliminar en la ficha y la guía.
+
+**Hallazgo honesto de una reseña muy detallada de la Midea**: el flexible de salida que trae de fábrica
+es de mala calidad ("demasiado blando") y se desplaza con la presión del aire en velocidad 2; la
+compradora lo solucionó con una malla metálica casera. Se citó textual como pull-quote.
+
+**Auditoría del trío: 1 sola ronda, GO de `agy`, sin ediciones no autorizadas.** El autochequeo de
+superlativos y datos crudos (potencias 65W/130W/213W/230W, caudales 350/750 m³/h) antes de lanzar el
+trío no encontró ningún hallazgo real. `agy` cubrió también los puntos técnicos de Codex en su propio
+reporte.
+
+**Incidente operativo: caída de acceso de Codex confirmada persistente también en esta guía (tercera vez
+consecutiva en este lote).** Mismo error 404 en el modelo `gpt-5.5` ya documentado (ver memoria del
+proyecto [[codex-cuenta-chatgpt-puede-perder-acceso-a-modelo]]). No se reintentó una segunda vez; esta
+guía cierra con el GO de `agy` más la verificación mecánica completa de Claude.
+
+**Verificación:** `npx tsc --noEmit`, los 4 scripts de `guides:check` que no dependen de `affiliateUrl`,
+`check-hardcoded-reviews`, `node scripts/check-price-guard.cjs` y `npm run build` en verde. Render local
+verificado en el navegador. Las 4 imágenes verificadas con GET real (4.118 a 8.784 bytes).
+
+Re-medir: **~2026-10-06** (≈4 semanas), contra baseline cero.
+
 ## 2026-09-08 — Guía nueva `purificador-de-aire` (silo hogar, categoría nueva, 4 fichas nuevas) — cuarta de un segundo lote
 
 | Guía | Silo | Categoría | Keyword | Volumen (Ubersuggest AR) | SD | Productos |

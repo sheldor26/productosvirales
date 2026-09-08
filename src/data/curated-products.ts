@@ -88898,6 +88898,266 @@ Para espacios chicos (un escritorio, una mesita de luz) y un presupuesto ajustad
       { question: "¿Trae garantía?", answer: "La ficha de MercadoLibre no detalla el plazo de garantía de fábrica de este modelo puntual; confirmalo en la publicación antes de comprar." },
     ],
   },
+  {
+    id: "MLA60693763",
+    title: "Campana extractora purificador de cocina 130W Nappo NEE-170 59.5 x 48.1 x 19.8",
+    canonicalName: "Nappo NEE-170", mpn: "NEE-170", brand: "Nappo",
+    price: 215999, currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_790544-MLA95231025718_102025-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_790544-MLA95231025718_102025-O.webp"],
+    category: "Cocina", categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/campana-extractora-purificador-de-cocina-130w-nappo-nee-170-595-x-481-x-198/p/MLA60693763",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new", freeShipping: true, rating: 4.6, reviewCount: 158,
+    pastelColor: "var(--pastel-blue)",
+    priceUpdated: "2026-09-08", priceLastChecked: "2026-09-08", priceStatus: "fresh", reviewsSampledAt: "2026-09-08",
+    specs: [
+      { label: "Marca", value: "Nappo" },
+      { label: "Modelo", value: "NEE-170" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Potencia del motor", value: "130 W" },
+      { label: "Material", value: "Acero inoxidable" },
+      { label: "Tipo de instalación", value: "De pared, con salida al exterior" },
+      { label: "Número de velocidades", value: "3" },
+      { label: "Tipo de control", value: "Botones/teclas" },
+      { label: "Peso", value: "6,3 kg" },
+      { label: "Dimensiones", value: "59,5 x 48,1 x 19,8 cm" },
+    ],
+    relatedProducts: ["MLA66581942", "MLA66748048", "MLA66919867"],
+    description: "Campana extractora Nappo NEE-170, 130W de pared con salida al exterior. La más elegida de esta comparativa, con más de 150 calificaciones.",
+    seoTitle: "Nappo NEE-170: la campana extractora más elegida",
+    metaDescription: "Nappo NEE-170 a {{precio:MLA60693763}}: 130W, 3 velocidades y {{reviews:MLA60693763}} calificaciones. La más elegida de esta comparativa.",
+    ogTitle: "Nappo NEE-170: campana extractora de pared, la más elegida",
+    ogDescription: "130W, acero inoxidable, 3 velocidades. La más elegida por lejos, con un aviso honesto sobre la instalación.",
+    h1: "Nappo NEE-170: campana extractora, la más elegida de esta comparativa",
+    verdict: "La campana extractora más elegida de esta comparativa, por lejos: {{reviews:MLA60693763}} calificaciones a 4.6 estrellas, muchas más que cualquier otra opción. Motor de 130W, acero inoxidable y 3 velocidades, a {{precio:MLA60693763}}. El aviso honesto: varias reseñas coinciden en que la instalación no es tan simple como parece, y una avisa que el paso del cable por la reducción de aluminio queda muy ajustado.",
+    pros: [
+      "La más elegida de esta comparativa, con {{reviews:MLA60693763}} calificaciones",
+      "Buena relación precio-potencia: 130W a un precio competitivo",
+      "Acero inoxidable, 3 velocidades y salida al exterior",
+      "Fácil de instalar para quien tiene experiencia, según una reseña de un instalador profesional",
+    ],
+    cons: [
+      "Varias reseñas coinciden en que la instalación no es tan simple como parece para quien no tiene experiencia",
+      "Una reseña avisa que el paso del cable por la reducción de aluminio queda muy ajustado",
+      "4.6 estrellas, la nota más baja de esta comparativa",
+    ],
+    articleBody: `## La más elegida de esta comparativa, por lejos
+
+La Nappo NEE-170 es la campana extractora más elegida de esta comparativa: {{reviews:MLA60693763}} calificaciones a 4.6 estrellas, muchas más que el resto. Tiene motor de 130W, cuerpo de acero inoxidable, 3 velocidades y salida al exterior, a {{precio:MLA60693763}}.
+
+## Lo que dicen los compradores reales
+
+Las opiniones son parejas en potencia y diseño: "me gustó la potencia y como funciona, lindo diseño y funcionamiento". Un instalador profesional la eligió varias veces por lo accesible de su colocación. Pero no todas las experiencias de instalación son iguales: una reseña avisa que "la instalación no es fácil" y otra, más específica, cuenta que "hay una reducción del aluminio por donde pasa el cable que queda muy ajustada".
+
+## Para quién es
+
+Para quien busca la opción con más respaldo de opiniones reales de esta comparativa a un precio competitivo, y no le molesta contratar a alguien con experiencia para la instalación si no la tiene. Si preferís algo más económico, la Gadnic Cuk 65W de esta comparativa cuesta un poco menos.`,
+    faq: [
+      { question: "¿Es difícil de instalar?", answer: "Depende de la experiencia de quien la instale: un instalador profesional la describe como accesible, pero otras reseñas avisan que no es tan simple, y que el paso del cable por la reducción de aluminio queda muy ajustado." },
+      { question: "¿Cuántas calificaciones tiene?", answer: "{{reviews:MLA60693763}} calificaciones a {{rating:MLA60693763}} estrellas, la base de opiniones más grande de esta comparativa por lejos." },
+      { question: "¿Qué potencia tiene?", answer: "130W, con 3 velocidades ajustables según el tipo de cocción." },
+      { question: "¿Necesita salida al exterior?", answer: "Sí, según su ficha técnica está pensada para extracción con salida al exterior mediante ducto." },
+      { question: "¿Es de acero inoxidable?", answer: "Sí, el cuerpo es de acero inoxidable SS430, según su descripción." },
+      { question: "¿Trae garantía?", answer: "La ficha de MercadoLibre no detalla el plazo de garantía de fábrica de este modelo puntual; confirmalo en la publicación antes de comprar." },
+    ],
+  },
+  {
+    id: "MLA66581942",
+    title: "Campana Extractora De Cocina Cuk By Gadnic 65W Botonera Frontal 3 Velocidades Luces LED",
+    canonicalName: "Gadnic Cuk 65W", mpn: "PURCAM03", brand: "Gadnic",
+    price: 210499, currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_641174-MLA108657749531_032026-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_641174-MLA108657749531_032026-O.webp"],
+    category: "Cocina", categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/campana-extractora-de-cocina-cuk-by-gadnic-65w-botonera-frontal-3-velocidades-luces-led/p/MLA66581942",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new", freeShipping: true, rating: 4.7, reviewCount: 93,
+    pastelColor: "var(--pastel-coral)",
+    priceUpdated: "2026-09-08", priceLastChecked: "2026-09-08", priceStatus: "fresh", reviewsSampledAt: "2026-09-08",
+    specs: [
+      { label: "Marca", value: "Gadnic" },
+      { label: "Línea", value: "Cuk By Gadnic SIL" },
+      { label: "Modelo", value: "PURCAM03" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Potencia del motor", value: "65 W" },
+      { label: "Caudal de aire", value: "350 m³/h" },
+      { label: "Material", value: "Acero inoxidable 430" },
+      { label: "Número de velocidades", value: "3" },
+      { label: "Tipo de control", value: "Teclas (botonera frontal)" },
+      { label: "Filtros", value: "Aluminio, 3 capas, lavables" },
+      { label: "Dimensiones", value: "60 x 47,5 cm (ancho x profundidad)" },
+    ],
+    relatedProducts: ["MLA60693763", "MLA66748048", "MLA66919867"],
+    description: "Campana extractora Gadnic Cuk 65W, botonera frontal y filtros lavables. La opción más económica de esta comparativa.",
+    seoTitle: "Gadnic Cuk 65W: la campana extractora más económica",
+    metaDescription: "Gadnic Cuk 65W a {{precio:MLA66581942}}: 350 m³/h, filtros lavables y {{reviews:MLA66581942}} calificaciones. La más económica de esta comparativa.",
+    ogTitle: "Gadnic Cuk 65W: campana extractora económica con filtros lavables",
+    ogDescription: "65W, 350 m³/h, filtros de aluminio lavables. La opción más económica de esta comparativa.",
+    h1: "Gadnic Cuk 65W: campana extractora, la más económica de esta comparativa",
+    verdict: "La opción más económica de esta comparativa: motor de 65W, caudal de 350 m³/h y filtros de aluminio lavables, a {{precio:MLA66581942}}. Con {{reviews:MLA66581942}} calificaciones a 4.7 estrellas, tiene buen respaldo. El aviso honesto: una reseña avisa que no trae instrucciones de armado y colocación detalladas.",
+    pros: [
+      "La opción más económica de esta comparativa",
+      "Filtros de aluminio de 3 capas, lavables, que reducen el costo de mantenimiento",
+      "Súper silenciosa según varias reseñas",
+      "{{reviews:MLA66581942}} calificaciones a {{rating:MLA66581942}} estrellas",
+    ],
+    cons: [
+      "Una reseña avisa que no trae instrucciones de armado y colocación detalladas",
+      "65W es la potencia más baja de esta comparativa",
+      "Menos calificaciones acumuladas que la Nappo de esta comparativa",
+    ],
+    articleBody: `## La opción más económica de esta comparativa
+
+La Gadnic Cuk 65W es la campana extractora más económica de esta comparativa: motor de 65W, caudal de 350 m³/h y filtros de aluminio lavables de 3 capas, a {{precio:MLA66581942}}. Con {{reviews:MLA66581942}} calificaciones a 4.7 estrellas, tiene buen respaldo pese al precio bajo.
+
+## Lo que dicen los compradores reales
+
+Las reseñas destacan que es súper silenciosa y estética: "hermosa, super delicada, buena potencia de extracción de olores y vapores". El aviso honesto de una reseña: "no trae instrucciones de armado y colocación", aunque agrega con humor que no fue un problema real para instalarla.
+
+## Para quién es
+
+Para quien prioriza el precio y no necesita la máxima potencia de esta comparativa: alcanza bien para cocinas de uso diario estándar. Si necesitás más caudal de extracción, la Gadnic Cuk 230W de esta comparativa rinde más del doble.`,
+    faq: [
+      { question: "¿Trae instrucciones de instalación?", answer: "Una reseña real avisa que no trae instrucciones detalladas de armado y colocación, aunque no lo reporta como un problema grave para instalarla." },
+      { question: "¿Cuántas calificaciones tiene?", answer: "{{reviews:MLA66581942}} calificaciones a {{rating:MLA66581942}} estrellas." },
+      { question: "¿Qué caudal de aire tiene?", answer: "Hasta 350 m³/h, según su ficha técnica, la potencia más baja de esta comparativa (comparado con los 750 m³/h de la Gadnic Cuk 230W)." },
+      { question: "¿Los filtros son lavables?", answer: "Sí, filtros de aluminio de 3 capas, lavables, que facilitan el mantenimiento." },
+      { question: "¿Es ruidosa?", answer: "Al contrario: varias reseñas la describen como súper silenciosa." },
+      { question: "¿Trae garantía?", answer: "La ficha de MercadoLibre no detalla el plazo de garantía de fábrica de este modelo puntual; confirmalo en la publicación antes de comprar." },
+    ],
+  },
+  {
+    id: "MLA66748048",
+    title: "Campana Extractor De Cocina Cuk By Gadnic 230W Control Táctil Sensor De Mano Luces LED 60cm",
+    canonicalName: "Gadnic Cuk 230W SIL", mpn: "PURCAM02", brand: "Gadnic",
+    price: 311077, currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_881904-MLA108096914066_032026-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_881904-MLA108096914066_032026-O.webp"],
+    category: "Cocina", categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/campana-extractor-de-cocina-cuk-by-gadnic-230w-control-tactil-sensor-de-mano-luces-led-60cm/p/MLA66748048",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new", freeShipping: true, rating: 4.8, reviewCount: 115,
+    pastelColor: "var(--pastel-amber)",
+    priceUpdated: "2026-09-08", priceLastChecked: "2026-09-08", priceStatus: "fresh", reviewsSampledAt: "2026-09-08",
+    specs: [
+      { label: "Marca", value: "Gadnic" },
+      { label: "Línea", value: "Cuk SIL" },
+      { label: "Modelo", value: "PURCAM02" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Potencia del motor", value: "230 W" },
+      { label: "Caudal de aire", value: "750 m³/h" },
+      { label: "Tipo de instalación", value: "De pared, con salida" },
+      { label: "Número de velocidades", value: "3" },
+      { label: "Tipo de control", value: "Táctil, con sensor de mano (sin contacto)" },
+      { label: "Filtros", value: "2, de aluminio" },
+      { label: "Incluye control remoto", value: "No" },
+    ],
+    relatedProducts: ["MLA60693763", "MLA66581942", "MLA66919867"],
+    description: "Campana extractora Gadnic Cuk 230W SIL, control táctil y sensor de mano. La más potente de esta comparativa.",
+    seoTitle: "Gadnic Cuk 230W: la campana extractora más potente",
+    metaDescription: "Gadnic Cuk 230W a {{precio:MLA66748048}}: 750 m³/h, control táctil y {{reviews:MLA66748048}} calificaciones. La más potente de esta comparativa.",
+    ogTitle: "Gadnic Cuk 230W: campana extractora con control táctil, la más potente",
+    ogDescription: "230W, 750 m³/h, control táctil con sensor de mano sin contacto. La más potente de esta comparativa.",
+    h1: "Gadnic Cuk 230W: campana extractora con control táctil, la más potente de esta comparativa",
+    verdict: "La campana extractora más potente de esta comparativa: motor de 230W, caudal de 750 m³/h (más del doble que la Gadnic Cuk 65W), control táctil y sensor de mano para operar sin tocarla, a {{precio:MLA66748048}}. Con {{reviews:MLA66748048}} calificaciones a 4.8 estrellas, tiene muy buen respaldo. El aviso honesto: una reseña la describe como \"un poco ruidosa\".",
+    pros: [
+      "La más potente de esta comparativa: 230W y 750 m³/h de caudal",
+      "Control táctil con sensor de mano, se puede encender sin tocarla con las manos sucias o mojadas",
+      "4.8 estrellas, la segunda calificación más alta de esta comparativa",
+      "Más compacta que otros modelos según una reseña",
+    ],
+    cons: [
+      "Una reseña la describe como \"un poco ruidosa\"",
+      "Es la segunda más cara de esta comparativa",
+      "No incluye control remoto, según su ficha técnica",
+    ],
+    articleBody: `## La más potente de esta comparativa
+
+La Gadnic Cuk 230W SIL es la campana extractora más potente de esta comparativa: motor de 230W y caudal de 750 m³/h, más del doble que la Gadnic Cuk 65W de esta comparativa. Suma control táctil con sensor de mano, para encenderla sin tocarla con las manos sucias o mojadas al cocinar. Cuesta {{precio:MLA66748048}}.
+
+## Lo que dicen los compradores reales
+
+Las reseñas destacan la relación precio-calidad y el encendido por gesto: "precio-calidad superó mis expectativas, un poco ruidosa, más compacta que otros modelos, el encendido con gesto muy práctico". Otras resaltan lo estética que es, aunque varias todavía no la habían instalado al momento de opinar.
+
+## Para quién es
+
+Para cocinas donde se cocina mucho y se necesita extraer más humo y olores, y para quien valora poder encenderla sin tocar botones con las manos ocupadas o mojadas. Si el ruido es un problema o no necesitás tanta potencia, la Nappo o la Gadnic Cuk 65W de esta comparativa son más silenciosas.`,
+    faq: [
+      { question: "¿Es ruidosa?", answer: "Una reseña la describe como \"un poco ruidosa\", aunque valora mucho su potencia y el sistema de encendido por gesto. Si el ruido es prioridad, la Nappo o la Gadnic Cuk 65W de esta comparativa son más silenciosas." },
+      { question: "¿Cómo funciona el sensor de mano?", answer: "Permite operar el equipo con un gesto de la mano, sin necesidad de tocar botones físicos, útil cuando tenés las manos sucias o mojadas al cocinar." },
+      { question: "¿Cuántas calificaciones tiene?", answer: "{{reviews:MLA66748048}} calificaciones a {{rating:MLA66748048}} estrellas." },
+      { question: "¿Qué caudal de aire tiene?", answer: "750 m³/h, el más alto de esta comparativa, más del doble que la Gadnic Cuk 65W (350 m³/h)." },
+      { question: "¿Trae control remoto?", answer: "No, según su ficha técnica. Se opera con el panel táctil o el sensor de mano." },
+      { question: "¿Trae garantía?", answer: "La ficha de MercadoLibre no detalla el plazo de garantía de fábrica de este modelo puntual; confirmalo en la publicación antes de comprar." },
+    ],
+  },
+  {
+    id: "MLA66919867",
+    title: "Campana Extractora De Humo Midea Rh-dn60xar1 Inox",
+    canonicalName: "Midea RH-DN60XAR1", mpn: "RH-DN60XAR1", brand: "Midea",
+    price: 319999, currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_840268-MLA109114720815_032026-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_840268-MLA109114720815_032026-O.webp"],
+    category: "Cocina", categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/campana-extractora-de-humo-midea-rh-dn60xar1-inox/p/MLA66919867",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new", freeShipping: true, rating: 5, reviewCount: 20,
+    pastelColor: "var(--pastel-purple)",
+    priceUpdated: "2026-09-08", priceLastChecked: "2026-09-08", priceStatus: "fresh", reviewsSampledAt: "2026-09-08",
+    specs: [
+      { label: "Marca", value: "Midea" },
+      { label: "Modelo", value: "RH-DN60XAR1" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Potencia del motor", value: "213 W" },
+      { label: "Material", value: "Acero inoxidable y vidrio" },
+      { label: "Tipo de instalación", value: "De pared, con salida al exterior" },
+      { label: "Peso", value: "12 kg" },
+      { label: "Dimensiones", value: "60 x 45 x 50 cm" },
+    ],
+    relatedProducts: ["MLA60693763", "MLA66581942", "MLA66748048"],
+    description: "Campana extractora Midea RH-DN60XAR1, acero inoxidable y vidrio. La mejor calificada de esta comparativa, aunque con pocas opiniones todavía.",
+    seoTitle: "Midea RH-DN60XAR1: la campana extractora mejor calificada",
+    metaDescription: "Midea RH-DN60XAR1 a {{precio:MLA66919867}}: acero y vidrio, 213W y {{reviews:MLA66919867}} calificaciones. La mejor calificada de esta comparativa.",
+    ogTitle: "Midea RH-DN60XAR1: campana extractora de acero y vidrio, 5 estrellas",
+    ogDescription: "213W, acero inoxidable y vidrio, marca internacional reconocida. La mejor calificada de esta comparativa, con pocas opiniones todavía.",
+    h1: "Midea RH-DN60XAR1: campana extractora, la mejor calificada de esta comparativa",
+    verdict: "La campana extractora mejor calificada de esta comparativa: 5 estrellas en {{reviews:MLA66919867}} calificaciones, marca internacional reconocida, acero inoxidable y vidrio, a {{precio:MLA66919867}}, la más cara de esta comparativa. El aviso honesto: {{reviews:MLA66919867}} calificaciones es una base bastante más chica que la de la Nappo de esta comparativa, así que las 5 estrellas son un dato preliminar. Una reseña muy detallada avisa que el flexible de salida es demasiado blando y necesitó un refuerzo casero.",
+    pros: [
+      "5 estrellas, la calificación más alta de esta comparativa",
+      "Marca internacional reconocida, acero inoxidable y vidrio",
+      "Motor potente y muy silencioso, según una reseña detallada",
+      "Diseño delicado y estético, según varias reseñas",
+    ],
+    cons: [
+      "Es la más cara de esta comparativa",
+      "Tiene bastantes menos calificaciones que la Nappo de esta comparativa; el 5 estrellas es un dato preliminar",
+      "Una reseña detallada avisa que el flexible de salida que trae es demasiado blando y se sale de lugar en velocidad 2, necesitando un refuerzo casero",
+    ],
+    articleBody: `## La mejor calificada de esta comparativa
+
+La Midea RH-DN60XAR1 tiene la calificación más alta de esta comparativa: 5 estrellas en {{reviews:MLA66919867}} calificaciones. Es de acero inoxidable y vidrio, motor de 213W, y cuesta {{precio:MLA66919867}}, la más cara de esta comparativa.
+
+## Un dato honesto sobre las reseñas
+
+Tiene {{reviews:MLA66919867}} calificaciones, bastante menos que la Nappo de esta comparativa. El 5 estrellas es un dato real, pero sobre una base más chica; conviene tenerlo en cuenta antes de asumir que es "la mejor" sin matices.
+
+## Lo que dicen los compradores reales
+
+Una reseña muy detallada la describe como "hiper potente y muy silenciosa", con una salvedad honesta: el flexible de salida que trae de fábrica es "demasiaaaaaado blando", y al encenderla en velocidad 2 el aire a presión lo empuja fuera de su lugar dentro de la columna. La solución casera que encontró: atarle una malla metálica para contenerlo. Fuera de ese detalle, la calificación es la más alta de esta comparativa.
+
+## Para quién es
+
+Para quien prioriza una marca internacional reconocida y no le importa pagar el precio más alto de esta comparativa por eso, sabiendo que el respaldo de opiniones todavía es chico. Si preferís una base de opiniones más grande y probada, la Nappo de esta comparativa acumula muchas más.`,
+    faq: [
+      { question: "¿Por qué tiene pocas calificaciones si es la mejor puntuada?", answer: `Tiene {{reviews:MLA66919867}} calificaciones, bastante menos que la Nappo de esta comparativa. Las 5 estrellas son reales pero sobre una base más chica, un dato honesto a tener en cuenta.` },
+      { question: "¿El flexible de salida funciona bien?", answer: "Una reseña muy detallada avisa que el que trae de fábrica es demasiado blando y se sale de lugar en velocidad 2; ella lo solucionó agregando una malla metálica de refuerzo." },
+      { question: "¿Es silenciosa?", answer: "Según una reseña detallada, sí, muy silenciosa pese a ser \"hiper potente\"." },
+      { question: "¿Qué potencia tiene?", answer: "213W, según su ficha técnica, entre la Gadnic Cuk 65W (65W) y la Gadnic Cuk 230W (230W) de esta comparativa." },
+      { question: "¿Es de acero inoxidable?", answer: "Sí, combinado con vidrio, según su ficha técnica." },
+      { question: "¿Trae garantía?", answer: "La ficha de MercadoLibre no detalla el plazo de garantía de fábrica de este modelo puntual; confirmalo en la publicación antes de comprar." },
+    ],
+  },
 ];
 
 export const categoryPastels: Record<string, string> = {
