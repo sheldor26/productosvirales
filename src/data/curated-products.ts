@@ -87359,6 +87359,260 @@ Para quien quiere un solo equipo que resuelva sándwiches, panini y waffles sin 
       { question: "¿Vale la pena pagar más por esta que por una sandwichera simple?", answer: "Si vas a usar también la función waffle o panini, sí. Si solo necesitás sándwiches, el Ultracomb SW2800 o la Kanji de esta comparativa cumplen igual a menor precio." },
     ],
   },
+  {
+    id: "MLA15800669",
+    title: "Plancha Seca Philco Psp1217pi 1200w Suela Antiadherente Color Blanco",
+    canonicalName: "Philco PSP1217PI", mpn: "PSP1217N", brand: "Philco",
+    price: 34761, currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_914992-MLA100021834539_122025-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_914992-MLA100021834539_122025-O.webp"],
+    category: "Hogar", categorySlug: "hogar",
+    permalink: "https://www.mercadolibre.com.ar/plancha-seca-philco-psp1217pi-1200w-suela-antiadherente-color-blanco/p/MLA15800669",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new", freeShipping: true, rating: 4.5, reviewCount: 1454,
+    pastelColor: "var(--pastel-blue)",
+    priceUpdated: "2026-09-08", priceLastChecked: "2026-09-08", priceStatus: "fresh", reviewsSampledAt: "2026-09-08",
+    specs: [
+      { label: "Marca", value: "Philco" },
+      { label: "Modelo", value: "PSP1217N" },
+      { label: "Tipo", value: "Seca (sin vapor)" },
+      { label: "Potencia", value: "1.200 W" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Material de la base", value: "Antiadherente" },
+      { label: "Material del cuerpo", value: "Plástico" },
+      { label: "Con cable giratorio", value: "Sí" },
+      { label: "Con control de temperatura", value: "Sí" },
+    ],
+    relatedProducts: ["MLA52936698", "MLA19888818", "MLA23350594"],
+    description: "Plancha seca Philco PSP1217PI, sin vapor, 1200W. La más barata de esta comparativa, con más de 1.400 calificaciones.",
+    seoTitle: "Philco PSP1217PI: la plancha seca más barata, ¿alcanza?",
+    metaDescription: "Philco PSP1217PI a {{precio:MLA15800669}}: seca, 1200W y {{reviews:MLA15800669}} calificaciones. La más barata de esta comparativa.",
+    ogTitle: "Philco PSP1217PI: plancha seca, la más barata de esta comparativa",
+    ogDescription: "Sin vapor, cable largo, base antiadherente. La más barata, aunque compradores avisan que no calienta demasiado.",
+    h1: "Philco PSP1217PI: plancha seca, la más barata de esta comparativa",
+    verdict: "La plancha más barata de esta comparativa, con buen respaldo de opiniones: {{reviews:MLA15800669}} calificaciones a 4.5 estrellas. Es una plancha seca, sin función vapor: cumple lo básico para ropa de uso diario sin arrugas profundas. El aviso honesto: alguna reseña indica que no calienta demasiado y le cuesta con telas más gruesas.",
+    pros: [
+      "La más barata de esta comparativa",
+      "{{reviews:MLA15800669}} calificaciones, buen respaldo para el precio",
+      "Cable giratorio y bastante más largo que el promedio, según reseñas",
+      "Liviana y simple de usar",
+    ],
+    cons: [
+      "Sin función vapor: no sirve para arrugas profundas ni telas gruesas",
+      "Alguna reseña indica que no calienta demasiado y el planchado no queda perfecto",
+      "Cuerpo de plástico, sin las funciones extra de las planchas a vapor de esta comparativa",
+    ],
+    articleBody: `## La más barata de esta comparativa
+
+La Philco PSP1217PI es una plancha seca (sin vapor), 1200W, a {{precio:MLA15800669}}. Es la más barata de esta comparativa, con buen respaldo de opiniones: {{reviews:MLA15800669}} opiniones a 4.5 estrellas.
+
+## Lo que dicen los compradores reales
+
+Las reseñas coinciden en que es simple y liviana, con un cable bastante más largo que el promedio de la categoría, algo que varios compradores destacan como plus. El punto de cuidado: alguna reseña indica que "no calienta mucho" y que "no logra un buen planchado" en telas más exigentes. Para uso liviano y cotidiano cumple, pero no es la opción para arrugas profundas.
+
+## Para quién es
+
+Para quien busca resolver el planchado básico del día a día sin gastar de más, sin necesidad de vapor. Si tenés telas más gruesas o arrugas difíciles, la Liliana RPV910 (a vapor) de esta comparativa rinde mejor por poco más de precio.`,
+    faq: [
+      { question: "¿Esta plancha tiene vapor?", answer: "No, es una plancha seca. Si necesitás vapor para telas gruesas o arrugas difíciles, mirá la Liliana RPV910 o la Philips PerfectCare de esta comparativa." },
+      { question: "¿Calienta bien?", answer: "Reseñas confirman que cumple para uso diario liviano, pero alguna avisa que no calienta demasiado y le cuesta con telas más exigentes." },
+      { question: "¿Cuántas calificaciones tiene?", answer: "{{reviews:MLA15800669}} calificaciones a {{rating:MLA15800669}} estrellas, buen respaldo para el precio." },
+      { question: "¿El cable es largo?", answer: "Sí, varias reseñas destacan que el cable es bastante más largo que el de otras planchas de esta gama, algo que facilita planchar sin cambiar de tomacorriente." },
+      { question: "¿Trae garantía?", answer: "La ficha de MercadoLibre no detalla el plazo de garantía de fábrica de este modelo puntual; confirmalo en la publicación antes de comprar." },
+      { question: "¿Qué diferencia tiene con la Liliana RPV910?", answer: "La Liliana suma función vapor regulable y termostato, a un precio moderadamente mayor. Si el presupuesto es lo primero y no necesitás vapor, la Philco cumple." },
+    ],
+  },
+  {
+    id: "MLA52936698",
+    title: "Plancha A Vapor Black Steam Liliana - Rpv910 Negro",
+    canonicalName: "Liliana RPV910 Black Steam", mpn: "RPV910", brand: "Liliana",
+    price: 45899, currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_877734-MLA110918642855_042026-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_877734-MLA110918642855_042026-O.webp"],
+    category: "Hogar", categorySlug: "hogar",
+    permalink: "https://www.mercadolibre.com.ar/plancha-a-vapor-black-steam-liliana-rpv910-negro/p/MLA52936698",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new", freeShipping: true, rating: 4.6, reviewCount: 603,
+    pastelColor: "var(--pastel-coral)",
+    priceUpdated: "2026-09-08", priceLastChecked: "2026-09-08", priceStatus: "fresh", reviewsSampledAt: "2026-09-08",
+    specs: [
+      { label: "Marca", value: "Liliana" },
+      { label: "Línea", value: "Planchas a vapor" },
+      { label: "Modelo", value: "RPV910" },
+      { label: "Tipo", value: "Vapor" },
+      { label: "Potencia", value: "1.300 W" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Vapor", value: "Regulable" },
+      { label: "Termostato", value: "Regulable" },
+      { label: "Base", value: "Antiadherente" },
+    ],
+    relatedProducts: ["MLA15800669", "MLA19888818", "MLA23350594"],
+    description: "Plancha a vapor Liliana RPV910 Black Steam, 1300W, vapor y termostato regulables. La mejor elección general de esta comparativa.",
+    seoTitle: "Liliana RPV910 Black Steam: la plancha a vapor equilibrada",
+    metaDescription: "Liliana RPV910 a {{precio:MLA52936698}}: vapor regulable, 1300W y {{reviews:MLA52936698}} calificaciones. La mejor elección general de esta comparativa.",
+    ogTitle: "Liliana RPV910 Black Steam: vapor y termostato regulables",
+    ogDescription: "1300W, base antiadherente, vapor regulable. La mejor elección general, con un par de detalles honestos sobre la perilla y las pérdidas de agua.",
+    h1: "Liliana RPV910 Black Steam: la mejor elección general de esta comparativa",
+    verdict: "La mejor elección general de esta comparativa: vapor regulable, termostato ajustable y 1300W, a un precio intermedio. Con {{reviews:MLA52936698}} calificaciones a 4.6 estrellas, tiene buen respaldo. Dos avisos honestos de compradores reales: alguna reseña reporta que pierde un poco de agua al enfriarse, y otra que la perilla de temperatura es sensible al roce.",
+    pros: [
+      "Vapor y termostato regulables, a precio intermedio",
+      "{{reviews:MLA52936698}} calificaciones a {{rating:MLA52936698}} estrellas",
+      "Liviana y fácil de manejar, según reseñas",
+      "Buena relación funciones/precio frente a la premium de esta comparativa",
+    ],
+    cons: [
+      "Alguna reseña reporta pérdida de agua al enfriarse",
+      "La perilla de temperatura es sensible: se puede desregular con un roce mínimo, según una reseña",
+      "Alguna reseña pide más temperatura máxima para telas gruesas",
+    ],
+    articleBody: `## La mejor elección general de esta comparativa
+
+La Liliana RPV910 Black Steam suma vapor regulable y termostato ajustable, con 1300W de potencia, a {{precio:MLA52936698}}. Con {{reviews:MLA52936698}} calificaciones a 4.6 estrellas, es la de mejor balance entre funciones y precio de esta comparativa.
+
+## Lo que dicen los compradores reales
+
+Las reseñas la describen como liviana y efectiva: "con el vaporizador hace el planchado más fácil y rápido", dice una. Dos avisos honestos a tener en cuenta: una reseña reporta que "cuando se enfría pierde agua", algo a vigilar si la dejás apoyada; y otra avisa que la perilla de temperatura es sensible, "al mínimo roce se cambia". Ninguno es un defecto grave, pero conviene saberlo.
+
+## Para quién es
+
+Para uso doméstico habitual, con buen equilibrio entre función vapor y precio. Si necesitás más potencia y funciones de estación (auto-apagado, tanque más grande), la Philips PerfectCare de esta comparativa da un salto mayor, a un precio bastante más alto.`,
+    faq: [
+      { question: "¿Pierde agua esta plancha?", answer: "Una reseña real reporta que pierde un poco de agua al enfriarse. No es un defecto reportado como grave ni generalizado, pero vale la pena tenerlo en cuenta." },
+      { question: "¿La perilla de temperatura es difícil de manejar?", answer: "Una reseña avisa que es sensible: con un roce mínimo se puede desregular. Conviene ajustarla con cuidado y revisarla antes de cada uso." },
+      { question: "¿Cuántas calificaciones tiene?", answer: "{{reviews:MLA52936698}} calificaciones a {{rating:MLA52936698}} estrellas." },
+      { question: "¿Qué diferencia tiene con la Philco PSP1217PI?", answer: "La Liliana suma vapor regulable y termostato, a un precio moderadamente mayor. La Philco es más barata pero sin función vapor." },
+      { question: "¿Alcanza la temperatura para telas gruesas?", answer: "Una reseña pide un poco más de temperatura máxima para su gusto, aunque la califica como buena para el precio. Para telas muy gruesas, la Philips PerfectCare de esta comparativa rinde más." },
+      { question: "¿Trae garantía?", answer: "La ficha de MercadoLibre no detalla el plazo de garantía de fábrica de este modelo puntual; confirmalo en la publicación antes de comprar." },
+    ],
+  },
+  {
+    id: "MLA19888818",
+    title: "Vaporizador De Prendas Atma Gs2200pi Plancha Vertical Color Blanco",
+    canonicalName: "Atma GS2200PI", mpn: "GS2200PI", brand: "Atma",
+    price: 58399, currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_706076-MLA100016300561_122025-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_706076-MLA100016300561_122025-O.webp"],
+    category: "Hogar", categorySlug: "hogar",
+    permalink: "https://www.mercadolibre.com.ar/vaporizador-de-prendas-atma-gs2200pi-plancha-vertical-color-blanco/p/MLA19888818",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new", freeShipping: true, rating: 4.5, reviewCount: 5195,
+    pastelColor: "var(--pastel-amber)",
+    priceUpdated: "2026-09-08", priceLastChecked: "2026-09-08", priceStatus: "fresh", reviewsSampledAt: "2026-09-08",
+    specs: [
+      { label: "Marca", value: "Atma" },
+      { label: "Modelo", value: "GS2200PI" },
+      { label: "Tipo", value: "Vaporizador vertical (de percha)" },
+      { label: "Potencia", value: "1.370 W" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Con función de planchado vertical", value: "Sí" },
+      { label: "Es estación de planchado", value: "No" },
+    ],
+    relatedProducts: ["MLA15800669", "MLA52936698", "MLA23350594"],
+    description: "Vaporizador de prendas Atma GS2200PI, vertical, sin tabla de planchar. La más elegida de esta comparativa, con más de 5.100 calificaciones.",
+    seoTitle: "Atma GS2200PI: el vaporizador vertical más elegido, ¿vale la pena?",
+    metaDescription: "Atma GS2200PI a {{precio:MLA19888818}}: vaporizador vertical, sin tabla, y {{reviews:MLA19888818}} calificaciones. El más elegido de esta comparativa.",
+    ogTitle: "Atma GS2200PI: vaporizador vertical, el más elegido de esta comparativa",
+    ogDescription: "Plancha la ropa colgada, sin tabla ni plancha tradicional. Compradores lo recomiendan para quienes odian planchar, con un par de detalles a tener en cuenta.",
+    h1: "Atma GS2200PI: vaporizador vertical, el más elegido de esta comparativa",
+    verdict: "El más elegido de esta comparativa, por lejos: {{reviews:MLA19888818}} calificaciones a 4.5 estrellas, más del triple que cualquier otra de este ranking. Es un vaporizador vertical: pasa vapor sobre la ropa colgada, sin necesidad de tabla de planchar ni plancha tradicional. Dos avisos honestos: hay que usar el cepillo incluido para que la condensación no moje la ropa, y la traba de vapor continuo está en el mismo botón que el disparo simple, así que es fácil desactivarla sin querer.",
+    pros: [
+      "{{reviews:MLA19888818}} calificaciones, la base de opiniones más grande de esta comparativa por lejos",
+      "No necesita tabla de planchar: se usa con la ropa colgada",
+      "Rápido para sacar arrugas livianas, según reseñas reales",
+      "Compacto, útil para llevar de viaje según una reseña",
+    ],
+    cons: [
+      "Hay que usar el cepillo incluido para evitar que la condensación moje la ropa",
+      "La traba de vapor continuo está en el mismo botón que el disparo simple: fácil de desactivar sin querer",
+      "No reemplaza a una plancha tradicional para arrugas profundas o pliegues marcados",
+    ],
+    articleBody: `## El más elegido de esta comparativa, por lejos
+
+El Atma GS2200PI es un vaporizador vertical: en vez de una suela caliente sobre una tabla, pasás vapor sobre la ropa colgada. Con {{reviews:MLA19888818}} calificaciones a 4.5 estrellas, es el producto más elegido de esta comparativa, con más del triple de opiniones que cualquier otro modelo. Cuesta {{precio:MLA19888818}}.
+
+## Lo que dicen los compradores reales
+
+Las reseñas coinciden en la practicidad: "es rápida y no es tan gigante, útil para llevar de viaje", cuenta una. El mismo comprador avisa de un detalle importante: "el cepillo es necesario ponérselo para que la condensación del vapor en lo metálico no moje la ropa". Otro punto a tener en cuenta: la traba de vapor continuo comparte botón con el disparo simple, así que "es fácil bajarla aunque no se quiera".
+
+## Para quién es
+
+Para quien odia planchar y busca sacar arrugas livianas rápido, sin instalar tabla ni plancha. No reemplaza a una plancha tradicional para arrugas profundas, pliegues de pantalón o telas muy gruesas: para eso, la Liliana RPV910 o la Philips PerfectCare de esta comparativa rinden mejor.`,
+    faq: [
+      { question: "¿Reemplaza a una plancha tradicional?", answer: "No del todo: es ideal para arrugas livianas y ropa colgada, pero no logra el mismo resultado que una plancha con tabla en pliegues profundos o telas muy gruesas." },
+      { question: "¿Moja la ropa?", answer: "Puede pasar si no usás el cepillo incluido: una reseña avisa que sin él, la condensación del vapor en la parte metálica puede mojar la prenda. Con el cepillo puesto, no es un problema." },
+      { question: "¿Cuántas calificaciones tiene?", answer: "{{reviews:MLA19888818}} calificaciones a {{rating:MLA19888818}} estrellas, la base de opiniones más grande de esta comparativa por lejos." },
+      { question: "¿Es fácil de usar?", answer: "Sí, reseñas la describen como rápida y práctica para sacar arrugas mientras la ropa está colgada, sin instalar tabla de planchar." },
+      { question: "¿Sirve para viajar?", answer: "Una reseña la recomienda específicamente para eso: es compacta y rápida, útil para tener la ropa presentable en un viaje sin cargar una plancha tradicional." },
+      { question: "¿Qué diferencia tiene con una plancha común?", answer: "No tiene suela caliente ni se usa sobre una tabla: pasás el vapor directamente sobre la ropa colgada. Es más rápido para arrugas livianas, pero menos efectivo en pliegues profundos que una plancha tradicional." },
+    ],
+  },
+  {
+    id: "MLA23350594",
+    title: "Plancha A Vapor Philips Gc6842/30 Compact - Blanco Y Violeta",
+    canonicalName: "Philips PerfectCare GC6842/30", mpn: "GC6842/30", brand: "Philips",
+    price: 319542, currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_758189-MLA52107867129_102022-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_758189-MLA52107867129_102022-O.webp"],
+    category: "Hogar", categorySlug: "hogar",
+    permalink: "https://www.mercadolibre.com.ar/plancha-a-vapor-philips-gc684230-compact-blanco-y-violeta/p/MLA23350594",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new", freeShipping: true, rating: 4.8, reviewCount: 551,
+    pastelColor: "var(--pastel-purple)",
+    priceUpdated: "2026-09-08", priceLastChecked: "2026-09-08", priceStatus: "fresh", reviewsSampledAt: "2026-09-08",
+    specs: [
+      { label: "Marca", value: "Philips" },
+      { label: "Línea", value: "PerfectCare" },
+      { label: "Modelo", value: "GC6842/30" },
+      { label: "Tipo", value: "Estación de planchado a vapor" },
+      { label: "Potencia", value: "2.400 W" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Capacidad del tanque de agua", value: "1,3 L" },
+      { label: "Vapor constante", value: "280 g/min" },
+      { label: "Material de la base", value: "Aluminio" },
+      { label: "Con apagado automático", value: "Sí" },
+      { label: "Con sistema antigoteo", value: "Sí" },
+      { label: "Con sistema antisarro", value: "Sí" },
+      { label: "Largo del cable", value: "1,65 m" },
+    ],
+    relatedProducts: ["MLA15800669", "MLA52936698", "MLA19888818"],
+    description: "Plancha estación Philips PerfectCare GC6842/30, 2400W, tanque de 1,3L y vapor constante de 280g/min. La opción premium de esta comparativa.",
+    seoTitle: "Philips PerfectCare GC6842/30: la estación de planchado, ¿vale la pena?",
+    metaDescription: "Philips PerfectCare GC6842/30 a {{precio:MLA23350594}}: estación de planchado, 2400W y {{reviews:MLA23350594}} calificaciones. La opción premium de esta comparativa.",
+    ogTitle: "Philips PerfectCare GC6842/30: estación de planchado con 280g/min de vapor",
+    ogDescription: "2400W, tanque de 1,3L y apagado automático. La calificación más alta de esta comparativa, aunque hay que hacerle lugar en la mesada.",
+    h1: "Philips PerfectCare GC6842/30: estación de planchado, la opción premium de esta comparativa",
+    verdict: "La opción premium de esta comparativa y la mejor calificada: {{reviews:MLA23350594}} calificaciones a 4.8 estrellas. Es una estación de planchado completa: 2400W, tanque de 1,3L, vapor constante de 280g/min y apagado automático si te olvidás la plancha apoyada sobre la ropa. El aviso honesto: por su diseño de estación, necesita un espacio propio en la mesada, no entra en la bandeja de una tabla de planchar común.",
+    pros: [
+      "La calificación más alta de esta comparativa: {{rating:MLA23350594}} estrellas",
+      "2400W y vapor constante de 280g/min, la potencia más alta de esta comparativa",
+      "Apagado automático de seguridad si se deja apoyada sobre la ropa",
+      "Sistemas antigoteo y antisarro, tanque de 1,3L para planchar sin recargar seguido",
+    ],
+    cons: [
+      "La más cara por lejos: varias veces el precio de cualquier otra opción de esta comparativa",
+      "Necesita espacio propio en la mesada; no entra en la bandeja de una tabla de planchar común",
+      "No tiene talón de apoyo tradicional, según una reseña: hay que apoyarla en posición horizontal con cuidado",
+    ],
+    articleBody: `## La opción premium de esta comparativa
+
+La Philips PerfectCare GC6842/30 es una estación de planchado completa: base separada con tanque de agua de 1,3L, 2400W y vapor constante de 280 g/min, a {{precio:MLA23350594}}. Es la mejor calificada de esta comparativa: {{reviews:MLA23350594}} opiniones a 4.8 estrellas.
+
+## Lo que dicen los compradores reales
+
+Las reseñas son elocuentes: "la mejor plancha que probé en mi vida", dice una con 24 votos útiles, destacando que se apaga sola si te olvidás la ropa debajo (apagado automático de seguridad). Otra reseña detallada avisa de un punto de diseño a tener en cuenta: "hay que disponer de un espacio para poner la base, ya que sobre una tabla de planchar no se puede poner, corre el riesgo de caerse"; y que "no tiene cola de apoyo la plancha", así que hay que dejarla en posición horizontal.
+
+## Para quién es
+
+Para quien plancha seguido, en volumen, y quiere potencia real y autonomía de vapor sin recargar agua todo el tiempo. Es varias veces más cara que cualquier otra de esta comparativa, así que tiene sentido si el uso lo justifica. Para planchado ocasional o liviano, la Liliana RPV910 o el Atma GS2200PI de esta comparativa cumplen a una fracción del precio.`,
+    faq: [
+      { question: "¿Dónde se apoya la base de esta plancha?", answer: "Necesita un espacio propio en la mesada: una reseña detallada avisa que no entra en la bandeja de una tabla de planchar común y corre riesgo de caerse si se intenta." },
+      { question: "¿Tiene apagado automático?", answer: "Sí, se apaga sola si se deja apoyada sobre la ropa por un tiempo, una función de seguridad que varias reseñas destacan." },
+      { question: "¿Cuánto vapor da?", answer: "280 gramos por minuto de vapor constante, la cifra más alta de esta comparativa, con un tanque de 1,3 litros que evita recargar agua seguido." },
+      { question: "¿Vale la pena pagar tanto más que una plancha común?", answer: "Si planchás seguido y en volumen, sí: la potencia y la autonomía de vapor se notan. Para uso ocasional, la Liliana RPV910 o el Atma GS2200PI de esta comparativa cumplen a una fracción del precio." },
+      { question: "¿Cuántas calificaciones tiene?", answer: "{{reviews:MLA23350594}} calificaciones a {{rating:MLA23350594}} estrellas, la nota más alta de esta comparativa." },
+      { question: "¿Tiene sistema antigoteo y antisarro?", answer: "Sí, ambos sistemas están incluidos, pensados para mantener el rendimiento del vapor a lo largo del tiempo." },
+    ],
+  },
 ];
 
 export const categoryPastels: Record<string, string> = {

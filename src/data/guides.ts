@@ -30301,6 +30301,120 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     ],
     internalLinksTitle: "Más para tu cocina",
   },
+
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva plancha-de-ropa — silo hogar, categoría nueva
+  // Origen: research propio 2026-09-08. Keyword "plancha de ropa"
+  // 1.900/mes, SD 16. Sin canibalización: las únicas fichas de
+  // "plancha" existentes en el catálogo son de pelo (hair straightener),
+  // categoría completamente distinta, ya cubierta por otras guías.
+  // 4 fichas nuevas importadas el mismo día (ver curated-products.ts).
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "plancha-de-ropa",
+    category: "plancha-de-ropa",
+    silo: "hogar",
+    pillar: true,
+    title: `Plancha de Ropa: cuál comprar en Argentina [2026]`,
+    seoTitle: `Plancha de Ropa: Cuál Comprar en Argentina | 2026`,
+    metaDescription: `Descubrí qué plancha de ropa comprar en Argentina: la más barata, la más elegida y la estación premium. Precios reales de MercadoLibre y contras honestas.`,
+    ogTitle: `Plancha de ropa: cuál comprar en Argentina`,
+    ogDescription: `Philco, Liliana, Atma y Philips comparadas: seca, a vapor, vaporizador vertical o estación de planchado. Precios reales de MercadoLibre y las contras que nadie cuenta.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_706076-MLA100016300561_122025-O.webp`,
+    h1: `Plancha de ropa: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene la **[Liliana RPV910](/producto/plancha-a-vapor-black-steam-liliana-rpv910-negro-mla52936698)** (alrededor de {{precio:MLA52936698:k}}): vapor y termostato regulables, buen equilibrio entre funciones y precio. Si buscás la más barata, la **[Philco PSP1217PI](/producto/plancha-seca-philco-psp1217pi-1200w-suela-antiadherente-color-blanco-mla15800669)**, sin vapor. Si preferís la más elegida, sin tabla de planchar, el **[Atma GS2200PI](/producto/vaporizador-de-prendas-atma-gs2200pi-plancha-vertical-color-blanco-mla19888818)**, un vaporizador vertical. Y para lo más completo, una estación de planchado, la **[Philips PerfectCare GC6842/30](/producto/plancha-a-vapor-philips-gc6842-30-compact-blanco-y-violeta-mla23350594)**.`,
+    publishedDate: "2026-09-08",
+    updatedDate: "2026-09-08",
+    hasDisclosure: true,
+    readingTime: 8,
+    standfirst: `Una plancha de ropa va de {{precio:MLA15800669:k}} (la más básica, sin vapor) a {{precio:MLA23350594:k}} (la estación premium); la más elegida ronda los {{precio:MLA19888818:k}}. La decisión real pasa por si necesitás vapor y si preferís plancha tradicional o vaporizador vertical, no solo por precio. Te mostramos cuál conviene, con precios reales de MercadoLibre.`,
+    quickPicks: [
+      { productMlaId: "MLA52936698", label: "Mejor elección general", labelColor: "green", tagline: "Liliana RPV910: vapor y termostato regulables" },
+      { productMlaId: "MLA15800669", label: "La más barata", labelColor: "slate", tagline: "Philco PSP1217PI: seca, sin vapor" },
+      { productMlaId: "MLA19888818", label: "La más elegida", labelColor: "amber", tagline: "Atma GS2200PI: vaporizador vertical, sin tabla" },
+      { productMlaId: "MLA23350594", label: "La premium", labelColor: "purple", tagline: "Philips PerfectCare: estación de planchado completa" },
+    ],
+    intro: [
+      `La plancha de ropa parece un electrodoméstico simple, pero hay más de una decisión real detrás: seca o a vapor, plancha tradicional o vaporizador vertical (sin tabla), y si te alcanza con una básica o te conviene una estación completa. Cada formato resuelve un uso distinto, y el más elegido del mercado ni siquiera es una plancha tradicional.`,
+      `En esta guía comparamos las planchas de ropa más vendidas y mejor calificadas de MercadoLibre Argentina, con las contras reales que cuentan los compradores: desde pérdidas de agua hasta un dato de diseño que hay que saber antes de comprar una estación de planchado.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_706076-MLA100016300561_122025-O.webp", alt: `Vaporizador de prendas Atma GS2200PI, la plancha de ropa más elegida de esta guía`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, la **[Liliana RPV910](/producto/plancha-a-vapor-black-steam-liliana-rpv910-negro-mla52936698)**: vapor y termostato regulables, buen equilibrio de precio. Si buscás **el precio más bajo**, la **[Philco PSP1217PI](/producto/plancha-seca-philco-psp1217pi-1200w-suela-antiadherente-color-blanco-mla15800669)**, sin vapor. Si preferís **la más elegida**, sin tabla de planchar, el **[Atma GS2200PI](/producto/vaporizador-de-prendas-atma-gs2200pi-plancha-vertical-color-blanco-mla19888818)**, un vaporizador vertical con más del triple de opiniones que el resto. Y para **la opción más completa**, una estación con tanque y apagado automático, la **[Philips PerfectCare](/producto/plancha-a-vapor-philips-gc6842-30-compact-blanco-y-violeta-mla23350594)**.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos las planchas de ropa con más ventas y opiniones reales en MercadoLibre Argentina. Las ordenamos por lo que define la compra: si tienen vapor o no, el formato (plancha tradicional, vaporizador vertical o estación), la potencia y el precio. Las calificaciones y las contras son de compradores reales. Los precios que ves en las fichas y tablas se revisan contra MercadoLibre periódicamente.` },
+
+      { type: "h2", title: `Qué mirar antes de comprar una plancha de ropa`, id: "que-mirar" },
+      { type: "p", content: `Primero, **seca o a vapor**: seca es más simple y barata, pero no saca arrugas profundas ni telas gruesas; a vapor cuesta más pero rinde mejor en general. Segundo, **el formato**: una plancha tradicional (con tabla) sigue siendo la más versátil, pero un vaporizador vertical resuelve arrugas livianas mucho más rápido, sin instalar nada, aunque no reemplaza a la plancha para pliegues profundos. Tercero, **cuánto planchás**: uso ocasional se resuelve con cualquiera de las opciones de entrada; uso frecuente en volumen justifica una estación con tanque grande y apagado automático.` },
+      { type: "p", content: `Un dato que sorprende: en esta categoría, el producto más elegido de lejos no es una plancha tradicional, sino un vaporizador vertical. Refleja algo real del mercado: mucha gente prioriza rapidez y comodidad por sobre un planchado perfecto de pliegues profundos.` },
+
+      { type: "h2", title: `Las mejores planchas de ropa 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Liliana RPV910 — mejor elección general` },
+      { type: "product-card", productMlaId: "MLA52936698", label: "Mejor elección general", labelColor: "green", ranking: 1, description: `Vapor y termostato regulables, 1300W. 4.6 estrellas en {{reviews:MLA52936698}} calificaciones.` },
+      { type: "p", content: `Es la plancha que recomendamos a la mayoría: **vapor regulable**, **termostato ajustable** y 1300W, a alrededor de {{precio:MLA52936698:k}}. Con {{reviews:MLA52936698}} calificaciones a 4.6 estrellas, tiene buen respaldo para su precio.` },
+      { type: "p", content: `La contra real: alguna reseña reporta que pierde un poco de agua al enfriarse, y otra que la perilla de temperatura es sensible al roce.` },
+      { type: "pull-quote", content: `"Hermosa plancha. Liviana y efectiva. Con el vaporizador hace el planchado más fácil y rápido."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `2. Philco PSP1217PI — la más barata` },
+      { type: "product-card", productMlaId: "MLA15800669", label: "La más barata", labelColor: "slate", ranking: 2, description: `Seca, sin vapor, 1200W. 4.5 estrellas en {{reviews:MLA15800669}} calificaciones, la entrada más económica de esta guía.` },
+      { type: "p", content: `La plancha más barata de esta guía: {{reviews:MLA15800669}} opiniones a 4.5 estrellas, a alrededor de {{precio:MLA15800669:k}}. Es una plancha seca (sin vapor), con cable bastante más largo que el promedio.` },
+      { type: "p", content: `La contra real: sin función vapor, no sirve para arrugas profundas ni telas gruesas. Alguna reseña avisa que no calienta demasiado.` },
+
+      { type: "h3", title: `3. Atma GS2200PI — la más elegida` },
+      { type: "product-card", productMlaId: "MLA19888818", label: "La más elegida", labelColor: "amber", ranking: 3, description: `Vaporizador vertical, sin tabla, 1370W. 4.5 estrellas en {{reviews:MLA19888818}} calificaciones, la base de opiniones más grande de esta guía por lejos.` },
+      { type: "p", content: `El producto más elegido de esta guía, por lejos: {{reviews:MLA19888818}} calificaciones, más del triple que cualquier otro modelo de este ranking. Es un **vaporizador vertical**: pasás vapor sobre la ropa colgada, sin tabla de planchar ni plancha tradicional, a alrededor de {{precio:MLA19888818:k}}.` },
+      { type: "p", content: `La contra real: hay que usar el cepillo incluido para que la condensación no moje la ropa, y no reemplaza a una plancha tradicional para arrugas profundas o pliegues marcados.` },
+      { type: "pull-quote", content: `"No me gusta planchar ni un poco, pero con esta compra ahora puedo hacerlo mientras miro una serie. Recomendable 100%."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `4. Philips PerfectCare GC6842/30 — la premium` },
+      { type: "product-card", productMlaId: "MLA23350594", label: "La premium", labelColor: "purple", ranking: 4, description: `Estación de planchado, 2400W, tanque de 1,3L. 4.8 estrellas en {{reviews:MLA23350594}} calificaciones, la más alta de esta guía.` },
+      { type: "p", content: `Una estación de planchado completa: **2400W**, tanque de **1,3L** y vapor constante de **280 g/min**, con apagado automático de seguridad, a alrededor de {{precio:MLA23350594:k}}. Tiene la calificación más alta de esta guía: {{reviews:MLA23350594}} opiniones a 4.8 estrellas.` },
+      { type: "p", content: `La contra real: es, por lejos, la más cara de esta guía, y una reseña detallada avisa que necesita un espacio propio en la mesada, no entra en la bandeja de una tabla de planchar común.` },
+      { type: "pull-quote", content: `"La mejor plancha que probé en mi vida. Si te la olvidas arriba una ropa se apaga sola, no quema."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h2", title: `Tabla comparativa: tipo, potencia y precio`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Tipo`, `Potencia`, `Rating`], rows: [
+        [`[Liliana RPV910](/producto/plancha-a-vapor-black-steam-liliana-rpv910-negro-mla52936698)`, `{{precio:MLA52936698}}`, `Vapor`, `1.300 W`, `{{rating:MLA52936698}} ({{reviews:MLA52936698}})`],
+        [`[Philco PSP1217PI](/producto/plancha-seca-philco-psp1217pi-1200w-suela-antiadherente-color-blanco-mla15800669)`, `{{precio:MLA15800669}}`, `Seca`, `1.200 W`, `{{rating:MLA15800669}} ({{reviews:MLA15800669}})`],
+        [`[Atma GS2200PI](/producto/vaporizador-de-prendas-atma-gs2200pi-plancha-vertical-color-blanco-mla19888818)`, `{{precio:MLA19888818}}`, `Vaporizador vertical`, `1.370 W`, `{{rating:MLA19888818}} ({{reviews:MLA19888818}})`],
+        [`[Philips PerfectCare](/producto/plancha-a-vapor-philips-gc6842-30-compact-blanco-y-violeta-mla23350594)`, `{{precio:MLA23350594}}`, `Estación de vapor`, `2.400 W`, `{{rating:MLA23350594}} ({{reviews:MLA23350594}})`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu plancha de ropa`, id: "como-elegir" },
+      { type: "h3", title: `¿Seca o a vapor?` },
+      { type: "p", content: `Si tu uso es liviano y ocasional, la [Philco PSP1217PI](/producto/plancha-seca-philco-psp1217pi-1200w-suela-antiadherente-color-blanco-mla15800669) seca alcanza y sale menos. Para telas más exigentes o arrugas profundas, conviene subir a vapor: la [Liliana RPV910](/producto/plancha-a-vapor-black-steam-liliana-rpv910-negro-mla52936698) o la [Philips PerfectCare](/producto/plancha-a-vapor-philips-gc6842-30-compact-blanco-y-violeta-mla23350594) de esta guía.` },
+      { type: "h3", title: `¿Plancha tradicional o vaporizador vertical?` },
+      { type: "p", content: `El vaporizador vertical como el [Atma GS2200PI](/producto/vaporizador-de-prendas-atma-gs2200pi-plancha-vertical-color-blanco-mla19888818) es mucho más rápido para arrugas livianas y no necesita tabla, pero no logra el mismo resultado en pliegues profundos o telas muy gruesas que una plancha tradicional con tabla.` },
+      { type: "h3", title: `¿Vale la pena una estación de planchado?` },
+      { type: "p", content: `Si planchás seguido y en volumen, sí: más potencia, más autonomía de vapor sin recargar agua, y apagado automático de seguridad. Ocupa más espacio y cuesta varias veces más que las otras opciones de esta guía, así que solo tiene sentido si el uso lo justifica.` },
+
+      { type: "h2", title: `Cuánto cuesta una plancha de ropa en Argentina [septiembre 2026]`, id: "cuanto-cuesta" },
+      { type: "list", content: "Franjas de precio reales", items: [
+        `**Alrededor de {{precio:MLA15800669:k}}:** la [Philco PSP1217PI](/producto/plancha-seca-philco-psp1217pi-1200w-suela-antiadherente-color-blanco-mla15800669), la más barata de esta guía, sin vapor.`,
+        `**Alrededor de {{precio:MLA52936698:k}} a {{precio:MLA19888818:k}}:** la [Liliana RPV910](/producto/plancha-a-vapor-black-steam-liliana-rpv910-negro-mla52936698) (a vapor) y el [Atma GS2200PI](/producto/vaporizador-de-prendas-atma-gs2200pi-plancha-vertical-color-blanco-mla19888818) (vaporizador vertical, el más elegido).`,
+        `**Alrededor de {{precio:MLA23350594:k}}:** la [Philips PerfectCare](/producto/plancha-a-vapor-philips-gc6842-30-compact-blanco-y-violeta-mla23350594), la más cara de esta guía, estación de planchado completa.`,
+      ] },
+
+      { type: "verdict", content: `Para la mayoría, la **[Liliana RPV910](/producto/plancha-a-vapor-black-steam-liliana-rpv910-negro-mla52936698)** es la compra más segura: vapor y termostato regulables a un precio intermedio. Si el precio manda y no necesitás vapor, la **[Philco PSP1217PI](/producto/plancha-seca-philco-psp1217pi-1200w-suela-antiadherente-color-blanco-mla15800669)** es la más barata. Si preferís la opción más elegida, sin tabla de planchar, el **[Atma GS2200PI](/producto/vaporizador-de-prendas-atma-gs2200pi-plancha-vertical-color-blanco-mla19888818)**, un vaporizador vertical con muchísimo más respaldo que el resto. Y si planchás en volumen y querés lo más completo, sabiendo que es la más cara por lejos, la **[Philips PerfectCare](/producto/plancha-a-vapor-philips-gc6842-30-compact-blanco-y-violeta-mla23350594)**.` },
+    ],
+    faq: [
+      { question: `¿Cuál es la mejor plancha de ropa en Argentina?`, answer: `Para la mayoría, la [Liliana RPV910](/producto/plancha-a-vapor-black-steam-liliana-rpv910-negro-mla52936698): vapor y termostato regulables, buen equilibrio de precio. Si buscás la más barata, la [Philco PSP1217PI](/producto/plancha-seca-philco-psp1217pi-1200w-suela-antiadherente-color-blanco-mla15800669), sin vapor.` },
+      { question: `¿Conviene una plancha seca o a vapor?`, answer: `Seca es más simple y barata, pero no saca arrugas profundas ni telas gruesas. A vapor cuesta más pero rinde mejor en general. Para uso liviano y ocasional, la seca alcanza.` },
+      { question: `¿Qué es un vaporizador vertical y en qué se diferencia de una plancha?`, answer: `Un vaporizador vertical como el [Atma GS2200PI](/producto/vaporizador-de-prendas-atma-gs2200pi-plancha-vertical-color-blanco-mla19888818) pasa vapor sobre la ropa colgada, sin tabla ni suela caliente. Es mucho más rápido para arrugas livianas, pero no logra el mismo resultado que una plancha tradicional en pliegues profundos o telas muy gruesas.` },
+      { question: `¿Por qué el producto más elegido de esta guía es un vaporizador y no una plancha tradicional?`, answer: `El [Atma GS2200PI](/producto/vaporizador-de-prendas-atma-gs2200pi-plancha-vertical-color-blanco-mla19888818) tiene más del triple de opiniones que cualquier plancha tradicional de esta guía. Refleja que buena parte del mercado prioriza rapidez y comodidad (planchar sin instalar tabla) por sobre un resultado perfecto en pliegues profundos.` },
+      { question: `¿Vale la pena una estación de planchado como la Philips PerfectCare?`, answer: `Si planchás seguido y en volumen, sí: más potencia, tanque más grande y apagado automático de seguridad. Cuesta varias veces más que las otras opciones de esta guía y necesita su propio espacio en la mesada, así que conviene solo si el uso lo justifica.` },
+      { question: `¿Cuánta potencia necesita una plancha de ropa?`, answer: `Entre 1.200 y 1.400W alcanza para uso doméstico normal. Las estaciones de planchado, pensadas para uso más intensivo, suben a 2.000W o más, como los 2.400W de la Philips PerfectCare de esta guía.` },
+    ],
+    internalLinks: [
+      { label: "Aspiradora de mano: cuál comprar en Argentina", href: "/guias/hogar/aspiradora-de-mano" },
+      { label: "Sandwichera: cuál comprar en Argentina", href: "/guias/cocina/sandwichera" },
+      { label: "Batidora: cuál comprar en Argentina", href: "/guias/cocina/batidora" },
+      { label: "Robot aspiradora: guía completa y mejores modelos", href: "/guias/robot-aspiradora" },
+    ],
+    internalLinksTitle: "Más para tu hogar",
+  },
 ];
 
 /**
@@ -30624,6 +30738,11 @@ export const guideCategories: Record<string, { name: string; description: string
     name: "Guía de Aspiradora de Mano",
     description:
       "Con cable o inalámbrica, compacta o 2 en 1: cuál conviene según el uso. Las más vendidas de MercadoLibre, comparadas.",
+  },
+  "plancha-de-ropa": {
+    name: "Guía de Plancha de Ropa",
+    description:
+      "Seca o a vapor, tradicional o vaporizador vertical: cuál conviene según cuánto y cómo planchás. Las más vendidas de MercadoLibre, comparadas.",
   },
   cafeteras: {
     name: "Guía de Cafeteras",

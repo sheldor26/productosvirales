@@ -1827,3 +1827,45 @@ ciclo), nunca un `sed -i` de archivo completo con una frase que no incluya el id
 local verificado en el navegador. Las 4 imágenes verificadas con GET real (5.592 a 24.350 bytes).
 
 Re-medir: **~2026-10-06** (≈4 semanas), contra baseline cero.
+
+## 2026-09-08 — Guía nueva `plancha-de-ropa` (silo hogar, categoría nueva, 4 fichas nuevas)
+
+| Guía | Silo | Categoría | Keyword | Volumen (Ubersuggest AR) | SD | Productos |
+| :-- | :-- | :-- | :-- | --: | --: | --: |
+| `plancha-de-ropa` | hogar | plancha-de-ropa | plancha de ropa | 1.900 | 16 | 4 |
+
+**Baseline: cero.** URL nueva, sin historial en GSC. Sin canibalización: las únicas fichas de "plancha"
+que ya existían en el catálogo son de pelo (hair straightener), categoría completamente distinta.
+
+**Hallazgo editorial central: el producto más elegido de la categoría no es una plancha tradicional.**
+Verificado en vivo: el Atma GS2200PI, un vaporizador de prendas vertical (sin tabla, se usa con la ropa
+colgada), tiene 5.195 calificaciones — más del triple que cualquier plancha tradicional de la
+comparativa. MercadoLibre lo categoriza como un tipo de "plancha" (campo "Tipo de plancha: Vapor"), así
+que entra naturalmente al ranking, con las aclaraciones honestas de qué es y sus límites reales (no
+reemplaza a una plancha con tabla para pliegues profundos o telas gruesas). Hay una FAQ dedicada a
+explicar por qué el más elegido es un vaporizador y no una plancha convencional.
+
+**4 fichas nuevas importadas desde cero** (Philco PSP1217PI seca, Liliana RPV910 Black Steam, Atma
+GS2200PI vaporizador vertical, Philips PerfectCare GC6842/30 estación), siguiendo `docs/fichas.md`.
+Cubren un espectro real de formatos: seca/sin vapor, vapor tradicional equilibrado, vaporizador vertical
+y estación de planchado premium.
+
+**Se aplicó la lección de la guía `sandwichera` (mismo día, ver entrada anterior): autochequeo de
+superlativos cruzados ANTES de lanzar el trío, con ediciones puntuales, nunca `sed` global.** Antes de
+auditar, un grep exhaustivo sobre el bloque de las 4 fichas nuevas encontró que la ficha de la Philco
+PSP1217PI (1.454 reviews) se atribuía en 5 lugares distintos (`description`, `verdict`, un `pro`, una
+`FAQ` y el título/primer párrafo del `articleBody`) ser "la base de opiniones más grande de las cuatro",
+cuando el Atma GS2200PI tiene 5.195 — muchísimas más. Se corrigieron las 5 instancias con `Edit`
+puntual (nunca `sed -i` de archivo completo), y se re-verificó con grep exhaustivo sobre todo el bloque
+que no quedó ningún superlativo mal atribuido antes de lanzar el trío.
+
+**Auditoría del trío: 1 sola ronda, doble GO limpio, sin ediciones de `agy`.** Gracias al autochequeo
+previo, ni Codex ni `agy` encontraron ningún hallazgo real — ambos confirmaron explícitamente que la
+corrección de superlativos ya estaba completa y consistente. Primera guía de la sesión en cerrar en una
+sola ronda desde que se empezó a aplicar la lección de acotar las correcciones.
+
+**Verificación:** `npx tsc --noEmit`, los 8 scripts de `npm run guides:check` que no dependen de
+`affiliateUrl`, `node scripts/check-price-guard.cjs` y `npm run build` en verde. Render local verificado
+en el navegador. Las 4 imágenes verificadas con GET real (4.520 a 14.768 bytes).
+
+Re-medir: **~2026-10-06** (≈4 semanas), contra baseline cero.
