@@ -68674,7 +68674,7 @@ Comprala si querés el dato de retención de temperatura más confiable de esta 
       { label: "Peso", value: "6 kg" },
       { label: "Cable", value: "95 cm" },
     ],
-    relatedProducts: ["MLA26041341", "MLA41223080", "MLA56253561"],
+    relatedProducts: ["MLA26041341", "MLA41223080"],
     priceUpdated: "2026-09-07",
     priceLastChecked: "2026-09-07",
     priceStatus: "fresh",
@@ -68709,7 +68709,7 @@ Varias reseñas coinciden en el mismo punto: sin tapa, cocina un poco más lento
 
 ## Cómo se compara con las otras de esta guía
 
-Frente a la [Atma PG4720E](/producto/parrilla-electrica-atma-grill-antiadherente-1400w-gris-mla26041341) (económica, sin doble superficie), la Black+Decker cocina más variado. Frente a la [Philco PGE389BP](/producto/parrilla-electrica-philco-pge389bp-doble-mesada-y-2-zonas-de-coccion-2000w-mla41223080) (grande/familiar), la Philco tiene más zonas de cocción simultáneas para grupos grandes. Frente a la [Novohome NH-GR1000](/producto/plancha-parrilla-grill-electrica-doble-novohome-placas-antiadherente-de-ceramica-mla56253561) (clamshell), la Black+Decker no tiene tapa a presión que cocine de los dos lados a la vez.
+Frente a la [Atma PG4720E](/producto/parrilla-electrica-atma-grill-antiadherente-1400w-gris-mla26041341) (económica, sin doble superficie), la Black+Decker cocina más variado. Frente a la [Philco PGE389BP](/producto/parrilla-electrica-philco-pge389bp-doble-mesada-y-2-zonas-de-coccion-2000w-mla41223080) (grande/familiar), la Philco tiene más zonas de cocción simultáneas para grupos grandes.
 
 ## Para quién sí y para quién no
 
@@ -68783,7 +68783,7 @@ Comprala si buscás la parrilla eléctrica con más respaldo de compradores real
       { label: "Superficie de cocción", value: "Antiadherente" },
       { label: "Agarradera", value: "Plástica" },
     ],
-    relatedProducts: ["MLA14097409", "MLA41223080", "MLA56253561"],
+    relatedProducts: ["MLA14097409", "MLA41223080"],
     priceUpdated: "2026-09-04",
     priceLastChecked: "2026-09-04",
     priceStatus: "fresh",
@@ -68818,7 +68818,7 @@ Dos detalles de uso repetidos en las reseñas: la perilla de control se siente e
 
 ## Cómo se compara con las otras de esta guía
 
-Frente a la [Black+Decker Sizzlelean](/producto/parrilla-electrica-black-decker-sizzlelean-ig201-ar-negra-mla14097409) (elección general), la Atma suma tapa pero pierde superficie doble y potencia. Frente a la [Philco PGE389BP](/producto/parrilla-electrica-philco-pge389bp-doble-mesada-y-2-zonas-de-coccion-2000w-mla41223080) (grande/familiar), la Atma es mucho más chica y compacta. Frente a la [Novohome NH-GR1000](/producto/plancha-parrilla-grill-electrica-doble-novohome-placas-antiadherente-de-ceramica-mla56253561) (clamshell), ambas tienen tapa, pero la Novohome cocina de los dos lados a la vez con su sistema de prensa.
+Frente a la [Black+Decker Sizzlelean](/producto/parrilla-electrica-black-decker-sizzlelean-ig201-ar-negra-mla14097409) (elección general), la Atma suma tapa pero pierde superficie doble y potencia. Frente a la [Philco PGE389BP](/producto/parrilla-electrica-philco-pge389bp-doble-mesada-y-2-zonas-de-coccion-2000w-mla41223080) (grande/familiar), la Atma es mucho más chica y compacta.
 
 ## Para quién sí y para quién no
 
@@ -68896,7 +68896,7 @@ Comprala si priorizás cocinar con tapa en un espacio chico, con el respaldo de 
       { label: "Dimensiones del gabinete", value: "57 x 28 x 43 cm" },
       { label: "Peso", value: "14,6 kg" },
     ],
-    relatedProducts: ["MLA14097409", "MLA26041341", "MLA56253561"],
+    relatedProducts: ["MLA14097409", "MLA26041341"],
     priceUpdated: "2026-09-04",
     priceLastChecked: "2026-09-07",
     priceStatus: "fresh",
@@ -68931,7 +68931,7 @@ El punto clave para no llevarte una expectativa equivocada: "es grande" se refie
 
 ## Cómo se compara con las otras de esta guía
 
-Frente a la [Black+Decker Sizzlelean](/producto/parrilla-electrica-black-decker-sizzlelean-ig201-ar-negra-mla14097409) (elección general), la Philco tiene más potencia y superficie, pero cuesta bastante más. Frente a la [Atma PG4720E](/producto/parrilla-electrica-atma-grill-antiadherente-1400w-gris-mla26041341) (compacta), la Philco es mucho más grande y pesada. Frente a la [Novohome NH-GR1000](/producto/plancha-parrilla-grill-electrica-doble-novohome-placas-antiadherente-de-ceramica-mla56253561) (clamshell), la Philco cocina en superficie abierta con dos zonas, no con tapa a presión.
+Frente a la [Black+Decker Sizzlelean](/producto/parrilla-electrica-black-decker-sizzlelean-ig201-ar-negra-mla14097409) (elección general), la Philco tiene más potencia y superficie, pero cuesta bastante más. Frente a la [Atma PG4720E](/producto/parrilla-electrica-atma-grill-antiadherente-1400w-gris-mla26041341) (compacta), la Philco es mucho más grande y pesada.
 
 ## Para quién sí y para quién no
 
@@ -68996,7 +68996,7 @@ Comprala si necesitás cocinar para varias personas a la vez, con variedad (carn
     reviewCount: 159,
     soldQuantity: 500,
     pastelColor: "var(--pastel-amber)",
-    visibility: "normal",
+    visibility: "deprioritized",
     specs: [
       { label: "Marca", value: "Novohome" },
       { label: "Modelo", value: "NH-GR1000" },
@@ -69011,8 +69011,8 @@ Comprala si necesitás cocinar para varias personas a la vez, con variedad (carn
     ],
     relatedProducts: ["MLA14097409", "MLA26041341", "MLA41223080"],
     priceUpdated: "2026-08-12",
-    priceLastChecked: "2026-08-12",
-    priceStatus: "fresh",
+    priceLastChecked: "2026-09-08",
+    priceStatus: "out_of_stock",
     reviewsSampledAt: "2026-07-19",
     description: "Parrilla eléctrica Novohome NH-GR1000: la más barata de esta guía, con tapa tipo prensa de apertura 180° que cocina de los dos lados a la vez, badge oficial \"MÁS VENDIDO\" de MercadoLibre.",
     seoTitle: "Novohome NH-GR1000: la parrilla clamshell más barata",
