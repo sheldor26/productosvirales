@@ -1949,4 +1949,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "35",
     postedAt: "2026-09-08T09:24:12-03:00",
   },
+  {
+    title: 'Smart TV Samsung 65" QLED 4K QN65Q6FAAGCZB',
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_986582-MLA113362216941_062026-O.webp",
+    affiliateUrl: "https://meli.la/2sq4PA4",
+    newPrice: "1.353.149",
+    oldPrice: "2.399.999",
+    offPct: "43",
+    postedAt: "2026-09-08T09:27:04-03:00",
+  },
 ];
