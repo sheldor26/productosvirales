@@ -2026,6 +2026,46 @@ GET real (5.652 a 18.150 bytes).
 
 Re-medir: **~2026-10-06** (≈4 semanas), contra baseline cero.
 
+## 2026-09-08 — Corrección post-publicación en `arrocera-electrica`: Yelmo AR-9801 excluida del Programa de Afiliados
+
+**Hallazgo real de Juan al generar los links de afiliado**: MercadoLibre rechazó el link de la Yelmo
+AR-9801 (`MLAU2857208489`, el quickPick "Mejor elección general" de esta guía) con el error "Esta URL no
+está permitida en el Programa". Los otros 3 links de la misma guía (Novohome, Gadnic Riceron, Oster)
+generaron bien, descartando un problema sitewide — ver memoria del proyecto
+[[ml-publicacion-excluida-programa-afiliados]].
+
+**Investigación antes de reemplazar**: se buscaron otras publicaciones `MLAU` del mismo modelo Yelmo
+AR-9801 (distintos vendedores) como reemplazo directo, pero se descubrió que TODAS comparten exactamente
+el mismo pool de reseñas agregadas (mismo texto, mismo `ratingCount` 1004) — están vinculadas al mismo
+catálogo compartido, así que probablemente comparten también el mismo estado de exclusión del programa.
+Reemplazar por otra `MLAU` del mismo modelo habría arriesgado repetir el mismo error.
+
+**Reemplazo aplicado**: Ditron 500W (`MLA68281066`, ficha de catálogo plana, no listado individual),
+$68.213, 4.8★/118 reseñas, `InStock`, verificado en vivo el 2026-09-08. Hallazgo honesto propio de esta
+ficha: declara 1L de capacidad pero varias reseñas confirman que en la práctica rinde cerca de 2L —
+documentado de frente, no ocultado.
+
+**Reajuste de superlativos**: el Yelmo original ganaba en 3 ejes a la vez (más barato, más reseñas, mejor
+calificado). La Ditron gana en 2 de 3 (más barata, mejor calificada) pero NO tiene la mayor cantidad de
+reseñas (118, la menor de las 4) — ese lugar pasa honestamente a la Gadnic Riceron (934, sin cambiar su
+propia ficha), que mantiene su rol principal de "la más compacta" sumando el dato de reseñas como refuerzo,
+no como nueva identidad.
+
+**Reescritura exhaustiva**: se reemplazó la ficha completa en `curated-products.ts`, se actualizó
+`relatedProducts` en las 3 fichas hermanas, y se reescribieron TODAS las menciones en la guía (hero image,
+directAnswer, standfirst, quickPicks, callout, ranking #1 completo con nuevo pull-quote real, tabla
+comparativa, "Cómo elegir", lista de precios, verdict, FAQ). Se encontraron y corrigieron además 4
+menciones sueltas de "Yelmo" en las fichas de Novohome y Oster (comparaciones cruzadas) que un grep
+superficial no habría atrapado — confirmado con grep exhaustivo de "Yelmo" y "MLAU2857208489" en ambos
+archivos completos (no solo el bloque obvio) hasta dar cero residuos.
+
+**Auditoría**: 1 ronda, GO de `agy` (Codex sigue sin acceso, mismo problema de cuenta documentado en
+[[codex-cuenta-chatgpt-puede-perder-acceso-a-modelo]]). `npx tsc`, `guides:check` (salvo placeholders
+intencionales), `check-price-guard.cjs` y `npm run build` en verde. Verificado visualmente en el navegador.
+
+**Links de afiliado aplicados en la misma sesión**: Novohome, Gadnic Riceron y Oster (los 3 que Juan
+confirmó válidos). Pendiente: Ditron 500W (`MLA68281066`, el reemplazo).
+
 ---
 
 **Cierre del segundo lote de 7 guías nuevas (2026-09-08), armadas en modo `/loop` autónomo:**
