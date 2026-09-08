@@ -1923,3 +1923,49 @@ compartida sin acotar al bloque exacto del producto (ver [[sed-global-nunca-sin-
 memoria del proyecto) — costó revertir contenido de 5 productos ajenos en la guía `sandwichera`. A partir
 de ahí, cada guía se autochequeó con grep exhaustivo de superlativos ANTES de lanzar el trío, lo que
 redujo plancha-de-ropa a una sola ronda y dejó solo 1 hallazgo real (no de daño colateral) en exprimidor.
+
+## 2026-09-08 — Guía nueva `lavavajillas` (silo cocina, categoría nueva, 4 fichas nuevas) — primera de un segundo lote
+
+| Guía | Silo | Categoría | Keyword | Volumen (Ubersuggest AR) | SD | Productos |
+| :-- | :-- | :-- | :-- | --: | --: | --: |
+| `lavavajillas` | cocina | lavavajillas | lavavajillas | 18.100 | 15 | 4 |
+
+**Baseline: cero.** URL nueva, sin historial en GSC. La más grande de una segunda tanda de research de
+ideas ("seguí buscando ideas" → "vos sale para adelante, hacerlo en /loop"). En esa búsqueda se
+descartaron por estar ya cubiertos: yogurtera (33.100/mes), termotanque eléctrico (49.500/mes) y
+depiladora (12.100/mes) — todos con guía propia ya publicada.
+
+**4 fichas nuevas importadas desde cero** (Philco PHLJ05 de mesa, Drean LVDR1506CI0 de pie 15 cubiertos,
+Candy CF6C4F1PW 16 cubiertos Inverter, Whirlpool WLV14SY Sense premium), siguiendo `docs/fichas.md`. Se
+descartó un 5º candidato (Philco PHLJ14 Inverter Inox) porque su propia ficha técnica se contradecía: el
+título decía "Inverter" pero el campo "Con tecnología inverter" decía "No" — se prefirió no publicar un
+dato contradictorio antes que forzarlo.
+
+**Dos hallazgos honestos centrales de esta guía.** (1) La Candy CF6C4F1PW declara 16 cubiertos, pero
+varias reseñas reales confirman que con vajilla de platos grandes la capacidad efectiva baja a unos 12 —
+documentado de frente en la ficha y la guía. (2) Solo 2 de los 4 productos (Philco 54 dB, Whirlpool 46
+dB) declaran nivel de ruido en su ficha técnica; Drean y Candy no lo publican. Esto generó un error propio
+real que se corrigió en dos pasadas (ver abajo).
+
+**Auditoría del trío: 2 rondas, con un error propio real de sobre-generalización de un dato faltante.**
+Antes de lanzar la ronda 1, el grep exhaustivo de superlativos (ya rutina desde `sandwichera`) no cubrió
+un patrón distinto: la primera redacción afirmaba que el Whirlpool era "el más silencioso de las cuatro"
+y citaba "~54-55 dB del resto", una cifra inventada para 2 productos que nunca declararon ese dato. Se
+corrigió ANTES de lanzar el trío, acotando toda comparación de ruido a los únicos 2 productos que sí lo
+declaran (Whirlpool 46 dB vs. Philco 54 dB) y aclarando explícitamente que Drean y Candy no publican el
+dato. En la ronda 1, Codex encontró que una frase suelta en la sección "Qué mirar" (con una redacción
+distinta a las que el grep había cubierto: "el ruido va de 46 a 55 dB entre los modelos de esta guía")
+seguía sin corregir — un `55 dB` inventado que ninguna ficha declara. Se corrigió con `Edit` puntual.
+Ronda 2: doble GO limpio, sin ediciones de ningún auditor en ninguna de las dos rondas.
+
+**Lección para próximas guías: un grep de frases específicas no sustituye un grep del dato crudo.**
+Cuando la corrección es sobre un NÚMERO inventado (ej. "55 dB"), conviene grepear el número en sí (`55
+dB`, `dB`) en todo el bloque nuevo, no solo las frases de superlativo ("más silencioso", "de las cuatro")
+que llevaron al hallazgo original — la misma cifra falsa puede aparecer con una redacción distinta que el
+grep de frases no cubre.
+
+**Verificación:** `npx tsc --noEmit`, los 8 scripts de `npm run guides:check` que no dependen de
+`affiliateUrl`, `node scripts/check-price-guard.cjs` y `npm run build` en verde tras cada ronda. Render
+local verificado en el navegador. Las 4 imágenes verificadas con GET real (2.390 a 13.028 bytes).
+
+Re-medir: **~2026-10-06** (≈4 semanas), contra baseline cero.

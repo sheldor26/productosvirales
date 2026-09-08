@@ -30527,6 +30527,121 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     ],
     internalLinksTitle: "Más para tu cocina",
   },
+
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva lavavajillas — silo cocina, categoría nueva
+  // Origen: research propio 2026-09-08. Keyword "lavavajillas"
+  // 18.100/mes, SD 15. Sin canibalización: no existía guía ni
+  // ficha de lavavajillas en el sitio. Búsqueda de ideas de esta
+  // sesión también descartó yogurtera, termotanque eléctrico y
+  // depiladora por estar ya cubiertos.
+  // 4 fichas nuevas importadas el mismo día (ver curated-products.ts).
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "lavavajillas",
+    category: "lavavajillas",
+    silo: "cocina",
+    pillar: true,
+    title: `Lavavajillas: cuál comprar en Argentina [2026]`,
+    seoTitle: `Lavavajillas: Cuál Comprar en Argentina | 2026`,
+    metaDescription: `Descubrí qué lavavajillas comprar en Argentina: el más barato, de mayor capacidad y el silencioso premium. Precios reales de MercadoLibre y contras honestas.`,
+    ogTitle: `Lavavajillas: cuál comprar en Argentina`,
+    ogDescription: `Philco, Drean, Candy y Whirlpool comparados: de mesa o de pie, 5 a 16 cubiertos. Precios reales de MercadoLibre y las contras que nadie cuenta.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_880310-MLA105823317329_012026-O.webp`,
+    h1: `Lavavajillas: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene el **[Drean LVDR1506CI0](/producto/lavavajillas-15-cubiertos-inoxidable-drean-lvdr1506ci0-gris-mla47234972)** (alrededor de {{precio:MLA47234972:k}}): 15 cubiertos, acero inoxidable, certificación IRAM y soporte técnico local. Si buscás el más barato, el **[Philco PHLJ05](/producto/lavavajillas-philco-5-cubiertos-phlj05-sobremesada-blanco-mla45721602)**, de mesa para deptos chicos. Si necesitás la mayor capacidad, la **[Candy CF6C4F1PW](/producto/lavavajillas-candy-cf6c4f1pw-16-cubiertos-inverter-blanco-mla43082935)**, con 16 cubiertos. Y si priorizás silencio y una marca internacional, el **[Whirlpool WLV14SY Sense](/producto/lavavajillas-14-cubiertos-whirlpool-wlv14sy-sense-plateado-mla24527949)**.`,
+    publishedDate: "2026-09-08",
+    updatedDate: "2026-09-08",
+    hasDisclosure: true,
+    readingTime: 9,
+    standfirst: `Un lavavajillas va de {{precio:MLA45721602:k}} (el más básico, de mesa) a {{precio:MLA24527949:k}} (el premium silencioso). La decisión real pasa por cuánto espacio tenés, cuántos cubiertos necesitás lavar y si te importa el ruido, no solo por precio. Te mostramos cuál conviene, con precios reales de MercadoLibre.`,
+    quickPicks: [
+      { productMlaId: "MLA47234972", label: "Mejor elección general", labelColor: "green", tagline: "Drean LVDR1506CI0: 15 cubiertos, acero, marca argentina" },
+      { productMlaId: "MLA45721602", label: "El más barato", labelColor: "slate", tagline: "Philco PHLJ05: de mesa, ideal para deptos chicos" },
+      { productMlaId: "MLA43082935", label: "Mayor capacidad", labelColor: "amber", tagline: "Candy CF6C4F1PW: 16 cubiertos, tecnología Inverter" },
+      { productMlaId: "MLA24527949", label: "La premium", labelColor: "purple", tagline: "Whirlpool WLV14SY: 46 dB declarados, marca internacional" },
+    ],
+    intro: [
+      `El lavavajillas dejó de ser un lujo poco común en Argentina: hoy hay opciones de mesa para deptos chicos desde menos de $450.000. La decisión real pasa por el espacio que tenés (de mesa o de pie), cuántos cubiertos necesitás lavar por tanda y si te importa el ruido, no solo por el precio de lista.`,
+      `En esta guía comparamos los lavavajillas más vendidos y mejor calificados de MercadoLibre Argentina, con las contras reales que cuentan los compradores: desde por qué la capacidad nominal no siempre es la real hasta un detalle de instalación que puede arruinar un ciclo entero.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_880310-MLA105823317329_012026-O.webp", alt: `Lavavajillas Drean LVDR1506CI0 de acero inoxidable, la mejor elección general de esta guía`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, el **[Drean LVDR1506CI0](/producto/lavavajillas-15-cubiertos-inoxidable-drean-lvdr1506ci0-gris-mla47234972)**: 15 cubiertos, acero inoxidable, marca argentina con service local. Si buscás **el precio más bajo**, el **[Philco PHLJ05](/producto/lavavajillas-philco-5-cubiertos-phlj05-sobremesada-blanco-mla45721602)**, de mesa. Si necesitás **la mayor capacidad**, la **[Candy CF6C4F1PW](/producto/lavavajillas-candy-cf6c4f1pw-16-cubiertos-inverter-blanco-mla43082935)**, con 16 cubiertos e Inverter. Y para **silencio y marca internacional**, el **[Whirlpool WLV14SY](/producto/lavavajillas-14-cubiertos-whirlpool-wlv14sy-sense-plateado-mla24527949)**, con 46 dB.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos los lavavajillas con más ventas y opiniones reales en MercadoLibre Argentina. Los ordenamos por lo que define la compra: tipo de montaje (de mesa o de pie), capacidad de cubiertos, nivel de ruido y precio. Las calificaciones y las contras son de compradores reales. Los precios que ves en las fichas y tablas se revisan contra MercadoLibre periódicamente.` },
+
+      { type: "h2", title: `Qué mirar antes de comprar un lavavajillas`, id: "que-mirar" },
+      { type: "p", content: `Primero, **de mesa o de pie**: uno de mesa (sobremesada) es más barato y entra en deptos chicos, pero lava menos cubiertos por tanda y suele venir con un balde para cargar agua a mano en vez de conexión directa. Segundo, **la capacidad real, no solo la nominal**: varias reseñas de esta categoría avisan que con vajilla de platos grandes, la capacidad efectiva baja frente a la que declara la ficha. Tercero, **el ruido**: solo el Philco PHLJ05 (54 dB) y el Whirlpool WLV14SY (46 dB) declaran este dato en su ficha técnica; el Drean y la Candy no lo publican. La diferencia entre esos dos se nota si tu cocina está integrada al living.` },
+      { type: "p", content: `Un detalle que se repite en las reseñas de la categoría: la instalación importa tanto como el producto en sí. Una manguera de desagote mal colocada o ahorcada por falta de espacio puede cortar un ciclo a la mitad, sin que sea una falla del lavavajillas.` },
+
+      { type: "h2", title: `Los mejores lavavajillas 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Drean LVDR1506CI0 — mejor elección general` },
+      { type: "product-card", productMlaId: "MLA47234972", label: "Mejor elección general", labelColor: "green", ranking: 1, description: `15 cubiertos, acero inoxidable, certificación IRAM. 4.8 estrellas en {{reviews:MLA47234972}} calificaciones.` },
+      { type: "p", content: `Es el lavavajillas que recomendamos a la mayoría: **15 cubiertos**, acero inoxidable, certificación de seguridad eléctrica **IRAM** y marca argentina con service y repuestos accesibles localmente, a alrededor de {{precio:MLA47234972:k}}. Con {{reviews:MLA47234972}} calificaciones a 4.8 estrellas, tiene muy buen respaldo.` },
+      { type: "p", content: `La contra real: una reseña indica que el diseño de las canastas no aprovecha del todo el espacio para platos y vasos, y limita algunas posiciones.` },
+      { type: "pull-quote", content: `"Las cosas quedan como nuevas literalmente, aflojo la mugre de añares de los platos rugosos y las ollas renegridas por la grasa. No se pierdan de tener un lavavajillas en esta vida."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `2. Philco PHLJ05 — el más barato` },
+      { type: "product-card", productMlaId: "MLA45721602", label: "El más barato", labelColor: "slate", ranking: 2, description: `De mesa, 5 cubiertos, ideal para deptos chicos. 4.7 estrellas en {{reviews:MLA45721602}} calificaciones, la base más grande de esta guía.` },
+      { type: "p", content: `El lavavajillas más barato de esta guía: {{reviews:MLA45721602}} calificaciones a 4.7 estrellas, la base de opiniones más grande de las cuatro, a alrededor de {{precio:MLA45721602:k}}. Es de mesa, para 5 cubiertos, pensado para deptos chicos.` },
+      { type: "p", content: `La contra real: viene con un balde para cargar agua a mano; varios compradores lo conectan directo a la cañería del agua para mayor comodidad, un gasto extra de instalación.` },
+      { type: "pull-quote", content: `"Me mudé solo y una vez que te acostumbras a no lavar a mano es un viaje de ida. Para el depto me resolvió todos los problemas."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `3. Candy CF6C4F1PW — mayor capacidad` },
+      { type: "product-card", productMlaId: "MLA43082935", label: "Mayor capacidad", labelColor: "amber", ranking: 3, description: `16 cubiertos, tecnología Inverter, 3 bandejas. 4.8 estrellas en {{reviews:MLA43082935}} calificaciones.` },
+      { type: "p", content: `La mayor capacidad nominal de esta guía: **16 cubiertos**, con **tecnología Inverter**, 3 bandejas regulables y 8 programas de lavado, a alrededor de {{precio:MLA43082935:k}}. Con {{reviews:MLA43082935}} calificaciones a 4.8 estrellas, tiene muy buen respaldo.` },
+      { type: "p", content: `La contra real y un aviso honesto: con vajilla de platos grandes, más de una reseña confirma que la capacidad efectiva baja de 16 a unos 12 cubiertos, porque hay que acomodarlos distinto.` },
+
+      { type: "h3", title: `4. Whirlpool WLV14SY Sense — la premium` },
+      { type: "product-card", productMlaId: "MLA24527949", label: "La premium", labelColor: "purple", ranking: 4, description: `14 cubiertos, 46 dB declarados. 4.8 estrellas en {{reviews:MLA24527949}} calificaciones.` },
+      { type: "p", content: `La opción premium de esta guía: marca internacional reconocida, **46 dB** de ruido declarados (bastante menos que los 54 dB del Philco PHLJ05 de esta guía; el Drean y la Candy no declaran este dato en su ficha técnica), tecnología Inverter y 8 programas de lavado, a alrededor de {{precio:MLA24527949:k}}.` },
+      { type: "p", content: `La contra real: es, por lejos, la más cara de esta guía. Una reseña muy detallada avisa además que la instalación importa mucho: una manguera de desagote ahorcada por falta de espacio puede cortar el ciclo a la mitad, sin ser una falla del producto.` },
+      { type: "pull-quote", content: `"Es un milagro! Es mi primer lavavajillas. Hay que saber acomodar los platos: si lo haces bien, quedan perfectos, sin pre lavar."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h2", title: `Tabla comparativa: montaje, capacidad y precio`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Montaje`, `Cubiertos`, `Ruido`, `Rating`], rows: [
+        [`[Drean LVDR1506CI0](/producto/lavavajillas-15-cubiertos-inoxidable-drean-lvdr1506ci0-gris-mla47234972)`, `{{precio:MLA47234972}}`, `De pie`, `15`, `—`, `{{rating:MLA47234972}} ({{reviews:MLA47234972}})`],
+        [`[Philco PHLJ05](/producto/lavavajillas-philco-5-cubiertos-phlj05-sobremesada-blanco-mla45721602)`, `{{precio:MLA45721602}}`, `De mesa`, `5`, `54 dB`, `{{rating:MLA45721602}} ({{reviews:MLA45721602}})`],
+        [`[Candy CF6C4F1PW](/producto/lavavajillas-candy-cf6c4f1pw-16-cubiertos-inverter-blanco-mla43082935)`, `{{precio:MLA43082935}}`, `De pie`, `16`, `—`, `{{rating:MLA43082935}} ({{reviews:MLA43082935}})`],
+        [`[Whirlpool WLV14SY](/producto/lavavajillas-14-cubiertos-whirlpool-wlv14sy-sense-plateado-mla24527949)`, `{{precio:MLA24527949}}`, `De pie`, `14`, `46 dB`, `{{rating:MLA24527949}} ({{reviews:MLA24527949}})`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu lavavajillas`, id: "como-elegir" },
+      { type: "h3", title: `¿De mesa o de pie?` },
+      { type: "p", content: `Si tu cocina es chica o vivís en un depto, el [Philco PHLJ05](/producto/lavavajillas-philco-5-cubiertos-phlj05-sobremesada-blanco-mla45721602) de mesa resuelve bien con menos espacio y menos presupuesto. Si tenés lugar y sos varios en casa, un modelo de pie como el [Drean](/producto/lavavajillas-15-cubiertos-inoxidable-drean-lvdr1506ci0-gris-mla47234972), la [Candy](/producto/lavavajillas-candy-cf6c4f1pw-16-cubiertos-inverter-blanco-mla43082935) o el [Whirlpool](/producto/lavavajillas-14-cubiertos-whirlpool-wlv14sy-sense-plateado-mla24527949) de esta guía rinde más.` },
+      { type: "h3", title: `¿La capacidad nominal es la capacidad real?` },
+      { type: "p", content: `No siempre. Varias reseñas de esta categoría confirman que con platos grandes, la capacidad efectiva baja frente a la nominal, porque hay que acomodar las piezas más grandes en otro sentido y ocupan más lugar. Si tu vajilla tiene piezas grandes, conviene sumar un margen a la capacidad que necesitás.` },
+      { type: "h3", title: `¿Vale la pena pagar por silencio?` },
+      { type: "p", content: `Si tu cocina está integrada al living o comedor, sí: el [Whirlpool WLV14SY](/producto/lavavajillas-14-cubiertos-whirlpool-wlv14sy-sense-plateado-mla24527949) declara 46 dB, bastante menos que los 54 dB del [Philco PHLJ05](/producto/lavavajillas-philco-5-cubiertos-phlj05-sobremesada-blanco-mla45721602) de esta guía (el Drean y la Candy no declaran este dato). Si tu cocina está separada, el ruido pesa menos en la decisión.` },
+
+      { type: "h2", title: `Cuánto cuesta un lavavajillas en Argentina [septiembre 2026]`, id: "cuanto-cuesta" },
+      { type: "list", content: "Franjas de precio reales", items: [
+        `**Alrededor de {{precio:MLA45721602:k}}:** el [Philco PHLJ05](/producto/lavavajillas-philco-5-cubiertos-phlj05-sobremesada-blanco-mla45721602), de mesa, el más barato de esta guía.`,
+        `**Alrededor de {{precio:MLA43082935:k}} a {{precio:MLA47234972:k}}:** la [Candy CF6C4F1PW](/producto/lavavajillas-candy-cf6c4f1pw-16-cubiertos-inverter-blanco-mla43082935) (16 cubiertos) y el [Drean LVDR1506CI0](/producto/lavavajillas-15-cubiertos-inoxidable-drean-lvdr1506ci0-gris-mla47234972) (15 cubiertos), los dos de pie.`,
+        `**Alrededor de {{precio:MLA24527949:k}}:** el [Whirlpool WLV14SY](/producto/lavavajillas-14-cubiertos-whirlpool-wlv14sy-sense-plateado-mla24527949), el más caro de esta guía, premium y silencioso.`,
+      ] },
+
+      { type: "verdict", content: `Para la mayoría, el **[Drean LVDR1506CI0](/producto/lavavajillas-15-cubiertos-inoxidable-drean-lvdr1506ci0-gris-mla47234972)** es la compra más segura: 15 cubiertos, acero inoxidable, certificación IRAM y soporte local. Si el precio manda y tenés poco espacio, el **[Philco PHLJ05](/producto/lavavajillas-philco-5-cubiertos-phlj05-sobremesada-blanco-mla45721602)** de mesa es el más barato. Si necesitás la mayor capacidad, la **[Candy CF6C4F1PW](/producto/lavavajillas-candy-cf6c4f1pw-16-cubiertos-inverter-blanco-mla43082935)**, con 16 cubiertos. Y si priorizás silencio y una marca internacional, sabiendo que es la más cara, el **[Whirlpool WLV14SY](/producto/lavavajillas-14-cubiertos-whirlpool-wlv14sy-sense-plateado-mla24527949)**.` },
+    ],
+    faq: [
+      { question: `¿Cuál es el mejor lavavajillas en Argentina?`, answer: `Para la mayoría, el [Drean LVDR1506CI0](/producto/lavavajillas-15-cubiertos-inoxidable-drean-lvdr1506ci0-gris-mla47234972): 15 cubiertos, acero inoxidable y soporte local. Si buscás el más barato, el [Philco PHLJ05](/producto/lavavajillas-philco-5-cubiertos-phlj05-sobremesada-blanco-mla45721602) de mesa.` },
+      { question: `¿Un lavavajillas de mesa sirve para una familia?`, answer: `Para 1-2 personas, sí. Para una familia numerosa, un modelo de pie con más capacidad como el Drean, la Candy o el Whirlpool de esta guía rinde mejor.` },
+      { question: `¿Por qué la capacidad real es menor a la que dice la ficha?`, answer: `Porque la capacidad nominal (ej. "16 cubiertos") se calcula con vajilla de tamaño estándar. Varias reseñas confirman que con platos grandes, hay que acomodarlos en otro sentido y entran menos piezas de las que promete el número.` },
+      { question: `¿Cuánto ruido hace un lavavajillas?`, answer: `Entre 46 y 54 dB en los dos modelos de esta guía que declaran este dato: el [Whirlpool WLV14SY](/producto/lavavajillas-14-cubiertos-whirlpool-wlv14sy-sense-plateado-mla24527949) (46 dB) es notablemente más silencioso que el [Philco PHLJ05](/producto/lavavajillas-philco-5-cubiertos-phlj05-sobremesada-blanco-mla45721602) (54 dB). El Drean y la Candy no publican este dato en su ficha técnica.` },
+      { question: `¿Hay que conectarlo a la cañería del agua?`, answer: `Los modelos de pie de esta guía se conectan directo a la cañería. El [Philco PHLJ05](/producto/lavavajillas-philco-5-cubiertos-phlj05-sobremesada-blanco-mla45721602) de mesa viene con un balde para cargar agua a mano, aunque varios compradores lo conectan directo para mayor comodidad.` },
+      { question: `¿Por qué se corta el ciclo a la mitad en algunas reseñas?`, answer: `Casi siempre por una instalación mal hecha, como una manguera de desagote ahorcada por falta de espacio bajo la mesada, según una reseña detallada del Whirlpool. No suele ser una falla del producto.` },
+    ],
+    internalLinks: [
+      { label: "Batidora: cuál comprar en Argentina", href: "/guias/cocina/batidora" },
+      { label: "Sandwichera: cuál comprar en Argentina", href: "/guias/cocina/sandwichera" },
+      { label: "Anafe eléctrico: cuál comprar en Argentina", href: "/guias/cocina/anafe-electrico" },
+      { label: "Exprimidor: cuál comprar en Argentina", href: "/guias/cocina/exprimidor" },
+    ],
+    internalLinksTitle: "Más para tu cocina",
+  },
 ];
 
 /**
@@ -30880,6 +30995,11 @@ export const guideCategories: Record<string, { name: string; description: string
     name: "Guía de Exprimidores",
     description:
       "Solo cítricos o extractor para frutas y verduras, plástico o acero: cuál conviene según cuánto exprimís. Los más vendidos de MercadoLibre, comparados.",
+  },
+  lavavajillas: {
+    name: "Guía de Lavavajillas",
+    description:
+      "De mesa o de pie, cuánta capacidad real y cuánto ruido hacen: cuál conviene según tu cocina. Los más vendidos de MercadoLibre, comparados.",
   },
   climatizacion: {
     name: "Guías de Climatización",
