@@ -1969,3 +1969,66 @@ grep de frases no cubre.
 local verificado en el navegador. Las 4 imágenes verificadas con GET real (2.390 a 13.028 bytes).
 
 Re-medir: **~2026-10-06** (≈4 semanas), contra baseline cero.
+
+## 2026-09-08 — Guía nueva `balanza-de-cocina` (silo cocina, categoría nueva, 4 fichas nuevas) — segunda de un segundo lote
+
+| Guía | Silo | Categoría | Keyword | Volumen (Ubersuggest AR) | SD | Productos |
+| :-- | :-- | :-- | :-- | --: | --: | --: |
+| `balanza-de-cocina` | cocina | balanza-de-cocina | balanza de cocina | 8.100 | 12 | 4 |
+
+**Baseline: cero.** URL nueva, sin historial en GSC. Segunda guía del segundo lote de ideas validadas
+("MAS IDEAS" → "vos sale para adelante, hacerlo en /loop"), después de `lavavajillas`.
+
+**4 fichas nuevas importadas desde cero**, todas verificadas en vivo en MercadoLibre Argentina: Gadnic
+SF-400 (hasta 10kg, $8.999, 4.7★/**10.457 reseñas** — la base de opiniones más grande de todo lo
+importado en esta sesión, mejor elección general y más barata), Winco W7500 (hasta 5kg con bowl
+incluido, único diferenciador de su rol), Silfab BC305 Steel Slim (3kg, diseño acero inoxidable slim,
+1g de sensibilidad), Gadnic BLZ26 alta precisión (3kg, recargable por USB, pantalla táctil, 4.4★ la nota
+más baja de las 4).
+
+**Hallazgo honesto central: discrepancia real en la propia ficha de MercadoLibre de la Gadnic BLZ26.** La
+descripción de marketing declara "0,1g" de sensibilidad, pero el campo estructurado de su ficha técnica
+dice "500 mg" (0,5g) — ambos datos conviven en la misma publicación, contradiciéndose. No es un error de
+carga (no hay una unidad mal tipeada como en incidentes previos), es una contradicción real entre el copy
+del vendedor y su propio campo de specs. Se documentó explícitamente en la tabla de specs de la ficha (dos
+filas separadas, sin tomar partido por cuál es el dato certificado) y se lo menciona de frente en la guía
+y el FAQ. Las reseñas reales sí confirman buena precisión práctica, así que no se ocultó ni se resolvió
+a favor de ningún valor.
+
+**Desambiguación con `balanza-digital` (silo salud-bienestar, guía preexistente de peso corporal/baño).**
+Mismo patrón ya usado con `batidora`/`licuadora-de-mano` y `aspiradora-de-mano`/`robot-aspiradora`: un
+callout cruzado en ambas guías, cada uno linkeando a la otra con el silo correcto en la ruta.
+
+**2 bugs mecánicos propios, atrapados por los scripts automáticos ANTES de lanzar el trío (no bugs de
+contenido/superlativos, que dieron limpio en el autochequeo por primera vez esta sesión):**
+1. El script de cálculo de slugs generó `...capacidad-maxima-3--mla15488161` (doble guion) para la
+   Silfab BC305, que copié verbatim a 6 lugares de `guides.ts` sin notar el doble guion (existía
+   correctamente, guion simple, solo en el `permalink` de `curated-products.ts`). Atrapado por
+   `check-canonical-product-links.cjs`. Corregido con `sed` acotado a la cadena exacta completa del slug
+   (seguro en este caso puntual porque es una cadena larga y única, no una frase de prosa genérica).
+2. El callout y FAQ nuevos de desambiguación linkeaban a `/guias/balanza-digital` sin el prefijo de silo
+   correcto (`/guias/salud-bienestar/balanza-digital`). Atrapado por `check-guide-internal-links.cjs`.
+   Corregido con `sed` acotado al patrón específico `(/guias/balanza-digital)`.
+
+**Incidente operativo (no de contenido) durante el lanzamiento del trío:** la primera invocación de
+Codex y `agy` se lanzó con `&` dentro de un comando ya ejecutado con `run_in_background: true` del tool
+de Bash — el doble backgrounding hizo que el wrapper del shell terminara casi al instante y el harness
+diera por "completado" el comando exterior, mientras los procesos reales de Codex/`agy` quedaban
+huérfanos y morían sin escribir su archivo de salida (Codex llegó a explorar bastante, según el log, pero
+nunca llegó a volcar el reporte; `agy` salió casi al instante con archivo vacío). Se relanzaron ambos como
+comandos de primer plano dentro de cada llamada `run_in_background: true` (sin `&` interno), lo que sí
+funcionó. **Lección: nunca anteponer `&` a un comando que ya se ejecuta con `run_in_background: true` del
+tool de Bash — el backgrounding lo maneja el tool, no el shell interno.**
+
+**Auditoría del trío: 1 sola ronda, doble GO limpio, sin ediciones de ningún auditor.** El autochequeo de
+superlativos antes de lanzar el trío no encontró ningún hallazgo real (confirmado también por ambos
+auditores de forma independiente): Gadnic SF-400 es la única con reclamos de "más elegida"/"más barata"/
+"base de opiniones más grande", consistente con sus datos reales; las otras 3 tienen ángulos propios sin
+pisarse (bowl, diseño, precisión).
+
+**Verificación:** `npx tsc --noEmit`, los 4 scripts de `guides:check` que no dependen de `affiliateUrl`
+(`check-table-product-links`, `check-canonical-product-links`, `check-guide-internal-links`,
+`check-uncovered-prose-prices`), `node scripts/check-price-guard.cjs` y `npm run build` en verde. Render
+local verificado en el navegador. Las 4 imágenes verificadas con GET real.
+
+Re-medir: **~2026-10-06** (≈4 semanas), contra baseline cero.

@@ -88129,6 +88129,253 @@ Para quien prioriza silencio (46 dB declarados, menos que los 54 dB del Philco P
       { question: "¿Lava bien asaderas grandes?", answer: "Según una reseña, si el agua llega a toda la superficie, sí, aunque las asaderas muy grandes compiten por espacio con el resto de la vajilla en el mismo ciclo." },
     ],
   },
+  {
+    id: "MLA25401949",
+    title: "Balanza Digital De Cocina Gadnic 1gr A 10kg Pro Bascula Gramera Capacidad Máxima 10 kg",
+    canonicalName: "Gadnic SF-400", mpn: "SF-400", brand: "Gadnic",
+    price: 8999, currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_837469-MLA99593265740_122025-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_837469-MLA99593265740_122025-O.webp"],
+    category: "Cocina", categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/balanza-digital-de-cocina-gadnic-1gr-a-10kg-pro-bascula-gramera-capacidad-maxima-10-kg/p/MLA25401949",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new", freeShipping: true, rating: 4.7, reviewCount: 10457,
+    pastelColor: "var(--pastel-blue)",
+    priceUpdated: "2026-09-08", priceLastChecked: "2026-09-08", priceStatus: "fresh", reviewsSampledAt: "2026-09-08",
+    specs: [
+      { label: "Marca", value: "Gadnic" },
+      { label: "Línea", value: "Cuk" },
+      { label: "Modelo", value: "SF-400" },
+      { label: "Capacidad máxima", value: "10 kg" },
+      { label: "Sensibilidad declarada", value: "1 g" },
+      { label: "Alimentación", value: "2 pilas AAA" },
+      { label: "Con función tara", value: "Sí" },
+      { label: "Con apagado automático", value: "Sí" },
+      { label: "Con base antideslizante", value: "Sí" },
+      { label: "Es resistente al agua", value: "No" },
+    ],
+    relatedProducts: ["MLA35221768", "MLA15488161", "MLA35325059"],
+    description: "Balanza digital de cocina Gadnic SF-400, hasta 10kg. La más elegida de esta comparativa, con más de 10.400 calificaciones.",
+    seoTitle: "Gadnic SF-400: la balanza de cocina más elegida, ¿precisa?",
+    metaDescription: "Gadnic SF-400 a {{precio:MLA25401949}}: hasta 10kg y {{reviews:MLA25401949}} calificaciones. La más elegida de esta comparativa.",
+    ogTitle: "Gadnic SF-400: balanza de cocina hasta 10kg, la más elegida",
+    ogDescription: "Función tara, apagado automático, base antideslizante. La más elegida por lejos, con un aviso honesto sobre pesar cantidades muy chicas.",
+    h1: "Gadnic SF-400: balanza de cocina hasta 10kg, la más elegida de esta comparativa",
+    verdict: "La balanza de cocina más elegida de esta comparativa, por lejos: {{reviews:MLA25401949}} calificaciones a 4.7 estrellas, muchas más que cualquier otra opción. Es también la más barata, con capacidad de hasta 10kg. El aviso honesto: una reseña indica que, pese a declarar 1g de sensibilidad, no es precisa para pesar cantidades muy chicas (por debajo de los 100g aproximadamente el margen de error se nota).",
+    pros: [
+      "La más elegida de esta comparativa, con {{reviews:MLA25401949}} calificaciones",
+      "También la más barata de las cuatro",
+      "Capacidad de hasta 10kg, la más alta de esta comparativa",
+      "Función tara, apagado automático y base antideslizante",
+    ],
+    cons: [
+      "Una reseña indica que no es precisa para pesar cantidades muy chicas (menos de 100g aproximadamente)",
+      "No es resistente al agua",
+      "Funciona a pilas, no es recargable como la Gadnic de alta precisión de esta comparativa",
+    ],
+    articleBody: `## La más elegida de esta comparativa, por lejos
+
+La Gadnic SF-400 es la balanza de cocina más elegida de esta comparativa: {{reviews:MLA25401949}} calificaciones a 4.7 estrellas, muchas más que el resto. Cuesta {{precio:MLA25401949}} y tiene capacidad de hasta 10kg, la más alta de esta comparativa.
+
+## Lo honesto sobre la precisión
+
+Declara una sensibilidad de 1 gramo, pero una reseña real avisa que "no sirven para pesar pocos gramos, ya que tiene un margen de error importante", y estima que es confiable recién "de 100 gramos en adelante". Para pesar ingredientes de cocina en cantidades normales (harina, azúcar, carnes) cumple bien; para dosis muy chicas (café de especialidad, suplementos), la Gadnic de alta precisión de esta comparativa rinde mejor.
+
+## Para quién es
+
+Para uso general de cocina: pesar ingredientes para recetas, controlar porciones, pesar paquetes. Si necesitás precisión real en cantidades chicas (menos de 5-10 gramos), la Gadnic de alta precisión (0,1g) de esta comparativa es la opción correcta.`,
+    faq: [
+      { question: "¿Es precisa para pesar pocos gramos?", answer: "No especialmente: una reseña real avisa que el margen de error se nota por debajo de los 100 gramos aproximadamente, pese a declarar 1g de sensibilidad. Para dosis muy chicas, la Gadnic de alta precisión (0,1g) de esta comparativa rinde mejor." },
+      { question: "¿Cuántas calificaciones tiene?", answer: "{{reviews:MLA25401949}} calificaciones a {{rating:MLA25401949}} estrellas, la base de opiniones más grande de esta comparativa por lejos." },
+      { question: "¿Funciona a pilas o es recargable?", answer: "Funciona con 2 pilas AAA, no es recargable por USB como la Gadnic de alta precisión de esta comparativa." },
+      { question: "¿Es resistente al agua?", answer: "No, según la ficha técnica. Evitá mojarla directamente al limpiarla." },
+      { question: "¿Qué capacidad tiene?", answer: "Hasta 10kg, la capacidad más alta de esta comparativa." },
+      { question: "¿Trae garantía?", answer: "La ficha de MercadoLibre no detalla el plazo de garantía de fábrica de este modelo puntual; confirmalo en la publicación antes de comprar." },
+    ],
+  },
+  {
+    id: "MLA35221768",
+    title: "Balanza De Cocina Digital Winco W7500 Hasta 5 Kg Con Bowl Color Gris",
+    canonicalName: "Winco W7500", mpn: "W7500", brand: "Winco",
+    price: 26999, currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_632639-MLA99932445553_112025-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_632639-MLA99932445553_112025-O.webp"],
+    category: "Cocina", categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/balanza-de-cocina-digital-winco-w7500-hasta-5-kg-con-bowl-color-gris/p/MLA35221768",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new", freeShipping: true, rating: 4.7, reviewCount: 72,
+    pastelColor: "var(--pastel-coral)",
+    priceUpdated: "2026-09-08", priceLastChecked: "2026-09-08", priceStatus: "fresh", reviewsSampledAt: "2026-09-08",
+    specs: [
+      { label: "Marca", value: "Winco" },
+      { label: "Modelo", value: "W7500" },
+      { label: "Capacidad máxima", value: "5 kg" },
+      { label: "Sensibilidad declarada", value: "5 g" },
+      { label: "Alimentación", value: "1 pila CR2032 (incluida)" },
+      { label: "Incluye recipiente", value: "Sí, bowl plástico" },
+      { label: "Con función tara", value: "Sí" },
+      { label: "Con apagado automático", value: "Sí" },
+    ],
+    relatedProducts: ["MLA25401949", "MLA15488161", "MLA35325059"],
+    description: "Balanza de cocina digital Winco W7500, hasta 5kg, con bowl incluido. La única de esta comparativa que trae recipiente propio para pesar y mezclar.",
+    seoTitle: "Winco W7500: la balanza de cocina con bowl incluido",
+    metaDescription: "Winco W7500 a {{precio:MLA35221768}}: hasta 5kg, con bowl incluido y {{reviews:MLA35221768}} calificaciones. La única con recipiente propio de esta comparativa.",
+    ogTitle: "Winco W7500: balanza de cocina con bowl, para pesar y mezclar",
+    ogDescription: "5kg de capacidad, bowl incluido, pila de larga duración. La única con recipiente propio de esta comparativa.",
+    h1: "Winco W7500: balanza de cocina con bowl incluido",
+    verdict: "La única de esta comparativa que incluye un bowl propio, útil para pesar y mezclar sin ensuciar otro recipiente. Tiene capacidad de hasta 5kg y sensibilidad declarada de 5g (menos fina que la Gadnic SF-400 o la de alta precisión de esta comparativa). Con {{reviews:MLA35221768}} calificaciones a 4.7 estrellas, tiene buen respaldo aunque acumula bastante menos opiniones que la Gadnic SF-400.",
+    pros: [
+      "Incluye bowl propio, la única de esta comparativa con recipiente incluido",
+      "Función tara y apagado automático",
+      "Pila CR2032 de larga duración incluida",
+      "{{reviews:MLA35221768}} calificaciones a {{rating:MLA35221768}} estrellas",
+    ],
+    cons: [
+      "Sensibilidad declarada de 5g, menos fina que la Gadnic SF-400 (1g) o la Gadnic de alta precisión (0,1g) de esta comparativa",
+      "Muchas menos calificaciones acumuladas que la Gadnic SF-400 de esta comparativa",
+      "Capacidad de 5kg, la mitad que la Gadnic SF-400",
+    ],
+    articleBody: `## La única con bowl incluido de esta comparativa
+
+La Winco W7500 es la única balanza de esta comparativa que incluye un bowl propio, a {{precio:MLA35221768}}. Tiene capacidad de hasta 5kg y sensibilidad declarada de 5g. Con {{reviews:MLA35221768}} calificaciones a 4.7 estrellas, tiene buen respaldo, aunque bastante menos volumen que la Gadnic SF-400 de esta comparativa.
+
+## Para quién es
+
+Para quien quiere pesar y mezclar en el mismo recipiente sin usar otro bowl aparte, útil para masas y preparaciones donde vas agregando ingredientes de a poco con la función tara. Si no te importa usar un bowl propio y preferís más capacidad o más historial de opiniones, la Gadnic SF-400 de esta comparativa cumple a un tercio del precio.`,
+    faq: [
+      { question: "¿Qué material tiene el bowl?", answer: "Plástico. Es el único modelo de esta comparativa que incluye un recipiente propio para pesar directamente." },
+      { question: "¿Qué pila usa?", answer: "Una pila CR2032, tipo botón, que viene incluida y suele durar bastante por el bajo consumo de este tipo de balanzas." },
+      { question: "¿Cuántas calificaciones tiene?", answer: "{{reviews:MLA35221768}} calificaciones a {{rating:MLA35221768}} estrellas." },
+      { question: "¿Es más precisa que la Gadnic SF-400?", answer: "No: declara 5g de sensibilidad contra el 1g de la Gadnic SF-400. Para precisión fina, la Gadnic de alta precisión (0,1g) de esta comparativa es la mejor opción." },
+      { question: "¿Qué capacidad tiene?", answer: "Hasta 5kg, la mitad que la Gadnic SF-400 de esta comparativa." },
+      { question: "¿Trae garantía?", answer: "La ficha de MercadoLibre no detalla el plazo de garantía de fábrica de este modelo puntual; confirmalo en la publicación antes de comprar." },
+    ],
+  },
+  {
+    id: "MLA15488161",
+    title: "Balanza De Cocina Digital Acero Inox Antihuella Silfab Bc305 Capacidad máxima 3 kg Color Gris",
+    canonicalName: "Silfab BC305 Steel Slim", mpn: "BC305", brand: "Silfab",
+    price: 40000, currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_856829-MLA99989949327_112025-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_856829-MLA99989949327_112025-O.webp"],
+    category: "Cocina", categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/balanza-de-cocina-digital-acero-inox-antihuella-silfab-bc305-capacidad-maxima-3-kg-color-gris/p/MLA15488161",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new", freeShipping: true, rating: 4.7, reviewCount: 709,
+    pastelColor: "var(--pastel-amber)",
+    priceUpdated: "2026-09-08", priceLastChecked: "2026-09-08", priceStatus: "fresh", reviewsSampledAt: "2026-09-08",
+    specs: [
+      { label: "Marca", value: "Silfab" },
+      { label: "Línea", value: "Steel Slim" },
+      { label: "Modelo", value: "BC305" },
+      { label: "Capacidad máxima", value: "3 kg" },
+      { label: "Sensibilidad declarada", value: "1 g" },
+      { label: "Alimentación", value: "1 pila botón" },
+      { label: "Con función tara", value: "Sí" },
+      { label: "Diseño", value: "Slim, superficie de acero inoxidable" },
+    ],
+    relatedProducts: ["MLA25401949", "MLA35221768", "MLA35325059"],
+    description: "Balanza de cocina digital Silfab BC305 Steel Slim, diseño delgado con superficie de acero inoxidable. La opción de diseño más cuidado de esta comparativa.",
+    seoTitle: "Silfab BC305 Steel Slim: la balanza de diseño, ¿vale la pena?",
+    metaDescription: "Silfab BC305 a {{precio:MLA15488161}}: diseño slim, acero inoxidable y {{reviews:MLA15488161}} calificaciones. La opción de diseño más cuidado de esta comparativa.",
+    ogTitle: "Silfab BC305 Steel Slim: balanza de cocina de diseño delgado",
+    ogDescription: "Diseño slim y elegante, 1g de sensibilidad. La opción de diseño más cuidado, con un aviso honesto sobre pesar cantidades muy chicas.",
+    h1: "Silfab BC305 Steel Slim: balanza de cocina de diseño, la opción más cuidada de esta comparativa",
+    verdict: "La opción de diseño más cuidado de esta comparativa: superficie de acero inoxidable, perfil delgado (Steel Slim) y 1g de sensibilidad declarada, a {{precio:MLA15488161}}. Con {{reviews:MLA15488161}} calificaciones a 4.7 estrellas, tiene buen respaldo. El aviso honesto de una reseña muy detallada: necesita apoyarse en una superficie bien pareja (los sensores están en las 4 patas) y, como la mayoría de estas balanzas, le cuesta medir con precisión cantidades de 1 a 3 gramos.",
+    pros: [
+      "Diseño delgado y prolijo, con superficie de acero inoxidable",
+      "{{reviews:MLA15488161}} calificaciones a {{rating:MLA15488161}} estrellas",
+      "Fácil de limpiar, según reseñas",
+      "Botón de tara diseñado para no alterar la medición al soltarlo",
+    ],
+    cons: [
+      "Necesita una superficie de apoyo bien pareja: los sensores de peso están en las 4 patas",
+      "Le cuesta medir con precisión cantidades muy chicas (1 a 3 gramos), según una reseña detallada",
+      "Capacidad de 3kg, la más chica junto a la Gadnic de alta precisión de esta comparativa",
+    ],
+    articleBody: `## La opción de diseño más cuidado de esta comparativa
+
+La Silfab BC305 Steel Slim tiene un diseño delgado con superficie de acero inoxidable, 1g de sensibilidad declarada y capacidad de 3kg, a {{precio:MLA15488161}}. Con {{reviews:MLA15488161}} calificaciones a 4.7 estrellas, tiene buen respaldo.
+
+## Lo que dice una reseña muy detallada
+
+Un comprador la probó a fondo: "tiene los sensores de peso en las 4 patas de apoyo, por lo que debe estar en una superficie lo más homogénea posible". Sobre precisión: "le cuesta medir porciones muy pequeñas de 1 o 2 gramos", pero "un scoop de 30 o 40 gramos de proteína, lo mide perfecto". También destaca que el botón de tara está bien pensado: al tocarlo se desestabiliza momentáneamente (por los sensores en las patas), pero aplica la tara recién cuando soltás el dedo, así no se altera la medición.
+
+## Para quién es
+
+Para quien valora el diseño y quiere una balanza prolija para dejar a la vista en la mesada, con buena precisión para porciones normales de cocina. Para dosis muy chicas de precisión (café, suplementos en polvo), la Gadnic de alta precisión de esta comparativa rinde mejor.`,
+    faq: [
+      { question: "¿Es precisa para pesar cantidades muy chicas?", answer: "Una reseña muy detallada confirma que le cuesta medir con precisión 1 a 2 gramos, aunque para cantidades de 30-40 gramos en adelante mide perfecto. Para dosis muy chicas, la Gadnic de alta precisión (0,1g) de esta comparativa es mejor opción." },
+      { question: "¿Necesita una superficie especial?", answer: "Sí, una reseña detallada avisa que los sensores de peso están en las 4 patas de apoyo, así que necesita una superficie lo más pareja posible para medir bien." },
+      { question: "¿Cuántas calificaciones tiene?", answer: "{{reviews:MLA15488161}} calificaciones a {{rating:MLA15488161}} estrellas." },
+      { question: "¿El botón de tara funciona bien?", answer: "Sí, según una reseña detallada está bien diseñado: aunque tocarlo desestabiliza momentáneamente la balanza, aplica la tara recién al soltar el dedo, evitando que se altere la medición." },
+      { question: "¿Qué capacidad tiene?", answer: "Hasta 3kg, la misma que la Gadnic de alta precisión de esta comparativa, pero menos que la Gadnic SF-400 (10kg) o la Winco (5kg)." },
+      { question: "¿Trae garantía?", answer: "La ficha de MercadoLibre no detalla el plazo de garantía de fábrica de este modelo puntual; confirmalo en la publicación antes de comprar." },
+    ],
+  },
+  {
+    id: "MLA35325059",
+    title: "Balanza De Cocina Gadnic De Alta Precisión 0,1g Capacidad Máxima 3000 g Pantalla Digital Táctil Carga USB",
+    canonicalName: "Gadnic BLZ26", mpn: "BLZ26", brand: "Gadnic",
+    price: 42099, currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_784439-MLA112462302572_062026-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_784439-MLA112462302572_062026-O.webp"],
+    category: "Cocina", categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/balanza-de-cocina-gadnic-de-alta-precision-01g-capacidad-maxima-3000-g-pantalla-digital-tactil-carga-usb/p/MLA35325059",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new", freeShipping: true, rating: 4.4, reviewCount: 713,
+    pastelColor: "var(--pastel-purple)",
+    priceUpdated: "2026-09-08", priceLastChecked: "2026-09-08", priceStatus: "fresh", reviewsSampledAt: "2026-09-08",
+    specs: [
+      { label: "Marca", value: "Gadnic" },
+      { label: "Modelo", value: "BLZ26" },
+      { label: "Capacidad máxima", value: "3 kg" },
+      { label: "Sensibilidad declarada en la descripción", value: "0,1 g" },
+      { label: "Sensibilidad en ficha técnica estructurada", value: "500 mg (0,5 g)" },
+      { label: "Alimentación", value: "USB (recargable)" },
+      { label: "Con comando táctil", value: "Sí" },
+      { label: "Con función tara", value: "Sí" },
+    ],
+    relatedProducts: ["MLA25401949", "MLA35221768", "MLA15488161"],
+    description: "Balanza de cocina Gadnic de alta precisión, recargable por USB, pantalla táctil. La opción de mayor precisión de esta comparativa, para café de especialidad o repostería.",
+    seoTitle: "Gadnic alta precisión: la balanza para café y repostería",
+    metaDescription: "Gadnic BLZ26 a {{precio:MLA35325059}}: alta precisión, recargable por USB y {{reviews:MLA35325059}} calificaciones. La opción de mayor precisión de esta comparativa.",
+    ogTitle: "Gadnic alta precisión: balanza recargable con pantalla táctil",
+    ogDescription: "Recargable por USB, pantalla táctil, pensada para café y repostería. Un dato honesto: la publicación y la ficha técnica no coinciden del todo en la sensibilidad declarada.",
+    h1: "Gadnic de alta precisión: la balanza de mayor precisión de esta comparativa",
+    verdict: "La opción de mayor precisión de esta comparativa: recargable por USB, pantalla táctil y pensada para café de especialidad o repostería que exige medir en gramos chicos. Un dato honesto: la publicación y la descripción declaran 0,1g de sensibilidad, pero el campo estructurado de la ficha técnica de MercadoLibre indica 500mg (0,5g); las reseñas reales confirman que mide con mucha precisión en la práctica. Con {{reviews:MLA35325059}} calificaciones a 4.4 estrellas (la nota más baja de esta comparativa), tiene un defecto menor reportado: el pitido de los botones es muy fuerte.",
+    pros: [
+      "Recargable por USB, no depende de pilas como el resto de esta comparativa",
+      "Pantalla táctil y buena precisión confirmada por reseñas reales",
+      "Buena duración de batería: reseñas reportan hasta una semana de uso diario",
+      "Pensada para café de especialidad, repostería y jabonería artesanal",
+    ],
+    cons: [
+      "La publicación declara 0,1g de sensibilidad, pero la ficha técnica estructurada de MercadoLibre indica 500mg (0,5g); confirmalo si necesitás precisión certificada",
+      "El pitido de los botones es muy fuerte, según varias reseñas (aunque se puede silenciar desde el menú)",
+      "4.4 estrellas, la calificación más baja de esta comparativa",
+      "El sistema táctil no es tan cómodo como un botón físico, según una reseña",
+    ],
+    articleBody: `## La opción de mayor precisión de esta comparativa
+
+La Gadnic de alta precisión es recargable por USB, con pantalla táctil, a {{precio:MLA35325059}}. Está pensada para usos que exigen medir en gramos chicos: café de especialidad, repostería fina, jabonería artesanal. Un dato honesto antes de comprar: la publicación y su descripción declaran 0,1g de sensibilidad, pero el campo estructurado de la ficha técnica de MercadoLibre indica 500mg (0,5g). No podemos confirmar cuál de los dos es el dato certificado real.
+
+## Lo que dicen los compradores reales
+
+Las reseñas confirman buena precisión en la práctica: "mide perfecto y con mucha precisión", dice una con 48 votos útiles. Otra, que la usa para fabricar jabones artesanales, destaca "muy bajo rango de error y alta sensibilidad" tanto en cantidades chicas como grandes. El punto de queja más repetido: el pitido de los botones es muy fuerte (aunque se puede silenciar desde el menú, según una reseña). Sobre la batería: dura alrededor de una semana con uso diario intensivo.
+
+## Para quién es
+
+Para quien pesa dosis chicas con frecuencia: café de filtro o espresso, repostería de precisión, ingredientes de jabonería o cosmética artesanal. Para uso general de cocina (harina, azúcar, carnes), la Gadnic SF-400 de esta comparativa cumple bien y sale bastante menos.`,
+    faq: [
+      { question: "¿Es realmente de 0,1g de precisión?", answer: "La publicación y su descripción lo declaran así, pero la ficha técnica estructurada de MercadoLibre indica 500mg (0,5g) de sensibilidad. No se puede confirmar cuál es el dato certificado real; las reseñas sí confirman buena precisión en el uso práctico." },
+      { question: "¿Por qué pita tan fuerte?", answer: "Es un defecto reportado por varias reseñas: el volumen del pitido al presionar botones es alto. Según una reseña, se puede regular o silenciar desde el menú de configuración." },
+      { question: "¿Cuánto dura la batería?", answer: "Reseñas reales reportan hasta una semana de uso diario intensivo con una sola carga por USB." },
+      { question: "¿Sirve para café de especialidad?", answer: "Sí, es el uso para el que está pensada: la precisión declarada y confirmada por reseñas la hace apta para dosis de café molido, repostería fina y jabonería artesanal." },
+      { question: "¿Cuántas calificaciones tiene?", answer: "{{reviews:MLA35325059}} calificaciones a {{rating:MLA35325059}} estrellas, la nota más baja de esta comparativa (aunque sigue siendo una calificación buena)." },
+      { question: "¿Trae garantía?", answer: "La ficha de MercadoLibre no detalla el plazo de garantía de fábrica de este modelo puntual; confirmalo en la publicación antes de comprar." },
+    ],
+  },
 ];
 
 export const categoryPastels: Record<string, string> = {

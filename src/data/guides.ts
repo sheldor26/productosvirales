@@ -5346,6 +5346,8 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
 
       { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Si solo querés saber tu peso, la **[Femmto BWS11](/producto/balanza-digital-con-bluetooth-personal-de-bano-peso-corporal-180-kg-diseno-minim-mla15503957)** es la más vendida y la más barata. Si además querés **grasa corporal, IMC y una app**, la **[Utile UT-1108](/producto/balanza-de-bano-personal-inteligente-bluetooth-200-kg-utile-azul-mla65535495)** llega a 200 kg y da el análisis más completo. Y si no querés depender nunca de pilas, la **[Noga NG-B01](/producto/balanza-digital-smart-fitness-med-corp-app-recargable-noga-blanco-mla60038492)** se recarga por USB.` },
 
+      { type: "callout", calloutVariant: "note", calloutTitle: "¿Buscás pesar ingredientes, no pesarte a vos?", content: `Esta guía es sobre balanzas de baño, para peso corporal. Si buscás una balanza para pesar harina, carnes u otros ingredientes de cocina, mirá la [guía de balanza de cocina](/guias/cocina/balanza-de-cocina): son productos y usos distintos.` },
+
       { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos las balanzas digitales con más ventas y opiniones reales en MercadoLibre Argentina. Las ordenamos por lo que define la compra: si **solo pesan** o suman **grasa corporal e IMC**, si sincronizan con una **app**, la precisión según las reseñas y el precio. Las calificaciones son de compradores reales. Los precios que ves en las fichas y tablas se revisan contra MercadoLibre tres veces por semana.` },
 
       { type: "h2", title: `Qué mirar antes de comprar una balanza digital`, id: "que-mirar" },
@@ -30642,6 +30644,122 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     ],
     internalLinksTitle: "Más para tu cocina",
   },
+
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva balanza-de-cocina — silo cocina, categoría nueva
+  // Origen: research propio 2026-09-08. Keyword "balanza de cocina"
+  // 8.100/mes, SD 12. Sin canibalización: la guía existente
+  // "balanza-digital" es de baño/peso corporal (silo salud-bienestar),
+  // categoría completamente distinta.
+  // 4 fichas nuevas importadas el mismo día (ver curated-products.ts).
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "balanza-de-cocina",
+    category: "balanza-de-cocina",
+    silo: "cocina",
+    pillar: true,
+    title: `Balanza de Cocina: cuál comprar en Argentina [2026]`,
+    seoTitle: `Balanza de Cocina: Cuál Comprar en Argentina | 2026`,
+    metaDescription: `Descubrí qué balanza de cocina comprar en Argentina: la más elegida, con bowl incluido o de alta precisión. Precios reales de MercadoLibre y contras honestas.`,
+    ogTitle: `Balanza de cocina: cuál comprar en Argentina`,
+    ogDescription: `Gadnic, Winco y Silfab comparadas: hasta 10kg o de alta precisión para café y repostería. Precios reales de MercadoLibre y las contras que nadie cuenta.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_837469-MLA99593265740_122025-O.webp`,
+    h1: `Balanza de cocina: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene la **[Gadnic SF-400](/producto/balanza-digital-de-cocina-gadnic-1gr-a-10kg-pro-bascula-gramera-capacidad-maxima-mla25401949)** (alrededor de {{precio:MLA25401949:k}}): hasta 10kg, la más barata y por lejos la más elegida. Si querés pesar y mezclar en el mismo recipiente, la **[Winco W7500](/producto/balanza-de-cocina-digital-winco-w7500-hasta-5-kg-con-bowl-color-gris-mla35221768)**, con bowl incluido. Si priorizás el diseño, la **[Silfab BC305 Steel Slim](/producto/balanza-de-cocina-digital-acero-inox-antihuella-silfab-bc305-capacidad-maxima-3-mla15488161)**. Y si necesitás precisión real para café o repostería, la **[Gadnic de alta precisión](/producto/balanza-de-cocina-gadnic-de-alta-precision-0-1g-capacidad-maxima-3000-g-pantalla-mla35325059)**, recargable por USB.`,
+    publishedDate: "2026-09-08",
+    updatedDate: "2026-09-08",
+    hasDisclosure: true,
+    readingTime: 8,
+    standfirst: `Una balanza de cocina va de {{precio:MLA25401949:k}} (la más elegida) a {{precio:MLA35325059:k}} (la de alta precisión, recargable). La decisión real pasa por cuánta precisión necesitás y si querés un recipiente incluido, no solo por precio. Te mostramos cuál conviene, con precios reales de MercadoLibre.`,
+    quickPicks: [
+      { productMlaId: "MLA25401949", label: "Mejor elección general", labelColor: "green", tagline: "Gadnic SF-400: hasta 10kg, la más elegida y más barata" },
+      { productMlaId: "MLA35221768", label: "Con bowl incluido", labelColor: "slate", tagline: "Winco W7500: pesá y mezclá en el mismo recipiente" },
+      { productMlaId: "MLA15488161", label: "Diseño premium", labelColor: "amber", tagline: "Silfab BC305: acero inoxidable, perfil delgado" },
+      { productMlaId: "MLA35325059", label: "Alta precisión", labelColor: "purple", tagline: "Gadnic de alta precisión: recargable, para café y repostería" },
+    ],
+    intro: [
+      `La balanza de cocina resuelve algo simple pero clave para cocinar bien: medir por peso, no por "ojo" o por taza. La decisión real pasa por cuánta precisión necesitás (no es lo mismo pesar harina que dosificar café de especialidad) y si te sirve un recipiente incluido, no solo por el precio.`,
+      `En esta guía comparamos las balanzas de cocina más vendidas y mejor calificadas de MercadoLibre Argentina, con las contras reales que cuentan los compradores: desde el límite real de precisión en cantidades muy chicas hasta una discrepancia honesta entre lo que declara una publicación y su propia ficha técnica.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_837469-MLA99593265740_122025-O.webp", alt: `Balanza de cocina digital Gadnic SF-400, la más elegida de esta guía`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, la **[Gadnic SF-400](/producto/balanza-digital-de-cocina-gadnic-1gr-a-10kg-pro-bascula-gramera-capacidad-maxima-mla25401949)**: hasta 10kg, la más barata y la más elegida por lejos. Si querés **pesar y mezclar en el mismo recipiente**, la **[Winco W7500](/producto/balanza-de-cocina-digital-winco-w7500-hasta-5-kg-con-bowl-color-gris-mla35221768)**, con bowl incluido. Si priorizás **el diseño**, la **[Silfab BC305](/producto/balanza-de-cocina-digital-acero-inox-antihuella-silfab-bc305-capacidad-maxima-3-mla15488161)**, de acero y perfil delgado. Y para **precisión real en café o repostería**, la **[Gadnic de alta precisión](/producto/balanza-de-cocina-gadnic-de-alta-precision-0-1g-capacidad-maxima-3000-g-pantalla-mla35325059)**, recargable por USB.` },
+
+      { type: "callout", calloutVariant: "note", calloutTitle: "¿Buscás pesarte a vos, no a los ingredientes?", content: `Esta guía es sobre balanzas de cocina, para pesar ingredientes y alimentos. Si buscás una balanza de baño para pesarte a vos, mirá la [guía de balanza digital](/guias/salud-bienestar/balanza-digital): son productos y usos distintos.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos las balanzas de cocina con más ventas y opiniones reales en MercadoLibre Argentina. Las ordenamos por lo que define la compra: capacidad máxima, precisión real (no solo la declarada), si incluyen recipiente y precio. Las calificaciones y las contras son de compradores reales. Los precios que ves en las fichas y tablas se revisan contra MercadoLibre periódicamente.` },
+
+      { type: "h2", title: `Qué mirar antes de comprar una balanza de cocina`, id: "que-mirar" },
+      { type: "p", content: `Primero, **la precisión real, no solo la declarada**: varias reseñas de esta categoría confirman que balanzas de 1g de sensibilidad nominal pierden exactitud con cantidades por debajo de los 100g. Si necesitás precisión de verdad en dosis chicas (café, suplementos, repostería fina), conviene una de alta precisión (0,1g). Segundo, **si incluye recipiente**: algunas traen bowl propio para pesar y mezclar sin ensuciar otro utensilio. Tercero, **la alimentación**: la mayoría funciona a pilas; solo algunas son recargables por USB.` },
+      { type: "p", content: `Un detalle honesto de la categoría: en más de una publicación, la descripción de marketing declara una sensibilidad más fina que la que figura en el campo estructurado de la ficha técnica de MercadoLibre. Conviene mirar ambos datos, y confiar más en las reseñas reales sobre precisión que en cualquiera de los dos.` },
+
+      { type: "h2", title: `Las mejores balanzas de cocina 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Gadnic SF-400 — mejor elección general` },
+      { type: "product-card", productMlaId: "MLA25401949", label: "Mejor elección general", labelColor: "green", ranking: 1, description: `Hasta 10kg, función tara y apagado automático. 4.7 estrellas en {{reviews:MLA25401949}} calificaciones, la base más grande de esta guía por lejos.` },
+      { type: "p", content: `Es la balanza que recomendamos a la mayoría: capacidad de hasta **10kg**, función tara y apagado automático, a alrededor de {{precio:MLA25401949:k}}. Con {{reviews:MLA25401949}} calificaciones a 4.7 estrellas, es por lejos la más elegida de esta guía, y también la más barata.` },
+      { type: "p", content: `La contra real: una reseña avisa que, pese a declarar 1g de sensibilidad, no es precisa para pesar cantidades muy chicas (por debajo de los 100g aproximadamente el margen de error se nota).` },
+      { type: "pull-quote", content: `"Lo único que aclararía es que este tipo de balanzas no sirven para pesar pocos gramos, ya que tiene un margen de error importante. Diría que es de 100 grs en adelante."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `2. Winco W7500 — con bowl incluido` },
+      { type: "product-card", productMlaId: "MLA35221768", label: "Con bowl incluido", labelColor: "slate", ranking: 2, description: `Hasta 5kg, con bowl propio para pesar y mezclar. 4.7 estrellas en {{reviews:MLA35221768}} calificaciones.` },
+      { type: "p", content: `La única de esta guía que trae un **bowl incluido**, útil para pesar y mezclar sin usar otro recipiente aparte, a alrededor de {{precio:MLA35221768:k}}. Capacidad de hasta 5kg y sensibilidad declarada de 5g.` },
+      { type: "p", content: `La contra real: acumula muchas menos calificaciones que la Gadnic SF-400, y su sensibilidad declarada (5g) es menos fina que la de las otras tres opciones de esta guía.` },
+
+      { type: "h3", title: `3. Silfab BC305 Steel Slim — diseño premium` },
+      { type: "product-card", productMlaId: "MLA15488161", label: "Diseño premium", labelColor: "amber", ranking: 3, description: `Diseño delgado con superficie de acero inoxidable. 4.7 estrellas en {{reviews:MLA15488161}} calificaciones.` },
+      { type: "p", content: `La opción de diseño más cuidado de esta guía: perfil delgado, superficie de **acero inoxidable** y 1g de sensibilidad declarada, a alrededor de {{precio:MLA15488161:k}}. Con {{reviews:MLA15488161}} calificaciones a 4.7 estrellas, tiene buen respaldo.` },
+      { type: "p", content: `La contra real: una reseña muy detallada avisa que necesita una superficie de apoyo bien pareja (los sensores están en las 4 patas) y que, como la mayoría de estas balanzas, le cuesta precisar cantidades de 1 a 3 gramos.` },
+      { type: "pull-quote", content: `"Tiene los sensores de peso en las 4 patas de apoyo, por lo que debe estar en una superficie lo más homogénea posible. En cuanto a la precisión, es buena, pero le cuesta medir porciones muy pequeñas."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `4. Gadnic de alta precisión — para café y repostería` },
+      { type: "product-card", productMlaId: "MLA35325059", label: "Alta precisión", labelColor: "purple", ranking: 4, description: `Recargable por USB, pantalla táctil. 4.4 estrellas en {{reviews:MLA35325059}} calificaciones.` },
+      { type: "p", content: `La opción de mayor precisión de esta guía, pensada para café de especialidad, repostería fina o jabonería artesanal: recargable por **USB**, con pantalla táctil, a alrededor de {{precio:MLA35325059:k}}.` },
+      { type: "p", content: `La contra real y un dato honesto: la publicación declara 0,1g de sensibilidad, pero la ficha técnica estructurada de MercadoLibre indica 500mg (0,5g); no se puede confirmar cuál es el dato certificado real. Además, varias reseñas se quejan de que el pitido de los botones es muy fuerte.` },
+      { type: "pull-quote", content: `"Espectacular que se cargue con USB-C, mide perfecto y con mucha precisión. Lo único malo, cada vez que pulsás los botones hace un pitido con un volumen altísimo."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h2", title: `Tabla comparativa: capacidad, precisión y precio`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Capacidad`, `Sensibilidad declarada`, `Alimentación`, `Rating`], rows: [
+        [`[Gadnic SF-400](/producto/balanza-digital-de-cocina-gadnic-1gr-a-10kg-pro-bascula-gramera-capacidad-maxima-mla25401949)`, `{{precio:MLA25401949}}`, `10 kg`, `1 g`, `Pilas AAA`, `{{rating:MLA25401949}} ({{reviews:MLA25401949}})`],
+        [`[Winco W7500](/producto/balanza-de-cocina-digital-winco-w7500-hasta-5-kg-con-bowl-color-gris-mla35221768)`, `{{precio:MLA35221768}}`, `5 kg`, `5 g`, `Pila CR2032`, `{{rating:MLA35221768}} ({{reviews:MLA35221768}})`],
+        [`[Silfab BC305](/producto/balanza-de-cocina-digital-acero-inox-antihuella-silfab-bc305-capacidad-maxima-3-mla15488161)`, `{{precio:MLA15488161}}`, `3 kg`, `1 g`, `Pila botón`, `{{rating:MLA15488161}} ({{reviews:MLA15488161}})`],
+        [`[Gadnic alta precisión](/producto/balanza-de-cocina-gadnic-de-alta-precision-0-1g-capacidad-maxima-3000-g-pantalla-mla35325059)`, `{{precio:MLA35325059}}`, `3 kg`, `0,1 g (declarado)`, `USB recargable`, `{{rating:MLA35325059}} ({{reviews:MLA35325059}})`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu balanza de cocina`, id: "como-elegir" },
+      { type: "h3", title: `¿Qué precisión necesitás de verdad?` },
+      { type: "p", content: `Para pesar ingredientes normales de cocina (harina, azúcar, carnes), la [Gadnic SF-400](/producto/balanza-digital-de-cocina-gadnic-1gr-a-10kg-pro-bascula-gramera-capacidad-maxima-mla25401949) alcanza de sobra. Si necesitás precisión real en dosis chicas (café, suplementos, repostería fina), la [Gadnic de alta precisión](/producto/balanza-de-cocina-gadnic-de-alta-precision-0-1g-capacidad-maxima-3000-g-pantalla-mla35325059) de esta guía es la opción correcta, aunque cuesta bastante más.` },
+      { type: "h3", title: `¿Te sirve un recipiente incluido?` },
+      { type: "p", content: `La [Winco W7500](/producto/balanza-de-cocina-digital-winco-w7500-hasta-5-kg-con-bowl-color-gris-mla35221768) es la única de esta guía con bowl propio, útil para pesar y mezclar en el mismo recipiente. El resto se usa apoyando el ingrediente directo sobre la plataforma o en un recipiente aparte.` },
+      { type: "h3", title: `¿Vale la pena pagar por diseño?` },
+      { type: "p", content: `Si vas a dejarla a la vista en la mesada, la [Silfab BC305](/producto/balanza-de-cocina-digital-acero-inox-antihuella-silfab-bc305-capacidad-maxima-3-mla15488161) tiene un perfil más prolijo que las otras opciones de esta guía. Funcionalmente, no rinde mejor que la Gadnic SF-400, así que la diferencia es puramente estética.` },
+
+      { type: "h2", title: `Cuánto cuesta una balanza de cocina en Argentina [septiembre 2026]`, id: "cuanto-cuesta" },
+      { type: "list", content: "Franjas de precio reales", items: [
+        `**Alrededor de {{precio:MLA25401949:k}}:** la [Gadnic SF-400](/producto/balanza-digital-de-cocina-gadnic-1gr-a-10kg-pro-bascula-gramera-capacidad-maxima-mla25401949), la más elegida y más barata de esta guía.`,
+        `**Alrededor de {{precio:MLA35221768:k}} a {{precio:MLA15488161:k}}:** la [Winco W7500](/producto/balanza-de-cocina-digital-winco-w7500-hasta-5-kg-con-bowl-color-gris-mla35221768) (con bowl) y la [Silfab BC305](/producto/balanza-de-cocina-digital-acero-inox-antihuella-silfab-bc305-capacidad-maxima-3-mla15488161) (diseño).`,
+        `**Alrededor de {{precio:MLA35325059:k}}:** la [Gadnic de alta precisión](/producto/balanza-de-cocina-gadnic-de-alta-precision-0-1g-capacidad-maxima-3000-g-pantalla-mla35325059), la más cara de esta guía, recargable por USB.`,
+      ] },
+
+      { type: "verdict", content: `Para la mayoría, la **[Gadnic SF-400](/producto/balanza-digital-de-cocina-gadnic-1gr-a-10kg-pro-bascula-gramera-capacidad-maxima-mla25401949)** es la compra más segura: hasta 10kg, la más barata y por lejos la más elegida de esta guía. Si querés pesar y mezclar en el mismo recipiente, la **[Winco W7500](/producto/balanza-de-cocina-digital-winco-w7500-hasta-5-kg-con-bowl-color-gris-mla35221768)**, con bowl incluido. Si priorizás el diseño, la **[Silfab BC305](/producto/balanza-de-cocina-digital-acero-inox-antihuella-silfab-bc305-capacidad-maxima-3-mla15488161)**. Y si necesitás precisión real para café o repostería, sabiendo que es la más cara, la **[Gadnic de alta precisión](/producto/balanza-de-cocina-gadnic-de-alta-precision-0-1g-capacidad-maxima-3000-g-pantalla-mla35325059)**.` },
+    ],
+    faq: [
+      { question: `¿Cuál es la mejor balanza de cocina en Argentina?`, answer: `Para la mayoría, la [Gadnic SF-400](/producto/balanza-digital-de-cocina-gadnic-1gr-a-10kg-pro-bascula-gramera-capacidad-maxima-mla25401949): hasta 10kg, la más barata y por lejos la más elegida. Si necesitás precisión real para café o repostería, la [Gadnic de alta precisión](/producto/balanza-de-cocina-gadnic-de-alta-precision-0-1g-capacidad-maxima-3000-g-pantalla-mla35325059).` },
+      { question: `¿Las balanzas de cocina son precisas para pesar pocos gramos?`, answer: `Las de sensibilidad estándar (1g o más) suelen perder exactitud por debajo de los 100g, según confirman varias reseñas. Para dosis chicas de verdad, conviene una de alta precisión como la Gadnic de esta guía (0,1g declarado).` },
+      { question: `¿Es lo mismo una balanza de cocina que una balanza digital de baño?`, answer: `No. La balanza de cocina pesa ingredientes y alimentos; la balanza digital de baño te pesa a vos. Son productos distintos: mirá la [guía de balanza digital](/guias/salud-bienestar/balanza-digital) si buscás la de baño.` },
+      { question: `¿Por qué una balanza declara una precisión distinta en la descripción y en la ficha técnica?`, answer: `Pasa en más de una publicación de esta categoría: la descripción de marketing puede declarar una cifra más optimista que el campo estructurado de la ficha técnica de MercadoLibre. Conviene mirar ambos datos y confiar en las reseñas reales de compradores sobre la precisión.` },
+      { question: `¿Vale la pena una balanza con bowl incluido?`, answer: `Si vas a pesar y mezclar en el mismo recipiente (masas, batidos), sí: te ahorra un paso. La [Winco W7500](/producto/balanza-de-cocina-digital-winco-w7500-hasta-5-kg-con-bowl-color-gris-mla35221768) de esta guía es la única con esa función.` },
+      { question: `¿Cuánto dura la batería de una balanza recargable?`, answer: `Según reseñas de la [Gadnic de alta precisión](/producto/balanza-de-cocina-gadnic-de-alta-precision-0-1g-capacidad-maxima-3000-g-pantalla-mla35325059) de esta guía, alrededor de una semana con uso diario intensivo por carga USB.` },
+    ],
+    internalLinks: [
+      { label: "Batidora: cuál comprar en Argentina", href: "/guias/cocina/batidora" },
+      { label: "Sandwichera: cuál comprar en Argentina", href: "/guias/cocina/sandwichera" },
+      { label: "Lavavajillas: cuál comprar en Argentina", href: "/guias/cocina/lavavajillas" },
+      { label: "Exprimidor: cuál comprar en Argentina", href: "/guias/cocina/exprimidor" },
+    ],
+    internalLinksTitle: "Más para tu cocina",
+  },
 ];
 
 /**
@@ -31000,6 +31118,11 @@ export const guideCategories: Record<string, { name: string; description: string
     name: "Guía de Lavavajillas",
     description:
       "De mesa o de pie, cuánta capacidad real y cuánto ruido hacen: cuál conviene según tu cocina. Los más vendidos de MercadoLibre, comparados.",
+  },
+  "balanza-de-cocina": {
+    name: "Guía de Balanza de Cocina",
+    description:
+      "Para pesar ingredientes, no para pesarte a vos: cuánta precisión real necesitás y si te sirve un bowl incluido. Las más vendidas de MercadoLibre, comparadas.",
   },
   climatizacion: {
     name: "Guías de Climatización",
