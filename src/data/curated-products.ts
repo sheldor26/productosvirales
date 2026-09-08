@@ -89424,7 +89424,7 @@ Para quien ya decidió esta marca en particular, o quiere aprovecharlo también 
     images: ["https://http2.mlstatic.com/D_NQ_NP_899402-MLA110590694361_042026-O.webp"],
     category: "Cocina", categorySlug: "cocina",
     permalink: "https://www.mercadolibre.com.ar/arrocera-electrica-500w-vaporera-ditron-olla-teflonada-1-lit-blanco-50-hz-60-hz/p/MLA68281066",
-    affiliateUrl: "PEGAR_MELI_LA",
+    affiliateUrl: "https://meli.la/1vVF9Ee",
     condition: "new", freeShipping: true, rating: 4.8, reviewCount: 118,
     pastelColor: "var(--pastel-blue)",
     priceUpdated: "2026-09-08", priceLastChecked: "2026-09-08", priceStatus: "fresh", reviewsSampledAt: "2026-09-08",
