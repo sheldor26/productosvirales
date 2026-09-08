@@ -1970,6 +1970,58 @@ local verificado en el navegador. Las 4 imágenes verificadas con GET real (2.39
 
 Re-medir: **~2026-10-06** (≈4 semanas), contra baseline cero.
 
+## 2026-09-08 — Guía nueva `picadora-de-carne` (silo cocina, categoría nueva, 4 fichas nuevas) — tercera de un segundo lote
+
+| Guía | Silo | Categoría | Keyword | Volumen (Ubersuggest AR) | SD | Productos |
+| :-- | :-- | :-- | :-- | --: | --: | --: |
+| `picadora-de-carne` | cocina | picadora-de-carne | picadora de carne | 6.600 | 9 | 4 |
+
+**Baseline: cero.** URL nueva, sin historial en GSC. Tercera guía del segundo lote. Antes de escribir, se
+re-grepeó todo el sitio por "picadora": las únicas menciones previas eran como accesorio de licuadoras de
+mano y multiprocesadoras (Peabody PE-LMA327B, Ultracomb PC-6800), nunca como categoría propia de picadora
+de carne dedicada — sin canibalización real.
+
+**4 fichas nuevas importadas desde cero**, todas verificadas en vivo en MercadoLibre Argentina: Turboblender
+TB-PM1000 (1000W, $87.000, 4.7★/**3.262 reseñas** — la base más grande de las cuatro, más elegida y más
+barata), Gadnic P90 (400W, $96.087, 4.7★/2.243 reseñas, 2,65kg, la más compacta y liviana, motor
+reversible), Serie Dorada SD-8800 (1500W, $119.236 con 31% OFF sobre lista, 4.7★/83 reseñas, potencia
+media), Serie Dorada SD-9000 (1800W, $123.902, 4.8★/111 reseñas — la nota más alta de las cuatro, la más
+potente).
+
+**Nota operativa: sourcing hecho en el Chrome real de Juan (`claude-in-chrome`), no en el navegador
+interno.** El navegador interno de Claude redirige `/p/MLA...` de MercadoLibre a la home (bloqueo de bot
+ya documentado en la memoria del proyecto), así que esta guía usó Chrome real para toda la navegación de
+producto. Las búsquedas de listado (`site:mercadolibre.com.ar`) sí funcionaron bien en el navegador interno
+vía Google, solo la navegación directa a fichas de producto necesitó Chrome real.
+
+**Hallazgo honesto menor: la ficha técnica estructurada de la Gadnic P90 la categoriza como "Es
+industrial: Sí"**, un campo que contradice tanto la descripción del vendedor ("para tu cocina diaria")
+como las reseñas reales (todas describen uso doméstico de bajo volumen). Se documentó como un con honesto
+sin sobredimensionarlo — es una etiqueta de ficha técnica, no un defecto del producto.
+
+**Incidente operativo real: caída de acceso al modelo de Codex a mitad de sesión.** Round 1 de Codex
+falló dos veces seguidas (la primera vez y un reintento inmediato) con `404 Not Found: The model
+"gpt-5.5" does not exist or you do not have access to it.`, contra la cuenta de ChatGPT configurada en
+`~/.codex/config.toml`. Se probó forzar otros nombres de modelo (`gpt-5`, `gpt-5-codex`, `gpt-5.1`,
+`gpt-5.1-codex`, `o3`) vía `-m`, pero todos devuelven `400: no soportado con una cuenta de ChatGPT` — la
+integración de Codex con cuenta ChatGPT solo acepta variantes de `gpt-5.5`, y esta cuenta puntualmente
+perdió el acceso a ese modelo entre el cierre de `balanza-de-cocina` (mismo comando, exitoso) y el
+arranque de esta guía, unos 20 minutos después. No es algo resoluble desde la sesión: requiere que Juan
+revise el acceso/plan de su cuenta de ChatGPT para Codex. **Esta guía se cerró con GO de `agy` (que en su
+reporte cubrió también los puntos técnicos asignados a Codex: slugs, tokens, superlativos, labelColor,
+potencias) más la verificación mecánica completa de Claude (tsc, los 4 scripts de `guides:check`
+independientes de `affiliateUrl`, `check-price-guard.cjs`, build, grep exhaustivo de superlativos y
+números de potencia crudos, chequeo visual en navegador) — sin la segunda opinión independiente de Codex.
+Se recomienda re-auditar con Codex cuando el acceso se restablezca.** Codex se vuelve a intentar en la
+próxima guía del lote por si el problema se resolvió solo.
+
+**Verificación:** `npx tsc --noEmit`, los 4 scripts de `guides:check` que no dependen de `affiliateUrl`
+(`check-table-product-links`, `check-canonical-product-links`, `check-guide-internal-links`,
+`check-uncovered-prose-prices`), `node scripts/check-price-guard.cjs` y `npm run build` en verde. Render
+local verificado en el navegador. Las 4 imágenes verificadas con GET real (14.750 a 15.688 bytes).
+
+Re-medir: **~2026-10-06** (≈4 semanas), contra baseline cero.
+
 ## 2026-09-08 — Guía nueva `balanza-de-cocina` (silo cocina, categoría nueva, 4 fichas nuevas) — segunda de un segundo lote
 
 | Guía | Silo | Categoría | Keyword | Volumen (Ubersuggest AR) | SD | Productos |

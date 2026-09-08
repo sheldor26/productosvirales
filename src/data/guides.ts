@@ -30760,6 +30760,118 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     ],
     internalLinksTitle: "Más para tu cocina",
   },
+  // Guía nueva picadora-de-carne — silo cocina, categoría nueva
+  // Origen: research propio 2026-09-08. Keyword "picadora de carne"
+  // 6.600/mes, SD 9. Sin canibalización: guides.ts/curated-products.ts
+  // solo mencionaban "picadora" como accesorio de licuadoras de mano y
+  // multiprocesadoras, nunca como categoría propia de picadora de carne.
+  // 4 fichas nuevas importadas el mismo día (ver curated-products.ts).
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "picadora-de-carne",
+    category: "picadora-de-carne",
+    silo: "cocina",
+    pillar: true,
+    title: `Picadora de Carne: cuál comprar en Argentina [2026]`,
+    seoTitle: `Picadora de Carne: Cuál Comprar en Argentina | 2026`,
+    metaDescription: `Descubrí qué picadora de carne comprar en Argentina: la más elegida, la más compacta o la más potente. Precios reales de MercadoLibre y contras honestas.`,
+    ogTitle: `Picadora de carne: cuál comprar en Argentina`,
+    ogDescription: `Turboblender, Gadnic y Serie Dorada comparadas: de 400W a 1800W. Precios reales de MercadoLibre y las contras que nadie cuenta.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_751064-MLA95941049445_102025-O.webp`,
+    h1: `Picadora de carne: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene la **[Turboblender TB-PM1000](/producto/picadora-de-carne-electrica-turboblender-tb-pm1000-de-mla43939965)** (alrededor de {{precio:MLA43939965:k}}): la más barata y por lejos la más elegida. Si buscás algo compacto para volúmenes chicos, la **[Gadnic P90](/producto/picadora-de-carne-cuk-by-gadnic-p90-electrica-potencia-nominal-400w-80kgh-mla49976639)**. Si necesitás más potencia, la **[Serie Dorada SD-8800](/producto/picadora-de-carne-serie-dorada-sd-8800-1500w-c-accesorios-mla48894907)** (1500W) o la **[Serie Dorada SD-9000](/producto/picadora-de-carne-serie-dorada-sd-9000-potencia-1800w-funcion-reversa-mla48893479)** (1800W, la más potente y mejor calificada).`,
+    publishedDate: "2026-09-08",
+    updatedDate: "2026-09-08",
+    hasDisclosure: true,
+    readingTime: 8,
+    standfirst: `Una picadora de carne va de {{precio:MLA43939965:k}} (la más elegida) a {{precio:MLA48893479:k}} (la más potente). La decisión real pasa por cuánta potencia necesitás y cuánto espacio tenés para guardarla, no solo por precio. Te mostramos cuál conviene, con precios reales de MercadoLibre.`,
+    quickPicks: [
+      { productMlaId: "MLA43939965", label: "Mejor elección general", labelColor: "green", tagline: "Turboblender TB-PM1000: la más elegida y más barata" },
+      { productMlaId: "MLA49976639", label: "Más compacta", labelColor: "slate", tagline: "Gadnic P90: liviana, para volúmenes chicos" },
+      { productMlaId: "MLA48894907", label: "Potencia media", labelColor: "amber", tagline: "Serie Dorada SD-8800: 1500W con gran descuento" },
+      { productMlaId: "MLA48893479", label: "La más potente", labelColor: "purple", tagline: "Serie Dorada SD-9000: 1800W, la mejor calificada" },
+    ],
+    intro: [
+      `La picadora de carne resuelve algo simple: moler carne, armar embutidos caseros o preparar hamburguesas sin depender de lo que venga ya picado del mostrador. La decisión real pasa por cuánta potencia necesitás según el volumen que vayas a procesar, y cuánto espacio tenés para guardarla, no solo por el precio.`,
+      `En esta guía comparamos las picadoras de carne eléctricas más vendidas y mejor calificadas de MercadoLibre Argentina, con las contras reales que cuentan los compradores: desde el ruido al moler hasta una etiqueta de la ficha técnica que no coincide con el uso real del producto.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_751064-MLA95941049445_102025-O.webp", alt: `Picadora de carne eléctrica Turboblender TB-PM1000, la más elegida de esta guía`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, la **[Turboblender TB-PM1000](/producto/picadora-de-carne-electrica-turboblender-tb-pm1000-de-mla43939965)**: la más barata y la más elegida por lejos. Si buscás **algo compacto** para volúmenes chicos, la **[Gadnic P90](/producto/picadora-de-carne-cuk-by-gadnic-p90-electrica-potencia-nominal-400w-80kgh-mla49976639)**, liviana y de motor reversible. Si necesitás **más potencia**, la **[Serie Dorada SD-8800](/producto/picadora-de-carne-serie-dorada-sd-8800-1500w-c-accesorios-mla48894907)** (1500W) o la **[Serie Dorada SD-9000](/producto/picadora-de-carne-serie-dorada-sd-9000-potencia-1800w-funcion-reversa-mla48893479)** (1800W), la más potente y mejor calificada de esta guía.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos las picadoras de carne eléctricas con más ventas y opiniones reales en MercadoLibre Argentina. Las ordenamos por lo que define la compra: potencia, tamaño/peso, accesorios incluidos y precio. Las calificaciones y las contras son de compradores reales. Los precios que ves en las fichas y tablas se revisan contra MercadoLibre periódicamente.` },
+
+      { type: "h2", title: `Qué mirar antes de comprar una picadora de carne`, id: "que-mirar" },
+      { type: "p", content: `Primero, **la potencia según tu volumen**: para uso doméstico ocasional (hamburguesas, algún chorizo casero) alcanza con 400-1000W; para volúmenes más grandes o frecuentes, o si pensás en un emprendimiento chico, conviene 1500W o más. Segundo, **el tamaño y el peso**: si tenés poco espacio de guardado, una compacta y liviana se guarda más fácil que una de mayor porte. Tercero, **los accesorios incluidos**: discos de distinto grosor, accesorio para embutidos o para hamburguesas cambian para qué te sirve de verdad.` },
+      { type: "p", content: `Un detalle honesto de la categoría: algunas fichas técnicas de MercadoLibre traen etiquetas que no siempre coinciden con la descripción real del vendedor (por ejemplo, un campo que marca "industrial" en un producto pensado para uso doméstico). Conviene mirar la descripción completa y las reseñas reales, no solo el campo estructurado.` },
+
+      { type: "h2", title: `Las mejores picadoras de carne 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Turboblender TB-PM1000 — mejor elección general` },
+      { type: "product-card", productMlaId: "MLA43939965", label: "Mejor elección general", labelColor: "green", ranking: 1, description: `1000W, con discos de corte y accesorio para embutidos. 4.7 estrellas en {{reviews:MLA43939965}} calificaciones, la base más grande de esta guía por lejos.` },
+      { type: "p", content: `Es la picadora que recomendamos a la mayoría: motor de **1000W**, discos de corte medio y grueso, disco para muzzarella y accesorio para embutidos, a alrededor de {{precio:MLA43939965:k}}. Con {{reviews:MLA43939965}} calificaciones a 4.7 estrellas, es por lejos la más elegida de esta guía, y también la más barata.` },
+      { type: "p", content: `La contra real: una reseña detallada avisa que es bastante liviana, lo que sugiere un motor no tan grande, y que larga un poco de olor a plástico en el primer uso (sin repetirse después).` },
+      { type: "pull-quote", content: `"La recomiendo para la casa y para un uso moderado. No creo que sea un electrodoméstico para toda la vida pero por el precio vale la pena."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `2. Gadnic P90 — la más compacta` },
+      { type: "product-card", productMlaId: "MLA49976639", label: "Más compacta", labelColor: "slate", ranking: 2, description: `400W, motor reversible, apenas 2,65 kg. 4.7 estrellas en {{reviews:MLA49976639}} calificaciones.` },
+      { type: "p", content: `La más **compacta y liviana** de esta guía: apenas 2,65 kg, del tamaño de una cafetera de mesa según varias reseñas, a alrededor de {{precio:MLA49976639:k}}. Motor de 400W con función reversible para liberar atascos sin desarmarla.` },
+      { type: "p", content: `La contra real: su ficha técnica estructurada la marca como "industrial", una etiqueta que no coincide con su uso real (doméstico, bajos volúmenes) según la propia descripción y las reseñas.` },
+
+      { type: "h3", title: `3. Serie Dorada SD-8800 — potencia media` },
+      { type: "product-card", productMlaId: "MLA48894907", label: "Potencia media", labelColor: "amber", ranking: 3, description: `1500W, función reversa, con gran descuento. 4.7 estrellas en {{reviews:MLA48894907}} calificaciones.` },
+      { type: "p", content: `Más potencia que las dos primeras de esta guía: motor de **1500W**, cuchillas de acero inoxidable y función reversa, a alrededor de {{precio:MLA48894907:k}} (su precio de lista es $171.960). Con {{reviews:MLA48894907}} calificaciones a 4.7 estrellas.` },
+      { type: "p", content: `La contra real: una reseña avisa que es bastante ruidosa al moler, aunque cumple bien su función.` },
+      { type: "pull-quote", content: `"Probé una vez y anduvo espectacular. Solo es muy ruidosa para moler, cumple con el objetivo."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `4. Serie Dorada SD-9000 — la más potente` },
+      { type: "product-card", productMlaId: "MLA48893479", label: "La más potente", labelColor: "purple", ranking: 4, description: `1800W, función reversa, diseño blanco y cromado. 4.8 estrellas en {{reviews:MLA48893479}} calificaciones, la nota más alta de esta guía.` },
+      { type: "p", content: `La opción de mayor potencia de esta guía: motor de **1800W**, cuchillas de acero inoxidable y función reversa, a alrededor de {{precio:MLA48893479:k}}. Con {{reviews:MLA48893479}} calificaciones a 4.8 estrellas, es también la mejor calificada de las cuatro.` },
+      { type: "p", content: `La contra real: es la más cara de esta guía, y una reseña avisa que el sistema de ensamble es plástico y se marcan un poco los dientes de encastre al armarla.` },
+      { type: "pull-quote", content: `"Esta muy buena la maquina anda bárbaro para nuestro emprendimiento. Lo único que el ensamble es plástico y al irla armando se le marcan un poco los dientes."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h2", title: `Tabla comparativa: potencia, peso y precio`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Potencia`, `Peso`, `Función reversa`, `Rating`], rows: [
+        [`[Turboblender TB-PM1000](/producto/picadora-de-carne-electrica-turboblender-tb-pm1000-de-mla43939965)`, `{{precio:MLA43939965}}`, `1000 W`, `3 kg`, `No`, `{{rating:MLA43939965}} ({{reviews:MLA43939965}})`],
+        [`[Gadnic P90](/producto/picadora-de-carne-cuk-by-gadnic-p90-electrica-potencia-nominal-400w-80kgh-mla49976639)`, `{{precio:MLA49976639}}`, `400 W`, `2,65 kg`, `Sí`, `{{rating:MLA49976639}} ({{reviews:MLA49976639}})`],
+        [`[Serie Dorada SD-8800](/producto/picadora-de-carne-serie-dorada-sd-8800-1500w-c-accesorios-mla48894907)`, `{{precio:MLA48894907}}`, `1500 W`, `3,2 kg`, `Sí`, `{{rating:MLA48894907}} ({{reviews:MLA48894907}})`],
+        [`[Serie Dorada SD-9000](/producto/picadora-de-carne-serie-dorada-sd-9000-potencia-1800w-funcion-reversa-mla48893479)`, `{{precio:MLA48893479}}`, `1800 W`, `3,2 kg`, `Sí`, `{{rating:MLA48893479}} ({{reviews:MLA48893479}})`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu picadora de carne`, id: "como-elegir" },
+      { type: "h3", title: `¿Cuánta potencia necesitás de verdad?` },
+      { type: "p", content: `Para uso doméstico ocasional, la [Turboblender TB-PM1000](/producto/picadora-de-carne-electrica-turboblender-tb-pm1000-de-mla43939965) (1000W) alcanza de sobra. Si procesás volúmenes más grandes o pensás en un emprendimiento chico, la [Serie Dorada SD-9000](/producto/picadora-de-carne-serie-dorada-sd-9000-potencia-1800w-funcion-reversa-mla48893479) (1800W) de esta guía es la opción correcta, aunque cuesta más.` },
+      { type: "h3", title: `¿Te conviene una compacta?` },
+      { type: "p", content: `La [Gadnic P90](/producto/picadora-de-carne-cuk-by-gadnic-p90-electrica-potencia-nominal-400w-80kgh-mla49976639) es la más liviana y chica de esta guía, ideal si tenés poco espacio de guardado y procesás volúmenes bajos con frecuencia (hamburguesas, embutidos caseros de a poco).` },
+      { type: "h3", title: `¿Vale la pena pagar por más potencia?` },
+      { type: "p", content: `Entre las dos Serie Dorada de esta guía, la diferencia de precio entre la [SD-8800](/producto/picadora-de-carne-serie-dorada-sd-8800-1500w-c-accesorios-mla48894907) (1500W) y la [SD-9000](/producto/picadora-de-carne-serie-dorada-sd-9000-potencia-1800w-funcion-reversa-mla48893479) (1800W) es chica frente al salto de potencia; la SD-9000 además tiene la calificación más alta de esta guía.` },
+
+      { type: "h2", title: `Cuánto cuesta una picadora de carne en Argentina [septiembre 2026]`, id: "cuanto-cuesta" },
+      { type: "list", content: "Franjas de precio reales", items: [
+        `**Alrededor de {{precio:MLA43939965:k}}:** la [Turboblender TB-PM1000](/producto/picadora-de-carne-electrica-turboblender-tb-pm1000-de-mla43939965), la más elegida y más barata de esta guía.`,
+        `**Alrededor de {{precio:MLA49976639:k}}:** la [Gadnic P90](/producto/picadora-de-carne-cuk-by-gadnic-p90-electrica-potencia-nominal-400w-80kgh-mla49976639), compacta y con motor reversible.`,
+        `**Alrededor de {{precio:MLA48894907:k}} a {{precio:MLA48893479:k}}:** las dos Serie Dorada de esta guía (1500W y 1800W), las de mayor potencia.`,
+      ] },
+
+      { type: "verdict", content: `Para la mayoría, la **[Turboblender TB-PM1000](/producto/picadora-de-carne-electrica-turboblender-tb-pm1000-de-mla43939965)** es la compra más segura: la más barata y por lejos la más elegida de esta guía. Si buscás algo compacto para volúmenes chicos, la **[Gadnic P90](/producto/picadora-de-carne-cuk-by-gadnic-p90-electrica-potencia-nominal-400w-80kgh-mla49976639)**. Y si necesitás más potencia, la **[Serie Dorada SD-9000](/producto/picadora-de-carne-serie-dorada-sd-9000-potencia-1800w-funcion-reversa-mla48893479)** (1800W), la más potente y mejor calificada de esta guía.` },
+    ],
+    faq: [
+      { question: `¿Cuál es la mejor picadora de carne en Argentina?`, answer: `Para la mayoría, la [Turboblender TB-PM1000](/producto/picadora-de-carne-electrica-turboblender-tb-pm1000-de-mla43939965): la más barata y por lejos la más elegida. Si necesitás más potencia, la [Serie Dorada SD-9000](/producto/picadora-de-carne-serie-dorada-sd-9000-potencia-1800w-funcion-reversa-mla48893479) (1800W).` },
+      { question: `¿Qué potencia necesito para uso doméstico?`, answer: `Para uso ocasional (hamburguesas, algún chorizo casero), 400-1000W alcanza de sobra, como la Turboblender o la Gadnic P90 de esta guía. Para volúmenes más grandes o frecuentes, conviene 1500W o más.` },
+      { question: `¿Las picadoras de carne domésticas sirven para hacer embutidos?`, answer: `Sí, todas las de esta guía incluyen accesorio o vienen preparadas para embutidos, y hay reseñas reales que confirman haber hecho hasta 30kg de chorizos sin inconvenientes con el modelo más económico.` },
+      { question: `¿Por qué una ficha técnica dice "industrial" si el producto es doméstico?`, answer: `Pasa en algunas publicaciones de esta categoría: un campo estructurado de la ficha técnica puede no coincidir con la descripción real del vendedor. Conviene guiarse por la descripción completa y las reseñas de compradores, no solo por ese campo.` },
+      { question: `¿Son ruidosas las picadoras de carne eléctricas?`, answer: `Varía según el modelo: una reseña de la Serie Dorada SD-8800 de esta guía la describe como bastante ruidosa al moler, aunque cumple bien su función. Es un punto a considerar si vas a usarla en un espacio compartido.` },
+      { question: `¿Vale la pena pagar más por la más potente?`, answer: `Si necesitás procesar volúmenes grandes o pensás en un emprendimiento chico, sí: la [Serie Dorada SD-9000](/producto/picadora-de-carne-serie-dorada-sd-9000-potencia-1800w-funcion-reversa-mla48893479) (1800W) de esta guía tiene además la calificación más alta. Para uso doméstico ocasional, la Turboblender cumple bien a menos de la mitad del precio.` },
+    ],
+    internalLinks: [
+      { label: "Batidora: cuál comprar en Argentina", href: "/guias/cocina/batidora" },
+      { label: "Sandwichera: cuál comprar en Argentina", href: "/guias/cocina/sandwichera" },
+      { label: "Lavavajillas: cuál comprar en Argentina", href: "/guias/cocina/lavavajillas" },
+      { label: "Exprimidor: cuál comprar en Argentina", href: "/guias/cocina/exprimidor" },
+    ],
+    internalLinksTitle: "Más para tu cocina",
+  },
 ];
 
 /**
@@ -31123,6 +31235,11 @@ export const guideCategories: Record<string, { name: string; description: string
     name: "Guía de Balanza de Cocina",
     description:
       "Para pesar ingredientes, no para pesarte a vos: cuánta precisión real necesitás y si te sirve un bowl incluido. Las más vendidas de MercadoLibre, comparadas.",
+  },
+  "picadora-de-carne": {
+    name: "Guía de Picadora de Carne",
+    description:
+      "Cuánta potencia necesitás de verdad y qué tan compacta te conviene: las más vendidas y mejor calificadas de MercadoLibre, comparadas.",
   },
   climatizacion: {
     name: "Guías de Climatización",

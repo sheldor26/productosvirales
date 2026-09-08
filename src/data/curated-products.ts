@@ -88376,6 +88376,260 @@ Para quien pesa dosis chicas con frecuencia: café de filtro o espresso, reposte
       { question: "¿Trae garantía?", answer: "La ficha de MercadoLibre no detalla el plazo de garantía de fábrica de este modelo puntual; confirmalo en la publicación antes de comprar." },
     ],
   },
+  {
+    id: "MLA43939965",
+    title: "Picadora de carne eléctrica Turboblender TB-PM1000 de",
+    canonicalName: "Turboblender TB-PM1000", mpn: "TB-PM1000", brand: "Turboblender",
+    price: 87000, originalPrice: 93549, currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_751064-MLA95941049445_102025-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_751064-MLA95941049445_102025-O.webp"],
+    category: "Cocina", categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/picadora-de-carne-electrica-turboblender-tb-pm1000-de/p/MLA43939965",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new", freeShipping: true, rating: 4.7, reviewCount: 3262,
+    pastelColor: "var(--pastel-blue)",
+    priceUpdated: "2026-09-08", priceLastChecked: "2026-09-08", priceStatus: "fresh", reviewsSampledAt: "2026-09-08",
+    specs: [
+      { label: "Marca", value: "Turboblender" },
+      { label: "Modelo", value: "TB-PM1000" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Potencia", value: "1000 W" },
+      { label: "Es lavable", value: "Sí" },
+      { label: "Discos incluidos", value: "Medio (4,5mm), grueso (7mm) y para muzzarella" },
+      { label: "Accesorio para embutidos", value: "Sí, incluido" },
+      { label: "Peso", value: "3 kg" },
+      { label: "Dimensiones", value: "33 x 36 x 15 cm" },
+    ],
+    relatedProducts: ["MLA49976639", "MLA48894907", "MLA48893479"],
+    description: "Picadora de carne eléctrica Turboblender TB-PM1000, 1000W. La más elegida de esta comparativa, con más de 3.200 calificaciones.",
+    seoTitle: "Turboblender TB-PM1000: la picadora de carne más elegida",
+    metaDescription: "Turboblender TB-PM1000 a {{precio:MLA43939965}}: 1000W y {{reviews:MLA43939965}} calificaciones. La más elegida de esta comparativa.",
+    ogTitle: "Turboblender TB-PM1000: picadora de carne eléctrica, la más elegida",
+    ogDescription: "1000W, discos de corte y accesorio para embutidos incluidos. La más elegida por lejos, con un aviso honesto sobre su durabilidad a largo plazo.",
+    h1: "Turboblender TB-PM1000: picadora de carne eléctrica, la más elegida de esta comparativa",
+    verdict: "La picadora de carne más elegida de esta comparativa, por lejos: {{reviews:MLA43939965}} calificaciones a 4.7 estrellas, muchas más que cualquier otra opción, y también la más barata a {{precio:MLA43939965}}. Trae discos de corte medio y grueso, disco para muzzarella y accesorio para embutidos. El aviso honesto de una reseña detallada: es bastante liviana, lo que sugiere un motor no tan grande, y no parece pensada para durar toda la vida, aunque para uso doméstico moderado cumple bien.",
+    pros: [
+      "La más elegida de esta comparativa, con {{reviews:MLA43939965}} calificaciones",
+      "También la más barata de las cuatro",
+      "Fácil de armar y de limpiar, según varias reseñas",
+      "Trae accesorio para embutidos y disco para muzzarella incluidos",
+    ],
+    cons: [
+      "Una reseña detallada avisa que es bastante liviana, lo que sugiere un motor no tan grande, y larga un poco de olor a plástico en el primer uso",
+      "La misma reseña no la recomienda como electrodoméstico para toda la vida, aunque sí para uso doméstico moderado",
+      "Motor de 1000W, menos potente que las Serie Dorada de esta comparativa (1500W y 1800W)",
+    ],
+    articleBody: `## La más elegida de esta comparativa, por lejos
+
+La Turboblender TB-PM1000 es la picadora de carne más elegida de esta comparativa: {{reviews:MLA43939965}} calificaciones a 4.7 estrellas, muchas más que el resto. Cuesta {{precio:MLA43939965}} y es también la más barata. Tiene motor de 1000W, viene con discos de corte medio y grueso, disco para muzzarella y accesorio para embutidos.
+
+## Lo que dicen los compradores reales
+
+Las reseñas confirman que rinde bien para el uso casero: "hicimos 30kg de chorizos sin inconvenientes", cuenta una. Otra la usó varias horas seguidas para procesar cuatro cajones de tomate para salsa, sin que se recalentara. El aviso honesto de esa misma reseña: "es muy liviana, lo que indica que no debe tener un motor muy grande", y al encenderla por primera vez larga un poco de olor a plástico (que no se repite después). Su conclusión: "la recomiendo para la casa y para un uso moderado, no creo que sea un electrodoméstico para toda la vida, pero por el precio vale la pena".
+
+## Para quién es
+
+Para quien pica carne, arma chorizos o hace salsas caseras de vez en cuando, sin buscar el motor más potente del mercado. Si necesitás más potencia para uso más frecuente o cantidades más grandes, la Serie Dorada SD-9000 (1800W) de esta comparativa rinde más.`,
+    faq: [
+      { question: "¿Es resistente para uso frecuente?", answer: "Para uso doméstico moderado, sí: hay reseñas que procesaron hasta 30kg de carne para chorizos sin problemas. Una reseña detallada avisa que, por ser liviana, no parece pensada para un uso muy intensivo y constante durante años; para eso, las Serie Dorada de esta comparativa (1500W y 1800W) son más robustas." },
+      { question: "¿Larga olor a plástico?", answer: "Según una reseña, sí, un poco al encenderla por primera vez, sin que se repita en usos posteriores ni indique un problema del producto." },
+      { question: "¿Qué accesorios incluye?", answer: "Disco de corte medio (4,5mm), disco de corte grueso (7mm), disco para muzzarella y accesorio para embutidos." },
+      { question: "¿Cuántas calificaciones tiene?", answer: "{{reviews:MLA43939965}} calificaciones a {{rating:MLA43939965}} estrellas, la base de opiniones más grande de esta comparativa por lejos." },
+      { question: "¿Qué potencia tiene?", answer: "1000W (1kW). Es la de menor potencia de esta comparativa; la Serie Dorada SD-8800 tiene 1500W y la SD-9000, 1800W." },
+      { question: "¿Trae garantía?", answer: "La ficha de MercadoLibre no detalla el plazo de garantía de fábrica de este modelo puntual; confirmalo en la publicación antes de comprar." },
+    ],
+  },
+  {
+    id: "MLA49976639",
+    title: "Picadora de Carne Cuk By Gadnic P90 Eléctrica Potencia Nominal 400W 80kgh",
+    canonicalName: "Gadnic P90", mpn: "P90", brand: "Gadnic",
+    price: 96087, currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_668687-MLA100107801433_122025-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_668687-MLA100107801433_122025-O.webp"],
+    category: "Cocina", categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/picadora-de-carne-cuk-by-gadnic-p90-electrica-potencia-nominal-400w-80kgh/p/MLA49976639",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new", freeShipping: true, rating: 4.7, reviewCount: 2243,
+    pastelColor: "var(--pastel-coral)",
+    priceUpdated: "2026-09-08", priceLastChecked: "2026-09-08", priceStatus: "fresh", reviewsSampledAt: "2026-09-08",
+    specs: [
+      { label: "Marca", value: "Gadnic" },
+      { label: "Línea", value: "Cuk" },
+      { label: "Modelo", value: "P90" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Potencia", value: "400 W" },
+      { label: "Capacidad de picado", value: "Hasta 80 kg por hora" },
+      { label: "Motor reversible", value: "Sí, para liberar atascos" },
+      { label: "Discos incluidos", value: "3, de acero inoxidable (fino, medio y grueso)" },
+      { label: "Peso", value: "2,65 kg" },
+      { label: "Dimensiones", value: "32 x 24 x 18,5 cm" },
+    ],
+    relatedProducts: ["MLA43939965", "MLA48894907", "MLA48893479"],
+    description: "Picadora de carne Gadnic P90, 400W con motor reversible. La más compacta y liviana de esta comparativa.",
+    seoTitle: "Gadnic P90: la picadora de carne más compacta",
+    metaDescription: "Gadnic P90 a {{precio:MLA49976639}}: 400W, motor reversible y {{reviews:MLA49976639}} calificaciones. La más compacta de esta comparativa.",
+    ogTitle: "Gadnic P90: picadora de carne compacta con motor reversible",
+    ogDescription: "400W, hasta 80kg por hora y motor reversible antiatascos. La más compacta y liviana de esta comparativa.",
+    h1: "Gadnic P90: picadora de carne compacta, la más liviana de esta comparativa",
+    verdict: "La picadora de carne más compacta y liviana de esta comparativa: apenas 2,65 kg y del tamaño de una cafetera de mesa, según varias reseñas. Con motor de 400W reversible (para liberar atascos sin desarmar) y capacidad declarada de hasta 80 kg por hora, cuesta {{precio:MLA49976639}}. Con {{reviews:MLA49976639}} calificaciones a 4.7 estrellas, es la segunda con más respaldo de esta comparativa. Un dato curioso: la ficha técnica la categoriza como 'industrial', aunque tanto la descripción como las reseñas confirman que está pensada para uso doméstico y bajos volúmenes.",
+    pros: [
+      "La más compacta y liviana de esta comparativa: 2,65 kg",
+      "Motor reversible, libera atascos sin desarmar la máquina",
+      "{{reviews:MLA49976639}} calificaciones a {{rating:MLA49976639}} estrellas, la segunda base más grande de esta comparativa",
+      "Trae accesorio para hacer kebbe y para armar hamburguesas, según reseñas",
+    ],
+    cons: [
+      "La ficha técnica estructurada la marca como 'industrial', una etiqueta que no coincide con su uso real (doméstico, bajos volúmenes) según la descripción y las reseñas",
+      "Motor de 400W, menos potente que las otras tres picadoras de esta comparativa",
+      "No se especifica si es lavable en la ficha técnica",
+    ],
+    articleBody: `## La más compacta y liviana de esta comparativa
+
+La Gadnic P90 es la picadora de carne más compacta de esta comparativa: apenas 2,65 kg, del tamaño de una cafetera de mesa según varias reseñas. Tiene motor de 400W con función reversible para liberar atascos sin desarmarla, y capacidad declarada de hasta 80 kg por hora. Cuesta {{precio:MLA49976639}}.
+
+## Lo que dicen los compradores reales
+
+Las reseñas destacan lo compacta y fácil de usar que es: "linda, liviana, pequeña, del tamaño de una cafetera de casa, fácil de armar, pica muy bien", cuenta una que la usó para procesar pollo para hamburguesas. Otra la eligió específicamente por traer el accesorio para hacer kebbe. Para bajos volúmenes de embutidos caseros, varias reseñas la señalan como la opción ideal por ocupar poco espacio.
+
+## Para quién es
+
+Para cocinas chicas o quien pica carne en volúmenes bajos con frecuencia (hamburguesas, albóndigas, embutidos caseros de a poco) y valora que ocupe poco espacio de guardado. Si necesitás procesar cantidades grandes de una sola vez, las Serie Dorada de esta comparativa, con más potencia, rinden mejor.`,
+    faq: [
+      { question: "¿Es realmente industrial?", answer: "La ficha técnica estructurada de MercadoLibre la categoriza como 'industrial', pero tanto la descripción del vendedor como las reseñas reales la muestran pensada para uso doméstico y bajos volúmenes, no para uso comercial intensivo." },
+      { question: "¿Qué tamaño tiene?", answer: "Es la más compacta de esta comparativa: varias reseñas la comparan con el tamaño de una cafetera de mesa. Pesa 2,65 kg." },
+      { question: "¿Para qué sirve el motor reversible?", answer: "Permite invertir el giro del motor para liberar un atasco de carne o nervios sin tener que desarmar la máquina." },
+      { question: "¿Cuántas calificaciones tiene?", answer: "{{reviews:MLA49976639}} calificaciones a {{rating:MLA49976639}} estrellas, la segunda base de opiniones más grande de esta comparativa." },
+      { question: "¿Qué accesorios incluye?", answer: "3 discos de acero inoxidable (fino, medio y grueso) y, según reseñas, accesorio para armar hamburguesas y para hacer kebbe." },
+      { question: "¿Trae garantía?", answer: "La ficha de MercadoLibre no detalla el plazo de garantía de fábrica de este modelo puntual; confirmalo en la publicación antes de comprar." },
+    ],
+  },
+  {
+    id: "MLA48894907",
+    title: "Picadora De Carne Serie Dorada Sd-8800 1500w C/accesorios",
+    canonicalName: "Serie Dorada SD-8800", mpn: "SD-8800", brand: "Serie Dorada",
+    price: 119236, originalPrice: 171960, currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_766287-MLA99570897072_122025-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_766287-MLA99570897072_122025-O.webp"],
+    category: "Cocina", categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/picadora-de-carne-serie-dorada-sd-8800-1500w-caccesorios/p/MLA48894907",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new", freeShipping: true, rating: 4.7, reviewCount: 83,
+    pastelColor: "var(--pastel-amber)",
+    priceUpdated: "2026-09-08", priceLastChecked: "2026-09-08", priceStatus: "fresh", reviewsSampledAt: "2026-09-08",
+    specs: [
+      { label: "Marca", value: "Serie Dorada" },
+      { label: "Modelo", value: "SD-8800" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Potencia", value: "1500 W" },
+      { label: "Material", value: "Acero inoxidable" },
+      { label: "Función reversa", value: "Sí, antiatascos" },
+      { label: "Es lavable", value: "Sí" },
+      { label: "Peso", value: "3,2 kg" },
+      { label: "Dimensiones", value: "35 x 33,4 x 16 cm" },
+    ],
+    relatedProducts: ["MLA43939965", "MLA49976639", "MLA48893479"],
+    description: "Picadora de carne Serie Dorada SD-8800, 1500W con función reversa. Buena potencia media a un precio con gran descuento.",
+    seoTitle: "Serie Dorada SD-8800: picadora de carne de 1500W",
+    metaDescription: "Serie Dorada SD-8800 a {{precio:MLA48894907}}: 1500W, función reversa y {{reviews:MLA48894907}} calificaciones.",
+    ogTitle: "Serie Dorada SD-8800: picadora de carne de 1500W con función reversa",
+    ogDescription: "1500W, cuchillas de acero inoxidable y función reversa antiatascos. Buena potencia media con gran descuento sobre el precio de lista.",
+    h1: "Serie Dorada SD-8800: picadora de carne de 1500W, potencia media de esta comparativa",
+    verdict: "La opción de potencia media de esta comparativa: motor de 1500W, cuchillas de acero inoxidable y función reversa para evitar atascos, a {{precio:MLA48894907}} (con un descuento grande sobre su precio de lista de $171.960). Con {{reviews:MLA48894907}} calificaciones a 4.7 estrellas, tiene buen respaldo aunque bastante menos volumen que la Turboblender o la Gadnic P90 de esta comparativa. El aviso honesto de una reseña: es bastante ruidosa al moler, aunque cumple bien su función.",
+    pros: [
+      "Motor de 1500W, más potente que la Turboblender y la Gadnic P90 de esta comparativa",
+      "Función reversa para liberar atascos",
+      "Gran descuento sobre el precio de lista ($171.960 a {{precio:MLA48894907}})",
+      "Accesorios de acero, más duraderos según una reseña",
+    ],
+    cons: [
+      "Una reseña avisa que es bastante ruidosa al moler",
+      "Bastante menos calificaciones acumuladas que la Turboblender o la Gadnic P90 de esta comparativa",
+      "Más cara que la Turboblender y la Gadnic P90 de esta comparativa",
+    ],
+    articleBody: `## Potencia media con buen descuento
+
+La Serie Dorada SD-8800 tiene motor de 1500W, cuchillas de acero inoxidable y función reversa para liberar atascos, a {{precio:MLA48894907}} (su precio de lista es $171.960). Con {{reviews:MLA48894907}} calificaciones a 4.7 estrellas, tiene buen respaldo, aunque bastante menos volumen que la Turboblender o la Gadnic P90 de esta comparativa.
+
+## Lo que dicen los compradores reales
+
+Las reseñas destacan la durabilidad de sus accesorios de acero y su buen desempeño moliendo grasa para chicharrones. El aviso honesto viene de una reseña de 4 estrellas: "probé una vez y anduvo espectacular, solo es muy ruidosa para moler, cumple con el objetivo".
+
+## Para quién es
+
+Para quien busca más potencia que la Turboblender o la Gadnic P90 sin llegar al tope de esta comparativa, y no le molesta el ruido del motor al usarla. Si el ruido es un problema o buscás el máximo de potencia, la Serie Dorada SD-9000 (1800W) de esta comparativa es la otra opción de esta marca.`,
+    faq: [
+      { question: "¿Es muy ruidosa?", answer: "Según una reseña, sí, bastante ruidosa al moler, aunque cumple bien su función. Es un punto a considerar si vas a usarla en un espacio compartido." },
+      { question: "¿Cuántas calificaciones tiene?", answer: "{{reviews:MLA48894907}} calificaciones a {{rating:MLA48894907}} estrellas." },
+      { question: "¿Qué potencia tiene?", answer: "1500W, más que la Turboblender (1000W) y la Gadnic P90 (400W) de esta comparativa, aunque menos que la Serie Dorada SD-9000 (1800W)." },
+      { question: "¿Tiene mucho descuento?", answer: "Sí, su precio de lista es $171.960 y hoy está a {{precio:MLA48894907}}, uno de los descuentos más grandes de esta comparativa." },
+      { question: "¿Para qué sirve la función reversa?", answer: "Invierte el giro del motor para liberar atascos de carne sin desarmar la máquina." },
+      { question: "¿Trae garantía?", answer: "La ficha de MercadoLibre no detalla el plazo de garantía de fábrica de este modelo puntual; confirmalo en la publicación antes de comprar." },
+    ],
+  },
+  {
+    id: "MLA48893479",
+    title: "Picadora de Carne Serie Dorada Sd-9000 Potencia 1800w Función Reversa",
+    canonicalName: "Serie Dorada SD-9000", mpn: "SD-9000", brand: "Serie Dorada",
+    price: 123902, currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_877311-MLA96099594855_102025-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_877311-MLA96099594855_102025-O.webp"],
+    category: "Cocina", categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/picadora-de-carne-serie-dorada-sd-9000-potencia-1800w-funcion-reversa/p/MLA48893479",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new", freeShipping: true, rating: 4.8, reviewCount: 111,
+    pastelColor: "var(--pastel-purple)",
+    priceUpdated: "2026-09-08", priceLastChecked: "2026-09-08", priceStatus: "fresh", reviewsSampledAt: "2026-09-08",
+    specs: [
+      { label: "Marca", value: "Serie Dorada" },
+      { label: "Modelo", value: "SD-9000" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Potencia", value: "1800 W" },
+      { label: "Material", value: "Acero inoxidable" },
+      { label: "Función reversa", value: "Sí, antiatascos" },
+      { label: "Es lavable", value: "Sí" },
+      { label: "Diseño", value: "Blanco y cromado" },
+      { label: "Peso", value: "3,2 kg" },
+      { label: "Dimensiones", value: "35 x 33,4 x 16 cm" },
+    ],
+    relatedProducts: ["MLA43939965", "MLA49976639", "MLA48894907"],
+    description: "Picadora de carne Serie Dorada SD-9000, 1800W con función reversa. La más potente y mejor calificada de esta comparativa.",
+    seoTitle: "Serie Dorada SD-9000: la picadora de carne más potente",
+    metaDescription: "Serie Dorada SD-9000 a {{precio:MLA48893479}}: 1800W, función reversa y {{reviews:MLA48893479}} calificaciones. La más potente de esta comparativa.",
+    ogTitle: "Serie Dorada SD-9000: picadora de carne de 1800W, la más potente",
+    ogDescription: "1800W, diseño blanco y cromado, función reversa. La más potente y mejor calificada de esta comparativa.",
+    h1: "Serie Dorada SD-9000: picadora de carne de 1800W, la más potente de esta comparativa",
+    verdict: "La picadora de carne más potente de esta comparativa: motor de 1800W, cuchillas de acero inoxidable y función reversa, a {{precio:MLA48893479}}. Con {{reviews:MLA48893479}} calificaciones a 4.8 estrellas, es también la mejor calificada de las cuatro. Es la más cara de esta comparativa. El aviso honesto de una reseña: el sistema de ensamble es plástico y, al armarla, los dientes de encastre se marcan un poco.",
+    pros: [
+      "Motor de 1800W, el más potente de esta comparativa",
+      "4.8 estrellas, la calificación más alta de esta comparativa",
+      "Función reversa antiatascos y cuchillas de acero inoxidable",
+      "Diseño blanco y cromado, distinto al resto de la comparativa",
+    ],
+    cons: [
+      "Es la más cara de esta comparativa",
+      "Una reseña avisa que el sistema de ensamble es plástico y se marcan un poco los dientes de encastre al armarla",
+      "Bastante menos calificaciones acumuladas que la Turboblender o la Gadnic P90 de esta comparativa",
+    ],
+    articleBody: `## La más potente de esta comparativa
+
+La Serie Dorada SD-9000 tiene el motor más potente de esta comparativa: 1800W, con cuchillas de acero inoxidable y función reversa para liberar atascos, a {{precio:MLA48893479}}. Con {{reviews:MLA48893479}} calificaciones a 4.8 estrellas, es también la mejor calificada de las cuatro.
+
+## Lo que dicen los compradores reales
+
+Las reseñas destacan que "el motor va sobrado" incluso para picar cerdo, y que rinde bien en emprendimientos de bajo volumen. El aviso honesto de una reseña de 4 estrellas: "el ensamble es plástico y al irla armando se le marcan un poco los dientes", aunque igual "anda bárbaro" en el uso diario.
+
+## Para quién es
+
+Para quien busca el máximo de potencia de esta comparativa y no le importa pagar el precio más alto por eso, incluso para uso semi-frecuente en un emprendimiento chico. Si el presupuesto manda, la Turboblender de esta comparativa cumple bien a menos de la mitad del precio.`,
+    faq: [
+      { question: "¿Es realmente la más potente?", answer: "Sí, con 1800W es la de mayor potencia de esta comparativa, por encima de la Serie Dorada SD-8800 (1500W), la Turboblender (1000W) y la Gadnic P90 (400W)." },
+      { question: "¿Se rompen los dientes de encastre?", answer: "Una reseña avisa que el sistema de ensamble es plástico y que armarla varias veces marca un poco los dientes, sin que eso afecte el funcionamiento reportado." },
+      { question: "¿Cuántas calificaciones tiene?", answer: "{{reviews:MLA48893479}} calificaciones a {{rating:MLA48893479}} estrellas, la nota más alta de esta comparativa." },
+      { question: "¿Sirve para un emprendimiento chico?", answer: "Según una reseña que la usa para su emprendimiento, sí, rinde bien para volúmenes bajos y frecuentes." },
+      { question: "¿Vale la pena pagar tanto más que la Turboblender?", answer: "Si necesitás más potencia (1800W contra 1000W) y preferís la calificación más alta de esta comparativa, sí. Si el presupuesto manda, la Turboblender cumple bien a menos de la mitad del precio." },
+      { question: "¿Trae garantía?", answer: "La ficha de MercadoLibre no detalla el plazo de garantía de fábrica de este modelo puntual; confirmalo en la publicación antes de comprar." },
+    ],
+  },
 ];
 
 export const categoryPastels: Record<string, string> = {
