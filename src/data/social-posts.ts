@@ -2349,4 +2349,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "41",
     postedAt: "2026-09-09T13:37:00-03:00",
   },
+  {
+    title: "Notebook Samsung Galaxy Book4 Core i7 16GB/1TB",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_827427-MLA99551740948_122025-O.webp",
+    affiliateUrl: "https://meli.la/1kWht6Y",
+    newPrice: "1.786.099",
+    oldPrice: "2.499.999",
+    offPct: "28",
+    postedAt: "2026-09-09T15:02:00-03:00",
+  },
 ];
