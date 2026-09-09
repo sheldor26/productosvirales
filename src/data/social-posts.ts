@@ -2389,4 +2389,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "50",
     postedAt: "2026-09-09T16:46:00-03:00",
   },
+  {
+    title: "Smartwatch Garmin Forerunner 170 AMOLED GPS",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_789085-MLA111955965755_052026-O.webp",
+    affiliateUrl: "https://meli.la/1887Rgx",
+    newPrice: "629.999",
+    oldPrice: "727.999",
+    offPct: "13",
+    postedAt: "2026-09-09T17:12:00-03:00",
+  },
 ];

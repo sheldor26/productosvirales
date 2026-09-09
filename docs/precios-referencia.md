@@ -244,6 +244,12 @@ negro — tienen precio de lista distinto).
 |---|---|---|---|
 | Colchón La Espumería Freestyle Plus Queen 160x200 | $549.405 | 2026-09-09 | meli.la/34jtfHL — sin referencia previa, primera categoría de colchones/descanso en el sitio, tamaño Queen seleccionado, 🔥 ¡ÚLTIMAS 3 UNIDADES! confirmado en vivo dos veces (sourcing y publicación, ~3.5hs después, stock y precio idénticos), 4.9★ (29 op.), +25 vendidos, Tienda oficial La Espumeria (+10 mil ventas). Origen: Juan pasó un mensaje del programa de afiliados con un tinyurl con matt_tool (no usado directo) — se resolvió al permalink limpio. Cupón visible en la ficha ("$529.405,07 con Cupón") es el cupón ML "Múltiples Categorías" ($20.000 OFF, mínima $250.000) — no se usó en el copy. ⚠️ Juan también pasó el cupón "FIESTACYBER" ($15.000 OFF, mínima $200.000, vigente 9/9 14-18hs, sitio completo) — se probó manualmente en el modal de cupones de esta ficha y SÍ es real (no dio error), pero el sistema mostró "Ya aplicaste un cupón mejor" porque el cupón de $20.000 ya estaba aplicado y es mayor — no se usó en el copy porque no mejora el precio ya mostrado. Confirma que FIESTACYBER es funcional, solo queda dominado por el cupón de $250k-mínima en productos que superan ese umbral |
 
+## Gadgets
+
+| Producto | Precio de referencia (mejor real visto) | Fecha | Fuente |
+|---|---|---|---|
+| Smartwatch Garmin Forerunner 170 AMOLED GPS | $629.999 | 2026-09-09 | meli.la/1887Rgx — sin referencia previa, primer Garmin del sitio en formato social (hay sinergia editorial con la guía reloj-garmin), ficha "Nuevo" sin rating numérico todavía (+25 vendidos, no se inventó estrella, se usó "Nuevo" en el copy/asset), AMOLED + GPS, resiste 50m, batería 10 días, Tienda oficial Mercado Libre (+1M ventas). Origen: Juan pasó un mensaje del programa de afiliados con un tinyurl con matt_tool (no usado directo) — se resolvió al permalink limpio y se re-verificó el precio en vivo, resultó MEJOR que el informado en el mensaje original ($629.999 con descuento real vs $727.999 sin descuento que decía el mensaje). Cupón visible en la ficha ("$609.999 con Cupón") — no se confirmó el código exacto, no se usó en el copy |
+
 ## Pendiente de revisar
 
 - Aire Acondicionado Split Philco Inverter 3750W (Tienda oficial NOVOGAR,
