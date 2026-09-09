@@ -28821,7 +28821,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
 
       { type: "h3", title: `1. Tramontina 1500 W` },
       { type: "product-card", productMlaId: "MLA9096807", label: "La más elegida", labelColor: "green", ranking: 1, description: "1.500 W, corte de 28 cm y 85 dB declarados. Más de 26.000 opiniones con {{rating:MLA9096807}} de promedio: el respaldo más grande de esta comparativa por lejos." },
-      { type: "p", content: `Es la bordeadora con más respaldo de esta comparativa y no está cerca: **{{reviews:MLA9096807}} opiniones**, más de cinco veces la segunda. Con 1.500 W es la más potente del grupo, y sin embargo cuesta menos que la Gamma de 1.000 W y bastante menos que la Black+Decker de 900 W.` },
+      { type: "p", content: `Es la bordeadora con más respaldo de esta comparativa y no está cerca: **{{reviews:MLA9096807}} opiniones**, casi cuatro veces la segunda. Con 1.500 W es la más potente del grupo, y sin embargo cuesta menos que la Gamma de 1.000 W y bastante menos que la Black+Decker de 900 W.` },
       { type: "p", content: `Los 85 dB son el dato que menos se mira y más se agradece: las dos Gamma declaran 96, y once decibeles de diferencia se notan. Suma alimentación de tanza **automática y manual**, las dos, algo que valoran varios compradores.` },
       { type: "pull-quote", content: `"El cortador es muy bueno y muy potente. La única desventaja que puedo señalar es que no viene con un cinturón de soporte."`, attribution: `Comprador de la Tramontina 1500 W, calificación 5/5` },
       { type: "p", content: `Esa es la contra real y su propia ficha la confirma: declara **"Incluye accesorios: No"**. En un equipo de 2,62 kg con eje recto, el arnés se extraña. Si vas a cortar mucho, presupuestá uno aparte o mirá la Gamma G3081AR, que sí lo trae.` },
@@ -28877,7 +28877,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { type: "h2", title: `Preguntas frecuentes`, id: "faq" },
     ],
     faq: [
-      { question: `¿Cuál es la mejor bordeadora eléctrica en Argentina?`, answer: `Por respaldo de compradores, la [Tramontina de 1.500 W](/producto/bordeadora-electrica-tramontina-1500-w-corte-de-28-cm-eje-recto-85-db-mla9096807): tiene {{reviews:MLA9096807}} opiniones con {{rating:MLA9096807}} de promedio, más de cinco veces la segunda de esta comparativa. Además es la más potente de las seis y declara 85 dB, once menos que las dos Gamma. Su contra es que no trae arnés, y su propia ficha lo aclara.` },
+      { question: `¿Cuál es la mejor bordeadora eléctrica en Argentina?`, answer: `Por respaldo de compradores, la [Tramontina de 1.500 W](/producto/bordeadora-electrica-tramontina-1500-w-corte-de-28-cm-eje-recto-85-db-mla9096807): tiene {{reviews:MLA9096807}} opiniones con {{rating:MLA9096807}} de promedio, casi cuatro veces la segunda de esta comparativa. Además es la más potente de las seis y declara 85 dB, once menos que las dos Gamma. Su contra es que no trae arnés, y su propia ficha lo aclara.` },
       { question: `¿Cuántos watts necesita una bordeadora?`, answer: `Depende del jardín, no del catálogo. Para bordes y pasto normal de un patio de casa, 300 a 600 W alcanzan y pesan mucho menos. Para pasto crecido o maleza dura, conviene de 1.000 W para arriba. En esta comparativa el rango va de 300 W a 1.500 W.` },
       { question: `¿Conviene una bordeadora con cable o a batería?`, answer: `Cinco de las seis de esta guía van con cable de 220V, y una sola es a batería. La inalámbrica resuelve el alargue, que es una molestia real, pero paga dos precios: autonomía limitada (una compradora usó tres cargas para 50 metros cuadrados) y el ancho de corte más angosto del grupo, 15 cm. Si el jardín está lejos del tomacorriente, la batería gana igual.` },
       { question: `¿Qué diferencia hay entre eje recto y eje curvo?`, answer: `El eje recto llega mejor debajo de arbustos y sirve para gente alta porque no obliga a agacharse; el curvo es más manejable en bordes y espacios cerrados. En esta comparativa las dos Tramontina y la Daewoo son de eje recto, y las dos Gamma y la Black+Decker son de eje curvo.` },
@@ -31342,6 +31342,119 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     ],
     internalLinksTitle: "Más para tu cocina",
   },
+  {
+    slug: "mancuernas",
+    category: "mancuernas",
+    silo: "fitness",
+    pillar: true,
+    title: `Mancuernas: cuál comprar en Argentina [2026]`,
+    seoTitle: `Mancuernas: Cuál Comprar en Argentina [2026]`,
+    metaDescription: `Comparamos 4 mancuernas reales de MercadoLibre: la más elegida trae barra conversora y suma casi cinco veces más opiniones que la segunda, pero no arma un par parejo por debajo de 7,5 kg.`,
+    ogTitle: `Mancuernas: cuál comprar en Argentina`,
+    ogDescription: `4 mancuernas comparadas por peso, formato (fija o ajustable) y respaldo de reseñas. Una se vende por unidad y no por par, y casi nadie lo aclara antes de comprar.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_750350-MLA114905526091_072026-O.webp`,
+    h1: `Mancuernas: cuál comprar en Argentina y qué mirar antes [2026]`,
+    directAnswer: `Para la mayoría conviene el **[kit DeporAr de 25 kg](/producto/kit-de-mancuernas-deporar-25-kg-barra-con-tope-a-rosca-y-discos-pvc-mla35569367)** (alrededor de {{precio:MLA35569367:k}}): trae mancuernas y barra conversora en un solo producto, y es por lejos el más elegido de esta comparativa. Si estás empezando o buscás algo liviano, el **[par de Fitnesas de 2 kg](/producto/par-de-mancuernas-fitnesas-2-kg-recubiertas-en-pvc-mla35253570)**, el más barato. Si entrenás en serio y preferís peso fijo, la **[mancuerna hexagonal High Performance](/producto/mancuerna-hexagonal-high-performance-10-kg-engomada-precio-por-unidad-mla43766711)**, con la salvedad de que se vende por unidad, no por par.`,
+    publishedDate: "2026-09-09",
+    updatedDate: "2026-09-09",
+    sitemapLastmod: "2026-09-09",
+    hasDisclosure: true,
+    readingTime: 9,
+    standfirst: `Un par de mancuernas va de {{precio:MLA35253570:k}} a {{precio:MLA35569367:k}}. Comparamos 4 modelos reales de MercadoLibre Argentina por **peso, formato (fijo o ajustable), material y respaldo de reseñas**, con contras sacadas de reseñas verdaderas, dentro de nuestro silo de [Fitness](/categoria/fitness).`,
+    quickPicks: [
+      { productMlaId: "MLA35569367", label: "La más elegida", labelColor: "green", tagline: "DeporAr 25 kg: mancuernas + barra conversora, con casi cinco veces el respaldo de la segunda" },
+      { productMlaId: "MLA44965610", label: "La ajustable", labelColor: "blue", tagline: "BS Fit 20 kg: tienda oficial y buen agarre, aunque las roscas se aflojan un poco" },
+      { productMlaId: "MLA43766711", label: "La mejor calificada", labelColor: "purple", tagline: "High Performance 10 kg: {{rating:MLA43766711}} de nota, pero se vende por unidad" },
+      { productMlaId: "MLA35253570", label: "La más barata", labelColor: "slate", tagline: "Fitnesas 2 kg: la puerta de entrada más económica de esta comparativa" },
+    ],
+    intro: [
+      `Elegir **mancuernas** parece una decisión de peso y termina siendo una de formato. El kilaje se lee en el título; si es fija o ajustable, si se vende por unidad o por par, están abajo en la ficha, y son los datos que deciden si el producto que llega a tu casa es el que pensabas comprar.`,
+      `Comparamos 4 mancuernas reales de MercadoLibre Argentina y verificamos, una por una, qué declara su ficha técnica sobre peso, formato, material y reseñas de compradores. Apareció algo que conviene saber antes de comprar: **una de las cuatro se vende por unidad, no por par**, y es fácil pasarlo por alto si solo mirás la foto.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_750350-MLA114905526091_072026-O.webp", alt: `Kit de mancuernas con discos y barra conversora sobre el piso de un gimnasio en casa`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Si no querés leer toda la comparativa: el **[kit DeporAr de 25 kg](/producto/kit-de-mancuernas-deporar-25-kg-barra-con-tope-a-rosca-y-discos-pvc-mla35569367)** es el más elegido por lejos, con **{{reviews:MLA35569367}} opiniones**, casi cinco veces la segunda. La contra a saber antes de comprar: **con los discos más chicos, de 2,5 kg, no se arma un par parejo por debajo de 7,5 kg cada mancuerna**, según reporta un comprador.` },
+
+      { type: "callout", calloutVariant: "warning", calloutTitle: "Ojo con \"por unidad\" vs \"por par\"", content: `La **[mancuerna hexagonal High Performance](/producto/mancuerna-hexagonal-high-performance-10-kg-engomada-precio-por-unidad-mla43766711)** tiene la nota más alta de esta comparativa, {{rating:MLA43766711}}. Pero su publicación es **por una sola mancuerna, no por el par**: para entrenar con las dos manos hay que sumar dos unidades al carrito. Los otros tres productos de esta guía sí se venden como par o como kit completo.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** partimos del rubro de mancuernas de MercadoLibre Argentina y verificamos cada publicación en vivo el 2026-09-09: precio, stock, ficha técnica campo por campo y reseñas de compradores. Miramos especialmente cuatro campos que deciden la compra y que casi nadie destaca: **peso real**, **si es fija o ajustable**, **si se vende por unidad o por par**, y **material y recubrimiento**. Cuando un dato no está en la ficha, lo decimos en vez de estimarlo. Los precios se verifican automáticamente contra MercadoLibre.` },
+
+      { type: "h2", title: `Los cuatro datos que deciden la compra`, id: "que-mirar" },
+      { type: "p", content: `**Peso.** En esta comparativa va de 2 kg por unidad a 25 kg totales en un kit. Para arrancar o tonificar, 2 a 5 kg por mano alcanzan. Para entrenamiento de fuerza, de 7 kg por mano para arriba.` },
+      { type: "p", content: `**Fija o ajustable.** Una mancuerna fija rinde mejor en series intensas porque no tiene piezas que aflojar, pero necesitás varias para cubrir todo el rango de peso. Un kit ajustable ahorra espacio y plata a mediano plazo, a cambio de discos y topes que hay que armar según el ejercicio.` },
+      { type: "p", content: `**Por unidad o por par.** El dato que más confusión genera. De las cuatro de esta comparativa, tres se venden como par o kit completo, y una sola por unidad.` },
+      { type: "p", content: `**Material y recubrimiento.** Tres de las cuatro son de PVC con relleno de concreto o municición de acero; la cuarta es de hierro con recubrimiento de goma. El PVC amortigua más el golpe contra el piso; la goma sobre hierro aguanta mejor el uso intensivo.` },
+
+      { type: "h2", title: `Comparativa rápida: las 4 frente a frente`, id: "tabla-comparativa" },
+      { type: "table", headers: ["Modelo", "Peso", "Formato", "Venta", "Material", "Ideal para"], rows: [
+        ["[DeporAr](https://meli.la/PEGAR_MELI_LA)", "25 kg totales", "Ajustable + barra", "Kit completo", "PVC y municición de acero", "La mayoría: kit completo y con más respaldo"],
+        ["[BS Fit](https://meli.la/PEGAR_MELI_LA)", "20 kg totales", "Ajustable", "Kit completo", "PVC con concreto", "Tienda oficial y buen agarre"],
+        ["[High Performance](https://meli.la/PEGAR_MELI_LA)", "10 kg", "Fija", "Por unidad", "Hierro engomado", "Entrenamiento serio, peso fijo"],
+        ["[Fitnesas](https://meli.la/PEGAR_MELI_LA)", "2 kg c/u (4 kg el par)", "Fija", "Par", "Hierro y concreto, PVC", "Arrancar o tonificación"],
+      ] },
+      { type: "p", content: `El nombre de cada modelo lleva directo a su publicación en MercadoLibre. Abajo está el detalle de las cuatro, en el mismo orden: qué hace bien cada una y dónde se queda corta.` },
+
+      { type: "h2", title: `El ranking`, id: "ranking" },
+
+      { type: "h3", title: `1. Kit DeporAr 25 kg` },
+      { type: "product-card", productMlaId: "MLA35569367", label: "La más elegida", labelColor: "green", ranking: 1, description: "25 kg en discos con barra conversora a rosca: mancuernas separadas o barra completa. Es la más elegida de las cuatro, con {{reviews:MLA35569367}} opiniones." },
+      { type: "p", content: `Es el producto con más respaldo de esta comparativa y no está cerca: **{{reviews:MLA35569367}} opiniones**, casi cinco veces la segunda. Trae una barra conversora de 98 cm con tope a rosca, así que podés usar las mancuernas por separado o unirlas para ejercicios de dos manos. Suma 25 kg en discos, el mayor peso total del grupo.` },
+      { type: "pull-quote", content: `"Me pareció genial xq se puede agregar más peso aunque para algunos ejercicios es medio difícil ya q con las barras no son cómodas x eso no le doy un 10."`, attribution: `Comprador del kit DeporAr, calificación 4/5` },
+      { type: "p", content: `La contra real, y la dice otro comprador con números: **"al traer solo 2 pesas de 2,5 kilos resulta imposible armar dos mancuernas con pesos iguales. La única opción es que sea de 7,5 kilos"**. Si buscás arrancar liviano con un par parejo de menos de 7,5 kg cada una, este kit no te alcanza tal cual viene.` },
+
+      { type: "h3", title: `2. Kit ajustable BS Fit 20 kg` },
+      { type: "product-card", productMlaId: "MLA44965610", label: "La ajustable", labelColor: "blue", ranking: 2, description: "20 kg en discos, vendido directo por la tienda oficial de BS Fit. {{rating:MLA44965610}} de promedio con {{reviews:MLA44965610}} opiniones." },
+      { type: "p", content: `Es el único kit de esta comparativa vendido **directo por la tienda oficial de la marca**, con sello MercadoLíder Platinum. Las mancuernas se conectan mediante barras roscadas para armar la combinación de peso que necesites, con agarre moleteado antideslizante.` },
+      { type: "pull-quote", content: `"El kit está muy bien! es bueno el material, las roscas tienen buen agarre, a veces se afloja un poquito alguna pero ni cerca de salirse."`, attribution: `Compradora del kit BS Fit, calificación 5/5` },
+      { type: "p", content: `Esa es la contra que hay que saber: **las roscas se aflojan un poco con el uso**, aunque ninguna compradora reporta que lleguen a soltarse del todo. Conviene revisar el ajuste antes de cada serie, sobre todo si entrenás con impulso.` },
+
+      { type: "h3", title: `3. Mancuerna hexagonal High Performance 10 kg` },
+      { type: "product-card", productMlaId: "MLA43766711", label: "La mejor calificada", labelColor: "purple", ranking: 3, description: "Fija, hexagonal y engomada. La nota más alta de esta comparativa, {{rating:MLA43766711}}, pero se vende por unidad." },
+      { type: "p", content: `Tiene la **nota más alta de esta comparativa**, {{rating:MLA43766711}} sobre {{reviews:MLA43766711}} opiniones. Es fija (no ajustable), de forma hexagonal para que no ruede por el piso, con recubrimiento de goma que amortigua el golpe. El mismo diseño está disponible de 2,5 a 35 kg en la misma publicación.` },
+      { type: "pull-quote", content: `"Están lindas se ven de buena calidad lo único las pedii de 3kg una pesa 2;779 y la otra 2;780 no llegan a los 3kg también vino súper aceitosa."`, attribution: `Compradora de la variante de 3 kg, calificación 5/5` },
+      { type: "p", content: `La aclaración que hay que hacer sí o sí: **se vende por unidad, no por par**. Para entrenar con las dos manos hay que sumar dos unidades del mismo peso (o de pesos distintos) al carrito, algo que la foto de la publicación no deja claro a simple vista.` },
+
+      { type: "h3", title: `4. Par de mancuernas Fitnesas 2 kg` },
+      { type: "product-card", productMlaId: "MLA35253570", label: "La más barata", labelColor: "slate", ranking: 4, description: "2 kg cada una, recubiertas en PVC. La opción más económica de esta comparativa, pensada para arrancar o tonificación." },
+      { type: "p", content: `Es **la más barata de las cuatro por lejos**. Con 2 kg cada una, vienen selladas herméticamente (no hay que rellenarlas) y con mango ergonómico antideslizante. Es la puerta de entrada obvia si nunca entrenaste con pesas.` },
+      { type: "pull-quote", content: `"Hacen un poco de ruido, como si tuvieran piedritas sueltas adentro, y se abollan un poco en las puntas pero fuera de eso cumplen bien su función."`, attribution: `Comprador del par Fitnesas, calificación 4/5` },
+      { type: "p", content: `Esa es la contra real: algo de ruido interno y abolladuras leves en las puntas con el uso, sin que eso afecte su función según quien lo reporta. Para entrenamiento de fuerza serio, 2 kg por mano se queda corto: para eso conviene la mancuerna hexagonal de esta misma comparativa.` },
+
+      { type: "h2", title: `Cómo elegir tus mancuernas`, id: "como-elegir" },
+      { type: "h3", title: `1. Definí primero si querés fija o ajustable` },
+      { type: "p", content: `Fija rinde mejor en series intensas porque no tiene piezas que aflojar, pero necesitás varias para cubrir el rango de peso completo. Ajustable ahorra espacio y plata a mediano plazo, a cambio de armar la combinación de discos en cada cambio de ejercicio.` },
+      { type: "h3", title: `2. Leé bien si es por unidad o por par` },
+      { type: "p", content: `De las cuatro de esta comparativa, la única que se vende por unidad es la High Performance. Las otras tres son kit completo o par. Si no lo confirmás antes de comprar, podés terminar con una sola mancuerna en la puerta de tu casa.` },
+      { type: "h3", title: `3. Calculá el peso real que necesitás, no el que "suena bien"` },
+      { type: "p", content: `Para tonificación o arrancar, 2 a 5 kg por mano alcanzan. Para fuerza, de 7 kg para arriba. Con los kits ajustables de esta guía, fijate el peso mínimo real que se puede armar con los discos más chicos: en el DeporAr, por ejemplo, el mínimo para un par parejo es 7,5 kg cada mancuerna.` },
+
+      { type: "h2", title: `Cuánto cuestan las mancuernas en Argentina`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de {{precio:MLA35253570:k}}:** el [par de Fitnesas de 2 kg](https://meli.la/PEGAR_MELI_LA), la opción más barata para arrancar.`,
+        `**Alrededor de {{precio:MLA43766711:k}} a {{precio:MLA44965610:k}}:** la [mancuerna hexagonal High Performance](https://meli.la/PEGAR_MELI_LA) (por unidad) y el [kit ajustable BS Fit](https://meli.la/PEGAR_MELI_LA).`,
+        `**Alrededor de {{precio:MLA35569367:k}}:** el [kit DeporAr](https://meli.la/PEGAR_MELI_LA), el de mayor peso total y más elegido de la comparativa.`,
+      ] },
+
+      { type: "verdict", content: `Para la mayoría, el **kit DeporAr de 25 kg**: trae mancuernas y barra conversora en un solo producto, y es el más elegido por lejos. Compralo sabiendo que **con los discos chicos no se arma un par parejo por debajo de 7,5 kg cada mancuerna**. Si estás empezando o buscás algo liviano, el **par de Fitnesas de 2 kg**, el más económico. Si entrenás en serio y preferís peso fijo, la **mancuerna hexagonal High Performance**, la mejor calificada, con la salvedad de que **se vende por unidad, no por par**. Y si querés el respaldo de una tienda oficial, el **kit ajustable BS Fit**, sabiendo que las roscas se aflojan un poco con el uso.` },
+
+      { type: "h2", title: `Preguntas frecuentes`, id: "faq" },
+    ],
+    faq: [
+      { question: `¿Cuáles son las mejores mancuernas en Argentina?`, answer: `Por respaldo de compradores, el [kit DeporAr de 25 kg](/producto/kit-de-mancuernas-deporar-25-kg-barra-con-tope-a-rosca-y-discos-pvc-mla35569367): tiene {{reviews:MLA35569367}} opiniones con {{rating:MLA35569367}} de promedio, casi cinco veces la segunda de esta comparativa. Trae mancuernas y barra conversora en un solo producto. Su contra: con los discos chicos no arma un par parejo por debajo de 7,5 kg cada mancuerna.` },
+      { question: `¿Conviene mancuerna fija o ajustable?`, answer: `Depende de cómo entrenás. La fija rinde mejor en series intensas porque no tiene piezas que aflojar, pero necesitás varias para cubrir todo el rango de peso. La ajustable ahorra espacio y plata a mediano plazo, a cambio de armar la combinación de discos en cada cambio de ejercicio.` },
+      { question: `¿Las mancuernas se venden por par o por unidad?`, answer: `Depende de la publicación. En esta comparativa, tres de las cuatro se venden como par o kit completo (DeporAr, BS Fit, Fitnesas), y una sola por unidad (High Performance): para entrenar con las dos manos hay que sumar dos unidades al carrito.` },
+      { question: `¿Cuánto peso necesito para arrancar?`, answer: `Para tonificación o para quien recién empieza, 2 a 5 kg por mano alcanzan, como el par de Fitnesas de esta guía. Para entrenamiento de fuerza, conviene ir de 7 kg por mano para arriba.` },
+      { question: `¿El peso real coincide con el declarado?`, answer: `En general sí, con un margen chico. Una compradora de la mancuerna hexagonal High Performance en su variante de 3 kg reportó un faltante mínimo (2,779 y 2,780 kg en vez de 3 kg), algo propio de este tipo de fundición.` },
+      { question: `¿Qué material aguanta mejor el uso diario?`, answer: `El recubrimiento de goma sobre hierro (como la High Performance de esta guía) aguanta mejor el uso intensivo. El PVC con relleno de concreto, presente en las otras tres, amortigua más el golpe contra el piso pero se abolla un poco con el tiempo, según reportan compradores.` },
+    ],
+    internalLinks: [
+      { label: "Balanza digital: cuál comprar", href: "/guias/salud-bienestar/balanza-digital" },
+      { label: "Masajeador de espalda y lumbar: cuál sirve para tu dolor", href: "/guias/masajeador-espalda" },
+      { label: "Bordeadora eléctrica: cuál comprar", href: "/guias/hogar-jardin/bordeadora-electrica" },
+    ],
+    internalLinksTitle: "Más para entrenar y cuidarte en casa",
+  },
 ];
 
 /**
@@ -31416,6 +31529,18 @@ export const guideSilos: Record<string, { name: string; description: string }> =
   marcas: {
     name: "Marcas",
     description: "¿Es buena la marca X? Analizamos el catálogo completo de cada marca con datos reales de MercadoLibre, categoría por categoría.",
+  },
+  fitness: {
+    name: "Fitness",
+    description: "Equipamiento para entrenar en casa: mancuernas, bicicletas fijas y accesorios de cardio, con precio real de MercadoLibre.",
+  },
+  mascotas: {
+    name: "Mascotas",
+    description: "Productos para perros y gatos, comparados con precio real de MercadoLibre.",
+  },
+  bebes: {
+    name: "Bebés",
+    description: "Cochecitos, corralitos y artículos de paseo para bebés, comparados con precio real de MercadoLibre.",
   },
 };
 

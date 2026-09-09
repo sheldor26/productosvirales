@@ -320,4 +320,64 @@ export const categories: Category[] = [
       </ul>
     `,
   },
+  {
+    slug: "fitness",
+    name: "Fitness",
+    icon: "Dumbbell",
+    pastel: "var(--color-pastel-green)",
+    h1: "Fitness: Equipamiento para Entrenar en Casa",
+    description: "Mancuernas, bicicletas fijas y accesorios de entrenamiento, comparados con precio real de MercadoLibre",
+    buyersGuide: `
+      <h2>Qué vas a encontrar en esta categoría</h2>
+      <p>Equipamiento para entrenar en casa sin depender del gimnasio: mancuernas fijas y ajustables, bicicletas fijas y accesorios de cardio. Comparamos productos reales de MercadoLibre Argentina por precio, respaldo de reseñas y specs verificadas, no por lo que promete el título del vendedor.</p>
+
+      <h2>Qué mirar antes de comprar</h2>
+      <ul>
+        <li><strong>Peso real declarado:</strong> en mancuernas rellenas de cemento, varios compradores reportan que el peso final no coincide exacto con lo anunciado. Es normal un margen chico, pero conviene saberlo antes.</li>
+        <li><strong>Ajustable vs fija:</strong> un kit ajustable ahorra espacio y sirve para progresar de a poco; una mancuerna fija rinde mejor en ejercicios intensos pero necesitás varios pares para cubrir todo el rango de peso.</li>
+        <li><strong>Peso máximo soportado (bicicletas fijas):</strong> varía bastante entre modelos. Confirmalo antes de comprar si estás cerca del límite declarado.</li>
+        <li><strong>Respaldo de reseñas:</strong> un rating alto con pocas opiniones no es lo mismo que un rating sostenido por cientos o miles de compradores reales.</li>
+      </ul>
+    `,
+  },
+  {
+    slug: "mascotas",
+    name: "Mascotas",
+    icon: "PawPrint",
+    pastel: "var(--color-pastel-amber)",
+    h1: "Mascotas: Productos para Perros y Gatos",
+    description: "Rascadores, accesorios y equipamiento para mascotas, comparados con precio real de MercadoLibre",
+    buyersGuide: `
+      <h2>Qué vas a encontrar en esta categoría</h2>
+      <p>Productos pensados para perros y gatos: rascadores, torres y accesorios de estética e higiene. Comparamos publicaciones reales de MercadoLibre Argentina por precio, respaldo de reseñas y materiales declarados, no por lo que promete el título del vendedor.</p>
+
+      <h2>Qué mirar antes de comprar</h2>
+      <ul>
+        <li><strong>Material del rascador:</strong> sisal (cuerda trenzada) dura más que cartón corrugado, pero cuesta más. El cartón se gasta rápido con un gato adulto que rasca fuerte.</li>
+        <li><strong>Estabilidad y peso de la base:</strong> los rascadores livianos se corren o se caen con gatos grandes. Revisá el peso declarado en la ficha, no solo el diseño.</li>
+        <li><strong>Tamaño real:</strong> las fotos engañan con la escala. Leé siempre las medidas en la descripción antes de comprar.</li>
+        <li><strong>Respaldo de reseñas:</strong> un rating alto con pocas opiniones no es lo mismo que un rating sostenido por cientos o miles de compradores reales.</li>
+      </ul>
+    `,
+  },
+  {
+    slug: "bebes",
+    name: "Bebés",
+    icon: "Baby",
+    pastel: "var(--color-pastel-pink)",
+    h1: "Bebés: Cochecitos, Corralitos y Paseo",
+    description: "Cochecitos, corralitos y artículos de paseo para bebés, comparados con precio real de MercadoLibre",
+    buyersGuide: `
+      <h2>Qué vas a encontrar en esta categoría</h2>
+      <p>Cochecitos de paseo y corralitos, los dos artículos de mayor ticket en la etapa de bebé. Comparamos publicaciones reales de MercadoLibre Argentina por precio, respaldo de reseñas y specs de seguridad declaradas, no por lo que promete el título del vendedor.</p>
+
+      <h2>Qué mirar antes de comprar</h2>
+      <ul>
+        <li><strong>Peso máximo y edad recomendada:</strong> la ficha técnica de MercadoLibre suele declarar el dato real; confirmalo siempre ahí, no solo en el título.</li>
+        <li><strong>Sistema de plegado (cochecitos):</strong> un plegado de una sola mano importa mucho en el uso diario. Varios compradores lo mencionan en las reseñas cuando falla.</li>
+        <li><strong>Certificación de seguridad:</strong> revisá que la ficha declare normas de seguridad para el producto, sobre todo en corralitos con red o barrotes.</li>
+        <li><strong>Respaldo de reseñas:</strong> un rating alto con pocas opiniones no es lo mismo que un rating sostenido por cientos o miles de compradores reales, más relevante todavía en productos de seguridad de un bebé.</li>
+      </ul>
+    `,
+  },
 ];

@@ -83807,7 +83807,7 @@ Es el más caro de esta guía y el único con rodillos shiatsu de verdad en form
     description: "Bordeadora de 1.500 W con corte de 28 cm, eje recto y 85 dB declarados. Es la más elegida de esta comparativa por lejos: {{reviews:MLA9096807}} opiniones con {{rating:MLA9096807}} de promedio.",
     seoTitle: "Tramontina 1500 W: {{reviews:MLA9096807}} opiniones y corte de 28 cm",
     metaDescription: "Bordeadora Tramontina de 1.500 W y corte de 28 cm, con {{reviews:MLA9096807}} opiniones y {{rating:MLA9096807}} estrellas. Más potente y más barata que varios modelos de menor potencia.",
-    verdict: "Es la bordeadora con más respaldo de esta comparativa por una diferencia enorme: **{{reviews:MLA9096807}} opiniones**, más de cinco veces la segunda. Y el dato que descoloca: con 1.500 W es la más potente del grupo y aun así sale menos que dos modelos de menor potencia. Suma dos cosas que se agradecen en el uso real: **85 dB**, once menos que las Gamma, y alimentación de tanza automática **y** manual. La contra concreta la ponen los propios compradores: **no trae arnés**, y en un equipo de casi 3 kg con eje recto eso se siente al rato.",
+    verdict: "Es la bordeadora con más respaldo de esta comparativa por una diferencia enorme: **{{reviews:MLA9096807}} opiniones**, casi cuatro veces la segunda. Y el dato que descoloca: con 1.500 W es la más potente del grupo y aun así sale menos que dos modelos de menor potencia. Suma dos cosas que se agradecen en el uso real: **85 dB**, once menos que las Gamma, y alimentación de tanza automática **y** manual. La contra concreta la ponen los propios compradores: **no trae arnés**, y en un equipo de casi 3 kg con eje recto eso se siente al rato.",
     pros: [
       "La más potente de esta comparativa con 1.500 W",
       "{{reviews:MLA9096807}} opiniones con {{rating:MLA9096807}} de promedio: el respaldo más grande del grupo por lejos",
@@ -83835,7 +83835,7 @@ Es la bordeadora con más respaldo de [nuestra comparativa de bordeadoras eléct
 
 ## El respaldo más grande del grupo, y la más potente pese a ser de las más baratas
 
-Con {{reviews:MLA9096807}} opiniones tiene más de cinco veces el respaldo de la segunda de esta comparativa. Y el dato que descoloca: con 1.500 W es la más potente del grupo y aun así sale menos que dos modelos de menor potencia.
+Con {{reviews:MLA9096807}} opiniones tiene casi cuatro veces el respaldo de la segunda de esta comparativa. Y el dato que descoloca: con 1.500 W es la más potente del grupo y aun así sale menos que dos modelos de menor potencia.
 
 ## 85 dB y alimentación de tanza automática y manual
 
@@ -83860,7 +83860,7 @@ Es la bordeadora con más respaldo de esta comparativa por una diferencia enorme
       { question: "¿Trae arnés incluido?", answer: "No, su ficha declara \"Incluye accesorios: No\" y los compradores lo confirman. Con casi 3 kg de eje recto, se nota al rato de trabajo sin uno." },
       { question: "¿Es ruidosa?", answer: "Declara 85 dB, la más silenciosa de las tres bordeadoras de esta comparativa que publican ese dato, once decibeles menos que las Gamma." },
       { question: "¿Cómo se saca la tanza?", answer: "De las dos formas: automática y manual. Una compradora lo destaca como uno de los puntos más prácticos del equipo." },
-      { question: "¿Por qué es la más elegida de la comparativa?", answer: "Combina la mayor potencia del grupo (1.500 W) con un precio menor al de dos modelos de menos potencia, y acumula más de cinco veces el respaldo de reseñas del segundo modelo más reseñado." },
+      { question: "¿Por qué es la más elegida de la comparativa?", answer: "Combina la mayor potencia del grupo (1.500 W) con un precio menor al de dos modelos de menos potencia, y acumula casi cuatro veces el respaldo de reseñas del segundo modelo más reseñado." },
       { question: "¿Es pesada?", answer: "No, con 2,62 kg es liviana para la potencia que entrega, aunque un comprador avisa que se siente el peso con el tiempo de uso." },
       { question: "¿Es inalámbrica?", answer: "No, va con cable a 220V. Si necesitás una sin cable, la Daewoo de esta misma comparativa es la única opción inalámbrica del grupo." },
     ],
@@ -93121,6 +93121,390 @@ Para quien prioriza una marca internacional reconocida y no le importa pagar bas
       { question: "¿Es fácil de limpiar?", answer: "Sí, varias reseñas destacan que no se pega nada y que no salpica durante la cocción normal." },
       { question: "¿Qué capacidad tiene?", answer: "2,2 litros (12 tazas), según su ficha técnica." },
       { question: "¿Trae garantía?", answer: "La ficha de MercadoLibre no detalla el plazo de garantía de fábrica de este modelo puntual; confirmalo en la publicación antes de comprar." },
+    ],
+  },
+  // Guía nueva mancuernas — silo/categoría fitness (sourcing MercadoLibre 2026-09-09).
+  // Los 4 con stock verificado en vivo el mismo día.
+  {
+    id: "MLA35569367",
+    title: "Kit de Mancuernas DeporAr 25 kg — Barra con Tope a Rosca y Discos PVC",
+    canonicalName: "DeporAr Kit Mancuernas y Conversor 20",
+    brand: "DeporAr",
+    mpn: "Kit Mancuernas y Conversor 20",
+    price: 102809,
+    originalPrice: 211978,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_750350-MLA114905526091_072026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_750350-MLA114905526091_072026-O.webp",
+    ],
+    category: "Fitness",
+    categorySlug: "fitness",
+    permalink: "https://www.mercadolibre.com.ar/kit-mancuernas-y-barra-con-tope-a-rosca-25-kg-discos-pvc/p/MLA35569367",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 8467,
+    badge: "bestseller",
+    pastelColor: "var(--pastel-green)",
+    specs: [
+      { label: "Marca", value: "DeporAr" },
+      { label: "Modelo", value: "Kit Mancuernas y Conversor 20" },
+      { label: "Peso total", value: "25 kg en discos" },
+      { label: "Formato", value: "2 mancuernas + barra conversora, para usarlas separadas o unidas" },
+      { label: "Largo de la barra conversora", value: "98 cm" },
+      { label: "Es ajustable", value: "Sí, por combinación de discos" },
+      { label: "Material de los discos", value: "PVC con relleno de concreto y munición de acero" },
+      { label: "Con identificador de peso", value: "Sí" },
+      { label: "Forma de los discos", value: "Redonda" },
+      { label: "Mango", value: "Ergonómico y antideslizante" },
+      { label: "Tope de sujeción", value: "A rosca" },
+      { label: "Color", value: "Negro" },
+      { label: "Formato de venta", value: "Pack" },
+      { label: "Unidades por pack", value: "2 mancuernas + barra + discos" },
+      { label: "Envío", value: "Gratis" },
+    ],
+    relatedProducts: ["MLA44965610", "MLA35253570", "MLA43766711"],
+    priceUpdated: "2026-09-09", priceLastChecked: "2026-09-09", priceVerifiedAt: "2026-09-09",
+    priceStatus: "fresh", reviewsSampledAt: "2026-09-09",
+    description: "Kit de 25 kg en discos con barra conversora a rosca: armá dos mancuernas independientes o una barra completa. Es el más elegido de esta comparativa con {{reviews:MLA35569367}} opiniones y {{rating:MLA35569367}} de promedio.",
+    seoTitle: "Kit de Mancuernas DeporAr 25 kg: {{reviews:MLA35569367}} opiniones y barra conversora",
+    metaDescription: "Kit de mancuernas DeporAr de 25 kg con barra conversora a rosca, {{reviews:MLA35569367}} opiniones y {{rating:MLA35569367}} estrellas. El más elegido de esta comparativa por lejos.",
+    verdict: "Es el kit con más respaldo de esta comparativa por una diferencia enorme: **{{reviews:MLA35569367}} opiniones**, casi cinco veces la segunda. Cubre dos formatos en un solo producto (mancuernas separadas o barra completa) y trae 25 kg en discos para ir progresando. La contra real, y la dicen los propios compradores: **con los discos de 2,5 kg más chicos, es imposible armar dos mancuernas de igual peso por debajo de los 7,5 kg cada una**, así que para arrancar liviano no es la mejor opción.",
+    pros: [
+      "El más elegido de esta comparativa por lejos: {{reviews:MLA35569367}} opiniones con {{rating:MLA35569367}} de promedio",
+      "2 en 1: mancuernas independientes o barra completa con el conversor",
+      "25 kg en discos, con margen para progresar sin comprar de nuevo",
+      "Topes a rosca, más seguros que los de presión al mover peso",
+      "Envío gratis",
+    ],
+    cons: [
+      "Con los discos más chicos (2,5 kg) no se puede armar un par de mancuernas parejas por debajo de 7,5 kg cada una, según reporta un comprador",
+      "Un comprador señala que la barra no es cómoda para todos los ejercicios",
+      "Formato de venta Pack: hay que armar y desarmar el conversor según el ejercicio",
+      "No declara si el mango tiene recubrimiento antideslizante más allá del moleteado de fábrica",
+    ],
+    customerReviews: [
+      { rating: 4, country: "Argentina", text: "Se puede decir que por el precio está bien. Al traer solo 2 pesas de 2,5 kilos resulta imposible armar dos mancuernas con pesos iguales. La única opción es que sea de 7,5 kilos. Arrancar con 10 kilos por mancuerna si querés que las dos pesen lo mismo." },
+      { rating: 4, country: "Argentina", text: "Me pareció genial xq se puede agregar más peso aunque para algunos ejercicios es medio difícil ya q con las barras no son cómodas x eso no le doy un 10." },
+      { rating: 5, country: "Argentina", text: "Exelente chicos sería bueno que venda discos solos cosa de poder completar el peso que uno quiera sin comprar todo el kit de nuevo." },
+    ],
+    articleBody: `## Qué es el kit de mancuernas DeporAr 25 kg
+
+Es el kit con más respaldo de [nuestra comparativa de mancuernas en Argentina](/guias/fitness/mancuernas), por una diferencia enorme. Cuesta {{precio:MLA35569367}} y tiene {{reviews:MLA35569367}} calificaciones con {{rating:MLA35569367}} estrellas en MercadoLibre Argentina.
+
+## Dos formatos en un solo producto
+
+Trae una barra conversora de 98 cm con tope a rosca: podés usar las dos mancuernas por separado para trabajar cada brazo, o unirlas con la barra para ejercicios de dos manos como el press de banca casero. Los 25 kg de discos se reparten entre las dos configuraciones según el ejercicio.
+
+## El respaldo más grande de esta comparativa
+
+Con {{reviews:MLA35569367}} opiniones tiene casi cinco veces el respaldo del segundo modelo más reseñado de esta comparativa. Es, por lejos, el kit que más gente ya probó y calificó.
+
+## La contra real: los discos chicos no alcanzan para un par parejo
+
+Esta es la advertencia honesta antes de comprar. Un comprador lo explica con números: "al traer solo 2 pesas de 2,5 kilos resulta imposible armar dos mancuernas con pesos iguales. La única opción es que sea de 7,5 kilos." Si buscás arrancar liviano con un par parejo de menos de 7,5 kg cada una, este kit no te alcanza tal cual viene.
+
+## Para quién es, y para quién no
+
+Es para vos si querés progresar de a poco desde un peso medio-alto (7,5 kg por mancuerna para arriba) y valorás poder armar una barra completa para algunos ejercicios. No es para vos si buscás un par liviano y parejo para arrancar: para eso conviene el [par de Fitnesas de 2 kg](/producto/par-de-mancuernas-fitnesas-2-kg-recubiertas-en-pvc-mla35253570) de esta misma comparativa.
+
+## El veredicto
+
+Es el kit con más respaldo de esta comparativa por lejos, y su combo de mancuernas + barra conversora es genuinamente versátil. La contra que hay que saber antes de comprar: con los discos más chicos no se arma un par parejo de menos de 7,5 kg cada una.`,
+    faq: [
+      { question: "¿Se puede armar un par de mancuernas de menos de 5 kg cada una?", answer: "No de forma pareja. Un comprador explica que los discos más chicos son de 2,5 kg, así que el mínimo para dos mancuernas con el mismo peso es 7,5 kg cada una." },
+      { question: "¿Sirve como barra completa además de mancuernas?", answer: "Sí, la barra conversora de 98 cm permite unir las dos mancuernas para ejercicios de dos manos, además de usarlas por separado." },
+      { question: "¿Por qué es la más elegida de esta comparativa?", answer: "Tiene {{reviews:MLA35569367}} opiniones, casi cinco veces el respaldo del segundo modelo más reseñado de este grupo." },
+      { question: "¿Los topes son seguros?", answer: "Sí, son a rosca, que sujeta mejor que los topes a presión cuando movés peso con impulso." },
+      { question: "¿Trae envío gratis?", answer: "Sí, según la publicación verificada." },
+      { question: "¿Cuánto peso total incluye?", answer: "25 kg en discos, repartidos según cómo armes las mancuernas o la barra." },
+    ],
+  },
+  {
+    id: "MLA44965610",
+    title: "Kit de Mancuernas Ajustables BS Fit 20 kg — Con Discos y Barra",
+    canonicalName: "BS Fit KIT-20 LOCALMANC",
+    brand: "BS Fit",
+    mpn: "KIT-20 LOCALMANC.",
+    price: 64999,
+    originalPrice: 99999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_695893-MLA95966779103_102025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_695893-MLA95966779103_102025-O.webp",
+    ],
+    category: "Fitness",
+    categorySlug: "fitness",
+    permalink: "https://www.mercadolibre.com.ar/kit-de-mancuernas-ajustables-bs-fit-de-20-kg-con-discos-y-barra/p/MLA44965610",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 1502,
+    badge: "bestseller",
+    pastelColor: "var(--pastel-blue)",
+    specs: [
+      { label: "Marca", value: "BS Fit" },
+      { label: "Modelo", value: "KIT-20 LOCALMANC." },
+      { label: "Peso total", value: "20 kg en discos" },
+      { label: "Es ajustable", value: "Sí" },
+      { label: "Prolongador", value: "1 de 40 cm, para unir las dos mancuernas" },
+      { label: "Material de los discos", value: "PVC con interior de concreto" },
+      { label: "Con identificador de peso", value: "Sí" },
+      { label: "Forma de los discos", value: "Redonda" },
+      { label: "Mango", value: "Ergonómico y antideslizante, agarre moleteado" },
+      { label: "Tope de sujeción", value: "A rosca" },
+      { label: "Diámetro del agujero de los discos", value: "30 mm" },
+      { label: "Color", value: "Negro" },
+      { label: "Formato de venta", value: "Pack" },
+      { label: "Unidades por pack", value: "2" },
+      { label: "Vendedor", value: "Tienda oficial de MercadoLibre, MercadoLíder Platinum" },
+    ],
+    relatedProducts: ["MLA35569367", "MLA35253570", "MLA43766711"],
+    priceUpdated: "2026-09-09", priceLastChecked: "2026-09-09", priceVerifiedAt: "2026-09-09",
+    priceStatus: "fresh", reviewsSampledAt: "2026-09-09",
+    description: "Kit ajustable de 20 kg con discos y barra, vendido por la tienda oficial de BS Fit en MercadoLibre. Tiene {{reviews:MLA44965610}} calificaciones con {{rating:MLA44965610}} de promedio.",
+    seoTitle: "Kit de Mancuernas Ajustables BS Fit 20 kg: {{reviews:MLA44965610}} opiniones",
+    metaDescription: "Kit de mancuernas ajustables BS Fit de 20 kg con discos y barra, {{reviews:MLA44965610}} opiniones y {{rating:MLA44965610}} estrellas. Vendido por tienda oficial en MercadoLibre.",
+    verdict: "Es un kit ajustable vendido directo por la **tienda oficial de BS Fit** (MercadoLíder Platinum). Con **{{reviews:MLA44965610}} opiniones** y {{rating:MLA44965610}} de promedio, es de los mejor calificados del grupo. La contra que mencionan varios compradores: las roscas a veces se aflojan un poco durante el uso, aunque ninguno reporta que lleguen a soltarse.",
+    pros: [
+      "Vendido por la tienda oficial de BS Fit en MercadoLibre, MercadoLíder Platinum",
+      "{{reviews:MLA44965610}} opiniones con {{rating:MLA44965610}} de promedio",
+      "Ajustable: combina discos para ir subiendo de peso",
+      "Agarre moleteado antideslizante",
+      "20 kg en discos, buen rango para arrancar y progresar",
+    ],
+    cons: [
+      "Las roscas se aflojan un poco con el uso, según una compradora, aunque aclara que no llegan a soltarse",
+      "El prolongador es de 40 cm, corto para algunos ejercicios de cuerpo completo",
+      "Material de los discos es plástico (PVC) con relleno, no hierro macizo",
+      "No declara el diámetro exacto del mango",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", text: "El kit está muy bien! es bueno el material, las roscas tienen buen agarre, a veces se afloja un poquito alguna pero ni cerca de salirse, la barra funciona bien para varios ejercicios a pesar de no ser tan larga. Lo compré para mi entrenamiento post parto, lo vengo usando y la verdad resultó muy bien!." },
+      { rating: 5, country: "Argentina", text: "Muy buen producto! doble funcion, para los que no tenemos tiempo de ir al gym, lo hacemos de desde casa." },
+      { rating: 5, country: "Argentina", text: "Es muy comodo y de peso agradable/ajustable." },
+    ],
+    articleBody: `## Qué es el kit de mancuernas ajustables BS Fit
+
+Es un kit de 20 kg en discos con barra, vendido directo por la tienda oficial de BS Fit en [nuestra comparativa de mancuernas en Argentina](/guias/fitness/mancuernas). Cuesta {{precio:MLA44965610}} y tiene {{reviews:MLA44965610}} calificaciones con {{rating:MLA44965610}} estrellas.
+
+## Ajustable y con buen agarre
+
+Las mancuernas se conectan mediante barras roscadas para convertirse en pesas ajustables: vas sumando discos según el ejercicio. El mango tiene agarre moleteado antideslizante, algo que varias compradoras destacan al usarlo en rutinas de brazos y hombros.
+
+## Vendido por la tienda oficial
+
+A diferencia de otros kits de esta comparativa, este lo vende directamente la tienda oficial de BS Fit en MercadoLibre, con sello MercadoLíder Platinum. Eso da un respaldo de postventa distinto a comprarle a un vendedor sin tienda propia.
+
+## La contra: las roscas se aflojan un poco
+
+Esta es la advertencia honesta antes de comprar. Una compradora lo cuenta con precisión: "las roscas tienen buen agarre, a veces se afloja un poquito alguna pero ni cerca de salirse". No es un defecto que comprometa la seguridad según quien lo reporta, pero conviene revisar el ajuste antes de cada serie.
+
+## Para quién es, y para quién no
+
+Es para vos si querés un kit ajustable con respaldo de tienda oficial y no te molesta revisar las roscas de vez en cuando. No es para vos si buscás el kit con más peso total de esta comparativa: para eso, el [DeporAr de 25 kg](/producto/kit-de-mancuernas-deporar-25-kg-barra-con-tope-a-rosca-y-discos-pvc-mla35569367) suma 5 kg más.
+
+## El veredicto
+
+Es un kit ajustable con buen respaldo de reseñas y el plus de venir de la tienda oficial de BS Fit. La contra real: las roscas se aflojan un poco con el uso, aunque ningún comprador reporta que lleguen a soltarse del todo.`,
+    faq: [
+      { question: "¿Las roscas se aflojan?", answer: "Una compradora reporta que a veces se afloja un poquito alguna, aunque aclara que nunca llega a soltarse. Conviene revisar el ajuste antes de cada serie." },
+      { question: "¿Es de la tienda oficial de BS Fit?", answer: "Sí, esta publicación la vende directo la tienda oficial de BS Fit en MercadoLibre, con sello MercadoLíder Platinum." },
+      { question: "¿Cuánto peso trae?", answer: "20 kg en discos, que se reparten entre las dos mancuernas según cómo armes la combinación." },
+      { question: "¿El prolongador sirve para hacer barra completa?", answer: "Sí, es de 40 cm y une las dos mancuernas, aunque una compradora lo describe como corto para algunos ejercicios de cuerpo completo." },
+      { question: "¿Qué calificación tiene?", answer: "{{rating:MLA44965610}} de promedio con {{reviews:MLA44965610}} opiniones." },
+      { question: "¿De qué material son los discos?", answer: "PVC con interior de concreto, según la ficha técnica y la descripción del vendedor." },
+    ],
+  },
+  {
+    id: "MLA43766711",
+    title: "Mancuerna Hexagonal High Performance 10 kg — Engomada, Precio por Unidad",
+    canonicalName: "High Performance Mancuernas Hexagonales",
+    brand: "High Performance",
+    price: 62700,
+    originalPrice: 66000,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_982327-MLA114968560569_072026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_982327-MLA114968560569_072026-O.webp",
+    ],
+    category: "Fitness",
+    categorySlug: "fitness",
+    permalink: "https://www.mercadolibre.com.ar/mancuernas-hexagonales-engomada-10-kg-x-unidad-mancuerna-color-negro/p/MLA43766711",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.9,
+    reviewCount: 1716,
+    pastelColor: "var(--pastel-purple)",
+    specs: [
+      { label: "Marca", value: "High Performance" },
+      { label: "Peso", value: "10 kg" },
+      { label: "Formato de venta", value: "Por unidad, no por par — para un par hay que comprar dos publicaciones" },
+      { label: "Es ajustable", value: "No, peso fijo" },
+      { label: "Forma", value: "Hexagonal, no rueda por el piso" },
+      { label: "Material", value: "Metal (hierro) con recubrimiento de caucho" },
+      { label: "Con identificador de peso", value: "Sí" },
+      { label: "Con recubrimiento", value: "Sí, goma engomada" },
+      { label: "Mango ergonómico", value: "No declarado" },
+      { label: "Mango antideslizante", value: "Sí" },
+      { label: "Rango de pesos disponibles en la misma publicación", value: "De 2,5 a 35 kg, en escalones de 2,5 kg" },
+      { label: "Color", value: "Negro" },
+      { label: "Origen", value: "Importado, según declara el vendedor" },
+    ],
+    relatedProducts: ["MLA35569367", "MLA44965610", "MLA35253570"],
+    priceUpdated: "2026-09-09", priceLastChecked: "2026-09-09", priceVerifiedAt: "2026-09-09",
+    priceStatus: "fresh", reviewsSampledAt: "2026-09-09",
+    description: "Mancuerna hexagonal fija de 10 kg, engomada, vendida por unidad. Tiene {{reviews:MLA43766711}} calificaciones con {{rating:MLA43766711}} de promedio, la nota más alta de esta comparativa.",
+    seoTitle: "Mancuerna Hexagonal High Performance 10 kg: {{rating:MLA43766711}} de nota",
+    metaDescription: "Mancuerna hexagonal engomada de 10 kg, {{reviews:MLA43766711}} opiniones y {{rating:MLA43766711}} estrellas, la nota más alta de esta comparativa. Se vende por unidad, no por par.",
+    verdict: "Es la mancuerna **mejor calificada de esta comparativa**, con {{rating:MLA43766711}} sobre {{reviews:MLA43766711}} opiniones. Su forma hexagonal no rueda por el piso y el recubrimiento de goma protege el suelo. La aclaración que hay que hacer antes de comprar, porque genera confusión real: **se vende por unidad, no por par**, así que para entrenar con dos hay que agregar dos unidades al carrito.",
+    pros: [
+      "La nota más alta de esta comparativa: {{rating:MLA43766711}} sobre {{reviews:MLA43766711}} opiniones",
+      "Forma hexagonal: no rueda por el piso al dejarla",
+      "Recubrimiento de goma que protege el piso y amortigua el golpe",
+      "Mismo diseño disponible de 2,5 a 35 kg, para ir subiendo sin cambiar de marca",
+      "Peso fijo: rinde mejor que un ajustable en series intensas, sin piezas que aflojar",
+    ],
+    cons: [
+      "Se vende por unidad, no por par: hay que comprar dos publicaciones para entrenar con las dos manos",
+      "Un comprador de la variante de 3 kg reportó que el peso real no llegaba exacto al declarado, y que venía con exceso de aceite protector",
+      "No declara si el mango tiene forma ergonómica más allá del recubrimiento antideslizante",
+      "El diámetro del mango varía entre variantes de peso, según reporta un comprador que ya tenía otras mancuernas hexagonales",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", text: "Están lindas se ven de buena calidad lo único las pedii de 3kg una pesa 2;779 y la otra 2;780 no llegan a los 3kg también vino súper aceitosa quizás es normal soy principiante en estas tipo de compras." },
+      { rating: 5, country: "Argentina", text: "Excelentes las pesas! muy buena calidad. Las pedí en 6kg. A tener en cuenta que el mango es de un diámetro más ancho de otras pesas hexagonales de 6kg que ya tenía." },
+      { rating: 5, country: "Argentina", text: "Excelentes!!!." },
+    ],
+    articleBody: `## Qué es la mancuerna hexagonal High Performance
+
+Es una mancuerna fija engomada, con la nota más alta de [nuestra comparativa de mancuernas en Argentina](/guias/fitness/mancuernas). Esta publicación es de 10 kg y cuesta {{precio:MLA43766711}}, con {{reviews:MLA43766711}} calificaciones y {{rating:MLA43766711}} estrellas de promedio.
+
+## Se vende por unidad, no por par
+
+Esta es la aclaración más importante antes de comprar: el precio y la publicación son **por una sola mancuerna**, no por el par. El mismo diseño está disponible de 2,5 a 35 kg en escalones de 2,5 kg, así que podés armar el par que necesites sumando dos unidades del mismo peso o de pesos distintos según el ejercicio.
+
+## Forma hexagonal y recubrimiento de goma
+
+A diferencia de las mancuernas redondas, la forma hexagonal evita que ruede por el piso al soltarla, algo útil en ejercicios donde la dejás y volvés a tomarla. El recubrimiento de goma protege el piso y amortigua el golpe.
+
+## La nota más alta de la comparativa, con un matiz
+
+Con {{rating:MLA43766711}} sobre {{reviews:MLA43766711}} opiniones es la mejor calificada de este grupo. Dicho esto, una compradora de la variante de 3 kg avisa que el peso real no llegaba exacto al declarado ("2;779" y "2;780" en vez de 3.000 gramos) y que venía con exceso de aceite protector. Es un margen chico y probablemente normal para el tipo de fundición, pero conviene saberlo antes.
+
+## Para quién es, y para quién no
+
+Es para vos si entrenás en serio y preferís peso fijo antes que ajustable, o si ya tenés algunas mancuernas y querés sumar pesos puntuales. No es para vos si buscás comprar "el par" en una sola publicación: para eso, los kits de esta comparativa como el [DeporAr](/producto/kit-de-mancuernas-deporar-25-kg-barra-con-tope-a-rosca-y-discos-pvc-mla35569367) ya vienen armados de a dos.
+
+## El veredicto
+
+Es la mancuerna mejor calificada de esta comparativa, con forma hexagonal que no rueda y buen recubrimiento de goma. La aclaración que hay que hacer sí o sí antes de comprar: se vende por unidad, no por par.`,
+    faq: [
+      { question: "¿Esta publicación trae una mancuerna o el par?", answer: "Trae una sola mancuerna. Para entrenar con las dos manos hay que sumar dos unidades del mismo peso (o de pesos distintos) al carrito." },
+      { question: "¿Por qué es hexagonal y no redonda?", answer: "La forma hexagonal evita que la mancuerna ruede por el piso cuando la soltás, algo que sí pasa con las redondas." },
+      { question: "¿El peso real coincide con el declarado?", answer: "Una compradora de la variante de 3 kg reportó un faltante mínimo (2,779 y 2,780 kg en vez de 3 kg). Es un margen chico, propio de este tipo de fundición, pero conviene saberlo." },
+      { question: "¿Qué otros pesos hay disponibles?", answer: "El mismo diseño está disponible de 2,5 a 35 kg, en escalones de 2,5 kg, dentro de la misma publicación." },
+      { question: "¿Por qué tiene la nota más alta de la comparativa?", answer: "Tiene {{rating:MLA43766711}} de promedio sobre {{reviews:MLA43766711}} opiniones, la calificación más alta entre las cuatro mancuernas de esta guía." },
+      { question: "¿Protege el piso al apoyarla?", answer: "Sí, el recubrimiento de goma amortigua el golpe y protege tanto el piso como la mancuerna." },
+    ],
+  },
+  {
+    id: "MLA35253570",
+    title: "Par de Mancuernas Fitnesas 2 kg — Recubiertas en PVC",
+    canonicalName: "Fitnesas MANFIT10U-AR",
+    brand: "Fitnesas",
+    mpn: "MANFIT10U-AR",
+    price: 13500,
+    originalPrice: 29989,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_951537-MLA114810998404_082026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_951537-MLA114810998404_082026-O.webp",
+    ],
+    category: "Fitness",
+    categorySlug: "fitness",
+    permalink: "https://www.mercadolibre.com.ar/par-de-mancuernas-2kg-cu-pesas-recubiertas-entrenamiento-color-negro/p/MLA35253570",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new",
+    freeShipping: false,
+    rating: 4.8,
+    reviewCount: 1412,
+    pastelColor: "var(--pastel-slate)",
+    specs: [
+      { label: "Marca", value: "Fitnesas" },
+      { label: "Modelo", value: "MANFIT10U-AR" },
+      { label: "Peso", value: "2 kg cada una (4 kg el par)" },
+      { label: "Formato de venta", value: "Pack, precio por el par" },
+      { label: "Es ajustable", value: "No, peso fijo" },
+      { label: "Forma", value: "Hexagonal" },
+      { label: "Material", value: "Hierro y concreto" },
+      { label: "Con recubrimiento", value: "Sí, PVC" },
+      { label: "Con identificador de peso", value: "No" },
+      { label: "Mango ergonómico", value: "Sí" },
+      { label: "Mango antideslizante", value: "Sí" },
+      { label: "Largo", value: "22 cm" },
+      { label: "Color", value: "Negro (también disponible en rosa)" },
+      { label: "Relleno", value: "Granalla metálica y cemento, sellado herméticamente" },
+    ],
+    relatedProducts: ["MLA35569367", "MLA44965610", "MLA43766711"],
+    priceUpdated: "2026-09-09", priceLastChecked: "2026-09-09", priceVerifiedAt: "2026-09-09",
+    priceStatus: "fresh", reviewsSampledAt: "2026-09-09",
+    description: "Par de mancuernas fijas de 2 kg cada una, recubiertas en PVC. Es la más barata de esta comparativa, con {{reviews:MLA35253570}} calificaciones y {{rating:MLA35253570}} de promedio.",
+    seoTitle: "Par de Mancuernas Fitnesas 2 kg: la más barata, {{rating:MLA35253570}} de nota",
+    metaDescription: "Par de mancuernas Fitnesas de 2 kg cada una, recubiertas en PVC, {{reviews:MLA35253570}} opiniones y {{rating:MLA35253570}} estrellas. La opción más económica de esta comparativa.",
+    verdict: "Es la opción **más barata de esta comparativa** y la pensada para arrancar: un par de 2 kg cada una, livianas y con buen agarre. Compradores reales avisan de dos detalles menores: hacen **un poco de ruido interno**, como si tuvieran piedritas sueltas, y **se abollan un poco en las puntas** con el uso. Ninguno de los dos afecta su función según quien lo reporta.",
+    pros: [
+      "La más barata de esta comparativa por lejos",
+      "{{reviews:MLA35253570}} opiniones con {{rating:MLA35253570}} de promedio",
+      "Livianas: ideales para arrancar o para ejercicios de tonificación y cardio con peso",
+      "Selladas herméticamente, no hay que rellenarlas",
+      "Mango ergonómico y antideslizante",
+    ],
+    cons: [
+      "Hacen un poco de ruido interno, como piedritas sueltas, según un comprador de 4 estrellas",
+      "Se abollan un poco en las puntas con el uso, según el mismo comprador",
+      "2 kg por unidad es un peso bajo para entrenamiento de fuerza serio",
+      "No trae envío gratis en la publicación verificada",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", text: "Era la calidad exacta de lo que buscaba, son muy buenas!!!." },
+      { rating: 4, country: "Argentina", text: "Hacen un poco de ruido, como si tuvieran piedritas sueltas adentro, y se abollan un poco en las puntas pero fuera de eso cumplen bien su función." },
+      { rating: 5, country: "Argentina", text: "Son de buena calidad, no son las que tenes que rellenar." },
+    ],
+    articleBody: `## Qué es el par de mancuernas Fitnesas 2 kg
+
+Es un par de mancuernas fijas de 2 kg cada una, recubiertas en PVC, la opción más económica de [nuestra comparativa de mancuernas en Argentina](/guias/fitness/mancuernas). Cuesta {{precio:MLA35253570}} y tiene {{reviews:MLA35253570}} calificaciones con {{rating:MLA35253570}} estrellas.
+
+## Livianas y selladas, pensadas para arrancar
+
+Con 2 kg cada una, son mancuernas de entrada: sirven para tonificación, ejercicios de cardio con peso o para quien recién empieza a entrenar en casa. Vienen selladas herméticamente, así que no hay que rellenarlas como otros modelos genéricos del mercado.
+
+## Ruido interno y abolladuras leves: la contra real
+
+Esta es la advertencia honesta antes de comprar. Un comprador de 4 estrellas lo resume así: "hacen un poco de ruido, como si tuvieran piedritas sueltas adentro, y se abollan un poco en las puntas pero fuera de eso cumplen bien su función". No es un defecto que impida su uso, pero conviene saberlo para no sorprenderse.
+
+## La más barata de la comparativa
+
+Frente a los otros tres productos de esta guía, todos entre {{precio:MLA43766711:k}} y {{precio:MLA35569367:k}}, este par sale bastante menos. Es la puerta de entrada obvia si nunca entrenaste con pesas o si buscás algo liviano para sumar a rutinas de cardio.
+
+## Para quién es, y para quién no
+
+Es para vos si estás empezando, buscás algo liviano para tonificación o cardio, o querés gastar poco para probar si el entrenamiento con pesas te convence. No es para vos si ya entrenás fuerza en serio: para eso conviene mirar la [mancuerna hexagonal de 10 kg](/producto/mancuerna-hexagonal-high-performance-10-kg-engomada-precio-por-unidad-mla43766711) de esta misma comparativa.
+
+## El veredicto
+
+Es la opción más barata de esta comparativa y una buena puerta de entrada al entrenamiento con pesas en casa. La contra real, que reportan los propios compradores: hacen algo de ruido interno y se abollan un poco en las puntas, sin que eso afecte su función.`,
+    faq: [
+      { question: "¿Hacen ruido?", answer: "Sí, un comprador de 4 estrellas reporta que hacen un poco de ruido interno, como si tuvieran piedritas sueltas, aunque aclara que fuera de eso cumplen bien su función." },
+      { question: "¿Hay que rellenarlas?", answer: "No, vienen selladas herméticamente con granalla metálica y cemento adentro, según un comprador y la descripción del vendedor." },
+      { question: "¿Alcanzan 2 kg para entrenar en serio?", answer: "Para tonificación, cardio con peso o para arrancar, sí. Para entrenamiento de fuerza serio conviene un peso mayor, como la mancuerna hexagonal de 10 kg de esta misma comparativa." },
+      { question: "¿Por qué es la más barata de la comparativa?", answer: "Porque es la de menor peso (2 kg por unidad) y con menos accesorios que los kits ajustables de esta guía, que traen barra y discos." },
+      { question: "¿Vienen en otros colores?", answer: "Sí, además de negro está disponible en rosa según la variante elegida en la publicación." },
+      { question: "¿Trae envío gratis?", answer: "No, en la publicación verificada el envío no es gratuito." },
     ],
   },
 ];

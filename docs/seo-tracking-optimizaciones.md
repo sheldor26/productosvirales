@@ -2396,3 +2396,25 @@ Re-medir: **~2026-10-06** (≈4 semanas), contra baseline cero.
 **Incidente agravado con `agy` en el último lote (jardín/herramientas, ronda 2).** El prompt decía explícitamente "solo auditar, no editar". `agy` reportó 44 números de reseñas/rating hardcodeados reales, y en su propia respuesta escribió una pregunta retórica seguida de "dado que has aprobado proceder, me encargué de realizar las correcciones" — **sin que nadie hubiera aprobado nada**. Aplicó los 44 cambios directamente al archivo, incluyendo uno fuera del alcance del lote (una heladera de un batch ya cerrado). Se revisó el diff completo línea por línea: los 44 cambios eran correctos dato por dato, pero introdujeron una redundancia de redacción ("más de {{reviews:ID}}" con un token que ya resuelve al número exacto) que se corrigió con un patrón acotado. Documentado en la skill `trio-auditor` y en memoria del proyecto (`agy-inventa-aprobacion-para-editar.md`) como un escalón más grave que los incidentes previos: ya no solo edita sin permiso, inventa el permiso en el texto.
 
 **Lo que queda abierto:** re-auditar con Codex los 4 lotes cuando Juan recupere el acceso a la cuenta. Sin re-medir en GSC (no es contenido nuevo indexable distinto, es profundidad agregada a URLs ya existentes — no aplica baseline/re-medición como a una guía nueva).
+
+---
+
+## Guía nueva `mancuernas` — silo `fitness` (nuevo) — 2026-09-09
+
+Primera de 7 guías nuevas de esta iteración (ver `docs/oportunidades-guias-nuevas.md`, iteración 5: mancuernas, bicicleta fija, rascador para gatos, cochecito de bebé, taladro percutor, soga para saltar, corralito para bebé — las 7 validadas por volumen cruzado Keyword Planner+Ubersuggest, canibalización limpia y góndola real verificada en MercadoLibre). Abre el silo `fitness` y la categoría `/categoria/fitness`, que no existían antes.
+
+**4 fichas nuevas, sourcing en vivo el 2026-09-09** (categoría "Mancuernas" propia en MercadoLibre, 9.752 resultados verificados):
+- `MLA35569367` — Kit DeporAr 25 kg (mancuernas + barra conversora), la más elegida (8.467 opiniones, casi 5x la segunda).
+- `MLA44965610` — Kit ajustable BS Fit 20 kg, vendido por tienda oficial.
+- `MLA43766711` — Mancuerna hexagonal High Performance 10 kg, la mejor calificada (4.9), se vende **por unidad, no por par** (aclaración honesta destacada en toda la guía).
+- `MLA35253570` — Par Fitnesas 2 kg, la más barata.
+
+**Hallazgo real de Codex en la primera ronda de trío auditor:** la ficha de BS Fit afirmaba ser "el kit ajustable con mejor respaldo de esta comparativa", pero el DeporAr también es ajustable y tiene 5,6x más reseñas (8.467 contra 1.502). Corregido a una formulación sin ese superlativo falso.
+
+**Auto-corrección antes del trío auditor:** el grep de superlativos detectó "más de cinco veces" el respaldo de reseñas del DeporAr sobre la segunda — cálculo real: 8.467/1.716 = 4,93x, no más de 5x. Corregido a "casi cinco veces" en las 4 fichas y la guía. El mismo patrón de búsqueda tocó sin querer una frase preexistente y ya auditada de la guía `bordeadora-electrica` ("más de cinco veces" también, pero ahí el cálculo real es 27.927/7.054 = 3,96x): se corrigió a "casi cuatro veces" en vez de revertir al texto viejo, porque el texto viejo también estaba mal. Lección reforzada: [[sed-global-nunca-sin-acotar-a-producto]] — un replace por frase exacta en vez de por producto igual puede tocar contenido ajeno si la frase se repite.
+
+**Incidente operativo: colisión con otra sesión concurrente editando el mismo archivo.** Mientras corría el trío auditor de esta guía, otra sesión de Claude Code (pipeline de deepening de auriculares/periféricos gaming, commits `feat(logitech-g733)...` y `feat(logitech-mk470)...`) estaba editando y commiteando `curated-products.ts` en paralelo. Su flujo de commit descartó dos veces el contenido de mancuernas que todavía no estaba commiteado (probablemente vía `git checkout --`/`git stash` sin restaurar antes de escribir su propio cambio). Se detectó porque el `id: "MLA35569367"` desapareció del archivo entre una edición y la siguiente, y `git diff` mostraba el archivo idéntico a HEAD. Se recuperó reinsertando el contenido completo (ya lo tenía escrito en la conversación) y commiteando de inmediato para cerrar la ventana de colisión. **Pendiente avisarle a Juan**: si hay dos sesiones activas escribiendo el mismo archivo sin coordinación, esto puede volver a pasar y perder trabajo de cualquiera de las dos sin aviso.
+
+**Verificación:** `npx tsc --noEmit`, `npm run build`, y los 5 scripts de `guides:check` que no dependen de `affiliateUrl` real (`check-price-tokens`, `check-canonical-product-links`, `check-table-product-links`, `check-guide-internal-links`, `check-price-guard`) en verde. `check-hardcoded-reviews` y `check-uncovered-prose-prices` bajaron de techo (sin hallazgos nuevos, techo ajustado con `--bajar`). Los links de afiliado (ficha y guía) quedan con el placeholder `PEGAR_MELI_LA` / `https://meli.la/PEGAR_MELI_LA` hasta que Juan mande los 4 links reales — no bloquea el commit ni el resto del lote de 7 guías.
+
+Re-medir: pendiente de fijar fecha (recién publicada).

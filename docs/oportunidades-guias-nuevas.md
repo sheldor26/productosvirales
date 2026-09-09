@@ -300,3 +300,42 @@ forma de enumerar la categoría completa.
 - **cochecito de bebé**: se descartó con el método flojo (WebSearch sin `/p/MLA`). Hay que
   rechequearlo por navegador antes de darlo por muerto.
 - **pileta de lona**: 90.500/mes en diciembre. Retomar fines de septiembre de 2026.
+
+---
+
+## Iteración 5 — 2026-09-09
+
+Con `bordeadora eléctrica` y `cortadora de césped` ya publicadas, se retoma la cola de la
+iteración 4 (mancuernas, rascador para gatos, cochecito de bebé) y se suman 4 candidatas nuevas
+de categorías afines (fitness, herramientas, bebés) vía Keyword Planner.
+
+**Hallazgo de método: mismatch de acentos.** Tanto Ubersuggest como Keyword Planner devuelven
+`search_volume: 0` para "cochecito de bebé" y "corralito para bebé" (con tilde) pese a ser
+keywords reales y ya validadas antes. Requeridar SIN tilde ("cochecito de bebe", "corralito
+bebe") resuelve el volumen real. Ojo con este falso negativo en futuras iteraciones.
+
+| Keyword | Vol/mes (KWP + Ubersuggest) | SD | Intención | Canibalización | Góndola |
+| :-- | --: | --: | :-- | :-- | :-- |
+| mancuernas | **14.800** | 8 | Informacional | limpia | 9.752 resultados, docenas de marcas — GO |
+| bicicleta fija | **12.100** | 13 | Transaccional | limpia | 3.518 resultados, categoría propia — GO |
+| rascador para gatos | **9.900** | 9 | Transaccional | limpia | +9.999 resultados, categoría propia — GO |
+| cochecito de bebe | **9.900** | 22 | Transaccional | limpia | 9.726 resultados, categoría propia, marcas reconocidas — GO |
+| taladro percutor | **5.400** | 14 | Transaccional | limpia | +9.999 resultados, categoría propia — GO |
+| soga para saltar | **2.400** | 11 | Transaccional | limpia | +9.999 resultados, categoría propia — GO |
+| corralito bebe | **2.400** | 16 | Transaccional | limpia | 1.509 resultados, varias marcas — GO |
+
+Las 7 pasan las tres validaciones. `taladro percutor` estaba "afuera" en la iteración 4 por ser
+"el más chico" de ese barrido puntual, pero acá compite en su propio mérito y pasa limpio.
+
+### Orden de construcción (por volumen)
+
+1. mancuernas
+2. bicicleta fija
+3. rascador para gatos
+4. cochecito de bebé
+5. taladro percutor
+6. soga para saltar
+7. corralito para bebé
+
+Se construyen en este orden, una por una, siguiendo el flujo de `docs/fichas.md` + `docs/guias.md`
++ trio-auditor. Registro de avance en `docs/seo-tracking-optimizaciones.md`.
