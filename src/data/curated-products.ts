@@ -10838,8 +10838,11 @@ Sí, si jugás competitivo, valorás los switches ópticos y querés un teclado 
       { label: "Switch", value: "Dust Proof Red (lineal, silencioso)" },
       { label: "Resistencia a salpicaduras", value: "Sí" },
       { label: "Cable", value: "Removible, 1,8 m" },
-      { label: "Iluminación", value: "RGB" },
+      { label: "Iluminación", value: "RGB, con software oficial de Redragon para personalizar tecla por tecla y macros" },
       { label: "Peso", value: "570 g" },
+      { label: "Switches", value: "Hot-swap parcial: se cambian sin soldar, pero solo por switches Outemu/compatibles. Trae herramienta y repuestos" },
+      { label: "Durabilidad de switches", value: "50 millones de pulsaciones (spec del fabricante)" },
+      { label: "Puerto de conexión", value: "USB-C ubicado en el lado izquierdo del teclado" },
     ],
     relatedProducts: ["MLA16085611", "MLA46192536", "MLA19788553", "MLAU2880692521"],
     priceUpdated: "2026-09-09",
@@ -10856,11 +10859,15 @@ Sí, si jugás competitivo, valorás los switches ópticos y querés un teclado 
       "Switches Dust Proof Red: lineales y silenciosos, buenos para gaming sin molestar al resto",
       "Resistente a salpicaduras, útil si tomás algo cerca de la compu",
       "Cable removible de 1,8 m",
+      "Switches hot-swap: se cambian sin soldar (solo por Outemu/compatibles), con herramienta y repuestos incluidos en la caja",
+      "Tiene software oficial de Redragon para personalizar el RGB tecla por tecla y configurar macros",
+      "Función de bloqueo de la tecla Windows, útil para que no se abra el menú sin querer mientras jugás",
     ],
     cons: [
       "Es 60% real: sin flechas, sin fila de F1-F12 ni numérico como teclas físicas, se usan con FN",
       "No es tan compacto/premium en materiales como un óptico de gama alta (ver [Razer Huntsman Mini](/producto/teclado-gamer-razer-huntsman-mini-60-optico-rgb-mercury-mla16085611) en la guía general de teclado gamer)",
-      "El RGB se configura con combinaciones de teclas, no trae software dedicado según la ficha",
+      "El puerto USB-C está en el lado izquierdo del teclado, no atrás/arriba, algo que varios usuarios marcan como incómodo",
+      "El hot-swap de switches es parcial: solo funciona con switches Outemu/compatibles, no con cualquier marca del mercado",
     ],
     articleBody: `## Qué es y para quién
 
@@ -10868,11 +10875,13 @@ El Dragonborn K630 es un teclado mecánico 60% de Redragon, marca ya conocida en
 
 ## Lo bueno
 
-Es, por lejos, el teclado 60% con más respaldo de reseñas de esta comparativa: {{rating:MLA24102185}} estrellas en {{reviews:MLA24102185}} opiniones reales, casi siete veces más que el segundo. Los switches son Dust Proof Red, lineales y silenciosos (pensados para gaming sin el ruido clicky de otros mecánicos), y el teclado es resistente a salpicaduras, un extra que ni el [Razer Huntsman Mini](/producto/teclado-gamer-razer-huntsman-mini-60-optico-rgb-mercury-mla16085611) de la guía general tiene declarado. El cable es removible de 1,8 metros.
+Es, por lejos, el teclado 60% con más respaldo de reseñas de esta comparativa: {{rating:MLA24102185}} estrellas en {{reviews:MLA24102185}} opiniones reales, casi siete veces más que el segundo. Los switches son Dust Proof Red, lineales y silenciosos (pensados para gaming sin el ruido clicky de otros mecánicos), con una durabilidad declarada de 50 millones de pulsaciones, y el teclado es resistente a salpicaduras, un extra que ni el [Razer Huntsman Mini](/producto/teclado-gamer-razer-huntsman-mini-60-optico-rgb-mercury-mla16085611) de la guía general tiene declarado. El cable es removible de 1,8 metros.
+
+Un plus que no siempre se conoce: los switches son hot-swap, se cambian sin soldar (aunque solo por switches Outemu o compatibles, no cualquier marca), y la caja incluye la herramienta para extraerlos más algunos switches de repuesto. Y a diferencia de lo que sugiere la publicación, el K630 sí tiene software oficial de Redragon: permite personalizar el RGB tecla por tecla (no solo elegir entre modos prearmados) y configurar macros, además de las combinaciones de teclas para cambiar la iluminación sin instalar nada. También suma una función de bloqueo de la tecla Windows, útil para que no se te abra el menú de Windows sin querer en medio de una partida.
 
 ## La contra real
 
-Es 60% de verdad, así que las flechas, la fila de F y el numérico no existen como teclas físicas: se usan con la tecla FN, y hay curva de adaptación si nunca usaste un formato así. No tiene la terminación premium (keycaps PBT, top de aluminio) de un óptico de gama alta como el [Huntsman Mini](/producto/teclado-gamer-razer-huntsman-mini-60-optico-rgb-mercury-mla16085611), y la personalización del RGB se hace con combinaciones de teclas, no con un software dedicado según la ficha del producto.
+Es 60% de verdad, así que las flechas, la fila de F y el numérico no existen como teclas físicas: se usan con la tecla FN, y hay curva de adaptación si nunca usaste un formato así. No tiene la terminación premium (keycaps PBT, top de aluminio) de un óptico de gama alta como el [Huntsman Mini](/producto/teclado-gamer-razer-huntsman-mini-60-optico-rgb-mercury-mla16085611). El puerto de conexión USB-C está ubicado en el lado izquierdo del teclado en vez de atrás o arriba, algo que varios usuarios señalan como una decisión de diseño incómoda. Y el hot-swap de switches, si bien es real, es limitado: solo podés usar switches Outemu o compatibles, no cualquier switch del mercado como en teclados hot-swap más abiertos.
 
 ## Para quién sí y para quién no
 
@@ -10881,7 +10890,10 @@ Compralo si querés un 60% real para gaming, en español, con el respaldo de res
       { question: "¿El Dragonborn K630 tiene ñ?", answer: "Sí, viene en layout español latinoamericano con ñ y acentos en tecla directa, algo que no todos los teclados 60% de esta franja de precio traen." },
       { question: "¿Cuántas reseñas reales tiene?", answer: "{{reviews:MLA24102185}} opiniones con {{rating:MLA24102185}} estrellas de promedio en MercadoLibre Argentina, la base de datos más grande entre los teclados 60% de este sitio." },
       { question: "¿Es resistente al agua?", answer: "Es resistente a salpicaduras según la ficha del producto, útil si se te vuelca algo cerca, aunque no está pensado para sumergirlo ni para derrames grandes." },
-      { question: "¿Trae software para configurar el RGB?", answer: "La ficha del producto no menciona un software dedicado; la configuración de luces se hace con combinaciones de teclas directo en el teclado." },
+      { question: "¿Trae software para configurar el RGB?", answer: "Sí, tiene software oficial de Redragon que permite personalizar el RGB tecla por tecla y configurar macros. También podés cambiar la iluminación con combinaciones de teclas directo en el teclado, sin instalar nada." },
+      { question: "¿Los switches son hot-swap?", answer: "Sí, pero de forma parcial: se cambian sin soldar, con la herramienta que trae la caja, pero solo con switches Outemu o compatibles, no con cualquier marca del mercado. También incluye algunos switches de repuesto." },
+      { question: "¿Dónde está el puerto de conexión?", answer: "El puerto USB-C está ubicado en el lado izquierdo del teclado, no atrás ni arriba como es más común en otros modelos. Varios usuarios lo marcan como una decisión de diseño incómoda, aunque no afecta el funcionamiento." },
+      { question: "¿Cuánto duran los switches?", answer: "El fabricante declara una durabilidad de 50 millones de pulsaciones por switch, un número estándar para esta categoría de precio." },
     ],
   },
   {
