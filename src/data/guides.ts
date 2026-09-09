@@ -945,6 +945,7 @@ export const guides: Guide[] = [
         `**Brillo de pantalla.** De 700 a 1000 candelas por metro cuadrado.`,
         `**Cámara lenta.** En 4K, de 120 a hasta 240 cuadros por segundo.`,
         `**Seguimiento.** ActiveTrack pasa de 6.0 a 7.0, y suma bloqueo de sujeto.`,
+        `**El zoom sin pérdida.** La Pocket 4 lo trae de fábrica, con un botón físico dedicado para saltar entre 1x y 2x sin tocar la pantalla. La Pocket 3 lo sumó después, por una actualización de firmware, sin ese botón: hay que activarlo desde el menú, y mientras está activo se pierde el seguimiento automático y no se puede grabar en D-Log ni HLG.`,
       ] },
       { type: "p", content: `Y esto es lo que **queda igual**, que para decidir importa tanto o más:` },
       { type: "list", items: [
@@ -955,7 +956,6 @@ export const guides: Guide[] = [
         `**La pantalla.** Mismas 2 pulgadas y misma resolución. Solo cambió el brillo.`,
         `**Los micrófonos.** Tres integrados en las dos, con el mismo audio.`,
         `**El video vertical.** Las dos llegan a 3K (1728 x 3072) girando la pantalla, sin recortar arriba y abajo de la imagen horizontal porque el sensor es cuadrado.`,
-        `**El zoom sin pérdida.** Una actualización de firmware sumó a las dos generaciones un zoom óptico 2x que recorta el sensor sin la pérdida de calidad del zoom digital viejo, equivalente a 40 mm. Mientras está activo, se pierde el seguimiento automático y no se puede grabar en D-Log ni HLG.`,
       ] },
       { type: "callout", calloutVariant: "warning", calloutTitle: "El 4K a 240 cuadros es solo cámara lenta", content: `Las publicaciones anuncian "4K/240 fps" en la Pocket 4 y "4K/120" en la Pocket 3 como si fuera el techo de grabación. No lo es: **esos números son exclusivos del modo cámara lenta.** En video normal las dos cámaras llegan a 4K a 60 cuadros por segundo, y ninguna de las dos pasa de ahí.` },
       { type: "callout", calloutVariant: "tip", calloutTitle: "El gimbal es mecánico, y es lo más frágil de la cámara", content: `Lo que hace especial a una Osmo Pocket, el gimbal de tres ejes, es también su parte más delicada: son motores físicos, no un estabilizador digital. Un golpe fuerte en el brazo del gimbal puede dejar la cámara sin funcionar. Conviene guardarla siempre en la funda rígida incluida cuando no se está filmando, en vez de tirarla suelta en una mochila.` },

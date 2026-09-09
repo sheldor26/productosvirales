@@ -1851,6 +1851,43 @@ Es para vos si querés la entrada más barata a una cámara de gimbal DJI, no te
       { label: "Medidas", value: "144,2 x 44,4 x 33,5 mm. Mismo grosor que la Pocket 3" },
       { label: "Lanzamiento", value: "22 de abril de 2026" },
     ],
+    articleBody: `## Qué es la DJI Osmo Pocket 4
+
+Es la versión más nueva de la línea de bolsillo con gimbal integrado de DJI, salida el 22 de abril de 2026. Cuesta {{precio:MLA68229126}}, tiene {{reviews:MLA68229126}} calificaciones con {{rating:MLA68229126}} estrellas, y es la más cara de las tres Osmo Pocket que verificamos con stock nacional.
+
+## El problema que resuelve: la memoria interna
+
+Es la primera Osmo Pocket con almacenamiento propio: **107 GB utilizables**, sin necesidad de comprar una microSD para empezar a grabar. La [Osmo Pocket 3](/producto/camara-dji-osmo-pocket-3-combo-estandar-mla39393179) no tiene ninguna, y eso obliga a sumar el gasto de una tarjeta clase V30 o U3 el mismo día de la compra. Si igual querés más espacio, acepta microSD de hasta 1 TB.
+
+## El zoom sin pérdida viene con botón dedicado
+
+A diferencia de la Pocket 3, que sumó el zoom 2x sin pérdida por una actualización de firmware posterior, acá viene de fábrica con un **botón físico dedicado** debajo de la pantalla para saltar entre 1x y 2x sin tocar el menú. Después de ese 2x, el zoom pasa a ser digital hasta 4x, con pérdida de nitidez como en cualquier zoom digital.
+
+## Lo que sube: foto, batería y brillo de pantalla
+
+La foto pasa de unos 9,4 MP en la Pocket 3 a unos **37 MP** declarados por DJI, casi cuatro veces más. La batería, de 1300 a 1545 mAh, sube la autonomía declarada de 166 a **240 minutos**, medidos con la misma metodología. Y la pantalla llega a 1000 candelas por metro cuadrado contra las 700 de la Pocket 3, un 43% más brillante para encuadrar a pleno sol.
+
+## Lo que no cambió: el gimbal, la lente y el sensor
+
+El sensor sigue siendo de 1 pulgada (uno nuevo, pero de la misma medida), la lente es la misma óptica de 20 mm f/2.0 fija, y el gimbal mecánico de tres ejes tiene los mismos rangos de movimiento y la misma vibración angular que la Pocket 3. En video normal, las dos llegan a 4K a 60 cuadros por segundo: el "4K a 240" que aparece en las publicaciones es solo el modo de cámara lenta, no el techo de grabación normal.
+
+## Lo que no trae
+
+Igual que la Pocket 3, no tiene ninguna certificación de resistencia al agua ni al polvo: DJI lo confirma en su propia FAQ oficial. Tampoco tiene salida HDMI, así que no se puede conectar directo a un monitor o televisor por cable.
+
+## Para quién es, y para quién no
+
+Es para vos si no querés lidiar con comprar una microSD aparte, si te importa la calidad de foto, o si vas a filmar seguido con poca luz y valorás la autonomía extra. No es para vos si el presupuesto manda: la [Osmo Pocket 3](/producto/camara-dji-osmo-pocket-3-combo-estandar-mla39393179) comparte el gimbal, la lente y el tamaño de sensor por {{preciodif:MLA68229126:MLA39393179}} menos, y el [Pack Creadores con micrófono](/producto/camara-dji-osmo-pocket-3-pack-creadores-mla37134971) es la DJI con más opiniones de todo el catálogo.`,
+    faq: [
+      { question: "¿Trae memoria interna?", answer: "Sí, 107 GB utilizables. Es la primera Osmo Pocket con almacenamiento propio. También acepta microSD de hasta 1 TB si necesitás más espacio." },
+      { question: "¿Cómo es el zoom sin pérdida?", answer: "Viene de fábrica con un botón físico dedicado debajo de la pantalla para saltar entre 1x y 2x sin pérdida de calidad. Pasado el 2x, el zoom es digital hasta 4x, con la pérdida de nitidez típica de cualquier zoom digital." },
+      { question: "¿Qué diferencia hay con la Osmo Pocket 3?", answer: "Comparte el gimbal, la lente de 20 mm f/2.0 y el tamaño de sensor (1 pulgada). Lo que suma: 107 GB de memoria interna, foto de 37 MP contra 9,4, 240 minutos de autonomía contra 166, pantalla más brillante y un botón dedicado para el zoom sin pérdida." },
+      { question: "¿Es resistente al agua?", answer: "No. DJI lo confirma en su propia FAQ oficial: no tiene ninguna certificación de resistencia al agua ni al polvo." },
+      { question: "¿Tiene salida HDMI?", answer: "No. Solo se conecta por USB-C, y no permite sacar video en vivo por cable a un monitor o televisor." },
+      { question: "¿El 4K a 240 cuadros por segundo es la grabación normal?", answer: "No. Es exclusivo del modo cámara lenta. En video normal, la Osmo Pocket 4 llega a 4K a 60 cuadros por segundo, igual que la Pocket 3." },
+      { question: "¿Vale la pena pagar más que por la Osmo Pocket 3?", answer: "Depende de qué priorices. Cuesta {{preciodif:MLA68229126:MLA39393179}} más, pero el gimbal, la lente y el tamaño de sensor son los mismos. Si lo que te importa es no comprar una microSD aparte, la calidad de foto o la autonomía extra, se justifica. Si el presupuesto manda, la Pocket 3 hace básicamente lo mismo en imagen." },
+      { question: "¿Cuándo salió?", answer: "El 22 de abril de 2026. Es la cámara DJI más nueva de todo el catálogo." },
+    ],
     relatedProducts: ["MLA39393179", "MLA37134971", "MLA62340610"],
   },
   // ─── Musica: instrumentos de entrada con stock nacional (ago 2026). Silo musica ───
