@@ -7,6 +7,34 @@
 > por filtrar de más. Mirar una vez por semana con criterio propio.
 > Entradas nuevas arriba.
 
+## 2026-09-09
+
+- **river plate - independiente rivadavia** — 500 mil+ búsquedas (+1.000%, anteayer)
+- **boca juniors - são paulo** — 200 mil+ búsquedas (+1.000%, 17 h)
+- **boca vs sao paulo** — 200 mil+ búsquedas (+1.000%, ayer)
+- **mirtha legrand** — 100 mil+ búsquedas (+1.000%, anteayer)
+- **real madrid - inter** — 100 mil+ búsquedas (+1.000%, 23 h)
+- **fluminense - platense** — 100 mil+ búsquedas (+1.000%, 19 h)
+- **chiche gelblung** — 50 mil+ búsquedas (+1.000%, ayer)
+- **champions** — 50 mil+ búsquedas (+700%, ayer)
+- **porto - manchester city** — 50 mil+ búsquedas (+1.000%, 22 h)
+- **barcelona - feyenoord** — 20 mil+ búsquedas (+1.000%, 1 h)
+- **lucia sisic** — 20 mil+ búsquedas (+1.000%, 20 h)
+- **liga de campeones de la uefa** — 20 mil+ búsquedas (+1.000%, anteayer)
+- **santa fe - vasco da gama** — 20 mil+ búsquedas (+1.000%, 19 h)
+- **alcaraz** — 20 mil+ búsquedas (+1.000%, 17 h)
+- **glaciar** — 10 mil+ búsquedas (+1.000%, 8 h)
+- **pastor de los santos** — 10 mil+ búsquedas (+1.000%, 23 h)
+- **coronavirus** — 10 mil+ búsquedas (+1.000%, ayer)
+- **alcaraz vs shelton** — 10 mil+ búsquedas (+700%, 16 h)
+- **autos pilar premium** — 5 mil+ búsquedas (+1.000%, 18 h)
+- **aluvión** — 5 mil+ búsquedas (+1.000%, 19 h)
+- **iphone 18** — 5 mil+ búsquedas (+200%, ayer)
+- **covid nueva variante** — 5 mil+ búsquedas (+700%, 14 h)
+- **cristina seoane** — 2 mil+ búsquedas (+1.000%, 6 h)
+- **anthropic** — 2 mil+ búsquedas (+900%, 5 h)
+- **apple** — 2 mil+ búsquedas (+200%, 5 h)
+
 ## 2026-07-08
 
 - **colombia vs suiza** — 1 M+ búsquedas (+1.000%, ayer)
