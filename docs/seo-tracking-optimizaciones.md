@@ -2458,3 +2458,28 @@ Tercera de las 7 guías nuevas de esta iteración. Abre el silo `mascotas` y la 
 **Verificación:** `npx tsc --noEmit`, `npm run build`, y los mismos scripts de `guides:check` en verde, sin deuda nueva en hardcoded-reviews ni uncovered-prose-prices. Afiliados con placeholder `PEGAR_MELI_LA` hasta los links reales de Juan.
 
 Re-medir: pendiente de fijar fecha (recién publicada).
+
+---
+
+## Guía nueva `cochecito-de-bebe` — silo `bebes` (nuevo) — 2026-09-09
+
+Cuarta de las 7 guías nuevas de esta iteración. Abre el silo `bebes`. 4 fichas nuevas, sourcing en vivo el 2026-09-09 (categoría "Cochecito" propia en MercadoLibre, 9.726 resultados verificados):
+- `MLA14984932` — Cartan STL150 paragüitas, el más elegido (782 opiniones), pero **no sirve para recién nacidos** (desde 6 meses).
+- `MLA57256006` — Mega Baby Travel System, con huevito, empatado con Cosco Muum como el mejor calificado (4.9).
+- `MLA66213768` — Cosco Muum 3 en 1, con moisés y ruedas grandes.
+- `MLA66789390` — Gadnic Mawe Traful 3 en 1, el que más accesorios trae, el más caro.
+
+**Categoría sensible (seguridad de bebés): trío auditor con 2 rondas completas, ambas antes de commitear.** Ronda 1 encontró 5 bloqueantes reales:
+1. Empate de rating Mega Baby/Cosco (4.9 los dos) afirmado como exclusivo en varios lugares.
+2. La ficha del Gadnic no declara edad recomendada, pero el texto asumía que "los 3 en 1 sirven desde el nacimiento" incluyéndolo sin base.
+3. Error de comparación: el Cartan soporta 25kg (más que Mega/Cosco/Gadnic, que declaran 15kg), pero el texto decía "menos".
+4. Superlativos sin base comparable (ej. "el más liviano" cuando 2 de 4 fichas no declaran peso).
+5. **Hallazgo de seguridad real de Codex**: el copy sugería que el moisés servía para que el bebé "duerma acostado" sin aclarar que ninguna ficha lo certifica para sueño prolongado sin supervisión — riesgo real de malinterpretación en una categoría de seguridad infantil. Se agregó remisión a pautas oficiales de sueño seguro (fuente: argentina.gob.ar/salud/crecerconsalud).
+
+Corregidos los 5, ronda 2 encontró que 2 de los 5 tenían residuos (frases sueltas que sobrevivieron el primer barrido de corrección, en `metaDescription`, `pros`, dos párrafos de `articleBody` y el `verdict` de la guía). Corregidos también. Ambos auditores (Codex + agy, de forma independiente) confirmaron los mismos residuos exactos en la ronda 2, lo que da confianza cruzada en el hallazgo. GO final de los dos tras la segunda corrección.
+
+**Lección para futuras guías:** cuando un fix de "nombrar el empate" o "acotar un superlativo" se aplica con reemplazos de string exactos, hay que grepear TODAS las variantes de la frase (description, pros, articleBody en más de un lugar, FAQ, guía) antes de dar por cerrado — un solo reemplazo puntual no basta cuando la misma idea se repite con redacciones ligeramente distintas en 6-8 lugares del contenido.
+
+**Verificación:** `npx tsc --noEmit`, `npm run build`, y los mismos scripts de `guides:check` en verde tras cada ronda, sin deuda nueva. Afiliados con placeholder `PEGAR_MELI_LA` hasta los links reales de Juan.
+
+Re-medir: pendiente de fijar fecha (recién publicada).

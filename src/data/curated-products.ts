@@ -94282,6 +94282,375 @@ Es la opción más barata de esta comparativa, doble faz y con hierba gatera inc
       { question: "¿De qué color es?", answer: "Marrón, aunque la ficha aclara que el estampado de los laterales puede variar entre unidades." },
     ],
   },
+  // Guía nueva cochecito-de-bebe — silo/categoría bebes (sourcing MercadoLibre 2026-09-09).
+  // Los 4 con stock verificado en vivo el mismo día.
+  {
+    id: "MLA14984932",
+    title: "Cochecito Cartan STL150 Paragüitas — Liviano, 6,6 kg, Reclinable",
+    canonicalName: "Cartan STL150",
+    brand: "Cartan",
+    mpn: "STL150",
+    price: 115191,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_674204-MLA99533933926_122025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_674204-MLA99533933926_122025-O.webp",
+    ],
+    category: "Bebés",
+    categorySlug: "bebes",
+    permalink: "https://www.mercadolibre.com.ar/coche-de-bebe-paraguita-plegable-con-capota-reclinable-tipo-cama-ultra-liviano-con-proteccion-ruedas-dobles-con-freno-cartan-stl150-negro/p/MLA14984932",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.6,
+    reviewCount: 782,
+    badge: "bestseller",
+    pastelColor: "var(--pastel-green)",
+    specs: [
+      { label: "Marca", value: "Cartan" },
+      { label: "Modelo", value: "STL150" },
+      { label: "Tipo de cochecito", value: "Paragüitas" },
+      { label: "Peso del cochecito", value: "6,6 kg" },
+      { label: "Peso máximo soportado", value: "25 kg" },
+      { label: "Edad recomendada", value: "6 a 36 meses" },
+      { label: "Es reclinable", value: "Sí, 3 posiciones" },
+      { label: "Sistema de seguridad", value: "Arnés de 5 puntos" },
+      { label: "Incluye travel system (huevito)", value: "No" },
+      { label: "Medidas abierto (alto x ancho x profundidad)", value: "106 cm x 49 cm x 75 cm" },
+      { label: "Con capota ventana", value: "Sí" },
+      { label: "Con funda desmontable", value: "Sí" },
+      { label: "Con correas ajustables", value: "Sí" },
+    ],
+    relatedProducts: ["MLA57256006", "MLA66213768", "MLA66789390"],
+    priceUpdated: "2026-09-09", priceLastChecked: "2026-09-09", priceVerifiedAt: "2026-09-09",
+    priceStatus: "fresh", reviewsSampledAt: "2026-09-09",
+    description: "Cochecito paragüitas liviano de 6,6 kg, reclinable, para bebés de 6 a 36 meses. Es el más elegido de esta comparativa con {{reviews:MLA14984932}} opiniones y {{rating:MLA14984932}} de promedio.",
+    seoTitle: "Cochecito Cartan STL150: {{reviews:MLA14984932}} opiniones, liviano 6,6 kg",
+    metaDescription: "Cochecito paragüitas Cartan STL150, liviano (6,6 kg) y reclinable. {{reviews:MLA14984932}} opiniones y {{rating:MLA14984932}} estrellas, el más elegido de esta comparativa.",
+    verdict: "Es el cochecito **con más respaldo de esta comparativa por lejos**: {{reviews:MLA14984932}} opiniones con {{rating:MLA14984932}} de promedio. Es liviano (6,6 kg), plegable y reclinable, ideal para salidas del día a día. La aclaración honesta: **no incluye travel system (huevito)** y está pensado para bebés de 6 meses en adelante, no para recién nacidos.",
+    pros: [
+      "El más elegido de esta comparativa por lejos: {{reviews:MLA14984932}} opiniones con {{rating:MLA14984932}} de promedio",
+      "Muy liviano (6,6 kg), fácil de cargar y guardar",
+      "El más barato de esta comparativa",
+      "Arnés de 5 puntos y protección en las ruedas dobles",
+      "Compradores lo describen como cómodo y fácil de transportar",
+    ],
+    cons: [
+      "No incluye travel system (huevito): no sirve para trasladar al bebé dormido desde el auto",
+      "Recomendado desde los 6 meses, no sirve para recién nacidos según su ficha",
+      "Soporta 25 kg (un número que las otras fichas de esta comparativa no declaran de forma directamente comparable)",
+      "No trae moisés ni accesorios adicionales",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", text: "Estamos muy contentas con la compra, es hermoso el carrito. Es comodo, liviano y facil de transportar, e isacc reee contento con su coche nuevo jajajaja. Muchas gracias!!!!!" },
+      { rating: 5, country: "Argentina", text: "Es una hermosura!!!!! lo que esperaba. Este es el tercer carrito que le compro, uno es cuna y enorme y el que tenía es muy bajito. Pero este es excelente, liviano y cómodo para mi bebé. Aparte no se van a enredar los pies a las ruedas xq tiene resguardo." },
+      { rating: 5, country: "Argentina", text: "Super recomendable! ademas de hermoso es super liviano y cómodo." },
+    ],
+    articleBody: `## Qué es el cochecito Cartan STL150
+
+Es un cochecito paragüitas liviano y reclinable, el más elegido de [nuestra comparativa de cochecitos de bebé en Argentina](/guias/bebes/cochecito-de-bebe). Cuesta {{precio:MLA14984932}} y tiene {{reviews:MLA14984932}} calificaciones con {{rating:MLA14984932}} estrellas.
+
+## Liviano y pensado para el día a día
+
+Con 6,6 kg es de los cochecitos más livianos del mercado, fácil de plegar, cargar y guardar en el baúl. Trae arnés de 5 puntos, capota con ventana y protección en las ruedas dobles para que no se enreden los pies del bebé.
+
+## El respaldo más grande de esta comparativa
+
+Con {{reviews:MLA14984932}} opiniones es, por lejos, el cochecito más comprado y calificado de este grupo. Una compradora que ya tuvo otros dos cochecitos antes lo resume así: "este es excelente, liviano y cómodo para mi bebé".
+
+## La aclaración honesta: no es para recién nacidos
+
+Esta es la advertencia antes de comprar. Su ficha lo recomienda desde los 6 meses, y no incluye travel system (huevito), así que no sirve para trasladar a un bebé recién nacido dormido desde el auto. Si buscás eso, necesitás otro modelo de esta comparativa.
+
+## Para quién es, y para quién no
+
+Es para vos si tu bebé ya tiene 6 meses o más y buscás algo liviano para el uso diario, al mejor precio de esta comparativa. No es para vos si tenés un recién nacido o necesitás huevito: para eso, el [Mega Baby Travel System](/producto/cochecito-mega-baby-travel-system-con-huevito-0-a-36-meses-mla57256006) de esta misma comparativa cubre esa etapa desde el nacimiento.
+
+## El veredicto
+
+Es el cochecito con más respaldo de esta comparativa por lejos, liviano y bien calificado. La aclaración honesta: no trae huevito y está pensado a partir de los 6 meses, no para recién nacidos.`,
+    faq: [
+      { question: "¿Sirve para recién nacidos?", answer: "No, según su ficha está recomendado desde los 6 meses. No incluye travel system (huevito) para trasladar a un bebé recién nacido dormido." },
+      { question: "¿Por qué es el más elegido de la comparativa?", answer: "Tiene {{reviews:MLA14984932}} opiniones, muy por encima del resto de los cochecitos de esta guía." },
+      { question: "¿Cuánto pesa?", answer: "6,6 kg, uno de los más livianos del mercado, fácil de plegar y transportar." },
+      { question: "¿Es reclinable?", answer: "Sí, tiene 3 posiciones de reclinado." },
+      { question: "¿Cuánto peso soporta?", answer: "25 kg, según su ficha técnica." },
+      { question: "¿Trae protección para que el bebé no se enrede con las ruedas?", answer: "Sí, una compradora lo confirma: tiene resguardo para que los pies no se enreden con las ruedas dobles." },
+    ],
+  },
+  {
+    id: "MLA57256006",
+    title: "Cochecito Mega Baby Travel System — Con Huevito, 0 a 36 Meses",
+    canonicalName: "Mega Baby Travel System Icon",
+    brand: "Mega Baby",
+    mpn: "icon",
+    price: 205714,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_916802-MLA114900289757_072026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_916802-MLA114900289757_072026-O.webp",
+    ],
+    category: "Bebés",
+    categorySlug: "bebes",
+    permalink: "https://www.mercadolibre.com.ar/cochecito-cuna-bebe-mega-baby-travel-system-liviano-color-negro-chasis-negro/p/MLA57256006",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.9,
+    reviewCount: 75,
+    pastelColor: "var(--pastel-blue)",
+    specs: [
+      { label: "Marca", value: "Mega Baby" },
+      { label: "Versión", value: "Icon" },
+      { label: "Tipo de cochecito", value: "De paseo" },
+      { label: "Peso máximo soportado", value: "15 kg" },
+      { label: "Edad recomendada", value: "0 a 36 meses" },
+      { label: "Es reclinable", value: "Sí, 3 posiciones" },
+      { label: "Sistema de seguridad", value: "Arnés de 3 puntos" },
+      { label: "Incluye travel system (huevito)", value: "Sí" },
+      { label: "Es 3 en 1", value: "No" },
+      { label: "Medidas abierto (alto x ancho x profundidad)", value: "101 cm x 49 cm x 65 cm" },
+      { label: "Formato de venta", value: "Unidad" },
+    ],
+    relatedProducts: ["MLA14984932", "MLA66213768", "MLA66789390"],
+    priceUpdated: "2026-09-09", priceLastChecked: "2026-09-09", priceVerifiedAt: "2026-09-09",
+    priceStatus: "fresh", reviewsSampledAt: "2026-09-09",
+    description: "Cochecito travel system con huevito, para bebés de 0 a 36 meses. Empata con el Cosco Muum como el mejor calificado de esta comparativa: {{reviews:MLA57256006}} opiniones con {{rating:MLA57256006}} de promedio.",
+    seoTitle: "Cochecito Mega Baby Travel System: {{rating:MLA57256006}} de nota, con huevito",
+    metaDescription: "Cochecito Mega Baby Travel System con huevito, para 0 a 36 meses. {{reviews:MLA57256006}} opiniones y {{rating:MLA57256006}} estrellas, empatado con el Cosco Muum como el mejor calificado de esta comparativa.",
+    verdict: "Es un travel system **empatado con el Cosco Muum como el mejor calificado de esta comparativa**, {{rating:MLA57256006}} sobre {{reviews:MLA57256006}} opiniones, e incluye huevito para bebés desde el nacimiento. Es liviano y fácil de armar, según compradores reales. Sirve desde el día 1 hasta los 36 meses, a un precio bastante menor que las opciones 3 en 1 de esta comparativa.",
+    pros: [
+      "Empatado con el Cosco Muum como el mejor calificado de esta comparativa: {{rating:MLA57256006}} sobre {{reviews:MLA57256006}} opiniones",
+      "Incluye huevito (travel system), sirve desde recién nacido",
+      "Más barato que las opciones 3 en 1 de esta comparativa",
+      "Liviano y fácil de armar, según compradores",
+      "3 posiciones de reclinado",
+    ],
+    cons: [
+      "No es 3 en 1: no incluye moisés independiente, solo cochecito + huevito",
+      "Arnés de 3 puntos, menos puntos de sujeción que otros de esta comparativa (5 puntos)",
+      "No declara el peso propio del cochecito",
+      "Menos accesorios incluidos que el Gadnic Mawe de esta comparativa",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", text: "Me encantó!. Seré madre primeriza, y este coche es lo más cómodo y delicado que pude encontrar. Liviano y fácil de armar. No me arrepiento." },
+      { rating: 5, country: "Argentina", text: "Espectacular, por el precio me parecía increíble. Es super fácil de armar y se siente muy bien de materiales. Recomendadicimo." },
+      { rating: 5, country: "Argentina", text: "Bueno, lindo y barato! amamos." },
+    ],
+    articleBody: `## Qué es el cochecito Mega Baby Travel System
+
+Es un travel system con huevito para bebés de 0 a 36 meses, empatado con el Cosco Muum como el mejor calificado de [nuestra comparativa de cochecitos de bebé en Argentina](/guias/bebes/cochecito-de-bebe). Cuesta {{precio:MLA57256006}} y tiene {{reviews:MLA57256006}} calificaciones con {{rating:MLA57256006}} estrellas.
+
+## Sirve desde el nacimiento, a buen precio
+
+A diferencia del Cartan de esta comparativa, este sí incluye huevito, así que sirve desde el nacimiento del bebé hasta los 36 meses. Y cuesta bastante menos que las opciones 3 en 1 de esta misma guía.
+
+## Empatado como el mejor calificado
+
+Con {{rating:MLA57256006}} sobre {{reviews:MLA57256006}} opiniones empata con el Cosco Muum como la nota más alta de las cuatro. Una madre primeriza lo describe así: "este coche es lo más cómodo y delicado que pude encontrar. Liviano y fácil de armar".
+
+## Para quién es, y para quién no
+
+Es para vos si buscás un travel system completo desde el nacimiento sin pagar el precio de una opción 3 en 1. No es para vos si necesitás moisés independiente para que el bebé duerma separado del huevito: para eso, el [Cosco](/producto/cochecito-cosco-travel-system-muum-3-en-1-con-huevito-y-moises-mla66213768) o el [Gadnic Mawe](/producto/cochecito-gadnic-mawe-traful-3-en-1-con-huevito-moises-y-accesorios-mla66789390) de esta comparativa sí lo incluyen.
+
+## El veredicto
+
+Es un travel system empatado con el Cosco Muum como el mejor calificado de esta comparativa, sirve desde el nacimiento y cuesta menos que las opciones 3 en 1. La contra real: no incluye moisés independiente ni tantos accesorios como las opciones más caras.`,
+    faq: [
+      { question: "¿Sirve para recién nacidos?", answer: "Sí, incluye huevito (travel system) y está recomendado desde los 0 meses hasta los 36 meses." },
+      { question: "¿Por qué está entre los mejor calificados de la comparativa?", answer: "Tiene {{rating:MLA57256006}} de promedio sobre {{reviews:MLA57256006}} opiniones, empatado con el Cosco Muum como la nota más alta entre los cuatro cochecitos de esta guía." },
+      { question: "¿Es 3 en 1?", answer: "No, según su ficha. Incluye cochecito y huevito, pero no moisés independiente como las opciones 3 en 1 de esta comparativa." },
+      { question: "¿Es fácil de armar?", answer: "Sí, varios compradores lo confirman, incluida una madre primeriza que lo describe como fácil de armar y muy cómodo." },
+      { question: "¿Cuántos puntos tiene el arnés?", answer: "3 puntos, según su ficha técnica." },
+      { question: "¿Es liviano?", answer: "Sí, aunque su ficha no declara el peso exacto, varios compradores lo describen como liviano." },
+    ],
+  },
+  {
+    id: "MLA66213768",
+    title: "Cochecito Cosco Travel System Muum 3 en 1 — Con Huevito y Moisés",
+    canonicalName: "Cosco Kids Travel System Muum",
+    brand: "Cosco Kids",
+    mpn: "Travel System Muum",
+    price: 292999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_661204-MLA116052184303_082026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_661204-MLA116052184303_082026-O.webp",
+    ],
+    category: "Bebés",
+    categorySlug: "bebes",
+    permalink: "https://www.mercadolibre.com.ar/cochecito-de-bebe-cosco-travel-system-con-huevito-y-moises-plateado/p/MLA66213768",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.9,
+    reviewCount: 78,
+    pastelColor: "var(--pastel-purple)",
+    specs: [
+      { label: "Marca", value: "Cosco Kids" },
+      { label: "Modelo", value: "Travel System Muum" },
+      { label: "Versión", value: "2026" },
+      { label: "Tipo de cochecito", value: "De paseo" },
+      { label: "Peso del cochecito", value: "15,2 kg" },
+      { label: "Peso máximo soportado", value: "15 kg" },
+      { label: "Edad recomendada", value: "0 a 36 meses" },
+      { label: "Es reclinable", value: "Sí, 5 posiciones" },
+      { label: "Sistema de seguridad", value: "Arnés de 5 puntos" },
+      { label: "Incluye travel system (huevito)", value: "Sí" },
+      { label: "Es 3 en 1", value: "Sí, con moisés" },
+      { label: "Medidas abierto (alto x ancho x profundidad)", value: "120 cm x 63 cm x 89 cm" },
+      { label: "Con reductor para bebés", value: "Sí" },
+    ],
+    relatedProducts: ["MLA14984932", "MLA57256006", "MLA66789390"],
+    priceUpdated: "2026-09-09", priceLastChecked: "2026-09-09", priceVerifiedAt: "2026-09-09",
+    priceStatus: "fresh", reviewsSampledAt: "2026-09-09",
+    description: "Travel system 3 en 1 con huevito y moisés, ruedas grandes de goma maciza. Tiene {{reviews:MLA66213768}} calificaciones con {{rating:MLA66213768}} de promedio.",
+    seoTitle: "Cochecito Cosco Travel System Muum: 3 en 1, ruedas grandes",
+    metaDescription: "Cochecito Cosco Travel System Muum 3 en 1, con huevito y moisés, ruedas grandes de goma maciza. {{reviews:MLA66213768}} opiniones y {{rating:MLA66213768}} estrellas.",
+    verdict: "Es un **travel system 3 en 1 completo**: cochecito, huevito y moisés, con ruedas grandes de goma maciza pensadas para calles en mal estado. Compradores lo destacan por la comodidad. La contra real, reportada por un comprador: **la pieza donde se monta el huevito es de plástico y queda con un ligero movimiento**, algo a tener en cuenta en la pieza más solicitada mecánicamente del cochecito.",
+    pros: [
+      "3 en 1 completo: cochecito, huevito y moisés",
+      "Ruedas grandes de goma maciza, pensadas para calles en mal estado",
+      "5 posiciones de reclinado, las más entre las fichas que declaran ese dato en esta comparativa",
+      "{{reviews:MLA66213768}} opiniones con {{rating:MLA66213768}} de promedio",
+      "Buena calidad de materiales, según compradores",
+    ],
+    cons: [
+      "La pieza donde se monta el huevito o el moisés es de plástico y queda con un ligero movimiento, según un comprador",
+      "Con 15,2 kg es el más pesado de esta comparativa entre los que declaran su propio peso",
+      "Es el segundo más caro de esta comparativa",
+      "Ocupa más espacio abierto (120 cm de alto) que las otras dos fichas que declaran esa medida",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", text: "Conocía la marca porque en Estados Unidos está por todos lados, pero la versión argentina de este coche con ruedas gigantes y de goma maciza para nuestras veredas rotas es espectacular! el bebé va en una nube de algodón! cómodo, fácil de plegar, liviano, buena calidad!" },
+      { rating: 4, country: "Argentina", text: "Tiene muy buena calidad, pero el punto más importante, que es donde se monta el huevo o la cama para el bebé, es de plástico y siempre queda con un ligero movimiento, esa pieza al ser la más fundamental debería ser de hierro o aluminio." },
+      { rating: 5, country: "Argentina", text: "Muy bueno, ya hacen 5 meses que lo tenemos y aún como nuevo, ideal para las calles de Neuquén." },
+    ],
+    articleBody: `## Qué es el cochecito Cosco Travel System Muum
+
+Es un travel system 3 en 1 con huevito y moisés, de [nuestra comparativa de cochecitos de bebé en Argentina](/guias/bebes/cochecito-de-bebe). Cuesta {{precio:MLA66213768}} y tiene {{reviews:MLA66213768}} calificaciones con {{rating:MLA66213768}} estrellas.
+
+## Ruedas grandes, pensadas para calles argentinas
+
+Su punto fuerte según compradores son las ruedas grandes de goma maciza. Un comprador que ya conocía la marca en Estados Unidos lo destaca: "la versión argentina de este coche con ruedas gigantes y de goma maciza para nuestras veredas rotas es espectacular". Otro confirma que sigue como nuevo después de 5 meses en las calles de Neuquén.
+
+## 3 en 1 completo, con 5 posiciones de reclinado
+
+Incluye cochecito, huevito y moisés, con 5 posiciones de reclinado, las más entre las fichas de esta comparativa que declaran ese dato (Gadnic no lo especifica). Es una opción pensada para acompañar desde el nacimiento con más flexibilidad que las opciones más simples.
+
+## La contra real: la pieza del huevito es de plástico
+
+Esta es la advertencia honesta antes de comprar. Un comprador de 4 estrellas lo señala con precisión: "el punto más importante, que es donde se monta el huevo o la cama para el bebé, es de plástico y siempre queda con un ligero movimiento". Es una observación puntual sobre una pieza mecánicamente exigida, no una queja generalizada en las demás reseñas.
+
+## Para quién es, y para quién no
+
+Es para vos si buscás un 3 en 1 completo con ruedas grandes para calles irregulares, y no te importa pagar un precio intermedio-alto. No es para vos si buscás el travel system más liviano: con 15,2 kg es de los más pesados de esta comparativa.
+
+## El veredicto
+
+Es un travel system 3 en 1 completo, con ruedas grandes pensadas para calles argentinas y buena calidad general. La contra real: la pieza donde se monta el huevito es de plástico y un comprador reporta que queda con cierto movimiento.`,
+    faq: [
+      { question: "¿Es 3 en 1?", answer: "Sí, incluye cochecito, huevito y moisés." },
+      { question: "¿La pieza del huevito es firme?", answer: "Un comprador de 4 estrellas reporta que la pieza donde se monta el huevito o el moisés es de plástico y queda con un ligero movimiento, y sugiere que debería ser de metal por ser la pieza más exigida." },
+      { question: "¿Sirve para calles en mal estado?", answer: "Sí, es su punto fuerte según compradores: las ruedas grandes de goma maciza absorben bien las veredas irregulares." },
+      { question: "¿Cuánto pesa el cochecito?", answer: "15,2 kg, de los más pesados de esta comparativa entre los que declaran su propio peso." },
+      { question: "¿Cuántas posiciones de reclinado tiene?", answer: "5, las más entre las fichas de esta comparativa que declaran ese dato (Gadnic no lo especifica)." },
+      { question: "¿Es el más caro de la comparativa?", answer: "No, es el segundo más caro. El Gadnic Mawe Traful de esta misma guía cuesta más." },
+    ],
+  },
+  {
+    id: "MLA66789390",
+    title: "Cochecito Gadnic Mawe Traful 3 en 1 — Con Huevito, Moisés y Accesorios",
+    canonicalName: "Gadnic Mawe Traful",
+    brand: "Gadnic",
+    mpn: "Traful",
+    price: 323749,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_803000-MLA112321623869_052026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_803000-MLA112321623869_052026-O.webp",
+    ],
+    category: "Bebés",
+    categorySlug: "bebes",
+    permalink: "https://www.mercadolibre.com.ar/cochecito-mawe-by-gadnic-traful-3-en-1-para-bebe-plegable-huevito/p/MLA66789390",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 94,
+    pastelColor: "var(--pastel-amber)",
+    specs: [
+      { label: "Marca", value: "Gadnic" },
+      { label: "Línea", value: "Mawe" },
+      { label: "Modelo", value: "Traful" },
+      { label: "Tipo de cochecito", value: "De paseo" },
+      { label: "Peso máximo soportado", value: "15 kg" },
+      { label: "Es reclinable", value: "Sí" },
+      { label: "Sistema de seguridad", value: "Arnés de 5 puntos" },
+      { label: "Incluye travel system (huevito)", value: "Sí" },
+      { label: "Es 3 en 1", value: "Sí, con moisés desmontable" },
+      { label: "Tipo de mango", value: "Regulable" },
+      { label: "Con sistema de suspensión", value: "Sí" },
+      { label: "Con canasto portaobjetos", value: "Sí" },
+      { label: "Accesorios incluidos", value: "Cubrepiés, manual de usuario, moisés desmontable, mosquitero, portavasos, huevito" },
+    ],
+    relatedProducts: ["MLA14984932", "MLA57256006", "MLA66213768"],
+    priceUpdated: "2026-09-09", priceLastChecked: "2026-09-09", priceVerifiedAt: "2026-09-09",
+    priceStatus: "fresh", reviewsSampledAt: "2026-09-09",
+    description: "Travel system 3 en 1 con huevito, moisés desmontable y el paquete de accesorios más completo de esta comparativa. Es el más caro, con {{reviews:MLA66789390}} calificaciones y {{rating:MLA66789390}} de promedio.",
+    seoTitle: "Cochecito Gadnic Mawe Traful: el que más accesorios trae",
+    metaDescription: "Cochecito Gadnic Mawe Traful 3 en 1, con huevito, moisés y accesorios (mosquitero, cubrepiés, portavasos). {{reviews:MLA66789390}} opiniones y {{rating:MLA66789390}} estrellas.",
+    verdict: "Es el travel system **con el paquete de accesorios más completo de esta comparativa**: cubrepiés, mosquitero, portavasos y moisés desmontable, además del huevito. Es también **el más caro del grupo**. Compradores destacan los regalos y accesorios incluidos como el mayor diferencial frente a otras opciones.",
+    pros: [
+      "El paquete de accesorios más completo de esta comparativa (cubrepiés, mosquitero, portavasos, moisés desmontable)",
+      "Sistema de suspensión, que las otras fichas de esta comparativa no declaran",
+      "Mango regulable en altura",
+      "Canasto portaobjetos incluido",
+      "{{reviews:MLA66789390}} opiniones con {{rating:MLA66789390}} de promedio",
+    ],
+    cons: [
+      "Es el más caro de esta comparativa",
+      "No declara el peso propio del cochecito, a diferencia de otras fichas de este grupo",
+      "No declara la cantidad de posiciones de reclinado",
+      "No declara medidas abierto/cerrado, a diferencia del resto de esta comparativa",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", text: "Me encanto el bolsito q trajo para poner cositas, y me trajo 3 cosas de regalo." },
+      { rating: 5, country: "Argentina", text: "Espectacular. Aún mejor de lo que se ve. Práctico. Viene con un bolso de bebé, el mosquitero y el cobertor para la lluvia, también un cambiador para viaje." },
+      { rating: 5, country: "Argentina", text: "Es hermoso me encanto, muy buena calidad." },
+    ],
+    articleBody: `## Qué es el cochecito Gadnic Mawe Traful
+
+Es un travel system 3 en 1 con huevito, moisés desmontable y un paquete de accesorios amplio, el más caro de [nuestra comparativa de cochecitos de bebé en Argentina](/guias/bebes/cochecito-de-bebe). Cuesta {{precio:MLA66789390}} y tiene {{reviews:MLA66789390}} calificaciones con {{rating:MLA66789390}} estrellas.
+
+## El que más trae de fábrica
+
+A diferencia de los otros tres de esta comparativa, incluye cubrepiés, mosquitero, portavasos y moisés desmontable, además del huevito. Suma también sistema de suspensión y mango regulable en altura, datos que las otras fichas de este grupo no declaran.
+
+## Compradores destacan los accesorios como el diferencial
+
+Una compradora lo resume así: "espectacular. Aún mejor de lo que se ve. Práctico. Viene con un bolso de bebé, el mosquitero y el cobertor para la lluvia, también un cambiador para viaje". Otra menciona haber recibido "3 cosas de regalo" además del cochecito.
+
+## El más caro, con menos datos técnicos declarados
+
+Es el más caro de esta comparativa. Su ficha, a diferencia de las otras tres, no declara el peso propio del cochecito, la cantidad de posiciones de reclinado ni las medidas abierto/cerrado, así que conviene confirmar esos datos con el vendedor antes de comprar si son importantes para vos.
+
+## Para quién es, y para quién no
+
+Es para vos si valorás llevarte el paquete más completo de accesorios de una sola vez y no te importa pagar el precio más alto de esta comparativa. No es para vos si buscás la opción más económica: para eso, el [Cartan STL150](/producto/cochecito-cartan-stl150-paraguitas-liviano-6-6-kg-reclinable-mla14984932) de esta misma comparativa cuesta bastante menos.
+
+## El veredicto
+
+Es el travel system con el paquete de accesorios más completo de esta comparativa, y también el más caro. La contra real: su ficha no declara varios datos técnicos (peso propio, posiciones de reclinado, medidas) que las otras tres fichas de este grupo sí incluyen.`,
+    faq: [
+      { question: "¿Qué accesorios incluye?", answer: "Cubrepiés, manual de usuario, moisés desmontable, mosquitero, portavasos y huevito, según su ficha técnica y confirmado por compradores." },
+      { question: "¿Por qué es el más caro de la comparativa?", answer: "Porque incluye el paquete de accesorios más completo de las cuatro fichas de esta guía: moisés desmontable, mosquitero, portavasos y cubrepiés, además del huevito." },
+      { question: "¿Es 3 en 1?", answer: "Sí, incluye cochecito, huevito y moisés desmontable." },
+      { question: "¿Cuánto pesa el cochecito?", answer: "Su ficha no declara el peso propio del cochecito, a diferencia de otras fichas de esta comparativa." },
+      { question: "¿Tiene suspensión?", answer: "Sí, es el único de esta comparativa que declara sistema de suspensión en su ficha técnica." },
+      { question: "¿El mango es regulable?", answer: "Sí, según su ficha técnica." },
+    ],
+  },
 ];
 
 export const categoryPastels: Record<string, string> = {
