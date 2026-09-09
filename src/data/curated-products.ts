@@ -18522,12 +18522,12 @@ Las pegas son claras: 20W para un ambiente, carga lenta 5V 1A y sonido de fiesta
       { label: "Bluetooth", value: "5.4 (codecs SBC y AAC)" },
       { label: "Batería auriculares", value: "Hasta 7,5 horas" },
       { label: "Batería total con estuche", value: "Hasta 36 horas" },
-      { label: "Carga", value: "USB-C (10 min = ~2 h de uso)" },
+      { label: "Carga", value: "USB-C (10 min = ~3 h de uso)" },
       { label: "Resistencia al agua", value: "IPX4 (sudor y lluvia liviana, no sumergibles)" },
       { label: "Cancelación de ruido", value: "Solo en llamadas (ENC/IA), sin ANC" },
       { label: "Peso", value: "3,6 g por auricular" },
       { label: "Controles", value: "Táctiles" },
-      { label: "Modo baja latencia", value: "~80 ms (pleno en Android/Xiaomi)" },
+      { label: "Modo baja latencia", value: "~80 ms (pleno en Android/Xiaomi); único de toda la línea Redmi Buds 6 con este modo" },
     ],
     relatedProducts: ["MLA28026305", "MLA23138487"],
     priceUpdated: "2026-09-09",
@@ -18541,7 +18541,7 @@ Las pegas son claras: 20W para un ambiente, carga lenta 5V 1A y sonido de fiesta
       "El TWS más vendido de Argentina: 4.8 estrellas en más de 209.000 opiniones",
       "Precio bajísimo para auriculares inalámbricos de marca conocida",
       "Hasta 36 horas de batería sumando el estuche (7,5 horas los auriculares solos)",
-      "Bluetooth 5.4: conexión estable y carga por USB-C (10 minutos dan unas 2 horas)",
+      "Bluetooth 5.4: conexión estable y carga por USB-C (10 minutos dan unas 3 horas)",
       "Resistencia IPX4: aguantan sudor y lluvia liviana, sirven para entrenar",
       "Driver de 10 mm y solo 3,6 gramos por auricular",
     ],
@@ -18562,7 +18562,7 @@ Son para uso diario: escuchar música en el celular, atender llamadas, ver video
 
 Conexión Bluetooth 5.4, la versión más nueva: emparejamiento rápido y conexión estable. Driver de 10 mm, que es grande para esta gama. Cada auricular pesa 3,6 gramos, así que casi no los sentís.
 
-La batería es el punto fuerte. Hasta 7,5 horas los auriculares solos y hasta 36 horas sumando las cargas del estuche. El estuche carga por USB-C y con 10 minutos enchufado te da unas 2 horas de uso. Controles táctiles en cada auricular.
+La batería es el punto fuerte. Hasta 7,5 horas los auriculares solos y hasta 36 horas sumando las cargas del estuche. El estuche carga por USB-C y con 10 minutos enchufado te da unas 3 horas de uso. Controles táctiles en cada auricular.
 
 ## Lo que resignás por el precio
 
@@ -18575,6 +18575,8 @@ Lo que sí traen es reducción de ruido por IA, pero solo para las llamadas (ENC
 Si tu plan era ponértelos en el colectivo o el subte para aislarte, no es el producto. Sin ANC, el ruido ambiente se cuela. Para eso hay que subir de gama.
 
 La otra pega es la latencia. Traen un modo de baja latencia (cerca de 80 ms) que sirve para jugar y mirar video sincronizado, pero rinde pleno en celulares Xiaomi y Android. Con iPhone queda limitado porque Apple bloquea esos ajustes de marca. Además hay que activar el modo cada vez que los conectás.
+
+Un dato que no es obvio: de toda la línea Redmi Buds 6 (Play, Active, Lite, 6S y el Redmi Buds 6 "normal"), el Play es el ÚNICO que tiene modo de baja latencia para jugar. Ni los modelos más caros con ANC lo traen. Y al medirla, la latencia del Play resultó la más baja de toda la familia. Es una ventaja real que se pierde al pagar más por otro modelo de la misma línea buscando mejor sonido o cancelación de ruido.
 
 ## Resistencia al agua: hasta dónde
 
@@ -18596,7 +18598,7 @@ El más vendido por algo: cumplen lo justo, cuestan poco y la marca responde. Bl
       },
       {
         question: "¿Cuánto dura la batería?",
-        answer: "Hasta 7,5 horas los auriculares solos y hasta 36 horas sumando las cargas del estuche. El estuche carga por USB-C y con 10 minutos enchufado te da unas 2 horas de uso.",
+        answer: "Hasta 7,5 horas los auriculares solos y hasta 36 horas sumando las cargas del estuche. El estuche carga por USB-C y con 10 minutos enchufado te da unas 3 horas de uso.",
       },
       {
         question: "¿Sirven para hacer deporte o se mojan con el sudor?",
@@ -18613,6 +18615,10 @@ El más vendido por algo: cumplen lo justo, cuestan poco y la marca responde. Bl
       {
         question: "¿Conviene el Play o el Redmi Buds 6 normal?",
         answer: "El Play es la versión más barata y no tiene cancelación de ruido. El Redmi Buds 6 normal sí trae ANC para aislarte en el colectivo o el subte. Si solo querés inalámbricos baratos para el día a día, el Play alcanza; si buscás bloquear el ruido ambiente, pagá la diferencia por los normales.",
+      },
+      {
+        question: "¿Es el modelo con menos retardo para jugar de toda la línea Redmi Buds 6?",
+        answer: "Sí, aunque suene raro: de toda la familia Redmi Buds 6 (Play, Active, Lite, 6S y el modelo normal), el Play es el único que trae modo de baja latencia. Ni los modelos más caros, con mejor sonido o con ANC, lo tienen. Es una ventaja concreta del modelo más barato de la línea.",
       },
       {
         question: "¿Son buenos por el precio?",
