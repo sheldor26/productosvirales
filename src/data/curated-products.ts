@@ -57008,6 +57008,7 @@ Comprálo si querés la opción más económica posible, con todo incluido, para
       { label: "Batería", value: "Recargable interna; Sony no publica horas oficiales (estimaciones de medios: 8-12 h)" },
       { label: "Extras", value: "Micrófono integrado, jack 3.5 mm, touchpad, botón crear/compartir" },
       { label: "Color", value: "Cosmic Red; también disponible en Galactic Purple y Sterling Silver" },
+      { label: "Identificar la versión de hardware", value: "En el número de serie de la parte trasera (17 caracteres, empieza con una letra como E, F o G): el segundo dígito indica la versión, V1 a V5. Sony fue actualizando la placa interna en cada revisión, confirmado por guías técnicas de reparación (iFixit)" },
     ],
     relatedProducts: ["MLA41152829", "MLA18917848"],
     priceUpdated: "2026-09-07",
@@ -57042,6 +57043,10 @@ Sony confirma oficialmente que los gatillos adaptativos dan "niveles variables d
 
 Sony no publica en su ficha oficial una cifra de horas de batería; lo que circula (8 a 12 horas, hasta 15 horas en la revisión de hardware "V2" con batería más grande) son estimaciones de medios especializados, no una declaración directa del fabricante. Hay además una demanda colectiva activa en Estados Unidos contra Sony por el problema de "stick drift" (deriva de los sticks con el uso), que a la fecha de este research seguía en curso sin acuerdo. No es exclusivo de este control (afecta al diseño de stick en general), pero es honesto mencionarlo. Si buscás paletas traseras o gatillos con recorrido ajustable, este control no los tiene: para eso está el DualSense Edge.
 
+## Cómo saber qué versión de hardware tenés
+
+Sony fue actualizando la placa interna del DualSense en varias revisiones desde el lanzamiento (V1 a V5, según guías técnicas de reparación de iFixit), aunque el modelo comercial (CFI-ZCT1W) es el mismo para todas. Para identificar cuál te tocó, no hace falta abrir el control: el número de serie de la parte trasera tiene 17 caracteres, empieza con una letra (E, F o G según el lote), y el segundo dígito indica la versión. No es una garantía contra el stick drift (que según la misma fuente técnica lo causa sobre todo el desgaste físico y la suciedad acumulada, no una falla exclusiva de una versión puntual), pero sirve para saber con qué placa estás lidiando si en algún momento hace falta repararlo.
+
 ## Para quién sí y para quién no
 
 Comprálo si tenés PS5 y querés la experiencia completa de gatillos adaptativos y haptics, el estándar contra el que se mide cualquier alternativa. No lo compres si buscás personalización física avanzada: ahí conviene el DualSense Edge, sabiendo que cuesta bastante más.`,
@@ -57050,6 +57055,7 @@ Comprálo si tenés PS5 y querés la experiencia completa de gatillos adaptativo
       { question: "¿El DualSense sirve para PC?", answer: "Sí, Sony confirma oficialmente que se conecta por Bluetooth o cable USB-C a PC, Mac, Android e iOS, además de la PS5. No vas a tener gatillos adaptativos en la mayoría de los juegos de PC (esa función depende de que el juego la soporte), pero funciona como control estándar." },
       { question: "¿Cuánto dura la batería?", answer: "Sony no publica una cifra oficial en su ficha de producto. Estimaciones de medios especializados hablan de 8 a 12 horas de uso, según el juego y el uso de haptics." },
       { question: "¿Es cierto que el DualSense tiene problemas de stick drift?", answer: "Hay una demanda colectiva activa en Estados Unidos contra Sony por este problema, que seguía en curso sin acuerdo confirmado a la fecha de este research. No significa que todos los controles lo sufran, pero es un tema documentado y real." },
+      { question: "¿Cómo sé qué versión de hardware tiene mi control?", answer: "Mirá el número de serie en la parte trasera: tiene 17 caracteres, empieza con una letra (E, F o G) y el segundo dígito indica la versión (V1 a V5), según guías técnicas de reparación de iFixit. Sony actualizó la placa interna en cada revisión, aunque el modelo comercial es el mismo para todas. No es un indicador de que esa versión esté libre de stick drift: eso depende sobre todo del desgaste y la suciedad acumulada con el uso." },
     ],
   },
 
