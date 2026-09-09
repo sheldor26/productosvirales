@@ -2369,4 +2369,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "36",
     postedAt: "2026-09-09T15:34:00-03:00",
   },
+  {
+    title: 'Monitor Gamer LG UltraGear 24GS60F-B 24" 180Hz',
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_721575-MLA99938046415_112025-O.webp",
+    affiliateUrl: "https://meli.la/1kdUXCc",
+    newPrice: "211.389",
+    oldPrice: "254.476",
+    offPct: "16",
+    postedAt: "2026-09-09T16:00:00-03:00",
+  },
 ];
