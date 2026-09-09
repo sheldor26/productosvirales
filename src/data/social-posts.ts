@@ -2299,4 +2299,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "23",
     postedAt: "2026-09-09T11:11:00-03:00",
   },
+  {
+    title: "Consola PlayStation 5 Pro CFI-7020 2TB Digital",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_892350-MLA99979858751_112025-O.webp",
+    affiliateUrl: "https://meli.la/2Sm9w1m",
+    newPrice: "2.600.000",
+    oldPrice: "2.600.000",
+    offPct: "0",
+    postedAt: "2026-09-09T11:37:00-03:00",
+  },
 ];
