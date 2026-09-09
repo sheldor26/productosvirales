@@ -2419,4 +2419,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "24",
     postedAt: "2026-09-09T18:05:00-03:00",
   },
+  {
+    title: 'Smart TV Hisense 55" Mini LED 4K QLED',
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_672048-MLA108582917659_032026-O.webp",
+    affiliateUrl: "https://meli.la/2exNsM8",
+    newPrice: "899.999",
+    oldPrice: "1.059.999",
+    offPct: "15",
+    postedAt: "2026-09-09T18:30:00-03:00",
+  },
 ];
