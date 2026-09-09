@@ -2409,4 +2409,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "25",
     postedAt: "2026-09-09T17:38:00-03:00",
   },
+  {
+    title: 'Monitor Gamer 27" Samsung Full HD IPS 100Hz',
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_685774-MLA99523893106_122025-O.webp",
+    affiliateUrl: "https://meli.la/2AZ85ZP",
+    newPrice: "212.999",
+    oldPrice: "282.999",
+    offPct: "24",
+    postedAt: "2026-09-09T18:05:00-03:00",
+  },
 ];
