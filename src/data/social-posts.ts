@@ -2399,4 +2399,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "13",
     postedAt: "2026-09-09T17:12:00-03:00",
   },
+  {
+    title: "Kit Taladro Percutor + Atornillador Impacto 20V Dewalt",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_860524-MLA99458988754_112025-O.webp",
+    affiliateUrl: "https://meli.la/2NWEPzj",
+    newPrice: "816.750",
+    oldPrice: "1.094.684",
+    offPct: "25",
+    postedAt: "2026-09-09T17:38:00-03:00",
+  },
 ];
