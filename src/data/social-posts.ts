@@ -2269,4 +2269,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "46",
     postedAt: "2026-09-09T09:41:12-03:00",
   },
+  {
+    title: 'Smart TV Philips 43" LED Full HD',
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_924223-MLA99850743303_112025-O.webp",
+    affiliateUrl: "https://meli.la/1V7Ke9H",
+    newPrice: "429.999",
+    oldPrice: "560.299",
+    offPct: "23",
+    postedAt: "2026-09-09T10:14:00-03:00",
+  },
 ];

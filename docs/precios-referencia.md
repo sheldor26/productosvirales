@@ -171,6 +171,7 @@ negro — tienen precio de lista distinto).
 | Smart TV Hisense 43" Q6QV QLED 4K | $566.999 | 2026-09-08 | meli.la/2ZzB2CU — sin referencia previa, modelo distinto al Hisense 50" 50A4NV ya posteado, "Mejor precio" ya seleccionado, MÁS VENDIDO, 4.9★ (323 op.), +500 vendidos, "4° en Televisores Hisense" es brand-scoped (no usado en copy), Tienda oficial Hisense |
 | Televisor LG NanoCell AI 55" Smart 4K (55NANO80ASA) | $899.999 | 2026-09-09 | meli.la/2nCudaK — sin referencia previa, primer LG TV del sitio, día CyberFest 9/9, 4.9★ (49 op.), +100 vendidos, Tienda oficial LG (+100 mil ventas), incluye Magic Remote. El "$850.999 con Cupón" que mostraba la ficha no se verificó/usó |
 | Smart TV RCA 55" LED Google TV 4K (G55P7UHD-F) | $694.599 | 2026-09-09 | meli.la/2xsJEYR — sin referencia previa, primer RCA TV del sitio, día CyberFest 9/9, "Mejor precio" ya seleccionado, OFERTA IMPERDIBLE, 4.9★ (443 op.), +1000 vendidos, Tienda oficial Bluemat |
+| Smart TV Philips 43" LED Full HD | $429.999 | 2026-09-09 | meli.la/1V7Ke9H — sin referencia previa, primer Philips 43" LED FHD de este modelo del sitio (ya posteado Philips 40" HD, modelo distinto), "Llega mañana" era la opción más barata sin seleccionar por default frente a "En cuotas" $450.773, MÁS VENDIDO, 4.7★ (3852 op.), +10 mil vendidos, Tienda oficial Megatone |
 
 ## Pequeños electrodomésticos
 
