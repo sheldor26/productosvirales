@@ -9631,6 +9631,8 @@ A $26.500 con 4.8 estrellas en {{reviews:MLA17743447}} calificaciones, es la ent
       "El PowerPlay (carga por inducción) necesita el mousepad específico de Logitech, que no viene incluido: sin él, es un mouse a pila común",
       "El agarre es chico para algunas manos: una reseña lo describe como \"bastante chiquito y poco anatómico\", aunque la mayoría lo encuentra cómodo incluso con mano grande",
       "Es 111% más caro que el G203 con cable y 31% más caro que el G305 de esta misma selección",
+      "Por Bluetooth hay latencia real y el DPI se comporta distinto que por Lightspeed, según un review técnico detallado: para gaming conviene usar el dongle Lightspeed, no Bluetooth",
+      "Sin scroll lateral ni rueda de giro libre, algo que otros mouse de este precio sí traen",
     ],
     verdict: "A $73.399 (23% off), es el sucesor directo del G305 y resuelve su problema más conocido: el doble clic que aparece con los años. Suma sensor HERO 25K, conexión dual Lightspeed + Bluetooth y mejor agarre. El costo real: la batería dura bastante menos (alrededor de un mes de uso intensivo contra los tres del G305). Para quien nunca usó un sensor HERO, varias reseñas recomiendan arrancar por el G305 y subir a este después.",
     articleBody: `## El sucesor que corrige el problema conocido del G305
@@ -9653,6 +9655,18 @@ A diferencia del G305 (solo dongle Lightspeed), el G309 suma Bluetooth. Varias r
 
 No todo es mejora sin matices. Una reseña con pros y contras bien organizados señala: "a veces se me presiona accidentalmente el clic derecho al reposar la mano" y "el clic es algo ruidoso, al menos el sonido del clic del G305 me gustaba más". Sobre el tamaño, hay opiniones cruzadas: la mayoría lo encuentra cómodo hasta para manos grandes, pero al menos una reseña de un mes de uso lo describe como "bastante chiquito y poco anatómico". Y sobre el PowerPlay (carga inalámbrica por inducción): funciona, pero necesita el mousepad específico de Logitech que no viene incluido, así que sin esa compra extra es un mouse a pila común.
 
+## El peso: cargado hacia atrás, y el número de la caja tiene letra chica
+
+Igual que pasa con el G305, el peso no está balanceado parejo: la tapa donde va la pila pesa por sí sola unos 5 gramos y hace que el mouse quede más cargado atrás que adelante, algo que un reviewer detallado midió pieza por pieza. Y el "68 gramos" que Logitech promociona en la caja es el peso solo usándolo con PowerPlay, el mousepad de carga por inducción que se vende aparte y cuesta casi lo mismo que el mouse: con la pila AA puesta, que es como lo usa la enorme mayoría, pesa bastante más.
+
+## Bluetooth: cómodo, pero no para competir
+
+El mismo video oficial de presentación de Logitech lo aclara: para jugar conviene usar el dongle Lightspeed, porque Bluetooth tiene más demora. Un review técnico detallado lo confirma con uso real: por Bluetooth hay latencia perceptible tanto en los clics como en el movimiento, y hasta el comportamiento del DPI configurado cambia según la conexión. Bluetooth sirve bien para uso de oficina o para no ocupar el dongle en una notebook, pero para gaming competitivo el dongle Lightspeed sigue siendo la opción.
+
+## Un tip real para detectar una falsificación
+
+Un reviewer de habla inglesa señala un dato práctico y verificable: los mouse Logitech originales se despiertan solos apenas los movés; las unidades falsificadas necesitan que apretés un botón para despertarse. Es una forma rápida de chequear autenticidad sin depender solo del software G HUB.
+
 ## Contra el resto de la línea Logitech de esta selección
 
 Frente al [G305 Lightspeed](/producto/mouse-gamer-inalambrico-logitech-g305-lightspeed-black-mla11259955) ($56.099), el G309 cuesta 31% más pero suma el sensor premium, Bluetooth y arregla el problema de doble clic a largo plazo. Frente al [Logitech G Pro Wireless](/producto/mouse-gamer-logitech-g-pro-wireless-black-mla14428767) y el [PRO X Superlight 2](/producto/mouse-gamer-logitech-pro-x-superlight-2-blanco-mla28598537), el G309 es la opción intermedia: mejor sensor que el G305, pero todavía con pila AA en vez de batería recargable de los modelos tope de gama.
@@ -9667,9 +9681,11 @@ A $73.399 con 4.9 estrellas en {{reviews:MLA40568693}} calificaciones, es el upg
       { label: "Modelo", value: "G309 Lightspeed" },
       { label: "Conexión", value: "Dual: Lightspeed (dongle 2,4 GHz) y Bluetooth" },
       { label: "Sensor", value: "HERO 25K, hasta 25.600 DPI (el mismo de los modelos premium de la marca)" },
-      { label: "Peso", value: "86 g (con la pila puesta), más liviano que el G305" },
+      { label: "Polling rate", value: "1.000 Hz por defecto, configurable desde G HUB" },
+      { label: "Peso", value: "86 g con la pila puesta, más liviano que el G305. Queda cargado hacia atrás: la tapa donde va la pila pesa por sí sola unos 5 g y desbalancea el mouse. El peso de 68 g que promociona Logitech es solo usándolo con PowerPlay (mousepad de carga por inducción vendido aparte, casi al precio del mouse)" },
       { label: "Batería", value: "1 pila AA: 300+ horas por Lightspeed, 600+ por Bluetooth (según fabricante; varias reseñas reportan ~1 mes de uso diario intensivo, menos que el G305)" },
-      { label: "Botones", value: "6 (switches óptico-mecánicos Lightforce)" },
+      { label: "Botones", value: "6 (switches ópticos Lightforce, con modo híbrido o 100% óptico configurable desde G HUB, igual que en el PRO X Superlight 2)" },
+      { label: "Scroll", value: "Sin scroll lateral ni rueda de giro libre, a diferencia de otros mouse de este precio" },
       { label: "Iluminación", value: "Sin RGB (solo un LED indicador de DPI)" },
       { label: "Carga inalámbrica", value: "Compatible con PowerPlay por inducción, requiere el mousepad específico de Logitech (no incluido)" },
       { label: "Extras", value: "Stickers de agarre antideslizante incluidos, guardado del dongle dentro del mouse" },
@@ -9682,6 +9698,10 @@ A $73.399 con 4.9 estrellas en {{reviews:MLA40568693}} calificaciones, es el upg
       { question: "¿Vale la pena si nunca usé un mouse con sensor HERO?", answer: "Una reseña detallada lo recomienda con honestidad: si nunca probaste el sensor HERO, arrancá primero por el G305 (más barato) y si te convence, subí al G309 después. Si ya sabés que querés lo mejor de entrada, el salto directo también tiene sentido." },
       { question: "¿Necesito el mousepad PowerPlay para que funcione?", answer: "No, funciona perfectamente con la pila AA sola. El PowerPlay es una opción adicional de carga por inducción que requiere comprar el mousepad específico de Logitech por separado; sin él, simplemente usás y cambiás la pila como cualquier mouse inalámbrico." },
       { question: "¿Conviene este o el G305?", answer: "El G305 ($56.099) es más barato y la batería dura más (hasta 3 meses), pero puede desarrollar el problema de doble clic con los años y solo tiene dongle. El G309 ($73.399) suma sensor superior, Bluetooth y arregla ese problema, a cambio de una batería que dura menos. Para presupuesto ajustado, G305; para el mejor sensor y sin el riesgo del doble clic a largo plazo, G309." },
+      { question: "¿Realmente pesa 68 gramos como dice la caja?", answer: "Solo usándolo con PowerPlay, el mousepad de carga por inducción de Logitech que se vende aparte y cuesta casi lo mismo que el mouse. Con la pila AA puesta, que es como lo usa la gran mayoría, pesa 86 gramos, y queda cargado hacia atrás porque la tapa de la pila concentra buena parte de ese peso." },
+      { question: "¿Conviene usarlo por Bluetooth para jugar?", answer: "No es lo ideal. El propio video oficial de Logitech recomienda el dongle Lightspeed para gaming, porque Bluetooth tiene más demora. Un review técnico detallado confirma latencia perceptible por Bluetooth tanto en clics como en movimiento, y hasta el DPI se comporta distinto según la conexión. Bluetooth rinde bien para uso de oficina o notebook." },
+      { question: "¿Cómo sé si es original?", answer: "Un dato práctico: los mouse Logitech originales se despiertan solos apenas los movés. Las unidades falsificadas necesitan que apretés un botón para despertarse. Es un chequeo rápido, además de confirmar que G HUB reconozca el mouse correctamente." },
+      { question: "¿Tiene scroll lateral?", answer: "No. A diferencia de otros mouse de este precio, no tiene scroll lateral ni rueda de giro libre." },
     ],
     customerReviews: [
       { rating: 5, country: "Argentina", date: "2025", useful: 23, text: "Si estás buscando exactamente el reemplazo del G305 es el indicado, mejora un poco el sensor, no vas a tener el problema del doble click que lo tiene el G305 después de 3 o 4 años de uso, y además se siente más liviano y cómodo ya que es algo más grande. Si lo encontrás solo al precio correcto es muy recomendable." },
