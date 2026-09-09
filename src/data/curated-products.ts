@@ -2987,6 +2987,28 @@ Es para vos si ya sabés que preferís cuerdas de metal y en algún momento vas 
       { label: "Marca", value: "Ranser" },
       { label: "Modelo", value: "SR7080SW" },
     ],
+    articleBody: `## Qué es la Ranser SR7080SW
+
+Es una barra de sonido 2.1 con subwoofer separado, pensada para mejorar el sonido plano de una smart TV. Cuesta {{precio:MLA61999797}}, tiene {{reviews:MLA61999797}} calificaciones con {{rating:MLA61999797}} estrellas, y es la barra de sonido más vendida de toda la categoría "Home Theaters" de MercadoLibre Argentina.
+
+## La más vendida, y no por casualidad
+
+Entre las reseñas más útiles no aparece una queja de fondo: los compradores la describen una y otra vez como la mejora que le faltaba al sonido de la TV. Combina 120 W RMS entre la barra y el subwoofer, con conectividad completa (HDMI, USB, Bluetooth, entrada óptica), algo que no todas las opciones de este precio traen juntas.
+
+## No es un sistema envolvente real
+
+La ficha declara un solo parlante además del subwoofer, así que no reparte el sonido en varios canales como un sistema 5.1 de verdad. Tampoco tiene reproductor propio, según su ficha técnica: sirve para reproducir lo que le llega por HDMI, USB o Bluetooth, no de forma independiente.
+
+## Para quién es, y para quién no
+
+Es para vos si buscás mejorar el sonido de una TV sin gastar de más, con la base de compradores más grande de la categoría respaldándola. No es para vos si buscás un sistema envolvente de canales múltiples, o si necesitás que reproduzca contenido sin depender de otro dispositivo conectado.`,
+    faq: [
+      { question: "¿Trae subwoofer?", answer: "Sí, separado de la barra, combinando 120 W RMS entre los dos." },
+      { question: "¿Tiene reproductor propio?", answer: "No, según su ficha técnica. Reproduce lo que le llega conectado por HDMI, USB o Bluetooth, no funciona de forma independiente." },
+      { question: "¿Es un sistema de sonido envolvente?", answer: "No en el sentido estricto: la ficha declara un solo parlante además del subwoofer, así que no reparte el sonido en varios canales como un 5.1 completo." },
+      { question: "¿Qué conectividad tiene?", answer: "HDMI, USB, Bluetooth y entrada de audio óptica: conectividad completa para este rango de precio." },
+      { question: "¿Por qué es la más vendida de la categoría?", answer: "Combina el precio más bajo de las barras de sonido con conectividad completa y una base grande de opiniones sin quejas de fondo, algo poco común en este segmento de precio." },
+    ],
     relatedProducts: ["MLA69595880", "MLA44873429", "MLA44141923"],
   },
   {
@@ -3035,6 +3057,28 @@ Es para vos si ya sabés que preferís cuerdas de metal y en algún momento vas 
       { label: "Color", value: "Negro" },
       { label: "Marca", value: "Gadnic" },
       { label: "Modelo", value: "Nova 160" },
+    ],
+    articleBody: `## Qué es la Gadnic Nova 160
+
+Es una barra de sonido 2.1 con subwoofer inalámbrico separado de la barra. Cuesta {{precio:MLA69595880}}, tiene {{reviews:MLA69595880}} calificaciones con {{rating:MLA69595880}} estrellas, y trae el descuento declarado más grande entre las barras de sonido del catálogo: 47% sobre el precio de lista.
+
+## El descuento más grande, con compradores conformes
+
+Varias reseñas coinciden en la misma idea: "es exactamente lo que buscaba" para la TV de la casa. El subwoofer se conecta sin cables a la barra, y la conectividad es completa: Aux, Bluetooth, HDMI y USB.
+
+## La base de opiniones es más chica
+
+Frente a la [Ranser SR7080SW](/producto/barra-de-sonido-ranser-sr7080sw-2-1-canales-con-subwoofer-mla61999797), la más vendida de la categoría, esta tiene bastante menos calificaciones acumuladas, y las que hay son en su mayoría cortas, sin mucho detalle para verificar a fondo. No es una señal de mal producto, pero sí de menos casos de uso para confirmar que el modelo sea consistente en el tiempo. Tampoco tiene reproductor incorporado, según su ficha.
+
+## Para quién es, y para quién no
+
+Es para vos si el precio con descuento es la prioridad y no te molesta que la base de opiniones sea más chica que la de otras opciones del catálogo. No es para vos si preferís la opción con más historial de uso: ahí la Ranser SR7080SW o la JBL SB180 tienen bastante más evidencia acumulada.`,
+    faq: [
+      { question: "¿Trae subwoofer?", answer: "Sí, inalámbrico y separado de la barra." },
+      { question: "¿Qué conectividad tiene?", answer: "Aux, Bluetooth, HDMI y USB." },
+      { question: "¿Tiene reproductor propio?", answer: "No, según su ficha técnica." },
+      { question: "¿Cuánto descuento tiene?", answer: "47% declarado sobre el precio de lista, el mayor entre las barras de sonido del catálogo." },
+      { question: "¿Cuántas opiniones tiene?", answer: "{{reviews:MLA69595880}}, bastante menos que la Ranser SR7080SW o la JBL SB180, aunque sin quejas de peso entre las que hay." },
     ],
     relatedProducts: ["MLA61999797", "MLA44873429", "MLA54053927"],
   },
@@ -3087,6 +3131,28 @@ Es para vos si ya sabés que preferís cuerdas de metal y en algún momento vas 
       { label: "Marca", value: "JBL" },
       { label: "Modelo", value: "SB510" },
     ],
+    articleBody: `## Qué es la JBL Cinema SB510
+
+Es la entrada a la marca JBL entre las barras de sonido del catálogo, con {{rating:MLA44873429}} estrellas, el rating más alto junto con la SB180. Cuesta {{precio:MLA44873429}} y tiene {{reviews:MLA44873429}} calificaciones.
+
+## Un dato que la ficha no aclara del todo
+
+El título de la publicación dice "3.1 canales", pero el campo estructurado "Configuración de canales" de la misma ficha declara 2.1. Son dos datos distintos sobre lo mismo, y no hay forma de saber cuál es el correcto sin preguntarle al vendedor: no tomamos partido por ninguno de los dos.
+
+## Alcanza para un ambiente, no para un home theater completo
+
+Los compradores la describen como una mejora real para el sonido de una habitación o un ambiente, y uno lo resume con honestidad: "no reemplaza a un home theater, pero es suficiente para una habitación individual". No tiene reproductor incorporado, según su ficha.
+
+## Para quién es, y para quién no
+
+Es para vos si buscás la entrada más accesible a una marca reconocida, para un ambiente o habitación puntual. No es para vos si necesitás el dato exacto de canales confirmado antes de comprar, o si buscás un sistema pensado para un living grande.`,
+    faq: [
+      { question: "¿Cuántos canales tiene?", answer: "Su ficha tiene una contradicción real: el título de la publicación dice \"3.1 canales\", pero el campo estructurado \"Configuración de canales\" declara 2.1. No confirmamos ninguno de los dos hasta poder chequearlo con el vendedor." },
+      { question: "¿Alcanza para un living grande?", answer: "Según sus compradores, rinde mejor en un ambiente o habitación individual. Uno aclara con honestidad que no reemplaza a un home theater completo." },
+      { question: "¿Tiene reproductor propio?", answer: "No, según su ficha técnica." },
+      { question: "¿Trae envío gratis?", answer: "Sí, declarado en la publicación." },
+      { question: "¿Vale la pena frente a otras barras de sonido de entrada?", answer: "Si te importa comprar una marca reconocida, sí: tiene el rating más alto junto con la JBL SB180, aunque con menos calificaciones acumuladas. Si el precio es lo único que importa, la Ranser SR7080SW del catálogo cuesta menos." },
+    ],
     relatedProducts: ["MLA54053927", "MLA44141923", "MLA61999797"],
   },
   {
@@ -3130,6 +3196,32 @@ Es para vos si ya sabés que preferís cuerdas de metal y en algún momento vas 
       { label: "Color", value: "Negro" },
       { label: "Marca", value: "Samsung" },
       { label: "Modelo", value: "SoundBar B-series B400F 2.0 (el \"2.0\" del nombre indica la cantidad de canales, aunque no es un campo declarado en la ficha técnica)" },
+    ],
+    articleBody: `## Qué es la Samsung B400F
+
+Es la barra de sonido de Samsung del catálogo, de 2.0 canales sin subwoofer separado. Cuesta {{precio:MLA54053927}}, tiene {{reviews:MLA54053927}} calificaciones con {{rating:MLA54053927}} estrellas, y es la única marca de primer nivel de esta categoría que no es JBL.
+
+## La marca más buscada, según MercadoLibre
+
+No es casualidad que aparezca en el catálogo: según el propio ranking de tendencias de búsqueda de MercadoLibre, Samsung es la marca más buscada en esta categoría, por encima de JBL, LG y Sony. Sus compradores la describen en términos de "cine en casa", y es la única de las barras de sonido del catálogo sin subwoofer separado, más compacta para espacios chicos.
+
+## Un dato que un comprador dejó por escrito
+
+No incluye cable óptico. Conectada por Bluetooth a la TV, un comprador señaló que puede aparecer un leve desfasaje entre audio y video. Si tu TV tiene salida óptica y te molesta ese delay, conviene sumar el cable aparte.
+
+## La ficha técnica es más escueta de lo esperado
+
+Para tratarse de una marca de primer nivel, la ficha técnica de esta publicación solo declara marca, modelo, color y voltaje. No es un problema del producto en sí, pero sí una limitación a la hora de comparar specs contra otras opciones más documentadas.
+
+## Para quién es, y para quién no
+
+Es para vos si preferís una marca reconocida y no necesitás subwoofer separado, en un espacio compacto. No es para vos si buscás graves potentes: sin subwoofer, dependen solo de la barra.`,
+    faq: [
+      { question: "¿Por qué Samsung está en esta comparativa si el resto es JBL?", answer: "Porque según el propio ranking de tendencias de búsqueda de MercadoLibre, Samsung es la marca más buscada en esta categoría, por encima de JBL, LG y Sony." },
+      { question: "¿Trae subwoofer?", answer: "No. Es la única barra de sonido del catálogo sin subwoofer separado, más compacta para espacios chicos, pero con los graves dependiendo solo de la barra." },
+      { question: "¿Incluye cable óptico?", answer: "No, según un comprador. Conectada por Bluetooth a la TV puede aparecer un leve desfasaje entre audio y video, algo que el cable óptico evita." },
+      { question: "¿Cuántos canales tiene?", answer: "2.0, según indica el propio nombre del modelo, aunque no es un campo declarado explícito en la ficha técnica de MercadoLibre." },
+      { question: "¿Por qué la ficha técnica tiene tan pocos datos?", answer: "Es una limitación real de esta publicación: solo declara marca, modelo, color y voltaje, menos que lo que declaran otras marcas de la categoría en sus fichas." },
     ],
     relatedProducts: ["MLA44873429", "MLA44141923", "MLA69595880"],
   },
@@ -3184,6 +3276,32 @@ Es para vos si ya sabés que preferís cuerdas de metal y en algún momento vas 
       { label: "Color", value: "Negro" },
       { label: "Marca", value: "JBL" },
       { label: "Modelo", value: "SB180" },
+    ],
+    articleBody: `## Qué es la JBL SB180
+
+Es la barra de sonido tope de línea del catálogo, con subwoofer separado y reproductor incorporado. Cuesta {{precio:MLA44141923}}, tiene {{reviews:MLA44141923}} calificaciones con {{rating:MLA44141923}} estrellas, y es la más cara y la más probada de todas las barras de sonido que comparamos.
+
+## Casi 6.000 calificaciones, lejos de cualquier otra
+
+Con {{reviews:MLA44141923}} opiniones, tiene la base de evidencia más grande de esta categoría por lejos: la segunda más grande, la Ranser SR7080SW, ronda apenas 400. Es también la única de todas con reproductor incorporado, según su ficha, así que puede funcionar sin depender de otro dispositivo conectado.
+
+## Combina 110 W RMS con subwoofer separado
+
+Trae subwoofer aparte de la barra, con 110 W RMS declarados y respuesta de frecuencia de 40Hz a 20KHz. Un comprador señala que el grave en películas queda un poco por debajo de lo esperado, aunque para música lo describe como excelente.
+
+## Ojo con el stock
+
+Al momento de verificar esta ficha, figuraba como "última unidad disponible". Es un dato que puede cambiar en cualquier momento, así que conviene confirmar el stock antes de decidirte por esta opción específica.
+
+## Para quién es, y para quién no
+
+Es para vos si priorizás la opción con más evidencia real de uso y querés reproductor incorporado. No es para vos si el presupuesto manda: es la más cara de esta categoría en el catálogo, y las otras cuatro cumplen bien para la mayoría de los usos.`,
+    faq: [
+      { question: "¿Por qué tiene tantas más calificaciones que las otras barras de sonido?", answer: "Es la más establecida en el mercado de las cinco del catálogo, con casi 6.000 opiniones acumuladas, muy por encima de la segunda base más grande." },
+      { question: "¿Trae reproductor incorporado?", answer: "Sí, según su ficha, la única de las barras de sonido del catálogo que lo declara. Puede funcionar sin depender de otro dispositivo conectado." },
+      { question: "¿Cómo es el grave?", answer: "Un comprador señala que en películas queda un poco por debajo de lo esperado, aunque para música lo describe como excelente." },
+      { question: "¿Está siempre disponible?", answer: "Al verificar esta ficha figuraba como \"última unidad disponible\". Conviene confirmar el stock antes de decidirte por esta." },
+      { question: "¿Vale la pena pagar más que por otras barras de sonido?", answer: "Si priorizás la opción con más evidencia real de uso y reproductor incorporado, sí. Si el presupuesto es lo primero, la Ranser SR7080SW del catálogo cumple bien y cuesta bastante menos." },
     ],
     relatedProducts: ["MLA44873429", "MLA54053927", "MLA61999797"],
   },
