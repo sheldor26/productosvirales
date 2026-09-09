@@ -1506,7 +1506,8 @@ No es para vos si el presupuesto es una variable importante: la Osmo Action 4 de
       { label: "Resolución de foto", value: "40 MP (7296 x 5472)" },
       { label: "Sensor", value: "CMOS de 1/1,3 pulgadas, el mismo de la Osmo Action 4" },
       { label: "Apertura", value: "Fija en f/2.8, campo de visión de 155 grados" },
-      { label: "Estabilización", value: "RockSteady. DJI no publica el número de versión en la hoja de esta cámara" },
+      { label: "Lente", value: "Fijo, no intercambiable: la FAQ oficial de DJI lo confirma explícito (\"¿Puedo cambiar el lente? No\"), a pesar de que alguna reseña sugiere lo contrario. Sí admite lentes y filtros magnéticos adicionales por encima" },
+      { label: "Estabilización", value: "RockSteady 3.0, RockSteady 3.0+, HorizonBalancing y HorizonSteady, confirmado por DJI. HorizonSteady solo está disponible en 1080p o 2.7K (16:9) a 60 cuadros por segundo o menos" },
       { label: "Sumergible sin carcasa", value: "20 metros. Con la carcasa Waterproof Case, 60 metros" },
       { label: "Pantalla trasera", value: "OLED táctil de 2,5 pulgadas, 400 x 712" },
       { label: "Pantalla frontal", value: "OLED táctil de 1,46 pulgadas, 342 x 342" },
@@ -1516,6 +1517,11 @@ No es para vos si el presupuesto es una variable importante: la Osmo Action 4 de
       { label: "Peso", value: "146 g" },
       { label: "Memoria interna", value: "64 GB, de los cuales 47 quedan disponibles. Ampliable con microSD" },
       { label: "GPS", value: "No tiene integrado, confirmado por DJI" },
+      { label: "Profundidad y altitud", value: "Sí, confirmado por DJI: muestra en pantalla la profundidad y duración de una inmersión, o la altitud en tiempo real en montaña. No es lo mismo que GPS: no traza un mapa del recorrido" },
+      { label: "Montaje", value: "Magnético de liberación rápida, heredado de la Osmo Action 3 y 4. Compatible con monturas de \"patitas\" tipo GoPro sin destornillar nada" },
+      { label: "Carga rápida", value: "Sí, confirmado por DJI, usando el cargador oficial DJI 30W USB-C. DJI no publica el tiempo exacto ni el porcentaje que alcanza" },
+      { label: "Control por voz", value: "Sí, confirmado por DJI, pero solo en inglés y chino mandarín. Los comandos disponibles son grabar, detener grabación, tomar foto y apagar" },
+      { label: "Función webcam", value: "Sí, conectándola por USB-C a una computadora, confirmado por soporte oficial de DJI" },
       { label: "Lanzamiento", value: "19 de septiembre de 2024" },
     ],
     articleBody: `## Qué es la DJI Osmo Action 5 Pro
@@ -1534,9 +1540,17 @@ El sensor es de 1/1,3 pulgadas, el mismo que traía la Osmo Action 4 de 2023, y 
 
 Trae 64 GB de memoria interna (47 disponibles), algo que la Action 4 no tenía, y declara 240 minutos de autonomía, un 50% más que los 160 de esa generación anterior. DJI mide ese número en 1080p a 24 cuadros con las pantallas y el Wi-Fi apagados, y no publica el dato grabando en 4K.
 
-## Sin GPS integrado
+## Sin GPS integrado, pero con profundidad y altitud
 
-A diferencia de otras cámaras de acción de gama alta, no tiene GPS propio, confirmado por DJI. Si buscás registrar el recorrido de una actividad (velocidad, altura, mapa del trayecto), esta cámara sola no lo hace: haría falta un accesorio o app externa.
+A diferencia de otras cámaras de acción de gama alta, no tiene GPS propio, confirmado por DJI. Si buscás registrar el recorrido de una actividad (velocidad, mapa del trayecto), esta cámara sola no lo hace: haría falta un accesorio o app externa. Sí muestra en pantalla, en tiempo real, la profundidad y duración de una inmersión, o la altitud si estás en la montaña, aunque eso no reemplaza a un GPS real.
+
+## Un dato que las reseñas confunden: el lente no se cambia
+
+Algunas reseñas hablan de "lente intercambiable", pero la FAQ oficial de DJI lo desmiente de forma explícita: el lente es fijo, no se puede cambiar. Lo que sí admite es lentes y filtros magnéticos adicionales por encima del lente original (gran angular, filtros ND), que es probablemente el origen de la confusión.
+
+## El montaje magnético, y otras funciones que suman
+
+Hereda el sistema de montaje magnético de liberación rápida de la Osmo Action 3 y 4: se ancla y desancla sin destornillar nada, compatible con monturas de "patitas" tipo GoPro. También admite carga rápida con el cargador oficial DJI de 30W (aunque DJI no publica el tiempo exacto), funciona como webcam conectándola por USB-C a una computadora, y tiene control por voz, aunque limitado a inglés y chino mandarín.
 
 ## Para quién es, y para quién no
 
@@ -1548,6 +1562,10 @@ Es para vos si buscás la mayor resolución y resistencia al agua de la línea O
       { question: "¿Tiene GPS integrado?", answer: "No, confirmado por DJI. Si buscás registrar velocidad, altura o el mapa del recorrido de una actividad, esta cámara sola no lo hace." },
       { question: "¿Cuánto dura la batería?", answer: "240 minutos declarados por DJI, medidos en 1080p a 24 cuadros con las pantallas y el Wi-Fi apagados. DJI no publica el dato grabando en 4K." },
       { question: "¿Vale la pena pagar más por la Osmo Action 6?", answer: "Depende de si te importa la calidad en poca luz. La Action 6 suma un sensor más grande y apertura variable, dos ventajas reales en condiciones oscuras. Si filmás sobre todo de día o con buena luz, esta Action 5 Pro rinde prácticamente igual por menos plata." },
+      { question: "¿Se le puede cambiar el lente?", answer: "No. La FAQ oficial de DJI lo confirma explícito, aunque alguna reseña habla de \"lente intercambiable\". Lo que sí admite es lentes y filtros magnéticos adicionales por encima del original." },
+      { question: "¿Tiene sistema de montaje rápido?", answer: "Sí, un sistema magnético de liberación rápida heredado de la Osmo Action 3 y 4: se ancla y desancla sin destornillar, compatible con monturas de \"patitas\" tipo GoPro." },
+      { question: "¿Funciona como webcam?", answer: "Sí, conectándola por USB-C a una computadora, confirmado por el soporte oficial de DJI." },
+      { question: "¿Tiene control por voz?", answer: "Sí, confirmado por DJI, pero solo en inglés y chino mandarín. Los comandos disponibles son grabar, detener grabación, tomar foto y apagar." },
     ],
     relatedProducts: ["MLA62340610", "MLA58197668", "MLA47374183"],
   },
