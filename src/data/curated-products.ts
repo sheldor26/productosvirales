@@ -1605,6 +1605,41 @@ Es para vos si buscás la mayor resolución y resistencia al agua de la línea O
       { label: "Lanzamiento", value: "31 de julio de 2025" },
       { label: "Versión", value: "Combo Aventura" },
     ],
+    articleBody: `## Qué es la DJI Osmo 360
+
+Es la cámara 360 de DJI, con dos lentes opuestos que graban toda la escena a la vez, sin necesidad de encuadrar. Cuesta {{precio:MLA53612281}}, tiene {{reviews:MLA53612281}} calificaciones con {{rating:MLA53612281}} estrellas, y es la 360 con más sensor de todo el catálogo.
+
+## El sensor más grande de las 360 que comparamos
+
+Trae dos sensores CMOS cuadrados de 1/1,1 pulgadas, más grandes que los 1/1,28 de la [Insta360 X5](/producto/camara-360-insta360-x5-mla49100446), la otra 360 de referencia del catálogo. Un sensor más grande capta más luz, así que la diferencia se nota sobre todo grabando de noche o en interiores con poca iluminación.
+
+## Resolución: 8K a 50 cuadros, arriba de la competencia
+
+Graba 8K en 360 hasta 50 cuadros por segundo. La Insta360 X5, la X4 y la [GoPro MAX2](/producto/camara-360-gopro-max2-mla57726638) topean su 8K en 30 cuadros, así que acá hay un salto real de fluidez en la máxima resolución. Usando una sola de las dos lentes, en vez del modo 360 completo, llega a 5K a 60 cuadros.
+
+## Se moja menos que la Insta360 X5
+
+Es sumergible hasta 10 metros sin carcasa, con certificación IP68. La Insta360 X5 aguanta un 50% más, 15 metros. Si el uso es buceo o actividades acuáticas más allá de 10 metros de profundidad, esa diferencia importa.
+
+## Memoria de sobra, batería con matices
+
+Trae 128 GB de memoria interna (105 disponibles), más del doble que los 47 de la [Osmo Action 5 Pro](/producto/camara-deportiva-dji-osmo-action-5-pro-mla66182550). La autonomía declarada por DJI es de 100 minutos, pero ese número está medido grabando 8K a 30 cuadros, no a los 50 que la distinguen del resto: en la resolución más alta y fluida, la batería real probablemente rinda menos que esos 100 minutos.
+
+## GPS: no viene en el cuerpo
+
+Para registrar el recorrido de una actividad (velocidad, altitud, mapa del trayecto) hace falta sumar el control remoto Osmo Action GPS Bluetooth, que se vende aparte. DJI no publica si el cuerpo de la cámara tiene GPS propio, así que asumimos que no lo trae integrado.
+
+## Para quién es, y para quién no
+
+Es para vos si priorizás la mejor calidad de imagen posible en una 360, sobre todo en poca luz, y no te importa pagar el precio más alto de esta categoría en el catálogo. No es para vos si necesitás sumergirte más de 10 metros sin carcasa, o si el GPS integrado es un factor de decisión: ahí conviene revisar otras opciones antes de comprar.`,
+    faq: [
+      { question: "¿En qué se diferencia de la Insta360 X5?", answer: "Tiene sensores más grandes (1/1,1 pulgadas contra 1/1,28) y llega a 8K a 50 cuadros por segundo contra los 30 de la X5. A cambio, se moja menos sin carcasa: 10 metros contra los 15 de la X5." },
+      { question: "¿Hasta qué profundidad es sumergible?", answer: "10 metros sin carcasa, con certificación IP68. Es menos que los 15 metros de la Insta360 X5, la otra 360 de referencia del catálogo." },
+      { question: "¿Cuánto dura la batería?", answer: "DJI declara 100 minutos, pero ese número está medido grabando 8K a 30 cuadros por segundo, no a los 50 cuadros que distinguen a esta cámara. En 6K a 24 cuadros, la autonomía sube a 190 minutos." },
+      { question: "¿Trae GPS?", answer: "No en el cuerpo de la cámara. Para registrar el recorrido de una actividad hace falta sumar el control remoto Osmo Action GPS Bluetooth, que se vende aparte." },
+      { question: "¿Cuánta memoria interna trae?", answer: "128 GB, de los cuales quedan 105 disponibles. Es ampliable con microSD de hasta 1 TB. Es más del doble que los 47 GB disponibles de la Osmo Action 5 Pro del catálogo." },
+      { question: "¿Cuánto pesa?", answer: "183 gramos, un 8% menos que los 200 gramos de la Insta360 X5." },
+    ],
     relatedProducts: ["MLA49100446", "MLA57726638", "MLA62340610"],
   },
   {
