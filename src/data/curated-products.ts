@@ -2905,6 +2905,36 @@ No es para vos si ya sabés que vas a seguir tocando en serio, o si te importa q
       { label: "Marca", value: "Femmto" },
       { label: "Modelo", value: "EAG003" },
     ],
+    articleBody: `## Qué es la Femmto EAG003
+
+Es una guitarra electroacústica: cuerdas de metal, cuerpo tipo criolla pero con corte (cutaway) y salida Jack con ecualizador para enchufarla a un amplificador. Cuesta {{precio:MLA19491306}}, tiene {{reviews:MLA19491306}} calificaciones con {{rating:MLA19491306}} estrellas, la base de opiniones más grande de las guitarras del catálogo.
+
+## No es una criolla, aunque se le parezca
+
+Frente a la [Femmto CG001](/producto/guitarra-criolla-femmto-cg001-con-funda-y-puas-mla40485883), la criolla clásica de nylon, esta suma dos cosas que no se pueden agregar después: el corte en el cuerpo, que deja llegar cómodo a los trastes más agudos, y la salida para tocar amplificada. La contra es el precio, {{preciodif:MLA19491306:MLA40485883}} más, y que las cuerdas de metal duelen bastante más los dedos en los primeros meses que el nylon.
+
+## Cuerdas de metal: más brillo, más dolor al empezar
+
+El sonido es más brillante que el de una criolla de nylon, pero cuesta más al arrancar: las cuerdas de metal lastiman más los dedos hasta que se forma callo, algo que cualquier guitarrista principiante debería saber antes de elegir esta opción sobre una criolla.
+
+## Se enchufa, pero necesita algo más
+
+Trae salida Jack con ecualizador incorporado, así que está lista para amplificarse. La contra es que la guitarra sola no suena más fuerte por tener esa salida: hace falta sumar un amplificador o un pedal aparte para aprovecharla, un gasto extra a tener en cuenta.
+
+## Madera de entrada, como el resto de la categoría
+
+Tapa, laterales y fondo son de tilo, la madera más común en este rango de precio. No es una limitación exclusiva de esta guitarra: toda la categoría de entrada usa maderas similares, así que no es un dato que la deje peor parada frente a otras opciones de precio similar.
+
+## Para quién es, y para quién no
+
+Es para vos si ya sabés que preferís cuerdas de metal y en algún momento vas a querer enchufarla. No es para vos si es tu primera guitarra: ahí el nylon de una criolla como la Femmto CG001 duele mucho menos al empezar, y es más barata.`,
+    faq: [
+      { question: "¿Es lo mismo que una guitarra criolla?", answer: "No. Tiene cuerdas de metal en vez de nylon, corte en el cuerpo para llegar a los trastes agudos, y salida Jack con ecualizador para amplificarla. Ninguna de esas tres cosas las tiene una criolla clásica como la Femmto CG001." },
+      { question: "¿Duele tocarla al principio?", answer: "Sí, más que una criolla. Las cuerdas de metal lastiman bastante más los dedos en los primeros meses hasta que se forma callo, algo típico de cualquier guitarra con este tipo de cuerda." },
+      { question: "¿Necesito comprar algo más para enchufarla?", answer: "Sí. Trae salida Jack con ecualizador incorporado, pero la guitarra sola no amplifica el sonido: hace falta un amplificador o un pedal aparte." },
+      { question: "¿De qué madera está hecha?", answer: "Tapa, laterales y fondo de tilo, la madera de entrada más común en esta categoría de precio. El diapasón es de arce." },
+      { question: "¿Conviene para un principiante?", answer: "Depende de la prioridad. Si es la primera guitarra, la criolla Femmto CG001 con cuerdas de nylon duele mucho menos al empezar y sale más barata. Esta EAG003 conviene si ya sabés que querés cuerdas de metal y planeás enchufarla en algún momento." },
+    ],
     relatedProducts: ["MLA40485883", "MLA25602058", "MLA19464828"],
   },
   {
