@@ -2289,4 +2289,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "47",
     postedAt: "2026-09-09T10:45:00-03:00",
   },
+  {
+    title: 'Smart TV Samsung 75" QLED 4K Q7F',
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_751811-MLA99979895739_112025-O.webp",
+    affiliateUrl: "https://meli.la/1Kw4jwr",
+    newPrice: "1.999.999",
+    oldPrice: "2.599.999",
+    offPct: "23",
+    postedAt: "2026-09-09T11:11:00-03:00",
+  },
 ];
