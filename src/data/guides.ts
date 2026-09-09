@@ -2749,9 +2749,9 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "p", content: `Resignás algo de calidad de sonido y construcción frente al Logitech, pero para tener inalámbrico sin gastar de más, cumple. Es el equivalente inalámbrico del Kotion: la opción de valor para cortar el cable.` },
 
       { type: "h3", title: `6. Logitech G733 — el inalámbrico premium` },
-      { type: "product-card", productMlaId: "MLA16269737", label: "Inalámbrico premium", labelColor: "purple", ranking: 6, description: `Inalámbrico 2.4 GHz, con luces RGB, liviano y diseño premium. 4.8 estrellas en más de 1.600 calificaciones.` },
+      { type: "product-card", productMlaId: "MLA16269737", label: "Inalámbrico premium", labelColor: "purple", ranking: 6, description: `Inalámbrico 2.4 GHz, con luces RGB, liviano y diseño premium. 4.8 estrellas en {{reviews:MLA16269737}} calificaciones.` },
       { type: "p", content: `Si querés lo mejor sin cable, el Logitech G733 es el premium inalámbrico: 2.4 GHz de baja latencia, **luces RGB**, diseño liviano y el sonido de Logitech G, a alrededor de $210.000. El tope de gama dentro de lo que se vende fuerte, para quien arma un setup que se vea y suene de primera.` },
-      { type: "p", content: `Es el más caro de la guía, así que lo justificás si valorás el inalámbrico premium y la estética. Para la mayoría, el G435 da la experiencia inalámbrica por bastante menos.` },
+      { type: "p", content: `Es el más caro de la guía, así que lo justificás si valorás el inalámbrico premium y la estética. Ojo con dos cosas: el RGB va en la parte frontal (a algunos les molesta, sobre todo con anteojos) y no se puede dejar apagado para siempre sin tener G HUB corriendo. Para la mayoría, el G435 da la experiencia inalámbrica por bastante menos.` },
 
       { type: "h2", title: `Tabla comparativa: por conexión y precio`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Conexión`, `Ideal para`], rows: [

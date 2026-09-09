@@ -12166,6 +12166,10 @@ Sí, si querés un auricular inalámbrico para jugar y escuchar música sin gast
       "Las luces RGB se comen casi un tercio de la batería (de 29 h baja a 20 h)",
       "Es de los más caros del nicho gaming del sitio, bastante arriba del Razer con cable",
       "Construcción muy plástica para el precio: liviano sí, pero no se siente premium al tacto",
+      "La luz RGB está en la parte frontal, apuntando hacia tu cara: molesta a quien usa anteojos y se refleja en pantallas brillosas en escenas oscuras",
+      "El RGB no se puede dejar apagado de forma permanente sin G HUB corriendo: en consola, arranca encendido por defecto cada vez aunque hayas guardado un perfil con las luces apagadas",
+      "No tiene ninguna entrada de cable de respaldo: es 100% inalámbrico, sin plan B analógico si se queda sin batería o el dongle falla",
+      "La ecualización personalizada de G HUB no se traslada a PS5 o Switch: en consola perdés el ajuste fino y volvés al sonido de fábrica",
     ],
     articleBody: `## Qué es y para quién
 
@@ -12177,7 +12181,7 @@ Lo mejor del G733 es la combinación de batería larga, peso liviano y micrófon
 
 ## La contra real
 
-La contra grande es la conexión: el G733 es solo 2.4 GHz por receptor USB, no tiene Bluetooth. Eso significa que no lo conectás al celular o a una notebook sin el dongle, y que en Xbox no funciona (LIGHTSPEED no es compatible con esa consola). Si querés un inalámbrico que también ande por Bluetooth con el teléfono, mirá para otro lado. Otra cosa a tener clara: el "surround 7.1" es virtual. Es DTS Headphone:X 2.0, un procesamiento por software que se activa desde G HUB y rinde sobre todo en PC. No esperes un salto físico de calidad por eso. Y ojo con el RGB: se come casi un tercio de la batería, de 29 horas baja a 20. Para el precio, además, la construcción es bastante plástica; es liviano, sí, pero no se siente tan premium al tacto como sugiere la publicación.
+La contra grande es la conexión: el G733 es solo 2.4 GHz por receptor USB, no tiene Bluetooth ni entrada de cable de respaldo. Es 100% inalámbrico: eso significa que no lo conectás al celular o a una notebook sin el dongle, que en Xbox no funciona (LIGHTSPEED no es compatible con esa consola), y que si se queda sin batería o el dongle falla, no tenés plan B por cable. Otra cosa a tener clara: el "surround 7.1" es virtual. Es DTS Headphone:X 2.0, un procesamiento por software que se activa desde G HUB y rinde sobre todo en PC; en PS5 o Switch, además, la ecualización personalizada que armaste en G HUB no se traslada, así que volvés al sonido de fábrica sin tu ajuste fino. No esperes un salto físico de calidad por eso. Y ojo con el RGB, que trae dos problemas propios: se come casi un tercio de la batería (de 29 horas baja a 20), y está ubicado en la parte frontal del auricular, apuntando hacia tu cara — varias reseñas lo marcan como molesto para quien usa anteojos o juega con pantallas brillosas en cuartos oscuros, porque se refleja. Además, no se puede dejar apagado de forma permanente sin tener G HUB corriendo: en consola, arranca encendido por defecto cada vez que prendés el auricular, aunque hayas guardado un perfil con las luces apagadas en la PC. Para el precio, la construcción es bastante plástica; es liviano, sí, pero no se siente tan premium al tacto como sugiere la publicación.
 
 ## Cómo se compara
 
@@ -12222,6 +12226,14 @@ Comprá el G733 si jugás en PC o PlayStation, querés inalámbrico sin lag y va
       {
         question: "¿Es cómodo para usar muchas horas?",
         answer: "Sí, es uno de sus puntos fuertes. Pesa 278 gramos y usa una vincha de suspensión de tela que reparte el peso, así que casi no lo sentís en sesiones largas.",
+      },
+      {
+        question: "¿Se puede dejar el RGB apagado para siempre?",
+        answer: "No del todo. Podés apagarlo desde G HUB en la PC, pero esa configuración no queda guardada de forma permanente: si usás el auricular en consola (PS5, Switch) sin tener G HUB corriendo, el RGB arranca encendido por defecto cada vez que lo prendés, aunque hayas guardado un perfil con las luces apagadas.",
+      },
+      {
+        question: "¿Trae entrada de cable por si se queda sin batería?",
+        answer: "No, el G733 es 100% inalámbrico: no tiene Bluetooth ni ninguna entrada de cable analógico de respaldo. Si se queda sin batería o el dongle falla, no hay plan B hasta que lo cargues o soluciones la conexión.",
       },
     ],
   },
