@@ -5481,6 +5481,32 @@ No es para vos si esperás que el amplificador te dure sin fallar más de unas s
       { label: "En la caja", value: "Cable USB, guía rápida y precauciones. No trae parlantes, auriculares, cable RCA ni fuente" },
       { label: "Lanzamiento", value: "8 de noviembre de 2022" },
     ],
+    articleBody: `## Qué es el Pioneer DJ DDJ-FLX4
+
+Es un controlador DJ de dos canales y dos decks, con placa de sonido integrada. Cuesta {{precio:MLA23145920}}, tiene {{reviews:MLA23145920}} calificaciones con {{rating:MLA23145920}} estrellas, y es el equipo más caro de todo el rubro música del catálogo.
+
+## Anda con celular, sin necesidad de notebook
+
+Un comprador confirma que lo conectó por cable directo a un iPhone y funcionó. La placa de sonido integrada, class compliant, no pide instalar drivers ni en Mac ni en Windows, así que también anda con una notebook sin configuración extra. Destraba además el modo Performance de rekordbox sin pagar suscripción, y funciona con Serato DJ Lite gratis.
+
+## Lo que la caja no trae
+
+No incluye parlantes, auriculares, cable RCA ni fuente de alimentación. Si vas a usarlo con notebook, alcanza con eso: rekordbox saca el sonido por los parlantes de la máquina. Pero si la idea es usarlo con celular, hace falta sumar una fuente de 9V y 3A aparte, porque el celular no lo alimenta.
+
+## Un detalle de conector a chequear antes de comprar auriculares
+
+La salida de auriculares es mini plug de 3,5mm y pide 32 ohms o más, mientras que la mayoría de los auriculares pensados para DJ vienen con ficha de 6,35mm. Conviene sumar un adaptador o elegir auriculares compatibles antes de comprar.
+
+## Para quién es, y para quién no
+
+Es para vos si querés empezar a mezclar sin sumar equipo intermedio (placa de sonido aparte, notebook obligatoria) y ya tenés parlantes o auriculares propios. No es para vos si buscás un equipo completo listo para usar apenas lo abrís: acá hay que sumar por lo menos auriculares, y si es con celular, también una fuente.`,
+    faq: [
+      { question: "¿Funciona con celular?", answer: "Sí, un comprador confirma que lo conectó por cable directo a un iPhone. Pero necesita una fuente aparte de 9V y 3A que no viene en la caja: el celular solo no lo alimenta." },
+      { question: "¿Necesita notebook para funcionar?", answer: "No. Tiene placa de sonido integrada class compliant, sin necesidad de instalar drivers. También funciona conectado a celular con la fuente correspondiente." },
+      { question: "¿Trae parlantes o auriculares?", answer: "No. La caja solo trae cable USB, guía rápida y precauciones. Parlantes, auriculares, cable RCA y fuente van todos aparte." },
+      { question: "¿Qué software incluye?", answer: "rekordbox para Mac y Windows, con el modo Performance destrabado sin pagar suscripción. También funciona con Serato DJ Lite gratis." },
+      { question: "¿Cualquier auricular sirve?", answer: "No cualquiera. La salida es mini plug de 3,5mm y pide 32 ohms o más, mientras que la mayoría de los auriculares de DJ traen ficha de 6,35mm. Conviene un adaptador o auriculares compatibles." },
+    ],
     relatedProducts: ["MLA19464828", "MLA25602058", "MLA40485883"],
   },
   {
@@ -5536,6 +5562,36 @@ No es para vos si esperás que el amplificador te dure sin fallar más de unas s
       { label: "Pedal de expresión", value: "No aparece entre lo que trae" },
       { label: "Marca", value: "M-Vave" },
       { label: "Modelo", value: "Cube Baby, código VD612" },
+    ],
+    articleBody: `## Qué es el M-Vave Cube Baby
+
+Es un pedal multiefectos digital para guitarra eléctrica, con 21 efectos y simulaciones de amplificador cargables. Cuesta {{precio:MLA19464828}}, tiene {{reviews:MLA19464828}} calificaciones con {{rating:MLA19464828}} estrellas, y se usa como alternativa a comprar un amplificador chico.
+
+## La salida de auriculares es la diferencia real
+
+Un comprador lo resume bien: entre esta pedalera y un amplificador chico, conviene esta, porque la salida de auriculares deja practicar de noche sin pelearse con nadie. Un amplificador chico, en cambio, siempre suena para todo el ambiente.
+
+## Portátil de verdad
+
+Pesa 260 gramos y mide poco más de 16 centímetros: entra en el bolsillo de la funda de la guitarra. Trae batería incorporada, así que también funciona sin estar enchufado a nada.
+
+## Lo que no trae
+
+No aparece pedal de expresión entre lo que incluye, así que para modular los efectos con el pie hace falta sumarlo aparte. Tampoco lista fuente de alimentación en su publicación: se carga y se alimenta por USB.
+
+## Solo para guitarra eléctrica
+
+No reemplaza al amplificador de un instrumento acústico. Si tocás guitarra criolla o electroacústica, este pedal no es la solución a un amplificador que se quedó chico.
+
+## Para quién es, y para quién no
+
+Es para vos si tenés guitarra eléctrica y el amplificador que vino con ella ya no alcanza, sobre todo si necesitás practicar sin molestar a nadie. No es para vos si tocás un instrumento acústico, o si necesitás modular efectos con el pie desde el primer día: ahí hay que sumar un pedal de expresión aparte.`,
+    faq: [
+      { question: "¿Reemplaza a un amplificador?", answer: "Para guitarra eléctrica, sí, en la mayoría de los casos. Un comprador lo prefiere directamente a comprarse un amplificador chico, sobre todo por la salida de auriculares. Para un instrumento acústico, no sirve." },
+      { question: "¿Trae pedal de expresión?", answer: "No aparece entre lo que incluye. Para modular efectos con el pie hace falta sumarlo aparte." },
+      { question: "¿Funciona sin estar enchufado?", answer: "Sí, trae batería incorporada. También se puede alimentar por USB, aunque su publicación no lista una fuente incluida." },
+      { question: "¿Cuánto pesa?", answer: "260 gramos y mide poco más de 16 centímetros, entra en el bolsillo de la funda de la guitarra." },
+      { question: "¿Sirve para guitarra acústica?", answer: "No. Es solo para guitarra eléctrica, según su ficha de instrumentos compatibles." },
     ],
     relatedProducts: ["MLA25602058", "MLA23145920", "MLA19491306"],
   },
