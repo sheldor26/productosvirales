@@ -1678,7 +1678,7 @@ No es para vos si el presupuesto es una variable importante: la Osmo Action 4 de
       { label: "Sensor", value: "CMOS de 1 pulgada. La ficha de MercadoLibre declara 1/2,3 pulgadas, que es el valor por defecto de la categoría y es incorrecto" },
       { label: "Resolución de video máxima", value: "4K (3840 x 2160) hasta 60 cuadros por segundo en grabación normal" },
       { label: "Cámara lenta", value: "4K a 120 cuadros por segundo y 1080p a 240. Es un modo aparte, no el techo de la grabación normal" },
-      { label: "Vertical nativo", value: "1080p (9:16), 1080 x 1920, hasta 60 cuadros por segundo" },
+      { label: "Vertical nativo", value: "3K (9:16), 1728 x 3072, hasta 60 cuadros por segundo" },
       { label: "Resolución de foto", value: "Unos 9,4 MP. Máximo 3840 x 2160 en 16:9" },
       { label: "Lente", value: "20 mm equivalente, apertura f/2.0 fija, enfoque desde 0,2 metros" },
       { label: "Estabilización", value: "Gimbal mecánico de tres ejes. Vibración angular de más/menos 0,005 grados" },
@@ -1691,6 +1691,50 @@ No es para vos si el presupuesto es una variable importante: la Osmo Action 4 de
       { label: "Peso", value: "179 g" },
       { label: "Medidas", value: "139,7 x 42,2 x 33,5 mm" },
       { label: "Versión", value: "Paquete base. DJI no lo llama Combo Estándar: ese nombre lo ponen los vendedores. Trae la cámara, cable USB-C, cubierta protectora, correa de muñeca y mango con rosca de 1/4 de pulgada" },
+    ],
+    articleBody: `## Qué es la DJI Osmo Pocket 3
+
+Es una cámara de bolsillo con gimbal integrado de tres ejes: la cámara y el estabilizador vienen soldados en un solo cuerpo, no como un gimbal para celular donde hay que engancharle el teléfono aparte. Cuesta {{precio:MLA39393179}}, tiene {{reviews:MLA39393179}} calificaciones con {{rating:MLA39393179}} estrellas, y es la más barata de las DJI de bolsillo de esta comparativa.
+
+## El gimbal es mecánico, no digital, y eso cambia la imagen
+
+A diferencia de una cámara de acción tipo GoPro o de la [Osmo Action 5 Pro](/producto/camara-deportiva-dji-osmo-action-5-pro-mla66182550), que estabilizan recortando el cuadro por software, acá hay motores físicos moviendo la cámara en tres ejes. La diferencia se nota sobre todo en poca luz: un estabilizador digital sufre y genera artefactos raros cuando falta luz, mientras que el gimbal mecánico no necesita recortar nada para mantener la imagen firme, así que aprovecha el sensor completo. La contra es que un gimbal mecánico es más delicado que uno digital: conviene guardarla siempre en la funda rígida incluida cuando no se usa, porque un golpe fuerte en el brazo puede dejarla sin funcionar.
+
+## El lente es fijo, con dos formas de acercarte
+
+El lente es un 20 mm equivalente f/2.0 fijo, no intercambiable. Para acercarte hay dos caminos. El zoom digital de siempre llega hasta 4x en 1080p, 3x en 2.7K y 2x en 4K, con pérdida de nitidez notoria pasado cierto punto. El más nuevo, sumado por una actualización de firmware, es un zoom óptico sin pérdida a 2x que da un equivalente a 40 mm recortando el sensor con mucha menos pérdida de calidad que el digital viejo. La contra de este modo nuevo: mientras está activo, se pierde el seguimiento automático (ActiveTrack) y no se puede grabar en D-Log ni HLG, solo en el perfil de color normal.
+
+## Vertical nativo a 3K, sin recorte de bordes
+
+Se graba en vertical girando la pantalla, sin tocar nada más: el sensor es cuadrado, así que no hace falta recortar arriba y abajo de la imagen horizontal para pasar a 9:16. El máximo real en vertical es 3K (1728 x 3072) hasta 60 cuadros por segundo, según la ficha técnica oficial de DJI.
+
+## Sin memoria interna, y la clase de la tarjeta importa
+
+No tiene memoria interna: sin una microSD comprada aparte, no graba nada. Acepta hasta 1 TB, pero tiene que ser de clase U3 o V30 como mínimo. Una tarjeta más lenta no necesariamente corta la grabación, pero sí baja la calidad del video sin avisar, así que conviene chequear la clase antes de comprar cualquier tarjeta "rápida" genérica.
+
+## Lo que no trae
+
+No tiene ninguna certificación de resistencia al agua ni al polvo. DJI lo confirma en su propia web: no es resistente al agua, así que no es para llevar a la playa o bajo la lluvia sin una funda extra. Tampoco tiene salida HDMI, solo se conecta por USB-C, y funciona como webcam a 1080p (no a 4K) cuando se conecta a una computadora.
+
+## Frente a las otras DJI del catálogo
+
+Frente al [DJI Osmo Pocket 3 Pack Creadores](/producto/camara-dji-osmo-pocket-3-pack-creadores-mla37134971), que cuesta {{preciodif:MLA37134971:MLA39393179}} más, la cámara es exactamente la misma: mismo sensor, mismo gimbal, misma batería. La diferencia es que el Pack Creadores suma un micrófono inalámbrico, el accesorio que más le falta a esta versión pelada si la idea es grabarse hablando lejos de la cámara.
+
+Frente a la [DJI Osmo Pocket 4](/producto/camara-dji-osmo-pocket-4-creator-combo-mla68229126), que cuesta {{preciodif:MLA68229126:MLA39393179}} más, comparte el mismo gimbal y el mismo tamaño de sensor: el salto de la Pocket 4 está en la memoria interna (107 GB, esta no tiene nada), la foto (37 MP contra 9,4) y la batería (240 minutos declarados contra 166).
+
+## Para quién sí y para quién no
+
+Es para vos si querés la entrada más barata a una cámara de gimbal DJI, no te molesta comprar la microSD aparte, y no necesitás fotos de alta resolución. No es para vos si vas a grabarte hablando de forma habitual sin sumar un micrófono aparte (ahí el Pack Creadores rinde mejor por una diferencia de precio chica), ni si necesitás llevarla a ambientes con agua o polvo sin protección extra.`,
+    faq: [
+      { question: "¿Qué resolución máxima graba en vertical?", answer: "3K (1728 x 3072) hasta 60 cuadros por segundo. El sensor es cuadrado, así que no recorta arriba y abajo de la imagen horizontal al pasar a 9:16." },
+      { question: "¿Trae memoria interna?", answer: "No. DJI lo dice explícito en su ficha oficial: sin una microSD comprada aparte, no graba nada." },
+      { question: "¿Qué tarjeta microSD necesita?", answer: "Hasta 1 TB, pero tiene que ser de clase U3 o V30 como mínimo. Una tarjeta más lenta no corta necesariamente la grabación, pero sí baja la calidad del video sin avisar." },
+      { question: "¿Es resistente al agua?", answer: "No. DJI lo confirma en su propia FAQ oficial: no es resistente al agua ni tiene certificación contra polvo, así que no conviene llevarla a la playa o bajo la lluvia sin una funda extra." },
+      { question: "¿Tiene salida HDMI?", answer: "No. Solo se conecta por USB-C, y funciona como webcam a 1080p (no a 4K) cuando se conecta a una computadora." },
+      { question: "¿Cómo es el zoom?", answer: "Hay dos modos. El digital de siempre llega a 4x en 1080p, 3x en 2.7K y 2x en 4K, con pérdida de nitidez notoria pasado cierto punto. El más nuevo es un zoom óptico sin pérdida a 2x (equivalente a 40 mm), pero mientras está activo se pierde el seguimiento automático y no se puede grabar en D-Log ni HLG." },
+      { question: "¿Cuánto dura la batería?", answer: "166 minutos declarados por DJI en 1080p a 24 cuadros con el Wi-Fi y la pantalla apagados, o 116 minutos grabando en 4K a 60. Carga hasta 80% en 16 minutos y al 100% en 32, con un cargador de 65W que no viene incluido." },
+      { question: "¿En qué se diferencia del Pack Creadores?", answer: "La cámara es idéntica: mismo sensor, mismo gimbal, misma batería. El Pack Creadores cuesta {{preciodif:MLA37134971:MLA39393179}} más y suma un micrófono inalámbrico, útil si vas a grabarte hablando lejos de la cámara." },
+      { question: "¿Y frente a la Osmo Pocket 4?", answer: "Comparten el mismo gimbal y el mismo tamaño de sensor. La Pocket 4 cuesta {{preciodif:MLA68229126:MLA39393179}} más y suma memoria interna (107 GB), mejor resolución de foto (37 MP contra 9,4) y más autonomía declarada (240 minutos contra 166)." },
     ],
     relatedProducts: ["MLA37134971", "MLA68229126", "MLA53612281"],
   },
