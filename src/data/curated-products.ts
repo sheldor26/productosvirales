@@ -18661,6 +18661,8 @@ El más vendido por algo: cumplen lo justo, cuestan poco y la marca responde. Bl
       { label: "Cancelación de ruido", value: "No tiene (solo aislamiento pasivo)" },
       { label: "Entrada de cable", value: "No (sin jack 3,5 mm)" },
       { label: "Multipoint", value: "Sí, 2 equipos a la vez" },
+      { label: "Mejora de audio", value: "DSEE (restaura agudos perdidos en música comprimida tipo MP3/streaming)" },
+      { label: "Estuche de transporte", value: "No trae; viene con bolsita de microfibra, no dobla para guardar" },
     ],
     relatedProducts: ["MLA53285777", "MLA39962085"],
     priceUpdated: "2026-09-09",
@@ -18680,9 +18682,11 @@ El más vendido por algo: cumplen lo justo, cuestan poco y la marca responde. Bl
     ],
     cons: [
       "No tiene cancelación activa de ruido: solo aísla por las almohadillas, poco en ambientes ruidosos",
-      "Es on-ear (apoya sobre la oreja, no la envuelve): a algunos les molesta después de muchas horas",
+      "Es on-ear (apoya sobre la oreja, no la envuelve): a algunos les molesta después de muchas horas, sobre todo si usás anteojos",
       "No trae entrada de 3,5 mm: si se queda sin batería, no la usás por cable",
       "Sin códec de alta resolución (no hay LDAC ni aptX), suena bien pero no es para audiófilos",
+      "Micrófono básico: anda bien en interiores, pero se nota flojo en la calle con viento o tráfico",
+      "No trae estuche rígido ni dobla para guardar, solo una bolsita de microfibra",
     ],
     articleBody: `## Qué es y para qué alcanza
 
@@ -18702,17 +18706,21 @@ Pesa 147 gramos. Es liviana y se banca usarla varias horas. Trae la app Sony Hea
 
 Tiene multipoint: la conectás al celular y a la compu al mismo tiempo, y cambia sola entre los dos. Bluetooth 5.2, con códecs SBC y AAC. Micrófono para llamadas manos libres.
 
+También suma DSEE (Digital Sound Enhancement Engine), una tecnología de Sony que restaura los agudos que se pierden cuando la música está comprimida (MP3, streaming de Spotify o YouTube). Es como el "upscaling" que hacen los televisores con contenido de baja resolución, pero aplicado al audio: no hace magia, pero mejora la sensación de detalle sin que tengas que hacer nada.
+
 ## Lo que resignás
 
 Suena bien para el precio, pero no esperes sonido de audiófilo. No tiene LDAC ni aptX, los códecs de alta resolución que sí traen modelos más caros. Para Spotify, YouTube y llamadas está perfecta. Para escuchar música en alta calidad con detalle, no es la herramienta.
 
-El diseño es on-ear: las almohadillas apoyan sobre la oreja, no la envuelven como una over-ear. Es más compacta y liviana, pero a algunas personas el apoyo directo les molesta después de muchas horas.
+El diseño es on-ear: las almohadillas apoyan sobre la oreja, no la envuelven como una over-ear. Es más compacta y liviana, pero a algunas personas el apoyo directo les molesta después de muchas horas, y el caso más repetido es el de quien usa anteojos: la patilla queda debajo de la almohadilla y suma presión extra en sesiones largas.
 
 ## La contra real
 
 Dos cosas que conviene saber antes de comprar. Primero: no tiene cancelación activa de ruido. Solo aísla con las almohadillas, que en un colectivo, un tren o una oficina ruidosa no te van a tapar el ambiente. Si lo que buscás es silencio, este no es el modelo.
 
 Segundo: no trae entrada de 3,5 mm. Es 100% inalámbrica. Si se queda sin batería, te quedás sin auriculares hasta que cargue. No hay plan B por cable.
+
+Tercero, el micrófono: para llamadas en interiores o un ambiente tranquilo cumple bien, pero en la calle con viento o tráfico se nota que es básico, sin ninguna tecnología especial de captación de voz. Y cuarto, la portabilidad: no trae estuche rígido ni dobla para guardarse compacta, solo una bolsita de microfibra. Si viajás mucho y necesitás algo que entre chico en la mochila, tenelo en cuenta.
 
 ## Para quién sí y para quién no
 
@@ -18746,7 +18754,15 @@ La WH-CH520 hace bien lo que promete: vincha barata, liviana, con batería bruta
       },
       {
         question: "¿Sirve para llamadas?",
-        answer: "Sí, tiene micrófono integrado para llamadas manos libres y es compatible con asistentes de voz como Google Assistant y Siri. Para llamadas y videollamadas en lugares tranquilos cumple bien.",
+        answer: "Sí, tiene micrófono integrado para llamadas manos libres y es compatible con asistentes de voz como Google Assistant y Siri. En interiores o ambientes tranquilos anda bien; en la calle con viento o tráfico se nota que el micrófono es básico, sin tecnología especial de captación de voz.",
+      },
+      {
+        question: "¿Qué es la tecnología DSEE que trae?",
+        answer: "Es Digital Sound Enhancement Engine, una función de Sony que restaura los agudos que se pierden cuando la música está comprimida (MP3, streaming de Spotify o YouTube). Funciona como el upscaling de una tele con contenido de baja resolución, pero para audio: mejora la sensación de detalle sin que tengas que configurar nada.",
+      },
+      {
+        question: "¿Trae estuche para guardarla o viajar?",
+        answer: "No trae estuche rígido ni dobla para guardarse compacta como otras vinchas. Viene con una bolsita de microfibra. Si viajás seguido y necesitás algo chico para la mochila, es un punto a tener en cuenta.",
       },
       {
         question: "¿Conviene la WH-CH520 o gastar un poco más?",
