@@ -1697,6 +1697,37 @@ Es para vos si priorizás la mejor calidad de imagen posible en una 360, sobre t
       { label: "GPS", value: "No tiene" },
       { label: "Versión", value: "64 GB. DJI también vende una de 128 GB" },
     ],
+    articleBody: `## Qué es la DJI Osmo Nano
+
+Es una cámara modular: un módulo chico de 52 gramos que se cuelga con imán en la ropa, sin arnés ni tornillos, más un "Vision Dock" separado que le da pantalla y control. Cuesta {{precio:MLA58197668}}, tiene {{reviews:MLA58197668}} calificaciones con {{rating:MLA58197668}} estrellas, y es la cámara del catálogo pensada para grabar sin sostener nada en la mano.
+
+## El sensor de una cámara de acción, en un módulo mucho más chico
+
+Monta el mismo sensor de 1/1,3 pulgadas que la [Osmo Action 5 Pro](/producto/camara-deportiva-dji-osmo-action-5-pro-mla66182550), pero en un cuerpo bastante más liviano. Graba 4K hasta 60 cuadros por segundo, contra los 120 de la Action 5 Pro: el sensor es el mismo, pero el techo de video es menor.
+
+## El módulo solo dura más que la competencia directa
+
+Grabando sin el Vision Dock, el módulo solo aguanta 90 minutos, más del doble que los 38 minutos del módulo equivalente de la Insta360 GO 3S. Con el Vision Dock conectado, la autonomía sube a 200 minutos. Es el punto fuerte de esta cámara frente a su competencia más directa.
+
+## Ojo con el agua: el módulo se moja, el dock no
+
+El módulo de cámara solo es sumergible hasta 10 metros. El Vision Dock, que es lo que le da pantalla y control, es apenas IPX4: aguanta salpicaduras, pero no se sumerge. Si la idea es grabar bajo el agua, hay que usar el módulo desconectado del dock, sin poder ver el encuadre en tiempo real.
+
+## Sin pantalla propia en el módulo
+
+El módulo de cámara no tiene pantalla: para encuadrar antes de grabar hace falta el Vision Dock o el celular conectado. Es la contra lógica de un diseño tan chico y liviano, pero conviene saberlo antes de comprar si la idea es usarlo siempre sin el dock encima.
+
+## Para quién es, y para quién no
+
+Es para vos si buscás grabar actividades sin sostener una cámara en la mano, con la mayor autonomía posible en un módulo tan chico. No es para vos si necesitás ver el encuadre en tiempo real sin el Vision Dock, o si vas a filmar bajo el agua con el conjunto completo: ahí el dock no acompaña.`,
+    faq: [
+      { question: "¿Cuánto pesa la Osmo Nano?", answer: "El módulo de cámara solo pesa 52 gramos. Con el Vision Dock que le da pantalla y control, el conjunto completo llega a 124 gramos." },
+      { question: "¿Se puede sumergir en agua?", answer: "El módulo de cámara solo, sí, hasta 10 metros. El Vision Dock es apenas IPX4: aguanta salpicaduras, pero no se sumerge. Para grabar bajo el agua hay que usar el módulo desconectado del dock." },
+      { question: "¿Cuánto dura la batería?", answer: "El módulo solo aguanta 90 minutos, más del doble que los 38 minutos del módulo equivalente de la Insta360 GO 3S. Con el Vision Dock conectado, sube a 200 minutos." },
+      { question: "¿Tiene pantalla el módulo de cámara?", answer: "No. Para encuadrar antes de grabar hace falta el Vision Dock o el celular conectado por la app." },
+      { question: "¿Qué sensor tiene?", answer: "El mismo de 1/1,3 pulgadas que la Osmo Action 5 Pro del catálogo, aunque el techo de video es menor: 4K a 60 cuadros contra los 120 de esa cámara." },
+      { question: "¿Tiene GPS?", answer: "No." },
+    ],
     relatedProducts: ["MLA39997069", "MLA66182550", "MLA39393179"],
   },
   // ─── DJI Osmo Pocket: camaras de bolsillo con gimbal (ago 2026). Silo tech ───
