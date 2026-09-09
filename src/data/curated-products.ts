@@ -65114,8 +65114,9 @@ Comprá el Fire TV Stick 4K Select si vas a usar principalmente las apps grandes
       { label: "Memoria RAM", value: "1 GB" },
       { label: "CPU", value: "Quad-Core" },
       { label: "Sistema operativo", value: "Fire OS 7 (edición Home)" },
-      { label: "Con Bluetooth", value: "Sí" },
+      { label: "Con Bluetooth", value: "Sí (5.0)" },
       { label: "Con Wi-Fi", value: "Sí (2.4 GHz y 5 GHz)" },
+      { label: "Dimensiones y peso", value: "83 x 30 x 13 mm, 32 g" },
       { label: "Control remoto", value: "De voz, con Alexa integrado" },
       { label: "Apps compatibles", value: "Prime Video, Netflix, YouTube, Disney+, Apple TV, Spotify, Paramount+, entre otras" },
       { label: "Incluye cable HDMI", value: "Sí" },
@@ -65139,8 +65140,10 @@ Comprá el Fire TV Stick 4K Select si vas a usar principalmente las apps grandes
     cons: [
       "Solo Full HD, no 4K (a diferencia del Fire TV Stick 4K Select y el Google TV Streamer de esta guía)",
       "El control remoto no tiene botón para subir o bajar el volumen del TV directamente",
-      "No trae la app de HBO nativa, según una reseña",
+      "No trae la app de HBO nativa, confirmado por varias reseñas",
       "Para instalar apps fuera del catálogo de Amazon hay que usar una app adicional (tipo Aptoide TV), no es inmediato",
+      "No podés usar una cuenta de Prime Video distinta a la cuenta de Amazon con la que configuraste el dispositivo",
+      "El espejo de pantalla (mirroring) solo funciona desde celulares Android, no desde iPhone",
     ],
     articleBody: `## Qué es y para quién
 
@@ -65152,7 +65155,9 @@ Corre Fire OS 7 (basado en Android), compatible con las apps grandes de streamin
 
 ## La contra real
 
-Es Full HD, no 4K, así que si tu TV es 4K y querés aprovechar esa resolución, no es la opción de esta guía para eso. El control remoto no tiene botón para subir o bajar el volumen del TV, algo que varias reseñas señalan como incómodo frente a otros dispositivos. Una reseña también marca que no trae la app de HBO. Instalar apps por fuera del catálogo de Amazon requiere un paso extra (una app adicional), no es tan directo como en un Android TV nativo.
+Es Full HD, no 4K, así que si tu TV es 4K y querés aprovechar esa resolución, no es la opción de esta guía para eso. El control remoto no tiene botón para subir o bajar el volumen del TV, algo que varias reseñas señalan como incómodo frente a otros dispositivos. Varias reseñas también confirman que no trae la app de HBO nativa. Instalar apps por fuera del catálogo de Amazon requiere un paso extra (una app adicional), no es tan directo como en un Android TV nativo.
+
+Dos detalles más que conviene saber antes de comprar. Primero, la cuenta de Prime Video queda atada a la cuenta de Amazon con la que configurás el dispositivo: si lo configurás con tu cuenta para regalárselo a alguien de tu familia, esa persona no puede loguear su propio Prime Video por separado, tiene que usar el tuyo. Segundo, el espejo de pantalla (mandar lo que ves en el celular a la tele) solo funciona desde Android: si tenés iPhone, no vas a poder espejar la pantalla al dispositivo.
 
 ## Cómo se compara con los otros de esta guía
 
@@ -65181,6 +65186,14 @@ Comprá el Fire TV Stick Lite si priorizás el dispositivo con más respaldo de 
       {
         question: "¿Cómo se compara con un Chromecast o un Android TV genérico?",
         answer: "Reseñas reales que probaron varios dispositivos coinciden en que el Fire TV Stick es más rápido y estable con ciertas apps (como Flow o IPTV) que el Chromecast clásico, pero que un Android TV genérico puede tener una interfaz más intuitiva. Depende de qué apps uses más.",
+      },
+      {
+        question: "¿Puedo usar mi propia cuenta de Prime Video si el dispositivo lo configuró otra persona?",
+        answer: "No. La cuenta de Prime Video queda atada a la cuenta de Amazon con la que se configuró el dispositivo. Si le regalás el Fire TV Stick Lite a un familiar y lo configurás con tu cuenta, esa persona no puede loguear su propio Prime Video por separado: usa el tuyo.",
+      },
+      {
+        question: "¿Puedo espejar la pantalla de mi celular al Fire TV Stick Lite?",
+        answer: "Sí, pero solo desde celulares Android. Desde iPhone no se puede espejar la pantalla directamente al dispositivo.",
       },
     ],
   },

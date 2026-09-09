@@ -23918,7 +23918,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     quickPicks: [
       { productMlaId: "MLA41918674", label: "El más vendido", labelColor: "green", tagline: "TV Stick genérico: #1 en Media Streaming, el más barato" },
       { productMlaId: "MLA62234964", label: "4K oficial Amazon", labelColor: "amber", tagline: "Fire TV Stick 4K Select: con Alexa, solo apps de Amazon" },
-      { productMlaId: "MLA19732185", label: "El más calificado", labelColor: "purple", tagline: "Fire TV Stick Lite: 34.028 calificaciones" },
+      { productMlaId: "MLA19732185", label: "El más calificado", labelColor: "purple", tagline: "Fire TV Stick Lite: {{reviews:MLA19732185}} calificaciones" },
       { productMlaId: "MLA47307231", label: "El premium", labelColor: "blue", tagline: "Google TV Streamer: el Chromecast actual, sin distribución oficial en AR" },
     ],
     intro: [
@@ -23947,9 +23947,9 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { type: "pull-quote", content: `El producto es bueno, fácil de instalar y convierte cualquier pantalla en smart tv. Por desgracia este modelo ya no permite descargar ninguna aplicación que no sea de amazon, por ese motivo no le doy 5 estrellas.`, attribution: `— Comprador verificado en MercadoLibre` },
 
       { type: "h3", title: `3. Fire TV Stick Lite — el más calificado` },
-      { type: "product-card", productMlaId: "MLA19732185", label: "El más calificado", labelColor: "purple", ranking: 3, description: `Full HD, con Alexa, permite instalar apps por fuera de la tienda de Amazon. 4.8 estrellas en 34.028 calificaciones.` },
-      { type: "p", content: `El dispositivo con más respaldo de compradores reales de esta guía por lejos: 34.028 calificaciones, a alrededor de {{precio:MLA19732185:k}}. A diferencia del [Fire TV Stick 4K Select](/producto/amazon-fire-tv-stick-4k-select-8gb-control-con-alexa-negro-de-voz-mla62234964) de esta guía, sí permite instalar apps por fuera del catálogo oficial de Amazon (usando una app adicional).` },
-      { type: "p", content: `Lo honesto: es Full HD, no 4K. El control no tiene botón de volumen, y una reseña marca que no trae la app de HBO nativa. Instalar apps extra requiere un paso adicional, no es tan directo como en un Android TV nativo.` },
+      { type: "product-card", productMlaId: "MLA19732185", label: "El más calificado", labelColor: "purple", ranking: 3, description: `Full HD, con Alexa, permite instalar apps por fuera de la tienda de Amazon. 4.8 estrellas en {{reviews:MLA19732185}} calificaciones.` },
+      { type: "p", content: `El dispositivo con más respaldo de compradores reales de esta guía por lejos: {{reviews:MLA19732185}} calificaciones, a alrededor de {{precio:MLA19732185:k}}. A diferencia del [Fire TV Stick 4K Select](/producto/amazon-fire-tv-stick-4k-select-8gb-control-con-alexa-negro-de-voz-mla62234964) de esta guía, sí permite instalar apps por fuera del catálogo oficial de Amazon (usando una app adicional).` },
+      { type: "p", content: `Lo honesto: es Full HD, no 4K. El control no tiene botón de volumen, y varias reseñas confirman que no trae la app de HBO nativa. Instalar apps extra requiere un paso adicional, no es tan directo como en un Android TV nativo. Dos datos más para quien lo compra de regalo: la cuenta de Prime Video queda atada a la cuenta de Amazon que configuró el dispositivo (no se puede loguear una cuenta distinta), y el espejo de pantalla solo funciona desde celulares Android, no desde iPhone.` },
       { type: "pull-quote", content: `Yo estaba casado con el chromecast y fire stick es ampliamente superior. Pero es inferior al chromecast 4. El chromecast es inestable con aplicaciones como flow o iptv smarters, en cambio el amazon fire instalé flow y iptv smarters y andan perfecto.`, attribution: `— Comprador verificado en MercadoLibre` },
 
       { type: "h3", title: `4. Google TV Streamer — el premium` },
