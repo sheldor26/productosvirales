@@ -238,6 +238,12 @@ negro — tienen precio de lista distinto).
 | Monopatín Eléctrico Logus L6 350W | $497.523 | 2026-09-07 | meli.la/1gpD7bd — sin referencia previa, primera categoría de monopatín/scooter eléctrico en el sitio, OFERTA IMPERDIBLE, 4.8★ (346 op.), +1000 vendidos, "3° en Eléctricos" (general), Tienda oficial Logus, envío FULL. ⚠️ Al re-verificar, la ficha mostraba $482.523 (con cupón "TU PRIMER LOGUS" $15.000 OFF aplicado automáticamente por la sesión) — se usó $497.523 sin cupón, coincide con el precio sourceado originalmente |
 | Pistola Masajeadora Gadnic 30 Velocidades | $73.539 | 2026-09-07 | meli.la/1CpvjBH — sin referencia previa, primera pistola masajeadora en el sitio, MÁS VENDIDO/OFERTA DEL DÍA, 4.8★ (3789 op.), +10 mil vendidos, "10° en Eléctricos" (general), "Mejor precio" vendido por Tienda oficial Bidcom (ficha tiene otras 2 opciones de compra a precio más alto) |
 
+## Descanso
+
+| Producto | Precio de referencia (mejor real visto) | Fecha | Fuente |
+|---|---|---|---|
+| Colchón La Espumería Freestyle Plus Queen 160x200 | $549.405 | 2026-09-09 | meli.la/34jtfHL — sin referencia previa, primera categoría de colchones/descanso en el sitio, tamaño Queen seleccionado, 🔥 ¡ÚLTIMAS 3 UNIDADES! confirmado en vivo dos veces (sourcing y publicación, ~3.5hs después, stock y precio idénticos), 4.9★ (29 op.), +25 vendidos, Tienda oficial La Espumeria (+10 mil ventas). Origen: Juan pasó un mensaje del programa de afiliados con un tinyurl con matt_tool (no usado directo) — se resolvió al permalink limpio. Cupón visible en la ficha ("$529.405,07 con Cupón") es el cupón ML "Múltiples Categorías" ($20.000 OFF, mínima $250.000) — no se usó en el copy. ⚠️ Juan también pasó el cupón "FIESTACYBER" ($15.000 OFF, mínima $200.000, vigente 9/9 14-18hs, sitio completo) — se probó manualmente en el modal de cupones de esta ficha y SÍ es real (no dio error), pero el sistema mostró "Ya aplicaste un cupón mejor" porque el cupón de $20.000 ya estaba aplicado y es mayor — no se usó en el copy porque no mejora el precio ya mostrado. Confirma que FIESTACYBER es funcional, solo queda dominado por el cupón de $250k-mínima en productos que superan ese umbral |
+
 ## Pendiente de revisar
 
 - Aire Acondicionado Split Philco Inverter 3750W (Tienda oficial NOVOGAR,

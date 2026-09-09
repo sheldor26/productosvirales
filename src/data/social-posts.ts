@@ -2379,4 +2379,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "16",
     postedAt: "2026-09-09T16:00:00-03:00",
   },
+  {
+    title: "Colchón La Espumería Freestyle Plus Queen 160x200",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_643865-MLA111167365793_052026-O.webp",
+    affiliateUrl: "https://meli.la/34jtfHL",
+    newPrice: "549.405",
+    oldPrice: "1.121.000",
+    offPct: "50",
+    postedAt: "2026-09-09T16:46:00-03:00",
+  },
 ];
