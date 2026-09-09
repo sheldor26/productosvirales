@@ -9339,6 +9339,8 @@ A $34.799 con 4.9 estrellas en {{reviews:MLA44849297}} calificaciones, sigue sie
       "Si el receptor queda lejos o sin el extensor USB en algunos setups, el cursor puede parpadear o volverse errático, según una reseña detallada",
       "Reportes puntuales de falla del clic izquierdo después de 1 año de uso, y de unidades con botones laterales de recorrido inconsistente que ameritaron un cambio",
       "Es 61% más caro que el G203 con cable de esta misma selección: pagás la libertad del cable, no un salto de sensor",
+      "El peso queda cargado hacia atrás por la pila AA: varios usuarios lo notan al deslizarlo, se inclina levemente hacia la parte trasera",
+      "No tiene carga por USB como los inalámbricos más modernos: si usás pilas recargables, hay que sacarlas del mouse y cargarlas aparte",
     ],
     verdict: "A $56.099, es el mouse inalámbrico más elegido de Argentina ({{reviews:MLA11259955}} calificaciones, 4.9⭐): mismo sensor de gama alta, batería que dura meses y sin RGB para estirarla más. El detalle que la ficha no aclara: viene en modo ahorro de fábrica, limitado a 125 Hz, hay que subirlo a 1.000 Hz desde G HUB. El receptor es propietario: cuidalo, porque no se repone oficial si se rompe.",
     articleBody: `## El inalámbrico más elegido de Argentina
@@ -9365,6 +9367,10 @@ A diferencia de lo que se podría esperar, la ausencia de luces RGB aparece como
 
 No todo es perfecto. Una reseña de México reporta que "es bueno, pero al cabo de un año la verdad empezó a fallar y el click izquierdo dejo de funcionar bien" — un caso aislado, pero real. Otra, también de México, tuvo que devolver una unidad por inconsistencia en los clics: "los clicks principales no se sentían similares, tenían diferente sensación táctil, y uno de los laterales tenía mucho recorrido antes de poder hacer clic". Son reportes puntuales, no un patrón masivo dado el volumen de reseñas positivas, pero vale la pena saber que existen.
 
+## El peso, cargado hacia atrás
+
+Otro detalle que varios usuarios notan, sobre todo comparándolo con mouse inalámbricos más nuevos: el peso no está balanceado parejo. La pila AA vive en la parte trasera, así que el cuerpo se siente más liviano adelante y más pesado atrás; deslizándolo con el dedo se nota una leve inclinación hacia ese lado. Tampoco tiene carga por USB como los inalámbricos modernos: si preferís pilas recargables en vez de descartables, hay que sacarlas del mouse y cargarlas en un cargador aparte, no conectando el mouse a la PC.
+
 ## Contra el resto de la línea Logitech de esta selección
 
 Frente al [Logitech G203 Lightsync](/producto/mouse-gamer-logitech-g203-lightsync-white-mla44849297) con cable de esta misma selección, el G305 cuesta 61% más y te da la libertad inalámbrica con el mismo nivel de sensor: no es un salto de precisión, es un salto de comodidad. Frente al [Logitech G Pro Wireless](/producto/mouse-gamer-logitech-g-pro-wireless-black-mla14428767) y el [PRO X Superlight 2](/producto/mouse-gamer-logitech-pro-x-superlight-2-blanco-mla28598537), el G305 es más pesado (99g vs los ~63-80g de los modelos competitivos) pero mucho más barato, con batería de pila AA en vez de batería recargable que se degrada con los años.
@@ -9380,8 +9386,8 @@ A $56.099 con 4.9 estrellas en {{reviews:MLA11259955}} calificaciones, es la for
       { label: "Conexión", value: "Inalámbrico Lightspeed (receptor USB propietario, no es el adaptador Unifying estándar; sin reposición oficial si se rompe)" },
       { label: "Sensor", value: "HERO, hasta 12.000 DPI (por defecto el mouse no usa todo el rango; se configura desde G HUB)" },
       { label: "Polling rate", value: "Hasta 1.000 Hz (1 ms), pero viene configurado de fábrica en modo ahorro a 125 Hz: hay que subirlo a mano en G HUB" },
-      { label: "Peso", value: "99 g (con la pila puesta)" },
-      { label: "Batería", value: "1 pila AA incluida, hasta 250 horas según fabricante; varias reseñas reportan 3-4 meses de uso diario real" },
+      { label: "Peso", value: "99 g con la pila puesta, cargado hacia atrás: el cuerpo solo pesa bastante menos, la pila AA suma el resto y varios usuarios notan el desbalance al deslizarlo" },
+      { label: "Batería", value: "1 pila AA incluida, hasta 250 horas según fabricante; varias reseñas reportan 3-4 meses de uso diario real. No tiene carga por USB: para usar pilas recargables hay que sacarlas del mouse y cargarlas en un cargador externo" },
       { label: "Botones", value: "6 programables" },
       { label: "Iluminación", value: "Sin RGB (solo un LED de estado detrás del botón de DPI)" },
       { label: "Software", value: "Logitech G HUB (recomendado por varias reseñas cambiar a Logitech Onboard Memory Manager, más liviano)" },
@@ -9396,6 +9402,8 @@ A $56.099 con 4.9 estrellas en {{reviews:MLA11259955}} calificaciones, es la for
       { question: "¿Es tan preciso como uno con cable?", answer: "Sí, según el consenso de cientos de reseñas: usa el mismo sensor HERO que mouse Logitech mucho más caros, y varios compradores (incluido uno que se identifica como jugador profesional de FPS) confirman que no notan diferencia con un mouse cableado." },
       { question: "¿Sirve para manos grandes?", answer: "Es de tamaño mediano-grande, similar al G Pro según una reseña. Para manos grandes funciona bien en agarre palm o claw; algunas reseñas de manos muy grandes prefieren un mouse todavía más grande, pero no es un problema generalizado." },
       { question: "¿Conviene este o el Logitech G203 con cable?", answer: "El G203 ($34.799) es 61% más barato y usa un sensor similar, pero con cable. El G305 ($56.099) suma la libertad inalámbrica sin sacrificar precisión. Si el cable no te molesta, el G203 rinde prácticamente igual por menos plata; si querés dejarlo atrás, el G305 es la opción probada." },
+      { question: "¿El peso está bien distribuido?", answer: "No del todo: la pila AA vive en la parte trasera, así que el mouse queda un poco más pesado atrás que adelante. Varios usuarios lo notan al deslizarlo con el dedo, aunque no es algo que afecte el uso normal de juego." },
+      { question: "¿Se puede cargar con pilas recargables?", answer: "Sí, pero no adentro del mouse: a diferencia de los inalámbricos más modernos con carga por USB-C, este no tiene esa función. Si usás pilas recargables, hay que sacarlas y cargarlas en un cargador externo aparte." },
     ],
     customerReviews: [
       { rating: 5, country: "Argentina", date: "2025", useful: 136, text: "Mucho más lindo de lo que se ve en fotos y lo que muestran los videos. Se nota el sensor espectacular que tiene, y con software Logitech podés ver la batería, en 1 semana intensa de uso sólo bajó un 2%. Soy jugador profesional de FPS y lo recomiendo completamente. Es exactamente igual al G203 pero inalámbrico." },
