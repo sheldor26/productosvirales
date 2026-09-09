@@ -56457,7 +56457,9 @@ Comprálo si querés cortar el cable sin pagar el precio de un inalámbrico prem
       { label: "Carga", value: "USB-C, batería 600 mAh, ~2-3 h de carga" },
       { label: "Alcance declarado", value: "8 m (fabricante)" },
       { label: "Bluetooth", value: "No" },
-      { label: "Compatible con", value: "PC (Windows), PS3 (sin verificación independiente)" },
+      { label: "Compatible con", value: "PC (Windows), PS3 (sin verificación independiente). NO compatible con PS4, PS5 ni Xbox, confirmado por la marca" },
+      { label: "Entrada de audio", value: "Jack 3.5mm para auriculares" },
+      { label: "Peso", value: "Aprox. 262 g" },
     ],
     relatedProducts: ["MLA15086696", "MLA34724207"],
     priceUpdated: "2026-09-09",
@@ -56473,12 +56475,19 @@ Comprálo si querés cortar el cable sin pagar el precio de un inalámbrico prem
       "Carga por USB-C, más rápido y moderno que el micro-USB del Harrow original",
       "Switch multi-modo XInput/DirectInput confirmado por el fabricante",
       "Grip de goma que las reseñas destacan como cómodo",
+      "Trae entrada de audio 3.5mm para conectar auriculares directo al control",
+      "Modo teclado y mouse: manteniendo Turbo+Clear presionados, el stick derecho mueve el cursor y los gatillos hacen clic, sin necesidad de mouse ni teclado a mano",
     ],
     cons: [
-      "El fabricante confirma la batería de 600 mAh y el tiempo de carga (2-3 h), pero no publica cuántas horas dura jugando: vendedores estiman 10-12 h, sin ser un dato oficial",
+      "El fabricante confirma la batería de 600 mAh y el tiempo de carga (2-3 h), pero no publica cuántas horas dura jugando: vendedores estiman 10-12 h; en pruebas reales de un reviewer rindió unas 7-8 horas",
       "El alcance inalámbrico declarado es de 8 metros, menos que el Harrow G808 original (10 m)",
       "El manual oficial dedica una sección entera a solucionar problemas de conexión inalámbrica, señal de que no es un problema raro",
       "Sin Bluetooth",
+      "No es compatible con PS4, PS5 ni Xbox, solo PC y PS3",
+      "No se puede cargar y jugar al mismo tiempo: prioriza la carga sobre el juego, a diferencia de los controles de PlayStation",
+      "Los LEDs no muestran el porcentaje de batería de forma clara, solo parpadean sin indicar nivel exacto ni tiempo restante",
+      "La cruceta (d-pad) es de membrana y se siente floja/blanda, el punto más débil de los botones según más de una reseña",
+      "Los botones superiores (RB/LB/RT/LT) tienen acabado brillante que hace que el dedo resbale, sobre todo al cambiar rápido entre RT y RB",
     ],
     articleBody: `## Qué es y para quién
 
@@ -56486,20 +56495,30 @@ El Harrow Pro G808 Pro es la evolución del Harrow original: mismo concepto de j
 
 ## Lo bueno
 
-El salto de calificación frente al Harrow original (4.4 a 4.8 estrellas) se nota en las reseñas: compradores destacan el grip de goma, la sensación sólida de los materiales y una carga rápida gracias al USB-C. El fabricante confirma la batería de 600 mAh y un tiempo de carga de entre 2 y 3 horas. El switch XInput/DirectInput multi-modo está confirmado oficialmente, igual que en el resto de la línea Redragon de esta guía.
+El salto de calificación frente al Harrow original (4.4 a 4.8 estrellas) se nota en las reseñas: compradores destacan el grip de goma, la sensación sólida de los materiales y una carga rápida gracias al USB-C. El fabricante confirma la batería de 600 mAh y un tiempo de carga de entre 2 y 3 horas. El switch XInput/DirectInput multi-modo está confirmado oficialmente, igual que en el resto de la línea Redragon de esta guía. Pesa cerca de 262 gramos y trae una entrada de audio 3.5mm para conectar auriculares directo al control.
+
+Tiene una función poco común que vale la pena conocer: manteniendo presionados juntos los botones Turbo y Clear, se activa un modo donde el stick derecho mueve el cursor del mouse y los gatillos hacen clic izquierdo y derecho, sin necesidad de tener el mouse o el teclado a mano. Es una función que no todos los joysticks de este precio tienen.
 
 ## La contra real
 
-Acá también aparece el mismo punto ciego que en el Harrow original: Redragon no publica cuántas horas dura la batería jugando. Algunos vendedores estiman entre 10 y 12 horas, pero no es un dato que salga de una fuente oficial, así que conviene tomarlo como aproximado. El alcance inalámbrico declarado (8 metros) es menor que el del Harrow G808 base (10 metros). Y el manual oficial de Redragon incluye una sección específica de solución de problemas para cuando "el gamepad no conecta de forma inalámbrica", lo que sugiere que no es una situación tan rara. Como el resto de la línea, no tiene Bluetooth.
+Acá también aparece el mismo punto ciego que en el Harrow original: Redragon no publica cuántas horas dura la batería jugando. Algunos vendedores estiman entre 10 y 12 horas, pero no es un dato que salga de una fuente oficial; en pruebas reales de largo plazo de un reviewer, rindió unas 7-8 horas de uso. Los LEDs tampoco ayudan mucho: no muestran el porcentaje de batería de forma clara, solo parpadean sin indicar nivel exacto ni tiempo restante. Y a diferencia de los controles de PlayStation, no se puede cargar y jugar al mismo tiempo: prioriza la carga sobre el juego.
+
+El alcance inalámbrico declarado (8 metros) es menor que el del Harrow G808 base (10 metros). El manual oficial de Redragon incluye una sección específica de solución de problemas para cuando "el gamepad no conecta de forma inalámbrica", lo que sugiere que no es una situación tan rara. Tampoco tiene Bluetooth, y ojo con las consolas: no es compatible con PS4, PS5 ni Xbox, confirmado directamente por la marca a un reviewer, solo con PC y PS3.
+
+Dos detalles de construcción a tener en cuenta: la cruceta (d-pad) es de membrana y se siente floja o blanda, el punto más débil de los botones según más de una reseña independiente. Y los botones superiores (RB/LB/RT/LT) tienen un acabado brillante que hace que el dedo resbale un poco, algo que se nota sobre todo en juegos donde hay que cambiar rápido entre RT y RB.
 
 ## Para quién sí y para quién no
 
-Comprálo si buscás el joystick mejor puntuado de la guía y valorás la flexibilidad de usarlo con o sin cable, con carga rápida por USB-C. No lo compres si necesitás una promesa exacta de autonomía por carga, o si el alcance inalámbrico de más de 8 metros es importante para vos (en ese caso, el Harrow G808 original declara más alcance).`,
+Comprálo si buscás el joystick mejor puntuado de la guía y valorás la flexibilidad de usarlo con o sin cable, con carga rápida por USB-C. No lo compres si necesitás una promesa exacta de autonomía por carga, si jugás en PS4, PS5 o Xbox (no es compatible), o si el alcance inalámbrico de más de 8 metros es importante para vos (en ese caso, el Harrow G808 original declara más alcance).`,
     faq: [
       { question: "¿El Harrow Pro G808 Pro es mejor que el Harrow G808 original?", answer: "Tiene mejor calificación (4.8 contra 4.4 estrellas) y carga por USB-C en vez de micro-USB, además de poder usarse con cable. A cambio, declara menos alcance inalámbrico (8 m contra 10 m) y tampoco publica una cifra oficial de autonomía." },
-      { question: "¿Cuánto dura la batería?", answer: "El fabricante confirma que carga en 2 a 3 horas, pero no publica una cifra oficial de cuánto dura jugando. Algunos vendedores estiman 10 a 12 horas, sin ser un dato confirmado por Redragon." },
+      { question: "¿Cuánto dura la batería?", answer: "El fabricante confirma que carga en 2 a 3 horas, pero no publica una cifra oficial de cuánto dura jugando. Algunos vendedores estiman 10 a 12 horas, sin ser un dato confirmado por Redragon; en pruebas reales de largo plazo de un reviewer, rindió unas 7-8 horas de uso." },
       { question: "¿Funciona con cable además de inalámbrico?", answer: "Sí, es uno de los pocos de esta guía que ofrece las dos opciones: dongle 2,4 GHz inalámbrico o cable USB-C conectado directo." },
       { question: "¿Tiene Bluetooth?", answer: "No, ninguno de los modelos Redragon de esta guía tiene Bluetooth. Se conectan por dongle 2,4 GHz o cable." },
+      { question: "¿Es compatible con PS4, PS5 o Xbox?", answer: "No. Según confirmó la marca directamente a un reviewer, este modelo funciona con PC y PS3, pero no es compatible con PS4, PS5 ni Xbox." },
+      { question: "¿Se puede cargar y jugar al mismo tiempo?", answer: "No, a diferencia de los controles de PlayStation, este joystick prioriza la carga sobre el juego cuando está conectado, así que no rinde igual usándolo mientras carga." },
+      { question: "¿Tiene entrada para auriculares?", answer: "Sí, trae un jack de 3.5mm para conectar auriculares directo al control." },
+      { question: "¿Se puede usar como mouse y teclado?", answer: "Sí, tiene un modo poco común: manteniendo presionados juntos Turbo y Clear, se activa un modo donde el stick derecho mueve el cursor del mouse y los gatillos hacen clic izquierdo y derecho, sin necesidad de tener el mouse o el teclado a mano." },
     ],
   },
 
