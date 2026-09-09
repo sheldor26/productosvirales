@@ -2249,4 +2249,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "24",
     postedAt: "2026-09-09T08:44:30-03:00",
   },
+  {
+    title: "Notebook Gamer ASUS ROG Strix G16",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_892514-MLA100014561565_122025-O.webp",
+    affiliateUrl: "https://meli.la/1fz95cW",
+    newPrice: "3.599.900",
+    oldPrice: "6.043.487",
+    offPct: "24",
+    postedAt: "2026-09-09T09:10:49-03:00",
+  },
 ];
