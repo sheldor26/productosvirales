@@ -2734,8 +2734,8 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "pull-quote", content: `"Precio-calidad 10/10, audio y micrófono 10/10. Se diferencian mucho los bajos y se escucha todo muy limpio."`, attribution: `Opinión verificada en MercadoLibre` },
 
       { type: "h3", title: `3. Logitech G435 — el mejor inalámbrico accesible` },
-      { type: "product-card", productMlaId: "MLA18651915", label: "Inalámbrico accesible", labelColor: "blue", ranking: 3, description: `Inalámbrico (Bluetooth y 2.4 GHz), livianísimo (165 g) y de marca de primera. 4.7 estrellas en más de 4.500 calificaciones.` },
-      { type: "p", content: `Si querés cortar el cable sin irte a precio premium, el Logitech G435 es el inalámbrico accesible más elegido (más de 4.500 opiniones). Es **muy liviano** (165 g, casi no lo sentís), se conecta por **Bluetooth y 2.4 GHz** (PC, consolas y celular) y trae la calidad de Logitech G, a alrededor de $150.000. La libertad del inalámbrico de una marca seria sin pagar de más.` },
+      { type: "product-card", productMlaId: "MLA18651915", label: "Inalámbrico accesible", labelColor: "blue", ranking: 3, description: `Inalámbrico (Bluetooth y 2.4 GHz), livianísimo (165 g) y de marca de primera. 4.7 estrellas en {{reviews:MLA18651915}} calificaciones.` },
+      { type: "p", content: `Si querés cortar el cable sin irte a precio premium, el Logitech G435 es el inalámbrico accesible más elegido ({{reviews:MLA18651915}} opiniones). Es **muy liviano** (165 g, casi no lo sentís), se conecta por **Bluetooth y 2.4 GHz** (PC, consolas y celular) y trae la calidad de Logitech G, a alrededor de $150.000. La libertad del inalámbrico de una marca seria sin pagar de más.` },
       { type: "p", content: `No tiene tantos graves ni la construcción de los premium, pero para la mayoría que quiere inalámbrico cómodo y de marca, es el punto justo. Si querés inalámbrico gastando menos, mirá el Redragon de abajo; si querés el premium, el G733.` },
 
       { type: "h3", title: `4. HyperX Cloud — el clásico cómodo` },

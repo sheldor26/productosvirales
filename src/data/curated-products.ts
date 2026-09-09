@@ -11801,6 +11801,8 @@ Comprá el BlackShark V2 X si jugás competitivo en PC y querés sonido posicion
       "El surround (Dolby Atmos, Windows Sonic, Tempest 3D) es por software, no es 7.1 por hardware",
       "No trae cable analógico de 3.5 mm: si te quedás sin batería, te quedás sin sonido",
       "Sensibilidad de 83.1 dB: necesita un poco más de volumen que otros para sonar fuerte",
+      "No es para sesiones maratónicas de 7-8 horas seguidas: cómodo para uso extendido, pero no al punto de olvidarte que lo tenés puesto todo el día",
+      "El aislamiento del sonido es limitado: en un cuarto ruidoso con gente alrededor, puede costar que el volumen alcance",
     ],
     articleBody: `## Qué es y para quién
 
@@ -11812,7 +11814,7 @@ Lo que más se nota es el peso: 165 g lo ponen entre los más cómodos de su ran
 
 ## La contra real
 
-La contra más importante no aparece en la publicación: el G435 no anda con Xbox. Como solo se conecta por dongle USB de 2.4 GHz o por Bluetooth, y las consolas Xbox no aceptan ninguno de los dos, si tenés una Xbox este auricular no te sirve. Con PC, PS4, PS5, Switch y celular funciona bien, pero ojo con eso. Segundo: el micrófono es integrado y fijo. No es un boom que podés acercar a la boca ni levantar para mutear; son dos micrófonos chiquitos en la cara del auricular. Cumplen para hablar con amigos, pero no esperes calidad de streaming. Tercero: el "surround" es por software (Dolby Atmos, Windows Sonic, Tempest 3D en PS5), no es 7.1 por hardware. Y un detalle clave: no trae cable analógico de 3.5 mm, así que si se queda sin batería, te quedás sin sonido hasta que cargue.
+La contra más importante no aparece en la publicación: el G435 no anda con Xbox. Como solo se conecta por dongle USB de 2.4 GHz o por Bluetooth, y las consolas Xbox no aceptan ninguno de los dos, si tenés una Xbox este auricular no te sirve. Con PC, PS4, PS5, Switch y celular funciona bien, pero ojo con eso. Segundo: el micrófono es integrado y fijo. No es un boom que podés acercar a la boca ni levantar para mutear; son dos micrófonos chiquitos en la cara del auricular. Cumplen para hablar con amigos, pero no esperes calidad de streaming. Tercero: el "surround" es por software (Dolby Atmos, Windows Sonic, Tempest 3D en PS5), no es 7.1 por hardware. Y un detalle clave: no trae cable analógico de 3.5 mm, así que si se queda sin batería, te quedás sin sonido hasta que cargue. Dos matices más de uso real: no es el auricular ideal para sesiones maratónicas de 7-8 horas seguidas (es cómodo para uso extendido, pero no al punto de olvidarte que lo tenés puesto todo el día), y el aislamiento del sonido es limitado, así que en un cuarto ruidoso con gente alrededor puede costarte un poco que el volumen alcance.
 
 ## Cómo se compara
 
@@ -11853,6 +11855,10 @@ Comprá el G435 si jugás en PC, PlayStation, Switch o celular y querés algo in
       {
         question: "¿Conviene el G435 o el Logitech G733?",
         answer: "Depende de qué priorices. El G733 cuesta más pero trae micrófono boom desmontable, RGB y mejor micro para stream. El G435 es más liviano y barato, ideal si solo querés inalámbrico cómodo de marca sin gastar de más.",
+      },
+      {
+        question: "¿Es cómodo para usarlo todo el día?",
+        answer: "Es cómodo para sesiones extendidas gracias a su peso liviano (165 g), pero no es el auricular ideal para maratones de 7-8 horas seguidas. Para eso, hay modelos con más almohadillado pensados específicamente para uso prolongado.",
       },
     ],
   },
