@@ -2319,4 +2319,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "0",
     postedAt: "2026-09-09T12:03:00-03:00",
   },
+  {
+    title: "Consola Gaming ROG Xbox Ally X (Handheld)",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_839887-MLA100027827461_122025-O.webp",
+    affiliateUrl: "https://meli.la/1QtJmCA",
+    newPrice: "2.509.999",
+    oldPrice: "3.959.991",
+    offPct: "36",
+    postedAt: "2026-09-09T12:29:00-03:00",
+  },
 ];
