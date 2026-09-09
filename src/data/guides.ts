@@ -2728,8 +2728,8 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "pull-quote", content: `"Superó mis expectativas, muy cómodo y con buen sonido. Lo uso en la PS4 y en la PC y anda fenomenal."`, attribution: `Opinión verificada en MercadoLibre` },
 
       { type: "h3", title: `2. Razer BlackShark V2 X — el mejor sonido por el precio` },
-      { type: "product-card", productMlaId: "MLA16280514", label: "Mejor sonido", labelColor: "purple", ranking: 2, description: `Con cable, micrófono desmontable y sonido posicional limpio para juego competitivo. 4.8 estrellas en más de 1.800 calificaciones.` },
-      { type: "p", content: `Si jugás shooters y querés escuchar de dónde vienen los pasos, el Razer BlackShark V2 X es el salto. Es **con cable** (cero lag), con un **sonido posicional limpio** que los compradores destacan para competitivo, micrófono desmontable y la calidad Razer, a alrededor de $100.000. El upgrade lógico desde los económicos cuando el sonido te importa.` },
+      { type: "product-card", productMlaId: "MLA16280514", label: "Mejor sonido", labelColor: "purple", ranking: 2, description: `Con cable, micrófono cardioide y sonido posicional limpio para juego competitivo. 4.8 estrellas en más de 1.800 calificaciones.` },
+      { type: "p", content: `Si jugás shooters y querés escuchar de dónde vienen los pasos, el Razer BlackShark V2 X es el salto. Es **con cable** (cero lag), con un **sonido posicional limpio** que los compradores destacan para competitivo, micrófono cardioide (fijo, no se saca) y la calidad Razer, a alrededor de $100.000. El upgrade lógico desde los económicos cuando el sonido te importa.` },
       { type: "p", content: `Cuesta más del doble que el Kotion, así que lo elegís si jugás en serio o valorás un audio más nítido y un micrófono mejor. Para uso casual, el Kotion alcanza; para competitivo, el BlackShark marca la diferencia.` },
       { type: "pull-quote", content: `"Precio-calidad 10/10, audio y micrófono 10/10. Se diferencian mucho los bajos y se escucha todo muy limpio."`, attribution: `Opinión verificada en MercadoLibre` },
 

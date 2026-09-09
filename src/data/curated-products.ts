@@ -11622,6 +11622,8 @@ Comprá el G9000 si es tu primer headset gamer y querés gastar lo mínimo. Para
       { label: "Peso", value: "240 g" },
       { label: "Almohadillas", value: "Tela transpirable + leatherette" },
       { label: "Compatibilidad", value: "PC, Mac, PS4/PS5, Xbox, Switch y móviles con 3.5mm" },
+      { label: "Control de volumen", value: "Dial físico en el auricular izquierdo, independiente del volumen del dispositivo" },
+      { label: "Accesorios", value: "Bolsa de tela para transporte incluida" },
     ],
     relatedProducts: ["MLA9406415", "MLA8732921"],
     priceUpdated: "2026-09-09",
@@ -11640,6 +11642,8 @@ Comprá el G9000 si es tu primer headset gamer y querés gastar lo mínimo. Para
       "Conexión 3.5mm: lo enchufás a PC, PS4/PS5, Xbox, Switch o celular sin drivers ni adaptadores",
       "Rango amplio de 12 Hz a 28 kHz e impedancia de 32 ohm, lo mueve cualquier placa o joystick",
       "4.8 estrellas sobre 1.817 calificaciones en ML, no es un modelo nuevo sin rodaje",
+      "Aguanta 6 horas o más de uso seguido sin generar puntos de presión, según reseñas de largo plazo",
+      "Trae una bolsa de tela para transportarlo, un extra que no es común a este precio",
     ],
     cons: [
       "El micrófono es fijo (bendable, se dobla pero NO se saca). La publicación dice desmontable, y no lo es: ese es el BlackShark V2 normal, no el X",
@@ -11647,6 +11651,8 @@ Comprá el G9000 si es tu primer headset gamer y querés gastar lo mínimo. Para
       "No es inalámbrico: vas atado al cable de 3.5mm",
       "Sin software de ecualización propio en consola; el tuneo del sonido vive en Synapse, que es de PC",
       "Es de gama de entrada-media: plástico justo en la diadema, no esperes el armado de un modelo premium",
+      "El cable partidor (splitter) de 4 polos puede quedar flojo: si no encastra bien, se escucha desbalanceado izquierda/derecha y parece que el auricular está fallado sin estarlo",
+      "En consola, el dial de volumen del auricular no está sincronizado con el volumen del dispositivo: hay que subir el volumen de la consola más de lo normal para tener margen de ajuste",
     ],
     articleBody: `## Qué es y para quién
 
@@ -11654,11 +11660,15 @@ El Razer BlackShark V2 X es un auricular gamer con cable pensado para shooters c
 
 ## Lo bueno
 
-Lo que más se nota es el sonido posicional limpio gracias al driver TriForce de 50mm. Razer lo afina como si fueran tres drivers en uno (graves, medios y agudos por separado), y en la práctica eso se traduce en ubicar pasos y disparos con más precisión. Suma que es liviano (240g) y que las almohadillas combinan tela transpirable con leatherette, así que en sesiones largas no te transpira tanto la oreja. El micrófono HyperClear es cardioide: capta sobre todo tu voz de frente y mete menos ruido del ambiente, que para hablar con el equipo es lo que importa. Y al ser 3.5mm, lo enchufás a lo que tengas a mano sin instalar nada.
+Lo que más se nota es el sonido posicional limpio gracias al driver TriForce de 50mm. Razer lo afina como si fueran tres drivers en uno (graves, medios y agudos por separado), y en la práctica eso se traduce en ubicar pasos y disparos con más precisión. Suma que es liviano (240g) y que las almohadillas combinan tela transpirable con leatherette, así que en sesiones largas no te transpira tanto la oreja: reseñas de uso prolongado confirman que aguanta 6 horas seguidas sin generar puntos de presión. El micrófono HyperClear es cardioide: capta sobre todo tu voz de frente y mete menos ruido del ambiente, que para hablar con el equipo es lo que importa. Y al ser 3.5mm, lo enchufás a lo que tengas a mano sin instalar nada. La caja además trae una bolsa de tela para guardarlo o llevarlo, un detalle que no es tan común a este precio.
 
 ## La contra real
 
-Acá hay dos cosas que la publicación no te cuenta bien. Primero: el micrófono es fijo. La ficha de ML dice "desmontable" y es un error, ese es el BlackShark V2 común; el X tiene el micro bendable (se dobla) pero soldado, no lo sacás. Si querías usarlo en la calle sin el brazo del micro colgando, este no es. Segundo: el famoso 7.1 surround es virtual y solo funciona en Windows 10 de 64 bits. Si lo conectás a una PS5, una Xbox, una Switch o el celular, escuchás estéreo normal, no surround. El efecto vive en el software Synapse, que es de PC. Tampoco es inalámbrico: vas con cable siempre.
+Acá hay varias cosas que la publicación no te cuenta bien. Primero: el micrófono es fijo. La ficha de ML dice "desmontable" y es un error, ese es el BlackShark V2 común; el X tiene el micro bendable (se dobla) pero soldado, no lo sacás. Si querías usarlo en la calle sin el brazo del micro colgando, este no es. Segundo: el famoso 7.1 surround es virtual y solo funciona en Windows 10 de 64 bits. Si lo conectás a una PS5, una Xbox, una Switch o el celular, escuchás estéreo normal, no surround. El efecto vive en el software Synapse, que es de PC. Tampoco es inalámbrico: vas con cable siempre.
+
+Un tercer punto que vale la pena conocer antes de comprar: el cable partidor (splitter) de 4 polos que trae para separar micrófono y audio en algunos equipos puede quedar flojo si no encastra del todo. Reseñas de uso prolongado documentan que, cuando eso pasa, el sonido se escucha desbalanceado entre el auricular izquierdo y el derecho, y mucha gente asume que el producto viene fallado cuando en realidad es la conexión del splitter. Antes de devolverlo por eso, conviene revisar que esté bien encastrado. Algo parecido puede pasar si las almohadillas rotan al ponértelo o sacártelo: alinealas por la costura y el desbalance se corrige solo.
+
+Cuarto: si lo vas a usar en consola, el dial de volumen que tiene en el auricular izquierdo es un limitador propio, independiente del volumen de la PS5, Xbox o el dispositivo que sea. Como no están sincronizados, para tener margen cómodo de ajuste con el dial del auricular conviene subir el volumen de la consola más alto de lo que subirías normalmente, y de ahí regular fino con el dial.
 
 ## Cómo se compara
 
@@ -11703,6 +11713,18 @@ Comprá el BlackShark V2 X si jugás competitivo en PC y querés sonido posicion
       {
         question: "¿El micrófono se escucha bien para hablar con el equipo?",
         answer: "Sí, el micrófono HyperClear es cardioide, lo que significa que capta sobre todo tu voz de frente y deja afuera buena parte del ruido de los costados. Para comunicarte en partida cumple bien.",
+      },
+      {
+        question: "Siento el sonido desbalanceado entre el auricular izquierdo y el derecho, ¿está fallado?",
+        answer: "No necesariamente. El cable partidor (splitter) de 4 polos puede quedar flojo si no encastra del todo, y eso genera esa sensación de desbalance sin que el auricular esté roto. Revisá que el splitter esté bien conectado. También puede pasar si las almohadillas rotaron al ponértelo: alinealas por la costura y se corrige.",
+      },
+      {
+        question: "¿Por qué se escucha bajo en la consola aunque suba el volumen del auricular?",
+        answer: "El dial de volumen del auricular es un limitador propio, no está sincronizado con el volumen de la PS5, Xbox u otro dispositivo. Para tener margen cómodo de ajuste con el dial, conviene subir primero el volumen de la consola más alto de lo habitual y después regular fino con el dial del auricular.",
+      },
+      {
+        question: "¿Trae algo para transportarlo?",
+        answer: "Sí, incluye una bolsa de tela para guardarlo o llevarlo, algo que no es tan común en auriculares de este precio.",
       },
     ],
   },
