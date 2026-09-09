@@ -3356,6 +3356,32 @@ Es para vos si priorizás la opción con más evidencia real de uso y querés re
       { label: "Marca", value: "Parquer" },
       { label: "Modelo", value: "FZU-002" },
     ],
+    articleBody: `## Qué es el Parquer FZU-002
+
+Es un ukelele soprano acústico de entrada, con funda incluida. Cuesta {{precio:MLA19176093}} y tiene {{reviews:MLA19176093}} calificaciones con {{rating:MLA19176093}} estrellas: es el instrumento más vendido de todo el rubro Instrumentos Musicales en MercadoLibre Argentina, no solo entre ukeleles.
+
+## La base de opiniones más grande, por lejos
+
+Con {{reviews:MLA19176093}} calificaciones, ningún otro ukelele de esta comparativa se le acerca. Un comprador con taller de lutería hace más de 20 años escribió que supera ampliamente lo esperado para este precio, una opinión con peso real por venir de alguien del oficio.
+
+## La contra esperable en un instrumento de este precio
+
+Las clavijas son de fricción, no de engranaje, y varios compradores coinciden en que es lo único flojo del instrumento. También se desafina los primeros días de uso, algo que reconocen hasta las reseñas de 5 estrellas, aclarando que se estabiliza solo con el uso, como cualquier instrumento de cuerda nuevo. Las cuerdas son genéricas, no de una marca reconocida como Aquila.
+
+## Un matiz sobre lo que trae la caja
+
+La ficha declara "Incluye estuche: Sí", pero el accesorio real que trae es una funda blanda, no un estuche rígido. No cambia lo esencial, pero conviene saberlo antes de comprar si esperabas protección rígida.
+
+## Para quién es, y para quién no
+
+Es para vos si estás probando el ukelele por primera vez y querés la opción con más respaldo de compradores reales. No es para vos si ya sabés tocar y buscás mejores cuerdas o madera desde el arranque: ahí el [Dynamont Dy Aquila](/producto/ukelele-soprano-dynamont-con-cuerdas-aquila-y-funda-impermeable-mlau3433226320) de esta comparativa suma cuerdas Aquila y palo de rosa.`,
+    faq: [
+      { question: "¿Por qué es el más vendido?", answer: "Es el instrumento más vendido de todo el rubro Instrumentos Musicales en MercadoLibre Argentina, no solo entre ukeleles, con {{reviews:MLA19176093}} calificaciones acumuladas." },
+      { question: "¿Se desafina mucho?", answer: "Sí, los primeros días de uso, algo que reconocen hasta las reseñas de 5 estrellas. Se estabiliza con el uso, como cualquier instrumento de cuerda nuevo." },
+      { question: "¿Trae estuche rígido?", answer: "No. La ficha declara \"Incluye estuche: Sí\", pero el accesorio real es una funda blanda, no un estuche rígido." },
+      { question: "¿Qué madera tiene?", answer: "Tilo, la madera de entrada más común en esta categoría de precio." },
+      { question: "¿Conviene para empezar?", answer: "Sí, es la opción con más respaldo de compradores reales para probar el instrumento por primera vez. Si ya sabés tocar y buscás mejores cuerdas o madera, el Dynamont Dy Aquila de esta comparativa es el siguiente escalón." },
+    ],
     relatedProducts: ["MLAU3433226320", "MLA1116514098"],
   },
   {
@@ -3407,6 +3433,32 @@ Es para vos si priorizás la opción con más evidencia real de uso y querés re
       { label: "Marca", value: "Dynamont" },
       { label: "Modelo", value: "Soprano-Marron, línea Dy Aquila" },
     ],
+    articleBody: `## Qué es el Dynamont Dy Aquila Soprano
+
+Es un ukelele soprano acústico con cuerdas Aquila y funda impermeable incluida. Cuesta {{precio:MLAU3433226320}}, tiene {{reviews:MLAU3433226320}} calificaciones con {{rating:MLAU3433226320}} estrellas, y es el escalón lógico frente al [Parquer FZU-002](/producto/ukelele-soprano-acustico-parquer-fzu-002-mla19176093), el ukelele de entrada del catálogo.
+
+## Dos mejoras puntuales sobre la entrada
+
+Suma cuerdas Aquila, una marca real y reconocida en el mundo del ukelele, en vez de las genéricas de la entrada, y palo de rosa en la construcción, una madera más noble que el tilo del Parquer. La funda que trae, además, es impermeable, no solo una funda blanda simple.
+
+## La base de opiniones es chica
+
+Apenas {{reviews:MLAU3433226320}} calificaciones, bastante menos que las {{reviews:MLA19176093}} del Parquer FZU-002. Las reseñas que hay son en su mayoría cortas ("cumple", "buena calidad"), sin mucho detalle para chequear a fondo, aunque tampoco aparece ninguna queja de peso.
+
+## Cuesta más, solo por cuerdas y madera
+
+Sale {{preciodif:MLAU3433226320:MLA19176093}} más que la entrada, y esa diferencia se explica solo por las cuerdas Aquila y el palo de rosa: el resto del instrumento (tamaño soprano, 4 cuerdas, orientación diestra) es igual. Igual que en la entrada, la ficha declara "Incluye estuche: Sí", pero el accesorio real es una funda impermeable, no un estuche rígido.
+
+## Para quién es, y para quién no
+
+Es para vos si el ukelele de entrada te convenció y querés mejorar cuerdas y madera sin cambiar de tamaño. No es para vos si estás probando el instrumento por primera vez: ahí el Parquer FZU-002 tiene mucha más base de opiniones reales para confirmar que el modelo es consistente.`,
+    faq: [
+      { question: "¿En qué se diferencia del Parquer FZU-002?", answer: "Suma cuerdas Aquila (una marca real y reconocida) en vez de las genéricas de la entrada, y palo de rosa en vez de tilo. El resto del instrumento (tamaño soprano, 4 cuerdas) es igual, y cuesta {{preciodif:MLAU3433226320:MLA19176093}} más." },
+      { question: "¿La funda es impermeable?", answer: "Sí, a diferencia de la funda blanda simple que trae el Parquer FZU-002 de entrada." },
+      { question: "¿Tiene poca base de opiniones?", answer: "Sí, apenas {{reviews:MLAU3433226320}}, bastante menos que las {{reviews:MLA19176093}} del Parquer FZU-002. Las que hay no traen quejas de peso, pero son cortas y con poco detalle." },
+      { question: "¿Trae estuche rígido?", answer: "No. Igual que en la entrada, la ficha declara \"Incluye estuche: Sí\", pero el accesorio real es una funda impermeable, no un estuche rígido." },
+      { question: "¿Conviene sobre la entrada?", answer: "Si ya sabés que el ukelele te interesa y querés mejores cuerdas y madera, sí. Si es tu primera compra para probar el instrumento, el Parquer FZU-002 tiene mucha más evidencia real de compradores." },
+    ],
     relatedProducts: ["MLA19176093", "MLA1116514098"],
   },
   {
@@ -3457,6 +3509,36 @@ Es para vos si priorizás la opción con más evidencia real de uso y querés re
       { label: "Accesorios incluidos", value: "Funda" },
       { label: "Marca", value: "Mahalo, línea Superior" },
       { label: "Modelo", value: "MH2VT" },
+    ],
+    articleBody: `## Qué es el Mahalo MH2VT
+
+Es un ukelele electroacústico tamaño concierto, más grande que los sopranos del resto de esta comparativa. Cuesta {{precio:MLA1116514098}}, tiene {{reviews:MLA1116514098}} calificaciones con {{rating:MLA1116514098}} estrellas, el rating más alto de los tres ukeleles del catálogo.
+
+## El único electroacústico de fábrica
+
+Se puede enchufar a un amplificador sin sumar un pickup externo, algo que ni el [Parquer FZU-002](/producto/ukelele-soprano-acustico-parquer-fzu-002-mla19176093) ni el [Dynamont Dy Aquila](/producto/ukelele-soprano-dynamont-con-cuerdas-aquila-y-funda-impermeable-mlau3433226320) traen integrado. Su título anuncia además ecualizador y afinador incorporados, coherente con que la ficha lo declara tipo "Electroacústico".
+
+## Tamaño concierto: más cuerpo, más volumen
+
+A diferencia de los dos ukeleles soprano de esta comparativa, este es tamaño concierto, más grande, lo que da más cuerpo y más volumen al sonido. Es una diferencia real de formato, no solo de accesorios o materiales.
+
+## El rating más alto, con la base más chica
+
+Tiene {{rating:MLA1116514098}} estrellas, el más alto de los tres, pero se apoya en apenas {{reviews:MLA1116514098}} calificaciones, la base más chica de la comparativa. Conviene tomarlo con más cautela que el rating de la entrada, que se sostiene sobre miles de opiniones.
+
+## Dos datos de la ficha que no publicamos
+
+La ficha técnica declara altura y ancho de 2,54 cm cada uno, una medida que no puede ser real para un ukelele tamaño concierto: no la tomamos como dato válido. El campo de accesorios además lista "funda, ükelele" de forma poco clara; el único accesorio real que se puede confirmar es la funda.
+
+## Para quién es, y para quién no
+
+Es para vos si ya sabés que el ukelele te interesa en serio, y querés poder enchufarlo el día de mañana sin comprar un pickup aparte. No es para vos si es tu primera compra para probar: ahí conviene un soprano de entrada con más base de opiniones, como el Parquer FZU-002 de esta comparativa.`,
+    faq: [
+      { question: "¿Se puede enchufar a un amplificador?", answer: "Sí, es electroacústico de fábrica: no hace falta sumar un pickup externo, a diferencia de los otros dos ukeleles de esta comparativa." },
+      { question: "¿Qué tamaño tiene?", answer: "Concierto, más grande que el soprano del Parquer FZU-002 y el Dynamont Dy Aquila de esta comparativa, con más cuerpo y volumen." },
+      { question: "¿Trae afinador y ecualizador?", answer: "Su título lo anuncia, y es coherente con que la ficha lo declara tipo Electroacústico, aunque conviene confirmarlo en la publicación antes de comprar." },
+      { question: "¿Tiene mucha base de opiniones?", answer: "Es la más chica de los tres ukeleles del catálogo, apenas {{reviews:MLA1116514098}} calificaciones, aunque con el rating más alto de los tres." },
+      { question: "¿Conviene como primera compra?", answer: "No especialmente. Tiene sentido si ya sabés que el ukelele te interesa en serio. Para probar el instrumento por primera vez, el Parquer FZU-002 de entrada tiene mucha más evidencia real de compradores." },
     ],
     relatedProducts: ["MLA19176093", "MLAU3433226320"],
   },
