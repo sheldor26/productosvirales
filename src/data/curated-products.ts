@@ -20897,9 +20897,9 @@ A $455.998, el TCL 43S5K es una compra sólida si entrás sabiendo qué te llev�
     pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     specs: [
-      { label: "Tipo", value: "Consola de videojuegos, edición Digital (sin lector de discos)" },
-      { label: "Modelo", value: "PS5 Slim Digital Edition (CFI-2015 series)" },
-      { label: "Almacenamiento", value: "SSD 1 TB (una parte queda reservada para el sistema)" },
+      { label: "Tipo", value: "Consola de videojuegos, edición Digital (sin lector de discos de fábrica, se puede agregar después)" },
+      { label: "Modelo", value: "PS5 Slim Digital Edition" },
+      { label: "Almacenamiento", value: "SSD 1 TB en la mayoría de las unidades (una parte queda reservada para el sistema); Sony lanzó una revisión más nueva con 825 GB que circula en algunos mercados, así que puede variar según la unidad que llegue" },
       { label: "Procesador", value: "AMD Zen 2, 8 núcleos, hasta 3.5 GHz" },
       { label: "Gráficos", value: "AMD RDNA 2, hasta 10.3 TFLOPS" },
       { label: "Resolución máxima", value: "4K a 120 Hz, con HDR (según juego y TV compatibles)" },
@@ -20912,10 +20912,10 @@ A $455.998, el TCL 43S5K es una compra sólida si entrás sabiendo qué te llev�
     ],
     relatedProducts: ["MLA18010994", "MLA74108173"],
     reviewsSampledAt: "2026-09-09",
-    description: "Consola PS5 Digital Edition (Slim) con Astro Bot preinstalado y Gran Turismo 7 de regalo. 4.9 estrellas en más de 12.000 calificaciones. Sin lector de discos: todo se juega digital.",
+    description: "Consola PS5 Digital Edition (Slim) con Astro Bot preinstalado y Gran Turismo 7 de regalo. 4.9 estrellas en más de 12.000 calificaciones. Sin lector de discos de fábrica, pero se puede agregar después.",
     seoTitle: "PS5 Digital + Astro Bot + GT7: ¿conviene este bundle?",
-    metaDescription: "PS5 Digital Edition con Astro Bot y Gran Turismo 7 incluidos. 1TB, 4K a 120Hz, control DualSense. La contra real de la edición sin lector de discos.",
-    verdict: "Sirve si ya decidiste que vas a jugar todo en digital (nada de discos, ni de PS5 ni viejos de PS4) y querés arrancar con dos juegos de peso sin pagarlos aparte: Astro Bot y Gran Turismo 7 ya vienen sumados al precio de la consola sola. No sirve si tenés una colección de discos de PS4 que querés seguir usando, o si preferís poder revender o prestar tus juegos físicos más adelante: la edición Digital no tiene lector, esa puerta queda cerrada para siempre en este equipo.",
+    metaDescription: "PS5 Digital Edition con Astro Bot y Gran Turismo 7 incluidos. 1TB, 4K a 120Hz, control DualSense. La contra real de la edición sin lector de discos de fábrica.",
+    verdict: "Sirve si por ahora vas a jugar todo en digital y querés arrancar con dos juegos de peso sin pagarlos aparte: Astro Bot y Gran Turismo 7 ya vienen sumados al precio de la consola sola. Un dato importante que no siempre se sabe: como es la versión Slim, más adelante podés comprar el lector de discos oficial de Sony por separado e instalarlo vos mismo, así que la decisión de ir por Digital hoy no te cierra la puerta a los discos físicos para siempre. No sirve si ya sabés que vas a comprar muchos juegos físicos desde el día uno y preferís no tener que sumar ese gasto extra del lector más adelante.",
     pros: [
       "Trae dos juegos completos (Astro Bot + Gran Turismo 7) sumados al precio de la consola, sin pagarlos aparte",
       "SSD de 1 TB, de los más rápidos de esta generación para tiempos de carga",
@@ -20926,7 +20926,8 @@ A $455.998, el TCL 43S5K es una compra sólida si entrás sabiendo qué te llev�
       "4.9 estrellas en más de 12.000 calificaciones: de las consolas con más respaldo de MercadoLibre Argentina",
     ],
     cons: [
-      "Es edición Digital: no tiene lector de discos, así que no podés usar juegos físicos, ni los de PS5 ni discos viejos de PS4 que ya tengas",
+      "Es edición Digital: de fábrica no tiene lector de discos, así que no podés usar juegos físicos hasta que compres el lector aparte",
+      "El lector de discos no viene incluido y hay que comprarlo por separado si lo querés (es un accesorio adicional, no está en esta publicación)",
       "Astro Bot, el juego preinstalado, no soporta 120 Hz según la propia caja del producto",
       "El soporte vertical para pararla en vez de acostarla se vende por separado",
       "Del SSD de 1 TB, una parte queda reservada para el sistema: el espacio disponible real es menor al anunciado",
@@ -20935,9 +20936,9 @@ A $455.998, el TCL 43S5K es una compra sólida si entrás sabiendo qué te llev�
     ],
     articleBody: `## Qué es y para quién
 
-Es la PS5 en su versión Slim (la más delgada, la que se vende hoy) y edición Digital: sin lector de discos, todo se instala y se juega desde internet. Este bundle puntual suma la consola, el control DualSense y dos juegos ya incluidos: Astro Bot (viene preinstalado) y Gran Turismo 7 (código de descarga en la caja).
+Es la PS5 en su versión Slim (la más delgada, la que se vende hoy) y edición Digital: de fábrica no tiene lector de discos, todo se instala y se juega desde internet. Este bundle puntual suma la consola, el control DualSense y dos juegos ya incluidos: Astro Bot (viene preinstalado) y Gran Turismo 7 (código de descarga en la caja).
 
-Es para quien ya decidió que va a jugar en digital, sin lidiar con discos, y quiere arrancar con un catálogo de entrada sin pagar los juegos aparte. Si tenés discos de PS4 que querés seguir usando o preferís poder revender juegos físicos más adelante, esta versión no te sirve: la falta de lector es definitiva, no se agrega después.
+Es para quien por ahora quiere jugar en digital y arrancar con un catálogo de entrada sin pagar los juegos aparte. Un dato importante que conviene tener claro: al ser la versión Slim, la falta de lector NO es definitiva. Sony vende el lector de discos como accesorio separado y se instala en la propia consola, así que si más adelante cambiás de idea, podés sumarlo. Eso sí, es un gasto aparte que hoy esta publicación no incluye.
 
 ## Lo que trae la caja
 
@@ -20949,27 +20950,31 @@ Si en algún momento querés pararla en vertical en vez de acostada, el soporte 
 
 Corre con un procesador AMD Zen 2 de 8 núcleos y una GPU AMD RDNA 2 de hasta 10.3 TFLOPS, la misma potencia gráfica que la PS5 original (la versión Slim es más chica y liviana, pero el rendimiento adentro es igual). Llega hasta 4K a 120 Hz con HDR, aunque eso depende de que el juego y el televisor lo soporten: Astro Bot, por ejemplo, tiene techo de 60 Hz según la propia caja.
 
-El SSD es de 1 TB, pero como en toda PS5, una parte queda reservada para el sistema operativo: el espacio real disponible para instalar juegos es menor al 1 TB completo. Con juegos modernos que pesan 50-100 GB cada uno, es algo a tener en cuenta si pensás instalar muchos títulos a la vez.
+El SSD es de 1 TB en la mayoría de las unidades, pero como en toda PS5, una parte queda reservada para el sistema operativo: el espacio real disponible para instalar juegos es menor al 1 TB completo. Un dato honesto para tener en cuenta: Sony lanzó una revisión más nueva de la PS5 Slim que en algunos mercados viene con SSD de 825 GB en vez de 1 TB, sin bajar el precio. No podemos garantizar qué revisión exacta llega en esta publicación puntual de MercadoLibre, así que si el almacenamiento es algo que te importa mucho, vale la pena confirmarlo con el vendedor antes de comprar. Con juegos modernos que pesan 50-100 GB cada uno, cualquiera de las dos versiones se llena rápido si instalás muchos títulos a la vez.
 
-## La contra real: es edición Digital
+## La contra real: es edición Digital (pero no para siempre)
 
-La decisión más importante antes de comprar esta versión es aceptar que no hay lector de discos. No es que venga "sin el lector pero se pueda agregar": es una consola distinta por dentro, pensada para digital desde el diseño. Si comprás un juego, lo comprás en la tienda de PlayStation, no en una caja física. Y si tenías una colección de discos de PS5 o PS4, no los vas a poder usar en este equipo.
+La decisión antes de comprar esta versión es aceptar que de fábrica no hay lector de discos: todos los juegos se compran e instalan desde la tienda de PlayStation, por internet. Pero acá hay un dato importante que muchas fichas no aclaran bien: al ser la versión Slim, esto no es una puerta cerrada para siempre. Sony vende oficialmente un lector de discos como accesorio aparte, que se engancha a la propia consola sin herramientas (un par de clics y una activación online la primera vez). Si más adelante querés jugar con discos físicos o comprar usado, podés sumarlo. Eso sí: es un gasto extra que hoy no está incluido en este bundle, y solo aplica a la versión Slim — la PS5 Digital original (la primera, ya discontinuada) no tenía esta opción.
 
 El otro punto honesto: jugar en red con otras personas (no local, sino online) requiere una suscripción paga a PlayStation Plus, que no está incluida en este bundle. Los dos juegos que trae (Astro Bot y Gran Turismo 7) sí se juegan sin esa suscripción en su modo un jugador; Gran Turismo 7 en particular suma modos online que sí la piden.
 
 ## Para quién sí y para quién no
 
-Sí, si ya tenías decidido comprar en digital, no te importa perder la opción de discos físicos, y valorás arrancar con dos juegos de peso (uno de plataformas, uno de autos) sin pagarlos aparte de la consola. Es de las consolas con más respaldo de compradores reales de todo el catálogo.
+Sí, si por ahora vas a jugar en digital y valorás arrancar con dos juegos de peso (uno de plataformas, uno de autos) sin pagarlos aparte de la consola. También si te tranquiliza saber que la puerta a los discos físicos sigue abierta más adelante, aunque sea con un gasto extra. Es de las consolas con más respaldo de compradores reales de todo el catálogo.
 
-No, si tenés una colección de discos de generaciones anteriores que querés seguir usando, si te gusta poder revender o prestar juegos físicos, o si no estás seguro y preferís mantener esa puerta abierta: ahí conviene mirar la edición con lector de discos, aunque cueste más.
+No, si ya sabés que vas a comprar juegos físicos desde el arranque y no querés lidiar con la compra aparte del lector, o si el almacenamiento exacto (1 TB vs. la revisión más chica) es un factor decisivo para vos: ahí conviene comprar directamente la versión con lector de discos incluido.
 
 ## Veredicto
 
-El bundle tiene sentido puntualmente por los dos juegos incluidos: Astro Bot y Gran Turismo 7 solos ya valen buena parte de la diferencia de precio contra la consola pelada. La consola en sí es la misma potencia que la PS5 estándar, en formato más compacto. La decisión real pasa por el formato: si aceptás vivir 100% en digital, es una compra sólida y con mucho respaldo; si no, la contra de no tener lector de discos es permanente y conviene pensarlo dos veces antes de comprar.`,
+El bundle tiene sentido puntualmente por los dos juegos incluidos: Astro Bot y Gran Turismo 7 solos ya valen buena parte de la diferencia de precio contra la consola pelada. La consola en sí es la misma potencia que la PS5 estándar, en formato más compacto. La decisión real pasa por el formato: elegís Digital hoy sabiendo que podés sumar el lector de discos más adelante si cambiás de idea, no es una decisión sin vuelta atrás como en la generación anterior.`,
     faq: [
       {
         question: "¿Esta PS5 tiene lector de discos?",
-        answer: "No, es la edición Digital: no tiene lector de discos. Todos los juegos se compran y se instalan desde la tienda de PlayStation, por internet. No podés usar discos físicos, ni de PS5 ni viejos de PS4.",
+        answer: "De fábrica no: es la edición Digital, todos los juegos se compran y se instalan desde la tienda de PlayStation, por internet. Pero al ser la versión Slim, más adelante podés comprar el lector de discos oficial de Sony por separado e instalarlo vos mismo, sin herramientas. No es una decisión sin vuelta atrás.",
+      },
+      {
+        question: "¿Puedo agregarle el lector de discos más adelante?",
+        answer: "Sí. Como es la versión Slim, Sony vende oficialmente un lector de discos como accesorio aparte que se engancha a la propia consola en un par de minutos, con una activación online la primera vez. Es un gasto extra que no viene en esta publicación, pero la opción está disponible cuando quieras.",
       },
       {
         question: "¿Qué juegos incluye el bundle?",
@@ -20977,7 +20982,7 @@ El bundle tiene sentido puntualmente por los dos juegos incluidos: Astro Bot y G
       },
       {
         question: "¿Cuánto almacenamiento tiene disponible en realidad?",
-        answer: "El SSD es de 1 TB, pero como en toda PS5, una parte queda reservada para el sistema operativo. El espacio real disponible para instalar juegos es algo menor al 1 TB anunciado.",
+        answer: "El SSD es de 1 TB en la mayoría de las unidades, pero como en toda PS5, una parte queda reservada para el sistema operativo, así que el espacio real es algo menor. Un dato honesto: Sony lanzó una revisión más nueva de la PS5 Slim con SSD de 825 GB en vez de 1 TB en algunos mercados. No podemos garantizar qué revisión llega en esta publicación puntual, así que si el almacenamiento exacto te importa mucho, confirmalo con el vendedor antes de comprar.",
       },
       {
         question: "¿Necesito pagar algo más para jugar online?",
@@ -20993,7 +20998,7 @@ El bundle tiene sentido puntualmente por los dos juegos incluidos: Astro Bot y G
       },
       {
         question: "¿Vale la pena o conviene la versión con lector de discos?",
-        answer: "Depende de si te importa poder usar juegos físicos. Si ya decidiste jugar todo en digital, esta versión sale más barata por la misma potencia. Si tenés discos de PS4 que querés seguir usando, o preferís poder revender o prestar juegos físicos más adelante, conviene pagar la diferencia por la edición con lector de discos.",
+        answer: "Depende de cuándo pensás usar juegos físicos. Si por ahora vas a jugar en digital, esta versión sale más barata por la misma potencia, y podés sumar el lector después si cambiás de idea. Si ya sabés que vas a comprar juegos físicos desde el arranque y no querés el gasto extra del lector aparte más adelante, conviene pagar la diferencia por la edición que ya lo trae incluido.",
       },
     ],
   },
