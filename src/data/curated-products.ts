@@ -9783,7 +9783,8 @@ A $73.399 con 4.9 estrellas en {{reviews:MLA40568693}} calificaciones, es el upg
       "Es el \"hermano menor\" del PRO X Superlight 2: mismo sensor, pero 10 g más pesado (80 g vs 63 g) y con patines de teflón común, no el PTFE premium del Superlight, según una reseña técnica detallada",
       "Trae 7 ranuras para botones laterales, pero el software solo reconoce 5: si configurás los botones 6 y 7, el sistema los detecta como 4 y 5, así que en la práctica solo 2 de los 4 laterales sirven",
       "Carga por micro-USB, no USB-C, algo que varias reseñas señalan como un detalle desactualizado para un mouse de este precio",
-      "Una reseña reporta distancia de despegue (lift-off) muy baja: cualquier levantamiento del mouse hace que el cursor deje de moverse, algo a tener en cuenta si jugás con sensibilidad baja y levantás mucho el mouse",
+      "La distancia de despegue (lift-off) es baja y no se puede ajustar en este modelo (a diferencia del Superlight 2, que sí permite elegir Low/Medium/High desde G HUB): es lo que buscan los jugadores competitivos para que el cursor no se mueva solo al reposicionar la mano, pero puede sorprender a quien no está acostumbrado",
+      "Doble clic: es un problema real y bien documentado (hay hasta guías de reparación técnica), causado por una plaqueta metálica del switch que se aplana con el uso. No afecta a todas las unidades, pero es la queja más repetida sobre este mouse a nivel internacional en los últimos años",
       "La base puede generar fricción en mousepads híbridos (tela + superficie dura), según una reseña",
       "Reportes aislados de unidades con fallas de fábrica o llegadas ya abiertas, aunque son minoría frente al volumen de reseñas positivas",
     ],
@@ -9804,9 +9805,17 @@ Acá está un hallazgo técnico que no está en ninguna ficha oficial. Una rese�
 
 Varias reseñas señalan lo mismo: el mouse carga por micro-USB, no por USB-C. Es porque el diseño original data de 2018, y aunque sigue siendo plenamente funcional, no es el estándar que uno esperaría en un mouse premium actual. No afecta el rendimiento, pero es una molestia menor si ya no tenés cables micro-USB sueltos por casa.
 
-## Lift-off distance: un detalle técnico a considerar
+## Lift-off distance: no es una falla, es una característica (con matices)
 
-Una reseña de 3 estrellas de Brasil marca un problema técnico específico: "la distancia de despegue es muy baja. Cualquier levantamiento hace que deje de moverse". Es una característica más notable para jugadores de sensibilidad baja que levantan el mouse con frecuencia para reposicionar la mano; para la mayoría de los usos, no es un problema, pero vale la pena saberlo si tu estilo de juego depende de eso.
+Una reseña de 3 estrellas de Brasil lo describe así: "la distancia de despegue es muy baja. Cualquier levantamiento hace que deje de moverse". Suena a defecto, pero es al revés: la distancia de despegue (lift-off) de este mouse es de apenas 0,8mm, y una distancia baja es justo lo que buscan los jugadores competitivos, porque evita que el cursor "reenganche" solo al levantar y reposicionar la mano con movimientos agresivos. El matiz real es otro: a diferencia del Superlight 2, que permite elegir entre tres niveles de lift-off desde G HUB, en este modelo no se puede ajustar. Si nunca usaste un mouse con LOD bajo, puede sorprenderte al principio.
+
+## El doble clic: el problema más documentado del modelo
+
+Es la contra que ninguna reseña suelta debería opacar: el G Pro Wireless tiene un historial real y bien documentado de fallas de doble clic, al punto de que existen guías técnicas de reparación dedicadas al tema. La causa identificada es una plaqueta metálica dentro del switch que se aplana con el uso y genera un rebote eléctrico que la placa interpreta como dos clics. No afecta a todas las unidades ni aparece siempre, pero es la queja más repetida sobre este mouse puntual a nivel internacional en los últimos años, y motivó que el PRO X Superlight cambiara de switches más adelante.
+
+## Un tip de conexión que no está en el manual
+
+Varios usuarios de largo plazo insisten en lo mismo: el receptor Lightspeed tiene que quedar a la vista sobre el escritorio, no enchufado detrás del gabinete de la PC. Ponerlo detrás de la torre, algo que mucha gente hace por prolijidad, puede generar desconexiones intermitentes que parecen un problema del mouse y en realidad son de ubicación del receptor.
 
 ## Contra el PRO X Superlight 2 y el G309
 
@@ -9824,8 +9833,11 @@ A $140.923 con 4.9 estrellas en {{reviews:MLA14428767}} calificaciones, es la pu
       { label: "Sensor", value: "HERO 25K, hasta 25.600 DPI (el mismo sensor que el PRO X Superlight 2, según reseñas técnicas)" },
       { label: "Peso", value: "80 g (10 g más que el PRO X Superlight 2)" },
       { label: "Patines / Skates", value: "Teflón estándar, no el PTFE premium del Superlight, según reseñas" },
-      { label: "Batería", value: "Recargable: hasta 60 horas (48 con RGB prendido). Carga por micro-USB, no USB-C" },
-      { label: "Botones", value: "Laterales intercambiables (apto zurdos). Trae 7 ranuras físicas, pero el software solo reconoce 5 simultáneas" },
+      { label: "Distancia de despegue (lift-off)", value: "0,8 mm por defecto, no ajustable en este modelo (el Superlight 2 sí permite elegir entre tres niveles)" },
+      { label: "Switches de clic", value: "Omron D2FC-F-K(50M), calculados para 50 millones de clics, confirmado por fuentes técnicas especializadas. Tiene un historial documentado de fallas de doble clic en algunas unidades" },
+      { label: "Cable de carga", value: "Goma, no mallado, de 1,7 metros, con conector micro-USB" },
+      { label: "Batería", value: "Recargable: hasta 60 horas (48 con RGB prendido). Carga rápida: unos 10% en menos de 5 minutos enchufado. Carga por micro-USB, no USB-C" },
+      { label: "Botones", value: "Laterales intercambiables y magnéticos (apto zurdos). Trae 7 ranuras físicas, pero el software solo reconoce 5 simultáneas" },
       { label: "Iluminación", value: "RGB (1 zona)" },
       { label: "Software", value: "Logitech G HUB" },
       { label: "Color", value: "Negro" },
@@ -9837,6 +9849,9 @@ A $140.923 con 4.9 estrellas en {{reviews:MLA14428767}} calificaciones, es la pu
       { question: "¿Sirve para zurdos?", answer: "Sí, es uno de los pocos mouse gamer premium con botones laterales intercambiables para ambas manos, algo poco común en esta gama de precio." },
       { question: "¿Cuánto dura la batería?", answer: "El fabricante declara hasta 60 horas (48 con RGB encendido). En uso real, una reseña reporta 6 días de autonomía con unas 7 horas diarias de juego constante." },
       { question: "¿Conviene este o el PRO X Superlight 2?", answer: "Si el peso al mínimo posible es tu prioridad para competitivo de alto nivel, el [Superlight 2](/producto/mouse-gamer-logitech-pro-x-superlight-2-blanco-mla28598537) gana por 10 gramos y mejores patines. Si preferís RGB, botones intercambiables para zurdos, o pagar menos por prácticamente el mismo sensor, el G Pro Wireless es la opción más razonable." },
+      { question: "¿Es cierto que hace doble clic?", answer: "Es un problema real y bien documentado, con guías técnicas de reparación dedicadas: una plaqueta metálica dentro del switch se aplana con el uso y genera un rebote que se lee como dos clics. No afecta a todas las unidades, pero es la queja más repetida sobre este mouse a nivel internacional en los últimos años." },
+      { question: "¿La distancia de despegue baja es un problema?", answer: "No, es una característica buscada por jugadores competitivos: evita que el cursor se mueva solo al levantar el mouse para reposicionar la mano. Es de 0,8mm y no se puede ajustar en este modelo (el Superlight 2 sí permite elegir el nivel). Puede sorprender si nunca usaste un mouse con distancia de despegue tan baja." },
+      { question: "¿Dónde conviene ubicar el receptor?", answer: "Sobre el escritorio, a la vista, no enchufado detrás del gabinete de la PC. Ponerlo detrás de la torre puede generar desconexiones intermitentes que parecen un problema del mouse y en realidad son de ubicación del receptor." },
     ],
     customerReviews: [
       { rating: 5, country: "Argentina", date: "2025", useful: 6, text: "Es el mejor! A ver, para los quisquillosos: este mouse sería el hermano menor de un PRO X Superlight, tiene el mismo sensor, 10gr más de peso y su teflón es común. Pero en cuanto a prestaciones hablamos de prácticamente el mismo mouse. Vengo de usar el Logitech G603 el cual pesa casi 50 gramos más y es un cambio del cielo a la tierra, además la lectura de movimientos milimétricos es perfecta. Si querés un mouse competitivo y no gastar más, este es digno de una final de un mundial de cualquier juego de alta calidad. Su carga máxima dura 6 días de uso constante de 7hs más o menos." },
