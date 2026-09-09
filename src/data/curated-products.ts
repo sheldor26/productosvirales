@@ -56363,6 +56363,8 @@ Comprálo si buscás la entrada más barata y más probada de esta guía, con ca
       { label: "Bluetooth", value: "No" },
       { label: "Alcance declarado", value: "Hasta 10 m (fabricante)" },
       { label: "Compatible con", value: "PC (Windows), PS3 según fabricante" },
+      { label: "Peso", value: "Aprox. 310 g" },
+      { label: "Tiempo de carga", value: "Aprox. 1,5 horas para carga completa, según reseñas" },
     ],
     relatedProducts: ["MLA15152700", "MLA27921678"],
     priceUpdated: "2026-09-07",
@@ -56380,10 +56382,12 @@ Comprálo si buscás la entrada más barata y más probada de esta guía, con ca
       "Se carga por cable micro-USB sin dejar de usarse mientras carga",
     ],
     cons: [
-      "El fabricante no publica una cifra oficial y clara de autonomía de batería; las fuentes disponibles se contradicen entre 15 y 40 horas",
-      "Hay reportes de desconexiones inalámbricas ocasionales, solucionables reiniciando el dongle",
+      "El fabricante no publica una cifra oficial y clara de autonomía de batería; las fuentes disponibles se contradicen entre 15 y 40 horas. Reseñas de uso real reportan cifras más aterrizadas: entre 8 y 15 horas por carga",
+      "Hay reportes de desconexiones inalámbricas ocasionales; conectar el dongle en un puerto USB delantero de la PC (en vez de uno trasero) reduce bastante ese problema",
       "Sin Bluetooth: no se puede usar con celular o tablet, solo con el dongle",
       "No compatible con PS4, solo PC y PS3 según el fabricante",
+      "Los botones superiores (R1/L1) y la carcasa trasera son el punto más flojo en calidad de construcción, según más de una reseña independiente",
+      "Reportes ocasionales (pocas veces en un año de uso según una reseña) de que el joystick empieza a vibrar sin parar solo; se soluciona reiniciándolo con el botón de reset en la parte trasera",
     ],
     articleBody: `## Qué es y para quién
 
@@ -56391,11 +56395,13 @@ El Redragon Harrow G808 es la versión inalámbrica de la línea Harrow: se cone
 
 ## Lo bueno
 
-Como el Saturn, tiene switch físico XInput/DirectInput confirmado en el sitio oficial de Redragon, así que la compatibilidad con juegos modernos vía Steam está garantizada en modo XInput. El dongle 2,4 GHz declara un alcance de hasta 10 metros, más que suficiente para jugar desde el sillón. Trae vibración, algo que no todos los inalámbricos de esta gama incluyen, y se puede seguir usando mientras se carga por el cable micro-USB.
+Como el Saturn, tiene switch físico XInput/DirectInput confirmado en el sitio oficial de Redragon, así que la compatibilidad con juegos modernos vía Steam está garantizada en modo XInput. El dongle 2,4 GHz declara un alcance de hasta 10 metros, más que suficiente para jugar desde el sillón. Trae vibración, algo que no todos los inalámbricos de esta gama incluyen, y se puede seguir usando mientras se carga por el cable micro-USB. Pesa cerca de 310 gramos y, según varias reseñas, la carga completa tarda alrededor de 1,5 horas.
 
 ## La contra real
 
-Acá hay algo que conviene saber antes de comprar: Redragon no publica una cifra oficial y consistente de cuántas horas dura la batería. Distintas fuentes del propio fabricante (según el país) dan números que van de 15 a 40 horas, sin un dato único confiable. En la práctica, varias reseñas de compradores mencionan que aguanta varias horas seguidas de juego, pero no hay una cifra exacta para prometer. También existen reportes de desconexiones inalámbricas ocasionales (se soluciona reiniciando el dongle con el botón de pinhole). No tiene Bluetooth, así que no sirve para conectarlo directo a un celular o tablet.
+Acá hay algo que conviene saber antes de comprar: Redragon no publica una cifra oficial y consistente de cuántas horas dura la batería. Distintas fuentes del propio fabricante (según el país) dan números que van de 15 a 40 horas, sin un dato único confiable. Reseñas de uso real de compradores dan una expectativa más aterrizada: entre 8 y 15 horas por carga, según una review técnica que además cita una batería de 600 mAh. También existen reportes de desconexiones inalámbricas ocasionales; varios usuarios coinciden en que conectar el dongle en un puerto USB delantero de la PC (en vez de uno trasero, más lejos y con más interferencia) reduce bastante ese problema. No tiene Bluetooth, así que no sirve para conectarlo directo a un celular o tablet.
+
+Dos datos más de uso real y largo plazo. Primero: los botones superiores (R1/L1) y la carcasa trasera son el punto más flojo en calidad de construcción según más de una reseña independiente (el resto del joystick, sticks y gatillos, se sostiene bien). Segundo: hay reportes ocasionales de que el joystick empieza a vibrar sin parar de la nada (le pasó a un usuario 4-5 veces en un año de uso diario); se soluciona reiniciándolo con el botoncito de reset que trae en la parte trasera, apretándolo con un pin.
 
 ## Para quién sí y para quién no
 
@@ -56405,6 +56411,9 @@ Comprálo si querés cortar el cable sin pagar el precio de un inalámbrico prem
       { question: "¿Cuánto dura la batería?", answer: "El fabricante no publica una cifra oficial clara: distintas fuentes propias de Redragon mencionan entre 15 y 40 horas según el país. No hay un dato único confirmado, así que conviene tomarlo como aproximado." },
       { question: "¿Se puede usar mientras se carga?", answer: "Sí, se carga por un cable micro-USB y se puede seguir jugando mientras carga, funcionando como un joystick con cable en ese momento." },
       { question: "¿Es compatible con PS4?", answer: "No. Según el fabricante es compatible con PC y PS3, pero no con PS4." },
+      { question: "¿Qué hago si el joystick empieza a vibrar solo sin parar?", answer: "Es un problema ocasional reportado en reseñas de uso a largo plazo, pocas veces al año según un usuario. Se soluciona reiniciando el joystick: presioná con un pin el botón de reset chiquito que trae en la parte trasera." },
+      { question: "¿Cómo evito las desconexiones inalámbricas?", answer: "Conectá el dongle USB en un puerto delantero de la PC en vez de uno trasero. Varios usuarios reportan que la distancia y la interferencia de los puertos traseros son la causa más común de desconexiones ocasionales." },
+      { question: "¿Cuánto pesa y cuánto tarda en cargarse?", answer: "Pesa alrededor de 310 gramos. Según reseñas, la carga completa tarda cerca de 1,5 horas, y se puede seguir jugando mientras carga por el cable micro-USB." },
     ],
   },
 
