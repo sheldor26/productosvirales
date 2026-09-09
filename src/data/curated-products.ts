@@ -9900,6 +9900,8 @@ A $140.923 con 4.9 estrellas en {{reviews:MLA14428767}} calificaciones, es la pu
       "Hay reportes de la ruedita de scroll fallando y dando falsos clics a partir de los 6 meses de uso en algunas unidades",
       "Un caso reportado de los DPI reconfigurándose solos sin causa aparente, sin solución encontrada",
       "No es para productividad: una reseña detallada recomienda otro modelo (G903 o MX Master 3S) si el uso no es 100% gaming competitivo, porque le faltan botones extra y autonomía frente a esos modelos",
+      "No tiene ajuste de inclinación (tilt) en los clics laterales, algo que varios competidores sí traen, ni configurador web como Razer o Wooting: el software queda atrás en funciones frente a esas marcas",
+      "En mousepads de control o muy blandos, los skates finos hacen que el mouse se hunda un poco al apretarlo, complicando el deslizamiento (en vidrio o tela anda bien)",
     ],
     verdict: "A $288.469, es el mouse gamer más liviano de esta selección (60 g) y el tope de gama de e-sports: sensor HERO 2, hasta 8.000 Hz de polling y mejoras confirmadas sobre la versión 1. La objeción más repetida en las reseñas no es de calidad, es de precio: varios compradores lo recomiendan igual, pero avisan que cuesta bastante para lo que ofrece frente a alternativas más accesibles. Y ojo con el modo 8.000 Hz: la batería cae a 20 horas ahí.",
     articleBody: `## El más liviano de la selección, con mejoras reales sobre la v1
@@ -9912,7 +9914,7 @@ Una reseña muy detallada de Argentina hace la transición más honesta: "vengo 
 
 ## El modo 8.000 Hz: precisión a costa de batería
 
-Acá está el dato técnico más importante que la ficha no explica bien. Una reseña lo detalla con precisión: "si se actualiza el firmware llega a 8k Hz de polling rate, lo que hace que sea muy preciso, pero si se pone 8k Hz la batería solo dura 20 horas". Es decir: el modo de máxima respuesta existe, pero tiene un costo real de autonomía. Otra reseña que también actualizó y cambió los glides confirma la mejora de fluidez, aunque tuvo que "bajar la sensibilidad en el juego" para adaptarse al salto.
+Acá está el dato técnico más importante que la ficha no explica bien. Una reseña lo detalla con precisión: "si se actualiza el firmware llega a 8k Hz de polling rate, lo que hace que sea muy preciso, pero si se pone 8k Hz la batería solo dura 20 horas". Es decir: el modo de máxima respuesta existe, pero tiene un costo real de autonomía. Otra reseña que también actualizó y cambió los glides confirma la mejora de fluidez, aunque tuvo que "bajar la sensibilidad en el juego" para adaptarse al salto. Un matiz honesto para la mayoría de los usuarios: un video centrado en configuración recomienda no ir más allá de 1.000 Hz salvo que compitas a nivel serio, porque 4.000 u 8.000 Hz sobre todo estresan más la CPU y drenan la batería más rápido, sin una diferencia perceptible para el usuario promedio.
 
 ## La objeción más repetida: el precio
 
@@ -9921,6 +9923,14 @@ No es un problema de calidad, es de percepción de valor. Varias reseñas de dis
 ## Fallas puntuales a tener en cuenta
 
 No todo son elogios. Una reseña de 3 estrellas de Chile avisa: "en algunos casos a los 6 meses empieza a fallar la ruedita y a dar falsos ticks". Otra, de 1 estrella, reporta un problema de software: "se me bajan solos los dpi, ya los configuré y todo pero no hay solución". Y una reseña dura compara negativamente con la versión anterior: "en comparación del 1, este es una basura" — una opinión aislada, pero real, en un panorama mayormente positivo.
+
+## Un detalle técnico que pocas fichas explican: los switches Light Force
+
+Los clics usan switches ópticos Lightforce, con dos modos configurables desde G HUB. El modo híbrido ahorra batería: el sensor óptico recién se activa cuando el switch físico ya está casi presionado. El modo 100% óptico responde más rápido, pero exige más batería. La mayoría de las reseñas que profundizan en configuración recomiendan dejarlo en óptico puro para exprimir el rendimiento al máximo, sabiendo que come más batería.
+
+## Lo que le falta frente a la competencia
+
+No tiene ajuste de inclinación (tilt) en los clics laterales, una función que varios competidores sí ofrecen. Tampoco tiene configurador web como Razer o Wooting: en funciones de software, queda atrás de esas marcas aunque el hardware compita de igual a igual. Y en mousepads de control o muy blandos, los skates finos hacen que el mouse se hunda levemente al apretarlo, complicando el deslizamiento; en superficies de vidrio o tela desliza sin problema.
 
 ## No es para todos los usos: la aclaración más honesta
 
@@ -9941,10 +9951,12 @@ A $288.469 con 4.8 estrellas en {{reviews:MLA28598537}} calificaciones, es el to
       { label: "Conexión", value: "Inalámbrico Lightspeed" },
       { label: "Sensor", value: "HERO 2, hasta 44.000 DPI" },
       { label: "Polling rate", value: "8.000 Hz máx. con actualización de firmware (4.000 Hz por defecto)" },
-      { label: "Peso", value: "60 g (el más liviano de los Logitech de esta selección)" },
-      { label: "Batería", value: "Recargable USB-C, ~95 horas en modo estándar; en modo 8.000 Hz cae a ~20 horas según reseñas" },
-      { label: "Botones", value: "5 (switches óptico-mecánicos Lightforce)" },
+      { label: "Peso", value: "60 g declarados; según una reseña que lo pesó, en la práctica es levemente menos (el más liviano de los Logitech de esta selección)" },
+      { label: "Batería", value: "Recargable USB-C, ~95 horas en modo estándar (una reseña midió 92 horas reales a 1.000 Hz); en modo 8.000 Hz cae a ~20 horas según reseñas" },
+      { label: "Botones", value: "5 (switches ópticos Lightforce, con modo híbrido o 100% óptico configurable desde G HUB: el híbrido ahorra batería activando el sensor óptico recién cuando el switch físico está casi presionado, el óptico puro es más rápido pero gasta más)" },
       { label: "Iluminación", value: "Sin RGB (prioriza el peso)" },
+      { label: "Ajuste de inclinación", value: "No tiene (tilt), a diferencia de varios competidores" },
+      { label: "Configurador web", value: "No tiene, a diferencia de Razer o Wooting: el software de Logitech queda atrás en funciones frente a esas marcas" },
       { label: "Software", value: "Logitech G HUB (necesario para actualizar firmware y activar 8.000 Hz)" },
       { label: "Color", value: "Blanco (también disponible en negro según variante)" },
     ],
@@ -9955,6 +9967,10 @@ A $288.469 con 4.8 estrellas en {{reviews:MLA28598537}} calificaciones, es el to
       { question: "¿Sirve para trabajo y uso mixto, no solo gaming?", answer: "No es lo suyo. Una reseña lo dice de frente: para productividad (botones extra, autonomía larga) recomienda directamente el G903 o el MX Master 3S. El Superlight 2 está diseñado exclusivamente para e-sports, sin concesiones en esa dirección." },
       { question: "¿Tiene fallas conocidas?", answer: "Hay reportes puntuales, no masivos: una reseña de 3 estrellas reporta que en algunas unidades la ruedita de scroll empieza a fallar y dar falsos clics a partir de los 6 meses. Otra reporta que los DPI se reconfiguran solos sin causa aparente. Son casos aislados frente al volumen de reseñas positivas." },
       { question: "¿Conviene este o el G Pro Wireless?", answer: "El [G Pro Wireless](/producto/mouse-gamer-logitech-g-pro-wireless-black-mla14428767) ($140.923) cuesta la mitad y usa prácticamente el mismo sensor de generación anterior, con 10 gramos más de peso. El Superlight 2 ($288.469) da el salto final en peso, sensor HERO 2 y polling de 8.000 Hz, pero a un precio que varias reseñas cuestionan. Para competitivo de máximo nivel con presupuesto disponible, el Superlight 2; para la mayoría, el G Pro Wireless rinde casi igual por menos plata." },
+      { question: "¿Realmente hace falta usar el modo de 8.000 Hz?", answer: "Para la mayoría de los usuarios, no. Un video centrado en configuración recomienda no pasar de 1.000 Hz salvo que compitas a nivel serio, porque 4.000 y 8.000 Hz sobre todo estresan más la CPU y gastan batería más rápido, sin una diferencia perceptible para el jugador promedio." },
+      { question: "¿Qué son los modos híbrido y óptico de los switches Light Force?", answer: "Se configuran desde G HUB. El modo híbrido ahorra batería porque el sensor óptico recién se activa cuando el switch físico está casi presionado. El modo 100% óptico responde más rápido, pero consume más batería. Para exprimir el rendimiento al máximo, la mayoría de las reseñas técnicas recomienda el óptico puro." },
+      { question: "¿Le falta algo frente a mouses de otras marcas?", answer: "Sí, dos cosas de software y una de diseño: no tiene ajuste de inclinación (tilt) en los clics laterales como algunos competidores, y no tiene configurador web como Razer o Wooting, así que en funciones de software queda atrás de esas marcas aunque el hardware compita de igual a igual." },
+      { question: "¿Anda bien en cualquier mousepad?", answer: "En superficies de vidrio o tela sí, sin problema. En mousepads de control o muy blandos, los skates finos hacen que el mouse se hunda levemente al apretarlo, lo que puede complicar el deslizamiento." },
     ],
     customerReviews: [
       { rating: 5, country: "Argentina", date: "enero 2026", useful: 2, text: "Vengo del G903 y la verdad que se nota la diferencia. El sensor se siente distinto al movimiento del mouse, además es muuucho más liviano por lo que tengo que reacostumbrar mi memoria muscular (tuve que cambiar la sensibilidad y todavía no le pego), de todas maneras el poco tiempo que lo vengo usando, se notan algunas precisiones en los movimientos que no podía obtener antes. La batería también dura menos, aunque va sobrado para el uso: dura unos cuantos días, debe ser una semana aproximadamente con un uso intermedio. Lo recomiendo como mouse solo si se va a usar para esports. Si lo que querés es para productividad te recomiendo por sus botones adicionales y larga autonomía el G903 o el MX Master 3S. Éste se queda corto, obvio, no está pensado para eso." },
