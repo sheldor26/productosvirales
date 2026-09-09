@@ -2339,4 +2339,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "66",
     postedAt: "2026-09-09T12:55:00-03:00",
   },
+  {
+    title: 'Smart TV TCL 32" Full HD QLED 32S5K',
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_729575-MLA108093465164_032026-O.webp",
+    affiliateUrl: "https://meli.la/2NekMgX",
+    newPrice: "294.339",
+    oldPrice: "499.999",
+    offPct: "41",
+    postedAt: "2026-09-09T13:37:00-03:00",
+  },
 ];
