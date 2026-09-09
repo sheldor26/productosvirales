@@ -9487,6 +9487,7 @@ A $56.099 con 4.9 estrellas en {{reviews:MLA11259955}} calificaciones, es la for
       "Una reseña de 2 años de uso lo describe como incómodo al tacto, con dolor de mano las primeras veces, y no lo recomienda para gaming online exigente",
       "El software a veces no reconoce el mouse tras suspender y reactivar la notebook, según una reseña",
       "Hay que encenderlo y apagarlo manualmente con un botón trasero, algo que una reseña describe como tedioso",
+      "La latencia de clic es de 27,5 ms según una comparación técnica directa contra el Redragon Cobra M711 (15 ms), un número alto para FPS competitivo",
     ],
     verdict: "A $26.500, es el mouse más barato de esta selección con respaldo real ({{reviews:MLA17743447}} calificaciones, 4.8⭐): pesas ajustables, cable mallado y RGB configurable que no todos dan a este precio. El límite honesto está en el sensor: para gaming casual y trabajo rinde bien, pero una reseña técnica avisa que con DPI bajo y movimientos rápidos pierde precisión. Para competitivo exigente, Redragon tiene modelos con sensor superior a más precio.",
     articleBody: `## El mouse más barato de la selección, con extras que sorprenden
@@ -9509,6 +9510,10 @@ La mayoría de las reseñas confirma comodidad para manos grandes ("muy cómodo 
 
 Una reseña de México reporta un problema puntual: "haciendo clic derecho e izquierdo súper rápido a veces no reconoce", algo que notó específicamente al recargar armas en Left 4 Dead 2. Otro detalle que varias reseñas mencionan: el mouse se enciende y apaga con un botón físico en la parte trasera (no automático), lo que alguna reseña describe como tedioso pero que también evita que gaste batería... aunque este modelo es con cable, así que el ahorro es de otro tipo (vida útil de LEDs y componentes).
 
+## Un dato técnico que confirma el límite del sensor
+
+Una comparación técnica directa contra el Redragon Cobra M711 (otro mouse de la misma marca) mide la latencia de clic en 27,5 ms, contra 15 ms del Cobra: un número alto para un mouse pensado para FPS competitivo, aunque irrelevante para uso casual. La misma comparación confirma el diseño ambidiestro del M601.
+
 ## Contra los Logitech de esta selección
 
 Frente al [Logitech G203 Lightsync](/producto/mouse-gamer-logitech-g203-lightsync-white-mla44849297) ($34.799), el Redragon es 24% más barato y suma pesas ajustables y RGB más completo, pero el sensor Pixart 3317 no llega al nivel del sensor Logitech en movimientos rápidos según la reseña técnica citada arriba. Frente al [Logitech G305 Lightspeed](/producto/mouse-gamer-inalambrico-logitech-g305-lightspeed-black-mla11259955) inalámbrico, la Redragon es la opción con cable y mucho más económica para quien no necesita salir del cable.
@@ -9523,6 +9528,8 @@ A $26.500 con 4.8 estrellas en {{reviews:MLA17743447}} calificaciones, es la ent
       { label: "Modelo", value: "Centrophorus2 M601-RGB" },
       { label: "Conexión", value: "Con cable USB mallado (1,8 m)" },
       { label: "Sensor", value: "Pixart 3317, hasta 7.200 DPI (según reseñas, pierde precisión con DPI bajo y movimientos muy rápidos)" },
+      { label: "Latencia de clic", value: "27,5 ms, según una comparación técnica directa contra el Redragon Cobra M711 (15 ms). Alto para un mouse pensado para FPS competitivo" },
+      { label: "Diseño", value: "Ambidiestro, confirmado en la misma comparación técnica" },
       { label: "Peso", value: "85 g de base, hasta 104 g con las 8 pesas puestas" },
       { label: "Extra", value: "Kit de 8 pesas removibles para ajustar el peso" },
       { label: "Botones", value: "6 programables (switches calculados para 10 millones de clics)" },
@@ -9538,6 +9545,8 @@ A $26.500 con 4.8 estrellas en {{reviews:MLA17743447}} calificaciones, es la ent
       { question: "¿Trae software para personalizarlo?", answer: "Sí, hay que descargarlo desde la página oficial de Redragon buscando el modelo del mouse. Permite configurar los 6 botones, los colores y efectos RGB, y hasta 7.200 DPI en distintos perfiles." },
       { question: "¿Tiene algún problema conocido?", answer: "Algunas reseñas reportan que los clics rápidos alternados (izquierdo-derecho) a veces no se reconocen bien, útil saberlo si jugás algo que requiera esa mecánica. También hay reportes de que el software a veces no reconoce el mouse después de que la notebook sale de suspensión, aunque esté conectado." },
       { question: "¿Conviene este o el Logitech G203?", answer: "El Redragon ($26.500) es más barato y suma pesas ajustables + RGB más completo. El [G203](/producto/mouse-gamer-logitech-g203-lightsync-white-mla44849297) ($34.799) tiene un sensor más consistente en movimientos rápidos según las reseñas técnicas de ambos productos. Para presupuesto ajustado y uso casual, el Redragon; para gaming más exigente, el G203." },
+      { question: "¿Sirve para zurdos?", answer: "Sí, tiene diseño ambidiestro, confirmado en una comparación técnica directa contra el Redragon Cobra M711." },
+      { question: "¿Qué tan rápido responde el clic?", answer: "27,5 ms de latencia, según una comparación técnica directa contra el Redragon Cobra M711 (que mide 15 ms). Es un número alto para FPS competitivo exigente, aunque no se nota en uso casual o gaming ocasional." },
     ],
     customerReviews: [
       { rating: 5, country: "Argentina", date: "2025", useful: 248, text: "El mouse viene en su caja con su manual y una pegatina de la marca, a mi parecer viene muy bien presentado. Tiene materiales de muy buena calidad, plásticos resistentes, es muy cómodo en la mano para aquellas personas que tienen manos grandes y además permite regular el peso, y su cable está mallado. Los 6 botones son configurables mediante el software que está bastante bien porque podés modificar las luces, intensidad/velocidad/efectos, y además regular los DPI hasta 7200 incluso en distintos perfiles. Este mouse suele compararse mucho con el Griffin, y más allá de las especificaciones de ambos creo que la decisión va por gusto personal." },
