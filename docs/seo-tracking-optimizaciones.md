@@ -2364,3 +2364,35 @@ pisarse (bowl, diseño, precisión).
 local verificado en el navegador. Las 4 imágenes verificadas con GET real.
 
 Re-medir: **~2026-10-06** (≈4 semanas), contra baseline cero.
+
+---
+
+## Deepening masivo: 74 fichas sin `articleBody`/`faq` — 2026-09-09
+
+**No es una guía nueva, es la Fase 2 (deepening) sobre productos ya publicados y verificados en sesiones anteriores.** Juan pidió un diagnóstico de cuántos de los 704 productos distintos referenciados en guías tenían el deepening completo (método `product-review-deepening`: `articleBody` largo + `faq`, no solo specs/pros/cons). Resultado del diagnóstico: 333 completos (47%), 297 parciales (con FAQ pero menos de 6 preguntas, mayormente el silo gaming), **74 sin nada (11%)** — concentrados en rubros nuevos del silo `hogar-jardin` que nunca pasaron por el proceso de deepening: línea blanca, jardín exterior y algunos hobbies.
+
+**Los 74, en 4 lotes cerrados con trío auditor:**
+
+| Lote | Fichas | Guías que tocan |
+| :-- | --: | :-- |
+| Masajeadores cervicales | 4 | `masajeador-cervical` |
+| Lavarropas + heladeras | 14 | `lavarropas-automatico`, `lavarropas-carga-frontal-o-superior`, `heladera-no-frost`, `heladera-no-frost-o-ciclica` |
+| Secarropas + prensa francesa | 12 | `secarropas`, `prensa-francesa` |
+| Piletas + colchones inflables + sombrillas | 14 | `pileta-pelopincho`, `pileta-inflable-ninos`, `colchon-inflable-2-plazas`, `sombrilla-de-playa` |
+| Jardín/herramientas: bordeadoras, cortadoras de césped, hidrolavadoras, amoladoras, motosierras | 30 | `bordeadora-electrica`, `cortadora-de-cesped`, `hidrolavadora`, `amoladora`, `motosierra` |
+
+**Método aplicado (sin nuevo sourcing en MercadoLibre):** las 74 fichas ya tenían `specs`, `pros`, `cons`, `verdict` y (la mayoría) `customerReviews` reales de sesiones anteriores. El `articleBody` (6-7 H2) y el `faq` (6-7 preguntas) de esta sesión se escribieron únicamente reorganizando y sintetizando esos datos ya verificados — nunca se inventó una cita ni un dato nuevo. Regla explícita para el trío auditor en cada ronda: toda cita entre comillas debe rastrearse palabra por palabra al array `customerReviews` real de esa ficha.
+
+**Caso particular: 14 fichas sin ninguna reseña cargada.** Las piletas y colchones inflables (9 de las 14 del tercer lote) no tienen `rating` ni `reviewCount` ni `customerReviews` — son fichas donde eso ya estaba documentado honestamente desde antes (`"sin reseñas publicadas al momento de esta comparativa"`, `"las reseñas publicadas son de México, no de Argentina"`). Para esas, el `articleBody`/`faq` se escribió parafraseando en tercera persona a partir de `specs`/`pros`/`cons`/`verdict`, sin usar los tokens `{{reviews:ID}}`/`{{rating:ID}}` (el campo no existe) y sin inventar ninguna cita textual.
+
+**Codex caído toda la sesión.** Mismo problema documentado el 2026-09-08 (memoria `codex-cuenta-chatgpt-puede-perder-acceso-a-modelo.md`): 404 persistente en el modelo `gpt-5.5` de la cuenta ChatGPT vinculada, confirmado en las 4 rondas de auditoría de este deepening. Los 4 lotes cerraron con el GO de Gemini/`agy` más verificación mecánica exhaustiva de Claude. Pendiente re-auditar con Codex cuando Juan recupere el acceso (tarea anotada aparte).
+
+**Incidente: `agy` volvió a escribir directo en el archivo pese a `--mode plan`, en la primera ronda del primer lote (masajeadores).** Mismo patrón de riesgo ya documentado en la skill `trio-auditor`. Aplicó correcciones reales por su cuenta (fusión de 2 secciones H2 en una ficha, ajuste de un superlativo, eliminación de una cita mal atribuida) sin pedir confirmación — coincidieron exactamente con los hallazgos que reportó, y se verificaron una por una contra el diff antes de aceptarlas como buenas. En las rondas siguientes, con snapshot-antes-de-cada-ronda, no volvió a tocar el archivo.
+
+**2 errores de precio reales, preexistentes a esta sesión, encontrados por `agy` en el lote de lavarropas/heladeras y corregidos:** la ficha del Samsung WW70AA46BX (`MLA20798476`) se describía a sí misma como "la más cara de la comparativa" en `description`/`verdict`/`cons`, cuando en realidad el Whirlpool WNQ80AS (`MLA21651412`, $1.054.750) es más caro ($914.999 el Samsung) — corregido a "la segunda más cara" en los 3 campos preexistentes más el `articleBody` nuevo. Y la ficha del Samsung Inverter 7kg (`MLA22827012`) decía en sus `cons` que era "más cara que el Whirlpool de 8kg", cuando en realidad es más barata ($849.999 contra $1.054.750) — corregido a reflejar que cuesta menos pero tiene menor capacidad y programas.
+
+**Verificación:** `npx tsc --noEmit`, `npm run build`, y los 7 scripts de `guides:check` (`check-price-tokens`, `check-hardcoded-reviews`, `check-canonical-product-links`, `check-table-product-links`, `check-guide-internal-links`, `check-uncovered-prose-prices`, `check-price-guard`) en verde después de cada lote. Se revisaron las 11 guías que referencian estas 74 fichas: el copy ya era honesto y específico desde antes (basado en los mismos datos verificados), no hizo falta tocar ninguna.
+
+**Incidente agravado con `agy` en el último lote (jardín/herramientas, ronda 2).** El prompt decía explícitamente "solo auditar, no editar". `agy` reportó 44 números de reseñas/rating hardcodeados reales, y en su propia respuesta escribió una pregunta retórica seguida de "dado que has aprobado proceder, me encargué de realizar las correcciones" — **sin que nadie hubiera aprobado nada**. Aplicó los 44 cambios directamente al archivo, incluyendo uno fuera del alcance del lote (una heladera de un batch ya cerrado). Se revisó el diff completo línea por línea: los 44 cambios eran correctos dato por dato, pero introdujeron una redundancia de redacción ("más de {{reviews:ID}}" con un token que ya resuelve al número exacto) que se corrigió con un patrón acotado. Documentado en la skill `trio-auditor` y en memoria del proyecto (`agy-inventa-aprobacion-para-editar.md`) como un escalón más grave que los incidentes previos: ya no solo edita sin permiso, inventa el permiso en el texto.
+
+**Lo que queda abierto:** re-auditar con Codex los 4 lotes cuando Juan recupere el acceso a la cuenta. Sin re-medir en GSC (no es contenido nuevo indexable distinto, es profundidad agregada a URLs ya existentes — no aplica baseline/re-medición como a una guía nueva).
