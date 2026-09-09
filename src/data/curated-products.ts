@@ -84758,7 +84758,7 @@ Es la opción de marca conocida de esta comparativa, y su perfil es el de una m�
     metaDescription: "Secarropas centrífugo Drean QV 6.5 de 6,5 kg con tambor de acero inoxidable. El más elegido y el más barato de la comparativa, con 4,8 estrellas.",
     verdict: "Es el secarropas con más respaldo de esta comparativa y no está cerca: **más de 4.300 opiniones**, más de seis veces y media el segundo. Y el dato que ordena toda la comparativa: **también es el más barato de los seis**. Admite **6,5 kg de ropa mojada**, la carga completa sin recorte, gira a 2.800 rpm como todos y trae **tambor de acero inoxidable**, que acá no es un diferencial porque lo traen los seis. La contra sale de sus propios compradores y es de material: **el plástico del gabinete se siente frágil**. Otro detalle práctico que repiten: hay que acomodar bien la ropa, no tirarla nomás, o vibra.",
     pros: [
-      "El más elegido de esta comparativa, con más de 4.300 opiniones",
+      "El más elegido de esta comparativa, con {{reviews:MLA15242163}} opiniones",
       "El más barato de los seis",
       "Admite 6,5 kg de ropa mojada, la carga completa",
       "Tambor de acero inoxidable y 2.800 rpm",
@@ -84777,9 +84777,9 @@ Es la opción de marca conocida de esta comparativa, y su perfil es el de una m�
     ],
     articleBody: `## Qué es el Drean QV 6.5
 
-Es el secarropas centrífugo con más respaldo de nuestra comparativa de secarropas en Argentina, y también el más barato de los seis. Cuesta {{precio:MLA15242163}} y tiene {{reviews:MLA15242163}} calificaciones con {{rating:MLA15242163}} estrellas en MercadoLibre Argentina.
+Es el secarropas centrífugo con más respaldo de [nuestra comparativa de secarropas en Argentina](/guias/hogar/secarropas), y también el más barato de los seis. Cuesta {{precio:MLA15242163}} y tiene {{reviews:MLA15242163}} calificaciones con {{rating:MLA15242163}} estrellas en MercadoLibre Argentina.
 
-## Más de 4.300 opiniones: el más elegido, y no está cerca
+## El respaldo más grande del grupo: el más elegido, y no está cerca
 
 Con {{reviews:MLA15242163}} calificaciones tiene más de seis veces y media el respaldo del segundo de esta comparativa. Y es, al mismo tiempo, el más barato de los seis: un dato que ordena toda la comparativa.
 
@@ -84801,9 +84801,9 @@ Es para vos si buscás la opción más barata con más respaldo de reseñas de e
 
 ## El veredicto
 
-Es el secarropas con más respaldo de esta comparativa y no está cerca: más de 4.300 opiniones, y también el más barato de los seis. Admite la carga completa de 6,5 kg. La contra sale de sus propios compradores y es de material: el plástico del gabinete se siente frágil, y hay que acomodar bien la ropa o vibra.`,
+Es el secarropas con más respaldo de esta comparativa y no está cerca: {{reviews:MLA15242163}} opiniones, y también el más barato de los seis. Admite la carga completa de 6,5 kg. La contra sale de sus propios compradores y es de material: el plástico del gabinete se siente frágil, y hay que acomodar bien la ropa o vibra.`,
     faq: [
-      { question: "¿Por qué es el más elegido de la comparativa?", answer: "Tiene más de 4.300 calificaciones, más de seis veces y media el respaldo del segundo modelo más reseñado de esta comparativa, y además es el más barato de los seis." },
+      { question: "¿Por qué es el más elegido de la comparativa?", answer: "Tiene {{reviews:MLA15242163}} calificaciones, más de seis veces y media el respaldo del segundo modelo más reseñado de esta comparativa, y además es el más barato de los seis." },
       { question: "¿El gabinete es resistente?", answer: "Los propios compradores lo describen como frágil: es de plástico y se nota. No es una falla puntual, es una característica del material del gabinete." },
       { question: "¿Hay que acomodar la ropa de una forma específica?", answer: "Sí, según los compradores hay que acomodarla bien y no tirarla así nomás, salvo que sea poca cantidad de ropa chica. Si no se acomoda bien, vibra." },
       { question: "¿Cuánta ropa mojada admite?", answer: "6,5 kg, la carga completa sin recorte respecto de lo que declara el título de la publicación." },
@@ -84845,20 +84845,20 @@ Es el secarropas con más respaldo de esta comparativa y no está cerca: más de
     relatedProducts: ["MLA15242163", "MLA6057865", "MLA15309218"],
     priceUpdated: "2026-09-09", priceLastChecked: "2026-08-17", priceVerifiedAt: "2026-08-17",
     priceStatus: "fresh", reviewsSampledAt: "2026-08-17",
-    description: "Secarropas de 6,5 kg con tambor de acero inoxidable y 8,7 kg de peso, el más liviano de los que lo declaran. El segundo más barato de esta comparativa.",
+    description: "Secarropas de 6,5 kg con tambor de acero inoxidable y 8,7 kg de peso, el más liviano de los que lo declaran. Es, sin embargo, el más caro de esta comparativa.",
     seoTitle: "Patrick CPK06B: 6,5 kg y 8,7 kg de peso",
-    metaDescription: "Secarropas centrífugo Patrick CPK06B de 6,5 kg, tambor de acero inoxidable y 320 W. Segundo más barato de la comparativa, con pocas opiniones aún.",
-    verdict: "En ficha técnica es prácticamente **el gemelo del Drean**: mismos 6,5 kg de carga, misma capacidad de ropa mojada, mismos 320 W, mismas 2.800 rpm, mismo tambor de acero y casi la misma altura. Con **8,7 kg es el más liviano de los cinco que declaran peso**, algo que importa si lo vas a mover o guardar. Y es el **segundo más barato** de los seis. La diferencia real está en el respaldo, y hay que decirla: con **{{reviews:MLA20731655}} opiniones tiene la base más chica de esta comparativa**, contra las más de 4.300 del Drean, que encima sale menos. Las opiniones que tiene son buenas pero cortas, del tipo \"cumple\", sin detalle de uso prolongado.",
+    metaDescription: "Secarropas centrífugo Patrick CPK06B de 6,5 kg, tambor de acero inoxidable y 320 W. El más caro de la comparativa pese a ser casi idéntico en ficha al Drean, con pocas opiniones aún.",
+    verdict: "En ficha técnica es prácticamente **el gemelo del Drean**: mismos 6,5 kg de carga, misma capacidad de ropa mojada, mismos 320 W, mismas 2.800 rpm, mismo tambor de acero y casi la misma altura. Con **8,7 kg es el más liviano de los cinco que declaran peso**, algo que importa si lo vas a mover o guardar. Y sin embargo es **el más caro de los seis**. La diferencia real está en el respaldo, y hay que decirla: con **{{reviews:MLA20731655}} opiniones tiene la base más chica de esta comparativa**, contra las {{reviews:MLA15242163}} del Drean, que encima sale menos. Las opiniones que tiene son buenas pero breves, sin detalle de uso prolongado.",
     pros: [
       "6,5 kg de ropa mojada, la carga completa",
       "8,7 kg, el más liviano de los cinco que declaran peso",
-      "El segundo más barato de esta comparativa",
       "Tambor de acero inoxidable y 2.800 rpm",
+      "Ensamblado en Argentina, según declara su ficha",
     ],
     cons: [
+      "El más caro de esta comparativa, pese a ser casi idéntico en ficha al Drean",
       "La base de opiniones más chica de esta comparativa",
       "Las reseñas son breves y no reportan uso prolongado",
-      "Sale más caro que el Drean, que tiene mucho más respaldo",
     ],
     customerReviews: [
       { rating: 5, country: "Argentina", text: "Conforme con el secarropas centrífugo, bien." },
@@ -84867,11 +84867,11 @@ Es el secarropas con más respaldo de esta comparativa y no está cerca: más de
     ],
     articleBody: `## Qué es el Patrick CPK06B
 
-Es prácticamente el gemelo en ficha técnica del secarropas más elegido de nuestra comparativa en Argentina. Cuesta {{precio:MLA20731655}} y tiene {{reviews:MLA20731655}} calificaciones con {{rating:MLA20731655}} estrellas en MercadoLibre Argentina.
+Es prácticamente el gemelo en ficha técnica del secarropas más elegido de [nuestra comparativa de secarropas en Argentina](/guias/hogar/secarropas), pero es el más caro del grupo. Cuesta {{precio:MLA20731655}} y tiene {{reviews:MLA20731655}} calificaciones con {{rating:MLA20731655}} estrellas en MercadoLibre Argentina.
 
 ## Casi el gemelo del Drean, en ficha técnica
 
-Mismos 6,5 kg de carga, misma capacidad de ropa mojada, mismos 320 W, mismas 2.800 rpm, mismo tambor de acero y casi la misma altura que el Drean QV 6.5 de esta comparativa. Es el segundo más barato de los seis.
+Mismos 6,5 kg de carga, misma capacidad de ropa mojada, mismos 320 W, mismas 2.800 rpm, mismo tambor de acero y casi la misma altura que el [Drean QV 6.5](/producto/secarropas-centrifugo-drean-qv-6-5-6-5-kg-de-carga-y-tambor-de-acero-inoxidable-mla15242163) de esta comparativa. Pese a esa similitud casi total en ficha técnica, es el más caro de los seis.
 
 ## El más liviano de los que declaran peso
 
@@ -84879,25 +84879,25 @@ Con 8,7 kg es el más liviano de los cinco secarropas de esta comparativa que de
 
 ## Lo honesto: la base de reseñas más chica del grupo
 
-Esta es la advertencia antes de comprar. Con {{reviews:MLA20731655}} opiniones tiene la base más chica de esta comparativa, contra las más de 4.300 del Drean, que además sale menos. Las reseñas que tiene son buenas pero cortas, del tipo "cumple", sin detalle de uso prolongado.
+Esta es la advertencia antes de comprar. Con {{reviews:MLA20731655}} opiniones tiene la base más chica de esta comparativa, contra las {{reviews:MLA15242163}} del Drean, que además sale menos. Las reseñas que tiene son positivas pero breves, sin detalle de uso prolongado.
 
-## Sale más caro que el Drean, que tiene mucho más respaldo
+## Es el más caro de los seis, pese a ser casi idéntico al Drean
 
-Este es el dato que hay que sopesar: pese a ser prácticamente idéntico en ficha técnica al Drean, cuesta más y tiene mucho menos historial de reseñas.
+Este es el dato que hay que sopesar, y conviene decirlo de frente: pese a ser prácticamente idéntico en ficha técnica al Drean, es el más caro de esta comparativa, y encima tiene mucho menos historial de reseñas.
 
 ## Para quién es, y para quién no
 
-Es para vos si preferís el modelo más liviano del grupo, aunque tenga menos reseñas acumuladas. No es para vos si el respaldo de opiniones es tu prioridad al elegir: para eso, el Drean de esta misma comparativa es prácticamente idéntico en specs, más barato y con mucho más historial.
+Es para vos si preferís el modelo más liviano del grupo y no te importa pagar de más por eso. No es para vos si el precio o el respaldo de opiniones son tu prioridad al elegir: para eso, el Drean de esta misma comparativa es prácticamente idéntico en specs, el más barato del grupo y con mucho más historial.
 
 ## El veredicto
 
-En ficha técnica es prácticamente el gemelo del Drean: mismos 6,5 kg, mismos 320 W, mismas 2.800 rpm. Con 8,7 kg es el más liviano de los que declaran peso. La diferencia real está en el respaldo: tiene la base más chica de esta comparativa, y encima sale más caro que el Drean.`,
+En ficha técnica es prácticamente el gemelo del Drean: mismos 6,5 kg, mismos 320 W, mismas 2.800 rpm. Con 8,7 kg es el más liviano de los que declaran peso. La diferencia real está en el precio y el respaldo: es el más caro de esta comparativa, y tiene la base de reseñas más chica del grupo.`,
     faq: [
-      { question: "¿En qué se diferencia del Drean QV 6.5?", answer: "En ficha técnica son prácticamente idénticos: misma carga, misma potencia, mismas revoluciones y mismo tambor. La diferencia real está en el respaldo de reseñas (mucho más chico acá) y en que este sale más caro." },
+      { question: "¿En qué se diferencia del Drean QV 6.5?", answer: "En ficha técnica son prácticamente idénticos: misma carga, misma potencia, mismas revoluciones y mismo tambor. La diferencia real está en que este es el más caro de los seis y tiene mucho menos respaldo de reseñas." },
       { question: "¿Es liviano?", answer: "Sí, con 8,7 kg es el más liviano de los cinco secarropas de esta comparativa que declaran peso." },
       { question: "¿Tiene suficientes reseñas para confiar?", answer: "Es la base más chica de esta comparativa. Las reseñas que tiene son positivas pero breves, sin mucho detalle de uso prolongado." },
       { question: "¿Cuánta ropa mojada admite?", answer: "6,5 kg, la carga completa sin recorte respecto de lo que declara el título de la publicación." },
-      { question: "¿Vale la pena pagar más que por el Drean?", answer: "No hay una razón técnica clara: son casi idénticos en ficha técnica. El Drean de esta misma comparativa sale menos y tiene mucho más respaldo de opiniones." },
+      { question: "¿Por qué es el más caro si es casi idéntico al Drean?", answer: "No hay una razón técnica clara: son casi idénticos en ficha técnica. El Drean de esta misma comparativa sale menos y tiene mucho más respaldo de opiniones, así que en igualdad de specs conviene esa opción." },
       { question: "¿Es una marca conocida?", answer: "Patrick es una marca de electrodomésticos argentina. Su respaldo de reseñas en esta comparativa todavía es chico comparado con Drean o Koh-i-noor." },
     ],
   },
@@ -84949,7 +84949,7 @@ En ficha técnica es prácticamente el gemelo del Drean: mismos 6,5 kg, mismos 3
     cons: [
       "5,5 kg de carga, menos que los cuatro de 6,5 kg",
       "Su ficha de MercadoLibre no publica el peso del equipo",
-      "Sale más caro que dos modelos de 6,5 kg",
+      "Sale más caro que el Drean, aunque más barato que los otros cuatro modelos de 6,5 kg",
     ],
     customerReviews: [
       { rating: 5, country: "Argentina", text: "Lo compré en el 2020, ya van a ser 2 años y aún funciona de maravilla. Recomendable." },
@@ -84958,11 +84958,11 @@ En ficha técnica es prácticamente el gemelo del Drean: mismos 6,5 kg, mismos 3
     ],
     articleBody: `## Qué es el Koh-i-noor B-655
 
-Es el secarropas mejor puntuado de nuestra comparativa de secarropas en Argentina, y el único de carga frontal del grupo. Cuesta {{precio:MLA6057865}} y tiene {{reviews:MLA6057865}} calificaciones con {{rating:MLA6057865}} estrellas en MercadoLibre Argentina.
+Es el secarropas mejor puntuado de [nuestra comparativa de secarropas en Argentina](/guias/hogar/secarropas), y el único de carga frontal del grupo. Cuesta {{precio:MLA6057865}} y tiene {{reviews:MLA6057865}} calificaciones con {{rating:MLA6057865}} estrellas en MercadoLibre Argentina.
 
 ## El mejor puntuado, y el único de carga frontal
 
-Tiene dos cosas que no comparte con ningún otro de esta comparativa: es el único que llega a {{rating:MLA6057865}} estrellas, cuando el resto se queda en 4,8, y es el único de carga frontal (todos los demás cargan por arriba). Eso cambia el gesto de uso y puede convenir según dónde lo pongas.
+Tiene dos cosas que no comparte con ningún otro de esta comparativa: es el único que llega a {{rating:MLA6057865}} estrellas, la nota más alta de esta comparativa, y es el único de carga frontal (todos los demás cargan por arriba). Eso cambia el gesto de uso y puede convenir según dónde lo pongas.
 
 ## Reseñas que hablan de durabilidad real
 
@@ -84974,7 +84974,7 @@ Con 63,5 cm empata como el más bajo de los seis secarropas de esta comparativa,
 
 ## La contra real: menos capacidad, y sin dato de peso
 
-Esta es la advertencia honesta antes de comprar. Admite 5,5 kg de carga, menos que los 6,5 kg de cuatro modelos de esta misma comparativa, y su ficha de MercadoLibre no publica el peso del equipo. Además, sale más caro que dos modelos de 6,5 kg del grupo.
+Esta es la advertencia honesta antes de comprar. Admite 5,5 kg de carga, menos que los 6,5 kg de cuatro modelos de esta misma comparativa, y su ficha de MercadoLibre no publica el peso del equipo. Además, sale más caro que el Drean de 6,5 kg de esta misma comparativa, aunque es más barato que los otros cuatro.
 
 ## Para quién es, y para quién no
 
@@ -84988,7 +84988,7 @@ Tiene dos cosas que no comparte con ninguno del grupo: es el mejor puntuado y el
       { question: "¿Es duradero?", answer: "Las reseñas de este modelo son las que más hablan de durabilidad de la comparativa: un comprador lo tiene desde 2020 y sigue funcionando, otro cuenta que hace 45 años que no deja de tener uno de la marca." },
       { question: "¿Cuánta ropa mojada admite?", answer: "5,5 kg, menos que los 6,5 kg de cuatro modelos de esta comparativa. Es la principal contra a tener en cuenta antes de comprarlo." },
       { question: "¿Cuánto pesa el equipo?", answer: "Su ficha de MercadoLibre no publica ese dato." },
-      { question: "¿Es el mejor calificado de la comparativa?", answer: "Sí, es el único que llega a 4,9 estrellas; el resto de los secarropas de esta comparativa se queda en 4,8." },
+      { question: "¿Es el mejor calificado de la comparativa?", answer: "Sí, es el único que llega a {{rating:MLA6057865}} estrellas, la nota más alta de esta comparativa." },
       { question: "¿Vale la pena pagar más que por el Drean de 6,5 kg?", answer: "Solo si priorizás la carga frontal o la nota más alta del grupo. Si buscás mayor capacidad al mejor precio, el Drean de esta misma comparativa rinde más." },
     ],
   },
@@ -85031,7 +85031,7 @@ Tiene dos cosas que no comparte con ninguno del grupo: es el mejor puntuado y el
     description: "Secarropas de 6,5 kg de la línea Visión, con 71,2 cm el más alto de esta comparativa. Tambor de acero inoxidable y traba de seguridad.",
     seoTitle: "Koh-i-noor Visión C-765: 6,5 kg y 71 cm de alto",
     metaDescription: "Secarropas centrífugo Koh-i-noor Visión C-765 de 6,5 kg. El más alto de la comparativa con 71,2 cm, así que conviene medir antes de comprarlo.",
-    verdict: "Es la versión de 6,5 kg de la línea Visión y admite **la carga completa de ropa mojada**, sin el recorte que declara el modelo más caro del grupo. Con **{{reviews:MLA15309218}} opiniones** tiene un respaldo intermedio, y los compradores repiten la misma idea sobre la marca, que es garantía conocida. El dato práctico que conviene mirar antes de comprarlo: con **71,2 cm es el más alto de los seis**, casi ocho centímetros más que los más bajos, así que si lo vas a meter bajo una mesada o en un mueble hay que medir. Su ficha, además, **no publica la potencia**, así que ese número no lo damos por bueno.",
+    verdict: "Es la versión de 6,5 kg de la línea Visión y admite **la carga completa de ropa mojada**, sin el recorte que declara el modelo de acero inoxidable a la vista del grupo (el A-655). Con **{{reviews:MLA15309218}} opiniones** tiene un respaldo intermedio, y los compradores repiten la misma idea sobre la marca, que es garantía conocida. El dato práctico que conviene mirar antes de comprarlo: con **71,2 cm es el más alto de los seis**, casi ocho centímetros más que los más bajos, así que si lo vas a meter bajo una mesada o en un mueble hay que medir. Su ficha, además, **no publica la potencia**, así que ese número no lo damos por bueno.",
     pros: [
       "6,5 kg de ropa mojada, la carga completa",
       "Tambor de acero inoxidable y 2.800 rpm",
@@ -85041,7 +85041,7 @@ Tiene dos cosas que no comparte con ninguno del grupo: es el mejor puntuado y el
     cons: [
       "Con 71,2 cm es el más alto de los seis, hay que medir el espacio",
       "Su ficha de MercadoLibre no publica la potencia",
-      "Sale más caro que dos modelos con la misma carga",
+      "Sale más caro que el Drean, el único con la misma carga que cuesta menos",
     ],
     customerReviews: [
       { rating: 5, country: "Argentina", text: "Koh-i-noor es garantía de calidad. Lo estoy probando desde hace 2 semanas y va excelente, encima me lo entregaron antes de tiempo." },
@@ -85050,7 +85050,7 @@ Tiene dos cosas que no comparte con ninguno del grupo: es el mejor puntuado y el
     ],
     articleBody: `## Qué es el Koh-i-noor Visión C-765
 
-Es el secarropas más alto de nuestra comparativa de secarropas en Argentina, de la línea Visión. Cuesta {{precio:MLA15309218}} y tiene {{reviews:MLA15309218}} calificaciones con {{rating:MLA15309218}} estrellas en MercadoLibre Argentina.
+Es el secarropas más alto de [nuestra comparativa de secarropas en Argentina](/guias/hogar/secarropas), de la línea Visión. Cuesta {{precio:MLA15309218}} y tiene {{reviews:MLA15309218}} calificaciones con {{rating:MLA15309218}} estrellas en MercadoLibre Argentina.
 
 ## 6,5 kg de carga completa, sin recorte
 
@@ -85141,7 +85141,7 @@ Es la versión de 6,5 kg de la línea Visión con la carga completa de ropa moja
     ],
     articleBody: `## Qué es el Koh-i-noor B-665
 
-Es el secarropas más pesado de nuestra comparativa de secarropas en Argentina, de la línea Clásico. Cuesta {{precio:MLA6175442}} y tiene {{reviews:MLA6175442}} calificaciones con {{rating:MLA6175442}} estrellas en MercadoLibre Argentina.
+Es el secarropas más pesado de [nuestra comparativa de secarropas en Argentina](/guias/hogar/secarropas), de la línea Clásico. Cuesta {{precio:MLA6175442}} y tiene {{reviews:MLA6175442}} calificaciones con {{rating:MLA6175442}} estrellas en MercadoLibre Argentina.
 
 ## Cumple con lo esperado: carga completa y eficiencia A
 
@@ -85212,10 +85212,10 @@ Es la versión de 6,5 kg de la línea Clásico, cumple con lo esperado: carga co
     relatedProducts: ["MLA15242163", "MLA6057865", "MLA6175442"],
     priceUpdated: "2026-09-09", priceLastChecked: "2026-08-17", priceVerifiedAt: "2026-08-17",
     priceStatus: "fresh", reviewsSampledAt: "2026-08-17",
-    description: "El más caro de esta comparativa y el único con terminación en acero inoxidable a la vista. Ojo con un dato: declara 4 kg de ropa mojada, la capacidad más baja de los seis.",
+    description: "El único con terminación en acero inoxidable a la vista de esta comparativa. Ojo con un dato: declara 4 kg de ropa mojada, la capacidad más baja de los seis.",
     seoTitle: "Koh-i-noor A-655: acero a la vista y 4 kg de ropa mojada",
-    metaDescription: "Secarropas Koh-i-noor A-655 de la línea Acero Inoxidable. El más caro de la comparativa, y su ficha declara 4 kg de ropa mojada, la capacidad más baja.",
-    verdict: "Es **el más caro de esta comparativa** y el único con **terminación en acero inoxidable a la vista**, no blanco como los otros cinco. Tiene el segundo respaldo más grande del grupo con **{{reviews:MLA6143871}} opiniones**, y son de las más afectuosas que vas a leer en MercadoLibre: gente que lo compara con el que tuvo su mamá durante treinta años. Ahora el dato que hay que decir fuerte porque cambia la decisión: **su ficha declara 4 kg de capacidad de ropa mojada**, la más baja de los seis, contra los 6,5 kg de cuatro de sus competidores. Un secarropas se usa justamente para ropa mojada. Y sale **bastante más que el Drean**, que admite 6,5 kg. La otra contra la ponen los compradores: **el recipiente de agua que trae se llena rápido** y conviene poner otro debajo.",
+    metaDescription: "Secarropas Koh-i-noor A-655 de la línea Acero Inoxidable. Su ficha declara 4 kg de ropa mojada, la capacidad más baja de la comparativa.",
+    verdict: "Es el único con **terminación en acero inoxidable a la vista** de esta comparativa, no blanco como los otros cinco. Tiene el segundo respaldo más grande del grupo con **{{reviews:MLA6143871}} opiniones**, y son de las más afectuosas que vas a leer en MercadoLibre: gente que lo compara con el que tuvo su mamá durante treinta años. Ahora el dato que hay que decir fuerte porque cambia la decisión: **su ficha declara 4 kg de capacidad de ropa mojada**, la más baja de los seis, contra los 6,5 kg de cuatro de sus competidores. Un secarropas se usa justamente para ropa mojada. Y sale **bastante más que el Drean**, que admite 6,5 kg. La otra contra la ponen los compradores: **el recipiente de agua que trae se llena rápido** y conviene poner otro debajo.",
     pros: [
       "Terminación en acero inoxidable a la vista, el único del grupo",
       "El segundo respaldo más grande de esta comparativa",
@@ -85224,7 +85224,7 @@ Es la versión de 6,5 kg de la línea Clásico, cumple con lo esperado: carga co
     ],
     cons: [
       "Declara 4 kg de ropa mojada, la capacidad más baja de los seis",
-      "El más caro de esta comparativa",
+      "De las más caras de esta comparativa, aunque no la más cara",
       "El recipiente de agua se llena rápido, según los compradores",
     ],
     customerReviews: [
@@ -85234,11 +85234,11 @@ Es la versión de 6,5 kg de la línea Clásico, cumple con lo esperado: carga co
     ],
     articleBody: `## Qué es el Koh-i-noor A-655
 
-Es el secarropas más caro de nuestra comparativa de secarropas en Argentina, y el único con terminación en acero inoxidable a la vista. Cuesta {{precio:MLA6143871}} y tiene {{reviews:MLA6143871}} calificaciones con {{rating:MLA6143871}} estrellas en MercadoLibre Argentina.
+Es el único secarropas con terminación en acero inoxidable a la vista de [nuestra comparativa de secarropas en Argentina](/guias/hogar/secarropas). Cuesta {{precio:MLA6143871}} y tiene {{reviews:MLA6143871}} calificaciones con {{rating:MLA6143871}} estrellas en MercadoLibre Argentina.
 
 ## El único con terminación en acero a la vista
 
-Es el más caro de esta comparativa y el único con terminación en acero inoxidable a la vista, no blanco como los otros cinco. Tiene el segundo respaldo más grande del grupo, con {{reviews:MLA6143871}} opiniones.
+Es el único con terminación en acero inoxidable a la vista de esta comparativa, no blanco como los otros cinco. Tiene el segundo respaldo más grande del grupo, con {{reviews:MLA6143871}} opiniones.
 
 ## Reseñas afectuosas, de generación en generación
 
@@ -85258,10 +85258,10 @@ Es para vos si valorás la terminación en acero a la vista y no te importa la m
 
 ## El veredicto
 
-Es el más caro de esta comparativa y el único con terminación en acero inoxidable a la vista, con reseñas afectuosas de larga data. El dato que cambia la decisión: declara 4 kg de capacidad de ropa mojada, la más baja de los seis, contra los 6,5 kg de cuatro competidores del grupo.`,
+Es el único con terminación en acero inoxidable a la vista de esta comparativa, con reseñas afectuosas de larga data. El dato que cambia la decisión: declara 4 kg de capacidad de ropa mojada, la más baja de los seis, contra los 6,5 kg de cuatro competidores del grupo.`,
     faq: [
       { question: "¿Cuánta ropa mojada admite realmente?", answer: "Su ficha declara 4 kg, la capacidad más baja de los seis secarropas de esta comparativa. Es el dato más importante a considerar antes de comprarlo, porque para eso se usa justamente un secarropas." },
-      { question: "¿Por qué es el más caro del grupo?", answer: "Por la terminación en acero inoxidable a la vista, que ningún otro modelo de esta comparativa tiene, aunque su capacidad de carga sea la más baja del grupo." },
+      { question: "¿Es el más caro de la comparativa?", answer: "No, es de las más caras pero no la más cara: el Patrick CPK06B y las dos Koh-i-noor de 6,5 kg cuestan más. Lo que sí es único es su terminación en acero inoxidable a la vista." },
       { question: "¿El recipiente de agua da problemas?", answer: "Se llena rápido según los compradores, que recomiendan poner otro recipiente debajo mientras funciona para no tener que vaciarlo tan seguido." },
       { question: "¿Es un modelo durable?", answer: "Las reseñas de este modelo destacan la confianza de largo plazo en la marca: una compradora eligió este modelo porque su mamá tiene el suyo hace más de 30 años." },
       { question: "¿Vale la pena pagar más por la terminación en acero?", answer: "Depende de tu prioridad: si valorás la estética y no te importa la menor capacidad, sí. Si necesitás cargar más ropa por vez, otros modelos de 6,5 kg de esta comparativa rinden más por menos precio." },
