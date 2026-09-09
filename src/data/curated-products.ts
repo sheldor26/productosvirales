@@ -8330,6 +8330,8 @@ A $554.413 con 4.7 estrellas, es el salto premium correcto dentro del catálogo,
       "No siempre trae cable HDMI en la caja (solo DisplayPort), y para aprovechar los 180 Hz hay que usar sí o sí DisplayPort: por HDMI queda en 100-120 Hz según la reseña",
       "Sin parlantes integrados, según confirman varias reseñas",
       "No recomendado para shooters competitivos como CS, avisa una reseña argentina que sí lo recomienda para sim racing y trabajo",
+      "Ninguna consola soporta 21:9 de forma nativa (ni PS5 ni Xbox Series): la imagen queda con barras negras a los costados, dentro de un recuadro 16:9. Tampoco todos los juegos de PC aprovechan el ancho completo, solo los pensados para ultrawide (sobre todo mundo abierto)",
+      "El texto se difumina un poco al hacer scroll rápido, típico del tiempo de respuesta de un panel VA, según una reseña detallada: para lectura normal (sin scrollear) no es un problema",
     ],
     verdict: "A $629.999 (18% off), es el ultrawide más agresivo en precio de la selección: 3440x1440 a 180 Hz reales, con el pie más completo (altura, inclinación y giro) y el mejor respaldo de compradores del formato. La corrección honesta más importante: la publicación dice IPS y es VA, confirmado por el fabricante y por reseñas de varios países. Para shooters muy competitivos, mejor bajar a 120 Hz.",
     articleBody: `## El ultrawide más agresivo en precio
@@ -8352,6 +8354,10 @@ Una reseña de Colombia (87 votos útiles) resolvió un problema de parpadeo int
 
 Una reseña argentina lo resume bien: "el pie que tiene es cómodo, ya que al ser plano se pueden poner cosas sobre este y no te 'roba' espacio en el escritorio. Las regulaciones son muy buenas, ya que cuenta con inclinación hacia arriba y abajo y a los costados, como también con la elevación que es bastante generosa". La misma reseña lo usa para trabajo y sim racing, pero aclara un límite honesto: "no recomiendo para shooters como CS", coincidiendo con la advertencia del ghosting a 180 Hz completos.
 
+## Un dato clave si pensás usarlo con consola
+
+Ni PS5 ni Xbox Series soportan el formato 21:9 de forma nativa: la imagen sale con barras negras a los costados, dentro de un recuadro 16:9 centrado en la pantalla. No es un defecto de este monitor puntual, es una limitación de las consolas actuales frente a cualquier ultrawide. Tampoco todos los juegos de PC aprovechan el ancho completo: solo los que están pensados específicamente para 21:9 (sobre todo títulos de mundo abierto) usan la pantalla entera; el resto corre con barras negras o, si forzás la relación de aspecto, con una distorsión notoria. Si tu plan es jugar principalmente en consola, este formato no te va a dar la inmersión que promete.
+
 ## Contra el Gigabyte GS34WQC y el Samsung G5 27 QHD
 
 Dentro del mismo formato ultrawide, el [Gigabyte GS34WQC](/producto/monitor-gamer-gigabyte-gs34wqc-34-curvo-uwqhd-mla28853185) ($919.599) es la alternativa de marca gamer especializada: mismo tamaño y resolución, pero con 120 Hz (135 con overclock) en vez de 180, a un precio bastante más alto. El Xiaomi gana en Hz y precio; el Gigabyte, en respaldo de marca dedicada a gaming. Frente al [Samsung Odyssey G5 27" QHD](/producto/monitor-samsung-odyssey-g5-27-curvo-1000r-qhd-165hz-mla43960827) ($554.413), la elección es de formato: pantalla más chica y curva más cerrada versus panorámica de 34" con más espacio de trabajo.
@@ -8373,6 +8379,7 @@ A $629.999 con 4.8 estrellas en {{reviews:MLA43960787}} calificaciones, es la pu
       { label: "Sincronización", value: "AMD FreeSync Premium" },
       { label: "Puertos", value: "2x DisplayPort + 2x HDMI. No todas las unidades traen cable HDMI en la caja" },
       { label: "Ergonomía", value: "Altura regulable (120 mm), inclinación y giro, VESA 75x75" },
+      { label: "Compatibilidad con consolas", value: "Ni PS5 ni Xbox Series soportan 21:9 nativo: la imagen sale con barras negras a los costados, dentro de un recuadro 16:9. No es exclusivo de este monitor, es limitación de las consolas actuales frente a cualquier ultrawide" },
       { label: "Audio", value: "Sin parlantes integrados" },
       { label: "Color (gabinete)", value: "Negro, con iluminación ambiental (Ambilight) en la parte trasera" },
     ],
@@ -8385,6 +8392,8 @@ A $629.999 con 4.8 estrellas en {{reviews:MLA43960787}} calificaciones, es la pu
       { question: "¿Tiene parlantes?", answer: "No, no trae parlantes integrados, según confirman varias reseñas. Hay que sumar parlantes externos o auriculares." },
       { question: "¿Sirve para trabajar con varias ventanas?", answer: "Es uno de sus puntos más fuertes: varias reseñas lo usan específicamente para eso, con 3 o 4 ventanas abiertas a la vez, o como reemplazo de un setup de dos monitores." },
       { question: "¿Conviene este o el Gigabyte GS34WQC?", answer: "Mismo tamaño y resolución, pero distinta propuesta: el Xiaomi ($629.999) da más Hz (180 vs 120, 135 con overclock) a menor precio. El Gigabyte ($919.599) es de una marca gamer especializada, con la mejor valoración de los ultrawide de esta selección. Para Hz y precio, el Xiaomi; para respaldo de marca dedicada, el Gigabyte." },
+      { question: "¿Sirve para jugar en PS5 o Xbox Series?", answer: "Andá con cuidado con las expectativas: ninguna consola soporta 21:9 de forma nativa. La imagen sale con barras negras a los costados, dentro de un recuadro 16:9 centrado, igual que pasaría con cualquier otro monitor ultrawide. No es un defecto de este modelo, es una limitación general de las consolas actuales." },
+      { question: "¿Todos los juegos de PC aprovechan el ancho completo?", answer: "No, solo los que están pensados específicamente para 21:9, sobre todo títulos de mundo abierto. El resto corre con barras negras a los costados o, si forzás la relación de aspecto, con una distorsión notoria de la imagen." },
     ],
     customerReviews: [
       { rating: 4, country: "Argentina", date: "diciembre 2025", useful: 5, text: "Muy satisfecho, solo tengan en cuenta que no es IPS la pantalla." },
