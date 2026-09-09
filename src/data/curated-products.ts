@@ -20851,6 +20851,7 @@ A $455.998, el TCL 43S5K es una compra sólida si entrás sabiendo qué te llev�
   {
     id: "MLA61403702",
     title: "Consola PS5 Digital + Astro Bot + Gran Turismo 7",
+    canonicalName: "PlayStation 5 Digital Edition",
     brand: "PlayStation",
     price: 1499999,
     priceUpdated: "2026-09-09",
@@ -20873,6 +20874,106 @@ A $455.998, el TCL 43S5K es una compra sólida si entrás sabiendo qué te llev�
     reviewCount: 12445,
     pastelColor: "var(--pastel-purple)",
     visibility: "normal",
+    specs: [
+      { label: "Tipo", value: "Consola de videojuegos, edición Digital (sin lector de discos)" },
+      { label: "Modelo", value: "PS5 Slim Digital Edition (CFI-2015 series)" },
+      { label: "Almacenamiento", value: "SSD 1 TB (una parte queda reservada para el sistema)" },
+      { label: "Procesador", value: "AMD Zen 2, 8 núcleos, hasta 3.5 GHz" },
+      { label: "Gráficos", value: "AMD RDNA 2, hasta 10.3 TFLOPS" },
+      { label: "Resolución máxima", value: "4K a 120 Hz, con HDR (según juego y TV compatibles)" },
+      { label: "Peso", value: "2,6 kg aprox. (edición Slim, más liviana que la PS5 original)" },
+      { label: "Conectividad", value: "HDMI, Ethernet, Wi-Fi, 2 puertos USB-C (uno de 10 Gbps)" },
+      { label: "Control incluido", value: "DualSense inalámbrico blanco, con gatillos adaptativos y respuesta háptica" },
+      { label: "Juegos incluidos", value: "Astro Bot preinstalado + código de descarga de Gran Turismo 7 (vencen 31/03/2036)" },
+      { label: "Soporte", value: "2 pies para uso horizontal incluidos; el soporte vertical se vende aparte" },
+      { label: "Requiere", value: "Cuenta de PlayStation Network e internet para canjear los juegos; PS Plus pago para multijugador online" },
+    ],
+    relatedProducts: ["MLA18010994", "MLA74108173"],
+    reviewsSampledAt: "2026-09-09",
+    description: "Consola PS5 Digital Edition (Slim) con Astro Bot preinstalado y Gran Turismo 7 de regalo. 4.9 estrellas en más de 12.000 calificaciones. Sin lector de discos: todo se juega digital.",
+    seoTitle: "PS5 Digital + Astro Bot + GT7: ¿conviene este bundle?",
+    metaDescription: "PS5 Digital Edition con Astro Bot y Gran Turismo 7 incluidos. 1TB, 4K a 120Hz, control DualSense. La contra real de la edición sin lector de discos.",
+    verdict: "Sirve si ya decidiste que vas a jugar todo en digital (nada de discos, ni de PS5 ni viejos de PS4) y querés arrancar con dos juegos de peso sin pagarlos aparte: Astro Bot y Gran Turismo 7 ya vienen sumados al precio de la consola sola. No sirve si tenés una colección de discos de PS4 que querés seguir usando, o si preferís poder revender o prestar tus juegos físicos más adelante: la edición Digital no tiene lector, esa puerta queda cerrada para siempre en este equipo.",
+    pros: [
+      "Trae dos juegos completos (Astro Bot + Gran Turismo 7) sumados al precio de la consola, sin pagarlos aparte",
+      "SSD de 1 TB, de los más rápidos de esta generación para tiempos de carga",
+      "4K hasta 120 Hz con HDR, según el juego y el televisor",
+      "Control DualSense con gatillos adaptativos y respuesta háptica: un salto real de sensación frente al control de PS4",
+      "Retrocompatible con el catálogo digital de PS4 (los juegos que ya tenías comprados en digital)",
+      "Diseño Slim: más compacta y liviana que la PS5 original",
+      "4.9 estrellas en más de 12.000 calificaciones: de las consolas con más respaldo de MercadoLibre Argentina",
+    ],
+    cons: [
+      "Es edición Digital: no tiene lector de discos, así que no podés usar juegos físicos, ni los de PS5 ni discos viejos de PS4 que ya tengas",
+      "Astro Bot, el juego preinstalado, no soporta 120 Hz según la propia caja del producto",
+      "El soporte vertical para pararla en vez de acostarla se vende por separado",
+      "Del SSD de 1 TB, una parte queda reservada para el sistema: el espacio disponible real es menor al anunciado",
+      "El multijugador online (jugar en red con otros) requiere suscripción paga a PlayStation Plus, no está incluida",
+      "Los cupones de los juegos incluidos vencen (31 de marzo de 2036 en las cajas actuales): conviene canjearlos apenas la abrís para no depender de esa fecha",
+    ],
+    articleBody: `## Qué es y para quién
+
+Es la PS5 en su versión Slim (la más delgada, la que se vende hoy) y edición Digital: sin lector de discos, todo se instala y se juega desde internet. Este bundle puntual suma la consola, el control DualSense y dos juegos ya incluidos: Astro Bot (viene preinstalado) y Gran Turismo 7 (código de descarga en la caja).
+
+Es para quien ya decidió que va a jugar en digital, sin lidiar con discos, y quiere arrancar con un catálogo de entrada sin pagar los juegos aparte. Si tenés discos de PS4 que querés seguir usando o preferís poder revender juegos físicos más adelante, esta versión no te sirve: la falta de lector es definitiva, no se agrega después.
+
+## Lo que trae la caja
+
+Consola PS5 Digital, control DualSense inalámbrico color blanco, dos pies de soporte para usarla acostada (horizontal), cable HDMI, cable de alimentación, cable USB-C para cargar el control, y los materiales impresos (guía rápida y de seguridad). Astro Bot ya viene instalado en el sistema. Gran Turismo 7 se entrega como código digital: hace falta canjearlo con una cuenta de PlayStation Network y conexión a internet.
+
+Si en algún momento querés pararla en vertical en vez de acostada, el soporte para eso se vende por separado, no viene en la caja.
+
+## Las specs que importan
+
+Corre con un procesador AMD Zen 2 de 8 núcleos y una GPU AMD RDNA 2 de hasta 10.3 TFLOPS, la misma potencia gráfica que la PS5 original (la versión Slim es más chica y liviana, pero el rendimiento adentro es igual). Llega hasta 4K a 120 Hz con HDR, aunque eso depende de que el juego y el televisor lo soporten: Astro Bot, por ejemplo, tiene techo de 60 Hz según la propia caja.
+
+El SSD es de 1 TB, pero como en toda PS5, una parte queda reservada para el sistema operativo: el espacio real disponible para instalar juegos es menor al 1 TB completo. Con juegos modernos que pesan 50-100 GB cada uno, es algo a tener en cuenta si pensás instalar muchos títulos a la vez.
+
+## La contra real: es edición Digital
+
+La decisión más importante antes de comprar esta versión es aceptar que no hay lector de discos. No es que venga "sin el lector pero se pueda agregar": es una consola distinta por dentro, pensada para digital desde el diseño. Si comprás un juego, lo comprás en la tienda de PlayStation, no en una caja física. Y si tenías una colección de discos de PS5 o PS4, no los vas a poder usar en este equipo.
+
+El otro punto honesto: jugar en red con otras personas (no local, sino online) requiere una suscripción paga a PlayStation Plus, que no está incluida en este bundle. Los dos juegos que trae (Astro Bot y Gran Turismo 7) sí se juegan sin esa suscripción en su modo un jugador; Gran Turismo 7 en particular suma modos online que sí la piden.
+
+## Para quién sí y para quién no
+
+Sí, si ya tenías decidido comprar en digital, no te importa perder la opción de discos físicos, y valorás arrancar con dos juegos de peso (uno de plataformas, uno de autos) sin pagarlos aparte de la consola. Es de las consolas con más respaldo de compradores reales de todo el catálogo.
+
+No, si tenés una colección de discos de generaciones anteriores que querés seguir usando, si te gusta poder revender o prestar juegos físicos, o si no estás seguro y preferís mantener esa puerta abierta: ahí conviene mirar la edición con lector de discos, aunque cueste más.
+
+## Veredicto
+
+El bundle tiene sentido puntualmente por los dos juegos incluidos: Astro Bot y Gran Turismo 7 solos ya valen buena parte de la diferencia de precio contra la consola pelada. La consola en sí es la misma potencia que la PS5 estándar, en formato más compacto. La decisión real pasa por el formato: si aceptás vivir 100% en digital, es una compra sólida y con mucho respaldo; si no, la contra de no tener lector de discos es permanente y conviene pensarlo dos veces antes de comprar.`,
+    faq: [
+      {
+        question: "¿Esta PS5 tiene lector de discos?",
+        answer: "No, es la edición Digital: no tiene lector de discos. Todos los juegos se compran y se instalan desde la tienda de PlayStation, por internet. No podés usar discos físicos, ni de PS5 ni viejos de PS4.",
+      },
+      {
+        question: "¿Qué juegos incluye el bundle?",
+        answer: "Astro Bot, que viene preinstalado en la consola, y Gran Turismo 7, que se entrega como código de descarga en la caja. Hace falta una cuenta de PlayStation Network y conexión a internet para canjear el código de Gran Turismo 7.",
+      },
+      {
+        question: "¿Cuánto almacenamiento tiene disponible en realidad?",
+        answer: "El SSD es de 1 TB, pero como en toda PS5, una parte queda reservada para el sistema operativo. El espacio real disponible para instalar juegos es algo menor al 1 TB anunciado.",
+      },
+      {
+        question: "¿Necesito pagar algo más para jugar online?",
+        answer: "Sí, para jugar en red con otras personas (no en la misma casa) hace falta una suscripción paga a PlayStation Plus, que no está incluida en este bundle. Los juegos incluidos se pueden jugar en modo un jugador sin esa suscripción.",
+      },
+      {
+        question: "¿Trae el soporte para pararla en vertical?",
+        answer: "No. La caja incluye dos pies para usarla acostada (horizontal). El soporte para pararla en vertical se vende por separado.",
+      },
+      {
+        question: "¿Es la misma potencia que la PS5 original o rinde menos por ser Slim?",
+        answer: "Es la misma potencia gráfica y de procesamiento que la PS5 original (procesador AMD Zen 2, gráfica RDNA 2 de hasta 10.3 TFLOPS). La versión Slim solo cambia el tamaño y el peso: es más compacta y liviana, pero el rendimiento adentro es igual.",
+      },
+      {
+        question: "¿Vale la pena o conviene la versión con lector de discos?",
+        answer: "Depende de si te importa poder usar juegos físicos. Si ya decidiste jugar todo en digital, esta versión sale más barata por la misma potencia. Si tenés discos de PS4 que querés seguir usando, o preferís poder revender o prestar juegos físicos más adelante, conviene pagar la diferencia por la edición con lector de discos.",
+      },
+    ],
   },
   {
     id: 'MLAU3809091558',
