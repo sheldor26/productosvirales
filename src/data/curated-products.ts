@@ -58783,6 +58783,8 @@ Comprá la Noga NG-B01 si querés evitar las pilas y buscás un precio accesible
       { label: "Tipo de sensor del mouse", value: "Óptico" },
       { label: "Resolución del sensor del mouse", value: "1.000 dpi" },
       { label: "Incluye batería", value: "Sí" },
+      { label: "Autonomía de batería", value: "Teclado hasta 36 meses, mouse hasta 18 meses (con función de auto-suspensión)" },
+      { label: "Conexión", value: "Solo dongle USB 2.4 GHz (sin Bluetooth), alcance hasta 10 metros" },
     ],
     relatedProducts: ["MLA19079378", "MLA22297233"],
     priceUpdated: "2026-09-07",
@@ -58799,11 +58801,15 @@ Comprá la Noga NG-B01 si querés evitar las pilas y buscás un precio accesible
       "Muy silencioso y de bajo perfil, ocupa poco espacio",
       "Teclado completo con numérico, en español",
       "Reseñas destacan la calidad frente a alternativas económicas sin marca",
+      "Batería de larga duración con auto-suspensión: hasta 36 meses el teclado y 18 meses el mouse según el fabricante",
+      "Trae un compartimento dentro del mouse para guardar el dongle USB cuando viajás",
     ],
     cons: [
       "Sin RGB ni estética gamer: es un combo de oficina que también sirve para gaming casual",
       "Sensor del mouse de 1.000 dpi, más bajo que los kits mecánicos de esta guía",
       "Es más caro que el Gadnic o el Senon de membrana",
+      "Sin Bluetooth: funciona solo con el dongle USB 2.4 GHz incluido, no se puede emparejar por Bluetooth ni cambiar entre varios dispositivos",
+      "El teclado no tiene interruptor de encendido/apagado: si lo llevás de viaje puede activarse solo dentro de la mochila",
     ],
     articleBody: `## Qué es y para quién
 
@@ -58811,11 +58817,13 @@ El Logitech MK470 es un kit inalámbrico de teclado y mouse, de bajo perfil y si
 
 ## Lo bueno
 
-Con más de 6.900 calificaciones, es el kit con más respaldo de esta comparativa. Las reseñas destacan lo silencioso y cómodo que es, y varios compradores cuentan que probaron antes una alternativa económica sin marca y volvieron a Logitech por la sensación de calidad y durabilidad. Es inalámbrico con receptor USB, así que no hay cables sobre el escritorio, y el teclado incluye numérico completo en español.
+Con más de 6.900 calificaciones, es el kit con más respaldo de esta comparativa. Las reseñas destacan lo silencioso y cómodo que es, y varios compradores cuentan que probaron antes una alternativa económica sin marca y volvieron a Logitech por la sensación de calidad y durabilidad. Es inalámbrico con receptor USB (alcance de hasta 10 metros), así que no hay cables sobre el escritorio, y el teclado incluye numérico completo en español.
+
+Un punto fuerte que no siempre se destaca: la batería dura muchísimo gracias a una función de auto-suspensión que corta el consumo cuando no lo usás. Según el fabricante, el teclado aguanta hasta 36 meses (3 años) con las mismas pilas, y el mouse hasta 18 meses (año y medio). Es un dato repetido de forma consistente en varias reseñas de largo plazo, algunas de compradores que llevan más de un año usándolo y todavía no cambiaron las pilas. El mouse además trae un compartimento interno para guardar el dongle USB cuando lo llevás de viaje, así no lo perdés.
 
 ## La contra real
 
-No tiene RGB ni busca la estética gamer: es un combo pensado para silencio y practicidad. El sensor del mouse es de 1.000 dpi, más básico que el de los kits mecánicos de esta guía. Y cuesta más que los kits de membrana económicos como el Gadnic o el Senon.
+No tiene RGB ni busca la estética gamer: es un combo pensado para silencio y practicidad. El sensor del mouse es de 1.000 dpi, más básico que el de los kits mecánicos de esta guía. Y cuesta más que los kits de membrana económicos como el Gadnic o el Senon. Dos datos más a tener en cuenta: no tiene Bluetooth, funciona únicamente con el dongle USB 2.4 GHz incluido (no podés emparejarlo por Bluetooth ni cambiarlo fácil entre varios dispositivos), y el teclado no tiene interruptor de encendido/apagado, así que si lo metés en la mochila para viajar puede activarse solo con el roce y gastar batería o despertar la compu.
 
 ## Para quién sí y para quién no
 
@@ -58825,6 +58833,8 @@ Comprá el Logitech MK470 si valorás el silencio, la marca y usar el mismo setu
       { question: "¿Es realmente inalámbrico?", answer: "Sí, se conecta por un receptor USB incluido, sin necesidad de cables sobre el escritorio." },
       { question: "¿Sirve para gaming competitivo?", answer: "No es lo ideal: el sensor del mouse es de 1.000 dpi, más básico que otros kits de esta guía. Es mejor para uso general, trabajo y gaming casual." },
       { question: "¿Por qué tiene tantas más calificaciones que los otros kits?", answer: "Es de una marca muy establecida (Logitech) con mucho tiempo en el mercado, lo que explica el respaldo de más de 6.900 calificaciones." },
+      { question: "¿Cuánto dura la batería?", answer: "Según el fabricante, hasta 36 meses (3 años) en el teclado y hasta 18 meses (año y medio) en el mouse, gracias a una función de auto-suspensión que corta el consumo cuando no los usás. Varias reseñas de largo plazo confirman que efectivamente dura mucho tiempo sin cambiar las pilas." },
+      { question: "¿Tiene Bluetooth?", answer: "No, funciona únicamente con el dongle USB de 2.4 GHz incluido. No se puede emparejar por Bluetooth ni cambiar fácilmente entre varios dispositivos como sí permiten otros combos con Bluetooth." },
     ],
   },
   {
