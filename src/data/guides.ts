@@ -3046,7 +3046,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     quickPicks: [
       { productMlaId: "MLA44849297", label: "El más vendido", labelColor: "green", tagline: "Logitech G203: con cable, {{reviews:MLA44849297}} opiniones, la compra segura" },
       { productMlaId: "MLA11259955", label: "El mejor inalámbrico", labelColor: "blue", tagline: "Logitech G305: sensor HERO, {{reviews:MLA11259955}} opiniones" },
-      { productMlaId: "MLA17743447", label: "El más barato", labelColor: "amber", tagline: "Redragon M601: con RGB y pesas regulables por {{precio:MLA17743447:k}}" },
+      { productMlaId: "MLA17743447", label: "El más barato", labelColor: "amber", tagline: "Redragon M601: con RGB, pesas regulables y {{reviews:MLA17743447}} opiniones" },
       { productMlaId: "MLA28598537", label: "El de los profesionales", labelColor: "purple", tagline: "PRO X Superlight 2: 60 gramos, el tope de gama de e-sports" },
     ],
     intro: [
@@ -3080,9 +3080,9 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "pull-quote", content: `"Inalámbrico, excelente sensor, peso liviano, confiable. El mouse del pueblo."`, attribution: `Opinión verificada en MercadoLibre` },
 
       { type: "h3", title: `3. Redragon Centrophorus M601 RGB — el más barato con respaldo` },
-      { type: "product-card", productMlaId: "MLA17743447", label: "El más barato", labelColor: "amber", ranking: 3, description: `Con cable, sensor Pixart de 7.200 DPI, RGB configurable y kit de 8 pesas para regular el peso. 4.8 estrellas en más de 2.600 calificaciones.` },
-      { type: "p", content: `Si el presupuesto manda, el M601 es el más barato de la guía con ventas reales que lo respalden (más de 2.600 opiniones). Desde unos {{precio:MLA17743447:k}} trae un sensor Pixart 3317 de hasta 7.200 DPI, RGB configurable por software y algo que ni los Logitech de esta lista tienen: un **kit de 8 pesas de 2,4 gramos** para regular el peso a gusto, de 85 a 104 gramos. Los switches están certificados para 10 millones de clicks.` },
-      { type: "p", content: `Las contras honestas: **suele venir sin envío gratis** (sumalo a la cuenta al comparar), y con las pesas puestas es un mouse pesado, pensado más para control que para velocidad. Para empezar en el gaming o renovar un mouse de oficina gastando lo mínimo, cumple con creces.` },
+      { type: "product-card", productMlaId: "MLA17743447", label: "El más barato", labelColor: "amber", ranking: 3, description: `Con cable, sensor Pixart de 7.200 DPI, RGB configurable y kit de 8 pesas para regular el peso. 4.8 estrellas en {{reviews:MLA17743447}} calificaciones.` },
+      { type: "p", content: `Si el presupuesto manda, el M601 es el más barato de la guía con ventas reales que lo respalden ({{reviews:MLA17743447}} opiniones). Desde unos {{precio:MLA17743447:k}} trae un sensor Pixart 3317 de hasta 7.200 DPI, diseño ambidiestro, RGB configurable por software y algo que ni los Logitech de esta lista tienen: un **kit de 8 pesas de 2,4 gramos** para regular el peso a gusto, de 85 a 104 gramos. Los switches están certificados para 10 millones de clicks.` },
+      { type: "p", content: `Las contras honestas: **suele venir sin envío gratis** (sumalo a la cuenta al comparar), con las pesas puestas es un mouse pesado, pensado más para control que para velocidad, y una comparación técnica directa contra otro Redragon (el Cobra M711) le midió 27,5 ms de latencia de clic, alto para FPS competitivo aunque irrelevante para gaming casual. Para empezar en el gaming o renovar un mouse de oficina gastando lo mínimo, cumple con creces.` },
       { type: "pull-quote", content: `"Muy cómodo a la mano, y eso que tengo manos grandes. Viene con los pesitos abajo y podés controlar el RGB con el programa del mouse."`, attribution: `Opinión verificada en MercadoLibre` },
 
       { type: "h3", title: `4. Logitech G309 Lightspeed — el sucesor moderno` },
