@@ -2279,4 +2279,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "23",
     postedAt: "2026-09-09T10:14:00-03:00",
   },
+  {
+    title: "PC Gamer AMD Ryzen 7 5700G Armada",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_748643-MLA117243371601_092026-O.webp",
+    affiliateUrl: "https://meli.la/21sAMAV",
+    newPrice: "782.303",
+    oldPrice: "1.499.999",
+    offPct: "47",
+    postedAt: "2026-09-09T10:45:00-03:00",
+  },
 ];
