@@ -3045,7 +3045,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     standfirst: `Un mouse gamer va de {{precio:MLA17743447:k}} a {{precio:MLA28598537:k}}, y el número de DPI que te venden en la caja no es lo que separa uno de otro. Te contamos qué importa de verdad (sensor, peso, conexión), comparando los más vendidos de Argentina con specs verificadas del fabricante y precios reales de MercadoLibre.`,
     quickPicks: [
       { productMlaId: "MLA44849297", label: "El más vendido", labelColor: "green", tagline: "Logitech G203: con cable, {{reviews:MLA44849297}} opiniones, la compra segura" },
-      { productMlaId: "MLA11259955", label: "El mejor inalámbrico", labelColor: "blue", tagline: "Logitech G305: sensor HERO, 250 horas con una pila AA" },
+      { productMlaId: "MLA11259955", label: "El mejor inalámbrico", labelColor: "blue", tagline: "Logitech G305: sensor HERO, {{reviews:MLA11259955}} opiniones" },
       { productMlaId: "MLA17743447", label: "El más barato", labelColor: "amber", tagline: "Redragon M601: con RGB y pesas regulables por {{precio:MLA17743447:k}}" },
       { productMlaId: "MLA28598537", label: "El de los profesionales", labelColor: "purple", tagline: "PRO X Superlight 2: 60 gramos, el tope de gama de e-sports" },
     ],
@@ -3074,9 +3074,9 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "pull-quote", content: `"No hay nada que se le acerque en relación calidad/precio. Si estás dudando, no dudes más y compralo."`, attribution: `Opinión verificada en MercadoLibre` },
 
       { type: "h3", title: `2. Logitech G305 Lightspeed — el mejor inalámbrico` },
-      { type: "product-card", productMlaId: "MLA11259955", label: "El mejor inalámbrico", labelColor: "blue", ranking: 2, description: `Inalámbrico Lightspeed con sensor HERO de 12.000 DPI y 250 horas de batería con una pila AA. 4.8 estrellas en más de 12.000 calificaciones.` },
+      { type: "product-card", productMlaId: "MLA11259955", label: "El mejor inalámbrico", labelColor: "blue", ranking: 2, description: `Inalámbrico Lightspeed con sensor HERO de 12.000 DPI y 250 horas de batería con una pila AA. 4.8 estrellas en {{reviews:MLA11259955}} calificaciones.` },
       { type: "p", content: `El G305 es el inalámbrico más vendido de Argentina y un clásico con fama de indestructible. Su conexión **Lightspeed** responde en 1 milisegundo (en la práctica, igual que un cable), el sensor **HERO** no acelera ni suaviza el movimiento, y la batería es de otra época: **una pila AA común que dura hasta 250 horas** de juego. Se te acaba, ponés otra y seguís; nada de andar enchufando cables a mitad de partida.` },
-      { type: "p", content: `Lo honesto: pesa 99 gramos (la pila suma), no tiene RGB (solo un LED de estado) y no tiene Bluetooth, solo el receptor USB. Se consigue desde unos {{precio:MLA11259955:k}} (mirá bien entre vendedores, los precios varían) y es el salto natural desde el G203 para quien quiere cortar el cable sin pagar precio premium.` },
+      { type: "p", content: `Lo honesto: pesa 99 gramos y el peso queda cargado hacia atrás por la pila, algo que se nota deslizándolo con el dedo. No tiene RGB (solo un LED de estado), no tiene Bluetooth (solo el receptor USB) y tampoco se carga por USB: si preferís pilas recargables, hay que sacarlas y cargarlas aparte. Se consigue desde unos {{precio:MLA11259955:k}} (mirá bien entre vendedores, los precios varían) y es el salto natural desde el G203 para quien quiere cortar el cable sin pagar precio premium.` },
       { type: "pull-quote", content: `"Inalámbrico, excelente sensor, peso liviano, confiable. El mouse del pueblo."`, attribution: `Opinión verificada en MercadoLibre` },
 
       { type: "h3", title: `3. Redragon Centrophorus M601 RGB — el más barato con respaldo` },
