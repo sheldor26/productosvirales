@@ -2329,4 +2329,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "36",
     postedAt: "2026-09-09T12:29:00-03:00",
   },
+  {
+    title: 'Televisor Samsung 75" Crystal UHD 4K',
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_874342-MLA99945639743_112025-O.webp",
+    affiliateUrl: "https://meli.la/2wKnLrW",
+    newPrice: "1.697.111",
+    oldPrice: "4.999.999",
+    offPct: "66",
+    postedAt: "2026-09-09T12:55:00-03:00",
+  },
 ];
