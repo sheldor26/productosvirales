@@ -9187,6 +9187,8 @@ Comprala si querés una silla de marca top, valorás los apoyabrazos 4D y la tel
       "Es chico: varias reseñas de manos grandes lo recomiendan solo para agarre fingertip o claw, no para palm grip completo",
       "El clic derecho es muy sensible para quienes apoyan el dedo sobre el mouse, según una reseña: puede activarse sin querer",
       "Sin memoria de perfiles múltiples ni doble clic dedicado, a diferencia de mouse más caros de la misma marca",
+      "El clic se escucha bastante fuerte, según más de una reseña de largo plazo: puede molestar si compartís cuarto u oficina",
+      "Un usuario con más de un año de uso reporta clics dobles ocasionales, no constantes: parece un caso puntual, no un patrón generalizado",
     ],
     verdict: "A $34.799, es el mouse gamer más vendido de Argentina ({{reviews:MLA44849297}} calificaciones, 4.9⭐) y con motivo: sensor de 8.000 DPI preciso, RGB personalizable y 2 años de garantía por muy poca plata. Los límites reales están en la durabilidad de los switches (10 millones de clics) y en el cable, que hay que cuidar. Para el 90% de los usuarios, sigue siendo la compra segura de entrada.",
     articleBody: `## El mouse gamer más vendido de Argentina, por lejos
@@ -9208,6 +9210,10 @@ Una reseña técnica de México, con años de experiencia reparando mouse, da el
 ## El cable, el otro punto débil según varias reseñas
 
 Es la segunda queja más repetida después de las falsificaciones: el cable es de goma simple, no trenzado, y varias reseñas (de Brasil, Argentina y otros países) reportan que se raja en el punto de dobles cerca del cuerpo del mouse o del conector USB después de varios meses de uso diario. Ninguna reseña reporta que esto afecte el funcionamiento a corto plazo, pero es un punto a cuidar: evitar tirones y no enrollarlo muy ajustado cuando se guarda.
+
+## Ambidiestro, con un clic que se escucha bastante
+
+El diseño es ambidiestro: sirve tanto para diestros como para zurdos por igual, aunque los dos botones laterales programables quedan pensados para el pulgar de la mano derecha. Un detalle que repiten más de una reseña de uso prolongado, en distintos idiomas: el clic es bastante audible, más de lo esperado para este tipo de mouse. No es un problema para jugar con auriculares puestos, pero puede molestar si compartís cuarto o estás en una oficina.
 
 ## Tamaño chico: bueno para fingertip, ajustado para manos grandes
 
@@ -9231,7 +9237,9 @@ A $34.799 con 4.9 estrellas en {{reviews:MLA44849297}} calificaciones, sigue sie
       { label: "Peso", value: "85 g" },
       { label: "Botones", value: "6 programables (sin doble clic dedicado)" },
       { label: "Switches", value: "Omron, calculados para 10 millones de clics (según fuentes técnicas de terceros; los mouse premium usan switches de 50 millones)" },
-      { label: "Iluminación", value: "RGB Lightsync, 3 zonas configurables vía Logitech G HUB" },
+      { label: "Iluminación", value: "RGB Lightsync, 3 zonas configurables vía Logitech G HUB, con 16,8 millones de colores disponibles" },
+      { label: "Diseño", value: "Ambidiestro: sirve para diestros y zurdos por igual" },
+      { label: "Sonido de clic", value: "Perceptible y algo fuerte, según más de una reseña de largo plazo: no ideal para compartir cuarto u oficina sin auriculares" },
       { label: "Memoria", value: "Configuración se guarda en el propio mouse una vez activada desde G HUB (útil para usar en otro equipo sin instalar el software)" },
       { label: "Software", value: "Logitech G HUB (asignación de botones, DPI, perfiles por juego, RGB)" },
       { label: "Garantía", value: "2 años (Logitech)" },
@@ -9245,6 +9253,8 @@ A $34.799 con 4.9 estrellas en {{reviews:MLA44849297}} calificaciones, sigue sie
       { question: "¿Cuántos DPI tiene y cómo se cambian?", answer: "Va de 200 a 8.000 DPI. Con el botón de arriba del scroll se cicla entre presets predefinidos (por ejemplo 400-800-1600-3200); para valores exactos y personalizados hay que usar el software Logitech G HUB." },
       { question: "¿Necesito el software G HUB para usarlo?", answer: "No es obligatorio: el mouse funciona apenas lo conectás. Pero G HUB permite configurar RGB, asignar funciones a los 6 botones y ajustar DPI con precisión, y guarda esa configuración en la memoria del propio mouse para que se mantenga aunque lo uses en otra PC sin el software instalado." },
       { question: "¿Conviene este o el Logitech G305 inalámbrico?", answer: "El G203 ($34.799) es con cable, más barato, y su sensor óptico ya es muy preciso. El [G305 Lightspeed](/producto/mouse-gamer-inalambrico-logitech-g305-lightspeed-black-mla11259955) suma inalámbrico con sensor HERO de 12.000 DPI a mayor precio. Si el cable no te molesta, el G203 rinde igual de bien para la enorme mayoría de usos." },
+      { question: "¿Sirve para zurdos?", answer: "Sí, tiene diseño ambidiestro: la forma del cuerpo funciona igual de bien para diestros y zurdos. Los dos botones laterales programables quedan del lado izquierdo, pensados para el pulgar de la mano derecha, así que un zurdo los tendría del lado contrario a la mano con la que agarra el mouse." },
+      { question: "¿El clic hace mucho ruido?", answer: "Sí, es un clic bastante audible. Más de una reseña de uso prolongado lo señala como un punto a tener en cuenta si vas a jugar de noche compartiendo cuarto, o en una oficina, sin auriculares puestos." },
     ],
     customerReviews: [
       { rating: 5, country: "México", date: "2025", useful: 171, text: "Hay muchos comentarios que dicen que es pirata y la app LGHUB no lo reconoce. El producto es original y la app sí lo reconoce, yo mismo estaba dudando por tantos comentarios negativos, pero se los recomiendo totalmente." },
