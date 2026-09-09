@@ -7641,7 +7641,9 @@ A $244.361 con 5 estrellas en {{reviews:MLA63267892}} calificaciones, es de los 
       "Pie fijo: solo inclina, no regula altura ni gira, y varias reseñas se quejan de que es poco firme",
       "Panel VA, no IPS: una reseña de 4 estrellas lo resume bien, \"si tuvieron un monitor IPS seguramente no estén muy convencidos con los negros de éste\", con algo de sangrado de luz en los bordes",
       "Ghosting real a 144Hz en colores oscuros según varias reseñas (bajar a 120Hz y el brillo lo reduce bastante, y muchos compradores directamente no lo notan)",
-      "No es la mejor opción para edición de video de detalle fino: una reseña lo aclara sin vueltas, para eso conviene otro modelo",
+      "No es la mejor opción para edición de video de detalle fino: una reseña lo aclara sin vueltas, para eso conviene otro modelo. La curva también molesta específicamente para trabajar con planillas o documentos, según otra reseña",
+      "El control de navegación del menú (una perilla/joystick detrás del monitor) es incómodo de manejar la primera vez, según dos reseñas independientes, aunque una vez configurado no hay que volver a tocarlo",
+      "No tiene sentido para consolas viejas: con PS4 o Xbox One (tope de 60Hz) no aprovechás los 144Hz. Con PS5 o Xbox Series sí, hasta 120Hz",
     ],
     verdict: "A $365.999 con 4.8 estrellas en {{reviews:MLA43961816}} calificaciones, es el monitor gaming más comprado y probado del catálogo: salto real a 144Hz, panel curvo cómodo y hasta gráficas integradas lo sostienen. Ojo con dos cosas que la ficha técnica no aclara bien: no viene con agujeros VESA de fábrica pese a lo que dice la publicación, y el pie solo inclina, sin altura.",
     articleBody: `## El monitor gaming más vendido del catálogo
@@ -7662,7 +7664,15 @@ Acá está el dato que esta ficha corrige de verdad. La publicación declara sop
 
 ## Panel VA curvo: lo bueno y el límite
 
-La curva 1800R no estorba para nada según las reseñas ("ni se nota la curvatura", "no le tenía mucha fe al curvo, pero es excelente"), y hasta suma inmersión en shooters: "en shooters tipo Valorant te da una ventaja abismal, porque ves antes a los rivales". El límite real lo marca la misma reseña: "si sos muy detallista o querés usar el monitor para edición de videos quizás sí te convenga ir por otro modelo. Si solo lo querés para gaming, lo recomiendo 100%".
+La curva 1800R no estorba para nada según las reseñas ("ni se nota la curvatura", "no le tenía mucha fe al curvo, pero es excelente"), y hasta suma inmersión en shooters: "en shooters tipo Valorant te da una ventaja abismal, porque ves antes a los rivales". El límite real lo marca la misma reseña: "si sos muy detallista o querés usar el monitor para edición de videos quizás sí te convenga ir por otro modelo. Si solo lo querés para gaming, lo recomiendo 100%". Hay un caso puntual donde sí se nota: trabajando con planillas o documentos (Excel, Word), un reviewer independiente confirma que la curva se hace evidente y puede resultar molesta; para ese uso recomienda directamente un monitor plano.
+
+## Un ajuste extra contra el ghosting, y el tema de las consolas
+
+Además de bajar a 120Hz (la solución que ya mencionamos), un usuario de más de un año de uso encontró otra forma de reducirlo: bajar el ajuste de "response time" (overdrive) del nivel más alto al segundo más alto en el menú, sin tocar la frecuencia. Sobre consolas: con PS5 o Xbox Series funciona bien hasta 120Hz, pero con PS4 o Xbox One no tiene sentido comprarlo, porque esas consolas no superan los 60Hz y no vas a aprovechar el panel.
+
+## El menú es cómodo, pero la perilla para navegarlo no tanto
+
+Dos reseñas independientes, de reviewers distintos, coinciden en que el control físico para navegar el menú (una perilla o joystick detrás del monitor) es incómodo de usar, sobre todo la primera vez que hay que configurar todo. La buena noticia: una vez que dejás los ajustes como querés, no hay que volver a tocarlo, así que es una molestia de una sola vez.
 
 ## Contra el Samsung G30D plano y el Odyssey G5 27 QHD
 
@@ -7685,7 +7695,8 @@ A $365.999 con 4.8 estrellas en {{reviews:MLA43961816}} calificaciones, sigue si
       { label: "Puertos", value: "2x HDMI 1.4 + 1x DisplayPort 1.2. Trae cable HDMI (soporta 144Hz); el cable DisplayPort no siempre viene incluido" },
       { label: "Soporte / VESA", value: "La ficha declara VESA 75x75, pero múltiples reseñas reales confirman que las unidades NO traen los agujeros de fábrica: hace falta adaptador aparte para brazo o pared" },
       { label: "Ergonomía", value: "Pie fijo: solo inclina, sin ajuste de altura ni giro" },
-      { label: "Curvatura", value: "1800R" },
+      { label: "Curvatura", value: "1800R. No molesta para gaming ni video, pero puede notarse trabajando con planillas o documentos, según reseñas" },
+      { label: "Consolas", value: "Con PS5 o Xbox Series aprovecha hasta 120Hz. Con PS4 o Xbox One no tiene sentido: esas consolas topean en 60Hz" },
       { label: "Parlantes", value: "No incluidos" },
       { label: "Color", value: "Negro" },
     ],
@@ -7699,6 +7710,8 @@ A $365.999 con 4.8 estrellas en {{reviews:MLA43961816}} calificaciones, sigue si
       { question: "¿Sirve para trabajar o editar video?", answer: "Para multitarea de oficina funciona bien (una reseña lo usa para comparar dos hojas de Word en simultáneo). Para edición de video con exigencia de detalle y color, una reseña honesta aconseja otro modelo: el panel VA curvo no es lo ideal para ese uso." },
       { question: "¿Conviene este o el Samsung Odyssey G3 G30D?", answer: "El G30D ($244.361) da más Hz (180 vs 144) y mejor ergonomía (altura regulable y rotación vertical, el CRG5 solo inclina). El CRG5 ($365.999) suma la curva 1800R y una base de reseñas mucho más grande (1.502 vs 108). Para gaming puro con presupuesto ajustado, el G30D rinde más por menos; para confiar en el historial de compradores, el CRG5 gana." },
       { question: "¿Conviene este o el Samsung Odyssey G5 27 QHD?", answer: "El G5 27\" ($554.413) es el salto premium: más pulgadas, resolución QHD (más nítida que Full HD), 165 Hz y HDR10, a más del doble de precio. Si el presupuesto no es problema y buscás más resolución, el G5 es la mejora real; si priorizás el precio y el historial de reseñas, el CRG5 sigue siendo la apuesta segura." },
+      { question: "¿Sirve para PS4 o Xbox One?", answer: "No tiene mucho sentido: esas consolas no superan los 60Hz, así que no vas a aprovechar los 144Hz del panel. Con PS5 o Xbox Series sí funciona bien, hasta 120Hz." },
+      { question: "¿Hay algo más para reducir el ghosting además de bajar a 120Hz?", answer: "Sí, un usuario de más de un año de uso lo resolvió bajando el ajuste de \"response time\" (overdrive) del nivel más alto al segundo más alto en el menú, sin necesidad de tocar la frecuencia de actualización." },
     ],
     customerReviews: [
       { rating: 4, country: "Argentina", date: "2022", useful: 73, text: "(lo compre un 10/10/22, para que dimensionen los precios y saquen cuentas con la inflación. Me salió 64 mil). El monitor para el precio que es lo vale, no es 10/10 pero tranquilamente es 8/10. Facil de armar y desarmarlo, no es que fue dificil sino duro xq se ensamblan bien sus piezas por lo que recomiendo que lo armen y lo dejen en el lugar que va a quedar para siempre. No note el ghosting asi que debe ser diminuto si lo hay y los colores son buenos pero hay que personalizarlo con el menu del monitor y tranquilos que es muy intuitivo. La desventaja es que no se le puede cambiar el soporte/base en caso de querer agregarle un brazo o algun artefacto para manipularlo." },
