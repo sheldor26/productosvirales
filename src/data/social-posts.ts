@@ -2259,4 +2259,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "24",
     postedAt: "2026-09-09T09:10:49-03:00",
   },
+  {
+    title: "Auriculares Shokz Sport OpenMove",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_803122-MLA99949138607_112025-O.webp",
+    affiliateUrl: "https://meli.la/1vgyado",
+    newPrice: "148.799",
+    oldPrice: "279.990",
+    offPct: "46",
+    postedAt: "2026-09-09T09:41:12-03:00",
+  },
 ];
