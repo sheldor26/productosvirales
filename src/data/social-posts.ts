@@ -2209,4 +2209,44 @@ export const socialPosts: SocialPost[] = [
     offPct: "24",
     postedAt: "2026-09-08T19:27:44-03:00",
   },
+  {
+    title: "Silla Gamer Corsair TC100 Relaxed",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_994900-MLA100006936639_122025-O.webp",
+    affiliateUrl: "https://meli.la/2noBZBp",
+    newPrice: "600.000",
+    oldPrice: "600.000",
+    offPct: "0",
+    postedAt: "2026-09-09T08:40:40-03:00",
+  },
+  {
+    title: "Auriculares Razer Blackshark V3 Wireless",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_790278-MLA102205734370_122025-O.webp",
+    affiliateUrl: "https://meli.la/1SBkjog",
+    newPrice: "298.395",
+    oldPrice: "697.999",
+    offPct: "57",
+    postedAt: "2026-09-09T08:40:40-03:00",
+  },
+  {
+    title: 'Televisor LG NanoCell AI 55" Smart 4K',
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_919486-MLA112316627188_062026-O.webp",
+    affiliateUrl: "https://meli.la/2nCudaK",
+    newPrice: "899.999",
+    oldPrice: "1.154.999",
+    offPct: "22",
+    postedAt: "2026-09-09T08:43:18-03:00",
+  },
+  {
+    title: 'Smart TV RCA 55" LED Google TV 4K',
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_998055-MLA98258465709_112025-O.webp",
+    affiliateUrl: "https://meli.la/2xsJEYR",
+    newPrice: "694.599",
+    oldPrice: "919.999",
+    offPct: "24",
+    postedAt: "2026-09-09T08:44:30-03:00",
+  },
 ];
