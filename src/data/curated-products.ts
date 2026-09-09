@@ -10103,8 +10103,9 @@ A $288.469 con 4.8 estrellas en {{reviews:MLA28598537}} calificaciones, es el to
       { label: "Cantidad de teclas", value: "87 (TKL)" },
       { label: "Anti-ghosting", value: "N-key rollover (100% anti-ghosting)" },
       { label: "Frame", value: "Aleación de metal + ABS" },
-      { label: "Cable", value: "Fijo USB-A, 1.8 m" },
-      { label: "Software", value: "No requiere (plug and play)" },
+      { label: "Cable", value: "Fijo USB-A, 1.8 m, reforzado (hasta 12 kg de tracción, 10.000 flexiones)" },
+      { label: "Software", value: "Plug and play, pero suma software oficial de Redragon opcional: RGB tecla por tecla y hasta 3 perfiles de macros en memoria interna" },
+      { label: "Switches", value: "Hot-swap: se cambian sin soldar, trae herramienta y 6 switches de repuesto" },
       { label: "Peso", value: "880 g aprox." },
       { label: "Medidas", value: "354 x 123 x 37 mm aprox." },
     ],
@@ -10115,7 +10116,7 @@ A $288.469 con 4.8 estrellas en {{reviews:MLA28598537}} calificaciones, es el to
     description: "Teclado gamer Redragon Kumara K552: el mecánico más vendido del país por lejos (más de 15.000 calificaciones), TKL (sin numérico, más espacio para el mouse), RGB y en español. Contra honesta de las reseñas: es ruidoso (switches clicky), así que para un ambiente compartido conviene uno más silencioso.",
     seoTitle: "Redragon Kumara K552: el mecánico más vendido ¿conviene?",
     metaDescription: "El K552 es mecánico de verdad con switch Outemu clicky: es ruidoso. TKL, en español con ñ, frame de metal. Lo bueno y la contra real, sin vueltas.",
-    verdict: "El Redragon Kumara K552 sirve si querés tu primer mecánico de verdad, con frame de metal y en español, gastando poco. No sirve si compartís ambiente o grabás con micrófono: el switch clicky hace ruido y eso no se arregla. Tampoco es para quien busca personalizar el RGB tecla por tecla con software, porque acá el RGB son modos prearmados.",
+    verdict: "El Redragon Kumara K552 sirve si querés tu primer mecánico de verdad, con frame de metal y en español, gastando poco. No sirve si compartís ambiente o grabás con micrófono: el switch clicky hace ruido y eso no se arregla.",
     pros: [
       "Mecánico de verdad con switch Outemu, no membrana disfrazada: tipeo con click marcado y respuesta clara",
       "Frame superior de aleación de metal, le da rigidez y aguante que no esperás a este precio",
@@ -10123,12 +10124,13 @@ A $288.469 con 4.8 estrellas en {{reviews:MLA28598537}} calificaciones, es el to
       "En español Latinoamérica con ñ, algo que muchos mecánicos baratos no traen",
       "Anti-ghosting con N-key rollover: registra varias teclas a la vez sin que se traben",
       "Más de 15.000 calificaciones con 4.8 de promedio: es de lejos el más probado del país",
-      "Plug and play: no necesita instalar ningún software para funcionar ni para el RGB",
+      "Plug and play: anda sin instalar nada, pero si querés más suma software oficial de Redragon con RGB tecla por tecla y macros",
+      "Switches hot-swap: se cambian sin soldar, con herramienta y 6 switches de repuesto incluidos en la caja",
     ],
     cons: [
       "Es ruidoso. El switch Outemu clicky (tipo blue) hace el típico click fuerte: molesto en oficina, casa compartida o si grabás con micrófono",
-      "El RGB son modos rainbow prearmados que se cambian con combinaciones de teclas, no es personalización tecla por tecla con software",
-      "Cable fijo USB-A: no es desmontable, si se daña el cable es un problema",
+      "Para el RGB tecla por tecla y las macros hay que instalar el software de Redragon aparte; sin instalarlo, el RGB queda limitado a los modos rainbow prearmados de fábrica",
+      "Cable fijo USB-A: no es desmontable, si se daña el cable es un problema (aunque es reforzado y aguanta bastante)",
       "El switch es Outemu, no Cherry MX: anda bien pero la sensación y durabilidad no son las de un switch premium",
       "Sin reposamuñecas incluido ni patas regulables en varios ángulos, ergonomía básica",
       "Keycaps de ABS comunes: con el uso intenso tienden a ponerse brillosas con el tiempo",
@@ -10139,11 +10141,15 @@ El Redragon Kumara K552 es un teclado mecánico TKL pensado para quien quiere da
 
 ## Lo bueno
 
-Lo que más se valora es que es un mecánico de verdad, no una membrana maquillada. El switch Outemu te da ese click marcado y esa respuesta que no sentís en un teclado común. El frame superior es de aleación de metal, lo que le da una rigidez que no esperás a este precio: no flexiona ni se siente plástico barato. Suma anti-ghosting con N-key rollover, o sea que podés apretar varias teclas a la vez (clave en juegos) sin que se traben. Y es plug and play: lo enchufás y anda, no hace falta instalar nada, ni siquiera para cambiar el RGB.
+Lo que más se valora es que es un mecánico de verdad, no una membrana maquillada. El switch Outemu te da ese click marcado y esa respuesta que no sentís en un teclado común. El frame superior es de aleación de metal, lo que le da una rigidez que no esperás a este precio: no flexiona ni se siente plástico barato. Suma anti-ghosting con N-key rollover, o sea que podés apretar varias teclas a la vez (clave en juegos) sin que se traben. Y es plug and play: lo enchufás y anda, no hace falta instalar nada para usarlo.
+
+Un plus que no siempre se conoce: los switches son hot-swap, o sea que se cambian sin soldar. Viene con una herramienta para extraerlos y 6 switches de repuesto en la caja, así que si uno falla (pasa, es un teclado barato) lo cambiás vos mismo con los dedos en un par de minutos.
+
+Y aunque el teclado anda sin instalar nada, Redragon tiene un software oficial opcional (se descarga de su web) que suma personalización real: podés pintar cada tecla de un color distinto (no solo elegir entre modos rainbow prearmados) y programar macros, con hasta 3 perfiles que quedan guardados en la memoria interna del teclado para llevarlos a otra PC.
 
 ## La contra real
 
-Es ruidoso, y eso es lo primero que tenés que tener claro. El switch clicky hace el típico "clack" fuerte en cada tecla. Para jugar solo está buenísimo, pero en una oficina, una casa compartida o si grabás con micrófono, va a molestar (y a vos o a los de al lado). Eso no se arregla con configuración: es el switch. El otro punto honesto es el RGB: la publicación lo vende como RGB, y lo es, pero son modos rainbow prearmados que cambiás con combinaciones de teclas, no personalización tecla por tecla con software. Si querías pintar cada tecla de un color distinto desde una app, este no es. El cable además es fijo USB-A (no desmontable) y los keycaps son de ABS común, que con el tiempo y uso intenso se ponen brillosos.
+Es ruidoso, y eso es lo primero que tenés que tener claro. El switch clicky hace el típico "clack" fuerte en cada tecla. Para jugar solo está buenísimo, pero en una oficina, una casa compartida o si grabás con micrófono, va a molestar (y a vos o a los de al lado). Eso no se arregla con configuración: es el switch. El otro punto a tener en cuenta es que la personalización tecla por tecla del RGB y las macros dependen de instalar el software de Redragon aparte: sin instalarlo, el RGB queda limitado a los modos rainbow prearmados que se cambian con combinaciones de teclas. El cable además es fijo USB-A (no desmontable, aunque reforzado y pensado para aguantar bastante) y los keycaps son de ABS común, que con el tiempo y uso intenso se ponen brillosos.
 
 ## Cómo se compara
 
@@ -10167,7 +10173,7 @@ Comprá el K552 si querés tu primer mecánico de verdad, jugás solo o no te mo
       },
       {
         question: "¿El RGB se puede personalizar tecla por tecla?",
-        answer: "No tecla por tecla con software. El RGB son modos rainbow prearmados que cambiás con combinaciones de teclas (brillo, velocidad y efectos), pero no hay app para pintar cada tecla de un color distinto.",
+        answer: "Sí, pero necesitás instalar el software oficial de Redragon (se descarga de su web). Sin instalarlo, el RGB se maneja con combinaciones de teclas y son modos rainbow prearmados. Con el software podés pintar cada tecla de un color distinto y también programar macros.",
       },
       {
         question: "¿Qué tamaño tiene? ¿Tiene teclado numérico?",
@@ -10175,11 +10181,15 @@ Comprá el K552 si querés tu primer mecánico de verdad, jugás solo o no te mo
       },
       {
         question: "¿Necesita instalar algún programa para funcionar?",
-        answer: "No, es plug and play. Lo enchufás por USB y anda, incluso el RGB se controla desde el propio teclado sin instalar software.",
+        answer: "No, es plug and play: lo enchufás por USB y anda, con el RGB en modos prearmados que controlás desde el propio teclado. Si querés RGB tecla por tecla o macros, ahí sí hace falta instalar el software oficial de Redragon (opcional).",
       },
       {
         question: "¿El cable se puede desconectar?",
-        answer: "No, el cable es fijo USB-A de 1.8 metros, no es desmontable. Si el cable se daña, no podés cambiarlo fácil como en teclados con cable USB-C desconectable.",
+        answer: "No, el cable es fijo USB-A de 1.8 metros, no es desmontable. Si el cable se daña, no podés cambiarlo fácil como en teclados con cable USB-C desconectable, aunque es un cable reforzado (hasta 12 kg de tracción y 10.000 flexiones) pensado para aguantar bastante.",
+      },
+      {
+        question: "¿Los switches se pueden cambiar si se rompe uno?",
+        answer: "Sí, son hot-swap: se cambian sin soldar. El teclado viene con una herramienta para extraerlos y 6 switches de repuesto en la caja, así que podés reemplazar uno vos mismo con los dedos en un par de minutos.",
       },
       {
         question: "¿Sirve para PlayStation o Xbox?",
