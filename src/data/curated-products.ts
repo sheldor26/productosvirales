@@ -1518,6 +1518,37 @@ No es para vos si el presupuesto es una variable importante: la Osmo Action 4 de
       { label: "GPS", value: "No tiene integrado, confirmado por DJI" },
       { label: "Lanzamiento", value: "19 de septiembre de 2024" },
     ],
+    articleBody: `## Qué es la DJI Osmo Action 5 Pro
+
+Es una cámara de acción rectangular con dos pantallas OLED táctiles, una atrás y otra adelante, pensada para deportes y actividades donde hace falta ver el encuadre desde el frente. Cuesta {{precio:MLA66182550}}, tiene {{reviews:MLA66182550}} calificaciones con {{rating:MLA66182550}} estrellas, y es la opción intermedia de las cuatro DJI de acción y 360 de esta comparativa.
+
+## El mismo techo de video que la Action 6, por menos plata
+
+Graba 4K hasta 120 cuadros por segundo, exactamente el mismo límite que la [Osmo Action 6](/producto/camara-deportiva-dji-osmo-action-6-combo-aventura-mla62340610), que cuesta {{preciodif:MLA62340610:MLA66182550}} más. También comparte con la Action 6 los 20 metros de resistencia al agua sin carcasa, el máximo de esta comparativa. La diferencia entre las dos no está en el video ni en el agua: está en el sensor y en la apertura.
+
+## Dónde se nota que es de 2024, no de 2025
+
+El sensor es de 1/1,3 pulgadas, el mismo que traía la Osmo Action 4 de 2023, y la apertura es fija en f/2.8. La Action 6 suma un sensor más grande, de 1/1,1 pulgadas, y apertura variable de f/2.0 a f/4.0, dos ventajas reales en poca luz que acá no están. Si la calidad de imagen en condiciones oscuras es tu prioridad, esa diferencia sí importa; si no, el resto de las specs empatan.
+
+## Memoria y batería, mejor que su antecesora
+
+Trae 64 GB de memoria interna (47 disponibles), algo que la Action 4 no tenía, y declara 240 minutos de autonomía, un 50% más que los 160 de esa generación anterior. DJI mide ese número en 1080p a 24 cuadros con las pantallas y el Wi-Fi apagados, y no publica el dato grabando en 4K.
+
+## Sin GPS integrado
+
+A diferencia de otras cámaras de acción de gama alta, no tiene GPS propio, confirmado por DJI. Si buscás registrar el recorrido de una actividad (velocidad, altura, mapa del trayecto), esta cámara sola no lo hace: haría falta un accesorio o app externa.
+
+## Para quién es, y para quién no
+
+Es para vos si buscás la mayor resolución y resistencia al agua de la línea Osmo Action, sin pagar el extra de la Action 6 por un sensor más grande que quizás no necesites. No es para vos si filmás mucho en condiciones de poca luz o buceo profesional: ahí la apertura variable y el sensor más grande de la Action 6 sí se notan.`,
+    faq: [
+      { question: "¿En qué se diferencia de la Osmo Action 6?", answer: "Comparte el mismo 4K a 120 cuadros por segundo y los mismos 20 metros de resistencia al agua sin carcasa. La Action 6 suma un sensor más grande (1/1,1 pulgadas contra 1/1,3) y apertura variable de f/2.0 a f/4.0, contra la apertura fija f/2.8 de esta cámara, a cambio de {{preciodif:MLA62340610:MLA66182550}} más." },
+      { question: "¿Hasta qué profundidad es sumergible?", answer: "20 metros sin carcasa, el máximo de esta comparativa junto con la Osmo Action 6. Con la carcasa Waterproof Case oficial, llega a 60 metros." },
+      { question: "¿Trae memoria interna?", answer: "Sí, 64 GB de los cuales quedan 47 disponibles. Es ampliable con microSD. La Osmo Action 4 anterior no traía nada." },
+      { question: "¿Tiene GPS integrado?", answer: "No, confirmado por DJI. Si buscás registrar velocidad, altura o el mapa del recorrido de una actividad, esta cámara sola no lo hace." },
+      { question: "¿Cuánto dura la batería?", answer: "240 minutos declarados por DJI, medidos en 1080p a 24 cuadros con las pantallas y el Wi-Fi apagados. DJI no publica el dato grabando en 4K." },
+      { question: "¿Vale la pena pagar más por la Osmo Action 6?", answer: "Depende de si te importa la calidad en poca luz. La Action 6 suma un sensor más grande y apertura variable, dos ventajas reales en condiciones oscuras. Si filmás sobre todo de día o con buena luz, esta Action 5 Pro rinde prácticamente igual por menos plata." },
+    ],
     relatedProducts: ["MLA62340610", "MLA58197668", "MLA47374183"],
   },
   {
