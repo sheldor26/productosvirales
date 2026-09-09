@@ -2359,4 +2359,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "28",
     postedAt: "2026-09-09T15:02:00-03:00",
   },
+  {
+    title: "Notebook Dell Dc15255 Ryzen 7 32GB/1TB Táctil",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_627588-MLA108315695160_032026-O.webp",
+    affiliateUrl: "https://meli.la/2Dg4AeW",
+    newPrice: "1.849.499",
+    oldPrice: "2.899.048",
+    offPct: "36",
+    postedAt: "2026-09-09T15:34:00-03:00",
+  },
 ];
