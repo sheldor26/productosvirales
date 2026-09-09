@@ -2309,4 +2309,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "0",
     postedAt: "2026-09-09T11:37:00-03:00",
   },
+  {
+    title: "Consola Xbox Series X 1TB con Lector de Disco",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_942133-MLA74651936102_022024-O.webp",
+    affiliateUrl: "https://meli.la/2q4Z8JD",
+    newPrice: "2.870.010",
+    oldPrice: "2.870.010",
+    offPct: "0",
+    postedAt: "2026-09-09T12:03:00-03:00",
+  },
 ];
