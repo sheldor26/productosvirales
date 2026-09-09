@@ -1896,6 +1896,7 @@ Es para vos si querés la entrada más barata a una cámara de gimbal DJI, no te
       { label: "Resolución de video máxima", value: "4K (3840 x 2160) hasta 60 cuadros por segundo en grabación normal" },
       { label: "Cámara lenta", value: "4K a 120 cuadros por segundo y 1080p a 240" },
       { label: "Resolución de foto", value: "Unos 9,4 MP" },
+      { label: "Vertical nativo", value: "3K (9:16), 1728 x 3072, hasta 60 cuadros por segundo. El sensor es cuadrado, no recorta arriba y abajo de la imagen horizontal" },
       { label: "Lente", value: "20 mm equivalente, f/2.0 fija, enfoque desde 0,2 metros" },
       { label: "Estabilización", value: "Gimbal mecánico de tres ejes" },
       { label: "Seguimiento", value: "ActiveTrack 6.0" },
@@ -1907,6 +1908,33 @@ Es para vos si querés la entrada más barata a una cámara de gimbal DJI, no te
       { label: "Autonomía", value: "166 minutos medidos en 1080p a 24 cuadros con el Wi-Fi y la pantalla apagados. Grabando 4K a 60, hasta 116 minutos" },
       { label: "Peso", value: "179 g la cámara. La ficha de MercadoLibre declara 179 kg, que es el número correcto con la unidad equivocada" },
       { label: "Versión", value: "Paquete argentino que DJI no comercializa con ese nombre. Cuántas piezas trae hay que confirmarlo en la foto de la publicación" },
+    ],
+    articleBody: `## Qué es la DJI Osmo Pocket 3 Pack Creadores
+
+Es la misma DJI Osmo Pocket 3 del combo básico, sumándole un micrófono inalámbrico DJI Mic. Cuesta {{precio:MLA37134971}} y tiene {{reviews:MLA37134971}} calificaciones: es la cámara DJI con más evidencia de uso de todo el catálogo, lejos de cualquier otra.
+
+## La cámara es idéntica, el micrófono es lo que cambia
+
+Sensor de 1 pulgada, gimbal mecánico de tres ejes, misma batería: no hay ninguna diferencia de hardware entre esta y la [Osmo Pocket 3 básica](/producto/camara-dji-osmo-pocket-3-combo-estandar-mla39393179). Lo que suma es un micrófono inalámbrico DJI Mic, el accesorio que más cambia el resultado en una cámara pensada para grabarse hablando, sobre todo caminando o a más de un metro de distancia.
+
+## Un nombre que DJI no usa, así que hay que contar piezas
+
+"Pack Creadores" es un nombre que le puso el vendedor argentino, no un paquete oficial de DJI. Los combos reales de la marca son el básico, el Creator Combo (con un transmisor Mic 2) y varios Vlog Combo, la mayoría también con un solo transmisor. Solo uno de esos paquetes trae el kit completo: dos transmisores más receptor y estuche de carga. Antes de comprar, conviene mirar la foto de la publicación y contar cuántos transmisores entran en la caja, porque el precio no es garantía de cuál es.
+
+## Comparte las mismas limitaciones que la básica
+
+Sigue sin memoria interna: la microSD (clase V30 o U3 mínimo) se compra aparte. El video vertical llega a 3K, no más, porque el sensor es cuadrado y no recorta la imagen. Y el gimbal mecánico es la parte más delicada del dispositivo: conviene guardarla en el estuche cuando no se usa. Un comprador argentino avisa además que el estuche incluido deja el dorso de la cámara descubierto, sin cubrir toda la superficie.
+
+## Para quién es, y para quién no
+
+Es para vos si vas a grabarte hablando lejos de la cámara con frecuencia, y preferís comprar la opción con más evidencia real de uso del catálogo. No es para vos si vas a usarla solo de cerca (el micrófono interno ya alcanza) o si el presupuesto manda: ahí la [Osmo Pocket 3 básica](/producto/camara-dji-osmo-pocket-3-combo-estandar-mla39393179) hace exactamente lo mismo en imagen por {{preciodif:MLA37134971:MLA39393179}} menos.`,
+    faq: [
+      { question: "¿Es la misma cámara que la Osmo Pocket 3 básica?", answer: "Sí, exactamente la misma: mismo sensor de 1 pulgada, mismo gimbal, misma batería. La única diferencia es el micrófono inalámbrico que suma este paquete." },
+      { question: "¿Cuántos transmisores de micrófono trae?", answer: "Depende de la publicación: DJI no vende ningún combo con el nombre \"Pack Creadores\". Puede ser un solo transmisor (como el Creator Combo o los Vlog Combo) o el kit completo con dos transmisores, receptor y estuche de carga. Hay que contarlos en la foto antes de comprar." },
+      { question: "¿Trae memoria interna?", answer: "No, igual que la Osmo Pocket 3 básica. Hace falta comprar una microSD de clase V30 o U3 como mínimo, que no viene incluida." },
+      { question: "¿Qué resolución graba en vertical?", answer: "3K (1728 x 3072) hasta 60 cuadros por segundo, la misma que la Pocket 3 básica: comparten el mismo sensor cuadrado, que no recorta la imagen al pasar a vertical." },
+      { question: "¿Vale la pena pagar más que por el combo básico?", answer: "Si vas a grabarte hablando lejos de la cámara con frecuencia, sí: el micrófono inalámbrico es el accesorio que más cambia el resultado. Si vas a usarla siempre de cerca, el micrófono interno de la Osmo Pocket 3 básica ya alcanza, y ahorrás {{preciodif:MLA37134971:MLA39393179}}." },
+      { question: "¿Por qué tiene tantas más opiniones que las otras DJI del catálogo?", answer: "Con {{reviews:MLA37134971}} calificaciones, es la cámara DJI más vendida y probada de todo el sitio, muy por encima de la Osmo Pocket 3 básica o cualquier otra Osmo Action o 360 del catálogo." },
     ],
     relatedProducts: ["MLA39393179", "MLA68229126", "MLA66182550"],
   },
