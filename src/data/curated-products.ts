@@ -93507,6 +93507,396 @@ Es la opción más barata de esta comparativa y una buena puerta de entrada al e
       { question: "¿Trae envío gratis?", answer: "No, en la publicación verificada el envío no es gratuito." },
     ],
   },
+  // Guía nueva bicicleta-fija — silo/categoría fitness (sourcing MercadoLibre 2026-09-09).
+  // Los 4 con stock verificado en vivo el mismo día.
+  {
+    id: "MLA67137053",
+    title: "Bicicleta Fija Spinning NICTOM Bs01 — Reforzada 120 kg, Volante 6 kg, Bluetooth",
+    canonicalName: "NICTOM Bs01",
+    brand: "Nictom",
+    mpn: "Bs01",
+    price: 314999,
+    originalPrice: 399999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_789133-MLA108646475530_032026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_789133-MLA108646475530_032026-O.webp",
+    ],
+    category: "Fitness",
+    categorySlug: "fitness",
+    permalink: "https://www.mercadolibre.com.ar/bicicleta-fija-spinning-ejercicio-indoor-profesional-120kg-reforzada-6kg-nictom-bs01/p/MLA67137053",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 64,
+    pastelColor: "var(--pastel-green)",
+    specs: [
+      { label: "Marca", value: "Nictom" },
+      { label: "Modelo", value: "Bs01" },
+      { label: "Tipo de bicicleta fija", value: "Spinning" },
+      { label: "Tipo de resistencia", value: "Mecánico" },
+      { label: "Peso del volante de inercia", value: "6 kg" },
+      { label: "Peso máximo soportado", value: "120 kg, el más alto de esta comparativa junto con la Body Skull" },
+      { label: "Material de la estructura", value: "Aluminio" },
+      { label: "Sistema de transmisión", value: "Transmisión por correa" },
+      { label: "Con Bluetooth", value: "Sí" },
+      { label: "Con pantalla", value: "Sí, funciones de pulso, tiempo, distancia y calorías" },
+      { label: "Con manubrio ajustable", value: "Sí" },
+      { label: "Con asiento ajustable", value: "Sí" },
+      { label: "Con correas de pedal ajustables", value: "Sí" },
+      { label: "Con ruedas de traslado", value: "Sí" },
+      { label: "Con freno de seguridad", value: "Sí" },
+      { label: "Es plegable", value: "No" },
+      { label: "Medidas (largo x ancho)", value: "1,05 m x 45 cm" },
+    ],
+    relatedProducts: ["MLA62445462", "MLA45267058", "MLA53273514"],
+    priceUpdated: "2026-09-09", priceLastChecked: "2026-09-09", priceVerifiedAt: "2026-09-09",
+    priceStatus: "fresh", reviewsSampledAt: "2026-09-09",
+    description: "Bicicleta de spinning reforzada, 120 kg de peso soportado y volante de 6 kg, con Bluetooth. Es la mejor calificada de esta comparativa: {{reviews:MLA67137053}} opiniones con {{rating:MLA67137053}} de promedio.",
+    seoTitle: "Bicicleta Fija NICTOM Bs01: {{rating:MLA67137053}} de nota, reforzada 120 kg",
+    metaDescription: "Bicicleta fija spinning NICTOM Bs01, reforzada a 120 kg, volante de 6 kg y Bluetooth. {{reviews:MLA67137053}} opiniones y {{rating:MLA67137053}} estrellas, la mejor calificada de esta comparativa.",
+    verdict: "Es la **mejor calificada de esta comparativa**, con {{rating:MLA67137053}} sobre {{reviews:MLA67137053}} opiniones. Reforzada a 120 kg, con volante de 6 kg (el más pesado del grupo) y Bluetooth para conectar con apps de entrenamiento. La contra real, según un comprador: el manubrio y el asiento en la posición más alta se mueven un poco, aunque bajando el manubrio un escalón queda firme.",
+    pros: [
+      "La mejor calificada de esta comparativa: {{rating:MLA67137053}} sobre {{reviews:MLA67137053}} opiniones",
+      "120 kg de peso máximo soportado, empatada como la más alta del grupo",
+      "Volante de inercia de 6 kg, el más pesado de esta comparativa",
+      "Con Bluetooth para conectar apps de entrenamiento",
+      "Estructura de aluminio y transmisión por correa (más silenciosa que cadena)",
+    ],
+    cons: [
+      "El manubrio y el asiento en la posición más alta se mueven un poco, según un comprador",
+      "El caño del manubrio podría ser más largo para mejor agarre, según el mismo comprador",
+      "No tiene pantalla táctil ni Wi-Fi",
+      "No declara peso propio de la bicicleta",
+    ],
+    customerReviews: [
+      { rating: 4, country: "Argentina", text: "Por ahora bastante bien. Tiene algunos detalles pero son mínimos. Por ejemplo, el manubrio y el asiento en la posición más alta se mueven un poco, el caño tendría que ser un poco más largo para que tenga mejor agarre. Al manubrio lo baje un espacio y ya está fijo, el asiento es mínimo el movimiento así que no molesta." },
+      { rating: 4, country: "Argentina", text: "Lo que si me encanta el tamaño, es bien grande y hay mucho espacio entre el asiento y el manubrio, yo mido 1.70 así que sólo puedo hablar por mi experiencia. Pero es re cómodo. El peso al pedalear es mucho mayor a la que tenía antes así que tuve que bajar el tiempo que hago hasta acostumbrarme, pero eso es genial. En general buenas calidad, sólo unos detallitos que podrían arreglar." },
+      { rating: 4, country: "Argentina", text: "En general buenas calidad, sólo unos detallitos que podrían arreglar." },
+    ],
+    articleBody: `## Qué es la bicicleta fija NICTOM Bs01
+
+Es una bicicleta de spinning reforzada a 120 kg, con volante de 6 kg y Bluetooth, la mejor calificada de [nuestra comparativa de bicicletas fijas en Argentina](/guias/fitness/bicicleta-fija). Cuesta {{precio:MLA67137053}} y tiene {{reviews:MLA67137053}} calificaciones con {{rating:MLA67137053}} estrellas.
+
+## Volante de 6 kg y estructura de aluminio
+
+El volante de inercia de 6 kg es el más pesado de esta comparativa, lo que da un pedaleo más fluido y con más sensación de spinning real. La estructura es de aluminio, con transmisión por correa, más silenciosa y con menos mantenimiento que una de cadena.
+
+## La mejor calificada del grupo
+
+Con {{rating:MLA67137053}} sobre {{reviews:MLA67137053}} opiniones, es la nota más alta de esta comparativa. Un comprador la resume bien: "en general buenas calidad, sólo unos detallitos que podrían arreglar".
+
+## La contra: el manubrio y el asiento se mueven un poco arriba
+
+Esta es la advertencia honesta antes de comprar. Un comprador lo cuenta con precisión: "el manubrio y el asiento en la posición más alta se mueven un poco, el caño tendría que ser un poco más largo para que tenga mejor agarre". El mismo comprador resolvió bajando el manubrio un escalón, con lo que quedó firme.
+
+## Para quién es, y para quién no
+
+Es para vos si buscás la bicicleta mejor calificada de esta comparativa y valorás el Bluetooth para conectar apps. No es para vos si necesitás el mayor peso soportado posible: la [LEVELFIT Levspi200](/producto/bicicleta-fija-spinning-levelfit-levspi200-reforzada-150-kg-volante-4-kg-mla62445462) de esta misma comparativa soporta 150 kg.
+
+## El veredicto
+
+Es la bicicleta mejor calificada de esta comparativa, reforzada a 120 kg y con el volante más pesado del grupo. La contra real: el manubrio y el asiento se mueven un poco en la posición más alta, aunque se resuelve bajando el manubrio un escalón.`,
+    faq: [
+      { question: "¿Por qué es la mejor calificada de la comparativa?", answer: "Tiene {{rating:MLA67137053}} de promedio sobre {{reviews:MLA67137053}} opiniones, la nota más alta entre las cuatro bicicletas de esta guía." },
+      { question: "¿Cuánto peso soporta?", answer: "120 kg, empatada con la Body Skull como el peso máximo más alto de esta comparativa (la LEVELFIT soporta más, 150 kg)." },
+      { question: "¿Tiene Bluetooth?", answer: "Sí, se puede conectar con apps de entrenamiento." },
+      { question: "¿El manubrio se mueve?", answer: "Un comprador reporta que en la posición más alta se mueve un poco, pero se resuelve bajándolo un escalón, y aclara que el asiento apenas se mueve y no molesta." },
+      { question: "¿Qué tan pesado es el volante de inercia?", answer: "6 kg, el más pesado de esta comparativa, lo que da un pedaleo más fluido." },
+      { question: "¿Es ruidosa?", answer: "No se reporta ruido en las reseñas verificadas; usa transmisión por correa, que es más silenciosa que una de cadena." },
+    ],
+  },
+  {
+    id: "MLA62445462",
+    title: "Bicicleta Fija Spinning LEVELFIT Levspi200 — Reforzada 150 kg, Volante 4 kg",
+    canonicalName: "LEVELFIT Levspi200",
+    brand: "LEVELFIT",
+    mpn: "LEVSPI200",
+    price: 269991,
+    originalPrice: 299990,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_747241-MLA98741386240_112025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_747241-MLA98741386240_112025-O.webp",
+    ],
+    category: "Fitness",
+    categorySlug: "fitness",
+    permalink: "https://www.mercadolibre.com.ar/bicicleta-spinning-fija-estatica-levelfit-levspi200-150-kg-reforzada/p/MLA62445462",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 88,
+    pastelColor: "var(--pastel-blue)",
+    specs: [
+      { label: "Marca", value: "Pontec SA (Levelfit)" },
+      { label: "Línea", value: "Spinning" },
+      { label: "Modelo", value: "spi200 / LEVSPI200" },
+      { label: "Tipo de bicicleta fija", value: "Spinning" },
+      { label: "Tipo de resistencia", value: "Mecánico" },
+      { label: "Peso del volante de inercia", value: "4 kg" },
+      { label: "Peso máximo soportado", value: "150 kg, el más alto de esta comparativa" },
+      { label: "Material de la estructura", value: "Acero" },
+      { label: "Sistema de transmisión", value: "Transmisión por correa" },
+      { label: "Con pantalla", value: "LCD, funciona a pila" },
+      { label: "Con porta botella", value: "No" },
+      { label: "Con estabilizadores de piso", value: "Sí" },
+      { label: "Con manubrio ajustable", value: "Sí" },
+      { label: "Con asiento ajustable", value: "Sí" },
+      { label: "Con ruedas de traslado", value: "Sí" },
+      { label: "Con freno de seguridad", value: "Sí" },
+      { label: "Medidas (largo x ancho x alto)", value: "93 cm x 45 cm x 1 m" },
+    ],
+    relatedProducts: ["MLA67137053", "MLA45267058", "MLA53273514"],
+    priceUpdated: "2026-09-09", priceLastChecked: "2026-09-09", priceVerifiedAt: "2026-09-09",
+    priceStatus: "fresh", reviewsSampledAt: "2026-09-09",
+    description: "Bicicleta de spinning reforzada a 150 kg, el peso máximo más alto de esta comparativa. Tiene {{reviews:MLA62445462}} calificaciones con {{rating:MLA62445462}} de promedio.",
+    seoTitle: "Bicicleta Fija LEVELFIT Levspi200: soporta 150 kg, la más reforzada",
+    metaDescription: "Bicicleta fija spinning LEVELFIT Levspi200, reforzada a 150 kg. {{reviews:MLA62445462}} opiniones y {{rating:MLA62445462}} estrellas. El asiento queda bajo para personas de más de 1,70 m.",
+    verdict: "Es la que **más peso soporta de esta comparativa: 150 kg**, y la más barata de las dos spinning del grupo. Compradores reales avisan de una limitación real: **el asiento queda bajo para personas de más de 1,70 m**, incluso en la posición más alta. Para espacios chicos y personas de estatura media es una gran opción; para personas altas, conviene mirar otra de esta comparativa.",
+    pros: [
+      "Soporta 150 kg, el peso máximo más alto de esta comparativa",
+      "La más barata de las dos bicicletas de spinning de esta guía",
+      "Compacta: 93 cm de largo, ideal para espacios chicos",
+      "Buena calidad de armado y prácticamente sin ruido, según compradores",
+      "Con estabilizadores de piso y freno de seguridad",
+    ],
+    cons: [
+      "El asiento queda bajo para personas de más de 1,70 m, incluso al tope, según varios compradores",
+      "Volante de 4 kg, el más liviano de las dos spinning de esta comparativa",
+      "Pantalla LCD básica a pila, sin Bluetooth",
+      "Un comprador con piernas largas reporta que la rodilla choca con la parte delantera",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", text: "Es chica, perfecta para algún rinconcito de la casa, yo mido 1.70 cm y va muy bien, mi marido q mide 1.86 cm ya le queda incómodo, para tener en cuenta!." },
+      { rating: 4, country: "Argentina", text: "La calidad es excelente, fácil de armar, prácticamente no hace ruido. Es inestable para hacer spinning, se banca el pedaleo tranquilo. Pero para personas de 1,60 m sigue siendo muy bajo el asiento, aunque está al tope tengo las rodillas dobladas durante el pedaleo. La única cosa negativa." },
+      { rating: 4, country: "Argentina", text: "Funciona perfectamente, lo único que puedo decir es que en mi caso al tener piernas largas me suele chocar con la parte de adelante." },
+    ],
+    articleBody: `## Qué es la bicicleta fija LEVELFIT Levspi200
+
+Es una bicicleta de spinning reforzada a 150 kg, el peso máximo más alto de [nuestra comparativa de bicicletas fijas en Argentina](/guias/fitness/bicicleta-fija). Cuesta {{precio:MLA62445462}} y tiene {{reviews:MLA62445462}} calificaciones con {{rating:MLA62445462}} estrellas.
+
+## La que más peso soporta, y la más barata de las spinning
+
+Con 150 kg de peso máximo soportado, es la de mayor capacidad de esta comparativa, y además la más barata de las dos bicicletas de spinning del grupo. Es compacta (93 cm de largo), lo que la hace una buena opción para espacios chicos.
+
+## Buena calidad de armado, según compradores
+
+Una compradora la describe así: "la calidad es excelente, fácil de armar, prácticamente no hace ruido". Trae estabilizadores de piso y freno de seguridad.
+
+## La contra real: el asiento queda bajo para personas altas
+
+Esta es la advertencia honesta antes de comprar, y la repiten varios compradores. Una compradora que mide 1,70 m dice que le va "muy bien", pero su marido, que mide 1,86 m, "ya le queda incómodo". Otra compradora de 1,60 m avisa que "sigue siendo muy bajo el asiento, aunque está al tope tengo las rodillas dobladas durante el pedaleo". Y un tercer comprador con piernas largas reporta que la rodilla le choca con la parte delantera.
+
+## Para quién es, y para quién no
+
+Es para vos si medís hasta 1,70 m aproximadamente, buscás una bicicleta compacta y valorás soportar más peso que el resto de esta comparativa. No es para vos si medís más de 1,75 m: para eso conviene mirar otra bicicleta de esta comparativa con mayor recorrido de asiento.
+
+## El veredicto
+
+Es la bicicleta que más peso soporta de esta comparativa (150 kg) y la más barata de las dos spinning. La contra real y repetida por varios compradores: el asiento queda bajo para personas de más de 1,70 m.`,
+    faq: [
+      { question: "¿Cuánto peso soporta?", answer: "150 kg, el peso máximo más alto de esta comparativa." },
+      { question: "¿Sirve para personas altas?", answer: "No tan bien. Varios compradores reportan que el asiento queda bajo incluso en la posición más alta para personas de más de 1,70 m, con las rodillas dobladas durante el pedaleo." },
+      { question: "¿Es ruidosa?", answer: "No, una compradora la describe como \"prácticamente no hace ruido\"." },
+      { question: "¿Por qué es la más barata de las spinning de esta comparativa?", answer: "Porque su volante de inercia es el más liviano de las dos (4 kg) y su pantalla es LCD básica a pila, sin Bluetooth." },
+      { question: "¿Es fácil de armar?", answer: "Sí, varios compradores lo confirman, incluida una reseña que menciona que también trae herramientas." },
+      { question: "¿Ocupa mucho espacio?", answer: "No, con 93 cm de largo es compacta, ideal para espacios chicos de la casa." },
+    ],
+  },
+  {
+    id: "MLA45267058",
+    title: "Bicicleta Fija Recumbent Body Skull — Magnética, 8 Niveles, Asiento con Respaldo",
+    canonicalName: "Body Skull H2",
+    brand: "Body Skull",
+    mpn: "bs6831",
+    price: 441599,
+    originalPrice: 567719,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_877416-MLA100021829013_122025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_877416-MLA100021829013_122025-O.webp",
+    ],
+    category: "Fitness",
+    categorySlug: "fitness",
+    permalink: "https://www.mercadolibre.com.ar/bicicleta-fija-recumbent-body-skull-magnetica-con-8-niveles-y-disco-de-inercia-de-5-kg/p/MLA45267058",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 56,
+    pastelColor: "var(--pastel-purple)",
+    specs: [
+      { label: "Marca", value: "Body Skull" },
+      { label: "Línea", value: "Home" },
+      { label: "Modelo", value: "H2 (bs6831)" },
+      { label: "Tipo de bicicleta fija", value: "Recumbent, la única reclinada de esta comparativa" },
+      { label: "Tipo de resistencia", value: "Magnético" },
+      { label: "Cantidad de niveles de resistencia", value: "8" },
+      { label: "Peso del volante de inercia", value: "5 kg" },
+      { label: "Peso máximo soportado", value: "120 kg" },
+      { label: "Material de la estructura", value: "Acero" },
+      { label: "Sistema de transmisión", value: "Transmisión por correa" },
+      { label: "Con pantalla", value: "Sí, funciones de velocidad, pulso, tiempo, distancia y calorías" },
+      { label: "Con manubrio ajustable", value: "No" },
+      { label: "Con asiento ajustable", value: "Sí, con respaldo" },
+      { label: "Con correas de pedal ajustables", value: "Sí" },
+      { label: "Con ruedas de traslado", value: "Sí" },
+      { label: "Peso de la bicicleta", value: "24 kg" },
+      { label: "Medidas (largo x ancho x alto)", value: "1,19 m x 51 cm x 98 cm" },
+    ],
+    relatedProducts: ["MLA67137053", "MLA62445462", "MLA53273514"],
+    priceUpdated: "2026-09-09", priceLastChecked: "2026-09-09", priceVerifiedAt: "2026-09-09",
+    priceStatus: "fresh", reviewsSampledAt: "2026-09-09",
+    description: "Bicicleta fija reclinada (recumbent), con respaldo y asiento tipo butaca, la única de este tipo en la comparativa. Tiene {{reviews:MLA45267058}} calificaciones con {{rating:MLA45267058}} de promedio.",
+    seoTitle: "Bicicleta Fija Recumbent Body Skull: la reclinada de esta comparativa",
+    metaDescription: "Bicicleta fija recumbent Body Skull, magnética con 8 niveles y asiento con respaldo. {{reviews:MLA45267058}} opiniones y {{rating:MLA45267058}} estrellas. Recomendada hasta 1,70 m de estatura.",
+    verdict: "Es la **única bicicleta reclinada (recumbent) de esta comparativa**, con asiento tipo butaca y respaldo, pensada para quienes necesitan cuidar la columna o buscan una posición más relajada. Compradores reales la destacan por la comodidad de la butaca. La contra real: **no se recomienda para personas de más de 1,70 m**, porque el asiento necesitaría más extensión.",
+    pros: [
+      "Única bicicleta reclinada (recumbent) de esta comparativa, ideal para cuidar la columna",
+      "Asiento tipo butaca con respaldo, muy valorado por compradores",
+      "8 niveles de resistencia magnética",
+      "Trae herramientas incluidas para el armado",
+      "Buena relación calidad-precio para el tipo recumbent, según reseñas",
+    ],
+    cons: [
+      "No se recomienda para personas de más de 1,70 m, el asiento necesitaría 10 cm más de extensión y elevación, según un comprador",
+      "El manubrio no es ajustable",
+      "Es la más cara de esta comparativa",
+      "Pesa 24 kg, la más pesada del grupo entre las que declaran peso",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", text: "Recién la armó mi marido. Está bueno que también trae herramientas para hacerlo. La encuentro re cómoda, ya que por mi columna, la necesito así y la butaca de 10 !!!. Me falta ver como se usa el marcador. Se ve material fuerte. Por el momento feliz con la compra." },
+      { rating: 4, country: "Argentina", text: "El producto es de muy buena calidad y fácil armado. No lo recomiendo para alguien de mas de 1.70 de estatura, ya que el asiento necesitaría unos 10 cm mas de extensión y elevación. Por lo demás es muy recomendable." },
+      { rating: 5, country: "Argentina", text: "Excelente, muy cómoda y facil de armar. Producto recomendado." },
+    ],
+    articleBody: `## Qué es la bicicleta fija recumbent Body Skull
+
+Es una bicicleta reclinada (recumbent), la única de este tipo en [nuestra comparativa de bicicletas fijas en Argentina](/guias/fitness/bicicleta-fija). Cuesta {{precio:MLA45267058}} y tiene {{reviews:MLA45267058}} calificaciones con {{rating:MLA45267058}} estrellas.
+
+## Asiento tipo butaca, pensada para cuidar la columna
+
+A diferencia de las otras tres bicicletas de esta comparativa (todas verticales o de spinning), esta tiene formato recumbent: asiento tipo butaca con respaldo, pedales adelante y una posición mucho más relajada. Una compradora la resume así: "la encuentro re cómoda, ya que por mi columna, la necesito así".
+
+## 8 niveles de resistencia magnética
+
+Suma resistencia magnética con 8 niveles ajustables y pantalla con funciones de velocidad, pulso, tiempo, distancia y calorías. El armado, según compradores, es sencillo, y la caja trae las herramientas necesarias.
+
+## La contra real: no es para personas de más de 1,70 m
+
+Esta es la advertencia honesta antes de comprar. Un comprador lo dice sin vueltas: "no lo recomiendo para alguien de más de 1,70 de estatura, ya que el asiento necesitaría unos 10 cm más de extensión y elevación". El resto de la experiencia la califica de muy buena calidad y fácil armado.
+
+## Para quién es, y para quién no
+
+Es para vos si buscás una bicicleta reclinada para cuidar la espalda o la columna, y medís hasta aproximadamente 1,70 m. No es para vos si sos más alto: para eso conviene mirar las bicicletas verticales o de spinning de esta misma comparativa. Tampoco es la opción si buscás la más económica: es la más cara del grupo.
+
+## El veredicto
+
+Es la única bicicleta reclinada de esta comparativa, con asiento tipo butaca muy valorado por compradores para cuidar la columna. La contra real: no se recomienda para personas de más de 1,70 m de estatura.`,
+    faq: [
+      { question: "¿Qué diferencia tiene con las otras bicicletas de la comparativa?", answer: "Es la única reclinada (recumbent) del grupo: tiene asiento tipo butaca con respaldo y pedales adelante, en vez del asiento tipo bicicleta de las otras tres." },
+      { question: "¿Sirve para personas altas?", answer: "No se recomienda para personas de más de 1,70 m, según un comprador: el asiento necesitaría unos 10 cm más de extensión y elevación." },
+      { question: "¿Cuántos niveles de resistencia tiene?", answer: "8 niveles de resistencia magnética." },
+      { question: "¿Es cómoda para la espalda?", answer: "Sí, es justamente su punto fuerte: una compradora la recomienda específicamente para cuidar la columna gracias al respaldo de la butaca." },
+      { question: "¿Es fácil de armar?", answer: "Sí, según compradores, y trae las herramientas necesarias incluidas en la caja." },
+      { question: "¿Por qué es la más cara de la comparativa?", answer: "Por el formato recumbent, que suma respaldo, asiento tipo butaca y una estructura más grande (1,19 m de largo) que las otras tres bicicletas de esta guía." },
+    ],
+  },
+  {
+    id: "MLA53273514",
+    title: "Bicicleta Fija Vertical Alpina ARG-160 — Magnética, Hogareña",
+    canonicalName: "Alpina ARG-160",
+    brand: "Alpina",
+    mpn: "ARG-160",
+    price: 161500,
+    originalPrice: 220000,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_879437-MLA106672149261_022026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_879437-MLA106672149261_022026-O.webp",
+    ],
+    category: "Fitness",
+    categorySlug: "fitness",
+    permalink: "https://www.mercadolibre.com.ar/bicicleta-fija-magnetica-vertical-hogar-alpina-arg-160-color-negro/p/MLA53273514",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.4,
+    reviewCount: 100,
+    pastelColor: "var(--pastel-slate)",
+    specs: [
+      { label: "Marca", value: "Alpina" },
+      { label: "Línea", value: "Bicicleta fija" },
+      { label: "Modelo", value: "ARG-160" },
+      { label: "Tipo de bicicleta fija", value: "Tradicional vertical" },
+      { label: "Tipo de resistencia", value: "Magnético" },
+      { label: "Peso del volante de inercia", value: "3 kg, el más liviano de esta comparativa" },
+      { label: "Peso máximo soportado", value: "100 kg, el más bajo de esta comparativa" },
+      { label: "Con pantalla", value: "Sí, multifunción: hora, velocidad, distancia, calorías, odómetro y pulso" },
+      { label: "Con manubrio ajustable", value: "Sí" },
+      { label: "Con asiento ajustable", value: "Sí" },
+      { label: "Con ruedas de traslado", value: "No" },
+      { label: "Voltaje de la pantalla", value: "1,5V (a pila)" },
+      { label: "Requiere ensamblado", value: "Sí" },
+    ],
+    relatedProducts: ["MLA67137053", "MLA62445462", "MLA45267058"],
+    priceUpdated: "2026-09-09", priceLastChecked: "2026-09-09", priceVerifiedAt: "2026-09-09",
+    priceStatus: "fresh", reviewsSampledAt: "2026-09-09",
+    description: "Bicicleta fija vertical magnética para uso hogareño, la más barata de esta comparativa. Tiene {{reviews:MLA53273514}} calificaciones con {{rating:MLA53273514}} de promedio.",
+    seoTitle: "Bicicleta Fija Alpina ARG-160: la más barata, desde {{precio:MLA53273514:k}}",
+    metaDescription: "Bicicleta fija vertical magnética Alpina ARG-160, la más barata de esta comparativa. {{reviews:MLA53273514}} opiniones y {{rating:MLA53273514}} estrellas.",
+    verdict: "Es la **opción más barata de esta comparativa**, pensada para uso hogareño liviano: pantalla multifunción, resistencia magnética y buena relación precio-calidad. Compradores reales avisan de dos detalles honestos: **hace ruidos raros durante el uso** para algunos, y otro recibió la unidad con **una falla en el estabilizador trasero**. Para un uso moderado en casa cumple; si buscás algo más robusto, las otras tres de esta comparativa rinden más.",
+    pros: [
+      "La más barata de esta comparativa por lejos",
+      "Pantalla multifunción: hora, velocidad, distancia, calorías, odómetro y pulso",
+      "Resistencia magnética silenciosa por diseño",
+      "Buena relación precio-calidad para uso hogareño, según compradores",
+      "Manubrio y asiento ajustables",
+    ],
+    cons: [
+      "Un comprador recibió la unidad con una falla en el estabilizador trasero",
+      "Otro comprador reporta ruidos raros durante el uso y duda de su durabilidad",
+      "Volante de 3 kg y peso máximo de 100 kg, los más bajos de esta comparativa",
+      "No tiene ruedas de traslado, a diferencia de las otras tres de esta guía",
+    ],
+    customerReviews: [
+      { rating: 4, country: "Argentina", text: "Es linda. Buen material, no me costó armarla, pero vino con una falla en el estabilizador trasero que trate de nivelarlo con un pedazo de cartón en forma provisoria y creo no devolverla x una cuestión de que no tengo ganas de cargarla otra vez ya que pesa unos 16kg. La computadora indica bien las pulsaciones, tiempo, calorías, km, etc. El asiento tiene buena terminación y material pero yo lo usé con un almohadoncito xq es muy duro." },
+      { rating: 4, country: "Argentina", text: "Buen producto en relación precio calidad." },
+      { rating: 4, country: "Argentina", text: "Hace unos ruidos medios raros cuando la usas. No sé si va a durar mucho. Le doy 4 estrellas porque es una solución económica para no tener que ir al gym." },
+    ],
+    articleBody: `## Qué es la bicicleta fija Alpina ARG-160
+
+Es una bicicleta vertical magnética para uso hogareño, la más barata de [nuestra comparativa de bicicletas fijas en Argentina](/guias/fitness/bicicleta-fija). Cuesta {{precio:MLA53273514}} y tiene {{reviews:MLA53273514}} calificaciones con {{rating:MLA53273514}} estrellas.
+
+## Pantalla multifunción y buena relación precio-calidad
+
+Trae pantalla con hora, velocidad, distancia, calorías, odómetro y pulso, y resistencia magnética silenciosa por diseño. Un comprador la resume bien: "buen producto en relación precio calidad".
+
+## Dos avisos honestos de compradores reales
+
+Esta es la advertencia antes de comprar. Un comprador recibió la unidad con una falla en el estabilizador trasero, que resolvió de forma provisoria con un pedazo de cartón. Otro comprador reporta "ruidos medios raros" durante el uso y no sabe si va a durar mucho tiempo, aunque igual la recomienda "como solución económica para no tener que ir al gym".
+
+## El volante más liviano y el menor peso soportado del grupo
+
+Con 3 kg de volante y 100 kg de peso máximo soportado, es la de menor capacidad de esta comparativa. Tampoco trae ruedas de traslado, a diferencia de las otras tres.
+
+## Para quién es, y para quién no
+
+Es para vos si buscás la opción más económica para uso hogareño moderado y no te molesta la posibilidad de algún detalle de armado. No es para vos si buscás algo más robusto o silencioso: para eso conviene mirar la [NICTOM Bs01](/producto/bicicleta-fija-spinning-nictom-bs01-reforzada-120-kg-volante-6-kg-bluetooth-mla67137053), la mejor calificada de esta comparativa.
+
+## El veredicto
+
+Es la bicicleta más barata de esta comparativa, con buena relación precio-calidad para uso hogareño liviano. Los avisos honestos de compradores: un caso de falla en el estabilizador trasero y otro de ruidos raros durante el uso.`,
+    faq: [
+      { question: "¿Por qué es la más barata de la comparativa?", answer: "Porque tiene el volante más liviano (3 kg) y el menor peso máximo soportado (100 kg) de las cuatro bicicletas de esta guía, además de no traer ruedas de traslado." },
+      { question: "¿Hace ruido?", answer: "Un comprador reporta ruidos raros durante el uso y duda de su durabilidad a largo plazo, aunque la sigue recomendando como opción económica." },
+      { question: "¿Llegó con algún problema de calidad?", answer: "Un comprador recibió la unidad con una falla en el estabilizador trasero, que resolvió de forma provisoria. No es un problema reportado por todos los compradores." },
+      { question: "¿Tiene ruedas para moverla?", answer: "No, a diferencia de las otras tres bicicletas de esta comparativa, la Alpina ARG-160 no trae ruedas de traslado." },
+      { question: "¿Qué funciones tiene la pantalla?", answer: "Hora, velocidad, distancia, calorías, odómetro y pulso, según su ficha técnica." },
+      { question: "¿Cuánto peso soporta?", answer: "100 kg, el más bajo de esta comparativa." },
+    ],
+  },
 ];
 
 export const categoryPastels: Record<string, string> = {

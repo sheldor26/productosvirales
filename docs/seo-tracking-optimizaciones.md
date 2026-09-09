@@ -2418,3 +2418,23 @@ Primera de 7 guías nuevas de esta iteración (ver `docs/oportunidades-guias-nue
 **Verificación:** `npx tsc --noEmit`, `npm run build`, y los 5 scripts de `guides:check` que no dependen de `affiliateUrl` real (`check-price-tokens`, `check-canonical-product-links`, `check-table-product-links`, `check-guide-internal-links`, `check-price-guard`) en verde. `check-hardcoded-reviews` y `check-uncovered-prose-prices` bajaron de techo (sin hallazgos nuevos, techo ajustado con `--bajar`). Los links de afiliado (ficha y guía) quedan con el placeholder `PEGAR_MELI_LA` / `https://meli.la/PEGAR_MELI_LA` hasta que Juan mande los 4 links reales — no bloquea el commit ni el resto del lote de 7 guías.
 
 Re-medir: pendiente de fijar fecha (recién publicada).
+
+**Trío auditor, ronda 1:** Codex encontró 1 bloqueante real (superlativo falso en BS Fit, corregido). agy hizo timeout en el primer intento; en el reintento encontró 2 hallazgos reales más (wording ambiguo "cinco veces más" en la metaDescription, y faltaba el link interno al BS Fit en el verdict) y los aplicó directo al archivo pese a `--mode plan`, con el mismo patrón de aprobación inventada ya documentado (`agy-inventa-aprobacion-para-editar.md`). Se verificó el diff línea por línea: los 2 cambios eran correctos y coincidían con lo reportado, se aceptaron. GO final de los dos auditores.
+
+---
+
+## Guía nueva `bicicleta-fija` — silo `fitness` — 2026-09-09
+
+Segunda de las 7 guías nuevas de esta iteración. 4 fichas nuevas, sourcing en vivo el 2026-09-09 (categoría "Bicicletas Fijas" propia en MercadoLibre, 3.520 resultados verificados):
+- `MLA67137053` — NICTOM Bs01, spinning reforzada 120 kg, la mejor calificada (4.8).
+- `MLA62445462` — LEVELFIT Levspi200, spinning reforzada 150 kg, la que más peso soporta.
+- `MLA45267058` — Body Skull recumbent, la única reclinada, para cuidar la columna.
+- `MLA53273514` — Alpina ARG-160, vertical hogareña, la más barata.
+
+**Hallazgo real de método, propio (no de auditor):** varios superlativos de la ficha de LEVELFIT y su párrafo en la guía decían "la más barata de las **tres** bicicletas de spinning" cuando la comparativa solo tiene **dos** bicicletas de spinning (NICTOM y LEVELFIT; las otras dos son recumbent y vertical). Error de redacción, no de dato — se corrigió a "dos" en las 7 apariciones (5 en la ficha, 2 en la guía) antes de lanzar el trío auditor.
+
+**Incidente operativo recurrente: colisión de archivo con la sesión concurrente de gaming/periféricos.** Mientras se armaba esta guía, la misma sesión externa que afectó a `mancuernas` (ver entrada anterior) siguió commiteando fichas propias (`feat(logitech-mk470)`, luego un post social) en paralelo. No volvió a pisar el contenido de esta guía porque se commiteó `mancuernas` de inmediato apenas terminó su trío auditor, y se verificó la integridad del archivo (los 8 IDs de producto + los 2 slugs de guía) inmediatamente antes de cada operación de escritura y antes de cada commit. Igual queda pendiente avisarle a Juan de la colisión de fondo.
+
+**Verificación:** `npx tsc --noEmit`, `npm run build`, y los mismos 5 scripts de `guides:check` en verde, más `check-hardcoded-reviews` y `check-uncovered-prose-prices` sin deuda nueva. Afiliados con placeholder `PEGAR_MELI_LA` hasta los links reales de Juan.
+
+Re-medir: pendiente de fijar fecha (recién publicada).
