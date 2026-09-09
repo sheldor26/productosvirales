@@ -3409,7 +3409,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     readingTime: 10,
     standfirst: `Un joystick para PC puede ser plug-and-play total o darte dolores de cabeza con Steam, y la diferencia no está en el precio: está en si es XInput o DirectInput. Te contamos qué mirar de verdad, comparando los más vendidos de Argentina con specs verificadas contra el fabricante y precios reales de MercadoLibre.`,
     quickPicks: [
-      { productMlaId: "MLA15152700", label: "El más vendido", labelColor: "green", tagline: "Redragon Saturn G807: con cable, más de 7.000 opiniones, el más barato" },
+      { productMlaId: "MLA15152700", label: "El más vendido", labelColor: "green", tagline: "Redragon Saturn G807: con cable, {{reviews:MLA15152700}} opiniones, el más barato" },
       { productMlaId: "MLA27921678", label: "El mejor puntuado", labelColor: "purple", tagline: "Harrow Pro G808 Pro: inalámbrico o cable, 4.8 estrellas" },
       { productMlaId: "MLA15152152", label: "La compra segura", labelColor: "amber", tagline: "Logitech F310: con cable, XInput documentado oficialmente" },
       { productMlaId: "MLA34724207", label: "El más completo", labelColor: "blue", tagline: "Redragon Juno G818: Bluetooth, touchpad, altavoz, hasta 24h" },
@@ -3434,9 +3434,9 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "h2", title: `Los mejores joysticks para PC 2026`, id: "ranking" },
 
       { type: "h3", title: `1. Redragon Saturn G807 — el más vendido` },
-      { type: "product-card", productMlaId: "MLA15152700", label: "El más vendido", labelColor: "green", ranking: 1, description: `Con cable, switch XInput/DirectInput confirmado por el fabricante, compatible con PS3. 4.5 estrellas en más de 7.000 calificaciones, el más vendido y barato de la guía.` },
-      { type: "p", content: `El Saturn G807 es, por lejos, el joystick con más ventas y reseñas de esta guía: más de 7.000 calificaciones. Tiene switch físico XInput/DirectInput confirmado en el sitio oficial de Redragon, así que Steam y los juegos modernos lo reconocen sin drama en modo XInput. Con cable, vibración y compatible con PS3 según el fabricante, ronda los $31.900.` },
-      { type: "p", content: `Lo honesto: Redragon lo sacó de su catálogo oficial vigente (no es un modelo "activo" de la marca, aunque funciona igual), y varios compradores reportan que a veces hay que habilitar manualmente la opción de joystick genérico en Steam la primera vez. Tampoco es compatible con PS4. Para el precio y el respaldo que tiene, sigue siendo la entrada más segura de la guía.` },
+      { type: "product-card", productMlaId: "MLA15152700", label: "El más vendido", labelColor: "green", ranking: 1, description: `Con cable, switch XInput/DirectInput confirmado por el fabricante, compatible con PS3. 4.5 estrellas en {{reviews:MLA15152700}} calificaciones, el más vendido y barato de la guía.` },
+      { type: "p", content: `El Saturn G807 es, por lejos, el joystick con más ventas y reseñas de esta guía: {{reviews:MLA15152700}} calificaciones. Tiene switch físico XInput/DirectInput confirmado en el sitio oficial de Redragon, así que Steam y los juegos modernos lo reconocen sin drama en modo XInput. Con cable, vibración, unos 300 gramos de peso y compatible con PS3 según el fabricante, ronda los $31.900.` },
+      { type: "p", content: `Lo honesto: Redragon lo sacó de su catálogo oficial vigente (no es un modelo "activo" de la marca, aunque funciona igual), y varios compradores reportan que a veces hay que habilitar manualmente la opción de joystick genérico en Steam la primera vez. Tampoco es compatible con PS4. Es un joystick pensado para uso casual (1-2 horas por día): con uso diario intensivo el botón más presionado puede aflojarse con el tiempo. Para el precio y el respaldo que tiene, sigue siendo la entrada más segura de la guía.` },
       { type: "pull-quote", content: `"Muy cómodo, muy buena relación calidad precio. Estéticamente me parece horrible, pero en funcionamiento, comodidad y calidad es un 10/10."`, attribution: `Opinión verificada en MercadoLibre` },
 
       { type: "h3", title: `2. Redragon Harrow G808 — el inalámbrico más vendido` },

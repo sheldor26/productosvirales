@@ -56274,6 +56274,8 @@ Para quien quiere algo más que un corte estándar, con la posibilidad de hacer 
       { label: "Compatible con", value: "PC (Windows), PS3 según fabricante" },
       { label: "Bluetooth", value: "No" },
       { label: "Tamaño", value: "16 x 10 x 5,5 cm" },
+      { label: "Peso", value: "Aprox. 300-310 g" },
+      { label: "Botones especiales", value: "Turbo (repite el botón elegido automáticamente) y Clear (resetea esa configuración)" },
     ],
     relatedProducts: ["MLA15086696", "MLA15152152"],
     priceUpdated: "2026-09-09",
@@ -56295,6 +56297,7 @@ Para quien quiere algo más que un corte estándar, con la posibilidad de hacer 
       "Varios compradores reportan que Windows o Steam no lo reconocen a la primera y hay que habilitar manualmente la opción de joystick genérico",
       "Zona muerta grande en los sticks antes de que el movimiento se registre, según varias reseñas",
       "Sin Bluetooth ni modo inalámbrico",
+      "Pensado para uso casual (1-2 horas por día): con uso diario intensivo, reseñas de largo plazo reportan que el botón más presionado (la X) se afloja un poco con el tiempo",
     ],
     articleBody: `## Qué es y para quién
 
@@ -56302,20 +56305,26 @@ El Redragon Saturn G807 es un joystick con cable pensado para PC, con switch fí
 
 ## Lo bueno
 
-El dato más importante: el switch XInput/DirectInput está confirmado en el sitio oficial de Redragon, así que no es humo de la publicación. En modo XInput, Steam y la mayoría de los juegos modernos lo reconocen como si fuera un control de Xbox, sin configurar nada. Es compatible con PS3 según el fabricante (por cable), y a $31.900 es el más barato de toda la guía. Tiene vibración y un diseño ergonómico que las reseñas describen como cómodo.
+El dato más importante: el switch XInput/DirectInput está confirmado en el sitio oficial de Redragon, así que no es humo de la publicación. En modo XInput, Steam y la mayoría de los juegos modernos lo reconocen como si fuera un control de Xbox, sin configurar nada. Es compatible con PS3 según el fabricante (por cable), y a $31.900 es el más barato de toda la guía. Tiene vibración, pesa alrededor de 300 gramos y un diseño ergonómico que las reseñas describen como cómodo.
+
+También trae dos botones que no siempre se entienden a simple vista: Turbo y Clear. Manteniendo presionado Turbo y tocando el botón que quieras, ese botón queda repitiéndose solo de forma automática (útil, por ejemplo, para disparar sin tener que apretar cada vez en un shooter). Clear resetea esa configuración y vuelve todo a la normalidad.
 
 ## La contra real
 
 Dos cosas para saber antes de comprar. Primero: Redragon lo sacó de su catálogo oficial vigente (no aparece en la tienda oficial actual de la marca), aunque eso no afecta su funcionamiento, solo significa que no es "el modelo del momento" de la marca. Segundo: hay un patrón real de compradores que reportan que Windows o Steam no lo detectan automáticamente la primera vez, y hay que habilitar manualmente la opción de joystick genérico en la configuración de Steam. No es un fallo grave, pero si esperás plug-and-play total sin tocar nada, sumá ese paso extra. También varias reseñas mencionan una zona muerta grande en los sticks antes de que el movimiento se registre.
 
+Un dato honesto sobre durabilidad: es un joystick pensado para uso casual, de 1 a 2 horas por día. Una reseña de largo plazo (7 meses de uso diario) reporta que el botón más presionado, la X, se aflojó un poco con el tiempo frente a los demás botones, aunque siguió funcionando. Si lo vas a usar varias horas todos los días como reemplazo de un control de consola, conviene tener esa expectativa ajustada: para eso rinde mejor un control pensado para uso intensivo.
+
 ## Para quién sí y para quién no
 
-Comprálo si buscás la entrada más barata y más probada de esta guía, con cable (sin preocuparte por batería) y no te molesta configurar el modo de entrada en Steam si hace falta. No lo compres si buscás algo inalámbrico, si vas a jugar en PS4 (no es compatible según el fabricante) o si preferís un modelo vigente en el catálogo activo de la marca.`,
+Comprálo si buscás la entrada más barata y más probada de esta guía, con cable (sin preocuparte por batería), lo vas a usar de forma casual (una o dos horas por día) y no te molesta configurar el modo de entrada en Steam si hace falta. No lo compres si buscás algo inalámbrico, si vas a jugar en PS4 (no es compatible según el fabricante), si lo vas a usar muchas horas todos los días, o si preferís un modelo vigente en el catálogo activo de la marca.`,
     faq: [
       { question: "¿El Redragon Saturn G807 funciona con Steam sin configurar nada?", answer: "En la mayoría de los casos sí, en modo XInput. Pero varios compradores reportan que a veces Windows o Steam no lo reconocen a la primera, y hay que habilitar manualmente la opción de joystick genérico en la configuración de Steam." },
       { question: "¿Es compatible con PS4?", answer: "No. Según el fabricante, es compatible con PC y PS3, pero no con PS4." },
       { question: "¿Tiene modo XInput y DirectInput?", answer: "Sí, tiene un switch físico para elegir entre los dos modos, confirmado en el sitio oficial de Redragon. XInput es el recomendado para la mayoría de los juegos modernos." },
       { question: "¿Por qué está descontinuado si se sigue vendiendo?", answer: "Redragon ya no lo lista en su catálogo oficial vigente, pero eso no afecta su funcionamiento: sigue siendo un joystick con cable simple, sin firmware que requiera actualizaciones." },
+      { question: "¿Para qué sirven los botones Turbo y Clear?", answer: "Turbo hace que, si lo mantenés presionado junto con otro botón, ese botón se repita solo de forma automática (útil para disparar rápido en shooters, por ejemplo). Clear resetea esa configuración de turbo y vuelve todo a la normalidad." },
+      { question: "¿Aguanta el uso diario intensivo?", answer: "Está pensado más bien para uso casual, de 1 a 2 horas por día. Una reseña de largo plazo (7 meses de uso diario) reporta que el botón más presionado, la X, se aflojó un poco con el tiempo, aunque siguió funcionando. Si lo vas a usar muchas horas todos los días, un control pensado para uso intensivo va a rendir mejor." },
     ],
   },
 
