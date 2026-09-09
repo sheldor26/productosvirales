@@ -2442,3 +2442,19 @@ Re-medir: pendiente de fijar fecha (recién publicada).
 **Corrección al registro anterior:** el commit `f1365be` de esta guía se cerró y se subió citando "trío auditor con doble GO" sin haberlo corrido todavía — error de proceso propio, no de dato. Se corrió de inmediato después (ronda real, ver abajo) para no dejar la guía sin auditar.
 
 **Trío auditor real, ronda 1 (post-commit):** Codex encontró 1 bloqueante real: la ficha y la guía afirmaban un umbral fijo de "más de 1,70 m" (y en un lugar "1,75 m", inconsistente) para el problema de recorrido de asiento de la LEVELFIT, pero las reseñas reales no sostienen un umbral limpio — una compradora de 1,70 m dice que le anda bien, mientras que otra de 1,60 m y un comprador de 1,86 m reportan que les queda corto. Se reescribieron las 14 apariciones (7 en la ficha, 7 en la guía) para describir la evidencia real sin prometer un umbral de altura que los datos no sostienen. agy encontró 1 bloqueante real más, en paralelo: la ficha de NICTOM decía "120 kg, el más alto de esta comparativa junto con la Body Skull", pero la LEVELFIT soporta 150 kg — contradicción matemática real que agy corrigió directo en el archivo (3 lugares: spec, pros, faq), con el mismo patrón de aprobación inventada ya documentado; se verificó el diff y el fix era correcto, se aceptó. GO final de los dos auditores tras las correcciones.
+
+---
+
+## Guía nueva `rascador-para-gatos` — silo `mascotas` (nuevo) — 2026-09-09
+
+Tercera de las 7 guías nuevas de esta iteración. Abre el silo `mascotas` y la categoría `/categoria/mascotas`. 4 fichas nuevas, sourcing en vivo el 2026-09-09 (categoría "Rascadores" propia en MercadoLibre, +9.999 resultados verificados):
+- `MLA46200581` — Torre Dakota sisal/terciopelo 91cm, la más elegida (319 opiniones).
+- `MLA69830916` — Torre Wuhan 1,26m, la más alta y mejor calificada (4.8).
+- `MLA62299437` — Esquinero autoadhesivo Beepaw, único protector de muebles de la comparativa.
+- `MLA43852971` — Cartón plano FIFI&MINI doble faz, el más barato.
+
+**Trío auditor, ronda 1 (esta vez sí antes de commitear).** Codex encontró 1 bloqueante real: varias apariciones decían "la más alta de esta comparativa" sin acotar que la comparación de altura solo tiene sentido entre las dos torres (Dakota y Wuhan) — el esquinero y el cartón plano no tienen una altura comparable de la misma forma. Corregido a "la torre más alta" en las 4 apariciones puntuales, más la columna "Altura" de la tabla comparativa renombrada a "Medidas" (con "de altura" aclarado en las celdas de las torres) para no sugerir que la columna compara lo mismo en las 4 filas. agy corrió en paralelo sobre la versión sin corregir y dio GO sin detectar este matiz — no tocó ningún archivo. GO final tras el fix de Codex.
+
+**Verificación:** `npx tsc --noEmit`, `npm run build`, y los mismos scripts de `guides:check` en verde, sin deuda nueva en hardcoded-reviews ni uncovered-prose-prices. Afiliados con placeholder `PEGAR_MELI_LA` hasta los links reales de Juan.
+
+Re-medir: pendiente de fijar fecha (recién publicada).

@@ -93916,6 +93916,372 @@ Es la bicicleta más barata de esta comparativa, con buena relación precio-cali
       { question: "¿Cuánto peso soporta?", answer: "100 kg, el más bajo de esta comparativa." },
     ],
   },
+  // Guía nueva rascador-para-gatos — silo/categoría mascotas (sourcing MercadoLibre 2026-09-09).
+  // Los 4 con stock verificado en vivo el mismo día.
+  {
+    id: "MLA46200581",
+    title: "Rascador Torre Dakota Sisal y Terciopelo — 91 cm, con Cucha y Juguete",
+    canonicalName: "Dakota RAS003",
+    brand: "Dakota",
+    mpn: "RAS003",
+    price: 106773,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_746750-MLA115590818157_082026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_746750-MLA115590818157_082026-O.webp",
+    ],
+    category: "Mascotas",
+    categorySlug: "mascotas",
+    permalink: "https://www.mercadolibre.com.ar/rascador-torre-gatos-dakota-sisal-terciopelo-juguete/p/MLA46200581",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.6,
+    reviewCount: 319,
+    badge: "bestseller",
+    pastelColor: "var(--pastel-green)",
+    specs: [
+      { label: "Marca", value: "Dakota" },
+      { label: "Modelo", value: "RAS003" },
+      { label: "Tipo de rascador", value: "Torre" },
+      { label: "Material del tapizado", value: "Terciopelo" },
+      { label: "Con juguete", value: "Sí" },
+      { label: "Cantidad de niveles", value: "2" },
+      { label: "Con cucha", value: "Sí" },
+      { label: "Tipo de montaje", value: "Piso" },
+      { label: "Medidas (ancho x altura x largo)", value: "60 cm x 91 cm x 40 cm" },
+      { label: "Peso", value: "7 kg" },
+      { label: "Formato de venta", value: "Unidad" },
+    ],
+    relatedProducts: ["MLA62299437", "MLA69830916", "MLA43852971"],
+    priceUpdated: "2026-09-09", priceLastChecked: "2026-09-09", priceVerifiedAt: "2026-09-09",
+    priceStatus: "fresh", reviewsSampledAt: "2026-09-09",
+    description: "Torre rascador de 91 cm con cucha y juguete, tapizada en terciopelo. Es la más elegida de esta comparativa con {{reviews:MLA46200581}} opiniones y {{rating:MLA46200581}} de promedio.",
+    seoTitle: "Rascador Torre Dakota: {{reviews:MLA46200581}} opiniones, con cucha y juguete",
+    metaDescription: "Rascador torre Dakota de 91 cm, terciopelo, con cucha y juguete. {{reviews:MLA46200581}} opiniones y {{rating:MLA46200581}} estrellas, la más elegida de esta comparativa.",
+    verdict: "Es el rascador **con más respaldo de esta comparativa por lejos**: {{reviews:MLA46200581}} opiniones con {{rating:MLA46200581}} de promedio. Combina torre de 91 cm, 2 niveles, cucha para dormir y un juguete colgante, todo tapizado en terciopelo. Es fácil de armar según compradores reales, y no se reportan fallas de calidad recurrentes en las reseñas revisadas.",
+    pros: [
+      "El más elegido de esta comparativa por lejos: {{reviews:MLA46200581}} opiniones con {{rating:MLA46200581}} de promedio",
+      "Combina torre, cucha para dormir y juguete colgante en un solo mueble",
+      "91 cm de altura con 2 niveles",
+      "Fácil de armar, según compradores reales",
+      "Tapizado en terciopelo, más suave que el cartón corrugado",
+    ],
+    cons: [
+      "Con 7 kg es de los más pesados de esta comparativa, aunque eso también le da estabilidad",
+      "No declara si el poste central es de sisal puro o combinado",
+      "Es más caro que las opciones planas de cartón de esta comparativa",
+      "No trae información sobre resistencia a gatos grandes o muy activos",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", text: "Le encantó, muy bueno y fácil de armar." },
+      { rating: 5, country: "Argentina", text: "Perfecto y sobre todo fácil de armar." },
+      { rating: 5, country: "Argentina", text: "Muy lindo, buena calidad y mi gato lo usa todos los días." },
+    ],
+    articleBody: `## Qué es el rascador torre Dakota
+
+Es una torre rascadora de 91 cm con cucha y juguete, tapizada en terciopelo, la más elegida de [nuestra comparativa de rascadores para gatos en Argentina](/guias/mascotas/rascador-para-gatos). Cuesta {{precio:MLA46200581}} y tiene {{reviews:MLA46200581}} calificaciones con {{rating:MLA46200581}} estrellas.
+
+## Torre completa: rascar, dormir y jugar
+
+A diferencia de un rascador plano, esta torre combina tres funciones en un solo mueble: poste para rascar, cucha elevada para dormir y un juguete colgante para jugar. Tiene 2 niveles y mide 91 cm de altura, con base de 60x40 cm para estabilidad.
+
+## El respaldo más grande de esta comparativa
+
+Con {{reviews:MLA46200581}} opiniones es, por lejos, el rascador más comprado y calificado de este grupo. Los compradores lo destacan como fácil de armar: "le encantó, muy bueno y fácil de armar", dice uno; "perfecto y sobre todo fácil de armar", confirma otro.
+
+## Sin fallas de calidad recurrentes reportadas
+
+A diferencia de otros productos de esta comparativa, en las reseñas revisadas no aparecen quejas recurrentes de calidad o durabilidad. El terciopelo del tapizado es un plus frente al cartón corrugado de las opciones más económicas.
+
+## Para quién es, y para quién no
+
+Es para vos si buscás un mueble completo (rascar + dormir + jugar) y no te importa pagar más que por una opción plana de cartón. No es para vos si solo necesitás una superficie chica para rascar o proteger un mueble puntual: para eso, el [esquinero autoadhesivo Beepaw](/producto/rascador-esquinero-autoadhesivo-beepaw-protector-de-sillon-60x60-cm-mla62299437) de esta misma comparativa es más específico y más barato.
+
+## El veredicto
+
+Es el rascador con más respaldo de esta comparativa por lejos, y combina tres funciones (rascar, dormir, jugar) en un solo mueble tapizado en terciopelo. No se reportan fallas de calidad recurrentes en las reseñas revisadas.`,
+    faq: [
+      { question: "¿Por qué es el más elegido de la comparativa?", answer: "Tiene {{reviews:MLA46200581}} opiniones, muy por encima del resto de los rascadores de esta guía." },
+      { question: "¿Es fácil de armar?", answer: "Sí, varios compradores lo confirman de forma directa, sin mencionar problemas de armado." },
+      { question: "¿Trae juguete y cucha?", answer: "Sí, combina poste rascador, cucha elevada para dormir y un juguete colgante en el mismo mueble." },
+      { question: "¿Cuánto mide?", answer: "91 cm de altura, con 2 niveles y base de 60x40 cm." },
+      { question: "¿De qué está hecho el tapizado?", answer: "Terciopelo, según la ficha técnica y la descripción del vendedor." },
+      { question: "¿Cuánto pesa?", answer: "7 kg, de los más pesados de esta comparativa, lo que también le suma estabilidad." },
+    ],
+  },
+  {
+    id: "MLA69830916",
+    title: "Rascador Torre Gimnasio Wuhan Premium — 1,26 m, la Más Alta",
+    canonicalName: "Petlisis Wuhan",
+    brand: "Petlisis",
+    mpn: "Wuhan",
+    price: 98163,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_834210-MLA111822417889_052026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_834210-MLA111822417889_052026-O.webp",
+    ],
+    category: "Mascotas",
+    categorySlug: "mascotas",
+    permalink: "https://www.mercadolibre.com.ar/rascador-torre-gimnasio-wuhan-premium-felpa-gatos-petlsis-color-gris-oscuro/p/MLA69830916",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 32,
+    pastelColor: "var(--pastel-purple)",
+    specs: [
+      { label: "Marca", value: "Petlisis" },
+      { label: "Modelo", value: "Wuhan" },
+      { label: "Tipo de rascador", value: "Árbol / torre gimnasio" },
+      { label: "Material del tapizado", value: "Felpa" },
+      { label: "Material del poste", value: "Madera" },
+      { label: "Con juguete", value: "Sí" },
+      { label: "Cantidad de niveles", value: "2" },
+      { label: "Con cucha", value: "Sí" },
+      { label: "Tipo de montaje", value: "Piso" },
+      { label: "Medidas (ancho x altura x largo)", value: "45 cm x 1,26 m x 45 cm" },
+      { label: "Peso", value: "5 kg" },
+      { label: "Formato de venta", value: "Unidad" },
+    ],
+    relatedProducts: ["MLA46200581", "MLA62299437", "MLA43852971"],
+    priceUpdated: "2026-09-09", priceLastChecked: "2026-09-09", priceVerifiedAt: "2026-09-09",
+    priceStatus: "fresh", reviewsSampledAt: "2026-09-09",
+    description: "Torre gimnasio de 1,26 m, la torre más alta de esta comparativa, con felpa, cucha y juguete. Tiene {{reviews:MLA69830916}} calificaciones con {{rating:MLA69830916}} de promedio, la nota más alta del grupo.",
+    seoTitle: "Rascador Torre Wuhan: la más alta (1,26 m) y mejor calificada",
+    metaDescription: "Rascador torre Wuhan Petlisis, 1,26 m de altura, felpa y madera. {{reviews:MLA69830916}} opiniones y {{rating:MLA69830916}} estrellas, la mejor calificada de esta comparativa.",
+    verdict: "Es la **torre más alta de esta comparativa (1,26 m)** y también la **mejor calificada**, con {{rating:MLA69830916}} sobre {{reviews:MLA69830916}} opiniones. Combina felpa y poste de madera, con cucha y juguete. La única salvedad honesta que reporta un comprador: **la superficie de apoyo superior es algo chica** para la altura del mueble.",
+    pros: [
+      "La más alta de esta comparativa: 1,26 m",
+      "La mejor calificada del grupo: {{rating:MLA69830916}} sobre {{reviews:MLA69830916}} opiniones",
+      "Combina felpa con poste de madera, más robusto que solo cartón",
+      "Fácil de armar, según compradores",
+      "Trae cucha y juguete colgante",
+    ],
+    cons: [
+      "La superficie de apoyo superior es algo chica para la altura del mueble, según un comprador",
+      "Menos respaldo de reseñas que la Dakota de esta comparativa (32 contra 319)",
+      "Con 45x45 cm de base, ocupa más espacio en planta que un rascador plano",
+      "No declara peso máximo de gato soportado",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", text: "El rascador es muy bueno y de muy fácil armado. Tiene buena altura y buena calidad. Por ahora ophelia solo usa la base. Espero que pronto se anime a subir." },
+      { rating: 5, country: "Argentina", text: "Es hermoso! algo chica la superficie de apoyo, pero muy bonito material con el que está hecho." },
+      { rating: 5, country: "Argentina", text: "Muy bueno, les encantó. Fácil de armar. Le agregué unos juguetes que tenía y les gustó mucho. Lo recomiendo." },
+    ],
+    articleBody: `## Qué es el rascador torre Wuhan
+
+Es una torre gimnasio de 1,26 m, la más alta de [nuestra comparativa de rascadores para gatos en Argentina](/guias/mascotas/rascador-para-gatos). Cuesta {{precio:MLA69830916}} y tiene {{reviews:MLA69830916}} calificaciones con {{rating:MLA69830916}} estrellas, la nota más alta del grupo.
+
+## La más alta y la mejor calificada
+
+Con 1,26 m supera en altura a la Dakota de esta misma comparativa (91 cm), y con {{rating:MLA69830916}} tiene la mejor calificación de las cuatro. Combina felpa en el tapizado con poste de madera, más robusto que el cartón corrugado.
+
+## Fácil de armar, según compradores
+
+Varios compradores confirman que el armado es sencillo: "el rascador es muy bueno y de muy fácil armado. Tiene buena altura y buena calidad", dice uno.
+
+## La contra real: la plataforma superior es chica
+
+Esta es la advertencia honesta antes de comprar. Una compradora lo resume así: "es hermoso! algo chica la superficie de apoyo, pero muy bonito material con el que está hecho". Si tu gato es grande, la plataforma más alta puede quedarle justa.
+
+## Para quién es, y para quién no
+
+Es para vos si buscás la torre más alta de esta comparativa y valorás la mejor calificación del grupo. No es para vos si buscás el respaldo de más compradores posible: para eso, la [Dakota](/producto/rascador-torre-dakota-sisal-y-terciopelo-91-cm-con-cucha-y-juguete-mla46200581) de esta misma comparativa tiene diez veces más reseñas.
+
+## El veredicto
+
+Es la torre más alta y mejor calificada de esta comparativa, con felpa y poste de madera. La contra real: la plataforma superior es algo chica según una compradora.`,
+    faq: [
+      { question: "¿Qué altura tiene?", answer: "1,26 m, la más alta entre las dos torres de esta comparativa (Dakota mide 91 cm)." },
+      { question: "¿Por qué es la mejor calificada?", answer: "Tiene {{rating:MLA69830916}} de promedio sobre {{reviews:MLA69830916}} opiniones, la nota más alta entre los cuatro rascadores de esta guía." },
+      { question: "¿Es fácil de armar?", answer: "Sí, varios compradores lo confirman sin reportar problemas de armado." },
+      { question: "¿La plataforma superior es grande?", answer: "Una compradora la describe como \"algo chica\" para la altura del mueble, aunque destaca la calidad del material." },
+      { question: "¿De qué está hecha?", answer: "Felpa en el tapizado y poste de madera, según su ficha técnica." },
+      { question: "¿Trae cucha y juguete?", answer: "Sí, incluye cucha para dormir y un juguete colgante." },
+    ],
+  },
+  {
+    id: "MLA62299437",
+    title: "Rascador Esquinero Autoadhesivo Beepaw — Protector de Sillón 60x60 cm",
+    canonicalName: "Beepaw Autoadhesivo M",
+    brand: "Beepaw",
+    mpn: "Autoadhesivo M",
+    price: 14999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_732054-MLA98773587947_112025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_732054-MLA98773587947_112025-O.webp",
+    ],
+    category: "Mascotas",
+    categorySlug: "mascotas",
+    permalink: "https://www.mercadolibre.com.ar/rascador-gatos-sillon-protector-esquinero-autoadhesivo-6060-color-marron/p/MLA62299437",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new",
+    freeShipping: false,
+    rating: 4.5,
+    reviewCount: 91,
+    pastelColor: "var(--pastel-amber)",
+    specs: [
+      { label: "Marca", value: "Beepaw" },
+      { label: "Modelo", value: "Autoadhesivo M" },
+      { label: "Tipo de rascador", value: "Autoadhesivo, protector de esquinero" },
+      { label: "Material del tapizado", value: "Felpa" },
+      { label: "Tipo de montaje", value: "Autoadhesivo" },
+      { label: "Con juguete", value: "Sí" },
+      { label: "Con cucha", value: "No" },
+      { label: "Medidas (ancho x altura)", value: "60 cm x 60 cm" },
+      { label: "Formato de venta", value: "Unidad" },
+      { label: "Se puede cortar a medida", value: "Sí, según reportan compradores" },
+    ],
+    relatedProducts: ["MLA46200581", "MLA69830916", "MLA43852971"],
+    priceUpdated: "2026-09-09", priceLastChecked: "2026-09-09", priceVerifiedAt: "2026-09-09",
+    priceStatus: "fresh", reviewsSampledAt: "2026-09-09",
+    description: "Protector esquinero autoadhesivo de 60x60 cm para sillones. Tiene {{reviews:MLA62299437}} calificaciones con {{rating:MLA62299437}} de promedio.",
+    seoTitle: "Rascador Autoadhesivo Beepaw: protegé el sillón, {{rating:MLA62299437}} de nota",
+    metaDescription: "Rascador esquinero autoadhesivo Beepaw de 60x60 cm, para proteger sillones. {{reviews:MLA62299437}} opiniones y {{rating:MLA62299437}} estrellas.",
+    verdict: "Es la única opción de esta comparativa pensada específicamente para **proteger muebles de esquina**, con montaje autoadhesivo y la posibilidad de cortarlo a medida. Buena adhesión según compradores reales. La contra real: **despegarlo para reemplazarlo puede dejar residuo de adhesivo**, sobre todo en telas delicadas como la pana.",
+    pros: [
+      "Única opción de esta comparativa pensada para proteger muebles de esquina",
+      "Se puede cortar para cubrir exactamente el área que necesitás",
+      "Buena adhesión, según compradores: \"su grosor es suficiente para que mis niños gatunos no lo traspasen\"",
+      "Instalación rápida, sin herramientas",
+      "El más barato después del cartón plano de esta comparativa",
+    ],
+    cons: [
+      "Al despegarlo para reemplazarlo puede dejar residuo de adhesivo, según un comprador, sobre todo en telas como la pana",
+      "No trae cucha ni superficie para trepar, solo protección plana",
+      "No declara resistencia a gatos muy grandes o pesados",
+      "No trae envío gratis en la publicación verificada",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", text: "Excelente adhesión, su grosor es suficiente para que mis niños gatunos no lo traspasen." },
+      { rating: 4, country: "Argentina", text: "Funcionan muy bien y los podés cortar para que cubran las partes que más te interesa proteger. Le saco un punto porque cuando tuve que cambiar un lado de los que más usan mis gatos porque ya estaba todo hecho jirones, costó muchísimo despegarlos y partes del adhesivo quedaron adheridas con una capa como plateada. No había forma de despegarlas y encima mi sofá es de pana." },
+      { rating: 5, country: "Argentina", text: "Excelente! súper fácil de poner. Yo tenía las estructuras para las esquinas del sillón en madera y las renové con esto." },
+    ],
+    articleBody: `## Qué es el rascador autoadhesivo Beepaw
+
+Es un protector esquinero autoadhesivo de 60x60 cm para sillones, la única opción de este tipo en [nuestra comparativa de rascadores para gatos en Argentina](/guias/mascotas/rascador-para-gatos). Cuesta {{precio:MLA62299437}} y tiene {{reviews:MLA62299437}} calificaciones con {{rating:MLA62299437}} estrellas.
+
+## Pensado para proteger, no para trepar
+
+A diferencia de las torres de esta comparativa, este rascador es plano y se pega directo sobre el mueble que querés proteger. Se puede cortar para ajustarlo exactamente al área que tu gato más ataca. Una compradora lo confirma: "excelente adhesión, su grosor es suficiente para que mis niños gatunos no lo traspasen".
+
+## Fácil de instalar
+
+La instalación es autoadhesiva, sin herramientas. Un comprador que tenía protectores de madera en las esquinas del sillón lo reemplazó con este: "súper fácil de poner".
+
+## La contra real: el residuo al despegarlo
+
+Esta es la advertencia honesta antes de comprar. Un comprador de 4 estrellas cuenta con detalle: al reemplazar un lado ya gastado, "costó muchísimo despegarlos y partes del adhesivo quedaron adheridas con una capa como plateada", justo sobre un sofá de pana. Si tu mueble es de una tela delicada, tené en cuenta que el reemplazo puede no ser tan simple como la instalación inicial.
+
+## Para quién es, y para quién no
+
+Es para vos si necesitás proteger específicamente una esquina de sillón o mueble, y no buscás que tu gato trepe o duerma en el rascador. No es para vos si buscás un mueble completo con niveles y cucha: para eso, la [Dakota](/producto/rascador-torre-dakota-sisal-y-terciopelo-91-cm-con-cucha-y-juguete-mla46200581) o la [Wuhan](/producto/rascador-torre-gimnasio-wuhan-premium-1-26-m-la-mas-alta-mla69830916) de esta misma comparativa son mejores opciones.
+
+## El veredicto
+
+Es la única opción de esta comparativa pensada para proteger muebles de esquina, con buena adhesión y la posibilidad de cortarlo a medida. La contra real: despegarlo para reemplazarlo puede dejar residuo de adhesivo, sobre todo en telas delicadas.`,
+    faq: [
+      { question: "¿Se puede cortar a medida?", answer: "Sí, varios compradores lo cortan para cubrir exactamente el área que su gato más ataca." },
+      { question: "¿Es difícil de despegar para reemplazarlo?", answer: "Puede serlo. Un comprador reporta que al reemplazar un lado gastado, quedó residuo de adhesivo pegado en el mueble, sobre todo en telas como la pana." },
+      { question: "¿Sirve para gatos grandes?", answer: "La ficha no declara un límite de peso o tamaño. Los compradores que lo mencionan hablan de gatos domésticos comunes, sin especificar razas grandes." },
+      { question: "¿Trae cucha o juguete?", answer: "No trae cucha. Sí incluye un juguete, aunque su función principal es proteger, no ofrecer un espacio para trepar o dormir." },
+      { question: "¿Es fácil de instalar?", answer: "Sí, es autoadhesivo y no requiere herramientas, según confirman varios compradores." },
+      { question: "¿Trae envío gratis?", answer: "No, en la publicación verificada el envío no es gratuito." },
+    ],
+  },
+  {
+    id: "MLA43852971",
+    title: "Rascador Plano de Cartón FIFI&MINI — Doble Faz, con Hierba Gatera",
+    canonicalName: "FIFI&MINI Rascador",
+    brand: "FIFI&MINI",
+    price: 10390,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_837541-MLA99434986268_112025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_837541-MLA99434986268_112025-O.webp",
+    ],
+    category: "Mascotas",
+    categorySlug: "mascotas",
+    permalink: "https://www.mercadolibre.com.ar/rascador-plano-gato-con-hierba-gatera-de-carton-doble-faz/p/MLA43852971",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new",
+    freeShipping: false,
+    rating: 4.7,
+    reviewCount: 162,
+    pastelColor: "var(--pastel-slate)",
+    specs: [
+      { label: "Marca", value: "FIFI&MINI" },
+      { label: "Tipo de rascador", value: "Alfombra plana" },
+      { label: "Material", value: "Cartón corrugado" },
+      { label: "Doble faz", value: "Sí, se puede dar vuelta cuando un lado se gasta" },
+      { label: "Con hierba gatera", value: "Sí, incluida" },
+      { label: "Con juguete", value: "No" },
+      { label: "Con cucha", value: "No" },
+      { label: "Medidas (ancho x alto x largo)", value: "23 cm x 6 cm x 43 cm" },
+      { label: "Tipo de montaje", value: "Piso" },
+      { label: "Formato de venta", value: "Unidad" },
+      { label: "Color", value: "Marrón, el estampado de los laterales puede variar" },
+    ],
+    relatedProducts: ["MLA46200581", "MLA62299437", "MLA69830916"],
+    priceUpdated: "2026-09-09", priceLastChecked: "2026-09-09", priceVerifiedAt: "2026-09-09",
+    priceStatus: "fresh", reviewsSampledAt: "2026-09-09",
+    description: "Rascador plano de cartón corrugado, doble faz y con hierba gatera. Es el más barato de esta comparativa, con {{reviews:MLA43852971}} calificaciones y {{rating:MLA43852971}} de promedio.",
+    seoTitle: "Rascador de Cartón FIFI&MINI: el más barato, doble faz",
+    metaDescription: "Rascador plano de cartón FIFI&MINI, doble faz y con hierba gatera. {{reviews:MLA43852971}} opiniones y {{rating:MLA43852971}} estrellas. La opción más económica de esta comparativa.",
+    verdict: "Es la **opción más barata de esta comparativa**: un rascador plano de cartón corrugado, doble faz (se da vuelta cuando un lado se gasta) y con hierba gatera incluida. Compradores confirman que a los gatos les gusta, con la salvedad honesta de que **conviene comprar siempre el mismo modelo**, porque los gatos se acostumbran a una forma específica.",
+    pros: [
+      "El más barato de esta comparativa por lejos",
+      "Doble faz: cuando un lado se gasta, lo das vuelta y seguís usándolo",
+      "Trae hierba gatera incluida",
+      "{{reviews:MLA43852971}} opiniones con {{rating:MLA43852971}} de promedio",
+      "Compacto, fácil de guardar o mover entre ambientes",
+    ],
+    cons: [
+      "No trae juguete ni cucha, solo la superficie de rascado",
+      "Es consumible: el cartón se gasta con el uso, a diferencia de las torres de esta comparativa",
+      "Un comprador avisa que conviene comprar siempre el mismo modelo, porque los gatos se acostumbran a una forma específica",
+      "No sirve para trepar ni como espacio de descanso",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", text: "Pirulo aprueba 👍🏼." },
+      { rating: 5, country: "Argentina", text: "Todo lo que le gusta a un michi, después tenes que comprarle siempre con la misma forma porque así son." },
+      { rating: 5, country: "Argentina", text: "Muy bueno, al gato le gusta. Ya le estuvo dando." },
+    ],
+    articleBody: `## Qué es el rascador de cartón FIFI&MINI
+
+Es un rascador plano de cartón corrugado, doble faz y con hierba gatera, la opción más económica de [nuestra comparativa de rascadores para gatos en Argentina](/guias/mascotas/rascador-para-gatos). Cuesta {{precio:MLA43852971}} y tiene {{reviews:MLA43852971}} calificaciones con {{rating:MLA43852971}} estrellas.
+
+## Doble faz: se aprovecha más tiempo
+
+A diferencia de un rascador plano común, este es doble faz: cuando un lado se gasta con el uso, lo das vuelta y seguís usando el otro lado. Trae hierba gatera incluida, que ayuda a que el gato se interese más rápido.
+
+## El más barato de la comparativa
+
+Con {{precio:MLA43852971}}, es la opción de entrada de esta comparativa por lejos. Compradores confirman que a sus gatos les gusta: "todo lo que le gusta a un michi", dice uno.
+
+## La contra real: los gatos se acostumbran a la forma
+
+Esta es una advertencia útil, no un defecto del producto en sí. Un comprador lo explica: "después tenés que comprarle siempre con la misma forma porque así son". Si tu gato adopta este rascador como favorito, tené en cuenta que puede rechazar una forma distinta cuando haya que reponerlo.
+
+## Para quién es, y para quién no
+
+Es para vos si buscás una opción económica para rascado y no te importa que sea un consumible que hay que reponer. No es para vos si buscás un mueble completo con niveles, cucha o superficie para trepar: para eso, la [Dakota](/producto/rascador-torre-dakota-sisal-y-terciopelo-91-cm-con-cucha-y-juguete-mla46200581) o la [Wuhan](/producto/rascador-torre-gimnasio-wuhan-premium-1-26-m-la-mas-alta-mla69830916) de esta misma comparativa cumplen mejor esa función.
+
+## El veredicto
+
+Es la opción más barata de esta comparativa, doble faz y con hierba gatera incluida. La contra real: es un consumible, y conviene reponerlo siempre con la misma forma porque los gatos se acostumbran.`,
+    faq: [
+      { question: "¿Qué significa que sea doble faz?", answer: "Que tiene dos lados de rascado: cuando uno se gasta con el uso, lo das vuelta y seguís usando el otro lado antes de tener que reponerlo." },
+      { question: "¿Trae hierba gatera?", answer: "Sí, viene incluida, según la ficha técnica y la descripción del vendedor." },
+      { question: "¿Por qué es el más barato de la comparativa?", answer: "Porque es un rascador plano y simple, sin cucha, juguete ni estructura de torre, a diferencia de los otros tres productos de esta guía." },
+      { question: "¿Hay que reponerlo seguido?", answer: "Sí, es un consumible: el cartón se gasta con el uso. Un comprador recomienda reponerlo siempre con la misma forma, porque los gatos se acostumbran a una en particular." },
+      { question: "¿Sirve para gatos grandes?", answer: "La ficha no declara un límite de peso. Al ser una superficie plana de 43 cm de largo, funciona mejor para rascado que para el peso completo de un gato muy grande apoyado." },
+      { question: "¿De qué color es?", answer: "Marrón, aunque la ficha aclara que el estampado de los laterales puede variar entre unidades." },
+    ],
+  },
 ];
 
 export const categoryPastels: Record<string, string> = {

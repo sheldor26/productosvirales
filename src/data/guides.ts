@@ -31569,6 +31569,118 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     ],
     internalLinksTitle: "Más para entrenar y cuidarte en casa",
   },
+  {
+    slug: "rascador-para-gatos",
+    category: "rascador-para-gatos",
+    silo: "mascotas",
+    pillar: true,
+    title: `Rascador para gatos: cuál comprar en Argentina [2026]`,
+    seoTitle: `Rascador para Gatos: Cuál Comprar en Argentina [2026]`,
+    metaDescription: `Comparamos 4 rascadores para gatos reales de MercadoLibre: torres, protector autoadhesivo y cartón plano. El más elegido combina rascar, dormir y jugar en un solo mueble.`,
+    ogTitle: `Rascador para gatos: cuál comprar en Argentina`,
+    ogDescription: `4 rascadores comparados por tipo (torre, protector o plano), altura y respaldo de reseñas. Uno es un consumible que hay que reponer siempre con la misma forma.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_746750-MLA115590818157_082026-O.webp`,
+    h1: `Rascador para gatos: cuál comprar en Argentina y qué mirar antes [2026]`,
+    directAnswer: `Para la mayoría conviene la **[torre Dakota](/producto/rascador-torre-dakota-sisal-y-terciopelo-91-cm-con-cucha-y-juguete-mla46200581)** (alrededor de {{precio:MLA46200581:k}}): combina rascar, dormir y jugar en un solo mueble, y es la más elegida por lejos. Si buscás la torre más alta y mejor calificada, la **[Wuhan](/producto/rascador-torre-gimnasio-wuhan-premium-1-26-m-la-mas-alta-mla69830916)**. Si necesitás proteger específicamente una esquina de sillón, el **[esquinero autoadhesivo Beepaw](/producto/rascador-esquinero-autoadhesivo-beepaw-protector-de-sillon-60x60-cm-mla62299437)**. Y si el presupuesto manda, el **[cartón FIFI&MINI](/producto/rascador-plano-de-carton-fifi-mini-doble-faz-con-hierba-gatera-mla43852971)**, el más barato.`,
+    publishedDate: "2026-09-09",
+    updatedDate: "2026-09-09",
+    sitemapLastmod: "2026-09-09",
+    hasDisclosure: true,
+    readingTime: 8,
+    standfirst: `Un rascador para gatos va de {{precio:MLA43852971:k}} a {{precio:MLA46200581:k}}. Comparamos 4 modelos reales de MercadoLibre Argentina por **tipo (torre, protector autoadhesivo o plano de cartón), altura y respaldo de reseñas**, con contras sacadas de reseñas verdaderas, dentro de nuestro silo de [Mascotas](/categoria/mascotas).`,
+    quickPicks: [
+      { productMlaId: "MLA46200581", label: "La más elegida", labelColor: "green", tagline: "Dakota: torre con cucha y juguete, {{reviews:MLA46200581}} opiniones" },
+      { productMlaId: "MLA69830916", label: "La más alta", labelColor: "purple", tagline: "Wuhan: 1,26 m y la mejor calificada, {{rating:MLA69830916}}" },
+      { productMlaId: "MLA62299437", label: "Para proteger muebles", labelColor: "amber", tagline: "Beepaw: esquinero autoadhesivo, se corta a medida" },
+      { productMlaId: "MLA43852971", label: "La más barata", labelColor: "slate", tagline: "FIFI&MINI: cartón doble faz con hierba gatera" },
+    ],
+    intro: [
+      `Elegir un **rascador para gatos** parece una decisión de precio y termina siendo una de tipo. Torre completa, protector de muebles o cartón plano son productos distintos que resuelven necesidades distintas, y confundirlos es la forma más común de terminar con un rascador que tu gato no usa.`,
+      `Comparamos 4 rascadores reales de MercadoLibre Argentina y verificamos, uno por uno, qué declara su ficha técnica sobre tipo, material, altura y reseñas de compradores. Apareció algo que conviene saber antes de comprar: **el cartón plano es un consumible que hay que reponer, y conviene comprar siempre el mismo modelo**, porque los gatos se acostumbran a una forma específica.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_746750-MLA115590818157_082026-O.webp", alt: `Torre rascadora para gatos con cucha y juguete en un living`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Si no querés leer toda la comparativa: la **[torre Dakota](/producto/rascador-torre-dakota-sisal-y-terciopelo-91-cm-con-cucha-y-juguete-mla46200581)** es la más elegida de las cuatro, con **{{reviews:MLA46200581}} opiniones**, muy por encima del resto. Combina poste para rascar, cucha para dormir y un juguete colgante en un solo mueble de 91 cm. No se reportan fallas de calidad recurrentes en las reseñas.` },
+
+      { type: "callout", calloutVariant: "warning", calloutTitle: "Torre, protector o plano: no son lo mismo", content: `De los cuatro rascadores de esta comparativa, dos son torres completas (Dakota y Wuhan, con cucha y juguete), uno es un **protector autoadhesivo para esquinas de muebles** (Beepaw, sin cucha ni superficie para trepar) y uno es un **rascador plano de cartón** (FIFI&MINI, un consumible que se gasta con el uso). Definí primero qué necesitás: ¿que tu gato tenga un mueble para rascar, dormir y jugar, o que dejes de arruinar el sillón?` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** partimos del rubro de rascadores para gatos de MercadoLibre Argentina y verificamos cada publicación en vivo el 2026-09-09: precio, stock, ficha técnica campo por campo y reseñas de compradores. Miramos especialmente cuatro campos que deciden la compra: **tipo de rascador (torre, protector o plano)**, **material del tapizado**, **altura y niveles**, y **si trae cucha o juguete**. Los precios se verifican automáticamente contra MercadoLibre.` },
+
+      { type: "h2", title: `Los cuatro datos que deciden la compra`, id: "que-mirar" },
+      { type: "p", content: `**Tipo de rascador.** Torre (con cucha y juguete, para rascar/dormir/jugar), protector autoadhesivo (para proteger un mueble puntual) o plano de cartón (económico, consumible). En esta comparativa hay dos torres, un protector y un plano.` },
+      { type: "p", content: `**Material del tapizado.** Terciopelo o felpa en las torres, cartón corrugado en las opciones planas. El terciopelo y la felpa son más suaves y duraderos; el cartón es más barato pero se gasta.` },
+      { type: "p", content: `**Altura y niveles.** Las torres de esta comparativa van de 91 cm a 1,26 m, con 2 niveles cada una. Más altura suele significar más espacio para trepar y jugar.` },
+      { type: "p", content: `**Cucha y juguete.** Las dos torres de esta comparativa traen cucha para dormir y juguete colgante. El protector y el plano no traen cucha; el protector sí incluye un juguete, el plano no trae ninguno.` },
+
+      { type: "h2", title: `Comparativa rápida: los 4 frente a frente`, id: "tabla-comparativa" },
+      { type: "table", headers: ["Modelo", "Tipo", "Material", "Medidas", "Ideal para"], rows: [
+        ["[Dakota](https://meli.la/PEGAR_MELI_LA)", "Torre", "Terciopelo", "91 cm de altura", "La mayoría: rascar, dormir y jugar en un mueble"],
+        ["[Wuhan](https://meli.la/PEGAR_MELI_LA)", "Torre", "Felpa y madera", "1,26 m de altura", "La torre más alta y mejor calificada"],
+        ["[Beepaw](https://meli.la/PEGAR_MELI_LA)", "Protector autoadhesivo", "Felpa", "60x60 cm", "Proteger una esquina de sillón puntual"],
+        ["[FIFI&MINI](https://meli.la/PEGAR_MELI_LA)", "Plano de cartón", "Cartón corrugado", "43x23 cm", "Presupuesto ajustado, uso consumible"],
+      ] },
+      { type: "p", content: `El nombre de cada modelo lleva directo a su publicación en MercadoLibre. Abajo está el detalle de los cuatro, en el mismo orden: qué hace bien cada uno y dónde se queda corto.` },
+
+      { type: "h2", title: `El ranking`, id: "ranking" },
+
+      { type: "h3", title: `1. Torre Dakota` },
+      { type: "product-card", productMlaId: "MLA46200581", label: "La más elegida", labelColor: "green", ranking: 1, description: "Torre de 91 cm con cucha y juguete, tapizada en terciopelo. La más elegida de las cuatro, con {{reviews:MLA46200581}} opiniones." },
+      { type: "p", content: `Es el rascador **con más respaldo de esta comparativa por lejos**: {{reviews:MLA46200581}} opiniones con {{rating:MLA46200581}} de promedio. Combina poste para rascar, cucha elevada para dormir y un juguete colgante, todo tapizado en terciopelo, en 91 cm de altura con 2 niveles.` },
+      { type: "pull-quote", content: `"Le encantó, muy bueno y fácil de armar."`, attribution: `Compradora de la torre Dakota, calificación 5/5` },
+      { type: "p", content: `En las reseñas revisadas no aparecen quejas recurrentes de calidad o durabilidad. Con 7 kg es de los rascadores más pesados de esta comparativa, lo que también le suma estabilidad al mueble.` },
+
+      { type: "h3", title: `2. Torre Wuhan` },
+      { type: "product-card", productMlaId: "MLA69830916", label: "La más alta", labelColor: "purple", ranking: 2, description: "Torre de 1,26 m, la torre más alta de esta comparativa y la mejor calificada, {{rating:MLA69830916}}. Felpa y poste de madera." },
+      { type: "p", content: `Con **1,26 m** es la torre más alta de esta comparativa, superando a la Dakota (91 cm). Y con {{rating:MLA69830916}} tiene la **mejor calificación** de las cuatro. Combina felpa en el tapizado con poste de madera, más robusto que solo cartón.` },
+      { type: "pull-quote", content: `"Es hermoso! algo chica la superficie de apoyo, pero muy bonito material con el que está hecho."`, attribution: `Compradora de la torre Wuhan, calificación 5/5` },
+      { type: "p", content: `La contra real, según la misma compradora: **la plataforma superior es algo chica** para la altura del mueble. Si tu gato es grande, puede quedarle justa arriba de todo.` },
+
+      { type: "h3", title: `3. Esquinero autoadhesivo Beepaw` },
+      { type: "product-card", productMlaId: "MLA62299437", label: "Para proteger muebles", labelColor: "amber", ranking: 3, description: "Protector esquinero autoadhesivo de 60x60 cm, se puede cortar a medida. Único de este tipo en la comparativa." },
+      { type: "p", content: `Es la **única opción de esta comparativa pensada para proteger muebles de esquina**, no para que el gato trepe. Se pega directo sobre el mueble y se puede cortar para ajustarlo al área exacta que necesitás cubrir.` },
+      { type: "pull-quote", content: `"Funcionan muy bien y los podés cortar para que cubran las partes que más te interesa proteger. Le saco un punto porque cuando tuve que cambiar un lado [...] costó muchísimo despegarlos y partes del adhesivo quedaron adheridas."`, attribution: `Comprador del esquinero Beepaw, calificación 4/5` },
+      { type: "p", content: `La contra real: **despegarlo para reemplazarlo puede dejar residuo de adhesivo**, sobre todo en telas delicadas como la pana. Conviene tenerlo en cuenta si tu mueble es de una tela sensible.` },
+
+      { type: "h3", title: `4. Cartón plano FIFI&MINI` },
+      { type: "product-card", productMlaId: "MLA43852971", label: "La más barata", labelColor: "slate", ranking: 4, description: "Rascador plano de cartón, doble faz y con hierba gatera. El más económico de esta comparativa." },
+      { type: "p", content: `Es **la opción más barata de esta comparativa** por lejos: un rascador plano de cartón corrugado, doble faz (se da vuelta cuando un lado se gasta) y con hierba gatera incluida.` },
+      { type: "pull-quote", content: `"Todo lo que le gusta a un michi, después tenes que comprarle siempre con la misma forma porque así son."`, attribution: `Comprador del rascador FIFI&MINI, calificación 5/5` },
+      { type: "p", content: `La contra real, y es más una advertencia útil que un defecto: es un **consumible** que se gasta con el uso, y conviene reponerlo siempre con la misma forma, porque los gatos se acostumbran a una en particular.` },
+
+      { type: "h2", title: `Cómo elegir tu rascador para gatos`, id: "como-elegir" },
+      { type: "h3", title: `1. Definí primero qué necesitás resolver` },
+      { type: "p", content: `Si querés un mueble completo para que tu gato rasque, duerma y juegue, andá por una torre (Dakota o Wuhan). Si el problema puntual es que arruina una esquina de sillón, el protector autoadhesivo es más específico y más barato. Si solo buscás algo económico para rascado ocasional, el cartón plano alcanza.` },
+      { type: "h3", title: `2. Las torres traen más, pero cuestan más` },
+      { type: "p", content: `Dakota y Wuhan combinan rascar, dormir y jugar en un solo mueble, a cambio de un precio bastante más alto que el protector o el cartón plano de esta comparativa.` },
+      { type: "h3", title: `3. El cartón es un consumible, no una compra única` },
+      { type: "p", content: `Si elegís una opción de cartón, tené en cuenta que vas a tener que reponerla con el tiempo, y que conviene mantener la misma forma: los gatos se acostumbran a un rascador específico.` },
+
+      { type: "h2", title: `Cuánto cuesta un rascador para gatos en Argentina`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de {{precio:MLA43852971:k}}:** el [cartón FIFI&MINI](https://meli.la/PEGAR_MELI_LA), la opción más económica.`,
+        `**Alrededor de {{precio:MLA62299437:k}}:** el [esquinero Beepaw](https://meli.la/PEGAR_MELI_LA), para proteger muebles puntuales.`,
+        `**Alrededor de {{precio:MLA69830916:k}} a {{precio:MLA46200581:k}}:** las torres [Wuhan](https://meli.la/PEGAR_MELI_LA) y [Dakota](https://meli.la/PEGAR_MELI_LA), con cucha y juguete incluidos.`,
+      ] },
+
+      { type: "verdict", content: `Para la mayoría, la **torre Dakota**: combina rascar, dormir y jugar en un solo mueble, y es la más elegida por lejos, sin fallas de calidad recurrentes reportadas. Si buscás la torre más alta y mejor calificada, la **Wuhan**, con la salvedad de que la plataforma superior es algo chica. Si tu problema puntual es una esquina de sillón, el **esquinero Beepaw**, sabiendo que reemplazarlo puede dejar residuo de adhesivo. Y si el presupuesto manda, el **cartón FIFI&MINI**, entendiendo que es un consumible que conviene reponer siempre con la misma forma.` },
+
+      { type: "h2", title: `Preguntas frecuentes`, id: "faq" },
+    ],
+    faq: [
+      { question: `¿Cuál es el mejor rascador para gatos en Argentina?`, answer: `Por respaldo de compradores, la [torre Dakota](/producto/rascador-torre-dakota-sisal-y-terciopelo-91-cm-con-cucha-y-juguete-mla46200581): tiene {{reviews:MLA46200581}} opiniones, muy por encima del resto de esta comparativa. Combina poste para rascar, cucha para dormir y juguete colgante en un solo mueble de 91 cm.` },
+      { question: `¿Conviene una torre o un rascador plano?`, answer: `Depende de qué necesites. Una torre (como la Dakota o la Wuhan de esta guía) suma cucha y juguete, ideal si querés un mueble completo. Un rascador plano de cartón es más barato pero es un consumible que se gasta y hay que reponer.` },
+      { question: `¿Los protectores autoadhesivos funcionan de verdad?`, answer: `Sí, según compradores reales del Beepaw de esta comparativa, que destacan la buena adhesión. La única advertencia: al despegarlo para reemplazarlo puede quedar residuo de adhesivo, sobre todo en telas delicadas.` },
+      { question: `¿Hay que reponer los rascadores de cartón seguido?`, answer: `Sí, son consumibles. Un comprador del FIFI&MINI de esta guía recomienda reponerlo siempre con la misma forma, porque los gatos se acostumbran a una en particular y pueden rechazar una forma distinta.` },
+      { question: `¿Qué altura conviene para una torre rascadora?`, answer: `En esta comparativa van de 91 cm a 1,26 m. Más altura suele dar más espacio para trepar y jugar, pero también ocupa más lugar en la casa.` },
+      { question: `¿Sirven para gatos grandes?`, answer: `Ninguna de las cuatro fichas de esta comparativa declara un límite de peso o tamaño. Una compradora de la Wuhan avisa que la plataforma superior es algo chica, así que si tu gato es grande, conviene tenerlo en cuenta.` },
+    ],
+    internalLinks: [
+      { label: "Mancuernas: cuál comprar", href: "/guias/fitness/mancuernas" },
+      { label: "Bicicleta fija: cuál comprar", href: "/guias/fitness/bicicleta-fija" },
+    ],
+    internalLinksTitle: "Más guías nuevas del sitio",
+  },
 ];
 
 /**
