@@ -2429,4 +2429,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "15",
     postedAt: "2026-09-09T18:30:00-03:00",
   },
+  {
+    title: "Consola Nintendo Switch 2 + Mario Kart World Bundle",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_809465-MLA96646066067_102025-O.webp",
+    affiliateUrl: "https://meli.la/2zuntCS",
+    newPrice: "1.780.000",
+    oldPrice: "1.780.000",
+    offPct: "0",
+    postedAt: "2026-09-09T18:57:00-03:00",
+  },
 ];
