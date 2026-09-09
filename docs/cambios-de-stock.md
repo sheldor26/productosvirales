@@ -7,6 +7,12 @@
 > 🔴 = se quedo sin stock (el link de afiliado apunta a una pagina pausada).
 > Entradas nuevas arriba.
 
+## 2026-09-09
+
+- 🟢 VOLVIO EL STOCK — **MLA29364436** Cámara Deportiva DJI Osmo Action 4
+  - ML: https://www.mercadolibre.com.ar/p/MLA29364436
+  - Sitio: https://productosvirales.com.ar/producto/MLA29364436
+
 ## 2026-09-07
 
 - 🟢 VOLVIO EL STOCK — **MLA886877609** Humidificador Portátil USB 220ml — Difusor Aromático Cápsula Blanca
