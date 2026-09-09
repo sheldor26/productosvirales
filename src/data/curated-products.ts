@@ -11503,6 +11503,7 @@ Es para vos si: ya decidiste que querés un teclado mecánico de verdad, te copa
       { label: "Largo del cable", value: "Aprox. 2.2 metros" },
       { label: "Almohadillas", value: "Cuerina blanda over-ear" },
       { label: "Surround 7.1", value: "Virtual por software, solo en PC (versión USB)" },
+      { label: "Accesorios", value: "Incluye adaptador/splitter para separar audio y micrófono en PC de escritorio" },
     ],
     relatedProducts: ["MLA16280514", "MLA8732921"],
     priceUpdated: "2026-09-04",
@@ -11519,9 +11520,12 @@ Es para vos si: ya decidiste que querés un teclado mecánico de verdad, te copa
       "Vincha y almohadillas de cuerina blanda over-ear, cómodas para sesiones largas",
       "Conexión 3.5mm: andan plug and play en PC, notebook, PS4/PS5 y celular sin instalar nada",
       "Cable largo (cerca de 2.2 metros) para jugar cómodo desde el escritorio",
+      "Trae adaptador/splitter en la caja para separar audio y micrófono en PC de escritorio con jacks separados",
+      "La claridad de voz del micrófono es sorprendentemente buena para el precio: varias reseñas la comparan favorablemente contra auriculares 3-4 veces más caros",
     ],
     cons: [
-      "El micrófono es fijo (no se saca) y es omnidireccional: levanta bastante ruido de fondo, regular para stream o llamadas serias",
+      "El micrófono es fijo (no se saca), no se acerca ni se aleja de la boca (solo sube y baja) y es omnidireccional: levanta bastante ruido de fondo, regular para stream o llamadas serias",
+      "No tiene sidetone: no te escuchás a vos mismo hablando a través de los auriculares, salvo que lo routees por software aparte",
       "El 7.1 surround que figura es virtual por software y solo en PC; en consola escuchás estéreo común",
       "A este precio los materiales son justos: plástico y cuerina, no esperes el armado de una marca premium",
       "La luz LED se alimenta por USB, así que necesitás un puerto USB libre solo para que prendan las luces",
@@ -11534,11 +11538,13 @@ El Kotion Each G9000 es el auricular gamer más barato y más vendido para arran
 
 ## Lo bueno
 
-Por lo que sale, da mucho más de lo que esperás. El driver de 40mm entrega un sonido amplio y con cuerpo, suficiente para jugar, ver videos y escuchar música sin drama. La conexión es 3.5mm (jack), así que enchufás y andan en PC, notebook, PS4/PS5 y celular sin instalar nada. La vincha y las almohadillas de cuerina blanda over-ear aguantan sesiones largas sin que te molesten las orejas. Y el cable es largo (cerca de 2.2 metros), cómodo para jugar desde el escritorio. Sumá el micrófono y la luz LED, y por menos de lo que cuesta cualquier headset de marca tenés todo lo básico.
+Por lo que sale, da mucho más de lo que esperás. El driver de 40mm entrega un sonido amplio y con cuerpo, suficiente para jugar, ver videos y escuchar música sin drama. La conexión es 3.5mm (jack), así que enchufás y andan en PC, notebook, PS4/PS5 y celular sin instalar nada. La vincha y las almohadillas de cuerina blanda over-ear aguantan sesiones largas sin que te molesten las orejas. Y el cable es largo (cerca de 2.2 metros), cómodo para jugar desde el escritorio. Sumá el micrófono y la luz LED, y por menos de lo que cuesta cualquier headset de marca tenés todo lo básico. Un plus que no todos saben: trae un adaptador en la caja para separar audio y micrófono si tu PC de escritorio tiene jacks independientes en vez de una sola entrada combinada.
+
+Otro dato a favor, este menos esperado: la claridad de la voz del micrófono está muy bien valorada para el precio. Varias reseñas de gente que lo probó a fondo lo comparan favorablemente contra micrófonos de auriculares 3 o 4 veces más caros. El tono en sí no es el problema de este micrófono.
 
 ## La contra real
 
-El micrófono es la pega más grande, y conviene saberlo antes de comprar. Es fijo (no se desmonta) y es omnidireccional, así que levanta bastante ruido de fondo: para hablar con amigos zafa, para stream o llamadas de trabajo es regular. La publicación a veces menciona "surround 7.1": ojo, ese 7.1 es virtual por software y solo funciona en PC con la versión USB; en consola y en la versión jack escuchás estéreo común, no sonido posicional real. Los materiales son los justos para el precio (plástico y cuerina), no esperes el armado de un Razer o un HyperX. Y la luz LED se alimenta por un cable USB aparte, o sea que ocupás un puerto USB solo para que prendan las luces.
+El micrófono sí tiene una pega real, y conviene saberla antes de comprar: es omnidireccional, así que levanta bastante ruido de fondo del ambiente (no filtra ni direcciona hacia tu voz). Para hablar con amigos zafa, para stream o llamadas de trabajo en un lugar con ruido es regular. Además el brazo es fijo: no se desmonta y tampoco se acerca ni se aleja de tu boca, solo se puede subir o bajar, así que si hablás bajito quizás tengas que forzar un poco la voz. Tampoco tiene sidetone: no te escuchás a vos mismo por los auriculares mientras hablás (algo normal en esta categoría de precio, pero conviene saberlo si nunca usaste un headset con mic). La publicación a veces menciona "surround 7.1": ojo, ese 7.1 es virtual por software y solo funciona en PC con la versión USB; en consola y en la versión jack escuchás estéreo común, no sonido posicional real. Los materiales son los justos para el precio (plástico y cuerina), no esperes el armado de un Razer o un HyperX. Y la luz LED se alimenta por un cable USB aparte, o sea que ocupás un puerto USB solo para que prendan las luces.
 
 ## Como se compara
 
@@ -11554,7 +11560,15 @@ Comprá el G9000 si es tu primer headset gamer y querés gastar lo mínimo. Para
       },
       {
         question: "¿El micrófono se puede sacar?",
-        answer: "No, el micrófono es fijo, viene integrado al brazo del auricular y no se desmonta. Es omnidireccional, así que levanta ruido de fondo: zafa para hablar con amigos pero es regular para stream.",
+        answer: "No, el micrófono es fijo, viene integrado al brazo del auricular y no se desmonta. Tampoco se acerca ni se aleja de la boca, solo se puede subir o bajar. Es omnidireccional, así que levanta ruido de fondo: zafa para hablar con amigos pero es regular para stream. Eso sí, la claridad de la voz en sí está bien valorada para el precio, comparable a auriculares bastante más caros.",
+      },
+      {
+        question: "¿Trae adaptador para usarlo en PC de escritorio?",
+        answer: "Sí, incluye un adaptador/splitter en la caja para separar audio y micrófono en PCs que tienen jacks independientes en vez de una sola entrada combinada. Sin ese adaptador, el plug único no encastra en dos jacks separados.",
+      },
+      {
+        question: "¿Me escucho a mí mismo hablando mientras uso el micrófono?",
+        answer: "No, este headset no tiene sidetone (monitoreo en vivo de tu propia voz por los auriculares). Es normal en esta categoría de precio; si necesitás eso, hay que routearlo por software aparte, y en consola no es una opción.",
       },
       {
         question: "¿El sonido 7.1 surround es real?",

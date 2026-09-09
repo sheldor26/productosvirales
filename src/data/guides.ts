@@ -2699,7 +2699,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     readingTime: 9,
     standfirst: `Unos auriculares gamer van de $41.000 a más de $210.000, y la primera decisión es con cable o inalámbricos. Te mostramos cuál conviene según cómo y en qué jugás, comparando los más vendidos de Argentina (Kotion, Razer, Logitech, HyperX, Redragon) por conexión, sonido y precio real de MercadoLibre.`,
     quickPicks: [
-      { productMlaId: "MLA9406415", label: "El más vendido", labelColor: "green", tagline: "Kotion Each G9000: con cable, micrófono y luz LED, más de 9.000 opiniones" },
+      { productMlaId: "MLA9406415", label: "El más vendido", labelColor: "green", tagline: "Kotion Each G9000: con cable, micrófono y luz LED, {{reviews:MLA9406415}} opiniones" },
       { productMlaId: "MLA16280514", label: "Mejor sonido por el precio", labelColor: "purple", tagline: "Razer BlackShark V2 X: sonido posicional limpio para competitivo" },
       { productMlaId: "MLA18651915", label: "Mejor inalámbrico accesible", labelColor: "blue", tagline: "Logitech G435: inalámbrico, livianísimo, de marca de primera" },
       { productMlaId: "MLA8732921", label: "El clásico cómodo", labelColor: "amber", tagline: "HyperX Cloud: la comodidad de referencia para muchas horas" },
@@ -2722,9 +2722,9 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "h2", title: `Los mejores auriculares gamer 2026`, id: "ranking" },
 
       { type: "h3", title: `1. Kotion Each G9000 — el más vendido` },
-      { type: "product-card", productMlaId: "MLA9406415", label: "El más vendido", labelColor: "green", ranking: 1, description: `Con cable, micrófono y luz LED, al precio más bajo. 4.6 estrellas en más de 9.000 calificaciones: los auriculares gamer más vendidos del país.` },
-      { type: "p", content: `Si querés entrar al gaming con micrófono y buen sonido sin gastar casi nada, son estos. Los Kotion Each G9000 son **los más vendidos del país por amplio margen** (más de 9.000 opiniones, un número que ninguno se acerca) y cuestan alrededor de $41.000, con cable, micrófono y luz LED. Para jugar en la PC o la consola y hablar con el equipo, cumplen de sobra.` },
-      { type: "p", content: `Lo honesto que sale en las reseñas: el **micrófono es regular** (te escuchan, pero no es de estudio) y son auriculares de entrada, no de competición seria. Pero por lo que salen y la montaña de gente conforme, son la compra más segura para arrancar.` },
+      { type: "product-card", productMlaId: "MLA9406415", label: "El más vendido", labelColor: "green", ranking: 1, description: `Con cable, micrófono y luz LED, al precio más bajo. 4.6 estrellas en {{reviews:MLA9406415}} calificaciones: los auriculares gamer más vendidos del país.` },
+      { type: "p", content: `Si querés entrar al gaming con micrófono y buen sonido sin gastar casi nada, son estos. Los Kotion Each G9000 son **los más vendidos del país por amplio margen** ({{reviews:MLA9406415}} opiniones, un número que ninguno se acerca) y cuestan alrededor de $41.000, con cable, micrófono y luz LED. Para jugar en la PC o la consola y hablar con el equipo, cumplen de sobra.` },
+      { type: "p", content: `Lo honesto que sale en las reseñas: el micrófono es omnidireccional, así que levanta ruido de fondo y no es de estudio (aunque el tono de voz en sí está bien valorado para el precio), y son auriculares de entrada, no de competición seria. Pero por lo que salen y la montaña de gente conforme, son la compra más segura para arrancar.` },
       { type: "pull-quote", content: `"Superó mis expectativas, muy cómodo y con buen sonido. Lo uso en la PS4 y en la PC y anda fenomenal."`, attribution: `Opinión verificada en MercadoLibre` },
 
       { type: "h3", title: `2. Razer BlackShark V2 X — el mejor sonido por el precio` },
