@@ -2539,4 +2539,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "43",
     postedAt: "2026-09-11T14:48:00-03:00",
   },
+  {
+    title: 'Notebook Philco 14.1" Ryzen 3-3200U 4GB/128GB',
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_662139-MLA99931423681_112025-O.webp",
+    affiliateUrl: "https://meli.la/2YM6re9",
+    newPrice: "392.999",
+    oldPrice: "867.899",
+    offPct: "54",
+    postedAt: "2026-09-11T15:13:00-03:00",
+  },
 ];
