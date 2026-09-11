@@ -2459,4 +2459,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "20",
     postedAt: "2026-09-11T08:54:00-03:00",
   },
+  {
+    title: "Ghost of Yotei Standard Edition (Físico) PS5",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_663353-MLA107045635684_022026-O.webp",
+    affiliateUrl: "https://meli.la/1hnph7d",
+    newPrice: "106.699",
+    oldPrice: "137.999",
+    offPct: "22",
+    postedAt: "2026-09-11T09:20:00-03:00",
+  },
 ];
