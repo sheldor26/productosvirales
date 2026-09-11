@@ -243,6 +243,7 @@ negro — tienen precio de lista distinto).
 | Compresor de Aire 50L Maneko (kit + manguera 10mts) | $319.130 | 2026-09-06 | meli.la/1tBqAfz — sin referencia previa, MÁS VENDIDO, +500 vendidos, sin cupón en la ficha |
 | Kit Taladro Percutor + Atornillador Impacto 20V Dewalt | $816.750 | 2026-09-09 | meli.la/2NWEPzj — sin referencia previa, primer kit de taladro DeWalt del sitio, 4.9★ (124 op.), +100 vendidos, Tienda oficial Mercado Libre (+1M ventas), stock +50 disponibles, sin problemas de envío, voltaje 220V, incluye maletín de transporte, 3 años de garantía. Cupón visible en la ficha ("$796.750 con Cupón", "EXCLUSIVO NEGOCIOS") — no se confirmó el código exacto, no se usó en el copy por ser condicional a cuenta de negocios |
 | Hidrolavadora Eléctrica Trent HLT307 1400W 1600 PSI | $101.845 | 2026-09-11 | meli.la/15xYoEW — sin referencia previa, modelo distinto al Trent Move 1600W 1885PSI de la fila de arriba, MÁS VENDIDO, 2° en Hidrolavadoras, 4.8★ (17.614 op.), +50 mil vendidos, Tienda oficial TRENT (+250mil ventas), +50 disponibles. 1400W, 1600 PSI/110 Bar, incluye manguera de 3m y accesorios. Re-verificado en vivo antes de presentar a Juan, precio idéntico |
+| Martillo Demoledor Total 20 Joules 1300W | $216.999 | 2026-09-11 | meli.la/14e1x6r — sin referencia previa, primer martillo demoledor del sitio, MÁS VENDIDO, 1° en Martillos Demoledores, 4.9★ (169 op.), +1000 vendidos, +25 disponibles. 20 Joules, 1300W, hexagonal, incluye maletín y 2 cinceles. Re-verificado en vivo antes de presentar a Juan, precio idéntico |
 
 ## Deportes y Fitness
 

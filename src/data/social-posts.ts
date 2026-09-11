@@ -2559,4 +2559,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "22",
     postedAt: "2026-09-11T15:39:00-03:00",
   },
+  {
+    title: "Martillo Demoledor Total 20 Joules 1300W",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_655207-MLA89579501078_082025-O.webp",
+    affiliateUrl: "https://meli.la/14e1x6r",
+    newPrice: "216.999",
+    oldPrice: "427.081",
+    offPct: "49",
+    postedAt: "2026-09-11T16:04:00-03:00",
+  },
 ];
