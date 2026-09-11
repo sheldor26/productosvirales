@@ -56874,6 +56874,7 @@ Comprálo si querés la opción que "simplemente anda" en PC, consola y celular 
       { label: "Perfiles", value: "Hasta 3 perfiles personalizados + 1 default, guardados en el propio control" },
       { label: "Compatible con", value: "Xbox Series S/X, Xbox One, PC (Windows 10/11)" },
       { label: "App de configuración", value: "Xbox Accessories (solo Xbox y Windows 10/11, no iOS/Android)" },
+      { label: "Durabilidad reportada", value: "Un usuario detalla fallas repetidas en el botón RB tras uso prolongado (dato de una sola fuente, no corroborado por otra reseña)" },
     ],
     relatedProducts: ["MLA12384031", "MLA27921678"],
     priceUpdated: "2026-07-27",
@@ -56896,6 +56897,7 @@ Comprálo si querés la opción que "simplemente anda" en PC, consola y celular 
       "Configurar perfiles y paletas requiere la app Xbox Accessories, disponible solo en consola Xbox y Windows 10/11, no en iOS ni Android",
       "Con apenas 69 reseñas en MercadoLibre Argentina es, por lejos, el producto con menos respaldo de compradores de todo el sub-silo joystick",
       "Es el joystick más caro de esta guía por lejos: casi el triple que el control estándar de Xbox",
+      "Un usuario reporta fallas repetidas en el botón RB con el uso prolongado (en más de un control que tuvo); es un solo relato detallado, no algo que hayamos podido confirmar con una segunda fuente",
     ],
     articleBody: `## Qué es y para quién
 
@@ -56913,6 +56915,10 @@ Hay que aclarar algo que la propia ficha de MercadoLibre tiene mal: dice que tra
 
 Frente al control estándar de Xbox de esta misma guía, cuesta casi el triple. La diferencia se justifica solo si vas a usar las paletas y los gatillos ajustables de verdad: para jugar de forma casual, el control estándar cubre exactamente lo mismo en compatibilidad (mismo XInput nativo, mismo Bluetooth) a una fracción del precio.
 
+## Sobre la durabilidad
+
+Un dato que conviene tener presente, aunque con una salvedad: un usuario detalla en una reseña extensa que, a lo largo de varios años, pasó por más de un Elite Series 2 y en más de uno terminó fallando el botón RB con el uso. Es un relato único y detallado, pero no es algo que hayamos podido corroborar con una segunda fuente independiente en este research, así que lo tratamos como un reporte a tener en cuenta, no como un problema confirmado de la línea.
+
 ## Para quién sí y para quién no
 
 Comprálo si jugás de forma competitiva géneros donde las paletas y los gatillos cortos hacen diferencia real (shooters, sobre todo) y vas a aprovechar los perfiles guardados en el control. No lo compres si buscás un touchpad (no tiene), si no vas a usar la personalización avanzada, o si el precio es un problema: en esos casos, el control estándar de Xbox de esta guía cubre lo esencial a mucho menor costo.`,
@@ -56921,6 +56927,7 @@ Comprálo si jugás de forma competitiva géneros donde las paletas y los gatill
       { question: "¿Viene con estuche y paletas extra?", answer: "No. Microsoft vende este control en dos versiones: la completa (negra, con estuche, paletas y sticks extra) y la \"Core\" (blanco y negro, solo el control, herramienta de ajuste y cable USB-C). Esta publicación es la versión Core, confirmado por varios compradores en sus reseñas." },
       { question: "¿Se puede configurar sin usar el celular?", answer: "La app Xbox Accessories, necesaria para mapear botones y paletas, solo está disponible en consola Xbox y Windows 10/11: no funciona en iOS ni Android. Los perfiles guardados sí se pueden alternar directo desde el control una vez configurados." },
       { question: "¿Vale la pena la diferencia de precio contra el control estándar de Xbox?", answer: "Solo si vas a usar las paletas traseras y los gatillos ajustables de verdad. En compatibilidad (XInput, Bluetooth) son iguales; la diferencia de casi el triple de precio se justifica por la personalización física, no por mejor conectividad." },
+      { question: "¿Es durable el botón RB?", answer: "Un usuario reporta en una reseña detallada que, entre varios controles Elite Series 2 que tuvo a lo largo del tiempo, más de uno terminó con el botón RB fallando por el uso. Es un solo relato, no lo pudimos corroborar con una segunda fuente independiente, así que lo compartimos como un reporte a considerar, no como un defecto confirmado de la línea." },
     ],
   },
 
