@@ -70712,6 +70712,7 @@ Comprá el JD Venecia Sport si buscás lo más básico y económico: notificacio
       { label: "Conectividad", value: "Bluetooth 5.2 (BLE). Sin WiFi, sin NFC. Micrófono y parlante integrados" },
       { label: "Función distintiva", value: "Zepp Flow™: asistente de voz con IA (disponible en español) que responde WhatsApp por voz o teclado incorporado" },
       { label: "Compatibilidad", value: "Android 7.0+ / iOS 14.0+" },
+      { label: "Almacenamiento interno", value: "512 MB, compartido entre watch faces, apps, música y mapas offline (se llena rápido con uso intensivo)" },
     ],
     relatedProducts: ["MLA42520227", "MLA26666337", "MLA24530447", "MLA38058572"],
     priceUpdated: "2026-09-02",
@@ -70732,6 +70733,8 @@ Comprá el JD Venecia Sport si buscás lo más básico y económico: notificacio
       "Sin NFC, pese a ser la opción más cara de esta guía",
       "El más caro de esta comparativa: 2 a 5 veces más que las otras opciones",
       "Sin WiFi. En uso intensivo (GPS y monitoreo cada 1 minuto) la batería declarada por el fabricante baja a 6 días, lejos de las 2 semanas de uso típico",
+      "Solo 512 MB de almacenamiento interno, compartido entre watch faces, apps, música y mapas offline: se llena rápido si usás varias funciones a la vez",
+      "En iPhone, la funcionalidad de IA queda recortada: no se pueden responder mensajes de texto desde el reloj (solo verlos) y el asistente de notificaciones no funciona igual que en Android",
     ],
     articleBody: `## Qué es y para quién
 
@@ -70744,6 +70747,8 @@ Pantalla AMOLED de 1,97" (390x450 px, 302 PPI, hasta 2.000 nits de brillo), cuer
 ## La contra real
 
 A diferencia de la batería declarada de otros smartwatches de esta guía, la del Amazfit Bip 6 está confirmada en uso real: "hoy se cumplen exactamente 2 semanas desde la última vez que lo cargué, y aún me queda 21% de batería, simplemente fantástico!", detalla una reseña con 228 votos útiles, que también destaca "la posibilidad de responder mensajes de whatsapp con teclado incorporado, o hacerlo mediante tu voz". Esa cifra coincide con lo que declara el propio fabricante para uso típico (hasta 14 días), pero Amazfit también aclara que en uso intensivo (monitoreo cada 1 minuto, más notificaciones y GPS) baja a 6 días — con GPS activado de forma continua, a 32 horas. La contra real es la ausencia de NFC: a este precio, varios compradores esperarían la opción de pagos sin contacto, que este modelo no tiene.
+
+Dos matices más para uso a largo plazo. Primero, el almacenamiento interno es de apenas 512 MB, compartido entre watch faces, apps, música offline y mapas offline: un reviewer detalla que el sistema ya ocupa 316 MB de entrada, y que con uso normal (bajar algunas watch faces, apps y un mapa offline) se llena rápido, obligando a borrar cosas para poder agregar algo nuevo. Segundo, si usás iPhone en vez de Android, la funcionalidad de inteligencia artificial queda recortada: no podés responder mensajes de texto directamente desde el reloj (solo verlos, hay que sacar el celular para responder), y el asistente de IA que aparece en las notificaciones no hace nada útil en iOS, a diferencia de Android donde sí funciona completo.
 
 ## Cómo se compara con las otras de esta guía
 
@@ -70772,6 +70777,14 @@ Comprá el Amazfit Bip 6 si buscás el smartwatch más completo de esta guía y 
       {
         question: "¿Cambia mucho la batería según el uso?",
         answer: "Sí. La web oficial de Amazfit declara 14 días en uso típico (coincide con lo que reportan las reseñas reales), 6 días en uso intensivo con monitoreo cada 1 minuto, hasta 26 días en modo ahorro, o solo 32 horas con el GPS activado de forma continua.",
+      },
+      {
+        question: "¿Cuánto almacenamiento tiene para música y mapas?",
+        answer: "512 MB en total, compartidos entre watch faces, apps, música offline y mapas offline. Se llena rápido si usás varias de esas funciones a la vez: el sistema ya ocupa una buena parte de entrada, así que con uso intensivo vas a tener que borrar cosas para agregar algo nuevo.",
+      },
+      {
+        question: "¿Funciona igual en iPhone que en Android?",
+        answer: "No del todo. En iPhone no podés responder mensajes de texto directamente desde el reloj (solo verlos, hay que responder desde el celular), y el asistente de IA de las notificaciones no funciona igual que en Android. Para aprovechar todas las funciones de IA conviene tener un celular Android.",
       },
     ],
     structuredData: {

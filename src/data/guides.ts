@@ -24918,7 +24918,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { type: "h3", title: `3. Amazfit Bip 6 — la premium` },
       { type: "product-card", productMlaId: "MLA51929440", label: "La premium", labelColor: "purple", ranking: 3, description: `GPS real, AMOLED, asistente de voz con IA. 4.9 estrellas, batería de 2 semanas confirmada por reseñas reales.` },
       { type: "p", content: `El [Amazfit Bip 6](/producto/smartwatch-reloj-inteligente-amazfit-bip-6-amoled-1-97-gps-llamadas-bluetooth-5-mla51929440) es la opción más completa de esta guía, con asistente de voz por IA que responde WhatsApp, a alrededor de {{precio:MLA51929440:k}}.` },
-      { type: "p", content: `Lo honesto: no tiene NFC pese a ser la más cara de la comparativa.` },
+      { type: "p", content: `Lo honesto: no tiene NFC pese a ser la más cara de la comparativa, solo tiene 512 MB de almacenamiento interno (se llena rápido si usás mapas, música y apps offline a la vez), y en iPhone el asistente de IA queda recortado: no podés responder mensajes de texto desde el reloj como sí se puede en Android.` },
 
       { type: "h3", title: `4. Haylou Solar LS05S — batería de 15 días` },
       { type: "product-card", productMlaId: "MLA24530447", label: "Batería de 15 días", labelColor: "blue", ranking: 4, description: `Sin GPS, pantalla TFT LCD. 4.7 estrellas, pensado explícitamente para no cargarlo casi nunca.` },
