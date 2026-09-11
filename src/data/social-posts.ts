@@ -2529,4 +2529,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "40",
     postedAt: "2026-09-11T11:51:00-03:00",
   },
+  {
+    title: "Aspiradora Robot Trapeadora Fika Nexos Giroscópica",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_736352-MLA110410344464_052026-O.webp",
+    affiliateUrl: "https://meli.la/1srs9gG",
+    newPrice: "168.659",
+    oldPrice: "299.999",
+    offPct: "43",
+    postedAt: "2026-09-11T14:48:00-03:00",
+  },
 ];
