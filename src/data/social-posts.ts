@@ -2519,4 +2519,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "48",
     postedAt: "2026-09-11T11:26:00-03:00",
   },
+  {
+    title: "Hidrolavadora Eléctrica Trent HLT307 1400W 1600 PSI",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_602300-MLA110125772377_042026-O.webp",
+    affiliateUrl: "https://meli.la/15xYoEW",
+    newPrice: "101.845",
+    oldPrice: "170.000",
+    offPct: "40",
+    postedAt: "2026-09-11T11:51:00-03:00",
+  },
 ];
