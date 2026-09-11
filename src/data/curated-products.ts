@@ -10247,6 +10247,8 @@ Comprá el K552 si querés tu primer mecánico de verdad, jugás solo o no te mo
       { label: "Teclas multimedia", value: "Dedicadas, más botones de luz y Game Mode" },
       { label: "Peso", value: "~1.12 kg con cable" },
       { label: "Compatibilidad", value: "PC, PS5, PS4, Xbox Series X|S, Xbox One" },
+      { label: "Bloqueo de teclado", value: "Función dedicada (FN+F12) para desactivar todas las teclas y evitar pulsaciones accidentales" },
+      { label: "Garantía", value: "2 años (HyperX)" },
     ],
     relatedProducts: ["MLA16369071", "MLA8906508"],
     priceUpdated: "2026-09-11",
@@ -10264,6 +10266,8 @@ Comprá el K552 si querés tu primer mecánico de verdad, jugás solo o no te mo
       "Teclas de multimedia dedicadas y botones de acceso rápido para luz y Game Mode",
       "Cable trenzado más resistente que el plástico común, y polling de 1000Hz",
       "Full size: trae teclado numérico completo, cómodo para planillas y trabajo",
+      "Estabilizadores lubricados de fábrica que varios reviews describen como inusualmente buenos para el precio: sin el traqueteo metálico típico de teclados económicos",
+      "Función de bloqueo total de teclado (FN+F12), útil para evitar pulsaciones accidentales si te alejás del escritorio",
     ],
     cons: [
       "El RGB es por 5 zonas, no por tecla: no podés pintar cada tecla de un color distinto como en la publicidad gamer",
@@ -10279,11 +10283,11 @@ El HyperX Alloy Core RGB es un teclado gamer de membrana, full size, en español
 
 ## Lo bueno
 
-Lo mejor de este teclado es que combina tipeo silencioso, español con ñ y respaldo de marca. La membrana tiene 2mm de actuación y 3.8mm de recorrido total, o sea teclas blandas y calladas. Trae anti-ghosting de grado gaming, así que si apretás varias teclas a la vez (típico en juegos) te las registra todas sin trabarse. El cuerpo es de plástico reforzado y aguanta salpicaduras de hasta 120ml de líquido, un seguro contra el accidente del mate o la gaseosa. Suma teclas de multimedia dedicadas, botones rápidos para la luz y el Game Mode, cable trenzado y polling de 1000Hz. Detalle no menor: viene en español Latinoamérica con ñ, cosa que muchos gamer no traen.
+Lo mejor de este teclado es que combina tipeo silencioso, español con ñ y respaldo de marca. La membrana tiene 2mm de actuación y 3.8mm de recorrido total, o sea teclas blandas y calladas. Trae anti-ghosting de grado gaming, así que si apretás varias teclas a la vez (típico en juegos) te las registra todas sin trabarse. El cuerpo es de plástico reforzado y aguanta salpicaduras de hasta 120ml de líquido, un seguro contra el accidente del mate o la gaseosa. Suma teclas de multimedia dedicadas, botones rápidos para la luz y el Game Mode, cable trenzado y polling de 1000Hz. Detalle no menor: viene en español Latinoamérica con ñ, cosa que muchos gamer no traen. Un dato que varios reviews destacan y que no es tan común a este precio: los estabilizadores (sobre todo el de la barra espaciadora) vienen lubricados de fábrica y no traquetean, algo que ni siquiera algunos teclados bastante más caros logran. También tiene una función de bloqueo total de teclado (FN+F12) para evitar pulsaciones accidentales, y 2 años de garantía oficial de HyperX.
 
 ## La contra real
 
-Acá está el dato que la publicación no te grita: el RGB es por 5 zonas, no por tecla. La foto gamer hace pensar que pintás cada tecla de un color, pero en realidad el teclado divide el tablero en 5 franjas y cada una toma un color. Sigue siendo RGB y se ve lindo, pero no es la iluminación por tecla de los teclados más caros. Sumado a eso, no trae software: los efectos (6 modos) y el brillo (3 niveles) se cambian solo con botones del teclado, no desde la PC. Y lo más importante de entender: es membrana, no mecánico. No vas a sentir el click ni la respuesta precisa de un switch mecánico. El cable además es fijo, no desmontable, así que si se daña, se complica.
+Acá está el dato que la publicación no te grita: el RGB es por 5 zonas, no por tecla. La foto gamer hace pensar que pintás cada tecla de un color, pero en realidad el teclado divide el tablero en 5 franjas y cada una toma un color. Sigue siendo RGB y se ve lindo, pero no es la iluminación por tecla de los teclados más caros. Sumado a eso, no trae software: los efectos (6 modos) y el brillo (3 niveles) se cambian solo con botones del teclado, no desde la PC. Y lo más importante de entender: es membrana, no mecánico. No vas a sentir el click ni la respuesta precisa de un switch mecánico. El cable además es fijo, no desmontable, así que si se daña, se complica. Sobre qué tan "blanda" se siente la tecla, las opiniones están divididas: algunos reviews la describen como una de las membranas más sólidas que probaron (cerca de la sensación de un mecánico), mientras que otros la sienten particularmente "esponjosa" al fondo del recorrido. Es una cuestión de gusto personal más que un defecto, pero conviene saber que no todos coinciden.
 
 ## Cómo se compara
 
@@ -10328,6 +10332,14 @@ Comprá este teclado si querés gamer silencioso, en español con ñ y de marca,
       {
         question: "Aguanta si se me cae líquido encima?",
         answer: "Está testeado para resistir salpicaduras de hasta 120ml de líquido. No es sumergible, pero te da un margen ante el accidente del mate o la gaseosa.",
+      },
+      {
+        question: "Se puede bloquear el teclado para que no lo toquen?",
+        answer: "Sí, tiene una función de bloqueo total (FN+F12) que desactiva todas las teclas hasta que la desactivás de nuevo. Útil para evitar pulsaciones accidentales si te alejás del escritorio.",
+      },
+      {
+        question: "Qué garantía tiene?",
+        answer: "2 años de garantía oficial de HyperX.",
       },
     ],
   },
