@@ -57478,6 +57478,8 @@ Comprálo si Sterling Silver es el color que buscás específicamente. Si el pre
       { label: "Batería", value: "Recargable interna, más chica que el DualSense estándar (confirmado por Sony)" },
       { label: "Incluye", value: "Estuche de transporte con carga, cable USB trenzado, stick caps y paletas extra" },
       { label: "Gatillos adaptativos y haptics", value: "Sí, igual que el DualSense estándar" },
+      { label: "Paletas traseras activas", value: "2 tipos incluidos (media luna y palanca), pero solo un par puesto a la vez: 2 botones traseros usables, no 4" },
+      { label: "Tecnología de sticks", value: "Módulos reemplazables, pero con el mismo sistema potenciométrico del DualSense estándar (no Hall Effect)" },
     ],
     relatedProducts: ["MLA18010994", "MLA18917848"],
     priceUpdated: "2026-09-07",
@@ -57499,6 +57501,8 @@ Comprálo si Sterling Silver es el color que buscás específicamente. Si el pre
       "Sony no publica una cifra oficial de horas para ninguno de los dos controles, así que la comparación exacta de autonomía queda en estimaciones de medios (5-7 h en el Edge contra 8-12 h en el estándar, según reviews, no cifras oficiales)",
       "Cuesta más del triple que el DualSense estándar de esta guía, para sumar personalización física, no mejores gatillos adaptativos ni haptics (son los mismos)",
       "Con 194 reseñas en MercadoLibre Argentina, tiene bastante menos respaldo de compradores que el DualSense estándar (más de 18.000)",
+      "Trae 2 tipos de paletas traseras, pero solo se puede tener un par puesto a la vez: son 2 botones traseros simultáneos, no 4 como en el Xbox Elite Series 2 o los controles Scuf",
+      "Los módulos de stick son reemplazables, pero usan la misma tecnología potenciométrica del DualSense estándar (no Hall Effect): no evitan el stick drift, solo permiten repararlo sin comprar un control nuevo",
     ],
     articleBody: `## Qué es y para quién
 
@@ -57512,6 +57516,12 @@ Sony confirma oficialmente 3 tipos de stick caps intercambiables (standard, high
 
 Hay un dato que Sony mismo reconoció públicamente y que conviene saber antes de pagar el precio premium: la batería del Edge es "moderadamente más corta" que la del DualSense estándar. Desarmes independientes (citados por medios especializados) confirman que la batería física ocupa aproximadamente un tercio menos de espacio, por el lugar que le ganan los componentes de personalización. Ni el DualSense estándar ni el Edge tienen una cifra oficial de horas publicada por Sony, así que las comparaciones (5 a 7 horas en el Edge contra 8 a 12 en el estándar) son estimaciones de reviews, no datos oficiales. Otro punto importante: en gatillos adaptativos y feedback háptico, el Edge es exactamente igual al DualSense estándar de esta guía, no mejor. Lo que estás pagando es la personalización física, no una mejor experiencia base.
 
+Dos datos técnicos que varios reviews coinciden en remarcar porque la publicidad no los aclara. Primero, los botones traseros: la caja trae dos tipos de paletas (media luna y tipo palanca), pero el control solo tiene lugar físico para un par puesto a la vez. En la práctica son 2 botones traseros usables, no 4 como en el Xbox Elite Series 2 o en controles tipo Scuf. Segundo, los módulos de stick intercambiables (el gran argumento de venta contra el stick drift) usan exactamente la misma tecnología potenciométrica que el DualSense estándar, no sensores Hall Effect como sí tienen algunos controles rivales pensados para minimizar el drift. Esto no significa que el Edge no sirva contra el drift: significa que cuando un stick empieza a fallar, en vez de tirar el control entero, comprás y cambiás solo el módulo afectado. Es una solución de reparación, no una tecnología que evite el problema de raíz.
+
+## Durabilidad a largo plazo
+
+Varios usuarios que llevan uno o dos años de uso diario e intensivo (sobre todo en shooters competitivos) reportan que el control aguanta bien: sin stick drift ni desgaste notorio en el agarre trasero. Un reviewer con más de dos años y medio de uso constante, en cambio, cuenta que el revestimiento de goma de los laterales empezó a pelarse con el tiempo, aunque el control seguía funcionando sin problemas. Es el relato de un solo usuario, así que lo tomamos como un dato posible a muy largo plazo, no como algo confirmado en el grueso de las reseñas.
+
 ## Cómo se compara
 
 Frente al DualSense estándar de esta guía, cuesta más del triple. La diferencia se justifica solo si vas a usar de verdad las paletas, los gatillos ajustables y los perfiles guardados, por ejemplo en shooters competitivos. Para jugar casual, el DualSense estándar da exactamente la misma experiencia de gatillos adaptativos y haptics a un tercio del precio.
@@ -57524,6 +57534,8 @@ Comprálo si jugás de forma competitiva y vas a aprovechar la personalización 
       { question: "¿Es cierto que la batería del Edge dura menos?", answer: "Sí, Sony lo reconoció públicamente: la batería del Edge es \"moderadamente más corta\" que la del DualSense estándar. Desarmes independientes confirman que la batería física es aproximadamente un tercio más chica, por el espacio que ocupan los componentes de personalización." },
       { question: "¿Qué trae la caja del DualSense Edge?", answer: "Según Sony: el control, un cable USB trenzado con traba, 2 pares de stick caps adicionales (high dome y low dome, más el par standard ya puesto), 2 tipos de paletas traseras intercambiables, un estuche de transporte que carga el control, y el manual." },
       { question: "¿Vale la pena pagar el triple contra el DualSense estándar?", answer: "Solo si vas a usar de verdad las paletas traseras, los gatillos ajustables y los perfiles guardados, por ejemplo jugando de forma competitiva. En gatillos adaptativos y haptics, que es la tecnología central de PS5, el Edge y el estándar son exactamente iguales." },
+      { question: "¿Se pueden usar las 4 paletas traseras al mismo tiempo?", answer: "No. La caja trae dos tipos de paletas (media luna y tipo palanca), pero el control solo tiene lugar para un par puesto a la vez: son 2 botones traseros usables simultáneamente, no 4 como en el Xbox Elite Series 2 o en controles Scuf." },
+      { question: "¿Los módulos de stick intercambiables evitan el stick drift?", answer: "No lo evitan: usan la misma tecnología potenciométrica que el DualSense estándar, no sensores Hall Effect. Lo que cambia es que, si un stick empieza a fallar, se reemplaza solo ese módulo en vez de tirar el control entero." },
     ],
   },
 
