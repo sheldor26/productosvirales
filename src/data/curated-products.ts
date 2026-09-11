@@ -20025,6 +20025,7 @@ Si corrés o pedaleás afuera y querés escuchar música sin desconectarte del t
       { label: "Cable", value: "Fijo de 3 m con plug de 3,5 mm" },
       { label: "Adaptador", value: "6,3 mm incluido" },
       { label: "Peso", value: "Aprox. 190 g (sin cable)" },
+      { label: "Portabilidad", value: "No trae estuche de transporte ni bisagra para plegarse (a diferencia del M50X de la misma línea)" },
     ],
     relatedProducts: ["MLA6344268", "MLA24560880"],
     priceUpdated: "2026-09-09",
@@ -20048,6 +20049,7 @@ Si corrés o pedaleás afuera y querés escuchar música sin desconectarte del t
       "Agudos irregulares: tienen un bajon en la zona media-alta, les falta brillo y detalle fino",
       "Construccion plastica y simple: se notan mas baratos que el M40x de la misma linea",
       "Solo con cable: no tienen Bluetooth ni microfono, no sirven para llamadas ni para usarlos sueltos",
+      "No traen estuche de transporte ni bisagra para plegarse (el M50X de la misma linea si tiene), asi que llevarlos en una mochila es mas incomodo",
     ],
     articleBody: `## Que es y para que alcanza
 
@@ -20091,6 +20093,8 @@ El cable viene soldado al auricular: no se desenchufa. En la misma linea, el M40
 
 La construccion tambien es la mas simple de la serie: plastico, headband fino. Se notan mas baratos que un M40x. A cambio, son los mas livianos.
 
+Portabilidad: no traen estuche ni bolsa de transporte, y a diferencia del M50X de la misma linea, no tienen bisagra para plegarse. Si los vas a llevar en una mochila seguido, van a ocupar el espacio completo, sin poder achicarlos. El cable expuesto en la zona de las almohadillas tambien conviene cuidarlo: no tironearlo de mas para que no se corte con el tiempo.
+
 ## Para quien si y para quien no
 
 Si: arrancas a grabar, editar o hacer podcast y queres un monitor honesto con cable sin gastar de mas. Si trabajas sentado y no te molesta el cable.
@@ -20128,6 +20132,10 @@ El ATH-M20x hace una cosa y la hace bien: ser el monitor de estudio mas barato d
       {
         question: "Sirven para entrenar o correr?",
         answer: "No. Son over-ear de estudio, con calce flojo y cable: se zafan con el movimiento. Para entrenar conviene un auricular deportivo, in-ear o de oreja abierta, no este.",
+      },
+      {
+        question: "Traen estuche para llevarlos?",
+        answer: "No. No incluyen estuche ni bolsa de transporte, y tampoco tienen bisagra para plegarse como el M50X de la misma linea. Si los llevas seguido en una mochila, ocupan el espacio completo.",
       },
     ],
   },
