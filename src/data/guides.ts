@@ -25088,9 +25088,9 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { type: "h2", title: `Los mejores relojes Garmin 2026`, id: "ranking" },
 
       { type: "h3", title: `1. Garmin Forerunner 55 — mejor elección general` },
-      { type: "product-card", productMlaId: "MLA44250809", label: "Mejor elección general", labelColor: "green", ranking: 1, description: `GPS real, pantalla LCD MIP. 4.8 estrellas en 6.433 calificaciones, la base de reseñas más grande de Garmin en Argentina.` },
+      { type: "product-card", productMlaId: "MLA44250809", label: "Mejor elección general", labelColor: "green", ranking: 1, description: `GPS real, pantalla LCD MIP. 4.8 estrellas en {{reviews:MLA44250809}} calificaciones, la base de reseñas más grande de Garmin en Argentina.` },
       { type: "p", content: `El [Garmin Forerunner 55](/producto/smartwatch-forerunner-55-negro-garmin-mla44250809) es la puerta de entrada a la marca, con GPS real integrado y la base de reseñas más grande de esta guía por lejos, a alrededor de {{precio:MLA44250809:k}}.` },
-      { type: "p", content: `La contra real: pantalla LCD monocromática, sin NFC ni mapas. Es un reloj para entrenar, no un smartwatch de uso diario.` },
+      { type: "p", content: `La contra real: pantalla LCD monocromática, sin NFC ni mapas. Es un reloj para entrenar, no un smartwatch de uso diario. Un dato que no siempre se sabe: las 2 semanas de batería son con la carátula de fábrica; una personalizada desde la app consume mucho más.` },
       { type: "pull-quote", content: `"Excelente reloj, básico pero completo, muy preciso, no es difícil de utilizar, es práctico."`, attribution: `Opinión verificada en MercadoLibre` },
 
       { type: "h3", title: `2. Garmin Forerunner 965 — AMOLED y NFC` },
