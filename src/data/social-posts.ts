@@ -2549,4 +2549,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "54",
     postedAt: "2026-09-11T15:13:00-03:00",
   },
+  {
+    title: "Lavasecarropas Samsung SAWD11A4453BWUBG",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_806970-MLA113966385577_062026-O.webp",
+    affiliateUrl: "https://meli.la/1SAG8Ny",
+    newPrice: "1.399.999",
+    oldPrice: "1.799.999",
+    offPct: "22",
+    postedAt: "2026-09-11T15:39:00-03:00",
+  },
 ];
