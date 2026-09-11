@@ -2589,4 +2589,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "47",
     postedAt: "2026-09-11T18:18:00-03:00",
   },
+  {
+    title: "Silla Sillón Ejecutivo Gerencial Nictom SDO03",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_760940-MLA115443828712_082026-O.webp",
+    affiliateUrl: "https://meli.la/2ZHCbvi",
+    newPrice: "156.749",
+    oldPrice: "249.999",
+    offPct: "37",
+    postedAt: "2026-09-11T18:44:00-03:00",
+  },
 ];
