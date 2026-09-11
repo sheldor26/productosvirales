@@ -11912,6 +11912,8 @@ Comprá el G435 si jugás en PC, PlayStation, Switch o celular y querés algo in
       { label: "Tipo de micrófono", value: "Condensador electret, bidireccional con cancelación de ruido" },
       { label: "Peso aprox.", value: "298 g (sin cable)" },
       { label: "Compatibilidad", value: "PC, PS5, PS4, Xbox Series, Xbox One, Switch, celular" },
+      { label: "Rotación de copas", value: "No rotan 90° para descansar planas en el cuello" },
+      { label: "Conector 3.5mm", value: "Poco profundo: un cable de reemplazo de terceros necesita plug fino para entrar bien" },
     ],
     relatedProducts: ["MLA16280514", "MLA9406415"],
     priceUpdated: "2026-08-10",
@@ -11936,6 +11938,9 @@ Comprá el G435 si jugás en PC, PlayStation, Switch o celular y querés algo in
       "La conexión analógica de 3.5mm no trae cancelación de ruido por hardware ni control de volumen con placa de sonido: dependés de los controles del dispositivo",
       "Pesa cerca de 300 gramos, no es de los más livianos de la categoría",
       "Las almohadillas son de leatherette (cuero sintético): en verano y sesiones muy largas dan más calor que las de tela",
+      "Las copas no rotan 90° para descansar planas alrededor del cuello (sí lo hacen otros modelos como el Logitech G Pro): en pausas cortas hay que sacárselo del todo",
+      "El conector de 3.5mm es poco profundo: si en algún momento reemplazás el cable original por uno de otra marca, necesita un plug fino o puede no entrar del todo bien",
+      "El micrófono capta algo de ruido de fondo a sensibilidad máxima (100% en Windows); un par de reviews recomienda bajarla a alrededor de 70% para una voz más limpia",
     ],
     articleBody: `## Qué es y para quién
 
@@ -11948,6 +11953,12 @@ El diferencial real son los drivers de doble cámara de 50mm. En criollo: HyperX
 ## La contra real
 
 No tiene surround 7.1, y esto es lo que la publicación no te aclara. El Cloud Alpha es estéreo analógico: se conecta por jack de 3.5mm y no trae la caja de control USB que arma el 7.1 virtual (esa la tiene el Cloud II, no este). En la práctica el sonido posicional alcanza para escuchar de dónde vienen los pasos en un shooter, pero no esperes el efecto envolvente de cine. Si lo que te vendieron fue "7.1", ojo: este modelo no lo hace. Tampoco es inalámbrico, y al ser conexión analógica el volumen y el micrófono los manejás desde el dispositivo, no desde una placa de sonido propia.
+
+Dos detalles chicos que varios reviews mencionan y que no están en la ficha oficial. Primero, las copas no rotan 90°: quedan fijas en su posición, así que para colgarlo del cuello en una pausa corta no queda tan cómodo como en modelos donde sí giran (el propio HyperX Stinger, más barato, lo permite). Segundo, el conector de 3.5mm es poco profundo: si alguna vez cambiás el cable original por uno genérico, conviene que tenga un plug fino, porque uno más grueso puede no entrar del todo o desconectarse solo. El cable que trae de fábrica sí queda firme, con traba interna. Sobre el micrófono: a sensibilidad máxima (100% en Windows) un par de reviews nota algo de ruido de fondo; bajarla a un 70% aproximado deja la voz más limpia sin perder volumen real.
+
+## Durabilidad a largo plazo
+
+Un usuario que lo usó a diario durante más de dos años, varias horas seguidas, reporta dos cosas: las almohadillas de espuma con memoria recién empezaron a desgastarse y necesitar reemplazo después de ese tiempo (HyperX vende almohadillas de repuesto de forma oficial), y el armazón aguantó más de 20 caídas desde una altura de más de un metro con apenas rayones cosméticos en las partes no metálicas, sin roturas. Es el relato de un solo usuario de uso muy intensivo, pero es consistente con reviews de un año de uso que no reportan desgaste todavía.
 
 ## Cómo se compara
 
@@ -11992,6 +12003,14 @@ Compralo si jugás muchas horas seguidas y la comodidad es tu prioridad número 
       {
         question: "¿Necesita software o drivers para funcionar?",
         answer: "No, al ser analógico por 3.5mm funciona apenas lo enchufás (plug and play). No depende de instalar programas ni de una placa de sonido especial.",
+      },
+      {
+        question: "¿Las copas giran para colgarlo del cuello?",
+        answer: "No rotan 90° como sí hacen otros modelos (el propio HyperX Stinger, más barato). Quedan fijas en su posición, así que para una pausa corta conviene sacárselo del todo en vez de dejarlo colgando.",
+      },
+      {
+        question: "¿Aguanta bien el uso diario a largo plazo?",
+        answer: "Según un usuario con más de dos años de uso diario intensivo, el armazón resiste bien (más de 20 caídas con apenas rayones cosméticos), pero las almohadillas de espuma empiezan a desgastarse después de ese tiempo y hay que reemplazarlas. HyperX vende almohadillas de repuesto oficiales.",
       },
     ],
   },
