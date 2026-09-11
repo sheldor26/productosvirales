@@ -2479,4 +2479,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "13",
     postedAt: "2026-09-11T09:46:00-03:00",
   },
+  {
+    title: "Aire Acondicionado Split Hyundai Inverter Wi-Fi Frío/Calor 3200W",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_712004-MLA113359456409_062026-O.webp",
+    affiliateUrl: "https://meli.la/1bFz2V8",
+    newPrice: "756.168",
+    oldPrice: "1.356.557",
+    offPct: "44",
+    postedAt: "2026-09-11T10:11:00-03:00",
+  },
 ];
