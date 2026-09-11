@@ -2629,4 +2629,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "58",
     postedAt: "2026-09-11T20:07:00-03:00",
   },
+  {
+    title: "Anafe Eléctrico Empotrable Hoffman 2H 3000W",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_805012-MLA112946125017_062026-O.webp",
+    affiliateUrl: "https://meli.la/1mbMVCC",
+    newPrice: "151.319",
+    oldPrice: "262.972",
+    offPct: "42",
+    postedAt: "2026-09-11T20:33:00-03:00",
+  },
 ];
