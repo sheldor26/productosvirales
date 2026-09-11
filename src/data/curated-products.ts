@@ -70945,6 +70945,10 @@ Comprá el Haylou Solar LS05S si tu prioridad es no cargar el reloj seguido, y v
       { label: "Memoria", value: "32 GB internos, 2 GB de RAM" },
       { label: "Compatibilidad", value: "Solo Android 11.0 o superior — no compatible con iPhone" },
       { label: "Peso", value: "33,3 g / 33,8 g según la fuente" },
+      { label: "ECG y presión arterial", value: "Requieren específicamente un celular Samsung Galaxy — con Android de otra marca, esas funciones no están disponibles (confirmado en soporte oficial de Samsung)" },
+      { label: "Tiempo de carga", value: "Aprox. 88 minutos de 1% a 100%, según reseñas cronometradas" },
+      { label: "Caja del reloj", value: "Aluminio" },
+      { label: "Accesorios incluidos", value: "Cargador inalámbrico con cable USB-C" },
     ],
     relatedProducts: ["MLA42520227", "MLA26666337", "MLA51929440", "MLA24530447"],
     priceUpdated: "2026-09-04",
@@ -70960,11 +70964,14 @@ Comprá el Haylou Solar LS05S si tu prioridad es no cargar el reloj seguido, y v
       "GPS de doble frecuencia (L1+L5), que el fabricante declara más preciso en zonas urbanas densas",
       "El set de sensores más completo de esta guía según la web oficial de Samsung: incluye ECG y sensor de bioimpedancia (composición corporal), que ninguna otra opción tiene",
       "Con diferencia la base de reseñas más grande de esta guía: {{reviews:MLA38058572}} calificaciones, 4.9 estrellas",
+      "Carga rápida: de 1% a 100% en unos 88 minutos, según reseñas cronometradas",
+      "Trae el cargador inalámbrico con cable USB-C incluido en la caja",
     ],
     cons: [
       "Batería real, según la propia web de Samsung: hasta 40 horas sin pantalla siempre activa (menos de 2 días), muy por debajo de los 18 días declarados del Xiaomi o las 2 semanas confirmadas del Amazfit — el punto más débil frente al resto de esta guía",
       "Solo compatible con Android 11 o superior — no funciona con iPhone, a diferencia de las otras opciones de esta guía",
       "La ficha de MercadoLibre lista \"presión arterial\" como función, pero la web oficial de Samsung no la muestra como sensor dedicado: es una estimación por software del mismo sensor óptico de frecuencia cardíaca, no un reemplazo de un tensiómetro certificado",
+      "El ECG y la presión arterial solo funcionan si tenés un celular Samsung Galaxy: con un Android de otra marca (Xiaomi, Motorola, etc.), esas funciones no están disponibles pese a que el sensor está en el reloj, confirmado en la página oficial de soporte de Samsung",
       "Stock ajustado al momento de verificar (últimas unidades en la publicación), vendedor único — conviene chequear disponibilidad en vivo",
     ],
     articleBody: `## Qué es y para quién
@@ -70973,11 +70980,13 @@ El Samsung Galaxy Watch7 de 44mm es un smartwatch con ecosistema Android complet
 
 ## Cómo funciona
 
-Pantalla Super AMOLED de 1,47" con cristal de zafiro (480x480 px), procesador Penta-Core de 3 nm (1,6 GHz + 1,5 GHz, según la web oficial de Samsung), batería de 425 mAh, GPS de doble frecuencia (L1+L5) que Samsung describe como el más preciso usado hasta ahora en un Galaxy Watch, NFC para pagos sin contacto, 32 GB de memoria interna y 2 GB de RAM, resistencia al agua IP68 (5 ATM). Es la versión Bluetooth (sin red móvil/LTE) y requiere Android 11 o superior: no es compatible con iPhone.
+Pantalla Super AMOLED de 1,47" con cristal de zafiro (480x480 px), procesador Penta-Core de 3 nm (1,6 GHz + 1,5 GHz, según la web oficial de Samsung), batería de 425 mAh, GPS de doble frecuencia (L1+L5) que Samsung describe como el más preciso usado hasta ahora en un Galaxy Watch, NFC para pagos sin contacto, 32 GB de memoria interna y 2 GB de RAM, resistencia al agua IP68 (5 ATM). La caja del reloj es de aluminio. Es la versión Bluetooth (sin red móvil/LTE) y requiere Android 11 o superior: no es compatible con iPhone. Carga rápido (de 1% a 100% en unos 88 minutos según reseñas cronometradas) y trae el cargador inalámbrico con cable USB-C incluido en la caja.
 
 ## La contra real
 
 El NFC funciona de verdad: "ahora, tengo información de salud muy útil y puedo pagar mis cuentas con tarjeta de crédito desde el Watch7", confirma una reseña real. Pero la web oficial de Samsung (no la ficha de MercadoLibre, que no da esta cifra) confirma la contra más importante: la batería rinde hasta 40 horas con la pantalla siempre activa desactivada, y hasta 30 horas con esa función prendida — es decir, menos de 2 días de uso real, muy por debajo de los 18 días declarados del Xiaomi o las 2 semanas confirmadas del Amazfit de esta guía. También hay una discrepancia entre fuentes que conviene aclarar: la ficha de MercadoLibre lista "presión arterial" entre las funciones, pero la tabla de especificaciones oficial de Samsung no incluye un sensor de presión arterial dedicado — sí lista sensor óptico de frecuencia cardíaca, sensor de bioimpedancia (composición corporal), sensor de temperatura infrarrojo y sensor de electrocardiograma (ECG). La medición de presión que ofrecen los Galaxy Watch en general es una estimación por software que usa el mismo sensor de frecuencia cardíaca, requiere calibrarse con un tensiómetro tradicional cada cierto tiempo, y no está disponible en todos los países — no la tomamos como un sensor confirmado de forma independiente.
+
+Hay un matiz más sobre el ECG y la presión arterial que vale la pena aclarar, verificado directamente en la página de soporte oficial de Samsung: esas funciones solo están disponibles si el reloj se usa junto a un **celular Samsung Galaxy**. Si tenés Android pero de otra marca (Xiaomi, Motorola, un Android genérico), el reloj se sincroniza igual y la mayoría de las funciones andan, pero perdés el ECG, la presión arterial y las notificaciones de ritmo cardíaco irregular, aunque el hardware del sensor esté físicamente en el reloj. Es un dato importante para no llevarse una sorpresa: "Samsung" en la caja no alcanza, hace falta que el celular también sea Samsung.
 
 ## Cómo se compara con las otras de esta guía
 
@@ -71006,6 +71015,14 @@ Comprá el Samsung Galaxy Watch7 si tenés un celular Android y querés pagar si
       {
         question: "¿Qué sensores tiene además de frecuencia cardíaca?",
         answer: "Según la web oficial de Samsung: acelerómetro, giroscopio, barómetro, sensor geomagnético, sensor de temperatura infrarrojo (piel), sensor de bioimpedancia (composición corporal) y sensor de electrocardiograma (ECG) — el set más completo de esta guía.",
+      },
+      {
+        question: "¿El ECG y la presión arterial funcionan con cualquier celular Android?",
+        answer: "No. Según la página oficial de soporte de Samsung, esas funciones requieren específicamente un celular Samsung Galaxy. Si tenés Android de otra marca (Xiaomi, Motorola, etc.), el reloj funciona igual para la mayoría de las cosas, pero no vas a poder usar el ECG, la presión arterial ni las notificaciones de ritmo cardíaco irregular, aunque el sensor esté en el reloj.",
+      },
+      {
+        question: "¿Cuánto tarda en cargarse?",
+        answer: "Según reseñas cronometradas, de 1% a 100% tarda unos 88 minutos. Trae el cargador inalámbrico con cable USB-C incluido en la caja.",
       },
     ],
     structuredData: {
