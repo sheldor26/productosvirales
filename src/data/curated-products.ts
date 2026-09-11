@@ -59701,7 +59701,9 @@ Compralo si querés cubrir toda la casa de una vez, sin mensualidad y con margen
       { label: "Visión nocturna a color", value: "Sí (según ficha ML)" },
       { label: "Alimentación", value: "Corriente eléctrica" },
       { label: "Asistentes compatibles", value: "Alexa y Asistente de Google" },
-      { label: "Almacenamiento", value: "Micro-SD (no incluida)" },
+      { label: "Almacenamiento", value: "Micro-SD hasta 256 GB (no incluida) o nube EZVIZ" },
+      { label: "Conectividad", value: "Wi-Fi, solo banda 2.4 GHz (no 5 GHz); también tiene puerto Ethernet como alternativa" },
+      { label: "Alcance visión nocturna", value: "Aproximadamente 10 m; varias reviews describen la imagen nocturna en blanco y negro, no a color como indica la ficha de ML" },
     ],
     relatedProducts: ["MLA26988384", "MLA19663400", "MLA18711640"],
     priceUpdated: "2026-09-07",
@@ -59724,6 +59726,8 @@ Compralo si querés cubrir toda la casa de una vez, sin mensualidad y con margen
       "Resolución Full HD, contra el 2K de la Tapo C210 a precio parecido",
       "Solo interior, y necesita un enchufe cerca",
       "Specs sin verificar en la página del fabricante (inaccesible al momento del research)",
+      "Solo se conecta a redes Wi-Fi de 2.4 GHz, no a 5 GHz (aunque tiene puerto Ethernet como alternativa)",
+      "Una review internacional detallada describe la visión nocturna como blanco y negro, no a color como indica la ficha de ML: convendría no confiar en ese dato sin confirmarlo antes de comprar",
     ],
     articleBody: `## Qué es y para quién
 
@@ -59737,6 +59741,8 @@ La detección de figura humana reduce las falsas alarmas típicas de los sensore
 
 Su base de opiniones es la más chica de la guía: {{reviews:MLA37794717}} calificaciones, contra las más de 5.000 de las demás. Sigue siendo una muestra grande, pero es justo decirlo. La resolución es Full HD, un escalón abajo del 2K de la Tapo C210 que sale parecido. Es solo de interior, necesita enchufe cerca, y la página del fabricante para la región no estuvo accesible durante el research, así que las specs se sostienen con la ficha de ML y las reseñas.
 
+Dos datos técnicos que aparecen en reviews internacionales detalladas y que conviene conocer. Primero: solo se conecta a redes Wi-Fi de 2.4 GHz, no a 5 GHz (tiene puerto Ethernet como alternativa si preferís cable). Segundo, y el más importante: la ficha de MercadoLibre dice que la visión nocturna es a color, pero al menos una review detallada la describe como blanco y negro, el formato típico de la mayoría de las cámaras con infrarrojo. No pudimos confirmarlo contra la página oficial del fabricante (inaccesible durante este research), así que es un dato para tomar con pinzas hasta confirmarlo directamente con el vendedor antes de comprar.
+
 ## Para quién sí y para quién no
 
 Comprala si querés detección de personas de verdad (no alertas por cada cortina que se mueve) en una motorizada de interior de marca especialista. No la compres si preferís la máxima base de opiniones o la mejor resolución: ahí la Tapo C210 le gana en 2K y en historial.`,
@@ -59746,6 +59752,9 @@ Comprala si querés detección de personas de verdad (no alertas por cada cortin
       { question: "¿Sirve para exterior?", answer: "No, es de interior y se alimenta de corriente eléctrica, sin resistencia al agua declarada." },
       { question: "¿Por qué tiene menos calificaciones que las otras?", answer: "Es un modelo con menos rotación en el catálogo argentino: {{reviews:MLA37794717}} calificaciones, contra más de 5.000 del resto de la guía. La muestra igual es amplia y el promedio (4.9) es el más alto junto a la Tapo C210." },
       { question: "¿Detecta sonidos?", answer: "Sí, además del movimiento detecta ruidos anormales y avisa al celular, según la ficha y las reseñas." },
+      { question: "¿Se conecta a Wi-Fi de 5 GHz?", answer: "No, solo se conecta a redes de 2.4 GHz. Tiene puerto Ethernet como alternativa si tu router es de banda dual o preferís conectarla por cable." },
+      { question: "¿La visión nocturna es a color?", answer: "La ficha de MercadoLibre lo indica, pero al menos una review internacional detallada la describe en blanco y negro, el formato típico de la mayoría de cámaras con infrarrojo. No pudimos confirmarlo contra la página oficial del fabricante, así que conviene preguntarle al vendedor antes de comprar si ese detalle es importante para vos." },
+      { question: "¿Cuánta memoria micro-SD admite?", answer: "Hasta 256 GB, según reviews internacionales que confirmaron el dato. No viene incluida." },
     ],
   },
 
