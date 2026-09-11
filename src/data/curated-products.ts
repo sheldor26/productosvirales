@@ -59530,14 +59530,17 @@ Comprala si querés la mejor cámara de interior del catálogo, con marca recono
       { label: "Resolución", value: "Full HD 1080p" },
       { label: "Compresión de video", value: "H.265 (archivos más livianos)" },
       { label: "Zoom digital", value: "8x" },
-      { label: "Visión nocturna", value: "Alcance 12 m" },
+      { label: "Visión nocturna", value: "Alcance 12 m, en blanco y negro (infrarrojo), confirmado por varias reviews" },
       { label: "Audio bidireccional", value: "Sí" },
       { label: "Alarma y alerta al celular", value: "Sí" },
       { label: "Alimentación", value: "Cable USB con cargador incluido" },
       { label: "Resistente al agua", value: "No (interior)" },
       { label: "Montaje", value: "Se pega o se atornilla (placa metálica incluida)" },
       { label: "Dimensiones", value: "10,33 x 9,03 cm" },
-      { label: "Almacenamiento", value: "Micro-SD (no incluida)" },
+      { label: "Almacenamiento", value: "Micro-SD (no incluida); varias reviews indican un tope de 256 GB, aunque al menos una menciona 512 GB" },
+      { label: "Conectividad", value: "Wi-Fi, solo banda 2.4 GHz (no 5 GHz); necesita Wi-Fi para configurarse y no tiene modo access point propio" },
+      { label: "Grabación sin internet", value: "Sigue grabando en la micro-SD aunque se corte el Wi-Fi o el internet; solo hace falta conexión para ver el video en vivo o remoto" },
+      { label: "Seguridad anti-robo", value: "El botón de reset no desvincula la cámara de la cuenta original: si te la roban, no se puede re-vincular a otra cuenta sin desbloquearla desde soporte de EZVIZ" },
     ],
     relatedProducts: ["MLA37794717", "MLA19663400", "MLA18711640"],
     priceUpdated: "2026-08-31",
@@ -59554,12 +59557,16 @@ Comprala si querés la mejor cámara de interior del catálogo, con marca recono
       "Compresión H.265: los videos ocupan menos memoria que en cámaras H.264",
       "Audio bidireccional que las reseñas describen como muy bueno",
       "Funciona bien con poca luz, según compradores",
+      "Sigue grabando en la memoria aunque se corte el Wi-Fi o el internet: solo necesitás conexión para ver el video en vivo o remoto, no para que grabe",
+      "Tiene una función anti-robo real: si te la roban, resetearla no la desvincula de tu cuenta, así que no la pueden re-configurar en otro celular sin pasar por soporte de EZVIZ",
     ],
     cons: [
       "Es fija: no gira ni hace seguimiento (para eso, la Ezviz TY1 o la Gadnic SX39)",
       "Solo interior, no resiste agua",
       "La micro-SD para grabar se compra aparte",
       "Specs sin verificar en la página del fabricante (inaccesible al momento del research); sostenidas con ficha técnica de ML y reseñas",
+      "Solo se conecta a redes Wi-Fi de 2.4 GHz, no a 5 GHz, y necesita Wi-Fi para configurarse (no tiene modo hotspot propio)",
+      "La visión nocturna es en blanco y negro (infrarrojo), no a color",
     ],
     articleBody: `## Qué es y para quién
 
@@ -59567,11 +59574,11 @@ La Ezviz H1C es una mini cámara Wi-Fi de interior: Full HD, visión nocturna de
 
 ## Lo bueno
 
-Hace lo esencial bien y barato. Las reseñas repiten dos elogios: la facilidad de conexión y la calidad de imagen y sonido para el precio ("sorprendido: imagen, sonido, conexión, velocidad, estética", arranca una opinión). Comprime en H.265, así que los videos ocupan menos memoria que en la mayoría de las cámaras económicas. Un comprador da un consejo práctico: configurala y probala en cada ambiente antes de fijarla, para verificar que la señal de Wi-Fi llegue bien.
+Hace lo esencial bien y barato. Las reseñas repiten dos elogios: la facilidad de conexión y la calidad de imagen y sonido para el precio ("sorprendido: imagen, sonido, conexión, velocidad, estética", arranca una opinión). Comprime en H.265, así que los videos ocupan menos memoria que en la mayoría de las cámaras económicas. Un comprador da un consejo práctico: configurala y probala en cada ambiente antes de fijarla, para verificar que la señal de Wi-Fi llegue bien. Dos datos que suman confianza, confirmados por varias reviews internacionales detalladas: sigue grabando en la micro-SD aunque se corte el Wi-Fi o el internet (solo hace falta conexión para ver el video, no para que grabe), y tiene una función de seguridad real contra robos: si alguien te la roba y la resetea, no puede vincularla a su propia cuenta sin pasar por soporte de EZVIZ, a diferencia de las cámaras genéricas sin marca donde el reset borra todo.
 
 ## La contra real
 
-Es fija: apunta a donde la instalaste y listo, sin giro ni seguimiento. Para grabar hay que sumarle una micro-SD aparte, como avisa la reseña crítica más concreta ("para poder grabar hay que comprar una tarjeta micro SD aparte"). Y es estrictamente de interior. Un detalle de transparencia: la página de Ezviz para Latinoamérica no estuvo accesible durante el research, así que las specs se sostienen con la ficha técnica de MercadoLibre y las reseñas, no con el fabricante.
+Es fija: apunta a donde la instalaste y listo, sin giro ni seguimiento. Para grabar hay que sumarle una micro-SD aparte, como avisa la reseña crítica más concreta ("para poder grabar hay que comprar una tarjeta micro SD aparte"). Y es estrictamente de interior. Un detalle de transparencia: la página de Ezviz para Latinoamérica no estuvo accesible durante el research, así que las specs se sostienen con la ficha técnica de MercadoLibre y las reseñas, no con el fabricante. Dos datos técnicos más que varias reviews confirman: solo se conecta a Wi-Fi de 2.4 GHz (no 5 GHz) y necesita esa conexión para configurarse, ya que no tiene un modo de conexión directa propio. Y la visión nocturna es en blanco y negro con infrarrojo, no a color.
 
 ## Para quién sí y para quién no
 
@@ -59582,6 +59589,10 @@ Comprala si querés tu primera cámara de interior o sumar puntos de vigilancia 
       { question: "¿Cómo se instala?", answer: "Se pega con el adhesivo incluido o se atornilla con la placa metálica. Las reseñas la describen como muy fácil de conectar al Wi-Fi." },
       { question: "¿Graba sin memoria?", answer: "No, para grabar necesita una micro-SD que se compra aparte. Sin memoria solo muestra en vivo desde la app." },
       { question: "¿Por qué es tan barata siendo de marca?", answer: "Porque es el modelo de entrada de Ezviz: fija, de interior y sin motorización. Lo esencial (imagen Full HD, visión nocturna, audio) lo cumple bien según más de 6.400 calificaciones." },
+      { question: "¿Deja de grabar si se corta el internet o el Wi-Fi?", answer: "No. Sigue grabando en la micro-SD aunque no haya conexión; el internet solo hace falta para ver el video en vivo o revisar grabaciones de forma remota desde la app." },
+      { question: "¿Se conecta a Wi-Fi de 5 GHz?", answer: "No, solo a redes de 2.4 GHz, y además necesita Wi-Fi para configurarse inicialmente: no tiene un modo de conexión directa (hotspot) propio." },
+      { question: "¿Qué pasa si me la roban?", answer: "Tiene una función de seguridad real: una vez vinculada a tu cuenta, resetearla no la desvincula. Quien te la robe no puede configurarla en otro celular sin pasar por soporte de EZVIZ y comprobar que es dueño legítimo, a diferencia de las cámaras genéricas sin marca." },
+      { question: "¿La visión nocturna es a color?", answer: "No, es en blanco y negro con infrarrojo, según confirman varias reviews. Para visión nocturna a color hay que ir a modelos superiores de la marca." },
     ],
   },
   {
