@@ -10722,7 +10722,9 @@ Comprá el K622 Horus si querés un mecánico silencioso, fino y en español, y 
       { label: "Anti-ghosting", value: "N-key rollover (registra todas las teclas a la vez)" },
       { label: "Memoria", value: "5 perfiles guardados en el teclado" },
       { label: "Software", value: "Razer Synapse (solo Windows)" },
-      { label: "Switch", value: "Óptico Razer, versión clicky (morado) o lineal (rojo)" },
+      { label: "Switch", value: "Óptico Razer, versión clicky (morado) o lineal (rojo), pre-lubricados de fábrica" },
+      { label: "Distancia de actuación", value: "1.2 mm en el switch lineal rojo (un mecánico común ronda los 2 mm)" },
+      { label: "Barra espaciadora", value: "Estabilizador de diseño no estándar: puede sonar algo más suelto de fábrica y desarmarla para cambiar el keycap es más complicado que en un mecánico común" },
     ],
     relatedProducts: ["MLA57380272", "MLA16369071"],
     priceUpdated: "2026-09-11",
@@ -10740,6 +10742,7 @@ Comprá el K622 Horus si querés un mecánico silencioso, fino y en español, y 
       "Chroma RGB por tecla (no por zona): cada tecla se ilumina y configura por separado",
       "5 perfiles guardados en la memoria del teclado: lo llevás a otra PC y mantenés tu config sin instalar nada",
       "Formato 60% real: libera todo el escritorio para mover el mouse, ideal para shooters con baja sensibilidad",
+      "Switches pre-lubricados de fábrica y con distancia de actuación de apenas 1.2 mm (un mecánico común ronda los 2 mm): responden más rápido de entrada, sin necesidad de modificarlo",
     ],
     cons: [
       "Layout inglés US: no tiene ñ ni acentos en tecla propia, los hacés con combinaciones. Para escribir mucho en español es incómodo",
@@ -10748,6 +10751,7 @@ Comprá el K622 Horus si querés un mecánico silencioso, fino y en español, y 
       "Precio alto para un teclado chico: a $138.000 hay mecánicos full size de marca por menos plata",
       "El software Razer Synapse es solo para Windows: en consola o Mac funciona, pero sin personalización completa",
       "Sin apoyamuñecas incluido ni patas de altura tan generosas como un teclado grande",
+      "El estabilizador de la barra espaciadora tiene un diseño distinto al de un mecánico común: de fábrica puede sonar un poco más suelto (rattly) que el resto de las teclas, y para sacar ese keycap y modificarlo es más complicado que en un teclado estándar",
     ],
     articleBody: `## Qué es y para quién
 
@@ -10755,11 +10759,11 @@ El Razer Huntsman Mini es un teclado gamer 60% óptico de gama premium, pensado 
 
 ## Lo bueno
 
-Lo que justifica el precio son los materiales y los switches ópticos. El switch óptico activa la tecla con un haz de luz en vez del contacto físico de un mecánico común, así que la respuesta es más rápida y no hay rebote. Los keycaps son de doubleshot PBT: la letra está formada en dos capas de plástico, no impresa encima, así que nunca se borra, y el PBT no se pone brilloso con el uso como el ABS barato. El top frame es de aluminio, o sea que el teclado no flexa ni cruje. El cable es USB-C desmontable con traba: lo sacás para transportarlo y si se daña lo reemplazás por cualquier cable estándar. Y guarda hasta 5 perfiles en su propia memoria, así que lo enchufás en otra PC y mantenés tu configuración sin instalar nada.
+Lo que justifica el precio son los materiales y los switches ópticos. El switch óptico activa la tecla con un haz de luz en vez del contacto físico de un mecánico común, así que la respuesta es más rápida y no hay rebote. En números: la distancia de actuación del switch lineal rojo es de apenas 1.2 mm, contra los cerca de 2 mm de un mecánico típico, y vienen pre-lubricados de fábrica, algo que en otras marcas hay que hacer a mano para mejorar el tacto. Los keycaps son de doubleshot PBT: la letra está formada en dos capas de plástico, no impresa encima, así que nunca se borra, y el PBT no se pone brilloso con el uso como el ABS barato. El top frame es de aluminio, o sea que el teclado no flexa ni cruje. El cable es USB-C desmontable con traba: lo sacás para transportarlo y si se daña lo reemplazás por cualquier cable estándar. Y guarda hasta 5 perfiles en su propia memoria, así que lo enchufás en otra PC y mantenés tu configuración sin instalar nada.
 
 ## La contra real
 
-La contra más importante es el layout: es inglés US, sin ñ ni acentos en tecla propia. Si jugás y nada más, no te va a molestar. Pero si además escribís mensajes, trabajás o estudiás en la misma compu, vas a extrañar la ñ todo el tiempo (la hacés con combinaciones). Sumá que es 60% de verdad: las flechas, las F y el numérico no existen como teclas físicas, los usás con la tecla FN, y eso tiene curva de adaptación. Otra cosa a tener clara: la publicación dice "óptico RGB" pero no aclara el switch, y el Huntsman Mini viene en dos versiones, clicky (morado, hace ruido) o lineal (rojo, suave). Antes de comprar conviene preguntar cuál mandan. Por último, el software Razer Synapse para personalizar a fondo es solo de Windows.
+La contra más importante es el layout: es inglés US, sin ñ ni acentos en tecla propia. Si jugás y nada más, no te va a molestar. Pero si además escribís mensajes, trabajás o estudiás en la misma compu, vas a extrañar la ñ todo el tiempo (la hacés con combinaciones). Sumá que es 60% de verdad: las flechas, las F y el numérico no existen como teclas físicas, los usás con la tecla FN, y eso tiene curva de adaptación. Otra cosa a tener clara: la publicación dice "óptico RGB" pero no aclara el switch, y el Huntsman Mini viene en dos versiones, clicky (morado, hace ruido) o lineal (rojo, suave). Antes de comprar conviene preguntar cuál mandan. Por último, el software Razer Synapse para personalizar a fondo es solo de Windows. Un detalle menor que varios reviews de largo plazo mencionan: el estabilizador de la barra espaciadora usa un diseño distinto al de un mecánico común, y de fábrica puede sonar un poco más suelto que el resto de las teclas. No es un defecto que afecte el juego, pero si sos de los que abren el teclado para modificarlo, sacar ese keycap en particular es más complicado que en un mecánico estándar.
 
 ## Cómo se compara con las otras opciones
 
@@ -10800,6 +10804,14 @@ Sí, si jugás competitivo, valorás los switches ópticos y querés un teclado 
       {
         question: "¿Conviene a $138.000 o hay algo mejor por menos?",
         answer: "Conviene si buscás específicamente un 60% premium con switches ópticos para competitivo. Si querés gastar menos o necesitás español y numérico, un mecánico full size como el Redragon Kumara K552 te rinde más por la plata.",
+      },
+      {
+        question: "¿Los switches vienen lubricados de fábrica?",
+        answer: "Sí, los switches ópticos Razer vienen pre-lubricados de fábrica, con una distancia de actuación de 1.2 mm (contra cerca de 2 mm de un mecánico común). No hace falta modificarlo para que responda rápido.",
+      },
+      {
+        question: "¿La barra espaciadora suena distinto al resto de las teclas?",
+        answer: "El estabilizador de la barra espaciadora usa un diseño distinto al de un mecánico estándar, y de fábrica puede sonar un poco más suelto que las demás teclas. No afecta el funcionamiento, pero si querés modificarla, sacar ese keycap es más complicado que en un teclado mecánico común.",
       },
       {
         question: "¿Guarda la configuración si lo cambio de PC?",
