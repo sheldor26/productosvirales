@@ -2579,4 +2579,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "57",
     postedAt: "2026-09-11T17:44:00-03:00",
   },
+  {
+    title: 'Monitor Noblex 27" NXSM2700 LED FHD 1ms 100Hz',
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_728527-MLA99914838207_112025-O.webp",
+    affiliateUrl: "https://meli.la/1Rc4gT2",
+    newPrice: "187.999",
+    oldPrice: "356.399",
+    offPct: "47",
+    postedAt: "2026-09-11T18:18:00-03:00",
+  },
 ];
