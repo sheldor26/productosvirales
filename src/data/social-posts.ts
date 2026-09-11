@@ -2609,4 +2609,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "39",
     postedAt: "2026-09-11T19:15:00-03:00",
   },
+  {
+    title: 'Smart TV Enova 43" Full HD Google TV',
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_672702-MLA110306008890_052026-O.webp",
+    affiliateUrl: "https://meli.la/2bDxCyo",
+    newPrice: "399.199",
+    oldPrice: "465.000",
+    offPct: "14",
+    postedAt: "2026-09-11T19:41:00-03:00",
+  },
 ];
