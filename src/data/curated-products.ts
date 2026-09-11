@@ -59357,6 +59357,7 @@ Comprala si querés vigilar un frente, patio o cochera con una sola cámara que 
       { label: "Wi-Fi", value: "Solo 2.4 GHz (802.11 b/g/n)" },
       { label: "Audio bidireccional", value: "Sí (micrófono y parlante)" },
       { label: "Alarma", value: "Sí, de luz y sonido" },
+      { label: "Detección inteligente", value: "IA de detección de personas, seguimiento de movimiento (motion tracking) y detección de llanto de bebé — no disponible en el modelo hermano más barato (C200)" },
       { label: "Almacenamiento", value: "Micro-SD hasta 256 GB (no incluida)" },
       { label: "Asistentes compatibles", value: "Alexa y Asistente de Google" },
       { label: "Alimentación", value: "Adaptador 9 V con cable de 3 m" },
@@ -59375,6 +59376,7 @@ Comprala si querés vigilar un frente, patio o cochera con una sola cámara que 
       "La mejor calificada de la categoría: 4.9 en más de 6.300 opiniones, con 90% de 5 estrellas",
       "Resolución 2K de 3 MP real (2304 x 1296), verificada en la página de TP-Link Argentina",
       "Gira 360° en horizontal y 114° en vertical, con seguimiento de movimiento",
+      "Detección de personas por IA, seguimiento de movimiento y detección de llanto de bebé: funciones que el modelo hermano más barato (C200) no tiene",
       "App Tapo muy bien valorada: hasta 32 cámaras, sin depender de suscripción para grabar en la micro-SD",
       "Marca global con soporte local y modo privacidad (apagás la vigilancia cuando estás en casa)",
     ],
@@ -59392,6 +59394,8 @@ La Tapo C210 es la cámara de interior de TP-Link, la marca global de routers y 
 
 La imagen 2K se nota: "por poca diferencia los 2K se ven", resume una reseña argentina. La app Tapo es de lo más elogiado, con soporte para hasta 32 cámaras y sin necesidad de pagar suscripción: todo graba en una micro-SD local de hasta 256 GB. Un comprador detalla que con una tarjeta de 64 GB graba unos 4 días en Full HD continuo, o 7 bajando la calidad. Suma seguimiento de movimiento, alarma de luz y sonido, audio en ambos sentidos y modo privacidad. Las specs las verificamos contra la página oficial de TP-Link Argentina.
 
+Un plus real frente al modelo hermano más barato (C200): la C210 suma detección de personas por inteligencia artificial y motion tracking (la cámara gira sola para seguir a la persona detectada), además de detección de llanto de bebé. Son funciones de IA que el C200 no tiene, según confirma una comparación directa entre ambos modelos.
+
 ## La contra real
 
 Es de interior: el fabricante no la declara resistente al agua (la ficha de MercadoLibre menciona un IP67 que contradice tanto al fabricante como a otra línea de la misma ficha, así que no lo tomes en cuenta). Solo se conecta a Wi-Fi de 2.4 GHz, un límite si tu router es moderno y emite solo en 5 GHz. La memoria va aparte, y el dato honesto de una reseña: una micro-SD grande puede costar casi la mitad de la cámara. Y graba a 15 cuadros por segundo, suficiente para vigilancia pero menos fluido que un video normal.
@@ -59403,6 +59407,7 @@ Comprala si querés la mejor cámara de interior del catálogo, con marca recono
       { question: "¿La Tapo C210 sirve para exterior?", answer: "No. TP-Link la lista como cámara de interior y no declara resistencia al agua. Para exterior conviene una IP66 real, como la Geotek doble lente o el kit Geotek de esta guía." },
       { question: "¿Necesita suscripción para grabar?", answer: "No. Graba en una micro-SD local de hasta 256 GB (se compra aparte). Con 64 GB, una reseña reporta unos 4 días de grabación continua en Full HD." },
       { question: "¿Funciona con Wi-Fi de 5 GHz?", answer: "No, solo se conecta a redes de 2.4 GHz (802.11 b/g/n). Verificá que tu router tenga esa banda activa." },
+      { question: "¿Tiene detección de personas por IA?", answer: "Sí, además de seguimiento de movimiento (la cámara gira sola para seguir a la persona) y detección de llanto de bebé. Son funciones de IA que el modelo hermano más barato, la C200, no tiene." },
       { question: "¿Qué resolución tiene realmente?", answer: "3 MP reales: 2304 x 1296, lo que se comercializa como 2K. Lo verificamos en la página oficial de TP-Link Argentina." },
       { question: "¿Se puede apagar cuando estoy en casa?", answer: "Sí, tiene modo privacidad que desactiva la vigilancia desde la app, sin desenchufarla." },
       { question: "¿Cuántas cámaras maneja la app?", answer: "La app Tapo admite hasta 32 cámaras, con vista simultánea de varias." },

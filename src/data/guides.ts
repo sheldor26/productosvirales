@@ -5909,7 +5909,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
 
       { type: "h3", title: `1. Tapo C210 — una sola cámara, 2K` },
       { type: "product-card", productMlaId: "MLA19663400", label: "Una sola cámara, 2K", labelColor: "purple", ranking: 1, description: `2K real de 3 MP, giro de 360° y la mejor app del grupo. 4.9 estrellas en más de 6.300 calificaciones, la mejor calificada de la categoría. Solo interior.` },
-      { type: "p", content: `Si solo necesitás cubrir un punto de interior con la mejor imagen posible, la Tapo C210 es la elección: **2K reales (3 MP)**, giro de 360° y 4.9 de promedio en más de 6.300 opiniones, la mejor calificación de toda la categoría de cámaras del sitio, a alrededor de {{precio:MLA19663400:k}}.` },
+      { type: "p", content: `Si solo necesitás cubrir un punto de interior con la mejor imagen posible, la Tapo C210 es la elección: **2K reales (3 MP)**, giro de 360° y 4.9 de promedio en más de 6.300 opiniones, la mejor calificación de toda la categoría de cámaras del sitio, a alrededor de {{precio:MLA19663400:k}}. También suma detección de personas por IA, seguimiento de movimiento y detección de llanto de bebé, funciones que el kit C200 (más abajo) no tiene.` },
       { type: "p", content: `Es solo de interior y solo se conecta a Wi-Fi de 2.4 GHz. Si necesitás cubrir dos puntos en vez de uno, seguí leyendo.` },
 
       { type: "h3", title: `2. Kit Tapo C200 x2 — interior económico` },
