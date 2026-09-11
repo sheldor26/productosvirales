@@ -6,6 +6,30 @@
 > chequearlos en MercadoLibre. Si son reales, avisar para aplicarlos a mano.
 > Entradas nuevas arriba.
 
+## 2026-09-11
+
+- **MLA16132352** — Cámara Deportiva Akaso V50X: $176.899 → $599.999 (+239%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA16132352
+  - Sitio: https://productosvirales.com.ar/producto/MLA16132352
+- **MLA23686313** — Horno Eléctrico Grill Atma Capacidad 40 Litros 2 Anafes: $231.170 → $499.999 (+116%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA23686313
+  - Sitio: https://productosvirales.com.ar/producto/MLA23686313
+- **MLA8732921** — Auriculares Gamer Con Cable HyperX Cloud HX-HSCA Black y Red: $91.379 → $779.403 (+753%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA8732921
+  - Sitio: https://productosvirales.com.ar/producto/MLA8732921
+- **MLA28103250** — Humidificador Vaporizador Ambiente Ultrasónico Daewoo DHU335 Blanco y Azul: $149.950 → $447.600 (+198%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA28103250
+  - Sitio: https://productosvirales.com.ar/producto/MLA28103250
+- **MLA62609709** — Bloques Magnéticos Cubos Para Armar Estilo Minecraft 60 Piezas: $27.150 → $80.999 (+198%)
+  - ML: https://www.mercadolibre.com.ar/bloques-magneticos-cubos-para-armar-de-construccion-estilo-minecraft-para-ninos-60-piezas-didacticos-creativo-ilimitado-material-seguro-y-resistente-no-toxicos-bordes-suaves-levys-bazar/p/MLA62609709
+  - Sitio: https://productosvirales.com.ar/producto/MLA62609709
+- **MLA25401949** — Balanza Digital De Cocina Gadnic 1gr A 10kg Pro Bascula Gramera Capacidad Máxima 10 kg: $7.027 → $2.079 (-70%)
+  - ML: https://www.mercadolibre.com.ar/balanza-digital-de-cocina-gadnic-1gr-a-10kg-pro-bascula-gramera-capacidad-maxima-10-kg/p/MLA25401949
+  - Sitio: https://productosvirales.com.ar/producto/MLA25401949
+- **MLA41479634** — Freidora de Aire Westinghouse AFR-1802 — 10 Litros, 1,8 kW, 12 Funciones: $399.999 → $166.499 (-58%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA41479634
+  - Sitio: https://productosvirales.com.ar/producto/MLA41479634
+
 ## 2026-09-09
 
 - **MLA16132352** — Cámara Deportiva Akaso V50X: $176.899 → $599.999 (+239%)
