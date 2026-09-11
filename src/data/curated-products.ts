@@ -59354,9 +59354,10 @@ Comprá la SX39 si querés una cámara motorizada con seguimiento y el mayor res
       { label: "Marca", value: "Geotek" },
       { label: "Línea", value: "Domo doble lente" },
       { label: "Modelo", value: "GT-A33BN" },
-      { label: "Tipo", value: "IP Wi-Fi motorizada, doble lente" },
+      { label: "Tipo", value: "IP Wi-Fi motorizada, doble lente (graba de los dos lentes al mismo tiempo)" },
       { label: "Resolución", value: "6 MP entre los dos lentes (ficha ML: 4K)" },
-      { label: "Conectividad", value: "Wi-Fi, Bluetooth, LAN" },
+      { label: "Conectividad", value: "Wi-Fi (solo banda 2.4 GHz, no 5 GHz), Bluetooth, LAN" },
+      { label: "Retorno automático", value: "Después de seguir a una persona con el lente motorizado, puede volver sola a la posición de vigilancia original (tiempo configurable)" },
       { label: "Zoom digital", value: "5x" },
       { label: "Visión nocturna", value: "A color, alcance 20 m" },
       { label: "Sensor de movimiento", value: "Sí, con seguimiento de personas" },
@@ -59365,7 +59366,7 @@ Comprá la SX39 si querés una cámara motorizada con seguimiento y el mayor res
       { label: "Resistencia al agua", value: "IP66 (exterior)" },
       { label: "Sensor de imagen", value: "CMOS" },
       { label: "App", value: "iCSee" },
-      { label: "Almacenamiento", value: "Micro-SD (no incluida)" },
+      { label: "Almacenamiento", value: "Micro-SD (no incluida); en cámaras de esta misma plataforma iCSee el tope habitual es 128 GB" },
     ],
     relatedProducts: ["MLA18711640", "MLA48013621", "MLA19663400"],
     priceUpdated: "2026-09-11",
@@ -59382,6 +59383,7 @@ Comprá la SX39 si querés una cámara motorizada con seguimiento y el mayor res
       "Visión nocturna a color con alcance declarado de 20 m",
       "Aguante real a la intemperie: IP66, y reseñas que reportan tormentas sin drama",
       "La app iCSee no mete publicidad, según reseñas de compradores con varias cámaras",
+      "Puede volver sola a la posición de vigilancia original después de seguir a una persona con el lente motorizado (tiempo configurable), así nunca se queda mirando para otro lado",
     ],
     cons: [
       "Los tornillos de montaje incluidos son de mala calidad (reseña de 4 estrellas con 142 votos útiles; el comprador los reemplazó)",
@@ -59400,6 +59402,8 @@ La doble vista resuelve el problema clásico de elegir entre panorámica o detal
 
 La más votada es sencilla: los tornillos que vienen en la caja son malos. El comprador que le puso 4 estrellas por eso (142 votos útiles) los cambió por otros y listo, pero conviene saberlo antes de subir a la escalera. La otra es de marketing: el "6 MP" del título sale de sumar los dos lentes; cada vista es de 3 MP, no hay una sola imagen de 6 MP. Y como en casi toda esta categoría, la memoria va aparte.
 
+Dos datos técnicos de la plataforma iCSee (la app que usa esta cámara, compartida con otras marcas de doble lente del mismo tipo de hardware) que conviene conocer. Primero: solo se conecta a redes Wi-Fi de 2.4 GHz, no a 5 GHz. Segundo: tiene una función poco conocida pero útil, "volver al punto de inicio". Si activás el seguimiento de movimiento, podés fijar una posición de vigilancia principal; cuando el lente motorizado sigue a una persona y la pierde de vista, vuelve solo a esa posición después de unos segundos (configurable), en vez de quedarse mirando para donde se fue la persona y dejar el resto del área sin cubrir.
+
 ## Para quién sí y para quién no
 
 Comprala si querés vigilar un frente, patio o cochera con una sola cámara que cubra el plano general y el detalle en movimiento. No la compres si buscás algo simple para interior: para eso hay opciones más chicas y baratas, como la Ezviz H1C o la Gadnic SX39.`,
@@ -59409,6 +59413,9 @@ Comprala si querés vigilar un frente, patio o cochera con una sola cámara que 
       { question: "¿La visión nocturna es a color?", answer: "Sí, la ficha declara visión nocturna a color con alcance de 20 metros." },
       { question: "¿Viene con memoria?", answer: "No, la micro-SD se compra aparte. Sin memoria muestra en vivo pero no graba." },
       { question: "¿Qué contra tiene?", answer: "Según las reseñas, los tornillos de montaje incluidos son de mala calidad. La recomendación de un comprador: usar tornillos y tarugos propios." },
+      { question: "¿Se conecta a Wi-Fi de 5 GHz?", answer: "No, esta cámara y otras de la misma plataforma iCSee solo se conectan a redes de 2.4 GHz." },
+      { question: "¿Los dos lentes graban al mismo tiempo?", answer: "Sí, la cámara graba simultáneamente desde el lente fijo panorámico y el motorizado, y podés ver ambas tomas a la vez desde la app." },
+      { question: "¿Qué pasa cuando el lente motorizado sigue a una persona y la pierde de vista?", answer: "Tiene una función de retorno automático: si configurás una posición de vigilancia principal, la cámara vuelve sola a esa posición después de unos segundos de perder a la persona, en vez de quedarse apuntando para otro lado." },
     ],
   },
   {
