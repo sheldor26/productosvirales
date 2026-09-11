@@ -59629,15 +59629,16 @@ Comprala si querés tu primera cámara de interior o sumar puntos de vigilancia 
       { label: "Modelo", value: "GT-N3 (kit x3)" },
       { label: "Contenido", value: "3 cámaras domo motorizadas" },
       { label: "Resolución", value: "Full HD 3 MP por cámara" },
-      { label: "Conectividad", value: "Wi-Fi" },
+      { label: "Conectividad", value: "Wi-Fi, solo banda 2.4 GHz (no 5 GHz), como el resto de cámaras Geotek de la misma plataforma" },
       { label: "Zoom digital", value: "4x" },
       { label: "Visión nocturna", value: "A color, alcance 20 m" },
       { label: "Sensor de movimiento", value: "Sí, con detección de personas" },
+      { label: "Retorno automático", value: "Cada cámara puede volver sola a la posición de vigilancia principal después de perder de vista a una persona seguida (tiempo configurable)" },
       { label: "Alarma y alerta al celular", value: "Sí" },
       { label: "Audio bidireccional", value: "Sí" },
       { label: "Resistencia al agua", value: "IP66 (exterior)" },
       { label: "App", value: "iCSee (según reseñas de compradores)" },
-      { label: "Almacenamiento", value: "Micro-SD por cámara (no incluidas)" },
+      { label: "Almacenamiento", value: "Micro-SD por cámara (no incluidas); en esta plataforma el tope habitual es 128 GB por cámara" },
     ],
     relatedProducts: ["MLA43877246", "MLA18711640", "MLA19663400"],
     priceUpdated: "2026-09-11",
@@ -59659,6 +59660,7 @@ Comprala si querés tu primera cámara de interior o sumar puntos de vigilancia 
       "Cada cámara necesita alimentación eléctrica: hay que llevar cable a cada punto",
       "La detección de personas se puede disparar con mascotas, según una reseña de 4 estrellas con perros y gatos",
       "Las micro-SD no vienen incluidas, y acá son tres",
+      "Solo se conectan a Wi-Fi de 2.4 GHz, no a 5 GHz",
     ],
     articleBody: `## Qué es y para quién
 
@@ -59670,7 +59672,7 @@ La cuenta que hacen los compradores es simple y una reseña con 196 votos útile
 
 ## La contra real
 
-Cada cámara necesita su cable de corriente, así que el trabajo real de la instalación es llevar electricidad a tres puntos de la casa. La detección de personas convive mal con las mascotas: un comprador con 3 gatos y 2 perros cuenta que le disparan las alertas. Y a las tres hay que sumarles una micro-SD cada una, un costo extra que no está en el precio del kit.
+Cada cámara necesita su cable de corriente, así que el trabajo real de la instalación es llevar electricidad a tres puntos de la casa. La detección de personas convive mal con las mascotas: un comprador con 3 gatos y 2 perros cuenta que le disparan las alertas. Y a las tres hay que sumarles una micro-SD cada una, un costo extra que no está en el precio del kit. Un dato técnico de la plataforma que comparten estas cámaras Geotek (la app iCSee): solo se conectan a redes Wi-Fi de 2.4 GHz, así que si tu router es moderno y emite en 5 GHz, hay que activar la banda de 2.4 GHz por separado antes de sincronizarlas.
 
 ## Para quién sí y para quién no
 
@@ -59681,6 +59683,7 @@ Compralo si querés cubrir toda la casa de una vez, sin mensualidad y con margen
       { question: "¿Sirven para exterior?", answer: "Sí, las tres son IP66 con visión nocturna a color de 20 metros declarados." },
       { question: "¿La detección de personas funciona con mascotas?", answer: "Es el punto flojo: una reseña de un comprador con perros y gatos reporta que las mascotas disparan las alertas de movimiento." },
       { question: "¿Es difícil de instalar?", answer: "Las reseñas dicen que no: llevar positivo y negativo a una caja por cámara, enchufar y sincronizar con la app por Wi-Fi. Lo laborioso es el cableado eléctrico, no la configuración." },
+      { question: "¿Se conectan a Wi-Fi de 5 GHz?", answer: "No, solo a redes de 2.4 GHz. Es una limitación de la plataforma iCSee que comparten estas cámaras Geotek con otras marcas del mismo tipo de hardware." },
     ],
   },
   {
