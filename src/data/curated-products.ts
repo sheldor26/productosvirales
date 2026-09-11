@@ -10354,6 +10354,7 @@ Comprá este teclado si querés gamer silencioso, en español con ñ y de marca,
       { label: "Hot-swap", value: "Sí, sockets de 3 y 5 pines (cambia switches sin soldar)" },
       { label: "Keycaps", value: "PBT doble inyección" },
       { label: "Switch de fábrica", value: "LEOBOG lineal (lubricado de fábrica)" },
+      { label: "Orientación de los LEDs", value: "Unidades más viejas traían LEDs north-facing (pueden interferir con keycaps de perfil Cherry o bajos); lotes más nuevos ya vienen south-facing" },
       { label: "Conectividad (modelo de fábrica)", value: "Bluetooth 5.0, 2.4G inalámbrico y USB-C" },
       { label: "Batería (modelo de fábrica)", value: "4000 mAh" },
       { label: "Perilla", value: "Control de volumen y multimedia integrado" },
@@ -10384,6 +10385,8 @@ Comprá este teclado si querés gamer silencioso, en español con ñ y de marca,
       "Switch red es lineal: si te gusta el clic marcado de los azules, este no es",
       "Precio justo igual significa materiales justos: el plástico y los estabilizadores no son de teclado de gama alta",
       "Para sacarle el RGB completo y reconfigurar teclas suele hacer falta el software, que en estos modelos chinos puede ser tosco o estar solo en inglés",
+      "Pese al hot-swap de switches, el teclado viene armado de fábrica pensado para sonar bien de entrada, no para abrirse y moddearse a fondo: desarmar el case tiene más riesgo de romper piezas que en teclados pensados para eso",
+      "Algunas unidades más viejas traían LEDs north-facing, que pueden interferir físicamente con keycaps de perfil Cherry o más bajos (roce o cambio de sonido al fondear la tecla); lotes más nuevos ya corrigieron esto con LEDs south-facing, pero conviene confirmarlo si pensás cambiar los keycaps",
     ],
     articleBody: `## Qué es y para quién
 
@@ -10398,6 +10401,8 @@ Lo mejor del F75 es que trae cosas de teclado caro a precio de teclado de entrad
 ## La contra real
 
 La pega seria es el idioma: la variante de esta publicación viene en layout inglés internacional, o sea sin ñ. Si escribís en español todo el día, lo vas a sufrir. Tenés que aprender combinaciones o mapear teclas por software, y nunca es tan cómodo como tener la ñ impresa donde va. Segundo punto a chequear: el F75 de fábrica es un teclado tri-modo inalámbrico (Bluetooth, 2.4G y cable), con batería de 4000 mAh y perilla de volumen. La ficha de esta publicación solo habla de retroiluminado y no aclara lo inalámbrico, así que antes de pagar conviene preguntarle al vendedor exactamente qué versión te manda, porque hay varias del F75 dando vueltas. Y el switch red es lineal: si te gusta el clic fuerte de los azules, este no te lo va a dar.
+
+Dos datos técnicos que varios reviews de largo plazo coinciden en remarcar. El primero: aunque el hot-swap te deja cambiar switches sin soldar, el teclado no está pensado para desarmarse a fondo. Viene armado de fábrica con las capas de espuma ya puestas para sonar bien de entrada, así que abrir el case entero (no solo sacar switches) tiene más riesgo de romper alguna pieza que en un teclado pensado para modding. El segundo: algunas unidades más viejas del F75 traían los LEDs orientados "north-facing" (apuntando hacia arriba desde la parte de atrás del switch), lo que en algunos casos roza contra keycaps de perfil Cherry o más bajos y puede cambiar el sonido o la sensación al fondear la tecla. Los lotes más nuevos ya corrigieron esto con LEDs "south-facing", pero si pensás cambiar los keycaps en algún momento, no está de más confirmarlo.
 
 ## Cómo se compara con los Redragon
 
@@ -10442,6 +10447,14 @@ Comprá el F75 si querés el mejor sonido y tacto por la plata, te copa la idea 
       {
         question: "¿Conviene contra un Redragon?",
         answer: "Depende de qué priorices. El Aula F75 suena mejor y te deja cambiar switches; los Redragon Kumara K552 y K622 Horus vienen en español con ñ. Si escribís en español todo el día, el Redragon es más cómodo; si querés el mejor tacto y sonido, el F75.",
+      },
+      {
+        question: "¿Se puede desarmar el teclado por completo para moddearlo?",
+        answer: "El hot-swap te permite cambiar switches sin soldar, pero el case en sí no está pensado para abrirse a fondo: viene armado de fábrica con las capas de espuma ya puestas para sonar bien de entrada. Desarmarlo por completo tiene más riesgo de romper alguna pieza que en un teclado diseñado para modding.",
+      },
+      {
+        question: "¿Los LEDs interfieren con los keycaps si los cambio?",
+        answer: "Puede pasar en unidades más viejas, que traían LEDs north-facing: algunos keycaps de perfil Cherry o más bajos pueden rozar y cambiar levemente el sonido al fondear la tecla. Los lotes más nuevos ya vienen con LEDs south-facing, sin ese problema, pero conviene confirmarlo antes si pensás cambiar los keycaps.",
       },
     ],
   },
