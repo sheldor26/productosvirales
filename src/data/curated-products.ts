@@ -8478,6 +8478,8 @@ A $629.999 con 4.8 estrellas en {{reviews:MLA43960787}} calificaciones, es la pu
       "Al menos una reseña reporta que no trajo el cable HDMI que la publicación lista como incluido, y otra que ningún cable de la caja le sirvió",
       "Hay reportes puntuales de defectos de unidad: pie roto en el traslado, audio que no funciona, algún píxel atascado (no muerto)",
       "El VESA 100x100 encaja, pero al menos una reseña tuvo que conseguir tornillos más largos que los incluidos para montarlo en un brazo",
+      "No tiene puertos USB: sin hub integrado, así que no sirve como concentrador para teclado, mouse o pendrives",
+      "Por HDMI 2.0 el máximo es 100 Hz en la resolución nativa: para aprovechar los 120 Hz (o 135 con overclock) hace falta conectarlo por DisplayPort",
     ],
     verdict: "A $919.599 (16% off), es el ultrawide con mejor puntaje de la selección (4.9⭐ en {{reviews:MLA28853185}} calificaciones) y el de mayor contraste real (4.000:1). El límite honesto: panel VA con ángulos de visión limitados y HDR básico que varias reseñas describen como flojo. Frente al Xiaomi G34WQi más barato, la pregunta es si el salto de calidad de imagen justifica pagar más por 60 Hz menos.",
     articleBody: `## El ultrawide con mejor puntaje de la selección
@@ -8491,6 +8493,10 @@ Varias reseñas destacan específicamente los negros y el brillo: "colores vivid
 ## El límite real: ángulos de visión y HDR básico
 
 No todas las reseñas son igual de entusiastas. La más crítica, de 3 estrellas, señala el límite típico de un panel VA sin vueltas: "el panel deja mucho que desear. Los ángulos de visión son muy pobres y presenta fugas de luz excesivas. Los colores son buenos, pero solo cuando se observa desde el centro; al mínimo movimiento, los tonos se distorsionan notablemente". Sobre el HDR, el consenso es parecido: "su HDR es básico", dice una reseña; otra es más dura: "el HDR por lo menos a mí no me gusta, no resuelve bien la exposición de las imágenes... el panel VA deja mucho que desear con los negros siendo grises". El fabricante lo etiqueta como "HDR Ready", no una certificación DisplayHDR completa, y las reseñas confirman esa letra chica.
+
+## Un dato técnico a favor: el panel VA es más rápido de lo normal
+
+Gigabyte llama a este panel "Super Speed VA", y una review técnica que lo midió en detalle confirma que no es solo marketing: es el panel VA más rápido que probaron hasta ese momento, con mucho menos ghosting en los bordes de objetos con contraste que un VA típico (no llega al nivel de un IPS, pero se acerca). En esa misma medición de laboratorio, el brillo real dio 345,8 nits (por encima de los 300 nits declarados) y el contraste real dio 3.563:1, un poco por debajo del 4.000:1 que promociona el fabricante, aunque igual sigue siendo un número alto para un panel VA. Dos datos más a tener en cuenta: no tiene puertos USB (sin hub integrado para conectar teclado, mouse o pendrives), y por HDMI 2.0 el máximo es 100 Hz en la resolución nativa, así que para los 120 Hz (o 135 con overclock) completos hay que conectarlo por DisplayPort.
 
 ## La palanca de cambio de entrada, un plus real
 
@@ -8512,10 +8518,10 @@ A $919.599 con 4.9 estrellas en {{reviews:MLA28853185}} calificaciones, es el ul
       { label: "Resolución", value: "UWQHD 3440x1440, HDR Ready (no es una certificación DisplayHDR completa; varias reseñas describen el HDR como básico)" },
       { label: "Frecuencia", value: "120 Hz nativos (135 Hz con overclock activado desde el menú, por DisplayPort)" },
       { label: "Tiempo de respuesta", value: "1 ms (MPRT)" },
-      { label: "Brillo / Contraste", value: "300 cd/m², 4.000:1 típico (según fabricante, de los más altos en un panel VA)" },
+      { label: "Brillo / Contraste", value: "300 cd/m² (medido por un review técnico: 345,8 nits), 4.000:1 típico según fabricante (medido en el mismo review técnico: 3.563:1, igual muy alto para un panel VA)" },
       { label: "Ángulos de visión", value: "178° según fabricante; reseñas reportan distorsión de color notoria al moverse del centro, típico de un panel VA" },
       { label: "Sincronización", value: "AMD FreeSync Premium" },
-      { label: "Puertos", value: "1x DisplayPort 1.4 + 2x HDMI 2.0. Al menos una reseña reporta no haber recibido el cable HDMI listado como incluido" },
+      { label: "Puertos", value: "1x DisplayPort 1.4 + 2x HDMI 2.0 (limitado a 100 Hz en la resolución máxima; para 120/135 Hz completos hace falta DisplayPort). Sin puertos USB. Al menos una reseña reporta no haber recibido el cable HDMI listado como incluido" },
       { label: "Extras", value: "Palanca física para alternar entre dos PCs conectadas, sin desenchufar cables" },
       { label: "Ergonomía", value: "Altura regulable (100 mm), inclinación -5° a 20°, VESA 100x100 (una reseña necesitó tornillos más largos que los incluidos)" },
       { label: "Color", value: "Negro" },
@@ -8526,8 +8532,10 @@ A $919.599 con 4.9 estrellas en {{reviews:MLA28853185}} calificaciones, es el ul
       { question: "¿Tiene buenos ángulos de visión?", answer: "Es el punto más débil según la reseña más crítica del panorama: \"los ángulos de visión son muy pobres... al mínimo movimiento, los tonos se distorsionan notablemente\". Es una limitación típica de los paneles VA, y en este modelo se nota más que en otros VA de esta selección." },
       { question: "¿Sirve para conectar dos PCs?", answer: "Sí, y es uno de sus diferenciales reales: trae una palanca física para alternar entre dos computadoras sin desenchufar cables, algo que ni el Xiaomi ni el Samsung de esta selección ofrecen de fábrica." },
       { question: "¿Trae cable HDMI?", answer: "No siempre: al menos una reseña reporta no haber recibido el cable HDMI pese a figurar como incluido en la publicación. Confirmá antes de comprar si lo necesitás específicamente." },
-      { question: "¿Cuál es el contraste real?", answer: "El fabricante declara 4.000:1 típico, de los más altos entre los paneles VA de esta selección (los Samsung rondan 2.500-3.000:1). Varias reseñas confirman negros profundos y buen brillo en la práctica." },
+      { question: "¿Cuál es el contraste real?", answer: "El fabricante declara 4.000:1 típico, de los más altos entre los paneles VA de esta selección (los Samsung rondan 2.500-3.000:1). Una review técnica que lo midió en laboratorio obtuvo 3.563:1, un poco por debajo del dato del fabricante pero igual muy alto para un panel VA. Varias reseñas confirman negros profundos y buen brillo en la práctica." },
       { question: "¿Conviene para edición de video profesional?", answer: "Varias reseñas lo usan para eso con buenos resultados, incluyendo una que lo compara sin complejos contra monitores de gama alta que ya tenía. El límite es el HDR básico: para color crítico de alta gama, no es la herramienta ideal, pero para edición general rinde muy bien." },
+      { question: "¿Tiene puertos USB?", answer: "No, no tiene hub USB integrado. Solo cuenta con los puertos de video (DisplayPort y HDMI) y un jack de audio de 3.5mm. Si buscás un monitor que sirva de concentrador para teclado, mouse o pendrives, este no lo resuelve." },
+      { question: "¿Por HDMI se pueden aprovechar los 120 o 135 Hz?", answer: "No del todo: por HDMI 2.0 el máximo es 100 Hz en la resolución nativa. Para los 120 Hz nativos o los 135 Hz con overclock hay que conectarlo por DisplayPort 1.4." },
     ],
     customerReviews: [
       { rating: 5, country: "Uruguay", date: "2025", useful: 10, text: "Vale muchísimo la pena, principalmente porque no existe otro ultrawide 1440p a este precio. Muy cómodo tanto para jugar como para trabajar. Buena calidad de imagen, lo único que me hizo falta fue un poco más de brillo porque en mi habitación me da el sol contra la pantalla, pero nada que no se solucione cerrando un poco las cortinas." },
