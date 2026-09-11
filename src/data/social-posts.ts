@@ -2449,4 +2449,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "51",
     postedAt: "2026-09-11T08:29:00-03:00",
   },
+  {
+    title: 'Smart TV LG 50" UHD 4K con AI ThinQ',
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_641601-MLA97540338121_112025-O.webp",
+    affiliateUrl: "https://meli.la/2x9uzyk",
+    newPrice: "772.065",
+    oldPrice: "965.082",
+    offPct: "20",
+    postedAt: "2026-09-11T08:54:00-03:00",
+  },
 ];
