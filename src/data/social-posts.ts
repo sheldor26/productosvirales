@@ -2489,4 +2489,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "44",
     postedAt: "2026-09-11T10:11:00-03:00",
   },
+  {
+    title: 'Monitor Gamer Gigabyte 24,5" GS25F14 144Hz 1ms FHD',
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_907845-MLA107526357970_032026-O.webp",
+    affiliateUrl: "https://meli.la/23SgBhM",
+    newPrice: "199.999",
+    oldPrice: "399.999",
+    offPct: "50",
+    postedAt: "2026-09-11T10:36:00-03:00",
+  },
 ];
