@@ -2439,4 +2439,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "0",
     postedAt: "2026-09-09T18:57:00-03:00",
   },
+  {
+    title: "Auriculares Razer Blackshark V3 Pro Wireless ANC",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_797687-MLA97119335735_112025-O.webp",
+    affiliateUrl: "https://meli.la/2vE6PHb",
+    newPrice: "559.999",
+    oldPrice: "1.163.999",
+    offPct: "51",
+    postedAt: "2026-09-11T08:29:00-03:00",
+  },
 ];
