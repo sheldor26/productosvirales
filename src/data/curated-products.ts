@@ -59868,7 +59868,9 @@ Comprala si querés vigilar un punto fijo (la puerta, el frente) con el mayor re
       { label: "Audio bidireccional", value: "Sí" },
       { label: "Resistencia al agua", value: "IP66 (exterior)" },
       { label: "Rango de temperatura", value: "-30 °C a 50 °C" },
-      { label: "Almacenamiento", value: "Micro-SD hasta 512 GB o nube EZVIZ (no incluida)" },
+      { label: "Almacenamiento", value: "Micro-SD (el fabricante declara hasta 512 GB, pero varias reviews técnicas detalladas coinciden en un máximo real de 256 GB) o nube EZVIZ (no incluida)" },
+      { label: "Patrullaje", value: "No soporta puntos de preset ni patrullaje automático: hay que moverla manualmente desde la app cada vez" },
+      { label: "Compatibilidad NVR", value: "No es compatible con ONVIF (no se integra a NVR de terceros), aunque el stream RTSP funciona con reproductores como VLC" },
       { label: "Asistentes compatibles", value: "Asistente de Google" },
       { label: "Vendedor", value: "Tienda oficial TODOSEGURIDAD (MercadoLíder Platinum, +100 mil ventas)" },
     ],
@@ -59894,6 +59896,9 @@ Comprala si querés vigilar un punto fijo (la puerta, el frente) con el mayor re
       "La misma reseña marca que la respuesta es \"un poco lenta\" cuando se mueve la cámara por PTZ",
       "La alarma suena menos fuerte de lo que promete la ficha, según esa reseña",
       "Precio más alto que la SX37 de esta guía",
+      "No tiene puntos de preset ni patrullaje automático: a diferencia de otras domo motorizadas, hay que moverla manualmente desde la app cada vez que querés cambiar de vista, no vuelve sola a una posición guardada",
+      "No es compatible con ONVIF, así que no se integra a un NVR de terceros: solo funciona con la app propia de EZVIZ (o el stream RTSP con un reproductor como VLC)",
+      "Varias reviews técnicas coinciden en que el máximo real de micro-SD es 256 GB, aunque el fabricante en algunas fichas declara hasta 512 GB",
     ],
     customerReviews: [
       { rating: 5, country: "Argentina", date: "2025", text: "Excelente producto. La instalación fue sencilla, aunque el lugar que elegí no era tan accesible. La señal del wifi llega \"baja\" según indica la app, pero funciona correctamente y se puede acceder sin problema. Solo es un poco lenta la respuesta cuando hacemos movimientos de la cámara. Las opciones de detección de movimiento, detección humana y horarios de alerta funcionan muy bien. La alarma no es tan ruidosa como dice, pero cumple su propósito.", useful: 2 },
@@ -59911,6 +59916,8 @@ El respaldo de marca es real: la vende una tienda oficial de MercadoLibre con m�
 
 Una reseña detallada y honesta marca tres matices que vale conocer antes de comprar: la señal de Wi-Fi le llegó "baja" según la propia app (aunque funcionó bien igual), la respuesta es un poco lenta cuando se mueve la cámara con el motor, y la alarma suena menos fuerte de lo que promete la ficha. Ninguno de los tres frenó al comprador, que la calificó con 5 estrellas, pero son el tipo de detalle que solo sale de alguien que la usa. El precio, además, es más alto que la SX37 de esta misma guía.
 
+Tres datos técnicos que varias reviews internacionales detalladas coinciden en remarcar. Primero: no tiene puntos de preset ni patrullaje automático. A diferencia de lo que uno esperaría de una domo motorizada, la cámara no recorre posiciones guardadas sola: cada vez que querés ver otro ángulo, tenés que moverla manualmente desde la app. Segundo: no es compatible con el protocolo ONVIF, así que no se integra a un sistema NVR de terceros; solo funciona bien con la app propia de EZVIZ (el stream RTSP sí se puede ver con un reproductor externo como VLC, pero no es lo mismo que una integración completa). Tercero, y el más importante para decidir la compra: varias reviews técnicas que la desarmaron y probaron en detalle coinciden en que el límite real de la memoria micro-SD es 256 GB, no los 512 GB que declara el fabricante en algunas fichas. Es un dato para confirmar antes de comprar una tarjeta más grande de la que realmente vas a poder usar.
+
 ## Para quién sí y para quién no
 
 Comprala si priorizás una marca internacional con detección inteligente de personas y querés cubrir un área amplia con una sola cámara que gira. No la compres si el precio es lo que más te importa: ahí la SX37 rinde bien por menos plata, aunque sin motor.`,
@@ -59920,6 +59927,9 @@ Comprala si priorizás una marca internacional con detección inteligente de per
       { question: "¿Qué tan bien anda el Wi-Fi?", answer: "Una reseña detallada reporta que la señal le llegó \"baja\" según la propia app, pero funcionó correctamente igual. Trae puerto LAN por si preferís conectarla por cable." },
       { question: "¿Es más cara que otras cámaras exteriores del catálogo?", answer: "Sí, cuesta más que la Gadnic SX37 de esta misma guía. A cambio suma motor PTZ, mejor resistencia al agua (IP66) y más capacidad de memoria." },
       { question: "¿Sirve para exterior?", answer: "Sí, tiene certificación IP66 y funciona en un rango de -30°C a 50°C según la ficha del fabricante." },
+      { question: "¿Cuánta memoria micro-SD admite realmente?", answer: "El fabricante declara hasta 512 GB en algunas fichas, pero varias reviews técnicas detalladas que la probaron coinciden en un límite real de 256 GB. Conviene no comprar una tarjeta más grande de la que se vaya a poder usar." },
+      { question: "¿Patrulla sola entre distintos puntos?", answer: "No. A diferencia de otras domo motorizadas, no tiene puntos de preset ni patrullaje automático: cada vez que querés cambiar de vista, tenés que moverla manualmente desde la app." },
+      { question: "¿Se integra a un NVR de terceros?", answer: "No, no es compatible con ONVIF, así que no se conecta a sistemas NVR de otras marcas. Solo funciona completa con la app propia de EZVIZ; el stream RTSP se puede ver con un reproductor externo como VLC, pero sin la integración completa de un NVR." },
     ],
   },
   {
