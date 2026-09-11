@@ -2619,4 +2619,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "14",
     postedAt: "2026-09-11T19:41:00-03:00",
   },
+  {
+    title: "Purificador de Agua Hidrolit Senic Out Classic",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_761788-MLA111902183361_052026-O.webp",
+    affiliateUrl: "https://meli.la/1ckramB",
+    newPrice: "135.140",
+    oldPrice: "324.000",
+    offPct: "58",
+    postedAt: "2026-09-11T20:07:00-03:00",
+  },
 ];
