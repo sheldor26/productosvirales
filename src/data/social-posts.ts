@@ -2499,4 +2499,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "50",
     postedAt: "2026-09-11T10:36:00-03:00",
   },
+  {
+    title: 'LED Smart TV 65" RCA UHD 4K Android TV',
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_796442-MLA99548996006_122025-O.webp",
+    affiliateUrl: "https://meli.la/18E9GPe",
+    newPrice: "999.999",
+    oldPrice: "1.099.999",
+    offPct: "9",
+    postedAt: "2026-09-11T11:01:00-03:00",
+  },
 ];
