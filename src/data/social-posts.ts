@@ -2469,4 +2469,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "22",
     postedAt: "2026-09-11T09:20:00-03:00",
   },
+  {
+    title: "Meta Quest 3s 128GB Realidad Mixta",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_901655-MLA94134417812_102025-O.webp",
+    affiliateUrl: "https://meli.la/1cTtpdH",
+    newPrice: "887.549",
+    oldPrice: "1.021.002",
+    offPct: "13",
+    postedAt: "2026-09-11T09:46:00-03:00",
+  },
 ];
