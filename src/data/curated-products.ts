@@ -10486,7 +10486,7 @@ Comprá el F75 si querés el mejor sonido y tacto por la plata, te copa la idea 
       { label: "Idioma", value: "Inglés US (sin ñ)" },
       { label: "Marca", value: "Logitech G" },
       { label: "Switches", value: "Mech-Dome (membrana), 50g de actuación, 4mm de recorrido" },
-      { label: "Iluminación", value: "RGB LIGHTSYNC por 5 zonas (no por tecla)" },
+      { label: "Iluminación", value: "RGB LIGHTSYNC por 5 zonas (no por tecla), un solo nivel de brillo (no ajustable)" },
       { label: "Anti-ghosting", value: "Sí (matriz anti-ghosting, sin N-key rollover completo)" },
       { label: "Resistencia a líquidos", value: "Hasta 60ml (certificado Logitech)" },
       { label: "Software", value: "Logitech G HUB (gratis)" },
@@ -10518,6 +10518,7 @@ Comprá el F75 si querés el mejor sonido y tacto por la plata, te copa la idea 
       "Tiene anti-ghosting pero no N-key rollover completo: para competitivo de alto nivel se queda corto",
       "Cable fijo (no desmontable)",
       "A su precio hay mecánicos reales con ñ por menos plata",
+      "El RGB tiene un solo nivel de brillo (no se puede atenuar) y, mirado en ángulo, la iluminación dentro de cada tecla se ve despareja: hay zonas más oscuras y más claras en una misma tecla",
     ],
     articleBody: `## Qué es y para quién
 
@@ -10529,7 +10530,11 @@ Lo más fuerte del G213 es que aguanta líquidos: Logitech lo certifica resisten
 
 ## La contra real
 
-La trampa típica de este tipo de teclados es vender "gamer" cuando es membrana. El G213 es membrana, punto. Si venís de un mecánico o querés esa sensación de click definido, este no te la da. Segundo detalle que la publicación no aclara fuerte: el RGB es por 5 zonas, no por tecla. No podés pintar una sola tecla de un color distinto, va por bloques. Tercero: el layout es inglés US, sin ñ. Para jugar da igual, pero si escribís mucho en español es un fastidio constante. Y ojo, tiene anti-ghosting pero no N-key rollover completo, así que para competitivo de elite se queda corto. El cable es fijo, no desmontable.
+La trampa típica de este tipo de teclados es vender "gamer" cuando es membrana. El G213 es membrana, punto. Si venís de un mecánico o querés esa sensación de click definido, este no te la da. Segundo detalle que la publicación no aclara fuerte: el RGB es por 5 zonas, no por tecla. No podés pintar una sola tecla de un color distinto, va por bloques. Tercero: el layout es inglés US, sin ñ. Para jugar da igual, pero si escribís mucho en español es un fastidio constante. Y ojo, tiene anti-ghosting pero no N-key rollover completo, así que para competitivo de elite se queda corto. El cable es fijo, no desmontable. Un detalle más que varios reviews mencionan: el RGB tiene un solo nivel de brillo, no se puede atenuar, y mirando las teclas desde un ángulo se nota que la iluminación dentro de cada una no es del todo pareja (zonas más claras y más oscuras en la misma tecla).
+
+## Durabilidad a largo plazo
+
+Un review con 6 años de uso diario es el dato más contundente de esta ficha: las teclas siguen respondiendo bien, las letras no se borraron y el RGB sigue andando. La resistencia a salpicaduras también se sostuvo en el tiempo. El único desgaste real que reporta después de tantos años es que junta polvo con facilidad (se puede sacar las teclas y limpiar) y que, en el uso muy prolongado, algunas teclas empiezan a sentirse levemente más "blandas" al presionar, sin que eso afecte que funcionen.
 
 ## Cómo se compara
 
@@ -10574,6 +10579,14 @@ Comprá el G213 si querés un teclado de marca, silencioso, que aguante un líqu
       {
         question: "¿Conviene el G213 frente al Redragon Kumara?",
         answer: "Depende de qué priorices. El Kumara es mecánico de verdad, trae ñ y cuesta menos, pero es ruidoso. El G213 es membrana, silencioso, resistente a líquidos y de marca Logitech, pero sin ñ. Para silencio y derrames, G213; para sensación mecánica y español, Kumara.",
+      },
+      {
+        question: "¿Se puede bajar el brillo del RGB?",
+        answer: "No, el RGB tiene un solo nivel de brillo: no se puede atenuar, solo prenderlo o apagarlo. Tampoco es iluminación perfectamente pareja dentro de cada tecla si la mirás en ángulo.",
+      },
+      {
+        question: "¿Cómo aguanta el uso a largo plazo?",
+        answer: "Bien: un review con 6 años de uso diario reporta que las teclas siguen respondiendo, las letras no se borraron y el RGB sigue andando. Lo único que menciona es que junta polvo con el tiempo (se limpia sacando las teclas) y que, tras muchos años, algunas teclas se sienten un poco más blandas al presionar, sin dejar de funcionar.",
       },
     ],
   },
