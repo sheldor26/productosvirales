@@ -2569,4 +2569,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "49",
     postedAt: "2026-09-11T16:04:00-03:00",
   },
+  {
+    title: "Taladro Inalámbrico Percutor Brushless Metalkraff 21V",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_929378-MLA96776680226_112025-O.webp",
+    affiliateUrl: "https://meli.la/1y6JTGQ",
+    newPrice: "91.762",
+    oldPrice: "215.000",
+    offPct: "57",
+    postedAt: "2026-09-11T17:44:00-03:00",
+  },
 ];
