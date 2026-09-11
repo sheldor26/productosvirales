@@ -60036,7 +60036,7 @@ Comprala si sos un usuario que entiende de sistemas de videovigilancia y quiere 
       { label: "Resolución", value: "Full HD" },
       { label: "Visión nocturna", value: "A color, alcance 30 m" },
       { label: "Detección", value: "Movimiento e IA de personas, con seguimiento" },
-      { label: "Conectividad", value: "Wi-Fi" },
+      { label: "Conectividad", value: "Wi-Fi, solo banda 2.4 GHz (no 5 GHz)" },
       { label: "Resistencia al agua", value: "IP65 (interior y exterior)" },
       { label: "Rango de temperatura", value: "0°C a 40°C" },
       { label: "Almacenamiento", value: "Micro-SD hasta 512 GB (no incluida)" },
@@ -60064,6 +60064,9 @@ Comprala si sos un usuario que entiende de sistemas de videovigilancia y quiere 
       "La memoria no viene incluida",
       "La detección es tan sensible que, hasta calibrar las zonas de exclusión en la app, puede mandar más de 100 notificaciones por día, según una reseña",
       "Depende del Wi-Fi: si la señal no llega bien a donde se instala, se puede tildar",
+      "Las zonas de detección y privacidad se guardan para una posición específica de la cámara: si la cámara patrulla o vos la movés a otro punto, esas zonas no aplican hasta que las reconfigurás para esa nueva vista",
+      "No graba en continuo las 24 horas por defecto: la grabación estándar es por detección de movimiento; grabar todo el tiempo requiere activarlo manualmente y mantener la app abierta, lo cual no es práctico para uso prolongado",
+      "Solo se conecta a redes Wi-Fi de 2.4 GHz, no a 5 GHz",
     ],
     customerReviews: [
       { rating: 5, country: "Argentina", date: "2025", text: "La cámara ofrece una excelente calidad de imagen y rotación, con visión diurna y nocturna nítida. La aplicación es fácil de usar y completa, permitiendo un control eficiente y notificaciones sin retraso. Además, es resistente a condiciones climáticas adversas, lo que la hace ideal para uso en exteriores.", useful: 8 },
@@ -60079,7 +60082,9 @@ La detección por inteligencia artificial distingue personas del resto del movim
 
 ## La contra real
 
-Una reseña detallada advierte que la detección es tan sensible que, antes de calibrar las zonas de exclusión en la app, el celular puede recibir más de 100 notificaciones por día. No es un defecto de fábrica: es una función que hay que ajustar la primera semana. Como toda cámara WiFi, depende de la señal: si no llega bien a donde se instala, se puede tildar.
+Una reseña detallada advierte que la detección es tan sensible que, antes de calibrar las zonas de exclusión en la app, el celular puede recibir más de 100 notificaciones por día. No es un defecto de fábrica: es una función que hay que ajustar la primera semana. Como toda cámara WiFi, depende de la señal: si no llega bien a donde se instala, se puede tildar. Solo se conecta a redes de 2.4 GHz, no a 5 GHz.
+
+Dos detalles operativos que varios reviews detallados marcan y que conviene saber antes de instalarla. Primero: al ser una cámara motorizada con patrullaje 360°, las zonas de detección y privacidad que configurás quedan atadas a la posición de la cámara en ese momento. Si la cámara rota (sea porque patrulla sola o porque la movés manualmente a otro punto), esas zonas dejan de aplicar hasta que las volvés a configurar para la nueva vista. Segundo: por defecto, la cámara no graba en continuo las 24 horas, sino que graba cuando detecta movimiento. Se puede activar la grabación manual "todo el tiempo", pero solo funciona mientras tengas el dashboard de la app abierto en el celular: si la cerrás o el teléfono se bloquea, la grabación se corta.
 
 ## Para quién sí y para quién no
 
@@ -60090,6 +60095,9 @@ Comprá este kit si querés cubrir dos puntos exteriores sin pasar cables y con 
       { question: "¿Necesita memoria aparte?", answer: "Sí, admite micro-SD de hasta 512 GB que se compra aparte, o se puede usar con la nube de TP-Link (con costo)." },
       { question: "¿Tiene visión nocturna a color?", answer: "Sí, a diferencia de la mayoría de las cámaras que solo graban en blanco y negro de noche." },
       { question: "¿Por qué elegir un kit de dos en vez de una sola cámara?", answer: "Para cubrir dos puntos distintos (por ejemplo, entrada y patio trasero) al mismo precio conjunto, en vez de comprar dos cámaras sueltas por separado." },
+      { question: "¿Se conecta a Wi-Fi de 5 GHz?", answer: "No, solo se conecta a redes de 2.4 GHz. Si tu router es moderno y emite solo en 5 GHz, tenés que activar la banda de 2.4 GHz por separado." },
+      { question: "¿Graba las 24 horas de forma continua?", answer: "No por defecto: graba cuando detecta movimiento. Existe una opción de grabación manual continua, pero solo funciona mientras la app está abierta en el celular; si la cerrás, la grabación se corta. Para uso prolongado, conviene dejarla en modo detección." },
+      { question: "¿Las zonas de detección funcionan aunque la cámara patrulle sola?", answer: "No automáticamente. Las zonas de detección y privacidad quedan atadas a la posición de la cámara en el momento en que las configurás. Si la cámara rota (por patrullaje o porque la movés manualmente), hay que reconfigurar esas zonas para la nueva vista." },
     ],
   },
   {
