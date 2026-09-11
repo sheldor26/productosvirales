@@ -2599,4 +2599,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "37",
     postedAt: "2026-09-11T18:44:00-03:00",
   },
+  {
+    title: "Auriculares JBL Wave Beam 2 TWS In-ear",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_826282-MLA99972049705_112025-O.webp",
+    affiliateUrl: "https://meli.la/2KvPA5x",
+    newPrice: "94.939",
+    oldPrice: "155.999",
+    offPct: "39",
+    postedAt: "2026-09-11T19:15:00-03:00",
+  },
 ];
