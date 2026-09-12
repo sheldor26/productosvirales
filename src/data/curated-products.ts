@@ -69156,11 +69156,11 @@ Comprá el Aqara U200 si no querés reemplazar el cilindro exterior de tu cerrad
       { label: "Marca", value: "Aqara" },
       { label: "Modelo", value: "Smart Lock U300" },
       { label: "Color", value: "Negro" },
-      { label: "Métodos de apertura", value: "Huella digital, tarjeta RFID (la ficha de MercadoLibre no menciona Apple Home Key, aunque el fabricante lo confirma para este modelo, ver nota abajo)" },
-      { label: "Tipo de instalación", value: "Empotrable (reemplaza cerradura tubular de embutir)" },
+      { label: "Métodos de apertura", value: "Huella digital, tarjeta RFID (se vende aparte, según reviews internacionales) (la ficha de MercadoLibre no menciona Apple Home Key, aunque el fabricante lo confirma para este modelo, ver nota abajo)" },
+      { label: "Tipo de instalación", value: "Empotrable (reemplaza cerradura tubular de embutir, sin picaporte de traba tipo deadbolt: solo desactiva mecánicamente la manija)" },
       { label: "Material", value: "Plástico ABS" },
-      { label: "Alimentación", value: "4 pilas AA, con USB-C de emergencia" },
-      { label: "Conectividad", value: "WiFi y Bluetooth" },
+      { label: "Alimentación", value: "4 pilas AA, con USB-C de emergencia; autonomía de 8 a 10 meses según reviews internacionales" },
+      { label: "Conectividad", value: "WiFi y Bluetooth; para Matter completo (control remoto, asistentes de voz) hace falta un router Thread en casa (no necesariamente de Aqara), si no queda limitada a control por Bluetooth de cercanía" },
       { label: "Indicador de batería baja", value: "Sí" },
       { label: "Incluye picaporte", value: "Sí" },
       { label: "Dimensiones panel exterior", value: "140 x 76 x 73,5 mm" },
@@ -69186,6 +69186,9 @@ Comprá el Aqara U200 si no querés reemplazar el cilindro exterior de tu cerrad
       "La ficha de MercadoLibre no menciona Apple Home Key ni Matter, pese a que el fabricante los confirma para este modelo: verificar con el vendedor antes de comprar si esa función es determinante",
       "Cuerpo de plástico ABS, no acero inoxidable como el U200",
       "Requiere reemplazar la cerradura tubular de embutir existente",
+      "No tiene picaporte tipo deadbolt: solo activa o desactiva la manija mecánicamente, así que no sirve como traba de seguridad adicional a una puerta con cerrojo separado",
+      "Sin un router Thread en casa, queda limitada a control por Bluetooth de cercanía: sin desbloqueo remoto ni asistentes de voz",
+      "Hay reviews internacionales (no confirmadas en la muestra local, todavía chica) que reportan problemas de confiabilidad en algunas unidades: manija que se afloja con el tiempo, lector de huella inconsistente en climas húmedos o con dedos mojados, y baterías que se agotan antes de lo esperado",
     ],
     articleBody: `## Qué es y para quién
 
@@ -69193,11 +69196,11 @@ El Aqara Smart Lock U300 es una cerradura inteligente empotrable, con el respald
 
 ## Cómo funciona
 
-Con apertura por huella digital y tarjeta RFID, conecta por WiFi y Bluetooth. Funciona con 4 pilas AA y carga de emergencia por USB-C. El fabricante (aqara.com, modelo DL-D02D) confirma las dimensiones exactas del panel exterior, y también que este modelo soporta Apple Home Key y Matter sobre Thread, aunque la ficha de MercadoLibre no lo menciona en sus atributos.
+Con apertura por huella digital y tarjeta RFID, conecta por WiFi y Bluetooth. Funciona con 4 pilas AA y carga de emergencia por USB-C. El fabricante (aqara.com, modelo DL-D02D) confirma las dimensiones exactas del panel exterior, y también que este modelo soporta Apple Home Key y Matter sobre Thread, aunque la ficha de MercadoLibre no lo menciona en sus atributos. Un dato importante sobre cómo funciona físicamente: no tiene picaporte tipo deadbolt, sino que activa o desactiva la manija de forma mecánica; sirve muy bien para controlar el acceso a una habitación u oficina, pero no reemplaza a un cerrojo de seguridad si la puerta ya lo necesita. Reviews internacionales también aclaran que la tarjeta NFC/RFID se vende aparte, y que sin un router Thread en la casa (no hace falta que sea de Aqara: alcanza con un HomePod mini o un Echo de última generación) queda limitada al control por Bluetooth de cercanía, sin desbloqueo remoto ni asistentes de voz.
 
 ## La contra real
 
-Con solo 9 calificaciones, todavía no hay suficiente historial para evaluar a fondo su confiabilidad a largo plazo, aunque las reseñas disponibles son consistentemente positivas y una de ellas confirma el uso con Apple en la práctica: "excelente producto. Lo estoy usando de forma nativa en el ecosistema de Apple" y "producto de calidad y fácil de instalar. Vale cada centavo". No encontramos ninguna crítica negativa en la muestra disponible.
+Con solo 9 calificaciones, todavía no hay suficiente historial para evaluar a fondo su confiabilidad a largo plazo, aunque las reseñas disponibles son consistentemente positivas y una de ellas confirma el uso con Apple en la práctica: "excelente producto. Lo estoy usando de forma nativa en el ecosistema de Apple" y "producto de calidad y fácil de instalar. Vale cada centavo". No encontramos ninguna crítica negativa en la muestra disponible. Dicho esto, hay que ser honestos con lo que aparece en reviews internacionales del mismo modelo: algunas reportan que la manija externa se puede aflojar con el uso, que el lector de huella puede fallar con dedos mojados o clima húmedo, y que en algunas unidades la batería se agotó antes de lo esperado. No es algo que podamos confirmar ni descartar con la muestra chica que tenemos en Argentina, pero es justo que lo sepas antes de comprar.
 
 ## Cómo se compara con los otros de esta guía
 
@@ -69222,6 +69225,22 @@ Comprá el Aqara U300 si querés el respaldo de una marca con fabricante confirm
       {
         question: "¿Por qué tiene pocas reseñas?",
         answer: "Es un producto relativamente nuevo en el catálogo con menor volumen de venta que las cerraduras genéricas más económicas de esta guía, aunque el fabricante (Aqara) está confirmado y es una marca reconocida internacionalmente.",
+      },
+      {
+        question: "¿Tiene picaporte de traba (deadbolt)?",
+        answer: "No. La U300 activa o desactiva mecánicamente la manija, no tiene un cerrojo tipo deadbolt. Sirve muy bien para controlar el acceso a una habitación u oficina, pero no reemplaza a un cerrojo de seguridad si la puerta lo necesita.",
+      },
+      {
+        question: "¿La tarjeta NFC viene incluida?",
+        answer: "Según reviews internacionales, la tarjeta o tag NFC/RFID se vende aparte, no viene en la caja del kit base.",
+      },
+      {
+        question: "¿Necesito un router Thread para que funcione?",
+        answer: "Para el control básico (huella, código, llave) no. Pero para aprovechar Matter completo, control remoto y asistentes de voz, hace falta un router Thread en casa (no necesariamente de Aqara: sirve un HomePod mini o un Echo reciente). Sin eso, queda limitada al control por Bluetooth de cercanía.",
+      },
+      {
+        question: "¿Es confiable a largo plazo?",
+        answer: "Las reseñas locales (todavía pocas) son consistentemente positivas. Sin embargo, hay reviews internacionales del mismo modelo que reportan problemas en algunas unidades: manija que se afloja con el uso, lector de huella menos confiable con dedos mojados o clima húmedo, y baterías que se agotaron antes de lo esperado. No podemos confirmar ni descartar esto con la muestra chica que hay en Argentina, pero es justo saberlo antes de comprar.",
       },
     ],
     structuredData: {
