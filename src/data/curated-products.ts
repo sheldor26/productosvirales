@@ -70987,7 +70987,7 @@ Comprá el JD Venecia Sport si buscás lo más básico y económico: notificacio
       { label: "Batería", value: "340 mAh. Amazfit declara 3 escenarios: hasta 14 días en uso típico, 6 días en uso intensivo, 26 días en modo ahorro, o 32 horas seguidas con GPS activado" },
       { label: "GPS", value: "Real e integrado, 5 sistemas de posicionamiento satelital, no depende del celular" },
       { label: "Resistencia al agua", value: "5 ATM (hasta 50 m), certificado ISO 22810:2010 con testeo de terceros (SGS)" },
-      { label: "Sensores", value: "BioTracker™ PPG (frecuencia cardíaca + SpO2), acelerómetro, giroscopio, luz ambiental, geomagnético — la web oficial de Amazfit confirma más sensores de movimiento que la ficha de MercadoLibre" },
+      { label: "Sensores", value: "BioTracker™ PPG (frecuencia cardíaca + SpO2), acelerómetro, giroscopio, luz ambiental, geomagnético — la web oficial de Amazfit confirma más sensores de movimiento que la ficha de MercadoLibre. Sin altímetro barométrico: no mide la elevación en tiempo real durante trekking o trail running, ese dato recién aparece al sincronizar la actividad con el celular" },
       { label: "Conectividad", value: "Bluetooth 5.2 (BLE). Sin WiFi, sin NFC. Micrófono y parlante integrados" },
       { label: "Función distintiva", value: "Zepp Flow™: asistente de voz con IA (disponible en español) que responde WhatsApp por voz o teclado incorporado" },
       { label: "Compatibilidad", value: "Android 7.0+ / iOS 14.0+" },
@@ -71014,6 +71014,7 @@ Comprá el JD Venecia Sport si buscás lo más básico y económico: notificacio
       "Sin WiFi. En uso intensivo (GPS y monitoreo cada 1 minuto) la batería declarada por el fabricante baja a 6 días, lejos de las 2 semanas de uso típico",
       "Solo 512 MB de almacenamiento interno, compartido entre watch faces, apps, música y mapas offline: se llena rápido si usás varias funciones a la vez",
       "En iPhone, la funcionalidad de IA queda recortada: no se pueden responder mensajes de texto desde el reloj (solo verlos) y el asistente de notificaciones no funciona igual que en Android",
+      "Sin altímetro barométrico: no mide elevación en tiempo real, algo a tener en cuenta para trekking o trail running",
     ],
     articleBody: `## Qué es y para quién
 
@@ -71027,7 +71028,9 @@ Pantalla AMOLED de 1,97" (390x450 px, 302 PPI, hasta 2.000 nits de brillo), cuer
 
 A diferencia de la batería declarada de otros smartwatches de esta guía, la del Amazfit Bip 6 está confirmada en uso real: "hoy se cumplen exactamente 2 semanas desde la última vez que lo cargué, y aún me queda 21% de batería, simplemente fantástico!", detalla una reseña con 228 votos útiles, que también destaca "la posibilidad de responder mensajes de whatsapp con teclado incorporado, o hacerlo mediante tu voz". Esa cifra coincide con lo que declara el propio fabricante para uso típico (hasta 14 días), pero Amazfit también aclara que en uso intensivo (monitoreo cada 1 minuto, más notificaciones y GPS) baja a 6 días — con GPS activado de forma continua, a 32 horas. La contra real es la ausencia de NFC: a este precio, varios compradores esperarían la opción de pagos sin contacto, que este modelo no tiene.
 
-Dos matices más para uso a largo plazo. Primero, el almacenamiento interno es de apenas 512 MB, compartido entre watch faces, apps, música offline y mapas offline: un reviewer detalla que el sistema ya ocupa 316 MB de entrada, y que con uso normal (bajar algunas watch faces, apps y un mapa offline) se llena rápido, obligando a borrar cosas para poder agregar algo nuevo. Segundo, si usás iPhone en vez de Android, la funcionalidad de inteligencia artificial queda recortada: no podés responder mensajes de texto directamente desde el reloj (solo verlos, hay que sacar el celular para responder), y el asistente de IA que aparece en las notificaciones no hace nada útil en iOS, a diferencia de Android donde sí funciona completo.
+Dos matices más para uso a largo plazo. Primero, el almacenamiento interno es de apenas 512 MB, compartido entre watch faces, apps, música offline y mapas offline: un reviewer detalla que el sistema ya ocupa 316 MB de entrada, y que con uso normal (bajar algunas watch faces, apps y un mapa offline) se llena rápido, obligando a borrar cosas para poder agregar algo nuevo. Segundo, si usás iPhone en vez de Android, la funcionalidad de inteligencia artificial queda recortada: no podés responder mensajes de texto directamente desde el reloj (solo verlos, hay que sacar el celular para responder), y el asistente de IA que aparece en las notificaciones no hace nada útil en iOS, a diferencia de Android donde sí funciona completo. Tampoco tiene altímetro barométrico: para trekking o trail running no vas a ver la elevación en tiempo real en la pantalla, ese dato aparece recién al sincronizar la actividad con el celular.
+
+Un análisis técnico independiente que comparó el Bip 6 contra sensores de referencia (banda de pecho Polar H10 y EEG) encontró que la precisión de frecuencia cardíaca es buena en general, pero varía bastante según la actividad: sólida para correr y ciclismo indoor, más inconsistente para ciclismo outdoor y entrenamiento con pesas, y con diferencias notables entre dos unidades del mismo modelo probadas en ambas muñecas por el mismo reviewer, sin una explicación clara del porqué. El seguimiento de sueño también mostró buena coincidencia en sueño profundo pero detectó muy poco sueño REM en la segunda mitad de la noche. No es un defecto grave, pero conviene no tomar estos datos como referencia médica.
 
 ## Cómo se compara con las otras de esta guía
 
@@ -71064,6 +71067,10 @@ Comprá el Amazfit Bip 6 si buscás el smartwatch más completo de esta guía y 
       {
         question: "¿Funciona igual en iPhone que en Android?",
         answer: "No del todo. En iPhone no podés responder mensajes de texto directamente desde el reloj (solo verlos, hay que responder desde el celular), y el asistente de IA de las notificaciones no funciona igual que en Android. Para aprovechar todas las funciones de IA conviene tener un celular Android.",
+      },
+      {
+        question: "¿Qué tan precisa es la frecuencia cardíaca?",
+        answer: "Según un análisis técnico independiente que lo comparó contra una banda de pecho Polar H10, es buena en general pero varía según la actividad: sólida para correr y ciclismo indoor, más inconsistente para ciclismo outdoor y pesas. No tomes estos datos como referencia médica.",
       },
     ],
     structuredData: {
