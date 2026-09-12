@@ -68799,9 +68799,12 @@ Comprá el Peisa 14 TBF si tu baño no tiene buena ventilación y necesitás un 
       { label: "Conectividad", value: "WiFi 2.4GHz y Bluetooth" },
       { label: "Capacidad", value: "Hasta 50 huellas/tarjetas/contraseñas" },
       { label: "Resistencia", value: "IP65 en panel frontal" },
-      { label: "Autonomía", value: "Hasta 365 días en modo Bluetooth (menos con WiFi activo)" },
+      { label: "Autonomía", value: "Hasta 365 días en modo Bluetooth (menos con WiFi activo); el aviso de batería baja da margen de unas 50 aperturas más antes de apagarse del todo, según reviews" },
       { label: "Carga de emergencia", value: "USB-C" },
       { label: "Alarma antiviolación", value: "Sí, traba 3 minutos tras 5 intentos fallidos" },
+      { label: "Puntos de bloqueo", value: "3 puntos que se traban de forma simultánea al cerrar, según reviews" },
+      { label: "Código de coacción", value: "Se puede configurar un código alternativo que abre la puerta con normalidad pero manda una alerta silenciosa a otros usuarios, por si te obligan a abrir bajo amenaza" },
+      { label: "Seguro manual", value: "Traba física activable desde adentro (tipo traba de niños) que impide abrir desde afuera aunque se sepa el código o la huella" },
     ],
     relatedProducts: ["MLA52016410", "MLA38827156", "MLA45403665"],
     priceUpdated: "2026-09-11",
@@ -68818,6 +68821,9 @@ Comprá el Peisa 14 TBF si tu baño no tiene buena ventilación y necesitás un 
       "WiFi y Bluetooth, con hasta 365 días de autonomía en modo Bluetooth",
       "Alarma antiviolación: traba 3 minutos tras 5 intentos fallidos",
       "Carga de emergencia por USB-C si se agotan las pilas",
+      "3 puntos de bloqueo que se activan al mismo tiempo al cerrar, más resistente que una traba de un solo punto",
+      "Código de coacción: si te obligan a abrir la puerta bajo amenaza, hay un código alternativo que abre con normalidad pero manda una alerta silenciosa a otros usuarios",
+      "Seguro manual tipo traba de niños, activable desde adentro, para impedir que se abra desde afuera aunque alguien sepa el código o tenga la huella registrada",
     ],
     cons: [
       "El vástago del cerrojo puede ser más corto que el grosor real de tu puerta, según varias reseñas independientes: \"decía que era apto para aberturas de 30mm a 110mm de espesor. Mi puerta tiene 85mm y no llega el vástago que trae\", con 52 votos útiles",
@@ -68831,11 +68837,11 @@ La Ezviz CS-DL05 es una cerradura inteligente empotrable (reemplaza el mecanismo
 
 ## Cómo funciona
 
-Con huella digital, tarjeta RFID, clave numérica y llave mecánica de emergencia, conecta por WiFi y Bluetooth con hasta 365 días de autonomía en modo Bluetooth. La alarma antiviolación traba el dispositivo 3 minutos tras 5 intentos fallidos.
+Con huella digital, tarjeta RFID, clave numérica y llave mecánica de emergencia, conecta por WiFi y Bluetooth con hasta 365 días de autonomía en modo Bluetooth. La alarma antiviolación traba el dispositivo 3 minutos tras 5 intentos fallidos. Tres funciones de seguridad que varias reviews destacan y que la ficha de ML no explica: primero, cierra con 3 puntos de bloqueo simultáneos, no uno solo. Segundo, tiene un código de coacción configurable: si alguien te obliga a abrir la puerta, ingresás ese código en vez del tuyo y la puerta abre con normalidad, pero manda una alerta silenciosa a los demás usuarios de que algo anda mal. Tercero, tiene un seguro manual activable desde adentro (tipo traba de niños) que bloquea la apertura desde afuera aunque alguien tenga la huella o el código correctos. Sobre la batería: el aviso de batería baja no es un corte repentino, da margen de unas 50 aperturas más antes de apagarse del todo.
 
 ## La contra real
 
-El problema más específico y repetido en las reseñas no es de funcionamiento, sino de medidas: "en la descripción decía que era apto para aberturas de 30mm a 110mm de espesor. Mi puerta tiene 85mm y no llega el vástago que trae. Tuve que comprar otro", detalla una reseña con 52 votos útiles. Otra reseña con 24 votos confirma: "para montarla lleva algo de trabajo y maña. Hay que asegurar bien las medidas". Medir tu puerta antes de comprar evita este problema.
+El problema más específico y repetido en las reseñas no es de funcionamiento, sino de medidas: "en la descripción decía que era apto para aberturas de 30mm a 110mm de espesor. Mi puerta tiene 85mm y no llega el vástago que trae. Tuve que comprar otro", detalla una reseña con 52 votos útiles. Otra reseña con 24 votos confirma: "para montarla lleva algo de trabajo y maña. Hay que asegurar bien las medidas". Medir tu puerta antes de comprar evita este problema. Otro punto de fricción que aparece en varios videos de configuración: al vincularla por primera vez, la app pide un código de verificación que muchos usuarios buscan en la pantalla de la cerradura (que no tiene), cuando en realidad está impreso atrás, junto al código QR, detrás de la tapa de las pilas. Más de un usuario reporta haber perdido bastante tiempo por esta confusión antes de encontrarlo.
 
 ## Cómo se compara con los otros de esta guía
 
@@ -68860,6 +68866,22 @@ Comprá la Ezviz CS-DL05 si buscás el mayor respaldo de compradores reales y no
       {
         question: "¿Es fácil de instalar?",
         answer: "Requiere precisión en las medidas, según reseñas reales. Es empotrable: reemplaza el mecanismo interno de una cerradura de embutir existente.",
+      },
+      {
+        question: "¿Qué es el código de coacción?",
+        answer: "Es un código alternativo que podés configurar además del tuyo. Si alguien te obliga a abrir la puerta bajo amenaza, ingresás ese código: la puerta abre con normalidad, pero manda una alerta silenciosa a los demás usuarios de que algo anda mal.",
+      },
+      {
+        question: "¿Se puede bloquear para que no abra ni con la huella o el código?",
+        answer: "Sí, tiene un seguro manual activable desde adentro (parecido a una traba de niños) que impide que se abra desde afuera aunque alguien tenga la huella registrada o sepa el código.",
+      },
+      {
+        question: "¿Cuántos puntos de bloqueo tiene?",
+        answer: "3 puntos que se traban de forma simultánea al cerrar, según reviews, más resistente que una cerradura de un solo punto de traba.",
+      },
+      {
+        question: "¿Dónde está el código para configurarla la primera vez?",
+        answer: "No aparece en pantalla: está impreso atrás de la cerradura, junto al código QR, debajo de la tapa donde van las pilas. Es una confusión común en los videos de instalación, así que conviene revisar ahí antes de pensar que hay un error.",
       },
     ],
     structuredData: {
