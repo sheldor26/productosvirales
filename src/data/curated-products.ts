@@ -70473,6 +70473,9 @@ Comprá el i-tob si buscás el kit completo más económico de esta guía y no t
       { label: "Inmune a mascotas", value: "Hasta 24 kg" },
       { label: "App", value: "AXHOME + Hik-Connect" },
       { label: "Comandos de voz", value: "Compatible Alexa / Google Home" },
+      { label: "Tipo de SIM", value: "Micro SIM (no nano ni estándar), según un webinar oficial de Hikvision" },
+      { label: "Batería de los sensores", value: "Pilas AA estándar, fáciles de conseguir y reemplazar, según el mismo webinar oficial" },
+      { label: "Sirena interior", value: "5 niveles de volumen y duración configurable de 1 segundo a 15 minutos, con volumen distinto para armado/desarmado y para la alarma disparada" },
       { label: "Vendedor", value: "Tienda oficial Hikvision" },
     ],
     relatedProducts: ["MLA28261746", "MLA58030955", "MLA45993557"],
@@ -70489,6 +70492,8 @@ Comprá el i-tob si buscás el kit completo más económico de esta guía y no t
       "16 zonas, la mayor capacidad de expansión de esta guía",
       "Doble conectividad WiFi + 4G con chip celular propio",
       "App AXHOME + ecosistema Hik-Connect, compatible con Alexa y Google Home",
+      "Los sensores usan pilas AA comunes, fáciles de conseguir y cambiar en cualquier lado, según un webinar oficial de Hikvision",
+      "La sirena interior tiene 5 niveles de volumen y duración configurable (1 segundo a 15 minutos), con volumen independiente para armado/desarmado y para cuando se dispara la alarma",
     ],
     cons: [
       "El failover a 4G no es automático si se corta el WiFi, según 2 reseñas reales independientes: \"estoy teniendo problemas cuando me quedo sin internet, no se conecta automáticamente a la red de celular\"",
@@ -70502,7 +70507,7 @@ El Hikvision AXHome es un kit de alarma para casa con central de 16 zonas, WiFi 
 
 ## Cómo funciona
 
-Central Hikvision DS-PA101-16P-WB de 16 zonas, con sensor PIR inalámbrico y sensor magnético incluidos, control remoto, WiFi 802.11 b/g/n, chip 4G (compatible Claro, Movistar y Personal) y RF 433.1-433.7 MHz. El fabricante declara 1.200 metros de alcance y hasta 12 horas de batería de respaldo (la ficha de MercadoLibre es algo más conservadora: 10 horas). Es inmune a mascotas de hasta 24 kg, y se maneja con la app AXHOME o Hik-Connect, con comandos de voz compatibles con Alexa y Google Home.
+Central Hikvision DS-PA101-16P-WB de 16 zonas, con sensor PIR inalámbrico y sensor magnético incluidos, control remoto, WiFi 802.11 b/g/n, chip 4G (compatible Claro, Movistar y Personal) y RF 433.1-433.7 MHz. El fabricante declara 1.200 metros de alcance y hasta 12 horas de batería de respaldo (la ficha de MercadoLibre es algo más conservadora: 10 horas). Es inmune a mascotas de hasta 24 kg, y se maneja con la app AXHOME o Hik-Connect, con comandos de voz compatibles con Alexa y Google Home. Un webinar oficial de Hikvision aporta tres datos prácticos que la ficha de ML no explica: el chip que lleva el panel es una micro SIM (ni nano ni estándar, así que confirmá el tamaño al comprarla), los sensores funcionan con pilas AA comunes que se consiguen en cualquier lado, y la sirena interior tiene 5 niveles de volumen con duración configurable de 1 segundo a 15 minutos, pudiendo poner un volumen distinto para cuando armás o desarmás el sistema que para cuando efectivamente se dispara la alarma.
 
 ## La contra real
 
@@ -70527,6 +70532,14 @@ Comprá el Hikvision AXHome si priorizás el respaldo de una marca global y plan
       {
         question: "¿Es compatible con Alexa o Google Home?",
         answer: "Sí, según el fabricante, tiene comandos de voz compatibles con ambos asistentes.",
+      },
+      {
+        question: "¿Qué tamaño de chip usa?",
+        answer: "Micro SIM, según un webinar oficial de Hikvision. No es nano ni tamaño estándar, así que conviene confirmarlo al comprar el chip.",
+      },
+      {
+        question: "¿Qué pilas usan los sensores?",
+        answer: "Pilas AA comunes, según el mismo webinar oficial de Hikvision. Se consiguen y reemplazan fácil, sin depender de un tamaño raro.",
       },
       {
         question: "¿Por qué tiene menos reseñas que el PST G30?",
