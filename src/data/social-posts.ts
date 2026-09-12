@@ -2639,4 +2639,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "42",
     postedAt: "2026-09-11T20:33:00-03:00",
   },
+  {
+    title: "Notebook Asus Vivobook 15 M1502NAQ Ryzen 5",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_979784-MLA112165566127_052026-O.webp",
+    affiliateUrl: "https://meli.la/28wHNPw",
+    newPrice: "1.210.999",
+    oldPrice: "2.242.347",
+    offPct: "45",
+    postedAt: "2026-09-12T08:51:00-03:00",
+  },
 ];
