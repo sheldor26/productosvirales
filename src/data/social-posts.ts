@@ -2739,4 +2739,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "50",
     postedAt: "2026-09-12T15:13:00-03:00",
   },
+  {
+    title: "Motorola Moto G04s 64GB",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_725710-MLA78586550893_082024-O.webp",
+    affiliateUrl: "https://meli.la/25bWfkm",
+    newPrice: "199.511",
+    oldPrice: "279.999",
+    offPct: "28",
+    postedAt: "2026-09-12T17:32:00-03:00",
+  },
 ];
