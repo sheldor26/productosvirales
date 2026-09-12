@@ -95723,6 +95723,381 @@ Es la soga mejor posicionada en el ranking de más vendidos de MercadoLibre de e
       { question: "¿De qué material es el cable?", answer: "Acero revestido en PVC, pensado para resistir el roce contra superficies abrasivas, según su ficha técnica." },
     ],
   },
+  // Guía nueva corralito-para-bebe — silo/categoría bebes (sourcing MercadoLibre 2026-09-12).
+  // Los 4 con stock verificado en vivo el mismo día. Categoría sensible (seguridad de bebés):
+  // ninguna de las 4 fichas certifica sueño prolongado sin supervisión, aclarado explícitamente.
+  {
+    id: "MLA67340221",
+    title: "Corralito de Juegos Belluno Baby Trapani 180x120 — Plegable, No Apto para Recién Nacidos",
+    canonicalName: "Belluno Baby Trapani BEL0060GRIS",
+    brand: "Belluno Baby",
+    mpn: "BEL0060GRIS",
+    price: 184290.30,
+    originalPrice: 199990,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_602995-MLA108857647812_032026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_602995-MLA108857647812_032026-O.webp",
+    ],
+    category: "Bebés",
+    categorySlug: "bebes",
+    permalink: "https://www.mercadolibre.com.ar/corralito-juegos-bebe-portable-180x120-trapani-belluno-baby-gris-liso/p/MLA67340221",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.9,
+    reviewCount: 484,
+    badge: "bestseller",
+    pastelColor: "var(--pastel-green)",
+    specs: [
+      { label: "Marca", value: "Belluno Baby" },
+      { label: "Modelo", value: "Trapani (BEL0060GRIS)" },
+      { label: "Tipo de producto", value: "Corralito (de juegos, no practicuna)" },
+      { label: "Color", value: "Gris" },
+      { label: "Ancho x Profundidad x Altura", value: "1,2 m x 1,8 m x 65 cm" },
+      { label: "Materiales", value: "Tela Oxford 210, tubería de acero" },
+      { label: "Es plegable", value: "Sí" },
+      { label: "Incluye colchón", value: "No" },
+      { label: "Con función colecho", value: "No" },
+      { label: "Edad mínima recomendada - Edad máxima recomendada", value: "6 meses - 3 años" },
+      { label: "Incluye accesorios", value: "Sí: anillas de sujeción, protección en uniones y en vértices" },
+    ],
+    relatedProducts: ["MLA60692040", "MLA1549115621", "MLA68732844"],
+    priceUpdated: "2026-09-12", priceLastChecked: "2026-09-12", priceVerifiedAt: "2026-09-12",
+    priceStatus: "fresh", reviewsSampledAt: "2026-09-12",
+    description: "Corralito de juegos plegable de tela Oxford y caños de acero, 1,2 x 1,8 m. Es el más elegido de esta comparativa con {{reviews:MLA67340221}} opiniones y {{rating:MLA67340221}} de promedio. No incluye colchón y su ficha técnica recomienda a partir de los 6 meses, no para recién nacidos.",
+    seoTitle: "Corralito Belluno Baby Trapani: {{reviews:MLA67340221}} opiniones, el más elegido de la comparativa",
+    metaDescription: "Corralito de juegos Belluno Baby Trapani 180x120, plegable. {{reviews:MLA67340221}} opiniones y {{rating:MLA67340221}} estrellas. No apto para recién nacidos.",
+    verdict: "Es el **más elegido de esta comparativa por lejos**, con {{reviews:MLA67340221}} opiniones y {{rating:MLA67340221}} de promedio, además de figurar 1° en el ranking propio de MercadoLibre en la categoría Corralitos. Es plegable, liviano y varios compradores destacan que se arma sin instrucciones. La aclaración honesta: su ficha técnica lo recomienda **a partir de los 6 meses**, no para recién nacidos, y no incluye colchón ni tiene función colecho, así que no reemplaza una cuna para dormir.",
+    pros: [
+      "El más elegido de esta comparativa por lejos: {{reviews:MLA67340221}} opiniones con {{rating:MLA67340221}} de promedio",
+      "1° en el ranking propio de más vendidos de MercadoLibre en la categoría Corralitos",
+      "Plegable y liviano, según compradores se puede mover con una sola persona",
+      "Incluye accesorios de seguridad: anillas de sujeción y protección en uniones y vértices",
+      "Viene con funda para guardarlo y trasladarlo",
+    ],
+    cons: [
+      "Su ficha técnica lo recomienda desde los 6 meses, no sirve para recién nacidos",
+      "No incluye colchón ni tiene función colecho: no reemplaza una cuna para dormir",
+      "Un comprador avisa que no trae instrucciones y que dos tamaños de caño son muy similares entre sí, lo que puede confundir al armarlo",
+      "No declara peso máximo soportado en su ficha técnica",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", text: "Muy bueno. Los caños se ven de buena calidad, así como la parte textil. No trae instrucciones y tiene dos tamaños de caño muy similares y uno bien largo. El tamaño mediano es la altura (de nada)." },
+      { rating: 5, country: "Argentina", text: "Me encantó! más que satisfecha. Es ligero, acolchado en sus bordes y súper grande para jugar cómodamente. Viene con sujetadores para los bebés que empiezan a caminar y su funda para guardarlo. La estructura es sencilla no necesitas leer las instrucciones para armarlo." },
+      { rating: 5, country: "Argentina", text: "Excelente producto. Es firme y liviano para poder moverlo una sola persona." },
+    ],
+    articleBody: `## Qué es el corralito de juegos Belluno Baby Trapani
+
+Es un corralito de juegos plegable de tela Oxford y caños de acero, de 1,2 x 1,8 m, el más elegido de [nuestra comparativa de corralitos para bebé en Argentina](/guias/bebes/corralito-para-bebe). Cuesta {{precio:MLA67340221}} y tiene {{reviews:MLA67340221}} calificaciones con {{rating:MLA67340221}} estrellas.
+
+## El más elegido de esta comparativa
+
+Con {{reviews:MLA67340221}} opiniones y {{rating:MLA67340221}} de promedio, es por lejos el de mayor respaldo de las cuatro fichas de esta guía, y figura 1° en el ranking propio de MercadoLibre en la categoría Corralitos. Una compradora lo resume así: "es ligero, acolchado en sus bordes y súper grande para jugar cómodamente".
+
+## Plegable, liviano y con accesorios de seguridad
+
+Incluye anillas de sujeción y protección en uniones y vértices, pensadas para bebés que empiezan a pararse o caminar. Un comprador destaca que "es firme y liviano para poder moverlo una sola persona", y viene con una funda para guardarlo cuando no se usa.
+
+## La contra real: no es para recién nacidos ni para dormir
+
+Esta es la advertencia honesta antes de comprar. Su ficha técnica lo recomienda **a partir de los 6 meses**, no desde el nacimiento, y no incluye colchón ni declara función colecho: es un espacio de juego supervisado, no una cuna. No hay pautas oficiales que respalden usarlo para que un bebé duerma sin supervisión, y conviene seguir las recomendaciones de sueño seguro para bebés antes de improvisar un lugar de descanso con este producto.
+
+## Para quién es, y para quién no
+
+Es para vos si tenés un bebé de 6 meses o más y buscás un espacio de juego seguro, amplio y plegable. Si tu bebé es recién nacido, la [Practicuna Bebesit](/producto/practicuna-bebesit-2105-desde-recien-nacido-sin-colchon-incluido-mla60692040) de esta misma comparativa es la única que declara aceptar esa edad, aunque tampoco incluye colchón ni está certificada para que el bebé duerma ahí sin supervisión.
+
+## El veredicto
+
+Es el corralito con más respaldo de esta comparativa, plegable y con buenos accesorios de seguridad. La contra real: no sirve para recién nacidos ni para dormir, según su propia ficha técnica.`,
+    faq: [
+      { question: "¿Sirve para un recién nacido?", answer: "No según su ficha técnica: recomienda a partir de los 6 meses, no desde el nacimiento." },
+      { question: "¿Es el más elegido de esta comparativa?", answer: "Sí, con {{reviews:MLA67340221}} opiniones y {{rating:MLA67340221}} de promedio, además de ser 1° en el ranking propio de MercadoLibre en la categoría Corralitos." },
+      { question: "¿Incluye colchón?", answer: "No, según su ficha técnica, y tampoco tiene función colecho: es un espacio de juego, no una cuna para dormir." },
+      { question: "¿Es fácil de armar?", answer: "Según compradores sí, aunque uno avisa que no trae instrucciones escritas y que dos tamaños de caño son muy parecidos entre sí, lo que puede confundir al principio." },
+      { question: "¿Es plegable para guardar?", answer: "Sí, y viene con una funda para guardarlo o trasladarlo, según su ficha técnica y reseñas de compradores." },
+      { question: "¿Qué accesorios de seguridad incluye?", answer: "Anillas de sujeción y protección en uniones y vértices, según su ficha técnica." },
+    ],
+  },
+  {
+    id: "MLA60692040",
+    title: "Practicuna Bebesit 2105 — Desde Recién Nacido, Sin Colchón Incluido",
+    canonicalName: "Bebesit 2105",
+    brand: "Bebesit",
+    mpn: "2105",
+    price: 107251,
+    originalPrice: 149525,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_847874-MLA99928934211_112025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_847874-MLA99928934211_112025-O.webp",
+    ],
+    category: "Bebés",
+    categorySlug: "bebes",
+    permalink: "https://www.mercadolibre.com.ar/practicuna-corralito-gris-bebesit/p/MLA60692040",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 99,
+    badge: "bestseller",
+    pastelColor: "var(--pastel-blue)",
+    specs: [
+      { label: "Marca", value: "Bebesit" },
+      { label: "Modelo", value: "2105" },
+      { label: "Tipo de producto", value: "Practicuna (categoría distinta a los corralitos de juego)" },
+      { label: "Color", value: "Gris" },
+      { label: "Ancho x Profundidad x Altura", value: "52 cm x 90 cm x 72 cm" },
+      { label: "Materiales", value: "Plástico, red, metal" },
+      { label: "Es plegable", value: "Sí" },
+      { label: "Incluye colchón", value: "No" },
+      { label: "Con función colecho", value: "No" },
+      { label: "Edad mínima recomendada - Edad máxima recomendada", value: "0 meses - 3 años" },
+      { label: "Peso máximo soportado", value: "15 kg" },
+    ],
+    relatedProducts: ["MLA67340221", "MLA1549115621", "MLA68732844"],
+    priceUpdated: "2026-09-12", priceLastChecked: "2026-09-12", priceVerifiedAt: "2026-09-12",
+    priceStatus: "fresh", reviewsSampledAt: "2026-09-12",
+    description: "Practicuna plegable de 52 x 90 x 72 cm, la única de esta comparativa que acepta desde los 0 meses según su ficha técnica. No incluye colchón ni declara función colecho.",
+    seoTitle: "Practicuna Bebesit 2105: la única desde recién nacido de la comparativa",
+    metaDescription: "Practicuna Bebesit 2105, 0 meses a 3 años, sin colchón incluido. {{reviews:MLA60692040}} opiniones y {{rating:MLA60692040}} estrellas.",
+    verdict: "Es la **única de esta comparativa que declara aceptar desde los 0 meses** según su ficha técnica, frente a los 6 meses mínimo que declaran otras dos de las tres fichas restantes (la cuarta no declara ningún rango de edad). Es plegable, práctica para espacios chicos y tiene buen respaldo ({{reviews:MLA60692040}} opiniones, {{rating:MLA60692040}} de promedio). La aclaración honesta: **no incluye colchón ni declara función colecho**, así que aceptar bebés desde recién nacido no equivale a estar certificada para que duerman ahí sin supervisión.",
+    pros: [
+      "La única de esta comparativa que declara aceptar desde los 0 meses, según su ficha técnica",
+      "Plegable: se arma y desarma fácil, práctica para espacios chicos según compradoras",
+      "Buen respaldo de reseñas: {{reviews:MLA60692040}} opiniones con {{rating:MLA60692040}} de promedio",
+      "Antideslizante, según su ficha técnica",
+      "Tienda con MercadoLíder y buena atención según el historial de ventas",
+    ],
+    cons: [
+      "No incluye colchón: hay que sumarlo aparte",
+      "No declara función colecho, pese a ser una practicuna, categoría que suele asociarse a esa función",
+      "Un comprador avisa que es \"buena calidad pero muy chica\": confirmá las medidas (52 x 90 cm) antes de comprar",
+      "Peso máximo soportado de 15 kg, más bajo que lo que suele durar hasta los 3 años de edad máxima declarada",
+    ],
+    customerReviews: [
+      { rating: 4, country: "Argentina", text: "Es buena calidad pero muy chica." },
+      { rating: 5, country: "Argentina", text: "Muy linda cuna, es práctica y además de poder armarla y desarmarla es muy bueno por tema de espacios." },
+      { rating: 5, country: "Argentina", text: "Muy linda, así tal cual muestra en la foto es cómoda y muy práctica." },
+    ],
+    articleBody: `## Qué es la practicuna Bebesit 2105
+
+Es una practicuna plegable de 52 x 90 x 72 cm, la única de [nuestra comparativa de corralitos para bebé en Argentina](/guias/bebes/corralito-para-bebe) que acepta desde recién nacido según su ficha técnica. Cuesta {{precio:MLA60692040}} y tiene {{reviews:MLA60692040}} calificaciones con {{rating:MLA60692040}} estrellas.
+
+## La única desde recién nacido de esta comparativa
+
+Su ficha técnica declara un rango de edad de 0 meses a 3 años, frente a los 6 meses mínimo que declaran otras dos fichas de esta guía (Belluno y Custom Baby); la cuarta (Gadnic) no declara ningún rango de edad. Es plegable y varias compradoras destacan que ocupa poco espacio guardada: "es práctica y además de poder armarla y desarmarla es muy bueno por tema de espacios".
+
+## La contra real: no incluye colchón ni función colecho
+
+Esta es la advertencia honesta antes de comprar. Que acepte bebés desde el nacimiento no significa que esté pensada para que duerman ahí sin supervisión: su ficha no incluye colchón ni declara función colecho. Antes de usarla para que un bebé descanse, revisá las pautas oficiales de sueño seguro en [argentina.gob.ar/salud/crecerconsalud/primermes/dormirseguro](https://www.argentina.gob.ar/salud/crecerconsalud/primermes/dormirseguro).
+
+## Chica de tamaño, según una compradora
+
+Una reseña avisa: "es buena calidad pero muy chica". Con 52 x 90 cm de base, es notablemente más compacta que los corralitos de juego de esta comparativa (que rondan 1,2 x 1,8 m), así que conviene confirmar las medidas antes de comprar si buscás espacio amplio de juego.
+
+## Para quién es, y para quién no
+
+Es para vos si necesitás algo compacto y plegable, con espacio de juego chico, para un bebé desde recién nacido. Si buscás más espacio para que juegue a medida que crece, el [corralito Belluno Baby Trapani](/producto/corralito-de-juegos-belluno-baby-trapani-180x120-plegable-no-apto-para-recien-na-mla67340221) de esta misma comparativa es bastante más grande, aunque recién sirve desde los 6 meses.
+
+## El veredicto
+
+Es la única de esta comparativa que declara aceptar desde recién nacido, plegable y compacta. La contra real: no incluye colchón ni función colecho, y una compradora la describe como chica de tamaño.`,
+    faq: [
+      { question: "¿Sirve desde que nace el bebé?", answer: "Según su ficha técnica sí, declara un rango de 0 meses a 3 años, la única de esta comparativa con ese mínimo." },
+      { question: "¿Incluye colchón?", answer: "No, según su ficha técnica. Hay que sumarlo aparte." },
+      { question: "¿Es segura para que el bebé duerma solo ahí?", answer: "Su ficha no declara función colecho ni incluye colchón certificado para sueño prolongado. Antes de usarla para dormir, revisá las pautas oficiales de sueño seguro para bebés." },
+      { question: "¿Es chica?", answer: "Con 52 x 90 cm de base, sí es compacta. Una compradora la describe como \"buena calidad pero muy chica\"." },
+      { question: "¿Es plegable?", answer: "Sí, según su ficha técnica y varias reseñas que destacan lo fácil que es armarla y desarmarla." },
+      { question: "¿Cuánto peso soporta?", answer: "15 kg según su ficha técnica, para un rango de edad declarado de hasta 3 años." },
+    ],
+  },
+  {
+    id: "MLA1549115621",
+    title: "Corralito Hexagonal Custom Baby — Para Bebés y Mascotas, Rígido y Económico",
+    canonicalName: "Custom Baby HEX052",
+    brand: "Custom Baby",
+    mpn: "HEX052",
+    price: 56753.02,
+    originalPrice: 69211,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_753528-MLA95225246903_102025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_753528-MLA95225246903_102025-O.webp",
+    ],
+    category: "Bebés",
+    categorySlug: "bebes",
+    permalink: "https://articulo.mercadolibre.com.ar/MLA-1549115621-corralito-bebe-mascota-espacio-seguro-juegos-pelotero-regalo-_JM",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 411,
+    badge: "bestseller",
+    pastelColor: "var(--pastel-slate)",
+    specs: [
+      { label: "Marca", value: "Custom Baby" },
+      { label: "Línea", value: "Reforzada Premium" },
+      { label: "Modelo", value: "HEX052" },
+      { label: "Tipo de producto", value: "Corralito hexagonal, también para mascotas" },
+      { label: "Cantidad de piezas", value: "31" },
+      { label: "Ancho x Profundidad x Altura", value: "1,38 m x 1,3 m x 65 cm" },
+      { label: "Materiales", value: "Caños galvanizados, puerta de nylon liso, tela de red" },
+      { label: "Es plegable", value: "No (se desarma, pero no se pliega como los otros de esta comparativa)" },
+      { label: "Incluye colchón", value: "No" },
+      { label: "Con función colecho", value: "No" },
+      { label: "Edad mínima recomendada - Edad máxima recomendada", value: "6 meses - 3 años" },
+      { label: "Peso máximo soportado", value: "15 kg" },
+    ],
+    relatedProducts: ["MLA67340221", "MLA60692040", "MLA68732844"],
+    priceUpdated: "2026-09-12", priceLastChecked: "2026-09-12", priceVerifiedAt: "2026-09-12",
+    priceStatus: "fresh", reviewsSampledAt: "2026-09-12",
+    description: "Corralito hexagonal de caños galvanizados, pensado para bebés y también para mascotas. Es el más barato de esta comparativa, con {{reviews:MLA1549115621}} opiniones y {{rating:MLA1549115621}} de promedio.",
+    seoTitle: "Corralito Custom Baby: el más barato de la comparativa, para bebés y mascotas",
+    metaDescription: "Corralito hexagonal Custom Baby, para bebés y mascotas. El más barato de esta comparativa, {{reviews:MLA1549115621}} opiniones y {{rating:MLA1549115621}} estrellas.",
+    verdict: "Es **el más barato de esta comparativa por lejos**, y aun así mantiene buen respaldo: {{reviews:MLA1549115621}} opiniones con {{rating:MLA1549115621}} de promedio. Es de armado rápido según compradores, y su marca lo ofrece también como pelotero para mascotas. La contra real: a diferencia de los otros tres de esta guía, **no se pliega para guardar**, solo se desarma pieza por pieza, y su base no viene acolchada.",
+    pros: [
+      "El más barato de esta comparativa por lejos",
+      "Buen respaldo pese al precio: {{reviews:MLA1549115621}} opiniones con {{rating:MLA1549115621}} de promedio",
+      "Armado rápido según compradores: uno lo armó en 5 minutos",
+      "15 kg de peso máximo soportado, un dato sano y declarado con claridad",
+      "También sirve como espacio seguro para mascotas, según su propia publicación",
+    ],
+    cons: [
+      "No se pliega para guardar como los otros tres de esta comparativa: se desarma pieza por pieza (31 en total)",
+      "La base no viene acolchada: un comprador recomienda sumarle una alfombra más acolchonada",
+      "No incluye colchón ni declara función colecho",
+      "Su ficha técnica lo recomienda desde los 6 meses, no sirve para recién nacidos",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", text: "Muy bien producto, fácil de armar, resistente, amplio y seguro." },
+      { rating: 5, country: "Argentina", text: "Excelente, la arme en 5 minutos, una frazada se base y juguetes, lugar seguro para que el bebé se quede mientras uno hace cosas de la casa." },
+      { rating: 5, country: "Argentina", text: "Es facil y rapido de armar. Muy liviano y de buen tamaño. Hay que ponerle alguna alfombra mas acolchonada para poder usarlo mejor. Super recomendable." },
+    ],
+    articleBody: `## Qué es el corralito hexagonal Custom Baby
+
+Es un corralito hexagonal de caños galvanizados y tela de red, el más barato de [nuestra comparativa de corralitos para bebé en Argentina](/guias/bebes/corralito-para-bebe). Cuesta {{precio:MLA1549115621}} y tiene {{reviews:MLA1549115621}} calificaciones con {{rating:MLA1549115621}} estrellas.
+
+## El más barato, con buen respaldo
+
+Pese a ser la opción más económica del grupo, mantiene {{reviews:MLA1549115621}} opiniones con {{rating:MLA1549115621}} de promedio. Un comprador resume el armado: "la arme en 5 minutos, una frazada de base y juguetes, lugar seguro para que el bebé se quede mientras uno hace cosas de la casa".
+
+## También sirve para mascotas
+
+A diferencia de las otras tres fichas de esta comparativa, la propia publicación lo ofrece como espacio seguro tanto para bebés como para mascotas, gracias a su estructura hexagonal de 31 piezas y 1,38 x 1,3 m de superficie.
+
+## La contra real: no se pliega, y la base no viene acolchada
+
+Esta es la advertencia honesta antes de comprar. A diferencia de los otros tres corralitos de esta guía, que son plegables, este se arma y desarma pieza por pieza (31 en total), sin plegado rápido para guardar. Además, un comprador aconseja: "hay que ponerle alguna alfombra más acolchonada para poder usarlo mejor", porque la base no viene acolchada de fábrica.
+
+## Para quién es, y para quién no
+
+Es para vos si buscás la opción más económica de esta comparativa y no te molesta armar y desarmar piezas en vez de plegarlo. Si preferís algo que se pliegue rápido para guardar, el [Belluno Baby Trapani](/producto/corralito-de-juegos-belluno-baby-trapani-180x120-plegable-no-apto-para-recien-na-mla67340221) de esta misma comparativa sí lo permite.
+
+## El veredicto
+
+Es el corralito más barato de esta comparativa, con buen respaldo de reseñas y un plus real: también sirve para mascotas. La contra real: no se pliega para guardar y hay que sumarle una alfombra acolchada aparte.`,
+    faq: [
+      { question: "¿Es el más barato de esta comparativa?", answer: "Sí, por lejos, frente a las otras tres fichas de esta guía." },
+      { question: "¿Sirve para mascotas además de bebés?", answer: "Sí, según su propia publicación, que lo ofrece como espacio seguro tanto para bebés como para mascotas." },
+      { question: "¿Se pliega para guardar?", answer: "No, a diferencia de los otros tres corralitos de esta comparativa: se arma y desarma pieza por pieza (31 piezas en total)." },
+      { question: "¿La base viene acolchada?", answer: "No de fábrica. Un comprador recomienda sumarle una alfombra más acolchonada para usarlo mejor." },
+      { question: "¿Sirve para un recién nacido?", answer: "No según su ficha técnica: recomienda a partir de los 6 meses." },
+      { question: "¿Cuánto peso soporta?", answer: "15 kg según su ficha técnica, para un rango de edad declarado de hasta 3 años." },
+    ],
+  },
+  {
+    id: "MLA68732844",
+    title: "Corralito Mawe by Gadnic 180x120 — Premium con Aro de Básquet y Red Deportiva",
+    canonicalName: "Gadnic Mawe BABYCOR2",
+    brand: "Gadnic",
+    mpn: "BABYCOR2",
+    price: 314299,
+    originalPrice: 480749,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_904032-MLA110937165524_052026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_904032-MLA110937165524_052026-O.webp",
+    ],
+    category: "Bebés",
+    categorySlug: "bebes",
+    permalink: "https://www.mercadolibre.com.ar/corralito-bebe-mawe-by-gadnic-plegable-pelotas-juegos-red-negro-oxford/p/MLA68732844",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.6,
+    reviewCount: 12,
+    pastelColor: "var(--pastel-purple)",
+    specs: [
+      { label: "Marca", value: "Gadnic" },
+      { label: "Línea", value: "Mawe" },
+      { label: "Modelo", value: "BABYCOR2" },
+      { label: "Tipo de producto", value: "Corralito" },
+      { label: "Cantidad de piezas", value: "1" },
+      { label: "Ancho x Profundidad x Altura", value: "1,2 m x 1,8 m x 60 cm" },
+      { label: "Materiales", value: "Hierro galvanizado, Oxford 210D" },
+      { label: "Es plegable", value: "Sí" },
+      { label: "Incluye colchón", value: "No" },
+      { label: "Peso máximo soportado", value: "3,3 kg (dato de la ficha; no es coherente con un corralito pensado para acompañar a un bebé durante varios años de crecimiento, probable error de carga de la publicación, no lo tomamos como confiable)" },
+      { label: "Incluye accesorios", value: "Sí: manual, 10 pelotas, aro de baloncesto, 2 redes deportivas, uniones y caños estructurales" },
+    ],
+    relatedProducts: ["MLA67340221", "MLA60692040", "MLA1549115621"],
+    priceUpdated: "2026-09-12", priceLastChecked: "2026-09-12", priceVerifiedAt: "2026-09-12",
+    priceStatus: "fresh", reviewsSampledAt: "2026-09-12",
+    description: "Corralito premium de hierro galvanizado con aro de básquet y red deportiva incluidos. Es el más caro de esta comparativa, con solo {{reviews:MLA68732844}} opiniones todavía.",
+    seoTitle: "Corralito Mawe by Gadnic: premium con aro de básquet, el más caro de la comparativa",
+    metaDescription: "Corralito Mawe by Gadnic 180x120, con aro de básquet y red deportiva. El más caro de esta comparativa, {{rating:MLA68732844}} de promedio.",
+    verdict: "Es **el más caro de esta comparativa**, pero también el que más accesorios de entretenimiento trae: aro de básquet, redes deportivas y 10 pelotas incluidas. Compradores lo destacan como \"super grande y resistente\". La aclaración honesta: tiene apenas **{{reviews:MLA68732844}} opiniones**, la base de datos más chica de las cuatro fichas de esta guía, y su ficha declara un peso máximo soportado de 3,3 kg que no es coherente con un corralito pensado para bebés de hasta varios años; no lo tomamos como un dato confiable.",
+    pros: [
+      "El que más accesorios de entretenimiento trae: aro de básquet, 2 redes deportivas y 10 pelotas incluidas",
+      "Estructura de hierro galvanizado, más resistente que el hierro estándar de otras fichas de esta comparativa",
+      "Base antideslizante, según su propia publicación",
+      "Compradores lo describen como \"super grande y resistente\"",
+      "Plegable para guardar o trasladar",
+    ],
+    cons: [
+      "Es el más caro de esta comparativa",
+      "Tiene apenas {{reviews:MLA68732844}} opiniones, la base de datos más chica de las cuatro fichas de esta guía; tomalo con cautela",
+      "Su ficha declara un peso máximo soportado de 3,3 kg, que no es coherente con un corralito para bebés de hasta varios años; probablemente es un error de carga de la publicación, y no lo tomamos como dato confiable",
+      "No declara un rango de edad mínima ni máxima recomendada, a diferencia de las otras tres fichas de esta comparativa",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", text: "Es buenísimo super grande y resistente! me encantó!" },
+      { rating: 5, country: "Argentina", text: "Una de las mejores comprar para mi bebe. Ahora que aprendió a girar no hay peligro de que se lastime y todos sus juguetes entran ahí." },
+      { rating: 5, country: "Argentina", text: "Muy bueno, no es súper rígido." },
+    ],
+    articleBody: `## Qué es el corralito Mawe by Gadnic
+
+Es un corralito premium de 1,2 x 1,8 m, hierro galvanizado y tela Oxford, con aro de básquet y redes deportivas incluidas, el más caro de [nuestra comparativa de corralitos para bebé en Argentina](/guias/bebes/corralito-para-bebe). Cuesta {{precio:MLA68732844}} y tiene {{rating:MLA68732844}} de promedio.
+
+## El que más accesorios trae
+
+A diferencia de las otras tres fichas de esta comparativa, incluye de fábrica un aro de baloncesto, dos redes deportivas y 10 pelotas. Una compradora lo valora especialmente por seguridad: "ahora que aprendió a girar no hay peligro de que se lastime y todos sus juguetes entran ahí".
+
+## Un dato de la ficha que no es confiable: el peso máximo soportado
+
+Esta es la advertencia honesta antes de comprar. Su ficha técnica oficial de MercadoLibre declara un peso máximo soportado de apenas 3,3 kg, un número que no tiene sentido para un corralito pensado para acompañar a un bebé durante varios años de crecimiento. Es, casi con certeza, un error de carga de la publicación (probablemente un campo mal completado por el vendedor), y no lo tomamos como un dato real: no hay forma de confirmarlo con otra fuente, así que si el peso máximo te importa, confirmalo directamente con el vendedor antes de comprar.
+
+## Pocas opiniones todavía
+
+Con solo {{reviews:MLA68732844}} calificaciones, es la base de datos más chica de las cuatro fichas de esta comparativa. Lo decimos de frente: hay menos evidencia acumulada que en las otras tres, aunque las que existen son positivas.
+
+## Para quién es, y para quién no
+
+Es para vos si priorizás los accesorios de entretenimiento incluidos (básquet, redes, pelotas) y no te importa pagar más por eso. Si buscás algo más probado por compradores, el [Belluno Baby Trapani](/producto/corralito-de-juegos-belluno-baby-trapani-180x120-plegable-no-apto-para-recien-na-mla67340221) de esta misma comparativa tiene {{reviews:MLA67340221}} opiniones.
+
+## El veredicto
+
+Es el corralito con más accesorios de entretenimiento de esta comparativa, pero también el más caro y el que menos opiniones acumuló todavía. El dato de peso máximo soportado de su ficha (3,3 kg) no es confiable: confirmalo con el vendedor si te importa.`,
+    faq: [
+      { question: "¿Por qué la ficha dice que soporta solo 3,3 kg?", answer: "Es casi con certeza un error de carga de la publicación: ese peso no tiene sentido para un corralito pensado para bebés de varios años. No lo tomamos como un dato confiable; confirmalo con el vendedor si te importa." },
+      { question: "¿Qué accesorios incluye?", answer: "Un aro de baloncesto, dos redes deportivas y 10 pelotas, según su ficha técnica: el paquete más completo de esta comparativa." },
+      { question: "¿Es el más caro de esta comparativa?", answer: "Sí, frente a las otras tres fichas de esta guía." },
+      { question: "¿Tiene muchas opiniones?", answer: "No todavía: {{reviews:MLA68732844}} calificaciones, la base de datos más chica de las cuatro fichas de esta comparativa." },
+      { question: "¿Declara desde qué edad se puede usar?", answer: "No, a diferencia de las otras tres fichas de esta comparativa, que sí declaran un rango de edad recomendado." },
+      { question: "¿Es plegable?", answer: "Sí, según su ficha técnica, para guardarlo o trasladarlo dentro del hogar." },
+    ],
+  },
 ];
 
 export const categoryPastels: Record<string, string> = {
