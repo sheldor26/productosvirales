@@ -2499,3 +2499,19 @@ Quinta de las 7 guías nuevas de esta iteración. 4 fichas nuevas, sourcing en v
 **Verificación:** `npx tsc --noEmit`, `npm run build`, y los mismos scripts de `guides:check` en verde. `check-hardcoded-reviews` bajó de techo (sin hallazgos nuevos). Afiliados con placeholder `PEGAR_MELI_LA` hasta los links reales de Juan.
 
 Re-medir: pendiente de fijar fecha (recién publicada).
+
+---
+
+## Guía nueva `soga-para-saltar` — silo `fitness` (existente) — 2026-09-12
+
+Sexta de las 7 guías nuevas de esta iteración. 4 fichas nuevas, sourcing en vivo el 2026-09-12 (categoría "Sogas para Saltar" propia en MercadoLibre, 6 publicaciones usables verificadas en góndola):
+- `MLA24498301` — SPICAFIT SOG-00, la más elegida (1.294 opiniones). Marca real declarada en la ficha técnica: Libercam, no SPICAFIT como dice la publicación — inconsistencia real de MercadoLibre, aclarada explícitamente. Incluye estuche, único de los cuatro.
+- `MLA25593911` — Gadnic Aluminio Speed Rope, la mejor calificada (4.8), la más cara de las cuatro.
+- `MLA29023934` — GMP con Rodamientos, la más barata. Reviews contradictorias sobre si se enreda al saltar, documentadas tal cual (una a favor, una en contra).
+- `MLA58183439` — Veoquiero reforzada, 1° en el ranking propio de más vendidos de MercadoLibre en su categoría, pero la más corta de las cuatro (2,8 m vs 3 m de las otras tres); un comprador de 1,86 m avisa que le queda justa.
+
+**Trío auditor, ronda 1: doble GO sin bloqueantes reales.** Primer intento de Codex quedó cortado a mitad de la revisión (se detuvo en medio de los chequeos mecánicos sin emitir veredicto final, sin error visible); se relanzó junto con agy y ambos cerraron limpio en el reintento. Mejoras opcionales de ambos auditores, aplicadas igual por prolijidad pese a no ser bloqueantes: (1) homogeneizar los links del párrafo de veredicto de la guía (dos modelos tenían link, dos solo negrita); (2) reforzar en la guía —no solo en la ficha— que "ranking de ventas" (Veoquiero) y "cantidad de reseñas" (SPICAFIT/Libercam) son métricas distintas, para que no lean como una contradicción entre dos "la número uno"; (3) variar la frase repetida "Esta es la advertencia honesta antes de comprar" en 2 de las 4 fichas; (4) suavizar "rinde mejor para estaturas medias o bajas, según reportan sus propias compradoras" (plural) a una formulación acotada a la evidencia real (una reseña de cada lado).
+
+**Verificación:** `npx tsc --noEmit`, `npm run build`, y los 7 scripts de `guides:check` en verde, sin deuda nueva. Se corrigieron 2 links internos con slug no canónico detectados por `check-canonical-product-links.cjs` antes del trío (typos propios al calcular el slug a mano: "Rulemanes y Cable" vs "Rulemanes Duales y Cable" del título real de la ficha Gadnic, y "Puno de Goma Cable" vs "Puno de Goma y Cable" de la ficha GMP). Afiliados con placeholder `PEGAR_MELI_LA` hasta los links reales de Juan.
+
+Re-medir: pendiente de fijar fecha (recién publicada).
