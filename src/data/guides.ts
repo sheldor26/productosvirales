@@ -31450,6 +31450,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     ],
     internalLinks: [
       { label: "Bicicleta fija: cuál comprar", href: "/guias/fitness/bicicleta-fija" },
+      { label: "Soga para saltar: cuál comprar", href: "/guias/fitness/soga-para-saltar" },
       { label: "Balanza digital: cuál comprar", href: "/guias/salud-bienestar/balanza-digital" },
       { label: "Masajeador de espalda y lumbar: cuál sirve para tu dolor", href: "/guias/masajeador-espalda" },
       { label: "Bordeadora eléctrica: cuál comprar", href: "/guias/hogar-jardin/bordeadora-electrica" },
@@ -31564,6 +31565,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     ],
     internalLinks: [
       { label: "Mancuernas: cuál comprar", href: "/guias/fitness/mancuernas" },
+      { label: "Soga para saltar: cuál comprar", href: "/guias/fitness/soga-para-saltar" },
       { label: "Balanza digital: cuál comprar", href: "/guias/salud-bienestar/balanza-digital" },
       { label: "Masajeador de espalda y lumbar: cuál sirve para tu dolor", href: "/guias/masajeador-espalda" },
     ],
@@ -31905,6 +31907,120 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { label: "Bicicleta fija: cuál comprar", href: "/guias/fitness/bicicleta-fija" },
     ],
     internalLinksTitle: "Más guías nuevas del sitio",
+  },
+  {
+    slug: "soga-para-saltar",
+    category: "soga-para-saltar",
+    silo: "fitness",
+    pillar: true,
+    title: `Soga para Saltar: cuál comprar en Argentina [2026]`,
+    seoTitle: `Soga para Saltar: Cuál Comprar en Argentina [2026]`,
+    metaDescription: `Comparamos 4 sogas para saltar reales de MercadoLibre: la más elegida trae estuche pero la vende una marca distinta a la que declara su ficha, y la más vendida del ranking de ML es la más corta de las cuatro.`,
+    ogTitle: `Soga para saltar: cuál comprar en Argentina`,
+    ogDescription: `4 sogas para saltar comparadas por largo, sistema de giro, precio y respaldo real de reseñas. Una es la más vendida en el ranking de ML pero le queda corta a compradores altos.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_975517-MLA113441979052_072026-O.webp`,
+    h1: `Soga para saltar: cuál comprar en Argentina y qué mirar antes [2026]`,
+    directAnswer: `Para la mayoría conviene la **[SPICAFIT SOG-00](/producto/soga-de-saltar-spicafit-sog-00-aluminio-rulemanes-y-estuche-incluido-mla24498301)** (alrededor de {{precio:MLA24498301:k}}): es la más elegida de esta comparativa por lejos y la única que incluye estuche, con la salvedad de que su ficha técnica declara una marca distinta (Libercam) a la que aparece en la publicación (SPICAFIT). Si buscás la mejor nota, la **[Gadnic Aluminio Speed Rope](/producto/soga-de-saltar-gadnic-aluminio-speed-rope-rulemanes-duales-y-cable-de-acero-ajus-mla25593911)**, con {{rating:MLA25593911}} de promedio. Si el presupuesto manda, la **[GMP con rodamientos](/producto/soga-de-saltar-gmp-con-rodamientos-puno-de-goma-y-cable-de-acero-ajustable-mla29023934)**, la más barata.`,
+    publishedDate: "2026-09-12",
+    updatedDate: "2026-09-12",
+    sitemapLastmod: "2026-09-12",
+    hasDisclosure: true,
+    readingTime: 8,
+    standfirst: `Una soga para saltar va de {{precio:MLA29023934:k}} a {{precio:MLA25593911:k}}. Comparamos 4 modelos reales de MercadoLibre Argentina por **largo, sistema de giro, material y respaldo de reseñas**, con contras sacadas de reseñas verdaderas, dentro de nuestro silo de [Fitness](/categoria/fitness).`,
+    quickPicks: [
+      { productMlaId: "MLA24498301", label: "La más elegida", labelColor: "green", tagline: "SPICAFIT SOG-00: la de más opiniones y la única con estuche, aunque su ficha declara otra marca" },
+      { productMlaId: "MLA25593911", label: "La mejor calificada", labelColor: "purple", tagline: "Gadnic Aluminio Speed Rope: {{rating:MLA25593911}} de nota, la más cara de las cuatro" },
+      { productMlaId: "MLA29023934", label: "La más barata", labelColor: "slate", tagline: "GMP con rodamientos: buen respaldo pese al precio bajo" },
+      { productMlaId: "MLA58183439", label: "La más vendida", labelColor: "blue", tagline: "Veoquiero: 1° en el ranking de ML, pero es la más corta de las cuatro" },
+    ],
+    intro: [
+      `Elegir una **soga para saltar** parece trivial hasta que llega más corta de lo que pensabas o el mango no es el que la foto prometía. El largo, el sistema de giro y si el mango es realmente ergonómico están en la ficha técnica, y son los datos que deciden si la que compraste sirve para tu estatura y tu entrenamiento.`,
+      `Comparamos 4 sogas para saltar reales de MercadoLibre Argentina y verificamos, una por una, qué declara su ficha técnica sobre largo, material, sistema de giro y reseñas de compradores. Apareció algo que conviene saber antes de comprar: **una de las cuatro se vende bajo un nombre de marca en la publicación, pero su ficha técnica oficial declara otra**, y es fácil no notarlo si solo mirás la foto.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_975517-MLA113441979052_072026-O.webp", alt: `Soga para saltar de aluminio con estuche sobre el piso de un gimnasio en casa`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Si no querés leer toda la comparativa: la **[SPICAFIT SOG-00](/producto/soga-de-saltar-spicafit-sog-00-aluminio-rulemanes-y-estuche-incluido-mla24498301)** es la más elegida por lejos, con **{{reviews:MLA24498301}} opiniones** y estuche incluido. El detalle a saber antes de comprar: **su ficha técnica declara la marca Libercam, no SPICAFIT** como dice la publicación.` },
+
+      { type: "callout", calloutVariant: "warning", calloutTitle: "Ojo con el largo si sos alto", content: `La **[Veoquiero](/producto/soga-de-saltar-veoquiero-2-8-m-reforzada-cable-de-acero-y-pvc-mla58183439)** es la más vendida en el ranking propio de MercadoLibre (1° en su categoría), pero mide **2,8 m, la más corta de esta comparativa** (las otras tres tienen 3 m). Un comprador de 1,86 m avisa que le queda **"muy justo" el largo**. Si medís más de 1,80 m, mejor mirá alguna de las otras tres fichas de esta guía.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** partimos del rubro de sogas para saltar de MercadoLibre Argentina y verificamos cada publicación en vivo el 2026-09-12: precio, stock, ficha técnica campo por campo y reseñas de compradores. Miramos especialmente cuatro campos que deciden la compra y que casi nadie destaca: **largo real**, **sistema de giro (rulemanes o rodamientos)**, **si el mango es realmente ergonómico según la ficha**, y **si incluye estuche**. Cuando un dato no está en la ficha, lo decimos en vez de estimarlo. Los precios se verifican automáticamente contra MercadoLibre.` },
+
+      { type: "h2", title: `Los cuatro datos que deciden la compra`, id: "que-mirar" },
+      { type: "p", content: `**Largo.** En esta comparativa, tres de las cuatro miden 3 m y una sola 2,8 m. Para alguien de más de 1,80 m, esos 20 cm de diferencia pueden hacer que la soga quede corta al saltar.` },
+      { type: "p", content: `**Sistema de giro.** Todas las de esta comparativa usan rulemanes o rodamientos en el cabezal para que el cable gire sin trabarse. La diferencia está en qué tan fluido es ese giro según reportan los propios compradores, no solo en si la ficha lo menciona.` },
+      { type: "p", content: `**Mango ergonómico, según la ficha, no según la foto.** De las cuatro, dos declaran mango ergonómico en su ficha técnica y dos no, aunque las fotos y descripciones de las cuatro publicaciones muestran mangos con empuñadura. Conviene guiarse por el dato oficial, no por la imagen.` },
+      { type: "p", content: `**Si incluye estuche.** Solo una de las cuatro lo trae. Es un dato chico que decide si podés guardarla y trasladarla sin que se enrede con otras cosas en el bolso.` },
+
+      { type: "h2", title: `Comparativa rápida: las 4 frente a frente`, id: "tabla-comparativa" },
+      { type: "table", headers: ["Modelo", "Largo", "Material", "Mango ergonómico", "Estuche", "Ideal para"], rows: [
+        ["[SPICAFIT SOG-00](https://meli.la/PEGAR_MELI_LA)", "3 m", "Aluminio", "No, según ficha", "Sí", "La mayoría: más elegida y con estuche"],
+        ["[Gadnic Speed Rope](https://meli.la/PEGAR_MELI_LA)", "3 m", "Acero", "Sí", "No", "La mejor nota de la comparativa"],
+        ["[GMP con rodamientos](https://meli.la/PEGAR_MELI_LA)", "3 m", "Acero", "Sí", "No", "El presupuesto más ajustado"],
+        ["[Veoquiero](https://meli.la/PEGAR_MELI_LA)", "2,8 m", "Acero y PVC", "No", "No", "Estatura media o baja"],
+      ] },
+      { type: "p", content: `El nombre de cada modelo lleva directo a su publicación en MercadoLibre. Abajo está el detalle de las cuatro, en el mismo orden: qué hace bien cada una y dónde se queda corta.` },
+
+      { type: "h2", title: `El ranking`, id: "ranking" },
+
+      { type: "h3", title: `1. SPICAFIT SOG-00` },
+      { type: "product-card", productMlaId: "MLA24498301", label: "La más elegida", labelColor: "green", ranking: 1, description: "Aluminio con rulemanes y estuche incluido, la única de las cuatro. Es la más elegida de esta comparativa con {{reviews:MLA24498301}} opiniones." },
+      { type: "p", content: `Es la soga con más respaldo de esta comparativa y no está cerca: **{{reviews:MLA24498301}} opiniones**, casi el doble de la segunda. Es la única de las cuatro que incluye estuche para guardarla y trasladarla, y sus rulemanes de aluminio giran sin trabarse según compradores.` },
+      { type: "pull-quote", content: `"Los mangos son metalicos con un buen agarre, no la use lo suficiente pero no dudo que la voy a tener por mucho tiempo."`, attribution: `Comprador de la SPICAFIT SOG-00, calificación 5/5` },
+      { type: "p", content: `La aclaración honesta que hay que hacer: la publicación la vende bajo el nombre **SPICAFIT**, pero su ficha técnica oficial declara la marca real como **Libercam**, y esa misma ficha dice que **no tiene mango ergonómico**, aunque la descripción del vendedor promociona lo contrario.` },
+
+      { type: "h3", title: `2. Gadnic Aluminio Speed Rope` },
+      { type: "product-card", productMlaId: "MLA25593911", label: "La mejor calificada", labelColor: "purple", ranking: 2, description: "Rulemanes duales y mango de aluminio. La mejor nota de esta comparativa, {{rating:MLA25593911}} sobre {{reviews:MLA25593911}} opiniones." },
+      { type: "p", content: `Tiene la **nota más alta de esta comparativa**, {{rating:MLA25593911}} sobre {{reviews:MLA25593911}} opiniones. Sus rulemanes duales dan un giro fluido que, según compradores, facilita ejecutar saltos dobles y triples sin trabarse.` },
+      { type: "pull-quote", content: `"Excelente, hago 1000 saltos diarios y me cansé de pisarla cuando saltaba mal, todos sus materiales en perfecto estado."`, attribution: `Comprador de la Gadnic Speed Rope, calificación 5/5` },
+      { type: "p", content: `La contra real: es **la más cara de las cuatro** de esta comparativa, y a diferencia de la SPICAFIT SOG-00 no incluye estuche.` },
+
+      { type: "h3", title: `3. GMP con rodamientos` },
+      { type: "product-card", productMlaId: "MLA29023934", label: "La más barata", labelColor: "slate", ranking: 3, description: "Puño de goma y cable ajustable. La opción más económica de esta comparativa, con buen respaldo pese al precio." },
+      { type: "p", content: `Es **la más barata de las cuatro por lejos**, y aun así mantiene {{reviews:MLA29023934}} opiniones con {{rating:MLA29023934}} de promedio. El mango de goma es ergonómico según su ficha, y el cable se puede ajustar según la altura.` },
+      { type: "pull-quote", content: `"Como que se enreda a medida que vas saltando pero bueno sirve y ta barata."`, attribution: `Comprador de la GMP con rodamientos, calificación 4/5` },
+      { type: "p", content: `Esa es la contra real, y es contradictoria entre compradores: mientras uno reporta que se enreda al saltar, otro asegura lo contrario ("no se enreda y claramente cumple con el objetivo"). Puede depender de la técnica de cada uno.` },
+
+      { type: "h3", title: `4. Veoquiero reforzada` },
+      { type: "product-card", productMlaId: "MLA58183439", label: "La más vendida", labelColor: "blue", ranking: 4, description: "2,8 m con rodamientos de alta velocidad. 1° en el ranking de más vendidos de MercadoLibre, pero la más corta de las cuatro." },
+      { type: "p", content: `Es la **mejor posicionada en el ranking de más vendidos de MercadoLibre** de esta comparativa: figura 1° en la categoría Sogas para Saltar, frente al 4°, 6° y 14° puesto de las otras tres. Es un dato distinto al de la cantidad de opiniones acumuladas (ahí lidera la SPICAFIT SOG-00): el ranking de ventas mide el volumen reciente según MercadoLibre, no el total histórico de calificaciones. Sus rodamientos de alta velocidad facilitan un giro constante.` },
+      { type: "pull-quote", content: `"Le pongo 4 estrellas porque mido 1,86 y me queda muy justo el largo que tiene."`, attribution: `Comprador de la Veoquiero, calificación 4/5` },
+      { type: "p", content: `La contra real: con **2,8 m es la más corta de las cuatro** (las otras miden 3 m). Una compradora de menor estatura no tuvo ese problema: "yo soy bajita así que me sirvió eso". Si medís más de 1,80 m, conviene mirar alguna de las otras tres.` },
+
+      { type: "h2", title: `Cómo elegir tu soga para saltar`, id: "como-elegir" },
+      { type: "h3", title: `1. Medí tu altura antes de mirar el precio` },
+      { type: "p", content: `Si medís más de 1,80 m, priorizá las de 3 m de esta comparativa (SPICAFIT, Gadnic o GMP). La Veoquiero, de 2,8 m, no presentó ese problema para una compradora de menor estatura, aunque la evidencia es puntual: una sola reseña de cada lado (una compradora baja conforme, un comprador de 1,86 m al que le quedó justa).` },
+      { type: "h3", title: `2. Confirmá el mango ergonómico en la ficha técnica, no en la foto` },
+      { type: "p", content: `Las cuatro publicaciones muestran mangos con empuñadura en sus fotos, pero solo dos de las cuatro fichas técnicas declaran "mango ergonómico: Sí". Si esto te importa, revisá el dato en la ficha antes de comprar, no solo la imagen.` },
+      { type: "h3", title: `3. Sumá el estuche si vas a trasladarla seguido` },
+      { type: "p", content: `De las cuatro de esta comparativa, solo la SPICAFIT SOG-00 lo incluye. Si vas a llevarla al gimnasio o de viaje, es un plus real; si la vas a usar siempre en el mismo lugar, no hace diferencia.` },
+
+      { type: "h2", title: `Cuánto cuesta una soga para saltar en Argentina`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de {{precio:MLA29023934:k}}:** la [GMP con rodamientos](https://meli.la/PEGAR_MELI_LA), la opción más económica de esta comparativa.`,
+        `**Alrededor de {{precio:MLA58183439:k}} a {{precio:MLA24498301:k}}:** la [Veoquiero reforzada](https://meli.la/PEGAR_MELI_LA) y la [SPICAFIT SOG-00](https://meli.la/PEGAR_MELI_LA), la más elegida de la comparativa.`,
+        `**Alrededor de {{precio:MLA25593911:k}}:** la [Gadnic Aluminio Speed Rope](https://meli.la/PEGAR_MELI_LA), la de mejor nota y la más cara del grupo.`,
+      ] },
+
+      { type: "verdict", content: `Para la mayoría, la **[SPICAFIT SOG-00](/producto/soga-de-saltar-spicafit-sog-00-aluminio-rulemanes-y-estuche-incluido-mla24498301)**: es la más elegida por lejos y la única con estuche, con la salvedad de que **su ficha técnica declara la marca Libercam, no SPICAFIT** como dice la publicación. Si priorizás la mejor nota y no te importa pagar un poco más, la **[Gadnic Aluminio Speed Rope](/producto/soga-de-saltar-gadnic-aluminio-speed-rope-rulemanes-duales-y-cable-de-acero-ajus-mla25593911)**, {{rating:MLA25593911}} de promedio pero la más cara de las cuatro. Si el presupuesto manda, la **[GMP con rodamientos](/producto/soga-de-saltar-gmp-con-rodamientos-puno-de-goma-y-cable-de-acero-ajustable-mla29023934)**, la más barata con buen respaldo. Y si buscás la más vendida en el ranking de ML, la **[Veoquiero](/producto/soga-de-saltar-veoquiero-2-8-m-reforzada-cable-de-acero-y-pvc-mla58183439)**, sabiendo que a **1,80 m o más te puede quedar corta**.` },
+
+      { type: "h2", title: `Preguntas frecuentes`, id: "faq" },
+    ],
+    faq: [
+      { question: `¿Cuál es la mejor soga para saltar en Argentina?`, answer: `Por respaldo de compradores, la [SPICAFIT SOG-00](/producto/soga-de-saltar-spicafit-sog-00-aluminio-rulemanes-y-estuche-incluido-mla24498301): tiene {{reviews:MLA24498301}} opiniones, muy por encima del resto de esta comparativa, y es la única que incluye estuche. Su detalle a saber: la ficha técnica declara la marca Libercam, no SPICAFIT como dice la publicación.` },
+      { question: `¿Qué largo de soga necesito según mi altura?`, answer: `De las cuatro de esta comparativa, tres miden 3 m, un largo que funciona para la mayoría de las estaturas. La Veoquiero, de 2,8 m, le quedó "muy justa" a un comprador de 1,86 m; para estaturas medias o bajas no fue problema.` },
+      { question: `¿Todas tienen mango ergonómico?`, answer: `No. De las cuatro de esta comparativa, la Gadnic y la GMP declaran mango ergonómico en su ficha técnica; la SPICAFIT SOG-00 y la Veoquiero no, aunque sus fotos muestren mangos con empuñadura.` },
+      { question: `¿Alguna incluye estuche?`, answer: `Sí, solo la SPICAFIT SOG-00 de esta comparativa lo incluye. Las otras tres no.` },
+      { question: `¿Por qué una soga se vende con un nombre y la ficha dice otra marca?`, answer: `Es el caso de la SPICAFIT SOG-00 de esta comparativa: la publicación la promociona como SPICAFIT, pero su ficha técnica oficial de MercadoLibre declara la marca Libercam. Lo aclaramos porque puede confundir al buscar garantía o repuestos.` },
+      { question: `¿Cuál es la más barata?`, answer: `La [GMP con rodamientos](/producto/soga-de-saltar-gmp-con-rodamientos-puno-de-goma-y-cable-de-acero-ajustable-mla29023934), con buen respaldo de reseñas pese a ser la más económica de esta comparativa.` },
+    ],
+    internalLinks: [
+      { label: "Mancuernas: cuál comprar", href: "/guias/fitness/mancuernas" },
+      { label: "Bicicleta fija: cuál comprar", href: "/guias/fitness/bicicleta-fija" },
+      { label: "Rascador para gatos: cuál comprar", href: "/guias/mascotas/rascador-para-gatos" },
+      { label: "Taladro percutor: cuál comprar", href: "/guias/hogar-jardin/taladro-percutor" },
+    ],
+    internalLinksTitle: "Más para entrenar y equipar tu casa",
   },
 ];
 
