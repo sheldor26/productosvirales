@@ -71580,6 +71580,8 @@ Es un producto real, con stock sano (+10 disponibles) y buena calificación (5.0
       { label: "Peso", value: "37 g" },
       { label: "Compatibilidad", value: "Android, iOS" },
       { label: "Funciones", value: "GPS, contador de pasos, monitor de sueño, detección de caídas, SOS, medidor de O2, control de ciclo menstrual" },
+      { label: "Perfiles deportivos", value: "Más de una decena según reviews internacionales: correr, cinta, pista (con modo track de precisión por carril), bici, caminata, cardio, pileta, yoga, elíptico, HIIT, escalador, y las variantes \"indoor\"/virtuales. Sin perfil dedicado para pesas ni natación en aguas abiertas" },
+      { label: "Precisión de frecuencia cardíaca", value: "Dentro de 1-2 latidos comparado con una medición manual, según una review detallada" },
       { label: "Accesorios incluidos", value: "Cable de carga (conector propietario Garmin), manual. No incluye cabezal/enchufe de pared" },
     ],
     relatedProducts: ["MLA61667894", "MLA26825857", "MLA1992866306"],
@@ -71596,6 +71598,7 @@ Es un producto real, con stock sano (+10 disponibles) y buena calificación (5.0
       "GPS real integrado, no depende de llevar el celular para medir distancia",
       "Precio de entrada a la marca, con 28% de descuento sobre el precio de lista al momento de verificar",
       "Stock sano: más de 50 unidades disponibles, vendido por una tienda con más de 10 mil ventas",
+      "Modo pista (track mode) que detecta el carril exacto donde corrés para un pace más preciso, y más de una decena de perfiles deportivos (pileta, yoga, HIIT, elíptico, entre otros), según reviews internacionales",
     ],
     cons: [
       "Pantalla LCD monocromática (MIP), no AMOLED — se nota al lado de modelos más caros de esta guía",
@@ -71603,7 +71606,9 @@ Es un producto real, con stock sano (+10 disponibles) y buena calificación (5.0
       "El envío gratis que muestra la ficha es una promo de primera compra en MercadoLibre, no una condición fija del vendedor",
       "No corre apps ni guarda música — es un reloj de entrenamiento, no un smartwatch con memoria multimedia",
       "Las watch faces personalizadas (descargadas desde la app) consumen la batería mucho más rápido: para aprovechar las 2 semanas hay que quedarse con la carátula de fábrica",
-      "Sin perfil dedicado para pesas/gimnasio: las actividades son correr, cinta, pista, bici, caminata y cardio; para musculación hay que usar la opción genérica \"Otro\"",
+      "En uso real, un reviewer detallado no llegó a los 14 días declarados en modo reloj: le duró entre 8 y 10 días con uso normal, sin agregar funciones extra — no pudimos confirmar esto con más fuentes",
+      "No tiene pantalla táctil, se maneja todo por botones: para quien viene de un reloj táctil (tipo Apple Watch), la curva de aprendizaje es un poco más alta",
+      "Sin perfil dedicado para pesas/musculación (hay que usar la opción genérica \"Otro\") y sin natación en aguas abiertas — para eso hay que subir a otro modelo Garmin",
     ],
     articleBody: `## Qué es y para quién
 
@@ -71617,7 +71622,7 @@ Pantalla de 1,04" LCD MIP monocromática (no AMOLED), caja de 42 mm en polímero
 
 La pantalla es el compromiso más claro: LCD monocromática, no AMOLED, se ve bastante más simple que el Forerunner 965 o el Fenix 7 Pro de esta misma guía. Tampoco tiene NFC para pagos ni mapas de navegación. Una reseña real describe bien para qué sirve y para qué no: "excelente reloj, básico pero completo, muy preciso, no es difícil de utilizar, es práctico". Es un reloj de entrenamiento, no un smartwatch de uso diario con notificaciones ricas.
 
-Un dato que no siempre se sabe: las 2 semanas de batería son con la carátula (watch face) de fábrica. Si instalás una personalizada desde la app Garmin Connect, el consumo sube mucho, incluso con el brillo al mínimo, según confirma un reviewer que lo probó a fondo. Si la batería larga es tu prioridad, conviene quedarte con la carátula por defecto. Otro punto a tener claro: las actividades vienen limitadas a correr, cinta, pista, bici, caminata y cardio; no hay un perfil dedicado para pesas o gimnasio, así que para musculación hay que anotarlo como "Otro" genérico. Y el cable de carga usa el conector propietario de Garmin (no es USB-C ni micro-USB estándar): la caja no trae cabezal de pared, así que lo conectás a un cargador que ya tengas, pero si perdés ese cable puntual, no es fácil de reemplazar en cualquier lado.
+Un dato que no siempre se sabe: las 2 semanas de batería son con la carátula (watch face) de fábrica. Si instalás una personalizada desde la app Garmin Connect, el consumo sube mucho, incluso con el brillo al mínimo, según confirma un reviewer que lo probó a fondo. Si la batería larga es tu prioridad, conviene quedarte con la carátula por defecto. Otro punto a tener claro: aunque tiene más de una decena de perfiles deportivos (correr, cinta, pista, bici, caminata, cardio, pileta, yoga, elíptico, HIIT y variantes "indoor", según reviews internacionales), no hay un perfil dedicado para pesas o gimnasio, así que para musculación hay que anotarlo como "Otro" genérico, y tampoco tiene natación en aguas abiertas. Sobre la batería: el fabricante declara hasta 2 semanas en modo reloj, pero un reviewer que lo usó a fondo con uso normal (sin agregar funciones extra) reportó entre 8 y 10 días — no encontramos más fuentes que confirmen o contradigan esto, así que lo tomamos como un dato aislado, no como la norma. El reloj tampoco tiene pantalla táctil: todo se maneja con botones físicos, lo que le suma algo de curva de aprendizaje a quien viene de un reloj táctil. Y el cable de carga usa el conector propietario de Garmin (no es USB-C ni micro-USB estándar): la caja no trae cabezal de pared, así que lo conectás a un cargador que ya tengas, pero si perdés ese cable puntual, no es fácil de reemplazar en cualquier lado.
 
 ## Cómo se compara con las otras de esta guía
 
@@ -71645,11 +71650,15 @@ Comprá el Forerunner 55 si querés tu primer reloj Garmin con GPS real para ent
       },
       {
         question: "¿Las 2 semanas de batería se cumplen siempre?",
-        answer: "Se cumplen con la carátula (watch face) de fábrica. Si instalás una personalizada desde la app Garmin Connect, la batería se consume mucho más rápido, incluso con el brillo al mínimo. Para aprovechar la autonomía larga, conviene quedarse con la carátula por defecto.",
+        answer: "Se cumplen con la carátula (watch face) de fábrica. Si instalás una personalizada desde la app Garmin Connect, la batería se consume mucho más rápido, incluso con el brillo al mínimo. Para aprovechar la autonomía larga, conviene quedarse con la carátula por defecto. De todas formas, un reviewer detallado con uso normal (sin funciones extra) reportó entre 8 y 10 días en la práctica, no los 14 declarados — no pudimos confirmar esto con más fuentes.",
       },
       {
         question: "¿Sirve para entrenar con pesas en el gimnasio?",
-        answer: "No tiene un perfil dedicado para eso. Las actividades disponibles son correr, cinta, pista, bici, caminata y cardio; para pesas hay que anotarlo con la opción genérica \"Otro\", sin el detalle de series y repeticiones que sí ofrecen otros relojes multideporte.",
+        answer: "No tiene un perfil dedicado para eso: para pesas hay que anotarlo con la opción genérica \"Otro\", sin el detalle de series y repeticiones que sí ofrecen otros relojes multideporte. Sí tiene, en cambio, más de una decena de otros perfiles (pileta, yoga, elíptico, HIIT, y variantes indoor), pero no natación en aguas abiertas.",
+      },
+      {
+        question: "¿Qué es el modo pista (track mode)?",
+        answer: "Una función que detecta automáticamente en qué carril de la pista estás corriendo, para darte un pace más preciso que el GPS genérico. Tarda 2 o 3 vueltas en aprender una pista nueva la primera vez que la usás ahí.",
       },
     ],
     structuredData: {
