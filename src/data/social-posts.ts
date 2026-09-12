@@ -2719,4 +2719,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "56",
     postedAt: "2026-09-12T11:46:00-03:00",
   },
+  {
+    title: 'Smart TV Philips 40" HD Google TV',
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_757937-MLA99477053774_112025-O.webp",
+    affiliateUrl: "https://meli.la/2eJ62GR",
+    newPrice: "392.945",
+    oldPrice: "514.599",
+    offPct: "23",
+    postedAt: "2026-09-12T12:09:00-03:00",
+  },
 ];
