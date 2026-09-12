@@ -69022,10 +69022,11 @@ Comprá la Fika FIK-SML01 si el precio es tu prioridad y el volumen de ventas te
       { label: "Marca", value: "Aqara" },
       { label: "Modelo", value: "Smart Lock U200" },
       { label: "Acabado", value: "Acero inoxidable, negro" },
-      { label: "Métodos de apertura", value: "App, Apple Home Key, asistente de voz, contraseña, huella digital, tarjeta NFC, llave" },
-      { label: "Tipo de instalación", value: "Retrofit: reemplaza solo la parte interior, conserva el cilindro exterior existente" },
-      { label: "Alimentación", value: "Batería recargable por USB, hasta 6 meses de autonomía" },
-      { label: "Protocolos", value: "Thread, Matter, compatible Apple HomeKit / Google Home / Alexa / SmartThings" },
+      { label: "Métodos de apertura", value: "App, Apple Home Key, asistente de voz, contraseña, huella digital, tarjeta NFC (solo tarjetas/tags oficiales de Aqara, no NFC genérico), llave" },
+      { label: "Tipo de instalación", value: "Retrofit: reemplaza solo la parte interior, conserva el cilindro exterior existente. Requiere que ese cilindro tenga función de apertura de emergencia (poder abrir desde afuera aunque haya una llave puesta del otro lado)" },
+      { label: "Alimentación", value: "Cuerpo principal: batería recargable por USB, hasta 6 meses de autonomía. Teclado externo: 4 pilas AAA aparte" },
+      { label: "Protocolos", value: "Thread, Matter, compatible Apple HomeKit / Google Home / Alexa / SmartThings; no necesita el hub propio de Aqara si ya tenés un dispositivo Thread en casa (por ejemplo un HomePod mini)" },
+      { label: "Capacidad", value: "Hasta 50 códigos y 50 huellas registradas" },
       { label: "Resistencia", value: "IPX5" },
       { label: "Espesor de puerta compatible", value: "6-7 cm" },
     ],
@@ -69044,12 +69045,17 @@ Comprá la Fika FIK-SML01 si el precio es tu prioridad y el volumen de ventas te
       "Fabricante confirmado (aqara.com), specs y dimensiones matchean",
       "Compatible con Thread, Matter, Apple HomeKit, Google Home, Alexa y SmartThings",
       "Batería recargable por USB, hasta 6 meses de autonomía",
+      "No necesita el hub propio de Aqara para funcionar con HomeKit o Matter: alcanza con tener un dispositivo Thread ya en casa (un HomePod mini, por ejemplo), confirmado por varias reviews internacionales de largo plazo",
+      "Reviews de 4 y 6 meses de uso real la describen como sólida y confiable",
     ],
     cons: [
       "La base de reseñas más chica de esta guía: solo {{reviews:MLA38827156}} opiniones",
       "La más cara de la comparativa",
       "La conexión por Matter no siempre funciona bien, según una reseña",
       "La instalación no es de las más intuitivas si preferís no perforar ni tocar nada, según otra reseña",
+      "La función de auto-bloqueo (cerrar sola a los pocos segundos) es reportada como poco confiable por varias reviews internacionales, que la describen como experimental",
+      "El NFC solo funciona con tarjetas o tags oficiales de Aqara, no con NFC genérico de otras marcas",
+      "Hace algo de ruido al abrir y cerrar incluso en el modo más silencioso, según reviews detalladas",
     ],
     articleBody: `## Qué es y para quién
 
@@ -69057,11 +69063,11 @@ El Aqara Smart Lock U200 es una cerradura inteligente de instalación retrofit: 
 
 ## Cómo funciona
 
-Con apertura por app, Apple Home Key, asistente de voz, huella digital, tarjeta NFC o llave física, es compatible con Thread, Matter, Apple HomeKit, Google Home, Alexa y SmartThings. El fabricante (aqara.com) confirma el modelo exacto, incluidas sus dimensiones y protocolos.
+Con apertura por app, Apple Home Key, asistente de voz, huella digital, tarjeta NFC o llave física, es compatible con Thread, Matter, Apple HomeKit, Google Home, Alexa y SmartThings. El fabricante (aqara.com) confirma el modelo exacto, incluidas sus dimensiones y protocolos. Un dato que varias reviews internacionales de largo plazo (4 y 6 meses de uso real) confirman y que ahorra un gasto extra: no hace falta comprar el hub propio de Aqara para que funcione con HomeKit o Matter, alcanza con tener cualquier dispositivo Thread ya en la casa (un HomePod mini, por ejemplo). El cuerpo principal tiene batería recargable por USB, pero el teclado externo es aparte y usa 4 pilas AAA comunes.
 
 ## La contra real
 
-Con solo {{reviews:MLA38827156}} calificaciones, la base de reseñas es la más chica de esta guía por lejos, aunque las disponibles son positivas: "calzo perfecto en mi puerta, rápida y sin tanto ruido". Un comprador señala un problema de conectividad: "el único problema es que no la he podido conectar por Matter". Otro aclara sobre la instalación: "si no quieres perforar, quitar o cambiar el cilindro de la llave, y solo quieres instalar esta cerradura de sobreponer, la recomiendo".
+Con solo {{reviews:MLA38827156}} calificaciones, la base de reseñas es la más chica de esta guía por lejos, aunque las disponibles son positivas: "calzo perfecto en mi puerta, rápida y sin tanto ruido". Un comprador señala un problema de conectividad: "el único problema es que no la he podido conectar por Matter". Otro aclara sobre la instalación: "si no quieres perforar, quitar o cambiar el cilindro de la llave, y solo quieres instalar esta cerradura de sobreponer, la recomiendo". Tres datos técnicos que varias reviews internacionales detalladas coinciden en remarcar. Primero: el cilindro existente de tu puerta necesita tener función de apertura de emergencia (poder abrirse desde afuera aunque haya una llave puesta del lado de adentro), algo que conviene chequear antes de comprar. Segundo: la función de auto-bloqueo (que cierra la puerta sola a los pocos segundos) es reportada como poco confiable por varias reviews, que la describen como experimental; una de ellas terminó armando una automatización externa como respaldo. Tercero: el NFC solo reconoce tarjetas o tags oficiales de Aqara, no cualquier NFC genérico que ya tengas.
 
 ## Cómo se compara con los otros de esta guía
 
@@ -69085,7 +69091,23 @@ Comprá el Aqara U200 si no querés reemplazar el cilindro exterior de tu cerrad
       },
       {
         question: "¿La batería es recargable?",
-        answer: "Sí, por USB, con hasta 6 meses de autonomía declarados, a diferencia del resto de esta guía que usa pilas descartables.",
+        answer: "El cuerpo principal sí, por USB, con hasta 6 meses de autonomía declarados. El teclado externo es aparte y usa 4 pilas AAA comunes, no la misma batería recargable.",
+      },
+      {
+        question: "¿Necesito comprar el hub de Aqara para que funcione con HomeKit o Matter?",
+        answer: "No, según varias reviews internacionales de largo plazo: alcanza con tener cualquier dispositivo Thread ya en tu casa (por ejemplo un HomePod mini) para conectarla a HomeKit, Google Home o Home Assistant vía Matter.",
+      },
+      {
+        question: "¿La función de auto-bloqueo es confiable?",
+        answer: "No del todo: varias reviews internacionales la describen como experimental y reportan que no siempre se activa. Una de ellas armó una automatización externa como respaldo para asegurarse de que la puerta quede cerrada.",
+      },
+      {
+        question: "¿Sirve con cualquier tarjeta NFC?",
+        answer: "No, solo reconoce tarjetas o tags NFC oficiales de Aqara, no NFC genérico de otras marcas o dispositivos.",
+      },
+      {
+        question: "¿Qué requisito tiene que cumplir mi cerradura actual para instalar esta?",
+        answer: "El cilindro existente necesita tener función de apertura de emergencia: poder abrirse desde afuera aunque haya una llave puesta del lado de adentro. Conviene confirmarlo antes de comprar.",
       },
     ],
     structuredData: {
