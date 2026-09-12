@@ -2779,4 +2779,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "29",
     postedAt: "2026-09-12T18:54:00-03:00",
   },
+  {
+    title: 'Samsung Galaxy Tab A11 64GB 4GB RAM 8.7"',
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_773359-MLA108327032321_032026-O.webp",
+    affiliateUrl: "https://meli.la/2srsjUh",
+    newPrice: "254.999",
+    oldPrice: "324.999",
+    offPct: "21",
+    postedAt: "2026-09-12T19:21:00-03:00",
+  },
 ];
