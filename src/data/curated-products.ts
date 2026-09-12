@@ -71847,6 +71847,8 @@ Comprá el Forerunner 965 si ya corrés en serio y querés pantalla AMOLED, NFC,
       { label: "Peso", value: "73 g" },
       { label: "Compatibilidad", value: "Android, iPhone" },
       { label: "Funciones", value: "Multideporte, mapas, VO2 máx, esquí, natación en aguas abiertas — según su descripción de MercadoLibre" },
+      { label: "Linterna LED", value: "Unos 16 lux de intensidad, aproximadamente la mitad del flash de un iPhone, según una review detallada" },
+      { label: "Sensor de frecuencia cardíaca", value: "Elevate Gen 5 (nuevo en la serie Pro, más LEDs que el sensor anterior). Varias reviews coinciden en que la mejora de precisión frente al Fenix 7 sin Pro es modesta, no un salto grande" },
     ],
     relatedProducts: ["MLA44250809", "MLA61667894", "MLA1992866306"],
     priceUpdated: "2026-08-21",
@@ -71861,7 +71863,7 @@ Comprá el Forerunner 965 si ya corrés en serio y querés pantalla AMOLED, NFC,
       "El único de esta guía con bisel de titanio, cristal de zafiro y carga solar",
       "Resistencia al agua de 10 ATM (100 m), igual que el Instinct 3 y el doble que los dos Forerunner de esta guía",
       "Batería de largo aliento según la web oficial de Garmin: 18 días en modo smartwatch (22 con sol) y hasta 57 h en GPS puro (73 con sol) — la mejor de esta guía en uso GPS continuo",
-      "Mapas y linterna LED integrados, pensado para multideporte y actividades al aire libre, no solo running",
+      "Mapas y linterna LED integrados (unos 16 lux, la mitad de un flash de iPhone según una review), pensado para multideporte y actividades al aire libre, no solo running",
     ],
     cons: [
       "Al momento de verificar, quedaba la última unidad en stock de un solo vendedor — conviene chequear disponibilidad en vivo antes de comprar",
@@ -71879,7 +71881,7 @@ Pantalla transflectiva de 1,3" (260x260 px) con cristal de zafiro, caja de 47 mm
 
 ## La contra real
 
-El precio y la disponibilidad son las dos contras reales de este modelo. Es, por lejos, el más caro de esta guía: casi el doble que el Forerunner 965 y más de 5 veces el Forerunner 55. Y al momento de verificar quedaba la última unidad en stock de un único vendedor, a diferencia del Forerunner 965, que lo vende directamente la tienda oficial de Mercado Libre con mejor disponibilidad. Una reseña real resume bien para qué sirve y qué esperar: "el mejor smartwatch para hacer deporte y ejercicio, muy buenas métricas y muy precisas mediciones... si lo que buscas es sustituir un apple watch no esperes el mismo nivel de integración... no es tan fácil de controlar apps como Spotify, reproducción de videos, o tomar fotos remotamente".
+El precio y la disponibilidad son las dos contras reales de este modelo. Es, por lejos, el más caro de esta guía: casi el doble que el Forerunner 965 y más de 5 veces el Forerunner 55. Un dato aparte: Garmin vende más de 30 variantes distintas de la línea Fenix 7 (tamaños, materiales, con o sin zafiro/solar), así que conviene confirmar que el modelo exacto de la publicación (Zafiro 47mm) coincide con lo que buscás antes de comprar. Sobre la batería, una review con mediciones reales confirma que el número declarado es realista: una corrida de 9 horas en modo GPS normal consumió un 27% de batería, y el uso general de una semana (con unas 5 horas de GPS incluidas) consumió cerca de 50% — en la práctica, se termina cargando cada 2 semanas aproximadamente, en línea con los 18 días declarados. El nuevo sensor de frecuencia cardíaca (Elevate Gen 5) tampoco es un salto grande frente al Fenix 7 sin Pro, según coinciden varias reviews: la mejora en precisión es modesta. Y al momento de verificar quedaba la última unidad en stock de un único vendedor, a diferencia del Forerunner 965, que lo vende directamente la tienda oficial de Mercado Libre con mejor disponibilidad. Una reseña real resume bien para qué sirve y qué esperar: "el mejor smartwatch para hacer deporte y ejercicio, muy buenas métricas y muy precisas mediciones... si lo que buscas es sustituir un apple watch no esperes el mismo nivel de integración... no es tan fácil de controlar apps como Spotify, reproducción de videos, o tomar fotos remotamente".
 
 ## Cómo se compara con las otras de esta guía
 
@@ -71904,6 +71906,10 @@ Comprá el Fenix 7 Pro si hacés multideporte en serio (trekking, esquí, nataci
       {
         question: "¿Sirve para nadar o solo para correr?",
         answer: "Sirve para multideporte: resistencia al agua de 10 ATM apta para natación en aguas abiertas, además de running, trekking y esquí, según su descripción en MercadoLibre.",
+      },
+      {
+        question: "¿Por qué hay tantas versiones del Fenix 7?",
+        answer: "Garmin vende más de 30 variantes de la línea Fenix 7 (distintos tamaños, con o sin zafiro, con o sin carga solar). Esta publicación es específicamente la Zafiro 47mm: conviene confirmar que coincide con el modelo que buscás antes de comprar.",
       },
     ],
     structuredData: {
