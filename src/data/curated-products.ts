@@ -70347,8 +70347,8 @@ Comprá el PST G30 si buscás el kit más completo y con más respaldo de compra
       { label: "Marca", value: "i-tob" },
       { label: "Modelo", value: "IT-WGP-KIT4s" },
       { label: "Kit incluye", value: "Panel central, sirena interior cableada 110dB, sirena exterior cableada 110dB (cable no incluido), 2 sensores de movimiento, 2 sensores magnéticos, 2 controles" },
-      { label: "Conectividad", value: "WiFi + GSM + PSTN" },
-      { label: "Batería", value: "Litio 400 mAh" },
+      { label: "Conectividad", value: "WiFi (solo banda 2.4 GHz, no 5 GHz) + GSM + PSTN" },
+      { label: "Batería", value: "Litio 400 mAh: es una batería de respaldo para cortes de luz (unas 2 a 6 horas según reviews de la misma plataforma), no está pensada para uso inalámbrico prolongado sin corriente" },
       { label: "Alcance real declarado por el fabricante (itob.com.ar)", value: "100 m en espacio abierto, ~40 m dentro de una casa" },
       { label: "App", value: "SmartLife-Tuya" },
       { label: "Vendedor", value: "Tienda oficial I TOB" },
@@ -70373,6 +70373,8 @@ Comprá el PST G30 si buscás el kit más completo y con más respaldo de compra
       "Manual confuso, según una reseña real (\"si te mandas solo con el manual estás al horno... la clave es ver los videos tutoriales\")",
       "Sin tags RFID ni la capacidad de expansión a 100 zonas inalámbricas que declara el PST G30 de esta guía (el número de sensores incluidos es el mismo: 2 de movimiento + 2 de puerta/ventana)",
       "Sin mención de homologación ENACOM en la ficha ni en la página del fabricante",
+      "Solo se conecta a Wi-Fi de 2.4 GHz, no a 5 GHz",
+      "La batería interna es de respaldo para cortes de luz, no para andar de forma inalámbrica por horas: sin corriente conectada dura solo unas horas, no está pensada para desconectarla del enchufe",
     ],
     articleBody: `## Qué es y para quién
 
@@ -70384,7 +70386,7 @@ Panel central con batería de litio, sirena interior cableada y sirena exterior 
 
 ## La contra real
 
-Si elegís la versión con sirena exterior, el cable de esa sirena no viene incluido en la caja: "compré con sirena externa y no trae el cable, tenés que comprarlo por tu cuenta", confirma una reseña real. Es un detalle que conviene tener en cuenta antes de comprar para no llevarte una sorpresa en la instalación. El manual también recibe críticas de confuso, aunque los compradores resuelven con tutoriales en video.
+Si elegís la versión con sirena exterior, el cable de esa sirena no viene incluido en la caja: "compré con sirena externa y no trae el cable, tenés que comprarlo por tu cuenta", confirma una reseña real. Es un detalle que conviene tener en cuenta antes de comprar para no llevarte una sorpresa en la instalación. El manual también recibe críticas de confuso, aunque los compradores resuelven con tutoriales en video. Dos datos de la plataforma Tuya/SmartLife que usa este panel (compartida con otras marcas de alarma similares): solo se conecta a Wi-Fi de 2.4 GHz, y la batería interna es de respaldo para cortes de luz (unas horas), no para que el panel funcione desenchufado por mucho tiempo.
 
 ## Cómo se compara con las otras de esta guía
 
@@ -70408,7 +70410,11 @@ Comprá el i-tob si buscás el kit completo más económico de esta guía y no t
       },
       {
         question: "¿Funciona si se corta la luz o internet?",
-        answer: "Tiene batería propia y triple conectividad (WiFi, GSM y línea de teléfono fija PSTN), pensada para seguir funcionando aunque falle alguna de las conexiones.",
+        answer: "Tiene batería propia y triple conectividad (WiFi, GSM y línea de teléfono fija PSTN), pensada para seguir funcionando aunque falle alguna de las conexiones. Ojo: la batería es de respaldo para un corte, dura unas horas, no está pensada para que el panel ande desenchufado por mucho tiempo.",
+      },
+      {
+        question: "¿Se conecta a Wi-Fi de 5 GHz?",
+        answer: "No, solo a redes de 2.4 GHz, como el resto de alarmas que usan la misma plataforma Tuya/SmartLife.",
       },
     ],
     structuredData: {
