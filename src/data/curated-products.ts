@@ -71121,9 +71121,10 @@ Comprá el Amazfit Bip 6 si buscás el smartwatch más completo de esta guía y 
       { label: "Pantalla", value: "TFT LCD 1,28\", 240x240, caja de PC/ABS de 45,3 mm" },
       { label: "Batería", value: "340 mAh, 15 días declarados — el diferencial explícito del producto" },
       { label: "GPS", value: "No tiene" },
-      { label: "Conectividad", value: "Solo Bluetooth. Sin NFC, sin WiFi" },
+      { label: "Conectividad", value: "Solo Bluetooth (sin llamadas Bluetooth, según reviews internacionales). Sin NFC, sin WiFi" },
       { label: "Resistencia al agua", value: "IP68 (hasta 5 m de profundidad, no apto para natación de buceo)" },
-      { label: "Sensores", value: "Frecuencia cardíaca, monitor de sueño" },
+      { label: "Sensores", value: "Frecuencia cardíaca, monitor de sueño. Sin SpO2 (oxígeno en sangre), según reviews internacionales" },
+      { label: "Modos deportivos", value: "12 modos (trote, caminata rápida, ciclismo, spinning, yoga, running indoor, básquet, fútbol, remo, entre otros), sin GPS propio" },
       { label: "Compatibilidad", value: "Android / iOS" },
       { label: "Vendedor", value: "Tienda oficial (ALNI SHOP), +10 mil ventas" },
     ],
@@ -71147,6 +71148,8 @@ Comprá el Amazfit Bip 6 si buscás el smartwatch más completo de esta guía y 
       "Stock bajo al 22 de julio de 2026 (\"últimas 3 unidades\" en la publicación) — dato volátil, puede cambiar de un día para el otro; verificar disponibilidad en vivo antes de comprar",
       "Sin GPS, sin NFC, sin WiFi",
       "Pantalla TFT LCD, no AMOLED, la de menor calidad visual de esta guía",
+      "Sin SpO2 (oxígeno en sangre) ni llamadas Bluetooth, según reviews internacionales del mismo modelo",
+      "El cambio de watch face online (una de las funciones anunciadas) no funcionó en una review detallada: solo 5 carátulas precargadas, sin poder descargar más pese a lo prometido por el fabricante — no pudimos confirmar si esto se corrigió en versiones de firmware más recientes",
     ],
     articleBody: `## Qué es y para quién
 
@@ -71154,7 +71157,7 @@ El Haylou Solar LS05S es un smartwatch enfocado en un solo diferencial: 15 días
 
 ## Cómo funciona
 
-Pantalla TFT LCD de 1,28" (240x240) en caja de PC/ABS de 45,3 mm, batería de 340 mAh con 15 días de autonomía declarados, sensor de frecuencia cardíaca y monitor de sueño, resistencia al agua IP68 (hasta 5 metros, no apto para buceo pese a la certificación IP68). No tiene GPS, NFC ni WiFi, solo Bluetooth.
+Pantalla TFT LCD de 1,28" (240x240) en caja de PC/ABS de 45,3 mm, batería de 340 mAh con 15 días de autonomía declarados, sensor de frecuencia cardíaca y monitor de sueño (sin SpO2), resistencia al agua IP68 (hasta 5 metros, no apto para buceo pese a la certificación IP68), y 12 modos deportivos. No tiene GPS, NFC ni WiFi, solo Bluetooth (sin función de llamadas). Reviews internacionales del mismo modelo confirman el rango de batería declarado: hasta 20 días sin Bluetooth ni monitoreo de frecuencia cardíaca, y 14 a 15 días con uso típico (notificaciones, frecuencia cardíaca activa y modos deportivos).
 
 ## La contra real
 
@@ -71170,7 +71173,7 @@ Comprá el Haylou Solar LS05S si tu prioridad es no cargar el reloj seguido, y v
     faq: [
       {
         question: "¿Realmente dura 15 días de batería?",
-        answer: "Es el número declarado por el fabricante y el diferencial explícito de este modelo. No encontramos reseñas reales que lo confirmen o lo contradigan en detalle, a diferencia del Amazfit de esta guía.",
+        answer: "Reviews internacionales del mismo modelo confirman el rango: hasta 20 días sin Bluetooth ni monitor de frecuencia cardíaca activados, y 14-15 días con uso típico (notificaciones, frecuencia cardíaca y modos deportivos activos). Coincide con lo declarado por el fabricante.",
       },
       {
         question: "¿Por qué tiene tan pocas reseñas?",
