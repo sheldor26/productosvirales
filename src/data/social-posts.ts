@@ -2729,4 +2729,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "23",
     postedAt: "2026-09-12T12:09:00-03:00",
   },
+  {
+    title: "JBL Boombox 3",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_955498-MLA99948623081_112025-O.webp",
+    affiliateUrl: "https://meli.la/1ZwU3v2",
+    newPrice: "619.379",
+    oldPrice: "1.259.999",
+    offPct: "50",
+    postedAt: "2026-09-12T15:13:00-03:00",
+  },
 ];
