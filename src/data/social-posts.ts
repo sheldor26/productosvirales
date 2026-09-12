@@ -2769,4 +2769,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "28",
     postedAt: "2026-09-12T18:26:00-03:00",
   },
+  {
+    title: "Moto G06 64GB NFC Tapestry",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_813216-MLA114426971976_082026-O.webp",
+    affiliateUrl: "https://meli.la/2RiZM8R",
+    newPrice: "183.604",
+    oldPrice: "259.999",
+    offPct: "29",
+    postedAt: "2026-09-12T18:54:00-03:00",
+  },
 ];
