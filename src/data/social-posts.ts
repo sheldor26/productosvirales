@@ -2709,4 +2709,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "31",
     postedAt: "2026-09-12T11:21:00-03:00",
   },
+  {
+    title: "Bicicleta MTB Overtech Q6 R29 Aluminio 21V",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_949112-MLA99972195497_112025-O.webp",
+    affiliateUrl: "https://meli.la/12qFZRc",
+    newPrice: "263.796",
+    oldPrice: "599.999",
+    offPct: "56",
+    postedAt: "2026-09-12T11:46:00-03:00",
+  },
 ];
