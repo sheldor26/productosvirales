@@ -2669,4 +2669,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "42",
     postedAt: "2026-09-12T09:41:00-03:00",
   },
+  {
+    title: "Freezer Horizontal Philco 198L Inverter",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_801031-MLA106892031188_022026-O.webp",
+    affiliateUrl: "https://meli.la/2ijTZq3",
+    newPrice: "553.585",
+    oldPrice: "831.989",
+    offPct: "33",
+    postedAt: "2026-09-12T10:07:00-03:00",
+  },
 ];
