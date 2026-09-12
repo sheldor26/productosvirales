@@ -2679,4 +2679,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "33",
     postedAt: "2026-09-12T10:07:00-03:00",
   },
+  {
+    title: "Kit 5 Cámaras Seguridad Geotek IP WiFi",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_713307-MLA96994347360_112025-O.webp",
+    affiliateUrl: "https://meli.la/18FyCgq",
+    newPrice: "221.987",
+    oldPrice: "374.999",
+    offPct: "40",
+    postedAt: "2026-09-12T10:31:00-03:00",
+  },
 ];
