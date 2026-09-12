@@ -2789,4 +2789,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "21",
     postedAt: "2026-09-12T19:21:00-03:00",
   },
+  {
+    title: "Aire Acondicionado Philco Inverter 3750W A++ Frío/Calor",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_836672-MLA107516172167_022026-O.webp",
+    affiliateUrl: "https://meli.la/1UNDCK1",
+    newPrice: "819.999",
+    oldPrice: "1.049.999",
+    offPct: "21",
+    postedAt: "2026-09-12T20:26:00-03:00",
+  },
 ];
