@@ -2659,4 +2659,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "23",
     postedAt: "2026-09-12T09:15:00-03:00",
   },
+  {
+    title: 'Monitor Noblex 22" NXSM2200 LED FHD',
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_656487-MLA99941666533_112025-O.webp",
+    affiliateUrl: "https://meli.la/24VQhMv",
+    newPrice: "129.999",
+    oldPrice: "226.599",
+    offPct: "42",
+    postedAt: "2026-09-12T09:41:00-03:00",
+  },
 ];
