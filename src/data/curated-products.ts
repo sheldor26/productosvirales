@@ -71720,7 +71720,8 @@ Comprá el Forerunner 55 si querés tu primer reloj Garmin con GPS real para ent
       { label: "Batería", value: "Hasta 31 h en modo GPS. En modo smartwatch (sin GPS), hasta 23 días — según la web oficial de Garmin. La ficha de MercadoLibre declara solo \"23 h\", una cifra que no coincide con ninguno de los dos modos oficiales; no la tomamos como dato confiable" },
       { label: "Malla", value: "Silicona deportiva, ajustable 135-205 mm" },
       { label: "Compatibilidad", value: "Android, iOS" },
-      { label: "Sensores", value: "Acelerómetro, altímetro, barómetro, frecuencia cardíaca" },
+      { label: "Sensores", value: "Acelerómetro, altímetro, barómetro, frecuencia cardíaca. Sin ECG, según reviews internacionales — el bisel se ve premium pero no trae ese sensor" },
+      { label: "Peso", value: "36 g sin malla, 55 g con la malla incluida, según reviews internacionales" },
       { label: "Vendedor", value: "Tienda oficial Mercado Libre (Full), más de 1 millón de ventas" },
     ],
     relatedProducts: ["MLA44250809", "MLA26825857", "MLA1992866306"],
@@ -71743,6 +71744,8 @@ Comprá el Forerunner 55 si querés tu primer reloj Garmin con GPS real para ent
       "{{reviews:MLA61667894}} opiniones es bastante menos volumen que las {{reviews:MLA44250809}} del Forerunner 55, y la mayoría están marcadas como de otros países (México, Brasil), con pocas confirmadas de compradores locales",
       "La ficha de MercadoLibre declara solo \"23 h\" de batería, una cifra que no coincide con ninguno de los dos modos que publica la web oficial de Garmin (31 h en GPS, 23 días en modo smartwatch) — no la tomamos como dato confiable",
       "No suma bisel de titanio, cristal de zafiro ni carga solar como el Fenix 7 Pro de esta guía",
+      "Sin ECG pese al bisel premium (el bisel de este modelo es plateado, no titanio) — según reviews internacionales, ni siquiera la versión con bisel de titanio de este reloj lo tiene",
+      "Los 23 días de batería en modo smartwatch son con la pantalla en modo gesto (se prende al levantar la muñeca); con pantalla siempre encendida (always-on) y brillo alto, una review detallada reportó unos 6 a 8 días reales. Reproducir música por Bluetooth durante una actividad también baja la batería en modo GPS de 22 a unas 9,5 horas",
     ],
     articleBody: `## Qué es y para quién
 
@@ -71754,7 +71757,7 @@ Pantalla AMOLED de 1,4" con resolución de 454x454 px, caja blanca con bisel pla
 
 ## La contra real
 
-No es la batería, pese a lo que sugiere la ficha de MercadoLibre a primera vista: la web oficial de Garmin confirma que en modo smartwatch rinde hasta 23 días, mejor que el Forerunner 55 de esta guía. La contra real es el precio (casi 4 veces el Forerunner 55) y el origen de las reseñas: la mayoría están marcadas como de otros países de la región (México, Brasil), con pocas confirmadas de compradores locales. Eso sí, coinciden en el mismo punto sobre para quién es: "están increíbles todas las funciones que tiene este nuevo modelo, sin embargo es costoso y vale la pena si sabes sacarle provecho o eres una persona que se dedica al deporte". No es un reloj para probar casualmente: el precio y las funciones están pensados para quien entrena en serio.
+No es la batería, pese a lo que sugiere la ficha de MercadoLibre a primera vista: la web oficial de Garmin confirma que en modo smartwatch rinde hasta 23 días, mejor que el Forerunner 55 de esta guía. Ese número sí tiene una letra chica: es con la pantalla en modo gesto (se enciende al levantar la muñeca). Con la pantalla siempre encendida y brillo alto, una review técnica detallada reportó entre 6 y 8 días reales, y reproducir música por Bluetooth durante una actividad hace bajar la batería en modo GPS de las 22 horas habituales a unas 9,5 horas. Tampoco tiene ECG, pese a que el bisel le da un aire más premium: según reviews internacionales, ni la versión con bisel de titanio de este modelo lo incluye. La contra real es el precio (casi 4 veces el Forerunner 55) y el origen de las reseñas: la mayoría están marcadas como de otros países de la región (México, Brasil), con pocas confirmadas de compradores locales. Eso sí, coinciden en el mismo punto sobre para quién es: "están increíbles todas las funciones que tiene este nuevo modelo, sin embargo es costoso y vale la pena si sabes sacarle provecho o eres una persona que se dedica al deporte". No es un reloj para probar casualmente: el precio y las funciones están pensados para quien entrena en serio.
 
 ## Cómo se compara con las otras de esta guía
 
@@ -71770,7 +71773,11 @@ Comprá el Forerunner 965 si ya corrés en serio y querés pantalla AMOLED, NFC,
       },
       {
         question: "¿Cuánto dura la batería?",
-        answer: "La ficha de MercadoLibre declara \"23 h\", una cifra que no coincide con ningún modo real. Según la web oficial de Garmin: hasta 31 horas en modo GPS, o hasta 23 días en modo smartwatch sin GPS — mejor que el Forerunner 55 de esta guía en los dos modos.",
+        answer: "La ficha de MercadoLibre declara \"23 h\", una cifra que no coincide con ningún modo real. Según la web oficial de Garmin: hasta 31 horas en modo GPS, o hasta 23 días en modo smartwatch sin GPS — mejor que el Forerunner 55 de esta guía en los dos modos. Ese número de 23 días es con pantalla en modo gesto: con always-on y brillo alto, una review detallada reportó 6 a 8 días reales.",
+      },
+      {
+        question: "¿Tiene ECG (electrocardiograma)?",
+        answer: "No, según reviews internacionales, pese a que el bisel le da un aspecto más premium. Ni siquiera la versión con bisel de titanio de este mismo modelo incluye ese sensor.",
       },
       {
         question: "¿Quién lo vende y qué tan confiable es el stock?",
