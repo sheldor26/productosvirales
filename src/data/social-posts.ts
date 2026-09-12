@@ -2759,4 +2759,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "22",
     postedAt: "2026-09-12T17:59:00-03:00",
   },
+  {
+    title: "Motorola Edge 70 Fusion Silhouette",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_909424-MLA111034523114_052026-O.webp",
+    affiliateUrl: "https://meli.la/32YG2Lm",
+    newPrice: "719.999",
+    oldPrice: "999.999",
+    offPct: "28",
+    postedAt: "2026-09-12T18:26:00-03:00",
+  },
 ];
