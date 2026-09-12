@@ -2699,4 +2699,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "28",
     postedAt: "2026-09-12T10:57:00-03:00",
   },
+  {
+    title: "Freidora de Aire Digital Atma Pro 6.5L",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_857947-MLA99506125010_112025-O.webp",
+    affiliateUrl: "https://meli.la/1DLgsPY",
+    newPrice: "98.513",
+    oldPrice: "144.607",
+    offPct: "31",
+    postedAt: "2026-09-12T11:21:00-03:00",
+  },
 ];

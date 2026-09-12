@@ -243,6 +243,7 @@ negro — tienen precio de lista distinto).
 | Purificador de Agua Hidrolit Senic Out Classic | $135.140 | 2026-09-11 | meli.la/1ckramB — sin referencia previa, primer purificador de agua del sitio, "Mejor precio" ya seleccionado, MÁS VENDIDO, 4.8★ (4824 op.), Tienda oficial Hidrolit. Instalación directa en la canilla. Re-verificado en vivo antes de presentar a Juan, precio idéntico |
 | Anafe Eléctrico Empotrable Hoffman 2H 3000W | $151.319 | 2026-09-11 | meli.la/1mbMVCC — sin referencia previa, primer anafe eléctrico del sitio, "Mejor precio" ya seleccionado, MÁS VENDIDO, 4.7★ (893 op.), Tienda oficial Construnort. Vitrocerámico 3000W, control táctil, traba de seguridad. Re-verificado en vivo antes de presentar a Juan, precio idéntico |
 | Ventilador de Pared Industrial Liliana 32" | $257.089 | 2026-09-12 | meli.la/2k3EP9t — sin referencia previa, primer ventilador de pared industrial del sitio, "Mejor precio" ya seleccionado, 4.7★ (1500 op.), +50 disponibles. Re-verificado en vivo antes de presentar a Juan, precio idéntico |
+| Freidora de Aire Digital Atma Pro 6.5L | $98.513 | 2026-09-12 | meli.la/1DLgsPY — sin referencia previa, primera freidora de aire del sitio, MÁS VENDIDO, 4.8★ (12.174 op.), +10mil vendidos, vendedor Mercado Libre (+1M ventas), +50 disponibles. Re-verificado en vivo antes de presentar a Juan, precio idéntico |
 
 ## Herramientas
 
