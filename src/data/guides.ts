@@ -32069,10 +32069,10 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
 
       { type: "h2", title: `Comparativa rápida: los 4 frente a frente`, id: "tabla-comparativa" },
       { type: "table", headers: ["Modelo", "Tipo", "Edad mínima", "Plegable", "Ideal para"], rows: [
-        ["[Belluno Baby Trapani](https://meli.la/PEGAR_MELI_LA)", "Corralito de juegos", "6 meses", "Sí", "La mayoría: el más elegido"],
-        ["[Practicuna Bebesit](https://meli.la/PEGAR_MELI_LA)", "Practicuna", "0 meses", "Sí", "Recién nacidos, espacio compacto"],
-        ["[Custom Baby hexagonal](https://meli.la/PEGAR_MELI_LA)", "Corralito de juegos", "6 meses", "No (se desarma)", "Presupuesto ajustado, también para mascotas"],
-        ["[Gadnic Mawe](https://meli.la/PEGAR_MELI_LA)", "Corralito de juegos", "No declarado", "Sí", "El que más accesorios trae"],
+        ["[Belluno Baby Trapani](https://meli.la/1N4iCeD)", "Corralito de juegos", "6 meses", "Sí", "La mayoría: el más elegido"],
+        ["[Practicuna Bebesit](https://meli.la/1iQMfuX)", "Practicuna", "0 meses", "Sí", "Recién nacidos, espacio compacto"],
+        ["[Custom Baby hexagonal](https://meli.la/2LiaUcL)", "Corralito de juegos", "6 meses", "No (se desarma)", "Presupuesto ajustado, también para mascotas"],
+        ["[Gadnic Mawe](https://meli.la/11XFYJB)", "Corralito de juegos", "No declarado", "Sí", "El que más accesorios trae"],
       ] },
       { type: "p", content: `El nombre de cada modelo lleva directo a su publicación en MercadoLibre. Abajo está el detalle de los cuatro, en el mismo orden: qué hace bien cada uno y dónde se queda corto.` },
 
@@ -32112,9 +32112,9 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
 
       { type: "h2", title: `Cuánto cuesta un corralito para bebé en Argentina`, id: "precios" },
       { type: "list", items: [
-        `**Alrededor de {{precio:MLA1549115621:k}}:** el [Custom Baby hexagonal](https://meli.la/PEGAR_MELI_LA), la opción más económica de esta comparativa.`,
-        `**Alrededor de {{precio:MLA60692040:k}} a {{precio:MLA67340221:k}}:** la [Practicuna Bebesit](https://meli.la/PEGAR_MELI_LA) y el [Belluno Baby Trapani](https://meli.la/PEGAR_MELI_LA), el más elegido de la comparativa.`,
-        `**Alrededor de {{precio:MLA68732844:k}}:** el [Gadnic Mawe](https://meli.la/PEGAR_MELI_LA), el que más accesorios trae y el más caro del grupo.`,
+        `**Alrededor de {{precio:MLA1549115621:k}}:** el [Custom Baby hexagonal](https://meli.la/2LiaUcL), la opción más económica de esta comparativa.`,
+        `**Alrededor de {{precio:MLA60692040:k}} a {{precio:MLA67340221:k}}:** la [Practicuna Bebesit](https://meli.la/1iQMfuX) y el [Belluno Baby Trapani](https://meli.la/1N4iCeD), el más elegido de la comparativa.`,
+        `**Alrededor de {{precio:MLA68732844:k}}:** el [Gadnic Mawe](https://meli.la/11XFYJB), el que más accesorios trae y el más caro del grupo.`,
       ] },
 
       { type: "verdict", content: `Para la mayoría, el **[Belluno Baby Trapani](/producto/corralito-de-juegos-belluno-baby-trapani-180x120-plegable-no-apto-para-recien-na-mla67340221)**: el más elegido de esta comparativa por lejos, con la salvedad de que **su ficha lo recomienda desde los 6 meses**, no para recién nacidos. Si tu bebé recién nació, la **[Practicuna Bebesit](/producto/practicuna-bebesit-2105-desde-recien-nacido-sin-colchon-incluido-mla60692040)**, la única que acepta desde los 0 meses, aunque tampoco incluye colchón ni certifica sueño sin supervisión. Si el presupuesto manda, el **[Custom Baby hexagonal](/producto/corralito-hexagonal-custom-baby-para-bebes-y-mascotas-rigido-y-economico-mla1549115621)**, el más barato, con el plus de que también sirve para mascotas. Y si buscás el que más accesorios de entretenimiento trae, el **[Gadnic Mawe](/producto/corralito-mawe-by-gadnic-180x120-premium-con-aro-de-basquet-y-red-deportiva-mla68732844)**, sabiendo que es el más caro y el que menos opiniones acumuló todavía.` },
