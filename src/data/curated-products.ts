@@ -71442,10 +71442,13 @@ Comprá el Samsung Galaxy Watch7 si tenés un celular Android y querés pagar si
       "Base de reseñas todavía muy chica: solo 6 calificaciones en total, y ninguna de Argentina ni menciona la membresía",
       "No es tienda oficial de Whoop en MercadoLibre Argentina (no existe ninguna publicación que lo sea): es un revendedor/importador local",
       "Sin GPS, Wi-Fi ni NFC, y sin pantalla: no reemplaza a un smartwatch, es otra categoría de producto, pensada solo para métricas de recuperación",
+      "La precisión de frecuencia cardíaca es sólida para ciclismo y sueño, pero un análisis técnico independiente encontró más errores al correr (por bloqueo de cadencia) y en musculación — para esas actividades, recomiendan una banda de pecho si la precisión es prioritaria",
     ],
     articleBody: `## Qué es y por qué no es un smartwatch
 
-El WHOOP 5.0 Peak es una banda de recuperación sin pantalla: no muestra la hora, no tiene notificaciones, no tiene GPS. Mide frecuencia cardíaca, HRV (variabilidad de frecuencia cardíaca), sueño por etapas, temperatura de piel y estrés en tiempo real, y te devuelve esos datos únicamente en la app del celular. Está pensado para atletas y biohackers que quieren entender su recuperación, no para reemplazar un reloj inteligente de uso diario.
+El WHOOP 5.0 Peak es una banda de recuperación sin pantalla: no muestra la hora, no tiene notificaciones, no tiene GPS. Mide frecuencia cardíaca, HRV (variabilidad de frecuencia cardíaca), sueño por etapas, temperatura de piel y estrés en tiempo real, y te devuelve esos datos únicamente en la app del celular. Está pensado para atletas y biohackers que quieren entender su recuperación, no para reemplazar un reloj inteligente de uso diario. Al no tener GPS propio, si iniciás una actividad manualmente desde la app sí registra el recorrido usando el GPS del celular; si solo lo dejás correr solo, detecta la actividad automáticamente pero sin datos de mapa.
+
+Un análisis técnico independiente que lo comparó contra sensores de referencia encontró que la precisión de frecuencia cardíaca es buena para ciclismo y muy buena para seguimiento de sueño por etapas (uno de los mejores dispositivos evaluados), pero más floja para correr — por el fenómeno conocido como "bloqueo de cadencia", donde el sensor óptico confunde el ritmo de la zancada con los latidos — y para musculación, donde ningún wearable de muñeca rinde realmente bien. La recomendación del mismo análisis: si la precisión durante el entrenamiento es prioritaria, usar una banda de pecho.
 
 ## La membresía: el dato que cambia todo (no es opcional)
 
@@ -71482,6 +71485,10 @@ Es un producto real, con stock sano (+10 disponibles) y buena calificación (5.0
       {
         question: "¿Cuánto dura la batería?",
         answer: "14 días en uso real, según reseñas de compradores y la propia descripción del vendedor. La ficha técnica de MercadoLibre lista \"14 semanas\", que es casi con certeza un error de carga de datos: no lo tomamos como dato real.",
+      },
+      {
+        question: "¿Qué tan preciso es midiendo la frecuencia cardíaca?",
+        answer: "Según un análisis técnico independiente, es bueno para ciclismo y muy bueno para sueño por etapas, pero más flojo para correr (por el bloqueo de cadencia) y musculación. Si la precisión durante el entrenamiento es tu prioridad, ese mismo análisis recomienda una banda de pecho.",
       },
       {
         question: "¿Es tienda oficial de Whoop?",
