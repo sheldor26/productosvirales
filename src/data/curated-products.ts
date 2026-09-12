@@ -70619,7 +70619,9 @@ Comprá el Hikvision AXHome si priorizás el respaldo de una marca global y plan
       { label: "Distancia de cobertura", value: "12 m" },
       { label: "Inmune a mascotas", value: "Hasta 10 kg" },
       { label: "Resistente a la intemperie", value: "Sí" },
-      { label: "Conectividad", value: "WiFi + 433 MHz, incluye control remoto" },
+      { label: "Conectividad", value: "WiFi (solo banda 2.4 GHz, no 5 GHz) + 433 MHz, incluye control remoto" },
+      { label: "Alcance del control remoto", value: "Un mismo control puede vincularse hasta con 500 unidades, según videos del fabricante, útil para instalaciones grandes" },
+      { label: "Altura de montaje recomendada", value: "2 metros para el mejor rango de detección, según el fabricante" },
       { label: "App", value: "Tuya Smart Life" },
       { label: "Vendedor", value: "Crafty Solution (Tienda Oficial)" },
       { label: "Nota sobre reseñas", value: "MercadoLibre aclara que el conteo de calificaciones incluye opiniones de otros países, no todas son de Argentina" },
@@ -70638,6 +70640,7 @@ Comprá el Hikvision AXHome si priorizás el respaldo de una marca global y plan
       "Sirena integrada de 120dB, resistente a la intemperie",
       "Vendedor con trazabilidad real (Tienda Oficial Crafty Solution)",
       "\"De lo mejor en alarma\", según una reseña real",
+      "El control remoto puede vincularse con hasta 500 unidades, útil si vas a instalar varias en un predio grande",
     ],
     cons: [
       "No se puede cambiar de modo, poner horarios ni desactivarlo desde la app: solo con el control remoto físico, estando presente en el lugar, según 2 reseñas reales",
@@ -70651,7 +70654,7 @@ El sensor de movimiento Tuya CT80WR es una alarma solar todo-en-uno (sensor + si
 
 ## Cómo funciona
 
-Sensor infrarrojo con sirena integrada de 120dB, luces estroboscópicas LED, resistente a la intemperie (IP65), carga solar con batería de respaldo de litio (600 mAh), y conectividad WiFi + 433 MHz con control remoto incluido. Detecta movimiento en un radio de 12 metros y es inmune a mascotas de hasta 10 kg. Se administra con la app Tuya Smart Life.
+Sensor infrarrojo con sirena integrada de 120dB, luces estroboscópicas LED, resistente a la intemperie (IP65), carga solar con batería de respaldo de litio (600 mAh), y conectividad WiFi + 433 MHz con control remoto incluido. Detecta movimiento en un radio de 12 metros y es inmune a mascotas de hasta 10 kg. Se administra con la app Tuya Smart Life, y solo se conecta a redes de 2.4 GHz, no a 5 GHz. Dos datos de instalación que aporta el fabricante: conviene montarlo a 2 metros de altura para el mejor rango de detección, y el control remoto que incluye puede vincularse con hasta 500 unidades, así que si necesitás instalar varias en un mismo predio, un solo control las maneja todas.
 
 ## La contra real
 
@@ -70680,6 +70683,14 @@ Comprá el sensor solar Tuya si necesitás cubrir un punto específico de exteri
       {
         question: "¿Sirve para reemplazar un kit de alarma completo?",
         answer: "No, es un sensor individual para un punto específico (patio, garaje, frente). Para un sistema completo con varios sensores coordinados, mirá el [PST G30](/producto/kit-alarma-hogar-pst-g30-inalambrico-4-sensores-wifi-y-sirena-externa-mla28261746) o el [i-tob KIT4s](/producto/alarma-inalambrica-i-tob-it-wgp-kit4s-wifi-gsm-casa-con-sensores-y-sirena-mla58030955) de esta guía.",
+      },
+      {
+        question: "¿A qué altura conviene instalarlo?",
+        answer: "El fabricante recomienda unos 2 metros de altura para el mejor rango de detección.",
+      },
+      {
+        question: "¿Un control remoto alcanza para varias unidades?",
+        answer: "Sí, un mismo control puede vincularse con hasta 500 unidades según el fabricante, así que si instalás varios sensores en el mismo predio, no necesitás un control por cada uno.",
       },
     ],
     structuredData: {
