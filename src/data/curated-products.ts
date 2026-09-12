@@ -70236,9 +70236,12 @@ Comprala si sos 1-2 personas y buscás cocinar rápido sin gastar de más. No es
       { label: "Modelo", value: "G30" },
       { label: "Central", value: "Táctil, pantalla LCD 2,4\"" },
       { label: "Kit incluye", value: "2 sensores de movimiento PIR, 2 sensores de puerta/ventana, sirena interior cableada 110dB, sirena exterior inalámbrica 110dB, 2 controles remoto, 2 tags RFID" },
-      { label: "Conectividad", value: "WiFi + GSM, 3 zonas cableadas, hasta 100 zonas inalámbricas" },
+      { label: "Conectividad", value: "WiFi (solo banda 2.4 GHz, no 5 GHz) + GSM, 3 zonas cableadas, hasta 100 zonas inalámbricas" },
       { label: "Batería", value: "Litio 3.7V/2.000 mAh, hasta 10 h de autonomía (según fabricante)" },
       { label: "Alcance declarado", value: "100 m en espacio abierto (según fabricante)" },
+      { label: "Alertas telefónicas", value: "Hasta 5 números para llamada y 5 para SMS ante un evento, configurables desde el panel o la app" },
+      { label: "Automatizaciones", value: "Se pueden crear reglas en la app Tuya Smart para activar sirena externa, luces u otros dispositivos Tuya cuando se arma, desarma o dispara la alarma" },
+      { label: "Contraseña de fábrica del teclado", value: "1234 u 8888, según reviews: se recomienda cambiarla al instalar" },
       { label: "App", value: "Tuya Smart / Smart Life" },
       { label: "Vendedor", value: "Tienda oficial TRICUBO" },
     ],
@@ -70256,12 +70259,16 @@ Comprala si sos 1-2 personas y buscás cocinar rápido sin gastar de más. No es
       "Kit con 4 sensores, sirena interior y exterior, 2 controles remoto y 2 tags RFID",
       "Doble conectividad WiFi + GSM, hasta 100 zonas inalámbricas",
       "\"No dispara falsas alarmas... el sonido de la sirena interna y externa es muy fuerte\", según una reseña con 24 votos útiles",
+      "Permite crear automatizaciones en la app Tuya Smart: por ejemplo, que una sirena externa o luces se enciendan solas cuando se dispara la alarma, o se apaguen al desarmar",
+      "Avisa por hasta 5 números de teléfono (llamada) y 5 más por SMS ante un evento, útil si viven varias personas en la casa",
     ],
     cons: [
       "La central y el tablero están en una sola unidad: \"si ingresa una persona no deseada al inmueble y llega rápidamente al tablero puede desconectar la alarma... se debe colocar en un lugar oculto\", según una reseña con 20 votos útiles",
       "Manual en inglés, según una reseña real (aunque se resuelve con tutoriales en video)",
       "No confirmado cómo se comporta la sirena exterior a la intemperie a largo plazo, según una reseña con 28 votos útiles",
       "Sin mención de homologación ENACOM en la ficha ni en la página del fabricante, un patrón común en esta categoría en MercadoLibre Argentina",
+      "Solo se conecta a Wi-Fi de 2.4 GHz, no a 5 GHz",
+      "La contraseña de fábrica del teclado es conocida (1234 u 8888 según reviews): conviene cambiarla apenas se instala",
     ],
     articleBody: `## Qué es y para quién
 
@@ -70269,7 +70276,7 @@ El PST G30 es un kit de alarma para casa inalámbrico con central táctil, 4 sen
 
 ## Cómo funciona
 
-Central con pantalla LCD táctil de 2,4", 2 sensores de movimiento PIR, 2 sensores de puerta/ventana, sirena interior cableada y sirena exterior inalámbrica (ambas de 110dB), 2 controles remoto y 2 tags RFID. Se conecta por WiFi y GSM (chip celular como respaldo si se corta el WiFi), con hasta 100 zonas inalámbricas configurables. El fabricante declara 10 horas de autonomía de batería y 100 metros de alcance en espacio abierto. La app es Tuya Smart / Smart Life.
+Central con pantalla LCD táctil de 2,4", 2 sensores de movimiento PIR, 2 sensores de puerta/ventana, sirena interior cableada y sirena exterior inalámbrica (ambas de 110dB), 2 controles remoto y 2 tags RFID. Se conecta por WiFi y GSM (chip celular como respaldo si se corta el WiFi), con hasta 100 zonas inalámbricas configurables. El fabricante declara 10 horas de autonomía de batería y 100 metros de alcance en espacio abierto. La app es Tuya Smart / Smart Life. Solo se conecta a redes Wi-Fi de 2.4 GHz, no a 5 GHz. Dos funciones que varios videos de configuración muestran y que la ficha de ML no explica: se pueden cargar hasta 5 números de teléfono para llamada y 5 más para SMS, para que avise a varias personas ante un evento; y desde la app Tuya Smart se pueden armar automatizaciones, por ejemplo que una sirena externa enchufada a un tomacorriente inteligente (o las luces) se prendan solas cuando la alarma se dispara, y se apaguen al desarmar.
 
 ## La contra real
 
@@ -70298,6 +70305,22 @@ Comprá el PST G30 si buscás el kit más completo y con más respaldo de compra
       {
         question: "¿Tiene homologación ENACOM?",
         answer: "Ni la ficha de MercadoLibre ni la página del fabricante lo mencionan explícitamente, un patrón común en esta categoría de productos en Argentina.",
+      },
+      {
+        question: "¿Se conecta a Wi-Fi de 5 GHz?",
+        answer: "No, solo a redes de 2.4 GHz, según varios videos de configuración del mismo modelo.",
+      },
+      {
+        question: "¿A cuántos números avisa si se dispara?",
+        answer: "Hasta 5 números por llamada y 5 más por SMS, configurables desde el panel o la app. Útil si viven varias personas en la casa y todas quieren recibir el aviso.",
+      },
+      {
+        question: "¿Se puede conectar a otros dispositivos inteligentes?",
+        answer: "Sí, usando la app Tuya Smart podés armar automatizaciones: por ejemplo, que una sirena externa o las luces se enciendan solas cuando se dispara la alarma, o se apaguen al desarmar el sistema.",
+      },
+      {
+        question: "¿Cuál es la contraseña del teclado si nunca la configuré?",
+        answer: "Según reviews, viene con una contraseña de fábrica conocida (1234 u 8888). Conviene cambiarla apenas se instala para que no quede con la clave por defecto.",
       },
     ],
     structuredData: {
