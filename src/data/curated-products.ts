@@ -70752,11 +70752,12 @@ Comprá el sensor solar Tuya si necesitás cubrir un punto específico de exteri
       { label: "Modelo", value: "Redmi Watch 5 Lite (M2352W1)" },
       { label: "Pantalla", value: "AMOLED 1,96\", 410x502 px, 332 PPP" },
       { label: "Caja", value: "48,1 mm, 29,2 g sin correa" },
-      { label: "Batería", value: "470 mAh, hasta 18 días declarados (en uso real, 7 a 15 días según intensidad)" },
+      { label: "Batería", value: "470 mAh, hasta 18 días declarados (en uso real, 7 a 15 días según intensidad). Carga completa en aproximadamente 1,5 horas con el cable magnético" },
       { label: "GPS", value: "Real e integrado (GPS, Galileo, Glonass, BeiDou, QZSS), no depende del celular" },
       { label: "Resistencia al agua", value: "50 m" },
       { label: "Sensores", value: "Frecuencia cardíaca, SpO2, acelerómetro, giroscopio" },
       { label: "Conectividad", value: "Bluetooth 5.3, con altavoz integrado para llamadas. Sin NFC, sin WiFi" },
+      { label: "Asistente de voz", value: "Alexa integrado, según reviews internacionales. Funciona solo con el reloj emparejado al celular con internet activo, y algunas funciones (como Alexa) no están disponibles en todos los países" },
       { label: "Compatibilidad", value: "Android 8.0+ / iOS 12.0+ (app HyperOS)" },
       { label: "Materiales y contenido de la caja", value: "Marco de plástico (recubrimiento NCVM), correa de TPU (135-205 mm). Incluye cable de carga magnética y manual — dato de la web oficial de Xiaomi" },
     ],
@@ -70778,6 +70779,7 @@ Comprá el sensor solar Tuya si necesitás cubrir un punto específico de exteri
     cons: [
       "La batería real es menor a los 18 días declarados por el fabricante: reseñas reales reportan entre 7 días (uso intensivo con GPS y Bluetooth conectado) y 12-15 días (uso moderado)",
       "No se puede responder notificaciones desde el reloj, según una reseña real con 410 votos útiles",
+      "El modo Always On Display (pantalla siempre encendida) consume la batería hasta un 50% más rápido, según reviews técnicas",
       "Sin NFC ni WiFi",
     ],
     articleBody: `## Qué es y para quién
@@ -70786,7 +70788,7 @@ El Xiaomi Redmi Watch 5 Lite es un smartwatch con GPS real y pantalla AMOLED, el
 
 ## Cómo funciona
 
-Pantalla AMOLED de 1,96" (410x502 px, 332 PPP), caja de 48,1 mm y 29,2 g sin correa con marco de plástico (recubrimiento NCVM) y correa de TPU, batería de 470 mAh con hasta 18 días de autonomía declarados por el fabricante. Tiene GPS real integrado (no depende de la conexión con el celular para medir distancia recorrida) con soporte Galileo, Glonass, BeiDou y QZSS, sensor de frecuencia cardíaca con SpO2 integrado, y resistencia al agua de 50 metros. Se conecta por Bluetooth 5.3 con altavoz integrado (para llamadas), sin NFC ni WiFi. La web oficial de Xiaomi confirma que la caja incluye cable de carga magnética y manual, pero no publica el procesador que usa — un dato que tampoco aparece en la ficha de MercadoLibre.
+Pantalla AMOLED de 1,96" (410x502 px, 332 PPP), caja de 48,1 mm y 29,2 g sin correa con marco de plástico (recubrimiento NCVM) y correa de TPU, batería de 470 mAh con hasta 18 días de autonomía declarados por el fabricante. Tiene GPS real integrado (no depende de la conexión con el celular para medir distancia recorrida) con soporte Galileo, Glonass, BeiDou y QZSS, sensor de frecuencia cardíaca con SpO2 integrado, y resistencia al agua de 50 metros. Se conecta por Bluetooth 5.3 con altavoz integrado (para llamadas), sin NFC ni WiFi. Trae Alexa integrado como asistente de voz, según reviews internacionales, aunque solo funciona con el reloj emparejado al celular con internet activo y no está disponible en todos los países. La carga completa con el cable magnético toma aproximadamente 1,5 horas. La web oficial de Xiaomi confirma que la caja incluye cable de carga magnética y manual, pero no publica el procesador que usa — un dato que tampoco aparece en la ficha de MercadoLibre.
 
 ## La contra real
 
@@ -70794,7 +70796,7 @@ La batería declarada por el fabricante (18 días) es un número de mejor caso. 
 
 ## Cómo se compara con las otras de esta guía
 
-Frente al [JD Venecia Sport](/producto/smartwatch-jd-venecia-sport-bluetooth-llamadas-pantalla-1-96-tactil-malla-color-mla26666337) (económico), el Xiaomi suma GPS real y pantalla AMOLED, pero cuesta el doble. Frente al [Amazfit Bip 6](/producto/smartwatch-reloj-inteligente-amazfit-bip-6-amoled-1-97-gps-llamadas-bluetooth-5-mla51929440) (premium), el Amazfit tiene asistente de voz con IA y mejor batería confirmada en uso real. Frente al [Haylou Solar LS05S](/producto/smartwatch-haylou-solar-ls05s-reloj-inteligente-con-bateria-de-15-dias-mla24530447) (batería de 15 días), el Xiaomi tiene mejor pantalla y GPS, pero menos autonomía.
+Frente al [JD Venecia Sport](/producto/smartwatch-jd-venecia-sport-bluetooth-llamadas-pantalla-1-96-tactil-malla-color-mla26666337) (económico), el Xiaomi suma GPS real y pantalla AMOLED, pero cuesta el doble. Frente al [Amazfit Bip 6](/producto/smartwatch-reloj-inteligente-amazfit-bip-6-amoled-1-97-gps-llamadas-bluetooth-5-mla51929440) (premium), el Xiaomi también trae asistente de voz integrado (Alexa, según reviews internacionales), pero el asistente con IA del Amazfit es más avanzado y tiene mejor batería confirmada en uso real. Frente al [Haylou Solar LS05S](/producto/smartwatch-haylou-solar-ls05s-reloj-inteligente-con-bateria-de-15-dias-mla24530447) (batería de 15 días), el Xiaomi tiene mejor pantalla y GPS, pero menos autonomía.
 
 ## Para quién sí y para quién no
 
@@ -70815,6 +70817,10 @@ Comprá el Xiaomi Redmi Watch 5 Lite si buscás el smartwatch con más respaldo 
       {
         question: "¿Por qué es el más vendido de esta guía?",
         answer: "Es el 1° más vendido de la categoría Smartwatches en MercadoLibre Argentina, con el mayor volumen de opiniones reales de este sourcing.",
+      },
+      {
+        question: "¿Tiene asistente de voz?",
+        answer: "Sí, trae Alexa integrado según reviews internacionales, pero funciona solo con el reloj emparejado al celular con internet activo, y esta función no está disponible en todos los países.",
       },
     ],
     structuredData: {
