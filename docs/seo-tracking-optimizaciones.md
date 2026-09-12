@@ -2515,3 +2515,29 @@ Sexta de las 7 guías nuevas de esta iteración. 4 fichas nuevas, sourcing en vi
 **Verificación:** `npx tsc --noEmit`, `npm run build`, y los 7 scripts de `guides:check` en verde, sin deuda nueva. Se corrigieron 2 links internos con slug no canónico detectados por `check-canonical-product-links.cjs` antes del trío (typos propios al calcular el slug a mano: "Rulemanes y Cable" vs "Rulemanes Duales y Cable" del título real de la ficha Gadnic, y "Puno de Goma Cable" vs "Puno de Goma y Cable" de la ficha GMP). Afiliados con placeholder `PEGAR_MELI_LA` hasta los links reales de Juan.
 
 Re-medir: pendiente de fijar fecha (recién publicada).
+
+---
+
+## Guía nueva `corralito-para-bebe` — silo `bebes` (existente) — 2026-09-12
+
+Séptima y última guía nueva de esta iteración de 7. 4 fichas nuevas, sourcing en vivo el 2026-09-12 (categoría "Corralitos" propia en MercadoLibre, 1.419 resultados verificados). **Categoría sensible: seguridad infantil.**
+- `MLA67340221` — Belluno Baby Trapani, el más elegido (484 opiniones) y 1° en el ranking propio de más vendidos de ML en la categoría. Corralito de juegos, no para recién nacidos (desde 6 meses).
+- `MLA60692040` — Practicuna Bebesit 2105, la única de las cuatro que declara aceptar desde los 0 meses. No incluye colchón ni declara función colecho.
+- `MLA1549115621` — Custom Baby hexagonal, el más barato. También se vende como pelotero para mascotas; no se pliega (se desarma pieza por pieza).
+- `MLA68732844` — Corralito Mawe by Gadnic, el más caro, el que más accesorios de entretenimiento trae (aro de básquet, redes deportivas). Su ficha declara un peso máximo soportado de 3,3 kg que no tiene sentido para el producto (probable error de carga de la publicación); aclarado explícitamente y sin atribuirle una edad no declarada. También tiene la base de opiniones más chica de las cuatro (12).
+
+**Trío auditor, ronda 1: agy dio GO sin bloqueantes; Codex dio NO-GO real con 4 bloqueantes.** (1) La guía afirmaba en varios lugares que "tres" de los cuatro corralitos declaran 6 meses mínimo, cuando en realidad solo dos lo declaran (Belluno y Custom Baby); la Bebesit declara 0 meses; y el Gadnic no declara ningún rango de edad — corregido en 5 lugares de la guía y 2 de la ficha Bebesit. (2) La ficha de Belluno sugería que si buscabas "algo pensado también para dormir" fueras a la Bebesit, insinuando que esa sí sirve para dormir sin supervisión — eliminada esa sugerencia, reforzando que ninguna está certificada para eso. (3) El disclaimer del peso erróneo del Gadnic (3,3 kg) le atribuía una edad que su propia ficha no declara ("hasta 3 años") — corregido a una formulación genérica sin cifra. (4) Superlativos sin acotar "de esta comparativa" en directAnswer, callout y veredicto de la guía — agregado.
+
+**Ronda 2: doble GO.** Codex insistió en un quinto punto menor (los `seoTitle` de Belluno y Gadnic seguían sin acotar el superlativo) — agregado "de la comparativa" a ambos. agy confirmó en su segunda pasada que el mensaje de seguridad quedó inequívoco y que el flujo de lectura no quedó con costuras tras los reemplazos.
+
+**Lección para futuras guías en categorías con 4+ productos donde no todos declaran el mismo dato:** al escribir frases como "de las cuatro, tres declaran X", contar explícitamente cuántas fichas declaran cada valor antes de escribir el número — es un error fácil de cometer quedarse con el primer conteo mental en vez de verificarlo contra las specs recién escritas.
+
+**Verificación:** `npx tsc --noEmit`, `npm run build`, y los 7 scripts de `guides:check` en verde tras ambas rondas, sin deuda nueva. Afiliados con placeholder `PEGAR_MELI_LA` hasta los links reales de Juan.
+
+Re-medir: pendiente de fijar fecha (recién publicada).
+
+---
+
+## Cierre del lote de 7 guías nuevas — 2026-09-12
+
+Las 7 guías planificadas en "Iteración 5" (mancuernas, bicicleta fija, rascador para gatos, cochecito de bebé, taladro percutor, soga para saltar, corralito para bebé) quedaron construidas, auditadas con trío auditor y commiteadas. Quedan pendientes de Juan los links de afiliado meli.la reales de las últimas 3 (taladro percutor, soga para saltar, corralito para bebé); las primeras 4 ya se pidieron en su momento. Silos nuevos abiertos en esta iteración: `fitness` (mancuernas, bicicleta fija, soga para saltar), `mascotas` (rascador para gatos), `bebes` (cochecito de bebé, corralito para bebé).
