@@ -31793,6 +31793,119 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     ],
     internalLinksTitle: "Más guías nuevas del sitio",
   },
+  {
+    slug: "taladro-percutor",
+    category: "taladro-percutor",
+    silo: "hogar-jardin",
+    pillar: true,
+    title: `Taladro percutor: cuál comprar en Argentina [2026]`,
+    seoTitle: `Taladro Percutor: Cuál Comprar en Argentina [2026]`,
+    metaDescription: `Comparamos 4 taladros percutores reales de MercadoLibre: con cable, inalámbrico, marca premium y el que más accesorios trae. El más elegido tiene un detalle a cuidar al ajustar el mango.`,
+    ogTitle: `Taladro percutor: cuál comprar en Argentina`,
+    ogDescription: `4 taladros percutores comparados por potencia, sistema de encastre y respaldo de reseñas. Uno de ellos fue comparado directamente contra un Dewalt del mismo precio, y ganó.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_983756-MLA107317538728_032026-O.webp`,
+    h1: `Taladro percutor: cuál comprar en Argentina y qué mirar antes [2026]`,
+    directAnswer: `Para la mayoría conviene el **[LUSQTOFF RML850-7](/producto/taladro-percutor-lusqtoff-rml850-7-850-w-sds-plus-13-mm-mla21206777)** (alrededor de {{precio:MLA21206777:k}}): 850 W, SDS Plus y el más elegido por lejos. Si necesitás algo sin cable, el **[LUSQTOFF ATL18-8B](/producto/taladro-percutor-inalambrico-lusqtoff-atl18-8b-18v-2-baterias-mla16033177)**, con 2 baterías incluidas. Si buscás marca premium, el **[Makita HP1630](/producto/taladro-percutor-makita-hp1630-710-w-13-mm-mla15388004)**, comparado favorablemente contra un Dewalt por un comprador real. Y si querés el kit más completo, el **[TOTAL 800W](/producto/rotomartillo-total-800-w-sds-plus-con-maletin-y-accesorios-mla14063419)**, con maletín y accesorios incluidos.`,
+    publishedDate: "2026-09-09",
+    updatedDate: "2026-09-09",
+    sitemapLastmod: "2026-09-09",
+    hasDisclosure: true,
+    readingTime: 9,
+    standfirst: `Un taladro percutor va de {{precio:MLA16033177:k}} a {{precio:MLA15388004:k}}. Comparamos 4 modelos reales de MercadoLibre Argentina por **potencia, sistema de encastre, si es a cable o inalámbrico y respaldo de reseñas**, con contras sacadas de reseñas verdaderas, dentro de nuestro silo de [Hogar y Jardín](/categoria/hogar-jardin).`,
+    quickPicks: [
+      { productMlaId: "MLA21206777", label: "El más elegido", labelColor: "green", tagline: "LUSQTOFF RML850-7: 850 W, SDS Plus, {{reviews:MLA21206777}} opiniones" },
+      { productMlaId: "MLA16033177", label: "El inalámbrico", labelColor: "blue", tagline: "LUSQTOFF ATL18-8B: 18V con 2 baterías, el más barato" },
+      { productMlaId: "MLA15388004", label: "El premium", labelColor: "purple", tagline: "Makita HP1630: comparado contra un Dewalt del mismo precio, y ganó" },
+      { productMlaId: "MLA14063419", label: "El que más trae", labelColor: "amber", tagline: "TOTAL 800W: maletín, mechas y cinceles incluidos" },
+    ],
+    intro: [
+      `Elegir un **taladro percutor** parece una decisión de potencia y termina siendo una de sistema de encastre y accesorios. Los watts se leen en el título; si es SDS Plus o mandril común, y qué trae realmente en la caja, están abajo en la ficha, y son los que deciden si el trabajo te sale rápido o con improvisaciones.`,
+      `Comparamos 4 taladros percutores reales de MercadoLibre Argentina y verificamos, uno por uno, qué declara su ficha técnica sobre potencia, sistema de encastre, accesorios y reseñas de compradores. Apareció algo que conviene saber antes de comprar: **el más elegido de esta comparativa tiene un detalle real a cuidar al ajustar el mango**, y lo dice un comprador con nombre y apellido del problema.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_983756-MLA107317538728_032026-O.webp", alt: `Taladro percutor con sistema SDS Plus perforando una pared`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Si no querés leer toda la comparativa: el **[LUSQTOFF RML850-7](/producto/taladro-percutor-lusqtoff-rml850-7-850-w-sds-plus-13-mm-mla21206777)** es el más elegido de los cuatro, con **{{reviews:MLA21206777}} opiniones**, muy por encima del resto. 850 W, SDS Plus y corta hormigón sin esfuerzo. La contra a saber antes de comprar: un comprador avisa que el mango se le rompió al ajustarlo con demasiada fuerza.` },
+
+      { type: "callout", calloutVariant: "warning", calloutTitle: "Con cable o inalámbrico no es solo comodidad", content: `De los cuatro taladros de esta comparativa, tres funcionan **con cable** (LUSQTOFF RML850-7, Makita HP1630 y TOTAL 800W) y uno es **inalámbrico** (LUSQTOFF ATL18-8B). El inalámbrico tiene mandril de **10 mm**, más chico que los **13 mm** de los tres con cable, lo que limita el grosor de mecha que podés usar. Si necesitás máxima potencia para hormigón pesado, las opciones con cable rinden mejor.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** partimos del rubro de taladros percutores de MercadoLibre Argentina y verificamos cada publicación en vivo el 2026-09-09: precio, stock, ficha técnica campo por campo y reseñas de compradores. Miramos especialmente cuatro campos que deciden la compra: **potencia**, **sistema de encastre (SDS Plus o mandril)**, **si es a cable o inalámbrico**, y **qué accesorios incluye realmente**. Los precios se verifican automáticamente contra MercadoLibre.` },
+
+      { type: "h2", title: `Los cuatro datos que deciden la compra`, id: "que-mirar" },
+      { type: "p", content: `**Potencia.** Entre las opciones a cable de esta comparativa va de 710 W a 850 W. Para perforar hormigón con frecuencia, más watts ayudan; para uso ocasional en madera o metal, con menos alcanza.` },
+      { type: "p", content: `**Sistema de encastre.** SDS Plus permite cambiar mechas sin llave y aguanta mejor el trabajo de percusión pesado. Un mandril común (como el del inalámbrico de esta comparativa) es más versátil para atornillar pero admite menos castigo en hormigón.` },
+      { type: "p", content: `**Con cable o inalámbrico.** Sin cable ganás libertad de movimiento, y el mandril suele ser más chico. Ojo: los watts de un motor a batería (36 W en el inalámbrico de esta comparativa) y los watts nominales de un motor a cable (710-850 W en las otras tres) son mediciones distintas, no comparables restando un número contra otro. Para elegir, mirá mejor el sistema de encastre, la energía de impacto y lo que reportan compradores reales usándolo.` },
+      { type: "p", content: `**Accesorios incluidos.** Varían mucho entre publicaciones: maletín, mechas, cinceles, tapa antipolvo. Uno de los cuatro de esta comparativa trae todo eso de fábrica; otro declara un accesorio en la ficha que un comprador reporta que no siempre llega en la caja.` },
+
+      { type: "h2", title: `Comparativa rápida: los 4 frente a frente`, id: "tabla-comparativa" },
+      { type: "table", headers: ["Modelo", "Potencia", "Encastre", "Cable/batería", "Ideal para"], rows: [
+        ["[LUSQTOFF RML850-7](https://meli.la/PEGAR_MELI_LA)", "850 W", "SDS Plus", "Con cable", "La mayoría: potencia y el más elegido"],
+        ["[LUSQTOFF ATL18-8B](https://meli.la/PEGAR_MELI_LA)", "36 W (motor a batería)", "Mandril 10 mm", "Inalámbrico, 2 baterías", "Sin cable, el más barato"],
+        ["[Makita HP1630](https://meli.la/PEGAR_MELI_LA)", "710 W", "Mandril 13 mm", "Con cable", "Marca premium, mejor terminación"],
+        ["[TOTAL 800W](https://meli.la/PEGAR_MELI_LA)", "800 W", "SDS Plus", "Con cable", "El kit más completo de accesorios"],
+      ] },
+      { type: "p", content: `El nombre de cada modelo lleva directo a su publicación en MercadoLibre. **Ojo con la columna de potencia:** los 36 W del ATL18-8B son la potencia del motor a batería, una medición distinta a los watts nominales de un motor a cable (710-850 W en los otros tres). No son comparables restando un número contra otro. Abajo está el detalle de los cuatro, en el mismo orden: qué hace bien cada uno y dónde se queda corto.` },
+
+      { type: "h2", title: `El ranking`, id: "ranking" },
+
+      { type: "h3", title: `1. LUSQTOFF RML850-7` },
+      { type: "product-card", productMlaId: "MLA21206777", label: "El más elegido", labelColor: "green", ranking: 1, description: "850 W con SDS Plus y mandril de 13 mm. El más elegido de los cuatro, con {{reviews:MLA21206777}} opiniones." },
+      { type: "p", content: `Es el taladro **con más respaldo de esta comparativa por lejos**: {{reviews:MLA21206777}} opiniones con {{rating:MLA21206777}} de promedio. Con 850 W y SDS Plus, corta hormigón sin problema según compradores reales.` },
+      { type: "pull-quote", content: `"La máquina en sí es una locura, corta el hormigón como manteca. [...] Lo único malo! es que el mango para sujetar, tuvo su debut y despedida. Lo gire para apretarlo y se rompió."`, attribution: `Comprador del LUSQTOFF RML850-7, calificación 5/5` },
+      { type: "p", content: `La contra real: **hay que ajustar el mango sin forzarlo**. El mismo comprador aclara que la máquina en sí sigue siendo un "10", y que el problema fue puntual del mango.` },
+
+      { type: "h3", title: `2. LUSQTOFF ATL18-8B` },
+      { type: "product-card", productMlaId: "MLA16033177", label: "El inalámbrico", labelColor: "blue", ranking: 2, description: "El único inalámbrico de esta comparativa, con 2 baterías de 18V y cargador incluidos. El más barato del grupo." },
+      { type: "p", content: `Es el **único inalámbrico de esta comparativa**, con 2 baterías de 18V y cargador incluidos, y también el más barato del grupo. Rinde bien para madera y atornillado según compradores.` },
+      { type: "pull-quote", content: `"Excelente bicho, doble baterías que duran muy bien [...] la use para hormigón y tardó un poquito pero de diez! y para madera tanto taladro como atornillador excelente 11 puntos."`, attribution: `Comprador del LUSQTOFF ATL18-8B, calificación 5/5` },
+      { type: "p", content: `La contra real: su mandril es de **10 mm**, más chico que los 13 mm de las tres opciones con cable de esta comparativa, lo que limita el grosor de mecha que podés usar.` },
+
+      { type: "h3", title: `3. Makita HP1630` },
+      { type: "product-card", productMlaId: "MLA15388004", label: "El premium", labelColor: "purple", ranking: 3, description: "710 W, mandril de 13 mm. Comparado favorablemente contra un Dewalt del mismo precio por un comprador real. El más caro de esta comparativa." },
+      { type: "p", content: `Es la opción de **marca premium de esta comparativa**. Un comprador hizo la comparación directa que muchos se preguntan al elegir marca.` },
+      { type: "pull-quote", content: `"Lo comparé con un Dewalt 710W del mismo precio y a mi parecer es mejor Makita: más fuerza, vibra menos, mejor calidad de materiales, menos ruidoso, cable de corriente más largo y botones más firmes."`, attribution: `Comprador del Makita HP1630, calificación 4/5` },
+      { type: "p", content: `La contra real, según otro comprador: **el medidor de profundidad figura en la ficha pero no siempre llega dentro de la caja**. Conviene confirmarlo con el vendedor antes de comprar.` },
+
+      { type: "h3", title: `4. TOTAL 800W` },
+      { type: "product-card", productMlaId: "MLA14063419", label: "El que más trae", labelColor: "amber", ranking: 4, description: "800 W con SDS Plus, maletín, mechas, cinceles y más accesorios incluidos de fábrica. El kit más completo de esta comparativa." },
+      { type: "p", content: `Es el taladro **con el paquete de accesorios más completo de esta comparativa**: maletín, mechas, cinceles, tapa antipolvo y limitador de profundidad, todo incluido de fábrica.` },
+      { type: "pull-quote", content: `"Está bien el roto. Comparándolo con los de 5 jules la verdad no rompe mucho. Pero para canaletear y agujerear está bien. Es liviano."`, attribution: `Comprador del TOTAL 800W, calificación 4/5` },
+      { type: "p", content: `La contra real: comparado con rotomartillos de mayor energía de impacto (5 J), **rinde menos para trabajos de demolición pesada**, aunque cumple bien para canaletear y agujerear, según el mismo comprador.` },
+
+      { type: "h2", title: `Cómo elegir tu taladro percutor`, id: "como-elegir" },
+      { type: "h3", title: `1. Definí primero el uso: hormigón pesado o trabajo liviano` },
+      { type: "p", content: `Para hormigón con frecuencia, priorizá SDS Plus y mayor energía de impacto (el LUSQTOFF RML850-7 declara 3,2 J). Para uso liviano en madera o metal, y valorás no depender de un cable, el inalámbrico alcanza.` },
+      { type: "h3", title: `2. Con cable o inalámbrico` },
+      { type: "p", content: `Sin cable ganás libertad de movimiento, pero en esta comparativa el inalámbrico tiene mandril más chico (10 mm contra 13 mm). Si necesitás mechas gruesas, las opciones con cable rinden mejor.` },
+      { type: "h3", title: `3. Revisá qué accesorios trae realmente` },
+      { type: "p", content: `No te quedes solo con lo que dice la ficha: un comprador del Makita reporta que un accesorio declarado no siempre llega en la caja. Si necesitás un kit completo desde el día uno, el TOTAL de esta comparativa trae más accesorios de fábrica.` },
+
+      { type: "h2", title: `Cuánto cuesta un taladro percutor en Argentina`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de {{precio:MLA16033177:k}} a {{precio:MLA21206777:k}}:** las dos [LUSQTOFF](https://meli.la/PEGAR_MELI_LA), inalámbrica y con cable, muy cerca en precio.`,
+        `**Alrededor de {{precio:MLA14063419:k}}:** el [TOTAL 800W](https://meli.la/PEGAR_MELI_LA), con el kit de accesorios más completo.`,
+        `**Alrededor de {{precio:MLA15388004:k}}:** el [Makita HP1630](https://meli.la/PEGAR_MELI_LA), la opción de marca premium y la más cara del grupo.`,
+      ] },
+
+      { type: "verdict", content: `Para la mayoría, el **LUSQTOFF RML850-7**: 850 W, SDS Plus y el más elegido por lejos. Compralo sabiendo que hay que ajustar el mango sin forzarlo. Si necesitás algo sin cable, el **LUSQTOFF ATL18-8B**, el más barato del grupo, con la salvedad de su mandril más chico (10 mm). Si buscás marca premium, el **Makita HP1630**, comparado favorablemente contra un Dewalt del mismo precio por un comprador real, aunque es el más caro. Y si querés el kit más completo de una sola vez, el **TOTAL 800W**, con maletín y accesorios incluidos, sabiendo que rinde menos que equipos de mayor energía de impacto en demolición pesada.` },
+
+      { type: "h2", title: `Preguntas frecuentes`, id: "faq" },
+    ],
+    faq: [
+      { question: `¿Cuál es el mejor taladro percutor en Argentina?`, answer: `Por respaldo de compradores, el [LUSQTOFF RML850-7](/producto/taladro-percutor-lusqtoff-rml850-7-850-w-sds-plus-13-mm-mla21206777): tiene {{reviews:MLA21206777}} opiniones, muy por encima del resto de esta comparativa. Con 850 W y SDS Plus corta hormigón sin esfuerzo. Su contra: un comprador avisa que hay que ajustar el mango sin forzarlo, porque se le rompió al hacerlo con demasiada fuerza.` },
+      { question: `¿Conviene un taladro percutor con cable o inalámbrico?`, answer: `Depende del uso. Con cable tenés más potencia y mandril más grande (13 mm en esta comparativa); inalámbrico ganás libertad de movimiento pero el mandril suele ser más chico (10 mm en el LUSQTOFF ATL18-8B de esta guía). Para hormigón pesado con frecuencia, conviene con cable.` },
+      { question: `¿Qué es el sistema SDS Plus?`, answer: `Es un sistema de encastre que permite cambiar mechas sin llave y transmite mejor la fuerza de percusión para hormigón. En esta comparativa, dos de los cuatro (LUSQTOFF RML850-7 y TOTAL 800W) usan SDS Plus; los otros dos usan mandril común.` },
+      { question: `¿Cuánta potencia necesito para hormigón?`, answer: `Entre las opciones a cable de esta comparativa, va de 710 W a 850 W. Más watts y mayor energía de impacto (medida en Joules) ayudan si vas a perforar hormigón con frecuencia.` },
+      { question: `¿Los accesorios que dice la ficha siempre vienen incluidos?`, answer: `No siempre. Un comprador del Makita HP1630 de esta comparativa reporta que un accesorio declarado en la ficha (el medidor de profundidad) no siempre llega dentro de la caja. Conviene confirmarlo con el vendedor antes de comprar.` },
+      { question: `¿Sirve un taladro percutor para atornillar?`, answer: `Sí, los cuatro de esta comparativa tienen modo de taladrar sin percusión, que sirve para atornillar. El inalámbrico de esta guía es especialmente valorado por compradores para ese uso.` },
+    ],
+    internalLinks: [
+      { label: "Bordeadora eléctrica: cuál comprar", href: "/guias/hogar-jardin/bordeadora-electrica" },
+      { label: "Mancuernas: cuál comprar", href: "/guias/fitness/mancuernas" },
+      { label: "Bicicleta fija: cuál comprar", href: "/guias/fitness/bicicleta-fija" },
+    ],
+    internalLinksTitle: "Más guías nuevas del sitio",
+  },
 ];
 
 /**

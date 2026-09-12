@@ -2483,3 +2483,19 @@ Corregidos los 5, ronda 2 encontró que 2 de los 5 tenían residuos (frases suel
 **Verificación:** `npx tsc --noEmit`, `npm run build`, y los mismos scripts de `guides:check` en verde tras cada ronda, sin deuda nueva. Afiliados con placeholder `PEGAR_MELI_LA` hasta los links reales de Juan.
 
 Re-medir: pendiente de fijar fecha (recién publicada).
+
+---
+
+## Guía nueva `taladro-percutor` — silo `hogar-jardin` (existente) — 2026-09-09
+
+Quinta de las 7 guías nuevas de esta iteración. 4 fichas nuevas, sourcing en vivo el 2026-09-09 (categoría "Taladro" propia en MercadoLibre, +9.999 resultados verificados):
+- `MLA21206777` — LUSQTOFF RML850-7, 850W SDS Plus, el más elegido (6.134 opiniones).
+- `MLA16033177` — LUSQTOFF ATL18-8B, único inalámbrico, el más barato.
+- `MLA15388004` — Makita HP1630, marca premium (un comprador lo comparó directo contra un Dewalt del mismo precio y prefirió el Makita).
+- `MLA14063419` — TOTAL 800W, el que más accesorios trae (maletín, mechas, cinceles).
+
+**Trío auditor, ronda 1: Codex encontró 1 bloqueante real, agy dio GO tratando el mismo punto como mejora opcional.** La tabla comparativa y el texto de la guía mostraban "36 W" del taladro inalámbrico junto a "710-850 W" de los taladros a cable sin aclarar que son mediciones distintas (potencia de motor a batería vs. potencia nominal a corriente) — la ficha individual ya tenía la aclaración, pero la guía (donde ocurre la comparación visual en la tabla) no. Se agregó la aclaración en dos lugares: el párrafo "Con cable o inalámbrico" y justo debajo de la tabla comparativa. GO final tras el fix.
+
+**Verificación:** `npx tsc --noEmit`, `npm run build`, y los mismos scripts de `guides:check` en verde. `check-hardcoded-reviews` bajó de techo (sin hallazgos nuevos). Afiliados con placeholder `PEGAR_MELI_LA` hasta los links reales de Juan.
+
+Re-medir: pendiente de fijar fecha (recién publicada).
