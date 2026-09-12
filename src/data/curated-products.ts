@@ -71971,6 +71971,7 @@ Comprá el Fenix 7 Pro si hacés multideporte en serio (trekking, esquí, nataci
       { label: "Batería", value: "En modo smartwatch: hasta 40 días típico, ilimitada con carga solar en condiciones óptimas. En modo GPS puro: hasta 60 horas típico, hasta 260 horas con carga solar — según la web oficial de Garmin, MercadoLibre no publica esta cifra" },
       { label: "Compatibilidad", value: "Android, iOS" },
       { label: "Funciones", value: "Carga solar, Training Load Focus, Training Readiness — según Garmin oficial" },
+      { label: "Música y llamadas", value: "Sin almacenamiento interno para música ni parlante/micrófono para llamadas Bluetooth, según reviews internacionales — esas funciones quedan reservadas a la línea Fenix" },
       { label: "Accesorios incluidos", value: "Cable USB" },
       { label: "Vendedor", value: "Garmin Argentina en Mercado Libre, MercadoLíder Platinum" },
     ],
@@ -71994,6 +71995,10 @@ Comprá el Fenix 7 Pro si hacés multideporte en serio (trekking, esquí, nataci
       "Pantalla monocromática de baja resolución (176x176 px), sin mapas a color como el Forerunner 965 o el Fenix 7 Pro",
       "Solo {{reviews:MLA1992866306}} opiniones, la base de reseñas más chica de este cuarteto junto con el Fenix 7 Pro",
       "Sin GPS con mapas de navegación, a diferencia del Fenix 7 Pro",
+      "En una review detallada de 3 meses de uso real, la batería no llegó a los 40 días declarados: el máximo que consiguió con uso básico fue de unos 17 días, y usando la linterna 10-20 min por día tuvo que cargarlo cada 4-5 días — no pudimos confirmar esto con más fuentes",
+      "La carga solar no funciona en interiores (ni con luz artificial intensa) y pierde casi toda su utilidad en países con poco sol varios meses al año, o si se usa tapado con una campera, según la misma review",
+      "La linterna integrada, el diferencial más promocionado de este modelo, decepcionó en una review comparativa: menos brillo y menos autonomía (2,5 h a máximo brillo) que linternas de relojes chinos genéricos de una fracción del precio, según la misma fuente — no pudimos confirmar esto con más reviews",
+      "Sin el sensor de frecuencia cardíaca más nuevo que sí tiene la línea Fenix, según reviews internacionales — funciona bien para entrenar, pero es una limitación deliberada de gama, no técnica",
     ],
     articleBody: `## Qué es y para quién
 
@@ -72006,6 +72011,8 @@ Pantalla de 1,1" (27x27 mm) MIP monocromática de doble ventana, 176x176 px, caj
 ## La contra real
 
 Hay una duda real que no pudimos resolver del todo: la ficha de MercadoLibre declara que este reloj no tiene NFC, pero la especificación oficial de Garmin lista Garmin Pay (pagos sin contacto, que requiere NFC) como función estándar en toda la línea Instinct 3. No encontramos una fuente que confirme cuál de los dos datos es el correcto para esta unidad puntual, así que lo marcamos como pendiente de verificar antes de comprar si el pago sin contacto es algo que te importa. Las reseñas reales que hay son breves pero positivas: "excelente producto y a un precio accesible", dice una con 4 meses de antigüedad.
+
+Otro matiz importante sobre la batería y la carga solar, de una review con 3 meses de uso real: los 40 días declarados no se cumplieron — el máximo que consiguió con uso básico fue de unos 17 días, y usando la linterna apenas 10 a 20 minutos por día tuvo que cargarlo cada 4 o 5 días. La carga solar, además, no sirve en interiores ni con luz artificial intensa, y prácticamente no suma nada en países con poco sol durante varios meses del año, o si se usa con una campera que tape el reloj al aire libre. La propia linterna, uno de los diferenciales que más se promociona de este modelo, también decepcionó en esa misma review: menos brillo, menos alcance y solo 2,5 horas de autonomía a máximo brillo, comparada con linternas de relojes chinos genéricos de una fracción del precio. No encontramos más fuentes que confirmen o contradigan estos puntos puntuales, así que los tomamos como datos aislados, no como la norma — pero vale la pena tenerlos en cuenta si la linterna o la carga solar son la razón principal de la compra.
 
 ## Cómo se compara con las otras de esta guía
 
@@ -72030,6 +72037,14 @@ Comprá el Instinct 3 si hacés trekking o pasás mucho tiempo al aire libre y p
       {
         question: "¿Sirve para correr o es solo para trekking?",
         answer: "Sirve para las dos cosas, pero está pensado especialmente para actividades al aire libre prolongadas. Para running puro en la ciudad, el Forerunner 55 o el Forerunner 965 de esta guía son una opción más específica.",
+      },
+      {
+        question: "¿La carga solar realmente da batería ilimitada?",
+        answer: "Solo en condiciones óptimas de sol directo, según Garmin. En la práctica, una review de 3 meses de uso real no llegó a los 40 días declarados en modo smartwatch (consiguió unos 17 con uso básico), y la carga solar no funciona en interiores ni suma casi nada en épocas de poco sol o si el reloj queda tapado por una campera — dato aislado, no pudimos confirmarlo con más fuentes.",
+      },
+      {
+        question: "¿Tiene almacenamiento para música o parlante para llamadas?",
+        answer: "No, según reviews internacionales. Solo controla la música que suena en el celular por Bluetooth; no guarda música ni tiene parlante o micrófono para atender llamadas — esas funciones están reservadas a la línea Fenix de Garmin.",
       },
     ],
     structuredData: {
