@@ -2689,4 +2689,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "40",
     postedAt: "2026-09-12T10:31:00-03:00",
   },
+  {
+    title: 'Ventilador de Pared Industrial Liliana 32"',
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_847987-MLA99991840785_112025-O.webp",
+    affiliateUrl: "https://meli.la/2k3EP9t",
+    newPrice: "257.089",
+    oldPrice: "359.999",
+    offPct: "28",
+    postedAt: "2026-09-12T10:57:00-03:00",
+  },
 ];
