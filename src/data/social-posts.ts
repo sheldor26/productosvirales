@@ -2819,4 +2819,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "37",
     postedAt: "2026-09-13T12:00:00-03:00",
   },
+  {
+    title: "Volante Logitech G G923 True Force PS4/PS5/PC",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_676551-MLA95728382608_102025-O.webp",
+    affiliateUrl: "https://meli.la/2uGGSgF",
+    newPrice: "519.840",
+    oldPrice: "900.000",
+    offPct: "42",
+    postedAt: "2026-09-13T12:26:00-03:00",
+  },
 ];
