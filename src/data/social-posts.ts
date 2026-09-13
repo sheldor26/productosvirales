@@ -2799,4 +2799,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "21",
     postedAt: "2026-09-12T20:26:00-03:00",
   },
+  {
+    title: "Panel Calefactor Alta Gama Elegante Placa Caloventor Split",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_678185-MLA111507975219_052026-O.webp",
+    affiliateUrl: "https://meli.la/2BStHki",
+    newPrice: "61.740",
+    oldPrice: "74.990",
+    offPct: "17",
+    postedAt: "2026-09-13T11:59:00-03:00",
+  },
 ];
