@@ -2889,4 +2889,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "30",
     postedAt: "2026-09-13T16:00:00-03:00",
   },
+  {
+    title: "PC Gamer Ryzen 5 3400G 16GB/480GB SSD",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_893635-MLA110421217879_042026-O.webp",
+    affiliateUrl: "https://meli.la/1cSK83m",
+    newPrice: "514.099",
+    oldPrice: "1.199.805",
+    offPct: "57",
+    postedAt: "2026-09-13T16:27:00-03:00",
+  },
 ];
