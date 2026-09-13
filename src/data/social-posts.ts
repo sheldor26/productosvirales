@@ -2919,4 +2919,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "36",
     postedAt: "2026-09-13T17:20:00-03:00",
   },
+  {
+    title: 'PC Armada Ryzen 7 5700G + Kit Gamer + Monitor 24"',
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_912385-MLA113637068078_072026-O.webp",
+    affiliateUrl: "https://meli.la/2KfZi73",
+    newPrice: "1.445.298",
+    oldPrice: "2.182.558",
+    offPct: "33",
+    postedAt: "2026-09-13T17:46:00-03:00",
+  },
 ];
