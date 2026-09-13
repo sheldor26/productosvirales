@@ -327,6 +327,16 @@ negro — tienen precio de lista distinto).
   postea por encima de su mejor precio histórico — sospechar de este listado
   puntual la próxima vez que aparezca en /ofertas, y verificar SIEMPRE contra
   el link de afiliado final, no contra la vista previa con filtro de deal.
+- Cupón CYBERDESC (mensaje de afiliados del 2026-09-13, "Múltiples
+  Categorías", $20.000 OFF, mínima $250.000, tope $20.000, vencía ese mismo
+  día) — Juan avisó que ninguno de los 7 posts de la tanda de computación del
+  2026-09-13 lo usó pese a que todos superaban el mínimo. Se probó manualmente
+  en el carrito (HP Core Ultra 5 + HP OmniBook 3) DESPUÉS de publicados los 7:
+  el cupón SÍ es real y aplicó ($3.199.998 → $3.179.998). No se pudo corregir
+  los posts ya publicados (Threads no permite editar/borrar vía API). Lección:
+  cuando llega un mensaje de cupón "a nivel plataforma", cruzarlo contra CADA
+  producto de la tanda (agregar al carrito y probar el código) ANTES de armar
+  los posts, no asumir que aplica ni descartarlo sin probar.
 
 ## Cómo sumar una categoría nueva
 
