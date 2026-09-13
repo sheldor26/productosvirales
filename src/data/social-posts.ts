@@ -2829,4 +2829,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "42",
     postedAt: "2026-09-13T12:26:00-03:00",
   },
+  {
+    title: "Silla Gamer Ergonómica Somorini Reclinable Lumbar",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_911231-MLA107994938892_032026-O.webp",
+    affiliateUrl: "https://meli.la/2R4gevg",
+    newPrice: "169.450",
+    oldPrice: "230.890",
+    offPct: "26",
+    postedAt: "2026-09-13T12:52:00-03:00",
+  },
 ];
