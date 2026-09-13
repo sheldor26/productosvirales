@@ -2879,4 +2879,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "38",
     postedAt: "2026-09-13T15:33:00-03:00",
   },
+  {
+    title: "Notebook HP 15 AMD Ryzen 7 8GB/512GB",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_825957-MLA107343343293_022026-O.webp",
+    affiliateUrl: "https://meli.la/1Zx4bfe",
+    newPrice: "1.699.999",
+    oldPrice: "2.439.999",
+    offPct: "30",
+    postedAt: "2026-09-13T16:00:00-03:00",
+  },
 ];
