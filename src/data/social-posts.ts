@@ -2849,4 +2849,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "20",
     postedAt: "2026-09-13T13:18:00-03:00",
   },
+  {
+    title: 'Smart TV LG 43" UHD 4K con AI ThinQ',
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_953036-MLA110596173662_052026-O.webp",
+    affiliateUrl: "https://meli.la/1iH3eVh",
+    newPrice: "629.997",
+    oldPrice: "999.999",
+    offPct: "37",
+    postedAt: "2026-09-13T13:45:00-03:00",
+  },
 ];
