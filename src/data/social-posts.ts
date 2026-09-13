@@ -2869,4 +2869,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "26",
     postedAt: "2026-09-13T15:18:00-03:00",
   },
+  {
+    title: 'Notebook HP OmniBook 3 AMD Ryzen 5 8GB/512GB 14" 2K',
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_739601-MLA114370317037_072026-O.webp",
+    affiliateUrl: "https://meli.la/29k2WTh",
+    newPrice: "1.299.999",
+    oldPrice: "2.119.999",
+    offPct: "38",
+    postedAt: "2026-09-13T15:33:00-03:00",
+  },
 ];
