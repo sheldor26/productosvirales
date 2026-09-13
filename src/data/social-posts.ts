@@ -2859,4 +2859,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "37",
     postedAt: "2026-09-13T13:45:00-03:00",
   },
+  {
+    title: "Notebook HP 15 Intel Core Ultra 5 8GB/512GB Táctil",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_642850-MLA107389391447_022026-O.webp",
+    affiliateUrl: "https://meli.la/1qJJVik",
+    newPrice: "1.899.999",
+    oldPrice: "2.559.999",
+    offPct: "26",
+    postedAt: "2026-09-13T15:06:00-03:00",
+  },
 ];
