@@ -2899,4 +2899,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "57",
     postedAt: "2026-09-13T16:27:00-03:00",
   },
+  {
+    title: 'Notebook Gadnic 14" Intel Celeron 4GB/128GB',
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_753000-MLA106640794680_022026-O.webp",
+    affiliateUrl: "https://meli.la/1cEPvBn",
+    newPrice: "416.549",
+    oldPrice: "694.249",
+    offPct: "40",
+    postedAt: "2026-09-13T16:54:00-03:00",
+  },
 ];
