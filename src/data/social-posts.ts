@@ -2909,4 +2909,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "40",
     postedAt: "2026-09-13T16:54:00-03:00",
   },
+  {
+    title: "PC Gamer Ryzen 7 5700G 16GB/480GB RGB",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_877130-MLA105315029264_012026-O.webp",
+    affiliateUrl: "https://meli.la/23NLQnq",
+    newPrice: "756.639",
+    oldPrice: "1.191.984",
+    offPct: "36",
+    postedAt: "2026-09-13T17:20:00-03:00",
+  },
 ];
