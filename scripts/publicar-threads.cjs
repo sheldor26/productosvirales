@@ -39,6 +39,33 @@ function requireEnv(name) {
   return value;
 }
 
+// Guardrail duro: un post con imagen (post/carousel) es SIEMPRE la
+// promoción de un producto puntual, y el link de afiliado real tiene que
+// estar pegado en el cuerpo del texto (no "Link en la bio" — eso es solo
+// Instagram). Threads NO permite editar ni borrar un post ya publicado vía
+// API (confirmado 2026-09-13: DELETE devuelve "Application does not have
+// permission for this action", editar el texto devuelve error 100/33), así
+// que una vez publicado sin link no hay forma de arreglarlo por acá — hay
+// que frenarlo ANTES de publicar. Se rompió 39 veces seguidas confiando en
+// que el texto ya venía bien armado; ahora el script lo exige él mismo.
+function requireAffiliateLinkInText(text) {
+  // Acepta el link con o sin el prefijo https:// — Juan confirmó
+  // 2026-09-13 que el formato de siempre es "👉 meli.la/XXXXX" sin
+  // protocolo, Threads lo auto-linkea igual.
+  const hasLink = /(?:https:\/\/)?meli\.la\/\S+/i.test(text || "");
+  if (!hasLink) {
+    console.error(
+      "BLOQUEADO: el texto del post no tiene un link meli.la/... pegado en el cuerpo.\n" +
+      "Todo post con imagen (post/carousel) es promoción de un producto y TIENE que llevar\n" +
+      "el link de afiliado real en el texto (no alcanza con un emoji tipo 👇).\n" +
+      "Threads no permite editar ni borrar posts ya publicados vía API — si esto se publica\n" +
+      "sin link, no hay forma de arreglarlo después. Agregá el link al final del copy y\n" +
+      "volvé a correr el comando."
+    );
+    process.exit(1);
+  }
+}
+
 async function uploadImageToBlob(filePath) {
   const token = requireEnv("BLOB_READ_WRITE_TOKEN");
   const filename = `threads-posts/${Date.now()}-${path.basename(filePath)}`;
@@ -265,8 +292,10 @@ async function main() {
     }
     await publishText({ text: arg1, topicTag: arg2, threadsUserId, accessToken });
   } else if (tipo === "carousel") {
+    requireAffiliateLinkInText(arg2);
     await publishCarousel({ imagePathsArg: arg1, text: arg2, topicTag: arg3, threadsUserId, accessToken });
   } else {
+    requireAffiliateLinkInText(arg2);
     await publishImage({ imagePath: arg1, text: arg2, topicTag: arg3, threadsUserId, accessToken });
   }
 }
