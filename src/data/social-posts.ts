@@ -2809,4 +2809,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "17",
     postedAt: "2026-09-13T11:59:00-03:00",
   },
+  {
+    title: "Aire Acondicionado Philco Inverter 3800W/3268FG",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_987855-MLA111945222829_052026-O.webp",
+    affiliateUrl: "https://meli.la/1eZ4zaF",
+    newPrice: "869.999",
+    oldPrice: "1.399.999",
+    offPct: "37",
+    postedAt: "2026-09-13T12:00:00-03:00",
+  },
 ];
