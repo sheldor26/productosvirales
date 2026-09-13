@@ -2867,6 +2867,6 @@ export const socialPosts: SocialPost[] = [
     newPrice: "1.899.999",
     oldPrice: "2.559.999",
     offPct: "26",
-    postedAt: "2026-09-13T15:06:00-03:00",
+    postedAt: "2026-09-13T15:18:00-03:00",
   },
 ];
