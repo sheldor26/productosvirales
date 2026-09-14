@@ -2959,4 +2959,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "27",
     postedAt: "2026-09-13T22:30:00-03:00",
   },
+  {
+    title: 'Smart TV TCL 55" 55V6C-F 4K',
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_900058-MLA108865608835_032026-O.webp",
+    affiliateUrl: "https://meli.la/33tSwiC",
+    newPrice: "659.999",
+    oldPrice: "1.099.999",
+    offPct: "40",
+    postedAt: "2026-09-14T08:37:00-03:00",
+  },
 ];
