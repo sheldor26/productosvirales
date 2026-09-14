@@ -2969,4 +2969,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "40",
     postedAt: "2026-09-14T08:37:00-03:00",
   },
+  {
+    title: 'Smart TV TCL QLED 50" 50S5K',
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_638480-MLA115203929179_072026-O.webp",
+    affiliateUrl: "https://meli.la/2aStFPn",
+    newPrice: "592.077",
+    oldPrice: "999.999",
+    offPct: "40",
+    postedAt: "2026-09-14T09:07:00-03:00",
+  },
 ];
