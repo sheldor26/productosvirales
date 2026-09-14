@@ -3059,4 +3059,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "46",
     postedAt: "2026-09-14T16:04:00-03:00",
   },
+  {
+    title: "Juego EA Sports FC 26 (Físico) PS5",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_973506-MLA93958254733_102025-O.webp",
+    affiliateUrl: "https://meli.la/2CVnr9g",
+    newPrice: "50.159",
+    oldPrice: "75.999",
+    offPct: "34",
+    postedAt: "2026-09-14T18:32:00-03:00",
+  },
 ];
