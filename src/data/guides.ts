@@ -15993,6 +15993,10 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
         content: "Si sos fan de los gourmands tipo Kayali: Yara Elixir, Her Confession, Khamrah Qahwa."
       },
       {
+        type: "p",
+        content: "¿Viste un frasco y no te acordás el nombre? Tenemos [perfumes árabes por color del frasco](/guias/perfumes-arabes-por-color) para identificarlo rápido. Y si sos nueva en el nicho, arrancá por [nuestra guía para empezar con perfumes árabes](/guias/perfumes-arabes)."
+      },
+      {
         type: "h2",
         title: "Dónde comprar sin que te vendan falsificado"
       },
@@ -17805,6 +17809,10 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
           "**Probá con un decant primero**: si el dupe es caro o nunca lo oliste, un decant de 5-10ml te permite probar sin comprometerte al frasco grande.",
           "**Comprá a vendedor confiable**: las falsificaciones del dupe son frecuentes: especialmente Club de Nuit y Asad Intense. Las señales completas para identificar productos auténticos están en [perfumes árabes originales](/guias/perfumes-arabes-originales)."
         ]
+      },
+      {
+        type: "p",
+        content: "¿Viste un frasco y no sabés cuál dupe es? Tenemos [perfumes árabes por color del frasco](/guias/perfumes-arabes-por-color) para identificarlo rápido. Y si recién arrancás en el nicho, [nuestra guía para empezar con perfumes árabes](/guias/perfumes-arabes) explica marcas, precios y cómo elegir el primero."
       },
       {
         type: "h2",
@@ -22580,7 +22588,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
 
       { type: "h2", title: `Cómo elegir tu ventilador de techo`, id: "como-elegir" },
       { type: "h3", title: `1. El formato: retráctil, clásico o industrial` },
-      { type: "p", content: `El **retráctil** es lámpara y ventilador a la vez: estética moderna, luz LED regulable y control remoto, para living y dormitorio. El **clásico de palas metálicas** es caudal bruto: el Liliana de 1,4 m es imbatible en cantidad de aire, aunque hoy ya no es la opción barata que supo ser. El **industrial** es para espacios abiertos: quincho, galpón, taller, y suele ser lo más barato porque no trae luz ni electrónica.` },
+      { type: "p", content: `El **retráctil** es lámpara y ventilador a la vez: estética moderna, luz LED regulable y control remoto, para living y dormitorio. El **clásico de palas metálicas** es caudal bruto: el Liliana de 1,4 m es imbatible en cantidad de aire, aunque hoy ya no es la opción barata que supo ser. El **industrial** es para espacios abiertos: quincho, galpón, taller, y suele ser lo más barato porque no trae luz ni electrónica. Si alquilás y no podés instalar nada en el techo, o necesitás mover el aire de ambiente en ambiente, un [ventilador de pie](/guias/climatizacion/ventilador-de-pie) resuelve sin obra y a un precio bastante más bajo.` },
       { type: "h3", title: `2. El motor: AC o DC` },
       { type: "p", content: `Los motores **AC** son el estándar: robustos y baratos. Los **DC** consumen menos de la mitad, son más silenciosos en velocidades bajas y suman más control fino. Si el ventilador va a un dormitorio y sos sensible al ruido, el DC vale la diferencia, y hoy además no cuesta más: el Iluma de esta guía es DC y sale menos que varios AC. Ojo con un detalle: **muchos retráctiles no declaran el tipo de motor**. El [Novohome](/producto/ventilador-retractil-de-techo-novohome-luz-calida-fria-neutra-6-velocidades-4-as-mla54423759), por ejemplo, no lo dice en ninguna parte de su ficha, aunque sí declara 20 dB en velocidad mínima, que es el dato que en la práctica te importa. Si el tipo de motor es un requisito para vos, quedate con el que lo pone por escrito.` },
       { type: "h3", title: `3. Los dos detalles eléctricos que nadie avisa` },
