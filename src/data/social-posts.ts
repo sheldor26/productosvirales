@@ -3009,4 +3009,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "31",
     postedAt: "2026-09-14T10:25:00-03:00",
   },
+  {
+    title: "Samsung Galaxy A17 128GB/4GB",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_907031-MLA99504284188_112025-O.webp",
+    affiliateUrl: "https://meli.la/2jUPUgd",
+    newPrice: "352.999",
+    oldPrice: "469.999",
+    offPct: "24",
+    postedAt: "2026-09-14T10:53:00-03:00",
+  },
 ];
