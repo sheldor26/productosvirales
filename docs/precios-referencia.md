@@ -340,6 +340,15 @@ negro — tienen precio de lista distinto).
   cuando llega un mensaje de cupón "a nivel plataforma", cruzarlo contra CADA
   producto de la tanda (agregar al carrito y probar el código) ANTES de armar
   los posts, no asumir que aplica ni descartarlo sin probar.
+- PlayStation 5 825GB Standard Edition (meli.la/2WC6MQu, MLA21652932) se
+  sourceó el 2026-09-13 18:46 a $1.173.000 (vendedor no oficial IMPORTADOR1,
+  "ÚLTIMAS 2 UNIDADES"). Al reverificar antes de publicar (22:33, ~4hs
+  después) el vendedor había cambiado a UPDATETECH_ y el precio saltó a
+  $1.770.000 (sin descuento, "3 opciones desde $1.770.000") — el stock
+  barato se agotó en el medio. No se publicó. Confirma que este tipo de
+  oferta de vendedor chico con poco stock puede desaparecer en pocas horas;
+  reverificar SIEMPRE en vivo justo antes de publicar, no confiar en el
+  sourcing inicial por más de 1-2hs.
 
 ## Cómo sumar una categoría nueva
 
