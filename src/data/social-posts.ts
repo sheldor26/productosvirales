@@ -2939,4 +2939,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "43",
     postedAt: "2026-09-13T18:48:00-03:00",
   },
+  {
+    title: 'Smart TV Noblex 43" Dv43x7180',
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_629031-MLA104651778717_012026-O.webp",
+    affiliateUrl: "https://meli.la/2qvXEmu",
+    newPrice: "449.999",
+    oldPrice: "724.999",
+    offPct: "37",
+    postedAt: "2026-09-13T22:03:00-03:00",
+  },
 ];
