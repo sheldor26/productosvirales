@@ -7,6 +7,15 @@
 > 🔴 = se quedo sin stock (el link de afiliado apunta a una pagina pausada).
 > Entradas nuevas arriba.
 
+## 2026-09-14
+
+- 🟢 VOLVIO EL STOCK — **MLAU2983186467** Perfume De Mujer Lattafa Yara Edp 100 Ml Arabe Original
+  - ML: https://www.mercadolibre.com.ar/perfume-de-mujer-lattafa-yara-edp-100-ml-arabe-original/up/MLAU2983186467
+  - Sitio: https://productosvirales.com.ar/producto/MLAU2983186467
+- 🟢 VOLVIO EL STOCK — **MLA43536904** Ventilador De Techo Peabody Pe-vtrdc425b 42 Retractil Cantidad de aspas 3 Estructura Blanco Aspas Transparente Diámetro 1.067 m Frecuencia 50 Hz Material de las aspas Acrílico
+  - ML: https://www.mercadolibre.com.ar/ventilador-de-techo-peabody-pe-vtrdc425b-42-retractil-cantidad-de-aspas-3-estructura-blanco-aspas-transparente-diametro-1067-m-frecuencia-50-hz-material-de-las-aspas-acrilico/p/MLA43536904
+  - Sitio: https://productosvirales.com.ar/producto/MLA43536904
+
 ## 2026-09-09
 
 - 🟢 VOLVIO EL STOCK — **MLA29364436** Cámara Deportiva DJI Osmo Action 4

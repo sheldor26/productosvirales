@@ -6,6 +6,36 @@
 > chequearlos en MercadoLibre. Si son reales, avisar para aplicarlos a mano.
 > Entradas nuevas arriba.
 
+## 2026-09-14
+
+- **MLA23686313** — Horno Eléctrico Grill Atma Capacidad 40 Litros 2 Anafes: $231.170 → $499.999 (+116%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA23686313
+  - Sitio: https://productosvirales.com.ar/producto/MLA23686313
+- **MLA8732921** — Auriculares Gamer Con Cable HyperX Cloud HX-HSCA Black y Red: $91.379 → $779.403 (+753%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA8732921
+  - Sitio: https://productosvirales.com.ar/producto/MLA8732921
+- **MLA20010900** — Horno Electrico Atma 91HGA5021N Grill 50lts 200°C Negro: $499.999 → $239.899 (-52%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA20010900
+  - Sitio: https://productosvirales.com.ar/producto/MLA20010900
+- **MLA16132352** — Cámara Deportiva Akaso V50X: $176.899 → $599.999 (+239%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA16132352
+  - Sitio: https://productosvirales.com.ar/producto/MLA16132352
+- **MLA15244160** — Multiprocesadora Ultracomb 600w Pc-6800 Negro Bold de Vidrio Capacidad 1,2Lts: $82.999 → $199.999 (+141%)
+  - ML: https://www.mercadolibre.com.ar/multiprocesadora-ultracomb-600w-pc-6800-negro-bold-de-vidrio-capacidad-12lts/p/MLA15244160
+  - Sitio: https://productosvirales.com.ar/producto/MLA15244160
+- **MLA28103250** — Humidificador Vaporizador Ambiente Ultrasónico Daewoo DHU335 Blanco y Azul: $149.950 → $447.600 (+198%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA28103250
+  - Sitio: https://productosvirales.com.ar/producto/MLA28103250
+- **MLA20664028** — Alberca Inflable Intex Redonda para Niños de 1.47 m con 3 Aros: $47.000 → $22.024 (-53%)
+  - ML: https://www.mercadolibre.com.ar/intex-alberca-inflable-infantil-3-aros-alberca-colores/p/MLA20664028
+  - Sitio: https://productosvirales.com.ar/producto/MLA20664028
+- **MLA26789578** — Almohada Masajeadora Eléctrica para Cuello Inalámbrica con Calor y Vibración, Recargable USB: $59.999 → $27.990 (-53%)
+  - ML: https://www.mercadolibre.com.ar/almohada-masajeadora-electrica-para-cuello-inalambrica-con-calor-y-vibracion-recargable-usb/p/MLA26789578
+  - Sitio: https://productosvirales.com.ar/producto/MLA26789578
+- **MLA62609709** — Bloques Magnéticos Cubos Para Armar Estilo Minecraft 60 Piezas: $27.150 → $89.999 (+231%)
+  - ML: https://www.mercadolibre.com.ar/bloques-magneticos-cubos-para-armar-de-construccion-estilo-minecraft-para-ninos-60-piezas-didacticos-creativo-ilimitado-material-seguro-y-resistente-no-toxicos-bordes-suaves-levys-bazar/p/MLA62609709
+  - Sitio: https://productosvirales.com.ar/producto/MLA62609709
+
 ## 2026-09-11
 
 - **MLA16132352** — Cámara Deportiva Akaso V50X: $176.899 → $599.999 (+239%)
