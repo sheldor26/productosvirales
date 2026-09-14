@@ -2949,4 +2949,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "37",
     postedAt: "2026-09-13T22:03:00-03:00",
   },
+  {
+    title: 'Smart TV TCL QLED 55" 55P7L 4K',
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_656292-MLA114244890400_082026-O.webp",
+    affiliateUrl: "https://meli.la/2Vf5yaA",
+    newPrice: "799.999",
+    oldPrice: "1.099.999",
+    offPct: "27",
+    postedAt: "2026-09-13T22:30:00-03:00",
+  },
 ];
