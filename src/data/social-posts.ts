@@ -3049,4 +3049,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "41",
     postedAt: "2026-09-14T15:36:00-03:00",
   },
+  {
+    title: 'Smart TV Motorola 55" 4K UHD Google TV',
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_627835-MLA101662948687_122025-O.webp",
+    affiliateUrl: "https://meli.la/1Rt8XhN",
+    newPrice: "749.999",
+    oldPrice: "1.407.649",
+    offPct: "46",
+    postedAt: "2026-09-14T16:04:00-03:00",
+  },
 ];
