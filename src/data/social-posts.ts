@@ -3029,4 +3029,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "60",
     postedAt: "2026-09-14T12:11:00-03:00",
   },
+  {
+    title: "Juego Elden Ring PS4",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_725418-MLA99467871458_112025-O.webp",
+    affiliateUrl: "https://meli.la/2EQc7Vt",
+    newPrice: "70.809",
+    oldPrice: "107.999",
+    offPct: "34",
+    postedAt: "2026-09-14T13:20:00-03:00",
+  },
 ];
