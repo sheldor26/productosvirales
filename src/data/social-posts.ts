@@ -2989,4 +2989,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "22",
     postedAt: "2026-09-14T09:33:00-03:00",
   },
+  {
+    title: 'Super Mario Party Jamboree (Físico) — Nintendo Switch',
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_819782-MLA105807567736_022026-O.webp",
+    affiliateUrl: "https://meli.la/2CFkDwQ",
+    newPrice: "79.999",
+    oldPrice: "119.999",
+    offPct: "33",
+    postedAt: "2026-09-14T09:59:00-03:00",
+  },
 ];
