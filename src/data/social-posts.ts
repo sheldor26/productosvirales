@@ -3019,4 +3019,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "24",
     postedAt: "2026-09-14T10:53:00-03:00",
   },
+  {
+    title: 'Smart TV Philco 58" Android TV 4K',
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_912753-MLA109922923667_042026-O.webp",
+    affiliateUrl: "https://meli.la/12thCq5",
+    newPrice: "799.000",
+    oldPrice: "1.999.999",
+    offPct: "60",
+    postedAt: "2026-09-14T12:11:00-03:00",
+  },
 ];
