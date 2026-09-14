@@ -2999,4 +2999,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "33",
     postedAt: "2026-09-14T09:59:00-03:00",
   },
+  {
+    title: "Auriculares Gamer Noga A930BT Dual Bluetooth",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_600250-MLA100690339388_122025-O.webp",
+    affiliateUrl: "https://meli.la/2mVioUQ",
+    newPrice: "52.835",
+    oldPrice: "76.999",
+    offPct: "31",
+    postedAt: "2026-09-14T10:25:00-03:00",
+  },
 ];
