@@ -1,5 +1,7 @@
+import Link from "next/link";
 import type { Guide, LabelColor } from "@/lib/types";
 import { getProductById } from "@/lib/products";
+import { productHref } from "@/lib/product-url";
 import { formatPrice } from "@/lib/utils";
 import { parseInlineLinks } from "@/lib/parse-inline-links";
 import { Stars } from "./Stars";
@@ -84,12 +86,11 @@ export function QuickPicks({ picks }: QuickPicksProps) {
               >
                 {p.label}
               </span>
-              <a
-                href={p.product.affiliateUrl}
-                target="_blank"
-                rel="sponsored nofollow noopener"
+              <Link
+                href={productHref(p.product)}
+                prefetch={false}
                 data-cta-location="quickpick-image"
-                aria-label={`Ver ${p.product.title} en MercadoLibre`}
+                aria-label={`Ver la ficha de ${p.product.title}`}
               >
                 {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img
@@ -99,23 +100,30 @@ export function QuickPicks({ picks }: QuickPicksProps) {
                   style={{ backgroundColor: "var(--bg-secondary)" }}
                   loading="lazy"
                 />
-              </a>
+              </Link>
               <h4
                 className="text-[14px] font-semibold text-[var(--text-primary)] leading-tight line-clamp-2"
                 style={{ fontFamily: "var(--font-display)" }}
               >
-                <a
-                  href={p.product.affiliateUrl}
-                  target="_blank"
-                  rel="sponsored nofollow noopener"
+                <Link
+                  href={productHref(p.product)}
+                  prefetch={false}
                   data-cta-location="quickpick-title"
                   className="hover:underline underline-offset-2"
                 >
                   {p.product.title}
-                </a>
+                </Link>
               </h4>
               {p.product.rating ? (
-                <div className="flex items-center gap-1.5 text-[11px] text-[var(--text-muted)]">
+                // En ProductCard la fila de rating SI es link; acá no lo era.
+                // La misma señal visual se comportaba distinto en dos bloques
+                // de la misma guía.
+                <Link
+                  href={productHref(p.product)}
+                  prefetch={false}
+                  data-cta-location="quickpick-rating"
+                  className="flex w-fit items-center gap-1.5 text-[11px] text-[var(--text-muted)]"
+                >
                   <Stars rating={p.product.rating} size={12} />
                   <span className="font-medium text-[var(--text-secondary)]">
                     {p.product.rating.toFixed(1)}
@@ -123,7 +131,7 @@ export function QuickPicks({ picks }: QuickPicksProps) {
                   {p.product.reviewCount ? (
                     <span>· {p.product.reviewCount.toLocaleString("es-AR")}</span>
                   ) : null}
-                </div>
+                </Link>
               ) : null}
               <p className="flex-1 text-xs text-[var(--text-secondary)] leading-snug line-clamp-2">
                 {parseInlineLinks(p.tagline)}

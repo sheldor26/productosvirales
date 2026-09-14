@@ -1,7 +1,8 @@
 import { Fragment } from "react";
+import type { ReactNode } from "react";
 import Link from "next/link";
 import Image from "next/image";
-import { ExternalLink, Target, Award, Tag } from "lucide-react";
+import { ExternalLink, Target, Award, Tag, TrendingDown } from "lucide-react";
 import { parseInlineLinks } from "@/lib/parse-inline-links";
 import type { Guide, GuideSection } from "@/lib/types";
 import { ArticleHeader } from "./ArticleHeader";
@@ -12,19 +13,29 @@ import { ProductCard } from "./ProductCard";
 import { QuickPicks } from "./QuickPicks";
 import { StickyBuyBar } from "./StickyBuyBar";
 import { RelatedGuides } from "./RelatedGuides";
-import { nextStepLinksForGuide, categoryLabel } from "@/lib/related-guides";
+import { Badge } from "@/components/ui/Badge";
+import { nextStepLinksForGuide, nextStepHeadingForGuide } from "@/lib/related-guides";
 import { ensureSectionIds, getTocItems } from "@/lib/slug";
 import { getProductById } from "@/lib/products";
 import { productHref } from "@/lib/product-url";
 import { formatPrice } from "@/lib/utils";
 import { injectLivePrices } from "@/lib/price-token";
+import { analyzePriceHistory } from "@/lib/price-history";
 import { Stars } from "./Stars";
 
 interface GuideRendererProps {
   guide: Guide;
 }
 
-function SectionRenderer({ section }: { section: GuideSection }) {
+function SectionRenderer({
+  section,
+  nextProductMlaId,
+}: {
+  section: GuideSection;
+  /** `h3` only: id del producto de la `product-card` que va inmediatamente
+   * debajo. Si está, el título del H3 pasa a linkear a esa ficha. */
+  nextProductMlaId?: string;
+}) {
   // El titulo de una seccion puede llevar tokens igual que el contenido
   // ("AP152 — La mas barata ({{precio:MLA61505857}})"). El contenido los
   // resuelve via parseInlineLinks; el titulo no pasaba por ninguna superficie y
@@ -45,6 +56,22 @@ function SectionRenderer({ section }: { section: GuideSection }) {
       );
 
     case "h3": {
+      // El mismo nombre de producto aparecía dos veces seguidas: acá en grande
+      // y sin link, y abajo en la tarjeta con link. Ahora los dos van a la ficha.
+      const h3Product = nextProductMlaId ? getProductById(nextProductMlaId) : undefined;
+      const h3Title = (text: ReactNode) =>
+        h3Product ? (
+          <Link
+            href={productHref(h3Product)}
+            prefetch={false}
+            data-cta-location="h3-producto"
+            className="hover:underline underline-offset-2 decoration-1"
+          >
+            {text}
+          </Link>
+        ) : (
+          text
+        );
       const numberMatch = section.bigNumber ? title?.match(/^(\d+)\.\s*(.+)/) : null;
       if (numberMatch) {
         const [, num, rest] = numberMatch;
@@ -64,7 +91,7 @@ function SectionRenderer({ section }: { section: GuideSection }) {
               className="text-xl md:text-[22px] font-semibold text-[var(--text-primary)]"
               style={{ fontFamily: "var(--font-display)" }}
             >
-              {rest}
+              {h3Title(rest)}
             </span>
           </h3>
         );
@@ -75,7 +102,7 @@ function SectionRenderer({ section }: { section: GuideSection }) {
           className="text-xl md:text-[22px] font-semibold text-[var(--text-primary)] mt-10 mb-3 scroll-mt-20 leading-tight"
           style={{ fontFamily: "var(--font-display)" }}
         >
-          {title}
+          {h3Title(title)}
         </h3>
       );
     }
@@ -114,19 +141,31 @@ function SectionRenderer({ section }: { section: GuideSection }) {
                   key={i}
                   className={i % 2 === 1 ? "bg-[var(--bg-secondary)]/40" : ""}
                 >
-                  {row.map((cell, j) => (
-                    <td
-                      key={j}
-                      className={
-                        "px-4 py-3 text-[var(--text-secondary)] border-t border-[var(--border)]" +
-                        (j === 0
-                          ? ` sticky left-0 z-10 shadow-[2px_0_4px_-2px_rgba(0,0,0,0.12)] ${i % 2 === 1 ? "bg-[var(--bg-secondary)]" : "bg-[var(--bg-primary)]"}`
-                          : "")
-                      }
-                    >
-                      {parseInlineLinks(cell)}
-                    </td>
-                  ))}
+                  {row.map((cell, j) => {
+                    // Solo la primera celda, solo si es EXACTAMENTE un link y no
+                    // trae tokens de precio: si no, se anidarian anclas.
+                    const soloLink =
+                      j === 0 && !cell.includes("{{")
+                        ? cell.trim().match(/^\[([^\]]+)\]\(([^)]+)\)$/)
+                        : null;
+                    return (
+                      <td
+                        key={j}
+                        className={
+                          "px-4 py-3 text-[var(--text-secondary)] border-t border-[var(--border)]" +
+                          (j === 0
+                            ? ` sticky left-0 z-10 shadow-[2px_0_4px_-2px_rgba(0,0,0,0.12)] ${i % 2 === 1 ? "bg-[var(--bg-secondary)]" : "bg-[var(--bg-primary)]"}`
+                            : "")
+                        }
+                      >
+                        {soloLink ? (
+                          <TableCellLink anchor={soloLink[1]} href={soloLink[2]} />
+                        ) : (
+                          parseInlineLinks(cell)
+                        )}
+                      </td>
+                    );
+                  })}
                 </tr>
               ))}
             </tbody>
@@ -397,7 +436,7 @@ function SectionRenderer({ section }: { section: GuideSection }) {
       const p = palette[variant];
       const headerText = section.calloutTitle || p.label;
       const dateText = section.date
-        ? ` · ${new Date(section.date).toLocaleDateString("es-AR", { day: "numeric", month: "long", year: "numeric" })}`
+        ? ` · ${new Date(section.date).toLocaleDateString("es-AR", { day: "numeric", month: "long", year: "numeric", timeZone: "UTC" })}`
         : "";
       return (
         <aside
@@ -470,6 +509,36 @@ function SectionRenderer({ section }: { section: GuideSection }) {
   }
 }
 
+/**
+ * Link de la primera celda de una tabla comparativa. En las 200 tablas del sitio
+ * esa celda es exactamente un link markdown al modelo, pero el area tocable era
+ * solo el texto del ancla (~20px de alto) dentro de una celda de 44px+: casi
+ * toda la celda quedaba muerta. Como bloque con los paddings invertidos, el
+ * link ocupa la celda entera.
+ */
+function TableCellLink({ anchor, href }: { anchor: string; href: string }) {
+  const cls =
+    "block -mx-4 -my-3 px-4 py-3 text-[var(--editorial-accent,currentColor)] underline underline-offset-2 decoration-1 hover:opacity-70 transition-opacity";
+  if (href.startsWith("/")) {
+    return (
+      <Link href={href} prefetch={false} className={cls}>
+        {anchor}
+      </Link>
+    );
+  }
+  return (
+    <a
+      href={href}
+      target="_blank"
+      rel="nofollow sponsored noopener"
+      data-cta-location="tabla-modelo"
+      className={cls}
+    >
+      {anchor}
+    </a>
+  );
+}
+
 /** Caja compacta de recomendación above-the-fold (antes de la intro). */
 function AboveFoldCta({ productMlaId }: { productMlaId: string }) {
   const product = getProductById(productMlaId);
@@ -477,6 +546,7 @@ function AboveFoldCta({ productMlaId }: { productMlaId: string }) {
   const priceText = product.price
     ? formatPrice(product.price, product.currency)
     : null;
+  const bestPrice = analyzePriceHistory(product.id, product.price)?.verdict.tone === "good";
   return (
     <div
       className="not-prose my-6 flex flex-wrap items-center gap-4 rounded-[var(--radius-card)] border p-4"
@@ -486,23 +556,42 @@ function AboveFoldCta({ productMlaId }: { productMlaId: string }) {
         <p className="text-[12px] font-semibold text-[var(--text-secondary)]">
           Nuestra recomendación
         </p>
-        <p
-          className="text-[16px] font-extrabold text-[var(--text-primary)] leading-tight"
-          style={{ fontFamily: "var(--font-display)" }}
+        {/* Titulo y estrellas linkean a la ficha: la caja esta arriba del fold
+            y era, salvo el boton, entera zona muerta. */}
+        <Link
+          href={productHref(product)}
+          prefetch={false}
+          data-cta-location="above-fold-producto"
+          className="block hover:opacity-80 transition-opacity"
         >
-          {product.title}
-        </p>
-        {product.rating ? (
-          <div className="mt-0.5 flex items-center gap-1.5 text-[12px] text-[var(--text-muted)]">
-            <Stars rating={product.rating} size={12} />
-            <span className="font-medium text-[var(--text-secondary)]">
-              {product.rating.toFixed(1)}
-            </span>
-            {product.reviewCount ? (
-              <span>· {product.reviewCount.toLocaleString("es-AR")} calificaciones</span>
-            ) : null}
-          </div>
-        ) : null}
+          <p
+            className="text-[16px] font-extrabold text-[var(--text-primary)] leading-tight"
+            style={{ fontFamily: "var(--font-display)" }}
+          >
+            {product.title}
+          </p>
+          {product.rating ? (
+            <div className="mt-0.5 flex items-center gap-1.5 text-[12px] text-[var(--text-muted)]">
+              <Stars rating={product.rating} size={12} />
+              <span className="font-medium text-[var(--text-secondary)]">
+                {product.rating.toFixed(1)}
+              </span>
+              {product.reviewCount ? (
+                <span>· {product.reviewCount.toLocaleString("es-AR")} calificaciones</span>
+              ) : null}
+            </div>
+          ) : null}
+        </Link>
+        {bestPrice && (
+          <Badge
+            variant="price-low"
+            className="mt-1"
+            title="El precio de hoy es el más bajo que le registramos a este producto."
+          >
+            <TrendingDown size={10} />
+            Mínimo histórico
+          </Badge>
+        )}
       </div>
       {product.priceStatus === "out_of_stock" ? (
         <Link
@@ -710,15 +799,44 @@ export function GuideRenderer({ guide: rawGuide }: GuideRendererProps) {
           </aside>
 
           {/* Sections */}
-          {bodySections.map((section, i) => (
-            <Fragment key={i}>
-              <SectionRenderer section={section} />
-              {/* Repetir CTA al producto #1 tras el veredicto */}
-              {section.type === "verdict" && topPickId && (
-                <VerdictCta productMlaId={topPickId} />
-              )}
-            </Fragment>
-          ))}
+          {bodySections.map((section, i) => {
+            const next = bodySections[i + 1];
+            const nextProductMlaId =
+              section.type === "h3" && next?.type === "product-card"
+                ? next.productMlaId
+                : undefined;
+            return (
+              <Fragment key={i}>
+                <SectionRenderer section={section} nextProductMlaId={nextProductMlaId} />
+                {/* Repetir CTA al producto #1 tras el veredicto */}
+                {section.type === "verdict" && topPickId && (
+                  <VerdictCta productMlaId={topPickId} />
+                )}
+              </Fragment>
+            );
+          })}
+
+      {/* Enlazado interno: va ANTES del FAQ. Con 39% de profundidad de scroll
+          promedio, todo lo que vive después del FAQ no lo ve casi nadie. */}
+      {guide.internalLinks && guide.internalLinks.length > 0 && (
+        <aside className="mt-10 p-5 rounded-[6px] bg-[var(--bg-secondary)] border border-[var(--border)]">
+          <p className="font-semibold text-[var(--text-primary)] mb-3">
+            {guide.internalLinksTitle || "Guías relacionadas"}
+          </p>
+          <div className="flex flex-wrap gap-2">
+            {guide.internalLinks.map((link) => (
+              <Link
+                key={link.href}
+                href={link.href}
+                className="inline-block px-3 py-1.5 text-sm rounded-full bg-[var(--bg-primary)] border border-[var(--border)] hover:bg-[var(--bg-secondary)] transition-colors"
+                style={{ color: "var(--editorial-accent)" }}
+              >
+                {injectLivePrices(link.label)}
+              </Link>
+            ))}
+          </div>
+        </aside>
+      )}
 
       {/* FAQ */}
       {guide.faq && guide.faq.length > 0 && (
@@ -751,31 +869,10 @@ export function GuideRenderer({ guide: rawGuide }: GuideRendererProps) {
         </div>
       )}
 
-      {/* Legacy internal links — kept as subtle pill row above the new footer */}
-      {guide.internalLinks && guide.internalLinks.length > 0 && (
-        <aside className="mt-10 p-5 rounded-[6px] bg-[var(--bg-secondary)] border border-[var(--border)]">
-          <p className="font-semibold text-[var(--text-primary)] mb-3">
-            {guide.internalLinksTitle || "Guías relacionadas"}
-          </p>
-          <div className="flex flex-wrap gap-2">
-            {guide.internalLinks.map((link) => (
-              <Link
-                key={link.href}
-                href={link.href}
-                className="inline-block px-3 py-1.5 text-sm rounded-full bg-[var(--bg-primary)] border border-[var(--border)] hover:bg-[var(--bg-secondary)] transition-colors"
-                style={{ color: "var(--editorial-accent)" }}
-              >
-                {injectLivePrices(link.label)}
-              </Link>
-            ))}
-          </div>
-        </aside>
-      )}
-
       <RelatedGuides
         className="mt-10"
-        heading={`Más sobre ${categoryLabel(guide.category)}`}
-        subtitle="Seguí explorando esta categoría"
+        heading={nextStepHeadingForGuide(guide)}
+        subtitle="Seguí explorando"
         links={nextStepLinksForGuide(guide)}
       />
 

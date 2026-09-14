@@ -78,14 +78,20 @@ export function Header() {
         <div className="max-w-[1200px] mx-auto px-4 md:px-6">
           <div className="flex items-center justify-between h-14 md:h-16">
             {/* Mobile: hamburger */}
+            {/* El icono solo tiene tasa de descubrimiento mucho menor que
+                icono + etiqueta, y en mobile TODA la navegacion del sitio vive
+                detras de este boton. */}
             <button
-              className="md:hidden p-2 -ml-2 text-[var(--text-primary)] cursor-pointer"
+              className="md:hidden flex items-center gap-1 p-2 -ml-2 text-[var(--text-primary)] cursor-pointer"
               onClick={() => setMobileNavOpen(true)}
               aria-label="Menú"
               aria-expanded={mobileNavOpen}
               aria-haspopup="dialog"
             >
-              <Menu size={22} />
+              <Menu size={22} aria-hidden="true" />
+              {/* Abajo de 360px (telefonos viejos) vuelve a ser solo icono para
+                  no apretar el logo. El aria-label del boton cubre ese caso. */}
+              <span className="max-[359px]:hidden text-[13px] font-semibold">Menú</span>
             </button>
 
             {/* Logo */}

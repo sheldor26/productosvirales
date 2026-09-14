@@ -874,6 +874,87 @@ def cmd_history(args):
 # ---------------------------------------------------------------------------
 # CLI
 # ---------------------------------------------------------------------------
+# ---------------------------------------------------------------------------
+# Apariencia en busqueda (rich results)
+# ---------------------------------------------------------------------------
+def cmd_rich_results(args):
+    """Que rich results esta sirviendo Google, y en que URLs.
+
+    GOTCHA de la API: `searchAppearance` NO se puede combinar con otras
+    dimensiones en la misma consulta. Google obliga a un flujo de dos pasos:
+      1. pedir solo ["searchAppearance"] para saber que tipos existen
+      2. volver a pedir ["page"] filtrando por un tipo concreto
+    Por eso este comando hace dos llamadas y no una sola con dos dimensiones.
+
+    Para que sirve: confirma con DATO si el marcado Product/Offer/AggregateRating
+    de las guias esta siendo aceptado por Google o descartado en silencio. Si un
+    tipo no aparece en el paso 1, Google no lo esta sirviendo, y no tiene sentido
+    portar ese template a mas guias.
+    """
+    service = get_service()
+    end = dt.date.today() - dt.timedelta(days=args.lag)
+    start = end - dt.timedelta(days=args.days - 1)
+    s, e = start.isoformat(), end.isoformat()
+    print(f"Apariencia en busqueda de {s} a {e} ({args.days} dias)\n")
+
+    rows = query_all(service, ["searchAppearance"], s, e)
+    if not rows:
+        print("  (Google no reporta ningun tipo de apariencia en esta ventana)")
+        print("  Eso significa que NO esta sirviendo rich results para el sitio.")
+        return
+
+    tabla = []
+    for r in rows:
+        clicks = r.get("clicks", 0)
+        impr = r.get("impressions", 0)
+        ctr = (clicks / impr * 100) if impr else 0.0
+        tabla.append((r["keys"][0], clicks, impr, ctr, r.get("position", 0.0)))
+    tabla.sort(key=lambda x: -x[2])
+    print("[1] Tipos de apariencia que Google SI esta sirviendo")
+    _fmt(tabla, ["APARIENCIA", "CLICKS", "IMPR", "CTR%", "POS"])
+
+    if not args.tipo:
+        print("\n  Para ver que URLs traen un tipo:")
+        print(f"    gsc.py rich-results --tipo {tabla[0][0]}")
+        return
+
+    print(f"\n[2] URLs con apariencia {args.tipo}")
+    body_rows = []
+    start_row = 0
+    while True:
+        body = {
+            "startDate": s, "endDate": e,
+            "dimensions": ["page"],
+            "rowLimit": ROW_LIMIT, "startRow": start_row,
+            "dataState": "all", "type": "web",
+            "dimensionFilterGroups": [{
+                "filters": [{
+                    "dimension": "searchAppearance",
+                    "operator": "equals",
+                    "expression": args.tipo,
+                }]
+            }],
+        }
+        resp = service.searchanalytics().query(siteUrl=config.SITE_URL, body=body).execute()
+        batch = resp.get("rows", [])
+        body_rows.extend(batch)
+        if len(batch) < ROW_LIMIT:
+            break
+        start_row += ROW_LIMIT
+
+    if not body_rows:
+        print(f"  (ninguna URL con apariencia {args.tipo})")
+        return
+    det = []
+    for r in body_rows:
+        clicks = r.get("clicks", 0)
+        impr = r.get("impressions", 0)
+        ctr = (clicks / impr * 100) if impr else 0.0
+        det.append((canonical_gsc_url(r["keys"][0]), clicks, impr, ctr, r.get("position", 0.0)))
+    det.sort(key=lambda x: -x[2])
+    _fmt(det, ["URL", "CLICKS", "IMPR", "CTR%", "POS"], limit=args.top)
+
+
 def main():
     p = argparse.ArgumentParser(description="Lector y auditor de Google Search Console.")
     sub = p.add_subparsers(dest="cmd", required=True)
@@ -915,6 +996,13 @@ def main():
     qp.add_argument("--breakdown", action="store_true",
                      help="mostrar fragments # sin colapsar a su URL base (default: colapsados)")
 
+    rr = sub.add_parser("rich-results",
+                        help="que rich results sirve Google (confirma si el schema Product/Offer se acepta)")
+    rr.add_argument("--days", type=int, default=28, help="ventana de dias (default 28)")
+    rr.add_argument("--lag", type=int, default=2, help="dias de retraso de GSC (default 2)")
+    rr.add_argument("--tipo", help="detallar URLs de un tipo (ej: PRODUCT_SNIPPETS)")
+    rr.add_argument("--top", type=int, default=25, help="cuantas URLs mostrar")
+
     sub.add_parser("history", help="lista los snapshots guardados")
 
     args = p.parse_args()
@@ -927,6 +1015,7 @@ def main():
         "report": cmd_report,
         "alerts": cmd_alerts,
         "query-pages": cmd_query_pages,
+        "rich-results": cmd_rich_results,
         "history": cmd_history,
     }[args.cmd](args)
 

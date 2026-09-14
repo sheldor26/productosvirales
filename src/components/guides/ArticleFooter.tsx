@@ -17,10 +17,13 @@ function formatCategory(slug: string): string {
 }
 
 function formatDate(iso: string): string {
+  // Las fechas del contenido son "YYYY-MM-DD" sin hora: new Date() las lee como
+  // medianoche UTC y, renderizadas en horario argentino (UTC-3), caian un dia antes.
   return new Date(iso).toLocaleDateString("es-AR", {
     day: "numeric",
     month: "long",
     year: "numeric",
+    timeZone: "UTC",
   });
 }
 

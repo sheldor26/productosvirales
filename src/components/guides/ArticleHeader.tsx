@@ -17,10 +17,13 @@ function formatCategory(slug: string): string {
 }
 
 function formatDate(iso: string): string {
+  // Las fechas del contenido son "YYYY-MM-DD" sin hora: new Date() las lee como
+  // medianoche UTC y, renderizadas en horario argentino (UTC-3), caian un dia antes.
   return new Date(iso).toLocaleDateString("es-AR", {
     day: "numeric",
     month: "long",
     year: "numeric",
+    timeZone: "UTC",
   });
 }
 
@@ -39,29 +42,34 @@ export function ArticleHeader({ guide }: ArticleHeaderProps) {
 
   return (
     <header className="mb-8 md:mb-10">
-      {/* Breadcrumb */}
+      {/* Breadcrumb. En mobile es, junto al eyebrow, el único texto navegable
+          arriba del fold. Estaba en --text-muted (#999), que sobre blanco da
+          2,85:1 de contraste: por debajo del mínimo accesible. Subrayado
+          punteado para que se lea como link sin depender del hover, que en
+          celular no existe. */}
       <nav
         aria-label="Breadcrumb"
-        className="flex items-center gap-1.5 text-xs text-[var(--text-muted)] mb-5"
+        className="flex items-center gap-1.5 text-[13px] text-[var(--text-secondary)] mb-5"
       >
-        <Link href="/" className="hover:text-[var(--text-secondary)] transition-colors">
+        <Link href="/" className="hover:text-[var(--text-primary)] underline underline-offset-2 decoration-dotted decoration-[var(--text-muted)] transition-colors">
           Inicio
         </Link>
-        <span aria-hidden="true">→</span>
-        <Link
-          href="/guias"
-          className="hover:text-[var(--text-secondary)] transition-colors"
-        >
+        <span aria-hidden="true" className="text-[var(--text-muted)]">→</span>
+        <Link href="/guias" className="hover:text-[var(--text-primary)] underline underline-offset-2 decoration-dotted decoration-[var(--text-muted)] transition-colors">
           Guías
         </Link>
       </nav>
 
-      {/* Eyebrow */}
-      <p
-        className="text-[11px] md:text-xs font-semibold tracking-[0.14em] mb-4"
-        style={{ color: "var(--editorial-accent)" }}
-      >
-        GUÍAS · {categoryLabel}
+      {/* Eyebrow. Es el único enlace interno arriba del fold además del
+          breadcrumb: manda al hub de guías, anclado en esta categoría. */}
+      <p className="text-[11px] md:text-xs font-semibold tracking-[0.14em] mb-4">
+        <Link
+          href={`/guias#cat-${guide.category}`}
+          className="hover:underline underline-offset-2"
+          style={{ color: "var(--editorial-accent)" }}
+        >
+          GUÍAS · {categoryLabel}
+        </Link>
       </p>
 
       {/* H1 */}
@@ -96,7 +104,7 @@ export function ArticleHeader({ guide }: ArticleHeaderProps) {
           <span aria-hidden="true" className="text-[var(--text-muted)]">
             ·
           </span>
-          <time dateTime={guide.publishedDate}>
+          <time dateTime={hasUpdate ? guide.updatedDate : guide.publishedDate}>
             {hasUpdate ? "Actualizado " : "Publicado "}
             {formatDate(hasUpdate ? guide.updatedDate : guide.publishedDate)}
           </time>

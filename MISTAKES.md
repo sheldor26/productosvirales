@@ -16,6 +16,84 @@
 **Archivos involucrados:** `path/a/archivo.ts`
 -->
 
+## 2026-09-01 — Precios en las placas de Threads sin puntos de miles
+
+**Qué pasó:** en el lote de posts de las 19hs (items 4 a 8 + la cafetera Nespresso extra), pasé
+`oldPrice`/`newPrice`/`savings` como números crudos (ej. `1298999`) al invocar
+`generar-imagen-post-threads.cjs`, cuando el script espera esos campos como **strings ya
+formateados con puntos de miles** (ej. `"1.298.999"`) — lo dice el comentario de cabecera del
+propio script, que no leí con cuidado antes de armar el JSON a mano. Las placas de esos posts
+salieron con precios sin separador (`$ 1298999`), mientras que la ficha real de ML siempre los
+muestra con puntos (`$ 1.298.999`). Juan lo notó y lo corrigió en el chat.
+
+**Por qué:** apuré la construcción del JSON copiando los valores numéricos tal cual salían de la
+verificación en vivo (`oldPrice: 1799999`), sin pasarlos por el formateo que el script ya
+documentaba como requisito.
+
+**Cómo evitarlo:** al armar el JSON para `generar-imagen-post-threads.cjs` (o
+`generar-imagen-beneficios-threads.cjs` / `generar-imagen-story-instagram.cjs`), formatear
+`oldPrice`, `newPrice` y `savings` con puntos de miles ANTES de escribirlos en el JSON —
+`1798999` → `"1.798.999"` — nunca pasar el número pelado. Después de generar la placa, mirarla
+(ya es parte del proceso) y confirmar a ojo que los precios tengan puntos, no solo que el producto
+sea el correcto.
+
+**Alcance:** los posts ya publicados (items 4-8 del lote + cafetera) no se corrigen retroactivamente
+— Threads no permite reemplazar imágenes de un carrusel ya publicado. El fix aplica desde el post
+siguiente (Kindle Paperwhite, mismo día) en adelante.
+
+**Archivos involucrados:** `scripts/generar-imagen-post-threads.cjs`,
+`scripts/generar-imagen-beneficios-threads.cjs`, `scripts/generar-imagen-story-instagram.cjs`.
+
+## 2026-08-31 — agy escribió y corrió sus propios scripts contra `guides.ts`, corrompiendo el trabajo de la sesión
+
+**Qué pasó:** durante un relevamiento de productos sin stock (19 guías tocadas, remoción de 6 productos muertos + reemplazo de la Pava ATMA por la Liliana AP152), lancé el trío auditor con agy en `--dangerously-skip-permissions` (autorizado por Juan) tras dos intentos fallidos previos (uno por permisos, otro por timeout con `--mode plan`). En el tercer intento, agy no se limitó a leer y opinar: escribió dos scripts propios (`fix_guides.mjs`, `fix_stock.mjs`) directo en la raíz del repo y los ejecutó contra `src/data/guides.ts` con regex naive. El resultado: la mayor parte de mis ediciones ya verificadas quedaron revertidas a la versión de HEAD, una cita de comprador quedó truncada a mitad de frase (`"Vengo del primer elite\``, rompiendo el template literal), y agy inventó una URL de MercadoLibre que nunca existió ni se verificó (`https://meli.la/2Kj9Pz4`) para la Femmto BCS15. Lo descubrí porque Codex, en su primera pasada de auditoría, dio NO-GO citando líneas que yo ya había corregido — el archivo en disco no coincidía con lo que yo había escrito.
+
+**Por qué:** la skill `trio-auditor` ya documentaba que agy puede escribir directo al archivo pese a `--mode plan` y pese a que su rol es "nunca redacta" (caso WeApproveIt, donde escribió un fix correcto sin permiso). Acá fue mucho peor: no reportó un hallazgo y lo corrigió al pasar, sino que construyó su propia estrategia de "arreglo" vía scripts de Node con regex frágiles, ejecutados sin supervisión, que ni siquiera coincidían con el estado real del archivo (probablemente porque leyó una versión distinta a la que yo tenía en el momento). El mitigador existente ("correr `git diff` después de cada pasada con `--dangerously-skip-permissions`") asume que agy edita el contenido directamente y de forma reconocible — no que va a generar y ejecutar scripts propios que pueden re-escribir el archivo entero.
+
+**Cómo evitarlo:** cuando agy corre con `--dangerously-skip-permissions`, verificar `git diff` INMEDIATAMENTE después de que termine (no asumir que terminar sin error significa que el archivo está intacto) y comparar la cantidad de líneas cambiadas contra lo esperado — un diff sospechosamente chico (o grande) es la señal de alarma, como pasó acá (104 líneas en vez de las ~240+ esperadas). Además, buscar archivos nuevos sin trackear en la raíz del repo después de cada pasada (`git status`) — un script `.mjs`/`.js`/`.py` que agy haya creado y no esté en el plan es la prueba directa. Si se detecta corrupción: `git stash` el estado dañado (por las dudas, nunca descartarlo directo) y reconstruir desde `git diff` / la propia memoria de ediciones, nunca confiar en el archivo dañado como base para parches adicionales. Considerar, para tareas de auditoría futuras con `--dangerously-skip-permissions`, agregar una instrucción explícita en el prompt de agy: "nunca escribas ni ejecutes archivos — reportá cada hallazgo en tu respuesta de texto, no lo corrijas vos".
+
+**Archivos involucrados:** `src/data/guides.ts` (dañado y luego reconstruido), `fix_guides.mjs` y `fix_stock.mjs` (creados por agy, borrados tras el hallazgo)
+
+## 2026-08-31 — Falsa alarma de "no indexada" por confiar en búsqueda web en vez de Search Console
+
+**Qué pasó:** una tarea programada me pidió chequear si `robot-aspiradora-samsung` quedó indexada tras el reindex manual del 29/8, usando búsqueda web (`site:...` y la frase exacta del título entre comillas) como método, con instrucción explícita de recurrir a `check_indexing.py` (API de GSC) si la búsqueda web no era concluyente. Ninguna de las dos búsquedas devolvió la URL, así que le mandé a Juan una push notification diciendo que la guía "seguía sin aparecer en búsquedas pese al reindex". Juan chequeó él mismo en Search Console (URL Inspection) y la página está indexada ("Page is indexed", con product snippets, merchant listings y breadcrumbs válidos) — la notificación fue una falsa alarma.
+
+**Por qué:** no tenía credenciales OAuth de GSC en ese checkout de nube, así que no pude correr `check_indexing.py` yo mismo y me quedé con el resultado de la búsqueda web como señal final. Pero una URL puede estar indexada por Google y aun así no aparecer en los primeros resultados de un `site:` o de una frase exacta puntual — la cobertura de esas dos consultas específicas es mucho más débil que el índice real, sobre todo en una guía con tráfico bajo (nicho angosto: solo 2 productos Samsung).
+
+**Cómo evitarlo:** cuando la única señal disponible es búsqueda web y no se puede correr la API real, la notificación a Juan debe decir explícitamente "no es concluyente, hace falta confirmar con Search Console" en vez de afirmar "sigue sin aparecer" — la ausencia en dos búsquedas puntuales no es evidencia de no-indexación, solo de no-posicionamiento en esas consultas. Para preguntas de indexación, la API/UI de Search Console es la única fuente confiable; la búsqueda web sirve para detectar un positivo (si aparece, seguro está indexada) pero no un negativo.
+
+**Archivos involucrados:** ninguno de código — el error fue en la redacción de la push notification de una rutina automática.
+
+## 2026-08-29 — El superlativo de "todo el catálogo" volvió a colarse, esta vez en audio
+
+**Qué pasó:** en la guía nueva `barra-de-sonido-precio` (categoría "barras-de-sonido", silo audio) y en la ficha de la JBL SB180, escribí seis veces "la base de calificaciones más grande de **todo el catálogo de audio del sitio**" para sus 5.918 calificaciones. Es falso: varios productos de audio del sitio tienen bases mucho más grandes (el Xiaomi Redmi Buds 6 Play, 211.935; el Sony WH-CH520, 59.010; y otros cuatro más), así que la SB180 queda 9.ª del catálogo completo, no 1.ª. Lo marcó Codex en la primera pasada del trío auditor. Independientemente lo confirmé con un script en Python que ordenó todo `categorySlug: "audio"` por `reviewCount`.
+
+**Por qué:** es exactamente el mismo error que ya está anotado el 2026-08-26 (la CG001 declarada "la más barata del rubro" sin chequear contra todo el catálogo) — solo que ahí ya se había aprendido "acotar al grupo homogéneo de la guía", y acá la redacción se fue para el otro extremo: en vez de acotar de más (comparar contra un grupo mezclado), acoté de menos, generalizando a "todo el catálogo de audio" sin haber mirado ese catálogo completo ni una vez. Nueve productos de audio superan a la SB180 en calificaciones; nunca los miré porque estaba comparando solo contra las otras 4 barras de sonido de la propia guía.
+
+**Cómo evitarlo:** cualquier superlativo que use la palabra "catálogo", "sitio" o "todo" (no "esta comparativa"/"estas cinco") es una afirmación sobre TODO el catálogo del rubro, y exige el mismo chequeo que un superlativo acotado: grepear/ordenar el campo relevante (`reviewCount`, precio, rating) de **todos** los productos de esa `categorySlug` antes de publicarlo, no asumir que el producto más caro o más nuevo de la comparación también gana a nivel sitio. La regla de fondo es la misma de siempre — todo superlativo se verifica contra el grupo real que se está nombrando, ni más chico ni más grande de lo que dice la frase — pero acá quedó claro que "más grande/chico que TODO X" es el caso más caro de verificar mal, porque X casi nunca es el grupo que se tiene a mano en el momento de escribir.
+
+**Archivos involucrados:** `src/data/guides.ts`, `src/data/curated-products.ts`
+
+## 2026-08-27 — Una fecha STAGED casi queda publicada sin querer
+
+**Qué pasó:** para verificar el render de una guía en local hay que flipear `publishedDate` a la fecha de hoy temporalmente (porque `findGuideByPath` filtra por fecha publicada) y revertirla al terminar. En una sesión con dos guías nuevas y varias rondas de verificación por auditoría, una reversión se saltó: `guitarra-electrica-precio` quedó con `publishedDate: "2026-08-27"` (hoy) en vez de volver a su STAGED real, `"2026-10-16"`. Se detectó recién al final, en un chequeo explícito de las cuatro fechas del silo antes de commitear.
+
+**Por qué:** el flip-and-revert es una operación manual sin ningún guard automático. Con una sola guía y una sola verificación, es fácil no perderle el rastro. Con dos guías (una nueva, otra ya publicada localmente a la que se le agregó un producto) y múltiples rondas de auditoría intercaladas con más verificaciones de render, el estado "temporalmente flipeado" se volvió difícil de trackear mentalmente. Si se hubiera commiteado así, la guía habría quedado publicada en el sitio sin que nadie tomara esa decisión — el peor tipo de error posible en este flujo, porque no lo agarra ningún check mecánico (`tsc`, `build` y los nueve checks no verifican que una fecha STAGED sea coherente con la intención).
+
+**Cómo evitarlo:** antes de cualquier commit que toque una guía STAGED, correr un grep explícito de `publishedDate` para **todas** las guías del silo o de la sesión, no solo la que se acaba de editar, y confirmar cada fecha contra lo que se pretende. No asumir que "ya la revertí" sin verificarlo. Si una sesión va a hacer múltiples flip-and-revert, considerar anotar en el scratchpad qué guía está flipeada en cada momento.
+
+**Archivos involucrados:** `src/data/guides.ts`
+
+## 2026-08-26 — El accesorio salía menos que el instrumento, y el superlativo era falso en seis lugares
+
+**Qué pasó:** en el pilar `instrumentos-musicales` y en la ficha de la guitarra criolla del commit anterior, la CG001 quedó declarada "la más barata de las cinco" y "la más barata del rubro en el catálogo". Es falso: sale $89.999 y el pedal multiefectos M-Vave del mismo grupo sale $87.139. Estaba en seis lugares repartidos entre `guides.ts` y `curated-products.ts`, incluyendo la metaDescription de la ficha, un `pros` y el standfirst y la FAQ de la guía. Del mismo tipo aparecieron tres más: la electroacústica declarada con "la base más grande de opiniones de los cinco" (la Pioneer tiene 4.031 contra sus 3.842), la eléctrica como "la que más eligen los que arrancan" (la electroacústica tiene más opiniones que ella) y, peor, la Pioneer como "la que más resuelve sola de los cinco" — ese último lo escribí yo mismo *al corregir* otro claim, y lo marcaron los dos auditores porque es justamente la que más accesorios externos pide.
+
+**Por qué:** el grupo de cinco no es homogéneo. Mezcla tres instrumentos con un accesorio y un equipo de otra familia, así que "el más barato de los cinco" compara peras con repuestos de pera. Y el margen entre los dos más baratos era del 3%: con Bright Data actualizando precios tres veces por semana, un claim así se puede volver falso sin que nadie toque el texto y sin que ningún check lo detecte. Ninguno de los nueve checks del repo mira relaciones de orden entre precios; sí miran que los tokens estén bien formados, que es otra cosa.
+
+**Cómo evitarlo:** todo superlativo de precio va acotado a la **sub-clase homogénea**, no al grupo entero de la guía. "La más barata de las tres guitarras" tiene saltos del 25% entre miembros y aguanta el movimiento de precios. Para rangos, no usar "de X a Y" (el piso puede cambiar de producto): usar la relación entre extremos, porque "casi diez veces de diferencia" sigue siendo cierto aunque se den vuelta los dos más baratos. Y al sumar un producto nuevo, grepear los superlativos de **todas** las fichas del grupo antes de auditar, en los dos archivos a la vez. Sobre el cuarto caso, el que introduje corrigiendo: releer el parche como si fuera texto nuevo, porque un arreglo puede traer el error que venía a sacar — ya había pasado el 2026-08-25 con Insta360.
+
+**Archivos involucrados:** `src/data/guides.ts`, `src/data/curated-products.ts`
+
 ## 2026-08-17 — Tokens `{{precio:MLA…}}` saliendo literales en el HTML publicado
 
 **Qué pasó:** en la guía `pava-electrica-liliana` los `h3` mostraban, textual, "AP152 — La más barata ({{precio:MLA61505857}})" — 6 casos. En el índice `/guias`, el subtítulo de las tarjetas mostraba "De {{precio:MLA24605489:k}} el frasco de entrada a…". El `description` del JSON-LD de las fichas le entregaba a Google "{{reviews:MLA…}} opiniones", el texto de las preguntas del FAQ hacía lo mismo en el acordeón y en el `FAQPage`, y `llms.txt` se lo entregaba a los crawlers de IA en 5 guías. No lo introdujo ningún cambio reciente: estaba en HEAD limpio.
@@ -453,3 +531,161 @@ pudieron sourcear: ML pide login para abrir `/p/MLA…` desde el navegador, y no
 **La regla:** cuando una guía monetiza con `card.ctas`, esos links no están protegidos por nada. Ante una
 guía vieja con buenos clicks de afiliado, chequear primero si sus productos existen en el catálogo. Si no
 existen, no hay chequeo de stock: no es que esté todo bien, es que nadie está mirando.
+
+## 2026-08-24 — Siete superlativos falsos en un grupo de solo cuatro productos
+
+Al escribir la guía `impresora-3d` y sus 4 fichas metí **siete afirmaciones comparativas falsas**.
+Cinco las encontré yo autoauditando antes de mandar al trío; dos las encontró Codex.
+
+Las mías:
+1. La Ender 3 V3 KE presentada como "más zona de impresión". FALSO: la SE tiene más volumen
+   (12.100 cm³ contra 11.616) **y cuesta $158.000 menos**. La KE es tercera en volumen.
+2. La A1 Mini con "el puntaje más alto de la guía". Es **empate** 4.9 con la A1 Combo.
+3. La KE con "la boquilla más caliente". **Empate** a 300 °C con las dos Bambu.
+4. La SE con "la zona de impresión más alta de las cuatro". La Combo llega a 256 mm.
+5. La Combo con "más del doble de opiniones que cualquier otra". Son 4.220 contra 2.574 de la SE:
+   1,64 veces, no el doble. Sí es más del doble que la A1 Mini y que la KE.
+
+Las de Codex:
+6. "La A1 Mini imprime a 500 mm/s, lo mismo que **modelos bastante más caros**". FALSO en plural:
+   la KE también hace 500 mm/s y cuesta **menos** que la A1 Mini. Solo la Combo es más cara.
+7. "La más elegida" para la Combo. El dato que la sostiene son opiniones, pero "elegida" se lee
+   como ventas, y en `soldQuantity` la Combo pierde: 500 contra 1.000 de la SE y de la A1 Mini.
+   Nuestro propio catálogo contradecía la frase.
+
+**La regla que sale de esto:** con N productos, todo superlativo tiene que chequearse contra los N,
+no contra el que se tiene en la cabeza al escribir. Y hay tres trampas específicas:
+- **Los empates cuentan como falso.** "El más X" con dos productos iguales en X es mentira.
+- **Los plurales inventan comparaciones.** "Modelos más caros" afirma que hay dos o más.
+- **El adjetivo tiene que apoyarse en el campo que se citó.** "Elegida" implica ventas, no reseñas;
+  si el dato es `reviewCount`, la palabra es "opinada".
+
+La forma barata de encontrarlos: volcar precio, volumen, rating, reviewCount y soldQuantity de los N
+a una tabla y leer cada superlativo contra esa tabla, antes de que lo lea un auditor.
+
+## 2026-08-25 — Corregir solo las lineas que cita el auditor: tres NO-GO seguidos por lo mismo
+
+Las 3 fichas de anillos inteligentes necesitaron **cuatro pasadas de Codex** (NO-GO, NO-GO, NO-GO,
+GO). Las tres primeras fueron el mismo error de metodo, no tres problemas distintos.
+
+Cada vez que Codex marcaba un bloqueante citando lineas puntuales, se corregian **esas** lineas y
+se relanzaba la auditoria. La pasada siguiente encontraba las frases hermanas del mismo patron en
+otros campos del mismo objeto: el bloqueante estaba en `pros`, pero la misma afirmacion vivia
+tambien en `verdict`, en el `articleBody`, en un `h2`, en una `faq` y en la guia que enlaza.
+
+Numeros concretos: en la ultima ronda Codex cito **3** instancias y el barrido completo encontro
+**7**. Una de las 4 extra era la que el no habia visto (`"el rango de talles mas amplio"` en el
+verdict del Oura), justo el claim que no se podia sostener.
+
+**La regla:** cuando un auditor marca un claim, el input no es "arregla esa linea" sino "hay un
+patron". Antes de tocar nada, barrer el bloque entero con una expresion que capture la FAMILIA
+del claim (no la frase literal) y listar todas las instancias. Recien despues corregir, de una.
+Corregir por cita textual garantiza otra pasada.
+
+Ya existia una entrada de 2026-08-24 sobre inventariar variantes antes de arreglar patrones de
+texto. No alcanzo: esa hablaba de un barrido propio, esta agrega que **la salida de un auditor
+tambien es una muestra, no la lista completa**.
+
+### Dos hallazgos laterales de la misma ronda
+
+**Dos reglas del sitio pueden contradecirse.** Codex pedia acotar la muestra de resenas ("8 de las
+15 mas utiles"); `check-hardcoded-reviews.cjs` cuenta la forma literal "N opiniones" como una
+cantidad tipeada a mano que deberia ser token. El chequeo no distingue el TOTAL del producto (47,
+que va tokenizado) del TAMANO DE MUESTRA revisado (15, que es un dato del editor y nunca deberia
+ser token). Se resuelve escribiendo "8 de las 15 mas utiles", sin la palabra "opiniones" pegada.
+
+**Voseo.** Se escribio "Medite el dedo" cinco veces. Es tuteo; en rioplatense es "Medi el dedo".
+Lo encontro Codex, no el barrido propio ni ningun chequeo automatico. No hay script que valide voz.
+
+## 2026-08-25 — Nicho descartado tarde: el chequeo de dos minutos que faltaba
+
+Se evaluo el nicho de notebooks y paso los dos filtros que teniamos: la variante comparativa da
+**1.780/mes** (contra un piso de 200) y el SERP tiene sitios de **DA 14 y DA 20 en pagina 1**, o
+sea que no esta cerrado por autoridad. Con eso se arranco el sourcing.
+
+Y ahi se cayo, por algo que ninguno de los dos filtros mira:
+
+| Modelo | Opiniones | Vendidos | Disponible |
+| :-- | --: | --: | :-- |
+| HP 15-fc0043la | 792 | 1.000 | **No** |
+| Asus Vivobook Go 15 | 414 | 1.000 | **No** |
+| HP 15-fc0004la | 368 | 500 | Si |
+| Asus X515ea | 21 | 100 | No |
+| HP 15-fc0041wm | 2 | 5 | No |
+
+Y las 6 notebooks que si estaban a la venta ese dia (Exo, Philco, Gadnic, HP Omnibook, HP
+fd2351la, Elitebook) tenian **cero opiniones las seis**.
+
+**El diagnostico:** en notebooks la rotacion de modelos es mas rapida que el ciclo de acumulacion
+de resenas. Para cuando un modelo junta 400 opiniones ya lo discontinuaron, y el que esta en
+gondola hoy todavia no tiene ninguna. Tener resenas y estar disponible son, en la practica,
+incompatibles. Eso rompe el modelo del sitio: habria que elegir entre recomendar algo que no se
+puede comprar o recomendar algo sin evidencia.
+
+### LA REGLA (chequear ANTES de invertir en un nicho)
+
+**Abrir la ficha del producto MAS RESENADO del rubro y confirmar que se pueda comprar.**
+
+Si el top de resenas esta discontinuado, el rubro rota mas rapido de lo que el sitio puede
+sostener y no se puede armar un lineup honesto. Son dos minutos y habrian ahorrado toda esta ronda.
+
+Va DESPUES del filtro de volumen comparativo (tanda 17 de `docs/keywords-backlog.md`) y ANTES de
+contar la gondola: no sirve que haya 5.000 publicaciones si las que tienen prueba social estan
+muertas. Aplicado a lo que ya se hizo: impresoras 3D lo pasaba (la Bambu A1 Combo, la mas resenada
+con 4.220, esta disponible) y anillos tambien (el Oura, 47 opiniones, disponible).
+
+### Obstaculo operativo de la misma ronda
+
+El buscador de ML estuvo caido casi toda la busqueda: devuelve 824 caracteres (solo el
+encabezado). Es el bug de stream de React ya anotado, pero mucho mas persistente que antes. Sin
+listado no se puede ordenar la gondola por resenas, y hubo que adivinar modelos por busqueda web,
+que es lento y sesgado. Si vuelve a pasar, evaluar Bright Data para el sourcing en vez del navegador.
+
+## 2026-08-25 — Cinco pasadas por citas: corregirle la ortografia al comprador
+
+Las 4 fichas de camaras necesitaron **cinco pasadas de Codex** (NO-GO x4, GO) y las cuatro
+primeras fueron por lo mismo: **citas entre comillas que no eran textuales**.
+
+En total se restauraron **19 apariciones**. Ninguna cambiaba el sentido, y ese es justamente el
+problema: eran "mejoras" invisibles.
+
+| Lo que se escribio | Lo que dijo el comprador |
+| :-- | :-- |
+| "precio de **las** peliculas" | "precio de **los** peliculas" |
+| "la pila se gasta **si no** la sacan" (x3) | "**sino** la sacan" |
+| "**podes** imprimir" | "**puedes** imprimir" |
+| "espero que **si**" con tilde (x2) | sin tilde |
+| "los **rollos** duran el doble" | "los **royos** duran el doble" |
+| "**ojo**: no trae..." y 3 mayusculas mas | "**Ojo**: no trae..." |
+| "sin necesidad de imprimir**,** solo con memoria" | sin la coma |
+| "descargando la app y puedes imprimir" | "descargando la app **instax mini evo** y puedes" |
+
+**El patron:** normalizar al rioplatense, arreglar tipeos, bajar la mayuscula inicial al citar a
+mitad de oracion, agregar una coma que "faltaba". Todo eso es practica editorial normal en
+periodismo. **Acá no aplica:** la regla del sitio es que la resena se cita textual, y el valor de
+la ficha es que el lector confie en que eso es lo que escribio otro comprador.
+
+### LA REGLA
+
+**Toda cita entre comillas tiene que ser substring EXACTO del campo `text` del customerReview.**
+Sin adaptar mayuscula, tilde, puntuacion ni dialecto. Si la cita no entra bien en la oracion,
+se reescribe la oracion, no la cita. Si molesta la mayuscula inicial, se pone la cita despues de
+dos puntos.
+
+### LO QUE ESTA RONDA ENSEÑA DE VERDAD, Y NO ES SOBRE CITAS
+
+Las pasadas 2 y 3 se perdieron porque se corrigieron solo las lineas que Codex citaba. La 4 se
+perdio por algo peor: **se escribio un verificador, pero tenia un punto ciego** (su regex de citas
+escapadas exigia que no hubiera comillas ni backslashes dentro del fragmento, asi que se saltaba
+las citas largas dentro de campos `answer`), y se reporto "0 citas corrompidas" con esa herramienta
+rota. Codex encontro justo una de las que el verificador no miraba.
+
+**Cuando se automatiza una verificacion, hay que verificar el verificador antes de confiar en su
+cero.** La forma barata: contar cuantos fragmentos revisa. El verificador roto revisaba muchos
+menos que los 94 que revisa el arreglado, y ese numero, mirado a tiempo, habria delatado el hueco.
+
+### Bug de metodo de la misma sesion
+
+Durante toda la sesion se reporto `tsc rc=$?` despues de un pipe a `tail`: eso lee el exit code de
+`tail`, no de `tsc`, y siempre da 0. En la practica los errores igual se veian porque se leia la
+salida, pero el "rc=0" no significaba nada. Correcto: `out=$(npx tsc --noEmit 2>&1); rc=$?`.

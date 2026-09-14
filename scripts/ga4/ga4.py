@@ -101,11 +101,13 @@ def cmd_affiliates(creds):
         "metrics": [{"name": "eventCount"}],
         "dimensionFilter": {"filter": {"fieldName": "eventName", "stringFilter": {"value": "affiliate_click"}}},
         "orderBys": [{"metric": {"metricName": "eventCount"}, "desc": True}],
-        # 200 y no 30: con 30 el total impreso abajo era el total de las 30 filas
-        # mostradas, no el real. El 2026-08-17 eso escondia 290 de 1.018 clicks
-        # repartidos en 180 paginas, y guias enteras (torre-de-sonido, balanza
-        # digital, humidificador) nunca aparecian al decidir cual refrescar.
-        "limit": 200,
+        # 1000 y no 200: con 200 el total impreso abajo volvia a ser el total
+        # de las 200 filas mostradas, no el real, en cuanto la ventana de dias
+        # crecia lo suficiente para superar las 200 paginas con affiliate_click
+        # (paso el 2026-09-14 con la ventana de 28 dias: 1.215 impreso contra
+        # 1.242 real cruzado con GSC). Mismo motivo que el fix anterior de
+        # 30 a 200 el 2026-08-17, con mas margen para no repetirlo.
+        "limit": 1000,
     })
     rows = rows_of(resp)
     if not rows:

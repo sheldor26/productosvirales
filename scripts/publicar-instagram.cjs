@@ -1,11 +1,20 @@
 #!/usr/bin/env node
-// Publica un post, un carrusel o una Historia en Instagram vía la Graph API
-// oficial de Meta.
+// Publica un post, un carrusel, una Historia o un Reel en Instagram vía la
+// Graph API oficial de Meta.
 // Uso:
 //   node scripts/publicar-instagram.cjs feed     ruta/a/imagen.png "Copy del post"
 //   node scripts/publicar-instagram.cjs carousel ruta/img1.png,ruta/img2.png "Copy del post"
 //   node scripts/publicar-instagram.cjs story    ruta/a/imagen.png
+//   node scripts/publicar-instagram.cjs reel     https://url-publica-del-video.mp4 "Copy del post"
 //
+// Reels: a diferencia de feed/story/carousel, el video NO se sube a Vercel
+// Blob acá — recibe directo una URL pública ya alojada (ej. el CDN de
+// JSON2Video), porque el archivo generado no vive en este repo. Si en el
+// futuro se genera el video localmente, se puede sumar un uploadVideoToBlob
+// análogo a uploadImageToBlob. El procesamiento de video de Meta tarda más
+// que el de imagen, por eso waitUntilReady tiene más intentos/delay para
+// este tipo. Elegible para la pestaña Reels (no solo como video post
+// suelto): 9:16 y entre 5 y 90 segundos.
 // El carrusel saca 2-3x más alcance que la misma imagen sola en Instagram
 // (investigación de alcance 2026-08-13, ver memoria reglas-alcance-redes-sociales-2026):
 // si el usuario no interactúa con la primera foto, Instagram vuelve a
@@ -123,6 +132,26 @@ async function createCarouselContainer({ igUserId, accessToken, childrenIds, cap
   return data.id;
 }
 
+async function createReelContainer({ igUserId, accessToken, videoUrl, caption }) {
+  const params = new URLSearchParams({
+    media_type: "REELS",
+    video_url: videoUrl,
+    access_token: accessToken,
+  });
+  if (caption) {
+    params.set("caption", caption);
+  }
+
+  const res = await fetch(`${GRAPH_API_BASE}/${igUserId}/media?${params.toString()}`, {
+    method: "POST",
+  });
+  const data = await res.json();
+  if (!res.ok) {
+    throw new Error(`Error creando el contenedor del Reel: ${JSON.stringify(data)}`);
+  }
+  return data.id;
+}
+
 async function waitUntilReady(containerId, accessToken, { maxAttempts = 10, delayMs = 2000 } = {}) {
   for (let attempt = 1; attempt <= maxAttempts; attempt++) {
     const params = new URLSearchParams({
@@ -185,6 +214,26 @@ async function publishFeedOrStory({ tipo, imagePath, caption, igUserId, accessTo
   console.log(`¡Publicado! ID: ${mediaId}`);
 }
 
+async function publishReel({ videoUrl, caption, igUserId, accessToken }) {
+  if (!/^https?:\/\//.test(videoUrl)) {
+    console.error("El Reel necesita una URL pública de video (http/https), no una ruta local.");
+    process.exit(1);
+  }
+
+  console.log(`Video público en: ${videoUrl}`);
+
+  console.log("Creando contenedor del Reel...");
+  const creationId = await createReelContainer({ igUserId, accessToken, videoUrl, caption });
+  console.log(`Contenedor creado: ${creationId}`);
+
+  console.log("Esperando a que Instagram procese el video (puede tardar más que una imagen)...");
+  await waitUntilReady(creationId, accessToken, { maxAttempts: 30, delayMs: 5000 });
+
+  console.log("Publicando...");
+  const mediaId = await publishContainer({ igUserId, accessToken, creationId });
+  console.log(`¡Publicado! ID: ${mediaId}`);
+}
+
 async function publishCarousel({ imagePathsArg, caption, igUserId, accessToken }) {
   const imagePaths = imagePathsArg.split(",").map((p) => p.trim());
   if (imagePaths.length < 2 || imagePaths.length > 10) {
@@ -229,10 +278,11 @@ async function publishCarousel({ imagePathsArg, caption, igUserId, accessToken }
 async function main() {
   const [, , tipo, imagePathArg, caption] = process.argv;
 
-  if (!tipo || !imagePathArg || !["feed", "story", "carousel"].includes(tipo)) {
+  if (!tipo || !imagePathArg || !["feed", "story", "carousel", "reel"].includes(tipo)) {
     console.error(
       'Uso: node scripts/publicar-instagram.cjs <feed|story> <ruta-imagen> ["caption"]\n' +
-      '     node scripts/publicar-instagram.cjs carousel <img1,img2,...> ["caption"]'
+      '     node scripts/publicar-instagram.cjs carousel <img1,img2,...> ["caption"]\n' +
+      '     node scripts/publicar-instagram.cjs reel <url-publica-del-video> ["caption"]'
     );
     process.exit(1);
   }
@@ -242,6 +292,8 @@ async function main() {
 
   if (tipo === "carousel") {
     await publishCarousel({ imagePathsArg: imagePathArg, caption, igUserId, accessToken });
+  } else if (tipo === "reel") {
+    await publishReel({ videoUrl: imagePathArg, caption, igUserId, accessToken });
   } else {
     await publishFeedOrStory({ tipo, imagePath: imagePathArg, caption, igUserId, accessToken });
   }

@@ -6,6 +6,237 @@
 > chequearlos en MercadoLibre. Si son reales, avisar para aplicarlos a mano.
 > Entradas nuevas arriba.
 
+## 2026-09-11
+
+- **MLA16132352** — Cámara Deportiva Akaso V50X: $176.899 → $599.999 (+239%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA16132352
+  - Sitio: https://productosvirales.com.ar/producto/MLA16132352
+- **MLA23686313** — Horno Eléctrico Grill Atma Capacidad 40 Litros 2 Anafes: $231.170 → $499.999 (+116%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA23686313
+  - Sitio: https://productosvirales.com.ar/producto/MLA23686313
+- **MLA8732921** — Auriculares Gamer Con Cable HyperX Cloud HX-HSCA Black y Red: $91.379 → $779.403 (+753%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA8732921
+  - Sitio: https://productosvirales.com.ar/producto/MLA8732921
+- **MLA28103250** — Humidificador Vaporizador Ambiente Ultrasónico Daewoo DHU335 Blanco y Azul: $149.950 → $447.600 (+198%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA28103250
+  - Sitio: https://productosvirales.com.ar/producto/MLA28103250
+- **MLA62609709** — Bloques Magnéticos Cubos Para Armar Estilo Minecraft 60 Piezas: $27.150 → $80.999 (+198%)
+  - ML: https://www.mercadolibre.com.ar/bloques-magneticos-cubos-para-armar-de-construccion-estilo-minecraft-para-ninos-60-piezas-didacticos-creativo-ilimitado-material-seguro-y-resistente-no-toxicos-bordes-suaves-levys-bazar/p/MLA62609709
+  - Sitio: https://productosvirales.com.ar/producto/MLA62609709
+- **MLA25401949** — Balanza Digital De Cocina Gadnic 1gr A 10kg Pro Bascula Gramera Capacidad Máxima 10 kg: $7.027 → $2.079 (-70%)
+  - ML: https://www.mercadolibre.com.ar/balanza-digital-de-cocina-gadnic-1gr-a-10kg-pro-bascula-gramera-capacidad-maxima-10-kg/p/MLA25401949
+  - Sitio: https://productosvirales.com.ar/producto/MLA25401949
+- **MLA41479634** — Freidora de Aire Westinghouse AFR-1802 — 10 Litros, 1,8 kW, 12 Funciones: $399.999 → $166.499 (-58%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA41479634
+  - Sitio: https://productosvirales.com.ar/producto/MLA41479634
+
+## 2026-09-09
+
+- **MLA16132352** — Cámara Deportiva Akaso V50X: $176.899 → $599.999 (+239%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA16132352
+  - Sitio: https://productosvirales.com.ar/producto/MLA16132352
+- **MLA8732921** — Auriculares Gamer Con Cable HyperX Cloud HX-HSCA Black y Red: $91.379 → $779.403 (+753%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA8732921
+  - Sitio: https://productosvirales.com.ar/producto/MLA8732921
+- **MLA48098024** — Cortador Papas Bastón Aloha — Cuchilla Acero Inoxidable, Apto Lavavajillas: $7.401 → $3.344 (-55%)
+  - ML: https://www.mercadolibre.com.ar/cortador-papa-frita-baston-aloha-cuchilla-acero-inoxidable/p/MLA48098024
+  - Sitio: https://productosvirales.com.ar/producto/MLA48098024
+- **MLA41918674** — Tv Stick Wi-fi Smart Tv Android Hdmi Tv Box Fire Convertidor Color Negro: $26.669 → $80.000 (+200%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA41918674
+  - Sitio: https://productosvirales.com.ar/producto/MLA41918674
+- **MLA28103250** — Humidificador Vaporizador Ambiente Ultrasónico Daewoo DHU335 Blanco y Azul: $149.950 → $447.600 (+198%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA28103250
+  - Sitio: https://productosvirales.com.ar/producto/MLA28103250
+- **MLA62609709** — Bloques Magnéticos Cubos Para Armar Estilo Minecraft 60 Piezas: $27.150 → $80.999 (+198%)
+  - ML: https://www.mercadolibre.com.ar/bloques-magneticos-cubos-para-armar-de-construccion-estilo-minecraft-para-ninos-60-piezas-didacticos-creativo-ilimitado-material-seguro-y-resistente-no-toxicos-bordes-suaves-levys-bazar/p/MLA62609709
+  - Sitio: https://productosvirales.com.ar/producto/MLA62609709
+
+## 2026-09-07
+
+- **MLA16132352** — Cámara Deportiva Akaso V50X: $176.899 → $599.999 (+239%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA16132352
+  - Sitio: https://productosvirales.com.ar/producto/MLA16132352
+- **MLA8732921** — Auriculares Gamer Con Cable HyperX Cloud HX-HSCA Black y Red: $91.379 → $779.403 (+753%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA8732921
+  - Sitio: https://productosvirales.com.ar/producto/MLA8732921
+- **MLA48098024** — Cortador Papas Bastón Aloha — Cuchilla Acero Inoxidable, Apto Lavavajillas: $7.401 → $3.344 (-55%)
+  - ML: https://www.mercadolibre.com.ar/cortador-papa-frita-baston-aloha-cuchilla-acero-inoxidable/p/MLA48098024
+  - Sitio: https://productosvirales.com.ar/producto/MLA48098024
+- **MLA15705813** — Cafetera de cápsulas Moulinex Dolce Gusto Piccolo XS: $114.436 → $359.860 (+214%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA15705813
+  - Sitio: https://productosvirales.com.ar/producto/MLA15705813
+- **MLA62609709** — Bloques Magnéticos Cubos Para Armar Estilo Minecraft 60 Piezas: $27.150 → $80.999 (+198%)
+  - ML: https://www.mercadolibre.com.ar/bloques-magneticos-cubos-para-armar-de-construccion-estilo-minecraft-para-ninos-60-piezas-didacticos-creativo-ilimitado-material-seguro-y-resistente-no-toxicos-bordes-suaves-levys-bazar/p/MLA62609709
+  - Sitio: https://productosvirales.com.ar/producto/MLA62609709
+
+## 2026-09-04
+
+- **MLA8732921** — Auriculares Gamer Con Cable HyperX Cloud HX-HSCA Black y Red: $91.379 → $779.403 (+753%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA8732921
+  - Sitio: https://productosvirales.com.ar/producto/MLA8732921
+- **MLA21789761** — Horno Electrico Atma Hga3022 Grill 30l 1500w Timer 250° Gris: $499.999 → $238.999 (-52%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA21789761
+  - Sitio: https://productosvirales.com.ar/producto/MLA21789761
+- **MLA15705813** — Cafetera de cápsulas Moulinex Dolce Gusto Piccolo XS: $114.436 → $359.860 (+214%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA15705813
+  - Sitio: https://productosvirales.com.ar/producto/MLA15705813
+- **MLA15244160** — Multiprocesadora Ultracomb 600w Pc-6800 Negro Bold de Vidrio Capacidad 1,2Lts: $70.199 → $199.999 (+185%)
+  - ML: https://www.mercadolibre.com.ar/multiprocesadora-ultracomb-600w-pc-6800-negro-bold-de-vidrio-capacidad-12lts/p/MLA15244160
+  - Sitio: https://productosvirales.com.ar/producto/MLA15244160
+- **MLA17380375** — Ventilador De Techo Liliana Vthi513 Blanco Con 3 Palas Metal Diámetro 1.4 m: $219.429 → $106.392 (-52%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA17380375
+  - Sitio: https://productosvirales.com.ar/producto/MLA17380375
+- **MLA62609709** — Bloques Magnéticos Cubos Para Armar Estilo Minecraft 60 Piezas: $27.150 → $80.999 (+198%)
+  - ML: https://www.mercadolibre.com.ar/bloques-magneticos-cubos-para-armar-de-construccion-estilo-minecraft-para-ninos-60-piezas-didacticos-creativo-ilimitado-material-seguro-y-resistente-no-toxicos-bordes-suaves-levys-bazar/p/MLA62609709
+  - Sitio: https://productosvirales.com.ar/producto/MLA62609709
+- **MLA48098024** — Cortador Papas Bastón Aloha — Cuchilla Acero Inoxidable, Apto Lavavajillas: $7.401 → $3.344 (-55%)
+  - ML: https://www.mercadolibre.com.ar/cortador-papa-frita-baston-aloha-cuchilla-acero-inoxidable/p/MLA48098024
+  - Sitio: https://productosvirales.com.ar/producto/MLA48098024
+
+## 2026-09-02
+
+- **MLA21789761** — Horno Electrico Atma Hga3022 Grill 30l 1500w Timer 250° Gris: $499.999 → $238.999 (-52%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA21789761
+  - Sitio: https://productosvirales.com.ar/producto/MLA21789761
+- **MLA42113760** — Freidora De Aire Kanji Home 8 Litros +10 Funciones Canasta Antiadherente Kjh-1700dc 1700w Lh Color Negro: $173.000 → $349.999 (+102%)
+  - ML: https://www.mercadolibre.com.ar/freidora-de-aire-kanji-home-8-litros-10-funciones-canasta-antiadherente-kjh-1700dc-1700w-lh-color-negro/p/MLA42113760
+  - Sitio: https://productosvirales.com.ar/producto/MLA42113760
+- **MLA15244160** — Multiprocesadora Ultracomb 600w Pc-6800 Negro Bold de Vidrio Capacidad 1,2Lts: $70.199 → $199.999 (+185%)
+  - ML: https://www.mercadolibre.com.ar/multiprocesadora-ultracomb-600w-pc-6800-negro-bold-de-vidrio-capacidad-12lts/p/MLA15244160
+  - Sitio: https://productosvirales.com.ar/producto/MLA15244160
+- **MLA8732921** — Auriculares Gamer Con Cable HyperX Cloud HX-HSCA Black y Red: $91.379 → $779.403 (+753%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA8732921
+  - Sitio: https://productosvirales.com.ar/producto/MLA8732921
+- **MLA17380375** — Ventilador De Techo Liliana Vthi513 Blanco Con 3 Palas Metal Diámetro 1.4 m: $219.429 → $106.392 (-52%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA17380375
+  - Sitio: https://productosvirales.com.ar/producto/MLA17380375
+- **MLA62609709** — Bloques Magnéticos Cubos Para Armar Estilo Minecraft 60 Piezas: $27.150 → $80.999 (+198%)
+  - ML: https://www.mercadolibre.com.ar/bloques-magneticos-cubos-para-armar-de-construccion-estilo-minecraft-para-ninos-60-piezas-didacticos-creativo-ilimitado-material-seguro-y-resistente-no-toxicos-bordes-suaves-levys-bazar/p/MLA62609709
+  - Sitio: https://productosvirales.com.ar/producto/MLA62609709
+
+## 2026-08-31
+
+- **MLA8732921** — Auriculares Gamer Con Cable HyperX Cloud HX-HSCA Black y Red: $91.379 → $779.403 (+753%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA8732921
+  - Sitio: https://productosvirales.com.ar/producto/MLA8732921
+- **MLA21789761** — Horno Electrico Atma Hga3022 Grill 30l 1500w Timer 250° Gris: $499.999 → $238.999 (-52%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA21789761
+  - Sitio: https://productosvirales.com.ar/producto/MLA21789761
+- **MLA42113760** — Freidora De Aire Kanji Home 8 Litros +10 Funciones Canasta Antiadherente Kjh-1700dc 1700w Lh Color Negro: $173.000 → $349.999 (+102%)
+  - ML: https://www.mercadolibre.com.ar/freidora-de-aire-kanji-home-8-litros-10-funciones-canasta-antiadherente-kjh-1700dc-1700w-lh-color-negro/p/MLA42113760
+  - Sitio: https://productosvirales.com.ar/producto/MLA42113760
+- **MLA15244160** — Multiprocesadora Ultracomb 600w Pc-6800 Negro Bold de Vidrio Capacidad 1,2Lts: $70.199 → $199.999 (+185%)
+  - ML: https://www.mercadolibre.com.ar/multiprocesadora-ultracomb-600w-pc-6800-negro-bold-de-vidrio-capacidad-12lts/p/MLA15244160
+  - Sitio: https://productosvirales.com.ar/producto/MLA15244160
+- **MLA17380375** — Ventilador De Techo Liliana Vthi513 Blanco Con 3 Palas Metal Diámetro 1.4 m: $219.429 → $106.392 (-52%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA17380375
+  - Sitio: https://productosvirales.com.ar/producto/MLA17380375
+- **MLA62609709** — Bloques Magnéticos Cubos Para Armar Estilo Minecraft 60 Piezas: $27.150 → $89.999 (+231%)
+  - ML: https://www.mercadolibre.com.ar/bloques-magneticos-cubos-para-armar-de-construccion-estilo-minecraft-para-ninos-60-piezas-didacticos-creativo-ilimitado-material-seguro-y-resistente-no-toxicos-bordes-suaves-levys-bazar/p/MLA62609709
+  - Sitio: https://productosvirales.com.ar/producto/MLA62609709
+- **MLA41479634** — Freidora de Aire Westinghouse AFR-1802 — 10 Litros, 1,8 kW, 12 Funciones: $350.000 → $156.509 (-55%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA41479634
+  - Sitio: https://productosvirales.com.ar/producto/MLA41479634
+
+## 2026-08-28
+
+- **MLA8732921** — Auriculares Gamer Con Cable HyperX Cloud HX-HSCA Black y Red: $91.379 → $779.403 (+753%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA8732921
+  - Sitio: https://productosvirales.com.ar/producto/MLA8732921
+- **MLA42113760** — Freidora De Aire Kanji Home 8 Litros +10 Funciones Canasta Antiadherente Kjh-1700dc 1700w Lh Color Negro: $173.000 → $399.999 (+131%)
+  - ML: https://www.mercadolibre.com.ar/freidora-de-aire-kanji-home-8-litros-10-funciones-canasta-antiadherente-kjh-1700dc-1700w-lh-color-negro/p/MLA42113760
+  - Sitio: https://productosvirales.com.ar/producto/MLA42113760
+- **MLA17380375** — Ventilador De Techo Liliana Vthi513 Blanco Con 3 Palas Metal Diámetro 1.4 m: $219.429 → $99.990 (-54%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA17380375
+  - Sitio: https://productosvirales.com.ar/producto/MLA17380375
+- **MLA15244160** — Multiprocesadora Ultracomb 600w Pc-6800 Negro Bold de Vidrio Capacidad 1,2Lts: $70.199 → $199.999 (+185%)
+  - ML: https://www.mercadolibre.com.ar/multiprocesadora-ultracomb-600w-pc-6800-negro-bold-de-vidrio-capacidad-12lts/p/MLA15244160
+  - Sitio: https://productosvirales.com.ar/producto/MLA15244160
+- **MLA41479634** — Freidora de Aire Westinghouse AFR-1802 — 10 Litros, 1,8 kW, 12 Funciones: $350.000 → $156.509 (-55%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA41479634
+  - Sitio: https://productosvirales.com.ar/producto/MLA41479634
+- **MLA26789578** — Almohada Masajeadora Eléctrica para Cuello Inalámbrica con Calor y Vibración, Recargable USB: $27.999 → $59.999 (+114%)
+  - ML: https://www.mercadolibre.com.ar/almohada-masajeadora-electrica-para-cuello-inalambrica-con-calor-y-vibracion-recargable-usb/p/MLA26789578
+  - Sitio: https://productosvirales.com.ar/producto/MLA26789578
+
+## 2026-08-26
+
+- **MLA8732921** — Auriculares Gamer Con Cable HyperX Cloud HX-HSCA Black y Red: $91.379 → $779.403 (+753%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA8732921
+  - Sitio: https://productosvirales.com.ar/producto/MLA8732921
+- **MLA42113760** — Freidora De Aire Kanji Home 8 Litros +10 Funciones Canasta Antiadherente Kjh-1700dc 1700w Lh Color Negro: $173.000 → $399.999 (+131%)
+  - ML: https://www.mercadolibre.com.ar/freidora-de-aire-kanji-home-8-litros-10-funciones-canasta-antiadherente-kjh-1700dc-1700w-lh-color-negro/p/MLA42113760
+  - Sitio: https://productosvirales.com.ar/producto/MLA42113760
+- **MLA15244160** — Multiprocesadora Ultracomb 600w Pc-6800 Negro Bold de Vidrio Capacidad 1,2Lts: $70.199 → $199.999 (+185%)
+  - ML: https://www.mercadolibre.com.ar/multiprocesadora-ultracomb-600w-pc-6800-negro-bold-de-vidrio-capacidad-12lts/p/MLA15244160
+  - Sitio: https://productosvirales.com.ar/producto/MLA15244160
+- **MLA41479634** — Freidora de Aire Westinghouse AFR-1802 — 10 Litros, 1,8 kW, 12 Funciones: $350.000 → $156.509 (-55%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA41479634
+  - Sitio: https://productosvirales.com.ar/producto/MLA41479634
+
+## 2026-08-24
+
+- **MLA8732921** — Auriculares Gamer Con Cable HyperX Cloud HX-HSCA Black y Red: $91.379 → $779.403 (+753%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA8732921
+  - Sitio: https://productosvirales.com.ar/producto/MLA8732921
+- **MLA42113760** — Freidora De Aire Kanji Home 8 Litros +10 Funciones Canasta Antiadherente Kjh-1700dc 1700w Lh Color Negro: $173.000 → $349.999 (+102%)
+  - ML: https://www.mercadolibre.com.ar/freidora-de-aire-kanji-home-8-litros-10-funciones-canasta-antiadherente-kjh-1700dc-1700w-lh-color-negro/p/MLA42113760
+  - Sitio: https://productosvirales.com.ar/producto/MLA42113760
+- **MLA19788587** — Ultracomb Pe4910 Pava Electrica Con Infusor De Te Func. Mate: $199.999 → $99.999 (-50%)
+  - ML: https://www.mercadolibre.com.ar/ultracomb-pe4910-pava-electrica-con-infusor-de-te-func-mate/p/MLA19788587
+  - Sitio: https://productosvirales.com.ar/producto/MLA19788587
+- **MLA47856504** — Plancha De Pelo Revlon 230° Placas 5.08Cm. Recubrimiento Titanio - plateada glitter: $399.999 → $69.999 (-83%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA47856504
+  - Sitio: https://productosvirales.com.ar/producto/MLA47856504
+- **MLA17380375** — Ventilador De Techo Liliana Vthi513 Blanco Con 3 Palas Metal Diámetro 1.4 m: $219.429 → $105.990 (-52%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA17380375
+  - Sitio: https://productosvirales.com.ar/producto/MLA17380375
+- **MLA20038035** — Freezer Vertical Philco PHCV065B — 65 Litros, Blanco, 20 kg: $772.199 → $353.599 (-54%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA20038035
+  - Sitio: https://productosvirales.com.ar/producto/MLA20038035
+- **MLA41479634** — Freidora de Aire Westinghouse AFR-1802 — 10 Litros, 1,8 kW, 12 Funciones: $350.000 → $156.509 (-55%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA41479634
+  - Sitio: https://productosvirales.com.ar/producto/MLA41479634
+
+## 2026-08-21
+
+- **MLA8732921** — Auriculares Gamer Con Cable HyperX Cloud HX-HSCA Black y Red: $91.379 → $779.403 (+753%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA8732921
+  - Sitio: https://productosvirales.com.ar/producto/MLA8732921
+- **MLA42113760** — Freidora De Aire Kanji Home 8 Litros +10 Funciones Canasta Antiadherente Kjh-1700dc 1700w Lh Color Negro: $173.000 → $349.999 (+102%)
+  - ML: https://www.mercadolibre.com.ar/freidora-de-aire-kanji-home-8-litros-10-funciones-canasta-antiadherente-kjh-1700dc-1700w-lh-color-negro/p/MLA42113760
+  - Sitio: https://productosvirales.com.ar/producto/MLA42113760
+- **MLA19788587** — Ultracomb Pe4910 Pava Electrica Con Infusor De Te Func. Mate: $199.999 → $99.999 (-50%)
+  - ML: https://www.mercadolibre.com.ar/ultracomb-pe4910-pava-electrica-con-infusor-de-te-func-mate/p/MLA19788587
+  - Sitio: https://productosvirales.com.ar/producto/MLA19788587
+- **MLA47856504** — Plancha De Pelo Revlon 230° Placas 5.08Cm. Recubrimiento Titanio - plateada glitter: $399.999 → $71.999 (-82%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA47856504
+  - Sitio: https://productosvirales.com.ar/producto/MLA47856504
+- **MLA17380375** — Ventilador De Techo Liliana Vthi513 Blanco Con 3 Palas Metal Diámetro 1.4 m: $219.429 → $105.990 (-52%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA17380375
+  - Sitio: https://productosvirales.com.ar/producto/MLA17380375
+- **MLA50045029** — Termómetro Digital Infrarrojo Lepu LFR30B Frente Memoria Adultos Niños: $25.990 → $58.421 (+125%)
+  - ML: https://www.mercadolibre.com.ar/termometro-digital-infrarrojo-lepu-lfr30b-frente-memoria-adultos-ninos/p/MLA50045029
+  - Sitio: https://productosvirales.com.ar/producto/MLA50045029
+- **MLA20038035** — Freezer Vertical Philco PHCV065B — 65 Litros, Blanco, 20 kg: $772.199 → $353.599 (-54%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA20038035
+  - Sitio: https://productosvirales.com.ar/producto/MLA20038035
+- **MLA41479634** — Freidora de Aire Westinghouse AFR-1802 — 10 Litros, 1,8 kW, 12 Funciones: $350.000 → $156.509 (-55%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA41479634
+  - Sitio: https://productosvirales.com.ar/producto/MLA41479634
+
+## 2026-08-19
+
+- **MLA8732921** — Auriculares Gamer Con Cable HyperX Cloud HX-HSCA Black y Red: $91.379 → $779.403 (+753%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA8732921
+  - Sitio: https://productosvirales.com.ar/producto/MLA8732921
+- **MLA42113760** — Freidora De Aire Kanji Home 8 Litros +10 Funciones Canasta Antiadherente Kjh-1700dc 1700w Lh Color Negro: $173.000 → $349.999 (+102%)
+  - ML: https://www.mercadolibre.com.ar/freidora-de-aire-kanji-home-8-litros-10-funciones-canasta-antiadherente-kjh-1700dc-1700w-lh-color-negro/p/MLA42113760
+  - Sitio: https://productosvirales.com.ar/producto/MLA42113760
+- **MLA20038035** — Freezer Vertical Philco PHCV065B — 65 Litros, Blanco, 20 kg: $772.199 → $364.899 (-53%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA20038035
+  - Sitio: https://productosvirales.com.ar/producto/MLA20038035
+
 ## 2026-08-17
 
 - **MLA42113760** — Freidora De Aire Kanji Home 8 Litros +10 Funciones Canasta Antiadherente Kjh-1700dc 1700w Lh Color Negro: $173.000 → $349.999 (+102%)

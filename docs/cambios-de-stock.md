@@ -7,6 +7,72 @@
 > 🔴 = se quedo sin stock (el link de afiliado apunta a una pagina pausada).
 > Entradas nuevas arriba.
 
+## 2026-09-09
+
+- 🟢 VOLVIO EL STOCK — **MLA29364436** Cámara Deportiva DJI Osmo Action 4
+  - ML: https://www.mercadolibre.com.ar/p/MLA29364436
+  - Sitio: https://productosvirales.com.ar/producto/MLA29364436
+
+## 2026-09-07
+
+- 🟢 VOLVIO EL STOCK — **MLA886877609** Humidificador Portátil USB 220ml — Difusor Aromático Cápsula Blanca
+  - ML: https://articulo.mercadolibre.com.ar/MLA-886877609-humidificador-difusor-vaporizador-purificador-de-ambiente-_JM
+  - Sitio: https://productosvirales.com.ar/producto/MLA886877609
+- 🟢 VOLVIO EL STOCK — **MLA841529901** Difusor Aromatizador Humidificador Tren Locomotora 300ml — Electroland
+  - ML: https://articulo.mercadolibre.com.ar/MLA-841529901-humificador-electrico-aromaterapia-luces-led-vapor-tren-_JM
+  - Sitio: https://productosvirales.com.ar/producto/MLA841529901
+
+## 2026-09-02
+
+- 🟢 VOLVIO EL STOCK — **MLA49747515** Pava Eléctrica ATMA Negra — Interior Acero Inoxidable, 1.8L, 1500W
+  - ML: https://www.mercadolibre.com.ar/pava-electrica-atma-18-l-interior-acero-inoxidable-negro/p/MLA49747515
+  - Sitio: https://productosvirales.com.ar/producto/MLA49747515
+- 🟢 VOLVIO EL STOCK — **MLA19630911** Freidora de aire 6,2 Litros Philips Essential HD927091 Negro
+  - ML: https://www.mercadolibre.com.ar/freidora-de-aire-62-litros-philips-essential-hd927091-negro/p/MLA19630911
+  - Sitio: https://productosvirales.com.ar/producto/MLA19630911
+
+## 2026-08-28
+
+- 🟢 VOLVIO EL STOCK — **MLA2729985625** Proyector Oso Astronauta MTI 730 — Galaxia y Estrellas BT
+  - ML: https://www.mercadolibre.com.ar/proyector-astronauta--galaxia-estrellas-bluetooth-parlante/up/MLAU2729985625
+  - Sitio: https://productosvirales.com.ar/producto/MLA2729985625
+- 🟢 VOLVIO EL STOCK — **MLA52661526** Mini Proyector Portátil 4k Fika P8 Hd 720p 8000 Lumens 170 ANSI Android Wifi 4k Cine Color Blanco
+  - ML: https://www.mercadolibre.com.ar/mini-proyector-portatil-4k-fika-p8-hd-720p-8000-lumens-170-ansi-android-wifi-4k-cine-color-blanco/p/MLA52661526
+  - Sitio: https://productosvirales.com.ar/producto/MLA52661526
+- 🟢 VOLVIO EL STOCK — **MLA52018443** Mini Proyector Portátil 4k Fika P8 Hd 720p 8000 Lumens 170 ANSI Android Wifi Cine Color Negro
+  - ML: https://www.mercadolibre.com.ar/mini-proyector-portatil-4k-fika-p8-hd-720p-8000-lumens-170-ansi-android-wifi-cine-color-negro/p/MLA52018443
+  - Sitio: https://productosvirales.com.ar/producto/MLA52018443
+- 🟢 VOLVIO EL STOCK — **MLA18562154** Cafetera express Smartlife SL-EC8501 20 bares con espumador
+  - ML: https://www.mercadolibre.com.ar/p/MLA22761858
+  - Sitio: https://productosvirales.com.ar/producto/MLA18562154
+
+## 2026-08-26
+
+- 🟢 VOLVIO EL STOCK — **MLA19630911** Freidora de aire 6,2 Litros Philips Essential HD927091 Negro
+  - ML: https://www.mercadolibre.com.ar/freidora-de-aire-62-litros-philips-essential-hd927091-negro/p/MLA19630911
+  - Sitio: https://productosvirales.com.ar/producto/MLA19630911
+- 🟢 VOLVIO EL STOCK — **MLA18562154** Cafetera express Smartlife SL-EC8501 20 bares con espumador
+  - ML: https://www.mercadolibre.com.ar/p/MLA22761858
+  - Sitio: https://productosvirales.com.ar/producto/MLA18562154
+
+## 2026-08-24
+
+- 🟢 VOLVIO EL STOCK — **MLA27077238** Máquina Cortar Papas Bastón 2 Cuchillas — Palanca Metal + PVC
+  - ML: https://www.mercadolibre.com.ar/corta-papas-cortadora-verduras-frutas-baston-2-cuchillas/p/MLA27077238
+  - Sitio: https://productosvirales.com.ar/producto/MLA27077238
+
+## 2026-08-21
+
+- 🟢 VOLVIO EL STOCK — **MLA22975097** Mini Proyector Led Portatil 1200 Lumens Color Blanco
+  - ML: https://www.mercadolibre.com.ar/mini-proyector-led-portatil-1200-lumens-color-blanco/p/MLA22975097
+  - Sitio: https://productosvirales.com.ar/producto/MLA22975097
+- 🟢 VOLVIO EL STOCK — **MLA72187457** Cafetera eléctrica Electrolux ECM25 acero inoxidable
+  - ML: https://www.mercadolibre.com.ar/p/MLA72187457
+  - Sitio: https://productosvirales.com.ar/producto/MLA72187457
+- 🟢 VOLVIO EL STOCK — **MLA24692647** Proyector Portatil Led Dakota 8500lm Wifi 1080p Mirrorlink Color Negro
+  - ML: https://www.mercadolibre.com.ar/proyector-portatil-led-dakota-8500lm-wifi-1080p-mirrorlink-color-negro/p/MLA24692647
+  - Sitio: https://productosvirales.com.ar/producto/MLA24692647
+
 ## 2026-08-17
 
 - 🟢 VOLVIO EL STOCK — **MLA23437114** Cafetera Nespresso Lattissima One blanca con leche integrada

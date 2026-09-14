@@ -78,27 +78,34 @@ export function StickyBuyBar({ product }: StickyBuyBarProps) {
       }}
       aria-hidden={!visible}
     >
-      {/* eslint-disable-next-line @next/next/no-img-element */}
-      <img
-        src={product.image}
-        alt=""
-        className="w-[42px] h-[42px] shrink-0 object-contain rounded-[8px] bg-[var(--bg-secondary)]"
-      />
-      <div className="flex-1 min-w-0">
-        <div
-          className="text-[13px] font-bold text-[var(--text-primary)] truncate"
-          style={{ fontFamily: "var(--font-display)" }}
-        >
-          {product.title}
+      <Link
+        href={productHref(product)}
+        prefetch={false}
+        data-cta-location="sticky-product"
+        className="flex flex-1 min-w-0 items-center gap-3"
+      >
+        {/* eslint-disable-next-line @next/next/no-img-element */}
+        <img
+          src={product.image}
+          alt=""
+          className="w-[42px] h-[42px] shrink-0 object-contain rounded-[8px] bg-[var(--bg-secondary)]"
+        />
+        <div className="flex-1 min-w-0">
+          <div
+            className="text-[13px] font-bold text-[var(--text-primary)] truncate"
+            style={{ fontFamily: "var(--font-display)" }}
+          >
+            {product.title}
+          </div>
+          <div className="text-[12px] text-[var(--text-secondary)] truncate">
+            {product.rating ? `${product.rating.toFixed(1)} · ` : ""}
+            {product.reviewCount
+              ? `${product.reviewCount.toLocaleString("es-AR")} calificaciones · `
+              : ""}
+            {priceText ?? ""}
+          </div>
         </div>
-        <div className="text-[12px] text-[var(--text-secondary)] truncate">
-          {product.rating ? `${product.rating.toFixed(1)} · ` : ""}
-          {product.reviewCount
-            ? `${product.reviewCount.toLocaleString("es-AR")} calificaciones · `
-            : ""}
-          {priceText ?? ""}
-        </div>
-      </div>
+      </Link>
       {product.priceStatus === "out_of_stock" ? (
         <Link
           href={productHref(product)}

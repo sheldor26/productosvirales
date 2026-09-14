@@ -2,12 +2,13 @@ import type { Coupon } from "@/lib/types";
 
 export const activeCoupons: Coupon[] = [
   {
-    // El mensaje de MELI no indicó horario de inicio (a diferencia de los
-    // anteriores), así que va sin `validFrom`: vale desde cualquier hora.
-    code: "REGALAZO",
+    // Cierre del CyberFest. Site-wide y monto fijo: sin `categories`,
+    // así que también aparece en /enlaces.
+    code: "CYBERDESC",
     discountAmount: 20000,
     minPurchase: 250000,
-    validUntil: "2026-08-15T23:59:00-03:00",
+    validFrom: "2026-09-13T09:00:00-03:00",
+    validUntil: "2026-09-13T23:59:00-03:00",
     active: true,
   },
 ];

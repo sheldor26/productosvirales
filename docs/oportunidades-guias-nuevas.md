@@ -250,3 +250,92 @@ Con volumen verificado y canibalización limpia, faltando góndola y SD en todos
 
 Descartados por ahora: cinta de correr (fragmentada), taladro percutor (5.400, el más chico),
 parrilla a gas (2.400 y roce con `parrilla-electrica`).
+
+---
+
+## Iteración 3 — 2026-08-18
+
+**Publicada `hidrolavadora`** (40.500/mes), STAGED al 2026-11-23, silo `hogar-jardin`,
+6 fichas nuevas, GO de los dos auditores. Con esto el top 3 de jardín queda cerrado:
+bordeadora, cortadora e hidrolavadora.
+
+### Hallazgo de método: cómo verificar góndola cuando el listado no renderiza
+
+El 2026-08-18 el listado de ML seguía sin renderizar: `listado.mercadolibre.com.ar/<query>`
+carga el HTML pero se queda en 919 caracteres, cero productos, con el progressbar colgado.
+Pedir el HTML del servidor tampoco sirve: devuelve el shell, sin productos.
+
+**Lo que SÍ funciona: la ruta `/mas-vendidos/<CATEGORIA>`.** Renderiza y devuelve URLs de
+catálogo `/p/MLA` reales. Así se verificó la góndola de hidrolavadoras, que resultó tener
+categoría propia (`MLA30840`) con filtros de marca.
+
+Ruta para llegar a la categoría: `mas-vendidos/` → categoría madre → subcategoría.
+Para hidrolavadoras fue MLA407134 (Herramientas) → MLA5228 (Herramientas Eléctricas) →
+MLA455279 (Limpieza) → **MLA30840 (Hidrolavadoras)**.
+
+### Límite importante de ese método (no confundirlo con "no hay góndola")
+
+`/mas-vendidos` muestra un **top curado, no el catálogo completo**. Sirve como piso, nunca
+como conteo. Concretamente: para "hidrolavadora inalámbrica" aparecieron 4 fichas y para
+"hidrolavadora Karcher" apareció 1. **Eso NO significa que la góndola sea flaca**: significa
+que son *recortes por atributo o marca dentro* de una categoría, y el top de la categoría
+no los lista a todos.
+
+Es el mismo error de inferencia que casi hace descartar heladeras: confundir "la herramienta
+que uso no me los muestra" con "no existen".
+
+### Consecuencia para elegir el próximo rubro
+
+**Priorizar rubros que tengan categoría propia en MercadoLibre**, porque ahí `/mas-vendidos`
+da una verificación limpia. Los recortes por atributo (inalámbrica, a batería) o por marca
+(Karcher) quedan bloqueados hasta que el listado vuelva a renderizar, o hasta encontrar otra
+forma de enumerar la categoría completa.
+
+- `hidrolavadora inalámbrica` (6.600/mes, Keyword Planner confirmado, canibalización limpia)
+  → EN ESPERA por góndola no verificable, no por falta de demanda.
+- `hidrolavadora Karcher` (5.400/mes, canibalización limpia) → misma espera.
+
+### Deuda pendiente que arrastra de la iteración anterior
+
+- **cochecito de bebé**: se descartó con el método flojo (WebSearch sin `/p/MLA`). Hay que
+  rechequearlo por navegador antes de darlo por muerto.
+- **pileta de lona**: 90.500/mes en diciembre. Retomar fines de septiembre de 2026.
+
+---
+
+## Iteración 5 — 2026-09-09
+
+Con `bordeadora eléctrica` y `cortadora de césped` ya publicadas, se retoma la cola de la
+iteración 4 (mancuernas, rascador para gatos, cochecito de bebé) y se suman 4 candidatas nuevas
+de categorías afines (fitness, herramientas, bebés) vía Keyword Planner.
+
+**Hallazgo de método: mismatch de acentos.** Tanto Ubersuggest como Keyword Planner devuelven
+`search_volume: 0` para "cochecito de bebé" y "corralito para bebé" (con tilde) pese a ser
+keywords reales y ya validadas antes. Requeridar SIN tilde ("cochecito de bebe", "corralito
+bebe") resuelve el volumen real. Ojo con este falso negativo en futuras iteraciones.
+
+| Keyword | Vol/mes (KWP + Ubersuggest) | SD | Intención | Canibalización | Góndola |
+| :-- | --: | --: | :-- | :-- | :-- |
+| mancuernas | **14.800** | 8 | Informacional | limpia | 9.752 resultados, docenas de marcas — GO |
+| bicicleta fija | **12.100** | 13 | Transaccional | limpia | 3.518 resultados, categoría propia — GO |
+| rascador para gatos | **9.900** | 9 | Transaccional | limpia | +9.999 resultados, categoría propia — GO |
+| cochecito de bebe | **9.900** | 22 | Transaccional | limpia | 9.726 resultados, categoría propia, marcas reconocidas — GO |
+| taladro percutor | **5.400** | 14 | Transaccional | limpia | +9.999 resultados, categoría propia — GO |
+| soga para saltar | **2.400** | 11 | Transaccional | limpia | +9.999 resultados, categoría propia — GO |
+| corralito bebe | **2.400** | 16 | Transaccional | limpia | 1.509 resultados, varias marcas — GO |
+
+Las 7 pasan las tres validaciones. `taladro percutor` estaba "afuera" en la iteración 4 por ser
+"el más chico" de ese barrido puntual, pero acá compite en su propio mérito y pasa limpio.
+
+### Orden de construcción (por volumen)
+
+1. mancuernas
+2. bicicleta fija
+3. rascador para gatos
+4. cochecito de bebé
+5. taladro percutor
+6. soga para saltar
+7. corralito para bebé
+
+Se construyen en este orden, una por una, siguiendo el flujo de `docs/fichas.md` + `docs/guias.md`
++ trio-auditor. Registro de avance en `docs/seo-tracking-optimizaciones.md`.

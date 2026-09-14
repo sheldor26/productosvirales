@@ -14,11 +14,27 @@ interface ProductGalleryProps {
 export function ProductGallery({ product }: ProductGalleryProps) {
   // Build a deduped image list, falling back to the main image when the array is missing.
   const candidates = product.images && product.images.length > 0 ? product.images : [product.image];
-  const images = Array.from(new Set(candidates.filter(Boolean)));
+  // El tope de 10 se aplica ACA, no solo al pintar las miniaturas: si no, el
+  // contador diría "1 / 24" mientras abajo hay 10 miniaturas, y avanzar pasaría
+  // por fotos sin miniatura correspondiente. Una sola fuente de verdad.
+  const images = Array.from(new Set(candidates.filter(Boolean))).slice(0, 10);
   const [activeIdx, setActiveIdx] = useState(0);
   const [failedIdx, setFailedIdx] = useState<Set<number>>(new Set());
   const activeImage = images[activeIdx] || product.image;
   const allFailed = images.length > 0 && images.every((_, i) => failedIdx.has(i));
+
+  const hayVarias = images.length > 1;
+
+  /** Avanza a la próxima foto que todavía no falló, dando la vuelta al final. */
+  function siguienteFoto() {
+    setActiveIdx((actual) => {
+      for (let paso = 1; paso <= images.length; paso++) {
+        const cand = (actual + paso) % images.length;
+        if (!failedIdx.has(cand)) return cand;
+      }
+      return actual;
+    });
+  }
 
   function handleImageError(idx: number) {
     setFailedIdx((prev) => {
@@ -55,8 +71,29 @@ export function ProductGallery({ product }: ProductGalleryProps) {
             onError={() => handleImageError(activeIdx)}
           />
         )}
+        {/* La foto grande ocupa media pantalla y no respondía a nada: la fila de
+            miniaturas queda debajo del pliegue en mobile, así que para ver la
+            segunda foto había que acertarle a un cuadrado de 100px. Tocar la
+            foto avanza, que es el gesto que la gente ya intenta. No es zoom:
+            las fotos de ML topan en 819px y ya se muestran casi a ese tamaño. */}
+        {hayVarias && !allFailed && (
+          <button
+            type="button"
+            onClick={siguienteFoto}
+            aria-label={`Ver la próxima foto (${activeIdx + 1} de ${images.length})`}
+            className="absolute inset-0 z-[1] cursor-pointer"
+          />
+        )}
+        {hayVarias && !allFailed && (
+          <span
+            aria-hidden="true"
+            className="absolute bottom-3 right-3 z-[2] pointer-events-none rounded-[var(--radius-pill)] bg-black/55 px-2 py-0.5 text-[11px] font-medium tabular-nums text-white"
+          >
+            {activeIdx + 1} / {images.length}
+          </span>
+        )}
         {product.tiktokViews && (
-          <div className="absolute top-4 left-4">
+          <div className="absolute top-4 left-4 z-[2]">
             <TikTokBadge views={product.tiktokViews} />
           </div>
         )}
@@ -65,7 +102,7 @@ export function ProductGallery({ product }: ProductGalleryProps) {
       {/* Thumbnails */}
       {images.length > 1 && (
         <div className="mt-3 grid grid-cols-5 gap-2">
-          {images.slice(0, 10).map((src, idx) => {
+          {images.map((src, idx) => {
             const isActive = idx === activeIdx;
             return (
               <button
