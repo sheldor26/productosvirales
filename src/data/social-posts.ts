@@ -3069,4 +3069,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "34",
     postedAt: "2026-09-14T18:32:00-03:00",
   },
+  {
+    title: 'PC Gamer Ryzen 5 3400G + Monitor 24"',
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_871359-MLA116447633309_082026-O.webp",
+    affiliateUrl: "https://meli.la/2svw3Zs",
+    newPrice: "745.054",
+    oldPrice: "1.999.999",
+    offPct: "62",
+    postedAt: "2026-09-15T08:12:00-03:00",
+  },
 ];
