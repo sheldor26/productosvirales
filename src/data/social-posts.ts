@@ -3089,4 +3089,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "32",
     postedAt: "2026-09-15T08:35:00-03:00",
   },
+  {
+    title: "Parlante JBL Boombox 3 Camuflado",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_657003-MLA96143992615_102025-O.webp",
+    affiliateUrl: "https://meli.la/15Aasxv",
+    newPrice: "665.999",
+    oldPrice: "1.259.999",
+    offPct: "47",
+    postedAt: "2026-09-15T08:57:00-03:00",
+  },
 ];
