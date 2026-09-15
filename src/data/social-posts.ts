@@ -3269,4 +3269,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "59",
     postedAt: "2026-09-15T18:47:35-03:00",
   },
+  {
+    title: "Cámara Web 4K Emeet S600 con Trípode",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_959000-MLA86337607631_062025-O.webp",
+    affiliateUrl: "https://meli.la/1juQcZ3",
+    newPrice: "181.449",
+    oldPrice: "378.649",
+    offPct: "52",
+    postedAt: "2026-09-15T19:14:01-03:00",
+  },
 ];
