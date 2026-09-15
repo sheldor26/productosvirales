@@ -3249,4 +3249,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "32",
     postedAt: "2026-09-15T16:48:04-03:00",
   },
+  {
+    title: "Aire Acondicionado Whirlpool Inverter 5160fg",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_785839-MLA115448571190_082026-O.webp",
+    affiliateUrl: "https://meli.la/2K3VNEr",
+    newPrice: "1.232.870",
+    oldPrice: "2.250.139",
+    offPct: "45",
+    postedAt: "2026-09-15T18:21:53-03:00",
+  },
 ];
