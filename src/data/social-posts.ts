@@ -3129,4 +3129,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "35",
     postedAt: "2026-09-15T10:01:00-03:00",
   },
+  {
+    title: "PC Gamer Ryzen 5 3400G + RTX 3050",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_848577-MLA81968537116_022025-OO.jpg",
+    affiliateUrl: "https://meli.la/2shSN8A",
+    newPrice: "1.057.299",
+    oldPrice: "2.000.319",
+    offPct: "47",
+    postedAt: "2026-09-15T10:23:00-03:00",
+  },
 ];
