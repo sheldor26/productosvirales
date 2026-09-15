@@ -3189,4 +3189,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "37",
     postedAt: "2026-09-15T10:19:00-03:00",
   },
+  {
+    title: 'Smart TV Samsung Neo QLED 55" Qn70f',
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_967595-MLA113918919823_062026-O.webp",
+    affiliateUrl: "https://meli.la/24iAhUz",
+    newPrice: "1.874.039",
+    oldPrice: "2.759.999",
+    offPct: "32",
+    postedAt: "2026-09-15T11:07:00-03:00",
+  },
 ];
