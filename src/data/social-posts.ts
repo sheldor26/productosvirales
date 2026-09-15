@@ -3119,4 +3119,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "33",
     postedAt: "2026-09-15T09:39:00-03:00",
   },
+  {
+    title: 'Smart TV Philips 50" 4K Titan OS',
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_650889-MLA99533780732_122025-O.webp",
+    affiliateUrl: "https://meli.la/1PtNNSn",
+    newPrice: "641.299",
+    oldPrice: "999.998",
+    offPct: "35",
+    postedAt: "2026-09-15T10:01:00-03:00",
+  },
 ];
