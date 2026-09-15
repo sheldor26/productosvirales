@@ -3179,4 +3179,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "40",
     postedAt: "2026-09-15T09:52:00-03:00",
   },
+  {
+    title: "Aire Acondicionado Philco Inverter 5700W",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_715208-MLA113927429468_072026-O.webp",
+    affiliateUrl: "https://meli.la/1hsdbUW",
+    newPrice: "1.249.999",
+    oldPrice: "1.999.999",
+    offPct: "37",
+    postedAt: "2026-09-15T10:19:00-03:00",
+  },
 ];
