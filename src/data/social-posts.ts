@@ -3259,4 +3259,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "45",
     postedAt: "2026-09-15T18:21:53-03:00",
   },
+  {
+    title: "Micrófono Maono DM30 RGB USB Gaming/Streaming",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_638694-MLA99464013798_112025-O.webp",
+    affiliateUrl: "https://meli.la/2F2Dce6",
+    newPrice: "101.101",
+    oldPrice: "249.999",
+    offPct: "59",
+    postedAt: "2026-09-15T18:47:35-03:00",
+  },
 ];
