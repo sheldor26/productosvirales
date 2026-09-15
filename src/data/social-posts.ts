@@ -3159,4 +3159,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "19",
     postedAt: "2026-09-15T11:09:00-03:00",
   },
+  {
+    title: 'Monitor Samsung Odyssey G4 27" 240Hz',
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_702284-MLA99507222496_112025-O.webp",
+    affiliateUrl: "https://meli.la/2zK5U2Q",
+    newPrice: "538.499",
+    oldPrice: "717.999",
+    offPct: "25",
+    postedAt: "2026-09-15T11:30:00-03:00",
+  },
 ];
