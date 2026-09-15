@@ -3279,4 +3279,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "52",
     postedAt: "2026-09-15T19:14:01-03:00",
   },
+  {
+    title: "Mouse Gamer Corsair M75 Air Ultra-Ligero",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_938903-MLA99938418699_112025-O.webp",
+    affiliateUrl: "https://meli.la/3188zuQ",
+    newPrice: "85.809",
+    oldPrice: "139.999",
+    offPct: "38",
+    postedAt: "2026-09-15T19:40:41-03:00",
+  },
 ];
