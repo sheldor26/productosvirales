@@ -331,6 +331,16 @@ negro — tienen precio de lista distinto).
 
 ## Pendiente de revisar
 
+- Notebook Acer Aspire Go 15 Ryzen 7 32GB/1TB (meli.la/2H1ASeu, MLA67836556)
+  sourceado el 2026-09-15 ~09:56 a $1.835.235 (15% OFF, "Mejor precio",
+  vendedor PRONOTEBOOKS, +5 disponibles). Al reverificar en vivo antes de
+  publicar (~10:44, 48 min después) subió a $2.013.999 — vendedor cambió a
+  ESPACIO ELECTRONICA, sin opción "Mejor precio" que recupere el valor
+  anterior, stock pasó a +50 disponibles (probablemente PRONOTEBOOKS se
+  agotó). El "31% OFF" nominal es sobre una base de lista más alta
+  ($2.918.848 vs $2.184.803) — el precio real que paga el comprador es
+  $178.764 más caro que la referencia. NO se publicó. Si vuelve a aparecer
+  a $1.835.235 o menos, es candidato válido.
 - ⚠️ INCIDENTE 2026-09-15: la tanda de 10 productos de la mañana (pedida por
   Juan para lanzar "hasta las 12:15") se publicó entera en 18 minutos reales
   (08:13 a 08:31), violando la regla de 25 min entre publicaciones (ver
