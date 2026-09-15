@@ -3289,4 +3289,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "38",
     postedAt: "2026-09-15T19:40:41-03:00",
   },
+  {
+    title: "Soundbar Samsung Ultra Slim HW-S801D 3.1.2",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_920647-MLA106134993948_022026-O.webp",
+    affiliateUrl: "https://meli.la/1rzhSoN",
+    newPrice: "1.039.999",
+    oldPrice: "1.579.998",
+    offPct: "34",
+    postedAt: "2026-09-15T20:06:37-03:00",
+  },
 ];
