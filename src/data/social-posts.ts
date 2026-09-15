@@ -3079,4 +3079,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "62",
     postedAt: "2026-09-15T08:12:00-03:00",
   },
+  {
+    title: "PC Gamer Noxi Ryzen 5 8500G 16GB/480GB",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_660961-MLA105975654218_022026-OO.jpg",
+    affiliateUrl: "https://meli.la/2xXoHMe",
+    newPrice: "1.019.999",
+    oldPrice: "1.499.999",
+    offPct: "32",
+    postedAt: "2026-09-15T08:35:00-03:00",
+  },
 ];
