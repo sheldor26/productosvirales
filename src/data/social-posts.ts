@@ -3209,4 +3209,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "28",
     postedAt: "2026-09-15T11:34:00-03:00",
   },
+  {
+    title: "PC Gamer Ryzen 5 8600G 32GB/1TB",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_864056-MLA114918506893_072026-O.webp",
+    affiliateUrl: "https://meli.la/2xRwcpD",
+    newPrice: "1.703.999",
+    oldPrice: "2.399.999",
+    offPct: "29",
+    postedAt: "2026-09-15T12:00:00-03:00",
+  },
 ];
