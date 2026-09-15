@@ -3199,4 +3199,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "32",
     postedAt: "2026-09-15T11:07:00-03:00",
   },
+  {
+    title: 'Televisor Samsung 43" Crystal UHD 4K',
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_961459-MLA109098668609_032026-O.webp",
+    affiliateUrl: "https://meli.la/2cfiAvZ",
+    newPrice: "638.999",
+    oldPrice: "899.899",
+    offPct: "28",
+    postedAt: "2026-09-15T11:34:00-03:00",
+  },
 ];
