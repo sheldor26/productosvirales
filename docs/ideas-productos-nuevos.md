@@ -4,6 +4,61 @@
 > MercadoLibre, de la corrida semanal automática. Generador de ideas — no
 > toca el catálogo. Entradas nuevas arriba.
 
+## 2026-09-15
+
+### Freidora de aire (ML) [ml] (10 productos)
+
+- OFERTA IMPERDIBLE — $249.999
+- Llega gratis mañana — $157.389
+- ![Hebillas Magnéticas De Silicona, Imanes Rojos Para Freidoras](https://http2.mlstatic.com/D_Q_NP_2X_923925-CBT115761038333_082026-E.webp) — $11.719
+- China Internacional China Enviado por FULL — $222.299
+- Llega gratis hoy — $296.979
+- ![Freidora De Aire Oster Staf11mcddfar 11 Litros Flex Negra - Negro](https://http2.mlstatic.com/D_Q_NP_2X_648342-MLA96919041668_112025-E.webp) — $399.999
+- ![Freidora De Aire Philco Fr259php 9 Lt 2000 W](https://http2.mlstatic.com/D_Q_NP_2X_750744-MLA115288337303_072026-E.webp) — $147.629
+- ![Freidora De Aire Digital Sin Aceite Niviko 3.8l 1500w Negro](https://http2.mlstatic.com/D_Q_NP_2X_749221-MLA99927682829_112025-E.webp) — $105.999
+- ![Soporte 24 Pinchos Acero Inox Freidora Aire](https://http2.mlstatic.com/D_Q_NP_2X_881084-CBT115485064849_082026-E.webp) — $13.790
+- ![Freidora De Aire Philips Canasta Doble 9 Litros Phna35100 Negro](https://http2.mlstatic.com/D_Q_NP_2X_782990-MLA110565781079_042026-E.webp) — $354.999
+
+### Aspiradora robot (ML) [ml] (0 productos)
+
+_No se pudo extraer nada esta vez — revisar el parser._
+
+### Amazon Kitchen & Dining bestsellers [amazon] (15 productos)
+
+- Bounty Paper Towels Quick Size, White, 16 Family Rolls = 40 Regular Rolls — US$43.49
+- Nespresso Capsules Vertuo, Variety Pack, Medium and Dark Roast Coffee, 30 Count Coffee Pods, Brews 7.8 oz. — US$42.00
+- Owala FreeSip Stainless Steel Water Bottle 24 oz Denim — US$29.99
+- Bounty Select-A-Size Paper Towels, White, 2 Triple Rolls = 6 Regular Rolls — US$6.97
+- Amazon Basics Everyday Disposable Paper Plates, 8.62 Inch, Microwave-Safe, Cut Resistant, Soak-Proof, 100 Count, Packaging May Vary — US$5.97
+- Dixie Paper Plates 8.5 Inch, 90 Count, Disposable Plates | For parties as dessert plates or snack plates, 2X stronger, small paper plates are soak-proof, cut resistant, microwave-safe — US$5.89
+- Amazon Basics 2-Ply Flex-Sheets Paper Towels, 12 Basics Rolls = 40 Regular Rolls, Everyday Value with 150 Sheets per Roll, Packaging May Vary — US$22.86
+- Scott Paper Towels, Choose-A-Sheet, 6 Double Rolls, 108 Sheets Per Roll — US$6.84
+- Brawny Tear-A-Square 3-Ply Paper Towels, 6 Double Rolls = 12 Regular Rolls | Strong, absorbent, and durable to tackle any tough mess — US$10.58
+- Lavazza Super Crema Whole Bean Coffee, Medium Espresso Roast, Arabica and Robusta Blend, 2.2 lb Bag, Package May Vary — US$25.70
+- Amazon Brand - Happy Belly Dark Roast Coffee Pods, Compatible with Keurig 2.0 K-Cup Brewers, 24 Count — US$5.45
+- Sparkle Pick-A-Size Kitchen Paper Towels, 6 Double Rolls, 660 Sheets | Strong 2 ply paper towels for kitchen cleanup and everyday messes, high absorbency for soaking up spills and wiping surfaces — US$7.92
+- Bounty Paper Napkins, White, 200 Count, Packaging may vary — US$3.48
+- Nespresso Vertuo, Barista Flavored Pack, Medium Roast, 30-Count Coffee Pods | Capsules Pack of 1 Brews 7.77 Fl. oz. — US$42.00
+- Bounty Essentials Select-A-Size Paper Towels, 6 Double Rolls, White, 108 Sheets Per Roll — US$7.97
+
+### Amazon Home & Kitchen bestsellers [amazon] (15 productos)
+
+- TERRO Liquid Ant Killer Bait Stations, 12-Pack, Indoor Ant Traps, T300B | Borax Formula, Kills the Queen & the Entire Colony, Liquid Ant Baits Indoor, Kills Household Ants, Indoor Use — US$9.58
+- Owala FreeSip Stainless Steel Water Bottle 24 oz Denim — US$29.99
+- Queen Size 4 Piece Sheet Set - Comfy Breathable & Cooling Sheets - White | Hotel Luxury Bed Sheets for Women & Men, Deep Pockets, Easy-Fit, Extra Soft and Wrinkle Free Sheets, Oeko-Tex Bed Sheet Set — US$24.99
+- Zevo Flying Insect Trap Refill Cartridges for Fruit Flies & Gnats, 4 Count | Fits Zevo MAX & Zevo Flying Insect Trap, Catches House Flies, Gnats & Fruit Flies 24/7, No Added Fragrance or Dyes — US$14.97
+- Amazon Basics Lightweight Super Soft Breathable Wrinkle-Resistant Microfiber 4-Piece Bed Sheet Set with 14-Inch Deep Pockets, Queen, Bright White, Solid — US$14.68
+- Amazon Basics Slim Velvet Non-Slip Space Saving Suit Clothes Hangers, Closet Organizer, Black, 50-Pack — US$18.89
+- BEDLORE Waterproof Mattress Protector, Queen Size Mattress Pad Noiseless | Deep Pockets Fit 6"-18" Mattresses, Soft Breathable Dirt-proof Bed Mattress Cover Washable for Home, Bedroom, Hotel — US$23.99
+- Zevo Flying Insect Trap for Fruit Flies & Gnats, 1 Plug-in Base & 1 Refills | Catches Fruit Flies & Gnats Near Fruit Bowls & Trash Bins, Spray-Free, Odor-Free, Blue & UV Light Trap, Safe for Kids & Pets\* — US$19.97
+- Barossa Design Oeko-tex Certified Shower Curtain Liner Standard Size, Clear | Waterproof PEVA, Rustproof Grommets, 3 Bottom Magnets, Cute Lightweight Bathroom Curtain, Fits Standard Tub 72" Length — US$8.95
+- upsimples 11x14 Picture Frame, Wall Decor Photo Frames, Black 1 Pack | 11 x 14 Frame, 8x10 Frame with Mat for Gallery Wall, Family, Baby, Dog, Dorm, Christmas — US$6.99
+- Niagara Sleep Solution Queen Ultra Soft Mattress Topper — Back Pain Relief | Rayon Derived from Bamboo, 20" Deep Pocket, Breathable Pillow Top Mattress Pad, Perfect for Hot Sleepers, Green — US$36.99
+- TERRO Fruit Fly Trap 4-Pack, 180 Day Lure Supply, Food-Based Lure | Apple-Shaped Design for Kitchen Counters, Fruit Bowls, Trash Cans, Food-Based Lure, Indoor Pest Control, Fruit Fly Killer — US$11.94
+- Utopia Bedding Gusset Bed Pillow, Hotel Pillows Queen Size Set of 2, White | Cotton Blended Down alternative pillows for sleeping, soft fluffy cooling comfort for Back, side & stomach sleepers, 2 pack — US$26.49
+- BigFoot Clear Shower Curtain - 72x72 Odorless Plastic with Magnets, Washable Long Bathroom Curtain - Premium PEVA Waterproof Bath Curtain, Rust-Proof Bathroom Essentials — US$9.99
+- Queen Sheets Set, 4 Pieces 16" Deep Pocket Hotel Luxury Bed Sheets, Grey | Extra Soft Bedsheet Set, Comfy & Breathable Cooling Sheets, Wrinkle & Fade Resistant, Fitted Sheet, Flat Sheet, 2 Pillowcases — US$13.31
+
 ## 2026-07-08
 
 ### Freidora de aire (ML) [ml] (15 productos)
