@@ -3099,4 +3099,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "47",
     postedAt: "2026-09-15T08:57:00-03:00",
   },
+  {
+    title: "Harman Kardon Onyx Studio 9",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_773849-MLA114122651117_072026-O.webp",
+    affiliateUrl: "https://meli.la/2kPurh9",
+    newPrice: "320.999",
+    oldPrice: "949.999",
+    offPct: "66",
+    postedAt: "2026-09-15T09:18:00-03:00",
+  },
 ];
