@@ -3169,4 +3169,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "25",
     postedAt: "2026-09-15T08:31:00-03:00",
   },
+  {
+    title: 'Monitor Samsung Odyssey G6 27" 240Hz QHD',
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_687603-MLU74727084616_032024-O.webp",
+    affiliateUrl: "https://meli.la/1RJCx8D",
+    newPrice: "1.160.999",
+    oldPrice: "1.934.999",
+    offPct: "40",
+    postedAt: "2026-09-15T09:52:00-03:00",
+  },
 ];
