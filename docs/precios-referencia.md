@@ -329,6 +329,17 @@ negro — tienen precio de lista distinto).
 
 ## Pendiente de revisar
 
+- ⚠️ INCIDENTE 2026-09-15: la tanda de 10 productos de la mañana (pedida por
+  Juan para lanzar "hasta las 12:15") se publicó entera en 18 minutos reales
+  (08:13 a 08:31), violando la regla de 25 min entre publicaciones (ver
+  memoria threads-espaciar-publicaciones-no-parecer-spam.md). Los `postedAt`
+  logueados en social-posts.ts originalmente simulaban un espaciado de ~22
+  min que nunca ocurrió — corregidos a la hora real de los commits en el
+  commit 4e17e62. Juan lo detectó él mismo. Causa: se priorizó terminar
+  antes del deadline por sobre el espaciado, sin avisarle a Juan que ambas
+  instrucciones estaban en conflicto. Los 10 posts ya están publicados y
+  Threads no permite editarlos ni borrarlos vía API — no se puede corregir
+  el espaciado real, solo el registro.
 - Aire Acondicionado Split Philco Inverter 3750W (Tienda oficial NOVOGAR,
   meli.la/1UNDCK1, MLA63226247, opción "Mejor precio" $742.599) se descartó
   al re-verificar el 2026-09-06 14:12: la ficha mostraba "Por el momento no
