@@ -39,6 +39,61 @@ function requireEnv(name) {
   return value;
 }
 
+// Guardrail duro #2: espaciar 25 minutos reales entre publicaciones de
+// producto (Threads+Instagram del mismo producto cuentan como una sola
+// publicación, ver memoria threads-espaciar-publicaciones-no-parecer-spam.md).
+// Se rompió el 2026-09-15: se publicaron 10 productos seguidos en 18 minutos
+// reales (spam a ojos de un seguidor) porque el espaciado dependía de que
+// Claude "se acuerde" de esperar — no hay forma de que un modelo garantice
+// eso de manera confiable bajo presión de un deadline. Igual que con el
+// link de afiliado (requireAffiliateLinkInText), esto tiene que ser
+// estructuralmente imposible de saltear por accidente, no una regla que se
+// pueda "olvidar". Solo aplica a carousel/post (publicación real de
+// producto) — un post de texto (anuncio, no producto) no cuenta.
+const SPACING_STATE_FILE = path.join(__dirname, "..", ".cache", "last-product-post.json");
+const SPACING_MINUTES = 25;
+
+function enforceSpacing() {
+  if (process.env.ALLOW_FAST_PUBLISH === "1") {
+    console.warn(
+      "⚠️  ALLOW_FAST_PUBLISH=1: saltando el guardrail de 25 min entre publicaciones.\n" +
+      "   Usar SOLO si Juan autorizó explícitamente en el chat espaciar menos esta vez puntual."
+    );
+    return;
+  }
+  let state;
+  try {
+    state = JSON.parse(fs.readFileSync(SPACING_STATE_FILE, "utf8"));
+  } catch {
+    state = null;
+  }
+  if (state && state.lastPublishedAt) {
+    const elapsedMs = Date.now() - new Date(state.lastPublishedAt).getTime();
+    const elapsedMin = elapsedMs / 60000;
+    if (elapsedMin < SPACING_MINUTES) {
+      const remaining = Math.ceil(SPACING_MINUTES - elapsedMin);
+      console.error(
+        `BLOQUEADO: la última publicación de producto (${state.lastTitle || "sin título"}) fue hace ` +
+        `${elapsedMin.toFixed(1)} minutos. Faltan ${remaining} minuto(s) para llegar a los ${SPACING_MINUTES} ` +
+        "min mínimos entre publicaciones (evita que la cuenta parezca spam).\n" +
+        "No hay forma de arreglar esto publicando de todos modos — esperá el tiempo real (con CronCreate/\n" +
+        "ScheduleWakeup, NO con un timestamp inventado) y volvé a correr el comando.\n" +
+        "Si Juan te autorizó explícitamente en el chat a espaciar menos esta vez puntual, volvé a correr\n" +
+        "con ALLOW_FAST_PUBLISH=1 antes del comando — nunca por decisión propia."
+      );
+      process.exit(1);
+    }
+  }
+}
+
+function recordPublish(title) {
+  fs.mkdirSync(path.dirname(SPACING_STATE_FILE), { recursive: true });
+  fs.writeFileSync(
+    SPACING_STATE_FILE,
+    JSON.stringify({ lastPublishedAt: new Date().toISOString(), lastTitle: title || null }, null, 2)
+  );
+}
+
 // Guardrail duro: un post con imagen (post/carousel) es SIEMPRE la
 // promoción de un producto puntual, y el link de afiliado real tiene que
 // estar pegado en el cuerpo del texto (no "Link en la bio" — eso es solo
@@ -293,10 +348,14 @@ async function main() {
     await publishText({ text: arg1, topicTag: arg2, threadsUserId, accessToken });
   } else if (tipo === "carousel") {
     requireAffiliateLinkInText(arg2);
+    enforceSpacing();
     await publishCarousel({ imagePathsArg: arg1, text: arg2, topicTag: arg3, threadsUserId, accessToken });
+    recordPublish(arg2);
   } else {
     requireAffiliateLinkInText(arg2);
+    enforceSpacing();
     await publishImage({ imagePath: arg1, text: arg2, topicTag: arg3, threadsUserId, accessToken });
+    recordPublish(arg2);
   }
 }
 
