@@ -3149,4 +3149,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "38",
     postedAt: "2026-09-15T10:47:00-03:00",
   },
+  {
+    title: 'Smart TV Samsung 43" Neo QLED Gaming Serie 9',
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_974854-MLA99964931539_112025-O.webp",
+    affiliateUrl: "https://meli.la/29c7RMz",
+    newPrice: "1.605.599",
+    oldPrice: "1.999.999",
+    offPct: "19",
+    postedAt: "2026-09-15T11:09:00-03:00",
+  },
 ];
