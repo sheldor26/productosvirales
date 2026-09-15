@@ -3139,4 +3139,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "47",
     postedAt: "2026-09-15T10:23:00-03:00",
   },
+  {
+    title: 'Notebook Lenovo IdeaPad Slim 3 Ryzen 7',
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_758776-MLA115037431210_082026-O.webp",
+    affiliateUrl: "https://meli.la/1K4WzSm",
+    newPrice: "1.219.999",
+    oldPrice: "1.973.398",
+    offPct: "38",
+    postedAt: "2026-09-15T10:47:00-03:00",
+  },
 ];
