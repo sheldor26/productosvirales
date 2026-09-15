@@ -3109,4 +3109,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "66",
     postedAt: "2026-09-15T09:18:00-03:00",
   },
+  {
+    title: "Samsung Galaxy Tab A9 64GB/4GB",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_910323-MLA99972076929_112025-O.webp",
+    affiliateUrl: "https://meli.la/2Ebi1NW",
+    newPrice: "267.325",
+    oldPrice: "399.999",
+    offPct: "33",
+    postedAt: "2026-09-15T09:39:00-03:00",
+  },
 ];
