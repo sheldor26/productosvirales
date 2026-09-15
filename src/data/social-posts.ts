@@ -3219,4 +3219,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "29",
     postedAt: "2026-09-15T12:00:00-03:00",
   },
+  {
+    title: "Unidad Lectora Disco Consola Sony PS5 Digital",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_846976-MLA117203214867_092026-OO.webp",
+    affiliateUrl: "https://meli.la/2FpWGFq",
+    newPrice: "261.899",
+    oldPrice: "399.999",
+    offPct: "34",
+    postedAt: "2026-09-15T15:47:05-03:00",
+  },
 ];
