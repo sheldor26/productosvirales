@@ -3229,4 +3229,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "34",
     postedAt: "2026-09-15T15:47:05-03:00",
   },
+  {
+    title: "Auriculares Anker Soundcore Liberty 5",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_897235-MLA111570500944_062026-O.webp",
+    affiliateUrl: "https://meli.la/1vkJjrx",
+    newPrice: "155.199",
+    oldPrice: "329.990",
+    offPct: "52",
+    postedAt: "2026-09-15T16:13:19-03:00",
+  },
 ];
