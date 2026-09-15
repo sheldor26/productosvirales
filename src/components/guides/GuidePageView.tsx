@@ -59,7 +59,7 @@ export function GuidePageView({ guide }: { guide: Guide }) {
           "@type": "FAQPage",
           mainEntity: guide.faq.map((item) => ({
             "@type": "Question",
-            name: item.question,
+            name: toPlainText(item.question),
             acceptedAnswer: {
               "@type": "Answer",
               text: toPlainText(item.answer),

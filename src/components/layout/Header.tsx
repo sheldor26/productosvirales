@@ -3,7 +3,7 @@
 import Link from "next/link";
 import { useState, useEffect, useRef } from "react";
 import { useRouter } from "next/navigation";
-import { Menu, X, Sun, Moon, Search, ChevronDown, Heart } from "lucide-react";
+import { Menu, Sun, Moon, Search, ChevronDown, Heart } from "lucide-react";
 import { useTheme } from "next-themes";
 import { cn } from "@/lib/utils";
 import { SearchInput } from "@/components/ui/SearchInput";
@@ -78,14 +78,20 @@ export function Header() {
         <div className="max-w-[1200px] mx-auto px-4 md:px-6">
           <div className="flex items-center justify-between h-14 md:h-16">
             {/* Mobile: hamburger */}
+            {/* El icono solo tiene tasa de descubrimiento mucho menor que
+                icono + etiqueta, y en mobile TODA la navegacion del sitio vive
+                detras de este boton. */}
             <button
-              className="md:hidden p-2 -ml-2 text-[var(--text-primary)] cursor-pointer"
+              className="md:hidden flex items-center gap-1 p-2 -ml-2 text-[var(--text-primary)] cursor-pointer"
               onClick={() => setMobileNavOpen(true)}
               aria-label="Menú"
               aria-expanded={mobileNavOpen}
               aria-haspopup="dialog"
             >
-              <Menu size={22} />
+              <Menu size={22} aria-hidden="true" />
+              {/* Abajo de 360px (telefonos viejos) vuelve a ser solo icono para
+                  no apretar el logo. El aria-label del boton cubre ese caso. */}
+              <span className="max-[359px]:hidden text-[13px] font-semibold">Menú</span>
             </button>
 
             {/* Logo */}
@@ -192,6 +198,7 @@ export function Header() {
                         <Link
                           key={c.slug}
                           href={`/categoria/${c.slug}`}
+                          prefetch={false}
                           onClick={() => setCatOpen(false)}
                           className="flex items-center gap-2 rounded-lg px-3 py-2 text-sm text-[var(--text-secondary)] hover:bg-[var(--bg-secondary)] hover:text-[var(--text-primary)] transition-colors"
                         >

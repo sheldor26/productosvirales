@@ -1,5 +1,24 @@
 #!/usr/bin/env node
-/* eslint-disable no-console */
+// ⚠️ OJO ANTES DE TOCAR EL PARSER DE ML (2026-08-13)
+//
+// Si el reporte sale con 0 productos de ML, o con entradas basura tipo
+// "Llega gratis mañana — $145.990", el problema NO es este parser.
+//
+// Lo verificado el 2026-08-13 guardando el markdown crudo como artifact
+// (paso "Subir los markdown crudos" del workflow): para
+// listado.mercadolibre.com.ar Bright Data devuelve 182 lineas que son SOLO el
+// encabezado del sitio (menu de accesibilidad, atajos de teclado, carrito).
+// Cero productos, un solo precio en toda la pagina. El listado de ML se arma
+// por JavaScript y el Web Unlocker con data_format markdown no espera ese
+// render.
+//
+// O sea: la pagina llega vacia de productos y no hay nada que parsear. Se
+// perdio una tarde arreglando el parser antes de mirar la salida real.
+//
+// El "Scraper puntual Bright Data (URLs a mano)" SI funciona porque usa el
+// dataset de productos de ML, no el Web Unlocker generico. Si hace falta
+// descubrir productos de un listado, la via es esa API, no esta.
+//
 
 /**
  * Arma docs/ideas-productos-nuevos.md a partir de paginas de categoria/
@@ -62,12 +81,23 @@ function parseAmazon(text) {
 
 // MercadoLibre: bloques tipo
 //   Titulo (linea plana, se repite como link despues)
+//
+// Ademas del titulo y el precio se captura la URL del producto. Sin eso el
+// reporte servia para tener ideas pero no para sourcear: habia que salir a
+// buscar cada ficha a mano, y las busquedas web devuelven listados, no fichas.
+// Con la URL, el reporte alimenta directo al "Scraper puntual".
 //   SELLER N.N
 //   N% OFF $precio_original   (opcional)
 //   $precio_final
 function parseML(text) {
   const items = [];
   const lines = text.split("\n").map((l) => l.trim()).filter(Boolean);
+  // Mapa titulo -> URL, armado con los links markdown de toda la pagina.
+  const urlPorTitulo = new Map();
+  for (const m of text.matchAll(/\[([^\]]{15,150})\]\((https:\/\/[^)\s]*mercadolibre[^)\s]*)\)/g)) {
+    const t = m[1].trim();
+    if (!urlPorTitulo.has(t)) urlPorTitulo.set(t, m[2]);
+  }
   for (let i = 0; i < lines.length; i++) {
     const priceMatch = lines[i].match(/^\$([\d.]+)$/);
     if (!priceMatch) continue;
@@ -84,7 +114,12 @@ function parseML(text) {
       if (title) break;
     }
     if (title) {
-      items.push({ title, price: `$${priceMatch[1]}`, rating: discount });
+      const url = urlPorTitulo.get(title) || null;
+      // Las URLs de catalogo traen /p/MLA123 y las de articulo MLA-123: el
+      // guion se saca para que el id quede igual al del catalogo.
+      const idCrudo = url ? (url.match(/(MLA-?[A-Z]?\d+)/i) || [])[1] : null;
+      const id = idCrudo ? idCrudo.toUpperCase().replace("-", "") : null;
+      items.push({ title, price: `$${priceMatch[1]}`, rating: discount, url, id });
     }
   }
   return items;
@@ -103,7 +138,10 @@ function dedupe(items) {
 
 function buildSection(source, label, items) {
   const unique = dedupe(items).slice(0, TOP_N);
-  const lines = unique.map((it) => `- ${it.title} — ${it.price}${it.rating ? ` (${it.rating})` : ""}`);
+  const lines = unique.map((it) => {
+    const base = `- ${it.title} — ${it.price}${it.rating ? ` (${it.rating})` : ""}`;
+    return it.url ? `${base}\n  - ${it.url}` : base;
+  });
   return `### ${label} [${source}] (${unique.length} productos)\n\n${lines.join("\n") || "_No se pudo extraer nada esta vez — revisar el parser._"}\n\n`;
 }
 

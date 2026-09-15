@@ -1,4 +1,3 @@
-/* eslint-disable @typescript-eslint/no-require-imports -- CommonJS script */
 // Optimize PNG OG/Twitter share images by emitting WebP siblings.
 // PNGs are kept (Twitter Cards historically prefer PNG); guide metadata
 // in src/data/guides.ts continues to reference the .png URLs.

@@ -140,8 +140,23 @@ jobs:
         run: |
           node -e "
           const fs = require('fs');
+          // Bright Data devuelve el dataset como array JSON o como NDJSON (un
+          // objeto por linea), y cambia sin avisar: el 2026-08-07 paso de array
+          // a NDJSON y rompio este workflow en silencio durante 3 dias. Este
+          // parser acepta los dos formatos.
+          const leerDataset = (p) => {
+            const txt = fs.readFileSync(p, 'utf8').trim();
+            if (!txt) return [];
+            try {
+              const j = JSON.parse(txt);
+              return Array.isArray(j) ? j : [j];
+            } catch (e) {
+              return txt.split('\n').filter(Boolean).map((l) => JSON.parse(l));
+            }
+          };
           const all = JSON.parse(fs.readFileSync('/tmp/trigger-body.json', 'utf8')).map((x) => x.url);
-          const got = JSON.parse(fs.readFileSync('/tmp/dataset.json', 'utf8'));
+          const got = leerDataset('/tmp/dataset.json');
+          fs.writeFileSync('/tmp/dataset.json', JSON.stringify(got));
           const ok = new Set(got.filter((r) => !r.error && r.current_price?.value).map((r) => r.input?.url));
           const missing = all.filter((u) => !ok.has(u));
           fs.writeFileSync('/tmp/missing.json', JSON.stringify(missing));
@@ -185,8 +200,18 @@ jobs:
               echo "Reintento listo despues de $((i * 15))s aprox."
               node -e "
               const fs = require('fs');
-              const main = JSON.parse(fs.readFileSync('/tmp/dataset.json', 'utf8'));
-              const retry = JSON.parse(fs.readFileSync('/tmp/retry-dataset.json', 'utf8'));
+              const leerDataset = (p) => {
+                const txt = fs.readFileSync(p, 'utf8').trim();
+                if (!txt) return [];
+                try {
+                  const j = JSON.parse(txt);
+                  return Array.isArray(j) ? j : [j];
+                } catch (e) {
+                  return txt.split('\n').filter(Boolean).map((l) => JSON.parse(l));
+                }
+              };
+              const main = leerDataset('/tmp/dataset.json');
+              const retry = leerDataset('/tmp/retry-dataset.json');
               fs.writeFileSync('/tmp/dataset.json', JSON.stringify(main.concat(retry)));
               console.log('Combinados: ' + main.length + ' + ' + retry.length + ' = ' + (main.length + retry.length));
               "

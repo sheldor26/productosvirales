@@ -6,14 +6,18 @@ import { guideHref, guideUrl } from "@/lib/guide-url";
 import { getGuideThumbnail } from "@/lib/guide-thumbnail";
 import { getGuideCardSignals } from "@/lib/guide-card-signals";
 import { baseOpenGraph } from "@/lib/site-og";
+import { toPlainText } from "@/lib/parse-inline-links";
 import type { Guide } from "@/lib/types";
 
 // Revalidate daily so scheduled guides appear on their publishedDate
 export const revalidate = 86400;
 
 export const metadata: Metadata = {
-  title:
-    "Guías de compra 2026: mejores productos en MercadoLibre Argentina",
+  // `absolute`: sin el sufijo ` | ProductosVirales` del layout raíz, que se
+  // comía 19 de los ~60 caracteres visibles en la SERP (igual que las guías).
+  title: {
+    absolute: "Guías de compra 2026: qué comprar en MercadoLibre Argentina",
+  },
   description:
     "Comparativas honestas para elegir bien en MercadoLibre Argentina: precios reales, opiniones de compradores y los contras que nadie te cuenta.",
   alternates: {
@@ -151,7 +155,9 @@ function GuideThumb({
 
 function PillarCard({ guide }: { guide: Guide }) {
   const title = guide.ogTitle || guide.title;
-  const dek = guide.ogDescription || guide.metaDescription;
+  // `ogDescription` no pasa por injectLivePrices en ningún otro lado, así que un
+  // {{precio:…}} escrito ahí se veía literal en la tarjeta del índice.
+  const dek = toPlainText(guide.ogDescription || guide.metaDescription);
   return (
     <Link
       href={guideHref(guide)}
@@ -182,7 +188,9 @@ function PillarCard({ guide }: { guide: Guide }) {
 
 function SatelliteCard({ guide }: { guide: Guide }) {
   const title = guide.ogTitle || guide.title;
-  const dek = guide.ogDescription || guide.metaDescription;
+  // `ogDescription` no pasa por injectLivePrices en ningún otro lado, así que un
+  // {{precio:…}} escrito ahí se veía literal en la tarjeta del índice.
+  const dek = toPlainText(guide.ogDescription || guide.metaDescription);
   return (
     <Link
       href={guideHref(guide)}

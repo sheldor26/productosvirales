@@ -2,8 +2,31 @@
 /**
  * Batch ML Scraper — Scrapes all products and generates curated-products.ts
  *
- * Usage: npx tsx scripts/batch-scrape.ts
+ * PELIGRO: este script REGENERA curated-products.ts entero desde el scraper.
+ * No hace merge: reescribe el archivo. Correrlo hoy destruiria todo el trabajo
+ * editorial acumulado (descripciones, pros/cons, verdicts, aiReviewSummary,
+ * customerReviews, la marca `priceVerifiedAt` que protege los precios
+ * verificados a mano, y el resto de la curaduria). Sirvio para generar el
+ * catalogo inicial; hoy el circuito de precios es apply-brightdata-prices.cjs.
+ *
+ * Por eso aborta salvo que se pase --si-quiero-regenerar-todo. Esa guarda se
+ * agrego el 2026-08-13, cuando una auditoria lo encontro como el ultimo camino
+ * que podia pisar precios protegidos.
+ *
+ * Usage: npx tsx scripts/batch-scrape.ts --si-quiero-regenerar-todo
  */
+
+const CONFIRMACION = "--si-quiero-regenerar-todo";
+if (!process.argv.includes(CONFIRMACION)) {
+  console.error(
+    "\nABORTADO: este script REESCRIBE src/data/curated-products.ts entero.\n" +
+    "Se perderia toda la curaduria editorial y la proteccion de precios\n" +
+    "verificados a mano (priceVerifiedAt).\n\n" +
+    "Para actualizar precios, us\u00e1: node scripts/apply-brightdata-prices.cjs <dataset> --apply\n" +
+    `Si de verdad quer\u00e9s regenerar todo desde cero, corr\u00e9lo con ${CONFIRMACION}\n`
+  );
+  process.exit(1);
+}
 
 import puppeteer, { type Page, type Browser } from "puppeteer";
 import * as fs from "fs";

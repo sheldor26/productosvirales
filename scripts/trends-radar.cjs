@@ -1,5 +1,4 @@
 #!/usr/bin/env node
-/* eslint-disable no-console */
 
 /**
  * Trends radar — qué busca la gente AHORA en MercadoLibre, cruzado con lo

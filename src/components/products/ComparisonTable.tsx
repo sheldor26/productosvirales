@@ -113,6 +113,7 @@ export function ComparisonTable({ products, onRemove, onClear }: ComparisonTable
                 {p.priceStatus === "out_of_stock" ? (
                   <Link
                     href={productHref(p)}
+                    prefetch={false}
                     className="mt-3 inline-flex items-center justify-center px-3 py-2 text-xs font-semibold rounded-[var(--radius-button)] bg-[var(--cta-bg)] text-[var(--cta-text)] hover:bg-[var(--cta-hover)] transition-colors"
                     aria-label={`Ver alternativas para ${p.title} (sin stock en esta publicación)`}
                   >

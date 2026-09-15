@@ -1,4 +1,8 @@
 const fs = require('fs');
+const { estaProtegido, avisarProtegidos, leerVerificadoAt, FORCE_FLAG } = require('./lib/price-guard.cjs');
+
+const forzar = process.argv.includes(FORCE_FLAG);
+const protegidos = [];
 
 const updates = [
   { id: 'MLA24605489', price: 32990, status: 'fresh' },
@@ -54,6 +58,12 @@ for (const u of updates) {
   let block = m[1];
   const blockEnd = m[2];
 
+  // Precio verificado a mano hace poco: no se pisa. Ver scripts/lib/price-guard.cjs.
+  if (estaProtegido(block, { forzar })) {
+    protegidos.push({ id: u.id, actual: '(catalogo)', propuesto: u.price, verificadoAt: leerVerificadoAt(block) });
+    continue;
+  }
+
   // 1) Update price field
   block = block.replace(/(\n\s+price:\s*)\d+(?:\.\d+)?(\s*,)/, `$1${u.price}$2`);
 
@@ -77,4 +87,6 @@ for (const u of updates) {
 }
 
 fs.writeFileSync(fp, src);
+
+avisarProtegidos(protegidos, 'sync-perfume-prices-2026-04-20.cjs');
 console.log(`Touched ${touched}/${updates.length} products. priceUpdated=${today} on all.`);

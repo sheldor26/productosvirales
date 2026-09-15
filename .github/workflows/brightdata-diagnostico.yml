@@ -1,0 +1,66 @@
+name: Diagnostico Bright Data (que datasets hay)
+
+# Lista lo que la cuenta de Bright Data tiene disponible. Existe porque el
+# token vive solo como secret de GitHub: desde la maquina no se puede consultar
+# la cuenta, y sin saber que datasets hay no se puede armar un workflow de
+# busqueda sin adivinar.
+#
+# Contexto (2026-08-13): el collector de producto (c_mrbcvyc91n9lmqv6dt) que
+# usa el "Scraper puntual" recibe URLs de producto y funciona bien, pero con una
+# URL de listado devuelve un dataset vacio. Para descubrir productos por termino
+# hace falta otra cosa: o un collector de busqueda, o un dataset v3 que soporte
+# discover_new por keyword. Este workflow contesta cual de las dos hay.
+#
+# No escribe nada en el repo: solo imprime en el log.
+
+on:
+  workflow_dispatch: {}
+
+jobs:
+  diagnostico:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Consultar la cuenta
+        env:
+          TOKEN: ${{ secrets.BRIGHTDATA_API_TOKEN }}
+        run: |
+          set +e
+
+          echo "═══ Datasets de MercadoLibre con su ID ═══"
+          curl -s -m 45 "https://api.brightdata.com/datasets/list" \
+            -H "Authorization: Bearer $TOKEN" > /tmp/list.json
+          node -e '
+            const all = JSON.parse(require("fs").readFileSync("/tmp/list.json","utf8"));
+            const ml = all.filter(d => /mercado ?li[bv]re|meli/i.test(d.name || ""));
+            console.log("total datasets en el catalogo:", all.length);
+            for (const d of ml) console.log(`  ${d.id}  ${d.name}  (${d.size ?? "?"} filas)`);
+          '
+          echo
+
+          echo "═══ Probar discover por keyword en el dataset \"Mercado Libre\" ═══"
+          DS=$(node -pe '
+            const all=JSON.parse(require("fs").readFileSync("/tmp/list.json","utf8"));
+            (all.find(d => /^mercado libre$/i.test(d.name||"")) || {}).id || ""
+          ')
+          echo "dataset_id: $DS"
+          if [ -n "$DS" ]; then
+            curl -s -m 60 -X POST \
+              "https://api.brightdata.com/datasets/v3/trigger?dataset_id=$DS&type=discover_new&discover_by=keyword" \
+              -H "Authorization: Bearer $TOKEN" \
+              -H "Content-Type: application/json" \
+              -d '[{"keyword":"sombrilla playa"}]' | head -c 800
+            echo
+          fi
+          echo
+
+          echo "═══ Probar el Browser API (zona mcp_browser) sobre un listado ═══"
+          curl -s -m 90 -X POST "https://api.brightdata.com/request" \
+            -H "Authorization: Bearer $TOKEN" \
+            -H "Content-Type: application/json" \
+            -d '{"zone":"mcp_browser","url":"https://listado.mercadolibre.com.ar/sombrilla-playa-aluminio","format":"raw","data_format":"markdown"}' \
+            > /tmp/browser.md
+          echo "bytes: $(wc -c < /tmp/browser.md)"
+          echo "-- links de producto encontrados --"
+          grep -oE "https://[^)\" ]*(/p/MLA|MLA-)[A-Za-z0-9-]*" /tmp/browser.md | head -8
+          echo "-- precios encontrados --"
+          grep -oE '\$ ?[0-9][0-9.]{3,}' /tmp/browser.md | head -5

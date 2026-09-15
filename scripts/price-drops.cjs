@@ -1,5 +1,4 @@
 #!/usr/bin/env node
-/* eslint-disable no-console */
 
 /**
  * Price drops — detecta bajas de precio reales comparando el precio GUARDADO

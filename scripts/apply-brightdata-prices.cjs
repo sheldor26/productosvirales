@@ -1,5 +1,4 @@
 #!/usr/bin/env node
-/* eslint-disable no-console */
 
 /**
  * Aplica precios desde un dataset de Bright Data (collector mercadolibre.com.ar,
@@ -31,15 +30,79 @@
 
 const fs = require("fs");
 const path = require("path");
+// Guard compartido con los otros 3 scripts que escriben precios, para que el
+// umbral no viva duplicado en cuatro lugares que se desincronizan.
+const { PROTECCION_MANUAL_DIAS, diasDesde, FORCE_FLAG } = require("./lib/price-guard.cjs");
 
 const CATALOG_PATH = path.resolve("src/data/curated-products.ts");
 const SUSPICIOUS_DOC_PATH = path.resolve("docs/precios-sospechosos.md");
+const PROTECTED_DOC_PATH = path.resolve("docs/precios-protegidos.md");
 const HISTORY_PATH = path.resolve("src/data/price-history.json");
 const ENRICHMENT_CACHE_PATH = path.resolve(".cache/brightdata-enrichment.json");
 const PENDING_DROPS_PATH = path.resolve(".cache/pending-price-drops.json");
 const MIN_RATIO = 0.5;
 const MAX_RATIO = 2;
-const REVIEW_COUNT_MIN_RATIO = 0.5; // igual criterio que precios: una caida a menos de la mitad es sospechosa, no una baja real
+// Igual criterio que precios: una caida a menos de la mitad es sospechosa,
+// no una baja real.
+const REVIEW_COUNT_MIN_RATIO = 0.5;
+/**
+ * Lee un dataset de Bright Data, que puede venir como array JSON o como NDJSON
+ * (un objeto por linea). Bright Data cambia el formato sin avisar: el
+ * 2026-08-07 paso de array a NDJSON y rompio el workflow de precios en
+ * silencio, que quedo 3 dias sin correr mientras el catalogo envejecia.
+ */
+function leerDataset(p) {
+  const txt = fs.readFileSync(p, "utf8").trim();
+  if (!txt) return [];
+  try {
+    const j = JSON.parse(txt);
+    return Array.isArray(j) ? j : [j];
+  } catch {
+    return txt
+      .split("\n")
+      .filter(Boolean)
+      .map((linea, i) => {
+        try {
+          return JSON.parse(linea);
+        } catch {
+          throw new Error(`Linea ${i + 1} del dataset no es JSON valido`);
+        }
+      });
+  }
+}
+
+/**
+ * ¿El producto está sin stock? Devuelve `true` (sin stock), `false` (con stock)
+ * o `null` cuando NO SE PUEDE DETERMINAR.
+ *
+ * Hasta el 2026-08-10 esto era `!r.stock_available`, o sea que trataba la
+ * ausencia del dato como prueba de que no hay stock. Y `stock_available` es
+ * solo el texto que MercadoLibre muestra al lado del boton ("+50 disponibles"),
+ * que ML no siempre renderiza. Resultado medido ese dia: de 14 productos
+ * marcados sin stock, 13 estaban perfectamente a la venta (93% de falsos
+ * positivos). Eso llego a produccion y, combinado con la redireccion de links
+ * sin stock a la ficha interna, desvio 84 links de afiliado en 22 guias.
+ *
+ * Ahora se exige EVIDENCIA POSITIVA para marcar sin stock:
+ *   - texto explicito de pausa/agotado en los campos scrapeados, o
+ *   - el registro no trae precio (una publicacion viva siempre trae precio).
+ * Si el precio esta y no hay senal de pausa, se asume CON stock. Y si no hay
+ * ni precio ni senal util, se devuelve null y no se toca el estado anterior.
+ */
+function sinStock(r) {
+  const textos = [r.stock_available, r.availability, r.status, r.product_status]
+    .filter((v) => typeof v === "string")
+    .join(" ")
+    .toLowerCase();
+
+  if (/pausada|sin stock|agotado|no disponible|out of stock|unavailable/.test(textos)) return true;
+
+  const tienePrecio = Number.isFinite(Number(r?.current_price?.value)) && Number(r.current_price.value) > 0;
+  if (tienePrecio) return false; // hay precio y ninguna senal de pausa: esta a la venta
+
+  if (r.error) return true; // el scraper no pudo abrir la publicacion
+  return null; // sin datos suficientes: no tocar el estado anterior
+}
 
 function usage() {
   console.log(`Uso:
@@ -81,6 +144,7 @@ function loadCatalog(src) {
     rating: numProp(b, "rating"),
     reviewCount: numProp(b, "reviewCount"),
     priceStatus: get(b, "priceStatus"),
+    priceVerifiedAt: get(b, "priceVerifiedAt"),
   }));
 }
 
@@ -118,6 +182,7 @@ function compare(catalog, report) {
       unchangedList.push({ id: product.id, price: product.price });
     } else {
       changes.push({
+        priceVerifiedAt: product.priceVerifiedAt,
         id: product.id,
         title: product.title,
         stored: product.price,
@@ -140,15 +205,17 @@ function compare(catalog, report) {
     }
 
     // Estado de stock: priceStatus persiste el estado de la corrida anterior,
-    // stock_available es el de ahora. El cruce detecta el flip (pausada <-> activa).
+    // el dato scrapeado es el de ahora. El cruce detecta el flip.
     const prevOut = product.priceStatus === "out_of_stock";
-    const nowOut = !r.stock_available;
-    if (nowOut) {
+    const nowOut = sinStock(r);
+    if (nowOut === true) {
       stockMissing.push({ id: product.id, title: product.title, permalink: product.permalink });
     }
-    if (prevOut && !nowOut) {
+    // Con nowOut === null (no se pudo determinar) no se toca nada: se deja el
+    // estado anterior y no se reporta flip.
+    if (prevOut && nowOut === false) {
       stockChanges.push({ id: product.id, title: product.title, permalink: product.permalink, direction: "restock" });
-    } else if (!prevOut && nowOut) {
+    } else if (!prevOut && nowOut === true) {
       stockChanges.push({ id: product.id, title: product.title, permalink: product.permalink, direction: "out" });
     }
   }
@@ -385,6 +452,46 @@ const SUSPICIOUS_DOC_INTRO = `# Precios sospechosos
 
 `;
 
+const PROTECTED_DOC_INTRO = `# Precios protegidos
+
+> Cambios que Bright Data propuso y NO se aplicaron porque el precio estaba
+> verificado a mano hace poco (campo \`priceVerifiedAt\`, ventana de
+> ${PROTECCION_MANUAL_DIAS} dias). Lo escribe \`apply-brightdata-prices.cjs\`.
+>
+> Existe porque el workflow de precios auto-mergea su PR: si esto quedara solo
+> en el log de Actions, nadie se enteraria. El 2026-08-12 Bright Data piso 11
+> de 15 precios verificados a mano devolviendolos a valores viejos, y se
+> descubrio de casualidad.
+>
+> **Como leerlo:** si un producto aparece aca 3 corridas seguidas, o Bright
+> Data tiene un dato roto para esa publicacion, o el precio cambio de verdad y
+> la verificacion manual quedo vieja. En los dos casos: mirar la publicacion en
+> MercadoLibre y, si el precio nuevo es el correcto, actualizar el catalogo a
+> mano y refrescar \`priceVerifiedAt\`.
+
+`;
+
+/**
+ * Deja constancia de los cambios que se descartaron por proteccion manual.
+ * Devuelve true si escribio algo.
+ */
+function appendProtectedDoc(protegidos, today) {
+  if (protegidos.length === 0) return false;
+  const existe = fs.existsSync(PROTECTED_DOC_PATH);
+  const previo = existe ? fs.readFileSync(PROTECTED_DOC_PATH, "utf8") : PROTECTED_DOC_INTRO;
+  const filas = protegidos
+    .map((c) => {
+      const dias = diasDesde(c.priceVerifiedAt);
+      return `- **${c.id}** ${c.title}\n` +
+             `  - catalogo (verificado a mano el ${c.priceVerifiedAt}, hace ${dias}d): $${c.stored}\n` +
+             `  - Bright Data propuso: $${c.scraped} — descartado\n` +
+             `  - ${c.permalink}`;
+    })
+    .join("\n");
+  fs.writeFileSync(PROTECTED_DOC_PATH, `${previo}\n## Corrida ${today}\n\n${filas}\n`);
+  return true;
+}
+
 function appendSuspiciousDoc(suspicious, today) {
   if (suspicious.length === 0) return false;
   const existing = fs.existsSync(SUSPICIOUS_DOC_PATH)
@@ -514,7 +621,7 @@ function main() {
   const datasetPath = args[0];
   const doApply = args.includes("--apply");
 
-  const report = JSON.parse(fs.readFileSync(datasetPath, "utf8"));
+  const report = leerDataset(datasetPath);
   const src = fs.readFileSync(CATALOG_PATH, "utf8");
   const catalog = loadCatalog(src);
   const {
@@ -522,11 +629,25 @@ function main() {
     ratingReviewChanges, stockMissing, stockChanges,
   } = compare(catalog, report);
 
+  // Precios verificados a mano hace poco: Bright Data NO los pisa. Quedan
+  // registrados en docs/precios-protegidos.md (doc propio, no el de
+  // sospechosos: son motivos distintos) para que se vea que el scraper
+  // propuso otra cosa y se descarto a proposito.
+  const forzar = args.includes(FORCE_FLAG);
+  const protegidos = forzar
+    ? []
+    : changes.filter((c) => diasDesde(c.priceVerifiedAt) <= PROTECCION_MANUAL_DIAS);
+  if (forzar) {
+    console.log(`${FORCE_FLAG}: la proteccion manual de precios queda DESACTIVADA en esta corrida.`);
+  }
   const suspicious = changes.filter((c) => {
+    if (protegidos.includes(c)) return false;
     const ratio = c.scraped / c.stored;
     return ratio < MIN_RATIO || ratio > MAX_RATIO;
   });
-  const reasonable = changes.filter((c) => !suspicious.includes(c));
+  const reasonable = changes.filter(
+    (c) => !suspicious.includes(c) && !protegidos.includes(c)
+  );
 
   console.log(`Filas del dataset: ${report.length}`);
   console.log(`Matcheados con el catalogo: ${matched}`);
@@ -538,9 +659,16 @@ function main() {
   for (const c of suspicious) {
     console.log(`  SOSPECHOSO ${c.id}  ${c.stored} -> ${c.scraped}  ${c.title}`);
   }
+  console.log(`Protegidos (verificados a mano hace <= ${PROTECCION_MANUAL_DIAS} dias, sin tocar): ${protegidos.length}`);
+  for (const c of protegidos) {
+    console.log(
+      `  PROTEGIDO ${c.id}  ${c.stored} -> ${c.scraped} (descartado)  ` +
+      `verificado el ${c.priceVerifiedAt}, hace ${diasDesde(c.priceVerifiedAt)}d  ${c.title}`
+    );
+  }
   console.log(`Con rating/reviewCount para actualizar: ${ratingReviewChanges.length}`);
   if (stockMissing.length) {
-    console.log(`Sin "unidades disponibles" detectado (revisar si sigue en stock): ${stockMissing.length}`);
+    console.log(`Sin stock confirmado (senal explicita de pausa/agotado, o sin precio): ${stockMissing.length}`);
     for (const s of stockMissing) console.log(`  ${s.id}  ${s.title}  ${s.permalink}`);
   }
   if (stockChanges.length) {
@@ -555,6 +683,9 @@ function main() {
 
   const today = new Date().toISOString().slice(0, 10);
 
+  if (doApply && appendProtectedDoc(protegidos, today)) {
+    console.log(`\nRegistrados ${protegidos.length} caso(s) protegido(s) en docs/precios-protegidos.md`);
+  }
   if (appendSuspiciousDoc(suspicious, today)) {
     console.log(`\nAgregados ${suspicious.length} caso(s) sospechoso(s) a docs/precios-sospechosos.md`);
   }

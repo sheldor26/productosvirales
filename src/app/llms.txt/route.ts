@@ -1,5 +1,6 @@
 import { getPublishedGuides } from "@/data/guides";
 import { guideUrl } from "@/lib/guide-url";
+import { injectLivePrices } from "@/lib/price-token";
 import type { Guide } from "@/lib/types";
 
 // El archivo se genera en build time (igual que sitemap.xml) leyendo las guías
@@ -31,7 +32,11 @@ function categoryName(slug: string): string {
 }
 
 function guideLine(g: Guide): string {
-  return `- [${g.title}](${guideUrl(g)}): ${g.metaDescription}`;
+  // metaDescription lleva tokens de precio en varias guías: hay que resolverlos
+  // acá, si no el crawler de IA se lleva "{{precio:MLA…}}" en vez del número.
+  // injectLivePrices no se aplica por dato sino por superficie de render, y
+  // esta superficie no estaba conectada (ver MISTAKES.md, 2026-08-17).
+  return `- [${g.title}](${guideUrl(g)}): ${injectLivePrices(g.metaDescription)}`;
 }
 
 export function GET(): Response {

@@ -15,7 +15,9 @@ import { getRotatedVisibleProducts, makeRotationSeed, toFeedCard, toCardProduct 
 // canonical siempre apunta a la home sin query, Google no las trata como
 // contenido nuevo a indexar.
 export const metadata: Metadata = {
-  title: "Productos Virales de MercadoLibre Argentina — Lo más trending",
+  // `absolute`: con el sufijo del layout raíz este título llegaba a 79
+  // caracteres y la SERP lo cortaba a la mitad de la frase.
+  title: { absolute: "Productos Virales de MercadoLibre Argentina" },
   description:
     "Descubrí los productos más virales y trending de MercadoLibre Argentina. Ofertas, tendencias TikTok y lo que todos están comprando hoy.",
   alternates: {

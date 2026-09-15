@@ -1,5 +1,4 @@
 #!/usr/bin/env node
-/* eslint-disable no-console */
 
 /**
  * Manda por EMAIL (Resend) las bajas de precio de la última corrida de Bright

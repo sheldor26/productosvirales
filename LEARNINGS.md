@@ -16,6 +16,120 @@
 **Archivos involucrados:** `path/a/archivo.ts`
 -->
 
+## 2026-08-26 — Verificar el render real: hay bugs de formato que ningún check agarra
+
+**Qué funcionó:** antes de dar por cerrado el pilar `instrumentos-musicales`, se dio vuelta la fecha de forma
+temporal para sacarlo de STAGED, se levantó el sitio en local y se leyó la página entera renderizada. Ahí
+apareció que el `GuideRenderer` procesa `**negrita**` y links markdown pero **no procesa la cursiva de un
+asterisco**: las dos citas de compradores escritas como `*"..."*` salían con los asteriscos a la vista. Después
+se revirtió la fecha a STAGED.
+
+En la misma pasada aparecieron dos cosas más que solo se ven en pantalla: el bloque de `internalLinks` se titula
+"Guías relacionadas" por defecto y ahí van cinco fichas de producto (existe `internalLinksTitle` para cambiarlo),
+y una lista de precios que arrancaba con "Desde $90.000" y seguía con "Alrededor de $87.000", o sea al revés.
+
+**Por qué:** `tsc --noEmit`, `npm run build` y los nueve checks del repo pasan igual con los tres problemas,
+porque para ellos es texto válido y tokens bien formados. Es una clase entera de bugs sin trinquete automático:
+todo lo que es *cómo se ve* en vez de *qué dice*.
+
+**Cuándo aplicarlo:** en toda guía nueva, entre el "los checks pasan" y el "está lista". Levantar la página,
+leerla completa como lector y no como autor, y recién ahí mandarla al trío auditor. Los auditores leen el objeto
+de datos, no el HTML: no van a ver un asterisco que no se transformó.
+
+**Archivos involucrados:** `src/components/guides/GuideRenderer.tsx`, `src/data/guides.ts`
+
+## 2026-08-16 — Pasarle al auditor una tabla de verdad, no solo el diff
+
+**Qué funcionó:** en las cinco guías del día, el prompt de Codex arrancó con una **tabla de verdad**
+armada a mano: cada producto con precio, medidas, peso, capacidad, opiniones y qué campos NO publica
+su ficha. Después la instrucción explícita de chequear toda afirmación comparativa contra esa tabla,
+recorriendo **todas** las coincidencias por línea y no la primera.
+
+**Por qué funcionó:** con la tabla adelante, Codex encontró **32 errores factuales** que ninguno de
+los cinco scripts de check del repo detectó. Y no eran errores sutiles: "4 colchones de 2 plazas"
+cuando uno era Queen, "la densidad más alta del grupo" cuando dos de cinco no publican densidad, "el
+único con manijas laterales" cuando otro simplemente no llena ese campo.
+
+Sin la tabla, el auditor tendría que reconstruir los datos leyendo las mismas fichas que yo leí, y
+heredaría mis errores de lectura. Con la tabla, tiene una fuente independiente contra la cual medir.
+
+**El límite que quedó claro:** un script valida **qué producto gana un superlativo**. No valida **si
+la frase aplica a quien decís que aplica**. Esa distinción es la que explica por qué mis chequeos
+mecánicos dieron 9/9 en verde mientras Codex encontraba siete errores en el mismo texto.
+
+**Cuándo aplicarlo:** en toda guía comparativa, siempre. Armar la tabla es media hora y ahorra dos o
+tres pasadas de auditoría. Incluir explícitamente la columna de **"campos que este producto NO
+publica"**, porque convertir un dato ausente en un "no lo tiene" fue el error más repetido del día:
+siete de los ocho de la última guía.
+
+## 2026-08-13 — Publicación automática de Instagram (feed + Historias) quedó funcionando de punta a punta
+
+**Qué funcionó:** `scripts/publicar-instagram.cjs` publica posts y Historias reales en `@productosvirales.ok` vía la Instagram Graph API oficial (flujo "API setup with Instagram login", app Meta "ProductosVirales Social"). Sube la imagen a Vercel Blob (público), crea el media container, espera a que Instagram lo procese, y publica. Reusa el generador de imágenes del post cuadrado (`generar-imagen-post-threads.cjs`) para el feed, y usa un generador nuevo (`generar-imagen-story-instagram.cjs` + `threads-post-template-story.html`, 1080×1920) para Historias — nunca la misma imagen del feed, Instagram la recorta en 9:16 en el celular.
+
+**Por qué:** todo el trabajo pesado (crear la app en Meta, agregar el caso de uso Instagram, sumar los permisos `instagram_business_basic` + `instagram_business_content_publish`, agregar `productosvirales.ok` como Instagram Tester, conectar el Blob store al proyecto) se hizo una sola vez en el browser; de acá en adelante publicar es un solo comando. División de tareas clara: yo armé y depuré todo el código, pero el token de acceso, el `BLOB_READ_WRITE_TOKEN` y la aceptación de la invitación de tester los hizo Juan directamente (nunca manejo credenciales).
+
+**Cuándo aplicarlo:** cualquier publicación futura a Instagram (feed o Historia) de un producto ya verificado en vivo — mismo criterio de datos reales que Threads/X. El token de acceso dura 60 días, hay que regenerarlo antes de que expire (recordar chequear fecha).
+
+**Archivos involucrados:** `scripts/publicar-instagram.cjs`, `scripts/generar-imagen-story-instagram.cjs`, `scripts/threads-post-template-story.html`, `.env.example`
+
+## 2026-08-12 — La palabra de la query dice la intención mejor que la posición
+
+**Qué funcionó:** al mirar por qué la marca Atma rendía mal en GSC (133 queries, 839 impresiones, 7 clicks), en vez de leer el promedio apareció un patrón nítido al ordenar por texto de la query:
+
+| Query | Impr | Pos | Clicks |
+|---|---|---|---|
+| freidora de aire atma **8 litros opiniones** | 84 | 4,8 | 2 |
+| freidora de aire atma **opiniones** | 43 | 5,2 | 2 |
+| freidora de aire atma *(pelada)* | 48 | **2,9** | **0** |
+
+La query pelada está **mejor posicionada** y hace cero; las que llevan "opiniones" están más abajo y sí convierten. Verificado en la SERP en vivo: la pelada devuelve Shopping, patrocinados y fichas de tienda (intención de compra), y ahí una guía no compite por más que esté tercera.
+
+**Por qué:** la posición mide dónde te muestra Google, no si el que busca quiere lo que tenés. Dos queries del mismo producto pueden tener intenciones opuestas, y el promedio de CTR de la marca las mezcla y no dice nada. La palabra que agrega el usuario ("opiniones", "reviews", "vs", "sirve para") es la señal de intención más barata que hay.
+
+**Cuándo aplicarlo:** antes de tocar una página que rankea bien y no convierte, agrupar sus queries por la palabra modificadora y no por la posición. Si las de intención de lectura convierten y las de compra no, el problema no es la página: es que hay queries que no se pueden ganar con contenido informativo. Sirve también al revés, para elegir qué contenido escribir: las de "opiniones" y "vs" son las que un sitio con DA baja puede pelear.
+
+**Archivos involucrados:** `scripts/gsc/gsc.py` (consulta por dimensión `query`)
+
+## 2026-08-12 — Chequear una capa que ningún test miraba: frescura, no coherencia
+
+**Qué funcionó:** el repo tenía nueve scripts de check y todos dieron verde durante los cinco días en que el catálogo estuvo congelado con precios hasta 107% desviados. No era un bug de esos scripts: **todos comparan el sitio contra el catálogo**, y el catálogo era perfectamente coherente consigo mismo. Solo estaba viejo. El script nuevo (`check-catalogo-fresco.cjs`) no chequea coherencia sino frescura, y con un solo número — el `priceLastChecked` más reciente de todo el catálogo — delata el problema entero.
+
+**Por qué:** una batería de tests puede estar completa dentro de su propio marco y ciega a una capa entera. Acá el marco era "¿el sitio dice lo mismo que el catálogo?" y la pregunta que faltaba era "¿el catálogo dice lo mismo que la realidad?". Ninguna cantidad de tests del primer tipo responde el segundo.
+
+**Cuándo aplicarlo:** cuando algo se rompa y los tests hayan dado verde, no buscar el bug en los tests: preguntar qué capa no está mirando ninguno. Y al escribir un verificador, dejar explícito qué NO cubre — este mismo mide frescura y no veracidad, y el 12/08 daba verde con 11 precios falsos porque eran recién escritos.
+
+**Archivos involucrados:** `scripts/check-catalogo-fresco.cjs`, `.github/workflows/check-catalogo-fresco.yml`
+
+## 2026-08-12 — El trío atrapa sobre todo comparaciones que un cambio de precio vuelve falsas
+
+**Qué funcionó:** 43 bloqueantes en tres tandas de auditoría (17 en `secador-de-pelo`, 22 en `ventilador-de-techo`, 4 en `atma-freidoras-de-aire-review`), y casi todos del mismo tipo: **afirmaciones relativas que un cambio de dato volvió falsas**. "El más liviano" del Vanta cuando el Spica también declara 400 g. "Los tres secadores iónicos" cuando son cuatro. "Casi el triple" cuando es 2,18x. "13 centímetros en radio" cuando son de diámetro. Más `structuredData` con el Peabody en `InStock` y conteos de reseñas viejos en seis fichas.
+
+**Por qué:** un cambio de precio o de composición del ranking no toca solo el número: invalida toda la red de comparaciones construida sobre él, y esa red vive repartida en `standfirst`, `quickPicks`, `product-card`, prosa, tabla, veredicto, FAQ, y además en las fichas del silo. Es demasiada superficie para revisar a ojo, y es exactamente lo que un auditor externo con el dato correcto en la mano encuentra rápido.
+
+**Cuándo aplicarlo:** darle al trío los datos reales verificados **en el prompt**, y pedirle explícitamente aritmética literal ("si dice el doble, chequeá que lo sea"). Ahí rinde. Y correr una pasada extra sobre las fichas del silo, no solo sobre la guía: en las tres tandas aparecieron más bloqueantes en fichas que en la guía misma.
+
+**Archivos involucrados:** `src/data/guides.ts`, `src/data/curated-products.ts`
+
+## 2026-08-12 — Verificar la premisa del auditor antes de aplicar su corrección
+
+**Qué funcionó:** agy dio un NO-GO afirmando que el modelo correcto era "FR248AP" y pidiendo reemplazar las 9 menciones de "FR248ABP" del cuerpo de la guía. En vez de aplicarlo, se fue a la ficha técnica de MercadoLibre: dice literalmente `Línea: FR248 / Modelo: FR248ABP`. El cuerpo estaba bien; el que estaba mal era el `directAnswer` nuevo, que había copiado el nombre del **título de la publicación**. La corrección se aplicó al revés de lo pedido.
+
+**Por qué:** el título de una publicación de ML lo escribe el vendedor y suele tener el modelo mal tipeado; la ficha técnica es el campo estructurado. Un auditor que lee el título como fuente llega a la conclusión opuesta con total seguridad. De haberle hecho caso se rompían nueve lugares correctos para dejar uno incorrecto.
+
+**Cuándo aplicarlo:** siempre que un auditor pida un cambio masivo basado en un dato de producto (modelo, capacidad, potencia), verificar ese dato en la ficha técnica antes de tocar nada. Complementa lo ya anotado sobre chequear las premisas que uno mismo le afirma al auditor: también hay que chequear las que el auditor trae.
+
+**Archivos involucrados:** `src/data/guides.ts` (guía `atma-freidoras-de-aire-review`)
+
+## 2026-08-04 — Verificar en GSC antes de escribir una "guía nueva" que sugiere un reporte automático
+
+**Qué funcionó:** el reporte semanal del `weekly-seo-aeo-loop` proponía una guía comparativa nueva "Yara vs Yara Elixir". Antes de escribirla, correr `scripts/gsc/gsc.py query-pages "yara elixir" "diferencia entre yara y yara elixir"` mostró que `yara-lattafa-guia-completa` YA rankea posición 7.1-2.5 para esas queries — escribir la guía nueva la hubiera canibalizado. El problema real era CTR bajo en una página que ya rankeaba bien, no falta de contenido; se resolvió con un ajuste de `metaDescription`, sin tocar título/H1/slug (freeze de posiciones top).
+
+**Por qué:** un reporte automático (o cualquier lista de "oportunidades") identifica demanda de búsqueda, pero no necesariamente si el sitio ya la está respondiendo. `query-pages` es la única forma de confirmar qué URL está mostrando Google para una query específica antes de decidir crear contenido nuevo — la keyword suelta (volumen + dificultad en Ubersuggest) no alcanza.
+
+**Cuándo aplicarlo:** cada vez que un reporte/checklist sugiera "guía nueva" para una keyword — correr `query-pages` sobre esa keyword exacta (y variantes cercanas) antes de escribir una sola línea. Si ya hay una URL rankeando, el problema casi seguro es de snippet/CTR, no de contenido faltante.
+
+**Archivos involucrados:** `src/data/guides.ts` (slug `yara-lattafa-guia-completa`), `scripts/gsc/gsc.py`.
+
 ## 2026-07-19 — El trío auditor destapa deuda vieja de fichas, no solo bugs de la sesión actual
 
 **Qué funcionó:** al publicar 4 guías STAGED viejas con `/trio-auditor`, Codex y Gemini no solo revisaron mi propio diff de la sesión — auditando el contexto completo (guía + fichas asociadas) encontraron inconsistencias de datos que llevaban meses sin tocarse (rating/reviewCount desincronizados, framing que contradecía el precio real, un caso extremo donde toda la narrativa de una ficha estaba armada sobre un precio 75% más bajo que el real). Ninguno de los chequeos mecánicos (`guides:check`, `tsc`) los agarra porque viven en prosa libre de `curated-products.ts`, no en tokens de precio.
@@ -140,3 +254,57 @@
 **Por qué funcionó:** el dato vivía duplicado (campo + bloque manual) y solo una de las dos copias se actualizaba automáticamente. Eliminar la duplicación en el punto de render es más barato y más seguro que mantener 121 copias sincronizadas.
 
 **Para repetir:** cuando un dato aparezca duplicado entre campos estructurados y bloques manuales, mover la verdad al campo estructurado y generar el resto. Mismo principio que ya se aplicó con precios API-first.
+
+## 2026-08-15 — El auditor externo encontró un bug del sitio entero, no de la guía
+
+Codex marcó NO-GO en la guía de conservadoras por tres `internalLinks` que apuntaban a
+`/guias/<slug>` sin el silo. Lo importante no fue el hallazgo puntual sino lo que apareció al
+medirlo: **23 links rotos en total, y solo 3 eran de la guía nueva**. El resto estaba en guías ya
+publicadas, propagado por copiar los `internalLinks` de una guía a la siguiente.
+
+Tres cosas que dejó esto:
+
+1. **Cuando un auditor marca un defecto en contenido nuevo, medir el alcance en todo el sitio
+   antes de corregir solo lo señalado.** El contenido nuevo casi siempre se escribe copiando el
+   anterior, así que un defecto en lo nuevo es evidencia de que existe en lo viejo. Corregir solo
+   lo que el auditor vio deja el 87% del problema intacto.
+
+2. **Un bug puede vivir en dos sintaxis y es fácil medir solo una.** El primer barrido buscó
+   `href: "/guias/<slug>"` y dio 12: parecía resuelto. Faltaban 11 más en formato markdown dentro
+   de la prosa, `](/guias/<slug>)`. El "0 links rotos" del primer chequeo era falso. Al grepear un
+   defecto, enumerar todas las formas en que ese defecto puede escribirse antes de declarar limpio.
+
+3. **Un auditor puede dar NO-GO sobre una versión que ya no existe.** En la segunda pasada Codex
+   listó 4 bloqueantes; 3 ya estaban corregidos en disco cuando emitió el veredicto, porque había
+   leído el archivo al arrancar y las correcciones entraron mientras razonaba. Antes de aceptar un
+   bloqueante de una pasada larga, verificar cada punto contra el archivo actual. Uno de los cuatro
+   era real y se corrigió; los otros tres habrían sido trabajo repetido.
+
+## 2026-08-24 — Las reseñas negativas de MercadoLibre están, pero hay que ir a buscarlas
+
+Las reseñas destacadas que ML muestra en la página de producto son casi todas de 5 estrellas. Para
+las fichas de impresoras 3D, las cuatro daban puros elogios, y una ficha sin contras reales no
+cumple el estándar del sitio.
+
+**Cómo llegar a las negativas** (funcionó en los cuatro productos):
+
+1. En la página `/p/MLA…`, hacer click por JS en `button.show-more-click`
+   ("Mostrar todas las opiniones"). El modal tarda unos segundos, no aparece al instante.
+2. El modal es un **iframe** (`/noindex/catalog/reviews/<ID>`), y ese ID **no es el del producto**:
+   es un ID de reseñas propio. Por eso navegar a esa ruta con el MLA del producto devuelve vacío.
+3. Dentro del modal hay un filtro "Calificación" con opciones Todas / 5 / 4 / 3 / 2 / 1.
+   Se clickea con coordenadas reales; el click por JS sobre el filtro no alcanza.
+4. Leer los resultados desde `iframe.contentDocument` (es del mismo origen), no desde `document`:
+   un `querySelectorAll` sobre la página de atrás devuelve las reseñas viejas sin filtrar.
+5. **Sanitizar el texto extraído** a un charset simple antes de devolverlo, o la salida se bloquea
+   por parecerse a datos de cookie o query string.
+
+El resultado justifica el trabajo: cada modelo tiene un contra distinto y concreto (un sensor
+puntual, el postventa, atascos, accesorios faltantes), y dos de ellos aparecen mencionados por
+compradores independientes, que es lo que convierte una queja suelta en un patrón citable.
+
+**Segundo aprendizaje de la misma sesión:** cruzar contra la página del fabricante encontró
+**dos campos mal cargados** en una ficha de ML (dimensiones y altura de capa de la Ender 3 V3 KE) y
+un dato que ML no publica en ninguna de las cuatro (la velocidad). Ese último terminó siendo el
+ángulo diferencial de la guía entera. La verificación contra fabricante que pide `docs/fichas.md`
+no es solo para completar specs: es donde aparece el contenido que la competencia no tiene.

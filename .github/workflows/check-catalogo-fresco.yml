@@ -1,0 +1,125 @@
+name: Chequear que el catalogo siga fresco
+
+# Por que existe: el 2026-08-07 el workflow de precios se rompio y el catalogo
+# quedo congelado cinco dias. Los nueve scripts de check del repo dieron verde
+# todos esos dias, porque comparan el sitio contra el catalogo y el catalogo era
+# coherente consigo mismo: solo estaba viejo. Cuando se destapo habia desvios de
+# hasta +107% y guias recomendando productos que no se podian comprar.
+#
+# `avisar-fallas.yml` cubre el caso "el workflow no corrio". Esto cubre el caso
+# peor: "corrio y el dato quedo mal igual".
+#
+# No scrapea nada: solo lee los dos archivos de datos del repo, asi que es
+# gratis, rapido y no toca el limite de MercadoLibre.
+#
+# En vez de comentar todos los dias en el mismo issue (ruido que se termina
+# ignorando, que es justo como se perdio la senal en agosto), mantiene UN issue
+# vivo: lo crea la primera vez, le reescribe el cuerpo con el estado de hoy
+# mientras el problema siga, y lo CIERRA solo cuando el catalogo vuelve a estar
+# limpio.
+
+on:
+  schedule:
+    # 11:00 UTC = 08:00 en Argentina. Despues de la corrida de precios de la
+    # madrugada, asi que mide el resultado del dia, no el del dia anterior.
+    - cron: "0 11 * * *"
+  workflow_dispatch:
+
+permissions:
+  issues: write
+  contents: read
+
+jobs:
+  chequear:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Correr el chequeo
+        id: check
+        run: |
+          set +e
+          node scripts/check-catalogo-fresco.cjs > reporte.txt 2>&1
+          echo "estado=$?" >> "$GITHUB_OUTPUT"
+          cat reporte.txt
+
+      - name: Abrir, actualizar o cerrar el issue
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+          ESTADO: ${{ steps.check.outputs.estado }}
+          CORRIDA: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          titulo="El catálogo no refleja la realidad de MercadoLibre"
+
+          # El label tiene que existir antes de usarlo o gh issue create falla.
+          gh label create "catalogo-desfasado" \
+            --repo "$REPO" \
+            --color "B60205" \
+            --description "El catalogo quedo viejo o manda a productos sin stock" 2>/dev/null || true
+
+          existente=$(gh issue list \
+            --repo "$REPO" \
+            --state open \
+            --label "catalogo-desfasado" \
+            --search "$titulo in:title" \
+            --json number \
+            --jq '.[0].number // empty')
+
+          if [ "$ESTADO" = "0" ]; then
+            if [ -n "$existente" ]; then
+              echo "Catálogo limpio: cierro el issue #$existente."
+              gh issue close "$existente" --repo "$REPO" \
+                --comment "Catálogo limpio en la corrida del $(date -u +%Y-%m-%d). Cerrado automáticamente."
+            else
+              echo "Catálogo limpio, nada que reportar."
+            fi
+            exit 0
+          fi
+
+          # El heredoc va indentado igual que el resto del bloque `run: |`: YAML
+          # quita esa indentación común al parsear, así que el cuerpo del issue
+          # llega a Markdown sin espacios de más.
+          cat > cuerpo.md <<TXT
+          Este issue lo mantiene al día el workflow \`check-catalogo-fresco\`. El
+          cuerpo se reescribe en cada corrida y **se cierra solo** cuando el
+          catálogo vuelve a estar limpio: refleja el estado de hoy, no hace falta
+          leer el historial.
+
+          Última corrida: $CORRIDA
+
+          \`\`\`
+          $(cat reporte.txt)
+          \`\`\`
+
+          ---
+
+          **Cómo se arregla, en orden:**
+
+          1. Si el problema es el **pipeline congelado**, empezar por ahí: es la
+             causa, el resto es consecuencia.
+             \`gh run list --workflow="Actualizar precios via Bright Data"\`
+          2. Para lo que hay que **verificar en vivo**, la cola ya viene
+             priorizada por impacto:
+             \`node scripts/check-catalogo-fresco.cjs --lista\`
+          3. Ojo con los falsos positivos de stock. El 2026-08-10 se midió: de 14
+             productos marcados sin stock, **13 tenían**. Verificar en
+             MercadoLibre antes de sacar un producto de una guía, nunca confiar
+             en el flag solo.
+          TXT
+
+          if [ -n "$existente" ]; then
+            echo "Actualizo el issue #$existente."
+            gh issue edit "$existente" --repo "$REPO" --body-file cuerpo.md
+          else
+            echo "Abro issue nuevo."
+            gh issue create \
+              --repo "$REPO" \
+              --title "$titulo" \
+              --label "catalogo-desfasado" \
+              --body-file cuerpo.md
+          fi

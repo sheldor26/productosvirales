@@ -28,7 +28,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     `Los mejores productos de ${category.name} en MercadoLibre Argentina.`;
 
   return {
-    title,
+    // `absolute`: el sufijo ` | ProductosVirales` del layout raíz empujaba los
+    // h1 más largos por encima de los ~60 caracteres que muestra la SERP.
+    title: { absolute: title },
     description,
     alternates: {
       canonical: `https://productosvirales.com.ar/categoria/${slug}`,

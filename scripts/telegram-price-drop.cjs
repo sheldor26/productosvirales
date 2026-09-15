@@ -1,5 +1,4 @@
 #!/usr/bin/env node
-/* eslint-disable no-console */
 
 /**
  * Arma el mensaje de una baja de precio (foto + texto en la voz del sitio,

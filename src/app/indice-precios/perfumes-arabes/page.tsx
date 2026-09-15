@@ -22,7 +22,9 @@ const DESCRIPTION =
 // la URL, aunque el body haga notFound().
 export const metadata: Metadata = PUBLISHED
   ? {
-      title: TITLE,
+      // `absolute`: sin el sufijo ` | ProductosVirales` del layout raíz, que
+      // dejaba el título en 67 caracteres (la SERP corta cerca de 60).
+      title: { absolute: TITLE },
       description: DESCRIPTION,
       alternates: { canonical: PAGE_URL },
       openGraph: {
@@ -127,12 +129,12 @@ export default function PerfumesArabesPriceIndexPage() {
         </div>
         <p className="mt-5 text-sm text-[var(--text-primary)] leading-relaxed">
           El promedio esconde una dispersión enorme: el que más subió fue el{" "}
-          <Link href={productHref(productById.get(topGainer.id) ?? { id: topGainer.id, title: topGainer.title })} className="font-semibold underline decoration-[var(--border)] underline-offset-2">
+          <Link href={productHref(productById.get(topGainer.id) ?? { id: topGainer.id, title: topGainer.title })} prefetch={false} className="font-semibold underline decoration-[var(--border)] underline-offset-2">
             {topGainer.title}
           </Link>{" "}
           con un <strong>+{topGainer.pct}%</strong> ({formatPrice(topGainer.firstPrice)} a {formatPrice(topGainer.lastPrice)}),
           mientras el{" "}
-          <Link href={productHref(productById.get(topLoser.id) ?? { id: topLoser.id, title: topLoser.title })} className="font-semibold underline decoration-[var(--border)] underline-offset-2">
+          <Link href={productHref(productById.get(topLoser.id) ?? { id: topLoser.id, title: topLoser.title })} prefetch={false} className="font-semibold underline decoration-[var(--border)] underline-offset-2">
             {topLoser.title}
           </Link>{" "}
           bajó <strong>{topLoser.pct}%</strong> en el mismo período.

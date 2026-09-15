@@ -1,11 +1,15 @@
 import Link from "next/link";
-import { Package } from "lucide-react";
+import { Package, TrendingDown } from "lucide-react";
 import type { GuideSection, LabelColor } from "@/lib/types";
 import { getProductById } from "@/lib/products";
 import { formatPrice } from "@/lib/utils";
+import { injectLivePrices } from "@/lib/price-token";
 import { CouponBadge } from "@/components/products/CouponBadge";
+import { Badge } from "@/components/ui/Badge";
+import { WhatsAppIcon } from "@/components/icons/WhatsAppIcon";
 import { toPlainText } from "@/lib/parse-inline-links";
-import { getPriceValidUntil, productHref } from "@/lib/product-url";
+import { getPriceValidUntil, productHref, productUrl } from "@/lib/product-url";
+import { analyzePriceHistory, shortDate } from "@/lib/price-history";
 import { Stars } from "./Stars";
 
 interface ProductCardProps {
@@ -42,7 +46,9 @@ function SchemaLd({ product }: { product: ReturnType<typeof getProductById> }) {
           "@type": "Product",
           name: product.canonicalName || product.title,
           image: product.image,
-          ...(product.description ? { description: product.description } : {}),
+          ...(product.description
+            ? { description: injectLivePrices(product.description) }
+            : {}),
           ...(product.brand
             ? { brand: { "@type": "Brand", name: product.brand } }
             : {}),
@@ -133,6 +139,17 @@ export function ProductCard({ section }: ProductCardProps) {
   // el resto queda en el borde neutro de siempre.
   const isWinner = section.ranking === 1;
 
+  // Mínimo histórico: mismo cálculo que la tarjeta de grilla (src/lib/products.ts toCardProduct),
+  // pero acá no pasamos por ese DTO porque necesitamos articleBody/faq del Product completo.
+  const priceHistory = analyzePriceHistory(product.id, product.price);
+  const bestPrice = priceHistory?.verdict.tone === "good";
+  // priceLastChecked (automático) o priceVerifiedAt (a mano) — el que haya, no inventamos fecha.
+  const verifiedDate = product.priceLastChecked || product.priceVerifiedAt;
+
+  const shareHref = `https://wa.me/?text=${encodeURIComponent(
+    `Mirá esto: ${product.title}${product.price ? ` (${formatPrice(product.price, product.currency)})` : ""} — ${productUrl(product)}`
+  )}`;
+
   if (variant === "compact") {
     return (
       <aside
@@ -145,6 +162,7 @@ export function ProductCard({ section }: ProductCardProps) {
               El botón amarillo sigue siendo el único CTA de afiliado. */}
           <Link
             href={productHref(product)}
+            prefetch={false}
             aria-label={`Ver ficha de ${product.title}`}
             className="shrink-0 w-[100px] sm:w-[120px] flex items-center justify-center p-2"
             style={{ backgroundColor: "var(--bg-secondary)" }}
@@ -174,15 +192,16 @@ export function ProductCard({ section }: ProductCardProps) {
             >
               <Link
                 href={productHref(product)}
+                prefetch={false}
                 className="hover:underline underline-offset-2"
               >
                 {product.title}
               </Link>
             </h4>
             {section.description && (
-              <Link href={productHref(product)} className="block">
+              <Link href={productHref(product)} prefetch={false} className="block">
                 <p className="text-[13px] sm:text-sm text-[var(--text-secondary)] leading-snug line-clamp-2">
-                  {toPlainText(section.description)}
+                  {toPlainText(injectLivePrices(section.description))}
                 </p>
               </Link>
             )}
@@ -192,13 +211,26 @@ export function ProductCard({ section }: ProductCardProps) {
                 <span>Incluye estuche</span>
               </p>
             )}
-            <CouponBadge price={product.price} className="self-start" />
+            <div className="flex flex-wrap items-center gap-1.5 self-start">
+              <CouponBadge price={product.price} categorySlug={product.categorySlug} />
+              {bestPrice && (
+                <Badge
+                  variant="price-low"
+                  title="El precio de hoy es el más bajo que le registramos a este producto."
+                >
+                  <TrendingDown size={10} />
+                  Mínimo histórico
+                </Badge>
+              )}
+            </div>
             {product.priceStatus === "out_of_stock" ? (
               <Link
                 href={productHref(product)}
+                prefetch={false}
                 data-cta-location="card"
                 className="self-start inline-flex items-center gap-1 mt-1 px-3 py-1.5 text-xs font-extrabold rounded-[var(--radius-button)] transition-transform hover:-translate-y-px"
                 style={{
+                  minHeight: 44,
                   backgroundColor: "var(--cta-action)",
                   color: "var(--cta-action-text)",
                   border: "1px solid rgba(0,0,0,.18)",
@@ -217,6 +249,7 @@ export function ProductCard({ section }: ProductCardProps) {
                 aria-label={`Comprar ${product.title} en MercadoLibre (se abre en una pestaña nueva)`}
                 className="self-start inline-flex items-center gap-1 mt-1 px-3 py-1.5 text-xs font-extrabold rounded-[var(--radius-button)] transition-transform hover:-translate-y-px"
                 style={{
+                  minHeight: 44,
                   backgroundColor: "var(--cta-action)",
                   color: "var(--cta-action-text)",
                   border: "1px solid rgba(0,0,0,.18)",
@@ -261,6 +294,7 @@ export function ProductCard({ section }: ProductCardProps) {
             El botón amarillo sigue siendo el único CTA de afiliado. */}
         <Link
           href={productHref(product)}
+          prefetch={false}
           aria-label={`Ver ficha de ${product.title}`}
           className="shrink-0 md:w-[200px] aspect-square md:aspect-auto md:h-auto flex items-center justify-center p-3 md:p-5"
           style={{ backgroundColor: "var(--bg-secondary)" }}
@@ -281,6 +315,7 @@ export function ProductCard({ section }: ProductCardProps) {
           >
             <Link
               href={productHref(product)}
+              prefetch={false}
               className="hover:underline underline-offset-2"
             >
               {product.title}
@@ -290,6 +325,7 @@ export function ProductCard({ section }: ProductCardProps) {
           {rating && (
             <Link
               href={productHref(product)}
+              prefetch={false}
               className="flex w-fit flex-wrap items-center gap-x-2 gap-y-1 text-sm text-[var(--text-muted)]"
             >
               <Stars rating={rating} />
@@ -301,9 +337,9 @@ export function ProductCard({ section }: ProductCardProps) {
           )}
 
           {section.description && (
-            <Link href={productHref(product)} className="block">
+            <Link href={productHref(product)} prefetch={false} className="block">
               <p className="text-[15px] md:text-base leading-[1.65] text-[var(--text-secondary)]">
-                {toPlainText(section.description)}
+                {toPlainText(injectLivePrices(section.description))}
               </p>
             </Link>
           )}
@@ -345,7 +381,14 @@ export function ProductCard({ section }: ProductCardProps) {
             style={{ backgroundColor: "var(--bg-secondary)" }}
           >
             {price && (
-              <div className="leading-tight">
+              // La caja gris se lee como UN control: precio grande a la izquierda,
+              // boton amarillo a la derecha. El precio era texto muerto.
+              <Link
+                href={productHref(product)}
+                prefetch={false}
+                data-cta-location="card-price"
+                className="leading-tight hover:opacity-80 transition-opacity"
+              >
                 <span
                   className="block text-[22px] font-extrabold text-[var(--text-primary)]"
                   style={{ fontFamily: "var(--font-display)" }}
@@ -353,14 +396,28 @@ export function ProductCard({ section }: ProductCardProps) {
                   {price}
                 </span>
                 <span className="text-[10.5px] text-[var(--text-muted)]">
-                  Precio verificado contra MercadoLibre
+                  {verifiedDate
+                    ? `Precio verificado el ${shortDate(verifiedDate)}`
+                    : "Precio verificado contra MercadoLibre"}
                 </span>
-              </div>
+              </Link>
             )}
-            <CouponBadge price={product.price} />
+            <div className="flex flex-wrap items-center gap-1.5">
+              <CouponBadge price={product.price} categorySlug={product.categorySlug} />
+              {bestPrice && (
+                <Badge
+                  variant="price-low"
+                  title="El precio de hoy es el más bajo que le registramos a este producto."
+                >
+                  <TrendingDown size={10} />
+                  Mínimo histórico
+                </Badge>
+              )}
+            </div>
             {product.priceStatus === "out_of_stock" ? (
               <Link
                 href={productHref(product)}
+                prefetch={false}
                 data-cta-location="card"
                 className="inline-flex items-center gap-1.5 px-5 py-3 text-sm font-extrabold rounded-[var(--radius-button)] transition-transform hover:-translate-y-px"
                 style={{
@@ -393,14 +450,26 @@ export function ProductCard({ section }: ProductCardProps) {
               </a>
             )}
           </div>
-          {/* "Ver ficha" degradado a link gris debajo (no compite con el CTA). */}
-          <p className="mt-2 text-[13px]">
+          {/* "Ver ficha" y "Compartir" degradados a links grises debajo (no compiten con el CTA). */}
+          <p className="mt-2 flex flex-wrap items-center gap-x-3 gap-y-1 text-[13px]">
             <Link
               href={productHref(product)}
+              prefetch={false}
               className="text-[var(--text-muted)] underline underline-offset-2 hover:text-[var(--text-secondary)] transition-colors"
             >
               Ver ficha y opiniones
             </Link>
+            <a
+              href={shareHref}
+              target="_blank"
+              rel="noopener"
+              data-cta-location="card-share"
+              aria-label={`Compartir ${product.title} por WhatsApp`}
+              className="inline-flex items-center gap-1 text-[var(--text-muted)] underline underline-offset-2 hover:text-[var(--text-secondary)] transition-colors"
+            >
+              <WhatsAppIcon size={12} />
+              Compartir
+            </a>
           </p>
         </div>
       </div>

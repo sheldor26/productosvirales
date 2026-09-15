@@ -1,4 +1,8 @@
 const fs = require('fs');
+const { estaProtegido, avisarProtegidos, leerVerificadoAt, FORCE_FLAG } = require('./lib/price-guard.cjs');
+
+const forzar = process.argv.includes(FORCE_FLAG);
+const protegidos = [];
 
 const fp = 'src/data/curated-products.ts';
 let src = fs.readFileSync(fp, 'utf8');
@@ -36,6 +40,14 @@ for (const r of results) {
     continue;
   }
   let block = m[1];
+
+  // Precio verificado a mano hace poco: no se pisa. Ver scripts/lib/price-guard.cjs.
+  if (estaProtegido(block, { forzar })) {
+    protegidos.push({ id: r.id, actual: r.storedPrice, propuesto: r.current, verificadoAt: leerVerificadoAt(block) });
+    detail.push({ id: r.id, action: 'PROTEGIDO', stored: r.storedPrice, current: r.current });
+    continue;
+  }
+
   // Update price
   block = block.replace(/(\n\s+price:\s*)\d+(?:\.\d+)?(\s*,)/, `$1${r.current}$2`);
   // Set/insert priceUpdated
@@ -55,6 +67,7 @@ for (const r of results) {
 
 fs.writeFileSync(fp, src);
 console.log('Summary:', log);
+avisarProtegidos(protegidos, 'apply-pending-prices.cjs');
 console.log('\nDetail:');
 for (const d of detail) {
   const tag = d.action.padEnd(14);

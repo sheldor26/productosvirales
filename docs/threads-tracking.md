@@ -3,6 +3,55 @@
 Log manual para encontrar qué patrón funciona (gancho, categoría, franja horaria).
 Completar vistas/seguidores a las 24-48hs de publicado. Entradas nuevas arriba.
 
+---
+
+## Formato v3 (hype/cupón, desde 2026-08-09)
+
+**Reemplaza al v2 en Threads** — decisión explícita de Juan, copiando el formato
+que ya vio funcionar a otras cuentas del nicho, no un experimento a ciegas.
+Ver memoria `threads-formato-hype-cupon-no-curador-honesto`. El formato v2
+"curador honesto" sigue siendo la voz del resto del sitio, no de Threads.
+
+Desde el 2026-08-10, el flujo pasó a generar 2 imágenes por post (precio +
+beneficios) con `scripts/generar-imagen-post-threads.cjs` +
+`scripts/generar-imagen-beneficios-threads.cjs`, en vez de captura de pantalla
+cruda de la ficha de ML. Ver memoria `threads-generador-imagen-post`.
+
+Línea de base (posts reales de Juan, formato copiado a mano antes de este log):
+DualSense PS5 Gray Camouflage con cupón DOBLE88 → **283 vistas, el mejor
+resultado de la cuenta hasta ahora** (post viejo, sin el generador de imágenes).
+
+| Fecha | Producto | Categoría | Cupón real | Precio verificado | Vistas | Seguidores | Notas |
+|---|---|---|---|---|---|---|---|
+| 2026-08-17 | Monitor Samsung Odyssey G3 G30D 24" 180Hz | Gaming/Tech | no (solo % OFF) | sí, Chrome vivo | | **+3** | Primer post con la plantilla v3 corta confirmada (emoji + TÍTULO EN MAYÚSCULAS + AL X% OFF / De $X a $Y + 1-2 datos / 👉 link / 1 hashtag) — ver plantilla exacta en memoria `threads-formato-hype-cupon-no-curador-honesto`. Categoría Gaming/Tech, nunca antes postead en Threads. 30% OFF, 5.0★/136 op. Confirmado por Juan: mejor resultado de seguidores puntual hasta ahora, motivó repetir la categoría. |
+| 2026-08-13 | Aspiradora Robot Fika Trapeadora Swift | Electrodomésticos/robot-aspiradora | no (solo % OFF) | sí, Chrome vivo | | | Tienda oficial FIKA (+250 mil ventas), 4.8★/151 op., +100 vendidos, badges reales MÁS VENDIDO + OFERTA IMPERDIBLE, 54% OFF. Stock sano (+25 disponibles). Publicado también en Instagram (feed + Historia) vía API el mismo día. |
+| 2026-08-13 | Cafetera Expresso Cuk By Gadnic 20 Bar | Cocina | no (solo % OFF) | sí, Chrome vivo | | | Tienda oficial Gadnic, 4.6★/118 op., +500 vendidos, 57% OFF. Precio real de 1 unidad confirmado — la página también mostraba precio por pack de 2 y 10 unidades, no usado. |
+| 2026-08-11 | Control DualSense PS5 Gray Camouflage (redo) | Gaming | no (solo % OFF) | sí, Chrome búsqueda de ML | 80 (parcial, sigue sumando) | | Repetición del producto que dio 283 vistas históricas, esta vez con precio actual y las 2 imágenes generadas. Tienda oficial ML, 4.9★/93.126 op., 43% OFF. |
+| 2026-08-10 | Auriculares JBL Wave Beam 2 TWS | Audio | no (solo % OFF) | sí, Chrome búsqueda de ML | | | Primer post con la plantilla branded generada por script, no captura cruda de ML — pasó 2 rondas de trio-auditor (GO). Tienda oficial JBL, 4.8★/834 op., +5 mil vendidos, badge real "MÁS VENDIDO" (no "última unidad": tenía +50 disponibles). Confirmado publicado por Juan. |
+
+---
+
+## Formato v2 (desde 2026-07-27)
+
+Cambios respecto del v1, todos con dato atrás (ver `~/.claude/skills/price-drops-threads/SKILL.md`):
+**foto obligatoria**, **una sola contra**, **pregunta abierta de cierre**, **1 topic tag**,
+**responder los propios comentarios**, **publicar 6-11 AM de día de semana**.
+
+Línea de base a superar (v1, texto puro, sin pregunta): 8 vistas / 1 seguidor en el mejor caso medido.
+
+| Fecha | Hora | Producto | Categoría | Gancho | Foto | Pregunta | Respondí comentarios | Vistas | Seguidores | Notas |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-07-29 | ? | Licuadora Atma Pro LI8450AP | Cocina | 1 (dato) | sí | sí | | | | Hora sin definir — completar al publicar para clasificar variante del test de horario. Precio verificado en vivo, coincide exacto (sin ambigüedad de multi-oferta). |
+| 2026-07-28 | 10:00 | Lattafa Yara Tous | Belleza/perfumes | 1 (dato) | sí | sí | | | | Variante A del test de horario (mañana, martes 10:00 = buen slot según Buffer). Contra con cita textual de reseña. Precio verificado en vivo. |
+| 2026-07-27 | 20:00 | Pava Liliana AP152 | Cocina/mate | 1 (dato) | sí | sí | | | | 1er post v2. Franja noche = variante B del test de horario (Buffer la marca como la peor). Precio verificado en vivo con Bright Data. |
+
+---
+
+## Formato v1 (histórico, hasta 2026-07-26)
+
+Texto puro, sin foto, sin pregunta de cierre, cierre con CTA estático, hora sin registrar.
+Se conserva como línea de base para comparar.
+
 > ⚠️ **Todas las filas fechadas 2026-07-20 quedaron con precios desactualizados**:
 > se armaron con un diff cacheado de ese día que se siguió reusando por error
 > en mensajes de días posteriores (25/07 real). Hubo 2 corridas de precios más

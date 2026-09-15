@@ -1,5 +1,4 @@
 #!/usr/bin/env node
-/* eslint-disable no-console */
 
 /**
  * Manda a Telegram (SOLO al chat privado de Juan, nunca al canal público) las

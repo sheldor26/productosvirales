@@ -29,6 +29,7 @@ Next.js 16 (App Router) + React 19 + Tailwind v4 + TypeScript. Sin DB: contenido
 - `docs/ARTICLE_CREATION_WORKFLOW.md` — cómo agregar un artículo nuevo (lado técnico).
 - **`docs/guias.md` — sistema de diseño y plantilla OFICIAL de todas las guías. Toda guía nueva sigue ESTE diseño (estilo TechRadar best-of). Leer SIEMPRE antes de escribir o rediseñar una guía.**
 - **`docs/fichas.md` — proceso OFICIAL para importar/enriquecer una ficha de producto (fuentes, página del fabricante, checklist agent-ready, reglas de honestidad). Leer SIEMPRE antes de importar un producto.**
+- **`docs/productos-sin-stock.md` — cada vez que se marca un producto `deprioritized` por falta de stock (no por otra razón), registrarlo acá con la rutina de revisión de restock. Leer al marcar uno nuevo o al retomar el seguimiento de los existentes.**
 - `docs/clusters/<cluster>/` — borradores editoriales por cluster (perfumes-arabes, freidoras-de-aire, etc.).
 
 ## Comandos
@@ -39,6 +40,7 @@ npm run build                                # next build — ESTO es el test: c
 npm run lint                                 # eslint (no es `next lint`)
 npm run prices:check  -- --match <slug>      # dry-run de precios desde ML
 npm run prices:update -- --match <slug>      # aplica precios a curated-products.ts
+node scripts/check-price-guard.cjs           # verifica la proteccion de precios verificados a mano
 ```
 
 No existe `npm test`: la verificación es `npm run build` (tipos) + revisar en `npm run dev`.
@@ -50,6 +52,7 @@ No existe `npm test`: la verificación es `npm run build` (tipos) + revisar en `
 - Artículos nuevos: seguir `docs/guias.md` (diseño y estructura, OBLIGATORIO) + `docs/ARTICLE_CREATION_WORKFLOW.md` (cómo guardar el objeto `Guide` en `src/data/guides.ts`).
 - Productos nuevos: seguir `docs/fichas.md` (proceso de importación, OBLIGATORIO) + editar `src/data/curated-products.ts` (o usar `scripts/ml-product-importer.ts` para importar de MercadoLibre).
 - Precios: `npm run prices:check -- --match <slug>` (dry-run) o `npm run prices:update -- --match <slug>` (escribe).
+- **Un precio verificado a mano no se pisa solo.** Si verificaste un precio en MercadoLibre y lo corregiste, ponele `priceVerifiedAt: "YYYY-MM-DD"` a la ficha: ningún script automático lo va a tocar por 7 días (el 2026-08-12 Bright Data pisó 11 de 15 correcciones manuales devolviéndolas a valores viejos). Los scripts avisan en pantalla lo que descartaron. Para pisarlo igual, `--force-manual-price`. La regla vive en `scripts/lib/price-guard.cjs` y se chequea con `node scripts/check-price-guard.cjs`.
 
 ## Antes de cerrar una sesión
 

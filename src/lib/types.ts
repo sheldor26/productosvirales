@@ -85,6 +85,22 @@ export interface Product {
   priceUpdated?: string;    // ISO date when the price was last verified
   /** ISO date the price was last checked. Drives JSON-LD `priceValidUntil` (we add 30 days). */
   priceLastChecked?: string;
+  /**
+   * Fecha (YYYY-MM-DD) en que un humano verifico este precio a mano en
+   * MercadoLibre, mirando la publicacion. NO lo escribe ningun scraper.
+   *
+   * Existe porque Bright Data devuelve datos falsos de forma sistematica: el
+   * 2026-08-12 su corrida automatica piso 11 de 15 precios verificados a mano,
+   * devolviendolos a valores viejos (el Spica a $17.499 cuando en ML estaba a
+   * $29.099, el Vanta a $70.005 cuando estaba a $98.000). No eran bajas
+   * reales: se re-chequearon en vivo y seguian como los habia verificado.
+   *
+   * `apply-brightdata-prices.cjs` respeta esta marca durante
+   * PROTECCION_MANUAL_DIAS y lo registra en docs/precios-protegidos.md en vez
+   * de aplicarlo. Pasada esa ventana la verificacion caduca y el scraper vuelve
+   * a mandar, para no congelar un precio para siempre.
+   */
+  priceVerifiedAt?: string;
   /** "fresh" = price verified recently. "stale" = could not auto-verify, may be outdated. "out_of_stock" = listing inactive. */
   priceStatus?: "fresh" | "stale" | "out_of_stock";
   reviewCount?: number;
@@ -161,8 +177,20 @@ export interface Product {
 
 export interface Coupon {
   code: string;
-  discountAmount: number;
+  /** Descuento de monto fijo en pesos. Va esto O `discountPercent`, no ambos. */
+  discountAmount?: number;
+  /** Descuento porcentual (10 = 10% OFF). MELI casi siempre le pone un tope. */
+  discountPercent?: number;
+  /** Tope del descuento cuando es porcentual (ignorado si es monto fijo). */
+  maxDiscount?: number;
   minPurchase: number;
+  /**
+   * Slugs de categoría donde MELI acepta el cupón. Omitido = todo el sitio.
+   * Si está presente, el cupón SOLO se muestra donde se conoce la categoría
+   * del producto: en superficies sin ese dato (/enlaces) se omite a
+   * propósito, para no prometer un descuento que el carrito va a rechazar.
+   */
+  categories?: string[];
   /** ISO datetime start. `null`/omitido = válido desde cualquier hora. */
   validFrom?: string | null;
   /** ISO datetime end. `null`/omitido = sin vencimiento confirmado por MELI. */
@@ -372,4 +400,19 @@ export interface MLCategory {
 export interface MLReviews {
   rating_average: number;
   total: number;
+}
+
+/**
+ * Un producto posteado en redes (Threads/X/Instagram), para la página
+ * /enlaces (estilo Linktree). `postedAt` es lo que decide si sigue
+ * apareciendo: se filtra a las últimas 24hs en cada request.
+ */
+export interface SocialPost {
+  title: string;
+  imageUrl: string;
+  affiliateUrl: string;
+  newPrice: string;
+  oldPrice: string;
+  offPct: string;
+  postedAt: string; // ISO 8601
 }

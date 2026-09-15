@@ -51,6 +51,7 @@ export function Footer() {
                 <li key={cat.slug}>
                   <Link
                     href={`/categoria/${cat.slug}`}
+                    prefetch={false}
                     className="text-sm text-[var(--text-muted)] hover:text-[var(--text-primary)] transition-colors"
                   >
                     {cat.label}

@@ -1,5 +1,4 @@
 #!/usr/bin/env node
-/* eslint-disable no-console */
 
 /**
  * Stock watchdog — detecta productos sin stock en MercadoLibre.

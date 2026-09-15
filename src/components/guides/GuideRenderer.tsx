@@ -1,7 +1,8 @@
 import { Fragment } from "react";
+import type { ReactNode } from "react";
 import Link from "next/link";
 import Image from "next/image";
-import { ExternalLink, Target, Award, Tag } from "lucide-react";
+import { ExternalLink, Target, Award, Tag, TrendingDown } from "lucide-react";
 import { parseInlineLinks } from "@/lib/parse-inline-links";
 import type { Guide, GuideSection } from "@/lib/types";
 import { ArticleHeader } from "./ArticleHeader";
@@ -12,19 +13,36 @@ import { ProductCard } from "./ProductCard";
 import { QuickPicks } from "./QuickPicks";
 import { StickyBuyBar } from "./StickyBuyBar";
 import { RelatedGuides } from "./RelatedGuides";
-import { nextStepLinksForGuide, categoryLabel } from "@/lib/related-guides";
+import { Badge } from "@/components/ui/Badge";
+import { nextStepLinksForGuide, nextStepHeadingForGuide } from "@/lib/related-guides";
 import { ensureSectionIds, getTocItems } from "@/lib/slug";
 import { getProductById } from "@/lib/products";
 import { productHref } from "@/lib/product-url";
 import { formatPrice } from "@/lib/utils";
 import { injectLivePrices } from "@/lib/price-token";
+import { analyzePriceHistory } from "@/lib/price-history";
 import { Stars } from "./Stars";
 
 interface GuideRendererProps {
   guide: Guide;
 }
 
-function SectionRenderer({ section }: { section: GuideSection }) {
+function SectionRenderer({
+  section,
+  nextProductMlaId,
+}: {
+  section: GuideSection;
+  /** `h3` only: id del producto de la `product-card` que va inmediatamente
+   * debajo. Si está, el título del H3 pasa a linkear a esa ficha. */
+  nextProductMlaId?: string;
+}) {
+  // El titulo de una seccion puede llevar tokens igual que el contenido
+  // ("AP152 — La mas barata ({{precio:MLA61505857}})"). El contenido los
+  // resuelve via parseInlineLinks; el titulo no pasaba por ninguna superficie y
+  // salia crudo en el h2/h3 publicado. Se resuelve una vez aca para todos los
+  // `case` que muestran el titulo.
+  const title = section.title ? injectLivePrices(section.title) : section.title;
+
   switch (section.type) {
     case "h2":
       return (
@@ -33,12 +51,28 @@ function SectionRenderer({ section }: { section: GuideSection }) {
           className="text-[26px] md:text-[32px] font-bold text-[var(--text-primary)] mt-14 md:mt-16 mb-5 pb-2 scroll-mt-20 leading-tight"
           style={{ fontFamily: "var(--font-display)" }}
         >
-          {section.title}
+          {title}
         </h2>
       );
 
     case "h3": {
-      const numberMatch = section.bigNumber ? section.title?.match(/^(\d+)\.\s*(.+)/) : null;
+      // El mismo nombre de producto aparecía dos veces seguidas: acá en grande
+      // y sin link, y abajo en la tarjeta con link. Ahora los dos van a la ficha.
+      const h3Product = nextProductMlaId ? getProductById(nextProductMlaId) : undefined;
+      const h3Title = (text: ReactNode) =>
+        h3Product ? (
+          <Link
+            href={productHref(h3Product)}
+            prefetch={false}
+            data-cta-location="h3-producto"
+            className="hover:underline underline-offset-2 decoration-1"
+          >
+            {text}
+          </Link>
+        ) : (
+          text
+        );
+      const numberMatch = section.bigNumber ? title?.match(/^(\d+)\.\s*(.+)/) : null;
       if (numberMatch) {
         const [, num, rest] = numberMatch;
         return (
@@ -57,7 +91,7 @@ function SectionRenderer({ section }: { section: GuideSection }) {
               className="text-xl md:text-[22px] font-semibold text-[var(--text-primary)]"
               style={{ fontFamily: "var(--font-display)" }}
             >
-              {rest}
+              {h3Title(rest)}
             </span>
           </h3>
         );
@@ -68,7 +102,7 @@ function SectionRenderer({ section }: { section: GuideSection }) {
           className="text-xl md:text-[22px] font-semibold text-[var(--text-primary)] mt-10 mb-3 scroll-mt-20 leading-tight"
           style={{ fontFamily: "var(--font-display)" }}
         >
-          {section.title}
+          {h3Title(title)}
         </h3>
       );
     }
@@ -107,19 +141,31 @@ function SectionRenderer({ section }: { section: GuideSection }) {
                   key={i}
                   className={i % 2 === 1 ? "bg-[var(--bg-secondary)]/40" : ""}
                 >
-                  {row.map((cell, j) => (
-                    <td
-                      key={j}
-                      className={
-                        "px-4 py-3 text-[var(--text-secondary)] border-t border-[var(--border)]" +
-                        (j === 0
-                          ? ` sticky left-0 z-10 shadow-[2px_0_4px_-2px_rgba(0,0,0,0.12)] ${i % 2 === 1 ? "bg-[var(--bg-secondary)]" : "bg-[var(--bg-primary)]"}`
-                          : "")
-                      }
-                    >
-                      {parseInlineLinks(cell)}
-                    </td>
-                  ))}
+                  {row.map((cell, j) => {
+                    // Solo la primera celda, solo si es EXACTAMENTE un link y no
+                    // trae tokens de precio: si no, se anidarian anclas.
+                    const soloLink =
+                      j === 0 && !cell.includes("{{")
+                        ? cell.trim().match(/^\[([^\]]+)\]\(([^)]+)\)$/)
+                        : null;
+                    return (
+                      <td
+                        key={j}
+                        className={
+                          "px-4 py-3 text-[var(--text-secondary)] border-t border-[var(--border)]" +
+                          (j === 0
+                            ? ` sticky left-0 z-10 shadow-[2px_0_4px_-2px_rgba(0,0,0,0.12)] ${i % 2 === 1 ? "bg-[var(--bg-secondary)]" : "bg-[var(--bg-primary)]"}`
+                            : "")
+                        }
+                      >
+                        {soloLink ? (
+                          <TableCellLink anchor={soloLink[1]} href={soloLink[2]} />
+                        ) : (
+                          parseInlineLinks(cell)
+                        )}
+                      </td>
+                    );
+                  })}
                 </tr>
               ))}
             </tbody>
@@ -189,9 +235,9 @@ function SectionRenderer({ section }: { section: GuideSection }) {
           className={section.boxed ? "my-6 rounded-[16px] p-4 md:p-5 border border-[var(--border)]" : "my-6"}
           style={section.boxed ? { backgroundColor: "var(--bg-secondary)" } : undefined}
         >
-          {section.title && (
+          {title && (
             <p className="mb-2 font-semibold text-[17px] md:text-[18px] text-[var(--text-primary)]">
-              {section.title}
+              {title}
             </p>
           )}
           <ul className="space-y-3 pl-1">
@@ -211,9 +257,9 @@ function SectionRenderer({ section }: { section: GuideSection }) {
     case "bad":
       return (
         <div className="my-5 p-4 rounded-[var(--radius-card)] border-l-4 border-[var(--color-discount)] bg-[var(--color-discount)]/10">
-          {section.title && (
+          {title && (
             <p className="text-[15px] font-bold text-[var(--text-primary)] mb-2">
-              {section.title}
+              {title}
             </p>
           )}
           <p className="text-[15px] leading-relaxed text-[var(--text-primary)]">
@@ -302,7 +348,7 @@ function SectionRenderer({ section }: { section: GuideSection }) {
         pricing: { Icon: Tag, title: "Cómo elegimos estos precios" },
       } as const;
       const { Icon, title: defaultTitle } = defaults[variant];
-      const title = section.title || defaultTitle;
+      const calloutTitle = title || defaultTitle;
       return (
         <aside
           className="not-prose my-10 rounded-[8px] border-l-[3px] p-5 md:p-6"
@@ -322,7 +368,7 @@ function SectionRenderer({ section }: { section: GuideSection }) {
               className="text-[17px] md:text-lg font-semibold text-[var(--text-primary)] leading-tight"
               style={{ fontFamily: "var(--font-display)" }}
             >
-              {title}
+              {calloutTitle}
             </h4>
           </div>
           <div className="pl-7 text-[15px] md:text-base leading-[1.65] text-[var(--text-secondary)]">
@@ -390,7 +436,7 @@ function SectionRenderer({ section }: { section: GuideSection }) {
       const p = palette[variant];
       const headerText = section.calloutTitle || p.label;
       const dateText = section.date
-        ? ` · ${new Date(section.date).toLocaleDateString("es-AR", { day: "numeric", month: "long", year: "numeric" })}`
+        ? ` · ${new Date(section.date).toLocaleDateString("es-AR", { day: "numeric", month: "long", year: "numeric", timeZone: "UTC" })}`
         : "";
       return (
         <aside
@@ -441,7 +487,7 @@ function SectionRenderer({ section }: { section: GuideSection }) {
       return (
         <nav className="my-6 p-5 rounded-[var(--radius-card)] bg-[var(--bg-secondary)] border border-[var(--border)]">
           <p className="font-semibold text-[var(--text-primary)] mb-2">
-            {section.title}
+            {title}
           </p>
           <ul className="space-y-1.5">
             {(section.items as Array<{ label: string; href: string }>)?.map((item) => (
@@ -463,6 +509,36 @@ function SectionRenderer({ section }: { section: GuideSection }) {
   }
 }
 
+/**
+ * Link de la primera celda de una tabla comparativa. En las 200 tablas del sitio
+ * esa celda es exactamente un link markdown al modelo, pero el area tocable era
+ * solo el texto del ancla (~20px de alto) dentro de una celda de 44px+: casi
+ * toda la celda quedaba muerta. Como bloque con los paddings invertidos, el
+ * link ocupa la celda entera.
+ */
+function TableCellLink({ anchor, href }: { anchor: string; href: string }) {
+  const cls =
+    "block -mx-4 -my-3 px-4 py-3 text-[var(--editorial-accent,currentColor)] underline underline-offset-2 decoration-1 hover:opacity-70 transition-opacity";
+  if (href.startsWith("/")) {
+    return (
+      <Link href={href} prefetch={false} className={cls}>
+        {anchor}
+      </Link>
+    );
+  }
+  return (
+    <a
+      href={href}
+      target="_blank"
+      rel="nofollow sponsored noopener"
+      data-cta-location="tabla-modelo"
+      className={cls}
+    >
+      {anchor}
+    </a>
+  );
+}
+
 /** Caja compacta de recomendación above-the-fold (antes de la intro). */
 function AboveFoldCta({ productMlaId }: { productMlaId: string }) {
   const product = getProductById(productMlaId);
@@ -470,6 +546,7 @@ function AboveFoldCta({ productMlaId }: { productMlaId: string }) {
   const priceText = product.price
     ? formatPrice(product.price, product.currency)
     : null;
+  const bestPrice = analyzePriceHistory(product.id, product.price)?.verdict.tone === "good";
   return (
     <div
       className="not-prose my-6 flex flex-wrap items-center gap-4 rounded-[var(--radius-card)] border p-4"
@@ -479,27 +556,47 @@ function AboveFoldCta({ productMlaId }: { productMlaId: string }) {
         <p className="text-[12px] font-semibold text-[var(--text-secondary)]">
           Nuestra recomendación
         </p>
-        <p
-          className="text-[16px] font-extrabold text-[var(--text-primary)] leading-tight"
-          style={{ fontFamily: "var(--font-display)" }}
+        {/* Titulo y estrellas linkean a la ficha: la caja esta arriba del fold
+            y era, salvo el boton, entera zona muerta. */}
+        <Link
+          href={productHref(product)}
+          prefetch={false}
+          data-cta-location="above-fold-producto"
+          className="block hover:opacity-80 transition-opacity"
         >
-          {product.title}
-        </p>
-        {product.rating ? (
-          <div className="mt-0.5 flex items-center gap-1.5 text-[12px] text-[var(--text-muted)]">
-            <Stars rating={product.rating} size={12} />
-            <span className="font-medium text-[var(--text-secondary)]">
-              {product.rating.toFixed(1)}
-            </span>
-            {product.reviewCount ? (
-              <span>· {product.reviewCount.toLocaleString("es-AR")} calificaciones</span>
-            ) : null}
-          </div>
-        ) : null}
+          <p
+            className="text-[16px] font-extrabold text-[var(--text-primary)] leading-tight"
+            style={{ fontFamily: "var(--font-display)" }}
+          >
+            {product.title}
+          </p>
+          {product.rating ? (
+            <div className="mt-0.5 flex items-center gap-1.5 text-[12px] text-[var(--text-muted)]">
+              <Stars rating={product.rating} size={12} />
+              <span className="font-medium text-[var(--text-secondary)]">
+                {product.rating.toFixed(1)}
+              </span>
+              {product.reviewCount ? (
+                <span>· {product.reviewCount.toLocaleString("es-AR")} calificaciones</span>
+              ) : null}
+            </div>
+          ) : null}
+        </Link>
+        {bestPrice && (
+          <Badge
+            variant="price-low"
+            className="mt-1"
+            title="El precio de hoy es el más bajo que le registramos a este producto."
+          >
+            <TrendingDown size={10} />
+            Mínimo histórico
+          </Badge>
+        )}
       </div>
       {product.priceStatus === "out_of_stock" ? (
         <Link
           href={productHref(product)}
+          prefetch={false}
           data-cta-location="above-fold"
           className="inline-flex items-center gap-1.5 px-5 py-3 text-sm font-extrabold rounded-[var(--radius-button)] transition-transform hover:-translate-y-px"
           style={{
@@ -551,6 +648,7 @@ function VerdictCta({ productMlaId }: { productMlaId: string }) {
       {product.priceStatus === "out_of_stock" ? (
         <Link
           href={productHref(product)}
+          prefetch={false}
           data-cta-location="verdict"
           className="inline-flex items-center gap-1.5 px-5 py-3 text-sm font-extrabold rounded-[var(--radius-button)] transition-transform hover:-translate-y-px"
           style={{
@@ -701,47 +799,25 @@ export function GuideRenderer({ guide: rawGuide }: GuideRendererProps) {
           </aside>
 
           {/* Sections */}
-          {bodySections.map((section, i) => (
-            <Fragment key={i}>
-              <SectionRenderer section={section} />
-              {/* Repetir CTA al producto #1 tras el veredicto */}
-              {section.type === "verdict" && topPickId && (
-                <VerdictCta productMlaId={topPickId} />
-              )}
-            </Fragment>
-          ))}
+          {bodySections.map((section, i) => {
+            const next = bodySections[i + 1];
+            const nextProductMlaId =
+              section.type === "h3" && next?.type === "product-card"
+                ? next.productMlaId
+                : undefined;
+            return (
+              <Fragment key={i}>
+                <SectionRenderer section={section} nextProductMlaId={nextProductMlaId} />
+                {/* Repetir CTA al producto #1 tras el veredicto */}
+                {section.type === "verdict" && topPickId && (
+                  <VerdictCta productMlaId={topPickId} />
+                )}
+              </Fragment>
+            );
+          })}
 
-      {/* FAQ */}
-      {guide.faq && guide.faq.length > 0 && (
-        <div id="faq" className="mt-10 space-y-4">
-          {!guide.sections.some((s) => s.id === "faq") && (
-            <h2
-              className="text-2xl md:text-3xl font-bold text-[var(--text-primary)] mt-10 mb-4 pb-2 border-b border-[var(--border)]"
-              style={{ fontFamily: "var(--font-display)" }}
-            >
-              Preguntas frecuentes
-            </h2>
-          )}
-          {guide.faq.map((item) => (
-            <details
-              key={item.question}
-              className="group rounded-[var(--radius-card)] border border-[var(--border)] overflow-hidden"
-            >
-              <summary className="flex items-center justify-between px-4 py-3 cursor-pointer text-[15px] font-semibold text-[var(--text-primary)] hover:bg-[var(--bg-secondary)] transition-colors">
-                {item.question}
-                <span className="shrink-0 ml-2 transition-transform group-open:rotate-90">
-                  →
-                </span>
-              </summary>
-              <div className="px-4 pb-4 text-[15px] text-[var(--text-secondary)] leading-relaxed">
-                {parseInlineLinks(item.answer)}
-              </div>
-            </details>
-          ))}
-        </div>
-      )}
-
-      {/* Legacy internal links — kept as subtle pill row above the new footer */}
+      {/* Enlazado interno: va ANTES del FAQ. Con 39% de profundidad de scroll
+          promedio, todo lo que vive después del FAQ no lo ve casi nadie. */}
       {guide.internalLinks && guide.internalLinks.length > 0 && (
         <aside className="mt-10 p-5 rounded-[6px] bg-[var(--bg-secondary)] border border-[var(--border)]">
           <p className="font-semibold text-[var(--text-primary)] mb-3">
@@ -762,10 +838,41 @@ export function GuideRenderer({ guide: rawGuide }: GuideRendererProps) {
         </aside>
       )}
 
+      {/* FAQ */}
+      {guide.faq && guide.faq.length > 0 && (
+        <div id="faq" className="mt-10 space-y-4">
+          {!guide.sections.some((s) => s.id === "faq") && (
+            <h2
+              className="text-2xl md:text-3xl font-bold text-[var(--text-primary)] mt-10 mb-4 pb-2 border-b border-[var(--border)]"
+              style={{ fontFamily: "var(--font-display)" }}
+            >
+              Preguntas frecuentes
+            </h2>
+          )}
+          {guide.faq.map((item, index) => (
+            <details
+              key={item.question}
+              open={index === 0}
+              className="group rounded-[var(--radius-card)] border border-[var(--border)] overflow-hidden"
+            >
+              <summary className="flex items-center justify-between px-4 py-3 cursor-pointer text-[15px] font-semibold text-[var(--text-primary)] hover:bg-[var(--bg-secondary)] transition-colors">
+                {parseInlineLinks(item.question)}
+                <span className="shrink-0 ml-2 transition-transform group-open:rotate-90">
+                  →
+                </span>
+              </summary>
+              <div className="px-4 pb-4 text-[15px] text-[var(--text-secondary)] leading-relaxed">
+                {parseInlineLinks(item.answer)}
+              </div>
+            </details>
+          ))}
+        </div>
+      )}
+
       <RelatedGuides
         className="mt-10"
-        heading={`Más sobre ${categoryLabel(guide.category)}`}
-        subtitle="Seguí explorando esta categoría"
+        heading={nextStepHeadingForGuide(guide)}
+        subtitle="Seguí explorando"
         links={nextStepLinksForGuide(guide)}
       />
 

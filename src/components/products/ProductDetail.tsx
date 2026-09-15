@@ -1,6 +1,21 @@
 "use client";
 
 import { useEffect, useRef, type ReactNode } from "react";
+
+/** Estrellas + puntaje + conteo. Si la ficha tiene reseñas curadas, todo eso
+ * lleva a la sección de opiniones: es el gesto por defecto en cualquier ficha
+ * de producto y acá no hacía nada. Sin reseñas curadas queda como estaba. */
+function RatingLink({ enlazar, children }: { enlazar: boolean; children: ReactNode }) {
+  if (!enlazar) return <>{children}</>;
+  return (
+    <a
+      href="#ficha-opiniones"
+      className="inline-flex flex-wrap items-center gap-2 hover:underline underline-offset-2"
+    >
+      {children}
+    </a>
+  );
+}
 import Image from "next/image";
 import Link from "next/link";
 import {
@@ -325,19 +340,19 @@ export function ProductDetail({
   return (
     <div ref={containerRef}>
       {/* Breadcrumb */}
-      <nav className="flex items-center gap-1.5 text-xs text-[var(--text-muted)] mb-6">
-        <Link href="/" className="hover:text-[var(--text-secondary)] transition-colors">
+      <nav className="flex items-center gap-1.5 text-[13px] text-[var(--text-secondary)] mb-6">
+        <Link href="/" className="hover:text-[var(--text-primary)] underline underline-offset-2 decoration-dotted decoration-[var(--text-muted)] transition-colors">
           Inicio
         </Link>
-        <ChevronRight size={12} />
+        <ChevronRight size={13} className="text-[var(--text-muted)] shrink-0" />
         <Link
           href={`/categoria/${product.categorySlug}`}
-          className="hover:text-[var(--text-secondary)] transition-colors"
+          className="hover:text-[var(--text-primary)] underline underline-offset-2 decoration-dotted decoration-[var(--text-muted)] transition-colors"
         >
           {product.category}
         </Link>
-        <ChevronRight size={12} />
-        <span className="text-[var(--text-secondary)] truncate max-w-[200px]">
+        <ChevronRight size={13} className="text-[var(--text-muted)] shrink-0" />
+        <span className="text-[var(--text-muted)] truncate max-w-[200px]">
           {product.title}
         </span>
       </nav>
@@ -396,21 +411,23 @@ export function ProductDetail({
           {/* Rating */}
           {product.rating && (
             <div className="mt-3 flex flex-wrap items-center gap-2 text-sm">
-              <span
-                role="img"
-                aria-label={`${product.rating} de 5 estrellas${product.reviewCount ? `, ${product.reviewCount} opiniones` : ""}`}
-                className="inline-flex items-center gap-1.5"
-              >
-                <RatingStars rating={product.rating} />
-                <span className="font-bold text-[var(--text-primary)]">
-                  {product.rating.toFixed(1)}
+              <RatingLink enlazar={!!product.customerReviews?.length}>
+                <span
+                  role="img"
+                  aria-label={`${product.rating} de 5 estrellas${product.reviewCount ? `, ${product.reviewCount} opiniones` : ""}`}
+                  className="inline-flex items-center gap-1.5"
+                >
+                  <RatingStars rating={product.rating} />
+                  <span className="font-bold text-[var(--text-primary)]">
+                    {product.rating.toFixed(1)}
+                  </span>
                 </span>
-              </span>
-              {product.reviewCount && (
-                <span className="text-[var(--text-muted)]">
-                  · {product.reviewCount.toLocaleString("es-AR")} opiniones
-                </span>
-              )}
+                {product.reviewCount ? (
+                  <span className="text-[var(--text-muted)]">
+                    · {product.reviewCount.toLocaleString("es-AR")} opiniones
+                  </span>
+                ) : null}
+              </RatingLink>
               {fewReviews && (
                 <span className="text-[11px] font-semibold px-2 py-0.5 rounded-[var(--radius-pill)] text-[#d97706] bg-[rgba(245,158,11,0.12)]">
                   Pocas opiniones — lo decimos de frente
@@ -455,7 +472,7 @@ export function ProductDetail({
             </p>
           )}
 
-          <CouponBadge price={product.price} className="self-start mt-2" />
+          <CouponBadge price={product.price} categorySlug={product.categorySlug} className="self-start mt-2" />
 
           {/* Cuotas / price honesty */}
           <p className="mt-1 text-[13px] text-[var(--text-secondary)]">
@@ -642,7 +659,7 @@ export function ProductDetail({
                 {relatedProducts.map((related) => (
                   <tr key={related.id} className="border-b border-[var(--border)] last:border-0">
                     <td className="px-2 py-3">
-                      <Link href={productHref(related)} className="flex items-center gap-2.5 group">
+                      <Link href={productHref(related)} prefetch={false} className="flex items-center gap-2.5 group">
                         <span
                           className="relative w-10 h-10 shrink-0 rounded-[var(--radius-badge)] overflow-hidden"
                           style={{ backgroundColor: related.pastelColor || "var(--bg-secondary)" }}
@@ -681,6 +698,7 @@ export function ProductDetail({
                       {related.priceStatus === "out_of_stock" ? (
                         <Link
                           href={productHref(related)}
+                          prefetch={false}
                           aria-label={`Ver ${related.title} (sin stock en esta publicación)`}
                           className="inline-flex items-center gap-1 px-3 py-1.5 text-xs font-bold rounded-[var(--radius-pill)] bg-[#3483fa] text-white hover:bg-[#2968c8] transition-colors whitespace-nowrap"
                         >
@@ -859,7 +877,10 @@ export function ProductDetail({
               ? "Esta publicación figuraba pausada al último chequeo."
               : "Confirmá precio y stock en MercadoLibre Argentina."}
           </p>
-          <div className="mt-3 text-2xl font-bold text-[#ffe600]">
+          {/* Blanco, no amarillo: el amarillo es exclusivo del boton (regla de
+              oro CRO del sitio). En amarillo, este precio leia como la mitad de
+              arriba del CTA y recibia toques que no hacian nada. */}
+          <div className="mt-3 text-2xl font-bold text-white">
             {formatPrice(product.price)}
           </div>
           {product.priceStatus === "out_of_stock" ? (
