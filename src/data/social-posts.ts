@@ -3077,7 +3077,7 @@ export const socialPosts: SocialPost[] = [
     newPrice: "745.054",
     oldPrice: "1.999.999",
     offPct: "62",
-    postedAt: "2026-09-15T08:12:00-03:00",
+    postedAt: "2026-09-15T08:13:00-03:00",
   },
   {
     title: "PC Gamer Noxi Ryzen 5 8500G 16GB/480GB",
@@ -3087,7 +3087,7 @@ export const socialPosts: SocialPost[] = [
     newPrice: "1.019.999",
     oldPrice: "1.499.999",
     offPct: "32",
-    postedAt: "2026-09-15T08:35:00-03:00",
+    postedAt: "2026-09-15T08:15:00-03:00",
   },
   {
     title: "Parlante JBL Boombox 3 Camuflado",
@@ -3097,7 +3097,7 @@ export const socialPosts: SocialPost[] = [
     newPrice: "665.999",
     oldPrice: "1.259.999",
     offPct: "47",
-    postedAt: "2026-09-15T08:57:00-03:00",
+    postedAt: "2026-09-15T08:17:00-03:00",
   },
   {
     title: "Harman Kardon Onyx Studio 9",
@@ -3107,7 +3107,7 @@ export const socialPosts: SocialPost[] = [
     newPrice: "320.999",
     oldPrice: "949.999",
     offPct: "66",
-    postedAt: "2026-09-15T09:18:00-03:00",
+    postedAt: "2026-09-15T08:18:00-03:00",
   },
   {
     title: "Samsung Galaxy Tab A9 64GB/4GB",
@@ -3117,7 +3117,7 @@ export const socialPosts: SocialPost[] = [
     newPrice: "267.325",
     oldPrice: "399.999",
     offPct: "33",
-    postedAt: "2026-09-15T09:39:00-03:00",
+    postedAt: "2026-09-15T08:20:00-03:00",
   },
   {
     title: 'Smart TV Philips 50" 4K Titan OS',
@@ -3127,7 +3127,7 @@ export const socialPosts: SocialPost[] = [
     newPrice: "641.299",
     oldPrice: "999.998",
     offPct: "35",
-    postedAt: "2026-09-15T10:01:00-03:00",
+    postedAt: "2026-09-15T08:22:00-03:00",
   },
   {
     title: "PC Gamer Ryzen 5 3400G + RTX 3050",
@@ -3137,7 +3137,7 @@ export const socialPosts: SocialPost[] = [
     newPrice: "1.057.299",
     oldPrice: "2.000.319",
     offPct: "47",
-    postedAt: "2026-09-15T10:23:00-03:00",
+    postedAt: "2026-09-15T08:24:00-03:00",
   },
   {
     title: 'Notebook Lenovo IdeaPad Slim 3 Ryzen 7',
@@ -3147,7 +3147,7 @@ export const socialPosts: SocialPost[] = [
     newPrice: "1.219.999",
     oldPrice: "1.973.398",
     offPct: "38",
-    postedAt: "2026-09-15T10:47:00-03:00",
+    postedAt: "2026-09-15T08:26:00-03:00",
   },
   {
     title: 'Smart TV Samsung 43" Neo QLED Gaming Serie 9',
@@ -3157,7 +3157,7 @@ export const socialPosts: SocialPost[] = [
     newPrice: "1.605.599",
     oldPrice: "1.999.999",
     offPct: "19",
-    postedAt: "2026-09-15T11:09:00-03:00",
+    postedAt: "2026-09-15T08:29:00-03:00",
   },
   {
     title: 'Monitor Samsung Odyssey G4 27" 240Hz',
@@ -3167,6 +3167,6 @@ export const socialPosts: SocialPost[] = [
     newPrice: "538.499",
     oldPrice: "717.999",
     offPct: "25",
-    postedAt: "2026-09-15T11:30:00-03:00",
+    postedAt: "2026-09-15T08:31:00-03:00",
   },
 ];
