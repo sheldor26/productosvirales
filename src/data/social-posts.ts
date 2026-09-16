@@ -3329,4 +3329,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "40",
     postedAt: "2026-09-16T10:35:04-03:00",
   },
+  {
+    title: "Parlante Portátil Noblex PSB2000P RGB",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_988641-MLA114050152479_072026-O.webp",
+    affiliateUrl: "https://meli.la/2xxA3aG",
+    newPrice: "138.999",
+    oldPrice: "182.599",
+    offPct: "23",
+    postedAt: "2026-09-16T11:12:35-03:00",
+  },
 ];
