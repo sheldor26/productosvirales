@@ -7,6 +7,34 @@
 > por filtrar de más. Mirar una vez por semana con criterio propio.
 > Entradas nuevas arriba.
 
+## 2026-09-16
+
+- **são paulo - boca juniors** — 1 M+ búsquedas (+1.000%, 18 h)
+- **platense - fluminense** — 200 mil+ búsquedas (+1.000%, 20 h)
+- **stray kids** — 50 mil+ búsquedas (+800%, 3 d)
+- **deportick** — 50 mil+ búsquedas (+1.000%, ayer)
+- **emanuel ortega** — 20 mil+ búsquedas (+1.000%, ayer)
+- **juegos suramericanos 2026** — 20 mil+ búsquedas (+200%, 4 d)
+- **atlético madrid - osasuna** — 10 mil+ búsquedas (+1.000%, 1 h)
+- **benin** — 10 mil+ búsquedas (+1.000%, 24 h)
+- **juan izquierdo** — 10 mil+ búsquedas (+1.000%, 15 h)
+- **vasco da gama** — 10 mil+ búsquedas (+1.000%, 20 h)
+- **misil** — 10 mil+ búsquedas (+1.000%, 20 h)
+- **act** — 10 mil+ búsquedas (+1.000%, 23 h)
+- **reforma** — 10 mil+ búsquedas (+500%, 23 h)
+- **venta** — 5 mil+ búsquedas (+1.000%, 5 h)
+- **air** — 5 mil+ búsquedas (+1.000%, 23 h)
+- **american** — 5 mil+ búsquedas (+1.000%, 22 h)
+- **griselda gambaro** — 5 mil+ búsquedas (+1.000%, 21 h)
+- **above** — 5 mil+ búsquedas (+1.000%, 23 h)
+- **address** — 5 mil+ búsquedas (+1.000%, 23 h)
+- **against** — 5 mil+ búsquedas (+1.000%, 23 h)
+- **after** — 5 mil+ búsquedas (+1.000%, 23 h)
+- **administration** — 5 mil+ búsquedas (+1.000%, 23 h)
+- **action** — 5 mil+ búsquedas (+1.000%, 23 h)
+- **la noche de los lapices** — 5 mil+ búsquedas (+800%, ayer)
+- **atleta** — 2 mil+ búsquedas (+1.000%, 1 h)
+
 ## 2026-07-08
 
 - **colombia vs suiza** — 1 M+ búsquedas (+1.000%, ayer)
