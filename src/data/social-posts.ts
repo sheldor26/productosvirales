@@ -3369,4 +3369,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "35",
     postedAt: "2026-09-16T18:57:31-03:00",
   },
+  {
+    title: "Auriculares HyperX Cloud Stinger 2 Core PS5/PS4",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_956220-MLU78660384639_082024-O.webp",
+    affiliateUrl: "https://meli.la/1ZWgq5H",
+    newPrice: "75.725",
+    oldPrice: "176.595",
+    offPct: "57",
+    postedAt: "2026-09-16T19:25:26-03:00",
+  },
 ];
