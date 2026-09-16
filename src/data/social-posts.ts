@@ -3359,4 +3359,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "25",
     postedAt: "2026-09-16T18:30:11-03:00",
   },
+  {
+    title: "Auriculares Gamer Redragon H510-PRO",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_849742-MLA115366363526_082026-O.webp",
+    affiliateUrl: "https://meli.la/2NEJM1u",
+    newPrice: "129.999",
+    oldPrice: "199.999",
+    offPct: "35",
+    postedAt: "2026-09-16T18:57:31-03:00",
+  },
 ];
