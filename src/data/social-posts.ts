@@ -3339,4 +3339,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "23",
     postedAt: "2026-09-16T11:12:35-03:00",
   },
+  {
+    title: "Auriculares Gamer BOGAST Captain 780",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_618612-MLA115632587891_082026-O.webp",
+    affiliateUrl: "https://meli.la/2pwNzho",
+    newPrice: "134.248",
+    oldPrice: "346.000",
+    offPct: "61",
+    postedAt: "2026-09-16T11:39:34-03:00",
+  },
 ];
