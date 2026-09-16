@@ -3349,4 +3349,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "61",
     postedAt: "2026-09-16T11:39:34-03:00",
   },
+  {
+    title: "Joystick GameSir G7 Pro para Xbox Series X|S y PC",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_803527-CBT114829473769_072026-O.webp",
+    affiliateUrl: "https://meli.la/2oVv4Xj",
+    newPrice: "133.869",
+    oldPrice: "178.644",
+    offPct: "25",
+    postedAt: "2026-09-16T18:30:11-03:00",
+  },
 ];
