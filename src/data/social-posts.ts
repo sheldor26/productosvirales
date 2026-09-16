@@ -3299,4 +3299,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "34",
     postedAt: "2026-09-15T20:06:37-03:00",
   },
+  {
+    title: "Mini Proyector Fika 4K Portátil B2",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_718088-MLA105896407662_022026-O.webp",
+    affiliateUrl: "https://meli.la/1w56uM9",
+    newPrice: "204.079",
+    oldPrice: "399.999",
+    offPct: "48",
+    postedAt: "2026-09-16T08:32:36-03:00",
+  },
 ];
