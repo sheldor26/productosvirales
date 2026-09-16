@@ -7,6 +7,12 @@
 > 🔴 = se quedo sin stock (el link de afiliado apunta a una pagina pausada).
 > Entradas nuevas arriba.
 
+## 2026-09-16
+
+- 🟢 VOLVIO EL STOCK — **MLA57493486** Velador Táctil LED Recargable Practiled USB Para Botella Mesa Luz Regulable
+  - ML: https://www.mercadolibre.com.ar/velador-tactil-led-recargable-practiled-usb-para-botella-mesa-luz-regulable/p/MLA57493486
+  - Sitio: https://productosvirales.com.ar/producto/MLA57493486
+
 ## 2026-09-14
 
 - 🟢 VOLVIO EL STOCK — **MLAU2983186467** Perfume De Mujer Lattafa Yara Edp 100 Ml Arabe Original
