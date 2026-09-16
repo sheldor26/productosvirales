@@ -344,6 +344,12 @@ negro — tienen precio de lista distinto).
 
 ## Pendiente de revisar
 
+- Cupón ML "PROBAMELI" (mensaje de afiliados del 2026-09-16 ~09:00, "Múltiples
+  Categorías", 5% OFF, mínima $25.000, tope $10.000 OFF, vence hoy 23:59) —
+  probado en el carrito con el Mini Proyector Fika ($204.079): aplicó
+  correctamente, quedó en $194.079 (tope de $10.000 alcanzado). Cupón real y
+  activo. Usar como bonus en el copy de los posts de hoy que superen la
+  mínima, nunca como el precio/% principal de la imagen.
 - Notebook Acer Aspire Go 15 Ryzen 7 32GB/1TB (meli.la/2H1ASeu, MLA67836556)
   sourceado el 2026-09-15 ~09:56 a $1.835.235 (15% OFF, "Mejor precio",
   vendedor PRONOTEBOOKS, +5 disponibles). Al reverificar en vivo antes de
