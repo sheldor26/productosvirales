@@ -3309,4 +3309,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "48",
     postedAt: "2026-09-16T08:32:36-03:00",
   },
+  {
+    title: "Televisor LG QNED AI 55\" 55QNED82ASG",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_766321-MLA110304086166_052026-O.webp",
+    affiliateUrl: "https://meli.la/2HvTsDJ",
+    newPrice: "1.234.999",
+    oldPrice: "2.399.999",
+    offPct: "48",
+    postedAt: "2026-09-16T08:59:43-03:00",
+  },
 ];
