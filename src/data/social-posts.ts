@@ -3319,4 +3319,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "48",
     postedAt: "2026-09-16T08:59:43-03:00",
   },
+  {
+    title: "Kit 2 Cámaras Seguridad Geotek 3MP WiFi",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_615628-MLA107470659885_022026-O.webp",
+    affiliateUrl: "https://meli.la/1eyVTV9",
+    newPrice: "89.850",
+    oldPrice: "149.999",
+    offPct: "40",
+    postedAt: "2026-09-16T10:35:04-03:00",
+  },
 ];
