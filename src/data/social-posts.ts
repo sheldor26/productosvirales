@@ -3449,4 +3449,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "36",
     postedAt: "2026-09-17T17:05:53-03:00",
   },
+  {
+    title: "Parlante JBL Flip 7",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_922346-MLA83308650209_032025-O.webp",
+    affiliateUrl: "https://meli.la/2miUH8o",
+    newPrice: "343.199",
+    oldPrice: "532.999",
+    offPct: "35",
+    postedAt: "2026-09-17T17:34:07-03:00",
+  },
 ];
