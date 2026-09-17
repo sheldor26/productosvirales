@@ -68204,7 +68204,7 @@ Comprá el Omron HEM-6124 si querés el respaldo de la marca líder en un format
       { label: "Memorias", value: "200" },
       { label: "Mide", value: "Presión sistólica, diastólica y frecuencia cardíaca" },
       { label: "Indicador de error de movimiento", value: "Sí" },
-      { label: "Tecnología PAD", value: "Detección de arritmia (declarada)" },
+      { label: "Tecnología PAD", value: "Aviso de pulso irregular durante la medición (declarada)" },
       { label: "Tecnología MAM", value: "3 mediciones automáticas consecutivas (declarada)" },
       { label: "Brazalete incluido", value: "22-42 cm" },
       { label: "Alimentación", value: "Pila AA (adaptador a corriente no incluido)" },
@@ -68215,12 +68215,12 @@ Comprá el Omron HEM-6124 si querés el respaldo de la marca líder en un format
     priceLastChecked: "2026-09-16",
     priceStatus: "fresh",
     reviewsSampledAt: "2026-07-19",
-    description: "Tensiómetro digital de brazo Microlife BP A200 AFIB: el único de esta guía con tecnología de detección de arritmia (PAD) declarada en su ficha técnica.",
-    seoTitle: "Microlife BP A200 AFIB: detección de arritmia",
-    metaDescription: "Tensiómetro digital de brazo Microlife BP A200 AFIB, con tecnología de detección de arritmia. Precio actualizado y opiniones reales.",
-    verdict: "Sirve si buscás el único tensiómetro de esta guía con tecnología de detección de arritmia (PAD) declarada en su ficha técnica, con 200 memorias, la mayor capacidad de la comparativa. Es un dato de ficha, no una recomendación médica: consultá siempre con un profesional de la salud si necesitás monitorear arritmia. La contra real: tiene bastante menos volumen de reseñas que el resto de esta guía (292 contra miles), y no tiene descuento tan agresivo como otros modelos. No es para vos si buscás el mayor historial de reseñas posible: para eso, el Omron HEM-7142 de esta guía tiene casi 100 veces más calificaciones.",
+    description: "Tensiómetro digital de brazo Microlife BP A200 AFIB: el único de esta guía con tecnología PAD (aviso de pulso irregular) declarada en su ficha técnica.",
+    seoTitle: "Microlife BP A200 AFIB: aviso de pulso irregular",
+    metaDescription: "Tensiómetro digital de brazo Microlife BP A200 AFIB, con tecnología PAD de aviso de pulso irregular. Precio actualizado y opiniones reales.",
+    verdict: "Sirve si buscás el único tensiómetro de esta guía con tecnología PAD (aviso de pulso irregular durante la medición) declarada en su ficha técnica, con 200 memorias, la mayor capacidad de la comparativa. No diagnostica arritmia: es un dato de ficha, no una recomendación médica, y el nombre de la publicación (\"AFIB\") suena más clínico que la función real. Consultá siempre con un profesional de la salud si necesitás monitorear arritmia. La contra real: tiene bastante menos volumen de reseñas que el resto de esta guía (292 contra miles), y no tiene descuento tan agresivo como otros modelos. No es para vos si buscás el mayor historial de reseñas posible: para eso, el Omron HEM-7142 de esta guía tiene casi 100 veces más calificaciones.",
     pros: [
-      "El único de esta guía con tecnología de detección de arritmia (PAD) declarada en su ficha técnica",
+      "El único de esta guía con tecnología PAD (aviso de pulso irregular durante la medición) declarada en su ficha técnica",
       "200 memorias, la mayor capacidad de esta guía",
       "Tecnología MAM: promedia 3 mediciones automáticas consecutivas",
       "Marca suiza con presencia establecida en farmacias",
@@ -68233,31 +68233,31 @@ Comprá el Omron HEM-6124 si querés el respaldo de la marca líder en un format
     ],
     articleBody: `## Qué es y para quién
 
-El Microlife BP A200 AFIB es un tensiómetro digital de brazo con tecnología de detección de arritmia (PAD, por sus siglas en inglés) declarada en su ficha técnica, la única de esta guía con esa función. Es un dato técnico de la publicación, no una recomendación médica de este sitio: si tu profesional de salud te indicó monitorear arritmia, es un aspecto a tener en cuenta al comparar modelos.
+El Microlife BP A200 AFIB es un tensiómetro digital de brazo con tecnología PAD declarada en su ficha técnica, la única de esta guía con esa función. El nombre de la publicación en MercadoLibre ("AFIB") suena más clínico de lo que es: [según la tecnología equivalente que Microlife describe en su sitio oficial](https://www.microlife.uk.com/technologies/blood-pressure/pad-technology), esta función avisa si detecta un pulso irregular durante la medición, pero el propio fabricante aclara que no reemplaza un examen cardíaco ni diagnostica arritmia. Es distinta de la tecnología AFIBsens de Microlife (esa sí validada clínicamente contra electrocardiograma en estudios), que no es la que declara esta ficha. Si tu profesional de salud te indicó prestar atención a irregularidades de pulso, es un aspecto a tener en cuenta al comparar modelos — pero no es un diagnóstico.
 
 ## Cómo funciona
 
-Con 200 memorias (la mayor capacidad de esta guía) y tecnología MAM (que promedia 3 mediciones automáticas consecutivas), suma la tecnología PAD de detección de arritmia según su ficha técnica declarada en MercadoLibre.
+Con 200 memorias (la mayor capacidad de esta guía) y tecnología MAM (que promedia 3 mediciones automáticas consecutivas), suma la tecnología PAD declarada en su ficha técnica de MercadoLibre: analiza la frecuencia del pulso durante la medición y muestra un aviso si detecta irregularidad.
 
 ## La contra real
 
-El punto más honesto a señalar es el volumen de reseñas: con solo {{reviews:MLA24533653}} calificaciones (contra miles en el resto de esta guía), hay menos historial acumulado sobre durabilidad y uso cotidiano. El precio tampoco tiene el descuento agresivo que sí tienen otros modelos de esta guía.
+El punto más honesto a señalar es el volumen de reseñas: con solo {{reviews:MLA24533653}} calificaciones (contra miles en el resto de esta guía), hay menos historial acumulado sobre durabilidad y uso cotidiano. El precio tampoco tiene el descuento agresivo que sí tienen otros modelos de esta guía. Y el nombre "AFIB" de la publicación es más ambicioso que lo que la propia ficha técnica declara.
 
 ## Cómo se compara con los otros de esta guía
 
-Frente al [Omron HEM-7142](/producto/omron-tensiometro-hem-7142-digital-automatico-de-brazo-color-blanco-mla24044627) (mayor volumen de reseñas), el Microlife tiene una función especializada (detección de arritmia) que el Omron no declara. Frente a la [Coronet YK-BPW4](/producto/tensiometro-digital-de-muneca-medidor-de-presion-arterial-color-blanco-mla22255575) y el [Omron HEM-6124](/producto/tensiometro-digital-de-muneca-automatico-omron-hem-6124-gris-mla24111585) (ambos muñeca), el Microlife es de brazo con memoria mucho mayor (200 contra 30-99).
+Frente al [Omron HEM-7142](/producto/omron-tensiometro-hem-7142-digital-automatico-de-brazo-color-blanco-mla24044627) (mayor volumen de reseñas), el Microlife tiene una función especializada (aviso de pulso irregular) que el Omron no declara. Frente a la [Coronet YK-BPW4](/producto/tensiometro-digital-de-muneca-medidor-de-presion-arterial-color-blanco-mla22255575) y el [Omron HEM-6124](/producto/tensiometro-digital-de-muneca-automatico-omron-hem-6124-gris-mla24111585) (ambos muñeca), el Microlife es de brazo con memoria mucho mayor (200 contra 30-99).
 
 ## Para quién sí y para quién no
 
-Comprá el Microlife BP A200 AFIB si buscás la función de detección de arritmia declarada en ficha, idealmente si tu profesional de salud te indicó monitorear ese aspecto. No es para vos si buscás el mayor historial de reseñas posible o el precio más bajo: para eso, revisá el resto de esta guía.`,
+Comprá el Microlife BP A200 AFIB si buscás el aviso de pulso irregular declarado en ficha, idealmente si tu profesional de salud te indicó prestar atención a ese aspecto — no si buscás un diagnóstico de arritmia. No es para vos si buscás el mayor historial de reseñas posible o el precio más bajo: para eso, revisá el resto de esta guía.`,
     faq: [
       {
         question: "¿Detecta arritmia de verdad?",
-        answer: "Su ficha técnica declara tecnología PAD de detección de arritmia. Es un dato de la publicación, no una validación clínica de este sitio: no reemplaza el diagnóstico de un profesional de la salud.",
+        answer: "No la diagnostica. Su ficha técnica declara tecnología PAD, que según describe Microlife en su sitio oficial analiza la frecuencia del pulso durante la medición y avisa si detecta irregularidad, pero el propio fabricante aclara que no reemplaza un examen cardíaco. Es distinta de su tecnología AFIBsens (esa sí validada clínicamente), que no es la que trae este modelo.",
       },
       {
         question: "¿Por qué tiene menos reseñas que el resto de esta guía?",
-        answer: "Es un modelo más especializado (detección de arritmia) con menor volumen de venta que los tensiómetros genéricos de esta guía.",
+        answer: "Es un modelo más especializado (aviso de pulso irregular) con menor volumen de venta que los tensiómetros genéricos de esta guía.",
       },
       {
         question: "¿Cuántas memorias tiene?",
@@ -68273,7 +68273,7 @@ Comprá el Microlife BP A200 AFIB si buscás la función de detección de arritm
       "@type": "Product",
       name: "Tensiómetro Digital de Brazo Microlife BP A200 AFIB",
       image: ["https://http2.mlstatic.com/D_Q_NP_688153-MLA84480880023_052025-F.webp"],
-      description: "Tensiómetro digital de brazo Microlife BP A200 AFIB, con tecnología de detección de arritmia PAD.",
+      description: "Tensiómetro digital de brazo Microlife BP A200 AFIB, con tecnología PAD de aviso de pulso irregular.",
       brand: { "@type": "Brand", name: "Microlife" },
       offers: {
         "@type": "Offer",
