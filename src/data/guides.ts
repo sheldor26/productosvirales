@@ -17602,8 +17602,8 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       "Aventus, Sauvage, Invictus, Tobacco Vanille: los perfumes occidentales más caros tienen su dupe árabe a 1/4 o 1/10 del precio. Cuáles cumplen, cuáles no, y qué mirar antes de comprar.",
     h1: "Perfumes árabes y sus dupes: la lista completa de clones para Argentina (2026)",
     publishedDate: "2026-06-04",
-    updatedDate: "2026-07-03",
-    sitemapLastmod: "2026-07-27",
+    updatedDate: "2026-09-17",
+    sitemapLastmod: "2026-09-17",
     hasDisclosure: true,
     intro: [
       "Un Creed Aventus en Argentina cuesta $500.000. Un Armaf Club de Nuit Intense Man, que comparte el 80% de su perfil olfativo, cuesta {{precio:MLA16122300:k}}. Esa relación se repite con Dior Sauvage Elixir vs Lattafa Asad Intense, Paco Rabanne Invictus vs Rasasi Hawas Ice y otra docena de fragancias premium. El nicho árabe se construyó sobre esa lógica: ofrecer perfiles olfativos similares a perfumes occidentales caros a una fracción del costo.",
@@ -17843,6 +17843,10 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       {
         question: "¿Lattafa Asad Intense es realmente como Dior Sauvage Elixir?",
         answer: "Comparte familia olfativa (especiado-amaderado-avainillado) pero no es idéntico. Asad tiene una apertura más frutal (piña) y un fondo más dulce; Sauvage es más \"árido\" y refinado. La similitud es media-alta (70-80%). La mayoría de los compradores que tienen ambos coinciden en que Asad cumple el rol del Sauvage a una décima parte del precio."
+      },
+      {
+        question: "¿Cuál es el mejor dupe árabe del Tom Ford Tobacco Vanille?",
+        answer: "Lattafa Khamrah Qahwa, el más cercano en el catálogo argentino: {{precio:MLA31178643:k}} contra los $400.000-$550.000 del Tobacco Vanille, un ahorro del 87-90%. Comparte el perfil gourmand de café tostado, canela y vainilla, pero con una firma propia de dátiles que el original no tiene — por eso la similitud es media (60-70%), la más baja de los tres dupes top de esta guía, no la más alta. Es el gourmand árabe más viral de TikTok, y la entrada más simple si buscás ese perfil de café y vainilla sin pagar el original."
       },
       {
         question: "¿Un dupe es legal? ¿Es una falsificación?",
