@@ -3439,4 +3439,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "33",
     postedAt: "2026-09-17T16:37:46-03:00",
   },
+  {
+    title: "Smart TV Led TCL 65V6C UHD Google TV",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_861101-MLA110273924557_042026-O.webp",
+    affiliateUrl: "https://meli.la/1ShQsft",
+    newPrice: "1.021.051",
+    oldPrice: "1.599.999",
+    offPct: "36",
+    postedAt: "2026-09-17T17:05:53-03:00",
+  },
 ];
