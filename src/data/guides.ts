@@ -31524,10 +31524,10 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
 
       { type: "h2", title: `Comparativa rápida: las 4 frente a frente`, id: "tabla-comparativa" },
       { type: "table", headers: ["Modelo", "Peso", "Formato", "Venta", "Material", "Ideal para"], rows: [
-        ["[DeporAr](https://meli.la/PEGAR_MELI_LA)", "25 kg totales", "Ajustable + barra", "Kit completo", "PVC y municición de acero", "La mayoría: kit completo y con más respaldo"],
-        ["[BS Fit](https://meli.la/PEGAR_MELI_LA)", "20 kg totales", "Ajustable", "Kit completo", "PVC con concreto", "Tienda oficial y buen agarre"],
-        ["[High Performance](https://meli.la/PEGAR_MELI_LA)", "10 kg", "Fija", "Por unidad", "Hierro engomado", "Entrenamiento serio, peso fijo"],
-        ["[Fitnesas](https://meli.la/PEGAR_MELI_LA)", "2 kg c/u (4 kg el par)", "Fija", "Par", "Hierro y concreto, PVC", "Arrancar o tonificación"],
+        ["[DeporAr](https://meli.la/12oM2BA)", "25 kg totales", "Ajustable + barra", "Kit completo", "PVC y municición de acero", "La mayoría: kit completo y con más respaldo"],
+        ["[BS Fit](https://meli.la/2bL81ab)", "20 kg totales", "Ajustable", "Kit completo", "PVC con concreto", "Tienda oficial y buen agarre"],
+        ["[High Performance](https://meli.la/2ey8myR)", "10 kg", "Fija", "Por unidad", "Hierro engomado", "Entrenamiento serio, peso fijo"],
+        ["[Fitnesas](https://meli.la/236AX2A)", "2 kg c/u (4 kg el par)", "Fija", "Par", "Hierro y concreto, PVC", "Arrancar o tonificación"],
       ] },
       { type: "p", content: `El nombre de cada modelo lleva directo a su publicación en MercadoLibre. Abajo está el detalle de las cuatro, en el mismo orden: qué hace bien cada una y dónde se queda corta.` },
 
@@ -31567,9 +31567,9 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
 
       { type: "h2", title: `Cuánto cuestan las mancuernas en Argentina`, id: "precios" },
       { type: "list", items: [
-        `**Alrededor de {{precio:MLA35253570:k}}:** el [par de Fitnesas de 2 kg](https://meli.la/PEGAR_MELI_LA), la opción más barata para arrancar.`,
-        `**Alrededor de {{precio:MLA43766711:k}} a {{precio:MLA44965610:k}}:** la [mancuerna hexagonal High Performance](https://meli.la/PEGAR_MELI_LA) (por unidad) y el [kit ajustable BS Fit](https://meli.la/PEGAR_MELI_LA).`,
-        `**Alrededor de {{precio:MLA35569367:k}}:** el [kit DeporAr](https://meli.la/PEGAR_MELI_LA), el de mayor peso total y más elegido de la comparativa.`,
+        `**Alrededor de {{precio:MLA35253570:k}}:** el [par de Fitnesas de 2 kg](https://meli.la/236AX2A), la opción más barata para arrancar.`,
+        `**Alrededor de {{precio:MLA43766711:k}} a {{precio:MLA44965610:k}}:** la [mancuerna hexagonal High Performance](https://meli.la/2ey8myR) (por unidad) y el [kit ajustable BS Fit](https://meli.la/2bL81ab).`,
+        `**Alrededor de {{precio:MLA35569367:k}}:** el [kit DeporAr](https://meli.la/12oM2BA), el de mayor peso total y más elegido de la comparativa.`,
       ] },
 
       { type: "verdict", content: `Para la mayoría, el **kit DeporAr de 25 kg**: trae mancuernas y barra conversora en un solo producto, y es el más elegido por lejos. Compralo sabiendo que **con los discos chicos no se arma un par parejo por debajo de 7,5 kg cada mancuerna**. Si estás empezando o buscás algo liviano, el **par de Fitnesas de 2 kg**, el más económico. Si entrenás en serio y preferís peso fijo, la **mancuerna hexagonal High Performance**, la mejor calificada, con la salvedad de que **se vende por unidad, no por par**. Y si querés el respaldo de una tienda oficial, el **[kit ajustable BS Fit](/producto/kit-de-mancuernas-ajustables-bs-fit-20-kg-con-discos-y-barra-mla44965610)**, sabiendo que las roscas se aflojan un poco con el uso.` },
@@ -31639,10 +31639,10 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
 
       { type: "h2", title: `Comparativa rápida: las 4 frente a frente`, id: "tabla-comparativa" },
       { type: "table", headers: ["Modelo", "Tipo", "Peso soportado", "Volante", "Ideal para"], rows: [
-        ["[NICTOM Bs01](https://meli.la/PEGAR_MELI_LA)", "Spinning", "120 kg", "6 kg", "La mayoría: mejor calificada y reforzada"],
-        ["[LEVELFIT Levspi200](https://meli.la/PEGAR_MELI_LA)", "Spinning", "150 kg", "4 kg", "Quien necesita soportar más peso y no le preocupa el recorrido del asiento"],
-        ["[Body Skull](https://meli.la/PEGAR_MELI_LA)", "Recumbent (reclinada)", "120 kg", "5 kg", "Cuidar la columna, hasta 1,70 m"],
-        ["[Alpina ARG-160](https://meli.la/PEGAR_MELI_LA)", "Vertical tradicional", "100 kg", "3 kg", "Uso hogareño liviano y presupuesto ajustado"],
+        ["[NICTOM Bs01](https://meli.la/31PVWen)", "Spinning", "120 kg", "6 kg", "La mayoría: mejor calificada y reforzada"],
+        ["[LEVELFIT Levspi200](https://meli.la/2HDUHUC)", "Spinning", "150 kg", "4 kg", "Quien necesita soportar más peso y no le preocupa el recorrido del asiento"],
+        ["[Body Skull](https://meli.la/25Sx7kC)", "Recumbent (reclinada)", "120 kg", "5 kg", "Cuidar la columna, hasta 1,70 m"],
+        ["[Alpina ARG-160](https://meli.la/1LuGvPj)", "Vertical tradicional", "100 kg", "3 kg", "Uso hogareño liviano y presupuesto ajustado"],
       ] },
       { type: "p", content: `El nombre de cada modelo lleva directo a su publicación en MercadoLibre. Abajo está el detalle de las cuatro, en el mismo orden: qué hace bien cada una y dónde se queda corta.` },
 
@@ -31682,9 +31682,9 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
 
       { type: "h2", title: `Cuánto cuesta una bicicleta fija en Argentina`, id: "precios" },
       { type: "list", items: [
-        `**Alrededor de {{precio:MLA53273514:k}}:** la [Alpina ARG-160](https://meli.la/PEGAR_MELI_LA), la más barata de la comparativa, para uso hogareño liviano.`,
-        `**Alrededor de {{precio:MLA62445462:k}} a {{precio:MLA67137053:k}}:** la [LEVELFIT Levspi200](https://meli.la/PEGAR_MELI_LA) (150 kg soportados) y la [NICTOM Bs01](https://meli.la/PEGAR_MELI_LA), la mejor calificada.`,
-        `**Alrededor de {{precio:MLA45267058:k}}:** la [Body Skull recumbent](https://meli.la/PEGAR_MELI_LA), la más cara y la única reclinada de la comparativa.`,
+        `**Alrededor de {{precio:MLA53273514:k}}:** la [Alpina ARG-160](https://meli.la/1LuGvPj), la más barata de la comparativa, para uso hogareño liviano.`,
+        `**Alrededor de {{precio:MLA62445462:k}} a {{precio:MLA67137053:k}}:** la [LEVELFIT Levspi200](https://meli.la/2HDUHUC) (150 kg soportados) y la [NICTOM Bs01](https://meli.la/31PVWen), la mejor calificada.`,
+        `**Alrededor de {{precio:MLA45267058:k}}:** la [Body Skull recumbent](https://meli.la/25Sx7kC), la más cara y la única reclinada de la comparativa.`,
       ] },
 
       { type: "verdict", content: `Para la mayoría, la **NICTOM Bs01**: es la mejor calificada de esta comparativa, reforzada a 120 kg y con el volante más pesado del grupo. Compralá sabiendo que el manubrio y el asiento se mueven un poco en la posición más alta. Si necesitás soportar más peso, la **LEVELFIT Levspi200**, con 150 kg, pero **varios compradores reportan que el asiento tiene poco recorrido hacia arriba**, sin un umbral de altura parejo. Si buscás cuidar la columna, la **Body Skull recumbent**, la única reclinada del grupo, no recomendada por un comprador para más de 1,70 m. Y si el presupuesto manda, la **Alpina ARG-160**, la más barata, sabiendo que algún comprador reportó ruido o una falla de armado puntual.` },
@@ -31753,9 +31753,9 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
 
       { type: "h2", title: `Comparativa rápida: los 4 frente a frente`, id: "tabla-comparativa" },
       { type: "table", headers: ["Modelo", "Tipo", "Material", "Medidas", "Ideal para"], rows: [
-        ["[Dakota](https://meli.la/PEGAR_MELI_LA)", "Torre", "Terciopelo", "91 cm de altura", "La mayoría: rascar, dormir y jugar en un mueble"],
+        ["[Dakota](https://meli.la/33bxWM1)", "Torre", "Terciopelo", "91 cm de altura", "La mayoría: rascar, dormir y jugar en un mueble"],
         ["[Wuhan](https://meli.la/PEGAR_MELI_LA)", "Torre", "Felpa y madera", "1,26 m de altura", "La torre más alta y mejor calificada"],
-        ["[Beepaw](https://meli.la/PEGAR_MELI_LA)", "Protector autoadhesivo", "Felpa", "60x60 cm", "Proteger una esquina de sillón puntual"],
+        ["[Beepaw](https://meli.la/1yAZAaR)", "Protector autoadhesivo", "Felpa", "60x60 cm", "Proteger una esquina de sillón puntual"],
         ["[FIFI&MINI](https://meli.la/PEGAR_MELI_LA)", "Plano de cartón", "Cartón corrugado", "43x23 cm", "Presupuesto ajustado, uso consumible"],
       ] },
       { type: "p", content: `El nombre de cada modelo lleva directo a su publicación en MercadoLibre. Abajo está el detalle de los cuatro, en el mismo orden: qué hace bien cada uno y dónde se queda corto.` },
@@ -31797,8 +31797,8 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { type: "h2", title: `Cuánto cuesta un rascador para gatos en Argentina`, id: "precios" },
       { type: "list", items: [
         `**Alrededor de {{precio:MLA43852971:k}}:** el [cartón FIFI&MINI](https://meli.la/PEGAR_MELI_LA), la opción más económica.`,
-        `**Alrededor de {{precio:MLA62299437:k}}:** el [esquinero Beepaw](https://meli.la/PEGAR_MELI_LA), para proteger muebles puntuales.`,
-        `**Alrededor de {{precio:MLA69830916:k}} a {{precio:MLA46200581:k}}:** las torres [Wuhan](https://meli.la/PEGAR_MELI_LA) y [Dakota](https://meli.la/PEGAR_MELI_LA), con cucha y juguete incluidos.`,
+        `**Alrededor de {{precio:MLA62299437:k}}:** el [esquinero Beepaw](https://meli.la/1yAZAaR), para proteger muebles puntuales.`,
+        `**Alrededor de {{precio:MLA69830916:k}} a {{precio:MLA46200581:k}}:** las torres [Wuhan](https://meli.la/PEGAR_MELI_LA) y [Dakota](https://meli.la/33bxWM1), con cucha y juguete incluidos.`,
       ] },
 
       { type: "verdict", content: `Para la mayoría, la **torre Dakota**: combina rascar, dormir y jugar en un solo mueble, y es la más elegida por lejos, sin fallas de calidad recurrentes reportadas. Si buscás la torre más alta y mejor calificada, la **Wuhan**, con la salvedad de que la plataforma superior es algo chica. Si tu problema puntual es una esquina de sillón, el **esquinero Beepaw**, sabiendo que reemplazarlo puede dejar residuo de adhesivo. Y si el presupuesto manda, el **cartón FIFI&MINI**, entendiendo que es un consumible que conviene reponer siempre con la misma forma.` },
@@ -31865,10 +31865,10 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
 
       { type: "h2", title: `Comparativa rápida: los 4 frente a frente`, id: "tabla-comparativa" },
       { type: "table", headers: ["Modelo", "Tipo", "Edad recomendada", "Peso", "Ideal para"], rows: [
-        ["[Cartan STL150](https://meli.la/PEGAR_MELI_LA)", "Paragüitas", "6 a 36 meses", "6,6 kg", "El más elegido: liviano y barato, pero no para recién nacidos"],
-        ["[Mega Baby](https://meli.la/PEGAR_MELI_LA)", "Travel system", "0 a 36 meses", "No declarado", "Recién nacidos, con huevito a buen precio"],
-        ["[Cosco Muum](https://meli.la/PEGAR_MELI_LA)", "3 en 1", "0 a 36 meses", "15,2 kg", "3 en 1 completo, ruedas grandes"],
-        ["[Gadnic Mawe](https://meli.la/PEGAR_MELI_LA)", "3 en 1", "No declarado", "No declarado", "El paquete de accesorios más completo"],
+        ["[Cartan STL150](https://meli.la/2xs7FXW)", "Paragüitas", "6 a 36 meses", "6,6 kg", "El más elegido: liviano y barato, pero no para recién nacidos"],
+        ["[Mega Baby](https://meli.la/2NrM7zL)", "Travel system", "0 a 36 meses", "No declarado", "Recién nacidos, con huevito a buen precio"],
+        ["[Cosco Muum](https://meli.la/2NTPiEt)", "3 en 1", "0 a 36 meses", "15,2 kg", "3 en 1 completo, ruedas grandes"],
+        ["[Gadnic Mawe](https://meli.la/1Jo7ufS)", "3 en 1", "No declarado", "No declarado", "El paquete de accesorios más completo"],
       ] },
       { type: "p", content: `El nombre de cada modelo lleva directo a su publicación en MercadoLibre. Abajo está el detalle de los cuatro, en el mismo orden: qué hace bien cada uno y dónde se queda corto.` },
 
@@ -31908,9 +31908,9 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
 
       { type: "h2", title: `Cuánto cuesta un cochecito de bebé en Argentina`, id: "precios" },
       { type: "list", items: [
-        `**Alrededor de {{precio:MLA14984932:k}}:** el [Cartan STL150](https://meli.la/PEGAR_MELI_LA), el más barato, para bebés de 6 meses en adelante.`,
-        `**Alrededor de {{precio:MLA57256006:k}}:** el [Mega Baby Travel System](https://meli.la/PEGAR_MELI_LA), con huevito, la mejor opción para recién nacidos por precio.`,
-        `**Alrededor de {{precio:MLA66213768:k}} a {{precio:MLA66789390:k}}:** los 3 en 1 [Cosco Muum](https://meli.la/PEGAR_MELI_LA) y [Gadnic Mawe](https://meli.la/PEGAR_MELI_LA), con huevito y moisés incluidos.`,
+        `**Alrededor de {{precio:MLA14984932:k}}:** el [Cartan STL150](https://meli.la/2xs7FXW), el más barato, para bebés de 6 meses en adelante.`,
+        `**Alrededor de {{precio:MLA57256006:k}}:** el [Mega Baby Travel System](https://meli.la/2NrM7zL), con huevito, la mejor opción para recién nacidos por precio.`,
+        `**Alrededor de {{precio:MLA66213768:k}} a {{precio:MLA66789390:k}}:** los 3 en 1 [Cosco Muum](https://meli.la/2NTPiEt) y [Gadnic Mawe](https://meli.la/1Jo7ufS), con huevito y moisés incluidos.`,
       ] },
 
       { type: "verdict", content: `Para la mayoría, el **Cartan STL150**: liviano, barato y el más elegido por lejos, sabiendo que **no sirve para recién nacidos** (recomendado desde los 6 meses). Si tu bebé recién nació, el **Mega Baby Travel System**, con huevito y empatado con el Cosco Muum como la mejor calificación de esta comparativa, a un precio bastante menor que las opciones 3 en 1. Si buscás un 3 en 1 completo con ruedas grandes para calles irregulares, el **Cosco Muum**, con la salvedad de que la pieza del huevito es de plástico y puede moverse un poco. Y si querés el paquete de accesorios más completo de una sola vez, el **Gadnic Mawe Traful**, el más caro del grupo.` },
