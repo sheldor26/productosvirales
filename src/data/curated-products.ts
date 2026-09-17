@@ -64021,7 +64021,7 @@ La ficha técnica promete 24 horas de funcionamiento continuo, pero las reseñas
 
 ## Cómo se compara con los otros de esta guía
 
-Frente al Silfab V12 (4 litros, más barato), el Gadnic tiene menos capacidad de tanque pero muchas más calificaciones reales y un diseño más compacto para dormitorio. Frente al Maverick VP-3 (también 4 litros, con más funciones como filtro removible y protección antibacteriana), el Gadnic es más simple pero más probado en el mercado argentino. Frente al Daewoo DHU335, el Gadnic tiene una base de opiniones muchísimo más grande (2.221 contra 35), aunque el Daewoo tiene mayor potencia de transpiración declarada.
+Frente al Silfab V12 (4 litros, más barato), el Gadnic tiene menos capacidad de tanque pero muchas más calificaciones reales y un diseño más compacto para dormitorio. Frente al Maverick VP-3 (también 4 litros, con más funciones como filtro removible y protección antibacteriana), el Gadnic es más simple pero más probado en el mercado argentino. Frente al Daewoo DHU335, el Gadnic tiene una base de opiniones muchísimo más grande ({{reviews:MLA28531856}} contra {{reviews:MLA28103250}}), aunque el Daewoo tiene mayor potencia de transpiración declarada.
 
 ## Para quién sí y para quién no
 
@@ -64105,7 +64105,7 @@ Comprá el Gadnic HM20B si buscás el modelo más probado del país para un dorm
     verdict: "Sirve si priorizás precio y capacidad de tanque (4 litros, el mayor de esta guía junto al Maverick) y podés cumplir las condiciones de uso del fabricante: mantenerlo a 1 metro de distancia, no moverlo enchufado y no dejarlo desatendido mientras funciona. No es para vos si buscás un vapor frío sin riesgo de quemadura (ahí el Gadnic HM20B o el Daewoo DHU335 de esta guía, ambos ultrasónicos, son la opción correcta) o si tenés chicos chiquitos sueltos cerca del equipo.",
     pros: [
       "El más económico de esta guía con la mayor capacidad de tanque junto al Maverick (4 litros)",
-      "2.508 calificaciones reales, la base de opiniones más grande de esta guía",
+      "{{reviews:MLA35313170}} calificaciones reales, la base de opiniones más grande de esta guía",
       "Fabricado en Argentina (Silvestrin Fabris S.R.L.), con certificación Bureau Veritas y manual de uso completo en español",
       "Sube la humedad del ambiente muy rápido, según múltiples reseñas",
       "Indicador de poca agua y apagado automático",
