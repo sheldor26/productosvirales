@@ -3429,4 +3429,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "46",
     postedAt: "2026-09-17T09:47:57-03:00",
   },
+  {
+    title: "Smart TV Samsung The Frame 55\" QLED 4K Art Mode",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_929246-MLA85628040440_062025-O.webp",
+    affiliateUrl: "https://meli.la/2egjnrV",
+    newPrice: "2.131.699",
+    oldPrice: "3.199.999",
+    offPct: "33",
+    postedAt: "2026-09-17T16:37:46-03:00",
+  },
 ];
