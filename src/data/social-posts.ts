@@ -3479,4 +3479,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "48",
     postedAt: "2026-09-17T18:31:08-03:00",
   },
+  {
+    title: "Aspiradora Inalámbrica Rowenta X-Force Flex 13.60 Animal",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_631973-MLA99957232895_112025-O.webp",
+    affiliateUrl: "https://meli.la/1tiKrMT",
+    newPrice: "525.299",
+    oldPrice: "699.999",
+    offPct: "24",
+    postedAt: "2026-09-17T18:59:59-03:00",
+  },
 ];
