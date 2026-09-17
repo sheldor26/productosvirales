@@ -3379,4 +3379,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "57",
     postedAt: "2026-09-16T19:25:26-03:00",
   },
+  {
+    title: "Resident Evil Requiem Nintendo Switch 2 (Físico)",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_850880-MLA108793811771_032026-O.webp",
+    affiliateUrl: "https://meli.la/2YbrWPa",
+    newPrice: "110.042",
+    oldPrice: "151.792",
+    offPct: "27",
+    postedAt: "2026-09-16T19:53:49-03:00",
+  },
 ];
