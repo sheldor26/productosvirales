@@ -94,6 +94,16 @@ siguiente (Kindle Paperwhite, mismo día) en adelante.
 
 **Archivos involucrados:** `src/data/guides.ts`, `src/data/curated-products.ts`
 
+## 2026-08-20 — Un comentario desactualizado mandó a arreglar dos fichas que estaban perfectas
+
+**Qué pasó:** el comentario en `curated-products.ts:77468` (commit `79089f4`, 2026-08-18) dice que `MLA39861162` y `MLA61393261` son "referencias muertas… que ya no existen en el catálogo de ML". Ese texto se tomó como diagnóstico y derivó en un pedido de reemplazar dos `product-card` rotas en la guía `accesorios-para-freidora-de-aire`. Nada de eso era cierto: los dos productos están en el catálogo, `priceStatus: "fresh"`, chequeados el 2026-08-19 (el día después del comentario), con `affiliateUrl` real; y la guía no tiene ningún `product-card`, los IDs viven en `quickPicks`. Un escaneo completo de `guides.ts` contra los 704 IDs del catálogo dio cero huérfanos en todo el sitio.
+
+**Por qué:** el comentario describía un estado del mundo en un momento dado ("estos IDs están muertos") y se escribió como si fuera permanente. Al día siguiente la corrida de precios los encontró vivos y actualizó los campos de la ficha, pero **nadie actualizó el comentario**: los datos y su descripción quedaron contradiciéndose dentro del mismo archivo. Como el comentario era prosa afirmativa y sonaba razonable, se le creyó sin cruzarlo contra los datos que estaban 50.000 líneas más arriba en el mismo archivo.
+
+**Cómo evitarlo:** los comentarios que afirman el estado de un dato (vivo, muerto, sin stock, discontinuado) caducan solos y hay que fecharlos y cruzarlos antes de actuar. Ante un diagnóstico de "X está roto", **verificar contra los datos, nunca contra un comentario** — acá alcanzaba con un `grep` del ID en `curated-products.ts`, que son diez segundos. Vale la regla ya conocida de chequear las premisas que se afirman: aplica igual cuando la premisa viene de un comentario del propio repo y no de una persona.
+
+**Archivos involucrados:** `src/data/curated-products.ts`, `src/data/guides.ts`
+
 ## 2026-08-17 — Tokens `{{precio:MLA…}}` saliendo literales en el HTML publicado
 
 **Qué pasó:** en la guía `pava-electrica-liliana` los `h3` mostraban, textual, "AP152 — La más barata ({{precio:MLA61505857}})" — 6 casos. En el índice `/guias`, el subtítulo de las tarjetas mostraba "De {{precio:MLA24605489:k}} el frasco de entrada a…". El `description` del JSON-LD de las fichas le entregaba a Google "{{reviews:MLA…}} opiniones", el texto de las preguntas del FAQ hacía lo mismo en el acordeón y en el `FAQPage`, y `llms.txt` se lo entregaba a los crawlers de IA en 5 guías. No lo introdujo ningún cambio reciente: estaba en HEAD limpio.

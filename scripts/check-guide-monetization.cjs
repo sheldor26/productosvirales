@@ -3,7 +3,9 @@
  * check-guide-monetization.cjs
  *
  * REGLA OBLIGATORIA: toda guía tiene que tener al menos UN camino de compra
- * real (product-card, quickPick, o link de afiliado/ficha). Nació de una
+ * real (product-card, quickPick, o link de afiliado/ficha), y ese camino tiene
+ * que resolver de verdad: el producto existe en el catálogo y su affiliateUrl
+ * no es un placeholder. Nació de una
  * auditoría (2026-07) que encontró 18 guías publicadas, sumando 1.521
  * impresiones y 23 clicks en 28 días, sin ningún botón de compra: el
  * contenido rankea y atrae lectores, pero no puede generar ni un peso de
@@ -67,7 +69,16 @@ for (const m of productsSrc.matchAll(
   if (!urlByProduct.has(m[1])) urlByProduct.set(m[1], m[2]);
 }
 
+// Set aparte con TODOS los ids del catálogo. No se reusa `urlByProduct` porque
+// esa parte exige que la ficha tenga `affiliateUrl`: una ficha sin ese campo
+// quedaría fuera del Map y se reportaría como huérfana sin serlo.
+const catalogIds = new Set();
+for (const m of productsSrc.matchAll(/^\s*id:\s*['"`](MLA[UF]?\d+)['"`]/gm)) {
+  catalogIds.add(m[1]);
+}
+
 const placeholderRefs = [];
+const orphanRefs = [];
 for (let i = 0; i < slugMatches.length; i++) {
   const slug = slugMatches[i][1];
   const start = slugMatches[i].index;
@@ -82,10 +93,25 @@ for (let i = 0; i < slugMatches.length; i++) {
   const ids = new Set(block.match(/MLA[UF]?\d+/g) ?? []);
   for (const id of ids) {
     const url = urlByProduct.get(id);
-    // Ids que no están en el catálogo los cubre check-table-product-links.
+    // Un id suelto en prosa que no está en el catálogo no es un CTA roto;
+    // los huérfanos estructurales (productMlaId) se chequean abajo.
     if (url === undefined) continue;
     if (!url || url === "PEGAR_MELI_LA") {
       placeholderRefs.push({ slug, id, status: isStaged ? "staged" : "publicada" });
+    }
+  }
+
+  // Todo `productMlaId` (quickPicks y bloques product-card) tiene que existir
+  // en el catálogo. Si no existe, NADIE avisa: QuickPicks.tsx resuelve con
+  // getProductById y descarta el pick con `.filter((p) => p.product)`, y
+  // guides/ProductCard.tsx hace `if (!product) return null`. La guía renderiza
+  // perfecta, sin error ni hueco visible, simplemente sin ese botón de compra.
+  // Es la falla más cara posible justamente porque es invisible: si son los
+  // únicos CTAs de la guía, queda publicada sin monetización y el check de
+  // arriba no lo ve, porque la clave `quickPicks:` sigue estando ahí.
+  for (const m of block.matchAll(/productMlaId:\s*['"`](MLA[UF]?\d+)['"`]/g)) {
+    if (!catalogIds.has(m[1])) {
+      orphanRefs.push({ slug, id: m[1], status: isStaged ? "staged" : "publicada" });
     }
   }
 }
@@ -102,6 +128,18 @@ if (broken.length === 0) {
   }
   console.log(`\nEsto es la regla obligatoria del repo: ninguna guía se publica sin al menos un botón de compra real.`);
   console.log(`Agregá un product-card, un quickPick, o un link de afiliado antes de publicar/mergear.`);
+}
+
+if (orphanRefs.length === 0) {
+  console.log("✓ Todo productMlaId de quickPicks/product-cards existe en el catálogo.");
+} else {
+  failed = true;
+  console.log(`✗ ${orphanRefs.length} referencia(s) productMlaId que NO existen en curated-products.ts:\n`);
+  for (const r of orphanRefs) {
+    console.log(`  [${r.status}] ${r.slug} → ${r.id}`);
+  }
+  console.log(`\nEstos picks se descartan en silencio al renderizar: la guía se ve bien pero pierde ese botón de compra.`);
+  console.log(`Importá la ficha a curated-products.ts (docs/fichas.md) o sacá la referencia de la guía.`);
 }
 
 if (placeholderRefs.length === 0) {

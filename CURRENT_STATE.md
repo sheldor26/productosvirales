@@ -1254,6 +1254,53 @@ Juan preguntó si el rubro tenía mejor volumen del esperado. Respuesta: sí, pe
 - La guía tiene 8 preguntas frecuentes; `docs/guias.md` sugiere 5-7. Se dejó en 8 a propósito
   porque la pregunta de marca nueva cubre la intención del título.
 
+## Sesión 2026-08-20 — La guía de accesorios vendía freidoras, y un comentario viejo mandó a arreglar lo que no estaba roto
+
+### El diagnóstico que llegó era falso, el problema real era otro
+
+Llegó el reporte de que `accesorios-para-freidora-de-aire` tenía dos `product-card` apuntando a `MLA39861162` y `MLA61393261`, IDs supuestamente inexistentes en el catálogo, y que por eso estaba publicada sin monetización. **Las dos premisas eran falsas.** La guía no tiene ni un `product-card` (31 `p`, 3 `list`, 1 `table`, 1 `callout`, 1 `trust-block`, 1 `image`); los IDs estaban en `quickPicks`, que es otro campo y otro componente. Y ambos productos existen en `curated-products.ts` (líneas 27696 y 28807), `priceStatus: "fresh"`, chequeados el 2026-08-19, con meli.la real. Un escaneo de todo `guides.ts` contra los 704 IDs del catálogo dio **cero `productMlaId` huérfanos en el sitio entero**.
+
+El origen del malentendido: el comentario en `curated-products.ts:77468` (commit `79089f4`) declara esos dos IDs "referencias muertas… ya no existen en el catálogo de ML". La corrida de precios del día siguiente los encontró vivos. **El comentario quedó desactualizado y mandó a arreglar algo que funcionaba.**
+
+**El problema real sí existía y era otro:** una guía sobre accesorios monetizaba con dos freidoras enteras. Los botones andaban perfecto, pero le vendían el electrodoméstico a alguien que ya lo tiene.
+
+### Cuatro fichas nuevas de accesorios
+
+Sourceadas a mano desde las góndolas de más vendidos, todas verificadas en vivo (stock, precio, specs, reseñas) el 2026-08-20:
+
+| ID | Producto | Precio | Rating | Categoría origen |
+|---|---|---|---|---|
+| MLA26223658 | Pinza Crystal Rock 30 cm, punta de silicona | $4.980 | 4.8 · 1.098 op. | Pinzas (MLA74533) |
+| MLA51869120 | Molde bandeja silicona Pablukas PBK-20R, 20 cm | $4.869 | 4.6 · 180 op. | Canastos Freidores (MLA414049) |
+| MLA74457455 | X100 moldes de papel Levys Bazar, 21 cm | $7.699 | 4.5 · 65 op. | Tapetes para Hornear (MLA416848) |
+| MLA68588139 | Guantes manopla Veoquiero x2, 230 °C | $18.999 | 4.9 · 678 op. | Agarraderas (MLA413672) |
+
+La pinza es la que la guía misma llamaba imprescindible ("acá no hay discusión: necesitás utensilios que no sean metal") y no se estaba vendiendo en ningún lado.
+
+### Dos choques editoriales que obligaron a reescribir, no solo a linkear
+
+1. **El papel que se consigue no es perforado.** Las fotos muestran moldes bandeja de paredes plegadas y la ficha técnica no declara perforación, pero la guía afirmaba textual que el papel sin agujeritos no sirve. Se reescribió el H2 para distinguir los **dos formatos reales** (perforado plano vs. molde bandeja con paredes) y cuándo conviene cada uno. Hubo que barrer 4 lugares más donde la afirmación vieja seguía viva: standfirst, párrafo "Cuándo funciona", fila de tabla y una FAQ entera.
+2. **El molde de 20 cm no entra en cualquier canasta.** La guía daba 15 cm como único estándar seguro. Se sumó el matiz con el dato de un comprador real ("ideal para freidoras de aire 7/8 lts") en vez de afirmarlo por cuenta propia.
+
+### Los precios en prosa eran de otra era
+
+La guía decía *"Un papel perforado ($200), un molde de silicona ($300)… Total gastás $500"* y *"Todo eso suma máximo $700-800"*. Real hoy: ~$17.500 por los tres. **`check-stale-prose-prices` no lo agarraba porque esos números no estaban atados a ningún producto del catálogo.** Reemplazados por tokens `{{precio:ID}}` en vivo, que ahora se actualizan solos.
+
+### Chequeo nuevo: `productMlaId` huérfano
+
+`check-guide-monetization.cjs` ganó una tercera pasada. Existe porque el fallo es **invisible**: `QuickPicks.tsx:36` descarta el pick con `.filter((p) => p.product)` y `guides/ProductCard.tsx:129` hace `if (!product) return null`. Sin crash, sin hueco, sin warning: la guía renderiza perfecta y simplemente pierde el botón. El check viejo tampoco lo veía, porque la clave `quickPicks:` sigue estando ahí. El comentario que decía que esto lo cubría `check-table-product-links` era falso: ese script solo mira filas de tabla. Probado en las dos direcciones (verde limpio; `exit=1` nombrando guía e ID con un huérfano inyectado).
+
+### Gotchas nuevos
+
+- **La API de categorías de ML sí responde 200**, aunque la de items siga bloqueada con 401. `api.mercadolibre.com/categories/<ID>` devuelve el árbol completo de subcategorías: fue la forma de encontrar "Canastos Freidores", que es donde viven los accesorios específicos de freidora.
+- **El browser interno cae en `/gz/account-verification` con ML.** Hay que usar Chrome real, que tiene la sesión de Juan.
+- **Los 4 meli.la caen en `/social/jm159`** y se verificaron mirando qué renderiza cada uno, no la URL (regla ya conocida). Los cuatro apuntaban al producto correcto.
+
+### Pendiente
+
+- Borrar el comentario desactualizado de `curated-products.ts:77468`, que es lo que originó el diagnóstico falso.
+- Decidir si los guantes merecen su propio H2 o alcanza con el párrafo que se les sumó.
+
 ## Sesión 2026-08-16 — Cinco guías publicadas, dos rubros descartados por calendario, y 32 errores propios
 
 El día más productivo del sitio hasta ahora, y también el que dejó el diagnóstico más incómodo.
