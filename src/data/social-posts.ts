@@ -3399,4 +3399,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "27",
     postedAt: "2026-09-17T08:22:16-03:00",
   },
+  {
+    title: "SSD Kingston Fury Renegade 1TB con Disipador (PS5)",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_790946-MLA99981965631_112025-O.webp",
+    affiliateUrl: "https://meli.la/1kzisCV",
+    newPrice: "524.198",
+    oldPrice: "720.548",
+    offPct: "27",
+    postedAt: "2026-09-17T08:50:50-03:00",
+  },
 ];
