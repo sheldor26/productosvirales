@@ -3489,4 +3489,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "24",
     postedAt: "2026-09-17T18:59:59-03:00",
   },
+  {
+    title: "Reloj Inteligente Redmi Watch 5 Lite con GPS",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_771998-MLA83226994797_032025-O.webp",
+    affiliateUrl: "https://meli.la/1LNQQ34",
+    newPrice: "95.999",
+    oldPrice: "219.999",
+    offPct: "56",
+    postedAt: "2026-09-17T20:28:52-03:00",
+  },
 ];
