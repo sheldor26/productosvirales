@@ -16,6 +16,26 @@ import type React from "react";
 const LINK_CLASS =
   "text-[var(--editorial-accent,currentColor)] underline underline-offset-2 decoration-1 hover:opacity-70 transition-opacity";
 
+/** Dominios de MercadoLibre/afiliado: todo lo demás es cita editorial (fabricante,
+ * fuente confiable, etc.), no un link pago. */
+const AFFILIATE_HOST_RE = /(^|\.)mercadolibre\.com(\.[a-z]{2,3})?$|(^|\.)meli\.la$/i;
+
+/**
+ * Un link externo es "afiliado" (nofollow sponsored) solo si apunta a un dominio
+ * de MercadoLibre/meli.la. Cualquier otro link externo escrito a mano en prosa
+ * (manual del fabricante, certificación, fuente que se usó para verificar un
+ * dato) es una cita editorial genuina, no un link pago — marcarla "sponsored"
+ * es semánticamente falso y le resta confianza a la cita ante buscadores y
+ * motores de IA. Si la URL no parsea, se trata como afiliado (conservador).
+ */
+function isAffiliateHref(href: string): boolean {
+  try {
+    return AFFILIATE_HOST_RE.test(new URL(href).hostname);
+  } catch {
+    return true;
+  }
+}
+
 function renderLink(anchor: string, href: string, key: number): React.ReactNode {
   const isInternal = href.startsWith("/");
   if (isInternal) {
@@ -25,12 +45,13 @@ function renderLink(anchor: string, href: string, key: number): React.ReactNode 
       </Link>
     );
   }
+  const rel = isAffiliateHref(href) ? "nofollow sponsored noopener" : "noopener";
   return (
     <a
       key={key}
       href={href}
       target="_blank"
-      rel="nofollow sponsored noopener"
+      rel={rel}
       data-cta-location="inline"
       className={LINK_CLASS}
     >
