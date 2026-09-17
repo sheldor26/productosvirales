@@ -3469,4 +3469,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "42",
     postedAt: "2026-09-17T18:03:04-03:00",
   },
+  {
+    title: "Bicicleta Fija Spinning Randers ARG-845SP 6kg",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_801659-MLA109464172765_032026-O.webp",
+    affiliateUrl: "https://meli.la/1n1aX8i",
+    newPrice: "323.772",
+    oldPrice: "621.000",
+    offPct: "48",
+    postedAt: "2026-09-17T18:31:08-03:00",
+  },
 ];
