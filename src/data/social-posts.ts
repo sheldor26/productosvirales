@@ -3389,4 +3389,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "27",
     postedAt: "2026-09-16T19:53:49-03:00",
   },
+  {
+    title: "Yoshi y el Misterioso Libro Nintendo Switch 2 (Físico)",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_835374-MLA110696421738_052026-O.webp",
+    affiliateUrl: "https://meli.la/2bXnzt5",
+    newPrice: "121.004",
+    oldPrice: "166.922",
+    offPct: "27",
+    postedAt: "2026-09-17T08:22:16-03:00",
+  },
 ];
