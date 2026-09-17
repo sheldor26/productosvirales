@@ -3409,4 +3409,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "27",
     postedAt: "2026-09-17T08:50:50-03:00",
   },
+  {
+    title: "SSD WD Black SN850P 2TB con Licencia Oficial PS5",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_840222-MLU74140575071_012024-O.webp",
+    affiliateUrl: "https://meli.la/2fQimCq",
+    newPrice: "776.856",
+    oldPrice: "1.617.785",
+    offPct: "51",
+    postedAt: "2026-09-17T09:19:05-03:00",
+  },
 ];
