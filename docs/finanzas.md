@@ -44,18 +44,21 @@ Registro de lo invertido y lo ganado en el proyecto, en pesos y en dólares. Arr
 | :-- | :-- | --: | --: | --: |
 | 2026-07-16 | Primer pago de afiliados (MercadoLibre) | $33.845 | ≈ $1.488,5 ARS/USD | **USD 22,74** |
 | 2026-08-20 | Segundo pago de afiliados (MercadoLibre) | $86.720,99 | ≈ $1.510 ARS/USD | **USD 57,43** |
-| **Total ganado** | | **$120.565,99** | | **USD 80,17** |
+| 2026-09-17 | Tercer pago de afiliados (MercadoLibre) — liquidación de julio 2026 | $431.586 | ≈ $1.541 ARS/USD | **USD ≈ 280,00** |
+| **Total ganado** | | **$552.151,99** | | **USD ≈ 360,17** |
+
+> Tipo de cambio del tercer pago aproximado (dato de Juan al cargarlo, no un comprobante con el valor exacto del día) — corregir si aparece el tipo de cambio preciso.
 
 ---
 
-## Balance a la fecha (2026-08-25)
+## Balance a la fecha (2026-09-17)
 
 | | USD |
 | :-- | --: |
 | Invertido | 363,30 |
-| Ganado | 80,17 |
-| **Neto** | **-283,13** |
+| Ganado | 360,17 |
+| **Neto** | **-3,13** |
 
-El segundo cobro fue 2,5x el primero (USD 22,74 → USD 57,43). El neto igual empeoró porque agosto costó USD 101 (mes puntual de Claude Max 20x). El costo fijo normal quedó en USD 71/mes con ChatGPT Plus adentro: un tercer cobro en la línea de agosto deja septiembre a unos USD 14 de empatar.
+El tercer cobro (liquidación de julio, USD ≈280) es casi 5x el primero y prácticamente empata la inversión acumulada desde abril: de -283,13 a -3,13 en un solo pago. Falta actualizar la fila de inversión de septiembre-2026 (ya se sabe que vuelve a Claude Max 5x, USD 71 fijo el mes) para tener el invertido totalmente al día.
 
 Es esperable estar en rojo a los 3-4 meses de un proyecto de contenido recién arrancando a monetizar — el objetivo de este documento es tener el número real a la vista, no una proyección optimista.
