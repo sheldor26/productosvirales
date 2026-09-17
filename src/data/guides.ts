@@ -31978,10 +31978,10 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
 
       { type: "h2", title: `Comparativa rápida: los 4 frente a frente`, id: "tabla-comparativa" },
       { type: "table", headers: ["Modelo", "Potencia", "Encastre", "Cable/batería", "Ideal para"], rows: [
-        ["[LUSQTOFF RML850-7](https://meli.la/PEGAR_MELI_LA)", "850 W", "SDS Plus", "Con cable", "La mayoría: potencia y el más elegido"],
-        ["[LUSQTOFF ATL18-8B](https://meli.la/PEGAR_MELI_LA)", "36 W (motor a batería)", "Mandril 10 mm", "Inalámbrico, 2 baterías", "Sin cable, el más barato"],
-        ["[Makita HP1630](https://meli.la/PEGAR_MELI_LA)", "710 W", "Mandril 13 mm", "Con cable", "Marca premium, mejor terminación"],
-        ["[TOTAL 800W](https://meli.la/PEGAR_MELI_LA)", "800 W", "SDS Plus", "Con cable", "El kit más completo de accesorios"],
+        ["[LUSQTOFF RML850-7](https://meli.la/17TBuNq)", "850 W", "SDS Plus", "Con cable", "La mayoría: potencia y el más elegido"],
+        ["[LUSQTOFF ATL18-8B](https://meli.la/2GXFMqW)", "36 W (motor a batería)", "Mandril 10 mm", "Inalámbrico, 2 baterías", "Sin cable, el más barato"],
+        ["[Makita HP1630](https://meli.la/2KtE9mV)", "710 W", "Mandril 13 mm", "Con cable", "Marca premium, mejor terminación"],
+        ["[TOTAL 800W](https://meli.la/2wnN6gD)", "800 W", "SDS Plus", "Con cable", "El kit más completo de accesorios"],
       ] },
       { type: "p", content: `El nombre de cada modelo lleva directo a su publicación en MercadoLibre. **Ojo con la columna de potencia:** los 36 W del ATL18-8B son la potencia del motor a batería, una medición distinta a los watts nominales de un motor a cable (710-850 W en los otros tres). No son comparables restando un número contra otro. Abajo está el detalle de los cuatro, en el mismo orden: qué hace bien cada uno y dónde se queda corto.` },
 
@@ -32021,9 +32021,9 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
 
       { type: "h2", title: `Cuánto cuesta un taladro percutor en Argentina`, id: "precios" },
       { type: "list", items: [
-        `**Alrededor de {{precio:MLA16033177:k}} a {{precio:MLA21206777:k}}:** las dos [LUSQTOFF](https://meli.la/PEGAR_MELI_LA), inalámbrica y con cable, muy cerca en precio.`,
-        `**Alrededor de {{precio:MLA14063419:k}}:** el [TOTAL 800W](https://meli.la/PEGAR_MELI_LA), con el kit de accesorios más completo.`,
-        `**Alrededor de {{precio:MLA15388004:k}}:** el [Makita HP1630](https://meli.la/PEGAR_MELI_LA), la opción de marca premium y la más cara del grupo.`,
+        `**Alrededor de {{precio:MLA16033177:k}} a {{precio:MLA21206777:k}}:** las dos [LUSQTOFF](https://meli.la/17TBuNq), inalámbrica y con cable, muy cerca en precio.`,
+        `**Alrededor de {{precio:MLA14063419:k}}:** el [TOTAL 800W](https://meli.la/2wnN6gD), con el kit de accesorios más completo.`,
+        `**Alrededor de {{precio:MLA15388004:k}}:** el [Makita HP1630](https://meli.la/2KtE9mV), la opción de marca premium y la más cara del grupo.`,
       ] },
 
       { type: "verdict", content: `Para la mayoría, el **LUSQTOFF RML850-7**: 850 W, SDS Plus y el más elegido por lejos. Compralo sabiendo que hay que ajustar el mango sin forzarlo. Si necesitás algo sin cable, el **LUSQTOFF ATL18-8B**, el más barato del grupo, con la salvedad de su mandril más chico (10 mm). Si buscás marca premium, el **Makita HP1630**, comparado favorablemente contra un Dewalt del mismo precio por un comprador real, aunque es el más caro. Y si querés el kit más completo de una sola vez, el **TOTAL 800W**, con maletín y accesorios incluidos, sabiendo que rinde menos que equipos de mayor energía de impacto en demolición pesada.` },
@@ -32091,10 +32091,10 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
 
       { type: "h2", title: `Comparativa rápida: las 4 frente a frente`, id: "tabla-comparativa" },
       { type: "table", headers: ["Modelo", "Largo", "Material", "Mango ergonómico", "Estuche", "Ideal para"], rows: [
-        ["[SPICAFIT SOG-00](https://meli.la/PEGAR_MELI_LA)", "3 m", "Aluminio", "No, según ficha", "Sí", "La mayoría: más elegida y con estuche"],
-        ["[Gadnic Speed Rope](https://meli.la/PEGAR_MELI_LA)", "3 m", "Acero", "Sí", "No", "La mejor nota de la comparativa"],
-        ["[GMP con rodamientos](https://meli.la/PEGAR_MELI_LA)", "3 m", "Acero", "Sí", "No", "El presupuesto más ajustado"],
-        ["[Veoquiero](https://meli.la/PEGAR_MELI_LA)", "2,8 m", "Acero y PVC", "No", "No", "Estatura media o baja"],
+        ["[SPICAFIT SOG-00](https://meli.la/1sL3PkB)", "3 m", "Aluminio", "No, según ficha", "Sí", "La mayoría: más elegida y con estuche"],
+        ["[Gadnic Speed Rope](https://meli.la/31DGQnN)", "3 m", "Acero", "Sí", "No", "La mejor nota de la comparativa"],
+        ["[GMP con rodamientos](https://meli.la/1iFjabQ)", "3 m", "Acero", "Sí", "No", "El presupuesto más ajustado"],
+        ["[Veoquiero](https://meli.la/26yScFV)", "2,8 m", "Acero y PVC", "No", "No", "Estatura media o baja"],
       ] },
       { type: "p", content: `El nombre de cada modelo lleva directo a su publicación en MercadoLibre. Abajo está el detalle de las cuatro, en el mismo orden: qué hace bien cada una y dónde se queda corta.` },
 
@@ -32134,9 +32134,9 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
 
       { type: "h2", title: `Cuánto cuesta una soga para saltar en Argentina`, id: "precios" },
       { type: "list", items: [
-        `**Alrededor de {{precio:MLA29023934:k}}:** la [GMP con rodamientos](https://meli.la/PEGAR_MELI_LA), la opción más económica de esta comparativa.`,
-        `**Alrededor de {{precio:MLA58183439:k}} a {{precio:MLA24498301:k}}:** la [Veoquiero reforzada](https://meli.la/PEGAR_MELI_LA) y la [SPICAFIT SOG-00](https://meli.la/PEGAR_MELI_LA), la más elegida de la comparativa.`,
-        `**Alrededor de {{precio:MLA25593911:k}}:** la [Gadnic Aluminio Speed Rope](https://meli.la/PEGAR_MELI_LA), la de mejor nota y la más cara del grupo.`,
+        `**Alrededor de {{precio:MLA29023934:k}}:** la [GMP con rodamientos](https://meli.la/1iFjabQ), la opción más económica de esta comparativa.`,
+        `**Alrededor de {{precio:MLA58183439:k}} a {{precio:MLA24498301:k}}:** la [Veoquiero reforzada](https://meli.la/26yScFV) y la [SPICAFIT SOG-00](https://meli.la/1sL3PkB), la más elegida de la comparativa.`,
+        `**Alrededor de {{precio:MLA25593911:k}}:** la [Gadnic Aluminio Speed Rope](https://meli.la/31DGQnN), la de mejor nota y la más cara del grupo.`,
       ] },
 
       { type: "verdict", content: `Para la mayoría, la **[SPICAFIT SOG-00](/producto/soga-de-saltar-spicafit-sog-00-aluminio-rulemanes-y-estuche-incluido-mla24498301)**: es la más elegida por lejos y la única con estuche, con la salvedad de que **su ficha técnica declara la marca Libercam, no SPICAFIT** como dice la publicación. Si priorizás la mejor nota y no te importa pagar un poco más, la **[Gadnic Aluminio Speed Rope](/producto/soga-de-saltar-gadnic-aluminio-speed-rope-rulemanes-duales-y-cable-de-acero-ajus-mla25593911)**, {{rating:MLA25593911}} de promedio pero la más cara de las cuatro. Si el presupuesto manda, la **[GMP con rodamientos](/producto/soga-de-saltar-gmp-con-rodamientos-puno-de-goma-y-cable-de-acero-ajustable-mla29023934)**, la más barata con buen respaldo. Y si buscás la más vendida en el ranking de ML, la **[Veoquiero](/producto/soga-de-saltar-veoquiero-2-8-m-reforzada-cable-de-acero-y-pvc-mla58183439)**, sabiendo que a **1,80 m o más te puede quedar corta**.` },
