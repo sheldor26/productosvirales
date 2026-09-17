@@ -3459,4 +3459,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "35",
     postedAt: "2026-09-17T17:34:07-03:00",
   },
+  {
+    title: "Taladro Percutor Bosch GSB 180-LI 18V",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_938201-MLA83157167690_032025-O.webp",
+    affiliateUrl: "https://meli.la/22BwWhw",
+    newPrice: "199.999",
+    oldPrice: "346.894",
+    offPct: "42",
+    postedAt: "2026-09-17T18:03:04-03:00",
+  },
 ];
