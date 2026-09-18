@@ -3529,4 +3529,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "19",
     postedAt: "2026-09-18T08:54:02-03:00",
   },
+  {
+    title: "Silla Gamer Ergonómica MTI Infinity Reclinable",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_856406-MLA99576703608_122025-O.webp",
+    affiliateUrl: "https://meli.la/2Eu3Vxm",
+    newPrice: "164.899",
+    oldPrice: "402.355",
+    offPct: "59",
+    postedAt: "2026-09-18T09:20:46-03:00",
+  },
 ];
