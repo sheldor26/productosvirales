@@ -3519,4 +3519,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "38",
     postedAt: "2026-09-18T08:27:55-03:00",
   },
+  {
+    title: "Cafetera DeLonghi Dedica EC685 Automática",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_803121-MLA93081104674_092025-O.webp",
+    affiliateUrl: "https://meli.la/1DodmEa",
+    newPrice: "703.087",
+    oldPrice: "875.000",
+    offPct: "19",
+    postedAt: "2026-09-18T08:54:02-03:00",
+  },
 ];
