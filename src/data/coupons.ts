@@ -2,16 +2,20 @@ import type { Coupon } from "@/lib/types";
 
 export const activeCoupons: Coupon[] = [
   {
-    // Post-CyberFest, el más chico hasta ahora: 5% con tope de $10.000.
-    // El tope muerde a partir de $200.000; por debajo el badge muestra el
-    // 5% real. El mínimo de $25.000 hace que califique casi todo el
-    // catálogo. Site-wide: sin `categories`, aparece también en /enlaces.
-    code: "PROBAMELI",
-    discountPercent: 5,
+    // "Horas Locas" de la mañana: se apaga solo a las 13:00. El tope de
+    // $10.000 muerde a partir de $125.000; por debajo el badge muestra el
+    // 8% real. Con mínimo de $30.000 califica casi todo el catálogo.
+    //
+    // MELI dice "Incluye: Productos 1P" (los que vende Mercado Libre en
+    // forma directa). No guardamos el vendedor de cada publicación, así
+    // que no hay forma de filtrar por eso — mismo criterio que con la
+    // exclusión de tiendas oficiales de ARRANCOCYBER: va sin restricción.
+    code: "MELIMASYA",
+    discountPercent: 8,
     maxDiscount: 10000,
-    minPurchase: 25000,
-    validFrom: "2026-09-16T09:00:00-03:00",
-    validUntil: "2026-09-16T23:59:00-03:00",
+    minPurchase: 30000,
+    validFrom: "2026-09-18T09:00:00-03:00",
+    validUntil: "2026-09-18T13:00:00-03:00",
     active: true,
   },
 ];
