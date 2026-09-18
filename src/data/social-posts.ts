@@ -3569,4 +3569,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "50",
     postedAt: "2026-09-18T10:53:17-03:00",
   },
+  {
+    title: "Tensiómetro Digital Femmto KF-DT65S",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_750127-MLA114688955266_082026-O.webp",
+    affiliateUrl: "https://meli.la/1y3KjeF",
+    newPrice: "32.999",
+    oldPrice: "49.999",
+    offPct: "34",
+    postedAt: "2026-09-18T11:20:28-03:00",
+  },
 ];
