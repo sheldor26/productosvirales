@@ -3609,4 +3609,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "32",
     postedAt: "2026-09-18T12:43:00-03:00",
   },
+  {
+    title: "Afeitadora Eléctrica VGR V-325 Recargable",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_781043-MLA99501107520_112025-O.webp",
+    affiliateUrl: "https://meli.la/1wK9dgT",
+    newPrice: "42.190",
+    oldPrice: "79.580",
+    offPct: "46",
+    postedAt: "2026-09-18T13:09:13-03:00",
+  },
 ];

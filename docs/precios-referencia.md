@@ -376,6 +376,12 @@ negro — tienen precio de lista distinto).
 |---|---|---|---|
 | Tensiómetro Digital Femmto KF-DT65S | $32.999 | 2026-09-18 | meli.la/1y3KjeF — sin referencia previa, primer tensiómetro del sitio (categoría nueva), item 4 de la TERCERA tanda de 8 (variedad total, ninguna categoría repetida). MLA76118504, 4.8★ (35859 op. — muestra enorme), +100 mil vendidos, Tienda oficial Femmto Healthcare. Bluetooth con app gratis, memoria para 2 usuarios (192 mediciones), batería recargable USB, inflado 100% automático, brazalete ajustable 22-32cm. ⚠️ Al re-verificar en vivo antes de publicar, el precio había subido de $29.100 (41% OFF, visto al sourcear) a $32.999 (34% OFF) — cambio real pero moderado (no es un caso de descuento desaparecido), se regeneraron los assets con el precio actualizado y se publicó con la oferta vigente. Link verificado en el texto publicado contra la Graph API |
 
+## Belleza
+
+| Producto | Precio de referencia (mejor real visto) | Fecha | Fuente |
+|---|---|---|---|
+| Afeitadora Eléctrica VGR V-325 Recargable | $42.190 | 2026-09-18 | meli.la/1wK9dgT — sin referencia previa, primera afeitadora del sitio (categoría nueva), item 8 y ÚLTIMO de la TERCERA tanda de 8 (variedad total, ninguna categoría repetida — tanda cerrada: Barra Gadnic, Soldadora Vohler, Cargador Anker, Tensiómetro Femmto, Joystick Redragon, Cinta Randers, Microondas Philco, esta afeitadora). MLA37255352, 4.7★ (14447 op.), "+50mil vendidos" (badge propio del producto), MÁS VENDIDO. Triple cabezal rotativo inclinable, batería recargable USB (hasta 1h de uso, carga completa en ~1h), compacta para viajar, incluye cable de carga. Re-verificado en vivo antes de publicar, precio idéntico. Link verificado en el texto publicado contra la Graph API |
+
 ## Pendiente de revisar
 
 - Cupón ML "PROBAMELI" (mensaje de afiliados del 2026-09-16 ~09:00, "Múltiples
