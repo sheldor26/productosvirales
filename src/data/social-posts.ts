@@ -3649,4 +3649,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "60",
     postedAt: "2026-09-18T17:57:32-03:00",
   },
+  {
+    title: "Colchón Norden Essence 2 Plazas 140x190cm",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_984960-MLA117201716407_092026-O.webp",
+    affiliateUrl: "https://meli.la/1wCPYFz",
+    newPrice: "294.950",
+    oldPrice: "499.999",
+    offPct: "41",
+    postedAt: "2026-09-18T18:23:09-03:00",
+  },
 ];
