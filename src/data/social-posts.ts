@@ -3659,4 +3659,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "41",
     postedAt: "2026-09-18T18:23:09-03:00",
   },
+  {
+    title: "Mochila Viaje Carry On Alpina 295 25L",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_775976-MLA105254284245_012026-O.webp",
+    affiliateUrl: "https://meli.la/1w6jm88",
+    newPrice: "43.301",
+    oldPrice: "63.990",
+    offPct: "32",
+    postedAt: "2026-09-18T18:49:02-03:00",
+  },
 ];
