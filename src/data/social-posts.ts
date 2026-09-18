@@ -3639,4 +3639,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "41",
     postedAt: "2026-09-18T17:31:15-03:00",
   },
+  {
+    title: "Combo Hidrolavadora + Aspiradora Trent HLT307",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_639539-MLA109280515034_042026-O.webp",
+    affiliateUrl: "https://meli.la/1LZhdQk",
+    newPrice: "157.922",
+    oldPrice: "399.999",
+    offPct: "60",
+    postedAt: "2026-09-18T17:57:32-03:00",
+  },
 ];
