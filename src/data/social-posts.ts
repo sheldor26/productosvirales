@@ -3509,4 +3509,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "44",
     postedAt: "2026-09-18T08:02:27-03:00",
   },
+  {
+    title: "Cámara IP WiFi TP-Link Tapo C400K + Panel Solar",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_900126-MLA111149959182_052026-O.webp",
+    affiliateUrl: "https://meli.la/1ykzQuG",
+    newPrice: "113.393",
+    oldPrice: "185.700",
+    offPct: "38",
+    postedAt: "2026-09-18T08:27:55-03:00",
+  },
 ];
