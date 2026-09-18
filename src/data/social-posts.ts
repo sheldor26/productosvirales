@@ -3599,4 +3599,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "43",
     postedAt: "2026-09-18T12:12:15-03:00",
   },
+  {
+    title: "Microondas Digital Philco MPHDW20UAP 20L",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_868419-MLA99510230448_112025-O.webp",
+    affiliateUrl: "https://meli.la/251RdCn",
+    newPrice: "169.901",
+    oldPrice: "249.999",
+    offPct: "32",
+    postedAt: "2026-09-18T12:43:00-03:00",
+  },
 ];

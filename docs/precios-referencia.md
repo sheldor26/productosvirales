@@ -283,6 +283,7 @@ negro — tienen precio de lista distinto).
 | Freidora de Aire Analógica Kanjihome 2.7L 1000W | $60.149 | 2026-09-02 | https://www.mercadolibre.com.ar/freidora-de-aire-analogica-kanjihome-27lts-khaf-1003-1000w-color-negro/p/MLA46031096 — sin referencia previa |
 | Microondas BGH Quick Chef 20L | $169.199 | 2026-08-28 | sin referencia previa |
 | Microondas Atma 20L MATDB20UAP | $224.089 | 2026-08-24 | — |
+| Microondas Digital Philco MPHDW20UAP 20L | $169.901 | 2026-09-18 | meli.la/251RdCn — modelo distinto a los BGH y Atma ya posteados, item 7 de la TERCERA tanda de 8 (variedad total, ninguna categoría repetida). MLA44653607, 4.8★ (1689 op.), "Nuevo \| +5 mil vendidos" (badge propio del producto). 220V, 700W, display digital con 8 programas, descongelado automático por peso, luz interior, dimensiones 44x35,8x25,8cm. ⚠️ Al re-verificar en vivo antes de publicar, el precio bajó levemente de $173.899 (30% OFF, sourcing) a $169.901 (32% OFF) — mejora real. Link verificado en el texto publicado contra la Graph API |
 | Licuadora Atma Pro LI8450AP | $83.599 | 2026-08-25 | — |
 | Licuadora de Mano Peabody 800W | $111.899 | 2026-08-28 | sin referencia previa |
 | Tostadora Atma Dos Rebanadas | $45.699 | 2026-08-28 | sin referencia previa |
