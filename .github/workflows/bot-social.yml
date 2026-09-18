@@ -80,8 +80,11 @@ jobs:
           BLOB_READ_WRITE_TOKEN: ${{ secrets.BLOB_READ_WRITE_TOKEN }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           DATABASE_URL: ${{ secrets.DATABASE_URL }}
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          # TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID sacados a propósito el 2026-09-18
+          # (Juan pidió que el bot deje de mandarle mensajes). scripts/bot-social.mjs
+          # no-opea sin romper cuando faltan estas credenciales (ver notifyTelegram
+          # ahí mismo: "sin credenciales de Telegram, no se manda el aviso"). Para
+          # reactivar el aviso, volver a pegar estas dos líneas.
         run: |
           ARGS=""
           if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
