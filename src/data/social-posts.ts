@@ -3579,4 +3579,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "34",
     postedAt: "2026-09-18T11:20:28-03:00",
   },
+  {
+    title: "Joystick Gamepad Redragon Juno G818",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_628700-MLA99998989991_112025-O.webp",
+    affiliateUrl: "https://meli.la/12bjmUH",
+    newPrice: "60.799",
+    oldPrice: "79.750",
+    offPct: "23",
+    postedAt: "2026-09-18T11:46:16-03:00",
+  },
 ];
