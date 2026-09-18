@@ -3499,4 +3499,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "56",
     postedAt: "2026-09-17T20:28:52-03:00",
   },
+  {
+    title: "Monitor Gamer AOC 27\" 144Hz Full HD",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_722522-MLA109742458315_032026-O.webp",
+    affiliateUrl: "https://meli.la/1avXEyD",
+    newPrice: "329.899",
+    oldPrice: "594.089",
+    offPct: "44",
+    postedAt: "2026-09-18T08:02:27-03:00",
+  },
 ];
