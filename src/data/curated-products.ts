@@ -94670,7 +94670,7 @@ Es la bicicleta más barata de esta comparativa, con buena relación precio-cali
       { label: "Peso", value: "7 kg" },
       { label: "Formato de venta", value: "Unidad" },
     ],
-    relatedProducts: ["MLA62299437", "MLA69830916", "MLA43852971"],
+    relatedProducts: ["MLA62299437", "MLA45337933", "MLA43852971"],
     priceUpdated: "2026-09-09", priceLastChecked: "2026-09-09", priceVerifiedAt: "2026-09-09",
     priceStatus: "fresh", reviewsSampledAt: "2026-09-09",
     description: "Torre rascador de 91 cm con cucha y juguete, tapizada en terciopelo. Es la más elegida de esta comparativa con {{reviews:MLA46200581}} opiniones y {{rating:MLA46200581}} de promedio.",
@@ -94728,95 +94728,100 @@ Es el rascador con más respaldo de esta comparativa por lejos, y combina tres f
     ],
   },
   {
-    id: "MLA69830916",
-    title: "Rascador Torre Gimnasio Wuhan Premium — 1,26 m, la Más Alta",
-    canonicalName: "Petlisis Wuhan",
-    brand: "Petlisis",
-    mpn: "Wuhan",
-    price: 98163,
+    id: "MLA45337933",
+    title: "Rascador Torre Venecia Bestia Peluda — 1,3 m con Cucha y Hamaca",
+    canonicalName: "Bestia Peluda Venecia",
+    brand: "Bestia Peluda",
+    mpn: "Venecia",
+    price: 186170,
     currency: "ARS",
-    image: "https://http2.mlstatic.com/D_NQ_NP_834210-MLA111822417889_052026-O.webp",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_839400-MLA95833637795_102025-O.webp",
     images: [
-      "https://http2.mlstatic.com/D_NQ_NP_834210-MLA111822417889_052026-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_839400-MLA95833637795_102025-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_648268-MLA92197039598_092025-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_826950-MLA92197096090_092025-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_905546-MLA92196862614_092025-O.webp",
     ],
     category: "Mascotas",
     categorySlug: "mascotas",
-    permalink: "https://www.mercadolibre.com.ar/rascador-torre-gimnasio-wuhan-premium-felpa-gatos-petlsis-color-gris-oscuro/p/MLA69830916",
-    affiliateUrl: "PEGAR_MELI_LA",
+    permalink: "https://www.mercadolibre.com.ar/rascador-torre-para-gato-venecia-felpa-sisal-gimnasio-50x40x130cm-bestia-peluda/p/MLA45337933",
+    affiliateUrl: "https://meli.la/1Ph2Egs",
     condition: "new",
     freeShipping: true,
-    rating: 4.8,
-    reviewCount: 32,
+    rating: 4.9,
+    reviewCount: 55,
     pastelColor: "var(--pastel-purple)",
     specs: [
-      { label: "Marca", value: "Petlisis" },
-      { label: "Modelo", value: "Wuhan" },
+      { label: "Marca", value: "Bestia Peluda" },
+      { label: "Modelo", value: "Venecia" },
       { label: "Tipo de rascador", value: "Árbol / torre gimnasio" },
       { label: "Material del tapizado", value: "Felpa" },
-      { label: "Material del poste", value: "Madera" },
+      { label: "Material del poste", value: "Yute" },
       { label: "Con juguete", value: "Sí" },
-      { label: "Cantidad de niveles", value: "2" },
+      { label: "Cantidad de niveles", value: "3" },
       { label: "Con cucha", value: "Sí" },
       { label: "Tipo de montaje", value: "Piso" },
-      { label: "Medidas (ancho x altura x largo)", value: "45 cm x 1,26 m x 45 cm" },
-      { label: "Peso", value: "5 kg" },
+      { label: "Medidas (ancho x altura x largo)", value: "50 cm x 1,3 m x 40 cm" },
+      { label: "Peso", value: "13,6 kg" },
       { label: "Formato de venta", value: "Unidad" },
     ],
     relatedProducts: ["MLA46200581", "MLA62299437", "MLA43852971"],
-    priceUpdated: "2026-09-09", priceLastChecked: "2026-09-09", priceVerifiedAt: "2026-09-09",
-    priceStatus: "fresh", reviewsSampledAt: "2026-09-09",
-    description: "Torre gimnasio de 1,26 m, la torre más alta de esta comparativa, con felpa, cucha y juguete. Tiene {{reviews:MLA69830916}} calificaciones con {{rating:MLA69830916}} de promedio, la nota más alta del grupo.",
-    seoTitle: "Rascador Torre Wuhan: la más alta (1,26 m) y mejor calificada",
-    metaDescription: "Rascador torre Wuhan Petlisis, 1,26 m de altura, felpa y madera. {{reviews:MLA69830916}} opiniones y {{rating:MLA69830916}} estrellas, la mejor calificada de esta comparativa.",
-    verdict: "Es la **torre más alta de esta comparativa (1,26 m)** y también la **mejor calificada**, con {{rating:MLA69830916}} sobre {{reviews:MLA69830916}} opiniones. Combina felpa y poste de madera, con cucha y juguete. La única salvedad honesta que reporta un comprador: **la superficie de apoyo superior es algo chica** para la altura del mueble.",
+    priceUpdated: "2026-09-18", priceLastChecked: "2026-09-18", priceVerifiedAt: "2026-09-18",
+    priceStatus: "fresh", reviewsSampledAt: "2026-09-18",
+    description: "Torre gimnasio de 1,3 m con 3 niveles, cucha, hamaca y juguete. Tiene {{reviews:MLA45337933}} calificaciones con {{rating:MLA45337933}} de promedio, la nota más alta de esta comparativa.",
+    seoTitle: "Rascador Torre Venecia: la más alta (1,3 m) y mejor calificada",
+    metaDescription: "Rascador torre Venecia Bestia Peluda, 1,3 m de altura, felpa y yute. {{reviews:MLA45337933}} opiniones y {{rating:MLA45337933}} estrellas, la mejor calificada de esta comparativa.",
+    verdict: "Es la **torre más alta de esta comparativa (1,3 m)** y también la **mejor calificada**, con {{rating:MLA45337933}} sobre {{reviews:MLA45337933}} opiniones. Suma 3 niveles, cucha, hamaca y juguete colgante. La salvedad honesta: es la **opción más cara** de las dos torres de esta comparativa, y el título de la publicación dice \"sisal\" pero la ficha técnica declara el poste de yute.",
     pros: [
-      "La más alta de esta comparativa: 1,26 m",
-      "La mejor calificada del grupo: {{rating:MLA69830916}} sobre {{reviews:MLA69830916}} opiniones",
-      "Combina felpa con poste de madera, más robusto que solo cartón",
-      "Fácil de armar, según compradores",
-      "Trae cucha y juguete colgante",
+      "La más alta de esta comparativa: 1,3 m",
+      "La mejor calificada del grupo: {{rating:MLA45337933}} sobre {{reviews:MLA45337933}} opiniones",
+      "3 niveles, uno más que las otras torres de esta comparativa",
+      "Suma una hamaca además de cucha y juguete, una zona de descanso extra",
+      "Vendida por tienda oficial de MercadoLibre (MercadoLíder Platinum, +50 mil ventas)",
     ],
     cons: [
-      "La superficie de apoyo superior es algo chica para la altura del mueble, según un comprador",
-      "Menos respaldo de reseñas que la Dakota de esta comparativa (32 contra 319)",
-      "Con 45x45 cm de base, ocupa más espacio en planta que un rascador plano",
-      "No declara peso máximo de gato soportado",
+      "Es la más cara de las dos torres de esta comparativa, casi el doble que la Dakota",
+      "El título de la publicación dice \"sisal\" pero la ficha técnica declara el poste de yute",
+      "Con 13,6 kg es la más pesada de esta comparativa, aunque eso también le suma estabilidad",
+      "Es una marca de tienda (Bestia Peluda), sin sitio propio de fabricante para verificar specs de forma independiente",
     ],
     customerReviews: [
-      { rating: 5, country: "Argentina", text: "El rascador es muy bueno y de muy fácil armado. Tiene buena altura y buena calidad. Por ahora ophelia solo usa la base. Espero que pronto se anime a subir." },
-      { rating: 5, country: "Argentina", text: "Es hermoso! algo chica la superficie de apoyo, pero muy bonito material con el que está hecho." },
-      { rating: 5, country: "Argentina", text: "Muy bueno, les encantó. Fácil de armar. Le agregué unos juguetes que tenía y les gustó mucho. Lo recomiendo." },
+      { rating: 5, country: "Argentina", text: "Mis gatas lo amaron (aunque la más grande prefirió la caja, es un 2x1 esto jajajaj). Resiste bien a las dos matándose a palos y saltando por toda la estructura, y eso que la grande es gorda." },
+      { rating: 5, country: "Argentina", text: "Hermoso, muy fácil de armar y de buena calidad. Parece medio chico cuando lo terminás de armar pero mi gato es re grandote y entra lo más bien, además le re gustó, ahora puede chusmear por la ventana." },
+      { rating: 5, country: "Argentina", text: "Excelente. Se ve de buena calidad y a mis michis les encantó." },
+      { rating: 5, country: "Argentina", text: "Nos encantó, es súper fácil de armar y se nota la buena calidad. Apenas terminamos de armarlo y ya lo estrenó, lo súper recomiendo." },
     ],
-    articleBody: `## Qué es el rascador torre Wuhan
+    articleBody: `## Qué es el rascador torre Venecia
 
-Es una torre gimnasio de 1,26 m, la más alta de [nuestra comparativa de rascadores para gatos en Argentina](/guias/mascotas/rascador-para-gatos). Cuesta {{precio:MLA69830916}} y tiene {{reviews:MLA69830916}} calificaciones con {{rating:MLA69830916}} estrellas, la nota más alta del grupo.
+Es una torre gimnasio de 1,3 m con 3 niveles, la más alta de [nuestra comparativa de rascadores para gatos en Argentina](/guias/mascotas/rascador-para-gatos). Cuesta {{precio:MLA45337933}} y tiene {{reviews:MLA45337933}} calificaciones con {{rating:MLA45337933}} estrellas, la nota más alta del grupo.
 
 ## La más alta y la mejor calificada
 
-Con 1,26 m supera en altura a la Dakota de esta misma comparativa (91 cm), y con {{rating:MLA69830916}} tiene la mejor calificación de las cuatro. Combina felpa en el tapizado con poste de madera, más robusto que el cartón corrugado.
+Con 1,3 m supera en altura a la Dakota de esta misma comparativa (91 cm), y con {{rating:MLA45337933}} tiene la mejor calificación de las cuatro. Suma 3 niveles (uno más que el resto), cucha, hamaca y juguete colgante, con tapizado de felpa y poste de yute.
 
-## Fácil de armar, según compradores
+## Fácil de armar, y resiste el uso de más de un gato
 
-Varios compradores confirman que el armado es sencillo: "el rascador es muy bueno y de muy fácil armado. Tiene buena altura y buena calidad", dice uno.
+Varios compradores confirman que el armado es sencillo y que la torre aguanta bien el uso diario. Una compradora con dos gatas lo resume así: "resiste bien a las dos matándose a palos y saltando por toda la estructura, y eso que la grande es gorda". Otra agrega que su gato "es re grandote y entra lo más bien".
 
-## La contra real: la plataforma superior es chica
+## La contra real: es la más cara de las dos torres
 
-Esta es la advertencia honesta antes de comprar. Una compradora lo resume así: "es hermoso! algo chica la superficie de apoyo, pero muy bonito material con el que está hecho". Si tu gato es grande, la plataforma más alta puede quedarle justa.
+Esta es la advertencia honesta antes de comprar. A {{precio:MLA45337933}} es la opción más cara de esta comparativa, casi el doble que la Dakota. Además, el título de la publicación dice "sisal" para el material del poste, pero la ficha técnica declara yute: una inconsistencia menor del vendedor, pero vale aclararla antes de comprar.
 
 ## Para quién es, y para quién no
 
-Es para vos si buscás la torre más alta de esta comparativa y valorás la mejor calificación del grupo. No es para vos si buscás el respaldo de más compradores posible: para eso, la [Dakota](/producto/rascador-torre-dakota-sisal-y-terciopelo-91-cm-con-cucha-y-juguete-mla46200581) de esta misma comparativa tiene diez veces más reseñas.
+Es para vos si buscás la torre más alta, con más niveles y la mejor calificación de esta comparativa, y el precio no es el factor decisivo. No es para vos si el presupuesto manda: para eso, la [Dakota](/producto/rascador-torre-dakota-sisal-y-terciopelo-91-cm-con-cucha-y-juguete-mla46200581) de esta misma comparativa cuesta bastante menos y también trae cucha y juguete.
 
 ## El veredicto
 
-Es la torre más alta y mejor calificada de esta comparativa, con felpa y poste de madera. La contra real: la plataforma superior es algo chica según una compradora.`,
+Es la torre más alta, con más niveles y mejor calificada de esta comparativa, vendida por una tienda oficial de MercadoLibre. La contra real: es la más cara de las dos torres, y el vendedor la anuncia como "sisal" cuando la ficha técnica dice yute.`,
     faq: [
-      { question: "¿Qué altura tiene?", answer: "1,26 m, la más alta entre las dos torres de esta comparativa (Dakota mide 91 cm)." },
-      { question: "¿Por qué es la mejor calificada?", answer: "Tiene {{rating:MLA69830916}} de promedio sobre {{reviews:MLA69830916}} opiniones, la nota más alta entre los cuatro rascadores de esta guía." },
+      { question: "¿Qué altura tiene?", answer: "1,3 m, la más alta entre las dos torres de esta comparativa (Dakota mide 91 cm)." },
+      { question: "¿Por qué es la mejor calificada?", answer: "Tiene {{rating:MLA45337933}} de promedio sobre {{reviews:MLA45337933}} opiniones, la nota más alta entre los cuatro rascadores de esta guía." },
       { question: "¿Es fácil de armar?", answer: "Sí, varios compradores lo confirman sin reportar problemas de armado." },
-      { question: "¿La plataforma superior es grande?", answer: "Una compradora la describe como \"algo chica\" para la altura del mueble, aunque destaca la calidad del material." },
-      { question: "¿De qué está hecha?", answer: "Felpa en el tapizado y poste de madera, según su ficha técnica." },
-      { question: "¿Trae cucha y juguete?", answer: "Sí, incluye cucha para dormir y un juguete colgante." },
+      { question: "¿Cuántos niveles tiene?", answer: "3 niveles, uno más que las otras torres de esta comparativa." },
+      { question: "¿De qué está hecha?", answer: "Tapizado de felpa y poste de yute, según su ficha técnica (el título de la publicación la anuncia como \"sisal\", una inconsistencia menor del vendedor)." },
+      { question: "¿Trae cucha y juguete?", answer: "Sí, y además suma una hamaca, una zona de descanso extra que no traen las otras torres de esta comparativa." },
+      { question: "¿Es la más cara de la comparativa?", answer: "De las dos torres, sí: cuesta bastante más que la Dakota, aunque suma un nivel más, una hamaca y la mejor calificación." },
     ],
   },
   {
@@ -94852,7 +94857,7 @@ Es la torre más alta y mejor calificada de esta comparativa, con felpa y poste 
       { label: "Formato de venta", value: "Unidad" },
       { label: "Se puede cortar a medida", value: "Sí, según reportan compradores" },
     ],
-    relatedProducts: ["MLA46200581", "MLA69830916", "MLA43852971"],
+    relatedProducts: ["MLA46200581", "MLA45337933", "MLA43852971"],
     priceUpdated: "2026-09-14", priceLastChecked: "2026-09-09", priceVerifiedAt: "2026-09-09",
     priceStatus: "fresh", reviewsSampledAt: "2026-09-09",
     description: "Protector esquinero autoadhesivo de 60x60 cm para sillones. Tiene {{reviews:MLA62299437}} calificaciones con {{rating:MLA62299437}} de promedio.",
@@ -94895,7 +94900,7 @@ Esta es la advertencia honesta antes de comprar. Un comprador de 4 estrellas cue
 
 ## Para quién es, y para quién no
 
-Es para vos si necesitás proteger específicamente una esquina de sillón o mueble, y no buscás que tu gato trepe o duerma en el rascador. No es para vos si buscás un mueble completo con niveles y cucha: para eso, la [Dakota](/producto/rascador-torre-dakota-sisal-y-terciopelo-91-cm-con-cucha-y-juguete-mla46200581) o la [Wuhan](/producto/rascador-torre-gimnasio-wuhan-premium-1-26-m-la-mas-alta-mla69830916) de esta misma comparativa son mejores opciones.
+Es para vos si necesitás proteger específicamente una esquina de sillón o mueble, y no buscás que tu gato trepe o duerma en el rascador. No es para vos si buscás un mueble completo con niveles y cucha: para eso, la [Dakota](/producto/rascador-torre-dakota-sisal-y-terciopelo-91-cm-con-cucha-y-juguete-mla46200581) o la [Venecia](/producto/rascador-torre-venecia-bestia-peluda-1-3-m-con-cucha-y-hamaca-mla45337933) de esta misma comparativa son mejores opciones.
 
 ## El veredicto
 
@@ -94942,7 +94947,7 @@ Es la única opción de esta comparativa pensada para proteger muebles de esquin
       { label: "Formato de venta", value: "Unidad" },
       { label: "Color", value: "Marrón, el estampado de los laterales puede variar" },
     ],
-    relatedProducts: ["MLA46200581", "MLA62299437", "MLA69830916"],
+    relatedProducts: ["MLA46200581", "MLA62299437", "MLA45337933"],
     priceUpdated: "2026-09-09", priceLastChecked: "2026-09-09", priceVerifiedAt: "2026-09-09",
     priceStatus: "fresh", reviewsSampledAt: "2026-09-09",
     description: "Rascador plano de cartón corrugado, doble faz y con hierba gatera. Es el más barato de esta comparativa, con {{reviews:MLA43852971}} calificaciones y {{rating:MLA43852971}} de promedio.",
@@ -94985,7 +94990,7 @@ Esta es una advertencia útil, no un defecto del producto en sí. Un comprador l
 
 ## Para quién es, y para quién no
 
-Es para vos si buscás una opción económica para rascado y no te importa que sea un consumible que hay que reponer. No es para vos si buscás un mueble completo con niveles, cucha o superficie para trepar: para eso, la [Dakota](/producto/rascador-torre-dakota-sisal-y-terciopelo-91-cm-con-cucha-y-juguete-mla46200581) o la [Wuhan](/producto/rascador-torre-gimnasio-wuhan-premium-1-26-m-la-mas-alta-mla69830916) de esta misma comparativa cumplen mejor esa función.
+Es para vos si buscás una opción económica para rascado y no te importa que sea un consumible que hay que reponer. No es para vos si buscás un mueble completo con niveles, cucha o superficie para trepar: para eso, la [Dakota](/producto/rascador-torre-dakota-sisal-y-terciopelo-91-cm-con-cucha-y-juguete-mla46200581) o la [Venecia](/producto/rascador-torre-venecia-bestia-peluda-1-3-m-con-cucha-y-hamaca-mla45337933) de esta misma comparativa cumplen mejor esa función.
 
 ## El veredicto
 
