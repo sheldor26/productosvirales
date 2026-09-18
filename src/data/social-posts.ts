@@ -3539,4 +3539,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "59",
     postedAt: "2026-09-18T09:20:46-03:00",
   },
+  {
+    title: "Barra de Sonido Gadnic Soundbar + Subwoofer",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_957290-MLA111595123801_052026-O.webp",
+    affiliateUrl: "https://meli.la/19qBZsz",
+    newPrice: "306.899",
+    oldPrice: "674.000",
+    offPct: "54",
+    postedAt: "2026-09-18T10:00:47-03:00",
+  },
 ];
