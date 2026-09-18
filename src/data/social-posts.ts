@@ -3559,4 +3559,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "35",
     postedAt: "2026-09-18T10:27:15-03:00",
   },
+  {
+    title: "Cargador Portátil Magnético Anker MagGo 10000mAh",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_883674-MLA99948356481_112025-O.webp",
+    affiliateUrl: "https://meli.la/1VVBzuL",
+    newPrice: "139.199",
+    oldPrice: "283.990",
+    offPct: "50",
+    postedAt: "2026-09-18T10:53:17-03:00",
+  },
 ];
