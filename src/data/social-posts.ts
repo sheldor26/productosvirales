@@ -3689,4 +3689,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "50",
     postedAt: "2026-09-18T19:41:05-03:00",
   },
+  {
+    title: "Guitarra Eléctrica Stratocaster Dyvan + Amplificador",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_629775-MLA115099122081_072026-O.webp",
+    affiliateUrl: "https://meli.la/2ue4ok5",
+    newPrice: "249.999",
+    oldPrice: "725.826",
+    offPct: "65",
+    postedAt: "2026-09-18T20:07:14-03:00",
+  },
 ];

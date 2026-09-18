@@ -394,6 +394,12 @@ negro — tienen precio de lista distinto).
 |---|---|---|---|
 | Cama Antiansiedad ComfyPetys XL 100x100 (perros/gatos) | $79.340 | 2026-09-18 | meli.la/1zWBh2i — sin referencia previa, primera categoría Mascotas del sitio, item 6 de la CUARTA tanda de 8 (tanda de la tarde, variedad total, ninguna categoría repetida). "Nuevo \| +50 vendidos" (badge propio), MÁS VENDIDO 6° en Camas, 4.7★ (27 op.), MLA68608024, Tienda oficial ComfyPetys. Diseño antiansiedad tipo nido, talle XL 100x100cm, a prueba de agua, 100% lavable, tela ComfyBambu Tusor. Re-verificado en vivo antes de publicar, precio idéntico, sin CAPTCHA. Link verificado en el texto publicado contra la Graph API |
 
+## Instrumentos Musicales
+
+| Producto | Precio de referencia (mejor real visto) | Fecha | Fuente |
+|---|---|---|---|
+| Guitarra Eléctrica Stratocaster Dyvan + Amplificador | $249.999 | 2026-09-18 | meli.la/2ue4ok5 — sin referencia previa, primera categoría Instrumentos Musicales del sitio, item 8 y ÚLTIMO de la CUARTA tanda de 8 (tanda de la tarde, variedad total, ninguna categoría repetida — tanda cerrada: Mouse Redragon, Pava Atma, Combo Trent, Colchón Norden, Mochila Alpina, Cama ComfyPetys, Bicicleta Valentini, esta guitarra). "Nuevo \| +5 vendidos" (badge propio), 4.8★ (36 op.), MLA75742378, marca Dyvan. Madera maciza laqueada, 6 cuerdas, 21 trastes, puente tremolo con palanca incluida, 3 micrófonos humbucker/simples, amplificador incluido, kit completo con funda/afinador/correa/cable. ⚠️ La ficha tenía un dato claramente erróneo ("largo de escala 16459.2 mm", imposible para una guitarra) — se descartó, no se usó en el copy. Re-verificado en vivo antes de publicar, precio idéntico, sin CAPTCHA. Link verificado en el texto publicado contra la Graph API |
+
 ## Pendiente de revisar
 
 - Cupón ML "PROBAMELI" (mensaje de afiliados del 2026-09-16 ~09:00, "Múltiples
