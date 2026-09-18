@@ -387,6 +387,12 @@ negro — tienen precio de lista distinto).
 |---|---|---|---|
 | Afeitadora Eléctrica VGR V-325 Recargable | $42.190 | 2026-09-18 | meli.la/1wK9dgT — sin referencia previa, primera afeitadora del sitio (categoría nueva), item 8 y ÚLTIMO de la TERCERA tanda de 8 (variedad total, ninguna categoría repetida — tanda cerrada: Barra Gadnic, Soldadora Vohler, Cargador Anker, Tensiómetro Femmto, Joystick Redragon, Cinta Randers, Microondas Philco, esta afeitadora). MLA37255352, 4.7★ (14447 op.), "+50mil vendidos" (badge propio del producto), MÁS VENDIDO. Triple cabezal rotativo inclinable, batería recargable USB (hasta 1h de uso, carga completa en ~1h), compacta para viajar, incluye cable de carga. Re-verificado en vivo antes de publicar, precio idéntico. Link verificado en el texto publicado contra la Graph API |
 
+## Mascotas
+
+| Producto | Precio de referencia (mejor real visto) | Fecha | Fuente |
+|---|---|---|---|
+| Cama Antiansiedad ComfyPetys XL 100x100 (perros/gatos) | $79.340 | 2026-09-18 | meli.la/1zWBh2i — sin referencia previa, primera categoría Mascotas del sitio, item 6 de la CUARTA tanda de 8 (tanda de la tarde, variedad total, ninguna categoría repetida). "Nuevo \| +50 vendidos" (badge propio), MÁS VENDIDO 6° en Camas, 4.7★ (27 op.), MLA68608024, Tienda oficial ComfyPetys. Diseño antiansiedad tipo nido, talle XL 100x100cm, a prueba de agua, 100% lavable, tela ComfyBambu Tusor. Re-verificado en vivo antes de publicar, precio idéntico, sin CAPTCHA. Link verificado en el texto publicado contra la Graph API |
+
 ## Pendiente de revisar
 
 - Cupón ML "PROBAMELI" (mensaje de afiliados del 2026-09-16 ~09:00, "Múltiples

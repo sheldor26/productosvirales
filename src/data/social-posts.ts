@@ -3669,4 +3669,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "32",
     postedAt: "2026-09-18T18:49:02-03:00",
   },
+  {
+    title: "Cama Antiansiedad ComfyPetys XL 100x100",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_741258-MLA115386840755_072026-O.webp",
+    affiliateUrl: "https://meli.la/1zWBh2i",
+    newPrice: "79.340",
+    oldPrice: "141.000",
+    offPct: "43",
+    postedAt: "2026-09-18T19:15:03-03:00",
+  },
 ];
