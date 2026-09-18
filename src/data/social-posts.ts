@@ -3549,4 +3549,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "54",
     postedAt: "2026-09-18T10:00:47-03:00",
   },
+  {
+    title: "Soldadora Inverter Vohler 130A 3en1 + Accesorios",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_804846-MLA117423243833_092026-O.webp",
+    affiliateUrl: "https://meli.la/1U5M2Cx",
+    newPrice: "193.999",
+    oldPrice: "299.999",
+    offPct: "35",
+    postedAt: "2026-09-18T10:27:15-03:00",
+  },
 ];
