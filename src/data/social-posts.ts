@@ -3619,4 +3619,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "46",
     postedAt: "2026-09-18T13:09:13-03:00",
   },
+  {
+    title: "Ratón Inalámbrico Redragon King Pro M916-pro",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_650659-MLA99983693429_112025-O.webp",
+    affiliateUrl: "https://meli.la/1sXmuxT",
+    newPrice: "62.305",
+    oldPrice: "79.100",
+    offPct: "21",
+    postedAt: "2026-09-18T17:05:26-03:00",
+  },
 ];
