@@ -3589,4 +3589,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "23",
     postedAt: "2026-09-18T11:46:16-03:00",
   },
+  {
+    title: "Cinta de Correr Eléctrica Randers Arg-404",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_661961-MLA111699316859_052026-O.webp",
+    affiliateUrl: "https://meli.la/2bYWQVc",
+    newPrice: "494.870",
+    oldPrice: "874.014",
+    offPct: "43",
+    postedAt: "2026-09-18T12:12:15-03:00",
+  },
 ];
