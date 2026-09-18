@@ -6,6 +6,36 @@
 > chequearlos en MercadoLibre. Si son reales, avisar para aplicarlos a mano.
 > Entradas nuevas arriba.
 
+## 2026-09-18
+
+- **MLA16132352** — Cámara Deportiva Akaso V50X: $176.899 → $599.999 (+239%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA16132352
+  - Sitio: https://productosvirales.com.ar/producto/MLA16132352
+- **MLA43422049** — Multi Cepillo 9 En 1 Rotativo 450 Rpm Para Limpieza De Casa, Auto, Vidrios Con Mango Extensible Y Batería Recargable Mts-powerbrushpro Amitosai: $110.680 → $55.000 (-50%)
+  - ML: https://www.mercadolibre.com.ar/multi-cepillo-9-en-1-rotativo-450-rpm-para-limpieza-de-casa-auto-vidrios-con-mango-extensible-y-bateria-recargable-mts-powerbrushpro-amitosai/p/MLA43422049
+  - Sitio: https://productosvirales.com.ar/producto/MLA43422049
+- **MLA15705813** — Cafetera de cápsulas Moulinex Dolce Gusto Piccolo XS: $114.436 → $229.010 (+100%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA15705813
+  - Sitio: https://productosvirales.com.ar/producto/MLA15705813
+- **MLA8732921** — Auriculares Gamer Con Cable HyperX Cloud HX-HSCA Black y Red: $91.379 → $779.403 (+753%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA8732921
+  - Sitio: https://productosvirales.com.ar/producto/MLA8732921
+- **MLA15244160** — Multiprocesadora Ultracomb 600w Pc-6800 Negro Bold de Vidrio Capacidad 1,2Lts: $82.999 → $199.999 (+141%)
+  - ML: https://www.mercadolibre.com.ar/multiprocesadora-ultracomb-600w-pc-6800-negro-bold-de-vidrio-capacidad-12lts/p/MLA15244160
+  - Sitio: https://productosvirales.com.ar/producto/MLA15244160
+- **MLA20664028** — Alberca Inflable Intex Redonda para Niños de 1.47 m con 3 Aros: $47.000 → $22.024 (-53%)
+  - ML: https://www.mercadolibre.com.ar/intex-alberca-inflable-infantil-3-aros-alberca-colores/p/MLA20664028
+  - Sitio: https://productosvirales.com.ar/producto/MLA20664028
+- **MLA25401949** — Balanza Digital De Cocina Gadnic 1gr A 10kg Pro Bascula Gramera Capacidad Máxima 10 kg: $6.800 → $2.016 (-70%)
+  - ML: https://www.mercadolibre.com.ar/balanza-digital-de-cocina-gadnic-1gr-a-10kg-pro-bascula-gramera-capacidad-maxima-10-kg/p/MLA25401949
+  - Sitio: https://productosvirales.com.ar/producto/MLA25401949
+- **MLA62609709** — Bloques Magnéticos Cubos Para Armar Estilo Minecraft 60 Piezas: $27.150 → $89.999 (+231%)
+  - ML: https://www.mercadolibre.com.ar/bloques-magneticos-cubos-para-armar-de-construccion-estilo-minecraft-para-ninos-60-piezas-didacticos-creativo-ilimitado-material-seguro-y-resistente-no-toxicos-bordes-suaves-levys-bazar/p/MLA62609709
+  - Sitio: https://productosvirales.com.ar/producto/MLA62609709
+- **MLA41479634** — Freidora de Aire Westinghouse AFR-1802 — 10 Litros, 1,8 kW, 12 Funciones: $374.570 → $799.999 (+114%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA41479634
+  - Sitio: https://productosvirales.com.ar/producto/MLA41479634
+
 ## 2026-09-16
 
 - **MLA16132352** — Cámara Deportiva Akaso V50X: $176.899 → $599.999 (+239%)
