@@ -13637,7 +13637,7 @@ Microondas grande, con grill y panel digital, de una marca con respaldo en Argen
       { label: "Peso", value: "11,2 kg" },
       { label: "Clase energética", value: "A" },
     ],
-    relatedProducts: ["MLA23686313", "MLA23364885"],
+    relatedProducts: ["MLA15198684", "MLA23364885"],
     priceUpdated: "2026-09-09",
     priceLastChecked: "2026-09-16",
     priceStatus: "fresh",
@@ -14246,135 +14246,134 @@ El BGH BHE45S22 es un horno grande, completo y de marca confiable a un precio ra
     ],
   },
   {
-    id: "MLA23686313",
-    title: "Horno Eléctrico Grill Atma Capacidad 40 Litros 2 Anafes",
-    canonicalName: "Horno Eléctrico Atma 40L con 2 Anafes HG4022API",
-    price: 231170,
-    originalPrice: 249999,
+    id: "MLA15198684",
+    title: "Horno Eléctrico Bonn 70L con Convección, Grill y 2 Anafes",
+    canonicalName: "Horno Eléctrico Bonn B-85CE",
+    price: 259000,
+    originalPrice: undefined,
     currency: "ARS",
-    image: "https://http2.mlstatic.com/D_NQ_NP_930507-MLA99985595857_112025-F.jpg",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_754337-MLA99515602066_112025-O.webp",
     images: [
-      "https://http2.mlstatic.com/D_NQ_NP_930507-MLA99985595857_112025-F.jpg",
-      "https://http2.mlstatic.com/D_NQ_NP_816427-MLA99501478264_112025-F.jpg",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_754337-MLA99515602066_112025-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_629276-MLU79384468817_092024-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_670035-MLU79142735706_092024-O.webp",
     ],
     category: "Cocina",
     categorySlug: "cocina",
-    permalink: "https://www.mercadolibre.com.ar/p/MLA23686313",
-    affiliateUrl: "https://meli.la/1z6gciA",
+    permalink: "https://www.mercadolibre.com.ar/horno-electrico-bonn-70l-conveccion-grill-anafe-2-hornallas-negro/p/MLA15198684",
+    affiliateUrl: "PEGAR_MELI_LA",
     condition: "new",
     freeShipping: true,
-    rating: 4.7,
-    reviewCount: 1808,
+    rating: 4.6,
+    reviewCount: 98,
     pastelColor: "var(--pastel-green)",
     visibility: "normal",
     specs: [
-      { label: "Capacidad", value: "40 litros" },
-      { label: "Potencia", value: "3250 W (horno + 2 anafes)" },
-      { label: "Extra", value: "2 anafes (hornallas) arriba" },
+      { label: "Capacidad", value: "70 litros" },
+      { label: "Potencia", value: "2200 W" },
+      { label: "Extra", value: "2 anafes (hornallas) arriba, con convección" },
       { label: "Grill", value: "Sí" },
-      { label: "Ojo", value: "Necesita toma de 20 A; los anafes no funcionan independientes del horno" },
-      { label: "Marca", value: "Atma" },
-      { label: "Potencia anafes", value: "1000 W y 750 W" },
-      { label: "Temperatura", value: "Termostato regulable hasta 250 °C" },
-      { label: "Timer", value: "Hasta 60 minutos" },
-      { label: "Cocción", value: "Superior, inferior o combinada" },
-      { label: "Panel", value: "Analógico (a perilla)" },
-      { label: "Dimensiones", value: "53,1 x 37,5 x 38 cm (An x Prof x Alto)" },
-      { label: "Peso", value: "10,3 kg" },
-      { label: "Interior", value: "Antiadherente, puerta desmontable y bandeja de migas removible" },
-      { label: "Incluye", value: "Bandeja, grilla y pinza" },
-      { label: "Origen", value: "Argentina" },
+      { label: "Convección", value: "Sí" },
+      { label: "Ojo", value: "El vendedor con el precio más bajo tiene calificación floja de atención en MercadoLibre — verificar antes de comprar" },
+      { label: "Marca", value: "Bonn" },
+      { label: "Modelo", value: "B-85CE" },
+      { label: "Temperatura", value: "Termostato regulable de 100 a 250 °C" },
+      { label: "Timer", value: "Hasta 1 hora" },
+      { label: "Panel", value: "Mecánico (a perilla)" },
+      { label: "Niveles", value: "3 estantes" },
+      { label: "Puerta", value: "1 capa de vidrio, no desmontable" },
+      { label: "Eficiencia energética", value: "B" },
+      { label: "Incluye", value: "1 rejilla, 1 bandeja, agarradera" },
+      { label: "Dimensiones", value: "62 x 41,5 x 49 cm (An x Prof x Alto)" },
     ],
     relatedProducts: ["MLA27167036", "MLA14259153"],
-    priceUpdated: "2026-09-09",
-    priceLastChecked: "2026-09-16",
+    priceUpdated: "2026-09-18",
+    priceLastChecked: "2026-09-18",
+    priceVerifiedAt: "2026-09-18",
     priceStatus: "fresh",
-    description: "Horno eléctrico de sobremesa Atma de 40 litros con grill y 2 anafes (hornallas) arriba: horno y dos hornallas en un solo aparato, ideal si te faltan bocas de cocina. Más de 1.700 calificaciones. Pide toma de 20 A.",
-    seoTitle: "Atma HG4022API: horno 40L con grill y 2 anafes",
-    metaDescription: "Horno eléctrico Atma 40L con grill y 2 anafes arriba (3250 W). Para sumar bocas de cocina en poco espacio. Pide toma de 20 A. Te contamos para quién sí.",
-    verdict: "Si te faltan bocas de cocina y querés horno más dos hornallas en un solo aparato sin instalar nada de gas, el Atma de 40 litros HG4022API resuelve: 4,7 estrellas en más de 1.700 calificaciones, marca con service en Argentina y precio por debajo de las marcas más caras. No es para vos si tu instalación es vieja o no llegás a una toma de 20 A: con 3250 W de potencia total, enchufado a un toma flojo te salta la térmica o calienta el cable.",
+    description: "Horno eléctrico de sobremesa Bonn de 70 litros con convección, grill y 2 anafes (hornallas) arriba. Más capacidad y una función (convección) que el modelo anterior de esta guía no tenía. 98 calificaciones reales, 4,6 estrellas.",
+    seoTitle: "Bonn B-85CE: horno 70L con convección, grill y 2 anafes",
+    metaDescription: "Horno eléctrico Bonn 70L con convección, grill y 2 anafes arriba. 2200 W, termostato hasta 250 °C. Reseña honesta, con el dato del vendedor que conviene chequear.",
+    verdict: "Si te faltan bocas de cocina y querés horno más dos hornallas en un solo aparato, el Bonn de 70 litros suma un plus que no tenía el modelo anterior de esta guía: **convección**, para cocinar más parejo. 4,6 estrellas en 98 calificaciones reales y menos potencia total (2200 W) que el modelo que reemplaza. La salvedad honesta: el vendedor con el precio más bajo tiene calificación floja de atención al cliente en MercadoLibre — existe la misma publicación a $349.999 con un vendedor MercadoLíder sin esa queja, por si preferís pagarla.",
     pros: [
-      "Horno de 40 litros más 2 anafes (hornallas) arriba en un solo equipo: sumás dos bocas de cocina sin instalar nada de gas",
-      "Los anafes son de 1000 W y 750 W, y pueden funcionar al mismo tiempo que el horno",
-      "Llega hasta 250 °C con termostato regulable y timer de hasta 60 minutos",
-      "Trae grill (resistencia superior) y elegís cocción de arriba, de abajo o combinada",
-      "Interior antiadherente, puerta desmontable y bandeja de migas removible: más fácil de limpiar",
-      "4,7 estrellas en más de 1.700 calificaciones y marca Atma con service local",
+      "70 litros: bastante más capacidad que el modelo anterior de esta guía (40 L)",
+      "Suma convección, una función que el modelo anterior no tenía: cocina más parejo",
+      "2 anafes (hornallas) arriba, mismo concepto de horno + cocina en un aparato",
+      "2200 W de potencia total, bastante menos que los 3250 W del modelo que reemplaza",
+      "4,6 estrellas en 98 calificaciones reales, con compradores que lo tienen hace años",
     ],
     cons: [
-      "3250 W de potencia total: pide una toma de 20 A. En instalaciones viejas o con toma flojo puede saltar la térmica",
-      "Los anafes y el horno comparten el mismo aparato y circuito: no es una cocina independiente, es un horno que además trae hornallas",
-      "Panel analógico, no digital: ajustás temperatura y tiempo a perilla, sin programación al minuto ni menús",
-      "Ocupa lugar en la mesada: mide 53 cm de ancho y pesa unos 10 kg",
-      "Las hornallas eléctricas calientan más lento que una a gas y no son para una olla grande de cocción larga",
+      "El vendedor con el precio más bajo tiene calificación floja de \"atención\" en MercadoLibre — hay una segunda oferta a $349.999 de un vendedor MercadoLíder sin esa queja",
+      "Panel mecánico, no digital: ajustás temperatura y tiempo a perilla",
+      "Puerta de un solo vidrio: no es la doble pared de los modelos premium, puede calentar más al tacto por fuera",
+      "Eficiencia energética B, no A",
+      "Sin función autolimpiante ni puerta desmontable",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", text: "Excelente producto. Lo compré para el cumple de mi nena y lo uso para todo. Cocina muy bien, tiene buena temperatura y calienta rápido. Fue una buena inversión. Lo tengo hace 9 meses." },
+      { rating: 5, country: "Argentina", text: "Excelente, 3 años que lo tengo." },
+      { rating: 5, country: "Argentina", text: "Muy buen producto, excelente." },
+      { rating: 5, country: "Argentina", text: "Cocina excelente." },
     ],
     articleBody: `## Qué es y para qué alcanza
 
-Es un horno eléctrico de sobremesa de 40 litros que además trae dos anafes (hornallas) arriba. La idea es simple: en un solo aparato tenés horno y dos bocas de cocina extra, sin instalar nada de gas ni romper la mesada.
+Es un horno eléctrico de sobremesa de 70 litros que además trae dos anafes (hornallas) arriba y convección. Reemplaza en esta guía al modelo Atma de 40 litros que usábamos antes, que se quedó con un solo vendedor y el precio disparado: este Bonn tiene más capacidad, suma convección y sale más barato.
 
-Sirve para quien cocina para una familia chica o mediana y se quedó corto de hornallas. También para departamentos, monoambientes o una cocina sin gas donde poner una cocina entera no es opción.
+Sirve para quien cocina para una familia y se quedó corto de hornallas, para departamentos, monoambientes o una cocina sin gas.
 
-Cuarenta litros es un tamaño cómodo: te entra una fuente grande, una pizza o un pollo. No es industrial, pero para el día a día de una casa rinde.
+## Más grande y con convección, algo que el modelo anterior no tenía
+
+70 litros son bastante más que los 40 del Atma que reemplaza: entra una fuente grande, un pollo entero o varias bandejas a la vez, con 3 niveles. Y suma convección, un ventilador interno que reparte el calor y cocina más parejo. El Atma anterior no la tenía.
 
 ## Las funciones que importan
 
-El horno llega hasta 250 °C con termostato regulable y timer de hasta 60 minutos. Trae grill (la resistencia de arriba) y podés elegir cocción de arriba, de abajo o las dos juntas. Eso te deja gratinar, dorar una tapa o tostar sin prender todo.
+El horno llega hasta 250 °C con termostato regulable y timer de hasta 1 hora. Trae grill (resistencias superior e inferior) para dorar y gratinar, luz interior y alarma sonora. Los dos anafes de arriba suman 2 bocas de cocina extra.
 
-Los dos anafes de arriba son de 1000 W y 750 W. Según la ficha del fabricante, pueden funcionar al mismo tiempo que el horno. O sea: horneás abajo y calentás una olla arriba en simultáneo.
+## La contra real: el vendedor más barato tiene una queja de atención
 
-La potencia total del equipo es de 3250 W. Es bastante, y de ahí sale la única letra chica seria de este horno.
-
-## La contra real: pide toma de 20 A
-
-Acá está el dato que tenés que mirar antes de comprar. Con 3250 W, este horno necesita una toma de 20 amperes. No es un detalle de manual: si lo enchufás a una toma común floja, o tu instalación es vieja, te puede saltar la térmica o calentar el cable.
-
-Si vivís en una casa con instalación nueva, no vas a notar nada. Si tu cocina tiene tomas viejos o ya te salta la térmica con la pava y el microondas juntos, fijate esto primero. No es un problema del horno, es de cuánta corriente le podés dar.
+Esta es la advertencia honesta antes de comprar. La oferta a $259.000 la vende un particular con reputación floja en "atención" según el propio sistema de calificaciones de MercadoLibre. El producto en sí tiene buenas reseñas (4,6 estrellas, 98 opiniones, compradores que lo usan hace años), pero el servicio de ESE vendedor puntual tiene quejas documentadas. Si preferís evitar el riesgo, existe la misma publicación por $349.999 vendida por un MercadoLíder sin esa marca negativa.
 
 ## Lo que resignás
 
-Es un panel analógico, a perilla. Ajustás temperatura y tiempo girando, sin programación al minuto, sin menús automáticos ni display. Funciona bien, pero no esperes la comodidad de un horno digital.
-
-Los anafes son eléctricos, así que calientan más lento que una hornalla a gas y no están pensados para una olla grande de cocción larga. Son para calentar, hervir o cocinar algo puntual, no para reemplazar una cocina completa.
-
-Y ocupa lugar: 53 cm de ancho y unos 10 kg. Antes de comprarlo, medí la mesada.
+Panel mecánico a perilla, sin programación digital ni display. Puerta de un solo vidrio, así que por fuera puede calentar más que un modelo de doble pared. Eficiencia energética B (no A), y no trae función autolimpiante ni puerta desmontable.
 
 ## Para quién sí y para quién no
 
-Sí, si necesitás sumar bocas de cocina sin obra y querés horno más dos hornallas en un solo aparato. Sí, si tu instalación eléctrica está al día y llegás a una toma de 20 A. Sí, si buscás una marca con service en Argentina a precio razonable.
+Sí, si necesitás sumar bocas de cocina sin instalar gas y querés más capacidad y mejor cocción que un horno simple. Sí, si estás dispuesto a revisar quién es el vendedor antes de comprar y priorizás precio sobre esa garantía extra de atención.
 
-No, si tu instalación es vieja o no podés garantizar la toma de 20 A: ese es el filtro que manda. No, si querés panel digital y programación. No, si pensás cocinar a olla grande todo el día en las hornallas, porque ahí una cocina a gas le gana.
+No, si preferís pagar de más por la tranquilidad de un vendedor sin ninguna marca negativa: ahí conviene la oferta de $349.999. No, si querés panel digital y programación.
 
 ## Veredicto
 
-Para sumar horno y dos hornallas sin instalar gas, el Atma HG4022API cumple: 40 litros, grill, anafes que funcionan junto al horno, 4,7 estrellas en más de 1.700 calificaciones y marca con respaldo local. La única condición real es la eléctrica: con 3250 W pide toma de 20 A. Si eso lo tenés cubierto, es una compra honesta a buen precio.`,
+70 litros, convección, grill y 2 anafes por $259.000, con reseñas reales que lo respaldan (4,6 estrellas, 98 opiniones). La salvedad real no es el producto: es que el vendedor con mejor precio tiene una queja de atención documentada en MercadoLibre, y existe una alternativa bastante más cara con un vendedor sin esa marca.`,
     faq: [
       {
-        question: "¿Tiene grill?",
-        answer: "Sí. Trae la resistencia superior para grill y podés elegir cocción de arriba, de abajo o combinada, así gratinás o dorás la tapa.",
+        question: "¿Tiene convección?",
+        answer: "Sí, y es la principal diferencia con el modelo que reemplaza en esta guía: la convección reparte el calor con un ventilador interno, así que cocina más parejo que uno sin convección.",
       },
       {
         question: "¿Cuántos litros tiene?",
-        answer: "40 litros. Es un tamaño cómodo para una familia chica o mediana: te entra una fuente grande, una pizza o un pollo.",
+        answer: "70 litros, con 3 niveles (estantes). Bastante más que los 40 litros del modelo anterior de esta guía.",
       },
       {
         question: "¿Los anafes funcionan al mismo tiempo que el horno?",
-        answer: "Sí. Según el fabricante, los dos anafes (de 1000 W y 750 W) pueden funcionar en simultáneo con el horno. Tené en cuenta que es un solo aparato con un solo circuito, no una cocina independiente.",
+        answer: "La ficha técnica del vendedor no lo aclara. A diferencia de otros modelos de esta guía, acá no hay una confirmación explícita, así que si eso es decisivo para vos, conviene preguntarle al vendedor antes de comprar.",
+      },
+      {
+        question: "¿Es cierto que el vendedor tiene mala atención?",
+        answer: "Sí, es un dato real y verificable en la propia página de MercadoLibre: el vendedor con el precio más bajo ($259.000) tiene la marca \"no brinda buena atención\". Hay una segunda oferta de un vendedor MercadoLíder sin esa queja, a $349.999.",
       },
       {
         question: "¿Qué toma eléctrica necesita?",
-        answer: "Necesita una toma de 20 A. Son 3250 W de potencia total, así que en una toma floja o una instalación vieja puede saltar la térmica. Es lo más importante a chequear antes de comprar.",
+        answer: "Con 2200 W de potencia total, es menos exigente que otros hornos con anafes: algunos modelos de esta guía piden toma de 20 A por superar los 3000 W. Igual, si tu instalación es vieja, conviene confirmarlo con un electricista antes.",
       },
       {
         question: "¿Hasta cuántos grados llega?",
-        answer: "Hasta 250 °C, con termostato regulable y timer de hasta 60 minutos.",
-      },
-      {
-        question: "¿Conviene este o el Atma de 50 litros sin anafes?",
-        answer: "Depende de qué te falte. Si necesitás bocas de cocina extra, este de 40 litros con 2 anafes resuelve eso. Si solo querés más capacidad de horno y no te interesan las hornallas, el de 50 litros te da más volumen por dentro.",
+        answer: "Hasta 250 °C, con termostato regulable y timer de hasta 1 hora.",
       },
       {
         question: "¿El panel es digital?",
-        answer: "No, es analógico a perilla. Ajustás temperatura y tiempo girando, sin programación al minuto ni menús automáticos.",
+        answer: "No, es mecánico a perilla. Ajustás temperatura y tiempo girando, sin programación al minuto ni menús automáticos.",
       },
     ],
   },
