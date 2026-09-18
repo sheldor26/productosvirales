@@ -14261,7 +14261,7 @@ El BGH BHE45S22 es un horno grande, completo y de marca confiable a un precio ra
     category: "Cocina",
     categorySlug: "cocina",
     permalink: "https://www.mercadolibre.com.ar/horno-electrico-bonn-70l-conveccion-grill-anafe-2-hornallas-negro/p/MLA15198684",
-    affiliateUrl: "PEGAR_MELI_LA",
+    affiliateUrl: "https://meli.la/23Pktc8",
     condition: "new",
     freeShipping: true,
     rating: 4.6,
