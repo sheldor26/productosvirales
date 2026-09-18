@@ -3679,4 +3679,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "43",
     postedAt: "2026-09-18T19:15:03-03:00",
   },
+  {
+    title: "Bicicleta Eléctrica Valentini Plegable 350W",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_850707-MLA117541086659_092026-O.webp",
+    affiliateUrl: "https://meli.la/1YyWtgb",
+    newPrice: "1.399.000",
+    oldPrice: "2.798.000",
+    offPct: "50",
+    postedAt: "2026-09-18T19:41:05-03:00",
+  },
 ];
