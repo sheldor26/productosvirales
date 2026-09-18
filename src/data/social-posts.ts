@@ -3629,4 +3629,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "21",
     postedAt: "2026-09-18T17:05:26-03:00",
   },
+  {
+    title: "Pava Eléctrica Digital Atma PE23IHDP 1.7L",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_919325-MLA99529405156_122025-O.webp",
+    affiliateUrl: "https://meli.la/2Ss3yxH",
+    newPrice: "60.999",
+    oldPrice: "104.499",
+    offPct: "41",
+    postedAt: "2026-09-18T17:31:15-03:00",
+  },
 ];
