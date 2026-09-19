@@ -3809,4 +3809,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "52",
     postedAt: "2026-09-19T19:43:53-03:00",
   },
+  {
+    title: "Depiladora IPL Philips Lumea Prestige BRI947",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_836926-MLU71242140084_082023-O.webp",
+    affiliateUrl: "https://meli.la/2RxdLDk",
+    newPrice: "611.088",
+    oldPrice: "1.090.789",
+    offPct: "43",
+    postedAt: "2026-09-19T20:17:50-03:00",
+  },
 ];
