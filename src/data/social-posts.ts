@@ -3699,4 +3699,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "65",
     postedAt: "2026-09-18T20:07:14-03:00",
   },
+  {
+    title: "Smart TV 58\" Noblex Android TV DB58X7580 4K UHD",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_988162-MLA109315839756_042026-O.webp",
+    affiliateUrl: "https://meli.la/1cQmMp7",
+    newPrice: "683.999",
+    oldPrice: "923.999",
+    offPct: "25",
+    postedAt: "2026-09-19T10:21:11-03:00",
+  },
 ];
