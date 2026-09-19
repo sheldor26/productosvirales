@@ -3799,4 +3799,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "46",
     postedAt: "2026-09-19T19:15:18-03:00",
   },
+  {
+    title: "Aire Acondicionado Split BGH Silent Air 3000F",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_884326-MLA99959160847_112025-O.webp",
+    affiliateUrl: "https://meli.la/18ftwuW",
+    newPrice: "959.999",
+    oldPrice: "1.999.999",
+    offPct: "52",
+    postedAt: "2026-09-19T19:43:53-03:00",
+  },
 ];
