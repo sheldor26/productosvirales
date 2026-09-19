@@ -3739,4 +3739,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "43",
     postedAt: "2026-09-19T11:42:13-03:00",
   },
+  {
+    title: "Kit de Mancuernas Ajustables BS Fit 20kg con Discos y Barra",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_695893-MLA95966779103_102025-O.webp",
+    affiliateUrl: "https://meli.la/1A124tu",
+    newPrice: "64.999",
+    oldPrice: "99.999",
+    offPct: "35",
+    postedAt: "2026-09-19T16:36:50-03:00",
+  },
 ];
