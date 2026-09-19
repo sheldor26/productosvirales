@@ -3769,4 +3769,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "20",
     postedAt: "2026-09-19T17:30:25-03:00",
   },
+  {
+    title: "Consola PS5 Slim con Lectora 1TB + FC 26 Digital",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_693779-MLA101300527306_122025-O.webp",
+    affiliateUrl: "https://meli.la/23TKi72",
+    newPrice: "1.623.999",
+    oldPrice: "1.623.999",
+    offPct: "0",
+    postedAt: "2026-09-19T17:57:12-03:00",
+  },
 ];
