@@ -3759,4 +3759,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "32",
     postedAt: "2026-09-19T17:04:16-03:00",
   },
+  {
+    title: "Cafetera Espresso Oster 15 Bares Bvstem5",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_778703-MLA99949455603_112025-O.webp",
+    affiliateUrl: "https://meli.la/1wPEuq1",
+    newPrice: "271.999",
+    oldPrice: "339.999",
+    offPct: "20",
+    postedAt: "2026-09-19T17:30:25-03:00",
+  },
 ];
