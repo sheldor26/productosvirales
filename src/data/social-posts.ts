@@ -3779,4 +3779,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "0",
     postedAt: "2026-09-19T17:57:12-03:00",
   },
+  {
+    title: "Kit de Internet Vía Satélite Starlink Mini X",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_807657-MLA106594620491_022026-O.webp",
+    affiliateUrl: "https://meli.la/2jdx8dn",
+    newPrice: "219.000",
+    oldPrice: "299.000",
+    offPct: "26",
+    postedAt: "2026-09-19T18:48:34-03:00",
+  },
 ];
