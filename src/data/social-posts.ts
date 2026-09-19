@@ -3749,4 +3749,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "35",
     postedAt: "2026-09-19T16:36:50-03:00",
   },
+  {
+    title: "Amoladora Angular Eléctrica 750W Omaha 115mm",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_607107-MLA112945793402_072026-O.webp",
+    affiliateUrl: "https://meli.la/2CRgg8r",
+    newPrice: "64.299",
+    oldPrice: "94.980",
+    offPct: "32",
+    postedAt: "2026-09-19T17:04:16-03:00",
+  },
 ];
