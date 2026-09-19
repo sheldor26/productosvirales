@@ -389,6 +389,7 @@ negro — tienen precio de lista distinto).
 | Producto | Precio de referencia (mejor real visto) | Fecha | Fuente |
 |---|---|---|---|
 | Afeitadora Eléctrica VGR V-325 Recargable | $42.190 | 2026-09-18 | meli.la/1wK9dgT — sin referencia previa, primera afeitadora del sitio (categoría nueva), item 8 y ÚLTIMO de la TERCERA tanda de 8 (variedad total, ninguna categoría repetida — tanda cerrada: Barra Gadnic, Soldadora Vohler, Cargador Anker, Tensiómetro Femmto, Joystick Redragon, Cinta Randers, Microondas Philco, esta afeitadora). MLA37255352, 4.7★ (14447 op.), "+50mil vendidos" (badge propio del producto), MÁS VENDIDO. Triple cabezal rotativo inclinable, batería recargable USB (hasta 1h de uso, carga completa en ~1h), compacta para viajar, incluye cable de carga. Re-verificado en vivo antes de publicar, precio idéntico. Link verificado en el texto publicado contra la Graph API |
+| Cepillo Secador Modelador Alisador Suono 5 en 1 | $52.199 | 2026-09-19 | meli.la/285dKqt — primer cepillo secador/alisador del sitio (distinto de la afeitadora VGR ya posteada), item 3 de la tanda de hoy, MLA61427867. "Mejor precio" ya seleccionado por defecto ($52.199, 64% OFF). Tienda oficial SUONO, MÁS VENDIDO 9° en Cepillos Eléctricos, 4.7★ (661 op.), +1000 vendidos, +50 disponibles, envío FULL. Motor 1200W, 5 cabezales intercambiables (seca/alisa/riza/da volumen), 3 niveles de temperatura, cable giratorio 360° de 1.8m. Re-verificado en vivo antes de publicar, precio idéntico. Link verificado en el texto publicado contra la Graph API |
 
 ## Mascotas
 

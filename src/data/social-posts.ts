@@ -3719,4 +3719,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "27",
     postedAt: "2026-09-19T10:48:13-03:00",
   },
+  {
+    title: "Cepillo Secador Modelador Alisador Suono 5 en 1",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_803690-MLA117500977635_092026-O.webp",
+    affiliateUrl: "https://meli.la/285dKqt",
+    newPrice: "52.199",
+    oldPrice: "145.999",
+    offPct: "64",
+    postedAt: "2026-09-19T11:15:14-03:00",
+  },
 ];
