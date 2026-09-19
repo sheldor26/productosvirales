@@ -3729,4 +3729,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "64",
     postedAt: "2026-09-19T11:15:14-03:00",
   },
+  {
+    title: "Comedero Automático Waggs 6L Control App Wi-Fi",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_727205-MLA106933814437_022026-O.webp",
+    affiliateUrl: "https://meli.la/1BW2yeg",
+    newPrice: "99.990",
+    oldPrice: "176.598",
+    offPct: "43",
+    postedAt: "2026-09-19T11:42:13-03:00",
+  },
 ];

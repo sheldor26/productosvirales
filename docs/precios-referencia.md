@@ -396,6 +396,7 @@ negro — tienen precio de lista distinto).
 | Producto | Precio de referencia (mejor real visto) | Fecha | Fuente |
 |---|---|---|---|
 | Cama Antiansiedad ComfyPetys XL 100x100 (perros/gatos) | $79.340 | 2026-09-18 | meli.la/1zWBh2i — sin referencia previa, primera categoría Mascotas del sitio, item 6 de la CUARTA tanda de 8 (tanda de la tarde, variedad total, ninguna categoría repetida). "Nuevo \| +50 vendidos" (badge propio), MÁS VENDIDO 6° en Camas, 4.7★ (27 op.), MLA68608024, Tienda oficial ComfyPetys. Diseño antiansiedad tipo nido, talle XL 100x100cm, a prueba de agua, 100% lavable, tela ComfyBambu Tusor. Re-verificado en vivo antes de publicar, precio idéntico, sin CAPTCHA. Link verificado en el texto publicado contra la Graph API |
+| Comedero Automático Waggs 6L Control App Wi-Fi | $99.990 | 2026-09-19 | meli.la/1BW2yeg — primer comedero automático del sitio (distinto de la Cama ComfyPetys ya posteada), item 4 de la tanda de hoy, MLA62312227. Precio único (ficha de catálogo /p/, sin toggle "Mejor precio"). Tienda oficial Interseller (+250mil ventas), MÁS VENDIDO 15° en Comederos, 4.8★ (228 op.), +1000 vendidos, +25 disponibles, envío FULL. Capacidad 6L, control por app + Wi-Fi compatible con Alexa y Asistente de Google, programación de comidas, diseño desmontable en ABS y acero inoxidable. Re-verificado en vivo antes de publicar, precio idéntico. Link verificado en el texto publicado contra la Graph API |
 
 ## Instrumentos Musicales
 
