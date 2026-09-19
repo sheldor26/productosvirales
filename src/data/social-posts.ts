@@ -3709,4 +3709,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "25",
     postedAt: "2026-09-19T10:21:11-03:00",
   },
+  {
+    title: "Teclado Mecánico Redragon K724RGB-Pro Pantalla LCD",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_978416-MLA112812653326_072026-O.webp",
+    affiliateUrl: "https://meli.la/1Zizmgp",
+    newPrice: "108.999",
+    oldPrice: "149.999",
+    offPct: "27",
+    postedAt: "2026-09-19T10:48:13-03:00",
+  },
 ];
