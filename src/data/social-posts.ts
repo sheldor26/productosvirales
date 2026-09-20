@@ -3919,4 +3919,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "40",
     postedAt: "2026-09-20T17:49:56-03:00",
   },
+  {
+    title: "Smart TV BGH Vidaa 43\" Full HD",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_810619-MLA109768635799_032026-O.webp",
+    affiliateUrl: "https://meli.la/1yE8rfZ",
+    newPrice: "407.399",
+    oldPrice: "599.999",
+    offPct: "32",
+    postedAt: "2026-09-20T18:15:51-03:00",
+  },
 ];
