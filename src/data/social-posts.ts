@@ -3909,4 +3909,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "52",
     postedAt: "2026-09-20T17:23:50-03:00",
   },
+  {
+    title: "Controlador Inalámbrico Onikuma C6",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_708527-MLA99453433788_112025-O.webp",
+    affiliateUrl: "https://meli.la/2Vun14x",
+    newPrice: "56.099",
+    oldPrice: "93.499",
+    offPct: "40",
+    postedAt: "2026-09-20T17:49:56-03:00",
+  },
 ];
