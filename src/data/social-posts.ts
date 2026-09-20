@@ -3869,4 +3869,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "31",
     postedAt: "2026-09-20T12:55:50-03:00",
   },
+  {
+    title: "Sérum Anti-arrugas Isdinceutics Retinal Intense 50ml",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_753886-MLU54977991087_042023-O.webp",
+    affiliateUrl: "https://meli.la/1kH67cy",
+    newPrice: "115.638",
+    oldPrice: "199.376",
+    offPct: "42",
+    postedAt: "2026-09-20T13:24:08-03:00",
+  },
 ];
