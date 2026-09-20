@@ -3889,4 +3889,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "39",
     postedAt: "2026-09-20T13:50:48-03:00",
   },
+  {
+    title: "Joystick Sony Dualshock 3 para PS3 y PC",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_737317-MLA116194012258_092026-O.webp",
+    affiliateUrl: "https://meli.la/23kGZJ8",
+    newPrice: "24.915",
+    oldPrice: "49.830",
+    offPct: "50",
+    postedAt: "2026-09-20T16:57:57-03:00",
+  },
 ];
