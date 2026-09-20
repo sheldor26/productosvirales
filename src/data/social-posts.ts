@@ -3819,4 +3819,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "43",
     postedAt: "2026-09-19T20:17:50-03:00",
   },
+  {
+    title: "Ventilador Retráctil de Techo Novohome 6 Velocidades",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_932802-MLA113050185405_062026-O.webp",
+    affiliateUrl: "https://meli.la/1GXsKvG",
+    newPrice: "106.690",
+    oldPrice: "170.990",
+    offPct: "37",
+    postedAt: "2026-09-20T11:09:01-03:00",
+  },
 ];
