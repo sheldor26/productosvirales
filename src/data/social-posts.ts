@@ -3879,4 +3879,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "42",
     postedAt: "2026-09-20T13:24:08-03:00",
   },
+  {
+    title: "Omega 3 Max Innovanaturals Ifos x2 Unidades",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_776198-MLA99995332277_112025-O.webp",
+    affiliateUrl: "https://meli.la/1vT9XmS",
+    newPrice: "146.333",
+    oldPrice: "240.588",
+    offPct: "39",
+    postedAt: "2026-09-20T13:50:48-03:00",
+  },
 ];
