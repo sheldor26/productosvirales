@@ -3859,4 +3859,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "23",
     postedAt: "2026-09-20T12:29:46-03:00",
   },
+  {
+    title: "Mesa Plegable Portátil Camping Circle Line 1.80m",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_726412-MLA86680981498_062025-O.webp",
+    affiliateUrl: "https://meli.la/2HVs2WJ",
+    newPrice: "75.500",
+    oldPrice: "109.999",
+    offPct: "31",
+    postedAt: "2026-09-20T12:55:50-03:00",
+  },
 ];

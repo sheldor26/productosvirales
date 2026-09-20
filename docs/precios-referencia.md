@@ -414,6 +414,7 @@ negro — tienen precio de lista distinto).
 | Producto | Precio de referencia (mejor real visto) | Fecha | Fuente |
 |---|---|---|---|
 | Sillón Skarpo x4 + Mesa Ratona Garden Life | $349.999 | 2026-09-20 | meli.la/1G87zCn — sin referencia previa, primera categoría Hogar/Jardín-mueble del sitio, item 7 de la QUINTA tanda (sourceada 19/9, terminada 20/9 por un gap de sesión de ~15hs). MLA44275731, Tienda oficial Garden Life (+100mil ventas), 4.9★ (660 op.), +1000 vendidos, MÁS VENDIDO 1° en Sillas de Jardín, +50 disponibles. 4 sillones apilables de plástico resistente + mesa ratona Sunset incluida, no requiere ensamblado. Re-verificado en vivo dos veces (sourcing 19/9 y antes de publicar 20/9), precio idéntico ambas veces. Link verificado en el texto publicado contra la Graph API |
+| Mesa Plegable Portátil Camping Circle Line 1.80m | $75.500 | 2026-09-20 | meli.la/2HVs2WJ — primer producto de camping/exterior plegable del sitio (distinto del Sillón Skarpo de la fila de arriba), item 2 de la SEXTA tanda. MLA51876155, OFERTA IMPERDIBLE, 4.8★ (798 op.), +1000 vendidos, Tienda oficial Circle Line (+100mil ventas), 5° en Mesas de Jardín, +50 disponibles, "Mejor precio" ya seleccionado por defecto. 1.8m para 8 personas, se pliega tipo valija con manija (9.5kg), polipropileno resistente, incluye manual de ensamblaje. Re-verificado en vivo dos veces (sourcing y antes de publicar), precio idéntico ambas veces. Link verificado en el texto publicado contra la Graph API |
 
 ## Instrumentos Musicales
 
