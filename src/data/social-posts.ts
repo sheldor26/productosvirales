@@ -3849,4 +3849,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "31",
     postedAt: "2026-09-20T12:00:35-03:00",
   },
+  {
+    title: "Cafetera Expresso Automática Philips Serie 5500",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_875997-MLA111832258952_062026-O.webp",
+    affiliateUrl: "https://meli.la/22zLrYh",
+    newPrice: "1.298.497",
+    oldPrice: "1.699.999",
+    offPct: "23",
+    postedAt: "2026-09-20T12:29:46-03:00",
+  },
 ];
