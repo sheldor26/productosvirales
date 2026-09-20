@@ -3899,4 +3899,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "50",
     postedAt: "2026-09-20T16:57:57-03:00",
   },
+  {
+    title: "Minecraft Xbox One Físico",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_995974-MLA99562267540_122025-O.webp",
+    affiliateUrl: "https://meli.la/25QHCp2",
+    newPrice: "18.050",
+    oldPrice: "38.000",
+    offPct: "52",
+    postedAt: "2026-09-20T17:23:50-03:00",
+  },
 ];
