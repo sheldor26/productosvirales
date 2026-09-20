@@ -3829,4 +3829,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "37",
     postedAt: "2026-09-20T11:09:01-03:00",
   },
+  {
+    title: "Combo Caladora + Fresadora Inalámbrica 20V DeWalt",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_785396-MLA99455387406_112025-O.webp",
+    affiliateUrl: "https://meli.la/1xQo1Xu",
+    newPrice: "650.000",
+    oldPrice: "1.057.320",
+    offPct: "38",
+    postedAt: "2026-09-20T11:34:58-03:00",
+  },
 ];
