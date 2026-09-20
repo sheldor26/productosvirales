@@ -3839,4 +3839,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "38",
     postedAt: "2026-09-20T11:34:58-03:00",
   },
+  {
+    title: "Sillón Skarpo x4 + Mesa Ratona Garden Life",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_716474-MLA111542394845_052026-O.webp",
+    affiliateUrl: "https://meli.la/1G87zCn",
+    newPrice: "349.999",
+    oldPrice: "509.399",
+    offPct: "31",
+    postedAt: "2026-09-20T12:00:35-03:00",
+  },
 ];
