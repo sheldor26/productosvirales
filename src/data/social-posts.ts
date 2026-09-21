@@ -4089,4 +4089,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "41",
     postedAt: "2026-09-21T19:37:34-03:00",
   },
+  {
+    title: "Horno Eléctrico Smartlife Convección 40L",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_663465-MLA99453937446_112025-O.webp",
+    affiliateUrl: "https://meli.la/2Ef5iBZ",
+    newPrice: "161.499",
+    oldPrice: "189.999",
+    offPct: "15",
+    postedAt: "2026-09-21T20:04:34-03:00",
+  },
 ];
