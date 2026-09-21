@@ -4039,4 +4039,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "31",
     postedAt: "2026-09-21T17:24:06-03:00",
   },
+  {
+    title: "Cinta Caminadora Eléctrica Noxi Sport CM-03",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_845450-MLA114368307321_072026-O.webp",
+    affiliateUrl: "https://meli.la/1BR9sPj",
+    newPrice: "289.799",
+    oldPrice: "499.999",
+    offPct: "42",
+    postedAt: "2026-09-21T17:50:21-03:00",
+  },
 ];
