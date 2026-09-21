@@ -2230,6 +2230,7 @@ export const guides: Guide[] = [
       { label: "Microondas Samsung: ¿vale la pena el de grill?", href: "/guias/cocina/microondas-samsung" },
       { label: "Horno eléctrico: cuál comprar", href: "/guias/cocina/horno-electrico" },
       { label: "Horno eléctrico Atma: cuál comprar", href: "/guias/cocina/horno-atma" },
+      { label: "¿Es buena la marca Atma?", href: "/guias/marcas/atma" },
     ],
     internalLinksTitle: "Más para la cocina",
   },
@@ -13264,6 +13265,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { label: `Mejores licuadoras: cuál comprar en Argentina`, href: "/guias/licuadora" },
       { label: `Cafetera express y cápsulas: cuál comprar`, href: "/guias/cafetera-express" },
       { label: `Cafetera italiana (moka): cuál comprar`, href: "/guias/cafetera-italiana" },
+      { label: `¿Es buena la marca Atma?`, href: "/guias/marcas/atma" },
     ],
     internalLinksTitle: "Más guías de cocina",
   },
@@ -29978,6 +29980,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { label: "Robot aspiradora Gadnic vs Xiaomi", href: "/guias/aspiradora-robot-gadnic-vs-xiaomi" },
       { label: "Difusor de aromas: cuál comprar", href: "/guias/salud-bienestar/difusor-de-aromas" },
       { label: "¿Es buena la marca Smartlife?", href: "/guias/marcas/smartlife" },
+      { label: "¿Es buena la marca Atma?", href: "/guias/marcas/atma" },
     ],
     internalLinksTitle: "Más sobre productos Gadnic",
   },
@@ -32369,6 +32372,123 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { label: "Cafetera express: cuál comprar", href: "/guias/cafetera-express" },
       { label: "Horno eléctrico: cuál comprar", href: "/guias/cocina/horno-electrico" },
       { label: "¿Es buena la marca Gadnic?", href: "/guias/marcas/gadnic" },
+      { label: "¿Es buena la marca Atma?", href: "/guias/marcas/atma" },
+    ],
+    internalLinksTitle: "Más sobre marcas y electro de cocina",
+  },
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva atma — silo marcas. Origen: checklist SEO semanal
+  // 2026-09-21, punto 4. Atma es la recomendación #1 en freidoras
+  // (atma-freidoras-de-aire-review), microondas (microondas-atma) y
+  // horno-electrico, y "mejor relación precio-calidad" en licuadora —
+  // material 100% propio, sin sourcing nuevo. Mismo formato que
+  // gadnic/smartlife (marca-por-categoría + sección honesta de "dónde
+  // tener cuidado"), con el bloque de compra reforzado arriba (pedido
+  // explícito de Juan: gadnic/smartlife no generaron ni un afiliado
+  // todavía pese a tener quickPicks arriba, así que acá se duplica el
+  // CTA en prosa temprano, no solo en el hero pick de quickPicks).
+  // El hallazgo honesto del robot limpiavidrios (promesa "sin marco"
+  // sin respaldo del fabricante, reseñas de 1 estrella) ya estaba
+  // documentado en la ficha de MLA51170872 — no es research nuevo.
+  // No se tocó la pava eléctrica Atma (PEAT1351 está deprioritized,
+  // historia sin resolver en pava-electrica-atma, Tier B) para no
+  // mezclar dos frentes abiertos.
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "atma",
+    category: "marcas",
+    silo: "marcas",
+    pillar: true,
+    title: `¿Es buena la marca Atma? Análisis con datos reales [2026]`,
+    seoTitle: `¿Es Buena la Marca Atma? Opiniones y Datos Reales [2026]`,
+    metaDescription: `Analizamos las freidoras, microondas, hornos y licuadoras Atma en Mercado Libre Argentina: rating, cantidad de opiniones y dónde conviene tener cuidado. Sin inventar nada.`,
+    ogTitle: `¿Es buena la marca Atma? Lo que dicen los números`,
+    ogDescription: `La freidora Atma Pro FR60AR tiene {{reviews:MLA27351841}} opiniones a 4.8 estrellas. Analizamos freidoras, microondas, hornos y licuadoras de la marca, con su punto flojo incluido.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_2X_957826-MLU74154693437_012024-F.webp`,
+    h1: `¿Es buena la marca Atma? Lo que dicen sus productos más vendidos`,
+    directAnswer: `Sí, en general: Atma es una marca argentina de Grupo Newsan, con 2 años de garantía y una de las redes de service técnico más extendidas del país (fuerte incluso en el interior, no solo en AMBA). Es además la recomendación #1 en varias de nuestras guías de cocina: la freidora **[Atma Pro FR60AR](https://meli.la/2H5RRoD)** es la más probada de toda la categoría con **{{reviews:MLA27351841}} opiniones a 4.8 estrellas**, el microondas 20L y el horno 45L son los más vendidos de sus categorías, y la licuadora Atma Pro es "la mejor relación precio-calidad" de nuestra guía de licuadoras. No es perfecta en todo: su robot limpiavidrios promete algo que ni Atma ni Newsan respaldan por escrito, y las reseñas reales lo confirman. Te mostramos los números, categoría por categoría.`,
+    publishedDate: "2026-09-21",
+    updatedDate: "2026-09-21",
+    hasDisclosure: true,
+    readingTime: 8,
+    standfirst: `Atma aparece como recomendación #1 en varias de nuestras guías de electro de cocina, y es lógico preguntarse si eso es mérito real o solo porque es la marca más fácil de conseguir en Argentina. Analizamos sus productos con más historial en nuestro catálogo (freidoras, microondas, hornos y licuadoras) con rating y cantidad real de opiniones de MercadoLibre, categoría por categoría, incluido el producto donde la marca no rinde tan bien.`,
+    quickPicks: [
+      { productMlaId: "MLA27351841", label: "La más probada de la marca", labelColor: "green", tagline: `Freidora Atma Pro FR60AR: 4.8★ en {{reviews:MLA27351841}} opiniones, la más elegida de la categoría` },
+      { productMlaId: "MLA41009857", label: "El más vendido en microondas", labelColor: "blue", tagline: "Microondas Atma 20L digital: el más elegido de la marca" },
+      { productMlaId: "MLA27167036", label: "El más vendido en hornos", labelColor: "purple", tagline: "Horno Atma 45L con grill: el horno eléctrico más vendido del país" },
+      { productMlaId: "MLA19693634", label: "Mejor relación precio en licuadoras", labelColor: "slate", tagline: `Licuadora Atma Pro: jarra de vidrio y {{reviews:MLA19693634}} opiniones` },
+    ],
+    intro: [
+      `"Atma es buena marca" es de las búsquedas que más crecen en electro de cocina argentino, y no es casualidad: es la marca que más se repite como recomendación #1 en nuestras propias guías de freidoras, microondas y hornos eléctricos. Pero "aparece mucho" no es lo mismo que "rinde bien", así que acá vamos a los números reales en vez de asumir nada.`,
+      `La respuesta corta: Atma es una marca argentina de **Grupo Newsan**, uno de los grupos industriales más grandes del país, con **2 años de garantía** y una red de service técnico que se destaca especialmente en el interior (donde otras marcas concentran todo en AMBA). En freidoras, microondas y hornos, es de lo mejor calificado que tenemos fichado, con bases de opiniones enormes. Pero no es pareja en todo su catálogo: su robot limpiavidrios promete compatibilidad "con y sin marco" que ni el fabricante ni Newsan respaldan en ningún manual público, y las reseñas reales lo confirman. Te mostramos dónde rinde y dónde conviene mirar dos veces.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_957826-MLU74154693437_012024-F.webp", alt: `Freidora de aire Atma Pro FR60AR, la freidora Atma con más opiniones de todo el catálogo`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Sí, en general: Atma es marca argentina de Grupo Newsan, con 2 años de garantía y service técnico fuerte en todo el país, incluido el interior. Es la recomendación #1 en nuestras guías de freidoras, microondas y hornos eléctricos, con la **[Atma Pro FR60AR](https://meli.la/2H5RRoD)** como la freidora más probada del sitio: {{reviews:MLA27351841}} opiniones a 4.8 estrellas. El punto flojo real: su robot limpiavidrios promete algo ("apto sin marco") que no tiene respaldo del fabricante, y las reseñas lo confirman. Antes de comprar cualquier producto puntual, mirá su rating y cantidad de opiniones, no solo el nombre de la marca.` },
+
+      { type: "p", content: `**Los Atma que más recomendamos hoy:** en freidoras, la **[Atma Pro FR60AR de 6,5L](https://meli.la/2H5RRoD)** (alrededor de {{precio:MLA27351841:k}}) para uso diario de 2 o 3, o la **[Atma FR248ABP de 8L](https://meli.la/2UfmcVY)** (alrededor de {{precio:MLA39861162:k}}) si cocinás para familia. En microondas, el **[Atma 20L digital](https://meli.la/2Gh5aGU)** (alrededor de {{precio:MLA41009857:k}}). En hornos eléctricos, el **[Atma 45L con grill](https://meli.la/14iWweG)** (alrededor de {{precio:MLA27167036:k}}), que entra un pollo entero. Y en licuadoras, la **[Atma Pro LI8450AP](https://meli.la/1s19WgR)** de jarra de vidrio (alrededor de {{precio:MLA19693634:k}}).` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo evaluamos:** relevamos los productos Atma con más historial en nuestro catálogo, en 4 categorías donde la marca es recomendación #1 o casi (freidoras de aire, microondas, hornos eléctricos y licuadoras), más su robot limpiavidrios como ejemplo honesto de dónde no rinde igual. Para cada uno tomamos el rating y la cantidad real de calificaciones de MercadoLibre, sin promediar categorías que no compiten entre sí. Los datos de marca (garantía, grupo empresario, red de service) salen de nuestras guías ya publicadas y verificadas, nunca inventados. Los precios se revisan contra MercadoLibre tres veces por semana.` },
+
+      { type: "h2", title: `¿Qué tipo de marca es Atma?`, id: "la-marca" },
+      { type: "p", content: `Atma es una marca argentina que pertenece a **Grupo Newsan**, uno de los conglomerados industriales más grandes del país (también dueño de otras marcas de electro y tecnología). Ofrece **2 años de garantía** en su línea de cocina, más larga que el estándar de un año que manejan varias marcas del segmento, y una red de distribuidores y centros técnicos que se destaca en particular en el interior del país: si vivís en Córdoba, Rosario o cualquier ciudad mediana lejos de AMBA, Atma suele tener service cerca cuando otras marcas concentran todo en Buenos Aires.` },
+      { type: "p", content: `Eso no significa que todos sus productos rindan igual. Atma vende en categorías muy distintas (cocina, climatización, robots aspiradora, limpieza del hogar), y como pasa con cualquier marca generalista, el nivel varía según el rubro. Por eso esta guía no contesta "sí" o "no" en abstracto: te muestra dónde la marca tiene el respaldo más fuerte y dónde conviene mirar el producto puntual antes de comprar.` },
+
+      { type: "h2", title: `Los números de Atma, categoría por categoría`, id: "los-numeros" },
+
+      { type: "h3", title: `Freidoras de aire: el punto más fuerte de la marca` },
+      { type: "product-card", productMlaId: "MLA27351841", label: "La más probada de la marca", labelColor: "green", ranking: 1, description: `Freidora digital sin aceite de 6,5 litros. 4.8 estrellas en {{reviews:MLA27351841}} calificaciones: la freidora más probada de todo nuestro catálogo, sea cual sea la marca.` },
+      { type: "p", content: `Acá es donde Atma más se destaca. La **[Atma Pro FR60AR](https://meli.la/2H5RRoD)** de 6,5 litros acumula {{reviews:MLA27351841}} calificaciones reales a 4.8 estrellas: no es solo la freidora Atma más probada, es una de las más probadas de todo MercadoLibre Argentina en la categoría, sin importar la marca. Si cocinás para más gente, la **[FR248ABP de 8 litros](https://meli.la/2UfmcVY)** trae control táctil y suma {{reviews:MLA39861162}} calificaciones propias a {{rating:MLA39861162}} estrellas, con la insignia de más vendida en su tamaño. Las dos comparten la garantía de 2 años que confirmamos en nuestra [guía dedicada de freidoras Atma](/guias/atma-freidoras-de-aire-review). Una contra a tener en cuenta, válida para toda la línea: son de las freidoras más ruidosas del segmento, sobre todo los modelos de doble canasta.` },
+
+      { type: "h3", title: `Microondas: la opción de marca conocida` },
+      { type: "product-card", productMlaId: "MLA41009857", label: "El más vendido en microondas", labelColor: "blue", ranking: 2, description: `20 litros, 700W, control digital. 4.8 estrellas en {{reviews:MLA41009857}} calificaciones. El microondas Atma más elegido, para calentar y descongelar.` },
+      { type: "p", content: `El **[Atma 20L digital](https://meli.la/2Gh5aGU)** es nuestra recomendación #1 en microondas de esa capacidad: {{reviews:MLA41009857}} calificaciones a 4.8 estrellas, con el respaldo de una marca con service en el país. Si además querés que dore, el Easy Cook de 23 litros suma grill; el detalle completo de toda la línea (rotativo, full screen, con y sin grill) está en nuestra [guía dedicada de microondas Atma](/guias/cocina/microondas-atma).` },
+
+      { type: "h3", title: `Hornos eléctricos: el más vendido del país` },
+      { type: "product-card", productMlaId: "MLA27167036", label: "El más vendido en hornos", labelColor: "purple", ranking: 3, description: `45 litros con grill: entra una fuente de pizza o un pollo entero. 4.7 estrellas en {{reviews:MLA27167036}} calificaciones. El horno eléctrico más vendido de Argentina, de cualquier marca.` },
+      { type: "p", content: `El **[Atma de 45 litros con grill](https://meli.la/14iWweG)** no es solo el horno Atma más vendido: es el horno eléctrico más vendido de Argentina en nuestro catálogo, de cualquier marca, con {{reviews:MLA27167036}} calificaciones a {{rating:MLA27167036}} estrellas. Entra una fuente de pizza grande o un pollo entero sin trozar, y tiene grill para dorar. El desarrollo completo, con el resto de la línea Atma (incluido el de 50L premium con doble resistencia), está en nuestra [guía de hornos eléctricos](/guias/cocina/horno-electrico).` },
+
+      { type: "h3", title: `Licuadoras: la mejor relación precio-calidad` },
+      { type: "product-card", productMlaId: "MLA19693634", label: "Mejor relación precio en licuadoras", labelColor: "slate", ranking: 4, description: `Jarra de vidrio de 1,5L, cuchilla inoxidable y cierre de seguridad. 4.7 estrellas en {{reviews:MLA19693634}} calificaciones: la base de opiniones más grande de nuestra guía de licuadoras.` },
+      { type: "p", content: `En nuestra guía de licuadoras, la **[Atma Pro LI8450AP](https://meli.la/1s19WgR)** es la que marcamos como mejor relación precio-calidad: jarra de vidrio (no plástico), {{reviews:MLA19693634}} calificaciones y la base de opiniones más grande de toda esa comparativa, incluidas marcas internacionales, a alrededor de {{precio:MLA19693634:k}}. No es la elección premium de esa guía (ese lugar lo tiene una Oster), pero para el precio que pide, rinde más de lo esperado.` },
+
+      { type: "h2", title: `Dónde tener cuidado con Atma`, id: "donde-cuidado" },
+      { type: "p", content: `Ser honestos con lo bueno implica serlo también con lo flojo. El **[robot limpiavidrios Atma](https://meli.la/2L7AmMK)** promete en el título de su publicación ser "apto para vidrios con y sin marco", pero buscamos manual oficial de Atma y de Newsan para ese modelo puntual (ARLV306) y no encontramos ninguno que respalde esa compatibilidad. No es un detalle menor: las reseñas reales disponibles describen justo el problema que esa promesa debería resolver, con el robot dando la limpieza por terminada cubriendo apenas una parte del vidrio y dejando varios centímetros sucios cerca del marco. Hoy tiene **{{rating:MLA51170872}} estrellas en {{reviews:MLA51170872}} opiniones**, la base más chica de todo lo que relevamos de la marca.` },
+      { type: "p", content: `El matiz honesto: esto es un solo producto dentro de un catálogo mucho más grande, y no es representativo del nivel que Atma sostiene en cocina (freidoras, microondas, hornos), donde el respaldo de opiniones es enorme y consistente. Es la prueba de que, como con cualquier marca generalista, "es Atma" no es garantía automática en todos los rubros: conviene mirar el producto puntual, no asumir el mismo nivel en todo el catálogo.` },
+
+      { type: "h2", title: `Tabla comparativa: los productos Atma que recomendamos`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Producto`, `Categoría`, `Precio`, `Rating`, `Opiniones`], rows: [
+        [`[Freidora Atma Pro FR60AR](https://meli.la/2H5RRoD)`, `Cocina`, `{{precio:MLA27351841}}`, `{{rating:MLA27351841}}`, `{{reviews:MLA27351841}}`],
+        [`[Freidora Atma FR248ABP](https://meli.la/2UfmcVY)`, `Cocina`, `{{precio:MLA39861162}}`, `{{rating:MLA39861162}}`, `{{reviews:MLA39861162}}`],
+        [`[Microondas Atma 20L](https://meli.la/2Gh5aGU)`, `Cocina`, `{{precio:MLA41009857}}`, `{{rating:MLA41009857}}`, `{{reviews:MLA41009857}}`],
+        [`[Horno Atma 45L grill](https://meli.la/14iWweG)`, `Cocina`, `{{precio:MLA27167036}}`, `{{rating:MLA27167036}}`, `{{reviews:MLA27167036}}`],
+        [`[Licuadora Atma Pro](https://meli.la/1s19WgR)`, `Cocina`, `{{precio:MLA19693634}}`, `{{rating:MLA19693634}}`, `{{reviews:MLA19693634}}`],
+        [`[Robot limpiavidrios Atma](https://meli.la/2L7AmMK)`, `Hogar`, `{{precio:MLA51170872}}`, `{{rating:MLA51170872}}`, `{{reviews:MLA51170872}}`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir dentro del catálogo Atma`, id: "como-elegir" },
+      { type: "p", content: `Si estás por comprar algo de Atma, la pregunta correcta no es "¿es buena la marca?" sino "¿es bueno este producto puntual?". Empezá por rating **y** cantidad de opiniones juntos: sus freidoras, microondas y hornos tienen bases de miles de calificaciones, un dato mucho más sólido que un 4.8 con un puñado de opiniones. Si vivís en el interior del país, la red de service de Atma es un plus real frente a marcas que concentran todo en AMBA. Y si el producto que te interesa tiene pocas calificaciones (como el robot limpiavidrios), leé el texto de esas reseñas antes de decidir, no te quedes solo con las estrellas.` },
+      { type: "callout", calloutVariant: "warning", calloutTitle: "Un dato, no un veredicto de marca", content: `Que el robot limpiavidrios tenga una promesa sin respaldo del fabricante no significa que "Atma sea mala marca": significa que ESE producto puntual tiene un problema real y documentado. Es el mismo criterio que aplicamos con cualquier otra marca del sitio (ver también nuestro análisis de [Gadnic](/guias/marcas/gadnic)): juzgamos el producto, no generalizamos a partir de un solo caso.` },
+
+      { type: "h2", title: `Veredicto: ¿comprar productos Atma?`, id: "veredicto" },
+      { type: "verdict", content: `Sí, con criterio de producto puntual. Atma es una marca argentina real, de Grupo Newsan, con 2 años de garantía y una red de service que se destaca en el interior del país, y en cocina (freidoras, microondas, hornos, licuadoras) es de lo mejor calificado que tenemos fichado, con la **[Atma Pro FR60AR](https://meli.la/2H5RRoD)** como el caso más claro: 4.8 estrellas en {{reviews:MLA27351841}} opiniones, de las freidoras más probadas del sitio. Al mismo tiempo, no es pareja en todo su catálogo: el robot limpiavidrios promete algo que no respalda, con reseñas reales que lo confirman. Antes de comprar cualquier producto Atma, mirá su rating y su cantidad de opiniones puntuales, no la reputación general de la marca.` },
+    ],
+    faq: [
+      { question: `¿Es argentina la marca Atma?`, answer: `Sí, es una marca argentina que pertenece a Grupo Newsan, uno de los conglomerados industriales más grandes del país. Tiene 2 años de garantía en su línea de cocina y una red de service técnico con fuerte presencia en el interior, no solo en AMBA.` },
+      { question: `¿Atma tiene garantía?`, answer: `Sí, normalmente 2 años desde la compra en su línea de cocina (freidoras, microondas, hornos), más larga que el año estándar de varias marcas del segmento. Cubre defectos de fabricación, no uso incorrecto: conviene guardar el comprobante de compra.` },
+      { question: `¿Cuál es el mejor producto de Atma?`, answer: `Por volumen de opiniones y rating, la [freidora Atma Pro FR60AR](https://meli.la/2H5RRoD): 4.8 estrellas en {{reviews:MLA27351841}} calificaciones, una de las freidoras más probadas de todo MercadoLibre Argentina. En hornos, el de 45L con grill es el más vendido del país; en microondas, el de 20L digital.` },
+      { question: `¿Atma es buena marca o es mejor comprar otra?`, answer: `En freidoras, microondas y hornos eléctricos, Atma compite de igual a igual con cualquier marca del catálogo, con bases de opiniones enormes que lo respaldan. En categorías donde tiene menos historial, como su robot limpiavidrios, conviene mirar el rating y la cantidad de opiniones del producto puntual antes de decidir.` },
+      { question: `¿Hay algún producto Atma que no convenga?`, answer: `El robot limpiavidrios promete ser "apto para vidrios con y sin marco" sin respaldo de un manual oficial de Atma o Newsan, y las reseñas reales describen justo ese problema: limpieza incompleta cerca del marco. No es representativo del resto del catálogo, pero es el ejemplo real de que la calidad varía según el producto.` },
+      { question: `¿Dónde comprar productos Atma en Argentina?`, answer: `Mayormente por MercadoLibre, donde tiene catálogo amplio con vendedores oficiales y stock actualizado. Comprar por MercadoLibre suma además la protección de compra de la plataforma sobre la garantía del fabricante.` },
+    ],
+    internalLinks: [
+      { label: "Freidoras de aire Atma: análisis completo", href: "/guias/atma-freidoras-de-aire-review" },
+      { label: "Microondas Atma: cuál conviene de toda la línea", href: "/guias/cocina/microondas-atma" },
+      { label: "Horno eléctrico: cuál comprar", href: "/guias/cocina/horno-electrico" },
+      { label: "Licuadora: cuál comprar", href: "/guias/licuadora" },
+      { label: "¿Es buena la marca Gadnic?", href: "/guias/marcas/gadnic" },
+      { label: "¿Es buena la marca Smartlife?", href: "/guias/marcas/smartlife" },
     ],
     internalLinksTitle: "Más sobre marcas y electro de cocina",
   },
