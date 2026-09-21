@@ -1,7 +1,38 @@
 # Estado actual
 
 > Snapshot del proyecto. Se actualiza al final de cada sesión.
-> Última actualización: 2026-09-09 — deepening masivo de las 74 fichas de producto que no tenían `articleBody`/`faq` (línea blanca, jardín/herramientas, hobbies del silo hogar-jardin), cerrado en 5 lotes con trío auditor. Codex caído toda la sesión (misma cuenta ChatGPT sin acceso al modelo). Incidente agravado con `agy`: inventó una aprobación de Claude que nunca se dio para justificar editar el archivo en modo "solo auditar". Ver detalle abajo.
+> Última actualización: 2026-09-21 — checklist SEO semanal completo (6 puntos): refresh de climatización (Kent K3001 dado de baja, reemplazado por Protalia; precios de Novohome/Philco/Surrey corregidos), guía nueva "¿Es buena la marca Atma?", refresh de licuadora/robot-de-cocina/pava-electrica-control-temperatura (11 menciones de "2.365 opiniones" desactualizadas de la Oster Classic corregidas a 5.229), y guía nueva "teclado musical: cuál comprar" (4.400/mes validado en Ubersuggest + Keyword Planner). `npm run indexnow` corrido, todo pusheado. Ver detalle abajo.
+
+## Sesión 2026-09-21 — Checklist SEO semanal completo: climatización, dos guías nuevas ("marcas/atma" y "teclado musical"), refresh de las 3 guías que más monetizan
+
+### LO QUE SE HIZO
+
+Se resolvió de punta a punta el checklist del reporte SEO del 21/9 (`docs/seo-reports/2026-09-21.md`), 6 puntos, en 5 commits (los puntos 1-2 —links de ancla exacta a `mejores-perfumes-arabes-hombre` y la prueba de imagen en `perfumes-arabes-por-color`— ya habían quedado cerrados en una sesión anterior el mismo día).
+
+**Punto 3 — Refresh de `ventilador-de-techo` y `aire-acondicionado-portatil` (climatización):**
+- El ventilador industrial **Kent K3001** (MLA57107638) tiene la publicación pausada/dada de baja en MercadoLibre (verificado en vivo, Chrome logueado: solo "también puede interesarte" + grilla de relacionados, sin buy box). Marcado `visibility: deprioritized` + `priceStatus: out_of_stock`, ficha conservada íntegra. Reemplazado en las 6 menciones de la guía por una ficha nueva: **Ventilador De Techo Protalia Industrial 3 Palas Blanco 1.2m** (MLA57722520, $99.999, 4.7★/63, mismo rol "para quincho o galpón, el más barato" — a diferencia del Kent, trae luz LED con interruptor propio; contra real de reseña: el caño de montaje es corto para techos altos). Registrado en `docs/productos-sin-stock.md`.
+- Precios corregidos con verificación en vivo: Novohome NH-VTR $119.990→$105.599 (-12%, y su "1.661 opiniones" hardcodeado en 7 lugares de la guía corregido a 1.992 real), Philco PHP35HC7API $950.000→$999.000 (+5%, se sacó un `originalPrice` viejo que ya no aplicaba), Surrey Smart $776.999→$816.989 (+5%).
+- De yapa: el catálogo tenía al **Etheos** con rating/reseñas desactualizados (4.7★/2.021 vs la ficha real de ML 4.8★/1.692) — corregido, y eso rompía el superlativo "el Etheos tiene el mayor respaldo entre los modernos" de la guía (el Novohome, con 1.992, pasó a tener más reseñas que el Etheos). Reescritas 5 menciones para que el diferencial de Etheos sea el diámetro (el más grande de los retráctiles), no un respaldo que ya no lidera.
+- BGH: corregida su base de opiniones hardcodeada en `aire-acondicionado-portatil` (decía 137, son 117).
+
+**Punto 4 — Guía nueva `/guias/marcas/atma`:** mismo formato que `gadnic`/`smartlife` (marca-por-categoría + sección honesta de "dónde tener cuidado"), armada 100% con material ya publicado en el sitio, sin sourcing nuevo: Atma es recomendación #1 en freidoras (`atma-freidoras-de-aire-review`), microondas (`microondas-atma`) y `horno-electrico`, y "mejor relación precio-calidad" en `licuadora`. El dato de marca (Grupo Newsan, 2 años de garantía, red de service fuerte en el interior) sale de guías ya verificadas del sitio. La sección honesta usa un hallazgo ya documentado (no investigación nueva): el robot limpiavidrios Atma (MLA51170872) promete "apto vidrios con y sin marco" sin respaldo de manual oficial de Atma/Newsan, con reseñas reales que confirman el problema. A pedido explícito de Juan, se reforzó el bloque de compra ARRIBA de la guía (un párrafo con los 5 links en prosa, además del hero pick + quickPicks del template estándar). Cross-linking bidireccional con `atma-freidoras-de-aire-review`, `microondas-atma`, `horno-electrico`, `licuadora`, `gadnic` y `smartlife`.
+
+**Punto 5 — Refresh de `licuadora`, `robot-de-cocina` y `pava-electrica-control-temperatura`** (las 3 guías vencidas que más monetizan: 24/16/14 afiliados en 28 días): stock verificado en vivo en el top-pick de cada una. Hallazgo grande: la **Oster Classic BLST4655** (licuadora "mejor elección general") tenía hardcodeado "2.365 opiniones" en **11 lugares distintos del sitio** (la guía `licuadora` + varias satélite que la mencionan como referencia) — la ficha real de ML muestra 4.8★/5.229 calificaciones, corregido en los 11. La pava Atma PE1821NAP (la de mayor volumen de reseñas de todo el catálogo de pavas) subió de precio $47.900→$52.999 (+11%). El robot de cocina Suono Neochef Pro ya estaba fresco. Los dos Oster "no recomendados" de `pava-electrica-control-temperatura` (BVSTKT4970B, 8970) siguen `deprioritized` a propósito — la guía los usa como ancla de "no comprar esto", no como recomendación activa, no es un bug.
+
+**Punto 6 — Guía nueva `/guias/musica/teclado-musical-cual-comprar`:** volumen validado en dos fuentes antes de abrir la guía — Ubersuggest y Google Ads Keyword Planner coinciden EXACTO en "teclado musical" (4.400/mes, Argentina, SEO difficulty 8/100, intención Transactional) y "teclados musicales" (590/mes), muy por encima del piso de ~200/mes del checklist. `teclado-musical-precio` (la guía existente) es de precios, no de decisión, y no matcheaba la intención transaccional de la keyword exacta. La guía nueva reutiliza los mismos 6 productos de `teclado-musical-precio` (sin sourcing nuevo) pero organizados por decisión ("para arrancar", "si ya sabés que vas a seguir", "si querés más funciones") con prosa distinta para no ser un duplicado. Mejor elección general: Casio CTK-3500 (respuesta al tacto confirmada + mayor base de opiniones). `teclado-musical-precio` quedó linkeada como spoke, con link de vuelta a la guía nueva.
+
+**Cierre de sesión:** Juan pasó el link `meli.la` real del Protalia (`https://meli.la/235rYPV`) y de paso confirmó que el link de la freidora Atma FR60AR usado en 8+ lugares del sitio (`2H5RRoD`) es el correcto — se corrigió el `affiliateUrl` de esa ficha en `curated-products.ts`, que tenía cargado uno distinto (`1NYzyF1`), inconsistencia preexistente de antes de esta sesión. `npm run indexnow` corrido al cierre.
+
+### VERIFICACIÓN
+
+`npx tsc --noEmit`, `npm run build` y los scripts de `guides:check` en verde después de cada commit (quedaron 2 precios hardcodeados desactualizados preexistentes en una guía de gaming, sin relación con esta sesión, no tocados — y el placeholder `PEGAR_MELI_LA` de `rascador-para-gatos`, tampoco de esta sesión).
+
+### LO QUE QUEDA ABIERTO
+
+- `pava-electrica-atma` (guía dedicada a la Pava Atma PEAT1351, sin stock desde el 2026-08-31) sigue sin resolver — Tier B, no se tocó a propósito para no mezclar dos frentes.
+- El push a `git` está bloqueado por el clasificador de auto-modo de esta sesión salvo que se apruebe explícitamente cada vez — no es un problema del repo, es de permisos del harness.
+
+---
 
 ## Sesión 2026-09-09 — Deepening de 74 fichas sin `articleBody`/`faq`, y un incidente agravado con `agy`
 
