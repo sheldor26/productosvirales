@@ -1,6 +1,4 @@
-"use client";
-
-import { useEffect, useRef, type ReactNode } from "react";
+import type { ReactNode } from "react";
 
 /** Estrellas + puntaje + conteo. Si la ficha tiene reseñas curadas, todo eso
  * lleva a la sección de opiniones: es el gesto por defecto en cualquier ficha
@@ -28,16 +26,14 @@ import {
   X,
   Star,
   AlertTriangle,
-  Heart,
   TrendingDown,
 } from "lucide-react";
-import { gsap, useGSAP } from "@/lib/gsap-config";
 import { Badge } from "@/components/ui/Badge";
 import { ProductGallery } from "./ProductGallery";
 import { StickyMobileCta } from "./StickyMobileCta";
 import { RecentlyViewed } from "./RecentlyViewed";
-import { useRecentlyViewed } from "@/lib/use-recently-viewed";
-import { useSavedProducts } from "@/lib/use-saved-products";
+import { RecentlyViewedRecorder } from "./RecentlyViewedRecorder";
+import { SaveHeartButton } from "./SaveHeartButton";
 import { formatPrice, formatDiscount } from "@/lib/utils";
 import { renderInlineMarkdown } from "@/lib/inline-markdown";
 import { productHref } from "@/lib/product-url";
@@ -162,25 +158,29 @@ function DecisionNav({ product, hasRelated }: { product: Product; hasRelated: bo
   );
 }
 
-/** Tarjeta de sección con etiqueta (kicker) y título, estilo embudo. */
+/** Tarjeta de sección con etiqueta (kicker) y título, estilo embudo. El
+ * fade-up escalonado al cargar es CSS puro (.detail-reveal + animationDelay,
+ * ver globals.css) — reemplaza la timeline GSAP que corría acá antes. */
 function SectionCard({
   kicker,
   title,
   className = "",
   id,
+  delayMs,
   children,
 }: {
   kicker?: string;
   title?: string;
   className?: string;
   id?: string;
+  delayMs?: number;
   children: ReactNode;
 }) {
   return (
     <section
       id={id}
-      className={`mt-8 max-w-3xl mx-auto rounded-[var(--radius-card)] border border-[var(--border)] bg-[var(--bg-primary)] p-5 md:p-6 scroll-mt-20 ${className}`}
-      style={{ opacity: 0 }}
+      className={`detail-reveal mt-8 max-w-3xl mx-auto rounded-[var(--radius-card)] border border-[var(--border)] bg-[var(--bg-primary)] p-5 md:p-6 scroll-mt-20 ${className}`}
+      style={delayMs ? { animationDelay: `${delayMs}ms` } : undefined}
     >
       {kicker && (
         <p className="text-[11px] font-bold uppercase tracking-wider text-[#3483fa] mb-1">
@@ -286,8 +286,6 @@ export function ProductDetail({
   priceHistory,
   hasAlternatives = false,
 }: ProductDetailProps) {
-  const containerRef = useRef<HTMLDivElement>(null);
-
   const discount = product.originalPrice
     ? formatDiscount(product.originalPrice, product.price)
     : null;
@@ -298,47 +296,10 @@ export function ProductDetail({
   const tileSpecs = pickTileSpecs(product);
   const { blocks: articleBlocks, paraYes, paraNo } = parseArticle(product.articleBody);
 
-  const { record } = useRecentlyViewed();
-  useEffect(() => {
-    record(product.id);
-  }, [product.id, record]);
-
-  const { isSaved, toggle } = useSavedProducts();
-  const saved = isSaved(product.id);
-
-  useGSAP(() => {
-    // .detail-image y .detail-info (galería + buy box) quedan afuera: son el
-    // contenido LCP de la página y se pintan de una en el SSR. Ocultarlos
-    // hasta que GSAP hidrate y corra retrasaba el LCP real (imagen/H1 recién
-    // visibles después de descargar+ejecutar la librería).
-    const selector =
-      ".detail-proscons, .detail-pricehistory, .detail-related, .detail-parawhom, .detail-article, .detail-reviews, .detail-specs, .detail-faq, .detail-cta-band";
-
-    const mm = gsap.matchMedia();
-
-    mm.add("(prefers-reduced-motion: no-preference)", () => {
-      // El SSR pinta estos bloques con opacity:0 (espacio reservado, sin CLS).
-      gsap.set(selector, { opacity: 1 });
-      const tl = gsap.timeline({ defaults: { opacity: 0, y: 20, duration: 0.4, ease: "power2.out" } });
-      tl.from(".detail-pricehistory", {}, 0)
-        .from(".detail-proscons", {}, "-=0.05")
-        .from(".detail-related", {}, "-=0.05")
-        .from(".detail-parawhom", {}, "-=0.05")
-        .from(".detail-article", {}, "-=0.05")
-        .from(".detail-reviews", {}, "-=0.05")
-        .from(".detail-specs", {}, "-=0.05")
-        .from(".detail-faq", {}, "-=0.05")
-        .from(".detail-cta-band", {}, "-=0.05");
-      tl.set(selector, { clearProps: "opacity,transform" });
-    });
-
-    mm.add("(prefers-reduced-motion: reduce)", () => {
-      gsap.set(selector, { opacity: 1, y: 0, x: 0 });
-    });
-  }, { scope: containerRef });
-
   return (
-    <div ref={containerRef}>
+    <div>
+      <RecentlyViewedRecorder productId={product.id} />
+
       {/* Breadcrumb */}
       <nav className="flex items-center gap-1.5 text-[13px] text-[var(--text-secondary)] mb-6">
         <Link href="/" className="hover:text-[var(--text-primary)] underline underline-offset-2 decoration-dotted decoration-[var(--text-muted)] transition-colors">
@@ -359,12 +320,12 @@ export function ProductDetail({
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-10">
         {/* Left: Image gallery */}
-        <div className="detail-image">
+        <div>
           <ProductGallery product={product} />
         </div>
 
         {/* Right: Buy box */}
-        <div className="detail-info flex flex-col">
+        <div className="flex flex-col">
           <Link
             href={`/categoria/${product.categorySlug}`}
             className="text-xs text-[var(--text-muted)] hover:text-[var(--text-secondary)] transition-colors mb-2"
@@ -386,16 +347,7 @@ export function ProductDetail({
               {updated && <> · Actualizado {updated}</>}
             </p>
             <div className="flex items-center gap-2">
-              <button
-                type="button"
-                onClick={() => toggle(product.id)}
-                aria-pressed={saved}
-                aria-label={saved ? `Sacar ${product.title} de guardados` : `Guardar ${product.title}`}
-                title={saved ? "Sacar de guardados" : "Guardar producto"}
-                className="inline-flex items-center justify-center w-9 h-9 rounded-full border border-[var(--border)] text-[var(--text-secondary)] hover:text-[var(--text-primary)] hover:border-[var(--text-muted)] transition-colors cursor-pointer motion-safe:active:scale-90"
-              >
-                <Heart size={15} className={saved ? "text-[#ef4444]" : ""} fill={saved ? "#ef4444" : "none"} />
-              </button>
+              <SaveHeartButton productId={product.id} productTitle={product.title} />
               <ShareButtons title={product.title} />
             </div>
           </div>
@@ -578,6 +530,7 @@ export function ProductDetail({
       {priceHistory && (
         <SectionCard
           className="detail-pricehistory"
+          delayMs={0}
           kicker="Seguimiento de precio"
           title="¿Cómo viene el precio?"
         >
@@ -591,7 +544,7 @@ export function ProductDetail({
 
       {/* ─── Pros / Cons + mosaicos de specs ─── */}
       {(product.pros || product.cons) && (
-        <SectionCard id="ficha-pros-contras" className="detail-proscons" kicker="El resumen honesto" title="A favor y en contra">
+        <SectionCard id="ficha-pros-contras" className="detail-proscons" delayMs={60} kicker="El resumen honesto" title="A favor y en contra">
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
             {product.pros && (
               <div className="rounded-[var(--radius-badge)] p-4 bg-[rgba(22,163,74,0.08)] border border-[rgba(22,163,74,0.22)]">
@@ -644,7 +597,7 @@ export function ProductDetail({
 
       {/* ─── Comparar con otros modelos (tabla con estrellas + botón) ─── */}
       {relatedProducts.length > 0 && (
-        <SectionCard id="ficha-comparar" className="detail-related" kicker="Compará" title="Comparar con otros modelos">
+        <SectionCard id="ficha-comparar" className="detail-related" delayMs={120} kicker="Compará" title="Comparar con otros modelos">
           <div className="-mx-1 overflow-x-auto">
             <table className="w-full text-sm min-w-[480px]">
               <thead>
@@ -725,7 +678,7 @@ export function ProductDetail({
 
       {/* ─── ¿Para quién es? (extraído del artículo) ─── */}
       {(paraYes || paraNo) && (
-        <SectionCard className="detail-parawhom" kicker="¿Es para vos?" title="Para quién sí y para quién no">
+        <SectionCard className="detail-parawhom" delayMs={180} kicker="¿Es para vos?" title="Para quién sí y para quién no">
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
             {paraYes && (
               <div className="rounded-[var(--radius-badge)] p-4 bg-[rgba(22,163,74,0.08)] border border-[rgba(22,163,74,0.22)]">
@@ -749,7 +702,7 @@ export function ProductDetail({
 
       {/* ─── Article body ─── */}
       {articleBlocks.length > 0 && (
-        <SectionCard className="detail-article" kicker="El análisis">
+        <SectionCard className="detail-article" delayMs={240} kicker="El análisis">
           <div className="prose prose-sm max-w-none text-[var(--text-secondary)]">
             {articleBlocks.map((block, i) => {
               if (block.startsWith("## ")) {
@@ -785,7 +738,7 @@ export function ProductDetail({
 
       {/* ─── Customer reviews ─── */}
       {product.customerReviews && product.customerReviews.length > 0 && (
-        <SectionCard id="ficha-opiniones" className="detail-reviews" kicker="Voz del comprador" title="Lo que dicen los compradores">
+        <SectionCard id="ficha-opiniones" className="detail-reviews" delayMs={300} kicker="Voz del comprador" title="Lo que dicen los compradores">
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
             {product.customerReviews.map((review, i) => (
               <figure
@@ -814,7 +767,7 @@ export function ProductDetail({
 
       {/* ─── Specs table ─── */}
       {product.specs && product.specs.length > 0 && (
-        <SectionCard id="ficha-specs" className="detail-specs" kicker="Ficha técnica" title="Especificaciones">
+        <SectionCard id="ficha-specs" className="detail-specs" delayMs={360} kicker="Ficha técnica" title="Especificaciones">
           <div className="rounded-[var(--radius-badge)] border border-[var(--border)] overflow-hidden">
             <table className="w-full text-sm">
               <tbody>
@@ -839,7 +792,7 @@ export function ProductDetail({
 
       {/* ─── FAQ ─── */}
       {product.faq && product.faq.length > 0 && (
-        <SectionCard id="ficha-faq" className="detail-faq" kicker="Antes de comprar" title="Preguntas frecuentes">
+        <SectionCard id="ficha-faq" className="detail-faq" delayMs={420} kicker="Antes de comprar" title="Preguntas frecuentes">
           <div className="space-y-3">
             {product.faq.map((item) => (
               <details
@@ -866,8 +819,8 @@ export function ProductDetail({
       {(product.articleBody || product.faq) && (
         <div
           id="product-bottom-cta"
-          className="detail-cta-band mt-10 max-w-3xl mx-auto rounded-[var(--radius-card)] p-7 md:p-8 text-center bg-[#111111]"
-          style={{ opacity: 0 }}
+          className="detail-reveal detail-cta-band mt-10 max-w-3xl mx-auto rounded-[var(--radius-card)] p-7 md:p-8 text-center bg-[#111111]"
+          style={{ animationDelay: "480ms" }}
         >
           <p className="text-lg font-bold text-white" style={{ fontFamily: "var(--font-display)" }}>
             {product.priceStatus === "out_of_stock" ? "¿Sin stock justo ahora?" : "¿Te convenció?"}

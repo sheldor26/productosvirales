@@ -277,6 +277,18 @@ h1, h2, h3, h4, h5, h6 {
   .hero-rise { animation: none; opacity: 1; transform: none; }
 }
 
+/* ─── Ficha de producto: reveal escalonado (replaces GSAP timeline) ──── */
+@keyframes detail-reveal {
+  from { opacity: 0; transform: translateY(20px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.detail-reveal {
+  animation: detail-reveal 400ms ease-out both;
+}
+@media (prefers-reduced-motion: reduce) {
+  .detail-reveal { animation: none; opacity: 1; transform: none; }
+}
+
 /* ─── Newsletter popup (modal centrado) ─────────────────────────────── */
 @keyframes overlay-fade {
   from { opacity: 0; }
