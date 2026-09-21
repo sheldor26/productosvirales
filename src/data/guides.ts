@@ -22731,7 +22731,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
         [`[Iluma Zenith DC](https://meli.la/2j5EPn1)`, `{{precio:MLA66266614}}`, `Retráctil, motor DC`, `LED 3 tonos + remoto`, `El único con motor DC confirmado`],
         [`[Axel 4 palas](https://meli.la/19LHBrY)`, `{{precio:MLA11828901}}`, `Clásico 4 palas, 5 vel.`, `Sí, 1 lámpara`, `Dormitorio en velocidades bajas`],
         [`[Liliana VTHI513](https://meli.la/1KwoBQf)`, `{{precio:MLA17380375}}`, `Clásico 3 palas, 1,4 m`, `Sí, 1 lámpara`, `Ambientes grandes y techos altos`],
-        [`[Protalia industrial](https://meli.la/PEGAR_MELI_LA)`, `{{precio:MLA57722520}}`, `Industrial`, `Sí, LED + interruptor`, `Quincho, galpón, taller`],
+        [`[Protalia industrial](https://meli.la/235rYPV)`, `{{precio:MLA57722520}}`, `Industrial`, `Sí, LED + interruptor`, `Quincho, galpón, taller`],
       ] },
 
       { type: "h2", title: `Cómo elegir tu ventilador de techo`, id: "como-elegir" },
@@ -22748,7 +22748,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
 
       { type: "h2", title: `Cuánto cuesta un ventilador de techo en Argentina [agosto 2026]`, id: "precios" },
       { type: "list", items: [
-        `**Alrededor de {{precio:MLA57722520:k}}:** el escalón más bajo de la guía, y es el [industrial Protalia](https://meli.la/PEGAR_MELI_LA) para quincho o galpón, con luz LED incluida. Sale poco porque no trae control remoto.`,
+        `**Alrededor de {{precio:MLA57722520:k}}:** el escalón más bajo de la guía, y es el [industrial Protalia](https://meli.la/235rYPV) para quincho o galpón, con luz LED incluida. Sale poco porque no trae control remoto.`,
         `**Alrededor de {{precio:MLA54423759:k}} a {{precio:MLA44033885:k}}:** los retráctiles con luz LED y control remoto, el formato que más creció. Acá se juega la compra de la mayoría: el [Novohome](https://meli.la/1sBAiap) (el más barato de los tres, con 1.992 opiniones), el [Iluma DC](https://meli.la/2j5EPn1) (motor DC confirmado, base de opiniones chica) y el [Etheos](https://meli.la/2qxbftx) (el de mayor diámetro de los retráctiles).`,
         `**Alrededor de {{precio:MLA11828901:k}} a {{precio:MLA17380375:k}}:** los clásicos de palas metálicas: el [Axel](https://meli.la/19LHBrY) (5 velocidades, dormitorio) y el [Liliana](https://meli.la/1KwoBQf) (1,4 m, el mayor caudal). Ojo con esto: los clásicos dejaron de ser lo barato, hoy el Liliana es el más caro de la guía.`,
         `**Sumá al presupuesto:** un soporte de techo decente (el incluido suele ser flojo) y, si querés luz independiente, verificá que lleguen 3 cables a la llave de pared.`,
