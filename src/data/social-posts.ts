@@ -4069,4 +4069,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "28",
     postedAt: "2026-09-21T18:43:33-03:00",
   },
+  {
+    title: "Lavarropas Philco 11kg Carga Frontal",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_661270-MLA115893908073_082026-O.webp",
+    affiliateUrl: "https://meli.la/18NiP4b",
+    newPrice: "734.999",
+    oldPrice: "1.199.999",
+    offPct: "38",
+    postedAt: "2026-09-21T19:09:40-03:00",
+  },
 ];
