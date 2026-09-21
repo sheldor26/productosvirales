@@ -4019,4 +4019,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "37",
     postedAt: "2026-09-21T12:03:21-03:00",
   },
+  {
+    title: "Samsung Galaxy A07 64GB Negro",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_657554-MLA116975789799_082026-O.webp",
+    affiliateUrl: "https://meli.la/116T81r",
+    newPrice: "183.999",
+    oldPrice: "299.999",
+    offPct: "38",
+    postedAt: "2026-09-21T16:53:25-03:00",
+  },
 ];
