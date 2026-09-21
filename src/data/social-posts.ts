@@ -3969,4 +3969,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "44",
     postedAt: "2026-09-21T09:28:57-03:00",
   },
+  {
+    title: "Máquina de Coser Portátil Eléctrica 12 Puntadas",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_613993-MLA108916959540_032026-O.webp",
+    affiliateUrl: "https://meli.la/1G2hMd2",
+    newPrice: "57.522",
+    oldPrice: "79.999",
+    offPct: "28",
+    postedAt: "2026-09-21T09:54:56-03:00",
+  },
 ];
