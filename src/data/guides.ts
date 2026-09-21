@@ -15807,7 +15807,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       },
       {
         type: "h2",
-        title: "Las 12"
+        title: "Las 11"
       },
       {
         type: "h3",
@@ -16010,7 +16010,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       },
       {
         type: "p",
-        content: "¿Viste un frasco y no te acordás el nombre? Tenemos [perfumes árabes por color del frasco](/guias/perfumes-arabes-por-color) para identificarlo rápido. Y si sos nueva en el nicho, arrancá por [nuestra guía para empezar con perfumes árabes](/guias/perfumes-arabes)."
+        content: "¿Viste un frasco y no te acordás el nombre? Tenemos [perfumes árabes por color del frasco](/guias/perfumes-arabes-por-color) para identificarlo rápido. Y si sos nueva en el nicho, arrancá por [nuestra guía para empezar con perfumes árabes](/guias/perfumes-arabes). ¿Elegís para él? Tenemos el ranking de [perfumes árabes de hombre](/guias/mejores-perfumes-arabes-hombre) aparte."
       },
       {
         type: "h2",
@@ -16039,7 +16039,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       {
         type: "list",
         items: [
-          "[Lattafa: guía de la marca](/guias/lattafa-guia-marca) (porque 8 de los 12 de esta lista son Lattafa)",
+          "[Lattafa: guía de la marca](/guias/lattafa-guia-marca) (porque 10 de las 11 de esta lista son Lattafa)",
           "[Perfumes árabes originales: cómo identificarlos](/guias/perfumes-arabes-originales)",
           "[Guía completa de perfumes árabes](/guias/perfumes-arabes)"
         ]
@@ -17305,8 +17305,8 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     sections: [
       {
         type: "image",
-        src: "/images/perfumes-imagenes/19-Lattafa-HerConfession-100ml.webp",
-        alt: "Lattafa Her Confession, perfume árabe blanco con dorado: el frasco blanco con detalles dorados que más se busca por su color",
+        src: "/images/perfumes-imagenes/perfume-arabe-blanco-dorado-lattafa-her-confession-100ml.webp",
+        alt: "Perfume árabe blanco con dorado Lattafa Her Confession: el frasco blanco con busto dorado que más se busca por su color",
         imageSize: "hero"
       },
       {
@@ -17717,7 +17717,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       },
       {
         type: "p",
-        content: "Estos cuatro cubren los clones masculinos más pedidos. Si querés el panorama completo de la categoría [perfumes árabes de hombre](/guias/mejores-perfumes-arabes-hombre) más allá de los dupes, el ranking general ordena todo el segmento."
+        content: "Estos cuatro cubren los clones masculinos más pedidos. Si querés el panorama completo de la categoría [perfume árabe hombre](/guias/mejores-perfumes-arabes-hombre) más allá de los dupes, el ranking general ordena todo el segmento."
       },
       {
         type: "h2",
@@ -18377,7 +18377,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       },
       {
         type: "p",
-        content: "El perfume árabe de hombre más vendido en Argentina es el Rasasi Hawas Ice (9.144 reseñas, 4.8⭐). Le siguen: **Asad Intense** (7.245, 4.6⭐) y **Afnan 9PM Elixir** (1.060, 4.8⭐). Los tres en familias olfativas distintas: Hawas Ice es fresco-frutal-acuático, Asad Intense es especiado-amaderado, 9PM Elixir es gourmand-oriental. Para profundizar en cada uno y conocer otras alternativas masculinas, ver el ranking completo de [perfumes árabes de hombre](/guias/mejores-perfumes-arabes-hombre)."
+        content: "El perfume árabe de hombre más vendido en Argentina es el Rasasi Hawas Ice (9.144 reseñas, 4.8⭐). Le siguen: **Asad Intense** (7.245, 4.6⭐) y **Afnan 9PM Elixir** (1.060, 4.8⭐). Los tres en familias olfativas distintas: Hawas Ice es fresco-frutal-acuático, Asad Intense es especiado-amaderado, 9PM Elixir es gourmand-oriental. Para profundizar en cada uno y conocer otras alternativas masculinas, ver el ranking completo de [perfume árabe hombre](/guias/mejores-perfumes-arabes-hombre)."
       },
       {
         type: "h2",
