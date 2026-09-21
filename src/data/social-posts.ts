@@ -3999,4 +3999,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "28",
     postedAt: "2026-09-21T10:47:04-03:00",
   },
+  {
+    title: "Licuadora Moulinex Powermix 8 Velocidades 2L",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_885454-MLA100016698107_122025-O.webp",
+    affiliateUrl: "https://meli.la/2Y66uwT",
+    newPrice: "53.999",
+    oldPrice: "82.999",
+    offPct: "34",
+    postedAt: "2026-09-21T11:13:13-03:00",
+  },
 ];
