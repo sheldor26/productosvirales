@@ -3989,4 +3989,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "63",
     postedAt: "2026-09-21T10:21:01-03:00",
   },
+  {
+    title: "Cepillo Secador Alisador Ondulador 5en1 Bellissima Italia",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_678222-MLA99518309512_112025-O.webp",
+    affiliateUrl: "https://meli.la/2taSj3s",
+    newPrice: "79.477",
+    oldPrice: "110.709",
+    offPct: "28",
+    postedAt: "2026-09-21T10:47:04-03:00",
+  },
 ];
