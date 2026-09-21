@@ -30,7 +30,7 @@ export function Header() {
 
   const handleSearch = (query: string) => {
     setSearchOpen(false);
-    router.push(`/?q=${encodeURIComponent(query)}`);
+    router.push(`/buscar?q=${encodeURIComponent(query)}`);
   };
 
   useEffect(() => {

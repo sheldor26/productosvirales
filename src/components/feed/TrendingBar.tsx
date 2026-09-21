@@ -8,9 +8,10 @@ interface MLTrend {
 }
 
 // Las pills buscan en NUESTRO catálogo (retención + no fuga de link juice a ML).
-// La home ya filtra por ?q= (ver src/app/page.tsx). Antes apuntaban directo a
-// listado.mercadolibre.com.ar, sacando al usuario y a Google del sitio.
-const toInternal = (keyword: string) => `/?q=${encodeURIComponent(keyword)}`;
+// Apuntan a /buscar, que filtra server-side y suma filtros reales (ver
+// src/app/buscar/page.tsx). Antes apuntaban directo a listado.mercadolibre.com.ar,
+// sacando al usuario y a Google del sitio.
+const toInternal = (keyword: string) => `/buscar?q=${encodeURIComponent(keyword)}`;
 
 // Términos curados que mapean a productos reales de nuestros nichos (para que la
 // búsqueda interna no caiga vacía como pasaría con "notebook" o "celulares").

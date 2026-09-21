@@ -7,7 +7,7 @@ import { SearchX, Scale } from "lucide-react";
 import { CategoryTabs } from "@/components/feed/CategoryTabs";
 import { ProductGrid } from "@/components/products/ProductGrid";
 import { ComparisonTable } from "@/components/products/ComparisonTable";
-import { normalizeSearch, fuzzyWordMatch } from "@/lib/utils";
+import { filterBySearch } from "@/lib/utils";
 import { sortProducts, SORT_LABELS, type SortOption } from "@/lib/product-sort";
 import { useProductCompare } from "@/lib/use-product-compare";
 import { categories } from "@/data/categories";
@@ -34,7 +34,8 @@ export function HomeFeed({ products }: HomeFeedProps) {
   // Leído acá (client, dentro del <Suspense> de page.tsx) en vez de vía prop
   // del servidor: así page.tsx no depende de `searchParams` y la home entera
   // puede cachearse/prerenderizarse en vez de renderizarse de cero en cada visita.
-  // Al buscar, el Header hace router.push("/?q=...") y esto reacciona solo.
+  // El destino principal de búsqueda es /buscar (Header y trending pills apuntan
+  // ahí); esto queda como fallback para links/bookmarks viejos con /?q=.
   const searchParams = useSearchParams();
   const searchQuery = searchParams.get("q")?.trim() || "";
 
@@ -44,17 +45,8 @@ export function HomeFeed({ products }: HomeFeedProps) {
   const [pageResetKey, setPageResetKey] = useState(`${activeCategory}|${searchQuery}`);
 
   const filteredProducts = useMemo(() => {
-    // Búsqueda: matchea todas las palabras contra el haystack precomputado.
     if (searchQuery.trim()) {
-      const words = normalizeSearch(searchQuery.trim()).split(/\s+/);
-      const exact = products.filter((p) => words.every((word) => p.search.includes(word)));
-      if (exact.length > 0) return exact;
-      // Sin resultados exactos: reintentar tolerando errores de tipeo chicos
-      // (ej. "microondaz") en vez de mostrar la búsqueda vacía directo.
-      return products.filter((p) => {
-        const haystackWords = p.search.split(/\s+/);
-        return words.every((word) => fuzzyWordMatch(word, haystackWords));
-      });
+      return filterBySearch(products, searchQuery);
     }
 
     if (activeCategory === "todos") {

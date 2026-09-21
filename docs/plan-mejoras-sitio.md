@@ -48,11 +48,12 @@ Orden por impacto/esfuerzo. Nada del stack base se toca sin OK de Juan (regla 4 
   - Pasos: apuntar a `/buscar?q=...` interno (depende de 2.3).
   - Riesgo: **bajo–medio**.
 
-- [ ] **2.3 Buscador interno `/buscar` con filtros reales**
-  - Por qué: retención, más páginas indexables, y destino para las trending pills. Los dos auditores lo piden. Ya existe `/api/search`.
-  - Archivos: nueva ruta `src/app/buscar/page.tsx` (server), índice server-only desde `curated-products` (NO búsqueda client sobre todo el catálogo).
-  - Pasos: página server con filtros (categoría, precio, rating, envío, priceStatus, descuento, orden).
-  - Riesgo: **medio** (feature nueva). Cuidar de no meter el catálogo entero al cliente (ligado a 3.1).
+- [x] **2.3 Buscador interno `/buscar` con filtros reales** ✅ 2026-09-21 — decisión: `noindex,follow` (no "más páginas indexables" como proponía la auditoría original; ver nota abajo) y se migró el Header + trending pills como destino principal.
+  - Por qué: retención y destino real para el buscador del header y las trending pills (antes reusaban la home vía `/?q=`, mezclando el rol de feed editorial con el de resultados de búsqueda). Ya existía `/api/search`, pero confirmado que es la API de MercadoLibre en vivo para herramientas de import (`requireSecret`), no sirve para esto — se usa el catálogo propio (`getVisibleProducts`/`toFeedCard`, igual que `/categoria/[slug]`).
+  - **Decisión de indexación (distinta a la propuesta original del audit):** se optó por `robots: { index: false, follow: true }` en vez de indexable — mismo criterio que `/guardados`. Evita el riesgo de miles de combinaciones de query con poco contenido único compitiendo/diluyendo la autoridad de un sitio DA1; las guías y categorías siguen siendo la superficie indexable.
+  - Archivos: `src/app/buscar/page.tsx` (Server Component nuevo), `src/components/search/BuscarSearchBox.tsx` (wrapper cliente de `SearchInput` para el submit), `src/lib/utils.ts` (`filterBySearch` extraído del matcher que ya usaba `HomeFeed`, para reusarlo server + client sin duplicar el algoritmo), `src/components/feed/HomeFeed.tsx` (llama al helper extraído, mismo comportamiento), `src/components/layout/Header.tsx` y `src/components/feed/TrendingBar.tsx` (destino cambiado de `/?q=` a `/buscar?q=`). El filtrado de precio/rating/envío/descuento/marca/orden lo sigue dando `SortableProductGrid` (ya existía, reusado tal cual — cero UI de filtros nueva).
+  - `?q=` en la home (`HomeFeed.tsx`) se dejó funcionando igual que antes (no se rompen bookmarks/links viejos), solo dejó de ser el destino primario.
+  - Riesgo: bajo en la práctica — casi todo el código nuevo es una página + un wrapper chico; la lógica de filtros, el DTO y el matcher de búsqueda ya existían y se reutilizaron.
 
 ---
 

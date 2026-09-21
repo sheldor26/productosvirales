@@ -69,3 +69,20 @@ export function fuzzyWordMatch(queryWord: string, haystackWords: string[]): bool
   const tolerance = queryWord.length <= 6 ? 1 : 2;
   return haystackWords.some((hw) => levenshteinWithinTolerance(queryWord, hw, tolerance) <= tolerance);
 }
+
+/** Filtra productos con haystack precomputado (`FeedCard.search`) por una query
+ * de búsqueda: match exacto de todas las palabras primero, y si eso no
+ * encuentra nada, reintenta tolerando typos chicos vía `fuzzyWordMatch`. Vive
+ * acá (no en products.ts, que es server-only) para poder usarse tanto en
+ * Server Components (/buscar) como en client components (HomeFeed). */
+export function filterBySearch<T extends { search: string }>(products: T[], rawQuery: string): T[] {
+  const query = rawQuery.trim();
+  if (!query) return products;
+  const words = normalizeSearch(query).split(/\s+/);
+  const exact = products.filter((p) => words.every((word) => p.search.includes(word)));
+  if (exact.length > 0) return exact;
+  return products.filter((p) => {
+    const haystackWords = p.search.split(/\s+/);
+    return words.every((word) => fuzzyWordMatch(word, haystackWords));
+  });
+}
