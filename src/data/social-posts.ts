@@ -4049,4 +4049,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "42",
     postedAt: "2026-09-21T17:50:21-03:00",
   },
+  {
+    title: "Cama Elástica 3.05m Proshop",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_640499-MLA108913221796_032026-O.webp",
+    affiliateUrl: "https://meli.la/2PaaJJu",
+    newPrice: "319.905",
+    oldPrice: "399.999",
+    offPct: "20",
+    postedAt: "2026-09-21T18:16:25-03:00",
+  },
 ];
