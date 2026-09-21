@@ -4029,4 +4029,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "38",
     postedAt: "2026-09-21T16:53:25-03:00",
   },
+  {
+    title: "Termotanque Eléctrico Thermex 30L",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_913153-MLA115193879953_072026-O.webp",
+    affiliateUrl: "https://meli.la/2PG4sb2",
+    newPrice: "260.948",
+    oldPrice: "378.900",
+    offPct: "31",
+    postedAt: "2026-09-21T17:24:06-03:00",
+  },
 ];
