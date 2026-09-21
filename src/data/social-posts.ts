@@ -3949,4 +3949,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "56",
     postedAt: "2026-09-21T08:36:44-03:00",
   },
+  {
+    title: "Colchón 1 Plaza Fika Pocket 80x190 20cm",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_989725-MLA105597362748_012026-O.webp",
+    affiliateUrl: "https://meli.la/2ac4GYV",
+    newPrice: "199.999",
+    oldPrice: "299.999",
+    offPct: "33",
+    postedAt: "2026-09-21T09:02:56-03:00",
+  },
 ];
