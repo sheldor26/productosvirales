@@ -3959,4 +3959,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "33",
     postedAt: "2026-09-21T09:02:56-03:00",
   },
+  {
+    title: "Desmalezadora Motoguadaña 52cc Omaha 3HP",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_654838-MLA114596967418_082026-O.webp",
+    affiliateUrl: "https://meli.la/2YQ8Q94",
+    newPrice: "146.911",
+    oldPrice: "264.581",
+    offPct: "44",
+    postedAt: "2026-09-21T09:28:57-03:00",
+  },
 ];
