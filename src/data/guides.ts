@@ -751,6 +751,131 @@ export const guides: Guide[] = [
       { label: `Casio CT-S100: ficha y opiniones`, href: `/producto/teclado-musical-casio-casiotone-ct-s100-mla16109682` },
       { label: `Casio CTK-3500: ficha y opiniones`, href: `/producto/teclado-musical-casio-ctk-3500-mla16107361` },
       { label: `Yamaha PSR-E383: ficha y opiniones`, href: `/producto/teclado-musical-yamaha-psr-e383-mla44710176` },
+      { label: `Teclado musical: cuál comprar (guía comparativa)`, href: `/guias/musica/teclado-musical-cual-comprar` },
+    ],
+  },
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva teclado-musical-cual-comprar — silo musica.
+  // Origen: checklist SEO semanal 2026-09-21, punto 6. Keyword
+  // "teclado musical" validada en Ubersuggest (4.400/mes, Argentina,
+  // SEO difficulty 8/100, intención Transactional) y cruzada en Google
+  // Ads Keyword Planner (4.400/mes exacto, mismo número, alta
+  // confianza). "teclados musicales" 590/mes en ambas fuentes también.
+  // teclado-musical-precio (705 impresiones, 1 clic, keyword "teclado
+  // musical" en posición 8) es guía de PRECIOS, no de DECISIÓN — no
+  // matchea la intención de quien busca "teclado musical" a secas.
+  // Esta es la guía comparativa/de decisión, con teclado-musical-precio
+  // como spoke (mismos 6 productos reales, sin sourcing nuevo, pero
+  // organizados por "cuál te conviene" en vez de "de menor a mayor
+  // precio", con prosa distinta para no ser un duplicado).
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "teclado-musical-cual-comprar",
+    category: "teclados",
+    silo: "musica",
+    pillar: true,
+    title: `Teclado musical: cuál comprar en Argentina [2026]`,
+    seoTitle: `Teclado Musical: Cuál Comprar en Argentina [2026]`,
+    metaDescription: `¿Qué teclado musical comprar? Comparamos 6 modelos con stock real en MercadoLibre: para arrancar, para quien ya sabe que va a seguir, y el error más común al elegir uno.`,
+    ogTitle: `Teclado musical: cuál comprar en Argentina`,
+    ogDescription: `La Casio CTK-3500 es la compra más segura: respuesta al tacto confirmada y la base de calificaciones más grande de esta comparativa. Te mostramos las otras 5 opciones y el error más común al elegir.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_809301-MLA99941677023_112025-O.webp`,
+    h1: `Teclado musical: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene la **[Casio CTK-3500](/producto/teclado-musical-casio-ctk-3500-mla16107361)** (alrededor de {{precio:MLA16107361:k}}): es una marca real de teclados, declara **respuesta al tacto** de forma explícita en su ficha técnica (las teclas responden a cómo las tocás, no todas suenan igual de fuerte) y tiene la base de calificaciones más grande de esta comparativa. Si estás recién probando si te va a gustar, el **[Dyvan T61](/producto/teclado-musical-electronico-dyvan-t61-con-atril-mla63579452)** (alrededor de {{precio:MLA63579452:k}}) trae atril, cable USB y micrófono en la caja. Y si el presupuesto da para más, la **[Yamaha PSR-E383](/producto/teclado-musical-yamaha-psr-e383-mla44710176)** suma grabador y más tonos. Ojo con uno: hay una publicación que se vende como **"Sensitivo"** en el propio nombre, pero su ficha técnica no confirma esa función — no es la que recomendamos si la respuesta al tacto te importa de verdad.`,
+    publishedDate: "2026-09-21",
+    updatedDate: "2026-09-21",
+    hasDisclosure: true,
+    readingTime: 9,
+    standfirst: `"Teclado musical" es de las búsquedas más grandes de instrumentos en Argentina, y la respuesta que da MercadoLibre es una grilla larga de precios sin explicar cuál conviene según tu caso. Comparamos 6 teclados con stock real, organizados por decisión (para arrancar, para quien ya sabe que va a seguir, para quien quiere marca) en vez de solo por precio, con el error más común a evitar al elegir uno.`,
+    quickPicks: [
+      { productMlaId: "MLA16107361", label: "Mejor elección general", labelColor: "green", tagline: "Casio CTK-3500: respuesta al tacto confirmada y la base de opiniones más grande" },
+      { productMlaId: "MLA63579452", label: "Para arrancar sin gastar de más", labelColor: "blue", tagline: "Dyvan T61: trae atril, cable USB y micrófono en la caja" },
+      { productMlaId: "MLA44710176", label: "Si querés más funciones", labelColor: "purple", tagline: "Yamaha PSR-E383: grabador, ranura de memoria y más tonos que cualquiera de las dos Casio" },
+      { productMlaId: "MLA19783697", label: "El más económico", labelColor: "slate", tagline: "Gadnic 54 teclas: el piso de precio de esta comparativa" },
+    ],
+    intro: [
+      `Buscar "teclado musical" en Google te tira una grilla de precios de MercadoLibre sin decirte cuál conviene según tu caso: no es lo mismo comprarlo para probar si te va a gustar que para alguien que ya toma clases. Esta guía va directo a esa decisión, con 6 teclados que verificamos con stock real en MercadoLibre Argentina.`,
+      `El dato que más pesa, y que casi ninguna publicación aclara en el título, es si el teclado tiene **respuesta al tacto** (también llamada dinámica o teclas sensitivas): que las notas suenen más fuerte o más suave según cómo las toques, en vez de sonar todas igual. De los 6 que comparamos, solo tres lo declaran de forma explícita en su ficha técnica, y hay uno que lo promete en el nombre de la publicación sin confirmarlo. Te mostramos cuál es cuál.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_809301-MLA99941677023_112025-O.webp", alt: `Teclado musical Yamaha PSR-E383, el más completo de esta comparativa`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, la **[Casio CTK-3500](/producto/teclado-musical-casio-ctk-3500-mla16107361)**: marca real, respuesta al tacto confirmada en su ficha y la base de calificaciones más grande de esta comparativa. Para arrancar gastando lo mínimo, el **[Dyvan T61](/producto/teclado-musical-electronico-dyvan-t61-con-atril-mla63579452)**, que trae atril, cable USB y micrófono. Si el presupuesto da para más, la **[Yamaha PSR-E383](/producto/teclado-musical-yamaha-psr-e383-mla44710176)**. Y cuidado con la publicación que se vende como "Sensitivo" en el nombre: su ficha técnica no confirma esa función.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** verificamos 6 teclados musicales con stock real en MercadoLibre Argentina, leyendo la ficha técnica completa de cada uno (no solo el título de la publicación). Los ordenamos según a quién le conviene cada uno, no solo de menor a mayor precio: para quien recién arranca, para quien ya sabe que va a seguir, y para quien busca marca. El detalle completo de precios está en nuestra [guía de precios de teclado musical](/guias/musica/teclado-musical-precio). Los precios se revisan contra MercadoLibre tres veces por semana.` },
+
+      { type: "h2", title: `El error más común al elegir un teclado musical`, id: "el-error" },
+      { type: "p", content: `El error más común es no fijarse si el teclado tiene **respuesta al tacto** antes de comprar. Sin esa función, todas las notas suenan con el mismo volumen sin importar si apretás suave o fuerte: es la diferencia entre un teclado y un órgano de juguete. Se puede aprender a leer partituras igual, pero nunca vas a poder tocar una nota fuerte y la siguiente suave, algo central en cualquier instrumento de teclas en serio.` },
+      { type: "p", content: `De los 6 que comparamos, solo tres lo declaran de forma explícita en su ficha técnica: la Casio CT-S100 dice que no, y la Casio CTK-3500 y la Yamaha PSR-E383 dicen que sí. Los dos de entrada (Gadnic y Dyvan) simplemente no lo listan en su ficha, y hay un tercero, el Parquer K186BK, que lo promete en el nombre de la publicación ("Sensitivo") sin confirmarlo en ningún campo de su ficha técnica. Si nunca tocaste y estás probando si te va a gustar, no hay drama en pagar de menos y arrancar sin esa función. Pero si ya sabés que vas a seguir, conviene pagar el salto hasta una ficha que la confirme.` },
+
+      { type: "h2", title: `Cuál teclado musical conviene según tu caso`, id: "ranking" },
+
+      { type: "h3", title: `1. Casio CTK-3500 — mejor elección general` },
+      { type: "product-card", productMlaId: "MLA16107361", label: "Mejor elección general", labelColor: "green", ranking: 1, description: `61 teclas con respuesta al tacto declarada, 400 tonos y 100 ritmos. {{rating:MLA16107361}} estrellas en {{reviews:MLA16107361}} calificaciones, la base más grande de esta comparativa.` },
+      { type: "p", content: `Es la compra más segura de esta comparativa. La **[Casio CTK-3500](https://meli.la/27RR6Du)** es una marca real de teclados (no un genérico), declara **respuesta al tacto** de forma explícita en su ficha ("Sí"), y tiene {{reviews:MLA16107361}} calificaciones a {{rating:MLA16107361}} estrellas: la base más grande de los 6 que comparamos. Suma 400 tonos, 100 ritmos y polifonía de 48 notas, a alrededor de {{precio:MLA16107361:k}}.` },
+      { type: "p", content: `La única contra real: su ficha declara que el adaptador de corriente **no está incluido**, así que sumalo al presupuesto. Fuera de eso, es el punto de partida lógico si querés un teclado real sin pagar el escalón de Yamaha.` },
+
+      { type: "h3", title: `2. Dyvan T61 — para arrancar sin gastar de más` },
+      { type: "product-card", productMlaId: "MLA63579452", label: "Para arrancar sin gastar de más", labelColor: "blue", ranking: 2, description: `61 teclas con atril, cable USB y micrófono incluidos. {{rating:MLA63579452}} estrellas en {{reviews:MLA63579452}} calificaciones.` },
+      { type: "p", content: `Si estás probando si te va a gustar y no querés gastar de más, es la opción lógica: **[Dyvan T61](https://meli.la/2SHynQ7)**, 61 teclas completas (la medida estándar) con atril, cable USB y micrófono incluidos según su propia ficha, a alrededor de {{precio:MLA63579452:k}}. Es el que más trae en la caja de las dos opciones más baratas de esta comparativa.` },
+      { type: "p", content: `La contra: tiene apenas {{reviews:MLA63579452}} calificaciones, la base más chica de los 6, así que conviene tomar su {{rating:MLA63579452}} de rating con cautela. Y como toda la entrada, su ficha no declara respuesta al tacto.` },
+
+      { type: "h3", title: `3. Yamaha PSR-E383 — si querés más funciones` },
+      { type: "product-card", productMlaId: "MLA44710176", label: "Si querés más funciones", labelColor: "purple", ranking: 3, description: `Respuesta al tacto, grabador y 650 tonos. {{rating:MLA44710176}} estrellas en {{reviews:MLA44710176}} calificaciones.` },
+      { type: "p", content: `Si el presupuesto da para más, la **[Yamaha PSR-E383](https://meli.la/2rCRsof)** es la marca de mayor trayectoria de esta comparativa (Yamaha fabrica teclados hace más de un siglo). Declara respuesta al tacto igual que la CTK-3500, y suma 650 tonos, grabador incorporado y ranura para tarjeta de memoria, cosas que ninguna de las dos Casio tiene, a alrededor de {{precio:MLA44710176:k}}.` },
+      { type: "p", content: `Es la más cara de las 6 por lejos, y hay un dato de su ficha que no cierra: declara 107 cm de altura y 43 cm de ancho para un teclado de 61 teclas, cuando lo esperable es lo contrario. No lo publicamos como dato confiable; si el tamaño te importa, confirmalo con el vendedor antes de comprar.` },
+
+      { type: "h3", title: `4. Casio CT-S100 — marca real, sin respuesta al tacto` },
+      { type: "product-card", productMlaId: "MLA16109682", label: "Marca real, sin respuesta al tacto", labelColor: "purple", ranking: 4, description: `Marca de referencia mundial, pero su ficha declara que no tiene respuesta al tacto. {{rating:MLA16109682}} estrellas en {{reviews:MLA16109682}} calificaciones.` },
+      { type: "p", content: `Es la entrada real a Casio, con {{rating:MLA16109682}} estrellas (empata el rating más alto de esta comparativa junto con la Yamaha) y 122 tonos con metrónomo incorporado. Pero su propia ficha aclara sin vueltas: **declara explícitamente que no tiene respuesta al tacto**. Tiene sentido si buscás la marca Casio por nombre y no te importa esa función; si te importa, andá directo a la CTK-3500.` },
+
+      { type: "h3", title: `5. Gadnic 54 teclas — el más económico` },
+      { type: "product-card", productMlaId: "MLA19783697", label: "El más económico", labelColor: "slate", ranking: 5, description: `54 teclas con pantalla LED. {{reviews:MLA19783697}} calificaciones, la base más grande del tramo de entrada.` },
+      { type: "p", content: `Es el piso de precio de esta comparativa, a alrededor de {{precio:MLA19783697:k}}, con la base de opiniones más sólida de las dos entradas ({{reviews:MLA19783697}} calificaciones) y pantalla LED para ver el ritmo y el tono seleccionado.` },
+      { type: "p", content: `La contra real es el tamaño: **54 teclas**, menos que las 61 estándar del resto de esta comparativa. Si pensás tocar partituras completas más adelante, te vas a quedar corto de teclado antes que de presupuesto. Tampoco declara respuesta al tacto.` },
+
+      { type: "h3", title: `6. Parquer K186BK — cuidado con este` },
+      { type: "product-card", productMlaId: "MLA19783696", label: "Cuidado con este", labelColor: "amber", ranking: 6, description: `Se vende como "Sensitivo" en el nombre, pero su ficha técnica no confirma esa función. {{rating:MLA19783696}} estrellas en {{reviews:MLA19783696}} calificaciones.` },
+      { type: "p", content: `61 teclas completas, MIDI y 300 ritmos incorporados, con {{reviews:MLA19783696}} calificaciones y {{rating:MLA19783696}} estrellas: en papel, tiene la base y el rating más altos de todo el tramo por debajo de Casio, a alrededor de {{precio:MLA19783696:k}}.` },
+      { type: "callout", calloutVariant: "warning", calloutTitle: "\"Sensitivo\" es el nombre, no un dato confirmado", content: `El título de esta publicación la vende como **"Sensitivo"**, la palabra que se usa justamente para la respuesta al tacto. Pero su ficha técnica **no tiene ese campo declarado**: no dice ni que sí la tenga ni que no. No lo publicamos como dato porque el nombre de una publicación no es una spec verificada. Si la respuesta al tacto te importa de verdad, elegí directo la Casio CTK-3500 o la Yamaha, que sí la declaran de forma explícita en su ficha.` },
+
+      { type: "h2", title: `Tabla comparativa: cuál teclado según tu caso`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Teclado`, `Precio`, `Respuesta al tacto`, `Conviene si...`], rows: [
+        [`[Casio CTK-3500](https://meli.la/27RR6Du)`, `{{precio:MLA16107361}}`, `**Sí**, declarado`, `Querés la compra más segura`],
+        [`[Dyvan T61](https://meli.la/2SHynQ7)`, `{{precio:MLA63579452}}`, `Su ficha no lo lista`, `Estás probando si te va a gustar`],
+        [`[Yamaha PSR-E383](https://meli.la/2rCRsof)`, `{{precio:MLA44710176}}`, `**Sí**, declarado`, `El presupuesto da para más funciones`],
+        [`[Casio CT-S100](https://meli.la/1SqpgaY)`, `{{precio:MLA16109682}}`, `**No**, declarado`, `Buscás la marca Casio por nombre`],
+        [`[Gadnic 54 teclas](https://meli.la/2F4qpyn)`, `{{precio:MLA19783697}}`, `Su ficha no lo lista`, `El precio es lo único que importa`],
+        [`[Parquer K186BK](https://meli.la/1uYvFh2)`, `{{precio:MLA19783696}}`, `Se vende como "Sensitivo", no confirmado`, `Nunca, si te importa la respuesta al tacto`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir según tu caso`, id: "como-elegir" },
+      { type: "h3", title: `Si nunca tocaste y estás probando` },
+      { type: "p", content: `Andá al tramo de entrada sin culpa: el **[Dyvan T61](/producto/teclado-musical-electronico-dyvan-t61-con-atril-mla63579452)** trae atril, cable USB y micrófono en la caja, y la **[Gadnic](/producto/teclado-organo-electronico-gadnic-54-teclas-con-pantalla-led-mla19783697)** es todavía más barata (aunque con menos teclas). Ninguna de las dos declara respuesta al tacto, y en esta etapa no hace falta que la tenga.` },
+      { type: "h3", title: `Si ya sabés que vas a seguir, o es para alguien que estudia` },
+      { type: "p", content: `Ahí el piso real es la **[Casio CTK-3500](/producto/teclado-musical-casio-ctk-3500-mla16107361)**: declara respuesta al tacto de forma explícita, es la más elegida de las 6 y sale menos que la Yamaha. Si el presupuesto da para más, la **[Yamaha PSR-E383](/producto/teclado-musical-yamaha-psr-e383-mla44710176)** suma grabador y más tonos.` },
+      { type: "h3", title: `Si te ofrecen algo "Sensitivo" a buen precio` },
+      { type: "p", content: `Fijate si esa palabra aparece en el **nombre de la publicación** o en un **campo de la ficha técnica**. Son cosas distintas: el nombre lo pone el vendedor, la ficha técnica es el dato estructurado. La **[Parquer K186BK](/producto/teclado-parquer-k186bk-61-teclas-sensitivo-master-mla19783696)** de esta comparativa es el ejemplo real: se vende como "Sensitivo" en el título, pero su ficha no lo confirma en ningún campo.` },
+
+      { type: "h2", title: `Veredicto: cuál teclado musical comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la mayoría, la **[Casio CTK-3500](/producto/teclado-musical-casio-ctk-3500-mla16107361)**: marca real, respuesta al tacto confirmada en su ficha y la base de calificaciones más grande de esta comparativa. Si estás probando si te va a gustar, el **[Dyvan T61](/producto/teclado-musical-electronico-dyvan-t61-con-atril-mla63579452)** trae más en la caja por menos plata. Si el presupuesto da para más, la **[Yamaha PSR-E383](/producto/teclado-musical-yamaha-psr-e383-mla44710176)** suma funciones que ninguna Casio de esta comparativa tiene. El error a evitar: comprar algo que se vende como "Sensitivo" en el nombre sin chequear si esa función está confirmada en la ficha técnica, como pasa con la [Parquer K186BK](/producto/teclado-parquer-k186bk-61-teclas-sensitivo-master-mla19783696) de esta comparativa. Para el detalle de precios de los 6, mirá nuestra [guía de precios de teclado musical](/guias/musica/teclado-musical-precio).` },
+    ],
+    faq: [
+      { question: `¿Qué teclado musical conviene comprar en Argentina?`, answer: `Para la mayoría, la [Casio CTK-3500](https://meli.la/27RR6Du): marca real, respuesta al tacto confirmada en su ficha técnica y la base de calificaciones más grande entre los 6 que comparamos. Si estás probando si te va a gustar, el [Dyvan T61](https://meli.la/2SHynQ7) trae atril, cable USB y micrófono en la caja por menos plata.` },
+      { question: `¿Cuál es la diferencia entre un teclado con y sin respuesta al tacto?`, answer: `Con respuesta al tacto, las notas suenan más fuerte o más suave según cómo las toques, como en un instrumento real. Sin ella, todas las notas suenan igual de fuerte sin importar la fuerza con la que apretás, más parecido a un órgano de juguete. De los 6 que comparamos, solo la Casio CTK-3500 y la Yamaha PSR-E383 la declaran de forma explícita como "Sí" en su ficha.` },
+      { question: `¿El Parquer K186BK "Sensitivo" tiene respuesta al tacto?`, answer: `No lo sabemos, y por eso no lo afirmamos. Su título lo vende como "Sensitivo", pero su ficha técnica no tiene ese campo declarado: no confirma ni desmiente la función. Si te importa de verdad, elegí directo la Casio CTK-3500 o la Yamaha, que sí la declaran explícitamente.` },
+      { question: `¿Conviene comprar el teclado más barato para arrancar?`, answer: `Sí, si estás probando si te va a gustar. El [Dyvan T61](https://meli.la/2SHynQ7) y la [Gadnic](https://meli.la/2F4qpyn) son las opciones de entrada de esta comparativa, y ninguna declara respuesta al tacto, algo que en esta etapa no suele hacer falta. Si ya sabés que vas a seguir, conviene saltar directo a la Casio CTK-3500.` },
+      { question: `¿Vale la pena pagar más por Yamaha en vez de Casio?`, answer: `Depende de cuánto uses las funciones extra. La [Yamaha PSR-E383](https://meli.la/2rCRsof) suma grabador, ranura de memoria y más tonos que cualquiera de las dos Casio, pero es la más cara de esta comparativa por lejos. La [Casio CTK-3500](https://meli.la/27RR6Du) ya trae la función que más importa (respuesta al tacto) a un precio menor.` },
+      { question: `¿Dónde veo el detalle de precios de cada teclado?`, answer: `En nuestra [guía de precios de teclado musical](/guias/musica/teclado-musical-precio), con los mismos 6 modelos ordenados de menor a mayor precio y verificados en vivo contra MercadoLibre.` },
+    ],
+    internalLinksTitle: "Más sobre instrumentos musicales",
+    internalLinks: [
+      { label: `Cuánto sale un teclado musical (guía de precios)`, href: `/guias/musica/teclado-musical-precio` },
+      { label: `Dyvan T61: ficha y opiniones`, href: `/producto/teclado-musical-electronico-dyvan-t61-con-atril-mla63579452` },
+      { label: `Gadnic 54 teclas: ficha y opiniones`, href: `/producto/teclado-organo-electronico-gadnic-54-teclas-con-pantalla-led-mla19783697` },
+      { label: `Casio CT-S100: ficha y opiniones`, href: `/producto/teclado-musical-casio-casiotone-ct-s100-mla16109682` },
+      { label: `Casio CTK-3500: ficha y opiniones`, href: `/producto/teclado-musical-casio-ctk-3500-mla16107361` },
+      { label: `Yamaha PSR-E383: ficha y opiniones`, href: `/producto/teclado-musical-yamaha-psr-e383-mla44710176` },
     ],
   },
   {
