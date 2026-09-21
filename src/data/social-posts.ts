@@ -3929,4 +3929,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "32",
     postedAt: "2026-09-20T18:15:51-03:00",
   },
+  {
+    title: "Google TV Streamer 4K 32GB con Control por Voz",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_843575-MLA96106296725_102025-O.webp",
+    affiliateUrl: "https://meli.la/1zG88kA",
+    newPrice: "223.649",
+    oldPrice: "314.999",
+    offPct: "29",
+    postedAt: "2026-09-21T08:10:01-03:00",
+  },
 ];
