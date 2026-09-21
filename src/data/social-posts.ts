@@ -3939,4 +3939,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "29",
     postedAt: "2026-09-21T08:10:01-03:00",
   },
+  {
+    title: "Kit Mancuernas + Barra DeporAr 25kg",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_750350-MLA114905526091_072026-O.webp",
+    affiliateUrl: "https://meli.la/1oxodWu",
+    newPrice: "91.189",
+    oldPrice: "211.978",
+    offPct: "56",
+    postedAt: "2026-09-21T08:36:44-03:00",
+  },
 ];
