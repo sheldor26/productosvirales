@@ -4079,4 +4079,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "38",
     postedAt: "2026-09-21T19:09:40-03:00",
   },
+  {
+    title: "Aspiradora Industrial Trent Iron 4en1",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_902040-MLA110561353541_042026-O.webp",
+    affiliateUrl: "https://meli.la/1tcj6ns",
+    newPrice: "235.224",
+    oldPrice: "399.999",
+    offPct: "41",
+    postedAt: "2026-09-21T19:37:34-03:00",
+  },
 ];
