@@ -4059,4 +4059,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "20",
     postedAt: "2026-09-21T18:16:25-03:00",
   },
+  {
+    title: "Hidrolavadora Inalámbrica Portátil 2 Baterías",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_919339-MLA112968633452_072026-O.webp",
+    affiliateUrl: "https://meli.la/1GCMXrt",
+    newPrice: "56.882",
+    oldPrice: "79.990",
+    offPct: "28",
+    postedAt: "2026-09-21T18:43:33-03:00",
+  },
 ];
