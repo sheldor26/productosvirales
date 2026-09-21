@@ -7,6 +7,15 @@
 > 🔴 = se quedo sin stock (el link de afiliado apunta a una pagina pausada).
 > Entradas nuevas arriba.
 
+## 2026-09-21
+
+- 🟢 VOLVIO EL STOCK — **MLA66785049** Anillo Inteligente Oura Ring 4 Titanio Negro Talle 9
+  - ML: https://www.mercadolibre.com.ar/p/MLA66785049
+  - Sitio: https://productosvirales.com.ar/producto/MLA66785049
+- 🟢 VOLVIO EL STOCK — **MLA57107638** Ventilador De Techo Kent K3001 Industrial 1.2m Negro 3 Aspas Metal
+  - ML: https://www.mercadolibre.com.ar/p/MLA57107638
+  - Sitio: https://productosvirales.com.ar/producto/MLA57107638
+
 ## 2026-09-16
 
 - 🟢 VOLVIO EL STOCK — **MLA57493486** Velador Táctil LED Recargable Practiled USB Para Botella Mesa Luz Regulable
