@@ -3979,4 +3979,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "28",
     postedAt: "2026-09-21T09:54:56-03:00",
   },
+  {
+    title: "2 Cajas Tiras Reactivas Accu-Chek Guide (100 total)",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_636824-MLA112947758994_072026-O.webp",
+    affiliateUrl: "https://meli.la/24oZ9Sf",
+    newPrice: "72.337",
+    oldPrice: "198.316",
+    offPct: "63",
+    postedAt: "2026-09-21T10:21:01-03:00",
+  },
 ];
