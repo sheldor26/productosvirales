@@ -2032,7 +2032,7 @@ export const guides: Guide[] = [
     ogImage: `https://http2.mlstatic.com/D_NQ_NP_631696-MLA99413419718_112025-F.jpg`,
     h1: `Robot de cocina: cuál comprar en Argentina y si vale la pena [2026]`,
     publishedDate: "2026-07-19",
-    updatedDate: "2026-07-19",
+    updatedDate: "2026-09-21",
     hasDisclosure: true,
     readingTime: 8,
     standfirst: `Un robot de cocina hace en un solo aparato lo de varios: pica, amasa, cocina, cocina al vapor y hasta pesa. La Thermomix lo popularizó, pero hoy hay opciones que hacen gran parte por una fracción del precio. Te explicamos qué mirar y cuál conviene, con precios reales de MercadoLibre.`,
@@ -6219,12 +6219,12 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     h1: `Mejores licuadoras en Argentina: qué marca comprar y cuánto cuesta [2026]`,
     directAnswer: `Para la mayoría conviene la **Oster Classic con jarra de vidrio** (alrededor de {{precio:MLA17734241:k}}): encastre de metal, 4.8 estrellas en más de 2.300 opiniones y la durabilidad clásica de la marca. Para gastar menos, hay una de jarra de vidrio muy probada a ~{{precio:MLA19693634:k}}; para más potencia, la Philips de 1.000 W; y para batidos individuales, la Ninja Blast portátil.`,
     publishedDate: "2026-06-21",
-    updatedDate: "2026-07-18",
+    updatedDate: "2026-09-21",
     hasDisclosure: true,
     readingTime: 10,
     standfirst: `Todo para elegir una licuadora en Argentina sin equivocarte: primero el tipo (de vaso, de mano o portátil), después la marca y la jarra. Ranking con precios reales de MercadoLibre, tabla comparativa y cuál conviene según tu caso.`,
     quickPicks: [
-      { productMlaId: "MLA17734241", label: "Mejor elección general", labelColor: "green", tagline: "Vidrio, encastre de metal y la durabilidad Oster — 4.8 estrellas en 2.365 opiniones" },
+      { productMlaId: "MLA17734241", label: "Mejor elección general", labelColor: "green", tagline: "Vidrio, encastre de metal y la durabilidad Oster — 4.8 estrellas en 5.229 opiniones" },
       { productMlaId: "MLA19693634", label: "Mejor relación precio", labelColor: "blue", tagline: "Jarra de vidrio y 4.980 opiniones por ~{{precio:MLA19693634:k}}: la value del catálogo" },
       { productMlaId: "MLA50527370", label: "Más potente gama media", labelColor: "purple", tagline: "Philips de 1.000 W, jarra de 2 L y 5 velocidades" },
       { productMlaId: "MLA62801882", label: "Mejor portátil", labelColor: "amber", tagline: "Ninja Blast con batería USB para tu batido individual — 4.9 estrellas" },
@@ -6247,7 +6247,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "h2", title: `El ranking: mejores licuadoras 2026`, id: "ranking" },
 
       { type: "h3", title: `1. Oster Classic BLST4655 — mejor elección general` },
-      { type: "product-card", productMlaId: "MLA17734241", label: "Mejor elección general", labelColor: "green", ranking: 1, description: `Jarra de vidrio grueso, encastre de metal sobre ruleman y cuchilla inoxidable. 4.8 estrellas en 2.365 calificaciones: la durabilidad de "la de tu mamá".` },
+      { type: "product-card", productMlaId: "MLA17734241", label: "Mejor elección general", labelColor: "green", ranking: 1, description: `Jarra de vidrio grueso, encastre de metal sobre ruleman y cuchilla inoxidable. 4.8 estrellas en 5.229 calificaciones: la durabilidad de "la de tu mamá".` },
       { type: "p", content: `Es la que recomendamos si querés comprar una vez y olvidarte. Oster domina la categoría por una razón: durabilidad de la vieja escuela. La frase que más se repite en las reviews lo dice todo: "es la licuadora que tenía mi mamá, que tuvo mi abuela y que ahora tengo yo". La jarra es de **vidrio grueso** (no toma olor, pica hielo y fruta congelada), el encastre es de **metal sobre ruleman** —no los dientes de plástico que se desgastan en las baratas— y la cuchilla es inoxidable.` },
       { type: "p", content: `Lo honesto: ronda los {{precio:MLA17734241:k}}, varias veces el precio de una de plástico. Y tiene dos detalles que las reviews marcan: el cable es corto y, por el formato de la jarra, lo licuado se estanca en el fondo y conviene pausar y revolver. Pero si valorás que dure años, es la apuesta más segura del catálogo.` },
       { type: "pull-quote", content: `"¿Es Oster, qué más se puede esperar? Es la licuadora que tenía mi mamá, que tuvo mi abuela y que ahora tengo yo."`, attribution: `Comprador verificado en MercadoLibre, agosto 2022 · 81 personas lo encontraron útil` },
@@ -6309,10 +6309,10 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       ] },
 
       { type: "h2", title: `Veredicto: cuál comprar`, id: "veredicto" },
-      { type: "verdict", content: `Para la mayoría, la **Oster Classic BLST4655**: vidrio, encastre de metal y la durabilidad de "la de tu mamá", con 4.8 estrellas en 2.365 opiniones. Si querés lo mejor por tu plata, la **Atma Pro LI8450AP** de vidrio a ~{{precio:MLA19693634:k}}, con 4.980 calificaciones. ¿Potencia de gama media? La **Philips Pro Blend** de 1.000 W. ¿Un batido individual a donde vayas? La **Ninja Blast** portátil (4.9, el rating más alto). Si cocinás mucho, sumá una **de mano Peabody** para la olla. Los errores a evitar: pagar premium por la Oster Xtreme sin necesitar 1.500 W, y comprar plástico barato que se raja como la Liliana.` },
+      { type: "verdict", content: `Para la mayoría, la **Oster Classic BLST4655**: vidrio, encastre de metal y la durabilidad de "la de tu mamá", con 4.8 estrellas en 5.229 opiniones. Si querés lo mejor por tu plata, la **Atma Pro LI8450AP** de vidrio a ~{{precio:MLA19693634:k}}, con 4.980 calificaciones. ¿Potencia de gama media? La **Philips Pro Blend** de 1.000 W. ¿Un batido individual a donde vayas? La **Ninja Blast** portátil (4.9, el rating más alto). Si cocinás mucho, sumá una **de mano Peabody** para la olla. Los errores a evitar: pagar premium por la Oster Xtreme sin necesitar 1.500 W, y comprar plástico barato que se raja como la Liliana.` },
     ],
     faq: [
-      { question: `¿Qué licuadora conviene comprar en Argentina en 2026?`, answer: `Por datos, depende del uso. Para la licuadora principal de la casa, la [Oster Classic BLST4655](https://meli.la/1UhsB6r) (vidrio, durabilidad, 4.8★ en 2.365 opiniones). Si priorizás el precio, la [Atma Pro LI8450AP](https://meli.la/1s19WgR) de vidrio a ~{{precio:MLA19693634:k}} con 4.980 calificaciones es la mejor relación precio-calidad. Para un batido individual portátil, la [Ninja Blast](https://meli.la/1CTc5Xx).` },
+      { question: `¿Qué licuadora conviene comprar en Argentina en 2026?`, answer: `Por datos, depende del uso. Para la licuadora principal de la casa, la [Oster Classic BLST4655](https://meli.la/1UhsB6r) (vidrio, durabilidad, 4.8★ en 5.229 opiniones). Si priorizás el precio, la [Atma Pro LI8450AP](https://meli.la/1s19WgR) de vidrio a ~{{precio:MLA19693634:k}} con 4.980 calificaciones es la mejor relación precio-calidad. Para un batido individual portátil, la [Ninja Blast](https://meli.la/1CTc5Xx).` },
       { question: `¿Cuál es la mejor marca de licuadoras?`, answer: `No hay una sola: depende de qué priorices. [Oster](/guias/licuadora-oster) domina por durabilidad y service en el país; [Atma](/guias/licuadora-atma) por relación precio-calidad; [Philips](/guias/licuadora-philips) por potencia (1.000 W); y [Ninja](/guias/licuadora-portatil) es la única con opción portátil a batería. Para la mayoría, Oster es la apuesta más segura.` },
       { question: `¿Qué diferencia hay entre una licuadora de vaso, de mano y portátil?`, answer: `La de vaso es la clásica de la mesada (jarra sobre base con motor), para licuados, jugos y sopas. La de mano (mixer o minipimer, como la [Peabody PE-LMA327B](https://meli.la/2xEshc3)) no tiene jarra: licuás con una varilla directo en la olla, ideal para purés y cremas. La portátil (como la [Ninja Blast](https://meli.la/1CTc5Xx)) es un vaso individual con batería USB, para un batido donde estés. No son lo mismo ni se reemplazan.` },
       { question: `¿Conviene una licuadora de jarra de vidrio o de plástico?`, answer: `El vidrio no toma olor ni gusto y dura más; el plástico es más liviano pero se mancha y, en las económicas, se raja. Las reviews de la [Liliana AL310](https://meli.la/12cS1LU) reportan jarras de plástico rotas al mes. Si podés, priorizá vidrio: la [Atma Pro](https://meli.la/1s19WgR) lo trae por ~{{precio:MLA19693634:k}} y la [Oster Classic](https://meli.la/1UhsB6r) con vidrio grueso.` },
@@ -6376,7 +6376,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "h2", title: `Cuándo una portátil no te alcanza (y qué comprar)`, id: "alternativas" },
       { type: "p", content: `Sé honesto con tu uso antes de comprar. Si vas a licuar para más de una persona, hacer sopas, untables, mayonesas o jugos en cantidad, una portátil te va a quedar corta: son 50 W y medio litro. Para eso necesitás una **licuadora de vaso**, y estas dos son las que mejor relación dan en el catálogo. Sumá una portátil después, como segundo aparato.` },
       { type: "product-card", productMlaId: "MLA19693634", variant: "compact", label: "Mejor de vaso económica", labelColor: "blue", description: `Jarra de vidrio de 1,5 L y 500 W por ~{{precio:MLA19693634:k}}. 4.7 estrellas en 4.980 calificaciones: la base de opiniones más grande del catálogo.` },
-      { type: "product-card", productMlaId: "MLA17734241", variant: "compact", label: "La que dura años", labelColor: "green", description: `Oster Classic de vidrio grueso, encastre de metal y 4.8 estrellas en 2.365 opiniones. La compra para olvidarte por años.` },
+      { type: "product-card", productMlaId: "MLA17734241", variant: "compact", label: "La que dura años", labelColor: "green", description: `Oster Classic de vidrio grueso, encastre de metal y 4.8 estrellas en 5.229 opiniones. La compra para olvidarte por años.` },
       { type: "callout", calloutVariant: "note", calloutTitle: "¿Querés ver todas las opciones?", content: `Si todavía no tenés claro el tipo, nuestra [guía de mejores licuadoras de Argentina](/guias/licuadora) compara de vaso, de mano y portátil con precios reales y te lleva a la recomendada para tu caso.` },
 
       { type: "h2", title: `Tabla comparativa: portátil vs. de vaso`, id: "tabla-comparativa" },
@@ -6435,7 +6435,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     readingTime: 9,
     standfirst: `Oster es sinónimo de licuadora en Argentina por una razón: durabilidad. Pero no todas las Oster convienen igual. Comparamos la Classic y la Xtreme con precios reales de MercadoLibre, te decimos cuál es para la mayoría y dónde están los peros reales.`,
     quickPicks: [
-      { productMlaId: "MLA17734241", label: "La Oster recomendada", labelColor: "green", tagline: "Classic de vidrio, encastre de metal y 4.8 estrellas en 2.365 opiniones" },
+      { productMlaId: "MLA17734241", label: "La Oster recomendada", labelColor: "green", tagline: "Classic de vidrio, encastre de metal y 4.8 estrellas en 5.229 opiniones" },
       { productMlaId: "MLA59377328", label: "La más potente (con peros)", labelColor: "purple", tagline: "Xtreme de 1.500 W y vidrio de 2 L, solo si necesitás máxima potencia" },
       { productMlaId: "MLA19693634", label: "Alternativa más barata", labelColor: "blue", tagline: "Atma Pro de vidrio por la mitad de precio, si la Oster se te va de presupuesto" },
     ],
@@ -6456,7 +6456,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "h2", title: `Las mejores licuadoras Oster 2026`, id: "ranking" },
 
       { type: "h3", title: `1. Oster Classic BLST4655 — la Oster recomendada` },
-      { type: "product-card", productMlaId: "MLA17734241", label: "La Oster recomendada", labelColor: "green", ranking: 1, description: `Jarra de vidrio grueso, encastre de metal sobre ruleman y cuchilla inoxidable. 4.8 estrellas en 2.365 calificaciones: la durabilidad de "la de tu mamá".` },
+      { type: "product-card", productMlaId: "MLA17734241", label: "La Oster recomendada", labelColor: "green", ranking: 1, description: `Jarra de vidrio grueso, encastre de metal sobre ruleman y cuchilla inoxidable. 4.8 estrellas en 5.229 calificaciones: la durabilidad de "la de tu mamá".` },
       { type: "p", content: `Es la Oster que recomendamos si querés comprar una vez y olvidarte. La jarra es de **vidrio grueso** que no toma olor, pica hielo y fruta congelada; el encastre es de **metal sobre ruleman**, no los dientes de plástico que se desgastan en las baratas; y la cuchilla es inoxidable. Un comprador lo resume: "metal y vidrio, cuchilla sobre ruleman, es un mueble además decorativo, otra cosa totalmente distinta".` },
       { type: "p", content: `Lo honesto: ronda los $148.000, varias veces el precio de una de plástico. Y tiene dos detalles que las reviews marcan: el **cable es corto** y, por el formato de la jarra, lo licuado se estanca en el fondo y conviene pausar y revolver con una espátula angosta. Ninguno de los dos es grave. Si valorás que dure años, es la apuesta más segura de toda la marca.` },
       { type: "pull-quote", content: `"¿Es Oster, qué más se puede esperar? Es la licuadora que tenía mi mamá, que tuvo mi abuela y que ahora tengo yo."`, attribution: `Comprador verificado en MercadoLibre, agosto 2022 · 81 personas lo encontraron útil` },
@@ -6490,10 +6490,10 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       ] },
 
       { type: "h2", title: `Veredicto: cuál Oster comprar`, id: "veredicto" },
-      { type: "verdict", content: `Para la enorme mayoría, la **Oster Classic BLST4655**: vidrio grueso, encastre de metal y la durabilidad de "la de tu mamá", con 4.8 estrellas en 2.365 opiniones, sin pagar el sobreprecio de la premium. La **Oster Xtreme** de 1.500 W solo si necesitás máxima potencia a diario y aceptás sus peros reales (precio, peso, reportes de olor a quemado). Y si la Oster se te va de presupuesto, la [Atma Pro](/guias/licuadora-atma) de vidrio es la alternativa inteligente. El error a evitar es pagar la Xtreme sin necesitar sus 1.500 W: para casi todo, la Classic es la Oster correcta.` },
+      { type: "verdict", content: `Para la enorme mayoría, la **Oster Classic BLST4655**: vidrio grueso, encastre de metal y la durabilidad de "la de tu mamá", con 4.8 estrellas en 5.229 opiniones, sin pagar el sobreprecio de la premium. La **Oster Xtreme** de 1.500 W solo si necesitás máxima potencia a diario y aceptás sus peros reales (precio, peso, reportes de olor a quemado). Y si la Oster se te va de presupuesto, la [Atma Pro](/guias/licuadora-atma) de vidrio es la alternativa inteligente. El error a evitar es pagar la Xtreme sin necesitar sus 1.500 W: para casi todo, la Classic es la Oster correcta.` },
     ],
     faq: [
-      { question: `¿Cuál es la mejor licuadora Oster para comprar en Argentina?`, answer: `Para la mayoría, la [Oster Classic BLST4655](https://meli.la/1UhsB6r): jarra de vidrio, encastre de metal sobre ruleman y 4.8 estrellas en 2.365 opiniones, a un precio mucho más razonable que la premium. La [Oster Xtreme](https://meli.la/1f25iob) de 1.500 W queda para quien necesite máxima potencia a diario y acepte sus contras.` },
+      { question: `¿Cuál es la mejor licuadora Oster para comprar en Argentina?`, answer: `Para la mayoría, la [Oster Classic BLST4655](https://meli.la/1UhsB6r): jarra de vidrio, encastre de metal sobre ruleman y 4.8 estrellas en 5.229 opiniones, a un precio mucho más razonable que la premium. La [Oster Xtreme](https://meli.la/1f25iob) de 1.500 W queda para quien necesite máxima potencia a diario y acepte sus contras.` },
       { question: `¿Por qué las licuadoras Oster son tan caras?`, answer: `Por los materiales y la durabilidad. Oster usa jarra de vidrio grueso, encastre de metal sobre ruleman (no plástico) y cuchilla inoxidable, con service y repuestos en Argentina. Eso encarece el precio frente a una de plástico, pero es lo que hace que duren años. La [Classic](https://meli.la/1UhsB6r) es la que mejor equilibra precio y durabilidad.` },
       { question: `¿La licuadora Oster Xtreme vale la pena?`, answer: `Solo para uso intensivo. Sus 1.500 W "rompen hielo" y pasan congelados sin esfuerzo, pero a $310.000 es la más cara, la jarra es pesadísima y hay reportes reales de olor a quemado al poco uso. Para potencia de gama media, la [Philips Pro Blend](/guias/licuadora-philips) de 1.000 W rinde casi igual por menos de la mitad.` },
       { question: `¿Las licuadoras Oster tienen jarra de vidrio?`, answer: `Sí, es una de sus señas. Tanto la [Oster Classic](https://meli.la/1UhsB6r) como la [Xtreme](https://meli.la/1f25iob) traen jarra de vidrio, que no toma olor ni gusto y dura más que el plástico. Es buena parte de por qué se eligen frente a marcas más baratas que usan plástico.` },
@@ -6545,7 +6545,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
 
       { type: "h2", title: `Philips, Oster o Atma: cuál te conviene`, id: "comparativa" },
       { type: "p", content: `La Philips no juega sola. Según qué priorices, otra marca puede convenirte más, y conviene tenerlo claro antes de comprar. Estas son las tres que mejor relación dan hoy, cada una fuerte en algo distinto: la Philips en potencia, la Oster en durabilidad y la Atma en precio.` },
-      { type: "product-card", productMlaId: "MLA17734241", variant: "compact", label: "Si priorizás durabilidad", labelColor: "green", description: `Oster Classic de vidrio grueso y encastre de metal. 4.8 estrellas en 2.365 opiniones: la que dura años.` },
+      { type: "product-card", productMlaId: "MLA17734241", variant: "compact", label: "Si priorizás durabilidad", labelColor: "green", description: `Oster Classic de vidrio grueso y encastre de metal. 4.8 estrellas en 5.229 opiniones: la que dura años.` },
       { type: "product-card", productMlaId: "MLA19693634", variant: "compact", label: "Si priorizás el precio", labelColor: "blue", description: `Atma Pro de vidrio por ~{{precio:MLA19693634:k}} y 4.980 calificaciones: la mejor relación precio del catálogo.` },
 
       { type: "h2", title: `Tabla comparativa: Philips frente a sus rivales`, id: "tabla-comparativa" },
@@ -6632,7 +6632,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "h2", title: `¿Y si también querés licuados? Sumá una de vaso`, id: "alternativas" },
       { type: "p", content: `La de mano es media cocina, pero le falta la otra media: licuados de fruta, jugos y batidos en jarra para varios. Si querés cubrir todo, lo ideal es una de mano más una de vaso. Estas son las dos de vaso que mejor relación dan en el catálogo, según presupuesto.` },
       { type: "product-card", productMlaId: "MLA19693634", variant: "compact", label: "De vaso económica", labelColor: "blue", description: `Atma Pro de vidrio de 1,5 L por ~{{precio:MLA19693634:k}} y 4.980 opiniones: la mejor relación precio para licuados y jugos.` },
-      { type: "product-card", productMlaId: "MLA17734241", variant: "compact", label: "De vaso que dura", labelColor: "green", description: `Oster Classic de vidrio grueso y encastre de metal, 4.8 estrellas en 2.365 opiniones: la que dura años.` },
+      { type: "product-card", productMlaId: "MLA17734241", variant: "compact", label: "De vaso que dura", labelColor: "green", description: `Oster Classic de vidrio grueso y encastre de metal, 4.8 estrellas en 5.229 opiniones: la que dura años.` },
 
       { type: "h2", title: `Tabla comparativa: de mano y de vaso`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Tipo`, `Potencia`, `Ideal para`], rows: [
@@ -6712,7 +6712,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
 
       { type: "h2", title: `Cuándo conviene gastar un poco más`, id: "alternativas" },
       { type: "p", content: `La Atma Pro es la compra sensata para la mayoría, pero hay dos casos donde estirar el presupuesto tiene sentido: si querés máxima durabilidad para años, o si tu uso es exigente y necesitás más potencia. Estas son las dos alternativas lógicas según cada caso.` },
-      { type: "product-card", productMlaId: "MLA17734241", variant: "compact", label: "Si querés que dure más", labelColor: "green", description: `Oster Classic de vidrio grueso y encastre de metal (no plástico). 4.8 estrellas en 2.365 opiniones: la durabilidad de la vieja escuela.` },
+      { type: "product-card", productMlaId: "MLA17734241", variant: "compact", label: "Si querés que dure más", labelColor: "green", description: `Oster Classic de vidrio grueso y encastre de metal (no plástico). 4.8 estrellas en 5.229 opiniones: la durabilidad de la vieja escuela.` },
       { type: "product-card", productMlaId: "MLA50527370", variant: "compact", label: "Si querés más potencia", labelColor: "purple", description: `Philips Pro Blend de 1.000 W y jarra de 2 L: para hielo a diario, sopas y untables densos sin esfuerzo.` },
 
       { type: "h2", title: `Tabla comparativa: Atma frente a sus alternativas`, id: "tabla-comparativa" },
@@ -10435,7 +10435,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       "7 pavas con control de temperatura, de plástico a acero. Preset vs niveles vs continuo. La Atma PE1821NAP tiene 6 niveles al mejor precio de la comparativa.",
     h1: "Pava Eléctrica con Control de Temperatura: ¿Cuál Comprar en 2026?",
     publishedDate: "2026-05-30",
-    updatedDate: "2026-07-08",
+    updatedDate: "2026-09-21",
     hasDisclosure: true,
     standfirst: "Comparamos las pavas con control de temperatura que se consiguen hoy en Argentina: quién tiene niveles mecánicos, quién preset digital y quién control continuo, con precios reales y cuál es la mejor compra.",
     quickPicks: [
