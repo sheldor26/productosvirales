@@ -16,6 +16,49 @@
 **Archivos involucrados:** `path/a/archivo.ts`
 -->
 
+## 2026-09-21 — Para el rating/reviewCount real de un producto, mirar la sección "Opiniones del producto", no el badge de arriba
+
+**Qué funcionó:** al refrescar productos en el checklist SEO del 21/9, verificar el rating/cantidad
+de opiniones solo con el número que aparece junto al título (arriba de la página) dio, en más de
+un caso, un valor distinto al de la sección dedicada "Opiniones del producto" más abajo en la
+misma página (la que trae el desglose por estrellas). Pasó con el Etheos (badge de arriba vs. esa
+sección coincidían, pero el catálogo tenía cargado un tercer número, más alto, de una revisión
+vieja) y quedó claro al bajar a esa sección que es la fuente canónica: es la que arma ML a partir
+de TODAS las opiniones reales, mientras que el badge de arriba a veces refleja solo la oferta/
+vendedor que está seleccionado en ese momento en una página de catálogo con varios vendedores.
+
+**Por qué:** las páginas `/p/MLAxxxx` de MercadoLibre pueden mostrar varias ofertas del mismo
+producto (distintos vendedores), y el badge de rating junto al título corresponde a la oferta
+resaltada, no siempre al agregado del catálogo completo. La sección "Opiniones del producto" no
+cambia con la oferta seleccionada.
+
+**Cuándo aplicarlo:** siempre que se refresque rating/reviewCount de un producto "flagship" (el
+que se usa como ancla de un superlativo, tipo "el más probado" o "el mayor respaldo") antes de
+confiar en el número. Para productos secundarios de una comparativa, el badge de arriba alcanza.
+
+**Archivos involucrados:** `src/data/curated-products.ts`
+
+## 2026-09-21 — Un número hardcodeado desactualizado casi nunca vive en un solo lugar
+
+**Qué funcionó:** al encontrar "2.365 opiniones" desactualizado para la Oster Classic BLST4655 en
+la guía `licuadora`, un `grep -c "2\.365" src/data/guides.ts` antes de corregir mostró **11**
+apariciones repartidas en varias guías satélite que mencionan ese mismo producto como referencia
+(no solo la guía que se estaba refrescando). Las 11 eran inequívocamente el mismo dato mal, así
+que se corrigieron las 11 de una con un `sed` global seguro (mismo texto exacto, mismo producto,
+mismo reemplazo en todos lados — no es el caso de riesgo de `sed` global que ya está en
+[[sed-global-nunca-sin-acotar-a-producto]]).
+
+**Por qué:** cuando un producto es popular, aparece citado como comparación en fichas y guías que
+no son "la suya" (otra Oster, otra marca, satélites de precio/durabilidad). Corregir solo la guía
+que originó el chequeo deja el mismo dato viejo repetido en el resto del sitio.
+
+**Cuándo aplicarlo:** al corregir cualquier número hardcodeado de un producto (precio, rating,
+reviewCount), antes de dar por cerrado el fix correr `grep -c` del número viejo en todo
+`guides.ts` — si aparece más de una vez, chequear que todas las apariciones sean del mismo
+producto y el mismo error antes de reemplazar en bloque.
+
+**Archivos involucrados:** `src/data/guides.ts`
+
 ## 2026-08-26 — Verificar el render real: hay bugs de formato que ningún check agarra
 
 **Qué funcionó:** antes de dar por cerrado el pilar `instrumentos-musicales`, se dio vuelta la fecha de forma

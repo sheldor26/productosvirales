@@ -16,6 +16,26 @@
 **Archivos involucrados:** `path/a/archivo.ts`
 -->
 
+## 2026-09-21 — Dos commits sin la línea de atribución, tuve que amendarlos
+
+**Qué pasó:** en el checklist SEO del 21/9, los primeros dos commits de la sesión (refresh de
+climatización y la guía nueva de Atma) los armé sin la línea `Co-Authored-By: Claude Sonnet 5
+<noreply@anthropic.com>` al final del mensaje, pese a que el system reminder de la sesión la pide
+explícitamente en cada commit. Me di cuenta recién después de correr `git commit`, y tuve que
+usar `git commit --amend` en los dos para agregarla.
+
+**Por qué:** armé los mensajes de commit largos (con el detalle de qué se cambió y por qué) y me
+concentré en el contenido, sin repasar el checklist de cierre completo (mensaje + atribución)
+antes de ejecutar `git commit`. La atribución quedó como un paso separado que se me pasó dos
+veces seguidas.
+
+**Cómo evitarlo:** armar el heredoc completo del mensaje de commit, línea de atribución incluida,
+ANTES de llamar a `git commit` — nunca como un paso aparte para "agregar después". Si de todos
+modos se me pasa, corregirlo con `--amend` está bien mientras el commit no se haya pusheado
+todavía (que fue el caso acá); si ya se pusheó, no amendar sin que Juan lo pida.
+
+**Archivos involucrados:** ninguno (es un hábito de proceso, no un bug de código).
+
 ## 2026-09-01 — Precios en las placas de Threads sin puntos de miles
 
 **Qué pasó:** en el lote de posts de las 19hs (items 4 a 8 + la cafetera Nespresso extra), pasé
