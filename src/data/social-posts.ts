@@ -4009,4 +4009,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "34",
     postedAt: "2026-09-21T11:13:13-03:00",
   },
+  {
+    title: "Marvel Spider-Man 2 PS5 Edición Lanzamiento",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_655367-MLA99502430822_112025-O.webp",
+    affiliateUrl: "https://meli.la/1M4Y3Wp",
+    newPrice: "86.433",
+    oldPrice: "137.999",
+    offPct: "37",
+    postedAt: "2026-09-21T12:03:21-03:00",
+  },
 ];
