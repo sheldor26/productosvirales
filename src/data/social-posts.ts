@@ -4169,4 +4169,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "33",
     postedAt: "2026-09-22T16:43:27-03:00",
   },
+  {
+    title: "Rotomartillo Taladro Percutor 850W Lüsqtoff",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_943469-MLA115063745067_072026-O.webp",
+    affiliateUrl: "https://meli.la/2F1JisY",
+    newPrice: "97.549",
+    oldPrice: "142.999",
+    offPct: "31",
+    postedAt: "2026-09-22T17:10:39-03:00",
+  },
 ];
