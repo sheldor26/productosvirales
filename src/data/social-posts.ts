@@ -4209,4 +4209,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "41",
     postedAt: "2026-09-22T18:30:25-03:00",
   },
+  {
+    title: "Smart TV Philips 55\" QLED 4K Ambilight",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_911879-MLA99990364693_112025-O.webp",
+    affiliateUrl: "https://meli.la/22do7Jx",
+    newPrice: "775.796",
+    oldPrice: "1.428.570",
+    offPct: "45",
+    postedAt: "2026-09-22T18:57:29-03:00",
+  },
 ];
