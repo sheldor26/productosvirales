@@ -4179,4 +4179,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "31",
     postedAt: "2026-09-22T17:10:39-03:00",
   },
+  {
+    title: "Notebook Gamer Asus TUF A15 Ryzen 5",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_989670-MLA99875576011_112025-O.webp",
+    affiliateUrl: "https://meli.la/186bc8r",
+    newPrice: "1.646.999",
+    oldPrice: "3.728.999",
+    offPct: "55",
+    postedAt: "2026-09-22T17:37:48-03:00",
+  },
 ];
