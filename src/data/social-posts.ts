@@ -4199,4 +4199,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "56",
     postedAt: "2026-09-22T18:03:55-03:00",
   },
+  {
+    title: "Smart TV TCL 75T6C 75\" QLED 4K",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_804763-MLA113630929328_072026-O.webp",
+    affiliateUrl: "https://meli.la/2uAVwka",
+    newPrice: "1.748.299",
+    oldPrice: "2.999.999",
+    offPct: "41",
+    postedAt: "2026-09-22T18:30:25-03:00",
+  },
 ];
