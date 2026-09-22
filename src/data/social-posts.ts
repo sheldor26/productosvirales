@@ -4109,4 +4109,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "40",
     postedAt: "2026-09-22T09:24:44-03:00",
   },
+  {
+    title: "Compresor de Aire Portátil 50L Pektra",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_762675-MLA114665741958_082026-O.webp",
+    affiliateUrl: "https://meli.la/1R7uGE7",
+    newPrice: "242.499",
+    oldPrice: "309.999",
+    offPct: "21",
+    postedAt: "2026-09-22T09:52:29-03:00",
+  },
 ];
