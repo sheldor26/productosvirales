@@ -4239,4 +4239,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "11",
     postedAt: "2026-09-22T19:50:39-03:00",
   },
+  {
+    title: "Freezer Horizontal Midea Inverter 285L",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_794713-MLA111276990563_052026-O.webp",
+    affiliateUrl: "https://meli.la/2eBGsKD",
+    newPrice: "645.850",
+    oldPrice: "879.999",
+    offPct: "26",
+    postedAt: "2026-09-22T20:16:56-03:00",
+  },
 ];
