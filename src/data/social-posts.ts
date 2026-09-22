@@ -4219,4 +4219,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "45",
     postedAt: "2026-09-22T18:57:29-03:00",
   },
+  {
+    title: "Smart TV Samsung 32\" HD H5000",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_970019-MLA96276090674_102025-O.webp",
+    affiliateUrl: "https://meli.la/2o7Etwk",
+    newPrice: "323.999",
+    oldPrice: "599.999",
+    offPct: "46",
+    postedAt: "2026-09-22T19:23:52-03:00",
+  },
 ];
