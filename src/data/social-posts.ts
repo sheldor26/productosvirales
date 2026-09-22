@@ -4119,4 +4119,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "21",
     postedAt: "2026-09-22T09:52:29-03:00",
   },
+  {
+    title: "Colchón Atma One 2 Plazas",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_930899-MLA115655241076_092026-O.webp",
+    affiliateUrl: "https://meli.la/2drhfZT",
+    newPrice: "294.599",
+    oldPrice: "417.999",
+    offPct: "29",
+    postedAt: "2026-09-22T10:19:51-03:00",
+  },
 ];
