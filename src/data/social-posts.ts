@@ -4139,4 +4139,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "39",
     postedAt: "2026-09-22T10:52:44-03:00",
   },
+  {
+    title: "Tableta Gráfica Carrello ArtPad 6 Pro",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_840340-MLA114963424319_072026-O.webp",
+    affiliateUrl: "https://meli.la/2HLB7NS",
+    newPrice: "67.299",
+    oldPrice: "149.998",
+    offPct: "55",
+    postedAt: "2026-09-22T11:18:41-03:00",
+  },
 ];
