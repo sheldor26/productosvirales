@@ -4149,4 +4149,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "55",
     postedAt: "2026-09-22T11:18:41-03:00",
   },
+  {
+    title: "Auriculares Gamer Anker Soundcore P30i",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_901581-MLA95398078746_102025-O.webp",
+    affiliateUrl: "https://meli.la/1nvkJ39",
+    newPrice: "61.999",
+    oldPrice: "146.990",
+    offPct: "57",
+    postedAt: "2026-09-22T11:45:40-03:00",
+  },
 ];
