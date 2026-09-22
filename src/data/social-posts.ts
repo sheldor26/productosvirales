@@ -4159,4 +4159,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "57",
     postedAt: "2026-09-22T11:45:40-03:00",
   },
+  {
+    title: "Smartphone ZTE Blade A56 Pro",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_782141-MLA111548455055_052026-O.webp",
+    affiliateUrl: "https://meli.la/1Ut7FWs",
+    newPrice: "199.998",
+    oldPrice: "299.999",
+    offPct: "33",
+    postedAt: "2026-09-22T16:43:27-03:00",
+  },
 ];
