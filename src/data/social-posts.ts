@@ -4099,4 +4099,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "15",
     postedAt: "2026-09-21T20:04:34-03:00",
   },
+  {
+    title: "Smartwatch Huawei Watch GT 6 Pro 46mm",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_909358-MLA99507690196_112025-O.webp",
+    affiliateUrl: "https://meli.la/1y4MF31",
+    newPrice: "419.999",
+    oldPrice: "701.999",
+    offPct: "40",
+    postedAt: "2026-09-22T09:24:44-03:00",
+  },
 ];
