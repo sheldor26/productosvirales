@@ -6,10 +6,9 @@
 
 Leer esto primero al armar cualquier tanda pensada para Threads. Reemplaza cualquier instrucción de horario/día/categoría de las secciones de abajo que la contradiga (quedan como historial, ver actualización 2026-09-22 en la sección 4).
 
-**Cadencia semanal:**
-- **Viernes = día fuerte.** Concentrar ahí la tanda más grande/completa de la semana (8 productos, como las tandas ya rodadas), arrancando en la franja 6-11hs y, si da el tiempo, sumando una segunda tanda en la franja 18-21hs. En prueba desde el 2026-09-22 — invierte el hallazgo de agosto que marcaba a viernes como el peor día, con muestra 3,7x más grande.
-- Resto de la semana: sourcing y publicación normal para el sitio (SEO no depende de Threads), sin necesidad de forzar tandas grandes en Threads esos días. Si se publica algo en Threads fuera de viernes, mantener igual las franjas 6-11hs / 18-21hs.
-- Evitar publicar en Threads después de las 21hs y en la franja 11-14hs (las dos peores medidas).
+**Cadencia semanal — NO es "solo viernes", es "todos los días + refuerzo el viernes":**
+- **Lunes a jueves, sábado y domingo: cadencia normal, sin cambios.** Se sigue posteando en Threads todos los días como hasta ahora (tandas variadas, categorías mixtas) — no tiene sentido parar, el tráfico SEO del sitio no depende de Threads y además hace falta seguir generando datos de días no-viernes para poder comparar. Reglas fijas de siempre: tag, carrusel, franjas 6-11hs/18-21hs, evitar 11-14hs y después de las 21hs.
+- **Viernes = día fuerte, además de lo normal.** Ahí se concentra la tanda más grande/completa de la semana (8 productos, como las tandas ya rodadas), priorizando el top 5 de categorías de abajo, arrancando en la franja 6-11hs y, si da el tiempo, sumando una segunda tanda en la franja 18-21hs. En prueba desde el 2026-09-22 — invierte el hallazgo de agosto que marcaba a viernes como el peor día, con muestra 3,7x más grande.
 
 **Qué producto elegir cuando se arma contenido para Threads (no para el sitio en general):**
 Priorizar en este orden — ticket alto + objeto grande, no la etiqueta "gaming" per se:
