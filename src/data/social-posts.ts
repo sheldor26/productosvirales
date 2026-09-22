@@ -4129,4 +4129,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "29",
     postedAt: "2026-09-22T10:19:51-03:00",
   },
+  {
+    title: "Aire Portátil Smart Midea 3010kcal",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_922393-MLA100028044275_122025-O.webp",
+    affiliateUrl: "https://meli.la/2JzHZmg",
+    newPrice: "588.999",
+    oldPrice: "967.999",
+    offPct: "39",
+    postedAt: "2026-09-22T10:52:44-03:00",
+  },
 ];
