@@ -4189,4 +4189,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "55",
     postedAt: "2026-09-22T17:37:48-03:00",
   },
+  {
+    title: "Notebook HP Gamer Ryzen 7 AI",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_784570-MLA111992941745_052026-O.webp",
+    affiliateUrl: "https://meli.la/16aSqzb",
+    newPrice: "1.436.625",
+    oldPrice: "3.265.090",
+    offPct: "56",
+    postedAt: "2026-09-22T18:03:55-03:00",
+  },
 ];
