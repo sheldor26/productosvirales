@@ -4249,4 +4249,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "26",
     postedAt: "2026-09-22T20:16:56-03:00",
   },
+  {
+    title: "Lavarropas Inverter Midea 8kg",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_978419-MLA96864350903_102025-O.webp",
+    affiliateUrl: "https://meli.la/341K19X",
+    newPrice: "679.067",
+    oldPrice: "1.014.999",
+    offPct: "33",
+    postedAt: "2026-09-22T21:06:57-03:00",
+  },
 ];
