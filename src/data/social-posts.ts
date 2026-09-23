@@ -4269,4 +4269,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "38",
     postedAt: "2026-09-23T12:22:08-03:00",
   },
+  {
+    title: "Manta para Sillón Tiendas Landmark",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_849851-MLA91036870391_082025-O.webp",
+    affiliateUrl: "https://meli.la/2dgRuXH",
+    newPrice: "193.000",
+    oldPrice: "241.900",
+    offPct: "20",
+    postedAt: "2026-09-23T12:48:52-03:00",
+  },
 ];
