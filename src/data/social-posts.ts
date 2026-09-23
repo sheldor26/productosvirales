@@ -4259,4 +4259,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "33",
     postedAt: "2026-09-22T21:06:57-03:00",
   },
+  {
+    title: "Comedero Elevado para Mascotas Gadnic PET09",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_640518-MLA112638744059_062026-O.webp",
+    affiliateUrl: "https://meli.la/18BX4rm",
+    newPrice: "52.767",
+    oldPrice: "85.949",
+    offPct: "38",
+    postedAt: "2026-09-23T12:22:08-03:00",
+  },
 ];
