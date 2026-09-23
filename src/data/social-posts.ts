@@ -4279,4 +4279,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "20",
     postedAt: "2026-09-23T12:48:52-03:00",
   },
+  {
+    title: "Reposera Tumbona Bahía Utile",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_871924-MLA108590848330_032026-O.webp",
+    affiliateUrl: "https://meli.la/2rj9Qo8",
+    newPrice: "161.496",
+    oldPrice: "201.870",
+    offPct: "20",
+    postedAt: "2026-09-23T13:16:20-03:00",
+  },
 ];
