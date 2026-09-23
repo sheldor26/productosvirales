@@ -8,6 +8,34 @@
 > Entradas nuevas arriba.
 
 
+## 2026-09-23
+
+- **independiente rivadavia - atlético tucumán** — 100 mil+ búsquedas (+1.000%, 6 d)
+- **barcelona - racing de santander** — 100 mil+ búsquedas (+1.000%, 6 d)
+- **racing - sarmiento** — 100 mil+ búsquedas (+1.000%, 4 d)
+- **inter miami - cruz azul** — 100 mil+ búsquedas (+1.000%, 6 d)
+- **estudiantes** — 100 mil+ búsquedas (+1.000%, 6 d)
+- **deportick** — 50 mil+ búsquedas (+1.000%, anteayer)
+- **manchester city - norwich** — 50 mil+ búsquedas (+1.000%, 6 d)
+- **corinthians - estudiantes** — 50 mil+ búsquedas (+1.000%, 6 d)
+- **predicción** — 50 mil+ búsquedas (+1.000%, 5 d)
+- **flamengo - independiente del valle** — 50 mil+ búsquedas (+1.000%, 5 d)
+- **bono** — 20 mil+ búsquedas (+1.000%, 22 h)
+- **hayden panettiere** — 20 mil+ búsquedas (+1.000%, 24 h)
+- **pami** — 20 mil+ búsquedas (+400%, ayer)
+- **lizzie borden** — 20 mil+ búsquedas (+400%, 6 d)
+- **google** — 20 mil+ búsquedas (+50%, 4 d)
+- **andrés blanco** — 20 mil+ búsquedas (+1.000%, 6 d)
+- **pensión** — 10 mil+ búsquedas (+800%, 4 h)
+- **tulio crespi** — 10 mil+ búsquedas (+400%, ayer)
+- **encuesta** — 5 mil+ búsquedas (+400%, 22 h)
+- **santa fe - deportivo cali** — 5 mil+ búsquedas (+800%, 17 h)
+- **entrenador** — 5 mil+ búsquedas (+300%, ayer)
+- **la cueva del león** — 5 mil+ búsquedas (+300%, ayer)
+- **caballito** — 2 mil+ búsquedas (+1.000%, 1 h)
+- **rick sollo** — 2 mil+ búsquedas (+1.000%, 50 min)
+- **fito paez** — 2 mil+ búsquedas (+900%, 15 h)
+
 ## 2026-09-16
 
 - **são paulo - boca juniors** — 1 M+ búsquedas (+1.000%, 18 h)
