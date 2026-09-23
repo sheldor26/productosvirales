@@ -4289,4 +4289,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "20",
     postedAt: "2026-09-23T13:16:20-03:00",
   },
+  {
+    title: "Smart TV Philips 32\" LED HD",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_756620-MLA99506612808_112025-O.webp",
+    affiliateUrl: "https://meli.la/2SF2UD5",
+    newPrice: "314.999",
+    oldPrice: "399.999",
+    offPct: "21",
+    postedAt: "2026-09-23T13:43:28-03:00",
+  },
 ];
