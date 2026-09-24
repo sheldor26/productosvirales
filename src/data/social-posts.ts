@@ -4299,4 +4299,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "21",
     postedAt: "2026-09-23T13:43:28-03:00",
   },
+  {
+    title: "Termotanque Eléctrico Exahome 40L",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_629119-MLA108921293084_032026-O.webp",
+    affiliateUrl: "https://meli.la/23WApYu",
+    newPrice: "266.634",
+    oldPrice: "429.990",
+    offPct: "37",
+    postedAt: "2026-09-24T08:24:00-03:00",
+  },
 ];
