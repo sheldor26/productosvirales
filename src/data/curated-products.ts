@@ -95017,7 +95017,7 @@ Es la única opción de esta comparativa pensada para proteger muebles de esquin
     category: "Mascotas",
     categorySlug: "mascotas",
     permalink: "https://www.mercadolibre.com.ar/rascador-plano-gato-con-hierba-gatera-de-carton-doble-faz/p/MLA43852971",
-    affiliateUrl: "PEGAR_MELI_LA",
+    affiliateUrl: "https://meli.la/1e3ZKJt",
     condition: "new",
     freeShipping: false,
     rating: 4.7,

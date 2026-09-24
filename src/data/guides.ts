@@ -31884,7 +31884,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
         ["[Dakota](https://meli.la/33bxWM1)", "Torre", "Terciopelo", "91 cm de altura", "La mayoría: rascar, dormir y jugar en un mueble"],
         ["[Venecia](https://meli.la/1Ph2Egs)", "Torre", "Felpa y yute", "1,3 m de altura", "La torre más alta y mejor calificada"],
         ["[Beepaw](https://meli.la/1yAZAaR)", "Protector autoadhesivo", "Felpa", "60x60 cm", "Proteger una esquina de sillón puntual"],
-        ["[FIFI&MINI](https://meli.la/PEGAR_MELI_LA)", "Plano de cartón", "Cartón corrugado", "43x23 cm", "Presupuesto ajustado, uso consumible"],
+        ["[FIFI&MINI](https://meli.la/1e3ZKJt)", "Plano de cartón", "Cartón corrugado", "43x23 cm", "Presupuesto ajustado, uso consumible"],
       ] },
       { type: "p", content: `El nombre de cada modelo lleva directo a su publicación en MercadoLibre. Abajo está el detalle de los cuatro, en el mismo orden: qué hace bien cada uno y dónde se queda corto.` },
 
@@ -31924,7 +31924,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
 
       { type: "h2", title: `Cuánto cuesta un rascador para gatos en Argentina`, id: "precios" },
       { type: "list", items: [
-        `**Alrededor de {{precio:MLA43852971:k}}:** el [cartón FIFI&MINI](https://meli.la/PEGAR_MELI_LA), la opción más económica.`,
+        `**Alrededor de {{precio:MLA43852971:k}}:** el [cartón FIFI&MINI](https://meli.la/1e3ZKJt), la opción más económica.`,
         `**Alrededor de {{precio:MLA62299437:k}}:** el [esquinero Beepaw](https://meli.la/1yAZAaR), para proteger muebles puntuales.`,
         `**Alrededor de {{precio:MLA46200581:k}} a {{precio:MLA45337933:k}}:** las torres [Dakota](https://meli.la/33bxWM1) y [Venecia](https://meli.la/1Ph2Egs), con cucha y juguete incluidos.`,
       ] },
