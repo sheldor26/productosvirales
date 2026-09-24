@@ -1,9 +1,10 @@
-import type { MouseEventHandler, ReactNode } from "react";
+import type { CSSProperties, MouseEventHandler, ReactNode } from "react";
 
 interface AffiliateLinkProps {
   href: string;
   children: ReactNode;
   className?: string;
+  style?: CSSProperties;
   onClick?: MouseEventHandler<HTMLAnchorElement>;
   ariaLabel?: string;
   /**
@@ -26,6 +27,7 @@ export function AffiliateLink({
   href,
   children,
   className,
+  style,
   onClick,
   ariaLabel,
   ctaLocation,
@@ -38,8 +40,8 @@ export function AffiliateLink({
     return (
       <span
         className={className}
+        style={{ ...style, opacity: 0.5, cursor: "not-allowed", pointerEvents: "none" }}
         aria-disabled="true"
-        style={{ opacity: 0.5, cursor: "not-allowed", pointerEvents: "none" }}
       >
         No disponible por ahora
       </span>
@@ -52,6 +54,7 @@ export function AffiliateLink({
       target="_blank"
       rel="sponsored nofollow noopener"
       className={className}
+      style={style}
       onClick={onClick}
       aria-label={ariaLabel}
       data-cta-location={ctaLocation}

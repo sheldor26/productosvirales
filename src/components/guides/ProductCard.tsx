@@ -4,6 +4,7 @@ import type { GuideSection, LabelColor } from "@/lib/types";
 import { getProductById } from "@/lib/products";
 import { formatPrice } from "@/lib/utils";
 import { injectLivePrices } from "@/lib/price-token";
+import { AffiliateLink } from "@/components/affiliate/AffiliateLink";
 import { CouponBadge } from "@/components/products/CouponBadge";
 import { Badge } from "@/components/ui/Badge";
 import { WhatsAppIcon } from "@/components/icons/WhatsAppIcon";
@@ -241,12 +242,10 @@ export function ProductCard({ section }: ProductCardProps) {
                 <span aria-hidden="true" className="font-extrabold">→</span>
               </Link>
             ) : (
-              <a
+              <AffiliateLink
                 href={product.affiliateUrl}
-                target="_blank"
-                rel="sponsored nofollow noopener"
-                data-cta-location="card"
-                aria-label={`Comprar ${product.title} en MercadoLibre (se abre en una pestaña nueva)`}
+                ctaLocation="card"
+                ariaLabel={`Comprar ${product.title} en MercadoLibre (se abre en una pestaña nueva)`}
                 className="self-start inline-flex items-center gap-1 mt-1 px-3 py-1.5 text-xs font-extrabold rounded-[var(--radius-button)] transition-transform hover:-translate-y-px"
                 style={{
                   minHeight: 44,
@@ -258,7 +257,7 @@ export function ProductCard({ section }: ProductCardProps) {
               >
                 Comprar en MercadoLibre
                 <span aria-hidden="true" className="font-extrabold">→</span>
-              </a>
+              </AffiliateLink>
             )}
           </div>
         </div>
@@ -431,12 +430,10 @@ export function ProductCard({ section }: ProductCardProps) {
                 <span aria-hidden="true" className="font-extrabold">→</span>
               </Link>
             ) : (
-              <a
+              <AffiliateLink
                 href={product.affiliateUrl}
-                target="_blank"
-                rel="sponsored nofollow noopener"
-                data-cta-location="card"
-                aria-label={`Comprar ${product.title} en MercadoLibre (se abre en una pestaña nueva)`}
+                ctaLocation="card"
+                ariaLabel={`Comprar ${product.title} en MercadoLibre (se abre en una pestaña nueva)`}
                 className="inline-flex items-center gap-1.5 px-5 py-3 text-sm font-extrabold rounded-[var(--radius-button)] transition-transform hover:-translate-y-px"
                 style={{
                   backgroundColor: "var(--cta-action)",
@@ -447,7 +444,7 @@ export function ProductCard({ section }: ProductCardProps) {
               >
                 Comprar en MercadoLibre
                 <span aria-hidden="true" className="font-extrabold">→</span>
-              </a>
+              </AffiliateLink>
             )}
           </div>
           {/* "Ver ficha" y "Compartir" degradados a links grises debajo (no compiten con el CTA). */}

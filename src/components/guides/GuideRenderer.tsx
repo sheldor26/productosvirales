@@ -14,6 +14,7 @@ import { QuickPicks } from "./QuickPicks";
 import { StickyBuyBar } from "./StickyBuyBar";
 import { RelatedGuides } from "./RelatedGuides";
 import { Badge } from "@/components/ui/Badge";
+import { AffiliateLink } from "@/components/affiliate/AffiliateLink";
 import { nextStepLinksForGuide, nextStepHeadingForGuide } from "@/lib/related-guides";
 import { ensureSectionIds, getTocItems } from "@/lib/slug";
 import { getProductById } from "@/lib/products";
@@ -610,12 +611,10 @@ function AboveFoldCta({ productMlaId }: { productMlaId: string }) {
           <span aria-hidden="true" className="font-extrabold">→</span>
         </Link>
       ) : (
-        <a
+        <AffiliateLink
           href={product.affiliateUrl}
-          target="_blank"
-          rel="sponsored nofollow noopener"
-          data-cta-location="above-fold"
-          aria-label={
+          ctaLocation="above-fold"
+          ariaLabel={
             priceText
               ? `Comprar a ${priceText} en MercadoLibre (se abre en una pestaña nueva)`
               : "Comprar en MercadoLibre (se abre en una pestaña nueva)"
@@ -630,7 +629,7 @@ function AboveFoldCta({ productMlaId }: { productMlaId: string }) {
         >
           {priceText ? `Comprar a ${priceText} en MercadoLibre` : "Comprar en MercadoLibre"}
           <span aria-hidden="true" className="font-extrabold">→</span>
-        </a>
+        </AffiliateLink>
       )}
     </div>
   );
@@ -662,12 +661,10 @@ function VerdictCta({ productMlaId }: { productMlaId: string }) {
           <span aria-hidden="true" className="font-extrabold">→</span>
         </Link>
       ) : (
-        <a
+        <AffiliateLink
           href={product.affiliateUrl}
-          target="_blank"
-          rel="sponsored nofollow noopener"
-          data-cta-location="verdict"
-          aria-label={
+          ctaLocation="verdict"
+          ariaLabel={
             priceText
               ? `Comprar a ${priceText} en MercadoLibre (se abre en una pestaña nueva)`
               : "Comprar en MercadoLibre (se abre en una pestaña nueva)"
@@ -682,7 +679,7 @@ function VerdictCta({ productMlaId }: { productMlaId: string }) {
         >
           {priceText ? `Comprar a ${priceText} en MercadoLibre` : "Comprar en MercadoLibre"}
           <span aria-hidden="true" className="font-extrabold">→</span>
-        </a>
+        </AffiliateLink>
       )}
     </div>
   );

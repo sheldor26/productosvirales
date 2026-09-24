@@ -4,6 +4,7 @@ import { useEffect, useState } from "react";
 import Link from "next/link";
 import { formatPrice } from "@/lib/utils";
 import { productHref } from "@/lib/product-url";
+import { AffiliateLink } from "@/components/affiliate/AffiliateLink";
 
 /** Campos mínimos que necesita la barra. El producto se resuelve en el SERVIDOR
  * (GuideRenderer) y baja como prop, así este componente cliente no importa
@@ -124,12 +125,10 @@ export function StickyBuyBar({ product }: StickyBuyBarProps) {
           <span aria-hidden="true" className="font-extrabold">→</span>
         </Link>
       ) : (
-        <a
+        <AffiliateLink
           href={product.affiliateUrl}
-          target="_blank"
-          rel="sponsored nofollow noopener"
-          data-cta-location={tableInView ? "sticky-table" : "sticky"}
-          aria-label={`Ver ${product.title} en MercadoLibre (se abre en una pestaña nueva)`}
+          ctaLocation={tableInView ? "sticky-table" : "sticky"}
+          ariaLabel={`Ver ${product.title} en MercadoLibre (se abre en una pestaña nueva)`}
           className="shrink-0 inline-flex items-center gap-1.5 px-4 text-[13.5px] font-extrabold rounded-[var(--radius-button)]"
           style={{
             minHeight: 44,
@@ -141,7 +140,7 @@ export function StickyBuyBar({ product }: StickyBuyBarProps) {
         >
           {priceText ? `Ver a ${priceText}` : "Ver"}
           <span aria-hidden="true" className="font-extrabold">→</span>
-        </a>
+        </AffiliateLink>
       )}
     </div>
   );
