@@ -4369,4 +4369,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "22",
     postedAt: "2026-09-24T16:42:50-03:00",
   },
+  {
+    title: 'Smart TV Noblex 32" HD Vidaa',
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_679109-MLA100245563133_122025-O.webp",
+    affiliateUrl: "https://meli.la/146z165",
+    newPrice: "295.999",
+    oldPrice: "389.399",
+    offPct: "23",
+    postedAt: "2026-09-24T17:16:26-03:00",
+  },
 ];
