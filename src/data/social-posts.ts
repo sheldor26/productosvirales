@@ -4359,4 +4359,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "15",
     postedAt: "2026-09-24T12:12:41-03:00",
   },
+  {
+    title: "Silla Gamer Cougar Explore Royal",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_644932-MLA101056155159_122025-O.webp",
+    affiliateUrl: "https://meli.la/2qK715N",
+    newPrice: "399.999",
+    oldPrice: "512.999",
+    offPct: "22",
+    postedAt: "2026-09-24T16:42:50-03:00",
+  },
 ];
