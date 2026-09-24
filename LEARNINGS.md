@@ -351,3 +351,41 @@ compradores independientes, que es lo que convierte una queja suelta en un patr�
 un dato que ML no publica en ninguna de las cuatro (la velocidad). Ese último terminó siendo el
 ángulo diferencial de la guía entera. La verificación contra fabricante que pide `docs/fichas.md`
 no es solo para completar specs: es donde aparece el contenido que la competencia no tiene.
+
+## 2026-09-24 — Generar links de afiliado propios para sourcing sin mensaje curado
+
+Hasta ahora, cuando Juan no mandaba un mensaje curado con tinyurls del programa de afiliados, el
+sourcing quedaba trabado esperando que él generara los links manualmente. Existe una forma de
+generarlos directo desde el navegador (Chrome, logueado como afiliado — el navegador interno de
+Claude Code queda bloqueado por ML, ver `browser-usar-chrome-de-juan`):
+
+1. Ir a **`https://www.mercadolibre.com.ar/afiliados/linkbuilder`** ("Generador de productos
+   recomendados", dentro de Central de afiliados y creadores).
+2. Pegar una o más URLs de producto reales (`/p/MLA…` o `/up/MLAU…`), una por línea.
+3. **Elegir la etiqueta ANTES de generar** — es un dropdown con varias etiquetas configuradas
+   (`productosvirales`, `instagram`, `productosviralesthreads`, `productosviralesx`), pero Juan
+   **hoy en día usa solo 2 en la práctica** (confirmado por Juan el 24/9, las otras dos son
+   remanentes sin uso actual): **`instagram`** = todo lo que es redes sociales (Threads, Instagram,
+   y cualquier red futura), **`productosvirales`** = todo lo de la página (guías, fichas de
+   producto, todo lo que no es un post social). Para posts de Threads/Instagram Story usar
+   **`instagram`** — si se genera con la etiqueta equivocada, el link igual funciona y comisiona,
+   pero queda atribuido al canal equivocado en el panel de métricas
+   (`ml-panel-afiliados-filtra-por-identificador`: Juan mide ROI por canal con estos tags, no es
+   cosmético).
+4. Click "Generar" → devuelve un `meli.la/<código>` por cada URL, en el mismo orden, ya copiados
+   al portapapeles. Verificar con un `navigate` al link resultante que el `matt_word=` en la URL
+   resuelta sea la etiqueta elegida (`matt_tool=` es fijo, es el ID de cuenta de Juan) — es el mismo
+   patrón (`matt_word=instagram`) que ya traen los links que Juan pasa a mano desde sus mensajes
+   curados del programa de afiliados.
+
+**Método más lento (funciona pero es innecesario si el de arriba está disponible):** el botón
+"Compartir" de cada ficha individual → "Copiar link" también genera un link de afiliado real, pero
+usa **siempre la etiqueta default de la cuenta** (`productosvirales`), sin poder elegir canal, y
+hay que pegarlo en algún campo de texto de la página (el portapapeles no es legible directo desde
+las tools de Chrome) para poder leerlo. El linkbuilder hace lo mismo para varios productos a la vez
+y deja elegir la etiqueta — preferirlo siempre que se sourcee sin mensaje curado de Juan.
+
+**Nota:** al generar 4 links juntos en un solo lote, uno salió con error genérico ("Esta URL no es
+de Mercado Libre Argentina") pese a ser una URL `mercadolibre.com.ar` válida — reintentado solo,
+generó bien. Si un link de un lote falla, reintentar ese uno solo antes de asumir que el producto
+tiene un problema real.

@@ -4329,4 +4329,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "39",
     postedAt: "2026-09-24T09:38:42-03:00",
   },
+  {
+    title: 'Smart TV BGH Vidaa 32" LED HD',
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_637503-MLA99995727113_112025-O.webp",
+    affiliateUrl: "https://meli.la/1tAXkV5",
+    newPrice: "268.199",
+    oldPrice: "350.999",
+    offPct: "23",
+    postedAt: "2026-09-24T11:11:36-03:00",
+  },
 ];
