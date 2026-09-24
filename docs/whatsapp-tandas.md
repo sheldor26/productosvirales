@@ -17,3 +17,13 @@ Antes de armar una tanda nueva: chequear que ninguno de los 3 candidatos aparezc
 | ... | $... | meli.la/... |
 
 -->
+
+### 2026-09-24 17:13 — Tarde
+
+Primera tanda del canal, publicada manualmente en primer turno (el cron recurrente de las 16:40 no llegó a dispararse solo — quedó encolado detrás de la publicación en Threads de ese mismo momento). Sourcing propio vía `/ofertas`, sin repetir nada de lo posteado hoy en Threads. Links generados con el linkbuilder de afiliados, etiqueta "instagram".
+
+| Producto | Precio | Link |
+|---|---|---|
+| Colchón de Espuma en Caja 1 Plaza Atma | $196.699 (36% OFF) | meli.la/2Ca7CFR |
+| Mesa Exterior Plegable 180cm Alpina | $73.990 (22% OFF) | meli.la/1wUtSB9 |
+| Ventilador de Techo Retráctil AMBI O | $114.549 (21% OFF) | meli.la/2AbBogH |
