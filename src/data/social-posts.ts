@@ -4349,4 +4349,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "32",
     postedAt: "2026-09-24T11:40:39-03:00",
   },
+  {
+    title: "Base Dobe Dual Cargador Joystick PS5",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_684156-MLA89079343687_072025-O.webp",
+    affiliateUrl: "https://meli.la/13j2h34",
+    newPrice: "19.602",
+    oldPrice: "23.335",
+    offPct: "15",
+    postedAt: "2026-09-24T12:12:41-03:00",
+  },
 ];
