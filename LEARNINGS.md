@@ -389,3 +389,48 @@ y deja elegir la etiqueta — preferirlo siempre que se sourcee sin mensaje cura
 de Mercado Libre Argentina") pese a ser una URL `mercadolibre.com.ar` válida — reintentado solo,
 generó bien. Si un link de un lote falla, reintentar ese uno solo antes de asumir que el producto
 tiene un problema real.
+
+## 2026-09-24 — Publicar directo en el canal de WhatsApp "Productos Virales Argentina"
+
+Primera vez que se probó: Claude puede controlar la Mac de Juan (tools `mcp__computer-use__*`,
+requiere `request_access` con la app WhatsApp y confirmación de Juan) para publicar un post real en
+el canal de WhatsApp (Novedades → Canales → "Productos Virales Argentina", 5 seguidores). Funcionó.
+
+**Formato del canal (distinto del copy de Threads/Instagram)** — se dedujo leyendo un post anterior
+ya publicado ahí, mismo estilo de tarjeta de precio (`t7xx-post.png`, el asset de precio, NO el de
+beneficios ni la story):
+```
+<emoji> NOMBRE DEL PRODUCTO EN MAYÚSCULAS AL X% OFF
+De $viejo a $nuevo ✅
+⭐ rating/5 — Tienda oficial <vendedor>, +N vendidos
+<emoji> primer feature/beneficio
+<emoji> segundo feature/beneficio
+👉https://meli.la/xxxxx
+```
+Sin salto de línea antes del link (el 👉 pegado a la URL, sin espacio, así aparece en el post de
+referencia).
+
+**Flujo técnico:**
+1. `request_access` con `apps: ["WhatsApp"]` — Juan aprueba una vez por sesión.
+2. WhatsApp ya suele estar abierto con el canal correcto a la vista (`app_screenshot` lo confirma).
+3. El diálogo nativo "Abrir archivo" de macOS (para adjuntar la imagen) **no responde bien en modo
+   background** (`app_click`/`app_type` fallan o quedan "unverified" sin seleccionar realmente el
+   archivo) — hubo que pedir `request_full_control` (pantalla completa, pide aprobación aparte de
+   Juan) y usar los tools de pantalla completa (`computer_batch`) solo para ese paso puntual.
+4. El buscador del diálogo de archivos (Spotlight) **no indexa `/private/tmp/...`** (la carpeta de
+   scratchpad de la sesión) — copiar antes el PNG a `~/Downloads/` con `cp` para que aparezca en
+   "Descargas" y sea buscable/seleccionable.
+5. Seleccionar el archivo con doble click (un solo click no lo dejaba en estado seleccionable para
+   "Abrir" de forma confiable), confirmar con el preview antes de "Abrir".
+6. Escribir el texto en el campo "Añadir un comentario" de la preview de envío (no en el chat).
+7. ⚠️ **Ojo con el botón de enviar**: después de mandar el primer click de envío, si se hace un
+   segundo click de más en la misma zona (por reflejo, para confirmar), el botón ya cambió a ícono
+   de micrófono (grabar audio) y puede arrancar a grabar una nota de voz por accidente — pasó en la
+   primera prueba, se canceló a tiempo con el botón de basurero antes de soltar. Verificar con un
+   screenshot después de CADA click de envío antes de hacer cualquier click adicional.
+8. Volver a modo background con `release_full_control` al terminar el paso puntual — no hace falta
+   quedarse en pantalla completa el resto de la tarea.
+
+**Regla de negocio, no solo técnica:** publicar en un canal es contenido público — mostrarle a Juan
+el texto/imagen final ANTES de tocar enviar (así se hizo la primera vez), no asumir que el permiso
+general de controlar la Mac ya cubre el contenido específico de cada post.

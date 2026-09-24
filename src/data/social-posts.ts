@@ -4339,4 +4339,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "23",
     postedAt: "2026-09-24T11:11:36-03:00",
   },
+  {
+    title: "PS4 Fat 500GB + Juego + 2 Joysticks (Reacondicionado)",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_810854-MLA117282152391_092026-O.webp",
+    affiliateUrl: "https://meli.la/2mgPjYX",
+    newPrice: "599.500",
+    oldPrice: "890.000",
+    offPct: "32",
+    postedAt: "2026-09-24T11:40:39-03:00",
+  },
 ];
