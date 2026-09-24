@@ -4319,4 +4319,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "20",
     postedAt: "2026-09-24T09:09:35-03:00",
   },
+  {
+    title: "Aspiradora Vertical Trapeadora Gadnic FLS31 2en1",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_751300-MLA99453995620_112025-O.webp",
+    affiliateUrl: "https://meli.la/1XfEwgH",
+    newPrice: "555.399",
+    oldPrice: "925.649",
+    offPct: "39",
+    postedAt: "2026-09-24T09:38:42-03:00",
+  },
 ];
