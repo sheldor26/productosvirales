@@ -434,3 +434,10 @@ referencia).
 **Regla de negocio, no solo técnica:** publicar en un canal es contenido público — mostrarle a Juan
 el texto/imagen final ANTES de tocar enviar (así se hizo la primera vez), no asumir que el permiso
 general de controlar la Mac ya cubre el contenido específico de cada post.
+
+⚠️ **Actualización el mismo día (24/9), después de 2 posts:** Juan cambió la política de CUÁNDO se
+publica acá — dejó de ser un espejo 1 a 1 de cada post de Threads. Ahora es un canal con sourcing
+propio (productos distintos a los de Threads), en tandas de 3, 3-4 veces al día en horarios fijos.
+El mecanismo técnico de arriba (los 8 pasos) sigue vigente igual, solo cambió el disparador y el
+contenido — ver memoria `whatsapp-canal-sourcing-propio-tandas-de-3`. También pidió que a partir de
+ahora se publique directo, sin mostrarle el texto en el chat a esperar confirmación cada vez.
