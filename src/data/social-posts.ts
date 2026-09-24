@@ -4309,4 +4309,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "37",
     postedAt: "2026-09-24T08:24:00-03:00",
   },
+  {
+    title: 'Smart TV Samsung 75" 4K Crystal UHD',
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_875494-MLA99029638996_112025-O.webp",
+    affiliateUrl: "https://meli.la/2pmu3WM",
+    newPrice: "1.899.999",
+    oldPrice: "2.389.999",
+    offPct: "20",
+    postedAt: "2026-09-24T09:09:35-03:00",
+  },
 ];
