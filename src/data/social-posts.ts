@@ -4379,4 +4379,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "23",
     postedAt: "2026-09-24T17:16:26-03:00",
   },
+  {
+    title: 'Smart TV Gadnic 32" Android TV',
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_844815-MLA105408263742_012026-O.webp",
+    affiliateUrl: "https://meli.la/1w14j8b",
+    newPrice: "269.999",
+    oldPrice: "493.499",
+    offPct: "45",
+    postedAt: "2026-09-24T17:44:51-03:00",
+  },
 ];
