@@ -27243,7 +27243,127 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { label: "Lámpara de pie: cuál comprar en Argentina", href: "/guias/hogar-jardin/lampara-de-pie" },
       { label: "Mesa ratona: cuál comprar en Argentina", href: "/guias/hogar-jardin/mesa-ratona" },
       { label: "Conservadora: cuál comprar en Argentina", href: "/guias/hogar-jardin/conservadora" },
+      { label: "Tacho de basura: cuál comprar en Argentina", href: "/guias/hogar-jardin/tacho-de-basura" },
       { label: "Ver toda la categoría Hogar y Jardín", href: "/categoria/hogar-jardin" },
+    ],
+    internalLinksTitle: "Más de hogar y jardín",
+  },
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva tacho-de-basura — silo hogar-jardin (existente, con
+  // zapatero, estantería flotante, lámpara de pie, mesa ratona y
+  // conservadora). Origen: docs/keywords-verificadas-2026-08-15.md,
+  // "tacho de basura" 9.900/mes, evergreen, SERP sin comparador
+  // editorial (solo el blog de ML). 4 fichas nuevas, sourcing en vivo
+  // el 2026-09-25 (Chrome de Juan, ML bloquea el navegador interno).
+  // Afiliados con placeholder PEGAR_MELI_LA hasta los links reales.
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "tacho-de-basura",
+    category: "tacho-de-basura",
+    silo: "hogar-jardin",
+    pillar: true,
+    title: `Tacho de basura: cuál comprar en Argentina [2026]`,
+    seoTitle: `Tacho de Basura: Cuál Comprar en Argentina Hoy [2026]`,
+    metaDescription: `Comparamos 4 tachos de basura reales de MercadoLibre: el más vendido de la comparativa, un set de dos para cocina y baño, el más barato, y uno con sensor.`,
+    ogTitle: `Tacho de basura: cuál comprar en Argentina`,
+    ogDescription: `Del más barato al que se abre solo con sensor: 4 tachos de basura comparados por respaldo real de reseñas, con contras honestos incluidos.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_622230-MLA99441448766_112025-F.webp`,
+    h1: `Tacho de basura: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene el **[Basurero Tramontina 20L](/producto/basurero-pedal-new-20-l-pulido-tramontina-mla19937864)** (alrededor de {{precio:MLA19937864:k}}): el tacho de basura más vendido de esta comparativa, con {{reviews:MLA19937864}} opiniones. Si necesitás equipar cocina y baño de una vez, el **[set Nictom 12L y 3L](/producto/set-tachos-de-basura-nictom-12-lts-y-3-lts-plateado-cesto-residuos-acero-mla74598266)** (alrededor de {{precio:MLA74598266:k}}). Si el presupuesto manda, el **[Cesto Hogar Actual 3L](/producto/cesto-tacho-de-residuos-hogar-actual-acero-inoxidable-3-litros-con-tapa-cierre-s-mla23516548)** (alrededor de {{precio:MLA23516548:k}}), el más barato. Y si querés que se abra solo sin tocarlo, el **[tacho con sensor automático](/producto/tacho-de-basura-inteligente-12lts-sensor-automatico-mlau4538114613)** (alrededor de {{precio:MLAU4538114613:k}}), aunque con pocas opiniones todavía.`,
+    publishedDate: "2026-09-25",
+    updatedDate: "2026-09-25",
+    hasDisclosure: true,
+    readingTime: 8,
+    standfirst: `Un tacho de basura va de {{precio:MLA23516548:k}} a {{precio:MLA74598266:k}}. Comparamos 4 modelos reales de MercadoLibre Argentina por **capacidad, tipo de apertura y respaldo real de reseñas**, con contras sacados de reseñas verdaderas, dentro de nuestro silo de [Hogar y Jardín](/categoria/hogar-jardin).`,
+    quickPicks: [
+      { productMlaId: "MLA19937864", label: "El más vendido", labelColor: "green", tagline: "Basurero Tramontina 20L: 7° del ranking de toda la categoría, acero grueso" },
+      { productMlaId: "MLA74598266", label: "Cocina y baño juntos", labelColor: "blue", tagline: "Set Nictom 12L y 3L: dos tachos, cierre progresivo silencioso" },
+      { productMlaId: "MLA23516548", label: "El más barato", labelColor: "slate", tagline: "Cesto Hogar Actual 3L: la entrada más económica de la comparativa" },
+      { productMlaId: "MLAU4538114613", label: "Se abre solo", labelColor: "purple", tagline: "Sensor automático: sin pedal ni tocar la tapa, pero con pocas opiniones" },
+    ],
+    intro: [
+      `Un tacho de basura parece la compra más simple del hogar, y en parte lo es: no hay marcas peleando por posicionarse como líderes, ni comparadores independientes que te digan cuál conviene. Lo único que existe hoy es el propio catálogo de MercadoLibre y las reseñas reales de quienes ya lo compraron.`,
+      `Comparamos 4 tachos de basura reales, verificados en vivo, cubriendo los casos de uso más comunes: el que más reseñas acumuló (7° en el ranking propio de MercadoLibre de toda la categoría Cestos de Residuos), un set de dos tamaños para resolver cocina y baño de una vez, la entrada más económica, y una opción con sensor automático para quien no quiere tocar la tapa. Te contamos también dónde cada uno se queda corto, con datos de reseñas reales.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_622230-MLA99441448766_112025-F.webp", alt: `Basurero de cocina con pedal Tramontina, el tacho de basura más vendido de esta comparativa de MercadoLibre Argentina`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `El tacho de basura más vendido de esta comparativa es el **[Basurero Tramontina 20L](/producto/basurero-pedal-new-20-l-pulido-tramontina-mla19937864)**, con {{reviews:MLA19937864}} opiniones. Si necesitás equipar cocina y baño de una vez, el **[set Nictom 12L y 3L](/producto/set-tachos-de-basura-nictom-12-lts-y-3-lts-plateado-cesto-residuos-acero-mla74598266)** resuelve las dos necesidades juntas, con cierre silencioso.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** partimos de la categoría Cestos de Residuos de MercadoLibre Argentina y verificamos cada publicación en vivo el 2026-09-25: precio, stock, ranking propio de más vendidos de MercadoLibre, ficha técnica y reseñas de compradores reales. Miramos especialmente tres campos que deciden la compra: **capacidad** (litros), **tipo de apertura** (pedal, cierre suave o sensor), y **respaldo real de reseñas**. Los precios se verifican periódicamente contra MercadoLibre.` },
+
+      { type: "h2", title: `Los tres datos que deciden la compra`, id: "que-mirar" },
+      { type: "p", content: `**Capacidad, según dónde va.** Para cocina, 12 a 20 litros es el rango más común. Para baño, 3 litros alcanza de sobra. Si tenés espacio para dos tachos, un set de ambos tamaños resuelve las dos necesidades sin tener que elegir.` },
+      { type: "p", content: `**Tipo de apertura.** El pedal tradicional es el más resistente y no depende de batería. El cierre suave (soft-close) evita el golpe y el ruido de la tapa al cerrar, un plus que varias reseñas reales destacan. El sensor automático es el más cómodo (no hay que tocar nada), pero depende de pilas o batería y todavía es una categoría con menos historial de reseñas en el catálogo.` },
+      { type: "p", content: `**Respaldo real de reseñas.** En esta comparativa hay una diferencia enorme: desde {{reviews:MLAU4538114613}} calificaciones en la opción con sensor hasta {{reviews:MLA19937864}} en el Basurero Tramontina. No es lo mismo un 4.9★ con apenas {{reviews:MLAU4538114613}} opiniones que un 4.8★ con miles: el segundo dato pesa mucho más.` },
+
+      { type: "h2", title: `Comparativa rápida: los 4 frente a frente`, id: "tabla-comparativa" },
+      { type: "table", headers: ["Modelo", "Capacidad", "Apertura", "Rating", "Ideal para"], rows: [
+        [`[Basurero Tramontina 20L](https://meli.la/1cQ1Lid)`, "20 L", "Pedal", `{{rating:MLA19937864}}`, "La mayoría: el más vendido"],
+        [`[Set Nictom 12L y 3L](https://meli.la/1Rb1syz)`, "12 L + 3 L", "Pedal, cierre suave", `{{rating:MLA74598266}}`, "Cocina y baño juntos"],
+        [`[Cesto Hogar Actual 3L](https://meli.la/2o31dep)`, "3 L", "Pedal, cierre suave", `{{rating:MLA23516548}}`, "Presupuesto ajustado"],
+        [`[Tacho con sensor](https://meli.la/1fjrmoC)`, "12 L", "Sensor automático", `{{rating:MLAU4538114613}}`, "Sin tocar la tapa"],
+      ] },
+      { type: "p", content: `El nombre de cada modelo lleva directo a su publicación en MercadoLibre. Abajo está el detalle de los cuatro, en el mismo orden: qué hace bien cada uno y dónde conviene mirar dos veces.` },
+
+      { type: "h2", title: `El ranking`, id: "ranking" },
+
+      { type: "h3", title: `1. Basurero Tramontina 20L` },
+      { type: "product-card", productMlaId: "MLA19937864", label: "El más vendido", labelColor: "green", ranking: 1, description: `20 litros, acero inoxidable pulido, pedal. El tacho de basura más vendido de esta comparativa, con {{reviews:MLA19937864}} opiniones.` },
+      { type: "p", content: `Es el tacho de basura con más respaldo de esta comparativa: {{reviews:MLA19937864}} calificaciones a {{rating:MLA19937864}} estrellas, 7° en el ranking propio de MercadoLibre de toda la categoría Cestos de Residuos. Marca reconocida (Tramontina) y acero más grueso que los cestos genéricos, según confirman reseñas reales.` },
+      { type: "pull-quote", content: `"Muy buen producto, el acero es mucho más grueso que los cestos tradicionales por lo que no se marca ante caídas."`, attribution: `Comprador del Basurero Tramontina, calificación 5/5` },
+      { type: "p", content: `La aclaración honesta: la tapa es de plástico, no de acero inoxidable completo. Es una decisión de diseño (así el mecanismo de pedal es más liviano y no se rompe), no un defecto.` },
+
+      { type: "h3", title: `2. Set Tachos de Basura Nictom 12L y 3L` },
+      { type: "product-card", productMlaId: "MLA74598266", label: "Cocina y baño juntos", labelColor: "blue", ranking: 2, description: `Set de 2: 12 litros para cocina y 3 litros para baño, acero inoxidable con cierre progresivo. {{reviews:MLA74598266}} opiniones.` },
+      { type: "p", content: `Resuelve dos ambientes en una sola compra: 12 litros para la cocina, 3 litros para el baño, los dos con cierre progresivo de la tapa (no golpea ni hace ruido al cerrar). {{reviews:MLA74598266}} calificaciones a {{rating:MLA74598266}} estrellas, 5° en el ranking propio de MercadoLibre, vendido por la tienda oficial de la marca.` },
+      { type: "pull-quote", content: `"Tengo uno en la cocina y el otro en el baño. Los dos quedan re lindos, y el detalle de que la tapa cierra sola despacio, amo!."`, attribution: `Compradora del set Nictom, calificación 5/5` },
+      { type: "p", content: `La contra real: base de opiniones más chica que el Tramontina (197 contra 3.672), aunque el respaldo de tienda oficial compensa parte de esa diferencia.` },
+
+      { type: "h3", title: `3. Cesto Hogar Actual 3L` },
+      { type: "product-card", productMlaId: "MLA23516548", label: "El más barato", labelColor: "slate", ranking: 3, description: `3 litros, acero inoxidable, cierre suave. La entrada más económica de esta comparativa, con {{reviews:MLA23516548}} opiniones.` },
+      { type: "p", content: `A {{precio:MLA23516548}}, es la opción más económica de esta guía: 3 litros de acero con cierre suave, ideal para baño o como cesto chico de cocina. {{reviews:MLA23516548}} calificaciones a {{rating:MLA23516548}} estrellas, 10° en el ranking propio de MercadoLibre de la categoría.` },
+      { type: "pull-quote", content: `"Es de muy buena calidad y diseño elegante. Funciona correctamente, es silencioso y no permite que los olores se escapen."`, attribution: `Resumen de opiniones reales de MercadoLibre` },
+      { type: "p", content: `La contra real: al menos una reseña avisa que tuvo que cambiar el producto dos veces por abolladuras de fábrica antes de quedarse con una unidad. No es la experiencia mayoritaria, pero conviene revisar el estado al recibirlo.` },
+
+      { type: "h3", title: `4. Tacho con sensor automático` },
+      { type: "product-card", productMlaId: "MLAU4538114613", label: "Se abre solo", labelColor: "purple", ranking: 4, description: `12 litros, se abre solo con sensor automático, sin pedal ni tapa manual. {{rating:MLAU4538114613}} estrellas, aunque con pocas opiniones todavía.` },
+      { type: "p", content: `Es la única opción sin pedal ni tapa manual de esta comparativa: un sensor detecta la mano cerca y la tapa se abre sola. Las opiniones que tiene promedian {{rating:MLAU4538114613}} estrellas, y el vendedor ya superó las 100 unidades vendidas.` },
+      { type: "pull-quote", content: `"Está buenísimo. Para mí el tamaño es ideal. Funciona a la perfección."`, attribution: `Comprador del tacho con sensor, calificación 5/5` },
+      { type: "p", content: `La contra real, y hay que decirla de frente: tiene solo {{reviews:MLAU4538114613}} calificaciones, la base más chica de toda esta comparativa por lejos (las otras tres tienen entre 197 y más de 3.600). Además, depende de pilas o batería, a diferencia de un pedal mecánico que nunca falla por eso.` },
+
+      { type: "h2", title: `Cómo elegir tu tacho de basura`, id: "como-elegir" },
+      { type: "h3", title: `1. Definí primero dónde va` },
+      { type: "p", content: `Para cocina, 12 a 20 litros. Para baño, 3 litros alcanza de sobra. Si tenés los dos ambientes por equipar, un set como el Nictom de esta comparativa resuelve las dos necesidades en una sola compra.` },
+      { type: "h3", title: `2. Pedal, cierre suave o sensor: pensá en el uso diario` },
+      { type: "p", content: `El pedal tradicional nunca falla por batería. El cierre suave suma silencio sin perder esa ventaja. El sensor automático es el más cómodo si seguido tenés las manos ocupadas o sucias en la cocina, pero depende de pilas y todavía tiene menos historial probado en el catálogo.` },
+      { type: "h3", title: `3. Mirá rating y cantidad de opiniones juntos` },
+      { type: "p", content: `Un 4.9★ con apenas {{reviews:MLAU4538114613}} opiniones no pesa lo mismo que un 4.8★ con miles. Si vas a comprar la opción con sensor de esta guía, hacelo sabiendo que el respaldo de datos todavía es chico, aunque las opiniones que hay son buenas.` },
+
+      { type: "h2", title: `Cuánto cuesta un tacho de basura en Argentina`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de {{precio:MLA23516548:k}}:** el [Cesto Hogar Actual 3L](/producto/cesto-tacho-de-residuos-hogar-actual-acero-inoxidable-3-litros-con-tapa-cierre-s-mla23516548), la opción más económica de esta comparativa.`,
+        `**Alrededor de {{precio:MLAU4538114613:k}} a {{precio:MLA19937864:k}}:** el [tacho con sensor](/producto/tacho-de-basura-inteligente-12lts-sensor-automatico-mlau4538114613) y el [Basurero Tramontina 20L](/producto/basurero-pedal-new-20-l-pulido-tramontina-mla19937864), el más vendido de la comparativa.`,
+        `**Alrededor de {{precio:MLA74598266:k}}:** el [set Nictom 12L y 3L](/producto/set-tachos-de-basura-nictom-12-lts-y-3-lts-plateado-cesto-residuos-acero-mla74598266), que resuelve cocina y baño juntos.`,
+      ] },
+
+      { type: "verdict", content: `Para la mayoría, el **[Basurero Tramontina 20L](/producto/basurero-pedal-new-20-l-pulido-tramontina-mla19937864)**: el tacho de basura más vendido de esta comparativa, con el mayor respaldo de reseñas reales de las 4. Si necesitás equipar cocina y baño de una vez, el **[set Nictom 12L y 3L](/producto/set-tachos-de-basura-nictom-12-lts-y-3-lts-plateado-cesto-residuos-acero-mla74598266)**, con cierre silencioso. Si el presupuesto manda, el **[Cesto Hogar Actual 3L](/producto/cesto-tacho-de-residuos-hogar-actual-acero-inoxidable-3-litros-con-tapa-cierre-s-mla23516548)**, el más barato de esta guía. Y si querés que se abra solo sin tocarlo, el **[tacho con sensor automático](/producto/tacho-de-basura-inteligente-12lts-sensor-automatico-mlau4538114613)**, sabiendo que todavía tiene pocas opiniones comparado con el resto.` },
+
+      { type: "h2", title: `Preguntas frecuentes`, id: "faq" },
+    ],
+    faq: [
+      { question: `¿Cuál es el mejor tacho de basura en Argentina?`, answer: `Por respaldo de reseñas, el [Basurero Tramontina 20L](/producto/basurero-pedal-new-20-l-pulido-tramontina-mla19937864): {{reviews:MLA19937864}} calificaciones, 7° en el ranking propio de MercadoLibre de toda la categoría Cestos de Residuos.` },
+      { question: `¿Conviene un tacho con pedal o con sensor automático?`, answer: `El pedal nunca falla por batería y es el formato más probado. El sensor automático es más cómodo si seguido tenés las manos ocupadas, pero depende de pilas y todavía tiene menos historial de reseñas en el catálogo.` },
+      { question: `¿Qué tamaño conviene para cocina?`, answer: `Entre 12 y 20 litros es el rango más común. El [Basurero Tramontina](/producto/basurero-pedal-new-20-l-pulido-tramontina-mla19937864) de esta guía tiene 20 litros, el estándar para una familia.` },
+      { question: `¿Hay alguna opción para cocina y baño juntos?`, answer: `Sí, el [set Nictom 12L y 3L](/producto/set-tachos-de-basura-nictom-12-lts-y-3-lts-plateado-cesto-residuos-acero-mla74598266) de esta guía trae los dos tamaños en una sola compra, con cierre silencioso.` },
+      { question: `¿Cuál es el tacho de basura más barato de esta guía?`, answer: `El [Cesto Hogar Actual 3L](/producto/cesto-tacho-de-residuos-hogar-actual-acero-inoxidable-3-litros-con-tapa-cierre-s-mla23516548), a {{precio:MLA23516548}}.` },
+      { question: `¿Vale la pena el tacho con sensor automático?`, answer: `Tiene opiniones muy buenas, pero todavía pocas (solo {{reviews:MLAU4538114613}} calificaciones contra cientos o miles de las otras fichas de esta guía). Si el sensor te resuelve un problema real, vale la pena; si preferís más respaldo de datos, las otras tres opciones tienen más historial.` },
+    ],
+    internalLinks: [
+      { label: "Zapatero: cuál comprar en Argentina", href: "/guias/hogar-jardin/zapatero" },
+      { label: "Estantería flotante: cuál comprar en Argentina", href: "/guias/hogar-jardin/estanteria-flotante" },
+      { label: "Lámpara de pie: cuál comprar en Argentina", href: "/guias/hogar-jardin/lampara-de-pie" },
+      { label: "Mesa ratona: cuál comprar en Argentina", href: "/guias/hogar-jardin/mesa-ratona" },
     ],
     internalLinksTitle: "Más de hogar y jardín",
   },
@@ -27962,6 +28082,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { label: `Lámpara de pie: cuál comprar en Argentina`, href: `/guias/hogar-jardin/lampara-de-pie` },
       { label: `Zapatero: cuál comprar en Argentina`, href: `/guias/hogar-jardin/zapatero` },
       { label: `Conservadora: cuál comprar en Argentina`, href: `/guias/hogar-jardin/conservadora` },
+      { label: `Tacho de basura: cuál comprar en Argentina`, href: `/guias/hogar-jardin/tacho-de-basura` },
       { label: `Ver toda la categoría Hogar y Jardín`, href: `/categoria/hogar-jardin` },
     ],
     internalLinksTitle: "Más de hogar y jardín",
@@ -28097,6 +28218,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { label: `Mesa ratona: cuál comprar en Argentina`, href: `/guias/hogar-jardin/mesa-ratona` },
       { label: `Zapatero: cuál comprar en Argentina`, href: `/guias/hogar-jardin/zapatero` },
       { label: `Conservadora: cuál comprar en Argentina`, href: `/guias/hogar-jardin/conservadora` },
+      { label: `Tacho de basura: cuál comprar en Argentina`, href: `/guias/hogar-jardin/tacho-de-basura` },
       { label: `Ver toda la categoría Hogar y Jardín`, href: `/categoria/hogar-jardin` },
     ],
     internalLinksTitle: "Más de hogar y jardín",
@@ -28244,6 +28366,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { label: `Mesa ratona: cuál comprar en Argentina`, href: `/guias/hogar-jardin/mesa-ratona` },
       { label: `Zapatero: cuál comprar en Argentina`, href: `/guias/hogar-jardin/zapatero` },
       { label: `Conservadora: cuál comprar en Argentina`, href: `/guias/hogar-jardin/conservadora` },
+      { label: `Tacho de basura: cuál comprar en Argentina`, href: `/guias/hogar-jardin/tacho-de-basura` },
       { label: `Ver toda la categoría Hogar y Jardín`, href: `/categoria/hogar-jardin` },
     ],
     internalLinksTitle: "Más de hogar y jardín",

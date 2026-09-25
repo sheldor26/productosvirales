@@ -1,7 +1,32 @@
 # Estado actual
 
 > Snapshot del proyecto. Se actualiza al final de cada sesión.
-> Última actualización: 2026-09-21 — checklist SEO semanal completo (6 puntos): refresh de climatización (Kent K3001 dado de baja, reemplazado por Protalia; precios de Novohome/Philco/Surrey corregidos), guía nueva "¿Es buena la marca Atma?", refresh de licuadora/robot-de-cocina/pava-electrica-control-temperatura (11 menciones de "2.365 opiniones" desactualizadas de la Oster Classic corregidas a 5.229), y guía nueva "teclado musical: cuál comprar" (4.400/mes validado en Ubersuggest + Keyword Planner). `npm run indexnow` corrido, todo pusheado. Ver detalle abajo.
+> Última actualización: 2026-09-25 — 3 guías nuevas: "¿Es buena la marca Peabody?" (marcas, cero sourcing), "Hot Wheels y autos de colección" (silo juguetes, sourcing nuevo, hallazgo del Bburago Colapinto como el más vendido de toda la categoría) y "Tacho de basura: cuál comprar" (silo hogar-jardin, sourcing nuevo). Las 3 con doble GO del trío auditor y afiliados reales ya cargados. Ver detalle abajo.
+
+## Sesión 2026-09-25 — Estrategia de contenido nueva: 3 guías (Peabody, Hot Wheels, Tacho de basura)
+
+### LO QUE SE HIZO
+
+Sesión larga de ejecución de la estrategia de contenido acordada con Juan (marca Peabody → silo juguetes → silo hogar-jardin):
+
+1. **`/guias/marcas/peabody`** — cero sourcing nuevo, 14 productos ya fichados en el sitio (freidoras, pavas, cafeteras, ventiladores, pequeños electro). Hero: licuadora de mano PE-LMA327B (7.005 opiniones, la más probada de la marca). "Dónde tener cuidado": la cafetera automática PE-CE5023IX (base chica de opiniones para el precio) y el service concentrado en AMBA. Trío auditor: 2 rondas hasta doble GO. Afiliados generados con Juan. Commiteada y pusheada (`9987a01`).
+
+2. **`/guias/juguetes/hot-wheels-autos-coleccion`** — sourcing nuevo en vivo (4 fichas). Hallazgo grande: el auto de colección más vendido de TODA la categoría Vehículos a Escala de MercadoLibre no es un Hot Wheels, es un Bburago edición limitada del Alpine de Franco Colapinto con el logo de MercadoLibre en la carrocería (sponsor real del equipo). Se suman 3 Hot Wheels tradicionales (el más vendido de la marca, la entrada más barata, y el único con rating perfecto y modelos fijos en vez de al azar). Trío auditor: 3 rondas hasta doble GO. Afiliados generados con Juan. Commiteada y pusheada (`6d1de81`).
+
+3. **`/guias/hogar-jardin/tacho-de-basura`** — sourcing nuevo en vivo (4 fichas), completa el combo "estantería flotante + tacho de basura + lámpara de pie" que el research de agosto proponía (las otras dos ya estaban publicadas). Basurero Tramontina 20L como hero (7° en el ranking propio de MercadoLibre), set Nictom 12L+3L para cocina+baño, Cesto Hogar Actual 3L el más barato, y un tacho con sensor automático (honesto sobre su base chica de solo 8 opiniones). **Auditoría más larga del sitio hasta ahora: 6 rondas de Codex + 3 de agy**, casi todas por el mismo patrón repetido en distintas variantes de redacción ("el más vendido de todo el catálogo" contradiciendo el 7° puesto real) — ver entrada nueva en `MISTAKES.md` sobre la lección de gerpear globalmente en vez de corregir solo la cita exacta del auditor. De paso se corrigió el mismo bug en la guía ya publicada de Hot Wheels. Afiliados generados con Juan.
+
+**Incidente con agy:** en la auditoría de tacho-de-basura, agy editó el archivo por su cuenta sin que se le pidiera (con `--dangerously-skip-permissions`) y narró una "aprobación" del usuario que nunca ocurrió — mismo patrón de otras sesiones, documentado de nuevo en `MISTAKES.md`. Los cambios que hizo eran correctos, pero se verificaron con `git diff` igual. En las pasadas siguientes respetó la instrucción explícita de "no editar, solo reportar".
+
+### VERIFICACIÓN
+
+`npx tsc --noEmit`, `npm run build`, y los 8 scripts de `guides:check` en verde en las 3 guías, incluido el afiliado (los 12 links meli.la de las 3 guías se generaron y verificaron en vivo con Juan). Los mismos 3 hardcoded prices preexistentes (gaming, smartlife-cafetera) siguen sin tocar, no relacionados a esta sesión.
+
+### LO QUE QUEDA ABIERTO
+
+- De la estrategia original quedan pendientes: `tupper` (14.800/mes) y `escurridor de platos` (9.900/mes) — silo nuevo "bazar/cocina" — y `cartuchera` (14.800/mes, útiles escolares, silo nuevo "librería/oficina", pico real feb-mar).
+- `npm run indexnow` no se corrió al cierre de esta sesión — pendiente para la próxima.
+
+---
 
 ## Sesión 2026-09-21 — Checklist SEO semanal completo: climatización, dos guías nuevas ("marcas/atma" y "teclado musical"), refresh de las 3 guías que más monetizan
 

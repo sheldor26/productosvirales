@@ -75431,12 +75431,12 @@ El producto más vendido de toda la categoría de autos a escala del sitio, con 
     ],
     relatedProducts: ["MLAU4083097538", "MLAU429681969", "MLAU3676628437"],
     priceUpdated: "2026-09-25", priceLastChecked: "2026-09-25", priceStatus: "fresh", reviewsSampledAt: "2026-09-25",
-    description: "Pack de 5 autos Hot Wheels originales Mattel, escala 1:64, surtido al azar. Es el Hot Wheels más vendido de todo el catálogo: {{reviews:MLA1380850143}} opiniones a {{rating:MLA1380850143}} estrellas, 2° en el ranking propio de MercadoLibre de toda la categoría Vehículos a Escala.",
+    description: "Pack de 5 autos Hot Wheels originales Mattel, escala 1:64, surtido al azar. Es el Hot Wheels más vendido de esta comparativa: {{reviews:MLA1380850143}} opiniones a {{rating:MLA1380850143}} estrellas, 2° en el ranking propio de MercadoLibre de toda la categoría Vehículos a Escala.",
     seoTitle: "Hot Wheels pack x5 CHARCO: el más vendido del catálogo",
     metaDescription: "Hot Wheels Pack por 5 unidades, original Mattel, escala 1:64. {{reviews:MLA1380850143}} opiniones a {{rating:MLA1380850143}} estrellas, 2° en ventas.",
     verdict: "Es el Hot Wheels con más volumen de ventas y de opiniones de todo el catálogo: {{reviews:MLA1380850143}} calificaciones reales a {{rating:MLA1380850143}} estrellas, 2° en el ranking propio de MercadoLibre de toda la categoría Vehículos a Escala. A {{precio:MLA1380850143}} por 5 autos, es la mejor relación precio por unidad de esta guía. La selección viene al azar (no elegís los modelos), y una reseña real de 3 estrellas avisa que ocasionalmente algún auto del lote viene con terminación más floja que el resto.",
     pros: [
-      `El Hot Wheels más vendido del catálogo: {{reviews:MLA1380850143}} calificaciones a {{rating:MLA1380850143}} estrellas`,
+      `El Hot Wheels más vendido de esta comparativa: {{reviews:MLA1380850143}} calificaciones a {{rating:MLA1380850143}} estrellas`,
       "2° en el ranking propio de MercadoLibre de toda la categoría Vehículos a Escala",
       "Mejor relación precio por unidad de esta guía: {{precio:MLA1380850143}} por 5 autos",
       "Modelos variados (clásicos, deportivos, utilitarios) en un mismo pack",
@@ -78563,6 +78563,397 @@ Comprala si buscás una opción liviana, plegable y con funda que tape el calzad
       { question: "¿Cuántos niveles tiene?", answer: "9 niveles en 8 estantes, según la ficha técnica — el más alto de esta comparativa (140 cm)." },
       { question: "¿Se puede plegar o guardar fácil?", answer: "Sí, al ser de tela es más fácil de guardar o mover que las opciones de metal, madera o plástico rígido de esta comparativa." },
     ],
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva tacho-de-basura — silo hogar-jardin (existente, con
+  // zapatero). Sourcing en vivo el 2026-09-25 (Chrome de Juan, ML
+  // bloquea el navegador interno). Origen: docs/keywords-verificadas-
+  // 2026-08-15.md, "tacho de basura" 9.900/mes, evergreen, SERP sin
+  // comparador editorial (solo el blog de ML). 4 fichas nuevas.
+  // ─────────────────────────────────────────────────────────
+  {
+    id: "MLA19937864",
+    title: "Basurero Pedal New 20 L Pulido Tramontina",
+    canonicalName: "Tramontina Basurero Pedal New 20L",
+    brand: "Tramontina",
+    price: 53511,
+    originalPrice: undefined,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_622230-MLA99441448766_112025-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_622230-MLA99441448766_112025-F.webp",
+    ],
+    category: "Hogar, Muebles y Jardín",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/basurero-pedal-new-20-l-pulido-tramontina/p/MLA19937864",
+    affiliateUrl: "https://meli.la/1cQ1Lid",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 3672,
+    badge: "bestseller",
+    pastelColor: "var(--pastel-slate)",
+    specs: [
+      { label: "Marca", value: "Tramontina" },
+      { label: "Capacidad", value: "20 litros" },
+      { label: "Material", value: "Acero inoxidable pulido, tapa plástica" },
+      { label: "Apertura", value: "Pedal" },
+      { label: "Color", value: "Plateado" },
+      { label: "Vendedor", value: "Tienda oficial SAFGOL" },
+    ],
+    relatedProducts: ["MLA74598266", "MLA23516548", "MLAU4538114613"],
+    priceUpdated: "2026-09-25", priceLastChecked: "2026-09-25", priceStatus: "fresh", reviewsSampledAt: "2026-09-25",
+    description: "Basurero de cocina con pedal, 20 litros, acero inoxidable pulido, marca Tramontina. Es el tacho de basura más vendido de esta comparativa: {{reviews:MLA19937864}} opiniones a {{rating:MLA19937864}} estrellas, 7° en el ranking propio de MercadoLibre de toda la categoría Cestos de Residuos.",
+    seoTitle: "Basurero Tramontina 20L: 7° en ventas de MercadoLibre",
+    metaDescription: "Basurero pedal Tramontina 20L acero inoxidable. {{reviews:MLA19937864}} opiniones a {{rating:MLA19937864}} estrellas, 7° en el ranking de MercadoLibre.",
+    verdict: "Es el tacho de basura con más respaldo de esta comparativa: {{reviews:MLA19937864}} calificaciones reales a {{rating:MLA19937864}} estrellas, 7° en el ranking propio de MercadoLibre de toda la categoría Cestos de Residuos. Marca reconocida (Tramontina), acero inoxidable pulido y pedal, el formato clásico de cocina. Una reseña real lo confirma con un detalle técnico honesto: el acero es más grueso que el de los cestos genéricos, por lo que no se marca ante golpes, y la tapa es de plástico (no de acero) para que el mecanismo sea más liviano y no se rompa con el uso diario.",
+    pros: [
+      `El tacho de basura más vendido de esta comparativa: {{reviews:MLA19937864}} calificaciones a {{rating:MLA19937864}} estrellas`,
+      "Marca reconocida (Tramontina), acero inoxidable pulido más grueso que los cestos genéricos según reseñas reales",
+      "Pedal para no tocar la tapa con las manos",
+      "20 litros: tamaño estándar de cocina para una familia",
+    ],
+    cons: [
+      "La tapa es de plástico, no de acero (deliberado para que sea más liviana, pero no es acero inoxidable completo)",
+      "20 litros puede quedar chico para cocinas con mucho volumen de residuos diario",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace más de 1 año", useful: 75, text: "Dejo contenta a mi señora, con eso basta." },
+      { rating: 5, country: "Argentina", date: "hace más de 1 año", useful: 19, text: "Me hace feliz cada vez que lo abro! estoy vieja pero lo que tenía antes era un llamado al tétanos." },
+      { rating: 5, country: "Argentina", date: "hace 7 meses", useful: 17, text: "Muy buen producto, el acero es mucho más grueso que los cestos tradicionales por lo que no se marca ante caídas y la tapa de plástico hace que sea más liviano el sistema y no se rompa." },
+    ],
+    articleBody: `## Qué es el Basurero Tramontina 20L
+
+Es un basurero de cocina con pedal, 20 litros, acero inoxidable pulido, de la marca Tramontina. Cuesta {{precio:MLA19937864}} y es, por lejos, el tacho de basura con más historial de esta comparativa: {{reviews:MLA19937864}} calificaciones reales a {{rating:MLA19937864}} estrellas, 7° en el ranking propio de MercadoLibre de toda la categoría Cestos de Residuos.
+
+## El detalle técnico que confirman las reseñas
+
+Una reseña real, votada útil 17 veces, lo explica mejor que cualquier ficha técnica: "el acero es mucho más grueso que los cestos tradicionales por lo que no se marca ante caídas y la tapa de plástico hace que sea más liviano el sistema y no se rompa". Es una decisión de diseño honesta: el cuerpo es acero inoxidable grueso (resistente a golpes y abolladuras), pero la tapa es plástica a propósito, para que el mecanismo de pedal sea más liviano y dure más tiempo sin romperse.
+
+## Lo que dicen los compradores reales
+
+"Dejo contenta a mi señora, con eso basta" (75 votos útiles) y "Me hace feliz cada vez que lo abro! estoy vieja pero lo que tenía antes era un llamado al tétanos" (19 votos útiles) son de las reseñas más votadas: cortas, pero consistentes con un producto que cumple sin sorpresas.
+
+## Para quién es, y para quién no
+
+Es para vos si buscás el basurero de cocina más probado del sitio, con marca reconocida y acero grueso que no se abolla. Si necesitás más capacidad o preferís un juego de dos tamaños (cocina + baño), el [set Nictom 12L y 3L](/producto/set-tachos-de-basura-nictom-12-lts-y-3-lts-plateado-cesto-residuos-acero-mla74598266) de esta comparativa resuelve las dos necesidades juntas.
+
+## El veredicto
+
+El tacho de basura con más respaldo real de esta comparativa, con un detalle de diseño (acero grueso + tapa plástica liviana) que las propias reseñas confirman que funciona bien en el uso diario.`,
+    faq: [
+      { question: "¿Es de acero inoxidable completo?", answer: "El cuerpo sí, acero inoxidable pulido y grueso. La tapa es de plástico, una decisión de diseño para que el mecanismo de pedal sea más liviano y no se rompa con el uso." },
+      { question: "¿Es el tacho de basura más vendido de esta comparativa?", answer: `Sí, tiene {{reviews:MLA19937864}} calificaciones, la base más grande de esta comparativa, y figura 7° en el ranking propio de MercadoLibre de toda la categoría Cestos de Residuos.` },
+      { question: "¿Para cuántas personas alcanza?", answer: "20 litros es el tamaño estándar de cocina para una familia. Si el volumen de residuos diario es alto, puede quedar chico." },
+      { question: "¿El pedal es resistente?", answer: "Según reseñas reales sí: varios compradores destacan que el mecanismo es liviano pero no se rompe, justamente por la combinación de acero grueso en el cuerpo y tapa plástica." },
+      { question: "¿Quién lo vende?", answer: "La tienda oficial SAFGOL, con más de 10 mil ventas de este producto." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Tramontina Basurero Pedal New 20L",
+      image: ["https://http2.mlstatic.com/D_NQ_NP_622230-MLA99441448766_112025-F.webp"],
+      description: "Basurero de cocina con pedal, 20 litros, acero inoxidable pulido, marca Tramontina.",
+      brand: { "@type": "Brand", name: "Tramontina" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/basurero-pedal-new-20-l-pulido-tramontina/p/MLA19937864",
+        priceCurrency: "ARS",
+        price: "53511",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.8",
+        reviewCount: "3672",
+      },
+    },
+  },
+  {
+    id: "MLA74598266",
+    title: "Set Tachos De Basura Nictom 12 Lts Y 3 Lts Plateado Cesto Residuos Acero",
+    canonicalName: "Nictom Set Tachos 12L y 3L",
+    brand: "Nictom",
+    price: 54999,
+    originalPrice: 99999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_927768-MLA113964215241_062026-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_927768-MLA113964215241_062026-F.webp",
+    ],
+    category: "Hogar, Muebles y Jardín",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/set-tachos-de-basura-nictom-12-lts-y-3-lts-plateado-cesto-residuos-acero/p/MLA74598266",
+    affiliateUrl: "https://meli.la/1Rb1syz",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 197,
+    badge: "bestseller",
+    pastelColor: "var(--pastel-blue)",
+    specs: [
+      { label: "Marca", value: "Nictom" },
+      { label: "Capacidad", value: "Set de 2: 12 litros + 3 litros" },
+      { label: "Material", value: "Acero inoxidable" },
+      { label: "Apertura", value: "Pedal, con cierre progresivo (soft-close)" },
+      { label: "Color", value: "Plateado" },
+      { label: "Vendedor", value: "Tienda oficial NICTOM, +100 mil ventas totales" },
+    ],
+    relatedProducts: ["MLA19937864", "MLA23516548", "MLAU4538114613"],
+    priceUpdated: "2026-09-25", priceLastChecked: "2026-09-25", priceStatus: "fresh", reviewsSampledAt: "2026-09-25",
+    description: "Set de 2 tachos de basura Nictom, 12 litros y 3 litros, acero inoxidable con cierre progresivo de la tapa. {{reviews:MLA74598266}} opiniones a {{rating:MLA74598266}} estrellas, 5° en el ranking propio de MercadoLibre de toda la categoría Cestos de Residuos.",
+    seoTitle: "Set Nictom 12L y 3L: dos tachos, cocina y baño resuelto",
+    metaDescription: "Set 2 tachos de basura Nictom acero, 12L y 3L, cierre progresivo. {{reviews:MLA74598266}} opiniones a {{rating:MLA74598266}} estrellas.",
+    verdict: "Es la solución de dos tachos en una sola compra: 12 litros para la cocina y 3 litros para el baño, los dos en acero inoxidable con cierre progresivo de la tapa (no golpea al cerrar). {{reviews:MLA74598266}} calificaciones reales a {{rating:MLA74598266}} estrellas, 5° en el ranking propio de MercadoLibre de toda la categoría, vendido por la tienda oficial de la marca. Compradores reales confirman el combo cocina+baño y valoran el cierre silencioso de la tapa.",
+    pros: [
+      "Resuelve cocina y baño en una sola compra: 12L + 3L",
+      `{{reviews:MLA74598266}} calificaciones a {{rating:MLA74598266}} estrellas, 5° en el ranking propio de MercadoLibre de la categoría`,
+      "Cierre progresivo de la tapa (soft-close): no golpea ni hace ruido al cerrar",
+      "Vendido por tienda oficial de la marca (+100 mil ventas totales)",
+    ],
+    cons: [
+      "Base de opiniones más chica que el Tramontina de esta comparativa (197 contra 3.672), aunque el respaldo de marca (tienda oficial) compensa parte de esa diferencia",
+      "Es más caro que comprar un solo tacho, aunque resuelve dos necesidades a la vez",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace 1 mes", text: "Tengo uno en la cocina y el otro en el baño. Los dos quedan re lindos, vinieron en excelente estado y el detalle de que la tapa cierra sola despacio amo!." },
+      { rating: 4, country: "Argentina", date: "hace 2 meses", useful: 4, text: "Re bien! dejé el chiquito para orgánica arriba de la mesada y el grande abajo." },
+    ],
+    articleBody: `## Qué es el set Nictom 12L y 3L
+
+Es un set de 2 tachos de basura Nictom, uno de 12 litros y uno de 3 litros, los dos en acero inoxidable con tapa de cierre progresivo. Cuesta {{precio:MLA74598266}} y tiene {{reviews:MLA74598266}} calificaciones reales a {{rating:MLA74598266}} estrellas, 5° en el ranking propio de MercadoLibre de toda la categoría Cestos de Residuos.
+
+## Resuelve cocina y baño en una compra
+
+La gracia del set es que no hay que elegir: el de 12 litros va para la cocina y el de 3 litros para el baño (o, según cuenta una compradora real, "dejé el chiquito para orgánica arriba de la mesada y el grande abajo"). Otra reseña confirma el uso combinado: "Tengo uno en la cocina y el otro en el baño. Los dos quedan re lindos, vinieron en excelente estado y el detalle de que la tapa cierra sola despacio amo!".
+
+## El cierre progresivo, el diferencial real
+
+A diferencia de un tacho con tapa de golpe, el mecanismo de esta línea Nictom hace que la tapa baje despacio sola, sin ruido ni golpe. Es el detalle que más repiten las reseñas con fotos y video reales del producto.
+
+## Para quién es, y para quién no
+
+Es para vos si necesitás equipar dos ambientes (cocina + baño) de una sola vez, con el respaldo de una tienda oficial. Si solo necesitás un tacho grande para la cocina y preferís la base de opiniones más grande de esta comparativa, el [Basurero Tramontina 20L](/producto/basurero-pedal-new-20-l-pulido-tramontina-mla19937864) de esta comparativa tiene más historial.
+
+## El veredicto
+
+La opción más práctica si necesitás resolver cocina y baño juntos, con un cierre de tapa silencioso que las reseñas confirman que funciona bien en el uso diario.`,
+    faq: [
+      { question: "¿Qué tamaños trae el set?", answer: "Un tacho de 12 litros (ideal para cocina) y uno de 3 litros (ideal para baño), los dos en acero inoxidable." },
+      { question: "¿La tapa hace ruido al cerrar?", answer: "No, tiene cierre progresivo (soft-close): la tapa baja despacio sola, sin golpe. Es el detalle que más destacan las reseñas reales." },
+      { question: "¿Es de una tienda oficial?", answer: "Sí, lo vende la tienda oficial de Nictom, con más de 100 mil ventas totales de la marca." },
+      { question: "¿Conviene frente al Tramontina de 20L?", answer: "Depende de la necesidad: el Tramontina es un solo tacho más grande con más historial de opiniones de esta comparativa; este set resuelve cocina y baño en una sola compra con cierre silencioso." },
+      { question: "¿Cuántas opiniones tiene?", answer: `{{reviews:MLA74598266}} calificaciones a {{rating:MLA74598266}} estrellas, 5° en el ranking propio de MercadoLibre de toda la categoría Cestos de Residuos.` },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Nictom Set Tachos 12L y 3L",
+      image: ["https://http2.mlstatic.com/D_NQ_NP_927768-MLA113964215241_062026-F.webp"],
+      description: "Set de 2 tachos de basura Nictom, 12 litros y 3 litros, acero inoxidable con cierre progresivo.",
+      brand: { "@type": "Brand", name: "Nictom" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/set-tachos-de-basura-nictom-12-lts-y-3-lts-plateado-cesto-residuos-acero/p/MLA74598266",
+        priceCurrency: "ARS",
+        price: "54999",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.7",
+        reviewCount: "197",
+      },
+    },
+  },
+  {
+    id: "MLA23516548",
+    title: "Cesto Tacho De Residuos Hogar Actual Acero Inoxidable 3 Litros Con Tapa Cierre Suave Para Baño Cocina",
+    canonicalName: "Hogar Actual Cesto 3L Cierre Suave",
+    brand: "Hogar Actual",
+    price: 16055,
+    originalPrice: 29999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_792723-MLA117369536085_092026-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_792723-MLA117369536085_092026-F.webp",
+    ],
+    category: "Hogar, Muebles y Jardín",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/cesto-tacho-de-residuos-hogar-actual-acero-inoxidable-3-litros-con-tapa-cierre-suave-para-bano-cocina/p/MLA23516548",
+    affiliateUrl: "https://meli.la/2o31dep",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.6,
+    reviewCount: 463,
+    badge: "bestseller",
+    pastelColor: "var(--pastel-green)",
+    specs: [
+      { label: "Marca", value: "Hogar Actual" },
+      { label: "Capacidad", value: "3 litros" },
+      { label: "Material", value: "Acero inoxidable" },
+      { label: "Apertura", value: "Pedal, con cierre suave" },
+      { label: "Uso recomendado", value: "Baño o cocina (tamaño chico)" },
+      { label: "Vendedor", value: "Tienda oficial Hogar Actual, +5 mil ventas" },
+    ],
+    relatedProducts: ["MLA19937864", "MLA74598266", "MLAU4538114613"],
+    priceUpdated: "2026-09-25", priceLastChecked: "2026-09-25", priceStatus: "fresh", reviewsSampledAt: "2026-09-25",
+    description: "Cesto de residuos chico, 3 litros, acero inoxidable con pedal y cierre suave, ideal para baño. {{reviews:MLA23516548}} opiniones a {{rating:MLA23516548}} estrellas, la entrada más económica de esta comparativa.",
+    seoTitle: "Cesto Hogar Actual 3L: el tacho de basura más barato",
+    metaDescription: "Cesto de basura Hogar Actual 3L acero, cierre suave. {{reviews:MLA23516548}} opiniones a {{rating:MLA23516548}} estrellas, el más económico de la comparativa.",
+    verdict: "Es la entrada más económica de esta comparativa, a {{precio:MLA23516548}}: 3 litros de acero inoxidable con pedal y cierre suave, pensado para baño (aunque también sirve como cesto chico de cocina). {{reviews:MLA23516548}} calificaciones reales a {{rating:MLA23516548}} estrellas, 10° en el ranking propio de MercadoLibre de toda la categoría, con un resumen de opiniones que destaca que no deja escapar olores. La honestidad que corresponde: al menos una reseña real avisa que le tocaron unidades con abolladuras de fábrica en más de una compra, así que vale la pena revisar el estado al recibirlo.",
+    pros: [
+      "El más económico de esta comparativa, a menos de {{precio:MLA23516548:k}}",
+      `{{reviews:MLA23516548}} calificaciones a {{rating:MLA23516548}} estrellas, 10° en el ranking propio de MercadoLibre de la categoría`,
+      "Cierre suave y sellado que, según el resumen de reseñas, no deja escapar olores",
+      "Tamaño chico ideal para baño, pero también sirve como cesto de cocina para residuos orgánicos",
+    ],
+    cons: [
+      "Al menos una reseña real avisa que tuvo que cambiar el producto dos veces por abolladuras de fábrica, aunque terminó quedándose con la unidad igual",
+      "3 litros es un tamaño chico: no reemplaza a un tacho grande de cocina",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace 8 meses", useful: 6, text: "Muy útil." },
+      { rating: 5, country: "Argentina", date: "hace 9 meses", useful: 3, text: "Lo tuve que cambiar como 2 veces porque siempre tenía alguna abolladura. El que me quedé también, pero me dieron unos mangos y lo dejé así. Anda bien y está bueno, pero si lo mirás de cerca se nota." },
+    ],
+    articleBody: `## Qué es el Cesto Hogar Actual 3L
+
+Es un cesto de residuos chico, 3 litros, acero inoxidable con pedal y cierre suave, pensado para baño (aunque también sirve como cesto de cocina para residuos orgánicos). Cuesta {{precio:MLA23516548}}, la entrada más económica de esta comparativa. Tiene {{reviews:MLA23516548}} calificaciones reales a {{rating:MLA23516548}} estrellas, 10° en el ranking propio de MercadoLibre de toda la categoría Cestos de Residuos.
+
+## Sellado contra olores
+
+El resumen de opiniones del propio MercadoLibre lo describe así: "Es de muy buena calidad y diseño elegante. Funciona correctamente, es silencioso y no permite que los olores se escapen". Para un cesto de baño, que suele estar en un ambiente chico, es el detalle que más importa.
+
+## La contra real: control de calidad al recibirlo
+
+Una reseña real, con 3 votos útiles, cuenta que tuvo que cambiar el producto dos veces porque llegaba con abolladuras de fábrica, y que terminó quedándose con una unidad igual (con un descuento del vendedor) aunque "si lo mirás de cerca se nota". No es la experiencia mayoritaria entre las {{reviews:MLA23516548}} calificaciones, pero es honesto avisarlo: conviene revisar el estado del producto apenas llega.
+
+## Para quién es, y para quién no
+
+Es para vos si buscás el tacho más barato de esta comparativa para baño o como cesto chico de cocina. Si necesitás algo más grande para cocina, el [Basurero Tramontina 20L](/producto/basurero-pedal-new-20-l-pulido-tramontina-mla19937864) o el [set Nictom](/producto/set-tachos-de-basura-nictom-12-lts-y-3-lts-plateado-cesto-residuos-acero-mla74598266) de esta comparativa dan más capacidad.
+
+## El veredicto
+
+El más económico de esta comparativa, con buen sellado contra olores y un respaldo de más de 460 calificaciones. La única letra chica: revisá el estado al recibirlo, alguna reseña reporta abolladuras de fábrica.`,
+    faq: [
+      { question: "¿Sirve para cocina o solo para baño?", answer: "Está pensado para baño por su tamaño chico (3 litros), pero también sirve como cesto de cocina para residuos orgánicos, según confirman reseñas reales de compradores." },
+      { question: "¿Deja escapar olores?", answer: "Según el resumen de opiniones, no: el cierre suave y el sellado del cesto evitan que se escapen los olores." },
+      { question: "¿Llega en buen estado?", answer: "La mayoría de las opiniones son positivas, pero al menos una reseña real reporta haber recibido unidades con abolladuras de fábrica más de una vez. Conviene revisar el producto al recibirlo." },
+      { question: "¿Es el tacho de basura más barato de esta comparativa?", answer: `Sí, a {{precio:MLA23516548}} es la opción más económica de las 4 que comparamos.` },
+      { question: "¿Tiene pedal?", answer: "Sí, con cierre suave (la tapa no golpea al cerrar)." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Hogar Actual Cesto 3L Cierre Suave",
+      image: ["https://http2.mlstatic.com/D_NQ_NP_792723-MLA117369536085_092026-F.webp"],
+      description: "Cesto de residuos chico, 3 litros, acero inoxidable con pedal y cierre suave.",
+      brand: { "@type": "Brand", name: "Hogar Actual" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/cesto-tacho-de-residuos-hogar-actual-acero-inoxidable-3-litros-con-tapa-cierre-suave-para-bano-cocina/p/MLA23516548",
+        priceCurrency: "ARS",
+        price: "16055",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.6",
+        reviewCount: "463",
+      },
+    },
+  },
+  {
+    id: "MLAU4538114613",
+    title: "Tacho De Basura Inteligente 12lts Sensor Automático",
+    canonicalName: "Mundo Importados Tacho Inteligente 12L",
+    brand: "Mundo Importados",
+    price: 47529,
+    originalPrice: 69999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_997324-MLA114152005912_082026-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_997324-MLA114152005912_082026-F.webp",
+    ],
+    category: "Hogar, Muebles y Jardín",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/tacho-de-basura-inteligente-12lts-sensor-automatico/up/MLAU4538114613",
+    affiliateUrl: "https://meli.la/1fjrmoC",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.9,
+    reviewCount: 8,
+    pastelColor: "var(--pastel-purple)",
+    specs: [
+      { label: "Marca", value: "Mundo Importados" },
+      { label: "Capacidad", value: "12 litros" },
+      { label: "Apertura", value: "Sensor automático, sin contacto" },
+      { label: "Color", value: "Blanco" },
+      { label: "Vendedor", value: "Mundo Importados, +100 vendidos" },
+    ],
+    relatedProducts: ["MLA19937864", "MLA74598266", "MLA23516548"],
+    priceUpdated: "2026-09-25", priceLastChecked: "2026-09-25", priceStatus: "fresh", reviewsSampledAt: "2026-09-25",
+    description: "Tacho de basura con sensor automático, sin contacto, 12 litros. {{reviews:MLAU4538114613}} opiniones a {{rating:MLAU4538114613}} estrellas, la opción sin pedal de esta comparativa.",
+    seoTitle: "Tacho de basura con sensor automático: sin tocar la tapa",
+    metaDescription: "Tacho de basura inteligente 12L con sensor automático, sin contacto. {{reviews:MLAU4538114613}} opiniones a {{rating:MLAU4538114613}} estrellas.",
+    verdict: "Es la única opción sin pedal ni tapa manual de esta comparativa: se abre solo al acercar la mano, gracias a un sensor automático. Promedia {{rating:MLAU4538114613}} estrellas en las {{reviews:MLAU4538114613}} opiniones que tiene hasta ahora, todas positivas, aunque la base de datos es chica comparada con el resto del catálogo (muy pocas calificaciones contra cientos o miles de las otras fichas de esta guía) — hay que decirlo de frente, no es el mismo respaldo estadístico. +100 unidades vendidas es una señal de tracción real más allá de las pocas calificaciones.",
+    pros: [
+      "La única opción sin pedal ni tapa manual: se abre con sensor automático al acercar la mano",
+      `Promedia {{rating:MLAU4538114613}} estrellas en las opiniones que tiene, todas positivas`,
+      "Ideal para cocina cuando tenés las manos ocupadas o sucias",
+      "+100 unidades vendidas, señal de tracción real más allá de las pocas calificaciones",
+    ],
+    cons: [
+      `Solo {{reviews:MLAU4538114613}} calificaciones: la base de datos más chica de toda esta comparativa por lejos, conviene tenerlo en cuenta antes de decidir`,
+      "Funciona a batería o pila (como todo sensor automático): depende de mantenerla cargada o cambiarla, a diferencia de un pedal mecánico que nunca falla por batería",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace 4 semanas", useful: 2, text: "Hermoso. No duden en comprarlo. Súper comodo y muy buena calidad." },
+      { rating: 5, country: "Argentina", date: "ayer", text: "Está buenísimo. Para mí el tamaño es ideal. Funciona a la perfección." },
+    ],
+    articleBody: `## Qué es el tacho de basura con sensor automático
+
+Es un tacho de basura de 12 litros que se abre solo, sin pedal ni que tengas que tocar la tapa: un sensor detecta la mano cerca y la tapa se levanta automáticamente. Cuesta {{precio:MLAU4538114613}}.
+
+## La honestidad sobre el respaldo de datos
+
+Acá va la aclaración que corresponde: tiene solo {{reviews:MLAU4538114613}} calificaciones, la base más chica de toda esta comparativa por lejos (las otras tres fichas de esta guía tienen entre 197 y más de 3.600). Las opiniones que existen promedian {{rating:MLAU4538114613}} estrellas y son todas positivas ("Hermoso. No duden en comprarlo. Súper cómodo y muy buena calidad", "Está buenísimo. Para mí el tamaño es ideal. Funciona a la perfección"), y el vendedor ya superó las 100 unidades vendidas, una señal de tracción real más allá de las pocas calificaciones. Pero es un respaldo estadístico menor al de las otras opciones de esta guía.
+
+## Para quién es, y para quién no
+
+Es para vos si cocinás seguido y odiás tener que tocar la tapa del tacho con las manos sucias o mojadas, o si te gusta la comodidad de un sensor sin contacto. Si preferís un respaldo de datos más grande y probado, el [Basurero Tramontina 20L](/producto/basurero-pedal-new-20-l-pulido-tramontina-mla19937864) de esta comparativa tiene miles de calificaciones reales.
+
+## El veredicto
+
+Una solución cómoda y sin contacto, con opiniones muy buenas hasta ahora pero todavía pocas. Si el sensor automático te resuelve un problema real (manos ocupadas en la cocina), vale la pena; si preferís la seguridad de un producto con mucho más historial, las otras tres fichas de esta guía tienen más respaldo.`,
+    faq: [
+      { question: "¿Cómo se abre, con pedal?", answer: "No, tiene sensor automático: se abre solo al acercar la mano, sin necesidad de tocar la tapa ni usar pedal." },
+      { question: "¿Funciona a pila o batería?", answer: "Sí, como todo tacho con sensor automático, funciona con batería o pilas que hay que mantener cargadas o cambiar periódicamente." },
+      { question: "¿Tiene muchas opiniones?", answer: `No todavía: solo {{reviews:MLAU4538114613}} calificaciones, la base más chica de esta comparativa. Todas son positivas ({{rating:MLAU4538114613}} estrellas), pero es un respaldo menor al de las otras fichas de esta guía.` },
+      { question: "¿Vale la pena frente a un tacho con pedal?", answer: "Depende de qué priorices: el sensor automático es más cómodo si tenés las manos ocupadas o sucias seguido en la cocina, pero un pedal mecánico nunca falla por batería descargada." },
+      { question: "¿Qué capacidad tiene?", answer: "12 litros." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Mundo Importados Tacho Inteligente 12L",
+      image: ["https://http2.mlstatic.com/D_NQ_NP_997324-MLA114152005912_082026-F.webp"],
+      description: "Tacho de basura con sensor automático, sin contacto, 12 litros.",
+      brand: { "@type": "Brand", name: "Mundo Importados" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/tacho-de-basura-inteligente-12lts-sensor-automatico/up/MLAU4538114613",
+        priceCurrency: "ARS",
+        price: "47529",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.9",
+        reviewCount: "8",
+      },
+    },
   },
 
   // ─── Silo de verano: piletas (sourcing Bright Data 2026-08-13) ───

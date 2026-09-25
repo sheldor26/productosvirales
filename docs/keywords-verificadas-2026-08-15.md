@@ -19,7 +19,7 @@ nota de cierre. Este lo reemplaza para las keywords que lista.
 | **cartuchera** | 14.800 | 100% retail: ML x4, Simones, Coppel, Todomoda, Papelera Bariloche, zonacuaderno | Pico feb-mar (vuelta a clases) | librería/oficina (silo nuevo) |
 | **lámpara de pie** | 14.800 | Retail + tiendas de iluminación (Sodimac, Kolor, UBID, GIOLUCE). Aparece el blog de ML con un "más vendidos" de 2024, desactualizado y sin formato de comparativa | Evergreen | hogar-jardin |
 | **estantería flotante** | 12.100 | 100% retail: ML x3, Frávega, Coppel, Ciudad Muebles, SKLUM. Cero editorial | Evergreen | hogar-jardin |
-| **tacho de basura** | 9.900 | Solo el blog de ML ("Guía completa para elegir el mejor basurero"). Ningún tercero | Evergreen | hogar-jardin |
+| **tacho de basura** ✅ publicada 2026-09-25 (`/guias/hogar-jardin/tacho-de-basura`) | 9.900 | Solo el blog de ML ("Guía completa para elegir el mejor basurero"). Ningún tercero | Evergreen | hogar-jardin |
 
 **El patrón que las une:** son objetos aburridos. Muebles, plásticos, cosas sin marca fuerte
 ni ficha técnica que luzca. Nadie escribió sobre ellas porque no dan clics fáciles, que es

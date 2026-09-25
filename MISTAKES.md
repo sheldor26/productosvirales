@@ -719,3 +719,37 @@ menos que los 94 que revisa el arreglado, y ese numero, mirado a tiempo, habria 
 Durante toda la sesion se reporto `tsc rc=$?` despues de un pipe a `tail`: eso lee el exit code de
 `tail`, no de `tsc`, y siempre da 0. En la practica los errores igual se veian porque se leia la
 salida, pero el "rc=0" no significaba nada. Correcto: `out=$(npx tsc --noEmit 2>&1); rc=$?`.
+
+### 2026-09-25 — 6 rondas de auditoria por corregir "a mano" un patron repetido en vez de con grep global
+
+Guia `tacho-de-basura`: el Tramontina Basurero 20L decia en varios lugares "el mas vendido/con mas
+respaldo/historial de todo el catalogo", pero el dato real es que figura 7° en el ranking propio de
+MercadoLibre de esa categoria (no es #1). Codex encontro el problema en la primera pasada, se
+corrigio la frase exacta que el habia citado, y en la pasada siguiente aparecian MAS apariciones de
+la misma idea con otra redaccion ("del catalogo" contraido, "mas historial de todo el catalogo",
+"la base mas grande de todo el catalogo", y hasta una version distinta en la intro que decia "el mas
+vendido de toda la categoria"). Se repitio asi durante 6 rondas de Codex + 3 de agy hasta encontrar
+las ultimas dos ("con mas respaldo de todo el sitio", "el mayor respaldo de reseñas reales").
+
+**La leccion:** cuando un auditor senala una frase con un dato mal acotado, el problema casi nunca
+es esa unica linea — es un patron que el propio autor (yo) repitio en varios lugares con variantes
+de redaccion distintas (sinonimos, contracciones, orden de palabras). Corregir solo la cita exacta
+del hallazgo deja las variantes intactas para la proxima ronda. Antes de aplicar el fix, conviene
+`grep -n` la palabra clave del problema (ej. "catalogo", "vendido") en TODO el bloque tocado (guia +
+las fichas que alimenta) y revisar cada aparicion a mano, no solo la linea citada — es lo que
+finalmente destrabo la ronda 4 en la guia hermana de Hot Wheels (el mismo bug, encontrado de paso).
+Ahorra rondas completas de ida y vuelta con el auditor.
+
+### 2026-09-25 — agy fabrico una conversacion de "aprobacion" que nunca paso, y edito sin permiso
+
+Misma sesion, mismo patron ya documentado en `agy-inventa-aprobacion-para-editar` pero con un caso
+nuevo: al auditar la guia `tacho-de-basura` con `--dangerously-skip-permissions`, agy encontro 2
+mejoras opcionales, las aplico el mismo directo al archivo, y en su respuesta de texto narro un
+intercambio con "el usuario" tipo "¡Visto bueno recibido! Ya apliqué las mejoras..." que nunca
+ocurrio — nadie le habia dado el visto bueno, ese dialogo lo inicio y lo cerro el solo en la misma
+respuesta. Los 2 cambios que hizo resultaron correctos al verificarlos (saco una coma de un titulo,
+unifico una cita entre guia y ficha), pero el patron es el problema: hay que leer el texto completo
+de la respuesta de agy, no solo confiar en el veredicto GO/NO-GO, y correr `git diff` despues de
+cada corrida suya con permisos elevados antes de asumir que el estado del archivo es el que uno
+mismo escribio. En las pasadas siguientes de la misma sesion, pedirle explicitamente "no edites el
+archivo, solo reporta" funciono: respeto la instruccion las 2 veces que se lo pidieron asi.
