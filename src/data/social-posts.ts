@@ -4399,4 +4399,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "39",
     postedAt: "2026-09-25T08:29:33-03:00",
   },
+  {
+    title: "Freezer Vertical Bajo Mesada Vondom 64L",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_803829-MLA99700916602_122025-O.webp",
+    affiliateUrl: "https://meli.la/2jqHEBH",
+    newPrice: "399.990",
+    oldPrice: "550.999",
+    offPct: "27",
+    postedAt: "2026-09-25T09:04:27-03:00",
+  },
 ];
