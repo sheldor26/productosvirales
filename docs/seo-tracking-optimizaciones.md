@@ -2541,3 +2541,19 @@ Re-medir: pendiente de fijar fecha (recién publicada).
 ## Cierre del lote de 7 guías nuevas — 2026-09-12
 
 Las 7 guías planificadas en "Iteración 5" (mancuernas, bicicleta fija, rascador para gatos, cochecito de bebé, taladro percutor, soga para saltar, corralito para bebé) quedaron construidas, auditadas con trío auditor y commiteadas. Quedan pendientes de Juan los links de afiliado meli.la reales de las últimas 3 (taladro percutor, soga para saltar, corralito para bebé); las primeras 4 ya se pidieron en su momento. Silos nuevos abiertos en esta iteración: `fitness` (mancuernas, bicicleta fija, soga para saltar), `mascotas` (rascador para gatos), `bebes` (cochecito de bebé, corralito para bebé).
+
+---
+
+## Guía nueva `peabody` — silo/categoría "marcas" (existente) — 2026-09-25
+
+| Guía | Silo | Categoría | Keyword del cluster | Fuente del volumen |
+| :-- | :-- | :-- | :-- | :-- |
+| `peabody` | marcas | marcas | peabody es buena marca / opiniones peabody | 86 impresiones en 7 queries (GSC, reporte semanal 2026-09-21) |
+
+**Baseline: cero.** URL nueva, sin historial en GSC. Origen: candidata #3 de la cola de marcas en el reporte SEO semanal del 21/9 (después de gadnic y atma), mismo patrón: Peabody aparece como producto en varias guías propias (pava-electrica-peabody, cafetera-peabody, peabody-freidoras-de-aire-review, atma-vs-peabody-freidora-de-aire) sin tener su propia página de marca. Cero sourcing nuevo: los 14 productos Peabody (13 vigentes + 1 sin stock) ya estaban fichados en `curated-products.ts`. Mismo molde que `gadnic`/`smartlife`/`atma`, con el bloque de compra reforzado arriba del todo (mismo pedido de Juan que en atma). Cross-linking bidireccional agregado en las 6 guías satélite (gadnic, smartlife, atma, pava-electrica-peabody, cafetera-peabody, peabody-freidoras-de-aire-review).
+
+**Auditoría del trío: 2 rondas hasta doble GO.** Codex dio NO-GO en la primera pasada con 2 bloqueantes reales: "rating arriba de 4.8" repetido 5 veces cuando dos de las cuatro freidoras activas están exactamente en 4.8 (corregido a "4.8 o más"), y el ventilador de techo descripto como "la opción más cara de toda la marca" cuando la cafetera PE-CE5023IX ($998.650) es más cara que el ventilador ($637.361) — contradecía a la propia guía (corregido a "el ventilador más caro de la marca"). Mejoras opcionales aplicadas igual: metaDescription recortada de 159 a 140 caracteres, y "tiene el rating más alto" de la freidora Grill cambiado a "comparte el rating más alto" (empata con la XL 9L). agy falló su primera corrida por un tema de permisos headless (no relacionado al contenido); relanzado con `--dangerously-skip-permissions` (autorizado por default para agy en este proyecto) dio GO limpio en su primera pasada real. Segunda pasada de Codex sobre el estado corregido: GO limpio.
+
+**Verificación:** `npx tsc --noEmit`, `npm run build`, y los 8 scripts de `guides:check` (corridos individualmente porque la cadena `&&` corta en el primer fallo) en verde. Los únicos hardcoded prices desactualizados que quedan son 3 preexistentes en otras guías (gaming, smartlife-cafetera), no tocados por esta sesión. `git diff` confirmado limpio de ediciones no autorizadas de agy tras su corrida con `--dangerously-skip-permissions`.
+
+Re-medir: pendiente de fijar fecha (recién publicada, sin commitear todavía).

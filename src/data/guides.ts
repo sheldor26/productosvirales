@@ -8792,6 +8792,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { label: "Pava Liliana: ¿cuál de las 4?", href: "/guias/pava-electrica-liliana" },
       { label: "Liliana vs Peabody: cuál conviene", href: "/guias/liliana-vs-peabody-pava-electrica" },
       { label: "Todas las pavas en Cocina", href: "/categoria/cocina" },
+      { label: "¿Es buena la marca Peabody?", href: "/guias/marcas/peabody" },
     ],
   },
 
@@ -13965,6 +13966,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { label: `Freidoras de aire con grill en Argentina`, href: "/guias/freidoras-de-aire-con-grill-argentina" },
       { label: `Freidoras de aire de gran capacidad`, href: "/guias/freidoras-de-aire-gran-capacidad" },
       { label: `Recetas para freidora de aire`, href: "/guias/recetas-freidora-de-aire" },
+      { label: `¿Es buena la marca Peabody?`, href: "/guias/marcas/peabody" },
     ],
     internalLinksTitle: "Guías relacionadas",
   },
@@ -21567,6 +21569,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { label: "Cafetera express: guía completa y ranking", href: "/guias/cafetera-express" },
       { label: "Cafetera Oster: cuál comprar", href: "/guias/cafetera-oster" },
       { label: "Qué cafetera comprar: express, cápsulas o filtro", href: "/guias/que-cafetera-comprar" },
+      { label: "¿Es buena la marca Peabody?", href: "/guias/marcas/peabody" },
     ],
     internalLinksTitle: "Guías relacionadas",
   },
@@ -30106,6 +30109,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { label: "Difusor de aromas: cuál comprar", href: "/guias/salud-bienestar/difusor-de-aromas" },
       { label: "¿Es buena la marca Smartlife?", href: "/guias/marcas/smartlife" },
       { label: "¿Es buena la marca Atma?", href: "/guias/marcas/atma" },
+      { label: "¿Es buena la marca Peabody?", href: "/guias/marcas/peabody" },
     ],
     internalLinksTitle: "Más sobre productos Gadnic",
   },
@@ -32498,6 +32502,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { label: "Horno eléctrico: cuál comprar", href: "/guias/cocina/horno-electrico" },
       { label: "¿Es buena la marca Gadnic?", href: "/guias/marcas/gadnic" },
       { label: "¿Es buena la marca Atma?", href: "/guias/marcas/atma" },
+      { label: "¿Es buena la marca Peabody?", href: "/guias/marcas/peabody" },
     ],
     internalLinksTitle: "Más sobre marcas y electro de cocina",
   },
@@ -32614,8 +32619,132 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { label: "Licuadora: cuál comprar", href: "/guias/licuadora" },
       { label: "¿Es buena la marca Gadnic?", href: "/guias/marcas/gadnic" },
       { label: "¿Es buena la marca Smartlife?", href: "/guias/marcas/smartlife" },
+      { label: "¿Es buena la marca Peabody?", href: "/guias/marcas/peabody" },
     ],
     internalLinksTitle: "Más sobre marcas y electro de cocina",
+  },
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva peabody — silo marcas. Origen: reporte SEO semanal
+  // 2026-09-21, candidata #3 de la cola de marcas (86 impresiones en
+  // 7 queries "es buena marca Peabody" / "opiniones Peabody"). Cero
+  // sourcing nuevo: material 100% de curated-products.ts (14 productos
+  // Peabody ya fichados) y de guías ya publicadas del sitio
+  // (pava-electrica-peabody, cafetera-peabody, peabody-freidoras-de-
+  // aire-review, atma-vs-peabody-freidora-de-aire). Mismo formato que
+  // gadnic/smartlife/atma, con el bloque de compra reforzado arriba
+  // (mismo pedido de Juan que en atma). El hallazgo honesto de la
+  // cafetera PE-CE5023IX (pocas opiniones para el precio, queja de
+  // molienda, instalación eléctrica) ya estaba documentado en
+  // cafetera-peabody — no es research nuevo. El matiz de service
+  // concentrado en AMBA ya estaba documentado en
+  // atma-vs-peabody-freidora-de-aire. La freidora doble piso
+  // PE-AFDL102N (MLA53776810) está deprioritized/sin stock: no se
+  // linkea, solo se menciona que existe.
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "peabody",
+    category: "marcas",
+    silo: "marcas",
+    pillar: true,
+    title: `¿Es buena la marca Peabody? Análisis con datos reales [2026]`,
+    seoTitle: `¿Es Buena la Marca Peabody? Opiniones y Datos Reales [2026]`,
+    metaDescription: `Analizamos 13 productos Peabody vigentes en Mercado Libre Argentina: rating, cantidad de opiniones y en qué categoría conviene y en cuál no.`,
+    ogTitle: `¿Es buena la marca Peabody? Lo que dicen los números`,
+    ogDescription: `La licuadora de mano Peabody PE-LMA327B tiene {{reviews:MLA13112158}} opiniones a {{rating:MLA13112158}} estrellas. Analizamos freidoras, pavas, cafeteras y ventiladores de la marca, con el punto flojo incluido.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_994881-MLA99490288888_112025-F.jpg`,
+    h1: `¿Es buena la marca Peabody? Lo que dicen 13 productos con datos reales`,
+    directAnswer: `Sí, en general: Peabody es una marca nacional de electro de cocina y hogar, con garantía oficial reclamable en Argentina, y una de las líneas más grandes de nuestro catálogo entre marcas propias (13 productos vigentes, más uno sin stock). Su licuadora de mano **[PE-LMA327B](https://meli.la/2JgxVog)** tiene **{{reviews:MLA13112158}} opiniones a {{rating:MLA13112158}} estrellas**, la base de calificaciones más grande de toda la marca en nuestro catálogo, y sus freidoras de aire sostienen rating de 4.8 o más en casi toda la línea. No es pareja en todo: su única cafetera totalmente automática, la PE-CE5023IX, tiene muy pocas opiniones para un precio de {{precio:MLA53370426}}, y su service está más concentrado en AMBA que en el interior del país. Te mostramos los números, categoría por categoría.`,
+    publishedDate: "2026-09-25",
+    updatedDate: "2026-09-25",
+    hasDisclosure: true,
+    readingTime: 8,
+    standfirst: `Peabody se metió fuerte en electro de cocina argentino: freidoras de aire, pavas eléctricas, cafeteras con molinillo integrado, ventiladores y pequeños electrodomésticos. Con un catálogo tan amplio, la pregunta lógica es si el nivel se sostiene en todos los rubros. Analizamos los 13 productos Peabody vigentes en nuestro catálogo (más uno sin stock) con su rating y cantidad real de opiniones en MercadoLibre, categoría por categoría, incluido el producto donde conviene mirar dos veces.`,
+    quickPicks: [
+      { productMlaId: "MLA13112158", label: "La más probada de la marca", labelColor: "green", tagline: `Licuadora de mano PE-LMA327B: {{reviews:MLA13112158}} opiniones a {{rating:MLA13112158}} estrellas, la base más grande de todo el catálogo Peabody` },
+      { productMlaId: "MLA41829394", label: "Mejor en freidoras de aire", labelColor: "blue", tagline: "Freidora PE-AFD720N 7.2L con visor 360°, la elegida en nuestra guía dedicada de freidoras Peabody" },
+      { productMlaId: "MLA15276005", label: "Mejor en pavas eléctricas", labelColor: "purple", tagline: `Pava vintage PE-KV8215R: {{reviews:MLA15276005}} opiniones, la pava Peabody más probada` },
+      { productMlaId: "MLA41606856", label: "Mejor en ventiladores", labelColor: "slate", tagline: "Ventilador de pie PE-VP1860N: el mejor calificado de su categoría en nuestro catálogo" },
+    ],
+    intro: [
+      `"Peabody es buena marca" y "Peabody opiniones" son búsquedas que vienen creciendo en Argentina, sobre todo porque la marca se metió fuerte en electro de cocina: freidoras de aire, pavas eléctricas, cafeteras con molinillo integrado, ventiladores y hasta pequeños electrodomésticos. Con un catálogo tan amplio, la pregunta lógica es si el nivel se sostiene en todos los rubros o solo en algunos.`,
+      `La respuesta corta, después de mirar los 13 productos Peabody que tenemos vigentes en el catálogo (más uno que quedó sin stock): **es una marca nacional consistente en su núcleo de cocina, con algún matiz según el producto y dónde vivís**. Su licuadora de mano suma {{reviews:MLA13112158}} calificaciones, la base más grande de toda la marca en nuestro catálogo, y sus freidoras de aire sostienen rating de 4.8 o más en casi toda la línea. Pero el service de Peabody está más concentrado en AMBA que en el interior, y su producto más caro (una cafetera totalmente automática de {{precio:MLA53370426}}) todavía tiene muy pocas opiniones para el precio que pide. Te mostramos dónde rinde y dónde conviene mirar dos veces.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_994881-MLA99490288888_112025-F.jpg", alt: `Licuadora de mano Peabody PE-LMA327B, el producto Peabody con más opiniones de todo el catálogo`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Sí, en general: Peabody es una marca nacional de electro de cocina y hogar, con garantía oficial reclamable en Argentina. Su **[licuadora de mano PE-LMA327B](https://meli.la/2JgxVog)** tiene {{reviews:MLA13112158}} opiniones a {{rating:MLA13112158}} estrellas, la base más grande de toda la marca en nuestro catálogo, y sus freidoras de aire sostienen rating de 4.8 o más en casi toda la línea. El matiz honesto: el service está más concentrado en AMBA que en el interior, y su cafetera totalmente automática ({{precio:MLA53370426}}) todavía tiene muy pocas opiniones para el precio. Conviene mirar el producto puntual, no solo el nombre de la marca.` },
+
+      { type: "p", content: `**Los Peabody que más recomendamos hoy:** en pequeños electrodomésticos, la **[licuadora de mano PE-LMA327B](https://meli.la/2JgxVog)** (alrededor de {{precio:MLA13112158:k}}), la más probada de toda la marca. En freidoras de aire, la **[PE-AFD720N de 7.2L con visor 360°](https://meli.la/1tZqZqD)** (alrededor de {{precio:MLA41829394:k}}) para uso familiar, o la **[PE-AFD650N de 6.5L](https://meli.la/2zaHWZ2)** (alrededor de {{precio:MLA44703897:k}}) si son dos o tres en casa. En pavas eléctricas, la **[vintage PE-KV8215R](https://meli.la/1h5c9zR)** (alrededor de {{precio:MLA15276005:k}}), la más probada de la línea. En cafeteras, la **[PE-CE5010N con molinillo integrado](https://meli.la/2uKu8pv)** (alrededor de {{precio:MLA47077888:k}}). Y en ventiladores, el **[de pie PE-VP1860N](https://meli.la/2P1uH4q)** (alrededor de {{precio:MLA41606856:k}}).` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo evaluamos:** relevamos los 13 productos Peabody con stock activo hoy en nuestro catálogo (más uno, la freidora doble piso de 10 litros, que quedó sin stock y no incluimos en las recomendaciones), en 5 categorías: pequeños electrodomésticos, freidoras de aire, pavas eléctricas, cafeteras y ventiladores. Para cada uno tomamos el rating y la cantidad real de calificaciones de MercadoLibre, sin promediar categorías que no compiten entre sí. Los datos de marca (garantía, alcance del service) salen de nuestras propias guías ya publicadas y verificadas contra reseñas reales, nunca inventados. Los precios se revisan periódicamente contra MercadoLibre.` },
+
+      { type: "h2", title: `¿Qué tipo de marca es Peabody?`, id: "la-marca" },
+      { type: "p", content: `Peabody es una marca nacional de electro de cocina y hogar, con garantía oficial reclamable en Argentina (el plazo exacto varía según el producto y el vendedor: confirmalo en la ficha antes de comprar). Tiene presencia consolidada en freidoras de aire y pavas eléctricas, dos de las categorías más competidas del electro argentino, donde compite de igual a igual con marcas como Atma, Philips y Oster.` },
+      { type: "p", content: `Lo que conviene saber antes de comprar: según nuestro propio análisis comparativo con Atma en freidoras de aire, Peabody concentra su estructura de service en AMBA y algunas ciudades grandes, mientras que marcas como Atma tienen mejor cobertura en el interior del país. Si vivís lejos de Buenos Aires, es un factor real a considerar, no un detalle menor. El resto de esta guía te muestra dónde la marca rinde mejor, categoría por categoría.` },
+
+      { type: "h2", title: `Los números de Peabody, categoría por categoría`, id: "los-numeros" },
+
+      { type: "h3", title: `Pequeños electrodomésticos: el punto más fuerte de la marca` },
+      { type: "product-card", productMlaId: "MLA13112158", label: "La más probada de la marca", labelColor: "green", ranking: 1, description: `Licuadora de mano (mixer) de 800W con varilla y cuchilla de acero inoxidable, batidor, vaso medidor y picadora. {{rating:MLA13112158}} estrellas en {{reviews:MLA13112158}} calificaciones, la base de opiniones más grande de toda la marca en nuestro catálogo.` },
+      { type: "p", content: `Acá es donde Peabody más se destaca en volumen de opiniones. La **[PE-LMA327B](https://meli.la/2JgxVog)** acumula {{reviews:MLA13112158}} calificaciones reales, más que cualquier otro producto Peabody que tenemos fichado. Es de mano, no de vaso: sirve mejor para sopas, purés y cremas que para licuados con líquido, pero para esa tarea es de lo más probado que existe en el sitio. También tenemos fichada la [batidora de mesa PE-BM110P](https://meli.la/2DSmttc), planetaria con bowl de acero de 4 litros y 3 accesorios intercambiables: {{reviews:MLA45462816}} calificaciones a {{rating:MLA45462816}} estrellas.` },
+
+      { type: "h3", title: `Freidoras de aire: la línea más completa de la marca` },
+      { type: "product-card", productMlaId: "MLA41829394", label: "Mejor en freidoras de aire", labelColor: "blue", ranking: 2, description: `7.2 litros, visor 360° y 11 programas. {{rating:MLA41829394}} estrellas en {{reviews:MLA41829394}} calificaciones. La elección de nuestra guía dedicada de freidoras Peabody.` },
+      { type: "p", content: `Peabody tiene 4 freidoras de aire vigentes en el catálogo (más una doble piso de 10 litros que quedó sin stock), de 6 a 9 litros, y el nivel se sostiene en 4.8 estrellas o más en casi toda la línea. La **[PE-AFD720N de 7.2 litros](https://meli.la/1tZqZqD)** es la que más recomendamos en nuestra [guía dedicada de freidoras Peabody](/guias/peabody-freidoras-de-aire-review): visor 360° para controlar la cocción sin abrir, 11 programas y {{reviews:MLA41829394}} calificaciones. La versión con grill, la **[PE-AFG01IX](https://meli.la/1afZm1r)**, comparte el rating más alto de la línea: {{rating:MLA23318618}} estrellas en {{reviews:MLA23318618}} opiniones. Frente a Atma, su competencia directa en esta categoría, la diferencia real está en dónde vivís: Peabody suma pantalla táctil y visor 360°, pero Atma tiene mejor cobertura de service fuera de AMBA.` },
+
+      { type: "h3", title: `Pavas eléctricas: de la vintage a la digital` },
+      { type: "product-card", productMlaId: "MLA15276005", label: "Mejor en pavas eléctricas", labelColor: "purple", ranking: 3, description: `2200W, diseño vintage, interior de acero inoxidable. {{rating:MLA15276005}} estrellas en {{reviews:MLA15276005}} calificaciones, la pava Peabody más probada del catálogo.` },
+      { type: "p", content: `La **[vintage PE-KV8215R](https://meli.la/1h5c9zR)** es, por lejos, la pava Peabody con más respaldo de compradores: {{reviews:MLA15276005}} calificaciones. Si preferís control de temperatura digital en vez de diseño, la **[PE-DK2200N](https://meli.la/2cyQgD2)** mantiene el agua entre 40° y 100° hasta 2 horas, con la mejor nota de las tres pavas Peabody ({{rating:MLA47275624}} estrellas), aunque con un matiz honesto que ya documentamos en nuestra [guía dedicada](/guias/pava-electrica-peabody): el exterior es plástico (el interior sí es acero) y su capacidad de 1,5 litros es menor que la de sus competidoras directas, así que estás pagando por la pantalla, no por más acero o más litros.` },
+
+      { type: "h3", title: `Cafeteras: molinillo integrado a precio accesible` },
+      { type: "product-card", productMlaId: "MLA47077888", label: "El molinillo integrado más accesible", labelColor: "amber", ranking: 4, description: `Molinillo cónico de muelas, bomba italiana de 19 bares y portafiltro de 58mm. {{rating:MLA47077888}} estrellas en {{reviews:MLA47077888}} calificaciones.` },
+      { type: "p", content: `La **[PE-CE5010N](https://meli.la/2uKu8pv)** es la cafetera con molinillo integrado más accesible de todo nuestro catálogo, con bomba italiana de 19 bares y portafiltro de 58mm, la medida de las máquinas de cafetería. Tiene {{reviews:MLA47077888}} calificaciones a {{rating:MLA47077888}} estrellas: buen respaldo, aunque menor que sus freidoras y pavas. La marca también tiene una cafetera totalmente automática, la PE-CE5023IX, que desarrollamos en la sección siguiente porque merece una mirada más cuidadosa.` },
+
+      { type: "h3", title: `Ventiladores: buen nivel, sin sorpresas` },
+      { type: "product-card", productMlaId: "MLA41606856", label: "Mejor en ventiladores", labelColor: "slate", ranking: 5, description: `18 pulgadas, 3 paletas, 60W. {{rating:MLA41606856}} estrellas en {{reviews:MLA41606856}} calificaciones. El ventilador Peabody mejor calificado de nuestro catálogo.` },
+      { type: "p", content: `El **[ventilador de pie PE-VP1860N](https://meli.la/2P1uH4q)** es el mejor calificado de su categoría en nuestro catálogo: {{reviews:MLA41606856}} calificaciones a {{rating:MLA41606856}} estrellas. Si buscás algo más grande, el ventilador de techo retráctil de Peabody también sostiene buen nivel ({{rating:MLA43536904}} estrellas en {{reviews:MLA43536904}} calificaciones), aunque es el ventilador más caro de la marca en nuestro catálogo.` },
+
+      { type: "h2", title: `Dónde tener cuidado con Peabody`, id: "donde-cuidado" },
+      { type: "p", content: `Ser honestos con lo bueno implica serlo también con lo flojo. La **[PE-CE5023IX](https://meli.la/1n158eE)**, la única cafetera totalmente automática de Peabody en nuestro catálogo, cuesta {{precio:MLA53370426}} y todavía tiene solo **{{reviews:MLA53370426}} calificaciones**, una base chica para una compra de casi $1.000.000. En nuestro análisis dedicado ya documentamos dos avisos serios que aparecen entre esas pocas reseñas: la crítica más detallada dice que el molinillo integrado "no alcanza a moler tan fino como para el expreso perfecto", justo la función por la que se paga esta máquina, y otro comprador reporta que tuvo que sumar una térmica dedicada y cableado exclusivo por el consumo eléctrico. Si tu instalación es justa, es un costo extra a considerar antes de comprar.` },
+      { type: "p", content: `El otro matiz honesto, más general: el service de Peabody está más concentrado en AMBA y algunas ciudades grandes que en el resto del país, según confirmamos comparándola con Atma en nuestra guía de freidoras. No significa que la marca no tenga garantía fuera de AMBA, pero si vivís en el interior y tu freidora o pava se rompe, conseguir service puede llevarte más tiempo que con una marca con red más distribuida.` },
+
+      { type: "h2", title: `Tabla comparativa: los productos Peabody que recomendamos`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Producto`, `Categoría`, `Precio`, `Rating`, `Opiniones`], rows: [
+        [`[Licuadora de mano PE-LMA327B](https://meli.la/2JgxVog)`, `Pequeños electro`, `{{precio:MLA13112158}}`, `{{rating:MLA13112158}}`, `{{reviews:MLA13112158}}`],
+        [`[Batidora PE-BM110P](https://meli.la/2DSmttc)`, `Pequeños electro`, `{{precio:MLA45462816}}`, `{{rating:MLA45462816}}`, `{{reviews:MLA45462816}}`],
+        [`[Freidora PE-AFD720N](https://meli.la/1tZqZqD)`, `Cocina`, `{{precio:MLA41829394}}`, `{{rating:MLA41829394}}`, `{{reviews:MLA41829394}}`],
+        [`[Freidora Grill PE-AFG01IX](https://meli.la/1afZm1r)`, `Cocina`, `{{precio:MLA23318618}}`, `{{rating:MLA23318618}}`, `{{reviews:MLA23318618}}`],
+        [`[Pava vintage PE-KV8215R](https://meli.la/1h5c9zR)`, `Cocina`, `{{precio:MLA15276005}}`, `{{rating:MLA15276005}}`, `{{reviews:MLA15276005}}`],
+        [`[Pava digital PE-DK2200N](https://meli.la/2cyQgD2)`, `Cocina`, `{{precio:MLA47275624}}`, `{{rating:MLA47275624}}`, `{{reviews:MLA47275624}}`],
+        [`[Cafetera PE-CE5010N](https://meli.la/2uKu8pv)`, `Cocina`, `{{precio:MLA47077888}}`, `{{rating:MLA47077888}}`, `{{reviews:MLA47077888}}`],
+        [`[Ventilador de pie PE-VP1860N](https://meli.la/2P1uH4q)`, `Climatización`, `{{precio:MLA41606856}}`, `{{rating:MLA41606856}}`, `{{reviews:MLA41606856}}`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir dentro del catálogo Peabody`, id: "como-elegir" },
+      { type: "p", content: `Si estás por comprar algo de Peabody, la pregunta correcta no es "¿es buena la marca?" sino "¿es bueno este producto puntual?". Priorizá sus categorías con más volumen probado (pequeños electrodomésticos, freidoras de aire, pavas eléctricas), donde las bases de opiniones son grandes y consistentes. Si el producto que te interesa tiene pocas calificaciones para su precio, como la cafetera automática, leé el texto de esas reseñas antes de decidir, no te quedes solo con las estrellas. Y si vivís fuera de AMBA, sumá el factor service a la decisión, sobre todo en electrodomésticos que se usan todos los días.` },
+      { type: "callout", calloutVariant: "warning", calloutTitle: "Un dato, no un veredicto de marca", content: `Que la cafetera automática tenga pocas opiniones para su precio no significa que "Peabody sea mala marca": significa que ESE producto puntual todavía no tiene el respaldo de datos que sí tienen sus freidoras y pavas. Es el mismo criterio que aplicamos con cualquier otra marca del sitio (ver también nuestro análisis de [Atma](/guias/marcas/atma) y [Gadnic](/guias/marcas/gadnic)): juzgamos el producto, no generalizamos a partir de un solo caso.` },
+
+      { type: "h2", title: `Veredicto: ¿comprar productos Peabody?`, id: "veredicto" },
+      { type: "verdict", content: `Sí, con criterio de producto puntual. Peabody es una marca nacional consolidada en electro de cocina, con la **[licuadora de mano PE-LMA327B](https://meli.la/2JgxVog)** como su producto más probado ({{reviews:MLA13112158}} opiniones) y freidoras de aire que sostienen rating de 4.8 o más en casi toda la línea. Al mismo tiempo, no es pareja en todo: su cafetera totalmente automática todavía tiene poco respaldo de datos para el precio que pide, y su service está más concentrado en AMBA que en el interior del país. Antes de comprar cualquier producto Peabody, mirá su rating y su cantidad de opiniones puntuales, y si vivís lejos de Buenos Aires, sumá el factor service a la decisión.` },
+    ],
+    faq: [
+      { question: `¿Es argentina la marca Peabody?`, answer: `Sí, es una marca nacional con presencia consolidada en electro de cocina argentino, con garantía oficial reclamable en el país (el plazo exacto varía según el producto: confirmalo en la ficha antes de comprar).` },
+      { question: `¿Peabody tiene garantía?`, answer: `Sí, garantía oficial reclamable en Argentina. El plazo varía según el producto y el vendedor (nuestras propias comparativas registraron tanto 1 como 2 años según el modelo), así que conviene confirmarlo en la ficha antes de comprar y guardar el comprobante.` },
+      { question: `¿Cuál es el mejor producto de Peabody?`, answer: `Por volumen de opiniones, la [licuadora de mano PE-LMA327B](https://meli.la/2JgxVog): {{rating:MLA13112158}} estrellas en {{reviews:MLA13112158}} calificaciones, la base más grande de toda la marca. En freidoras de aire, la PE-AFD720N de 7.2L es nuestra elección; en pavas, la vintage PE-KV8215R es la más probada.` },
+      { question: `¿Peabody es buena marca o es mejor comprar otra?`, answer: `En freidoras de aire y pavas eléctricas, Peabody compite de igual a igual con Atma y otras marcas nacionales, con bases de opiniones grandes que lo respaldan. En su cafetera automática, todavía tiene poco historial para el precio que pide: ahí conviene mirar el producto puntual antes de decidir.` },
+      { question: `¿Hay algún producto Peabody que no convenga?`, answer: `La cafetera PE-CE5023IX, la única totalmente automática de la marca, cuesta {{precio:MLA53370426}} y todavía tiene pocas calificaciones para ese precio, con una reseña que señala que el molinillo integrado no muele tan fino como haría falta para un expreso perfecto. No es representativo del resto del catálogo, pero es un dato real a considerar antes de esa compra puntual.` },
+      { question: `¿Peabody o Atma, cuál conviene?`, answer: `Depende de dónde vivís y qué priorizás. Si estás en AMBA y te importan más el diseño y las funciones (pantalla táctil, visor 360°), Peabody. Si vivís en el interior y priorizás service técnico cercano, Atma tiene mejor cobertura. Las dos rinden bien en freidoras de aire, según comparamos en nuestra [guía Atma vs Peabody](/guias/atma-vs-peabody-freidora-de-aire).` },
+      { question: `¿Dónde comprar productos Peabody en Argentina?`, answer: `Mayormente por MercadoLibre, donde tiene catálogo amplio con vendedores con historial y stock actualizado. Comprar por MercadoLibre suma además la protección de compra de la plataforma sobre la garantía del fabricante.` },
+    ],
+    internalLinks: [
+      { label: "Freidoras de aire Peabody: los 4 modelos comparados", href: "/guias/peabody-freidoras-de-aire-review" },
+      { label: "Pava eléctrica Peabody: ¿vale el control digital?", href: "/guias/pava-electrica-peabody" },
+      { label: "Cafetera Peabody: cuál comprar", href: "/guias/cafetera-peabody" },
+      { label: "Atma vs Peabody: cuál conviene en freidoras de aire", href: "/guias/atma-vs-peabody-freidora-de-aire" },
+      { label: "¿Es buena la marca Atma?", href: "/guias/marcas/atma" },
+      { label: "¿Es buena la marca Gadnic?", href: "/guias/marcas/gadnic" },
+    ],
+    internalLinksTitle: "Más sobre productos Peabody",
   },
   // ─────────────────────────────────────────────────────────
   // Guía nueva freidoras-de-aire-opiniones — silo/categoría
