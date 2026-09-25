@@ -4439,4 +4439,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "20",
     postedAt: "2026-09-25T10:24:49-03:00",
   },
+  {
+    title: "Aire Acondicionado Split Siam 5000W Frío/Calor Inverter",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_723888-MLA115747673280_092026-O.webp",
+    affiliateUrl: "https://meli.la/17Smium",
+    newPrice: "1.009.769",
+    oldPrice: "1.869.999",
+    offPct: "46",
+    postedAt: "2026-09-25T10:51:10-03:00",
+  },
 ];
