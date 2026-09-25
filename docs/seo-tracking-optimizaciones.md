@@ -2556,4 +2556,22 @@ Las 7 guías planificadas en "Iteración 5" (mancuernas, bicicleta fija, rascado
 
 **Verificación:** `npx tsc --noEmit`, `npm run build`, y los 8 scripts de `guides:check` (corridos individualmente porque la cadena `&&` corta en el primer fallo) en verde. Los únicos hardcoded prices desactualizados que quedan son 3 preexistentes en otras guías (gaming, smartlife-cafetera), no tocados por esta sesión. `git diff` confirmado limpio de ediciones no autorizadas de agy tras su corrida con `--dangerously-skip-permissions`.
 
-Re-medir: pendiente de fijar fecha (recién publicada, sin commitear todavía).
+Re-medir: pendiente de fijar fecha (recién publicada). Commiteada y pusheada (`9987a01`).
+
+---
+
+## Guía nueva `hot-wheels-autos-coleccion` — silo `juguetes` (existente, categoría nueva) — 2026-09-25
+
+| Guía | Silo | Categoría | Keyword del cluster | Volumen (research previo) | SD | Productos |
+| :-- | :-- | :-- | :-- | --: | --: | --: |
+| `hot-wheels-autos-coleccion` | juguetes | hot-wheels-autos-coleccion | hot wheels | 18.100-110.000/mes | 9 | 4 (sourcing nuevo) |
+
+**Baseline: cero.** URL nueva, sin historial en GSC. Origen: `docs/keyword-research-juguetes.md` (research vivo desde julio), candidata #2 de las 12 guías propuestas por keyword, con el SD más bajo de todo ese research (9) y pico real de búsqueda septiembre-octubre-diciembre — se arrancó el 25/9 para tener ventana de lead time antes del pico de diciembre, en vez de esperar a que ya sea tarde. Silo `juguetes` ya existía (pilar `dia-del-nino-argentina` + `mejores-peluches-personajes-argentina` + `proyector-astronauta`, ya publicadas de research previo); esta es la primera guía "cuál comprar" de un producto específico dentro de ese silo.
+
+**Sourcing nuevo en vivo, 4 fichas (Chrome de Juan, ML bloquea el navegador interno para estas búsquedas):** el hallazgo grande de la sesión fue que el auto de colección **más vendido de TODA la categoría Vehículos a Escala** de MercadoLibre Argentina no es un Hot Wheels, es un Bburago del Alpine A525 de Franco Colapinto (edición limitada con el logo de MercadoLibre en la carrocería, MLAU4083097538, 4.9★/542 opiniones, 1° en el ranking propio de más vendidos). Se sumaron 3 Hot Wheels tradicionales: el más vendido de la marca (CHARCO x5, 2° del ranking, 4.9★/2.101), la entrada más barata (Cebra individual, 6° del ranking, 4.9★/314) y el único con rating perfecto (Kinderland F1 x5, 5.0★/227, modelos fijos en vez de al azar). Afiliados generados en vivo con Juan (linkbuilder, etiqueta "productosvirales", verificados uno por uno contra `/social/jm159?matt_word=productosvirales`): Bburago `meli.la/2oXxA6Z`, CHARCO `meli.la/2q3w4YZ`, Cebra `meli.la/2V1G4wa`, Kinderland `meli.la/17jQCuN`. La tabla comparativa de la guía se actualizó para linkear directo a estos, no a las fichas internas.
+
+**Auditoría del trío: 3 rondas hasta doble GO.** Codex dio NO-GO en la primera pasada con 3 bloqueantes reales: la intro afirmaba "ninguno es surtido al azar" contradiciendo que 2 de los 4 productos (CHARCO, Cebra) sí lo son (corregido a "dos de los cuatro vienen con selección al azar... y dos vienen fijos"); el `seoTitle` de la guía en 44 caracteres y la `metaDescription` en 157 (fuera del rango 50-60 / ≤155, corregidos a 57 y 145); y los `seoTitle` de las fichas Bburago (64 car.) y CHARCO (67 car. renderizado) por encima de 60 (acortados a 54 cada uno). agy dio GO con un solo cambio menor en la misma primera pasada: la `metaDescription` (mismo hallazgo que Codex) y una observación opcional sobre guiones largos en los `title` crudos de las 4 fichas (no en H3, así que no rompía la regla dura, pero se sacaron igual por prolijidad, confirmando que el slug no cambiaba porque `slugifyTitle()` trata "—" y ":" igual). Segunda pasada: agy dio GO limpio; Codex encontró un cuarto detalle que se le había escapado a los dos en la primera ronda — el `internalLinksTitle` "Más guías del silo Juguetes" todavía linkeaba a una guía de otro silo (`corralito-para-bebe`, silo `bebes`) — corregido, sacando ese link y dejando los 3 restantes, los 3 reales del silo juguetes. Tercera pasada, confirmación rápida: GO limpio.
+
+**Verificación:** `npx tsc --noEmit`, `npm run build`, y los 8 scripts de `guides:check` en verde de punta a punta, incluido `check-guide-monetization.cjs` (los 4 afiliados ya cargados), salvo los mismos 3 hardcoded prices preexistentes de siempre, no tocados por esta sesión.
+
+Re-medir: pendiente de fijar fecha (recién publicada).

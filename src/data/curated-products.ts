@@ -75287,6 +75287,404 @@ Comprá este peluche si buscás la opción más accesible y con más respaldo de
       },
     },
   },
+
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva hot-wheels-autos-coleccion — silo/categoría juguetes.
+  // Sourcing en vivo el 2026-09-25 (Chrome de Juan, ML bloquea el navegador
+  // interno). 4 fichas nuevas: el Bburago Colapinto (1° en ventas de toda
+  // la categoría Vehículos a Escala), el Hot Wheels más vendido del país
+  // (CHARCO, 2°), la entrada individual más barata (Cebra, 6°), y el pack
+  // temático de Fórmula 1 (Kinderland). Origen: docs/keyword-research-
+  // juguetes.md, "hot wheels" 18.100-110.000/mes, SD 9, pico sep-oct-dic.
+  // ─────────────────────────────────────────────────────────
+  {
+    id: "MLAU4083097538",
+    title: "Auto F1 Coleccionable 1:43 Bburago Edición Limitada Colapinto: Alpine A525",
+    canonicalName: "Bburago Alpine A525 Franco Colapinto Edición Limitada 1:43",
+    brand: "Bburago",
+    price: 34660,
+    originalPrice: 47972,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_938422-MLA111919629438_062026-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_938422-MLA111919629438_062026-F.webp",
+    ],
+    category: "Juguetes",
+    categorySlug: "juguetes",
+    permalink: "https://www.mercadolibre.com.ar/auto-f1-coleccionable-143-burago-edicion-limitada-colapinto/up/MLAU4083097538",
+    affiliateUrl: "https://meli.la/2oXxA6Z",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.9,
+    reviewCount: 542,
+    badge: "bestseller",
+    pastelColor: "var(--pastel-blue)",
+    specs: [
+      { label: "Marca", value: "Bburago (licencia oficial Alpine F1 Team)" },
+      { label: "Modelo", value: "Alpine A525, Franco Colapinto #43, edición limitada" },
+      { label: "Escala", value: "1:43" },
+      { label: "Material de la carrocería", value: "Metal (die-cast)" },
+      { label: "Con apertura de puertas", value: "Sí" },
+      { label: "Color", value: "Rosa/Azul/Amarillo (librea BWT Alpine 2025, con logo de MercadoLibre)" },
+      { label: "Cantidad de vehículos", value: "1, con base de exhibición" },
+      { label: "Vendedor", value: "Iael, tienda oficial MercadoLíder Platinum, +50 mil ventas" },
+    ],
+    relatedProducts: ["MLA1380850143", "MLAU429681969", "MLAU3676628437"],
+    priceUpdated: "2026-09-25", priceLastChecked: "2026-09-25", priceStatus: "fresh", reviewsSampledAt: "2026-09-25",
+    description: "Auto de colección Bburago escala 1:43 del Alpine A525 de Franco Colapinto, edición limitada con el logo de MercadoLibre en la carrocería. Es el producto más vendido de toda la categoría Vehículos a Escala en MercadoLibre Argentina, con {{reviews:MLAU4083097538}} opiniones a {{rating:MLAU4083097538}} estrellas.",
+    seoTitle: "Bburago Colapinto 1:43: el más vendido de MercadoLibre",
+    metaDescription: "Auto F1 Bburago Alpine A525 de Franco Colapinto, escala 1:43, edición limitada. {{reviews:MLAU4083097538}} opiniones, 1° en Vehículos a Escala.",
+    verdict: "Es el producto más vendido de **toda la categoría Vehículos a Escala** de MercadoLibre Argentina, no solo entre los autos de Colapinto: {{reviews:MLAU4083097538}} calificaciones reales a {{rating:MLAU4083097538}} estrellas. Metal die-cast con apertura de puertas, vendido por una tienda oficial con más de 50 mil ventas. Es una edición limitada especial con el logo de MercadoLibre en la carrocería (Mercado Libre es sponsor real del equipo Alpine), distinta a la versión estándar que ya tenían varios compradores repetidores. La única salvedad: es un solo auto en escala 1:43, más grande que el 1:64 estándar de Hot Wheels, así que no combina con esas pistas ni con esos packs.",
+    pros: [
+      "1° en ventas de toda la categoría Vehículos a Escala de MercadoLibre Argentina, con {{reviews:MLAU4083097538}} opiniones a {{rating:MLAU4083097538}} estrellas",
+      "Metal die-cast con apertura de puertas, no plástico hueco",
+      "Vendido por tienda oficial (Iael, MercadoLíder Platinum, +50 mil ventas)",
+      "Edición limitada con el logo real de MercadoLibre en la carrocería (Mercado Libre es sponsor del equipo Alpine)",
+    ],
+    cons: [
+      "Es un solo auto: si buscás variedad para jugar, un pack de varias unidades da mejor relación precio-cantidad",
+      "Escala 1:43, más grande que el 1:64 estándar de Hot Wheels: no combina en la misma pista ni en el mismo pack de exhibición",
+      "No trae pista ni accesorios adicionales, solo el auto y la base de exhibición",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace 3 meses", useful: 17, text: "Un lujo! tenía el primero que salió, pero no me podía perder la edición de mercado libre. Solo faltaría conseguir a buen precio un williams." },
+      { rating: 5, country: "Argentina", date: "hace 3 meses", useful: 7, text: "Es una maravilla, tenía el mismo, pero este con la publicidad de mercado libre está a otro nivel! conforme al 100%." },
+      { rating: 5, country: "Argentina", date: "hace 2 meses", text: "Buena calidad y terminaciones." },
+    ],
+    articleBody: `## Qué es el Bburago Colapinto edición limitada
+
+Es un auto de colección a escala 1:43 del Alpine A525, el monoplaza de Franco Colapinto en la temporada 2025 de Fórmula 1, fabricado por Bburago (licencia oficial del equipo Alpine F1 Team). Cuesta {{precio:MLAU4083097538}} y es, con diferencia, el producto más vendido de **toda la categoría Vehículos a Escala** de MercadoLibre Argentina: {{reviews:MLAU4083097538}} calificaciones reales a {{rating:MLAU4083097538}} estrellas.
+
+## Por qué es "edición limitada"
+
+No es la versión estándar del Bburago Colapinto: esta trae el logo de MercadoLibre en la carrocería, tal como aparece en el auto real (Mercado Libre es sponsor confirmado del equipo Alpine desde 2025). Varias reseñas de compradores que ya tenían el modelo original lo confirman: "tenía el primero que salió, pero no me podía perder la edición de mercado libre" y "tenía el mismo, pero este con la publicidad de mercado libre está a otro nivel". Es metal die-cast con apertura de puertas, no plástico, y viene con una base de exhibición.
+
+## El vendedor y el respaldo
+
+Lo vende Iael, tienda oficial de MercadoLibre con clasificación MercadoLíder Platinum, más de 9.200 seguidores y más de 50 mil ventas totales. No es un revendedor sin historial: es uno de los perfiles más consolidados de la categoría juguetes en el sitio.
+
+## Para quién es, y para quién no
+
+Es para vos si buscás una pieza de colección real (no para jugar en el piso con los chicos todos los días) del piloto argentino más seguido del momento, o si ya seguís la Fórmula 1 y coleccionás autos a escala. Si lo que buscás es variedad para jugar o armar una colección grande sin gastar tanto por unidad, un pack de Hot Wheels de varias unidades rinde mejor: este es un solo auto, en una escala (1:43) más grande que el estándar 1:64 de Hot Wheels, así que no se mezcla con esas pistas.
+
+## El veredicto
+
+El producto más vendido de toda la categoría de autos a escala del sitio, con un respaldo de {{reviews:MLAU4083097538}} calificaciones reales y una edición que suma un dato real (el sponsoreo de MercadoLibre a Alpine) en vez de ser genérica. Para regalo o colección, es la compra más segura de esta guía.`,
+    faq: [
+      { question: "¿Es un Bburago oficial con licencia de Alpine F1?", answer: "Sí, Bburago tiene licencia oficial del equipo Alpine F1 Team. Esta versión puntual es una edición limitada con el logo de MercadoLibre en la carrocería, reflejando el sponsoreo real de la marca al equipo desde 2025." },
+      { question: "¿Qué escala es?", answer: "1:43, más grande que la escala 1:64 estándar de los Hot Wheels. No es compatible con pistas ni packs de exhibición pensados para 1:64." },
+      { question: "¿Es el auto de colección más vendido de MercadoLibre?", answer: `Sí, figura 1° en el ranking propio de MercadoLibre de toda la categoría Vehículos a Escala, con {{reviews:MLAU4083097538}} calificaciones a {{rating:MLAU4083097538}} estrellas.` },
+      { question: "¿Trae pista o solo el auto?", answer: "Solo el auto, con apertura de puertas y una base de exhibición. No incluye pista ni accesorios adicionales." },
+      { question: "¿Es de metal o de plástico?", answer: "La carrocería es de metal (die-cast), según su propia ficha técnica, con apertura de puertas funcional." },
+      { question: "¿Conviene para regalo?", answer: "Sí, es de las opciones más seguras de esta guía: vendedor con MercadoLíder Platinum y más de 50 mil ventas, edición con un dato real detrás (el sponsoreo de MercadoLibre a Alpine), y {{reviews:MLAU4083097538}} calificaciones que lo respaldan." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Bburago Alpine A525 Franco Colapinto Edición Limitada 1:43",
+      image: ["https://http2.mlstatic.com/D_NQ_NP_938422-MLA111919629438_062026-F.webp"],
+      description: "Auto de colección Bburago escala 1:43 del Alpine A525 de Franco Colapinto, edición limitada con logo de MercadoLibre.",
+      brand: { "@type": "Brand", name: "Bburago" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/auto-f1-coleccionable-143-burago-edicion-limitada-colapinto/up/MLAU4083097538",
+        priceCurrency: "ARS",
+        price: "34660",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.9",
+        reviewCount: "542",
+      },
+    },
+  },
+  {
+    id: "MLA1380850143",
+    title: "Hot Wheels Pack Por 5 Unidades: Surtido Original Mattel, Escala 1:64",
+    canonicalName: "Hot Wheels Pack x5 CHARCO",
+    brand: "Hot Wheels",
+    price: 22300,
+    originalPrice: 32900,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_803208-MLA104524821257_012026-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_803208-MLA104524821257_012026-F.webp",
+    ],
+    category: "Juguetes",
+    categorySlug: "juguetes",
+    permalink: "https://articulo.mercadolibre.com.ar/MLA-1380850143-hot-wheels-pack-por-5-unidades-_JM",
+    affiliateUrl: "https://meli.la/2q3w4YZ",
+    condition: "new",
+    freeShipping: false,
+    rating: 4.9,
+    reviewCount: 2101,
+    badge: "bestseller",
+    pastelColor: "var(--pastel-amber)",
+    specs: [
+      { label: "Marca", value: "Hot Wheels (Mattel)" },
+      { label: "Cantidad", value: "5 autos por pack" },
+      { label: "Escala", value: "1:64" },
+      { label: "Material", value: "Metal con detalles plásticos (estándar Hot Wheels)" },
+      { label: "Selección de modelos", value: "Al azar (surtido, no se elige)" },
+      { label: "Vendedor", value: "CHARCO, +10 mil ventas" },
+    ],
+    relatedProducts: ["MLAU4083097538", "MLAU429681969", "MLAU3676628437"],
+    priceUpdated: "2026-09-25", priceLastChecked: "2026-09-25", priceStatus: "fresh", reviewsSampledAt: "2026-09-25",
+    description: "Pack de 5 autos Hot Wheels originales Mattel, escala 1:64, surtido al azar. Es el Hot Wheels más vendido de todo el catálogo: {{reviews:MLA1380850143}} opiniones a {{rating:MLA1380850143}} estrellas, 2° en el ranking propio de MercadoLibre de toda la categoría Vehículos a Escala.",
+    seoTitle: "Hot Wheels pack x5 CHARCO: el más vendido del catálogo",
+    metaDescription: "Hot Wheels Pack por 5 unidades, original Mattel, escala 1:64. {{reviews:MLA1380850143}} opiniones a {{rating:MLA1380850143}} estrellas, 2° en ventas.",
+    verdict: "Es el Hot Wheels con más volumen de ventas y de opiniones de todo el catálogo: {{reviews:MLA1380850143}} calificaciones reales a {{rating:MLA1380850143}} estrellas, 2° en el ranking propio de MercadoLibre de toda la categoría Vehículos a Escala. A {{precio:MLA1380850143}} por 5 autos, es la mejor relación precio por unidad de esta guía. La selección viene al azar (no elegís los modelos), y una reseña real de 3 estrellas avisa que ocasionalmente algún auto del lote viene con terminación más floja que el resto.",
+    pros: [
+      `El Hot Wheels más vendido del catálogo: {{reviews:MLA1380850143}} calificaciones a {{rating:MLA1380850143}} estrellas`,
+      "2° en el ranking propio de MercadoLibre de toda la categoría Vehículos a Escala",
+      "Mejor relación precio por unidad de esta guía: {{precio:MLA1380850143}} por 5 autos",
+      "Modelos variados (clásicos, deportivos, utilitarios) en un mismo pack",
+    ],
+    cons: [
+      "La selección es al azar: no elegís cuáles 5 modelos vienen",
+      `Una reseña de 3 estrellas señala que un auto puntual del lote (un Daytona) vino con "color y detalles" más flojos que el resto`,
+      "Escala 1:64, no compatible con piezas de colección más grandes como el Bburago Colapinto (escala 1:43)",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace más de 1 año", useful: 20, text: "Están buenísimos!." },
+      { rating: 5, country: "Argentina", date: "hace más de 1 año", useful: 11, text: "Genial." },
+      { rating: 3, country: "Argentina", date: "hace 4 meses", useful: 8, text: "El daytona vale cada bendito centavo. Los otros estan muy bien pero ese daytona esta riki riki en color y detalles...." },
+    ],
+    articleBody: `## Qué es el pack Hot Wheels por 5 unidades
+
+Es un surtido de 5 autos Hot Wheels originales Mattel, escala 1:64, a {{precio:MLA1380850143}}. Es, por lejos, el Hot Wheels con más historial de ventas y de opiniones de todo el catálogo: {{reviews:MLA1380850143}} calificaciones reales a {{rating:MLA1380850143}} estrellas, y figura 2° en el ranking propio de más vendidos de MercadoLibre de toda la categoría Vehículos a Escala.
+
+## La mejor relación precio por unidad
+
+A {{precio:MLA1380850143}} por 5 autos, sale considerablemente menos por unidad que comprar autos sueltos o que las piezas de colección más grandes de esta guía. Los compradores lo resumen corto y directo: "Están buenísimos!" y "Genial." son de las reseñas más votadas, con 20 y 11 votos útiles respectivamente.
+
+## La contra real: selección al azar, y un modelo puntual más flojo
+
+Es honesto decirlo de entrada: no elegís cuáles 5 modelos te tocan, es un surtido al azar. Y una reseña de 3 estrellas, con 8 votos útiles, lo confirma con un detalle concreto: "El daytona vale cada bendito centavo. Los otros estan muy bien pero ese daytona esta riki riki en color y detalles". No es un problema del pack en general ({{reviews:MLA1380850143}} calificaciones lo respaldan), pero sí una advertencia real de que la calidad puede variar según qué modelo puntual te toque.
+
+## Para quién es, y para quién no
+
+Es para vos si buscás la mejor relación cantidad-precio para jugar, armar una colección grande sin gastar de a uno, o regalar algo con volumen. Si te importa elegir exactamente qué autos llevás, el [Hot Wheels Pack X5 de Fórmula 1](/producto/hot-wheels-pack-x5-coches-de-formula-1-escala-1-64-jgf58-mlau3676628437) de esta misma guía viene con los 5 modelos fijos, no al azar.
+
+## El veredicto
+
+El pack con más respaldo de todo el catálogo de Hot Wheels, a la mejor relación precio por unidad de esta guía. La única letra chica: selección al azar, con alguna reseña que señala variación de calidad entre modelos del mismo lote.`,
+    faq: [
+      { question: "¿Puedo elegir qué autos vienen en el pack?", answer: "No, la selección es al azar (surtido). Si querés elegir los modelos, el pack de Fórmula 1 de esta guía viene con los 5 modelos fijos." },
+      { question: "¿Es el Hot Wheels más vendido de MercadoLibre?", answer: `Sí, figura 2° en el ranking propio de MercadoLibre de toda la categoría Vehículos a Escala (el 1° es el Bburago Colapinto, de otra línea), con {{reviews:MLA1380850143}} calificaciones.` },
+      { question: "¿Todos los autos vienen con la misma calidad?", answer: "Casi siempre sí según las {{reviews:MLA1380850143}} calificaciones, pero una reseña de 3 estrellas avisa que un modelo puntual del lote (un Daytona) le vino con terminación más floja que el resto. No es lo habitual, pero puede pasar." },
+      { question: "¿Son originales Mattel?", answer: "Sí, son Hot Wheels originales de Mattel, escala 1:64, vendidos por CHARCO con más de 10 mil ventas." },
+      { question: "¿Cuánto sale cada auto por unidad?", answer: `Al precio del pack ({{precio:MLA1380850143}} por 5 unidades), es la mejor relación precio por unidad de toda esta guía.` },
+      { question: "¿Sirve para armar una colección grande?", answer: "Sí, es la opción más eficiente en precio de esta guía para sumar volumen a una colección, aunque no podés elegir qué modelos te tocan en cada pack." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Hot Wheels Pack x5 CHARCO",
+      image: ["https://http2.mlstatic.com/D_NQ_NP_803208-MLA104524821257_012026-F.webp"],
+      description: "Pack de 5 autos Hot Wheels originales Mattel, escala 1:64, surtido al azar.",
+      brand: { "@type": "Brand", name: "Hot Wheels" },
+      offers: {
+        "@type": "Offer",
+        url: "https://articulo.mercadolibre.com.ar/MLA-1380850143-hot-wheels-pack-por-5-unidades-_JM",
+        priceCurrency: "ARS",
+        price: "22300",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.9",
+        reviewCount: "2101",
+      },
+    },
+  },
+  {
+    id: "MLAU429681969",
+    title: "Autito Hot Wheels Individual Mattel: Escala 1:64, Modelo al Azar",
+    canonicalName: "Hot Wheels Individual Cebra",
+    brand: "Hot Wheels",
+    price: 5390,
+    originalPrice: 5990,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_997246-MLA77868806584_072024-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_997246-MLA77868806584_072024-F.webp",
+    ],
+    category: "Juguetes",
+    categorySlug: "juguetes",
+    permalink: "https://www.mercadolibre.com.ar/autito-hot-wheels-individuales-mattel/up/MLAU429681969",
+    affiliateUrl: "https://meli.la/2V1G4wa",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.9,
+    reviewCount: 314,
+    badge: "bestseller",
+    pastelColor: "var(--pastel-green)",
+    specs: [
+      { label: "Marca", value: "Hot Wheels (Mattel)" },
+      { label: "Cantidad", value: "1 unidad" },
+      { label: "Escala", value: "1:64" },
+      { label: "Color / modelo", value: "Al azar (45 variantes disponibles)" },
+      { label: "Vendedor", value: "Cebra, +5 mil ventas" },
+    ],
+    relatedProducts: ["MLAU4083097538", "MLA1380850143", "MLAU3676628437"],
+    priceUpdated: "2026-09-25", priceLastChecked: "2026-09-25", priceStatus: "fresh", reviewsSampledAt: "2026-09-25",
+    description: "Auto Hot Wheels individual, original Mattel, escala 1:64, modelo al azar entre 45 variantes. La entrada más barata a la marca: {{precio:MLAU429681969}}.",
+    seoTitle: "Hot Wheels individual: la entrada más barata a la marca",
+    metaDescription: "Autito Hot Wheels individual Mattel, escala 1:64. {{reviews:MLAU429681969}} opiniones, {{precio:MLAU429681969}}, 6° en ventas de la categoría.",
+    verdict: "Es la puerta de entrada más barata a la marca: {{precio:MLAU429681969}} por un auto original Mattel, escala 1:64. Tiene {{reviews:MLAU429681969}} calificaciones reales a {{rating:MLAU429681969}} estrellas y figura 6° en el ranking propio de MercadoLibre de toda la categoría Vehículos a Escala. El modelo y el color vienen al azar entre 45 variantes disponibles: no podés elegir cuál te toca, así que como regalo puntual funciona mejor que como pieza elegida a propósito.",
+    pros: [
+      "La entrada más barata a la marca de esta guía: menos de $5.500",
+      `{{reviews:MLAU429681969}} calificaciones a {{rating:MLAU429681969}} estrellas, 6° en el ranking propio de MercadoLibre de toda la categoría`,
+      "Original Mattel, no genérico",
+      "Ideal para regalo chico o piñatería por el precio unitario",
+    ],
+    cons: [
+      "El modelo y el color vienen al azar entre 45 variantes: no elegís cuál te toca",
+      "Es una sola unidad: para armar colección de a poco sale más caro por auto que comprar un pack",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace 1 año", useful: 14, text: "Muy buena calidad." },
+    ],
+    articleBody: `## Qué es el Hot Wheels individual
+
+Es un auto Hot Wheels original Mattel, escala 1:64, vendido de a una unidad a {{precio:MLAU429681969}}. Es la puerta de entrada más barata a la marca de toda esta guía, con {{reviews:MLAU429681969}} calificaciones reales a {{rating:MLAU429681969}} estrellas, y figura 6° en el ranking propio de MercadoLibre de toda la categoría Vehículos a Escala.
+
+## El modelo viene al azar
+
+La publicación ofrece 45 variantes de color y modelo distintas, pero no se elige cuál llega: es una compra "sorpresa". Una compradora lo resume corto: "Muy buena calidad" (14 votos útiles), consistente con el resto de las {{reviews:MLAU429681969}} calificaciones.
+
+## Para quién es, y para quién no
+
+Es para vos si buscás el regalo más económico posible (piñatería, souvenir de cumpleaños, complemento de otro regalo) o si querés probar la marca antes de invertir en un pack. Si te importa la cantidad o armar una colección de una sola compra, el [pack de 5 unidades CHARCO](/producto/hot-wheels-pack-por-5-unidades-surtido-original-mattel-escala-1-64-mla1380850143) de esta misma guía sale mejor por unidad.
+
+## El veredicto
+
+La compra más chica y más segura de esta guía: original Mattel, con {{reviews:MLAU429681969}} calificaciones reales, al precio de entrada más bajo. La única letra chica es que no elegís qué modelo te toca.`,
+    faq: [
+      { question: "¿Puedo elegir qué auto me llega?", answer: "No, el modelo y el color vienen al azar entre 45 variantes disponibles en la publicación." },
+      { question: "¿Es original Mattel?", answer: "Sí, es un Hot Wheels original de Mattel, escala 1:64, vendido por Cebra con más de 5 mil ventas." },
+      { question: "¿Cuál es el Hot Wheels más barato de esta guía?", answer: `Este: {{precio:MLAU429681969}} por unidad, la entrada más económica a la marca entre las 4 fichas de esta comparativa.` },
+      { question: "¿Sirve para piñatería o regalo chico?", answer: "Sí, es la opción pensada exactamente para eso: precio bajo por unidad y calidad Mattel real, aunque el modelo llega al azar." },
+      { question: "¿Cuántas calificaciones tiene?", answer: `{{reviews:MLAU429681969}} calificaciones reales a {{rating:MLAU429681969}} estrellas, 6° en el ranking propio de MercadoLibre de toda la categoría Vehículos a Escala.` },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Hot Wheels Individual Cebra",
+      image: ["https://http2.mlstatic.com/D_NQ_NP_997246-MLA77868806584_072024-F.webp"],
+      description: "Auto Hot Wheels individual, original Mattel, escala 1:64, modelo al azar.",
+      brand: { "@type": "Brand", name: "Hot Wheels" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/autito-hot-wheels-individuales-mattel/up/MLAU429681969",
+        priceCurrency: "ARS",
+        price: "5390",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.9",
+        reviewCount: "314",
+      },
+    },
+  },
+  {
+    id: "MLAU3676628437",
+    title: "Hot Wheels Pack X5 Coches de Fórmula 1: Escala 1:64, Jgf58",
+    canonicalName: "Hot Wheels Pack x5 Fórmula 1 Jgf58",
+    brand: "Hot Wheels",
+    price: 32990,
+    originalPrice: 39990,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_714613-MLA117040847885_092026-OO.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_714613-MLA117040847885_092026-OO.webp",
+    ],
+    category: "Juguetes",
+    categorySlug: "juguetes",
+    permalink: "https://www.mercadolibre.com.ar/hot-wheels-pack-x5-coches-de-formula-1-164-jgf58/up/MLAU3676628437",
+    affiliateUrl: "https://meli.la/17jQCuN",
+    condition: "new",
+    freeShipping: true,
+    rating: 5.0,
+    reviewCount: 227,
+    badge: "bestseller",
+    pastelColor: "var(--pastel-purple)",
+    specs: [
+      { label: "Marca", value: "Hot Wheels (Mattel), línea Fórmula 1 con licencia oficial" },
+      { label: "Cantidad", value: "5 autos F1 por pack, modelos fijos (no al azar)" },
+      { label: "Escala", value: "1:64" },
+      { label: "Diseño", value: "Autos de carrera con libreas estilo equipos de F1 (línea Hot Wheels, sin licencia de piloto individual)" },
+      { label: "Vendedor", value: "Kinderland, +1000 ventas" },
+    ],
+    relatedProducts: ["MLAU4083097538", "MLA1380850143", "MLAU429681969"],
+    priceUpdated: "2026-09-25", priceLastChecked: "2026-09-25", priceStatus: "fresh", reviewsSampledAt: "2026-09-25",
+    description: "Pack de 5 autos Hot Wheels de Fórmula 1, escala 1:64, con licencia oficial F1 en la caja. {{reviews:MLAU3676628437}} opiniones, rating perfecto de 5.0 estrellas.",
+    seoTitle: "Hot Wheels Fórmula 1 x5: rating perfecto, licencia oficial",
+    metaDescription: "Hot Wheels Pack X5 autos de Fórmula 1, escala 1:64, licencia oficial. {{reviews:MLAU3676628437}} opiniones, {{rating:MLAU3676628437}} estrellas.",
+    verdict: "Es el único pack de esta guía con **rating perfecto**: {{rating:MLAU3676628437}} estrellas en {{reviews:MLAU3676628437}} calificaciones reales. Trae licencia oficial de Fórmula 1 en la caja y, a diferencia de los otros packs de Hot Wheels, los 5 autos vienen fijos, no al azar: sabés exactamente qué llevás. Una reseña real confirma que son \"originales, importados por el mismo vendedor\". La contra: sale más caro por unidad que el pack surtido de 5 (CHARCO), y los autos tienen libreas estilo equipos de F1 de la línea Hot Wheels, no son réplicas con licencia de un piloto puntual como el Bburago Colapinto.",
+    pros: [
+      `Rating perfecto: {{rating:MLAU3676628437}} estrellas en {{reviews:MLAU3676628437}} calificaciones`,
+      "Licencia oficial de Fórmula 1 en la caja, no genérico",
+      "Los 5 autos vienen fijos en el pack: no es surtido al azar",
+      "Una reseña confirma que son originales, importados por el mismo vendedor",
+    ],
+    cons: [
+      "Sale más caro por unidad que el pack surtido de 5 (CHARCO): ronda los $6.600 por auto contra $4.460",
+      "Las libreas son de equipos de F1 estilo Hot Wheels, sin licencia de un piloto individual (a diferencia del Bburago Colapinto de esta guía)",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace 8 meses", useful: 3, text: "Originales, importados por el mismo vendedor, excelente calidad y de colección." },
+    ],
+    articleBody: `## Qué es el pack Hot Wheels de Fórmula 1
+
+Es un pack de 5 autos Hot Wheels con licencia oficial de Fórmula 1, escala 1:64, a {{precio:MLAU3676628437}}. Es el único producto de esta guía con rating perfecto: {{rating:MLAU3676628437}} estrellas en {{reviews:MLAU3676628437}} calificaciones reales.
+
+## Modelos fijos, no al azar
+
+A diferencia de los otros packs de Hot Wheels de esta guía, acá los 5 autos vienen definidos: no es un surtido sorpresa. Cada auto lleva la librea de un equipo distinto de F1, en la estética propia de la línea Hot Wheels. Una reseña real lo confirma: "Originales, importados por el mismo vendedor, excelente calidad y de colección".
+
+## La diferencia real con el Bburago Colapinto
+
+Estos autos tienen libreas estilo equipos de F1 de la línea Hot Wheels, no son réplicas con licencia de un piloto puntual: si lo que buscás específicamente es el auto de Franco Colapinto, el [Bburago Colapinto edición limitada](/producto/auto-f1-coleccionable-1-43-bburago-edicion-limitada-colapinto-alpine-a525-mlau4083097538) de esta guía es la pieza con licencia real de piloto. Este pack, en cambio, da variedad de equipos por menos plata total que comprar 5 piezas individuales de colección.
+
+## Para quién es, y para quién no
+
+Es para vos si te gusta la Fórmula 1 en general (no un piloto puntual) y querés variedad de equipos sin dejar la selección al azar. Si el presupuesto manda y no te importa qué modelos te tocan, el [pack surtido CHARCO](/producto/hot-wheels-pack-por-5-unidades-surtido-original-mattel-escala-1-64-mla1380850143) sale más barato por unidad.
+
+## El veredicto
+
+El pack con mejor rating de toda la guía, con la ventaja de saber exactamente qué autos vas a recibir. Cuesta más por unidad que el surtido al azar, pero para quien sigue la Fórmula 1 esa certeza vale la diferencia.`,
+    faq: [
+      { question: "¿Los autos vienen fijos o al azar?", answer: "Fijos: los 5 modelos del pack están definidos, a diferencia de otros Hot Wheels que vienen surtidos al azar." },
+      { question: "¿Tiene licencia oficial de Fórmula 1?", answer: "Sí, la caja lleva licencia oficial de Fórmula 1, según su propia publicación." },
+      { question: "¿Son réplicas de pilotos reales?", answer: "Las libreas representan equipos de F1 en la estética propia de la línea Hot Wheels, no son réplicas con licencia de un piloto individual. Para eso, el Bburago Colapinto de esta guía es la opción con licencia de piloto real." },
+      { question: "¿Cuál es el mejor calificado de esta guía?", answer: `Este: {{rating:MLAU3676628437}} estrellas, rating perfecto, en {{reviews:MLAU3676628437}} calificaciones.` },
+      { question: "¿Sale más caro que el pack surtido?", answer: "Sí, por unidad sale más que el pack CHARCO de 5 autos surtidos al azar, pero a cambio sabés exactamente qué modelos vas a recibir." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Hot Wheels Pack x5 Fórmula 1 Jgf58",
+      image: ["https://http2.mlstatic.com/D_NQ_714613-MLA117040847885_092026-OO.webp"],
+      description: "Pack de 5 autos Hot Wheels de Fórmula 1, escala 1:64, con licencia oficial F1.",
+      brand: { "@type": "Brand", name: "Hot Wheels" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/hot-wheels-pack-x5-coches-de-formula-1-164-jgf58/up/MLAU3676628437",
+        priceCurrency: "ARS",
+        price: "32990",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "5.0",
+        reviewCount: "227",
+      },
+    },
+  },
   {
     id: "MLA48478468",
     title: "Bicicleta Mtb Overtech R29 Q5 21v Freno A Disco Negro/Rojo Talle L",

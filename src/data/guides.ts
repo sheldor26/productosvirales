@@ -26214,6 +26214,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     internalLinks: [
       { label: "Ver todos los juguetes virales", href: "/categoria/juguetes" },
       { label: "Mejores peluches de personajes: Bluey, Monster High y más", href: "/guias/juguetes/mejores-peluches-personajes-argentina" },
+      { label: "Hot Wheels y autos de colección: cuál comprar", href: "/guias/juguetes/hot-wheels-autos-coleccion" },
       { label: "Proyector astronauta: ¿cuál conviene y vale la pena?", href: "/guias/juguetes/proyector-astronauta" },
       { label: "Día de la Madre: regalos que se usan", href: "/guias/hogar/dia-de-la-madre-argentina" },
     ],
@@ -32404,6 +32405,132 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { label: "Soga para saltar: cuál comprar", href: "/guias/fitness/soga-para-saltar" },
     ],
     internalLinksTitle: "Más guías nuevas del sitio",
+  },
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva hot-wheels-autos-coleccion — silo juguetes, categoría nueva.
+  // Origen: docs/keyword-research-juguetes.md, "hot wheels" 18.100-110.000/mes
+  // (SD 9, el más bajo de todo ese research), pico real sep-oct-dic — se
+  // arranca ahora (25/9) para tener la ventana de lead time antes del pico
+  // de diciembre. 4 fichas nuevas, sourcing en vivo el 2026-09-25 (Chrome de
+  // Juan, ML bloquea el navegador interno para estas búsquedas): el Bburago
+  // Colapinto (1° en ventas de TODA la categoría Vehículos a Escala de
+  // MercadoLibre, no solo entre Hot Wheels), el Hot Wheels más vendido del
+  // país (CHARCO, 2°), la entrada individual más barata (Cebra, 6°), y el
+  // pack temático de Fórmula 1 con rating perfecto (Kinderland). Ángulo
+  // editorial: Franco Colapinto, ya usado en research previo del sitio.
+  // Afiliados: los 4 links meli.la reales ya se generaron con Juan
+  // (linkbuilder, etiqueta "productosvirales", verificados contra
+  // /social/jm159?matt_word=productosvirales) y quedaron cargados en
+  // curated-products.ts.
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "hot-wheels-autos-coleccion",
+    category: "hot-wheels-autos-coleccion",
+    silo: "juguetes",
+    pillar: true,
+    title: `Hot Wheels y autos de colección: cuál comprar en Argentina [2026]`,
+    seoTitle: `Hot Wheels Argentina: Cuál Comprar y Cuánto Cuesta [2026]`,
+    metaDescription: `Comparamos 4 autos Hot Wheels y de colección de MercadoLibre: el más vendido de la categoría es el Bburago de Franco Colapinto, no un Hot Wheels.`,
+    ogTitle: `Hot Wheels y autos de colección: cuál comprar en Argentina`,
+    ogDescription: `4 autos a escala comparados: el más vendido de toda la categoría, el pack con mejor relación precio, la entrada más barata y el de rating perfecto.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_938422-MLA111919629438_062026-F.webp`,
+    h1: `Hot Wheels y autos de colección: cuál comprar en Argentina [2026]`,
+    directAnswer: `El auto más vendido de **toda la categoría Vehículos a Escala** de MercadoLibre Argentina no es un Hot Wheels: es el **[Bburago de Franco Colapinto](/producto/auto-f1-coleccionable-1-43-bburago-edicion-limitada-colapinto-alpine-a525-mlau4083097538)** (alrededor de {{precio:MLAU4083097538:k}}), edición limitada con el logo de MercadoLibre. Si buscás Hot Wheels tradicionales para jugar, el **[pack por 5 unidades de CHARCO](/producto/hot-wheels-pack-por-5-unidades-surtido-original-mattel-escala-1-64-mla1380850143)** (alrededor de {{precio:MLA1380850143:k}}) es el más vendido de la marca. Para el regalo más chico, el **[Hot Wheels individual](/producto/autito-hot-wheels-individual-mattel-escala-1-64-modelo-al-azar-mlau429681969)** (alrededor de {{precio:MLAU429681969:k}}). Y si seguís la Fórmula 1 y querés elegir los modelos sin dejarlo al azar, el **[pack de Fórmula 1 de Kinderland](/producto/hot-wheels-pack-x5-coches-de-formula-1-escala-1-64-jgf58-mlau3676628437)** (alrededor de {{precio:MLAU3676628437:k}}), el único con rating perfecto.`,
+    publishedDate: "2026-09-25",
+    updatedDate: "2026-09-25",
+    hasDisclosure: true,
+    readingTime: 9,
+    standfirst: `Un auto Hot Wheels o de colección va de {{precio:MLAU429681969:k}} a {{precio:MLAU4083097538:k}}. Comparamos 4 modelos reales de MercadoLibre Argentina por **volumen de ventas, escala, y si la selección viene fija o al azar**, con reseñas verdaderas, dentro de nuestro silo de [Juguetes](/guias/juguetes/dia-del-nino-argentina).`,
+    quickPicks: [
+      { productMlaId: "MLAU4083097538", label: "El más vendido de toda la categoría", labelColor: "green", tagline: "Bburago Colapinto: 1° en ventas de Vehículos a Escala, edición limitada con logo de MercadoLibre" },
+      { productMlaId: "MLA1380850143", label: "El Hot Wheels más vendido", labelColor: "blue", tagline: "Pack CHARCO x5: mejor relación precio por unidad, selección al azar" },
+      { productMlaId: "MLAU429681969", label: "El más barato", labelColor: "slate", tagline: "Individual Cebra: la entrada más económica a la marca" },
+      { productMlaId: "MLAU3676628437", label: "Rating perfecto", labelColor: "purple", tagline: "Pack Fórmula 1 Kinderland: 5.0 estrellas, modelos fijos" },
+    ],
+    intro: [
+      `"Hot wheels" es de las búsquedas de juguetes que más crecen en Argentina en esta época del año, con pico real entre septiembre y diciembre. Pero el dato que más sorprende al mirar los números reales de MercadoLibre no es sobre Hot Wheels: es que el auto de colección más vendido de **toda la categoría Vehículos a Escala** del sitio es un Bburago del Alpine de Franco Colapinto, no un Hot Wheels tradicional.`,
+      `Comparamos 4 autos a escala reales de MercadoLibre Argentina, verificados en vivo, cubriendo los cuatro casos de uso más comunes: la pieza de colección más vendida (Bburago Colapinto), el pack para jugar con mejor relación precio (Hot Wheels CHARCO), la entrada más barata a la marca (Hot Wheels individual) y la opción para quien sigue la Fórmula 1 y no quiere dejar la selección al azar (pack Kinderland). Dos de los cuatro vienen con selección al azar (no elegís los modelos) y dos vienen fijos: te decimos cuál es cuál antes de comprar.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_938422-MLA111919629438_062026-F.webp", alt: `Auto de colección Bburago del Alpine A525 de Franco Colapinto, escala 1:43, el más vendido de toda la categoría Vehículos a Escala de MercadoLibre Argentina`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `El auto más vendido de toda la categoría Vehículos a Escala de MercadoLibre no es un Hot Wheels: es el **[Bburago de Franco Colapinto](/producto/auto-f1-coleccionable-1-43-bburago-edicion-limitada-colapinto-alpine-a525-mlau4083097538)**, edición limitada con el logo de MercadoLibre en la carrocería. Si buscás Hot Wheels tradicionales, el **[pack CHARCO](/producto/hot-wheels-pack-por-5-unidades-surtido-original-mattel-escala-1-64-mla1380850143)** es el más vendido de la marca y con mejor relación precio por unidad.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** partimos de la categoría Vehículos de Juguete / Vehículos a Escala de MercadoLibre Argentina y verificamos cada publicación en vivo el 2026-09-25: precio, stock, ranking propio de más vendidos de MercadoLibre, ficha técnica y reseñas de compradores reales. Miramos especialmente tres campos que deciden la compra: **escala** (1:43 no combina con 1:64), **si la selección de modelos viene fija o al azar**, y **si hay licencia oficial** (de marca, de Fórmula 1, o de piloto puntual). Los precios se verifican periódicamente contra MercadoLibre.` },
+
+      { type: "h2", title: `Los tres datos que deciden la compra`, id: "que-mirar" },
+      { type: "p", content: `**Escala: 1:43 no es lo mismo que 1:64.** El Bburago Colapinto de esta guía es 1:43, notablemente más grande que el 1:64 estándar de los tres Hot Wheels comparados. No combinan en la misma pista ni en el mismo estante de exhibición pensado para una de las dos escalas.` },
+      { type: "p", content: `**Selección fija o al azar.** De los tres Hot Wheels de esta comparativa, dos vienen con modelos al azar (no elegís cuáles te tocan) y uno viene con los 5 modelos fijos, definidos de antemano. Si te importa saber exactamente qué autos vas a recibir, esa diferencia pesa más que el precio.` },
+      { type: "p", content: `**Licencia oficial, y de qué tipo.** El Bburago tiene licencia oficial del equipo Alpine F1 y reproduce el auto real de un piloto puntual (Colapinto). El pack de Fórmula 1 de Hot Wheels tiene licencia oficial de F1, pero con libreas genéricas de equipo, sin licencia de piloto individual. Los otros dos Hot Wheels son autos genéricos de la línea, sin vínculo con ningún equipo o piloto real.` },
+
+      { type: "h2", title: `Comparativa rápida: los 4 frente a frente`, id: "tabla-comparativa" },
+      { type: "table", headers: ["Modelo", "Escala", "Selección", "Rating", "Ideal para"], rows: [
+        [`[Bburago Colapinto](https://meli.la/2oXxA6Z)`, "1:43", "Fija (1 auto)", `{{rating:MLAU4083097538}}`, "Colección, regalo de Fórmula 1"],
+        [`[Hot Wheels CHARCO x5](https://meli.la/2q3w4YZ)`, "1:64", "Al azar", `{{rating:MLA1380850143}}`, "La mayoría: mejor precio por unidad"],
+        [`[Hot Wheels individual](https://meli.la/2V1G4wa)`, "1:64", "Al azar", `{{rating:MLAU429681969}}`, "Regalo chico, piñatería"],
+        [`[Hot Wheels F1 Kinderland](https://meli.la/17jQCuN)`, "1:64", "Fija (5 autos)", `{{rating:MLAU3676628437}}`, "Fans de la F1, rating perfecto"],
+      ] },
+      { type: "p", content: `El nombre de cada modelo lleva directo a su publicación en MercadoLibre. Abajo está el detalle de los cuatro, en el mismo orden: qué hace bien cada uno y dónde conviene mirar dos veces.` },
+
+      { type: "h2", title: `El ranking`, id: "ranking" },
+
+      { type: "h3", title: `1. Bburago Colapinto Alpine A525, edición limitada` },
+      { type: "product-card", productMlaId: "MLAU4083097538", label: "El más vendido de toda la categoría", labelColor: "green", ranking: 1, description: `Escala 1:43, metal die-cast con apertura de puertas. 1° en ventas de toda la categoría Vehículos a Escala, con {{reviews:MLAU4083097538}} opiniones.` },
+      { type: "p", content: `No es solo el auto de Colapinto más vendido: es el producto **más vendido de toda la categoría Vehículos a Escala** de MercadoLibre Argentina, sin importar la marca. {{reviews:MLAU4083097538}} calificaciones reales a {{rating:MLAU4083097538}} estrellas lo respaldan. Es una edición limitada con el logo de MercadoLibre en la carrocería (la empresa es sponsor real del equipo Alpine desde 2025), metal die-cast con apertura de puertas, vendido por una tienda oficial con más de 50 mil ventas.` },
+      { type: "pull-quote", content: `"Un lujo! tenía el primero que salió, pero no me podía perder la edición de mercado libre."`, attribution: `Comprador del Bburago Colapinto, calificación 5/5` },
+      { type: "p", content: `La aclaración honesta: es un solo auto, en escala 1:43, más grande que el 1:64 de los otros tres de esta guía. No trae pista ni combina con esos packs.` },
+
+      { type: "h3", title: `2. Hot Wheels Pack Por 5 Unidades (CHARCO)` },
+      { type: "product-card", productMlaId: "MLA1380850143", label: "El Hot Wheels más vendido", labelColor: "blue", ranking: 2, description: `Escala 1:64, 5 autos surtidos. 2° en ventas de toda la categoría, con {{reviews:MLA1380850143}} opiniones, la base más grande de esta guía.` },
+      { type: "p", content: `Es el Hot Wheels tradicional con más historial de todo el catálogo: {{reviews:MLA1380850143}} calificaciones a {{rating:MLA1380850143}} estrellas, 2° en el ranking propio de MercadoLibre de toda la categoría. A {{precio:MLA1380850143}} por 5 autos, es la mejor relación precio por unidad de esta guía.` },
+      { type: "pull-quote", content: `"Están buenísimos!."`, attribution: `Comprador del pack CHARCO, calificación 5/5` },
+      { type: "p", content: `La contra real: la selección viene **al azar**, no elegís los modelos. Y una reseña de 3 estrellas avisa que un auto puntual del lote (un Daytona) le vino con terminación más floja que el resto: no es lo habitual entre las más de 2.100 calificaciones, pero puede pasar.` },
+
+      { type: "h3", title: `3. Hot Wheels individual (Cebra)` },
+      { type: "product-card", productMlaId: "MLAU429681969", label: "El más barato", labelColor: "slate", ranking: 3, description: `Escala 1:64, 1 unidad al azar entre 45 variantes. La entrada más barata a la marca, con {{reviews:MLAU429681969}} opiniones.` },
+      { type: "p", content: `A {{precio:MLAU429681969}}, es la puerta de entrada más económica de esta guía. {{reviews:MLAU429681969}} calificaciones a {{rating:MLAU429681969}} estrellas y 6° en el ranking propio de MercadoLibre de toda la categoría lo respaldan.` },
+      { type: "pull-quote", content: `"Muy buena calidad."`, attribution: `Comprador del Hot Wheels individual, calificación 5/5` },
+      { type: "p", content: `La contra real: viene **al azar** entre 45 variantes, y es una sola unidad, así que para armar colección de a poco sale más caro por auto que comprar un pack.` },
+
+      { type: "h3", title: `4. Hot Wheels Pack X5 Fórmula 1 (Kinderland)` },
+      { type: "product-card", productMlaId: "MLAU3676628437", label: "Rating perfecto", labelColor: "purple", ranking: 4, description: `Escala 1:64, 5 autos de F1 con licencia oficial, modelos fijos. {{rating:MLAU3676628437}} estrellas, el único rating perfecto de esta guía.` },
+      { type: "p", content: `Es el único producto de esta guía con **rating perfecto**: {{rating:MLAU3676628437}} estrellas en {{reviews:MLAU3676628437}} calificaciones. Trae licencia oficial de Fórmula 1 en la caja y, a diferencia de los otros dos Hot Wheels de esta comparativa, los 5 autos vienen **fijos**, no al azar.` },
+      { type: "pull-quote", content: `"Originales, importados por el mismo vendedor, excelente calidad y de colección."`, attribution: `Comprador del pack Fórmula 1 Kinderland, calificación 5/5` },
+      { type: "p", content: `La contra real: sale más caro por unidad que el pack surtido CHARCO, y las libreas son de equipos de F1 genéricos, sin licencia de un piloto puntual como el Bburago Colapinto de esta misma guía.` },
+
+      { type: "h2", title: `Cómo elegir tu auto Hot Wheels o de colección`, id: "como-elegir" },
+      { type: "h3", title: `1. Definí primero si es para jugar o para exhibir` },
+      { type: "p", content: `Si es para que un chico juegue en el piso todos los días, un pack Hot Wheels 1:64 (CHARCO o Kinderland) aguanta mejor el uso diario. Si es una pieza de colección para exhibir, el Bburago Colapinto en escala 1:43 tiene más detalle y viene con base propia.` },
+      { type: "h3", title: `2. Si te importa qué modelos te tocan, mirá si es al azar` },
+      { type: "p", content: `Dos de los tres Hot Wheels de esta guía vienen surtidos al azar. Si querés saber exactamente qué vas a recibir (por ejemplo, para completar una colección temática de Fórmula 1), el pack Kinderland de esta guía es el único con modelos fijos.` },
+      { type: "h3", title: `3. No mezcles escalas` },
+      { type: "p", content: `El Bburago Colapinto es 1:43; los otros tres son 1:64. Si estás armando una colección o una pista, comprá todo en la misma escala: no se combinan entre sí.` },
+
+      { type: "h2", title: `Cuánto cuesta un Hot Wheels o auto de colección en Argentina`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de {{precio:MLAU429681969:k}}:** el [Hot Wheels individual](/producto/autito-hot-wheels-individual-mattel-escala-1-64-modelo-al-azar-mlau429681969), la opción más económica de esta comparativa.`,
+        `**Alrededor de {{precio:MLA1380850143:k}} a {{precio:MLAU3676628437:k}}:** los packs de 5 unidades, [CHARCO](/producto/hot-wheels-pack-por-5-unidades-surtido-original-mattel-escala-1-64-mla1380850143) y [Kinderland F1](/producto/hot-wheels-pack-x5-coches-de-formula-1-escala-1-64-jgf58-mlau3676628437).`,
+        `**Alrededor de {{precio:MLAU4083097538:k}}:** el [Bburago Colapinto](/producto/auto-f1-coleccionable-1-43-bburago-edicion-limitada-colapinto-alpine-a525-mlau4083097538), el más vendido de toda la categoría y la pieza de colección de esta guía.`,
+      ] },
+
+      { type: "verdict", content: `El más vendido de toda la categoría Vehículos a Escala de MercadoLibre es el **[Bburago Colapinto](/producto/auto-f1-coleccionable-1-43-bburago-edicion-limitada-colapinto-alpine-a525-mlau4083097538)**, edición limitada con el logo de MercadoLibre, ideal para colección o regalo de fanático de la Fórmula 1. Si buscás Hot Wheels tradicionales para jugar, el **[pack CHARCO](/producto/hot-wheels-pack-por-5-unidades-surtido-original-mattel-escala-1-64-mla1380850143)** es el más vendido de la marca y el de mejor relación precio, con la salvedad de que la selección viene al azar. Para el regalo más chico o piñatería, el **[Hot Wheels individual](/producto/autito-hot-wheels-individual-mattel-escala-1-64-modelo-al-azar-mlau429681969)**. Y si seguís la Fórmula 1 y no querés dejar la selección al azar, el **[pack Kinderland](/producto/hot-wheels-pack-x5-coches-de-formula-1-escala-1-64-jgf58-mlau3676628437)**, el único con rating perfecto de esta guía.` },
+
+      { type: "h2", title: `Preguntas frecuentes`, id: "faq" },
+    ],
+    faq: [
+      { question: `¿Cuál es el auto Hot Wheels o de colección más vendido de MercadoLibre?`, answer: `El [Bburago Colapinto](/producto/auto-f1-coleccionable-1-43-bburago-edicion-limitada-colapinto-alpine-a525-mlau4083097538), 1° en ventas de toda la categoría Vehículos a Escala, no solo entre Hot Wheels. Entre los Hot Wheels tradicionales, el [pack CHARCO](/producto/hot-wheels-pack-por-5-unidades-surtido-original-mattel-escala-1-64-mla1380850143) es el más vendido, con {{reviews:MLA1380850143}} calificaciones.` },
+      { question: `¿Qué diferencia hay entre escala 1:43 y 1:64?`, answer: `1:43 (el Bburago Colapinto de esta guía) es más grande que 1:64 (el estándar de Hot Wheels). No combinan en la misma pista ni en el mismo estante de exhibición pensado para una escala específica.` },
+      { question: `¿Puedo elegir qué autos vienen en los packs de Hot Wheels?`, answer: `Depende del pack. El de CHARCO y el individual de Cebra vienen con selección al azar. El pack de Fórmula 1 de Kinderland es el único de esta guía con los 5 modelos fijos, definidos de antemano.` },
+      { question: `¿El Bburago Colapinto tiene licencia oficial?`, answer: `Sí, Bburago tiene licencia oficial del equipo Alpine F1 Team. Esta edición puntual suma el logo real de MercadoLibre en la carrocería, reflejando el sponsoreo de la marca al equipo desde 2025.` },
+      { question: `¿Cuál conviene para un chico que juega todos los días?`, answer: `Un pack Hot Wheels 1:64 como el de CHARCO o el de Kinderland aguanta mejor el uso diario que una pieza de colección en escala 1:43 como el Bburago.` },
+      { question: `¿Cuál tiene el mejor rating de esta guía?`, answer: `El [pack de Fórmula 1 de Kinderland](/producto/hot-wheels-pack-x5-coches-de-formula-1-escala-1-64-jgf58-mlau3676628437), con {{rating:MLAU3676628437}} estrellas, rating perfecto, en {{reviews:MLAU3676628437}} calificaciones.` },
+    ],
+    internalLinks: [
+      { label: "Día del Niño: qué regalar según la edad", href: "/guias/juguetes/dia-del-nino-argentina" },
+      { label: "Mejores peluches de personajes: Bluey, Monster High y más", href: "/guias/juguetes/mejores-peluches-personajes-argentina" },
+      { label: "Proyector astronauta: ¿cuál conviene y vale la pena?", href: "/guias/juguetes/proyector-astronauta" },
+    ],
+    internalLinksTitle: "Más guías del silo Juguetes",
   },
   // ─────────────────────────────────────────────────────────
   // Guía nueva smartlife — silo marcas, categoría "marcas"
