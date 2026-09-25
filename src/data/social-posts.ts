@@ -4409,4 +4409,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "27",
     postedAt: "2026-09-25T09:04:27-03:00",
   },
+  {
+    title: "Notebook Asus VivoBook 14 X1404VA",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_671182-MLA99899388239_112025-O.webp",
+    affiliateUrl: "https://meli.la/1kTeZ1g",
+    newPrice: "828.379",
+    oldPrice: "1.187.998",
+    offPct: "30",
+    postedAt: "2026-09-25T09:30:15-03:00",
+  },
 ];
