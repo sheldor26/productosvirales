@@ -4459,4 +4459,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "15",
     postedAt: "2026-09-25T11:34:22-03:00",
   },
+  {
+    title: "Heladera Midea Multi Door 475L Inverter Smart",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_994433-MLA85311910900_062025-O.webp",
+    affiliateUrl: "https://meli.la/2UBgV9o",
+    newPrice: "1.799.999",
+    oldPrice: "2.199.999",
+    offPct: "18",
+    postedAt: "2026-09-25T19:17:37-03:00",
+  },
 ];
