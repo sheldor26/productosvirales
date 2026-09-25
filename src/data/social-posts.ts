@@ -4419,4 +4419,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "30",
     postedAt: "2026-09-25T09:30:15-03:00",
   },
+  {
+    title: "Lavarropas Smartlife 11.5kg Inverter Carga Frontal",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_683155-MLA99979994617_112025-O.webp",
+    affiliateUrl: "https://meli.la/2KBxGU5",
+    newPrice: "771.999",
+    oldPrice: "993.879",
+    offPct: "22",
+    postedAt: "2026-09-25T09:57:05-03:00",
+  },
 ];
