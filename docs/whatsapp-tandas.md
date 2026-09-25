@@ -37,3 +37,13 @@ Tanda de la noche del 24/9 (~20:10hs) que había quedado bloqueada por una desco
 | Smart TV Philips 65" 4K Ambilight Titan OS | $1.070.341 (37% OFF) | meli.la/2z7X5oL |
 | Consola Xbox Series X 1TB SSD Internacional | $2.129.999 (sin descuento tachado en la ficha) | meli.la/2a7WKR7 |
 | Notebook HP Omnibook 3 Ryzen 5 14" 2K | $1.049.999 (50% OFF, oferta relámpago real) | meli.la/29k2WTh |
+
+### 2026-09-25 16:53 — Mediodía (retomada por corte de sesión)
+
+Sourcing hecho ~12:38hs (TV Hisense, Freidora Kanji, Silla Game House) pero la publicación quedó cortada por un reinicio de sesión — se retomó a las 16:53, ya casi en el horario de la franja tarde (16:40), por lo que esta tanda cubre ambos horarios. Antes de publicar se re-verificaron los 3 productos en vivo: TV y silla con precio idéntico al sourcing original; la Freidora Kanji había cambiado — subió de $91.699 (18% OFF) a $97.191 y perdió el badge de descuento (ya no muestra precio tachado en la ficha), y el stock bajó de +50 a "ÚLTIMAS 4 UNIDADES" real — se usó el precio y badge reales del momento de publicar, sin inventar un % OFF que ya no está. Sin repetir nada de las tandas anteriores ni de Threads. Links generados con el linkbuilder de afiliados, etiqueta "instagram".
+
+| Producto | Precio | Link |
+|---|---|---|
+| Smart TV Hisense 32" HD 32A42K | $273.999 (21% OFF) | meli.la/2No2TUK |
+| Freidora de Aire Kanji 6.5L Panel Digital | $97.191 (sin descuento tachado en la ficha al momento de publicar, ÚLTIMAS 4 UNIDADES) | meli.la/2ksjzjB |
+| Silla Gamer The Game House D395 Ergonómica | $166.912 (45% OFF) | meli.la/1zF1Uxr |
