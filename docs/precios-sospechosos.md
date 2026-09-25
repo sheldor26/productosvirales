@@ -6,6 +6,36 @@
 > chequearlos en MercadoLibre. Si son reales, avisar para aplicarlos a mano.
 > Entradas nuevas arriba.
 
+## 2026-09-25
+
+- **MLA8732921** — Auriculares Gamer Con Cable HyperX Cloud HX-HSCA Black y Red: $91.379 → $779.403 (+753%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA8732921
+  - Sitio: https://productosvirales.com.ar/producto/MLA8732921
+- **MLA42113760** — Freidora De Aire Kanji Home 8 Litros +10 Funciones Canasta Antiadherente Kjh-1700dc 1700w Lh Color Negro: $293.000 → $122.899 (-58%)
+  - ML: https://www.mercadolibre.com.ar/freidora-de-aire-kanji-home-8-litros-10-funciones-canasta-antiadherente-kjh-1700dc-1700w-lh-color-negro/p/MLA42113760
+  - Sitio: https://productosvirales.com.ar/producto/MLA42113760
+- **MLA16132352** — Cámara Deportiva Akaso V50X: $176.899 → $469.999 (+166%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA16132352
+  - Sitio: https://productosvirales.com.ar/producto/MLA16132352
+- **MLA15705813** — Cafetera de cápsulas Moulinex Dolce Gusto Piccolo XS: $114.436 → $248.010 (+117%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA15705813
+  - Sitio: https://productosvirales.com.ar/producto/MLA15705813
+- **MLA15244160** — Multiprocesadora Ultracomb 600w Pc-6800 Negro Bold de Vidrio Capacidad 1,2Lts: $82.999 → $199.999 (+141%)
+  - ML: https://www.mercadolibre.com.ar/multiprocesadora-ultracomb-600w-pc-6800-negro-bold-de-vidrio-capacidad-12lts/p/MLA15244160
+  - Sitio: https://productosvirales.com.ar/producto/MLA15244160
+- **MLA20664028** — Alberca Inflable Intex Redonda para Niños de 1.47 m con 3 Aros: $47.000 → $22.024 (-53%)
+  - ML: https://www.mercadolibre.com.ar/intex-alberca-inflable-infantil-3-aros-alberca-colores/p/MLA20664028
+  - Sitio: https://productosvirales.com.ar/producto/MLA20664028
+- **MLA62609709** — Bloques Magnéticos Cubos Para Armar Estilo Minecraft 60 Piezas: $27.150 → $89.999 (+231%)
+  - ML: https://www.mercadolibre.com.ar/bloques-magneticos-cubos-para-armar-de-construccion-estilo-minecraft-para-ninos-60-piezas-didacticos-creativo-ilimitado-material-seguro-y-resistente-no-toxicos-bordes-suaves-levys-bazar/p/MLA62609709
+  - Sitio: https://productosvirales.com.ar/producto/MLA62609709
+- **MLA69809119** — Zapateros Mueble Zapatos Organizador Zapatero De Metal Plateado De 8 Pisos: $59.999 → $21.999 (-63%)
+  - ML: https://www.mercadolibre.com.ar/zapateros-mueble-zapatos-organizador-zapatero-de-metal-plateado-de-8-pisos/p/MLA69809119
+  - Sitio: https://productosvirales.com.ar/producto/MLA69809119
+- **MLA25401949** — Balanza Digital De Cocina Gadnic 1gr A 10kg Pro Bascula Gramera Capacidad Máxima 10 kg: $6.000 → $1.440 (-76%)
+  - ML: https://www.mercadolibre.com.ar/balanza-digital-de-cocina-gadnic-1gr-a-10kg-pro-bascula-gramera-capacidad-maxima-10-kg/p/MLA25401949
+  - Sitio: https://productosvirales.com.ar/producto/MLA25401949
+
 ## 2026-09-23
 
 - **MLA8732921** — Auriculares Gamer Con Cable HyperX Cloud HX-HSCA Black y Red: $91.379 → $779.403 (+753%)

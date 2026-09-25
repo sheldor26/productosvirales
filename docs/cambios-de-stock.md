@@ -7,6 +7,12 @@
 > 🔴 = se quedo sin stock (el link de afiliado apunta a una pagina pausada).
 > Entradas nuevas arriba.
 
+## 2026-09-25
+
+- 🟢 VOLVIO EL STOCK — **MLA29364436** Cámara Deportiva DJI Osmo Action 4
+  - ML: https://www.mercadolibre.com.ar/p/MLA29364436
+  - Sitio: https://productosvirales.com.ar/producto/MLA29364436
+
 ## 2026-09-21
 
 - 🟢 VOLVIO EL STOCK — **MLA66785049** Anillo Inteligente Oura Ring 4 Titanio Negro Talle 9
