@@ -4449,4 +4449,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "46",
     postedAt: "2026-09-25T10:51:10-03:00",
   },
+  {
+    title: "Auriculares Inalámbricos Bluetooth Sony WH-CH520",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_932176-MLA99502277578_112025-O.webp",
+    affiliateUrl: "https://meli.la/2bJ3ytv",
+    newPrice: "89.999",
+    oldPrice: "106.999",
+    offPct: "15",
+    postedAt: "2026-09-25T11:34:22-03:00",
+  },
 ];
