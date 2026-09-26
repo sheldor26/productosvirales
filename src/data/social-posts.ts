@@ -4469,4 +4469,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "18",
     postedAt: "2026-09-25T19:17:37-03:00",
   },
+  {
+    title: "PC Armada Gamer Ryzen 7 5700X + RTX 5070",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_874553-MLA99979667177_112025-O.webp",
+    affiliateUrl: "https://meli.la/1W8UP1t",
+    newPrice: "2.899.999",
+    oldPrice: "3.499.999",
+    offPct: "17",
+    postedAt: "2026-09-26T09:35:34-03:00",
+  },
 ];
