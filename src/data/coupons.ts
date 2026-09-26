@@ -3,7 +3,7 @@ import type { Coupon } from "@/lib/types";
 export const activeCoupons: Coupon[] = [
   {
     // Monto fijo pese al nombre "MELI10OFF": no es porcentual, son
-    // \$15.000 planos desde \$150.000 de compra.
+    // $15.000 planos desde $150.000 de compra.
     //
     // Acotado a productos 1P (venta directa de MELI), que no modelamos:
     // va sin restricción, mismo criterio que los anteriores.
