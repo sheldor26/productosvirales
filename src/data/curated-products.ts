@@ -78956,6 +78956,423 @@ Una solución cómoda y sin contacto, con opiniones muy buenas hasta ahora pero 
     },
   },
 
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva tupper — silo hogar-jardin (existente, con zapatero,
+  // tacho-de-basura, estantería flotante, lámpara de pie, mesa ratona).
+  // Origen: docs/keywords-verificadas-2026-08-15.md, "tupper" 14.800/mes,
+  // el SERP más limpio del barrido (solo ML x6 y Sodimac). 4 fichas
+  // nuevas, sourcing en vivo el 2026-09-26 (Chrome de Juan, ML bloquea
+  // el navegador interno).
+  // ─────────────────────────────────────────────────────────
+  {
+    id: "MLA2881337584",
+    title: "Tupper Hermetico Plastico Set X8 Contenedores Taper Cocina",
+    canonicalName: "Urban Home Set X8 (1,5 L combinados)",
+    brand: "Urban Home",
+    price: 18199,
+    originalPrice: 28079,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_837564-MLA106748894158_022026-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_837564-MLA106748894158_022026-F.webp",
+    ],
+    category: "Hogar, Muebles y Jardín",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/tupper-hermetico-plastico-set-x8-contenedores-taper-cocina/up/MLAU3805883332",
+    affiliateUrl: "https://meli.la/1drBda1",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.4,
+    reviewCount: 169,
+    pastelColor: "var(--pastel-blue)",
+    specs: [
+      { label: "Marca", value: "Urban Home" },
+      { label: "Contenido", value: "2 tuppers grandes (450 ml) + 6 chicos (100 ml), 1,5 L combinados" },
+      { label: "Unidades por pack", value: "8" },
+      { label: "Material", value: "Plástico (polipropileno)" },
+      { label: "Color", value: "Blanco" },
+      { label: "Dimensiones (unidad grande)", value: "17 x 10 x 6 cm" },
+      { label: "Condición", value: "Nuevo" },
+      { label: "Envío", value: "Gratis (FULL)" },
+      { label: "Ranking propio de MercadoLibre", value: "20° en Tápers" },
+      { label: "Vendedor", value: "Urban Home, +1000 vendidos" },
+    ],
+    relatedProducts: ["MLA3284834824", "MLA3523540276", "MLA2622288430"],
+    priceUpdated: "2026-09-26", priceLastChecked: "2026-09-26", priceStatus: "fresh", reviewsSampledAt: "2026-09-26",
+    description: "Set de 8 tuppers plásticos Urban Home (2 grandes de 450 ml y 6 chicos de 100 ml, 1,5 L combinados). Es el tupper con más reseñas de esta comparativa: {{reviews:MLA2881337584}} opiniones a {{rating:MLA2881337584}} estrellas, 20° en el ranking propio de MercadoLibre de toda la categoría Tápers.",
+    seoTitle: "Set Urban Home X8: el más calificado de esta comparativa",
+    metaDescription: "Set de 8 tuppers plásticos Urban Home, 2 grandes y 6 chicos. {{reviews:MLA2881337584}} opiniones a {{rating:MLA2881337584}} estrellas, 20° en Tápers.",
+    verdict: "Es el tupper con más respaldo de reseñas de esta comparativa: {{reviews:MLA2881337584}} calificaciones reales a {{rating:MLA2881337584}} estrellas, 20° en el ranking propio de MercadoLibre de toda la categoría Tápers. Cuesta {{precio:MLA2881337584}} y trae 2 tuppers grandes de 450 ml y 6 chicos de 100 ml, ideal para fiambres, frutos secos o colaciones. La salvedad, que las propias reseñas confirman de frente: el plástico es más blando que el de una línea premium y la tapa no cierra 100% hermética, así que no conviene para transportar líquidos, solo para guardar comida en la heladera.",
+    pros: [
+      "El tupper con más reseñas de esta comparativa: {{reviews:MLA2881337584}} calificaciones a {{rating:MLA2881337584}} estrellas",
+      "Combina 2 tamaños (450 ml y 100 ml) para fiambres, frutos secos o colaciones",
+      "Envío FULL, con más de 1.000 unidades vendidas",
+    ],
+    cons: [
+      "La tapa no cierra 100% hermética según reseñas reales: sirve para guardar comida en la heladera, no para transportar líquidos",
+      "El plástico es más blando que el de una línea premium (lo confirman las propias reseñas)",
+      "Solo vienen 2 unidades del tamaño grande contra 6 del chico, varias reseñas piden más grandes",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace 2 meses", useful: 2, text: "No son los mejores tuppers del mundo, jaja. Si buscás calidad, hay que comprar unos más caros. Pero si necesitás tuppers tranqui para guardar comida en la heladera y dejar de usar bolsas, cumplen perfectamente. Lo único: las tapas no cierran herméticamente, no los recomendaría para transportar líquidos." },
+      { rating: 4, country: "Argentina", date: "hace 5 meses", useful: 2, text: "Por la plata están impecables. No le doy 5 estrellas porque estaría bueno que vengan uno o dos más de los tupper grandes, ya que solo vienen 2." },
+    ],
+    articleBody: `## Qué es el set Urban Home X8
+
+Es un set de 8 tuppers plásticos: 2 grandes de 450 ml y 6 chicos de 100 ml, 1,5 litros combinados en total. Cuesta {{precio:MLA2881337584}} y es, por lejos, el tupper con más historial de esta comparativa: {{reviews:MLA2881337584}} calificaciones reales a {{rating:MLA2881337584}} estrellas, 20° en el ranking propio de MercadoLibre de toda la categoría Tápers.
+
+## La honestidad sobre el plástico
+
+Una reseña real lo resume mejor que cualquier ficha técnica: "no son los mejores tuppers del mundo, si buscás calidad hay que comprar unos más caros, pero si necesitás tuppers tranqui para guardar comida en la heladera y dejar de usar bolsas, cumplen perfectamente". La misma reseña avisa el límite real: "las tapas no cierran herméticamente, no los recomendaría para transportar líquidos". Es decir, sirve para guardar comida en la heladera, no para llevar una sopa en el bolso.
+
+## Lo que dicen los compradores reales
+
+Otra reseña, de 4 estrellas, confirma que la relación precio-cantidad es el punto fuerte: "por la plata están impecables", aunque pide que el set traiga más unidades grandes, ya que solo vienen 2 contra 6 chicas.
+
+## Para quién es, y para quién no
+
+Es para vos si buscás una opción con mucho respaldo de reseñas para organizar la heladera o el freezer, sin pretender el cierre hermético de una línea premium. Si necesitás llevar líquidos o preferís vidrio en vez de plástico, el [set Sendero Home de vidrio](/producto/tupper-vidrio-hermetico-horno-freezer-set-x-4-blanco-mla3523540276) de esta comparativa resuelve eso.
+
+## El veredicto
+
+El tupper con más respaldo real de esta comparativa, con una limitación honesta: no es hermético para líquidos, solo para guardar comida en la heladera.`,
+    faq: [
+      { question: "¿Es el tupper más vendido de MercadoLibre?", answer: `No, "MÁS VENDIDO" es un badge que ML asigna en 20° posición del ranking propio de la categoría Tápers. Es, sí, el tupper con más reseñas de esta comparativa puntual: {{reviews:MLA2881337584}} calificaciones.` },
+      { question: "¿Sirve para transportar líquidos?", answer: "No según reseñas reales: la tapa no cierra 100% hermética. Sirve para guardar comida en la heladera, no para transportar líquidos." },
+      { question: "¿Qué tamaños trae el set?", answer: "2 tuppers grandes de 450 ml y 6 chicos de 100 ml, 1,5 litros combinados en total." },
+      { question: "¿El plástico es de buena calidad?", answer: "Es un plástico más blando que el de una línea premium, según confirman las propias reseñas. Para el uso diario de guardar comida cumple, pero no es la opción más resistente de esta comparativa." },
+      { question: "¿Se puede meter en el microondas?", answer: "La ficha no lo especifica con certeza, así que no lo afirmamos. Antes de calentar, conviene confirmarlo en la publicación de MercadoLibre." },
+      { question: "¿Tiene envío gratis?", answer: "Sí, el vendedor lo despacha por FULL con envío gratis." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Urban Home Set X8 (1,5 L combinados)",
+      image: ["https://http2.mlstatic.com/D_NQ_NP_837564-MLA106748894158_022026-F.webp"],
+      description: "Set de 8 tuppers plásticos, 2 grandes de 450 ml y 6 chicos de 100 ml.",
+      brand: { "@type": "Brand", name: "Urban Home" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/tupper-hermetico-plastico-set-x8-contenedores-taper-cocina/up/MLAU3805883332",
+        priceCurrency: "ARS",
+        price: "18199",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.4",
+        reviewCount: "169",
+      },
+    },
+  },
+  {
+    id: "MLA3284834824",
+    title: "Set X 12 Tuppers Gadnic Recipiente Herméticos 170 Ml A 2500 Ml",
+    canonicalName: "Gadnic Set X12 (170 ml a 2,5 L)",
+    brand: "Gadnic",
+    price: 79999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_992115-MLA110705169107_042026-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_992115-MLA110705169107_042026-F.webp",
+    ],
+    category: "Hogar, Muebles y Jardín",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/set-x-12-tuppers-gadnic-recipiente-hermeticos-170-ml-a-2500-ml-organizacion-cocina-plastico-pp-hermetico-con-silicona/p/MLA66785850",
+    affiliateUrl: "https://meli.la/13DmcEY",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.9,
+    reviewCount: 130,
+    badge: "bestseller",
+    pastelColor: "var(--pastel-amber)",
+    specs: [
+      { label: "Marca", value: "Gadnic" },
+      { label: "Contenido", value: "12 recipientes, de 170 ml a 2,5 L" },
+      { label: "Formato de venta", value: "Pack" },
+      { label: "Material", value: "Plástico (PP) con junta de silicona" },
+      { label: "Es hermético", value: "Sí" },
+      { label: "Apto para microondas", value: "Sí" },
+      { label: "Apto para lavavajillas", value: "Sí" },
+      { label: "Dimensiones (unidad más grande)", value: "25,3 x 18,2 x 8,5 cm" },
+      { label: "Condición", value: "Nuevo" },
+      { label: "Envío", value: "Gratis (FULL)" },
+      { label: "Ranking propio de MercadoLibre", value: "9° en Tápers" },
+      { label: "Vendedor", value: "Tienda oficial Gadnic, +500 vendidos" },
+    ],
+    relatedProducts: ["MLA2881337584", "MLA3523540276", "MLA2622288430"],
+    priceUpdated: "2026-09-26", priceLastChecked: "2026-09-26", priceStatus: "fresh", reviewsSampledAt: "2026-09-26",
+    description: "Set de 12 tuppers Gadnic, de 170 ml a 2,5 litros, con junta de silicona hermética. Es el más completo de esta comparativa por variedad de tamaños: {{reviews:MLA3284834824}} opiniones a {{rating:MLA3284834824}} estrellas, 9° en el ranking propio de MercadoLibre de toda la categoría Tápers.",
+    seoTitle: "Set Gadnic X12: la mayor variedad de esta comparativa",
+    metaDescription: "Set de 12 tuppers Gadnic, de 170 ml a 2,5 L, con silicona hermética. {{reviews:MLA3284834824}} opiniones a {{rating:MLA3284834824}} estrellas.",
+    verdict: "Es el set con más variedad de tamaños de esta comparativa: 12 recipientes que van de 170 ml (una porción de salsa) a 2,5 litros (una olla de guiso entera), todos con junta de silicona hermética, aptos para microondas y lavavajillas. {{reviews:MLA3284834824}} calificaciones reales a {{rating:MLA3284834824}} estrellas, 9° en el ranking propio de MercadoLibre de toda la categoría Tápers, vendido por la tienda oficial de la marca. Es también el más caro de esta comparativa por lejos: a {{precio:MLA3284834824}}, más de 6 veces el precio del set Línea Color, el más económico de esta comparativa.",
+    pros: [
+      "La mayor variedad de tamaños de esta comparativa: 12 piezas de 170 ml a 2,5 litros",
+      `{{reviews:MLA3284834824}} calificaciones a {{rating:MLA3284834824}} estrellas, 9° en el ranking propio de MercadoLibre de la categoría`,
+      "Junta de silicona hermética, apto microondas y lavavajillas",
+      "Vendido por tienda oficial Gadnic, marca con historial en otras categorías del sitio",
+    ],
+    cons: [
+      `El más caro de esta comparativa: {{preciodif:MLA3284834824:MLA2622288430}} de diferencia contra el set Línea Color, el más económico`,
+      "Para alguien que solo necesita organizar la heladera con lo básico, es más set del que hace falta",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace 2 meses", useful: 2, text: "Cierre hermético. Es de una calidad hermosa. Tiene buen precio y las medidas son las que necesitaba." },
+    ],
+    articleBody: `## Qué es el set Gadnic X12
+
+Es un set de 12 tuppers Gadnic, con tamaños que van de 170 ml (una porción de salsa o aderezo) a 2,5 litros (una olla de guiso entera), todos con junta de silicona hermética. Cuesta {{precio:MLA3284834824}} y tiene {{reviews:MLA3284834824}} calificaciones reales a {{rating:MLA3284834824}} estrellas, 9° en el ranking propio de MercadoLibre de toda la categoría Tápers.
+
+## La variedad de tamaños, el diferencial real
+
+Ninguna otra ficha de esta comparativa cubre un rango tan amplio en un solo set: desde una porción chica de salsa hasta una olla entera de comida. Es apto para microondas y lavavajillas, y la junta de silicona es lo que sostiene el cierre hermético en cada una de las 12 piezas. Una reseña real lo confirma sin vueltas: "cierre hermético, es de una calidad hermosa, tiene buen precio y las medidas son las que necesitaba".
+
+## El precio, la contra real
+
+A {{precio:MLA3284834824}}, es el más caro de esta comparativa por lejos: {{preciodif:MLA3284834824:MLA2622288430}} de diferencia contra el set Línea Color, el más económico de esta comparativa. Tiene sentido si necesitás cubrir todos los tamaños de una sola compra; si solo buscás lo básico para la heladera, es más de lo que hace falta.
+
+## Para quién es, y para quién no
+
+Es para vos si querés resolver la organización de la cocina entera en una sola compra, con variedad real de tamaños y el respaldo de una tienda oficial. Si solo necesitás lo básico, el [set Línea Color X10](/producto/set-de-10-tupers-hermeticos-plasticos-2650cc-linea-clasica-mla2622288430) de esta comparativa cuesta una fracción del precio.
+
+## El veredicto
+
+El set más completo de esta comparativa por variedad de tamaños, con buen respaldo de reseñas y el precio más alto de las 4 fichas.`,
+    faq: [
+      { question: "¿Cuántos tamaños trae el set?", answer: "12 recipientes, de 170 ml a 2,5 litros, todos con junta de silicona hermética." },
+      { question: "¿Es apto para microondas y lavavajillas?", answer: "Sí, según su propia ficha técnica es apto para los dos." },
+      { question: "¿Por qué es más caro que las otras opciones de esta guía?", answer: `Porque trae 12 piezas con variedad de capacidades, de 170 ml a 2,5 litros, contra sets de un solo tamaño o menos variedad. La diferencia con el set Línea Color, el más económico de esta comparativa, es de {{preciodif:MLA3284834824:MLA2622288430}}.` },
+      { question: "¿Vale la pena frente a un set más barato?", answer: "Depende de la necesidad: si buscás cubrir todos los tamaños de la cocina de una vez, sí. Si solo necesitás lo básico para guardar comida en la heladera, un set más chico y barato alcanza." },
+      { question: "¿Quién lo vende?", answer: "La tienda oficial de Gadnic, marca con historial propio en otras categorías del sitio (freidoras de aire, hornos eléctricos, licuadoras)." },
+      { question: "¿Trae 12 tamaños distintos?", answer: "Trae 12 piezas con capacidades que van de 170 ml a 2,5 litros. No confirmamos si hay tamaños repetidos dentro del set, así que hablamos de variedad de capacidades, no de 12 medidas únicas." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Gadnic Set X12 (170 ml a 2,5 L)",
+      image: ["https://http2.mlstatic.com/D_NQ_NP_992115-MLA110705169107_042026-F.webp"],
+      description: "Set de 12 tuppers Gadnic, de 170 ml a 2,5 litros, con junta de silicona hermética.",
+      brand: { "@type": "Brand", name: "Gadnic" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/set-x-12-tuppers-gadnic-recipiente-hermeticos-170-ml-a-2500-ml-organizacion-cocina-plastico-pp-hermetico-con-silicona/p/MLA66785850",
+        priceCurrency: "ARS",
+        price: "79999",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.9",
+        reviewCount: "130",
+      },
+    },
+  },
+  {
+    id: "MLA3523540276",
+    title: "Tupper Vidrio Hermetico Horno Freezer Set X 4 Blanco",
+    canonicalName: "Sendero Home Set X4 de vidrio",
+    brand: "Sendero Home",
+    price: 30999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_938441-MLA116510305983_082026-OO.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_938441-MLA116510305983_082026-OO.webp",
+    ],
+    category: "Hogar, Muebles y Jardín",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/tupper-vidrio-hermetico-horno-freezer-set-x-4-blanco/up/MLAU4158794089",
+    affiliateUrl: "https://meli.la/2m4yAGR",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 136,
+    badge: "bestseller",
+    pastelColor: "var(--pastel-green)",
+    specs: [
+      { label: "Marca", value: "Sendero Home" },
+      { label: "Contenido", value: "4 recipientes redondos de vidrio, con tapa" },
+      { label: "Unidades por pack", value: "4" },
+      { label: "Material", value: "Vidrio, tapa de plástico duro con antideslizante" },
+      { label: "Es hermético", value: "Sí" },
+      { label: "Apto para", value: "Horno, microondas y freezer" },
+      { label: "Condición", value: "Nuevo" },
+      { label: "Envío", value: "Gratis (FULL)" },
+      { label: "Ranking propio de MercadoLibre", value: "7° en Tápers" },
+      { label: "Vendedor", value: "Mercado de Química, tienda oficial, +10 mil ventas" },
+    ],
+    relatedProducts: ["MLA2881337584", "MLA3284834824", "MLA2622288430"],
+    priceUpdated: "2026-09-26", priceLastChecked: "2026-09-26", priceStatus: "fresh", reviewsSampledAt: "2026-09-26",
+    description: "Set de 4 tuppers de vidrio Sendero Home, con tapa hermética antideslizante, aptos para horno, microondas y freezer. Es la única opción de vidrio de esta comparativa: {{reviews:MLA3523540276}} opiniones a {{rating:MLA3523540276}} estrellas, 7° en el ranking propio de MercadoLibre de toda la categoría Tápers.",
+    seoTitle: "Set Sendero Home vidrio X4: apto horno, microondas y freezer",
+    metaDescription: "Set de 4 tuppers de vidrio Sendero Home, apto horno, microondas y freezer. {{reviews:MLA3523540276}} opiniones a {{rating:MLA3523540276}} estrellas.",
+    verdict: "Es la única opción de vidrio de esta comparativa: 4 recipientes redondos con tapa hermética antideslizante, aptos para horno, microondas y freezer, algo que ningún tupper plástico de esta guía puede ofrecer. {{reviews:MLA3523540276}} calificaciones reales a {{rating:MLA3523540276}} estrellas, 7° en el ranking propio de MercadoLibre de toda la categoría Tápers, vendido por una tienda oficial con más de 10 mil ventas. A {{precio:MLA3523540276}}, cuesta más por pieza que los sets plásticos, y el vidrio pesa más y se puede romper si se golpea, algo que el plástico no sufre.",
+    pros: [
+      "La única opción de vidrio de esta comparativa: apto para horno, microondas y freezer, algo que el plástico no puede",
+      `{{reviews:MLA3523540276}} calificaciones a {{rating:MLA3523540276}} estrellas, 7° en el ranking propio de MercadoLibre de la categoría`,
+      "Tapa hermética con antideslizante, según confirman reseñas reales",
+      "Vendido por tienda oficial con más de 10 mil ventas",
+    ],
+    cons: [
+      "Más caro por pieza que los sets plásticos de esta comparativa (4 unidades contra 8 o 12)",
+      "El vidrio pesa más y se puede romper si se golpea, a diferencia del plástico",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace 2 meses", useful: 9, text: "Material: vidrio y las tapas de plástico duro. Cierre: hermético, con antideslizante. Vienen bien envueltos, con separadores." },
+      { rating: 5, country: "Argentina", date: "hace 4 meses", useful: 2, text: "Los tuppers son de muy buena calidad." },
+    ],
+    articleBody: `## Qué es el set Sendero Home de vidrio
+
+Es un set de 4 tuppers de vidrio, con tapa de plástico duro y cierre antideslizante, aptos para horno, microondas y freezer. Cuesta {{precio:MLA3523540276}} y es la única opción de vidrio de esta comparativa: {{reviews:MLA3523540276}} calificaciones reales a {{rating:MLA3523540276}} estrellas, 7° en el ranking propio de MercadoLibre de toda la categoría Tápers.
+
+## Por qué el vidrio cambia el uso
+
+Ningún tupper plástico de esta comparativa entra al horno. El vidrio sí, y también aguanta microondas y freezer sin absorber olores ni mancharse con la salsa de tomate, dos quejas típicas del plástico con el uso. Una reseña real describe bien el set: "material: vidrio y las tapas de plástico duro, cierre: hermético con antideslizante, vienen bien envueltos, con separadores".
+
+## Lo que dicen los compradores reales
+
+Las opiniones coinciden en la calidad del vidrio: "los tuppers son de muy buena calidad" resume el consenso de las reseñas de este set, vendido por una tienda oficial con más de 10 mil ventas.
+
+## Para quién es, y para quién no
+
+Es para vos si preferís que el cuerpo del recipiente sea vidrio y no plástico, o si necesitás pasarlo de la heladera o el freezer al microondas o al horno (sin cambios bruscos de temperatura, para no rajar el vidrio). Si el presupuesto manda o solo necesitás organizar la heladera con lo básico, el [set Línea Color X10](/producto/set-de-10-tupers-hermeticos-plasticos-2650cc-linea-clasica-mla2622288430) de esta comparativa cuesta bastante menos.
+
+## El veredicto
+
+La única opción de vidrio de esta comparativa, con buen respaldo de reseñas y la ventaja real de poder usarlo en microondas y horno, algo que el plástico no permite. Cuesta más por pieza que un set plástico, y hay que tratarlo con más cuidado (y dejar que temple antes de pasarlo del freezer directo al horno).`,
+    faq: [
+      { question: "¿Se puede meter en el horno?", answer: "Sí, es apto para horno, microondas y freezer, a diferencia de los tuppers plásticos de esta comparativa." },
+      { question: "¿La tapa es de vidrio o de plástico?", answer: "El cuerpo es de vidrio; la tapa es de plástico duro, con un sistema antideslizante para el cierre hermético." },
+      { question: "¿Es más frágil que un tupper plástico?", answer: "Sí, es vidrio: pesa más y se puede romper si se golpea o cae, algo que un tupper plástico no sufre." },
+      { question: "¿Cuántas opiniones tiene?", answer: `{{reviews:MLA3523540276}} calificaciones a {{rating:MLA3523540276}} estrellas, 7° en el ranking propio de MercadoLibre de toda la categoría Tápers.` },
+      { question: "¿Conviene frente a un set plástico?", answer: "Si preferís que el cuerpo sea vidrio y no plástico, o necesitás usarlo en microondas y horno, sí. Si solo buscás lo más económico para organizar la heladera, el set Línea Color de esta comparativa rinde mejor por el precio." },
+      { question: "¿Se puede pasar directo del freezer al horno?", answer: "Es apto para los dos usos por separado, pero un cambio brusco de temperatura puede rajar el vidrio. Conviene dejarlo templar unos minutos antes de pasarlo de un extremo al otro." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Sendero Home Set X4 de vidrio",
+      image: ["https://http2.mlstatic.com/D_NQ_NP_938441-MLA116510305983_082026-OO.webp"],
+      description: "Set de 4 tuppers de vidrio, con tapa hermética antideslizante, aptos para horno, microondas y freezer.",
+      brand: { "@type": "Brand", name: "Sendero Home" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/tupper-vidrio-hermetico-horno-freezer-set-x-4-blanco/up/MLAU4158794089",
+        priceCurrency: "ARS",
+        price: "30999",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.8",
+        reviewCount: "136",
+      },
+    },
+  },
+  {
+    id: "MLA2622288430",
+    title: "Set De 10 Tupers Hermeticos Plasticos 2650cc Linea Clasica",
+    canonicalName: "Línea Color Set X10 (2,65 L cada uno)",
+    brand: "Línea Color",
+    price: 13271,
+    originalPrice: 37013,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_741029-MLA99600925428_122025-OO.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_741029-MLA99600925428_122025-OO.webp",
+    ],
+    category: "Hogar, Muebles y Jardín",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/set-de-10-tupers-hermeticos-plasticos-2650cc-linea-clasica/up/MLAU3651895618",
+    affiliateUrl: "https://meli.la/2euiN45",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 117,
+    pastelColor: "var(--pastel-slate)",
+    specs: [
+      { label: "Marca", value: "Línea Color" },
+      { label: "Modelo", value: "Línea Clásica" },
+      { label: "Contenido", value: "10 unidades de 2,65 litros cada una" },
+      { label: "Unidades por pack", value: "10" },
+      { label: "Material", value: "Plástico" },
+      { label: "Apto para microondas", value: "Sí" },
+      { label: "Apto para lavavajillas", value: "Sí" },
+      { label: "Color", value: "Surtido (varía por unidad)" },
+      { label: "Condición", value: "Nuevo" },
+      { label: "Envío", value: "Gratis" },
+      { label: "Vendedor", value: "Línea Color, MercadoLíder, +10 mil ventas" },
+    ],
+    relatedProducts: ["MLA2881337584", "MLA3284834824", "MLA3523540276"],
+    priceUpdated: "2026-09-26", priceLastChecked: "2026-09-26", priceStatus: "fresh", reviewsSampledAt: "2026-09-26",
+    description: "Set de 10 tuppers plásticos Línea Color, de 2,65 litros cada uno, colores surtidos. Es el más económico por unidad de esta comparativa: {{reviews:MLA2622288430}} opiniones a {{rating:MLA2622288430}} estrellas.",
+    seoTitle: "Set Línea Color X10: el más económico de esta comparativa",
+    metaDescription: "Set de 10 tuppers Línea Color, 2,65 L cada uno, colores surtidos. {{reviews:MLA2622288430}} opiniones a {{rating:MLA2622288430}} estrellas.",
+    verdict: "Es el más económico por unidad de esta comparativa: 10 tuppers idénticos de 2,65 litros cada uno a {{precio:MLA2622288430}}, ideal para quien necesita volumen (freezer, vianda familiar, organización de despensa) y no variedad de tamaños. {{reviews:MLA2622288430}} calificaciones reales a {{rating:MLA2622288430}} estrellas, vendido por un MercadoLíder con más de 10 mil ventas. La salvedad honesta, que una reseña real confirma: pese a declarar 2,65 litros, más de un comprador esperaba un tamaño mayor. Los colores vienen surtidos, sin poder elegir.",
+    pros: [
+      `El más económico por unidad de esta comparativa: 10 tuppers a {{precio:MLA2622288430}}`,
+      `{{reviews:MLA2622288430}} calificaciones a {{rating:MLA2622288430}} estrellas`,
+      "10 unidades del mismo tamaño (2,65 L), ideal para freezer o vianda familiar en volumen",
+      "Apto para microondas y lavavajillas, vendido por un MercadoLíder con más de 10 mil ventas",
+    ],
+    cons: [
+      "Más de una reseña real avisa que el tamaño se sintió más chico de lo esperado pese a los 2,65 litros declarados",
+      "Viene en un solo tamaño: si necesitás variedad, el set Gadnic de esta comparativa cubre de 170 ml a 2,5 L",
+      "Los colores son surtidos, sin poder elegir cuál toca en cada unidad",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace 8 meses", useful: 4, text: "Excelente! re baratos, muy buena calidad y el calco sale facilísimo sin renegar. Compré el 2650cc, pero la próxima compra serán la otra medida y los más pequeños." },
+      { rating: 4, country: "Argentina", date: "hace 2 meses", useful: 3, text: "Pensé que era más grande. Pero se ven correctos. Los colores son variados." },
+      { rating: 5, country: "Argentina", date: "hace 3 meses", useful: 3, text: "Compren, no se van a arrepentir. Me encantó, volveré a comprar muchos más, aparte el precio es súper para la cantidad de táper." },
+    ],
+    articleBody: `## Qué es el set Línea Color X10
+
+Es un set de 10 tuppers plásticos idénticos, de 2,65 litros cada uno, en colores surtidos. Cuesta {{precio:MLA2622288430}} y es el más económico por unidad de esta comparativa: {{reviews:MLA2622288430}} calificaciones reales a {{rating:MLA2622288430}} estrellas.
+
+## Volumen antes que variedad
+
+A diferencia del set Gadnic o el Urban Home de esta comparativa, acá no hay mezcla de tamaños: son 10 unidades iguales de 2,65 litros, pensadas para quien necesita mucho volumen de un mismo tamaño (freezer lleno, vianda familiar, organización de despensa) y no varias medidas distintas. Una reseña real confirma la relación precio-cantidad: "excelente, re baratos, muy buena calidad y el calco sale facilísimo sin renegar".
+
+## La honestidad sobre el tamaño
+
+Hay que decirlo de frente: más de una reseña avisa que el tamaño se sintió más chico de lo esperado pese a los 2,65 litros declarados en la ficha. "Pensé que era más grande, pero se ven correctos", resume una compradora real. No es un dato menor si estás calculando cuánto entra.
+
+## Para quién es, y para quién no
+
+Es para vos si necesitás muchas unidades del mismo tamaño para llenar el freezer o la despensa, al precio más bajo por pieza de esta comparativa. Si necesitás variedad de tamaños en un solo set, el [set Gadnic](/producto/set-x-12-tuppers-gadnic-recipiente-hermeticos-170-ml-a-2500-ml-mla3284834824) de esta comparativa cubre de 170 ml a 2,5 litros.
+
+## El veredicto
+
+El más económico por unidad de esta comparativa, ideal para volumen antes que variedad, con una aclaración honesta sobre el tamaño real percibido por los compradores.`,
+    faq: [
+      { question: "¿Qué tamaño tiene cada tupper?", answer: "2,65 litros cada uno, las 10 unidades son del mismo tamaño." },
+      { question: "¿Se puede elegir el color?", answer: "No, los colores vienen surtidos: cada unidad puede tocar en un color distinto, sin poder elegir cuál." },
+      { question: "¿Es el tupper más barato de esta guía?", answer: `Es el más económico por unidad: {{precio:MLA2622288430}} por 10 piezas de 2,65 litros cada una.` },
+      { question: "¿El tamaño real coincide con lo declarado?", answer: "Según reseñas reales, a más de un comprador le pareció más chico de lo esperado pese a los 2,65 litros declarados. Conviene tenerlo en cuenta antes de comprar." },
+      { question: "¿Es apto para microondas?", answer: "Sí, según su propia ficha es apto para microondas y lavavajillas." },
+      { question: "¿Quién lo vende?", answer: "Línea Color, un MercadoLíder con más de 10 mil ventas totales." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Línea Color Set X10 (2,65 L cada uno)",
+      image: ["https://http2.mlstatic.com/D_NQ_NP_741029-MLA99600925428_122025-OO.webp"],
+      description: "Set de 10 tuppers plásticos, de 2,65 litros cada uno, colores surtidos.",
+      brand: { "@type": "Brand", name: "Línea Color" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/set-de-10-tupers-hermeticos-plasticos-2650cc-linea-clasica/up/MLAU3651895618",
+        priceCurrency: "ARS",
+        price: "13271",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.8",
+        reviewCount: "117",
+      },
+    },
+  },
+
   // ─── Silo de verano: piletas (sourcing Bright Data 2026-08-13) ───
   // Sin rating/reviewCount: el scraper puntual no devuelve el agregado de ML.
   // Los completa la proxima corrida del workflow de precios. No se inventan.

@@ -73,7 +73,7 @@ Barrido de rubros que nunca se habían tocado, apuntando al mismo patrón de obj
 
 | Keyword | Vol/mes | SERP real | Silo |
 | :-- | --: | :-- | :-- |
-| **tupper** | 14.800 | El SERP más limpio de todo el día: ML x6 y Sodimac. Nada más | bazar/cocina |
+| **tupper** ✅ publicada 2026-09-26 (`/guias/hogar-jardin/tupper`) | 14.800 | El SERP más limpio de todo el día: ML x6 y Sodimac. Nada más | hogar-jardin (sumada al silo existente, no al bazar/cocina nuevo) |
 | **mesa ratona** | 14.800 | Sodimac, Easy, Frávega, ML, Ciudad Muebles, Silvina C., Pili Deco. Lo único con formato editorial es una nota de Cadena3 que es contenido pago de Grupo Edisur, una desarrolladora inmobiliaria, no un comparador | hogar-jardin |
 | **escurridor de platos** | 9.900 | Sodimac, Tramontina oficial, ML, Bazar Celta. Aparece el blog de ML con un "más vendidos" de 2024 y ruido extranjero irrelevante (Amazon US, eBay Alemania) | bazar/cocina |
 

@@ -753,3 +753,32 @@ de la respuesta de agy, no solo confiar en el veredicto GO/NO-GO, y correr `git 
 cada corrida suya con permisos elevados antes de asumir que el estado del archivo es el que uno
 mismo escribio. En las pasadas siguientes de la misma sesion, pedirle explicitamente "no edites el
 archivo, solo reporta" funciono: respeto la instruccion las 2 veces que se lo pidieron asi.
+
+### 2026-09-26 — El mismo patrón del 25/9, pero sobre precio: un superlativo mal acotado sobrevive en referencias cruzadas y en un badge visual
+
+Guía `tupper`: el Set Urban Home X8 se presentaba como "el más barato por pieza", pero el dato real
+es que el Set Línea Color X10 es más barato tanto en total ($13.271 vs $18.199) como por unidad
+($1.327/u vs $2.275/u). Es el mismo tipo de bug documentado el 25/9 en `tacho-de-basura` (un
+superlativo mal acotado repetido con variantes de redacción), pero esta vez sobre precio en vez de
+ranking de ventas, y con dos vectores nuevos que no había visto antes:
+
+1. **Referencias cruzadas entre fichas.** El texto de Urban Home se corrigió a la primera pasada,
+   pero la ficha de Gadnic seguía usando a Urban Home como referencia en su cálculo de
+   `{{preciodif}}` ("el set más económico"), y la ficha de Sendero Home lo mencionaba como
+   alternativa "que cuesta bastante menos". El bug no vivía solo en la ficha del producto mal
+   posicionado — vivía también en cómo las OTRAS fichas lo citaban. Grepear el nombre del producto
+   ("Urban Home") combinado con palabras de precio ("barato", "económic", "menos", "fracción") en
+   las 4 fichas + la guía, no solo en su propia ficha, fue lo que terminó de destrabarlo.
+
+2. **Un campo estructurado (`badge: "bestseller"`) puede contradecir una corrección de texto.**
+   Sacar "más vendido"/"más barato" de toda la prosa no alcanzó: el campo `badge: "bestseller"` de
+   la ficha renderiza una etiqueta "BESTSELLER" en la UI, sin ningún contexto que la acote. Codex lo
+   marcó como bloqueante en la ronda 3 aunque el texto ya estaba impecable, porque el badge seguía
+   siendo un claim visual sin calificar. Se resolvió sacando el badge del producto cuyo ranking real
+   (20°) no lo sostiene, dejándolo en los otros dos (9° y 7°) que sí lo sostienen mejor.
+
+**La lección, además de la ya documentada el 25/9:** cuando se corrige un superlativo mal acotado en
+un producto de una comparativa, hay que revisar también (a) cómo lo citan las OTRAS fichas de la
+misma comparativa, y (b) los campos estructurados/visuales (badges, labels de UI) que puedan estar
+haciendo el mismo claim por fuera de la prosa. Cuatro rondas de Codex hicieron falta para estos dos
+vectores extra, después de que el texto principal ya estaba corregido en la ronda 1.

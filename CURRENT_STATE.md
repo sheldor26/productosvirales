@@ -1,7 +1,28 @@
 # Estado actual
 
 > Snapshot del proyecto. Se actualiza al final de cada sesión.
-> Última actualización: 2026-09-25 — 3 guías nuevas: "¿Es buena la marca Peabody?" (marcas, cero sourcing), "Hot Wheels y autos de colección" (silo juguetes, sourcing nuevo, hallazgo del Bburago Colapinto como el más vendido de toda la categoría) y "Tacho de basura: cuál comprar" (silo hogar-jardin, sourcing nuevo). Las 3 con doble GO del trío auditor y afiliados reales ya cargados. Ver detalle abajo.
+> Última actualización: 2026-09-26 — guía nueva "Tupper: cuál comprar" (silo hogar-jardin, sourcing nuevo, 4 fichas). Doble GO del trío auditor tras 4 rondas de Codex + 3 de agy (el bloqueante principal: un superlativo de precio mal acotado, mismo patrón que ya había costado varias rondas en `tacho-de-basura` el 25/9, esta vez sobre "el más barato" en vez de "el más vendido"). Afiliados reales ya cargados. Ver detalle abajo.
+
+## Sesión 2026-09-26 — Guía nueva: Tupper
+
+### LO QUE SE HIZO
+
+Continuación de la estrategia de contenido del silo hogar-jardin/bazar-cocina acordada con Juan.
+
+**`/guias/hogar-jardin/tupper`** — sourcing nuevo en vivo (4 fichas): Set Urban Home X8 (el de más reseñas, 20° en el ranking propio de Tápers), Set Gadnic X12 (el más completo, 170 ml a 2,5 L), Set Sendero Home de vidrio X4 (la única opción de vidrio, apto horno/microondas/freezer) y Set Línea Color X10 (el más económico total y por unidad, 2,65 L cada uno). Se sumó al silo `hogar-jardin` existente en vez de abrir el silo nuevo "bazar/cocina" que proponía el research original, para no dejar una guía huérfana sin enlazado recíproco en un sitio DA1 sin backlinks.
+
+**Auditoría del trío: 4 rondas de Codex + 3 de agy.** Bloqueante principal: Urban Home se presentaba como "el más barato por pieza" cuando Línea Color es más barato en total y por unidad — mismo patrón de superlativo mal acotado que ya costó 6+3 rondas en `tacho-de-basura` el 25/9, esta vez sobre precio en vez de ranking de ventas. La corrección tardó rondas extra porque el rastro persistía en referencias cruzadas entre fichas (el `{{preciodif}}` de Gadnic seguía comparando contra Urban Home, la ficha de Sendero Home lo mencionaba como alternativa más barata) y en el badge visual `bestseller` de Urban Home, que seguía compitiendo con el reposicionamiento del texto aun después de sacarle el claim de la prosa — se terminó sacando el badge directamente. Otros hallazgos reales: "sin plástico" era falso para el set de vidrio (la tapa es plástico), se suavizó el claim de pasar del freezer al horno "sin problema" (riesgo de shock térmico), y se corrigió el overclaim de "12 tamaños distintos" de Gadnic a "variedad de capacidades". Afiliados generados con Juan.
+
+### VERIFICACIÓN
+
+`npx tsc --noEmit`, `npm run build`, y los scripts relevantes de `guides:check` en verde, incluido el afiliado (los 4 links meli.la se generaron y verificaron en vivo con Juan). Los mismos 3 hardcoded prices preexistentes (gaming, smartlife-cafetera) siguen sin tocar, no relacionados a esta sesión.
+
+### LO QUE QUEDA ABIERTO
+
+- De la estrategia original quedan pendientes: `escurridor de platos` (9.900/mes) y `cartuchera` (14.800/mes, útiles escolares, silo nuevo "librería/oficina", pico real feb-mar).
+- `npm run indexnow` corrido al cierre de esta sesión.
+
+---
 
 ## Sesión 2026-09-25 — Estrategia de contenido nueva: 3 guías (Peabody, Hot Wheels, Tacho de basura)
 
