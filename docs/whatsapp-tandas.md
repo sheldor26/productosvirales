@@ -47,3 +47,13 @@ Sourcing hecho ~12:38hs (TV Hisense, Freidora Kanji, Silla Game House) pero la p
 | Smart TV Hisense 32" HD 32A42K | $273.999 (21% OFF) | meli.la/2No2TUK |
 | Freidora de Aire Kanji 6.5L Panel Digital | $97.191 (sin descuento tachado en la ficha al momento de publicar, ÚLTIMAS 4 UNIDADES) | meli.la/2ksjzjB |
 | Silla Gamer The Game House D395 Ergonómica | $166.912 (45% OFF) | meli.la/1zF1Uxr |
+
+### 2026-09-26 09:30 — Mañana
+
+Primera tanda del día (sábado). Juan pasó el cupón MELI10OFF ($15.000 OFF, mínima $150.000, solo Productos 1P, vigente hoy 9-23:59) mientras se armaba esta tanda — se buscó deliberadamente un candidato 1P de ticket alto (Smart TV Hisense 43", vendido por "Tienda oficial Mercado Libre", $429.999) para poder usarlo, pero el cupón NO se pudo verificar: el campo "Ingresar código de cupón" del carrito no abrió en este navegador automatizado, mismo límite técnico ya documentado ayer con el cupón SUMATEMAS (Auriculares Sony). Se publicó el TV igual por su descuento real, sin mencionar el cupón en el copy. Sin repetir nada de las tandas anteriores ni de Threads (últimas 48hs). Links generados con el linkbuilder de afiliados, etiqueta "instagram".
+
+| Producto | Precio | Link |
+|---|---|---|
+| Monitor Curvo Gamer X-Micro 24" 120Hz Full HD | $171.398 (20% OFF) | meli.la/1xhNUnX |
+| Cafetera Espresso Vintage Suono 20 Bar | $112.899 (56% OFF) | meli.la/195A1b5 |
+| Smart TV Hisense 43" Full HD 43A42K | $429.999 (10% OFF, 1P — Tienda oficial Mercado Libre) | meli.la/32pRQSf |
