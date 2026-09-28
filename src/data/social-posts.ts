@@ -4539,4 +4539,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "0",
     postedAt: "2026-09-28T11:20:12-03:00",
   },
+  {
+    title: "Assassin's Creed Shadows PS5 (Físico)",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_630563-MLA99988861329_112025-O.webp",
+    affiliateUrl: "https://meli.la/2ocECtL",
+    newPrice: "95.059",
+    oldPrice: "179.990",
+    offPct: "47",
+    postedAt: "2026-09-28T11:50:09-03:00",
+  },
 ];
