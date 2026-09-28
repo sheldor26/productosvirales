@@ -80597,6 +80597,350 @@ Es para vos si buscás un formato bajo y ancho para usar como aparador, o prefer
     ],
   },
 
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva mopa — silo hogar-jardin (existente, con tupper,
+  // tacho-de-basura, zapatero, mesa-ratona, escurridor-de-platos, puff,
+  // comoda). Origen: research de keywords 2026-08-15 ("leads sin
+  // verificar"), "mopa" 12.100/mes, SERP verificado en vivo el 2026-09-28
+  // vía WebSearch: solo retail (Frávega, Laffitte) y contenido de
+  // marca/TikTok, sin comparador editorial real. 4 fichas nuevas, sourcing
+  // en vivo el 2026-09-28 (Chrome de Juan, categoría real "Lampazos y
+  // Mopas" de ML, insignias de ranking reales).
+  // ─────────────────────────────────────────────────────────
+  {
+    id: "MLAU3394839069",
+    title: "Combo Hogar Actual Balde Mopa Centrifugo Mas 4 Mopas Repuesto",
+    canonicalName: "Hogar Actual Balde Mopa Centrífugo",
+    brand: "Hogar Actual",
+    price: 20499,
+    originalPrice: 32990,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_792010-MLA91126285388_092025-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_792010-MLA91126285388_092025-F.webp",
+    ],
+    category: "Hogar, Muebles y Jardín",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/combo-hogar-actual-balde-mopa-centrifugo--4-mopas-repuesto/up/MLAU3394839069",
+    affiliateUrl: "https://meli.la/1qxsCSo",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.5,
+    reviewCount: 1728,
+    soldQuantity: 10000,
+    pastelColor: "var(--pastel-slate)",
+    specs: [
+      { label: "Marca", value: "Hogar Actual" },
+      { label: "Color", value: "Negro" },
+      { label: "Material del mango", value: "Acero inoxidable" },
+      { label: "Material del trapo", value: "Microfibra" },
+      { label: "Con mango regulable", value: "Sí" },
+      { label: "Largo", value: "1,45 m" },
+      { label: "Con rotación de 360°", value: "Sí" },
+      { label: "Material del balde centrifugador", value: "Acero inoxidable" },
+      { label: "Con ruedas en la base", value: "Sí" },
+      { label: "Pisos recomendados", value: "Plastificados, cerámicos" },
+    ],
+    relatedProducts: ["MLA72997517", "MLA34015297", "MLA47004067"],
+    priceUpdated: "2026-09-28", priceLastChecked: "2026-09-28", priceStatus: "fresh", reviewsSampledAt: "2026-09-28",
+    description: "Balde mopa centrífugo Hogar Actual, tambor de acero inoxidable, mango de 1,45 m. La más vendida de esta comparativa. {{reviews:MLAU3394839069}} opiniones a {{rating:MLAU3394839069}} estrellas.",
+    seoTitle: "Hogar Actual: la mopa centrífuga más vendida de MercadoLibre",
+    metaDescription: "Balde mopa centrífugo Hogar Actual, acero inoxidable: la más vendida de esta comparativa. {{reviews:MLAU3394839069}} opiniones a {{rating:MLAU3394839069}} estrellas.",
+    verdict: "Tiene la insignia de más vendido de MercadoLibre y la base de opiniones más consolidada entre las mopas de tipo centrífugo de esta comparativa: {{reviews:MLAU3394839069}} calificaciones a {{rating:MLAU3394839069}} estrellas (el Shopping Digital, de otro tipo, tiene aún más). Balde y tambor de acero inoxidable, mango regulable de 1,45 m, a {{precio:MLAU3394839069}}. La contra real: una reseña real avisa que la publicación promete 4 repuestos pero llegaron solo 2 — conviene confirmar la cantidad exacta antes de comprar.",
+    pros: [
+      "La más vendida de esta comparativa, con insignia real de MercadoLibre",
+      "{{reviews:MLAU3394839069}} opiniones a {{rating:MLAU3394839069}} estrellas",
+      "Balde y tambor de acero inoxidable, más resistente que el plástico",
+      "Ruedas en la base para trasladarlo con facilidad",
+    ],
+    cons: [
+      "Una reseña real avisa que la publicación promete 4 repuestos de mopa pero llegaron solo 2",
+      "Según una reseña, el armado inicial puede ser confuso porque no viene con guía impresa (solo tutorial)",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace 2 meses", useful: 10, text: "Lo amo, odio tocar el trapo mojado y sucio esto me solucionó la vida. Limpias en un toque, me arrepiento de no haberlo comprado antes y por el precio 10/10." },
+      { rating: 4, country: "Argentina", date: "hace 6 meses", useful: 17, text: "Fue medio un rompecabezas armarlo porque no viene la guía, pero con un tutorial fue suficiente. Trajo 4 estopas, veremos como funciona, hasta el momento me encanta." },
+    ],
+    articleBody: `## Qué es y para quién
+
+El Hogar Actual es un balde mopa centrífugo con tambor y balde de acero inoxidable, mango regulable de 1,45 m. Es la mopa con más respaldo real entre las de tipo centrífugo de esta comparativa: {{reviews:MLAU3394839069}} opiniones a {{rating:MLAU3394839069}} estrellas, con insignia de más vendido de MercadoLibre.
+
+## Lo que confirma el volumen de reseñas
+
+Con más de 10 mil unidades vendidas y {{reviews:MLAU3394839069}} calificaciones, es la mopa con más historial de uso real entre las de tipo centrífugo (balde + mopa giratoria) de esta comparativa.
+
+## La contra real
+
+Una reseña real avisa que la publicación promete 4 repuestos de mopa, pero solo llegaron 2 — conviene confirmar la cantidad exacta al comprar. El armado inicial, según otra reseña, puede resultar confuso porque no incluye guía impresa, solo un tutorial.
+
+## Cómo se compara con los otros de esta guía
+
+Frente al [Santech](/producto/set-mopa-centrifuga-360-balde-mas-2-mopas-con-ruedas-santech-verde-mla72997517), que es más barato, este tiene mucho más respaldo de opiniones. Frente al [ST Smart Tech](/producto/mopa-trapeador-spray-rociador-giratoria-360-lampazo-lv-s02-smart-tech-mla34015297), que no usa balde, este necesita agua y más espacio de guardado. Frente al [Shopping Digital](/producto/trapeador-mopa-con-balde-escurridor-mas-4-repuestos-crema-mla47004067), que tiene aún más opiniones, este tiene balde de acero en vez de plástico.
+
+## Para quién sí y para quién no
+
+Es para vos si buscás la opción con más historial de uso real y preferís un balde de acero inoxidable. No es la mejor opción si buscás el precio más bajo, ahí el Santech rinde mejor.`,
+    faq: [
+      { question: "¿Es la mopa más vendida de MercadoLibre?", answer: "De esta comparativa, sí: tiene la insignia de más vendido y {{reviews:MLAU3394839069}} opiniones, la base más grande entre las mopas de tipo centrífugo." },
+      { question: "¿El balde es de acero o plástico?", answer: "El balde y el tambor centrifugador son de acero inoxidable, según su ficha técnica." },
+      { question: "¿Cuántos repuestos de mopa trae?", answer: "La publicación promete 4, pero una reseña real avisa que le llegaron solo 2 — conviene confirmar antes de comprar." },
+      { question: "¿Tiene ruedas?", answer: "Sí, trae ruedas en la base para facilitar el traslado." },
+      { question: "¿Cuánto mide el mango?", answer: "1,45 m, y es regulable." },
+      { question: "¿Es fácil de armar?", answer: "Según una reseña real, puede resultar confuso al principio porque no viene con guía impresa, solo con un tutorial en video." },
+    ],
+  },
+  {
+    id: "MLA72997517",
+    title: "Set Mopa Centrifuga 360 Balde Mas 2 Mopas Con Ruedas Santech Verde",
+    canonicalName: "Santech Set Mopa Centrífuga con Ruedas",
+    brand: "Santech",
+    price: 17284,
+    originalPrice: 27999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_836071-MLA111870427536_062026-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_836071-MLA111870427536_062026-F.webp",
+    ],
+    category: "Hogar, Muebles y Jardín",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/set-mopa-centrifuga-360-balde-2-mopas-con-ruedas-santech-verde/p/MLA72997517",
+    affiliateUrl: "https://meli.la/1doGjys",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.6,
+    reviewCount: 206,
+    soldQuantity: 500,
+    pastelColor: "var(--pastel-slate)",
+    specs: [
+      { label: "Marca", value: "Santech" },
+      { label: "Modelo", value: "MO010" },
+      { label: "Color", value: "Verde" },
+      { label: "Con mango regulable", value: "No" },
+      { label: "Con cabezal giratorio", value: "Sí" },
+      { label: "Con rotación de 360°", value: "Sí" },
+      { label: "Incluye lampazo de repuesto", value: "Sí (2 unidades)" },
+      { label: "Incluye balde centrifugador", value: "Sí" },
+      { label: "Con ruedas", value: "Sí" },
+    ],
+    relatedProducts: ["MLAU3394839069", "MLA34015297", "MLA47004067"],
+    priceUpdated: "2026-09-28", priceLastChecked: "2026-09-28", priceStatus: "fresh", reviewsSampledAt: "2026-09-28",
+    description: "Set mopa centrífuga Santech con ruedas, mango largo, 2 mopas de repuesto. La más económica de esta comparativa. {{reviews:MLA72997517}} opiniones a {{rating:MLA72997517}} estrellas.",
+    seoTitle: "Santech: la mopa centrífuga más económica, con ruedas",
+    metaDescription: "Set mopa centrífuga Santech, con ruedas: la más económica de esta comparativa. {{reviews:MLA72997517}} opiniones a {{rating:MLA72997517}} estrellas.",
+    verdict: "Es la más económica de esta comparativa, a {{precio:MLA72997517}}, con ruedas en el balde para trasladarlo sin levantarlo (igual que el Hogar Actual). Reseñas reales destacan el mango más largo que el de otras mopas que probaron antes, y que las mopas de repuesto se pueden lavar en lavarropas. La contra real: su base de opiniones ({{reviews:MLA72997517}}) es bastante más chica que la del Hogar Actual o el Shopping Digital, y el mango no es regulable en altura.",
+    pros: [
+      "La más económica de esta comparativa, a {{precio:MLA72997517}}",
+      "Con ruedas en el balde para trasladarlo sin levantarlo",
+      "Reseñas reales destacan el mango largo, cómodo para no encorvarse",
+      "Las mopas de repuesto se pueden lavar en lavarropas, según una reseña real",
+    ],
+    cons: [
+      "Su base de opiniones ({{reviews:MLA72997517}}) es más chica que la del Hogar Actual o el Shopping Digital",
+      "El mango no es regulable en altura, según su ficha técnica",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace 1 mes", useful: 6, text: "Se la re banca! la vez de poca calidad y no pesa nada he inmediatamente pensar que no te va a durar nada… error! la llevo usando una banda y va como piña. Precio calidad imbatible." },
+      { rating: 5, country: "Argentina", date: "hace 2 meses", useful: 5, text: "El palo es re largo. Tuve varias mopas y todas eran cortitas y te daba dolor de cintura. Esta me gusta mucho más." },
+    ],
+    articleBody: `## Qué es y para quién
+
+El Santech es un set de mopa centrífuga con balde con ruedas, mango largo y 2 mopas de repuesto. Es la opción más económica de esta comparativa, a {{precio:MLA72997517}}.
+
+## El diferencial real: mango largo y precio
+
+El balde del Santech trae ruedas propias, así que se traslada sin levantarlo (el Hogar Actual también las tiene, según su ficha técnica). Lo que sí distingue al Santech es el precio, el más bajo de esta comparativa, y varias reseñas reales que destacan que el mango es más largo que el de otras mopas que probaron antes, algo que evita encorvarse al limpiar.
+
+## La contra real
+
+Su base de opiniones ({{reviews:MLA72997517}}) es la más chica entre las mopas de tipo centrífugo de esta comparativa, y el mango no es regulable en altura (a diferencia del Hogar Actual, que sí lo es).
+
+## Cómo se compara con los otros de esta guía
+
+Frente al [Hogar Actual](/producto/combo-hogar-actual-balde-mopa-centrifugo-mas-4-mopas-repuesto-mlau3394839069), que tiene mucho más respaldo de opiniones (ambos comparten balde con ruedas), el Santech es más barato. Frente al [ST Smart Tech](/producto/mopa-trapeador-spray-rociador-giratoria-360-lampazo-lv-s02-smart-tech-mla34015297), que no usa balde, el Santech necesita agua y más espacio de guardado. Frente al [Shopping Digital](/producto/trapeador-mopa-con-balde-escurridor-mas-4-repuestos-crema-mla47004067), es notablemente más barato aunque con menos opiniones.
+
+## Para quién sí y para quién no
+
+Es para vos si priorizás el precio más bajo y valorás poder trasladar el balde con ruedas. No es la mejor opción si buscás el mayor respaldo de opiniones reales, ahí el Hogar Actual o el Shopping Digital rinden mejor.`,
+    faq: [
+      { question: "¿Es la mopa más barata de esta comparativa?", answer: `Sí, a {{precio:MLA72997517}} es la más económica de esta guía.` },
+      { question: "¿Tiene ruedas?", answer: "Sí, el balde trae ruedas propias para trasladarlo sin levantarlo." },
+      { question: "¿El mango es regulable?", answer: "No en altura, según su ficha técnica, aunque varias reseñas destacan que ya viene más largo que el de otras mopas." },
+      { question: "¿Las mopas de repuesto se pueden lavar?", answer: "Sí, según una reseña real se pueden lavar en lavarropas y quedan como nuevas." },
+      { question: "¿Cuántas mopas de repuesto trae?", answer: "2 unidades, según su ficha técnica." },
+      { question: "¿Quién la vende?", answer: "Santech, marca verificada en MercadoLibre." },
+    ],
+  },
+  {
+    id: "MLA34015297",
+    title: "Mopa Trapeador Spray Rociador Giratoria 360 Lampazo LV-S02 Smart Tech",
+    canonicalName: "ST Smart Tech Mopa Spray LV-S02",
+    brand: "ST Smart Tech",
+    price: 20999,
+    originalPrice: 24999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_732736-MLA98281573764_112025-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_732736-MLA98281573764_112025-F.webp",
+    ],
+    category: "Hogar, Muebles y Jardín",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/mopa-trapeador-spray-rociador-giratoria-360-lampazo-lv-s02-smart-tech/p/MLA34015297",
+    affiliateUrl: "https://meli.la/1yfT7Ee",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.2,
+    reviewCount: 704,
+    soldQuantity: 10000,
+    pastelColor: "var(--pastel-slate)",
+    specs: [
+      { label: "Marca", value: "ST Smart Tech" },
+      { label: "Modelo", value: "LV-S02" },
+      { label: "Color", value: "Gris oscuro" },
+      { label: "Material del mango", value: "Acero" },
+      { label: "Material del trapo", value: "Microfibra" },
+      { label: "Con mango regulable", value: "Sí" },
+      { label: "Largo", value: "1,22 m" },
+      { label: "Con rotación de 360°", value: "Sí" },
+      { label: "Incluye lampazo de repuesto", value: "Sí (2 unidades)" },
+      { label: "Incluye balde centrifugador", value: "No" },
+      { label: "Con lampazo lavable", value: "Sí" },
+      { label: "Sistema", value: "Spray con botella recargable" },
+    ],
+    relatedProducts: ["MLAU3394839069", "MLA72997517", "MLA47004067"],
+    priceUpdated: "2026-09-28", priceLastChecked: "2026-09-28", priceStatus: "fresh", reviewsSampledAt: "2026-09-28",
+    description: "Mopa spray ST Smart Tech LV-S02, cabezal plano con rociador incorporado, sin balde. La única sin balde de esta comparativa. {{reviews:MLA34015297}} opiniones a {{rating:MLA34015297}} estrellas.",
+    seoTitle: "ST Smart Tech: la mopa spray, sin balde ni manos mojadas",
+    metaDescription: "Mopa spray ST Smart Tech LV-S02, sin balde: rociás y trapeás en el mismo movimiento. {{reviews:MLA34015297}} opiniones a {{rating:MLA34015297}} estrellas.",
+    verdict: "Es la única mopa de esta comparativa que no usa balde: tiene una botella recargable incorporada al mango y rocía agua o líquido de limpieza con un gatillo, a {{precio:MLA34015297}}. Ideal para mantenimiento rápido diario. La contra real, confirmada por varias reseñas: no reemplaza una limpieza profunda — si el piso tiene manchas pegadas, hay que refregar a mano con el paño.",
+    pros: [
+      "La única sin balde de esta comparativa: rocía y trapea en el mismo movimiento",
+      "Muy liviana y rápida para mantenimiento diario, según reseñas reales",
+      "Trapo de microfibra lavable y reponible",
+      "No hay que mojarse las manos ni cargar un balde",
+    ],
+    cons: [
+      "No reemplaza una limpieza profunda: si hay manchas pegadas, hay que refregar a mano con el paño, según varias reseñas",
+      "No incluye balde: solo sirve con la botella de rociado incorporada, capacidad limitada frente a un balde",
+      "Tiene la calificación más baja de esta comparativa ({{rating:MLA34015297}} estrellas)",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace 1 año", useful: 73, text: "Súper práctico para limpiar los pisos, trapeo mucho más rápido que cuando lo hago con balde y trapo de pisos. Dato a tener en cuenta: no es para limpieza profunda, es más para mantener. Si el piso tiene algún pegote, no lo saca, hay que refregar un poco con el paño sobre el piso y la mano." },
+      { rating: 5, country: "Argentina", date: "hace 1 año", useful: 7, text: "La tuve hace tiempo y ahora volví a comprar, es lo mejor que pudieron inventar, barres aspiradora y mopa y en 30 minutos pisos impecables." },
+    ],
+    articleBody: `## Qué es y para quién
+
+La ST Smart Tech LV-S02 es una mopa plana con sistema de rociado incorporado: una botella recargable en el mango que dispara agua o líquido de limpieza con un gatillo, sin necesidad de balde. Es la única de este tipo en esta comparativa.
+
+## El diferencial real: sin balde, sin mojarse las manos
+
+Frente al [Hogar Actual](/producto/combo-hogar-actual-balde-mopa-centrifugo-mas-4-mopas-repuesto-mlau3394839069), el [Santech](/producto/set-mopa-centrifuga-360-balde-mas-2-mopas-con-ruedas-santech-verde-mla72997517) y el [Shopping Digital](/producto/trapeador-mopa-con-balde-escurridor-mas-4-repuestos-crema-mla47004067), que necesitan balde con agua, esta mopa se rellena con una botella incorporada y no hace falta cargar ni escurrir nada a mano. Reseñas reales destacan que es mucho más rápida para el mantenimiento diario.
+
+## La contra real
+
+Varias reseñas coinciden: no reemplaza una limpieza profunda. Si el piso tiene manchas pegadas (comida, líquidos secos), hay que refregar con el paño y algo de fuerza, porque el sistema de rociado no afloja suciedad adherida por sí solo.
+
+## Cómo se compara con los otros de esta guía
+
+Es la única sin balde, lo que la hace más liviana y rápida de guardar, pero con menos capacidad de agua que un balde tradicional. Su calificación ({{rating:MLA34015297}} estrellas) es la más baja de esta comparativa, aunque con una base de opiniones considerable ({{reviews:MLA34015297}}).
+
+## Para quién sí y para quién no
+
+Es para vos si buscás algo rápido para el mantenimiento diario, sin mojarte las manos ni cargar un balde. No es la mejor opción si necesitás una limpieza profunda de manchas pegadas, ahí un balde tradicional con más agua rinde mejor.`,
+    faq: [
+      { question: "¿Necesita balde?", answer: "No, es la única mopa de esta comparativa sin balde: tiene una botella recargable incorporada al mango que rocía agua o líquido de limpieza." },
+      { question: "¿Sirve para limpieza profunda?", answer: "No del todo: varias reseñas reales avisan que si el piso tiene manchas pegadas, hay que refregar con el paño y la mano. Es mejor para mantenimiento diario." },
+      { question: "¿El trapo se puede lavar?", answer: "Sí, es de microfibra lavable, según su ficha técnica." },
+      { question: "¿Cuántos repuestos trae?", answer: "2 mopas de microfibra, según el contenido del paquete." },
+      { question: "¿Es liviana?", answer: "Sí, al no tener balde es notablemente más liviana que las mopas centrífugas tradicionales, según reseñas reales." },
+      { question: "¿Quién la vende?", answer: "Proshop, tienda oficial en MercadoLibre con más de 250 mil ventas." },
+    ],
+  },
+  {
+    id: "MLA47004067",
+    title: "Trapeador Mopa Con Balde Escurridor Mas 4 Repuestos Crema",
+    canonicalName: "Shopping Digital Trapeador con Balde Escurridor",
+    brand: "Shopping Digital",
+    price: 32500,
+    originalPrice: 52500,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_683660-MLA108916982338_032026-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_683660-MLA108916982338_032026-F.webp",
+    ],
+    category: "Hogar, Muebles y Jardín",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/trapeador-mopa-con-balde-escurridor-4-repuestos-crema/p/MLA47004067",
+    affiliateUrl: "https://meli.la/2DAY3E3",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.4,
+    reviewCount: 4624,
+    soldQuantity: 10000,
+    pastelColor: "var(--pastel-slate)",
+    specs: [
+      { label: "Marca", value: "Shopping Digital" },
+      { label: "Color", value: "Crema" },
+      { label: "Material del mango", value: "Acero inoxidable" },
+      { label: "Material del trapo", value: "Microfibra" },
+      { label: "Con mango regulable", value: "Sí (120 cm)" },
+      { label: "Ancho del cabezal", value: "33 cm" },
+      { label: "Con rotación de 360°", value: "Sí" },
+      { label: "Incluye lampazo de repuesto", value: "Sí (2 unidades)" },
+      { label: "Incluye balde centrifugador", value: "Sí" },
+      { label: "Material del balde", value: "Plástico" },
+      { label: "Formato de cabezal", value: "Plano (no redondo)" },
+    ],
+    relatedProducts: ["MLAU3394839069", "MLA72997517", "MLA34015297"],
+    priceUpdated: "2026-09-28", priceLastChecked: "2026-09-28", priceStatus: "fresh", reviewsSampledAt: "2026-09-28",
+    description: "Trapeador mopa plana Shopping Digital con balde escurridor de plástico. La más elegida de esta comparativa, {{reviews:MLA47004067}} opiniones. {{rating:MLA47004067}} estrellas.",
+    seoTitle: "Shopping Digital: la mopa con más opiniones de esta comparativa",
+    metaDescription: "Trapeador mopa plana Shopping Digital con balde escurridor. La más elegida de esta comparativa, con {{reviews:MLA47004067}} opiniones a {{rating:MLA47004067}} estrellas.",
+    verdict: "Es la mopa con más respaldo real de esta comparativa: {{reviews:MLA47004067}} opiniones a {{rating:MLA47004067}} estrellas, muy por encima de las otras 3. Cabezal plano (no redondo como el Hogar Actual o el Santech) con balde escurridor de plástico, a {{precio:MLA47004067}}, la más cara de esta guía. La contra real, confirmada por varias reseñas: el secado no es perfecto (el agua limpia se mezcla con la sucia en el balde) y al menos una reseña reportó que el mango se rompió con uso normal a los pocos días.",
+    pros: [
+      "La base de opiniones más grande de esta comparativa: {{reviews:MLA47004067}} calificaciones",
+      "Cabezal plano de 33 cm, cubre más superficie por pasada que un cabezal redondo",
+      "Mango regulable de hasta 120 cm con movilidad de 90° para lugares altos o bajos",
+      "Apta también para paredes de azulejos y cerámicos, según el vendedor",
+    ],
+    cons: [
+      "Varias reseñas avisan que el secado no es perfecto: el agua limpia se mezcla con la sucia dentro del balde",
+      "Al menos una reseña reportó que el mango se rompió con uso normal a los pocos días de comprarlo",
+      "Es la más cara de esta comparativa, a {{precio:MLA47004067}}",
+      "El balde es de plástico, no de acero como el del Hogar Actual",
+    ],
+    customerReviews: [
+      { rating: 4, country: "Argentina", date: "hace 9 meses", useful: 46, text: "Está bien, cumple su función hasta ahí. La mopa tiene buena absorción, el secado es malo, no se seca bien la mopa con el balde, el agua se mezcla con la sucia, pero bien por el precio y el sistema. Unos días de uso y se rompe el mango, uso normal." },
+      { rating: 5, country: "Argentina", date: "hace 1 año", useful: 43, text: "Al principio no le agarraba la mano, se me salía el trapo cada vez que lo metía en el balde, hasta que logré engancharlo bien de cada lado. No te tenés que agachar, escurre muy bien. Lo único malo es que la manija del balde se desengancha, pero el balde al tener rueditas no lo tenés que levantar." },
+    ],
+    articleBody: `## Qué es y para quién
+
+El Shopping Digital es un trapeador de mopa plana con balde escurridor de plástico, cabezal de 33 cm y mango regulable de hasta 120 cm. Es la mopa con más respaldo real de esta comparativa: {{reviews:MLA47004067}} opiniones a {{rating:MLA47004067}} estrellas.
+
+## Lo que confirma el volumen de reseñas
+
+Con {{reviews:MLA47004067}} calificaciones, tiene por lejos la base de opiniones más grande de esta comparativa — varias veces la de cualquiera de las otras 3. Eso no lo hace automáticamente el mejor diseñado, pero sí el más probado por compradores reales.
+
+## La contra real
+
+Varias reseñas coinciden en que el secado dentro del balde no es perfecto: el agua limpia se mezcla con la sucia, así que no queda tan impecable como promete. Una reseña real, más seria, reportó que el mango se rompió con uso normal a los pocos días de comprarlo — vale la pena tenerlo en cuenta aunque sea un caso aislado dentro de miles de opiniones.
+
+## Cómo se compara con los otros de esta guía
+
+Frente al [Hogar Actual](/producto/combo-hogar-actual-balde-mopa-centrifugo-mas-4-mopas-repuesto-mlau3394839069) y el [Santech](/producto/set-mopa-centrifuga-360-balde-mas-2-mopas-con-ruedas-santech-verde-mla72997517), que tienen cabezal redondo, este es plano y más ancho (33 cm), cubre más superficie por pasada. Frente al [ST Smart Tech](/producto/mopa-trapeador-spray-rociador-giratoria-360-lampazo-lv-s02-smart-tech-mla34015297), que no usa balde, este necesita agua y espacio de guardado, pero sirve mejor para limpieza profunda de manchas pegadas.
+
+## Para quién sí y para quién no
+
+Es para vos si buscás la opción con más respaldo de opiniones reales y preferís un cabezal plano y ancho. No es la mejor opción si priorizás el precio más bajo (ahí el Santech rinde mejor) o si te preocupa la durabilidad del mango, según el caso reportado en una reseña real.`,
+    faq: [
+      { question: "¿Es la mopa con más opiniones de esta comparativa?", answer: `Sí: {{reviews:MLA47004067}} calificaciones, muy por encima de las otras 3 opciones de esta guía.` },
+      { question: "¿El cabezal es redondo o plano?", answer: "Plano, de 33 cm de ancho — a diferencia del Hogar Actual y el Santech, que tienen cabezal redondo tipo spin mop." },
+      { question: "¿Seca bien la mopa?", answer: "No del todo: varias reseñas reales avisan que el agua limpia se mezcla con la sucia dentro del balde, así que el secado no es perfecto." },
+      { question: "¿El mango es resistente?", answer: "En la mayoría de los casos sí, pero al menos una reseña real reportó que se le rompió con uso normal a los pocos días — un caso a tener en cuenta dentro de miles de opiniones mayormente positivas." },
+      { question: "¿El balde es de acero o plástico?", answer: "De plástico, a diferencia del balde de acero inoxidable del Hogar Actual." },
+      { question: "¿Sirve para paredes?", answer: "Sí, el vendedor la describe apta también para limpiar paredes de azulejos y cerámicos." },
+    ],
+  },
+
   // Guía nueva reposera — silo hogar-jardin (existente, con pileta-pelopincho,
   // sombrilla-de-playa, conservadora). Origen: research de verano 2026-09-26,
   // "reposera" 22.200/mes en Keyword Planner, MercadoLibre en posición 2 del

@@ -1,7 +1,27 @@
 # Estado actual
 
 > Snapshot del proyecto. Se actualiza al final de cada sesión.
-> Última actualización: 2026-09-28 — Guía nueva "Cómoda: cuál comprar" (silo hogar-jardin, 4 fichas nuevas, sourcing en vivo), tercera guía de la misma sesión tras escurridor-de-platos y puff. Se descartó primero "maceta" (mayor volumen) por mismatch de intención con el catálogo real de ML. Antes en la misma sesión: diagnóstico y fix del gasto de Vercel (deploys del bot de Threads regenerando el sitio entero) y checklist SEO semanal con 2 hallazgos de stock. Ver detalle abajo.
+> Última actualización: 2026-09-28 — Guía nueva "Mopa: cuál comprar" (silo hogar-jardin, 4 fichas nuevas, sourcing en vivo), cuarta guía de la misma sesión tras escurridor-de-platos, puff y cómoda. Antes en la misma sesión: diagnóstico y fix del gasto de Vercel (deploys del bot de Threads regenerando el sitio entero) y checklist SEO semanal con 2 hallazgos de stock. Ver detalle abajo.
+
+## Sesión 2026-09-28 (continuación 4) — Guía nueva: Mopa
+
+### LO QUE SE HIZO
+
+Siguiente ítem del backlog de contenido tras `cómoda`: **`mopa`** (12.100/mes), ya verificada verde en el research de la misma sesión (WebSearch, sin comparador editorial argentino real). Antes de sourcear se confirmó que la categoría real de ML ("Lampazos y Mopas") no tenía el mismo problema de `maceta` (mayorista vs. hogareño) — productos genuinos de limpieza doméstica.
+
+Sourcing nuevo en vivo (4 fichas, categoría real de ML, insignias de ranking reales para 2 de las 4): **Hogar Actual** (la más vendida, insignia 1°, balde y tambor de acero inoxidable), **Santech** (la más económica, con ruedas, insignia 3°), **ST Smart Tech** (la única sin balde — mopa spray con botella recargable incorporada), y **Shopping Digital** (la más elegida — 4.624 opiniones, la base más grande de las 4, aunque la más cara). Se descartó un 5° candidato (Supremo) por no tener ninguna reseña todavía. Se sumó al silo hogar-jardin existente, con enlazado recíproco nuevo en `comoda`.
+
+### VERIFICACIÓN
+
+`npx tsc --noEmit`, `npm run build`, y los 7 scripts de check relevantes en verde. Trío auditor: **2 rondas hasta doble GO** — agy dio GO limpio en la ronda 1; Codex encontró 3 bloqueantes reales, el más notable repitiendo el mismo patrón que `cómoda`: yo mismo había cargado `Con ruedas en la base: Sí` en los specs de Hogar Actual (dato real verificado), pero en paralelo escribí que Santech era "la única con ruedas" — contradicción directa con mi propio spec ya cargado. Los otros dos: un superlativo de "más respaldo" sin acotar para Hogar Actual (Shopping Digital tiene más), y un overclaim de Shopping Digital ("de toda la categoría MercadoLibre") sin dato que lo sostenga. Detalle completo en `docs/seo-tracking-optimizaciones.md`.
+
+### LO QUE QUEDA ABIERTO
+
+- De la estrategia original de agosto queda pendiente: `cartuchera` (14.800/mes, útiles escolares, silo nuevo "librería/oficina", pico real feb-mar — mejor esperar más cerca de esa fecha).
+- Sin verificar todavía (SERP con WebSearch, no con Chrome/ML): cortina blackout (9.900/mes, amarilla dudosa — parece dominada por vendedores D2C con blog propio, no comparadores neutrales). bajo mesada, alacena, fogonero, perchero de pared, chifonier (probable canibalización con `comoda`, no verificar como guía aparte), cava de vino, brasero, tabla de planchar, secador de piso: SERP todavía sin chequear.
+- Sin commitear todavía: diff mostrado a Juan, pendiente de aprobación explícita antes de pushear y correr `npm run indexnow`.
+
+---
 
 ## Sesión 2026-09-28 (continuación 3) — Guía nueva: Cómoda
 

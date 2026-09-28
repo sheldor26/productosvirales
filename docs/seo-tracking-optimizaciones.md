@@ -2681,3 +2681,19 @@ Re-medir: pendiente de fijar fecha (recién publicada).
 **Verificación:** `npx tsc --noEmit`, `npm run build`, y los 8 scripts individuales de `guides:check` en verde de punta a punta (mismos 3 hardcoded prices preexistentes no relacionados, cero deuda nueva). `git status` revisado tras cada pasada de agy: sin ediciones no autorizadas (mismos 3 archivos del bot-social en paralelo, no tocados).
 
 Re-medir: pendiente de fijar fecha (recién publicada).
+
+## Guía nueva `mopa` — silo `hogar-jardin` (existente) — 2026-09-28
+
+| Guía | Silo | Categoría | Keyword del cluster | Volumen | SD | Productos |
+| :-- | :-- | :-- | :-- | --: | --: | --: |
+| `mopa` | hogar-jardin | mopas | mopa | 12.100/mes | — | 4 (sourcing nuevo) |
+
+**Baseline: cero.** URL nueva, sin historial en GSC. Origen: "leads sin verificar" de `docs/keywords-verificadas-2026-08-15.md`, SERP verificado en vivo con WebSearch el 2026-09-28 (solo retail — Frávega, Laffitte — y contenido de marca/TikTok, sin comparador editorial real). Se sumó al silo `hogar-jardin` existente (junto a `tupper`, `tacho-de-basura`, `zapatero`, `mesa-ratona`, `escurridor-de-platos`, `puff`, `comoda`) con enlazado recíproco nuevo en `comoda`.
+
+**Sourcing nuevo en vivo, 4 fichas (Chrome de Juan, categoría real "Lampazos y Mopas" de ML, insignias de ranking reales para las 2 primeras):** Hogar Actual (MLAU3394839069, 4.5★/1.728, insignia 1° MÁS VENDIDO, balde y tambor de acero inoxidable, $20.499); Santech (MLA72997517, 4.6★/206, insignia 3° MÁS VENDIDO, con ruedas, $17.284, la más económica); ST Smart Tech (MLA34015297, 4.2★/704, sin balde — mopa spray con botella recargable incorporada, $20.999); Shopping Digital (MLA47004067, 4.4★/4.624, mopa plana con balde de plástico, $32.500, la base de opiniones más grande del catálogo entero de mopas). Se descartó a propósito un 5° candidato (Supremo, trapeador autoescurrible) por no tener ninguna reseña ni calificación todavía. Afiliados generados en vivo (linkbuilder, etiqueta "productosvirales", verificados contra `/social/jm159?matt_word=productosvirales`): `meli.la/1qxsCSo`, `meli.la/1doGjys`, `meli.la/1yfT7Ee`, `meli.la/2DAY3E3`.
+
+**Auditoría del trío: 2 rondas hasta doble GO — agy dio GO limpio en la ronda 1, Codex encontró 3 bloqueantes reales.** El más notable: yo mismo había cargado `Con ruedas en la base: Sí` en los specs de Hogar Actual (dato real, verificado desde su propia descripción en ML), pero en paralelo escribí en la ficha de Santech y en la guía que Santech era "la única con ruedas" — contradicción directa con un spec que yo mismo había verificado, mismo patrón que el caso Muar/humedad de la guía `comoda` de esta sesión. Los otros dos: Hogar Actual se presentaba sin acotar como "la mopa con más respaldo de esta comparativa" cuando Shopping Digital tiene 4.624 opiniones contra sus 1.728 (corregido a "entre las de tipo centrífugo"); y Shopping Digital tenía 4 instancias de un claim no probado ("de todo MercadoLibre", "de toda la categoría") que se acotaron a "de esta comparativa". Al investigar el hallazgo de ruedas se descubrió además que una reseña real de Shopping Digital menciona "rueditas" en su balde, pese a no estar declarado en su ficha técnica — se citó la reseña sin afirmar ni negar el dato.
+
+**Verificación:** `npx tsc --noEmit`, `npm run build`, y los 7 scripts de check relevantes en verde de punta a punta. `git status` revisado: sin ediciones no autorizadas de agy.
+
+Re-medir: pendiente de fijar fecha (recién publicada).

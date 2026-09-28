@@ -27865,9 +27865,130 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { question: `¿Qué cómoda conviene si busco algo bajo tipo aparador?`, answer: `La [Muar CC02](/producto/comoda-cajonera-de-melamina-con-3-cajones-negro-mla45645617), la única cómoda fija de esta comparativa con formato bajo y ancho (80x41x80cm) frente al Mosconi y la Casa Perfecta, ambos altos y angostos. Tiene menos cajones (3) que las demás.` },
     ],
     internalLinks: [
+      { label: "Mopa: cuál comprar en Argentina", href: "/guias/hogar-jardin/mopa" },
       { label: "Mesa ratona: cuál comprar en Argentina", href: "/guias/hogar-jardin/mesa-ratona" },
       { label: "Puff: cuál comprar en Argentina", href: "/guias/hogar-jardin/puff" },
       { label: "Zapatero: cuál comprar en Argentina", href: "/guias/hogar-jardin/zapatero" },
+      { label: "Tacho de basura: cuál comprar en Argentina", href: "/guias/hogar-jardin/tacho-de-basura" },
+    ],
+    internalLinksTitle: "Más de hogar y jardín",
+  },
+  // Guía nueva mopa — silo hogar-jardin (existente, con tupper,
+  // tacho-de-basura, zapatero, mesa-ratona, escurridor-de-platos, puff,
+  // comoda). Origen: research de keywords 2026-08-15 ("leads sin
+  // verificar"), "mopa" 12.100/mes, SERP verificado en vivo con WebSearch
+  // el 2026-09-28: solo retail, sin comparador editorial real. 4 fichas
+  // nuevas, sourcing en vivo el 2026-09-28.
+  {
+    slug: "mopa",
+    category: "mopas",
+    silo: "hogar-jardin",
+    pillar: true,
+    title: `Mopa: cuál comprar en Argentina [2026]`,
+    seoTitle: `Mopa: Cuál Comprar en Argentina [2026]`,
+    metaDescription: `Comparamos 4 mopas reales de MercadoLibre: la más vendida, la más económica, la única sin balde y la más elegida por opiniones.`,
+    ogTitle: `Mopa: cuál comprar en Argentina`,
+    ogDescription: `De la centrífuga clásica a la que no necesita balde: 4 mopas comparadas por respaldo real de reseñas, con las contras honestas de cada una.`,
+    ogImage: `https://http2.mlstatic.com/D_Q_NP_792010-MLA91126285388_092025-F.webp`,
+    h1: `Mopa: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene la **[Hogar Actual](/producto/combo-hogar-actual-balde-mopa-centrifugo-mas-4-mopas-repuesto-mlau3394839069)** (alrededor de {{precio:MLAU3394839069:k}}): la más vendida de esta comparativa, con {{reviews:MLAU3394839069}} opiniones. Si priorizás el precio, la **[Santech](/producto/set-mopa-centrifuga-360-balde-mas-2-mopas-con-ruedas-santech-verde-mla72997517)** (alrededor de {{precio:MLA72997517:k}}), la más económica y con ruedas. Si buscás algo sin balde para el día a día, la **[ST Smart Tech](/producto/mopa-trapeador-spray-rociador-giratoria-360-lampazo-lv-s02-smart-tech-mla34015297)** (alrededor de {{precio:MLA34015297:k}}), con sistema de rociado. Y si buscás la opción más probada por compradores reales, la **[Shopping Digital](/producto/trapeador-mopa-con-balde-escurridor-mas-4-repuestos-crema-mla47004067)** (alrededor de {{precio:MLA47004067:k}}), con {{reviews:MLA47004067}} opiniones.`,
+    publishedDate: "2026-09-28",
+    updatedDate: "2026-09-28",
+    hasDisclosure: true,
+    readingTime: 7,
+    standfirst: `Hay mopas desde {{precio:MLA72997517:k}} hasta {{precio:MLA47004067:k}}, con sistemas que van del balde centrífugo clásico al rociador que no necesita agua cargada. Comparamos 4 publicaciones con respaldo real de compradores de MercadoLibre Argentina, con las contras que no siempre cuentan.`,
+    quickPicks: [
+      { productMlaId: "MLAU3394839069", label: "La más vendida", labelColor: "green", tagline: "Hogar Actual: balde y tambor de acero inoxidable" },
+      { productMlaId: "MLA72997517", label: "La más económica", labelColor: "blue", tagline: "Santech: con ruedas, el precio más bajo" },
+      { productMlaId: "MLA34015297", label: "Sin balde", labelColor: "purple", tagline: "ST Smart Tech: rociador incorporado, sin cargar agua" },
+      { productMlaId: "MLA47004067", label: "La más elegida", labelColor: "amber", tagline: "Shopping Digital: la base de opiniones más grande" },
+    ],
+    intro: [
+      `Elegir una mopa parece trivial hasta que hay que decidir entre sistemas muy distintos: el balde centrífugo clásico (mopa redonda que gira dentro de un balde para escurrir), la mopa plana con balde escurridor, o la versión con rociador que no necesita cargar agua en ningún lado. Cada una resuelve una necesidad distinta de limpieza diaria.`,
+      `Esta guía compara 4 mopas con respaldo real de compradores en MercadoLibre Argentina, con las contras honestas de cada una.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_Q_NP_792010-MLA91126285388_092025-F.webp", alt: `Balde mopa centrífugo Hogar Actual, la más vendida de esta comparativa`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría conviene la **Hogar Actual**, la más vendida con {{reviews:MLAU3394839069}} opiniones. Si priorizás el precio, la **Santech**, con ruedas. Para algo sin balde, la **ST Smart Tech**, con rociador incorporado. Y para la opción más probada, la **Shopping Digital**, con {{reviews:MLA47004067}} opiniones.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** analizamos 4 mopas con ventas y calificaciones reales en la categoría Lampazos y Mopas de MercadoLibre Argentina, mirando sistema de limpieza, materiales y qué dicen las reseñas de compradores reales, con las contras incluidas. Los precios que ves en las fichas y tablas se revisan contra MercadoLibre tres veces por semana.` },
+
+      { type: "h2", title: `Qué mirar antes de comprar una mopa`, id: "que-mirar" },
+      { type: "p", content: `**Sistema: centrífuga, plana o spray.** La mopa centrífuga (redonda, gira dentro de un balde) es la más común y escurre sin tocarla. La mopa plana con balde escurridor cubre más superficie por pasada. La mopa spray, sin balde, se recarga con una botella incorporada y es la más rápida para mantenimiento diario, aunque no reemplaza una limpieza profunda.` },
+      { type: "p", content: `**Material del balde: acero o plástico.** Entre las que usan balde, el Hogar Actual lo tiene de acero inoxidable; el Santech y el Shopping Digital, de plástico. No cambia la función, pero sí la durabilidad esperada a largo plazo.` },
+      { type: "p", content: `**¿Necesitás trasladarla seguido?** Si vas a mover el balde de ambiente en ambiente, unas ruedas en la base (como las del Santech) evitan tener que levantarlo con agua adentro.` },
+
+      { type: "h2", title: `El ranking: las 4 que comparamos`, id: "ranking" },
+
+      { type: "h3", title: `1. Hogar Actual — la más vendida` },
+      { type: "product-card", productMlaId: "MLAU3394839069", label: "La más vendida", labelColor: "green", ranking: 1, description: `Balde mopa centrífugo, acero inoxidable, mango de 1,45 m. {{rating:MLAU3394839069}} estrellas en {{reviews:MLAU3394839069}} calificaciones, insignia de más vendido.` },
+      { type: "pull-quote", content: `Lo amo, odio tocar el trapo mojado y sucio esto me solucionó la vida. Limpias en un toque, me arrepiento de no haberlo comprado antes.`, attribution: `— Compradora verificada en MercadoLibre` },
+      { type: "p", content: `Tiene la insignia de más vendido de MercadoLibre y la base de opiniones más consolidada entre las mopas de tipo centrífugo: {{reviews:MLAU3394839069}} calificaciones a {{rating:MLAU3394839069}} estrellas. Balde y tambor de acero inoxidable, a alrededor de {{precio:MLAU3394839069:k}}.` },
+      { type: "p", content: `Lo honesto: una reseña real avisa que la publicación promete 4 repuestos de mopa pero llegaron solo 2 — conviene confirmar antes de comprar.` },
+
+      { type: "h3", title: `2. Santech — la más económica` },
+      { type: "product-card", productMlaId: "MLA72997517", label: "La más económica", labelColor: "blue", ranking: 2, description: `Balde con ruedas, mango largo, 2 mopas de repuesto lavables. {{rating:MLA72997517}} estrellas en {{reviews:MLA72997517}} calificaciones.` },
+      { type: "pull-quote", content: `El palo es re largo. Tuve varias mopas y todas eran cortitas y te daba dolor de cintura. Esta me gusta mucho más.`, attribution: `— Compradora verificada en MercadoLibre` },
+      { type: "p", content: `Es la más económica de esta comparativa, a alrededor de {{precio:MLA72997517:k}}, con ruedas propias en el balde (igual que el Hogar Actual). Varias reseñas destacan el mango más largo que el de otras mopas.` },
+      { type: "p", content: `Lo honesto: su base de opiniones ({{reviews:MLA72997517}}) es más chica que la del Hogar Actual o el Shopping Digital, y el mango no es regulable en altura.` },
+
+      { type: "h3", title: `3. ST Smart Tech — sin balde` },
+      { type: "product-card", productMlaId: "MLA34015297", label: "Sin balde", labelColor: "purple", ranking: 3, description: `Mopa plana con rociador incorporado, sin balde, botella recargable. {{rating:MLA34015297}} estrellas en {{reviews:MLA34015297}} calificaciones.` },
+      { type: "pull-quote", content: `Súper práctico para limpiar los pisos, trapeo mucho más rápido que cuando lo hago con balde y trapo de pisos. No es para limpieza profunda, es más para mantener.`, attribution: `— Compradora verificada en MercadoLibre` },
+      { type: "p", content: `Es la única de esta comparativa que no usa balde: se recarga con una botella incorporada al mango y rocía con un gatillo, a alrededor de {{precio:MLA34015297:k}}. Ideal para mantenimiento rápido diario.` },
+      { type: "p", content: `Lo honesto: varias reseñas coinciden en que no reemplaza una limpieza profunda — si hay manchas pegadas, hay que refregar a mano con el paño.` },
+
+      { type: "h3", title: `4. Shopping Digital — la más elegida` },
+      { type: "product-card", productMlaId: "MLA47004067", label: "La más elegida", labelColor: "amber", ranking: 4, description: `Mopa plana con balde escurridor de plástico, cabezal de 33 cm. {{rating:MLA47004067}} estrellas en {{reviews:MLA47004067}} calificaciones, la base más grande de esta comparativa.` },
+      { type: "pull-quote", content: `No te tenés que agachar, escurre muy bien. Probé con otras diferentes y esta mopa fue la que mejor funcionó.`, attribution: `— Compradora verificada en MercadoLibre` },
+      { type: "p", content: `Tiene por lejos la base de opiniones más grande de esta comparativa: {{reviews:MLA47004067}} calificaciones a {{rating:MLA47004067}} estrellas. Cabezal plano de 33 cm, más ancho que el de las centrífugas redondas, a alrededor de {{precio:MLA47004067:k}}, la más cara de esta guía.` },
+      { type: "p", content: `Lo honesto: varias reseñas avisan que el secado no es perfecto (el agua limpia se mezcla con la sucia en el balde), y una reseña real reportó que el mango se rompió con uso normal.` },
+
+      { type: "h2", title: `Tabla comparativa: mopas`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Sistema`, `Balde`, `Ideal para`], rows: [
+        [`[Hogar Actual](https://meli.la/1qxsCSo)`, `{{precio:MLAU3394839069}}`, `Centrífuga redonda`, `Acero inoxidable`, `La más vendida`],
+        [`[Santech](https://meli.la/1doGjys)`, `{{precio:MLA72997517}}`, `Centrífuga redonda`, `Plástico, con ruedas`, `El precio más bajo`],
+        [`[ST Smart Tech](https://meli.la/1yfT7Ee)`, `{{precio:MLA34015297}}`, `Spray, plana`, `Sin balde`, `Mantenimiento rápido`],
+        [`[Shopping Digital](https://meli.la/2DAY3E3)`, `{{precio:MLA47004067}}`, `Plana`, `Plástico`, `Más opiniones reales`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu mopa`, id: "como-elegir" },
+      { type: "h3", title: `1. ¿Limpieza diaria o profunda?` },
+      { type: "p", content: `Para mantenimiento rápido sin mojarte las manos ni cargar balde, la [ST Smart Tech](/producto/mopa-trapeador-spray-rociador-giratoria-360-lampazo-lv-s02-smart-tech-mla34015297) es la más práctica. Para una limpieza más a fondo, con más volumen de agua disponible, cualquiera de las tres con balde ([Hogar Actual](/producto/combo-hogar-actual-balde-mopa-centrifugo-mas-4-mopas-repuesto-mlau3394839069), [Santech](/producto/set-mopa-centrifuga-360-balde-mas-2-mopas-con-ruedas-santech-verde-mla72997517) o [Shopping Digital](/producto/trapeador-mopa-con-balde-escurridor-mas-4-repuestos-crema-mla47004067)) rinde mejor.` },
+      { type: "h3", title: `2. ¿Cabezal redondo o plano?` },
+      { type: "list", items: [
+        `Redondo (spin mop): [Hogar Actual](/producto/combo-hogar-actual-balde-mopa-centrifugo-mas-4-mopas-repuesto-mlau3394839069) y [Santech](/producto/set-mopa-centrifuga-360-balde-mas-2-mopas-con-ruedas-santech-verde-mla72997517), buenos para esquinas y rincones.`,
+        `Plano, más ancho: [Shopping Digital](/producto/trapeador-mopa-con-balde-escurridor-mas-4-repuestos-crema-mla47004067) (33 cm) y [ST Smart Tech](/producto/mopa-trapeador-spray-rociador-giratoria-360-lampazo-lv-s02-smart-tech-mla34015297), cubren más superficie por pasada.`,
+      ]},
+      { type: "h3", title: `3. ¿Vas a trasladar el balde seguido?` },
+      { type: "p", content: `El [Santech](/producto/set-mopa-centrifuga-360-balde-mas-2-mopas-con-ruedas-santech-verde-mla72997517) y el [Hogar Actual](/producto/combo-hogar-actual-balde-mopa-centrifugo-mas-4-mopas-repuesto-mlau3394839069) declaran ruedas en el balde en su ficha técnica, así que se trasladan sin levantarlos. Una reseña real del [Shopping Digital](/producto/trapeador-mopa-con-balde-escurridor-mas-4-repuestos-crema-mla47004067) también menciona rueditas en el balde, aunque no figura en su ficha técnica — confirmalo en la publicación si es un dato clave para vos.` },
+      { type: "h3", title: `4. Material del balde` },
+      { type: "p", content: `El [Hogar Actual](/producto/combo-hogar-actual-balde-mopa-centrifugo-mas-4-mopas-repuesto-mlau3394839069) tiene balde y tambor de acero inoxidable; el [Shopping Digital](/producto/trapeador-mopa-con-balde-escurridor-mas-4-repuestos-crema-mla47004067), de plástico. No cambia la función inmediata, pero el acero suele durar más con uso frecuente.` },
+
+      { type: "h2", title: `Cuánto cuesta una mopa en Argentina [septiembre 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de {{precio:MLA72997517:k}}:** la [Santech](/producto/set-mopa-centrifuga-360-balde-mas-2-mopas-con-ruedas-santech-verde-mla72997517), la más económica de esta guía.`,
+        `**Alrededor de {{precio:MLAU3394839069:k}}:** la [Hogar Actual](/producto/combo-hogar-actual-balde-mopa-centrifugo-mas-4-mopas-repuesto-mlau3394839069), la más vendida.`,
+        `**Alrededor de {{precio:MLA34015297:k}}:** la [ST Smart Tech](/producto/mopa-trapeador-spray-rociador-giratoria-360-lampazo-lv-s02-smart-tech-mla34015297), sin balde.`,
+        `**Alrededor de {{precio:MLA47004067:k}}:** la [Shopping Digital](/producto/trapeador-mopa-con-balde-escurridor-mas-4-repuestos-crema-mla47004067), la más cara y con más opiniones.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál mopa comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la mayoría, la **[Hogar Actual](/producto/combo-hogar-actual-balde-mopa-centrifugo-mas-4-mopas-repuesto-mlau3394839069)**: la más vendida, con balde de acero inoxidable y buen respaldo de opiniones, aunque conviene confirmar la cantidad real de repuestos incluidos. Si priorizás el precio, la **[Santech](/producto/set-mopa-centrifuga-360-balde-mas-2-mopas-con-ruedas-santech-verde-mla72997517)**, con ruedas y mango largo. Si buscás algo rápido para el día a día sin balde, la **[ST Smart Tech](/producto/mopa-trapeador-spray-rociador-giratoria-360-lampazo-lv-s02-smart-tech-mla34015297)**, sabiendo que no reemplaza una limpieza profunda. Y si preferís la opción más probada por miles de compradores reales, la **[Shopping Digital](/producto/trapeador-mopa-con-balde-escurridor-mas-4-repuestos-crema-mla47004067)**, aunque el secado no es perfecto y es la más cara de las 4.` },
+    ],
+    faq: [
+      { question: `¿Cuál es la mopa más vendida de MercadoLibre Argentina?`, answer: `De esta comparativa, la [Hogar Actual](/producto/combo-hogar-actual-balde-mopa-centrifugo-mas-4-mopas-repuesto-mlau3394839069): tiene la insignia de más vendido y {{reviews:MLAU3394839069}} opiniones, la base más grande entre las de tipo centrífugo.` },
+      { question: `¿Qué diferencia hay entre una mopa centrífuga y una spray?`, answer: `La centrífuga (como la [Hogar Actual](/producto/combo-hogar-actual-balde-mopa-centrifugo-mas-4-mopas-repuesto-mlau3394839069) o el [Santech](/producto/set-mopa-centrifuga-360-balde-mas-2-mopas-con-ruedas-santech-verde-mla72997517)) usa un balde con agua y escurre girando. La spray (como la [ST Smart Tech](/producto/mopa-trapeador-spray-rociador-giratoria-360-lampazo-lv-s02-smart-tech-mla34015297)) no usa balde: se recarga con una botella incorporada y rocía con un gatillo, ideal para mantenimiento rápido pero no para limpieza profunda.` },
+      { question: `¿Hay alguna mopa con ruedas para trasladar el balde?`, answer: `Sí, tanto el [Santech](/producto/set-mopa-centrifuga-360-balde-mas-2-mopas-con-ruedas-santech-verde-mla72997517) como el [Hogar Actual](/producto/combo-hogar-actual-balde-mopa-centrifugo-mas-4-mopas-repuesto-mlau3394839069) declaran ruedas en el balde en su ficha técnica.` },
+      { question: `¿Cuál es la mopa con más opiniones reales?`, answer: `La [Shopping Digital](/producto/trapeador-mopa-con-balde-escurridor-mas-4-repuestos-crema-mla47004067), con {{reviews:MLA47004067}} calificaciones, muy por encima de las otras 3 de esta comparativa.` },
+      { question: `¿El balde de las mopas es de acero o plástico?`, answer: `Depende del modelo: el [Hogar Actual](/producto/combo-hogar-actual-balde-mopa-centrifugo-mas-4-mopas-repuesto-mlau3394839069) tiene balde y tambor de acero inoxidable; el [Shopping Digital](/producto/trapeador-mopa-con-balde-escurridor-mas-4-repuestos-crema-mla47004067) y el [Santech](/producto/set-mopa-centrifuga-360-balde-mas-2-mopas-con-ruedas-santech-verde-mla72997517), de plástico. La [ST Smart Tech](/producto/mopa-trapeador-spray-rociador-giratoria-360-lampazo-lv-s02-smart-tech-mla34015297) no usa balde.` },
+      { question: `¿Conviene la mopa sin balde para limpieza a fondo?`, answer: `No del todo: varias reseñas reales de la [ST Smart Tech](/producto/mopa-trapeador-spray-rociador-giratoria-360-lampazo-lv-s02-smart-tech-mla34015297) avisan que si el piso tiene manchas pegadas, hay que refregar con el paño y la mano. Para limpieza profunda, una mopa con balde tradicional rinde mejor.` },
+    ],
+    internalLinks: [
+      { label: "Cómoda: cuál comprar en Argentina", href: "/guias/hogar-jardin/comoda" },
+      { label: "Mesa ratona: cuál comprar en Argentina", href: "/guias/hogar-jardin/mesa-ratona" },
+      { label: "Puff: cuál comprar en Argentina", href: "/guias/hogar-jardin/puff" },
       { label: "Tacho de basura: cuál comprar en Argentina", href: "/guias/hogar-jardin/tacho-de-basura" },
     ],
     internalLinksTitle: "Más de hogar y jardín",
