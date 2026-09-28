@@ -4479,4 +4479,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "17",
     postedAt: "2026-09-26T09:35:34-03:00",
   },
+  {
+    title: "Super Mario Galaxy + Galaxy 2 Nintendo Switch (Físico)",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_636639-MLA99542553282_122025-O.webp",
+    affiliateUrl: "https://meli.la/1CvZ4ns",
+    newPrice: "132.015",
+    oldPrice: "208.999",
+    offPct: "36",
+    postedAt: "2026-09-28T08:48:29-03:00",
+  },
 ];
