@@ -67,3 +67,13 @@ Primera tanda del día (lunes), tras un salto de 2 días desde la última tanda 
 | Notebook Gfast Ryzen 5 8GB RAM 240GB SSD 15.6" | $817.125 (19,7% OFF, Tienda oficial PC Center Computers) | meli.la/1h2poxu |
 | Microondas Midea 20L Mecánico | $159.999 (24% OFF) | meli.la/1YwNEiy |
 | Smart TV Noblex 50" 4K UHD Google TV | $698.999 (25% OFF, Tienda oficial Electro Outlet) | meli.la/2if1oEX |
+
+### 2026-09-28 16:38 — Tarde (sourceada al mediodía, retomada por corte de sesión)
+
+Sourcing hecho ~12:00hs (Freidora Suono, Sillón Nictom, Aspiradora Fika) pero la publicación quedó cortada por un corte de sesión justo en el diálogo de adjuntar archivo del item 1 — se retomó a las 16:34, ya en el horario de la franja tarde (16:40), por lo que esta tanda cubre ambos horarios. Antes de publicar se re-verificaron los 3 productos en vivo: la Freidora Suono mantuvo precio idéntico pero el stock bajó de "ÚLTIMAS 5" a "¡ÚLTIMA UNIDAD!" real; el Sillón Nictom cambió de verdad — a mediodía no tenía descuento propio en la ficha (vendedor NYT SRL, $249.999 sin tachado), a la tarde mostraba 27% OFF real con nuevo vendedor ganador del buy-box (Tienda oficial Muar, $249.999→$182.359, ÚLTIMAS 4) — se regeneró el asset con el precio y vendedor reales; la Aspiradora Fika SENSE mantuvo precio idéntico. Sin repetir nada de las tandas anteriores ni de Threads (últimas 48hs). Links generados con el linkbuilder de afiliados, etiqueta "instagram".
+
+| Producto | Precio | Link |
+|---|---|---|
+| Freidora de Aire Suono 9L Flip Grill | $127.399 (42% OFF, ¡ÚLTIMA UNIDAD! real) | meli.la/26EqBMN |
+| Sillón Ejecutivo Respaldo Masajeador Nictom | $182.359 (27% OFF, Tienda oficial Muar) | meli.la/2f2EgJG |
+| Aspiradora Robot Trapeadora Fika SENSE | $161.999 (35% OFF) | meli.la/1Bo6L7S |
