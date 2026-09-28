@@ -57,3 +57,13 @@ Primera tanda del día (sábado). Juan pasó el cupón MELI10OFF ($15.000 OFF, m
 | Monitor Curvo Gamer X-Micro 24" 120Hz Full HD | $171.398 (20% OFF) | meli.la/1xhNUnX |
 | Cafetera Espresso Vintage Suono 20 Bar | $112.899 (56% OFF) | meli.la/195A1b5 |
 | Smart TV Hisense 43" Full HD 43A42K | $429.999 (10% OFF, 1P — Tienda oficial Mercado Libre) | meli.la/32pRQSf |
+
+### 2026-09-28 08:37 — Mañana
+
+Primera tanda del día (lunes), tras un salto de 2 días desde la última tanda registrada (sábado). Había un candidato armado el sábado (Lavavajillas Whirlpool) pero quedó descartado por stale — 2 días sin re-verificar precio/stock, se prefirió sourcear todo de cero para el lunes. Sin repetir nada de las tandas anteriores ni de Threads (últimas 48hs). Links generados con el linkbuilder de afiliados, etiqueta "instagram".
+
+| Producto | Precio | Link |
+|---|---|---|
+| Notebook Gfast Ryzen 5 8GB RAM 240GB SSD 15.6" | $817.125 (19,7% OFF, Tienda oficial PC Center Computers) | meli.la/1h2poxu |
+| Microondas Midea 20L Mecánico | $159.999 (24% OFF) | meli.la/1YwNEiy |
+| Smart TV Noblex 50" 4K UHD Google TV | $698.999 (25% OFF, Tienda oficial Electro Outlet) | meli.la/2if1oEX |
