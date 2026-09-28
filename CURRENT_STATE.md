@@ -1,7 +1,26 @@
 # Estado actual
 
 > Snapshot del proyecto. Se actualiza al final de cada sesión.
-> Última actualización: 2026-09-28 — Checklist del reporte SEO semanal: refresh de stock/reseñas en microondas, yogurtera-daewoo, atma-freidoras-de-aire-review y silla-gamer. Encontró 2 problemas reales de stock (yogurtera Daewoo Yoggy Pro dada de baja, freidora Atma FR248ABP negra devaluada a vendedores marginales) que requirieron reescribir 2 guías, sourcear 2 fichas nuevas, y propagar el cambio de pick Atma a las 18 guías del sitio que citaban el modelo devaluado. Ver detalle abajo.
+> Última actualización: 2026-09-28 — Guía nueva "Escurridor de platos: cuál comprar" (silo hogar-jardin, 4 fichas nuevas, sourcing en vivo), continuando la estrategia de contenido. Antes en la misma sesión: checklist del reporte SEO semanal con 2 hallazgos de stock (yogurtera Daewoo Yoggy Pro dada de baja, freidora Atma FR248ABP negra devaluada) que requirieron reescribir 2 guías, sourcear 2 fichas nuevas, y propagar el cambio de pick a las 18 guías del sitio que citaban el modelo devaluado. Ver detalle abajo.
+
+## Sesión 2026-09-28 (continuación) — Guía nueva: Escurridor de platos
+
+### LO QUE SE HIZO
+
+Siguiente ítem del backlog de contenido (`docs/keywords-verificadas-2026-08-15.md`): **`escurridor de platos`** (9.900/mes, SERP limpio verificado en agosto: Sodimac, Tramontina oficial, ML, Bazar Celta, sin comparador editorial). Se sumó al silo `hogar-jardin` existente (junto a tupper, tacho-de-basura, zapatero, mesa-ratona) en vez de abrir el silo nuevo "bazar/cocina" que proponía el research original — mismo criterio ya usado con `tupper`, para no dejar una guía huérfana sin enlazado recíproco en un sitio DA1 sin backlinks.
+
+Sourcing nuevo en vivo (4 fichas): **Kunst & Küche 2 Niveles** (el más vendido, badge MÁS VENDIDO 8° en Secaplatos, +10 mil vendidos, 3.531 calificaciones), **Rack MP Todo Import sobre bacha** (único que se instala arriba de la pileta en vez de la mesada, badge MÁS VENDIDO 18°), **Homeflex Extensible Plegable** (la mejor calificación 4.9★, único que se anuncia extensible/plegable, honestamente marcado con stock bajo — 4 unidades al verificar), y **Pontec ESC100** (el más económico, tienda oficial, con la honestidad de que su bandeja es de plástico y requiere armado). Enlazado recíproco agregado: la guía nueva linkea a tupper/tacho-de-basura/zapatero/mesa-ratona, y se sumó un link nuevo desde `tupper` hacia esta guía.
+
+### VERIFICACIÓN
+
+`npx tsc --noEmit`, `npm run build`, y los 8 scripts de `guides:check` corridos individualmente, todos en verde. Trío auditor: **4 rondas hasta doble GO** — agy falló en la ronda 1 por permisos en modo headless (se resolvió con `--dangerously-skip-permissions` desde la ronda 2). El patrón principal detectado y corregido: varios claims "los cuatro..." que en realidad aplicaban a 3 de 4 productos (capacidad, material), dos cálculos de "casi el triple" matemáticamente incorrectos (la diferencia real era 4,65×), y una contradicción real entre fichas (los `cons` de una ficha excluían arbitrariamente a la más chica de la comparación para forzar un superlativo). Detalle completo en `docs/seo-tracking-optimizaciones.md`.
+
+### LO QUE QUEDA ABIERTO
+
+- De la estrategia original de agosto queda pendiente: `cartuchera` (14.800/mes, útiles escolares, silo nuevo "librería/oficina", pico real feb-mar — mejor esperar más cerca de esa fecha).
+- Sin commitear todavía: diff mostrado a Juan, pendiente de aprobación explícita antes de pushear y correr `npm run indexnow`.
+
+---
 
 ## Sesión 2026-09-28 — Refresh de 4 guías vencidas + 2 hallazgos de stock
 

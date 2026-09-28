@@ -27506,6 +27506,130 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { label: "Tacho de basura: cuál comprar en Argentina", href: "/guias/hogar-jardin/tacho-de-basura" },
       { label: "Zapatero: cuál comprar en Argentina", href: "/guias/hogar-jardin/zapatero" },
       { label: "Mesa ratona: cuál comprar en Argentina", href: "/guias/hogar-jardin/mesa-ratona" },
+      { label: "Escurridor de platos: cuál comprar en Argentina", href: "/guias/hogar-jardin/escurridor-de-platos" },
+    ],
+    internalLinksTitle: "Más de hogar y jardín",
+  },
+  // Guía nueva escurridor-de-platos — silo hogar-jardin (existente, con
+  // tupper, tacho-de-basura, zapatero, mesa-ratona). Origen: research de
+  // keywords 2026-08-15, "escurridor de platos" 9.900/mes, SERP limpio.
+  // 4 fichas nuevas, sourcing en vivo el 2026-09-28.
+  {
+    slug: "escurridor-de-platos",
+    category: "escurridores-de-platos",
+    silo: "hogar-jardin",
+    pillar: true,
+    title: `Escurridor de platos: cuál comprar en Argentina [2026]`,
+    seoTitle: `Escurridor de Platos: Cuál Comprar en Argentina [2026]`,
+    metaDescription: `Comparamos 4 escurridores de platos reales de MercadoLibre: el más vendido, el que se instala sobre la pileta, el extensible y el más económico.`,
+    ogTitle: `Escurridor de platos: cuál comprar en Argentina`,
+    ogDescription: `Del más vendido (más de 10 mil unidades) al que se instala arriba de la pileta y libera la mesada: 4 escurridores comparados por respaldo real de reseñas, con contras honestos incluidos.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_873944-MLA95524972658_102025-F.webp`,
+    h1: `Escurridor de platos: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene el **[Kunst & Küche de 2 niveles](/producto/secaplatos-escurridor-cubiertos-2-niveles-organizador-cocina-color-negro-mla44390403)** (alrededor de {{precio:MLA44390403:k}}): el más vendido de esta comparativa, con {{reviews:MLA44390403}} opiniones y más de 10 mil unidades vendidas. Si tu mesada es chica, el **[Rack sobre bacha de MP Todo Import](/producto/rack-escurridor-de-platos-sobre-bacha-65cm-acero-inoxidable-mlau3374399366)** (alrededor de {{precio:MLAU3374399366:k}}) se instala arriba de la pileta y libera todo ese espacio. Si buscás la mejor calificación y algo que se ajuste de tamaño, el **[Homeflex extensible y plegable](/producto/escurridor-platos-acero-inoxidable-extensible-plegable-gris-claro-mla54275955)** (alrededor de {{precio:MLA54275955:k}}). Y si priorizás el precio más bajo, el **[Pontec ESC100](/producto/escurridor-seca-platos-con-bandeja-color-negro-pontec-esc100-mla44264986)** (alrededor de {{precio:MLA44264986:k}}).`,
+    publishedDate: "2026-09-28",
+    updatedDate: "2026-09-28",
+    hasDisclosure: true,
+    readingTime: 7,
+    standfirst: `Hay escurridores desde {{precio:MLA44264986:k}} hasta {{precio:MLA54275955:k}}, con formatos que van del clásico de apoyar en la mesada al que se cuelga arriba de la pileta. Comparamos 4 publicaciones con respaldo real de compradores de MercadoLibre Argentina, con las contras que no siempre cuentan.`,
+    quickPicks: [
+      { productMlaId: "MLA44390403", label: "El más vendido", labelColor: "green", tagline: "Kunst & Küche: 2 niveles, +10 mil vendidos" },
+      { productMlaId: "MLAU3374399366", label: "Ahorra espacio", labelColor: "blue", tagline: "Rack sobre bacha: se instala arriba de la pileta" },
+      { productMlaId: "MLA54275955", label: "El más versátil", labelColor: "purple", tagline: "Homeflex: extensible y plegable, la mejor nota" },
+      { productMlaId: "MLA44264986", label: "El más económico", labelColor: "amber", tagline: "Pontec ESC100: compacto y con tienda oficial" },
+    ],
+    intro: [
+      `Un escurridor de platos parece el electrodoméstico más simple de la cocina, pero elegir mal tiene consecuencias reales: uno que no drena bien deja charcos en la mesada, uno mal dimensionado no entra en tu pileta, y uno de mala calidad se empieza a oxidar a los pocos meses.`,
+      `Esta guía compara 4 escurridores con respaldo real de compradores en MercadoLibre Argentina, desde el clásico de apoyar en la mesada hasta el que se instala arriba de la pileta para no ocupar espacio, para que elijas según tu cocina y tu presupuesto.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_873944-MLA95524972658_102025-F.webp", alt: `Escurridor de platos Kunst & Küche de 2 niveles, el más vendido de esta comparativa`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría conviene el **Kunst & Küche de 2 niveles**, el más vendido con más de 10 mil unidades y {{reviews:MLA44390403}} opiniones. Si tu mesada es chica, el **Rack sobre bacha** libera ese espacio instalándose arriba de la pileta.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** analizamos 4 escurridores con ventas y calificaciones reales en MercadoLibre Argentina, mirando capacidad, material, sistema de drenaje y qué dicen las reseñas de compradores reales, con las contras incluidas. Los precios que ves en las fichas y tablas se revisan contra MercadoLibre tres veces por semana.` },
+
+      { type: "h2", title: `Qué mirar antes de comprar un escurridor`, id: "que-mirar" },
+      { type: "p", content: `**Formato: mesada o sobre bacha.** La mayoría se apoya sobre la mesada, pero también existen los que se instalan arriba de la pileta y drenan directo a ella. Si tu cocina es chica, un modelo sobre bacha libera espacio real de trabajo; si tenés mesada de sobra, el formato tradicional es más simple de instalar y mover.` },
+      { type: "p", content: `**Material: acero inoxidable de verdad, no solo la bandeja.** Tres de los cuatro declaran acero inoxidable en la estructura; el Pontec declara metal en general (sin especificar acero inoxidable) y bandeja de plástico, según confirma una reseña real. No es necesariamente un problema, pero conviene saberlo si buscás que absolutamente todo sea acero inoxidable.` },
+      { type: "p", content: `**Capacidad declarada vs. capacidad real.** Tres de los cuatro declaran capacidad en cantidad de platos (de 12 a 15); el que se instala sobre la pileta no declara ese dato, solo sus dimensiones. En los que sí la declaran, el espacio real depende de cuánto uses el nivel inferior para vasos, cuencos y cubiertos. Una reseña real de esta comparativa avisa que la altura entre pisos puede quedar justa según qué apiles abajo.` },
+
+      { type: "h2", title: `El ranking: los 4 que comparamos`, id: "ranking" },
+
+      { type: "h3", title: `1. Kunst & Küche 2 Niveles — el más vendido` },
+      { type: "product-card", productMlaId: "MLA44390403", label: "El más vendido", labelColor: "green", ranking: 1, description: `2 niveles, acero inoxidable, con cubertero y drenaje automático de 360°. {{rating:MLA44390403}} estrellas en {{reviews:MLA44390403}} calificaciones.` },
+      { type: "pull-quote", content: `Estéticamente es robusto, moderno y minimalista, en cuanto a su tamaño, es amplio... el sistema de drenaje es novedoso aunque debería ser más notable y profundo el punto que desagota la bandeja y debería tener encastre entre la estructura y la bandeja ya que queda suelto.`, attribution: `— Comprador verificado en MercadoLibre, 35 personas lo encontraron útil` },
+      { type: "p", content: `Es el escurridor con más respaldo real de esta comparativa: más de 10 mil unidades vendidas y {{reviews:MLA44390403}} calificaciones, con la insignia de más vendido (8° puesto general) en la categoría Secaplatos de MercadoLibre. Trae cubertero, drenaje automático de 360°, capacidad para 13 platos arriba y 18 cuencos abajo, a alrededor de {{precio:MLA44390403:k}}.` },
+      { type: "p", content: `Lo honesto: la reseña más votada de la ficha (35 votos útiles) avisa que la altura entre el piso superior y el inferior es baja, y que la bandeja de drenaje no encastra firme en la estructura, así que puede quedar un poco suelta.` },
+
+      { type: "h3", title: `2. Rack sobre bacha — ahorra espacio de mesada` },
+      { type: "product-card", productMlaId: "MLAU3374399366", label: "Ahorra espacio", labelColor: "blue", ranking: 2, description: `Se instala arriba de la pileta, 65 cm de ancho, acero inoxidable con portacubiertos y ganchos. {{rating:MLAU3374399366}} estrellas en {{reviews:MLAU3374399366}} calificaciones.` },
+      { type: "pull-quote", content: `Muy lindo y útil!. Es fácil de armar y funciona bastante para darle orden a la cocina. Les aconsejo que midan muy bien el espacio, ya que puede quedar justo y dejar espacio para colocar los platos arriba.`, attribution: `— Comprador verificado en MercadoLibre` },
+      { type: "p", content: `Es el único de esta comparativa pensado para ahorrar espacio de mesada: se instala arriba de la pileta y drena directo a ella. Trae portacubiertos y ganchos para tazas, a alrededor de {{precio:MLAU3374399366:k}}.` },
+      { type: "p", content: `Lo honesto: el ancho es fijo (65 cm), así que una reseña real aconseja medir bien el espacio de tu pileta antes de comprar, porque puede quedar justo.` },
+
+      { type: "h3", title: `3. Homeflex extensible y plegable — la mejor calificación` },
+      { type: "product-card", productMlaId: "MLA54275955", label: "El más versátil", labelColor: "purple", ranking: 3, description: `Extensible y plegable, 2 niveles con cubertero, acero inoxidable. {{rating:MLA54275955}} estrellas en {{reviews:MLA54275955}} calificaciones, la mejor nota de esta comparativa.` },
+      { type: "pull-quote", content: `Estoy encantada con este escurridor. Es súper práctico, todo el agua que chorrea va directo a la bacha, el porta cubiertos queda super fijo si se coloca correctamente. Por ahora no se oxidó ni un poco.`, attribution: `— Compradora verificada en MercadoLibre` },
+      { type: "p", content: `Tiene la mejor calificación de esta comparativa ({{rating:MLA54275955}} estrellas) y es el único que se anuncia extensible y plegable, a alrededor de {{precio:MLA54275955:k}}, el más caro de esta guía.` },
+      { type: "p", content: `Lo honesto: al verificar quedaban solo 4 unidades en stock, y su base de opiniones ({{reviews:MLA54275955}}) es bastante más chica que la del Kunst & Küche.` },
+
+      { type: "h3", title: `4. Pontec ESC100 — el más económico` },
+      { type: "product-card", productMlaId: "MLA44264986", label: "El más económico", labelColor: "amber", ranking: 4, description: `Compacto, capacidad para 15 platos, tienda oficial. {{rating:MLA44264986}} estrellas en {{reviews:MLA44264986}} calificaciones.` },
+      { type: "pull-quote", content: `Todo metal bien pintado, bandeja de plástico. Único que vi que se puede trasladar con la bandeja y cosas escurriendo. Pude enganchar bolws grandes y bandejas.`, attribution: `— Comprador verificado en MercadoLibre` },
+      { type: "p", content: `Es el más económico de esta comparativa, a alrededor de {{precio:MLA44264986:k}}, vendido por la tienda oficial de Pontec. Compacto pero con la capacidad declarada más alta de esta guía (15 platos).` },
+      { type: "p", content: `Lo honesto: la estructura es de metal pero la bandeja es de plástico, y requiere armado simple con destornillador (incluido). Su base de opiniones (39) es la más chica de esta comparativa.` },
+
+      { type: "h2", title: `Tabla comparativa: escurridores de platos`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Formato`, `Capacidad`, `Ideal para`], rows: [
+        [`[Kunst & Küche](https://meli.la/332xziG)`, `{{precio:MLA44390403}}`, `2 niveles, mesada`, `13 platos + 18 cuencos`, `El más vendido`],
+        [`[Rack sobre bacha](https://meli.la/1L35WMP)`, `{{precio:MLAU3374399366}}`, `Sobre pileta`, `No declarada`, `Ahorrar espacio de mesada`],
+        [`[Homeflex](https://meli.la/2uUCKtq)`, `{{precio:MLA54275955}}`, `2 niveles, extensible`, `12 platos`, `La mejor calificación`],
+        [`[Pontec ESC100](https://meli.la/12Z6GUj)`, `{{precio:MLA44264986}}`, `Compacto, mesada`, `15 platos`, `El más económico`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu escurridor`, id: "como-elegir" },
+      { type: "h3", title: `1. ¿Mesada o sobre pileta?` },
+      { type: "p", content: `Si tu cocina es chica y la mesada es un bien escaso, el [Rack sobre bacha](/producto/rack-escurridor-de-platos-sobre-bacha-65cm-acero-inoxidable-mlau3374399366) libera ese espacio instalándose arriba de la pileta, aunque tenés que medir bien el ancho de tu bacha antes de comprarlo (mide 65 cm fijos). Si preferís algo más simple de instalar y mover, cualquiera de los otros tres, pensados para apoyar sobre la mesada, cumple.` },
+      { type: "h3", title: `2. ¿Cuánto volumen de platos manejás por vez?` },
+      { type: "list", items: [
+        `Para el uso diario de una familia: el [Kunst & Küche](/producto/secaplatos-escurridor-cubiertos-2-niveles-organizador-cocina-color-negro-mla44390403), con 13 platos arriba y 18 cuencos abajo, es el más probado y con más margen de capacidad.`,
+        `Para espacio ajustado con buena capacidad declarada: el [Pontec ESC100](/producto/escurridor-seca-platos-con-bandeja-color-negro-pontec-esc100-mla44264986), compacto (42x27x17cm) pero con 15 platos declarados.`,
+        `Para quien no lo usa siempre armado: el [Homeflex](/producto/escurridor-platos-acero-inoxidable-extensible-plegable-gris-claro-mla54275955) es el único que se pliega para guardar.`,
+      ]},
+      { type: "h3", title: `3. Material: toda la pieza en acero, o solo la estructura` },
+      { type: "p", content: `El Kunst & Küche, el Rack sobre bacha y el Homeflex declaran acero inoxidable como material. El Pontec declara metal en general (sin especificar acero inoxidable) y, según confirma una reseña real, su bandeja de recolección es de plástico — no afecta la función, pero es una diferencia real si buscás todo en acero.` },
+      { type: "h3", title: `4. Mantenimiento básico` },
+      { type: "list", items: [
+        `Secar la bandeja de drenaje seguido evita que se acumule agua estancada, sobre todo en los modelos donde la bandeja no encastra del todo firme.`,
+        `En el modelo sobre bacha, revisar que los agujeros de drenaje no se tapen con restos de comida.`,
+        `El acero inoxidable no se oxida con uso normal, pero conviene secarlo si no vas a usarlo por varios días seguidos.`,
+      ]},
+
+      { type: "h2", title: `Cuánto cuesta un escurridor de platos en Argentina [septiembre 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de {{precio:MLA44264986:k}}:** el [Pontec ESC100](/producto/escurridor-seca-platos-con-bandeja-color-negro-pontec-esc100-mla44264986), el más económico de esta guía.`,
+        `**Alrededor de {{precio:MLA44390403:k}}:** el [Kunst & Küche](/producto/secaplatos-escurridor-cubiertos-2-niveles-organizador-cocina-color-negro-mla44390403), el más vendido.`,
+        `**Alrededor de {{precio:MLAU3374399366:k}}:** el [Rack sobre bacha](/producto/rack-escurridor-de-platos-sobre-bacha-65cm-acero-inoxidable-mlau3374399366), para ahorrar espacio.`,
+        `**Alrededor de {{precio:MLA54275955:k}}:** el [Homeflex extensible](/producto/escurridor-platos-acero-inoxidable-extensible-plegable-gris-claro-mla54275955), el más caro y mejor calificado.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál escurridor comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la mayoría, el **[Kunst & Küche de 2 niveles](/producto/secaplatos-escurridor-cubiertos-2-niveles-organizador-cocina-color-negro-mla44390403)**: es el más vendido por lejos (más de 10 mil unidades) y con el mayor respaldo de opiniones, aunque una reseña real avisa que la altura entre pisos es baja y la bandeja no encastra del todo firme. Si tu mesada es chica, el **[Rack sobre bacha](/producto/rack-escurridor-de-platos-sobre-bacha-65cm-acero-inoxidable-mlau3374399366)** libera ese espacio instalándose arriba de la pileta, siempre que midas bien el ancho antes. Si priorizás la mejor calificación y algo que se pliegue para guardar, el **[Homeflex](/producto/escurridor-platos-acero-inoxidable-extensible-plegable-gris-claro-mla54275955)**, aunque es el más caro y con stock ajustado. Y si el precio manda, el **[Pontec ESC100](/producto/escurridor-seca-platos-con-bandeja-color-negro-pontec-esc100-mla44264986)** cumple, aunque su bandeja es de plástico y requiere armado.` },
+    ],
+    faq: [
+      { question: `¿Cuál es el escurridor de platos más vendido de MercadoLibre Argentina?`, answer: `De esta comparativa, es el [Kunst & Küche de 2 niveles](/producto/secaplatos-escurridor-cubiertos-2-niveles-organizador-cocina-color-negro-mla44390403): más de 10 mil unidades vendidas, {{reviews:MLA44390403}} calificaciones y la insignia de más vendido (8° puesto general) en la categoría Secaplatos de MercadoLibre.` },
+      { question: `¿Conviene un escurridor sobre la mesada o sobre la pileta?`, answer: `Depende de tu cocina. Sobre la pileta (como el [Rack de MP Todo Import](/producto/rack-escurridor-de-platos-sobre-bacha-65cm-acero-inoxidable-mlau3374399366)) libera espacio de mesada, ideal para cocinas chicas, pero exige medir bien el ancho de tu bacha primero. Sobre la mesada es más simple de instalar y mover.` },
+      { question: `¿Los escurridores de acero inoxidable se oxidan?`, answer: `Con uso normal y buen secado, no debería. Una reseña real del Homeflex confirma que después de varios meses de uso no mostró señales de óxido.` },
+      { question: `¿Cuántos platos entran en un escurridor promedio?`, answer: `Entre 12 y 15 platos en el nivel superior, según el modelo. El Pontec ESC100 declara la mayor capacidad (15) pese a ser más compacto (42x27x17cm) que el Rack sobre bacha y el Homeflex, los otros dos con dimensiones declaradas.` },
+      { question: `¿Qué escurridor conviene si tengo poco espacio en la cocina?`, answer: `El [Rack sobre bacha](/producto/rack-escurridor-de-platos-sobre-bacha-65cm-acero-inoxidable-mlau3374399366), porque se instala arriba de la pileta y no ocupa mesada, o el [Pontec ESC100](/producto/escurridor-seca-platos-con-bandeja-color-negro-pontec-esc100-mla44264986), más compacto que el Homeflex entre los que van sobre la mesada.` },
+      { question: `¿Vale la pena pagar más por el Homeflex extensible?`, answer: `Si valorás la mejor calificación de esta comparativa y querés algo que se ajuste de ancho o se guarde plegado, sí. Si priorizás el respaldo de miles de opiniones reales o el precio, el Kunst & Küche o el Pontec cumplen mejor esos objetivos.` },
+    ],
+    internalLinks: [
+      { label: "Tupper: cuál comprar en Argentina", href: "/guias/hogar-jardin/tupper" },
+      { label: "Tacho de basura: cuál comprar en Argentina", href: "/guias/hogar-jardin/tacho-de-basura" },
+      { label: "Zapatero: cuál comprar en Argentina", href: "/guias/hogar-jardin/zapatero" },
+      { label: "Mesa ratona: cuál comprar en Argentina", href: "/guias/hogar-jardin/mesa-ratona" },
     ],
     internalLinksTitle: "Más de hogar y jardín",
   },

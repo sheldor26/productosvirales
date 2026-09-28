@@ -2629,3 +2629,19 @@ Re-medir: pendiente de fijar fecha (recién publicada).
 **Verificación:** `npx tsc --noEmit`, `npm run build`, y los 6 scripts relevantes de `guides:check` en verde de punta a punta, incluido `check-guide-monetization.cjs` (los 4 afiliados ya cargados).
 
 Re-medir: pendiente de fijar fecha (recién publicada).
+
+## Guía nueva `escurridor-de-platos` — silo `hogar-jardin` (existente) — 2026-09-28
+
+| Guía | Silo | Categoría | Keyword del cluster | Volumen | SD | Productos |
+| :-- | :-- | :-- | :-- | --: | --: | --: |
+| `escurridor-de-platos` | hogar-jardin | escurridores-de-platos | escurridor de platos | 9.900/mes | — | 4 (sourcing nuevo) |
+
+**Baseline: cero.** URL nueva, sin historial en GSC. Origen: siguiente ítem del backlog de `docs/keywords-verificadas-2026-08-15.md`, verificado ese día (SERP limpio: Sodimac, Tramontina oficial, ML, Bazar Celta, sin comparador editorial real). Se sumó al silo `hogar-jardin` existente (junto a `tupper`, `tacho-de-basura`, `zapatero`, `mesa-ratona`) en vez de abrir el silo nuevo "bazar/cocina" que proponía el research original, mismo criterio ya usado con `tupper`.
+
+**Sourcing nuevo en vivo, 4 fichas (Chrome de Juan, ML bloquea el navegador interno):** Kunst & Küche 2 Niveles (MLA44390403, 4.4★/3.531, +10 mil vendidos, insignia MÁS VENDIDO 8° en Secaplatos, $32.099); Rack MP Todo Import sobre bacha (MLAU3374399366, 4.8★/161, +500 vendidos, insignia MÁS VENDIDO 18°, único que se instala arriba de la pileta, $51.980); Homeflex Extensible Plegable (MLA54275955, 4.9★/56, la mejor calificación, único extensible/plegable, honestidad sobre stock bajo — 4 unidades al verificar, $84.874); Pontec ESC100 (MLA44264986, 4.5★/39, tienda oficial, el más económico, bandeja de plástico y requiere armado según reseña real, $18.261). Afiliados generados en vivo con Juan (linkbuilder, etiqueta "productosvirales", verificados contra `/social/jm159?matt_word=productosvirales`): Kunst & Küche `meli.la/332xziG`, Rack `meli.la/1L35WMP`, Homeflex `meli.la/2uUCKtq`, Pontec `meli.la/12Z6GUj`.
+
+**Auditoría del trío: 4 rondas de Codex + agy con problemas técnicos en ronda 1 (falló por permisos headless, sin auditoría real) resuelto con `--dangerously-skip-permissions` desde la ronda 2.** El patrón de fondo fue distinto a las guías anteriores de la racha: no un superlativo mal acotado sobre un solo campo, sino varias afirmaciones "los cuatro..." que en realidad solo aplicaban a 3 de los 4 productos (capacidad en platos, acero inoxidable "en toda la pieza"), más dos claims matemáticamente incorrectos ("casi el triple" cuando la diferencia real era 4,65×) y dos comparaciones de tamaño no demostrables porque el producto más vendido (Kunst & Küche) no tiene dimensiones cargadas en su ficha. La ronda 2 sumó un hallazgo real de agy: los `cons` de Homeflex excluían arbitrariamente al Pontec de la comparación de volumen de opiniones ("las tres opciones sanas") para poder decir que Homeflex tenía la base más chica, cuando Pontec (39) es más chica que Homeflex (56) — contradecía directamente a la propia ficha de Pontec. La ronda 3 encontró 3 rastros sueltos de "más vendido de MercadoLibre Argentina" sin acotar a "esta comparativa" (alt de imagen, 2 FAQ, un seoTitle). La ronda 4 cerró con doble GO y una única mejora cosmética (una frase "sin derramar" que sobrevivió en dos lugares tras corregirse solo en los `pros`).
+
+**Verificación:** `npx tsc --noEmit`, `npm run build`, y los 8 scripts individuales de `guides:check` en verde de punta a punta (los mismos 3 hardcoded prices preexistentes no relacionados de siempre). `git status` revisado después de cada pasada de agy con `--dangerously-skip-permissions`: sin ediciones no autorizadas.
+
+Re-medir: pendiente de fijar fecha (recién publicada).

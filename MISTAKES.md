@@ -16,6 +16,36 @@
 **Archivos involucrados:** `path/a/archivo.ts`
 -->
 
+## 2026-09-28 — Superlativo "los cuatro..." cuando en realidad eran tres de cuatro
+
+**Qué pasó:** al escribir la guía nueva `escurridor-de-platos` (4 fichas), varias frases afirmaban
+algo sobre "los cuatro" productos de la comparativa (capacidad declarada en platos, acero
+inoxidable "en toda la pieza") cuando en realidad solo 3 de los 4 declaraban ese dato — el cuarto
+(el que se instala sobre la pileta) no declara capacidad en platos, y otro (el más económico)
+declara "metal" genérico con bandeja de plástico, no acero inoxidable completo. Sumado a eso, dos
+cálculos de "casi el triple" resultaron ser en realidad 4,65× (la calculadora mental redondeó mal),
+y dos comparaciones de tamaño ("es más grande/más chico que X") resultaron no demostrables porque
+el producto más vendido de la guía no tenía dimensiones cargadas en sus specs. Codex necesitó 4
+rondas para atrapar todo esto — cada ronda encontraba una variante nueva del mismo error en un
+lugar distinto (guía, ficha, FAQ, seoTitle) que la ronda anterior no había tocado.
+
+**Por qué:** es una variante nueva del patrón ya documentado el 25-26/9 (superlativo mal acotado
+que sobrevive en referencias cruzadas): ahí el error era sobre UN producto con un dato falso: acá
+el error es agrupar "los cuatro" cuando en realidad es "tres de los cuatro", y no verificar la
+aritmética de una comparación de precios antes de escribirla como frase hecha ("casi el triple").
+La causa de fondo es la misma: escribir la frase natural primero y no volver a cruzarla contra los
+`specs` reales de cada ficha antes de publicar.
+
+**Cómo evitarlo:** antes de escribir "los cuatro/todos declaran X", grepear el campo `X` en las 4
+fichas y confirmar que las 4 realmente lo tienen — si una no lo declara, la frase tiene que decir
+"tres de los cuatro" o nombrar la excepción. Antes de escribir una razón de precio tipo "casi el
+doble/triple", calcular la división real (precio mayor ÷ precio menor) en vez de estimarla a ojo.
+Antes de comparar tamaño/dimensiones entre dos fichas, confirmar que AMBAS tienen ese campo en
+`specs` — si a una le falta, no se puede afirmar cuál es más grande o más chica.
+
+**Archivos involucrados:** `src/data/guides.ts`, `src/data/curated-products.ts` (fichas
+MLA44390403, MLAU3374399366, MLA54275955, MLA44264986)
+
 ## 2026-09-21 — Dos commits sin la línea de atribución, tuve que amendarlos
 
 **Qué pasó:** en el checklist SEO del 21/9, los primeros dos commits de la sesión (refresh de
