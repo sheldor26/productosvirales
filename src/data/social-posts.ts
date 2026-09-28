@@ -4529,4 +4529,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "35",
     postedAt: "2026-09-28T10:50:10-03:00",
   },
+  {
+    title: "Nintendo Switch OLED 64GB Neon",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_661962-MLA99529485202_122025-O.webp",
+    affiliateUrl: "https://meli.la/2m8nAtf",
+    newPrice: "820.999",
+    oldPrice: "820.999",
+    offPct: "0",
+    postedAt: "2026-09-28T11:20:12-03:00",
+  },
 ];
