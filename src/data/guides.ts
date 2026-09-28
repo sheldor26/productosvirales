@@ -27633,6 +27633,126 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     ],
     internalLinksTitle: "Más de hogar y jardín",
   },
+  // Guía nueva puff — silo hogar-jardin (existente, con tupper,
+  // tacho-de-basura, zapatero, mesa-ratona, escurridor-de-platos). Origen:
+  // research de keywords 2026-08-15, "puff" 12.100/mes, amarilla: solo
+  // comparadores españoles (mejorespuff.com, migefurniture, sillas-gaming),
+  // MercadoLibre domina en .com.ar. 4 fichas nuevas, sourcing en vivo el
+  // 2026-09-28.
+  {
+    slug: "puff",
+    category: "puffs",
+    silo: "hogar-jardin",
+    pillar: true,
+    title: `Puff: cuál comprar en Argentina [2026]`,
+    seoTitle: `Puff: Cuál Comprar en Argentina [2026]`,
+    metaDescription: `Comparamos 4 puffs reales de MercadoLibre: el más vendido, el más calificado, el único set de a dos y el único formato fiaca para repantigarse.`,
+    ogTitle: `Puff: cuál comprar en Argentina`,
+    ogDescription: `Del más barato y más vendido al set de a dos y el fiaca para repantigarse: 4 puffs comparados por respaldo real de reseñas, con las contras honestas de cada uno.`,
+    ogImage: `https://http2.mlstatic.com/D_Q_NP_774140-MLA111079070942_052026-F.webp`,
+    h1: `Puff: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene el **[Meylihogar Soho 05](/producto/puff-redondo-de-gran-estilo-y-en-pana-premium-modelo-soho-05-negro-mlau4289905657)** (alrededor de {{precio:MLAU4289905657:k}}): el más económico de esta comparativa y 1° más vendido en Puffs de MercadoLibre. Si preferís el respaldo de más opiniones reales, el **[Casa Alegre Paris](/producto/puff-redondo-moderno-pana-lino-banqueta-sillon-premium-paris-mla1414916350)** (alrededor de {{precio:MLA1414916350:k}}), con {{reviews:MLA1414916350}} calificaciones. Si buscás dos a juego con estética de fibra natural, el **[set Mimbrería Fleming](/producto/set-x-2-puff-fibras-naturales-tejido-trenzado-50-cm-marron-claro-mlau3244978445)** (alrededor de {{precio:MLAU3244978445:k}} el par). Y si querés algo blando para repantigarte, el **[G y G Fiacas pera](/producto/puff-fiaca-pera-ecocuero-relleno-premium-g-y-g-fiacas-mlau280827665)** (alrededor de {{precio:MLAU280827665:k}}).`,
+    publishedDate: "2026-09-28",
+    updatedDate: "2026-09-28",
+    hasDisclosure: true,
+    readingTime: 7,
+    standfirst: `Hay puffs desde {{precio:MLAU4289905657:k}} hasta {{precio:MLAU3244978445:k}} el set, con formatos que van del rígido tradicional al blando tipo fiaca. Comparamos 4 publicaciones con respaldo real de compradores de MercadoLibre Argentina, con las contras que no siempre cuentan.`,
+    quickPicks: [
+      { productMlaId: "MLAU4289905657", label: "El más vendido", labelColor: "green", tagline: "Meylihogar Soho 05: el más barato de esta comparativa" },
+      { productMlaId: "MLA1414916350", label: "El más calificado", labelColor: "blue", tagline: "Casa Alegre Paris: más de 450 opiniones, la base más grande" },
+      { productMlaId: "MLAU3244978445", label: "El único en pareja", labelColor: "purple", tagline: "Mimbrería Fleming: set de 2, estética de fibra natural" },
+      { productMlaId: "MLAU280827665", label: "Para repantigarte", labelColor: "amber", tagline: "G y G Fiacas: formato pera, se amolda al cuerpo" },
+    ],
+    intro: [
+      `Un puff parece una compra simple, pero bajo el mismo nombre conviven productos muy distintos: desde un cilindro rígido tapizado hasta un fiaca blando que se amolda al cuerpo, pasando por sets de fibra natural para el living o el balcón. Elegir sin mirar el formato real puede terminar en un puff que no sirve para lo que lo comprabas.`,
+      `Esta guía compara 4 puffs con respaldo real de compradores en MercadoLibre Argentina, con las contras honestas de cada uno — incluida una aclaración importante sobre qué es realmente "fibra natural" en una de estas publicaciones.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_Q_NP_774140-MLA111079070942_052026-F.webp", alt: `Puff redondo de pana negra Meylihogar Soho 05, el más vendido de esta comparativa`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría conviene el **Meylihogar Soho 05**, el más barato y 1° más vendido en Puffs de MercadoLibre. Si preferís el respaldo de más opiniones, el **Casa Alegre Paris** ({{reviews:MLA1414916350}} calificaciones). Si buscás dos a juego, el **set Mimbrería Fleming**. Y para repantigarte, el **G y G Fiacas**.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** analizamos 4 puffs con ventas y calificaciones reales en la categoría Puffs de MercadoLibre Argentina, mirando formato, material, peso soportado y qué dicen las reseñas de compradores reales, con las contras incluidas. Los precios que ves en las fichas y tablas se revisan contra MercadoLibre tres veces por semana.` },
+
+      { type: "h2", title: `Qué mirar antes de comprar un puff`, id: "que-mirar" },
+      { type: "p", content: `**Rígido o fiaca: son dos productos distintos.** Un puff rígido (con estructura de madera y tapizado) sirve para sentarse erguido, apoyar los pies o incluso una bandeja. Un fiaca (relleno de telgopor, sin estructura dura) se amolda al cuerpo para repantigarse, pero no sirve como superficie de apoyo. No es una cuestión de calidad, es una cuestión de para qué lo vas a usar.` },
+      { type: "p", content: `**Material real vs. estética del nombre.** El nombre de una marca o el estilo de las fotos no siempre coincide con el material real. En esta comparativa encontramos un caso concreto: una publicación con estética de fibra natural (mimbre/seagrass) que en realidad está hecha de kraft, un cartón trenzado, no mimbre natural — las propias reseñas de compradores lo aclaran. Conviene leer la ficha técnica, no solo mirar la foto.` },
+      { type: "p", content: `**Peso máximo soportado.** Varía bastante entre modelos de esta comparativa: de 100 kg en el formato fiaca a 160 kg en el más rígido. Si el puff va a recibir uso frecuente de un adulto, vale la pena mirar este dato antes de comprar.` },
+
+      { type: "h2", title: `El ranking: los 4 que comparamos`, id: "ranking" },
+
+      { type: "h3", title: `1. Meylihogar Soho 05 — el más vendido` },
+      { type: "product-card", productMlaId: "MLAU4289905657", label: "El más vendido", labelColor: "green", ranking: 1, description: `Cilindro de pana negra, 40 cm de diámetro, hasta 160 kg. {{rating:MLAU4289905657}} estrellas en {{reviews:MLAU4289905657}} calificaciones.` },
+      { type: "pull-quote", content: `Muy lindo! pensé que era más liviano pero es pesado y firme. Parece de buena calidad. Llegó perfecto.`, attribution: `— Compradora verificada en MercadoLibre` },
+      { type: "p", content: `Tiene la insignia de 1° más vendido en la categoría Puffs de MercadoLibre y es el más económico de esta comparativa, a alrededor de {{precio:MLAU4289905657:k}}. Soporta hasta 160 kg, el tope más alto de esta guía.` },
+      { type: "p", content: `Lo honesto: su base de opiniones ({{reviews:MLAU4289905657}}) es la más chica de esta comparativa (bastante menor que la del Casa Alegre) — la insignia de más vendido mide venta reciente, no el acumulado histórico de opiniones, así que no se contradicen. Una reseña real también avisa que pesa más de lo que aparenta por la foto (aunque lo toma como señal de firmeza, no de problema).` },
+
+      { type: "h3", title: `2. Casa Alegre Paris — el más calificado` },
+      { type: "product-card", productMlaId: "MLA1414916350", label: "El más calificado", labelColor: "blue", ranking: 2, description: `Cilindro con patas, tapizado a elección, hasta 130 kg. {{rating:MLA1414916350}} estrellas en {{reviews:MLA1414916350}} calificaciones, la base más grande de esta comparativa.` },
+      { type: "pull-quote", content: `Tiene acabados muy prolijos y la tela es linda. Es liviano pero firme; soporta peso. Posee unos topes de plásticos, de esa manera no da directamente en el piso.`, attribution: `— Compradora verificada en MercadoLibre` },
+      { type: "p", content: `Con {{reviews:MLA1414916350}} calificaciones, tiene por lejos la base de opiniones más grande de esta comparativa — más de 10 veces la del Meylihogar. Trae patas incluidas y tapizado a elección, a alrededor de {{precio:MLA1414916350:k}}.` },
+      { type: "p", content: `Lo honesto: su peso máximo soportado (130 kg) es el más bajo entre los tres puffs rígidos de esta guía.` },
+
+      { type: "h3", title: `3. Mimbrería Fleming — el único en pareja` },
+      { type: "product-card", productMlaId: "MLAU3244978445", label: "El único en pareja", labelColor: "purple", ranking: 3, description: `Set de 2 unidades, tejido a mano, 50 cm de diámetro, hasta 150 kg cada uno. {{rating:MLAU3244978445}} estrellas en {{reviews:MLAU3244978445}} calificaciones.` },
+      { type: "pull-quote", content: `Relación precio calidad 10/10. Son muy cómodos. Son estéticos. Es kraft, no es mimbre mimbre (si quieren mimbre lean las descripciones bien, está toda la información muy clara).`, attribution: `— Compradora verificada en MercadoLibre` },
+      { type: "p", content: `Es el único set de 2 unidades de esta comparativa, con estética de fibra natural tejida a mano, a alrededor de {{precio:MLAU3244978445:k}} el par.` },
+      { type: "bad", content: `**Lo honesto sobre el material:** pese al nombre de la marca (Mimbrería Fleming) y a la estética de las fotos, el material real es kraft, un cartón trenzado, no mimbre ni seagrass natural. No es un engaño oculto: el propio vendedor lo aclara en la descripción de la publicación, y varias reseñas reales lo confirman de primera mano. Tampoco es apto para exposición directa y constante a la lluvia (mejor bajo techo), y el vendedor declara la publicación sin garantía.` },
+
+      { type: "h3", title: `4. G y G Fiacas — para repantigarte` },
+      { type: "product-card", productMlaId: "MLAU280827665", label: "Para repantigarte", labelColor: "amber", ranking: 4, description: `Puff fiaca pera, cuerina, relleno de telgopor virgen reponible, hasta 100 kg. {{rating:MLAU280827665}} estrellas en {{reviews:MLAU280827665}} calificaciones.` },
+      { type: "pull-quote", content: `Muy buen producto, con el tiempo se comienza a desinflamar (por decir así) pero se puede rellenar tranquilamente. El material es muy bueno.`, attribution: `— Comprador verificado en MercadoLibre` },
+      { type: "p", content: `Es el único formato fiaca (blando, se amolda al cuerpo) de esta comparativa, a alrededor de {{precio:MLAU280827665:k}}. Cuerina lavable con trapo húmedo y relleno de telgopor virgen con funda de cierre para reponer.` },
+      { type: "p", content: `Lo honesto: con el uso se va desinflando o achatando, según confirman varias reseñas reales (aunque es rellenable), y su peso máximo soportado (100 kg) es el más bajo de esta comparativa.` },
+
+      { type: "h2", title: `Tabla comparativa: puffs`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Formato`, `Peso máximo`, `Ideal para`], rows: [
+        [`[Meylihogar Soho 05](https://meli.la/16QFrNu)`, `{{precio:MLAU4289905657}}`, `Rígido, cilíndrico`, `160 kg`, `El más vendido y económico`],
+        [`[Casa Alegre Paris](https://meli.la/1pFtDsL)`, `{{precio:MLA1414916350}}`, `Rígido, con patas`, `130 kg`, `Más respaldo de opiniones`],
+        [`[Mimbrería Fleming (set x2)](https://meli.la/2PSqsEB)`, `{{precio:MLAU3244978445}}`, `Rígido, set de 2`, `150 kg c/u`, `Dos a juego, estilo natural`],
+        [`[G y G Fiacas](https://meli.la/1DfmQ62)`, `{{precio:MLAU280827665}}`, `Fiaca, blando`, `100 kg`, `Repantigarse`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu puff`, id: "como-elegir" },
+      { type: "h3", title: `1. ¿Rígido o fiaca?` },
+      { type: "p", content: `Si buscás algo para sentarte erguido, apoyar los pies o incluso una bandeja encima, un puff rígido como el [Meylihogar](/producto/puff-redondo-de-gran-estilo-y-en-pana-premium-modelo-soho-05-negro-mlau4289905657) o el [Casa Alegre](/producto/puff-redondo-moderno-pana-lino-banqueta-sillon-premium-paris-mla1414916350) cumple mejor. Si lo que querés es repantigarte leyendo o mirando una pantalla, el [G y G Fiacas](/producto/puff-fiaca-pera-ecocuero-relleno-premium-g-y-g-fiacas-mlau280827665) se amolda al cuerpo de una forma que un puff rígido no puede.` },
+      { type: "h3", title: `2. ¿Necesitás uno o un par?` },
+      { type: "list", items: [
+        `Para un rincón de lectura o al lado de un sillón individual: cualquiera de los tres puffs individuales de esta guía.`,
+        `Para dos puntos de apoyo a juego (living, balcón cubierto): el [set Mimbrería Fleming](/producto/set-x-2-puff-fibras-naturales-tejido-trenzado-50-cm-marron-claro-mlau3244978445), el único que viene de a dos.`,
+      ]},
+      { type: "h3", title: `3. Fibra natural: leé la ficha técnica, no solo la foto` },
+      { type: "p", content: `Si específicamente buscás mimbre o seagrass natural, confirmá el material en la ficha técnica antes de comprar. El nombre de una marca o la estética de las fotos no siempre coincide con el material real: en esta comparativa, "Mimbrería" Fleming vende un producto de kraft, no de mimbre natural.` },
+      { type: "h3", title: `4. Peso máximo declarado` },
+      { type: "p", content: `Va de 100 kg (el fiaca) a 160 kg (el más rígido) en esta comparativa. Si el puff va a recibir uso frecuente de un adulto, conviene mirar este dato antes de elegir solo por estética o precio.` },
+
+      { type: "h2", title: `Cuánto cuesta un puff en Argentina [septiembre 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de {{precio:MLAU4289905657:k}}:** el [Meylihogar Soho 05](/producto/puff-redondo-de-gran-estilo-y-en-pana-premium-modelo-soho-05-negro-mlau4289905657), el más económico de esta guía.`,
+        `**Alrededor de {{precio:MLA1414916350:k}}:** el [Casa Alegre Paris](/producto/puff-redondo-moderno-pana-lino-banqueta-sillon-premium-paris-mla1414916350), el más calificado.`,
+        `**Alrededor de {{precio:MLAU280827665:k}}:** el [G y G Fiacas](/producto/puff-fiaca-pera-ecocuero-relleno-premium-g-y-g-fiacas-mlau280827665), formato blando.`,
+        `**Alrededor de {{precio:MLAU3244978445:k}} el par:** el [set Mimbrería Fleming](/producto/set-x-2-puff-fibras-naturales-tejido-trenzado-50-cm-marron-claro-mlau3244978445), el más caro por venir de a dos.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál puff comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la mayoría, el **[Meylihogar Soho 05](/producto/puff-redondo-de-gran-estilo-y-en-pana-premium-modelo-soho-05-negro-mlau4289905657)**: el más económico de esta guía y con la insignia de más vendido de MercadoLibre, aunque su base de opiniones es la más chica de los cuatro. Si preferís el respaldo de cientos de reseñas reales antes de comprar, el **[Casa Alegre Paris](/producto/puff-redondo-moderno-pana-lino-banqueta-sillon-premium-paris-mla1414916350)**. Si buscás dos a juego con estética de fibra natural, el **[set Mimbrería Fleming](/producto/set-x-2-puff-fibras-naturales-tejido-trenzado-50-cm-marron-claro-mlau3244978445)**, sabiendo que el material real es kraft y no mimbre, y que es mejor bajo techo. Y si lo que buscás es repantigarte, no sentarte erguido, el **[G y G Fiacas](/producto/puff-fiaca-pera-ecocuero-relleno-premium-g-y-g-fiacas-mlau280827665)**, aunque con el uso se va achatando (se puede rellenar).` },
+    ],
+    faq: [
+      { question: `¿Cuál es el puff más vendido de MercadoLibre Argentina?`, answer: `De esta comparativa, el [Meylihogar Soho 05](/producto/puff-redondo-de-gran-estilo-y-en-pana-premium-modelo-soho-05-negro-mlau4289905657): tiene la insignia de 1° más vendido en la categoría Puffs de MercadoLibre y es el más económico de los cuatro.` },
+      { question: `¿Cuál conviene si busco fibra natural (mimbre)?`, answer: `Con cuidado: el [set Mimbrería Fleming](/producto/set-x-2-puff-fibras-naturales-tejido-trenzado-50-cm-marron-claro-mlau3244978445) tiene estética de fibra natural, pero el material real es kraft (un cartón trenzado), no mimbre ni seagrass natural. No es un engaño: el propio vendedor lo aclara en la descripción, y varias reseñas reales lo confirman. Leé siempre la ficha técnica antes de comprar si buscás mimbre 100% natural.` },
+      { question: `¿Qué diferencia hay entre un puff rígido y un puff fiaca?`, answer: `El rígido (como el [Meylihogar](/producto/puff-redondo-de-gran-estilo-y-en-pana-premium-modelo-soho-05-negro-mlau4289905657) o el [Casa Alegre](/producto/puff-redondo-moderno-pana-lino-banqueta-sillon-premium-paris-mla1414916350)) tiene estructura de madera, sirve para sentarse erguido o apoyar cosas encima. El fiaca (como el [G y G Fiacas](/producto/puff-fiaca-pera-ecocuero-relleno-premium-g-y-g-fiacas-mlau280827665)) está relleno de telgopor, se amolda al cuerpo, pero no sirve como superficie de apoyo.` },
+      { question: `¿Cuánto peso soporta un puff?`, answer: `Entre 100 y 160 kg según el modelo, en esta comparativa. El [Meylihogar](/producto/puff-redondo-de-gran-estilo-y-en-pana-premium-modelo-soho-05-negro-mlau4289905657) declara la cifra más alta (160 kg); el formato fiaca del [G y G Fiacas](/producto/puff-fiaca-pera-ecocuero-relleno-premium-g-y-g-fiacas-mlau280827665), la más baja (100 kg).` },
+      { question: `¿Un puff fiaca se desinfla con el tiempo?`, answer: `Sí, es normal que el relleno de telgopor se asiente con el uso y el fiaca se achate un poco, según confirman reseñas reales del [G y G Fiacas](/producto/puff-fiaca-pera-ecocuero-relleno-premium-g-y-g-fiacas-mlau280827665). Se soluciona reponiendo relleno por la funda con cierre.` },
+      { question: `¿Conviene comprar un solo puff o un set de dos?`, answer: `Depende del uso. Para un rincón individual, cualquiera de los tres puffs de esta guía que vienen solos alcanza. Para dos puntos de apoyo a juego (por ejemplo, a los lados de un sillón), el [set Mimbrería Fleming](/producto/set-x-2-puff-fibras-naturales-tejido-trenzado-50-cm-marron-claro-mlau3244978445) es el único pensado para eso.` },
+    ],
+    internalLinks: [
+      { label: "Mesa ratona: cuál comprar en Argentina", href: "/guias/hogar-jardin/mesa-ratona" },
+      { label: "Tupper: cuál comprar en Argentina", href: "/guias/hogar-jardin/tupper" },
+      { label: "Tacho de basura: cuál comprar en Argentina", href: "/guias/hogar-jardin/tacho-de-basura" },
+      { label: "Zapatero: cuál comprar en Argentina", href: "/guias/hogar-jardin/zapatero" },
+    ],
+    internalLinksTitle: "Más de hogar y jardín",
+  },
   // Guía nueva pileta-pelopincho — pilar del silo de verano en hogar-jardin
   {
     slug: "pileta-pelopincho",
@@ -28466,6 +28586,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { question: `¿Conviene comprar un set de mesas o una sola?`, answer: `Un set conviene si querés resolver más de un rincón o si tenés poco espacio y valorás poder apilarlas, como el [Ambi O](/producto/mesas-de-centro-ratona-ambi-o-set-x3-acero-mdf-marron-y-negro-mla66551735). Una sola conviene si buscás una superficie continua para apoyar cosas de a varios: ahí ni tres mesas chicas juntas reemplazan a una grande.` },
     ],
     internalLinks: [
+      { label: `Puff: cuál comprar en Argentina`, href: `/guias/hogar-jardin/puff` },
       { label: `Estantería flotante: cuál comprar en Argentina`, href: `/guias/hogar-jardin/estanteria-flotante` },
       { label: `Lámpara de pie: cuál comprar en Argentina`, href: `/guias/hogar-jardin/lampara-de-pie` },
       { label: `Zapatero: cuál comprar en Argentina`, href: `/guias/hogar-jardin/zapatero` },

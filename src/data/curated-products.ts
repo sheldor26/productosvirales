@@ -79920,6 +79920,338 @@ Es para vos si priorizás el precio más bajo y tenés poco espacio en la mesada
   },
 
   // ─────────────────────────────────────────────────────────
+  // Guía nueva puff — silo hogar-jardin (existente, con tupper,
+  // tacho-de-basura, zapatero, mesa-ratona, escurridor-de-platos). Origen:
+  // research de keywords 2026-08-15, "puff" 12.100/mes, amarilla: solo
+  // comparadores españoles, MercadoLibre domina en .com.ar. 4 fichas
+  // nuevas, sourcing en vivo el 2026-09-28 (Chrome de Juan, ML bloquea el
+  // navegador interno). Ranking real de MercadoLibre (categoría "Sillas,
+  // Sillones y Banquetas Puffs"): 1°, 2°, 3° y 5° más vendidos.
+  // ─────────────────────────────────────────────────────────
+  {
+    id: "MLAU4289905657",
+    title: "Puff Redondo De Gran Estilo Y En Pana Premium Modelo Soho 05 Negro",
+    canonicalName: "Meylihogar Puff Soho 05",
+    brand: "Meylihogar",
+    price: 43280,
+    originalPrice: 109803,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_774140-MLA111079070942_052026-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_774140-MLA111079070942_052026-F.webp",
+    ],
+    category: "Hogar, Muebles y Jardín",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/puff-redondo-de-gran-estilo-y-en-pana-premium-modelo-soho-05/up/MLAU4289905657",
+    affiliateUrl: "https://meli.la/16QFrNu",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 43,
+    soldQuantity: 500,
+    pastelColor: "var(--pastel-slate)",
+    specs: [
+      { label: "Marca", value: "Meylihogar" },
+      { label: "Modelo", value: "Soho 05" },
+      { label: "Color", value: "Negro" },
+      { label: "Diseño de la tela", value: "Pana" },
+      { label: "Forma", value: "Cilíndrico" },
+      { label: "Materiales", value: "Madera y tela de pana" },
+      { label: "Diámetro", value: "40 cm" },
+      { label: "Altura", value: "44 cm" },
+      { label: "Peso máximo soportado", value: "160 kg" },
+      { label: "Vendedor", value: "meylihog, MercadoLíder Gold, +1000 ventas" },
+    ],
+    relatedProducts: ["MLA1414916350", "MLAU3244978445", "MLAU280827665"],
+    priceUpdated: "2026-09-28", priceLastChecked: "2026-09-28", priceStatus: "fresh", reviewsSampledAt: "2026-09-28",
+    description: "Puff redondo Meylihogar Soho 05, pana negra, 40 cm de diámetro. El más económico de esta comparativa y 1° más vendido en Puffs de MercadoLibre. {{reviews:MLAU4289905657}} opiniones a {{rating:MLAU4289905657}} estrellas.",
+    seoTitle: "Meylihogar Soho 05: el puff más vendido y el más barato",
+    metaDescription: "Puff redondo Meylihogar Soho 05, pana negra: 1° más vendido en Puffs de MercadoLibre y el más económico de esta comparativa. {{reviews:MLAU4289905657}} opiniones a {{rating:MLAU4289905657}} estrellas.",
+    verdict: "Es el puff más barato de esta comparativa y tiene la insignia de 1° más vendido en la categoría Puffs de MercadoLibre, pese a tener menos opiniones totales que el segundo puesto — la insignia mide venta reciente, no el acumulado histórico. A {{precio:MLAU4289905657}} soporta hasta 160 kg, el tope más alto de esta guía. La contra real, según una reseña propia: pesa más de lo que aparenta por foto, aunque eso mismo lo hace sentir firme y de buena calidad.",
+    pros: [
+      "El más económico de esta comparativa, con la insignia de 1° más vendido en Puffs de MercadoLibre",
+      "Soporta hasta 160 kg, el tope de peso más alto de esta guía",
+      "Reseñas reales lo describen como firme y de buena calidad, no aparenta lo que pesa",
+      "Diámetro compacto (40 cm), entra en espacios chicos",
+    ],
+    cons: [
+      "Su base de opiniones ({{reviews:MLAU4289905657}}) es la más chica de esta comparativa",
+      "Una reseña real avisa que pesa más de lo que parece en la foto (aunque lo atribuye a la firmeza del armado)",
+      "Una sola variante de color en la foto principal (negro), aunque la publicación ofrece más opciones",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace 3 meses", useful: 6, text: "Muy lindo! pensé que era más liviano pero es pesado y firme. Parece de buena calidad. Llegó perfecto." },
+      { rating: 5, country: "Argentina", date: "hace 7 meses", useful: 2, text: "Súper recomendable y muy buena calidad." },
+    ],
+    articleBody: `## Qué es y para quién
+
+El Meylihogar Soho 05 es un puff cilíndrico de pana negra, 40 cm de diámetro y 44 cm de altura, con estructura de madera. Es el más económico de esta comparativa y tiene la insignia de 1° más vendido en la categoría Puffs de MercadoLibre Argentina.
+
+## Por qué es el 1° más vendido con menos opiniones que el 2°
+
+Tiene {{reviews:MLAU4289905657}} calificaciones, menos que el Casa Alegre Paris ({{reviews:MLA1414916350}}). Aun así ostenta el puesto 1° en el ranking de "más vendido" de ML, que mide velocidad de venta reciente, no el acumulado histórico de opiniones — son dos métricas distintas y ninguna invalida a la otra.
+
+## La contra real
+
+Una reseña real avisa que pesa más de lo que parece en la foto: "pensé que era más liviano pero es pesado y firme". No es necesariamente un defecto (la misma reseña lo toma como señal de buena calidad), pero conviene saberlo si buscás algo fácil de mover de un lado a otro.
+
+## Cómo se compara con los otros de esta guía
+
+Frente al [Casa Alegre Paris](/producto/puff-redondo-moderno-pana-lino-banqueta-sillon-premium-paris-mla1414916350), es más barato pero con una base de opiniones mucho más chica. Frente al [Mimbrería Fleming](/producto/set-x-2-puff-fibras-naturales-tejido-trenzado-50-cm-marron-claro-mlau3244978445) y el [G y G Fiacas](/producto/puff-fiaca-pera-ecocuero-relleno-premium-g-y-g-fiacas-mlau280827665), es un formato tradicional de puff rígido, no un set para exterior ni un fiaca para repantigarse.
+
+## Para quién sí y para quién no
+
+Es para vos si priorizás el precio más bajo y necesitás algo firme que soporte peso (hasta 160 kg). No es la mejor opción si buscás la mayor cantidad de opiniones reales como garantía, ahí el Casa Alegre Paris tiene mucho más respaldo.`,
+    faq: [
+      { question: "¿Es el puff más vendido de MercadoLibre?", answer: "De esta comparativa, sí: tiene la insignia de 1° más vendido en la categoría Puffs de MercadoLibre Argentina." },
+      { question: "¿Cuánto peso soporta?", answer: "Hasta 160 kg según la ficha técnica, el tope más alto de esta guía." },
+      { question: "¿Es liviano?", answer: "No especialmente: una reseña real avisa que pesa más de lo que parece en la foto, aunque lo describe como sinónimo de firmeza y buena calidad, no como un problema." },
+      { question: "¿Qué medidas tiene?", answer: "40 cm de diámetro y 44 cm de altura." },
+      { question: "¿De qué material es?", answer: "Estructura de madera con tapizado de pana." },
+      { question: "¿Quién lo vende?", answer: "meylihog, vendedor MercadoLíder Gold con más de 1000 ventas." },
+    ],
+  },
+  {
+    id: "MLA1414916350",
+    title: "Puff Redondo Moderno Pana Lino Banqueta Sillon Premium Paris",
+    canonicalName: "Casa Alegre Puff Paris",
+    brand: "Casa Alegre",
+    price: 57557,
+    originalPrice: 65990,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_762580-MLA69409845064_052023-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_762580-MLA69409845064_052023-F.webp",
+    ],
+    category: "Hogar, Muebles y Jardín",
+    categorySlug: "hogar-jardin",
+    permalink: "https://articulo.mercadolibre.com.ar/MLA-1414916350-puff-redondo-moderno-pana-lino-banqueta-sillon-premium-paris-_JM",
+    affiliateUrl: "https://meli.la/1pFtDsL",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 453,
+    soldQuantity: 1000,
+    pastelColor: "var(--pastel-slate)",
+    specs: [
+      { label: "Marca", value: "Casa Alegre" },
+      { label: "Modelo", value: "Paris" },
+      { label: "Materiales", value: "Madera y textil (tapizado a elección)" },
+      { label: "Forma", value: "Redonda" },
+      { label: "Con patas", value: "Sí (4)" },
+      { label: "Diámetro", value: "40 cm" },
+      { label: "Altura", value: "44 cm" },
+      { label: "Peso máximo soportado", value: "130 kg" },
+      { label: "Vendedor", value: "CASA ALEGRE OK" },
+    ],
+    relatedProducts: ["MLAU4289905657", "MLAU3244978445", "MLAU280827665"],
+    priceUpdated: "2026-09-28", priceLastChecked: "2026-09-28", priceStatus: "fresh", reviewsSampledAt: "2026-09-28",
+    description: "Puff redondo Casa Alegre Paris, tapizado a elección, 40 cm de diámetro. El más calificado de esta comparativa, con {{reviews:MLA1414916350}} opiniones a {{rating:MLA1414916350}} estrellas.",
+    seoTitle: "Casa Alegre Paris: el puff con más opiniones reales",
+    metaDescription: "Puff redondo Casa Alegre Paris: {{reviews:MLA1414916350}} opiniones a {{rating:MLA1414916350}} estrellas, la base de calificaciones más grande de esta comparativa de puffs.",
+    verdict: "Es el puff con más respaldo real de esta comparativa: {{reviews:MLA1414916350}} calificaciones a {{rating:MLA1414916350}} estrellas, más de 10 veces la base de opiniones del más barato de la guía. A {{precio:MLA1414916350}}, con patas y tapizado a elección. La contra real: su peso máximo soportado (130 kg) es el más bajo entre los tres puffs rígidos de esta comparativa.",
+    pros: [
+      "La base de opiniones más grande de esta comparativa: {{reviews:MLA1414916350}} calificaciones a {{rating:MLA1414916350}} estrellas",
+      "Tapizado a elección, no un solo color fijo",
+      "Reseñas reales destacan los acabados prolijos y que viene con topes de goma para no dañar el piso",
+      "Patas incluidas (4), eleva el puff del piso",
+    ],
+    cons: [
+      "Peso máximo soportado (130 kg) es el más bajo de los tres puffs rígidos de esta guía",
+      "Es {{preciodif:MLA1414916350:MLAU4289905657}} más caro que el Meylihogar, aunque con mucho más respaldo de opiniones",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace 5 meses", useful: 3, text: "Tiene acabados muy prolijos y la tela es linda. Es liviano pero firme; soporta peso. Posee unos topes de plásticos, de esa manera no da directamente en el piso. Bastante conforme." },
+      { rating: 5, country: "Argentina", date: "hace 1 año", useful: 5, text: "Hermoso! me encantó súper cómodo y la pana y el color hermoso." },
+    ],
+    articleBody: `## Qué es y para quién
+
+El Casa Alegre Paris es un puff redondo de 40 cm de diámetro, con tapizado a elección y patas incluidas. Es el puff con más opiniones reales de esta comparativa: {{reviews:MLA1414916350}} calificaciones a {{rating:MLA1414916350}} estrellas.
+
+## Lo que confirma el volumen de reseñas
+
+Con más de 10 veces la base de opiniones del Meylihogar (el más barato de la guía), es el puff que más gente ya probó y calificó en esta comparativa. Una reseña real destaca los acabados prolijos y que trae topes de goma en la base, para no dañar el piso.
+
+## La contra real
+
+Su peso máximo soportado (130 kg) es el más bajo entre los tres puffs rígidos de esta guía (el Meylihogar soporta 160 kg). No es un problema para el uso habitual de sentarse o apoyar los pies, pero es un dato real a tener en cuenta.
+
+## Cómo se compara con los otros de esta guía
+
+Frente al [Meylihogar Soho 05](/producto/puff-redondo-de-gran-estilo-y-en-pana-premium-modelo-soho-05-negro-mlau4289905657), es más caro pero con muchísimo más respaldo de opiniones. Frente al [Mimbrería Fleming](/producto/set-x-2-puff-fibras-naturales-tejido-trenzado-50-cm-marron-claro-mlau3244978445) y el [G y G Fiacas](/producto/puff-fiaca-pera-ecocuero-relleno-premium-g-y-g-fiacas-mlau280827665), es el formato tradicional con patas, no un set para exterior ni un fiaca.
+
+## Para quién sí y para quién no
+
+Es para vos si priorizás el respaldo de cientos de opiniones reales antes de comprar. No es la mejor opción si buscás el precio más bajo posible, ahí el Meylihogar rinde mejor.`,
+    faq: [
+      { question: "¿Cuál es el puff con más opiniones de MercadoLibre?", answer: "De esta comparativa, el Casa Alegre Paris, con {{reviews:MLA1414916350}} calificaciones a {{rating:MLA1414916350}} estrellas." },
+      { question: "¿Cuánto peso soporta?", answer: "130 kg según la ficha técnica, el más bajo entre los tres puffs rígidos de esta guía." },
+      { question: "¿Viene con patas?", answer: "Sí, trae 4 patas que elevan el puff del piso." },
+      { question: "¿Se puede elegir la tela?", answer: "Sí, el vendedor ofrece tapizado a elección." },
+      { question: "¿Raya el piso?", answer: "Según una reseña real, trae topes de goma en la base para no dañar el piso directamente." },
+      { question: "¿Quién lo vende?", answer: "Casa Alegre OK, vendedor directo en MercadoLibre." },
+    ],
+  },
+  {
+    id: "MLAU3244978445",
+    title: "Set X 2 Puff Fibras Naturales Tejido Trenzado 50 Cm Marrón Claro",
+    canonicalName: "Mimbrería Fleming Set x2",
+    brand: "Mimbrería Fleming",
+    price: 155000,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_735354-MLA116671018617_082026-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_735354-MLA116671018617_082026-F.webp",
+    ],
+    category: "Hogar, Muebles y Jardín",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/set-x-2-puff-fibras-naturales-tejido-trenzado-50-cm/up/MLAU3244978445",
+    affiliateUrl: "https://meli.la/2PSqsEB",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 216,
+    soldQuantity: 1000,
+    pastelColor: "var(--pastel-slate)",
+    specs: [
+      { label: "Marca", value: "Mimbrería Fleming" },
+      { label: "Formato de venta", value: "Set x2 unidades" },
+      { label: "Material", value: "Kraft (cartón trenzado sobre estructura de madera), no es mimbre natural" },
+      { label: "Forma", value: "Redonda" },
+      { label: "Con patas", value: "No" },
+      { label: "Diámetro", value: "50 cm" },
+      { label: "Altura", value: "25 cm" },
+      { label: "Peso máximo soportado", value: "150 kg por unidad" },
+      { label: "Garantía del vendedor", value: "Sin garantía" },
+    ],
+    relatedProducts: ["MLAU4289905657", "MLA1414916350", "MLAU280827665"],
+    priceUpdated: "2026-09-28", priceLastChecked: "2026-09-28", priceStatus: "fresh", reviewsSampledAt: "2026-09-28",
+    description: "Set de 2 puffs redondos Mimbrería Fleming, tejido de kraft trenzado a mano, 50 cm de diámetro. El único set de a dos de esta comparativa. {{reviews:MLAU3244978445}} opiniones a {{rating:MLAU3244978445}} estrellas.",
+    seoTitle: "Mimbrería Fleming: el único puff que viene de a dos",
+    metaDescription: "Set x2 puffs Mimbrería Fleming, tejido de kraft trenzado a mano: el único set de a dos de esta comparativa. {{reviews:MLAU3244978445}} opiniones a {{rating:MLAU3244978445}} estrellas.",
+    verdict: "Es el único puff de esta comparativa que viene en set de 2 unidades, con estética de fibra natural tejida a mano, a {{precio:MLAU3244978445}} el set. La contra real, confirmada por varias reseñas: pese al nombre de la marca y a la estética que sugiere mimbre, el material real es kraft (una especie de cartón trenzado), no mimbre natural — mejor bajo techo o en un patio cubierto que expuesto directo a la lluvia. Tampoco tiene garantía del vendedor.",
+    pros: [
+      "El único set de 2 unidades de esta comparativa, a {{precio:MLAU3244978445}} el par",
+      "Tejido a mano, con detalles artesanales reales según el vendedor y las reseñas",
+      "{{reviews:MLAU3244978445}} opiniones a {{rating:MLAU3244978445}} estrellas, buena relación precio-calidad según compradores reales",
+      "Soporta 150 kg por unidad",
+    ],
+    cons: [
+      "El material real es kraft (cartón trenzado), no mimbre natural, pese al nombre de la marca — varias reseñas lo aclaran de forma explícita",
+      "No es apto para exposición directa a la lluvia; mejor en un espacio cubierto",
+      "El vendedor declara explícitamente que la publicación no tiene garantía",
+      "Un solo tono disponible, sin variantes de color",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace 7 meses", useful: 8, text: "Relación precio calidad 10/10. Son muy cómodos. Son estéticos. Los detalles son medio mm pero bueno, por el precio no esperaba que fuera lujo, es kraft, no es mimbre mimbre (si quieren mimbre lean las descripciones bien, está toda la información muy clara). Recomiendo barnizarlo para que dure más." },
+      { rating: 5, country: "Argentina", date: "hace 7 meses", useful: 5, text: "Los productos parecen muy buenos, el material es una especie de cartón trenzado, es importante aclarar que no es seagrass, es kraft. En relación precio calidad son muy buenos." },
+    ],
+    articleBody: `## Qué es y para quién
+
+El set de 2 puffs de Mimbrería Fleming son cilindros de 50 cm de diámetro y 25 cm de altura, tejidos a mano en kraft. Es el único producto de esta comparativa que viene en set de 2 unidades, con {{reviews:MLAU3244978445}} opiniones a {{rating:MLAU3244978445}} estrellas.
+
+## La honestidad sobre el material (esto lo dicen las propias reseñas)
+
+Pese a que la marca se llama "Mimbrería" y las fotos sugieren un aspecto de fibra natural tipo mimbre o seagrass, varias reseñas reales aclaran algo que la publicación también confirma en su descripción: el material es **kraft**, una especie de cartón trenzado y reforzado, no mimbre ni seagrass natural. Una compradora lo resume así: "es kraft, no es mimbre mimbre (si quieren mimbre lean las descripciones bien)". No es un engaño (la ficha lo declara), pero conviene tenerlo claro antes de comprar si buscabas fibra 100% natural.
+
+## La contra real
+
+Al ser kraft, no es apto para exposición directa y constante a la lluvia — mejor en un patio cubierto, un balcón techado o directamente adentro. Una reseña recomienda barnizarlo para que dure más. El vendedor tampoco ofrece garantía sobre la publicación.
+
+## Cómo se compara con los otros de esta guía
+
+Frente al [Meylihogar](/producto/puff-redondo-de-gran-estilo-y-en-pana-premium-modelo-soho-05-negro-mlau4289905657) y el [Casa Alegre](/producto/puff-redondo-moderno-pana-lino-banqueta-sillon-premium-paris-mla1414916350), que son unidades individuales tapizadas, este es el único que viene de a dos y con estética de fibra natural. Frente al [G y G Fiacas](/producto/puff-fiaca-pera-ecocuero-relleno-premium-g-y-g-fiacas-mlau280827665), que es blando y se amolda al cuerpo, este es rígido, para apoyar los pies o sentarse en superficie firme.
+
+## Para quién sí y para quién no
+
+Es para vos si buscás dos puffs a juego con estética natural, para un living o un patio cubierto. No es la mejor opción si necesitás algo apto para intemperie sin resguardo, o si preferís mimbre 100% natural en vez de kraft.`,
+    faq: [
+      { question: "¿Es mimbre de verdad?", answer: "No. Pese al nombre de la marca (Mimbrería Fleming) y a la estética de las fotos, el material real es kraft, una especie de cartón trenzado, no mimbre ni seagrass natural. Varias reseñas reales lo confirman." },
+      { question: "¿Sirve para exterior?", answer: "No para exposición directa y constante a la lluvia, al ser kraft. Es mejor en un patio cubierto, un balcón techado o adentro. Una reseña recomienda barnizarlo para que dure más." },
+      { question: "¿Vienen de a uno o de a dos?", answer: "El set trae 2 unidades, a {{precio:MLAU3244978445}} el par." },
+      { question: "¿Cuánto peso soporta cada uno?", answer: "150 kg por unidad, según la ficha técnica." },
+      { question: "¿Tiene garantía?", answer: "No, el vendedor declara explícitamente que la publicación no tiene garantía." },
+      { question: "¿Hay otros colores?", answer: "No, el vendedor trabaja un solo tono (marrón claro), el que se muestra en la foto principal." },
+    ],
+  },
+  {
+    id: "MLAU280827665",
+    title: "Puff Fiaca Pera Ecocuero Relleno Premium G Y G Fiacas",
+    canonicalName: "G y G Fiacas Pera Ecocuero",
+    brand: "G y G Fiacas",
+    price: 100299,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_644905-MLA112340620615_052026-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_644905-MLA112340620615_052026-F.webp",
+    ],
+    category: "Hogar, Muebles y Jardín",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/puff-fiaca-pera-ecocuero--relleno-premium--g-y-g-fiacas/up/MLAU280827665",
+    affiliateUrl: "https://meli.la/1DfmQ62",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 207,
+    soldQuantity: 500,
+    pastelColor: "var(--pastel-slate)",
+    specs: [
+      { label: "Marca", value: "G y G Fiacas" },
+      { label: "Modelo", value: "Pera grande" },
+      { label: "Material", value: "Cuerina (ecocuero)" },
+      { label: "Relleno", value: "Perlas de telgopor virgen (EPS), funda con cierre para reponer" },
+      { label: "Forma", value: "Gota / pera" },
+      { label: "Dimensiones", value: "1 m de alto x 75 cm x 75 cm" },
+      { label: "Peso máximo soportado", value: "100 kg" },
+      { label: "Es lavable", value: "Sí, con trapo húmedo" },
+    ],
+    relatedProducts: ["MLAU4289905657", "MLA1414916350", "MLAU3244978445"],
+    priceUpdated: "2026-09-28", priceLastChecked: "2026-09-28", priceStatus: "fresh", reviewsSampledAt: "2026-09-28",
+    description: "Puff fiaca pera de G y G Fiacas, cuerina, relleno de telgopor virgen. El único formato para repantigarse de esta comparativa. {{reviews:MLAU280827665}} opiniones a {{rating:MLAU280827665}} estrellas.",
+    seoTitle: "G y G Fiacas: el único puff fiaca de esta comparativa",
+    metaDescription: "Puff fiaca pera de G y G Fiacas, cuerina, relleno de telgopor virgen reponible. {{reviews:MLAU280827665}} opiniones a {{rating:MLAU280827665}} estrellas.",
+    verdict: "Es el único puff fiaca (formato pera, blando, se amolda al cuerpo) de esta comparativa, a {{precio:MLAU280827665}}. Cuerina lavable con trapo húmedo y relleno de telgopor virgen con funda de cierre para reponer. La contra real, confirmada por varias reseñas: con el uso se va desinflando (se achata), aunque siempre se puede rellenar de nuevo. Su peso máximo soportado (100 kg) es el más bajo de esta comparativa.",
+    pros: [
+      "El único formato fiaca (blando, se amolda al cuerpo) de esta comparativa",
+      "Cuerina lavable con un trapo húmedo",
+      "Relleno de telgopor virgen con funda de cierre, se puede reponer cuando se achata",
+      "{{reviews:MLAU280827665}} opiniones a {{rating:MLAU280827665}} estrellas",
+    ],
+    cons: [
+      "Con el uso se va desinflando/achatando, según varias reseñas reales (aunque es rellenable)",
+      "Peso máximo soportado (100 kg) es el más bajo de esta comparativa",
+      "No tiene la firmeza de un puff rígido: no sirve para apoyar objetos ni como mesa auxiliar",
+    ],
+    customerReviews: [
+      { rating: 4, country: "Argentina", date: "hace más de 1 año", useful: 6, text: "Son muy firmes y. Gran tamaño tal cual la publicación, elegi el color plateado y es divino. Obvio, con el uso se van achatando pero eso va en el peso que le pongas." },
+      { rating: 5, country: "Argentina", date: "hace 6 meses", useful: 3, text: "Muy buen producto, con el tiempo se comienza a desinflamar (por decir así) pero se puede rellenar tranquilamente. El material es muy bueno." },
+    ],
+    articleBody: `## Qué es y para quién
+
+El G y G Fiacas Pera Ecocuero es un puff fiaca (blando, tipo beanbag) de 1 metro de alto, confeccionado en cuerina y relleno con perlas de telgopor virgen. Es el único formato de este tipo en esta comparativa: {{reviews:MLAU280827665}} opiniones a {{rating:MLAU280827665}} estrellas.
+
+## La contra real (esto dicen las reseñas)
+
+Con el uso, el relleno de telgopor se va asentando y el fiaca se achata o "desinflama", según describen varias reseñas reales — es un comportamiento normal de este tipo de relleno, no una falla puntual. La buena noticia: la funda tiene cierre, así que se puede reponer relleno cuando hace falta. Su peso máximo soportado (100 kg) también es el más bajo de esta comparativa, frente a los 130-160 kg de los puffs rígidos.
+
+## Cómo se compara con los otros de esta guía
+
+Frente al [Meylihogar](/producto/puff-redondo-de-gran-estilo-y-en-pana-premium-modelo-soho-05-negro-mlau4289905657) y el [Casa Alegre](/producto/puff-redondo-moderno-pana-lino-banqueta-sillon-premium-paris-mla1414916350), que son rígidos, este es blando y se amolda al cuerpo — otra categoría de uso, pensado para repantigarse leyendo o mirando una pantalla, no para sentarse erguido o apoyar cosas encima. Frente al [Mimbrería Fleming](/producto/set-x-2-puff-fibras-naturales-tejido-trenzado-50-cm-marron-claro-mlau3244978445), que viene de a dos, este es una unidad individual pero de mayor tamaño.
+
+## Para quién sí y para quién no
+
+Es para vos si buscás algo blando para repantigarte, no un asiento rígido tradicional. No es la mejor opción si necesitás algo firme que soporte más de 100 kg, o que mantenga la forma sin necesitar relleno de vez en cuando.`,
+    faq: [
+      { question: "¿Es rígido o blando?", answer: "Blando: es un puff fiaca tipo beanbag, se amolda al cuerpo. Es el único formato así de esta comparativa; los otros tres son rígidos." },
+      { question: "¿Se desinfla con el uso?", answer: "Sí, con el tiempo el relleno de telgopor se asienta y el puff se achata, según confirman varias reseñas reales. Se puede reponer relleno porque la funda tiene cierre." },
+      { question: "¿Cuánto peso soporta?", answer: "100 kg según la ficha técnica, el más bajo de esta comparativa." },
+      { question: "¿Se puede lavar?", answer: "Sí, la cuerina se limpia con un trapo húmedo, según el vendedor." },
+      { question: "¿De qué está relleno?", answer: "De perlas de telgopor virgen (EPS), en una funda con cierre para poder agregar o quitar relleno." },
+      { question: "¿Hay otros colores?", answer: "Sí, el vendedor ofrece color a elección." },
+    ],
+  },
+
+  // ─────────────────────────────────────────────────────────
   // Guía nueva reposera — silo hogar-jardin (existente, con pileta-pelopincho,
   // sombrilla-de-playa, conservadora). Origen: research de verano 2026-09-26,
   // "reposera" 22.200/mes en Keyword Planner, MercadoLibre en posición 2 del

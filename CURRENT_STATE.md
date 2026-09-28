@@ -1,7 +1,28 @@
 # Estado actual
 
 > Snapshot del proyecto. Se actualiza al final de cada sesión.
-> Última actualización: 2026-09-28 — Guía nueva "Escurridor de platos: cuál comprar" (silo hogar-jardin, 4 fichas nuevas, sourcing en vivo), continuando la estrategia de contenido. Antes en la misma sesión: checklist del reporte SEO semanal con 2 hallazgos de stock (yogurtera Daewoo Yoggy Pro dada de baja, freidora Atma FR248ABP negra devaluada) que requirieron reescribir 2 guías, sourcear 2 fichas nuevas, y propagar el cambio de pick a las 18 guías del sitio que citaban el modelo devaluado. Ver detalle abajo.
+> Última actualización: 2026-09-28 — Guía nueva "Puff: cuál comprar" (silo hogar-jardin, 4 fichas nuevas, sourcing en vivo), siguiente ítem del backlog de contenido tras escurridor-de-platos en la misma sesión. Antes en la misma sesión: diagnóstico y fix del gasto de Vercel (deploys del bot de Threads regenerando el sitio entero) y checklist SEO semanal con 2 hallazgos de stock. Ver detalle abajo.
+
+## Sesión 2026-09-28 (continuación 2) — Guía nueva: Puff
+
+### LO QUE SE HIZO
+
+Diagnóstico de infraestructura fuera del backlog de contenido: Juan reportó gasto de Vercel por encima del crédito mensual. Se descartó Bright Data como causa (ya está en el piso de precio del mercado) y se encontró la causa real cruzando `list_deployments` de Vercel contra `git log`: 67 commits en 6 días, ~75 deploys de producción, la mayoría del bot de Threads commiteando `social-posts.ts` después de cada post individual — cada deploy resetea el cache ISR de las 700+ páginas del sitio. Fix aplicado: memoria dura nueva (`threads-batchear-commits-no-uno-por-post`) para que el posteo siga espaciado pero el commit se junte por tanda, no por post.
+
+Siguiente ítem del backlog de contenido: **`puff`** (12.100/mes, keyword "amarilla" de `docs/keywords-verificadas-2026-08-15.md`, SERP con solo comparadores españoles, ML domina en .com.ar). Se sumó al silo `hogar-jardin` existente (junto a tupper, tacho-de-basura, zapatero, mesa-ratona, escurridor-de-platos), con enlazado recíproco nuevo en `mesa-ratona`.
+
+Sourcing nuevo en vivo (4 fichas, categoría real "Sillas, Sillones y Banquetas Puffs" de ML): **Meylihogar Soho 05** (el más vendido según insignia real de ML, el más barato), **Casa Alegre Paris** (el más calificado, 453 opiniones — la base más grande de las 4), **Mimbrería Fleming set x2** (único en pareja, con el hallazgo honesto de que el material real es kraft y no mimbre pese al nombre de la marca), y **G y G Fiacas pera** (único formato fiaca/blando, se desinfla con el uso pero es rellenable).
+
+### VERIFICACIÓN
+
+`npx tsc --noEmit`, `npm run build`, y los 8 scripts de `guides:check` corridos individualmente, todos en verde. Trío auditor: **3 rondas hasta doble GO, la más corta de la racha** — 2 hallazgos reales coincidentes (precio hardcodeado, error de subconjunto "puffs con patas" cuando solo uno de los 4 declara patas) más un tercero de agy (tono del callout sobre el material kraft, corregido para igualar la honestidad ya presente en la ficha). Detalle completo en `docs/seo-tracking-optimizaciones.md`.
+
+### LO QUE QUEDA ABIERTO
+
+- De la estrategia original de agosto queda pendiente: `cartuchera` (14.800/mes, útiles escolares, silo nuevo "librería/oficina", pico real feb-mar — mejor esperar más cerca de esa fecha).
+- Sin commitear todavía: diff mostrado a Juan, pendiente de aprobación explícita antes de pushear y correr `npm run indexnow`.
+
+---
 
 ## Sesión 2026-09-28 (continuación) — Guía nueva: Escurridor de platos
 

@@ -2645,3 +2645,21 @@ Re-medir: pendiente de fijar fecha (recién publicada).
 **Verificación:** `npx tsc --noEmit`, `npm run build`, y los 8 scripts individuales de `guides:check` en verde de punta a punta (los mismos 3 hardcoded prices preexistentes no relacionados de siempre). `git status` revisado después de cada pasada de agy con `--dangerously-skip-permissions`: sin ediciones no autorizadas.
 
 Re-medir: pendiente de fijar fecha (recién publicada).
+
+## Guía nueva `puff` — silo `hogar-jardin` (existente) — 2026-09-28
+
+| Guía | Silo | Categoría | Keyword del cluster | Volumen | SD | Productos |
+| :-- | :-- | :-- | :-- | --: | --: | --: |
+| `puff` | hogar-jardin | puffs | puff | 12.100/mes | — | 4 (sourcing nuevo) |
+
+**Baseline: cero.** URL nueva, sin historial en GSC. Origen: keyword "amarilla" del research de `docs/keywords-verificadas-2026-08-15.md` (SERP con solo comparadores españoles — mejorespuff.com, migefurniture, sillas-gaming — MercadoLibre domina en .com.ar). Se sumó al silo `hogar-jardin` existente (junto a `tupper`, `tacho-de-basura`, `zapatero`, `mesa-ratona`, `escurridor-de-platos`) con enlazado recíproco nuevo en `mesa-ratona`.
+
+**Sourcing nuevo en vivo, 4 fichas (Chrome de Juan, categoría real "Sillas, Sillones y Banquetas Puffs" de ML, insignias de ranking reales):** Meylihogar Soho 05 (MLAU4289905657, 4.7★/43, insignia 1° MÁS VENDIDO, $43.280, -60%); Casa Alegre Paris (MLA1414916350, 4.8★/453, insignia 2° MÁS VENDIDO, la base de opiniones más grande, $57.557); Mimbrería Fleming set x2 (MLAU3244978445, 4.8★/216, insignia 3° MÁS VENDIDO, $155.000 el par, único en pareja); G y G Fiacas pera (MLAU280827665, 4.7★/207, insignia 5° MÁS VENDIDO, $100.299, único formato fiaca/blando). Afiliados generados en vivo (linkbuilder, etiqueta "productosvirales", verificados contra `/social/jm159?matt_word=productosvirales`): `meli.la/16QFrNu`, `meli.la/1pFtDsL`, `meli.la/2PSqsEB`, `meli.la/1DfmQ62`.
+
+**Hallazgo de honestidad central de esta guía:** pese al nombre de la marca ("Mimbrería" Fleming) y a fotos con estética de fibra natural, el material real del set x2 es kraft (cartón trenzado), no mimbre ni seagrass — confirmado por reseñas reales de compradores y por la propia descripción del vendedor. Tratado con la voz "curador honesto": se aclara explícitamente que no es un engaño oculto (el vendedor lo declara), tanto en la ficha como en la guía.
+
+**Auditoría del trío: 3 rondas hasta doble GO, la más corta de la racha.** Ronda 1: Codex y agy coincidieron en 2 hallazgos reales — un precio hardcodeado ("unos $14.000 más caro") que debía ser `{{preciodif:A:B}}`, y un error factual de subconjunto ("los tres puffs con patas" cuando solo Casa Alegre declara patas explícitamente en sus specs, no Meylihogar). agy sumó un tercero: el callout de la guía sobre el material kraft sonaba más acusatorio que la propia ficha, que sí aclaraba "no es un engaño". Ronda 2: Codex encontró un rastro suelto del mismo error de patas, esta vez en el articleBody de Meylihogar ("formato tradicional de puff con patas"), agy ya dio GO. Ronda 3 (solo Codex, sobre el último fix): GO.
+
+**Verificación:** `npx tsc --noEmit`, `npm run build`, y los 8 scripts individuales de `guides:check` en verde de punta a punta (los mismos 3 hardcoded prices preexistentes no relacionados de siempre, cero deuda nueva). `git status` revisado después de cada pasada de agy: sin ediciones no autorizadas (los 3 archivos que aparecieron modificados en paralelo eran del bot-social, proceso independiente).
+
+Re-medir: pendiente de fijar fecha (recién publicada).
