@@ -4549,4 +4549,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "47",
     postedAt: "2026-09-28T11:50:09-03:00",
   },
+  {
+    title: "PS4 Slim 1TB Standard Negro Azabache",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_798586-MLA40076060236_122019-O.webp",
+    affiliateUrl: "https://meli.la/2HdaBDZ",
+    newPrice: "650.000",
+    oldPrice: "650.000",
+    offPct: "0",
+    postedAt: "2026-09-28T16:53:04-03:00",
+  },
 ];
