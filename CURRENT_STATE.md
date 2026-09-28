@@ -1,13 +1,15 @@
 # Estado actual
 
 > Snapshot del proyecto. Se actualiza al final de cada sesión.
-> Última actualización: 2026-09-26 — guía nueva "Tupper: cuál comprar" (silo hogar-jardin, sourcing nuevo, 4 fichas). Doble GO del trío auditor tras 4 rondas de Codex + 3 de agy (el bloqueante principal: un superlativo de precio mal acotado, mismo patrón que ya había costado varias rondas en `tacho-de-basura` el 25/9, esta vez sobre "el más barato" en vez de "el más vendido"). Afiliados reales ya cargados. Ver detalle abajo.
+> Última actualización: 2026-09-26 — 2 guías nuevas: "Tupper: cuál comprar" y "Reposera: cuál comprar" (silo hogar-jardin, sourcing nuevo, 4 fichas cada una). Doble GO del trío auditor en las dos. La de reposera fue la más rápida en cerrar (3 rondas de Codex + 1 de agy) aplicando desde el arranque las lecciones de superlativos mal acotados de las dos guías anteriores de la racha. Afiliados reales ya cargados. Ver detalle abajo.
 
-## Sesión 2026-09-26 — Guía nueva: Tupper
+## Sesión 2026-09-26 — Guías nuevas: Tupper y Reposera
 
 ### LO QUE SE HIZO
 
-Continuación de la estrategia de contenido del silo hogar-jardin/bazar-cocina acordada con Juan.
+Continuación de la estrategia de contenido del silo hogar-jardin acordada con Juan; la segunda guía surgió de un pedido puntual de sumar algo de verano mientras entra la primavera.
+
+**`/guias/hogar-jardin/reposera`** — sourcing nuevo en vivo (4 fichas), keyword nueva (22.200/mes, SERP más limpio del research reciente: MercadoLibre en posición 2 de Google, sin comparadores editoriales). LBS Gravedad Cero (la de más unidades vendidas y la más barata, +10 mil), Mor Silla Alta 110kg (la más calificada, 5.605 opiniones, marca brasileña con reseñas cruzadas de Mercado Livre reveladas de forma honesta, mismo patrón ya usado en la guía `conservadora`), Exahome Akua 8 (8 posiciones y 4 colores, la de más variedad), y Netpur Reposera Cama (único formato de camastro, la más cara). Sumada al silo hogar-jardin con enlazado recíproco en pileta-pelopincho, sombrilla-de-playa y conservadora. **Auditoría más corta de la racha: 3 rondas de Codex + 1 de agy**, con hallazgos acotados (un seoTitle sin escopar, una contradicción puntual sobre el límite de peso de Mor, una generalización sobre reclinado que no aplicaba a las 4 fichas por igual, y una comparación de peso falsa en una FAQ) en vez de los patrones repetidos en decenas de lugares que costaron las auditorías de `tacho-de-basura` y `tupper`. Afiliados generados con Juan.
 
 **`/guias/hogar-jardin/tupper`** — sourcing nuevo en vivo (4 fichas): Set Urban Home X8 (el de más reseñas, 20° en el ranking propio de Tápers), Set Gadnic X12 (el más completo, 170 ml a 2,5 L), Set Sendero Home de vidrio X4 (la única opción de vidrio, apto horno/microondas/freezer) y Set Línea Color X10 (el más económico total y por unidad, 2,65 L cada uno). Se sumó al silo `hogar-jardin` existente en vez de abrir el silo nuevo "bazar/cocina" que proponía el research original, para no dejar una guía huérfana sin enlazado recíproco en un sitio DA1 sin backlinks.
 
@@ -20,7 +22,7 @@ Continuación de la estrategia de contenido del silo hogar-jardin/bazar-cocina a
 ### LO QUE QUEDA ABIERTO
 
 - De la estrategia original quedan pendientes: `escurridor de platos` (9.900/mes) y `cartuchera` (14.800/mes, útiles escolares, silo nuevo "librería/oficina", pico real feb-mar).
-- `npm run indexnow` corrido al cierre de esta sesión.
+- `npm run indexnow` corrido al cierre de esta sesión (después de publicar tupper y reposera).
 
 ---
 

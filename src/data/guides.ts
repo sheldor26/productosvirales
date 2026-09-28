@@ -27619,6 +27619,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { label: `Pileta inflable para chicos: cuál comprar`, href: `/guias/hogar-jardin/pileta-inflable-ninos` },
       { label: `Zapatero: cuál comprar en Argentina`, href: `/guias/hogar-jardin/zapatero` },
       { label: `Ventilador de pie: cuál comprar`, href: `/guias/climatizacion/ventilador-de-pie` },
+      { label: `Reposera: cuál comprar en Argentina`, href: `/guias/hogar-jardin/reposera` },
     ],
   },
   // Guía nueva pileta-inflable-ninos — spoke del silo de verano (hija de pileta-pelopincho)
@@ -27930,7 +27931,127 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     internalLinks: [
       { label: `Pileta Pelopincho: cuál comprar en Argentina`, href: `/guias/hogar-jardin/pileta-pelopincho` },
       { label: `Colchón inflable 2 plazas: cuál comprar`, href: `/guias/hogar-jardin/colchon-inflable-2-plazas` },
+      { label: `Reposera: cuál comprar en Argentina`, href: `/guias/hogar-jardin/reposera` },
     ],
+  },
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva reposera — silo hogar-jardin (existente, con pileta-pelopincho,
+  // sombrilla-de-playa, conservadora). Origen: research de verano 2026-09-26,
+  // "reposera" 22.200/mes en Keyword Planner, MercadoLibre en posición 2 del
+  // SERP (Google) y cero comparadores editoriales. 4 fichas nuevas, sourcing
+  // en vivo el 2026-09-26 (Chrome de Juan, ML bloquea el navegador interno).
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "reposera",
+    category: "reposeras",
+    silo: "hogar-jardin",
+    pillar: true,
+    title: `Reposera: cuál comprar en Argentina [2026]`,
+    seoTitle: `Reposera: Cuál Comprar en Argentina Hoy [2026]`,
+    metaDescription: `Comparamos 4 reposeras reales de MercadoLibre: la más vendida y barata, la más calificada, la de más posiciones y colores, y la única con formato de cama.`,
+    ogTitle: `Reposera: cuál comprar en Argentina`,
+    ogDescription: `De la gravedad cero más barata al camastro para tirarse al sol: 4 reposeras comparadas por respaldo real de reseñas, con contras honestos incluidos.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_644520-MLA96415554833_102025-OO.webp`,
+    h1: `Reposera: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene la **[LBS Gravedad Cero](/producto/reposera-silla-camping-playa-tela-premium-reforzada-gravedad-cero-mla1537164525)** (alrededor de {{precio:MLA1537164525:k}}): la más vendida y la más barata de esta comparativa. Si preferís la opción con más respaldo de reseñas, la **[Mor 110 kg](/producto/silla-alta-plegable-de-acero-mor-capacidad-110kg-color-negro-mla2428696150)** (alrededor de {{precio:MLA2428696150:k}}). Si buscás variedad de posiciones y colores, la **[Exahome Akua 8](/producto/reposera-silla-aluminio-8-posiciones-exahome-playa-camping-blanco-mla1444103177)** (alrededor de {{precio:MLA1444103177:k}}). Y si querés tirarte al sol acostado, el **[camastro Netpur](/producto/reposera-cama-plegable-5-posiciones-pileta-resistente-color-gris-mla3840899430)** (alrededor de {{precio:MLA3840899430:k}}).`,
+    publishedDate: "2026-09-26",
+    updatedDate: "2026-09-26",
+    hasDisclosure: true,
+    readingTime: 8,
+    standfirst: `Una reposera va de {{precio:MLA1537164525:k}} a {{precio:MLA3840899430:k}}. Comparamos 4 reposeras reales de MercadoLibre Argentina por **material, posiciones y respaldo real de reseñas**, con contras sacados de reseñas verdaderas, dentro de nuestro silo de [Hogar y Jardín](/categoria/hogar-jardin).`,
+    quickPicks: [
+      { productMlaId: "MLA1537164525", label: "La más vendida", labelColor: "green", tagline: "LBS Gravedad Cero: +10 mil unidades vendidas, la más barata de esta comparativa" },
+      { productMlaId: "MLA2428696150", label: "La más calificada", labelColor: "amber", tagline: "Mor 110 kg: {{reviews:MLA2428696150}} opiniones a {{rating:MLA2428696150}} estrellas, la marca más reconocida" },
+      { productMlaId: "MLA1444103177", label: "8 posiciones", labelColor: "blue", tagline: "Exahome Akua 8: aluminio, 8 posiciones y 4 colores" },
+      { productMlaId: "MLA3840899430", label: "Formato cama", labelColor: "purple", tagline: "Netpur: camastro de 1,9 m para tomar sol acostado junto a la pileta" },
+    ],
+    intro: [
+      `Una reposera parece la compra más simple del verano, y en gran parte lo es: no hay un comparador argentino que ordene las opciones reales de MercadoLibre. El SERP de esta keyword lo confirma: apenas Google Imágenes por delante de la propia MercadoLibre, y detrás solo tiendas y catálogos de marca, sin un solo "los mejores" de por medio.`,
+      `Comparamos 4 reposeras reales, verificadas en vivo, cubriendo los casos de uso más comunes: la más vendida y barata, la opción con más respaldo de reseñas, una con variedad real de posiciones y colores, y un camastro para tomar sol acostado en vez de sentado. Te contamos también dónde cada una se queda corta, con datos de reseñas reales.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_644520-MLA96415554833_102025-OO.webp", alt: `Reposera plegable de gravedad cero armada en un patio, la más vendida de esta comparativa de MercadoLibre Argentina`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `La reposera más vendida de esta comparativa es la **[LBS Gravedad Cero](/producto/reposera-silla-camping-playa-tela-premium-reforzada-gravedad-cero-mla1537164525)**, también la más barata. Si preferís más respaldo de reseñas, la **[Mor 110 kg](/producto/silla-alta-plegable-de-acero-mor-capacidad-110kg-color-negro-mla2428696150)**. Si buscás variedad de posiciones y colores, la **[Exahome Akua 8](/producto/reposera-silla-aluminio-8-posiciones-exahome-playa-camping-blanco-mla1444103177)**. Y para tirarte al sol acostado, el **[camastro Netpur](/producto/reposera-cama-plegable-5-posiciones-pileta-resistente-color-gris-mla3840899430)**.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** partimos de la categoría Reposeras y Camastros de MercadoLibre Argentina y verificamos cada publicación en vivo el 2026-09-26: precio, stock, ranking propio de más vendidos de MercadoLibre, ficha técnica y reseñas de compradores reales. Miramos especialmente tres campos que deciden la compra: **material y estructura**, **posiciones y formato** (silla o cama), y **respaldo real de reseñas**. Los precios se verifican periódicamente contra MercadoLibre.` },
+
+      { type: "callout", calloutVariant: "note", calloutTitle: "Sobre las calificaciones de estas publicaciones", content: `MercadoLibre agrupa en una misma ficha de catálogo las opiniones de varios países de la región, no solo de Argentina. La reposera Mor de esta comparativa muestra un volumen de reseñas muy superior al resto justamente por eso: son reales y verificables, pero no todas son de compradores argentinos. Preferimos decirlo antes que presentarlas como si lo fueran.` },
+
+      { type: "h2", title: `Los tres datos que deciden la compra`, id: "que-mirar" },
+      { type: "p", content: `**Material de la estructura.** El aluminio no se oxida con la arena ni la humedad y es el más liviano. El acero y el hierro son más rígidos y resistentes al peso, pero se deterioran antes cerca del mar. Solo la Mor de esta comparativa declara una capacidad exacta (110 kg); en las otras tres, las reseñas reales son las que avisan cuando una no aguanta a alguien de contextura grande.` },
+      { type: "p", content: `**Silla o cama.** Tres de esta comparativa son sillas plegables (algunas ajustables en varias posiciones, otras no). Una sola es un camastro completo de casi 2 metros, pensado para tirarse al sol acostado en vez de sentarse. No son la misma compra.` },
+      { type: "p", content: `**Respaldo real de reseñas.** El rango de esta comparativa va de {{reviews:MLA3840899430}} calificaciones hasta {{reviews:MLA2428696150}}. Una cantidad alta no siempre viene de Argentina (ver el aviso sobre Mor), así que conviene mirar también qué dicen las reseñas, no solo cuántas hay.` },
+
+      { type: "h2", title: `Comparativa rápida: las 4 frente a frente`, id: "tabla-comparativa" },
+      { type: "table", headers: ["Modelo", "Material", "Formato", "Rating", "Ideal para"], rows: [
+        [`[LBS Gravedad Cero](/producto/reposera-silla-camping-playa-tela-premium-reforzada-gravedad-cero-mla1537164525)`, "Acero y plástico", "Silla, gravedad cero", `{{rating:MLA1537164525}}`, "La mayoría: la más barata"],
+        [`[Mor 110 kg](/producto/silla-alta-plegable-de-acero-mor-capacidad-110kg-color-negro-mla2428696150)`, "Hierro", "Silla alta", `{{rating:MLA2428696150}}`, "Más respaldo de reseñas"],
+        [`[Exahome Akua 8](/producto/reposera-silla-aluminio-8-posiciones-exahome-playa-camping-blanco-mla1444103177)`, "Aluminio", "Silla, 8 posiciones", `{{rating:MLA1444103177}}`, "Variedad de posiciones y colores"],
+        [`[Camastro Netpur](/producto/reposera-cama-plegable-5-posiciones-pileta-resistente-color-gris-mla3840899430)`, "Caño de hierro", "Cama, 5 posiciones", `{{rating:MLA3840899430}}`, "Tomar sol acostado"],
+      ] },
+      { type: "p", content: `El nombre de cada modelo lleva directo a su ficha completa. Abajo está el detalle de las cuatro, en el mismo orden: qué hace bien cada una y dónde conviene mirar dos veces.` },
+
+      { type: "h2", title: `El ranking`, id: "ranking" },
+
+      { type: "h3", title: `1. LBS Gravedad Cero` },
+      { type: "product-card", productMlaId: "MLA1537164525", label: "La más vendida", labelColor: "green", ranking: 1, description: `Estructura de acero y plástico, 2,5 kg, plegable. La que más unidades vendió de esta comparativa (+10 mil) y la más barata, con {{reviews:MLA1537164525}} opiniones.` },
+      { type: "p", content: `Es la reposera que más unidades vendió de esta comparativa: más de 10 mil, muy por encima de las otras 3 fichas. También la más barata, a {{precio:MLA1537164525}}. {{reviews:MLA1537164525}} calificaciones a {{rating:MLA1537164525}} estrellas.` },
+      { type: "pull-quote", content: `"Las sillas son buenas, cómodas, estéticamente muy lindas pero se manchan fácil."`, attribution: `Compradora de la LBS, calificación 5/5` },
+      { type: "p", content: `La contra real: la tela se mancha con facilidad según reseñas reales, y no está pensada para una persona de contextura muy grande.` },
+
+      { type: "h3", title: `2. Mor 110 kg` },
+      { type: "product-card", productMlaId: "MLA2428696150", label: "La más calificada", labelColor: "amber", ranking: 2, description: `Estructura de hierro, capacidad declarada de 110 kg. La más calificada de esta comparativa por lejos, con {{reviews:MLA2428696150}} opiniones.` },
+      { type: "p", content: `{{reviews:MLA2428696150}} calificaciones a {{rating:MLA2428696150}} estrellas, muy por encima de las otras 3 fichas, 15° en el ranking propio de MercadoLibre de toda la categoría Reposeras y Camastros. Mor es una marca brasileña con fuerte presencia en Argentina.` },
+      { type: "pull-quote", content: `"Perfectas, superaron mis expectativas... son increíbles, hermosas, me encantaron, las recomiendo."`, attribution: `Compradora de la Mor, calificación 5/5` },
+      { type: "p", content: `La contra real: buena parte de sus calificaciones vienen del sistema de reseñas que MercadoLibre comparte entre países de la región, no solo de Argentina, y alguna reseña esperaba un modelo más grande.` },
+
+      { type: "h3", title: `3. Exahome Akua 8` },
+      { type: "product-card", productMlaId: "MLA1444103177", label: "8 posiciones", labelColor: "blue", ranking: 3, description: `Estructura de aluminio, 8 posiciones ajustables, 4 colores. La mayor variedad de esta comparativa, con {{reviews:MLA1444103177}} opiniones.` },
+      { type: "p", content: `Ninguna otra ficha de esta comparativa iguala sus 8 posiciones ajustables ni la variedad de colores (blanco, azul, verde y negro). El aluminio no se oxida con la arena ni la humedad. {{reviews:MLA1444103177}} calificaciones a {{rating:MLA1444103177}} estrellas, 3° en el ranking propio de MercadoLibre.` },
+      { type: "pull-quote", content: `"Es liviana, fácil de armar, cómoda, se transporta fácil, se puede mojar y no pasa nada."`, attribution: `Compradora de la Exahome, calificación 5/5` },
+      { type: "p", content: `La contra real, dicha de frente por la misma reseña: no está pensada para una persona de más de 90 kg. El asiento también queda más bajo de lo esperado, según otra reseña.` },
+
+      { type: "h3", title: `4. Camastro Netpur` },
+      { type: "product-card", productMlaId: "MLA3840899430", label: "Formato cama", labelColor: "purple", ranking: 4, description: `Camastro de 1,9 metros, 5 posiciones, resistente para pileta. La única con formato de cama de esta comparativa, con {{reviews:MLA3840899430}} opiniones.` },
+      { type: "p", content: `A diferencia de las otras 3 fichas, que son sillas, este es un camastro completo de 1,9 metros: sirve para tomar sol acostado, no sentado. {{reviews:MLA3840899430}} calificaciones a {{rating:MLA3840899430}} estrellas, 8° en el ranking propio de MercadoLibre.` },
+      { type: "pull-quote", content: `"Es hermosa y aguanta re bien el peso. Me siento muy cómoda para tomar sol."`, attribution: `Compradora del camastro Netpur, calificación 5/5` },
+      { type: "p", content: `La contra real: es la más cara de esta comparativa por lejos, unas 4 veces el precio de la LBS, y no tiene apoyabrazos.` },
+
+      { type: "h2", title: `Cómo elegir tu reposera`, id: "como-elegir" },
+      { type: "h3", title: `1. Definí primero silla o cama` },
+      { type: "p", content: `Si querés sentarte a leer, comer o charlar, una silla como la LBS, la Mor o la Exahome de esta comparativa alcanza. Si el plan es tirarte al sol acostado junto a la pileta, el camastro Netpur es la única opción de esta comparativa pensada para eso.` },
+      { type: "h3", title: `2. Mirá el material según dónde la vas a usar` },
+      { type: "p", content: `Para playa o cerca de pileta, el aluminio de la Exahome es la opción que mejor resiste la arena y la humedad sin oxidarse. Para patio o jardín, el acero o el hierro de la LBS y la Mor cumplen igual de bien.` },
+      { type: "h3", title: `3. Mirá rating y cantidad de opiniones juntos` },
+      { type: "p", content: `Un volumen alto de reseñas no siempre es lo que parece: la Mor de esta comparativa suma calificaciones de varios países de la región, no solo Argentina. Igual son reales y confirman que la marca funciona bien.` },
+
+      { type: "h2", title: `Cuánto cuesta una reposera en Argentina`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de {{precio:MLA1537164525:k}}:** la [LBS Gravedad Cero](/producto/reposera-silla-camping-playa-tela-premium-reforzada-gravedad-cero-mla1537164525), la más vendida y barata de esta comparativa.`,
+        `**Alrededor de {{precio:MLA2428696150:k}}:** la [Mor 110 kg](/producto/silla-alta-plegable-de-acero-mor-capacidad-110kg-color-negro-mla2428696150), la más calificada.`,
+        `**Alrededor de {{precio:MLA1444103177:k}}:** la [Exahome Akua 8](/producto/reposera-silla-aluminio-8-posiciones-exahome-playa-camping-blanco-mla1444103177), la de más posiciones y colores.`,
+        `**Alrededor de {{precio:MLA3840899430:k}}:** el [camastro Netpur](/producto/reposera-cama-plegable-5-posiciones-pileta-resistente-color-gris-mla3840899430), la única con formato de cama.`,
+      ] },
+
+      { type: "verdict", content: `Para la mayoría, la **[LBS Gravedad Cero](/producto/reposera-silla-camping-playa-tela-premium-reforzada-gravedad-cero-mla1537164525)**: la más vendida y la más barata de esta comparativa. Si preferís la opción con más respaldo de reseñas, la **[Mor 110 kg](/producto/silla-alta-plegable-de-acero-mor-capacidad-110kg-color-negro-mla2428696150)**, sabiendo que buena parte de sus reseñas vienen de fuera de Argentina. Si buscás variedad de posiciones y colores, la **[Exahome Akua 8](/producto/reposera-silla-aluminio-8-posiciones-exahome-playa-camping-blanco-mla1444103177)**, de aluminio. Y si querés tirarte al sol acostado junto a la pileta, el **[camastro Netpur](/producto/reposera-cama-plegable-5-posiciones-pileta-resistente-color-gris-mla3840899430)**, sabiendo que es la opción más cara de esta comparativa.` },
+
+      { type: "h2", title: `Preguntas frecuentes`, id: "faq" },
+    ],
+    faq: [
+      { question: `¿Cuál es la mejor reposera en Argentina?`, answer: `Depende del uso: la [LBS Gravedad Cero](/producto/reposera-silla-camping-playa-tela-premium-reforzada-gravedad-cero-mla1537164525) es la más vendida y barata de esta comparativa. La [Mor 110 kg](/producto/silla-alta-plegable-de-acero-mor-capacidad-110kg-color-negro-mla2428696150) tiene más respaldo de reseñas.` },
+      { question: `¿Conviene una reposera de aluminio o de acero?`, answer: `El aluminio no se oxida con la arena ni la humedad y es más liviano, ideal para playa o pileta. El acero y el hierro son más rígidos, buenos para patio o jardín. La [Exahome](/producto/reposera-silla-aluminio-8-posiciones-exahome-playa-camping-blanco-mla1444103177) de esta guía es la única de aluminio.` },
+      { question: `¿Qué diferencia hay entre una reposera y un camastro?`, answer: `La reposera es una silla plegable (algunos modelos se ajustan en varias posiciones, otros no). El camastro, como el [Netpur](/producto/reposera-cama-plegable-5-posiciones-pileta-resistente-color-gris-mla3840899430) de esta guía, es una cama completa pensada para tirarse acostado, no para sentarse.` },
+      { question: `¿Cuál es la reposera más barata de esta guía?`, answer: `La [LBS Gravedad Cero](/producto/reposera-silla-camping-playa-tela-premium-reforzada-gravedad-cero-mla1537164525), a {{precio:MLA1537164525}}.` },
+      { question: `¿Por qué la Mor tiene tantas más opiniones que las otras?`, answer: `Porque MercadoLibre agrupa en la misma ficha las calificaciones de varios países de la región, no solo Argentina. Son reales, pero no todas de compradores argentinos.` },
+      { question: `¿Qué reposera aguanta más peso?`, answer: `La [Mor](/producto/silla-alta-plegable-de-acero-mor-capacidad-110kg-color-negro-mla2428696150) declara una capacidad de 110 kg en su ficha. La [Exahome](/producto/reposera-silla-aluminio-8-posiciones-exahome-playa-camping-blanco-mla1444103177) no declara un límite exacto, pero una reseña real avisa que no es para más de 90 kg.` },
+    ],
+    internalLinks: [
+      { label: "Pileta Pelopincho: cuál comprar en Argentina", href: "/guias/hogar-jardin/pileta-pelopincho" },
+      { label: "Sombrilla de playa: cuál comprar en Argentina", href: "/guias/hogar-jardin/sombrilla-de-playa" },
+      { label: "Conservadora: cuál comprar en Argentina", href: "/guias/hogar-jardin/conservadora" },
+    ],
+    internalLinksTitle: "Más de hogar y jardín",
   },
   // ─────────────────────────────────────────────────────────
   // PILAR conservadora — silo hogar-jardin, diseño best-of (ver docs/guias.md)
@@ -28063,6 +28184,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { label: `Pileta Pelopincho: cuál comprar en Argentina`, href: `/guias/hogar-jardin/pileta-pelopincho` },
       { label: `Sombrilla de playa: cuál comprar`, href: `/guias/hogar-jardin/sombrilla-de-playa` },
       { label: `Colchón inflable 2 plazas: cuál comprar`, href: `/guias/hogar-jardin/colchon-inflable-2-plazas` },
+      { label: `Reposera: cuál comprar en Argentina`, href: `/guias/hogar-jardin/reposera` },
       { label: `Ver toda la categoría Hogar y Jardín`, href: `/categoria/hogar-jardin` },
     ],
     internalLinksTitle: "Más de hogar y jardín",

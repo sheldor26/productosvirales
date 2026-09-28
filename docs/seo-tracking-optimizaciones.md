@@ -2611,3 +2611,21 @@ Re-medir: pendiente de fijar fecha (recién publicada).
 **Verificación:** `npx tsc --noEmit`, `npm run build`, y los scripts relevantes de `guides:check` en verde de punta a punta, incluido `check-guide-monetization.cjs` (los 4 afiliados ya cargados). Los mismos 3 hardcoded prices preexistentes de siempre (gaming/multisistema), no tocados por esta sesión.
 
 Re-medir: pendiente de fijar fecha (recién publicada).
+
+## Guía nueva `reposera` — silo `hogar-jardin` (existente) — 2026-09-26
+
+| Guía | Silo | Categoría | Keyword del cluster | Volumen | SD | Productos |
+| :-- | :-- | :-- | :-- | --: | --: | --: |
+| `reposera` | hogar-jardin | reposeras | reposera | 22.200/mes | — | 4 (sourcing nuevo) |
+
+**Baseline: cero.** URL nueva, sin historial en GSC. Origen: research de verano puntual el 2026-09-26 (Keyword Planner), a pedido de Juan de sumar algo pensando en el verano mientras entra la primavera. "reposera" resultó el mejor hallazgo del barrido: 22.200/mes, el SERP más limpio posible (MercadoLibre en posición 2 de Google, justo detrás de Google Imágenes, y el resto son tiendas y catálogos de marca sin un solo comparador editorial). Se sumó al silo `hogar-jardin` existente (pileta-pelopincho, sombrilla-de-playa, conservadora) con enlazado recíproco en las 3, en vez de abrir un silo nuevo.
+
+**Sourcing nuevo en vivo, 4 fichas (Chrome de Juan, ML bloquea el navegador interno):** LBS Gravedad Cero (MLA1537164525, 4.7★/1.454, +10 mil unidades vendidas, la más barata a $29.490); Mor Silla Alta 110kg (MLA2428696150, 4.9★/5.605, marca brasileña, 15° en el ranking propio de Reposeras y Camastros); Exahome Akua 8 (MLA1444103177, 4.5★/2.301, aluminio, 8 posiciones, 4 colores, 3° en el ranking); Netpur Reposera Cama (MLA3840899430, 4.8★/131, único formato de camastro de 1,9m, 8° en el ranking, la más cara a $119.500). Afiliados generados en vivo con Juan (linkbuilder, etiqueta "productosvirales", verificados contra `/social/jm159?matt_word=productosvirales`): LBS `meli.la/28Vhjh4`, Mor `meli.la/1s4zGXY`, Exahome `meli.la/1sSazeh`, Netpur `meli.la/32aFgkx`.
+
+**Hallazgo particular: Mor es una marca brasileña con reseñas cruzadas de Mercado Livre.** Al revisar sus 5.605 opiniones aparecieron varias en portugués/tageadas "Brasil" (una incluso venía con botón "Traducido"/"Ver original"). Se aplicó el mismo patrón de disclosure ya usado antes en la guía `conservadora` del sitio para el mismo fenómeno regional (sección "Sobre las calificaciones de estas publicaciones"), tanto en la ficha como en un callout dedicado de la guía. No es una regla nueva, es reutilizar un patrón ya validado.
+
+**Auditoría del trío: 3 rondas de Codex + 1 de agy hasta doble GO (la más corta de las 3 guías de superlativos de esta racha).** Aplicando directamente las lecciones de `tacho-de-basura` (25/9) y `tupper` (26/9), se evitó desde el arranque el error de "más vendido/barato sin acotar": a LBS se la presentó solo por unidades vendidas concretas (+10 mil, verificable, sin badge de ranking que la contradijera), a Mor por reseñas/rating, a Exahome por feature (posiciones/colores) y a Netpur por formato de producto (cama vs silla). Aun así, Codex encontró 4 rastros cruzados en la primera pasada: un seoTitle sin acotar, una afirmación de la guía ("ninguna declara límite de peso") contradicha por el dato real de Mor (110 kg), una generalización ("las reposeras se reclinan en varias posiciones") que no aplica a Mor, y una comparación de peso falsa en una FAQ (LBS no es la más liviana, Mor y Exahome pesan menos). La generalización sobre reclinado sobrevivió una ronda más en una FAQ de la guía que repetía la misma frase en otro contexto, resuelta en la ronda 3.
+
+**Verificación:** `npx tsc --noEmit`, `npm run build`, y los 6 scripts relevantes de `guides:check` en verde de punta a punta, incluido `check-guide-monetization.cjs` (los 4 afiliados ya cargados).
+
+Re-medir: pendiente de fijar fecha (recién publicada).

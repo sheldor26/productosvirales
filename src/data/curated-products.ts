@@ -79373,6 +79373,421 @@ El más económico por unidad de esta comparativa, ideal para volumen antes que 
     },
   },
 
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva reposera — silo hogar-jardin (existente, con pileta-pelopincho,
+  // sombrilla-de-playa, conservadora). Origen: research de verano 2026-09-26,
+  // "reposera" 22.200/mes en Keyword Planner, MercadoLibre en posición 2 del
+  // SERP (Google) y cero comparadores editoriales. 4 fichas nuevas, sourcing
+  // en vivo el 2026-09-26 (Chrome de Juan, ML bloquea el navegador interno).
+  // ─────────────────────────────────────────────────────────
+  {
+    id: "MLA1537164525",
+    title: "Reposera Silla Camping Playa Tela Premium Reforzada Gravedad Cero",
+    canonicalName: "LBS Reposera Gravedad Cero",
+    brand: "LBS",
+    price: 29490,
+    originalPrice: 38247,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_644520-MLA96415554833_102025-OO.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_644520-MLA96415554833_102025-OO.webp",
+    ],
+    category: "Hogar, Muebles y Jardín",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/reposera-silla-camping-playa-tela-premium-reforzada-gravedad-cero/p/MLA56624299",
+    affiliateUrl: "https://meli.la/28Vhjh4",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 1454,
+    pastelColor: "var(--pastel-green)",
+    specs: [
+      { label: "Marca", value: "LBS" },
+      { label: "Modelo", value: "Reposera Exterior" },
+      { label: "Tipo", value: "Gravedad cero, plegable" },
+      { label: "Materiales de la estructura", value: "Plástico, acero" },
+      { label: "Con apoyabrazos", value: "Sí (plástico)" },
+      { label: "Peso", value: "2,5 kg" },
+      { label: "Dimensiones", value: "40 x 45 x 76 cm" },
+      { label: "Color", value: "Negro" },
+      { label: "Es portátil", value: "Sí" },
+      { label: "Condición", value: "Nuevo" },
+      { label: "Envío", value: "Gratis (FULL)" },
+      { label: "Vendedor", value: "La Balanza Shop, tienda oficial, +100 mil ventas" },
+    ],
+    relatedProducts: ["MLA2428696150", "MLA1444103177", "MLA3840899430"],
+    priceUpdated: "2026-09-26", priceLastChecked: "2026-09-26", priceStatus: "fresh", reviewsSampledAt: "2026-09-26",
+    description: "Reposera plegable LBS, gravedad cero, estructura de acero y plástico, 2,5 kg. Es la que más unidades vendió de esta comparativa (+10 mil) y la más barata: {{reviews:MLA1537164525}} opiniones a {{rating:MLA1537164525}} estrellas.",
+    seoTitle: "Reposera LBS Gravedad Cero: +10 mil vendidas",
+    metaDescription: "Reposera plegable LBS gravedad cero, 2,5 kg, acero y plástico. {{reviews:MLA1537164525}} opiniones a {{rating:MLA1537164525}} estrellas, +10 mil vendidas.",
+    verdict: "Es la reposera que más unidades vendió de esta comparativa (+10 mil, la cifra más alta de las 4 fichas) y también la más barata, a {{precio:MLA1537164525}}. {{reviews:MLA1537164525}} calificaciones reales a {{rating:MLA1537164525}} estrellas, vendida por una tienda oficial con más de 100 mil ventas totales. Es liviana (2,5 kg) y plegable, ideal para llevar y traer de la playa. La salvedad honesta que confirman las reseñas: la tela se mancha con facilidad y no es para una persona de contextura muy grande.",
+    pros: [
+      "La que más unidades vendió de esta comparativa: +10 mil, muy por encima de las otras 3 fichas",
+      `La más barata de esta comparativa: {{precio:MLA1537164525}}`,
+      "Liviana (2,5 kg) y plegable, fácil de transportar",
+      `{{reviews:MLA1537164525}} calificaciones a {{rating:MLA1537164525}} estrellas, vendida por tienda oficial`,
+    ],
+    cons: [
+      "La tela se mancha con facilidad según reseñas reales",
+      "No es para una persona de contextura muy grande, según una reseña real",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace 9 meses", useful: 33, text: "Compré un viernes para que me llegue sábado y terminó llegando un lunes. Solo por eso no volvería a comprar, en cuanto a las sillas son buenas, cómodas, estéticamente muy lindas pero se manchan fácil." },
+      { rating: 4, country: "Argentina", date: "hace 8 meses", useful: 15, text: "Por ahora todo bien, las veo no muy resistentes, pero por ahora cumple con su función. Son lindas y livianas. Pero son chicas, una persona de contextura muy grande, no cabe." },
+    ],
+    articleBody: `## Qué es la reposera LBS Gravedad Cero
+
+Es una reposera plegable de gravedad cero (se reclina totalmente hacia atrás), con estructura de acero y plástico, 2,5 kg de peso. Cuesta {{precio:MLA1537164525}} y es la que más unidades vendió de esta comparativa: más de 10 mil, muy por encima de las otras 3 fichas.
+
+## La más barata, con una salvedad honesta
+
+A {{precio:MLA1537164525}} es también la más económica de esta comparativa. Las reseñas reales confirman que cumple para lo básico, pero hay que decir de frente lo que avisan: "son buenas, cómodas, estéticamente muy lindas pero se manchan fácil", y otra agrega que "no muy resistentes... son chicas, una persona de contextura muy grande, no cabe".
+
+## Para quién es, y para quién no
+
+Es para vos si buscás la opción más barata y liviana para llevar a la playa o el camping, sin pretender la robustez de un modelo más caro. Si buscás más calificaciones y una marca reconocida, la [Mor](/producto/silla-alta-plegable-de-acero-mor-capacidad-110kg-color-negro-mla2428696150) de esta comparativa tiene más respaldo.
+
+## El veredicto
+
+La reposera con más unidades vendidas y el precio más bajo de esta comparativa, con una tela que se mancha fácil como contra real.`,
+    faq: [
+      { question: "¿Es la reposera más vendida de MercadoLibre?", answer: "Es la que más unidades vendió de esta comparativa puntual (+10 mil), muy por encima de las otras 3 fichas." },
+      { question: "¿Es resistente?", answer: "Según reseñas reales, cumple para el uso básico pero no es la más resistente: una reseña avisa que no es para una persona de contextura muy grande." },
+      { question: "¿La tela se mancha?", answer: "Sí, más de una reseña real lo confirma: es estéticamente linda pero se mancha con facilidad." },
+      { question: "¿Cuánto pesa?", answer: "2,5 kg, liviana para llevar y traer de la playa o el camping." },
+      { question: "¿Tiene envío gratis?", answer: "Sí, la despacha una tienda oficial por FULL con envío gratis." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "LBS Reposera Gravedad Cero",
+      image: ["https://http2.mlstatic.com/D_NQ_NP_644520-MLA96415554833_102025-OO.webp"],
+      description: "Reposera plegable LBS, gravedad cero, estructura de acero y plástico, 2,5 kg.",
+      brand: { "@type": "Brand", name: "LBS" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/reposera-silla-camping-playa-tela-premium-reforzada-gravedad-cero/p/MLA56624299",
+        priceCurrency: "ARS",
+        price: "29490",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.7",
+        reviewCount: "1454",
+      },
+    },
+  },
+  {
+    id: "MLA2428696150",
+    title: "Silla Alta Plegable De Acero Mor Capacidad 110kg Color Negro",
+    canonicalName: "Mor Silla Alta Plegable (110 kg)",
+    brand: "Mor",
+    price: 35150,
+    originalPrice: 49999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_909070-MLA96104172547_102025-OO.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_909070-MLA96104172547_102025-OO.webp",
+    ],
+    category: "Hogar, Muebles y Jardín",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/silla-alta-plegable-de-acero-mor-capacidad-110kg-color-negro-negro/p/MLA51044183",
+    affiliateUrl: "https://meli.la/1s4zGXY",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.9,
+    reviewCount: 5605,
+    badge: "bestseller",
+    pastelColor: "var(--pastel-amber)",
+    specs: [
+      { label: "Marca", value: "Mor" },
+      { label: "Modelo", value: "2172" },
+      { label: "Tipo", value: "Reposera alta, plegable" },
+      { label: "Materiales de la estructura", value: "Hierro, polietileno" },
+      { label: "Material del asiento", value: "Polietileno" },
+      { label: "Con apoyabrazos", value: "Sí" },
+      { label: "Capacidad", value: "110 kg" },
+      { label: "Peso", value: "2 kg" },
+      { label: "Dimensiones (plegada)", value: "67 x 54 x 7 cm" },
+      { label: "Color", value: "Negro" },
+      { label: "Condición", value: "Nuevo" },
+      { label: "Vendedor", value: "Tienda oficial HOMEWORLD, +100 mil ventas" },
+    ],
+    relatedProducts: ["MLA1537164525", "MLA1444103177", "MLA3840899430"],
+    priceUpdated: "2026-09-26", priceLastChecked: "2026-09-26", priceStatus: "fresh", reviewsSampledAt: "2026-09-26",
+    description: "Reposera alta plegable Mor, estructura de hierro, capacidad declarada de 110 kg. Es la más calificada de esta comparativa: {{reviews:MLA2428696150}} opiniones a {{rating:MLA2428696150}} estrellas, 15° en el ranking propio de MercadoLibre de Reposeras y Camastros.",
+    seoTitle: "Reposera Mor: la más calificada de esta comparativa",
+    metaDescription: "Reposera alta plegable Mor, acero, capacidad 110 kg. {{reviews:MLA2428696150}} opiniones a {{rating:MLA2428696150}} estrellas, 15° en Reposeras y Camastros.",
+    verdict: "Es la reposera con más respaldo de esta comparativa: {{reviews:MLA2428696150}} calificaciones reales a {{rating:MLA2428696150}} estrellas, muy por encima de las otras 3 fichas, 15° en el ranking propio de MercadoLibre de toda la categoría Reposeras y Camastros. Mor es una marca brasileña con fuerte presencia en Argentina, y varias de sus reseñas provienen del sistema de calificaciones que MercadoLibre comparte entre países de la región, no todas son de compradores argentinos, aunque son reales y verificables. Capacidad declarada de 110 kg, vendida por una tienda oficial con más de 100 mil ventas. La salvedad honesta: alguna reseña esperaba un modelo más grande.",
+    pros: [
+      "La más calificada de esta comparativa por lejos: {{reviews:MLA2428696150}} calificaciones a {{rating:MLA2428696150}} estrellas",
+      "Marca reconocida (Mor), 15° en el ranking propio de MercadoLibre de la categoría",
+      "Capacidad declarada de 110 kg",
+      "Vendida por tienda oficial con más de 100 mil ventas",
+    ],
+    cons: [
+      "Algunas reseñas esperaban un modelo más grande de lo que llegó",
+      "Buena parte de sus calificaciones vienen del sistema de reseñas compartido entre países de MercadoLibre, no solo de Argentina",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Brasil", date: "hace 9 meses", text: "Estoy muy satisfecha con mi compra. Las sillas son bonitas y resistentes, pero en cuanto a la silla alta, pensé que serían más grandes." },
+      { rating: 5, country: "Brasil", date: "hace 11 meses", useful: 46, text: "Perfectas, superaron mis expectativas... son increíbles, hermosas, me encantaron... las recomiendo, compren sin miedo." },
+    ],
+    articleBody: `## Qué es la reposera Mor
+
+Es una reposera alta plegable de la marca Mor, estructura de hierro con asiento de polietileno, capacidad declarada de 110 kg. Cuesta {{precio:MLA2428696150}} y es, por lejos, la reposera con más respaldo de esta comparativa: {{reviews:MLA2428696150}} calificaciones reales a {{rating:MLA2428696150}} estrellas, 15° en el ranking propio de MercadoLibre de toda la categoría Reposeras y Camastros.
+
+## Sobre las calificaciones de esta publicación
+
+Mor es una marca brasileña con distribución fuerte en Argentina, y MercadoLibre agrupa en una misma ficha de catálogo las opiniones de varios países de la región, no solo las de Argentina. Por eso esta ficha muestra un volumen de reseñas muy superior al resto de esta comparativa. Las calificaciones son reales y verificables, pero no todas son de compradores argentinos, y preferimos decirlo antes que presentarlas como si lo fueran.
+
+## Lo que dicen los compradores reales
+
+Las reseñas coinciden en la calidad general: "perfectas, superaron mis expectativas... son increíbles, hermosas, me encantaron", aunque una aclara honestamente que "pensé que serían más grandes" al recibirla.
+
+## Para quién es, y para quién no
+
+Es para vos si preferís la opción con más respaldo de reseñas y una marca reconocida en el rubro. Si buscás la opción más barata sin importar la marca, la [LBS](/producto/reposera-silla-camping-playa-tela-premium-reforzada-gravedad-cero-mla1537164525) de esta comparativa cuesta menos.
+
+## El veredicto
+
+La reposera con más respaldo de reseñas de esta comparativa y una marca reconocida, con la salvedad honesta de que buena parte de esas reseñas vienen de fuera de Argentina.`,
+    faq: [
+      { question: "¿Es una marca argentina?", answer: "No, Mor es una marca brasileña con fuerte distribución en Argentina." },
+      { question: "¿Por qué tiene tantas más opiniones que las otras reposeras de esta guía?", answer: "Porque MercadoLibre agrupa en la misma ficha las calificaciones de varios países de la región, no solo Argentina. Son reales, pero no todas de compradores argentinos." },
+      { question: "¿Qué capacidad de peso soporta?", answer: "110 kg, según su propia ficha técnica." },
+      { question: "¿Es la reposera más calificada de esta comparativa?", answer: `Sí, {{reviews:MLA2428696150}} calificaciones a {{rating:MLA2428696150}} estrellas, muy por encima de las otras 3 fichas.` },
+      { question: "¿Quién la vende?", answer: "La tienda oficial HOMEWORLD, con más de 100 mil ventas totales." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Mor Silla Alta Plegable (110 kg)",
+      image: ["https://http2.mlstatic.com/D_NQ_NP_909070-MLA96104172547_102025-OO.webp"],
+      description: "Reposera alta plegable Mor, estructura de hierro, capacidad declarada de 110 kg.",
+      brand: { "@type": "Brand", name: "Mor" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/silla-alta-plegable-de-acero-mor-capacidad-110kg-color-negro-negro/p/MLA51044183",
+        priceCurrency: "ARS",
+        price: "35150",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.9",
+        reviewCount: "5605",
+      },
+    },
+  },
+  {
+    id: "MLA1444103177",
+    title: "Reposera Silla Aluminio 8 Posiciones Exahome Playa Camping Blanco",
+    canonicalName: "Exahome Akua 8 (8 posiciones)",
+    brand: "Exahome",
+    price: 56112,
+    originalPrice: 59065,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_817725-MLA96104001821_102025-OO.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_817725-MLA96104001821_102025-OO.webp",
+    ],
+    category: "Hogar, Muebles y Jardín",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/reposera-silla-aluminio-8-posiciones-exahome-playa-camping-blanco/p/MLA39368814",
+    affiliateUrl: "https://meli.la/1sSazeh",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.5,
+    reviewCount: 2301,
+    badge: "bestseller",
+    pastelColor: "var(--pastel-blue)",
+    specs: [
+      { label: "Marca", value: "Exahome" },
+      { label: "Modelo", value: "Akua 8" },
+      { label: "Tipo", value: "Reposera, 8 posiciones" },
+      { label: "Materiales de la estructura", value: "Aluminio" },
+      { label: "Material del asiento", value: "Poliéster con PVC" },
+      { label: "Con apoyabrazos", value: "Sí (plástico)" },
+      { label: "Peso", value: "2,1 kg" },
+      { label: "Dimensiones", value: "47 x 55 x 87 cm" },
+      { label: "Color", value: "Blanco (también azul, verde y negro)" },
+      { label: "Condición", value: "Nuevo" },
+      { label: "Envío", value: "Gratis" },
+      { label: "Vendedor", value: "Tienda oficial Rubenjuve, +100 mil ventas" },
+    ],
+    relatedProducts: ["MLA1537164525", "MLA2428696150", "MLA3840899430"],
+    priceUpdated: "2026-09-26", priceLastChecked: "2026-09-26", priceStatus: "fresh", reviewsSampledAt: "2026-09-26",
+    description: "Reposera Exahome de aluminio, 8 posiciones ajustables, en varios colores. 3° en el ranking propio de MercadoLibre de Reposeras y Camastros, con {{reviews:MLA1444103177}} opiniones a {{rating:MLA1444103177}} estrellas.",
+    seoTitle: "Reposera Exahome: 8 posiciones y varios colores",
+    metaDescription: "Reposera Exahome de aluminio, 8 posiciones, varios colores. {{reviews:MLA1444103177}} opiniones a {{rating:MLA1444103177}} estrellas, 3° en Reposeras y Camastros.",
+    verdict: "Es la reposera con más posiciones ajustables de esta comparativa (8) y la única disponible en varios colores (blanco, azul, verde y negro), con estructura de aluminio que no se oxida con la arena o la humedad. {{reviews:MLA1444103177}} calificaciones reales a {{rating:MLA1444103177}} estrellas, 3° en el ranking propio de MercadoLibre de toda la categoría Reposeras y Camastros, vendida por una tienda oficial con más de 100 mil ventas. La salvedad honesta de una reseña real: no está pensada para una persona de más de 90 kg.",
+    pros: [
+      "8 posiciones ajustables, la mayor variedad de esta comparativa",
+      "Estructura de aluminio: no se oxida con la arena ni la humedad",
+      "Disponible en 4 colores (blanco, azul, verde, negro)",
+      `{{reviews:MLA1444103177}} calificaciones a {{rating:MLA1444103177}} estrellas, 3° en el ranking propio de MercadoLibre de la categoría`,
+    ],
+    cons: [
+      "No está pensada para una persona de más de 90 kg, según una reseña real",
+      "El asiento queda más bajo de lo esperado según otra reseña",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace 1 año", useful: 25, text: "Estoy super contenta, es liviana, fácil de armar, cómoda, se transporta fácil, se puede mojar y no pasa nada, pero que no se siente una persona de más de 90 kg porque calculo que la destruye." },
+      { rating: 4, country: "Argentina", date: "hace 1 año", useful: 10, text: "Es un poco baja, pensé que era un poquito más alta al sentarme pero está bien. Hay que poner la medida desde el piso hasta donde esta la parte que te sentas." },
+    ],
+    articleBody: `## Qué es la reposera Exahome Akua 8
+
+Es una reposera de aluminio con 8 posiciones ajustables, disponible en blanco, azul, verde y negro. Cuesta {{precio:MLA1444103177}} y tiene {{reviews:MLA1444103177}} calificaciones reales a {{rating:MLA1444103177}} estrellas, 3° en el ranking propio de MercadoLibre de toda la categoría Reposeras y Camastros.
+
+## Las 8 posiciones y el aluminio, el diferencial real
+
+Ninguna otra ficha de esta comparativa iguala sus 8 posiciones ajustables ni la variedad de 4 colores. El aluminio de la estructura es una ventaja concreta frente al acero o el hierro de otras reposeras: no se oxida con la arena mojada ni la humedad de la playa. Una reseña real lo confirma: "es liviana, fácil de armar, cómoda, se transporta fácil, se puede mojar y no pasa nada".
+
+## La honestidad sobre el peso y la altura
+
+Hay que decirlo de frente: la misma reseña que la recomienda avisa que "no se siente una persona de más de 90 kg porque calculo que la destruye". Otra reseña agrega que el asiento queda más bajo de lo esperado al sentarse.
+
+## Para quién es, y para quién no
+
+Es para vos si valorás la variedad de posiciones y colores, y preferís aluminio antes que acero. Si tu prioridad es el respaldo de reseñas por encima de todo, la [Mor](/producto/silla-alta-plegable-de-acero-mor-capacidad-110kg-color-negro-mla2428696150) de esta comparativa tiene más calificaciones.
+
+## El veredicto
+
+La reposera con más posiciones ajustables y variedad de colores de esta comparativa, con una limitación de peso real que las propias reseñas confirman.`,
+    faq: [
+      { question: "¿Cuántas posiciones tiene?", answer: "8 posiciones ajustables, la mayor variedad de esta comparativa." },
+      { question: "¿En qué colores viene?", answer: "Blanco, azul, verde y negro." },
+      { question: "¿Qué peso soporta?", answer: "No declara un límite exacto en la ficha, pero una reseña real avisa que no es para una persona de más de 90 kg." },
+      { question: "¿La estructura se oxida?", answer: "No debería: es de aluminio, un material que resiste mejor la arena y la humedad que el acero o el hierro." },
+      { question: "¿Es cómoda para sentarse?", answer: "Según reseñas reales sí, aunque el asiento queda un poco más bajo de lo que varios compradores esperaban." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Exahome Akua 8 (8 posiciones)",
+      image: ["https://http2.mlstatic.com/D_NQ_NP_817725-MLA96104001821_102025-OO.webp"],
+      description: "Reposera Exahome de aluminio, 8 posiciones ajustables, en varios colores.",
+      brand: { "@type": "Brand", name: "Exahome" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/reposera-silla-aluminio-8-posiciones-exahome-playa-camping-blanco/p/MLA39368814",
+        priceCurrency: "ARS",
+        price: "56112",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.5",
+        reviewCount: "2301",
+      },
+    },
+  },
+  {
+    id: "MLA3840899430",
+    title: "Reposera Cama Plegable 5 Posiciones Pileta Resistente Color Gris",
+    canonicalName: "Netpur Reposera Cama (5 posiciones)",
+    brand: "Netpur",
+    price: 119500,
+    originalPrice: 185000,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_609777-MLA116545021285_082026-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_609777-MLA116545021285_082026-F.webp",
+    ],
+    category: "Hogar, Muebles y Jardín",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/reposera-cama-plegable-5-posiciones-pileta-resistente-color-gris/p/MLA77983497",
+    affiliateUrl: "https://meli.la/32aFgkx",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 131,
+    badge: "bestseller",
+    pastelColor: "var(--pastel-purple)",
+    specs: [
+      { label: "Marca", value: "Netpur" },
+      { label: "Modelo", value: "N°19" },
+      { label: "Tipo", value: "Reposera cama, 5 posiciones" },
+      { label: "Materiales de la estructura", value: "Caño de hierro" },
+      { label: "Material del asiento", value: "Poliéster" },
+      { label: "Con apoyabrazos", value: "No" },
+      { label: "Dimensiones", value: "1,9 m x 58 cm x 30 cm" },
+      { label: "Color", value: "Gris" },
+      { label: "Es portátil", value: "Sí" },
+      { label: "Es plegable", value: "Sí" },
+      { label: "Condición", value: "Nuevo" },
+      { label: "Vendedor", value: "Tienda oficial Netpur, +10 mil ventas" },
+    ],
+    relatedProducts: ["MLA1537164525", "MLA2428696150", "MLA1444103177"],
+    priceUpdated: "2026-09-26", priceLastChecked: "2026-09-26", priceStatus: "fresh", reviewsSampledAt: "2026-09-26",
+    description: "Reposera cama plegable Netpur, 1,9 metros, apta para pileta. Es la única con formato de cama de esta comparativa: {{reviews:MLA3840899430}} opiniones a {{rating:MLA3840899430}} estrellas, 8° en el ranking propio de MercadoLibre de Reposeras y Camastros.",
+    seoTitle: "Reposera cama Netpur: para tomar sol acostado",
+    metaDescription: "Reposera cama plegable Netpur, 1,9 m, apta para pileta. {{reviews:MLA3840899430}} opiniones a {{rating:MLA3840899430}} estrellas, 8° en Reposeras y Camastros.",
+    verdict: "Es la única opción con formato de cama de esta comparativa: 1,9 metros de largo, pensada para tomar sol acostado en vez de sentado, resistente para estar cerca de la pileta. {{reviews:MLA3840899430}} calificaciones reales a {{rating:MLA3840899430}} estrellas, 8° en el ranking propio de MercadoLibre de toda la categoría Reposeras y Camastros, vendida por la tienda oficial de la marca. Es también la más cara de esta comparativa por lejos: a {{precio:MLA3840899430}}, unas 4 veces el precio de la LBS. No tiene apoyabrazos, a diferencia de las otras 3 fichas.",
+    pros: [
+      "La única opción con formato de cama de esta comparativa: 1,9 metros para tomar sol acostado",
+      "Resistente para estar cerca de la pileta, según su propia ficha",
+      `{{reviews:MLA3840899430}} calificaciones a {{rating:MLA3840899430}} estrellas, 8° en el ranking propio de MercadoLibre de la categoría`,
+      "Aguanta bien el peso, según reseñas reales",
+    ],
+    cons: [
+      "La más cara de esta comparativa por lejos: unas 4 veces el precio de la LBS",
+      "No tiene apoyabrazos, a diferencia de las otras 3 fichas",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace 8 meses", useful: 3, text: "Es hermosa y aguanta re bien el peso. Me siento muy cómoda para tomar sol." },
+      { rating: 4, country: "Argentina", date: "hace 8 meses", useful: 3, text: "Resistente y funcional, pensé que era un poco más alta. Pero fue mi error." },
+    ],
+    articleBody: `## Qué es la reposera cama Netpur
+
+Es una reposera con formato de cama (camastro), 1,9 metros de largo, estructura de caño de hierro y 5 posiciones, resistente para estar cerca de la pileta. Cuesta {{precio:MLA3840899430}} y es la única opción con este formato de esta comparativa: {{reviews:MLA3840899430}} calificaciones reales a {{rating:MLA3840899430}} estrellas, 8° en el ranking propio de MercadoLibre de toda la categoría Reposeras y Camastros.
+
+## Para tomar sol acostado, no sentado
+
+A diferencia de las otras 3 fichas de esta comparativa, que son sillas plegables, esta se arma como una cama completa: sirve para tomar sol tirado, no sentado. Una reseña real lo confirma: "es hermosa y aguanta re bien el peso, me siento muy cómoda para tomar sol".
+
+## El precio, la contra real
+
+A {{precio:MLA3840899430}}, es la más cara de esta comparativa por lejos, unas 4 veces el precio de la [LBS](/producto/reposera-silla-camping-playa-tela-premium-reforzada-gravedad-cero-mla1537164525). Tampoco tiene apoyabrazos, a diferencia de las otras 3 fichas. Tiene sentido si el uso real es tomar sol acostado junto a la pileta, no como silla de uso general.
+
+## Para quién es, y para quién no
+
+Es para vos si buscás específicamente el formato de cama para tomar sol acostado cerca de la pileta. Si necesitás una silla para sentarte a comer o jugar a las cartas, cualquiera de las otras 3 fichas de esta comparativa cumple mejor y cuesta menos.
+
+## El veredicto
+
+La única opción con formato de cama de esta comparativa, ideal para tomar sol acostado junto a la pileta, con el precio más alto de las 4 fichas como contra real.`,
+    faq: [
+      { question: "¿Es una silla o una cama?", answer: "Es un camastro: se reclina en 5 posiciones hasta quedar totalmente horizontal, a diferencia de una reposera tradicional." },
+      { question: "¿Es apta para estar cerca de la pileta?", answer: "Sí, según su propia ficha está pensada para resistir la humedad de la pileta." },
+      { question: "¿Tiene apoyabrazos?", answer: "No, a diferencia de las otras 3 fichas de esta comparativa." },
+      { question: "¿Por qué es tan cara?", answer: "Por el formato: es un camastro completo de 1,9 metros, no una silla plegable simple, y eso se refleja en el precio, unas 4 veces el de la opción más económica de esta comparativa." },
+      { question: "¿Aguanta bien el peso?", answer: "Según reseñas reales sí: una compradora destaca que aguanta bien y se siente cómoda para tomar sol." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Netpur Reposera Cama (5 posiciones)",
+      image: ["https://http2.mlstatic.com/D_NQ_NP_609777-MLA116545021285_082026-F.webp"],
+      description: "Reposera cama plegable Netpur, 1,9 metros, apta para pileta.",
+      brand: { "@type": "Brand", name: "Netpur" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/reposera-cama-plegable-5-posiciones-pileta-resistente-color-gris/p/MLA77983497",
+        priceCurrency: "ARS",
+        price: "119500",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.8",
+        reviewCount: "131",
+      },
+    },
+  },
+
   // ─── Silo de verano: piletas (sourcing Bright Data 2026-08-13) ───
   // Sin rating/reviewCount: el scraper puntual no devuelve el agregado de ML.
   // Los completa la proxima corrida del workflow de precios. No se inventan.
