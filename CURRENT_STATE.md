@@ -1,7 +1,7 @@
 # Estado actual
 
 > Snapshot del proyecto. Se actualiza al final de cada sesión.
-> Última actualización: 2026-09-28 — Checklist del reporte SEO semanal: refresh de stock/reseñas en microondas, yogurtera-daewoo, atma-freidoras-de-aire-review y silla-gamer. Encontró 2 problemas reales de stock (yogurtera Daewoo Yoggy Pro dada de baja, freidora Atma FR248ABP negra devaluada a vendedores marginales) que requirieron reescribir 2 guías y sourcear 2 fichas nuevas. Ver detalle abajo.
+> Última actualización: 2026-09-28 — Checklist del reporte SEO semanal: refresh de stock/reseñas en microondas, yogurtera-daewoo, atma-freidoras-de-aire-review y silla-gamer. Encontró 2 problemas reales de stock (yogurtera Daewoo Yoggy Pro dada de baja, freidora Atma FR248ABP negra devaluada a vendedores marginales) que requirieron reescribir 2 guías, sourcear 2 fichas nuevas, y propagar el cambio de pick Atma a las 18 guías del sitio que citaban el modelo devaluado. Ver detalle abajo.
 
 ## Sesión 2026-09-28 — Refresh de 4 guías vencidas + 2 hallazgos de stock
 
@@ -11,7 +11,7 @@ Checklist del reporte SEO semanal (`docs/seo-reports/2026-09-28.md`), ítem "ref
 
 **Resultado por guía:**
 - `microondas` (4 productos) y `silla-gamer` (4 productos): todos en stock, badges "MÁS VENDIDO" intactos, solo drift normal de `reviewCount` (±1-2%). Actualizados los 8 números para que los tokens `{{reviews:ID}}` queden exactos.
-- `atma-freidoras-de-aire-review` (3 productos): la Atma Pro FR60AR y la doble canasta están sanas. La **FR248ABP negra (MLA39861162)**, que era el pick "Nuestra elección" de la guía, perdió su oferta de vendedor confiable — hoy solo hay 3 vendedores marginales desde $240.000 (vs. los $171.999 que se venía trackeando) y ya no tiene la insignia "MÁS VENDIDO". Su gemela blanca (FR248AWP, MLA39861128, ya fichada para otra guía) sigue sana y con la insignia. Se cambió el pick "Nuestra elección" de la negra a la blanca en toda la guía (quickPicks, H2, product-card, tabla, links de compra) con un callout explicando el porqué. **Pendiente fuera de esta sesión:** MLA39861162 sigue citada como pick en ~7 guías más del sitio que no se tocaron hoy.
+- `atma-freidoras-de-aire-review` (3 productos): la Atma Pro FR60AR y la doble canasta están sanas. La **FR248ABP negra (MLA39861162)**, que era el pick "Nuestra elección" de la guía, perdió su oferta de vendedor confiable — al verificar solo había 3 vendedores marginales desde $240.000 (vs. los $171.999 que se venía trackeando, precio que además resultó volátil: el pipeline automático lo re-scrapeó de vuelta a $171.999 horas después) y ya no tiene la insignia "MÁS VENDIDO". Su gemela blanca (FR248AWP, MLA39861128, ya fichada para otra guía) sigue sana y con la insignia. Se cambió el pick de la negra a la blanca no solo en esta guía sino en **las 18 guías del sitio** que la citaban (ver `docs/productos-sin-stock.md` para la lista completa), con callouts explicando el cambio donde correspondía y sin hardcodear el precio puntual de la negra (por la volatilidad observada).
 - `yogurtera-daewoo` (1 producto): la **Daewoo Yoggy Pro DYM672T (MLA65327878)**, la única yogurtera Daewoo para yogur griego colado, se dio de baja por completo en MercadoLibre — sin variante alternativa, sin sucesor del mismo código de modelo. Esto rompía la premisa central de dos guías: la satélite `yogurtera-daewoo` (reescrita por completo, ahora recomienda la Daewoo DYM-650, la Daewoo con más ventas reales hoy pero sin función griego) y el puesto "para yogur griego" de la guía pilar `yogurtera` (reemplazado por la Delhi DL-160Y, mismo formato de recipiente único + filtro, con la ventaja real de apagado automático de verdad). 2 fichas nuevas sourceadas y auditadas en vivo (Daewoo DYM-650 MLA26962414, Delhi DL-160Y MLA63993106), con afiliados reales generados y verificados.
 
 Los 2 hallazgos de stock quedaron documentados con el detalle completo en `docs/productos-sin-stock.md`.
@@ -22,7 +22,6 @@ Los 2 hallazgos de stock quedaron documentados con el detalle completo en `docs/
 
 ### LO QUE QUEDA ABIERTO
 
-- Propagar el mismo ajuste de MLA39861162 → MLA39861128 (Atma FR248ABP negra → blanca) a las ~7 guías restantes que todavía citan la negra como pick (gadnic-freidora-review y comparativas relacionadas).
 - Casco de bicicleta: diagnóstico de SERP hecho (probable supresión por Shopping/AI Overview, no un caso cerrado limpio como cámaras/tostadoras), sin acción tomada todavía — pendiente de discutir con Juan.
 - `perfumes-arabes-originales`: el reporte pedía agregar un H2 + señales de autenticidad que la guía ya tenía; se hizo una restructuración más liviana en su lugar (prosa densa → lista escaneable) en vez de contenido duplicado.
 - Sin commitear todavía: diff mostrado a Juan, pendiente de aprobación explícita antes de pushear y correr `npm run indexnow`.
