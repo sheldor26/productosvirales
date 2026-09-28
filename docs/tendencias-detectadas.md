@@ -6,6 +6,43 @@
 > convertir en guía o ficha. Entradas nuevas arriba.
 
 
+## 2026-09-28
+
+### Perfumes árabes (15 posts únicos de 15 recibidos)
+
+- #emirati #oud #bakhoor #nicheperfumes #scentlibrary
+  - 482.300 likes · 43.800 shares · 53.600 guardados · 6.887 comentarios
+  - https://www.tiktok.com/@scentlibraryofficial/video/7614611057402711316
+- Top 10 most complimented Lattafa perfumes for women! #perfumetiktok #redolessence #fragrancetok #perfumetok #fragrancetiktok
+  - 96.800 likes · 10.700 shares · 47.000 guardados · 1.093 comentarios
+  - https://www.tiktok.com/@redolessence/video/7580440061519449358
+- Calificando perfumes árabes 🍭🎂🍰 con @Julian Quiñones🐆 #perfumesarabe #perfumesvirales
+  - 168.100 likes · 5.445 shares · 11.500 guardados · 1.952 comentarios
+  - https://www.tiktok.com/@anagabriela3394/video/7602254311199886612
+- Sharing my thoughts on the best fragrances from Lattafa, Armaf, and Rasasi. These brands have some really nice Arabian scents. Anyone else t
+  - 102.400 likes · 3.680 shares · 27.600 guardados · 1.482 comentarios
+  - https://www.tiktok.com/@antinaturalparfums/video/7660645082080627988
+- Respuesta a @Daysi Barragan No es casualidad que Club de Nuit Women sea uno de los perfumes de mujer más vendidos. Inspirado en el icónico C
+  - 40.800 likes · 14.900 shares · 8.619 guardados · 1.025 comentarios
+  - https://www.tiktok.com/@faime2023/video/7662776947373575454
+- 🔥 The Ultimate Arabic Fragrance Ranking👀 Some of these are absolute masterpieces. Others offer insane performance for the price 💎 If you'
+  - 46.100 likes · 2.405 shares · 11.800 guardados · 1.096 comentarios
+  - https://www.tiktok.com/@zpch_perfumes/video/7662747110776802593
+- Famoso VS Mejor ⚔️ #perfume #perfumesmasculinos #perfumesarabes #perfumecollection #perfumeviral
+  - 12.200 likes · 1.998 shares · 6.159 guardados · 56 comentarios
+  - https://www.tiktok.com/@la_.utileria_.rafaela/video/7673318264415472917
+- Top 5 Beastmode Middle Eastern Fragrances for men - #beastmode #perfumetiktok #menfragrances #fragrancetok #cologne
+  - 7.652 likes · 502 shares · 4.089 guardados · 146 comentarios
+  - https://www.tiktok.com/@scentedbyjana/video/7652038741216775431
+
+### Freidora de aire _(se cortó por el límite de tiempo del workflow — muestra parcial)_ (0 posts únicos de 0 recibidos)
+
+_Sin resultados esta semana._
+
+### Aspiradora robot _(se cortó por el límite de tiempo del workflow — muestra parcial)_ (0 posts únicos de 0 recibidos)
+
+_Sin resultados esta semana._
+
 ## 2026-09-14
 
 ### Perfumes árabes _(se cortó por el límite de tiempo del workflow — muestra parcial)_ (0 posts únicos de 0 recibidos)
