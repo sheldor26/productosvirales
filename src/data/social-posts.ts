@@ -4509,4 +4509,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "0",
     postedAt: "2026-09-28T09:49:20-03:00",
   },
+  {
+    title: "Consola Portátil Gaming ROG Ally AMD Ryzen Z2",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_793083-MLA99126402146_112025-O.webp",
+    affiliateUrl: "https://meli.la/1ccp8aU",
+    newPrice: "1.554.999",
+    oldPrice: "2.699.999",
+    offPct: "42",
+    postedAt: "2026-09-28T10:19:06-03:00",
+  },
 ];
