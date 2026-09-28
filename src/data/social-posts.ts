@@ -4499,4 +4499,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "9",
     postedAt: "2026-09-28T09:18:54-03:00",
   },
+  {
+    title: "PS5 Slim 825GB Digital Blanco",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_600358-MLA99951902509_112025-O.webp",
+    affiliateUrl: "https://meli.la/2eZWGvi",
+    newPrice: "1.401.999",
+    oldPrice: "1.401.999",
+    offPct: "0",
+    postedAt: "2026-09-28T09:49:20-03:00",
+  },
 ];
