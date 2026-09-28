@@ -4519,4 +4519,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "42",
     postedAt: "2026-09-28T10:19:06-03:00",
   },
+  {
+    title: "Monitor Gamer X-Micro 24 Pulgadas Full HD 75Hz",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_983777-MLA118261819089_092026-O.webp",
+    affiliateUrl: "https://meli.la/2kdoEwW",
+    newPrice: "134.999",
+    oldPrice: "209.999",
+    offPct: "35",
+    postedAt: "2026-09-28T10:50:10-03:00",
+  },
 ];
