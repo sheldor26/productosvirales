@@ -812,3 +812,37 @@ un producto de una comparativa, hay que revisar también (a) cómo lo citan las 
 misma comparativa, y (b) los campos estructurados/visuales (badges, labels de UI) que puedan estar
 haciendo el mismo claim por fuera de la prosa. Cuatro rondas de Codex hicieron falta para estos dos
 vectores extra, después de que el texto principal ya estaba corregido en la ronda 1.
+
+## 2026-09-28 — Escribí prosa que contradecía mi propio spec verificado, y el fix no cubrió las secciones hermanas
+
+En la guía nueva `comoda`, sourceé specs reales de los 4 productos vía JS extraction del DOM de
+MercadoLibre (no inventados). La ficha de Muar (melamina) tenía cargado explícitamente
+`{ label: "Es resistente a la humedad", value: "Sí" }` — un dato que yo mismo capturé de la página
+real. Pese a eso, escribí en la ficha de Casa Perfecta y en varios lugares de la guía que "el
+Mosconi y el Muar, ambos de melamina, no son aptos para ambientes húmedos" — contradiciendo
+directamente un spec que yo mismo había verificado y cargado unas líneas más abajo en el mismo
+archivo. No fue un dato de ML sin verificar: fue una generalización de mi propia prosa ("la
+melamina no resiste humedad" como regla general) que pisó un dato puntual real ya cargado.
+
+Aparte, el trío auditor encontró que Waggs (4.7★) puntuaba más alto que Casa Perfecta (4.6★), pese
+a que yo había posicionado a Casa Perfecta como "la mejor calificada de esta comparativa" sin
+acotar — un superlativo simplemente mal calculado, no revisé los 4 ratings uno contra el otro antes
+de asignar el label.
+
+**Igual que con Urban Home el 25/9: corregir el primer lugar no bastó.** La ficha de Muar tenía el
+mismo claim de humedad repetido en su propio `articleBody`, en una sección `## El diferencial real`
+separada de la sección `## Qué es y para quién` que sí había corregido en la primera pasada. Y la
+ficha de Casa Perfecta tenía el superlativo de calificación repetido en DOS secciones distintas del
+`articleBody` ("Qué es y para quién" y "Para quién sí y para quién no"), además del `verdict`, los
+`pros` y la `FAQ` — corregir uno no corrigió los demás. Hicieron falta 3 rondas (7 hallazgos reales
+entre las 2 primeras) porque cada ronda de fix tocaba los lugares que el auditor había citado
+puntualmente, no todos los lugares donde el mismo texto aparecía repetido con variaciones de
+redacción.
+
+**Cómo aplicar:** antes de escribir una generalización sobre un material/categoría ("la melamina no
+resiste humedad", "los puffs con patas..."), grepear el spec real de CADA producto de la comparativa
+para esa propiedad puntual — una generalización correcta en general puede ser falsa para el producto
+específico que tenés cargado. Y después de un fix puntual, grepear la frase corregida (no solo el
+archivo:línea que citó el auditor) en TODO el bloque de la comparativa — fichas hermanas, todas las
+secciones del propio `articleBody`, `verdict`, `pros`, `cons`, `faq` — porque el mismo dato mal
+puesto casi siempre aparece repetido con redacción distinta en más de un lugar.

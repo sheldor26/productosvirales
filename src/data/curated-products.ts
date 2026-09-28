@@ -80252,6 +80252,351 @@ Es para vos si buscás algo blando para repantigarte, no un asiento rígido trad
   },
 
   // ─────────────────────────────────────────────────────────
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva cómoda — silo hogar-jardin (existente, con tupper,
+  // tacho-de-basura, zapatero, mesa-ratona, escurridor-de-platos, puff).
+  // Origen: research de keywords 2026-08-15 ("leads sin verificar"), "cómoda"
+  // 9.900/mes, SERP verificado en vivo el 2026-09-28: solo retail (Sodimac,
+  // Frávega, Easy) y blog de fabricante (Madesa), sin comparador editorial
+  // real. 4 fichas nuevas, sourcing en vivo el 2026-09-28 (Chrome de Juan,
+  // categoría real "Cómodas y Chifoniers" de ML, insignias de ranking reales).
+  // ─────────────────────────────────────────────────────────
+  {
+    id: "MLA46036026",
+    title: "Chifonier 5 Cajones Blanco Melamina 48x76 cm Dormitorio con Correderas",
+    canonicalName: "Mosconi Chifonier 5 Cajones",
+    brand: "Mosconi",
+    price: 100365,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_936566-MLA112450241407_052026-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_936566-MLA112450241407_052026-F.webp",
+    ],
+    category: "Hogar, Muebles y Jardín",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/chifonier-5-cajones-blanco-melamina-48x76-cm-dormitorio-con-correderas/p/MLA46036026",
+    affiliateUrl: "https://meli.la/1wTka72",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.5,
+    reviewCount: 1739,
+    soldQuantity: 1000,
+    pastelColor: "var(--pastel-slate)",
+    specs: [
+      { label: "Marca", value: "Mosconi" },
+      { label: "Tipo de mueble", value: "Chifonier" },
+      { label: "Color", value: "Blanco" },
+      { label: "Material del cuerpo", value: "MDP (melamina)" },
+      { label: "Cantidad de cajones", value: "5" },
+      { label: "Material de las correderas", value: "Plástico" },
+      { label: "Es resistente a la humedad", value: "No" },
+      { label: "Ancho x Profundidad x Altura", value: "58 cm x 38 cm x 91 cm" },
+      { label: "Peso", value: "24 kg" },
+      { label: "Requiere ensamblado", value: "Sí (viene desarmado, con instructivo)" },
+    ],
+    relatedProducts: ["MLA67985844", "MLA76778390", "MLA45645617"],
+    priceUpdated: "2026-09-28", priceLastChecked: "2026-09-28", priceStatus: "fresh", reviewsSampledAt: "2026-09-28",
+    description: "Chifonier Mosconi de 5 cajones, melamina blanca, alto y angosto (58x38x91cm). El más vendido de esta comparativa. {{reviews:MLA46036026}} opiniones a {{rating:MLA46036026}} estrellas.",
+    seoTitle: "Mosconi Chifonier 5 Cajones: la más vendida de la comparativa",
+    metaDescription: "Chifonier Mosconi 5 cajones, melamina blanca: la más vendida de esta comparativa, con {{reviews:MLA46036026}} opiniones a {{rating:MLA46036026}} estrellas.",
+    verdict: "Es la cómoda con más respaldo real de esta comparativa: {{reviews:MLA46036026}} calificaciones a {{rating:MLA46036026}} estrellas, muy por encima de las otras 3. A {{precio:MLA46036026}}, alta y angosta (58x38x91cm), ideal para dormitorios chicos. La contra real: las correderas son de plástico (no metálicas) y viene desarmada — varias reseñas avisan que el armado exige paciencia y hay que encolar bien cada pieza.",
+    pros: [
+      "La base de opiniones más grande de esta comparativa: {{reviews:MLA46036026}} calificaciones a {{rating:MLA46036026}} estrellas",
+      "Formato alto y angosto (58x38x91cm), aprovecha bien dormitorios chicos",
+      "5 cajones espaciosos según reseñas reales",
+      "Incluye instructivo de armado paso a paso",
+    ],
+    cons: [
+      "Correderas de plástico, no metálicas — varias reseñas avisan que hacen fuerza para entrar",
+      "No es resistente a la humedad, según su ficha técnica (no apto baño/lavadero)",
+      "Viene desarmada: varias reseñas describen un armado que exige paciencia y encolar bien cada pieza",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace 2 meses", useful: 79, text: "Muy lindo. Nivel medio para armarlo. Con las herramientas correctas en 1 hora queda." },
+      { rating: 5, country: "Argentina", date: "hace 2 meses", useful: 20, text: "Este chifonier es de estatura alta pero angosto lo cual ayuda a ocupar menos espacio en las habitaciones, las gavetas son espaciosas. Contiene el pegamento y tornillos necesarios para armar, trae el qr con el manual para ensamblar el mueble." },
+    ],
+    articleBody: `## Qué es y para quién
+
+El Mosconi Chifonier de 5 cajones es un mueble de melamina blanca, alto y angosto (58x38x91cm). Es la cómoda con más respaldo real de esta comparativa: {{reviews:MLA46036026}} opiniones a {{rating:MLA46036026}} estrellas.
+
+## Lo que confirma el volumen de reseñas
+
+Con {{reviews:MLA46036026}} calificaciones, tiene por lejos la base de opiniones más grande de esta comparativa. Reseñas reales destacan que, pese a ser angosto, las gavetas son espaciosas, y que el formato alto ayuda a ocupar menos espacio en dormitorios chicos.
+
+## La contra real
+
+Las correderas son de plástico, no metálicas, y varias reseñas avisan que los cajones "hacen fuerza para entrar". También viene completamente desarmada: el proceso de armado exige paciencia (hay que encolar cada pieza de madera, usar destornilladores de distintas medidas para los tornillos duros) según describen reseñas reales en detalle.
+
+## Cómo se compara con los otros de esta guía
+
+Frente al [Casa Perfecta](/producto/cajonera-5-pisos-organizado-comoda-moderno-casa-perfecta-blanco-mla67985844), que es de plástico y resistente a la humedad, este es de melamina y no apto para ambientes húmedos. Frente al [Waggs](/producto/comoda-cajonera-6-cajones-waggs-chifonier-organizador-portatil-mueble-de-tela-gr-mla76778390), que pesa apenas 2,2 kg y es portátil, este pesa 24 kg y es un mueble fijo. Frente al [Muar](/producto/comoda-cajonera-de-melamina-con-3-cajones-negro-mla45645617), que es bajo y ancho, este es alto y angosto.
+
+## Para quién sí y para quién no
+
+Es para vos si buscás el mueble con más respaldo de opiniones reales y tenés un dormitorio chico donde el formato angosto ayuda. No es la mejor opción si necesitás algo resistente a la humedad, o si preferís no lidiar con un armado que lleva tiempo.`,
+    faq: [
+      { question: "¿Es la cómoda más vendida de MercadoLibre?", answer: "De esta comparativa, sí: tiene la insignia de 1° más vendido en la categoría Cómodas y Chifoniers y la base de opiniones más grande, {{reviews:MLA46036026}}." },
+      { question: "¿Viene armada?", answer: "No, viene desarmada con instructivo paso a paso. Varias reseñas avisan que el armado exige paciencia y hay que encolar bien cada pieza." },
+      { question: "¿Sirve para el baño o el lavadero?", answer: "No, según su ficha técnica no es resistente a la humedad." },
+      { question: "¿Las correderas son metálicas?", answer: "No, son de plástico. Varias reseñas avisan que los cajones hacen fuerza para entrar." },
+      { question: "¿Cuánto mide?", answer: "58 cm de ancho x 38 cm de profundidad x 91 cm de altura: un formato alto y angosto." },
+      { question: "¿Cuántos cajones tiene?", answer: "5 cajones espaciosos, según reseñas reales." },
+    ],
+  },
+  {
+    id: "MLA67985844",
+    title: "Cajonera 5 Pisos Organizado Comoda Moderno Casa Perfecta Blanco",
+    canonicalName: "Casa Perfecta Clean Stack",
+    brand: "Casa Perfecta",
+    price: 118782,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_648174-MLA109552047652_042026-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_648174-MLA109552047652_042026-F.webp",
+    ],
+    category: "Hogar, Muebles y Jardín",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/cajonera-5-pisos-organizado-comoda-moderno-casa-perfecta-blanco/p/MLA67985844",
+    affiliateUrl: "https://meli.la/2mNBzjS",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.6,
+    reviewCount: 101,
+    soldQuantity: 500,
+    pastelColor: "var(--pastel-slate)",
+    specs: [
+      { label: "Marca", value: "Casa Perfecta" },
+      { label: "Modelo", value: "Clean Stack" },
+      { label: "Tipo de mueble", value: "Cajonera" },
+      { label: "Color", value: "Blanco" },
+      { label: "Material del cuerpo", value: "Plástico reforzado" },
+      { label: "Cantidad de cajones", value: "5" },
+      { label: "Material de las correderas", value: "Plástico" },
+      { label: "Es resistente a la humedad", value: "Sí" },
+      { label: "Ancho x Profundidad x Altura", value: "35 cm x 39 cm x 90 cm" },
+      { label: "Requiere ensamblado", value: "Sí, sin herramientas (encastre)" },
+    ],
+    relatedProducts: ["MLA46036026", "MLA76778390", "MLA45645617"],
+    priceUpdated: "2026-09-28", priceLastChecked: "2026-09-28", priceStatus: "fresh", reviewsSampledAt: "2026-09-28",
+    description: "Cajonera Casa Perfecta Clean Stack, plástico reforzado, resistente a la humedad. La mejor calificada entre las cómodas rígidas de esta comparativa. {{reviews:MLA67985844}} opiniones a {{rating:MLA67985844}} estrellas.",
+    seoTitle: "Casa Perfecta Clean Stack: plástico, resiste humedad, sin herramientas",
+    metaDescription: "Cajonera Casa Perfecta Clean Stack, plástico resistente a la humedad, se arma sin herramientas. {{reviews:MLA67985844}} opiniones a {{rating:MLA67985844}} estrellas, la mejor calificada entre las cómodas rígidas de esta comparativa.",
+    verdict: "Es la única de plástico de esta comparativa y la mejor calificada entre las cómodas rígidas ({{rating:MLA67985844}} estrellas, por encima del Mosconi y el Muar; la Waggs, de tela, puntúa más alto pero con una base de apenas {{reviews:MLA76778390}} opiniones). Resiste la humedad, igual que el Muar — ideal para baño o lavadero. Se arma sin herramientas, solo encastrando piezas, a {{precio:MLA67985844}}. La contra real: varias reseñas avisan que el armado, aunque no requiere herramientas, no es tan intuitivo como promete y lleva un poco de maña.",
+    pros: [
+      "La mejor calificación entre las cómodas rígidas de esta comparativa: {{rating:MLA67985844}} estrellas en {{reviews:MLA67985844}} opiniones",
+      "Resistente a la humedad, según su ficha técnica — la única de plástico apta para baño o lavadero",
+      "Se arma sin herramientas, solo encastrando piezas",
+      "Reseñas reales destacan que no parece plástico, con terminación tipo madera",
+    ],
+    cons: [
+      "El armado, aunque sin herramientas, no es tan intuitivo como promete según varias reseñas — piden maña y paciencia",
+      "Una reseña real avisa que las piezas llegaron en dos tonos de blanco ligeramente distintos",
+      "Su base de opiniones ({{reviews:MLA67985844}}) es más chica que la del Mosconi",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace 1 mes", useful: 51, text: "Es muy lindo. No parece de plástico, de lejos crees que es madera. Recomendación para el armado: armen 1 cuadrado completo que será el de abajo de todo, y luego encastren los costados del siguiente al ya armado... todo tiene que hacer click para quedar seguro." },
+      { rating: 5, country: "Argentina", date: "hace 1 mes", useful: 7, text: "La verdad que es una buena opción para baño porque no se arruina con humedad. Si se me complicó ubicarlo con las medidas. Las instrucciones tenés que ser intuitivo, pero queda todo muy firme y bien encastrado, no se destartala ni nada." },
+    ],
+    articleBody: `## Qué es y para quién
+
+La Casa Perfecta Clean Stack es una cajonera de plástico reforzado, resistente a la humedad, con 5 cajones. Tiene la mejor calificación entre las cómodas rígidas de esta comparativa: {{rating:MLA67985844}} estrellas en {{reviews:MLA67985844}} opiniones.
+
+## El diferencial real: resiste la humedad
+
+A diferencia del Mosconi (melamina, no apta para ambientes húmedos según su ficha técnica), esta cajonera está pensada para baño o lavadero — igual que el Muar, también resistente a la humedad según su propia ficha. Una reseña real lo confirma: "es una buena opción para baño porque no se arruina con humedad".
+
+## La contra real
+
+El armado no requiere herramientas (solo encastre), pero varias reseñas avisan que no es tan intuitivo como promete la publicación — hay que entender el orden correcto de las piezas. Una reseña real también avisa que las piezas llegaron en dos tonos de blanco ligeramente distintos.
+
+## Cómo se compara con los otros de esta guía
+
+Frente al [Mosconi](/producto/chifonier-5-cajones-blanco-melamina-48x76-cm-dormitorio-con-correderas-mla46036026), que tiene más opiniones totales pero no resiste humedad, esta gana en calificación y en versatilidad de ambiente. Frente al [Waggs](/producto/comoda-cajonera-6-cajones-waggs-chifonier-organizador-portatil-mueble-de-tela-gr-mla76778390), que también resiste humedad pero es de tela, esta es rígida. Frente al [Muar](/producto/comoda-cajonera-de-melamina-con-3-cajones-negro-mla45645617), esta tiene más cajones (5 contra 3).
+
+## Para quién sí y para quién no
+
+Es para vos si necesitás un mueble para baño o lavadero, o simplemente buscás la mejor calificación entre las cómodas rígidas de esta comparativa. No es la mejor opción si preferís un armado más simple con herramientas tradicionales, ahí el Mosconi es más predecible.`,
+    faq: [
+      { question: "¿Es apta para el baño?", answer: "Sí, es resistente a la humedad según su ficha técnica, igual que el Muar (también rígida) y el Waggs (de tela). La única que no resiste humedad, según su ficha técnica, es el Mosconi." },
+      { question: "¿Es fácil de armar?", answer: "Se arma sin herramientas, solo encastrando piezas, pero varias reseñas avisan que el proceso no es tan intuitivo como promete y conviene seguir el orden correcto." },
+      { question: "¿Es de plástico o de madera?", answer: "Es de plástico reforzado, aunque varias reseñas destacan que la terminación no parece plástico a simple vista." },
+      { question: "¿Cuál es la cajonera mejor calificada de esta comparativa?", answer: `Entre las rígidas, esta: {{rating:MLA67985844}} estrellas en {{reviews:MLA67985844}} opiniones. La Waggs (de tela) puntúa técnicamente más alto, pero con una base de apenas {{reviews:MLA76778390}} opiniones.` },
+      { question: "¿Cuánto mide?", answer: "35 cm de ancho x 39 cm de profundidad x 90 cm de altura." },
+      { question: "¿Trae ruedas?", answer: "No, según su ficha técnica, aunque una reseña real menciona ruedas embutidas en las patas de un pedido — puede variar según el lote." },
+    ],
+  },
+  {
+    id: "MLA76778390",
+    title: "Comoda Cajonera 6 Cajones Waggs Chifonier Organizador Portatil Mueble de Tela Gris",
+    canonicalName: "Waggs Cajonera Portátil de Tela",
+    brand: "Waggs",
+    price: 69990,
+    originalPrice: 138694,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_684332-MLA116202146791_082026-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_684332-MLA116202146791_082026-F.webp",
+    ],
+    category: "Hogar, Muebles y Jardín",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/comoda-cajonera-6-cajones-waggs-chifonier-organizador-portatil-mueble-de-tela-gris/p/MLA76778390",
+    affiliateUrl: "https://meli.la/1KwbVNi",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 25,
+    soldQuantity: 100,
+    pastelColor: "var(--pastel-slate)",
+    specs: [
+      { label: "Marca", value: "Waggs" },
+      { label: "Modelo", value: "COMO03" },
+      { label: "Tipo de mueble", value: "Cómoda portátil" },
+      { label: "Color", value: "Gris" },
+      { label: "Material del cuerpo", value: "Metálica (estructura de tubos)" },
+      { label: "Materiales de los cajones", value: "Tela reforzada" },
+      { label: "Cantidad de cajones", value: "6" },
+      { label: "Material de las correderas", value: "PVC" },
+      { label: "Es resistente a la humedad", value: "Sí" },
+      { label: "Es desmontable", value: "Sí (plegable)" },
+      { label: "Ancho x Profundidad x Altura", value: "78 cm x 26 cm x 69 cm" },
+      { label: "Peso", value: "2,2 kg" },
+    ],
+    relatedProducts: ["MLA46036026", "MLA67985844", "MLA45645617"],
+    priceUpdated: "2026-09-28", priceLastChecked: "2026-09-28", priceStatus: "fresh", reviewsSampledAt: "2026-09-28",
+    description: "Cómoda portátil Waggs, estructura metálica con 6 cajones de tela reforzada, plegable, apenas 2,2 kg. La más liviana de esta comparativa. {{reviews:MLA76778390}} opiniones a {{rating:MLA76778390}} estrellas.",
+    seoTitle: "Waggs portátil: la única cómoda de tela, apenas 2,2 kg",
+    metaDescription: "Cómoda portátil Waggs de tela, estructura metálica plegable, 2,2 kg. La más liviana de esta comparativa de cómodas, ideal para mudanzas.",
+    verdict: "Es la única cómoda de esta comparativa pensada para moverse: estructura metálica plegable con cajones de tela reforzada, apenas 2,2 kg, a {{precio:MLA76778390}}, la más barata de las 4. La contra real: su base de opiniones ({{reviews:MLA76778390}}) es la más chica de esta comparativa, y la tela no ofrece la misma rigidez que un cajón de madera o plástico para objetos pesados o filosos.",
+    pros: [
+      "La más liviana y portátil de esta comparativa: apenas 2,2 kg y se pliega para guardar o mudar",
+      "La más barata de las 4, a {{precio:MLA76778390}}",
+      "Resistente a la humedad, según su ficha técnica",
+      "6 cajones, la mayor cantidad de esta comparativa",
+    ],
+    cons: [
+      "Su base de opiniones ({{reviews:MLA76778390}}) es la más chica de esta comparativa",
+      "Los cajones son de tela, no ofrecen la misma rigidez que madera o plástico para objetos pesados o con bordes filosos",
+      "No es un mueble fijo tradicional: quien busque algo sólido para apoyar objetos encima no la va a encontrar acá",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace 3 semanas", useful: 5, text: "Me encantó… me vivo mudando así q es una opción super práctica / liviana para poder transportar sin problemas. Lo armé en 40 minutos." },
+      { rating: 4, country: "Argentina", date: "hace 2 semanas", useful: 1, text: "Está hecho de una especie de friselina que tiene una película plástica de un lado para evitar la humedad." },
+    ],
+    articleBody: `## Qué es y para quién
+
+La Waggs COMO03 es una cómoda portátil: estructura metálica de tubos con 6 cajones de tela reforzada, plegable, de apenas 2,2 kg. Es la única de este tipo en esta comparativa: {{reviews:MLA76778390}} opiniones a {{rating:MLA76778390}} estrellas.
+
+## El diferencial real: se pliega y pesa 2,2 kg
+
+Frente a los 24 kg del Mosconi y los 15 kg del Muar (las dos únicas de esta comparativa con peso declarado en la ficha técnica), la Waggs pesa 2,2 kg y se pliega cuando no está en uso. Una reseña real lo resume bien: "me vivo mudando así que es una opción súper práctica y liviana para poder transportar sin problemas".
+
+## La contra real
+
+Su base de opiniones ({{reviews:MLA76778390}}) es la más chica de esta comparativa, así que hay menos respaldo acumulado que en el Mosconi o el Muar. Además, al ser de tela reforzada (no madera ni plástico rígido), los cajones no ofrecen la misma protección para objetos pesados o con bordes filosos.
+
+## Cómo se compara con los otros de esta guía
+
+Frente al [Mosconi](/producto/chifonier-5-cajones-blanco-melamina-48x76-cm-dormitorio-con-correderas-mla46036026) y el [Muar](/producto/comoda-cajonera-de-melamina-con-3-cajones-negro-mla45645617), que son muebles fijos de melamina, esta es liviana y desmontable. Frente al [Casa Perfecta](/producto/cajonera-5-pisos-organizado-comoda-moderno-casa-perfecta-blanco-mla67985844), que también resiste humedad, esta es la más liviana de todas.
+
+## Para quién sí y para quién no
+
+Es para vos si te mudás seguido, vivís en un espacio chico, o necesitás organización rápida sin comprometerte con un mueble fijo. No es la mejor opción si buscás algo sólido para apoyar objetos pesados encima o con el mayor respaldo de opiniones posible.`,
+    faq: [
+      { question: "¿Es la cómoda más liviana de esta comparativa?", answer: "Sí, pesa apenas 2,2 kg. El Mosconi declara 24 kg y el Muar 15 kg (la Casa Perfecta no declara peso en su ficha técnica)." },
+      { question: "¿Se puede plegar?", answer: "Sí, es desmontable y plegable, ideal para mudanzas o espacios chicos." },
+      { question: "¿Resiste la humedad?", answer: "Sí, según su ficha técnica los cajones de tela reforzada resisten la humedad." },
+      { question: "¿Sirve para guardar objetos pesados?", answer: "No es lo ideal: al ser de tela, no ofrece la misma rigidez que un cajón de madera o plástico para objetos pesados o con bordes filosos." },
+      { question: "¿Cuántos cajones tiene?", answer: "6 cajones, la mayor cantidad de esta comparativa." },
+      { question: "¿Es la más barata?", answer: `Sí, a {{precio:MLA76778390}} es la más económica de esta comparativa.` },
+    ],
+  },
+  {
+    id: "MLA45645617",
+    title: "Comoda Cajonera De Melamina Con 3 Cajones Negro",
+    canonicalName: "Muar Cómoda CC02",
+    brand: "Muar",
+    price: 169999,
+    originalPrice: 299999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_967836-MLA90024084503_082025-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_967836-MLA90024084503_082025-F.webp",
+    ],
+    category: "Hogar, Muebles y Jardín",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/comoda-cajonera-de-melamina-con-3-cajones-negro/p/MLA45645617",
+    affiliateUrl: "https://meli.la/2sra4K4",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.3,
+    reviewCount: 131,
+    soldQuantity: 500,
+    pastelColor: "var(--pastel-slate)",
+    specs: [
+      { label: "Marca", value: "Muar" },
+      { label: "Modelo", value: "CC02" },
+      { label: "Tipo de mueble", value: "Cajonera" },
+      { label: "Color", value: "Negro" },
+      { label: "Acabado", value: "Mate" },
+      { label: "Material del cuerpo", value: "Madera de melamina" },
+      { label: "Cantidad de cajones", value: "3" },
+      { label: "Material de las correderas", value: "Aluminio" },
+      { label: "Es resistente a la humedad", value: "Sí" },
+      { label: "Con manijas", value: "No (frente liso, apertura push)" },
+      { label: "Ancho x Profundidad x Altura", value: "80 cm x 41 cm x 80 cm" },
+      { label: "Peso", value: "15 kg" },
+      { label: "Requiere ensamblado", value: "Sí" },
+    ],
+    relatedProducts: ["MLA46036026", "MLA67985844", "MLA76778390"],
+    priceUpdated: "2026-09-28", priceLastChecked: "2026-09-28", priceStatus: "fresh", reviewsSampledAt: "2026-09-28",
+    description: "Cómoda Muar CC02, melamina negra, 3 cajones amplios, formato bajo y ancho (80x41x80cm). La única cómoda fija de perfil bajo de esta comparativa. {{reviews:MLA45645617}} opiniones a {{rating:MLA45645617}} estrellas.",
+    seoTitle: "Muar CC02: la cómoda baja y ancha, sin manijas a la vista",
+    metaDescription: "Cómoda Muar CC02 negra, melamina, formato bajo y ancho, correderas de aluminio. {{reviews:MLA45645617}} opiniones a {{rating:MLA45645617}} estrellas.",
+    verdict: "Es la única cómoda fija de esta comparativa con formato bajo y ancho (80x41x80cm) frente al Mosconi y la Casa Perfecta, altos y angostos (la Waggs, portátil y de tela, es otra categoría de producto), con correderas de aluminio (más resistentes que las de plástico del Mosconi) y sin manijas a la vista (frente liso, apertura push). A {{precio:MLA45645617}}, la más cara de las 4. La contra real: tiene la calificación más baja de esta comparativa ({{rating:MLA45645617}} estrellas) y solo 3 cajones, la menor cantidad de las 4.",
+    pros: [
+      "El único formato bajo y ancho (80x41x80cm) entre las cómodas fijas de esta comparativa, útil bajo una ventana o como aparador",
+      "Correderas de aluminio, más resistentes que las de plástico del Mosconi",
+      "Resistente a la humedad, según su ficha técnica",
+      "Frente liso sin manijas a la vista, estética minimalista",
+    ],
+    cons: [
+      "Tiene la calificación más baja de esta comparativa: {{rating:MLA45645617}} estrellas",
+      "Solo 3 cajones, la menor cantidad de las 4 opciones de esta guía",
+      "Es la más cara de esta comparativa, a {{precio:MLA45645617}}",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace 1 año", useful: 8, text: "Excelente. Fácil armado. Cajones espaciosos y corren con facilidad." },
+      { rating: 5, country: "Argentina", date: "hace 1 mes", useful: 6, text: "El armado es fácil con el video, viene el qr. Igual lleva un rato largo. El mueble hermoso. Me hubiera gustado que las guías fueran más reforzadas, pero todo funciona bien por ahora." },
+    ],
+    articleBody: `## Qué es y para quién
+
+La Muar CC02 es una cómoda de melamina negra, con 3 cajones amplios y correderas de aluminio. Frente al Mosconi (58x38x91cm) y la Casa Perfecta (35x39x90cm), ambas altas y angostas, la Muar es la única cómoda fija de esta comparativa con formato bajo y ancho (80x41x80cm). La Waggs, al ser portátil y de tela, no entra en esta comparación de formato.
+
+## El diferencial real: baja y ancha, no alta y angosta
+
+Mientras el Mosconi y la Casa Perfecta son altos y relativamente angostos (pensados para un rincón de dormitorio), la Muar es baja (80 cm) y ancha (80 cm): sirve como aparador, bajo una ventana, o como base para un espejo o TV. La Waggs, al ser portátil y de tela, no entra en esta comparación de formato. El frente liso sin manijas suma a esa estética minimalista en la Muar.
+
+## La contra real
+
+Tiene la calificación más baja de esta comparativa ({{rating:MLA45645617}} estrellas) y solo 3 cajones, contra los 5-6 de las otras opciones. Es también la más cara de las 4, a {{precio:MLA45645617}}.
+
+## Cómo se compara con los otros de esta guía
+
+Frente al [Mosconi](/producto/chifonier-5-cajones-blanco-melamina-48x76-cm-dormitorio-con-correderas-mla46036026), que tiene correderas de plástico, esta las tiene de aluminio, más resistentes. Frente al [Casa Perfecta](/producto/cajonera-5-pisos-organizado-comoda-moderno-casa-perfecta-blanco-mla67985844) y el [Waggs](/producto/comoda-cajonera-6-cajones-waggs-chifonier-organizador-portatil-mueble-de-tela-gr-mla76778390), que tienen más cajones, esta ofrece menos compartimentos pero más superficie de apoyo arriba.
+
+## Para quién sí y para quién no
+
+Es para vos si buscás un formato bajo y ancho para usar como aparador, o preferís correderas de aluminio y un frente sin manijas. No es la mejor opción si priorizás la mayor cantidad de cajones o la mejor calificación posible, ahí el Casa Perfecta rinde mejor.`,
+    faq: [
+      { question: "¿Por qué es distinta a las otras cómodas de esta comparativa?", answer: "Es la única cómoda fija con formato bajo y ancho (80x41x80cm) frente al Mosconi y la Casa Perfecta, altos y angostos — sirve como aparador o base bajo una ventana, no solo como cómoda de dormitorio tradicional." },
+      { question: "¿Tiene manijas?", answer: "No, el frente es liso, con apertura tipo push (empujar para abrir)." },
+      { question: "¿Las correderas son buenas?", answer: "Son de aluminio, más resistentes que las de plástico de otras opciones de esta comparativa, como el Mosconi." },
+      { question: "¿Cuántos cajones tiene?", answer: "3 cajones amplios, la menor cantidad de esta comparativa (las otras tienen 5 o 6)." },
+      { question: "¿Es la mejor calificada?", answer: "No, tiene la calificación más baja de esta comparativa: {{rating:MLA45645617}} estrellas. La Casa Perfecta ({{rating:MLA67985844}}) y la Waggs (aunque con menos opiniones) puntúan más alto." },
+      { question: "¿Resiste la humedad?", answer: "Sí, según su ficha técnica." },
+    ],
+  },
+
   // Guía nueva reposera — silo hogar-jardin (existente, con pileta-pelopincho,
   // sombrilla-de-playa, conservadora). Origen: research de verano 2026-09-26,
   // "reposera" 22.200/mes en Keyword Planner, MercadoLibre en posición 2 del

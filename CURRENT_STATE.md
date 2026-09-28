@@ -1,7 +1,29 @@
 # Estado actual
 
 > Snapshot del proyecto. Se actualiza al final de cada sesión.
-> Última actualización: 2026-09-28 — Guía nueva "Puff: cuál comprar" (silo hogar-jardin, 4 fichas nuevas, sourcing en vivo), siguiente ítem del backlog de contenido tras escurridor-de-platos en la misma sesión. Antes en la misma sesión: diagnóstico y fix del gasto de Vercel (deploys del bot de Threads regenerando el sitio entero) y checklist SEO semanal con 2 hallazgos de stock. Ver detalle abajo.
+> Última actualización: 2026-09-28 — Guía nueva "Cómoda: cuál comprar" (silo hogar-jardin, 4 fichas nuevas, sourcing en vivo), tercera guía de la misma sesión tras escurridor-de-platos y puff. Se descartó primero "maceta" (mayor volumen) por mismatch de intención con el catálogo real de ML. Antes en la misma sesión: diagnóstico y fix del gasto de Vercel (deploys del bot de Threads regenerando el sitio entero) y checklist SEO semanal con 2 hallazgos de stock. Ver detalle abajo.
+
+## Sesión 2026-09-28 (continuación 3) — Guía nueva: Cómoda
+
+### LO QUE SE HIZO
+
+Siguiente ítem del backlog de contenido tras `puff`: se investigaron los "leads sin verificar" de `docs/keywords-verificadas-2026-08-15.md` vía WebSearch. `máquina de coser` y `plancha a vapor` resultaron rojas (competidores argentinos reales ya conocidos — Bidcom News, Canigo, expertoenproductos.com.ar, mejorescompras.com.ar). `maceta` (22.200/mes, mayor volumen) tenía SERP limpio pero se descartó al verificar el catálogo real de ML: el ranking de "más vendidos" de la categoría Macetas está dominado por packs mayoristas de vivero (100-200 unidades) y accesorios, no macetas decorativas individuales — mismo patrón que ya había descartado `matera` en el research original de agosto (SERP limpio no alcanza si el catálogo no sirve la intención real de compra).
+
+**`cómoda`** (9.900/mes) fue la siguiente candidata verde sin ese problema — categoría real "Cómodas y Chifoniers" de ML, con productos hogareños genuinos. Se sumó al silo `hogar-jardin` existente (junto a tupper, tacho-de-basura, zapatero, mesa-ratona, escurridor-de-platos, puff), con enlazado recíproco nuevo en `mesa-ratona`.
+
+Sourcing nuevo en vivo (4 fichas): **Mosconi Chifonier 5 Cajones** (la más vendida, insignia real de ML, la base de opiniones más grande — 1.739), **Casa Perfecta Clean Stack** (plástico, resistente a la humedad, se arma sin herramientas, la mejor calificada entre las cómodas rígidas), **Waggs portátil** (tela sobre estructura metálica, apenas 2,2 kg, se pliega para mudanzas), y **Muar CC02** (melamina, único formato bajo y ancho entre las cómodas fijas, tipo aparador).
+
+### VERIFICACIÓN
+
+`npx tsc --noEmit`, `npm run build`, y los 8 scripts de `guides:check` corridos individualmente, todos en verde. Trío auditor: **3 rondas hasta doble GO, con el mayor volumen de hallazgos reales de la sesión (7 entre las 2 primeras rondas)**. El patrón de fondo fue nuevo respecto a sesiones anteriores: escribí prosa ("la melamina no resiste humedad") que contradecía un spec real que yo mismo había verificado y cargado (la ficha de Muar declaraba explícitamente "Sí" resiste humedad), más un superlativo de calificación mal calculado (Casa Perfecta presentada como "la mejor calificada" cuando Waggs puntuaba más alto). Igual que con el caso Urban Home del 25/9, corregir el primer lugar citado por el auditor no bastó — el mismo error aparecía repetido en secciones hermanas del `articleBody`, `pros`, `verdict` y `FAQ` con redacción distinta. Entrada nueva en `MISTAKES.md` con el patrón completo. Detalle en `docs/seo-tracking-optimizaciones.md`.
+
+### LO QUE QUEDA ABIERTO
+
+- De la estrategia original de agosto queda pendiente: `cartuchera` (14.800/mes, útiles escolares, silo nuevo "librería/oficina", pico real feb-mar — mejor esperar más cerca de esa fecha).
+- Sin verificar todavía (SERP con WebSearch, no con Chrome/ML): mopa (12.100/mes, verde) y cortina blackout (9.900/mes, amarilla dudosa) del mismo research. bajo mesada, alacena, fogonero, perchero de pared, chifonier, cava de vino, brasero, tabla de planchar, secador de piso: SERP todavía sin chequear.
+- Sin commitear todavía: diff mostrado a Juan, pendiente de aprobación explícita antes de pushear y correr `npm run indexnow`.
+
+---
 
 ## Sesión 2026-09-28 (continuación 2) — Guía nueva: Puff
 

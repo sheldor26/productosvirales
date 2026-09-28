@@ -105,10 +105,24 @@ Crear una guía aparte sería auto-canibalización.
 ### Leads sin verificar (para la próxima ronda)
 
 Volumen ya medido con Keyword Planner, SERP todavía sin chequear:
-máquina de coser (33.100), maceta (22.200), plancha a vapor (14.800), mopa (12.100),
-bajo mesada (12.100), cómoda (9.900), alacena (9.900), fogonero (9.900), cortina blackout
-(9.900), perchero de pared (6.600), chifonier (6.600), cava de vino (6.600), brasero (5.400),
-tabla de planchar (3.600), secador de piso (2.900).
+bajo mesada (12.100), alacena (9.900), fogonero (9.900), perchero de pared (6.600),
+chifonier (6.600), cava de vino (6.600), brasero (5.400), tabla de planchar (3.600),
+secador de piso (2.900).
+
+### Tercera ronda — verificación SERP vía WebSearch (mismo día, 2026-09-28)
+
+| Keyword | Vol/mes | Veredicto | Por qué |
+| :-- | --: | :-- | :-- |
+| **máquina de coser** | 33.100 | 🔴 Roja | Bidcom News y Canigo.com.ar (los mismos rivales reales de hidrolavadora/gazebo) tienen comparativas dedicadas para esta keyword también |
+| **maceta** | 22.200 | 🟢 Verde | Sin comparador editorial argentino real: solo retail (Sodimac, blog de ML, fábrica mayorista) y un comparador español (jardinadicto.com). ML presente en el SERP |
+| **plancha a vapor** | 14.800 | 🔴 Roja | expertoenproductos.com.ar (rival real de deshumidificador/aspiradora de mano) y mejorescompras.com.ar (rival real de hidrolavadora) tienen ambos comparativas 2026 dedicadas |
+| **mopa** | 12.100 | 🟢 Verde | Solo retail (Frávega, Laffitte) y contenido de marca/TikTok. Sin comparador editorial neutral |
+| **cómoda** | 9.900 | 🟢 Verde | Solo retail (Sodimac, Frávega, Easy) y blog de fabricante (Madesa). Sin comparador editorial |
+| **cortina blackout** | 9.900 | 🟡 Amarilla, no prioritaria | veronicahome.com.ar y comprarcortinasonline.com.ar parecen vendedores D2C con blog propio más que comparadores neutrales, pero el patrón de contenido dedicado 2026 amerita más cautela que maceta/mopa/cómoda |
+
+**`maceta` descartada al verificar el producto (2026-09-28), pese a SERP limpio.** El ranking real de "más vendidos" de la categoría Macetas de MercadoLibre está dominado por packs mayoristas de macetas de vivero (pack de 100-200 unidades negras, para productores, no para decoración hogareña) y accesorios (platos/bandejas bajo maceta) — de los primeros 4 puestos, solo 1 es una maceta decorativa individual real. Mismo patrón que descartó `matera` en la primera ronda: SERP limpio de competencia editorial no alcanza si el catálogo real de ML no sirve la intención de compra ("una maceta linda para mi balcón", no "200 macetas de vivero"). Se necesitaría curar productos a mano contra la corriente del propio ranking de ML, con menos de 4 candidatos genuinos — no da para una comparativa honesta.
+
+**Siguiente construcción:** `cómoda` (9.900/mes, verde, mueble de dormitorio — mismo tipo de intención que `mesa-ratona`, sin el riesgo de mezcla mayorista/vivero de `maceta`).
 
 Descartados de arranque por intención ambigua pese al volumen: **vinoteca** (49.500, en
 Argentina significa sobre todo el negocio que vende vino, no la heladera) y **biblioteca**
