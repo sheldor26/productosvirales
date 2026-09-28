@@ -16,6 +16,25 @@
 **Archivos involucrados:** `path/a/archivo.ts`
 -->
 
+## 2026-09-28 — Threads: TV posteado con topic_tag "Gaming Threads" por inercia
+
+**Qué pasó:** en una tanda larga de Threads (10 posts seguidos), publiqué una Smart TV TCL 55"
+genérica (sin ángulo gamer, solo mencionaba HDMI 2.1 "para consolas" como un dato más) con
+`topic_tag: "Gaming Threads"` — igual que los 9 posts anteriores de la misma tanda (todos consolas/
+monitores gamer/accesorios gamer genuinos).
+
+**Por qué:** la regla del pool de tags (memoria `threads-topic-tag-siempre-elegir-uno`) separa
+explícitamente "Hogar/electrodomésticos" (TVs, heladeras, lavarropas, cafeteras, freidoras) de
+"Gamer/gaming" — un TV genérico va en el primer bloque aunque tenga specs relevantes para gaming
+(HDMI 2.1, 120Hz), salvo que el ángulo del copy sea explícitamente gamer. Usé el mismo tag que
+venía arrastrando de la tanda por inercia, sin pararme a reclasificar el producto.
+
+**Cómo evitarlo:** antes de llamar a `publicar-threads.cjs`, preguntar explícitamente "¿esta
+categoría de producto es genuinamente gamer, o solo tiene UNA spec relevante para gaming entre
+varias?" — un TV, heladera o cafetera con buena spec técnica sigue siendo Hogar/Electrodomésticos,
+no Gaming Threads. La API de Threads no permite editar el topic_tag de un post ya publicado, así
+que este no se pudo corregir — documentado para no repetirlo en la próxima tanda.
+
 ## 2026-09-28 — Superlativo "los cuatro..." cuando en realidad eran tres de cuatro
 
 **Qué pasó:** al escribir la guía nueva `escurridor-de-platos` (4 fichas), varias frases afirmaban

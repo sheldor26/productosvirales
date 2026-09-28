@@ -4559,4 +4559,44 @@ export const socialPosts: SocialPost[] = [
     offPct: "0",
     postedAt: "2026-09-28T16:53:04-03:00",
   },
+  {
+    title: "DualSense PS5 GTA VI Edición Limitada",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_900620-MLA116075398226_092026-O.webp",
+    affiliateUrl: "https://meli.la/1MPYU1Q",
+    newPrice: "219.385",
+    oldPrice: "219.385",
+    offPct: "0",
+    postedAt: "2026-09-28T18:25:11-03:00",
+  },
+  {
+    title: "Monitor Gamer ASRock Phantom Gaming 27 Curvo 280Hz",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_784317-MLA115398141657_072026-O.webp",
+    affiliateUrl: "https://meli.la/2yCTy1r",
+    newPrice: "345.481",
+    oldPrice: "388.079",
+    offPct: "10",
+    postedAt: "2026-09-28T18:56:03-03:00",
+  },
+  {
+    title: "Smart TV TCL 55 4K UHD Google TV HDMI 2.1",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_919501-MLA95706693678_102025-O.webp",
+    affiliateUrl: "https://meli.la/24ammfr",
+    newPrice: "780.000",
+    oldPrice: "780.000",
+    offPct: "0",
+    postedAt: "2026-09-28T19:27:39-03:00",
+  },
+  {
+    title: "Heladera Con Freezer No Frost 300L Steel Drean Color Gris",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_898647-MLA99968145659_112025-O.webp",
+    affiliateUrl: "https://meli.la/1Adsppj",
+    newPrice: "929.899",
+    oldPrice: "929.899",
+    offPct: "0",
+    postedAt: "2026-09-28T19:58:12-03:00",
+  },
 ];
