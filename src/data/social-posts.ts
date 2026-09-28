@@ -4489,4 +4489,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "36",
     postedAt: "2026-09-28T08:48:29-03:00",
   },
+  {
+    title: "Xbox Series S 512GB Kit con Control Extra Blanco",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_651459-MLA99508334610_112025-O.webp",
+    affiliateUrl: "https://meli.la/17WkLCZ",
+    newPrice: "1.233.946",
+    oldPrice: "1.357.000",
+    offPct: "9",
+    postedAt: "2026-09-28T09:18:54-03:00",
+  },
 ];
