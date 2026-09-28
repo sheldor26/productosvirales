@@ -6,6 +6,51 @@
 > chequearlos en MercadoLibre. Si son reales, avisar para aplicarlos a mano.
 > Entradas nuevas arriba.
 
+## 2026-09-28
+
+- **MLA16132352** — Cámara Deportiva Akaso V50X: $176.899 → $469.999 (+166%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA16132352
+  - Sitio: https://productosvirales.com.ar/producto/MLA16132352
+- **MLA8732921** — Auriculares Gamer Con Cable HyperX Cloud HX-HSCA Black y Red: $91.379 → $779.403 (+753%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA8732921
+  - Sitio: https://productosvirales.com.ar/producto/MLA8732921
+- **MLA46994091** — Proyector Astronauta MTI M-733XL — Timer 45/90 min y Control Remoto: $32.999 → $79.300 (+140%)
+  - ML: https://www.mercadolibre.com.ar/proyector-astronauta-con-luces-de-galaxia-y-estrellas-lampara-led-para-ninos-con-control-remoto/p/MLA46994091
+  - Sitio: https://productosvirales.com.ar/producto/MLA46994091
+- **MLA52883777** — Set De 4 Perfumes Tubo Fragancias Arabes De 35ml Unisex: $14.233 → $29.100 (+104%)
+  - ML: https://www.mercadolibre.com.ar/set-de-4-perfumes-tubo-fragancias-arabes-de-35ml-unisex/p/MLA52883777
+  - Sitio: https://productosvirales.com.ar/producto/MLA52883777
+- **MLA42113760** — Freidora De Aire Kanji Home 8 Litros +10 Funciones Canasta Antiadherente Kjh-1700dc 1700w Lh Color Negro: $293.000 → $122.899 (-58%)
+  - ML: https://www.mercadolibre.com.ar/freidora-de-aire-kanji-home-8-litros-10-funciones-canasta-antiadherente-kjh-1700dc-1700w-lh-color-negro/p/MLA42113760
+  - Sitio: https://productosvirales.com.ar/producto/MLA42113760
+- **MLA53370426** — Cafetera express Peabody PE-CE5023IX automática con molinillo: $998.650 → $2.049.999 (+105%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA53370426
+  - Sitio: https://productosvirales.com.ar/producto/MLA53370426
+- **MLA15244160** — Multiprocesadora Ultracomb 600w Pc-6800 Negro Bold de Vidrio Capacidad 1,2Lts: $82.999 → $199.999 (+141%)
+  - ML: https://www.mercadolibre.com.ar/multiprocesadora-ultracomb-600w-pc-6800-negro-bold-de-vidrio-capacidad-12lts/p/MLA15244160
+  - Sitio: https://productosvirales.com.ar/producto/MLA15244160
+- **MLA15705813** — Cafetera de cápsulas Moulinex Dolce Gusto Piccolo XS: $114.436 → $239.200 (+109%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA15705813
+  - Sitio: https://productosvirales.com.ar/producto/MLA15705813
+- **MLA29597823** — Bombilla Mate El Santo Mate Hexagonal Acero Inoxidable Bronce Filtro Plano: $3.883 → $50.491 (+1200%)
+  - ML: https://www.mercadolibre.com.ar/bombilla-mate-el-santo-mate-hexagonal-acero-inoxidable-bronce-filtro-plano/p/MLA29597823
+  - Sitio: https://productosvirales.com.ar/producto/MLA29597823
+- **MLA24556041** — Pava Eléctrica Telefunken Pe800 Jarra Vidrio 1.8lt Mate Cafe: $134.999 → $2.112.133 (+1465%)
+  - ML: https://www.mercadolibre.com.ar/pava-electrica-telefunken-pe800-jarra-vidrio-18lt-mate-cafe-color-transparentenegroplateado/p/MLA24556041
+  - Sitio: https://productosvirales.com.ar/producto/MLA24556041
+- **MLA20664028** — Alberca Inflable Intex Redonda para Niños de 1.47 m con 3 Aros: $47.000 → $22.024 (-53%)
+  - ML: https://www.mercadolibre.com.ar/intex-alberca-inflable-infantil-3-aros-alberca-colores/p/MLA20664028
+  - Sitio: https://productosvirales.com.ar/producto/MLA20664028
+- **MLA69809119** — Zapateros Mueble Zapatos Organizador Zapatero De Metal Plateado De 8 Pisos: $59.999 → $21.339 (-64%)
+  - ML: https://www.mercadolibre.com.ar/zapateros-mueble-zapatos-organizador-zapatero-de-metal-plateado-de-8-pisos/p/MLA69809119
+  - Sitio: https://productosvirales.com.ar/producto/MLA69809119
+- **MLA63548072** — Colchón Fika Pocket 1 Plaza — 80x190x20, Resortes y Espuma, En Caja: $176.160 → $368.600 (+109%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA63548072
+  - Sitio: https://productosvirales.com.ar/producto/MLA63548072
+- **MLA41479634** — Freidora de Aire Westinghouse AFR-1802 — 10 Litros, 1,8 kW, 12 Funciones: $699.999 → $163.899 (-77%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA41479634
+  - Sitio: https://productosvirales.com.ar/producto/MLA41479634
+
 ## 2026-09-25
 
 - **MLA8732921** — Auriculares Gamer Con Cable HyperX Cloud HX-HSCA Black y Red: $91.379 → $779.403 (+753%)
