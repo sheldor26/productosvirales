@@ -1,7 +1,33 @@
 # Estado actual
 
 > Snapshot del proyecto. Se actualiza al final de cada sesión.
-> Última actualización: 2026-09-26 — 2 guías nuevas: "Tupper: cuál comprar" y "Reposera: cuál comprar" (silo hogar-jardin, sourcing nuevo, 4 fichas cada una). Doble GO del trío auditor en las dos. La de reposera fue la más rápida en cerrar (3 rondas de Codex + 1 de agy) aplicando desde el arranque las lecciones de superlativos mal acotados de las dos guías anteriores de la racha. Afiliados reales ya cargados. Ver detalle abajo.
+> Última actualización: 2026-09-28 — Checklist del reporte SEO semanal: refresh de stock/reseñas en microondas, yogurtera-daewoo, atma-freidoras-de-aire-review y silla-gamer. Encontró 2 problemas reales de stock (yogurtera Daewoo Yoggy Pro dada de baja, freidora Atma FR248ABP negra devaluada a vendedores marginales) que requirieron reescribir 2 guías y sourcear 2 fichas nuevas. Ver detalle abajo.
+
+## Sesión 2026-09-28 — Refresh de 4 guías vencidas + 2 hallazgos de stock
+
+### LO QUE SE HIZO
+
+Checklist del reporte SEO semanal (`docs/seo-reports/2026-09-28.md`), ítem "refresh de stock/reseñas" en las 4 guías con más clicks de afiliado entre las vencidas: `microondas`, `yogurtera-daewoo`, `atma-freidoras-de-aire-review`, `silla-gamer` (12 productos en total). Verificación en vivo con el Chrome de Juan (ML bloquea el navegador interno).
+
+**Resultado por guía:**
+- `microondas` (4 productos) y `silla-gamer` (4 productos): todos en stock, badges "MÁS VENDIDO" intactos, solo drift normal de `reviewCount` (±1-2%). Actualizados los 8 números para que los tokens `{{reviews:ID}}` queden exactos.
+- `atma-freidoras-de-aire-review` (3 productos): la Atma Pro FR60AR y la doble canasta están sanas. La **FR248ABP negra (MLA39861162)**, que era el pick "Nuestra elección" de la guía, perdió su oferta de vendedor confiable — hoy solo hay 3 vendedores marginales desde $240.000 (vs. los $171.999 que se venía trackeando) y ya no tiene la insignia "MÁS VENDIDO". Su gemela blanca (FR248AWP, MLA39861128, ya fichada para otra guía) sigue sana y con la insignia. Se cambió el pick "Nuestra elección" de la negra a la blanca en toda la guía (quickPicks, H2, product-card, tabla, links de compra) con un callout explicando el porqué. **Pendiente fuera de esta sesión:** MLA39861162 sigue citada como pick en ~7 guías más del sitio que no se tocaron hoy.
+- `yogurtera-daewoo` (1 producto): la **Daewoo Yoggy Pro DYM672T (MLA65327878)**, la única yogurtera Daewoo para yogur griego colado, se dio de baja por completo en MercadoLibre — sin variante alternativa, sin sucesor del mismo código de modelo. Esto rompía la premisa central de dos guías: la satélite `yogurtera-daewoo` (reescrita por completo, ahora recomienda la Daewoo DYM-650, la Daewoo con más ventas reales hoy pero sin función griego) y el puesto "para yogur griego" de la guía pilar `yogurtera` (reemplazado por la Delhi DL-160Y, mismo formato de recipiente único + filtro, con la ventaja real de apagado automático de verdad). 2 fichas nuevas sourceadas y auditadas en vivo (Daewoo DYM-650 MLA26962414, Delhi DL-160Y MLA63993106), con afiliados reales generados y verificados.
+
+Los 2 hallazgos de stock quedaron documentados con el detalle completo en `docs/productos-sin-stock.md`.
+
+### VERIFICACIÓN
+
+`npx tsc --noEmit`, `npm run build`, y los 8 scripts de `guides:check` corridos individualmente, todos en verde (incluido `check-canonical-product-links`, que atrapó un slug mal truncado en la ficha nueva de Delhi — corregido). Los mismos 3 hardcoded prices preexistentes de siempre (gaming, smartlife-cafetera) siguen sin tocar, no relacionados a esta sesión.
+
+### LO QUE QUEDA ABIERTO
+
+- Propagar el mismo ajuste de MLA39861162 → MLA39861128 (Atma FR248ABP negra → blanca) a las ~7 guías restantes que todavía citan la negra como pick (gadnic-freidora-review y comparativas relacionadas).
+- Casco de bicicleta: diagnóstico de SERP hecho (probable supresión por Shopping/AI Overview, no un caso cerrado limpio como cámaras/tostadoras), sin acción tomada todavía — pendiente de discutir con Juan.
+- `perfumes-arabes-originales`: el reporte pedía agregar un H2 + señales de autenticidad que la guía ya tenía; se hizo una restructuración más liviana en su lugar (prosa densa → lista escaneable) en vez de contenido duplicado.
+- Sin commitear todavía: diff mostrado a Juan, pendiente de aprobación explícita antes de pushear y correr `npm run indexnow`.
+
+---
 
 ## Sesión 2026-09-26 — Guías nuevas: Tupper y Reposera
 

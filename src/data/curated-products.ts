@@ -8597,7 +8597,7 @@ A $919.599 con 4.9 estrellas en {{reviews:MLA28853185}} calificaciones, es el ul
     condition: "new",
     freeShipping: true,
     rating: 4.7,
-    reviewCount: 1731,
+    reviewCount: 1759,
     pastelColor: "var(--pastel-green)",
     visibility: "normal",
     specs: [
@@ -8714,7 +8714,7 @@ Comprala si pasás jornadas largas sentado y el apoya pies te resuelve algo conc
     condition: "new",
     freeShipping: true,
     rating: 4.9,
-    reviewCount: 1533,
+    reviewCount: 1555,
     pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     specs: [
@@ -8834,7 +8834,7 @@ Comprá la Cougar Armor Elite Royal si querés una silla que te dure años, pas�
     condition: "new",
     freeShipping: true,
     rating: 4.8,
-    reviewCount: 531,
+    reviewCount: 537,
     pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
@@ -8952,7 +8952,7 @@ Comprala si tu problema número uno es el calor y la transpiración, no el ajust
     condition: "new",
     freeShipping: true,
     rating: 4.6,
-    reviewCount: 2003,
+    reviewCount: 2015,
     pastelColor: "var(--pastel-green)",
     visibility: "normal",
     specs: [
@@ -12346,7 +12346,7 @@ Comprá el G733 si jugás en PC o PlayStation, querés inalámbrico sin lag y va
     condition: "new",
     freeShipping: true,
     rating: 4.7,
-    reviewCount: 4242,
+    reviewCount: 4246,
     pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
@@ -12477,7 +12477,7 @@ Es un microondas honesto: hace lo básico bien, es barato y tiene respaldo de ma
     condition: "new",
     freeShipping: true,
     rating: 4.8,
-    reviewCount: 4396,
+    reviewCount: 4422,
     pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
@@ -12599,7 +12599,7 @@ Es una compra sensata si tu uso es el común. BGH digital, descongelado por peso
     condition: "new",
     freeShipping: true,
     rating: 4.7,
-    reviewCount: 3604,
+    reviewCount: 3558,
     pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     specs: [
@@ -12733,7 +12733,7 @@ Buen microondas con grill, con la marca y el service de Samsung detrás, y 4.7 e
     condition: "new",
     freeShipping: true,
     rating: 4.8,
-    reviewCount: 1641,
+    reviewCount: 1618,
     pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
@@ -35998,7 +35998,7 @@ Para adultos mayores, personas en rehabilitación o cualquiera que pase muchas h
     condition: 'new',
     freeShipping: false,
     rating: 4.8,
-    reviewCount: 4162,
+    reviewCount: 5971,
     soldQuantity: undefined,
     pastelColor: 'var(--pastel-coral)',
     description: "¡Bienvenido a una nueva era de cocina con la Freidora de Aire ATMA FR248ABP! Con una impresionante capacidad de 8 litros y una potente potencia de 1750W, esta freidora de aire está diseñada para satisfacer todas tus necesidades culinarias, ya sea para cocinar grandes comidas familiares o para prepar",
@@ -36139,7 +36139,7 @@ Compará contra los otros modelos Atma del catálogo: la [Atma Pro FR60AR 6.5L](
     condition: 'new',
     freeShipping: false,
     rating: 4.8,
-    reviewCount: 12547,
+    reviewCount: 12412,
     soldQuantity: undefined,
     pastelColor: 'var(--pastel-coral)',
     description: "La freidora de aire Atma redefine la cocina saludable con su capacidad de 6,5 litros, proporcionando espacio generoso para preparar comidas con hasta un 80% menos de grasa. Equipada con 6 programas predefinidos (Bife, carne, chips, aves, torta, pescado), facilita el proceso de cocinar una variedad d",
@@ -36430,7 +36430,7 @@ No es un equipo para guardar y sacar — es para dejar fijo. Completá la compar
     condition: 'new',
     freeShipping: false,
     rating: 4.9,
-    reviewCount: 819,
+    reviewCount: 802,
     soldQuantity: 1000,
     pastelColor: 'var(--pastel-coral)',
     description: "¡Diseñada para facilitar tus comidas favoritas, esta freidora cuenta con dos canastos independientes de 4.25 L cada uno, brindándote una impresionante capacidad total de 8.5 L para que cocines más en menos tiempo! Perfecta para preparar distintos platos al mismo tiempo o duplicar la cantidad de una ",
@@ -64512,7 +64512,7 @@ Comprá el Maverick VP-3 si querés el paquete más completo de funciones (silen
       { label: "Voltaje", value: "220V" },
       { label: "Frecuencia", value: "50 Hz" },
     ],
-    relatedProducts: ["MLA65120821", "MLA65327878", "MLA66422019"],
+    relatedProducts: ["MLA65120821", "MLA63993106", "MLA66422019"],
     priceUpdated: "2026-09-04",
     priceLastChecked: "2026-09-25",
     priceStatus: "fresh",
@@ -64625,7 +64625,7 @@ Comprá la Yelmo YG-1700 si buscás la opción más probada y económica para em
       { label: "Material del cuerpo", value: "Plástico" },
       { label: "Voltaje", value: "220V" },
     ],
-    relatedProducts: ["MLA17840710", "MLA65327878", "MLA66422019"],
+    relatedProducts: ["MLA17840710", "MLA63993106", "MLA66422019"],
     priceUpdated: "2026-08-03",
     priceLastChecked: "2026-09-14",
     priceStatus: "fresh",
@@ -64714,7 +64714,7 @@ Comprá la Lüsqtoff LQ-YT808 si querés temporizador digital y apagado automát
     reviewCount: 422,
     soldQuantity: 1000,
     pastelColor: "var(--pastel-blue)",
-    visibility: "normal",
+    visibility: "deprioritized",
     specs: [
       { label: "Marca", value: "Daewoo" },
       { label: "Modelo", value: "DYM672T" },
@@ -64733,8 +64733,8 @@ Comprá la Lüsqtoff LQ-YT808 si querés temporizador digital y apagado automát
     ],
     relatedProducts: ["MLA17840710", "MLA65120821", "MLA66422019"],
     priceUpdated: "2026-09-04",
-    priceLastChecked: "2026-09-07",
-    priceStatus: "fresh",
+    priceLastChecked: "2026-09-28",
+    priceStatus: "out_of_stock",
     reviewsSampledAt: "2026-07-16",
     description: "Yogurtera Daewoo Yoggy Pro DYM672T: 2 litros en un solo recipiente, con filtro para yogur griego y recetario incluido. 4.8 estrellas en 350 calificaciones, más de 1.000 vendidos.",
     seoTitle: "Daewoo Yoggy Pro: la yogurtera para hacer yogur griego",
@@ -64818,6 +64818,211 @@ Comprá la Daewoo Yoggy Pro si tu objetivo es específicamente yogur griego cola
     ],
   },
   {
+    id: "MLA63993106",
+    title: "Yogurtera Eléctrica Fabrica Yogurt Griego Saludable Delhi 2L 20w Con Recetario Color Blanco",
+    canonicalName: "Yogurtera Delhi DL-160Y 2L griego",
+    price: 53999,
+    originalPrice: 60000,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_798120-MLA105474130171_012026-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_798120-MLA105474130171_012026-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_999401-MLA103631510618_012026-F.webp",
+    ],
+    category: "Cocina",
+    categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/yogurtera-electrica-fabrica-yogurt-griego-saludable-delhi-2l-20w-con-recetario-color-blanco/p/MLA63993106",
+    affiliateUrl: "https://meli.la/1j4Py5Q",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 307,
+    soldQuantity: 1000,
+    pastelColor: "var(--pastel-blue)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Delhi" },
+      { label: "Modelo", value: "DL-160Y" },
+      { label: "Capacidad de producción", value: "1,6 litros (la publicación dice '2L' en el título, pero la ficha técnica declara 1,6 L)" },
+      { label: "Cantidad de frascos", value: "1 (recipiente con filtro para yogur griego)" },
+      { label: "Potencia", value: "20 W" },
+      { label: "Con apagado automático", value: "Sí, real (a diferencia de la Daewoo Yoggy Pro que reemplaza en esta guía, que solo pasaba a un modo 'mantener caliente')" },
+      { label: "Es libre de BPA", value: "Sí" },
+      { label: "Incluye recetario", value: "Sí, según la publicación" },
+      { label: "Incluye filtro para yogur griego", value: "Sí, recipiente tipo caja de conservación con tapa transparente" },
+      { label: "Material del cuerpo", value: "Plástico" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Tipo de alimentación", value: "Corriente doméstica" },
+    ],
+    relatedProducts: ["MLA17840710", "MLA65120821", "MLA66422019"],
+    priceUpdated: "2026-09-28",
+    priceLastChecked: "2026-09-28",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-09-28",
+    description: "Yogurtera Delhi DL-160Y: 2 litros con recipiente y filtro para yogur griego, recetario incluido y apagado automático real. {{rating:MLA63993106}} estrellas en {{reviews:MLA63993106}} calificaciones, más de 1.000 vendidos.",
+    seoTitle: "Delhi DL-160Y: la yogurtera para hacer yogur griego en 2026",
+    metaDescription: "Yogurtera Delhi DL-160Y para yogur griego: recipiente con filtro, apagado automático real y recetario. Precio real y opiniones verificadas.",
+    verdict: "Es hoy la mejor opción de esta guía para yogur griego colado: mismo recipiente único pensado para eso, con la ventaja de un apagado automático real (no un simple modo 'mantener caliente'). {{rating:MLA63993106}} estrellas en {{reviews:MLA63993106}} calificaciones no es un volumen enorme, pero es una tienda oficial (Delhi) con más de 100 mil ventas en el rubro. Un detalle a tener en cuenta: la publicación promociona '2L', pero la ficha técnica declara 1,6 litros de capacidad de producción.",
+    pros: [
+      "Recipiente único con filtro específico para hacer yogur griego colado, igual que su antecesora en esta guía",
+      "Apagado automático real al cumplirse el tiempo (no un modo 'mantener caliente')",
+      "Recetario incluido, confirmado por la publicación",
+      "Tienda oficial Delhi con más de 100 mil ventas y envío FULL",
+      "Libre de BPA",
+    ],
+    cons: [
+      "La publicación promociona '2L' en el título, pero la ficha técnica declara 1,6 litros de capacidad de producción",
+      "El colado del yogur griego se hace por fuera de la máquina (enfriando en la heladera y pasando por el filtro a mano), no es un proceso automático",
+      "Con {{reviews:MLA63993106}} calificaciones, tiene bastante menos respaldo que la Yelmo ({{reviews:MLA17840710}}) o la Ultracomb de esta guía",
+      "Es de las más caras de esta guía",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Delhi DL-160Y es una yogurtera eléctrica con un recipiente único (no frascos individuales), pensada específicamente para hacer yogur griego colado en casa, con filtro y recetario incluidos. Reemplaza en esta guía a la Daewoo Yoggy Pro, que dejó de venderse en MercadoLibre Argentina.
+
+## Cómo funciona
+
+El recipiente tipo caja de conservación con tapa transparente deja ver el proceso de fermentación sin destapar. Según una reseña real de una compradora, la receta básica es 1 litro de leche a temperatura ambiente, un pote de yogur natural firme como cultivo y 3 cucharadas de leche en polvo, todo mezclado y volcado en el recipiente, fermentando entre 8 y 10 horas. Para la versión griega, una vez fermentado se pasa el contenido al recipiente con el filtro y se lleva a la heladera unas 2 horas más, hasta que elimine el suero y tenga la consistencia deseada. A diferencia de la Yoggy Pro que reemplaza, esta sí tiene apagado automático real al cumplirse el tiempo, según la ficha técnica.
+
+## La contra real
+
+La publicación titula el producto como "2L", pero la ficha técnica de características, en el campo "Capacidad de producción", declara 1,6 litros. No es un error grosero de unidades, pero sí una diferencia real entre lo que promociona el título y lo que confirma la especificación técnica. Con {{reviews:MLA63993106}} calificaciones, además, tiene mucho menos respaldo que la Yelmo (más de 12.000) o la Ultracomb de esta guía, aunque la calificación en sí ({{rating:MLA63993106}} estrellas) es alta.
+
+## Cómo se compara con los otros de esta guía
+
+Frente a la [Yelmo](/producto/yogurtera-fabrica-de-yogurt-yelmo-yg-1700-7-jarros-tapas-de-colores-mla17840710) y la [Lüsqtoff](/producto/yogurtera-lusqtoff-lq-yt808-1-7-litros-con-8-frascos-de-vidrio-y-temporizador-di-mla65120821) (frascos individuales), la Delhi usa un recipiente único, mejor pensado para colar yogur griego que para porciones individuales. Frente a la [Ultracomb YG-2712V](/producto/yogurtera-digital-ultracomb-yg-2712v-12-frascos-vidrio-temporizador-mla66422019) (12 frascos, sin filtro para griego), la Delhi es la única de esta guía con recipiente y filtro específicos para yogur griego colado.
+
+## Para quién sí y para quién no
+
+Comprá la Delhi DL-160Y si tu objetivo es específicamente yogur griego colado. No es la mejor opción si solo querés yogur casero clásico en porciones individuales para repartir: ahí la Yelmo o la Lüsqtoff de esta guía cuestan menos y tienen mucho más respaldo de opiniones.`,
+    faq: [
+      {
+        question: "¿La máquina cuela el yogur griego sola?",
+        answer: "No. Fermenta la leche en el recipiente, pero para lograr la textura de yogur griego hay que pasarlo por el filtro incluido y enfriarlo en la heladera a mano; ese paso se hace por fuera de la máquina.",
+      },
+      {
+        question: "¿Cuánto rinde realmente?",
+        answer: "La publicación la promociona como '2L' en el título, pero la ficha técnica de características declara 1,6 litros de capacidad de producción. Es la diferencia real entre el título y la especificación.",
+      },
+      {
+        question: "¿Se apaga sola al terminar?",
+        answer: "Sí, tiene apagado automático real según la ficha técnica, a diferencia de la Daewoo Yoggy Pro que reemplaza en esta guía (que solo pasaba a un modo 'mantener caliente').",
+      },
+      {
+        question: "¿Trae recetario?",
+        answer: "Sí, según la publicación.",
+      },
+      {
+        question: "¿Es libre de BPA?",
+        answer: "Sí, confirmado por la ficha técnica.",
+      },
+      {
+        question: "¿Por qué reemplaza a la Daewoo Yoggy Pro en esta guía?",
+        answer: "La Daewoo Yoggy Pro (DYM672T) dejó de venderse en MercadoLibre Argentina: no se encontró ninguna publicación activa del modelo al verificar en vivo. La Delhi DL-160Y cumple la misma función (recipiente único con filtro para yogur griego colado) y está en stock con respaldo de tienda oficial.",
+      },
+    ],
+  },
+  {
+    id: "MLA26962414",
+    title: "Yogurtera Daewoo Dym-650 7 Vasos De 200ml Color Blanco",
+    canonicalName: "Yogurtera Daewoo DYM-650",
+    price: 49634,
+    originalPrice: 59500,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_669664-MLA91955507217_092025-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_669664-MLA91955507217_092025-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_868844-MLA91955488047_092025-F.webp",
+    ],
+    category: "Cocina",
+    categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/yogurtera-daewoo-dym-650-7-vasos-de-200ml-color-blanco/p/MLA26962414",
+    affiliateUrl: "https://meli.la/1Nuf5RD",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.9,
+    reviewCount: 2171,
+    soldQuantity: 5000,
+    pastelColor: "var(--pastel-blue)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Daewoo" },
+      { label: "Modelo", value: "DYM-650" },
+      { label: "Cantidad de frascos", value: "7 de vidrio" },
+      { label: "Capacidad de los frascos", value: "200 ml declarados; una reseña con 106 votos útiles midió que en la práctica son unos 140 ml (1 litro de leche alcanza justo para los 7)" },
+      { label: "Capacidad de producción", value: "1,4 litros" },
+      { label: "Potencia", value: "15 W" },
+      { label: "Con temporizador", value: "No" },
+      { label: "Con apagado automático", value: "No" },
+      { label: "Material del cuerpo", value: "Plástico" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Garantía", value: "6 meses de fábrica" },
+    ],
+    relatedProducts: ["MLA17840710", "MLA65120821", "MLA66422019"],
+    priceUpdated: "2026-09-28",
+    priceLastChecked: "2026-09-28",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-09-28",
+    description: "Yogurtera Daewoo DYM-650: 7 frascos de vidrio de 200 ml, la más vendida de la marca en Argentina hoy (más de 5.000 unidades, {{rating:MLA26962414}} estrellas y {{reviews:MLA26962414}} calificaciones), incluye opiniones de otros países.",
+    seoTitle: "Yogurtera Daewoo DYM-650: la que más se vende hoy [2026]",
+    metaDescription: "La Daewoo DYM-650, 7 frascos de vidrio, es hoy el modelo Daewoo con más ventas y calificaciones en MercadoLibre Argentina. Precio real y contras honestas.",
+    verdict: "Es hoy la yogurtera Daewoo con más ventas y calificaciones reales en MercadoLibre Argentina ({{rating:MLA26962414}} estrellas en {{reviews:MLA26962414}} calificaciones), pero es un modelo simple de frascos individuales, sin temporizador ni apagado automático, y no sirve para el formato de yogur griego colado que ofrecía la Yoggy Pro (ya sin stock). Una reseña con 106 votos útiles avisa que los frascos, anunciados en 200 ml, en la práctica rinden unos 140 ml. Buena opción si buscás específicamente la marca Daewoo en su formato más simple; si tu objetivo es yogur griego, mirá la Delhi de la guía general de yogurteras.",
+    pros: [
+      "La Daewoo con más ventas y calificaciones reales de MercadoLibre Argentina hoy: {{rating:MLA26962414}} estrellas en {{reviews:MLA26962414}} calificaciones",
+      "Vendedor MercadoLíder con más de 100 mil ventas",
+      "6 meses de garantía de fábrica",
+      "Envío gratis",
+    ],
+    cons: [
+      "No trae temporizador ni apagado automático: hay que controlar el tiempo de fermentación con una alarma aparte",
+      "Los frascos se anuncian en 200 ml, pero una reseña con 106 votos útiles midió que en la práctica son unos 140 ml (1 litro de leche alcanza justo para los 7)",
+      "No sirve para yogur griego colado: no trae el recipiente ni el filtro que sí tenía la Yoggy Pro (discontinuada)",
+      "No es tienda oficial Daewoo: la vende un MercadoLíder externo",
+      "Sus calificaciones incluyen opiniones de otros países de la región, según aclara la propia publicación",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Daewoo DYM-650 es una yogurtera eléctrica simple de 7 frascos de vidrio de 200 ml cada uno, sin temporizador ni apagado automático. Es hoy el modelo Daewoo con más ventas y calificaciones reales en MercadoLibre Argentina, ahora que la Yoggy Pro (pensada para yogur griego colado) dejó de venderse.
+
+## Cómo funciona
+
+Es un equipo simple: se llenan los 7 frascos con la mezcla de leche y cultivo de yogur, se colocan en la base y se enciende. No tiene temporizador ni apagado automático, así que hay que controlar el tiempo de fermentación (entre 8 y 12 horas, según el tipo de cultivo) con una alarma aparte y desenchufarla a mano. Una reseña real con receta detallada explica el proceso: calentar 1 litro de leche descremada a fuego medio, agregar un yogur natural como cultivo, vainillina y edulcorante a gusto, más 3 cucharadas de leche en polvo descremada, volcar en los frascos sin tapa y dejar en la yogurtera 9 horas; después, a temperatura ambiente, tapar los frascos y llevar a la heladera.
+
+## La contra real
+
+La publicación anuncia frascos de 200 ml, pero una reseña de 4 estrellas con 106 votos útiles es específica: "lo que no está bien es el tamaño de los vasos, indica que son de 200ml cuando en realidad son de 140ml (1 litro de leche alcanza justo para 7)". Es una diferencia real entre lo que dice el título y lo que confirma el uso. Además, esta ficha incluye calificaciones de otros países de la región (aclarado por la propia publicación de MercadoLibre), no son {{reviews:MLA26962414}} opiniones 100% de compradores argentinos.
+
+## Cómo se compara con la Yoggy Pro (discontinuada)
+
+La Yoggy Pro DYM672T, que hasta hace poco era la recomendación Daewoo de esta guía, dejó de tener publicaciones activas en MercadoLibre Argentina: no se encontró ningún vendedor ofreciéndola al verificar en vivo. A diferencia de la Yoggy Pro (recipiente único de 2L con filtro para yogur griego, temporizador digital), la DYM-650 es un modelo de frascos individuales sin filtro para griego ni programación. Si tu objetivo puntual es yogur griego colado, la [Delhi DL-160Y](/producto/yogurtera-electrica-fabrica-yogurt-griego-saludable-delhi-2l-20w-con-recetario-c-mla63993106) de la guía general de yogurteras cumple esa función hoy.
+
+## Para quién sí y para quién no
+
+Comprá la Daewoo DYM-650 si querés específicamente la marca Daewoo, en su formato más simple de frascos individuales, y no te molesta controlar el tiempo de fermentación vos mismo. No es la opción si buscás yogur griego colado (ahí conviene la Delhi) o si preferís temporizador y apagado automático (ahí conviene la Lüsqtoff de la guía general).`,
+    faq: [
+      {
+        question: "¿Por qué esta Daewoo y no la Yoggy Pro?",
+        answer: "La Yoggy Pro DYM672T dejó de tener publicaciones activas en MercadoLibre Argentina al verificar en vivo. La DYM-650 es hoy el modelo Daewoo con más ventas y calificaciones reales del catálogo.",
+      },
+      {
+        question: "¿Sirve para hacer yogur griego colado?",
+        answer: "No trae el recipiente ni el filtro específico que tenía la Yoggy Pro. Si tu objetivo es yogur griego, la Delhi DL-160Y de la guía general de yogurteras cumple esa función.",
+      },
+      {
+        question: "¿Los frascos son realmente de 200 ml?",
+        answer: "La publicación los anuncia así, pero una reseña con 106 votos útiles midió que en la práctica son unos 140 ml cada uno (1 litro de leche alcanza justo para los 7 frascos).",
+      },
+      {
+        question: "¿Tiene temporizador o apagado automático?",
+        answer: "No. Hay que controlar el tiempo de fermentación (8-12 horas) con una alarma aparte y desenchufarla a mano.",
+      },
+      {
+        question: "¿Las calificaciones son todas de Argentina?",
+        answer: "No: la propia publicación aclara que incluye opiniones de otros países de la región, no son {{reviews:MLA26962414}} calificaciones 100% de compradores argentinos.",
+      },
+    ],
+  },
+  {
     id: "MLA66422019",
     title: "Yogurtera Digital Ultracomb Yg 2712v 12 Frascos Vidrio Temporizador",
     canonicalName: "Yogurtera Ultracomb YG-2712V",
@@ -64855,7 +65060,7 @@ Comprá la Daewoo Yoggy Pro si tu objetivo es específicamente yogur griego cola
       { label: "Material del cuerpo", value: "Plástico, confirmado por el manual oficial del fabricante ('cubierta de plástico para la unidad'), pese a que la ficha de MercadoLibre y la propia página de Ultracomb lo venden como 'acero inoxidable'" },
       { label: "Voltaje", value: "220-240V" },
     ],
-    relatedProducts: ["MLA17840710", "MLA65120821", "MLA65327878"],
+    relatedProducts: ["MLA17840710", "MLA65120821", "MLA63993106"],
     priceUpdated: "2026-09-14",
     priceLastChecked: "2026-09-25",
     priceStatus: "fresh",
