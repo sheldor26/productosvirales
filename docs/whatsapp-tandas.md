@@ -77,3 +77,23 @@ Sourcing hecho ~12:00hs (Freidora Suono, Sillón Nictom, Aspiradora Fika) pero l
 | Freidora de Aire Suono 9L Flip Grill | $127.399 (42% OFF, ¡ÚLTIMA UNIDAD! real) | meli.la/26EqBMN |
 | Sillón Ejecutivo Respaldo Masajeador Nictom | $182.359 (27% OFF, Tienda oficial Muar) | meli.la/2f2EgJG |
 | Aspiradora Robot Trapeadora Fika SENSE | $161.999 (35% OFF) | meli.la/1Bo6L7S |
+
+### 2026-09-29 08:13 — Mañana
+
+Primera tanda del día (martes), horario en punto. Sin repetir nada de las tandas anteriores ni de Threads (últimas 48hs) — se descartaron por dupe los primeros candidatos (Ventilador Ambi O y Afeitadora VGR V-325, ya publicados en tandas previas de WhatsApp/Threads; Silla Gamer Cougar Fusion Ex y Notebook HP OmniBook 3, ya publicados en Threads con el mismo link). Al chequear specs de la Licuadora Peabody antes de escribir el copy, se corrigió a tiempo un dato: la jarra es de plástico, no de vidrio (la ficha técnica lo aclara explícitamente) — se evitó publicar el dato inventado. Los 3 verificados en vivo antes de publicar. Links generados con el linkbuilder de afiliados, etiqueta "instagram".
+
+| Producto | Precio | Link |
+|---|---|---|
+| Aspiradora Vertical de Mano AH400 Belarra | $54.999 (28% OFF, Tienda oficial Belarra) | meli.la/2gqZSR5 |
+| Licuadora de Mesa Peabody PE-LN610 | $60.593 (32% OFF, Tienda oficial Mercado Libre) | meli.la/2XfExkX |
+| Planchita Remington S27a Cabello Húmedo Seco 230°C | $66.799 (35% OFF, Tienda oficial Remington) | meli.la/2CCKt2p |
+
+### 2026-09-29 16:58 — Mediodía/Tarde (sourceada al mediodía, publicada en la franja tarde)
+
+Sourcing hecho ~11:27hs (Sillas Comedor Ambi O, Pava Unnic, Aspiradora Suono Home Studio) pero la publicación quedó pendiente por corte de sesión; se retomó a las 16:41, ya en el horario de la franja tarde (16:40), por lo que esta tanda cubre ambos horarios. Antes de publicar se re-verificaron los 3 productos en vivo (~5hs después del sourcing): las Sillas Comedor mantuvieron precio idéntico; la Pava Unnic cambió de verdad — pasó de $94.999→$56.799 (40% OFF, "OFERTA DEL DÍA") a $69.561→$62.699 (9% OFF, "OFERTA RELÁMPAGO" con countdown real, "ÚLTIMAS 3" unidades) — se regeneró el asset con el precio y badge reales; la Aspiradora Suono Home Studio también cambió, de $199.999→$116.599 (41% OFF) a $199.999→$120.317 (39% OFF) — cambio menor pero real, también regenerado. Sin repetir nada de las tandas anteriores ni de Threads (últimas 48hs). Links generados con el linkbuilder de afiliados, etiqueta "instagram".
+
+| Producto | Precio | Link |
+|---|---|---|
+| Sillas Comedor Tapizadas Pack X2 Premium Base Hierro | $263.999 (20% OFF, Tienda oficial Ambi O) | meli.la/2pVst3c |
+| Pava Eléctrica Unnic Digital Táctil Acero 1.7L | $62.699 (9% OFF, OFERTA RELÁMPAGO, ÚLTIMAS 3) | meli.la/2EfWEky |
+| Aspiradora Limpia Manchas Tapizados Suono Home Studio | $120.317 (39% OFF, MÁS VENDIDO) | meli.la/2dTqKNZ |

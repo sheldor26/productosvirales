@@ -4599,4 +4599,144 @@ export const socialPosts: SocialPost[] = [
     offPct: "0",
     postedAt: "2026-09-28T19:58:12-03:00",
   },
+  {
+    title: 'Monitor MSI Pro MP242L 23.8" FHD 100Hz',
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_637316-MLA99984541487_112025-O.webp",
+    affiliateUrl: "https://meli.la/2DBfRx1",
+    newPrice: "189.999",
+    oldPrice: "249.999",
+    offPct: "24",
+    postedAt: "2026-09-29T08:17:53-03:00",
+  },
+  {
+    title: "Consola PS5 Slim Digital 825GB + Juego Digital a Elección",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_982505-MLA114536064316_082026-O.webp",
+    affiliateUrl: "https://meli.la/1uc88XU",
+    newPrice: "1.519.050",
+    oldPrice: "1.599.000",
+    offPct: "5",
+    postedAt: "2026-09-29T08:48:13-03:00",
+  },
+  {
+    title: "Smart TV TCL 55 55C6K Mini LED QLED 4K 144Hz Game Master",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_826843-MLA115291503609_072026-O.webp",
+    affiliateUrl: "https://meli.la/1NUgnvd",
+    newPrice: "1.318.123",
+    oldPrice: "1.318.123",
+    offPct: "0",
+    postedAt: "2026-09-29T09:18:24-03:00",
+  },
+  {
+    title: "Hidrolavadora Inalámbrica MTL 48V Multiuso",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_667010-MLA115107859942_082026-O.webp",
+    affiliateUrl: "https://meli.la/2Rfn3nV",
+    newPrice: "49.990",
+    oldPrice: "77.128",
+    offPct: "35",
+    postedAt: "2026-09-29T09:48:44-03:00",
+  },
+  {
+    title: "Notebook Gigabyte Aero X16 HX 370 RTX 5070 32GB",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_689640-MLA109813483025_032026-O.webp",
+    affiliateUrl: "https://meli.la/1DauqHn",
+    newPrice: "4.927.599",
+    oldPrice: "7.653.070",
+    offPct: "35",
+    postedAt: "2026-09-29T10:18:55-03:00",
+  },
+  {
+    title: "Consola Nintendo Switch 2 + Pokémon Legends Z-A",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_734825-MLA97378328254_112025-O.webp",
+    affiliateUrl: "https://meli.la/2rr26qy",
+    newPrice: "1.389.000",
+    oldPrice: "1.389.000",
+    offPct: "0",
+    postedAt: "2026-09-29T10:49:14-03:00",
+  },
+  {
+    title: "Smart TV BGH 43 Full HD Google TV",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_620453-MLA115299583159_072026-O.webp",
+    affiliateUrl: "https://meli.la/19Smrtx",
+    newPrice: "477.336",
+    oldPrice: "616.999",
+    offPct: "22",
+    postedAt: "2026-09-29T11:20:31-03:00",
+  },
+  {
+    title: "Teclado Mecánico Wayra X21 Retroiluminado RGB",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_689531-MLA96894971844_112025-O.webp",
+    affiliateUrl: "https://meli.la/1KEZXXs",
+    newPrice: "31.131",
+    oldPrice: "56.397",
+    offPct: "44",
+    postedAt: "2026-09-29T11:50:28-03:00",
+  },
+  {
+    title: "Mouse Gamer Carrello M536 1600 DPI RGB",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_824115-MLA116440075815_082026-O.webp",
+    affiliateUrl: "https://meli.la/1EAA4SM",
+    newPrice: "30.554",
+    oldPrice: "51.999",
+    offPct: "41",
+    postedAt: "2026-09-29T17:02:14-03:00",
+  },
+  {
+    title: "Lavarropas Carga Frontal Boher 8kg 1200rpm Inverter",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_607191-MLA114671326486_082026-O.webp",
+    affiliateUrl: "https://meli.la/1zWHv26",
+    newPrice: "565.999",
+    oldPrice: "734.712",
+    offPct: "22",
+    postedAt: "2026-09-29T17:32:33-03:00",
+  },
+  {
+    title: "Auriculares Gamer Noga ST-3990 Dual USB 2.4G Bluetooth",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_910626-MLA98820685822_112025-O.webp",
+    affiliateUrl: "https://meli.la/1xKbjPa",
+    newPrice: "61.749",
+    oldPrice: "68.999",
+    offPct: "10",
+    postedAt: "2026-09-29T18:02:47-03:00",
+  },
+  {
+    title: "Parlante Bluetooth Lidimi Portátil 60W Luz RGB",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_753827-MLA116063135809_082026-O.webp",
+    affiliateUrl: "https://meli.la/2sE3PVP",
+    newPrice: "94.300",
+    oldPrice: "115.000",
+    offPct: "18",
+    postedAt: "2026-09-29T18:33:00-03:00",
+  },
+  {
+    title: "Freidora de Aire AF905 Liliana Lumifry 5L",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_771247-MLA99394092368_112025-O.webp",
+    affiliateUrl: "https://meli.la/2mMNkyj",
+    newPrice: "87.299",
+    oldPrice: "189.999",
+    offPct: "54",
+    postedAt: "2026-09-29T19:03:11-03:00",
+  },
+  {
+    title: "Smartwatch QX12 Táctico Deportivo IP68",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_949599-MLA110891880753_042026-O.webp",
+    affiliateUrl: "https://meli.la/2kgCsc4",
+    newPrice: "62.999",
+    oldPrice: "69.999",
+    offPct: "10",
+    postedAt: "2026-09-29T19:33:37-03:00",
+  },
 ];
