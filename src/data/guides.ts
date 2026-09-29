@@ -3150,6 +3150,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { label: "Mouse gamer: cuál comprar", href: "/guias/gaming/mouse-gamer" },
       { label: "Silla gamer: cuál comprar", href: "/guias/gaming/silla-gamer" },
       { label: "Auriculares gamer: cuál comprar", href: "/guias/gaming/auriculares-gamer" },
+      { label: "Regalos de Navidad: qué regalar según a quién", href: "/guias/hogar/regalos-de-navidad-argentina" },
     ],
     internalLinksTitle: "Más para tu setup gamer",
   },
@@ -15311,7 +15312,8 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { label: "Guía completa de perfumes árabes en Argentina", href: "/guias/perfumes-arabes" },
       { label: "Perfumes árabes para mujer", href: "/guias/perfumes-arabes-mujer" },
       { label: "Lattafa: guía completa de la marca", href: "/guias/lattafa-guia-marca" },
-      { label: "Los perfumes árabes más vendidos en Argentina", href: "/guias/perfumes-arabes-mas-vendidos-argentina" }
+      { label: "Los perfumes árabes más vendidos en Argentina", href: "/guias/perfumes-arabes-mas-vendidos-argentina" },
+      { label: "Regalos de Navidad: qué regalar según a quién", href: "/guias/hogar/regalos-de-navidad-argentina" }
     ],
     internalLinksTitle: "Guías relacionadas"
   },
@@ -16222,7 +16224,8 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { label: "Yara Lattafa: Elixir, Tous y cuál comprar", href: "/guias/yara-lattafa-guia-completa" },
       { label: "Los perfumes árabes más vendidos en Argentina", href: "/guias/perfumes-arabes-mas-vendidos-argentina" },
       { label: "Perfumes árabes por color del envase", href: "/guias/perfumes-arabes-por-color" },
-      { label: "Dónde comprar perfumes árabes en Argentina", href: "/guias/donde-comprar-perfumes-arabes-argentina" }
+      { label: "Dónde comprar perfumes árabes en Argentina", href: "/guias/donde-comprar-perfumes-arabes-argentina" },
+      { label: "Regalos de Navidad: qué regalar según a quién", href: "/guias/hogar/regalos-de-navidad-argentina" }
     ],
     internalLinksTitle: "Guías relacionadas"
   },
@@ -26083,6 +26086,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { label: "Perfumes árabes de mujer: cuál comprar", href: "/guias/perfumes-arabes-mujer" },
       { label: "Cafetera express: cuál comprar", href: "/guias/cafetera-express" },
       { label: "Termos: cuál comprar en Argentina", href: "/guias/bebidas-termicas/termo" },
+      { label: "Regalos de Navidad: qué regalar según a quién", href: "/guias/hogar/regalos-de-navidad-argentina" },
     ],
     internalLinksTitle: "Seguí leyendo",
   },
@@ -26238,8 +26242,160 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { label: "Hot Wheels y autos de colección: cuál comprar", href: "/guias/juguetes/hot-wheels-autos-coleccion" },
       { label: "Proyector astronauta: ¿cuál conviene y vale la pena?", href: "/guias/juguetes/proyector-astronauta" },
       { label: "Día de la Madre: regalos que se usan", href: "/guias/hogar/dia-de-la-madre-argentina" },
+      { label: "Regalos de Navidad: qué regalar según a quién", href: "/guias/hogar/regalos-de-navidad-argentina" },
     ],
     internalLinksTitle: "Seguí explorando",
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva regalos-de-navidad-argentina — silo "hogar", categoría
+  // fechas-especiales (mismo contenedor que dia-de-la-madre-argentina y
+  // dia-del-nino-argentina). Origen: research de regalos de fin de año
+  // 2026-09-29. Keywords validadas (Keyword Planner AR): "regalos para
+  // hombre" 8.100/mes y "regalos de navidad" 2.900/mes con SERP superficial
+  // limpio en la primera pasada, pero al profundizar (WebSearch excluyendo
+  // mercadolibre.com.ar) aparecen competidores editoriales reales en TODOS
+  // los términos genéricos de regalo (La Nación, Ámbito, El Destape,
+  // elgadget.com.ar, dicarolo.com, caso-cerrado.com, etc.) — mismo patrón
+  // que "regalos dia de la madre" (competencia 100/100, documentado en
+  // docs/seo-tracking-optimizaciones.md). Por eso esta guía NO pelea el
+  // término genérico: usa la fecha como gancho informativo (Nochebuena
+  // 24/12 vs. Reyes Magos 6/1, la misma lógica que ya funcionó con Día
+  // de la Madre) y concentra el valor real en enlazado interno + 8 picks
+  // ya validados de guías existentes del catálogo, agrupados por "para
+  // quién" en vez de solo por presupuesto. CERO sourcing nuevo: los 8
+  // productos son los "mejor calificado / más vendido" ya verificados de
+  // mejores-perfumes-arabes-hombre, perfumes-arabes-mujer, teclado-mecanico-60,
+  // planchita-de-pelo, hot-wheels-autos-coleccion, conservadora, reposera
+  // y parlantes. Precios y reseñas van por token en vivo, nunca hardcodeados.
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "regalos-de-navidad-argentina",
+    category: "fechas-especiales",
+    silo: "hogar",
+    pillar: true,
+    title: `Regalos de Navidad 2026 en Argentina: qué regalar y a quién`,
+    h1: `Regalos de Navidad 2026 en Argentina: qué regalar según a quién le toca`,
+    seoTitle: `Regalos de Navidad 2026: Qué Regalar en Argentina`,
+    metaDescription: `Ocho regalos de Navidad reales de MercadoLibre Argentina: para él, para ella, para los chicos y para la casa, con precio y la contra honesta de cada uno.`,
+    ogTitle: `Regalos de Navidad 2026: 8 ideas con precio real`,
+    ogDescription: `De un perfume árabe a la heladera para el asado: ocho regalos ordenados por a quién le regalás, con precios reales de MercadoLibre Argentina.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_831093-MLA99997914339_112025-O.webp`,
+    directAnswer: `En Argentina los regalos de Navidad se abren la noche del 24 de diciembre, después de la medianoche, no la mañana del 25 como en otros países. Para los más chicos hay una segunda entrega el 6 de enero, el Día de Reyes. Si tenés que elegir ya: para él, el perfume **[Lattafa Asad Intense](/producto/lattafa-asad-intense-hombre-edp-100ml-mla19715215)** (alrededor de {{precio:MLA19715215:k}}); para ella, el **[Lattafa Yara Elixir](/producto/lattafa-yara-elixir-edp-100ml-mla60836327)** (alrededor de {{precio:MLA60836327:k}}); y para compartir el 24 a la noche, la **[conservadora Termolar de 20 L](/producto/heladera-conservadora-suv-termolar-suv-58-56805-de-20l-gris-playa-picnic-mla22505559)** (alrededor de {{precio:MLA22505559:k}}).`,
+    publishedDate: "2026-10-29",
+    updatedDate: "2026-10-29",
+    hasDisclosure: true,
+    readingTime: 10,
+    standfirst: `La Navidad en Argentina cae en pleno verano y casi siempre hay que regalarle a más de una persona. Por eso esta guía no va por presupuesto único sino por a quién le toca: para él, para ella, para los más chicos y para la casa. Ocho productos reales de MercadoLibre Argentina, con precio actualizado, reseñas reales y la contra honesta de cada uno.`,
+    quickPicks: [
+      { productMlaId: "MLA19715215", label: "Para él", labelColor: "green", tagline: "Lattafa Asad Intense: el perfume árabe más validado de Argentina" },
+      { productMlaId: "MLA60836327", label: "Para ella", labelColor: "purple", tagline: "Lattafa Yara Elixir: el más viral en TikTok Argentina" },
+      { productMlaId: "MLAU4083097538", label: "Para los más chicos", labelColor: "blue", tagline: "El auto de colección más vendido de MercadoLibre, edición Colapinto" },
+      { productMlaId: "MLA22505559", label: "Para compartir", labelColor: "amber", tagline: "Conservadora Termolar de 20 L: la más vendida de su categoría" },
+    ],
+    intro: [
+      `Esta guía no está ordenada solo por plata, porque en Navidad casi nadie compra un solo regalo: hay que resolver varias personas a la vez, cada una con su propio presupuesto. Por eso los ocho productos están agrupados por a quién va destinado cada uno, y cada uno es el pick número uno ya validado de su propia comparativa en el sitio.`,
+      `Los ocho salen de comparativas ya publicadas en el sitio (perfumes árabes, gaming, cuidado del pelo, juguetes y hogar y jardín), así que ya pasaron por su propio proceso de verificación de precio, stock y reseñas reales. Acá los cruzamos para armar la lista de Navidad, con la misma honestidad: qué falla en cada uno, no solo qué promete la publicación.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_831093-MLA99997914339_112025-O.webp", alt: `Heladera conservadora Termolar, uno de los regalos de esta guía de Navidad` },
+
+      { type: "h2", id: "cuando-se-regala", title: `¿Cuándo se regalan los regalos de Navidad en Argentina?` },
+      { type: "p", content: `La tradición argentina es abrir los regalos la **noche del 24 de diciembre**, después de la medianoche, apenas termina la cena de Nochebuena. Es distinto a Estados Unidos y buena parte de Europa, donde los regalos se abren la mañana del 25: acá el 25 ya es el día de descansar, no el de destapar cajas.` },
+      { type: "p", content: `Para los chicos hay una segunda fecha propia del país: el **6 de enero**, Día de Reyes, cuando Melchor, Gaspar y Baltasar dejan los regalos junto al pasto y el agua que se deja para los camellos la noche anterior. Muchas familias reparten así: algo más grande el 24 con toda la familia, y algo más chico el 6 de enero solo para los chicos.` },
+      { type: "callout", calloutVariant: "tip", content: `La semana previa al 24 de diciembre los envíos de MercadoLibre se saturan, igual que antes del [Día de la Madre](/guias/hogar/dia-de-la-madre-argentina). Comprando antes del 15 de diciembre llegás con margen.` },
+
+      { type: "h2", id: "para-el", title: `Para él` },
+      { type: "p", content: `Los dos productos de este grupo van de {{precio:MLA24102185:k}} a {{precio:MLA19715215:k}}, y los dos tienen una base de reseñas grande: son productos que la gente vuelve a comprar, no apuestas.` },
+
+      { type: "h3", id: "perfume-asad-intense", bigNumber: true, title: `1. Perfume Lattafa Asad Intense` },
+      { type: "product-card", productMlaId: "MLA19715215", label: "El más validado de Argentina", labelColor: "green", ranking: 1, description: `Perfume árabe amaderado y especiado, 100 ml. {{rating:MLA19715215}} de puntaje sobre {{reviews:MLA19715215}} opiniones.` },
+      { type: "p", content: `Es el pick número uno de nuestra comparativa de [perfumes árabes para hombre](/guias/mejores-perfumes-arabes-hombre): amaderado y especiado, con una duración real de 6 a 10 horas según las reseñas, no las 24 horas que promete el marketing árabe en general.` },
+      { type: "p", content: `La contra real: varios compradores lo describen como un perfume "de invierno", pesado para el calor ("en verano matás a alguien", dice más de una reseña), así que en una Navidad a pleno verano conviene usarlo con medida. Además, al ser de los más vendidos, es también de los más falsificados: fijate que la tapa no quede floja, el acabado sea dorado prolijo y el código QR lleve al sitio oficial de Lattafa antes de comprar.` },
+
+      { type: "h3", id: "teclado-redragon", bigNumber: true, title: `2. Teclado mecánico Redragon Dragonborn K630` },
+      { type: "product-card", productMlaId: "MLA24102185", label: "Para el que juega o labura en la compu", labelColor: "blue", ranking: 2, description: `Teclado mecánico 60% con switch red silencioso y luz RGB, en español con ñ. {{rating:MLA24102185}} de puntaje sobre {{reviews:MLA24102185}} opiniones.` },
+      { type: "p", content: `Es el pick de nuestra comparativa de [teclados mecánicos 60%](/guias/gaming/teclado-mecanico-60): formato compacto (sin numpad ni teclas de función separadas), pensado para gaming o escritorio chico. Viene en español con la ñ en su lugar, algo que no es obvio en los importados genéricos y que varias reseñas destacan justamente por eso.` },
+      { type: "p", content: `La contra real: al ser 60%, hay que aprender combinaciones de teclas para funciones que en un teclado completo están a la vista (flechas, F1-F12, numpad). No es para cualquiera, es para quien ya sabe que quiere ese formato compacto.` },
+
+      { type: "h2", id: "para-ella", title: `Para ella` },
+      { type: "p", content: `Los dos productos de este grupo van de {{precio:MLA60836327:k}} a {{precio:MLA44129880:k}}, y comparten algo: son productos de uso repetido, no de una sola vez.` },
+
+      { type: "h3", id: "perfume-yara-elixir", bigNumber: true, title: `3. Perfume Lattafa Yara Elixir` },
+      { type: "product-card", productMlaId: "MLA60836327", label: "El más viral en TikTok Argentina", labelColor: "purple", ranking: 3, description: `Perfume árabe dulce y cítrico, 100 ml. {{rating:MLA60836327}} de puntaje sobre {{reviews:MLA60836327}} opiniones.` },
+      { type: "p", content: `Es el pick de nuestra guía de [perfumes árabes de mujer](/guias/perfumes-arabes-mujer): dulce y cítrico, con una duración de reseñas real de unas 8 horas. Es, con diferencia, el más comentado en redes argentinas de todo el catálogo árabe femenino del sitio.` },
+      { type: "p", content: `La contra real: su propia ficha lo avisa de frente: el dulzor es denso y puede resultar empalagoso en verano caluroso o ambientes cerrados, justo la época en la que se regala. Si el perfil dulce no es lo suyo, la guía completa de perfumes de mujer tiene variantes más frescas.` },
+
+      { type: "h3", id: "planchita-gama", bigNumber: true, title: `4. Planchita GA.MA Italy Bella Tourmaline` },
+      { type: "product-card", productMlaId: "MLA44129880", label: "La más vendida de su categoría", labelColor: "amber", ranking: 4, description: `Planchita de pelo con placas de turmalina e iones, roja y negra. {{rating:MLA44129880}} de puntaje sobre {{reviews:MLA44129880}} opiniones.` },
+      { type: "p", content: `Las placas con turmalina e iones reducen el frizz y protegen más el pelo que una plancha de placas metálicas simples, y es la más vendida de su categoría en MercadoLibre Argentina con una base de reseñas grande.` },
+      { type: "p", content: `La contra real: no tiene regulador de temperatura, trabaja siempre a la misma temperatura alta, así que si la persona tiene pelo fino o dañado es un límite real a tener en cuenta. Tampoco tiene apagado automático.` },
+
+      { type: "h2", id: "para-los-chicos", title: `Para los más chicos` },
+      { type: "p", content: `Con un solo producto no alcanza para cubrir edades tan distintas, así que acá va el pick más fuerte para el chico o adolescente que ya sigue la Fórmula 1 o colecciona autos a escala. Si buscás algo para jugar todos los días o para otra edad, la guía completa de [Día del Niño: qué regalar según la edad](/guias/juguetes/dia-del-nino-argentina) tiene el resto, organizada de bebés a adolescentes.` },
+
+      { type: "h3", id: "auto-bburago-colapinto", bigNumber: true, title: `5. Auto de colección Bburago Alpine A525, edición Colapinto` },
+      { type: "product-card", productMlaId: "MLAU4083097538", label: "El más vendido de toda la categoría", labelColor: "blue", ranking: 5, description: `Auto de colección a escala 1:43, edición limitada Colapinto. {{rating:MLAU4083097538}} de puntaje sobre {{reviews:MLAU4083097538}} opiniones.` },
+      { type: "p", content: `No es un Hot Wheels tradicional: es una miniatura a escala 1:43 de la marca Bburago, edición limitada con el logo de MercadoLibre y la identidad de Franco Colapinto, el piloto argentino de F1. Es, hoy, el auto de colección más vendido de MercadoLibre Argentina.` },
+      { type: "p", content: `La contra real: la propia publicación lo aclara, es una pieza de colección para exhibir, no para jugar en el piso todos los días. Viene un solo auto, y al ser escala 1:43 (más grande que el 1:64 estándar de Hot Wheels) no combina en la misma pista ni en el mismo pack de exhibición. Si buscás algo para que el chico juegue a diario, un pack de Hot Wheels de varias unidades rinde mejor por plata: la guía de [Hot Wheels y autos de colección](/guias/juguetes/hot-wheels-autos-coleccion) tiene el ranking completo.` },
+
+      { type: "h2", id: "para-la-casa", title: `Para la casa y el verano` },
+      { type: "p", content: `Estos tres van para el afuera de la Navidad: la mesa del 24, el pool, el asado del verano. Van de {{precio:MLA1537164525:k}} a {{precio:MLA22505559:k}}.` },
+
+      { type: "h3", id: "conservadora-termolar", bigNumber: true, title: `6. Conservadora Termolar SUV de 20 L` },
+      { type: "product-card", productMlaId: "MLA22505559", label: "La más vendida de su categoría", labelColor: "green", ranking: 6, description: `Heladera conservadora de 20 litros, entran 26 latas o 2 botellas de 2 L paradas. {{rating:MLA22505559}} de puntaje sobre {{reviews:MLA22505559}} opiniones.` },
+      { type: "p", content: `Es la conservadora más vendida de su categoría en MercadoLibre Argentina, con una base de reseñas amplia. Rinde bien para 2 o 3 personas con botellas grandes, sin ser tan grande como para no entrar en el baúl. Si buscás comparar contra otros tamaños y marcas, la guía completa de [conservadoras](/guias/hogar-jardin/conservadora) tiene el resto.` },
+      { type: "p", content: `La contra real: para un asado o una familia de cuatro se queda corta; la propia comparativa de conservadoras recomienda ahí la versión de [32 litros](/producto/heladera-conservadora-termica-termolar-suv-32-litros-gris-color-gris-con-naranja-mla22352427) en su lugar.` },
+
+      { type: "h3", id: "reposera-lbs", bigNumber: true, title: `7. Reposera LBS Gravedad Cero` },
+      { type: "product-card", productMlaId: "MLA1537164525", label: "La más vendida y la más barata", labelColor: "slate", ranking: 7, description: `Reposera plegable de gravedad cero, estructura de acero y plástico, 2,5 kg. {{rating:MLA1537164525}} de puntaje sobre {{reviews:MLA1537164525}} opiniones.` },
+      { type: "p", content: `Es liviana, plegable y la más barata de nuestra comparativa de [reposeras](/guias/hogar-jardin/reposera), un buen regalo individual para alguien que va seguido a la playa, a la pileta o al patio.` },
+      { type: "p", content: `La contra real: la tela se mancha con facilidad y no es para una persona de contextura muy grande, según confirman varias reseñas. Si el destinatario pesa bastante más de lo estándar, conviene mirar otra opción de la guía completa.` },
+
+      { type: "h3", id: "parlante-xiaomi", bigNumber: true, title: `8. Parlante Xiaomi Sound Pocket` },
+      { type: "product-card", productMlaId: "MLA44740757", label: "El más barato para la mesa o la pileta", labelColor: "purple", ranking: 8, description: `Parlante Bluetooth portátil de 5 W. {{rating:MLA44740757}} de puntaje sobre {{reviews:MLA44740757}} opiniones.` },
+      { type: "p", content: `Chico, portátil y el más barato de esta guía. Sirve para la playlist de la sobremesa del 24 o al lado de la pileta, sin pretender reemplazar un equipo de audio de verdad.` },
+      { type: "p", content: `La contra real: 5 W es potencia de mesa o patio chico, no de fiesta con mucha gente afuera. Para un evento grande se va a quedar corto de volumen.` },
+
+      { type: "h2", id: "tabla", title: `Los 8 regalos comparados` },
+      { type: "table", headers: [`Regalo`, `Precio`, `Puntaje`, `Opiniones`, `Para quién`], rows: [
+        [`[Perfume Lattafa Asad Intense](https://meli.la/26owfqo)`, `{{precio:MLA19715215}}`, `{{rating:MLA19715215}}`, `{{reviews:MLA19715215}}`, `Para él`],
+        [`[Teclado Redragon Dragonborn K630](https://meli.la/1LiskGG)`, `{{precio:MLA24102185}}`, `{{rating:MLA24102185}}`, `{{reviews:MLA24102185}}`, `Para él, gamer`],
+        [`[Perfume Lattafa Yara Elixir](https://meli.la/2NrY6fF)`, `{{precio:MLA60836327}}`, `{{rating:MLA60836327}}`, `{{reviews:MLA60836327}}`, `Para ella`],
+        [`[Planchita GA.MA Italy Bella](https://meli.la/27kZKkr)`, `{{precio:MLA44129880}}`, `{{rating:MLA44129880}}`, `{{reviews:MLA44129880}}`, `Para ella`],
+        [`[Auto Bburago edición Colapinto](https://meli.la/2oXxA6Z)`, `{{precio:MLAU4083097538}}`, `{{rating:MLAU4083097538}}`, `{{reviews:MLAU4083097538}}`, `Para los chicos`],
+        [`[Conservadora Termolar 20 L](https://meli.la/1bgL6a3)`, `{{precio:MLA22505559}}`, `{{rating:MLA22505559}}`, `{{reviews:MLA22505559}}`, `Para compartir`],
+        [`[Reposera LBS Gravedad Cero](https://meli.la/28Vhjh4)`, `{{precio:MLA1537164525}}`, `{{rating:MLA1537164525}}`, `{{reviews:MLA1537164525}}`, `Para la casa, individual`],
+        [`[Parlante Xiaomi Sound Pocket](https://meli.la/2aD2P7V)`, `{{precio:MLA44740757}}`, `{{rating:MLA44740757}}`, `{{reviews:MLA44740757}}`, `Para compartir`],
+      ]},
+
+      { type: "h2", id: "como-elegir", title: `Cómo elegir sin equivocarte` },
+      { type: "list", boxed: true, items: [
+        `**Separá el regalo grupal del individual.** La conservadora y el parlante son para compartir en la mesa o el asado; la reposera es de uso individual. Ninguno de los tres reemplaza el regalo personal de cada uno, son categorías distintas de gasto.`,
+        `**Comprá antes del 15 de diciembre.** La semana previa al 24 los envíos se saturan, igual que antes de cualquier fecha especial.`,
+        `**Chequeá el perfil antes de regalar perfume árabe.** Son perfiles intensos (amaderado, dulce, especiado); si no conocés bien el gusto de la persona, mejor un perfil versátil que uno de nicho.`,
+        `**Guardá el comprobante.** Con electrónica y electrodomésticos, el cambio por falla depende de tenerlo.`,
+      ]},
+
+      { type: "verdict", content: `Si tenés que resolver varios regalos con un solo presupuesto ordenado, arrancá por los perfumes: el [Lattafa Asad Intense](/producto/lattafa-asad-intense-hombre-edp-100ml-mla19715215) para él y el [Lattafa Yara Elixir](/producto/lattafa-yara-elixir-edp-100ml-mla60836327) para ella son los picks mejor validados de sus respectivas comparativas. Para la mesa del 24, la [conservadora Termolar](/producto/heladera-conservadora-suv-termolar-suv-58-56805-de-20l-gris-playa-picnic-mla22505559) es la que más se usa después de esa noche. Y si en la familia hay un fanático de la Fórmula 1 o alguien que colecciona autos a escala, el [auto Bburago edición Colapinto](/producto/auto-f1-coleccionable-1-43-bburago-edicion-limitada-colapinto-alpine-a525-mlau4083097538) es el más vendido de MercadoLibre Argentina hoy.` },
+    ],
+    faq: [
+      { question: `¿Cuándo se abren los regalos de Navidad en Argentina?`, answer: `La noche del 24 de diciembre, después de la medianoche, apenas termina la cena de Nochebuena. Es distinto a Estados Unidos y buena parte de Europa, donde se abren la mañana del 25.` },
+      { question: `¿Qué es el Día de Reyes y cuándo es?`, answer: `Es el 6 de enero, cuando en la tradición argentina Melchor, Gaspar y Baltasar dejan un segundo regalo para los chicos. Muchas familias reparten así: algo más grande el 24 con toda la familia, y algo más chico para los chicos el 6 de enero.` },
+      { question: `¿Hasta cuándo puedo comprar para que llegue a tiempo?`, answer: `Conviene cerrar la compra antes del 15 de diciembre. La semana previa al 24 los envíos de MercadoLibre se saturan y los plazos que muestra la publicación dejan de cumplirse con la misma prolijidad.` },
+      { question: `¿Cuánto conviene gastar en un regalo de Navidad?`, answer: `No hay un número correcto: depende de si es un regalo individual o algo para compartir en la mesa. Los productos de esta guía van desde {{precio:MLA1537164525:k}} (la reposera, la más barata) hasta {{precio:MLA44129880:k}} (la planchita GA.MA, la más cara).` },
+      { question: `¿Qué regalos de esta guía sirven para el aire libre en Navidad?`, answer: `La [conservadora Termolar](/producto/heladera-conservadora-suv-termolar-suv-58-56805-de-20l-gris-playa-picnic-mla22505559) y el [parlante Xiaomi](/producto/parlante-xiaomi-sound-pocket-5w-color-negro-mla44740757) son para compartir en el asado o la mesa del 24. La [reposera LBS](/producto/reposera-silla-camping-playa-tela-premium-reforzada-gravedad-cero-mla1537164525) es de uso individual, pero pensada para el mismo escenario: el pool o el patio del verano.` },
+      { question: `¿Y si busco algo para un chico de una edad puntual?`, answer: `La guía de [Día del Niño: qué regalar según la edad](/guias/juguetes/dia-del-nino-argentina) tiene el ranking completo organizado por franja etaria, de bebés a adolescentes.` },
+    ],
+    internalLinks: [
+      { label: "Día del Niño: qué regalar según la edad", href: "/guias/juguetes/dia-del-nino-argentina" },
+      { label: "Día de la Madre: regalos que se usan", href: "/guias/hogar/dia-de-la-madre-argentina" },
+      { label: "Mejores perfumes árabes de hombre", href: "/guias/mejores-perfumes-arabes-hombre" },
+      { label: "Perfumes árabes de mujer: cuál comprar", href: "/guias/perfumes-arabes-mujer" },
+      { label: "Conservadora: cuál comprar en Argentina", href: "/guias/hogar-jardin/conservadora" },
+      { label: "Reposera: cuál comprar en Argentina", href: "/guias/hogar-jardin/reposera" },
+    ],
+    internalLinksTitle: "Seguí leyendo",
   },
 
   // SATÉLITE proyector-astronauta (silo juguetes)
@@ -28555,6 +28711,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { label: "Pileta Pelopincho: cuál comprar en Argentina", href: "/guias/hogar-jardin/pileta-pelopincho" },
       { label: "Sombrilla de playa: cuál comprar en Argentina", href: "/guias/hogar-jardin/sombrilla-de-playa" },
       { label: "Conservadora: cuál comprar en Argentina", href: "/guias/hogar-jardin/conservadora" },
+      { label: "Regalos de Navidad: qué regalar según a quién", href: "/guias/hogar/regalos-de-navidad-argentina" },
     ],
     internalLinksTitle: "Más de hogar y jardín",
   },
@@ -28690,6 +28847,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { label: `Sombrilla de playa: cuál comprar`, href: `/guias/hogar-jardin/sombrilla-de-playa` },
       { label: `Colchón inflable 2 plazas: cuál comprar`, href: `/guias/hogar-jardin/colchon-inflable-2-plazas` },
       { label: `Reposera: cuál comprar en Argentina`, href: `/guias/hogar-jardin/reposera` },
+      { label: `Regalos de Navidad: qué regalar según a quién`, href: `/guias/hogar/regalos-de-navidad-argentina` },
       { label: `Ver toda la categoría Hogar y Jardín`, href: `/categoria/hogar-jardin` },
     ],
     internalLinksTitle: "Más de hogar y jardín",

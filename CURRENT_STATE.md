@@ -1,7 +1,29 @@
 # Estado actual
 
 > Snapshot del proyecto. Se actualiza al final de cada sesión.
-> Última actualización: 2026-09-28 — Guía nueva "Mopa: cuál comprar" (silo hogar-jardin, 4 fichas nuevas, sourcing en vivo), cuarta guía de la misma sesión tras escurridor-de-platos, puff y cómoda. Antes en la misma sesión: diagnóstico y fix del gasto de Vercel (deploys del bot de Threads regenerando el sitio entero) y checklist SEO semanal con 2 hallazgos de stock. Ver detalle abajo.
+> Última actualización: 2026-09-29 — Guía nueva "Regalos de Navidad 2026" (categoría fechas-especiales, silo hogar, cero sourcing nuevo: 8 picks ya validados de 7 guías existentes), doble GO del trío auditor tras 7 rondas totales (5 Codex + 2 Gemini). Research previo descartó "regalos para hombre/mujer/originales" como guías separadas (SERP contestado por medios grandes al profundizar con WebSearch) y "Ray-Ban Meta" (sin categoría limpia en ML, mezclado con accesorios e imitadores). Ver detalle abajo.
+
+## Sesión 2026-09-29 — Guía nueva: Regalos de Navidad 2026
+
+### LO QUE SE HIZO
+
+Exploración de contenido de fin de año a pedido de Juan (regalos de Navidad/Black Friday/regalos para chicos, más la pregunta puntual de si vale una guía de Ray-Ban Meta). Validación en 2 pasos: (1) Keyword Planner AR para 5 keywords de regalo + WebSearch superficial, que inicialmente pareció dar SERP limpio para "regalos de navidad" y "regalos para hombre"; (2) Ray-Ban Meta se descartó al buscar "rayban meta original" en ML (262 resultados, todos Ray-Ban de sol comunes, sin categoría propia para los anteojos inteligentes) — mezclado con accesorios baratos e imitadores en la búsqueda genérica, sin volumen ni estructura de catálogo para una comparativa real.
+
+Al profundizar con un segundo WebSearch (excluyendo mercadolibre.com.ar) se encontraron competidores editoriales reales en los 4 términos genéricos de regalo (La Nación, Ámbito, El Destape, elgadget.com.ar, dicarolo.com, caso-cerrado.com) — el research inicial había sido superficial. Se corrigió la recomendación a Juan en el momento: en vez de 3-4 guías finitas por audiencia peleando cada una su propio SERP contestado, se concentró todo en **una sola guía fuerte** ("regalos-de-navidad-argentina") segmentada por destinatario (para él / para ella / para los más chicos / para la casa y el verano), usando la fecha (Nochebuena 24/12 vs. Reyes Magos 6/1) como gancho de apertura, mismo patrón que ya usa `dia-de-la-madre-argentina`.
+
+**Cero sourcing nuevo.** Los 8 productos son los picks "mejor calificado/más vendido" ya publicados de 7 guías existentes: Lattafa Asad Intense y Yara Elixir (perfumes árabes hombre/mujer), teclado Redragon K630 (gaming), planchita GA.MA (cuidado personal), auto Bburago edición Colapinto (juguetes/coleccionables), conservadora Termolar y reposera LBS (hogar-jardín), parlante Xiaomi (audio). Enlazado recíproco agregado en las 6 guías de origen más `dia-de-la-madre-argentina` y `dia-del-nino-argentina`.
+
+### VERIFICACIÓN
+
+`npx tsc --noEmit`, `npm run build`, y los 6 scripts de check relevantes en verde. **Trío auditor: 7 rondas totales hasta doble GO, el ciclo más largo de la sesión.** Gemini/agy falló primero por permisos en modo headless; Juan autorizó `--dangerously-skip-permissions` puntualmente y corrió sin problema (`git status`/`git diff` revisado antes y después de sus 2 pasadas: cero ediciones no autorizadas). Con Codex, 5 rondas: ronda 1 (4 bloqueantes) — superlativo de orden falso en la intro, dos rangos de precio rotos por precios en vivo (mismo patrón "superlativo se rompe al sumar un producto" ya documentado), 4 contras inventadas sin respaldo (reemplazadas por las reales del campo `cons` de cada ficha), y la conservadora presentada sin el límite de capacidad que su propia guía de origen declara. Ronda 2 (2 bloqueantes nuevos): el auto Bburago vendido como "para los chicos" genérico cuando su ficha aclara que es pieza de colección, no para jugar a diario; la reposera (silla individual) agrupada como regalo "para compartir". Rondas 3 y 4: el fix de encuadre de la reposera quedó incompleto dos veces más (tabla y lista "cómo elegir" en ronda 3, el párrafo propio del producto en ronda 4). Ronda 5: GO limpio. Con Gemini, 2 rondas: encontró el mismo problema de encuadre de la reposera pero en un lugar que Codex no había revisado (metaDescription/standfirst seguían prometiendo "para compartir" para las 4 secciones), más 3 mejoras opcionales (link in-text a Día de la Madre, id de H2 corregido, link interno nuevo del teclado a su guía de origen). Ronda 2: GO limpio. Lección reforzada: un fix de encuadre en una guía de 8 productos hay que grepearlo contra CADA sección (tabla, FAQ, párrafo propio, metadata de apertura, lista de consejos, verdict) — ni siquiera dos auditores independientes lo agarraron todo en la primera pasada cada uno. Detalle completo en `docs/seo-tracking-optimizaciones.md`.
+
+### LO QUE QUEDA ABIERTO
+
+- **STAGED, no publicada todavía.** Juan pidió commitear pero no publicar: `publishedDate`/`updatedDate` quedaron en `2026-10-29` (patrón ya usado en el sitio: ~8 semanas antes de la fecha, mismo criterio que Día de la Madre), no en la fecha real de hoy. Publicar = adelantar esa fecha a hoy cuando Juan lo pida; antes de hacerlo, grepear el bloque completo de la guía por si quedó alguna otra fecha vieja (ver memoria `staged-fecha-flip-revert-checklist`).
+- Ray-Ban Meta: descartado como guía, no hay pendiente de seguimiento.
+- Del research de regalos: "regalos originales" (1.000/mes) y "regalos para mujer" como guía separada quedaron descartados (catálogo angosto en belleza, SERP contestado); no reabrir sin un cambio real en esas condiciones.
+
+---
 
 ## Sesión 2026-09-28 (continuación 4) — Guía nueva: Mopa
 
