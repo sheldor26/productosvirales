@@ -7,6 +7,12 @@
 > 🔴 = se quedo sin stock (el link de afiliado apunta a una pagina pausada).
 > Entradas nuevas arriba.
 
+## 2026-09-30
+
+- 🟢 VOLVIO EL STOCK — **MLA37650751** Cafetera de filtro Atma CA8131 blanca 1,25 L
+  - ML: https://articulo.mercadolibre.com.ar/MLA-3091753002
+  - Sitio: https://productosvirales.com.ar/producto/MLA37650751
+
 ## 2026-09-25
 
 - 🟢 VOLVIO EL STOCK — **MLA29364436** Cámara Deportiva DJI Osmo Action 4
