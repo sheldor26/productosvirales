@@ -8,6 +8,34 @@
 > Entradas nuevas arriba.
 
 
+## 2026-09-30
+
+- **racing - boca juniors** — 1 M+ búsquedas (+1.000%, anteayer)
+- **tiempo de mañana** — 1 M+ búsquedas (+75%, anteayer)
+- **clima** — 500 mil+ búsquedas (+50%, ayer)
+- **28º aniversario de google** — 200 mil+ búsquedas (+1.000%, 3 d)
+- **estudiantes - rosario central** — 200 mil+ búsquedas (+1.000%, 3 d)
+- **anses** — 100 mil+ búsquedas (+200%, 24 h)
+- **españa - croacia** — 100 mil+ búsquedas (+1.000%, 24 h)
+- **inglaterra - españa** — 100 mil+ búsquedas (+1.000%, 4 d)
+- **bélgica - francia** — 50 mil+ búsquedas (+1.000%, anteayer)
+- **australia - brasil** — 50 mil+ búsquedas (+1.000%, ayer)
+- **columbus crew - inter miami** — 50 mil+ búsquedas (+1.000%, anteayer)
+- **walter samuel** — 20 mil+ búsquedas (+1.000%, 5 h)
+- **argentina vs** — 20 mil+ búsquedas (+300%, 19 h)
+- **maxi ghione** — 20 mil+ búsquedas (+1.000%, 19 h)
+- **argentina** — 20 mil+ búsquedas (+200%, 19 h)
+- **méxico - perú** — 20 mil+ búsquedas (+1.000%, 17 h)
+- **jimena barón** — 20 mil+ búsquedas (+1.000%, ayer)
+- **evento de el niño de 2026 2027** — 20 mil+ búsquedas (+1.000%, 23 h)
+- **george russell** — 20 mil+ búsquedas (+1.000%, anteayer)
+- **pagotto** — 20 mil+ búsquedas (+1.000%, ayer)
+- **estados unidos - chile** — 10 mil+ búsquedas (+1.000%, 18 h)
+- **muerte** — 10 mil+ búsquedas (+1.000%, 24 h)
+- **eritrea - sudáfrica** — 2 mil+ búsquedas (+1.000%, 2 h)
+- **decreto** — 1 mil+ búsquedas (+1.000%, 10 min)
+- **rodolfo arruabarrena** — 1 mil+ búsquedas (+1.000%, 50 min)
+
 ## 2026-09-16
 
 - **são paulo - boca juniors** — 1 M+ búsquedas (+1.000%, 18 h)
