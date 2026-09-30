@@ -4739,4 +4739,34 @@ export const socialPosts: SocialPost[] = [
     offPct: "10",
     postedAt: "2026-09-29T19:33:37-03:00",
   },
+  {
+    title: "Cámara Web Gadnic FHD 1080P Micrófono 30 FPS",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_983205-MLA112333806403_052026-O.webp",
+    affiliateUrl: "https://meli.la/1Lp2FEJ",
+    newPrice: "18.999",
+    oldPrice: "49.599",
+    offPct: "61",
+    postedAt: "2026-09-30T08:32:35-03:00",
+  },
+  {
+    title: "Power Bank Cargador Portátil 20.000mAh Mixio",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_836588-MLA116713490502_092026-O.webp",
+    affiliateUrl: "https://meli.la/1D9DHbF",
+    newPrice: "23.000",
+    oldPrice: "49.999",
+    offPct: "53",
+    postedAt: "2026-09-30T09:00:26-03:00",
+  },
+  {
+    title: "Mouse Inalámbrico Logitech M280",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_601859-MLA100188226311_122025-O.webp",
+    affiliateUrl: "https://meli.la/2nu538p",
+    newPrice: "25.856",
+    oldPrice: "55.252",
+    offPct: "53",
+    postedAt: "2026-09-30T09:28:11-03:00",
+  },
 ];

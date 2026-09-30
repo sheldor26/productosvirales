@@ -97,3 +97,13 @@ Sourcing hecho ~11:27hs (Sillas Comedor Ambi O, Pava Unnic, Aspiradora Suono Hom
 | Sillas Comedor Tapizadas Pack X2 Premium Base Hierro | $263.999 (20% OFF, Tienda oficial Ambi O) | meli.la/2pVst3c |
 | Pava Eléctrica Unnic Digital Táctil Acero 1.7L | $62.699 (9% OFF, OFERTA RELÁMPAGO, ÚLTIMAS 3) | meli.la/2EfWEky |
 | Aspiradora Limpia Manchas Tapizados Suono Home Studio | $120.317 (39% OFF, MÁS VENDIDO) | meli.la/2dTqKNZ |
+
+### 2026-09-30 08:15 — Mañana
+
+Primera tanda del día (miércoles). La tanda de la noche del 29/9 (~20:10, Bicicleta Spinning, Plancha Daewoo, Cafetera Peabody) quedó sourceada pero nunca publicada por un corte de sesión — se descartó por completo en vez de reintentarla (más de 12hs sin re-verificar precio/stock) y se sourceó todo de cero. Se descartó un candidato "Hidrolavadora MTL" por ser dupe exacto del post de Threads del día anterior. En la Mochila Bullpadel se priorizó a propósito el precio limpio de $177.641 (15% OFF, sin cupón) por sobre la opción "Mejor precio" de $153.000 (23% OFF) que dependía de un cupón sin verificar en el carrito. Sin repetir nada de las tandas anteriores ni de Threads (últimas 48hs). Links generados con el linkbuilder de afiliados, etiqueta "instagram".
+
+| Producto | Precio | Link |
+|---|---|---|
+| Mochila Bullpadel Paletera Padel Hack Premier | $177.641 (15% OFF, Tienda oficial Bullpadel, última unidad) | meli.la/23j13jL |
+| Mopa Trapeador Spray Giratoria 360 LV-S02 | $20.999 (16% OFF, MÁS VENDIDO) | meli.la/2xuthWr |
+| Termo Media Manija 1L Acero Pico Cebador | $31.610 (15% OFF, Tienda oficial TENGODETODO) | meli.la/2GKpoNi |
