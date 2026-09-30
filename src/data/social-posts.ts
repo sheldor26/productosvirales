@@ -4769,4 +4769,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "53",
     postedAt: "2026-09-30T09:28:11-03:00",
   },
+  {
+    title: "Roku Streaming Stick 3840br 2025",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_655745-MLA99925314687_112025-O.webp",
+    affiliateUrl: "https://meli.la/11NXvf3",
+    newPrice: "77.000",
+    oldPrice: "91.100",
+    offPct: "15",
+    postedAt: "2026-09-30T11:15:00-03:00",
+  },
 ];
