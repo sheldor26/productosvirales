@@ -107,3 +107,13 @@ Primera tanda del día (miércoles). La tanda de la noche del 29/9 (~20:10, Bici
 | Mochila Bullpadel Paletera Padel Hack Premier | $177.641 (15% OFF, Tienda oficial Bullpadel, última unidad) | meli.la/23j13jL |
 | Mopa Trapeador Spray Giratoria 360 LV-S02 | $20.999 (16% OFF, MÁS VENDIDO) | meli.la/2xuthWr |
 | Termo Media Manija 1L Acero Pico Cebador | $31.610 (15% OFF, Tienda oficial TENGODETODO) | meli.la/2GKpoNi |
+
+### 2026-09-30 11:50 — Mediodía (horario fijo)
+
+Segunda tanda del día, horario en punto. Sourcing propio vía /mas-vendidos, variando categoría (cocina, tech, auto/limpieza) — sin repetir nada de la tanda de la mañana de WhatsApp ni de los 4 posts de Threads del día (Cámara Web Gadnic, Power Bank Mixio, Mouse Logitech M280, Roku Streaming Stick). Los 3 verificados en vivo antes de publicar. Links generados con el linkbuilder de afiliados, etiqueta "instagram".
+
+| Producto | Precio | Link |
+|---|---|---|
+| Pava Eléctrica Hervidora Acero Inoxidable 1.8L Codini | $16.999 (62% OFF, MÁS VENDIDO, Tienda oficial Codini) | meli.la/258EWHe |
+| Extensor de Rango WiFi TP-Link TL-WA850RE | $36.399 (31% OFF, MÁS VENDIDO 1° en Routers) | meli.la/2CjK1yM |
+| Aspiradora Sopladora 3 en 1 Voltra Black Edition | $158.700 (47% OFF, MÁS VENDIDO, Tienda oficial Voltra) | meli.la/1gQrNeY |
