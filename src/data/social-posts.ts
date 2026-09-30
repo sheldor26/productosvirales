@@ -4779,4 +4779,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "15",
     postedAt: "2026-09-30T11:15:00-03:00",
   },
+  {
+    title: "Yogurtera Digital Ultracomb YG-2712V 12 Frascos",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_970444-MLA111727513058_062026-O.webp",
+    affiliateUrl: "https://meli.la/2Fu8LK2",
+    newPrice: "62.600",
+    oldPrice: "116.619",
+    offPct: "46",
+    postedAt: "2026-09-30T12:02:00-03:00",
+  },
 ];
