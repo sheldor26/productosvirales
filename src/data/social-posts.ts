@@ -4789,4 +4789,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "46",
     postedAt: "2026-09-30T12:02:00-03:00",
   },
+  {
+    title: "Joystick DualSense PS5 Gray Camouflage",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_845127-MLA110352998993_042026-O.webp",
+    affiliateUrl: "https://meli.la/2JHM1aj",
+    newPrice: "205.000",
+    oldPrice: "205.000",
+    offPct: "0",
+    postedAt: "2026-10-01T08:28:00-03:00",
+  },
 ];
