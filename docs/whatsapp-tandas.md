@@ -117,3 +117,13 @@ Segunda tanda del día, horario en punto. Sourcing propio vía /mas-vendidos, va
 | Pava Eléctrica Hervidora Acero Inoxidable 1.8L Codini | $16.999 (62% OFF, MÁS VENDIDO, Tienda oficial Codini) | meli.la/258EWHe |
 | Extensor de Rango WiFi TP-Link TL-WA850RE | $36.399 (31% OFF, MÁS VENDIDO 1° en Routers) | meli.la/2CjK1yM |
 | Aspiradora Sopladora 3 en 1 Voltra Black Edition | $158.700 (47% OFF, MÁS VENDIDO, Tienda oficial Voltra) | meli.la/1gQrNeY |
+
+### 2026-10-01 08:20 — Mañana (horario fijo)
+
+Primera tanda del día (jueves). Sourcing propio vía /mas-vendidos, variando categoría (cocina, auto, moto/ciclismo) — sin repetir nada de las tandas anteriores ni de Threads (últimas 48hs). Se descartó primero la Lámpara Smart Multicolor Alexa por mostrar solo 9% OFF real en la ficha propia (el listado de /mas-vendidos mostraba 34% OFF desactualizado). Los 3 verificados en vivo antes de publicar. Links generados con el linkbuilder de afiliados, etiqueta "instagram".
+
+| Producto | Precio | Link |
+|---|---|---|
+| Cafetera Moulinex Dolce Gusto Piccolo | $188.044 (47% OFF, OFERTA IMPERDIBLE, Tienda oficial TECHCEL) | meli.la/2CvQMKA |
+| Compresor de Aire Portátil Gadnic 50W | $57.999 (49% OFF, MÁS VENDIDO, Tienda oficial Bidcom) | meli.la/2qyPfCx |
+| Guantes Térmicos Gadnic Touchscreen Moto/Ciclismo | $15.599 (40% OFF, MÁS VENDIDO, talles M/L/XL) | meli.la/1TSYe1y |
