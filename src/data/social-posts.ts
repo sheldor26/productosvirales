@@ -4799,4 +4799,14 @@ export const socialPosts: SocialPost[] = [
     offPct: "0",
     postedAt: "2026-10-01T08:28:00-03:00",
   },
+  {
+    title: "Smartphone Moto G17 Evening Blue 128GB",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_638602-MLA106598723027_022026-O.webp",
+    affiliateUrl: "https://meli.la/1GFfX7s",
+    newPrice: "338.209",
+    oldPrice: "429.057",
+    offPct: "21",
+    postedAt: "2026-10-01T08:58:00-03:00",
+  },
 ];
