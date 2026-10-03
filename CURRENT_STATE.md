@@ -1,7 +1,29 @@
 # Estado actual
 
 > Snapshot del proyecto. Se actualiza al final de cada sesión.
-> Última actualización: 2026-09-29 — Guía nueva "Regalos de Navidad 2026" (categoría fechas-especiales, silo hogar, cero sourcing nuevo: 8 picks ya validados de 7 guías existentes), doble GO del trío auditor tras 7 rondas totales (5 Codex + 2 Gemini). Research previo descartó "regalos para hombre/mujer/originales" como guías separadas (SERP contestado por medios grandes al profundizar con WebSearch) y "Ray-Ban Meta" (sin categoría limpia en ML, mezclado con accesorios e imitadores). Ver detalle abajo.
+> Última actualización: 2026-10-01 — Guía nueva "Fogonero" (silo hogar-jardin, categoría fogoneros, 4 fichas nuevas, sourcing en vivo), publicada el mismo día (no STAGED). Doble GO del trío auditor tras 5 rondas (4 Codex + 1 Gemini). Antes en la misma sesión: se descartaron 4 candidatos del backlog por SERP contestado (bajo mesada, alacena, perchero de pared, cava de vino) y se retomó el trabajo de equipar listas de afiliados de Mercado Libre (parcial, ver detalle abajo). Ver detalle abajo.
+
+## Sesión 2026-10-01 — Guía nueva: Fogonero
+
+### LO QUE SE HIZO
+
+Retomando la estrategia de contenido a pedido de Juan ("seguí con la estrategia"). Se verificó el backlog de candidatos sin SERP confirmado de `docs/keywords-verificadas-2026-08-15.md`, en orden de volumen: `bajo mesada` (12.100/mes) y `alacena` (9.900/mes) se descartaron por tener comparadores dedicados reales (madesa.ar + cualdura.com; yoelijoelprecio.com + alacenas.top). `perchero de pared` (6.600/mes) y `cava de vino` (6.600/mes) también se descartaron por el mismo motivo. **`fogonero`** (9.900/mes) fue el único candidato con SERP limpio (solo un blog D2C de una herrería, mismo patrón ya aceptado en puff/mopa/cómoda).
+
+Sourcing nuevo en vivo (4 fichas, categoría real "Fogoneros" de ML con dos subcategorías genuinas — Decorativos y Braseros): **Vitdeco de cemento a bioetanol** (el más barato, puramente decorativo), **Kuttura brasero de hierro** (MÁS VENDIDO, 1° en Braseros, hierro calibre 8 según una reseña real), **Vivenza fogón bajo de 55 cm** (el único grande, con la contra honesta de que la pintura es estética y no de alta temperatura — confirmado por el vendedor y por una reseña real de forma independiente) y **Qunuy Lanin** (el único con parrilla y soporte para disco incluidos, el más caro y pesado). **Decisión editorial clave:** la guía NO siguió la taxonomía de ML (que clasifica al Vivenza como "Decorativo" pese a admitir leña/carbón) — se agrupó por uso real en vez de por categoría de ML. Se sumó al silo hogar-jardin existente, con enlazado recíproco nuevo en pileta-pelopincho, sombrilla-de-playa, conservadora y reposera.
+
+**Publicada hoy, no STAGED** (a diferencia de la guía de Navidad de la sesión anterior): no hay motivo estacional para retrasarla.
+
+Además, se retomó (a pedido de Juan) el trabajo de equipar las listas de afiliados de Mercado Libre (`myaccount.mercadolibre.com.ar/bookmarks`) con productos del catálogo del sitio. Resultado parcial: Duchas Eléctricas y Bombillas quedaron completadas (4 y 3 productos respectivamente); Freidoras de Aire, Termómetros Digitales y Microondas quedaron sin poder completarse por una falla real e intermitente de la interfaz de Mercado Libre (el modal "Agregar a lista" a veces se cierra con apariencia normal sin que el producto se agregue de verdad, sin mensaje de error — confirmado releyendo el conteo real de cada lista después de cada intento). Se le pasaron a Juan los links de los productos pendientes para que los termine él mismo si quiere.
+
+### VERIFICACIÓN
+
+`npx tsc --noEmit`, `npm run build`, y los 6 scripts de check relevantes en verde de punta a punta. **Trío auditor: 5 rondas totales hasta doble GO.** Con Codex, 4 rondas: ronda 1 (3 bloqueantes) — "Kuttura el más vendido y mejor calificado" sin acotar un empate real de 4.9★ con el Qunuy Lanin; un superlativo de "mayor calidad constructiva declarada" sin evidencia en el FAQ de Qunuy; un consejo de curado con aceite/grasa sobregeneralizado a los 3 braseros cuando solo el Qunuy tiene respaldo real. Ronda 2 (3 bloqueantes nuevos): la frase "el único fogonero grande y de piso" del Vivenza era falsa (los otros dos braseros también son de piso) y persistía en 7 lugares de su ficha pese a ya corregida en la guía; un claim de "tienda oficial" sin evidencia para Vivenza; dos menciones de "apto para interior/en el living" del Vitdeco sin respaldo. Rondas 3 y 4: dos residuos mínimos del mismo patrón sobrevivieron en el directAnswer de la guía y el articleBody de Vitdeco. Ronda 4: GO limpio. Con Gemini (autorizado `--dangerously-skip-permissions` puntualmente, `git diff` revisado antes y después: cero ediciones no autorizadas): GO directo en la primera pasada, validando la decisión editorial del Vivenza como "un acierto rotundo". Detalle completo en `docs/seo-tracking-optimizaciones.md`.
+
+### LO QUE QUEDA ABIERTO
+
+- Listas de afiliados de ML sin completar: Freidoras de Aire (falta sumar 3 productos), Termómetros Digitales (falta 1), Microondas (faltan 4) — bloqueadas por la falla intermitente del modal de ML, no por falta de datos. Los links ya están identificados (ver mensaje a Juan en la sesión).
+- Del backlog original: `cartuchera` (14.800/mes, estacional, esperar a feb-mar 2027), `brasero` standalone (5.400/mes, posible canibalización con la nueva guía `fogonero` — no verificar como guía aparte), `tabla de planchar` (3.600/mes) y `secador de piso` (2.900/mes) siguen sin verificar SERP. `chifonier` sigue descartado por canibalización con `cómoda`.
+- Sin commitear todavía: diff mostrado a Juan, pendiente de aprobación explícita antes de pushear.
 
 ## Sesión 2026-09-29 — Guía nueva: Regalos de Navidad 2026
 

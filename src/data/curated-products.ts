@@ -81355,6 +81355,390 @@ La única opción con formato de cama de esta comparativa, ideal para tomar sol 
     },
   },
 
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva fogonero — silo hogar-jardin (existente). Origen: research
+  // de backlog 2026-10-01, "fogonero" 9.900/mes en Keyword Planner, SERP sin
+  // comparador neutral (solo un blog de una herrería D2C, mismo patrón ya
+  // aceptado en puff/mopa/cómoda). Categoría real de ML tiene dos sub-intenciones
+  // genuinas: Decorativos (bioetanol, ambiente) y Braseros (leña/carbón, asado) —
+  // la guía se organiza por esa distinción. Sourcing en vivo 2026-10-01
+  // (Chrome de Juan, ML bloquea el navegador interno).
+  // ─────────────────────────────────────────────────────────
+  {
+    id: "MLA1106653702",
+    title: "Fogonero De Cemento Quemador Bioetanol Piedras De Marmol",
+    canonicalName: "Vitdeco Fogonero de Cemento (bioetanol)",
+    brand: "Vitdeco",
+    price: 18999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_657627-MLA99368296087_112025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_657627-MLA99368296087_112025-O.webp",
+    ],
+    category: "Hogar, Muebles y Jardín",
+    categorySlug: "hogar-jardin",
+    permalink: "https://articulo.mercadolibre.com.ar/MLA-1106653702-fogonero-de-cemento-quemador-bioetanol-piedras-de-marmol-_JM",
+    affiliateUrl: "https://meli.la/21y9nEz",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 364,
+    pastelColor: "var(--pastel-amber)",
+    specs: [
+      { label: "Marca", value: "Vitdeco" },
+      { label: "Material", value: "Cemento" },
+      { label: "Combustible", value: "Bioetanol" },
+      { label: "Incluye", value: "Piedras de mármol decorativas" },
+      { label: "Uso", value: "Mesa, decorativo" },
+      { label: "Condición", value: "Nuevo" },
+      { label: "Vendedor", value: "Tienda oficial Vitdeco, +1000 ventas" },
+    ],
+    relatedProducts: ["MLAU222441820", "MLAU189347906", "MLAU185145351"],
+    priceUpdated: "2026-10-01", priceLastChecked: "2026-10-01", priceStatus: "fresh", reviewsSampledAt: "2026-10-01",
+    description: "Fogonero de cemento Vitdeco con quemador a bioetanol y piedras de mármol. El más barato de esta comparativa, pensado para mesa: {{reviews:MLA1106653702}} opiniones a {{rating:MLA1106653702}} estrellas.",
+    seoTitle: "Vitdeco: el fogonero decorativo más barato de esta comparativa",
+    metaDescription: "Fogonero de cemento Vitdeco con bioetanol y piedras de mármol, el más barato de esta comparativa. {{reviews:MLA1106653702}} opiniones a {{rating:MLA1106653702}} estrellas.",
+    verdict: "Es el fogonero más barato de esta comparativa, a {{precio:MLA1106653702}}, y el único pensado para mesa: un cuenco de cemento con piedras de mármol y un quemador a bioetanol que dura aproximadamente una hora encendido, según una reseña real. {{reviews:MLA1106653702}} calificaciones reales a {{rating:MLA1106653702}} estrellas, vendido por la tienda oficial de la marca con más de 1.000 ventas. La contra real: es puramente decorativo, no sirve para cocinar ni genera el calor de un fogón de leña o carbón.",
+    pros: [
+      "El más barato de esta comparativa",
+      "Dura aproximadamente 1 hora encendido con cada carga, según una reseña real",
+      "{{reviews:MLA1106653702}} calificaciones a {{rating:MLA1106653702}} estrellas, vendido por tienda oficial",
+      "Formato chico, pensado para mesa",
+    ],
+    cons: [
+      "Es puramente decorativo: no sirve para cocinar ni calienta como un fogón de leña o carbón",
+      "El bioetanol es un gasto aparte, no viene incluido",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace más de 1 año", useful: 17, text: "Súper buena compra. El fogonero queda como un centro de mesa hermoso cuando está apagado, y al prenderlo genera una calidez hermosa. Dura aproximadamente 1 hora encendido, que siempre me fue más que suficiente. Muy buena compra." },
+    ],
+    articleBody: `## Qué es el fogonero Vitdeco
+
+Es un cuenco de cemento con piedras de mármol decorativas y un quemador a bioetanol, pensado para mesa, no para el piso. Cuesta {{precio:MLA1106653702}}, el más barato de esta comparativa, con {{reviews:MLA1106653702}} calificaciones reales a {{rating:MLA1106653702}} estrellas.
+
+## Para qué sirve, y para qué no
+
+Es 100% decorativo: genera una llama chica y calidez ambiente, ideal como centro de mesa en una cena afuera. No reemplaza a un fogón de leña o carbón: no sirve para cocinar ni genera suficiente calor para una reunión grande al aire libre. Si buscás eso, las otras 3 fichas de esta comparativa son para asado.
+
+## Cuánto dura encendido
+
+Según una reseña real, "dura aproximadamente 1 hora encendido", que alcanza para una sobremesa. El bioetanol se compra aparte, no viene incluido con el fogonero.
+
+## El veredicto
+
+El más barato y el único pensado para mesa de esta comparativa. Si buscás algo decorativo y chico, es la opción; si buscás calor real o cocinar, mirá las otras 3.`,
+    faq: [
+      { question: "¿El fogonero Vitdeco sirve para cocinar?", answer: "No, es puramente decorativo. Para asado o cocina, las otras 3 fichas de esta comparativa son la opción." },
+      { question: "¿Cuánto dura encendido con una carga de bioetanol?", answer: "Según una reseña real, dura aproximadamente 1 hora." },
+      { question: "¿El bioetanol viene incluido?", answer: "No, se compra aparte." },
+      { question: "¿Es apto para interior?", answer: "Su propia ficha no lo restringe a exterior, pero al ser fuego real conviene usarlo en un ambiente ventilado y revisar las indicaciones de uso del vendedor antes de prenderlo adentro." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Vitdeco Fogonero de Cemento (bioetanol)",
+      image: ["https://http2.mlstatic.com/D_NQ_NP_657627-MLA99368296087_112025-O.webp"],
+      description: "Fogonero de cemento Vitdeco con quemador a bioetanol y piedras de mármol.",
+      brand: { "@type": "Brand", name: "Vitdeco" },
+      offers: {
+        "@type": "Offer",
+        url: "https://articulo.mercadolibre.com.ar/MLA-1106653702-fogonero-de-cemento-quemador-bioetanol-piedras-de-marmol-_JM",
+        priceCurrency: "ARS",
+        price: "18999",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.7",
+        reviewCount: "364",
+      },
+    },
+  },
+  {
+    id: "MLAU222441820",
+    title: "Brasero Parrilla Fogonero Uruguayo Leñero Carbón Hierro",
+    canonicalName: "Kuttura Brasero Uruguayo (hierro)",
+    brand: "Kuttura",
+    price: 29699,
+    originalPrice: 32999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_623499-MLA47982915714_102021-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_623499-MLA47982915714_102021-O.webp",
+    ],
+    category: "Hogar, Muebles y Jardín",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/brasero-parrilla-fogonero-uruguayo-lenero-carbon-hierro/up/MLAU222441820",
+    affiliateUrl: "https://meli.la/2P5ktWm",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.9,
+    reviewCount: 480,
+    badge: "bestseller",
+    pastelColor: "var(--pastel-green)",
+    specs: [
+      { label: "Marca", value: "Kuttura" },
+      { label: "Modelo", value: "BR" },
+      { label: "Material", value: "Hierro" },
+      { label: "Dimensiones (ancho x altura x profundidad)", value: "25 cm x 30 cm x 43 cm" },
+      { label: "Tipo", value: "Brasero tipo cuna, leñero" },
+      { label: "Separación entre varillas", value: "4 cm" },
+      { label: "Condición", value: "Nuevo" },
+      { label: "Vendedor", value: "KUTTURATIENDA, MercadoLíder, +1000 ventas" },
+    ],
+    relatedProducts: ["MLA1106653702", "MLAU189347906", "MLAU185145351"],
+    priceUpdated: "2026-10-01", priceLastChecked: "2026-10-01", priceStatus: "fresh", reviewsSampledAt: "2026-10-01",
+    description: "Brasero fogonero Kuttura, tipo cuna, de hierro. Es el más vendido de esta comparativa: 1° en Braseros de MercadoLibre, {{reviews:MLAU222441820}} opiniones a {{rating:MLAU222441820}} estrellas.",
+    seoTitle: "Kuttura: el fogonero más vendido de esta comparativa",
+    metaDescription: "Brasero fogonero Kuttura de hierro, 1° en Braseros de MercadoLibre. {{reviews:MLAU222441820}} opiniones a {{rating:MLAU222441820}} estrellas.",
+    verdict: "Es el fogonero más vendido de esta comparativa, con la insignia MÁS VENDIDO y 1° puesto en la categoría Braseros de MercadoLibre: {{reviews:MLAU222441820}} calificaciones reales a {{rating:MLAU222441820}} estrellas, a {{precio:MLAU222441820}}. Es un brasero clásico tipo cuna, de hierro, compacto (25x30x43 cm), pensado para leña o carbón. Una reseña real destaca que el grosor del hierro es calibre 8, más grueso que otras publicaciones similares de calibre 6. La contra real: no trae parrilla ni accesorios, es solo el brasero.",
+    pros: [
+      "El más vendido de esta comparativa: insignia MÁS VENDIDO, 1° en Braseros de MercadoLibre",
+      "{{reviews:MLAU222441820}} calificaciones a {{rating:MLAU222441820}} estrellas",
+      "Hierro calibre 8, más grueso que otras publicaciones similares, según una reseña real",
+      "Formato compacto (25x30x43 cm), fácil de guardar y trasladar",
+    ],
+    cons: [
+      "No trae parrilla ni accesorios, es solo el brasero",
+      "No declara ningún tratamiento o pintura: conviene revisar las instrucciones de cuidado del vendedor antes del primer uso",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace 3 meses", useful: 3, text: "Me encantó el tamaño. Entra mucha leña y estimo que dos bolsas de carbón también. El grosos del hierro es del 8 lo que lo hace muy bueno a diferencia de otras publicaciones que son del 6. Muy contento con la compra." },
+    ],
+    articleBody: `## Qué es el brasero Kuttura
+
+Es un brasero tipo cuna, de hierro, pensado para leña o carbón, con capacidad para una buena carga de combustible según reseñas reales. Cuesta {{precio:MLAU222441820}} y es, hoy, el fogonero más vendido de esta comparativa: insignia MÁS VENDIDO y 1° puesto en la categoría Braseros de MercadoLibre, con {{reviews:MLAU222441820}} calificaciones a {{rating:MLAU222441820}} estrellas.
+
+## El grosor del hierro, el diferencial real
+
+Una reseña real lo destaca de forma concreta: "el grosor del hierro es del 8 lo que lo hace muy bueno a diferencia de otras publicaciones que son del 6". Un calibre más grueso significa más durabilidad y menos riesgo de deformarse con el uso.
+
+## Lo que no incluye
+
+Es solo el brasero: no trae parrilla, disco ni ningún accesorio para cocinar. Si buscás eso incluido, el [Qunuy Lanin](/producto/brasero-fogon-fogonero-con-parrilla-y-soporte-disco-qunuy-lanin-mlau185145351) de esta comparativa lo trae de fábrica. Tampoco declara ningún tratamiento o pintura, así que conviene revisar las instrucciones de cuidado del vendedor antes del primer uso.
+
+## El veredicto
+
+El más vendido de esta comparativa, con uno de los puntajes más altos (empata con el Qunuy Lanin en 4.9 estrellas), compacto y con hierro más grueso que la competencia directa, según una reseña real. La contra real es que es solo el brasero, sin accesorios.`,
+    faq: [
+      { question: "¿Es el fogonero más vendido de esta comparativa?", answer: "Sí, tiene la insignia MÁS VENDIDO y ocupa el 1° puesto en la categoría Braseros de MercadoLibre." },
+      { question: "¿Trae parrilla o algún accesorio para cocinar?", answer: "No, es solo el brasero. Si buscás parrilla y soporte para disco incluidos, el Qunuy Lanin de esta comparativa los trae de fábrica." },
+      { question: "¿Qué combustible usa?", answer: "Leña o carbón." },
+      { question: "¿Hay que hacerle algún mantenimiento antes de usarlo?", answer: "No declara ningún tratamiento o pintura, así que conviene revisar las instrucciones de cuidado del vendedor antes del primer uso." },
+      { question: "¿Qué tamaño tiene?", answer: "25 cm de ancho x 30 cm de altura x 43 cm de profundidad: compacto, fácil de guardar y trasladar." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Kuttura Brasero Uruguayo (hierro)",
+      image: ["https://http2.mlstatic.com/D_NQ_NP_623499-MLA47982915714_102021-O.webp"],
+      description: "Brasero fogonero Kuttura de hierro, tipo cuna, para leña o carbón.",
+      brand: { "@type": "Brand", name: "Kuttura" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/brasero-parrilla-fogonero-uruguayo-lenero-carbon-hierro/up/MLAU222441820",
+        priceCurrency: "ARS",
+        price: "29699",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.9",
+        reviewCount: "480",
+      },
+    },
+  },
+  {
+    id: "MLAU189347906",
+    title: "Fogonero Para Parrilla Grande - Fogon Bajo",
+    canonicalName: "Vivenza Fogón Bajo (55 cm)",
+    brand: "Vivenza",
+    price: 56900,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_935660-MLA49322995401_032022-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_935660-MLA49322995401_032022-O.webp",
+    ],
+    category: "Hogar, Muebles y Jardín",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/fogonero-para-parrilla-grande--fogon-bajo/up/MLAU189347906",
+    affiliateUrl: "https://meli.la/2io6u6w",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.6,
+    reviewCount: 207,
+    pastelColor: "var(--pastel-slate)",
+    specs: [
+      { label: "Marca", value: "Vivenza" },
+      { label: "Modelo", value: "Fogón grande bajo" },
+      { label: "Diámetro", value: "55 cm" },
+      { label: "Altura", value: "55 cm" },
+      { label: "Peso", value: "6 kg" },
+      { label: "Material", value: "Chapa (tambor)" },
+      { label: "Combustible", value: "Leña o carbón" },
+      { label: "Pintura", value: "Estética, no es de alta temperatura" },
+      { label: "Incluye ladrillos refractarios", value: "No" },
+      { label: "Condición", value: "Nuevo" },
+      { label: "Vendedor", value: "ESPACIOS VIVENZA, MercadoLíder, +1000 ventas" },
+    ],
+    relatedProducts: ["MLA1106653702", "MLAU222441820", "MLAU185145351"],
+    priceUpdated: "2026-10-01", priceLastChecked: "2026-10-01", priceStatus: "fresh", reviewsSampledAt: "2026-10-01",
+    description: "Fogón bajo Vivenza, hecho con un tambor de chapa, 55 cm de diámetro. Es el único fogonero grande (55 cm) de esta comparativa: {{reviews:MLAU189347906}} opiniones a {{rating:MLAU189347906}} estrellas.",
+    seoTitle: "Vivenza: el único fogonero grande (55 cm) de esta comparativa",
+    metaDescription: "Fogón bajo Vivenza de 55 cm, el único fogonero grande de esta comparativa. {{reviews:MLAU189347906}} opiniones a {{rating:MLAU189347906}} estrellas.",
+    verdict: "Es el único fogonero grande (55 cm) de esta comparativa, pensado para patio o jardín amplio, no para mesa: 55 cm de diámetro, hecho con un tambor de chapa, 6 kg, a {{precio:MLAU189347906}}. {{reviews:MLAU189347906}} calificaciones reales a {{rating:MLAU189347906}} estrellas, vendido por ESPACIOS VIVENZA (MercadoLíder, +1000 ventas). La contra real, que el propio vendedor aclara en la descripción y una reseña real confirma: la pintura es estética, no de alta temperatura, y no incluye ladrillos refractarios.",
+    pros: [
+      "El único fogonero grande (55 cm) de esta comparativa",
+      "{{reviews:MLAU189347906}} calificaciones a {{rating:MLAU189347906}} estrellas, vendido por un MercadoLíder con +1000 ventas",
+      "Admite leña o carbón, no solo bioetanol",
+      "Las patitas de arriba permiten apoyar una parrilla encima, según una reseña real",
+    ],
+    cons: [
+      "La pintura es estética, no de alta temperatura: con el uso se puede pelar, lo aclaran tanto el vendedor como una reseña real",
+      "No incluye ladrillos refractarios",
+      "Los bordes son filosos, según una reseña real: hay que manipularlo con cuidado",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace 7 meses", useful: 2, text: "Es un fogonero hecho con un tambor, tal cual dice la descripción. La pintura no es alta temperatura, lo cual también dice en la descripción del producto. Muy conforme con la compra, cumple exactamente la función para lo que fue hecho. Las patitas en la parte de arriba permiten poder adaptar una parrilla, es un extra excelente. Cuidado con los bordes xq son filosos." },
+    ],
+    articleBody: `## Qué es el fogón Vivenza
+
+Está hecho con un tambor de chapa, 55 cm de diámetro y 6 kg de peso, pensado para apoyar en el piso de un patio o jardín amplio, no para mesa. Cuesta {{precio:MLAU189347906}} y es el único fogonero grande de esta comparativa, con {{reviews:MLAU189347906}} calificaciones reales a {{rating:MLAU189347906}} estrellas.
+
+## Un extra real: se le puede apoyar una parrilla
+
+Una reseña real lo confirma: "las patitas en la parte de arriba permiten poder adaptar una parrilla, es un extra excelente". No es un brasero con parrilla incluida como el [Qunuy Lanin](/producto/brasero-fogon-fogonero-con-parrilla-y-soporte-disco-qunuy-lanin-mlau185145351) de esta comparativa, pero el diseño permite sumarle una aparte.
+
+## La contra real: la pintura
+
+Tanto el vendedor en su propia descripción como una reseña real coinciden: "la pintura no es alta temperatura". Con el uso frecuente del fuego se puede pelar o decolorar. Tampoco incluye ladrillos refractarios para proteger la base. Una reseña real también avisa que los bordes son filosos, así que conviene manipularlo con cuidado.
+
+## El veredicto
+
+El único fogonero grande (55 cm) de esta comparativa, con un extra real (admite una parrilla apoyada encima), pero con una pintura pensada para lo estético, no para resistir temperaturas altas de forma indefinida.`,
+    faq: [
+      { question: "¿Es para mesa o para el piso?", answer: "Para el piso: es el único fogonero grande de esta comparativa, pensado para patio o jardín amplio." },
+      { question: "¿La pintura resiste altas temperaturas?", answer: "No: tanto el vendedor como una reseña real confirman que la pintura es estética, no de alta temperatura, y puede pelarse con el uso." },
+      { question: "¿Incluye ladrillos refractarios?", answer: "No, según su propia ficha." },
+      { question: "¿Se le puede poner una parrilla?", answer: "Sí: según una reseña real, las patitas de la parte de arriba permiten apoyar una parrilla encima, aunque no viene incluida." },
+      { question: "¿Qué combustible usa?", answer: "Leña o carbón." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Vivenza Fogón Bajo (55 cm)",
+      image: ["https://http2.mlstatic.com/D_NQ_NP_935660-MLA49322995401_032022-O.webp"],
+      description: "Fogón bajo Vivenza, hecho con un tambor de chapa, 55 cm de diámetro.",
+      brand: { "@type": "Brand", name: "Vivenza" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/fogonero-para-parrilla-grande--fogon-bajo/up/MLAU189347906",
+        priceCurrency: "ARS",
+        price: "56900",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.6",
+        reviewCount: "207",
+      },
+    },
+  },
+  {
+    id: "MLAU185145351",
+    title: "Brasero Fogon Fogonero Con Parrilla Y Soporte Disco Qunuy Lanin",
+    canonicalName: "Qunuy Lanin Brasero con Parrilla y Soporte Disco",
+    brand: "Qunuy",
+    price: 143000,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_857231-MLA102301014123_122025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_857231-MLA102301014123_122025-O.webp",
+    ],
+    category: "Hogar, Muebles y Jardín",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/brasero-fogon-fogonero-con-parrilla-y-sop-disco-qunuy-lanin/up/MLAU185145351",
+    affiliateUrl: "https://meli.la/1Eiskax",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.9,
+    reviewCount: 144,
+    badge: "bestseller",
+    pastelColor: "var(--pastel-coral)",
+    specs: [
+      { label: "Marca", value: "Qunuy" },
+      { label: "Material", value: "Hierro" },
+      { label: "Peso", value: "13 kg" },
+      { label: "Incluye", value: "Parrilla desmontable y soporte para disco" },
+      { label: "Combustible", value: "Leña o carbón" },
+      { label: "Condición", value: "Nuevo" },
+      { label: "Vendedor", value: "Tienda oficial Qunuy, +5 mil ventas" },
+    ],
+    relatedProducts: ["MLA1106653702", "MLAU222441820", "MLAU189347906"],
+    priceUpdated: "2026-10-01", priceLastChecked: "2026-10-01", priceStatus: "fresh", reviewsSampledAt: "2026-10-01",
+    description: "Brasero Qunuy Lanin, con parrilla desmontable y soporte para disco. Es el más completo de esta comparativa: 5° en Braseros de MercadoLibre, {{reviews:MLAU185145351}} opiniones a {{rating:MLAU185145351}} estrellas.",
+    seoTitle: "Qunuy Lanin: el fogonero más completo de esta comparativa",
+    metaDescription: "Brasero Qunuy Lanin con parrilla y soporte para disco, el más completo de esta comparativa. {{reviews:MLAU185145351}} opiniones a {{rating:MLAU185145351}} estrellas.",
+    verdict: "Es el fogonero más completo de esta comparativa: trae parrilla desmontable y soporte para disco de fábrica, con la insignia MÁS VENDIDO y 5° puesto en Braseros de MercadoLibre. {{reviews:MLAU185145351}} calificaciones reales a {{rating:MLAU185145351}} estrellas, a {{precio:MLAU185145351}}, el más caro de esta comparativa por lejos. Una reseña real recomienda untarlo con grasa antes del primer uso para evitar que se oxide, porque es hierro sin pintura. La contra real: con 13 kg es el más pesado, y la manija se calienta si no se le agrega una protección.",
+    pros: [
+      "El más completo de esta comparativa: trae parrilla desmontable y soporte para disco de fábrica",
+      "Insignia MÁS VENDIDO, 5° en Braseros de MercadoLibre",
+      "{{reviews:MLAU185145351}} calificaciones a {{rating:MLAU185145351}} estrellas, vendido por tienda oficial",
+      "Calidad constructiva sólida, según una reseña real",
+    ],
+    cons: [
+      "El más caro de esta comparativa por lejos",
+      "El más pesado (13 kg)",
+      "La manija se calienta: una reseña real recomienda agregarle una protección casera",
+      "Es hierro sin pintura: conviene untarlo con grasa antes del primer uso para evitar que se oxide",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace 1 semana", useful: 3, text: "Fogonero de calidad constructiva. Consejos, untar con grasa por todos sus lados antes del primer uso (evita que se oxide), a la manija se le puede realizar un agüero y añadir un corcho sujeto con un tornillo para no quemarse al abrir. No tengo puntos en contra sobre el producto. Saludos🔥." },
+    ],
+    articleBody: `## Qué es el brasero Qunuy Lanin
+
+Es un brasero de hierro de 13 kg que trae parrilla desmontable y soporte para disco incluidos de fábrica, algo que ninguna otra ficha de esta comparativa tiene. Cuesta {{precio:MLAU185145351}}, el más caro por lejos, y tiene la insignia MÁS VENDIDO, 5° puesto en la categoría Braseros de MercadoLibre, con {{reviews:MLAU185145351}} calificaciones reales a {{rating:MLAU185145351}} estrellas.
+
+## Lo que incluye, a diferencia del resto
+
+El [Kuttura](/producto/brasero-parrilla-fogonero-uruguayo-lenero-carbon-hierro-mlau222441820) de esta comparativa, el más vendido, es solo el brasero. Este trae parrilla desmontable y soporte para disco, así que amplía las posibilidades de cocción sin tener que comprar accesorios aparte.
+
+## Dos cuidados reales, según una reseña
+
+Una reseña real que destaca la calidad constructiva del producto recomienda dos cosas: untarlo con grasa por todos los lados antes del primer uso para evitar que se oxide (es hierro sin pintura, no tratado), y agregarle una protección casera a la manija, que se calienta al abrir la puerta.
+
+## El veredicto
+
+El más completo y el más caro de esta comparativa: trae parrilla y soporte para disco de fábrica, pero exige el cuidado de curarlo antes de usarlo y protegerse la mano al manipular la manija caliente.`,
+    faq: [
+      { question: "¿Trae parrilla incluida?", answer: "Sí, parrilla desmontable y soporte para disco, algo que ninguna otra ficha de esta comparativa incluye de fábrica." },
+      { question: "¿Por qué es tan caro comparado con el resto?", answer: "Porque incluye parrilla y soporte para disco de fábrica, algo que ninguna otra ficha de esta comparativa trae. Es el más caro por lejos." },
+      { question: "¿Hay que hacerle algún mantenimiento antes de usarlo?", answer: "Sí: una reseña real recomienda untarlo con grasa por todos los lados antes del primer uso, porque es hierro sin pintura y se puede oxidar." },
+      { question: "¿La manija se calienta?", answer: "Sí, según una reseña real. El mismo comprador recomienda agregarle una protección casera (un corcho sujeto con un tornillo) para no quemarse al abrir." },
+      { question: "¿Cuánto pesa?", answer: "13 kg, el más pesado de esta comparativa." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Qunuy Lanin Brasero con Parrilla y Soporte Disco",
+      image: ["https://http2.mlstatic.com/D_NQ_NP_857231-MLA102301014123_122025-O.webp"],
+      description: "Brasero Qunuy Lanin de hierro, con parrilla desmontable y soporte para disco.",
+      brand: { "@type": "Brand", name: "Qunuy" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/brasero-fogon-fogonero-con-parrilla-y-sop-disco-qunuy-lanin/up/MLAU185145351",
+        priceCurrency: "ARS",
+        price: "143000",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.9",
+        reviewCount: "144",
+      },
+    },
+  },
+
   // ─── Silo de verano: piletas (sourcing Bright Data 2026-08-13) ───
   // Sin rating/reviewCount: el scraper puntual no devuelve el agregado de ML.
   // Los completa la proxima corrida del workflow de precios. No se inventan.

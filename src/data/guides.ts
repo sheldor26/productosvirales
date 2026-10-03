@@ -28281,6 +28281,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { label: `Zapatero: cuál comprar en Argentina`, href: `/guias/hogar-jardin/zapatero` },
       { label: `Ventilador de pie: cuál comprar`, href: `/guias/climatizacion/ventilador-de-pie` },
       { label: `Reposera: cuál comprar en Argentina`, href: `/guias/hogar-jardin/reposera` },
+      { label: `Fogonero: cuál comprar en Argentina`, href: `/guias/hogar-jardin/fogonero` },
     ],
   },
   // Guía nueva pileta-inflable-ninos — spoke del silo de verano (hija de pileta-pelopincho)
@@ -28593,6 +28594,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { label: `Pileta Pelopincho: cuál comprar en Argentina`, href: `/guias/hogar-jardin/pileta-pelopincho` },
       { label: `Colchón inflable 2 plazas: cuál comprar`, href: `/guias/hogar-jardin/colchon-inflable-2-plazas` },
       { label: `Reposera: cuál comprar en Argentina`, href: `/guias/hogar-jardin/reposera` },
+      { label: `Fogonero: cuál comprar en Argentina`, href: `/guias/hogar-jardin/fogonero` },
     ],
   },
   // ─────────────────────────────────────────────────────────
@@ -28712,9 +28714,114 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { label: "Sombrilla de playa: cuál comprar en Argentina", href: "/guias/hogar-jardin/sombrilla-de-playa" },
       { label: "Conservadora: cuál comprar en Argentina", href: "/guias/hogar-jardin/conservadora" },
       { label: "Regalos de Navidad: qué regalar según a quién", href: "/guias/hogar/regalos-de-navidad-argentina" },
+      { label: "Fogonero: cuál comprar en Argentina", href: "/guias/hogar-jardin/fogonero" },
     ],
     internalLinksTitle: "Más de hogar y jardín",
   },
+
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva fogonero — silo hogar-jardin (existente, con pileta-pelopincho,
+  // sombrilla-de-playa, conservadora, reposera). Origen: research de backlog
+  // 2026-10-01, "fogonero" 9.900/mes en Keyword Planner, SERP sin comparador
+  // neutral (solo un blog de una herrería D2C, mismo patrón ya aceptado en
+  // puff/mopa/cómoda). Categoría real de ML mezcla dos sub-intenciones: Decorativos
+  // (bioetanol, ambiente) y Braseros (leña/carbón, asado) — la guía se organiza
+  // por uso real, no por la taxonomía de ML (el Vivenza figura como "Decorativo"
+  // en ML pese a admitir leña/carbón, así que se agrupó con los braseros por
+  // función real). Sourcing en vivo 2026-10-01 (Chrome de Juan, ML bloquea el
+  // navegador interno).
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "fogonero",
+    category: "fogoneros",
+    silo: "hogar-jardin",
+    pillar: true,
+    title: `Fogonero: cuál comprar en Argentina [2026]`,
+    seoTitle: `Fogonero: Cuál Comprar en Argentina [2026]`,
+    metaDescription: `Comparamos 4 fogoneros reales de MercadoLibre: decorativos a bioetanol y braseros para asado a leña o carbón, con precio real y la contra honesta de cada uno.`,
+    ogTitle: `Fogonero: cuál comprar en Argentina`,
+    ogDescription: `Del decorativo de mesa más barato al brasero más completo con parrilla y disco: 4 fogoneros comparados por uso real, con contras honestos incluidos.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_623499-MLA47982915714_102021-O.webp`,
+    h1: `Fogonero: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Depende de para qué lo uses. Si buscás algo decorativo para la mesa, el más barato es el **[Vitdeco de cemento a bioetanol](/producto/fogonero-de-cemento-quemador-bioetanol-piedras-de-marmol-mla1106653702)** (alrededor de {{precio:MLA1106653702:k}}). Si es para asado y buscás el más vendido, el **[brasero Kuttura](/producto/brasero-parrilla-fogonero-uruguayo-lenero-carbon-hierro-mlau222441820)** (alrededor de {{precio:MLAU222441820:k}}). Si lo querés grande (55 cm) para el jardín, el **[fogón Vivenza](/producto/fogonero-para-parrilla-grande-fogon-bajo-mlau189347906)** (alrededor de {{precio:MLAU189347906:k}}). Y si buscás el más completo, con parrilla y soporte para disco incluidos, el **[Qunuy Lanin](/producto/brasero-fogon-fogonero-con-parrilla-y-soporte-disco-qunuy-lanin-mlau185145351)** (alrededor de {{precio:MLAU185145351:k}}).`,
+    publishedDate: "2026-10-01",
+    updatedDate: "2026-10-01",
+    hasDisclosure: true,
+    readingTime: 9,
+    standfirst: `"Fogonero" en MercadoLibre mezcla dos productos distintos: los decorativos a bioetanol, pensados para ambiente, y los braseros para leña o carbón, pensados para asado o para calentar de verdad. Esta guía compara 4 fogoneros reales por esa diferencia de uso, no solo por precio, con la contra honesta de cada uno.`,
+    quickPicks: [
+      { productMlaId: "MLA1106653702", label: "El más barato", labelColor: "green", tagline: "Vitdeco de cemento a bioetanol: decorativo, para mesa" },
+      { productMlaId: "MLAU222441820", label: "El más vendido", labelColor: "blue", tagline: "Brasero Kuttura: 1° en Braseros de MercadoLibre" },
+      { productMlaId: "MLAU189347906", label: "El único grande (55 cm)", labelColor: "slate", tagline: "Fogón Vivenza: 55 cm, para patio o jardín" },
+      { productMlaId: "MLAU185145351", label: "El más completo", labelColor: "amber", tagline: "Qunuy Lanin: trae parrilla y soporte para disco" },
+    ],
+    intro: [
+      `"Fogonero" es un término que en MercadoLibre engloba dos productos con usos muy distintos: los decorativos a bioetanol (chicos, para mesa, sin función de cocina) y los braseros para leña o carbón (para asado o para calentar de verdad, algunos con parrilla incluida). Antes de comparar precios, conviene saber cuál de los dos necesitás.`,
+      `Los 4 productos de esta guía salen de categorías reales de MercadoLibre Argentina dentro de Fogoneros, sourceados en vivo. Con el precio real, las calificaciones y la contra honesta de cada uno.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_623499-MLA47982915714_102021-O.webp", alt: `Brasero Kuttura, el fogonero más vendido de esta comparativa` },
+
+      { type: "h2", id: "para-mesa", title: `Para ambiente, en la mesa` },
+      { type: "p", content: `Este grupo es puramente decorativo: generan una llama chica para ambientar, no sirven para cocinar ni calientan como un fogón de leña.` },
+
+      { type: "h3", id: "vitdeco-bioetanol", bigNumber: true, title: `1. Fogonero Vitdeco de cemento a bioetanol` },
+      { type: "product-card", productMlaId: "MLA1106653702", label: "El más barato", labelColor: "green", ranking: 1, description: `Cuenco de cemento con piedras de mármol y quemador a bioetanol. {{rating:MLA1106653702}} de puntaje sobre {{reviews:MLA1106653702}} opiniones.` },
+      { type: "p", content: `Es el más barato de esta comparativa, a {{precio:MLA1106653702:k}}, y el único pensado para mesa. Según una reseña real, dura aproximadamente 1 hora encendido con cada carga, suficiente para una sobremesa.` },
+      { type: "p", content: `La contra real: es puramente decorativo, no sirve para cocinar ni genera el calor de un fogón de leña o carbón. El bioetanol se compra aparte.` },
+
+      { type: "h2", id: "para-el-patio", title: `Para el patio y el asado` },
+      { type: "p", content: `Estos tres van al piso, admiten leña o carbón, y están pensados para calentar de verdad o para cocinar. Van de {{precio:MLAU222441820:k}} a {{precio:MLAU185145351:k}}.` },
+
+      { type: "h3", id: "kuttura-brasero", bigNumber: true, title: `2. Brasero Kuttura, el más vendido` },
+      { type: "product-card", productMlaId: "MLAU222441820", label: "El más vendido", labelColor: "blue", ranking: 2, description: `Brasero tipo cuna, de hierro, para leña o carbón. {{rating:MLAU222441820}} de puntaje sobre {{reviews:MLAU222441820}} opiniones, 1° en Braseros de MercadoLibre.` },
+      { type: "p", content: `Tiene la insignia MÁS VENDIDO y el 1° puesto en la categoría Braseros de MercadoLibre. Una reseña real destaca que el grosor del hierro es calibre 8, más grueso que otras publicaciones similares de calibre 6.` },
+      { type: "p", content: `La contra real: no trae parrilla ni accesorios, es solo el brasero. Tampoco declara ningún tratamiento o pintura, así que conviene revisar las instrucciones de cuidado del vendedor antes del primer uso.` },
+
+      { type: "h3", id: "vivenza-fogon", bigNumber: true, title: `3. Fogón Vivenza, el único grande (55 cm)` },
+      { type: "product-card", productMlaId: "MLAU189347906", label: "El único grande (55 cm)", labelColor: "slate", ranking: 3, description: `Fogón hecho con un tambor de chapa, 55 cm de diámetro, 6 kg. {{rating:MLAU189347906}} de puntaje sobre {{reviews:MLAU189347906}} opiniones.` },
+      { type: "p", content: `Es el único fogonero grande de esta comparativa, pensado para patio o jardín amplio. Según una reseña real, las patitas de la parte de arriba permiten apoyarle una parrilla encima, un extra que no viene incluido pero que el diseño permite sumar.` },
+      { type: "p", content: `La contra real: tanto el vendedor en su propia descripción como una reseña real confirman que la pintura es estética, no de alta temperatura, y puede pelarse con el uso. No incluye ladrillos refractarios, y una reseña real avisa que los bordes son filosos.` },
+
+      { type: "h3", id: "qunuy-lanin", bigNumber: true, title: `4. Qunuy Lanin, el más completo` },
+      { type: "product-card", productMlaId: "MLAU185145351", label: "El más completo", labelColor: "amber", ranking: 4, description: `Brasero de hierro con parrilla desmontable y soporte para disco. {{rating:MLAU185145351}} de puntaje sobre {{reviews:MLAU185145351}} opiniones, 5° en Braseros de MercadoLibre.` },
+      { type: "p", content: `Es el único de esta comparativa que trae parrilla desmontable y soporte para disco incluidos de fábrica. Tiene la insignia MÁS VENDIDO, 5° puesto en Braseros de MercadoLibre, y una reseña real destaca su calidad constructiva.` },
+      { type: "p", content: `La contra real: a {{precio:MLAU185145351:k}} es el más caro de esta comparativa por lejos, y con 13 kg el más pesado. Es hierro sin pintura (conviene untarlo con grasa antes del primer uso para evitar óxido), y la manija se calienta si no se le agrega una protección, según una reseña real.` },
+
+      { type: "h2", id: "tabla", title: `Los 4 fogoneros comparados` },
+      { type: "table", headers: [`Fogonero`, `Precio`, `Puntaje`, `Opiniones`, `Uso`], rows: [
+        [`[Vitdeco de cemento a bioetanol](https://meli.la/21y9nEz)`, `{{precio:MLA1106653702}}`, `{{rating:MLA1106653702}}`, `{{reviews:MLA1106653702}}`, `Decorativo, para mesa`],
+        [`[Brasero Kuttura](https://meli.la/2P5ktWm)`, `{{precio:MLAU222441820}}`, `{{rating:MLAU222441820}}`, `{{reviews:MLAU222441820}}`, `Asado, el más vendido`],
+        [`[Fogón Vivenza](https://meli.la/2io6u6w)`, `{{precio:MLAU189347906}}`, `{{rating:MLAU189347906}}`, `{{reviews:MLAU189347906}}`, `Patio grande`],
+        [`[Qunuy Lanin](https://meli.la/1Eiskax)`, `{{precio:MLAU185145351}}`, `{{rating:MLAU185145351}}`, `{{reviews:MLAU185145351}}`, `Asado, el más completo`],
+      ]},
+
+      { type: "h2", id: "como-elegir", title: `Cómo elegir sin equivocarte` },
+      { type: "list", boxed: true, items: [
+        `**Decidí primero decorativo o funcional.** Si solo querés ambiente para la mesa, el bioetanol alcanza. Si buscás calor real o cocinar, andá directo a los braseros.`,
+        `**Si vas a cocinar, fijate si trae parrilla.** De los 3 braseros de esta comparativa, solo el Qunuy Lanin la incluye de fábrica.`,
+        `**Si es hierro sin pintura, curalo antes del primer uso.** El Qunuy Lanin, por ejemplo, es hierro desnudo: untarlo con aceite o grasa antes de prenderlo por primera vez evita que se oxide, según una reseña real. En el resto, revisá las instrucciones de cuidado del vendedor.`,
+        `**Revisá el espacio disponible.** El Vivenza es el único de tamaño grande (55 cm), ideal para patios amplios; los otros dos braseros son compactos y fáciles de guardar.`,
+      ]},
+
+      { type: "verdict", content: `Si buscás solo ambiente para la mesa, el [Vitdeco](/producto/fogonero-de-cemento-quemador-bioetanol-piedras-de-marmol-mla1106653702) es la opción más barata y la única pensada para eso. Para asado de uso frecuente, el [brasero Kuttura](/producto/brasero-parrilla-fogonero-uruguayo-lenero-carbon-hierro-mlau222441820) es el más vendido, con uno de los puntajes más altos de esta comparativa (empata en 4.9 con el Qunuy Lanin). Si tenés un patio grande, el [Vivenza](/producto/fogonero-para-parrilla-grande-fogon-bajo-mlau189347906) es el único de ese tamaño. Y si buscás el combo más completo, con parrilla y soporte para disco incluidos, el [Qunuy Lanin](/producto/brasero-fogon-fogonero-con-parrilla-y-soporte-disco-qunuy-lanin-mlau185145351) lo tiene, al precio más alto de los cuatro.` },
+    ],
+    faq: [
+      { question: `¿Qué diferencia hay entre un fogonero decorativo y un brasero?`, answer: `El decorativo (a bioetanol) genera una llama chica para ambientar, no sirve para cocinar ni calienta como un fogón real. El brasero (a leña o carbón) está pensado para asado o para calentar de verdad, y algunos traen parrilla incluida.` },
+      { question: `¿Cuál es el fogonero más vendido de esta comparativa?`, answer: `El [brasero Kuttura](/producto/brasero-parrilla-fogonero-uruguayo-lenero-carbon-hierro-mlau222441820), con la insignia MÁS VENDIDO y el 1° puesto en la categoría Braseros de MercadoLibre.` },
+      { question: `¿Algún fogonero de esta comparativa trae parrilla incluida?`, answer: `Sí, el [Qunuy Lanin](/producto/brasero-fogon-fogonero-con-parrilla-y-soporte-disco-qunuy-lanin-mlau185145351): trae parrilla desmontable y soporte para disco de fábrica. Es el único de los cuatro.` },
+      { question: `¿Hay que hacerle mantenimiento a un brasero antes de usarlo?`, answer: `Depende del producto: el Qunuy Lanin es hierro sin pintura, así que conviene untarlo con aceite o grasa antes del primer uso para evitar que se oxide, según una reseña real. Para el Kuttura y el Vivenza, lo más seguro es revisar las instrucciones de cuidado de cada vendedor.` },
+      { question: `¿Cuál conviene para un patio grande?`, answer: `El [fogón Vivenza](/producto/fogonero-para-parrilla-grande-fogon-bajo-mlau189347906), de 55 cm de diámetro: es el único fogonero grande de esta comparativa.` },
+    ],
+    internalLinks: [
+      { label: "Pileta Pelopincho: cuál comprar en Argentina", href: "/guias/hogar-jardin/pileta-pelopincho" },
+      { label: "Sombrilla de playa: cuál comprar en Argentina", href: "/guias/hogar-jardin/sombrilla-de-playa" },
+      { label: "Conservadora: cuál comprar en Argentina", href: "/guias/hogar-jardin/conservadora" },
+      { label: "Reposera: cuál comprar en Argentina", href: "/guias/hogar-jardin/reposera" },
+    ],
+    internalLinksTitle: "Más de hogar y jardín",
+  },
+
   // ─────────────────────────────────────────────────────────
   // PILAR conservadora — silo hogar-jardin, diseño best-of (ver docs/guias.md)
   // Specs verificadas contra Termolar, Mor y Coleman: la ficha de ML falló en 4 de 6.
@@ -28848,6 +28955,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { label: `Colchón inflable 2 plazas: cuál comprar`, href: `/guias/hogar-jardin/colchon-inflable-2-plazas` },
       { label: `Reposera: cuál comprar en Argentina`, href: `/guias/hogar-jardin/reposera` },
       { label: `Regalos de Navidad: qué regalar según a quién`, href: `/guias/hogar/regalos-de-navidad-argentina` },
+      { label: `Fogonero: cuál comprar en Argentina`, href: `/guias/hogar-jardin/fogonero` },
       { label: `Ver toda la categoría Hogar y Jardín`, href: `/categoria/hogar-jardin` },
     ],
     internalLinksTitle: "Más de hogar y jardín",
