@@ -1,7 +1,31 @@
 # Estado actual
 
 > Snapshot del proyecto. Se actualiza al final de cada sesión.
-> Última actualización: 2026-10-03 — Guía nueva "Secador de piso" (silo hogar-jardin, categoría secadores-de-piso, 4 fichas nuevas, sourcing en vivo), publicada el mismo día (no STAGED). Doble GO del trío auditor tras 5 rondas (3 Codex + 2 Gemini), con un incidente más serio de `agy` creando archivos sueltos rotos en `scratch/` sin aprobación (documentado y resuelto, ver detalle abajo). Antes, en la misma sesión: guía "Tabla de planchar" publicada y commiteada.
+> Última actualización: 2026-10-03 — Guía nueva "Transportadora para gatos" (silo mascotas, categoría transportadora-para-gatos, 4 fichas nuevas, sourcing en vivo), suma el segundo miembro del silo (hasta ahora solo rascador-para-gatos). Trío auditor: 6 rondas con Codex (Gemini dio GO en las dos primeras) hasta doble GO — la más larga de la sesión, por un error real mío: traté "homologada por IATA" (frase de la publicación de Skudo) como una certificación real sin verificar que IATA no aprueba marcas ni modelos puntuales (detalle completo en MISTAKES.md). Antes, en la misma sesión: guías "Tabla de planchar" y "Secador de piso" publicadas y commiteadas.
+
+## Sesión 2026-10-03 (continuación 2) — Guía nueva: Transportadora para gatos
+
+### LO QUE SE HIZO
+
+Backlog de `docs/keywords-verificadas-2026-08-15.md` y la lista de reserva de `docs/productos-backlog.md` ya estaban agotados (ver sesión anterior). Se recuperó un research de Keyword Planner de una sesión previa con candidatas nuevas afines (fitness, mascotas, bebés, herramientas) todavía no cubiertas, se re-validaron volúmenes en vivo y se delegó a un subagente la investigación de competencia SERP de las 4 mejores. Se eligió **`transportadora para gatos`** (1.600/mes): SERP más limpio de las 4 candidatas (sin comparador editorial argentino real, solo Puppis.com.ar como incumbente no-comparador) y mejor encaje estratégico — refuerza el silo "mascotas" existente, que tenía una sola guía huérfana (`rascador-para-gatos`), en vez de abrir un silo nuevo desde cero.
+
+Sourcing nuevo en vivo (4 fichas, categoría real "Bolsos y Transportadoras" de ML): **Terrapet** (la más vendida, insignia MÁS VENDIDO real 1° en su categoría, maleta rígida con puerta de metal), **Crusec Waggs** (mochila cápsula con burbuja transparente, la de mayor respaldo de reseñas por lejos — 1.228 contra 56/178/67 de las otras tres), **Skudo 1** (la única cuya ficha declara cumplir los requisitos de contenedor de IATA, fabricada por Vetjuncal) y **Jazak** (bolso plegable con visor, la más económica). Se sumó al silo mascotas existente, con enlazado recíproco nuevo en `rascador-para-gatos`.
+
+### VERIFICACIÓN
+
+`npx tsc --noEmit`, `npm run build`, y los 6 scripts de check relevantes en verde de punta a punta. **Trío auditor: 6 rondas de Codex hasta GO (Gemini dio GO limpio en las rondas 1 y 2, no hizo falta repetirlo más).** Ronda 1: 5 bloqueantes reales — la ficha Terrapet se contradecía a sí misma reclamando ser también "la de más reseñas" (56 opiniones) cuando Waggs tiene 1.228; afirmaba estar "al mejor precio" cuando Jazak y Waggs son más baratas; un error de cálculo real ("casi el doble" cuando Skudo/Jazak es casi el triple, $60.032 vs $19.999); un dato de material inventado (Waggs descripta con burbuja "de acrílico" cuando su propia ficha solo declara "plástico ultra resistente", contradiciendo un cons ya escrito en la misma ficha); y la homologación IATA de Skudo redactada como una garantía de aceptación en cabina ("la certificación que garantiza que podés viajar"). Rondas 2 y 3: residuos de la misma frase de homologación en más lugares de los que el hallazgo original citaba (patrón ya documentado: un hallazgo puntual casi nunca cubre todas las repeticiones). **Ronda 4, el hallazgo más importante de la sesión:** Codex señaló que IATA declara explícitamente que no certifica, aprueba ni avala marcas o modelos puntuales — se verificó con WebSearch y era cierto. Se reescribió el concepto completo (no solo el verbo) en los dos archivos: de "homologada/certificada por IATA" a "la ficha declara cumplir con los requisitos de contenedor de IATA", con aclaración explícita de que eso no es un aval de IATA ni garantiza aceptación de la aerolínea. Esto incluyó cambiar el `title`/H1 de la ficha de Skudo (y por lo tanto su slug/URL canónica, propagado a las 5 referencias cruzadas — verificado con `check-canonical-product-links`). Rondas 5 y 6: ajustes de atribución explícita ("ficha declara" en vez de "declara" a secas) en el H1, la fila de specs y la tabla comparativa de la guía. Ronda 6: GO limpio.
+
+**Entrada nueva en MISTAKES.md** con el detalle completo del error de IATA y la regla general que deja: cuando una ficha de ML invoca una entidad externa (norma, organismo, certificación) como respaldo, verificar qué certifica esa entidad en realidad antes de repetir la frase del vendedor como un hecho.
+
+### LO QUE QUEDA ABIERTO
+
+- Candidatas del mismo research de Keyword Planner no elegidas esta vez (banco de pesas, cama para perro, silla de auto para bebé, cinta de correr, casa para perro, colchoneta de yoga) quedan como backlog para una próxima sesión, sin SERP verificado todavía salvo las 4 que sí se investigaron.
+- Del backlog original: `cartuchera` (14.800/mes, estacional, esperar a feb-mar 2027), `brasero` standalone (5.400/mes, posible canibalización con `fogonero`), `chifonier` descartado por canibalización con `cómoda`.
+- Listas de afiliados de ML sin completar (de la sesión 2026-10-01): Freidoras de Aire, Termómetros Digitales, Microondas — bloqueadas por la falla intermitente del modal de ML, no retomadas en esta sesión.
+- `aspiradora` como posible guía futura (research 2026-07-06), riesgo medio de canibalización con el cluster robot-aspiradora, no decidido.
+- Sin commitear todavía: diff mostrado a Juan, pendiente de aprobación explícita antes de pushear.
+
+---
 
 ## Sesión 2026-10-03 (continuación) — Guía nueva: Secador de piso
 

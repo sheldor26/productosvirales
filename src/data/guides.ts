@@ -33326,6 +33326,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { question: `¿Sirven para gatos grandes?`, answer: `Ninguna de las cuatro fichas de esta comparativa declara un límite de peso o tamaño. Una compradora de la Venecia confirma que su gato "es re grandote y entra lo más bien", una buena señal si el tuyo también lo es.` },
     ],
     internalLinks: [
+      { label: "Transportadora para gatos: cuál comprar", href: "/guias/mascotas/transportadora-para-gatos" },
       { label: "Mancuernas: cuál comprar", href: "/guias/fitness/mancuernas" },
       { label: "Bicicleta fija: cuál comprar", href: "/guias/fitness/bicicleta-fija" },
     ],
@@ -34359,6 +34360,118 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { label: "¿Es buena la marca Atma?", href: "/guias/atma-freidoras-de-aire-review" },
     ],
     internalLinksTitle: "Más sobre freidoras de aire",
+  },
+  {
+    slug: "transportadora-para-gatos",
+    category: "transportadora-para-gatos",
+    silo: "mascotas",
+    pillar: true,
+    title: `Transportadora para gatos: cuál comprar en Argentina [2026]`,
+    seoTitle: `Transportadora para Gatos: Cuál Comprar en Argentina [2026]`,
+    metaDescription: `Comparamos 4 transportadoras para gatos de MercadoLibre: rígida, mochila cápsula, bolso económico y una cuya ficha declara cumplir requisitos de IATA.`,
+    ogTitle: `Transportadora para gatos: cuál comprar en Argentina`,
+    ogDescription: `4 transportadoras comparadas por formato (rígida, mochila, bolso), peso soportado y si la ficha invoca algún estándar concreto para viajar en cabina de avión.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_2X_956459-MLA116368181328_092026-O.webp`,
+    h1: `Transportadora para gatos: cuál comprar en Argentina y qué mirar antes [2026]`,
+    directAnswer: `Para la mayoría conviene la **[Terrapet](/producto/transportadora-rigida-terrapet-puerta-de-metal-para-perros-y-gatos-mlau4741185740)** (alrededor de {{precio:MLAU4741185740:k}}): es la más vendida de esta comparativa, rígida y con puerta de metal. Si buscás formato mochila con ventana panorámica, la **[Waggs](/producto/mochila-transportadora-capsula-waggs-crusec-para-gatos-y-perros-mla47160690)**, la de mayor respaldo de reseñas. Si vas a volar con tu mascota, la **[Skudo 1](/producto/transportadora-canil-skudo-1-ficha-declara-cumplir-requisitos-iata-mla23491131)**, la única cuya ficha declara cumplir con los requisitos de contenedor de IATA. Y si el presupuesto manda, el **[bolso Jazak](/producto/bolso-transportador-jazak-visor-rigido-para-gatos-y-perros-mla67568336)**, el más económico.`,
+    publishedDate: "2026-10-03",
+    updatedDate: "2026-10-03",
+    sitemapLastmod: "2026-10-03",
+    hasDisclosure: true,
+    readingTime: 8,
+    standfirst: `Una transportadora para gatos va de {{precio:MLA67568336:k}} a {{precio:MLA23491131:k}}. Comparamos 4 modelos reales de MercadoLibre Argentina por **formato (maleta rígida, mochila cápsula o bolso), peso soportado y si la ficha invoca algún estándar concreto para viajar en cabina de avión**, con contras sacadas de reseñas verdaderas, dentro de nuestro silo de [Mascotas](/categoria/mascotas).`,
+    quickPicks: [
+      { productMlaId: "MLAU4741185740", label: "La más vendida", labelColor: "green", tagline: "Terrapet: maleta rígida con puerta de metal, {{reviews:MLAU4741185740}} opiniones" },
+      { productMlaId: "MLA47160690", label: "La mochila cápsula", labelColor: "blue", tagline: "Waggs: ventana panorámica, {{reviews:MLA47160690}} opiniones, la de más respaldo" },
+      { productMlaId: "MLA23491131", label: "Declara cumplir IATA", labelColor: "purple", tagline: "Skudo 1: la única cuya ficha invoca los requisitos de contenedor de IATA" },
+      { productMlaId: "MLA67568336", label: "La más económica", labelColor: "slate", tagline: "Jazak: bolso plegable con visor, la más barata" },
+    ],
+    intro: [
+      `Elegir una **transportadora para gatos** parece una decisión de precio y termina siendo una de formato. Maleta rígida, mochila cápsula y bolso plegable resuelven necesidades distintas, y si vas a viajar en avión con tu mascota, hay un dato que conviene chequear con cuidado: "homologada IATA" es una frase común en estas publicaciones, pero IATA no certifica ni aprueba marcas o modelos puntuales.`,
+      `Comparamos 4 transportadoras reales de MercadoLibre Argentina y verificamos, una por una, qué declara su ficha técnica sobre formato, peso soportado y viaje en avión. Apareció algo que conviene saber antes de comprar: **de las cuatro, solo una invoca un estándar concreto** (los requisitos de contenedor que publica IATA), mientras otra solo dice ser "apta para cabina" sin referirse a ninguna norma.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_956459-MLA116368181328_092026-O.webp", alt: `Transportadora rígida para gatos con puerta de metal`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Si no querés leer toda la comparativa: la **[Terrapet](/producto/transportadora-rigida-terrapet-puerta-de-metal-para-perros-y-gatos-mlau4741185740)** es la más vendida de las cuatro, con **{{reviews:MLAU4741185740}} opiniones** y puerta de metal resistente. Si vas a volar con tu gato, andá directo a la **[Skudo 1](/producto/transportadora-canil-skudo-1-ficha-declara-cumplir-requisitos-iata-mla23491131)**, la única de esta comparativa cuya ficha declara cumplir con los requisitos de contenedor de IATA.` },
+
+      { type: "callout", calloutVariant: "warning", calloutTitle: "\"Homologada IATA\" no es una certificación de IATA", content: `IATA (la asociación internacional de transporte aéreo) publica especificaciones de medidas y construcción para contenedores de mascotas, pero **no certifica, aprueba ni avala marcas o modelos comerciales específicos** — eso lo aclara la propia IATA. De las cuatro transportadoras de esta comparativa, solo la **Skudo 1** declara en su ficha que cumple esas especificaciones. La **Waggs** dice ser "apta para cabina" sin invocar ninguna norma. La **Terrapet** y el **Jazak** no hacen ninguna mención a viajes en avión. En ningún caso es garantía de aceptación: cada aerolínea decide y pide sus propios requisitos de medidas, así que siempre conviene confirmar antes de comprar, y no quedarte solo con lo que dice el título de la publicación.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** partimos del rubro de transportadoras para gatos de MercadoLibre Argentina y verificamos cada publicación en vivo el 2026-10-03: precio, stock, ficha técnica campo por campo y reseñas de compradores. Miramos especialmente cuatro campos que deciden la compra: **formato (maleta rígida, mochila cápsula o bolso)**, **peso máximo soportado**, **si la ficha invoca los requisitos de contenedor de IATA o solo dice "apta para cabina"**, y **respaldo de reseñas reales**. Los precios se verifican automáticamente contra MercadoLibre.` },
+
+      { type: "h2", title: `Los cuatro datos que deciden la compra`, id: "que-mirar" },
+      { type: "p", content: `**Formato.** Maleta rígida (puerta de metal, más segura pero ocupa más espacio), mochila cápsula (ventana panorámica, se lleva en la espalda) o bolso plegable (el más chico para guardar). En esta comparativa hay una de cada formato, más una variante rígida cuya ficha invoca los requisitos de contenedor de IATA.` },
+      { type: "p", content: `**Peso máximo soportado.** Solo dos de las cuatro fichas lo declaran explícitamente: la Waggs hasta 6,5 kg, y la Skudo hasta 12 kg según el título de su publicación. La Terrapet y el Jazak no declaran un límite de peso.` },
+      { type: "p", content: `**Requisitos de contenedor de IATA, o solo "apta para cabina".** El dato que más confusión genera. Solo la Skudo 1 declara cumplir con los requisitos de contenedor que publica IATA; la Waggs dice ser "apta para cabina" sin invocar ninguna norma; la Terrapet y el Jazak no hacen ninguna mención a viajes en avión. Importante: IATA no certifica marcas ni modelos puntuales, así que ninguna de estas declaraciones garantiza aceptación — eso lo decide cada aerolínea según sus propios requisitos.` },
+      { type: "p", content: `**Respaldo de reseñas.** Va de {{reviews:MLAU4741185740}} a {{reviews:MLA47160690}} calificaciones entre las cuatro. La Waggs tiene, por lejos, el mayor respaldo de compradores de esta comparativa.` },
+
+      { type: "h2", title: `Comparativa rápida: las 4 frente a frente`, id: "tabla-comparativa" },
+      { type: "table", headers: ["Modelo", "Formato", "Peso soportado", "Para avión", "Ideal para"], rows: [
+        ["[Terrapet](https://meli.la/2baH7tE)", "Maleta rígida", "No declarado", "No menciona", "La mayoría: la más vendida, con puerta de metal"],
+        ["[Waggs](https://meli.la/2JweMVw)", "Mochila cápsula", "Hasta 6,5 kg", "Apta para cabina (sin norma declarada)", "La de mayor respaldo de reseñas"],
+        ["[Skudo 1](https://meli.la/2LQoe3Y)", "Maleta rígida", "Hasta 12 kg", "Ficha declara cumplir requisitos IATA", "Viajar en avión con tu gato"],
+        ["[Jazak](https://meli.la/2aNLzwF)", "Bolso plegable", "No declarado", "No menciona", "Presupuesto ajustado"],
+      ] },
+      { type: "p", content: `El nombre de cada modelo lleva directo a su publicación en MercadoLibre. Abajo está el detalle de las cuatro, en el mismo orden: qué hace bien cada una y dónde se queda corta.` },
+
+      { type: "h2", title: `El ranking`, id: "ranking" },
+
+      { type: "h3", title: `1. Terrapet` },
+      { type: "product-card", productMlaId: "MLAU4741185740", label: "La más vendida", labelColor: "green", ranking: 1, description: "Maleta rígida de plástico con puerta de metal. La más vendida de las cuatro, con {{reviews:MLAU4741185740}} opiniones." },
+      { type: "p", content: `Es el 1° en ventas de su categoría de Bolsos y Transportadoras en MercadoLibre, con {{reviews:MLAU4741185740}} opiniones con {{rating:MLAU4741185740}} de promedio. Es rígida, a prueba de agua, y su puerta es de metal, no de malla de tela.` },
+      { type: "pull-quote", content: `"Me sorprendió mucho por su precio, por la calidad y linda que es. Hoy la usé y fue súper práctica! es más la bestia no pudo escapar!"`, attribution: `Compradora de la Terrapet, calificación 5/5` },
+      { type: "p", content: `ML la cataloga como talle "Pequeño" (48x32 cm), pero otra compradora con un gato grande confirma que entró perfecto. La contra real: no declara peso máximo soportado ni trae alfombra interna.` },
+
+      { type: "h3", title: `2. Waggs` },
+      { type: "product-card", productMlaId: "MLA47160690", label: "La mochila cápsula", labelColor: "blue", ranking: 2, description: "Mochila con burbuja transparente panorámica, hasta 6,5 kg. La de mayor respaldo de reseñas de esta comparativa, con {{reviews:MLA47160690}} opiniones." },
+      { type: "p", content: `Con {{reviews:MLA47160690}} opiniones es, por lejos, la transportadora con más respaldo de compradores de este grupo. Se lleva en la espalda con las manos libres, y su burbuja transparente deja que la mascota vea el paisaje.` },
+      { type: "pull-quote", content: `"Es lo mas me encantó 💕 y al parecer a mi michi también porque estaba curiosa pero tranquila la calidad es muy buena 👌 y es super espacioso."`, attribution: `Compradora de la Waggs, calificación 5/5` },
+      { type: "p", content: `La contra real: soporta hasta 6,5 kg, el límite más bajo declarado de esta comparativa, y su "apta para cabina" es una frase del vendedor sin invocar ninguna norma, a diferencia de la Skudo 1, cuya ficha sí declara cumplir con los requisitos de contenedor de IATA.` },
+
+      { type: "h3", title: `3. Skudo 1` },
+      { type: "product-card", productMlaId: "MLA23491131", label: "Declara cumplir IATA", labelColor: "purple", ranking: 3, description: "Transportadora canil cuya ficha declara cumplir con los requisitos de contenedor de IATA, la única de esta comparativa pensada para viajar en cabina de avión." },
+      { type: "p", content: `Es la **única de esta comparativa cuya ficha declara cumplir con los requisitos de contenedor de IATA** (medidas y construcción). Importante: IATA no certifica marcas ni modelos puntuales, así que es una declaración del vendedor, no un sello oficial, y no garantiza aceptación (cada aerolínea decide). Pesa 1,5 kg y soporta mascotas de hasta 12 kg según el título de su publicación.` },
+      { type: "pull-quote", content: `"Amo! ya lo voy usando 3 veces para transportar a mis mascotas en el auto, y se re acostumbraron, les parece cómodo, entran dos gatos cómodamente, también lo usé caminando es cómodo."`, attribution: `Compradora de la Skudo 1, calificación 5/5` },
+      { type: "p", content: `La contra real: es la más cara de esta comparativa, casi el triple que la más barata. Es también la única cuya ficha invoca un estándar técnico concreto en vez de una frase de marketing genérica.` },
+
+      { type: "h3", title: `4. Jazak` },
+      { type: "product-card", productMlaId: "MLA67568336", label: "La más económica", labelColor: "slate", ranking: 4, description: "Bolso plegable con visor de burbuja transparente. El más económico de esta comparativa." },
+      { type: "p", content: `Es **la opción más barata de esta comparativa** por un buen margen: un bolso de tela plegable, con visor de burbuja transparente, que se lleva a mano o al hombro.` },
+      { type: "pull-quote", content: `"Conforme con el producto, lo que sí estaría bueno que su base sea más dura para que no se doble por el peso, la calidad buenísima, recomendable."`, attribution: `Comprador del bolso Jazak, calificación 4/5` },
+      { type: "p", content: `La contra real: una compradora pide que la base sea más firme para que no se doble con el peso de la mascota. Igual lo recomienda, destacando la buena calidad general.` },
+
+      { type: "h2", title: `Cómo elegir tu transportadora para gatos`, id: "como-elegir" },
+      { type: "h3", title: `1. Si vas a volar, confirmá con tu aerolínea, no solo con el título` },
+      { type: "p", content: `Si vas a viajar en avión con tu gato, la única de esta comparativa cuya ficha invoca los requisitos de contenedor de IATA es la Skudo 1. "Apta para cabina" sin invocar ninguna norma (como dice la Waggs) es más vago. Pero ninguna de las dos reemplaza lo único que realmente importa: confirmar medidas y requisitos con tu aerolínea antes de comprar, porque IATA no certifica marcas ni modelos y cada aerolínea decide por su cuenta.` },
+      { type: "h3", title: `2. Definí el formato según cómo la vas a usar` },
+      { type: "p", content: `Maleta rígida (Terrapet o Skudo) si priorizás seguridad y no te importa el volumen para guardar. Mochila (Waggs) si querés llevarla en la espalda con las manos libres. Bolso (Jazak) si buscás lo más chico y económico para plegar.` },
+      { type: "h3", title: `3. Mirá el peso de tu gato` },
+      { type: "p", content: `Solo la Waggs (hasta 6,5 kg) y la Skudo (hasta 12 kg) declaran un límite de peso explícito. Si tu gato es grande, estas dos fichas te dan un dato concreto para comparar; las otras dos no lo declaran.` },
+
+      { type: "h2", title: `Cuánto cuesta una transportadora para gatos en Argentina`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de {{precio:MLA67568336:k}}:** el [bolso Jazak](https://meli.la/2aNLzwF), la opción más económica.`,
+        `**Alrededor de {{precio:MLA47160690:k}}:** la [mochila Waggs](https://meli.la/2JweMVw), con ventana panorámica.`,
+        `**Alrededor de {{precio:MLAU4741185740:k}}:** la [Terrapet](https://meli.la/2baH7tE), la más vendida.`,
+        `**Alrededor de {{precio:MLA23491131:k}}:** la [Skudo 1](https://meli.la/2LQoe3Y), cuya ficha declara cumplir los requisitos de contenedor de IATA.`,
+      ] },
+
+      { type: "verdict", content: `Para la mayoría, la **Terrapet**: es la más vendida de esta comparativa, rígida y con puerta de metal, sin fallas de calidad recurrentes reportadas. Si buscás el mayor respaldo de reseñas y formato mochila, la **Waggs**, sabiendo que su "apta para cabina" no invoca ninguna norma. Si vas a volar con tu gato, la **Skudo 1**, la única cuya ficha declara cumplir con los requisitos de contenedor de IATA — aunque eso no es una certificación de IATA (que no existe para marcas puntuales) ni garantiza aceptación: cada aerolínea decide, y confirmá siempre antes de viajar. Es además la más cara del grupo. Y si el presupuesto manda, el **bolso Jazak**, entendiendo que una compradora pide una base más firme.` },
+
+      { type: "h2", title: `Preguntas frecuentes`, id: "faq" },
+    ],
+    faq: [
+      { question: `¿Cuál es la mejor transportadora para gatos en Argentina?`, answer: `Por respaldo de ventas, la [Terrapet](/producto/transportadora-rigida-terrapet-puerta-de-metal-para-perros-y-gatos-mlau4741185740): es 1° en su categoría de MercadoLibre, con {{reviews:MLAU4741185740}} opiniones. Es rígida, con puerta de metal, y a prueba de agua.` },
+      { question: `¿Qué transportadora sirve para viajar en avión?`, answer: `Solo la [Skudo 1](/producto/transportadora-canil-skudo-1-ficha-declara-cumplir-requisitos-iata-mla23491131) de esta comparativa declara en su ficha que cumple con los requisitos de contenedor de IATA. La Waggs dice ser "apta para cabina" pero sin invocar ninguna norma. Importante: IATA no certifica ni aprueba marcas o modelos específicos, así que ninguna declaración garantiza aceptación — siempre conviene confirmar medidas y requisitos con la aerolínea antes de viajar.` },
+      { question: `¿Conviene una mochila o una maleta rígida?`, answer: `Depende de cómo la vayas a usar. Una mochila (como la Waggs de esta guía) se lleva en la espalda con las manos libres y tiene ventana panorámica. Una maleta rígida (Terrapet o Skudo) es más segura, con puerta de metal, pero ocupa más espacio para guardar.` },
+      { question: `¿Cuánto peso soportan estas transportadoras?`, answer: `Solo dos de las cuatro lo declaran: la Waggs hasta 6,5 kg, y la Skudo hasta 12 kg según el título de su publicación. La Terrapet y el Jazak no declaran un límite de peso.` },
+      { question: `¿Sirven para gatos grandes?`, answer: `La Terrapet está catalogada como talle "Pequeño" por ML, pero una compradora con un gato grande confirma que entró perfecto. Si tu gato es muy grande o pesado, la Skudo (hasta 12 kg declarados) es la opción con el límite más alto de esta comparativa.` },
+      { question: `¿Hay alguna opción económica?`, answer: `Sí, el [bolso Jazak](/producto/bolso-transportador-jazak-visor-rigido-para-gatos-y-perros-mla67568336) es el más barato de esta comparativa. Una compradora pide que la base sea más firme para mascotas de más peso, aunque igual lo recomienda.` },
+    ],
+    internalLinks: [
+      { label: "Rascador para gatos: cuál comprar", href: "/guias/mascotas/rascador-para-gatos" },
+    ],
+    internalLinksTitle: "Más para tu gato",
   },
 ];
 
