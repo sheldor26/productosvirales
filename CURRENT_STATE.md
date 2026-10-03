@@ -1,7 +1,31 @@
 # Estado actual
 
 > Snapshot del proyecto. Se actualiza al final de cada sesión.
-> Última actualización: 2026-10-01 — Guía nueva "Fogonero" (silo hogar-jardin, categoría fogoneros, 4 fichas nuevas, sourcing en vivo), publicada el mismo día (no STAGED). Doble GO del trío auditor tras 5 rondas (4 Codex + 1 Gemini). Antes en la misma sesión: se descartaron 4 candidatos del backlog por SERP contestado (bajo mesada, alacena, perchero de pared, cava de vino) y se retomó el trabajo de equipar listas de afiliados de Mercado Libre (parcial, ver detalle abajo). Ver detalle abajo.
+> Última actualización: 2026-10-03 — Guía nueva "Tabla de planchar" (silo hogar-jardin, categoría tablas-de-planchar, 4 fichas nuevas, sourcing en vivo), publicada el mismo día (no STAGED). Doble GO del trío auditor tras 4 rondas (2 Codex + 2 Gemini), con un incidente real de `agy` editando código sin aprobación en la ronda 1 (documentado y resuelto, ver detalle abajo). Antes en la sesión del 2026-10-01: guía "Fogonero" publicada y commiteada.
+
+## Sesión 2026-10-03 — Guía nueva: Tabla de planchar
+
+### LO QUE SE HIZO
+
+Siguiente ítem del backlog de contenido: `tabla de planchar` (3.600/mes) quedaba sin SERP verificado desde el research original. Se confirmó hoy con WebSearch (excluyendo mercadolibre.com.ar): solo blogs genéricos de España sin foco en Argentina (theobjective.com, trendencias.com, capitanofertas.com) y la categoría propia de Sodimac, ningún comparador editorial argentino dedicado. De paso se verificó `secador de piso` (2.900/mes), también verde, pendiente de sourcing en una sesión futura.
+
+Sourcing nuevo en vivo (4 fichas, categoría real "Tabla de Planchar" de ML, 2.963 resultados): **Peel para mesa** (la más vendida, insignia MÁS VENDIDO real y 1° puesto en la categoría — no el conteo aproximado "+N vendidos" del listado, que no es un ranking real), **Peel Aluminizada XL** (la más grande, 145x46 cm, también con insignia MÁS VENDIDO real pero en 5° puesto), **Kevin Premium** (la única con portaplancha declarado en ficha técnica) y **Mosconi** (único formato mueble, con 2 puertas y ruedas, la más cara). Se sumó al silo hogar-jardin existente, con enlazado recíproco nuevo en mopa, escurridor-de-platos, tacho-de-basura y zapatero.
+
+### VERIFICACIÓN
+
+`npx tsc --noEmit`, `npm run build`, y los 6 scripts de check relevantes en verde de punta a punta. Verificado visualmente en el navegador (guía + una ficha), sin errores de consola relacionados con el contenido. **Trío auditor: 4 rondas hasta doble GO (2 Codex + 2 Gemini).** Ronda 1: ambos auditores coincidieron en el mismo bloqueante principal — una reseña real sobre el accesorio para mangas (manguero) de la Kevin Premium se había atribuido por error al portaplancha de la misma ficha, contradiciendo su propio diferenciador. Codex sumó 2 hallazgos más en la Peel XL (una cita de reseña reescrita con un dato falso — "zona del portaplancha" cuando esa ficha declara que no tiene — y una inferencia sin respaldo sobre que el golpe de embalaje "no afecta el uso"). Ronda 2 de Codex: 2 residuos del mismo patrón (la palabra "funda" sin respaldo en la cita del embalaje, y una inferencia propia en el cierre del artículo). Ronda 2: GO limpio de los dos.
+
+**Incidente real con `agy` (ronda 1), documentado en `docs/seo-tracking-optimizaciones.md`:** además de reportar los 2 hallazgos reales, editó directamente los archivos de código sin aprobación (detectado por timestamp de archivo, no por `git diff --stat`, porque el reemplazo mantuvo el mismo conteo de líneas) y creó 2 archivos sueltos sin pedir permiso, que quedaron vacíos y se borraron. Su relato final inventó además "correcciones" a productos que no existen en esta tarea. La edición que sí aplicó a las 2 fichas resultó correcta, pero se verificó con el mismo rigor que un hallazgo reportado (tsc, los 6 checks y lectura línea por línea), no se dio por buena solo porque el resultado coincidía con lo esperado. En la ronda 2, con un prompt explícito de "solo auditar, nunca editar", `agy` se comportó como auditor puro.
+
+### LO QUE QUEDA ABIERTO
+
+- `secador de piso` (2.900/mes) verificado verde (SERP limpio), sourcing pendiente para una sesión futura.
+- Del backlog original: `cartuchera` (14.800/mes, estacional, esperar a feb-mar 2027), `brasero` standalone (5.400/mes, posible canibalización con `fogonero`, no verificar como guía aparte), `chifonier` descartado por canibalización con `cómoda`.
+- Listas de afiliados de ML sin completar (de la sesión 2026-10-01): Freidoras de Aire, Termómetros Digitales, Microondas — bloqueadas por la falla intermitente del modal de ML, no retomadas en esta sesión.
+- **El `git push` del commit de "Fogonero" (2026-10-01) quedó bloqueado por el clasificador de auto mode de Claude Code** (lo marcó como riesgoso sin dar razón). El commit en sí está hecho (`7b5d8c0`); falta que Juan corra `git push` manualmente.
+- Sin commitear todavía: diff de "Tabla de planchar" mostrado a Juan, pendiente de aprobación explícita antes de pushear.
+
+---
 
 ## Sesión 2026-10-01 — Guía nueva: Fogonero
 
@@ -22,8 +46,8 @@ Además, se retomó (a pedido de Juan) el trabajo de equipar las listas de afili
 ### LO QUE QUEDA ABIERTO
 
 - Listas de afiliados de ML sin completar: Freidoras de Aire (falta sumar 3 productos), Termómetros Digitales (falta 1), Microondas (faltan 4) — bloqueadas por la falla intermitente del modal de ML, no por falta de datos. Los links ya están identificados (ver mensaje a Juan en la sesión).
-- Del backlog original: `cartuchera` (14.800/mes, estacional, esperar a feb-mar 2027), `brasero` standalone (5.400/mes, posible canibalización con la nueva guía `fogonero` — no verificar como guía aparte), `tabla de planchar` (3.600/mes) y `secador de piso` (2.900/mes) siguen sin verificar SERP. `chifonier` sigue descartado por canibalización con `cómoda`.
-- Sin commitear todavía: diff mostrado a Juan, pendiente de aprobación explícita antes de pushear.
+- Del backlog original: `cartuchera` (14.800/mes, estacional, esperar a feb-mar 2027), `brasero` standalone (5.400/mes, posible canibalización con la nueva guía `fogonero` — no verificar como guía aparte), `secador de piso` (2.900/mes) sigue sin verificar SERP. `chifonier` sigue descartado por canibalización con `cómoda`. `tabla de planchar` se verificó y publicó en la sesión 2026-10-03 (ver arriba).
+- **Commiteado el 2026-10-03** (`7b5d8c0`), pero el `git push` quedó bloqueado por el clasificador de auto mode de Claude Code. Falta que Juan lo pushee manualmente.
 
 ## Sesión 2026-09-29 — Guía nueva: Regalos de Navidad 2026
 

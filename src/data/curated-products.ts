@@ -81739,6 +81739,398 @@ El más completo y el más caro de esta comparativa: trae parrilla y soporte par
     },
   },
 
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva "tabla de planchar" — silo hogar-jardin (existente, con
+  // mopa, escurridor-de-platos, tacho-de-basura, zapatero, mesa-ratona,
+  // cómoda, puff). Origen: backlog 2026-08-15, "tabla de planchar"
+  // 3.600/mes, SERP sin comparador argentino dedicado (verificado con
+  // WebSearch: solo blogs genéricos sin foco AR y páginas de categoría de
+  // retailers como Sodimac). Sourcing en vivo 2026-10-03 (Chrome de Juan,
+  // ML bloquea el navegador interno).
+  // ─────────────────────────────────────────────────────────
+  {
+    id: "MLA1816196586",
+    title: "Tabla De Planchar Para Mesa Con Patas Plegables",
+    canonicalName: "Peel Tabla de Mesa (compacta)",
+    brand: "Peel",
+    price: 28500,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_755882-MLA83771621030_042025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_755882-MLA83771621030_042025-O.webp",
+    ],
+    category: "Hogar, Muebles y Jardín",
+    categorySlug: "hogar-jardin",
+    permalink: "https://articulo.mercadolibre.com.ar/MLA-1816196586-tabla-de-planchar-para-mesa-con-patas-plegables-_JM",
+    affiliateUrl: "https://meli.la/2fZwctU",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 2273,
+    badge: "bestseller",
+    pastelColor: "var(--pastel-green)",
+    specs: [
+      { label: "Marca", value: "Peel" },
+      { label: "Modelo", value: "31.01.68" },
+      { label: "Tipo de tabla", value: "Mesa" },
+      { label: "Largo x Ancho", value: "91 cm x 34 cm" },
+      { label: "Altura", value: "17 cm (fija, 1 sola posición)" },
+      { label: "Peso", value: "3,5 kg" },
+      { label: "Materiales", value: "Caño y madera" },
+      { label: "Con portaplancha", value: "No" },
+      { label: "Condición", value: "Nuevo" },
+      { label: "Vendedor", value: "PEEL, MercadoLíder Platinum, +10 mil ventas" },
+    ],
+    relatedProducts: ["MLA66594085", "MLAU228581681", "MLAU154571276"],
+    priceUpdated: "2026-10-03", priceLastChecked: "2026-10-03", priceStatus: "fresh", reviewsSampledAt: "2026-10-03",
+    description: "Tabla de planchar Peel para mesa, compacta y plegable. Es la más vendida de esta comparativa: insignia MÁS VENDIDO, 1° en Tablas de Planchar de MercadoLibre, {{reviews:MLA1816196586}} calificaciones a {{rating:MLA1816196586}} estrellas.",
+    seoTitle: "Peel Para Mesa: la tabla de planchar más vendida de esta comparativa",
+    metaDescription: "Tabla de planchar Peel para mesa, 1° en Tablas de Planchar de MercadoLibre. {{reviews:MLA1816196586}} opiniones a {{rating:MLA1816196586}} estrellas.",
+    verdict: "Es la tabla de planchar más vendida de esta comparativa, con la insignia MÁS VENDIDO y 1° puesto en la categoría Tablas de Planchar de MercadoLibre: {{reviews:MLA1816196586}} calificaciones reales a {{rating:MLA1816196586}} estrellas, a {{precio:MLA1816196586}}. Mide apenas 91x34 cm y se apoya sobre una mesa, no es de pie ni regulable en altura, ideal para departamentos chicos según varias reseñas reales. La contra real: tiene una sola altura fija de 17 cm y no trae portaplancha.",
+    pros: [
+      "La más vendida de esta comparativa: insignia MÁS VENDIDO, 1° en Tablas de Planchar de MercadoLibre",
+      "{{reviews:MLA1816196586}} calificaciones a {{rating:MLA1816196586}} estrellas, la base más grande de esta comparativa",
+      "La más barata: ocupa muy poco espacio guardada, ideal para departamentos chicos según varias reseñas reales",
+      "Pesa solo 3,5 kg y tiene un gancho para colgar",
+    ],
+    cons: [
+      "Una sola altura fija (17 cm): se apoya sobre una mesa, no es de pie ni regulable",
+      "No trae portaplancha",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace 1 año", useful: 29, text: "Es exelente!! muy práctica hermosa. La recomiendo. No ocupa nada de lugar." },
+    ],
+    articleBody: `## Qué es la tabla Peel para mesa
+
+Es una tabla de planchar compacta que se apoya sobre una mesa, no de pie: mide 91 cm de largo x 34 cm de ancho, con una altura fija de 17 cm. Cuesta {{precio:MLA1816196586}} y es, hoy, la tabla de planchar más vendida de esta comparativa: insignia MÁS VENDIDO y 1° puesto en la categoría Tablas de Planchar de MercadoLibre, con {{reviews:MLA1816196586}} calificaciones a {{rating:MLA1816196586}} estrellas.
+
+## Para quién es
+
+Varias reseñas reales coinciden en el mismo uso: departamentos chicos o espacios reducidos, donde no hay lugar para guardar una tabla de pie. Pesa solo 3,5 kg y tiene un gancho para colgar, así que se guarda fácil.
+
+## Lo que no tiene
+
+No es regulable en altura (una sola posición, 17 cm) y no trae portaplancha. Si necesitás una tabla de pie, con varias alturas, las otras 3 fichas de esta comparativa son para eso.
+
+## El veredicto
+
+La más vendida y la más barata de esta comparativa, ideal si el espacio es el problema. La contra real es que no reemplaza a una tabla de pie regulable.`,
+    faq: [
+      { question: "¿Es la tabla de planchar más vendida de MercadoLibre?", answer: "De esta comparativa sí: tiene la insignia MÁS VENDIDO y el 1° puesto en la categoría Tablas de Planchar." },
+      { question: "¿Se puede regular la altura?", answer: "No, tiene una sola altura fija de 17 cm y se apoya sobre una mesa." },
+      { question: "¿Trae portaplancha?", answer: "No, según su ficha técnica." },
+      { question: "¿De qué está hecha?", answer: "Madera aglomerada con patas de caño, tapizada en tela de algodón con relleno de goma espuma." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Peel Tabla de Mesa (compacta)",
+      image: ["https://http2.mlstatic.com/D_NQ_NP_755882-MLA83771621030_042025-O.webp"],
+      description: "Tabla de planchar Peel para mesa, compacta y plegable, con patas plegables.",
+      brand: { "@type": "Brand", name: "Peel" },
+      offers: {
+        "@type": "Offer",
+        url: "https://articulo.mercadolibre.com.ar/MLA-1816196586-tabla-de-planchar-para-mesa-con-patas-plegables-_JM",
+        priceCurrency: "ARS",
+        price: "28500",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.8",
+        reviewCount: "2273",
+      },
+    },
+  },
+  {
+    id: "MLA66594085",
+    title: "Tabla Planchar Aluminizada Reforzada Plegable Xl Negro Aluminizado Gris",
+    canonicalName: "Peel Aluminizada XL (de pie)",
+    brand: "Peel",
+    price: 93726,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_674608-MLA107900931736_032026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_674608-MLA107900931736_032026-O.webp",
+    ],
+    category: "Hogar, Muebles y Jardín",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA66594085",
+    affiliateUrl: "https://meli.la/1dUFsRe",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 1585,
+    badge: "bestseller",
+    pastelColor: "var(--pastel-blue)",
+    specs: [
+      { label: "Marca", value: "Peel" },
+      { label: "Modelo", value: "31.01.02" },
+      { label: "Tipo de tabla", value: "Plegable, de pie" },
+      { label: "Color", value: "Gris" },
+      { label: "Largo x Ancho", value: "145 cm x 46 cm" },
+      { label: "Peso", value: "8 kg" },
+      { label: "Materiales", value: "Hierro y madera" },
+      { label: "Cantidad de posiciones", value: "5" },
+      { label: "Altura máxima", value: "84 cm" },
+      { label: "Con portaplancha", value: "No" },
+      { label: "Condición", value: "Nuevo" },
+      { label: "Vendedor", value: "PEEL, MercadoLíder Platinum, +10 mil ventas" },
+    ],
+    relatedProducts: ["MLA1816196586", "MLAU228581681", "MLAU154571276"],
+    priceUpdated: "2026-10-03", priceLastChecked: "2026-10-03", priceStatus: "fresh", reviewsSampledAt: "2026-10-03",
+    description: "Tabla de planchar Peel Aluminizada XL, de pie y regulable en 5 posiciones de altura. Es la más grande de esta comparativa (145x46 cm): {{reviews:MLA66594085}} opiniones a {{rating:MLA66594085}} estrellas.",
+    seoTitle: "Peel Aluminizada XL: la tabla de planchar más grande de esta comparativa",
+    metaDescription: "Tabla de planchar Peel XL de pie, 145x46 cm y 5 posiciones de altura. {{reviews:MLA66594085}} opiniones a {{rating:MLA66594085}} estrellas.",
+    verdict: "Es la tabla de planchar más grande de esta comparativa: 145 cm de largo x 46 cm de ancho, de pie, regulable en 5 posiciones hasta 84 cm de altura, a {{precio:MLA66594085}}. Insignia MÁS VENDIDO (5° en Tablas de Planchar de MercadoLibre), {{reviews:MLA66594085}} calificaciones reales a {{rating:MLA66594085}} estrellas. La contra real, que más de una reseña repite: suele llegar abollada en la parte donde va la plancha por un embalaje flojo; la compradora que lo reportó no la devolvió porque la necesitaba, pero conviene revisarla al recibirla.",
+    pros: [
+      "La más grande de esta comparativa: 145x46 cm, ideal para sábanas y prendas grandes",
+      "5 posiciones de altura, hasta 84 cm, regulable para distintas estaturas",
+      "{{reviews:MLA66594085}} calificaciones a {{rating:MLA66594085}} estrellas",
+      "Insignia MÁS VENDIDO, 5° en Tablas de Planchar de MercadoLibre",
+    ],
+    cons: [
+      "Más de una reseña real reporta que llega abollada en la parte donde va la plancha por el embalaje",
+      "No trae portaplancha, según su ficha técnica",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace 1 año", useful: 14, text: "La tabla es robusta, tamaño ideal para mí, que plancho sabanas king. Fácil de armar y de regular la altura. Lo que es una pena (y lo vi en otros comentarios) es que no la empaquen debidamente, entonces llega abollada la parte donde va la plancha. No la devolví porque la necesitaba." },
+    ],
+    articleBody: `## Qué es la tabla Peel Aluminizada XL
+
+Es una tabla de planchar de pie, plegable, con la superficie más grande de esta comparativa: 145 cm de largo x 46 cm de ancho, regulable en 5 posiciones de altura hasta 84 cm. Cuesta {{precio:MLA66594085}}, con insignia MÁS VENDIDO (5° en Tablas de Planchar de MercadoLibre) y {{reviews:MLA66594085}} calificaciones a {{rating:MLA66594085}} estrellas.
+
+## Para sábanas y prendas grandes
+
+Según una reseña real, es "ideal para mí, que plancho sábanas king". El tamaño XL (145x46 cm) la distingue de las otras 3 fichas de esta comparativa, todas más chicas.
+
+## El problema del embalaje
+
+Más de una reseña real coincide en el mismo detalle: llega abollada en la parte donde va la plancha porque el vendedor no la empaqueta lo suficientemente protegida. Según una de esas reseñas, igual no la devolvió porque la necesitaba, pero conviene revisarla bien al recibirla.
+
+## El veredicto
+
+La más grande y una de las mejor calificadas de esta comparativa. La contra real es que puede llegar golpeada por un embalaje flojo, según más de una reseña.`,
+    faq: [
+      { question: "¿Es la tabla de planchar más grande de esta comparativa?", answer: "Sí, 145 cm de largo x 46 cm de ancho, la más grande de las 4." },
+      { question: "¿Cuántas posiciones de altura tiene?", answer: "5, hasta un máximo de 84 cm." },
+      { question: "¿Llega bien embalada?", answer: "Más de una reseña real reporta que llega abollada en la parte donde va la plancha por un embalaje flojo. Conviene revisarla bien al recibirla." },
+      { question: "¿Trae portaplancha?", answer: "No, según su ficha técnica." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Peel Aluminizada XL (de pie)",
+      image: ["https://http2.mlstatic.com/D_NQ_NP_674608-MLA107900931736_032026-O.webp"],
+      description: "Tabla de planchar Peel Aluminizada XL, de pie, plegable, 5 posiciones de altura.",
+      brand: { "@type": "Brand", name: "Peel" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/p/MLA66594085",
+        priceCurrency: "ARS",
+        price: "93726",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.7",
+        reviewCount: "1585",
+      },
+    },
+  },
+  {
+    id: "MLAU228581681",
+    title: "Tabla De Planchar Metalizada Premium 4 Posiciones Kevin",
+    canonicalName: "Kevin Metalizada Premium (con portaplancha)",
+    brand: "Kevin",
+    price: 72415,
+    originalPrice: 108999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_629574-MLA110450341946_052026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_629574-MLA110450341946_052026-O.webp",
+    ],
+    category: "Hogar, Muebles y Jardín",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/tabla-de-planchar-metalizada-premium-4-posiciones-kevin/up/MLAU228581681",
+    affiliateUrl: "https://meli.la/2Ua7mtU",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.6,
+    reviewCount: 1546,
+    pastelColor: "var(--pastel-purple)",
+    specs: [
+      { label: "Marca", value: "Kevin" },
+      { label: "Modelo", value: "4 Posiciones Premium" },
+      { label: "Tipo de tabla", value: "De pie" },
+      { label: "Color", value: "Gris Metalizado" },
+      { label: "Peso", value: "7 kg" },
+      { label: "Materiales", value: "Madera" },
+      { label: "Con portaplancha", value: "Sí" },
+      { label: "Con estructura reforzada", value: "Sí" },
+      { label: "Cantidad de posiciones", value: "4" },
+      { label: "Altura máxima", value: "90 cm" },
+      { label: "Condición", value: "Nuevo" },
+      { label: "Vendedor", value: "Tienda oficial Hogar Pack, MercadoLíder Platinum, +10 mil ventas" },
+    ],
+    relatedProducts: ["MLA1816196586", "MLA66594085", "MLAU154571276"],
+    priceUpdated: "2026-10-03", priceLastChecked: "2026-10-03", priceStatus: "fresh", reviewsSampledAt: "2026-10-03",
+    description: "Tabla de planchar Kevin Premium, metalizada, con portaplancha incorporado. Es la única de esta comparativa con bandeja para apoyar la plancha: {{reviews:MLAU228581681}} opiniones a {{rating:MLAU228581681}} estrellas.",
+    seoTitle: "Kevin Premium: la única tabla de planchar con portaplancha de esta comparativa",
+    metaDescription: "Tabla de planchar Kevin Premium metalizada, con portaplancha y 4 posiciones de altura. {{reviews:MLAU228581681}} opiniones a {{rating:MLAU228581681}} estrellas.",
+    verdict: "Es la única tabla de planchar de esta comparativa con portaplancha incorporado: una bandeja lateral para apoyar la plancha, a {{precio:MLAU228581681}}, con 33% de descuento sobre el precio de lista según la publicación. Funda metalizada, 4 posiciones de altura hasta 90 cm, la más alta de esta comparativa. {{reviews:MLAU228581681}} calificaciones reales a {{rating:MLAU228581681}} estrellas. La contra real, que una reseña describe con precisión: el accesorio para planchar mangas (manguero) no queda fijo, hay que sostenerlo con la mano mientras se plancha.",
+    pros: [
+      "La única de esta comparativa con portaplancha incorporado",
+      "4 posiciones de altura, hasta 90 cm, la más alta de esta comparativa",
+      "Funda metalizada que, según el vendedor, refleja el calor",
+      "{{reviews:MLAU228581681}} calificaciones a {{rating:MLAU228581681}} estrellas, vendida por tienda oficial",
+    ],
+    cons: [
+      "Según una reseña real, el accesorio para mangas (manguero) no queda fijo: hay que sostenerlo con la mano mientras se plancha",
+      "Es de estructura de madera, no aluminizada como la Peel XL",
+    ],
+    customerReviews: [
+      { rating: 4, country: "Argentina", date: "hace 1 año", useful: 8, text: "Es una tabla estable y no muy pesada para levantar. El elemento para planchar las mangas no queda fijo. Tengo que sostenerlo mientras plancho." },
+    ],
+    articleBody: `## Qué es la tabla Kevin Premium
+
+Es una tabla de planchar de pie, con funda metalizada, portaplancha incorporado (una bandeja lateral para apoyar la plancha mientras no se usa) y accesorio para mangas (manguero). Cuesta {{precio:MLAU228581681}}, con 33% de descuento sobre el precio de lista según la publicación. Vendida por la tienda oficial Hogar Pack, con {{reviews:MLAU228581681}} calificaciones a {{rating:MLAU228581681}} estrellas.
+
+## El portaplancha y el manguero
+
+Es la única de esta comparativa que declara portaplancha en su ficha técnica. Trae además un accesorio para planchar mangas (manguero), pero una reseña real avisa que este último "no queda fijo": hay que sostenerlo con la mano mientras se plancha.
+
+## 4 posiciones de altura
+
+Se regula en 4 posiciones, hasta un máximo de 90 cm, la más alta de esta comparativa. El vendedor promete "ahorrar 50% del tiempo" gracias a la funda metalizada que refleja el calor, aunque esa cifra es marketing del vendedor, no un dato verificado de forma independiente.
+
+## El veredicto
+
+La única con portaplancha de esta comparativa y la que más alto se regula, pero con una contra real: el accesorio para mangas (manguero) no queda fijo según una reseña real.`,
+    faq: [
+      { question: "¿Trae portaplancha?", answer: "Sí, es la única de esta comparativa que lo declara en su ficha técnica. Trae además un accesorio para mangas (manguero), aunque una reseña real avisa que este último no queda fijo del todo." },
+      { question: "¿Cuántas posiciones de altura tiene?", answer: "4, hasta un máximo de 90 cm, la más alta de esta comparativa." },
+      { question: "¿Es verdad que ahorra 50% del tiempo de planchado?", answer: "Es una cifra que promete el vendedor en la descripción, no un dato verificado de forma independiente." },
+      { question: "¿De qué está hecha?", answer: "Estructura de madera con funda metalizada." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Kevin Metalizada Premium (con portaplancha)",
+      image: ["https://http2.mlstatic.com/D_NQ_NP_629574-MLA110450341946_052026-O.webp"],
+      description: "Tabla de planchar Kevin Premium, metalizada, con portaplancha incorporado y 4 posiciones de altura.",
+      brand: { "@type": "Brand", name: "Kevin" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/tabla-de-planchar-metalizada-premium-4-posiciones-kevin/up/MLAU228581681",
+        priceCurrency: "ARS",
+        price: "72415",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.6",
+        reviewCount: "1546",
+      },
+    },
+  },
+  {
+    id: "MLAU154571276",
+    title: "Mueble Organizador De Planchado Mosconi Tabla De Planchar",
+    canonicalName: "Mosconi Mueble Organizador (con guardado)",
+    brand: "Mosconi",
+    price: 119990,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_827292-MLA51781830608_092022-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_827292-MLA51781830608_092022-O.webp",
+    ],
+    category: "Hogar, Muebles y Jardín",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/mueble-organizador-de-planchado-mosconi-tabla-de-planchar/up/MLAU154571276",
+    affiliateUrl: "https://meli.la/2KRovfw",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 113,
+    pastelColor: "var(--pastel-violet)",
+    specs: [
+      { label: "Marca", value: "Mosconi" },
+      { label: "Modelo", value: "Estándar" },
+      { label: "Color", value: "Blanco" },
+      { label: "Material", value: "Melamina" },
+      { label: "Cantidad de puertas", value: "2" },
+      { label: "Cantidad de cajones", value: "0" },
+      { label: "Con ruedas", value: "Sí" },
+      { label: "Requiere ensamblado", value: "Sí" },
+      { label: "Es plegable", value: "Sí (la superficie de planchado)" },
+      { label: "Ancho x Largo", value: "36 cm x 88 cm" },
+      { label: "Condición", value: "Nuevo" },
+      { label: "Vendedor", value: "Tienda oficial LEJAIM COLCHONES Y MUEBLES" },
+    ],
+    relatedProducts: ["MLA1816196586", "MLA66594085", "MLAU228581681"],
+    priceUpdated: "2026-10-03", priceLastChecked: "2026-10-03", priceStatus: "fresh", reviewsSampledAt: "2026-10-03",
+    description: "Mueble organizador Mosconi con tabla de planchar plegable integrada, 2 puertas y ruedas. Es la única de esta comparativa en formato mueble, con espacio de guardado: {{reviews:MLAU154571276}} opiniones a {{rating:MLAU154571276}} estrellas.",
+    seoTitle: "Mosconi: el único mueble organizador con tabla de planchar de esta comparativa",
+    metaDescription: "Mueble organizador Mosconi con tabla de planchar plegable, 2 puertas y ruedas. {{reviews:MLAU154571276}} opiniones a {{rating:MLAU154571276}} estrellas.",
+    verdict: "Es la única de esta comparativa en formato mueble, no solo tabla: un carrito con ruedas, 2 puertas de guardado y una superficie de planchado plegable arriba, a {{precio:MLAU154571276}}, la más cara de las 4. {{reviews:MLAU154571276}} calificaciones reales a {{rating:MLAU154571276}} estrellas. La contra real, que una reseña real confirma: requiere armado (un par de horas según esa reseña) y las manijas pueden llegar de un tamaño distinto al de los orificios.",
+    pros: [
+      "La única de esta comparativa en formato mueble: suma guardado (2 puertas) a la tabla de planchar",
+      "Con ruedas, se traslada sin levantarla",
+      "{{reviews:MLAU154571276}} calificaciones a {{rating:MLAU154571276}} estrellas",
+      "La superficie de planchado se pliega hacia adentro cuando no se usa",
+    ],
+    cons: [
+      "Requiere armado: según una reseña real, lleva un par de horas",
+      "Una reseña real reportó que las manijas llegaron de un tamaño distinto al de los orificios",
+      "Es la más cara de esta comparativa",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace 1 año", useful: 1, text: "Cómo todo mueble para armar lleva un par de horas, un consejo: atornillar primero los dos tornillos a la tabla y luego anclar al mueble. Las manijas vinieron de otro tamaño a los orificios." },
+    ],
+    articleBody: `## Qué es el mueble Mosconi
+
+No es solo una tabla: es un carrito organizador con ruedas, 2 puertas de guardado abajo y una superficie de planchado plegable arriba. Mide 88 cm de largo x 36 cm de ancho, de melamina blanca. Cuesta {{precio:MLAU154571276}}, la más cara de esta comparativa, con {{reviews:MLAU154571276}} calificaciones a {{rating:MLAU154571276}} estrellas.
+
+## Para qué sirve el espacio de guardado
+
+Las 2 puertas de abajo guardan ropa para planchar, productos de limpieza o lo que haga falta, algo que ninguna tabla simple de esta comparativa ofrece. Tiene ruedas, así que se traslada de ambiente en ambiente sin levantarlo.
+
+## El armado, la parte que hay que saber
+
+Requiere ensamblado. Según una reseña real, "lleva un par de horas", con un consejo útil: atornillar primero los tornillos a la tabla y después anclar al mueble. La misma reseña avisa que las manijas llegaron de un tamaño distinto al de los orificios.
+
+## El veredicto
+
+El único formato mueble de esta comparativa, con guardado real además de la tabla de planchar. La contra real es el armado (un par de horas) y el precio, el más alto de las 4.`,
+    faq: [
+      { question: "¿Es solo una tabla de planchar?", answer: "No, es un mueble organizador con 2 puertas de guardado abajo y ruedas, además de la superficie de planchado plegable arriba." },
+      { question: "¿Cuánto tarda el armado?", answer: "Según una reseña real, un par de horas. El mismo comprador recomienda atornillar primero los tornillos a la tabla y después anclar al mueble." },
+      { question: "¿De qué material es?", answer: "Melamina blanca." },
+      { question: "¿Tiene ruedas?", answer: "Sí, se traslada sin levantarlo." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Mosconi Mueble Organizador (con guardado)",
+      image: ["https://http2.mlstatic.com/D_NQ_NP_827292-MLA51781830608_092022-O.webp"],
+      description: "Mueble organizador Mosconi con tabla de planchar plegable, 2 puertas de guardado y ruedas.",
+      brand: { "@type": "Brand", name: "Mosconi" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/mueble-organizador-de-planchado-mosconi-tabla-de-planchar/up/MLAU154571276",
+        priceCurrency: "ARS",
+        price: "119990",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.7",
+        reviewCount: "113",
+      },
+    },
+  },
+
   // ─── Silo de verano: piletas (sourcing Bright Data 2026-08-13) ───
   // Sin rating/reviewCount: el scraper puntual no devuelve el agregado de ML.
   // Los completa la proxima corrida del workflow de precios. No se inventan.

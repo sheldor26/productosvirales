@@ -27422,6 +27422,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { label: "Conservadora: cuál comprar en Argentina", href: "/guias/hogar-jardin/conservadora" },
       { label: "Tacho de basura: cuál comprar en Argentina", href: "/guias/hogar-jardin/tacho-de-basura" },
       { label: "Tupper: cuál comprar en Argentina", href: "/guias/hogar-jardin/tupper" },
+      { label: "Tabla de planchar: cuál comprar en Argentina", href: "/guias/hogar-jardin/tabla-planchar" },
       { label: "Ver toda la categoría Hogar y Jardín", href: "/categoria/hogar-jardin" },
     ],
     internalLinksTitle: "Más de hogar y jardín",
@@ -27543,6 +27544,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { label: "Lámpara de pie: cuál comprar en Argentina", href: "/guias/hogar-jardin/lampara-de-pie" },
       { label: "Mesa ratona: cuál comprar en Argentina", href: "/guias/hogar-jardin/mesa-ratona" },
       { label: "Tupper: cuál comprar en Argentina", href: "/guias/hogar-jardin/tupper" },
+      { label: "Tabla de planchar: cuál comprar en Argentina", href: "/guias/hogar-jardin/tabla-planchar" },
     ],
     internalLinksTitle: "Más de hogar y jardín",
   },
@@ -27786,6 +27788,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { label: "Tacho de basura: cuál comprar en Argentina", href: "/guias/hogar-jardin/tacho-de-basura" },
       { label: "Zapatero: cuál comprar en Argentina", href: "/guias/hogar-jardin/zapatero" },
       { label: "Mesa ratona: cuál comprar en Argentina", href: "/guias/hogar-jardin/mesa-ratona" },
+      { label: "Tabla de planchar: cuál comprar en Argentina", href: "/guias/hogar-jardin/tabla-planchar" },
     ],
     internalLinksTitle: "Más de hogar y jardín",
   },
@@ -28146,6 +28149,124 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { label: "Mesa ratona: cuál comprar en Argentina", href: "/guias/hogar-jardin/mesa-ratona" },
       { label: "Puff: cuál comprar en Argentina", href: "/guias/hogar-jardin/puff" },
       { label: "Tacho de basura: cuál comprar en Argentina", href: "/guias/hogar-jardin/tacho-de-basura" },
+      { label: "Tabla de planchar: cuál comprar en Argentina", href: "/guias/hogar-jardin/tabla-planchar" },
+    ],
+    internalLinksTitle: "Más de hogar y jardín",
+  },
+  // Guía nueva tabla-planchar — silo hogar-jardin (existente, con mopa,
+  // escurridor-de-platos, tacho-de-basura, zapatero). Origen: backlog
+  // 2026-08-15, "tabla de planchar" 3.600/mes, SERP sin comparador
+  // argentino dedicado (verificado con WebSearch el 2026-10-03: solo
+  // blogs genéricos sin foco AR y páginas de categoría de retailers).
+  // 4 fichas nuevas, sourcing en vivo el 2026-10-03.
+  {
+    slug: "tabla-planchar",
+    category: "tablas-de-planchar",
+    silo: "hogar-jardin",
+    pillar: true,
+    title: `Tabla de planchar: cuál comprar en Argentina [2026]`,
+    seoTitle: `Tabla de Planchar: Cuál Comprar en Argentina [2026]`,
+    metaDescription: `Comparamos 4 tablas de planchar reales de MercadoLibre: la más vendida, la más grande, la única con portaplancha y la única en formato mueble.`,
+    ogTitle: `Tabla de planchar: cuál comprar en Argentina`,
+    ogDescription: `De la compacta de mesa a la que viene con mueble organizador: 4 tablas de planchar comparadas por insignias reales de venta, tamaño y reseñas, con las contras honestas de cada una.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_755882-MLA83771621030_042025-O.webp`,
+    h1: `Tabla de planchar: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene la **[Peel para mesa](/producto/tabla-de-planchar-para-mesa-con-patas-plegables-mla1816196586)** (alrededor de {{precio:MLA1816196586:k}}): la más vendida de esta comparativa, con insignia MÁS VENDIDO y {{reviews:MLA1816196586}} opiniones. Si necesitás una tabla de pie, grande, para sábanas y prendas grandes, la **[Peel Aluminizada XL](/producto/tabla-planchar-aluminizada-reforzada-plegable-xl-negro-aluminizado-gris-mla66594085)** (alrededor de {{precio:MLA66594085:k}}). Si te importa tener dónde apoyar la plancha, la **[Kevin Premium](/producto/tabla-de-planchar-metalizada-premium-4-posiciones-kevin-mlau228581681)** (alrededor de {{precio:MLAU228581681:k}}), la única con portaplancha. Y si buscás guardado además de la tabla, el **[mueble Mosconi](/producto/mueble-organizador-de-planchado-mosconi-tabla-de-planchar-mlau154571276)** (alrededor de {{precio:MLAU154571276:k}}), con 2 puertas y ruedas.`,
+    publishedDate: "2026-10-03",
+    updatedDate: "2026-10-03",
+    hasDisclosure: true,
+    readingTime: 7,
+    standfirst: `Hay tablas de planchar desde {{precio:MLA1816196586:k}} hasta {{precio:MLAU154571276:k}}, desde una compacta de mesa hasta un mueble organizador con guardado. Comparamos 4 publicaciones con respaldo real de compradores de MercadoLibre Argentina, con las contras que no siempre cuentan.`,
+    quickPicks: [
+      { productMlaId: "MLA1816196586", label: "La más vendida", labelColor: "green", tagline: "Peel para mesa: insignia MÁS VENDIDO, compacta" },
+      { productMlaId: "MLA66594085", label: "La más grande", labelColor: "blue", tagline: "Peel Aluminizada XL: de pie, 145x46 cm, 5 alturas" },
+      { productMlaId: "MLAU228581681", label: "Con portaplancha", labelColor: "purple", tagline: "Kevin Premium: la única con bandeja para la plancha" },
+      { productMlaId: "MLAU154571276", label: "Con mueble", labelColor: "slate", tagline: "Mosconi: mueble organizador con 2 puertas y ruedas" },
+    ],
+    intro: [
+      `Elegir una tabla de planchar parece trivial hasta que hay que decidir entre formatos muy distintos: la compacta que se apoya sobre una mesa, la de pie regulable en altura, o directamente un mueble con guardado incorporado. Cada una resuelve una necesidad distinta de espacio.`,
+      `Esta guía compara 4 tablas de planchar con respaldo real de compradores en MercadoLibre Argentina, con las contras honestas de cada una.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_755882-MLA83771621030_042025-O.webp", alt: `Tabla de planchar Peel para mesa, la más vendida de esta comparativa`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría conviene la **Peel para mesa**, la más vendida con insignia MÁS VENDIDO. Si necesitás una tabla de pie grande, la **Peel Aluminizada XL**. Para tener dónde apoyar la plancha, la **Kevin Premium**, la única con portaplancha. Y si buscás guardado además de la tabla, el **mueble Mosconi**.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** analizamos 4 tablas de planchar con ventas y calificaciones reales en la categoría Tablas de Planchar de MercadoLibre Argentina, mirando formato, tamaño y qué dicen las reseñas de compradores reales, con las contras incluidas. Los precios que ves en las fichas y tablas se revisan contra MercadoLibre tres veces por semana.` },
+
+      { type: "h2", title: `Qué mirar antes de comprar una tabla de planchar`, id: "que-mirar" },
+      { type: "p", content: `**Formato: de mesa, de pie o mueble.** La de mesa (como la Peel compacta) se apoya sobre una superficie y no ocupa espacio propio de pie; la de pie, regulable en altura, es la más común; el formato mueble suma guardado pero también es la más grande de almacenar y la más cara.` },
+      { type: "p", content: `**¿Necesitás portaplancha?** De las 4 fichas de esta comparativa, solo la Kevin Premium lo declara en su ficha técnica. También trae un accesorio para planchar mangas (manguero), aunque una reseña real avisa que ese accesorio no queda del todo firme.` },
+      { type: "p", content: `**El espacio disponible.** Si vivís en un departamento chico, la tabla de mesa resuelve sin ocupar lugar de pie. Si tenés más espacio y planchás sábanas o prendas grandes, una tabla XL de pie rinde mejor.` },
+
+      { type: "h2", title: `El ranking: las 4 que comparamos`, id: "ranking" },
+
+      { type: "h3", title: `1. Peel para mesa — la más vendida` },
+      { type: "product-card", productMlaId: "MLA1816196586", label: "La más vendida", labelColor: "green", ranking: 1, description: `Tabla compacta de mesa, 91x34 cm, altura fija de 17 cm. {{rating:MLA1816196586}} estrellas en {{reviews:MLA1816196586}} calificaciones, insignia MÁS VENDIDO.` },
+      { type: "pull-quote", content: `Es exelente!! muy práctica hermosa. La recomiendo. No ocupa nada de lugar.`, attribution: `— Compradora verificada en MercadoLibre` },
+      { type: "p", content: `Tiene la insignia MÁS VENDIDO y el 1° puesto en la categoría Tablas de Planchar de MercadoLibre: {{reviews:MLA1816196586}} calificaciones a {{rating:MLA1816196586}} estrellas, la base más grande de esta comparativa. Cuesta alrededor de {{precio:MLA1816196586:k}}, la más barata de las 4.` },
+      { type: "p", content: `Lo honesto: tiene una sola altura fija (17 cm) y no trae portaplancha. Si necesitás una tabla de pie regulable, mirá las otras 3 fichas de esta comparativa.` },
+
+      { type: "h3", title: `2. Peel Aluminizada XL — la más grande` },
+      { type: "product-card", productMlaId: "MLA66594085", label: "La más grande", labelColor: "blue", ranking: 2, description: `Tabla de pie, 145x46 cm, 5 posiciones de altura hasta 84 cm. {{rating:MLA66594085}} estrellas en {{reviews:MLA66594085}} calificaciones.` },
+      { type: "pull-quote", content: `La tabla es robusta, tamaño ideal para mí, que plancho sabanas king. Fácil de armar y de regular la altura.`, attribution: `— Compradora verificada en MercadoLibre` },
+      { type: "p", content: `Es la más grande de esta comparativa, de pie y regulable en 5 posiciones hasta 84 cm, a alrededor de {{precio:MLA66594085:k}}. Insignia MÁS VENDIDO (5° en la categoría), {{reviews:MLA66594085}} calificaciones a {{rating:MLA66594085}} estrellas.` },
+      { type: "p", content: `Lo honesto: más de una reseña real reporta que llega abollada en la parte donde va la plancha por un embalaje flojo.` },
+
+      { type: "h3", title: `3. Kevin Premium — con portaplancha` },
+      { type: "product-card", productMlaId: "MLAU228581681", label: "Con portaplancha", labelColor: "purple", ranking: 3, description: `Tabla de pie metalizada, 4 posiciones hasta 90 cm, con portaplancha incorporado. {{rating:MLAU228581681}} estrellas en {{reviews:MLAU228581681}} calificaciones.` },
+      { type: "pull-quote", content: `Es una tabla estable y no muy pesada para levantar. El elemento para planchar las mangas no queda fijo. Tengo que sostenerlo mientras plancho.`, attribution: `— Comprador verificado en MercadoLibre` },
+      { type: "p", content: `Es la única de esta comparativa con portaplancha incorporado, a alrededor de {{precio:MLAU228581681:k}} (33% de descuento sobre el precio de lista según la publicación). 4 posiciones de altura hasta 90 cm, la más alta de las 4.` },
+      { type: "p", content: `Lo honesto: según una reseña real, el accesorio para mangas (manguero) no queda del todo firme, hay que sostenerlo con la mano mientras se plancha.` },
+
+      { type: "h3", title: `4. Mosconi — con mueble` },
+      { type: "product-card", productMlaId: "MLAU154571276", label: "Con mueble", labelColor: "slate", ranking: 4, description: `Mueble organizador con tabla de planchar plegable, 2 puertas y ruedas. {{rating:MLAU154571276}} estrellas en {{reviews:MLAU154571276}} calificaciones.` },
+      { type: "pull-quote", content: `Cómo todo mueble para armar lleva un par de horas, un consejo: atornillar primero los dos tornillos a la tabla y luego anclar al mueble.`, attribution: `— Compradora verificada en MercadoLibre` },
+      { type: "p", content: `Es la única de esta comparativa en formato mueble: suma 2 puertas de guardado y ruedas a la tabla de planchar, a alrededor de {{precio:MLAU154571276:k}}, la más cara de las 4.` },
+      { type: "p", content: `Lo honesto: requiere armado (un par de horas según una reseña real) y una reseña real reportó que las manijas llegaron de un tamaño distinto al de los orificios.` },
+
+      { type: "h2", title: `Tabla comparativa: tablas de planchar`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Formato`, `Portaplancha`, `Ideal para`], rows: [
+        [`[Peel para mesa](https://meli.la/2fZwctU)`, `{{precio:MLA1816196586}}`, `Mesa`, `No`, `La más vendida`],
+        [`[Peel Aluminizada XL](https://meli.la/1dUFsRe)`, `{{precio:MLA66594085}}`, `De pie`, `No`, `La más grande`],
+        [`[Kevin Premium](https://meli.la/2Ua7mtU)`, `{{precio:MLAU228581681}}`, `De pie`, `Sí`, `Con portaplancha`],
+        [`[Mosconi](https://meli.la/2KRovfw)`, `{{precio:MLAU154571276}}`, `Mueble`, `No`, `Con guardado`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu tabla de planchar`, id: "como-elegir" },
+      { type: "h3", title: `1. ¿Tenés poco espacio?` },
+      { type: "p", content: `Si vivís en un departamento chico, la [Peel para mesa](/producto/tabla-de-planchar-para-mesa-con-patas-plegables-mla1816196586) resuelve sin ocupar lugar de pie: se apoya sobre cualquier mesa y se guarda con un gancho.` },
+      { type: "h3", title: `2. ¿Planchás sábanas o prendas grandes?` },
+      { type: "p", content: `La [Peel Aluminizada XL](/producto/tabla-planchar-aluminizada-reforzada-plegable-xl-negro-aluminizado-gris-mla66594085) es la única pensada para eso: 145x46 cm de superficie, la más grande de esta comparativa.` },
+      { type: "h3", title: `3. ¿Te importa tener dónde apoyar la plancha?` },
+      { type: "p", content: `La [Kevin Premium](/producto/tabla-de-planchar-metalizada-premium-4-posiciones-kevin-mlau228581681) es la única con portaplancha declarado en su ficha técnica, aunque el accesorio para mangas que también trae no queda del todo firme según una reseña real.` },
+      { type: "h3", title: `4. ¿Buscás guardado además de la tabla?` },
+      { type: "p", content: `El [mueble Mosconi](/producto/mueble-organizador-de-planchado-mosconi-tabla-de-planchar-mlau154571276) suma 2 puertas y ruedas, pero es la más cara de esta comparativa y requiere armado.` },
+
+      { type: "h2", title: `Cuánto cuesta una tabla de planchar en Argentina [octubre 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de {{precio:MLA1816196586:k}}:** la [Peel para mesa](/producto/tabla-de-planchar-para-mesa-con-patas-plegables-mla1816196586), la más barata y más vendida de esta guía.`,
+        `**Alrededor de {{precio:MLA66594085:k}}:** la [Peel Aluminizada XL](/producto/tabla-planchar-aluminizada-reforzada-plegable-xl-negro-aluminizado-gris-mla66594085), de pie y la más grande.`,
+        `**Alrededor de {{precio:MLAU228581681:k}}:** la [Kevin Premium](/producto/tabla-de-planchar-metalizada-premium-4-posiciones-kevin-mlau228581681), con portaplancha.`,
+        `**Alrededor de {{precio:MLAU154571276:k}}:** el [mueble Mosconi](/producto/mueble-organizador-de-planchado-mosconi-tabla-de-planchar-mlau154571276), la más cara y con guardado.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál tabla de planchar comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la mayoría, la **[Peel para mesa](/producto/tabla-de-planchar-para-mesa-con-patas-plegables-mla1816196586)**: la más vendida, la más barata y la que menos espacio ocupa, aunque no es regulable en altura. Si planchás sábanas o prendas grandes, la **[Peel Aluminizada XL](/producto/tabla-planchar-aluminizada-reforzada-plegable-xl-negro-aluminizado-gris-mla66594085)**, de pie y la más grande, con la salvedad de que puede llegar abollada por el embalaje. Si te importa tener dónde apoyar la plancha, la **[Kevin Premium](/producto/tabla-de-planchar-metalizada-premium-4-posiciones-kevin-mlau228581681)**, sabiendo que el accesorio para mangas no queda del todo firme. Y si buscás guardado además de la tabla, el **[mueble Mosconi](/producto/mueble-organizador-de-planchado-mosconi-tabla-de-planchar-mlau154571276)**, el más caro de los 4 y el que más trabajo de armado lleva.` },
+    ],
+    faq: [
+      { question: `¿Cuál es la tabla de planchar más vendida de MercadoLibre Argentina?`, answer: `De esta comparativa, la [Peel para mesa](/producto/tabla-de-planchar-para-mesa-con-patas-plegables-mla1816196586): tiene la insignia MÁS VENDIDO y el 1° puesto en la categoría Tablas de Planchar, con {{reviews:MLA1816196586}} opiniones.` },
+      { question: `¿Cuál es la tabla de planchar más grande de esta comparativa?`, answer: `La [Peel Aluminizada XL](/producto/tabla-planchar-aluminizada-reforzada-plegable-xl-negro-aluminizado-gris-mla66594085), de 145x46 cm, de pie y regulable en 5 posiciones hasta 84 cm.` },
+      { question: `¿Alguna tabla de planchar trae portaplancha?`, answer: `Sí, la [Kevin Premium](/producto/tabla-de-planchar-metalizada-premium-4-posiciones-kevin-mlau228581681) es la única de esta comparativa que lo declara en su ficha técnica. También trae un accesorio para mangas (manguero), aunque una reseña real avisa que ese accesorio no queda del todo firme.` },
+      { question: `¿Hay alguna opción con mueble o guardado?`, answer: `Sí, el [mueble organizador Mosconi](/producto/mueble-organizador-de-planchado-mosconi-tabla-de-planchar-mlau154571276) suma 2 puertas y ruedas a la tabla de planchar, aunque es la más cara de esta comparativa y requiere armado.` },
+      { question: `¿Qué tabla de planchar conviene para un departamento chico?`, answer: `La [Peel para mesa](/producto/tabla-de-planchar-para-mesa-con-patas-plegables-mla1816196586), que se apoya sobre cualquier mesa y se guarda con un gancho, sin ocupar lugar de pie.` },
+      { question: `¿Cuánto tarda en armarse el mueble Mosconi?`, answer: `Según una reseña real, un par de horas. El mismo comprador recomienda atornillar primero los tornillos a la tabla y después anclar al mueble.` },
+    ],
+    internalLinks: [
+      { label: "Mopa: cuál comprar en Argentina", href: "/guias/hogar-jardin/mopa" },
+      { label: "Escurridor de platos: cuál comprar en Argentina", href: "/guias/hogar-jardin/escurridor-de-platos" },
+      { label: "Tacho de basura: cuál comprar en Argentina", href: "/guias/hogar-jardin/tacho-de-basura" },
+      { label: "Zapatero: cuál comprar en Argentina", href: "/guias/hogar-jardin/zapatero" },
     ],
     internalLinksTitle: "Más de hogar y jardín",
   },
