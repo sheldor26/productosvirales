@@ -82131,6 +82131,385 @@ El único formato mueble de esta comparativa, con guardado real además de la ta
     },
   },
 
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva "secador de piso" — silo hogar-jardin (existente, con
+  // mopa, escurridor-de-platos, tacho-de-basura, zapatero, tabla-planchar).
+  // Origen: backlog 2026-08-15, "secador de piso" 2.900/mes, SERP sin
+  // comparador argentino dedicado (verificado con WebSearch el 2026-10-03).
+  // Sourcing en vivo 2026-10-03 (Chrome de Juan, ML bloquea el navegador
+  // interno).
+  // ─────────────────────────────────────────────────────────
+  {
+    id: "MLAU4034576283",
+    title: "Secador Multifuncional Giratorio De Silicona 40cm",
+    canonicalName: "Joybos Giratorio de Silicona (más vendido)",
+    brand: "Joybos",
+    price: 14000,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_931050-MLA111577133078_062026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_931050-MLA111577133078_062026-O.webp",
+    ],
+    category: "Hogar, Muebles y Jardín",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/secador-multifuncional-giratorio-de-silicona-40cm/up/MLAU4034576283",
+    affiliateUrl: "https://meli.la/13Cb7ek",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.9,
+    reviewCount: 18,
+    badge: "bestseller",
+    pastelColor: "var(--pastel-green)",
+    specs: [
+      { label: "Marca", value: "Joybos" },
+      { label: "Modelo", value: "Secador multifuncional" },
+      { label: "Largo del secador", value: "40 cm" },
+      { label: "Color", value: "Blanco y plateado" },
+      { label: "Materiales", value: "Goma de silicona y acero inoxidable" },
+      { label: "Incluye cabo", value: "Sí" },
+      { label: "Largo del cabo", value: "98,5 cm" },
+      { label: "Condición", value: "Nuevo" },
+      { label: "Vendedor", value: "RLM Home, MercadoLíder, +1000 ventas" },
+    ],
+    relatedProducts: ["MLAU164982964", "MLA43797993", "MLA47355221"],
+    priceUpdated: "2026-10-03", priceLastChecked: "2026-10-03", priceStatus: "fresh", reviewsSampledAt: "2026-10-03",
+    description: "Secador giratorio de silicona Joybos, cabezal flexible. Es el más vendido de esta comparativa: insignia MÁS VENDIDO, 1° en Secadores de Piso de MercadoLibre, {{reviews:MLAU4034576283}} opiniones a {{rating:MLAU4034576283}} estrellas.",
+    seoTitle: "Joybos: el secador de piso más vendido de esta comparativa",
+    metaDescription: "Secador giratorio de silicona Joybos, 1° en Secadores de Piso de MercadoLibre. {{reviews:MLAU4034576283}} opiniones a {{rating:MLAU4034576283}} estrellas.",
+    verdict: "Es el secador de piso más vendido de esta comparativa, con la insignia MÁS VENDIDO y 1° puesto en la categoría Secadores de Piso de MercadoLibre: {{reviews:MLAU4034576283}} calificaciones reales a {{rating:MLAU4034576283}} estrellas, a {{precio:MLAU4034576283}}. Su goma de silicona flexible gira y se adapta a rincones y bordes, con un cabo de acero inoxidable de 98,5 cm incluido. La contra real: tiene pocas opiniones todavía, aunque todas positivas.",
+    pros: [
+      "El más vendido de esta comparativa: insignia MÁS VENDIDO, 1° en Secadores de Piso de MercadoLibre",
+      "Cabezal giratorio de silicona, flexible, llega a rincones y bordes",
+      "Incluye cabo de acero inoxidable de 98,5 cm",
+      "{{reviews:MLAU4034576283}} calificaciones a {{rating:MLAU4034576283}} estrellas",
+    ],
+    cons: [
+      "Pocas opiniones todavía ({{reviews:MLAU4034576283}}), aunque todas positivas",
+      "Es el más chico de esta comparativa (40 cm)",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace 3 meses", useful: 6, text: "La calidad, la estética y la funcionalidad superaron mis expectativas. Buena relación precio-calidad." },
+    ],
+    articleBody: `## Qué es el secador Joybos
+
+Es un secador giratorio de silicona, con cabezal flexible que se adapta a distintas superficies. Mide 40 cm, con cabo de acero inoxidable de 98,5 cm incluido. Cuesta {{precio:MLAU4034576283}} y es, hoy, el secador de piso más vendido de esta comparativa: insignia MÁS VENDIDO y 1° puesto en la categoría Secadores de Piso de MercadoLibre, con {{reviews:MLAU4034576283}} calificaciones a {{rating:MLAU4034576283}} estrellas.
+
+## La silicona giratoria
+
+Según su descripción, el diseño giratorio permite acceder fácilmente a rincones y bordes, mientras que la goma flexible de silicona se adapta a distintas superficies sin dejar marcas. Según una reseña real, "la calidad, la estética y la funcionalidad superaron mis expectativas".
+
+## Lo honesto: pocas opiniones
+
+Tiene {{reviews:MLAU4034576283}} calificaciones, la base más chica de esta comparativa, aunque todas son positivas ({{rating:MLAU4034576283}} estrellas). Es también el más chico de los 4 (40 cm).
+
+## El veredicto
+
+El más vendido de esta comparativa, con un diseño distinto al resto (silicona giratoria en vez de goma tradicional). La contra real es la base de opiniones todavía chica.`,
+    faq: [
+      { question: "¿Es el secador de piso más vendido de MercadoLibre?", answer: "De esta comparativa sí: tiene la insignia MÁS VENDIDO y el 1° puesto en la categoría Secadores de Piso." },
+      { question: "¿De qué está hecho?", answer: "Goma de silicona flexible con cabo de acero inoxidable." },
+      { question: "¿Incluye el cabo?", answer: "Sí, de 98,5 cm." },
+      { question: "¿Tiene muchas opiniones?", answer: "Todavía pocas ({{reviews:MLAU4034576283}}), pero todas positivas, con un promedio de {{rating:MLAU4034576283}} estrellas." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Joybos Giratorio de Silicona (más vendido)",
+      image: ["https://http2.mlstatic.com/D_NQ_NP_931050-MLA111577133078_062026-O.webp"],
+      description: "Secador de piso giratorio de silicona Joybos, 40 cm, con cabo de acero inoxidable incluido.",
+      brand: { "@type": "Brand", name: "Joybos" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/secador-multifuncional-giratorio-de-silicona-40cm/up/MLAU4034576283",
+        priceCurrency: "ARS",
+        price: "14000",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.9",
+        reviewCount: "18",
+      },
+    },
+  },
+  {
+    id: "MLAU164982964",
+    title: "Secador De Piso Musto 75cm Royco Doble Goma",
+    canonicalName: "Royco Musto 75cm (doble goma)",
+    brand: "Royco",
+    price: 18429,
+    originalPrice: 19999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_954146-MLA75368571260_042024-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_954146-MLA75368571260_042024-O.webp",
+    ],
+    category: "Hogar, Muebles y Jardín",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/secador-de-piso-musto-75cm-royco-doble-goma/up/MLAU164982964",
+    affiliateUrl: "https://meli.la/1TbyTwq",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 41,
+    badge: "bestseller",
+    pastelColor: "var(--pastel-blue)",
+    specs: [
+      { label: "Marca", value: "Royco" },
+      { label: "Modelo", value: "MUSTO 75CM" },
+      { label: "Largo del secador", value: "75 cm" },
+      { label: "Materiales", value: "Plástico reforzado, doble goma" },
+      { label: "Incluye cabo", value: "No (sujeta cabos normales a compresión)" },
+      { label: "Condición", value: "Nuevo" },
+      { label: "Vendedor", value: "aycdistribuidores, MercadoLíder Platinum, +5 mil ventas" },
+    ],
+    relatedProducts: ["MLAU4034576283", "MLA43797993", "MLA47355221"],
+    priceUpdated: "2026-10-03", priceLastChecked: "2026-10-03", priceStatus: "fresh", reviewsSampledAt: "2026-10-03",
+    description: "Secador de piso Royco Musto, 75 cm, doble goma. Es el único de doble goma de esta comparativa, con insignia MÁS VENDIDO: {{reviews:MLAU164982964}} opiniones a {{rating:MLAU164982964}} estrellas.",
+    seoTitle: "Royco Musto 75cm: el único secador de piso de doble goma de esta comparativa",
+    metaDescription: "Secador de piso Royco Musto 75cm doble goma, insignia MÁS VENDIDO. {{reviews:MLAU164982964}} opiniones a {{rating:MLAU164982964}} estrellas.",
+    verdict: "Es el único secador de piso de doble goma de esta comparativa: 75 cm de goma doble premium, con insignia MÁS VENDIDO (10° en Secadores de Piso de MercadoLibre), a {{precio:MLAU164982964}}. {{reviews:MLAU164982964}} calificaciones reales a {{rating:MLAU164982964}} estrellas. Según una reseña real, abarca más superficie por pasada y achica mucho el tiempo de secado frente a uno de 40 cm. La contra real: no incluye cabo, hay que comprarlo aparte.",
+    pros: [
+      "El único de esta comparativa con doble goma: 75 cm premium",
+      "Insignia MÁS VENDIDO, 10° en Secadores de Piso de MercadoLibre",
+      "{{reviews:MLAU164982964}} calificaciones a {{rating:MLAU164982964}} estrellas",
+      "Según una reseña real, achica mucho el tiempo de secado frente a uno más chico",
+    ],
+    cons: [
+      "No incluye cabo: sujeta cabos normales a compresión, pero hay que comprarlo aparte",
+      "Según una reseña real, al ser nueva cuesta hacer fuerza para presionarla, se va amoldando con el uso",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace 3 meses", useful: 1, text: "Saco el agua del patio caí do baldeó mucho más rápido por que es un secador que mide 75 cm y abarca más superficie de secado. Hago fuerza para presionarlo pero creo que es porque es nuevo. Con el uso se va amoldando. Estoy contenta porque no utilizo tanto tiempo en escurrir el agua. A diferencia del otro que tenía de 40 cm con el que me volvía monje tibetano por la paciencia para pasar tantas veces el secador." },
+    ],
+    articleBody: `## Qué es el secador Royco Musto 75cm
+
+Es un secador de piso de doble goma premium, construido en plástico reforzado, con 75 cm de largo: el único de doble goma de esta comparativa. Cuesta {{precio:MLAU164982964}}, con insignia MÁS VENDIDO (10° en Secadores de Piso de MercadoLibre) y {{reviews:MLAU164982964}} calificaciones a {{rating:MLAU164982964}} estrellas.
+
+## Por qué conviene la doble goma de 75 cm
+
+Según una reseña real, "es un secador que mide 75 cm y abarca más superficie de secado", lo que acorta mucho el tiempo de secado comparado con uno más chico: la misma compradora cuenta que antes tenía uno de 40 cm y "me volvía monje tibetano por la paciencia para pasar tantas veces el secador".
+
+## Lo que no incluye
+
+No trae cabo: sujeta cabos normales a compresión, pero hay que comprarlo aparte. Según la misma reseña, al ser nueva cuesta hacer fuerza para presionarla, aunque se va amoldando con el uso.
+
+## El veredicto
+
+El único de esta comparativa con doble goma, ideal para superficies grandes. La contra real es que no incluye cabo.`,
+    faq: [
+      { question: "¿Cuál es el único secador de piso de doble goma de esta comparativa?", answer: "El Royco Musto, con 75 cm de doble goma premium." },
+      { question: "¿Incluye el cabo?", answer: "No, sujeta cabos normales a compresión, pero hay que comprarlo aparte." },
+      { question: "¿Es verdad que cuesta presionarlo al principio?", answer: "Según una reseña real, sí, al ser nueva cuesta algo de fuerza, pero se va amoldando con el uso." },
+      { question: "¿Tiene insignia de más vendido?", answer: "Sí, 10° puesto en la categoría Secadores de Piso de MercadoLibre." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Royco Musto 75cm (doble goma)",
+      image: ["https://http2.mlstatic.com/D_NQ_NP_954146-MLA75368571260_042024-O.webp"],
+      description: "Secador de piso Royco Musto, 75 cm, doble goma premium, plástico reforzado.",
+      brand: { "@type": "Brand", name: "Royco" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/secador-de-piso-musto-75cm-royco-doble-goma/up/MLAU164982964",
+        priceCurrency: "ARS",
+        price: "18429",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.8",
+        reviewCount: "41",
+      },
+    },
+  },
+  {
+    id: "MLA43797993",
+    title: "Secador Piso Aluminio Mas Cabo",
+    canonicalName: "Romyl Aluminio 1 metro (con cabo)",
+    brand: "Romyl",
+    price: 27728,
+    originalPrice: 31034,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_972146-MLA99357271522_112025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_972146-MLA99357271522_112025-O.webp",
+    ],
+    category: "Hogar, Muebles y Jardín",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA43797993",
+    affiliateUrl: "https://meli.la/2mhtouF",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.5,
+    reviewCount: 31,
+    pastelColor: "var(--pastel-purple)",
+    specs: [
+      { label: "Marca", value: "Romyl" },
+      { label: "Modelo", value: "Aluminio" },
+      { label: "Largo del secador", value: "100 cm (1 metro)" },
+      { label: "Color", value: "Plateado" },
+      { label: "Materiales", value: "Aluminio" },
+      { label: "Incluye cabo", value: "Sí" },
+      { label: "Largo del cabo", value: "120 cm" },
+      { label: "Condición", value: "Nuevo" },
+      { label: "Vendedor", value: "OFFICE EME, MercadoLíder Platinum, +10 mil ventas" },
+    ],
+    relatedProducts: ["MLAU4034576283", "MLAU164982964", "MLA47355221"],
+    priceUpdated: "2026-10-03", priceLastChecked: "2026-10-03", priceStatus: "fresh", reviewsSampledAt: "2026-10-03",
+    description: "Secador de piso Romyl de aluminio, 1 metro, con cabo incluido. Es el más grande y el único de aluminio de esta comparativa: {{reviews:MLA43797993}} opiniones a {{rating:MLA43797993}} estrellas.",
+    seoTitle: "Romyl Aluminio: el secador de piso de 1 metro de esta comparativa",
+    metaDescription: "Secador de piso Romyl de aluminio, 1 metro, con cabo de 120 cm incluido. {{reviews:MLA43797993}} opiniones a {{rating:MLA43797993}} estrellas.",
+    verdict: "Es el secador de piso más grande de esta comparativa: 1 metro de aluminio, con cabo de 120 cm incluido, a {{precio:MLA43797993}}. {{reviews:MLA43797993}} calificaciones reales a {{rating:MLA43797993}} estrellas. Según una reseña real, una compradora que lo compró por segunda vez limpia 125 metros cuadrados en 5 minutos. La contra real: es el más caro de esta comparativa.",
+    pros: [
+      "El más grande de esta comparativa: 1 metro de largo",
+      "Incluye cabo de aluminio de 120 cm",
+      "Según una reseña real, limpia superficies amplias en minutos",
+      "{{reviews:MLA43797993}} calificaciones a {{rating:MLA43797993}} estrellas",
+    ],
+    cons: [
+      "Es el más caro de esta comparativa",
+      "Su tamaño lo hace menos práctico para espacios chicos o rincones",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace 2 meses", useful: 0, text: "Es el segundo que compro, limpio 125 metros cuadrados en 5 minutos, de no creer." },
+    ],
+    articleBody: `## Qué es el secador Romyl de aluminio
+
+Es un secador de piso de aluminio, con 1 metro de largo: el más grande de esta comparativa. Incluye cabo de 120 cm. Cuesta {{precio:MLA43797993}}, el más caro de las 4 fichas, con {{reviews:MLA43797993}} calificaciones a {{rating:MLA43797993}} estrellas.
+
+## Para superficies grandes
+
+Según una reseña real, una compradora que ya lo tenía y volvió a comprarlo cuenta: "limpio 125 metros cuadrados en 5 minutos, de no creer". Otra reseña real coincide: "muy útil para superficies amplias, se acortan los tiempos de trabajo".
+
+## La contra real
+
+Es el más caro de esta comparativa, y su tamaño de 1 metro lo hace menos práctico para espacios chicos o para llegar a rincones.
+
+## El veredicto
+
+El más grande de esta comparativa, pensado para superficies amplias (patios, locales, galpones). La contra real es el precio, el más alto de las 4.`,
+    faq: [
+      { question: "¿Cuál es el secador de piso más grande de esta comparativa?", answer: "El Romyl de aluminio, con 1 metro de largo." },
+      { question: "¿Incluye cabo?", answer: "Sí, de 120 cm." },
+      { question: "¿Para qué superficies conviene?", answer: "Para espacios grandes: según una reseña real, limpia 125 metros cuadrados en 5 minutos." },
+      { question: "¿Es el más caro?", answer: "Sí, de esta comparativa de 4." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Romyl Aluminio 1 metro (con cabo)",
+      image: ["https://http2.mlstatic.com/D_NQ_NP_972146-MLA99357271522_112025-O.webp"],
+      description: "Secador de piso Romyl de aluminio, 1 metro, con cabo de 120 cm incluido.",
+      brand: { "@type": "Brand", name: "Romyl" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/p/MLA43797993",
+        priceCurrency: "ARS",
+        price: "27728",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.5",
+        reviewCount: "31",
+      },
+    },
+  },
+  {
+    id: "MLA47355221",
+    title: "Secador De Piso Goma Negro 80 Cm Alma Acero",
+    canonicalName: "Romyl Goma Negro 80cm (alma de acero)",
+    brand: "Romyl",
+    price: 8800,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_900722-MLA99343233328_112025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_900722-MLA99343233328_112025-O.webp",
+    ],
+    category: "Hogar, Muebles y Jardín",
+    categorySlug: "hogar-jardin",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA47355221",
+    affiliateUrl: "https://meli.la/2qFtcuS",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.4,
+    reviewCount: 65,
+    badge: "bestseller",
+    pastelColor: "var(--pastel-amber)",
+    specs: [
+      { label: "Marca", value: "Romyl" },
+      { label: "Modelo", value: "SECADOR GOMA" },
+      { label: "Largo del secador", value: "80 cm" },
+      { label: "Color", value: "Negro" },
+      { label: "Materiales", value: "Goma con alma de acero" },
+      { label: "Incluye cabo", value: "No" },
+      { label: "Condición", value: "Nuevo" },
+      { label: "Vendedor", value: "Suministros Ya, MercadoLíder Platinum, +5 mil ventas" },
+    ],
+    relatedProducts: ["MLAU4034576283", "MLAU164982964", "MLA43797993"],
+    priceUpdated: "2026-10-03", priceLastChecked: "2026-10-03", priceStatus: "fresh", reviewsSampledAt: "2026-10-03",
+    description: "Secador de piso Romyl de goma negra con alma de acero, 80 cm. Es el más barato de esta comparativa, con insignia MÁS VENDIDO: {{reviews:MLA47355221}} opiniones a {{rating:MLA47355221}} estrellas.",
+    seoTitle: "Romyl Goma Negro: el secador de piso más barato de esta comparativa",
+    metaDescription: "Secador de piso Romyl de goma negra con alma de acero, 80 cm, el más barato. {{reviews:MLA47355221}} opiniones a {{rating:MLA47355221}} estrellas.",
+    verdict: "Es el secador de piso más barato de esta comparativa, a {{precio:MLA47355221}}, con insignia MÁS VENDIDO (9° en Secadores de Piso de MercadoLibre). 80 cm de goma negra reforzada con un alma de acero interna que le da robustez. {{reviews:MLA47355221}} calificaciones reales a {{rating:MLA47355221}} estrellas, la base más grande de esta comparativa. La contra real, que surge de varias reseñas: algunos compradores reportan problemas de durabilidad de la goma con el uso y lo consideran pesado.",
+    pros: [
+      "El más barato de esta comparativa",
+      "Insignia MÁS VENDIDO, 9° en Secadores de Piso de MercadoLibre",
+      "{{reviews:MLA47355221}} calificaciones a {{rating:MLA47355221}} estrellas, la base más grande de las 4",
+      "Alma de acero interna que le da robustez, según su ficha técnica",
+    ],
+    cons: [
+      "No incluye cabo",
+      "Varias reseñas reportan problemas de durabilidad de la goma con el uso, y lo consideran pesado",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace 3 semanas", useful: 0, text: "Buen tamaño para cubrir más area en cada pasada. Material resistente. Cumple con la función requerida por su practicidad." },
+    ],
+    articleBody: `## Qué es el secador Romyl de goma negra
+
+Es un secador de piso de goma negra, 80 cm, reforzado con un alma de acero interna. Cuesta {{precio:MLA47355221}}, el más barato de esta comparativa, con insignia MÁS VENDIDO (9° en Secadores de Piso de MercadoLibre) y {{reviews:MLA47355221}} calificaciones a {{rating:MLA47355221}} estrellas, la base más grande de las 4.
+
+## El alma de acero
+
+A diferencia de una goma simple, este modelo tiene un alma de acero dentro de la goma que le da robustez y estabilidad, según su propia ficha técnica. Según una reseña real, "buen tamaño para cubrir más área en cada pasada" y "material resistente".
+
+## Lo honesto sobre la durabilidad
+
+El resumen de opiniones de MercadoLibre, basado en reseñas reales, aclara que algunos compradores experimentaron problemas con la durabilidad de la goma y lo consideran pesado. No es unánime, pero conviene saberlo.
+
+## El veredicto
+
+El más barato y con la base de opiniones más grande de esta comparativa. La contra real es que algunas reseñas cuestionan la durabilidad de la goma a largo plazo.`,
+    faq: [
+      { question: "¿Cuál es el secador de piso más barato de esta comparativa?", answer: "El Romyl de goma negra con alma de acero, a {{precio:MLA47355221}}." },
+      { question: "¿Qué es el 'alma de acero'?", answer: "Un refuerzo de acero dentro de la goma que le da robustez, según su ficha técnica." },
+      { question: "¿Incluye cabo?", answer: "No." },
+      { question: "¿Es durable?", answer: "La mayoría de las reseñas son positivas, pero algunas reportan problemas de durabilidad de la goma con el uso." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Romyl Goma Negro 80cm (alma de acero)",
+      image: ["https://http2.mlstatic.com/D_NQ_NP_900722-MLA99343233328_112025-O.webp"],
+      description: "Secador de piso Romyl de goma negra con alma de acero, 80 cm.",
+      brand: { "@type": "Brand", name: "Romyl" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/p/MLA47355221",
+        priceCurrency: "ARS",
+        price: "8800",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.4",
+        reviewCount: "65",
+      },
+    },
+  },
+
   // ─── Silo de verano: piletas (sourcing Bright Data 2026-08-13) ───
   // Sin rating/reviewCount: el scraper puntual no devuelve el agregado de ML.
   // Los completa la proxima corrida del workflow de precios. No se inventan.

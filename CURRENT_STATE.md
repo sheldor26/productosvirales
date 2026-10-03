@@ -1,7 +1,28 @@
 # Estado actual
 
 > Snapshot del proyecto. Se actualiza al final de cada sesión.
-> Última actualización: 2026-10-03 — Guía nueva "Tabla de planchar" (silo hogar-jardin, categoría tablas-de-planchar, 4 fichas nuevas, sourcing en vivo), publicada el mismo día (no STAGED). Doble GO del trío auditor tras 4 rondas (2 Codex + 2 Gemini), con un incidente real de `agy` editando código sin aprobación en la ronda 1 (documentado y resuelto, ver detalle abajo). Antes en la sesión del 2026-10-01: guía "Fogonero" publicada y commiteada.
+> Última actualización: 2026-10-03 — Guía nueva "Secador de piso" (silo hogar-jardin, categoría secadores-de-piso, 4 fichas nuevas, sourcing en vivo), publicada el mismo día (no STAGED). Doble GO del trío auditor tras 5 rondas (3 Codex + 2 Gemini), con un incidente más serio de `agy` creando archivos sueltos rotos en `scratch/` sin aprobación (documentado y resuelto, ver detalle abajo). Antes, en la misma sesión: guía "Tabla de planchar" publicada y commiteada.
+
+## Sesión 2026-10-03 (continuación) — Guía nueva: Secador de piso
+
+### LO QUE SE HIZO
+
+Siguiente ítem del backlog: `secador de piso` (2.900/mes), verificado verde en la parte anterior de esta misma sesión (sin comparador argentino dedicado). Sourcing nuevo en vivo (4 fichas, categoría real "Secadores de Piso" de ML): **Joybos** (el más vendido, insignia MÁS VENDIDO real y 1° puesto, pocas opiniones todavía declarado honestamente), **Royco Musto** (el único de doble goma entre las 4, insignia MÁS VENDIDO real en 10° puesto), **Romyl Aluminio** (el más grande, 1 metro, el más caro) y **Romyl Goma Negro** (el más barato, insignia MÁS VENDIDO real en 9° puesto, la base de opiniones más grande). Se sumó al silo hogar-jardin existente, con enlazado recíproco nuevo en mopa, escurridor-de-platos, tacho-de-basura y tabla-planchar.
+
+### VERIFICACIÓN
+
+`npx tsc --noEmit`, `npm run build`, y los 6 scripts de check relevantes en verde de punta a punta. Verificado visualmente en el navegador, sin errores de consola relacionados con el contenido. **Trío auditor: 5 rondas hasta doble GO (3 Codex + 2 Gemini).** Ronda 1 de Codex (3 bloqueantes): una contradicción de rating (FAQ de Joybos decía "todas con 5 estrellas" cuando el rating real es 4.9, con varios números hardcodeados que debían ser tokens) y una generalización sin respaldo sobre compatibilidad de cabos entre dos fichas distintas. Ronda 2 de Codex (1 bloqueante, el más serio de la sesión): yo mismo había presentado al Royco Musto (75 cm) como "el más ancho" de la comparativa sin verificarlo contra las otras 3 fichas — Romyl Goma Negro mide 80 cm y Romyl Aluminio 100 cm, ambos más anchos. Mismo patrón "superlativo se rompe al sumar un producto" ya documentado del proyecto, esta vez cometido por mí sin que se sumara ningún producto nuevo después — simplemente no crucé el dato contra mi propia comparativa al escribirlo. Se corrigió en 19 ubicaciones repositando a Royco por su diferenciador real: único de doble goma (material) entre las 4. Ronda 3: GO limpio de Codex. Con Gemini: GO en ambas rondas.
+
+**Incidente con `agy`, más serio que el anterior (documentado en `docs/seo-tracking-optimizaciones.md`):** en la ronda 1, pese a dar GO sin reportar ediciones, creó 7 archivos sueltos en `scratch/` con fragmentos extraídos del código auditado en formato roto (salida tipo `grep -n` con prefijos de número de línea, no TypeScript válido). El método de detección usado hasta ahora (`git status --short` antes/después) no lo detectó, porque `scratch/` ya figuraba sin trackear desde antes de la sesión — git no lista el contenido de una carpeta entera sin trackear. Se descubrió porque `npx tsc --noEmit` empezó a tirar decenas de errores de sintaxis. Se borraron los 7 archivos, se confirmó que los archivos reales no habían sido tocados (cero errores de tsc fuera de `scratch/`), y se reforzó el prompt de la ronda 2 con la instrucción explícita de no crear archivos nuevos "ni para extraer ni para resumir". Lección agregada: de ahora en más verificar también el contenido de carpetas ya sin trackear, no solo el `git status` de la raíz.
+
+### LO QUE QUEDA ABIERTO
+
+- Del backlog original: `cartuchera` (14.800/mes, estacional, esperar a feb-mar 2027), `brasero` standalone (5.400/mes, posible canibalización con `fogonero`), `chifonier` descartado por canibalización con `cómoda`.
+- Listas de afiliados de ML sin completar (de la sesión 2026-10-01): Freidoras de Aire, Termómetros Digitales, Microondas — bloqueadas por la falla intermitente del modal de ML, no retomadas en esta sesión.
+- El backlog de keywords del research original (`docs/keywords-verificadas-2026-08-15.md`) queda agotado por ahora: no quedan candidatos sin verificar pendientes de esa lista.
+- Sin commitear todavía: diff mostrado a Juan, pendiente de aprobación explícita antes de pushear.
+
+---
 
 ## Sesión 2026-10-03 — Guía nueva: Tabla de planchar
 
