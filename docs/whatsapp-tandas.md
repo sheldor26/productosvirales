@@ -127,3 +127,73 @@ Primera tanda del día (jueves). Sourcing propio vía /mas-vendidos, variando ca
 | Cafetera Moulinex Dolce Gusto Piccolo | $188.044 (47% OFF, OFERTA IMPERDIBLE, Tienda oficial TECHCEL) | meli.la/2CvQMKA |
 | Compresor de Aire Portátil Gadnic 50W | $57.999 (49% OFF, MÁS VENDIDO, Tienda oficial Bidcom) | meli.la/2qyPfCx |
 | Guantes Térmicos Gadnic Touchscreen Moto/Ciclismo | $15.599 (40% OFF, MÁS VENDIDO, talles M/L/XL) | meli.la/1TSYe1y |
+
+### 2026-10-01 11:50 — Mediodía (horario fijo, publicado ~12:50 por demora en el sourcing del tercer producto)
+
+Segunda tanda del día (jueves), categoría Ropa y Accesorios. Costó encontrar el tercer producto: se descartaron el Casco Moto Vertigo Dominium (variante única Color Fucsia + Talle L, demasiado nicho para audiencia general), la Pava Eléctrica Yelmo PE-3912 (dupe de categoría con la Pava Codini de la tanda de la mañana), el Ventilador Retráctil de Techo Novohome (dupe exacto, mismo producto ya publicado el 2026-09-20), el Pack X3 Remeras El Don (la navegación directa desde /mas-vendidos devolvía la página de listado en vez de la ficha, dos intentos fallidos) y el Compresor/Cafetera/Guantes Gadnic de la propia tanda de la mañana (dupe). Se resolvió con el Pack X5 Remeras Wacky, candidato distinto que sí navegó correctamente. Los 3 verificados en vivo antes de publicar (precio, vendedor, rating). Links generados con el linkbuilder de afiliados, etiqueta "instagram", verificados contra `matt_word=instagram`.
+
+⚠️ **Error de destino, corregido en el momento:** los 3 posts se publicaron primero en el lugar equivocado — la Comunidad/chat "Avisos" de "Productos Virales Argentina" (accesible vía Archivados en la app), no el Canal real (accesible vía Novedades → Canales, con seguidores y métricas de vistas, donde sí había quedado la tanda de la mañana 08:20). Juan lo marcó ("te equivocaste, en el canal tenes que publicar"). Se corrigió: se volvieron a publicar los 3 en el Canal correcto (mismos copies, mismos links, mismas imágenes) y se eliminaron "para todos" los 3 mensajes equivocados de la Comunidad. Para la próxima tanda, entrar siempre por Novedades → Canales → "Productos Virales Argentina" (header muestra "N seguidores"), nunca por Archivados.
+
+| Producto | Precio | Link |
+|---|---|---|
+| Mochila New Bip Viral 40L Impermeable Carry On | $41.880 (40% OFF, MÁS VENDIDO, Tienda oficial NewBip, 4.9★/2149 op., +10mil vendidos) | meli.la/1iHTb9T |
+| Zapatillas Topper X-Forcer Hombre | $76.953 (23% OFF, MÁS VENDIDO, Tienda oficial Topper, 4.8★/11674 op., +500 vendidos) | meli.la/2tCKs36 |
+| Pack X5 Remeras Básicas Hombre Algodón (Wacky) | $32.000 (34% OFF, MÁS VENDIDO, Tienda oficial Wacky, 4.6★/20230 op., +50mil vendidos) | meli.la/2d6RobM |
+
+### 2026-10-02 08:20 — Mañana (horario fijo, viernes)
+
+Primera tanda del día (viernes, día fuerte medido para Threads, ver memoria `threads-scorecard-reglas-rendimiento`), priorizando ticket alto/objeto grande: aire acondicionado, TV, monitor gamer. Publicada en el Canal real (Novedades → Canales, "5 seguidores"), no en la Comunidad. Verificados en vivo antes de publicar (precio, vendedor, rating, stock). Links generados con el linkbuilder de afiliados, etiqueta "instagram" (los 5 de un lote). Se guardaron para Threads los otros dos candidatos del lote (PS4 Slim, Switch 2 + Mario Kart).
+
+| Producto | Precio | Link |
+|---|---|---|
+| Aire Acondicionado Split Philco Inverter 3750W Frío/Calor A++ | $799.999 (46% OFF, Tienda oficial Mercado Libre, 4.8★, +5mil vendidos) | meli.la/1UNDCK1 |
+| Smart TV TCL 50" QLED Full HD Google TV 50S5K | $586.311 (41% OFF, MÁS VENDIDO, Tienda oficial DMAKER, 4.8★) | meli.la/2aStFPn |
+| Monitor Gamer MSI MAG 255F 25" 240Hz | $246.533 (12% OFF, MÁS VENDIDO, Tienda oficial PCREGISTRADA, 4.8★) | meli.la/2uNvai8 |
+
+### 2026-10-02 11:50 — Mediodía (horario fijo, viernes; publicada 12:11 por pantalla bloqueada)
+
+Segunda tanda del día. Estaba lista a las 11:50 pero WhatsApp necesita control de pantalla completa para adjuntar la imagen y la Mac estaba bloqueada (Juan no respondió la aprobación); se publicó apenas se desbloqueó. Publicada en el Canal real (Novedades → Canales, "5 seguidores"). Variada contra la tanda de las 08:20 y los 8 posts de Threads del día (celular, aire acondicionado de otra marca, audio). Primera tanda con cupones del día agregados al copy (tramo según precio, sin probar, por pedido de Juan): AHORRO1010 y DESCUENTO1010; el Anker (<$80.000) no lleva cupón. Links con etiqueta "instagram". Verificados en vivo (precio y stock) antes de publicar.
+
+| Producto | Precio | Link |
+|---|---|---|
+| Samsung Galaxy A16 128GB 4GB RAM | $277.797 (40% OFF, MÁS VENDIDO, 4.8★, +10mil vendidos, cupón AHORRO1010) | meli.la/16kBq7h |
+| Aire Acondicionado Split BGH Likon 2700F Frío/Calor | $699.999 (30% OFF, MÁS VENDIDO, Tienda oficial Likon, 4.8★, cupón DESCUENTO1010) | meli.la/1FiHhAg |
+| Auriculares Anker Soundcore P30i ANC | $61.999 (57% OFF, MÁS VENDIDO, Tienda oficial Anker, 4.9★) | meli.la/1nvkJ39 |
+
+### 2026-10-02 16:40 y 20:10 — NO publicadas (viernes)
+
+Dos tandas del viernes quedaron sin publicar en el Canal, ninguna por falta de contenido:
+- **16:40:** la sesión anterior terminó antes de esa hora y se retomó recién a las 17:07 con la tanda de Threads; no se sourceó.
+- **20:10:** quedó armada y verificada en vivo (Smart TV Noblex 32" HD Roku $273.505 / 32% OFF, meli.la/1vUatQt; Microondas Smartlife 23L con Grill $215.999 / 20% OFF, meli.la/22MzVYX; Cargador Portátil Gadnic 25000 mAh $47.099 / 43% OFF, meli.la/1qmUGMT), pero la Mac quedó bloqueada desde ~20:10 hasta pasada la medianoche y WhatsApp necesita control de pantalla completa para adjuntar la imagen. Se descartó (precios de las 20:08, publicar a medianoche no tenía sentido). Las 3 tarjetas se borraron de Descargas.
+Día cerrado con 2 de 4 tandas de WhatsApp (08:20 y 11:50). Para cubrirlo la próxima vez: las tandas de tarde/noche dependen de que la pantalla esté desbloqueada, avisar a Juan antes de irse si hay tandas pendientes.
+
+### 2026-10-03 08:20 — Mañana (horario fijo, sábado; publicada 08:37)
+
+Primera tanda del sábado. Son los 3 productos que quedaron armados la noche del viernes y no se publicaron (la Mac se bloqueó); se re-verificaron en vivo esta mañana y el Noblex había cambiado de precio ($273.505 → $265.499 con otro vendedor), se regeneró su tarjeta. Publicada en el Canal real (header "Canal público", 5 seguidores). Sin cupones: los de ayer (OFERTA1010/AHORRO1010/DESCUENTO1010) eran solo del 2/10 y Juan no pasó nuevos. Links con etiqueta "instagram".
+
+| Producto | Precio | Link |
+|---|---|---|
+| Smart TV Noblex 32" HD Roku TV DB32X3010 | $265.499 (41% OFF, MÁS VENDIDO 5° en Televisores, 4.8★, vendedor C&E Online MercadoLíder) | meli.la/1vUatQt |
+| Microondas Digital Smartlife 23L con Grill | $215.999 (20% OFF, MÁS VENDIDO 5° en Microondas, 4.9★, +500 vendidos) | meli.la/22MzVYX |
+| Cargador Portátil Gadnic 25000 mAh | $47.099 (43% OFF, MÁS VENDIDO 4° en Cargadores, 4.6★, +10mil vendidos) | meli.la/1qmUGMT |
+
+### 2026-10-03 11:50 — Mediodía (horario fijo, sábado; publicada 12:16)
+
+Segunda tanda del sábado, publicada 26 min tarde porque WhatsApp necesitó la aprobación de control de pantalla completa que Juan dio recién a las 12:15. Primera tanda del día con los cupones del sábado agregados al copy, sin probar, por pedido de Juan (APROVECHA1010 $8.000 mín. $80.000, MEGA1010 $15.000 mín. $150.000, MODO1010 $25.000 mín. $250.000, hasta las 23:59, 1 uso por usuario). Se descartó el Moto G17 128GB porque subió a $322.642 (ayer estaba a $289.999) y se reemplazó. Productos que ya habían salido en Threads/WhatsApp el viernes, no hoy. Publicada en el Canal real. Links con etiqueta "instagram".
+
+| Producto | Precio | Link |
+|---|---|---|
+| PC Gamer Ryzen 7 5700G 16GB 480GB SSD (Gaming City) | $722.769 (42% OFF, MÁS VENDIDO 4° en PC, 4.7★, sin monitor ni SO; cupón MODO1010) | meli.la/23NLQnq |
+| Auriculares Sony WH-CH520 Bluetooth | $87.999 (20% OFF, MÁS VENDIDO 3° en Auriculares, 4.9★; cupón APROVECHA1010) | meli.la/1Qz8poT |
+| Smart TV TCL 43" QLED Full HD Google TV 43S5K | $446.674 (44% OFF, MÁS VENDIDO, 4.8★, +10mil vendidos; cupón MODO1010) | meli.la/2PPhFjF |
+
+### 2026-10-04 12:30 — Tanda del domingo (pedida por Juan)
+
+Tanda pedida a mano por Juan el domingo al mediodía, publicada en el Canal real (12:31-12:32). Sin cupones: los de ayer (APROVECHA1010/MEGA1010/MODO1010) eran solo del 3/10 y Juan no pasó nuevos para hoy. Productos ya verificados en vivo (precio y stock idénticos a ayer), no repetidos en las tandas de WhatsApp del 3/10; la Samsung 50" y el IdeaPad sí salieron en Threads el viernes. Links con etiqueta "instagram".
+
+| Producto | Precio | Link |
+|---|---|---|
+| Notebook Lenovo IdeaPad Slim 3 15,6" Intel N100 8GB 128GB | $704.524 (15% OFF, MÁS VENDIDO 3° en Notebooks, 4.8★, Tienda oficial PC CENTER COMPUTERS) | meli.la/1qpv6Fx |
+| Lavarropas Philco 5kg Carga Superior Gris | $469.999 (32% OFF, MÁS VENDIDO, 4.8★, vendido por Mercado Libre Full) | meli.la/1JdCCrM |
+| Smart TV Samsung 50" UHD 4K 50U8000F | $682.499 (24% OFF, MÁS VENDIDO 4° en Televisores, 4.9★, Tienda oficial Baires IT) | meli.la/2qa9jL5 |
+
