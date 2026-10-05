@@ -13076,6 +13076,137 @@ El LG MH6535GIS es el microondas premium de la categoría y se justifica para qu
     ],
   },
   {
+    id: "MLA26901939",
+    title: "Microondas LG NeoChef 30L con Grill - MH7032JAS",
+    canonicalName: "Microondas LG NeoChef 30L con Grill MH7032JAS",
+    price: 433599,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_900852-MLU77951222152_082024-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_2X_900852-MLU77951222152_082024-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_807140-MLA108928228590_032026-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_770234-MLA109753998851_032026-O.webp",
+    ],
+    category: "Cocina",
+    categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA26901939",
+    affiliateUrl: "https://meli.la/1rZ3z3T",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 90,
+    pastelColor: "var(--pastel-purple)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "LG" },
+      { label: "Modelo", value: "MH7032JAS" },
+      { label: "Línea", value: "NeoChef" },
+      { label: "Capacidad", value: "30 litros" },
+      { label: "Tecnología", value: "Non-Inverter (confirmado en la web oficial de LG)" },
+      { label: "Potencia microondas", value: "900 W" },
+      { label: "Potencia grill", value: "950 W (combinado con microondas: 1400 W)" },
+      { label: "Niveles de potencia", value: "10" },
+      { label: "Panel de control", value: "Digital con pantalla LED" },
+      { label: "Descongelado", value: "Automático por peso, rápido y por tiempo" },
+      { label: "Interior", value: "EasyClean antibacterial" },
+      { label: "Plato giratorio", value: "Sí" },
+      { label: "Seguridad", value: "Bloqueo de niños" },
+      { label: "Dimensiones", value: "50,8 x 29 x 41,6 cm (an x al x prof)" },
+      { label: "Peso", value: "13,5 kg" },
+      { label: "Color", value: "Negro" },
+    ],
+    relatedProducts: ["MLA18193159", "MLA10531383"],
+    priceUpdated: "2026-10-05",
+    priceLastChecked: "2026-10-05",
+    priceStatus: "fresh",
+    description: "Microondas LG de 30 litros con grill, el modelo LG más grande con stock real en Argentina hoy. A diferencia del Smart Inverter que se dio de baja, este funciona con potencia estándar (LG lo clasifica 'Non-Inverter'). {{reviews:MLA26901939}} calificaciones, {{rating:MLA26901939}} estrellas, tienda oficial.",
+    seoTitle: "Microondas LG MH7032JAS 30L con Grill: review honesta",
+    metaDescription: "El LG MH7032JAS de 30 litros con grill: el microondas LG más grande con stock real en Argentina. No es inverter (confirmado con LG). Specs reales, pros y contras.",
+    verdict: "Si buscás el microondas LG más grande con stock y reseñas reales hoy, es el MH7032JAS: 30 litros, grill y el respaldo de la tienda oficial de LG en MercadoLibre, con {{rating:MLA26901939}} estrellas en {{reviews:MLA26901939}} calificaciones. Ojo con una cosa: pese a que la publicación dice 'Smart Inverter' en el título, LG lo clasifica oficialmente como 'Non-Inverter' — si lo que buscabas era esa tecnología puntual, hoy no hay un LG con stock real que la tenga. Para calentar, descongelar y dorar con una marca de confianza, cumple igual.",
+    pros: [
+      "30 litros: el más grande de la categoría, entra una fuente ancha o una bandeja grande sin problema",
+      "Grill con 950 W de consumo (1400 W combinado con el microondas) para dorar, gratinar o tostar",
+      "Vendido por la tienda oficial de LG en MercadoLibre (Castillo, MercadoLíder Platinum, +10 mil ventas, reputación de 'buena atención'), con 12 meses de garantía de fábrica y devolución gratis 30 días",
+      "{{reviews:MLA26901939}} calificaciones reales, {{rating:MLA26901939}} estrellas, consistentemente positivas: destacan el tamaño, la terminación y lo simple que es de usar",
+      "Panel digital con 10 niveles de potencia, descongelado automático por peso y bloqueo de seguridad para niños",
+      "22 vendedores lo ofrecen hoy en MercadoLibre Argentina: no depende de una sola publicación como le pasó al modelo anterior",
+    ],
+    cons: [
+      "No tiene tecnología inverter: regula la potencia prendiendo y apagando, como cualquier microondas común. LG lo clasifica oficialmente 'Non-Inverter' pese a que el título de la publicación dice 'Smart Inverter'",
+      "El grill no convence a todos: una reseña real de 4 estrellas señala que 'hace olor y no cocina bien', y que al equipo le faltan botones para las funciones que promete",
+      "Es el más grande de la guía: 50,8 cm de ancho x 41,6 cm de profundidad, el que más mesada ocupa",
+      "Stock ajustado en la mejor oferta: la publicación con {{reviews:MLA26901939}} reseñas tenía solo 3 unidades al verificar (hay otros 21 vendedores con el mismo modelo, por si se agota)",
+      "Las {{reviews:MLA26901939}} calificaciones incluyen opiniones de otros países de la región, no son todas de compradores argentinos",
+    ],
+    articleBody: `## Qué es y para quién alcanza
+
+El LG MH7032JAS es un microondas de 30 litros con grill, de la línea NeoChef. Es el modelo LG más grande que hoy tiene stock real y reseñas verificables en MercadoLibre Argentina: apunta a quien cocina para varios, quiere entrar una fuente ancha o una bandeja grande, y valora la marca y el respaldo de una tienda oficial.
+
+## Un aviso antes de seguir: no es el Smart Inverter
+
+Si llegaste buscando el LG con tecnología Smart Inverter, es importante aclararlo: ese modelo (el MH6535GIS, de 25 litros) se quedó sin stock real en MercadoLibre Argentina. El MH7032JAS que reemplaza acá en la guía es un microondas distinto, y pese a que su propio título de publicación dice "Smart Inverter", **la página oficial de LG Argentina lo clasifica como "Tecnología Non-Inverter"**. Es un dato que verificamos cruzando la ficha de LG, no algo que inventamos: preferimos avisarlo de entrada a sumarnos al error del título de la publicación.
+
+¿Qué cambia en la práctica? Un microondas con inverter regula la potencia de forma continua; este, como la gran mayoría de los microondas del mercado, prende y apaga el magnetrón para simular una potencia menor. Sigue calentando y descongelando bien, pero no tiene ese plus específico.
+
+## Grill y potencia
+
+Trae 900 W de microondas con 10 niveles de potencia, y un grill que consume 950 W (1400 W cuando combinás microondas y grill juntos). Sirve para dorar, gratinar y tostar: cosas que un microondas pelado no hace. No reemplaza a un horno eléctrico para una cocción larga, pero para dorar una porción o gratinar una pasta, cumple.
+
+Una reseña real con 4 estrellas marca una contra honesta sobre el grill: dice que "hace olor y no cocina bien" y que el equipo "pareciera que no tiene muchas funciones" para calentar o cocinar más allá de lo básico. Vale tenerlo en cuenta si el grill es tu motivo principal de compra.
+
+## Tamaño y detalles
+
+Son 30 litros, los más grandes de toda la categoría microondas del sitio: entra una fuente ancha o un plato grande sin problema (una reseña real menciona haber entrado hasta 1,5 kg de carne en un plato común). A cambio, es el que más mesada ocupa: 50,8 cm de ancho, 41,6 cm de profundidad y 29 cm de alto. Medí el espacio antes de comprarlo.
+
+El interior tiene revestimiento EasyClean antibacterial, panel digital con pantalla LED, descongelado automático por peso y bloqueo de seguridad para niños. Pesa 13,5 kg.
+
+## Quién lo vende y qué respaldo tiene
+
+Lo vende Castillo, tienda oficial de LG en MercadoLibre: MercadoLíder Platinum, más de 10 mil ventas y reputación de "buena atención" (no es un dato menor — otro microondas LG con inverter real que encontramos en el camino tenía un vendedor marcado con "mala atención" y sin reseñas, así que la descartamos como reemplazo). Incluye 12 meses de garantía de fábrica y devolución gratis dentro de los 30 días.
+
+Un detalle a seguir: al momento de verificar, la publicación con las {{reviews:MLA26901939}} reseñas tenía solo 3 unidades en stock. Hay otros 21 vendedores con el mismo modelo en MercadoLibre Argentina por si esa oferta puntual se agota, aunque no todos con el mismo historial de reseñas.
+
+## Para quién sí y para quién no
+
+Sí: si querés el LG más grande con stock y reseñas reales hoy, cocinás para varios, querés usar el grill de vez en cuando y valorás el respaldo de una tienda oficial con buena reputación.
+
+No: si lo que buscabas específicamente era la tecnología Smart Inverter (hoy no hay un LG con eso y stock real en el país), si tu cocina tiene poco lugar en la mesada, o si el grill es tu prioridad y te preocupa la reseña sobre el olor y el rendimiento.
+
+## Veredicto
+
+El LG MH7032JAS es el microondas LG más grande y con mejor respaldo real que hoy se consigue en MercadoLibre Argentina: 30 litros, grill, tienda oficial con buena reputación y {{reviews:MLA26901939}} reseñas que lo avalan. No es inverter, pese al título de la publicación, así que si esa tecnología puntual era tu motivo de compra, hoy no hay un LG que la ofrezca con stock confiable. Para calentar, descongelar y dorar con el respaldo de la marca, cumple de sobra.`,
+    faq: [
+      {
+        question: "¿El LG MH7032JAS tiene tecnología inverter?",
+        answer: "No. Pese a que el título de la publicación en MercadoLibre dice 'Smart Inverter', la página oficial de LG Argentina clasifica este modelo como 'Tecnología Non-Inverter'. El LG que sí tenía Smart Inverter (el MH6535GIS, 25L) se quedó sin stock real en el país.",
+      },
+      {
+        question: "¿Cuántos litros tiene y qué tan grande es?",
+        answer: "30 litros, el más grande de toda la categoría microondas del sitio. Entra una fuente ancha o un plato grande sin problema, pero también es el que más mesada ocupa: 50,8 cm de ancho x 41,6 cm de profundidad x 29 cm de alto.",
+      },
+      {
+        question: "¿Tiene grill?",
+        answer: "Sí. El grill consume 950 W (1400 W combinado con el microondas) y sirve para dorar, gratinar y tostar. Una reseña real marca que a veces 'hace olor y no cocina bien', así que no esperes que reemplace a un horno.",
+      },
+      {
+        question: "¿Es confiable el vendedor?",
+        answer: "Sí: lo vende Castillo, tienda oficial de LG en MercadoLibre, con categoría MercadoLíder Platinum, más de 10 mil ventas y reputación de 'buena atención'. Incluye 12 meses de garantía de fábrica y devolución gratis en 30 días.",
+      },
+      {
+        question: "¿Hay stock disponible?",
+        answer: "La publicación con las {{reviews:MLA26901939}} reseñas tenía 3 unidades al momento de verificar. Hay otros 21 vendedores con el mismo modelo en MercadoLibre Argentina por si esa oferta se agota.",
+      },
+      {
+        question: "¿Por qué el título dice 'Smart Inverter' si no lo es?",
+        answer: "Es un error (o una exageración de marketing) del título de la publicación de MercadoLibre, no nuestro. Lo cruzamos contra la ficha técnica oficial de LG Argentina, que clasifica este modelo como 'Non-Inverter', y preferimos avisarlo antes de que compres pensando que lleva esa tecnología.",
+      },
+      {
+        question: "¿Conviene este LG o uno más barato de otra marca?",
+        answer: "Si solo calentás y descongelás, un microondas de 20 litros de BGH o Atma hace lo mismo por bastante menos plata. Este LG se justifica si querés el tamaño más grande con grill y el respaldo de la marca y una tienda oficial.",
+      },
+    ],
+  },
+  {
     id: "MLA19079384",
     title: "Microondas Bgh Eco Negro Digital 23 Litros 800w Negro",
     canonicalName: "Microondas BGH Eco Digital 23L B223DN20",
