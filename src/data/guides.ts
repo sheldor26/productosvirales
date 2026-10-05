@@ -19459,7 +19459,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     ogDescription: `Del S40c entry-level al X20 Max premium, te explicamos cuál Xiaomi comprar según tu casa, sin chamuyo y con la verdad sobre la garantía en Argentina.`,
     h1: `Robot aspiradora Xiaomi en Argentina 2026: cuál comprar, modelo por modelo`,
     publishedDate: "2026-06-06",
-    updatedDate: "2026-07-03",
+    updatedDate: "2026-10-05",
     hasDisclosure: true,
     standfirst: `Xiaomi es la marca que más robots vende en Argentina, pero tiene cinco modelos que van de $317.000 a más de $1.500.000 y se solapan en el nombre. Acá ordenamos cuál es cuál, qué cambia de verdad entre ellos y dónde está la trampa de la importación gris.`,
     intro: [
@@ -19496,10 +19496,11 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { type: "p", content: `¿La limitación honesta? Es un robot de gama de entrada, así que la succión es modesta y en alfombras gruesas o con mucho pelo de mascota se va a quedar corto. Si ese es tu caso, saltate este y mirá el S40 Pro.` },
   
       { type: "h3", title: `2. Xiaomi Robot Vacuum S20 — el del comando de voz` },
-      { type: "product-card", productMlaId: "MLA44714806", label: "Aspira alfombras", labelColor: "blue", ranking: 2, description: `Sube la apuesta sobre el S40c con mapeo, comando de voz y mejor desempeño en alfombras. Buen punto medio si querés algo más que lo básico pero no estás dispuesto a saltar a los casi {{precio:MLA66281403:k}} del S40 Pro.` },
-      { type: "p", content: `El [S20](https://meli.la/18CB1Wa) se ubica un escalón arriba del S40c en prestaciones: mantiene el mapeo, suma comando de voz y trabaja mejor sobre alfombras. Está pensado para quien quiere comodidad extra (pedirle por voz que arranque) sin irse al precio del tope de gama.` },
+      { type: "product-card", productMlaId: "MLA44714806", label: "Aspira alfombras", labelColor: "blue", ranking: 2, description: `Sube la apuesta sobre el S40c con mapeo, comando de voz y mejor desempeño en alfombras. Hoy cuesta más que el S40 Pro de abajo, así que conviene mirar los dos antes de elegir.` },
+      { type: "p", content: `El [S20](https://meli.la/18CB1Wa) se ubica un escalón arriba del S40c en prestaciones: mantiene el mapeo, suma comando de voz y trabaja mejor sobre alfombras. Pensado para quien quiere esa comodidad extra (pedirle por voz que arranque).` },
+      { type: "callout", calloutVariant: "warning", calloutTitle: `El orden de precio no es el que esperás`, content: `A precio de hoy, el S20 sale {{precio:MLA44714806}}, más caro que el [S40 Pro](https://meli.la/117oW5y) de abajo ({{precio:MLA66281403}}), que además tiene más succión declarada (15.000 Pa). Si tu prioridad es succión o precio, conviene mirar el S40 Pro antes de pagar de más por el S20 solo por el comando de voz.` },
       { type: "callout", calloutVariant: "note", calloutTitle: `Ojo con el nombre`, content: `El "S20" robot aspirador NO es lo mismo que las aspiradoras de mano que aparecen en las mismas búsquedas. Si lo que querés es un robot que ande solo por el piso, este es el correcto; las de mano son otra categoría.` },
-  
+
       { type: "h3", title: `3. Xiaomi S40 Pro 15.000 Pa — el punto justo de la marca` },
       { type: "product-card", productMlaId: "MLA66281403", label: "Mejor relación precio-calidad", labelColor: "green", ranking: 3, description: `15.000 Pa de succión, el número más alto de toda la línea Xiaomi, y brazos extensibles que llegan a los rincones, por menos de lo que sale el X20 Pro. Si tenés alfombras, mascotas o una casa mediana, este es el que recomendamos para la mayoría.` },
       { type: "p", content: `Acá está, para nosotros, el mejor robot Xiaomi para la mayoría de la gente. El [S40 Pro](https://meli.la/117oW5y) declara **15.000 Pa de succión**, que es el número más alto de toda la línea, incluso por encima de modelos que cuestan el doble. Esa potencia es la que hace que levante pelo de mascota incrustado en alfombras y migas en las uniones del piso, no solo el polvo de superficie.` },
