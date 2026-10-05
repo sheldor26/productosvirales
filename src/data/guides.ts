@@ -33327,6 +33327,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     ],
     internalLinks: [
       { label: "Transportadora para gatos: cuál comprar", href: "/guias/mascotas/transportadora-para-gatos" },
+      { label: "Casa para perro: cuál comprar", href: "/guias/mascotas/casa-para-perro" },
       { label: "Mancuernas: cuál comprar", href: "/guias/fitness/mancuernas" },
       { label: "Bicicleta fija: cuál comprar", href: "/guias/fitness/bicicleta-fija" },
     ],
@@ -34470,8 +34471,122 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     ],
     internalLinks: [
       { label: "Rascador para gatos: cuál comprar", href: "/guias/mascotas/rascador-para-gatos" },
+      { label: "Casa para perro: cuál comprar", href: "/guias/mascotas/casa-para-perro" },
     ],
     internalLinksTitle: "Más para tu gato",
+  },
+  {
+    slug: "casa-para-perro",
+    category: "casa-para-perro",
+    silo: "mascotas",
+    pillar: true,
+    title: `Casa para perro: cuál comprar en Argentina [2026]`,
+    seoTitle: `Casa para Perro: Cuál Comprar en Argentina [2026]`,
+    metaDescription: `Comparamos 4 casas para perro: madera, plástico y la única plegable. Una dice "térmica" en el título, pero su propia ficha declara que no lo es.`,
+    ogTitle: `Casa para perro: cuál comprar en Argentina`,
+    ogDescription: `4 casas para perro comparadas por material, tamaño de raza y si están realmente declaradas para exterior.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_2X_888858-MLA91134758764_092025-O.webp`,
+    h1: `Casa para perro: cuál comprar en Argentina y qué mirar antes [2026]`,
+    directAnswer: `Para la mayoría conviene la **[Rimax Grande](/producto/cucha-rimax-grande-con-comedero-de-regalo-la-mas-vendida-mla738917135)** (alrededor de {{precio:MLA738917135:k}}): es la más vendida de esta comparativa, con comedero de regalo, aunque su ficha declara que no es térmica pese al título. Si tu perro es de raza pequeña, la **[Rimax Pequeña](/producto/casa-cucha-rimax-para-perros-de-raza-pequena-resistente-al-agua-mlau3401621813)**, resistente al agua. Si necesitás algo plegable y declarado para exterior, la **[Proline](/producto/cucha-de-exteriores-proline-plegable-con-ventilacion-lateral-mla57498678)**. Y si el presupuesto manda, la **[cucha de madera](/producto/cucha-de-madera-la-casa-de-tu-mascota-grande-80x60-personalizable-mla46711967)**, la más económica.`,
+    publishedDate: "2026-10-04",
+    updatedDate: "2026-10-04",
+    sitemapLastmod: "2026-10-04",
+    hasDisclosure: true,
+    readingTime: 8,
+    standfirst: `Una casa para perro va de {{precio:MLA46711967:k}} a {{precio:MLA738917135:k}}. Comparamos 4 modelos reales de MercadoLibre Argentina por **material (madera o plástico), tamaño de raza y si están realmente declaradas para exterior**, con contras sacadas de reseñas verdaderas, dentro de nuestro silo de [Mascotas](/categoria/mascotas).`,
+    quickPicks: [
+      { productMlaId: "MLA738917135", label: "La más vendida", labelColor: "blue", tagline: "Rimax Grande: con comedero de regalo, {{reviews:MLA738917135}} opiniones" },
+      { productMlaId: "MLAU3401621813", label: "Para razas pequeñas", labelColor: "green", tagline: "Rimax Pequeña: la única pensada para perros chicos" },
+      { productMlaId: "MLA57498678", label: "La única plegable", labelColor: "purple", tagline: "Proline: declarada para exterior, 12 meses de garantía" },
+      { productMlaId: "MLA46711967", label: "La más económica", labelColor: "amber", tagline: "Cucha de madera: personalizable a pedido" },
+    ],
+    intro: [
+      `Elegir una **casa para perro** parece una decisión de tamaño y termina siendo una de material y honestidad en el título. Madera o plástico, para interior o exterior, no son lo mismo, y confundirlos es la forma más común de terminar con una casa que tu perro no puede usar bien.`,
+      `Comparamos 4 casas para perro reales de MercadoLibre Argentina y verificamos, una por una, qué declara su ficha técnica sobre material, tamaño de raza y uso recomendado. Apareció algo que conviene saber antes de comprar: **la más vendida de esta comparativa dice "térmica" en el título, pero su propia ficha técnica declara que no lo es**.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_888858-MLA91134758764_092025-O.webp", alt: `Casa para perro de plástico con techo a dos aguas`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Si no querés leer toda la comparativa: la **[Rimax Grande](/producto/cucha-rimax-grande-con-comedero-de-regalo-la-mas-vendida-mla738917135)** es la más vendida de las cuatro, con **{{reviews:MLA738917135}} opiniones** y comedero de regalo. Ojo: su ficha declara que no es térmica, pese a que el título lo dice.` },
+
+      { type: "callout", calloutVariant: "warning", calloutTitle: "El título dice \"térmica\", la ficha dice que no", content: `La casa más vendida de esta comparativa (Rimax Grande) tiene en su título la palabra "térmica", pero su propia tabla de especificaciones declara explícitamente "Es térmica: No". La descripción además recomienda usarla bajo techo, no a la intemperie sin resguardo — es la única de las cuatro que ni siquiera declara un ambiente de uso. La cucha de madera y la Rimax Pequeña declaran "Interior/Exterior"; solo la **Proline** declara exclusivamente "Ambientes: Exterior", sin mencionar interior. Antes de comprar pensando en dejar la casa afuera sin reparo, revisá la ficha técnica completa, no solo el título de la publicación.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** partimos del rubro de casas para perro de MercadoLibre Argentina y verificamos cada publicación en vivo el 2026-10-04: precio, stock, ficha técnica campo por campo y reseñas de compradores. Miramos especialmente cuatro campos que deciden la compra: **material (madera o plástico)**, **tamaño de raza recomendado**, **si la ficha declara uso para exterior o solo bajo techo**, y **si es resistente al agua y fácil de armar**. Los precios se verifican automáticamente contra MercadoLibre.` },
+
+      { type: "h2", title: `Los cuatro datos que deciden la compra`, id: "que-mirar" },
+      { type: "p", content: `**Material.** Madera (más estética, pero en crudo necesita tratamiento para exterior) o plástico (más resistente de fábrica, más fácil de limpiar). En esta comparativa hay una de madera y tres de plástico.` },
+      { type: "p", content: `**Tamaño de raza.** La mayoría de las publicaciones de esta categoría están pensadas para perros medianos o grandes; solo una de las cuatro de esta comparativa está declarada específicamente para razas pequeñas.` },
+      { type: "p", content: `**Exterior o bajo techo.** El dato que más confusión genera. La Rimax Grande dice "térmica" en el título pero "No" en sus especificaciones, y no declara ningún ambiente de uso. La cucha de madera y la Rimax Pequeña declaran "Interior/Exterior". Solo la Proline declara exclusivamente "Exterior", sin mencionar interior. Conviene leer la ficha técnica completa, no solo el título.` },
+      { type: "p", content: `**Resistente al agua y fácil de armar.** Dos de las cuatro fichas de esta comparativa declaran ambas cosas; las otras dos no, según su propia tabla de especificaciones.` },
+
+      { type: "h2", title: `Comparativa rápida: las 4 frente a frente`, id: "tabla-comparativa" },
+      { type: "table", headers: ["Modelo", "Material", "Tamaño de raza", "Ambiente declarado", "Ideal para"], rows: [
+        ["[Cucha de madera](https://meli.la/2uevnSY)", "Madera de pino", "Grande", "Interior/Exterior (pero no resistente al agua)", "Presupuesto ajustado, personalizable"],
+        ["[Rimax Grande](https://meli.la/1S4T8qG)", "Plástico", "Mediana/Grande", "No declara (recomendada bajo techo)", "La mayoría: la más vendida"],
+        ["[Rimax Pequeña](https://meli.la/2MdMhBi)", "Plástico", "Pequeña", "Interior/Exterior, resistente al agua", "Perros de raza pequeña"],
+        ["[Proline](https://meli.la/2Hj26c1)", "Polipropileno", "Mediana", "Solo exterior, la única exclusiva", "Exterior genuino, plegable para guardar"],
+      ] },
+      { type: "p", content: `El nombre de cada modelo lleva directo a su publicación en MercadoLibre. Abajo está el detalle de las cuatro, en el mismo orden: qué hace bien cada una y dónde se queda corta.` },
+
+      { type: "h2", title: `El ranking`, id: "ranking" },
+
+      { type: "h3", title: `1. Rimax Grande` },
+      { type: "product-card", productMlaId: "MLA738917135", label: "La más vendida", labelColor: "blue", ranking: 1, description: "Cucha de plástico con comedero de regalo. La más vendida de las cuatro, con {{reviews:MLA738917135}} opiniones." },
+      { type: "p", content: `Con {{reviews:MLA738917135}} opiniones es, por lejos, la casa con más respaldo de compradores de esta comparativa. Incluye un comedero de regalo y tiene piso elevado del suelo.` },
+      { type: "pull-quote", content: `"Le encantó a mi perro. La compre porque sufre de ansiedad cuando me voy al trabajo y decían que tenian que tener un lugar tipo 'cueva' y le encantó."`, attribution: `Compradora de la Rimax Grande, calificación 5/5` },
+      { type: "p", content: `La contra real: el título dice "térmica", pero su propia ficha técnica declara "Es térmica: No", y recomienda uso bajo techo.` },
+
+      { type: "h3", title: `2. Rimax Pequeña` },
+      { type: "product-card", productMlaId: "MLAU3401621813", label: "Para razas pequeñas", labelColor: "green", ranking: 2, description: "Cucha de plástico pensada para perros de raza pequeña. Declarada resistente al agua y fácil de armar." },
+      { type: "p", content: `Es la **única de esta comparativa pensada específicamente para perros de raza pequeña**. Su ficha declara ventilación, piso elevado, resistencia al agua y fácil armado.` },
+      { type: "pull-quote", content: `"Hermosa la casita ya es la segunda que compro."`, attribution: `Comprador de la Rimax Pequeña, calificación 5/5` },
+      { type: "p", content: `La contra real, honesta: un comprador cuenta que su perrita no terminó usándola mucho, aunque igual la califica como una buena cucha. Tiene uno de los respaldos de reseñas más chicos de esta comparativa.` },
+
+      { type: "h3", title: `3. Proline` },
+      { type: "product-card", productMlaId: "MLA57498678", label: "La única plegable", labelColor: "purple", ranking: 3, description: "Cucha de polipropileno declarada para exterior, plegable y resistente al agua. Vendida por la tienda oficial de Newsan." },
+      { type: "p", content: `Es la **única de esta comparativa plegable**, y la única cuya ficha declara "Ambientes: Exterior" en exclusiva (la madera y la Rimax Pequeña dicen "Interior/Exterior"; la Rimax Grande no declara ningún ambiente y recomienda uso bajo techo). Tiene 12 meses de garantía, la más larga del grupo.` },
+      { type: "pull-quote", content: `"Literalmente la arme en 5 minutos."`, attribution: `Comprador de la Proline, calificación 5/5` },
+      { type: "p", content: `La contra real: un comprador sugiere que el techo frontal debería sobresalir más para proteger mejor de la lluvia. Tiene pocas reseñas todavía (recién llegada al catálogo).` },
+
+      { type: "h3", title: `4. Cucha de madera` },
+      { type: "product-card", productMlaId: "MLA46711967", label: "La más económica", labelColor: "amber", ranking: 4, description: "Cucha de madera de pino en crudo, personalizable a pedido. La más económica de esta comparativa." },
+      { type: "p", content: `Es **la opción más barata de esta comparativa** por un buen margen: madera de pino con estructura de eucalipto, pensada para perros grandes (10 a 30 kg).` },
+      { type: "pull-quote", content: `"Excelente atención. La cucha es hermosa, les pedimos hasta personalizar el nombre y barnizada."`, attribution: `Compradora de la cucha de madera, calificación 5/5` },
+      { type: "p", content: `La contra real: viene en crudo, sin pintar, y su propia ficha declara que no es resistente al agua ni fácil de armar. Para exterior sin resguardo conviene tratarla primero.` },
+
+      { type: "h2", title: `Cómo elegir tu casa para perro`, id: "como-elegir" },
+      { type: "h3", title: `1. Leé la ficha técnica completa, no solo el título` },
+      { type: "p", content: `La Rimax Grande dice "térmica" en el título, pero su propia ficha declara que no lo es. Antes de comprar pensando en un uso puntual (exterior, térmica, resistente al agua), confirmá el dato en la tabla de especificaciones, no en el nombre de la publicación.` },
+      { type: "h3", title: `2. Definí el material según dónde la vas a usar` },
+      { type: "p", content: `Madera (la opción económica de esta comparativa) necesita tratamiento si va a estar a la intemperie. Plástico (las otras tres) suele venir más resistente de fábrica, aunque no todas están declaradas para exterior genuino.` },
+      { type: "h3", title: `3. Mirá el tamaño de tu perro` },
+      { type: "p", content: `Solo la Rimax Pequeña está declarada específicamente para razas pequeñas. Las otras tres apuntan a perros medianos o grandes. Confirmá las medidas internas antes de comprar si tu perro está en el límite.` },
+
+      { type: "h2", title: `Cuánto cuesta una casa para perro en Argentina`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de {{precio:MLA46711967:k}}:** la [cucha de madera](https://meli.la/2uevnSY), la opción más económica.`,
+        `**Alrededor de {{precio:MLAU3401621813:k}}:** la [Rimax Pequeña](https://meli.la/2MdMhBi), para razas pequeñas.`,
+        `**Alrededor de {{precio:MLA57498678:k}}:** la [Proline](https://meli.la/2Hj26c1), la única plegable.`,
+        `**Alrededor de {{precio:MLA738917135:k}}:** la [Rimax Grande](https://meli.la/1S4T8qG), la más vendida.`,
+      ] },
+
+      { type: "verdict", content: `Para la mayoría, la **Rimax Grande**: es la más vendida de esta comparativa, con comedero de regalo, aunque su propia ficha declara que no es térmica pese al título, así que mejor usarla bajo techo. Si tu perro es de raza pequeña, la **Rimax Pequeña**, declarada resistente al agua, sabiendo que no todos los perros la adoptan de entrada. Si necesitás algo plegable y genuinamente para exterior, la **Proline**, con la garantía más larga del grupo. Y si el presupuesto manda, la **cucha de madera**, personalizable a pedido, entendiendo que viene en crudo y conviene tratarla para exterior.` },
+
+      { type: "h2", title: `Preguntas frecuentes`, id: "faq" },
+    ],
+    faq: [
+      { question: `¿Cuál es la mejor casa para perro en Argentina?`, answer: `Por respaldo de compradores, la [Rimax Grande](/producto/cucha-rimax-grande-con-comedero-de-regalo-la-mas-vendida-mla738917135): tiene {{reviews:MLA738917135}} opiniones, muy por encima del resto de esta comparativa. Incluye comedero de regalo, pero su ficha declara que no es térmica pese al título.` },
+      { question: `¿Hay alguna casa para perro realmente apta para exterior?`, answer: `La cucha de madera y la [Rimax Pequeña](/producto/casa-cucha-rimax-para-perros-de-raza-pequena-resistente-al-agua-mlau3401621813) declaran "Interior/Exterior" en su ficha técnica. Solo la [Proline](/producto/cucha-de-exteriores-proline-plegable-con-ventilacion-lateral-mla57498678) declara "Exterior" en exclusiva, sin mencionar interior. La Rimax Grande no declara ningún ambiente y recomienda uso bajo techo pese a decir "térmica" en el título.` },
+      { question: `¿Conviene madera o plástico?`, answer: `Depende de dónde la vayas a usar. La madera de esta comparativa viene en crudo y necesita tratamiento para exterior, pero se puede personalizar a pedido. El plástico suele venir más resistente de fábrica, aunque no todas las opciones están declaradas para exterior genuino.` },
+      { question: `¿Hay alguna casa para perros de raza pequeña?`, answer: `Sí, la [Rimax Pequeña](/producto/casa-cucha-rimax-para-perros-de-raza-pequena-resistente-al-agua-mlau3401621813) es la única de esta comparativa pensada específicamente para ese tamaño, con ficha que declara resistencia al agua.` },
+      { question: `¿Mi perro va a usar la casa seguro?`, answer: `No hay garantía con ninguna cucha nueva: un comprador de la Rimax Pequeña cuenta que su perrita no terminó usándola mucho, aunque la calidad le pareció buena. Es algo que puede pasar independientemente del modelo.` },
+      { question: `¿Hay alguna opción económica?`, answer: `Sí, la [cucha de madera](/producto/cucha-de-madera-la-casa-de-tu-mascota-grande-80x60-personalizable-mla46711967) es la más barata de esta comparativa, y se puede personalizar con barniz y el nombre de tu mascota.` },
+    ],
+    internalLinks: [
+      { label: "Rascador para gatos: cuál comprar", href: "/guias/mascotas/rascador-para-gatos" },
+      { label: "Transportadora para gatos: cuál comprar", href: "/guias/mascotas/transportadora-para-gatos" },
+    ],
+    internalLinksTitle: "Más para tu mascota",
   },
 ];
 

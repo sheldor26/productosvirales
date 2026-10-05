@@ -101463,6 +101463,372 @@ Es la transportadora más económica de esta comparativa, plegable y con buena c
       { question: "¿Declara peso máximo soportado?", answer: "No, su ficha no declara un límite de peso. Si tu mascota es grande o pesada, conviene una de las opciones rígidas de esta comparativa." },
     ],
   },
+  // Guía nueva casa-para-perro — silo mascotas (sourcing MercadoLibre 2026-10-04).
+  // Los 4 con stock verificado en vivo el mismo día.
+  {
+    id: "MLA46711967",
+    title: "Cucha de Madera La Casa de tu Mascota — Grande 80x60, Personalizable",
+    canonicalName: "La Casa de tu Mascota Cucha Grande",
+    brand: "La Casa de tu Mascota",
+    price: 74260,
+    originalPrice: 79000,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_602828-MLA113184892972_072026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_2X_602828-MLA113184892972_072026-O.webp",
+    ],
+    category: "Mascotas",
+    categorySlug: "mascotas",
+    permalink: "https://www.mercadolibre.com.ar/cucha-grande-80x60-varios-opcionales/p/MLA46711967",
+    affiliateUrl: "https://meli.la/2uevnSY",
+    condition: "new",
+    freeShipping: false,
+    rating: 4.9,
+    reviewCount: 35,
+    soldQuantity: 100,
+    pastelColor: "var(--pastel-amber)",
+    specs: [
+      { label: "Marca", value: "La Casa de tu Mascota" },
+      { label: "Modelo", value: "Grande 80 x 60" },
+      { label: "Tamaño de la raza", value: "Grande (10 a 30 kg)" },
+      { label: "Largo x Ancho x Altura", value: "60 cm x 80 cm x 80 cm" },
+      { label: "Peso", value: "16 kg" },
+      { label: "Ambientes", value: "Interior/Exterior" },
+      { label: "Materiales", value: "Madera de pino con estructura de eucalipto" },
+      { label: "Forma de la cucha", value: "1 agua" },
+      { label: "Con piso elevado", value: "Sí" },
+      { label: "Es resistente al agua", value: "No" },
+      { label: "Es fácil de armar", value: "No" },
+      { label: "Es fácil de limpiar", value: "Sí" },
+    ],
+    relatedProducts: ["MLA738917135", "MLAU3401621813", "MLA57498678"],
+    priceUpdated: "2026-10-04", priceLastChecked: "2026-10-04", priceVerifiedAt: "2026-10-04",
+    priceStatus: "fresh", reviewsSampledAt: "2026-10-04",
+    description: "Cucha de madera de pino en crudo, la más económica de esta comparativa. {{reviews:MLA46711967}} opiniones y {{rating:MLA46711967}} de promedio.",
+    seoTitle: "Cucha de Madera La Casa de tu Mascota: {{reviews:MLA46711967}} opiniones",
+    metaDescription: "Cucha de madera de pino 80x60 cm, la más económica de esta comparativa. {{reviews:MLA46711967}} opiniones y {{rating:MLA46711967}} estrellas.",
+    verdict: "Es la **opción más económica de esta comparativa**, de madera de pino con estructura de eucalipto. Tiene {{reviews:MLA46711967}} opiniones con {{rating:MLA46711967}} de promedio. Viene en crudo, sin pintar: según una compradora funciona bien así para uso en interior, y otra pidió barnizado y personalización con el nombre de su mascota al vendedor. La ficha declara que no es resistente al agua ni fácil de armar.",
+    pros: [
+      "La más económica de esta comparativa",
+      "Madera de pino con estructura de eucalipto, pensada para perros grandes (10 a 30 kg)",
+      "Se puede pedir personalizada con el nombre de la mascota y barnizada, según una compradora",
+      "Piso elevado del suelo",
+      "{{reviews:MLA46711967}} opiniones con {{rating:MLA46711967}} de promedio",
+    ],
+    cons: [
+      "Viene en crudo, sin pintar ni barnizar: según su ficha, no es resistente al agua",
+      "Su ficha también declara que no es fácil de armar",
+      "Entrega a acordar con el vendedor, no es envío estándar de MercadoLibre",
+      "Garantía de fábrica de 3 meses, la más corta de esta comparativa",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", text: "Excelente atención. La cucha es hermosa, les pedimos hasta personalizar el nombre y barnizada. Las terminaciones son muy buenas y al día de hoy, la cucha está en excelente estado." },
+      { rating: 5, country: "Argentina", text: "Ya había comprado anteriormente. En mi caso, fue sin ningún tipo de pintura porque es para el interior y no tuve ningún problema. Super recomendable." },
+    ],
+    articleBody: `## Qué es la cucha de madera La Casa de tu Mascota
+
+Es una cucha de madera de pino con estructura de eucalipto, la más económica de [nuestra comparativa de casas para perro en Argentina](/guias/mascotas/casa-para-perro). Cuesta {{precio:MLA46711967}} y tiene {{reviews:MLA46711967}} calificaciones con {{rating:MLA46711967}} estrellas.
+
+## La más barata, pero en crudo
+
+Mide 80x60x80 cm, pesa 16 kg y está pensada para perros de 10 a 30 kg. Viene de madera sin pintar: una compradora que la usa en interior confirma que funciona bien así, sin necesidad de pintura.
+
+## Personalizable a pedido
+
+A diferencia de las opciones de plástico de esta comparativa, esta cucha se puede personalizar: una compradora pidió que le barnizaran la madera y le pusieran el nombre de su mascota, y quedó conforme con el resultado meses después.
+
+## La contra real: no es para exterior sin tratar, y no es fácil de armar
+
+Su propia ficha técnica declara que no es resistente al agua ni fácil de armar, a diferencia de la [Proline](/producto/cucha-de-exteriores-proline-plegable-con-ventilacion-lateral-mla57498678) de esta comparativa. Si la vas a usar a la intemperie, conviene tratarla con barniz o pintura exterior antes.
+
+## Para quién es, y para quién no
+
+Es para vos si buscás la opción más económica y no te molesta tratarla vos mismo (o pedirle al vendedor que la pinte) antes de dejarla a la intemperie. No es para vos si necesitás algo resistente al agua de fábrica y fácil de armar: para eso, la Proline de esta comparativa.
+
+## El veredicto
+
+Es la cucha más económica de esta comparativa, de madera y personalizable a pedido. Viene en crudo y su propia ficha declara que no es fácil de armar ni resistente al agua sin tratar.`,
+    faq: [
+      { question: "¿Por qué es la más barata de la comparativa?", answer: "Es de madera en crudo (sin pintar ni barnizar) y sin accesorios extra como comedero, a diferencia de las opciones de plástico más caras de esta comparativa." },
+      { question: "¿Se puede usar afuera?", answer: "Su ficha declara que no es resistente al agua. Para uso a la intemperie conviene tratarla antes con barniz o pintura exterior." },
+      { question: "¿Se puede personalizar?", answer: "Sí, una compradora pidió que se la barnizaran y le pusieran el nombre de su mascota, y quedó conforme con el resultado." },
+      { question: "¿Es fácil de armar?", answer: "No, según su propia ficha técnica." },
+      { question: "¿Para qué tamaño de perro sirve?", answer: "Para perros grandes, de 10 a 30 kg, según su ficha." },
+      { question: "¿Qué garantía tiene?", answer: "3 meses de garantía de fábrica, la más corta de esta comparativa." },
+    ],
+  },
+  {
+    id: "MLA738917135",
+    title: "Cucha Rimax Grande — con Comedero de Regalo, la Más Vendida",
+    canonicalName: "Rimax Cucha Grande",
+    brand: "Rimax",
+    price: 218495,
+    originalPrice: 229995,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_888858-MLA91134758764_092025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_2X_888858-MLA91134758764_092025-O.webp",
+    ],
+    category: "Mascotas",
+    categorySlug: "mascotas",
+    permalink: "https://articulo.mercadolibre.com.ar/MLA-738917135-cucha-casa-de-perro-grande-termica-comedero-de-regalo-_JM",
+    affiliateUrl: "https://meli.la/1S4T8qG",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 496,
+    soldQuantity: 1000,
+    badge: "bestseller",
+    pastelColor: "var(--pastel-blue)",
+    specs: [
+      { label: "Marca", value: "Rimax" },
+      { label: "Modelo", value: "Casa/Cucha Perro" },
+      { label: "Tamaño de la raza", value: "Mediana/Grande" },
+      { label: "Largo x Ancho x Altura", value: "92 cm x 90 cm x 89 cm" },
+      { label: "Peso", value: "10,3 kg" },
+      { label: "Materiales", value: "Plástico" },
+      { label: "Es térmica", value: "No" },
+      { label: "Incluye comedero de regalo", value: "Sí" },
+    ],
+    relatedProducts: ["MLA46711967", "MLAU3401621813", "MLA57498678"],
+    priceUpdated: "2026-10-04", priceLastChecked: "2026-10-04", priceVerifiedAt: "2026-10-04",
+    priceStatus: "fresh", reviewsSampledAt: "2026-10-04",
+    description: "Cucha de plástico Rimax con comedero de regalo, la más vendida de esta comparativa. {{reviews:MLA738917135}} opiniones y {{rating:MLA738917135}} de promedio.",
+    seoTitle: "Cucha Rimax Grande: la más vendida, {{reviews:MLA738917135}} opiniones",
+    metaDescription: "Cucha de perro Rimax grande, con comedero de regalo. La más vendida de esta comparativa, con {{reviews:MLA738917135}} opiniones y {{rating:MLA738917135}} estrellas.",
+    verdict: "Es la **más vendida de esta comparativa por lejos**, con {{reviews:MLA738917135}} opiniones con {{rating:MLA738917135}} de promedio: el mayor respaldo de las cuatro. Pese a que el título de la publicación dice \"térmica\", su propia ficha técnica declara \"Es térmica: No\", y la descripción recomienda usarla bajo techo, no a la intemperie sin reparo.",
+    pros: [
+      "La más vendida de esta comparativa por lejos: {{reviews:MLA738917135}} opiniones",
+      "Incluye un comedero de regalo",
+      "Piso elevado del suelo para mantener seco al perro",
+      "Material resistente a la humedad y fácil de limpiar, según su ficha",
+      "Viene en caja, declarada fácil de armar",
+    ],
+    cons: [
+      "El título dice \"térmica\", pero su propia ficha técnica declara \"Es térmica: No\" — una inconsistencia real entre el título y los datos declarados",
+      "La descripción recomienda uso bajo techo, no a la intemperie sin resguardo",
+      "Es la más cara de esta comparativa",
+      "Entrega a acordar con el vendedor en algunas variantes",
+    ],
+    customerReviews: [
+      { rating: 4, country: "Argentina", text: "Gran cucha para perros. El material es muy bueno, es amplia y además el armado es simple. No lo esperaba, pero mi perro entró ni bien terminé de armarla." },
+      { rating: 5, country: "Argentina", text: "Le encantó a mi perro. La compre porque sufre de ansiedad cuando me voy al trabajo y decían que tenian que tener un lugar tipo \"cueva\" y le encantó." },
+    ],
+    articleBody: `## Qué es la cucha Rimax Grande
+
+Es una cucha de plástico de la marca Rimax, con comedero de regalo, la más vendida de [nuestra comparativa de casas para perro en Argentina](/guias/mascotas/casa-para-perro). Cuesta {{precio:MLA738917135}} y tiene {{reviews:MLA738917135}} calificaciones con {{rating:MLA738917135}} estrellas.
+
+## La más vendida, por lejos
+
+Con {{reviews:MLA738917135}} opiniones, es la cucha con mayor respaldo de compradores de esta comparativa, muy por encima del resto. Mide 92x90x89 cm, pesa 10,3 kg y está pensada para perros de raza mediana a grande.
+
+## El título dice "térmica", pero la ficha dice que no lo es
+
+Esta es la inconsistencia real que conviene conocer antes de comprar: el título de la publicación incluye la palabra "térmica", pero la tabla de especificaciones de la misma ficha declara explícitamente "Es térmica: No". La descripción además recomienda su uso bajo techo, no a la intemperie sin resguardo adicional.
+
+## Fácil de armar, según compradores reales
+
+Una compradora lo confirma: "no lo esperaba, pero mi perro entró ni bien terminé de armarla". Otra la compró para un perro con ansiedad por separación, buscando un espacio tipo "cueva", y cuenta que le encantó.
+
+## Para quién es, y para quién no
+
+Es para vos si buscás la opción con más respaldo de compradores y vas a usarla bajo techo o resguardada. No es para vos si necesitás algo genuinamente térmico o apto para exterior sin reparo: para eso, la [Proline](/producto/cucha-de-exteriores-proline-plegable-con-ventilacion-lateral-mla57498678) de esta comparativa, declarada explícitamente para exterior.
+
+## El veredicto
+
+Es la cucha con más respaldo de compradores de esta comparativa por lejos, con comedero de regalo y piso elevado. Ojo con el nombre: pese a decir "térmica" en el título, su propia ficha técnica declara que no lo es, y recomienda uso bajo techo.`,
+    faq: [
+      { question: "¿Por qué es la más vendida de la comparativa?", answer: "Tiene {{reviews:MLA738917135}} opiniones, muy por encima de las otras tres cuchas de esta comparativa." },
+      { question: "¿Es realmente térmica?", answer: "No: pese a que el título de la publicación dice \"térmica\", la propia tabla de especificaciones declara \"Es térmica: No\". La descripción recomienda uso bajo techo." },
+      { question: "¿Sirve para exterior sin resguardo?", answer: "La ficha recomienda uso bajo techo, no a la intemperie sin reparo. Para exterior genuino, la Proline de esta comparativa está declarada explícitamente para ese uso." },
+      { question: "¿Trae comedero?", answer: "Sí, incluye un comedero de regalo según la publicación." },
+      { question: "¿Es fácil de armar?", answer: "Sí, según compradores reales: una confirma que su perro entró apenas terminó de armarla." },
+      { question: "¿Para qué tamaño de perro sirve?", answer: "Para razas medianas y grandes, según su ficha técnica." },
+    ],
+  },
+  {
+    id: "MLAU3401621813",
+    title: "Casa Cucha Rimax para Perros de Raza Pequeña — Resistente al Agua",
+    canonicalName: "Rimax Cucha Pequeña",
+    brand: "Rimax",
+    price: 89900,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_804733-MLA110887963900_052026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_2X_804733-MLA110887963900_052026-O.webp",
+    ],
+    category: "Mascotas",
+    categorySlug: "mascotas",
+    permalink: "https://www.mercadolibre.com.ar/casa-cucha-rimax-para-perro-raza-pequenas/up/MLAU3401621813",
+    affiliateUrl: "https://meli.la/2MdMhBi",
+    condition: "new",
+    freeShipping: false,
+    rating: 5.0,
+    reviewCount: 9,
+    soldQuantity: 50,
+    pastelColor: "var(--pastel-green)",
+    specs: [
+      { label: "Marca", value: "Rimax" },
+      { label: "Modelo", value: "RIM-14419" },
+      { label: "Color", value: "Terracota" },
+      { label: "Tamaño de la raza", value: "Pequeña" },
+      { label: "Largo x Ancho x Altura", value: "61 cm x 68 cm x 58 cm" },
+      { label: "Ambientes", value: "Interior/Exterior" },
+      { label: "Materiales", value: "Plástico" },
+      { label: "Con ventilación", value: "Sí" },
+      { label: "Con piso elevado", value: "Sí" },
+      { label: "Es resistente al agua", value: "Sí" },
+      { label: "Es fácil de armar", value: "Sí" },
+    ],
+    relatedProducts: ["MLA46711967", "MLA738917135", "MLA57498678"],
+    priceUpdated: "2026-10-04", priceLastChecked: "2026-10-04", priceVerifiedAt: "2026-10-04",
+    priceStatus: "fresh", reviewsSampledAt: "2026-10-04",
+    description: "Cucha de plástico Rimax para perros de raza pequeña, con ventilación y resistente al agua. {{reviews:MLAU3401621813}} opiniones y {{rating:MLAU3401621813}} de promedio.",
+    seoTitle: "Casa Rimax para Perros Pequeños: {{reviews:MLAU3401621813}} opiniones",
+    metaDescription: "Casa cucha Rimax para perros de raza pequeña, resistente al agua y con ventilación. {{reviews:MLAU3401621813}} opiniones y {{rating:MLAU3401621813}} estrellas.",
+    verdict: "Es la **única de esta comparativa pensada específicamente para perros de raza pequeña**, con {{reviews:MLAU3401621813}} opiniones con {{rating:MLAU3401621813}} de promedio. Su ficha declara ventilación, piso elevado, resistencia al agua y fácil armado. Un comprador real cuenta que su perrita no terminó usándola mucho, aunque igual la califica como una buena cucha.",
+    pros: [
+      "La única de esta comparativa pensada específicamente para perros de raza pequeña",
+      "Declarada resistente al agua, con ventilación y fácil de armar, según su ficha técnica",
+      "Un comprador repitió la compra: \"ya es la segunda que compro\"",
+      "{{rating:MLAU3401621813}} de promedio, entre las mejor calificadas de esta comparativa",
+      "Piso elevado del suelo",
+    ],
+    cons: [
+      "Uno de los respaldos de reseñas más chicos de esta comparativa: solo {{reviews:MLAU3401621813}} opiniones",
+      "Un comprador cuenta que su perrita no terminó usándola mucho, aunque igual la recomienda",
+      "No incluye cama ni puerta, según su ficha técnica",
+      "Entrega a acordar con el vendedor",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", text: "Hermosa la casita ya es la segunda que compro." },
+      { rating: 5, country: "Argentina", text: "Buenísima cucheta. Lastima que nuestra perrita no le gusta usarla mucho. Pero esta muy buena." },
+    ],
+    articleBody: `## Qué es la casa Rimax para perros pequeños
+
+Es una cucha de plástico de la marca Rimax, pensada específicamente para perros de raza pequeña, dentro de [nuestra comparativa de casas para perro en Argentina](/guias/mascotas/casa-para-perro). Cuesta {{precio:MLAU3401621813}} y tiene {{reviews:MLAU3401621813}} calificaciones con {{rating:MLAU3401621813}} estrellas.
+
+## La única pensada para razas pequeñas
+
+A diferencia de las otras tres cuchas de esta comparativa (pensadas para razas medianas o grandes), esta mide 61x68x58 cm y está declarada específicamente para perros de raza pequeña. Su ficha técnica declara que es resistente al agua, con ventilación, piso elevado y fácil de armar.
+
+## Respaldo chico, pero buena calificación
+
+Tiene uno de los respaldos de reseñas más chicos de esta comparativa ({{reviews:MLAU3401621813}}), pero una calificación de {{rating:MLAU3401621813}}. Un comprador confirma que repitió la compra: "ya es la segunda que compro".
+
+## La contra real: no todos los perros la adoptan
+
+Un comprador honesto cuenta que su perrita no terminó usando mucho la cucha, aunque la califica igual de "muy buena". Es un recordatorio de que, como con cualquier cucha nueva, no hay garantía de que la mascota la adopte de entrada.
+
+## Para quién es, y para quién no
+
+Es para vos si tenés un perro de raza pequeña y buscás una opción declarada resistente al agua y fácil de armar. No es para vos si tu perro es mediano o grande: para eso, cualquiera de las otras tres opciones de esta comparativa.
+
+## El veredicto
+
+Es la única cucha de esta comparativa pensada específicamente para razas pequeñas, con buena calificación pese a tener pocas reseñas. La contra real, honesta: no todos los perros la adoptan de entrada, según un comprador real.`,
+    faq: [
+      { question: "¿Para qué tamaño de perro sirve?", answer: "Para razas pequeñas, según su ficha técnica. Es la única de esta comparativa pensada específicamente para ese tamaño." },
+      { question: "¿Es resistente al agua?", answer: "Sí, según su ficha técnica." },
+      { question: "¿Es fácil de armar?", answer: "Sí, según su ficha técnica." },
+      { question: "¿Tiene ventilación?", answer: "Sí, según su ficha técnica." },
+      { question: "¿Mi perro la va a usar seguro?", answer: "No hay garantía: un comprador cuenta que su perrita no terminó usándola mucho, aunque la calidad le pareció buena. Es algo que puede pasar con cualquier cucha nueva." },
+      { question: "¿Por qué tiene tan pocas reseñas?", answer: "Es una de las de menor volumen de ventas de esta comparativa (+50, frente a +1000 de la Rimax Grande), por eso tiene menos reseñas acumuladas. La Proline de esta comparativa tiene incluso menos reseñas todavía." },
+    ],
+  },
+  {
+    id: "MLA57498678",
+    title: "Cucha de Exteriores Proline — Plegable, con Ventilación Lateral",
+    canonicalName: "Proline Cucha de Exteriores",
+    brand: "Proline",
+    price: 143990,
+    originalPrice: 254099,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_968025-MLA104697599968_012026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_2X_968025-MLA104697599968_012026-O.webp",
+    ],
+    category: "Mascotas",
+    categorySlug: "mascotas",
+    permalink: "https://www.mercadolibre.com.ar/cucha-de-exteriores-proline-mediana-con-ventilacion-lateral-azul/p/MLA57498678",
+    affiliateUrl: "https://meli.la/2Hj26c1",
+    condition: "new",
+    freeShipping: true,
+    rating: 5.0,
+    reviewCount: 6,
+    soldQuantity: 25,
+    pastelColor: "var(--pastel-purple)",
+    specs: [
+      { label: "Marca", value: "Proline" },
+      { label: "Modelo", value: "CYCPR135PI" },
+      { label: "Color", value: "Azul" },
+      { label: "Tamaño de la raza", value: "Mediana" },
+      { label: "Largo x Ancho x Altura", value: "83 cm x 27 cm x 63 cm" },
+      { label: "Peso", value: "4,08 kg" },
+      { label: "Ambientes", value: "Exterior" },
+      { label: "Materiales", value: "PP (polipropileno)" },
+      { label: "Con ventilación", value: "Sí" },
+      { label: "Es plegable", value: "Sí" },
+      { label: "Es resistente al agua", value: "Sí" },
+      { label: "Es fácil de armar", value: "Sí" },
+    ],
+    relatedProducts: ["MLA46711967", "MLA738917135", "MLAU3401621813"],
+    priceUpdated: "2026-10-04", priceLastChecked: "2026-10-04", priceVerifiedAt: "2026-10-04",
+    priceStatus: "fresh", reviewsSampledAt: "2026-10-04",
+    description: "Cucha de polipropileno Proline, declarada para exterior, plegable y resistente al agua. {{reviews:MLA57498678}} opiniones y {{rating:MLA57498678}} de promedio.",
+    seoTitle: "Cucha de Exteriores Proline: plegable, {{reviews:MLA57498678}} opiniones",
+    metaDescription: "Cucha Proline declarada para exterior, plegable, resistente al agua y con ventilación lateral. {{reviews:MLA57498678}} opiniones y {{rating:MLA57498678}} estrellas.",
+    verdict: "Es la **única de esta comparativa plegable**, vendida por la tienda oficial de Newsan (fabricante de Proline). Su ficha declara explícitamente \"Ambientes: Exterior\", a diferencia de la Rimax Grande de esta comparativa, que recomienda uso bajo techo. Tiene {{reviews:MLA57498678}} opiniones con {{rating:MLA57498678}} de promedio, y 12 meses de garantía de fábrica, la más larga de las cuatro.",
+    pros: [
+      "La única de esta comparativa plegable, según su ficha técnica",
+      "Declarada explícitamente para exterior, a diferencia de la Rimax Grande (uso bajo techo)",
+      "12 meses de garantía de fábrica, la más larga de esta comparativa",
+      "Compradores confirman que es muy fácil de armar: \"literalmente la armé en 5 minutos\"",
+      "Vendida por la tienda oficial de Newsan, el fabricante de Proline",
+    ],
+    cons: [
+      "Tiene el respaldo de reseñas más chico de esta comparativa: solo {{reviews:MLA57498678}} opiniones, menos que la Rimax Pequeña ({{reviews:MLAU3401621813}})",
+      "Un comprador sugiere que el techo frontal debería sobresalir más para proteger mejor de la lluvia",
+      "No incluye cama ni puerta, según su ficha técnica",
+      "Es más liviana que las otras tres (4,08 kg), lo que puede importar si tu perro es muy activo",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", text: "Literalmente la arme en 5 minutos." },
+      { rating: 5, country: "Argentina", text: "Muy práctica para armar exelente." },
+      { rating: 5, country: "Argentina", text: "Muy bueno. La única cosa que voy a detallar en la construcción de la misma, como un aporte. Que el frente d ella casa debería ser más larga el techo para estar al aire libre ante lluvias." },
+    ],
+    articleBody: `## Qué es la cucha de exteriores Proline
+
+Es una cucha de polipropileno de la marca Proline, vendida por la tienda oficial de Newsan, dentro de [nuestra comparativa de casas para perro en Argentina](/guias/mascotas/casa-para-perro). Cuesta {{precio:MLA57498678}} y tiene {{reviews:MLA57498678}} calificaciones con {{rating:MLA57498678}} estrellas.
+
+## La única plegable, y declarada para exterior
+
+Su ficha técnica declara "Es plegable: Sí", la única de esta comparativa con esa característica. También declara "Ambientes: Exterior" de forma explícita, a diferencia de la [Rimax Grande](/producto/cucha-rimax-grande-con-comedero-de-regalo-la-mas-vendida-mla738917135) de esta comparativa, cuya ficha recomienda uso bajo techo pese a llamarse "térmica" en el título.
+
+## Fácil de armar, según varios compradores
+
+Dos compradores lo confirman de forma directa: "literalmente la armé en 5 minutos" dice uno; "muy práctica para armar" dice otro. Mide 83x27x63 cm (plegada) y pesa apenas 4,08 kg, la más liviana de esta comparativa.
+
+## La contra real: el techo frontal podría ser más largo
+
+Un comprador aporta una sugerencia concreta: el techo debería sobresalir más sobre la entrada para proteger mejor de la lluvia cuando se usa al aire libre. No es un defecto grave, pero conviene saberlo antes de comprar si llueve seguido en tu zona.
+
+## Para quién es, y para quién no
+
+Es para vos si buscás una cucha genuinamente pensada para exterior, fácil de armar y de guardar plegada. No es para vos si preferís la opción con más respaldo de reseñas: para eso, la Rimax Grande de esta comparativa.
+
+## El veredicto
+
+Es la única cucha plegable de esta comparativa, declarada explícitamente para exterior y con la garantía más larga (12 meses). La contra real, según un comprador: el techo frontal podría sobresalir más para proteger mejor de la lluvia.`,
+    faq: [
+      { question: "¿Es realmente para exterior?", answer: "Sí, su ficha técnica declara explícitamente \"Ambientes: Exterior\", a diferencia de la Rimax Grande de esta comparativa, que recomienda uso bajo techo pese a decir \"térmica\" en el título." },
+      { question: "¿Se puede plegar para guardar?", answer: "Sí, es la única de esta comparativa declarada plegable en su ficha técnica." },
+      { question: "¿Es fácil de armar?", answer: "Sí, según varios compradores reales: uno la armó en 5 minutos." },
+      { question: "¿Qué garantía tiene?", answer: "12 meses de garantía de fábrica, la más larga de esta comparativa." },
+      { question: "¿Quién la vende?", answer: "La tienda oficial de Newsan, el fabricante de la marca Proline." },
+      { question: "¿Tiene alguna contra real?", answer: "Un comprador sugiere que el techo frontal debería sobresalir más para proteger mejor de la lluvia cuando se usa al aire libre." },
+    ],
+  },
 ];
 
 export const categoryPastels: Record<string, string> = {
