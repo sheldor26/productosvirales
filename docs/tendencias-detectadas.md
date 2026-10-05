@@ -6,6 +6,89 @@
 > convertir en guía o ficha. Entradas nuevas arriba.
 
 
+## 2026-10-05
+
+### Perfumes árabes (44 posts únicos de 102 recibidos)
+
+- #emirati #oud #bakhoor #nicheperfumes #scentlibrary
+  - 483.100 likes · 43.900 shares · 53.800 guardados · 6.880 comentarios
+  - https://www.tiktok.com/@scentlibraryofficial/video/7614611057402711316
+- Siguenos si te gustan los perfumes árabes✨
+  - 269.300 likes · 32.300 shares · 83.300 guardados · 6.874 comentarios
+  - https://www.tiktok.com/@cairosperfumes/video/7666906316161486102
+- 📎📦🚚🔥 Descubra 3 dupes árabes que têm a mesma fragrância incrível que os perfumes de luxo, mas custam bem menos! Essa é uma oportunidade 
+  - 174.700 likes · 12.200 shares · 92.800 guardados · 738 comentarios
+  - https://www.tiktok.com/@perfumes.men/video/7659896926275439894
+- #emirati #nicheperfumes #scentlibrary #emiratiperfumes #arabicperfumes
+  - 272.900 likes · 13.700 shares · 19.500 guardados · 2.092 comentarios
+  - https://www.tiktok.com/@scentlibraryofficial/video/7622017330368843029
+- Top 10 most complimented Lattafa perfumes for women! #perfumetiktok #redolessence #fragrancetok #perfumetok #fragrancetiktok
+  - 97.000 likes · 10.700 shares · 47.200 guardados · 1.095 comentarios
+  - https://www.tiktok.com/@redolessence/video/7580440061519449358
+- Calificando perfumes árabes 🍭🎂🍰 con @Julian Quiñones🐆 #perfumesarabe #perfumesvirales
+  - 169.500 likes · 5.471 shares · 11.600 guardados · 1.972 comentarios
+  - https://www.tiktok.com/@anagabriela3394/video/7602254311199886612
+- Sharing my thoughts on the best fragrances from Lattafa, Armaf, and Rasasi. These brands have some really nice Arabian scents. Anyone else t
+  - 104.400 likes · 3.772 shares · 28.200 guardados · 1.518 comentarios
+  - https://www.tiktok.com/@antinaturalparfums/video/7660645082080627988
+- My top 6😍 @Lattafa Perfumes #affordableperfume #affordablefragrances #arabtiktok #arabianperfume #lattafaperfume
+  - 64.100 likes · 6.298 shares · 36.700 guardados · 449 comentarios
+  - https://www.tiktok.com/@bydazzlinchristine/video/7584611619443887373
+
+### Freidora de aire (41 posts únicos de 53 recibidos)
+
+- Wieso sind wir dabei immer so aggressiv
+  - 882.300 likes · 231.900 shares · 39.900 guardados · 4.430 comentarios
+  - https://www.tiktok.com/@jamal.jamael/video/7686542362612469025
+- air fryer breakfast toast crispy toast, melty cheese, savory mortadella, fresh tomato and a runny egg, all made right in the air fryer layer
+  - 652.500 likes · 80.600 shares · 168.200 guardados · 2.066 comentarios
+  - https://www.tiktok.com/@easyairfryerrecip/video/7675032524103421217
+- 🌮 Easy Air Fryer Chicken Fajitas Save and follow for more quick and easy recipes. Perfect for a busy weeknight dinner! Ingredients: Chicken
+  - 333.700 likes · 118.400 shares · 220.100 guardados · 1.133 comentarios
+  - https://www.tiktok.com/@doubleoskitchen/video/7651993347594128662
+- Air Fryer Breakfast Hack 🍳🔥 Ready in 15 mins — no mess, no stress! Eggs, pickles, mushrooms & more 😍 Simple, quick and so good 🤤✨ Try it
+  - 238.600 likes · 54.300 shares · 97.100 guardados · 1.204 comentarios
+  - https://www.tiktok.com/@airfryer_frau/video/7623009105170468129
+- POV: Friday Night Air Fryer Prep 🍇✨ #fyp #airfryer #kitchen #fyppp #USA
+  - 172.000 likes · 70.900 shares · 6.468 guardados · 2.962 comentarios
+  - https://www.tiktok.com/@hey.bess/video/7647992662640938270
+- ✨¿Sabías que tu freidora de aire puede hacer mucho más que papitas? 🍟🔥 Aprende recetas fáciles, rápidas y deliciosas que te van a ahorrar 
+  - 114.300 likes · 36.200 shares · 34.900 guardados · 568 comentarios
+  - https://www.tiktok.com/@recetaconairfrayer/video/7548246170192317702
+- #AirfryerRecipes #AirFryer #airfryertiktok #RecetasFaciles #RecetasAirFryer
+  - 98.300 likes · 22.400 shares · 43.900 guardados · 488 comentarios
+  - https://www.tiktok.com/@aire.y.sabor/video/7637647504569306386
+- ¿Tienes una air fryer y sientes que siempre terminas preparando lo mismo? 👀 Hay muchas formas de aprovecharla mejor, pero acertar con el ti
+  - 59.600 likes · 17.900 shares · 59.200 guardados · 136 comentarios
+  - https://www.tiktok.com/@airfryerbml/video/7680180120522345748
+
+### Aspiradora robot (45 posts únicos de 108 recibidos)
+
+- Set up my personal house cleaner with me! 🫧 200 off until Feb 16! @Roborock #roborock #saros10 #robotvacuum #robotvacuumcleaner #roborockpa
+  - 1.800.000 likes · 431.900 shares · 359.800 guardados · 10.400 comentarios
+  - https://www.tiktok.com/@sam.shan.shops/video/7471045522086710534
+- Roborock saros z70 with robotic arm review #justadadvideos #robotvacuumcleaner #robotvacuum #roomba #roborock #roborocksarosz70 #robot
+  - 962.200 likes · 204.900 shares · 94.400 guardados · 9.024 comentarios
+  - https://www.tiktok.com/@justadadvideos/video/7515836051118673182
+- Robot vacuum cleaner #robot #robotvacuumcleaner #robotvaccuum #cleaner #fyp #foryou
+  - 171.100 likes · 48.300 shares · 13.700 guardados · 497 comentarios
+  - https://www.tiktok.com/@funnykitten01/video/7671621079017852173
+- robotic vacuum, robo vacuum, robot vacuum #robotcleaner #mopvaccum #robot #robotcleaner #robotvacuumcleaner #clean #room #usa_tiktok #tiktok
+  - 125.300 likes · 39.400 shares · 25.500 guardados · 1.022 comentarios
+  - https://www.tiktok.com/@eufynewborn/video/7494892101616831775
+- They climb stairs now... 😳 @Dreame UK The Dreame X60 Pro Ultra Complete is certainly not your normal robot... 🤖 check it out through the l
+  - 112.900 likes · 42.500 shares · 26.000 guardados · 794 comentarios
+  - https://www.tiktok.com/@thejunglebadger/video/7668762108334525718
+- Publicité - Présentation du robot aspirateur DJI ROMO P2 de chez @ROMO FRANCE 🩶✨ 🫧 Aspiration puissante : jusqu’à 36 000 Pa pour les pouss
+  - 89.900 likes · 30.000 shares · 23.400 guardados · 1.027 comentarios
+  - https://www.tiktok.com/@cleanyourhomee/video/7681287911450447137
+- Pensavo fosse il solito robot. Poi ha pulito il battiscopa. 6ô Il Dreame X60 Pro Ultra Complete aspira, lava, si allunga negli angoli, passa
+  - 61.500 likes · 39.200 shares · 17.600 guardados · 435 comentarios
+  - https://www.tiktok.com/@incucinaconveronica_/video/7651593161550220566
+- Hoy la encuentran a casi mitad de precio! El link está en mi bio. #dreame #dreametech #dreamex40ultra #cleantok #cleanhome #cleaningmotivati
+  - 63.600 likes · 18.400 shares · 18.800 guardados · 584 comentarios
+  - https://www.tiktok.com/@donka.malena/video/7485816759187115310
+
 ## 2026-09-14
 
 ### Perfumes árabes _(se cortó por el límite de tiempo del workflow — muestra parcial)_ (0 posts únicos de 0 recibidos)
