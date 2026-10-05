@@ -14816,12 +14816,12 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
   {
     slug: "mejores-perfumes-arabes-hombre",
     category: "perfumes-arabes",
-    title: "Perfume árabe hombre: los 15 mejores de Argentina 2026",
-    seoTitle: "Perfume árabe hombre: los 15 mejores de Argentina 2026",
-    metaDescription: "Descubrí los 15 mejores perfumes árabes para hombre en Argentina 2026: Asad, 9PM, Khamrah Qahwa y más, con precios reales y duración probada.",
+    title: "Perfume árabe hombre: los 13 mejores de Argentina 2026",
+    seoTitle: "Perfume árabe hombre: los 13 mejores de Argentina 2026",
+    metaDescription: "Descubrí los 13 mejores perfumes árabes para hombre en Argentina 2026: Asad, 9PM, Khamrah Qahwa y más, con precios reales y duración probada.",
     ogTitle: "Mejores perfumes árabes de hombre 2026: el ranking probado en Argentina",
-    ogDescription: "De Asad Intense a Afnan 9PM. Los 15 árabes masculinos que más se venden en Argentina, con duración real, precios y los dupes de los clásicos caros.",
-    h1: "Los 15 mejores perfumes árabes para hombre en Argentina (2026)",
+    ogDescription: "De Asad Intense a Afnan 9PM. Los 13 árabes masculinos que más se venden en Argentina, con duración real, precios y los dupes de los clásicos caros.",
+    h1: "Los 13 mejores perfumes árabes para hombre en Argentina (2026)",
     directAnswer: "El mejor perfume árabe para hombre en Argentina 2026 es el **Lattafa Asad Intense** (alrededor de {{precio:MLA19715215:k}}): especiado y amaderado, con proyección alta y 6 a 10 horas reales de duración en piel. Es uno de los más probados del catálogo, con más de 7.000 reseñas. Para uso diario y de oficina conviene el Rasasi Hawas Ice; para el invierno y la noche, el Khamrah Qahwa.",
     publishedDate: "2026-04-17",
     updatedDate: "2026-08-17",
@@ -14847,7 +14847,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       {
         type: "callout",
         calloutVariant: "tip",
-        content: "[Afnan 9PM Elixir](https://meli.la/1nRAN9K) está en un momento de precio atractivo. El lanzamiento 2025 había arrancado en un rango cercano a los $100.000 (coherente con ser parfum intense), y en abril 2026 se puede conseguir a $53.369 en varios vendedores. La baja puede deberse a competencia entre importadores y no es seguro que se mantenga. Si estabas esperando para probarlo, este es un buen momento."
+        content: "[Afnan 9PM Elixir](https://meli.la/1nRAN9K) sigue en un precio atractivo para ser parfum intense. El lanzamiento 2025 había arrancado en un rango cercano a los $100.000, y hoy se consigue a {{precio:MLA53394464}}. La baja se sostiene desde hace meses, pero como depende de la competencia entre importadores, no hay garantía de que se mantenga para siempre."
       },
       {
         type: "h2",
@@ -15007,10 +15007,6 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
         ranking: 3
       },
       {
-        type: "p",
-        content: "Si preferís algo más oscuro y amaderado, [Hawas Black](https://meli.la/2T9ofP2) es la alternativa dentro de la misma marca."
-      },
-      {
         type: "h3",
         title: "Hawas Ice vs Paco Rabanne Invictus: ¿vale la diferencia de precio?"
       },
@@ -15024,7 +15020,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       },
       {
         type: "p",
-        content: "**Diferencias:** Invictus EDT cuesta $200.000-300.000 vs Hawas Ice $76.284 (3 a 4 veces más barato). Invictus es más cítrico-acuático puro; Hawas Ice agrega la nota distintiva de 'manzana congelada' que el Invictus no tiene. Hawas Ice es más fácil de conseguir en Argentina sin pagar aranceles de importación."
+        content: "**Diferencias:** Invictus EDT cuesta $200.000-300.000 vs Hawas Ice {{precio:MLA29780185}} (varias veces más barato). Invictus es más cítrico-acuático puro; Hawas Ice agrega la nota distintiva de 'manzana congelada' que el Invictus no tiene. Hawas Ice es más fácil de conseguir en Argentina sin pagar aranceles de importación."
       },
       {
         type: "p",
@@ -15096,7 +15092,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       },
       {
         type: "p",
-        content: "Para quien busca un masculino con mucha validación social y un perfil distinto a los Lattafa más populares, Bharara King es la elección. Solo tener en cuenta que es marca americana (no emiratí) y que el rango de precio ($99.800) lo posiciona arriba de los Lattafa promedio."
+        content: "Para quien busca un masculino con mucha validación social y un perfil distinto a los Lattafa más populares, Bharara King es la elección. Solo tener en cuenta que es marca americana (no emiratí) y que el precio ({{precio:MLA19053146}}) lo posiciona arriba de los Lattafa promedio."
       },
       {
         type: "h3",
@@ -15184,63 +15180,43 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       },
       {
         type: "h3",
-        title: "10. Armaf Odyssey Mandarin Sky"
-      },
-      {
-        type: "product-card",
-        productMlaId: "MLAU3452900219",
-        description: "Variante del Mandarine Sky con matices más frescos. Para uso diario, más versátil que el anterior.",
-        ranking: 10
-      },
-      {
-        type: "h3",
-        title: "11. Lattafa Qaed Al Fursan"
+        title: "10. Lattafa Qaed Al Fursan"
       },
       {
         type: "product-card",
         productMlaId: "MLA22234109",
         description: "Amaderado y especiado, con cuero y tabaco. Nocturno, serio, adulto. Es el Old Fashioned de esta lista: no es para todos pero quien lo entiende lo ama.",
-        ranking: 11
+        ranking: 10
       },
       {
         type: "h3",
-        title: "12. Lattafa Habik For Men"
+        title: "11. Lattafa Habik For Men"
       },
       {
         type: "product-card",
         productMlaId: "MLA54145870",
         description: "Dulce amaderado, más discreto que Asad. Si Asad te parece demasiado invasivo pero te gusta el perfil, Habik es tu puerta lateral.",
-        ranking: 12
+        ranking: 11
       },
       {
         type: "h3",
-        title: "13. Afnan 9PM Elixir"
+        title: "12. Afnan 9PM Elixir"
       },
       {
         type: "product-card",
         productMlaId: "MLA53394464",
         description: "9PM Elixir es la versión Parfum Intense del 9PM original, lanzada en 2025. No es una variante más: es una categoría distinta de concentración. Tiene menor cantidad de alcohol y mayor cantidad de aceite perfumado, lo que se traduce en hasta 24 horas de duración según Afnan. La pirámide mantiene el perfil especiado dulce del original (pimienta negra, canela, manzana, vainilla) pero con base más rica en ámbar y maderas. Rating 4.8 con 1.060 reseñas verificadas en Mercado Libre. Incluye estuche.",
-        ranking: 13
+        ranking: 12
       },
       {
         type: "h3",
-        title: "14. Rasasi Hawas Black"
-      },
-      {
-        type: "product-card",
-        productMlaId: "MLA41306043",
-        description: "La versión nocturna del Hawas Ice que ya vimos en el puesto 3: mismo ADN aromático frutal de piña y bergamota en la salida, pero con un fondo más oscuro de musgo de roble y maderas en vez del perfil fresco-acuático del Ice. Rasasi lo vende como unisex, pero la ficha técnica de Mercado Libre lo clasifica directamente como Hombre, y las reseñas argentinas lo describen como una fragancia de proyección fuerte y carácter maduro, no para uso diario de oficina. Es el segundo perfume más vendido de toda la marca Rasasi en el sitio. Rating 4.8 con más de 3.800 reseñas verificadas.",
-        ranking: 14
-      },
-      {
-        type: "h3",
-        title: "15. Lattafa Maahir Legacy"
+        title: "13. Lattafa Maahir Legacy"
       },
       {
         type: "product-card",
         productMlaId: "MLA37755803",
         description: "Aromático fresco con salida cítrica de lima, pomelo y piña, corazón de pimienta negra e incienso, y fondo de vetiver, ambroxan y haba tonka. Pese al nombre \"Legacy\", que suena a algo oriental y pesado, es uno de los perfiles más frescos y versátiles de todo este ranking, más cercano al Hawas Ice que a un Asad o un Khamrah Qahwa. Buena opción si ya tenés un árabe dulce-especiado y buscás uno fresco para el día a día. Rating 4.7 con más de 1.500 reseñas verificadas, disponible en más de 30 publicaciones distintas de Mercado Libre.",
-        ranking: 15
+        ranking: 13
       },
       {
         type: "h2",
@@ -15285,7 +15261,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       {
         question: "¿Cuánto cuesta un perfume árabe de hombre en Argentina?",
         answer:
-          "Un frasco de 100 ml bueno va de unos $45.000 a $95.000 según la marca y la concentración. El Afnan 9PM Elixir, por ejemplo, se consiguió cerca de $53.000 en 2026. Los kits de miniaturas de 35 ml salen menos que un frasco grande y sirven para probar cuatro fragancias antes de decidir.",
+          "Un frasco de 100 ml bueno va de unos $45.000 a $95.000 según la marca y la concentración. El Afnan 9PM Elixir, por ejemplo, ronda los {{precio:MLA53394464}}. Los kits de miniaturas de 35 ml salen menos que un frasco grande y sirven para probar cuatro fragancias antes de decidir.",
       },
       {
         question: "¿Cuánto dura un perfume árabe masculino en la piel?",
@@ -15447,8 +15423,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       {
         type: "list",
         items: [
-          "[Armaf Club de Nuit Intense Man 200ml](https://meli.la/1BzsFJE): {{precio:MLA16122300}} (viene en 200ml, el doble del estándar)",
-          "[Armaf Odyssey Mandarin Sky](https://meli.la/1woeKmQ): {{precio:MLAU3452900219}}"
+          "[Armaf Club de Nuit Intense Man 200ml](https://meli.la/1BzsFJE): {{precio:MLA16122300}} (viene en 200ml, el doble del estándar)"
         ]
       },
       {
