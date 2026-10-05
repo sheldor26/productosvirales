@@ -2698,7 +2698,7 @@ export const guides: Guide[] = [
     h1: `Silla gamer: cuál comprar en Argentina y cuál conviene [2026]`,
     directAnswer: `Para la mayoría, la mejor silla gamer es la **Alpina PRE-FT055** (alrededor de {{precio:MLA47084299:k}}): la más elegida y la más barata de esta comparativa, con más de 1.800 opiniones. Si querés poder estirar las piernas sin levantarte, la Circle Line CL-GC001 es la única con apoya pies. Si pesás cerca de 100 kg o pasás muchas horas sentado, conviene la Cougar Armor Elite; y si el cuero sintético te da calor, la Cougar Fusion EX de tela.`,
     publishedDate: "2026-07-01",
-    updatedDate: "2026-07-01",
+    updatedDate: "2026-10-05",
     hasDisclosure: true,
     readingTime: 9,
     standfirst: `Una silla gamer va de {{precio:MLA47084299:k}} a {{precio:MLA16171813:k}}, y la diferencia no es solo la marca: es el material, lo que soporta y cuánto te va a durar. Te mostramos cuál conviene según tu peso, tu presupuesto y cuántas horas te sentás, comparando las más vendidas de Argentina (Alpina, Circle Line, Cougar, Corsair) con precios reales de MercadoLibre.`,
@@ -2743,8 +2743,8 @@ export const guides: Guide[] = [
       { type: "p", content: `La contra de la tela: junta un poco más de polvo y es algo menos fácil de limpiar que el cuero (una mancha de líquido cuesta más). Pero si priorizás no transpirar, la diferencia se nota desde el primer día.` },
 
       { type: "h3", title: `4. Circle Line CL-GC001 — la única con apoya pies` },
-      { type: "product-card", productMlaId: "MLA51876967", label: "La del apoya pies", labelColor: "amber", ranking: 4, description: `La única de esta guía con apoya pies retráctil y apoyacabezas. Cuero sintético, reclinable y giratoria. 4.7 estrellas en 1.483 calificaciones.` },
-      { type: "p", content: `Es la única de las cinco con **apoya pies retráctil**: sale de abajo del asiento cuando lo necesitás y se guarda cuando no. Si pasás jornadas largas y querés estirar las piernas sin levantarte, eso es lo que la justifica, más que el precio o la marca. Suma apoyacabezas, que en sesiones de muchas horas es lo que evita la tensión de cuello. A alrededor de {{precio:MLA51876967:k}}, con 4.7 estrellas en 1.483 opiniones.
+      { type: "product-card", productMlaId: "MLA51876967", label: "La del apoya pies", labelColor: "amber", ranking: 4, description: `La única de esta guía con apoya pies retráctil y apoyacabezas. Cuero sintético, reclinable y giratoria. {{rating:MLA51876967}} estrellas en {{reviews:MLA51876967}} calificaciones.` },
+      { type: "p", content: `Es la única de las cinco con **apoya pies retráctil**: sale de abajo del asiento cuando lo necesitás y se guarda cuando no. Si pasás jornadas largas y querés estirar las piernas sin levantarte, eso es lo que la justifica, más que el precio o la marca. Suma apoyacabezas, que en sesiones de muchas horas es lo que evita la tensión de cuello. A alrededor de {{precio:MLA51876967:k}}, con {{rating:MLA51876967}} estrellas en {{reviews:MLA51876967}} opiniones.
 
 La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de MercadoLibre no declara el peso máximo que soporta**. Si ese dato define tu compra, preguntale al vendedor antes de pagar: no lo vamos a estimar por vos.` },
 
