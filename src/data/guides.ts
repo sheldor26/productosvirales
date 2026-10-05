@@ -5366,7 +5366,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     ],
     intro: [
       `Un aire acondicionado portátil resuelve el calor (y en los frío/calor, también el frío del invierno) sin la obra de un split: es un equipo con ruedas que enfriás o calentás sacando una manguera de evacuación por una ventana. La primera decisión es cuántas **frigorías** necesitás según tu ambiente; la segunda, si querés **frío/calor** o solo frío, y si te interesa el control por **Wi-Fi**.`,
-      `En esta guía comparamos los portátiles más vendidos de Argentina por esos ejes, con precios reales de MercadoLibre y la contra honesta de cada uno (todos hacen ruido, en mayor o menor medida, y todos piden algo de paciencia al instalar el kit de ventana). Si buscás calefacción sin la parte de enfriar, mirá la [guía de estufas eléctricas](/guias/climatizacion/estufas-electricas).`,
+      `En esta guía comparamos los portátiles más vendidos de Argentina por esos ejes, con precios reales de MercadoLibre y la contra honesta de cada uno (todos hacen ruido, en mayor o menor medida, y todos piden algo de paciencia al instalar el kit de ventana). Si buscás calefacción sin la parte de enfriar, mirá la [guía de estufas eléctricas](/guias/climatizacion/estufas-electricas); si solo necesitás mover el aire sin gastar tanto, el [ventilador de techo](/guias/climatizacion/ventilador-de-techo) es la alternativa más económica.`,
     ],
     sections: [
       { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_688759-MLA108598549291_032026-O.webp", alt: `Aire acondicionado portátil Philco PHP35HC7API, el más vendido de Argentina`, imageSize: "hero" },
@@ -24342,7 +24342,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { productMlaId: "MLA41701462", label: "Aspas de metal, 3 en 1", labelColor: "purple", tagline: "Liliana VP20K: pie, turbo y pared, con 2 años de garantía de fábrica" },
     ],
     intro: [
-      `El ventilador de pie sigue siendo la forma más barata de refrescar un ambiente en Argentina: no consume ni una fracción de lo que gasta un aire acondicionado, y a diferencia del de techo, se puede mover de habitación según haga falta. La decisión pasa por rating real, si trae control remoto y qué tan silencioso es en la práctica.`,
+      `El ventilador de pie sigue siendo la forma más barata de refrescar un ambiente en Argentina: no consume ni una fracción de lo que gasta un aire acondicionado, y a diferencia del [ventilador de techo](/guias/climatizacion/ventilador-de-techo), se puede mover de habitación según haga falta. La decisión pasa por rating real, si trae control remoto y qué tan silencioso es en la práctica.`,
       `En esta guía comparamos los ventiladores de pie más vendidos y mejor calificados de MercadoLibre Argentina, con las contras reales que cuentan los compradores: desde el armado hasta la base que puede rayar el piso.`,
     ],
     sections: [
