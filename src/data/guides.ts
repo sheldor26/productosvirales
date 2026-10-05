@@ -15329,7 +15329,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
           ["$16.000 – $35.000", "Sets de descubrimiento y básicos accesibles (Al Wataniah, Asad Bourbon, Qaed Al Fursan, Set 4 unisex)"],
           ["$35.000 – $50.000", "Núcleo del catálogo (Asad Intense, Yara Tous, Khamrah, Fakhar Woman, Afnan 9PM, Mandarine Sky)"],
           ["$50.000 – $70.000", "Línea media-alta (Yara Elixir, Her Confession, Habik, Mayar, Vintage Radio Pride, Bade'e Al Oud)"],
-          ["$70.000 – $90.000", "Premium (Kingdom Man, Hawas Ice, Hawas Black, Emeer Caja con Luces, Erba Pura Árabe)"],
+          ["$70.000 – $90.000", "Premium (Kingdom Man, Hawas Ice, Emeer Caja con Luces, Erba Pura Árabe)"],
           ["$100.000+", "Gama alta (Armaf Odyssey, Bharara King, Club de Nuit Intense 200ml)"]
         ]
       },
@@ -15400,8 +15400,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       {
         type: "list",
         items: [
-          "[Rasasi Hawas Ice](https://meli.la/24kQeRc): {{precio:MLA29780185}}",
-          "[Rasasi Hawas Black](https://meli.la/2T9ofP2): {{precio:MLA41306043}}"
+          "[Rasasi Hawas Ice](https://meli.la/24kQeRc): {{precio:MLA29780185}}"
         ]
       },
       {
@@ -15522,7 +15521,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       },
       {
         type: "p",
-        content: "**Entre $70.000 y $100.000 — colección premium**. [Kingdom Man](https://meli.la/2aRjHd9) ($71.198), [Emeer Caja con Luces](https://meli.la/21q6DEg) ($75.811), [Hawas Black](https://meli.la/2T9ofP2) ($75.388), [Hawas Ice](https://meli.la/24kQeRc) ($76.284), [Erba Pura Árabe](https://meli.la/2WydUup) ($73.160). Perfumes para quien ya conoce el nicho y busca algo con más carácter."
+        content: "**Entre $70.000 y $100.000 — colección premium**. [Kingdom Man](https://meli.la/2aRjHd9) ($71.198), [Emeer Caja con Luces](https://meli.la/21q6DEg) ($75.811), [Hawas Ice](https://meli.la/24kQeRc) ($76.284), [Erba Pura Árabe](https://meli.la/2WydUup) ($73.160). Perfumes para quien ya conoce el nicho y busca algo con más carácter."
       },
       {
         type: "p",
@@ -15604,12 +15603,12 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
   {
     slug: "perfumes-arabes-amaderados",
     category: "perfumes-arabes",
-    title: "Perfumes árabes amaderados: top 10 con oud y madera",
-    seoTitle: "Perfumes árabes amaderados: 10 mejores, hombre y mujer",
-    metaDescription: "Los 10 mejores amaderados con oud y sándalo, separados por hombre y mujer: notas de cada uno, precio en Argentina y para quién funciona de verdad.",
-    ogTitle: "Perfumes árabes amaderados: top 10 con oud y madera",
+    title: "Perfumes árabes amaderados: top 9 con oud y madera",
+    seoTitle: "Perfumes árabes amaderados: 9 mejores, hombre y mujer",
+    metaDescription: "Los 9 mejores amaderados con oud y sándalo, separados por hombre y mujer: notas de cada uno, precio en Argentina y para quién funciona de verdad.",
+    ogTitle: "Perfumes árabes amaderados: top 9 con oud y madera",
     ogDescription: "Los mejores perfumes árabes amaderados 2026 en Argentina. Fragancias con oud, sándalo y maderas nobles, con notas y veredicto honesto.",
-    h1: "Perfumes árabes amaderados: los 10 mejores con oud y madera",
+    h1: "Perfumes árabes amaderados: los 9 mejores con oud y madera",
     publishedDate: "2026-04-17",
     updatedDate: "2026-06-26",
     hasDisclosure: true,
@@ -15621,13 +15620,13 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     ],
     intro: [
       "La perfumería árabe vive de las maderas. Mientras Europa durante décadas se fue a los florales y los cítricos, Medio Oriente trabajó oud, sándalo, cedro y resinas con un oficio que no se improvisa. No es casualidad: estas notas son caras y complejas, y requieren tradición para usarlas bien sin que el resultado huela a cloaca.",
-      "Hoy, un perfume árabe amaderado bien hecho compite de igual a igual con fragancias de nicho europeo que cuestan 20 o 30 veces más. Este ranking va de los 10 mejores amaderados árabes disponibles en Argentina, con análisis honesto de a quién le sirve cada uno."
+      "Hoy, un perfume árabe amaderado bien hecho compite de igual a igual con fragancias de nicho europeo que cuestan 20 o 30 veces más. Este ranking va de los 9 mejores amaderados árabes disponibles en Argentina, con análisis honesto de a quién le sirve cada uno."
     ],
     sections: [
       {
         type: "image",
         src: "/images/perfumes-imagenes/03-AsadBourbonMarron-100ml.webp",
-        alt: "Perfumes árabes amaderados top 10 con oud y madera 2026",
+        alt: "Perfumes árabes amaderados top 9 con oud y madera 2026",
         imageSize: "hero"
       },
       {
@@ -15636,7 +15635,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       },
       {
         type: "p",
-        content: "Si querés uno solo, el Lattafa Asad Bourbon es el más versátil: arranca frutal y cierra en madera noble con bourbon y tabaco, así que sirve de día y de noche. Si buscás oud real, andá por el Maahir Legacy. Para algo formal de oficina, el Qaed Al Fursan. Abajo está el top 10 completo con notas y para quién es cada uno."
+        content: "Si querés uno solo, el Lattafa Asad Bourbon es el más versátil: arranca frutal y cierra en madera noble con bourbon y tabaco, así que sirve de día y de noche. Si buscás oud real, andá por el Maahir Legacy. Para algo formal de oficina, el Qaed Al Fursan. Abajo está el top 9 completo con notas y para quién es cada uno."
       },
       {
         type: "h2",
@@ -15652,7 +15651,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       },
       {
         type: "h2",
-        title: "El top 10"
+        title: "El top 9"
       },
       {
         type: "h3",
@@ -15676,67 +15675,57 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       },
       {
         type: "h3",
-        title: "3. Rasasi Hawas Black"
-      },
-      {
-        type: "product-card",
-        productMlaId: "MLA41306043",
-        description: "La cara oscura del Hawas. Base de oud, pachulí y ámbar. Nocturno. No lo uses en verano ni de día, no le hace bien al perfume ni a quien esté cerca.",
-        ranking: 3
-      },
-      {
-        type: "h3",
-        title: "4. Maison Alhambra Sceptre Malachite"
+        title: "3. Maison Alhambra Sceptre Malachite"
       },
       {
         type: "product-card",
         productMlaId: "MLA27855490",
         description: "Dupe declarado del God of Fire de Stéphane Humbert Lucas 777, un nicho caro que en Argentina apenas se consigue en frascos de 50ml. Es el más cítrico de esta lista: mandarina verde, bergamota y grosella negra en la salida, lavanda, pimienta rosa y jazmín en el corazón, y recién en el fondo la parte amaderada, con ámbar, almizcle, maderas y vetiver. Por eso es el único que funciona igual de bien en oficina que en salida.",
-        ranking: 4
+        ranking: 3
       },
       {
         type: "h3",
-        title: "5. Lattafa Maahir Legacy"
+        title: "4. Lattafa Maahir Legacy"
       },
       {
         type: "product-card",
         productMlaId: "MLA37755803",
         description: "La línea premium de Lattafa. Amaderado oriental con oud real y notas de ámbar gris. Es de los pocos de este rango de precio donde realmente notás que el oud no es sintético puro.",
-        ranking: 5
+        ranking: 4
       },
       {
         type: "h3",
-        title: "6. Lattafa Bade'e Al Oud Noble Blush"
+        title: "5. Lattafa Bade'e Al Oud Noble Blush"
       },
       {
         type: "product-card",
         productMlaId: "MLA43643712",
         description: "Entra en esta lista aunque sea femenino, porque lo merece. Oud con rosa y oud sirio. Sensual, envolvente, y si sos hombre y te animás a usarlo, funciona. Los perfumes árabes fluidos entre géneros son una tradición con raíces antiguas, no una novedad.",
-        ranking: 6
+        ranking: 5
       },
       {
         type: "h3",
-        title: "7. Lattafa Habik For Men"
+        title: "6. Lattafa Habik For Men"
       },
       {
         type: "product-card",
         productMlaId: "MLA54145870",
         description: "Amaderado dulce, con vainilla, madera y un toque de cuero. Moderno, más juvenil que el resto de la lista. Buen primer amaderado para quien nunca probó el perfil.",
-        ranking: 7
+        ranking: 6
       },
       {
         type: "h3",
-        title: "8. Lattafa The Kingdom Man"
+        title: "7. Lattafa The Kingdom Man"
       },
       {
         type: "product-card",
         productMlaId: "MLA41178086",
         description: "Amaderado clásico masculino. Oud suave, ámbar, maderas nobles. Serio, adulto, no te va a impresionar a los 20 años pero a los 40 lo vas a entender.",
-        ranking: 8
+        ranking: 7
       },
       {
         type: "h3",
-        title: "9 y 10: para cerrar"
+        title: "8 y 9: para cerrar"
       },
       {
         type: "product-card",
@@ -15763,7 +15752,6 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
         ["[Lattafa Maahir Legacy](https://meli.la/25mgKqX)", "Oud real, ámbar gris", "Premium, noche e invierno", "Alto"],
         ["[Lattafa Qaed Al Fursan](https://meli.la/2TnKuGC)", "Cuero, sándalo, especias", "Oficina, ámbito formal", "Bajo-medio"],
         ["[Maison Alhambra Sceptre Malachite](https://meli.la/2x5L5Ei)", "Mandarina verde, pimienta rosa, ámbar y vetiver", "Oficina y salida", "Bajo"],
-        ["[Rasasi Hawas Black](https://meli.la/2T9ofP2)", "Oud, pachulí, ámbar", "Noche e invierno", "Medio-alto"],
       ]},
       {
         type: "p",
@@ -15779,7 +15767,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       },
       {
         type: "p",
-        content: "Para noche o eventos: Asad Bourbon, Maahir Legacy o Hawas Black. Proyectan, duran y dejan huella."
+        content: "Para noche o eventos: Asad Bourbon o Maahir Legacy. Proyectan, duran y dejan huella."
       },
       {
         type: "p",
@@ -15822,11 +15810,11 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       },
       {
         question: "¿Cuál es el mejor amaderado árabe para empezar?",
-        answer: "El Asad Bourbon es la puerta de entrada más segura: es amaderado pero arranca frutal y dulce, así que no asusta a quien nunca usó oud. El Habik For Men, más dulce y juvenil, también es buen primer amaderado. Dejá el Hawas Black o el Maahir Legacy para cuando ya tengas el paladar hecho.",
+        answer: "El Asad Bourbon es la puerta de entrada más segura: es amaderado pero arranca frutal y dulce, así que no asusta a quien nunca usó oud. El Habik For Men, más dulce y juvenil, también es buen primer amaderado. Dejá el Maahir Legacy para cuando ya tengas el paladar hecho.",
       },
       {
         question: "¿En qué época del año conviene usar un amaderado?",
-        answer: "Rinden mejor en otoño e invierno: el frío potencia las maderas y las resinas. En primavera y verano conviene ir a los más livianos del perfil, como el Sceptre Malachite o el Kingdom Man. Un Hawas Black o un Maahir en pleno enero puede volverse pesado.",
+        answer: "Rinden mejor en otoño e invierno: el frío potencia las maderas y las resinas. En primavera y verano conviene ir a los más livianos del perfil, como el Sceptre Malachite o el Kingdom Man. Un Maahir Legacy en pleno enero puede volverse pesado.",
       },
       {
         question: "¿Por qué un amaderado árabe cuesta tanto menos que un nicho europeo?",
@@ -16308,7 +16296,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
           ["$16.000-35.000", "Sets de descubrimiento, básicos accesibles", "Set 4 perfumes unisex, Qaed Al Fursan"],
           ["$35.000-50.000", "Núcleo del catálogo — punto justo principiantes", "Asad Intense, Yara Tous, Khamrah Qahwa"],
           ["$50.000-70.000", "Línea media-alta", "Yara Elixir, Her Confession, Habik"],
-          ["$70.000-100.000", "Premium", "Hawas Ice, Bharara King, Hawas Black"],
+          ["$70.000-100.000", "Premium", "Hawas Ice, Bharara King"],
           ["$100.000+", "Top tier", "Club de Nuit Intense 200ml, Armaf Odyssey"]
         ]
       },
@@ -16401,7 +16389,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       },
       {
         question: "¿Hay perfumes árabes unisex?",
-        answer: "Sí, varios. Los más populares: Khamrah Qahwa (café-vainilla), Khamrah clásico (whisky-vainilla), Hawas Black (oriental amaderado). Aunque la línea Yara es técnicamente femenina y la línea Asad masculina, muchos compradores los usan al revés sin problema. El concepto de género en perfumería es más cultural que olfativo."
+        answer: "Sí, varios. Los más populares: Khamrah Qahwa (café-vainilla), Khamrah clásico (whisky-vainilla). Aunque la línea Yara es técnicamente femenina y la línea Asad masculina, muchos compradores los usan al revés sin problema. El concepto de género en perfumería es más cultural que olfativo."
       },
       {
         question: "¿Cuál comprar primero si nunca probé ninguno?",
@@ -17739,7 +17727,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     hasDisclosure: true,
     intro: [
       "Un Creed Aventus en Argentina cuesta $500.000. Un Armaf Club de Nuit Intense Man, que comparte el 80% de su perfil olfativo, cuesta {{precio:MLA16122300:k}}. Esa relación se repite con Dior Sauvage Elixir vs Lattafa Asad Intense, Paco Rabanne Invictus vs Rasasi Hawas Ice y otra docena de fragancias premium. El nicho árabe se construyó sobre esa lógica: ofrecer perfiles olfativos similares a perfumes occidentales caros a una fracción del costo.",
-      "Esta guía lista los dupes árabes más buscados en Argentina, qué perfume occidental imita cada uno, qué tan cerca llegan del original, dónde fallan y a quién le conviene cada uno. Cubrimos los 9 que están disponibles en el catálogo argentino con datos reales de reseñas y precio."
+      "Esta guía lista los dupes árabes más buscados en Argentina, qué perfume occidental imita cada uno, qué tan cerca llegan del original, dónde fallan y a quién le conviene cada uno. Cubrimos los 8 que están disponibles en el catálogo argentino con datos reales de reseñas y precio."
     ],
     sections: [
       {
@@ -17778,13 +17766,12 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
           ["[Lattafa Her Confession](https://meli.la/1EBDqh9)", "Ninguno confirmado (circula la comparación con Blanche Bête)", "{{precio:MLA41304983}}", "—", "—"],
           ["[Lattafa Mayar](https://meli.la/1qrqLzC)", "Mugler Angel Nova", "{{precio:MLA25883660}}", "$270.000-$450.000", "Alta (según quienes probaron los dos)"],
           ["[Lattafa Khamrah Qahwa](https://meli.la/1B8Vwwf)", "Tom Ford Tobacco Vanille", "{{precio:MLA31178643}}", "$400.000-$550.000", "Media (60-70%)"],
-          ["[Rasasi Hawas Black](https://meli.la/2T9ofP2)", "Sin original directo (lo comparan con Club de Nuit y con Hacivat)", "{{precio:MLA41306043}}", "—", "—"],
           ["[Afnan 9PM](https://meli.la/2WWHx34)", "Jean Paul Gaultier Ultra Male", "{{precio:MLA19846768}}", "—", "Alta"]
         ]
       },
       {
         type: "p",
-        content: "El nombre de cada dupe lleva directo a su publicación en MercadoLibre, así no hace falta bajar hasta la ficha completa para verlo. Más abajo está el detalle de los nueve, en el mismo orden: a qué huelen, cuánto duran y en qué se nota que no son el original."
+        content: "El nombre de cada dupe lleva directo a su publicación en MercadoLibre, así no hace falta bajar hasta la ficha completa para verlo. Más abajo está el detalle de los ocho, en el mismo orden: a qué huelen, cuánto duran y en qué se nota que no son el original."
       },
       {
         type: "h2",
@@ -17883,23 +17870,13 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       },
       {
         type: "h3",
-        title: "8. Rasasi Hawas Black — el que se parece a otros dupes"
-      },
-      {
-        type: "product-card",
-        productMlaId: "MLA41306043",
-        description: "La versión más oscura del Hawas, y un caso curioso: no imita a un occidental puntual, sino que los compradores que lo tienen lo comparan con otros dos árabes. Con el Club de Nuit Intense comparte el arranque cítrico con piña, aunque una reseña que probó los dos dice que el Black evoluciona a un fondo más amaderado y con más pachulí. Y quien tiene el Hacivat los describe como confundibles, con el Black más herbáceo. Ojo con el rótulo unisex: la ficha de MercadoLibre lo marca como perfume de hombre y las reseñas lo describen como un aroma de hombre maduro.",
-        ranking: 8
-      },
-      {
-        type: "h3",
-        title: "9. Afnan 9PM — el dupe del Jean Paul Gaultier Ultra Male"
+        title: "8. Afnan 9PM — el dupe del Jean Paul Gaultier Ultra Male"
       },
       {
         type: "product-card",
         productMlaId: "MLA19846768",
         description: "Manzana, canela, lavanda y bergamota en la salida; azahar y lirio de los valles en el corazón; vainilla, haba tonka, ámbar y pachulí de fondo. Es el dupe más conocido del Ultra Male de Jean Paul Gaultier y la entrada más segura al oriental dulce árabe. Los compradores reportan entre 6 y 8 horas de duración, por debajo de las 8 que declara la ficha técnica de MercadoLibre. Dos contras honestas: es tan vendido que vas a cruzarte gente con el mismo frasco, y en verano el dulzor satura.",
-        ranking: 9
+        ranking: 8
       },
       {
         type: "h2",
@@ -17970,7 +17947,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     faq: [
       {
         question: "¿Cuál es el mejor dupe árabe del Creed Aventus?",
-        answer: "Armaf Club de Nuit Intense Man, sin discusión. Es el dupe de Aventus más reconocido del mundo, con 200ml de frasco a {{precio:MLA16122300:k}} en Argentina contra los $450.000-600.000 del Aventus 100ml. La similitud llega al 80-85% para usuario no experto. Y es el único: en el catálogo argentino no hay un segundo dupe de Aventus con respaldo real. El Rasasi Hawas Black se le acerca por el arranque cítrico con piña, pero quienes tienen los dos frascos lo comparan con el propio Club de Nuit, no con el Aventus, así que es más un primo del dupe que un dupe del original."
+        answer: "Armaf Club de Nuit Intense Man, sin discusión. Es el dupe de Aventus más reconocido del mundo, con 200ml de frasco a {{precio:MLA16122300:k}} en Argentina contra los $450.000-600.000 del Aventus 100ml. La similitud llega al 80-85% para usuario no experto. Y es el único: en el catálogo argentino no hay un segundo dupe de Aventus con respaldo real."
       },
       {
         question: "¿Lattafa Asad Intense es realmente como Dior Sauvage Elixir?",
