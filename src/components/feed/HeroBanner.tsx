@@ -22,16 +22,13 @@ export function HeroBanner() {
         </div>
 
         <h1
-          className="hero-rise text-3xl md:text-5xl font-extrabold text-[#111] leading-[1.05] tracking-tight"
-          style={{ fontFamily: "var(--font-display)", animationDelay: "120ms" }}
+          className="text-3xl md:text-5xl font-extrabold text-[#111] leading-[1.05] tracking-tight"
+          style={{ fontFamily: "var(--font-display)" }}
         >
           Los productos que explotan en Internet
         </h1>
 
-        <p
-          className="hero-rise mt-4 text-sm md:text-base text-[#111]/70 leading-relaxed"
-          style={{ animationDelay: "240ms" }}
-        >
+        <p className="mt-4 text-sm md:text-base text-[#111]/70 leading-relaxed">
           Tendencias de TikTok, ofertas imperdibles y lo que todos están comprando ahora mismo.
         </p>
 
