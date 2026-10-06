@@ -200,9 +200,18 @@ export default async function ProductPage({ params }: Props) {
         }
       : custom.aggregateRating;
 
-  const rawJsonLdDescription = (custom.description as string) || product.description;
+  // Canónico primero, mismo orden que el <meta name="description"> de arriba
+  // (metaDescription > description): los dos se mantienen al día con tokens.
+  // Un `structuredData.description` manual puede quedar con números viejos
+  // ("más de 13.000 calificaciones") que ya no coinciden con el aggregateRating
+  // de acá arriba — por eso es el último fallback, no el primero, y solo se usa
+  // cuando el producto no tiene ninguno de los dos campos canónicos. Las tres
+  // opciones pasan por injectLivePrices antes de aplanar: si traen un token sin
+  // resolver, no se filtra crudo al JSON-LD.
+  const rawJsonLdDescription =
+    product.metaDescription || product.description || (custom.description as string);
   const jsonLdDescription = rawJsonLdDescription
-    ? toPlainText(rawJsonLdDescription)
+    ? toPlainText(injectLivePrices(rawJsonLdDescription))
     : undefined;
 
   const jsonLd = {
