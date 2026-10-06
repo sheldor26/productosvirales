@@ -5,6 +5,66 @@
 > toca el catálogo. Entradas nuevas arriba.
 
 
+## 2026-10-06
+
+### Freidora de aire (ML) [ml] (15 productos)
+
+- Freidora De Aire Panel Led A Color C/ventana 10l Novohome — $346.479
+- Freidora Eléctrica De Aceite 6l Novohome 2500w Acero Inox. Plateado 50 Hz/60 Hz — $129.999
+- | +5000 vendidos — $165.990
+- Llega gratis hoy — $250.000
+- Llega gratis mañana — $279.999
+- ![Molde Silicona Para Freidora De Aire Y Horno](https://http2.mlstatic.com/D_Q_NP_2X_998054-CBT117898503555_092026-E.webp) — $14.672
+- China Internacional China Enviado por FULL — $250.000
+- OFERTA IMPERDIBLE — $249.999
+- ![Freidora De Aire Cecotec Fantastik 6500 1700w 6,5l Negro - Negro](https://http2.mlstatic.com/D_Q_NP_2X_843392-MLA113724710917_062026-E.webp) — $99.964
+- ![Freidora De Aire Airfryer Pantalla Digital Otten 1500w 8 Lts Negro](https://http2.mlstatic.com/D_Q_NP_2X_997708-MLA109162717347_032026-E.webp) — $128.933
+- ![Freidora De Aire Philips Canasta Doble 9 Litros Phna35100 Negro](https://http2.mlstatic.com/D_Q_NP_2X_782990-MLA110565781079_042026-E.webp) — $377.490
+- ![Molde Silicona Para Freidora De Aire Y Horno](https://http2.mlstatic.com/D_Q_NP_2X_663140-CBT117897980697_092026-E.webp) — $14.507
+- ![Molde Silicona Para Freidora De Aire Y Horno](https://http2.mlstatic.com/D_Q_NP_2X_840850-CBT117898539227_092026-E.webp) — $14.507
+- ![Freidora De Aire Atma Fr246awp 1750w 6 Litros Y Control Táctil](https://http2.mlstatic.com/D_Q_NP_2X_600370-MLA99991512887_112025-E.webp) — $210.000
+- ![Freidora De Aire Liliana Aaf906 6l Digital Negro](https://http2.mlstatic.com/D_Q_NP_2X_955163-MLA111156286962_052026-E.webp) — $145.999
+
+### Aspiradora robot (ML) [ml] (0 productos)
+
+_No se pudo extraer nada esta vez — revisar el parser._
+
+### Amazon Kitchen & Dining bestsellers [amazon] (15 productos)
+
+- Bounty Paper Towels Quick Size, White, 16 Family Rolls = 40 Regular Rolls — US$45.71
+- Nespresso Capsules Vertuo, Variety Pack, Medium and Dark Roast Coffee, 30 Count Coffee Pods, Brews 7.8 oz. — US$42.00
+- Owala FreeSip Stainless Steel Water Bottle 24 oz Very, Very Dark — US$29.97
+- Bounty Select-A-Size Paper Towels, White, 2 Triple Rolls = 6 Regular Rolls — US$6.99
+- Amazon Basics Everyday Disposable Paper Plates, 8.62 Inch, Microwave-Safe, Cut Resistant, Soak-Proof, 100 Count, Packaging May Vary — US$5.97
+- Scott Paper Towels, Choose-A-Sheet, 6 Double Rolls, 108 Sheets Per Roll | Absorbent, Deep-Cleaning Ridges, Virtually Lint-Free, Reliable — US$6.84
+- Dixie Paper Plates 8.5 Inch, 90 Count, Disposable Plates | For parties as dessert plates or snack plates, 2X stronger, small paper plates are soak-proof, cut resistant, microwave-safe — US$5.89
+- Amazon Basics 2-Ply Flex-Sheets Paper Towels, 12 Basics Rolls = 40 Regular Rolls, Everyday Value with 150 Sheets per Roll, Packaging May Vary — US$22.86
+- Brawny Tear-A-Square 3-Ply Paper Towels, 6 Double Rolls = 12 Regular Rolls | Strong, absorbent, and durable to tackle any tough mess — US$11.32
+- Lavazza Super Crema Whole Bean Coffee, Medium Espresso Roast, Arabica and Robusta Blend, 2.2 lb Bag, Package May Vary — US$21.49
+- Bounty Essentials Select-A-Size Paper Towels, 6 Double Rolls, White, 108 Sheets Per Roll — US$7.97
+- Sparkle Pick-A-Size Kitchen Paper Towels, 6 Double Rolls, 660 Sheets | Strong 2 ply paper towels for kitchen cleanup and everyday messes, high absorbency for soaking up spills and wiping surfaces — US$8.48
+- Bounty Paper Napkins, White, 200 Count, Packaging may vary — US$3.49
+- Nespresso Vertuo, Barista Flavored Pack, Medium Roast, 30-Count Coffee Pods | Medium-Roast Coffee Capsules, Caramel, roasted hazelnut and sweet vanilla flavors — US$35.70
+- Amazon Basics Everyday Paper Plates, 10 Inch, Disposable, 150 Count, Packaging May Vary — US$15.39
+
+### Amazon Home & Kitchen bestsellers [amazon] (15 productos)
+
+- Owala FreeSip Stainless Steel Water Bottle 24 oz Very, Very Dark — US$29.97
+- Queen Size 4 Piece Sheet Set - Breathable & Cooling Sheets - Dark Grey | Hotel Luxury Bed Sheets for Women & Men, Deep Pockets, Easy-Fit, Extra Soft and Wrinkle Free Sheets, Oeko-Tex Bed Sheet Set — US$20.16
+- Zevo Flying Insect Trap Refill Cartridges for Fruit Flies & Gnats, 4 Count | Fits Zevo MAX & Zevo Flying Insect Trap, Catches House Flies, Gnats & Fruit Flies 24/7, No Added Fragrance or Dyes — US$14.83
+- Amazon Basics Slim Velvet Non-Slip Space Saving Suit Clothes Hangers, Closet Organizer, Black, 50-Pack — US$19.99
+- Amazon Basics Lightweight Super Soft Breathable Wrinkle-Resistant Microfiber 4-Piece Bed Sheet Set with 14-Inch Deep Pockets, Queen, Bright White, Solid — US$14.68
+- TERRO Liquid Ant Killer Bait Stations, 12-Pack, Indoor Ant Traps, T300B | Borax Formula, Kills the Queen & the Entire Colony, Liquid Ant Baits Indoor, Kills Household Ants, Indoor Use — US$9.09
+- Zevo Flying Insect Trap for Fruit Flies & Gnats, 1 Plug-in Base & 3 Refills | Catches Fruit Flies & Gnats Near Fruit Bowls & Trash Bins, Spray-Free, Odor-Free, Blue & UV Light Trap, Safe for Kids & Pets\* — US$24.00
+- Barossa Design Oeko-tex Certified Shower Curtain Liner Standard Size, Clear | Waterproof PEVA, Rustproof Grommets, 3 Bottom Magnets, Cute Lightweight Bathroom Curtain, Fits Standard Tub 72" Length — US$8.95
+- upsimples 11x14 Picture Frame, Wall Decor Photo Frames, Black 1 Pack | 11 x 14 Frame, 8x10 Frame with Mat for Gallery Wall, Family, Baby, Dog, Dorm, Christmas — US$6.59
+- Yankee Candle Spiced Pumpkin Scented Candle, 22oz Large Jar | Up to 150 Hour Burn Time, Room Filling Fragrance, Long-Lasting Scent, Premium Plant Wax Blend, Consistent Burn, Giftable — US$14.99
+- BEDLORE Waterproof Mattress Protector, Queen Size Mattress Pad Noiseless | Deep Pockets Fit 6"-18" Mattresses, Soft Breathable Dirt-proof Bed Mattress Cover Washable for Home, Bedroom, Hotel — US$22.78
+- BigFoot Clear Shower Curtain - 72x72 Odorless Plastic with Magnets, Washable Long Bathroom Curtain - Premium PEVA Waterproof Bath Curtain, Rust-Proof Bathroom Essentials — US$9.99
+- BISSELL Little Green Mini Portable Carpet Cleaner, 4075 | HydroRinse self-cleaning tool; 4-in. tough stain tool; upholstery & car detailing; Tea Green color — US$79.99
+- TERRO Fruit Fly Trap 4-Pack, 180 Day Lure Supply, Food-Based Lure | Apple-Shaped Design for Kitchen Counters, Fruit Bowls, Trash Cans, Food-Based Lure, Indoor Pest Control, Fruit Fly Killer — US$12.19
+- HydroJug Polka Dot Traveler 40oz, Insulated Tumbler, French Vanilla | Triple wall insulated, flip straw lid, leak-resistant, stainless steel, cup holder friendly, BPA-free, Polka Dot — US$44.99
+
 ## 2026-09-15
 
 ### Freidora de aire (ML) [ml] (10 productos)
