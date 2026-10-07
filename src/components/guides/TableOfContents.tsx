@@ -1,7 +1,10 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { List, X } from "lucide-react";
+
+const FOCUSABLE_SELECTOR =
+  'a[href], button:not([disabled]), [tabindex]:not([tabindex="-1"])';
 
 interface TocItem {
   id: string;
@@ -81,15 +84,50 @@ function TocList({
 export function TableOfContents({ items }: TableOfContentsProps) {
   const activeId = useActiveId(items.map((i) => i.id));
   const [mobileOpen, setMobileOpen] = useState(false);
+  const panelRef = useRef<HTMLDivElement>(null);
+  const closeRef = useRef<HTMLButtonElement>(null);
+  const triggerRef = useRef<HTMLButtonElement>(null);
+  // A diferencia de MobileNav (que arranca con un ref nulo hasta la primera
+  // apertura), acá `triggerRef` ya apunta a un botón real desde el montaje:
+  // sin este flag, la rama de "devolver el foco" se dispararía también en el
+  // montaje inicial y le robaría el foco al botón "Secciones" apenas carga
+  // la guía, sin que nadie haya abierto nada.
+  const wasOpenRef = useRef(false);
 
-  // Close mobile drawer on escape
+  // Mismo patrón de trampa de foco que MobileNav.tsx: sin esto, una persona
+  // que navega con teclado o lector de pantalla abre el drawer y el foco se
+  // queda atrás, en la página tapada por el overlay, sin forma evidente de
+  // volver. Foco inicial en "Cerrar", Tab/Shift+Tab atrapados adentro,
+  // Escape cierra, y el foco vuelve al botón "Secciones" al cerrar.
   useEffect(() => {
-    if (!mobileOpen) return;
-    const onKey = (e: KeyboardEvent) => {
-      if (e.key === "Escape") setMobileOpen(false);
-    };
-    window.addEventListener("keydown", onKey);
-    return () => window.removeEventListener("keydown", onKey);
+    if (mobileOpen) {
+      wasOpenRef.current = true;
+      closeRef.current?.focus();
+      const onKey = (e: KeyboardEvent) => {
+        if (e.key === "Escape") {
+          setMobileOpen(false);
+          return;
+        }
+        if (e.key !== "Tab" || !panelRef.current) return;
+        const focusable = panelRef.current.querySelectorAll<HTMLElement>(FOCUSABLE_SELECTOR);
+        if (focusable.length === 0) return;
+        const first = focusable[0];
+        const last = focusable[focusable.length - 1];
+        if (e.shiftKey && document.activeElement === first) {
+          e.preventDefault();
+          last.focus();
+        } else if (!e.shiftKey && document.activeElement === last) {
+          e.preventDefault();
+          first.focus();
+        }
+      };
+      window.addEventListener("keydown", onKey);
+      return () => window.removeEventListener("keydown", onKey);
+    }
+    if (wasOpenRef.current) {
+      wasOpenRef.current = false;
+      triggerRef.current?.focus();
+    }
   }, [mobileOpen]);
 
   if (items.length === 0) return null;
@@ -112,6 +150,7 @@ export function TableOfContents({ items }: TableOfContentsProps) {
 
       {/* Mobile: floating button + drawer */}
       <button
+        ref={triggerRef}
         type="button"
         onClick={() => setMobileOpen(true)}
         className="lg:hidden fixed bottom-[76px] right-4 z-[55] flex items-center gap-2 px-3.5 py-2 rounded-full shadow-lg text-[13px] font-medium"
@@ -120,6 +159,8 @@ export function TableOfContents({ items }: TableOfContentsProps) {
           color: "#FFFFFF",
         }}
         aria-label="Abrir tabla de contenidos"
+        aria-expanded={mobileOpen}
+        aria-controls="toc-mobile-panel"
       >
         <List size={16} />
         Secciones
@@ -127,6 +168,8 @@ export function TableOfContents({ items }: TableOfContentsProps) {
 
       {mobileOpen && (
         <div
+          ref={panelRef}
+          id="toc-mobile-panel"
           className="lg:hidden fixed inset-0 z-[70] flex flex-col"
           role="dialog"
           aria-modal="true"
@@ -153,6 +196,7 @@ export function TableOfContents({ items }: TableOfContentsProps) {
                 EN ESTA GUÍA
               </p>
               <button
+                ref={closeRef}
                 type="button"
                 onClick={() => setMobileOpen(false)}
                 aria-label="Cerrar"

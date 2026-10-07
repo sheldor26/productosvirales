@@ -82,6 +82,18 @@ body {
   transition: background-color 0.2s, color 0.2s;
 }
 
+/* Los links de ancla del índice de guías (TableOfContents.tsx) y de las
+   secciones (#id en HeadingAnchorButton.tsx) saltaban de golpe al destino.
+   `prefers-reduced-motion` NO desactiva esto solo en todos los navegadores
+   (es la razón por la que cada animación de este archivo trae su propio
+   @media de reduce acá abajo, no algo que el browser resuelva solo). */
+html {
+  scroll-behavior: smooth;
+}
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--font-display), sans-serif;
 }
