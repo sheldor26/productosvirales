@@ -7,6 +7,15 @@
 > 🔴 = se quedo sin stock (el link de afiliado apunta a una pagina pausada).
 > Entradas nuevas arriba.
 
+## 2026-10-07
+
+- 🟢 VOLVIO EL STOCK — **MLAU274288377** Masajeador De Espalda Asiento Cuello Auto Silla Vibra Calor
+  - ML: https://www.mercadolibre.com.ar/masajeador-de-espalda-asiento-cuello-auto-silla-vibra-calor/up/MLAU274288377
+  - Sitio: https://productosvirales.com.ar/producto/MLAU274288377
+- 🟢 VOLVIO EL STOCK — **MLA56253561** Plancha Parrilla Grill Eléctrica Doble Novohome Placas Antiadherente De Cerámica Tapa Prensa Sandwichera Panini Apertura 180
+  - ML: https://www.mercadolibre.com.ar/plancha-parrilla-grill-electrica-doble-novohome-placas-antiadherente-de-ceramica-tapa-prensa-sandwichera-panini-apertura-180/p/MLA56253561
+  - Sitio: https://productosvirales.com.ar/producto/MLA56253561
+
 ## 2026-09-30
 
 - 🟢 VOLVIO EL STOCK — **MLA37650751** Cafetera de filtro Atma CA8131 blanca 1,25 L
