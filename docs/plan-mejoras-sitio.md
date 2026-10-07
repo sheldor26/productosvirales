@@ -1018,3 +1018,19 @@ Primera ronda en varias donde ninguna de las tres fuentes tocó el tema de stock
 `tsc --noEmit`, `eslint` sobre `SearchInput.tsx` y `npm run build`, todos limpios.
 
 **Con 92 features implementadas, 92 commits locales.**
+
+### Iteración 59 (2026-10-07) — paginación transparente, foco que no se cae al limpiar el buscador, social proof real con GA4 queda para proponer
+
+**Codex** encontró que `SortableProductGrid.tsx` y `HomeFeed.tsx` (las dos únicas instancias de paginación progresiva del sitio, confirmado por `rg` sobre "Cargar más productos") nunca dicen cuánto catálogo queda atrás del botón: ni "Mostrando X de Y" ni anuncio accesible al cargar más — en categorías grandes (Cocina, Belleza) alguien puede no saber si ya vio todo o si queda la mitad sin mirar. **Gemini** encontró una caída de foco real en `SearchInput.tsx`: el botón "Limpiar búsqueda" se renderiza bajo la condición `(query || expandable)` — al limpiar, `query` pasa a `""`, y si además `expandable` es `false` (el caso real de todo el sitio hoy, ver abajo), esa misma condición se vuelve falsa y el botón recién clickeado desaparece del DOM en el mismo render, tirando el foco al `<body>`. **Investigación externa** (ángulo nuevo: contador de "N personas vieron esto" con datos REALES de GA4, no inventado — la regla de la casa ya prohíbe urgencia falsa) trajo evidencia real de impacto (Algonomy: +31% adds-to-cart/+34% pedidos; WiserNotify sobre 8.400 sitios: +17% conversión a 30 días) pero se autodescartó: necesita una dependencia nueva (`@google-analytics/data`) y credenciales de service account en variables de entorno — directo a la cola de ideas que necesitan el OK de Juan, sin llegar siquiera a diseñar la implementación en detalle.
+
+**Nota de verificación sobre la propuesta de Gemini:** el diagnóstico original hablaba de la pérdida de foco "cuando `expandable=true`" (colapsando el buscador entero). Al leer `Header.tsx` se encontró que ESE camino no tiene ningún caso de uso real: `grep` confirma que `expandable={true}` no se pasa en ningún lugar del código — el Header maneja su propio mostrar/ocultar con un `searchOpen` propio por fuera de `SearchInput`, siempre con `expandable={false}` explícito. El bug real y verificado en la práctica es el otro: el botón "Limpiar" desaparece igual con `expandable=false` porque su condición de render depende de `query`, no de `expandable`. Se corrigieron los dos caminos (por completitud de la API del componente), pero solo el de `expandable=false` se pudo probar en un flujo real del sitio.
+
+**Implementado (dos features):**
+1. `SortableProductGrid.tsx` y `HomeFeed.tsx`: línea "Mostrando N de M productos" con `aria-live="polite"` arriba del botón de paginación, y el botón ahora dice "Cargar más productos · quedan N" en vez de un texto genérico sin número.
+2. `SearchInput.tsx`: al limpiar la búsqueda, el foco vuelve al `<input>` (`expandable=false`, el caso real) en vez de caer al `<body>`. Para el camino `expandable=true` (sin uso real hoy, pero parte de la API del componente): se agregó un `collapsedButtonRef` + un efecto que detecta la transición de expandido a colapsado (mismo patrón `wasOpenRef` ya usado en `TableOfContents.tsx`) para devolver el foco al ícono de lupa si alguna vez se usa ese modo.
+
+**Verificado en navegador:** en `/categoria/cocina`, el texto inicial mostró "Mostrando 24 de 194 productos" y el botón "Cargar más productos · quedan 170"; tras un clic real, pasó a "48 de 194" y "quedan 146" — confirmado que el `aria-live` se actualiza con el conteo real, no un valor estático. Para el foco: se abrió el buscador del Header, se tipeó "test", se clickeó "Limpiar búsqueda" con un clic real, y `document.activeElement` quedó en el `<input>` (antes, caía al `body`).
+
+`tsc --noEmit`, `eslint` sobre los 3 archivos tocados y `npm run build`, todos limpios.
+
+**Con 94 features implementadas, 94 commits locales.**

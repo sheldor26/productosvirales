@@ -73,6 +73,21 @@ export function SearchInput({
   const [expanded, setExpanded] = useState(!expandable);
   const [query, setQuery] = useState("");
   const inputRef = useRef<HTMLInputElement>(null);
+  const collapsedButtonRef = useRef<HTMLButtonElement>(null);
+  // Si el botón "Limpiar" colapsa el buscador (expandable=true), el foco que
+  // tenía (el propio botón recién clickeado) desaparece del DOM en el mismo
+  // render y el navegador lo manda al <body> — quien navega con teclado
+  // pierde el lugar por completo. Mismo criterio que ya usan MobileNav.tsx y
+  // TableOfContents.tsx: devolver el foco al disparador que abrió esto.
+  const wasExpandedRef = useRef(false);
+  useEffect(() => {
+    if (expanded) {
+      wasExpandedRef.current = true;
+    } else if (wasExpandedRef.current) {
+      wasExpandedRef.current = false;
+      collapsedButtonRef.current?.focus();
+    }
+  }, [expanded]);
   const router = useRouter();
   const suggestListId = useId();
 
@@ -222,6 +237,7 @@ export function SearchInput({
   if (expandable && !expanded) {
     return (
       <button
+        ref={collapsedButtonRef}
         onClick={() => {
           setExpanded(true);
           setTimeout(() => inputRef.current?.focus(), 100);
@@ -289,7 +305,17 @@ export function SearchInput({
           onClick={() => {
             setQuery("");
             setSuggestOpen(false);
-            if (expandable) setExpanded(false);
+            setHighlighted(-1);
+            if (expandable) {
+              // El colapso saca este botón del DOM en el mismo render; el
+              // efecto de arriba devuelve el foco al ícono de lupa.
+              setExpanded(false);
+            } else {
+              // No colapsa nada, pero este mismo botón SÍ desaparece del
+              // DOM (su condición de render depende de `query`), así que
+              // sin este refoco explícito el foco también caía al <body>.
+              inputRef.current?.focus();
+            }
           }}
           className="absolute right-3 top-1/2 -translate-y-1/2 text-[var(--text-muted)] hover:text-[var(--text-secondary)] cursor-pointer"
         >

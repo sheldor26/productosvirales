@@ -304,14 +304,24 @@ export function SortableProductGrid({ products, title, subtitle, priority = true
         onCompareToggle={toggleCompare}
       />
 
+      {pagedVisible.length > 0 && (
+        // aria-live: quien usa lector de pantalla no tiene cómo notar que
+        // "Cargar más" trajo resultados nuevos sin este anuncio — y en
+        // categorías grandes, nadie sabía si ya había visto todo el catálogo
+        // o quedaba la mitad atrás de un botón sin ningún número.
+        <p aria-live="polite" className="mt-4 text-center text-xs text-[var(--text-muted)]">
+          Mostrando {pagedVisible.length} de {visible.length} productos
+        </p>
+      )}
+
       {hasMore && (
-        <div className="mt-6 flex justify-center">
+        <div className="mt-2 flex justify-center">
           <button
             type="button"
             onClick={() => setVisibleCount((c) => c + PAGE_SIZE)}
             className="px-6 py-2.5 text-sm font-medium rounded-[var(--radius-pill)] bg-[var(--bg-secondary)] text-[var(--text-primary)] hover:bg-[var(--border)] transition-colors cursor-pointer"
           >
-            Cargar más productos
+            Cargar más productos · quedan {visible.length - pagedVisible.length}
           </button>
         </div>
       )}

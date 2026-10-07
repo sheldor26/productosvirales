@@ -243,14 +243,23 @@ export function HomeFeed({ products }: HomeFeedProps) {
         </>
       )}
 
+      {pagedProducts.length > 0 && (
+        // Mismo criterio que SortableProductGrid.tsx: aviso de cuánto queda
+        // por cargar, con aria-live para que el anuncio llegue solo también
+        // a quien navega con lector de pantalla.
+        <p aria-live="polite" className="mt-4 text-center text-xs text-[var(--text-muted)]">
+          Mostrando {pagedProducts.length} de {sortedProducts.length} productos
+        </p>
+      )}
+
       {hasMore && (
-        <div className="mt-6 flex justify-center">
+        <div className="mt-2 flex justify-center">
           <button
             type="button"
             onClick={() => setVisibleCount((c) => c + PAGE_SIZE)}
             className="px-6 py-2.5 text-sm font-medium rounded-[var(--radius-pill)] bg-[var(--bg-secondary)] text-[var(--text-primary)] hover:bg-[var(--border)] transition-colors cursor-pointer"
           >
-            Cargar más productos
+            Cargar más productos · quedan {sortedProducts.length - pagedProducts.length}
           </button>
         </div>
       )}
