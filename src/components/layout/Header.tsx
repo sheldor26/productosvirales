@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { useState, useEffect, useRef } from "react";
-import { useRouter } from "next/navigation";
+import { usePathname, useRouter } from "next/navigation";
 import { Menu, Sun, Moon, Search, ChevronDown, Heart } from "lucide-react";
 import { useTheme } from "next-themes";
 import { cn } from "@/lib/utils";
@@ -14,6 +14,7 @@ import { MobileNav } from "./MobileNav";
 
 const NAV_LINK_CLS =
   "px-3 py-2 text-sm font-medium text-[var(--text-secondary)] hover:text-[var(--text-primary)] transition-colors rounded-lg hover:bg-[var(--bg-secondary)]";
+const NAV_LINK_ACTIVE_CLS = "text-[var(--text-primary)] bg-[var(--bg-secondary)]";
 
 const WHATSAPP_CHANNEL_URL = "https://whatsapp.com/channel/0029Vb8OJXB6mYPIHG0M4a1t";
 
@@ -26,6 +27,8 @@ export function Header() {
   const { theme, setTheme } = useTheme();
   const [mounted, setMounted] = useState(false);
   const router = useRouter();
+  const pathname = usePathname();
+  const isCategoriaActive = pathname.startsWith("/categoria/");
   const { ids: savedIds } = useSavedProducts();
 
   const handleSearch = (query: string) => {
@@ -144,10 +147,18 @@ export function Header() {
 
             {/* Desktop nav */}
             <nav className="hidden md:flex items-center gap-1">
-              <Link href="/" className={NAV_LINK_CLS}>
+              <Link
+                href="/"
+                aria-current={pathname === "/" ? "page" : undefined}
+                className={cn(NAV_LINK_CLS, pathname === "/" && NAV_LINK_ACTIVE_CLS)}
+              >
                 Inicio
               </Link>
-              <Link href="/trending" className={NAV_LINK_CLS}>
+              <Link
+                href="/trending"
+                aria-current={pathname === "/trending" ? "page" : undefined}
+                className={cn(NAV_LINK_CLS, pathname === "/trending" && NAV_LINK_ACTIVE_CLS)}
+              >
                 Trending
               </Link>
 
@@ -174,7 +185,11 @@ export function Header() {
                   aria-haspopup="true"
                   aria-expanded={catOpen}
                   onClick={() => setCatOpen((v) => !v)}
-                  className={cn(NAV_LINK_CLS, "inline-flex items-center gap-1 cursor-pointer")}
+                  className={cn(
+                    NAV_LINK_CLS,
+                    "inline-flex items-center gap-1 cursor-pointer",
+                    isCategoriaActive && NAV_LINK_ACTIVE_CLS
+                  )}
                 >
                   Categorías
                   <ChevronDown
@@ -211,7 +226,11 @@ export function Header() {
                 </div>
               </div>
 
-              <Link href="/guias" className={NAV_LINK_CLS}>
+              <Link
+                href="/guias"
+                aria-current={pathname.startsWith("/guias") ? "page" : undefined}
+                className={cn(NAV_LINK_CLS, pathname.startsWith("/guias") && NAV_LINK_ACTIVE_CLS)}
+              >
                 Guías
               </Link>
             </nav>

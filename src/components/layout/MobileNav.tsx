@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import { usePathname } from "next/navigation";
 import { useEffect, useRef } from "react";
 import { X, Flame } from "lucide-react";
 import { cn } from "@/lib/utils";
@@ -34,6 +35,7 @@ export function MobileNav({ open, onClose }: MobileNavProps) {
   const panelRef = useRef<HTMLDivElement>(null);
   const closeRef = useRef<HTMLButtonElement>(null);
   const openerRef = useRef<HTMLElement | null>(null);
+  const pathname = usePathname();
 
   // Al abrir: recordar quién abrió y mover el foco al botón cerrar; Escape cierra;
   // Tab/Shift+Tab quedan atrapados dentro del panel (si no, tabular de más saca
@@ -120,14 +122,22 @@ export function MobileNav({ open, onClose }: MobileNavProps) {
           <Link
             href="/"
             onClick={onClose}
-            className="block px-3 py-2.5 text-sm font-medium rounded-lg hover:bg-[var(--bg-secondary)] text-[var(--text-primary)]"
+            aria-current={pathname === "/" ? "page" : undefined}
+            className={cn(
+              "block px-3 py-2.5 text-sm font-medium rounded-lg hover:bg-[var(--bg-secondary)] text-[var(--text-primary)]",
+              pathname === "/" && "bg-[var(--bg-secondary)]"
+            )}
           >
             Inicio
           </Link>
           <Link
             href="/trending"
             onClick={onClose}
-            className="block px-3 py-2.5 text-sm font-medium rounded-lg hover:bg-[var(--bg-secondary)] text-[var(--text-primary)]"
+            aria-current={pathname === "/trending" ? "page" : undefined}
+            className={cn(
+              "block px-3 py-2.5 text-sm font-medium rounded-lg hover:bg-[var(--bg-secondary)] text-[var(--text-primary)]",
+              pathname === "/trending" && "bg-[var(--bg-secondary)]"
+            )}
           >
             Trending
           </Link>
@@ -140,12 +150,17 @@ export function MobileNav({ open, onClose }: MobileNavProps) {
 
           {navCategories.map((cat) => {
             const Icon = cat.icon;
+            const active = pathname === cat.href;
             return (
               <Link
                 key={cat.slug}
                 href={cat.href}
                 onClick={onClose}
-                className="flex items-center gap-3 px-3 py-2.5 text-sm rounded-lg hover:bg-[var(--bg-secondary)] text-[var(--text-secondary)] hover:text-[var(--text-primary)]"
+                aria-current={active ? "page" : undefined}
+                className={cn(
+                  "flex items-center gap-3 px-3 py-2.5 text-sm rounded-lg hover:bg-[var(--bg-secondary)] text-[var(--text-secondary)] hover:text-[var(--text-primary)]",
+                  active && "bg-[var(--bg-secondary)] text-[var(--text-primary)]"
+                )}
               >
                 <Icon size={16} style={cat.color ? { color: cat.color } : undefined} />
                 {cat.label}
@@ -157,7 +172,11 @@ export function MobileNav({ open, onClose }: MobileNavProps) {
             <Link
               href="/guias"
               onClick={onClose}
-              className="block px-3 py-2.5 text-sm font-medium rounded-lg hover:bg-[var(--bg-secondary)] text-[var(--text-primary)]"
+              aria-current={pathname.startsWith("/guias") ? "page" : undefined}
+              className={cn(
+                "block px-3 py-2.5 text-sm font-medium rounded-lg hover:bg-[var(--bg-secondary)] text-[var(--text-primary)]",
+                pathname.startsWith("/guias") && "bg-[var(--bg-secondary)]"
+              )}
             >
               Guías
             </Link>

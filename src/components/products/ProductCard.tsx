@@ -9,6 +9,7 @@ import { Badge } from "@/components/ui/Badge";
 import { CouponBadge } from "@/components/products/CouponBadge";
 import { formatPrice, formatDiscount } from "@/lib/utils";
 import { productHref } from "@/lib/product-url";
+import { hapticTap } from "@/lib/haptics";
 import type { CardProduct } from "@/lib/types";
 
 function TikTokIcon({ size = 12 }: { size?: number }) {
@@ -107,7 +108,14 @@ export function ProductCard({
                 src={image}
                 alt={title}
                 fill
-                sizes="(max-width: 640px) 50vw, (max-width: 768px) 33vw, 25vw"
+                // Calcado de la grilla real (ProductGrid.tsx: grid-cols-2 →
+                // md:grid-cols-3 → lg:grid-cols-4, gap-3/md:gap-4, contenedor
+                // max-w-[1200px] px-4/md:px-6): el "50vw/33vw/25vw" anterior
+                // no coincidía con ningún breakpoint real (ej. a 700px de
+                // ancho la grilla ya tiene 2 columnas, no 3), así que el
+                // navegador podía pedir una variante de imagen más chica o
+                // más grande de la que realmente se pinta.
+                sizes="(max-width: 767px) calc((100vw - 44px) / 2), (max-width: 1023px) calc((100vw - 80px) / 3), (max-width: 1199px) calc((100vw - 96px) / 4), 276px"
                 className="object-contain p-4 group-hover:scale-110 transition-transform duration-500 ease-out"
                 preload={priority}
                 fetchPriority={priority ? "high" : undefined}
@@ -186,6 +194,7 @@ export function ProductCard({
           onClick={(e) => {
             e.preventDefault();
             e.stopPropagation();
+            hapticTap();
             onToggleSaved?.(product.id);
           }}
           aria-pressed={saved}

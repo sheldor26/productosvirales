@@ -2,6 +2,7 @@
 
 import { Heart } from "lucide-react";
 import { useSavedProducts } from "@/lib/use-saved-products";
+import { hapticTap } from "@/lib/haptics";
 
 interface SaveHeartButtonProps {
   productId: string;
@@ -18,7 +19,10 @@ export function SaveHeartButton({ productId, productTitle }: SaveHeartButtonProp
   return (
     <button
       type="button"
-      onClick={() => toggle(productId)}
+      onClick={() => {
+        hapticTap();
+        toggle(productId);
+      }}
       aria-pressed={saved}
       aria-label={saved ? `Sacar ${productTitle} de guardados` : `Guardar ${productTitle}`}
       title={saved ? "Sacar de guardados" : "Guardar producto"}
