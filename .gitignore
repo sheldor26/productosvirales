@@ -58,3 +58,6 @@ next-env.d.ts
 
 # Outputs transientes del workflow AI-OS (reviews de Gemini/Codex, tasks) — no versionar
 docs/ai/
+
+# Finanzas personales: NO versionar (repo publico)
+/.private/
