@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "next/image";
-import { useState } from "react";
+import { useRef, useState } from "react";
 import { ImageOff } from "lucide-react";
 import { TikTokBadge } from "@/components/widgets/TikTokBadge";
 import { cn } from "@/lib/utils";
@@ -36,6 +36,41 @@ export function ProductGallery({ product }: ProductGalleryProps) {
     });
   }
 
+  /** Retrocede a la foto anterior que todavía no falló, dando la vuelta al principio. */
+  function anteriorFoto() {
+    setActiveIdx((actual) => {
+      for (let paso = 1; paso <= images.length; paso++) {
+        const cand = ((actual - paso) % images.length + images.length) % images.length;
+        if (!failedIdx.has(cand)) return cand;
+      }
+      return actual;
+    });
+  }
+
+  // Swipe táctil: en el celular la gente desliza el dedo sobre la foto grande
+  // (el gesto de la propia app de MercadoLibre), no solo toca para avanzar.
+  // Un umbral chico distingue "tocar" (deja que el click de siempre avance)
+  // de "deslizar" (navega según la dirección y cancela el click sintético
+  // que el navegador dispara después del touchend, para no avanzar doble).
+  const touchStartX = useRef<number | null>(null);
+  const SWIPE_THRESHOLD_PX = 40;
+
+  function handleTouchStart(e: React.TouchEvent) {
+    touchStartX.current = e.touches[0]?.clientX ?? null;
+  }
+
+  function handleTouchEnd(e: React.TouchEvent) {
+    const startX = touchStartX.current;
+    touchStartX.current = null;
+    if (startX === null) return;
+    const endX = e.changedTouches[0]?.clientX ?? startX;
+    const deltaX = endX - startX;
+    if (Math.abs(deltaX) < SWIPE_THRESHOLD_PX) return; // fue un tap, no un swipe
+    e.preventDefault(); // evita que además dispare el click (avanzaría dos veces)
+    if (deltaX < 0) siguienteFoto();
+    else anteriorFoto();
+  }
+
   function handleImageError(idx: number) {
     setFailedIdx((prev) => {
       const next = new Set(prev).add(idx);
@@ -53,6 +88,8 @@ export function ProductGallery({ product }: ProductGalleryProps) {
       <div
         className="relative aspect-[4/3] md:aspect-square rounded-[var(--radius-card)] overflow-hidden"
         style={{ backgroundColor: product.pastelColor || "var(--bg-secondary)" }}
+        onTouchStart={hayVarias ? handleTouchStart : undefined}
+        onTouchEnd={hayVarias ? handleTouchEnd : undefined}
       >
         {allFailed ? (
           <div className="absolute inset-0 flex flex-col items-center justify-center gap-2 text-[var(--text-muted)]">
