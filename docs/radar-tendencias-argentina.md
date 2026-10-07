@@ -8,6 +8,34 @@
 > Entradas nuevas arriba.
 
 
+## 2026-10-07
+
+- **argentina - benín** — 2 M+ búsquedas (+1.000%, 21 h)
+- **clima** — 1 M+ búsquedas (+100%, 21 h)
+- **argentina - burkina faso** — 1 M+ búsquedas (+1.000%, 3 d)
+- **zulema galperín** — 200 mil+ búsquedas (+1.000%, ayer)
+- **semana mundial del espacio 2026** — 200 mil+ búsquedas (+1.000%, ayer)
+- **benin** — 100 mil+ búsquedas (+1.000%, ayer)
+- **croacia - españa** — 50 mil+ búsquedas (+1.000%, ayer)
+- **celia maría cuccittini** — 20 mil+ búsquedas (+1.000%, 18 h)
+- **ricardo fort** — 20 mil+ búsquedas (+1.000%, 23 h)
+- **fenómeno** — 20 mil+ búsquedas (+1.000%, 7 h)
+- **agustin giay** — 20 mil+ búsquedas (+1.000%, 19 h)
+- **valentina pergolini** — 10 mil+ búsquedas (+1.000%, 22 h)
+- **carlos clerici** — 10 mil+ búsquedas (+1.000%, 13 h)
+- **diego simeone** — 5 mil+ búsquedas (+1.000%, 6 h)
+- **eva marie saint** — 5 mil+ búsquedas (+1.000%, 10 h)
+- **claudio bravo** — 5 mil+ búsquedas (+1.000%, 10 h)
+- **chiqui tapia** — 5 mil+ búsquedas (+800%, 19 h)
+- **instituto almafuerte** — 2 mil+ búsquedas (+1.000%, 6 h)
+- **carlos tevez** — 1 mil+ búsquedas (+1.000%, 1 h)
+- **juez** — 1 mil+ búsquedas (+200%, 2 h)
+- **paul walker** — 1 mil+ búsquedas (+600%, 6 h)
+- **nieve** — 500+ búsquedas (+1.000%, 2 h)
+- **roberto baratta** — 500+ búsquedas (+800%, 2 h)
+- **maricarmen** — 500+ búsquedas (+1.000%, 30 min)
+- **gimena accardi** — 500+ búsquedas (+1.000%, 50 min)
+
 ## 2026-09-16
 
 - **são paulo - boca juniors** — 1 M+ búsquedas (+1.000%, 18 h)
