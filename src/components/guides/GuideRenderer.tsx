@@ -23,6 +23,7 @@ import { formatPrice } from "@/lib/utils";
 import { injectLivePrices } from "@/lib/price-token";
 import { analyzePriceHistory } from "@/lib/price-history";
 import { Stars } from "./Stars";
+import { HeadingAnchorButton } from "./HeadingAnchorButton";
 
 interface GuideRendererProps {
   guide: Guide;
@@ -49,10 +50,11 @@ function SectionRenderer({
       return (
         <h2
           id={section.id}
-          className="text-[26px] md:text-[32px] font-bold text-[var(--text-primary)] mt-14 md:mt-16 mb-5 pb-2 scroll-mt-20 leading-tight text-balance"
+          className="group text-[26px] md:text-[32px] font-bold text-[var(--text-primary)] mt-14 md:mt-16 mb-5 pb-2 scroll-mt-20 leading-tight text-balance"
           style={{ fontFamily: "var(--font-display)" }}
         >
           {title}
+          {section.id && <HeadingAnchorButton sectionId={section.id} />}
         </h2>
       );
 
@@ -100,10 +102,11 @@ function SectionRenderer({
       return (
         <h3
           id={section.id}
-          className="text-xl md:text-[22px] font-semibold text-[var(--text-primary)] mt-10 mb-3 scroll-mt-20 leading-tight text-balance"
+          className="group text-xl md:text-[22px] font-semibold text-[var(--text-primary)] mt-10 mb-3 scroll-mt-20 leading-tight text-balance"
           style={{ fontFamily: "var(--font-display)" }}
         >
           {h3Title(title)}
+          {section.id && <HeadingAnchorButton sectionId={section.id} />}
         </h3>
       );
     }

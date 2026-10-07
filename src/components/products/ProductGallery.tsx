@@ -71,6 +71,19 @@ export function ProductGallery({ product }: ProductGalleryProps) {
     else anteriorFoto();
   }
 
+  /** Flecha izquierda/derecha sobre el botón de la foto grande: mismo gesto
+   * que ya existe para tap/swipe, pero accesible desde teclado sin tener que
+   * tabular miniatura por miniatura. */
+  function handleMainKeyDown(e: React.KeyboardEvent) {
+    if (e.key === "ArrowRight") {
+      e.preventDefault();
+      siguienteFoto();
+    } else if (e.key === "ArrowLeft") {
+      e.preventDefault();
+      anteriorFoto();
+    }
+  }
+
   function handleImageError(idx: number) {
     setFailedIdx((prev) => {
       const next = new Set(prev).add(idx);
@@ -117,6 +130,7 @@ export function ProductGallery({ product }: ProductGalleryProps) {
           <button
             type="button"
             onClick={siguienteFoto}
+            onKeyDown={handleMainKeyDown}
             aria-label={`Ver la próxima foto (${activeIdx + 1} de ${images.length})`}
             className="absolute inset-0 z-[1] cursor-pointer"
           />
@@ -127,6 +141,14 @@ export function ProductGallery({ product }: ProductGalleryProps) {
             className="absolute bottom-3 right-3 z-[2] pointer-events-none rounded-[var(--radius-pill)] bg-black/55 px-2 py-0.5 text-[11px] font-medium tabular-nums text-white"
           >
             {activeIdx + 1} / {images.length}
+          </span>
+        )}
+        {hayVarias && !allFailed && (
+          // Anuncio real para lector de pantalla: el contador de arriba es
+          // aria-hidden (es un badge visual, no texto para leer), y el botón
+          // que avanza/retrocede no dispara ningún aviso de cambio por sí solo.
+          <span aria-live="polite" className="sr-only">
+            Imagen {activeIdx + 1} de {images.length}
           </span>
         )}
         {product.tiktokViews && (
