@@ -74,7 +74,7 @@ export function ArticleHeader({ guide }: ArticleHeaderProps) {
 
       {/* H1 */}
       <h1
-        className="text-3xl md:text-5xl font-bold text-[var(--text-primary)] leading-[1.08] tracking-tight mb-5"
+        className="text-3xl md:text-5xl font-bold text-[var(--text-primary)] leading-[1.08] tracking-tight mb-5 text-balance"
         style={{ fontFamily: "var(--font-serif)" }}
       >
         {guide.h1}
@@ -82,7 +82,7 @@ export function ArticleHeader({ guide }: ArticleHeaderProps) {
 
       {/* Standfirst */}
       {standfirst && (
-        <p className="text-lg md:text-xl leading-[1.55] text-[var(--text-secondary)] mb-6 max-w-[640px]">
+        <p className="text-lg md:text-xl leading-[1.55] text-[var(--text-secondary)] mb-6 max-w-[640px] text-pretty">
           {parseInlineLinks(standfirst)}
         </p>
       )}

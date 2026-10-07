@@ -49,7 +49,7 @@ function SectionRenderer({
       return (
         <h2
           id={section.id}
-          className="text-[26px] md:text-[32px] font-bold text-[var(--text-primary)] mt-14 md:mt-16 mb-5 pb-2 scroll-mt-20 leading-tight"
+          className="text-[26px] md:text-[32px] font-bold text-[var(--text-primary)] mt-14 md:mt-16 mb-5 pb-2 scroll-mt-20 leading-tight text-balance"
           style={{ fontFamily: "var(--font-display)" }}
         >
           {title}
@@ -100,7 +100,7 @@ function SectionRenderer({
       return (
         <h3
           id={section.id}
-          className="text-xl md:text-[22px] font-semibold text-[var(--text-primary)] mt-10 mb-3 scroll-mt-20 leading-tight"
+          className="text-xl md:text-[22px] font-semibold text-[var(--text-primary)] mt-10 mb-3 scroll-mt-20 leading-tight text-balance"
           style={{ fontFamily: "var(--font-display)" }}
         >
           {h3Title(title)}
@@ -110,7 +110,7 @@ function SectionRenderer({
 
     case "p":
       return (
-        <p className="text-[17px] md:text-[18px] leading-[1.7] text-[var(--text-secondary)] mb-6">
+        <p className="text-[17px] md:text-[18px] leading-[1.7] text-[var(--text-secondary)] mb-6 text-pretty">
           {section.content ? parseInlineLinks(section.content) : null}
         </p>
       );

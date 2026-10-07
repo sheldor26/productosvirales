@@ -153,7 +153,7 @@ function GuideThumb({
   );
 }
 
-function PillarCard({ guide }: { guide: Guide }) {
+function PillarCard({ guide, priority = false }: { guide: Guide; priority?: boolean }) {
   const title = guide.ogTitle || guide.title;
   // `ogDescription` no pasa por injectLivePrices en ningún otro lado, así que un
   // {{precio:…}} escrito ahí se veía literal en la tarjeta del índice.
@@ -163,7 +163,7 @@ function PillarCard({ guide }: { guide: Guide }) {
       href={guideHref(guide)}
       className="group flex flex-col md:flex-row gap-5 md:gap-[22px] mb-4 p-5 rounded-[var(--radius-card)] border-[1.5px] border-[var(--text-primary)] bg-[var(--bg-primary)] shadow-[0_10px_30px_rgba(0,0,0,0.09)] transition-transform duration-150 hover:-translate-y-0.5"
     >
-      <GuideThumb guide={guide} variant="pillar" priority />
+      <GuideThumb guide={guide} variant="pillar" priority={priority} />
       <div className="flex-1 min-w-0 flex flex-col">
         <span className="self-start mb-2.5 text-[10.5px] font-extrabold tracking-[0.08em] uppercase rounded-[6px] px-2.5 py-1 bg-[var(--cta-bg)] text-[var(--cta-text)]">
           ★ Guía principal
@@ -247,6 +247,15 @@ export default function GuiasIndexPage() {
       count: categories.reduce((sum, c) => sum + c.guides.length, 0),
     }))
     .sort((a, b) => b.count - a.count);
+
+  // Solo la primera "Guía principal" visible es candidata a LCP real: antes
+  // cada categoría con pilar (decenas en todo el índice) marcaba su miniatura
+  // con `priority`, inyectando un `<link rel="preload">` por cada una en el
+  // <head> — la mayoría muy por debajo del pliegue, compitiendo por ancho de
+  // banda con la imagen que sí importa.
+  const firstPillarCategorySlug = siloEntries[0]?.categories.find((c) =>
+    c.guides.some((g) => g.pillar)
+  )?.slug;
 
   const categoriesForNav = siloEntries.map((s) => ({
     slug: s.slug,
@@ -415,7 +424,9 @@ export default function GuiasIndexPage() {
                   </p>
                 )}
 
-                {pillar && <PillarCard guide={pillar} />}
+                {pillar && (
+                  <PillarCard guide={pillar} priority={categorySlug === firstPillarCategorySlug} />
+                )}
 
                 {satellites.length > 0 && (
                   <div className="grid grid-cols-1 md:grid-cols-2 gap-3.5">
