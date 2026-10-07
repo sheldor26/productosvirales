@@ -25,6 +25,26 @@ interface Suggestion {
 const MIN_QUERY_LENGTH = 2;
 const DEBOUNCE_MS = 250;
 
+/** Envuelve en <mark> la porción de `text` que matchea `query` (sin case),
+ * para que la sugerencia resaltada sea evidente de un vistazo. Si `query`
+ * no aparece tal cual (la búsqueda es fuzzy, puede matchear sin substring
+ * exacto), devuelve el texto sin tocar en vez de forzar un resaltado falso. */
+function highlightMatch(text: string, query: string) {
+  const trimmed = query.trim();
+  if (!trimmed) return text;
+  const idx = text.toLowerCase().indexOf(trimmed.toLowerCase());
+  if (idx === -1) return text;
+  return (
+    <>
+      {text.slice(0, idx)}
+      <mark className="bg-transparent text-[var(--text-primary)] font-semibold">
+        {text.slice(idx, idx + trimmed.length)}
+      </mark>
+      {text.slice(idx + trimmed.length)}
+    </>
+  );
+}
+
 export function SearchInput({
   placeholder = "Buscar productos...",
   onSearch,
@@ -166,10 +186,14 @@ export function SearchInput({
           if (suggestions.length > 0) setSuggestOpen(true);
         }}
         placeholder={placeholder}
+        aria-label={placeholder}
         role="combobox"
         aria-expanded={suggestOpen}
         aria-autocomplete="list"
         aria-controls={suggestListId}
+        aria-activedescendant={
+          suggestOpen && highlighted >= 0 ? `${suggestListId}-option-${highlighted}` : undefined
+        }
         autoComplete="off"
         className="w-full pl-9 pr-9 py-2 text-sm bg-[var(--bg-secondary)] text-[var(--text-primary)] rounded-[var(--radius-pill)] border border-[var(--border)] outline-none focus:border-[var(--text-muted)] transition-colors placeholder:text-[var(--text-muted)]"
       />
@@ -195,7 +219,12 @@ export function SearchInput({
           className="absolute z-20 top-full left-0 right-0 mt-1.5 py-1.5 bg-[var(--bg-primary)] border border-[var(--border)] rounded-[var(--radius-card)] shadow-lg overflow-hidden"
         >
           {suggestions.map((s, i) => (
-            <li key={s.id} role="option" aria-selected={i === highlighted}>
+            <li
+              key={s.id}
+              id={`${suggestListId}-option-${i}`}
+              role="option"
+              aria-selected={i === highlighted}
+            >
               <button
                 type="button"
                 onMouseDown={(e) => e.preventDefault()}
@@ -214,7 +243,9 @@ export function SearchInput({
                   className="rounded-md object-contain shrink-0 bg-[var(--bg-secondary)]"
                 />
                 <span className="min-w-0 flex-1">
-                  <span className="block text-sm text-[var(--text-primary)] truncate">{s.title}</span>
+                  <span className="block text-sm text-[var(--text-primary)] truncate">
+                    {highlightMatch(s.title, query)}
+                  </span>
                   <span className="block text-xs text-[var(--text-muted)]">{s.category}</span>
                 </span>
                 <span className="text-sm font-semibold text-[var(--text-primary)] shrink-0">
