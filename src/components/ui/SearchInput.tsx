@@ -2,7 +2,7 @@
 
 import Image from "next/image";
 import { useRouter } from "next/navigation";
-import { Search, X } from "lucide-react";
+import { Search, X, Clock } from "lucide-react";
 import { useState, useRef, useEffect, useId } from "react";
 import { cn, formatPrice } from "@/lib/utils";
 import { productHref } from "@/lib/product-url";
@@ -24,6 +24,25 @@ interface Suggestion {
 
 const MIN_QUERY_LENGTH = 2;
 const DEBOUNCE_MS = 250;
+const RECENT_KEY = "pv_recent_searches";
+const MAX_RECENT = 5;
+
+function readRecent(): string[] {
+  try {
+    const raw = localStorage.getItem(RECENT_KEY);
+    return raw ? (JSON.parse(raw) as string[]) : [];
+  } catch {
+    return [];
+  }
+}
+
+function writeRecent(terms: string[]) {
+  try {
+    localStorage.setItem(RECENT_KEY, JSON.stringify(terms));
+  } catch {
+    // localStorage puede fallar (modo privado); no es crítico, solo no persiste.
+  }
+}
 
 /** Envuelve en <mark> la porción de `text` que matchea `query` (sin case),
  * para que la sugerencia resaltada sea evidente de un vistazo. Si `query`
@@ -76,6 +95,58 @@ export function SearchInput({
   const debounceRef = useRef<ReturnType<typeof setTimeout> | null>(null);
   const abortRef = useRef<AbortController | null>(null);
 
+  // Búsquedas recientes: cuando el input está vacío, en vez de no mostrar
+  // nada, ofrece retomar una búsqueda ya hecha sin volver a tipearla. Vive en
+  // localStorage (sin cuentas), igual que guardados/vistos recientemente.
+  // Lazy initializer (no useEffect): lee localStorage ya en el primer render
+  // del cliente. El componente de /buscar (BuscarSearchBox) SÍ puede venir en
+  // el HTML servido, y el botón de búsqueda del Header enfoca el input solo
+  // con montar (efecto ya existente, más arriba en el archivo) — con un
+  // useEffect separado para cargar `recent`, ese autofocus disparaba
+  // onFocus ANTES de que este efecto corriera (los efectos de un mismo
+  // commit corren en orden de declaración, no hay re-render entre uno y
+  // otro), así que el primer foco veía `recent` todavía vacío y nunca abría
+  // el dropdown. El lazy initializer resuelve esto sin carrera porque corre
+  // sincrónico, como parte del render mismo.
+  const [recent, setRecent] = useState<string[]>(() =>
+    typeof window === "undefined" ? [] : readRecent()
+  );
+
+  // Escribe en localStorage DIRECTO (no adentro del updater de setRecent):
+  // esto se llama siempre junto con onSearch, que navega — y en el buscador
+  // expandible del Header, esa navegación desmonta este componente en el
+  // mismo render (searchOpen pasa a false). Si el guardado dependiera de que
+  // React procese el updater de estado, React puede saltearlo directamente
+  // al ver que el hijo ya no está en el próximo árbol — el guardado se
+  // perdía en silencio. Mismo patrón que ya usa use-saved-products.ts.
+  function addRecent(term: string) {
+    const trimmed = term.trim();
+    if (!trimmed) return;
+    const deduped = readRecent().filter((t) => t.toLowerCase() !== trimmed.toLowerCase());
+    const next = [trimmed, ...deduped].slice(0, MAX_RECENT);
+    writeRecent(next);
+    setRecent(next);
+  }
+
+  function clearRecent() {
+    setRecent([]);
+    writeRecent([]);
+  }
+
+  // true: el dropdown muestra "Búsquedas recientes" (input vacío). false:
+  // muestra las sugerencias del catálogo de siempre. Una sola lista visible
+  // a la vez, así que reutilizan el mismo índice de resaltado y las mismas
+  // flechas de teclado.
+  const showingRecent = query.trim().length === 0;
+  const activeList = showingRecent ? recent : suggestions;
+
+  function runSearch(term: string) {
+    setSuggestOpen(false);
+    setQuery(term);
+    addRecent(term);
+    onSearch?.(term);
+  }
+
   useEffect(() => {
     if (debounceRef.current) clearTimeout(debounceRef.current);
     // Con red lenta y tipeo rápido, el fetch de una query vieja puede
@@ -113,30 +184,36 @@ export function SearchInput({
 
   const selectSuggestion = (s: Suggestion) => {
     setSuggestOpen(false);
+    addRecent(query);
     setQuery("");
     router.push(productHref(s));
   };
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
-    if (suggestOpen && highlighted >= 0 && suggestions[highlighted]) {
-      selectSuggestion(suggestions[highlighted]);
+    if (suggestOpen && highlighted >= 0 && activeList[highlighted]) {
+      if (showingRecent) {
+        runSearch(activeList[highlighted] as string);
+      } else {
+        selectSuggestion(activeList[highlighted] as Suggestion);
+      }
       return;
     }
     if (query.trim() && onSearch) {
       setSuggestOpen(false);
+      addRecent(query.trim());
       onSearch(query.trim());
     }
   };
 
   const handleKeyDown = (e: React.KeyboardEvent) => {
-    if (!suggestOpen || suggestions.length === 0) return;
+    if (!suggestOpen || activeList.length === 0) return;
     if (e.key === "ArrowDown") {
       e.preventDefault();
-      setHighlighted((i) => (i + 1) % suggestions.length);
+      setHighlighted((i) => (i + 1) % activeList.length);
     } else if (e.key === "ArrowUp") {
       e.preventDefault();
-      setHighlighted((i) => (i <= 0 ? suggestions.length - 1 : i - 1));
+      setHighlighted((i) => (i <= 0 ? activeList.length - 1 : i - 1));
     } else if (e.key === "Escape") {
       setSuggestOpen(false);
     }
@@ -176,14 +253,22 @@ export function SearchInput({
         onChange={(e) => {
           const value = e.target.value;
           setQuery(value);
-          if (value.trim().length < MIN_QUERY_LENGTH) {
+          const trimmed = value.trim();
+          if (trimmed.length === 0) {
+            // Campo vacío de nuevo (lo borraron, no que recién empiezan a
+            // tipear): mostrar recientes al toque en vez de esperar un
+            // re-foco, mismo gesto que ya esperan de un buscador.
+            setSuggestions([]);
+            setHighlighted(-1);
+            setSuggestOpen(recent.length > 0);
+          } else if (trimmed.length < MIN_QUERY_LENGTH) {
             setSuggestions([]);
             setSuggestOpen(false);
           }
         }}
         onKeyDown={handleKeyDown}
         onFocus={() => {
-          if (suggestions.length > 0) setSuggestOpen(true);
+          if (showingRecent ? recent.length > 0 : suggestions.length > 0) setSuggestOpen(true);
         }}
         placeholder={placeholder}
         aria-label={placeholder}
@@ -212,7 +297,46 @@ export function SearchInput({
         </button>
       )}
 
-      {suggestOpen && suggestions.length > 0 && (
+      {suggestOpen && showingRecent && recent.length > 0 && (
+        <div className="absolute z-20 top-full left-0 right-0 mt-1.5 py-1.5 bg-[var(--bg-primary)] border border-[var(--border)] rounded-[var(--radius-card)] shadow-lg overflow-hidden">
+          <ul id={suggestListId} role="listbox" aria-label="Búsquedas recientes">
+            {recent.map((term, i) => (
+              <li
+                key={term}
+                id={`${suggestListId}-option-${i}`}
+                role="option"
+                aria-selected={i === highlighted}
+              >
+                <button
+                  type="button"
+                  onMouseDown={(e) => e.preventDefault()}
+                  onClick={() => runSearch(term)}
+                  onMouseEnter={() => setHighlighted(i)}
+                  className={cn(
+                    "w-full flex items-center gap-2.5 px-3 py-2 text-left cursor-pointer",
+                    i === highlighted ? "bg-[var(--bg-secondary)]" : "hover:bg-[var(--bg-secondary)]"
+                  )}
+                >
+                  <Clock size={14} className="shrink-0 text-[var(--text-muted)]" />
+                  <span className="min-w-0 flex-1 text-sm text-[var(--text-primary)] truncate">
+                    {term}
+                  </span>
+                </button>
+              </li>
+            ))}
+          </ul>
+          <button
+            type="button"
+            onMouseDown={(e) => e.preventDefault()}
+            onClick={clearRecent}
+            className="block px-3 pt-1 pb-0.5 text-xs text-[var(--text-muted)] hover:text-[var(--text-secondary)] cursor-pointer"
+          >
+            Borrar búsquedas recientes
+          </button>
+        </div>
+      )}
+
+      {suggestOpen && !showingRecent && suggestions.length > 0 && (
         <ul
           id={suggestListId}
           role="listbox"
