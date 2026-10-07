@@ -54,23 +54,32 @@ export function SearchInput({
   const [suggestOpen, setSuggestOpen] = useState(false);
   const [highlighted, setHighlighted] = useState(-1);
   const debounceRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const abortRef = useRef<AbortController | null>(null);
 
   useEffect(() => {
     if (debounceRef.current) clearTimeout(debounceRef.current);
+    // Con red lenta y tipeo rápido, el fetch de una query vieja puede
+    // resolver DESPUÉS del de una más nueva — sin cancelarlo, sus datos
+    // pisan las sugerencias correctas (ej. Flecha abajo + Enter llevaría a
+    // un producto que no coincide con lo que la persona terminó escribiendo).
+    abortRef.current?.abort();
     const trimmed = query.trim();
     // Query corta: no hay nada que buscar. Se resuelve en el onChange (ver
     // más abajo), no acá, para no llamar setState de forma síncrona en el
     // cuerpo del efecto.
     if (trimmed.length < MIN_QUERY_LENGTH) return;
     debounceRef.current = setTimeout(() => {
-      fetch(`/api/search/suggest?q=${encodeURIComponent(trimmed)}`)
+      const controller = new AbortController();
+      abortRef.current = controller;
+      fetch(`/api/search/suggest?q=${encodeURIComponent(trimmed)}`, { signal: controller.signal })
         .then((res) => (res.ok ? res.json() : []))
         .then((data: Suggestion[]) => {
           setSuggestions(data);
           setSuggestOpen(data.length > 0);
           setHighlighted(-1);
         })
-        .catch(() => {
+        .catch((err) => {
+          if (err?.name === "AbortError") return; // cancelado por una query más nueva, no un error real
           // Sin sugerencias por falla de red: el submit normal sigue andando.
           setSuggestions([]);
           setSuggestOpen(false);
@@ -78,6 +87,7 @@ export function SearchInput({
     }, DEBOUNCE_MS);
     return () => {
       if (debounceRef.current) clearTimeout(debounceRef.current);
+      abortRef.current?.abort();
     };
   }, [query]);
 

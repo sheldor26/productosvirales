@@ -1,7 +1,7 @@
 "use client";
 
-import { useMemo, useState } from "react";
-import { Scale } from "lucide-react";
+import { useEffect, useMemo, useState } from "react";
+import { Scale, ArrowDown } from "lucide-react";
 import { ProductGrid } from "./ProductGrid";
 import { ComparisonTable } from "./ComparisonTable";
 import { useProductCompare } from "@/lib/use-product-compare";
@@ -96,6 +96,25 @@ export function SortableProductGrid({ products, title, subtitle, priority = true
 
   const pagedVisible = visible.slice(0, visibleCount);
   const hasMore = visibleCount < visible.length;
+
+  // En categorías largas, la tabla comparativa queda al fondo de la grilla:
+  // seleccionar productos arriba solo da como feedback un texto chico, sin
+  // forma rápida de llegar a la tabla sin scrollear a ciegas por decenas de
+  // productos no seleccionados. El botón flotante se esconde solo si la
+  // tabla ya está a la vista (no tiene sentido pedirle que baje a algo que
+  // ya está mirando).
+  const [comparadorVisible, setComparadorVisible] = useState(false);
+  useEffect(() => {
+    const el = document.getElementById("comparador");
+    if (!el) return; // sin tabla montada (menos de 2 seleccionados): nada que observar
+    const obs = new IntersectionObserver(([entry]) => setComparadorVisible(entry.isIntersecting), {
+      threshold: 0,
+    });
+    obs.observe(el);
+    return () => obs.disconnect();
+  }, [compareProducts.length]);
+
+  const showJumpToCompare = compareMode && compareIds.length >= 2 && !comparadorVisible;
 
   return (
     <div>
@@ -278,6 +297,21 @@ export function SortableProductGrid({ products, title, subtitle, priority = true
       {compareMode && (
         <ComparisonTable products={compareProducts} onRemove={toggleCompare} onClear={clear} />
       )}
+
+      <div
+        className={`fixed inset-x-0 bottom-4 z-40 flex justify-center px-4 transition-all duration-200 ${
+          showJumpToCompare ? "translate-y-0 opacity-100" : "translate-y-4 opacity-0 pointer-events-none"
+        }`}
+        aria-hidden={!showJumpToCompare}
+      >
+        <a
+          href="#comparador"
+          className="inline-flex items-center gap-2 px-5 py-3 text-sm font-semibold rounded-[var(--radius-pill)] bg-[var(--cta-bg)] text-[var(--cta-text)] shadow-lg hover:bg-[var(--cta-hover)] motion-safe:active:scale-95 transition-[background-color,transform]"
+        >
+          Ver comparativa ({compareIds.length})
+          <ArrowDown size={14} />
+        </a>
+      </div>
     </div>
   );
 }
