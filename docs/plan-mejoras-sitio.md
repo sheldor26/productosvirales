@@ -1034,3 +1034,18 @@ Primera ronda en varias donde ninguna de las tres fuentes tocó el tema de stock
 `tsc --noEmit`, `eslint` sobre los 3 archivos tocados y `npm run build`, todos limpios.
 
 **Con 94 features implementadas, 94 commits locales.**
+
+### Iteración 60 (2026-10-07) — teclado móvil del buscador, tabla de registros de precio, useTransition en filtros (INP)
+
+**Codex** encontró que `PriceHistoryChart.tsx` solo deja auditar el precio con mouse/touch sobre el gráfico (tooltip efímero): no hay forma persistente ni navegable de ver los valores reales detrás del veredicto ("conviene esperar" / "buen momento"). Verificó que `PriceChartData.points` ya trae cada fecha y precio real, y que `rg` sobre las 59 iteraciones no encuentra ninguna tabla de registros previa. **Gemini** encontró que el `<input>` del buscador es `type="text"` genérico, sin `enterKeyHint`, `autoCapitalize`, `autoCorrect` ni `spellCheck` — en mobile, el teclado virtual del sistema intenta autocorregir nombres de marca ("Xiaomi", "Stanley") y muestra un botón "Intro" genérico en vez de uno de "Buscar". **Investigación externa** (ángulo nuevo: `useTransition`/INP) trajo un caso real medible (QuintoAndar, Brasil: -80% INP usando el mismo mecanismo, +36% conversión, vía web.dev) aplicado exactamente al patrón que ya tiene `SortableProductGrid.tsx`: cada click de filtro (`setPriceBucket`, `toggleSignal`, `setBrand`, `setSort`) re-filtra y re-ordena el listado completo en la misma tarea del click, justo el tipo de tarea larga que empeora INP en gama media Android (86% del mercado mobile argentino).
+
+**Implementado (tres features):**
+1. `PriceHistoryChart.tsx`: `<details>` nativo "Ver los N registros de precio" con una tabla Fecha/Precio de todos los puntos reales (orden más reciente primero), sin inventar ningún dato nuevo — son los mismos `points` que ya alimentan el gráfico.
+2. `SearchInput.tsx`: `type="search"` + `enterKeyHint="search"` + `autoCapitalize="none"` + `autoCorrect="off"` + `spellCheck={false}`. Al cambiar a `type="search"`, WebKit/Chrome agregan su propia "x" nativa de limpiar que hubiera quedado duplicada con el botón "Limpiar búsqueda" ya existente — se apagó explícito con `[&::-webkit-search-cancel-button]:appearance-none`.
+3. `SortableProductGrid.tsx`: los 4 setState de filtro/orden (`setSort`, `setPriceBucket` ×2, `toggleSignal`, `setBrand` ×2, `clearFilters`) ahora corren dentro de `startTransition`, con `isPending` atenuando la grilla mientras recalcula en vez de bloquear el click. No se tocó `HomeFeed.tsx`, que tiene un patrón de filtrado parecido pero no se verificó en esta ronda — queda como candidato para una próxima si hace falta.
+
+**Verificado en navegador:** tipeando "Xiaomi" en el buscador no se autocorrigió nada, y por DOM se confirmaron los 5 atributos (`type=search`, `enterKeyHint=search`, `autocapitalize=none`, `autocorrect=off`, `spellcheck=false`) con una sola "x" visible en pantalla (la custom). En la ficha de la Instax Mini 12, se expandió la tabla con un clic real: 7 filas con fecha completa (día/mes/año) y precio, coincidiendo con el conteo del `<summary>`. En `/categoria/cocina`, filtrar por "Envío gratis" con un clic real siguió funcionando correctamente (119 productos) con el filtrado ahora corriendo en una transición.
+
+`tsc --noEmit`, `eslint` sobre los 3 archivos tocados y `npm run build`, todos limpios.
+
+**Con 97 features implementadas, 97 commits locales.**

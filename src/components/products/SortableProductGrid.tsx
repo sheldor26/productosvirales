@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useState, useTransition } from "react";
 import { Scale, ArrowDown } from "lucide-react";
 import { ProductGrid } from "./ProductGrid";
 import { ComparisonTable } from "./ComparisonTable";
@@ -33,6 +33,16 @@ interface SortableProductGridProps {
  * pasa en el cliente sobre los CardProduct ya recibidos — no pide nada nuevo
  * al server ni cambia qué productos están en el HTML inicial (SEO intacto). */
 export function SortableProductGrid({ products, title, subtitle, priority = true }: SortableProductGridProps) {
+  // Ordenar/filtrar categorías grandes (cocina 138, hogar 89) re-filtra y
+  // re-ordena el listado entero en la misma tarea del click — en gama media
+  // Android (el parque real de esta audiencia) eso es tarea larga que
+  // bloquea el hilo principal y empeora INP (caso real: QuintoAndar redujo
+  // su INP 80% con el mismo mecanismo, +36% conversión, web.dev/quintoandar-inp).
+  // `startTransition` no cambia el resultado, solo le dice a React que el
+  // re-render es de baja prioridad: el click en sí sigue respondiendo al
+  // toque, y `isPending` se usa abajo para atenuar la grilla mientras recalcula.
+  const [isPending, startTransition] = useTransition();
+
   const [sort, setSort] = useState<SortOption>("relevancia");
   const sorted = useMemo(() => sortProducts(products, sort), [products, sort]);
 
@@ -44,9 +54,11 @@ export function SortableProductGrid({ products, title, subtitle, priority = true
   const [activeSignals, setActiveSignals] = useState<SignalFilter[]>([]);
   const availableSignals = useMemo(() => buildAvailableSignals(products), [products]);
   const toggleSignal = (signal: SignalFilter) => {
-    setActiveSignals((prev) =>
-      prev.includes(signal) ? prev.filter((s) => s !== signal) : [...prev, signal]
-    );
+    startTransition(() => {
+      setActiveSignals((prev) =>
+        prev.includes(signal) ? prev.filter((s) => s !== signal) : [...prev, signal]
+      );
+    });
     window.gtag?.("event", "signal_filter_toggle", { signal });
   };
 
@@ -55,9 +67,11 @@ export function SortableProductGrid({ products, title, subtitle, priority = true
 
   const hasActiveFilters = !!priceBucket || activeSignals.length > 0 || !!brand;
   function clearFilters() {
-    setPriceBucket(null);
-    setActiveSignals([]);
-    setBrand(null);
+    startTransition(() => {
+      setPriceBucket(null);
+      setActiveSignals([]);
+      setBrand(null);
+    });
     window.gtag?.("event", "clear_filters");
   }
 
@@ -162,7 +176,7 @@ export function SortableProductGrid({ products, title, subtitle, priority = true
                   value={sort}
                   onChange={(e) => {
                     const next = e.target.value as SortOption;
-                    setSort(next);
+                    startTransition(() => setSort(next));
                     window.gtag?.("event", "sort_products", { sort: next });
                   }}
                   className="rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--bg-primary)] text-[var(--text-primary)] px-3 py-1.5 text-sm cursor-pointer"
@@ -183,7 +197,7 @@ export function SortableProductGrid({ products, title, subtitle, priority = true
         <div className="mb-4 flex items-center gap-2 overflow-x-auto pb-1">
           <button
             type="button"
-            onClick={() => setPriceBucket(null)}
+            onClick={() => startTransition(() => setPriceBucket(null))}
             className={`shrink-0 px-3.5 py-1.5 text-sm font-medium rounded-[var(--radius-pill)] border transition-colors cursor-pointer ${
               !priceBucket
                 ? "bg-[var(--cta-bg)] text-[var(--cta-text)] border-[var(--cta-bg)]"
@@ -197,7 +211,7 @@ export function SortableProductGrid({ products, title, subtitle, priority = true
               key={b.label}
               type="button"
               onClick={() => {
-                setPriceBucket(b);
+                startTransition(() => setPriceBucket(b));
                 window.gtag?.("event", "price_filter", { range: b.label });
               }}
               className={`shrink-0 px-3.5 py-1.5 text-sm font-medium rounded-[var(--radius-pill)] border transition-colors cursor-pointer whitespace-nowrap ${
@@ -239,7 +253,7 @@ export function SortableProductGrid({ products, title, subtitle, priority = true
         <div className="mb-4 flex items-center gap-2 overflow-x-auto pb-1">
           <button
             type="button"
-            onClick={() => setBrand(null)}
+            onClick={() => startTransition(() => setBrand(null))}
             className={`shrink-0 px-3.5 py-1.5 text-sm font-medium rounded-[var(--radius-pill)] border transition-colors cursor-pointer ${
               !brand
                 ? "bg-[var(--cta-bg)] text-[var(--cta-text)] border-[var(--cta-bg)]"
@@ -253,7 +267,7 @@ export function SortableProductGrid({ products, title, subtitle, priority = true
               key={b}
               type="button"
               onClick={() => {
-                setBrand(b);
+                startTransition(() => setBrand(b));
                 window.gtag?.("event", "brand_filter", { brand: b });
               }}
               className={`shrink-0 px-3.5 py-1.5 text-sm font-medium rounded-[var(--radius-pill)] border transition-colors cursor-pointer whitespace-nowrap ${
@@ -295,14 +309,16 @@ export function SortableProductGrid({ products, title, subtitle, priority = true
         </div>
       )}
 
-      <ProductGrid
-        products={pagedVisible}
-        priority={priority}
-        compareMode={compareMode}
-        compareSelectedIds={compareSelectedIds}
-        compareLimitReached={compareLimitReached}
-        onCompareToggle={toggleCompare}
-      />
+      <div className={isPending ? "opacity-60 transition-opacity" : "transition-opacity"}>
+        <ProductGrid
+          products={pagedVisible}
+          priority={priority}
+          compareMode={compareMode}
+          compareSelectedIds={compareSelectedIds}
+          compareLimitReached={compareLimitReached}
+          onCompareToggle={toggleCompare}
+        />
+      </div>
 
       {pagedVisible.length > 0 && (
         // aria-live: quien usa lector de pantalla no tiene cómo notar que

@@ -264,7 +264,11 @@ export function SearchInput({
       />
       <input
         ref={inputRef}
-        type="text"
+        type="search"
+        enterKeyHint="search"
+        autoCapitalize="none"
+        autoCorrect="off"
+        spellCheck={false}
         value={query}
         onChange={(e) => {
           const value = e.target.value;
@@ -296,7 +300,10 @@ export function SearchInput({
           suggestOpen && highlighted >= 0 ? `${suggestListId}-option-${highlighted}` : undefined
         }
         autoComplete="off"
-        className="w-full pl-9 pr-9 py-2 text-sm bg-[var(--bg-secondary)] text-[var(--text-primary)] rounded-[var(--radius-pill)] border border-[var(--border)] outline-none focus:border-[var(--text-muted)] transition-colors placeholder:text-[var(--text-muted)]"
+        // `type="search"` le pide a WebKit/Chrome su propia "x" nativa de
+        // limpiar — quedaría duplicada con el botón "Limpiar búsqueda" que
+        // ya tiene el componente, así que se apaga la nativa explícito.
+        className="w-full pl-9 pr-9 py-2 text-sm bg-[var(--bg-secondary)] text-[var(--text-primary)] rounded-[var(--radius-pill)] border border-[var(--border)] outline-none focus:border-[var(--text-muted)] transition-colors placeholder:text-[var(--text-muted)] [&::-webkit-search-cancel-button]:appearance-none [&::-webkit-search-decoration]:appearance-none"
       />
       {(query || expandable) && (
         <button

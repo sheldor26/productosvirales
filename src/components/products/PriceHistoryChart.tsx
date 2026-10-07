@@ -28,6 +28,10 @@ function fmtDate(ms: number): string {
   const d = new Date(ms);
   return `${d.getUTCDate()} ${MESES[d.getUTCMonth()]}`;
 }
+function fmtFullDate(iso: string): string {
+  const d = new Date(toMs(iso));
+  return `${d.getUTCDate()} ${MESES[d.getUTCMonth()]} ${d.getUTCFullYear()}`;
+}
 
 export function PriceHistoryChart({ data }: { data: PriceChartData }) {
   const { points, min, max, current, verdict } = data;
@@ -192,6 +196,34 @@ export function PriceHistoryChart({ data }: { data: PriceChartData }) {
           <div className="text-sm font-bold text-[var(--text-secondary)]">{formatPrice(max)}</div>
         </div>
       </div>
+
+      {/* El gráfico se audita con mouse/touch, pero no deja nada navegable ni
+          persistente — esta tabla hace comprobable el dato real detrás del
+          veredicto ("conviene esperar" / "buen momento"), sin inventar
+          ninguna señal nueva: son los mismos puntos de `points`. */}
+      <details className="mt-4 text-sm">
+        <summary className="cursor-pointer select-none font-medium text-[var(--text-secondary)] hover:text-[var(--text-primary)]">
+          Ver los {points.length} registros de precio
+        </summary>
+        <table className="mt-2 w-full">
+          <thead>
+            <tr className="text-left text-[11px] uppercase tracking-wide text-[var(--text-muted)]">
+              <th className="font-normal pb-1.5">Fecha</th>
+              <th className="font-normal pb-1.5 text-right">Precio</th>
+            </tr>
+          </thead>
+          <tbody>
+            {[...points].reverse().map((pt) => (
+              <tr key={pt.d} className="border-t border-[var(--border)]">
+                <td className="py-1.5 text-[var(--text-secondary)]">{fmtFullDate(pt.d)}</td>
+                <td className="py-1.5 text-right font-medium text-[var(--text-primary)] tabular-nums">
+                  {formatPrice(pt.p)}
+                </td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </details>
     </div>
   );
 }
