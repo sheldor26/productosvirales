@@ -6,6 +6,48 @@
 > chequearlos en MercadoLibre. Si son reales, avisar para aplicarlos a mano.
 > Entradas nuevas arriba.
 
+## 2026-10-07
+
+- **MLA23305108** — Guitarra Eléctrica Fender Squier Stratocaster Sonic HSS: $553.799 → $1.251.000 (+126%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA23305108
+  - Sitio: https://productosvirales.com.ar/producto/MLA23305108
+- **MLA8732921** — Auriculares Gamer Con Cable HyperX Cloud HX-HSCA Black y Red: $91.379 → $779.403 (+753%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA8732921
+  - Sitio: https://productosvirales.com.ar/producto/MLA8732921
+- **MLA53370426** — Cafetera express Peabody PE-CE5023IX automática con molinillo: $998.650 → $2.049.999 (+105%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA53370426
+  - Sitio: https://productosvirales.com.ar/producto/MLA53370426
+- **MLA15705813** — Cafetera de cápsulas Moulinex Dolce Gusto Piccolo XS: $114.436 → $239.000 (+109%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA15705813
+  - Sitio: https://productosvirales.com.ar/producto/MLA15705813
+- **MLA52883777** — Set De 4 Perfumes Tubo Fragancias Arabes De 35ml Unisex: $14.233 → $29.100 (+104%)
+  - ML: https://www.mercadolibre.com.ar/set-de-4-perfumes-tubo-fragancias-arabes-de-35ml-unisex/p/MLA52883777
+  - Sitio: https://productosvirales.com.ar/producto/MLA52883777
+- **MLA47856504** — Plancha De Pelo Revlon 230° Placas 5.08Cm. Recubrimiento Titanio - plateada glitter: $399.999 → $69.999 (-83%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA47856504
+  - Sitio: https://productosvirales.com.ar/producto/MLA47856504
+- **MLA24556041** — Pava Eléctrica Telefunken Pe800 Jarra Vidrio 1.8lt Mate Cafe: $122.000 → $2.112.133 (+1631%)
+  - ML: https://www.mercadolibre.com.ar/pava-electrica-telefunken-pe800-jarra-vidrio-18lt-mate-cafe-color-transparentenegroplateado/p/MLA24556041
+  - Sitio: https://productosvirales.com.ar/producto/MLA24556041
+- **MLA2622288430** — Set De 10 Tupers Hermeticos Plasticos 2650cc Linea Clasica: $13.271 → $37.013 (+179%)
+  - ML: https://www.mercadolibre.com.ar/set-de-10-tupers-hermeticos-plasticos-2650cc-linea-clasica/up/MLAU3651895618
+  - Sitio: https://productosvirales.com.ar/producto/MLA2622288430
+- **MLA69809119** — Zapateros Mueble Zapatos Organizador Zapatero De Metal Plateado De 8 Pisos: $59.999 → $21.999 (-63%)
+  - ML: https://www.mercadolibre.com.ar/zapateros-mueble-zapatos-organizador-zapatero-de-metal-plateado-de-8-pisos/p/MLA69809119
+  - Sitio: https://productosvirales.com.ar/producto/MLA69809119
+- **MLA29597823** — Bombilla Mate El Santo Mate Hexagonal Acero Inoxidable Bronce Filtro Plano: $3.883 → $50.491 (+1200%)
+  - ML: https://www.mercadolibre.com.ar/bombilla-mate-el-santo-mate-hexagonal-acero-inoxidable-bronce-filtro-plano/p/MLA29597823
+  - Sitio: https://productosvirales.com.ar/producto/MLA29597823
+- **MLA23335355** — Olla Arrocera Multifunción 10 En 1 Oster 8030b Color Negro Frecuencia 50 Hz: $424.413 → $199.900 (-53%)
+  - ML: https://www.mercadolibre.com.ar/olla-arrocera-multifuncion-10-en-1-oster-8030b-color-negro-frecuencia-50-hz/p/MLA23335355
+  - Sitio: https://productosvirales.com.ar/producto/MLA23335355
+- **MLA42113760** — Freidora De Aire Kanji Home 8 Litros +10 Funciones Canasta Antiadherente Kjh-1700dc 1700w Lh Color Negro: $293.000 → $122.899 (-58%)
+  - ML: https://www.mercadolibre.com.ar/freidora-de-aire-kanji-home-8-litros-10-funciones-canasta-antiadherente-kjh-1700dc-1700w-lh-color-negro/p/MLA42113760
+  - Sitio: https://productosvirales.com.ar/producto/MLA42113760
+- **MLA16132352** — Cámara Deportiva Akaso V50X: $176.899 → $599.999 (+239%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA16132352
+  - Sitio: https://productosvirales.com.ar/producto/MLA16132352
+
 ## 2026-10-02
 
 - **MLA23305108** — Guitarra Eléctrica Fender Squier Stratocaster Sonic HSS: $553.799 → $1.251.000 (+126%)
