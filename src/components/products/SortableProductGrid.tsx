@@ -58,20 +58,6 @@ export function SortableProductGrid({ products, title, subtitle, priority = true
     .filter((p) => matchesSignals(p, activeSignals))
     .filter((p) => !brand || p.brand === brand);
 
-  // Volver a la primera página cuando cambia el orden o algún filtro — sin
-  // esto, filtrar a pocos resultados con visibleCount alto en 0 productos
-  // nuevos que "cargar más". Ajustado durante el render (mismo patrón que
-  // HomeFeed.tsx), no un useEffect aparte.
-  const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
-  const currentPageKey = `${sort}|${priceBucket?.label ?? ""}|${activeSignals.join(",")}|${brand ?? ""}`;
-  const [pageResetKey, setPageResetKey] = useState(currentPageKey);
-  if (currentPageKey !== pageResetKey) {
-    setPageResetKey(currentPageKey);
-    setVisibleCount(PAGE_SIZE);
-  }
-  const pagedVisible = visible.slice(0, visibleCount);
-  const hasMore = visibleCount < visible.length;
-
   const {
     compareMode,
     compareIds,
@@ -83,6 +69,33 @@ export function SortableProductGrid({ products, title, subtitle, priority = true
     clear,
     COMPARE_MAX,
   } = useProductCompare(products);
+
+  // Volver a la primera página cuando cambia el orden o algún filtro — sin
+  // esto, filtrar a pocos resultados con visibleCount alto en 0 productos
+  // nuevos que "cargar más". Ajustado durante el render (mismo patrón que
+  // HomeFeed.tsx), no un useEffect aparte.
+  const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
+  const currentPageKey = `${sort}|${priceBucket?.label ?? ""}|${activeSignals.join(",")}|${brand ?? ""}`;
+  const [pageResetKey, setPageResetKey] = useState(currentPageKey);
+  if (currentPageKey !== pageResetKey) {
+    setPageResetKey(currentPageKey);
+    setVisibleCount(PAGE_SIZE);
+  }
+
+  // Limpiar la comparación cuando cambia un FILTRO (no el orden: reordenar no
+  // saca productos de la vista, así que no debería vaciar la selección).
+  // Mismo criterio que ya usa HomeFeed.tsx al cambiar categoría/búsqueda: sin
+  // esto, comparás 2 productos, filtrás por precio y la tabla sigue mostrando
+  // uno que ya no aparece en la grilla — un "id fantasma".
+  const currentFilterKey = `${priceBucket?.label ?? ""}|${activeSignals.join(",")}|${brand ?? ""}`;
+  const [compareResetKey, setCompareResetKey] = useState(currentFilterKey);
+  if (currentFilterKey !== compareResetKey) {
+    setCompareResetKey(currentFilterKey);
+    if (compareIds.length > 0) clear();
+  }
+
+  const pagedVisible = visible.slice(0, visibleCount);
+  const hasMore = visibleCount < visible.length;
 
   return (
     <div>

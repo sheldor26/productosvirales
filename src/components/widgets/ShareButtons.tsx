@@ -1,7 +1,7 @@
 "use client";
 
-import { useState } from "react";
-import { Copy, Check } from "lucide-react";
+import { useEffect, useState } from "react";
+import { Copy, Check, Share2 } from "lucide-react";
 import { WhatsAppIcon } from "@/components/icons/WhatsAppIcon";
 
 interface ShareButtonsProps {
@@ -78,6 +78,15 @@ const shareTargets = [
  * audiencia realmente comparte y recomienda productos. */
 export function ShareButtons({ title, className = "" }: ShareButtonsProps) {
   const [copied, setCopied] = useState(false);
+  // navigator.share no existe en SSR; se detecta en el cliente después del
+  // montaje. Es el estándar en iOS/Android (Safari y Chrome), no en desktop,
+  // así que en mobile reemplaza la fila de 5 íconos por un solo botón nativo:
+  // menos fricción (manda a WhatsApp/Telegram/AirDrop sin salir del flujo) y
+  // menos espacio ocupado arriba de la intención de compra (ver iteración 12).
+  const [canNativeShare, setCanNativeShare] = useState(false);
+  useEffect(() => {
+    setCanNativeShare(typeof navigator.share === "function");
+  }, []);
 
   const handleCopy = () => {
     navigator.clipboard.writeText(window.location.href).then(() => {
@@ -90,29 +99,53 @@ export function ShareButtons({ title, className = "" }: ShareButtonsProps) {
     });
   };
 
+  const handleNativeShare = async () => {
+    window.gtag?.("event", "share_click", {
+      network: "share_nativo",
+      page_path: window.location.pathname,
+    });
+    try {
+      await navigator.share({ url: window.location.href, title });
+    } catch {
+      // Cancelado por el usuario, o algún error del sistema: no hacer nada,
+      // el botón de copiar link sigue ahí al lado como alternativa.
+    }
+  };
+
   const btnClass =
     "inline-flex items-center justify-center w-9 h-9 rounded-full border border-[var(--border)] text-[var(--text-secondary)] hover:text-[var(--text-primary)] hover:border-[var(--text-muted)] transition-colors";
 
   return (
     <div className={`flex items-center gap-2 ${className}`}>
-      {shareTargets.map(({ name, Icon, buildUrl }) => (
+      {canNativeShare ? (
         <button
-          key={name}
           type="button"
-          aria-label={`Compartir por ${name}`}
+          aria-label="Compartir"
           className={btnClass}
-          onClick={() => {
-            const url = window.location.href;
-            window.gtag?.("event", "share_click", {
-              network: name,
-              page_path: window.location.pathname,
-            });
-            window.open(buildUrl(url, title), "_blank", "noopener,noreferrer");
-          }}
+          onClick={handleNativeShare}
         >
-          <Icon />
+          <Share2 size={15} />
         </button>
-      ))}
+      ) : (
+        shareTargets.map(({ name, Icon, buildUrl }) => (
+          <button
+            key={name}
+            type="button"
+            aria-label={`Compartir por ${name}`}
+            className={btnClass}
+            onClick={() => {
+              const url = window.location.href;
+              window.gtag?.("event", "share_click", {
+                network: name,
+                page_path: window.location.pathname,
+              });
+              window.open(buildUrl(url, title), "_blank", "noopener,noreferrer");
+            }}
+          >
+            <Icon />
+          </button>
+        ))
+      )}
       <button
         type="button"
         aria-label="Copiar link"
