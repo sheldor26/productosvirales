@@ -53,6 +53,14 @@ export function SortableProductGrid({ products, title, subtitle, priority = true
   const [brand, setBrand] = useState<string | null>(null);
   const availableBrands = useMemo(() => buildAvailableBrands(products), [products]);
 
+  const hasActiveFilters = !!priceBucket || activeSignals.length > 0 || !!brand;
+  function clearFilters() {
+    setPriceBucket(null);
+    setActiveSignals([]);
+    setBrand(null);
+    window.gtag?.("event", "clear_filters");
+  }
+
   const visible = sorted
     .filter((p) => !priceBucket || priceInBucket(p.price, priceBucket))
     .filter((p) => matchesSignals(p, activeSignals))
@@ -267,10 +275,24 @@ export function SortableProductGrid({ products, title, subtitle, priority = true
         </p>
       )}
 
-      {(priceBucket || activeSignals.length > 0 || brand) && visible.length === 0 && (
-        <p className="mb-3 text-sm text-[var(--text-muted)]">
-          Ningún producto cumple con esos filtros. Probá sacando alguno.
-        </p>
+      {hasActiveFilters && (
+        <div className="mb-3 flex items-center justify-between gap-3 flex-wrap">
+          {/* aria-live: combinar precio+señal+marca puede dejar la grilla en
+              0 resultados sin ningún aviso más que el vacío visual — esto le
+              confirma a quien usa lector de pantalla qué pasó al filtrar. */}
+          <p aria-live="polite" className="text-sm text-[var(--text-muted)]">
+            {visible.length === 0
+              ? "Ningún producto cumple con esos filtros. Probá sacando alguno."
+              : `${visible.length} producto${visible.length !== 1 ? "s" : ""} con estos filtros.`}
+          </p>
+          <button
+            type="button"
+            onClick={clearFilters}
+            className="shrink-0 text-sm font-medium text-[var(--text-primary)] hover:underline underline-offset-2 cursor-pointer"
+          >
+            Limpiar filtros
+          </button>
+        </div>
       )}
 
       <ProductGrid

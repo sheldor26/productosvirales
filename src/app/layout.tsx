@@ -65,6 +65,15 @@ export const viewport: Viewport = {
   width: "device-width",
   initialScale: 1,
   maximumScale: 5,
+  // Mismo valor que --bg-primary en globals.css: la barra de estado/
+  // dirección del navegador queda del mismo color que el fondo del sitio en
+  // vez del gris por defecto del sistema operativo. No se usa un par de
+  // valores atados a `prefers-color-scheme` acá porque el tema real del
+  // sitio NO sigue al sistema operativo (ThemeProvider.tsx tiene
+  // `enableSystem={false}`): alguien con el celular en modo oscuro igual ve
+  // el sitio en claro por defecto, así que esa media query mentiría. Quien
+  // togglea a oscuro manualmente lo corrige en caliente via ThemeColorSync.
+  themeColor: "#ffffff",
 };
 
 export default function RootLayout({
