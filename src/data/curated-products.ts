@@ -102838,6 +102838,259 @@ No es para vos si buscás picar en cubitos de un solo movimiento (para eso sirve
       { question: "¿Cuántas piezas trae el set?", answer: "6 piezas con cuchillas intercambiables, según su ficha técnica." },
     ],
   },
+
+  // ─────────────────────────────────────────────────────────
+  // Sourcing 2026-10-08: hub de afiliados de ML, 3 fichas para la
+  // guía pilar botas-de-presoterapia (silo salud-bienestar),
+  // cross-linkeadas entre sí. Imágenes verificadas 2X-F con curl GET
+  // (no HEAD). FIT KING descartado (sin stock, 13 días de demora, sin
+  // reseñas), San-Up descartado ("ÚLTIMAS 3 UNIDADES"), Mantra
+  // descartado (sin calificaciones y spec de presión mal cargada,
+  // "165.017mmHg"). Quedan 3 picks genuinamente diferenciados.
+  // ─────────────────────────────────────────────────────────
+  {
+    id: "MLA50578777",
+    title: "Botas de Presoterapia Gadnic 9 Intensidades Temporizador Automático 15 Min Controlador Plantillas",
+    canonicalName: "Gadnic AIRC0M06",
+    brand: "Gadnic",
+    mpn: "AIRC0M06",
+    price: 207499,
+    originalPrice: 232899,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_915501-MLA118127681327_092026-F.webp",
+    category: "Salud y Bienestar",
+    categorySlug: "salud-bienestar",
+    permalink: "https://www.mercadolibre.com.ar/botas-de-presoterapia-gadnic-9-intensidades-temporizador-automatico-15-min-controlador-plantillas/p/MLA50578777",
+    affiliateUrl: "https://meli.la/2goiv39",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 1523,
+    reviewsSampledAt: "2026-10-08",
+    soldQuantity: 5000,
+    visibility: "normal",
+    priceUpdated: "2026-10-08",
+    priceLastChecked: "2026-10-08",
+    priceStatus: "fresh",
+    seoTitle: "Botas de presoterapia Gadnic AIRC0M06: precio en Argentina y si realmente hacen drenaje",
+    metaDescription: "Botas de presoterapia Gadnic AIRC0M06 a {{precio:MLA50578777}} con {{reviews:MLA50578777}} calificaciones, 1° en ventas de la categoría. Compresión y descompresión real, pero los propios compradores aclaran: no hacen drenaje linfático.",
+    pros: [
+      "1° más vendida en Presoterapia de MercadoLibre Argentina, con {{reviews:MLA50578777}} calificaciones y {{rating:MLA50578777}} estrellas",
+      "Temporizador automático de 15 minutos por sesión, con 9 niveles de intensidad y controlador para las plantillas",
+      "Cubre pies, pantorrillas y muslos en una sola pieza, con accesorios específicos para isquiotibiales y cuádriceps",
+      "La más barata de esta comparativa, con compradores que confirman que cumple lo que promete en el uso diario",
+    ],
+    cons: [
+      "Según varias reseñas reales, las mangueras se enredan al armar el equipo las primeras veces (\"medio enquilombado\", dice un comprador), aunque mejora con la costumbre",
+      "La ficha técnica declara 10W de potencia, pero la descripción del vendedor dice 12W: una inconsistencia menor, pero real",
+      "No tiene función calor, a diferencia de la Melfit I350 de esta comparativa",
+      "Un comprador con 2 estrellas aclara algo importante: \"solo son botas de compresión y descompresión, no producen drenaje\". Si buscás drenaje linfático real, ninguna bota de presoterapia casera lo reemplaza del todo",
+    ],
+    verdict: "Con {{reviews:MLA50578777}} calificaciones y {{rating:MLA50578777}} estrellas, es la más vendida y la más barata de esta comparativa. Cumple bien lo que promete (compresión y descompresión para piernas cansadas), pero ojo con las expectativas: según los propios compradores, no reemplaza un drenaje linfático real.",
+    specs: [
+      { label: "Marca", value: "Gadnic" },
+      { label: "Modelo", value: "AIRC0M06" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Potencia", value: "10W según ficha técnica (12W según la descripción del vendedor)" },
+      { label: "Cantidad de funciones", value: "9" },
+      { label: "Cantidad de equipos de presoterapia", value: "1" },
+      { label: "Incluye botas", value: "Sí" },
+      { label: "Incluye mangas", value: "Sí" },
+      { label: "Incluye cable de alimentación", value: "Sí" },
+      { label: "Temporizador", value: "15 minutos, automático" },
+    ],
+    relatedProducts: ["MLA29008444", "MLA1126944753"],
+    articleBody: `## Qué son las botas de presoterapia Gadnic AIRC0M06
+
+Son botas de presoterapia con 9 niveles de intensidad, {{reviews:MLA50578777}} calificaciones y {{rating:MLA50578777}} estrellas en MercadoLibre Argentina, vendidas a {{precio:MLA50578777}}. Son la 1° más vendida de la categoría Presoterapia de MercadoLibre Argentina.
+
+## Cómo funcionan
+
+Cubren pie, pantorrilla y muslo en una sola pieza, con accesorios específicos para isquiotibiales y cuádriceps. El temporizador automático corta la sesión a los 15 minutos por seguridad, y el controlador incluye plantillas para ajustar la intensidad. Según su ficha técnica funcionan con 10W (la descripción del vendedor dice 12W, una inconsistencia menor pero real que vale la pena saber si estás comparando potencias entre modelos).
+
+## Lo que dicen los compradores
+
+Una reseña real describe el primer uso así: **"Medio enquilombado todas la mangueras pero cuando le agarras la mano va muy bien!! lo ideal es la continuidad de hacérselo una vez al día para notar el cambio"** (139 votos útiles). Otra compradora resume su experiencia general: **"Las compré porque leí los comentarios y realmente fueron buenos, ahora que las tengo puedo afirmar que es lo que esperaba. Supero expectativas!"** (144 votos útiles).
+
+## El dato honesto: no hacen drenaje linfático real
+
+Acá hay algo que conviene aclarar antes de comprar: una reseña real de 2 estrellas dice **"Solo son botas de compresión y descompresión. No producen de drenaje"**. Es un punto importante si estás buscando específicamente drenaje linfático: estas botas comprimen y descomprimen las piernas (lo que ayuda a la circulación y a bajar la sensación de pesadez), pero no reemplazan un drenaje manual profesional. Otro comprador con 2 estrellas fue más tajante: **"Pensé que era más sencillo de usar. Me arrepiento de haber comprado este producto"**.
+
+## Para quién es, y para quién no
+
+Es para vos si buscás la opción más barata y más vendida de esta comparativa para aliviar piernas cansadas después de muchas horas parado o sentado.
+
+No es para vos si buscás función calor (mirá la Melfit I350 más abajo) o un kit que también cubra brazos y abdomen (mirá la Gadnic Relax Estrias).`,
+    faq: [
+      { question: "¿Hacen drenaje linfático real?", answer: "No. Según una reseña real de un comprador, solo son botas de compresión y descompresión; no producen drenaje linfático manual. Ayudan a la circulación y a la sensación de piernas cansadas, pero no reemplazan un drenaje profesional." },
+      { question: "¿Tienen función calor?", answer: "No. A diferencia de la Melfit I350 de esta comparativa, esta Gadnic no incluye función calor." },
+      { question: "¿Cuánto dura cada sesión?", answer: "El temporizador se corta automáticamente a los 15 minutos por seguridad." },
+      { question: "¿Cuántos niveles de intensidad tiene?", answer: "9 niveles, según su ficha técnica." },
+      { question: "¿Cuánta potencia tiene?", answer: "Su ficha técnica declara 10W, aunque la descripción del vendedor menciona 12W. Una diferencia menor, pero real." },
+      { question: "¿Es difícil de armar?", answer: "Varios compradores mencionan que las mangueras se enredan las primeras veces, aunque la mayoría coincide en que mejora con el uso." },
+      { question: "¿Cubre pies, pantorrillas y muslos?", answer: "Sí, en una sola pieza, con accesorios específicos para isquiotibiales y cuádriceps." },
+    ],
+  },
+  {
+    id: "MLA29008444",
+    title: "Botas Presoterapia Full Drenaje Melfit Celulitis Masajes I350",
+    canonicalName: "Melfit I350",
+    brand: "Melfit",
+    mpn: "I350",
+    price: 178190,
+    originalPrice: 230000,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_743738-MLA114016246463_072026-F.webp",
+    category: "Salud y Bienestar",
+    categorySlug: "salud-bienestar",
+    permalink: "https://www.mercadolibre.com.ar/botas-presoterapia-full-drenaje-melfit-celulitis-masajes-i350/p/MLA29008444",
+    affiliateUrl: "https://meli.la/2u4Cg8j",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.6,
+    reviewCount: 821,
+    reviewsSampledAt: "2026-10-08",
+    soldQuantity: 1000,
+    visibility: "normal",
+    priceUpdated: "2026-10-08",
+    priceLastChecked: "2026-10-08",
+    priceStatus: "fresh",
+    seoTitle: "Botas de presoterapia Melfit I350: ¿hacen drenaje de verdad o es solo el nombre?",
+    metaDescription: "Botas Melfit I350 a {{precio:MLA29008444}} con {{reviews:MLA29008444}} calificaciones. Con función calor y \"Full Drenaje\" en el nombre, pero un comprador real aclara qué significa eso en la práctica.",
+    pros: [
+      "3° más vendida en Presoterapia de MercadoLibre Argentina, con {{reviews:MLA29008444}} calificaciones y {{rating:MLA29008444}} estrellas",
+      "Única de esta comparativa con función calor, además de 3 modos de masaje y 3 modos de compresión",
+      "Control remoto y bolso de transporte incluido",
+      "Los abrojos (velcro) de sujeción reciben elogios reales: compradores destacan que no se sueltan una vez puestos",
+    ],
+    cons: [
+      "El nombre dice \"Full Drenaje\", pero según una reseña real, no son botas enterizas como las que usan especialistas en gabinetes: comprimen y masajean, no hacen drenaje manual profesional",
+      "Diseño de una sola pieza: según una compradora con piernas cortas, las rodillas no quedan bien posicionadas y hay que improvisar la colocación; con piernas muy anchas puede no cerrar bien",
+      "No incluye accesorios para brazos ni abdomen, a diferencia de la Gadnic Relax Estrias de esta comparativa",
+      "El precio mostrado no incluye impuestos nacionales descontados: confirmá el valor final antes de comprar",
+    ],
+    verdict: "Con {{reviews:MLA29008444}} calificaciones y {{rating:MLA29008444}} estrellas, es la única de esta comparativa con función calor. Pero el nombre \"Full Drenaje\" es más ambicioso que la realidad: según los propios compradores, no sustituye un drenaje linfático manual profesional.",
+    specs: [
+      { label: "Marca", value: "Melfit" },
+      { label: "Modelo", value: "I350" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Potencia", value: "24W" },
+      { label: "Función calor", value: "Sí" },
+      { label: "Modos de masaje", value: "3" },
+      { label: "Modos de compresión", value: "3" },
+      { label: "Control remoto", value: "Sí" },
+      { label: "Diseño", value: "Una pieza (pie, pantorrilla y muslo)" },
+    ],
+    relatedProducts: ["MLA50578777", "MLA1126944753"],
+    articleBody: `## Qué son las botas Melfit I350
+
+Son botas de presoterapia con función calor, {{reviews:MLA29008444}} calificaciones y {{rating:MLA29008444}} estrellas en MercadoLibre Argentina, vendidas a {{precio:MLA29008444}}. Son la 3° más vendida de la categoría Presoterapia de MercadoLibre Argentina.
+
+## La función calor, el diferencial real
+
+A diferencia de la Gadnic AIRC0M06 de esta comparativa, la Melfit suma función calor a los 3 modos de masaje y 3 modos de compresión, con control remoto y bolso de transporte incluido. Funciona a 220V con 24W de potencia, más del doble que la Gadnic básica.
+
+## Lo que dicen los compradores
+
+La reseña más detallada, de 4 estrellas, viene de alguien que ya la usó bastante: **"Para los que estén interesados en comprarla tengan en cuenta que: son botas que vienen en una sola pieza. Eso influye en la posición de la misma. Va perfecta en piernas largas. No así en cortas. [...] Otro tema es que si tenés piernas muy gordas olvidate. [...] Lo que tiene como algo a destacar son los abrojos. Aunque logres sujetar apenas unos centímetros, no se te desprende por nada"** (31 votos útiles). La misma reseña suma: **"Vas a tener unos buenos masajes (3 modos) y muy buena compresión (3 modos) además cuenta con calienta pies"**.
+
+## El dato honesto: "Full Drenaje" es más nombre que función
+
+El título del producto promete "Full Drenaje", pero la misma reseña real lo pone en contexto: **"No son botas enterizas cómo usan en gabinetes, con especialistas [...] haciendo también el drenaje manualmente con masajes"**. En otras palabras: comprimen y masajean (lo real, y lo que hace bien), pero no reemplazan una sesión de drenaje linfático manual con un especialista.
+
+## Para quién es, y para quién no
+
+Es para vos si querés función calor sumada a la compresión, y tenés piernas de tamaño estándar a largas.
+
+No es para vos si tenés piernas muy cortas o muy anchas (el diseño de una pieza puede no quedar bien), o si buscás un kit que también cubra brazos y abdomen (mirá la Gadnic Relax Estrias más abajo).`,
+    faq: [
+      { question: "¿Hace drenaje linfático real, como dice el nombre?", answer: "No del todo. Según una reseña real, no son botas enterizas como las que usan especialistas en gabinetes: comprimen y masajean, pero no reemplazan un drenaje manual profesional." },
+      { question: "¿Tiene función calor?", answer: "Sí, es la única de esta comparativa con función calor, además de 3 modos de masaje y 3 modos de compresión." },
+      { question: "¿Sirve para piernas cortas?", answer: "Con reservas. Según una compradora con piernas cortas, el diseño de una sola pieza no posiciona bien las rodillas y hay que improvisar la colocación." },
+      { question: "¿Trae control remoto?", answer: "Sí, incluye control remoto y bolso de transporte." },
+      { question: "¿Cuánta potencia tiene?", answer: "24W, según su ficha técnica." },
+      { question: "¿Incluye accesorios para brazos o abdomen?", answer: "No. Para eso, la Gadnic Relax Estrias de esta comparativa suma piernas, brazos y faja abdominal en el mismo kit." },
+    ],
+  },
+  {
+    id: "MLA1126944753",
+    title: "Botas De Presoterapia Gadnic Relax Estrias Para Celulitis",
+    canonicalName: "Gadnic AIRCOM8X",
+    brand: "Gadnic",
+    mpn: "AIRCOM8X",
+    price: 745999,
+    originalPrice: 1252949,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_938836-MLA116177847840_092026-F.webp",
+    category: "Salud y Bienestar",
+    categorySlug: "salud-bienestar",
+    permalink: "https://articulo.mercadolibre.com.ar/MLA-1126944753-botas-de-presoterapia-gadnic-relax-estrias-para-celulitis-_JM",
+    affiliateUrl: "https://meli.la/1odWTR3",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 127,
+    reviewsSampledAt: "2026-10-08",
+    soldQuantity: 500,
+    visibility: "normal",
+    priceUpdated: "2026-10-08",
+    priceLastChecked: "2026-10-08",
+    priceStatus: "fresh",
+    seoTitle: "Botas de presoterapia Gadnic Relax Estrias: kit para piernas, brazos y abdomen, ¿vale 4 veces más?",
+    metaDescription: "Kit de presoterapia Gadnic AIRCOM8X a {{precio:MLA1126944753}} con {{reviews:MLA1126944753}} calificaciones. Cubre piernas, brazos y abdomen, pero no al mismo tiempo: así lo explican los compradores reales.",
+    pros: [
+      "El único kit de esta comparativa con accesorios para piernas, brazos y faja abdominal, no solo piernas",
+      "{{rating:MLA1126944753}} estrellas en {{reviews:MLA1126944753}} calificaciones, la mejor calificación de esta comparativa",
+      "Compradores reales lo usan tanto para recuperación deportiva profesional como para el día a día en consultorio",
+      "6° en ventas de la categoría Presoterapia pese a ser, por lejos, la más cara de esta comparativa",
+    ],
+    cons: [
+      "No se pueden usar las botas al mismo tiempo que los brazos o la faja abdominal: hay que cambiar las mangueras de un accesorio a otro, según una reseña real",
+      "Pese al color rojo encendido de las fotos (que sugiere calor, como en la Melfit), no tiene función calor: un comprador real lo confirma (\"no tienen calor\"), y tampoco figura en la ficha técnica",
+      "Un comprador no entendía para qué servían las plantillas de plástico incluidas, y califica el manual de instrucciones como \"pésimo\"",
+      "Es, por lejos, la más cara de esta comparativa: alrededor de 4 veces el precio de la Gadnic AIRC0M06 básica",
+    ],
+    verdict: "Con {{reviews:MLA1126944753}} calificaciones y {{rating:MLA1126944753}} estrellas, es la mejor calificada y la única que suma brazos y abdomen al kit. Pero el precio (unas 4 veces la Gadnic básica) solo se justifica si realmente vas a usar esos accesorios extra, y según los compradores no se pueden usar todos a la vez.",
+    specs: [
+      { label: "Marca", value: "Gadnic" },
+      { label: "Modelo", value: "AIRCOM8X" },
+      { label: "Potencia", value: "20W" },
+      { label: "Incluye", value: "Botas para piernas, accesorios para brazos, faja abdominal y plantillas" },
+      { label: "Función calor", value: "No" },
+      { label: "Funciones programables", value: "Sí (piernas, brazos y abdomen, por separado)" },
+      { label: "Variante", value: "Negro, talle L" },
+    ],
+    relatedProducts: ["MLA50578777", "MLA29008444"],
+    articleBody: `## Qué es el kit Gadnic Relax Estrias
+
+Es un kit de presoterapia con accesorios para piernas, brazos y faja abdominal, {{reviews:MLA1126944753}} calificaciones y {{rating:MLA1126944753}} estrellas en MercadoLibre Argentina, vendido a {{precio:MLA1126944753}}. Es el 6° más vendido de la categoría Presoterapia de MercadoLibre Argentina, pese a ser, por lejos, el más caro de esta comparativa.
+
+## El diferencial real: piernas, brazos y abdomen
+
+A diferencia de la Gadnic AIRC0M06 y la Melfit I350 de esta comparativa (que solo cubren piernas), este kit suma accesorios específicos para brazos y una faja abdominal, con funciones programables para cada zona. Funciona a 20W de potencia.
+
+## Lo que dicen los compradores
+
+Una reseña real de 5 estrellas resume bien el uso: **"Muy buen producto, mucho más económico que otros y cumple muy bien con su función. Lo utilizo constantemente para la recuperación deportiva profesional y también para el día a día en el consultorio"** (17 votos útiles). Otra reseña, también de 5 estrellas, suma un dato práctico importante: **"Excelente! Lo único es que no se pueden usar al mismo tiempo las botas con los brazos o la faja abdominal. Y hay que estar cambiando las mangueras de un accesorio a otro"** (17 votos útiles).
+
+## El dato honesto: ni calor, ni manual claro
+
+Pese al color rojo encendido de las fotos de la publicación (muy parecido al de la Melfit, que sí tiene calor), este kit no tiene función calor: una reseña real de 4 estrellas lo confirma sin vueltas: **"Buen funcionamiento, cómodo, fácil de usar; no tienen calor y no sé aún para qué sirven las plantillas de plástico. Pésimo el manual de instrucciones"** (12 votos útiles).
+
+## Para quién es, y para quién no
+
+Es para vos si realmente vas a usar los tres accesorios (piernas, brazos y abdomen) y el presupuesto no es la prioridad: tiene la mejor calificación de esta comparativa.
+
+No es para vos si solo te interesan las piernas: a ese precio, te conviene más la Gadnic AIRC0M06 básica o, si querés calor, la Melfit I350.`,
+    faq: [
+      { question: "¿Se pueden usar las botas y los brazos al mismo tiempo?", answer: "No. Según una reseña real, hay que cambiar las mangueras de un accesorio a otro: no se puede usar todo simultáneamente." },
+      { question: "¿Tiene función calor?", answer: "No, pese a que el color rojo de las fotos sugiere calor (como en la Melfit I350). Un comprador real lo confirma: \"no tienen calor\", y tampoco figura en la ficha técnica." },
+      { question: "¿Para qué sirven las plantillas de plástico que incluye?", answer: "No está del todo claro: un comprador real señaló que no entendía su función, y calificó el manual de instrucciones como \"pésimo\"." },
+      { question: "¿Vale la pena pagar 4 veces más que la Gadnic básica?", answer: "Solo si realmente vas a usar los accesorios de brazos y abdomen, no solo las piernas. Si solo te interesan las piernas, la Gadnic AIRC0M06 cumple lo mismo a una fracción del precio." },
+      { question: "¿Sirve para uso profesional?", answer: "Según una reseña real, sí: un comprador lo usa tanto para recuperación deportiva profesional como en consultorio." },
+      { question: "¿Cuánta potencia tiene?", answer: "20W, según su ficha técnica." },
+    ],
+  },
 ];
 
 export const categoryPastels: Record<string, string> = {
