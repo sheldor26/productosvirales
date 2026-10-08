@@ -2,7 +2,7 @@
 
 import Image from "next/image";
 import { useRouter } from "next/navigation";
-import { Search, X, Clock } from "lucide-react";
+import { Search, X, Clock, SearchX } from "lucide-react";
 import { useState, useRef, useEffect, useId } from "react";
 import { cn, formatPrice } from "@/lib/utils";
 import { productHref } from "@/lib/product-url";
@@ -181,7 +181,11 @@ export function SearchInput({
         .then((res) => (res.ok ? res.json() : []))
         .then((data: Suggestion[]) => {
           setSuggestions(data);
-          setSuggestOpen(data.length > 0);
+          // Abre igual con 0 resultados: antes se cerraba en silencio y la
+          // persona no sabía si la búsqueda falló, seguía cargando, o
+          // simplemente no hay nada — ahora el estado vacío de abajo lo
+          // confirma al toque, sin esperar al submit completo a /buscar.
+          setSuggestOpen(true);
           setHighlighted(-1);
         })
         .catch((err) => {
@@ -412,6 +416,22 @@ export function SearchInput({
             </li>
           ))}
         </ul>
+      )}
+
+      {suggestOpen && !showingRecent && suggestions.length === 0 && (
+        // Antes esto cerraba el dropdown en silencio: no había forma de
+        // distinguir "todavía está buscando" de "no hay nada" sin mandar el
+        // submit completo a /buscar. role="status" (no "alert"): es
+        // informativo, no un error que interrumpa.
+        <div
+          role="status"
+          className="absolute z-20 top-full left-0 right-0 mt-1.5 px-4 py-5 text-center bg-[var(--bg-primary)] border border-[var(--border)] rounded-[var(--radius-card)] shadow-lg"
+        >
+          <SearchX size={18} className="mx-auto text-[var(--text-muted)]" />
+          <p className="mt-1.5 text-sm text-[var(--text-secondary)]">
+            Sin resultados para &quot;{query.trim()}&quot;
+          </p>
+        </div>
       )}
     </form>
   );

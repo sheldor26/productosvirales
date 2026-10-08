@@ -1079,3 +1079,17 @@ Primera ronda en varias donde ninguna de las tres fuentes tocó el tema de stock
 `tsc --noEmit`, `eslint` sobre los 7 archivos tocados (los 2 errores preexistentes de `react-hooks/set-state-in-effect` en `use-saved-products.ts`/`use-recently-viewed.ts` no son de esta ronda, confirmado con `git diff` — no tocan esas líneas) y `npm run build`, todos limpios.
 
 **Con 104 features implementadas, 104 commits locales.**
+
+### Iteración 63 (2026-10-08) — 5 categorías invisibles en la home, estado vacío del autocomplete, RUM de Core Web Vitals ya existía
+
+**Codex** encontró que `CategoryTabs.tsx` (los filtros de categoría de la home) mantenía su propio array local de solo 8 tabs (Todos, Viral, Hogar, Cocina, Tech, Gaming, Audio, Belleza), mientras `category-nav.ts` — la misma fuente que ya alimenta Header y Footer — define 11 hubs reales: Música, Climatización, Salud y Bienestar, Seguridad y Coleccionables quedaban sin forma de filtrarse desde la home, solo accesibles abriendo el menú de categorías. **Gemini** encontró que el autocomplete del buscador cierra el dropdown en silencio cuando una búsqueda no tiene resultados (`setSuggestOpen(data.length > 0)`): quien tipea algo sin coincidencias no tiene forma de distinguir "todavía está buscando" de "no hay nada", y tiene que mandar el submit completo a `/buscar` para confirmarlo. **Investigación externa** (ángulo: Real User Monitoring de Core Web Vitals a GA4, para saber si todas las optimizaciones de performance de las últimas rondas realmente mejoran la experiencia real) resultó ser una idea **ya implementada**: `WebVitalsReporter.tsx`, montado en `layout.tsx` desde antes de este loop, ya manda LCP/CLS/INP/FCP/TTFB a GA4 vía el hook nativo `next/web-vitals` de Next.js — la propuesta asumía que hacía falta sumar la dependencia `web-vitals` sin haber grepeado el repo primero. Se descartó por completo, sin implementar nada en su lugar.
+
+**Implementado (dos features):**
+1. `CategoryTabs.tsx` ahora deriva los tabs de `CATEGORY_NAV` (igual que Header/Footer) en vez de mantener una lista duplicada — los 11 hubs quedan filtrables desde la home. `HomeFeed.tsx`: `titleMap` se arma con los labels reales de `CATEGORY_NAV` como base (antes el fallback para un slug sin entrada en el mapa producía títulos rotos tipo "Salud-bienestar" en vez de "Salud y Bienestar"), conservando la bajada más descriptiva ya validada para "audio" ("Audio y Auriculares").
+2. `SearchInput.tsx`: cuando el fetch de sugerencias resuelve con 0 resultados, el dropdown ahora se abre igual mostrando "Sin resultados para "X"" (`role="status"`, ícono `SearchX` ya usado en el estado vacío de `HomeFeed.tsx` para consistencia visual) en vez de cerrarse sin avisar nada.
+
+**Verificado en navegador:** la home mostró los 13 tabs (11 hubs + Todos + Viral); clickear "Salud y Bienestar" con un clic real cambió el H2 a "Salud y Bienestar" (no al slug roto). Tipeando una búsqueda sin coincidencias reales ("zzzxyznoexiste") apareció el bloque "Sin resultados" con el ícono, confirmado por DOM y por captura visual.
+
+`tsc --noEmit`, `eslint` sobre los 3 archivos tocados y `npm run build`, todos limpios.
+
+**Con 106 features implementadas, 106 commits locales.**

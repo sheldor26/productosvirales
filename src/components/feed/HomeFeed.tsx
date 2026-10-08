@@ -11,6 +11,7 @@ import { filterBySearch } from "@/lib/utils";
 import { sortProducts, SORT_LABELS, type SortOption } from "@/lib/product-sort";
 import { useProductCompare } from "@/lib/use-product-compare";
 import { categories } from "@/data/categories";
+import { CATEGORY_NAV } from "@/data/category-nav";
 import type { CardProduct } from "@/lib/types";
 
 const PAGE_SIZE = 12;
@@ -64,15 +65,16 @@ export function HomeFeed({ products }: HomeFeedProps) {
     return products.filter((p) => p.categorySlug === activeCategory);
   }, [activeCategory, products, searchQuery]);
 
+  // Base: todos los hubs reales (mismo criterio que CategoryTabs.tsx, misma
+  // fuente que Header/Footer) para que un slug sin entrada acá no caiga en
+  // el fallback feo ("Salud-bienestar" en vez de "Salud y Bienestar").
+  // "audio" pisa el label corto de CATEGORY_NAV con una bajada más
+  // descriptiva, ya validada en este título.
   const titleMap: Record<string, string> = {
     todos: "Todos los productos",
     viral: "Lo más viral y trending",
-    hogar: "Hogar",
-    cocina: "Cocina",
-    tech: "Tech",
-    gaming: "Gaming",
+    ...Object.fromEntries(CATEGORY_NAV.map((c) => [c.slug, c.label])),
     audio: "Audio y Auriculares",
-    belleza: "Belleza",
   };
 
   const title = searchQuery.trim()

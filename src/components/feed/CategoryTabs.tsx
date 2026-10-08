@@ -1,17 +1,8 @@
 "use client";
 
-import {
-  Flame,
-  Heart,
-  Smartphone,
-  Home,
-  ChefHat,
-  Gamepad2,
-  Headphones,
-  LayoutGrid,
-  type LucideIcon,
-} from "lucide-react";
+import { Flame, LayoutGrid, type LucideIcon } from "lucide-react";
 import { cn } from "@/lib/utils";
+import { CATEGORY_NAV } from "@/data/category-nav";
 
 interface CategoryTab {
   slug: string;
@@ -21,15 +12,15 @@ interface CategoryTab {
   color?: string;
 }
 
+// CATEGORY_NAV es la misma fuente que ya usan Header y Footer: antes este
+// array vivía duplicado acá con solo 6 de los 11 hubs reales (Música,
+// Climatización, Salud y Bienestar, Seguridad y Coleccionables quedaban sin
+// filtro en la home, solo accesibles abriendo el menú), y cualquier hub
+// nuevo había que acordarse de sumarlo en dos lugares.
 const tabs: CategoryTab[] = [
   { slug: "todos", label: "Todos", icon: LayoutGrid },
   { slug: "viral", label: "Viral", icon: Flame, isSpecial: true, color: "#ef4444" },
-  { slug: "hogar", label: "Hogar", icon: Home },
-  { slug: "cocina", label: "Cocina", icon: ChefHat },
-  { slug: "tech", label: "Tech", icon: Smartphone },
-  { slug: "gaming", label: "Gaming", icon: Gamepad2 },
-  { slug: "audio", label: "Audio", icon: Headphones },
-  { slug: "belleza", label: "Belleza", icon: Heart },
+  ...CATEGORY_NAV.map((c) => ({ slug: c.slug, label: c.label, icon: c.icon })),
 ];
 
 interface CategoryTabsProps {
