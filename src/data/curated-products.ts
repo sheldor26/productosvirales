@@ -101962,6 +101962,289 @@ Es la única cucha plegable de esta comparativa, declarada explícitamente para 
       { question: "¿Tiene alguna contra real?", answer: "Un comprador sugiere que el techo frontal debería sobresalir más para proteger mejor de la lluvia cuando se usa al aire libre." },
     ],
   },
+
+  // ─────────────────────────────────────────────────────────
+  // Sourcing 2026-10-08: hub de afiliados de ML (más vendidos / virales /
+  // más buscados / más compartidos, últimos 7-15 días). 3 fichas Femmto
+  // (salud-bienestar, cross-linkeadas entre sí), 1 Wahl (belleza), 1 Lyonn
+  // (tech). Sin guía pilar propia todavía — alcanzables por ahora solo
+  // desde la grilla de categoría, no desde una guía. Pendiente sumarlas a
+  // una guía cuando se arme el silo correspondiente.
+  // ─────────────────────────────────────────────────────────
+  {
+    id: "MLA76118504",
+    title: "Tensiómetro Digital Femmto KF-DT65S",
+    canonicalName: "Femmto KF-DT65S",
+    brand: "Femmto",
+    mpn: "KF-DT65S",
+    price: 32999,
+    originalPrice: 49999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_750127-MLA114688955266_082026-F.webp",
+    category: "Salud y Bienestar",
+    categorySlug: "salud-bienestar",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA76118504",
+    affiliateUrl: "https://meli.la/138ymA2",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 37679,
+    reviewsSampledAt: "2026-10-08",
+    soldQuantity: 100000,
+    visibility: "normal",
+    priceUpdated: "2026-10-08",
+    priceLastChecked: "2026-10-08",
+    priceStatus: "fresh",
+    seoTitle: "Tensiómetro digital Femmto KF-DT65S: precio en Argentina y qué tan preciso es",
+    metaDescription: "Femmto KF-DT65S a {{precio:MLA76118504}} con {{reviews:MLA76118504}} calificaciones. Se carga por USB, no usa pilas, y varios compradores con formación médica confirman que sus valores coinciden con los de un consultorio.",
+    pros: [
+      "Rating de {{rating:MLA76118504}} con {{reviews:MLA76118504}} calificaciones: 1° más vendido en Tensiómetros Digitales de MercadoLibre Argentina",
+      "Se carga con batería de litio recargable por USB, no depende de pilas descartables",
+      "Memoria para 192 mediciones entre 2 usuarios, con indicador de error de movimiento durante la toma",
+      "Varios compradores con formación médica (cardiólogo, personal de sanatorio) confirman que sus mediciones coinciden con las de un equipo profesional",
+    ],
+    cons: [
+      "No incluye estuche para guardarlo o viajar",
+      "Memoria compartida para 2 usuarios, sin perfiles automáticos: hay que llevar la cuenta manual de quién se tomó la presión",
+      "Tiene Bluetooth y app propia (compatible con Apple Health y Google Health), pero ninguna de las reseñas leídas la menciona en uso real — toda la precisión citada por los compradores es por lectura directa en pantalla",
+      "Es un dispositivo de uso doméstico: no reemplaza un control médico profesional, como aclaran los propios compradores que lo comparan contra mediciones de consultorio",
+    ],
+    verdict: "Con {{reviews:MLA76118504}} calificaciones y {{rating:MLA76118504}} estrellas, es de los tensiómetros digitales con más respaldo de MercadoLibre Argentina en esta franja de precio. Se carga por USB en vez de usar pilas, y el dato que más pesa a favor es que varios compradores con formación médica confirman que sus valores coinciden con los de un consultorio. Le falta un estuche y la app con Bluetooth queda sin evidencia real de uso en las reseñas, pero como medidor doméstico cumple.",
+    specs: [
+      { label: "Tipo de tensiómetro digital", value: "De brazo" },
+      { label: "Marca", value: "Femmto" },
+      { label: "Modelo", value: "KF-DT65S" },
+      { label: "Color", value: "Blanco" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Tipos de mediciones", value: "Frecuencia cardíaca, presión diastólica, presión sistólica" },
+      { label: "Cantidad total de memorias", value: "192, para 2 usuarios" },
+      { label: "Tipo de inflado", value: "Automático" },
+      { label: "Con indicador de error de movimiento", value: "Sí" },
+      { label: "Tipos de alimentación", value: "Batería de litio recargable, por USB" },
+      { label: "Incluye brazalete", value: "Sí" },
+      { label: "Circunferencia del brazalete", value: "22 a 32 cm" },
+      { label: "Incluye estuche", value: "No" },
+      { label: "Con Bluetooth", value: "Sí, con app propia Femmto (compatible Apple Health y Google Health)" },
+      { label: "Garantía de fábrica", value: "5 años" },
+    ],
+    relatedProducts: ["MLA15503957", "MLA24127896"],
+    articleBody: `## Qué es el Femmto KF-DT65S
+
+Es un tensiómetro digital de brazo con {{reviews:MLA76118504}} calificaciones y {{rating:MLA76118504}} estrellas en MercadoLibre Argentina, vendido a {{precio:MLA76118504}} por la tienda oficial de Femmto Healthcare. Infla el brazalete solo, mide presión sistólica, diastólica y frecuencia cardíaca, y guarda hasta 192 mediciones repartidas entre 2 usuarios.
+
+## Se carga por USB, no usa pilas
+
+Tiene batería de litio recargable incorporada, con cable USB incluido. A diferencia de otros tensiómetros que piden pilas AA o AAA, acá no hace falta ir a comprarlas cuando se agotan: se enchufa y listo. Una reseña real lo resume así: **"Fácil de usar. El cargador usb permite no tener que preocuparse por las pilas!"**.
+
+## Lo que dicen compradores con formación médica
+
+Esto es lo que más pesa a favor: varios compradores que trabajan en salud comparan sus mediciones contra equipos profesionales y confirman que coinciden. Una reseña dice: **"Excelente producto, se llevó al cardiólogo y arrojo los mismos valores que el del profesional, y con la aplicación el doctor ve cómo vamos con ese tema"**. Otra, de alguien que trabaja en un sanatorio: **"La medición es bastante exacta lo comparé con otros profesionales del sanatorio donde trabajo, y cumple muy bien"**.
+
+## Cómo tomarte bien la presión con este aparato
+
+Una reseña muy completa explica la técnica correcta, y vale la pena resumirla porque afecta la precisión de cualquier tensiómetro, no solo este: sentarse bien derecho con las piernas descruzadas, poner el brazalete a 2 dedos del codo (ni muy ajustado ni muy flojo), no hablar ni moverse durante la medición, y nunca ponerlo sobre la ropa. También recomienda tomarse la presión 2 veces al día (una hora después de levantarse y una hora antes de acostarse) y dejar pasar una hora desde la última comida.
+
+## La app con Bluetooth, sin evidencia real de uso
+
+La ficha técnica confirma conectividad Bluetooth con la app propia de Femmto, compatible con Apple Health y Google Health. El detalle honesto: ninguna de las reseñas leídas menciona haberla usado en la práctica — toda la confianza en la precisión que citan los compradores viene de leer el número en la pantalla del propio aparato, no de la app. Si la sincronización con el celular es tu motivo principal de compra, no hay testimonios reales que la respalden todavía.
+
+## Para quién es, y para quién no
+
+Es para vos si buscás un tensiómetro doméstico confiable, que no dependa de pilas y que ya convenció a gente con formación médica que lo probó contra equipos profesionales.
+
+No es para vos si necesitás un estuche para viajar con él (no lo incluye) o si la app con Bluetooth es el motivo principal de la compra: existe en la ficha técnica, pero no hay testimonios reales de uso.`,
+    faq: [
+      { question: "¿Es preciso comparado con un tensiómetro profesional?", answer: "Varios compradores con formación médica (un cardiólogo, personal de un sanatorio) confirman en sus reseñas que sus mediciones coinciden con las de un equipo profesional." },
+      { question: "¿Usa pilas?", answer: "No. Tiene batería de litio recargable que se carga por cable USB, incluido en la caja." },
+      { question: "¿Para cuántos usuarios sirve?", answer: "Guarda hasta 192 mediciones repartidas entre 2 usuarios, con indicador de error de movimiento durante la toma." },
+      { question: "¿Incluye estuche?", answer: "No, según la propia ficha técnica del producto. Si necesitás uno para viajar, hay que conseguirlo aparte." },
+      { question: "¿Tiene Bluetooth de verdad?", answer: "Según la ficha técnica sí, con app propia de Femmto compatible con Apple Health y Google Health. Ninguna reseña leída la menciona en uso real, así que no hay testimonios que confirmen cómo funciona en la práctica." },
+      { question: "¿Qué circunferencia de brazo soporta el brazalete?", answer: "De 22 a 32 cm según la ficha técnica." },
+      { question: "¿Cuánto dura la garantía?", answer: "5 años de garantía de fábrica, según la publicación." },
+    ],
+  },
+  {
+    id: "MLA10214160",
+    title: "Máquina de Cortar Pelo Wahl Quick Cut",
+    canonicalName: "Wahl Quick Cut",
+    brand: "Wahl",
+    mpn: "9314-2448",
+    price: 32999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_603526-MLA99969797341_112025-F.webp",
+    category: "Cuidado Personal",
+    categorySlug: "belleza",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA10214160",
+    affiliateUrl: "https://meli.la/2LTP5AP",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.6,
+    reviewCount: 9761,
+    reviewsSampledAt: "2026-10-08",
+    soldQuantity: 50000,
+    visibility: "normal",
+    priceUpdated: "2026-10-08",
+    priceLastChecked: "2026-10-08",
+    priceStatus: "fresh",
+    seoTitle: "Máquina de cortar pelo Wahl Quick Cut: precio en Argentina y kit completo",
+    metaDescription: "Wahl Quick Cut a {{precio:MLA10214160}} con {{reviews:MLA10214160}} calificaciones. Kit de 16 piezas con 10 peines guía, usada incluso con chicos con hipersensibilidad en la cabeza según reseñas reales.",
+    pros: [
+      "Rating de {{rating:MLA10214160}} con {{reviews:MLA10214160}} calificaciones, 3° más vendida en cortadoras Wahl de MercadoLibre Argentina",
+      "Kit completo de 16 piezas: 10 peines guía (de 3mm a 2,5cm), tijeras, aceite y cepillo de limpieza incluidos",
+      "Cabezal removible y lavable, cuchillas de acero al carbono",
+      "Compradores reales la usan incluso con chicos con hipersensibilidad en la cabeza por lo silenciosa y rápida que corta",
+    ],
+    cons: [
+      "Es a cable (220V, 2,4 m de largo): no es inalámbrica, a diferencia de otros modelos de la misma marca",
+      "No incluye batería recargable ni es resistente al agua, según su propia ficha técnica",
+      "No es apta para bebés, según la misma ficha técnica",
+      "El precio fluctúa seguido entre los distintos vendedores que ofrecen esta publicación: confirmá el valor vigente antes de comprar",
+    ],
+    verdict: "Con {{reviews:MLA10214160}} calificaciones y {{rating:MLA10214160}} estrellas, es una cortadora de pelo a cable con kit completo (10 peines, tijeras, aceite, cepillo) y cuchillas de acero al carbono. Lo más valioso de sus reseñas: no son solo sobre cortar pelo en casa para ahorrar, hay testimonios reales de padres que la usan con chicos con hipersensibilidad en la cabeza, justamente porque es silenciosa y rápida.",
+    specs: [
+      { label: "Marca", value: "Wahl" },
+      { label: "Línea", value: "Home" },
+      { label: "Modelo", value: "Quick Cut" },
+      { label: "Modelo alfanumérico", value: "9314-2448" },
+      { label: "Color", value: "Negro/Blanco" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Potencia", value: "9W" },
+      { label: "Sistema de afeitado", value: "Láminas" },
+      { label: "Materiales de las aspas", value: "Acero al carbono" },
+      { label: "Tipos de motor", value: "Magnético/Vibratorio" },
+      { label: "Cantidad de posiciones de corte", value: "10" },
+      { label: "Altura de corte", value: "De 3 mm a 2,5 cm" },
+      { label: "Es inalámbrica", value: "No, a cable de 2,4 m" },
+      { label: "Es resistente al agua", value: "No" },
+      { label: "Con cabezales lavables", value: "Sí, removible" },
+      { label: "Accesorios incluidos", value: "1 cepillo de limpieza, 1 aceite lubricante, tijeras, 10 peines guía" },
+    ],
+    articleBody: `## Qué es la Wahl Quick Cut
+
+Es una máquina de cortar pelo a cable, kit de 16 piezas, con {{reviews:MLA10214160}} calificaciones y {{rating:MLA10214160}} estrellas en MercadoLibre Argentina, vendida a {{precio:MLA10214160}}. Trae 10 peines guía de 3 mm a 2,5 cm, tijeras, aceite y cepillo de limpieza.
+
+## El kit completo, sin gastos extra
+
+A diferencia de cortadoras que solo traen la máquina y un peine, esta viene con 16 piezas: 10 peines guía que cubren desde 3 mm hasta 2,5 cm, tijeras, aceite lubricante para las cuchillas y un cepillo de limpieza. El cabezal es removible y lavable, con cuchillas de acero al carbono.
+
+## Un uso real que no esperábamos: chicos con hipersensibilidad
+
+La reseña más valiosa de esta ficha no habla de ahorro: **"La compre para cortarle el pelo a mi nene que tiene autismo con hipersensibilidad en la cabeza. Resulto ser maravillosa y rapida, quedo como de peluqueria"**. Es un testimonio real de que, más allá del precio, es una máquina silenciosa y rápida, lo suficiente como para no generar malestar en un chico sensible al ruido o al tacto prolongado.
+
+## Buena potencia, cuchillas regulables
+
+Otro comprador real confirma: **"Tiene muy buena potencia, no calienta, se regula perfecto el alto de las cuchillas para hacer más preciso el corte"**. Es consistente con la ficha técnica: motor magnético/vibratorio de 9W con 10 posiciones de corte.
+
+## Es a cable, no inalámbrica
+
+Según su propia ficha técnica, funciona a 220V con un cable de 2,4 metros: no tiene batería recargable ni es inalámbrica, a diferencia de otros modelos de la misma marca Wahl. Tampoco es resistente al agua ni apta para bebés.
+
+## Para quién es, y para quién no
+
+Es para vos si buscás una cortadora de pelo completa para usar en casa, con buen respaldo de reseñas y un kit que no obliga a comprar nada aparte.
+
+No es para vos si necesitás que sea inalámbrica o resistente al agua: para eso hay otros modelos Wahl pensados específicamente para eso.`,
+    faq: [
+      { question: "¿Es inalámbrica?", answer: "No, según su propia ficha técnica funciona a cable (220V, 2,4 metros de largo)." },
+      { question: "¿Qué trae el kit?", answer: "16 piezas en total: la máquina, 10 peines guía de 3 mm a 2,5 cm, tijeras, aceite lubricante y un cepillo de limpieza." },
+      { question: "¿Sirve para chicos con sensibilidad al ruido o al tacto?", answer: "Al menos un comprador real la usó con su hijo con autismo e hipersensibilidad en la cabeza, y la describe como rápida y silenciosa, con un resultado \"como de peluquería\"." },
+      { question: "¿Es apta para bebés?", answer: "No, según la propia ficha técnica del producto." },
+      { question: "¿Es resistente al agua?", answer: "No, según la ficha técnica." },
+      { question: "¿De qué material son las cuchillas?", answer: "Acero al carbono, con cabezal removible y lavable." },
+      { question: "¿El precio es siempre el mismo?", answer: "No necesariamente: esta publicación la ofrecen varios vendedores distintos y el precio puede variar entre ellos. Conviene confirmar el valor vigente antes de comprar." },
+    ],
+  },
+  {
+    id: "MLA6208662",
+    title: "Estabilizador de Tensión Lyonn TCA 1200VA",
+    canonicalName: "Lyonn TCA-1200NV",
+    brand: "Lyonn",
+    mpn: "TCA-1200NV",
+    price: 56999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_920874-MLU70064993445_062023-F.webp",
+    category: "Tech",
+    categorySlug: "tech",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA6208662",
+    affiliateUrl: "https://meli.la/1dMVBcN",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 9926,
+    reviewsSampledAt: "2026-10-08",
+    soldQuantity: 50000,
+    visibility: "normal",
+    priceUpdated: "2026-10-08",
+    priceLastChecked: "2026-10-08",
+    priceStatus: "fresh",
+    seoTitle: "Estabilizador Lyonn TCA 1200VA: precio en Argentina y cuánta potencia real soporta",
+    metaDescription: "Lyonn TCA 1200VA a {{precio:MLA6208662}} con {{reviews:MLA6208662}} calificaciones. Un comprador midió la salida real: 616W, mucho menos de lo que el \"1200VA\" sugiere — no sirve para heladera ni impresora láser.",
+    pros: [
+      "Rating de {{rating:MLA6208662}} con {{reviews:MLA6208662}} calificaciones, 2° más vendido en estabilizadores de MercadoLibre Argentina",
+      "Protege contra picos y bajones de tensión reales: un comprador relata que salvó sus equipos durante un principio de incendio en el cableado de su edificio",
+      "6 tomas, selección automática de voltaje bivolt, alarma sonora de batería baja",
+      "Rango de voltaje de entrada amplio (175 a 273 VAC), cubre variaciones fuertes de la red eléctrica",
+    ],
+    cons: [
+      "Su salida real es de 616W / 2,8A máximo según el propio comprador que lo midió — bastante menos de lo que el \"1200VA\" nominal podría sugerir. No sirve para microondas, hornos eléctricos, heladeras, lavarropas, lavavajillas ni impresoras láser, pese a que la ficha técnica de MercadoLibre lo lista como apto para \"Impresoras, láser\"",
+      "No tiene interruptor de ahorro de energía",
+      "El cable USB que incluye es de comunicación/configuración, no un cargador adicional",
+      "La ficha técnica de MercadoLibre tiene al menos un dato mal cargado (declara 40 metros de altura, un error evidente de tipeo que omitimos de las especificaciones)",
+    ],
+    verdict: "Con {{reviews:MLA6208662}} calificaciones y {{rating:MLA6208662}} estrellas, protege de verdad contra picos y bajones de tensión — hay un testimonio real de alguien que salvó sus equipos durante un principio de incendio eléctrico en su edificio. El dato clave antes de comprar: su salida real medida por un comprador es de 616W / 2,8A, mucho menos de lo que sugiere el \"1200VA\" del nombre. Sirve para computadoras, monitores y el celular; no sirve para heladera, microondas ni impresora láser, pese a que la ficha técnica de MercadoLibre dice lo contrario en ese último caso.",
+    specs: [
+      { label: "Marca", value: "Lyonn" },
+      { label: "Línea", value: "TCA" },
+      { label: "Modelo", value: "TCA-1200NV" },
+      { label: "Color", value: "Negro" },
+      { label: "Tipo de producto", value: "Estabilizador (Tipo de UPS: Online, según ficha técnica)" },
+      { label: "Potencia nominal", value: "1200 VA" },
+      { label: "Potencia de salida real (según reseña de un comprador)", value: "616 W / 2,8 A máximo" },
+      { label: "Cantidad de tomas", value: "6" },
+      { label: "Voltaje de entrada y salida", value: "220V" },
+      { label: "Rango de voltaje de entrada", value: "175 a 273 VAC" },
+      { label: "Método de selección de entrada bivolt", value: "Automático" },
+      { label: "Con interruptor de ahorro de energía", value: "No" },
+      { label: "Tipos de alarma sonora", value: "Batería baja" },
+      { label: "Accesorios incluidos", value: "Cable USB (comunicación/configuración)" },
+      { label: "Peso", value: "1,54 kg" },
+      { label: "Dimensiones", value: "21 cm de ancho x 20 cm de profundidad" },
+    ],
+    articleBody: `## Qué es el Lyonn TCA 1200VA
+
+Es un estabilizador de tensión de la marca argentina Lyonn, con {{reviews:MLA6208662}} calificaciones y {{rating:MLA6208662}} estrellas en MercadoLibre Argentina, vendido a {{precio:MLA6208662}}. Tiene 6 tomas, selección automática de voltaje bivolt y un rango de entrada amplio (175 a 273 VAC).
+
+## El dato que un comprador midió y que conviene saber antes de comprar
+
+Esta es la reseña más útil de todo el producto, con más de 800 votos: **"Dato que no les quieren dar y es el más importante. Salida: 616 watts maximo. Corriente de salida: 2.8 amperes maximo. Cualquier cosa o cosas que le enchufen que no pase de los 616 wats o les va a cortar la corriente y no la van apoder usar. [...] No sirve para productos de gran consumo como microondas, hornos electricos, estufas electricas, heladeras, lavarropas, lavavajillas, impresoras láser, etc."**. Esto contradice directamente la ficha técnica de MercadoLibre, que lista "Impresoras, láser" entre los dispositivos aptos. Ganá la reseña del comprador que lo midió: si tenés una impresora láser, este estabilizador no te sirve para ella.
+
+## Protección real contra picos de tensión
+
+Más allá de esa aclaración sobre potencia, el estabilizador cumple bien su función principal. Un comprador relata un caso extremo: **"No lo medí con tester, lo que puedo decir es que verano, una noche, uno de los cables en la calle que alimenta mi edificio estuvo a punto de cortarse, haciendo chispas. En mi casa, todos..."** (los equipos quedaron protegidos). Otra reseña, con más de 1.200 votos útiles, lo resume con humor: **"Ya no explota nada en mi casa. Salvo mi matrimonio"**.
+
+## Para qué sirve, según los números reales
+
+Con 616W / 2,8A de salida real, alcanza perfectamente para una computadora de escritorio, un monitor, un router, una consola o cargar el celular. No alcanza para electrodomésticos de alto consumo: heladera, microondas, lavarropas, lavavajillas, estufa eléctrica ni impresora láser.
+
+## Un error de carga en la ficha técnica
+
+Entre los datos que carga MercadoLibre para esta publicación hay un error evidente: la ficha técnica declara "Altura: 40 m" (cuarenta metros), un dato que obviamente no corresponde a un estabilizador de escritorio de 1,54 kg. Lo omitimos de nuestras especificaciones por ser un error de tipeo claro, no un dato real.
+
+## Para quién es, y para quién no
+
+Es para vos si buscás proteger computadoras, monitores, routers o consolas de picos y bajones de tensión, con un fabricante argentino de trayectoria en el rubro.
+
+No es para vos si necesitás proteger una heladera, un microondas o una impresora láser: la salida real de 616W no alcanza para esos equipos, aunque un campo de la ficha técnica diga lo contrario.`,
+    faq: [
+      { question: "¿Cuánta potencia soporta en la práctica?", answer: "Según un comprador que lo midió, la salida real es de 616W / 2,8A máximo — mucho menos de lo que el \"1200VA\" nominal podría hacer pensar. Alcanza para computadoras, monitores y cargar celulares, no para electrodomésticos de alto consumo." },
+      { question: "¿Sirve para una impresora láser?", answer: "No, según la experiencia real de un comprador, pese a que la ficha técnica de MercadoLibre lo lista como apto para \"Impresoras, láser\". Las impresoras láser consumen más de los 616W de salida real que tiene este estabilizador." },
+      { question: "¿Sirve para una heladera?", answer: "No. Según un comprador que verificó la potencia real, no alcanza para heladeras, microondas, lavarropas, lavavajillas ni estufas eléctricas." },
+      { question: "¿Protege de verdad contra picos de tensión?", answer: "Sí, hay testimonios reales de compradores que lo usaron durante eventos de tensión inestable (incluido un principio de incendio en el cableado de un edificio) y sus equipos quedaron protegidos." },
+      { question: "¿Cuántas tomas tiene?", answer: "6 tomas, con selección automática de voltaje bivolt." },
+      { question: "¿Qué rango de voltaje de entrada soporta?", answer: "De 175 a 273 VAC, un rango amplio para cubrir variaciones fuertes de la red eléctrica." },
+      { question: "¿Es lo mismo que un UPS con batería de respaldo?", answer: "La ficha técnica lo clasifica como \"Tipo de UPS: Online\", pero su función principal confirmada en la descripción y las reseñas es estabilizar tensión, no dar autonomía durante un corte de luz prolongado. Si buscás respaldo de batería ante apagones largos, confirmá esa función específica antes de comprar." },
+    ],
+  },
 ];
 
 export const categoryPastels: Record<string, string> = {
