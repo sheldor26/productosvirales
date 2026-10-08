@@ -7,6 +7,7 @@ import { X, Flame } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { WhatsAppIcon } from "@/components/icons/WhatsAppIcon";
 import { CATEGORY_NAV } from "@/data/category-nav";
+import { useScrollLock } from "@/lib/use-scroll-lock";
 
 const WHATSAPP_CHANNEL_URL = "https://whatsapp.com/channel/0029Vb8OJXB6mYPIHG0M4a1t";
 
@@ -36,6 +37,7 @@ export function MobileNav({ open, onClose }: MobileNavProps) {
   const closeRef = useRef<HTMLButtonElement>(null);
   const openerRef = useRef<HTMLElement | null>(null);
   const pathname = usePathname();
+  useScrollLock(open);
 
   // Al abrir: recordar quién abrió y mover el foco al botón cerrar; Escape cierra;
   // Tab/Shift+Tab quedan atrapados dentro del panel (si no, tabular de más saca

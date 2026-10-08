@@ -2,6 +2,7 @@
 
 import { useEffect, useRef, useState } from "react";
 import { List, X } from "lucide-react";
+import { useScrollLock } from "@/lib/use-scroll-lock";
 
 const FOCUSABLE_SELECTOR =
   'a[href], button:not([disabled]), [tabindex]:not([tabindex="-1"])';
@@ -84,6 +85,7 @@ function TocList({
 export function TableOfContents({ items }: TableOfContentsProps) {
   const activeId = useActiveId(items.map((i) => i.id));
   const [mobileOpen, setMobileOpen] = useState(false);
+  useScrollLock(mobileOpen);
   const panelRef = useRef<HTMLDivElement>(null);
   const closeRef = useRef<HTMLButtonElement>(null);
   const triggerRef = useRef<HTMLButtonElement>(null);

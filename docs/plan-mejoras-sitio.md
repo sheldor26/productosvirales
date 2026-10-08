@@ -1093,3 +1093,17 @@ Primera ronda en varias donde ninguna de las tres fuentes tocó el tema de stock
 `tsc --noEmit`, `eslint` sobre los 3 archivos tocados y `npm run build`, todos limpios.
 
 **Con 106 features implementadas, 106 commits locales.**
+
+### Iteración 64 (2026-10-08) — scroll bloqueado en modales mobile, autoComplete="email" en los 3 formularios, service worker offline queda para proponer
+
+**Codex** encontró que `MobileNav.tsx` (el menú hamburguesa) declara `role="dialog"` y `aria-modal="true"`, pero nunca bloquea el scroll del `body` — la página de atrás podía seguir desplazándose detrás del panel, y al cerrar el menú la persona perdía el punto exacto donde estaba leyendo. Verificado con `rg`: ningún lugar del código toca `document.body.style`/`overflow` para esto. Al revisar el resto de los modales del sitio se encontró el mismo gap en el drawer "Secciones" de `TableOfContents.tsx` (mismo patrón `role="dialog"`, mismo overlay), así que se extendió ahí también. **Gemini** encontró que los 3 formularios de captación de email del sitio (`NewsletterBanner.tsx`, `NewsletterForm.tsx`, `PriceAlert.tsx`) usan `type="email"` pero ninguno declara `autoComplete="email"` — sin eso, el teclado/gestor de contraseñas del celular no siempre sugiere el mail guardado, y WCAG 1.3.5 (Identify Input Purpose) queda sin cubrir. **Investigación externa** (ángulo nuevo: service worker con página de fallback offline, cacheando la última ficha/guía visitada) trajo evidencia real (caso Mainline Menswear vía web.dev, +55% conversión con PWA+offline fallback, aunque el research aclaró que esa cifra es del PWA completo, no aislada al fallback) y contexto de mercado real (cobertura 4G/5G argentina concentrada en grandes centros urbanos, según Enacom) — pero se autodescartó para hoy: montar un service worker en `layout.tsx` es infraestructura de red con riesgo real (contenido cacheado que puede quedar desactualizado, interacción con el link de afiliado), y la propia regla de oro #4 del repo (avisar antes de tocar el layout raíz) aplica acá con más peso que a un simple `<link>` nuevo.
+
+**Implementado (dos features):**
+1. `src/lib/use-scroll-lock.ts` (hook nuevo): bloquea el `body` con `position: fixed` + offset del scroll actual (no `overflow: hidden` solo, que en iOS Safari no frena el scroll táctil) y restaura la posición exacta al desbloquear. Conectado en `MobileNav.tsx` (`useScrollLock(open)`) y `TableOfContents.tsx` (`useScrollLock(mobileOpen)`).
+2. `autoComplete="email"` sumado a los 3 `<input type="email">` del sitio (`NewsletterBanner.tsx`, `NewsletterForm.tsx`, `PriceAlert.tsx`).
+
+**Verificado en navegador:** en viewport mobile, se scrolleó a 422px, se abrió el menú con un clic real y se confirmó `document.body.style.position === "fixed"` con `windowScrollY === 0` (bloqueado visualmente); al cerrar con otro clic real, `body.style.position` volvió a vacío y `window.scrollY` se restauró exactamente a 422. Para `autoComplete`, se confirmó por DOM (`input.autocomplete === "email"`) en el formulario visible de la página.
+
+`tsc --noEmit`, `eslint` sobre los 6 archivos tocados/nuevos y `npm run build`, todos limpios.
+
+**Con 108 features implementadas, 108 commits locales.**

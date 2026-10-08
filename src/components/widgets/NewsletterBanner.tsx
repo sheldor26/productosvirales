@@ -147,6 +147,7 @@ export function NewsletterBanner() {
             <input
               type="email"
               required
+              autoComplete="email"
               aria-label="Email"
               aria-describedby={message ? messageId : undefined}
               aria-invalid={status === "error" ? true : undefined}
