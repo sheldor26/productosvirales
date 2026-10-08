@@ -3,7 +3,7 @@ import { CATEGORY_NAV } from "@/data/category-nav";
 
 export function Footer() {
   return (
-    <footer className="border-t border-[var(--border)] bg-[var(--bg-primary)]">
+    <footer className="border-t border-[var(--border)] bg-[var(--bg-primary)] print:hidden">
       <div className="max-w-[1200px] mx-auto px-4 md:px-6 py-10 md:py-14">
         <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
           {/* Brand */}

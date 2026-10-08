@@ -155,7 +155,7 @@ export function TableOfContents({ items }: TableOfContentsProps) {
         ref={triggerRef}
         type="button"
         onClick={() => setMobileOpen(true)}
-        className="lg:hidden fixed bottom-[76px] right-4 z-[55] flex items-center gap-2 px-3.5 py-2 rounded-full shadow-lg text-[13px] font-medium"
+        className="lg:hidden print:hidden fixed bottom-[76px] right-4 z-[55] flex items-center gap-2 px-3.5 py-2 rounded-full shadow-lg text-[13px] font-medium"
         style={{
           backgroundColor: "var(--editorial-accent)",
           color: "#FFFFFF",

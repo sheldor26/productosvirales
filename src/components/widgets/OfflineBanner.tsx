@@ -35,7 +35,7 @@ export function OfflineBanner() {
     <div
       role="status"
       aria-live="polite"
-      className="fixed top-0 inset-x-0 z-[60] flex items-center justify-center gap-2 py-2 text-xs font-medium text-white"
+      className="fixed top-0 inset-x-0 z-[60] print:hidden flex items-center justify-center gap-2 py-2 text-xs font-medium text-white"
       style={{ backgroundColor: isOnline ? "var(--color-trending-up)" : "#d97706" }}
     >
       {isOnline ? (

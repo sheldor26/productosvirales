@@ -58,7 +58,7 @@ export function StickyMobileCta({ product, hasAlternatives = false }: StickyMobi
 
   return (
     <div
-      className={`fixed inset-x-0 bottom-0 z-40 md:hidden transition-transform duration-300 ${
+      className={`fixed inset-x-0 bottom-0 z-40 md:hidden print:hidden transition-transform duration-300 ${
         visible ? "translate-y-0" : "translate-y-full"
       }`}
       style={{ paddingBottom: "env(safe-area-inset-bottom)" }}

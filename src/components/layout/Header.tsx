@@ -98,7 +98,7 @@ export function Header() {
     <>
       <header
         className={cn(
-          "sticky top-0 z-50 transition-all duration-200 border-b",
+          "sticky top-0 z-50 transition-all duration-200 border-b print:hidden",
           hidden && "-translate-y-full",
           scrolled
             ? "bg-[var(--bg-primary)]/80 backdrop-blur-xl border-[var(--border)]"

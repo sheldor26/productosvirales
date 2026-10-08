@@ -347,7 +347,7 @@ export function SortableProductGrid({ products, title, subtitle, priority = true
       )}
 
       <div
-        className={`fixed inset-x-0 bottom-4 z-40 flex justify-center px-4 transition-all duration-200 ${
+        className={`fixed inset-x-0 bottom-4 z-40 print:hidden flex justify-center px-4 transition-all duration-200 ${
           showJumpToCompare ? "translate-y-0 opacity-100" : "translate-y-4 opacity-0 pointer-events-none"
         }`}
         aria-hidden={!showJumpToCompare}

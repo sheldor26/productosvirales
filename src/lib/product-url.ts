@@ -7,6 +7,8 @@
  * tolerates them and the page redirects to the canonical form).
  */
 
+import { mostRecentPriceCheck } from "./price-freshness";
+
 const SLUG_MAX_LENGTH = 80;
 
 interface ProductLike {
@@ -57,14 +59,19 @@ export function parseProductSlug(slug: string): { id: string | null } {
 /**
  * `priceValidUntil` for JSON-LD Offers. Google is degrading Product rich
  * result eligibility for offers without this field. We default to 30 days
- * past the last price check (or today, if the product has no checked-at
- * date yet). Returns `YYYY-MM-DD` to match Schema.org Date format.
+ * past the most recent price-check signal (or today, if the product has
+ * none yet). Returns `YYYY-MM-DD` to match Schema.org Date format, or
+ * `undefined` if that date already passed — declarar una oferta vencida
+ * es peor que omitir el campo (Google la marca como oferta caducada).
  */
-export function getPriceValidUntil(product: { priceLastChecked?: string }): string {
-  const base = product.priceLastChecked
-    ? new Date(product.priceLastChecked)
-    : new Date();
+export function getPriceValidUntil(product: {
+  priceUpdated?: string;
+  priceLastChecked?: string;
+  priceVerifiedAt?: string;
+}): string | undefined {
+  const base = mostRecentPriceCheck(product) ?? new Date();
   const expires = new Date(base);
   expires.setDate(expires.getDate() + 30);
+  if (expires.getTime() < Date.now()) return undefined;
   return expires.toISOString().slice(0, 10);
 }

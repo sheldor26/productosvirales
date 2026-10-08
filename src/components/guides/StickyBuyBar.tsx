@@ -71,7 +71,7 @@ export function StickyBuyBar({ product }: StickyBuyBarProps) {
 
   return (
     <div
-      className="lg:hidden fixed left-0 right-0 bottom-0 z-50 flex items-center gap-3 px-3.5 py-2.5 bg-[var(--bg-primary)] transition-transform duration-200"
+      className="lg:hidden print:hidden fixed left-0 right-0 bottom-0 z-50 flex items-center gap-3 px-3.5 py-2.5 bg-[var(--bg-primary)] transition-transform duration-200"
       style={{
         borderTop: "1px solid var(--border)",
         boxShadow: "0 -3px 14px rgba(0,0,0,.10)",

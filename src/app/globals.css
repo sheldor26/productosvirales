@@ -365,3 +365,14 @@ h1, h2, h3, h4, h5, h6 {
   outline-offset: 2px;
   border-radius: 4px;
 }
+
+/* Impresión/guardar como PDF: texto negro sobre blanco (ahorra tinta y
+   garantiza contraste sin importar el tema claro/oscuro activo). Los
+   elementos fixed/sticky (header, CTAs flotantes, banner de newsletter) se
+   ocultan con print:hidden en cada componente en vez de acá. */
+@media print {
+  body {
+    background: #fff;
+    color: #000;
+  }
+}

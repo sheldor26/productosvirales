@@ -110,7 +110,7 @@ export function NewsletterBanner() {
 
   return (
     <div
-      className="newsletter-banner fixed z-40 left-3 right-3 bottom-[84px] sm:left-auto sm:right-5 sm:bottom-5 sm:w-[380px]"
+      className="newsletter-banner fixed z-40 left-3 right-3 bottom-[84px] sm:left-auto sm:right-5 sm:bottom-5 sm:w-[380px] print:hidden"
     >
       <div
         role="dialog"
