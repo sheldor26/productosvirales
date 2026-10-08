@@ -103091,6 +103091,249 @@ No es para vos si solo te interesan las piernas: a ese precio, te conviene más 
       { question: "¿Cuánta potencia tiene?", answer: "20W, según su ficha técnica." },
     ],
   },
+
+  // ─────────────────────────────────────────────────────────
+  // Sourcing 2026-10-08: hub de afiliados de ML, 3 fichas para la
+  // guía pilar luz-led-bajo-alacena (silo hogar). Keyword "luz led
+  // bajo alacena" validada con Ubersuggest: 720-1.000/mes AR, SERP
+  // limpio (ferreterías chicas DA9-18, categoría de MercadoLibre,
+  // sin comparador editorial dominante). Imágenes verificadas 2X-F
+  // con curl GET (no HEAD).
+  // ─────────────────────────────────────────────────────────
+  {
+    id: "MLAU4075852766",
+    title: "Barra Luz Led 50cm Recargable Sensor Mov Bajo Alacena Cocina",
+    canonicalName: "Helitec Barra LED 50cm",
+    brand: "Helitec",
+    price: 9208,
+    originalPrice: 10963,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_870837-MLA111869918576_062026-F.webp",
+    category: "Hogar",
+    categorySlug: "hogar",
+    permalink: "https://www.mercadolibre.com.ar/barra-luz-led-50cm-recargable-sensor-mov-bajo-alacena-cocina/up/MLAU4075852766",
+    affiliateUrl: "https://meli.la/1si83qg",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.3,
+    reviewCount: 101,
+    reviewsSampledAt: "2026-10-08",
+    soldQuantity: 10000,
+    visibility: "normal",
+    priceUpdated: "2026-10-08",
+    priceLastChecked: "2026-10-08",
+    priceStatus: "fresh",
+    seoTitle: "Barra led bajo alacena Helitec 50cm: precio en Argentina y cuánto dura la batería",
+    metaDescription: "Barra led recargable bajo alacena Helitec 50cm a {{precio:MLAU4075852766}} con {{reviews:MLAU4075852766}} calificaciones. Sensor de movimiento y 3 modos, pero la batería es la queja más repetida.",
+    pros: [
+      "1° más vendida en Lámparas de Pared de MercadoLibre Argentina, con {{reviews:MLAU4075852766}} calificaciones y {{rating:MLAU4075852766}} estrellas",
+      "3 modos de uso: ON fijo (como linterna), AUTO1 (sensor solo de noche) y AUTO2 (sensor de día y de noche, cancela la fotocélula)",
+      "Base magnética: se puede mover y recolocar en cualquier superficie metálica, no solo bajo la alacena",
+      "La más barata de esta comparativa, con +10 mil vendidas",
+    ],
+    cons: [
+      "La queja más repetida en las reseñas reales es la batería: dura poco y hay que recargarla seguido (\"hay que recargar diariamente, no dura la batería\", dice un comprador con 2 estrellas)",
+      "No tiene control remoto ni ajuste de temperatura de color, a diferencia de la Carrello de esta comparativa",
+      "Solo 50cm de largo: para espacios más grandes, la Electroland de 80cm de esta comparativa cubre más superficie",
+      "Garantía del vendedor de 3 meses, más corta que la de otros electrodomésticos del hogar",
+    ],
+    verdict: "Con {{reviews:MLAU4075852766}} calificaciones y {{rating:MLAU4075852766}} estrellas, es la más vendida y la más barata de esta comparativa. El sensor de movimiento con 3 modos cumple bien, pero la batería es la queja más repetida: no esperes que dure semanas sin cargarla.",
+    specs: [
+      { label: "Marca", value: "Helitec" },
+      { label: "Voltaje", value: "5V USB" },
+      { label: "Largo", value: "50cm" },
+      { label: "Modos", value: "ON / AUTO1 (solo de noche) / AUTO2 (día y noche)" },
+      { label: "Fijación", value: "Magnética" },
+      { label: "Color de luz", value: "Cálida" },
+      { label: "Garantía del vendedor", value: "3 meses" },
+    ],
+    relatedProducts: ["MLA77333264", "MLA67402486"],
+    articleBody: `## Qué es la barra led Helitec 50cm
+
+Es una barra de luz LED recargable con sensor de movimiento, {{reviews:MLAU4075852766}} calificaciones y {{rating:MLAU4075852766}} estrellas en MercadoLibre Argentina, vendida a {{precio:MLAU4075852766}}. Es la 1° más vendida de la categoría Lámparas de Pared de MercadoLibre Argentina.
+
+## Cómo funciona
+
+Tiene 3 funciones de encendido: ON (queda prendida fija, como una linterna), AUTO1 (se enciende con el sensor de movimiento, pero solo de noche) y AUTO2 (funciona con el sensor de día o de noche, cancelando la fotocélula). Cuando detecta movimiento, queda encendida unos 15 segundos. La base es magnética, así que se puede recolocar en cualquier superficie metálica, no solo bajo la alacena.
+
+## Lo que dicen los compradores
+
+Una reseña real con fotos resume bien el uso típico: **"Diseño: perfecto. Materiales: perfecto. Es justo lo que buscaba. Se puede mover a todos lados que tenga metal, lo uso bajo alacena para lavar de noche o para el pasillo al levantarme de noche sin prender otra luz ni ir a oscuras"** (4 estrellas, 2 votos útiles).
+
+## El dato honesto: la batería no dura mucho
+
+La queja más repetida en las reseñas reales, incluso entre quienes la califican con 5 estrellas, es la batería. Una reseña de 5 estrellas con fotos dice: **"Está buena pero dura medio poco la batería"** (4 votos útiles). Y una reseña de 2 estrellas lo confirma: **"Es práctico, sin embargo hay que recargar diariamente, no dura la batería"**. Si la vas a usar varias horas seguidas, tené en cuenta que vas a necesitar cargarla seguido.
+
+## Para quién es, y para quién no
+
+Es para vos si buscás la opción más barata y más vendida, con sensor de movimiento y base magnética versátil.
+
+No es para vos si necesitás que dure mucho sin cargar, o si buscás control remoto y ajuste de temperatura de color (mirá la Carrello más abajo).`,
+    faq: [
+      { question: "¿Cuánto dura la batería?", answer: "Es la queja más repetida en las reseñas reales: varios compradores, incluso con 5 estrellas, avisan que hay que recargarla seguido si se usa varias horas por día." },
+      { question: "¿Tiene sensor de movimiento?", answer: "Sí, con 3 modos: ON fijo, AUTO1 (solo de noche) y AUTO2 (día y noche)." },
+      { question: "¿Se puede usar en otro lugar además de la alacena?", answer: "Sí, la base es magnética y se puede recolocar en cualquier superficie metálica: pasillos, placares, entre otros usos reales que mencionan los compradores." },
+      { question: "¿Tiene control remoto?", answer: "No. Para eso, la Carrello de esta comparativa suma control remoto y panel táctil." },
+      { question: "¿Cuánto mide?", answer: "50cm de largo, según su ficha técnica." },
+      { question: "¿Qué garantía tiene?", answer: "3 meses de garantía del vendedor." },
+    ],
+  },
+  {
+    id: "MLA77333264",
+    title: "Lámpara LED XL Carrello Bajo alacena 45cm Recargable ajustable con control táctil Modo luz calida y fria (Mod 906)",
+    canonicalName: "Carrello Mod 906",
+    brand: "Carrello",
+    mpn: "Mod 906",
+    price: 23698,
+    originalPrice: 25998,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_715040-MLA116500252023_082026-F.webp",
+    category: "Hogar",
+    categorySlug: "hogar",
+    permalink: "https://www.mercadolibre.com.ar/lampara-led-xl-carrello-bajo-alacena-45cm-recargable-ajustable-con-control-tactil-modo-luz-calida-y-fria-mod-906/p/MLA77333264",
+    affiliateUrl: "https://meli.la/2Gw18HX",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.9,
+    reviewCount: 10,
+    reviewsSampledAt: "2026-10-08",
+    soldQuantity: 100,
+    visibility: "normal",
+    priceUpdated: "2026-10-08",
+    priceLastChecked: "2026-10-08",
+    priceStatus: "fresh",
+    seoTitle: "Lámpara LED Carrello bajo alacena: control táctil y luz cálida/fría, ¿vale el doble que la básica?",
+    metaDescription: "Lámpara LED Carrello Mod 906 a {{precio:MLA77333264}} con {{reviews:MLA77333264}} calificaciones (pocas, lo decimos de frente). Control remoto, táctil y mezcla de luz cálida y fría: lo que suma frente a una barra básica.",
+    pros: [
+      "Control remoto y táctil, con temperatura de color ajustable (cálida, fría o una mezcla de ambas) — ninguna otra de esta comparativa lo tiene",
+      "Se puede programar para que se apague sola, según confirma una compradora real",
+      "{{rating:MLA77333264}} estrellas, la mejor calificación de esta comparativa",
+      "45cm de largo, pensada para instalación fija, no solo magnética",
+    ],
+    cons: [
+      "Pocas opiniones todavía, lo decimos de frente: solo {{reviews:MLA77333264}} calificaciones, bastante menos que la Helitec o la Electroland de esta comparativa",
+      "Comparte la misma queja que la Helitec: según una reseña real, \"si queda prendida por un tiempo se gasta rápido la batería\"",
+      "Es, por lejos, la más cara de esta comparativa: más del doble que la Helitec básica",
+      "No tiene sensor de movimiento automático como las otras dos: se controla con el remoto o el panel táctil",
+    ],
+    verdict: "Con {{rating:MLA77333264}} estrellas (sobre pocas calificaciones todavía, {{reviews:MLA77333264}}), es la que más funciones suma: control remoto, panel táctil y mezcla de temperatura de color. Pero cuesta más del doble que la básica, y comparte la misma queja de batería que el resto de esta comparativa.",
+    specs: [
+      { label: "Marca", value: "Carrello" },
+      { label: "Modelo", value: "Mod 906" },
+      { label: "Voltaje", value: "5V" },
+      { label: "Largo", value: "45cm" },
+      { label: "Color de luz", value: "CCT ajustable (cálida a fría, 6000K)" },
+      { label: "Control", value: "Remoto y táctil" },
+      { label: "Apagado programable", value: "Sí" },
+    ],
+    relatedProducts: ["MLAU4075852766", "MLA67402486"],
+    articleBody: `## Qué es la Carrello Mod 906
+
+Es una lámpara LED de 45cm con control remoto y táctil, {{rating:MLA77333264}} estrellas sobre {{reviews:MLA77333264}} calificaciones en MercadoLibre Argentina, vendida a {{precio:MLA77333264}}.
+
+## Lo que suma frente a una barra básica
+
+A diferencia de la Helitec o la Electroland de esta comparativa, la Carrello no depende de un sensor de movimiento: se controla con un remoto o con el panel táctil del propio artefacto, y permite ajustar la temperatura de color entre cálida, fría o una mezcla de ambas. También se puede programar para que se apague sola.
+
+## Lo que dicen los compradores
+
+Una reseña real de 5 estrellas describe exactamente eso: **"Es increíble! se puede regular la intensidad de la luz, cambiar ya sea a fría, cálida o una mezcla de ambas y también se puede programar para que se apague sola. Estoy fascinada!"**. Otra reseña suma: **"Materiales: excelente la calidad. Iluminación: intensidad y calidez. Buena calidad. Todo bien"**.
+
+## El dato honesto: pocas opiniones y la misma queja de batería
+
+Con solo {{reviews:MLA77333264}} calificaciones, hay que decirlo de frente: es poco respaldo todavía comparado con las otras dos de esta comparativa. Y pese a tener más funciones, comparte la misma limitación: una reseña real avisa **"Es muy buena calidad y da buena luz. Lo único que tiene es que si queda prendida por un tiempo se gasta rápido la batería"**.
+
+## Para quién es, y para quién no
+
+Es para vos si querés control remoto, panel táctil y ajuste de temperatura de color, y no te importa pagar más del doble que la opción básica.
+
+No es para vos si preferís un sensor de movimiento automático (mirá la Helitec o la Electroland), o si el respaldo de muchas reseñas es un factor importante para vos.`,
+    faq: [
+      { question: "¿Tiene sensor de movimiento?", answer: "No. Se controla con el remoto incluido o con el panel táctil del propio artefacto, a diferencia de la Helitec y la Electroland de esta comparativa." },
+      { question: "¿Se puede ajustar la temperatura de color?", answer: "Sí, entre cálida, fría o una mezcla de ambas (CCT ajustable hasta 6000K), según confirman las reseñas reales y la ficha técnica." },
+      { question: "¿Cuántas opiniones tiene?", answer: "Pocas todavía: solo {{reviews:MLA77333264}} calificaciones al momento de esta comparación, aunque todas con muy buen puntaje." },
+      { question: "¿Dura mucho la batería?", answer: "Según una reseña real, no: si queda prendida por un tiempo se gasta rápido, la misma limitación que reportan los compradores de la Helitec." },
+      { question: "¿Se puede programar el apagado?", answer: "Sí, según confirma una compradora real." },
+      { question: "¿Cuánto mide?", answer: "45cm de largo, según su ficha técnica." },
+    ],
+  },
+  {
+    id: "MLA67402486",
+    title: "Lámpara Led Con Sensor Luz Recargable 80 Cm 3 Modos Blanco",
+    canonicalName: "Electroland 80cm",
+    brand: "Electroland",
+    price: 17999,
+    originalPrice: 29999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_677960-MLA109762426589_032026-F.webp",
+    category: "Hogar",
+    categorySlug: "hogar",
+    permalink: "https://www.mercadolibre.com.ar/lampara-led-con-sensor-luz-recargable-80-cm-3-modos-blanco/p/MLA67402486",
+    affiliateUrl: "https://meli.la/2HLeiiz",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.2,
+    reviewCount: 18,
+    reviewsSampledAt: "2026-10-08",
+    soldQuantity: 100,
+    visibility: "normal",
+    priceUpdated: "2026-10-08",
+    priceLastChecked: "2026-10-08",
+    priceStatus: "fresh",
+    seoTitle: "Lámpara LED Electroland 80cm: la más larga para bajo alacena, ¿se despega de la pared?",
+    metaDescription: "Lámpara LED Electroland 80cm a {{precio:MLA67402486}} con {{reviews:MLA67402486}} calificaciones. Sensor PIR de 120° y 5 metros, pero una reseña real avisa: se puede despegar de la pared.",
+    pros: [
+      "La más larga de esta comparativa: 80cm, pensada para alacenas grandes o escritorios, según su ficha técnica",
+      "Sensor infrarrojo PIR que detecta movimiento en un ángulo de 120 grados y hasta 5 metros de distancia",
+      "Apagado automático a los 20 segundos de inactividad, para cuidar la batería",
+      "Se recarga por USB tipo C, a diferencia de otras de esta comparativa",
+    ],
+    cons: [
+      "Una reseña real de 1 estrella advierte: \"se despega de la pared\". La fijación adhesiva puede no sostener bien el peso extra de los 80cm",
+      "Stock ajustado al momento de revisar esta comparativa: confirmá disponibilidad antes de comprar",
+      "4.2 estrellas es la calificación más baja de esta comparativa, sobre solo {{reviews:MLA67402486}} calificaciones",
+      "No tiene ajuste de temperatura de color, a diferencia de la Carrello de esta comparativa",
+    ],
+    verdict: "Con {{reviews:MLA67402486}} calificaciones y {{rating:MLA67402486}} estrellas, es la más larga de esta comparativa (80cm) y la única con especificaciones concretas de sensor PIR (120°, 5 metros). Pero la fijación adhesiva generó al menos una queja real de que se despega, así que reforzá el montaje si tu alacena es pesada.",
+    specs: [
+      { label: "Marca", value: "Electroland" },
+      { label: "Largo", value: "80cm" },
+      { label: "Sensor", value: "Infrarrojo PIR, 120°, hasta 5 metros" },
+      { label: "Apagado automático", value: "20 segundos de inactividad" },
+      { label: "Carga", value: "USB Tipo C" },
+      { label: "Color", value: "Blanco" },
+    ],
+    relatedProducts: ["MLAU4075852766", "MLA77333264"],
+    articleBody: `## Qué es la Electroland 80cm
+
+Es la lámpara LED más larga de esta comparativa, con {{reviews:MLA67402486}} calificaciones y {{rating:MLA67402486}} estrellas en MercadoLibre Argentina, vendida a {{precio:MLA67402486}}.
+
+## Por qué es distinta: 80cm y sensor PIR con specs concretas
+
+A diferencia de la Helitec (50cm) y la Carrello (45cm) de esta comparativa, esta mide 80cm, pensada para alacenas grandes o incluso escritorios. Su ficha técnica detalla el sensor infrarrojo PIR: detecta movimiento en un ángulo de 120 grados y hasta 5 metros de distancia, y se apaga automáticamente a los 20 segundos de inactividad para cuidar la batería de litio. Se recarga por USB tipo C.
+
+## Lo que dicen los compradores
+
+Las reseñas reales son breves pero consistentes: **"Muy buen producto llego en el dia"** (5 estrellas). Otra reseña con foto suma: **"Iluminación: intensidad media. Diseño: diseño bueno"**.
+
+## El dato honesto: la fijación puede fallar
+
+Una reseña real de 1 estrella avisa algo concreto: **"Se despega de la pared"**. Con 80cm de largo (más que el doble que la Carrello), el peso extra puede superar lo que aguanta la cinta adhesiva incluida, sobre todo en superficies lisas o si no se limpia bien antes de pegarla.
+
+## Para quién es, y para quién no
+
+Es para vos si necesitás cubrir una alacena grande o un escritorio largo, y valorás el sensor PIR con especificaciones concretas de ángulo y distancia.
+
+No es para vos si tu superficie de montaje no es ideal para cinta adhesiva (mirá reforzar con tornillos), o si buscás ajuste de temperatura de color (mirá la Carrello más arriba).`,
+    faq: [
+      { question: "¿Cuánto mide?", answer: "80cm de largo, la más larga de esta comparativa, pensada para alacenas grandes o escritorios." },
+      { question: "¿Qué tan bueno es el sensor de movimiento?", answer: "Es un sensor infrarrojo PIR que detecta movimiento en un ángulo de 120 grados y hasta 5 metros de distancia, según su ficha técnica." },
+      { question: "¿Se puede despegar de la pared?", answer: "Es un riesgo real: una reseña de 1 estrella lo reporta. Con 80cm de largo, conviene limpiar bien la superficie antes de pegarla o reforzar el montaje." },
+      { question: "¿Cómo se carga?", answer: "Por USB tipo C, a diferencia de otras de esta comparativa." },
+      { question: "¿Tiene ajuste de temperatura de color?", answer: "No. Para eso, la Carrello de esta comparativa permite mezclar luz cálida y fría." },
+      { question: "¿Cada cuánto se apaga sola?", answer: "A los 20 segundos de inactividad, para cuidar el consumo de la batería." },
+    ],
+  },
 ];
 
 export const categoryPastels: Record<string, string> = {

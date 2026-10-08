@@ -27772,6 +27772,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { label: "Mesa ratona: cuál comprar en Argentina", href: "/guias/hogar-jardin/mesa-ratona" },
       { label: "Tabla de planchar: cuál comprar en Argentina", href: "/guias/hogar-jardin/tabla-planchar" },
       { label: "Secador de piso: cuál comprar en Argentina", href: "/guias/hogar-jardin/secador-de-piso" },
+      { label: "Luz LED bajo alacena: cuál comprar en Argentina", href: "/guias/hogar-jardin/luz-led-bajo-alacena" },
     ],
     internalLinksTitle: "Más de hogar y jardín",
   },
@@ -29456,6 +29457,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { label: `Zapatero: cuál comprar en Argentina`, href: `/guias/hogar-jardin/zapatero` },
       { label: `Conservadora: cuál comprar en Argentina`, href: `/guias/hogar-jardin/conservadora` },
       { label: `Tacho de basura: cuál comprar en Argentina`, href: `/guias/hogar-jardin/tacho-de-basura` },
+      { label: `Luz LED bajo alacena: cuál comprar en Argentina`, href: `/guias/hogar-jardin/luz-led-bajo-alacena` },
       { label: `Ver toda la categoría Hogar y Jardín`, href: `/categoria/hogar-jardin` },
     ],
     internalLinksTitle: "Más de hogar y jardín",
@@ -29604,6 +29606,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { label: `Zapatero: cuál comprar en Argentina`, href: `/guias/hogar-jardin/zapatero` },
       { label: `Conservadora: cuál comprar en Argentina`, href: `/guias/hogar-jardin/conservadora` },
       { label: `Tacho de basura: cuál comprar en Argentina`, href: `/guias/hogar-jardin/tacho-de-basura` },
+      { label: `Luz LED bajo alacena: cuál comprar en Argentina`, href: `/guias/hogar-jardin/luz-led-bajo-alacena` },
       { label: `Ver toda la categoría Hogar y Jardín`, href: `/categoria/hogar-jardin` },
     ],
     internalLinksTitle: "Más de hogar y jardín",
@@ -34917,6 +34920,115 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     ],
     internalLinksTitle: "Más para tu salud en casa",
   },
+
+  // ─────────────────────────────────────────────────────────
+  // PILAR luz-led-bajo-alacena — silo hogar-jardin
+  // Origen: hub de afiliados ML 2026-10-08 ("Más vendidos"),
+  // continuando la ronda de sourcing del mismo día. Keyword "luz led
+  // bajo alacena" validada con Ubersuggest: 720-1.000/mes AR, SERP
+  // limpio (Sodimac categoría, MercadoLibre, ferreterías chicas
+  // DA9-18 como luzdesing.com.ar y kaiserled.com.ar, sin comparador
+  // editorial dominante). 3 fichas nuevas, sourcing en vivo el mismo
+  // día. Ninguna de las 3 ya existía en el catálogo.
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "luz-led-bajo-alacena",
+    category: "luz-led-bajo-alacena",
+    silo: "hogar-jardin",
+    pillar: true,
+    title: `Luz LED bajo alacena: cuál comprar en Argentina [2026]`,
+    seoTitle: `Luz LED Bajo Alacena: Cuál Comprar en Argentina | 2026`,
+    metaDescription: `Comparamos 3 luces LED recargables para bajo alacena: la más vendida, la de control remoto con luz cálida/fría y la más larga. Con la queja real que más se repite: la batería.`,
+    ogTitle: `Luz LED bajo alacena: cuál comprar en Argentina`,
+    ogDescription: `De la barra magnética más vendida al modelo de 80cm con sensor PIR: 3 luces LED bajo alacena comparadas por respaldo real de reseñas, con la batería como el punto honesto que más se repite.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_2X_870837-MLA111869918576_062026-F.webp`,
+    h1: `Luz LED bajo alacena: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene la **[Helitec Barra LED 50cm](/producto/barra-luz-led-50cm-recargable-sensor-mov-bajo-alacena-cocina-mlau4075852766)** (alrededor de {{precio:MLAU4075852766:k}}): la más vendida y la más barata de esta comparativa, con sensor de movimiento y base magnética. Si querés control remoto y poder elegir entre luz cálida y fría, la **[Carrello Mod 906](/producto/lampara-led-xl-carrello-bajo-alacena-45cm-recargable-ajustable-con-control-tacti-mla77333264)**, aunque cuesta más del doble. Y si tenés una alacena grande o un escritorio largo, la **[Electroland 80cm](/producto/lampara-led-con-sensor-luz-recargable-80-cm-3-modos-blanco-mla67402486)**, la más larga de esta comparativa.`,
+    publishedDate: "2026-10-08",
+    updatedDate: "2026-10-08",
+    hasDisclosure: true,
+    readingTime: 7,
+    standfirst: `Una luz LED bajo alacena va de {{precio:MLAU4075852766:k}} (la más vendida) a {{precio:MLA77333264:k}} (con control remoto y luz cálida/fría). Te mostramos cuál conviene, comparando las más vendidas de Argentina con precios reales de MercadoLibre — incluida la queja real que más se repite entre compradores: la batería.`,
+    quickPicks: [
+      { productMlaId: "MLAU4075852766", label: "La más vendida", labelColor: "green", tagline: "Helitec 50cm: la más barata, con {{reviews:MLAU4075852766}} calificaciones" },
+      { productMlaId: "MLA77333264", label: "Control remoto y color", labelColor: "blue", tagline: "Carrello Mod 906: luz cálida/fría ajustable, {{rating:MLA77333264}} estrellas" },
+      { productMlaId: "MLA67402486", label: "La más larga", labelColor: "purple", tagline: "Electroland 80cm: sensor PIR de 120° y 5 metros" },
+    ],
+    intro: [
+      `Una luz LED bajo alacena resuelve algo simple: iluminar la mesada sin tener que prender la luz general de la cocina. Casi todas prometen sensor de movimiento y batería recargable, pero según las reseñas reales de las más vendidas de Argentina, hay un punto que se repite en las tres: la batería no dura tanto como uno esperaría si queda encendida varias horas seguidas.`,
+      `En esta guía comparamos las luces LED bajo alacena más vendidas de Argentina por respaldo real de reseñas, funciones y precio, citando las quejas reales de batería y fijación tal como las describen los compradores.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_870837-MLA111869918576_062026-F.webp", alt: `Barra de luz LED Helitec bajo alacena, la más vendida de Argentina`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría conviene la **[Helitec Barra LED 50cm](/producto/barra-luz-led-50cm-recargable-sensor-mov-bajo-alacena-cocina-mlau4075852766)**: la más barata y la más vendida. Si querés control remoto y elegir entre luz cálida y fría, la **[Carrello Mod 906](/producto/lampara-led-xl-carrello-bajo-alacena-45cm-recargable-ajustable-con-control-tacti-mla77333264)**. Y si tenés una alacena grande, la **[Electroland 80cm](/producto/lampara-led-con-sensor-luz-recargable-80-cm-3-modos-blanco-mla67402486)**, la más larga de esta comparativa.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos las luces LED bajo alacena con más ventas y opiniones reales en MercadoLibre Argentina. Las ordenamos por lo que define la compra: **funciones** (sensor de movimiento, control remoto, ajuste de color), **tamaño** y precio real. Citamos reseñas de 5 estrellas y de 1-2 estrellas por igual: la batería y la fijación son los puntos que más se repiten en las quejas reales, y nos pareció importante no esconderlos. Los precios que ves en las fichas y tablas se revisan contra MercadoLibre varias veces por semana.` },
+
+      { type: "h2", title: `Qué mirar antes de comprar una luz LED bajo alacena`, id: "que-mirar" },
+      { type: "p", content: `Lo primero: la batería. Las tres de esta comparativa son recargables, pero según las reseñas reales, ninguna aguanta encendida muchas horas seguidas sin necesitar carga. Si la vas a usar varias horas por día, elegí el modo con sensor de movimiento (se prende solo cuando hace falta) en vez de dejarla fija.` },
+      { type: "p", content: `Segundo, la fijación: la mayoría se pega con cinta adhesiva o se sostiene con base magnética. Cuanto más larga la barra, más peso tiene que sostener el adhesivo — limpiá bien la superficie antes de pegarla, sobre todo en los modelos más largos.` },
+
+      { type: "h2", title: `Las mejores luces LED bajo alacena 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Helitec Barra LED 50cm — la más vendida` },
+      { type: "product-card", productMlaId: "MLAU4075852766", label: "La más vendida", labelColor: "green", ranking: 1, description: `1° en Lámparas de Pared de MercadoLibre, con {{reviews:MLAU4075852766}} calificaciones y {{rating:MLAU4075852766}} estrellas. La más barata de esta comparativa.` },
+      { type: "p", content: `Si el precio pesa en la decisión, es esta. La Helitec es la más barata de las tres, a alrededor de {{precio:MLAU4075852766:k}}, y también la más vendida (con {{reviews:MLAU4075852766}} calificaciones). Tiene 3 modos de uso y base magnética que se puede recolocar en cualquier superficie metálica.` },
+      { type: "p", content: `Lo honesto: la batería es la queja más repetida, incluso entre reseñas de 5 estrellas. Si la vas a usar varias horas seguidas, vas a necesitar cargarla seguido.` },
+      { type: "pull-quote", content: `"Diseño: perfecto. Materiales: perfecto. Es justo lo que buscaba. Se puede mover a todos lados que tenga metal, lo uso bajo alacena para lavar de noche o para el pasillo al levantarme de noche sin prender otra luz ni ir a oscuras."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `2. Carrello Mod 906 — control remoto y color` },
+      { type: "product-card", productMlaId: "MLA77333264", label: "Control remoto y color", labelColor: "blue", ranking: 2, description: `Control remoto y táctil, con luz cálida, fría o una mezcla de ambas. {{rating:MLA77333264}} estrellas, la mejor de esta comparativa.` },
+      { type: "p", content: `Si querés más control que un simple sensor de movimiento, la Carrello suma remoto, panel táctil y ajuste de temperatura de color, a alrededor de {{precio:MLA77333264:k}}. Es más del doble que la Helitec básica.` },
+      { type: "p", content: `Lo honesto: tiene pocas opiniones todavía ({{reviews:MLA77333264}} calificaciones) y comparte la misma queja de batería que el resto de esta comparativa.` },
+      { type: "pull-quote", content: `"Es increíble! se puede regular la intensidad de la luz, cambiar ya sea a fría, cálida o una mezcla de ambas y también se puede programar para que se apague sola. Estoy fascinada!"`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `3. Electroland 80cm — la más larga` },
+      { type: "product-card", productMlaId: "MLA67402486", label: "La más larga", labelColor: "purple", ranking: 3, description: `80cm, pensada para alacenas grandes o escritorios. Sensor PIR de 120° y 5 metros de distancia. {{reviews:MLA67402486}} calificaciones.` },
+      { type: "p", content: `Si tenés una alacena grande o un escritorio largo, la Electroland es la más larga de esta comparativa (80cm), a alrededor de {{precio:MLA67402486:k}}. Su sensor PIR detecta movimiento en 120 grados y hasta 5 metros.` },
+      { type: "p", content: `Lo honesto: una reseña real de 1 estrella avisa que se puede despegar de la pared. Con 80cm de largo, el peso extra exige una superficie bien limpia antes de pegarla, o reforzar el montaje.` },
+      { type: "pull-quote", content: `"Se despega de la pared."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h2", title: `Tabla comparativa: funciones y precio`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Largo`, `Control`, `Ideal para`], rows: [
+        [`[Helitec Barra LED 50cm](https://meli.la/1si83qg)`, `{{precio:MLAU4075852766}}`, `50cm`, `Sensor de movimiento`, `La más barata y más vendida`],
+        [`[Carrello Mod 906](https://meli.la/2Gw18HX)`, `{{precio:MLA77333264}}`, `45cm`, `Remoto y táctil`, `Luz cálida/fría ajustable`],
+        [`[Electroland 80cm](https://meli.la/2HLeiiz)`, `{{precio:MLA67402486}}`, `80cm`, `Sensor PIR`, `Alacenas grandes o escritorios`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu luz LED bajo alacena`, id: "como-elegir" },
+      { type: "h3", title: `1. Pensá en la batería antes de comprar` },
+      { type: "p", content: `Ninguna de esta comparativa aguanta muchas horas seguidas encendida sin necesitar carga, según las reseñas reales. Usar el modo con sensor de movimiento en vez de dejarla fija es la forma más simple de estirar la batería.` },
+      { type: "h3", title: `2. ¿Cuánto necesitás iluminar?` },
+      { type: "p", content: `Para una alacena estándar, 45-50cm alcanza ([Helitec](/producto/barra-luz-led-50cm-recargable-sensor-mov-bajo-alacena-cocina-mlau4075852766) o [Carrello](/producto/lampara-led-xl-carrello-bajo-alacena-45cm-recargable-ajustable-con-control-tacti-mla77333264)). Si tenés una alacena grande o un escritorio largo, la [Electroland](/producto/lampara-led-con-sensor-luz-recargable-80-cm-3-modos-blanco-mla67402486) de 80cm cubre más superficie.` },
+      { type: "h3", title: `3. ¿Te importa el control manual o preferís automático?` },
+      { type: "p", content: `Si preferís que se prenda y apague sola, elegí sensor de movimiento (Helitec o Electroland). Si preferís elegir vos cuándo y con qué color de luz, la Carrello con remoto y táctil es la única opción de esta comparativa.` },
+
+      { type: "h2", title: `Cuánto cuesta una luz LED bajo alacena en Argentina [octubre 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de {{precio:MLAU4075852766:k}}:** la más barata y la más vendida, la [Helitec Barra LED 50cm](https://meli.la/1si83qg).`,
+        `**Alrededor de {{precio:MLA67402486:k}}:** la más larga, con sensor PIR, la [Electroland 80cm](https://meli.la/2HLeiiz).`,
+        `**Alrededor de {{precio:MLA77333264:k}}:** con control remoto y luz cálida/fría ajustable, la [Carrello Mod 906](https://meli.la/2Gw18HX) — es, por lejos, la más cara de esta comparativa.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál luz LED bajo alacena comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la mayoría, la **[Helitec Barra LED 50cm](/producto/barra-luz-led-50cm-recargable-sensor-mov-bajo-alacena-cocina-mlau4075852766)**: la más barata y la más vendida. Si querés control remoto y elegir el color de luz, la **[Carrello Mod 906](/producto/lampara-led-xl-carrello-bajo-alacena-45cm-recargable-ajustable-con-control-tacti-mla77333264)**. Y si tenés una alacena grande, la **[Electroland 80cm](/producto/lampara-led-con-sensor-luz-recargable-80-cm-3-modos-blanco-mla67402486)**, la más larga de esta comparativa. El error a evitar: dejar cualquiera de las tres encendida fija muchas horas — usá el modo sensor para que la batería te rinda.` },
+    ],
+    faq: [
+      { question: `¿Cuál es la mejor luz LED bajo alacena en Argentina?`, answer: `Por ventas y respaldo de reseñas, la [Helitec Barra LED 50cm](https://meli.la/1si83qg): la más barata y la más vendida. Si querés control remoto y luz cálida/fría, la [Carrello Mod 906](https://meli.la/2Gw18HX).` },
+      { question: `¿Cuánto dura la batería?`, answer: `Es el punto que más se repite en las quejas reales: ninguna de esta comparativa aguanta muchas horas seguidas sin recargar. Usar el modo sensor de movimiento en vez de dejarla fija ayuda a que rinda más.` },
+      { question: `¿Se pegan con cinta o son magnéticas?`, answer: `La Helitec tiene base magnética (se puede mover a cualquier superficie con metal). La Carrello y la Electroland usan fijación adhesiva o atornillada; con la Electroland (80cm) hubo al menos una queja real de que se despegó.` },
+      { question: `¿Cuál tiene control remoto?`, answer: `Solo la [Carrello Mod 906](https://meli.la/2Gw18HX) de esta comparativa, que también suma panel táctil y ajuste de temperatura de color.` },
+      { question: `¿Cuál es la más larga?`, answer: `La [Electroland](https://meli.la/2HLeiiz), con 80cm. El resto de esta comparativa mide entre 45 y 50cm.` },
+      { question: `¿Sirven para otros lugares además de la cocina?`, answer: `Sí, según las reseñas reales: compradores las usan en pasillos, placares y otros rincones de la casa, no solo bajo la alacena.` },
+    ],
+    internalLinks: [
+      { label: "Lámpara de pie: cuál comprar en Argentina", href: "/guias/hogar-jardin/lampara-de-pie" },
+      { label: "Estantería flotante: cuál comprar en Argentina", href: "/guias/hogar-jardin/estanteria-flotante" },
+      { label: "Escurridor de platos: cuál comprar en Argentina", href: "/guias/hogar-jardin/escurridor-de-platos" },
+    ],
+    internalLinksTitle: "Más de hogar y jardín",
+  },
 ];
 
 /**
@@ -35367,6 +35479,11 @@ export const guideCategories: Record<string, { name: string; description: string
     name: "Guía de Botas de Presoterapia",
     description:
       "Comparadas por lo que hacen de verdad (según las reseñas, no el nombre de la publicación), funciones extra como calor, y precio real de MercadoLibre.",
+  },
+  "luz-led-bajo-alacena": {
+    name: "Guía de Luces LED Bajo Alacena",
+    description:
+      "Comparadas por autonomía real de batería (según las reseñas, no la ficha técnica), funciones y precio de MercadoLibre.",
   },
   seguridad: {
     name: "Guía de Cámaras de Seguridad",
