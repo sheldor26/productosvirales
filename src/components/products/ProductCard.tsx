@@ -219,7 +219,7 @@ export function ProductCard({
           aria-pressed={saved}
           aria-label={saved ? `Sacar ${title} de guardados` : `Guardar ${title}`}
           title={saved ? "Sacar de guardados" : "Guardar producto"}
-          className="absolute bottom-2 right-2 flex items-center justify-center w-10 h-10 rounded-full bg-white/90 backdrop-blur-sm shadow-sm hover:scale-110 motion-safe:active:scale-90 transition-transform cursor-pointer"
+          className="card-save-btn-blur absolute bottom-2 right-2 flex items-center justify-center w-10 h-10 rounded-full bg-white/90 backdrop-blur-sm shadow-sm hover:scale-110 motion-safe:active:scale-90 transition-transform cursor-pointer"
         >
           <Heart
             size={16}

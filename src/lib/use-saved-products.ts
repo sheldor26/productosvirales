@@ -4,6 +4,11 @@ import { useCallback, useEffect, useState } from "react";
 
 const STORAGE_KEY = "pv_saved_products";
 const CHANGE_EVENT = "pv-saved-products-change";
+/** Evento aparte del de sincronización: solo lo dispara un toggle individual
+ * (nunca `addMany`, que es una importación masiva de una lista compartida —
+ * no tiene sentido un toast por cada ítem) y lleva el detalle para que el
+ * toast sepa si mostrar "Guardado" o "Quitado de guardados". */
+export const SAVED_TOAST_EVENT = "pv-saved-toast";
 
 function readSaved(): string[] {
   if (typeof window === "undefined") return [];
@@ -57,6 +62,9 @@ export function useSavedProducts() {
     const next = wasSaved ? current.filter((x) => x !== id) : [...current, id];
     writeSaved(next);
     setIds(next);
+    window.dispatchEvent(
+      new CustomEvent(SAVED_TOAST_EVENT, { detail: { action: wasSaved ? "remove" : "add" } })
+    );
     window.gtag?.("event", "saved_product_toggle", {
       action: wasSaved ? "remove" : "add",
       item_id: id,

@@ -339,6 +339,24 @@ h1, h2, h3, h4, h5, h6 {
     backdrop-filter: none !important;
     -webkit-backdrop-filter: none !important;
   }
+  /* Mismo patrón para el resto de los `backdrop-blur-*` del sitio que
+     blurean algo con transparencia real detrás (no todos: la mayoría de las
+     variantes de Badge.tsx usan color sólido, ahí backdrop-blur ya es
+     inofensivo porque no hay nada que blurear). */
+  .header-scroll-blur {
+    background: var(--bg-primary) !important;
+    backdrop-filter: none !important;
+    -webkit-backdrop-filter: none !important;
+  }
+  .card-save-btn-blur {
+    background: var(--bg-primary) !important;
+    backdrop-filter: none !important;
+    -webkit-backdrop-filter: none !important;
+  }
+  .viral-badge-blur {
+    backdrop-filter: none !important;
+    -webkit-backdrop-filter: none !important;
+  }
 }
 
 /* Bounce sutil para el icono TrendingUp */
@@ -389,4 +407,16 @@ h1, h2, h3, h4, h5, h6 {
     outline: 2px solid ButtonText !important;
     outline-offset: 2px !important;
   }
+}
+
+/* Entrada del toast de "guardado" (SavedToast.tsx) */
+@keyframes saved-toast-in {
+  from { opacity: 0; transform: translateY(-6px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.saved-toast-in {
+  animation: saved-toast-in 0.2s ease-out;
+}
+@media (prefers-reduced-motion: reduce) {
+  .saved-toast-in { animation: none; }
 }

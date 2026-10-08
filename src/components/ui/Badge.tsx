@@ -17,13 +17,13 @@ export function Badge({ children, variant = "default", className, title }: Badge
         variant === "default" &&
           "bg-[var(--bg-secondary)] text-[var(--text-secondary)] px-2.5 py-1.5",
         variant === "viral" &&
-          "bg-[var(--viral-badge)] text-white px-2.5 py-1.5 backdrop-blur-sm",
+          "viral-badge-blur bg-[var(--viral-badge)] text-white px-2.5 py-1.5 backdrop-blur-sm",
         variant === "trending" &&
-          "bg-[var(--viral-badge)] text-white px-2.5 py-1.5 backdrop-blur-sm",
+          "viral-badge-blur bg-[var(--viral-badge)] text-white px-2.5 py-1.5 backdrop-blur-sm",
         variant === "discount" &&
           "bg-[var(--color-discount)] text-white px-2 py-1.5",
         variant === "hot-deal" &&
-          "bg-[var(--viral-badge)] text-white px-2.5 py-1.5 backdrop-blur-sm",
+          "viral-badge-blur bg-[var(--viral-badge)] text-white px-2.5 py-1.5 backdrop-blur-sm",
         variant === "bestseller" &&
           "bg-[var(--editorial-accent,#A67B3B)] text-white px-2.5 py-1.5 backdrop-blur-sm",
         variant === "summer-pick" &&
