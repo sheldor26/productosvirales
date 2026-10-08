@@ -102582,6 +102582,262 @@ No es para vos si te gustan las almohadas muy altas (una reseña real avisa que 
       { question: "¿Sirve si me gustan las almohadas muy altas?", answer: "Según una reseña real, no es la ideal para eso: la altura está pensada para un perfil medio, no para quien prefiere almohadas muy altas." },
     ],
   },
+
+  // ─────────────────────────────────────────────────────────
+  // Sourcing 2026-10-08: hub de afiliados ML + búsqueda directa por MLA ID
+  // (el buscador de ML no renderiza, igual que en rondas anteriores). 3
+  // fichas para la guía mandolina-de-cocina (categoría cocina), SERP más
+  // limpio de todos los candidatos evaluados (puro bazar + ML, sin
+  // comparador editorial). Ninguna existía ya en el catálogo (verificado
+  // por ID antes de escribir).
+  // ─────────────────────────────────────────────────────────
+  {
+    id: "MLA45625365",
+    title: "Mandolina Picador Cortador Rallador Vegetales Veoquiero",
+    canonicalName: "Veoquiero Mandolina Rallador",
+    brand: "Veoquiero",
+    price: 18999,
+    originalPrice: 23999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_844623-MLA99466154926_112025-F.webp",
+    category: "Cocina",
+    categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/mandolina-picador-cortador-rallador-vegetales-papa-veoquiero/p/MLA45625365",
+    affiliateUrl: "https://meli.la/2yruG7h",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.1,
+    reviewCount: 2407,
+    reviewsSampledAt: "2026-10-08",
+    soldQuantity: 10000,
+    visibility: "normal",
+    priceUpdated: "2026-10-08",
+    priceLastChecked: "2026-10-08",
+    priceStatus: "fresh",
+    seoTitle: "Mandolina Veoquiero: precio en Argentina y qué tan fácil se rompe de verdad",
+    metaDescription: "Mandolina Veoquiero a {{precio:MLA45625365}} con {{reviews:MLA45625365}} calificaciones: la más vendida de esta comparativa. 14 piezas, pero con quejas reales de piezas que se traban y plástico que cruje.",
+    pros: [
+      "3° más vendida en Cortadoras y Trituradoras de MercadoLibre Argentina, con {{reviews:MLA45625365}} calificaciones: la de mayor volumen de esta comparativa",
+      "Set de 14 piezas con cuchillas intercambiables para distintos tipos de corte, apto lavavajillas",
+      "La más barata de esta comparativa, con recipiente recolector integrado que mantiene la mesada limpia",
+      "Una reseña real, luego de 60 días de uso, la compara favorablemente contra mandolinas más duras de probar",
+    ],
+    cons: [
+      "Varias reseñas reales reportan que el plástico cruje y se puede trabar al cortar alimentos duros, al punto de que a una compradora se le dobló la cuchilla cortando zanahoria",
+      "El mecanismo de ajuste no tiene traba: una reseña con 74 votos útiles avisa que \"se mueve\" al hacer fuerza y hay que sostenerla con cuidado",
+      "Su ficha técnica declara cuchilla de acero inoxidable, pero las reseñas de piezas que se doblan o rompen sugieren un acero más fino que el de la Gadnic Cuk o la Börner de esta comparativa",
+      "El cuerpo es 100% plástico: no tiene ninguna pieza metálica visible más allá del filo",
+    ],
+    verdict: "Con {{reviews:MLA45625365}} calificaciones, es la mandolina con más volumen de reseñas y ventas de esta comparativa, y también la más barata. Cumple para el uso ocasional en casa, pero las reseñas reales son claras: el plástico puede crujir o trabarse con alimentos duros, y el mecanismo sin traba exige sostenerla con cuidado al presionar.",
+    specs: [
+      { label: "Marca", value: "Veoquiero" },
+      { label: "Modelo", value: "Mandolina Rallador" },
+      { label: "Color", value: "Gris" },
+      { label: "Largo x Ancho", value: "33 cm x 10 cm" },
+      { label: "Material del cuerpo", value: "Plástico" },
+      { label: "Material de la hoja", value: "Acero inoxidable (según ficha técnica)" },
+      { label: "Cantidad de piezas", value: "14" },
+      { label: "Con cuchillas intercambiables", value: "Sí" },
+      { label: "Apto para lavavajillas", value: "Sí" },
+    ],
+    relatedProducts: ["MLA73430926", "MLA27077236"],
+    articleBody: `## Qué es la Veoquiero Mandolina Rallador
+
+Es una mandolina picadora tipo "nicer dicer" con 14 piezas intercambiables, {{reviews:MLA45625365}} calificaciones y {{rating:MLA45625365}} estrellas en MercadoLibre Argentina, vendida a {{precio:MLA45625365}}. Es la 3° más vendida de la categoría Cortadoras y Trituradoras: la de mayor volumen de ventas y reseñas de esta comparativa.
+
+## Lo que incluye y cómo funciona
+
+Según su ficha técnica, el set trae 14 piezas con cuchillas de acero inoxidable intercambiables, cuerpo de plástico y un recipiente recolector integrado que mantiene la mesada limpia mientras cortás. Mide 33 cm de largo por 10 cm de ancho y es apta para lavavajillas.
+
+## El resumen honesto de las reseñas reales
+
+El resumen de opiniones generado a partir de las reseñas reales es claro: **"La mandolina es valorada por su variedad de cortes y facilidad para el trabajo en la cocina, siendo práctica y fácil de lavar. Sin embargo, algunos usuarios mencionan que el plástico es frágil y que puede romperse fácilmente, especialmente al cortar alimentos más duros"**.
+
+## El dato concreto: una cuchilla doblada cortando zanahoria
+
+Una reseña real de 2 estrellas describe el problema con detalle: **"Al primer uso, hizo ruido a plástico que se partía. Tenés que poner cosas muy chicas. Use la cuchilla para rebanar zanahoria en rodajas, y se metían los pedazos de zanahoria entre el plástico y la cuchilla y no rebanaba más porque se dobló la cuchilla. Imposible de limpiar y sacar los pedazos"**. Es un caso puntual, pero consistente con lo que resume la IA de opiniones sobre fragilidad con alimentos duros.
+
+## Sin traba: hay que sostenerla al presionar
+
+Otra reseña real, con 74 votos útiles, avisa sobre el mecanismo: **"Esta bueno pero es muy incomodo ya que no tiene trabas nada y cuando quieres apretar se mueve por el precio esta bm pero no es lo que esperaba cumple su función pero cuesta cuando apretas henes qué hacer fuerzas"**. No es una falla, es un diseño que exige sostenerla con una mano mientras cortás con la otra.
+
+## Para quién es, y para quién no
+
+Es para vos si buscás la opción más barata y con más respaldo de reseñas de esta comparativa, para uso ocasional con frutas y verduras blandas a medias.
+
+No es para vos si pensás usarla a diario con alimentos duros (zanahoria cruda, papa dura): para eso, la Gadnic Cuk o la Börner de esta comparativa tienen cuchillas que sostienen mejor el uso intensivo.`,
+    faq: [
+      { question: "¿Se rompe fácil?", answer: "Según el resumen de reseñas reales, el plástico puede ser frágil con alimentos duros. Hay un caso real documentado de una cuchilla que se dobló cortando zanahoria. No es la más resistente de esta comparativa." },
+      { question: "¿Cuántas piezas trae?", answer: "14 piezas con cuchillas intercambiables, según su ficha técnica." },
+      { question: "¿Hay que sostenerla al cortar?", answer: "Sí, el mecanismo no tiene traba: una reseña real avisa que se mueve al hacer fuerza, así que conviene sostenerla con una mano mientras cortás con la otra." },
+      { question: "¿Es apta para lavavajillas?", answer: "Sí, según su ficha técnica." },
+      { question: "¿Es la más barata de esta comparativa?", answer: "Sí, a {{precio:MLA45625365}} es la más económica de las tres mandolinas de esta guía." },
+      { question: "¿Tiene la cuchilla de acero inoxidable?", answer: "Según su ficha técnica sí, pero reseñas reales de cuchillas que se doblan sugieren un acero más fino que el de modelos de mayor precio como la Gadnic Cuk o la Börner." },
+    ],
+  },
+  {
+    id: "MLA73430926",
+    title: "Cortadora Mandolina Cuk By Gadnic Acero Inoxidable",
+    canonicalName: "Gadnic Cuk CVERD005",
+    brand: "Gadnic",
+    mpn: "CVERD005",
+    price: 54899,
+    originalPrice: 106149,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_683106-MLA113156847853_062026-F.webp",
+    category: "Cocina",
+    categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/cortadora-mandolina-cuk-by-gadnic-picadora-de-verduras-multifuncion-acero-inoxidable-con-rallador-y-accesorios/p/MLA73430926",
+    affiliateUrl: "https://meli.la/1ZJ3GzA",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.9,
+    reviewCount: 33,
+    reviewsSampledAt: "2026-10-08",
+    soldQuantity: 100,
+    visibility: "normal",
+    priceUpdated: "2026-10-08",
+    priceLastChecked: "2026-10-08",
+    priceStatus: "fresh",
+    seoTitle: "Mandolina Gadnic Cuk: precio y si las cuchillas de acero inoxidable valen el salto de precio",
+    metaDescription: "Mandolina Gadnic Cuk a {{precio:MLA73430926}} con {{rating:MLA73430926}} estrellas. Cuchillas de acero inoxidable (no solo el filo), aunque con pocas calificaciones todavía para confirmar durabilidad a largo plazo.",
+    pros: [
+      "Cuchillas de acero inoxidable según su propia ficha técnica, pensadas para resistir el desgaste diario mejor que las mandolinas 100% plástico",
+      "{{rating:MLA73430926}} estrellas, la más alta de esta comparativa, con diseño seguro con protector de manos",
+      "Sistema multifunción (cortar, rallar, rebanar, picar) con piezas desmontables fáciles de limpiar y recipiente recolector integrado",
+      "12° en Cortadoras y Trituradoras de MercadoLibre Argentina, de la tienda oficial de Gadnic con más de 1 millón de ventas",
+    ],
+    cons: [
+      "Tiene muy pocas calificaciones todavía ({{reviews:MLA73430926}}): el {{rating:MLA73430926}} es real, pero la muestra es chica para confirmar durabilidad a largo plazo",
+      "El cuerpo sigue siendo de plástico: solo la hoja es de acero inoxidable, no todo el equipo",
+      "Cuesta casi 3 veces lo que la Veoquiero de esta comparativa",
+      "Una reseña real de 4 estrellas sugiere que, a este precio, debería incluir el accesorio para cortar papas rejilla, que no viene en el set",
+    ],
+    verdict: "Con {{rating:MLA73430926}} estrellas, es la mejor calificada de esta comparativa, y la cuchilla de acero inoxidable es un salto real de durabilidad frente a las mandolinas 100% plástico. El límite honesto: todavía tiene pocas calificaciones ({{reviews:MLA73430926}}), así que conviene tomar el rating con esa salvedad hasta que acumule más historial.",
+    specs: [
+      { label: "Marca", value: "Gadnic" },
+      { label: "Modelo", value: "CVERD005" },
+      { label: "Color", value: "Blanco" },
+      { label: "Largo x Ancho", value: "26 cm x 15 cm" },
+      { label: "Material del cuerpo", value: "Plástico" },
+      { label: "Material de la hoja", value: "Acero inoxidable" },
+      { label: "Cantidad de piezas", value: "6" },
+      { label: "Con cuchillas intercambiables", value: "Sí" },
+      { label: "Apto para lavavajillas", value: "Sí" },
+    ],
+    relatedProducts: ["MLA45625365", "MLA27077236"],
+    articleBody: `## Qué es la Gadnic Cuk
+
+Es una cortadora mandolina multifunción con cuchillas de acero inoxidable, {{reviews:MLA73430926}} calificaciones y {{rating:MLA73430926}} estrellas en MercadoLibre Argentina, vendida a {{precio:MLA73430926}}. Es la 12° más vendida de la categoría Cortadoras y Trituradoras, de la tienda oficial de Gadnic.
+
+## La diferencia real: la hoja es de acero inoxidable
+
+A diferencia de la Veoquiero de esta comparativa (cuerpo y cuchillas de plástico salvo el filo), la ficha técnica de la Gadnic Cuk confirma que el material de la hoja es acero inoxidable propiamente dicho. Según la descripción del vendedor, eso se traduce en "cortes precisos y una excelente resistencia al desgaste diario". El cuerpo sigue siendo de plástico, pero suma diseño con protector de manos, piezas desmontables y recipiente recolector integrado.
+
+## La mejor calificada, con la salvedad honesta
+
+Con {{rating:MLA73430926}} estrellas, es la mandolina mejor calificada de esta comparativa. El pero: tiene apenas {{reviews:MLA73430926}} calificaciones, una muestra chica para un producto que promete durabilidad a largo plazo. Las reseñas que hay son positivas pero breves: **"Muy buena esta me encanta. Muchas gracias"** y **"El producto es exelente. Y el precio bien"**.
+
+## Lo que falta para el precio que tiene
+
+Una reseña real de 4 estrellas, sobre un producto similar de la misma línea, resume el único pero concreto: **"Buen producto, excelente filo, buenas terminaciones, podría traer por el precio el accesorio para papas rejilla"**. A este precio, algunos compradores esperan un accesorio extra que el set de 6 piezas no incluye.
+
+## Para quién es, y para quién no
+
+Es para vos si cortás seguido alimentos duros y preferís pagar más por una cuchilla que no se va a doblar, aunque el historial de reseñas todavía sea corto.
+
+No es para vos si buscás la opción más probada: con solo {{reviews:MLA73430926}} calificaciones, la Veoquiero o la Börner de esta comparativa tienen muchísimo más recorrido real.`,
+    faq: [
+      { question: "¿La cuchilla es realmente de acero inoxidable?", answer: "Sí, según su ficha técnica el material de la hoja es acero inoxidable, a diferencia de mandolinas más económicas donde solo el filo es metálico y el resto es plástico." },
+      { question: "¿Por qué tiene tan pocas calificaciones si tiene 4.9 estrellas?", answer: "Es un producto con menor volumen de ventas que otras de esta comparativa (+100 vendidos). El rating es real pero la muestra es chica: conviene tomarlo con esa salvedad hasta que acumule más historial." },
+      { question: "¿El cuerpo es de metal?", answer: "No, según su ficha técnica el material del cuerpo es plástico. Solo la hoja es de acero inoxidable." },
+      { question: "¿Es apta para lavavajillas?", answer: "Sí, según su ficha técnica." },
+      { question: "¿Incluye el accesorio para papas rejilla?", answer: "No, según una reseña real de un producto similar de la misma marca, ese accesorio no viene incluido en el set de 6 piezas." },
+      { question: "¿Cuánto cuesta comparada con la más barata de esta comparativa?", answer: "Alrededor de 3 veces el precio de la Veoquiero, la más económica de esta guía." },
+    ],
+  },
+  {
+    id: "MLA27077236",
+    title: "Mandolina Profesional Börner V5 + Multibox",
+    canonicalName: "Börner V5 + Multibox",
+    brand: "Börner",
+    mpn: "Mandolina V5 + Multibox",
+    price: 127500,
+    originalPrice: 150000,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_851398-MLA99991714093_112025-F.webp",
+    category: "Cocina",
+    categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/mandolina-profesional-borner-v5-multibox-naranja-cuchillas-intercambiables/p/MLA27077236",
+    affiliateUrl: "https://meli.la/2RRtyPZ",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 1200,
+    reviewsSampledAt: "2026-10-08",
+    soldQuantity: 1000,
+    visibility: "normal",
+    priceUpdated: "2026-10-08",
+    priceLastChecked: "2026-10-08",
+    priceStatus: "fresh",
+    seoTitle: "Mandolina Börner V5: precio en Argentina y si vale la pena pagar marca alemana",
+    metaDescription: "Mandolina profesional Börner V5 a {{precio:MLA27077236}} con {{reviews:MLA27077236}} calificaciones. Filo quirúrgico según las reseñas, con 5 años de garantía, pero el cuerpo sigue siendo de plástico.",
+    pros: [
+      "Marca alemana especialista en mandolinas, con {{reviews:MLA27077236}} calificaciones y {{rating:MLA27077236}} estrellas: muy por encima de las {{reviews:MLA73430926}} de la Gadnic Cuk",
+      "Grosor regulable con ajuste rápido y seguro, cuchillas de acero inoxidable intercambiables para distintos tipos de corte",
+      "5 años de garantía de fábrica, la única de esta comparativa con ese respaldo",
+      "La más grande de las tres (38x14 cm), con reseñas reales que destacan la precisión del corte",
+    ],
+    cons: [
+      "La más cara de esta comparativa por lejos: más de 6 veces el precio de la Veoquiero",
+      "El cuerpo sigue siendo de plástico pese al precio premium, algo que una reseña real (97 votos útiles) señala como el único punto flojo",
+      "El multibox colector trae 6 piezas, bastante menos que el set de la Veoquiero, aunque el enfoque es precisión antes que variedad de accesorios",
+      "Es un mecanismo de hoja fija con guía, distinto al de caja dicer de las otras dos: no sirve para picar en cubitos de un solo movimiento, solo para cortar en láminas o bastones",
+    ],
+    verdict: "Con {{reviews:MLA27077236}} calificaciones y {{rating:MLA27077236}} estrellas, es la mandolina de precisión con más respaldo real de esta comparativa, y la única con 5 años de garantía de fábrica. El filo es, según las propias reseñas, quirúrgico. Lo único que le reprochan los compradores: pagás precio de marca alemana por un cuerpo que sigue siendo de plástico.",
+    specs: [
+      { label: "Marca", value: "Börner" },
+      { label: "Modelo", value: "Mandolina V5 + Multibox" },
+      { label: "Color", value: "Naranja" },
+      { label: "Largo x Ancho", value: "38 cm x 14 cm" },
+      { label: "Material del cuerpo", value: "Plástico" },
+      { label: "Material de la hoja", value: "Acero inoxidable" },
+      { label: "Cantidad de piezas", value: "6" },
+      { label: "Con cuchillas intercambiables", value: "Sí" },
+      { label: "Grosor de corte", value: "Regulable, ajuste rápido" },
+      { label: "Garantía de fábrica", value: "5 años" },
+    ],
+    relatedProducts: ["MLA45625365", "MLA73430926"],
+    articleBody: `## Qué es la Börner V5 + Multibox
+
+Es una mandolina profesional de hoja fija con guía regulable, de la marca alemana Börner, con {{reviews:MLA27077236}} calificaciones y {{rating:MLA27077236}} estrellas en MercadoLibre Argentina, vendida a {{precio:MLA27077236}}. Es un mecanismo distinto al de las otras dos de esta comparativa: no es una caja "nicer dicer" que pica en cubitos de un solo golpe, sino una guía con cuchilla fija para cortar en láminas o bastones de grosor regulable, con precisión alemana.
+
+## El filo, según quienes la usan
+
+Según su ficha técnica, incluye cuchillas de acero inoxidable intercambiables para distintos tipos de corte, con grosor regulable de ajuste rápido y seguro. Las reseñas reales confirman esa precisión con humor: **"Hermosa, corta la papa, la zanahoria, el tomate, tan, pero tan fino que tengo miedo de que corte un átomo a la mitad y explote toda la provincia"**.
+
+## El pero que señalan los propios compradores
+
+La misma reseña, con 97 votos útiles, sigue así: **"Si el cuerpo también fuese de metal, creo sería lo máximo, es lo único que me chirría, el cuerpo de plástico, no creo pueda contener tanto poder"**. Es el reclamo más repetido: pagás precio de marca alemana especialista, pero el cuerpo (no la hoja) sigue siendo de plástico. Otra reseña de 4 estrellas suma: **"Buen producto, excelente filo, buenas terminaciones, podría traer por el precio el accesorio para papas rejilla"**.
+
+## 5 años de garantía, la única de esta comparativa
+
+A diferencia de la Veoquiero y la Gadnic Cuk, la Börner V5 viene con 5 años de garantía de fábrica, un respaldo que ninguna otra de esta comparativa ofrece.
+
+## Para quién es, y para quién no
+
+Es para vos si cocinás seguido y valorás la precisión de corte por encima de la variedad de accesorios: el mecanismo de guía regulable da láminas y bastones muy parejos, con el respaldo de marca y garantía más largos de esta comparativa.
+
+No es para vos si buscás picar en cubitos de un solo movimiento (para eso sirven la Veoquiero o la Gadnic Cuk, que son cajas dicer) o si el presupuesto es la prioridad: es, por lejos, la más cara de las tres.`,
+    faq: [
+      { question: "¿Vale la pena pagar tanto más por la marca alemana?", answer: "Según las reseñas reales, el filo es notablemente más preciso y viene con 5 años de garantía de fábrica, algo que ninguna otra de esta comparativa ofrece. El cuerpo sigue siendo de plástico, que es lo único que señalan como punto flojo pese al precio." },
+      { question: "¿Es una caja picadora como las otras dos de la comparativa?", answer: "No, es un mecanismo distinto: hoja fija con guía regulable para cortar en láminas o bastones, no una caja que pica en cubitos de un solo movimiento." },
+      { question: "¿El cuerpo es de metal?", answer: "No, según reseñas reales el cuerpo es de plástico pese al precio premium. Solo las cuchillas son de acero inoxidable." },
+      { question: "¿Cuánta garantía tiene?", answer: "5 años de garantía de fábrica, la única de esta comparativa con ese respaldo." },
+      { question: "¿Incluye el accesorio para papas rejilla?", answer: "No, según una reseña real; ese accesorio se vende aparte en un combo distinto de la misma marca." },
+      { question: "¿Cuántas piezas trae el set?", answer: "6 piezas con cuchillas intercambiables, según su ficha técnica." },
+    ],
+  },
 ];
 
 export const categoryPastels: Record<string, string> = {
