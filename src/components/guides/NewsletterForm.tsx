@@ -61,7 +61,9 @@ export function NewsletterForm({ source }: NewsletterFormProps = {}) {
         value={email}
         onChange={(e) => setEmail(e.target.value)}
         disabled={status === "submitting"}
-        className="flex-1 px-4 py-2.5 text-sm rounded-[6px] border bg-[var(--bg-primary)] text-[var(--text-primary)] placeholder:text-[var(--text-muted)] focus:outline-none focus:ring-2"
+        // text-base (16px) en mobile: iOS Safari hace zoom-in automático
+        // con font-size < 16px y no vuelve a alejar al cerrar el teclado.
+        className="flex-1 px-4 py-2.5 text-base md:text-sm rounded-[6px] border bg-[var(--bg-primary)] text-[var(--text-primary)] placeholder:text-[var(--text-muted)] focus:outline-none focus:ring-2"
         style={{ borderColor: "var(--border)" }}
       />
       <button

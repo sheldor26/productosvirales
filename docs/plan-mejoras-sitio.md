@@ -1233,3 +1233,18 @@ La idea de investigación externa de la iteración 69 (teclado de Android tapand
 `tsc --noEmit`, `eslint` sobre los 3 archivos tocados (sin errores nuevos ni preexistentes en estos archivos) y `npm run build`, todos limpios.
 
 **Con 131 features implementadas, 131 commits locales.**
+
+### Iteración 73 (2026-10-08) — autocomplete sin sugerencias viejas, sin auto-zoom de iOS, "Pros and cons" de Google en las fichas
+
+**Codex** encontró que `SearchInput.tsx` deja las sugerencias de la query ANTERIOR visibles y seleccionables mientras llega la respuesta de la nueva: el `onChange` solo limpia `suggestions` cuando el campo queda vacío o por debajo del mínimo de 2 caracteres, nunca al pasar de una query válida a otra (ej. "monitor" → "aire") — distinto de la race condition que ya resuelve el `AbortController` de la iteración 51 (esa evita que una respuesta tardía pise a la correcta, pero no limpia lo que ya estaba renderizado). Un Flecha abajo + Enter en ese intervalo de ~250ms+fetch podía abrir una ficha que no coincide con lo que la persona terminó escribiendo. **Gemini** encontró que los 4 `<input>` de texto del sitio (buscador, newsletter banner, newsletter de guías, alerta de precio) usan `text-sm` (14px) — por debajo del umbral de 16px que hace que iOS Safari aplique zoom-in automático al enfocarlos, sin volver a alejar la vista al cerrar el teclado. **Investigación externa** (ángulo nuevo, con fuente oficial del blog de Google Search Central de agosto 2022) encontró que el sitio no usa la feature de rich results "Pros and cons" de Google (`positiveNotes`/`negativeNotes` en un `Review`), exclusiva de páginas de review editorial —justo el posicionamiento del sitio, no un merchant— con los pros/contras ya escritos a mano en 932 de los productos del catálogo (`product.pros`/`product.cons`, ya visibles en "El resumen honesto" de cada ficha).
+
+**Implementado (tres features):**
+1. `SearchInput.tsx`: nuevo estado `loading`; el `onChange` ahora limpia `suggestions` y muestra un estado "Buscando..." (`role="status"`, `Loader2` con `motion-reduce:animate-none`) apenas cambia a una query válida distinta, en vez de dejar la lista vieja hasta que resuelva el fetch nuevo.
+2. Los 4 inputs de texto pasaron de `text-sm` a `text-base md:text-sm` (16px en mobile, 14px desde `md:` como antes).
+3. `producto/[slug]/page.tsx`: `editorialReview` nuevo en el JSON-LD (`author: Organization` — mismo patrón de la iteración 70, no un `Person` inventado), con `positiveNotes`/`negativeNotes` armados desde `detailProduct.pros`/`cons` ya existentes, pasados por `toPlainText()` (ya usado en el mismo archivo para `description`/FAQ) para no filtrar markdown al structured data. Solo se agrega con 2+ notas entre ambas listas (mínimo real de Google), antepuesto al array de `review` existente sin pisar las reseñas de compradores.
+
+**Verificado en navegador:** en el buscador del Header, se tipeó "monitor" (6 sugerencias reales de monitores) y se reemplazó por "aire" con un triple-click + tipeo real; la lista final no contenía ningún rastro de "Monitor", solo resultados de "aire" (freidora, caloventor). En mobile (375px), `getComputedStyle(input).fontSize` en el buscador dio `"16px"`. En la ficha de la Insta360 X4, el JSON-LD extraído trae un `review[0]` con `author.@type: "Organization"` y 4 `positiveNotes`/4 `negativeNotes` con texto plano real (ej. "Graba 8K en 360, contra los 5.7K de la Insta360 X3").
+
+`tsc --noEmit`, `eslint` sobre los 5 archivos tocados y `npm run build`, todos limpios.
+
+**Con 134 features implementadas, 134 commits locales.**

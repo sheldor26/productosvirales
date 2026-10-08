@@ -113,7 +113,10 @@ export function PriceAlert({
                 aria-label="Tu email"
                 required
                 disabled={status === "loading"}
-                className="flex-1 px-4 py-2.5 text-sm bg-[var(--bg-primary)] text-[var(--text-primary)] rounded-[var(--radius-pill)] border border-[var(--border)] outline-none focus:border-[var(--text-muted)] transition-colors placeholder:text-[var(--text-muted)] disabled:opacity-60"
+                // text-base (16px) en mobile: iOS Safari hace zoom-in
+                // automático con font-size < 16px y no vuelve a alejar al
+                // cerrar el teclado.
+                className="flex-1 px-4 py-2.5 text-base md:text-sm bg-[var(--bg-primary)] text-[var(--text-primary)] rounded-[var(--radius-pill)] border border-[var(--border)] outline-none focus:border-[var(--text-muted)] transition-colors placeholder:text-[var(--text-muted)] disabled:opacity-60"
               />
               <button
                 type="submit"

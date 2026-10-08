@@ -155,7 +155,10 @@ export function NewsletterBanner() {
               value={email}
               onChange={(e) => setEmail(e.target.value)}
               disabled={status === "submitting" || status === "ok"}
-              className="w-full rounded-[12px] border px-4 py-3 text-sm focus:outline-none focus:ring-2"
+              // text-base (16px) en mobile: iOS Safari hace zoom-in
+              // automático con font-size < 16px y no vuelve a alejar al
+              // cerrar el teclado.
+              className="w-full rounded-[12px] border px-4 py-3 text-base md:text-sm focus:outline-none focus:ring-2"
               style={{
                 background: "var(--bg-primary)",
                 borderColor: "var(--border)",

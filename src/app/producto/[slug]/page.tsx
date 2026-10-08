@@ -166,6 +166,45 @@ export default async function ProductPage({ params }: Props) {
   const custom = (product.structuredData || {}) as Record<string, unknown>;
   const customOffers = (custom.offers as Record<string, unknown>) || {};
 
+  // "Pros and cons" de Google (rich result propio desde 2022, solo para
+  // páginas de review editorial — exactamente lo que es esta ficha, no una
+  // página de merchant). Mismos pros/cons ya visibles en "El resumen
+  // honesto" de ProductDetail.tsx, pasados por toPlainText porque el
+  // structured data no debe llevar markdown. Mínimo real de Google: al
+  // menos 2 notas entre ambas listas, si no el Review queda sin ellas.
+  const totalProsConsNotes = (detailProduct.pros?.length || 0) + (detailProduct.cons?.length || 0);
+  const editorialReview =
+    totalProsConsNotes >= 2
+      ? {
+          "@type": "Review",
+          author: { "@type": "Organization", name: "Equipo ProductosVirales" },
+          ...(detailProduct.pros && detailProduct.pros.length > 0
+            ? {
+                positiveNotes: {
+                  "@type": "ItemList",
+                  itemListElement: detailProduct.pros.map((p, i) => ({
+                    "@type": "ListItem",
+                    position: i + 1,
+                    name: toPlainText(p),
+                  })),
+                },
+              }
+            : {}),
+          ...(detailProduct.cons && detailProduct.cons.length > 0
+            ? {
+                negativeNotes: {
+                  "@type": "ItemList",
+                  itemListElement: detailProduct.cons.map((c, i) => ({
+                    "@type": "ListItem",
+                    position: i + 1,
+                    name: toPlainText(c),
+                  })),
+                },
+              }
+            : {}),
+        }
+      : null;
+
   // Reseñas: preferimos las curadas en `customerReviews` (con fecha y texto
   // citables). Fallback: un `review[]` manual ya escrito en structuredData.
   const curatedReviews = (product.customerReviews || [])
@@ -233,11 +272,15 @@ export default async function ProductPage({ params }: Props) {
         ? { brand: custom.brand }
         : {}),
     ...(aggregateRating ? { aggregateRating } : {}),
-    ...(curatedReviews.length > 0
-      ? { review: curatedReviews }
-      : custom.review
-        ? { review: custom.review }
-        : {}),
+    ...(() => {
+      const existingReviews = curatedReviews.length > 0
+        ? curatedReviews
+        : custom.review
+          ? (Array.isArray(custom.review) ? custom.review : [custom.review])
+          : [];
+      const reviewItems = editorialReview ? [editorialReview, ...existingReviews] : existingReviews;
+      return reviewItems.length > 0 ? { review: reviewItems } : {};
+    })(),
     ...(product.specs && product.specs.length > 0
       ? {
           additionalProperty: product.specs.map((s) => ({

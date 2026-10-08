@@ -2,7 +2,7 @@
 
 import Image from "next/image";
 import { useRouter } from "next/navigation";
-import { Search, X, Clock, SearchX } from "lucide-react";
+import { Search, X, Clock, SearchX, Loader2 } from "lucide-react";
 import { useState, useRef, useEffect, useId } from "react";
 import { cn, formatPrice } from "@/lib/utils";
 import { productHref } from "@/lib/product-url";
@@ -105,6 +105,11 @@ export function SearchInput({
   // sin reemplazar el submit tradicional (Enter sigue yendo a /?q=... si no
   // se eligió ninguna sugerencia — fallback natural si falla el fetch).
   const [suggestions, setSuggestions] = useState<Suggestion[]>([]);
+  // Sin esto, cambiar de una query a otra (ej. "monitor" -> "aire") deja
+  // las sugerencias VIEJAS visibles y seleccionables durante el debounce +
+  // el fetch de la nueva — un Flecha abajo + Enter en ese intervalo abre
+  // una ficha que no coincide con lo que la persona terminó escribiendo.
+  const [loading, setLoading] = useState(false);
   const [suggestOpen, setSuggestOpen] = useState(false);
   const [highlighted, setHighlighted] = useState(-1);
   const debounceRef = useRef<ReturnType<typeof setTimeout> | null>(null);
@@ -181,6 +186,7 @@ export function SearchInput({
         .then((res) => (res.ok ? res.json() : []))
         .then((data: Suggestion[]) => {
           setSuggestions(data);
+          setLoading(false);
           // Abre igual con 0 resultados: antes se cerraba en silencio y la
           // persona no sabía si la búsqueda falló, seguía cargando, o
           // simplemente no hay nada — ahora el estado vacío de abajo lo
@@ -192,6 +198,7 @@ export function SearchInput({
           if (err?.name === "AbortError") return; // cancelado por una query más nueva, no un error real
           // Sin sugerencias por falla de red: el submit normal sigue andando.
           setSuggestions([]);
+          setLoading(false);
           setSuggestOpen(false);
         });
     }, DEBOUNCE_MS);
@@ -283,11 +290,23 @@ export function SearchInput({
             // tipear): mostrar recientes al toque en vez de esperar un
             // re-foco, mismo gesto que ya esperan de un buscador.
             setSuggestions([]);
+            setLoading(false);
             setHighlighted(-1);
             setSuggestOpen(recent.length > 0);
           } else if (trimmed.length < MIN_QUERY_LENGTH) {
             setSuggestions([]);
+            setLoading(false);
             setSuggestOpen(false);
+          } else {
+            // Query válida pero distinta: lo que había en pantalla (si algo)
+            // es de la query ANTERIOR. Se limpia al toque y se muestra un
+            // estado de carga en vez de dejar esos resultados visibles
+            // -y seleccionables por teclado- hasta que responda el fetch
+            // nuevo (useEffect de abajo, con su propio debounce).
+            setSuggestions([]);
+            setLoading(true);
+            setSuggestOpen(true);
+            setHighlighted(-1);
           }
         }}
         onKeyDown={handleKeyDown}
@@ -307,7 +326,13 @@ export function SearchInput({
         // `type="search"` le pide a WebKit/Chrome su propia "x" nativa de
         // limpiar — quedaría duplicada con el botón "Limpiar búsqueda" que
         // ya tiene el componente, así que se apaga la nativa explícito.
-        className="w-full pl-9 pr-9 py-2 text-sm bg-[var(--bg-secondary)] text-[var(--text-primary)] rounded-[var(--radius-pill)] border border-[var(--border)] outline-none focus:border-[var(--text-muted)] transition-colors placeholder:text-[var(--text-muted)] [&::-webkit-search-cancel-button]:appearance-none [&::-webkit-search-decoration]:appearance-none"
+        // `text-base` (16px) en mobile, no `text-sm` (14px): iOS Safari hace
+        // zoom-in automático en cualquier input con font-size computado
+        // menor a 16px al enfocarlo, y no vuelve a alejar la vista al
+        // cerrar el teclado — el layout queda recortado hasta que el
+        // usuario hace pinch-to-zoom manual. Mismo motivo en NewsletterForm,
+        // NewsletterBanner y PriceAlert.
+        className="w-full pl-9 pr-9 py-2 text-base md:text-sm bg-[var(--bg-secondary)] text-[var(--text-primary)] rounded-[var(--radius-pill)] border border-[var(--border)] outline-none focus:border-[var(--text-muted)] transition-colors placeholder:text-[var(--text-muted)] [&::-webkit-search-cancel-button]:appearance-none [&::-webkit-search-decoration]:appearance-none"
       />
       {(query || expandable) && (
         <button
@@ -373,7 +398,18 @@ export function SearchInput({
         </div>
       )}
 
-      {suggestOpen && !showingRecent && suggestions.length > 0 && (
+      {suggestOpen && !showingRecent && loading && (
+        <div
+          role="status"
+          aria-live="polite"
+          className="absolute z-20 top-full left-0 right-0 mt-1.5 px-4 py-5 text-center bg-[var(--bg-primary)] border border-[var(--border)] rounded-[var(--radius-card)] shadow-lg"
+        >
+          <Loader2 size={18} className="mx-auto animate-spin motion-reduce:animate-none text-[var(--text-muted)]" />
+          <p className="mt-1.5 text-sm text-[var(--text-secondary)]">Buscando...</p>
+        </div>
+      )}
+
+      {suggestOpen && !showingRecent && !loading && suggestions.length > 0 && (
         <ul
           id={suggestListId}
           role="listbox"
@@ -418,7 +454,7 @@ export function SearchInput({
         </ul>
       )}
 
-      {suggestOpen && !showingRecent && suggestions.length === 0 && (
+      {suggestOpen && !showingRecent && !loading && suggestions.length === 0 && (
         // Antes esto cerraba el dropdown en silencio: no había forma de
         // distinguir "todavía está buscando" de "no hay nada" sin mandar el
         // submit completo a /buscar. role="status" (no "alert"): es
