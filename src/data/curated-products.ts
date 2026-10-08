@@ -102245,6 +102245,343 @@ No es para vos si necesitás proteger una heladera, un microondas o una impresor
       { question: "¿Es lo mismo que un UPS con batería de respaldo?", answer: "La ficha técnica lo clasifica como \"Tipo de UPS: Online\", pero su función principal confirmada en la descripción y las reseñas es estabilizar tensión, no dar autonomía durante un corte de luz prolongado. Si buscás respaldo de batería ante apagones largos, confirmá esa función específica antes de comprar." },
     ],
   },
+
+  // ─────────────────────────────────────────────────────────
+  // Sourcing 2026-10-08: hub de afiliados de ML, keyword "almohada
+  // cervical" (8.100/mes AR, SERP ganable). 4 fichas para la guía
+  // pilar almohada-cervical (silo salud-bienestar), cross-linkeadas
+  // entre sí. Imágenes verificadas 2X-F con curl GET (no HEAD).
+  // ─────────────────────────────────────────────────────────
+  {
+    id: "MLA62454868",
+    title: "Almohada Cervical Ortopédica Gadnic DORM0003",
+    canonicalName: "Gadnic DORM0003",
+    brand: "Gadnic",
+    mpn: "DORM0003",
+    price: 66000,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_693082-MLA98741206472_112025-F.webp",
+    category: "Salud y Bienestar",
+    categorySlug: "salud-bienestar",
+    permalink: "https://www.mercadolibre.com.ar/almohada-cervical-ortopedica-ergonomica-espuma-viscoelastica-gris/p/MLA62454868",
+    affiliateUrl: "https://meli.la/2ETMmCK",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.6,
+    reviewCount: 1134,
+    reviewsSampledAt: "2026-10-08",
+    soldQuantity: 5000,
+    visibility: "normal",
+    priceUpdated: "2026-10-08",
+    priceLastChecked: "2026-10-08",
+    priceStatus: "fresh",
+    seoTitle: "Almohada cervical Gadnic DORM0003: precio en Argentina y si vale la pena el diseño mariposa",
+    metaDescription: "Almohada cervical Gadnic DORM0003 a {{precio:MLA62454868}} con {{reviews:MLA62454868}} calificaciones. Diseño mariposa con doble altura, pero divide opiniones: para algunos es firme y sostiene, para otros es directamente dura.",
+    pros: [
+      "9° más vendida en Almohadas de MercadoLibre Argentina, con {{reviews:MLA62454868}} calificaciones",
+      "Diseño mariposa con doble altura ergonómica: permite dormir boca arriba o de lado con distinto soporte según el lado que uses",
+      "Funda Ice Silk transpirable que ayuda a reducir la sudoración nocturna, y orificios laterales para apoyar los brazos y reducir presión en hombros",
+      "Varios compradores con dolor cervical por postura del sueño reportan alivio real usándola a diario",
+    ],
+    cons: [
+      "La firmeza divide opiniones: varios la describen como \"firme mejor que rígida\", pero hay reseñas reales que la sienten \"insoportablemente dura\", como dormir sobre una piedra",
+      "El diseño mariposa con dos alturas no es intuitivo: al menos un comprador no entendía cómo usarla correctamente",
+      "No incluye estuche ni estructura de viaje: es para uso en cama, no portátil",
+      "A diferencia de la Emerald y la Cannon de esta misma comparativa, no está marcada como hipoalergénica ni antibacteriana en su ficha técnica",
+    ],
+    verdict: "Con {{reviews:MLA62454868}} calificaciones y {{rating:MLA62454868}} estrellas, el diseño mariposa con doble altura es su diferencial real frente al resto de esta comparativa. Pero la firmeza no es para todos: antes de comprarla, tené en cuenta que una porción de compradores la encuentra demasiado dura, mientras que la mayoría la describe como firme pero cómoda una vez que te acostumbrás.",
+    specs: [
+      { label: "Marca", value: "Gadnic" },
+      { label: "Modelo", value: "DORM0003" },
+      { label: "Tipo de almohada", value: "Ergonómica" },
+      { label: "Color", value: "Gris" },
+      { label: "Largo", value: "60 cm" },
+      { label: "Altura", value: "12 cm" },
+      { label: "Cantidad de almohadas", value: "1" },
+      { label: "Formato de venta", value: "Unidad" },
+      { label: "Materiales del relleno", value: "Espuma viscoelástica" },
+      { label: "Diseño", value: "Mariposa, con doble altura ergonómica" },
+      { label: "Funda", value: "Ice Silk transpirable" },
+      { label: "Orificios laterales para brazos", value: "Sí" },
+    ],
+    relatedProducts: ["MLA19726182", "MLA14111963", "MLA22208983"],
+    articleBody: `## Qué es la Gadnic DORM0003
+
+Es una almohada cervical ortopédica con diseño mariposa, {{reviews:MLA62454868}} calificaciones y {{rating:MLA62454868}} estrellas en MercadoLibre Argentina, vendida a {{precio:MLA62454868}}. Es la 9° más vendida de la categoría Almohadas de MercadoLibre Argentina.
+
+## El diseño mariposa con doble altura
+
+A diferencia de una almohada cervical rectangular simple, esta tiene forma de mariposa con dos alturas distintas: según la ficha del vendedor, permite dormir boca arriba o de lado con mejor soporte, y suma orificios laterales pensados para apoyar los brazos y reducir la presión en los hombros. La funda es de tejido Ice Silk transpirable, pensada para reducir la sudoración nocturna.
+
+## Lo que dicen los compradores con dolor cervical real
+
+La reseña más útil del producto viene de alguien con un problema concreto: **"Recomiendo para los que, como yo, sufren dolor cervical por postura del sueño. La almohada no es rigida pero es firme, te sostiene, y si bien te permite dormir de lado, te obliga a mantener la cabeza en el centro de la almohada. Tiene dos posiciones para el cuello, muy buena la calidad"** (78 votos útiles). Otra reseña describe: **"Es súper cómoda. Relleno inteligente, funda con cierre para retirar y lavar, excelente calidad y terminaciones. Tiene dos alturas (posiciones) para usar según la altura/comodidad de la persona"** (80 votos útiles).
+
+## La firmeza divide opiniones (dato honesto)
+
+Acá hay algo que vale la pena aclarar: no todos coinciden en que sea cómoda. Una reseña real de 2 estrellas dice: **"Comodidad: me parece insoportablemente dura. Siento que duermo sobre una piedra. Me parece muy dura y me cuesta dormir cómoda con este almohada. Además no está claro cómo usarla (no entiendo por qué la forma mariposa y las dos alturas)"**. Otra, también de 2 estrellas: **"Le di tiempo para ver si funcionaba. Y nada. No veo diferencia con otras almohada"**. Si preferís algo más blando desde el primer uso, la Emerald o la Fiberball de esta comparativa tienen reseñas que las describen como más suaves.
+
+## Para quién es, y para quién no
+
+Es para vos si buscás una almohada cervical firme, con buen respaldo de reseñas y un diseño pensado para alternar entre dormir boca arriba y de costado.
+
+No es para vos si preferís algo blando desde la primera noche: una porción de compradores la encuentra demasiado dura, y el diseño de doble altura necesita un poco de adaptación.`,
+    faq: [
+      { question: "¿Es dura o blanda?", answer: "Depende de a quién le preguntes. La mayoría la describe como firme pero cómoda una vez que te acostumbrás, aunque hay reseñas reales de 2 estrellas que la encuentran \"insoportablemente dura\". Si preferís algo blando desde el primer uso, la Emerald o la Fiberball de esta misma comparativa tienen mejor respaldo en ese punto." },
+      { question: "¿Sirve para dormir de costado?", answer: "Sí, el diseño de doble altura está pensado justamente para eso: una altura para dormir boca arriba y otra para dormir de lado, aunque algunos compradores tardan en entender cómo usar correctamente las dos posiciones." },
+      { question: "¿Es hipoalergénica?", answer: "Su ficha técnica no lo confirma, a diferencia de la Emerald y la Cannon de esta comparativa, que sí están marcadas como hipoalergénicas y antibacterianas." },
+      { question: "¿La funda se puede lavar?", answer: "Sí, según las reseñas tiene funda con cierre que se puede retirar y lavar." },
+      { question: "¿Para qué sirven los orificios laterales?", answer: "Están pensados para apoyar los brazos durante el descanso y reducir la presión en los hombros, según la descripción del vendedor." },
+      { question: "¿Cuánto mide?", answer: "60 cm de largo por 12 cm de altura, según la ficha técnica." },
+    ],
+  },
+  {
+    id: "MLA19726182",
+    title: "Almohada Cervical Viscoelástica Emerald Antialérgica",
+    canonicalName: "Emerald Antialérgica 55x40cm",
+    brand: "Emerald",
+    price: 55812,
+    originalPrice: 58750,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_976715-MLA112989847249_062026-F.webp",
+    category: "Salud y Bienestar",
+    categorySlug: "salud-bienestar",
+    permalink: "https://www.mercadolibre.com.ar/almohada-cervical-viscoelastica-inteligente-emerald-antialergica-55x40cm/p/MLA19726182",
+    affiliateUrl: "https://meli.la/14WZFWe",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 742,
+    reviewsSampledAt: "2026-10-08",
+    soldQuantity: 1000,
+    visibility: "normal",
+    priceUpdated: "2026-10-08",
+    priceLastChecked: "2026-10-08",
+    priceStatus: "fresh",
+    seoTitle: "Almohada cervical Emerald Antialérgica: precio en Argentina y para quién es ideal",
+    metaDescription: "Almohada cervical Emerald a {{precio:MLA19726182}} con {{reviews:MLA19726182}} calificaciones. 2° más vendida en Almohadas, hipoalergénica y antibacteriana, usada por compradores con escoliosis y rectificación cervical.",
+    pros: [
+      "2° más vendida en Almohadas de MercadoLibre Argentina (mejor ranking de categoría que el resto de esta comparativa), con {{rating:MLA19726182}} estrellas",
+      "Hipoalergénica y con propiedades antibacterianas según su propia ficha técnica, a diferencia de otras de esta comparativa que no lo confirman",
+      "Funda removible y lavable, y mantiene su textura sin aplastarse según las reseñas",
+      "Compradores con escoliosis y rectificación cervical reportan alivio real de dolor usándola a diario",
+    ],
+    cons: [
+      "Es más chica (55x40 cm) que la Cannon de esta comparativa (70x40 cm)",
+      "Tiene menos reseñas totales ({{reviews:MLA19726182}}) que la Gadnic ({{reviews:MLA62454868}}) o la Fiberball ({{reviews:MLA14111963}}), aunque con mejor promedio",
+      "Hay una reseña real de 2 estrellas que reporta un olor insoportable que no se fue ni dejándola ventilar, algo que contradice a otros compradores que destacan justamente que no tiene olor",
+      "No es la más económica: la Fiberball de esta comparativa cuesta bastante menos",
+    ],
+    verdict: "Con {{rating:MLA19726182}} estrellas y 2° lugar en el ranking de ventas de la categoría Almohadas, es la mejor rankeada de esta comparativa. Lo que la distingue: ficha técnica que confirma hipoalergénica y antibacteriana, y testimonios reales de compradores con escoliosis y rectificación cervical que notaron alivio real. El punto flojo, poco frecuente pero real: al menos un comprador reportó un olor persistente que la mayoría no menciona.",
+    specs: [
+      { label: "Marca", value: "Emerald" },
+      { label: "Espesor", value: "13 cm" },
+      { label: "Altura", value: "40 cm" },
+      { label: "Largo", value: "55 cm" },
+      { label: "Cantidad de almohadas", value: "1" },
+      { label: "Forma", value: "Cervical, se adapta a la posición del cuello y cabeza" },
+      { label: "Material", value: "Espuma viscoelástica, firmeza y soporte" },
+      { label: "Hipoalergénica", value: "Sí" },
+      { label: "Propiedades antibacterianas", value: "Sí" },
+      { label: "Funda", value: "Removible, lavable" },
+    ],
+    relatedProducts: ["MLA62454868", "MLA14111963", "MLA22208983"],
+    articleBody: `## Qué es la Emerald Antialérgica
+
+Es una almohada cervical viscoelástica con forma de contorno clásico, {{reviews:MLA19726182}} calificaciones y {{rating:MLA19726182}} estrellas en MercadoLibre Argentina, vendida a {{precio:MLA19726182}}. Es la 2° más vendida de la categoría Almohadas: mejor posición de ranking que cualquier otra de esta comparativa.
+
+## Hipoalergénica y antibacteriana, confirmado en ficha
+
+A diferencia de la Gadnic de esta comparativa, la ficha técnica de la Emerald confirma que es hipoalergénica (para prevenir alergias) y tiene propiedades antibacterianas (previene la acumulación de gérmenes), además de funda removible que permite un lavado fácil.
+
+## Compradores con escoliosis y rectificación cervical
+
+Dos de las reseñas más útiles del producto vienen de compradores con cuadros médicos concretos. Una, con 30 votos útiles: **"Tengo escoliosis y cervical rectificada, compré la almohada para intentar levantarme con menos dolores de cuello que desemboquen en una migraña y mucho malestar"**. Otra, con 13 votos útiles, todavía más contundente: **"Estoy anonadada. Tiré mil almohadas. Esta desde la primera vez me resultó cómoda y desde la primera noche no sentí más dolor! tengo escoliosis y rectificación de cervical. Cero olor, no es dura"**.
+
+## El dato honesto: no todos coinciden en el olor
+
+Mientras varios compradores destacan explícitamente que no tiene olor, hay una reseña real de 2 estrellas que dice lo contrario: **"Tiene un olor insoportable, no se si es a humedad o que, que no se fue a pesar de dejarla cerca de una ventana"**, sumado a que no le resultó cómoda ni le dio buen soporte. Es la excepción dentro de las reseñas, pero la incluimos porque existe.
+
+## Para quién es, y para quién no
+
+Es para vos si buscás la almohada cervical mejor rankeada de esta comparativa, con hipoalergenicidad y propiedades antibacterianas confirmadas en ficha, y preferís un tamaño estándar de 55x40 cm.
+
+No es para vos si necesitás una almohada más grande: la Cannon de esta comparativa mide 70x40 cm, bastante más superficie de apoyo.`,
+    faq: [
+      { question: "¿Es hipoalergénica de verdad?", answer: "Sí, según su propia ficha técnica, junto con propiedades antibacterianas para prevenir la acumulación de gérmenes — a diferencia de otras de esta comparativa que no lo confirman." },
+      { question: "¿Sirve para dolores por escoliosis o rectificación cervical?", answer: "Hay testimonios reales de compradores con esos cuadros que reportan alivio real usándola a diario. No reemplaza tratamiento médico ni kinesiología." },
+      { question: "¿Tiene olor?", answer: "La mayoría de las reseñas dice que no, pero existe al menos una reseña real de 2 estrellas que reporta un olor persistente. Es la excepción, no la regla, pero preferimos avisarlo." },
+      { question: "¿Qué tamaño tiene?", answer: "55 cm de largo por 40 cm de altura y 13 cm de espesor, según la ficha técnica." },
+      { question: "¿La funda se puede lavar?", answer: "Sí, es removible y lavable." },
+      { question: "¿Es la más vendida de la categoría?", answer: "Es la 2° más vendida en Almohadas de MercadoLibre Argentina, el mejor puesto de ranking de esta comparativa, aunque la Gadnic tiene más reseñas totales acumuladas." },
+    ],
+  },
+  {
+    id: "MLA14111963",
+    title: "Almohada Cervical Fiberball Sensitive Antiácaros",
+    canonicalName: "Fiberball Sensitive 60x40cm",
+    brand: "Fiberball",
+    price: 33959,
+    originalPrice: 38900,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_767365-MLA80824296785_112024-F.webp",
+    category: "Salud y Bienestar",
+    categorySlug: "salud-bienestar",
+    permalink: "https://www.mercadolibre.com.ar/almohada-cervical-fiberball-sensitive-espuma-viscoelastica-antiacaros-60x40cm/p/MLA14111963",
+    affiliateUrl: "https://meli.la/1MBFYMg",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.6,
+    reviewCount: 3510,
+    reviewsSampledAt: "2026-10-08",
+    soldQuantity: 10000,
+    visibility: "normal",
+    priceUpdated: "2026-10-08",
+    priceLastChecked: "2026-10-08",
+    priceStatus: "fresh",
+    seoTitle: "Almohada cervical Fiberball Sensitive: la más barata y con más reseñas, ¿vale la pena?",
+    metaDescription: "Almohada cervical Fiberball Sensitive a {{precio:MLA14111963}} con {{reviews:MLA14111963}} calificaciones: la más vendida y con más reseñas de esta comparativa. Antiácaros y la más económica, con contras reales.",
+    pros: [
+      "La más económica de esta comparativa, con +10.000 vendidos",
+      "{{reviews:MLA14111963}} calificaciones: la que más reseñas acumuló de toda esta comparativa, con {{rating:MLA14111963}} estrellas de promedio",
+      "Propiedad antiácaros para un ambiente más higiénico, y funda removible para fácil limpieza",
+      "2° en Almohadas Fiberball, con una reseña real que la compara favorablemente incluso contra almohadas de precio más alto después de 60 días de prueba",
+    ],
+    cons: [
+      "Hay reseñas reales que la describen como demasiado dura: una compradora cuenta que su marido no pudo usarla más de tres días, y a ella le duelen las orejas si duerme de costado",
+      "Al menos un comprador se quejó de que llegó en una bolsa transparente sin marca visible, algo esperable al ser la opción más económica",
+      "No incluye las propiedades hipoalergénica/antibacteriana confirmadas en ficha que sí tiene la Emerald de esta comparativa",
+      "Es más chica (60x40 cm) que la Cannon (70x40 cm)",
+    ],
+    verdict: "Con {{reviews:MLA14111963}} calificaciones, es la almohada cervical con más reseñas acumuladas de toda esta comparativa, además de la más barata. Tiene propiedad antiácaros y buen respaldo general, pero la firmeza no es para todos: hay quejas reales de dureza excesiva, sobre todo para quien duerme de costado. Si el presupuesto manda y no tenés problema con firmeza alta, es la opción más segura por volumen de reseñas.",
+    specs: [
+      { label: "Marca", value: "Fiberball" },
+      { label: "Línea", value: "Espumas Especiales" },
+      { label: "Altura", value: "40 cm" },
+      { label: "Largo", value: "60 cm" },
+      { label: "Cantidad de almohadas", value: "1" },
+      { label: "Diseño", value: "Cervical, para soporte y postura adecuada" },
+      { label: "Material", value: "Espuma viscoelástica con memoria" },
+      { label: "Propiedad antiácaros", value: "Sí" },
+      { label: "Funda", value: "Removible, para fácil limpieza" },
+      { label: "Color", value: "Blanco" },
+    ],
+    relatedProducts: ["MLA62454868", "MLA19726182", "MLA22208983"],
+    articleBody: `## Qué es la Fiberball Sensitive
+
+Es una almohada cervical de espuma viscoelástica con propiedad antiácaros, {{reviews:MLA14111963}} calificaciones y {{rating:MLA14111963}} estrellas en MercadoLibre Argentina, vendida a {{precio:MLA14111963}}. Es la 2° más vendida de las almohadas Fiberball, con más de 10.000 unidades vendidas, y también la más económica de esta comparativa.
+
+## La más probada de esta comparativa
+
+Con {{reviews:MLA14111963}} calificaciones, es la almohada con más reseñas acumuladas de las cuatro de esta guía, muy por encima de la Gadnic ({{reviews:MLA62454868}}) o la Emerald ({{reviews:MLA19726182}}). Una reseña con 68 votos útiles, después de usarla 60 días, resume bien el perfil del producto: **"Luego de 60 dias de prueba, puedo decir que el producto es muy bueno! si estás acostumbrado a almohadas duras, ésta te va a parecer blanda"**.
+
+## El dato honesto: hay quejas reales de dureza
+
+No todas las reseñas son positivas sobre la firmeza. Una compradora con 2 votos útiles cuenta: **"Son durisimas. Mi marido no la pudo usar mas que tres días. Y yo la sigo usando pero alterno porque me hace doler las orejas"**. Otra reseña, también de 2 estrellas, apunta a la presentación: **"Son almohadas genéricas, vinieron en bolsas trasparentes sin marca"**, algo esperable tratándose de la opción más económica del grupo.
+
+## Antiácaros, para un descanso más higiénico
+
+Según su ficha técnica, tiene propiedad antiácaros, pensada para un ambiente de descanso más higiénico, y funda removible para facilitar la limpieza. No está marcada como hipoalergénica ni antibacteriana en ficha, a diferencia de la Emerald y la Cannon de esta comparativa.
+
+## Para quién es, y para quién no
+
+Es para vos si el precio es el factor que más pesa y no tenés problema con una firmeza alta: tiene el mayor respaldo de reseñas de esta comparativa.
+
+No es para vos si dormís de costado y sos sensible a la presión en las orejas, o si preferís algo blando desde el primer uso: varias reseñas reales reportan dureza excesiva.`,
+    faq: [
+      { question: "¿Es la más barata de esta comparativa?", answer: "Sí, a {{precio:MLA14111963}} es la más económica de las cuatro almohadas cervicales de esta guía." },
+      { question: "¿Es muy dura?", answer: "Depende de la persona. Hay reseñas que la comparan favorablemente contra almohadas más duras, pero también hay quejas reales de dureza excesiva, sobre todo para quien duerme de costado y es sensible en la zona de las orejas." },
+      { question: "¿Tiene propiedad antiácaros?", answer: "Sí, según su ficha técnica, pensada para un ambiente de descanso más higiénico." },
+      { question: "¿Es hipoalergénica?", answer: "Su ficha técnica no lo confirma, a diferencia de la Emerald y la Cannon de esta misma comparativa." },
+      { question: "¿Viene en una caja con marca?", answer: "Según al menos un comprador, puede llegar en una bolsa transparente sin marca visible, algo habitual en la opción más económica de una categoría." },
+      { question: "¿Cuántas calificaciones tiene?", answer: "{{reviews:MLA14111963}} calificaciones, la mayor cantidad de esta comparativa." },
+    ],
+  },
+  {
+    id: "MLA22208983",
+    title: "Almohada Inteligente Viscoelástica Cannon Dual Confort Absoluto",
+    canonicalName: "Cannon Dual Confort Absoluto 70x40",
+    brand: "Cannon",
+    price: 77633,
+    originalPrice: 149000,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_998509-MLA79765663219_102024-F.webp",
+    category: "Salud y Bienestar",
+    categorySlug: "salud-bienestar",
+    permalink: "https://www.mercadolibre.com.ar/almohada-inteligente-viscoelastica-cannon-dual-confort-absoluto-70x40/p/MLA22208983",
+    affiliateUrl: "https://meli.la/2bAThBs",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.6,
+    reviewCount: 2568,
+    reviewsSampledAt: "2026-10-08",
+    soldQuantity: 10000,
+    visibility: "normal",
+    priceUpdated: "2026-10-08",
+    priceLastChecked: "2026-10-08",
+    priceStatus: "fresh",
+    seoTitle: "Almohada cervical Cannon Dual Confort Absoluto: precio y si la aromaterapia es real",
+    metaDescription: "Almohada Cannon Dual Confort Absoluto a {{precio:MLA22208983}} con {{reviews:MLA22208983}} calificaciones. La más grande de esta comparativa (70x40cm), de marca reconocida, con aromaterapia que una reseña real describe con humor.",
+    pros: [
+      "Cannon es una marca de blanquería reconocida en Argentina, a diferencia del resto de marcas genéricas de esta comparativa",
+      "La más grande de las 4: 70 cm de largo contra 55-60 cm del resto, con {{reviews:MLA22208983}} calificaciones",
+      "Hipoalergénica y con propiedades antibacterianas confirmadas en ficha, igual que la Emerald",
+      "Incluye aromaterapia real (no solo en el marketing): varias reseñas la confirman, aunque con un matiz honesto que aclaramos abajo",
+    ],
+    cons: [
+      "El precio que vimos corresponde a una oferta relámpago con unidades limitadas: otros vendedores de la misma publicación la ofrecen a $89.114, así que confirmá el precio vigente antes de comprar",
+      "El aroma de la aromaterapia dura poco: una reseña real con 46 votos útiles avisa que \"dura lo que dura un político honesto\"",
+      "La ficha de MercadoLibre la describe con \"tecnología inteligente que alivia dolores y mejora el sueño\", una frase de marketing vaga que no corresponde a ninguna función verificable más allá de la espuma viscoelástica",
+      "Según una reseña real, no es ideal para quien prefiere almohadas muy altas",
+    ],
+    verdict: "Con {{reviews:MLA22208983}} calificaciones y el respaldo de una marca de blanquería reconocida en Argentina, es la opción de esta comparativa para quien prefiere más superficie de apoyo (70x40 cm, la más grande de las 4) y confía más en una marca establecida que en una genérica. La aromaterapia es real, pero no esperes que dure: las reseñas coinciden en que se va rápido. Eso sí, el precio que vimos es de oferta relámpago: confirmá el valor vigente antes de comprar.",
+    specs: [
+      { label: "Marca", value: "Cannon" },
+      { label: "Espesor", value: "12 cm" },
+      { label: "Altura", value: "40 cm" },
+      { label: "Largo", value: "70 cm" },
+      { label: "Cantidad de almohadas", value: "1" },
+      { label: "Material", value: "Espuma viscoelástica que se adapta a la forma del cuello y cabeza" },
+      { label: "Hipoalergénica", value: "Sí" },
+      { label: "Propiedades antibacterianas", value: "Sí" },
+      { label: "Aromaterapia", value: "Sí, diseño con aromaterapia para aliviar molestias cervicales" },
+      { label: "Funda", value: "Removible, lavable" },
+    ],
+    relatedProducts: ["MLA62454868", "MLA19726182", "MLA14111963"],
+    articleBody: `## Qué es la Cannon Dual Confort Absoluto
+
+Es una almohada cervical viscoelástica de Cannon, marca de blanquería reconocida en Argentina, con {{reviews:MLA22208983}} calificaciones y {{rating:MLA22208983}} estrellas en MercadoLibre Argentina, vendida a {{precio:MLA22208983}}. Con 70 cm de largo, es la más grande de esta comparativa: el resto va de 55 a 60 cm.
+
+## Marca reconocida, no genérica
+
+A diferencia de las otras tres de esta comparativa (marcas más chicas o directamente genéricas, como advierte una reseña de la Fiberball), Cannon es una marca de blanquería con trayectoria en el mercado argentino. Su ficha técnica confirma propiedades hipoalergénicas y antibacterianas, igual que la Emerald.
+
+## La aromaterapia es real, pero no dura
+
+La ficha del vendedor promete "diseño con aromaterapia para aliviar molestias cervicales", y el resumen de opiniones generado a partir de las reseñas reales confirma que "se destaca por su frescura y agradable aroma". Pero una reseña real con 46 votos útiles le pone el contrapeso honesto con humor: **"El producto es bueno, no es lo premium pero cumple con su cometido, el aroma dura lo que dura un político honesto. Es muy comoda, y la elasticidad se mantiene intacto, la altura de la almohada está bien para mí, al que le gusta almohadas muy altas este producto no creo que sea para ellos"**. Es decir: el aroma existe al principio, pero no esperes que dure semanas.
+
+## Ojo con el precio: puede ser una oferta relámpago
+
+El precio que vimos al sourcear esta ficha correspondía a una "oferta relámpago" con pocas unidades restantes. La misma publicación, vendida por otro local (Colchonerías San Martín), la ofrecía a $89.114 sin oferta relámpago. Como con cualquier flash sale, el precio más bajo puede no sostenerse: confirmá el valor vigente en MercadoLibre antes de decidir.
+
+## "Tecnología inteligente", la frase que hay que leer con pinzas
+
+La ficha del vendedor también promete "tecnología inteligente que alivia dolores y mejora el sueño". No hay ninguna especificación técnica concreta detrás de esa frase: no es más que la espuma viscoelástica con memoria que ya tienen el resto de las almohadas de esta comparativa. Tratala como marketing, no como una función verificable.
+
+## Para quién es, y para quién no
+
+Es para vos si preferís el respaldo de una marca de blanquería reconocida, necesitás más superficie de apoyo (70 cm de largo) y no te molesta que el aroma inicial se desvanezca con el uso.
+
+No es para vos si te gustan las almohadas muy altas (una reseña real avisa que esta no lo es) o si vas a comprar específicamente por la "tecnología inteligente" prometida: es una frase de marketing, no una función concreta.`,
+    faq: [
+      { question: "¿La aromaterapia es real?", answer: "Sí, según el resumen de reseñas reales se nota al principio (\"frescura y agradable aroma\"), pero una reseña real con muchos votos útiles avisa que el aroma dura poco: \"lo que dura un político honesto\"." },
+      { question: "¿Qué significa la \"tecnología inteligente\" que menciona la publicación?", answer: "No corresponde a ninguna función técnica verificable: es espuma viscoelástica con memoria, igual que el resto de las almohadas de esta comparativa. Tratalo como una frase de marketing." },
+      { question: "¿Es más grande que las otras de esta comparativa?", answer: "Sí, mide 70 cm de largo contra 55-60 cm del resto: es la que más superficie de apoyo ofrece." },
+      { question: "¿El precio siempre es el que figura en la ficha?", answer: "No necesariamente: el precio relevado corresponde a una oferta relámpago con unidades limitadas. Otro vendedor de la misma publicación la ofrecía a un precio más alto. Confirmá el valor vigente antes de comprar." },
+      { question: "¿Es hipoalergénica?", answer: "Sí, según su ficha técnica, junto con propiedades antibacterianas, igual que la Emerald de esta comparativa." },
+      { question: "¿Sirve si me gustan las almohadas muy altas?", answer: "Según una reseña real, no es la ideal para eso: la altura está pensada para un perfil medio, no para quien prefiere almohadas muy altas." },
+    ],
+  },
 ];
 
 export const categoryPastels: Record<string, string> = {

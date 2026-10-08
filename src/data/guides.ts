@@ -5467,6 +5467,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     directAnswer: `Si solo querés pesarte, la **[Femmto BWS11](/producto/balanza-digital-con-bluetooth-personal-de-bano-peso-corporal-180-kg-diseno-minim-mla15503957)** (alrededor de {{precio:MLA15503957:k}}) alcanza y sobra: es la más vendida, con más de 72.000 opiniones. Para grasa corporal, IMC y app, la [Utile UT-1108](/producto/balanza-de-bano-personal-inteligente-bluetooth-200-kg-utile-azul-mla65535495), que además llega a 200 kg (la Femmto BCS15 está sin stock por el momento).`,
     publishedDate: "2026-07-10",
     updatedDate: "2026-08-31",
+    sitemapLastmod: "2026-10-08",
     hasDisclosure: true,
     readingTime: 8,
     standfirst: `Una balanza digital va de $12.000 (solo pesa) a $80.000 (marca médica reconocida) o con análisis corporal completo. Te mostramos cuál conviene según qué necesitás, comparando las más vendidas de Argentina con precios reales de MercadoLibre.`,
@@ -5562,6 +5563,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { label: "Nebulizador: cuál comprar en Argentina", href: "/guias/salud-bienestar/nebulizador" },
       { label: "Tensiómetro digital: cuál comprar en Argentina", href: "/guias/salud-bienestar/tensiometro-digital" },
       { label: "Termómetro digital: cuál comprar en Argentina", href: "/guias/salud-bienestar/termometro-digital" },
+      { label: "Almohada cervical: cuál comprar en Argentina", href: "/guias/salud-bienestar/almohada-cervical" },
     ],
     internalLinksTitle: "Más para tu salud en casa",
   },
@@ -24718,6 +24720,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     directAnswer: `Para la mayoría conviene el **[Omron HEM-7142](/producto/omron-tensiometro-hem-7142-digital-automatico-de-brazo-color-blanco-mla24044627)** (alrededor de {{precio:MLA24044627:k}}): de brazo, la marca con más respaldo real (27.369 opiniones). Si buscás el precio más bajo, la [Coronet YK-BPW4](/producto/tensiometro-digital-de-muneca-medidor-de-presion-arterial-color-blanco-mla22255575), de muñeca. Si preferís la marca líder en formato compacto, el [Omron HEM-6124](/producto/tensiometro-digital-de-muneca-automatico-omron-hem-6124-gris-mla24111585). Y si querés que el tensiómetro te avise si el pulso fue irregular durante la medición, el [Microlife BP A200 AFIB](/producto/tensiometro-digital-de-brazo-microlife-bp-a200-afib-blanco-mla24533653).`,
     publishedDate: "2026-07-20",
     updatedDate: "2026-09-16",
+    sitemapLastmod: "2026-10-08",
     hasDisclosure: true,
     readingTime: 7,
     standfirst: `Un tensiómetro digital va de {{precio:MLA22255575:k}} (muñeca, el más económico) a {{precio:MLA24533653:k}} (brazo, con aviso de pulso irregular). La decisión real pasa por brazo o muñeca, y si necesitás una función especializada. Te mostramos cuál conviene, con precios reales de MercadoLibre.`,
@@ -24795,6 +24798,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { label: "Balanza digital: cuál comprar en Argentina", href: "/guias/salud-bienestar/balanza-digital" },
       { label: "Nebulizador: cuál comprar en Argentina", href: "/guias/salud-bienestar/nebulizador" },
       { label: "Termómetro digital: cuál comprar en Argentina", href: "/guias/salud-bienestar/termometro-digital" },
+      { label: "Almohada cervical: cuál comprar en Argentina", href: "/guias/salud-bienestar/almohada-cervical" },
     ],
     internalLinksTitle: "Más para tu salud en casa",
   },
@@ -25842,6 +25846,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     directAnswer: `Para la mayoría conviene el **[Citizen CTA301C](/producto/citizen-cta301c-termometro-digital-silfab-oral-rectal-axilar-mla35944743)** (alrededor de {{precio:MLA35944743:k}}): el más vendido de la categoría, con ANMAT declarado. Si buscás el más barato, el **[NEKOMMERCE](/producto/termometro-digital-nekommerce-axila-oral-lcd-alarma-bebes-ninos-adultos-mla53648273)** (alrededor de {{precio:MLA53648273:k}}). Si preferís medir sin contacto, el **[BBLove](/producto/termometro-digital-infrarrojo-bblove-modelo-aet-r1b1-sin-contacto-frontal-blanco-mla28449145)**. Y si querés el más completo, con memoria de mediciones, el **[Lepu LFR30B](/producto/termometro-digital-infrarrojo-lepu-lfr30b-frente-memoria-adultos-ninos-mla50045029)**, también con ANMAT declarado.`,
     publishedDate: "2026-07-20",
     updatedDate: "2026-07-19",
+    sitemapLastmod: "2026-10-08",
     hasDisclosure: true,
     readingTime: 7,
     standfirst: `Un termómetro digital va de {{precio:MLA53648273:k}} (el más barato) a {{precio:MLA50045029:k}} (el más completo). La diferencia real no es solo el precio: es si mide por contacto o a distancia, cuánto tarda, y si declara certificación ANMAT. Comparamos 4 con precios reales de MercadoLibre Argentina.`,
@@ -25920,6 +25925,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { label: "Balanza digital: cuál comprar en Argentina", href: "/guias/salud-bienestar/balanza-digital" },
       { label: "Nebulizador: cuál comprar en Argentina", href: "/guias/salud-bienestar/nebulizador" },
       { label: "Tensiómetro digital: cuál comprar en Argentina", href: "/guias/salud-bienestar/tensiometro-digital" },
+      { label: "Almohada cervical: cuál comprar en Argentina", href: "/guias/salud-bienestar/almohada-cervical" },
     ],
     internalLinksTitle: "Más para tu salud en casa",
   },
@@ -34564,6 +34570,126 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     ],
     internalLinksTitle: "Más para tu mascota",
   },
+
+  // ─────────────────────────────────────────────────────────
+  // PILAR almohada-cervical — silo salud-bienestar
+  // Origen: hub de afiliados ML 2026-10-08 ("Más buscados"), keyword
+  // "almohada cervical" 8.100/mes AR, SERP ganable (Fravega/Easy/Simmons
+  // mezclados con tiendas chicas, sin comparador editorial dominante).
+  // 4 fichas nuevas, sourcing en vivo el mismo día (Chrome de Juan, ML
+  // bloquea el navegador interno). Ninguna de las 4 ya existía en el
+  // catálogo (verificado por ID antes de escribir, tras el incidente de
+  // duplicados de la ronda anterior con los productos Femmto).
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "almohada-cervical",
+    category: "almohadas-cervicales",
+    silo: "salud-bienestar",
+    pillar: true,
+    title: `Almohada cervical: cuál comprar en Argentina [2026]`,
+    seoTitle: `Almohada Cervical: Cuál Comprar en Argentina | 2026`,
+    metaDescription: `Comparamos 4 almohadas cervicales reales de MercadoLibre: la más vendida, la mejor rankeada, la de diseño mariposa y la más grande. Con contras honestas, incluida la firmeza.`,
+    ogTitle: `Almohada cervical: cuál comprar en Argentina`,
+    ogDescription: `De la más económica y vendida a la de marca reconocida: 4 almohadas cervicales comparadas por respaldo real de reseñas, con la firmeza (el punto que más divide opiniones) aclarada sin vueltas.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_2X_767365-MLA80824296785_112024-F.webp`,
+    h1: `Almohada cervical: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene la **[Fiberball Sensitive](/producto/almohada-cervical-fiberball-sensitive-antiacaros-mla14111963)** (alrededor de {{precio:MLA14111963:k}}): la más barata, la más vendida y la que más reseñas acumuló de esta comparativa. Si tenés alergias o preferís la mejor rankeada en ventas, la **[Emerald Antialérgica](/producto/almohada-cervical-viscoelastica-emerald-antialergica-mla19726182)** (hipoalergénica y antibacteriana). Si dormís de costado y de boca arriba por igual, la **[Gadnic DORM0003](/producto/almohada-cervical-ortopedica-gadnic-dorm0003-mla62454868)** con su diseño mariposa de doble altura. Y si preferís una marca reconocida y más superficie de apoyo, la **[Cannon Dual Confort Absoluto](/producto/almohada-inteligente-viscoelastica-cannon-dual-confort-absoluto-mla22208983)** (70 cm, la más grande).`,
+    publishedDate: "2026-10-08",
+    updatedDate: "2026-10-08",
+    hasDisclosure: true,
+    readingTime: 9,
+    standfirst: `Una almohada cervical va de {{precio:MLA14111963:k}} (la más vendida) a {{precio:MLA22208983:k}} (de marca reconocida y la más grande). Te mostramos cuál conviene según tu postura al dormir y tu presupuesto, comparando las más vendidas de Argentina con precios reales de MercadoLibre — incluida la firmeza, el punto que más divide opiniones entre compradores reales.`,
+    quickPicks: [
+      { productMlaId: "MLA14111963", label: "La más vendida", labelColor: "green", tagline: "Fiberball Sensitive: la más barata, con más de 10.000 vendidas y {{reviews:MLA14111963}} calificaciones" },
+      { productMlaId: "MLA19726182", label: "Mejor rankeada", labelColor: "blue", tagline: "Emerald Antialérgica: 2° en ventas, hipoalergénica y antibacteriana" },
+      { productMlaId: "MLA62454868", label: "Diseño mariposa", labelColor: "purple", tagline: "Gadnic DORM0003: doble altura para dormir boca arriba o de costado" },
+      { productMlaId: "MLA22208983", label: "La más grande", labelColor: "amber", tagline: "Cannon Dual Confort Absoluto: 70 cm y marca de blanquería reconocida" },
+    ],
+    intro: [
+      `Una almohada cervical promete alinear cuello, cabeza y hombros para dormir mejor y despertar sin dolor. El problema es que la firmeza —lo que más define si te va a gustar o no— es imposible de probar antes de comprar, y es justo el punto donde más difieren las reseñas de un mismo producto: lo que para uno es "firme pero cómoda", para otro es "como dormir sobre una piedra".`,
+      `En esta guía comparamos las almohadas cervicales más vendidas de Argentina por respaldo real de reseñas, precio y diseño, incluyendo las quejas de firmeza tal como las compradores las describen, para que elijas con los ojos abiertos.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_767365-MLA80824296785_112024-F.webp", alt: `Almohada cervical Fiberball Sensitive, la más vendida de Argentina`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría conviene la **[Fiberball Sensitive](/producto/almohada-cervical-fiberball-sensitive-antiacaros-mla14111963)**: la más barata y la que más reseñas acumuló. Si tenés alergias, la **[Emerald Antialérgica](/producto/almohada-cervical-viscoelastica-emerald-antialergica-mla19726182)** (hipoalergénica, mejor rankeada). Si alternás entre dormir boca arriba y de costado, la **[Gadnic DORM0003](/producto/almohada-cervical-ortopedica-gadnic-dorm0003-mla62454868)** con su diseño mariposa. Y si preferís marca reconocida y más tamaño, la **[Cannon Dual Confort Absoluto](/producto/almohada-inteligente-viscoelastica-cannon-dual-confort-absoluto-mla22208983)**.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos las almohadas cervicales con más ventas y opiniones reales en MercadoLibre Argentina. Las ordenamos por lo que define la compra: **firmeza** (según lo que describen los propios compradores, no el marketing), **tamaño**, si son **hipoalergénicas/antibacterianas** según su ficha técnica, y precio real. Citamos reseñas de 5 estrellas y de 2 estrellas por igual: la firmeza es subjetiva, y silenciar las quejas sería deshonesto. Los precios que ves en las fichas y tablas se revisan contra MercadoLibre varias veces por semana.` },
+
+      { type: "h2", title: `Qué mirar antes de comprar una almohada cervical`, id: "que-mirar" },
+      { type: "p", content: `Lo primero, y lo más importante: la **firmeza es un gusto personal**, y ninguna ficha técnica te lo va a decir con precisión. Por eso en esta guía citamos reseñas de 5 estrellas junto con reseñas de 2 estrellas del mismo producto — vas a ver que para el mismo modelo, alguien la describe como "firme pero cómoda" y otra persona como "insoportablemente dura". Leer varias reseñas reales (no solo el promedio de estrellas) es la mejor forma de anticipar si te va a convenir.` },
+      { type: "p", content: `Segundo, el **tamaño**: las de esta comparativa van de 55 a 70 cm de largo. Si tenés hombros anchos o preferís más superficie de apoyo, la más grande te va a convenir más. Tercero, si tenés alergias o sensibilidad respiratoria, buscá que la ficha técnica confirme **hipoalergénica y antibacteriana** de forma explícita, no solo que lo diga el título del anuncio.` },
+
+      { type: "h2", title: `Las mejores almohadas cervicales 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Fiberball Sensitive — la más vendida` },
+      { type: "product-card", productMlaId: "MLA14111963", label: "La más vendida", labelColor: "green", ranking: 1, description: `Antiácaros, más de 10.000 vendidas y {{reviews:MLA14111963}} calificaciones: la de mayor respaldo y la más económica de esta comparativa.` },
+      { type: "p", content: `Si el precio pesa en la decisión, es esta. La Fiberball Sensitive es la más barata de las cuatro, a alrededor de {{precio:MLA14111963:k}}, con más de 10.000 vendidas y la que más reseñas acumuló ({{reviews:MLA14111963}}) de toda esta comparativa. Tiene propiedad antiácaros y funda removible para fácil limpieza.` },
+      { type: "p", content: `Lo honesto: la firmeza genera quejas reales. Una compradora cuenta que a su marido le duró tres días de uso y a ella le duele la oreja si duerme de costado. Si preferís algo más blando desde el primer uso, mirá la Emerald más abajo.` },
+      { type: "pull-quote", content: `"Luego de 60 dias de prueba, puedo decir que el producto es muy bueno! si estás acostumbrado a almohadas duras, ésta te va a parecer blanda."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `2. Emerald Antialérgica — la mejor rankeada` },
+      { type: "product-card", productMlaId: "MLA19726182", label: "Mejor rankeada", labelColor: "blue", ranking: 2, description: `2° más vendida en Almohadas de MercadoLibre, hipoalergénica y antibacteriana según su ficha técnica. {{rating:MLA19726182}} estrellas en {{reviews:MLA19726182}} calificaciones.` },
+      { type: "p", content: `La Emerald ocupa el 2° puesto del ranking de ventas de la categoría Almohadas de MercadoLibre, mejor posición que cualquier otra de esta comparativa, a alrededor de {{precio:MLA19726182:k}}. Su ficha técnica confirma hipoalergénica y antibacteriana, algo que no todas declaran. Hay testimonios reales de compradoras con escoliosis y rectificación cervical que notaron alivio real de dolor.` },
+      { type: "p", content: `Lo honesto: la mayoría la describe sin olor, pero hay una reseña real que reporta un olor persistente que no se fue ni ventilándola. Es la excepción entre las reseñas, no la regla, pero preferimos avisarlo.` },
+      { type: "pull-quote", content: `"Tengo escoliosis y cervical rectificada, compré la almohada para intentar levantarme con menos dolores de cuello que desemboquen en una migraña y mucho malestar."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `3. Gadnic DORM0003 — diseño mariposa` },
+      { type: "product-card", productMlaId: "MLA62454868", label: "Diseño mariposa", labelColor: "purple", ranking: 3, description: `Doble altura ergonómica para dormir boca arriba o de costado, con orificios laterales para los brazos. {{reviews:MLA62454868}} calificaciones en MercadoLibre Argentina.` },
+      { type: "p", content: `Si alternás entre dormir boca arriba y de costado, el diseño mariposa de la Gadnic tiene dos alturas distintas pensadas justo para eso, además de orificios laterales para apoyar los brazos y reducir presión en los hombros, a alrededor de {{precio:MLA62454868:k}}.` },
+      { type: "p", content: `Lo honesto: el diseño de doble altura no es intuitivo para todos (al menos un comprador no entendía cómo usarlo), y la firmeza también genera quejas reales acá, como en la Fiberball.` },
+      { type: "pull-quote", content: `"Recomiendo para los que, como yo, sufren dolor cervical por postura del sueño. La almohada no es rigida pero es firme, te sostiene, y si bien te permite dormir de lado, te obliga a mantener la cabeza en el centro de la almohada."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `4. Cannon Dual Confort Absoluto — la más grande` },
+      { type: "product-card", productMlaId: "MLA22208983", label: "La más grande", labelColor: "amber", ranking: 4, description: `70 cm de largo (la más grande de esta comparativa), de Cannon, marca de blanquería reconocida en Argentina. Hipoalergénica y con aromaterapia real.` },
+      { type: "p", content: `Si preferís el respaldo de una marca de blanquería establecida en vez de una genérica, Cannon es la opción: con 70 cm de largo es la más grande de esta comparativa (el resto va de 55 a 60 cm), hipoalergénica y antibacteriana según ficha, a alrededor de {{precio:MLA22208983:k}}.` },
+      { type: "p", content: `Lo honesto: el precio que vimos corresponde a una oferta relámpago con unidades limitadas (otro vendedor de la misma publicación la ofrecía más cara), así que confirmá el valor vigente. Y la aromaterapia que promete es real al principio, pero no dura: una reseña lo resume mejor que cualquiera.` },
+      { type: "pull-quote", content: `"El producto es bueno, no es lo premium pero cumple con su cometido, el aroma dura lo que dura un político honesto. Es muy comoda."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h2", title: `Tabla comparativa: por firmeza, tamaño y precio`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Tamaño`, `Hipoalergénica`, `Ideal para`], rows: [
+        [`[Fiberball Sensitive](https://meli.la/1MBFYMg)`, `{{precio:MLA14111963}}`, `60x40 cm`, `No confirmado`, `La más barata y la más vendida`],
+        [`[Emerald Antialérgica](https://meli.la/14WZFWe)`, `{{precio:MLA19726182}}`, `55x40 cm`, `Sí`, `Alergias y mejor ranking de ventas`],
+        [`[Gadnic DORM0003](https://meli.la/2ETMmCK)`, `{{precio:MLA62454868}}`, `60x12 cm`, `No confirmado`, `Alternar boca arriba y de costado`],
+        [`[Cannon Dual Confort Absoluto](https://meli.la/2bAThBs)`, `{{precio:MLA22208983}}`, `70x40 cm`, `Sí`, `Marca reconocida y más superficie`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu almohada cervical`, id: "como-elegir" },
+      { type: "h3", title: `1. La firmeza es lo primero, y es subjetivo` },
+      { type: "p", content: `No existe una almohada cervical que le guste a todo el mundo por igual. Antes de comprar, leé varias reseñas reales del modelo que te interesa (no solo el promedio de estrellas) buscando palabras como "dura", "firme" o "blanda": es la mejor forma de anticipar si te va a convenir, porque ninguna ficha técnica te lo va a decir con precisión.` },
+      { type: "h3", title: `2. ¿Cómo dormís: boca arriba, de costado o ambos?` },
+      { type: "p", content: `Si alternás entre las dos posiciones, la [Gadnic DORM0003](/producto/almohada-cervical-ortopedica-gadnic-dorm0003-mla62454868) con su diseño mariposa de doble altura está pensada justo para eso. Si dormís siempre en la misma posición, cualquiera de las otras tres cumple sin ese diferencial.` },
+      { type: "h3", title: `3. Alergias y tamaño` },
+      { type: "p", content: `Si tenés alergias o sensibilidad respiratoria, priorizá una ficha técnica que confirme hipoalergénica y antibacteriana de forma explícita: la [Emerald](/producto/almohada-cervical-viscoelastica-emerald-antialergica-mla19726182) y la [Cannon](/producto/almohada-inteligente-viscoelastica-cannon-dual-confort-absoluto-mla22208983) lo hacen. Y si tenés hombros anchos o preferís más superficie de apoyo, la Cannon es la más grande de esta comparativa con 70 cm de largo.` },
+      { type: "p", content: `Si el dolor cervical es más por tensión muscular que por postura al dormir, puede que te sirva más un [masajeador cervical eléctrico](/producto/masajeador-cervical-electrico-portatil-inalambrico-bateria-recargable-usb-femmto-mla24127896) que una almohada — son soluciones distintas para causas distintas.` },
+
+      { type: "h2", title: `Cuánto cuesta una almohada cervical en Argentina [octubre 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de {{precio:MLA14111963:k}}:** la más barata y la más vendida, la [Fiberball Sensitive](https://meli.la/1MBFYMg).`,
+        `**Alrededor de {{precio:MLA19726182:k}}:** hipoalergénica y 2° en el ranking de ventas, la [Emerald Antialérgica](https://meli.la/14WZFWe).`,
+        `**Alrededor de {{precio:MLA62454868:k}}:** diseño mariposa de doble altura, la [Gadnic DORM0003](https://meli.la/2ETMmCK).`,
+        `**Alrededor de {{precio:MLA22208983:k}}:** marca reconocida y la más grande, la [Cannon Dual Confort Absoluto](https://meli.la/2bAThBs) — ojo, ese precio corresponde a una oferta relámpago, confirmá el valor vigente.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál almohada cervical comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la mayoría, la **[Fiberball Sensitive](/producto/almohada-cervical-fiberball-sensitive-antiacaros-mla14111963)**: la más barata, la más vendida y la que más reseñas acumuló. Si tenés alergias, la **[Emerald Antialérgica](/producto/almohada-cervical-viscoelastica-emerald-antialergica-mla19726182)** (hipoalergénica, mejor rankeada en ventas). Si alternás entre dormir boca arriba y de costado, la **[Gadnic DORM0003](/producto/almohada-cervical-ortopedica-gadnic-dorm0003-mla62454868)** con su diseño mariposa. Y si preferís marca reconocida y más tamaño, la **[Cannon Dual Confort Absoluto](/producto/almohada-inteligente-viscoelastica-cannon-dual-confort-absoluto-mla22208983)**. El error a evitar: comprar sin leer reseñas de firmeza primero — es el punto que más divide opiniones en las cuatro.` },
+    ],
+    faq: [
+      { question: `¿Cuál es la mejor almohada cervical en Argentina?`, answer: `Por ventas y respaldo de reseñas, la [Fiberball Sensitive](https://meli.la/1MBFYMg): la más barata, con más de 10.000 vendidas. Si tenés alergias, la [Emerald Antialérgica](https://meli.la/14WZFWe) (hipoalergénica, 2° en el ranking de ventas de la categoría).` },
+      { question: `¿Las almohadas cervicales son muy duras?`, answer: `Depende del modelo y de la persona: es el punto que más divide opiniones en las reseñas reales. Varias tienen quejas honestas de dureza excesiva (sobre todo la Fiberball y la Gadnic), mientras que otras compradoras las describen como firmes pero cómodas. Leer varias reseñas del modelo puntual antes de comprar es la mejor forma de anticiparlo.` },
+      { question: `¿Cuál conviene si duermo de costado?`, answer: `La [Gadnic DORM0003](https://meli.la/2ETMmCK) tiene un diseño mariposa con doble altura pensado para alternar entre dormir boca arriba y de costado.` },
+      { question: `¿Cuál es hipoalergénica?`, answer: `La [Emerald Antialérgica](https://meli.la/14WZFWe) y la [Cannon Dual Confort Absoluto](https://meli.la/2bAThBs) confirman en su ficha técnica que son hipoalergénicas y antibacterianas. Las otras dos no lo declaran.` },
+      { question: `¿Cuál es la más grande?`, answer: `La [Cannon Dual Confort Absoluto](https://meli.la/2bAThBs), con 70 cm de largo. El resto de esta comparativa mide entre 55 y 60 cm.` },
+      { question: `¿Una almohada cervical cura el dolor de cuello?`, answer: `No reemplaza un diagnóstico ni tratamiento médico. Varias compradoras con cuadros reales (escoliosis, rectificación cervical) reportan alivio usándolas a diario, pero ante dolor persistente lo indicado es consultar a un profesional.` },
+      { question: `¿Cuánto dura la aromaterapia de la Cannon?`, answer: `Según las propias reseñas, se nota al principio pero no dura mucho tiempo. No es el motivo principal para elegirla: la marca reconocida y el tamaño son su verdadero diferencial.` },
+    ],
+    internalLinks: [
+      { label: "Balanza digital: cuál comprar en Argentina", href: "/guias/salud-bienestar/balanza-digital" },
+      { label: "Tensiómetro digital: cuál comprar en Argentina", href: "/guias/salud-bienestar/tensiometro-digital" },
+      { label: "Termómetro digital: cuál comprar en Argentina", href: "/guias/salud-bienestar/termometro-digital" },
+    ],
+    internalLinksTitle: "Más para tu salud en casa",
+  },
 ];
 
 /**
@@ -35004,6 +35130,11 @@ export const guideCategories: Record<string, { name: string; description: string
     name: "Guía de Salud y Bienestar",
     description:
       "Balanzas digitales y otros equipos para controlar tu salud en casa: cuáles miden bien y cuáles son solo un número en una pantalla.",
+  },
+  "almohadas-cervicales": {
+    name: "Guía de Almohadas Cervicales",
+    description:
+      "Comparadas por firmeza real (según las reseñas, no el marketing), tamaño y precio, con precios reales de MercadoLibre.",
   },
   seguridad: {
     name: "Guía de Cámaras de Seguridad",
