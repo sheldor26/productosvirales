@@ -33,7 +33,7 @@ export function GuidePageView({ guide }: { guide: Guide }) {
     articleSection: guide.category,
     inLanguage: "es-AR",
     author: {
-      "@type": "Person",
+      "@type": "Organization",
       name: "Equipo ProductosVirales",
       url: "https://productosvirales.com.ar/sobre-nosotros",
     },

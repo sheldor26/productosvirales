@@ -194,10 +194,15 @@ export function SortableProductGrid({ products, title, subtitle, priority = true
       )}
 
       {priceBuckets.length > 0 && (
-        <div className="mb-4 flex items-center gap-2 overflow-x-auto snap-x snap-mandatory pb-1">
+        <div
+          role="group"
+          aria-label="Filtrar por precio"
+          className="mb-4 flex items-center gap-2 overflow-x-auto snap-x snap-mandatory pb-1"
+        >
           <button
             type="button"
             onClick={() => startTransition(() => setPriceBucket(null))}
+            aria-pressed={!priceBucket}
             className={`snap-start shrink-0 px-3.5 py-1.5 text-sm font-medium rounded-[var(--radius-pill)] border transition-colors cursor-pointer ${
               !priceBucket
                 ? "bg-[var(--cta-bg)] text-[var(--cta-text)] border-[var(--cta-bg)]"
@@ -214,6 +219,7 @@ export function SortableProductGrid({ products, title, subtitle, priority = true
                 startTransition(() => setPriceBucket(b));
                 window.gtag?.("event", "price_filter", { range: b.label });
               }}
+              aria-pressed={priceBucket?.label === b.label}
               className={`snap-start shrink-0 px-3.5 py-1.5 text-sm font-medium rounded-[var(--radius-pill)] border transition-colors cursor-pointer whitespace-nowrap ${
                 priceBucket?.label === b.label
                   ? "bg-[var(--cta-bg)] text-[var(--cta-text)] border-[var(--cta-bg)]"
@@ -227,7 +233,7 @@ export function SortableProductGrid({ products, title, subtitle, priority = true
       )}
 
       {availableSignals.length > 0 && (
-        <div className="mb-4 flex items-center gap-2 flex-wrap">
+        <div role="group" aria-label="Filtrar por atributo" className="mb-4 flex items-center gap-2 flex-wrap">
           {availableSignals.map((signal) => {
             const active = activeSignals.includes(signal);
             return (
@@ -250,10 +256,15 @@ export function SortableProductGrid({ products, title, subtitle, priority = true
       )}
 
       {availableBrands.length > 0 && (
-        <div className="mb-4 flex items-center gap-2 overflow-x-auto snap-x snap-mandatory pb-1">
+        <div
+          role="group"
+          aria-label="Filtrar por marca"
+          className="mb-4 flex items-center gap-2 overflow-x-auto snap-x snap-mandatory pb-1"
+        >
           <button
             type="button"
             onClick={() => startTransition(() => setBrand(null))}
+            aria-pressed={!brand}
             className={`snap-start shrink-0 px-3.5 py-1.5 text-sm font-medium rounded-[var(--radius-pill)] border transition-colors cursor-pointer ${
               !brand
                 ? "bg-[var(--cta-bg)] text-[var(--cta-text)] border-[var(--cta-bg)]"
@@ -270,6 +281,7 @@ export function SortableProductGrid({ products, title, subtitle, priority = true
                 startTransition(() => setBrand(b));
                 window.gtag?.("event", "brand_filter", { brand: b });
               }}
+              aria-pressed={brand === b}
               className={`snap-start shrink-0 px-3.5 py-1.5 text-sm font-medium rounded-[var(--radius-pill)] border transition-colors cursor-pointer whitespace-nowrap ${
                 brand === b
                   ? "bg-[var(--cta-bg)] text-[var(--cta-text)] border-[var(--cta-bg)]"

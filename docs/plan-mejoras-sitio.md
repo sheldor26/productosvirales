@@ -1188,3 +1188,18 @@ La idea de investigación externa de la iteración 69 (teclado de Android tapand
 **Verificado en navegador:** `document.querySelector('meta[name="viewport"]').content` en la home devuelve `"width=device-width, initial-scale=1, maximum-scale=5, interactive-widget=resizes-content"`. `tsc --noEmit`, `eslint` sobre `layout.tsx` y `npm run build`, todos limpios.
 
 **Con 122 features implementadas, 122 commits locales.**
+
+### Iteración 70 (2026-10-08) — foco visible en alto contraste, estado de filtros expuesto a lectores de pantalla, autor del Schema corregido
+
+**Investigación externa** (ángulo nuevo, con fuente oficial de MDN y la especificación CSS Color Adjustment sobre `forced-colors`) encontró, grepeando `outline-none` en todo `src/`, que 4 inputs del sitio (`SearchInput.tsx`, `NewsletterForm.tsx`, `PriceAlert.tsx`, `NewsletterBanner.tsx`) marcan el foco solo con `focus:ring` (box-shadow) o un cambio de color de borde, nunca con el `outline` real que el propio `globals.css` ya define de forma global para `:focus-visible` — ese `focus:outline-none` de Tailwind (`:focus`, mayor especificidad) le gana al `:focus-visible` global del sitio en esos 4 inputs puntuales. En modo alto contraste (Windows "Temas de contraste" o Firefox HCM), el spec fuerza `box-shadow` a `none`, así que ese segmento de usuarios tabulando hasta el buscador o el newsletter no ve ningún indicador de foco — falla WCAG 2.4.7. **Codex** encontró que los filtros de precio y marca de `SortableProductGrid.tsx` cambian de color al activarse pero no exponen ese estado a un lector de pantalla (sin `aria-pressed`), a diferencia del filtro de atributos que la iteración 55 sí dejó bien hecho; tampoco hay una etiqueta de grupo (`role="group"`) en ninguna de las 3 filas, ni en `CategoryTabs.tsx`. **Gemini** propuso reemplazar la autoría anónima del sitio ("Equipo ProductosVirales") por un curador real con nombre y foto por E-E-A-T — una decisión de identidad y marca personal que excede el alcance de este loop (código/UX, nunca decisiones editoriales ni de marca), así que **no se implementó**: queda para que Juan la evalúe aparte. Sí encontró, de paso, un bug de Schema real y acotado: `GuidePageView.tsx` declaraba `author: { "@type": "Person", name: "Equipo ProductosVirales" }` — un equipo no es una persona física, es un error de tipo de Schema.org independiente de cualquier decisión de marca.
+
+**Implementado (tres features):**
+1. `globals.css`: bloque nuevo `@media (forced-colors: active) { :focus-visible { outline: 2px solid ButtonText !important; ... } }`, que fuerza un outline real sobre cualquier otro estilo de foco en ese modo, sin tocar el resto del sitio.
+2. `aria-pressed` en los botones de precio y marca de `SortableProductGrid.tsx` (ya existía en el filtro de atributos) + `role="group"` con `aria-label` en las 3 filas de filtros de esa grilla y en `CategoryTabs.tsx`.
+3. `GuidePageView.tsx`: `author["@type"]` de `"Person"` a `"Organization"`, sin cambiar el `name` ("Equipo ProductosVirales" sigue siendo el autor declarado) — pura corrección de tipo de Schema, no una decisión de identidad.
+
+**Verificado en navegador:** en `/categoria/tech`, un clic real en "Todos los precios" y después en "Hasta $ 30.000" movió `aria-pressed` de un botón al otro dentro del `role="group"` correspondiente (confirmado leyendo los 8 botones de la fila). En `/guias/robot-aspiradora`, el JSON-LD extraído trae `author: { "@type": "Organization", name: "Equipo ProductosVirales", ... }`.
+
+`tsc --noEmit`, `eslint` sobre los 3 archivos tocados y `npm run build`, todos limpios.
+
+**Con 125 features implementadas, 125 commits locales.**

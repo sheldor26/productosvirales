@@ -30,14 +30,20 @@ interface CategoryTabsProps {
 
 export function CategoryTabs({ activeCategory, onCategoryChange }: CategoryTabsProps) {
   return (
-    <div className="flex gap-2 overflow-x-auto snap-x snap-mandatory hide-scrollbar pb-1">
+    <div
+      role="group"
+      aria-label="Filtrar por categoría"
+      className="flex gap-2 overflow-x-auto snap-x snap-mandatory hide-scrollbar pb-1"
+    >
       {tabs.map((tab) => {
         const Icon = tab.icon;
         const isActive = activeCategory === tab.slug;
         return (
           <button
             key={tab.slug}
+            type="button"
             onClick={() => onCategoryChange(tab.slug)}
+            aria-pressed={isActive}
             className={cn(
               "snap-start flex items-center gap-1.5 px-3.5 py-2 text-xs font-medium whitespace-nowrap rounded-[var(--radius-pill)] transition-all duration-200 shrink-0 cursor-pointer",
               isActive

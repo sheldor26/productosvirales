@@ -376,3 +376,17 @@ h1, h2, h3, h4, h5, h6 {
     color: #000;
   }
 }
+
+/* Alto contraste (Windows "Temas de contraste" / Firefox HCM): forced-colors
+   fuerza box-shadow a `none` y colapsa bordes/fondos a la paleta del sistema,
+   así que los inputs que hoy marcan el foco solo con focus:ring (box-shadow)
+   o un cambio de color de borde (buscador, newsletter, alerta de precio)
+   quedan sin ningún indicador visible — falla WCAG 2.4.7 para ese segmento.
+   El !important es necesario porque esos mismos inputs usan focus:outline-none
+   de Tailwind, con más especificidad que el :focus-visible global de arriba. */
+@media (forced-colors: active) {
+  :focus-visible {
+    outline: 2px solid ButtonText !important;
+    outline-offset: 2px !important;
+  }
+}
