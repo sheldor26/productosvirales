@@ -65,7 +65,11 @@ export function ComparisonTable({ products, onRemove, onClear }: ComparisonTable
                   </button>
                 </div>
 
-                <a href={productHref(p)} className="block relative w-full aspect-square mb-2">
+                <Link
+                  href={productHref(p)}
+                  prefetch={false}
+                  className="block relative w-full aspect-square mb-2"
+                >
                   <Image
                     src={p.image}
                     alt={p.title}
@@ -73,14 +77,15 @@ export function ComparisonTable({ products, onRemove, onClear }: ComparisonTable
                     sizes="150px"
                     className="object-contain"
                   />
-                </a>
+                </Link>
 
-                <a
+                <Link
                   href={productHref(p)}
+                  prefetch={false}
                   className="text-xs font-medium leading-snug text-[var(--text-primary)] line-clamp-2 hover:underline"
                 >
                   {p.title}
-                </a>
+                </Link>
 
                 <div className="mt-2 flex items-baseline gap-1 flex-wrap">
                   <span className="text-base font-bold text-[var(--text-primary)]">

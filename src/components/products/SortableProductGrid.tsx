@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useMemo, useState, useTransition } from "react";
+import { useEffect, useMemo, useRef, useState, useTransition } from "react";
 import { Scale, ArrowDown } from "lucide-react";
 import { ProductGrid } from "./ProductGrid";
 import { ComparisonTable } from "./ComparisonTable";
@@ -66,12 +66,19 @@ export function SortableProductGrid({ products, title, subtitle, priority = true
   const availableBrands = useMemo(() => buildAvailableBrands(products), [products]);
 
   const hasActiveFilters = !!priceBucket || activeSignals.length > 0 || !!brand;
+  // "Limpiar filtros" desmonta su propia fila al clickearse (hasActiveFilters
+  // pasa a false) — sin esto, un lector de pantalla o navegación por teclado
+  // pierde el foco al <body> y hay que tabular desde cero para volver a la
+  // grilla. Se lo devolvemos al contenedor de resultados, que siempre sigue
+  // montado (a diferencia del botón que disparó la acción).
+  const resultsRef = useRef<HTMLDivElement>(null);
   function clearFilters() {
     startTransition(() => {
       setPriceBucket(null);
       setActiveSignals([]);
       setBrand(null);
     });
+    resultsRef.current?.focus();
     window.gtag?.("event", "clear_filters");
   }
 
@@ -321,7 +328,11 @@ export function SortableProductGrid({ products, title, subtitle, priority = true
         </div>
       )}
 
-      <div className={isPending ? "opacity-60 transition-opacity" : "transition-opacity"}>
+      <div
+        ref={resultsRef}
+        tabIndex={-1}
+        className={isPending ? "opacity-60 transition-opacity" : "transition-opacity"}
+      >
         <ProductGrid
           products={pagedVisible}
           priority={priority}

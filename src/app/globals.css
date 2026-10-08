@@ -409,6 +409,33 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+/* "Aumentar contraste" de macOS/iOS/Firefox/Chrome (prefers-contrast: more,
+   MDN: Baseline desde mayo 2022) — distinto de forced-colors (ronda 70, que
+   reemplaza TODA la paleta por colores del sistema en Windows): acá el
+   usuario sigue viendo la paleta del sitio, solo pide reforzarla. Los dos
+   tokens deliberadamente sutiles por estética (--text-muted, --border)
+   quedan débiles para ese caso — se refuerzan en los 4 scopes de tema que
+   ya existen arriba (claro, oscuro, editorial claro, editorial oscuro),
+   sin tocar ningún componente. */
+@media (prefers-contrast: more) {
+  :root {
+    --text-muted: #595959;
+    --border: #cccccc;
+  }
+  [data-theme="dark"] {
+    --text-muted: #a8a8a8;
+    --border: rgba(255, 255, 255, 0.3);
+  }
+  .editorial-article {
+    --text-muted: #3d3d3d;
+    --border: #b0b0a8;
+  }
+  [data-theme="dark"] .editorial-article {
+    --text-muted: #c9c0b2;
+    --border: #6b5d4f;
+  }
+}
+
 /* Entrada del toast de "guardado" (SavedToast.tsx) */
 @keyframes saved-toast-in {
   from { opacity: 0; transform: translateY(-6px); }

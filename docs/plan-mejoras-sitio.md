@@ -1218,3 +1218,18 @@ La idea de investigación externa de la iteración 69 (teclado de Android tapand
 `tsc --noEmit`, `eslint` sobre los 7 archivos tocados/nuevos (los 2 errores preexistentes de `react-hooks/set-state-in-effect` en `Header.tsx`/`use-saved-products.ts` no son de esta ronda, confirmado con `git diff -U0`) y `npm run build`, todos limpios.
 
 **Con 128 features implementadas, 128 commits locales.**
+
+### Iteración 72 (2026-10-08) — navegación cliente en la tabla comparadora, "aumentar contraste" del sistema, foco devuelto al limpiar filtros
+
+**Codex** encontró que `ComparisonTable.tsx` usa `<a href={productHref(p)}>` crudo para la imagen y el título de cada producto (dos lugares), forzando una recarga completa de documento al pasar de "Comparar" a la ficha — el único desvío de ese patrón en todo el sitio: `rg` confirma que `ProductCard.tsx` y el resto de los links internos ya usan `next/link`, incluido el propio CTA de "sin stock" más abajo en ese mismo archivo. **Investigación externa** (ángulo nuevo, con fuente MDN: `prefers-contrast` es Baseline desde mayo 2022) encontró que el sitio no cubre el toggle "Aumentar contraste" de macOS/iOS/Firefox/Chrome — distinto de `forced-colors` (ronda 70, que reemplaza toda la paleta en Windows): acá el usuario sigue viendo la paleta del sitio pero pide reforzarla, y `--text-muted`/`--border` son deliberadamente sutiles por estética en los 4 scopes de tema que ya existen (claro, oscuro, editorial claro, editorial oscuro). **Gemini** encontró que "Limpiar filtros" en `SortableProductGrid.tsx` se desmonta a sí mismo al clickearse (su fila entera depende de `hasActiveFilters`), así que un lector de pantalla o navegación por teclado pierde el foco al `<body>` y hay que tabular desde cero para volver a la grilla — mismo problema que `SearchInput.tsx` ya resuelve devolviendo el foco al input tras limpiar la búsqueda.
+
+**Implementado (tres features):**
+1. `ComparisonTable.tsx`: los dos `<a>` de imagen y título pasaron a `Link` con `prefetch={false}` (misma política que el resto de las cards: no precargar cientos de fichas).
+2. `globals.css`: bloque nuevo `@media (prefers-contrast: more)`, reforzando `--text-muted` y `--border` en los 4 scopes de tema existentes, sin tocar ningún componente.
+3. `SortableProductGrid.tsx`: `resultsRef` (nuevo) en el contenedor de la grilla (`tabIndex={-1}`, siempre montado a diferencia del botón), foco devuelto ahí dentro de `clearFilters()`.
+
+**Verificado en navegador:** en `/categoria/tech`, aplicar un filtro de precio y clickear "Limpiar filtros" (clics reales) dejó `document.activeElement` en el `<div>` de resultados (`tagName: "DIV"`, `tabindex: "-1"`), no en `<body>`. Con el modo Comparar activo y 2 productos agregados, un clic real en el título de un producto dentro de la tabla navegó a la ficha sin recargar el documento (confirmado con un marcador en `window` que sobrevivió a la navegación).
+
+`tsc --noEmit`, `eslint` sobre los 3 archivos tocados (sin errores nuevos ni preexistentes en estos archivos) y `npm run build`, todos limpios.
+
+**Con 131 features implementadas, 131 commits locales.**
