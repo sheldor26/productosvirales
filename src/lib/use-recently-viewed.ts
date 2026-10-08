@@ -3,6 +3,7 @@
 import { useCallback, useEffect, useState } from "react";
 
 const STORAGE_KEY = "pv_recently_viewed";
+const CHANGE_EVENT = "pv-recently-viewed-change";
 const MAX_ITEMS = 8;
 
 function readRecent(): string[] {
@@ -27,6 +28,17 @@ export function useRecentlyViewed() {
 
   useEffect(() => {
     setIds(readRecent());
+    // "storage" solo dispara en OTRAS pestañas, no en la que escribe; el
+    // evento propio cubre esa. Sin esto, abrir varios productos en pestañas
+    // de fondo (cmd+click) deja la pestaña base con el historial "congelado"
+    // hasta recargar — mismo patrón ya resuelto en use-saved-products.ts.
+    const sync = () => setIds(readRecent());
+    window.addEventListener(CHANGE_EVENT, sync);
+    window.addEventListener("storage", sync);
+    return () => {
+      window.removeEventListener(CHANGE_EVENT, sync);
+      window.removeEventListener("storage", sync);
+    };
   }, []);
 
   const record = useCallback((id: string) => {
@@ -39,6 +51,7 @@ export function useRecentlyViewed() {
       // recargas, pero el registro en memoria de esta visita sigue andando.
     }
     setIds(next);
+    window.dispatchEvent(new Event(CHANGE_EVENT));
   }, []);
 
   const clear = useCallback(() => {
@@ -49,6 +62,7 @@ export function useRecentlyViewed() {
       // memoria de esta visita se limpia igual abajo.
     }
     setIds([]);
+    window.dispatchEvent(new Event(CHANGE_EVENT));
   }, []);
 
   return { ids, record, clear };

@@ -82,10 +82,11 @@ export default function PerfumesArabesPriceIndexPage() {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "BreadcrumbList",
+            // No hay un "/indice-precios" real (solo existe esta página hija);
+            // un ListItem intermedio que apunta ahí manda a Google a un 404.
             itemListElement: [
               { "@type": "ListItem", position: 1, name: "Inicio", item: "https://productosvirales.com.ar" },
-              { "@type": "ListItem", position: 2, name: "Índice de precios", item: "https://productosvirales.com.ar/indice-precios" },
-              { "@type": "ListItem", position: 3, name: "Perfumes árabes", item: PAGE_URL },
+              { "@type": "ListItem", position: 2, name: "Perfumes árabes", item: PAGE_URL },
             ],
           }),
         }}

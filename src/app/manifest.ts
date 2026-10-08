@@ -20,5 +20,25 @@ export default function manifest(): MetadataRoute.Manifest {
       { src: "/icon.svg", sizes: "any", type: "image/svg+xml", purpose: "any" },
       { src: "/apple-icon.png", sizes: "192x192", type: "image/png", purpose: "any" },
     ],
+    // Menú al mantener presionado el ícono instalado (solo Android/Chrome —
+    // iOS Safari no lo soporta, ahí no pasa nada). Android muestra como
+    // mucho 3; el ícono tiene que ser PNG, no sirve el SVG de arriba.
+    shortcuts: [
+      {
+        name: "Buscar",
+        url: "/buscar",
+        icons: [{ src: "/apple-icon.png", sizes: "192x192", type: "image/png" }],
+      },
+      {
+        name: "Guardados",
+        url: "/guardados",
+        icons: [{ src: "/apple-icon.png", sizes: "192x192", type: "image/png" }],
+      },
+      {
+        name: "Trending",
+        url: "/trending",
+        icons: [{ src: "/apple-icon.png", sizes: "192x192", type: "image/png" }],
+      },
+    ],
   };
 }

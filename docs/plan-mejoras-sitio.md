@@ -1136,3 +1136,18 @@ Primera ronda en varias donde ninguna de las tres fuentes tocó el tema de stock
 `tsc --noEmit`, `eslint` sobre los 6 archivos tocados/nuevos (los 3 errores preexistentes de `react-hooks/set-state-in-effect` en `ShareButtons.tsx`/`RecentlyViewed.tsx`/`use-recently-viewed.ts` no son de esta ronda, confirmado con `git diff`; los 2 nuevos en `OfflineBanner.tsx`/`use-online-status.ts` son el mismo patrón tolerado de detectar estado de browser client-only) y `npm run build`, todos limpios.
 
 **Con 113 features implementadas, 113 commits locales.**
+
+### Iteración 67 (2026-10-08) — vistos recientemente sincronizado entre pestañas, shortcuts de la PWA, breadcrumb roto corregido
+
+**Gemini** encontró que `use-recently-viewed.ts` (a diferencia de `use-saved-products.ts`, que ya resolvió exactamente este problema) no emite ni escucha ningún evento de cambio: abrir varias fichas en pestañas de fondo (cmd+click) deja la pestaña base con el historial "congelado" hasta recargar manualmente. **Codex** encontró que el `BreadcrumbList` de `/indice-precios/perfumes-arabes` declara un ítem intermedio "Índice de precios" apuntando a `https://productosvirales.com.ar/indice-precios` — una URL que no existe: `rg --files src/app/indice-precios` confirma que solo existe la página hija, sin `page.tsx` en el padre, y ni `proxy.ts` ni `sitemap.ts` la manejan. Un crawler que siga ese `ListItem` del schema estructurado llega a un 404 real. **Investigación externa** (ángulo nuevo: `shortcuts` del Web App Manifest, el menú que aparece al mantener presionado el ícono instalado en Android) confirmó con `grep` que `manifest.ts` (agregado en la iteración 55) no declara el campo, y que Android requiere ícono PNG (no el SVG que ya tiene el manifest) — `apple-icon.png` ya cumple ese requisito. Limitación real a tener en cuenta: Android muestra como mucho 3, iOS Safari no soporta el campo en absoluto (no rompe nada ahí, simplemente no aparece).
+
+**Implementado (tres features):**
+1. `use-recently-viewed.ts`: evento `pv-recently-viewed-change` despachado en `record()`/`clear()`, escuchado junto con `storage` (mismo patrón exacto que `use-saved-products.ts`) — cualquier pestaña con el hook montado se actualiza sola, sin recargar.
+2. `manifest.ts`: `shortcuts` con Buscar/Guardados/Trending, usando `apple-icon.png` (192x192 PNG) como ícono de cada uno.
+3. `indice-precios/perfumes-arabes/page.tsx`: el `BreadcrumbList` pasó de 3 a 2 niveles (Inicio → Perfumes árabes), sacando el `ListItem` intermedio que apuntaba a una URL 404.
+
+**Verificado en navegador:** `fetch('/manifest.webmanifest')` devolvió los 3 shortcuts con sus íconos. El JSON-LD de `/indice-precios/perfumes-arabes` quedó en 2 niveles, ambos con URLs reales. Para la sincronización: se visitó una ficha (quedó 1 id en `localStorage`), se fue a la home (mostró 1 producto en "Volviste"), y desde la misma pestaña se simuló la escritura + evento de "otra pestaña" (`localStorage.setItem` + `dispatchEvent`) — sin recargar, apareció el segundo producto y el aviso "Estuviste mirando Tech".
+
+`tsc --noEmit`, `eslint` sobre los 3 archivos tocados (el error preexistente de `react-hooks/set-state-in-effect` en `use-recently-viewed.ts` ya estaba documentado como tolerado desde la iteración 66, no es de esta ronda) y `npm run build`, todos limpios.
+
+**Con 116 features implementadas, 116 commits locales.**
