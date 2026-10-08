@@ -75,6 +75,14 @@ export const viewport: Viewport = {
   // el sitio en claro por defecto, así que esa media query mentiría. Quien
   // togglea a oscuro manualmente lo corrige en caliente via ThemeColorSync.
   themeColor: "#ffffff",
+  // Desde Chrome 108 (Android), el default cambió a "resizes-visual": al
+  // abrir el teclado solo se achica el visual viewport, no el layout
+  // viewport que usan los elementos fixed — un input dentro de un
+  // contenedor fixed (ej. NewsletterBanner.tsx) puede quedar tapado por el
+  // teclado justo al escribir. "resizes-content" restaura el comportamiento
+  // donde el layout viewport se achica y el fixed se reposiciona arriba.
+  // https://developer.chrome.com/blog/viewport-resize-behavior
+  interactiveWidget: "resizes-content",
 };
 
 export default function RootLayout({

@@ -1180,3 +1180,11 @@ Primera ronda en varias donde ninguna de las tres fuentes tocó el tema de stock
 `tsc --noEmit`, `eslint` sobre los 10 archivos tocados (los 2 errores preexistentes de `react-hooks/set-state-in-effect` en `Header.tsx`/`OfflineBanner.tsx` no son de esta ronda, confirmado con `git diff -U0`) y `npm run build`, todos limpios.
 
 **Con 121 features implementadas, 121 commits locales.**
+
+### Pendiente de la iteración 69, aprobado por Juan — `interactiveWidget: "resizes-content"` en el viewport
+
+La idea de investigación externa de la iteración 69 (teclado de Android tapando el `NewsletterBanner.tsx` por el default `resizes-visual` de Chrome 108+) quedó marcada "pendiente de aviso a Juan" por tocar `layout.tsx` (el layout raíz). Juan dio el OK. Se agregó `interactiveWidget: "resizes-content"` al `viewport` export de `layout.tsx`, con el comentario y la fuente (Chrome for Developers) ya documentados en esa misma iteración.
+
+**Verificado en navegador:** `document.querySelector('meta[name="viewport"]').content` en la home devuelve `"width=device-width, initial-scale=1, maximum-scale=5, interactive-widget=resizes-content"`. `tsc --noEmit`, `eslint` sobre `layout.tsx` y `npm run build`, todos limpios.
+
+**Con 122 features implementadas, 122 commits locales.**
