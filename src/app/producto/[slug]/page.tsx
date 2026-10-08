@@ -427,6 +427,7 @@ export default async function ProductPage({ params }: Props) {
           products={otherCategories.map(toCardProduct)}
           title="Popular en otras categorías"
           priority={false}
+          horizontalMobile
         />
       )}
     </div>

@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import { Link2, Check } from "lucide-react";
+import { copyToClipboard } from "@/lib/clipboard";
 
 /** Botón "copiar link a esta sección", visible solo al pasar el mouse sobre
  * el encabezado (el padre pone `group`). Copia la URL completa con el
@@ -12,7 +13,8 @@ export function HeadingAnchorButton({ sectionId }: { sectionId: string }) {
 
   const handleCopy = () => {
     const url = `${window.location.origin}${window.location.pathname}#${sectionId}`;
-    navigator.clipboard.writeText(url).then(() => {
+    copyToClipboard(url).then((ok) => {
+      if (!ok) return;
       setCopied(true);
       setTimeout(() => setCopied(false), 2000);
     });

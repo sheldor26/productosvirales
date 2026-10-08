@@ -47,6 +47,9 @@ interface ProductCardProps {
    * listeners globales redundantes en cada hidratación. */
   saved?: boolean;
   onToggleSaved?: (id: string) => void;
+  /** Clases extra para el contenedor raíz (ej. ancho fijo + snap-start
+   * cuando ProductGrid.tsx está en modo carrusel horizontal). */
+  className?: string;
 }
 
 export function ProductCard({
@@ -58,6 +61,7 @@ export function ProductCard({
   onCompareToggle,
   saved = false,
   onToggleSaved,
+  className,
 }: ProductCardProps) {
   const productUrl = productHref(product);
   const [imgError, setImgError] = useState(false);
@@ -85,9 +89,12 @@ export function ProductCard({
 
   return (
     <div
-      className={`product-card ${priority ? "" : "reveal"} group relative rounded-[var(--radius-card)] overflow-hidden border bg-[var(--bg-primary)] transition-transform hover:-translate-y-1 hover:shadow-[0_12px_28px_-8px_rgba(0,0,0,0.18)] motion-safe:active:scale-[0.98] ${
-        compareSelected ? "border-[var(--cta-bg)] border-2" : "border-[var(--border)]"
-      } ${badge === "viral" ? "shadow-[0_0_14px_rgba(236,72,153,0.16)]" : ""}`}
+      className={cn(
+        `product-card ${priority ? "" : "reveal"} group relative rounded-[var(--radius-card)] overflow-hidden border bg-[var(--bg-primary)] transition-transform hover:-translate-y-1 hover:shadow-[0_12px_28px_-8px_rgba(0,0,0,0.18)] motion-safe:active:scale-[0.98] ${
+          compareSelected ? "border-[var(--cta-bg)] border-2" : "border-[var(--border)]"
+        } ${badge === "viral" ? "shadow-[0_0_14px_rgba(236,72,153,0.16)]" : ""}`,
+        className
+      )}
     >
       {/* Image area. Wrapper propio (no el <Link>) para poder poner el botón de
           guardar como hermano, no hijo: un <button> dentro de un <a> es HTML

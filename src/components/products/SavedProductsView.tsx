@@ -8,6 +8,7 @@ import { ProductGrid } from "@/components/products/ProductGrid";
 import { SortableProductGrid } from "@/components/products/SortableProductGrid";
 import { RecentlyViewed } from "@/components/products/RecentlyViewed";
 import { useSavedProducts } from "@/lib/use-saved-products";
+import { copyToClipboard } from "@/lib/clipboard";
 import type { CardProduct } from "@/lib/types";
 
 function ShareButton({ ids }: { ids: string[] }) {
@@ -24,16 +25,11 @@ function ShareButton({ ids }: { ids: string[] }) {
         // Cancelado por el usuario o no soportado: caer al copiado.
       }
     }
-    // Igual que CouponBadge: si el navegador no da clipboard (contexto no
-    // seguro o permiso denegado), el click no hace nada — nunca peor que no
-    // tener el botón.
-    navigator.clipboard
-      ?.writeText(url)
-      .then(() => {
-        setCopied(true);
-        window.setTimeout(() => setCopied(false), 2000);
-      })
-      .catch(() => {});
+    copyToClipboard(url).then((ok) => {
+      if (!ok) return;
+      setCopied(true);
+      window.setTimeout(() => setCopied(false), 2000);
+    });
   };
 
   return (

@@ -3,6 +3,7 @@
 import { useEffect, useState } from "react";
 import { Copy, Check, Share2 } from "lucide-react";
 import { WhatsAppIcon } from "@/components/icons/WhatsAppIcon";
+import { copyToClipboard } from "@/lib/clipboard";
 
 interface ShareButtonsProps {
   title: string;
@@ -98,7 +99,8 @@ export function ShareButtons({ title, className = "" }: ShareButtonsProps) {
   }, []);
 
   const handleCopy = () => {
-    navigator.clipboard.writeText(cleanShareUrl()).then(() => {
+    copyToClipboard(cleanShareUrl()).then((ok) => {
+      if (!ok) return;
       setCopied(true);
       setTimeout(() => setCopied(false), 2000);
       window.gtag?.("event", "share_click", {

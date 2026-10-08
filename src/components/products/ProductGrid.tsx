@@ -4,6 +4,7 @@ import { useEffect, useRef } from "react";
 import { ProductCard } from "./ProductCard";
 import { ProductCardSkeleton } from "@/components/ui/Skeleton";
 import { useSavedProducts } from "@/lib/use-saved-products";
+import { cn } from "@/lib/utils";
 import type { CardProduct } from "@/lib/types";
 
 interface ProductGridProps {
@@ -22,6 +23,13 @@ interface ProductGridProps {
    * de una imagen `priority` compite por ancho de banda y empeora el LCP
    * real en vez de mejorarlo (evidencia de next/image y web.dev). */
   priority?: boolean;
+  /** Mobile: en vez de la grilla de 2 columnas apilando hacia abajo, carrusel
+   * horizontal con scroll-snap — pensado para rieles de recomendación SIN
+   * filtros (similares, vistos recientemente, otras categorías), donde 6-8
+   * cards apiladas entierran el resto de la página. Desktop no cambia (sigue
+   * en grid desde el breakpoint md). No combinar con `loading`: los
+   * skeletons no tienen el ancho fijo que necesita el carrusel. */
+  horizontalMobile?: boolean;
 }
 
 export function ProductGrid({
@@ -34,6 +42,7 @@ export function ProductGrid({
   compareLimitReached = false,
   onCompareToggle,
   priority = true,
+  horizontalMobile = false,
 }: ProductGridProps) {
   const containerRef = useRef<HTMLElement>(null);
   // Un solo useSavedProducts() por grilla en vez de uno por card: en
@@ -87,7 +96,13 @@ export function ProductGrid({
         </div>
       )}
 
-      <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3 md:gap-4">
+      <div
+        className={cn(
+          horizontalMobile
+            ? "flex overflow-x-auto snap-x snap-mandatory gap-3 pb-1 md:grid md:grid-cols-3 lg:grid-cols-4 md:gap-4 md:overflow-visible md:pb-0"
+            : "grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3 md:gap-4"
+        )}
+      >
         {loading
           ? Array.from({ length: 8 }).map((_, i) => (
               <ProductCardSkeleton key={i} />
@@ -103,6 +118,7 @@ export function ProductGrid({
                 onCompareToggle={onCompareToggle}
                 saved={isSaved(product.id)}
                 onToggleSaved={toggle}
+                className={horizontalMobile ? "w-[75vw] shrink-0 snap-start md:w-auto md:shrink" : undefined}
               />
             ))}
       </div>

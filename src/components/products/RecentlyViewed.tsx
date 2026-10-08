@@ -117,7 +117,7 @@ export function RecentlyViewed({
           </button>
         </div>
       )}
-      <ProductGrid products={products} priority={false} />
+      <ProductGrid products={products} priority={false} horizontalMobile />
     </div>
   );
 }

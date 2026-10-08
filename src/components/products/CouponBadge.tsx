@@ -5,6 +5,7 @@ import { Ticket } from "lucide-react";
 import { Badge } from "@/components/ui/Badge";
 import { couponDiscountFor, getApplicableCoupon } from "@/lib/coupons";
 import { formatPrice } from "@/lib/utils";
+import { copyToClipboard } from "@/lib/clipboard";
 import type { Coupon } from "@/lib/types";
 
 interface CouponBadgeProps {
@@ -45,14 +46,12 @@ export function CouponBadge({ price, categorySlug, className }: CouponBadgeProps
   const handleCopy = (e: React.MouseEvent) => {
     e.preventDefault();
     e.stopPropagation();
-    navigator.clipboard
-      ?.writeText(coupon.code)
-      .then(() => {
-        setCopied(true);
-        window.gtag?.("event", "coupon_copy", { coupon_code: coupon.code });
-        window.setTimeout(() => setCopied(false), 2000);
-      })
-      .catch(() => {});
+    copyToClipboard(coupon.code).then((ok) => {
+      if (!ok) return;
+      setCopied(true);
+      window.gtag?.("event", "coupon_copy", { coupon_code: coupon.code });
+      window.setTimeout(() => setCopied(false), 2000);
+    });
   };
 
   return (
