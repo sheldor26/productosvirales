@@ -50,7 +50,7 @@ export function RecentlyViewed({
   title = "Vistos recientemente",
   subtitle,
 }: RecentlyViewedProps) {
-  const { ids } = useRecentlyViewed();
+  const { ids, clear } = useRecentlyViewed();
   const [products, setProducts] = useState<CardProduct[]>([]);
   const idsKey = ids.filter((id) => id !== excludeId).join(",");
 
@@ -91,7 +91,33 @@ export function RecentlyViewed({
           </span>
         </Link>
       )}
-      <ProductGrid products={products} title={title} subtitle={subtitle} priority={false} />
+      {/* Título propio acá (no el de ProductGrid, title={undefined} abajo)
+          para poder sumarle el botón de borrar al lado — mismo patrón ya
+          usado en SortableProductGrid.tsx cuando necesita controles extra
+          junto al título. */}
+      {(title || subtitle) && (
+        <div className="mb-5 flex items-end justify-between gap-3 flex-wrap">
+          <div>
+            {title && (
+              <h2
+                className="text-xl md:text-2xl font-bold text-[var(--text-primary)]"
+                style={{ fontFamily: "var(--font-display)" }}
+              >
+                {title}
+              </h2>
+            )}
+            {subtitle && <p className="mt-1 text-sm text-[var(--text-muted)]">{subtitle}</p>}
+          </div>
+          <button
+            type="button"
+            onClick={clear}
+            className="text-xs font-medium text-[var(--text-muted)] hover:text-[var(--text-secondary)] transition-colors cursor-pointer"
+          >
+            Borrar historial
+          </button>
+        </div>
+      )}
+      <ProductGrid products={products} priority={false} />
     </div>
   );
 }

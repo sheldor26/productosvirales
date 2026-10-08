@@ -74,6 +74,15 @@ const shareTargets = [
   },
 ];
 
+/** `window.location.href` arrastra cualquier UTM/gclid/fbclid con el que haya
+ * llegado la visita — quien comparte eso le manda esa atribución a todos sus
+ * contactos, y Analytics termina atribuyendo tráfico orgánico/directo (gente
+ * que entró por WhatsApp) al canal pago original. Mismo criterio ya usado en
+ * HeadingAnchorButton.tsx (iteración 53) para los links profundos de guías. */
+function cleanShareUrl() {
+  return `${window.location.origin}${window.location.pathname}`;
+}
+
 /** Fila de íconos para compartir la página actual en las redes donde esta
  * audiencia realmente comparte y recomienda productos. */
 export function ShareButtons({ title, className = "" }: ShareButtonsProps) {
@@ -89,7 +98,7 @@ export function ShareButtons({ title, className = "" }: ShareButtonsProps) {
   }, []);
 
   const handleCopy = () => {
-    navigator.clipboard.writeText(window.location.href).then(() => {
+    navigator.clipboard.writeText(cleanShareUrl()).then(() => {
       setCopied(true);
       setTimeout(() => setCopied(false), 2000);
       window.gtag?.("event", "share_click", {
@@ -105,7 +114,7 @@ export function ShareButtons({ title, className = "" }: ShareButtonsProps) {
       page_path: window.location.pathname,
     });
     try {
-      await navigator.share({ url: window.location.href, title });
+      await navigator.share({ url: cleanShareUrl(), title });
     } catch {
       // Cancelado por el usuario, o algún error del sistema: no hacer nada,
       // el botón de copiar link sigue ahí al lado como alternativa.
@@ -134,7 +143,7 @@ export function ShareButtons({ title, className = "" }: ShareButtonsProps) {
             aria-label={`Compartir por ${name}`}
             className={btnClass}
             onClick={() => {
-              const url = window.location.href;
+              const url = cleanShareUrl();
               window.gtag?.("event", "share_click", {
                 network: name,
                 page_path: window.location.pathname,

@@ -41,5 +41,15 @@ export function useRecentlyViewed() {
     setIds(next);
   }, []);
 
-  return { ids, record };
+  const clear = useCallback(() => {
+    try {
+      window.localStorage.removeItem(STORAGE_KEY);
+    } catch {
+      // Mismo caso que record(): sin persistencia, pero el estado en
+      // memoria de esta visita se limpia igual abajo.
+    }
+    setIds([]);
+  }, []);
+
+  return { ids, record, clear };
 }

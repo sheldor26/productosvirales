@@ -6,6 +6,7 @@ import { ThemeProvider } from "@/components/layout/ThemeProvider";
 import { Header } from "@/components/layout/Header";
 import { Footer } from "@/components/layout/Footer";
 import { NewsletterBanner } from "@/components/widgets/NewsletterBanner";
+import { OfflineBanner } from "@/components/widgets/OfflineBanner";
 import { AffiliateTracker } from "@/components/analytics/AffiliateTracker";
 import { ScrollDepthTracker } from "@/components/analytics/ScrollDepthTracker";
 import { CtaTracker } from "@/components/analytics/CtaTracker";
@@ -100,6 +101,7 @@ export default function RootLayout({
           (regla de la casa #4), no es parte de este cambio. */}
       <link rel="preconnect" href="https://www.mercadolibre.com.ar" />
       <body className="min-h-screen flex flex-col">
+        <OfflineBanner />
         {/* Salto de teclado: sin esto, un usuario de teclado/lector de pantalla
             tiene que tabular por todo el header (logo, nav, categorías, buscador,
             guardados, tema) en CADA página antes de llegar al contenido. Oculto
