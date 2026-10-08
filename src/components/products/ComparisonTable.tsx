@@ -42,7 +42,7 @@ export function ComparisonTable({ products, onRemove, onClear }: ComparisonTable
         </button>
       </div>
 
-      <div className="overflow-x-auto">
+      <div className="overflow-x-auto snap-x snap-mandatory">
         <div
           className="grid gap-3"
           style={{ gridTemplateColumns: `repeat(${products.length}, minmax(150px, 1fr))` }}
@@ -52,7 +52,7 @@ export function ComparisonTable({ products, onRemove, onClear }: ComparisonTable
             return (
               <div
                 key={p.id}
-                className="rounded-[var(--radius-card)] border border-[var(--border)] p-3 flex flex-col"
+                className="snap-start rounded-[var(--radius-card)] border border-[var(--border)] p-3 flex flex-col"
               >
                 <div className="flex justify-end">
                   <button

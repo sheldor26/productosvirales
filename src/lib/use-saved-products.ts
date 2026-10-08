@@ -16,7 +16,13 @@ function readSaved(): string[] {
 }
 
 function writeSaved(ids: string[]) {
-  window.localStorage.setItem(STORAGE_KEY, JSON.stringify(ids));
+  try {
+    window.localStorage.setItem(STORAGE_KEY, JSON.stringify(ids));
+  } catch {
+    // Modo privado o cuota agotada: no persiste entre recargas, pero no
+    // debe cortar acá — dispatchEvent/setIds (en el caller) siguen
+    // corriendo para que el corazón responda igual durante esta visita.
+  }
   // localStorage no dispara el evento "storage" en la misma pestaña que
   // escribe (solo en otras pestañas) — sin este evento propio, el contador
   // del Header no se actualiza hasta recargar la página.

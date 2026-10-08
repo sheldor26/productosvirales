@@ -91,6 +91,14 @@ export default function RootLayout({
           conexión antes de que el navegador la pida achica el tiempo hasta
           la primera imagen visible (LCP del hero en la mayoría de páginas). */}
       <link rel="preconnect" href="https://http2.mlstatic.com" />
+      {/* El click de afiliado (AffiliateLink.tsx) manda a meli.la, que
+          redirige a mercadolibre.com.ar — mismo criterio que arriba, pero
+          para la acción que monetiza, no solo una imagen. Solo se precon-
+          necta al destino final (ya permitido en el connect-src del CSP de
+          next.config.ts); meli.la en sí queda afuera porque ese dominio
+          todavía no está en connect-src y agregarlo requiere avisar antes
+          (regla de la casa #4), no es parte de este cambio. */}
+      <link rel="preconnect" href="https://www.mercadolibre.com.ar" />
       <body className="min-h-screen flex flex-col">
         {/* Salto de teclado: sin esto, un usuario de teclado/lector de pantalla
             tiene que tabular por todo el header (logo, nav, categorías, buscador,

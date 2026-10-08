@@ -23,8 +23,17 @@ export function NewsletterBanner() {
   const [message, setMessage] = useState("");
 
   useEffect(() => {
-    // Si ya lo descartó o ya se suscribió, ni enganchamos el scroll.
-    if (localStorage.getItem(STORAGE_KEY)) return;
+    // Si ya lo descartó o ya se suscribió, ni enganchamos el scroll. En
+    // modo privado (Safari viejo) hasta acceder a `localStorage` puede
+    // tirar una excepción — si pasa, seguimos de largo: peor caso, se
+    // vuelve a mostrar el banner, no se rompe el resto del efecto.
+    let dismissedOrSubscribed = false;
+    try {
+      dismissedOrSubscribed = !!localStorage.getItem(STORAGE_KEY);
+    } catch {
+      // noop: tratamos el fallo de lectura como "no descartado todavía".
+    }
+    if (dismissedOrSubscribed) return;
 
     const onScroll = () => {
       const scrolled = window.scrollY + window.innerHeight;

@@ -32,7 +32,12 @@ export function useRecentlyViewed() {
   const record = useCallback((id: string) => {
     const current = readRecent();
     const next = [id, ...current.filter((x) => x !== id)].slice(0, MAX_ITEMS);
-    window.localStorage.setItem(STORAGE_KEY, JSON.stringify(next));
+    try {
+      window.localStorage.setItem(STORAGE_KEY, JSON.stringify(next));
+    } catch {
+      // Mismo caso que use-saved-products.ts: sin persistencia entre
+      // recargas, pero el registro en memoria de esta visita sigue andando.
+    }
     setIds(next);
   }, []);
 

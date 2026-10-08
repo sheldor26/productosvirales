@@ -39,7 +39,7 @@ interface CategoryTabsProps {
 
 export function CategoryTabs({ activeCategory, onCategoryChange }: CategoryTabsProps) {
   return (
-    <div className="flex gap-2 overflow-x-auto hide-scrollbar pb-1">
+    <div className="flex gap-2 overflow-x-auto snap-x snap-mandatory hide-scrollbar pb-1">
       {tabs.map((tab) => {
         const Icon = tab.icon;
         const isActive = activeCategory === tab.slug;
@@ -48,7 +48,7 @@ export function CategoryTabs({ activeCategory, onCategoryChange }: CategoryTabsP
             key={tab.slug}
             onClick={() => onCategoryChange(tab.slug)}
             className={cn(
-              "flex items-center gap-1.5 px-3.5 py-2 text-xs font-medium whitespace-nowrap rounded-[var(--radius-pill)] transition-all duration-200 shrink-0 cursor-pointer",
+              "snap-start flex items-center gap-1.5 px-3.5 py-2 text-xs font-medium whitespace-nowrap rounded-[var(--radius-pill)] transition-all duration-200 shrink-0 cursor-pointer",
               isActive
                 ? tab.isSpecial
                   ? "bg-[#ef4444] text-white"
