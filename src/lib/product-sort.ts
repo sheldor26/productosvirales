@@ -39,5 +39,10 @@ export function sortProducts(products: CardProduct[], sort: SortOption): CardPro
       sorted.sort((a, b) => (b.soldQuantity ?? 0) - (a.soldQuantity ?? 0));
       break;
   }
+  // Empuja "sin stock" al final, sin romper el orden ya elegido arriba
+  // (Array.prototype.sort es estable desde ES2019): nadie elige "ordenar
+  // por menor precio" para que la primera fila sea algo que no puede
+  // comprar porque la publicación está pausada.
+  sorted.sort((a, b) => Number(a.priceStatus === "out_of_stock") - Number(b.priceStatus === "out_of_stock"));
   return sorted;
 }

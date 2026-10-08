@@ -4,6 +4,7 @@ import { getSitemapProducts } from "@/lib/products";
 import { productHref } from "@/lib/product-url";
 import { getPublishedGuides } from "@/data/guides";
 import { guideHref } from "@/lib/guide-url";
+import { mostRecentPriceCheck } from "@/lib/price-freshness";
 import type { Guide } from "@/lib/types";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://productosvirales.com.ar";
@@ -61,12 +62,16 @@ export default function sitemap(): MetadataRoute.Sitemap {
     }));
 
   const productPages: MetadataRoute.Sitemap = getSitemapProducts().map(({ product, priority }) => {
-    const lastmod = product.priceUpdated || product.priceLastChecked;
+    // La más reciente de las tres señales de precio (no prioridad fija):
+    // priceLastChecked/priceVerifiedAt pueden ser más nuevas que
+    // priceUpdated aunque el valor no haya cambiado — mismo criterio que
+    // ProductDetail.tsx.
+    const lastmod = mostRecentPriceCheck(product);
     // La ficha usa la foto principal; `images` trae el resto de la galería.
     const fotos = [...new Set([product.image, ...(product.images || [])].filter(Boolean))];
     return {
       url: `${SITE_URL}${productHref(product)}`,
-      ...(lastmod ? { lastModified: new Date(lastmod) } : {}),
+      ...(lastmod ? { lastModified: lastmod } : {}),
       changeFrequency: "weekly" as const,
       priority,
       ...(fotos.length ? { images: fotos.map(toAbsolute) } : {}),

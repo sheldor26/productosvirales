@@ -35,6 +35,7 @@ import { RecentlyViewed } from "./RecentlyViewed";
 import { RecentlyViewedRecorder } from "./RecentlyViewedRecorder";
 import { SaveHeartButton } from "./SaveHeartButton";
 import { formatPrice, formatDiscount } from "@/lib/utils";
+import { mostRecentPriceCheck } from "@/lib/price-freshness";
 import { renderInlineMarkdown } from "@/lib/inline-markdown";
 import { productHref } from "@/lib/product-url";
 import { AffiliateLink } from "@/components/affiliate/AffiliateLink";
@@ -201,11 +202,13 @@ function SectionCard({
 }
 
 function updatedLabel(product: Product): string | null {
-  const raw =
-    product.priceUpdated || product.priceLastChecked || product.reviewsSampledAt;
-  if (!raw) return null;
-  const d = new Date(raw);
-  if (Number.isNaN(d.getTime())) return null;
+  // Antes era el primer campo presente por prioridad fija (priceUpdated),
+  // que marca cuándo CAMBIÓ el precio — pero priceLastChecked/priceVerifiedAt
+  // pueden ser más recientes aunque el valor haya seguido igual, y mostrar
+  // la fecha vieja hacía parecer desactualizada una ficha recién
+  // re-confirmada. Solo se cae a reviewsSampledAt si ninguna de precio existe.
+  const d = mostRecentPriceCheck(product) ?? (product.reviewsSampledAt ? new Date(product.reviewsSampledAt) : null);
+  if (!d || Number.isNaN(d.getTime())) return null;
   return new Intl.DateTimeFormat("es-AR", {
     month: "long",
     year: "numeric",
