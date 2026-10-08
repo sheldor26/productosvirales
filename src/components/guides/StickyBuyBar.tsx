@@ -78,6 +78,9 @@ export function StickyBuyBar({ product }: StickyBuyBarProps) {
         transform: visible ? "translateY(0)" : "translateY(110%)",
       }}
       aria-hidden={!visible}
+      // Mismo motivo que StickyMobileCta.tsx: aria-hidden no saca el link
+      // del orden de Tab, inert sí.
+      inert={!visible}
     >
       <Link
         href={productHref(product)}

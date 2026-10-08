@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useMemo, useEffect } from "react";
+import { useState, useMemo, useEffect, useTransition } from "react";
 import { useSearchParams } from "next/navigation";
 import Link from "next/link";
 import { SearchX, Scale } from "lucide-react";
@@ -39,6 +39,12 @@ export function HomeFeed({ products }: HomeFeedProps) {
   const searchParams = useSearchParams();
   const searchQuery = searchParams.get("q")?.trim() || "";
 
+  // Mismo mecanismo y mismo motivo que SortableProductGrid.tsx (ronda 60):
+  // cambiar de categoría re-filtra el catálogo completo en la misma tarea
+  // del click, justo el tipo de tarea larga que empeora INP en gama media
+  // Android (caso real: QuintoAndar, -80% INP / +36% conversión con este
+  // mismo mecanismo, vía web.dev/quintoandar-inp).
+  const [isPending, startTransition] = useTransition();
   const [activeCategory, setActiveCategory] = useState("todos");
   const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
   const [sort, setSort] = useState<SortOption>("relevancia");
@@ -132,7 +138,7 @@ export function HomeFeed({ products }: HomeFeedProps) {
       {!searchQuery.trim() && (
         <CategoryTabs
           activeCategory={activeCategory}
-          onCategoryChange={setActiveCategory}
+          onCategoryChange={(slug) => startTransition(() => setActiveCategory(slug))}
         />
       )}
 
@@ -203,8 +209,10 @@ export function HomeFeed({ products }: HomeFeedProps) {
                     value={sort}
                     onChange={(e) => {
                       const next = e.target.value as SortOption;
-                      setSort(next);
-                      setVisibleCount(PAGE_SIZE);
+                      startTransition(() => {
+                        setSort(next);
+                        setVisibleCount(PAGE_SIZE);
+                      });
                       window.gtag?.("event", "sort_products", { sort: next });
                     }}
                     className="rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--bg-primary)] text-[var(--text-primary)] px-3 py-1.5 text-sm cursor-pointer"
@@ -227,15 +235,17 @@ export function HomeFeed({ products }: HomeFeedProps) {
             </p>
           )}
 
-          <ProductGrid
-            products={pagedProducts}
-            title={showSearchToolbar ? undefined : title}
-            subtitle={showSearchToolbar ? undefined : subtitle}
-            compareMode={showSearchToolbar && compareMode}
-            compareSelectedIds={compareSelectedIds}
-            compareLimitReached={compareLimitReached}
-            onCompareToggle={toggleCompare}
-          />
+          <div className={isPending ? "opacity-60 transition-opacity" : "transition-opacity"}>
+            <ProductGrid
+              products={pagedProducts}
+              title={showSearchToolbar ? undefined : title}
+              subtitle={showSearchToolbar ? undefined : subtitle}
+              compareMode={showSearchToolbar && compareMode}
+              compareSelectedIds={compareSelectedIds}
+              compareLimitReached={compareLimitReached}
+              onCompareToggle={toggleCompare}
+            />
+          </div>
 
           {showSearchToolbar && compareMode && (
             <ComparisonTable products={compareProducts} onRemove={toggleCompare} onClear={clearCompare} />

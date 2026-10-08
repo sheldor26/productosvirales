@@ -7,7 +7,7 @@ import { ArrowRight, Sparkles, TrendingUp, TrendingDown, Flame, Award, Sun, Gift
 import { AffiliateLink } from "@/components/affiliate/AffiliateLink";
 import { Badge } from "@/components/ui/Badge";
 import { CouponBadge } from "@/components/products/CouponBadge";
-import { formatPrice, formatDiscount } from "@/lib/utils";
+import { cn, formatPrice, formatDiscount } from "@/lib/utils";
 import { productHref } from "@/lib/product-url";
 import { hapticTap } from "@/lib/haptics";
 import type { CardProduct } from "@/lib/types";
@@ -80,6 +80,7 @@ export function ProductCard({
 
   const discount = originalPrice ? formatDiscount(originalPrice, price) : null;
   const BadgeIcon = badge ? badgeConfig[badge].icon : null;
+  const outOfStock = product.priceStatus === "out_of_stock";
   const badgeLabel = badge ? badgeConfig[badge].label : null;
 
   return (
@@ -116,7 +117,10 @@ export function ProductCard({
                 // navegador podía pedir una variante de imagen más chica o
                 // más grande de la que realmente se pinta.
                 sizes="(max-width: 767px) calc((100vw - 44px) / 2), (max-width: 1023px) calc((100vw - 80px) / 3), (max-width: 1199px) calc((100vw - 96px) / 4), 276px"
-                className="object-contain p-4 group-hover:scale-110 transition-transform duration-500 ease-out"
+                className={cn(
+                  "object-contain p-4 group-hover:scale-110 transition-transform duration-500 ease-out",
+                  outOfStock && "grayscale opacity-60"
+                )}
                 preload={priority}
                 fetchPriority={priority ? "high" : undefined}
                 loading={priority ? "eager" : "lazy"}
@@ -136,14 +140,22 @@ export function ProductCard({
             </div>
           )}
 
-          {/* Top-right: Discount badge */}
-          {discount && (
+          {/* Top-right: "Sin stock" tiene prioridad sobre el descuento — un
+              % off de algo que no se puede comprar es un dato que confunde,
+              no que ayuda. */}
+          {outOfStock ? (
             <div className="absolute top-2.5 right-2.5">
-              <Badge variant="discount" className={badge === "hot-deal" ? "pulse-badge" : ""}>
-                <span className="sr-only">{discount}% de descuento</span>
-                <span aria-hidden="true">-{discount}%</span>
-              </Badge>
+              <Badge variant="out-of-stock">Sin stock</Badge>
             </div>
+          ) : (
+            discount && (
+              <div className="absolute top-2.5 right-2.5">
+                <Badge variant="discount" className={badge === "hot-deal" ? "pulse-badge" : ""}>
+                  <span className="sr-only">{discount}% de descuento</span>
+                  <span aria-hidden="true">-{discount}%</span>
+                </Badge>
+              </div>
+            )
           )}
 
           {/* Bottom-left: Product badge */}

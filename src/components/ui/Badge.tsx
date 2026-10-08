@@ -2,7 +2,7 @@ import { cn } from "@/lib/utils";
 
 interface BadgeProps {
   children: React.ReactNode;
-  variant?: "default" | "viral" | "trending" | "discount" | "hot-deal" | "bestseller" | "summer-pick" | "tiktok-viral" | "collector" | "coupon" | "price-low";
+  variant?: "default" | "viral" | "trending" | "discount" | "hot-deal" | "bestseller" | "summer-pick" | "tiktok-viral" | "collector" | "coupon" | "price-low" | "out-of-stock";
   className?: string;
   title?: string;
 }
@@ -36,6 +36,10 @@ export function Badge({ children, variant = "default", className, title }: Badge
           "bg-[var(--color-trending-up)] text-white px-2.5 py-1.5 backdrop-blur-sm",
         variant === "price-low" &&
           "bg-[var(--color-trending-up)] text-white px-2.5 py-1.5 backdrop-blur-sm",
+        // Mismo ámbar que ya usa el aviso de sin stock en ProductDetail.tsx
+        // (AlertTriangle, rgba(245,158,11,...)) — misma señal, mismo color
+        // en toda la grilla y la ficha.
+        variant === "out-of-stock" && "bg-[#d97706] text-white px-2.5 py-1.5 backdrop-blur-sm",
         className
       )}
     >

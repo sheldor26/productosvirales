@@ -351,6 +351,10 @@ export function SortableProductGrid({ products, title, subtitle, priority = true
           showJumpToCompare ? "translate-y-0 opacity-100" : "translate-y-4 opacity-0 pointer-events-none"
         }`}
         aria-hidden={!showJumpToCompare}
+        // Mismo motivo que StickyMobileCta.tsx/StickyBuyBar.tsx: sin inert,
+        // el link "Ver comparativa" seguía en el orden de Tab aunque
+        // estuviera con opacity-0/pointer-events-none.
+        inert={!showJumpToCompare}
       >
         <a
           href="#comparador"

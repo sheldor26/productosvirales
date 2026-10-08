@@ -63,6 +63,11 @@ export function StickyMobileCta({ product, hasAlternatives = false }: StickyMobi
       }`}
       style={{ paddingBottom: "env(safe-area-inset-bottom)" }}
       aria-hidden={!visible}
+      // aria-hidden solo saca el bloque del árbol de accesibilidad, no del
+      // orden de Tab: sin esto, tabular podía caer en el CTA mientras sigue
+      // fuera de la pantalla (translate-y-full). Mismo patrón que ya usan
+      // MobileNav.tsx/Header.tsx para sus propios paneles ocultos.
+      inert={!visible}
     >
       <div className="flex items-center gap-3 px-4 py-2.5 bg-[var(--bg-primary)] border-t border-[var(--border)] shadow-[0_-4px_12px_rgba(0,0,0,0.08)]">
         <div className="flex flex-col min-w-0">
