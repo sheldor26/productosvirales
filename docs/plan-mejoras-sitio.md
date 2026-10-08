@@ -1248,3 +1248,17 @@ La idea de investigación externa de la iteración 69 (teclado de Android tapand
 `tsc --noEmit`, `eslint` sobre los 5 archivos tocados y `npm run build`, todos limpios.
 
 **Con 134 features implementadas, 134 commits locales.**
+
+### Iteración 74 (2026-10-08) — JSON-LD sin datos de envío/devolución inventados, "Deshacer" al sacar un producto de guardados
+
+**Codex** encontró que los dos emisores de JSON-LD de producto (`producto/[slug]/page.tsx` y `guides/ProductCard.tsx`) declaran `deliveryTime` (0-1 día de preparación + 1-5 de tránsito) y `hasMerchantReturnPolicy` (devolución gratis a 30 días) fijos para TODO el catálogo — datos que el sitio no controla (es afiliado, no vendedor; el plazo real y la política de devolución las define cada vendedor en ML y varían por publicación) y que no se muestran en ninguna parte de la UI (`ProductDetail.tsx` solo renderiza el badge "Envío gratis"). `grep` sobre `curated-products.ts` confirmó 0 productos con `shippingDetails`/`hasMerchantReturnPolicy` verificados a mano — el fallback fabricado se aplicaba a los 934 productos por igual, chocando directo con la regla de la casa de "sin datos inventados". **Investigación externa** (ángulo nuevo, con fuente el playbook de diseño de eBay y las guías de Material Design sobre snackbars con "Undo") encontró que sacar un producto de guardados es irreversible: un toque de pulgar equivocado en mobile no tiene vuelta atrás, y la industria resuelve exactamente este caso con un botón de deshacer transitorio en vez de un `confirm()` que la gente ignora por reflejo. **Gemini** propuso migrar los dos focus traps manuales (`MobileNav.tsx`, `TableOfContents.tsx`) al elemento nativo `<dialog>` — idea real y verificada, pero de alcance mayor al de una ronda (dos modales ya funcionando, con su propio scroll-lock y animaciones, en juego): **no implementada**, queda anotada para una ronda dedicada.
+
+**Implementado (dos features):**
+1. Se sacaron los bloques `deliveryTime`/`hasMerchantReturnPolicy` fijos de ambos emisores de JSON-LD; quedan condicionados a que algún día se cargue un valor real verificado a mano en `structuredData` de un producto puntual (ninguno lo tiene hoy, así que simplemente se omiten en vez de mentir).
+2. `SAVED_TOAST_EVENT` ahora lleva el `id` del producto en el detalle (`use-saved-products.ts`); `SavedToast.tsx` muestra "Deshacer" en vez de "Ver mi lista" cuando la acción fue sacar uno, y el botón vuelve a llamar `toggle(id)` para restaurarlo.
+
+**Verificado en navegador:** en la ficha de la Insta360 X4, el JSON-LD extraído ya no trae `shippingDetails` ni `hasMerchantReturnPolicy` en `offers` (`'shippingDetails' in offers` → `false`), con `seller` intacto. Con clics reales (`.click()` nativo del DOM, no `.focus()`) en el corazón de esa misma ficha: sacarla mostró "Quitado de guardados — Deshacer", y clickear "Deshacer" devolvió el botón a `aria-label="Sacar ... de guardados"` (guardado de nuevo).
+
+`tsc --noEmit`, `eslint` sobre los 4 archivos tocados (el error preexistente de `react-hooks/set-state-in-effect` en `use-saved-products.ts` no es de esta ronda, confirmado con `git diff -U0`) y `npm run build`, todos limpios.
+
+**Con 136 features implementadas, 136 commits locales.**

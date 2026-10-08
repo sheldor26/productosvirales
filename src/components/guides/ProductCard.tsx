@@ -82,44 +82,11 @@ function SchemaLd({ product }: { product: ReturnType<typeof getProductById> }) {
               "@type": "Organization",
               name: "MercadoLibre Argentina",
             },
-            shippingDetails: {
-              "@type": "OfferShippingDetails",
-              shippingDestination: {
-                "@type": "DefinedRegion",
-                addressCountry: "AR",
-              },
-              deliveryTime: {
-                "@type": "ShippingDeliveryTime",
-                handlingTime: {
-                  "@type": "QuantitativeValue",
-                  minValue: 0,
-                  maxValue: 1,
-                  unitCode: "DAY",
-                },
-                transitTime: {
-                  "@type": "QuantitativeValue",
-                  minValue: 1,
-                  maxValue: 5,
-                  unitCode: "DAY",
-                },
-              },
-              ...(product.freeShipping && {
-                shippingRate: {
-                  "@type": "MonetaryAmount",
-                  value: "0",
-                  currency: "ARS",
-                },
-              }),
-            },
-            hasMerchantReturnPolicy: {
-              "@type": "MerchantReturnPolicy",
-              applicableCountry: "AR",
-              returnPolicyCategory:
-                "https://schema.org/MerchantReturnFiniteReturnWindow",
-              merchantReturnDays: 30,
-              returnMethod: "https://schema.org/ReturnByMail",
-              returnFees: "https://schema.org/FreeReturn",
-            },
+            // Sin `deliveryTime`/`hasMerchantReturnPolicy` fijo: el sitio es
+            // afiliado, no vendedor — no controla el plazo de entrega ni la
+            // devolución reales de cada publicación de ML (varían por
+            // vendedor), y ninguno de los dos se muestra en la tarjeta. Dato
+            // inventado, mismo fix que page.tsx de /producto/[slug].
           },
         }),
       }}

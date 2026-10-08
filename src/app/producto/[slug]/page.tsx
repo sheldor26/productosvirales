@@ -304,44 +304,20 @@ export default async function ProductPage({ params }: Props) {
           : "https://schema.org/InStock",
       priceValidUntil: getPriceValidUntil(product),
       seller: { "@type": "Organization", name: "MercadoLibre Argentina" },
-      shippingDetails: customOffers.shippingDetails || {
-        "@type": "OfferShippingDetails",
-        shippingDestination: {
-          "@type": "DefinedRegion",
-          addressCountry: "AR",
-        },
-        deliveryTime: {
-          "@type": "ShippingDeliveryTime",
-          handlingTime: {
-            "@type": "QuantitativeValue",
-            minValue: 0,
-            maxValue: 1,
-            unitCode: "DAY",
-          },
-          transitTime: {
-            "@type": "QuantitativeValue",
-            minValue: 1,
-            maxValue: 5,
-            unitCode: "DAY",
-          },
-        },
-        ...(product.freeShipping && {
-          shippingRate: {
-            "@type": "MonetaryAmount",
-            value: "0",
-            currency: "ARS",
-          },
-        }),
-      },
-      hasMerchantReturnPolicy: customOffers.hasMerchantReturnPolicy || {
-        "@type": "MerchantReturnPolicy",
-        applicableCountry: "AR",
-        returnPolicyCategory:
-          "https://schema.org/MerchantReturnFiniteReturnWindow",
-        merchantReturnDays: 30,
-        returnMethod: "https://schema.org/ReturnByMail",
-        returnFees: "https://schema.org/FreeReturn",
-      },
+      // `deliveryTime`/`hasMerchantReturnPolicy` NO van acá con un default
+      // fijo: el sitio es afiliado, no vendedor — no controla el plazo de
+      // entrega ni la política de devolución reales de cada publicación de
+      // ML (varían por vendedor), y ninguno de los dos se muestra en la
+      // página (ProductDetail.tsx solo renderiza el badge "Envío gratis").
+      // Antes esto declaraba "0-1 día de preparación + 1-5 de tránsito" y
+      // "devolución gratis a 30 días" para los 934 productos del catálogo
+      // por igual — dato inventado, choca con la regla de la casa. Solo se
+      // emiten si algún día se carga un valor real y verificado a mano en
+      // `structuredData` de ese producto puntual.
+      ...(customOffers.shippingDetails ? { shippingDetails: customOffers.shippingDetails } : {}),
+      ...(customOffers.hasMerchantReturnPolicy
+        ? { hasMerchantReturnPolicy: customOffers.hasMerchantReturnPolicy }
+        : {}),
     },
   };
 

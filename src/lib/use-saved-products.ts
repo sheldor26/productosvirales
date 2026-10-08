@@ -63,7 +63,7 @@ export function useSavedProducts() {
     writeSaved(next);
     setIds(next);
     window.dispatchEvent(
-      new CustomEvent(SAVED_TOAST_EVENT, { detail: { action: wasSaved ? "remove" : "add" } })
+      new CustomEvent(SAVED_TOAST_EVENT, { detail: { action: wasSaved ? "remove" : "add", id } })
     );
     window.gtag?.("event", "saved_product_toggle", {
       action: wasSaved ? "remove" : "add",
