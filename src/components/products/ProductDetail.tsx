@@ -397,7 +397,7 @@ export function ProductDetail({
             <span className="text-3xl font-bold text-[var(--text-primary)]">
               {formatPrice(product.price)}
             </span>
-            {product.originalPrice && (
+            {discount && product.originalPrice && (
               <>
                 <span className="text-base text-[var(--text-muted)] line-through">
                   {formatPrice(product.originalPrice)}

@@ -278,7 +278,7 @@ export function ProductCard({
             <span className="text-[18px] font-bold text-[var(--text-primary)]">
               {formatPrice(price)}
             </span>
-            {originalPrice && (
+            {discount && originalPrice && (
               <span className="text-xs text-[var(--text-muted)] line-through">
                 {formatPrice(originalPrice)}
               </span>

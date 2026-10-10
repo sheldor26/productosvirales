@@ -13,7 +13,8 @@ export function formatPrice(price: number, currency = "ARS"): string {
   }).format(price);
 }
 
-export function formatDiscount(original: number, current: number): number {
+export function formatDiscount(original: number, current: number): number | null {
+  if (original <= current) return null;
   return Math.round(((original - current) / original) * 100);
 }
 
