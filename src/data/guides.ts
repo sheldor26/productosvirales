@@ -31044,6 +31044,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { label: "Bordeadora eléctrica: cuál comprar", href: "/guias/hogar-jardin/bordeadora-electrica" },
       { label: "Cortadora de césped: cuál comprar", href: "/guias/hogar-jardin/cortadora-de-cesped" },
       { label: "Hidrolavadora inalámbrica: cuál comprar", href: "/guias/hogar-jardin/hidrolavadora-inalambrica" },
+      { label: "Inflador de aire para auto: cuál comprar", href: "/guias/hogar-jardin/inflador-para-auto" },
     ],
     internalLinksTitle: "Más para el jardín",
   },
@@ -33546,6 +33547,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { label: "Bordeadora eléctrica: cuál comprar", href: "/guias/hogar-jardin/bordeadora-electrica" },
       { label: "Mancuernas: cuál comprar", href: "/guias/fitness/mancuernas" },
       { label: "Bicicleta fija: cuál comprar", href: "/guias/fitness/bicicleta-fija" },
+      { label: "Inflador de aire para auto: cuál comprar", href: "/guias/hogar-jardin/inflador-para-auto" },
     ],
     internalLinksTitle: "Más guías nuevas del sitio",
   },
@@ -35026,6 +35028,105 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { label: "Lámpara de pie: cuál comprar en Argentina", href: "/guias/hogar-jardin/lampara-de-pie" },
       { label: "Estantería flotante: cuál comprar en Argentina", href: "/guias/hogar-jardin/estanteria-flotante" },
       { label: "Escurridor de platos: cuál comprar en Argentina", href: "/guias/hogar-jardin/escurridor-de-platos" },
+      { label: "Inflador de aire para auto: cuál comprar", href: "/guias/hogar-jardin/inflador-para-auto" },
+    ],
+    internalLinksTitle: "Más de hogar y jardín",
+  },
+  {
+    slug: "inflador-para-auto",
+    category: "inflador-para-auto",
+    silo: "hogar-jardin",
+    pillar: true,
+    title: `Inflador de aire para auto: cuál comprar en Argentina [2026]`,
+    seoTitle: `Inflador de Aire para Auto: Cuál Comprar en Argentina | 2026`,
+    metaDescription: `Comparamos 3 infladores de aire portátiles para auto: el más vendido, el de mayor caudal con cable de 12V y el de marca Xiaomi. Con el dato honesto de cuál pagás de más por marca, no por potencia.`,
+    ogTitle: `Inflador de aire para auto: cuál comprar en Argentina`,
+    ogDescription: `Del Gadnic más vendido al Xiaomi de marca reconocida: 3 infladores de aire portátiles comparados por caudal real, batería y precio de MercadoLibre.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_2X_649700-MLA110082198520_042026-F.webp`,
+    h1: `Inflador de aire para auto: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene el **[Gadnic IN305](/producto/inflador-de-neumaticos-inalambrico-mini-recargable-gadnic-compresor-de-aire-port-mla27293299)** (alrededor de {{precio:MLA27293299:k}}): el más vendido y el más barato de esta comparativa, con {{reviews:MLA27293299}} calificaciones. Si querés más caudal y poder enchufarlo directo al auto, el **[Gadnic INF-7800A](/producto/inflador-inalambrico-gadnic-portatil-compresor-de-aire-2600-mah-digital-recargab-mla37128396)**, con cable de 12V y mejor calificación ({{rating:MLA37128396}} estrellas). Y si priorizás el respaldo de una marca internacional, el **[Xiaomi Air Compressor 2](/producto/compresor-de-aire-electrico-portatil-xiaomi-air-compressor-2-mla28765691)**, aunque es el más caro y no el más potente de los tres.`,
+    publishedDate: "2026-10-09",
+    updatedDate: "2026-10-09",
+    hasDisclosure: true,
+    readingTime: 7,
+    standfirst: `Un inflador de aire portátil va de {{precio:MLA27293299:k}} (el más vendido) a {{precio:MLA28765691:k}} (el de marca Xiaomi). Te mostramos cuál conviene, comparando los más vendidos de Argentina con precios reales de MercadoLibre — incluido el dato honesto de cuál pagás de más por marca, no por más potencia.`,
+    quickPicks: [
+      { productMlaId: "MLA27293299", label: "El más vendido", labelColor: "green", tagline: "Gadnic IN305: el más barato, con {{reviews:MLA27293299}} calificaciones" },
+      { productMlaId: "MLA37128396", label: "Más caudal y cable 12V", labelColor: "blue", tagline: "Gadnic INF-7800A: {{rating:MLA37128396}} estrellas, enchufa directo al auto" },
+      { productMlaId: "MLA28765691", label: "Marca reconocida", labelColor: "purple", tagline: "Xiaomi Air Compressor 2: {{reviews:MLA28765691}} calificaciones" },
+    ],
+    intro: [
+      `Un inflador de aire portátil resuelve algo simple: no depender de una estación de servicio para inflar una rueda baja. Los tres de esta comparativa son inalámbricos y recargables, prometen presión de alrededor de 150 PSI, y según las reseñas reales, cumplen bien para uso ocasional en auto, moto y bici.`,
+      `En esta guía comparamos los infladores de aire portátiles más vendidos de Argentina por caudal real, batería y precio, incluido el dato honesto de que la marca más cara no es la más potente.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_649700-MLA110082198520_042026-F.webp", alt: `Inflador de aire portátil Gadnic IN305, el más vendido de Argentina`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría conviene el **[Gadnic IN305](/producto/inflador-de-neumaticos-inalambrico-mini-recargable-gadnic-compresor-de-aire-port-mla27293299)**: el más barato y el más vendido. Si querés más caudal y cable para el auto, el **[Gadnic INF-7800A](/producto/inflador-inalambrico-gadnic-portatil-compresor-de-aire-2600-mah-digital-recargab-mla37128396)**. Y si priorizás una marca internacional reconocida, el **[Xiaomi Air Compressor 2](/producto/compresor-de-aire-electrico-portatil-xiaomi-air-compressor-2-mla28765691)**, aunque no es el más potente.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos los infladores de aire portátiles con más ventas y opiniones reales en MercadoLibre Argentina. Los ordenamos por lo que define la compra: **caudal real** (litros por minuto), **batería** y si permiten enchufarse directo al auto, y precio real. Citamos reseñas de 5 estrellas y de 1-2 estrellas por igual: algunas quejas puntuales sobre batería y pérdida de presión al desenroscar la manguera nos pareció importante no esconderlas. Los precios que ves en las fichas y tablas se revisan contra MercadoLibre varias veces por semana.` },
+
+      { type: "h2", title: `Qué mirar antes de comprar un inflador de aire para auto`, id: "que-mirar" },
+      { type: "p", content: `Lo primero: el caudal (litros por minuto). Cuanto más caudal, más rápido infla. De esta comparativa, el Gadnic INF-7800A tiene el mayor caudal (19 l/min), seguido por el Gadnic IN305 y el Xiaomi (15 l/min cada uno) — pese a que el Xiaomi es el más caro de los tres.` },
+      { type: "p", content: `Segundo, si necesitás enchufarlo directo al auto: solo el Gadnic INF-7800A de esta comparativa incluye cable de 12V para el encendedor, además de la batería interna. Los otros dos dependen solo de su batería recargable por USB.` },
+
+      { type: "h2", title: `Los mejores infladores de aire para auto 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Gadnic IN305 — el más vendido` },
+      { type: "product-card", productMlaId: "MLA27293299", label: "El más vendido", labelColor: "green", ranking: 1, description: `1° en Eléctricos de MercadoLibre, con {{reviews:MLA27293299}} calificaciones y {{rating:MLA27293299}} estrellas. El más barato de esta comparativa.` },
+      { type: "p", content: `Si el precio pesa en la decisión, es este. El Gadnic IN305 es el más barato de los tres, a alrededor de {{precio:MLA27293299:k}}, y también el más vendido (con {{reviews:MLA27293299}} calificaciones). Infla una rueda de auto en menos de un minuto, según confirman compradores reales.` },
+      { type: "p", content: `Lo honesto: una reseña real de 2 estrellas avisa que al desenroscar la manguera de la cubierta se pierde presión, y otra reporta que la batería se agotó tras inflar solo dos ruedas de auto.` },
+      { type: "pull-quote", content: `"Me sorprendió gratamente. Infle 4 neumaticos desde 23-24 libras a 31, en menos de 1 minuto cada una. Las gomas de bicicleta, en segundos."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `2. Gadnic INF-7800A — más caudal y cable 12V` },
+      { type: "product-card", productMlaId: "MLA37128396", label: "Más caudal y cable 12V", labelColor: "blue", ranking: 2, description: `19 l/min de caudal, el mayor de esta comparativa, con cable de 12V para el auto. {{rating:MLA37128396}} estrellas, la mejor de los tres.` },
+      { type: "p", content: `Si querés más caudal y no depender solo de la batería, el Gadnic INF-7800A suma cable de 12V para el encendedor, manómetro digital y luz LED con modo SOS, a alrededor de {{precio:MLA37128396:k}}. Es más caro que el IN305, pero bastante más barato que el Xiaomi.` },
+      { type: "p", content: `Lo honesto: una reseña real de 2 estrellas reportó que la batería de su unidad se degradó rápido tras pocos días de uso, aunque no es la experiencia mayoritaria ({{rating:MLA37128396}} estrellas en {{reviews:MLA37128396}} calificaciones).` },
+      { type: "pull-quote", content: `"La verdad me sorprendió, infle las 4 ruedas del auto q estaban en 18/20 psi a 32 psi cada una, luego infle las 2 ruedas de la bici de mi nene y la rueda delantera de la moto de mi sra, solo bajo una línea, espectacular."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `3. Xiaomi Air Compressor 2 — marca reconocida` },
+      { type: "product-card", productMlaId: "MLA28765691", label: "Marca reconocida", labelColor: "purple", ranking: 3, description: `1° en ventas de Compresores de Aire de MercadoLibre, con {{reviews:MLA28765691}} calificaciones. El más caro de esta comparativa.` },
+      { type: "p", content: `Si priorizás el respaldo de una marca internacional reconocida, el Xiaomi es el más vendido de su categoría específica y tiene el mayor número de calificaciones de esta comparativa ({{reviews:MLA28765691}}), a alrededor de {{precio:MLA28765691:k}}.` },
+      { type: "p", content: `Lo honesto: pese a ser el más caro, su caudal (15 l/min) es menor que el del Gadnic INF-7800A (19 l/min). Acá pagás más por la marca y el diseño compacto, no por más potencia.` },
+      { type: "pull-quote", content: `"Infle 2 ruedas de la bici de 4 a 40 psi (en cosa de un minuto por rueda) y infle las ruedas delanteras del auto de 27 a 30 psi y el auxilio de 19 a 32 psi tambien en menos de un minuto cada una. Todo esto y seguia marcando 3 lineas de bateria."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h2", title: `Tabla comparativa: caudal, batería y precio`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Caudal`, `Cable 12V`, `Ideal para`], rows: [
+        [`[Gadnic IN305](https://meli.la/1fsXb9s)`, `{{precio:MLA27293299}}`, `15 l/min`, `No`, `El más barato y más vendido`],
+        [`[Gadnic INF-7800A](https://meli.la/2z5kp7d)`, `{{precio:MLA37128396}}`, `19 l/min`, `Sí`, `Mayor caudal, enchufa al auto`],
+        [`[Xiaomi Air Compressor 2](https://meli.la/1jdsqY9)`, `{{precio:MLA28765691}}`, `15 l/min`, `No`, `Marca internacional reconocida`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu inflador de aire para auto`, id: "como-elegir" },
+      { type: "h3", title: `1. Pensá en el caudal, no solo en el precio` },
+      { type: "p", content: `El dato que más importa es cuántos litros por minuto infla. El [Gadnic INF-7800A](/producto/inflador-inalambrico-gadnic-portatil-compresor-de-aire-2600-mah-digital-recargab-mla37128396) tiene el mayor caudal de esta comparativa (19 l/min), por encima incluso del Xiaomi, que cuesta más.` },
+      { type: "h3", title: `2. ¿Necesitás enchufarlo directo al auto?` },
+      { type: "p", content: `Si no querés depender solo de la batería interna, el [Gadnic INF-7800A](/producto/inflador-inalambrico-gadnic-portatil-compresor-de-aire-2600-mah-digital-recargab-mla37128396) es el único de esta comparativa con cable de 12V para el encendedor.` },
+      { type: "h3", title: `3. ¿Te importa el respaldo de marca?` },
+      { type: "p", content: `Si preferís una marca internacional reconocida y no te importa pagar más por eso, el [Xiaomi Air Compressor 2](/producto/compresor-de-aire-electrico-portatil-xiaomi-air-compressor-2-mla28765691) es la opción. Si priorizás la mejor relación potencia-precio, el [Gadnic INF-7800A](/producto/inflador-inalambrico-gadnic-portatil-compresor-de-aire-2600-mah-digital-recargab-mla37128396) rinde más por lo que cuesta.` },
+
+      { type: "h2", title: `Cuánto cuesta un inflador de aire para auto en Argentina [octubre 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de {{precio:MLA27293299:k}}:** el más barato y el más vendido, el [Gadnic IN305](https://meli.la/1fsXb9s).`,
+        `**Alrededor de {{precio:MLA37128396:k}}:** el de mayor caudal, con cable de 12V, el [Gadnic INF-7800A](https://meli.la/2z5kp7d).`,
+        `**Alrededor de {{precio:MLA28765691:k}}:** el de marca Xiaomi, el [Xiaomi Air Compressor 2](https://meli.la/1jdsqY9) — el más caro de esta comparativa, pese a no ser el más potente.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál inflador de aire para auto comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la mayoría, el **[Gadnic IN305](/producto/inflador-de-neumaticos-inalambrico-mini-recargable-gadnic-compresor-de-aire-port-mla27293299)**: el más barato y el más vendido. Si querés más caudal y poder enchufarlo al auto, el **[Gadnic INF-7800A](/producto/inflador-inalambrico-gadnic-portatil-compresor-de-aire-2600-mah-digital-recargab-mla37128396)**, la mejor relación potencia-precio de esta comparativa. Y si priorizás una marca internacional reconocida, el **[Xiaomi Air Compressor 2](/producto/compresor-de-aire-electrico-portatil-xiaomi-air-compressor-2-mla28765691)**, aunque no es el más potente de los tres.` },
+    ],
+    faq: [
+      { question: `¿Cuál es el mejor inflador de aire para auto en Argentina?`, answer: `Por ventas y precio, el [Gadnic IN305](https://meli.la/1fsXb9s): el más barato y el más vendido. Si querés más caudal y cable de 12V, el [Gadnic INF-7800A](https://meli.la/2z5kp7d).` },
+      { question: `¿Cuál tiene más caudal?`, answer: `El Gadnic INF-7800A, con 19 l/min, por encima incluso del Xiaomi Air Compressor 2 (15 l/min), que cuesta más.` },
+      { question: `¿Alguno se puede enchufar directo al auto?`, answer: `Sí, el [Gadnic INF-7800A](https://meli.la/2z5kp7d) incluye cable de 12V para el encendedor, además de su batería interna. Los otros dos de esta comparativa se cargan solo por USB.` },
+      { question: `¿Vale la pena pagar más por la marca Xiaomi?`, answer: `Depende de qué priorices. Tiene buen respaldo de reseñas y diseño compacto, pero no es el más potente ni el más versátil de esta comparativa: el Gadnic INF-7800A tiene más caudal y cuesta menos.` },
+      { question: `¿Cuánto dura la batería?`, answer: `Según las fichas técnicas, varios minutos de uso continuo por carga. Hay reseñas reales puntuales que reportan baterías que se agotaron rápido, aunque no es la experiencia mayoritaria en ninguno de los tres.` },
+      { question: `¿Sirven para bicicletas y pelotas, además de autos?`, answer: `Sí, los tres incluyen boquillas adicionales para distintos tipos de válvulas y objetos inflables, no solo neumáticos de auto.` },
+    ],
+    internalLinks: [
+      { label: "Taladro percutor: cuál comprar en Argentina", href: "/guias/hogar-jardin/taladro-percutor" },
+      { label: "Hidrolavadora: cuál comprar en Argentina", href: "/guias/hogar-jardin/hidrolavadora" },
+      { label: "Luz LED bajo alacena: cuál comprar en Argentina", href: "/guias/hogar-jardin/luz-led-bajo-alacena" },
     ],
     internalLinksTitle: "Más de hogar y jardín",
   },
@@ -35629,5 +35730,10 @@ export const guideCategories: Record<string, { name: string; description: string
     name: "Guías de Marcas",
     description:
       "¿Es buena la marca X? Analizamos el catálogo completo de cada marca con rating y cantidad real de opiniones de MercadoLibre, categoría por categoría.",
+  },
+  "inflador-para-auto": {
+    name: "Guía de Infladores de Aire Portátiles",
+    description:
+      "Infladores de aire inalámbricos para auto, moto y bici comparados por caudal, batería y precio real de MercadoLibre.",
   },
 };

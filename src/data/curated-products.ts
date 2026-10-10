@@ -103334,6 +103334,257 @@ No es para vos si tu superficie de montaje no es ideal para cinta adhesiva (mir�
       { question: "¿Cada cuánto se apaga sola?", answer: "A los 20 segundos de inactividad, para cuidar el consumo de la batería." },
     ],
   },
+
+  // ─────────────────────────────────────────────────────────
+  // Sourcing 2026-10-09: hub de afiliados de ML, 3 fichas para la
+  // guía pilar inflador-para-auto (silo hogar-jardin). Keyword
+  // validada con Keyword Planner (fuente oficial AR): "inflador
+  // para auto" 3.600/mes, competencia alta. Imágenes verificadas
+  // 2X-F con curl GET (no HEAD) + PIL.
+  // ─────────────────────────────────────────────────────────
+  {
+    id: "MLA27293299",
+    title: "Inflador De Neumaticos Inalambrico Mini Recargable Gadnic Compresor De Aire Portatil 150 PSI Pantalla Digital Compacto Boquillas Incluidas",
+    canonicalName: "Gadnic IN305",
+    brand: "Gadnic",
+    mpn: "IN305",
+    price: 49999,
+    originalPrice: 107749,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_649700-MLA110082198520_042026-F.webp",
+    category: "Hogar",
+    categorySlug: "hogar",
+    permalink: "https://www.mercadolibre.com.ar/inflador-de-neumaticos-inalambrico-mini-recargable-gadnic-compresor-de-aire-portatil-150-psi-pantalla-digital-compacto-boquillas-incluidas/p/MLA27293299",
+    affiliateUrl: "https://meli.la/1fsXb9s",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 9013,
+    reviewsSampledAt: "2026-10-09",
+    soldQuantity: 10000,
+    visibility: "normal",
+    priceUpdated: "2026-10-09",
+    priceLastChecked: "2026-10-09",
+    priceStatus: "fresh",
+    seoTitle: "Inflador de aire Gadnic IN305: precio en Argentina y qué tan real es la presión de 150 PSI",
+    metaDescription: "Inflador de neumáticos Gadnic IN305 a {{precio:MLA27293299}} con {{reviews:MLA27293299}} calificaciones, 1° en ventas de la categoría. Compacto y rápido, pero compradores avisan: al desenroscar la boquilla se pierde presión.",
+    pros: [
+      "1° más vendida en Eléctricos de MercadoLibre Argentina, con {{reviews:MLA27293299}} calificaciones y {{rating:MLA27293299}} estrellas",
+      "La más barata y compacta de esta comparativa, con hasta 9 minutos de uso continuo y carga completa en 5 horas",
+      "Infla una rueda de auto en menos de un minuto, según confirman compradores reales",
+      "Incluye 3 boquillas adicionales y cable USB, con cilindro de 17mm para presión constante",
+    ],
+    cons: [
+      "Según una reseña real de 2 estrellas, al desenroscar la manguera de la cubierta se pierde aire y la presión final no coincide con la programada",
+      "Otra reseña real de 2 estrellas reporta que la batería se agotó tras inflar solo las dos ruedas delanteras del auto, en dos intentos distintos",
+      "No tiene cable de 12V para enchufar directo al auto, a diferencia de la Gadnic INF-7800A de esta comparativa",
+      "Menor caudal que las otras dos de esta comparativa: 15 l/min",
+    ],
+    verdict: "Con {{reviews:MLA27293299}} calificaciones y {{rating:MLA27293299}} estrellas, es la más vendida y la más barata de esta comparativa. Cumple bien para uso ocasional, pero algunas reseñas reales reportan baterías que se agotan rápido y pérdida de presión al desenroscar la boquilla — nada generalizado, pero vale saberlo.",
+    specs: [
+      { label: "Marca", value: "Gadnic" },
+      { label: "Modelo", value: "IN305" },
+      { label: "Voltaje", value: "5V USB" },
+      { label: "Potencia", value: "50W" },
+      { label: "Presión máxima", value: "150 PSI" },
+      { label: "Caudal máximo", value: "15 l/min" },
+      { label: "Peso", value: "420g" },
+      { label: "Tiempo de carga", value: "5 horas" },
+      { label: "Accesorios incluidos", value: "3 boquillas adicionales, cable de carga USB" },
+    ],
+    relatedProducts: ["MLA37128396", "MLA28765691"],
+    articleBody: `## Qué es el inflador Gadnic IN305
+
+Es un inflador de neumáticos inalámbrico y recargable, {{reviews:MLA27293299}} calificaciones y {{rating:MLA27293299}} estrellas en MercadoLibre Argentina, vendido a {{precio:MLA27293299}}. Es el 1° más vendido de la categoría Eléctricos de MercadoLibre Argentina.
+
+## Cómo funciona
+
+Es compacto y liviano, pensado para llevar en la guantera. Tiene selector digital de presión con corte automático, cilindro de 17mm para un inflado parejo, y hasta 9 minutos de uso continuo por carga (5 horas para cargarlo por completo). Incluye 3 boquillas adicionales para pelotas, colchones inflables y bicicletas.
+
+## Lo que dicen los compradores
+
+Una reseña real describe el primer uso: **"Medio enquilombado todas la mangueras pero cuando le agarras la mano va muy bien!! lo ideal es la continuidad de hacérselo una vez al día para notar el cambio"** (139 votos útiles). Otra reseña suma datos concretos: **"Me sorprendió gratamente. Infle 4 neumaticos desde 23-24 libras a 31, en menos de 1 minuto cada una. Las gomas de bicicleta, en segundos"** (265 votos útiles).
+
+## El dato honesto: dos quejas reales que conviene conocer
+
+Una reseña real de 2 estrellas avisa sobre un problema concreto: **"Cuando desenroscas de la cubierta se pierde el aire y no queda con las libras correspondientes"**. Otra, también de 2 estrellas, reporta un problema distinto: **"Le puse una libra de presión a las dos ruedas de adelante del auto y se acabó la batería. Dos veces lo hice paso lo mismo. La batería se descarga. No me sirve para el auto"**. No son quejas mayoritarias (la calificación promedio es {{rating:MLA27293299}}), pero vale la pena saberlas antes de comprar.
+
+## Para quién es, y para quién no
+
+Es para vos si buscás la opción más barata y compacta para inflar ruedas de auto, moto, bici o inflables ocasionalmente.
+
+No es para vos si necesitás enchufarlo directo al auto sin depender de la batería (mirá la Gadnic INF-7800A más abajo) o si preferís el respaldo de una marca internacional reconocida (mirá la Xiaomi).`,
+    faq: [
+      { question: "¿Pierde presión al desenroscar la manguera?", answer: "Según una reseña real de 2 estrellas, sí: al desenroscar de la cubierta se pierde aire y la presión final no coincide exactamente con la programada." },
+      { question: "¿Cuánto dura la batería?", answer: "Hasta 9 minutos de uso continuo por carga, según su ficha técnica. Una reseña real reporta que se agotó tras inflar solo dos ruedas de auto, aunque no es la experiencia mayoritaria." },
+      { question: "¿Cuánto tarda en cargarse?", answer: "5 horas para una carga completa, según su ficha técnica." },
+      { question: "¿Sirve para bicicletas y pelotas?", answer: "Sí, incluye 3 boquillas adicionales para distintos tipos de válvulas y objetos inflables." },
+      { question: "¿Tiene cable para enchufar al auto?", answer: "No, se carga por USB. Para eso, la Gadnic INF-7800A de esta comparativa incluye cable de 12V para el encendedor." },
+      { question: "¿Cuánta presión máxima alcanza?", answer: "150 PSI según su ficha técnica, aunque una reseña real menciona haber medido una capacidad algo menor en la práctica." },
+    ],
+  },
+  {
+    id: "MLA37128396",
+    title: "Inflador Inalambrico Gadnic Portatil Compresor De Aire 2600 mAh Digital Recargable Con Auto Stop Luz Led Para Neumaticos",
+    canonicalName: "Gadnic INF-7800A",
+    brand: "Gadnic",
+    mpn: "INF-7800A",
+    price: 65349,
+    originalPrice: 111349,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_903074-MLA110082289026_042026-F.webp",
+    category: "Hogar",
+    categorySlug: "hogar",
+    permalink: "https://www.mercadolibre.com.ar/inflador-inalambrico-gadnic-portatil-compresor-de-aire-2600-mah-digital-recargable-con-auto-stop-luz-led-para-neumaticos/p/MLA37128396",
+    affiliateUrl: "https://meli.la/2z5kp7d",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.9,
+    reviewCount: 2127,
+    reviewsSampledAt: "2026-10-09",
+    soldQuantity: 5000,
+    visibility: "normal",
+    priceUpdated: "2026-10-09",
+    priceLastChecked: "2026-10-09",
+    priceStatus: "fresh",
+    seoTitle: "Inflador Gadnic INF-7800A: 19L/min y cable de 12V, ¿vale la pena pagar más que el mini?",
+    metaDescription: "Inflador de aire Gadnic INF-7800A a {{precio:MLA37128396}} con {{reviews:MLA37128396}} calificaciones. Mayor caudal, batería 2600mAh y cable de 12V para el auto — pero una unidad real reportó batería que se degrada rápido.",
+    pros: [
+      "Mayor caudal de esta comparativa: 19 l/min, con manómetro digital de doble pantalla (PSI, BAR, kPa, kg/cm²)",
+      "Incluye cable de 12V para enchufar directo al encendedor del auto, además del cable USB: no depende solo de la batería interna",
+      "{{rating:MLA37128396}} estrellas, la más alta de esta comparativa, con {{reviews:MLA37128396}} calificaciones",
+      "Luz LED integrada con modos normal, SOS y flash para emergencias nocturnas",
+    ],
+    cons: [
+      "Es más cara que la Gadnic básica, aunque bastante más barata que la Xiaomi de esta comparativa",
+      "Una reseña real de 2 estrellas reporta que la batería se cargó sospechosamente rápido (menos de 10 minutos) y luego se degradó a una sola barra en pocos días",
+      "No tiene el respaldo de marca internacional que sí tiene la Xiaomi de esta comparativa",
+      "7° en ventas de su categoría, menos posicionada que la Gadnic básica",
+    ],
+    verdict: "Con {{rating:MLA37128396}} estrellas y {{reviews:MLA37128396}} calificaciones, es la mejor calificada de esta comparativa. El cable de 12V y el mayor caudal la hacen más versátil que la básica, aunque alguna reseña real reporta degradación de batería en unidades puntuales.",
+    specs: [
+      { label: "Marca", value: "Gadnic" },
+      { label: "Modelo", value: "INF-7800A" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Batería", value: "2600 mAh" },
+      { label: "Presión máxima", value: "150 PSI" },
+      { label: "Caudal máximo", value: "19 l/min" },
+      { label: "Peso", value: "515g" },
+      { label: "Carga", value: "USB y cable 12V (encendedor del auto)" },
+      { label: "Luz LED", value: "Normal, SOS, flash" },
+    ],
+    relatedProducts: ["MLA27293299", "MLA28765691"],
+    articleBody: `## Qué es el inflador Gadnic INF-7800A
+
+Es un inflador de aire inalámbrico con batería de 2600 mAh, {{rating:MLA37128396}} estrellas en {{reviews:MLA37128396}} calificaciones en MercadoLibre Argentina, vendido a {{precio:MLA37128396}}.
+
+## Lo que suma frente al modelo básico
+
+A diferencia de la Gadnic IN305 de esta comparativa, este modelo tiene un manómetro digital con doble pantalla (PSI, BAR, kPa, kg/cm²), mayor caudal (19 l/min contra 15 l/min) y luz LED con modos normal, SOS y flash. Además, incluye un cable de 12V para enchufarlo directo al encendedor del auto, sin depender solo de la batería interna.
+
+## Lo que dicen los compradores
+
+Una reseña real de 5 estrellas detalla el rendimiento: **"La verdad me sorprendió, infle las 4 ruedas del auto q estaban en 18/20 psi a 32 psi cada una, luego infle las 2 ruedas de la bici de mi nene y la rueda delantera de la moto de mi sra, solo bajo una línea, espectacular. Además q trae cable de usb, diferentes picos, la manguera de carga con traba y cable de 12v (encendedor) para usarlo directo"** (91 votos útiles).
+
+## El dato honesto: una queja real sobre la batería
+
+Una reseña real de 2 estrellas reporta algo que vale la pena conocer: **"Al principio funcionó bien, vino con poca batería y lo usé para la moto. El problema vino cuando lo puse a cargar y en menos de 10 minutos cargó completamente (se me hizo medio raro) pasado unos días, lo prendo para usarlo y la batería estaba en una sola barra, la cargué de nuevo"**. No es la experiencia mayoritaria (4.9 estrellas sobre más de 2.100 calificaciones), pero conviene saber que puede pasar en alguna unidad puntual.
+
+## Para quién es, y para quién no
+
+Es para vos si querés más caudal, luz LED con modo SOS, y la posibilidad de enchufarlo directo al auto sin depender de la batería.
+
+No es para vos si preferís la opción más barata (mirá la Gadnic IN305) o el respaldo de una marca internacional reconocida (mirá la Xiaomi de esta comparativa).`,
+    faq: [
+      { question: "¿Se puede enchufar directo al auto?", answer: "Sí, incluye un cable de 12V para el encendedor, además del cable USB. Es la única de esta comparativa con esa opción." },
+      { question: "¿Cuánto caudal tiene?", answer: "19 l/min, el mayor de esta comparativa, según su ficha técnica." },
+      { question: "¿La batería es confiable?", answer: "La mayoría de las reseñas son muy positivas (4.9 estrellas), aunque una reseña real reportó degradación rápida en una unidad puntual." },
+      { question: "¿Tiene luz para emergencias nocturnas?", answer: "Sí, con modos normal, SOS y flash." },
+      { question: "¿Cuánta presión máxima alcanza?", answer: "150 PSI según su ficha técnica." },
+      { question: "¿Vale la pena pagar más que la Gadnic básica?", answer: "Si querés más caudal, cable de 12V para el auto y luz SOS, sí. Si solo necesitás algo ocasional y barato, la Gadnic IN305 cumple." },
+    ],
+  },
+  {
+    id: "MLA28765691",
+    title: "Compresor De Aire Eléctrico Portátil Xiaomi Air Compressor 2",
+    canonicalName: "Xiaomi Air Compressor 2",
+    brand: "Xiaomi",
+    mpn: "Electric Air Compressor 2",
+    price: 84099,
+    originalPrice: 89650,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_665605-MLA100034987181_122025-F.webp",
+    category: "Hogar",
+    categorySlug: "hogar",
+    permalink: "https://www.mercadolibre.com.ar/compresor-de-aire-electrico-portatil-xiaomi-air-compressor-2/p/MLA28765691",
+    affiliateUrl: "https://meli.la/1jdsqY9",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.9,
+    reviewCount: 7990,
+    reviewsSampledAt: "2026-10-09",
+    soldQuantity: 10000,
+    visibility: "normal",
+    priceUpdated: "2026-10-09",
+    priceLastChecked: "2026-10-09",
+    priceStatus: "fresh",
+    seoTitle: "Compresor Xiaomi Air Compressor 2: ¿vale pagar más por la marca?",
+    metaDescription: "Compresor de aire Xiaomi Air Compressor 2 a {{precio:MLA28765691}} con {{reviews:MLA28765691}} calificaciones, 1° en ventas de la categoría. La más cara de esta comparativa, pero con menor caudal que la Gadnic más potente.",
+    pros: [
+      "1° en ventas de la categoría Compresores de Aire de MercadoLibre Argentina, con {{reviews:MLA28765691}} calificaciones y {{rating:MLA28765691}} estrellas, la mejor respaldada de esta comparativa",
+      "Marca internacional reconocida, con diseño compacto tipo candado que ocupa muy poco espacio",
+      "Según reseñas reales, infla ruedas de auto, moto y bici en menos de un minuto cada una, con batería que aguanta varios usos seguidos",
+      "Modos con PSI preprogramado por tipo de objeto (auto, moto, bici, pelota), fácil de usar",
+    ],
+    cons: [
+      "Es, por lejos, la más cara de esta comparativa",
+      "Pese al precio más alto, su caudal (15 l/min) es menor que el de la Gadnic INF-7800A (19 l/min) de esta comparativa: pagás más por la marca, no por más potencia",
+      "Una reseña real reporta haber recibido el paquete abierto al llegar, aunque el producto funcionaba bien",
+      "No incluye cable para enchufar directo al auto (12V), a diferencia de la Gadnic INF-7800A",
+    ],
+    verdict: "Con {{reviews:MLA28765691}} calificaciones y {{rating:MLA28765691}} estrellas, es la más respaldada y la de marca más reconocida de esta comparativa. Pero es la más cara, y su caudal real (15 l/min) no supera al de la Gadnic INF-7800A, que cuesta bastante menos.",
+    specs: [
+      { label: "Marca", value: "Xiaomi" },
+      { label: "Modelo", value: "Electric Air Compressor 2" },
+      { label: "Voltaje", value: "5V" },
+      { label: "Potencia", value: "0,75 HP" },
+      { label: "Presión máxima", value: "149,39 PSI" },
+      { label: "Caudal máximo", value: "15 l/min" },
+      { label: "Peso", value: "490g" },
+      { label: "Dimensiones", value: "12,3 x 7,55 x 4,58 cm" },
+      { label: "Batería", value: "Ion de litio" },
+    ],
+    relatedProducts: ["MLA27293299", "MLA37128396"],
+    articleBody: `## Qué es el Xiaomi Air Compressor 2
+
+Es un compresor de aire portátil de diseño compacto tipo candado, {{reviews:MLA28765691}} calificaciones y {{rating:MLA28765691}} estrellas en MercadoLibre Argentina, vendido a {{precio:MLA28765691}}. Es el 1° más vendido de la categoría Compresores de Aire de MercadoLibre Argentina.
+
+## El diferencial: marca y diseño, no potencia
+
+A diferencia de las dos Gadnic de esta comparativa, el principal atractivo del Xiaomi es el respaldo de una marca internacional reconocida, con {{reviews:MLA28765691}} calificaciones (la mayor cantidad de esta comparativa) y un diseño compacto de solo 490g. Pero su caudal real, según su propia ficha técnica, es de 15 l/min: menos que los 19 l/min de la Gadnic INF-7800A, pese a costar bastante más.
+
+## Lo que dicen los compradores
+
+Una reseña real de 5 estrellas detalla el rendimiento con números concretos: **"Por 55 dolares me parece que mas que lo vale, infla mas rapido que cualquier compresor de auto barato que puedas tener y el hecho de no tener que andar enchufandolo directo a una bateria de auto hace el uso ridiculamente comodo, infle 2 ruedas de la bici de 4 a 40 psi (en cosa de un minuto por rueda) y infle las ruedas delanteras del auto de 27 a 30 psi y el auxilio (recordatorio de revisar la presion de aire del auxilio gente) de 19 a 32 psi tambien en menos de un minuto cada una. Todo esto y seguia marcando 3 lineas de bateria"** (226 votos útiles).
+
+## El dato honesto: pagás por la marca, no por más potencia
+
+Si comparás solo las fichas técnicas, el Xiaomi no es el más potente de esta comparativa: su caudal de 15 l/min queda por debajo de los 19 l/min de la Gadnic INF-7800A, que además incluye cable de 12V para el auto y cuesta bastante menos. Lo que pagás de más acá es el respaldo de marca y el diseño, no una ventaja técnica real.
+
+## Para quién es, y para quién no
+
+Es para vos si priorizás el respaldo de una marca internacional reconocida y no te importa pagar más por eso.
+
+No es para vos si buscás la mejor relación potencia-precio (mirá la Gadnic INF-7800A) o la opción más económica (mirá la Gadnic IN305).`,
+    faq: [
+      { question: "¿Es el compresor más potente de esta comparativa?", answer: "No. Pese a ser el más caro, su caudal (15 l/min) es menor que el de la Gadnic INF-7800A (19 l/min), según las fichas técnicas de ambos." },
+      { question: "¿Vale la pena pagar más por la marca Xiaomi?", answer: "Depende de qué priorices. Tiene el mejor respaldo de reseñas de esta comparativa y un diseño muy compacto, pero no es el más potente ni el más versátil (no trae cable para el auto)." },
+      { question: "¿Trae cable para enchufar al auto?", answer: "No. Para eso, la Gadnic INF-7800A de esta comparativa sí lo incluye." },
+      { question: "¿Cuánto dura la batería?", answer: "Según una reseña real, alcanza para inflar varias ruedas de auto, moto y bici en una sola carga, con batería sobrante." },
+      { question: "¿Es fácil de usar?", answer: "Sí, tiene modos con presión preprogramada según el tipo de objeto (auto, moto, bici, pelota), aunque podés ajustarla manualmente también." },
+      { question: "¿Cuánto pesa?", answer: "490 gramos, según su ficha técnica, el más liviano de esta comparativa." },
+    ],
+  },
 ];
 
 export const categoryPastels: Record<string, string> = {
