@@ -2523,3 +2523,12 @@ Documentadas en `docs/POST_MASTER_STRUCTURE.md`:
 - ✅ Working tree clean.
 - ✅ Branch up-to-date con `origin/master`.
 - ✅ Master Structure consolidado y aplicado consistentemente en los 8 guides nuevos.
+
+## 2026-10-11 - Agente QA de conversion semanal (fase 1)
+
+- Nuevo: `scripts/qa-semanal/medir.cjs` (puppeteer, celular, solo lectura, bloquea GA4) y `scripts/qa-semanal/AGENTE.md` (instrucciones del agente: cruce GSC x GA4 x medicion, 4 compradores fantasma, dudas sin responder, jurado de titulares, reporte).
+- Salida en `docs/qa-semanal/AAAA-MM-DD/` (medicion.json, paginas/*.txt, capturas/*.png) y reporte `docs/qa-semanal/AAAA-MM-DD.md`.
+- Primera corrida: 65 paginas, promedio 18 clics a ML cada 100 visitas de Google. Las 3 guias mas flojas (yara-lattafa, 2 de donde-comprar) no tienen `quickPicks` (sin boton de arriba ni barra fija), pero `perfumes-arabes-dupes` tampoco y rinde 27: la barra fija NO explica la diferencia (hipotesis inicial corregida).
+- Pendiente: programar la tarea semanal (esperando OK de Juan); fase 2 (selector guiado, pagina "bajo esta semana").
+- La fase 1 (medidor y agente) no toca `src/`; el experimento A si toca `src/data/guides.ts` (ver abajo).
+- Experimento A (commiteado y pusheado el 2026-10-11): `quickPicks` en yara-lattafa-guia-completa y donde-comprar-perfumes-arabes-argentina (+ parrafo "Cual comprar primero" de Yara corregido). Buenos Aires = control. Build, lint y trio auditor OK. Linea de base y criterio de exito en `docs/qa-semanal/experimentos.md`. Pendiente: fecha de salida (la anota sola el recordatorio del 14/10) y evaluacion a las 6 semanas. Ademas se tokenizaron los precios viejos de la guia de Yara.

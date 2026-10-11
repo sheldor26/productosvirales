@@ -14435,6 +14435,11 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       "Si abrís TikTok con cierta frecuencia, es casi seguro que te cruzaste con Yara. Lattafa lo lanzó en 2020 como una fragancia femenina dulce y accesible, y en los últimos dos años se convirtió en el perfume árabe más buscado de Argentina. No es exageración: las búsquedas mensuales en Google vienen creciendo mes a mes.",
       "Pero acá empieza el problema para quien quiere comprarlo. No hay un solo Yara. Hay cinco variantes, colores distintos, precios distintos, y la diferencia entre Yara Elixir y Yara Tous no está clara en ninguna ficha de producto. Este artículo te cuenta qué son, cuál conviene según tu perfil, y cuánto deberías pagar hoy en Argentina."
     ],
+    quickPicks: [
+      { productMlaId: "MLA60836327", label: "Para empezar", labelColor: "green", tagline: "Dulce oriental intenso, para noche y clima fresco" },
+      { productMlaId: "MLA40521028", label: "Para el calor", labelColor: "blue", tagline: "Tropical y liviano, incluye estuche" },
+      { productMlaId: "MLA39865991", label: "El más polarizante", labelColor: "amber", tagline: "La más dulce y juvenil de la familia, incluye estuche" },
+    ],
     sections: [
       {
         type: "image",
@@ -14444,7 +14449,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       },
       {
         type: "p",
-        content: "Hoy existen cinco versiones de Yara Lattafa: original, Elixir, Tous, Moi y Candy. La diferencia central está entre el Yara original (2020), la fórmula dulce oriental de orquídea y vainilla que se hizo viral, y Yara Elixir (2025), la versión más concentrada e intensa de la familia. El resto son variantes del mismo perfil dulce, con precios de entre $25.000 y $40.000 en Argentina."
+        content: "Hoy existen cinco versiones de Yara Lattafa: original, Elixir, Tous, Moi y Candy. La diferencia central está entre el Yara original (2020), la fórmula dulce oriental de orquídea y vainilla que se hizo viral, y Yara Elixir (2025), la versión más concentrada e intensa de la familia. El resto son variantes del mismo perfil dulce, con precios de entre {{precio:MLA39865991:k}} y {{precio:MLA40521028:k}} en Argentina."
       },
       {
         type: "h2",
@@ -14456,7 +14461,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       },
       {
         type: "p",
-        content: "¿Por qué se volvió viral? Tres cosas concretas. Primero, el precio: entre $25.000 y $40.000 pesos según la versión, contra perfumes nicho que salen entre $250.000 y $500.000. Segundo, la duración real: 8 a 10 horas en piel, y esto en el rango de precio bajo es raro. Tercero, el frasco: diseño translúcido con tapón dorado, que en TikTok se ve mejor que muchos perfumes de lujo."
+        content: "¿Por qué se volvió viral? Tres cosas concretas. Primero, el precio: entre {{precio:MLA39865991:k}} y {{precio:MLA40521028:k}} según la versión, contra perfumes nicho que salen entre $250.000 y $500.000. Segundo, la duración real: 8 a 10 horas en piel, y esto en el rango de precio bajo es raro. Tercero, el frasco: diseño translúcido con tapón dorado, que en TikTok se ve mejor que muchos perfumes de lujo."
       },
       {
         type: "h2",
@@ -14619,7 +14624,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       },
       {
         type: "p",
-        content: "**¿Cuál comprar primero?** Si recién arrancás con la línea Yara, Tous es la entrada más segura: cuesta $42.000 (vs $68.000 del Elixir, una diferencia de $26.000), el perfil tropical es menos polarizante y funciona en todas las estaciones cálidas. Si ya conocés y te gusta el Yara Elixir, Tous es el complemento natural para los meses de calor."
+        content: "**¿Cuál comprar primero?** Si es tu primer Yara y buscás el perfil dulce y oriental que lo hizo viral, empezá por el Elixir. Si lo vas a usar sobre todo de día o en los meses de calor, el Tous es más liviano y rinde mejor en esa época. Si ya tenés el Elixir, el Tous es el complemento natural para el verano."
       },
       {
         type: "h2",
@@ -14631,7 +14636,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       },
       {
         type: "h3",
-        title: "Set My Yara Collection (4 × 25ml) — $64.508"
+        title: "Set My Yara Collection (4 × 25ml)"
       },
       {
         type: "p",
@@ -14654,7 +14659,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       },
       {
         type: "h3",
-        title: "Set 5to Aniversario Yara + Yara Candy (2 × 100ml) — $100.528"
+        title: "Set 5to Aniversario Yara + Yara Candy (2 × 100ml)"
       },
       {
         type: "p",
@@ -14702,7 +14707,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
         items: [
           "**Si nunca probaste Yara:** Set My Yara Collection ($64.508). Probás 4 versiones antes de decidir cuál te gusta más.",
           "**Si ya conocés y amás Yara y Candy:** Set 5to Aniversario ($100.528). Te asegurás formato grande y presentación coleccionable.",
-          "**Si querés probar Yara Elixir:** ningún set lo incluye. Comprá el 100ml individual ($68.000).",
+          "**Si querés probar Yara Elixir:** ningún set lo incluye. Comprá el 100ml individual ({{precio:MLA60836327}}).",
           "**Si el veganismo es importante para vos:** Set My Yara Collection es el único vegano de la línea.",
           "**Si ya sabés cuál Yara específica querés (Tous, Moi, Elixir):** comprá el 100ml individual de esa, no un set."
         ]
@@ -14713,7 +14718,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       },
       {
         type: "p",
-        content: "Precios actualizados al 2026-04-20 desde MercadoLibre Argentina:"
+        content: "Precios actuales en MercadoLibre Argentina:"
       },
       {
         type: "list",
@@ -16823,6 +16828,12 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     intro: [
       "Cuando los perfumes árabes explotaron en TikTok argentino, la pregunta dejó de ser cuál comprar y pasó a ser dónde comprar uno sin pagar de más ni recibir una imitación. En 2024 había tres importadores serios; en 2026 hay decenas, más todo MercadoLibre, más perfumerías físicas que finalmente entendieron el negocio. La variedad creció. La confusión también.",
       "Esta guía es para que sepas las cuatro vías reales que tenés hoy para conseguir un Lattafa, un Afnan o un Rasasi en Argentina, qué esperar de cada una en precio, envío y respaldo, y cuándo conviene cada opción según tu caso."
+    ],
+    quickPicks: [
+      { productMlaId: "MLA31178643", label: "Unisex viral", labelColor: "green", tagline: "Café, canela y vainilla: el gourmand árabe que arrasa en TikTok" },
+      { productMlaId: "MLA60836327", label: "Mujer, primera compra", labelColor: "blue", tagline: "Dulce con cítricos, dura unas 8 horas" },
+      { productMlaId: "MLA19715215", label: "Hombre, primera compra", labelColor: "slate", tagline: "Especiado y amaderado con vainilla" },
+      { productMlaId: "MLA16122300", label: "Hombre, más rendimiento", labelColor: "purple", tagline: "Dupe clásico del Creed Aventus, frasco de 200 ml" },
     ],
     sections: [
       {
