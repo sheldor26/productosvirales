@@ -6,6 +6,20 @@
 > convertir en guía o ficha. Entradas nuevas arriba.
 
 
+## 2026-10-12
+
+### Perfumes árabes _(se cortó por el límite de tiempo del workflow — muestra parcial)_ (0 posts únicos de 0 recibidos)
+
+_Sin resultados esta semana._
+
+### Freidora de aire _(se cortó por el límite de tiempo del workflow — muestra parcial)_ (0 posts únicos de 0 recibidos)
+
+_Sin resultados esta semana._
+
+### Aspiradora robot _(se cortó por el límite de tiempo del workflow — muestra parcial)_ (0 posts únicos de 0 recibidos)
+
+_Sin resultados esta semana._
+
 ## 2026-09-14
 
 ### Perfumes árabes _(se cortó por el límite de tiempo del workflow — muestra parcial)_ (0 posts únicos de 0 recibidos)
