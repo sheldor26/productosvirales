@@ -103587,6 +103587,283 @@ No es para vos si buscás la mejor relación potencia-precio (mirá la Gadnic IN
       { question: "¿Cuánto pesa?", answer: "490 gramos, según su ficha técnica, el más liviano de esta comparativa." },
     ],
   },
+
+  // ─────────────────────────────────────────────────────────
+  // Sourcing 2026-10-12: nicho nuevo "aspiradora lava tapizados"
+  // (keyword validada con Keyword Planner, cluster "limpia tapizados"
+  // ~2.900/mes, SERP limpio para el término de la máquina específicamente,
+  // no para "limpia tapizados" genérico que lo domina líquido/spray).
+  // ─────────────────────────────────────────────────────────
+  {
+    id: "MLA53246308",
+    title: "Aspiradora Limpia Tapizados Gadnic 700W Tanques Separados IPX4 Manguera Flexible",
+    canonicalName: "Gadnic W05",
+    brand: "Gadnic",
+    mpn: "W05",
+    price: 209000,
+    originalPrice: 290000,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_746595-MLA110649796876_052026-F.webp",
+    category: "Hogar",
+    categorySlug: "hogar",
+    permalink: "https://www.mercadolibre.com.ar/aspiradora-limpia-tapizados-gadnic-700w-tanques-separados-ipx4-manguera-flexible/p/MLA53246308",
+    affiliateUrl: "https://meli.la/1a1pSVE",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 1042,
+    reviewsSampledAt: "2026-10-12",
+    soldQuantity: 5000,
+    visibility: "normal",
+    priceUpdated: "2026-10-12",
+    priceLastChecked: "2026-10-12",
+    priceStatus: "fresh",
+    priceVerifiedAt: "2026-10-12",
+    seoTitle: "Aspiradora lava tapizados Gadnic W05: la más potente de 700W, ¿vale la diferencia?",
+    metaDescription: "Aspiradora limpia tapizados Gadnic W05 a {{precio:MLA53246308}} con {{reviews:MLA53246308}} calificaciones, la más vendida de esta comparativa. 700W, el motor más potente del grupo, con tanques separados de agua limpia y sucia.",
+    pros: [
+      "La más potente de esta comparativa: 700W, por encima de las otras dos (500W cada una)",
+      "{{reviews:MLA53246308}} calificaciones a {{rating:MLA53246308}} estrellas, la base de opiniones más grande del grupo",
+      "Tanques separados: 1.080 ml de agua limpia y 800 ml de agua sucia, para no mezclar",
+      "Rociador integrado para aplicar detergente o agua antes de aspirar",
+      "Certificación de seguridad eléctrica IRAM, con número de certificado visible en la ficha",
+    ],
+    cons: [
+      "Es la más cara de esta comparativa",
+      "Una reseña real de 2 estrellas avisa: \"Regular!! no aspira bien!!\"",
+      "No trae ruedas, como ninguna de esta comparativa",
+      "Su propia imagen de marketing declara 11 kPa de succión, mientras que el título de la publicación dice 15 kPa: la marca no es consistente con el dato",
+    ],
+    verdict: "Con {{reviews:MLA53246308}} calificaciones y {{rating:MLA53246308}} estrellas, es la más potente (700W) y la de mayor respaldo de esta comparativa. Cumple bien para limpieza profunda, aunque alguna reseña real reporta succión floja en su unidad puntual.",
+    specs: [
+      { label: "Marca", value: "Gadnic" },
+      { label: "Modelo", value: "W05" },
+      { label: "Potencia", value: "700 W" },
+      { label: "Frecuencia", value: "50/60 Hz" },
+      { label: "Tanque de agua limpia", value: "1.080 ml" },
+      { label: "Tanque de agua sucia", value: "800 ml" },
+      { label: "Tipo", value: "Tambor" },
+      { label: "Apto para líquido", value: "Sí" },
+      { label: "Peso", value: "4,5 kg" },
+      { label: "Dimensiones", value: "33 x 23 x 35 cm" },
+      { label: "Con ruedas", value: "No" },
+      { label: "Indicador de colector lleno", value: "Sí" },
+      { label: "Accesorios incluidos", value: "Boquilla, boquilla de esquina, manguera" },
+      { label: "Usos recomendados", value: "Muebles, tapicería, autos" },
+      { label: "Certificado de seguridad eléctrica", value: "RA 3883221 E (R3), IRAM" },
+    ],
+    relatedProducts: ["MLA67410203", "MLA51155714"],
+    articleBody: `## Qué es la Gadnic W05
+
+Es una aspiradora lava tapizados de tambor, {{reviews:MLA53246308}} calificaciones y {{rating:MLA53246308}} estrellas en MercadoLibre Argentina, vendida a {{precio:MLA53246308}}. Es la más potente de esta comparativa: 700W, por encima de las otras dos, que son de 500W.
+
+## Cómo funciona
+
+Tiene dos tanques separados: 1.080 ml para el agua limpia con detergente, y 800 ml para la sucia que va aspirando. El rociador integrado aplica el líquido sobre el tapizado antes de que la boquilla lo succione, y un indicador avisa cuando el depósito de agua sucia está lleno. Viene con boquilla estándar, boquilla de esquina para rincones y una manguera flexible.
+
+## Lo que dicen los compradores
+
+Una reseña real de 5 estrellas describe el resultado: **"Excelente, mucha potencia, superó mis expectativas"** (120 votos útiles). Otra reseña suma contexto: con el uso normal, deja sillones y colchones impecables sin hacer mucho ruido, y el cable largo facilita moverse por la casa.
+
+## El dato honesto: una queja real sobre la succión
+
+No todas las experiencias son perfectas. Una reseña real de 2 estrellas es breve pero directa: **"Regular!! no aspira bien!!"**. No es la experiencia mayoritaria (4.8 estrellas sobre más de 1.000 calificaciones), pero conviene saber que puede pasar en alguna unidad puntual. Además, hay una inconsistencia en la propia publicación: la imagen de marketing declara 11 kPa de succión, mientras que el título promociona 15 kPa. No se puede confirmar cuál es el dato real.
+
+## Para quién es, y para quién no
+
+Es para vos si priorizás la mayor potencia de motor de esta comparativa y no te importa pagar un poco más por eso.
+
+No es para vos si buscás la opción más económica (mirá la Xiaomi... la AIWA de esta comparativa) o la de mayor capacidad de tanque (mirá la Suono).`,
+    faq: [
+      { question: "¿Es la más potente de esta comparativa?", answer: "Sí, con 700W es la de mayor potencia de motor de las tres, por encima de las otras dos que son de 500W cada una." },
+      { question: "¿Trae ruedas?", answer: "No, ninguna de las tres de esta comparativa trae ruedas." },
+      { question: "¿Cuánta agua entra en los tanques?", answer: "1.080 ml de agua limpia y 800 ml de agua sucia, en depósitos separados, según su ficha técnica." },
+      { question: "¿Sirve para el auto además del sillón?", answer: "Sí, según su ficha está recomendada para muebles, tapicería y autos." },
+      { question: "¿Aspira bien de verdad?", answer: "La mayoría de las reseñas son muy positivas (4.8 estrellas), aunque una reseña real reportó succión floja en una unidad puntual." },
+      { question: "¿Tiene certificación de seguridad?", answer: "Sí, certificado IRAM (Instituto Argentino de Normalización y Certificación), número RA 3883221 E (R3), según su ficha técnica." },
+    ],
+  },
+  {
+    id: "MLA67410203",
+    title: "Aspiradora Lava Tapizados AIWA 500W succión de 14000pa Doble Tanque Limpieza profunda manchas difíciles",
+    canonicalName: "AIWA AWH-LT080B",
+    brand: "AIWA",
+    mpn: "AWH-LT080B",
+    price: 149999,
+    originalPrice: 269999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_998431-MLA116666131687_082026-F.webp",
+    category: "Hogar",
+    categorySlug: "hogar",
+    permalink: "https://www.mercadolibre.com.ar/aspiradora-lava-tapizados-aiwa-500w-succion-de-14000pa-doble-tanque-limpieza-profunda-manchas-dificiles/p/MLA67410203",
+    affiliateUrl: "https://meli.la/1AXzuLC",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 64,
+    reviewsSampledAt: "2026-10-12",
+    soldQuantity: 100,
+    visibility: "normal",
+    priceUpdated: "2026-10-12",
+    priceLastChecked: "2026-10-12",
+    priceStatus: "fresh",
+    priceVerifiedAt: "2026-10-12",
+    seoTitle: "Aspiradora lava tapizados AIWA: la más barata de esta comparativa, ¿rinde?",
+    metaDescription: "Aspiradora lava tapizados AIWA AWH-LT080B a {{precio:MLA67410203}}, la más económica de esta comparativa. Liviana y de marca reconocida, pero con una reseña real que avisa: la succión no siempre alcanza.",
+    pros: [
+      "La más barata de esta comparativa, a {{precio:MLA67410203}}",
+      "De las más livianas de esta comparativa: 3,5 kg, casi un kilo menos que la Gadnic",
+      "Marca internacional reconocida (AIWA), vendida por Tienda oficial Tivoli",
+      "Función 3 en 1: rocía, cepilla y aspira en un mismo movimiento",
+      "6 meses de garantía de fábrica",
+    ],
+    cons: [
+      "Una reseña real de 2 estrellas es contundente: \"la máquina no funciona, no tiene suficiente fuerza... cualquier tapizado que limpies te va a quedar muy mojado\"",
+      "Tanque de solo 1 litro, el más chico de esta comparativa (sin separar agua limpia de sucia)",
+      "No trae ruedas",
+      "Su propia ficha técnica tiene un error de unidad: declara \"Potencia de succión: 14.000 W\", que es físicamente imposible en un equipo de 500W. El dato real, según el título de la publicación, es 14.000 Pa",
+    ],
+    verdict: "Es la más barata y la más liviana de esta comparativa, de marca reconocida. Una reseña real de 5 estrellas la recomienda sin reservas, pero otra de 2 estrellas advierte que la succión no siempre alcanza y puede dejar el tapizado muy mojado. Conviene saber esto antes de elegirla solo por precio.",
+    specs: [
+      { label: "Marca", value: "AIWA" },
+      { label: "Línea", value: "Home" },
+      { label: "Modelo", value: "AWH-LT080B" },
+      { label: "Potencia", value: "500 W" },
+      { label: "Potencia de succión", value: "14.000 Pa (la ficha de ML declara erróneamente \"W\")" },
+      { label: "Capacidad", value: "1 L" },
+      { label: "Tipo", value: "Trineo" },
+      { label: "Apto para líquido", value: "Sí" },
+      { label: "Peso", value: "3,5 kg" },
+      { label: "Dimensiones", value: "18,2 x 30,4 cm" },
+      { label: "Con ruedas", value: "No" },
+      { label: "Largo de manguera", value: "1,2 m" },
+      { label: "Largo de cable", value: "3 m" },
+      { label: "Radio de acción", value: "4,2 m" },
+      { label: "Accesorios incluidos", value: "Boquilla de autolimpieza, cepillo de cerdas, cepillo de goma" },
+      { label: "Garantía", value: "6 meses de fábrica" },
+    ],
+    relatedProducts: ["MLA53246308", "MLA51155714"],
+    articleBody: `## Qué es la AIWA AWH-LT080B
+
+Es una aspiradora lava tapizados tipo trineo, {{rating:MLA67410203}} estrellas en {{reviews:MLA67410203}} calificaciones en MercadoLibre Argentina, vendida a {{precio:MLA67410203}}: la más barata de esta comparativa.
+
+## Lo que la diferencia
+
+A diferencia de la Gadnic y la Suono de esta comparativa (ambas tipo tambor con tanques más grandes), la AIWA es tipo trineo, más liviana (3,5 kg) y compacta, pensada tanto para el auto como para el sillón de casa. Suma función "3 en 1": rocía, cepilla y aspira en el mismo pasaje, con cabezal de autolimpieza y accesorios intercambiables.
+
+## Lo que dicen los compradores
+
+Una reseña real de 5 estrellas la recomienda con el detalle de cómo la usó: **"Ruido: ruidosa como cualquier aspiradora. Mis sillones con 3 niños chicos no daban más, la verdad super conforme con el resultado, para manchas más difíciles utilice un liquido multipropósito baja espuma y quedó genial. En unas horas ya estaban secos!"** (6 votos útiles).
+
+## El dato honesto: una queja real sobre la fuerza de succión
+
+No todas las reseñas coinciden. Una de 2 estrellas es clara y específica: **"Sinceramente la máquina no funciona, no tiene suficiente fuerza, cualquier tapizado que limpies te va a quedar muy mojado y vas a tener que usar otra aspiradora para complementar. Si tuviese más fuerza de succión podría funcionar."** Esto tiene sentido con otro dato: su tanque de 1 litro es el más chico de esta comparativa, sin separar agua limpia de sucia como sí hacen la Gadnic y la Suono.
+
+También vale aclarar un error de la propia ficha de MercadoLibre: declara "Potencia de succión: 14.000 W", que es imposible en un equipo de 500W total. El dato real, según el título de la publicación, es 14.000 Pa (pascales, la unidad correcta para succión), no vatios.
+
+## Para quién es, y para quién no
+
+Es para vos si buscás la opción más económica y liviana de esta comparativa, para uso ocasional en auto o sillones chicos.
+
+No es para vos si tenés manchas difíciles o superficies grandes: ahí conviene la Gadnic (más potencia) o la Suono (más capacidad de tanque) de esta comparativa.`,
+    faq: [
+      { question: "¿Es la más barata de esta comparativa?", answer: `Sí, a {{precio:MLA67410203}} es la más económica de las tres.` },
+      { question: "¿La succión alcanza para manchas difíciles?", answer: "La mayoría de las reseñas son positivas, pero una reseña real de 2 estrellas reportó que la succión no siempre alcanza y puede dejar el tapizado muy mojado." },
+      { question: "¿Cuánto pesa?", answer: "3,5 kg, de las más livianas de esta comparativa (la Suono es apenas más liviana, con 3,4 kg)." },
+      { question: "¿De cuántos litros es el tanque?", answer: "1 litro, el más chico de esta comparativa, sin separar agua limpia de sucia." },
+      { question: "¿La ficha dice 14.000 W de succión, es así?", answer: "No, es un error de carga de la publicación: 14.000 W de succión es imposible en un equipo de 500W total. El dato real, según el título, es 14.000 Pa (pascales)." },
+      { question: "¿Trae accesorios?", answer: "Sí: boquilla de autolimpieza, cepillo de cerdas y cepillo de goma, según su ficha técnica." },
+    ],
+  },
+  {
+    id: "MLA51155714",
+    title: "Aspiradora Limpia Tapizados Suono Versátil Doble con Rociador y Succión de Agua Tanque Hogar Color Blanco",
+    canonicalName: "Suono HOG0329BLA",
+    brand: "Suono",
+    mpn: "HOG0329BLA",
+    price: 161599,
+    originalPrice: 267999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_824302-MLA109317249282_042026-F.webp",
+    category: "Hogar",
+    categorySlug: "hogar",
+    permalink: "https://www.mercadolibre.com.ar/aspiradora-limpia-tapizados-suono-versatil-doble-con-rociador-y-succion-de-agua-tanque-hogar-color-blanco/p/MLA51155714",
+    affiliateUrl: "https://meli.la/2pRHaeh",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 1211,
+    reviewsSampledAt: "2026-10-12",
+    soldQuantity: 5000,
+    visibility: "normal",
+    priceUpdated: "2026-10-12",
+    priceLastChecked: "2026-10-12",
+    priceStatus: "fresh",
+    priceVerifiedAt: "2026-10-12",
+    seoTitle: "Aspiradora lava tapizados Suono: la más elegida, con el tanque más grande",
+    metaDescription: "Aspiradora limpia tapizados Suono a {{precio:MLA51155714}} con {{reviews:MLA51155714}} calificaciones, la de mayor respaldo de esta comparativa. Tanque de 2 litros, el más grande del grupo, y la más liviana.",
+    pros: [
+      "{{reviews:MLA51155714}} calificaciones, la base de opiniones más grande de esta comparativa, por encima incluso de la Gadnic",
+      "Tanque de 2 litros (1,25 L agua limpia + 0,75 L agua sucia), el de mayor capacidad del grupo",
+      "La más liviana de esta comparativa: 3,4 kg",
+      "Atomizador eléctrico integrado para aplicar el líquido antes de aspirar",
+      "Vendida por Tienda oficial SUONO, MercadoLíder Platinum",
+    ],
+    cons: [
+      "No es la más barata ni la más potente: queda en un punto medio de precio entre la AIWA y la Gadnic de esta comparativa",
+      "No trae ruedas",
+      "Una reseña real de 4 estrellas aclara que el tapizado queda húmedo después de usarla (se seca en unas horas, no al instante)",
+      "Su ficha también tiene el mismo error de unidad que la AIWA: declara \"Potencia de succión: 14.000 W\" en la tabla de características, cuando el dato real (según la descripción del producto) es 14.000 Pa",
+    ],
+    verdict: "Con {{reviews:MLA51155714}} calificaciones, es la de mayor respaldo de esta comparativa, con el tanque más grande (2 L) y el peso más bajo (3,4 kg). Es la opción más equilibrada de las tres, sin ser la más barata ni la más potente.",
+    specs: [
+      { label: "Marca", value: "Suono" },
+      { label: "Línea", value: "Hogar" },
+      { label: "Modelo", value: "HOG0329BLA" },
+      { label: "Potencia", value: "500 W" },
+      { label: "Potencia de succión", value: "14.000 Pa (la tabla de ML declara erróneamente \"W\")" },
+      { label: "Capacidad total", value: "2 L (1,25 L agua limpia + 0,75 L agua sucia)" },
+      { label: "Tipo", value: "Tambor" },
+      { label: "Apto para líquido", value: "Sí" },
+      { label: "Peso", value: "3,4 kg" },
+      { label: "Dimensiones", value: "32 x 17,5 x 29,5 cm" },
+      { label: "Con ruedas", value: "No" },
+      { label: "Usos recomendados", value: "Autos, tapicería" },
+      { label: "Accesorios incluidos", value: "Manguera, boquilla, boquilla de esquina" },
+    ],
+    relatedProducts: ["MLA53246308", "MLA67410203"],
+    articleBody: `## Qué es la Suono HOG0329BLA
+
+Es una aspiradora lava tapizados de tambor, {{reviews:MLA51155714}} calificaciones y {{rating:MLA51155714}} estrellas en MercadoLibre Argentina, vendida a {{precio:MLA51155714}}. Es la de mayor respaldo de esta comparativa: más calificaciones incluso que la Gadnic.
+
+## Lo que la diferencia
+
+Tiene el tanque más grande de esta comparativa: 2 litros en total, divididos en 1,25 L para agua limpia y 0,75 L para agua sucia. Suma atomizador eléctrico integrado, que aplica el líquido limpiador sobre la superficie antes de la succión, y es la más liviana de las tres (3,4 kg), con manguera y boquillas intercambiables para llegar a rincones y asientos de auto.
+
+## Lo que dicen los compradores
+
+Una reseña real de 4 estrellas cuenta su primera experiencia: **"Es el primer uso, la verdad que no puedo quejarme! ahí dejo las fotos de mi sillón, el antes y el después húmedo. Me gusta que el cable es largo y puedo movilizarme bien. No le doy 5 estrellas por q recién empiezo a usarlo."** (19 votos útiles).
+
+## El dato honesto: queda húmedo, pero se seca
+
+Esa misma reseña confirma algo que conviene saber de entrada: el tapizado queda húmedo después de pasarla, no seco al instante. No es un defecto exclusivo de la Suono (la AIWA de esta comparativa tiene la misma queja, más marcada), es una característica del tipo de limpieza: según otra reseña de la categoría, en unas horas el tapizado ya está seco.
+
+También hay que aclarar un error de la propia ficha: la tabla de características declara "Potencia de succión: 14.000 W", algo imposible en un equipo de 500W. El dato real, según la descripción del producto, es 14.000 Pa.
+
+## Para quién es, y para quién no
+
+Es para vos si buscás la opción de mayor respaldo de reseñas, con el tanque más grande para no estar recargando agua todo el tiempo, y preferís el equipo más liviano de cargar.
+
+No es para vos si buscás el precio más bajo (mirá la AIWA de esta comparativa) o la mayor potencia de motor (mirá la Gadnic).`,
+    faq: [
+      { question: "¿Es la más elegida de esta comparativa?", answer: "Sí, con más de 1.200 calificaciones es la de mayor respaldo de reseñas de las tres, por encima incluso de la Gadnic." },
+      { question: "¿De cuántos litros es el tanque?", answer: "2 litros en total, divididos en 1,25 L para agua limpia y 0,75 L para agua sucia, el mayor de esta comparativa." },
+      { question: "¿Deja el tapizado muy mojado?", answer: "Según una reseña real, queda húmedo después de usarla pero se seca en unas horas, no es un secado instantáneo." },
+      { question: "¿Cuánto pesa?", answer: "3,4 kg, la más liviana de esta comparativa." },
+      { question: "¿Trae rociador?", answer: "Sí, atomizador eléctrico integrado para aplicar el líquido limpiador antes de aspirar." },
+      { question: "¿La ficha dice 14.000 W de succión, es correcto?", answer: "No, es un error de carga: 14.000 W de succión es imposible en un equipo de 500W. El dato real, según la descripción del producto, es 14.000 Pa (pascales)." },
+    ],
+  },
 ];
 
 export const categoryPastels: Record<string, string> = {
