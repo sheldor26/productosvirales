@@ -5,6 +5,66 @@
 > toca el catálogo. Entradas nuevas arriba.
 
 
+## 2026-10-13
+
+### Freidora de aire (ML) [ml] (15 productos)
+
+- Freidora Eléctrica De Aceite 6l Novohome 2500w Acero Inox. Plateado 50 Hz/60 Hz — $129.999
+- Freidora Eléctrica De Aceite Doble Canasto 12 Lts Novohome Plateado 50 Hz/60 Hz — $194.990
+- | +5000 vendidos — $129.990
+- ![Freidora De Aire Airfryer Pantalla Digital Otten 1500w 8 Lts Negro](https://http2.mlstatic.com/D_Q_NP_2X_997708-MLA109162717347_032026-E.webp) — $142.940
+- OFERTA IMPERDIBLE — $157.592
+- Llega gratis mañana — $129.999
+- ![](https://http2.mlstatic.com/D_NQ_NP_997355-MLA70516180458_072023-A.webp) — $99.990
+- Llega gratis hoy — $514.849
+- ![Freidora De Aire Philips Na120/00 Negra 4.2l Negro](https://http2.mlstatic.com/D_Q_NP_2X_788252-MLA99975580653_112025-E.webp) — $101.705
+- ![Freidora De Aire Daewoo Crystal XL Vidrio Daf1891 7lts Color Blanco](https://http2.mlstatic.com/D_Q_NP_2X_615836-MLA95639704224_102025-E.webp) — $363.075
+- ![Freidora De Aire Liliana Af957 6 Lt 1750w](https://http2.mlstatic.com/D_Q_NP_2X_964462-MLA104781723958_012026-E.webp) — $149.999
+- GB Gastronomía Bashir — $191.999
+- ![Freidora De Aire Philips Phna23100 13 En 1 6.2 L Negra](https://http2.mlstatic.com/D_Q_NP_2X_698984-MLA99980259093_112025-E.webp) — $224.990
+- ![Freidora De Aire Peabody Regulable Xl 9lts Pe-afdb910n Negro Negro](https://http2.mlstatic.com/D_Q_NP_2X_844914-MLA91773683529_092025-E.webp) — $259.999
+- ![Horno Freidora De Aire Philips Ai551/07 12l Airoven](https://http2.mlstatic.com/D_Q_NP_2X_974111-MLA84848243933_052025-E.webp) — $524.999
+
+### Aspiradora robot (ML) [ml] (15 productos)
+
+- Aspiradora Philips Xb2023/51 1800w 1,3 L Sin Bolsa Color Blanco Y Gris Blanco Ártico/azul Cielo — $239.999
+- Llega gratis hoy — $727.399
+- OFERTA IMPERDIBLE — $666.099
+- Llega gratis mañana — $249.999
+- ![Aspiradora Inalámbrica Smart-tek Robot Ava Evolution WiFi](https://http2.mlstatic.com/D_Q_NP_2X_917537-MLA115299167560_082026-E.webp) — $420.999
+- ![Xiaomi Robot Vacuum S40 Pro](https://http2.mlstatic.com/D_Q_NP_2X_724596-MLA106686110282_022026-E.webp) — $710.000
+- ](https://www.mercadolibre.com.ar/xiaomi-robot-vacuum-s40-pro/p/MLA65702567?offer_type=BEST_INSTALLMENTS#wid=MLA3018284792&sid=search) — $297.098
+- ![Aspiradora Xiaomi Robot Vacuum S40 Pro Color Blanco 15000 Pa](https://http2.mlstatic.com/D_Q_NP_2X_920318-MLA107531899968_032026-E.webp) — $685.363
+- ![Xiaomi Robot Vacuum S40 Us Color Blanco](https://http2.mlstatic.com/D_Q_NP_2X_778237-MLA99219066155_112025-E.webp) — $386.389
+- ![Robot Aspirador Xiaomi Vacuum H40 Bhr07xbeu Blanco](https://http2.mlstatic.com/D_Q_NP_2X_686132-MLA99453318576_112025-E.webp) — $557.341
+- Disponible en 2 colores — $747.626
+- ![Smart-Tek Aspiradora Robot AVA PRO X Mapeo Láser App Control Mopa](https://http2.mlstatic.com/D_Q_NP_2X_872337-MLA116666910371_082026-E.webp) — $882.349
+- ![Robot Aspirador Xiaomi Vacuum H50 Pro Blanco](https://http2.mlstatic.com/D_Q_NP_2X_697382-MLA110888161690_052026-E.webp) — $1.250.000
+- ![TP-LINK TAPO ASPIRADORA Y TRAPEADORA RV20 MAX PLUS 5300Pa](https://http2.mlstatic.com/D_Q_NP_2X_777217-MLA96905855908_112025-E.webp) — $443.199
+- ![Aspiradora Robot Con Wifi Smart 115w Midow 3 Modos Con Base Negro](https://http2.mlstatic.com/D_Q_NP_2X_750354-MLA118183416831_092026-E.webp) — $217.799
+
+### Amazon Kitchen & Dining bestsellers [amazon] (15 productos)
+
+- Bounty Paper Towels Quick Size, White, 16 Family Rolls = 40 Regular Rolls — US$43.49
+- Nespresso Capsules Vertuo, Variety Pack, Medium and Dark Roast Coffee, 30 Count Coffee Pods, Brews 7.8 oz. — US$42.00
+- Bounty Select-A-Size Paper Towels, White, 2 Triple Rolls = 6 Regular Rolls — US$6.97
+- Amazon Basics 2-Ply Flex-Sheets Paper Towels, 12 Basics Rolls = 40 Regular Rolls, Everyday Value with 150 Sheets per Roll, Packaging May Vary — US$15.26
+- Owala FreeSip Stainless Steel Water Bottle 24 oz Denim — US$29.99
+- Amazon Basics Everyday Disposable Paper Plates, 8.62 Inch, Microwave-Safe, Cut Resistant, Soak-Proof, 100 Count, Packaging May Vary — US$5.97
+- Dixie Paper Plates 8.5 Inch, 90 Count, Disposable Plates | For parties as dessert plates or snack plates, 2X stronger, small paper plates are soak-proof, cut resistant, microwave-safe — US$5.89
+- Scott Paper Towels, Choose-A-Sheet, 6 Double Rolls, 108 Sheets Per Roll | Absorbent, Deep-Cleaning Ridges, Virtually Lint-Free, Reliable — US$8.61
+- Lavazza Super Crema Whole Bean Coffee, Medium Espresso Roast, Arabica and Robusta Blend, 2.2 lb Bag, Package May Vary — US$26.99
+- Brawny Tear-A-Square 3-Ply Paper Towels, 6 Double Rolls = 12 Regular Rolls | Strong, absorbent, and durable to tackle any tough mess — US$11.32
+- Bounty Essentials Select-A-Size Paper Towels, 6 Double Rolls, White, 108 Sheets Per Roll — US$7.97
+- Sparkle Pick-A-Size Kitchen Paper Towels, 6 Double Rolls, 660 Sheets | Strong 2 ply paper towels for kitchen cleanup and everyday messes, high absorbency for soaking up spills and wiping surfaces — US$8.48
+- Nespresso Vertuo, Barista Flavored Pack, Medium Roast, 30-Count Coffee Pods | Medium-Roast Coffee Capsules, Caramel, roasted hazelnut and sweet vanilla flavors — US$42.00
+- Bounty Paper Napkins, White, 200 Count, Packaging may vary — US$3.48
+- Dixie Ultra Large Paper Plates, 10 Inch, Heavy Duty Disposable Plates — US$22.47
+
+### Amazon Home & Kitchen bestsellers [amazon] (0 productos)
+
+_No se pudo extraer nada esta vez — revisar el parser._
+
 ## 2026-09-15
 
 ### Freidora de aire (ML) [ml] (10 productos)
