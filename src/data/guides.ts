@@ -31838,7 +31838,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { label: "Licuadora de mano: cuál comprar en Argentina", href: "/guias/licuadora-de-mano" },
       { label: "Anafe eléctrico: cuál comprar en Argentina", href: "/guias/cocina/anafe-electrico" },
       { label: "Freidora de aire: cuál comprar en Argentina", href: "/guias/mejores-freidoras-de-aire-argentina" },
-      { label: "Horno eléctrico: cuál comprar en Argentina", href: "/guias/cocina/horno-electrico" },
+      { label: "Sartén antiadherente: cuál comprar en Argentina", href: "/guias/cocina/sarten-antiadherente" },
     ],
     internalLinksTitle: "Más para tu cocina",
   },
@@ -32418,7 +32418,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     internalLinks: [
       { label: "Batidora: cuál comprar en Argentina", href: "/guias/cocina/batidora" },
       { label: "Sandwichera: cuál comprar en Argentina", href: "/guias/cocina/sandwichera" },
-      { label: "Anafe eléctrico: cuál comprar en Argentina", href: "/guias/cocina/anafe-electrico" },
+      { label: "Sartén antiadherente: cuál comprar en Argentina", href: "/guias/cocina/sarten-antiadherente" },
       { label: "Exprimidor: cuál comprar en Argentina", href: "/guias/cocina/exprimidor" },
     ],
     internalLinksTitle: "Más para tu cocina",
@@ -32647,6 +32647,111 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { label: "Batidora: cuál comprar en Argentina", href: "/guias/cocina/batidora" },
       { label: "Sandwichera: cuál comprar en Argentina", href: "/guias/cocina/sandwichera" },
       { label: "Lavavajillas: cuál comprar en Argentina", href: "/guias/cocina/lavavajillas" },
+      { label: "Sartén antiadherente: cuál comprar en Argentina", href: "/guias/cocina/sarten-antiadherente" },
+    ],
+    internalLinksTitle: "Más para tu cocina",
+  },
+  // Guía nueva sarten-antiadherente — silo cocina, categoría nueva
+  // Origen: research propio 2026-10-13. Keyword "sartén antiadherente"
+  // Sin canibalización: cero menciones previas de "sartén" como categoría
+  // propia en el sitio. 3 fichas nuevas importadas el mismo día (ver
+  // curated-products.ts): Fary Home (económica), Tramontina Omeletera
+  // Doble (la más vendida, formato doble para tortillas) y Tefal
+  // Attrayant (marca líder mundial en antiadherente).
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "sarten-antiadherente",
+    category: "sarten-antiadherente",
+    silo: "cocina",
+    pillar: true,
+    title: `Sartén Antiadherente: cuál comprar en Argentina [2026]`,
+    seoTitle: `Sartén Antiadherente: Cuál Comprar en Argentina | 2026`,
+    metaDescription: `Descubrí qué sartén antiadherente comprar en Argentina: la más económica, la más vendida o la de marca líder mundial. Precios reales de MercadoLibre y contras honestas.`,
+    ogTitle: `Sartén antiadherente: cuál comprar en Argentina`,
+    ogDescription: `Fary Home, Tramontina y Tefal comparadas: de la más barata a la de mayor diámetro. Precios reales de MercadoLibre y las contras que nadie cuenta.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_784738-MLA31623216475_072019-F.webp`,
+    h1: `Sartén antiadherente: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene la **[Tramontina Omeletera Doble](/producto/sarten-doble-omeletera-20cm-tramontina-teflon-antiadherente-mlau232589472)** (alrededor de {{precio:MLAU232589472:k}}): la más vendida, con formato doble para voltear tortillas sin romperlas. Si el presupuesto es lo primero, la **[Fary Home 24cm](/producto/sarten-fary-home-aluminio-antiadherente-24cm-mla36176768)**. Y si buscás la marca con más trayectoria mundial en antiadherente, la **[Tefal Attrayant 28cm](/producto/sarten-tefal-attrayant-28cm-teflon-antiadherente-mla27402801)**, la de mayor diámetro de esta guía.`,
+    publishedDate: "2026-10-13",
+    updatedDate: "2026-10-13",
+    hasDisclosure: true,
+    readingTime: 7,
+    standfirst: `Una sartén antiadherente va de {{precio:MLA36176768:k}} (la más económica) a {{precio:MLA27402801:k}} (la marca líder mundial). La decisión real pasa por el formato que necesitás y qué tan grande cocinás, no solo por precio. Te mostramos cuál conviene, con precios reales de MercadoLibre.`,
+    quickPicks: [
+      { productMlaId: "MLAU232589472", label: "Mejor elección general", labelColor: "green", tagline: "Tramontina Omeletera Doble: la más vendida, formato doble" },
+      { productMlaId: "MLA36176768", label: "La más económica", labelColor: "slate", tagline: "Fary Home 24cm: la entrada de precio, apta lavavajillas" },
+      { productMlaId: "MLA27402801", label: "Marca líder mundial", labelColor: "purple", tagline: "Tefal Attrayant 28cm: la de mayor diámetro" },
+    ],
+    intro: [
+      `La sartén antiadherente resuelve algo simple: cocinar sin que la comida se pegue y sin tener que usar demasiado aceite. La decisión real pasa por el formato que necesitás (una sartén de uso general o algo pensado específicamente para voltear tortillas y omelets) y qué tan grande cocinás, no solo por el precio.`,
+      `En esta guía comparamos las sartenes antiadherentes más vendidas y mejor calificadas de MercadoLibre Argentina, con las contras reales que cuentan los compradores: desde la base de opiniones más chica de una de ellas hasta un aviso honesto de que ninguna reemplaza del todo un poco de aceite.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_784738-MLA31623216475_072019-F.webp", alt: `Sartén Tramontina Omeletera Doble, la más vendida de esta guía`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, la **[Tramontina Omeletera Doble](/producto/sarten-doble-omeletera-20cm-tramontina-teflon-antiadherente-mlau232589472)**: la más vendida, con formato doble pensado para voltear tortillas y omelets sin romperlos. Si **el presupuesto es lo primero**, la **[Fary Home 24cm](/producto/sarten-fary-home-aluminio-antiadherente-24cm-mla36176768)**. Y si buscás **la marca con más trayectoria mundial**, la **[Tefal Attrayant 28cm](/producto/sarten-tefal-attrayant-28cm-teflon-antiadherente-mla27402801)**, la de mayor diámetro de esta guía.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos las sartenes antiadherentes con más ventas y opiniones reales en MercadoLibre Argentina. Las ordenamos por lo que define la compra: formato, diámetro, material y precio. Las calificaciones y las contras son de compradores reales. Los precios que ves en las fichas y tablas se revisan contra MercadoLibre periódicamente.` },
+
+      { type: "h2", title: `Qué mirar antes de comprar una sartén antiadherente`, id: "que-mirar" },
+      { type: "p", content: `Primero, **el formato**: una sartén de uso general (saltear, freír, dorar) no es lo mismo que una pensada específicamente para voltear tortillas u omelets enteros. Segundo, **el diámetro**: para porciones individuales alcanza con 20-24cm, para porciones familiares conviene 28cm o más. Tercero, **si es apta para lavavajillas**, algo que no todas las sartenes económicas ofrecen.` },
+      { type: "p", content: `Un detalle honesto de la categoría: ningún antiadherente reemplaza del todo un poco de aceite o manteca. Varias reseñas reales de esta guía lo confirman, incluso en las sartenes mejor calificadas.` },
+
+      { type: "h2", title: `Las mejores sartenes antiadherentes 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Tramontina Omeletera Doble — mejor elección general` },
+      { type: "product-card", productMlaId: "MLAU232589472", label: "Mejor elección general", labelColor: "green", ranking: 1, description: `2 sartenes de 20cm que se cierran entre sí, pensadas para tortillas y omelets. +10 mil vendidas, 4.7 estrellas en {{reviews:MLAU232589472}} calificaciones.` },
+      { type: "p", content: `Es, con una diferencia enorme, la más vendida de esta guía: más de 10 mil unidades vendidas y {{reviews:MLAU232589472}} calificaciones a 4.7 estrellas, a alrededor de {{precio:MLAU232589472:k}}. Su formato es distinto al resto: dos sartenes de 20cm que se cierran entre sí como una tapa, pensadas para voltear tortillas, omelets o panqueques enteros sin que se rompan.` },
+      { type: "p", content: `La contra real: una reseña avisa "ponele aceite que se quema", un recordatorio de que ningún antiadherente reemplaza del todo la materia grasa. Además, el tamaño (20cm) es más chico que el resto de esta guía, pensado para porciones individuales.` },
+      { type: "pull-quote", content: `"Semanas de intentar hacer una tortilla de avena como la gente, siempre quemada o destrozada al darla vuelta, desde que tengo esta sartén puedo decir que soy feliz."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `2. Fary Home 24cm — la más económica` },
+      { type: "product-card", productMlaId: "MLA36176768", label: "La más económica", labelColor: "slate", ranking: 2, description: `Aluminio, mango de baquelita, apta lavavajillas. 4.8 estrellas en {{reviews:MLA36176768}} calificaciones (la base más chica de esta guía).` },
+      { type: "p", content: `La más barata de esta guía, por lejos: aluminio con mango de baquelita resistente al calor, apta para lavavajillas, a alrededor de {{precio:MLA36176768:k}}. Tiene el rating más alto del grupo (4.8), aunque sobre la base de opiniones más chica de las tres.` },
+      { type: "p", content: `La contra real: no incluye tapa ni espátula, y viene en un solo tamaño (24cm).` },
+
+      { type: "h3", title: `3. Tefal Attrayant 28cm — marca líder mundial` },
+      { type: "product-card", productMlaId: "MLA27402801", label: "Marca líder mundial", labelColor: "purple", ranking: 3, description: `28cm, apta lavavajillas, la marca más reconocida mundialmente en antiadherente. 4.7 estrellas en {{reviews:MLA27402801}} calificaciones.` },
+      { type: "p", content: `La de mayor diámetro de esta guía (28cm, para porciones familiares), de la marca más reconocida mundialmente en sartenes antiadherentes, a alrededor de {{precio:MLA27402801:k}}. Con {{reviews:MLA27402801}} calificaciones a 4.7 estrellas, el resumen de opiniones la describe como liviana y de calentamiento rápido.` },
+      { type: "p", content: `La contra real: es la más cara de esta guía, y una reseña marca que el fondo y las paredes son de poco espesor, algo a considerar si buscás algo robusto para uso intensivo.` },
+      { type: "pull-quote", content: `"Fondo y paredes de poco espesor."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h2", title: `Tabla comparativa: formato, diámetro y precio`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Diámetro`, `Formato`, `Lavavajillas`, `Rating`], rows: [
+        [`[Tramontina Omeletera Doble](/producto/sarten-doble-omeletera-20cm-tramontina-teflon-antiadherente-mlau232589472)`, `{{precio:MLAU232589472}}`, `20 cm`, `Doble (omeletera)`, `Sí`, `{{rating:MLAU232589472}} ({{reviews:MLAU232589472}})`],
+        [`[Fary Home 24cm](/producto/sarten-fary-home-aluminio-antiadherente-24cm-mla36176768)`, `{{precio:MLA36176768}}`, `24 cm`, `Simple`, `Sí`, `{{rating:MLA36176768}} ({{reviews:MLA36176768}})`],
+        [`[Tefal Attrayant 28cm](/producto/sarten-tefal-attrayant-28cm-teflon-antiadherente-mla27402801)`, `{{precio:MLA27402801}}`, `28 cm`, `Simple`, `Sí`, `{{rating:MLA27402801}} ({{reviews:MLA27402801}})`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu sartén antiadherente`, id: "como-elegir" },
+      { type: "h3", title: `¿Para tortillas y omelets, o para uso general?` },
+      { type: "p", content: `Si tu uso principal es voltear tortillas, omelets o panqueques enteros, la [Tramontina Omeletera Doble](/producto/sarten-doble-omeletera-20cm-tramontina-teflon-antiadherente-mlau232589472) de esta guía es el formato más probado del mercado argentino para eso. Para uso general de cocina (saltear, freír, dorar), la [Fary Home](/producto/sarten-fary-home-aluminio-antiadherente-24cm-mla36176768) o la [Tefal Attrayant](/producto/sarten-tefal-attrayant-28cm-teflon-antiadherente-mla27402801) cumplen mejor.` },
+      { type: "h3", title: `¿Qué diámetro conviene?` },
+      { type: "p", content: `Para porciones individuales, 20-24cm como la [Fary Home](/producto/sarten-fary-home-aluminio-antiadherente-24cm-mla36176768) o la [Tramontina](/producto/sarten-doble-omeletera-20cm-tramontina-teflon-antiadherente-mlau232589472) alcanza de sobra. Para porciones familiares, la [Tefal Attrayant](/producto/sarten-tefal-attrayant-28cm-teflon-antiadherente-mla27402801) (28cm) de esta guía es la opción correcta.` },
+      { type: "h3", title: `¿Vale la pena pagar por una marca con más trayectoria?` },
+      { type: "p", content: `Si valorás el respaldo de una marca reconocida mundialmente, la [Tefal Attrayant](/producto/sarten-tefal-attrayant-28cm-teflon-antiadherente-mla27402801) de esta guía lo ofrece, aunque es la más cara de las tres. Si el presupuesto manda, la [Fary Home](/producto/sarten-fary-home-aluminio-antiadherente-24cm-mla36176768) cumple lo básico a mucho menor precio.` },
+
+      { type: "h2", title: `Cuánto cuesta una sartén antiadherente en Argentina [octubre 2026]`, id: "cuanto-cuesta" },
+      { type: "list", content: "Franjas de precio reales", items: [
+        `**Alrededor de {{precio:MLA36176768:k}}:** la [Fary Home 24cm](/producto/sarten-fary-home-aluminio-antiadherente-24cm-mla36176768), la más económica de esta guía.`,
+        `**Alrededor de {{precio:MLAU232589472:k}}:** la [Tramontina Omeletera Doble](/producto/sarten-doble-omeletera-20cm-tramontina-teflon-antiadherente-mlau232589472), la más vendida.`,
+        `**Alrededor de {{precio:MLA27402801:k}}:** la [Tefal Attrayant 28cm](/producto/sarten-tefal-attrayant-28cm-teflon-antiadherente-mla27402801), la de mayor diámetro y marca más reconocida.`,
+      ] },
+
+      { type: "verdict", content: `Para la mayoría, la **[Tramontina Omeletera Doble](/producto/sarten-doble-omeletera-20cm-tramontina-teflon-antiadherente-mlau232589472)** es la compra más segura: la más vendida de esta guía, con un formato que resuelve un problema real (voltear tortillas y omelets sin romperlos). Si el presupuesto es lo primero, la **[Fary Home 24cm](/producto/sarten-fary-home-aluminio-antiadherente-24cm-mla36176768)**. Y si buscás la marca con más trayectoria mundial, la **[Tefal Attrayant 28cm](/producto/sarten-tefal-attrayant-28cm-teflon-antiadherente-mla27402801)**, sabiendo que es la más cara de esta guía.` },
+    ],
+    faq: [
+      { question: `¿Cuál es la mejor sartén antiadherente en Argentina?`, answer: `Para la mayoría, la [Tramontina Omeletera Doble](/producto/sarten-doble-omeletera-20cm-tramontina-teflon-antiadherente-mlau232589472): la más vendida, con formato doble para tortillas y omelets. Si buscás marca líder mundial, la [Tefal Attrayant](/producto/sarten-tefal-attrayant-28cm-teflon-antiadherente-mla27402801).` },
+      { question: `¿Para qué sirve el formato doble de la Tramontina?`, answer: `Las dos mitades (20cm cada una) se cierran entre sí como una tapa, pensadas específicamente para voltear tortillas, omelets o panqueques enteros sin que se rompan ni se desparramen.` },
+      { question: `¿Es necesario usar aceite aunque sea antiadherente?`, answer: `Sí, según varias reseñas reales conviene usar un poco de aceite o manteca para un mejor resultado. El antiadherente ayuda, pero no reemplaza del todo la materia grasa.` },
+      { question: `¿Todas son aptas para lavavajillas?`, answer: `Sí, las tres de esta guía (Fary Home, Tramontina y Tefal) están declaradas aptas para lavavajillas según su ficha técnica.` },
+      { question: `¿Qué diámetro conviene para una familia?`, answer: `Para porciones familiares, 28cm como la [Tefal Attrayant](/producto/sarten-tefal-attrayant-28cm-teflon-antiadherente-mla27402801) de esta guía rinde mejor. Para porciones individuales, 20-24cm alcanza de sobra.` },
+      { question: `¿Vale la pena la más económica?`, answer: `Sí, para empezar sin gastar de más: la [Fary Home](/producto/sarten-fary-home-aluminio-antiadherente-24cm-mla36176768) tiene el rating más alto de esta guía (4.8), aunque con la base de opiniones más chica de las tres.` },
+    ],
+    internalLinks: [
+      { label: "Batidora: cuál comprar en Argentina", href: "/guias/cocina/batidora" },
+      { label: "Lavavajillas: cuál comprar en Argentina", href: "/guias/cocina/lavavajillas" },
+      { label: "Picadora de carne: cuál comprar en Argentina", href: "/guias/cocina/picadora-de-carne" },
       { label: "Exprimidor: cuál comprar en Argentina", href: "/guias/cocina/exprimidor" },
     ],
     internalLinksTitle: "Más para tu cocina",
@@ -35756,6 +35861,11 @@ export const guideCategories: Record<string, { name: string; description: string
     name: "Guía de Arrocera Eléctrica",
     description:
       "Simple al vapor, a presión o multifunción: cuál conviene según cuánta gente cocinás. Las más vendidas y mejor calificadas de MercadoLibre, comparadas.",
+  },
+  "sarten-antiadherente": {
+    name: "Guía de Sartén Antiadherente",
+    description:
+      "De la más económica a la marca líder mundial en antiadherente: cuál conviene según el formato y el diámetro que necesitás. Las más vendidas de MercadoLibre, comparadas.",
   },
   climatizacion: {
     name: "Guías de Climatización",

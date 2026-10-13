@@ -55999,6 +55999,323 @@ Si tenés pelo rizado u ondulado y querés un kit versátil con varios accesorio
   },
 
   {
+    id: 'MLA36176768',
+    title: 'Sartén Fary Home Aluminio Antiadherente 24cm',
+    canonicalName: 'Fary Home Sartén 24cm',
+    brand: 'Fary Home',
+    price: 15999,
+    priceUpdated: "2026-10-13",
+    priceLastChecked: "2026-10-13",
+    priceStatus: "fresh",
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_818250-MLA112427780228_062026-F.webp',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_818250-MLA112427780228_062026-F.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_732964-MLA81905693876_012025-F.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_944107-MLA81905767000_012025-F.webp',
+    ],
+    category: 'Cocina',
+    categorySlug: 'cocina',
+    permalink: 'https://www.mercadolibre.com.ar/sarten-fary-home-aluminio-antiadherente-24cm-mango-bordo-baquelita/p/MLA36176768',
+    affiliateUrl: 'https://meli.la/1JhzFFs',
+    condition: 'new',
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 44,
+    reviewsSampledAt: '2026-10-13',
+    pastelColor: 'var(--pastel-pink)',
+    visibility: 'normal',
+    description: 'La más económica de esta comparativa: aluminio con mango de baquelita, apta para lavavajillas. {{reviews:MLA36176768}} opiniones a 4.8 estrellas, aunque es la base de opiniones más chica del grupo. Para empezar sin gastar de más.',
+    seoTitle: 'Sartén Fary Home 24cm: la antiadherente más económica',
+    metaDescription: 'Sartén Fary Home 24cm a {{precio:MLA36176768}}: aluminio, mango de baquelita, apta lavavajillas. {{reviews:MLA36176768}} opiniones y 4.8 estrellas, la más barata de la comparativa.',
+    pros: [
+      'El precio más bajo de esta comparativa, por lejos',
+      'Mango de baquelita, resistente al calor de la cocina',
+      'Apta para lavavajillas',
+      '4.8 estrellas, el rating más alto de los tres',
+      '"MÁS VENDIDO" en la categoría Sartenes de MercadoLibre',
+    ],
+    cons: [
+      'La base de opiniones ({{reviews:MLA36176768}}) es la más chica de los tres de esta comparativa',
+      'No incluye tapa ni espátula',
+      'No es una marca reconocida internacionalmente como Tramontina o Tefal',
+      'Un solo tamaño (24cm), sin otras opciones de diámetro de la misma línea',
+    ],
+    verdict: 'Si el presupuesto manda, es la entrada más segura: por lejos la más barata de esta comparativa, con mango de baquelita resistente al calor y apta para lavavajillas. El rating (4.8) es el más alto del grupo, aunque con la base de opiniones más chica. Para empezar sin gastar de más, cumple; si buscás una marca con más trayectoria o un formato distinto (doble, para omelet), las otras dos opciones de esta guía rinden mejor.',
+    articleBody: `## La entrada de precio de la comparativa
+
+La Fary Home es, por lejos, la más barata de esta comparativa: aluminio con revestimiento antiadherente y mango de baquelita (resistente al calor de la hornalla), a {{precio:MLA36176768}}. Es apta para lavavajillas, algo que no todas las sartenes económicas ofrecen, y tiene el rating más alto del grupo (4.8 sobre {{reviews:MLA36176768}} opiniones).
+
+## Lo que no trae
+
+No incluye tapa ni espátula, y solo viene en un tamaño (24cm). Tampoco es una marca con la trayectoria internacional de Tramontina o Tefal: el resumen de opiniones la describe como "de buena calidad y a un precio accesible", con buen rendimiento al cocinar, pero la base de opiniones ({{reviews:MLA36176768}}) es la más chica de las tres fichas de esta guía, así que el respaldo de datos es menor.
+
+## Para quién sirve
+
+Si nunca tuviste una sartén antiadherente propia y no querés invertir de entrada, es una entrada honesta: barata, antiadherente de verdad según las reseñas, apta para lavavajillas. Si cocinás seguido o buscás algo con más trayectoria de marca, el salto a la Tramontina o la Tefal de esta guía rinde mejor en el tiempo.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'Fary Home / Sartén 24cm' },
+      { label: 'Color', value: 'Bordó' },
+      { label: 'Diámetro', value: '24 cm' },
+      { label: 'Capacidad', value: '1 L' },
+      { label: 'Material del cuerpo', value: 'Aluminio' },
+      { label: 'Material del mango', value: 'Baquelita' },
+      { label: 'Superficie antiadherente', value: 'Sí' },
+      { label: 'Apta para lavavajillas', value: 'Sí' },
+      { label: 'Incluye tapa', value: 'No' },
+      { label: 'Incluye espátula', value: 'No' },
+      { label: 'Peso', value: '500 g' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', date: '2026-10-10', text: 'La sartén es de excelente calidad y a un precio accesible. Destaca por su excelente rendimiento al cocinar, ya que no se pega nada.', useful: 0 },
+    ],
+    faq: [
+      { question: '¿La sartén Fary Home es apta para lavavajillas?', answer: 'Sí, según su ficha técnica se puede lavar en lavavajillas.' },
+      { question: '¿Incluye tapa o espátula?', answer: 'No, según su ficha técnica no incluye accesorios. Es una sartén básica, pensada solo para cocinar.' },
+      { question: '¿Vale la pena por el precio?', answer: 'Sí, para empezar sin gastar de más: tiene el rating más alto de esta comparativa (4.8) y las reseñas confirman que no se pega la comida. La base de opiniones ({{reviews:MLA36176768}}) es chica, lo decimos de frente.' },
+    ],
+    relatedProducts: ['MLAU232589472', 'MLA27402801'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Fary Home Sartén 24cm',
+      description: 'Sartén Fary Home de aluminio antiadherente 24cm, mango de baquelita, apta para lavavajillas.',
+      brand: { '@type': 'Brand', name: 'Fary Home' },
+      model: 'Sartén 24cm',
+      sku: 'MLA36176768',
+      category: 'Sartenes',
+      color: 'Bordó',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_818250-MLA112427780228_062026-F.webp',
+      url: 'https://productosvirales.com.ar/producto/sarten-fary-home-aluminio-antiadherente-24cm-mla36176768',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '15999',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.8',
+        reviewCount: '44',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+  },
+
+  {
+    id: 'MLAU232589472',
+    title: 'Sartén Doble Omeletera 20cm Tramontina Teflón Antiadherente',
+    canonicalName: 'Tramontina Omeletera Doble',
+    brand: 'Tramontina',
+    price: 25895,
+    priceUpdated: "2026-10-13",
+    priceLastChecked: "2026-10-13",
+    priceStatus: "fresh",
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_784738-MLA31623216475_072019-F.webp',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_784738-MLA31623216475_072019-F.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_763085-MLA43844069137_102020-F.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_823828-MLA43844069425_102020-F.webp',
+    ],
+    category: 'Cocina',
+    categorySlug: 'cocina',
+    permalink: 'https://www.mercadolibre.com.ar/sarten-doble-omeletera-20cm-tramontina-teflon-antiadherente/up/MLAU232589472',
+    affiliateUrl: 'https://meli.la/1WqKsaA',
+    condition: 'new',
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 727,
+    reviewsSampledAt: '2026-10-13',
+    pastelColor: 'var(--pastel-pink)',
+    visibility: 'normal',
+    description: 'La más vendida de esta comparativa: dos sartenes de 20cm que se cierran entre sí, pensadas específicamente para dar vuelta tortillas y omelets sin romperlos. {{reviews:MLAU232589472}} opiniones a 4.7 estrellas, +10mil vendidas.',
+    seoTitle: 'Tramontina Omeletera Doble: la sartén antiadherente más vendida',
+    metaDescription: 'Tramontina Omeletera Doble a {{precio:MLAU232589472}}: 2 sartenes de 20cm que se cierran para voltear tortillas sin romperlas. {{reviews:MLAU232589472}} opiniones, +10mil vendidas.',
+    pros: [
+      'La más vendida de la categoría Sartenes: más de 10 mil unidades vendidas',
+      'Formato doble: las dos mitades funcionan como tapa una de la otra',
+      'Ideal para voltear tortillas, omelets y panqueques sin romperlos',
+      'Marca reconocida internacionalmente, con trayectoria real en cocina',
+      'Apta para lavavajillas',
+    ],
+    cons: [
+      'Varias reseñas marcan que conviene usar aceite o manteca para que no se pegue, pese a ser antiadherente',
+      'El tamaño (20cm) es más chico que el resto de esta comparativa, pensado para porciones individuales',
+      'No incluye espátula',
+      'Formato específico: si buscás una sartén simple de uso general, el formato doble puede ser innecesario',
+    ],
+    verdict: 'Es la sartén antiadherente más validada de todo el catálogo: más de 10 mil unidades vendidas y {{reviews:MLAU232589472}} opiniones reales a 4.7 estrellas. El formato doble (las dos mitades se cierran entre sí) resuelve un problema real y concreto: voltear una tortilla u omelet sin que se rompa ni se desparrame. La contra honesta que marca alguna reseña: conviene usar un poco de aceite, no es 100% libre de grasa pese al antiadherente. Si tu uso principal es tortillas, omelets o panqueques, es la elegida; para uso general de cocina, cualquiera de las otras dos opciones de esta guía sirve mejor.',
+    articleBody: `## La más vendida, con un formato que resuelve un problema real
+
+La Tramontina Omeletera Doble es, con una diferencia enorme, la sartén antiadherente más vendida de esta comparativa: más de 10 mil unidades vendidas y {{reviews:MLAU232589472}} calificaciones reales a 4.7 estrellas. Su formato es distinto al resto: son dos sartenes de 20cm, con cuerpo de aluminio y mango de baquelita, que se cierran entre sí como una tapa. Eso resuelve un problema concreto: voltear una tortilla, un omelet o un panqueque sin que se rompa ni se desparrame al darlo vuelta.
+
+## Lo que dicen las reseñas, sin filtro
+
+Una reseña real lo resume con humor: "semanas de intentar hacer una tortilla de avena como la gente, siempre quemada o destrozada al darla vuelta, desde que tengo esta sartén puedo decir que soy feliz". Otra reseña, más honesta sobre el límite del producto, avisa: "ponele aceite que se quema", un recordatorio de que ningún antiadherente reemplaza del todo un poco de materia grasa.
+
+## Para quién sirve
+
+Si tu uso principal es tortillas, omelets, panqueques o cualquier preparación que haya que dar vuelta entera, es el formato más probado del mercado argentino para eso. Si buscás una sartén de uso general (saltear, freír, dorar carne), cualquiera de las otras dos opciones de esta guía cumple igual o mejor, en un tamaño más grande.`,
+    specs: [
+      { label: 'Marca / Línea', value: 'Tramontina / Loreto' },
+      { label: 'Modelo', value: 'Omeletera Doble' },
+      { label: 'Color', value: 'Gris oscuro' },
+      { label: 'Cantidad de unidades', value: '2 (se cierran entre sí)' },
+      { label: 'Diámetro', value: '20 cm' },
+      { label: 'Material del cuerpo', value: 'Aluminio' },
+      { label: 'Material del mango', value: 'Baquelita' },
+      { label: 'Superficie antiadherente', value: 'Sí (Teflón)' },
+      { label: 'Apta para lavavajillas', value: 'Sí' },
+      { label: 'Incluye tapa', value: 'Sí (una mitad hace de tapa)' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', date: '2025-06-15', text: 'Semanas de intentar hacer una tortilla de avena como la gente. Siempre quemada, o destrozada al darla vuelta. Desde que tengo esta sartén, puedo decir que soy feliz. Conseguí trabajo, las cosas me empezaron a salir mejor.', useful: 0 },
+      { rating: 3, country: 'Argentina', date: '2026-09-13', text: 'Ponele aceite que se quema.', useful: 0 },
+    ],
+    faq: [
+      { question: '¿Para qué sirve el formato doble de la Tramontina Omeletera?', answer: 'Las dos mitades (20cm cada una) se cierran entre sí como una tapa, pensadas específicamente para voltear tortillas, omelets o panqueques enteros sin que se rompan ni se desparramen.' },
+      { question: '¿Es necesario usar aceite aunque sea antiadherente?', answer: 'Según varias reseñas reales, conviene usar un poco de aceite o manteca para un mejor resultado. El antiadherente ayuda, pero no reemplaza del todo la materia grasa.' },
+      { question: '¿Por qué es la más vendida?', answer: 'Acumula más de 10 mil unidades vendidas y {{reviews:MLAU232589472}} calificaciones reales a 4.7 estrellas, muy por encima del resto de esta comparativa, gracias a su formato específico para tortillas y omelets.' },
+    ],
+    relatedProducts: ['MLA36176768', 'MLA27402801'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Tramontina Omeletera Doble',
+      description: 'Sartén doble omeletera Tramontina 20cm, teflón antiadherente, aluminio, mango de baquelita, apta para lavavajillas.',
+      brand: { '@type': 'Brand', name: 'Tramontina' },
+      model: 'Omeletera Doble',
+      sku: 'MLAU232589472',
+      category: 'Sartenes',
+      color: 'Gris oscuro',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_784738-MLA31623216475_072019-F.webp',
+      url: 'https://productosvirales.com.ar/producto/sarten-doble-omeletera-20cm-tramontina-teflon-antiadherente-mlau232589472',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '25895',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.7',
+        reviewCount: '727',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+  },
+
+  {
+    id: 'MLA27402801',
+    title: 'Sartén Tefal Attrayant 28cm Teflón Antiadherente',
+    canonicalName: 'Tefal Attrayant 28cm',
+    brand: 'Tefal',
+    price: 32990,
+    priceUpdated: "2026-10-13",
+    priceLastChecked: "2026-10-13",
+    priceStatus: "fresh",
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_811057-MLA99498238990_112025-F.webp',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_811057-MLA99498238990_112025-F.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_987195-MLU72606713129_102023-F.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_688894-MLU72536267702_102023-F.webp',
+    ],
+    category: 'Cocina',
+    categorySlug: 'cocina',
+    permalink: 'https://www.mercadolibre.com.ar/sarten-tefal-attrayant-28cm-teflon-antiadherente-color-negro/p/MLA27402801',
+    affiliateUrl: 'https://meli.la/1fkTvBU',
+    condition: 'new',
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 454,
+    reviewsSampledAt: '2026-10-13',
+    pastelColor: 'var(--pastel-pink)',
+    visibility: 'normal',
+    description: 'La marca líder mundial en sartenes antiadherentes: 28cm, apta para lavavajillas, {{reviews:MLA27402801}} opiniones a 4.7 estrellas. La contra honesta: alguna reseña marca que el fondo y las paredes son de poco espesor.',
+    seoTitle: 'Sartén Tefal Attrayant 28cm: la marca líder en antiadherente',
+    metaDescription: 'Sartén Tefal Attrayant 28cm a {{precio:MLA27402801}}: aluminio, apta lavavajillas, marca líder mundial en antiadherente. {{reviews:MLA27402801}} opiniones y 4.7 estrellas.',
+    pros: [
+      'Tefal es la marca más reconocida mundialmente en sartenes antiadherentes',
+      'El diámetro más grande de esta comparativa (28cm), para porciones familiares',
+      'Apta para lavavajillas',
+      '{{reviews:MLA27402801}} opiniones reales a 4.7 estrellas',
+      'Calienta rápido según las reseñas, sin necesitar aceite',
+    ],
+    cons: [
+      'La más cara de esta comparativa',
+      'Una reseña real marca que el fondo y las paredes son de poco espesor',
+      'No incluye tapa ni espátula',
+      'No tiene el indicador de temperatura Thermo-Spot de otras líneas Tefal más caras',
+    ],
+    verdict: 'Si buscás la marca con más trayectoria mundial en sartenes antiadherentes, es la elegida: {{reviews:MLA27402801}} opiniones reales a 4.7 estrellas, el diámetro más grande de esta comparativa (28cm) y apta para lavavajillas. Es también la más cara de las tres, y una reseña real marca que el fondo y las paredes son de poco espesor, algo a tener en cuenta si buscás algo robusto para uso intensivo. Para la mayoría que cocina en casa, cumple de sobra y con el respaldo de una marca reconocida.',
+    articleBody: `## La marca líder mundial en antiadherente
+
+Tefal es, a nivel mundial, una de las marcas más reconocidas en sartenes y recubrimientos antiadherentes, y esta Attrayant de 28cm lo confirma en MercadoLibre Argentina: {{reviews:MLA27402801}} calificaciones reales a 4.7 estrellas, a {{precio:MLA27402801}}. Es la de mayor diámetro de esta comparativa, con cuerpo de aluminio y apta para lavavajillas.
+
+## Lo que dicen las reseñas, sin filtro
+
+El resumen de opiniones es elogioso: "la sartén es de excelente calidad, con un antiadherente seguro y efectivo que no requiere aceite, es práctica, liviana y calienta rápidamente". Pero no todo es perfecto: una reseña real con 2 estrellas marca algo concreto: "fondo y paredes de poco espesor", una observación sobre la robustez del aluminio que conviene tener en cuenta si buscás algo para uso intensivo o profesional.
+
+## Para quién sirve
+
+Si valorás la trayectoria de una marca reconocida mundialmente y buscás la sartén más grande de esta comparativa (28cm, para porciones familiares), es la elegida. Es la más cara de las tres; si el presupuesto es la prioridad, la Fary Home de esta guía cumple lo básico a mucho menor precio.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'Tefal / 306465' },
+      { label: 'Línea', value: 'Attrayant' },
+      { label: 'Color', value: 'Negro' },
+      { label: 'Diámetro', value: '28 cm' },
+      { label: 'Capacidad', value: '1,9 L' },
+      { label: 'Material del cuerpo', value: 'Aluminio' },
+      { label: 'Material del mango', value: 'Baquelita' },
+      { label: 'Superficie antiadherente', value: 'Sí (Teflón)' },
+      { label: 'Apta para lavavajillas', value: 'Sí' },
+      { label: 'Peso', value: '430 g (la ficha de MercadoLibre dice "430 kg", un error de carga de unidades)' },
+    ],
+    customerReviews: [
+      { rating: 2, country: 'Argentina', date: '2026-08-13', text: 'Fondo y paredes de poco espesor.', useful: 0 },
+    ],
+    faq: [
+      { question: '¿La sartén Tefal Attrayant es apta para lavavajillas?', answer: 'Sí, según su ficha técnica se puede lavar en lavavajillas.' },
+      { question: '¿Es resistente o de poco espesor?', answer: 'Una reseña real marca que el fondo y las paredes son de poco espesor, algo a considerar si buscás algo robusto para uso intensivo. Para uso doméstico normal, la mayoría de las opiniones son positivas.' },
+      { question: '¿Por qué es la más cara de la comparativa?', answer: 'Tefal es una marca con trayectoria mundial reconocida en sartenes antiadherentes, y esta es además la de mayor diámetro (28cm) de las tres opciones de esta guía.' },
+    ],
+    relatedProducts: ['MLA36176768', 'MLAU232589472'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Tefal Attrayant 28cm',
+      description: 'Sartén Tefal Attrayant 28cm, teflón antiadherente, aluminio, apta para lavavajillas.',
+      brand: { '@type': 'Brand', name: 'Tefal' },
+      model: '306465',
+      sku: 'MLA27402801',
+      category: 'Sartenes',
+      color: 'Negro',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_811057-MLA99498238990_112025-F.webp',
+      url: 'https://productosvirales.com.ar/producto/sarten-tefal-attrayant-28cm-teflon-antiadherente-mla27402801',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '32990',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.7',
+        reviewCount: '454',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+  },
+
+  {
     id: 'MLA19769919',
     title: 'Afeitadora Remington R31a Rotativo Recargable Usb Color Negro',
     canonicalName: 'Remington R31A Rotativo',
