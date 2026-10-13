@@ -38,11 +38,31 @@ export function boardSlug(board: string): string {
 
 const isGuide = (pin: Pin) => pin.link.includes("/guias/");
 
+// Un Pin queda congelado en Pinterest: no puede llevar precios ni conteos que
+// envejecen. Las guías los escriben como tokens ({{precio:MLA...}}) que el sitio
+// resuelve al renderizar, pero acá llegarían crudos. Sacamos las frases que los
+// usan (en vez de resolverlos a un precio que se vuelve viejo) y limpiamos el
+// markdown. Si no sobra texto útil, usamos una descripción neutra del título.
+function cleanPinText(pin: Pin): Pin {
+  const plain = (s: string) => s.replace(/[*`_]{1,3}/g, "").replace(/\s+/g, " ").trim();
+  const title = plain(pin.title.replace(/\{\{[^}]*\}\}/g, "")).trim();
+  const kept = plain(pin.description)
+    .split(/(?<=[.!?])\s+/)
+    .filter((sentence) => !sentence.includes("{{"))
+    .join(" ")
+    .trim();
+  const description =
+    kept.length >= 40
+      ? kept
+      : `${title}. Guía honesta con las opciones reales de MercadoLibre Argentina.`;
+  return { ...pin, title, description };
+}
+
 /** Todos los Pins con su fecha de salida, en orden de publicación. */
 export function buildDripSchedule(): DripPin[] {
   // Por tablero: guías primero (intención alta, duran más), después fichas.
   const byBoard = new Map<string, Pin[]>();
-  for (const pin of buildPins()) {
+  for (const pin of buildPins().map(cleanPinText)) {
     const list = byBoard.get(pin.board) ?? [];
     list.push(pin);
     byBoard.set(pin.board, list);
