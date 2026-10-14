@@ -53,7 +53,11 @@ export function getPerfumePriceIndex(): PerfumePriceIndex | null {
     const raw = getPriceHistory(p.id);
     if (raw.length < MIN_POINTS) continue;
     const sorted = [...raw].sort((a, b) => a.d.localeCompare(b.d));
-    const first = sorted[0];
+    // Precio inicial = mediana de las primeras 3 lecturas: las primeras corridas
+    // de abril dejaron picos sueltos (ej. 99.999 y 51.000 el mismo día, o
+    // 108.348 / 137.817 / 112.249) y tomar solo la primera o la última del día
+    // inflaba la caída. Con >= MIN_POINTS puntos siempre hay 3 disponibles.
+    const first = [...sorted.slice(0, 3)].sort((a, b) => a.p - b.p)[1];
     const last = sorted[sorted.length - 1];
     if (first.p <= 0) continue;
     const pct = Math.round(((last.p - first.p) / first.p) * 1000) / 10;
