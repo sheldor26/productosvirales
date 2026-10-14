@@ -56662,6 +56662,330 @@ Si te molesta tener que forzar el pliegue de una cinta tradicional después de c
   },
 
   {
+    id: 'MLA75633420',
+    title: 'Moises Para Perro O Gato Lola Pets Islandia Chico Color Gris oscuro Diseño Redondo',
+    canonicalName: 'Lola Pets Islandia Moisés',
+    brand: 'Lola Pets',
+    price: 18220,
+    priceUpdated: "2026-10-14",
+    priceLastChecked: "2026-10-14",
+    priceStatus: "fresh",
+    originalPrice: 21436,
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_930296-MLA113630960386_072026-O.webp',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_930296-MLA113630960386_072026-O.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_706745-MLA113629986674_072026-O.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_736656-MLA113630283750_072026-O.webp',
+    ],
+    category: 'Mascotas',
+    categorySlug: 'mascotas',
+    permalink: 'https://www.mercadolibre.com.ar/moises-para-perro-o-gato-lola-pets-islandia-chico-color-gris-oscuro-diseno-redondo/p/MLA75633420',
+    affiliateUrl: 'https://meli.la/33kckN2',
+    condition: 'new',
+    freeShipping: true,
+    rating: 4.6,
+    reviewCount: 3186,
+    reviewsSampledAt: '2026-10-14',
+    pastelColor: 'var(--pastel-pink)',
+    visibility: 'normal',
+    description: 'La cama para perro más vendida de MercadoLibre Argentina: 1° en Camas, {{reviews:MLA75633420}} opiniones a 4.6 estrellas. Moisés redondo reversible (peluche/tela fresca) para mascotas chicas, hasta 5kg. La contra honesta: varias reseñas avisan que es chica, lo decimos de frente.',
+    seoTitle: 'Lola Pets Islandia: la cama para perro más vendida de Argentina',
+    metaDescription: 'Moisés Lola Pets Islandia a {{precio:MLA75633420}}: diseño redondo reversible, para mascotas de hasta 5kg. {{reviews:MLA75633420}} opiniones y 4.6 estrellas, 1° en Camas de MercadoLibre.',
+    pros: [
+      '1° en la categoría Camas de MercadoLibre, por lejos la más vendida',
+      'Almohadón reversible: una cara de peluche, otra de tela fresca según la temperatura',
+      'Composición textil antibacteriana',
+      'Sistema de plegado que reduce el volumen para guardar o trasladar',
+      'Marca con trayectoria real en el mercado argentino (Lola Pets)',
+    ],
+    cons: [
+      'Tamaño chico: peso máximo soportado de 5kg, pensado para razas pequeñas y gatos',
+      'Varias reseñas avisan que es más chica de lo que esperaban, algunas tuvieron que devolverla',
+      'Una reseña real marca mala calidad en la confección',
+      'La ficha incluye opiniones de otros países de la región',
+    ],
+    verdict: 'Es la cama para perro más validada de MercadoLibre Argentina: 1° en la categoría Camas, con {{reviews:MLA75633420}} opiniones reales a 4.6 estrellas. El diseño moisés reversible (peluche de un lado, tela fresca del otro) y la composición antibacteriana suman valor real. La contra honesta y recurrente en las reseñas: es chica, pensada para mascotas de hasta 5kg (razas pequeñas y gatos), y conviene medir bien antes de comprar para no tener que devolverla. Para esa categoría de tamaño, es la compra más segura del catálogo.',
+    articleBody: `## La cama para perro más vendida de Argentina
+
+La Lola Pets Islandia es, por lejos, la cama para perro y gato más vendida de MercadoLibre Argentina: ocupa el 1° puesto de la categoría Camas, con {{reviews:MLA75633420}} calificaciones reales a 4.6 estrellas, a {{precio:MLA75633420}}. Es un moisés de diseño redondo, con núcleo de goma espuma de alta densidad y almohadón reversible: una cara de peluche, otra de tela fresca, para alternar según la temperatura ambiente.
+
+## Pensada para mascotas chicas
+
+Un dato que conviene saber antes de comprar: su peso máximo soportado es de 5kg, por lo que está pensada para razas pequeñas (Beagle, Caniche, Yorkshire según recomienda la propia ficha) y gatos, no para perros grandes. Es lavable, con composición textil antibacteriana, y se pliega para reducir el volumen al guardarla o trasladarla.
+
+## La contra real, sin filtro
+
+Varias reseñas repiten lo mismo: "muy pequeño, tuve que devolverlo". No es un defecto del producto, es una cuestión de expectativas: si tu mascota pesa más de 5kg, esta cama no es para ella. Otra reseña real marca una queja distinta, sobre la calidad de la confección. Son minoría frente a más de 3 mil opiniones mayormente positivas, pero conviene saberlo.
+
+## Para quién sirve
+
+Si tenés un perro de raza pequeña o un gato, es la cama más probada del mercado argentino: la más vendida, con el respaldo de reseñas más grande de esta comparativa. Si tu mascota es grande, buscá una cama con mayor capacidad de peso, como las opciones ortopédicas de esta guía.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'Lola Pets / Islandia' },
+      { label: 'Tipo de cama', value: 'Moisés' },
+      { label: 'Color', value: 'Gris oscuro' },
+      { label: 'Diseño', value: 'Redondo' },
+      { label: 'Tamaño', value: 'Chico' },
+      { label: 'Material', value: 'Microfibra / Piel sintética' },
+      { label: 'Peso máximo soportado', value: '5 kg' },
+      { label: 'Razas recomendadas', value: 'Beagle, Caniche, Yorkshire (y gatos)' },
+      { label: 'Medidas', value: '44 x 44 x 17 cm' },
+      { label: 'Peso del producto', value: '1 kg' },
+    ],
+    customerReviews: [
+      { rating: 3, country: 'Argentina', date: '2025-11-14', text: 'Muy pequeño. Tuvo que devolverlo.', useful: 1 },
+      { rating: 3, country: 'Argentina', date: '2025-07-14', text: 'Muy mala calidad la confección.', useful: 1 },
+    ],
+    faq: [
+      { question: '¿Para qué tamaño de mascota sirve el moisés Lola Pets Islandia?', answer: 'Según su ficha técnica, soporta hasta 5kg: está pensado para razas pequeñas (Beagle, Caniche, Yorkshire) y gatos, no para perros grandes.' },
+      { question: '¿Por qué es la cama más vendida?', answer: 'Ocupa el 1° puesto de la categoría Camas de MercadoLibre Argentina, con {{reviews:MLA75633420}} calificaciones reales a 4.6 estrellas, la base de opiniones más grande de esta comparativa.' },
+      { question: '¿Es reversible el almohadón?', answer: 'Sí, según su ficha técnica tiene una cara de peluche y otra de tela fresca, para alternar según la temperatura ambiente.' },
+      { question: '¿Hay reclamos de que sea chica?', answer: 'Sí, varias reseñas reales avisan que es más chica de lo esperado y algunas compradoras tuvieron que devolverla. Conviene medir a tu mascota antes de comprar.' },
+      { question: '¿Es lavable?', answer: 'Sí, su estructura permite el lavado para eliminar residuos y suciedad, según su ficha técnica.' },
+    ],
+    relatedProducts: ['MLA69277177', 'MLA67392428'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Lola Pets Islandia Moisés',
+      description: 'Cama moisés para perro y gato Lola Pets Islandia, diseño redondo reversible, chica, hasta 5kg.',
+      brand: { '@type': 'Brand', name: 'Lola Pets' },
+      model: 'Islandia',
+      sku: 'MLA75633420',
+      category: 'Camas para mascotas',
+      color: 'Gris oscuro',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_930296-MLA113630960386_072026-O.webp',
+      url: 'https://productosvirales.com.ar/producto/moises-para-perro-o-gato-lola-pets-islandia-chico-color-gris-oscuro-diseno-redon-mla75633420',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '18220',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.6',
+        reviewCount: '3186',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+  },
+
+  {
+    id: 'MLA69277177',
+    title: 'Cama Ortopédica Para Perro Memory Foam Gel Antideslizante Gris Wbpetbed-01',
+    canonicalName: 'Ozz Ortopédica Memory Foam',
+    brand: 'Ozz',
+    price: 63399,
+    priceUpdated: "2026-10-14",
+    priceLastChecked: "2026-10-14",
+    priceStatus: "fresh",
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_848141-MLA111339547191_052026-O.webp',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_848141-MLA111339547191_052026-O.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_945294-MLA110401631112_052026-O.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_689955-MLA111339222077_052026-O.webp',
+    ],
+    category: 'Mascotas',
+    categorySlug: 'mascotas',
+    permalink: 'https://www.mercadolibre.com.ar/cama-ortopedica-para-perro-memory-foam-gel-antideslizante-gris-wbpetbed-01/p/MLA69277177',
+    affiliateUrl: 'https://meli.la/1McqEhx',
+    condition: 'new',
+    freeShipping: true,
+    rating: 4.9,
+    reviewCount: 253,
+    reviewsSampledAt: '2026-10-14',
+    pastelColor: 'var(--pastel-pink)',
+    visibility: 'normal',
+    description: 'La opción ortopédica de esta comparativa: memory foam con gel, antideslizante, para perros de hasta 30kg. "MÁS VENDIDO" en Camas, 4.9 estrellas en {{reviews:MLA69277177}} opiniones. La contra honesta: alguna reseña marca fallas en la costura/cierre.',
+    seoTitle: 'Ozz Ortopédica Memory Foam: la cama con gel para articulaciones',
+    metaDescription: 'Cama ortopédica Ozz memory foam a {{precio:MLA69277177}}: gel antideslizante, hasta 30kg, lavable. {{reviews:MLA69277177}} opiniones y 4.9 estrellas, "MÁS VENDIDO" en Camas.',
+    pros: [
+      '"MÁS VENDIDO" en la categoría Camas de MercadoLibre',
+      'Memory foam con gel: pensada para aliviar presión en articulaciones',
+      'Base antideslizante',
+      'Lavable',
+      '4.9 estrellas, la nota más alta de esta comparativa',
+    ],
+    cons: [
+      'Peso máximo soportado de 30kg (hay una versión XL más grande y más cara para perros mayores)',
+      'No es a prueba de agua',
+      'Una reseña real marca fallas en la costura: se le soltó el cierre',
+      'Precio más alto que el resto de esta comparativa',
+    ],
+    verdict: 'Si tu perro necesita una superficie que alivie la presión en las articulaciones (edad avanzada, displasia, post-operatorio), es la elegida de esta comparativa: memory foam con gel, antideslizante y lavable, con la nota más alta del grupo (4.9) sobre {{reviews:MLA69277177}} opiniones reales. La contra honesta: una reseña marca una falla puntual en la costura del cierre, algo a tener en cuenta en el control de calidad. Para perros medianos (hasta 30kg) que necesiten más que una cama común, es la compra más justificada de esta guía.',
+    articleBody: `## Memory foam para perros con necesidades articulares
+
+La Ozz Wbpetbed-01 es la única opción ortopédica de esta comparativa: colchón de memory foam con gel, pensado para distribuir mejor el peso y aliviar la presión en las articulaciones de perros mayores, con displasia o en recuperación, a {{precio:MLA69277177}}. Tiene base antideslizante, es lavable y soporta hasta 30kg. Ocupa el puesto "MÁS VENDIDO" en la categoría Camas y tiene {{reviews:MLA69277177}} calificaciones reales a 4.9 estrellas, la nota más alta de esta comparativa.
+
+## Lo que dicen las reseñas, sin filtro
+
+El resumen de opiniones es elogioso: "de excelente calidad y muy cómoda, fácil de lavar y mantiene su forma". Pero no todo es perfecto: una reseña real con 4 estrellas avisa "deben mejorar el tema de la costura, las terminaciones de los cierres, me quedé con el cierre en la mano", un detalle de control de calidad a tener en cuenta.
+
+## Para quién sirve
+
+Si tu perro tiene necesidades articulares reales (edad, displasia, post-operatorio) o simplemente buscás la superficie más cómoda de esta comparativa, vale la diferencia de precio frente a una cama común. Para perros de más de 30kg existe una versión XL de la misma marca a mayor precio. Para un perro sano sin necesidades especiales, cualquiera de las otras dos opciones de esta guía cumple igual de bien.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'Ozz / WBPETBED-01' },
+      { label: 'Tipo de cama', value: 'Ortopédico' },
+      { label: 'Color', value: 'Gris' },
+      { label: 'Tamaño', value: 'Camas para gatos y perros' },
+      { label: 'Peso máximo soportado', value: '30 kg' },
+      { label: 'Es lavable', value: 'Sí' },
+      { label: 'A prueba de agua', value: 'No' },
+      { label: 'Medidas', value: '71 x 58 cm' },
+    ],
+    customerReviews: [
+      { rating: 4, country: 'Argentina', date: '2026-06-14', text: 'A mis perros les encantó. Pero: deben mejorar el tema de la costura, las terminaciones de los cierres por ej, me quedé con el cierre en la mano.', useful: 5 },
+    ],
+    faq: [
+      { question: '¿Para qué sirve una cama ortopédica de memory foam?', answer: 'Distribuye mejor el peso del cuerpo y alivia la presión en las articulaciones, útil para perros mayores, con displasia o en recuperación post-operatoria.' },
+      { question: '¿Cuánto peso soporta?', answer: 'Hasta 30kg según su ficha técnica. La marca tiene una versión XL más grande y más cara para perros de mayor porte.' },
+      { question: '¿Es a prueba de agua?', answer: 'No, según su ficha técnica no es a prueba de agua, aunque sí es lavable.' },
+      { question: '¿Hay quejas de calidad?', answer: 'Una reseña real marca una falla puntual en la costura del cierre. El resto de las opiniones son mayormente positivas sobre la comodidad y durabilidad.' },
+      { question: '¿Por qué es más cara que otras camas?', answer: 'Por el material memory foam con gel, pensado específicamente para necesidades ortopédicas, a diferencia de una cama o moisés común.' },
+    ],
+    relatedProducts: ['MLA75633420', 'MLA67392428'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Ozz Ortopédica Memory Foam',
+      description: 'Cama ortopédica para perro Ozz, memory foam con gel, antideslizante, lavable, hasta 30kg.',
+      brand: { '@type': 'Brand', name: 'Ozz' },
+      model: 'WBPETBED-01',
+      sku: 'MLA69277177',
+      category: 'Camas para mascotas',
+      color: 'Gris',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_848141-MLA111339547191_052026-O.webp',
+      url: 'https://productosvirales.com.ar/producto/cama-ortopedica-para-perro-memory-foam-gel-antideslizante-gris-wbpetbed-01-mla69277177',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '63399',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.9',
+        reviewCount: '253',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+  },
+
+  {
+    id: 'MLA67392428',
+    title: 'Cucha Cama Ma37 antiestrés gato perro color blanco Electroland',
+    canonicalName: 'Electroland MA37 Antiestrés',
+    brand: 'Electroland',
+    price: 29999,
+    priceUpdated: "2026-10-14",
+    priceLastChecked: "2026-10-14",
+    priceStatus: "fresh",
+    originalPrice: 99999,
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_903101-MLA116542551255_082026-O.webp',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_903101-MLA116542551255_082026-O.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_928514-MLA109736002763_032026-O.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_647557-MLA109736179427_032026-O.webp',
+    ],
+    category: 'Mascotas',
+    categorySlug: 'mascotas',
+    permalink: 'https://www.mercadolibre.com.ar/cucha-cama-ma37-antiestres-gato-perro-color-blanco-electroland/p/MLA67392428',
+    affiliateUrl: 'https://meli.la/117KxA7',
+    condition: 'new',
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 155,
+    reviewsSampledAt: '2026-10-14',
+    pastelColor: 'var(--pastel-pink)',
+    visibility: 'normal',
+    description: 'La única "cama donut" antiestrés de esta comparativa: diseño redondo y mullido, pensado para que la mascota se sienta contenida. 4.8 estrellas en {{reviews:MLA67392428}} opiniones. La contra honesta: el relleno del centro se achata con el uso, aunque se recupera lavándola.',
+    seoTitle: 'Electroland MA37: la cama antiestrés tipo donut para mascotas',
+    metaDescription: 'Cama antiestrés Electroland MA37 a {{precio:MLA67392428}}: diseño donut, lavable, tamaño mediano. {{reviews:MLA67392428}} opiniones y 4.8 estrellas.',
+    pros: [
+      'Diseño "donut" antiestrés: bordes altos y mullidos que contienen a la mascota',
+      'Lavable',
+      'Marca con trayectoria y tienda oficial (+250 mil ventas)',
+      '4.8 estrellas en {{reviews:MLA67392428}} calificaciones',
+      'Buena relación precio-calidad según el resumen de opiniones',
+    ],
+    cons: [
+      'El relleno del centro (donde se acuesta la mascota) se achata con el uso frecuente',
+      'No es a prueba de agua',
+      'No es personalizable',
+      'Tamaño único mediano, sin otras opciones de tamaño en esta publicación',
+    ],
+    verdict: 'Si buscás un formato distinto a la cama tradicional, el diseño donut antiestrés de la Electroland MA37 cumple bien: bordes altos y mullidos que contienen a la mascota, lavable, con buena relación precio-calidad según {{reviews:MLA67392428}} opiniones reales a 4.8 estrellas. La contra honesta y recurrente: el relleno del centro, donde se acuesta la mascota, se achata con el uso frecuente (aunque una compradora real confirma que lavándola en lavarropas recupera el volumen). Para mascotas medianas que disfruten de un formato contenedor, es una opción sólida.',
+    articleBody: `## El formato "donut" antiestrés
+
+La Electroland MA37 es la única cama con diseño "donut" de esta comparativa: un anillo mullido y alto que rodea a la mascota, pensado para darle una sensación de contención (de ahí el nombre "antiestrés"). Tiene estructura lavable, mide 72cm de largo por 57cm de ancho y 19cm de alto, a {{precio:MLA67392428}}. Con {{reviews:MLA67392428}} calificaciones reales a 4.8 estrellas, la vende la tienda oficial de Electroland, con más de 250 mil ventas acumuladas.
+
+## La contra real, sin filtro
+
+Una reseña real y detallada resume el punto débil del formato: "les gusta la camita, es de buen tamaño, pero la usan un rato ya que en la parte donde se acuestan, o sea el medio, les falta relleno, es muy finita". La misma compradora agrega el dato útil: después de lavarla en lavarropas, "de 10 se lavaron", recuperando volumen. Es un patrón típico de las camas tipo donut con relleno sintético: se comprime en el centro con el uso.
+
+## Para quién sirve
+
+Si buscás un formato distinto a la cama rectangular tradicional, y tu mascota es de tamaño mediano, cumple bien y tiene buen respaldo de reseñas. Si priorizás que el relleno no se achate con el tiempo, el moisés Lola Pets o la ortopédica de esta guía sostienen mejor su forma.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'Electroland / Cama MA37' },
+      { label: 'Tipo de cama', value: 'Antiestrés (donut)' },
+      { label: 'Color', value: 'Blanco' },
+      { label: 'Tamaño', value: 'Mediano' },
+      { label: 'Es lavable', value: 'Sí' },
+      { label: 'A prueba de agua', value: 'No' },
+      { label: 'Es personalizable', value: 'No' },
+      { label: 'Medidas', value: '72 x 57 x 19 cm' },
+    ],
+    customerReviews: [
+      { rating: 3, country: 'Argentina', date: '2026-02-14', text: 'Les gusta la camita, para mí hija es de buen tamaño, pero la usan un rato ya que en la parte donde se acuestan, o sea el medio, les falta relleno, es muy finita, después ya las metí al lavarropas y de 10 se lavaron.', useful: 0 },
+    ],
+    faq: [
+      { question: '¿Qué es una cama antiestrés tipo donut?', answer: 'Una cama redonda con bordes altos y mullidos que rodean a la mascota, pensada para darle sensación de contención y seguridad al dormir.' },
+      { question: '¿El relleno se achata con el uso?', answer: 'Sí, según una reseña real, el relleno del centro (donde se acuesta la mascota) se achata con el uso frecuente. La misma reseña confirma que lavarla en lavarropas ayuda a recuperar el volumen.' },
+      { question: '¿Es lavable?', answer: 'Sí, según su ficha técnica y confirmado por reseñas reales de compradores que la lavaron en lavarropas sin problemas.' },
+      { question: '¿Para qué tamaño de mascota sirve?', answer: 'Es de tamaño mediano, según su ficha técnica, sin otras opciones de tamaño en esta publicación específica.' },
+      { question: '¿Por qué tiene tanto descuento?', answer: 'La publicación muestra 70% OFF sobre un precio de lista de $99.999. El precio con descuento ({{precio:MLA67392428}}) es el que se verifica contra MercadoLibre en esta ficha.' },
+    ],
+    relatedProducts: ['MLA75633420', 'MLA69277177'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Electroland MA37 Antiestrés',
+      description: 'Cama antiestrés tipo donut Electroland MA37 para perro y gato, lavable, tamaño mediano.',
+      brand: { '@type': 'Brand', name: 'Electroland' },
+      model: 'Cama MA37',
+      sku: 'MLA67392428',
+      category: 'Camas para mascotas',
+      color: 'Blanco',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_903101-MLA116542551255_082026-O.webp',
+      url: 'https://productosvirales.com.ar/producto/cucha-cama-ma37-antiestres-gato-perro-color-blanco-electroland-mla67392428',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '29999',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.8',
+        reviewCount: '155',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+  },
+
+  {
     id: 'MLA19769919',
     title: 'Afeitadora Remington R31a Rotativo Recargable Usb Color Negro',
     canonicalName: 'Remington R31A Rotativo',

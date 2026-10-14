@@ -33551,7 +33551,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     internalLinks: [
       { label: "Transportadora para gatos: cuál comprar", href: "/guias/mascotas/transportadora-para-gatos" },
       { label: "Casa para perro: cuál comprar", href: "/guias/mascotas/casa-para-perro" },
-      { label: "Mancuernas: cuál comprar", href: "/guias/fitness/mancuernas" },
+      { label: "Cama para perro: cuál comprar", href: "/guias/mascotas/cama-para-perro" },
       { label: "Bicicleta fija: cuál comprar", href: "/guias/fitness/bicicleta-fija" },
     ],
     internalLinksTitle: "Más guías nuevas del sitio",
@@ -34804,6 +34804,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     internalLinks: [
       { label: "Rascador para gatos: cuál comprar", href: "/guias/mascotas/rascador-para-gatos" },
       { label: "Casa para perro: cuál comprar", href: "/guias/mascotas/casa-para-perro" },
+      { label: "Cama para perro: cuál comprar", href: "/guias/mascotas/cama-para-perro" },
     ],
     internalLinksTitle: "Más para tu gato",
   },
@@ -34915,6 +34916,118 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { question: `¿Hay alguna opción económica?`, answer: `Sí, la [cucha de madera](/producto/cucha-de-madera-la-casa-de-tu-mascota-grande-80x60-personalizable-mla46711967) es la más barata de esta comparativa, y se puede personalizar con barniz y el nombre de tu mascota.` },
     ],
     internalLinks: [
+      { label: "Rascador para gatos: cuál comprar", href: "/guias/mascotas/rascador-para-gatos" },
+      { label: "Transportadora para gatos: cuál comprar", href: "/guias/mascotas/transportadora-para-gatos" },
+      { label: "Cama para perro: cuál comprar", href: "/guias/mascotas/cama-para-perro" },
+    ],
+    internalLinksTitle: "Más para tu mascota",
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva cama-para-perro — silo mascotas, categoría nueva
+  // Origen: research propio 2026-10-14. Keywords "cama para perro"
+  // (1.300/mes) + cluster "colchones para perros"/"camas para perros
+  // grandes" (~8.000/mes combinado). SERP limpio: petshops chicos
+  // (lolapets.com.ar DA13, puppis.com.ar DA33, resto DA1-18), cero
+  // comparadores editoriales, ML recién 8vo. Sin canibalización: la
+  // guía casa-para-perro existente es sobre cuchas rígidas de exterior
+  // ("cucha"), esta es sobre camas/colchones blandos de interior — se
+  // verificó que casa-para-perro no menciona "cama"/"colchón" en todo
+  // su contenido. 3 fichas nuevas (ver curated-products.ts): Lola Pets
+  // Islandia (moisés, la más vendida, pero solo hasta 5kg — aclarado
+  // de frente), Ozz Ortopédica Memory Foam (hasta 30kg) y Electroland
+  // MA37 (formato donut antiestrés, relleno se achata con el uso).
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "cama-para-perro",
+    category: "cama-para-perro",
+    silo: "mascotas",
+    pillar: true,
+    title: `Cama para Perro: cuál comprar en Argentina [2026]`,
+    seoTitle: `Cama para Perro: Cuál Comprar en Argentina | 2026`,
+    metaDescription: `Descubrí qué cama para perro comprar en Argentina: la más vendida, la ortopédica o la antiestrés tipo donut. Precios reales de MercadoLibre y contras honestas.`,
+    ogTitle: `Cama para perro: cuál comprar en Argentina`,
+    ogDescription: `Lola Pets, Ozz y Electroland comparadas: de la más vendida a la ortopédica de memory foam. Precios reales de MercadoLibre y las contras que nadie cuenta.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_930296-MLA113630960386_072026-O.webp`,
+    h1: `Cama para perro: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene el **[moisés Lola Pets Islandia](/producto/moises-para-perro-o-gato-lola-pets-islandia-chico-color-gris-oscuro-diseno-redon-mla75633420)** (alrededor de {{precio:MLA75633420:k}}): la más vendida de MercadoLibre, aunque solo para mascotas de hasta 5kg. Si tu perro necesita alivio articular, la **[Ozz Ortopédica Memory Foam](/producto/cama-ortopedica-para-perro-memory-foam-gel-antideslizante-gris-wbpetbed-01-mla69277177)**, hasta 30kg. Y si buscás el formato donut antiestrés, la **[Electroland MA37](/producto/cucha-cama-ma37-antiestres-gato-perro-color-blanco-electroland-mla67392428)**.`,
+    publishedDate: "2026-10-14",
+    updatedDate: "2026-10-14",
+    hasDisclosure: true,
+    readingTime: 7,
+    standfirst: `Una cama para perro va de {{precio:MLA75633420:k}} (la más vendida, chica) a {{precio:MLA69277177:k}} (la ortopédica). La decisión real pasa por el tamaño de tu mascota y si necesita un formato especial (ortopédico o antiestrés), no solo por precio. Te mostramos cuál conviene, con precios reales de MercadoLibre.`,
+    quickPicks: [
+      { productMlaId: "MLA75633420", label: "Mejor elección general", labelColor: "green", tagline: "Lola Pets Islandia: la más vendida, moisés para mascotas chicas (hasta 5kg)" },
+      { productMlaId: "MLA69277177", label: "La ortopédica", labelColor: "purple", tagline: "Ozz Memory Foam: alivia articulaciones, hasta 30kg" },
+      { productMlaId: "MLA67392428", label: "Formato antiestrés", labelColor: "slate", tagline: "Electroland MA37: diseño donut, bordes contenedores" },
+    ],
+    intro: [
+      `La cama para perro resuelve algo simple: darle a tu mascota un lugar propio y cómodo para dormir, distinto del sillón o tu cama. La decisión real pasa por el tamaño de tu mascota (hay camas pensadas solo para razas chicas) y si necesita algo especial, como alivio articular o un formato que la haga sentir contenida, no solo por el precio.`,
+      `En esta guía comparamos las camas para perro más vendidas y mejor calificadas de MercadoLibre Argentina, con las contras reales que cuentan los compradores: desde límites de peso que conviene chequear antes de comprar hasta un relleno que se achata con el uso.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_930296-MLA113630960386_072026-O.webp", alt: `Cama moisés Lola Pets Islandia, la más vendida de esta guía`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, el **[moisés Lola Pets Islandia](/producto/moises-para-perro-o-gato-lola-pets-islandia-chico-color-gris-oscuro-diseno-redon-mla75633420)**: la más vendida de MercadoLibre, pero solo para mascotas de hasta 5kg. Si tu perro necesita **alivio articular**, la **[Ozz Ortopédica Memory Foam](/producto/cama-ortopedica-para-perro-memory-foam-gel-antideslizante-gris-wbpetbed-01-mla69277177)** (hasta 30kg). Y si buscás el **formato donut antiestrés**, la **[Electroland MA37](/producto/cucha-cama-ma37-antiestres-gato-perro-color-blanco-electroland-mla67392428)**.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos las camas para perro con más ventas y opiniones reales en MercadoLibre Argentina. Las ordenamos por lo que define la compra: formato, peso máximo soportado y precio. Las calificaciones y las contras son de compradores reales. Los precios que ves en las fichas y tablas se revisan contra MercadoLibre periódicamente.` },
+
+      { type: "h2", title: `Qué mirar antes de comprar una cama para perro`, id: "que-mirar" },
+      { type: "p", content: `Primero, **el peso máximo soportado**: muchas camas económicas están pensadas solo para razas chicas (5-10kg), y comprar una muy chica para tu perro es la causa más repetida de devoluciones en esta categoría. Segundo, **si necesita algo especial**: una cama ortopédica de memory foam sirve para perros mayores, con displasia o en recuperación; una cama tradicional alcanza para un perro sano. Tercero, **si es lavable**, algo clave para una cama que va a juntar pelo y suciedad con el uso diario.` },
+      { type: "p", content: `Un detalle honesto de la categoría: los rellenos sintéticos de las camas tipo donut o moisés tienden a comprimirse en el centro, donde se acuesta la mascota, con el uso frecuente. No es necesariamente un defecto de fábrica, pero conviene saberlo antes de comprar.` },
+
+      { type: "h2", title: `Las mejores camas para perro 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Lola Pets Islandia — mejor elección general` },
+      { type: "product-card", productMlaId: "MLA75633420", label: "Mejor elección general", labelColor: "green", ranking: 1, description: `Moisés redondo reversible, hasta 5kg. 1° en Camas, 4.6 estrellas en {{reviews:MLA75633420}} calificaciones, la base más grande de esta guía por lejos.` },
+      { type: "p", content: `Es la cama que recomendamos a la mayoría: moisés de diseño redondo con almohadón reversible (peluche de un lado, tela fresca del otro), composición antibacteriana y sistema de plegado, a alrededor de {{precio:MLA75633420:k}}. Con {{reviews:MLA75633420}} calificaciones a 4.6 estrellas, es por lejos la más vendida de esta guía y ocupa el 1° puesto de su categoría en MercadoLibre.` },
+      { type: "p", content: `La contra real: soporta hasta 5kg, pensada para razas pequeñas y gatos. Varias reseñas avisan que es más chica de lo esperado.` },
+
+      { type: "h3", title: `2. Ozz Ortopédica Memory Foam — la ortopédica` },
+      { type: "product-card", productMlaId: "MLA69277177", label: "La ortopédica", labelColor: "purple", ranking: 2, description: `Memory foam con gel, antideslizante, hasta 30kg. "MÁS VENDIDO" en Camas, 4.9 estrellas en {{reviews:MLA69277177}} calificaciones.` },
+      { type: "p", content: `La única opción ortopédica de esta guía: colchón de memory foam con gel, pensado para aliviar presión en las articulaciones, con base antideslizante y lavable, a alrededor de {{precio:MLA69277177:k}}. Soporta hasta 30kg y tiene la nota más alta de esta guía: 4.9 estrellas en {{reviews:MLA69277177}} calificaciones.` },
+      { type: "p", content: `La contra real: una reseña avisa que se le soltó el cierre, una falla de costura puntual. Es también la más cara de esta guía.` },
+      { type: "pull-quote", content: `"A mis perros les encantó. Pero: deben mejorar el tema de la costura, las terminaciones de los cierres por ej, me quedé con el cierre en la mano."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `3. Electroland MA37 — formato antiestrés` },
+      { type: "product-card", productMlaId: "MLA67392428", label: "Formato antiestrés", labelColor: "slate", ranking: 3, description: `Diseño donut con bordes altos. 4.8 estrellas en {{reviews:MLA67392428}} calificaciones.` },
+      { type: "p", content: `La única cama tipo donut de esta guía: un anillo mullido y alto que rodea a la mascota, pensado para darle sensación de contención, a alrededor de {{precio:MLA67392428:k}}. Lavable, tamaño mediano, con {{reviews:MLA67392428}} calificaciones a 4.8 estrellas.` },
+      { type: "p", content: `La contra real: el relleno del centro, donde se acuesta la mascota, se achata con el uso frecuente, aunque una reseña confirma que lavarla en lavarropas ayuda a recuperar el volumen.` },
+      { type: "pull-quote", content: `"Les gusta la camita, es de buen tamaño, pero la usan un rato ya que en la parte donde se acuestan les falta relleno, es muy finita, después ya las metí al lavarropas y de 10 se lavaron."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h2", title: `Tabla comparativa: formato, peso máximo y precio`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Formato`, `Peso máximo`, `Lavable`, `Rating`], rows: [
+        [`[Lola Pets Islandia](/producto/moises-para-perro-o-gato-lola-pets-islandia-chico-color-gris-oscuro-diseno-redon-mla75633420)`, `{{precio:MLA75633420}}`, `Moisés`, `5 kg`, `Sí`, `{{rating:MLA75633420}} ({{reviews:MLA75633420}})`],
+        [`[Ozz Ortopédica](/producto/cama-ortopedica-para-perro-memory-foam-gel-antideslizante-gris-wbpetbed-01-mla69277177)`, `{{precio:MLA69277177}}`, `Ortopédico (memory foam)`, `30 kg`, `Sí`, `{{rating:MLA69277177}} ({{reviews:MLA69277177}})`],
+        [`[Electroland MA37](/producto/cucha-cama-ma37-antiestres-gato-perro-color-blanco-electroland-mla67392428)`, `{{precio:MLA67392428}}`, `Donut (antiestrés)`, `No especificado`, `Sí`, `{{rating:MLA67392428}} ({{reviews:MLA67392428}})`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu cama para perro`, id: "como-elegir" },
+      { type: "h3", title: `¿Qué tamaño de mascota tenés?` },
+      { type: "p", content: `Si tu perro es de raza pequeña o tenés un gato, el [moisés Lola Pets Islandia](/producto/moises-para-perro-o-gato-lola-pets-islandia-chico-color-gris-oscuro-diseno-redon-mla75633420) de esta guía es la opción más probada. Para un perro mediano o grande, la [Ozz Ortopédica](/producto/cama-ortopedica-para-perro-memory-foam-gel-antideslizante-gris-wbpetbed-01-mla69277177) (hasta 30kg) rinde mejor.` },
+      { type: "h3", title: `¿Tu perro tiene necesidades articulares?` },
+      { type: "p", content: `Si tu mascota es mayor, tiene displasia o está en recuperación, el memory foam de la [Ozz Ortopédica](/producto/cama-ortopedica-para-perro-memory-foam-gel-antideslizante-gris-wbpetbed-01-mla69277177) de esta guía es la opción pensada para eso. Para un perro sano, cualquiera de las otras dos cumple igual de bien.` },
+      { type: "h3", title: `¿Vale la pena el formato donut?` },
+      { type: "p", content: `Si tu mascota disfruta de sentirse contenida al dormir, la [Electroland MA37](/producto/cucha-cama-ma37-antiestres-gato-perro-color-blanco-electroland-mla67392428) de esta guía ofrece ese formato. Tené en cuenta que el relleno del centro se achata con el uso, aunque se recupera lavándola.` },
+
+      { type: "h2", title: `Cuánto cuesta una cama para perro en Argentina [octubre 2026]`, id: "cuanto-cuesta" },
+      { type: "list", content: "Franjas de precio reales", items: [
+        `**Alrededor de {{precio:MLA75633420:k}}:** el [moisés Lola Pets Islandia](/producto/moises-para-perro-o-gato-lola-pets-islandia-chico-color-gris-oscuro-diseno-redon-mla75633420), la más vendida.`,
+        `**Alrededor de {{precio:MLA67392428:k}}:** la [Electroland MA37](/producto/cucha-cama-ma37-antiestres-gato-perro-color-blanco-electroland-mla67392428), formato donut antiestrés.`,
+        `**Alrededor de {{precio:MLA69277177:k}}:** la [Ozz Ortopédica](/producto/cama-ortopedica-para-perro-memory-foam-gel-antideslizante-gris-wbpetbed-01-mla69277177), memory foam para articulaciones.`,
+      ] },
+
+      { type: "verdict", content: `Para la mayoría, el **[moisés Lola Pets Islandia](/producto/moises-para-perro-o-gato-lola-pets-islandia-chico-color-gris-oscuro-diseno-redon-mla75633420)** es la compra más segura: la más vendida de esta guía, con el mejor respaldo de reseñas, siempre que tu mascota pese hasta 5kg. Si tu perro necesita alivio articular, la **[Ozz Ortopédica Memory Foam](/producto/cama-ortopedica-para-perro-memory-foam-gel-antideslizante-gris-wbpetbed-01-mla69277177)**. Y si buscás el formato donut antiestrés, la **[Electroland MA37](/producto/cucha-cama-ma37-antiestres-gato-perro-color-blanco-electroland-mla67392428)**, sabiendo que el relleno se achata con el uso.` },
+    ],
+    faq: [
+      { question: `¿Cuál es la mejor cama para perro en Argentina?`, answer: `Para la mayoría, el [moisés Lola Pets Islandia](/producto/moises-para-perro-o-gato-lola-pets-islandia-chico-color-gris-oscuro-diseno-redon-mla75633420): la más vendida, aunque solo para mascotas de hasta 5kg. Si tu perro necesita alivio articular, la [Ozz Ortopédica](/producto/cama-ortopedica-para-perro-memory-foam-gel-antideslizante-gris-wbpetbed-01-mla69277177).` },
+      { question: `¿Esta guía es lo mismo que la de casa para perro?`, answer: `No. [Casa para perro](/guias/mascotas/casa-para-perro) es sobre cuchas rígidas de exterior; esta guía es sobre camas y colchones blandos de interior, un producto distinto.` },
+      { question: `¿Qué cama conviene para un perro grande?`, answer: `La [Ozz Ortopédica](/producto/cama-ortopedica-para-perro-memory-foam-gel-antideslizante-gris-wbpetbed-01-mla69277177) de esta guía soporta hasta 30kg, la de mayor capacidad de las tres comparadas.` },
+      { question: `¿El relleno de las camas se achata con el uso?`, answer: `Puede pasar, especialmente en los formatos donut o moisés con relleno sintético. Una reseña real de la Electroland MA37 de esta guía lo confirma, y agrega que lavarla en lavarropas ayuda a recuperar el volumen.` },
+      { question: `¿Para qué sirve una cama ortopédica?`, answer: `El memory foam con gel distribuye mejor el peso y alivia la presión en las articulaciones, útil para perros mayores, con displasia o en recuperación post-operatoria.` },
+    ],
+    internalLinks: [
+      { label: "Casa para perro: cuál comprar", href: "/guias/mascotas/casa-para-perro" },
       { label: "Rascador para gatos: cuál comprar", href: "/guias/mascotas/rascador-para-gatos" },
       { label: "Transportadora para gatos: cuál comprar", href: "/guias/mascotas/transportadora-para-gatos" },
     ],
