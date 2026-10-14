@@ -56316,6 +56316,352 @@ Si valorás la trayectoria de una marca reconocida mundialmente y buscás la sar
   },
 
   {
+    id: 'MLA39882172',
+    title: 'Randers Arg-409 Cinta Motorizada 12km/h Color Negro',
+    canonicalName: 'Randers Arg-409',
+    brand: 'Randers',
+    price: 684367,
+    priceUpdated: "2026-10-14",
+    priceLastChecked: "2026-10-14",
+    priceStatus: "fresh",
+    originalPrice: 1154237,
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_972526-MLA113675916684_072026-O.webp',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_972526-MLA113675916684_072026-O.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_970288-MLA100008433393_122025-O.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_973090-MLA109513140104_042026-O.webp',
+    ],
+    category: 'Fitness',
+    categorySlug: 'fitness',
+    permalink: 'https://www.mercadolibre.com.ar/randers-arg-409-cinta-motorizada-12kmh-color-negro/p/MLA39882172',
+    affiliateUrl: 'https://meli.la/1Mz2rSw',
+    condition: 'new',
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 2710,
+    reviewsSampledAt: '2026-10-14',
+    pastelColor: 'var(--pastel-blue)',
+    visibility: 'normal',
+    description: 'La cinta de correr más vendida de MercadoLibre Argentina: 1° en su categoría, {{reviews:MLA39882172}} opiniones a 4.8 estrellas. Plegable, con bluetooth y 12km/h de velocidad máxima. Aclaración honesta: la ficha incluye opiniones de otros países de la región.',
+    seoTitle: 'Randers Arg-409: la cinta de correr más vendida de Argentina',
+    metaDescription: 'Randers Arg-409 a {{precio:MLA39882172}}: cinta motorizada plegable, 12km/h, con bluetooth. {{reviews:MLA39882172}} opiniones y 4.8 estrellas, 1° en Cintas para Correr de MercadoLibre.',
+    pros: [
+      '1° en la categoría Cintas para Correr de MercadoLibre, por lejos la más vendida',
+      'Plegable, con ruedas para guardarla parada',
+      'Parlante y conectividad bluetooth integrados',
+      '12 programas y 3 niveles de inclinación manual',
+      'Display con control de velocidad, distancia y calorías',
+    ],
+    cons: [
+      'Algunas reseñas reportan que se rompió con poco uso (al mes, según una compradora)',
+      'Otra reseña marca ruido en el motor y que la cinta se desalinea a los costados',
+      'Peso máximo soportado 110kg, más bajo que otras cintas de mayor porte',
+      'La ficha incluye opiniones de otros países de la región, no son todas de compradores argentinos',
+    ],
+    verdict: 'Es la cinta de correr más validada de MercadoLibre Argentina: 1° en su categoría y {{reviews:MLA39882172}} opiniones reales a 4.8 estrellas. Es plegable, trae parlante bluetooth (una sorpresa bien recibida según varias reseñas) y display con 12 programas. La contra honesta: aunque la enorme mayoría de las opiniones son positivas, hay reportes puntuales de roturas tempranas y ruido en el motor, algo a tener en cuenta en una categoría donde el uso es exigente (peso del usuario, impacto constante). Para la mayoría que busca entrenar en casa sin gastar en un gimnasio, es la compra más segura del catálogo.',
+    articleBody: `## La cinta más vendida de MercadoLibre Argentina
+
+La Randers Arg-409 es, con una diferencia enorme, la cinta de correr más vendida de MercadoLibre Argentina: ocupa el 1° puesto en la categoría Cintas para Correr, con {{reviews:MLA39882172}} calificaciones reales a 4.8 estrellas, a {{precio:MLA39882172}}. Es plegable (con ruedas para moverla y guardarla parada), tiene motor de 1.5hp, alcanza 12km/h de velocidad máxima y soporta hasta 110kg de peso de usuario.
+
+## Lo que sorprende: el parlante bluetooth
+
+Varias reseñas destacan algo que no esperaban: la cinta trae parlante incorporado y conectividad bluetooth, "eso fue una sorpresa" según una compradora real. Suma también 3 niveles de inclinación manual y 12 programas de entrenamiento preprogramados, con un display que muestra velocidad, distancia y calorías.
+
+## La contra real, sin filtro
+
+No todo es perfecto: una reseña real marca "se rompió enseguida" al mes de uso, pese a respetar el peso y tiempo de uso recomendados. Otra reporta un sonido raro en el motor a los dos meses, y que la cinta tiende a desalinearse hacia los costados. Son reportes puntuales frente a una base de más de 2.700 opiniones mayormente positivas, pero conviene saberlo antes de comprar. Un detalle honesto más: la ficha de MercadoLibre incluye opiniones de otros países de la región, así que no todas las {{reviews:MLA39882172}} calificaciones son de compradores argentinos.
+
+## Para quién sirve
+
+Si buscás empezar a entrenar en casa sin gastar en gimnasio, es la opción más validada del mercado: por lejos la más vendida, con el mejor respaldo de reseñas reales. Si priorizás algo más compacto para espacios chicos, otras opciones de esta guía cumplen mejor ese rol específico.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'Randers / Arg-409' },
+      { label: 'Color', value: 'Negro' },
+      { label: 'Tipo de cinta', value: 'Eléctrica' },
+      { label: 'Velocidad máxima', value: '12 km/h' },
+      { label: 'Potencia', value: '1.5 hp' },
+      { label: 'Peso máximo soportado', value: '110 kg' },
+      { label: 'Es plegable', value: 'Sí' },
+      { label: 'Con amortiguación', value: 'Sí' },
+      { label: 'Con ruedas', value: 'Sí' },
+      { label: 'Incluye display', value: 'Sí' },
+      { label: 'Con bluetooth', value: 'Sí' },
+      { label: 'Inclinación', value: 'Manual, 3 niveles' },
+      { label: 'Programas', value: '12' },
+      { label: 'Medidas armada', value: '135 x 59 x 113 cm' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', date: '2026-03-14', text: 'La mejor compra del año. La cinta es buenisima. Casi no hace ruido, funciona perfectamente. No ocupa mucho lugar si está plegada. Tiene parlante bluetooth que ademas funciona muy bien, eso fue una sorpresa.', useful: 93 },
+      { rating: 2, country: 'Argentina', date: '2025-10-14', text: 'Se rompió enseguida! compramos esta marca para invertir en algo duradero y siempre respetando el peso y tiempo de uso que sugiere. Aún así se rompió al mes de uso. No recomiendo el producto en absoluto.', useful: 6 },
+      { rating: 2, country: 'Argentina', date: '2026-05-14', text: 'A los dos meses de compra empezó con un sonido raro en el motor, además la cinta se mueve mucho y no es tan fácil alinearla ya que siempre se mueve a un lado o al otro, no lo recomiendo.', useful: 0 },
+    ],
+    faq: [
+      { question: '¿Por qué la Randers Arg-409 es la más recomendada?', answer: 'Es, por lejos, la cinta de correr más vendida de MercadoLibre Argentina: 1° en su categoría, con {{reviews:MLA39882172}} calificaciones reales a 4.8 estrellas, la base de opiniones más grande y sólida del mercado.' },
+      { question: '¿Es plegable?', answer: 'Sí, y trae ruedas para moverla y guardarla parada una vez plegada. Igual hay que destinarle un espacio: no entra debajo de una cama, según una reseña real.' },
+      { question: '¿Tiene bluetooth?', answer: 'Sí, trae parlante incorporado con conectividad bluetooth, algo que varias reseñas destacan como una sorpresa agradable para el precio.' },
+      { question: '¿Hay reportes de roturas?', answer: 'Sí, hay reseñas puntuales de roturas tempranas y ruido en el motor, lo decimos de frente. Son minoría frente a una base de más de 2.700 opiniones mayormente positivas, pero conviene saberlo.' },
+      { question: '¿Las opiniones son todas de Argentina?', answer: 'No todas: la ficha de MercadoLibre aclara que incluye opiniones de otros países de la región, una práctica común en catálogos de marcas con presencia regional.' },
+    ],
+    relatedProducts: ['MLA53537952', 'MLA69192886'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Randers Arg-409',
+      description: 'Cinta de correr motorizada Randers Arg-409, plegable, con bluetooth, 12km/h de velocidad máxima.',
+      brand: { '@type': 'Brand', name: 'Randers' },
+      model: 'Arg-409',
+      sku: 'MLA39882172',
+      category: 'Cintas para Correr',
+      color: 'Negro',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_972526-MLA113675916684_072026-O.webp',
+      url: 'https://productosvirales.com.ar/producto/randers-arg-409-cinta-motorizada-12km-h-color-negro-mla39882172',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '684367',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.8',
+        reviewCount: '2710',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+  },
+
+  {
+    id: 'MLA53537952',
+    title: 'Cinta Caminadora Motorizada 8km 2hp Melfit Pro Motor Bluetooth 2 niveles inclinacion',
+    canonicalName: 'Melfit Pro Walking Pad',
+    brand: 'Melfit',
+    price: 439999,
+    priceUpdated: "2026-10-14",
+    priceLastChecked: "2026-10-14",
+    priceStatus: "fresh",
+    originalPrice: 500000,
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_879715-MLA118562023955_102026-O.webp',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_879715-MLA118562023955_102026-O.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_759699-MLA116958669288_092026-O.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_600477-MLA116958493530_092026-O.webp',
+    ],
+    category: 'Fitness',
+    categorySlug: 'fitness',
+    permalink: 'https://www.mercadolibre.com.ar/cinta-caminadora-motorizada-8km-2hp-melfit-pro-motor-bluetooth-2-niveles-inclinacion/p/MLA53537952',
+    affiliateUrl: 'https://meli.la/1PyWCQe',
+    condition: 'new',
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 262,
+    reviewsSampledAt: '2026-10-14',
+    pastelColor: 'var(--pastel-blue)',
+    visibility: 'normal',
+    description: 'El formato más compacto de esta comparativa: un walking pad plano, sin baranda, pensado para espacios chicos. Pesa apenas 18kg y tiene 2 niveles de inclinación con bluetooth. La contra honesta: a diferencia de otras cintas, no es plegable.',
+    seoTitle: 'Melfit Pro: la cinta caminadora walking pad más compacta',
+    metaDescription: 'Melfit Pro a {{precio:MLA53537952}}: walking pad compacto, 18kg, bluetooth, 2 niveles de inclinación. {{reviews:MLA53537952}} opiniones y 4.8 estrellas, "MÁS VENDIDO" en su categoría.',
+    pros: [
+      '"MÁS VENDIDO" en la categoría Cintas para Correr de MercadoLibre',
+      'Formato walking pad: bajo perfil (10cm de alto), pensado para espacios chicos',
+      'Pesa apenas 18kg, la más liviana de esta comparativa',
+      '2 niveles de inclinación con control bluetooth',
+      '4.8 estrellas en {{reviews:MLA53537952}} calificaciones',
+    ],
+    cons: [
+      'A diferencia de otras cintas de esta comparativa, no es plegable',
+      'Velocidad máxima de 8.5km/h, más baja que el resto',
+      'Peso máximo soportado 100kg',
+      'Una reseña real avisa que no incluye manual de uso, hubo que investigar por cuenta propia',
+    ],
+    verdict: 'Si el espacio es el problema, es la elegida: formato walking pad de apenas 10cm de alto y 18kg de peso, pensado específicamente para guardar bajo un sillón o una cama sin ocupar lugar. La contra honesta es justamente esa: no es plegable como una cinta tradicional, su compactación es el diseño plano en sí. Con 4.8 estrellas en {{reviews:MLA53537952}} calificaciones y "MÁS VENDIDO" en su categoría, es una opción sólida para caminar o trotar suave en casa sin sumar un mueble grande.',
+    articleBody: `## El formato más compacto de la comparativa
+
+La Melfit Pro resuelve un problema distinto al de una cinta tradicional: no es plegable, pero es tan baja (apenas 10cm de alto) y liviana (18kg) que prácticamente no ocupa espacio de guardado. Es un walking pad: una base plana con motor de 2hp, sin baranda, que alcanza 8.5km/h y soporta hasta 100kg, a {{precio:MLA53537952}}. Tiene "MÁS VENDIDO" en la categoría Cintas para Correr y {{reviews:MLA53537952}} calificaciones reales a 4.8 estrellas.
+
+## Bluetooth y 2 niveles de inclinación
+
+El resumen de opiniones la describe como "de muy buena calidad y tamaño práctico para guardarla", ideal para caminar o trotar suavemente en casa. Suma conectividad bluetooth y 2 niveles de inclinación manual para variar la intensidad del entrenamiento, con un control remoto compacto.
+
+## La contra real
+
+No es plegable como la mayoría de las cintas de esta comparativa: su compactación está en el diseño plano en sí, no en un mecanismo de pliegue. Tampoco incluye manual de uso completo, según avisa una reseña real que tuvo que investigar por su cuenta cómo usarla. Y su velocidad máxima (8.5km/h) y peso soportado (100kg) son más bajos que los de una cinta tradicional.
+
+## Para quién sirve
+
+Si vivís en un departamento chico o no querés sumar un mueble grande a la casa, es la opción más práctica de esta comparativa: se guarda parada contra una pared o bajo un sillón bajo. Si buscás más velocidad o inclinación para entrenamiento más intenso, las otras opciones de esta guía rinden mejor.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'Melfit / Pro' },
+      { label: 'Color', value: 'Negro' },
+      { label: 'Tipo de cinta', value: 'Eléctrica' },
+      { label: 'Velocidad máxima', value: '8.5 km/h' },
+      { label: 'Potencia', value: '2 hp' },
+      { label: 'Peso máximo soportado', value: '100 kg' },
+      { label: 'Es plegable', value: 'No' },
+      { label: 'Con ruedas', value: 'Sí' },
+      { label: 'Incluye display', value: 'Sí' },
+      { label: 'Con bluetooth', value: 'Sí' },
+      { label: 'Inclinación', value: '2 niveles' },
+      { label: 'Dimensiones', value: '46 cm de ancho, 10 cm de alto, 1.5 m de largo' },
+      { label: 'Peso del producto', value: '18 kg' },
+    ],
+    customerReviews: [
+      { rating: 3, country: 'Argentina', date: '2026-02-14', text: 'Buen producto, trae un líquido pero sin manual de como utilizarlo, tuve que investigar por mi cuenta.', useful: 6 },
+    ],
+    faq: [
+      { question: '¿Qué es un walking pad?', answer: 'Es un formato de cinta de correr plano, sin baranda, de bajo perfil (en este caso 10cm de alto), pensado para espacios chicos. A diferencia de una cinta tradicional, no se pliega: se guarda parada o bajo un mueble por su diseño compacto.' },
+      { question: '¿Es plegable la Melfit Pro?', answer: 'No, según su ficha técnica no es plegable. Su compactación está en el diseño plano y liviano (18kg), no en un mecanismo de pliegue como las cintas tradicionales.' },
+      { question: '¿Incluye manual de uso?', answer: 'Una reseña real avisa que no trae un manual claro de cómo utilizarla, y tuvo que investigar por su cuenta. Conviene tenerlo en cuenta antes de comprar.' },
+      { question: '¿Para qué sirve el bluetooth?', answer: 'Permite controlar la cinta y sus 2 niveles de inclinación de forma remota, según su ficha técnica.' },
+      { question: '¿Cuánto pesa y qué espacio ocupa?', answer: 'Pesa 18kg y mide 46cm de ancho por 10cm de alto y 1.5m de largo, la más liviana y compacta de esta comparativa.' },
+    ],
+    relatedProducts: ['MLA39882172', 'MLA69192886'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Melfit Pro Walking Pad',
+      description: 'Cinta caminadora motorizada Melfit Pro, formato walking pad compacto, bluetooth, 2 niveles de inclinación.',
+      brand: { '@type': 'Brand', name: 'Melfit' },
+      model: 'Pro',
+      sku: 'MLA53537952',
+      category: 'Cintas para Correr',
+      color: 'Negro',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_879715-MLA118562023955_102026-O.webp',
+      url: 'https://productosvirales.com.ar/producto/cinta-caminadora-motorizada-8km-2hp-melfit-pro-motor-bluetooth-2-niveles-inclina-mla53537952',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '439999',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.8',
+        reviewCount: '262',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+  },
+
+  {
+    id: 'MLA69192886',
+    title: 'Cinta Caminadora Electrica Plegable Hidraulico 1.5 Hp G-fitness Control Inclinación 2 Niveles 90kg 10km',
+    canonicalName: 'G-Fitness Plegable Hidráulico',
+    brand: 'G-Fitness',
+    price: 514845,
+    priceUpdated: "2026-10-14",
+    priceLastChecked: "2026-10-14",
+    priceStatus: "fresh",
+    originalPrice: 984037,
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_824309-MLA110306103662_052026-O.webp',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_824309-MLA110306103662_052026-O.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_689443-MLA115253094545_072026-O.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_656950-MLA110305984198_052026-O.webp',
+    ],
+    category: 'Fitness',
+    categorySlug: 'fitness',
+    permalink: 'https://www.mercadolibre.com.ar/cinta-caminadora-electrica-plegable-hidraulico-15-hp-g-fitness-control-inclinacion-2-niveles-90kg-10km/p/MLA69192886',
+    affiliateUrl: 'https://meli.la/2avvJwt',
+    condition: 'new',
+    freeShipping: true,
+    rating: 4.9,
+    reviewCount: 23,
+    reviewsSampledAt: '2026-10-14',
+    pastelColor: 'var(--pastel-blue)',
+    visibility: 'normal',
+    description: 'La única con plegado hidráulico de esta comparativa: un mecanismo que reduce el espacio ocupado al finalizar el uso, sin forzar el pliegue a mano. 4.9 estrellas, aunque sobre la base de opiniones más chica del grupo (23).',
+    seoTitle: 'G-Fitness Plegable Hidráulico: la cinta con plegado asistido',
+    metaDescription: 'G-Fitness Plegable Hidráulico a {{precio:MLA69192886}}: 10km/h, 2 niveles de inclinación, mecanismo de plegado hidráulico. {{reviews:MLA69192886}} opiniones, "MÁS VENDIDO" en su categoría.',
+    pros: [
+      '"MÁS VENDIDO" en la categoría Cintas para Correr de MercadoLibre',
+      'Mecanismo de plegado hidráulico: reduce el espacio ocupado sin forzar el pliegue a mano',
+      'Superficie de carrera generosa (38cm de ancho por 95cm de largo)',
+      '2 niveles de inclinación manual ajustables',
+      '4.9 estrellas, la nota más alta de esta comparativa',
+    ],
+    cons: [
+      'La base de opiniones (23) es la más chica de esta comparativa, lo decimos de frente',
+      'Velocidad máxima de 10km/h, intermedia entre las tres opciones de esta guía',
+      'Peso máximo soportado 90kg, el más bajo del grupo',
+      'El control remoto no incluye la pila, según avisa una reseña real',
+    ],
+    verdict: 'Si valorás no tener que forzar el pliegue a mano cada vez que terminás de usarla, el mecanismo de plegado hidráulico es un diferencial real frente al resto de esta comparativa. Tiene la nota más alta del grupo (4.9), aunque sobre una base de apenas {{reviews:MLA69192886}} calificaciones, bastante más chica que la de Randers o Melfit: un dato preliminar, no una base tan sólida todavía. Para quien quiera sumar inclinación ajustable y un plegado más cómodo, es una buena opción; para la compra más validada por volumen de opiniones reales, Randers sigue siendo la más segura.',
+    articleBody: `## El plegado hidráulico, el diferencial real
+
+La G-Fitness Plegable Hidráulico se distingue del resto de esta comparativa por un detalle concreto: su mecanismo de plegado es hidráulico, no manual. Eso significa que al terminar de usarla, el pliegue se asiste solo en vez de tener que forzarlo con las manos, algo que en cintas tradicionales suele ser incómodo con el uso repetido. Tiene motor de 1.5hp, alcanza 10km/h, soporta hasta 90kg y cuenta con 2 niveles de inclinación manual ajustables, a {{precio:MLA69192886}}.
+
+## Buena superficie de carrera
+
+Su superficie de carrera mide 38cm de ancho por 95cm de largo, un tamaño cómodo para caminar o trotar suave. Tiene "MÁS VENDIDO" en la categoría Cintas para Correr y 4.9 estrellas, la nota más alta de esta comparativa, aunque sobre apenas {{reviews:MLA69192886}} calificaciones: la base de opiniones más chica de las tres fichas de esta guía, algo a tener en cuenta antes de confiar en ese número como definitivo.
+
+## La contra real
+
+Una reseña real con 4 estrellas marca un detalle menor pero honesto: el control remoto no incluye la pila necesaria para funcionar, algo que para el precio del producto se siente como un descuido. El resto de la experiencia que reportan los compradores es positiva, con instalación fácil según varias opiniones.
+
+## Para quién sirve
+
+Si te molesta tener que forzar el pliegue de una cinta tradicional después de cada uso, el mecanismo hidráulico de esta resuelve ese problema puntual. Si priorizás la compra más validada por volumen real de opiniones, la Randers de esta guía tiene casi 120 veces más calificaciones.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'G-Fitness / Plegable Hidráulico' },
+      { label: 'Color', value: 'Negro' },
+      { label: 'Tipo de cinta', value: 'Eléctrica' },
+      { label: 'Velocidad máxima', value: '10 km/h' },
+      { label: 'Potencia', value: '1.5 hp' },
+      { label: 'Peso máximo soportado', value: '90 kg' },
+      { label: 'Es plegable', value: 'Sí (mecanismo hidráulico)' },
+      { label: 'Con amortiguación', value: 'Sí' },
+      { label: 'Incluye display', value: 'Sí' },
+      { label: 'Inclinación', value: 'Manual, 2 niveles' },
+      { label: 'Superficie de carrera', value: '38 cm de ancho x 95 cm de largo' },
+    ],
+    customerReviews: [
+      { rating: 4, country: 'Argentina', date: '2026-09-14', text: 'El producto es excelente. Muy buena calidad y súper práctico. Le doy 4 estrellas solo porque el control no trae la pila, para lo que estás pagando, me parece que incluir una pila es insignificante.', useful: 2 },
+    ],
+    faq: [
+      { question: '¿Qué significa plegado hidráulico?', answer: 'Un mecanismo que asiste el pliegue de la cinta con un pistón hidráulico, en vez de tener que forzarlo a mano como en una cinta tradicional. Reduce el espacio ocupado al terminar de usarla.' },
+      { question: '¿Por qué tiene pocas opiniones si es la mejor calificada?', answer: 'Tiene 4.9 estrellas pero sobre apenas {{reviews:MLA69192886}} calificaciones, la base más chica de esta comparativa. Es un dato real pero preliminar, lo decimos de frente: Randers tiene casi 120 veces más opiniones.' },
+      { question: '¿El control remoto incluye pila?', answer: 'No, según avisa una reseña real: el control no trae la pila necesaria para funcionar, hay que comprarla aparte (una CR2025 o CR2032 funcionan, según la misma reseña).' },
+      { question: '¿Cuánto peso soporta?', answer: 'Hasta 90kg de peso de usuario, según su ficha técnica, el valor más bajo de las tres cintas de esta comparativa.' },
+      { question: '¿Es apta para trotar o solo para caminar?', answer: 'Su motor de 1.5hp alcanza 10km/h, suficiente para caminatas rápidas o trotes suaves según su ficha técnica.' },
+    ],
+    relatedProducts: ['MLA39882172', 'MLA53537952'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'G-Fitness Plegable Hidráulico',
+      description: 'Cinta caminadora eléctrica G-Fitness, plegado hidráulico, 1.5hp, control de inclinación 2 niveles.',
+      brand: { '@type': 'Brand', name: 'G-Fitness' },
+      model: 'Plegable Hidráulico',
+      sku: 'MLA69192886',
+      category: 'Cintas para Correr',
+      color: 'Negro',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_824309-MLA110306103662_052026-O.webp',
+      url: 'https://productosvirales.com.ar/producto/cinta-caminadora-electrica-plegable-hidraulico-1-5-hp-g-fitness-control-inclinac-mla69192886',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '514845',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.9',
+        reviewCount: '23',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+  },
+
+  {
     id: 'MLA19769919',
     title: 'Afeitadora Remington R31a Rotativo Recargable Usb Color Negro',
     canonicalName: 'Remington R31A Rotativo',

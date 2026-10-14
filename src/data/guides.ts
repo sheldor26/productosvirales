@@ -33320,7 +33320,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     internalLinks: [
       { label: "Bicicleta fija: cuál comprar", href: "/guias/fitness/bicicleta-fija" },
       { label: "Soga para saltar: cuál comprar", href: "/guias/fitness/soga-para-saltar" },
-      { label: "Balanza digital: cuál comprar", href: "/guias/salud-bienestar/balanza-digital" },
+      { label: "Cinta de correr: cuál comprar", href: "/guias/fitness/cinta-de-correr" },
       { label: "Masajeador de espalda y lumbar: cuál sirve para tu dolor", href: "/guias/masajeador-espalda" },
       { label: "Bordeadora eléctrica: cuál comprar", href: "/guias/hogar-jardin/bordeadora-electrica" },
     ],
@@ -33437,7 +33437,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     internalLinks: [
       { label: "Mancuernas: cuál comprar", href: "/guias/fitness/mancuernas" },
       { label: "Soga para saltar: cuál comprar", href: "/guias/fitness/soga-para-saltar" },
-      { label: "Balanza digital: cuál comprar", href: "/guias/salud-bienestar/balanza-digital" },
+      { label: "Cinta de correr: cuál comprar", href: "/guias/fitness/cinta-de-correr" },
       { label: "Masajeador de espalda y lumbar: cuál sirve para tu dolor", href: "/guias/masajeador-espalda" },
     ],
     internalLinksTitle: "Más para entrenar y cuidarte en casa",
@@ -33893,9 +33893,117 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { label: "Mancuernas: cuál comprar", href: "/guias/fitness/mancuernas" },
       { label: "Bicicleta fija: cuál comprar", href: "/guias/fitness/bicicleta-fija" },
       { label: "Rascador para gatos: cuál comprar", href: "/guias/mascotas/rascador-para-gatos" },
-      { label: "Taladro percutor: cuál comprar", href: "/guias/hogar-jardin/taladro-percutor" },
+      { label: "Cinta de correr: cuál comprar", href: "/guias/fitness/cinta-de-correr" },
     ],
     internalLinksTitle: "Más para entrenar y equipar tu casa",
+  },
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva cinta-de-correr — silo fitness, categoría nueva
+  // Origen: research propio 2026-10-14. Keywords "cinta de correr"
+  // (2.900/mes) y "cinta caminadora" (4.400/mes), SERP limpio: solo
+  // retailers chicos de fitness (zentra.com.ar DA9, semikon DA14,
+  // riverahogar DA20, randers DA28) y ML, cero comparadores editoriales.
+  // Sin canibalización: cero menciones previas de "cinta de correr" o
+  // "caminadora" en el sitio. 3 fichas nuevas (ver curated-products.ts):
+  // Randers Arg-409 (la más vendida, 1° en su categoría), Melfit Pro
+  // (walking pad compacto, no plegable) y G-Fitness Plegable Hidráulico
+  // (plegado hidráulico, pero con base de opiniones chica — aclarado de frente).
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "cinta-de-correr",
+    category: "cinta-de-correr",
+    silo: "fitness",
+    pillar: true,
+    title: `Cinta de Correr: cuál comprar en Argentina [2026]`,
+    seoTitle: `Cinta de Correr: Cuál Comprar en Argentina | 2026`,
+    metaDescription: `Descubrí qué cinta de correr comprar en Argentina: la más vendida, la más compacta o la de plegado hidráulico. Precios reales de MercadoLibre y contras honestas.`,
+    ogTitle: `Cinta de correr: cuál comprar en Argentina`,
+    ogDescription: `Randers, Melfit y G-Fitness comparadas: de la más vendida al walking pad compacto. Precios reales de MercadoLibre y las contras que nadie cuenta.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_972526-MLA113675916684_072026-O.webp`,
+    h1: `Cinta de correr: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene la **[Randers Arg-409](/producto/randers-arg-409-cinta-motorizada-12km-h-color-negro-mla39882172)** (alrededor de {{precio:MLA39882172:k}}): por lejos la más vendida, 1° en su categoría, plegable y con bluetooth. Si el espacio es el problema, la **[Melfit Pro](/producto/cinta-caminadora-motorizada-8km-2hp-melfit-pro-motor-bluetooth-2-niveles-inclina-mla53537952)**, un walking pad compacto de apenas 18kg. Y si buscás plegado asistido sin forzarlo a mano, la **[G-Fitness Plegable Hidráulico](/producto/cinta-caminadora-electrica-plegable-hidraulico-1-5-hp-g-fitness-control-inclinac-mla69192886)**, aunque con una base de opiniones todavía chica.`,
+    publishedDate: "2026-10-14",
+    updatedDate: "2026-10-14",
+    hasDisclosure: true,
+    readingTime: 8,
+    standfirst: `Una cinta de correr va de {{precio:MLA53537952:k}} (la más compacta) a {{precio:MLA39882172:k}} (la más vendida). La decisión real pasa por el formato que necesitás y cuánto espacio tenés para guardarla, no solo por precio. Te mostramos cuál conviene, con precios reales de MercadoLibre.`,
+    quickPicks: [
+      { productMlaId: "MLA39882172", label: "Mejor elección general", labelColor: "green", tagline: "Randers Arg-409: por lejos la más vendida, 1° en su categoría" },
+      { productMlaId: "MLA53537952", label: "La más compacta", labelColor: "slate", tagline: "Melfit Pro: walking pad de 18kg, para espacios chicos" },
+      { productMlaId: "MLA69192886", label: "Plegado hidráulico", labelColor: "purple", tagline: "G-Fitness: plegado asistido, pero pocas opiniones todavía" },
+    ],
+    intro: [
+      `La cinta de correr resuelve algo simple: caminar o trotar en casa sin depender del clima ni de un gimnasio. La decisión real pasa por el formato que necesitás (una cinta tradicional plegable, un walking pad compacto o algo con plegado asistido) y cuánto espacio tenés para guardarla, no solo por el precio.`,
+      `En esta guía comparamos las cintas de correr más vendidas y mejor calificadas de MercadoLibre Argentina, con las contras reales que cuentan los compradores: desde reportes puntuales de roturas tempranas hasta un control remoto que no incluye la pila.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_972526-MLA113675916684_072026-O.webp", alt: `Cinta de correr Randers Arg-409, la más vendida de esta guía`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, la **[Randers Arg-409](/producto/randers-arg-409-cinta-motorizada-12km-h-color-negro-mla39882172)**: por lejos la más vendida, 1° en su categoría, plegable y con bluetooth. Si **el espacio es el problema**, la **[Melfit Pro](/producto/cinta-caminadora-motorizada-8km-2hp-melfit-pro-motor-bluetooth-2-niveles-inclina-mla53537952)**, un walking pad compacto de 18kg. Y si buscás **plegado asistido**, la **[G-Fitness Plegable Hidráulico](/producto/cinta-caminadora-electrica-plegable-hidraulico-1-5-hp-g-fitness-control-inclinac-mla69192886)**, aunque con pocas opiniones todavía.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos las cintas de correr con más ventas y opiniones reales en MercadoLibre Argentina. Las ordenamos por lo que define la compra: formato, velocidad máxima, peso soportado y precio. Las calificaciones y las contras son de compradores reales. Los precios que ves en las fichas y tablas se revisan contra MercadoLibre periódicamente.` },
+
+      { type: "h2", title: `Qué mirar antes de comprar una cinta de correr`, id: "que-mirar" },
+      { type: "p", content: `Primero, **el formato**: una cinta tradicional con baranda no es lo mismo que un walking pad compacto sin baranda, pensado para espacios chicos. Segundo, **si es plegable o no**, y de qué tipo (manual o con mecanismo hidráulico asistido). Tercero, **la velocidad máxima y el peso soportado**, que varían bastante entre modelos pensados para caminar y modelos pensados para trotar.` },
+      { type: "p", content: `Un detalle honesto de la categoría: ninguna cinta de uso doméstico está libre de reportes puntuales de desgaste o rotura temprana, por más que la mayoría de las opiniones sean positivas. Conviene leer también las reseñas negativas antes de comprar, no solo el promedio.` },
+
+      { type: "h2", title: `Las mejores cintas de correr 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Randers Arg-409 — mejor elección general` },
+      { type: "product-card", productMlaId: "MLA39882172", label: "Mejor elección general", labelColor: "green", ranking: 1, description: `Plegable, con bluetooth, 12km/h. 1° en Cintas para Correr, 4.8 estrellas en {{reviews:MLA39882172}} calificaciones, la base más grande de esta guía por lejos.` },
+      { type: "p", content: `Es la cinta que recomendamos a la mayoría: plegable, con parlante bluetooth, 12 programas y 3 niveles de inclinación manual, a alrededor de {{precio:MLA39882172:k}}. Con {{reviews:MLA39882172}} calificaciones a 4.8 estrellas, es por lejos la más vendida de esta guía y ocupa el 1° puesto de su categoría en MercadoLibre.` },
+      { type: "p", content: `La contra real: hay reportes puntuales de roturas tempranas y ruido en el motor, además de opiniones de otros países de la región incluidas en su ficha.` },
+      { type: "pull-quote", content: `"La mejor compra del año. La cinta es buenisima. Casi no hace ruido, funciona perfectamente. Tiene parlante bluetooth que ademas funciona muy bien, eso fue una sorpresa."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `2. Melfit Pro — la más compacta` },
+      { type: "product-card", productMlaId: "MLA53537952", label: "La más compacta", labelColor: "slate", ranking: 2, description: `Walking pad de 18kg, 10cm de alto, no plegable. 4.8 estrellas en {{reviews:MLA53537952}} calificaciones.` },
+      { type: "p", content: `El formato más compacto de esta guía: un walking pad plano de apenas 18kg y 10cm de alto, sin baranda, a alrededor de {{precio:MLA53537952:k}}. Con {{reviews:MLA53537952}} calificaciones a 4.8 estrellas y "MÁS VENDIDO" en su categoría.` },
+      { type: "p", content: `La contra real: a diferencia de las otras dos de esta guía, no es plegable (su compactación es el diseño plano en sí), y una reseña avisa que no incluye manual de uso.` },
+
+      { type: "h3", title: `3. G-Fitness Plegable Hidráulico — plegado asistido` },
+      { type: "product-card", productMlaId: "MLA69192886", label: "Plegado hidráulico", labelColor: "purple", ranking: 3, description: `Mecanismo de plegado hidráulico, 10km/h. 4.9 estrellas en {{reviews:MLA69192886}} calificaciones (todavía pocas).` },
+      { type: "p", content: `La única con mecanismo de plegado hidráulico de esta guía: en vez de forzar el pliegue a mano, un pistón asiste el cierre, a alrededor de {{precio:MLA69192886:k}}. Alcanza 10km/h y tiene 2 niveles de inclinación manual.` },
+      { type: "p", content: `La contra real: su 4.9 estrellas es sobre apenas {{reviews:MLA69192886}} calificaciones, la base más chica de esta guía por lejos, y una reseña avisa que el control remoto no incluye la pila necesaria.` },
+      { type: "pull-quote", content: `"El producto es excelente. Muy buena calidad y súper práctico. Le doy 4 estrellas solo porque el control no trae la pila."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h2", title: `Tabla comparativa: formato, velocidad y precio`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Velocidad máx.`, `Formato`, `Plegable`, `Rating`], rows: [
+        [`[Randers Arg-409](/producto/randers-arg-409-cinta-motorizada-12km-h-color-negro-mla39882172)`, `{{precio:MLA39882172}}`, `12 km/h`, `Tradicional`, `Sí (manual)`, `{{rating:MLA39882172}} ({{reviews:MLA39882172}})`],
+        [`[Melfit Pro](/producto/cinta-caminadora-motorizada-8km-2hp-melfit-pro-motor-bluetooth-2-niveles-inclina-mla53537952)`, `{{precio:MLA53537952}}`, `8.5 km/h`, `Walking pad`, `No`, `{{rating:MLA53537952}} ({{reviews:MLA53537952}})`],
+        [`[G-Fitness Plegable Hidráulico](/producto/cinta-caminadora-electrica-plegable-hidraulico-1-5-hp-g-fitness-control-inclinac-mla69192886)`, `{{precio:MLA69192886}}`, `10 km/h`, `Tradicional`, `Sí (hidráulico)`, `{{rating:MLA69192886}} ({{reviews:MLA69192886}})`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu cinta de correr`, id: "como-elegir" },
+      { type: "h3", title: `¿Cinta tradicional o walking pad?` },
+      { type: "p", content: `Si querés inclinación, display completo y la opción más validada por reseñas, la [Randers Arg-409](/producto/randers-arg-409-cinta-motorizada-12km-h-color-negro-mla39882172) de esta guía es la elegida. Si el espacio es tu principal limitante y buscás algo bajo perfil para guardar contra una pared, la [Melfit Pro](/producto/cinta-caminadora-motorizada-8km-2hp-melfit-pro-motor-bluetooth-2-niveles-inclina-mla53537952) cumple mejor ese rol.` },
+      { type: "h3", title: `¿Vale la pena el plegado hidráulico?` },
+      { type: "p", content: `Si te molesta forzar el pliegue a mano después de cada uso, el mecanismo de la [G-Fitness](/producto/cinta-caminadora-electrica-plegable-hidraulico-1-5-hp-g-fitness-control-inclinac-mla69192886) de esta guía resuelve ese problema puntual, aunque todavía tiene pocas opiniones reales respaldándola.` },
+      { type: "h3", title: `¿Cuánta velocidad necesitás?` },
+      { type: "p", content: `Para caminar, cualquiera de las tres de esta guía alcanza de sobra. Para trotar, la [Randers Arg-409](/producto/randers-arg-409-cinta-motorizada-12km-h-color-negro-mla39882172) (12km/h) es la que más margen da de las tres.` },
+
+      { type: "h2", title: `Cuánto cuesta una cinta de correr en Argentina [octubre 2026]`, id: "cuanto-cuesta" },
+      { type: "list", content: "Franjas de precio reales", items: [
+        `**Alrededor de {{precio:MLA53537952:k}}:** la [Melfit Pro](/producto/cinta-caminadora-motorizada-8km-2hp-melfit-pro-motor-bluetooth-2-niveles-inclina-mla53537952), el walking pad compacto.`,
+        `**Alrededor de {{precio:MLA69192886:k}}:** la [G-Fitness Plegable Hidráulico](/producto/cinta-caminadora-electrica-plegable-hidraulico-1-5-hp-g-fitness-control-inclinac-mla69192886).`,
+        `**Alrededor de {{precio:MLA39882172:k}}:** la [Randers Arg-409](/producto/randers-arg-409-cinta-motorizada-12km-h-color-negro-mla39882172), la más vendida y con más inclinación/velocidad.`,
+      ] },
+
+      { type: "verdict", content: `Para la mayoría, la **[Randers Arg-409](/producto/randers-arg-409-cinta-motorizada-12km-h-color-negro-mla39882172)** es la compra más segura: por lejos la más vendida de esta guía, con la base de opiniones más sólida. Si el espacio es el problema, la **[Melfit Pro](/producto/cinta-caminadora-motorizada-8km-2hp-melfit-pro-motor-bluetooth-2-niveles-inclina-mla53537952)**, un walking pad compacto que no es plegable pero ocupa muy poco. Y si buscás plegado asistido, la **[G-Fitness Plegable Hidráulico](/producto/cinta-caminadora-electrica-plegable-hidraulico-1-5-hp-g-fitness-control-inclinac-mla69192886)**, sabiendo que su base de opiniones todavía es chica.` },
+    ],
+    faq: [
+      { question: `¿Cuál es la mejor cinta de correr en Argentina?`, answer: `Para la mayoría, la [Randers Arg-409](/producto/randers-arg-409-cinta-motorizada-12km-h-color-negro-mla39882172): por lejos la más vendida, 1° en su categoría. Si el espacio es el problema, la [Melfit Pro](/producto/cinta-caminadora-motorizada-8km-2hp-melfit-pro-motor-bluetooth-2-niveles-inclina-mla53537952), un walking pad compacto.` },
+      { question: `¿Qué es un walking pad?`, answer: `Un formato de cinta plano, sin baranda, de bajo perfil, pensado para espacios chicos. La [Melfit Pro](/producto/cinta-caminadora-motorizada-8km-2hp-melfit-pro-motor-bluetooth-2-niveles-inclina-mla53537952) de esta guía es un ejemplo: pesa 18kg y mide apenas 10cm de alto.` },
+      { question: `¿Vale la pena una cinta con plegado hidráulico?`, answer: `Si te molesta forzar el pliegue a mano, sí: la [G-Fitness](/producto/cinta-caminadora-electrica-plegable-hidraulico-1-5-hp-g-fitness-control-inclinac-mla69192886) de esta guía lo resuelve, aunque su base de opiniones ({{reviews:MLA69192886}}) todavía es chica comparada con las otras dos.` },
+      { question: `¿Hay reportes de roturas en las cintas de correr?`, answer: `Sí, hay reseñas puntuales de roturas tempranas en la Randers Arg-409 de esta guía, lo decimos de frente. Son minoría frente a una base de más de 2.700 opiniones mayormente positivas.` },
+      { question: `¿Todas tienen inclinación?`, answer: `Sí, las tres de esta guía tienen inclinación manual ajustable: Randers con 3 niveles, Melfit y G-Fitness con 2 niveles cada una.` },
+      { question: `¿Cuánto espacio necesito para guardarla?`, answer: `Depende del modelo. La Randers y la G-Fitness se pliegan (manual e hidráulico respectivamente); la Melfit Pro no se pliega, pero por su diseño plano de 10cm de alto ocupa muy poco espacio igual.` },
+    ],
+    internalLinks: [
+      { label: "Mancuernas: cuál comprar", href: "/guias/fitness/mancuernas" },
+      { label: "Bicicleta fija: cuál comprar", href: "/guias/fitness/bicicleta-fija" },
+      { label: "Soga para saltar: cuál comprar", href: "/guias/fitness/soga-para-saltar" },
+    ],
+    internalLinksTitle: "Más para entrenar en casa",
   },
   {
     slug: "corralito-para-bebe",
