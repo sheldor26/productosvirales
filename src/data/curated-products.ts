@@ -57426,6 +57426,445 @@ Si tu idea de una buena cafetera es apretar un botón y listo, esta no es la DeL
   },
 
   {
+    id: 'MLA60833776',
+    title: 'Cafetera De Filtro Philips Phhd743090 Jarra 1.2 Lts Negra',
+    canonicalName: 'Philips PHHD743090',
+    brand: 'Philips',
+    price: 71999,
+    originalPrice: undefined,
+    priceUpdated: "2026-10-17",
+    priceLastChecked: "2026-10-17",
+    priceStatus: "fresh",
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_915691-MLA99516630754_112025-F.jpg',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_915691-MLA99516630754_112025-F.jpg',
+    ],
+    category: 'Cocina',
+    categorySlug: 'cocina',
+    permalink: 'https://www.mercadolibre.com.ar/cafetera-de-filtro-philips-phhd743090-jarra-12-lts-negra/p/MLA60833776',
+    affiliateUrl: 'https://meli.la/2roAYVg',
+    condition: 'new',
+    freeShipping: true,
+    rating: 4.6,
+    reviewCount: 120,
+    reviewsSampledAt: '2026-10-17',
+    pastelColor: 'var(--pastel-slate)',
+    visibility: 'normal',
+    description: 'Cafetera de filtro Philips PHHD743090: la entrada más barata de la marca a una cafetera de cocina de todos los días. Jarra de vidrio de 1,2 litros, filtro de papel descartable, 1.000 W de potencia. Sin molinillo, sin pantalla digital, sin vueltas: apretás un botón y listo.',
+    seoTitle: 'Philips PHHD743090: la cafetera de filtro más barata',
+    metaDescription: 'Philips PHHD743090: cafetera de filtro simple, jarra 1,2L, filtro de papel. 4.6★ en {{reviews:MLA60833776}} calificaciones por {{precio:MLA60833776}}.',
+    pros: [
+      'La entrada más barata a la marca Philips en esta comparativa, por lejos',
+      'Vendida por tienda oficial (Tecnocenter) y también por la tienda oficial Philips, con stock sano',
+      'Calienta rápido y el café está listo en poco tiempo, según las reseñas',
+      'Sin curva de aprendizaje: se carga agua y café molido, se aprieta un botón',
+      '24 meses de garantía de fábrica',
+    ],
+    cons: [
+      'Sin molinillo, sin pantalla digital, sin temporizador: es una cafetera de filtro básica, no automática',
+      'Usa filtro de papel descartable, no permanente: hay que comprarlos aparte y reponerlos',
+      'Jarra de vidrio: a diferencia de una térmica, el café se empieza a enfriar apenas se apaga la placa',
+      'Capacidad de 1,2 litros, de las más chicas de esta comparativa de marcas',
+    ],
+    verdict: 'Es la Philips para quien solo quiere café de filtro sin gastar en automatización que no va a usar. No tiene molinillo ni pantalla ni funciones extra, pero cumple lo único que promete: calentar agua, pasarla por el café molido y listo. Para una persona o pareja que toma café de jarra todos los días sin pretensiones, alcanza y sobra.',
+    articleBody: `## La Philips más simple y más barata
+
+La PHHD743090 es, de lejos, la cafetera Philips más económica de esta comparativa: sin molinillo integrado, sin pantalla digital, sin bebidas preprogramadas. Es una cafetera de filtro clásica, con jarra de vidrio de 1,2 litros y 1.000 W de potencia, pensada para quien quiere resolver el café de la mañana sin gastar en funciones que no va a tocar.
+
+## Lo que dice quien ya la compró
+
+Una review real de 5 estrellas, con 8 meses de uso, resume bien para qué sirve: "Excelente producto, la calidad de sus materiales es muy buena, no parece nada frágil, los usos que ha tenido hasta ahora excelente y calienta super rápido, en poco tiempo puedes tener tu café listo." La misma reseña agrega un dato técnico interesante sobre el filtro de papel: ayuda a retener el cafestrol, un compuesto graso del café que el filtro permanente no filtra tan bien. Para quien le importa ese detalle, el filtro de papel no es solo un costo extra: tiene una razón real.
+
+## Lo que confirman dos reviews en video
+
+Dos reviews en video de esta misma línea (modelo hermano HD7430/90, idéntico mecanismo) confirman dos detalles que la ficha de MercadoLibre no menciona: la jarra rinde hasta 10 tazas chicas con el agua al máximo, y la base calentadora mantiene el café caliente automáticamente después de que la máquina se apaga sola, sin que haya que hacer nada. Es justamente lo que esperarías de una cafetera de filtro simple, sin sorpresas.
+
+## Para quién tiene sentido
+
+Si buscás una automática que muela el grano o una con leche integrada, mirá el resto de esta guía. Pero si lo único que necesitás es café de jarra, caliente, rápido y sin pensar, esta Philips cumple exactamente eso al precio más bajo de la marca.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'Philips / PHHD743090' },
+      { label: 'Tipo', value: 'Cafetera de filtro' },
+      { label: 'Capacidad', value: '1,2 litros (hasta 10 tazas chicas)' },
+      { label: 'Potencia', value: '1.000 W' },
+      { label: 'Tipo de filtro', value: 'Papel descartable' },
+      { label: 'Jarra', value: 'Vidrio' },
+      { label: 'Mantiene caliente', value: 'Sí, base calentadora automática tras apagado' },
+      { label: 'Color', value: 'Negro' },
+      { label: 'Garantía', value: '24 meses de fábrica' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', date: '2026-02-17', text: 'Excelente producto, la calidad de sus materiales es muy buena, no parece nada frágil, los usos que ha tenido hasta ahora excelente y calienta super rápido, en poco tiempo puedes tener tu café listo. Usa filtro de papel, el cual es recomendado para filtrar correctamente el cafestrol. No sé cómo no tuve una cafetera antes.', useful: 4 },
+    ],
+    faq: [
+      { question: '¿Cuántas tazas prepara de una vez?', answer: 'Hasta 10 tazas chicas con el depósito de agua al máximo (1,2 litros), según confirman reviews en video de este mismo modelo.' },
+      { question: '¿Esta cafetera muele el café sola?', answer: 'No. Es una cafetera de filtro simple, sin molinillo integrado: se carga con café ya molido. Si buscás una con molinillo propio, la Philips Grind & Brew HD7767/00 de esta misma guía es la opción.' },
+      { question: '¿Usa filtro permanente o de papel?', answer: 'Usa filtro de papel descartable, no permanente. Según una reseña real, esto ayuda a retener el cafestrol (un compuesto graso del café) mejor que un filtro permanente de malla.' },
+      { question: '¿Tiene temporizador o se puede programar?', answer: 'No, es un modelo simple sin pantalla digital ni temporizador: se enciende y apaga con un botón, todo en el momento.' },
+    ],
+    relatedProducts: ['MLA24006301', 'MLA19599219', 'MLA18154570'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Philips PHHD743090',
+      description: 'Cafetera de filtro Philips PHHD743090, jarra de vidrio 1.2L, filtro de papel descartable, 1000W.',
+      brand: { '@type': 'Brand', name: 'Philips' },
+      model: 'PHHD743090',
+      sku: 'MLA60833776',
+      category: 'Cafeteras de filtro',
+      color: 'Negro',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_915691-MLA99516630754_112025-F.jpg',
+      url: 'https://productosvirales.com.ar/producto/cafetera-de-filtro-philips-phhd743090-jarra-1-2-lts-negra-mla60833776',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '71999',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.6',
+        reviewCount: '120',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+  },
+
+  {
+    id: 'MLA24006301',
+    title: 'Cafetera Philips Grind & Brew Hd7767/00 1,2lt Con Molinillo Color Negro',
+    canonicalName: 'Philips Grind & Brew HD7767/00',
+    brand: 'Philips',
+    price: 439759,
+    originalPrice: 477999,
+    priceUpdated: "2026-10-17",
+    priceLastChecked: "2026-10-17",
+    priceStatus: "fresh",
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_929595-MLA115855878208_092026-F.jpg',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_929595-MLA115855878208_092026-F.jpg',
+    ],
+    category: 'Cocina',
+    categorySlug: 'cocina',
+    permalink: 'https://www.mercadolibre.com.ar/cafetera-philips-grind-brew-hd776700-12lt-con-molinillo-color-negro/p/MLA24006301',
+    affiliateUrl: 'https://meli.la/2r4kTqP',
+    condition: 'new',
+    freeShipping: true,
+    rating: 4.6,
+    reviewCount: 221,
+    reviewsSampledAt: '2026-10-17',
+    pastelColor: 'var(--pastel-pink)',
+    visibility: 'normal',
+    description: 'Cafetera de filtro Philips Grind & Brew HD7767/00: molinillo integrado con tecnología Aroma Twister, jarra de vidrio de 1,2 litros y panel digital con selector de intensidad y molienda. El punto medio entre una filtro simple y una automática de espresso. Publicación con varios vendedores (23 ofertas desde $430.000), stock sano en conjunto aunque algún vendedor puntual tenga pocas unidades.',
+    seoTitle: 'Philips Grind & Brew HD7767/00: filtro con molinillo propio',
+    metaDescription: 'Philips Grind & Brew HD7767/00: muele y prepara café de filtro en un solo paso. 4.6★ en {{reviews:MLA24006301}} calificaciones por {{precio:MLA24006301}}.',
+    pros: [
+      'Molinillo integrado: muele el grano fresco antes de cada preparación, sin comprar un molinillo aparte',
+      'Selector de intensidad y de molienda (fina a gruesa) con panel digital',
+      'Tecnología Aroma Twister: distribuye el agua de forma pareja sobre el café para una extracción más uniforme',
+      '24 meses de garantía de fábrica',
+      'Publicación con 23 ofertas de distintos vendedores desde $430.000: si un vendedor puntual tiene poco stock, hay alternativas',
+    ],
+    cons: [
+      'Una reseña real avisa que no es programable con temporizador: "se hace todo en el momento", pese a que la ficha de MercadoLibre menciona que incluye temporizador — conviene confirmar con el vendedor antes de comprar si esa función te importa',
+      'No trae filtro permanente pese a lo que sugieren algunas fotos o descripciones: usa filtros de papel descartables, hay que comprarlos aparte',
+      'Cuesta casi 6 veces más que la Philips de filtro simple de esta guía, para quien no vaya a aprovechar el molinillo',
+    ],
+    verdict: 'Es el punto medio real entre una cafetera de filtro barata y una automática de espresso: muele el grano antes de cada café, pero sigue siendo café de jarra, no espresso. Tiene sentido si valorás el grano recién molido en tu café de todos los días y no querés subir al precio de una automática. Antes de comprar, confirmá con el vendedor si de verdad trae temporizador programable: una reseña real dice que no.',
+    articleBody: `## Filtro con molinillo: el paso intermedio
+
+La Grind & Brew muele el café en grano justo antes de prepararlo, algo que ninguna cafetera de filtro simple ofrece, pero sigue siendo café de jarra por goteo, no espresso a presión. Tiene panel digital con selector de intensidad y de molienda, y la tecnología Aroma Twister de Philips, que distribuye el agua de forma pareja sobre el café molido para una extracción más uniforme en toda la jarra.
+
+## La aclaración honesta sobre el temporizador
+
+Una reseña real, de 4 estrellas, marca algo que vale la pena saber antes de comprar: "No es una cafetera programable, se hace todo en el momento. Y, realmente no trae un filtro permanente, como lo mencionan muchos, por lo tanto hay que comprar filtros de papel." Esto contradice una de las características que aparece listada en la ficha de MercadoLibre ("incluye temporizador"). Puede deberse a variantes del mismo modelo o a datos de ficha desactualizados: lo señalamos para que confirmes con el vendedor antes de comprar si la programación horaria te importa.
+
+## Varios vendedores, un solo catálogo
+
+Esta publicación agrupa 23 ofertas de distintos vendedores desde $430.000. Si el vendedor que aparece primero tiene pocas unidades en un momento dado, conviene revisar las demás opciones de compra antes de descartar el producto: el modelo en sí no es escaso, solo varía el stock puntual de cada vendedor.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'Philips / Grind & Brew HD7767/00' },
+      { label: 'Tipo', value: 'Cafetera de filtro con molinillo integrado' },
+      { label: 'Capacidad', value: '1,2 litros' },
+      { label: 'Voltaje', value: '220V' },
+      { label: 'Funcionamiento', value: 'Automática (muele y prepara)' },
+      { label: 'Panel', value: 'Digital, con selector de intensidad y molienda' },
+      { label: 'Tecnología', value: 'Aroma Twister' },
+      { label: 'Jarra', value: 'Vidrio' },
+      { label: 'Color', value: 'Negro' },
+      { label: 'Garantía', value: '24 meses de fábrica' },
+    ],
+    customerReviews: [
+      { rating: 4, country: 'Argentina', date: '2025-08-17', text: 'En general es un buen producto, como todo philips. La marca es una garantía de buenos materiales y durabilidad. Prepara ricos cafés. Pero nada más. Por lo demás es una cafetera como cualquiera, con la comodidad agregada del molino eléctrico. No es una cafetera programable, se hace todo en el momento. Y, realmente no trae un filtro permanente, como lo mensionan muchos, por lo tanto hay que comprar filtros de papel. Después de un par de preparaciones ya es fácil de encontrar el punto de los ajustes, para que salga el café como a uno le gusta, aunque en principio parezca complicado. En fin, totalmente recomendable, por el precio con descuento, porque si no fuera así, por casi el doble no lo compraría.', useful: 4 },
+    ],
+    faq: [
+      { question: '¿La Grind & Brew hace espresso?', answer: 'No, sigue siendo café de filtro por goteo (como una cafetera de jarra), solo que muele el grano fresco antes de prepararlo. Para espresso con presión real, mirá las automáticas de esta guía (EP1220 o EP2231/42).' },
+      { question: '¿Es programable con temporizador?', answer: 'Una reseña real de un comprador dice que no, que "se hace todo en el momento", aunque la ficha de MercadoLibre menciona que incluye temporizador. Confirmá esta función con el vendedor antes de comprar si te importa.' },
+      { question: '¿Trae filtro permanente?', answer: 'No, según confirma una reseña real: usa filtros de papel descartables que hay que comprar aparte, pese a que algunas descripciones sugieren lo contrario.' },
+      { question: '¿Por qué un vendedor muestra pocas unidades si hay 23 ofertas?', answer: 'Esta publicación agrupa varios vendedores bajo el mismo catálogo. El stock bajo es de ese vendedor puntual, no del modelo en general: hay otras ofertas disponibles desde $430.000.' },
+    ],
+    relatedProducts: ['MLA60833776', 'MLA19599219', 'MLA18154570'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Philips Grind & Brew HD7767/00',
+      description: 'Cafetera de filtro Philips Grind & Brew HD7767/00 con molinillo integrado y tecnología Aroma Twister.',
+      brand: { '@type': 'Brand', name: 'Philips' },
+      model: 'Grind & Brew HD7767/00',
+      sku: 'MLA24006301',
+      category: 'Cafeteras de filtro',
+      color: 'Negro',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_929595-MLA115855878208_092026-F.jpg',
+      url: 'https://productosvirales.com.ar/producto/cafetera-philips-grind-brew-hd7767-00-1-2lt-con-molinillo-color-negro-mla24006301',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '439759',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.6',
+        reviewCount: '221',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+  },
+
+  {
+    id: 'MLA19599219',
+    title: 'Cafetera Philips Series 1200 Ep1220 Super Automática Negra Expreso Negro',
+    canonicalName: 'Philips Series 1200 EP1220',
+    brand: 'Philips',
+    price: 779989,
+    originalPrice: 899999,
+    priceUpdated: "2026-10-17",
+    priceLastChecked: "2026-10-17",
+    priceStatus: "fresh",
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_887302-MLA111500495975_052026-F.jpg',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_887302-MLA111500495975_052026-F.jpg',
+    ],
+    category: 'Cocina',
+    categorySlug: 'cocina',
+    permalink: 'https://www.mercadolibre.com.ar/cafetera-philips-series-1200-ep1220-super-automatica-negra-expreso-negro/p/MLA19599219',
+    affiliateUrl: 'https://meli.la/2HkrNXs',
+    condition: 'new',
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 4472,
+    reviewsSampledAt: '2026-10-17',
+    pastelColor: 'var(--pastel-blue)',
+    visibility: 'normal',
+    description: 'Cafetera Philips Series 1200 EP1220: super automática con molinillo cerámico de 12 niveles, bomba de 15 bar y doble boquilla para 2 tazas a la vez. Con {{reviews:MLA19599219}} calificaciones, es la cafetera con más historial de toda esta comparativa de marcas, por lejos. No tiene función de leche integrada: es espresso y café, sin capuchino automático.',
+    seoTitle: 'Philips Series 1200 EP1220: la más probada de la marca',
+    metaDescription: 'Philips Series 1200 EP1220: super automática, molinillo 12 niveles, 15 bar. 4.8★ en {{reviews:MLA19599219}} calificaciones por {{precio:MLA19599219}}.',
+    pros: [
+      'La base de opiniones más grande de toda esta comparativa de marcas: {{reviews:MLA19599219}} calificaciones a 4.8 estrellas',
+      'Molinillo cerámico con 12 niveles de molienda para ajustar la textura del café en grano',
+      'Bomba de 15 bar y doble boquilla: permite preparar 2 tazas a la vez en un mismo ciclo',
+      'Depósito de agua de 1,8 litros, para 10 a 15 cafés sin recargar, con indicador de agua baja que evita sacar un café en seco',
+      'Se autolimpia con agua caliente cada vez que se enciende o apaga, y el grupo de preparado se saca para lavar fácil',
+      'Compatible con el filtro AquaClean (se compra aparte): hasta 5.000 cafés sin necesidad de descalcificar, según reviews de la misma línea',
+      'Vendida por tienda oficial (Mexx Va) y también por la Tienda Oficial Philips, con buen stock (+5 disponibles)',
+    ],
+    cons: [
+      'No tiene sistema de leche integrado (ni LatteGo ni espumador automático): para capuchino o latte hay que espumar la leche aparte',
+      'Según dos reviews en video de esta misma línea, los primeros 10 a 12 cafés salen flojos o aguados hasta que el molinillo "se calibra" solo',
+      'El volumen personalizado tiene un tope bajo (unos 240 ml): para duplicar la dosis, la máquina repite todo el proceso de moler y extraer dos veces en vez de hacerlo de una sola vez, lo que lleva más tiempo',
+      'Estructura íntegramente plástica (incluido el grupo de preparado y el depósito de granos), algo a tener en cuenta en esta franja de precio',
+      'Una reseña real menciona 2,5 años de garantía de fábrica, mientras que la ficha de esta publicación indica 12 meses: confirmá la garantía exacta con el vendedor antes de comprar',
+    ],
+    verdict: 'Con la base de opiniones más grande de esta comparativa de cinco marcas (no solo de Philips), es la compra más "segura" en el sentido estadístico: miles de personas ya la probaron y el rating se sostiene en 4.8. No hace capuchino automático, así que si la leche te importa, mirá la EP2231/42 Lattego. Si lo que buscás es espresso y café consistentes sin gastar en funciones que no vas a usar, es de las mejores relaciones precio-historial del catálogo entero.',
+    articleBody: `## La cafetera con más historial de todo el catálogo
+
+Con {{reviews:MLA19599219}} calificaciones a 4.8 estrellas, la EP1220 no es solo la Philips más probada de esta guía: es, por un margen enorme, la cafetera con más opiniones de toda la comparación de marcas DeLonghi y Philips juntas. Es una super automática con molinillo cerámico de 12 niveles, bomba de 15 bar y doble boquilla para preparar dos tazas en un mismo ciclo, con un depósito de 1,8 litros que rinde entre 10 y 15 cafés antes de necesitar recarga.
+
+## Una comparación real contra una máquina del doble de precio
+
+Una review de 5 estrellas, con 504 votos de "útil" (la más votada de toda esta investigación), compara la EP1220 directamente contra una Gaggia Cadorna Prestige que cuesta el doble: "La gaggia ofrece 16 opciones de bebidas que ni siquiera uso, menos de 15 de esas opciones. El sabor del café de la phillips, usando el mismo café en grano de la misma marca, es idéntico en ambas." El mismo comprador señala que la garantía de fábrica de Philips le resultó de 2,5 años, contra 1 año de la Gaggia — aunque la ficha de esta publicación puntual indica 12 meses, así que conviene confirmar la garantía vigente antes de comprar.
+
+## Sin función de leche: la limitación real
+
+A diferencia de la EP2231/42 Lattego de esta misma guía, la EP1220 no integra ningún sistema de espuma de leche. Hace espresso y café americano muy bien, pero si tu rutina incluye capuchino o latte todos los días, vas a tener que espumar la leche aparte o mirar la Lattego.
+
+## Lo que confirman dos reviews en video (de la misma familia 800/1200/2200)
+
+Dos reviews detalladas en inglés, de la misma línea de automáticas Philips (el mecanismo es compartido entre 800, 1200 y 2200, según aclaran ambos reviewers), coinciden en varios puntos que ninguna ficha de venta menciona. El primero: los primeros 10 a 12 cafés salen flojos, aguados o "como sopa lechosa" hasta que el molinillo encuentra su punto solo, algo normal en cualquier automática con molinillo nuevo pero que conviene saber de antemano. El segundo: si querés duplicar la dosis de café, la máquina no muele el doble de una vez, sino que repite todo el proceso de moler, compactar y extraer dos veces seguidas, lo que lleva bastante más tiempo del esperado.
+
+Ambas reviews también destacan algo positivo que la ficha de MercadoLibre no resalta: la máquina se autolimpia pasando agua caliente por el grupo de preparado cada vez que se enciende o se apaga, y es compatible con el filtro AquaClean (se compra aparte, no viene incluido) que permite hasta 5.000 cafés sin necesidad de descalcificar la máquina. Para quien se olvida de hacer el mantenimiento periódico, es una diferencia real.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'Philips / Series 1200 EP1220' },
+      { label: 'Tipo', value: 'Cafetera súper automática' },
+      { label: 'Voltaje', value: '220V' },
+      { label: 'Molinillo', value: 'Cerámico, 12 niveles de molienda' },
+      { label: 'Presión', value: '15 bar' },
+      { label: 'Capacidad de agua', value: '1,8 litros (10 a 15 cafés)' },
+      { label: 'Boquilla', value: 'Doble (2 tazas simultáneas)' },
+      { label: 'Función de leche', value: 'No integrada' },
+      { label: 'Autolimpieza', value: 'Sí, agua caliente por el grupo al encender/apagar' },
+      { label: 'Compatible con AquaClean', value: 'Sí (filtro se compra aparte)' },
+      { label: 'Color', value: 'Negro' },
+      { label: 'Garantía', value: '12 meses según ficha (una reseña real menciona 2,5 años de fábrica)' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Brasil', date: '2025-09-17', text: 'Voy a relatar mi experiencia con la máquina. También tengo en casa una gaggia cardorna prestige que cuesta el doble del valor de la phillips ep1220. Sin embargo, la ep1220 supera en relación costo-beneficio, hace lo que tiene que hacer, que es preparar café, y por eso pagas. La gaggia ofrece 16 opciones de bebidas que ni siquiera uso, menos de 15 de esas opciones. El sabor del café de la phillips, usando el mismo café en grano de la misma marca, es idéntico en ambas. En resumen, compré la ep1220 para cuando tenga que hacer mantenimiento en una, la otra quede en su lugar para cubrir mi necesidad. La gaggia tiene solo 1 año de garantía, mientras que la phillips tiene 2.5 años. Así que, para quienes solo quieren un café sabroso, ya sea espresso o café normal, sin duda la ep1220 vale la pena, cumple lo que promete. Estoy muy satisfecho con la máquina.', useful: 504 },
+    ],
+    faq: [
+      { question: '¿La EP1220 hace capuchino o café con leche?', answer: 'No tiene sistema de leche integrado. Hace espresso y café solo; para capuchino o latte hay que espumar la leche aparte con un accesorio propio. Si querés leche automática, la EP2231/42 Lattego de esta guía sí la integra.' },
+      { question: '¿Los primeros cafés salen bien desde el principio?', answer: 'Según dos reviews en video de esta misma línea de automáticas Philips, no: los primeros 10 a 12 cafés suelen salir flojos o aguados hasta que el molinillo encuentra su punto de calibración solo. Es normal en una automática recién estrenada, no un defecto puntual de la unidad.' },
+      { question: '¿Se puede duplicar la dosis de café en un solo paso?', answer: 'No exactamente: cuando pedís doble dosis, la máquina repite todo el proceso de moler, compactar y extraer dos veces seguidas en vez de moler el doble de una vez, según confirma una review detallada. Lleva más tiempo del que uno esperaría.' },
+      { question: '¿Vale la pena frente a una máquina más cara?', answer: 'Una reseña real con 504 votos de útil la compara contra una Gaggia Cadorna Prestige que cuesta el doble, y concluye que el sabor del café es idéntico usando los mismos granos, sin aprovechar las funciones extra de la máquina más cara.' },
+      { question: '¿Cuánto dura la garantía?', answer: 'La ficha de esta publicación indica 12 meses de garantía de fábrica, aunque una reseña real de un comprador menciona haber recibido 2,5 años. Confirmá la garantía vigente con el vendedor antes de comprar.' },
+      { question: '¿Por qué tiene tantas más calificaciones que el resto de la guía?', answer: 'Es un modelo de entrada de gama de alto volumen de ventas en toda la región (la reseña más votada es de Brasil), por eso acumula miles de calificaciones frente a los cientos o decenas de otros modelos premium de esta comparativa.' },
+    ],
+    relatedProducts: ['MLA18154570', 'MLA24006301', 'MLA63908884'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Philips Series 1200 EP1220',
+      description: 'Cafetera Philips Series 1200 EP1220, súper automática, molinillo cerámico de 12 niveles, 15 bar, doble boquilla.',
+      brand: { '@type': 'Brand', name: 'Philips' },
+      model: 'Series 1200 EP1220',
+      sku: 'MLA19599219',
+      category: 'Cafeteras automáticas',
+      color: 'Negro',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_887302-MLA111500495975_052026-F.jpg',
+      url: 'https://productosvirales.com.ar/producto/cafetera-philips-series-1200-ep1220-super-automatica-negra-expreso-negro-mla19599219',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '779989',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.8',
+        reviewCount: '4472',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+  },
+
+  {
+    id: 'MLA18154570',
+    title: 'Cafetera Expresso Philips Ep2231/42 Serie 2200 Lattego 1.8l Negro',
+    canonicalName: 'Philips EP2231/42 Serie 2200 Lattego',
+    brand: 'Philips',
+    price: 898499,
+    originalPrice: 1449999,
+    priceUpdated: "2026-10-17",
+    priceLastChecked: "2026-10-17",
+    priceStatus: "fresh",
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_812447-MLA99915298947_112025-F.jpg',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_812447-MLA99915298947_112025-F.jpg',
+    ],
+    category: 'Cocina',
+    categorySlug: 'cocina',
+    permalink: 'https://www.mercadolibre.com.ar/cafetera-expresso-philips-ep223142-serie-2200-lattego-18l-negro/p/MLA18154570',
+    affiliateUrl: 'https://meli.la/2N57aNJ',
+    condition: 'new',
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 778,
+    reviewsSampledAt: '2026-10-17',
+    pastelColor: 'var(--pastel-violet)',
+    visibility: 'normal',
+    description: 'Cafetera Philips EP2231/42 Serie 2200 Lattego: super automática con sistema Lattego de espuma de leche integrado, #12 en el ranking de cafeteras de MercadoLibre Argentina con {{reviews:MLA18154570}} calificaciones. La más completa de la gama media de Philips en esta guía, con la honestidad de que el nivel barista queda afuera de su alcance.',
+    seoTitle: 'Philips EP2231/42 Lattego: leche automática, ¿vale la pena?',
+    metaDescription: 'Philips EP2231/42 Serie 2200 Lattego: espuma de leche automática, super automática. 4.7★ en {{reviews:MLA18154570}} calificaciones por {{precio:MLA18154570}}.',
+    pros: [
+      '#12 en el ranking de cafeteras más vendidas de MercadoLibre Argentina, con {{reviews:MLA18154570}} calificaciones',
+      'Sistema Lattego: espuma la leche de forma automática, sin manejar una lanza de vapor a mano',
+      'Capacidad de agua de 1,8 litros y filtro permanente (no hay que comprar filtros de papel)',
+      '24 meses de garantía de fábrica',
+      'Vendida por tienda oficial (Vstore-Flex) y por la Tienda Oficial Philips, con buen stock (+10 disponibles)',
+    ],
+    cons: [
+      'Una reseña detallada y honesta (22 votos de útil) avisa: la crema del espresso y la espuma del capuchino "están muy lejos del nivel barista"',
+      'Consume bastante agua y pide recarga constante del depósito según la misma reseña',
+      'A diferencia de la EP5541/50 de esta guía, no tiene bebidas preprogramadas múltiples ni memoria de perfiles de usuario',
+    ],
+    verdict: 'Es la Philips del medio: más completa que la EP1220 porque suma espuma de leche automática, pero más accesible que la EP5541/50 premium. Una reseña real y detallada la resume mejor que cualquier ficha de venta: "es básicamente una inversión para quien quiere ahorrar tiempo precioso de su día", con el matiz honesto de que el resultado es muy bueno para quien no es exigente con el café, pero no reemplaza a un barista. Si tomás varios cafés por día y valorás la comodidad por sobre la perfección, cumple de sobra.',
+    articleBody: `## Espuma de leche automática: el salto frente a la EP1220
+
+La EP2231/42 suma lo que la EP1220 de esta guía no tiene: el sistema Lattego, que arma espuma de leche sola apretando un botón, sin manejar ninguna lanza de vapor a mano. Es #12 en el ranking de cafeteras más vendidas de MercadoLibre Argentina, con {{reviews:MLA18154570}} calificaciones a 4.7 estrellas — una base de opiniones grande y consistente.
+
+## La review más honesta de esta guía
+
+Una reseña de 4 estrellas, con 22 votos de "útil", describe exactamente lo que hay que saber antes de comprar: "Esta maquina es básicamente una inversión para quien quiere ahorrar tiempo precioso de su día (que también significa dinero!) en hacerse café [...] si sos un poco mas entendido te vas a quedar con un poco de ganas de que el café tuviera una mejor extracción, consistencia de la crema del café o de la leche del capuccino (que esta muy lejos del nivel barista)." El mismo comprador agrega que la máquina "gasta bastante agua y el rellenado se vuelve algo constante", pero cierra con un balance justo: "vale lo que cuesta pero está destinada a gente que realmente tome bastante café y quiera dejar de perder tiempo elaborándolo."
+
+## Lo que agrega una review especializada de la misma familia
+
+Una review profesional de una casa especializada en cafeteras (sobre otra variante de la Serie 2200, mismo mecanismo de base que la EP2231/42) confirma algo que vale para toda esta línea: es de **un solo termobloque**, así que no se puede preparar café y vaporizar al mismo tiempo. También recomienda no cargar granos oleosos de tueste muy oscuro, porque la máquina está calibrada para un tueste tipo espresso más mate, y sugiere lavar el grupo de preparado con agua caliente una vez por semana. Son datos de mantenimiento que ninguna ficha de venta menciona y que alargan la vida útil del molinillo y el grupo de extracción.
+
+## Para quién tiene sentido
+
+Si lo que buscás es la comodidad de apretar un botón y tener espresso con leche sin tocar nada más, la EP2231/42 cumple y tiene el respaldo de casi 800 compradores reales. Si en cambio sos exigente con la calidad del café y buscás resultado de cafetería, ninguna automática de esta franja de precio (Philips o DeLonghi) te va a dejar completamente conforme: para eso existen las máquinas semi-profesionales con vaporizador manual, como La Specialista Arte Evo de la guía de DeLonghi.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'Philips / EP2231/42 Serie 2200' },
+      { label: 'Tipo', value: 'Cafetera súper automática' },
+      { label: 'Voltaje', value: '220V' },
+      { label: 'Capacidad de agua', value: '1,8 litros' },
+      { label: 'Potencia', value: '1.500 W' },
+      { label: 'Filtro', value: 'Permanente' },
+      { label: 'Función de leche', value: 'Lattego (espuma automática)' },
+      { label: 'Color', value: 'Negro' },
+      { label: 'Garantía', value: '24 meses de fábrica' },
+    ],
+    customerReviews: [
+      { rating: 4, country: 'Uruguay', date: '2025-06-17', text: 'Compré esta cafetera con la intención de dejar de hacer todo el proceso de la elaboración de mi café diario de forma manual. En ese sentido la maquina es perfecta y no decepciona, te permite hacer un espresso fuerte y cremoso en segundos apretando 2 botones, te olvidas de pensar y tenes mas tiempo para trabajar o compartir con tus amigos un capuccino. Esta maquina es básicamente una inversión para quien quiere ahorrar tiempo precioso de su día (que también significa dinero!) en hacerse café. Respecto a la calidad y sabor del café producido es donde le doy las 4 estrellas, no llega a 5. El café es muy bueno y delicioso, mas si sos una persona no habituada a degustar café y solo conoces el soluble o las capsulas, pero si sos un poco mas entendido te vas a quedar con un poco de ganas de que el café tuviera una mejor extracción, consistencia de la crema del café o de la leche del capuccino (que esta muy lejos del nivel barista). La limpieza y mantenimiento son ultra fáciles, es un placer manipular la maquina, y estéticamente es un objeto muy elegante y llamativo para tu cocina, eso si gasta bastante agua y el rellenado se vuelve algo constante. En resumen vale lo que cuesta pero está destinada a gente que realmente tome bastante café y quiera dejar de perder tiempo elaborándolo como para justificar el gasto.', useful: 22 },
+    ],
+    faq: [
+      { question: '¿Qué es el sistema Lattego?', answer: 'Es la tecnología de espuma de leche automática de Philips: arma espuma de leche apretando un botón, sin manejar una lanza de vapor a mano. Es la principal diferencia frente a la EP1220, que no tiene función de leche.' },
+      { question: '¿El café que hace es de nivel de cafetería?', answer: 'Según una reseña real y detallada, no del todo: el sabor es muy bueno para quien no es muy exigente, pero la crema del espresso y la espuma del capuchino quedan lejos del nivel barista. Es una máquina pensada para comodidad diaria, no para replicar una cafetería de especialidad.' },
+      { question: '¿Consume mucha agua?', answer: 'Una reseña real lo marca como una contra concreta: "gasta bastante agua y el rellenado se vuelve algo constante". Tiene un depósito de 1,8 litros, pero con uso frecuente hay que recargarlo seguido.' },
+      { question: '¿Trae filtro de papel o permanente?', answer: 'Filtro permanente: no hay que comprar ni reponer filtros de papel, a diferencia de las cafeteras de filtro simple de esta guía.' },
+      { question: '¿Se puede hacer café y espumar leche al mismo tiempo?', answer: 'No. Como toda la línea 1200/2200 de Philips, tiene un solo termobloque: primero se extrae el café y después se espuma, no simultáneamente. Es una limitación compartida con varias automáticas de esta franja de precio, no un defecto puntual.' },
+      { question: '¿Qué tipo de granos conviene usar?', answer: 'Según una review especializada de la misma línea, conviene evitar granos muy oleosos de tueste oscuro (brillosos al tacto) y usar un tueste tipo espresso más mate: la máquina está calibrada para ese perfil. Los granos oleosos además pueden ensuciar más rápido el molinillo.' },
+    ],
+    relatedProducts: ['MLA19599219', 'MLA63908884', 'MLA24006301'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Philips EP2231/42 Serie 2200 Lattego',
+      description: 'Cafetera Philips EP2231/42 Serie 2200 Lattego, súper automática con espuma de leche automática integrada.',
+      brand: { '@type': 'Brand', name: 'Philips' },
+      model: 'EP2231/42 Serie 2200',
+      sku: 'MLA18154570',
+      category: 'Cafeteras automáticas',
+      color: 'Negro',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_812447-MLA99915298947_112025-F.jpg',
+      url: 'https://productosvirales.com.ar/producto/cafetera-expresso-philips-ep2231-42-serie-2200-lattego-1-8l-negro-mla18154570',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '898499',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.7',
+        reviewCount: '778',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+  },
+
+  {
     id: 'MLA19769919',
     title: 'Afeitadora Remington R31a Rotativo Recargable Usb Color Negro',
     canonicalName: 'Remington R31A Rotativo',

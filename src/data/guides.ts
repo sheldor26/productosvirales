@@ -21958,6 +21958,108 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { label: "Cafetera Smartlife: cuál comprar en Argentina", href: "/guias/cafetera-smartlife" },
       { label: "Cafetera Oster: cuál comprar", href: "/guias/cafetera-oster" },
       { label: "Cafetera Liliana: cuál comprar en Argentina", href: "/guias/cafetera-liliana" },
+      { label: "Cafetera Philips: cuál comprar", href: "/guias/cafetera-philips" },
+      { label: "Qué cafetera comprar: express, cápsulas o filtro", href: "/guias/que-cafetera-comprar" },
+    ],
+    internalLinksTitle: "Guías relacionadas",
+  },
+
+  {
+    slug: "cafetera-philips",
+    category: "cafeteras",
+    title: `Cafetera Philips: cuál comprar en Argentina [2026]`,
+    seoTitle: `Cafetera Philips: Cuál Comprar en Argentina [2026]`,
+    metaDescription: `Las cinco Philips disponibles en Argentina comparadas: desde la de filtro más barata hasta la EP5541/50 premium con LatteGo. Precios reales, miles de calificaciones y la contra que las fichas no dicen.`,
+    ogTitle: `Cafetera Philips en Argentina: de la más barata a la premium`,
+    ogDescription: `Philips tiene la cafetera con más calificaciones de todo el catálogo. Comparamos las cinco disponibles en Argentina con precios reales de MercadoLibre y reseñas honestas de compradores.`,
+    h1: `Cafetera Philips en Argentina: cuál comprar y cuánto cuesta [2026]`,
+    publishedDate: "2026-10-17",
+    updatedDate: "2026-10-17",
+    sitemapLastmod: "2026-10-17",
+    hasDisclosure: true,
+    readingTime: 10,
+    standfirst: `Philips tiene la cafetera con más calificaciones reales de todo nuestro catálogo (más de 4.000) y también la más barata de toda esta serie de marcas. Comparamos las cinco que se consiguen hoy en MercadoLibre Argentina con stock sano, desde una de filtro simple de $72.000 hasta una automática premium de $1,36 millón, con las contras reales que dejan los compradores y no las fichas de venta.`,
+    quickPicks: [
+      { productMlaId: "MLA60833776", label: "La más barata", labelColor: "slate", tagline: "PHHD743090: filtro simple, sin vueltas, desde {{precio:MLA60833776}}" },
+      { productMlaId: "MLA19599219", label: "La más probada", labelColor: "blue", tagline: "Series 1200 EP1220: {{reviews:MLA19599219}} calificaciones, la más de todo el catálogo" },
+      { productMlaId: "MLA18154570", label: "Con leche automática", labelColor: "purple", tagline: "EP2231/42 Lattego: espuma de leche sin lanza de vapor" },
+      { productMlaId: "MLA63908884", label: "La premium", labelColor: "amber", tagline: "EP5541/50: LatteGo + 20 bebidas preprogramadas" },
+    ],
+    intro: [
+      `Philips es una marca con siete décadas en electrodomésticos y una presencia enorme en cafeteras en Argentina: desde cafeteras de filtro de menos de $100.000 hasta automáticas premium de más de un millón de pesos. A diferencia de DeLonghi (donde ninguna baja de {{precio:MLAU3013351760}}), Philips cubre toda la escala de precios, lo que la hace más accesible pero también más heterogénea: no todas las Philips compiten en la misma liga.`,
+      `Hoy se consiguen cinco líneas Philips en MercadoLibre Argentina con stock sano: la **PHHD743090**, una cafetera de filtro simple sin molinillo ni pantalla; la **Grind & Brew HD7767/00**, que suma molinillo integrado a una cafetera de filtro; la **Series 1200 EP1220**, automática de espresso sin función de leche y con la base de opiniones más grande de todo nuestro catálogo (más de 4.000 calificaciones); la **EP2231/42 Lattego**, que suma espuma de leche automática; y la **EP5541/50 Serie 5500**, la automática premium con LatteGo y 20 bebidas preprogramadas. Dejamos afuera la Senseo de cápsulas: la única publicación nueva disponible tenía una sola unidad en stock y ningún otro vendedor la ofrecía.`,
+      `Un aviso antes de empezar: para la keyword genérica "cafetera philips", el sitio oficial de Philips Argentina ocupa gran parte de los primeros resultados de Google. No competimos con eso: competimos dándote los datos reales (precios, stock, reseñas honestas) que esa tienda oficial no te va a dar sobre su propio producto. Como en la guía de DeLonghi, sumamos reviews en video de estas mismas máquinas: encontramos matices reales (primeros cafés flojos, cómo funciona la doble dosis, qué tipo de grano conviene) y también descartamos contenido que no aportaba nada, como dos videos oficiales sin narración o una reseña en español que resultó ser copy publicitario genérico, no una opinión real.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_887302-MLA111500495975_052026-F.jpg", alt: `Cafetera Philips Series 1200 EP1220, la más calificada de todo el catálogo de productosvirales`, imageSize: "hero" },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** verificamos precio, stock, specs y calificaciones de cada Philips en vivo en MercadoLibre Argentina (octubre 2026). Dejamos afuera variantes con una sola unidad en stock y sin otro vendedor alternativo (fue el caso de la Senseo de cápsulas). Cuando una publicación agrupa varios vendedores bajo el mismo catálogo (como la Grind & Brew), lo aclaramos en vez de tratarla como un único stock. Las citas de compradores son textuales, incluidas las que vienen de Brasil o Uruguay (MercadoLibre comparte el sistema de calificaciones entre países de la región), lo que señalamos cuando corresponde.` },
+
+      { type: "h2", title: `Por qué Philips es más accesible que DeLonghi`, id: "por-que-philips" },
+      { type: "p", content: `A diferencia de DeLonghi, donde la entrada a la marca arranca en {{precio:MLAU3013351760}}, Philips tiene una cafetera de filtro simple por {{precio:MLA60833776}}: menos de una décima parte. Eso también significa que "Philips" no es una sola categoría de precio, sino una escalera completa, desde lo más básico hasta lo premium. La base de opiniones también es otra liga: la EP1220 sola tiene {{reviews:MLA19599219}} calificaciones, más que las cinco DeLonghi de nuestra otra guía juntas. Es la marca con mayor volumen de ventas reales que comparamos en esta serie.` },
+
+      { type: "h2", title: `Las cinco Philips, una por una`, id: "modelos" },
+
+      { type: "h3", title: `1. PHHD743090 — la más barata, café de filtro simple` },
+      { type: "product-card", productMlaId: "MLA60833776", label: "La más barata", labelColor: "slate", ranking: 1, description: `Cafetera de filtro simple, jarra de vidrio 1,2L, sin molinillo ni pantalla. La entrada más económica a la marca Philips.` },
+      { type: "p", content: `Es la Philips más básica y más barata de esta guía: {{precio:MLA60833776}}, sin molinillo, sin pantalla digital, sin temporizador. Carga agua y café molido, aprieta un botón y listo. Con {{reviews:MLA60833776}} calificaciones a 4.6 estrellas, vendida por tienda oficial con buen stock.` },
+      { type: "pull-quote", content: `"Excelente producto, la calidad de sus materiales es muy buena, no parece nada frágil [...] calienta super rápido, en poco tiempo puedes tener tu café listo."`, attribution: `Comprador verificado en MercadoLibre, 8 meses de uso` },
+
+      { type: "h3", title: `2. Grind & Brew HD7767/00 — filtro con molinillo propio` },
+      { type: "product-card", productMlaId: "MLA24006301", label: "Filtro con molinillo", labelColor: "green", ranking: 2, description: `Muele el grano antes de cada preparación con tecnología Aroma Twister. Sigue siendo café de jarra, no espresso.` },
+      { type: "p", content: `Suma un molinillo integrado a una cafetera de filtro: muele el grano fresco antes de cada preparación, con panel digital para ajustar intensidad y molienda. Cuesta {{precio:MLA24006301}} y tiene {{reviews:MLA24006301}} calificaciones a 4.6 estrellas. Esta publicación agrupa 23 ofertas de distintos vendedores desde $430.000, así que si un vendedor puntual muestra poco stock, conviene revisar las demás opciones antes de descartarla.` },
+      { type: "callout", calloutVariant: "warning", calloutTitle: "Lo que una reseña real avisa (y la ficha no)", content: `Una reseña de 4 estrellas dice textualmente: "No es una cafetera programable, se hace todo en el momento. Y, realmente no trae un filtro permanente, como lo mencionan muchos, por lo tanto hay que comprar filtros de papel." Esto contradice el dato de "incluye temporizador" que figura en la ficha de MercadoLibre. Confirmá con el vendedor antes de comprar si esa función te importa.` },
+
+      { type: "h3", title: `3. Series 1200 EP1220 — la más probada del catálogo` },
+      { type: "product-card", productMlaId: "MLA19599219", label: "La más probada", labelColor: "blue", ranking: 3, description: `Súper automática con molinillo cerámico de 12 niveles y doble boquilla. {{reviews:MLA19599219}} calificaciones: la base más grande de todo el catálogo.` },
+      { type: "p", content: `Con {{reviews:MLA19599219}} calificaciones a 4.8 estrellas, no es solo la Philips más probada de esta guía: es la cafetera con más opiniones reales de todo nuestro catálogo, DeLonghi incluido. Cuesta {{precio:MLA19599219}}, tiene molinillo cerámico de 12 niveles, bomba de 15 bar y doble boquilla para dos tazas a la vez. No tiene función de leche integrada.` },
+      { type: "pull-quote", content: `"También tengo en casa una gaggia cardorna prestige que cuesta el doble del valor de la phillips ep1220 [...] El sabor del café de la phillips, usando el mismo café en grano de la misma marca, es idéntico en ambas."`, attribution: `Comprador verificado en MercadoLibre (Brasil), 504 votos útil` },
+      { type: "callout", calloutVariant: "note", calloutTitle: "Lo que agregan dos reviews en video (no la ficha de venta)", content: `Dos reviews detalladas en inglés de esta misma línea 800/1200/2200 coinciden en algo que conviene saber antes de comprar: los primeros 10 a 12 cafés suelen salir flojos o aguados hasta que el molinillo se calibra solo, y si pedís doble dosis la máquina repite todo el proceso de moler y extraer dos veces en vez de hacerlo de una sola pasada, lo que lleva más tiempo del esperado. A favor: la autolimpieza con agua caliente al encender/apagar y la compatibilidad con el filtro AquaClean (hasta 5.000 cafés sin descalcificar, se compra aparte).` },
+
+      { type: "h3", title: `4. EP2231/42 Lattego — espuma de leche automática` },
+      { type: "product-card", productMlaId: "MLA18154570", label: "Con leche automática", labelColor: "purple", ranking: 4, description: `Súper automática con sistema Lattego: espuma la leche sola. #12 en el ranking de cafeteras más vendidas de MercadoLibre.` },
+      { type: "p", content: `Suma lo que la EP1220 no tiene: espuma de leche automática con el sistema Lattego, sin manejar ninguna lanza de vapor. Cuesta {{precio:MLA18154570}} y es #12 en el ranking de cafeteras más vendidas de MercadoLibre Argentina, con {{reviews:MLA18154570}} calificaciones.` },
+      { type: "callout", calloutVariant: "note", calloutTitle: "La review más honesta de esta guía", content: `Una reseña de 4 estrellas con 22 votos de útil resume mejor que cualquier publicidad para qué sirve esta máquina: "es básicamente una inversión para quien quiere ahorrar tiempo precioso de su día [...] si sos un poco mas entendido te vas a quedar con un poco de ganas de que el café tuviera una mejor extracción, consistencia de la crema del café o de la leche del capuccino (que esta muy lejos del nivel barista)." También avisa que consume bastante agua y pide recarga constante.` },
+
+      { type: "h3", title: `5. EP5541/50 Serie 5500 — la premium con LatteGo y 20 bebidas` },
+      { type: "product-card", productMlaId: "MLA63908884", label: "La premium", labelColor: "amber", ranking: 5, description: `Molinillo cerámico de 12 niveles, sistema LatteGo (2 piezas, sin tubos) y 20 bebidas preprogramadas con memoria de 4 perfiles.` },
+      { type: "p", content: `Es el tope de línea Philips de esta guía: {{precio:MLA63908884}}, con molinillo cerámico de 12 niveles, sistema LatteGo (una versión más simple de limpiar que el Lattego clásico, según el fabricante) y 20 bebidas preprogramadas con memoria para 4 perfiles de usuario. Tiene {{reviews:MLA63908884}} calificaciones a 4.9 estrellas, vendida directamente por la Tienda Oficial de Philips.` },
+      { type: "p", content: `Su propia ficha ya trae un análisis completo comparándola contra la Peabody PE-CE5023IX y la Oster Perfect Brew EM7301: en resumen, es la automatización más completa del catálogo, pero sus propios compradores avisan que el precio es alto y que pide mantenimiento periódico (filtro cada 3 meses, desengrasante mensual, descalcificación). Si te interesa el detalle completo, [la ficha de la EP5541/50](/producto/cafetera-espresso-automatica-philips-ep5541-50-serie-5500-negra-mla63908884) lo desarrolla entero.` },
+
+      { type: "h2", title: `Tabla comparativa: las cinco Philips`, id: "tabla" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Tipo`, `Lo distintivo`, `Calificaciones`], rows: [
+        [`[PHHD743090](https://meli.la/2roAYVg)`, `{{precio:MLA60833776}}`, `Filtro simple`, `La más barata de la marca`, `4.6 ★ ({{reviews:MLA60833776}})`],
+        [`[Grind & Brew HD7767/00](https://meli.la/2r4kTqP)`, `{{precio:MLA24006301}}`, `Filtro con molinillo`, `Muele el grano antes de preparar`, `4.6 ★ ({{reviews:MLA24006301}})`],
+        [`[Series 1200 EP1220](https://meli.la/2HkrNXs)`, `{{precio:MLA19599219}}`, `Automática`, `La más probada del catálogo`, `4.8 ★ ({{reviews:MLA19599219}})`],
+        [`[EP2231/42 Lattego](https://meli.la/2N57aNJ)`, `{{precio:MLA18154570}}`, `Automática`, `Espuma de leche automática`, `4.7 ★ ({{reviews:MLA18154570}})`],
+        [`[EP5541/50 Serie 5500](https://meli.la/2sxEonV)`, `{{precio:MLA63908884}}`, `Automática premium`, `LatteGo + 20 bebidas`, `4.9 ★ ({{reviews:MLA63908884}})`],
+      ] },
+
+      { type: "h2", title: `Cuál Philips elegir según tu caso`, id: "cual-elegir" },
+      { type: "list", items: [
+        `**Café de filtro, sin pretensiones, al precio más bajo de la marca:** la [PHHD743090](https://meli.la/2roAYVg) ({{precio:MLA60833776}}). Sin molinillo ni pantalla, cumple exactamente lo que promete.`,
+        `**Querés café de filtro pero con el grano recién molido:** la [Grind & Brew HD7767/00](https://meli.la/2r4kTqP) ({{precio:MLA24006301}}). Confirmá con el vendedor si de verdad trae temporizador, una reseña real dice que no.`,
+        `**Espresso y café, sin gastar en función de leche que no vas a usar:** la [Series 1200 EP1220](https://meli.la/2HkrNXs) ({{precio:MLA19599219}}). La más probada por lejos, con {{reviews:MLA19599219}} calificaciones reales.`,
+        `**Capuchino y latte con espuma automática, sin pagar el precio premium:** la [EP2231/42 Lattego](https://meli.la/2N57aNJ) ({{precio:MLA18154570}}). Honesta advertencia: no es nivel barista.`,
+        `**Presupuesto no es el límite y querés la automatización más completa:** la [EP5541/50 Serie 5500](https://meli.la/2sxEonV) ({{precio:MLA63908884}}). LatteGo, 20 bebidas, memoria de perfiles — con mantenimiento periódico real.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la mayoría, la **Series 1200 EP1220** a {{precio:MLA19599219}} es la compra más segura: tiene, por lejos, la base de opiniones más grande de todo nuestro catálogo ({{reviews:MLA19599219}} calificaciones) y una reseña real la compara favorablemente contra una máquina del doble de precio. Si la leche automática te importa, sumá el presupuesto para la **EP2231/42 Lattego**, con la advertencia honesta de que no reemplaza a un barista. Si solo tomás café de filtro sin vueltas, la **PHHD743090** es la Philips más barata de todas las que comparamos en esta serie de marcas, DeLonghi incluido. Y si el presupuesto no es el límite, la **EP5541/50** es la más completa, con el mantenimiento periódico como único peaje real.` },
+    ],
+    faq: [
+      { question: `¿Cuál es la mejor cafetera Philips en Argentina?`, answer: `Para la mayoría, la [Series 1200 EP1220](https://meli.la/2HkrNXs) ({{precio:MLA19599219}}): tiene la base de opiniones más grande de todo nuestro catálogo ({{reviews:MLA19599219}} calificaciones, 4.8 estrellas) y una reseña real la compara favorablemente contra una máquina del doble de precio. No tiene función de leche integrada; para eso está la EP2231/42 Lattego.` },
+      { question: `¿Por qué la Series 1200 EP1220 tiene tantas más calificaciones que el resto?`, answer: `Es un modelo de entrada de gama de alto volumen de ventas en toda la región (la reseña más votada de esta guía es de Brasil), por eso acumula miles de calificaciones frente a los cientos o decenas de los modelos más premium.` },
+      { question: `¿Cuál es la Philips más barata?`, answer: `La [PHHD743090](https://meli.la/2roAYVg), una cafetera de filtro simple sin molinillo ni pantalla, a {{precio:MLA60833776}}. Es incluso más barata que la Dedica EC685 de DeLonghi, la entrada más económica de esa otra marca en nuestra serie.` },
+      { question: `¿Alguna Philips hace capuchino automático?`, answer: `Sí, dos: la [EP2231/42 Lattego](https://meli.la/2N57aNJ) ({{precio:MLA18154570}}) y la [EP5541/50 Serie 5500](https://meli.la/2sxEonV) ({{precio:MLA63908884}}), premium y con 20 bebidas preprogramadas. Ninguna de las dos reemplaza del todo a un barista, según confirman sus propias reseñas.` },
+      { question: `¿Qué pasó con la cafetera Senseo de cápsulas?`, answer: `La dejamos afuera de esta comparación: la única publicación nueva disponible en MercadoLibre Argentina tenía una sola unidad en stock y ningún otro vendedor la ofrecía. Preferimos no recomendar algo que puede agotarse apenas publiquemos la guía.` },
+      { question: `¿DeLonghi o Philips?`, answer: `Depende del presupuesto y de qué tan exigente seas. Philips cubre una escala de precios mucho más amplia (desde {{precio:MLA60833776}}) y tiene bases de opiniones más grandes. DeLonghi (ver [guía completa](/guias/cafetera-delonghi)) arranca más caro pero suma líneas como La Specialista Arte Evo, pensada para quien quiere controlar el proceso como un barista, algo que ninguna Philips de esta guía ofrece.` },
+    ],
+    internalLinks: [
+      { label: "Cafetera DeLonghi: cuál comprar", href: "/guias/cafetera-delonghi" },
+      { label: "Cafetera express: guía completa y ranking", href: "/guias/cafetera-express" },
+      { label: "Cafetera automática: cuál comprar", href: "/guias/cafetera-automatica" },
+      { label: "Cafetera de filtro: las mejores de Argentina", href: "/guias/cafetera-de-filtro" },
       { label: "Qué cafetera comprar: express, cápsulas o filtro", href: "/guias/que-cafetera-comprar" },
     ],
     internalLinksTitle: "Guías relacionadas",
