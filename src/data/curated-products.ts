@@ -56986,6 +56986,446 @@ Si buscás un formato distinto a la cama rectangular tradicional, y tu mascota e
   },
 
   {
+    id: 'MLAU3013351760',
+    title: 'Cafetera Delonghi Dedica Ec685 Automática Plateada Expreso',
+    canonicalName: 'DeLonghi Dedica EC685',
+    brand: 'DeLonghi',
+    price: 742712,
+    originalPrice: 875000,
+    priceUpdated: "2026-10-17",
+    priceLastChecked: "2026-10-17",
+    priceStatus: "fresh",
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_803121-MLA93081104674_092025-F.jpg',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_803121-MLA93081104674_092025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_787271-MLA32583951213_102019-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_886442-MLA43801683238_102020-F.jpg',
+    ],
+    category: 'Cocina',
+    categorySlug: 'cocina',
+    permalink: 'https://www.mercadolibre.com.ar/cafetera-delonghi-dedica-ec685-automatica-plateada-expreso/up/MLAU3013351760',
+    affiliateUrl: 'https://meli.la/1BXWAFe',
+    condition: 'new',
+    freeShipping: true,
+    rating: 5.0,
+    reviewCount: 2,
+    reviewsSampledAt: '2026-10-17',
+    pastelColor: 'var(--pastel-slate)',
+    visibility: 'normal',
+    description: 'Cafetera express DeLonghi Dedica EC685: el diseño compacto más longevo de la marca (lleva más de una década sin cambios de fondo), pensado para departamentos y cocinas chicas. 15 bares de presión, portafiltros con canastillas presurizadas (perdonan un molido imperfecto) y acepta tanto café molido como cápsulas monodosis. La contra real, confirmada por reviews internacionales y no solo por la ficha: tiene un solo termobloque, así que no podés sacar un espresso y vaporizar leche al mismo tiempo.',
+    seoTitle: 'DeLonghi Dedica EC685: compacta, pero con un termobloque',
+    metaDescription: 'DeLonghi Dedica EC685: 15 bares, portafiltro presurizado, diseño ultra compacto. La limitación real: un solo termobloque para café y vapor. Precio y specs verificados.',
+    pros: [
+      'El diseño más compacto y probado de la marca: encaja en cocinas chicas y departamentos sin problema',
+      'Arranca en unos 10 segundos, lista para moler los granos mientras calienta',
+      'Canastillas presurizadas: perdonan un molido no perfecto sin perder la crema',
+      'Acepta café molido y también cápsulas monodosis tipo Nespresso como respaldo',
+      'Alerta de descalcificación incorporada (el botón de vapor parpadea en rojo)',
+    ],
+    cons: [
+      'Solo {{reviews:MLAU3013351760}} calificaciones en esta publicación puntual: lo decimos de frente, la base es muy chica',
+      'Tiene un solo termobloque: no podés sacar café y vaporizar leche a la vez, hay que esperar a que la caldera cambie de temperatura entre uno y otro',
+      'El vaporizador es lento y de poca fuerza para texturizar leche: pide paciencia si vas a hacer capuchinos',
+      'Solo permite dosis simple o doble preprogramadas, sin mucho margen de ajuste fino',
+    ],
+    verdict: 'Es la Dedica "clásica", sin las mejoras de la versión Duo (que suma cold brew y bandeja más grande) pero también sin agregarle problemas nuevos al vaporizador. Para uno o dos espressos al día en una cocina chica, con el molido en casa o cápsulas de respaldo, cumple bien. Si tu rutina incluye capuchinos seguidos o preparar dos cafés casi juntos, el termobloque único se nota: vas a tener que planificar el orden (café primero, vapor después) y tener paciencia con la leche.',
+    articleBody: `## El límite real: un solo termobloque
+
+Dos reviews internacionales de esta misma línea Dedica (que comparte mecánica con la EC685) coinciden en lo mismo, sin que nadie se los pida: el "mayor defecto" de la máquina es que **no se puede hacer café y vaporizar leche al mismo tiempo**. Tiene un solo termobloque, y la temperatura que necesita el agua para extraer espresso no es la misma que necesita para generar vapor. En la práctica, si ya hiciste tu café y querés espuma para un capuchino, hay que esperar (o liberar agua del vaporizador) para que la caldera baje de temperatura. No es una falla de la unidad: es cómo está construida toda esta línea, y por eso lo contamos antes de que lo descubras en tu cocina.
+
+## El vaporizador pide paciencia
+
+Las mismas reviews describen el vaporizador como "lento" para texturizar leche, algo esperable en una máquina de este tamaño y precio. Se puede lograr una espuma decente y hasta algo de latte art con práctica, pero no es el punto fuerte de la EC685: si tu prioridad es capuchino todos los días, esta no es la máquina que más te va a lucir.
+
+## Para quién tiene sentido
+
+El mismo perfil que la eligió hace años para departamentos chicos y cocinas de poco espacio sigue vigente: alguien que toma uno o dos espressos por día, no vive del capuchino, y valora el tamaño compacto por sobre la velocidad para encadenar preparaciones. Las canastillas presurizadas (vienen de fábrica, para dosis simple y doble) ayudan a que el resultado salga bien incluso si el molido no es perfecto, a costa de un poco de cuerpo real en el espresso frente a una canastilla sin presurizar.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'DeLonghi / Dedica EC685' },
+      { label: 'Tipo', value: 'Cafetera express automática' },
+      { label: 'Presión', value: '15 bares' },
+      { label: 'Termobloque', value: 'Único (no simultáneo café + vapor)' },
+      { label: 'Capacidad de agua', value: '1 litro' },
+      { label: 'Potencia', value: '1.350 W' },
+      { label: 'Filtros', value: 'Canastillas presurizadas (simple y doble)' },
+      { label: 'Admite', value: 'Café molido y cápsulas monodosis' },
+      { label: 'Color', value: 'Plateado' },
+      { label: 'Voltaje', value: '220V' },
+    ],
+    customerReviews: [],
+    faq: [
+      { question: '¿La DeLonghi Dedica EC685 puede hacer café y espumar leche al mismo tiempo?', answer: 'No. Tiene un solo termobloque, así que primero hay que extraer el café y después esperar (o liberar agua del vaporizador) para que la caldera llegue a la temperatura de vapor. Es una limitación de diseño de toda esta línea, confirmada en reviews internacionales de la misma máquina, no un defecto puntual.' },
+      { question: '¿Es difícil hacer espuma de leche con esta máquina?', answer: 'Pide más paciencia que una máquina con caldera doble: el vaporizador es de poca fuerza y tarda en texturizar. Se puede lograr una espuma aceptable con práctica, pero no es el punto fuerte de la EC685.' },
+      { question: '¿Acepta cápsulas o solo café molido?', answer: 'Las dos cosas: viene con canastillas presurizadas para café molido (dosis simple y doble) y admite cápsulas monodosis tipo Nespresso como alternativa cuando no tenés ganas de moler.' },
+      { question: '¿Por qué tiene tan pocas calificaciones si DeLonghi es una marca conocida?', answer: 'Esta publicación puntual todavía acumula pocas calificaciones (2). DeLonghi es una marca premium con menor volumen de ventas en Argentina que las marcas económicas del catálogo, así que la base de opiniones por publicación suele ser más chica. Lo marcamos de frente en vez de maquillarlo.' },
+    ],
+    relatedProducts: ['MLA43581696', 'MLA58312708', 'MLA18562154'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'DeLonghi Dedica EC685',
+      description: 'Cafetera express DeLonghi Dedica EC685, 15 bares, canastillas presurizadas, admite café molido y cápsulas monodosis.',
+      brand: { '@type': 'Brand', name: 'DeLonghi' },
+      model: 'Dedica EC685',
+      sku: 'MLAU3013351760',
+      category: 'Cafeteras express',
+      color: 'Plateado',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_803121-MLA93081104674_092025-F.jpg',
+      url: 'https://productosvirales.com.ar/producto/cafetera-delonghi-dedica-ec685-automatica-plateada-expreso-mlau3013351760',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '742712',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '5.0',
+        reviewCount: '2',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+  },
+
+  {
+    id: 'MLA43581696',
+    title: "Cafetera Con Molino Magnifica Start Ecam21.117.b Color Negro De'Longhi",
+    canonicalName: 'DeLonghi Magnifica Start ECAM21.117.B',
+    brand: 'DeLonghi',
+    price: 1399999,
+    originalPrice: undefined,
+    priceUpdated: "2026-10-17",
+    priceLastChecked: "2026-10-17",
+    priceStatus: "fresh",
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_986248-MLA99509524596_112025-F.jpg',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_986248-MLA99509524596_112025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_780616-MLA80892694771_112024-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_633569-MLA80892413235_112024-F.jpg',
+    ],
+    category: 'Cocina',
+    categorySlug: 'cocina',
+    permalink: 'https://www.mercadolibre.com.ar/cafetera-con-molino-magnifica-start-ecam21117b-color-negro-delonghi/p/MLA43581696',
+    affiliateUrl: 'https://meli.la/1v8VqYk',
+    condition: 'new',
+    freeShipping: true,
+    rating: 5.0,
+    reviewCount: 12,
+    reviewsSampledAt: '2026-10-17',
+    pastelColor: 'var(--pastel-violet)',
+    visibility: 'normal',
+    description: 'Cafetera automática DeLonghi Magnifica Start ECAM21.117.B: molinillo cónico integrado (7 niveles), sistema Twin-Shot para dos espressos a la vez y todo el proceso automatizado, de moler a expulsar la pastilla usada. Vendida y despachada por Mercado Libre (FULL), con buen stock. La curva de aprendizaje es real: una review textual lo resume en una frase.',
+    seoTitle: "DeLonghi Magnifica Start: automática, con molinillo propio",
+    metaDescription: 'DeLonghi Magnifica Start ECAM21.117.B: molinillo cónico, Twin-Shot, todo automático. 5.0★ en {{reviews:MLA43581696}} calificaciones. Mantenimiento real explicado.',
+    pros: [
+      'Proceso 100% automático: muele, compacta, hace pre-infusión, extrae y expulsa la pastilla usada sola',
+      'Molinillo cónico integrado con 7 niveles de ajuste, no depende de un molinillo aparte',
+      'Sistema Twin-Shot: dos espressos simultáneos en la misma extracción',
+      'Función de leche automática para latte macchiato, con jarra apta para lavavajillas',
+      'Vendida y despachada por Mercado Libre (FULL): stock sano y envío rápido',
+      '1 año de garantía de fábrica',
+    ],
+    cons: [
+      '{{reviews:MLA43581696}} calificaciones es una base todavía chica para una máquina de este precio: lo marcamos de frente',
+      'Tiene curva de aprendizaje real: una review textual dice literalmente "hay que aprender a usarla nomas"',
+      'Como toda automática con molinillo integrado, pide mantenimiento que una express no pide: limpiar el grupo de preparado una vez por mes y nunca cargar granos saborizados (dañan el molinillo)',
+      'Existe una variante idéntica vendida por otro seller sin ninguna calificación: elegimos a propósito esta por tener historial real de compradores',
+    ],
+    verdict: 'Si tu prioridad es no pensar en nada (ni moler, ni dosificar, ni limpiar la pastilla) y tomás café con leche seguido, el Twin-Shot y la función automática de latte macchiato la hacen la más cómoda de esta comparativa. El precio es el más alto de los tres y la curva de aprendizaje de los primeros días es real, confirmada por quien ya la compró. A cambio, no hay que comprar ni mantener un molinillo aparte.',
+    articleBody: `## Todo el proceso, en un botón
+
+A diferencia de la Dedica (que necesita que vos muelas, dosifiques y tampes), la Magnifica Start automatiza toda la cadena: muele los granos frescos, compacta la dosis, hace una pre-infusión para humedecer la pastilla antes de la extracción a presión completa, extrae el café y expulsa la pastilla usada, lista para el próximo café. El molinillo cónico integrado tiene 7 niveles de ajuste, así que si tu café sale muy aguado (molido grueso) o la máquina tarda demasiado en extraer (molido muy fino) hay margen para corregirlo sin herramientas externas.
+
+## El Twin-Shot y la leche automática
+
+El sistema Twin-Shot permite sacar dos espressos en una sola extracción, pensado para cuando hay que servir dos cafés casi juntos, algo que en la Dedica de termobloque único es más de trámite. Para café con leche, la función de latte macchiato automatiza también el paso de la espuma: la jarra de leche es apta para lavavajillas, así que la limpieza diaria es simple (purgar el vaporizador y, listo, a la pileta con la jarra).
+
+## El mantenimiento que sí o sí hay que hacer
+
+Esto no es exclusivo de la Magnifica Start: toda cafetera automática DeLonghi con molinillo integrado necesita algo de mantenimiento que una express simple no pide. El grupo de preparado (donde se compacta y extrae el café) acumula residuo con el uso y conviene lavarlo una vez por mes, a mano, sin productos químicos. El contenedor de granos no admite café saborizado: el aceite de los saborizantes puede dañar el molinillo cónico con el tiempo. Y como con cualquier máquina que calcula el sarro por litros de agua pasados (no por sensor), conviene no dejarla sin usar agua filtrada o sin descalcificar cuando corresponde. Nada de esto es complicado, pero sí es otro nivel de cuidado que una cafetera de cápsulas no exige.
+
+## Lo que dice quien ya la compró
+
+Entre las opiniones reales de esta publicación, una lo resume de la forma más honesta posible: "Excelente, hay que aprender a usarla nomas." No es una queja, es una advertencia útil: los primeros cafés no van a ser los mejores hasta que le agarres la mano a los niveles de molienda y a la dosis que más te gusta.`,
+    specs: [
+      { label: 'Marca / Modelo', value: "DeLonghi / Magnifica Start ECAM21.117.B" },
+      { label: 'Tipo', value: 'Cafetera automática con molinillo integrado' },
+      { label: 'Molinillo', value: 'Cónico, 7 niveles de ajuste' },
+      { label: 'Presión', value: '15 bares' },
+      { label: 'Capacidad de agua', value: '1,8 litros' },
+      { label: 'Función especial', value: 'Twin-Shot (2 espressos simultáneos)' },
+      { label: 'Función leche', value: 'Latte macchiato automático, jarra apta lavavajillas' },
+      { label: 'Color', value: 'Negro' },
+      { label: 'Voltaje', value: '220V' },
+      { label: 'Garantía', value: '1 año de fábrica' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', date: '2026-05-12', text: 'Excelente, hay que aprender a usarla nomas.', useful: 0 },
+      { rating: 5, country: 'Argentina', date: '2026-06-03', text: 'Muy bueno.', useful: 0 },
+    ],
+    faq: [
+      { question: '¿La Magnifica Start muele el café sola o hay que comprar un molinillo aparte?', answer: 'Muele sola: tiene un molinillo cónico integrado con 7 niveles de ajuste, pensado para granos frescos. No hace falta (ni conviene mezclarlo con) un molinillo externo.' },
+      { question: '¿Qué es el sistema Twin-Shot?', answer: 'Es la función que permite extraer dos espressos en una sola pasada, útil cuando hay que servir dos cafés casi al mismo tiempo, algo que en una express con un solo grupo de extracción exige preparar uno y después el otro.' },
+      { question: '¿Es difícil de usar al principio?', answer: 'Tiene una curva de aprendizaje real, confirmada por una review textual de un comprador. No es complicada, pero los primeros cafés probablemente no salgan en el punto que más te gusta hasta que ajustes el nivel de molienda.' },
+      { question: '¿Qué mantenimiento necesita además de limpiarla por fuera?', answer: 'Como toda automática con molinillo integrado, el grupo de preparado conviene lavarlo a mano una vez por mes (sin productos químicos) para evitar que se acumule residuo de café. Tampoco hay que cargarle granos saborizados: el aceite puede dañar el molinillo con el tiempo.' },
+      { question: '¿Puedo usar café molido en vez de granos?', answer: 'Las automáticas de esta familia suelen aceptar una dosis de café ya molido como alternativa puntual (por ejemplo, para servir descafeinado sin vaciar el depósito de granos), pero están pensadas para funcionar con granos frescos y el molinillo propio.' },
+    ],
+    relatedProducts: ['MLAU3013351760', 'MLA58312708', 'MLA15705813'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: "DeLonghi Magnifica Start ECAM21.117.B",
+      description: "Cafetera automática DeLonghi Magnifica Start ECAM21.117.B, molinillo cónico integrado, sistema Twin-Shot, función de leche automática.",
+      brand: { '@type': 'Brand', name: 'DeLonghi' },
+      model: 'Magnifica Start ECAM21.117.B',
+      sku: 'MLA43581696',
+      category: 'Cafeteras automáticas',
+      color: 'Negro',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_986248-MLA99509524596_112025-F.jpg',
+      url: "https://productosvirales.com.ar/producto/cafetera-con-molino-magnifica-start-ecam21-117-b-color-negro-de-longhi-mla43581696",
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '1399999',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '5.0',
+        reviewCount: '12',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+  },
+
+  {
+    id: 'MLA58312708',
+    title: 'Cafetera Delonghi Dedica Duo Ec890.m Cold Brew Plateado',
+    canonicalName: 'DeLonghi Dedica Duo EC890.M',
+    brand: 'DeLonghi',
+    price: 1551766,
+    originalPrice: 1939707,
+    priceUpdated: "2026-10-17",
+    priceLastChecked: "2026-10-17",
+    priceStatus: "fresh",
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_940860-MLA99500065220_112025-F.jpg',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_940860-MLA99500065220_112025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_798230-MLA93699574639_092025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_785998-MLA93282566658_092025-F.jpg',
+    ],
+    category: 'Cocina',
+    categorySlug: 'cocina',
+    permalink: 'https://www.mercadolibre.com.ar/cafetera-delonghi-dedica-duo-ec890m-cold-brew-plateado/p/MLA58312708',
+    affiliateUrl: 'https://meli.la/1zEzj3N',
+    condition: 'new',
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 77,
+    reviewsSampledAt: '2026-10-17',
+    pastelColor: 'var(--pastel-blue)',
+    visibility: 'normal',
+    description: 'Cafetera express DeLonghi Dedica Duo EC890.M: la actualización de la Dedica clásica, con tecnología Cold Extraction para cold brew en 5 minutos y varilla My LatteArt. Es la de mayor base de opiniones reales de la comparativa ({{reviews:MLA58312708}} calificaciones, {{rating:MLA58312708}} estrellas). La contra real, confirmada por tres reviews independientes (dos en inglés, una en español con medición propia): el vaporizador de doble pared que evita quemaduras agrega agua de condensación a la leche, diluyendo la espuma.',
+    seoTitle: 'DeLonghi Dedica Duo: cold brew real, vapor con un defecto',
+    metaDescription: 'DeLonghi Dedica Duo EC890.M: cold brew en 5 min, 4.8★ en {{reviews:MLA58312708}} calificaciones. El defecto de diseño del vaporizador que tres reviews confirman por separado.',
+    pros: [
+      'La base de opiniones más grande de la comparativa: {{reviews:MLA58312708}} calificaciones a 4.8 estrellas',
+      'Cold Extraction real: hace cold brew en unos 5 minutos, confirmado y probado por dos reviews independientes',
+      'Pre-infusión incluida de fábrica para una extracción más pareja',
+      'Bandeja de goteo más grande que la Dedica clásica, con una segunda bandeja debajo que atrapa el agua al sacarla para limpiar',
+      'A diferencia de la Dedica original, no obliga a liberar agua y esperar para pasar de café a vapor',
+      'Viene con portafiltro, dos canastillas presurizadas, tamper y jarra de leche incluidos',
+    ],
+    cons: [
+      'El vaporizador es, según una review internacional que compara varias Dedica, "el de menor potencia que probó hasta ahora": tarda bastante en generar el remolino necesario para texturizar',
+      'Un review técnico en español (con mediciones propias y aportes de su comunidad) detectó que el diseño de doble pared del vaporizador (pensado para no quemarte al tocarlo) agrega agua de condensación a la leche durante el vaporizado: entre 13 y 40 gramos extra según el caso, diluyendo algo la grasa y las proteínas de la leche y dejando una espuma menos consistente',
+      'No tiene válvula solenoide: después de cortar la extracción, la máquina sigue goteando agua un rato, hay que anticipar el corte',
+      'Los botones táctiles (capacitivos) a veces se traban en el modo vapor y hace falta reiniciar la máquina, según una review detallada',
+      'El portafiltro no se precalienta solo: conviene pasarle agua caliente de la propia máquina antes de cargar el café',
+    ],
+    verdict: 'Es la Dedica más completa de las tres y la de mejor respaldo real ({{reviews:MLA58312708}} opiniones, lejos de las otras dos). El cold brew funciona de verdad y el café en taza es muy bueno, comparable en una cata a ciegas con una máquina de 1200 euros según un reviewer especializado. El punto flojo, confirmado por tres fuentes independientes y no por una sola unidad con mala suerte, es el vaporizador: es lento, de poca fuerza, y además de diseño agrega agua a la leche. Si tu prioridad es espresso bueno y cold brew, es la mejor opción de la guía. Si lo que más te importa es hacer capuchinos y latte art todos los días, el vaporizador la va a frustrar.',
+    articleBody: `## Lo que confirman tres reviews, no una sola unidad
+
+Cuando un defecto aparece en una sola review, puede ser mala suerte con una unidad puntual. Cuando aparece en tres reviews independientes de dos países distintos, es un patrón de diseño. Eso pasa con el vaporizador de la Dedica Duo: una review en inglés la describe directamente como "la de menor potencia de vapor que he probado hasta ahora, no solo entre las Dedica", y mide que tarda 24-25 segundos en empezar a generar el remolino que texturiza la leche, contra 8 segundos en una máquina de gama más alta de la misma marca.
+
+## El hallazgo técnico: por qué el vapor diluye la leche
+
+Una review en español fue más a fondo y midió algo que conviene saber antes de comprar: el vaporizador de la Duo tiene **doble pared** (para que no te quemes al tocarlo, una mejora real de seguridad), pero ese diseño genera condensación interna que termina agregándose a la leche durante el vaporizado. El propio autor y varios miembros de su comunidad midieron el agua extra agregada, tanto en la Duo como en una Dedica clásica para comparar: la Duo agregó entre 24 y 40 gramos extra en distintas pruebas, contra 13 a 15 gramos en la Dedica sin doble pared. Más agua diluye la leche entre un 10% aproximado en grasa, proteína y lactosa, justo lo que le da cuerpo y brillo a una espuma. El resultado: una espuma un poco menos consistente de lo que debería dar una máquina de este precio. No es un defecto de fabricación de una unidad en particular, es una consecuencia del diseño de seguridad del vaporizador.
+
+## El cold brew, la razón para elegir esta por sobre la Dedica clásica
+
+La función que diferencia a la Duo de la Dedica original es el Cold Extraction: con el portafiltro cargado igual que para un espresso, la máquina hace una extracción a baja presión y temperatura durante unos 5 minutos y entrega un cold brew. Dos reviews independientes lo probaron sin ajustar nada especial (ni molienda ni ratio) y el resultado les sorprendió positivamente: "bastante bueno", con margen para mejorar todavía más si se controla el ratio café-agua con balanza. Para los días de calor, es una función real, no solo un sticker en la caja.
+
+## Lo que dicen los compradores reales
+
+Entre las {{reviews:MLA58312708}} calificaciones de esta publicación hay reviews detalladas y honestas. Una, con 6 meses de uso, cuenta cómo mejoró el resultado cambiando el portafiltro y usando herramientas de precisión: "si además se le cambia el portafiltro y se utilizan herramientas de precisión como escalas y molinillo adecuado, se logra unos espressos muy decentes, que nada tienen que envidiar a cafeterías de especialidad". Otra, con 4 estrellas, marca un límite honesto: preguntó antes de comprar si podía cambiar el kilo de café molido que trae por uno en granos y le dijeron que no, pero aun así concluye que "la cafetera cumple con todo lo que se espera para una máquina hogareña".`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'DeLonghi / Dedica Duo EC890.M' },
+      { label: 'Tipo', value: 'Cafetera express con Cold Extraction' },
+      { label: 'Presión', value: '15 bares' },
+      { label: 'Capacidad de agua', value: '1 litro' },
+      { label: 'Función especial', value: 'Cold Extraction (cold brew en ~5 minutos)' },
+      { label: 'Vaporizador', value: 'My LatteArt, doble pared (anti-quemadura)' },
+      { label: 'Accesorios incluidos', value: 'Portafiltro, 2 canastillas presurizadas, tamper, jarra de leche' },
+      { label: 'Color', value: 'Plateado' },
+      { label: 'Voltaje', value: '220V' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', date: '2026-04-17', text: 'Hermosa y funcional cafetera que me acompaña con dos o 3 cafés por día. Si bien yo le modifiqué algunas cosas, viene con tamper pesado y jarrito (será de 340ml), además de 3 canastas presurizadas dependiendo de la cantidad de café que se desee extraer. Si además se le cambia el portafiltro y se utilizan herramientas de precisión como escalas y molinillo adecuado, se logra unos espressos muy decentes, que nada tienen que envidiar a cafeterías de especialidad.', useful: 8 },
+      { rating: 4, country: 'Argentina', date: '2026-07-17', text: 'Le pongo 4 estrellas porque antes de comprar pregunté si podían cambiar el kilogramo de cafe molido por uno en granos y me dijeron que no. La cafetera cumple con todo lo que se espera para una máquina hogareña. Con un buen café, cambiando los filtros presurizados que vienen de fabrica por unos despresurizados de calidad y un molinillo para expreso, la experiencia pasa a otro nivel.', useful: 4 },
+    ],
+    faq: [
+      { question: '¿La Dedica Duo realmente hace cold brew?', answer: 'Sí. Con el portafiltro cargado, la función Cold Extraction hace una extracción a baja presión y temperatura durante unos 5 minutos. Dos reviews independientes la probaron sin ajustes especiales y el resultado fue bueno, con margen de mejora si se controla el ratio café-agua con balanza.' },
+      { question: '¿Por qué la espuma de leche no queda tan consistente como en otras máquinas?', answer: 'El vaporizador tiene doble pared para evitar quemarte al tocarlo, pero ese diseño genera condensación que se agrega a la leche durante el vaporizado (entre 13 y 40 gramos extra medidos en distintas pruebas independientes). Eso diluye la leche y deja una espuma algo menos consistente. No es una falla de fabricación, es un efecto del diseño de seguridad del vaporizador.' },
+      { question: '¿Por qué sigue saliendo agua después de cortar el café?', answer: 'Esta máquina no tiene válvula solenoide, un componente que en otras cafeteras corta el goteo residual de forma inmediata. Acá hay que anticipar el corte unos segundos antes del volumen que buscás, porque va a seguir goteando un poco después de presionar el botón.' },
+      { question: '¿Viene con todos los accesorios para hacer café en casa?', answer: 'Sí: incluye portafiltro, dos canastillas presurizadas (simple y doble), un tamper y una jarra de leche. Lo único que no trae es un molinillo: si querés mejorar el resultado, dos reviews reales de compradores coinciden en que sumar un molinillo propio para espresso es el salto de calidad más grande.' },
+      { question: '¿Hay que precalentar el portafiltro antes de cargar el café?', answer: 'Conviene hacerlo: el portafiltro no se calienta solo con la máquina encendida. Pasarle agua caliente de la propia cafetera un momento antes de cargar el café ayuda a que la extracción mantenga mejor la temperatura.' },
+    ],
+    relatedProducts: ['MLAU3013351760', 'MLA43581696', 'MLA18562154'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'DeLonghi Dedica Duo EC890.M',
+      description: 'Cafetera express DeLonghi Dedica Duo EC890.M con tecnología Cold Extraction para cold brew y vaporizador My LatteArt de doble pared.',
+      brand: { '@type': 'Brand', name: 'DeLonghi' },
+      model: 'Dedica Duo EC890.M',
+      sku: 'MLA58312708',
+      category: 'Cafeteras express',
+      color: 'Plateado',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_940860-MLA99500065220_112025-F.jpg',
+      url: 'https://productosvirales.com.ar/producto/cafetera-delonghi-dedica-duo-ec890-m-cold-brew-plateado-mla58312708',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '1551766',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.8',
+        reviewCount: '77',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+  },
+
+  {
+    id: 'MLA37729066',
+    title: "Cafetera Espresso Delonghi Specialista Arte Evo Ec9255.m Color Gris",
+    canonicalName: 'DeLonghi La Specialista Arte Evo EC9255.M',
+    brand: 'DeLonghi',
+    price: 2399999,
+    originalPrice: undefined,
+    priceUpdated: "2026-10-17",
+    priceLastChecked: "2026-10-17",
+    priceStatus: "fresh",
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_857184-MLA100001508923_112025-F.jpg',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_857184-MLA100001508923_112025-F.jpg',
+    ],
+    category: 'Cocina',
+    categorySlug: 'cocina',
+    permalink: 'https://www.mercadolibre.com.ar/cafetera-espresso-delonghi-specialista-arte-evo-ec9255m-color-gris/p/MLA37729066',
+    affiliateUrl: 'https://meli.la/1bBXfKm',
+    condition: 'new',
+    freeShipping: true,
+    rating: 5.0,
+    reviewCount: 5,
+    reviewsSampledAt: '2026-10-17',
+    pastelColor: 'var(--pastel-green)',
+    visibility: 'normal',
+    description: 'Cafetera DeLonghi La Specialista Arte Evo EC9255.M: la línea "barista en casa" de la marca, con molinillo cónico integrado (8 niveles), manómetro de presión visible y vaporizador manual tradicional. La más orientada a quien quiere controlar el proceso, no automatizarlo del todo. Vendida por la tienda oficial de Braun en Mercado Libre, con stock sano.',
+    seoTitle: 'DeLonghi La Specialista Arte Evo: la barista en casa',
+    metaDescription: 'DeLonghi La Specialista Arte Evo EC9255.M: molinillo integrado, manómetro de presión, vaporizador manual. 5.0★ en {{reviews:MLA37729066}} calificaciones.',
+    pros: [
+      'Molinillo cónico integrado con 8 niveles de ajuste, pensado para controlar la molienda como en una express de verdad',
+      'Manómetro de presión visible en el panel, algo que ninguna otra DeLonghi de esta guía tiene',
+      'Vaporizador manual tradicional, para quien prefiere practicar la técnica en vez de depender de una función automática',
+      'Vendida por la tienda oficial de Braun en Mercado Libre, con buen stock (+5 disponibles)',
+      '1 año de garantía de fábrica',
+    ],
+    cons: [
+      'Solo {{reviews:MLA37729066}} calificaciones en esta publicación: base de opiniones chica, lo decimos de frente',
+      'Una de las reseñas disponibles viene de la región (Perú), no de Argentina: las calificaciones de MercadoLibre se comparten entre países, así que no todo el historial es local',
+      'Pide más curva de aprendizaje que las automáticas de esta guía: hay que configurar molienda, dosis y vapor a mano',
+      'Es de las más caras de la comparativa, en la misma franja que la Rivelia superautomática',
+    ],
+    verdict: 'Es la DeLonghi para quien quiere meter mano en el proceso, no para quien busca apretar un botón: molinillo propio, manómetro de presión y vaporizador manual, pensada para practicar la técnica de barista en casa. Si lo que buscás es automatización total, la Magnifica Start (en cualquiera de sus dos variantes de esta guía) te va a rendir más por el mismo presupuesto o menos.',
+    articleBody: `## La "barista en casa" de la gama DeLonghi
+
+A diferencia de las Dedica (manuales simples) y las Magnifica (automáticas de botón), la Specialista Arte Evo está pensada para quien quiere ejercitar la técnica de barista en casa: tiene molinillo cónico integrado con 8 niveles de ajuste, un manómetro de presión visible en el panel (para ver en tiempo real cómo está extrayendo el café) y un vaporizador manual tradicional en vez de una función automática de leche. Es, de las cinco DeLonghi de esta guía, la que más se acerca a una máquina de cafetería en miniatura.
+
+## Una aclaración honesta sobre las reseñas
+
+Esta publicación tiene {{reviews:MLA37729066}} calificaciones a {{rating:MLA37729066}} estrellas, una base todavía chica. Una de las reseñas disponibles viene de un comprador de Perú, no de Argentina: MercadoLibre comparte el sistema de calificaciones entre varios países de la región, así que no todo el historial que ves es necesariamente de compradores locales. Lo marcamos para que no asumas que esas opiniones son todas argentinas. Dicho esto, la reseña en sí es sustanciosa: "Excelente para un aficionado. Prepara espressos de muy buena calidad. Hay que configurar pero no es complicado."
+
+## Para quién tiene sentido
+
+Si tu idea de una buena cafetera es apretar un botón y listo, esta no es la DeLonghi que te conviene: para eso están las dos Magnifica de esta guía. Pero si te gusta la idea de ajustar la molienda, mirar el manómetro mientras extrae y practicar el vaporizador a mano, la Specialista Arte Evo ofrece ese control por un precio bastante más accesible que subir a una máquina semi-profesional de verdad.`,
+    specs: [
+      { label: 'Marca / Modelo', value: "DeLonghi / La Specialista Arte Evo EC9255.M" },
+      { label: 'Tipo', value: 'Cafetera automática con molinillo integrado' },
+      { label: 'Tecnología', value: 'Super automática' },
+      { label: 'Molinillo', value: 'Cónico, 8 niveles de ajuste' },
+      { label: 'Presión', value: '15 bares, con manómetro visible' },
+      { label: 'Capacidad de agua', value: '1,7 litros' },
+      { label: 'Potencia', value: '1.450 W' },
+      { label: 'Vaporizador', value: 'Manual, tradicional' },
+      { label: 'Bebidas recomendadas', value: 'Expreso, capuchino, latte' },
+      { label: 'Color', value: 'Gris' },
+      { label: 'Voltaje', value: '220V' },
+      { label: 'Garantía', value: '1 año de fábrica' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Perú', date: '2026-06-17', text: 'Excelente para un aficionado. Prepara espressos de muy buena calidad. Hay que configurar pero no es complicado.', useful: 2 },
+    ],
+    faq: [
+      { question: '¿La Specialista Arte Evo muele el café sola?', answer: 'Sí, tiene molinillo cónico integrado con 8 niveles de ajuste, el rango más amplio de las DeLonghi de esta guía. A diferencia de la Magnifica Start, el vaporizador es manual, no automático.' },
+      { question: '¿Para qué sirve el manómetro de presión?', answer: 'Muestra en tiempo real la presión de extracción, algo que las automáticas y las Dedica de esta guía no tienen. Es una herramienta pensada para quien quiere ajustar la molienda y la dosis mirando cómo responde la máquina, como en una cafetería.' },
+      { question: '¿Las calificaciones son todas de Argentina?', answer: 'No necesariamente: una de las reseñas disponibles es de un comprador de Perú. MercadoLibre comparte el sistema de calificaciones entre países de la región, así que la base de opiniones no es 100% local. Lo aclaramos para que lo tengas en cuenta.' },
+      { question: '¿Conviene esta o la Magnifica Start?', answer: 'Depende de cuánto control querés sobre el proceso. La Specialista Arte Evo tiene vaporizador manual y manómetro, pensada para practicar técnica de barista. La Magnifica Start (en sus dos variantes de esta guía) automatiza todo, incluida la leche, y en su versión ECAM21.117.B cuesta bastante menos.' },
+    ],
+    relatedProducts: ['MLA43581696', 'MLA39987014', 'MLA58312708'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: "DeLonghi La Specialista Arte Evo EC9255.M",
+      description: "Cafetera DeLonghi La Specialista Arte Evo EC9255.M, molinillo cónico integrado de 8 niveles, manómetro de presión, vaporizador manual.",
+      brand: { '@type': 'Brand', name: 'DeLonghi' },
+      model: 'La Specialista Arte Evo EC9255.M',
+      sku: 'MLA37729066',
+      category: 'Cafeteras automáticas',
+      color: 'Gris',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_857184-MLA100001508923_112025-F.jpg',
+      url: "https://productosvirales.com.ar/producto/cafetera-espresso-delonghi-specialista-arte-evo-ec9255-m-color-gris-mla37729066",
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '2399999',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '5.0',
+        reviewCount: '5',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+  },
+
+  {
     id: 'MLA19769919',
     title: 'Afeitadora Remington R31a Rotativo Recargable Usb Color Negro',
     canonicalName: 'Remington R31A Rotativo',
