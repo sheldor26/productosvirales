@@ -57865,6 +57865,316 @@ Si lo que buscás es la comodidad de apretar un botón y tener espresso con lech
   },
 
   {
+    id: 'MLA20008369',
+    title: 'Cafetera Filtro Atma Semi Automática 1.5l Ca8143dhfp Negra Color Negro',
+    canonicalName: 'Atma CA8143DHFP',
+    brand: 'Atma',
+    price: 57527,
+    originalPrice: 78615,
+    priceUpdated: "2026-10-17",
+    priceLastChecked: "2026-10-17",
+    priceStatus: "fresh",
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_940009-MLA99941650637_112025-F.jpg',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_940009-MLA99941650637_112025-F.jpg',
+    ],
+    category: 'Cocina',
+    categorySlug: 'cocina',
+    permalink: 'https://www.mercadolibre.com.ar/cafetera-filtro-atma-semi-automatica-15l-ca8143dhfp-negra-color-negro/p/MLA20008369',
+    affiliateUrl: 'https://meli.la/2MmtEhB',
+    condition: 'new',
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 1243,
+    reviewsSampledAt: '2026-10-17',
+    pastelColor: 'var(--pastel-slate)',
+    visibility: 'normal',
+    description: 'Cafetera de filtro Atma CA8143DHFP: 6° en el ranking de cafeteras de MercadoLibre Argentina, con {{reviews:MLA20008369}} calificaciones a {{rating:MLA20008369}} estrellas. Filtro permanente, antigoteo y jarra para hasta 10 tazas. La actualización de la CA8133 de esta misma marca, con mejor rating y más historial.',
+    seoTitle: 'Atma CA8143DHFP: la cafetera de filtro mejor calificada',
+    metaDescription: 'Atma CA8143DHFP: filtro permanente, antigoteo, hasta 10 tazas. 4.8★ en {{reviews:MLA20008369}} calificaciones por {{precio:MLA20008369}}, 6° en el ranking de cafeteras de MercadoLibre.',
+    pros: [
+      '6° en el ranking de cafeteras más vendidas de MercadoLibre Argentina, con {{reviews:MLA20008369}} calificaciones a {{rating:MLA20008369}} estrellas',
+      'Filtro permanente incluido: no hay que comprar filtros de papel',
+      'Antigoteo: se puede servir una taza antes de que termine el ciclo',
+      'Jarra de vidrio para hasta 10 tazas chicas',
+      'Vendida por Tienda oficial Cetrogar, con buen stock (+5 disponibles)',
+      '12 meses de garantía de fábrica',
+    ],
+    cons: [
+      'Es la básica de la línea: sin pantalla digital, sin temporizador programable',
+      'Potencia de 850 W, menor que la de los modelos digitales de esta misma guía',
+      'Como toda cafetera con resistencia eléctrica, si un día prende pero no calienta el agua, la causa más común (según un video de reparación de esta misma marca) es un fusible térmico quemado: una pieza barata de reemplazar, no motivo para tirarla',
+    ],
+    verdict: 'Es la cafetera de filtro Atma con mejor respaldo de todo el catálogo: {{reviews:MLA20008369}} calificaciones a {{rating:MLA20008369}} estrellas, 6° en el ranking general de cafeteras de MercadoLibre. Sin pantalla ni temporizador, pero cumple lo esencial (filtro permanente, antigoteo, buena capacidad) a un precio bajo y con un historial de compradores enorme.',
+    articleBody: `## La cafetera de filtro mejor calificada de Atma
+
+La CA8143DHFP es, con {{reviews:MLA20008369}} calificaciones a {{rating:MLA20008369}} estrellas, la cafetera de filtro Atma con mejor respaldo de todo nuestro catálogo, por encima incluso de la CA8133 ({{reviews:MLA14735678}} calificaciones). Es la versión actualizada de esa misma línea: filtro permanente, sistema antigoteo y jarra de vidrio para hasta 10 tazas, con 850 W de potencia.
+
+## Cómo usarla bien, según quien ya la tiene
+
+Un video de un usuario real resume la operación básica de este tipo de cafetera Atma: se carga agua hasta la primera marca para una taza y media, se agrega una cucharadita colmada de café molido por persona, y se enciende. El aviso útil es auditivo: la máquina hace un ruido constante mientras el agua pasa, y cuando ese ruido cambia y empieza a "ahogarse", es la señal de que el café está listo.
+
+## Si algún día prende pero no calienta
+
+Esto no es específico de esta publicación, pero vale la pena saberlo: un video de reparación de un técnico que trabaja con esta marca explica que la falla más común cuando una cafetera Atma enciende (la lucecita prende) pero no hace ruido ni calienta el agua es un **fusible térmico quemado**, una pieza chica y barata ubicada junto a la resistencia. No hace falta tirar la máquina ante esa falla: es una reparación sencilla para un técnico de electrodomésticos.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'Atma / CA8143DHFP' },
+      { label: 'Tipo', value: 'Cafetera de filtro semiautomática' },
+      { label: 'Voltaje', value: '220V' },
+      { label: 'Potencia', value: '850 W' },
+      { label: 'Capacidad', value: '1,5 litros (hasta 10 tazas)' },
+      { label: 'Filtro', value: 'Permanente' },
+      { label: 'Antigoteo', value: 'Sí' },
+      { label: 'Color', value: 'Negro' },
+      { label: 'Garantía', value: '12 meses de fábrica' },
+    ],
+    customerReviews: [
+      { rating: 4, country: 'Argentina', date: '2025-10-17', text: 'Estoy emocionado de compartir mi experiencia con esta cafetera, que fue el regalo ideal para el casamiento de mi querido amigo. Desde el primer día, ha sido el compañero inseparable de sus mañanas. Lo que realmente hace que esta cafetera sobresalga es el valor sentimental que tiene para la pareja. Cada taza de café que comparten representa el comienzo de una nueva vida juntos.', useful: 15 },
+    ],
+    faq: [
+      { question: '¿Trae filtro permanente o hay que comprar filtros de papel?', answer: 'Trae filtro permanente incluido: no hay que comprar ni reponer filtros de papel.' },
+      { question: '¿Cuántas tazas prepara?', answer: 'La jarra de vidrio rinde hasta 10 tazas chicas, con capacidad total de 1,5 litros.' },
+      { question: '¿Qué hago si la cafetera prende pero no hace café?', answer: 'Según un video de reparación de esta marca, la causa más común cuando enciende pero no calienta ni hace ruido es un fusible térmico quemado, una pieza chica y barata que un técnico de electrodomésticos puede reemplazar sin necesidad de comprar una máquina nueva.' },
+      { question: '¿Cómo sé cuándo está listo el café?', answer: 'Según usuarios reales, la máquina hace un ruido constante mientras pasa el agua; cuando ese ruido cambia y empieza a "ahogarse", es la señal de que terminó.' },
+    ],
+    relatedProducts: ['MLA14735678', 'MLA21239144', 'MLA27953621'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Atma CA8143DHFP',
+      description: 'Cafetera de filtro Atma CA8143DHFP, filtro permanente, antigoteo, 1.5 litros.',
+      brand: { '@type': 'Brand', name: 'Atma' },
+      model: 'CA8143DHFP',
+      sku: 'MLA20008369',
+      category: 'Cafeteras de filtro',
+      color: 'Negro',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_940009-MLA99941650637_112025-F.jpg',
+      url: 'https://productosvirales.com.ar/producto/cafetera-filtro-atma-semi-automatica-1-5l-ca8143dhfp-negra-color-negro-mla20008369',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '57527',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.8',
+        reviewCount: '1243',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+  },
+
+  {
+    id: 'MLA21239144',
+    title: 'Cafetera Digital De Filtro Automatica Con Timer Ca8182p Atma',
+    canonicalName: 'Atma CA8182P',
+    brand: 'Atma',
+    price: 125000,
+    originalPrice: undefined,
+    priceUpdated: "2026-10-17",
+    priceLastChecked: "2026-10-17",
+    priceStatus: "fresh",
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_746249-MLA99451199974_112025-F.jpg',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_746249-MLA99451199974_112025-F.jpg',
+    ],
+    category: 'Cocina',
+    categorySlug: 'cocina',
+    permalink: 'https://www.mercadolibre.com.ar/cafetera-digital-de-filtro-automatica-con-timer-ca8182p-atma/p/MLA21239144',
+    affiliateUrl: 'https://meli.la/2aJKCDU',
+    condition: 'new',
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 1745,
+    reviewsSampledAt: '2026-10-17',
+    pastelColor: 'var(--pastel-blue)',
+    visibility: 'normal',
+    description: 'Cafetera de filtro digital Atma CA8182P: temporizador programable para despertarte con el café listo, 1,8 litros (hasta 15 tazas) y filtro permanente. Con {{reviews:MLA21239144}} calificaciones, es la Atma con más historial de toda esta comparativa. Publicación con 14 ofertas de distintos vendedores desde $125.000.',
+    seoTitle: 'Atma CA8182P: filtro con temporizador programable',
+    metaDescription: 'Atma CA8182P: temporizador programable, 1.8L, filtro permanente. 4.7★ en {{reviews:MLA21239144}} calificaciones por {{precio:MLA21239144}}.',
+    pros: [
+      'La Atma con más calificaciones de toda esta comparativa: {{reviews:MLA21239144}} a 4.7 estrellas',
+      'Temporizador programable: configurás la hora de inicio y te despertás con el café listo',
+      'Capacidad de 1,8 litros, hasta 15 tazas en un solo ciclo',
+      'Filtro permanente y antigoteo incluidos',
+      'Publicación con 14 ofertas de distintos vendedores desde $125.000: si uno tiene poco stock, hay alternativas',
+    ],
+    cons: [
+      'Una reseña real (4 estrellas) avisa que la tapa superior se deforma un poco con el calor de uso: cierra bien cuando está fría, pero pierde un poco el encastre después de calentarse y enfriarse varias veces; no afecta el funcionamiento ni el café',
+      'Más cara que la CA8143DHFP de esta misma guía, que cubre lo esencial sin temporizador',
+      'Como toda cafetera con resistencia eléctrica, la falla más común si deja de calentar es el fusible térmico, una pieza económica de reemplazar',
+    ],
+    verdict: 'Es la cafetera de filtro Atma más completa: temporizador programable, buena capacidad y la base de opiniones más grande de esta comparativa. El único defecto real que señalan las reseñas es cosmético (la tapa se deforma un poco con el calor) y no afecta el café. Para quien quiere despertarse con el café listo sin pagar el salto a una automática de verdad, es la opción.',
+    articleBody: `## Temporizador programable: la función que la diferencia
+
+La CA8182P suma lo que la CA8143DHFP de esta guía no tiene: un temporizador programable que permite configurar la hora de inicio, para despertarte con el café recién hecho. Con capacidad de 1,8 litros (hasta 15 tazas) y {{reviews:MLA21239144}} calificaciones a 4.7 estrellas, es la Atma con más historial de toda esta comparativa.
+
+## Lo que avisa una reseña real
+
+Una reseña de 4 estrellas señala un defecto cosmético concreto: "desde el primer uso la tapa de arriba se dobló del propio calor de la cafetera y ya no cierra del todo. Cada vez que la uso y se vuelve a calentar el plástico, es como que vuelve a su forma original y se puede volver a cerrar con el 'click' de cierre, pero luego se enfría y vuelve a quedar mal." El mismo comprador aclara que, fuera de ese detalle, "no influye en el uso o en el café, está genial". Es el tipo de contra menor que vale la pena conocer antes de comprar, sin que cambie la recomendación.
+
+## Si algún día deja de calentar
+
+Como toda cafetera Atma con resistencia eléctrica, si algún día enciende pero no calienta el agua ni hace ruido, un video de reparación de la marca identifica al fusible térmico quemado como la causa más común: una pieza chica y barata, no un motivo para reemplazar la máquina entera.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'Atma / CA8182P' },
+      { label: 'Tipo', value: 'Cafetera de filtro digital automática' },
+      { label: 'Voltaje', value: '220V' },
+      { label: 'Capacidad', value: '1,8 litros (hasta 15 tazas)' },
+      { label: 'Temporizador', value: 'Programable' },
+      { label: 'Filtro', value: 'Permanente' },
+      { label: 'Antigoteo', value: 'Sí' },
+      { label: 'Color', value: 'Negro / acero' },
+      { label: 'Garantía', value: '12 meses de fábrica' },
+    ],
+    customerReviews: [
+      { rating: 4, country: 'Argentina', date: '2025-06-17', text: 'Como primer cafetera es un lujo. En contra me gustaria decir que desde el primer uso la tapa de arriba se doblo del propio calor de la cafetera y ya no cierra del todo. Cada vez que la uso y se vuelve a calentar el plastico, es como que vuelve a su forma original y se puede volver a cerrar con el "click" de cierre, pero luego se enfria y vuelve a quedar mal. Fuera de ese detalle que no influye en el uso o en el cafe, esta genial.', useful: 11 },
+    ],
+    faq: [
+      { question: '¿Cómo funciona el temporizador programable?', answer: 'Permite configurar la hora a la que querés que la cafetera empiece a preparar el café, para despertarte o llegar de trabajar y tenerlo listo. Es la principal diferencia frente a la CA8143DHFP de esta guía, que no tiene esta función.' },
+      { question: '¿Es cierto que la tapa se deforma con el uso?', answer: 'Según una reseña real, sí: la tapa superior se dobla un poco por el calor y después de varios ciclos de calentarse y enfriarse pierde precisión en el cierre. El mismo comprador aclara que es un defecto cosmético que no afecta el funcionamiento ni el sabor del café.' },
+      { question: '¿Cuántas tazas prepara de una vez?', answer: 'Hasta 15 tazas en un solo ciclo, con una capacidad de 1,8 litros.' },
+      { question: '¿Por qué hay varias ofertas a distintos precios para el mismo producto?', answer: 'Esta publicación agrupa 14 ofertas de distintos vendedores desde $125.000. Es normal en MercadoLibre para productos de alta rotación: convine revisar las opciones de compra si el primer vendedor que aparece tiene poco stock.' },
+    ],
+    relatedProducts: ['MLA20008369', 'MLA14735678', 'MLA27953621'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Atma CA8182P',
+      description: 'Cafetera de filtro digital Atma CA8182P, temporizador programable, 1.8 litros, filtro permanente.',
+      brand: { '@type': 'Brand', name: 'Atma' },
+      model: 'CA8182P',
+      sku: 'MLA21239144',
+      category: 'Cafeteras de filtro',
+      color: 'Negro',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_746249-MLA99451199974_112025-F.jpg',
+      url: 'https://productosvirales.com.ar/producto/cafetera-digital-de-filtro-automatica-con-timer-ca8182p-atma-mla21239144',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '125000',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.7',
+        reviewCount: '1745',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+  },
+
+  {
+    id: 'MLA27953621',
+    title: 'Cafetera Express Digital Atma Pro Ceat5403gp 1,5 L Negro',
+    canonicalName: 'Atma Pro CEAT5403GP',
+    brand: 'Atma',
+    price: 239582,
+    originalPrice: undefined,
+    priceUpdated: "2026-10-17",
+    priceLastChecked: "2026-10-17",
+    priceStatus: "fresh",
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_749119-MLA99975580437_112025-F.jpg',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_749119-MLA99975580437_112025-F.jpg',
+    ],
+    category: 'Cocina',
+    categorySlug: 'cocina',
+    permalink: 'https://www.mercadolibre.com.ar/cafetera-express-digital-atma-pro-ceat5403gp-15-l-negro/p/MLA27953621',
+    affiliateUrl: 'https://meli.la/1og5A45',
+    condition: 'new',
+    freeShipping: true,
+    rating: 4.6,
+    reviewCount: 1200,
+    reviewsSampledAt: '2026-10-17',
+    pastelColor: 'var(--pastel-pink)',
+    visibility: 'normal',
+    description: 'Cafetera express digital Atma Pro CEAT5403GP: sistema dual (café molido o cápsulas tipo Nespresso), bomba de 20 bar y doble boquilla para 2 tazas a la vez. La única express de esta comparativa de Atma, vendida por la Tienda Oficial Frávega con {{reviews:MLA27953621}} calificaciones.',
+    seoTitle: 'Atma Pro CEAT5403GP: espresso con cápsulas o molido',
+    metaDescription: 'Atma Pro CEAT5403GP: espresso digital, 20 bar, café molido o cápsulas Nespresso. 4.6★ en {{reviews:MLA27953621}} calificaciones por {{precio:MLA27953621}}.',
+    pros: [
+      'Sistema dual: acepta café molido o cápsulas compatibles tipo Nespresso',
+      'Bomba de 20 bar, de las más altas de esta comparativa de marcas',
+      'Doble boquilla: 2 tazas de café al mismo tiempo',
+      'Depósito de agua de 1,5 litros, para varias tazas sin recargar',
+      '{{reviews:MLA27953621}} calificaciones a 4.6 estrellas, vendida por la Tienda Oficial Frávega con buen stock (+25 disponibles)',
+    ],
+    cons: [
+      'El vaporizador de leche hay que limpiarlo después de cada uso (purgándolo con agua) para que no se tape, según una reseña detallada',
+      'Es la más cara de las cuatro Atma de esta comparativa, por lejos',
+      'No tiene molinillo integrado: si usás café molido, hay que comprarlo o molerlo aparte',
+    ],
+    verdict: 'Es la apuesta de Atma por el formato express, con sistema dual (molido o cápsulas), 20 bar de presión y una base de más de 1.000 calificaciones reales que confirman que el café sale "de cafetería". Para quien quiere espresso de verdad sin pagar el precio de DeLonghi o Philips, es la opción más accesible de esta comparativa de marcas.',
+    articleBody: `## La única express de la línea Atma
+
+A diferencia de las otras tres Atma de esta guía (todas de filtro), la CEAT5403GP es una express de verdad: bomba de 20 bar, sistema dual que acepta café molido o cápsulas compatibles tipo Nespresso, y doble boquilla para preparar dos tazas al mismo tiempo. Con {{reviews:MLA27953621}} calificaciones a 4.6 estrellas, tiene un respaldo real importante para una máquina de este tipo.
+
+## Una reseña detallada y honesta
+
+Una review con muchos votos de "útil" cuenta su experiencia con lujo de detalle: "el café sale de cafetería, el café lo hice con el café de filtro sin ningún problema [...] la leche sale super espumosa, lo único que aconsejo es que cada vez que se use el espumador se limpie con agua con el mismo procedimiento que usás para hacer la espuma porque me dijeron que se puede tapar." La misma reseña aclara, respondiendo a una duda común, que no sintió "olor a plástico como leí en otros comentarios" — una forma honesta de confirmar que esa queja existe en otras unidades, pero no es universal.
+
+## Para quién tiene sentido
+
+Si lo que buscás es espresso real (no café de filtro) sin pagar el precio de una DeLonghi o una Philips, la CEAT5403GP de Atma es la opción más accesible de todas las marcas que comparamos en esta serie. El sistema dual con cápsulas Nespresso compatibles suma flexibilidad para los días sin ganas de moler.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'Atma / Pro CEAT5403GP' },
+      { label: 'Tipo', value: 'Cafetera express digital' },
+      { label: 'Voltaje', value: '220V' },
+      { label: 'Presión', value: '20 bar' },
+      { label: 'Capacidad de agua', value: '1,5 litros' },
+      { label: 'Sistema', value: 'Dual: café molido o cápsulas tipo Nespresso' },
+      { label: 'Boquilla', value: 'Doble (2 tazas simultáneas)' },
+      { label: 'Vaporizador', value: 'Manual, requiere limpieza tras cada uso' },
+      { label: 'Color', value: 'Plateado / negro' },
+    ],
+    customerReviews: [
+      { rating: 4, country: 'Argentina', date: '2025-07-17', text: 'Hola voy a contar mi experiencia, di muchas vueltas hasta comprarme la cafetera y la verdad que no me arrepiento, es de un tamaño mediano y el café sale de cafetería, el café lo hice con el café de filtro sin ningún problema. Para q salga caliente lo ideal es tener la cafetera prendida un rato antes. La leche sale super espumosa, lo único q aconsejo q cada vez q se use el espumadera se limpie con agua con el mismo procedimiento q usas para hacer la espuma porque me dijeron q se puede tapar. Ya es el 4to café q me hago y no tuve problemas, salen riquísimos. En mi caso no siento olor a plástico como leí en otros comentarios.', useful: 128 },
+    ],
+    faq: [
+      { question: '¿Acepta cápsulas Nespresso?', answer: 'Sí, tiene sistema dual: acepta tanto café molido como cápsulas compatibles tipo Nespresso, para elegir según el día.' },
+      { question: '¿Hay que limpiar el vaporizador después de cada uso?', answer: 'Sí, según una reseña detallada conviene purgarlo con agua cada vez que se usa para espumar leche, porque si no se puede tapar. Es un paso de mantenimiento rápido, no un defecto de la máquina.' },
+      { question: '¿Huele a plástico cuando está nueva?', answer: 'Depende de la unidad: una reseña detallada aclara explícitamente que no sintió ese olor, aunque menciona que vio esa queja en otros comentarios. Es algo a verificar al estrenarla, ventilando la cocina los primeros usos si notás olor.' },
+      { question: '¿Hace dos cafés a la vez?', answer: 'Sí, tiene doble boquilla que permite servir dos tazas al mismo tiempo en un solo ciclo.' },
+    ],
+    relatedProducts: ['MLA20008369', 'MLA21239144', 'MLA14735678'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Atma Pro CEAT5403GP',
+      description: 'Cafetera express digital Atma Pro CEAT5403GP, sistema dual molido/cápsulas, 20 bar, doble boquilla.',
+      brand: { '@type': 'Brand', name: 'Atma' },
+      model: 'Pro CEAT5403GP',
+      sku: 'MLA27953621',
+      category: 'Cafeteras express',
+      color: 'Plateado',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_749119-MLA99975580437_112025-F.jpg',
+      url: 'https://productosvirales.com.ar/producto/cafetera-express-digital-atma-pro-ceat5403gp-1-5-l-negro-mla27953621',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '239582',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.6',
+        reviewCount: '1200',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+  },
+
+  {
     id: 'MLA19769919',
     title: 'Afeitadora Remington R31a Rotativo Recargable Usb Color Negro',
     canonicalName: 'Remington R31A Rotativo',
