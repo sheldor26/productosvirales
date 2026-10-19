@@ -2142,8 +2142,8 @@ export const guides: Guide[] = [
     category: "cocina",
     silo: "cocina",
     title: `Robot de cocina: cuál comprar en Argentina [2026]`,
-    seoTitle: `Robot de Cocina: Cuál Comprar en Argentina (Guía 2026)`,
-    metaDescription: `Elegí un robot de cocina en Argentina: qué hace, Thermomix vs las opciones económicas, qué mirar y cuál conviene comprar, con datos reales.`,
+    seoTitle: `Mejor Robot de Cocina en Argentina [2026]: Thermomix vs Opciones Económicas`,
+    metaDescription: `Comparamos robots de cocina reales de MercadoLibre: cuál reemplaza a la Thermomix, cuáles cocinan de verdad y cuáles son solo procesadoras con otro nombre.`,
     ogTitle: `Robot de cocina: cuál comprar (y si vale la pena)`,
     ogDescription: `Qué hace un robot de cocina, para quién sí y para quién no, Thermomix vs los económicos, y cuál conviene según tu presupuesto. La guía honesta, con precios reales de MercadoLibre.`,
     ogImage: `https://http2.mlstatic.com/D_NQ_NP_631696-MLA99413419718_112025-F.jpg`,
@@ -14819,8 +14819,8 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     slug: "mejores-perfumes-arabes-hombre",
     category: "perfumes-arabes",
     title: "Perfume árabe hombre: los 13 mejores de Argentina 2026",
-    seoTitle: "Perfume árabe hombre: los 13 mejores de Argentina 2026",
-    metaDescription: "Descubrí los 13 mejores perfumes árabes para hombre en Argentina 2026: Asad, 9PM, Khamrah Qahwa y más, con precios reales y duración probada.",
+    seoTitle: "Perfumes Árabes para Hombre: Los 13 Mejores en Argentina [2026]",
+    metaDescription: "Los 13 mejores perfumes árabes para hombre con precio real en MercadoLibre: Asad, 9PM, Khamrah Qahwa y más. Cuál dura más y cuál se parece a cuál perfume de marca.",
     ogTitle: "Mejores perfumes árabes de hombre 2026: el ranking probado en Argentina",
     ogDescription: "De Asad Intense a Afnan 9PM. Los 13 árabes masculinos que más se venden en Argentina, con duración real, precios y los dupes de los clásicos caros.",
     h1: "Los 13 mejores perfumes árabes para hombre en Argentina (2026)",
@@ -14835,7 +14835,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { productMlaId: "MLAU3800115477", label: "Para empezar", labelColor: "purple", tagline: "Kit de 4 miniaturas 35ml para probar antes de comprar un 100ml." },
     ],
     intro: [
-      "Hace dos años, comprar un Creed Aventus en Argentina costaba 8 sueldos mínimos. Hoy sigue costando eso. La diferencia es que ahora hay fragancias árabes que logran un perfil olfativo muy parecido a un décimo del precio, y el mercado masculino argentino lo notó. Lattafa, Afnan, Rasasi y Armaf se volvieron nombres conocidos en un nicho que hace poco era desconocido fuera de Medio Oriente.",
+      "Hace dos años, comprar un Creed Aventus en Argentina costaba 8 sueldos mínimos. Hoy sigue costando eso. La diferencia es que ahora hay [perfumes árabes](/guias/perfumes-arabes) que logran un perfil olfativo muy parecido a un décimo del precio, y el mercado masculino argentino lo notó. Lattafa, Afnan, Rasasi y Armaf se volvieron nombres conocidos en un nicho que hace poco era desconocido fuera de Medio Oriente.",
       "Este ranking no está armado con los \"más caros\" ni con los \"más raros\". Son los que funcionan: ventas reales en Argentina, valoración consistente de usuarios, y experiencia directa con cada uno.",
       "Acá van solo los masculinos. Si querés el panorama completo del país sin separar por género, con femeninos y unisex incluidos, la lista es [los perfumes árabes más vendidos](/guias/perfumes-arabes-mas-vendidos-argentina) en Argentina."
     ],
@@ -15864,7 +15864,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { productMlaId: "MLA25883660", label: "Para empezar", labelColor: "purple", tagline: "Mayar: floral fresco y accesible, la puerta de entrada al nicho." },
     ],
     intro: [
-      "En dos años los perfumes árabes pasaron de nicho de entusiastas a fenómeno de TikTok y góndola fija en cualquier importadora. El motivo es concreto: una fragancia árabe femenina buena cuesta entre $42.000 y $95.000 y dura 8 a 12 horas, contra los $250.000 o más de un occidental premium que muchas veces rinde menos.",
+      "En dos años los [perfumes árabes](/guias/perfumes-arabes) pasaron de nicho de entusiastas a fenómeno de TikTok y góndola fija en cualquier importadora. El motivo es concreto: una fragancia árabe femenina buena cuesta entre $42.000 y $95.000 y dura 8 a 12 horas, contra los $250.000 o más de un occidental premium que muchas veces rinde menos.",
       "Esta es la lista de las 11 fragancias árabes para mujer más buscadas y recomendadas de 2026 en Argentina: cuál conviene según tu perfil, ocasiones de uso, precios reales y para quién no son. Análisis honesto, sin humo."
     ],
     sections: [
@@ -18337,7 +18337,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { productMlaId: "MLA39865991", label: "Top femenino", labelColor: "blue", tagline: "Yara Candy: 6.632 reseñas, 4.7⭐. El gourmand dulce más comprado por mujeres." }
     ],
     intro: [
-      "Hay muchas formas de armar un ranking de perfumes árabes. Por aroma, por marca, por temporada, por precio. Esta guía elige la más directa: ordenarlos por cuántos argentinos los compraron y los calificaron en MercadoLibre. No es nuestra opinión: son los números reales del catálogo.",
+      "Hay muchas formas de armar un ranking de [perfumes árabes](/guias/perfumes-arabes). Por aroma, por marca, por temporada, por precio. Esta guía elige la más directa: ordenarlos por cuántos argentinos los compraron y los calificaron en MercadoLibre. No es nuestra opinión: son los números reales del catálogo.",
       "Los 10 perfumes árabes más vendidos en Argentina concentran más de 34.500 reseñas reales entre todos. Cada uno con su nicho, su perfil olfativo y su público. Si querés saber qué compra realmente la gente antes de comprometerte vos, este ranking responde la pregunta sin vueltas."
     ],
     sections: [
@@ -18509,7 +18509,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       },
       {
         type: "p",
-        content: "El perfume árabe de hombre más vendido en Argentina es el Rasasi Hawas Ice (9.144 reseñas, 4.8⭐). Le siguen: **Asad Intense** (7.245, 4.6⭐) y **Afnan 9PM Elixir** (1.060, 4.8⭐). Los tres en familias olfativas distintas: Hawas Ice es fresco-frutal-acuático, Asad Intense es especiado-amaderado, 9PM Elixir es gourmand-oriental. Para profundizar en cada uno y conocer otras alternativas masculinas, ver el ranking completo de [perfume árabe hombre](/guias/mejores-perfumes-arabes-hombre)."
+        content: "El perfume árabe de hombre más vendido en Argentina es el Rasasi Hawas Ice (9.144 reseñas, 4.8⭐). Le siguen: **Asad Intense** (7.245, 4.6⭐) y **Afnan 9PM Elixir** (1.060, 4.8⭐). Los tres en familias olfativas distintas: Hawas Ice es fresco-frutal-acuático, Asad Intense es especiado-amaderado, 9PM Elixir es gourmand-oriental. Para profundizar en cada uno y conocer otras alternativas masculinas, ver el [top 10 de perfumes árabes para hombre](/guias/mejores-perfumes-arabes-hombre)."
       },
       {
         type: "h2",
