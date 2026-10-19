@@ -5,6 +5,274 @@
 > toca el catálogo. Entradas nuevas arriba.
 
 
+## 2026-10-13
+
+### Freidora de aire (ML) [ml] (15 productos)
+
+- Freidora Eléctrica De Aceite 6l Novohome 2500w Acero Inox. Plateado 50 Hz/60 Hz — $129.999
+- Freidora Eléctrica De Aceite Doble Canasto 12 Lts Novohome Plateado 50 Hz/60 Hz — $194.990
+- | +5000 vendidos — $129.990
+- ![Freidora De Aire Airfryer Pantalla Digital Otten 1500w 8 Lts Negro](https://http2.mlstatic.com/D_Q_NP_2X_997708-MLA109162717347_032026-E.webp) — $142.940
+- OFERTA IMPERDIBLE — $157.592
+- Llega gratis mañana — $129.999
+- ![](https://http2.mlstatic.com/D_NQ_NP_997355-MLA70516180458_072023-A.webp) — $99.990
+- Llega gratis hoy — $514.849
+- ![Freidora De Aire Philips Na120/00 Negra 4.2l Negro](https://http2.mlstatic.com/D_Q_NP_2X_788252-MLA99975580653_112025-E.webp) — $101.705
+- ![Freidora De Aire Daewoo Crystal XL Vidrio Daf1891 7lts Color Blanco](https://http2.mlstatic.com/D_Q_NP_2X_615836-MLA95639704224_102025-E.webp) — $363.075
+- ![Freidora De Aire Liliana Af957 6 Lt 1750w](https://http2.mlstatic.com/D_Q_NP_2X_964462-MLA104781723958_012026-E.webp) — $149.999
+- GB Gastronomía Bashir — $191.999
+- ![Freidora De Aire Philips Phna23100 13 En 1 6.2 L Negra](https://http2.mlstatic.com/D_Q_NP_2X_698984-MLA99980259093_112025-E.webp) — $224.990
+- ![Freidora De Aire Peabody Regulable Xl 9lts Pe-afdb910n Negro Negro](https://http2.mlstatic.com/D_Q_NP_2X_844914-MLA91773683529_092025-E.webp) — $259.999
+- ![Horno Freidora De Aire Philips Ai551/07 12l Airoven](https://http2.mlstatic.com/D_Q_NP_2X_974111-MLA84848243933_052025-E.webp) — $524.999
+
+### Aspiradora robot (ML) [ml] (15 productos)
+
+- Aspiradora Philips Xb2023/51 1800w 1,3 L Sin Bolsa Color Blanco Y Gris Blanco Ártico/azul Cielo — $239.999
+- Llega gratis hoy — $727.399
+- OFERTA IMPERDIBLE — $666.099
+- Llega gratis mañana — $249.999
+- ![Aspiradora Inalámbrica Smart-tek Robot Ava Evolution WiFi](https://http2.mlstatic.com/D_Q_NP_2X_917537-MLA115299167560_082026-E.webp) — $420.999
+- ![Xiaomi Robot Vacuum S40 Pro](https://http2.mlstatic.com/D_Q_NP_2X_724596-MLA106686110282_022026-E.webp) — $710.000
+- ](https://www.mercadolibre.com.ar/xiaomi-robot-vacuum-s40-pro/p/MLA65702567?offer_type=BEST_INSTALLMENTS#wid=MLA3018284792&sid=search) — $297.098
+- ![Aspiradora Xiaomi Robot Vacuum S40 Pro Color Blanco 15000 Pa](https://http2.mlstatic.com/D_Q_NP_2X_920318-MLA107531899968_032026-E.webp) — $685.363
+- ![Xiaomi Robot Vacuum S40 Us Color Blanco](https://http2.mlstatic.com/D_Q_NP_2X_778237-MLA99219066155_112025-E.webp) — $386.389
+- ![Robot Aspirador Xiaomi Vacuum H40 Bhr07xbeu Blanco](https://http2.mlstatic.com/D_Q_NP_2X_686132-MLA99453318576_112025-E.webp) — $557.341
+- Disponible en 2 colores — $747.626
+- ![Smart-Tek Aspiradora Robot AVA PRO X Mapeo Láser App Control Mopa](https://http2.mlstatic.com/D_Q_NP_2X_872337-MLA116666910371_082026-E.webp) — $882.349
+- ![Robot Aspirador Xiaomi Vacuum H50 Pro Blanco](https://http2.mlstatic.com/D_Q_NP_2X_697382-MLA110888161690_052026-E.webp) — $1.250.000
+- ![TP-LINK TAPO ASPIRADORA Y TRAPEADORA RV20 MAX PLUS 5300Pa](https://http2.mlstatic.com/D_Q_NP_2X_777217-MLA96905855908_112025-E.webp) — $443.199
+- ![Aspiradora Robot Con Wifi Smart 115w Midow 3 Modos Con Base Negro](https://http2.mlstatic.com/D_Q_NP_2X_750354-MLA118183416831_092026-E.webp) — $217.799
+
+### Amazon Kitchen & Dining bestsellers [amazon] (15 productos)
+
+- Bounty Paper Towels Quick Size, White, 16 Family Rolls = 40 Regular Rolls — US$43.49
+- Nespresso Capsules Vertuo, Variety Pack, Medium and Dark Roast Coffee, 30 Count Coffee Pods, Brews 7.8 oz. — US$42.00
+- Bounty Select-A-Size Paper Towels, White, 2 Triple Rolls = 6 Regular Rolls — US$6.97
+- Amazon Basics 2-Ply Flex-Sheets Paper Towels, 12 Basics Rolls = 40 Regular Rolls, Everyday Value with 150 Sheets per Roll, Packaging May Vary — US$15.26
+- Owala FreeSip Stainless Steel Water Bottle 24 oz Denim — US$29.99
+- Amazon Basics Everyday Disposable Paper Plates, 8.62 Inch, Microwave-Safe, Cut Resistant, Soak-Proof, 100 Count, Packaging May Vary — US$5.97
+- Dixie Paper Plates 8.5 Inch, 90 Count, Disposable Plates | For parties as dessert plates or snack plates, 2X stronger, small paper plates are soak-proof, cut resistant, microwave-safe — US$5.89
+- Scott Paper Towels, Choose-A-Sheet, 6 Double Rolls, 108 Sheets Per Roll | Absorbent, Deep-Cleaning Ridges, Virtually Lint-Free, Reliable — US$8.61
+- Lavazza Super Crema Whole Bean Coffee, Medium Espresso Roast, Arabica and Robusta Blend, 2.2 lb Bag, Package May Vary — US$26.99
+- Brawny Tear-A-Square 3-Ply Paper Towels, 6 Double Rolls = 12 Regular Rolls | Strong, absorbent, and durable to tackle any tough mess — US$11.32
+- Bounty Essentials Select-A-Size Paper Towels, 6 Double Rolls, White, 108 Sheets Per Roll — US$7.97
+- Sparkle Pick-A-Size Kitchen Paper Towels, 6 Double Rolls, 660 Sheets | Strong 2 ply paper towels for kitchen cleanup and everyday messes, high absorbency for soaking up spills and wiping surfaces — US$8.48
+- Nespresso Vertuo, Barista Flavored Pack, Medium Roast, 30-Count Coffee Pods | Medium-Roast Coffee Capsules, Caramel, roasted hazelnut and sweet vanilla flavors — US$42.00
+- Bounty Paper Napkins, White, 200 Count, Packaging may vary — US$3.48
+- Dixie Ultra Large Paper Plates, 10 Inch, Heavy Duty Disposable Plates — US$22.47
+
+### Amazon Home & Kitchen bestsellers [amazon] (0 productos)
+
+_No se pudo extraer nada esta vez — revisar el parser._
+
+## 2026-10-06
+
+### Freidora de aire (ML) [ml] (15 productos)
+
+- Freidora De Aire Panel Led A Color C/ventana 10l Novohome — $346.479
+- Freidora Eléctrica De Aceite 6l Novohome 2500w Acero Inox. Plateado 50 Hz/60 Hz — $129.999
+- | +5000 vendidos — $165.990
+- Llega gratis hoy — $250.000
+- Llega gratis mañana — $279.999
+- ![Molde Silicona Para Freidora De Aire Y Horno](https://http2.mlstatic.com/D_Q_NP_2X_998054-CBT117898503555_092026-E.webp) — $14.672
+- China Internacional China Enviado por FULL — $250.000
+- OFERTA IMPERDIBLE — $249.999
+- ![Freidora De Aire Cecotec Fantastik 6500 1700w 6,5l Negro - Negro](https://http2.mlstatic.com/D_Q_NP_2X_843392-MLA113724710917_062026-E.webp) — $99.964
+- ![Freidora De Aire Airfryer Pantalla Digital Otten 1500w 8 Lts Negro](https://http2.mlstatic.com/D_Q_NP_2X_997708-MLA109162717347_032026-E.webp) — $128.933
+- ![Freidora De Aire Philips Canasta Doble 9 Litros Phna35100 Negro](https://http2.mlstatic.com/D_Q_NP_2X_782990-MLA110565781079_042026-E.webp) — $377.490
+- ![Molde Silicona Para Freidora De Aire Y Horno](https://http2.mlstatic.com/D_Q_NP_2X_663140-CBT117897980697_092026-E.webp) — $14.507
+- ![Molde Silicona Para Freidora De Aire Y Horno](https://http2.mlstatic.com/D_Q_NP_2X_840850-CBT117898539227_092026-E.webp) — $14.507
+- ![Freidora De Aire Atma Fr246awp 1750w 6 Litros Y Control Táctil](https://http2.mlstatic.com/D_Q_NP_2X_600370-MLA99991512887_112025-E.webp) — $210.000
+- ![Freidora De Aire Liliana Aaf906 6l Digital Negro](https://http2.mlstatic.com/D_Q_NP_2X_955163-MLA111156286962_052026-E.webp) — $145.999
+
+### Aspiradora robot (ML) [ml] (0 productos)
+
+_No se pudo extraer nada esta vez — revisar el parser._
+
+### Amazon Kitchen & Dining bestsellers [amazon] (15 productos)
+
+- Bounty Paper Towels Quick Size, White, 16 Family Rolls = 40 Regular Rolls — US$45.71
+- Nespresso Capsules Vertuo, Variety Pack, Medium and Dark Roast Coffee, 30 Count Coffee Pods, Brews 7.8 oz. — US$42.00
+- Owala FreeSip Stainless Steel Water Bottle 24 oz Very, Very Dark — US$29.97
+- Bounty Select-A-Size Paper Towels, White, 2 Triple Rolls = 6 Regular Rolls — US$6.99
+- Amazon Basics Everyday Disposable Paper Plates, 8.62 Inch, Microwave-Safe, Cut Resistant, Soak-Proof, 100 Count, Packaging May Vary — US$5.97
+- Scott Paper Towels, Choose-A-Sheet, 6 Double Rolls, 108 Sheets Per Roll | Absorbent, Deep-Cleaning Ridges, Virtually Lint-Free, Reliable — US$6.84
+- Dixie Paper Plates 8.5 Inch, 90 Count, Disposable Plates | For parties as dessert plates or snack plates, 2X stronger, small paper plates are soak-proof, cut resistant, microwave-safe — US$5.89
+- Amazon Basics 2-Ply Flex-Sheets Paper Towels, 12 Basics Rolls = 40 Regular Rolls, Everyday Value with 150 Sheets per Roll, Packaging May Vary — US$22.86
+- Brawny Tear-A-Square 3-Ply Paper Towels, 6 Double Rolls = 12 Regular Rolls | Strong, absorbent, and durable to tackle any tough mess — US$11.32
+- Lavazza Super Crema Whole Bean Coffee, Medium Espresso Roast, Arabica and Robusta Blend, 2.2 lb Bag, Package May Vary — US$21.49
+- Bounty Essentials Select-A-Size Paper Towels, 6 Double Rolls, White, 108 Sheets Per Roll — US$7.97
+- Sparkle Pick-A-Size Kitchen Paper Towels, 6 Double Rolls, 660 Sheets | Strong 2 ply paper towels for kitchen cleanup and everyday messes, high absorbency for soaking up spills and wiping surfaces — US$8.48
+- Bounty Paper Napkins, White, 200 Count, Packaging may vary — US$3.49
+- Nespresso Vertuo, Barista Flavored Pack, Medium Roast, 30-Count Coffee Pods | Medium-Roast Coffee Capsules, Caramel, roasted hazelnut and sweet vanilla flavors — US$35.70
+- Amazon Basics Everyday Paper Plates, 10 Inch, Disposable, 150 Count, Packaging May Vary — US$15.39
+
+### Amazon Home & Kitchen bestsellers [amazon] (15 productos)
+
+- Owala FreeSip Stainless Steel Water Bottle 24 oz Very, Very Dark — US$29.97
+- Queen Size 4 Piece Sheet Set - Breathable & Cooling Sheets - Dark Grey | Hotel Luxury Bed Sheets for Women & Men, Deep Pockets, Easy-Fit, Extra Soft and Wrinkle Free Sheets, Oeko-Tex Bed Sheet Set — US$20.16
+- Zevo Flying Insect Trap Refill Cartridges for Fruit Flies & Gnats, 4 Count | Fits Zevo MAX & Zevo Flying Insect Trap, Catches House Flies, Gnats & Fruit Flies 24/7, No Added Fragrance or Dyes — US$14.83
+- Amazon Basics Slim Velvet Non-Slip Space Saving Suit Clothes Hangers, Closet Organizer, Black, 50-Pack — US$19.99
+- Amazon Basics Lightweight Super Soft Breathable Wrinkle-Resistant Microfiber 4-Piece Bed Sheet Set with 14-Inch Deep Pockets, Queen, Bright White, Solid — US$14.68
+- TERRO Liquid Ant Killer Bait Stations, 12-Pack, Indoor Ant Traps, T300B | Borax Formula, Kills the Queen & the Entire Colony, Liquid Ant Baits Indoor, Kills Household Ants, Indoor Use — US$9.09
+- Zevo Flying Insect Trap for Fruit Flies & Gnats, 1 Plug-in Base & 3 Refills | Catches Fruit Flies & Gnats Near Fruit Bowls & Trash Bins, Spray-Free, Odor-Free, Blue & UV Light Trap, Safe for Kids & Pets\* — US$24.00
+- Barossa Design Oeko-tex Certified Shower Curtain Liner Standard Size, Clear | Waterproof PEVA, Rustproof Grommets, 3 Bottom Magnets, Cute Lightweight Bathroom Curtain, Fits Standard Tub 72" Length — US$8.95
+- upsimples 11x14 Picture Frame, Wall Decor Photo Frames, Black 1 Pack | 11 x 14 Frame, 8x10 Frame with Mat for Gallery Wall, Family, Baby, Dog, Dorm, Christmas — US$6.59
+- Yankee Candle Spiced Pumpkin Scented Candle, 22oz Large Jar | Up to 150 Hour Burn Time, Room Filling Fragrance, Long-Lasting Scent, Premium Plant Wax Blend, Consistent Burn, Giftable — US$14.99
+- BEDLORE Waterproof Mattress Protector, Queen Size Mattress Pad Noiseless | Deep Pockets Fit 6"-18" Mattresses, Soft Breathable Dirt-proof Bed Mattress Cover Washable for Home, Bedroom, Hotel — US$22.78
+- BigFoot Clear Shower Curtain - 72x72 Odorless Plastic with Magnets, Washable Long Bathroom Curtain - Premium PEVA Waterproof Bath Curtain, Rust-Proof Bathroom Essentials — US$9.99
+- BISSELL Little Green Mini Portable Carpet Cleaner, 4075 | HydroRinse self-cleaning tool; 4-in. tough stain tool; upholstery & car detailing; Tea Green color — US$79.99
+- TERRO Fruit Fly Trap 4-Pack, 180 Day Lure Supply, Food-Based Lure | Apple-Shaped Design for Kitchen Counters, Fruit Bowls, Trash Cans, Food-Based Lure, Indoor Pest Control, Fruit Fly Killer — US$12.19
+- HydroJug Polka Dot Traveler 40oz, Insulated Tumbler, French Vanilla | Triple wall insulated, flip straw lid, leak-resistant, stainless steel, cup holder friendly, BPA-free, Polka Dot — US$44.99
+
+## 2026-09-29
+
+### Freidora de aire (ML) [ml] (15 productos)
+
+- Llega gratis mañana — $221.117
+- Llega gratis hoy — $279.999
+- ![](https://http2.mlstatic.com/D_NQ_NP_997355-MLA70516180458_072023-A.webp) — $279.999
+- OFERTA IMPERDIBLE — $239.999
+- ![Freidora De Aire Philips Canasta Doble 9 Litros Phna35100 Negro](https://http2.mlstatic.com/D_Q_NP_2X_782990-MLA110565781079_042026-E.webp) — $252.294
+- ![Freidora De Aire Liliana Airview Negra 6 L negra](https://http2.mlstatic.com/D_Q_NP_2X_909711-MLA99513084130_112025-E.webp) — $117.669
+- ![Freidora De Aire Airfryer Pantalla Digital Otten 1500w 8 Lts Negro](https://http2.mlstatic.com/D_Q_NP_2X_997708-MLA109162717347_032026-E.webp) — $132.168
+- ![Freidora De Aire Peabody Regulable Xl 9lts Pe-afdb910n Negro Negro](https://http2.mlstatic.com/D_Q_NP_2X_844914-MLA91773683529_092025-E.webp) — $229.999
+- ![Ditron Home and Living SK-AF20 - Negro](https://http2.mlstatic.com/D_Q_NP_2X_738857-MLA114384179161_072026-E.webp) — $273.592
+- ![Freidora De Aire Winco W131 4,2 Litros Blanco](https://http2.mlstatic.com/D_Q_NP_2X_901927-MLA99508040844_112025-E.webp) — $80.599
+- ![Freidora De Aire Oster Staf11mcddfar 11 Litros Flex Negra - Negro](https://http2.mlstatic.com/D_Q_NP_2X_648342-MLA96919041668_112025-E.webp) — $333.175
+- ![Freidora De Aire Philips Na120/00 Negra 4.2l Negro](https://http2.mlstatic.com/D_Q_NP_2X_788252-MLA99975580653_112025-E.webp) — $93.539
+- ![Freidora eléctrica AFON-12L-BG Horno Mondial negro de 12 litros](https://http2.mlstatic.com/D_Q_NP_2X_629513-MLA99946514763_112025-E.webp) — $189.999
+- ![Freidora De Aire 8 L Pastalinda Cucina Air Fryer Color Crema](https://http2.mlstatic.com/D_Q_NP_2X_823678-MLA91867669381_092025-E.webp) — $191.999
+- ![Ultracomb Fr 8619 Freidora De Aire 9l Digital 1800w](https://http2.mlstatic.com/D_Q_NP_2X_657599-MLA99508014894_112025-E.webp) — $199.999
+
+### Aspiradora robot (ML) [ml] (15 productos)
+
+- Aspiradora Midea 2 En 1: Stick Y De Mano -inalámbrica 0,3l Navy Blue/silver — $213.799
+- Aspiradora Midea Sin Bolsa- Directcyclone 2000w Vs-mj20tar4 Navy — $184.399
+- Aspiradora Robot Midea Smart Trapeadora Con Control Remoto Color Negro — $373.999
+- ![Robot Aspirador Cecotec Conga X100 X-treme 4 En 1 Con Ia Negro](https://http2.mlstatic.com/D_Q_NP_2X_688353-MLA116986226981_082026-E.webp) — $1.610.520
+- OFERTA IMPERDIBLE — $435.499
+- ![Aspiradora Inalámbrica Smart-tek Robot Ava Evolution WiFi](https://http2.mlstatic.com/D_Q_NP_2X_917537-MLA115299167560_082026-E.webp) — $420.999
+- Llega gratis mañana — $1.066.316
+- Llega gratis hoy — $439.349
+- ![Aspiradora Inalámbrica Portátil Compacta](https://http2.mlstatic.com/D_Q_NP_2X_701480-CBT117495743209_092026-E.webp) — $57.868
+- ![Blanco Aspiradora Robot Xiaomi Vacuum H50](https://http2.mlstatic.com/D_Q_NP_2X_634774-MLA111279769391_052026-E.webp) — $1.019.999
+- ](https://www.mercadolibre.com.ar/blanco-aspiradora-robot-xiaomi-vacuum-h50/p/MLA69227149?offer_type=BEST_INSTALLMENTS#wid=MLA3473083906&sid=search) — $208.349
+- ![Irobot Roomba 205 Combo Negro](https://http2.mlstatic.com/D_Q_NP_2X_885971-MLA104911412436_012026-E.webp) — $999.999
+- ![Aspiradora Xiaomi Robot Vacuum S40 Pro Color Blanco 15000 Pa](https://http2.mlstatic.com/D_Q_NP_2X_920318-MLA107531899968_032026-E.webp) — $799.999
+- Disponible en 2 colores2 — $27.221
+- China Internacional China Enviado por FULL — $200.000
+
+### Amazon Kitchen & Dining bestsellers [amazon] (15 productos)
+
+- Bounty Paper Towels Quick Size, White, 16 Family Rolls = 40 Regular Rolls — US$46.08
+- Nespresso Capsules Vertuo, Variety Pack, Medium and Dark Roast Coffee, 30 Count Coffee Pods, Brews 7.8 oz. — US$42.00
+- Bounty Select-A-Size Paper Towels, White, 2 Triple Rolls = 6 Regular Rolls — US$6.97
+- Owala FreeSip Stainless Steel Water Bottle 32 oz Very, Very Dark — US$29.99
+- Amazon Basics Everyday Disposable Paper Plates, 8.62 Inch, Microwave-Safe, Cut Resistant, Soak-Proof, 100 Count, Packaging May Vary — US$5.06
+- Scott Paper Towels, Choose-A-Sheet, 6 Double Rolls, 108 Sheets Per Roll | Absorbent, Deep-Cleaning Ridges, Virtually Lint-Free, Reliable — US$6.84
+- Amazon Basics 2-Ply Flex-Sheets Paper Towels, 12 Basics Rolls = 40 Regular Rolls, Everyday Value with 150 Sheets per Roll, Packaging May Vary — US$19.41
+- Dixie Paper Plates 8.5 Inch, 90 Count, Disposable Plates | For parties as dessert plates or snack plates, 2X stronger, small paper plates are soak-proof, cut resistant, microwave-safe — US$5.89
+- Lavazza Super Crema Whole Bean Coffee, Medium Espresso Roast, Arabica and Robusta Blend, 2.2 lb Bag, Package May Vary — US$25.70
+- Brawny Tear-A-Square 3-Ply Paper Towels, 6 Double Rolls = 12 Regular Rolls | Strong, absorbent, and durable to tackle any tough mess — US$10.58
+- Bounty Essentials Select-A-Size Paper Towels, 6 Double Rolls, White, 108 Sheets Per Roll — US$7.97
+- Sparkle Pick-A-Size Kitchen Paper Towels, 6 Double Rolls, 660 Sheets | Strong 2 ply paper towels for kitchen cleanup and everyday messes, high absorbency for soaking up spills and wiping surfaces — US$8.48
+- Bounty Paper Napkins, White, 200 Count, Packaging may vary — US$3.48
+- Nespresso Vertuo, Barista Flavored Pack, Medium Roast, 30-Count Coffee Pods | Medium-Roast Coffee Capsules, Caramel, roasted hazelnut and sweet vanilla flavors — US$42.00
+- Viva Signature Cloth Paper Towels, 3 Double Rolls, 86 Sheets per Roll — US$7.99
+
+### Amazon Home & Kitchen bestsellers [amazon] (15 productos)
+
+- Queen Size 4 Piece Sheet Set - Breathable & Cooling Sheets - Dark Grey | Hotel Luxury Bed Sheets for Women & Men, Deep Pockets, Easy-Fit, Extra Soft and Wrinkle Free Sheets, Oeko-Tex Bed Sheet Set — US$24.99
+- Owala FreeSip Stainless Steel Water Bottle 32 oz Very, Very Dark — US$29.99
+- Amazon Basics Slim Velvet Non-Slip Space Saving Suit Clothes Hangers, Closet Organizer, Black, 50-Pack — US$20.69
+- Zevo Flying Insect Trap for Fruit Flies & Gnats, 1 Plug-in Base & 3 Refills | Catches Fruit Flies & Gnats Near Fruit Bowls & Trash Bins, Spray-Free, Odor-Free, Blue & UV Light Trap, Safe for Kids & Pets\* — US$25.96
+- TERRO Liquid Ant Killer Bait Stations, 12-Pack, Indoor Ant Traps, T300B | Borax Formula, Kills the Queen & the Entire Colony, Liquid Ant Baits Indoor, Kills Household Ants, Indoor Use — US$5.09
+- Amazon Basics Lightweight Super Soft Breathable Wrinkle-Resistant Microfiber 4-Piece Bed Sheet Set with 14-Inch Deep Pockets, Queen, Bright White, Solid — US$14.68
+- upsimples 11x14 Picture Frame, Wall Decor Photo Frames, Black 1 Pack | 11 x 14 Frame, 8x10 Frame with Mat for Gallery Wall, Family, Baby, Dog, Dorm, Christmas — US$6.99
+- Barossa Design Oeko-tex Certified Shower Curtain Liner Standard Size, Clear | Waterproof PEVA, Rustproof Grommets, 3 Bottom Magnets, Cute Lightweight Bathroom Curtain, Fits Standard Tub 72" Length — US$8.95
+- Yankee Candle Spiced Pumpkin Scented Candle, 22oz Large Jar | Up to 150 Hour Burn Time, Room Filling Fragrance, Long-Lasting Scent, Premium Plant Wax Blend, Consistent Burn, Giftable — US$16.11
+- Zevo Flying Insect Trap Refill Cartridges for Fruit Flies & Gnats, 4 Count | Fits Zevo MAX & Zevo Flying Insect Trap, Catches House Flies, Gnats & Fruit Flies 24/7, No Added Fragrance or Dyes — US$14.97
+- BEDLORE Waterproof Mattress Protector, Queen Size Mattress Pad Noiseless | Deep Pockets Fit 6"-18" Mattresses, Soft Breathable Dirt-proof Bed Mattress Cover Washable for Home, Bedroom, Hotel — US$25.49
+- HydroJug Polka Dot Traveler 40oz, Insulated Tumbler, French Vanilla | Triple wall insulated, flip straw lid, leak-resistant, stainless steel, cup holder friendly, BPA-free, Polka Dot — US$44.99
+- Niagara Sleep Solution Queen Ultra Soft Mattress Topper — Back Pain Relief | Rayon Derived from Bamboo, 20" Deep Pocket, Breathable Pillow Top Mattress Pad, Perfect for Hot Sleepers, Green — US$39.99
+- TERRO Fruit Fly Trap 4-Pack, 180 Day Lure Supply, Food-Based Lure | Apple-Shaped Design for Kitchen Counters, Fruit Bowls, Trash Cans, Food-Based Lure, Indoor Pest Control, Fruit Fly Killer — US$12.19
+- BigFoot Clear Shower Curtain - 72x72 Odorless Plastic with Magnets, Washable Long Bathroom Curtain - Premium PEVA Waterproof Bath Curtain, Rust-Proof Bathroom Essentials — US$9.99
+
+## 2026-09-22
+
+### Freidora de aire (ML) [ml] (15 productos)
+
+- OFERTA IMPERDIBLE — $164.979
+- ![Freidora De Aire AF905 Liliana Lumifry 5l Color Negro](https://http2.mlstatic.com/D_Q_NP_2X_771247-MLA99394092368_112025-E.webp) — $189.999
+- Llega gratis mañana — $179.990
+- ![](https://http2.mlstatic.com/D_NQ_NP_997355-MLA70516180458_072023-A.webp) — $250.000
+- ![Papel Manteca Antiadherente Para Freidora De Aire](https://http2.mlstatic.com/D_Q_NP_2X_937547-CBT112573380460_062026-E.webp) — $12.528
+- ![Freidora de Aire Kanji de 6.5 Litros con Panel Digital](https://http2.mlstatic.com/D_Q_NP_2X_960895-MLA97734907779_112025-E.webp) — $129.999
+- Llega gratis hoy — $276.325
+- ![Freidora De Aire Digital Sin Aceite Niviko 3.8l 1500w Negro](https://http2.mlstatic.com/D_Q_NP_2X_749221-MLA99927682829_112025-E.webp) — $105.999
+- Disponible en 2 colores — $125.884
+- ![Soporte 24 Pinchos Acero Inox Freidora Aire](https://http2.mlstatic.com/D_Q_NP_2X_881084-CBT115485064849_082026-E.webp) — $13.782
+- China Internacional China Enviado por FULL — $179.990
+- ![Freidora De Aire Oster Staf11mcddfar 11 Litros Flex Negra - Negro](https://http2.mlstatic.com/D_Q_NP_2X_648342-MLA96919041668_112025-E.webp) — $399.999
+- ![Freidora De Aire Philips Canasta Doble 9 Litros Phna35100 Negro](https://http2.mlstatic.com/D_Q_NP_2X_782990-MLA110565781079_042026-E.webp) — $359.999
+- ![Freidora De Aire 7 Litros Pe-afw700n Potencia 1750w Peabody Negro](https://http2.mlstatic.com/D_Q_NP_2X_600853-MLA100583456163_122025-E.webp) — $149.999
+- ![Freidora De Aire Philips Na120/00 Negra 4.2l Negro](https://http2.mlstatic.com/D_Q_NP_2X_788252-MLA99975580653_112025-E.webp) — $93.498
+
+### Aspiradora robot (ML) [ml] (15 productos)
+
+- ![Irobot Roomba 205 Combo Negro](https://http2.mlstatic.com/D_Q_NP_2X_885971-MLA104911412436_012026-E.webp) — $999.999
+- ![Aspiradora Inalámbrica Smart-tek Robot Ava Evolution WiFi](https://http2.mlstatic.com/D_Q_NP_2X_917537-MLA115299167560_082026-E.webp) — $420.999
+- OFERTA IMPERDIBLE — $799.999
+- Llega gratis hoy — $230.900
+- ![Robot Aspirador 3 En 1 Inteligente Con Mopa](https://http2.mlstatic.com/D_Q_NP_2X_977286-CBT113453054265_062026-E.webp) — $11.273
+- ![Blanco Aspiradora Robot Xiaomi Vacuum H50](https://http2.mlstatic.com/D_Q_NP_2X_634774-MLA111279769391_052026-E.webp) — $1.019.999
+- Llega gratis mañana — $1.179.999
+- ](https://www.mercadolibre.com.ar/blanco-aspiradora-robot-xiaomi-vacuum-h50/p/MLA69227149?offer_type=BEST_INSTALLMENTS#wid=MLA3775750014&sid=search) — $547.649
+- ![Robot Aspirador Cecotec 999 Map Genesis Negro](https://http2.mlstatic.com/D_Q_NP_2X_777095-MLA100075159729_122025-E.webp) — $219.286
+- ![Aspiradora Inalámbrica Smart-tek Robot Ava Dual Clean Wifi](https://http2.mlstatic.com/D_Q_NP_2X_967493-MLA115261438996_082026-E.webp) — $454.999
+- Disponible en 2 colores2 — $26.799
+- ![Aspiradora Robot Inteligente Doméstica 18 Cm](https://http2.mlstatic.com/D_Q_NP_2X_687537-CBT116514378097_082026-E.webp) — $27.858
+- China Internacional China Enviado por FULL — $349.079
+- ![Xiaomi Robot Vacuum S40 Us Color Blanco](https://http2.mlstatic.com/D_Q_NP_2X_778237-MLA99219066155_112025-E.webp) — $387.215
+- ![TP-LINK TAPO ASPIRADORA Y TRAPEADORA RV20 MAX PLUS 5300Pa](https://http2.mlstatic.com/D_Q_NP_2X_777217-MLA96905855908_112025-E.webp) — $649.999
+
+### Amazon Kitchen & Dining bestsellers [amazon] (15 productos)
+
+- Bounty Paper Towels Quick Size, White, 16 Family Rolls = 40 Regular Rolls — US$43.49
+- Nespresso Capsules Vertuo, Variety Pack, Medium and Dark Roast Coffee, 30 Count Coffee Pods, Brews 7.8 oz. — US$42.00
+- Owala FreeSip Stainless Steel Water Bottle 32 oz Very, Very Dark — US$29.99
+- Bounty Select-A-Size Paper Towels, White, 2 Triple Rolls = 6 Regular Rolls — US$6.97
+- Amazon Basics Everyday Disposable Paper Plates, 8.62 Inch, Microwave-Safe, Cut Resistant, Soak-Proof, 100 Count, Packaging May Vary — US$5.97
+- Scott Paper Towels, Choose-A-Sheet, 6 Double Rolls, 108 Sheets Per Roll — US$6.96
+- Dixie Paper Plates 8.5 Inch, 90 Count, Disposable Plates | For parties as dessert plates or snack plates, 2X stronger, small paper plates are soak-proof, cut resistant, microwave-safe — US$5.89
+- Amazon Basics 2-Ply Flex-Sheets Paper Towels, 12 Basics Rolls = 40 Regular Rolls, Everyday Value with 150 Sheets per Roll, Packaging May Vary — US$22.86
+- Lavazza Super Crema Whole Bean Coffee, Medium Espresso Roast, Arabica and Robusta Blend, 2.2 lb Bag, Package May Vary — US$25.70
+- Brawny Tear-A-Square 3-Ply Paper Towels, 6 Double Rolls = 12 Regular Rolls | Strong, absorbent, and durable to tackle any tough mess — US$10.58
+- Sparkle Pick-A-Size Kitchen Paper Towels, 6 Double Rolls, 660 Sheets | Strong 2 ply paper towels for kitchen cleanup and everyday messes, high absorbency for soaking up spills and wiping surfaces — US$8.48
+- Amazon Brand - Happy Belly Dark Roast Coffee Pods, Compatible with Keurig 2.0 K-Cup Brewers, 100 Count — US$33.02
+- Bounty Essentials Select-A-Size Paper Towels, 6 Double Rolls, White, 108 Sheets Per Roll — US$7.97
+- Bounty Paper Napkins, White, 200 Count, Packaging may vary — US$3.48
+- Nespresso Vertuo, Barista Flavored Pack, Medium Roast, 30-Count Coffee Pods | Medium-Roast Coffee Capsules, Caramel, roasted hazelnut and sweet vanilla flavors — US$42.00
+
+### Amazon Home & Kitchen bestsellers [amazon] (15 productos)
+
+- Queen Size 4 Piece Sheet Set - Breathable & Cooling Sheets - Dark Grey | Hotel Luxury Bed Sheets for Women & Men, Deep Pockets, Easy-Fit, Extra Soft and Wrinkle Free Sheets, Oeko-Tex Bed Sheet Set — US$21.22
+- Owala FreeSip Stainless Steel Water Bottle 32 oz Very, Very Dark — US$29.99
+- Amazon Basics Slim Velvet Non-Slip Space Saving Suit Clothes Hangers for Closet Organization, Black/Silver, 30-Pack — US$16.79
+- Zevo Flying Insect Trap Refill Cartridges for Fruit Flies & Gnats, 4 Count | Fits Zevo MAX & Zevo Flying Insect Trap, Catches House Flies, Gnats & Fruit Flies 24/7, No Added Fragrance or Dyes — US$14.97
+- TERRO Liquid Ant Killer Bait Stations, 12-Pack, Indoor Ant Traps, T300B | Borax Formula, Kills the Queen & the Entire Colony, Liquid Ant Baits Indoor, Kills Household Ants, Indoor Use — US$9.58
+- Amazon Basics Lightweight Super Soft Easy Care Wrinkle Free Microfiber 3 Piece Bed Sheet Set with 14-Inch Deep Pockets, Twin, Navy Blue, Solid, Kids, Men & Women Bedding — US$11.60
+- upsimples 11x14 Picture Frame, Wall Decor Photo Frames, Black 1 Pack | 11 x 14 Frame, 8x10 Frame with Mat for Gallery Wall, Family, Baby, Dog, Dorm, Christmas — US$6.99
+- Zevo Flying Insect Trap for Fruit Flies & Gnats, 1 Plug-in Base & 1 Refills | Catches Fruit Flies & Gnats Near Fruit Bowls & Trash Bins, Spray-Free, Odor-Free, Blue & UV Light Trap, Safe for Kids & Pets\* — US$19.97
+- Barossa Design Oeko-tex Certified Shower Curtain Liner Standard Size, Clear | Waterproof PEVA, Rustproof Grommets, 3 Bottom Magnets, Cute Lightweight Bathroom Curtain, Fits Standard Tub 72" Length — US$8.95
+- BEDLORE Waterproof Mattress Protector, Queen Size Mattress Pad Noiseless | Deep Pockets Fit 6"-18" Mattresses, Soft Breathable Dirt-proof Bed Mattress Cover Washable for Home, Bedroom, Hotel — US$29.99
+- Niagara Sleep Solution Queen Ultra Soft Mattress Topper — Back Pain Relief | Rayon Derived from Bamboo, 20" Deep Pocket, Breathable Pillow Top Mattress Pad, Perfect for Hot Sleepers, Green — US$36.99
+- TERRO Fruit Fly Trap 4-Pack, 180 Day Lure Supply, Food-Based Lure | Apple-Shaped Design for Kitchen Counters, Fruit Bowls, Trash Cans, Food-Based Lure, Indoor Pest Control, Fruit Fly Killer — US$13.54
+- Queen Sheets Set, 4 Pieces 16" Deep Pocket Hotel Luxury Bed Sheets, Grey | Extra Soft Bedsheet Set, Comfy & Breathable Cooling Sheets, Wrinkle & Fade Resistant, Fitted Sheet, Flat Sheet, 2 Pillowcases — US$17.40
+- BigFoot Clear Shower Curtain - 72x72 Odorless Plastic with Magnets, Washable Long Bathroom Curtain - Premium PEVA Waterproof Bath Curtain, Rust-Proof Bathroom Essentials — US$9.99
+- OLANLY Bathroom Rugs 30x20, Extra Soft Absorbent Chenille Bath Rugs | Grey, Quick-Drying Rubber Backing, Machine Washable Bath Mat for Bathroom Floor, Tub and Shower, Home Decor Accessories — US$8.99
+
 ## 2026-09-15
 
 ### Freidora de aire (ML) [ml] (10 productos)
