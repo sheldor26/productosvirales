@@ -3265,6 +3265,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { label: "Auriculares gamer: cuál comprar", href: "/guias/gaming/auriculares-gamer" },
       { label: "Joystick para PC: cuál comprar", href: "/guias/gaming/joystick-pc" },
       { label: "Kit gamer: teclado + mouse en una compra", href: "/guias/gaming/kit-gamer" },
+      { label: "Mouse inalámbrico (no gamer): cuál comprar", href: "/guias/tech/mouse-inalambrico" },
     ],
     internalLinksTitle: "Más para tu setup gamer",
   },
@@ -6216,6 +6217,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { label: `Cámara deportiva: cuál comprar en Argentina`, href: `/guias/tech/camara-deportiva` },
       { label: "Power bank solar: cuál comprar (la comparativa completa)", href: "/guias/tech/power-bank-solar" },
       { label: "Smartwatch: cuál comprar en Argentina", href: "/guias/tech/smartwatch" },
+      { label: "Mouse inalámbrico: cuál comprar", href: "/guias/tech/mouse-inalambrico" },
     ],
   },
 
@@ -6323,6 +6325,108 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { label: "Cargador portátil: guía general (pilar del silo)", href: "/guias/tech/cargador-portatil" },
       { label: "Smartwatch: cuál comprar en Argentina", href: "/guias/tech/smartwatch" },
       { label: "Impresora 3D: Bambu Lab vs Creality", href: "/guias/tech/impresora-3d" },
+      { label: "Mouse inalámbrico: cuál comprar", href: "/guias/tech/mouse-inalambrico" },
+    ],
+    internalLinksTitle: "Más de tech",
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // SATÉLITE mouse-inalambrico — silo tech — STAGED
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "mouse-inalambrico",
+    category: "tech",
+    silo: "tech",
+    title: `Mouse inalámbrico: cuál comprar en Argentina [2026]`,
+    seoTitle: `Mejor Mouse Inalámbrico en Argentina [2026]: 4 Comparados`,
+    metaDescription: `Comparamos 4 mouses inalámbricos de MercadoLibre: con o sin Bluetooth, a pilas o recargable, y el ergonómico que alivia la muñeca. Precios y reseñas reales.`,
+    ogTitle: `Mouse inalámbrico: cuál comprar en Argentina`,
+    ogDescription: `Del más vendido ({{reviews:MLA15144095}} opiniones) al ergonómico que alivia la muñeca. Logitech, Gadnic y Noga comparados por conexión, batería y precio real de MercadoLibre.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_669678-MLA99579431446_122025-F.webp`,
+    h1: `Mouse inalámbrico: cuál comprar en Argentina y qué mirar antes [2026]`,
+    directAnswer: `Para la mayoría conviene el **[Logitech M170](/producto/mouse-logitech-m170-inalambrico-usb-negro-mla15144095)** (alrededor de {{precio:MLA15144095:k}}): es el mouse inalámbrico más vendido de MercadoLibre Argentina, con {{reviews:MLA15144095}} calificaciones. Si necesitás Bluetooth sin receptor USB y clics silenciosos, el **[Logitech M240](/producto/mouse-bluetooth-logitech-m240-rosa-silencioso-inalambrico-mla26972402)**. Si pasás muchas horas frente a la compu y te molesta la muñeca, el **[Gadnic vertical ergonómico](/producto/mouse-vertical-ergonomico-gadnic-recargable-conexion-inalambrica-5-2-y-2-4g-mla70571187)**, recargable por USB-C. Y si solo querés gastar lo mínimo, el **[Noga NGM-680](/producto/mouse-noga-ngm-680-negro-mla14133575)**.`,
+    publishedDate: "2026-10-19",
+    updatedDate: "2026-10-19",
+    sitemapLastmod: "2026-10-19",
+    hasDisclosure: true,
+    readingTime: 8,
+    standfirst: `Un mouse inalámbrico parece todo lo mismo hasta que te fijás en dos cosas: si se conecta por Bluetooth o necesita un receptor USB, y si funciona a pilas o es recargable. Comparamos 4 modelos reales de MercadoLibre Argentina por esos dos criterios, más precio y reseñas honestas de compradores.`,
+    quickPicks: [
+      { productMlaId: "MLA15144095", label: "El más vendido", labelColor: "green", tagline: "Logitech M170: {{reviews:MLA15144095}} calificaciones, el receptor se guarda adentro" },
+      { productMlaId: "MLA26972402", label: "Silencioso con Bluetooth", labelColor: "blue", tagline: "Logitech M240: sin receptor USB, línea Silent" },
+      { productMlaId: "MLA70571187", label: "El ergonómico", labelColor: "purple", tagline: "Gadnic vertical: alivia la muñeca, recargable por USB-C" },
+      { productMlaId: "MLA14133575", label: "El más económico", labelColor: "amber", tagline: "Noga NGM-680: el más barato con respaldo real" },
+    ],
+    intro: [
+      `Elegir un **mouse inalámbrico** de oficina parece una decisión de marca y termina siendo una de conexión y batería. El dpi que aparece en el título casi nunca importa para uso diario; lo que sí cambia el día a día es si el mouse se conecta por **Bluetooth** (sin ocupar un puerto) o necesita un **receptor USB**, y si funciona a **pilas** o es **recargable**. Esta guía no es de mouses gamer: para eso está nuestra [guía de mouse gamer](/guias/gaming/mouse-gamer).`,
+      `Comparamos 4 mouses inalámbricos reales de MercadoLibre Argentina (dos Logitech, un Gadnic y un Noga) verificando en vivo precio, stock, specs y reseñas de compradores. El más vendido tiene {{reviews:MLA15144095}} calificaciones; el más chico de esta comparativa tiene {{reviews:MLA70571187}}, y aun así mantiene buen rating.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_669678-MLA99579431446_122025-F.webp", alt: `Mouse inalámbrico Logitech M170, el más vendido de MercadoLibre Argentina`, imageSize: "hero" },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** verificamos precio, stock, specs y calificaciones de cada mouse en vivo en MercadoLibre Argentina (octubre 2026). Los 4 modelos tienen stock sano (decenas a cientos de ofertas alternativas cada uno), así que ninguno quedó afuera por riesgo de quedarse sin unidades. Las citas de compradores son textuales, con país y fecha cuando MercadoLibre la muestra.` },
+
+      { type: "h2", title: `Antes de comprar: Bluetooth o receptor USB, pilas o recargable`, id: "antes-de-comprar" },
+      { type: "list", items: [
+        `**Receptor USB (2,4 GHz):** el más común y el más estable. Usa un puerto USB todo el tiempo, pero no depende de que tu PC tenga Bluetooth. El Logitech M170 y el Noga NGM-680 de esta guía funcionan así.`,
+        `**Bluetooth:** no ocupa un puerto USB, ideal si tu notebook tiene pocos o si querés usarlo con una tablet. A cambio, necesita que el dispositivo tenga Bluetooth. El Logitech M240 funciona así, y el Gadnic vertical permite elegir entre los dos.`,
+        `**Pilas vs. recargable:** los dos Logitech y el Noga de esta guía funcionan a pilas (el M170 con una AA, con buena autonomía declarada). El Gadnic es el único recargable por USB-C. Ninguna opción es "mejor" en absoluto: pilas significa no depender de cargar, recargable significa no comprar pilas nunca más.`,
+      ] },
+
+      { type: "h2", title: `Los 4 mouses, uno por uno`, id: "modelos" },
+
+      { type: "h3", title: `1. Logitech M170 — el más vendido, por lejos` },
+      { type: "product-card", productMlaId: "MLA15144095", label: "El más vendido", labelColor: "green", ranking: 1, description: `Receptor USB de 2,4 GHz que se guarda adentro del mouse. {{reviews:MLA15144095}} calificaciones a {{rating:MLA15144095}} estrellas, la base de opiniones más grande de MercadoLibre en esta categoría.` },
+      { type: "p", content: `El M170 cuesta {{precio:MLA15144095}} y es, con {{reviews:MLA15144095}} calificaciones, el mouse inalámbrico más elegido de MercadoLibre Argentina sin competencia cercana. Simple a propósito: receptor USB, 1.000 dpi, una pila AA con hasta 12 meses de autonomía según el fabricante, y un detalle que varios compradores destacan: el receptor se guarda adentro del cuerpo, así que no se pierde al cambiar de notebook.` },
+      { type: "pull-quote", content: `"Es un buen producto. El material es duro. La ruedita se nota firme [...] aunque es chico comparado con mi mano, me resulta súper cómodo. No requiere grandes movimientos de desplazamiento [...] lo recomiendo sin dudas."`, attribution: `Comprador verificado en MercadoLibre, Argentina` },
+
+      { type: "h3", title: `2. Logitech M240 — el silencioso, con Bluetooth` },
+      { type: "product-card", productMlaId: "MLA26972402", label: "Silencioso con Bluetooth", labelColor: "blue", ranking: 2, description: `Línea Silent de Logitech: clics silenciosos y Bluetooth nativo, sin receptor USB. {{reviews:MLA26972402}} calificaciones a {{rating:MLA26972402}} estrellas.` },
+      { type: "p", content: `El M240 cuesta {{precio:MLA26972402}} y se conecta directo por Bluetooth, sin receptor USB: libera un puerto y sirve con tablets o notebooks finas. Pertenece a la línea "Silent" de Logitech, pensada para videollamadas y oficinas compartidas. Con {{reviews:MLA26972402}} calificaciones, es la segunda base de opiniones más grande de esta guía, bastante atrás del M170 pero muy por delante del resto.` },
+      { type: "pull-quote", content: `"Tenía antes un modelo más básico también de logitech que funcionó bien un par de años hasta que me pidió cambio [...] es súper silencioso, tiene un hermoso 'andar', es muy cómodo y súper estético [...] es bueno que se conecte por bluetooth porque no necesito agregarle a la mac el adaptador para conectar el dongle usb."`, attribution: `Comprador verificado en MercadoLibre, Argentina` },
+
+      { type: "h3", title: `3. Gadnic vertical ergonómico — el que alivia la muñeca` },
+      { type: "product-card", productMlaId: "MLA70571187", label: "El ergonómico", labelColor: "purple", ranking: 3, description: `Agarre vertical, doble conexión (Bluetooth 5.2 y receptor 2,4G) y batería recargable por USB-C. {{reviews:MLA70571187}} calificaciones a {{rating:MLA70571187}} estrellas.` },
+      { type: "p", content: `El Gadnic cuesta {{precio:MLA70571187}} y es el único mouse vertical y el único recargable de esta comparativa. El agarre vertical mantiene la muñeca en una posición más natural que un mouse convencional, algo que una reseña real describe de primera mano como un alivio concreto para el dolor de manos. Su base de opiniones, {{reviews:MLA70571187}} calificaciones, es la más chica de esta guía frente a los miles de los Logitech, aunque sin señales de alerta en el rating.` },
+      { type: "pull-quote", content: `"Lo compré como regalo de cumple para mi viejo, que venía con bastantes molestias en las manos de usar tanto el mousepad en el laburo [...] la postura vertical al principio le costó un poco [...] pero después le terminó encantando, está enamorado, y la verdad le alivió un montón el dolor."`, attribution: `Comprador verificado en MercadoLibre, Argentina` },
+
+      { type: "h3", title: `4. Noga NGM-680 — el más económico` },
+      { type: "product-card", productMlaId: "MLA14133575", label: "El más económico", labelColor: "amber", ranking: 4, description: `El más barato de la comparativa, con {{reviews:MLA14133575}} calificaciones reales y más de 5 mil vendidos.` },
+      { type: "p", content: `El Noga NGM-680 cuesta {{precio:MLA14133575}}, el más bajo de esta guía, y no es un genérico sin historial: tiene {{reviews:MLA14133575}} calificaciones a {{rating:MLA14133575}} estrellas. Usa receptor USB, sin Bluetooth, y una reseña real (de alguien que compró dos) avisa que el botón central es duro de presionar y que conviene usarlo sobre un mouse pad para que el seguimiento sea parejo.` },
+      { type: "pull-quote", content: `"Compre 2 y ambos tienen una contra que es muy duro el boton del medio (ruedita) pero el desplazamiento de la rueda es de 10. No funciona bien en cualquier superficie, pero si pones un mouse pad funciona de 10. En rasgos generales un 7/8."`, attribution: `Comprador verificado en MercadoLibre, Argentina` },
+
+      { type: "h2", title: `Tabla comparativa: los 4 mouses inalámbricos`, id: "tabla" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Conexión`, `Batería`, `Calificaciones`], rows: [
+        [`[Logitech M170](https://meli.la/1yrv64Q)`, `{{precio:MLA15144095}}`, `Receptor USB 2,4 GHz`, `1 pila AA`, `{{rating:MLA15144095}} ★ ({{reviews:MLA15144095}})`],
+        [`[Logitech M240](https://meli.la/2cqVRJr)`, `{{precio:MLA26972402}}`, `Bluetooth`, `Pilas`, `{{rating:MLA26972402}} ★ ({{reviews:MLA26972402}})`],
+        [`[Gadnic vertical](https://meli.la/1eLVa4x)`, `{{precio:MLA70571187}}`, `Bluetooth 5.2 + receptor 2,4G`, `Recargable USB-C`, `{{rating:MLA70571187}} ★ ({{reviews:MLA70571187}})`],
+        [`[Noga NGM-680](https://meli.la/1c1n2ET)`, `{{precio:MLA14133575}}`, `Receptor USB 2,4 GHz`, `Pilas`, `{{rating:MLA14133575}} ★ ({{reviews:MLA14133575}})`],
+      ] },
+
+      { type: "h2", title: `Cuál mouse inalámbrico elegir según tu caso`, id: "cual-elegir" },
+      { type: "list", items: [
+        `**No sabés cuál elegir, querés la compra segura:** el [Logitech M170](https://meli.la/1yrv64Q) ({{precio:MLA15144095}}). El más vendido del país por lejos, sin vueltas.`,
+        `**Tu notebook tiene pocos puertos USB, o querés usarlo con tablet:** el [Logitech M240](https://meli.la/2cqVRJr) ({{precio:MLA26972402}}). Bluetooth nativo y clics silenciosos.`,
+        `**Pasás muchas horas en la compu y sentís la muñeca:** el [Gadnic vertical](https://meli.la/1eLVa4x) ({{precio:MLA70571187}}). El único recargable y el único con agarre ergonómico vertical de esta guía.`,
+        `**Querés gastar lo mínimo posible:** el [Noga NGM-680](https://meli.la/1c1n2ET) ({{precio:MLA14133575}}). Cumple lo esencial, con la salvedad del botón central.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la mayoría, el **Logitech M170** a {{precio:MLA15144095}} es la compra más segura: {{reviews:MLA15144095}} calificaciones no dejan lugar a dudas, aunque no tenga Bluetooth. Si el Bluetooth o el silencio te importan, el **M240** justifica el precio extra. Si la muñeca ya te duele, el **Gadnic vertical** es la única opción ergonómica y recargable de esta guía, con una reseña real que confirma el alivio. Y si el presupuesto manda, el **Noga NGM-680** cumple, con la salvedad honesta del botón central duro.` },
+    ],
+    faq: [
+      { question: `¿Cuál es el mejor mouse inalámbrico en Argentina?`, answer: `El más vendido y con mejor respaldo es el [Logitech M170](https://meli.la/1yrv64Q) ({{precio:MLA15144095}}, {{reviews:MLA15144095}} calificaciones). Si necesitás Bluetooth sin receptor USB, el [Logitech M240](https://meli.la/2cqVRJr); si buscás alivio ergonómico, el [Gadnic vertical](https://meli.la/1eLVa4x).` },
+      { question: `¿Mouse con Bluetooth o con receptor USB, cuál conviene?`, answer: `El receptor USB (2,4 GHz) es más simple y estable, pero ocupa un puerto todo el tiempo. El Bluetooth no ocupa puerto y sirve con tablets, pero necesita que el dispositivo tenga Bluetooth. No hay uno objetivamente mejor: depende de cuántos puertos libres tengas y con qué dispositivos lo vayas a usar.` },
+      { question: `¿Conviene un mouse a pilas o recargable?`, answer: `Un mouse a pilas (como los dos Logitech de esta guía) no depende de cargarse, pero hay que reponer pilas cada varios meses. Uno recargable por USB-C (como el Gadnic de esta guía) no gasta pilas, pero hay que acordarse de cargarlo de vez en cuando. Ambos son opciones válidas.` },
+      { question: `¿Sirve un mouse vertical para el dolor de muñeca?`, answer: `El agarre vertical mantiene la muñeca en una posición más parecida a un apretón de manos, en vez de girada hacia abajo como en un mouse convencional. Una reseña real del Gadnic de esta guía confirma un alivio concreto del dolor tras el cambio, aunque la adaptación inicial a la postura vertical lleva unos días.` },
+      { question: `¿Cuál es el mouse inalámbrico más barato con buen respaldo?`, answer: `El [Noga NGM-680](https://meli.la/1c1n2ET) ({{precio:MLA14133575}}), con {{reviews:MLA14133575}} calificaciones reales y más de 5 mil vendidos. La contra real que marcan las reseñas es el botón central, duro de presionar en algunas unidades.` },
+      { question: `¿Los mouses inalámbricos de esta guía sirven para gaming?`, answer: `No son mouses gamer: tienen sensores de 400 a 1.600 dpi pensados para oficina, sin los switches de alta velocidad ni la personalización de software de un mouse gamer. Para eso, la guía de [mouse gamer](/guias/gaming/mouse-gamer) del sitio compara modelos pensados específicamente para jugar.` },
+    ],
+    internalLinks: [
+      { label: `Cargador portátil: guía general (pilar del silo)`, href: `/guias/tech/cargador-portatil` },
+      { label: "Power bank solar: cuál comprar", href: "/guias/tech/power-bank-solar" },
+      { label: "Smartwatch: cuál comprar en Argentina", href: "/guias/tech/smartwatch" },
+      { label: "Mouse gamer: cuál comprar en Argentina", href: "/guias/gaming/mouse-gamer" },
     ],
     internalLinksTitle: "Más de tech",
   },
