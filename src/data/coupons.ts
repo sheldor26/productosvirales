@@ -1,18 +1,18 @@
 import type { Coupon } from "@/lib/types";
 
-// Segundo día seguido con UN SOLO cupón, y esta vez el de ticket alto:
-//   >= $250.000     -> MELIPOWER ($25.000)
-//   menos de $250k  -> sin badge
-// O sea que hoy todo lo que esté abajo de $250.000 no muestra nada, ni
-// siquiera lo que entre el 1/10 y el 16/10 llevaba el de $8.000 o $15.000.
+// Tercer día seguido con UN SOLO cupón, y vuelve a mover el piso:
+//   >= $150.000     -> MELIMODO ($15.000)
+//   menos de $150k  -> sin badge
+// Ayer la mínima era $250.000 (MELIPOWER) y hoy baja a $150.000, así que hoy
+// entran más productos pero los de ticket alto cobran $10.000 menos que ayer.
 // Es lo que dice el mensaje del día, no un bug.
 export const activeCoupons: Coupon[] = [
   {
-    code: "MELIPOWER",
-    discountAmount: 25000,
-    minPurchase: 250000,
-    validFrom: "2026-10-19T09:00:00-03:00",
-    validUntil: "2026-10-19T23:59:00-03:00",
+    code: "MELIMODO",
+    discountAmount: 15000,
+    minPurchase: 150000,
+    validFrom: "2026-10-20T09:00:00-03:00",
+    validUntil: "2026-10-20T23:59:00-03:00",
     active: true,
   },
 ];
