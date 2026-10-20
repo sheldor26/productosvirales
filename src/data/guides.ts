@@ -33973,6 +33973,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { label: "Transportadora para gatos: cuál comprar", href: "/guias/mascotas/transportadora-para-gatos" },
       { label: "Casa para perro: cuál comprar", href: "/guias/mascotas/casa-para-perro" },
       { label: "Cama para perro: cuál comprar", href: "/guias/mascotas/cama-para-perro" },
+      { label: "Arenero para gatos: cuál comprar", href: "/guias/mascotas/arenero-para-gatos" },
       { label: "Bicicleta fija: cuál comprar", href: "/guias/fitness/bicicleta-fija" },
     ],
     internalLinksTitle: "Más guías nuevas del sitio",
@@ -35226,6 +35227,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { label: "Rascador para gatos: cuál comprar", href: "/guias/mascotas/rascador-para-gatos" },
       { label: "Casa para perro: cuál comprar", href: "/guias/mascotas/casa-para-perro" },
       { label: "Cama para perro: cuál comprar", href: "/guias/mascotas/cama-para-perro" },
+      { label: "Arenero para gatos: cuál comprar", href: "/guias/mascotas/arenero-para-gatos" },
     ],
     internalLinksTitle: "Más para tu gato",
   },
@@ -35340,6 +35342,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { label: "Rascador para gatos: cuál comprar", href: "/guias/mascotas/rascador-para-gatos" },
       { label: "Transportadora para gatos: cuál comprar", href: "/guias/mascotas/transportadora-para-gatos" },
       { label: "Cama para perro: cuál comprar", href: "/guias/mascotas/cama-para-perro" },
+      { label: "Arenero para gatos: cuál comprar", href: "/guias/mascotas/arenero-para-gatos" },
     ],
     internalLinksTitle: "Más para tu mascota",
   },
@@ -35451,6 +35454,113 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { label: "Casa para perro: cuál comprar", href: "/guias/mascotas/casa-para-perro" },
       { label: "Rascador para gatos: cuál comprar", href: "/guias/mascotas/rascador-para-gatos" },
       { label: "Transportadora para gatos: cuál comprar", href: "/guias/mascotas/transportadora-para-gatos" },
+      { label: "Arenero para gatos: cuál comprar", href: "/guias/mascotas/arenero-para-gatos" },
+    ],
+    internalLinksTitle: "Más para tu mascota",
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // PILAR arenero-para-gatos — silo mascotas
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "arenero-para-gatos",
+    category: "arenero-para-gatos",
+    silo: "mascotas",
+    pillar: true,
+    title: `Arenero para gatos: cuál comprar en Argentina [2026]`,
+    seoTitle: `Arenero Para Gatos: Cuál Comprar en Argentina [2026]`,
+    metaDescription: `Comparamos 4 areneros para gatos reales de MercadoLibre: cerrado, abierto y el único autolimpiante. El más elegido tiene la base de reseñas más grande.`,
+    ogTitle: `Arenero para gatos: cuál comprar en Argentina`,
+    ogDescription: `4 areneros comparados por tipo (cerrado, abierto o autolimpiante), tamaño y respaldo de reseñas. Uno se limpia solo con sensores y avisa por app.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_808322-MLA93945334054_102025-O.webp`,
+    h1: `Arenero para gatos: cuál comprar en Argentina y qué mirar antes [2026]`,
+    directAnswer: `Para la mayoría conviene la **[litera cerrada con pala](/producto/litera-cerrada-gato-importada-con-palita-50x35x35-cm-mlau3122101235)** (alrededor de {{precio:MLAU3122101235:k}}): es la más elegida por lejos, con {{reviews:MLAU3122101235}} calificaciones. Si querés que se limpie sola, la **[Beepaw Rock-e](/producto/litera-automatica-gatos-beepaw-rock-e-autolimpiante-wi-fi-app-color-blanco-mla68738252)**, autolimpiante y con app. Si buscás una marca conocida con el mejor rating, el **[Gadnic cerrado](/producto/arenero-cerrado-para-gatos-gadnic-litera-bandeja-anti-olor-con-pala-mla66561808)**. Y si el presupuesto manda, la **[caja abierta Amuní](/producto/caja-sanitaria-gatos-abierta-amuni-bandeja-sanitaria-bandeja-crema-mla75309760)**, la más económica.`,
+    publishedDate: "2026-10-20",
+    updatedDate: "2026-10-20",
+    sitemapLastmod: "2026-10-20",
+    hasDisclosure: true,
+    readingTime: 8,
+    standfirst: `Un arenero para gatos va de {{precio:MLA75309760:k}} a {{precio:MLA68738252:k}}. Comparamos 4 modelos reales de MercadoLibre Argentina por **tipo (cerrado, abierto o autolimpiante), tamaño y respaldo de reseñas**, con contras sacadas de reseñas verdaderas, dentro de nuestro silo de [Mascotas](/categoria/mascotas).`,
+    quickPicks: [
+      { productMlaId: "MLAU3122101235", label: "La más elegida", labelColor: "green", tagline: "Litera cerrada con pala: {{reviews:MLAU3122101235}} calificaciones, el respaldo más grande" },
+      { productMlaId: "MLA68738252", label: "La autolimpiante", labelColor: "blue", tagline: "Beepaw Rock-e: se limpia sola, con sensores y app" },
+      { productMlaId: "MLA66561808", label: "La mejor calificada", labelColor: "purple", tagline: "Gadnic cerrado: {{rating:MLA66561808}} estrellas, marca conocida" },
+      { productMlaId: "MLA75309760", label: "La más económica", labelColor: "amber", tagline: "Amuní abierta: borde alto, la más barata de la comparativa" },
+    ],
+    intro: [
+      `Elegir un **arenero para gatos** parece una decisión de precio y termina siendo una de tipo. Cerrado, abierto o autolimpiante son productos distintos que resuelven problemas distintos (olor, arena desparramada, tiempo de limpieza), y confundirlos es la forma más común de terminar con un arenero que no se usa como esperabas.`,
+      `Comparamos 4 areneros reales de MercadoLibre Argentina y verificamos, uno por uno, qué declara su ficha técnica sobre tipo, tamaño y reseñas de compradores. Apareció algo que conviene saber antes de comprar: **el modelo con más reseñas no es ni el más caro ni el mejor calificado**, es simplemente una litera cerrada básica con pala, sin marca reconocida.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_808322-MLA93945334054_102025-O.webp", alt: `Litera cerrada para gatos con pala, la más elegida de esta comparativa`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Si no querés leer toda la comparativa: la **[litera cerrada con pala](https://meli.la/2bjPATU)** es la más elegida de las cuatro, con **{{reviews:MLAU3122101235}} calificaciones**, muy por encima del resto. Diseño cerrado clásico de 50x35x35 cm, sin funciones automáticas. La reseña que encontramos no reporta fallas de calidad.` },
+
+      { type: "callout", calloutVariant: "warning", calloutTitle: "Cerrado, abierto o autolimpiante: no es lo mismo", content: `De los cuatro areneros de esta comparativa, dos son **cerrados con tapa** (la litera importada y el Gadnic, contienen mejor el olor y la arena), uno es **abierto con borde alto** (Amuní, más económico, algunos gatos lo prefieren) y uno es **autolimpiante** (Beepaw Rock-e, se limpia solo con sensores y avisa por app, al precio más alto de los cuatro). Definí primero qué problema querés resolver: ¿el olor, la arena desparramada, o directamente no tener que limpiar a mano?` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** partimos del rubro de areneros para gatos de MercadoLibre Argentina y verificamos cada publicación en vivo el 2026-10-20: precio, stock, ficha técnica campo por campo y reseñas de compradores. Miramos especialmente cuatro campos que deciden la compra: **tipo (cerrado, abierto o autolimpiante)**, **tamaño**, **si incluye pala**, y **respaldo de reseñas reales**. Los precios se verifican automáticamente contra MercadoLibre.` },
+
+      { type: "h2", title: `Los cuatro datos que deciden la compra`, id: "que-mirar" },
+      { type: "p", content: `**Tipo de arenero.** Cerrado (contiene olor y arena, pero algunos gatos tardan en adaptarse), abierto (más accesible, algunos gatos lo prefieren, pero deja más olor expuesto) o autolimpiante (resuelve la limpieza diaria, al precio más alto). En esta comparativa hay dos cerrados, uno abierto y uno autolimpiante.` },
+      { type: "p", content: `**Tamaño.** Van de 18,5 x 41 x 34 cm (la Amuní, la más chica) a 67 x 51 x 49 cm (la Beepaw automática, la más grande). Para gatos grandes conviene priorizar las opciones más amplias.` },
+      { type: "p", content: `**Si incluye pala.** Tres de los cuatro la incluyen; la autolimpiante no la necesita para el uso normal del día a día.` },
+      { type: "p", content: `**Respaldo de reseñas.** Va de {{reviews:MLA66561808}} a {{reviews:MLAU3122101235}} calificaciones entre las cuatro opciones. Una base chica de reseñas no significa mala calidad (el Gadnic tiene el rating más alto con la base más chica), pero sí menos gente que lo haya probado.` },
+
+      { type: "h2", title: `Comparativa rápida: los 4 frente a frente`, id: "tabla-comparativa" },
+      { type: "table", headers: ["Modelo", "Tipo", "Precio", "Calificaciones", "Ideal para"], rows: [
+        ["[Litera cerrada](https://meli.la/2bjPATU)", "Cerrado", "{{precio:MLAU3122101235}}", "{{rating:MLAU3122101235}} ★ ({{reviews:MLAU3122101235}})", "La mayoría, compra segura"],
+        ["[Beepaw Rock-e](https://meli.la/1KyiqrA)", "Autolimpiante", "{{precio:MLA68738252}}", "{{rating:MLA68738252}} ★ ({{reviews:MLA68738252}})", "No querer limpiar a mano"],
+        ["[Gadnic cerrado](https://meli.la/28ToZNz)", "Cerrado", "{{precio:MLA66561808}}", "{{rating:MLA66561808}} ★ ({{reviews:MLA66561808}})", "Marca conocida, mejor rating"],
+        ["[Amuní abierta](https://meli.la/2SNWRzQ)", "Abierto", "{{precio:MLA75309760}}", "{{rating:MLA75309760}} ★ ({{reviews:MLA75309760}})", "Gastar lo mínimo"],
+      ] },
+      { type: "p", content: `El nombre de cada modelo lleva directo a su publicación en MercadoLibre. Abajo está el detalle de los cuatro, en el mismo orden: qué hace bien cada uno y dónde se queda corto.` },
+
+      { type: "h2", title: `El ranking`, id: "ranking" },
+
+      { type: "h3", title: `1. Litera cerrada con pala` },
+      { type: "product-card", productMlaId: "MLAU3122101235", label: "La más elegida", labelColor: "green", ranking: 1, description: "Litera cerrada clásica de 50x35x35 cm, con pala incluida. La más elegida de las cuatro, con {{reviews:MLAU3122101235}} calificaciones." },
+      { type: "p", content: `Es el arenero **con más respaldo de esta comparativa por lejos**: {{reviews:MLAU3122101235}} calificaciones con {{rating:MLAU3122101235}} de promedio. Es un diseño cerrado sin marca reconocida, con pala a juego, pensado para contener mejor el olor y la arena que un diseño abierto.` },
+      { type: "pull-quote", content: `"El día que llegó la litera mi panterita huyó [...] a las 2 hs se acercó a oler. La litera nos encantó, parece ser de buen material y es bastante espaciosa."`, attribution: `Compradora de la litera cerrada, calificación 5/5` },
+
+      { type: "h3", title: `2. Beepaw Rock-e, la autolimpiante` },
+      { type: "product-card", productMlaId: "MLA68738252", label: "La autolimpiante", labelColor: "blue", ranking: 2, description: "Se limpia sola con sensores de infrarrojo y peso, y avisa por app WiFi. La única autolimpiante de esta comparativa, con {{reviews:MLA68738252}} calificaciones." },
+      { type: "p", content: `Cuesta {{precio:MLA68738252}}, varias veces el precio de las opciones manuales, y resuelve la tarea de raíz: detecta cuándo el gato terminó y limpia sola, sin que haya que tocar la pala. Con {{reviews:MLA68738252}} calificaciones a {{rating:MLA68738252}} estrellas, es la opción automática mejor valorada que encontramos con stock real.` },
+      { type: "pull-quote", content: `"Detecta automáticamente, fácil de ensamblar [...] con la app ves todo [...] te dice hasta el momento cuando va el gato y cuánto pesa."`, attribution: `Comprador de la Beepaw Rock-e, calificación 5/5` },
+
+      { type: "h3", title: `3. Gadnic cerrado, la mejor calificada` },
+      { type: "product-card", productMlaId: "MLA66561808", label: "La mejor calificada", labelColor: "purple", ranking: 3, description: "Arenero cerrado con pala, de una marca conocida en el catálogo. El rating más alto de la comparativa: {{rating:MLA66561808}} estrellas." },
+      { type: "p", content: `Cuesta {{precio:MLA66561808}} y tiene {{rating:MLA66561808}} estrellas en {{reviews:MLA66561808}} calificaciones, el promedio más alto de las cuatro opciones, aunque sobre una base todavía chica. Es un diseño cerrado de marca reconocida, con pala incluida.` },
+      { type: "pull-quote", content: `"Lo mejor para los gatitos, con las demás tiraban para todos lados las piedras, por suerte ya no, fácil de limpiar."`, attribution: `Compradora del Gadnic cerrado, calificación 5/5` },
+
+      { type: "h3", title: `4. Amuní abierta, la más económica` },
+      { type: "product-card", productMlaId: "MLA75309760", label: "La más económica", labelColor: "amber", ranking: 4, description: "Caja sanitaria abierta con borde alto y pala. La más barata de la comparativa, con {{reviews:MLA75309760}} calificaciones." },
+      { type: "p", content: `A {{precio:MLA75309760}}, es la opción más accesible de esta guía. No es una bandeja plana cualquiera: tiene borde alto en los cuatro lados para contener la arena pese a ser abierta. Con {{reviews:MLA75309760}} calificaciones a {{rating:MLA75309760}} estrellas, tiene buen respaldo para su precio.` },
+      { type: "pull-quote", content: `"No más piedritas desparramadas. A la vista super estético [...] la relación precio calidad, insuperable."`, attribution: `Compradora de la Amuní abierta, calificación 5/5` },
+
+      { type: "h2", title: `Cuál arenero elegir según tu caso`, id: "cual-elegir" },
+      { type: "list", items: [
+        `**No sabés cuál elegir, querés la compra segura:** la [litera cerrada con pala](https://meli.la/2bjPATU) ({{precio:MLAU3122101235}}). La más elegida del sitio por lejos, sin vueltas.`,
+        `**No querés limpiar a mano todos los días:** la [Beepaw Rock-e](https://meli.la/1KyiqrA) ({{precio:MLA68738252}}). Se limpia sola y avisa por app.`,
+        `**Preferís una marca conocida con buen rating:** el [Gadnic cerrado](https://meli.la/28ToZNz) ({{precio:MLA66561808}}). El promedio más alto de la comparativa.`,
+        `**Querés gastar lo mínimo, o necesitás una segunda caja:** la [Amuní abierta](https://meli.la/2SNWRzQ) ({{precio:MLA75309760}}). Borde alto para contener la arena pese a ser abierta.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la mayoría, la **litera cerrada con pala** a {{precio:MLAU3122101235}} es la compra más segura: {{reviews:MLAU3122101235}} calificaciones no dejan lugar a dudas, aunque sea un producto sin marca reconocida. Si no querés lidiar con la limpieza diaria, la **Beepaw Rock-e** justifica el salto de precio. Si preferís una marca conocida, el **Gadnic** tiene el mejor rating de los cuatro. Y si el presupuesto manda, la **Amuní abierta** cumple, con la salvedad de ser el diseño más chico de la comparativa.` },
+    ],
+    faq: [
+      { question: `¿Cuál es el mejor arenero para gatos en Argentina?`, answer: `El más elegido y con mejor respaldo es la [litera cerrada con pala](https://meli.la/2bjPATU) ({{precio:MLAU3122101235}}, {{reviews:MLAU3122101235}} calificaciones). Si querés que se limpie sola, la [Beepaw Rock-e](https://meli.la/1KyiqrA); si buscás marca conocida y mejor rating, el [Gadnic](https://meli.la/28ToZNz).` },
+      { question: `¿Arenero cerrado o abierto, cuál conviene?`, answer: `El cerrado contiene mejor el olor y la arena, pero algunos gatos tardan en adaptarse. El abierto da más visibilidad y es más económico, aunque deja más olor expuesto. No hay uno objetivamente mejor: depende de la preferencia de tu gato y de cuánto te moleste la arena desparramada.` },
+      { question: `¿Vale la pena un arenero autolimpiante?`, answer: `Si valorás no tener que limpiar a mano todos los días, sí: la [Beepaw Rock-e](https://meli.la/1KyiqrA) resuelve la tarea de raíz con sensores que detectan cuándo el gato terminó. El precio es varias veces el de una litera manual, así que conviene para quien prioriza el tiempo que ahorra por sobre el costo inicial.` },
+      { question: `¿Cuántos areneros necesito si tengo más de un gato?`, answer: `La recomendación general es un arenero por gato más uno extra. Si ya tenés uno cerrado, sumar una [caja abierta económica](https://meli.la/2SNWRzQ) como segunda opción es una forma barata de cumplir esa regla.` },
+      { question: `¿Mi gato se va a adaptar a un arenero cerrado?`, answer: `Según una reseña real, puede tardar un rato en animarse: una compradora cuenta que su gata huyó al principio y recién se acercó a olerla dos horas después, pero esa misma madrugada ya la usó con normalidad. Es un comportamiento normal, no un problema del producto.` },
+      { question: `¿Cuál es el arenero más económico con buen respaldo?`, answer: `La [caja abierta Amuní](https://meli.la/2SNWRzQ) ({{precio:MLA75309760}}), con {{reviews:MLA75309760}} calificaciones reales. Tiene borde alto para contener la arena pese a ser abierta, aunque es el diseño más chico de la comparativa.` },
+    ],
+    internalLinks: [
+      { label: "Rascador para gatos: cuál comprar", href: "/guias/mascotas/rascador-para-gatos" },
+      { label: "Transportadora para gatos: cuál comprar", href: "/guias/mascotas/transportadora-para-gatos" },
+      { label: "Casa para perro: cuál comprar", href: "/guias/mascotas/casa-para-perro" },
+      { label: "Cama para perro: cuál comprar", href: "/guias/mascotas/cama-para-perro" },
     ],
     internalLinksTitle: "Más para tu mascota",
   },

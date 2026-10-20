@@ -2829,3 +2829,23 @@ Re-medir: ~2026-11-03, un mes después de publicada.
 **Verificación:** `npx tsc --noEmit`, `npm run build`, y los 6 scripts de check relevantes (price-tokens, hardcoded-reviews, guide-monetization, table-product-links, canonical-product-links, guide-internal-links) en verde de punta a punta.
 
 Re-medir: ~2026-11-19, un mes después de publicada.
+
+## Guía nueva `arenero-para-gatos` — silo `mascotas` (existente) — 2026-10-20
+
+| Guía | Silo | Categoría | Keyword del bloque | Volumen | Competencia real | Productos |
+| :-- | :-- | :-- | :-- | --: | --: | --: |
+| `arenero-para-gatos` | mascotas | arenero-para-gatos | arenero para gatos | 2.400/mes (Keyword Planner) | blogs genéricos de España + YouTube, ML recién en posición 11, sin pet shop argentino de autoridad | 4 (sourcing nuevo) |
+
+**Baseline: cero.** URL nueva (`/guias/mascotas/arenero-para-gatos`), sin historial en GSC. Origen: segundo candidato 🟢 del mismo barrido de 4 agentes en paralelo del 19/10 (el primero fue `mouse-inalambrico`). Refuerza el silo mascotas existente (rascador-para-gatos, transportadora-para-gatos, casa-para-perro, cama-para-perro) en vez de abrir un silo nuevo, con enlazado recíproco agregado en las 4 guías hermanas.
+
+**Sourcing nuevo en vivo en MercadoLibre:** Litera Cerrada Importada (MLAU3122101235, la más vendida, 433 calificaciones, $26.352, sin marca reconocida: el campo "Marca" de ML trae un valor de SEO-stuffing inventado por el vendedor, "Hipermascota-litera-arena-gato", así que la ficha omite `brand` y lo declara honestamente); Beepaw Rock-e (MLA68738252, $559.999, 74 calificaciones, la única autolimpiante, con sensores de infrarrojo/peso y app WiFi); Gadnic cerrado (MLA66561808, $58.294, 29 calificaciones — la base más chica de las 4 — pero el rating más alto, 4.9); Amuní abierta (MLA75309760, $22.990, 59 calificaciones, la única abierta y la más barata, con borde alto para contener arena).
+
+**Auditoría del trío: 2 rondas con Codex hasta GO; Gemini sigue sin cuota desde ayer (mouse-inalambrico), no se pudo auditar.** Ronda 1 de Codex (1 bloqueante real): la adaptación del gato a la litera cerrada estaba mal atribuida a la reseña real guardada — la guía y la ficha afirmaban "algunos gatos tardan uno o dos días en animarse, sobre todo si vienen de una litera abierta", pero la reseña real solo dice que la gata se acercó a olerla a las 2 horas y la usó esa misma madrugada, sin mencionar ningún arenero abierto previo ni un plazo de días. Se corrigió en los 3 lugares (FAQ de la guía, articleBody de la ficha, FAQ de la ficha) para reflejar exactamente lo que dice la reseña. Mejora opcional aplicada: "no se reportan fallas de calidad recurrentes" (generalización fuerte sobre una sola reseña) se acotó a "la reseña que encontramos no reporta fallas de calidad". Ronda 2: Codex confirmó los 2 ajustes resueltos sin hallazgos nuevos — GO.
+
+**Error propio detectado y corregido antes del trío:** calculé los slugs de `/producto/` de las 4 fichas a partir de un nombre corto que inventé para cada producto, en vez de usar el campo `title` completo como hace realmente `productSlug()`. `check-canonical-product-links.cjs` lo detectó (8 links con slug distinto al canónico) antes de llegar al trío; se corrigió con `sed` en los 8 lugares y se verificó que el slug recalculado coincide exactamente con `product-slug-map.json` regenerado.
+
+**Hallazgo aparte, no de esta guía: bug preexistente en todo el silo mascotas.** Las 5 categorías del silo (incluida la nueva) no tienen entrada en el diccionario `guideCategories` de `guides.ts`, así que `/guias` muestra el slug crudo como subtítulo `<h3>` en vez de un nombre legible, para las 5 por igual. Verificado en el navegador que las 4 hermanas ya tenían este problema antes de esta sesión. Queda pendiente como tarea aparte si Juan quiere pareja la UI del silo completo.
+
+**Verificación:** `npx tsc --noEmit`, `npm run build`, y los 6 scripts de check relevantes (price-tokens, hardcoded-reviews, guide-monetization, table-product-links, canonical-product-links, guide-internal-links) en verde de punta a punta.
+
+Re-medir: ~2026-11-20, un mes después de publicada.
