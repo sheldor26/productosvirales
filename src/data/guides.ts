@@ -33995,9 +33995,130 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { label: "Cinta de correr: cuál comprar", href: "/guias/fitness/cinta-de-correr" },
       { label: "Masajeador de espalda y lumbar: cuál sirve para tu dolor", href: "/guias/masajeador-espalda" },
       { label: "Bordeadora eléctrica: cuál comprar", href: "/guias/hogar-jardin/bordeadora-electrica" },
+      { label: "Pesa rusa: cuál comprar", href: "/guias/fitness/pesa-rusa" },
     ],
     internalLinksTitle: "Más para entrenar y cuidarte en casa",
   },
+
+  // ─────────────────────────────────────────────────────────
+  // PILAR pesa-rusa — silo fitness (existente, con mancuernas,
+  // bicicleta-fija, soga-para-saltar, cinta-de-correr). Origen: barrido
+  // de keywords de la sesión del 2026-10-21, keyword "pesa rusa" +
+  // "kettlebell" 5.400 + 4.400/mes AR (Keyword Planner), el volumen más
+  // alto del backlog de esa ronda. SERP verificado dos veces (agente +
+  // Claude directo con Ubersuggest): ML en posición 7 con poco click,
+  // competidor real a vigilar (quuz.com.ar, DA11 pero #3 con 1.797
+  // clicks), 3-4 D2C chicos más (bsfit, strongfitness, gamelan) sin
+  // llegar al umbral de 5+. Riesgo competitivo real y conocido, Juan
+  // decidió avanzar igual. 4 fichas nuevas, sourcing en vivo el mismo día
+  // (Chrome de Juan, ML bloquea el navegador interno; varios IDs de
+  // listado estaban dados de baja/404 directo por artículo, hubo que
+  // navegar por el link de catálogo /p/ desde el listado en vez de la
+  // URL directa /MLA-ID para encontrar listados realmente vivos).
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "pesa-rusa",
+    category: "pesa-rusa",
+    silo: "fitness",
+    pillar: true,
+    title: `Pesa rusa: cuál comprar en Argentina [2026]`,
+    seoTitle: `Pesa Rusa: Cuál Comprar en Argentina [2026]`,
+    metaDescription: `Comparamos 4 pesas rusas (kettlebells) reales de MercadoLibre: la más vendida, la premium de hierro fundido, la de marca reconocida y la ajustable. Con contras honestas.`,
+    ogTitle: `Pesa rusa: cuál comprar en Argentina`,
+    ogDescription: `4 kettlebells comparadas por material, peso y respaldo de reseñas. Una no es una pesa fija: es un mango para cargar tus propios discos.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_735193-MLA95531256346_102025-O.webp`,
+    h1: `Pesa rusa: cuál comprar en Argentina y qué mirar antes [2026]`,
+    directAnswer: `Para la mayoría conviene la **[Sport Maniac 10kg](/producto/pesas-rusas-10-kg-pvc-kettlebell-pesa-rusa-cross-gym-fitness-mla36796031)** (alrededor de {{precio:MLA36796031:k}}): la más vendida de esta comparativa, con {{reviews:MLA36796031}} calificaciones. Si entrenás en serio y preferís hierro fundido, la **[G-Fitness 28kg](/producto/pesa-rusa-kettlebell-fundicion-28kg-x-unidad-color-negro-mla41456133)**, la premium profesional. Si preferís una marca reconocida en un peso intermedio, la **[Vera 16kg](/producto/pesa-rusa-16kg-kettlebells-pvc-mlau264994773)**. Y si ya tenés discos de entrenamiento en casa, el **[Alpina AKE-09](/producto/pesa-rusa-kettlebell-recargable-accesorio-mango-alpina-ake-09-mla75506336)**, un mango ajustable en vez de una pesa fija.`,
+    publishedDate: "2026-10-21",
+    updatedDate: "2026-10-21",
+    sitemapLastmod: "2026-10-21",
+    hasDisclosure: true,
+    readingTime: 8,
+    standfirst: `Una pesa rusa va de {{precio:MLA36796031:k}} a {{precio:MLA41456133:k}}. Comparamos 4 kettlebells reales de MercadoLibre Argentina por **material (PVC o hierro fundido), peso y respaldo de reseñas**, con contras sacadas de reseñas verdaderas, dentro de nuestro silo de [Fitness](/categoria/fitness).`,
+    quickPicks: [
+      { productMlaId: "MLA36796031", label: "La más vendida", labelColor: "green", tagline: "Sport Maniac 10kg: 3° en Pesas Rusas, {{reviews:MLA36796031}} calificaciones" },
+      { productMlaId: "MLA41456133", label: "La premium profesional", labelColor: "purple", tagline: "G-Fitness 28kg: hierro fundido, {{rating:MLA41456133}} estrellas" },
+      { productMlaId: "MLAU264994773", label: "La marca reconocida", labelColor: "blue", tagline: "Vera 16kg: tienda oficial, peso intermedio" },
+      { productMlaId: "MLA75506336", label: "La ajustable", labelColor: "amber", tagline: "Alpina AKE-09: mango recargable, no incluye discos" },
+    ],
+    intro: [
+      `Elegir una **pesa rusa** (o kettlebell) parece una decisión de peso y termina siendo una de material y formato: PVC o hierro fundido no son lo mismo, y tampoco es lo mismo una pesa de peso fijo que un mango ajustable al que le sumás tus propios discos.`,
+      `Comparamos 4 pesas rusas reales de MercadoLibre Argentina y verificamos, una por una, qué declara su ficha técnica sobre material, peso y reseñas de compradores. Apareció algo que conviene saber antes de comprar: **una de las cuatro no es una pesa de peso fijo**, es un mango recargable que armás vos mismo con discos propios.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_735193-MLA95531256346_102025-O.webp", alt: `Pesa rusa Sport Maniac de 10kg en PVC, la más vendida de esta comparativa`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, la **[Sport Maniac 10kg](https://meli.la/1bbtEHS)**: la más vendida. Si entrenás en serio, la **[G-Fitness 28kg](https://meli.la/1yrzkBS)** de hierro fundido. Si preferís marca reconocida, la **[Vera 16kg](https://meli.la/1GS9psD)**. Y si ya tenés discos propios, el **[Alpina AKE-09](https://meli.la/2pigV8z)**, un mango ajustable.` },
+
+      { type: "callout", calloutVariant: "warning", calloutTitle: "Tres son pesas fijas, una es un mango ajustable", content: `Tres de las cuatro de esta comparativa son pesas de peso fijo: dos en **PVC** (Sport Maniac, Vera) y una en **hierro fundido** (G-Fitness), más cara y durable pero que golpea más fuerte contra el piso. Según una reseña real, la Sport Maniac (PVC) tiene riesgo de rajarse en la base si se apoya con fuerza o se tira al piso. La cuarta (Alpina) también es PVC, pero en otro formato: no es una pesa fija, es un mango al que le sumás tus propios discos de entrenamiento para regular el peso.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** partimos del rubro de pesas rusas de MercadoLibre Argentina y verificamos cada publicación en vivo el 2026-10-21: precio, stock, ficha técnica campo por campo y reseñas de compradores. Miramos especialmente tres campos que deciden la compra: **material (PVC o hierro fundido)**, **peso**, y **respaldo real de reseñas**. Los precios se verifican automáticamente contra MercadoLibre.` },
+
+      { type: "h2", title: `Los tres datos que deciden la compra`, id: "que-mirar" },
+      { type: "p", content: `**Material y formato.** Sport Maniac y Vera son PVC, más barato y silencioso (aunque según una reseña real la Sport Maniac tiene riesgo de rajarse con golpes fuertes). G-Fitness es hierro fundido, más durable y preciso, pero más caro y ruidoso al apoyarlo. Alpina también es PVC, pero en formato de mango ajustable, no de pesa fija.` },
+      { type: "p", content: `**Peso.** Va de 10 kg (Sport Maniac) a 28 kg (G-Fitness), con la Vera en el medio (16 kg). El Alpina no tiene peso fijo: depende de los discos que le sumes.` },
+      { type: "p", content: `**Respaldo de reseñas.** Va de {{reviews:MLA75506336}} a {{reviews:MLA36796031}} calificaciones entre las cuatro. Una base chica no significa mala calidad (el Alpina tiene {{rating:MLA75506336}} estrellas con la base más chica), pero sí menos gente que lo haya probado.` },
+
+      { type: "h2", title: `Comparativa rápida: las 4 frente a frente`, id: "tabla-comparativa" },
+      { type: "table", headers: ["Modelo", "Material", "Peso", "Precio", "Calificaciones"], rows: [
+        ["[Sport Maniac 10kg](https://meli.la/1bbtEHS)", "PVC relleno", "10 kg", "{{precio:MLA36796031}}", "{{rating:MLA36796031}} ★ ({{reviews:MLA36796031}})"],
+        ["[G-Fitness 28kg](https://meli.la/1yrzkBS)", "Hierro fundido", "28 kg", "{{precio:MLA41456133}}", "{{rating:MLA41456133}} ★ ({{reviews:MLA41456133}})"],
+        ["[Vera 16kg](https://meli.la/1GS9psD)", "PVC", "16 kg", "{{precio:MLAU264994773}}", "{{rating:MLAU264994773}} ★ ({{reviews:MLAU264994773}})"],
+        ["[Alpina AKE-09](https://meli.la/2pigV8z)", "PVC (mango ajustable, sin discos)", "Ajustable", "{{precio:MLA75506336}}", "{{rating:MLA75506336}} ★ ({{reviews:MLA75506336}})"],
+      ] },
+      { type: "p", content: `El nombre de cada modelo lleva directo a su publicación en MercadoLibre. Abajo está el detalle de las cuatro, en el mismo orden: qué hace bien cada una y dónde se queda corta.` },
+
+      { type: "h2", title: `El ranking`, id: "ranking" },
+
+      { type: "h3", title: `1. Sport Maniac 10kg, la más vendida` },
+      { type: "product-card", productMlaId: "MLA36796031", label: "La más vendida", labelColor: "green", ranking: 1, description: "PVC relleno de 10 kg, 3° más vendida en Pesas Rusas de MercadoLibre. {{reviews:MLA36796031}} calificaciones, la base más grande de esta comparativa." },
+      { type: "p", content: `Es 3° en el ranking de ventas de Pesas Rusas de MercadoLibre, con {{reviews:MLA36796031}} calificaciones a {{rating:MLA36796031}} estrellas, la base más grande de esta comparativa. Es también la más económica, de PVC relleno, por {{precio:MLA36796031}}.` },
+      { type: "pull-quote", content: `"Conforme con el producto, cuando vi el precio me pareció mentira de tan barato que era [...] cuando la usen apóyenla lo más suave posible en el piso, ya que si la apoyan fuerte o la tiran hay riesgo de que se parta la parte de abajo."`, attribution: `Comprador de la Sport Maniac 10kg, calificación 5/5` },
+
+      { type: "h3", title: `2. G-Fitness 28kg, la premium profesional` },
+      { type: "product-card", productMlaId: "MLA41456133", label: "La premium profesional", labelColor: "purple", ranking: 2, description: "Hierro fundido de 28 kg, sin recubrimiento. {{rating:MLA41456133}} estrellas, el rating más alto entre las pesas de peso fijo." },
+      { type: "p", content: `Con {{rating:MLA41456133}} estrellas en {{reviews:MLA41456133}} calificaciones, tiene el rating más alto entre las pesas de peso fijo de esta comparativa (el Alpina llega a {{rating:MLA75506336}}, pero sobre una base de apenas {{reviews:MLA75506336}} calificaciones). Es hierro fundido de 28 kg, sin recubrimiento, por {{precio:MLA41456133}}, la opción más cara por lejos.` },
+      { type: "pull-quote", content: `"Es de muy buena manufactura [...] está muy muy prolija, sin aristas, superficies lisas [...] el mango de dimensiones muy buenas, cómodo, un grosor justo."`, attribution: `Comprador de la G-Fitness 28kg, calificación 5/5` },
+
+      { type: "h3", title: `3. Vera 16kg, la marca reconocida` },
+      { type: "product-card", productMlaId: "MLAU264994773", label: "La marca reconocida", labelColor: "blue", ranking: 3, description: "PVC de 16 kg, de Vera, con tienda oficial en MercadoLibre. Peso intermedio entre la Sport Maniac y la G-Fitness." },
+      { type: "p", content: `Vera tiene tienda oficial en MercadoLibre, con {{rating:MLAU264994773}} estrellas en {{reviews:MLAU264994773}} calificaciones. A {{precio:MLAU264994773}}, sus 16 kg la ubican como un paso lógico después de la Sport Maniac, para quien ya entrena hace un tiempo.` },
+      { type: "pull-quote", content: `"La verdad me parece calidad y precio! me hace tentar de comprar otra!."`, attribution: `Compradora de la Vera 16kg, calificación 5/5` },
+
+      { type: "h3", title: `4. Alpina AKE-09, la ajustable` },
+      { type: "product-card", productMlaId: "MLA75506336", label: "La ajustable", labelColor: "amber", ranking: 4, description: "Mango recargable: convertí tus discos de entrenamiento en pesa rusa de peso ajustable. No incluye discos." },
+      { type: "p", content: `Es la única de esta comparativa sin peso fijo: un mango recargable (16° más vendido en Pesas Rusas de MercadoLibre) al que le sumás discos propios para regular la carga, por {{precio:MLA75506336}}.` },
+      { type: "p", content: `La condición real: no incluye discos. Solo tiene sentido si ya tenés algunos (de una barra o mancuernas ajustables) o estás dispuesto a comprarlos aparte.` },
+      { type: "pull-quote", content: `"Me encantó!! muy buena calidad."`, attribution: `Comprador del Alpina AKE-09, calificación 5/5` },
+
+      { type: "h2", title: `Cuál pesa rusa elegir según tu caso`, id: "cual-elegir" },
+      { type: "list", items: [
+        `**No sabés cuál elegir, querés la compra segura:** la [Sport Maniac 10kg](https://meli.la/1bbtEHS) ({{precio:MLA36796031}}). La más vendida y la más económica.`,
+        `**Entrenás en serio y preferís hierro fundido:** la [G-Fitness 28kg](https://meli.la/1yrzkBS) ({{precio:MLA41456133}}). La mejor calificada de peso fijo, pero la más cara.`,
+        `**Preferís una marca reconocida en un peso intermedio:** la [Vera 16kg](https://meli.la/1GS9psD) ({{precio:MLAU264994773}}).`,
+        `**Ya tenés discos de entrenamiento en casa:** el [Alpina AKE-09](https://meli.la/2pigV8z) ({{precio:MLA75506336}}). No compres uno nuevo si no tenés discos para usarlo.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la mayoría, la **Sport Maniac 10kg** es la compra más segura: la más vendida de esta comparativa y la más económica, con la salvedad de que hay que apoyarla con cuidado para no rajar la base de PVC. Si entrenás en serio y preferís hierro fundido, la **G-Fitness 28kg** es la mejor calificada de peso fijo, aunque la más cara por lejos. Si preferís una marca reconocida en un peso intermedio, la **Vera 16kg** cumple. Y si ya tenés discos de entrenamiento en casa, el **Alpina AKE-09** te ahorra comprar una pesa fija nueva. El error a evitar: comprar el Alpina sin tener discos propios, pensando que es una pesa rusa completa.` },
+
+      { type: "h2", title: `Preguntas frecuentes`, id: "faq" },
+    ],
+    faq: [
+      { question: `¿Cuál es la mejor pesa rusa en Argentina?`, answer: `La más vendida es la [Sport Maniac 10kg](https://meli.la/1bbtEHS). Si preferís hierro fundido y buscás la mejor calificada entre las pesas de peso fijo, la [G-Fitness 28kg](https://meli.la/1yrzkBS).` },
+      { question: `¿PVC o hierro fundido, cuál conviene?`, answer: `El PVC es más barato y silencioso (aunque según una reseña real la Sport Maniac tiene riesgo de rajarse con golpes fuertes). El hierro fundido es más durable y preciso, pero más caro y golpea más fuerte contra el piso. Depende de tu presupuesto y de cuánto cuidado le vayas a dar.` },
+      { question: `¿Qué es una pesa rusa "ajustable" como el Alpina?`, answer: `Es un mango recargable: en vez de una pesa de peso fijo, le sumás discos de entrenamiento propios para regular la carga. No incluye los discos, así que solo tiene sentido si ya tenés algunos.` },
+      { question: `¿Qué peso me conviene para empezar?`, answer: `Para principiantes, 8 a 10 kg como la Sport Maniac suele alcanzar. Para quien ya entrena hace un tiempo, 16 kg como la Vera es un paso intermedio razonable. Los 28 kg de la G-Fitness son para cargas más altas, no para arrancar.` },
+      { question: `¿Por qué una tiene tan pocas reseñas comparada con las otras?`, answer: `El Alpina AKE-09 tiene {{reviews:MLA75506336}} calificaciones, la base más chica de esta comparativa. No significa mala calidad (tiene {{rating:MLA75506336}} estrellas), sino que es un producto más de nicho: no todos los que compran pesas rusas buscan la versión ajustable con discos propios.` },
+    ],
+    internalLinks: [
+      { label: "Mancuernas: cuál comprar", href: "/guias/fitness/mancuernas" },
+      { label: "Bicicleta fija: cuál comprar", href: "/guias/fitness/bicicleta-fija" },
+      { label: "Soga para saltar: cuál comprar", href: "/guias/fitness/soga-para-saltar" },
+    ],
+    internalLinksTitle: "Más para entrenar en casa",
+  },
+
   {
     slug: "bicicleta-fija",
     category: "bicicleta-fija",
@@ -34111,6 +34232,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { label: "Soga para saltar: cuál comprar", href: "/guias/fitness/soga-para-saltar" },
       { label: "Cinta de correr: cuál comprar", href: "/guias/fitness/cinta-de-correr" },
       { label: "Masajeador de espalda y lumbar: cuál sirve para tu dolor", href: "/guias/masajeador-espalda" },
+      { label: "Pesa rusa: cuál comprar", href: "/guias/fitness/pesa-rusa" },
     ],
     internalLinksTitle: "Más para entrenar y cuidarte en casa",
   },
@@ -34678,6 +34800,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { label: "Bicicleta fija: cuál comprar", href: "/guias/fitness/bicicleta-fija" },
       { label: "Rascador para gatos: cuál comprar", href: "/guias/mascotas/rascador-para-gatos" },
       { label: "Cinta de correr: cuál comprar", href: "/guias/fitness/cinta-de-correr" },
+      { label: "Pesa rusa: cuál comprar", href: "/guias/fitness/pesa-rusa" },
     ],
     internalLinksTitle: "Más para entrenar y equipar tu casa",
   },
@@ -36770,6 +36893,11 @@ export const guideCategories: Record<string, { name: string; description: string
     name: "Guía de Niveles Láser",
     description:
       "Niveles láser comparados por lo que decide la compra: ranking de ventas, alcance real, si el trípode incluido es bueno de verdad y respaldo de reseñas.",
+  },
+  "pesa-rusa": {
+    name: "Guía de Pesas Rusas",
+    description:
+      "Pesas rusas (kettlebells) comparadas por lo que decide la compra: material (PVC o hierro fundido), peso y respaldo real de reseñas.",
   },
   heladeras: {
     name: "Guía de Heladeras",
