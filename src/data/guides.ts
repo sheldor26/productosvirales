@@ -22483,6 +22483,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { label: "Cortadora de pelo: cuál comprar", href: "/guias/cuidado-personal/cortadora-de-pelo" },
       { label: "Depiladora eléctrica: cuál comprar", href: "/guias/cuidado-personal/depiladora-electrica" },
       { label: "Uñas soft gel: cómo hacerlas en casa", href: "/guias/cuidado-personal/unas-soft-gel" },
+      { label: "Kit de maquillaje: cuál comprar", href: "/guias/cuidado-personal/kit-de-maquillaje" },
     ],
     internalLinksTitle: "Más para grooming",
   },
@@ -22942,6 +22943,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { label: "Máquina de afeitar: cuál comprar", href: "/guias/cuidado-personal/maquina-de-afeitar" },
       { label: "Cortadora de pelo: cuál comprar", href: "/guias/cuidado-personal/cortadora-de-pelo" },
       { label: "Uñas soft gel: cómo hacerlas en casa", href: "/guias/cuidado-personal/unas-soft-gel" },
+      { label: "Kit de maquillaje: cuál comprar", href: "/guias/cuidado-personal/kit-de-maquillaje" },
     ],
     internalLinksTitle: "Más de cuidado personal",
   },
@@ -25264,6 +25266,124 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { label: "Secador de pelo: cuál comprar en Argentina", href: "/guias/cuidado-personal/secador-de-pelo" },
       { label: "Depiladora eléctrica: cuál comprar", href: "/guias/cuidado-personal/depiladora-electrica" },
       { label: "Planchita de pelo: cuál comprar", href: "/guias/cuidado-personal/planchita-de-pelo" },
+      { label: "Kit de maquillaje: cuál comprar", href: "/guias/cuidado-personal/kit-de-maquillaje" },
+    ],
+    internalLinksTitle: "Más para tu cuidado personal",
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // PILAR kit-de-maquillaje — silo cuidado-personal (existente, con
+  // secador de pelo, máquina de afeitar, cepillo secador, cortadora de
+  // pelo, depiladora eléctrica, planchita de pelo x2, cepillo de dientes
+  // eléctrico, uñas soft gel). Origen: barrido de keywords "cosméticos"
+  // de la sesión del 2026-10-21, keyword "kit de maquillaje" 1.000/mes AR
+  // (Keyword Planner, competencia LOW en SERP real aunque HIGH en puja de
+  // Google Ads). SERP verificado dos veces (agente + Claude directo):
+  // MercadoLibre #1 dominante, sin marca oficial ni retailer grande, solo
+  // 4 tiendas D2C chicas por debajo del umbral de 5+. 4 fichas nuevas,
+  // sourcing en vivo el mismo día (Chrome de Juan, ML bloquea el
+  // navegador interno). Ninguna de las 4 ya existía en el catálogo.
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "kit-de-maquillaje",
+    category: "cuidado-personal",
+    silo: "cuidado-personal",
+    pillar: true,
+    title: `Kit de maquillaje: cuál comprar en Argentina [2026]`,
+    seoTitle: `Kit de Maquillaje: Cuál Comprar en Argentina [2026]`,
+    metaDescription: `Comparamos 4 kits de maquillaje reales de MercadoLibre: el más original para regalar, el más reseñado y el mejor calificado, con las contras reales de cada uno.`,
+    ogTitle: `Kit de maquillaje: cuál comprar en Argentina`,
+    ogDescription: `4 kits de maquillaje comparados por cantidad de piezas, respaldo de reseñas y precio. Uno viene armado como un ramo de flores.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_792439-MLA115735132462_092026-O.webp`,
+    h1: `Kit de maquillaje: cuál comprar en Argentina y qué mirar antes [2026]`,
+    directAnswer: `Para regalar, el **[Ramo de Maquillaje Tejar](/producto/ramo-de-maquillaje-profesional-grande-regalo-navidad-mlau2491041144)** (alrededor de {{precio:MLAU2491041144:k}}) es la opción más original: viene armado como un bouquet de flores. Si preferís el kit con más respaldo de reseñas, el **[Kit Nude Mely](/producto/kit-maquillaje-nude-mujer-12-cosmeticos-ideal-look-natural-mlau3355203199)**, con {{reviews:MLAU3355203199}} calificaciones. Si buscás más piezas que un kit en caja tradicional, el **[Kit Premium 14 Piezas](/producto/kit-combo-maquillaje-premium-14-piezas-regalo-mlau359618956)** trae 14 piezas; el Kit Mely tiene 12. Y si preferís una marca internacional reconocida, el **[Kit Infaltables Revlon](/producto/kit-infaltables-revlon-mla65545621)**, el mejor calificado.`,
+    publishedDate: "2026-10-21",
+    updatedDate: "2026-10-21",
+    sitemapLastmod: "2026-10-21",
+    hasDisclosure: true,
+    readingTime: 7,
+    standfirst: `Un kit de maquillaje va de {{precio:MLAU2491041144:k}} a {{precio:MLA65545621:k}}. Comparamos 4 kits reales de MercadoLibre Argentina para mujeres adultas (no son los sets de juguete para niñas) por **cantidad de piezas, respaldo de reseñas y precio**, con contras sacadas de reseñas verdaderas, dentro de nuestro silo de [Cuidado Personal](/categoria/cuidado-personal).`,
+    quickPicks: [
+      { productMlaId: "MLAU2491041144", label: "El mejor para regalar", labelColor: "green", tagline: "Ramo Tejar: armado como un bouquet de flores, 4° más vendido" },
+      { productMlaId: "MLAU3355203199", label: "El más reseñado", labelColor: "blue", tagline: "Kit Nude Mely: {{reviews:MLAU3355203199}} calificaciones, la base más grande" },
+      { productMlaId: "MLAU359618956", label: "El más completo", labelColor: "purple", tagline: "Kit Premium 14 Piezas: más piezas que el Kit Mely (14 contra 12)" },
+      { productMlaId: "MLA65545621", label: "El mejor calificado", labelColor: "amber", tagline: "Kit Infaltables Revlon: {{rating:MLA65545621}} estrellas, marca oficial" },
+    ],
+    intro: [
+      `Elegir un **kit de maquillaje** parece una decisión de cuántas piezas trae y termina siendo una de para qué lo querés: ¿para regalar, para uso diario, o para tener de más piezas posible? Esta comparativa es de kits para mujeres adultas armados con cosméticos reales (no los sets de juguete para niñas, que son un producto distinto).`,
+      `Comparamos 4 kits de maquillaje reales de MercadoLibre Argentina y verificamos, uno por uno, qué declara su ficha técnica sobre cantidad de piezas, marca y reseñas de compradoras. Apareció algo que vale la pena saber antes de comprar: **en más de uno de estos combos, el tono o modelo exacto que recibís puede variar** respecto a lo que muestra la foto, según aclaran los propios vendedores.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_792439-MLA115735132462_092026-O.webp", alt: `Ramo de maquillaje armado como un bouquet de flores, de Tejar`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para regalar, el **[Ramo de Maquillaje Tejar](https://meli.la/2XrK9HC)**: viene armado como un bouquet de flores. Si preferís el kit con más reseñas, el **[Kit Nude Mely](https://meli.la/2q79jkp)**. Si buscás más piezas, el **[Kit Premium 14 Piezas](https://meli.la/1P8CdhH)**. Y si preferís una marca internacional reconocida, el **[Kit Infaltables Revlon](https://meli.la/2nCdxaw)**.` },
+
+      { type: "callout", calloutVariant: "warning", calloutTitle: "El tono o modelo exacto puede variar según stock", content: `De los cuatro kits de esta comparativa, dos declaran explícitamente que el modelo o tono recibido puede diferir de la foto según disponibilidad de stock: el Kit Nude Mely (donde varias reseñas reales confirman que esto pasó en la práctica, con un modelo de paleta distinto al de las fotos) y el Kit Premium 14 Piezas (donde el vendedor lo advierte en la descripción, aunque no encontramos una reseña puntual que lo confirme). Si te importa el tono exacto, revisá si la publicación permite elegirlo antes de comprar (algunos vendedores lo permiten solo en envíos Flex, no en Full).` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** partimos del rubro de sets y kits de maquillaje de MercadoLibre Argentina y verificamos cada publicación en vivo el 2026-10-21: precio, stock, ficha técnica campo por campo y reseñas de compradoras. Miramos especialmente tres campos que deciden la compra: **cantidad de piezas**, **si el tono/modelo exacto está garantizado o puede variar**, y **respaldo real de reseñas**. Los precios se verifican automáticamente contra MercadoLibre.` },
+
+      { type: "h2", title: `Los tres datos que deciden la compra`, id: "que-mirar" },
+      { type: "p", content: `**Cantidad de piezas.** Va de 12 (Kit Nude Mely) a 14 (Kit Premium), sin contar el Ramo (15 a 19 según la fuente) ni el Kit Revlon (3 productos puntuales, sin pretender ser un kit completo).` },
+      { type: "p", content: `**Si el tono o modelo está garantizado.** Dos de los cuatro (Kit Nude Mely y Kit Premium) aclaran que puede variar según stock. El Ramo Tejar no promete un tono específico (es una selección de productos variados). El Kit Revlon, al ser productos de marca con nombre y tono específico, no tiene este problema.` },
+      { type: "p", content: `**Respaldo de reseñas.** Va de {{reviews:MLA65545621}} a {{reviews:MLAU3355203199}} calificaciones entre los cuatro. Una base chica no significa mala calidad (el Revlon tiene el rating más alto con la base más chica), pero sí menos gente que lo haya probado.` },
+
+      { type: "h2", title: `Comparativa rápida: los 4 frente a frente`, id: "tabla-comparativa" },
+      { type: "table", headers: ["Kit", "Piezas", "Precio", "Calificaciones", "Ideal para"], rows: [
+        ["[Ramo Tejar](https://meli.la/2XrK9HC)", "15 a 19", "{{precio:MLAU2491041144}}", "{{rating:MLAU2491041144}} ★ ({{reviews:MLAU2491041144}})", "Regalar"],
+        ["[Kit Nude Mely](https://meli.la/2q79jkp)", "12", "{{precio:MLAU3355203199}}", "{{rating:MLAU3355203199}} ★ ({{reviews:MLAU3355203199}})", "El mayor respaldo de reseñas"],
+        ["[Kit Premium 14 Piezas](https://meli.la/1P8CdhH)", "14", "{{precio:MLAU359618956}}", "{{rating:MLAU359618956}} ★ ({{reviews:MLAU359618956}})", "Más piezas que el Kit Mely"],
+        ["[Kit Infaltables Revlon](https://meli.la/2nCdxaw)", "3", "{{precio:MLA65545621}}", "{{rating:MLA65545621}} ★ ({{reviews:MLA65545621}})", "Marca reconocida, mejor rating"],
+      ] },
+      { type: "p", content: `El nombre de cada kit lleva directo a su publicación en MercadoLibre. Abajo está el detalle de los cuatro, en el mismo orden: qué hace bien cada uno y dónde se queda corto.` },
+
+      { type: "h2", title: `El ranking`, id: "ranking" },
+
+      { type: "h3", title: `1. Ramo de Maquillaje Tejar, el mejor para regalar` },
+      { type: "product-card", productMlaId: "MLAU2491041144", label: "El mejor para regalar", labelColor: "green", ranking: 1, description: "Armado como un bouquet de flores, con moño y papel de regalo. 4° más vendido en Set de Maquillaje de MercadoLibre." },
+      { type: "p", content: `Es el regalo más original de esta comparativa: un ramo armado como un bouquet de flores, con 15 a 19 productos de maquillaje según la fuente. 4° más vendido en Set de Maquillaje de MercadoLibre, con {{reviews:MLAU2491041144}} calificaciones a {{rating:MLAU2491041144}} estrellas.` },
+      { type: "pull-quote", content: `"Buen precio por la cantidad de productos. La calidad es buena. Lo compré para regalar, y vino bien empaquetado."`, attribution: `Compradora del Ramo de Maquillaje Tejar, calificación 5/5` },
+
+      { type: "h3", title: `2. Kit Nude Mely, el más reseñado` },
+      { type: "product-card", productMlaId: "MLAU3355203199", label: "El más reseñado", labelColor: "blue", ranking: 2, description: "12 piezas con neceser incluido, para un look nude de uso diario. {{reviews:MLAU3355203199}} calificaciones, la base más grande de esta comparativa." },
+      { type: "p", content: `Con {{reviews:MLAU3355203199}} calificaciones a {{rating:MLAU3355203199}} estrellas, tiene la base de reseñas más grande de esta comparativa por lejos, 6° más vendido en Set de Maquillaje. Trae 12 piezas con neceser incluido, cuesta {{precio:MLAU3355203199}}.` },
+      { type: "p", content: `La contra real: varias reseñas confirman que el modelo de paleta de sombras puede variar respecto a la foto, algo que el propio vendedor aclara como "según stock disponible".` },
+      { type: "pull-quote", content: `"Es la primera vez que compro este producto, todo llegó bien. Excepto la sombra, en la publicación muestra una paleta larga de 12 colores, y vino una cuadrada de 9."`, attribution: `Compradora del Kit Nude Mely, calificación 3/5` },
+
+      { type: "h3", title: `3. Kit Premium 14 Piezas, el más completo` },
+      { type: "product-card", productMlaId: "MLAU359618956", label: "El más completo", labelColor: "purple", ranking: 3, description: "14 piezas, más que el Kit Mely (12). Libre de crueldad animal según su ficha técnica." },
+      { type: "p", content: `Con 14 piezas declaradas, trae más que el Kit Mely (12), el único otro kit en formato caja de esta comparativa con conteo de piezas comparable (el Ramo es un bouquet, un formato distinto, y el Revlon son solo 3 productos puntuales). Cuesta {{precio:MLAU359618956}}, con {{reviews:MLAU359618956}} calificaciones a {{rating:MLAU359618956}} estrellas, y es libre de crueldad animal según su ficha técnica.` },
+      { type: "p", content: `La misma salvedad que el Kit Mely: el vendedor avisa que los tonos pueden variar según stock, y que en envíos Full no se puede elegir el tono específico.` },
+      { type: "pull-quote", content: `"Me pareció fantástico! muchas gracias la verdad que lo compraría una y otra vez un mimo para una es hermoso!!!"`, attribution: `Compradora del Kit Premium 14 Piezas, calificación 5/5` },
+
+      { type: "h3", title: `4. Kit Infaltables Revlon, el mejor calificado` },
+      { type: "product-card", productMlaId: "MLA65545621", label: "El mejor calificado", labelColor: "amber", ranking: 4, description: "Máscara, labial y ColorStay Glow Lotion, vendido por la tienda oficial Revlon. {{rating:MLA65545621}} estrellas, el rating más alto de la comparativa." },
+      { type: "p", content: `Con {{rating:MLA65545621}} estrellas, tiene el promedio más alto de esta comparativa, vendido por la tienda oficial de Revlon con más de 1 millón de ventas. Incluye máscara, labial y la ColorStay Face+Body Glow Lotion, por {{precio:MLA65545621}}.` },
+      { type: "p", content: `La contra real: es la base de reseñas más chica de la comparativa ({{reviews:MLA65545621}}), y no incluye estuche ni accesorios de aplicación como los combos genéricos.` },
+      { type: "pull-quote", content: `"El kit un mil y el body glow lotion es espectacular, tiene un brillo suave y sutil que deja la piel súper luminosa, lo recomiendo."`, attribution: `Compradora del Kit Infaltables Revlon, calificación 5/5` },
+
+      { type: "h2", title: `Cuál kit de maquillaje elegir según tu caso`, id: "cual-elegir" },
+      { type: "list", items: [
+        `**Es para regalo:** el [Ramo de Maquillaje Tejar](https://meli.la/2XrK9HC) ({{precio:MLAU2491041144}}). El formato de bouquet es el diferencial.`,
+        `**Preferís el kit con más respaldo de reseñas:** el [Kit Nude Mely](https://meli.la/2q79jkp) ({{precio:MLAU3355203199}}). Leé antes la salvedad sobre el tono de la paleta.`,
+        `**Buscás más piezas que un kit en caja tradicional:** el [Kit Premium 14 Piezas](https://meli.la/1P8CdhH) ({{precio:MLAU359618956}}), con 14 piezas; el Kit Mely tiene 12.`,
+        `**Preferís una marca internacional reconocida y no te importa que sean solo 3 productos:** el [Kit Infaltables Revlon](https://meli.la/2nCdxaw) ({{precio:MLA65545621}}).`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para regalar, el **Ramo de Maquillaje Tejar** es la opción más original, armado como un bouquet de flores. Si preferís el kit con más respaldo de reseñas, el **Kit Nude Mely** lo tiene por lejos, con la salvedad de que el tono de la paleta puede variar. Si buscás más piezas que un kit en caja tradicional, el **Kit Premium 14 Piezas** trae 14 piezas (el Kit Mely tiene 12), con la misma salvedad sobre tonos. Y si preferís una marca internacional reconocida con el rating más alto, el **Kit Infaltables Revlon** justifica el precio, aunque sean solo 3 productos sin estuche. El error a evitar: comprar un combo genérico esperando un tono específico sin confirmar antes si la publicación lo garantiza.` },
+    ],
+    faq: [
+      { question: `¿Cuál es el mejor kit de maquillaje en Argentina?`, answer: `Depende del uso: para regalar, el [Ramo de Maquillaje Tejar](https://meli.la/2XrK9HC); si preferís el mayor respaldo de reseñas, el [Kit Nude Mely](https://meli.la/2q79jkp); y si buscás marca reconocida, el [Kit Infaltables Revlon](https://meli.la/2nCdxaw).` },
+      { question: `¿El tono o modelo que recibo es siempre el mismo que la foto?`, answer: `No necesariamente en los combos genéricos. El Kit Nude Mely y el Kit Premium 14 Piezas aclaran en su descripción que el modelo puede variar según stock; en el caso del Kit Nude Mely, además, varias reseñas reales confirman que esto pasó en la práctica. El Kit Infaltables Revlon, al ser productos de marca con nombre específico, no tiene este problema.` },
+      { question: `¿Esta guía incluye los sets de maquillaje de juguete para niñas?`, answer: `No. Esta comparativa es de kits de cosméticos reales para mujeres adultas. Los sets de maquillaje de juguete para niñas son un producto distinto, pensado para juego, no para uso cosmético real.` },
+      { question: `¿Cuál conviene si es para un regalo de cumpleaños o Navidad?`, answer: `El [Ramo de Maquillaje Tejar](https://meli.la/2XrK9HC), pensado específicamente para regalar: viene armado como un bouquet con moño y papel de regalo, y varias reseñas confirman que llega bien empaquetado.` },
+      { question: `¿Cuál tiene más piezas?`, answer: `El [Kit Premium 14 Piezas](https://meli.la/1P8CdhH), con 14 piezas declaradas en su ficha técnica; el Kit Mely, el único otro kit en formato caja con conteo comparable, tiene 12 (el Ramo es un bouquet y el Revlon son solo 3 productos puntuales).` },
+      { question: `¿Vale la pena pagar más por una marca reconocida?`, answer: `Depende de qué priorices. El [Kit Infaltables Revlon](https://meli.la/2nCdxaw) tiene el rating más alto y fórmulas estables entre lotes, pero trae solo 3 productos sin estuche. Los combos genéricos traen más piezas y accesorios, con la salvedad de que el tono puede variar.` },
+    ],
+    internalLinks: [
+      { label: "Uñas soft gel: cómo hacerlas en casa", href: "/guias/cuidado-personal/unas-soft-gel" },
+      { label: "Secador de pelo: cuál comprar", href: "/guias/cuidado-personal/secador-de-pelo" },
+      { label: "Depiladora eléctrica: cuál comprar", href: "/guias/cuidado-personal/depiladora-electrica" },
     ],
     internalLinksTitle: "Más para tu cuidado personal",
   },

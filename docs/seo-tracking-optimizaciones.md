@@ -2866,6 +2866,22 @@ Re-medir: ~2026-11-20, un mes después de publicada.
 
 Re-medir: ~2026-11-21, un mes después de publicada.
 
+## Guía nueva `kit-de-maquillaje` — silo `cuidado-personal` (existente) — 2026-10-21
+
+| Guía | Silo | Categoría | Keyword del bloque | Volumen | Competencia real | Productos |
+| :-- | :-- | :-- | :-- | --: | --: | --: |
+| `kit-de-maquillaje` | cuidado-personal | cuidado-personal | kit de maquillaje | 1.000/mes (Keyword Planner) | MercadoLibre #1 dominante, sin marca oficial ni retailer grande, solo 4 tiendas D2C chicas | 4 (sourcing nuevo) |
+
+**Baseline: cero.** URL nueva (`/guias/cuidado-personal/kit-de-maquillaje`), sin historial en GSC. Origen: segundo hallazgo 🟢 del barrido de keywords "cosméticos" de la sesión del 21/10 (el primero fue `unas-soft-gel`, publicado horas antes el mismo día). SERP verificado dos veces (agente + Claude directo con Ubersuggest): ML en posición #1 con 358 clicks estimados, sin sitio oficial ni retailer grande, solo reginak.com/perfumeriaspigmento.com.ar/lasmargaritas.com.ar/getthelook.com.ar (4 D2C chicas, por debajo del umbral de 5+). Se sumó al silo cuidado-personal existente (secador de pelo, máquina de afeitar, cepillo secador, cortadora de pelo, depiladora eléctrica, planchita de pelo x2, cepillo de dientes eléctrico, uñas soft gel) reusando la categoría compartida "cuidado-personal", con enlazado recíproco agregado en unas-soft-gel, secador-de-pelo y depiladora-electrica.
+
+**Sourcing nuevo en vivo en MercadoLibre:** Ramo de Maquillaje Tejar (MLAU2491041144, el mejor para regalar, armado como un bouquet de flores, MÁS VENDIDO 4° en Set de Maquillaje confirmado, 562 calificaciones, $42.897); Kit Nude Mely (MLAU3355203199, el más reseñado, 782 calificaciones, MÁS VENDIDO 6° en Set de Maquillaje confirmado, $48.225, contra real: varias reseñas reportan que el modelo de paleta recibido no coincidió con la foto); Kit Premium 14 Piezas Tejar (MLAU359618956, el más completo en piezas, 14 contra las 12 del Kit Mely, $50.711, sin badge de ventas confirmado); Kit Infaltables Revlon (MLA65545621, el mejor calificado, 4.8★, marca oficial, $51.242, base de reseñas más chica de los 4, 53).
+
+**Auditoría del trío: 2 pasadas, ambos auditores GO condicionado a arreglos.** Codex dio NO-GO en la primera pasada con 3 bloqueantes reales: (1) el superlativo "mayor cantidad de piezas de la comparativa" del Kit Premium (14) contradecía la propia tabla, que declara 15-19 piezas para el Ramo (formato bouquet, no comparable) — se acotó en guía y ficha a "más piezas que el Kit Mely (12), su competidor más cercano en formato caja"; (2) conteos de reseñas hardcodeados (53, 562, 782) en la ficha de Revlon en vez de tokens — tokenizados; (3) la guía atribuía "reseñas reales que confirman" variación de tono a los dos kits con esa advertencia (Mely y Premium), pero solo las reseñas de Mely la confirman en la práctica (las de Premium son elogios genéricos) — se separó explícitamente en el callout y el FAQ. Gemini (Pro sin cuota, mismo agotamiento recurrente de la sesión) auditado directamente con Flash (sin reintentar Pro, aplicando la lección ya guardada esta sesión) dio "GO condicional" señalando exactamente los mismos 3 puntos (ya en curso de arreglo al momento del reporte) más una mejora opcional de `readingTime` (9→7), aplicada. Al corregir el superlativo de piezas con la construcción "las 12 del Kit Mely", se detectó un efecto de segundo orden: esa frase disparaba el ratchet `check-hardcoded-reviews.cjs` (falso positivo del patrón "las N de/del" combinado con la palabra "reseñas" cerca) — se reescribió la comparación de piezas evitando esa construcción exacta en los 4+1 lugares afectados.
+
+**Verificación:** `npx tsc --noEmit`, `npm run build`, y los 6 scripts de check relevantes (price-guard, hardcoded-reviews, guide-monetization, table-product-links, canonical-product-links, guide-internal-links) en verde de punta a punta, tres veces (antes del trío, después del primer fix, y después de resolver el efecto de segundo orden del ratchet). Verificado en navegador: la guía renderiza bien, el `badge: 'bestseller'` aparece solo en las 2 fichas con badge "MÁS VENDIDO" de ML confirmado (Ramo y Mely), ausente en las otras 2 (Premium y Revlon), y los 4 links de afiliado llevan `rel="sponsored nofollow noopener"`.
+
+Re-medir: ~2026-11-21, un mes después de publicada.
+
 ## Guía nueva `unas-soft-gel` — silo `cuidado-personal` (existente) — 2026-10-21
 
 | Guía | Silo | Categoría | Keyword del bloque | Volumen | Competencia real | Productos |
