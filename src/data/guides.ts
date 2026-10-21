@@ -22482,6 +22482,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { label: "Máquina de afeitar: cuál comprar", href: "/guias/cuidado-personal/maquina-de-afeitar" },
       { label: "Cortadora de pelo: cuál comprar", href: "/guias/cuidado-personal/cortadora-de-pelo" },
       { label: "Depiladora eléctrica: cuál comprar", href: "/guias/cuidado-personal/depiladora-electrica" },
+      { label: "Uñas soft gel: cómo hacerlas en casa", href: "/guias/cuidado-personal/unas-soft-gel" },
     ],
     internalLinksTitle: "Más para grooming",
   },
@@ -22940,6 +22941,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { label: "Planchita de pelo: cuál comprar", href: "/guias/cuidado-personal/planchita-de-pelo" },
       { label: "Máquina de afeitar: cuál comprar", href: "/guias/cuidado-personal/maquina-de-afeitar" },
       { label: "Cortadora de pelo: cuál comprar", href: "/guias/cuidado-personal/cortadora-de-pelo" },
+      { label: "Uñas soft gel: cómo hacerlas en casa", href: "/guias/cuidado-personal/unas-soft-gel" },
     ],
     internalLinksTitle: "Más de cuidado personal",
   },
@@ -23066,6 +23068,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { label: "Máquina de afeitar: cuál comprar", href: "/guias/cuidado-personal/maquina-de-afeitar" },
       { label: "Cortadora de pelo: cuál comprar", href: "/guias/cuidado-personal/cortadora-de-pelo" },
       { label: "Depiladora eléctrica: cuál comprar", href: "/guias/cuidado-personal/depiladora-electrica" },
+      { label: "Uñas soft gel: cómo hacerlas en casa", href: "/guias/cuidado-personal/unas-soft-gel" },
     ],
     internalLinksTitle: "Más de cuidado personal",
   },
@@ -25134,6 +25137,133 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { label: "Secador de pelo: cuál comprar en Argentina", href: "/guias/cuidado-personal/secador-de-pelo" },
       { label: "Depiladora eléctrica: cuál comprar", href: "/guias/cuidado-personal/depiladora-electrica" },
       { label: "Máquina de afeitar: cuál comprar", href: "/guias/cuidado-personal/maquina-de-afeitar" },
+    ],
+    internalLinksTitle: "Más para tu cuidado personal",
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // PILAR unas-soft-gel — silo cuidado-personal (existente, con secador
+  // de pelo, máquina de afeitar, cepillo secador, cortadora de pelo,
+  // depiladora eléctrica, planchita de pelo x2, cepillo de dientes
+  // eléctrico). Primera guía de uñas del sitio. Origen: barrido de
+  // keywords "cosméticos" de la sesión del 2026-10-21 (8 clusters, la
+  // mayoría 🔴 por marcas oficiales/farmacias/retailers grandes), keyword
+  // "uñas soft gel" 33.100/mes AR (Keyword Planner, competencia LOW), el
+  // volumen más alto validado en toda la sesión. SERP verificado en vivo
+  // (Ubersuggest): sin marca oficial, sin retailer grande, un solo D2C
+  // chico (esteticafuncional.com.ar, DA15) muy por debajo del umbral de
+  // 5+. Gran parte del volumen es búsqueda de diseños/inspiración
+  // ("diseños de uñas softgel" 9.900/mes), no solo compra — la guía abre
+  // con una sección educativa (qué es, por qué está de moda) antes de la
+  // comparativa de productos, replicando lo que ya rankea para el término
+  // (nailistas.com, posición 11, con un artículo "¿Qué son las uñas Soft
+  // Gel y por qué son tendencia?"). 4 fichas nuevas, sourcing en vivo el
+  // mismo día (Chrome de Juan, ML bloquea el navegador interno).
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "unas-soft-gel",
+    category: "cuidado-personal",
+    silo: "cuidado-personal",
+    pillar: true,
+    title: `Uñas soft gel: cómo hacerlas en casa y qué comprar [2026]`,
+    seoTitle: `Uñas Soft Gel: Cómo Hacerlas en Casa [2026]`,
+    metaDescription: `Qué es el soft gel y en qué se diferencia del semipermanente y el acrílico. Comparamos 4 kits reales de MercadoLibre para hacerlo en casa.`,
+    ogTitle: `Uñas soft gel: cómo hacerlas en casa`,
+    ogDescription: `Soft gel, la técnica de moda para uñas largas y resistentes sin ir a un salón. Comparamos 4 kits e insumos reales de MercadoLibre, con el kit más completo (trae hasta lámpara) y el más económico.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_746501-MLA119929914843_102026-O.webp`,
+    h1: `Uñas soft gel: qué es, cómo se hace en casa y qué comprar [2026]`,
+    directAnswer: `Para arrancar de cero conviene el **[Kit Soft Gel Cherimoya](/producto/kit-soft-gel-cherimoya-ultrabond-tips-gel-solido-mla1357164822)** (alrededor de {{precio:MLA1357164822:k}}): trae tips, adhesivo Ultrabond y gel sólido, y es el más reseñado de esta comparativa. Si ya tenés insumos y solo necesitás tips, los **[Paris Night Almendra](/producto/tips-soft-gel-almendra-paris-night-x500-en-caja-mlau3531515067)** son los mejor calificados. Si no tenés lámpara UV/LED, el **[Kit Eloíse](/producto/kit-unas-soft-gel-semipermanente-set-profesional-completo-mlau5300782250)** es el único que la incluye. Y si solo te falta reponer gel, el **[gel sólido Cherimoya](/producto/gel-solido-para-soft-gel-uv-led-unas-press-gel-10g-cherimoya-mlau209318376)** es el más económico.`,
+    publishedDate: "2026-10-21",
+    updatedDate: "2026-10-21",
+    sitemapLastmod: "2026-10-21",
+    hasDisclosure: true,
+    readingTime: 10,
+    standfirst: `El soft gel es la técnica de uñas más buscada del momento en Argentina: tips flexibles que se fijan con gel y lámpara, sin fresadora ni olor fuerte. Te contamos qué es, en qué se diferencia del semipermanente y el acrílico, y comparamos 4 kits e insumos reales de MercadoLibre para hacerlo en casa, de {{precio:MLAU209318376:k}} a {{precio:MLA1357164822:k}}.`,
+    quickPicks: [
+      { productMlaId: "MLA1357164822", label: "El más reseñado", labelColor: "green", tagline: "Kit Cherimoya: tips + Ultrabond + gel sólido, {{reviews:MLA1357164822}} calificaciones" },
+      { productMlaId: "MLAU3531515067", label: "El mejor calificado", labelColor: "blue", tagline: "Tips Paris Night Almendra: {{rating:MLAU3531515067}} estrellas, tienda oficial" },
+      { productMlaId: "MLAU5300782250", label: "El kit más completo", labelColor: "purple", tagline: "Kit Eloíse: el único con lámpara UV/LED incluida" },
+      { productMlaId: "MLAU209318376", label: "El más económico", labelColor: "amber", tagline: "Gel sólido Cherimoya: {{precio:MLAU209318376}}, cura en 60 segundos" },
+    ],
+    intro: [
+      `El **soft gel** es la técnica de uñas esculpidas más viral del momento: tips (uñas postizas) de gel flexible que se adaptan a la forma natural de la uña, se fijan con adhesivo o gel sólido, y se curan con lámpara UV/LED en segundos. A diferencia del acrílico, no hace falta fresadora ni el olor fuerte del monómero; a diferencia del esmaltado semipermanente tradicional, suma largo y estructura, no solo color.`,
+      `Comparamos 4 kits e insumos reales de MercadoLibre Argentina para armar tu primera manicura soft gel en casa, verificando qué trae cada uno, qué dicen las reseñas de compradoras reales y dónde conviene empezar según tu presupuesto y lo que ya tengas a mano.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_746501-MLA119929914843_102026-O.webp", alt: `Kit de uñas soft gel completo con lámpara UV/LED, tips y gel`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Si ya tenés lámpara UV/LED y arrancás de cero, el **[Kit Soft Gel Cherimoya](https://meli.la/1eKLonA)** (tips + Ultrabond + gel sólido). Si no tenés lámpara, el **[Kit Eloíse](https://meli.la/2XT9EMF)** es el único que la incluye. Si solo necesitás tips, los **[Paris Night Almendra](https://meli.la/2QVrssp)**, los mejor calificados. Y si solo te falta gel, el **[gel sólido Cherimoya](https://meli.la/2Tx6yke)** es el más barato.` },
+
+      { type: "h2", title: `Qué es el soft gel (y por qué está tan de moda)`, id: "que-es" },
+      { type: "p", content: `El soft gel es un sistema de uñas esculpidas que usa **tips prefabricados de gel blando** (no acrílico duro ni plástico rígido) que se adaptan a la curva natural de la uña. Se pegan con adhesivo o gel sólido, se les da forma con lima, y se curan en una lámpara UV o LED en 30 a 60 segundos. El resultado: uñas largas, resistentes y livianas, sin el olor fuerte ni el polvo de la técnica acrílica tradicional.` },
+      { type: "p", content: `Se volvió viral en redes porque se puede hacer en casa, con un kit accesible, en una sesión de una a dos horas la primera vez (después, mucho más rápido). No hace falta ser profesional para el uso personal: varias de las reseñas reales que citamos en esta guía son de compradoras que lo probaron por primera vez en su casa.` },
+
+      { type: "callout", calloutVariant: "warning", calloutTitle: "Soft gel, semipermanente y acrílico no son lo mismo", content: `El **semipermanente** es esmalte de larga duración que se cura con lámpara, pero no suma largo ni estructura: es color sobre tu uña natural. El **acrílico** sí suma largo y estructura, mezclando polvo y líquido (monómero) sobre un molde, con el olor fuerte característico de esa mezcla. El **soft gel** suma largo y estructura como el acrílico, pero con tips prefabricados de gel blando: no hace falta mezclar monómero ni usar fresadora (e-file) para aplicarlo. Si lo que buscás es solo color duradero sobre tu uña, te conviene un semipermanente, no soft gel.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** partimos del rubro de insumos para soft gel de MercadoLibre Argentina y verificamos cada publicación en vivo el 2026-10-21: precio, stock, contenido real del kit y reseñas de compradoras. Miramos especialmente cuatro campos que deciden la compra: **qué trae cada kit** (tips, adhesivo, gel, lámpara), **si incluye lámpara UV/LED o hay que tenerla**, **respaldo real de reseñas**, y precio. Los precios se verifican automáticamente contra MercadoLibre.` },
+
+      { type: "h2", title: `Comparativa rápida: los 4 frente a frente`, id: "tabla-comparativa" },
+      { type: "table", headers: ["Producto", "Qué trae", "Precio", "Calificaciones", "Ideal para"], rows: [
+        ["[Kit Cherimoya](https://meli.la/1eKLonA)", "Tips + Ultrabond + gel sólido", "{{precio:MLA1357164822}}", "{{rating:MLA1357164822}} ★ ({{reviews:MLA1357164822}})", "Empezar de cero"],
+        ["[Tips Paris Night Almendra](https://meli.la/2QVrssp)", "Solo 500 tips forma almendra", "{{precio:MLAU3531515067}}", "{{rating:MLAU3531515067}} ★ ({{reviews:MLAU3531515067}})", "Reponer o sumar forma"],
+        ["[Kit Eloíse](https://meli.la/2XT9EMF)", "Lámpara + tips + base/top coat + accesorios", "{{precio:MLAU5300782250}}", "{{rating:MLAU5300782250}} ★ ({{reviews:MLAU5300782250}})", "No tener lámpara propia"],
+        ["[Gel sólido Cherimoya](https://meli.la/2Tx6yke)", "Solo gel sólido 10g", "{{precio:MLAU209318376}}", "{{rating:MLAU209318376}} ★ ({{reviews:MLAU209318376}})", "Reponer gel, gastar lo mínimo"],
+      ] },
+      { type: "p", content: `El nombre de cada producto lleva directo a su publicación en MercadoLibre. Abajo está el detalle de los cuatro, en el mismo orden: qué hace bien cada uno y dónde se queda corto.` },
+
+      { type: "h2", title: `El ranking`, id: "ranking" },
+
+      { type: "h3", title: `1. Kit Soft Gel Cherimoya, el más reseñado` },
+      { type: "product-card", productMlaId: "MLA1357164822", label: "El más reseñado", labelColor: "green", ranking: 1, description: "Tips, adhesivo Ultrabond y gel sólido en un solo kit. {{reviews:MLA1357164822}} calificaciones a {{rating:MLA1357164822}} estrellas, el más reseñado de esta comparativa." },
+      { type: "p", content: `Con {{reviews:MLA1357164822}} calificaciones a {{rating:MLA1357164822}} estrellas, es el kit más reseñado de esta comparativa. Trae las 3 piezas esenciales para el paso de aplicación: 120 tips, adhesivo Ultrabond (15 ml) y gel sólido (10 g), de Cherimoya, marca establecida en insumos de uñas en Argentina. No incluye lámpara: hace falta tener una propia.` },
+      { type: "pull-quote", content: `"Es buenísimo, con el ultrabond es mucho más difícil que se despeguen. Super práctico el gel adhesivo. Lástima que me dan alergia, pero mis amigas no se pudieron despegar las uñas así que esta aprobadísimo."`, attribution: `Compradora del Kit Soft Gel Cherimoya, calificación 5/5` },
+
+      { type: "h3", title: `2. Tips Paris Night Almendra, el mejor calificado` },
+      { type: "product-card", productMlaId: "MLAU3531515067", label: "El mejor calificado", labelColor: "blue", ranking: 2, description: "Caja de 500 tips forma almendra, de la tienda oficial Paris Night. {{rating:MLAU3531515067}} estrellas, el promedio más alto de esta comparativa." },
+      { type: "p", content: `Con {{rating:MLAU3531515067}} estrellas en {{reviews:MLAU3531515067}} calificaciones, tiene el promedio más alto de los cuatro, vendido por la tienda oficial de Paris Night. Cuesta {{precio:MLAU3531515067}}, pero es solo la caja de tips: sin adhesivo, gel ni lámpara. Sirve para reponer stock o sumar la forma almendra si ya tenés el resto de los insumos.` },
+      { type: "pull-quote", content: `"Me encantó es lo que yo quería!."`, attribution: `Compradora de los tips Paris Night Almendra, calificación 5/5` },
+
+      { type: "h3", title: `3. Kit Eloíse, el más completo` },
+      { type: "product-card", productMlaId: "MLAU5300782250", label: "El kit más completo", labelColor: "purple", ranking: 3, description: "El único de esta comparativa con lámpara UV/LED incluida, más tips, base coat, top coat y accesorios. 9 piezas en total." },
+      { type: "p", content: `Es el único de los cuatro que incluye lámpara UV/LED propia (una Cabina Mini Sun de 6W), además de 120 tips, base coat, top coat, adhesivo y accesorios de preparación: 9 piezas en total por {{precio:MLAU5300782250}}. Pensado para no tener que comprar nada más por separado si estás arrancando de cero y no tenés lámpara.` },
+      { type: "p", content: `La salvedad honesta: según una reseña real, la lámpara cumple pero no es de nivel profesional, así que los curados llevan algo más de tiempo.` },
+      { type: "pull-quote", content: `"Para el precio esta exelente, si bien la cabina no es una de las profesionales sirve bastante bien para pegar los tips, si lleva mas tiempo los curados de los demas pasos pero con un poco de paciencia se puede hacer un set completo."`, attribution: `Compradora del Kit Eloíse, calificación 4/5` },
+
+      { type: "h3", title: `4. Gel sólido Cherimoya, el más económico` },
+      { type: "product-card", productMlaId: "MLAU209318376", label: "El más económico", labelColor: "amber", ranking: 4, description: "Gel sólido Cherimoya de 10g, cura en 60 segundos. El producto más barato de esta comparativa." },
+      { type: "p", content: `A {{precio:MLAU209318376}}, es la opción más barata de esta guía. Cura en 60 segundos con lámpara UV o LED, y según reseñas reales sirve tanto para fijar tips como para trabajos en 3D. Es solo el gel: no trae tips ni adhesivo, así que sirve para reponer, no para arrancar de cero.` },
+      { type: "pull-quote", content: `"Bueno para hacer 3d y te da mejor manejo para pegar el tip si sos principiante."`, attribution: `Compradora del gel sólido Cherimoya, calificación 4/5` },
+
+      { type: "h2", title: `Cuál producto elegir según tu caso`, id: "cual-elegir" },
+      { type: "list", items: [
+        `**Nunca hiciste soft gel y no tenés nada:** el [Kit Cherimoya](https://meli.la/1eKLonA) ({{precio:MLA1357164822}}). Trae tips, adhesivo y gel; solo te falta la lámpara.`,
+        `**No tenés lámpara y querés resolver todo de una:** el [Kit Eloíse](https://meli.la/2XT9EMF) ({{precio:MLAU5300782250}}). Es el único que la incluye.`,
+        `**Ya hiciste soft gel antes y solo necesitás tips:** los [Paris Night Almendra](https://meli.la/2QVrssp) ({{precio:MLAU3531515067}}). El mejor rating de la comparativa.`,
+        `**Ya tenés todo y solo te falta gel:** el [gel sólido Cherimoya](https://meli.la/2Tx6yke) ({{precio:MLAU209318376}}). La opción más barata.`,
+      ] },
+
+      { type: "h2", title: `Preguntas antes de empezar`, id: "antes-de-empezar" },
+      { type: "p", content: `**¿Duele o daña la uña?** No, bien aplicado no debería doler ni dañar la uña natural. El riesgo real está en el retiro: hay que remojarlo y despegarlo con cuidado, nunca forzarlo ni arrancarlo, para no debilitar la uña de abajo.` },
+      { type: "p", content: `**¿Necesito experiencia previa?** No para el uso personal. Varias de las reseñas citadas en esta guía son de compradoras que lo hicieron por primera vez en su casa. La primera sesión lleva más tiempo (una a dos horas); con práctica se acorta bastante.` },
+      { type: "p", content: `**¿Cuánto dura?** Entre 3 y 4 semanas, similar al semipermanente, antes de necesitar un relleno o retoque.` },
+
+      { type: "h2", title: `Veredicto: qué comprar para empezar con soft gel`, id: "veredicto" },
+      { type: "verdict", content: `Si nunca hiciste soft gel y no tenés nada, el **Kit Cherimoya** es la compra más segura: trae tips, adhesivo y gel, y es el más reseñado de esta comparativa. Si además te falta la lámpara, el **Kit Eloíse** resuelve todo en un solo pedido. Si ya tenés insumos y solo necesitás reponer, los **Tips Paris Night** (el mejor rating) o el **gel sólido Cherimoya** (el más barato) cumplen según lo que te falte puntualmente. El error a evitar: comprar solo tips pensando que alcanza para empezar, sin adhesivo, gel ni lámpara.` },
+    ],
+    faq: [
+      { question: `¿Qué es el soft gel?`, answer: `Un sistema de uñas esculpidas con tips prefabricados de gel blando que se adaptan a la curva natural de la uña, se pegan con adhesivo o gel sólido y se curan con lámpara UV/LED en segundos. Suma largo y estructura, sin fresadora ni el olor fuerte del acrílico tradicional.` },
+      { question: `¿En qué se diferencia del semipermanente?`, answer: `El semipermanente es esmalte de larga duración curado con lámpara, pero no suma largo ni estructura: es color sobre tu uña natural. El soft gel sí suma largo, con tips de gel prefabricados.` },
+      { question: `¿Se puede hacer en casa sin ser profesional?`, answer: `Sí, para uso personal. La primera vez lleva más tiempo (una a dos horas), pero no hace falta curso ni experiencia previa. Varias reseñas reales citadas en esta guía son de compradoras que lo probaron por primera vez en su casa.` },
+      { question: `¿Qué necesito para empezar?`, answer: `Como mínimo: tips, adhesivo o gel sólido, y una lámpara UV/LED. El [Kit Cherimoya](https://meli.la/1eKLonA) trae los primeros tres; si además te falta la lámpara, el [Kit Eloíse](https://meli.la/2XT9EMF) la incluye.` },
+      { question: `¿Cuánto dura una manicura soft gel?`, answer: `Entre 3 y 4 semanas antes de necesitar un retoque o relleno, similar al esmaltado semipermanente.` },
+      { question: `¿Daña las uñas?`, answer: `Bien aplicado y retirado, no debería dañar la uña natural. El riesgo está en el retiro: hay que remojarlo y despegarlo con cuidado, nunca arrancarlo a la fuerza.` },
+      { question: `¿Cuál es la diferencia con el acrílico?`, answer: `Ambos suman largo y estructura, pero el acrílico se arma mezclando polvo y líquido (monómero) sobre un molde, con el olor fuerte característico de esa mezcla. El soft gel usa tips prefabricados de gel blando: no hace falta mezclar monómero ni usar fresadora (e-file) para aplicarlo.` },
+      { question: `¿Se puede pintar o decorar arriba del soft gel?`, answer: `Sí. Los tips funcionan como una uña lisa recién preparada: podés esmaltar encima con semipermanente tradicional, hacer una francesita, diseños minimalistas o decoración en 3D con gel sólido, igual que harías sobre una uña natural.` },
+    ],
+    internalLinks: [
+      { label: "Secador de pelo: cuál comprar en Argentina", href: "/guias/cuidado-personal/secador-de-pelo" },
+      { label: "Depiladora eléctrica: cuál comprar", href: "/guias/cuidado-personal/depiladora-electrica" },
+      { label: "Planchita de pelo: cuál comprar", href: "/guias/cuidado-personal/planchita-de-pelo" },
     ],
     internalLinksTitle: "Más para tu cuidado personal",
   },
