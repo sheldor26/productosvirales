@@ -1,20 +1,18 @@
 import type { Coupon } from "@/lib/types";
 
-// Segundo mensaje del mismo día (20/10): a la mañana había llegado MELIMODO y
-// al mediodía llegó MODOMELI, mismo monto y misma mínima. Se reemplaza por el
-// último que mandaron, que es la regla de siempre: vale lo que dice el mensaje
-// más reciente, no acumular códigos viejos.
-//   >= $150.000     -> MODOMELI ($15.000)
-//   menos de $150k  -> sin badge
-// Sin `validFrom` a propósito: este mensaje no trae hora de inicio (dice solo
-// "hoy hasta las 23:59"), así que aplica desde que se carga.
+// Un solo cupón otra vez, y el piso vuelve a bajar:
+//   >= $80.000      -> MELIFLASH ($8.000)
+//   menos de $80k   -> sin badge
+// Ayer la mínima era $150.000 (MELIMODO / MODOMELI) y hoy baja a $80.000, así
+// que entran bastantes más productos, pero los de ticket alto cobran $8.000 en
+// vez de los $15.000 de ayer. Es lo que dice el mensaje del día, no un bug.
 export const activeCoupons: Coupon[] = [
   {
-    code: "MODOMELI",
-    discountAmount: 15000,
-    minPurchase: 150000,
-    validFrom: null,
-    validUntil: "2026-10-20T23:59:00-03:00",
+    code: "MELIFLASH",
+    discountAmount: 8000,
+    minPurchase: 80000,
+    validFrom: "2026-10-21T09:00:00-03:00",
+    validUntil: "2026-10-21T23:59:00-03:00",
     active: true,
   },
 ];
