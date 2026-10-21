@@ -2849,3 +2849,19 @@ Re-medir: ~2026-11-19, un mes después de publicada.
 **Verificación:** `npx tsc --noEmit`, `npm run build`, y los 6 scripts de check relevantes (price-tokens, hardcoded-reviews, guide-monetization, table-product-links, canonical-product-links, guide-internal-links) en verde de punta a punta.
 
 Re-medir: ~2026-11-20, un mes después de publicada.
+
+## Guía nueva `nivel-laser` — silo `hogar-jardin` (existente) — 2026-10-21
+
+| Guía | Silo | Categoría | Keyword del bloque | Volumen | Competencia real | Productos |
+| :-- | :-- | :-- | :-- | --: | --: | --: |
+| `nivel-laser` | hogar-jardin | niveles-laser | nivel laser | 12.100/mes (Keyword Planner) | MercadoLibre + bazares chicos, sin comparador editorial ni retailer grande con ficha propia | 4 (sourcing nuevo) |
+
+**Baseline: cero.** URL nueva (`/guias/hogar-jardin/nivel-laser`), sin historial en GSC. Origen: tercer barrido de keywords de la sesión del 21/10 (8 agentes en paralelo en 2 rondas), elegido sobre otros 7 candidatos validados (repetidor wifi, organizador de cocina, cortina de baño, compostera, linterna led recargable, aromatizante para auto, tabla de cortar). Refuerza el silo hogar-jardin existente (amoladora, taladro-percutor y otras guías de herramientas) en vez de abrir un silo nuevo, con enlazado recíproco agregado en esas 2 guías hermanas.
+
+**Sourcing nuevo en vivo en MercadoLibre** (nota: a mitad del sourcing se detectó que el Chrome de Juan había quedado logueado con la cuenta "Óptica" en lugar de la cuenta de afiliados; se pausó el sourcing, se le pidió a Juan cambiar de cuenta y se confirmó la cuenta correcta antes de generar ningún link, sin que se generara ningún link bajo la cuenta equivocada): Hardest FSL30-16 (MLAU3510722457, el más vendido, 2° en Niveles Láser de MercadoLibre, 1.539 calificaciones, $96.840, 360° con 16 líneas, sin trípode incluido); Dakota 25m (MLA28034275, la de más reseñas, 2.111 calificaciones, $95.535, trípode endeble según varias reseñas reales, quedaban últimas 2 unidades al verificar stock en vivo); Isard 16 líneas (MLA66559596, el de mayor alcance, 40 m, $149.990, el kit más completo con trípode+batería+control remoto+maletín); Lüsqtoff NV10L-8 (MLA68265665, el más económico, $75.299, pero con solo 10 m de alcance).
+
+**Auditoría del trío: 2 pasadas, ambos auditores GO.** Codex: GO directo sin bloqueantes, con 4 mejoras opcionales (typo "Convine"→"Conviene", acortar metaDescription a ≤160 caracteres, cambiar la etiqueta de Dakota de "La más calificada" a "La de más reseñas" para no sugerir el rating más alto —tiene 4.6 contra el 4.8 de Hardest e Isard—, y aclarar el stock bajo del Dakota). Gemini (Pro) volvió a agotar cuota (RESOURCE_EXHAUSTED, reset ~113hs); se reintentó con el modelo Gemini 3.8 Flash y `--dangerously-skip-permissions` (autorizado por Juan puntualmente para esta tarea) y dio GO con 4 mejoras opcionales más: aclarar que el "25m" del nombre comercial del Dakota no coincide con los 30 m que declara su ficha técnica, unificar género en el seoTitle del Lüsqtoff ("el más económico" en vez de "la más económica"), mencionar el stock bajo del Dakota también en el cuerpo de la guía (no solo en la ficha), y alinear la frase del rating más alto del Isard en su veredicto ("junto al Hardest", igual que en pros/FAQ). Las 8 mejoras opcionales de ambas pasadas se aplicaron.
+
+**Verificación:** `npx tsc --noEmit`, `npm run build`, y los 6 scripts de check relevantes (price-guard, hardcoded-reviews, guide-monetization, table-product-links, canonical-product-links, guide-internal-links) en verde de punta a punta. Verificado en navegador: la guía renderiza bien, la categoría nueva `niveles-laser` se agregó a `guideCategories` (evitando el bug conocido de slug crudo en `<h3>` cuando `silo.categories.length > 1`), y los 4 links de afiliado llevan `rel="sponsored nofollow noopener"`.
+
+Re-medir: ~2026-11-21, un mes después de publicada.
