@@ -25799,9 +25799,121 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { question: `¿Traen llave física de emergencia?`, answer: `La [Ezviz CS-DL05](/producto/ezviz-cs-dl05-cerradura-inteligente-con-huella-dactilar-color-gris-mla37807940) y la [Fika FIK-SML01](/producto/cerradura-smart-lock-electronica-digital-inteligente-fika-con-huella-tarjeta-wif-mla52016410) de esta guía la incluyen. Verificá este dato en cualquier modelo antes de comprar: es tu respaldo si falla la electrónica.` },
     ],
     internalLinks: [
+      { label: "Cerradura de puerta: cuál comprar en Argentina", href: "/guias/seguridad/cerradura-de-puerta" },
       { label: "Cámara de seguridad: cuál comprar en Argentina", href: "/guias/seguridad/camara-de-seguridad" },
       { label: "Cámara de seguridad exterior: cuál comprar", href: "/guias/seguridad/camara-de-seguridad-exterior" },
       { label: "Kit de cámaras de seguridad: cuál comprar", href: "/guias/seguridad/kit-camaras-seguridad" },
+      { label: "Alarma para casa: cuál comprar en Argentina", href: "/guias/seguridad/alarma-para-casa" },
+    ],
+    internalLinksTitle: "Más para la seguridad de tu casa",
+  },
+  {
+    slug: "cerradura-de-puerta",
+    category: "cerraduras",
+    silo: "seguridad",
+    pillar: true,
+    title: `Cerradura de puerta: cuál comprar en Argentina [2026]`,
+    seoTitle: `Cerradura de Puerta: Cuál Comprar en Argentina | 2026`,
+    metaDescription: `Comparamos 5 cerraduras de puerta: la más vendida, doble perno exterior, configurable, para vidrio y premium, con precios reales de MercadoLibre.`,
+    ogTitle: `Cerradura de puerta: cuál comprar en Argentina`,
+    ogDescription: `De la cerradura más vendida a la de acabado premium: 5 cerraduras de puerta comparadas por tipo de instalación, seguridad y precio real de MercadoLibre.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_731155-MLA113149619125_062026-O.webp`,
+    h1: `Cerradura de puerta: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene la **[cerradura reforzada embutible](/producto/cerradura-reforzada-herrero-casa-puerta-mlau139920880)** (alrededor de {{precio:MLAU139920880:k}}): la más vendida de esta comparativa, 2° en Manuales de MercadoLibre, con {{reviews:MLAU139920880}} calificaciones. Si priorizás más seguridad para una puerta exterior, la **[Kallay 4000](/producto/kallay-4000-cerradura-seguridad-puerta-exterior-mla22736477)**, de doble perno. Si querés poder cambiar la combinación de la llave, la **[Trabex 1025](/producto/cerradura-manual-trabex-1025-4-combinaciones-niquelada-para-puerta-mla45807139)**, con 4 combinaciones configurables. Para una puerta de vidrio Blindex, la **[Inomax IM8006](/producto/cerradura-para-puerta-de-vidrio-blindex-montante-inomax-im8006-acero-inoxidable-mla45982869)**, que no requiere perforar el vidrio. Y si buscás un acabado premium, la **[Acytra 101](/producto/cerradura-manual-acytra-101-abatible-2-llaves-bronce-cromado-mla21414110)**, en bronce cromado.`,
+    publishedDate: "2026-10-22",
+    updatedDate: "2026-10-22",
+    hasDisclosure: true,
+    readingTime: 8,
+    standfirst: `Una cerradura de puerta va de {{precio:MLAU139920880:k}} a {{precio:MLA21414110:k}}. Comparamos 5 cerraduras reales de MercadoLibre Argentina por tipo de instalación, seguridad y respaldo de reseñas, con las contras reales que dejaron compradores verificados.`,
+    quickPicks: [
+      { productMlaId: "MLAU139920880", label: "La más vendida", labelColor: "green", tagline: "Reforzada embutible: 2° en Manuales, {{reviews:MLAU139920880}} calificaciones" },
+      { productMlaId: "MLA22736477", label: "Más seguridad exterior", labelColor: "blue", tagline: "Kallay 4000: doble perno, acero de alta resistencia" },
+      { productMlaId: "MLA45807139", label: "Combinaciones configurables", labelColor: "purple", tagline: "Trabex 1025: 4 combinaciones, niquelada anticorrosión" },
+      { productMlaId: "MLA45982869", label: "Para puerta de vidrio", labelColor: "amber", tagline: "Inomax IM8006: no requiere perforar el vidrio" },
+      { productMlaId: "MLA21414110", label: "Acabado premium", labelColor: "slate", tagline: "Acytra 101: bronce cromado, la más cara de esta comparativa" },
+    ],
+    intro: [
+      `Una cerradura de puerta no es un producto único: hay cerraduras embutibles para puertas de madera o metal, cerraduras de montante para puertas de vidrio Blindex que no se pueden perforar, y modelos con combinación configurable para cuando perdés las llaves o te mudás a una casa con cerradura vieja.`,
+      `En esta guía comparamos 5 cerraduras de puerta reales de MercadoLibre Argentina por tipo de instalación, nivel de seguridad y respaldo de reseñas, con las contras que dejaron compradores verificados: desde cerraduras que vienen "casi secas" de fábrica hasta el detalle de qué espesor de puerta soporta cada una.`,
+      `Importante: las 5 de esta guía son cerraduras mecánicas, con llave física. Si buscás apertura con huella, código o desde el celular, mirá nuestra guía de [cerradura inteligente](/guias/seguridad/cerradura-inteligente) en su lugar.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_731155-MLA113149619125_062026-O.webp", alt: `Cerradura de puerta reforzada embutible, la más vendida de Argentina`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría conviene la **[cerradura reforzada embutible](/producto/cerradura-reforzada-herrero-casa-puerta-mlau139920880)**: la más vendida. Si priorizás seguridad para una puerta exterior, la **[Kallay 4000](/producto/kallay-4000-cerradura-seguridad-puerta-exterior-mla22736477)**, de doble perno. Si querés combinación configurable, la **[Trabex 1025](/producto/cerradura-manual-trabex-1025-4-combinaciones-niquelada-para-puerta-mla45807139)**. Para vidrio Blindex, la **[Inomax IM8006](/producto/cerradura-para-puerta-de-vidrio-blindex-montante-inomax-im8006-acero-inoxidable-mla45982869)**. Y para un acabado premium, la **[Acytra 101](/producto/cerradura-manual-acytra-101-abatible-2-llaves-bronce-cromado-mla21414110)**.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos las cerraduras de puerta con más ventas y opiniones reales en MercadoLibre Argentina. Las ordenamos por lo que define la compra: **tipo de instalación** (embutible, de montante, con o sin perforación), **nivel de seguridad** (perno simple o doble, combinaciones configurables) y **respaldo real de reseñas**, citando contras reales de compradores verificados. Los precios que ves en las fichas y tablas se revisan contra MercadoLibre varias veces por semana.` },
+
+      { type: "h2", title: `Qué mirar antes de comprar una cerradura de puerta`, id: "que-mirar" },
+      { type: "p", content: `Lo primero: el tipo de puerta. Cuatro de esta comparativa son para puertas de madera o metal estándar (de 25mm a 6,5cm de espesor, según el modelo); la Inomax IM8006 es distinta, está pensada específicamente para puertas de vidrio Blindex y se sujeta con tornillos que presionan el vidrio, sin perforarlo.` },
+      { type: "p", content: `Segundo, el nivel de seguridad. La Kallay 4000 tiene doble perno (dos puntos de traba en vez de uno), pensada para puertas exteriores. La Trabex 1025 suma otra ventaja: combinación configurable, así que si perdés las llaves o te mudás a una casa con cerraduras viejas, podés reconfigurarla en vez de cambiar todo el mecanismo.` },
+
+      { type: "h2", title: `Las mejores cerraduras de puerta 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Cerradura reforzada embutible, la más vendida` },
+      { type: "product-card", productMlaId: "MLAU139920880", label: "La más vendida", labelColor: "green", ranking: 1, description: `Embutible, reversible (derecha/izquierda), para aberturas de 3 a 6,5cm. 2° en Manuales de MercadoLibre, con {{reviews:MLAU139920880}} calificaciones y {{rating:MLAU139920880}} estrellas.` },
+      { type: "p", content: `Es 2° en el ranking de ventas de Manuales de MercadoLibre, con {{reviews:MLAU139920880}} calificaciones a {{rating:MLAU139920880}} estrellas, la base de reseñas más grande de esta comparativa. Es embutible, reversible y sirve para puertas de 3 a 6,5cm de espesor, a alrededor de {{precio:MLAU139920880:k}}.` },
+      { type: "p", content: `Lo honesto: al momento de verificar stock quedaban solo 2 unidades disponibles en la publicación (el vendedor tiene más de 250 mil ventas históricas, así que es esperable que reponga). Además, varias reseñas reales coinciden en que viene "casi seca" de fábrica: conviene desarmarla y lubricar las placas antes de instalarla.` },
+      { type: "pull-quote", content: `"Es excelente. Se siente re sólida y pesada, no es la clásica chapa barata de siempre, es muy buena. Viene re bien de fabrica. Yo la desarme para dar vuelta el pestillo y agregarle lubricante."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `2. Kallay 4000, más seguridad para exterior` },
+      { type: "product-card", productMlaId: "MLA22736477", label: "Más seguridad exterior", labelColor: "blue", ranking: 2, description: `Acero de alta resistencia con doble perno. 13° en Manuales de MercadoLibre, con {{reviews:MLA22736477}} calificaciones y {{rating:MLA22736477}} estrellas.` },
+      { type: "p", content: `Con doble perno (dos puntos de traba) y acero de alta resistencia, la Kallay 4000 está pensada para puertas exteriores, portones y cualquier acceso que necesite protección extra. Tiene {{reviews:MLA22736477}} calificaciones a {{rating:MLA22736477}} estrellas, a alrededor de {{precio:MLA22736477:k}}.` },
+      { type: "p", content: `Lo honesto: es la segunda más cara de esta comparativa (solo la Acytra cuesta más), un costo razonable dado el refuerzo de doble perno, pero vale saberlo si solo necesitás una cerradura interior básica.` },
+      { type: "pull-quote", content: `"La mejor cerradura. Cerrar los ojos y compralo. Es sumamente rígida."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `3. Trabex 1025, combinaciones configurables` },
+      { type: "product-card", productMlaId: "MLA45807139", label: "Combinaciones configurables", labelColor: "purple", ranking: 3, description: `Niquelada, protege contra la corrosión, 4 combinaciones configurables e incluye 2 llaves. {{reviews:MLA45807139}} calificaciones y {{rating:MLA45807139}} estrellas.` },
+      { type: "p", content: `Es la única de esta comparativa con combinación configurable (4 combinaciones posibles), útil si perdés las llaves o te mudás a una casa con cerraduras de uso previo. Es niquelada, protege contra la corrosión y apta para puertas de madera de 25 a 35mm de espesor, a alrededor de {{precio:MLA45807139:k}}.` },
+      { type: "p", content: `Lo honesto: tiene {{reviews:MLA45807139}} calificaciones, la base más chica entre las tres cerraduras embutibles estándar de esta comparativa (aunque bastante por encima de la Inomax, que es de otro tipo de instalación).` },
+      { type: "pull-quote", content: `"La calidad trabex de siempre."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `4. Inomax IM8006, para puerta de vidrio` },
+      { type: "product-card", productMlaId: "MLA45982869", label: "Para puerta de vidrio", labelColor: "amber", ranking: 4, description: `Para puertas de vidrio Blindex, no requiere perforación. Acero inoxidable, 3 llaves incluidas. 12° en Manuales de MercadoLibre, {{reviews:MLA45982869}} calificaciones.` },
+      { type: "p", content: `Es la única de esta comparativa pensada específicamente para puertas de vidrio Blindex: se sujeta con tornillos que presionan el vidrio, sin perforarlo, e incluye 3 llaves. Es 12° en Manuales de MercadoLibre, con {{reviews:MLA45982869}} calificaciones a {{rating:MLA45982869}} estrellas, a alrededor de {{precio:MLA45982869:k}}.` },
+      { type: "p", content: `Lo honesto: no sirve para puertas de madera o metal estándar, es específica para vidrio. Si tu puerta no es de vidrio, cualquiera de las otras 4 de esta comparativa te sirve mejor.` },
+      { type: "pull-quote", content: `"Me gustó, la relación calidad precio está bien. Colocas cada parte en su respectivo vidrio, apretas los tornillos que presionan el vidrio (no lo perforan) y se sostiene firme."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `5. Acytra 101, acabado premium` },
+      { type: "product-card", productMlaId: "MLA21414110", label: "Acabado premium", labelColor: "slate", ranking: 5, description: `Bronce cromado, abatible, 2 llaves incluidas. La más cara de esta comparativa, con {{reviews:MLA21414110}} calificaciones y {{rating:MLA21414110}} estrellas.` },
+      { type: "p", content: `Con acabado en bronce cromado, la Acytra 101 es la opción más cara de esta comparativa, a alrededor de {{precio:MLA21414110:k}}. Tiene {{reviews:MLA21414110}} calificaciones a {{rating:MLA21414110}} estrellas.` },
+      { type: "p", content: `Lo honesto: pagás más por marca y acabado, no necesariamente por más seguridad mecánica que la Kallay 4000 (que tiene doble perno a un precio menor). Elegila si priorizás el acabado estético y la marca por sobre el precio.` },
+      { type: "pull-quote", content: `"Excelente, muy buena, es la misma marca que la que tenía que duró 40 años, espero que me dé el mismo resultado."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h2", title: `Tabla comparativa: instalación, seguridad y precio`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Instalación`, `Seguridad`, `Precio`, `Calificaciones`], rows: [
+        [`[Reforzada embutible](https://meli.la/2Ybu8SS)`, `Embutible`, `Perno simple`, `{{precio:MLAU139920880}}`, `{{rating:MLAU139920880}} ★ ({{reviews:MLAU139920880}})`],
+        [`[Kallay 4000](https://meli.la/1SEHC3S)`, `Embutible`, `Doble perno`, `{{precio:MLA22736477}}`, `{{rating:MLA22736477}} ★ ({{reviews:MLA22736477}})`],
+        [`[Trabex 1025](https://meli.la/1tcKZJR)`, `Embutible`, `4 combinaciones`, `{{precio:MLA45807139}}`, `{{rating:MLA45807139}} ★ ({{reviews:MLA45807139}})`],
+        [`[Inomax IM8006](https://meli.la/1WMpprL)`, `De montante (vidrio)`, `3 llaves, sin perforar`, `{{precio:MLA45982869}}`, `{{rating:MLA45982869}} ★ ({{reviews:MLA45982869}})`],
+        [`[Acytra 101](https://meli.la/1aATdMr)`, `Embutible`, `Perno simple`, `{{precio:MLA21414110}}`, `{{rating:MLA21414110}} ★ ({{reviews:MLA21414110}})`],
+      ] },
+
+      { type: "h2", title: `Cuál cerradura de puerta elegir según tu caso`, id: "cual-elegir" },
+      { type: "list", items: [
+        `No sabés cuál elegir, querés la compra segura: la reforzada embutible ({{precio:MLAU139920880:k}}). La más vendida.`,
+        `Es una puerta exterior o portón que necesita más seguridad: la Kallay 4000 ({{precio:MLA22736477:k}}). Doble perno.`,
+        `Perdiste las llaves o te mudaste a una casa con cerraduras viejas: la Trabex 1025 ({{precio:MLA45807139:k}}). Combinación configurable.`,
+        `Tu puerta es de vidrio Blindex: la Inomax IM8006 ({{precio:MLA45982869:k}}). La única que no requiere perforar el vidrio.`,
+        `Priorizás el acabado y la marca: la Acytra 101 ({{precio:MLA21414110:k}}). Bronce cromado, la más cara.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la mayoría, la **[cerradura reforzada embutible](/producto/cerradura-reforzada-herrero-casa-puerta-mlau139920880)** es la compra más segura: la más vendida de esta comparativa, con la salvedad de que conviene lubricarla antes de instalarla. Si tu puerta es exterior y necesitás más seguridad, la **[Kallay 4000](/producto/kallay-4000-cerradura-seguridad-puerta-exterior-mla22736477)**, de doble perno. Si perdiste las llaves o preferís poder reconfigurar la combinación, la **[Trabex 1025](/producto/cerradura-manual-trabex-1025-4-combinaciones-niquelada-para-puerta-mla45807139)**. Si tu puerta es de vidrio Blindex, la **[Inomax IM8006](/producto/cerradura-para-puerta-de-vidrio-blindex-montante-inomax-im8006-acero-inoxidable-mla45982869)** es la única opción de esta comparativa que no requiere perforarlo. Y si priorizás el acabado y la marca por sobre el precio, la **[Acytra 101](/producto/cerradura-manual-acytra-101-abatible-2-llaves-bronce-cromado-mla21414110)**, en bronce cromado.` },
+      { type: "h2", title: "Preguntas frecuentes", id: "faq" },
+    ],
+    faq: [
+      { question: `¿Cuál es la mejor cerradura de puerta en Argentina?`, answer: `La más vendida es la [cerradura reforzada embutible](/producto/cerradura-reforzada-herrero-casa-puerta-mlau139920880). Si necesitás más seguridad para una puerta exterior, la [Kallay 4000](/producto/kallay-4000-cerradura-seguridad-puerta-exterior-mla22736477), de doble perno.` },
+      { question: `¿Qué diferencia hay entre una cerradura de perno simple y doble perno?`, answer: `El doble perno traba en dos puntos en vez de uno, lo que suma resistencia frente a intentos de forzar la puerta. De esta comparativa, solo la Kallay 4000 tiene doble perno; las demás (excepto la Inomax, que es otro tipo) son de perno simple.` },
+      { question: `¿Sirve una cerradura común para una puerta de vidrio?`, answer: `No. Las puertas de vidrio Blindex necesitan una cerradura de montante como la Inomax IM8006 de esta comparativa, que se sujeta con tornillos que presionan el vidrio sin perforarlo. Una cerradura embutible común no sirve para ese tipo de puerta.` },
+      { question: `¿Cómo sé qué espesor de puerta necesito?`, answer: `Depende del modelo: la cerradura reforzada embutible de esta comparativa sirve para puertas de 3 a 6,5cm, y la Trabex 1025 para puertas de madera de 25 a 35mm. Medí el espesor real de tu puerta antes de comprar.` },
+      { question: `¿Qué es una cerradura con combinación configurable?`, answer: `Es una cerradura, como la Trabex 1025 de esta comparativa, que permite cambiar la combinación de la llave sin reemplazar todo el mecanismo. Útil si perdiste las llaves originales o te mudaste a una propiedad con cerraduras de uso previo.` },
+      { question: `¿Hace falta lubricar una cerradura nueva antes de instalarla?`, answer: `Según varias reseñas reales de la cerradura reforzada embutible de esta comparativa, conviene sí: viene "casi seca" de fábrica y lubricar las placas de la llave antes de instalarla ayuda a que deslice mejor desde el principio.` },
+      { question: `¿Una cerradura de puerta reemplaza a una cerradura inteligente?`, answer: `No necesariamente, son productos distintos. Una cerradura de puerta como las de esta comparativa es mecánica, con llave física. Si buscás apertura remota, huella o código digital, mirá nuestra guía de [cerradura inteligente](/guias/seguridad/cerradura-inteligente).` },
+    ],
+    internalLinks: [
+      { label: "Cerradura inteligente: cuál comprar en Argentina", href: "/guias/seguridad/cerradura-inteligente" },
+      { label: "Cámara de seguridad: cuál comprar en Argentina", href: "/guias/seguridad/camara-de-seguridad" },
       { label: "Alarma para casa: cuál comprar en Argentina", href: "/guias/seguridad/alarma-para-casa" },
     ],
     internalLinksTitle: "Más para la seguridad de tu casa",
@@ -26405,6 +26517,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { question: `¿Se pueden agregar más sensores después?`, answer: `El [PST G30](/producto/kit-alarma-hogar-pst-g30-inalambrico-4-sensores-wifi-y-sirena-externa-mla28261746) admite hasta 100 zonas inalámbricas y el [Hikvision AXHome](/producto/kit-panel-alarma-wifi-4g-ax-home-hikvision-16-zonas-sensor-mla43987591) hasta 16 zonas, así que ambos se pueden expandir. El [i-tob KIT4s](/producto/alarma-inalambrica-i-tob-it-wgp-kit4s-wifi-gsm-casa-con-sensores-y-sirena-mla58030955) no declara esa capacidad de expansión en su ficha.` },
     ],
     internalLinks: [
+      { label: "Cerradura de puerta: cuál comprar en Argentina", href: "/guias/seguridad/cerradura-de-puerta" },
       { label: "Cámara de seguridad: cuál comprar en Argentina", href: "/guias/seguridad/camara-de-seguridad" },
       { label: "Cerradura inteligente: cuál comprar en Argentina", href: "/guias/seguridad/cerradura-inteligente" },
       { label: "Kit de cámaras de seguridad: cuál comprar", href: "/guias/seguridad/kit-camaras-seguridad" },
@@ -37337,6 +37450,11 @@ export const guideCategories: Record<string, { name: string; description: string
     name: "Guía de Cerraduras Inteligentes",
     description:
       "Empotrable o retrofit, con huella, tarjeta o app: cuál conviene según tu puerta, con precios reales de MercadoLibre.",
+  },
+  "cerraduras": {
+    name: "Guía de Cerraduras de Puerta",
+    description:
+      "Cerraduras mecánicas de puerta comparadas por tipo de instalación, seguridad y precio real de MercadoLibre.",
   },
   "botellas-termicas": {
     name: "Guía de Botellas Térmicas",

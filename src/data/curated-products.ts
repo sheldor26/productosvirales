@@ -109348,6 +109348,508 @@ No es para vos si preferís la opción con más reseñas acumuladas y respaldo (
       },
     },
   },
+
+  {
+    id: 'MLAU139920880',
+    title: 'Cerradura Reforzada Herrero Casa Puerta',
+    canonicalName: 'Cerradura reforzada embutible',
+    brand: 'Genérica',
+    mpn: 'Segura',
+    price: 14390,
+    priceUpdated: "2026-10-22",
+    priceLastChecked: "2026-10-22",
+    priceStatus: "fresh",
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_731155-MLA113149619125_062026-O.webp',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_731155-MLA113149619125_062026-O.webp',
+    ],
+    category: 'Hogar y Jardín',
+    categorySlug: 'hogar-jardin',
+    permalink: 'https://www.mercadolibre.com.ar/cerradura-reforzada-herrero-casa-puerta/up/MLAU139920880',
+    affiliateUrl: 'https://meli.la/2Ybu8SS',
+    condition: 'new',
+    freeShipping: true,
+    rating: 4.5,
+    reviewCount: 1820,
+    reviewsSampledAt: '2026-10-22',
+    badge: 'bestseller',
+    pastelColor: 'var(--pastel-green)',
+    visibility: 'normal',
+    description: 'Cerradura embutible reforzada, marca genérica, modelo Segura. 2° más vendida en Manuales de MercadoLibre, con {{reviews:MLAU139920880}} calificaciones a {{rating:MLAU139920880}} estrellas: la más vendida de esta comparativa.',
+    seoTitle: 'Cerradura reforzada embutible: la más vendida en Argentina',
+    metaDescription: 'Cerradura reforzada embutible, 2° más vendida en Manuales de MercadoLibre. {{rating:MLAU139920880}}★ en {{reviews:MLAU139920880}} calificaciones por {{precio:MLAU139920880}}.',
+    pros: [
+      '2° más vendida en Manuales de MercadoLibre, con {{reviews:MLAU139920880}} calificaciones a {{rating:MLAU139920880}} estrellas: la base de reseñas más grande de esta comparativa',
+      'La más económica de las cinco opciones',
+      'Reversible (derecha/izquierda), para aberturas de puerta de 3 a 6,5cm',
+      'Vendida por DEPOHOME, MercadoLíder con más de 250 mil ventas históricas',
+    ],
+    cons: [
+      'Al verificar stock quedaban solo 2 unidades disponibles en la publicación',
+      'Varias reseñas reales coinciden en que viene "casi seca" de fábrica: conviene lubricar las placas antes de instalarla',
+      'Perno simple, no doble perno como la Kallay 4000 de esta comparativa',
+    ],
+    verdict: 'Es la cerradura de puerta más vendida de esta comparativa: 2° en el ranking de Manuales de MercadoLibre, con {{reviews:MLAU139920880}} calificaciones a {{rating:MLAU139920880}} estrellas, la base más grande de las cinco. Es también la más económica. La contra real, según varias reseñas: viene casi seca de fábrica, conviene lubricarla antes de instalar.',
+    articleBody: `## La cerradura de puerta más vendida de esta comparativa
+
+Con {{reviews:MLAU139920880}} calificaciones a {{rating:MLAU139920880}} estrellas, esta cerradura reforzada es 2° en el ranking de ventas de Manuales de MercadoLibre, la base de reseñas más grande de las cinco de esta guía. Es embutible, reversible y sirve para puertas de 3 a 6,5cm de espesor.
+
+## El cuidado real que piden las reseñas
+
+Una reseña real describe la experiencia: "Es excelente. Se siente re sólida y pesada, no es la clásica chapa barata de siempre, es muy buena. Viene re bien de fabrica. Yo la desarme para dar vuelta el pestillo y agregarle lubricante". Otra coincide: "Antes de colocar conviene desarmar y lubricar las placas de la llave y la nuez para que deslicen bien, ya que viene casi seca". Es un paso extra de 5 minutos que varios compradores recomiendan antes de instalarla.
+
+## Para quién es, y para quién no
+
+Es para vos si buscás la compra más económica y segura, para una puerta interior o exterior estándar.
+
+No es para vos si necesitás doble perno para más seguridad (mirá la Kallay 4000 de esta comparativa) o si tu puerta es de vidrio Blindex (mirá la Inomax IM8006).`,
+    specs: [
+      { label: 'Marca', value: 'Genérica' },
+      { label: 'Línea', value: 'Cerradura' },
+      { label: 'Modelo', value: 'Segura' },
+      { label: 'Tipo de instalación', value: 'Empotrable' },
+      { label: 'Tipo de apertura', value: 'Abatible' },
+      { label: 'Materiales', value: 'Acero' },
+      { label: 'Tipo de pestillo', value: 'Partido' },
+      { label: 'Dirección', value: 'Derecha/Izquierda (reversible)' },
+      { label: 'Espesor de puerta', value: '3 a 6,5 cm' },
+    ],
+    customerReviews: [
+      { rating: 4, country: 'Argentina', text: 'Es excelente. Se siente re sólida y pesada, no es la clásica chapa barata de siempre, es muy buena. Viene re bien de fabrica. Yo la desarme para dar vuelta el pestillo y agregarle lubricante y quedó perfecta.', useful: 5 },
+      { rating: 4, country: 'Argentina', text: 'Es una cerrada normal, materiales buenos, no es excelente. Antes de colocar conviene desarmar y lubricar las placas de la llave y la nuez para que deslicen bien, ya que viene casi seca.', useful: 3 },
+    ],
+    faq: [
+      { question: '¿Por qué es la más vendida?', answer: 'Es 2° en el ranking de ventas de Manuales de MercadoLibre, con {{reviews:MLAU139920880}} calificaciones, la base de reseñas más grande de esta comparativa.' },
+      { question: '¿Hace falta lubricarla antes de instalar?', answer: 'Según varias reseñas reales, sí: viene "casi seca" de fábrica. Conviene desarmarla y lubricar las placas de la llave antes de instalarla.' },
+      { question: '¿Para qué espesor de puerta sirve?', answer: 'Para puertas de 3 a 6,5cm de espesor, según su ficha técnica. Es reversible, sirve tanto para puertas que abren a la derecha como a la izquierda.' },
+    ],
+    relatedProducts: ['MLA22736477', 'MLA45807139', 'MLA45982869'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Cerradura reforzada embutible',
+      description: 'Cerradura embutible reforzada, marca genérica, modelo Segura.',
+      brand: { '@type': 'Brand', name: 'Genérica' },
+      model: 'Segura',
+      sku: 'MLAU139920880',
+      category: 'Cerraduras',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_731155-MLA113149619125_062026-O.webp',
+      url: 'https://productosvirales.com.ar/producto/cerradura-reforzada-herrero-casa-puerta-mlau139920880',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '14390',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.5',
+        reviewCount: '1820',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+  },
+
+  {
+    id: 'MLA22736477',
+    title: 'Kallay 4000 Cerradura Seguridad Puerta Exterior',
+    canonicalName: 'Kallay 4000',
+    brand: 'Kallay',
+    mpn: '4000',
+    price: 38120,
+    priceUpdated: "2026-10-22",
+    priceLastChecked: "2026-10-22",
+    priceStatus: "fresh",
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_812640-MLA99935458713_112025-O.webp',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_812640-MLA99935458713_112025-O.webp',
+    ],
+    category: 'Hogar y Jardín',
+    categorySlug: 'hogar-jardin',
+    permalink: 'https://www.mercadolibre.com.ar/kallay-4000-cerradura-seguridad-puerta-exterior/p/MLA22736477',
+    affiliateUrl: 'https://meli.la/1SEHC3S',
+    condition: 'new',
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 1311,
+    reviewsSampledAt: '2026-10-22',
+    badge: 'bestseller',
+    pastelColor: 'var(--pastel-blue)',
+    visibility: 'normal',
+    description: 'Cerradura de seguridad Kallay 4000, de acero de alta resistencia con doble perno, para puertas exteriores. 13° más vendida en Manuales de MercadoLibre, con {{reviews:MLA22736477}} calificaciones a {{rating:MLA22736477}} estrellas.',
+    seoTitle: 'Cerradura Kallay 4000: doble perno para puerta exterior',
+    metaDescription: 'Cerradura Kallay 4000, doble perno, {{rating:MLA22736477}}★ en {{reviews:MLA22736477}} calificaciones por {{precio:MLA22736477}}. Más seguridad para puertas exteriores.',
+    pros: [
+      '13° más vendida en Manuales de MercadoLibre, con {{reviews:MLA22736477}} calificaciones a {{rating:MLA22736477}} estrellas',
+      'Doble perno: dos puntos de traba en vez de uno, para más seguridad',
+      'Acero de alta resistencia, pensada para puertas exteriores y portones',
+      'Pestillo reversible, fácil de instalar según compradores reales',
+    ],
+    cons: [
+      'Es la segunda más cara de esta comparativa',
+      'Para una puerta interior sin necesidades especiales de seguridad, el refuerzo de doble perno puede ser más de lo necesario',
+    ],
+    verdict: 'Con doble perno y acero de alta resistencia, es la opción de esta comparativa pensada específicamente para más seguridad en puertas exteriores. Tiene {{reviews:MLA22736477}} calificaciones a {{rating:MLA22736477}} estrellas. La contra real: es la segunda más cara de las cinco.',
+    articleBody: `## Más seguridad para puertas exteriores
+
+Con doble perno (dos puntos de traba) y acero de alta resistencia, esta Kallay 4000 está pensada para puertas exteriores, portones y cualquier acceso que necesite protección extra. Tiene {{reviews:MLA22736477}} calificaciones a {{rating:MLA22736477}} estrellas, una de las bases de reseñas más grandes de esta comparativa.
+
+## Lo que dicen los compradores
+
+Una reseña real resume la experiencia sin vueltas: "La mejor cerradura. Cerrar los ojos y compralo. Es sumamente rígida". El resumen de opiniones generado a partir de las reseñas reales coincide: es fácil de instalar gracias a su pestillo reversible, se adapta bien a diferentes tipos de puertas y es compatible con modelos anteriores.
+
+## Para quién es, y para quién no
+
+Es para vos si tu puerta es exterior o un portón y priorizás más seguridad mecánica.
+
+No es para vos si buscás la opción más económica (mirá la cerradura reforzada embutible de esta comparativa) o si necesitás combinación configurable (mirá la Trabex 1025).`,
+    specs: [
+      { label: 'Marca', value: 'Kallay' },
+      { label: 'Modelo', value: '4000' },
+      { label: 'Materiales', value: 'Acero de alta resistencia' },
+      { label: 'Seguridad', value: 'Doble perno' },
+      { label: 'Medidas del frente', value: '26 x 238 mm' },
+      { label: 'Medidas de la caja', value: '75 x 148 mm' },
+      { label: 'Uso recomendado', value: 'Puertas exteriores, portones' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', text: 'La mejor cerradura. Cerrar los ojos y compralo. Es sumamente rígida.', useful: 2 },
+      { rating: 5, country: 'Argentina', text: 'De calidad.', useful: 2 },
+    ],
+    faq: [
+      { question: '¿Qué significa que tiene doble perno?', answer: 'Significa que traba la puerta en dos puntos en vez de uno, lo que suma resistencia frente a intentos de forzarla. Es el único de esta comparativa con doble perno.' },
+      { question: '¿Sirve para puertas interiores?', answer: 'Sí, pero está pensada principalmente para puertas exteriores y portones, donde el refuerzo de doble perno tiene más sentido.' },
+      { question: '¿Es fácil de instalar?', answer: 'Según compradores reales, sí: el pestillo reversible facilita la instalación y se adapta a distintos tipos de puerta.' },
+    ],
+    relatedProducts: ['MLAU139920880', 'MLA45807139', 'MLA21414110'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Kallay 4000',
+      description: 'Cerradura de seguridad Kallay 4000, de acero de alta resistencia con doble perno.',
+      brand: { '@type': 'Brand', name: 'Kallay' },
+      model: '4000',
+      sku: 'MLA22736477',
+      category: 'Cerraduras',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_812640-MLA99935458713_112025-O.webp',
+      url: 'https://productosvirales.com.ar/producto/kallay-4000-cerradura-seguridad-puerta-exterior-mla22736477',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '38120',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.8',
+        reviewCount: '1311',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+  },
+
+  {
+    id: 'MLA45807139',
+    title: 'Cerradura Manual Trabex 1025 4 Combinaciones Niquelada para Puerta',
+    canonicalName: 'Trabex 1025',
+    brand: 'Trabex',
+    mpn: '1025',
+    price: 27389,
+    priceUpdated: "2026-10-22",
+    priceLastChecked: "2026-10-22",
+    priceStatus: "fresh",
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_953448-MLA100078438529_122025-O.webp',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_953448-MLA100078438529_122025-O.webp',
+    ],
+    category: 'Hogar y Jardín',
+    categorySlug: 'hogar-jardin',
+    permalink: 'https://www.mercadolibre.com.ar/cerradura-manual-trabex-1025-4-combinaciones-niquelada-para-puerta/p/MLA45807139',
+    affiliateUrl: 'https://meli.la/1tcKZJR',
+    condition: 'new',
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 637,
+    reviewsSampledAt: '2026-10-22',
+    pastelColor: 'var(--pastel-purple)',
+    visibility: 'normal',
+    description: 'Cerradura Trabex 1025, niquelada, con 4 combinaciones configurables e incluye 2 llaves. {{reviews:MLA45807139}} calificaciones a {{rating:MLA45807139}} estrellas.',
+    seoTitle: 'Cerradura Trabex 1025: combinación configurable',
+    metaDescription: 'Cerradura Trabex 1025, 4 combinaciones configurables, {{rating:MLA45807139}}★ en {{reviews:MLA45807139}} calificaciones por {{precio:MLA45807139}}.',
+    pros: [
+      'Única de esta comparativa con combinación configurable (4 combinaciones posibles)',
+      '{{reviews:MLA45807139}} calificaciones a {{rating:MLA45807139}} estrellas',
+      'Niquelada, protege contra la corrosión',
+      'Incluye 2 llaves, reversible (derecha/izquierda)',
+    ],
+    cons: [
+      'Base de reseñas más chica entre las tres cerraduras embutibles estándar de esta comparativa',
+      'Apta para puertas de madera de 25 a 35mm de espesor, no para cualquier grosor',
+    ],
+    verdict: 'Es la única cerradura de esta comparativa con combinación configurable, útil si perdiste las llaves o te mudaste a una casa con cerraduras de uso previo. Tiene {{reviews:MLA45807139}} calificaciones a {{rating:MLA45807139}} estrellas, niquelada y anticorrosión.',
+    articleBody: `## La única con combinación configurable
+
+Esta Trabex 1025 es la única cerradura de esta comparativa con combinación configurable: tiene 4 combinaciones posibles, útil si perdés las llaves o te mudás a una casa con cerraduras de uso previo, sin tener que reemplazar todo el mecanismo. Es niquelada, protege contra la corrosión y es apta para puertas de madera de 25 a 35mm de espesor.
+
+## Lo que dicen los compradores
+
+Una reseña real lo resume en pocas palabras: "La calidad trabex de siempre". El resumen de opiniones generado a partir de las reseñas reales coincide: destaca por su excelente calidad y facilidad de instalación, ofreciendo gran seguridad, con una marca confiable y reconocida en el mercado.
+
+## Para quién es, y para quién no
+
+Es para vos si perdiste las llaves de tu cerradura actual, te mudaste a una propiedad con cerraduras viejas, o simplemente preferís poder reconfigurar la combinación en el futuro.
+
+No es para vos si tu puerta no es de madera con el espesor adecuado (25 a 35mm) o si buscás doble perno para más seguridad (mirá la Kallay 4000 de esta comparativa).`,
+    specs: [
+      { label: 'Marca', value: 'Trabex' },
+      { label: 'Modelo', value: '1025' },
+      { label: 'Acabado', value: 'Niquelado' },
+      { label: 'Combinaciones', value: '4 configurables' },
+      { label: 'Llaves incluidas', value: '2' },
+      { label: 'Apto para', value: 'Puertas de madera de 25 a 35mm' },
+      { label: 'Dirección', value: 'Derecha/Izquierda (reversible)' },
+      { label: 'Protección', value: 'Anticorrosión' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', text: 'La calidad trabex de siempre.', useful: 4 },
+    ],
+    faq: [
+      { question: '¿Qué significa que tiene 4 combinaciones?', answer: 'Significa que se puede reconfigurar el mecanismo para que funcione con una llave distinta a la original, sin cambiar toda la cerradura. Útil si perdiste las llaves o heredaste cerraduras viejas.' },
+      { question: '¿Para qué tipo de puerta sirve?', answer: 'Para puertas de madera con un espesor de entre 25 y 35mm, según su ficha técnica.' },
+      { question: '¿Cuántas llaves incluye?', answer: 'Incluye 2 llaves.' },
+    ],
+    relatedProducts: ['MLAU139920880', 'MLA22736477', 'MLA21414110'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Trabex 1025',
+      description: 'Cerradura Trabex 1025, niquelada, con 4 combinaciones configurables.',
+      brand: { '@type': 'Brand', name: 'Trabex' },
+      model: '1025',
+      sku: 'MLA45807139',
+      category: 'Cerraduras',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_953448-MLA100078438529_122025-O.webp',
+      url: 'https://productosvirales.com.ar/producto/cerradura-manual-trabex-1025-4-combinaciones-niquelada-para-puerta-mla45807139',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '27389',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.8',
+        reviewCount: '637',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+  },
+
+  {
+    id: 'MLA45982869',
+    title: 'Cerradura Para Puerta De Vidrio Blindex Montante Inomax IM8006 Acero Inoxidable no Requiere Perforación 3 Llaves',
+    canonicalName: 'Inomax IM8006',
+    brand: 'Inomax',
+    mpn: 'IM8006',
+    price: 21559,
+    originalPrice: 22694,
+    priceUpdated: "2026-10-22",
+    priceLastChecked: "2026-10-22",
+    priceStatus: "fresh",
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_765848-MLA95649470164_102025-O.webp',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_765848-MLA95649470164_102025-O.webp',
+    ],
+    category: 'Hogar y Jardín',
+    categorySlug: 'hogar-jardin',
+    permalink: 'https://www.mercadolibre.com.ar/cerradura-para-puerta-de-vidrio-blindex-montante-inomax-im8006-acero-inoxidable-no-requiere-perforacion-3-llaves/p/MLA45982869',
+    affiliateUrl: 'https://meli.la/1WMpprL',
+    condition: 'new',
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 379,
+    reviewsSampledAt: '2026-10-22',
+    badge: 'bestseller',
+    pastelColor: 'var(--pastel-amber)',
+    visibility: 'normal',
+    description: 'Cerradura de montante Inomax IM8006, para puertas de vidrio Blindex, no requiere perforación. 12° más vendida en Manuales de MercadoLibre, con {{reviews:MLA45982869}} calificaciones a {{rating:MLA45982869}} estrellas.',
+    seoTitle: 'Cerradura Inomax IM8006: para puerta de vidrio sin perforar',
+    metaDescription: 'Cerradura Inomax IM8006 para puerta de vidrio Blindex, no requiere perforación, {{rating:MLA45982869}}★ en {{reviews:MLA45982869}} calificaciones por {{precio:MLA45982869}}.',
+    pros: [
+      'Única de esta comparativa pensada para puertas de vidrio Blindex',
+      'No requiere perforar el vidrio: se sujeta con tornillos que lo presionan',
+      '12° más vendida en Manuales de MercadoLibre, con {{reviews:MLA45982869}} calificaciones',
+      'Incluye 3 llaves, acero inoxidable',
+    ],
+    cons: [
+      'No sirve para puertas de madera o metal estándar, es específica para vidrio',
+      'Base de reseñas más chica de esta comparativa',
+    ],
+    verdict: 'Es la única cerradura de esta comparativa pensada específicamente para puertas de vidrio Blindex, sin necesidad de perforarlo. Es 12° en Manuales de MercadoLibre, con {{reviews:MLA45982869}} calificaciones a {{rating:MLA45982869}} estrellas. La contra real: no sirve para puertas estándar de madera o metal.',
+    articleBody: `## La única pensada para puertas de vidrio
+
+Esta Inomax IM8006 es la única cerradura de esta comparativa pensada específicamente para puertas de vidrio Blindex: se sujeta con tornillos que presionan el vidrio, sin perforarlo, e incluye 3 llaves de acero inoxidable. Es 12° en el ranking de ventas de Manuales de MercadoLibre, con {{reviews:MLA45982869}} calificaciones a {{rating:MLA45982869}} estrellas.
+
+## Lo que dicen los compradores
+
+Una reseña real explica el mecanismo con detalle: "Me gustó, la relación calidad precio está bien. Colocas cada parte en su respectivo vidrio, apretas los tornillos que presionan el vidrio (no lo perforan) y se sostiene firme". El resumen de opiniones generado a partir de las reseñas reales coincide: es de muy buena calidad y fácil de instalar, con seguridad duradera y confiable, ideal para cerrar puertas de negocios.
+
+## Para quién es, y para quién no
+
+Es para vos si tu puerta es de vidrio Blindex y necesitás una cerradura sin perforarlo.
+
+No es para vos si tu puerta es de madera o metal estándar: ahí te sirven mejor las otras 4 cerraduras de esta comparativa.`,
+    specs: [
+      { label: 'Marca', value: 'Inomax' },
+      { label: 'Modelo', value: 'IM8006' },
+      { label: 'Tipo de instalación', value: 'De montante, sin perforar el vidrio' },
+      { label: 'Materiales', value: 'Acero inoxidable' },
+      { label: 'Llaves incluidas', value: '3' },
+      { label: 'Apto para', value: 'Puertas de vidrio Blindex' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', text: 'Me gustó, la relación calidad precio está bien. Colocas cada parte en su respectivo vidrio, apretas los 2 tornillos que presionan el vidrio (no lo perforan) y se sostiene firme.', useful: 5 },
+    ],
+    faq: [
+      { question: '¿Sirve para cualquier tipo de puerta?', answer: 'No, es específica para puertas de vidrio Blindex. Para puertas de madera o metal, mirá las otras 4 cerraduras de esta comparativa.' },
+      { question: '¿Hay que perforar el vidrio para instalarla?', answer: 'No, se sujeta con tornillos que presionan el vidrio desde ambos lados, sin perforarlo.' },
+      { question: '¿Cuántas llaves incluye?', answer: 'Incluye 3 llaves.' },
+    ],
+    relatedProducts: ['MLAU139920880', 'MLA22736477', 'MLA45807139'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Inomax IM8006',
+      description: 'Cerradura de montante Inomax IM8006, para puertas de vidrio Blindex, no requiere perforación.',
+      brand: { '@type': 'Brand', name: 'Inomax' },
+      model: 'IM8006',
+      sku: 'MLA45982869',
+      category: 'Cerraduras',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_765848-MLA95649470164_102025-O.webp',
+      url: 'https://productosvirales.com.ar/producto/cerradura-para-puerta-de-vidrio-blindex-montante-inomax-im8006-acero-inoxidable-mla45982869',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '21559',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.7',
+        reviewCount: '379',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+  },
+
+  {
+    id: 'MLA21414110',
+    title: 'Cerradura Manual Acytra 101 Abatible 2 Llaves Bronce Cromado',
+    canonicalName: 'Acytra 101',
+    brand: 'Acytra',
+    mpn: '101',
+    price: 48584,
+    priceUpdated: "2026-10-22",
+    priceLastChecked: "2026-10-22",
+    priceStatus: "fresh",
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_997877-MLA99586583436_122025-O.webp',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_997877-MLA99586583436_122025-O.webp',
+    ],
+    category: 'Hogar y Jardín',
+    categorySlug: 'hogar-jardin',
+    permalink: 'https://www.mercadolibre.com.ar/cerradura-manual-acytra-101-abatible-2-llaves-bronce-cromado/p/MLA21414110',
+    affiliateUrl: 'https://meli.la/1aATdMr',
+    condition: 'new',
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 803,
+    reviewsSampledAt: '2026-10-22',
+    pastelColor: 'var(--pastel-slate)',
+    visibility: 'normal',
+    description: 'Cerradura Acytra 101, acabado bronce cromado, abatible, incluye 2 llaves. {{reviews:MLA21414110}} calificaciones a {{rating:MLA21414110}} estrellas, la más cara de esta comparativa.',
+    seoTitle: 'Cerradura Acytra 101: acabado premium bronce cromado',
+    metaDescription: 'Cerradura Acytra 101, bronce cromado, {{rating:MLA21414110}}★ en {{reviews:MLA21414110}} calificaciones por {{precio:MLA21414110}}. Acabado premium.',
+    pros: [
+      'Acabado en bronce cromado, el más premium de esta comparativa',
+      '{{reviews:MLA21414110}} calificaciones a {{rating:MLA21414110}} estrellas',
+      'Marca reconocida por su durabilidad, según reseñas reales',
+      'Incluye 2 llaves',
+    ],
+    cons: [
+      'Es la más cara de esta comparativa',
+      'No tiene doble perno como la Kallay 4000: pagás más por marca y acabado, no por más seguridad mecánica',
+    ],
+    verdict: 'Con acabado en bronce cromado, es la opción más cara de esta comparativa, con {{reviews:MLA21414110}} calificaciones a {{rating:MLA21414110}} estrellas. La contra real: no suma más seguridad mecánica que la Kallay 4000, que tiene doble perno a un precio menor. Conviene si priorizás el acabado y la marca.',
+    articleBody: `## La opción de acabado premium
+
+Con acabado en bronce cromado, esta Acytra 101 es la opción más cara de esta comparativa. Tiene {{reviews:MLA21414110}} calificaciones a {{rating:MLA21414110}} estrellas, e incluye 2 llaves.
+
+## Lo que dicen los compradores
+
+Una reseña real destaca la confianza en la marca por experiencia previa: "Excelente, muy buena, es la misma marca que la que tenía que duró 40 años, espero que me dé el mismo resultado. Gracias". El resumen de opiniones generado a partir de las reseñas reales coincide: destaca por su buena calidad y excelente precio, con Acytra como marca reconocida por su calidad y fiabilidad en cerraduras.
+
+## Para quién es, y para quién no
+
+Es para vos si priorizás el acabado estético (bronce cromado) y el respaldo de una marca con trayectoria por sobre el precio.
+
+No es para vos si buscás más seguridad mecánica al mejor precio: la Kallay 4000 de esta comparativa tiene doble perno y cuesta menos.`,
+    specs: [
+      { label: 'Marca', value: 'Acytra' },
+      { label: 'Modelo', value: '101' },
+      { label: 'Acabado', value: 'Bronce cromado' },
+      { label: 'Tipo de apertura', value: 'Abatible' },
+      { label: 'Llaves incluidas', value: '2' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', text: 'Excelente, muy buena es la misma marca que la que tenía que duro 40 años, espero que me dé el mismo resultado. Gracias.', useful: 3 },
+    ],
+    faq: [
+      { question: '¿Por qué es la más cara de esta comparativa?', answer: 'Por su acabado en bronce cromado y el respaldo de marca. No tiene doble perno, así que la diferencia de precio frente a la Kallay 4000 es por acabado y marca, no por más seguridad mecánica.' },
+      { question: '¿Cuántas llaves incluye?', answer: 'Incluye 2 llaves.' },
+      { question: '¿Es más segura que la Kallay 4000?', answer: 'No necesariamente. La Kallay 4000 de esta comparativa tiene doble perno (dos puntos de traba) a un precio menor. La Acytra 101 compite en acabado y marca, no en seguridad mecánica adicional.' },
+    ],
+    relatedProducts: ['MLAU139920880', 'MLA22736477', 'MLA45807139'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Acytra 101',
+      description: 'Cerradura Acytra 101, acabado bronce cromado, abatible.',
+      brand: { '@type': 'Brand', name: 'Acytra' },
+      model: '101',
+      sku: 'MLA21414110',
+      category: 'Cerraduras',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_997877-MLA99586583436_122025-O.webp',
+      url: 'https://productosvirales.com.ar/producto/cerradura-manual-acytra-101-abatible-2-llaves-bronce-cromado-mla21414110',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '48584',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.7',
+        reviewCount: '803',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+  },
 ];
 
 export const categoryPastels: Record<string, string> = {
