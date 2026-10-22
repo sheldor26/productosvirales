@@ -108926,6 +108926,428 @@ No es para vos si buscás el precio más bajo (mirá la AIWA de esta comparativa
       { question: "¿La ficha dice 14.000 W de succión, es correcto?", answer: "No, es un error de carga: 14.000 W de succión es imposible en un equipo de 500W. El dato real, según la descripción del producto, es 14.000 Pa (pascales)." },
     ],
   },
+
+  {
+    id: 'MLA3200433722',
+    title: 'Compresor De Aire 24 Litros 2 Hp Eléctrico Pektra Portátil',
+    canonicalName: 'Pektra PKT24L',
+    brand: 'Pektra',
+    mpn: 'PKT24L',
+    price: 199819,
+    originalPrice: 224999,
+    priceUpdated: "2026-10-22",
+    priceLastChecked: "2026-10-22",
+    priceStatus: "fresh",
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_670057-MLA119618554583_102026-O.webp',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_670057-MLA119618554583_102026-O.webp',
+    ],
+    category: 'Hogar y Jardín',
+    categorySlug: 'hogar-jardin',
+    permalink: 'https://articulo.mercadolibre.com.ar/MLA-3200433722',
+    affiliateUrl: 'https://meli.la/2a6Dosf',
+    condition: 'new',
+    freeShipping: true,
+    rating: 4.6,
+    reviewCount: 97,
+    reviewsSampledAt: '2026-10-22',
+    badge: 'bestseller',
+    pastelColor: 'var(--pastel-green)',
+    visibility: 'normal',
+    description: 'Compresor de aire de 24 litros y 2 HP, de Pektra. 8° más vendido en Compresores de MercadoLibre, con {{reviews:MLA3200433722}} calificaciones a {{rating:MLA3200433722}} estrellas: el más vendido y el más barato de esta comparativa.',
+    seoTitle: 'Compresor de Aire Pektra PKT24L: el más vendido',
+    metaDescription: 'Compresor de aire Pektra PKT24L de 24 litros, 8° más vendido en Compresores de MercadoLibre. {{rating:MLA3200433722}}★ en {{reviews:MLA3200433722}} calificaciones por {{precio:MLA3200433722}}.',
+    pros: [
+      '8° más vendido en Compresores de MercadoLibre, con {{reviews:MLA3200433722}} calificaciones a {{rating:MLA3200433722}} estrellas',
+      'El más económico de esta comparativa',
+      'Vendido por la tienda oficial de Pektra, MercadoLíder Platinum',
+      'Según una reseña real, viene completo con todos los elementos necesarios para usarlo apenas se recibe',
+    ],
+    cons: [
+      'Según una reseña real de 4 estrellas, no trae regulador de presión',
+      'Menor caudal que el Stanley de esta comparativa: 138 L/min contra 222 L/min',
+      'No incluye kit de accesorios como el Green Park de esta comparativa',
+    ],
+    verdict: 'Es el compresor de aire más vendido de esta comparativa: 8° en el ranking de Compresores de MercadoLibre, con {{reviews:MLA3200433722}} calificaciones a {{rating:MLA3200433722}} estrellas. Es también el más económico de los cuatro. La contra real, según una reseña: no trae regulador de presión.',
+    articleBody: `## El compresor de aire más vendido de esta comparativa
+
+Con {{reviews:MLA3200433722}} calificaciones a {{rating:MLA3200433722}} estrellas, este compresor de Pektra es 8° en el ranking de ventas de Compresores de MercadoLibre. Tiene 24 litros de tanque, 2 HP de potencia y 115 PSI de presión máxima, y es el más económico de esta comparativa.
+
+## Lo que dicen los compradores
+
+Una reseña real describe la experiencia de compra: "Es pequeño así que te facilita el traslado incluso lo podes llevar en el auto ya que no ocupa mucho espacio y además viene muy completo con todos los elementos que necesitas para usarlo apenas lo recibis". Otra reseña, de 4 estrellas, aclara un límite real: "Cumple con su función. No trae regulador de presión!!".
+
+## Para quién es, y para quién no
+
+Es para vos si buscás la compra más económica y segura, sin necesidad de ajustar presión fina para distintas herramientas.
+
+No es para vos si necesitás regular la presión de salida con precisión, o si preferís el respaldo de una marca internacional (mirá el Stanley de esta comparativa).`,
+    specs: [
+      { label: 'Marca', value: 'Pektra' },
+      { label: 'Modelo', value: 'PKT24L' },
+      { label: 'Potencia', value: '2 HP / 1.5 kW' },
+      { label: 'Capacidad del tanque', value: '24 litros' },
+      { label: 'Presión máxima', value: '115 PSI (8 bar)' },
+      { label: 'Caudal', value: '138 L/min' },
+      { label: 'Voltaje', value: '220V - 50Hz' },
+      { label: 'Fase eléctrica', value: 'Monofásica' },
+      { label: 'Peso', value: '20 kg' },
+      { label: 'Color', value: 'Rojo' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', text: 'Es pequeño así que te facilita el traslado incluso lo podes llevar en el auto ya que no ocupa mucho espacio y además viene muy completo con todos los elementos que necesitas para usarlo apenas lo recibis.', useful: 4 },
+      { rating: 4, country: 'Argentina', text: 'Cumple con su función. No trae regulador de presión!!.', useful: 3 },
+    ],
+    faq: [
+      { question: '¿Por qué es el más vendido?', answer: 'Es 8° en el ranking de ventas de Compresores de MercadoLibre, con {{reviews:MLA3200433722}} calificaciones, y es el más económico de esta comparativa.' },
+      { question: '¿Trae regulador de presión?', answer: 'No, según una reseña real de 4 estrellas. Cumple su función básica pero no permite ajustar la presión de salida con precisión.' },
+      { question: '¿Sirve para pintar con pistola?', answer: 'Sí, con 138 L/min de caudal alcanza para tareas de pintura de superficies chicas, aunque no incluye pistola de pintar en la caja.' },
+    ],
+    relatedProducts: ['MLA21818637', 'MLA49861247', 'MLA75732137'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Pektra PKT24L',
+      description: 'Compresor de aire de 24 litros y 2 HP, de Pektra.',
+      brand: { '@type': 'Brand', name: 'Pektra' },
+      model: 'PKT24L',
+      sku: 'MLA3200433722',
+      category: 'Compresores de Aire',
+      color: 'Rojo',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_670057-MLA119618554583_102026-O.webp',
+      url: 'https://productosvirales.com.ar/producto/compresor-de-aire-24-litros-2-hp-electrico-pektra-portatil-mla3200433722',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '199819',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.6',
+        reviewCount: '97',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+  },
+
+  {
+    id: 'MLA21818637',
+    title: 'Compresor De Aire Stanley 24 Litros 2 Hp 116Psi 8 Bar',
+    canonicalName: 'Stanley 24L',
+    brand: 'Stanley',
+    mpn: 'STC005',
+    price: 237449,
+    originalPrice: 349190,
+    priceUpdated: "2026-10-22",
+    priceLastChecked: "2026-10-22",
+    priceStatus: "fresh",
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_829252-MLA98254411801_112025-O.webp',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_829252-MLA98254411801_112025-O.webp',
+    ],
+    category: 'Hogar y Jardín',
+    categorySlug: 'hogar-jardin',
+    permalink: 'https://www.mercadolibre.com.ar/compresor-de-aire-stanley-24-litros-2-hp-116psi-8-bar/p/MLA21818637',
+    affiliateUrl: 'https://meli.la/2zBwkco',
+    condition: 'new',
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 431,
+    reviewsSampledAt: '2026-10-22',
+    pastelColor: 'var(--pastel-blue)',
+    visibility: 'normal',
+    description: 'Compresor de aire de 24 litros y 2 HP, de Stanley. {{reviews:MLA21818637}} calificaciones, la base de reseñas más grande de esta comparativa.',
+    seoTitle: 'Compresor de Aire Stanley 24L: la marca con más respaldo',
+    metaDescription: 'Compresor de aire Stanley 24 litros, {{reviews:MLA21818637}} calificaciones a {{rating:MLA21818637}}★. La base de reseñas más grande de esta comparativa, por {{precio:MLA21818637}}.',
+    pros: [
+      'La base de reseñas más grande de esta comparativa: {{reviews:MLA21818637}} calificaciones a {{rating:MLA21818637}} estrellas',
+      'Marca internacional de herramientas con reconocimiento en Argentina',
+      'El mayor caudal de los compresores de 24 litros de esta comparativa: 222 L/min',
+      'Vendido por tienda oficial (FASTSTORE), con ruedas y manómetro doble para fácil traslado',
+    ],
+    cons: [
+      'Según una reseña real de 4 estrellas (14 votos útiles), la manguera y los conectores rápidos que trae son de mala calidad e incompatibles con herramientas neumáticas comunes',
+      'Es más cara que el Pektra de esta comparativa',
+      'No tiene salida doble, a diferencia de otros compresores de la categoría',
+    ],
+    verdict: 'Con {{reviews:MLA21818637}} calificaciones, tiene la base de reseñas más grande de esta comparativa, además del mayor caudal entre los compresores de 24 litros (222 L/min). La contra real, según una reseña: la manguera y los conectores que trae de fábrica son de mala calidad, conviene presupuestar una manguera aparte.',
+    articleBody: `## La marca con más respaldo de reseñas de esta comparativa
+
+Con {{reviews:MLA21818637}} calificaciones a {{rating:MLA21818637}} estrellas, este compresor de Stanley tiene por lejos la base de reseñas más grande de los cuatro productos de esta guía. Tiene 24 litros de tanque, 2 HP de potencia y 222 L/min de caudal, el mayor entre los compresores de 24 litros de esta comparativa.
+
+## El dato honesto: la manguera que trae no es buena
+
+Una reseña real de 4 estrellas (14 personas la encontraron útil) advierte: "El compresor anda muy bien y es lo que necesitaba [...] respecto a la manguera que trae y los conectores rápidos, olvidarse de usar eso, es inutilizable por mala calidad e incompatible con todas las herramientas neumáticas comunes [...] vayan pensando en gastar unos buenos pesos en manguera, conectores rápidos, etc.". El mismo comprador relata que la manguera original "explotó en un acople" al conectarla y probarla.
+
+## Para quién es, y para quién no
+
+Es para vos si priorizás el respaldo de una marca internacional reconocida y el mayor caudal entre los compresores de 24 litros de esta comparativa.
+
+No es para vos si no querés gastar en una manguera y conectores aparte poco después de comprarlo, o si buscás el precio más bajo (mirá el Pektra de esta comparativa).`,
+    specs: [
+      { label: 'Marca', value: 'Stanley' },
+      { label: 'Potencia', value: '2 HP' },
+      { label: 'Capacidad del tanque', value: '24 litros' },
+      { label: 'Presión máxima', value: '116 PSI (8 bar)' },
+      { label: 'Caudal', value: '222 L/min' },
+      { label: 'Con manómetro doble', value: 'Sí' },
+      { label: 'Con salida doble', value: 'No' },
+      { label: 'Con ruedas', value: 'Sí' },
+      { label: 'Color', value: 'Amarillo' },
+    ],
+    customerReviews: [
+      { rating: 4, country: 'Argentina', text: 'El compresor anda muy bien y es lo que necesitaba y para el uso que le doy, que es solo de hobby. Ahora, respecto a la manguera que trae y los conectores rápidos, olvidarse de usar eso, es inutilizable por mala calidad e incompatible con todas las herramientas neumáticas comunes. La conecte y le largue aire y explotó en un acople.', useful: 14 },
+    ],
+    faq: [
+      { question: '¿Por qué tiene tantas reseñas comparado con los demás?', answer: 'Es una marca internacional con mucho tiempo en el mercado argentino, lo que explica su base de reseñas mucho más grande ({{reviews:MLA21818637}}) que la de los otros tres de esta comparativa.' },
+      { question: '¿La manguera que trae sirve?', answer: 'Según una reseña real, no: la manguera y los conectores rápidos de fábrica son de mala calidad e incompatibles con herramientas neumáticas comunes. Conviene presupuestar una manguera aparte.' },
+      { question: '¿Cuánto caudal tiene?', answer: '222 L/min según su ficha técnica, el mayor entre los compresores de 24 litros de esta comparativa.' },
+    ],
+    relatedProducts: ['MLA3200433722', 'MLA49861247', 'MLA75732137'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Stanley 24L',
+      description: 'Compresor de aire de 24 litros y 2 HP, de Stanley.',
+      brand: { '@type': 'Brand', name: 'Stanley' },
+      sku: 'MLA21818637',
+      category: 'Compresores de Aire',
+      color: 'Amarillo',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_829252-MLA98254411801_112025-O.webp',
+      url: 'https://productosvirales.com.ar/producto/compresor-de-aire-stanley-24-litros-2-hp-116psi-8-bar-mla21818637',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '237449',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.7',
+        reviewCount: '431',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+  },
+
+  {
+    id: 'MLA49861247',
+    title: 'Compresor De Aire Lusqtoff LC-2550BK 50 Litros Monofásico',
+    canonicalName: 'Lüsqtoff LC-2550BK',
+    brand: 'Lüsqtoff',
+    mpn: 'LC-2550BK',
+    price: 386099,
+    originalPrice: 482623,
+    priceUpdated: "2026-10-22",
+    priceLastChecked: "2026-10-22",
+    priceStatus: "fresh",
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_941729-MLA113938543098_072026-O.webp',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_941729-MLA113938543098_072026-O.webp',
+    ],
+    category: 'Hogar y Jardín',
+    categorySlug: 'hogar-jardin',
+    permalink: 'https://www.mercadolibre.com.ar/compresor-de-aire-lusqtoff-lc-2550bk-50-litros-monofasico/p/MLA49861247',
+    affiliateUrl: 'https://meli.la/2NEvgqq',
+    condition: 'new',
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 147,
+    reviewsSampledAt: '2026-10-22',
+    pastelColor: 'var(--pastel-purple)',
+    visibility: 'normal',
+    description: 'Compresor de aire de 50 litros y 2.5 HP, de Lüsqtoff. El doble de capacidad que los demás de esta comparativa, con {{reviews:MLA49861247}} calificaciones a {{rating:MLA49861247}} estrellas.',
+    seoTitle: 'Compresor de Aire Lüsqtoff LC-2550BK: 50 litros, el de mayor capacidad',
+    metaDescription: 'Compresor de aire Lüsqtoff LC-2550BK de 50 litros, {{rating:MLA49861247}}★ en {{reviews:MLA49861247}} calificaciones por {{precio:MLA49861247}}. El de mayor capacidad de esta comparativa.',
+    pros: [
+      'Tanque de 50 litros, el doble que los otros tres compresores de esta comparativa',
+      '{{reviews:MLA49861247}} calificaciones a {{rating:MLA49861247}} estrellas, la segunda base de reseñas más grande',
+      '2 años de garantía de fábrica, más que lo habitual en esta categoría',
+      'Según una reseña real, lo usa todos los días desde hace un año sin problemas',
+    ],
+    cons: [
+      'Según una reseña real, no trae pistola de gravedad incluida',
+      'Es el más caro de esta comparativa',
+      'Según una reseña real, una unidad llegó manchada con aceite por un rebalse en el envío (se solucionó limpiándola)',
+    ],
+    verdict: 'Con 50 litros de tanque, el doble que los demás, es la opción con más autonomía de esta comparativa para trabajos prolongados. Tiene {{reviews:MLA49861247}} calificaciones a {{rating:MLA49861247}} estrellas y 2 años de garantía. La contra real, según una reseña: no trae pistola de gravedad.',
+    articleBody: `## El compresor de mayor capacidad de esta comparativa
+
+Con 50 litros de tanque, el doble que los otros tres compresores de esta guía, este Lüsqtoff LC-2550BK es la opción con más autonomía para trabajos prolongados sin que el motor tenga que reponer presión tan seguido. Tiene 2.5 HP de potencia, 206 L/min de caudal, y {{reviews:MLA49861247}} calificaciones a {{rating:MLA49861247}} estrellas.
+
+## Lo que dicen los compradores
+
+Una reseña real confirma el uso sostenido en el tiempo: "Lo tengo hace un año lo uso todos los dias miy bueno". Otra reseña suma un dato honesto sobre el envío: "El producto llego manchado con aceite. Rebalso en el envio. Despues de limpiar el exceso de aceite todo bien. Lo use para pintar y conforme quede. No trae pistola de gravedad".
+
+## Para quién es, y para quién no
+
+Es para vos si necesitás más autonomía para trabajos largos (clavadora, pistola de pintar, herramientas neumáticas de uso continuo) y no te molesta pagar más por el tanque más grande.
+
+No es para vos si buscás la opción más barata (mirá el Pektra de esta comparativa) o si preferís que venga con pistola de gravedad incluida (mirá el Green Park de esta comparativa).`,
+    specs: [
+      { label: 'Marca', value: 'Lüsqtoff' },
+      { label: 'Modelo', value: 'LC-2550BK' },
+      { label: 'Potencia', value: '2.5 HP' },
+      { label: 'Capacidad del tanque', value: '50 litros' },
+      { label: 'Caudal', value: '206 L/min' },
+      { label: 'Voltaje', value: '220V' },
+      { label: 'Fase eléctrica', value: 'Monofásica' },
+      { label: 'Garantía de fábrica', value: '2 años' },
+      { label: 'Color', value: 'Naranja' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', text: 'Lo tengo hace un año lo uso todos los dias miy bueno.', useful: 2 },
+      { rating: 5, country: 'Argentina', text: 'El producto llego manchado con aceite. Rebalso en el envio. Despues de limpiar el exceso de aceite todo bien. Lo use para pintar y conforme quede. No trae pistola de gravedad.', useful: 1 },
+    ],
+    faq: [
+      { question: '¿Cuánto más grande es que los otros de esta comparativa?', answer: 'El doble: 50 litros contra los 24 litros de los otros tres compresores de esta guía.' },
+      { question: '¿Trae pistola de pintar o de gravedad?', answer: 'No, según una reseña real no incluye pistola de gravedad. Para eso, en esta misma comparativa está el Green Park, que sí la incluye.' },
+      { question: '¿Qué garantía tiene?', answer: '2 años de garantía de fábrica, más que lo habitual en esta categoría.' },
+    ],
+    relatedProducts: ['MLA3200433722', 'MLA21818637', 'MLA75732137'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Lüsqtoff LC-2550BK',
+      description: 'Compresor de aire de 50 litros y 2.5 HP, de Lüsqtoff.',
+      brand: { '@type': 'Brand', name: 'Lüsqtoff' },
+      model: 'LC-2550BK',
+      sku: 'MLA49861247',
+      category: 'Compresores de Aire',
+      color: 'Naranja',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_941729-MLA113938543098_072026-O.webp',
+      url: 'https://productosvirales.com.ar/producto/compresor-de-aire-lusqtoff-lc-2550bk-50-litros-monofasico-mla49861247',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '386099',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.8',
+        reviewCount: '147',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+  },
+
+  {
+    id: 'MLA75732137',
+    title: 'Compresor De Aire 24 Litros 2.5 hp Greenpark + Accesorios',
+    canonicalName: 'Green Park 24L',
+    brand: 'Green Park',
+    mpn: 'GP24L',
+    price: 234690,
+    priceUpdated: "2026-10-22",
+    priceLastChecked: "2026-10-22",
+    priceStatus: "fresh",
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_720756-MLA115087385133_072026-O.webp',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_720756-MLA115087385133_072026-O.webp',
+    ],
+    category: 'Hogar y Jardín',
+    categorySlug: 'hogar-jardin',
+    permalink: 'https://www.mercadolibre.com.ar/compresor-de-aire-24-litros-25-hp-greenpark-accesorios/p/MLA75732137',
+    affiliateUrl: 'https://meli.la/22vAU2b',
+    condition: 'new',
+    freeShipping: true,
+    rating: 5.0,
+    reviewCount: 20,
+    reviewsSampledAt: '2026-10-22',
+    pastelColor: 'var(--pastel-amber)',
+    visibility: 'normal',
+    description: 'Compresor de aire de 24 litros, de Green Park, con pistola de pintar y kit de accesorios incluidos. {{reviews:MLA75732137}} calificaciones a {{rating:MLA75732137}} estrellas.',
+    seoTitle: 'Compresor de Aire Green Park 24L: el que incluye más accesorios',
+    metaDescription: 'Compresor de aire Green Park 24 litros con kit de accesorios incluido, {{rating:MLA75732137}}★ en {{reviews:MLA75732137}} calificaciones por {{precio:MLA75732137}}.',
+    pros: [
+      'El único de esta comparativa que incluye pistola de pintar y kit de accesorios en la caja',
+      '{{rating:MLA75732137}} estrellas según las opiniones de compradores reales',
+      'Vendido por tienda oficial de Green Park',
+      'Según el resumen de opiniones de compradores, funciona de manera impecable para pintar e inflar',
+    ],
+    cons: [
+      'La base de reseñas más chica de esta comparativa: apenas {{reviews:MLA75732137}} calificaciones',
+      'La publicación lo anuncia como "2.5 HP" en el título, pero su propia descripción técnica declara "Potencia 2 Hp"',
+      'No es la opción más vendida ni la de mayor capacidad de esta comparativa',
+    ],
+    verdict: 'Es el único de esta comparativa que incluye pistola de pintar y kit de accesorios, con {{rating:MLA75732137}} estrellas según los compradores. La contra real: tiene la base de reseñas más chica de los cuatro (apenas {{reviews:MLA75732137}}), y existe una discrepancia entre el título de la publicación ("2.5 HP") y su propia descripción técnica ("2 Hp"); tomamos el dato de la descripción.',
+    articleBody: `## El único con accesorios incluidos de esta comparativa
+
+Este compresor de Green Park tiene 24 litros de tanque y trae de fábrica un kit de accesorios con pistola de pintar, algo que ninguno de los otros tres de esta guía garantiza en su publicación. Tiene {{reviews:MLA75732137}} calificaciones a {{rating:MLA75732137}} estrellas.
+
+## El dato honesto: un título que no coincide con su propia ficha
+
+La publicación anuncia "2.5 hp" en el título, pero la descripción técnica del propio vendedor declara "Potencia 2 Hp". Ante esa contradicción, tomamos el dato de la descripción técnica, no del título comercial. Además, su base de reseñas (apenas {{reviews:MLA75732137}}) es la más chica de los cuatro productos de esta guía: su {{rating:MLA75732137}} estrellas es real, pero con menos gente que lo haya probado.
+
+## Lo que dicen los compradores
+
+Según el resumen de opiniones generado a partir de las reseñas reales, "el compresor es muy bueno y compacto, ideal para usar en cualquier lugar. Funciona de manera impecable para pintar e inflar, y viene con una pistola de pintar que también es muy buena".
+
+## Para quién es, y para quién no
+
+Es para vos si no querés comprar accesorios aparte y priorizás tener pistola de pintar lista para usar desde el primer día.
+
+No es para vos si preferís la opción con más reseñas acumuladas y respaldo (mirá el Stanley de esta comparativa) o la más vendida (mirá el Pektra).`,
+    specs: [
+      { label: 'Marca', value: 'Green Park' },
+      { label: 'Potencia', value: '2 HP' },
+      { label: 'Capacidad del tanque', value: '24 litros' },
+      { label: 'Velocidad', value: '2850 rpm' },
+      { label: 'Presión máxima', value: '8 bar' },
+      { label: 'Admisión de aire', value: '206 L/min' },
+      { label: 'Salidas', value: '2' },
+      { label: 'Manómetros', value: '2' },
+      { label: 'Color', value: 'Verde' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', text: 'Perfecto. Lo que quería.', useful: 1 },
+      { rating: 5, country: 'Argentina', text: 'Buenísimo.', useful: 0 },
+    ],
+    faq: [
+      { question: '¿Qué accesorios incluye?', answer: 'Pistola de pintar y un kit de accesorios para pintura e inflado, según su publicación y confirmado por reseñas reales de compradores.' },
+      { question: '¿Es de 2 o 2.5 HP?', answer: 'El título de la publicación dice "2.5 hp", pero la descripción técnica del vendedor declara "Potencia 2 Hp". Tomamos el dato de la descripción como el más confiable.' },
+      { question: '¿Por qué tiene tan pocas reseñas?', answer: 'Con {{reviews:MLA75732137}} calificaciones, es la base más chica de esta comparativa frente a las {{reviews:MLA21818637}} del Stanley. No implica peor calidad (tiene {{rating:MLA75732137}} estrellas), pero sí menos gente que lo haya probado.' },
+    ],
+    relatedProducts: ['MLA3200433722', 'MLA21818637', 'MLA49861247'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Green Park 24L',
+      description: 'Compresor de aire de 24 litros, de Green Park, con pistola de pintar y kit de accesorios incluidos.',
+      brand: { '@type': 'Brand', name: 'Green Park' },
+      sku: 'MLA75732137',
+      category: 'Compresores de Aire',
+      color: 'Verde',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_720756-MLA115087385133_072026-O.webp',
+      url: 'https://productosvirales.com.ar/producto/compresor-de-aire-24-litros-2-5-hp-greenpark-accesorios-mla75732137',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '234690',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '5.0',
+        reviewCount: '20',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+  },
 ];
 
 export const categoryPastels: Record<string, string> = {

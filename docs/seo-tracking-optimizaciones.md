@@ -2850,6 +2850,22 @@ Re-medir: ~2026-11-19, un mes después de publicada.
 
 Re-medir: ~2026-11-20, un mes después de publicada.
 
+## Guía nueva `compresor-de-aire` — silo `hogar-jardin` (existente) — 2026-10-22
+
+| Guía | Silo | Categoría | Keyword del bloque | Volumen | Competencia real | Productos |
+| :-- | :-- | :-- | :-- | --: | --: | --: |
+| `compresor-de-aire` | hogar-jardin | compresor-de-aire (nueva) | compresor de aire | 14.800/mes (Ubersuggest) | MercadoLibre domina el orgánico con amplio margen de clicks, sin retailer grande ni marca oficial dominando el top | 4 (sourcing nuevo) |
+
+**Baseline: cero.** URL nueva (`/guias/hogar-jardin/compresor-de-aire`), sin historial en GSC. Origen: barrido amplio de categorías de MercadoLibre ("más vendidos" por categoría + validación con `serp_analysis`) tras una ronda anterior sin hallazgos 🟢 nuevos en verano/tecnología/organización/deportes. Se verificó explícitamente navegando en vivo la categoría de ML que "compresor de aire" (tanque, 220V, para taller) y la guía hermana ya existente `inflador-para-auto` (mini inflador portátil 12V, sin tanque) son categorías de producto genuinamente distintas, sin solapamiento de catálogo, antes de descartar canibalización. Se sumó al silo hogar-jardin existente con categoría propia "compresor-de-aire" (mismo patrón categoría-por-guía de niveles-laser/pesa-rusa), agregada a `guideCategories`. Enlazado recíproco agregado en inflador-para-auto, taladro-percutor e hidrolavadora.
+
+**Sourcing nuevo en vivo en MercadoLibre** (cuenta de afiliados verificada activa antes de generar links): Pektra PKT24L (MLA3200433722, el más vendido, MÁS VENDIDO 8° en Compresores confirmado, 97 calificaciones, 4.6★, $199.819, el más económico); Stanley 24L (MLA21818637, marca reconocida, 431 calificaciones, la base más grande por lejos, $237.449, contra real: manguera y conectores de fábrica de mala calidad según reseña real); Lüsqtoff LC-2550BK (MLA49861247, mayor capacidad, 50 litros, el doble que los otros tres, 147 calificaciones, 4.8★, $386.099, 2 años de garantía); Green Park 24L (MLA75732137, con accesorios incluidos, único con pistola de pintar y kit en la caja, 20 calificaciones —la base más chica, declarado honesto—, 5.0★, $234.690, discrepancia real detectada y declarada: el título dice "2.5 HP" pero la descripción técnica del vendedor dice "2 Hp", se tomó el dato de la descripción).
+
+**Auditoría del trío: 1 pasada, ambos auditores GO directo sin bloqueantes.** Codex y Gemini (Flash) coincidieron en el mismo hallazgo opcional: quedaron 5 guiones largos en la guía (4 títulos H3 del ranking + 1 párrafo de Green Park) pese a la regla del proyecto de no usarlos en guías nuevas — corregidos (reemplazados por coma/paréntesis, mismo patrón que pesa-rusa). Codex sumó además acortar la metaDescription (197→153 caracteres) y suavizar una afirmación de mantenimiento demasiado categórica en el FAQ ("no requieren mantenimiento más allá de eso" → "sin ningún requisito especial declarado en sus fichas"); ambas aplicadas. Ningún bloqueante real en ninguna de las dos auditorías: badges, superlativos cruzados, canibalización de producto con inflador-para-auto y enlazado recíproco salieron todos validados de punta a punta en la primera pasada.
+
+**Verificación:** `npx tsc --noEmit`, `npx eslint`, `npm run build`, y los 6 scripts de check relevantes (price-guard, hardcoded-reviews, guide-monetization, table-product-links, canonical-product-links, guide-internal-links) en verde de punta a punta, dos veces (antes y después de los retoques del trío). Se detectó y corrigió además un error propio durante el sourcing: la imagen inicial de Pektra apuntaba a un elemento de la página (banner de meli+) en vez de la foto real del producto, verificado visualmente y corregido antes de la auditoría. Verificado en navegador: la guía renderiza bien, sin guiones largos, "Preguntas frecuentes" aparece en el índice lateral, el `badge: 'bestseller'` aparece solo en Pektra, y los 4 links de afiliado llevan `rel="sponsored nofollow noopener"`.
+
+Re-medir: ~2026-11-22, un mes después de publicada.
+
 ## Guía nueva `nivel-laser` — silo `hogar-jardin` (existente) — 2026-10-21
 
 | Guía | Silo | Categoría | Keyword del bloque | Volumen | Competencia real | Productos |
