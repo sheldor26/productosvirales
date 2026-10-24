@@ -129,7 +129,7 @@ export function ArticleHeader({ guide }: ArticleHeaderProps) {
       {guide.hasDisclosure && (
         <p className="pt-3 text-xs text-[var(--text-muted)] leading-relaxed">
           Contiene enlaces de afiliado a MercadoLibre: si comprás a través de ellos, recibimos una comisión chica sin costo extra para vos.{" "}
-          <Link href="/sobre-nosotros" className="underline underline-offset-2 hover:text-[var(--text-secondary)]">
+          <Link href="/metodologia" className="underline underline-offset-2 hover:text-[var(--text-secondary)]">
             Cómo funciona
           </Link>
         </p>

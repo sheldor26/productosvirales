@@ -108,6 +108,14 @@ export function Footer() {
               </li>
               <li>
                 <Link
+                  href="/metodologia"
+                  className="text-sm text-[var(--text-muted)] hover:text-[var(--text-primary)] transition-colors"
+                >
+                  Metodología
+                </Link>
+              </li>
+              <li>
+                <Link
                   href="/privacidad"
                   className="text-sm text-[var(--text-muted)] hover:text-[var(--text-primary)] transition-colors"
                 >
