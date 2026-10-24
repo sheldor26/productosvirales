@@ -121,6 +121,20 @@ export function ArticleHeader({ guide }: ArticleHeaderProps) {
         </div>
       </div>
 
+      {/* Disclosure de afiliados: antes era una caja con borde propia, una más
+          de 4-5 cajas apiladas antes del primer párrafo de contenido real
+          (hallazgo de la ronda de mejoras de UX). Una línea discreta acá,
+          justo debajo del byline, sigue siendo clara y visible arriba del
+          fold sin sumar otra caja. */}
+      {guide.hasDisclosure && (
+        <p className="pt-3 text-xs text-[var(--text-muted)] leading-relaxed">
+          Contiene enlaces de afiliado a MercadoLibre: si comprás a través de ellos, recibimos una comisión chica sin costo extra para vos.{" "}
+          <Link href="/sobre-nosotros" className="underline underline-offset-2 hover:text-[var(--text-secondary)]">
+            Cómo funciona
+          </Link>
+        </p>
+      )}
+
       {/* Hero image (breakout) */}
       {hero && hero.src && (
         <figure className="editorial-hero-wrap mt-6 md:mt-8">

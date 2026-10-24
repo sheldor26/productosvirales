@@ -713,19 +713,9 @@ export function GuideRenderer({ guide: rawGuide }: GuideRendererProps) {
         <article className="min-w-0">
           <ArticleHeader guide={guide} />
 
-          {/* Disclosure */}
-          {guide.hasDisclosure && (
-            <div
-              className="mb-8 p-4 rounded-[var(--radius-card)] border-l-[3px] bg-[var(--bg-secondary)]"
-              style={{ borderLeftColor: "var(--editorial-accent)" }}
-            >
-              <p className="text-xs md:text-sm text-[var(--text-muted)] leading-relaxed">
-                Transparencia: este artículo tiene enlaces de afiliado a MercadoLibre. Si
-                comprás algo a través de ellos, recibimos una comisión chica sin costo
-                extra para vos. Eso no cambia nuestras opiniones.
-              </p>
-            </div>
-          )}
+          {/* El disclosure ahora es una línea discreta dentro de ArticleHeader,
+              debajo del byline — no una caja separada acá (ronda de mejoras
+              de UX: 4-5 cajas apiladas antes del primer párrafo real). */}
 
           {/* CTA above-the-fold: recomendación #1 antes de la intro larga */}
           {topPickId && <AboveFoldCta productMlaId={topPickId} />}
