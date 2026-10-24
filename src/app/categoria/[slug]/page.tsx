@@ -6,7 +6,7 @@ import { getVisibleProducts, toCardProduct } from "@/lib/products";
 import { productHref } from "@/lib/product-url";
 import { SortableProductGrid } from "@/components/products/SortableProductGrid";
 import { baseOpenGraph } from "@/lib/site-og";
-import { getPublishedGuides } from "@/data/guides";
+import { getPublishedGuides, getDisplaySilo } from "@/data/guides";
 import { guideHref } from "@/lib/guide-url";
 
 interface Props {
@@ -64,11 +64,16 @@ export default async function CategoryPage({ params }: Props) {
     (c) => c.slug !== slug && !c.isSpecial
   );
 
-  // Match exacto silo === categoría: más angosto que cubrir sinónimos (ej.
-  // "belleza" vs "cuidado-personal"), pero cero riesgo de mezclar guías de
-  // un silo que no corresponde. Pilares primero, después más recientes.
+  // `getDisplaySilo` (el real si lo tiene, si no el fallback de
+  // `categorySiloFallback` por categoría legacy — mismo helper que ya usa
+  // `/guias`) en vez de comparar `g.silo` a secas: rescata guías viejas que
+  // nunca tuvieron el campo `silo` cargado (freidoras, cafeteras, pavas,
+  // licuadoras, masajeadores, aspiradoras robot) sin arriesgar mezclar un
+  // silo que no corresponde — sigue siendo match exacto, no sinónimos
+  // adivinados, solo contra un diccionario ya curado a mano. Pilares
+  // primero, después más recientes.
   const categoryGuides = getPublishedGuides()
-    .filter((g) => g.silo === slug)
+    .filter((g) => getDisplaySilo(g) === slug)
     .sort((a, b) => {
       if (a.pillar !== b.pillar) return a.pillar ? -1 : 1;
       return b.publishedDate.localeCompare(a.publishedDate);
