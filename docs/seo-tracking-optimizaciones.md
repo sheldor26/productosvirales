@@ -1,5 +1,29 @@
 # Tracking de optimizaciones de guías (SEO)
 
+## 2026-10-24 — Ronda de mejoras SEO/GEO sobre guías existentes
+
+Origen: 3 research en paralelo (SEO técnico con datos reales de GSC, GEO/citabilidad en IA, engagement/retención), a pedido de Juan de "buscar posibles mejoras para el sitio". Se implementaron los ítems de esfuerzo chico/mediano y riesgo bajo; quedan pendientes los de esfuerzo mediano/grande para una ronda futura (ver lista al final).
+
+**GEO — 13 fichas nuevas sin `date` en `customerReviews`:** las fichas de pesa-rusa (4), compresor-de-aire (4) y cerradura-de-puerta (5), todas creadas el 2026-10-21/22, tenían reseñas reales citadas pero sin el campo `date`, por lo que nunca llegaban al Review schema (JSON-LD) que Google/AIO puede citar — confirmado por grep contra el patrón ya usado en 469 fichas del catálogo. Se agregó `date` (año, o año-mes-día cuando se tenía la fecha relativa real vista en pantalla durante el sourcing) a las 13 fichas.
+
+**SEO — `camara-de-seguridad-exterior`: CTR casi nulo pese a posición decente.** GSC (28 días): posición 7.66, 12.391 impresiones, 27 clicks, CTR 0,22% — muy por debajo de lo esperable en esa posición. Al no estar en el top 5, no aplica la regla de freeze de título/H1 del proyecto. Se reescribió `seoTitle` (de "Mejores Cámaras de Seguridad Exterior 2026: Precios Reales" a "Cámara de Seguridad Exterior: Cuál Comprar en Argentina [2026]", formato más alineado a cómo la gente busca) y `metaDescription` (hook de pregunta real: "¿Fija o motorizada?").
+
+**SEO — canibalización real en pava eléctrica, parcial.** `pava-electrica` (posición 3.4, buena) y `pava-electrica-acero-inoxidable` (posición 9) compiten por la misma intención genérica. Se agregó un link explícito en el primer párrafo de `pava-electrica-acero-inoxidable` hacia la guía general, para quien no priorice el material. **`que-cafetera-comprar` se descartó como canibalización real tras revisión:** es una guía de decisión (TOFU, express vs. cápsulas vs. filtro) que ya enlaza hacia las guías específicas de cada sistema — es estructura de embudo intencional, no duplicado. No se tocó.
+
+**SEO — enlazado interno pobre en los 2 silos nuevos de esta sesión.** `compresor-de-aire` y `cerradura-de-puerta` tenían apenas 2-3 menciones internas en todo el sitio (contra 46 de la guía de freidoras, la de mejor enlazado). Se agregó enlace recíproco desde guías hermanas maduras: `camara-de-seguridad` y `camara-de-seguridad-exterior` → `cerradura-de-puerta`; `amoladora` y `nivel-laser` → `compresor-de-aire`.
+
+**Verificación:** `npx tsc --noEmit`, `npx eslint`, `npm run build`, `check-guide-internal-links`, `check-hardcoded-reviews`, `check-canonical-product-links`, `check-guide-monetization` en verde. Verificado en navegador: el link nuevo de pava-electrica-acero-inoxidable renderiza, el título nuevo de camara-de-seguridad-exterior aparece en el `<title>`, y el link a cerradura-de-puerta aparece en camara-de-seguridad-exterior.
+
+**Pendiente para una ronda futura (esfuerzo mediano/grande, no implementado hoy):**
+- Página pública "qué bajó más esta semana" (desde `price-history.json`, ya usado por el digest semanal).
+- Service worker offline (el sitio ya es PWA instalable pero sin él).
+- Banner de instalación PWA (el manifest ya está listo).
+- Backfill de `directAnswer` en guías viejas con tráfico real que no lo tienen (ej. `freidoras-de-aire-gran-capacidad`), priorizado por impresiones de GSC.
+- Apéndice de checklist GEO (preguntas-tipo de FAQ) en `docs/guias.md`.
+- ⚠️ "Social proof con GA4" (visitas reales mostradas en la ficha) — bordea la regla de no urgencia/escasez falsa aunque el número sea real; requiere decisión explícita de Juan antes de implementar.
+
+**Próxima medición agendada: ~2026-11-21 (≈4 semanas).** Revisar especialmente el CTR de `camara-de-seguridad-exterior` (criterio de éxito: que suba de 0,22% a algo cercano al 2-3% esperable en esa posición) y si `compresor-de-aire`/`cerradura-de-puerta` empiezan a aparecer en GSC.
+
 ## 2026-08-16 — Publicación de 5 guías nuevas (tanda completa, no escalonada)
 
 Las cinco se escribieron el mismo día y se publicaron juntas por decisión de Juan, pese a que las

@@ -5692,6 +5692,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     ],
     internalLinks: [
       { label: "Cerradura inteligente: cuál comprar en Argentina", href: "/guias/seguridad/cerradura-inteligente" },
+      { label: "Cerradura de puerta: cuál comprar en Argentina", href: "/guias/seguridad/cerradura-de-puerta" },
       { label: "Cámara de seguridad exterior: cuál comprar", href: "/guias/seguridad/camara-de-seguridad-exterior" },
       { label: "Cámaras Ezviz: cuál comprar (la gama completa)", href: "/guias/seguridad/camara-ezviz" },
       { label: "Cámaras TP-Link Tapo: cuál comprar (la gama completa)", href: "/guias/seguridad/camara-tplink-tapo" },
@@ -5708,8 +5709,8 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     silo: "seguridad",
     pillar: false,
     title: `Cámara de seguridad exterior: cuál comprar en Argentina [2026]`,
-    seoTitle: `Mejores Cámaras de Seguridad Exterior 2026: Precios Reales`,
-    metaDescription: `Cuál cámara de seguridad exterior conviene en Argentina: fija o motorizada, IP verificado en ficha. Desde {{precio:MLA66204799:k}}, con la contra honesta de cada una.`,
+    seoTitle: `Cámara de Seguridad Exterior: Cuál Comprar en Argentina [2026]`,
+    metaDescription: `¿Fija o motorizada? Comparamos las cámaras de seguridad exterior más vendidas de Argentina por IP real, resistencia al agua y precio real.`,
     ogTitle: `Cámara de seguridad exterior: cuál comprar en Argentina`,
     ogDescription: `De la bala fija más probada a la domo motorizada con inteligencia artificial. Comparamos las cámaras de seguridad para exterior más vendidas de Argentina por resistencia al agua, motor y precio real.`,
     ogImage: `https://http2.mlstatic.com/D_NQ_NP_863560-MLA109753503435_032026-O.webp`,
@@ -5801,6 +5802,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { label: "Cámaras de seguridad: cuál comprar en Argentina", href: "/guias/seguridad/camara-de-seguridad" },
       { label: "Cámaras Ezviz: cuál comprar (la gama completa)", href: "/guias/seguridad/camara-ezviz" },
       { label: "Kit de cámaras de seguridad: cuál comprar", href: "/guias/seguridad/kit-camaras-seguridad" },
+      { label: "Cerradura de puerta: cuál comprar en Argentina", href: "/guias/seguridad/cerradura-de-puerta" },
       { label: "Alarma para casa: cuál comprar en Argentina", href: "/guias/seguridad/alarma-para-casa" },
       { label: "Cerradura inteligente: cuál comprar en Argentina", href: "/guias/seguridad/cerradura-inteligente" },
     ],
@@ -10901,7 +10903,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { productMlaId: "MLA47275624", label: "Control continuo", labelColor: "purple", tagline: "Temperatura exacta de 40 a 100°, el rating más alto (4.9)" },
     ],
     intro: [
-      "Comparamos ocho pavas de acero disponibles en Argentina (una de ellas, una publicación nueva sin reseñas todavía). Los precios van de {{precio:MLA20027329}} a {{precio:MLA8993736}}. El acero tiene una ventaja real sobre plástico y vidrio: no toma olor después de dos años.",
+      "Comparamos ocho pavas de acero disponibles en Argentina (una de ellas, una publicación nueva sin reseñas todavía). Los precios van de {{precio:MLA20027329}} a {{precio:MLA8993736}}. El acero tiene una ventaja real sobre plástico y vidrio: no toma olor después de dos años. Si el material no es tu prioridad y buscás la mejor pava eléctrica en general (de cualquier material), mirá nuestra [guía completa de pava eléctrica](/guias/pava-electrica).",
       "Las pavas de plástico que después de año y medio empiezan a oler raro no se arreglan limpiando con vinagre o detergente: el olor persiste. Con acero nunca pasa eso. Después de tres años el agua sigue sabiendo igual que el primer día.",
       "La [Kanji](https://meli.la/1f9jqdT) por {{precio:MLA20027329}} es la más barata con acero. Si tu presupuesto es medio, la [Peabody DK1850](https://meli.la/2T7Y1zd) por {{precio:MLA14263533}} tiene acero completo y 4 preset de temperatura. La [Oster 8970](https://meli.la/1jdC3sW) hace básicamente lo mismo que la Peabody DK1850 por {{preciodif:MLA8993736:MLA14263533}} más — la diferencia es pura marca.",
     ],
@@ -32168,6 +32170,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     ],
     internalLinks: [
       { label: "Hidrolavadora: cuál comprar", href: "/guias/hogar-jardin/hidrolavadora" },
+      { label: "Compresor de aire: cuál comprar", href: "/guias/hogar-jardin/compresor-de-aire" },
       { label: "Bordeadora eléctrica: cuál comprar", href: "/guias/hogar-jardin/bordeadora-electrica" },
       { label: "Cortadora de césped: cuál comprar", href: "/guias/hogar-jardin/cortadora-de-cesped" },
       { label: "Nivel láser: cuál comprar", href: "/guias/hogar-jardin/nivel-laser" },
@@ -34684,6 +34687,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     internalLinks: [
       { label: "Amoladora angular: cuál comprar", href: "/guias/hogar-jardin/amoladora" },
       { label: "Taladro percutor: cuál comprar", href: "/guias/hogar-jardin/taladro-percutor" },
+      { label: "Compresor de aire: cuál comprar", href: "/guias/hogar-jardin/compresor-de-aire" },
     ],
     internalLinksTitle: "Más herramientas para tu casa",
   },
