@@ -98,9 +98,12 @@ export function ArticleHeader({ guide }: ArticleHeaderProps) {
           PV
         </div>
         <div className="flex flex-wrap items-center gap-x-3 gap-y-1 text-[var(--text-muted)]">
-          <span className="text-[var(--text-secondary)] font-medium">
+          <Link
+            href="/sobre-nosotros"
+            className="text-[var(--text-secondary)] font-medium hover:underline underline-offset-2"
+          >
             Por Equipo productosvirales
-          </span>
+          </Link>
           <span aria-hidden="true" className="text-[var(--text-muted)]">
             ·
           </span>

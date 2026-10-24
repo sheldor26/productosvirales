@@ -346,7 +346,10 @@ export function ProductDetail({
           {/* Byline / E-E-A-T */}
           <div className="mt-2 flex flex-wrap items-center justify-between gap-2">
             <p className="text-xs text-[var(--text-muted)]">
-              Por <span className="font-semibold text-[var(--text-secondary)]">ProductosVirales</span>
+              Por{" "}
+              <Link href="/sobre-nosotros" className="font-semibold text-[var(--text-secondary)] hover:underline underline-offset-2">
+                ProductosVirales
+              </Link>
               {updated && <> · Actualizado {updated}</>}
             </p>
             <div className="flex items-center gap-2">

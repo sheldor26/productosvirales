@@ -143,12 +143,40 @@ export function guidesForProduct(productId: string): Guide[] {
 /**
  * "Próximo paso" de una ficha: el pilar de la categoría donde aparece el
  * producto + las guías que lo mencionan. Le da a la ficha (hoy huérfana) un
- * camino de vuelta al hub. Si el producto no está en ninguna guía, devuelve
- * vacío (no inventa enlaces).
+ * camino de vuelta al hub.
+ *
+ * Si ninguna guía menciona al producto, no se inventa un link: se busca
+ * primero entre sus `relatedProducts` (ya curados a mano como genuinamente
+ * similares) alguno que SÍ esté en una guía, y se usan esas guías — es
+ * preciso porque la similitud ya la decidió un editor, no una categoría
+ * amplia que podría no tener nada que ver (ej. un horno BGH dentro del silo
+ * "hogar-jardin" no debería engancharse con la guía de compresores de aire
+ * solo por compartir silo). Si tampoco hay relatedProducts rescatables, se
+ * cae a la página de categoría del producto: siempre es precisa (es el
+ * propio `categorySlug` del producto) aunque menos específica que una guía.
  */
 export function nextStepLinksForProduct(product: Product, limit = 4): RelatedGuideLink[] {
-  const featuring = guidesForProduct(product.id);
-  if (featuring.length === 0) return [];
+  let featuring = guidesForProduct(product.id);
+
+  if (featuring.length === 0 && product.relatedProducts?.length) {
+    for (const relatedId of product.relatedProducts) {
+      const relatedGuides = guidesForProduct(relatedId);
+      if (relatedGuides.length > 0) {
+        featuring = relatedGuides;
+        break;
+      }
+    }
+  }
+
+  if (featuring.length === 0) {
+    return [
+      {
+        title: `Ver más de ${categoryLabel(product.categorySlug)}`,
+        href: `/categoria/${product.categorySlug}`,
+        isPillar: false,
+      },
+    ];
+  }
 
   const links: RelatedGuideLink[] = [];
   const seen = new Set<string>();

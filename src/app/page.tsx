@@ -3,11 +3,13 @@ import type { Metadata } from "next";
 import { HeroBanner } from "@/components/feed/HeroBanner";
 import { TrendingBar } from "@/components/feed/TrendingBar";
 import { HomeFeed } from "@/components/feed/HomeFeed";
+import { FeaturedGuides } from "@/components/feed/FeaturedGuides";
 import { ProductGrid } from "@/components/products/ProductGrid";
 import { RecentlyViewed } from "@/components/products/RecentlyViewed";
 import { PriceAlert } from "@/components/widgets/PriceAlert";
 import { HomeFAQ } from "@/components/feed/HomeFAQ";
-import { getRotatedVisibleProducts, makeRotationSeed, toFeedCard, toCardProduct } from "@/lib/products";
+import { getRotatedVisibleProducts, makeRotationSeed, seededShuffle, toFeedCard, toCardProduct } from "@/lib/products";
+import { getPublishedGuides } from "@/data/guides";
 
 // Metadata estática (sin depender de `searchParams`): así la home entera
 // puede cachearse/prerenderizarse (ISR) en vez de renderizarse de cero en
@@ -52,6 +54,15 @@ export default function Home() {
   // sección repetía exactamente los mismos 8 productos que ya se veían al
   // entrar, desperdiciando una segunda oportunidad de descubrimiento.
   const weeklyPopular = rotated.slice(12, 20).map(toCardProduct);
+  // Guías destacadas: antes la home no tenía un solo link en el cuerpo hacia
+  // ninguna de las 284 guías (todo el link juice interno se iba al feed de
+  // productos). Rotamos entre las guías pilar con la misma semilla que el
+  // feed, así no hace falta curar una lista fija a mano ni tocar esto cada
+  // vez que se publica una guía nueva.
+  const featuredGuides = seededShuffle(
+    getPublishedGuides().filter((g) => g.pillar),
+    rotationSeed
+  ).slice(0, 6);
 
   return (
     <div className="max-w-[1200px] mx-auto px-4 md:px-6 py-5 md:py-8">
@@ -121,6 +132,10 @@ export default function Home() {
           subtitle="Ofertas que no podés dejar pasar"
           priority={false}
         />
+      </div>
+
+      <div className="mt-10 md:mt-12">
+        <FeaturedGuides guides={featuredGuides} />
       </div>
 
       <div className="mt-12 md:mt-16">

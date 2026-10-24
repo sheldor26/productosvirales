@@ -72,8 +72,10 @@ export function toFeedCard(p: Product): FeedCard {
  * Deterministic Fisher-Yates shuffle driven by a numeric seed.
  * Same seed → same order, so server render and client hydration agree
  * (no hydration mismatch) while still varying across page loads.
+ * Exportada para reusar la misma rotación determinística con otras listas
+ * (ej. guías destacadas de la home), no solo productos.
  */
-function seededShuffle<T>(input: T[], seed: number): T[] {
+export function seededShuffle<T>(input: T[], seed: number): T[] {
   const arr = [...input];
   let s = (seed >>> 0) || 1;
   const next = () => {
