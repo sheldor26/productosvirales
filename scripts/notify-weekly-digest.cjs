@@ -9,8 +9,8 @@
  * notify-price-drops-email.cjs (ese es por corrida de Bright Data; este es
  * semanal e independiente).
  *
- * Pensado para correr 1 vez por semana (cron aparte, no agregado a ningún
- * workflow todavía — falta que Juan decida día/hora y lo agregue).
+ * Corre 1 vez por semana vía .github/workflows/digest-semanal.yml
+ * (viernes 10am hora Argentina, decidido por Juan el 2026-10-24).
  *
  * DRY-RUN por defecto. Con --send envía. Con --preview escribe un HTML de
  * ejemplo a .cache/digest-preview.html sin tocar la base ni enviar nada.

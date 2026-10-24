@@ -1,0 +1,45 @@
+name: Digest semanal de bajas de precio
+
+# Envía por email (Resend) el digest semanal con las bajas de precio reales
+# de los últimos 7 días a los suscriptores de newsletter (source='newsletter').
+# Corre scripts/notify-weekly-digest.cjs --send, que ya estaba completamente
+# armado (dry-run por defecto, --preview para probar local) pero nunca se
+# había agregado a un cron. Día/horario decidido por Juan el 2026-10-24:
+# viernes 10am hora Argentina.
+#
+# Requiere los secrets ya usados por notify-price-drops-email.cjs:
+# RESEND_API_KEY, EMAIL_FROM, DATABASE_URL, UNSUBSCRIBE_SECRET.
+
+on:
+  schedule:
+    # Viernes 13:07 UTC = 10:07 hora Argentina (UTC-3).
+    # Minuto :07 a propósito, no :00: GitHub puede demorar o descartar crons
+    # en el minuto exacto de la hora (ver comentario en
+    # update-prices-brightdata.yml, ya confirmado en este repo).
+    - cron: "7 13 * * 5"
+  workflow_dispatch: {} # botón para correrlo a mano desde la pestaña Actions
+
+jobs:
+  digest-semanal:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Bajar el código
+        uses: actions/checkout@v4
+
+      - name: Instalar Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Instalar dependencias
+        run: npm ci
+
+      - name: Enviar el digest semanal
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+          UNSUBSCRIBE_SECRET: ${{ secrets.UNSUBSCRIBE_SECRET }}
+          SITE_URL: https://productosvirales.com.ar
+        run: node scripts/notify-weekly-digest.cjs --send

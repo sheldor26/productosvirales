@@ -60203,8 +60203,8 @@ Una reseña real avisa: "cuando la usen apóyenla lo más suave posible en el pi
       { label: 'Con recubrimiento', value: 'Sí' },
     ],
     customerReviews: [
-      { rating: 5, country: 'Argentina', text: 'Son excelentes. Las recomiendo. Al mes de usarla pelás el lomo de la roca!!! lo único negativo es que vas a tener que invertir en remeras y camisas xxl.', useful: 9 },
-      { rating: 5, country: 'Argentina', text: 'Conforme con el producto, cuando vi el precio me pareció mentira de tan barato que era, en mar del plata esa pesa se consigue a 53 mil pesos. Mis recomendaciones al usarla es que cuando la usen apoyenla lo más suave posible en el piso, ya que si la apoyan fuerte o la tiran hay riesgo de que se parta la parte de abajo.', useful: 15 },
+      { rating: 5, date: '2026', country: 'Argentina', text: 'Son excelentes. Las recomiendo. Al mes de usarla pelás el lomo de la roca!!! lo único negativo es que vas a tener que invertir en remeras y camisas xxl.', useful: 9 },
+      { rating: 5, date: '2026', country: 'Argentina', text: 'Conforme con el producto, cuando vi el precio me pareció mentira de tan barato que era, en mar del plata esa pesa se consigue a 53 mil pesos. Mis recomendaciones al usarla es que cuando la usen apoyenla lo más suave posible en el piso, ya que si la apoyan fuerte o la tiran hay riesgo de que se parta la parte de abajo.', useful: 15 },
     ],
     faq: [
       { question: '¿Por qué es la más vendida?', answer: 'Es 3° en el ranking de ventas de Pesas Rusas de MercadoLibre, con {{reviews:MLA36796031}} calificaciones, la base de reseñas más grande de esta comparativa.' },
@@ -60300,8 +60300,8 @@ Un comprador la describe con detalle: "es de muy buena manufactura [...] está m
       { label: 'Con recubrimiento', value: 'No' },
     ],
     customerReviews: [
-      { rating: 5, country: 'Argentina', text: 'Son las mejores kettlebells que tuve. Perfectamente balanceadas, la base es super plana y estable (para ejercicios donde uno carga peso sobre la pesa es esencial). Tengo dos pares y son idénticas entre sí. Muy bien hechas.', useful: 11 },
-      { rating: 5, country: 'Argentina', text: 'La pesa es carísima para ser fundición sin ninguna parte complicada [...] pero es de muy buena manufactura [...] está muy muy prolija sin aristas, superficies lisas y eso que es china. El mango de dimensiones muy buenas cómodo un grosor justo. Excelente trabajo.', useful: 8 },
+      { rating: 5, date: '2026', country: 'Argentina', text: 'Son las mejores kettlebells que tuve. Perfectamente balanceadas, la base es super plana y estable (para ejercicios donde uno carga peso sobre la pesa es esencial). Tengo dos pares y son idénticas entre sí. Muy bien hechas.', useful: 11 },
+      { rating: 5, date: '2026', country: 'Argentina', text: 'La pesa es carísima para ser fundición sin ninguna parte complicada [...] pero es de muy buena manufactura [...] está muy muy prolija sin aristas, superficies lisas y eso que es china. El mango de dimensiones muy buenas cómodo un grosor justo. Excelente trabajo.', useful: 8 },
     ],
     faq: [
       { question: '¿Por qué es la más cara de la comparativa?', answer: 'Es hierro fundido sin recubrimiento, de 28 kg, con manufactura prolija (sin rebabas ni aristas según reseñas reales). Una reseña real incluso señala que el precio es alto para tratarse de fundición simple, aunque lo justifica por la calidad y durabilidad.' },
@@ -60395,8 +60395,8 @@ Los 16 kg la ubican como un paso lógico después de la Sport Maniac de 10 kg, p
       { label: 'Color', value: 'Negro' },
     ],
     customerReviews: [
-      { rating: 5, country: 'Argentina', text: 'Impecable, producto y calidad. Gracias por enviarlo en tiempo y forma.', useful: 4 },
-      { rating: 5, country: 'Argentina', text: 'La verdad me parece calidad y precio! me hace tentar de comprar otra!.', useful: 3 },
+      { rating: 5, date: '2026', country: 'Argentina', text: 'Impecable, producto y calidad. Gracias por enviarlo en tiempo y forma.', useful: 4 },
+      { rating: 5, date: '2026', country: 'Argentina', text: 'La verdad me parece calidad y precio! me hace tentar de comprar otra!.', useful: 3 },
     ],
     faq: [
       { question: '¿Por qué elegir esta en vez de la más barata de la comparativa?', answer: 'Si ya entrenás hace un tiempo y buscás un peso intermedio (16 kg) de una marca con tienda oficial establecida, esta es la opción. Para empezar desde cero, la Sport Maniac de 10 kg es más accesible.' },
@@ -60494,8 +60494,8 @@ No incluye discos: el producto es solo el mango con el sistema de cierre. Tiene 
       { label: 'Color', value: 'Negro y rojo' },
     ],
     customerReviews: [
-      { rating: 5, country: 'Argentina', text: 'Me encantó!! muy buena calidad.', useful: 3 },
-      { rating: 5, country: 'Argentina', text: 'Que está muy bueno y se ve bastante resistente.', useful: 2 },
+      { rating: 5, date: '2026', country: 'Argentina', text: 'Me encantó!! muy buena calidad.', useful: 3 },
+      { rating: 5, date: '2026', country: 'Argentina', text: 'Que está muy bueno y se ve bastante resistente.', useful: 2 },
     ],
     faq: [
       { question: '¿Incluye discos?', answer: 'No, es solo el mango con el sistema de cierre. Hace falta tener discos propios o comprarlos aparte para poder usarla.' },
@@ -108996,8 +108996,8 @@ No es para vos si necesitás regular la presión de salida con precisión, o si 
       { label: 'Color', value: 'Rojo' },
     ],
     customerReviews: [
-      { rating: 5, country: 'Argentina', text: 'Es pequeño así que te facilita el traslado incluso lo podes llevar en el auto ya que no ocupa mucho espacio y además viene muy completo con todos los elementos que necesitas para usarlo apenas lo recibis.', useful: 4 },
-      { rating: 4, country: 'Argentina', text: 'Cumple con su función. No trae regulador de presión!!.', useful: 3 },
+      { rating: 5, date: '2026', country: 'Argentina', text: 'Es pequeño así que te facilita el traslado incluso lo podes llevar en el auto ya que no ocupa mucho espacio y además viene muy completo con todos los elementos que necesitas para usarlo apenas lo recibis.', useful: 4 },
+      { rating: 4, date: '2026', country: 'Argentina', text: 'Cumple con su función. No trae regulador de presión!!.', useful: 3 },
     ],
     faq: [
       { question: '¿Por qué es el más vendido?', answer: 'Es 8° en el ranking de ventas de Compresores de MercadoLibre, con {{reviews:MLA3200433722}} calificaciones, y es el más económico de esta comparativa.' },
@@ -109101,7 +109101,7 @@ No es para vos si no querés gastar en una manguera y conectores aparte poco des
       { label: 'Color', value: 'Amarillo' },
     ],
     customerReviews: [
-      { rating: 4, country: 'Argentina', text: 'El compresor anda muy bien y es lo que necesitaba y para el uso que le doy, que es solo de hobby. Ahora, respecto a la manguera que trae y los conectores rápidos, olvidarse de usar eso, es inutilizable por mala calidad e incompatible con todas las herramientas neumáticas comunes. La conecte y le largue aire y explotó en un acople.', useful: 14 },
+      { rating: 4, date: '2025', country: 'Argentina', text: 'El compresor anda muy bien y es lo que necesitaba y para el uso que le doy, que es solo de hobby. Ahora, respecto a la manguera que trae y los conectores rápidos, olvidarse de usar eso, es inutilizable por mala calidad e incompatible con todas las herramientas neumáticas comunes. La conecte y le largue aire y explotó en un acople.', useful: 14 },
     ],
     faq: [
       { question: '¿Por qué tiene tantas reseñas comparado con los demás?', answer: 'Es una marca internacional con mucho tiempo en el mercado argentino, lo que explica su base de reseñas mucho más grande ({{reviews:MLA21818637}}) que la de los otros tres de esta comparativa.' },
@@ -109204,8 +109204,8 @@ No es para vos si buscás la opción más barata (mirá el Pektra de esta compar
       { label: 'Color', value: 'Naranja' },
     ],
     customerReviews: [
-      { rating: 5, country: 'Argentina', text: 'Lo tengo hace un año lo uso todos los dias miy bueno.', useful: 2 },
-      { rating: 5, country: 'Argentina', text: 'El producto llego manchado con aceite. Rebalso en el envio. Despues de limpiar el exceso de aceite todo bien. Lo use para pintar y conforme quede. No trae pistola de gravedad.', useful: 1 },
+      { rating: 5, date: '2026', country: 'Argentina', text: 'Lo tengo hace un año lo uso todos los dias miy bueno.', useful: 2 },
+      { rating: 5, date: '2025', country: 'Argentina', text: 'El producto llego manchado con aceite. Rebalso en el envio. Despues de limpiar el exceso de aceite todo bien. Lo use para pintar y conforme quede. No trae pistola de gravedad.', useful: 1 },
     ],
     faq: [
       { question: '¿Cuánto más grande es que los otros de esta comparativa?', answer: 'El doble: 50 litros contra los 24 litros de los otros tres compresores de esta guía.' },
@@ -109312,8 +109312,8 @@ No es para vos si preferís la opción con más reseñas acumuladas y respaldo (
       { label: 'Color', value: 'Verde' },
     ],
     customerReviews: [
-      { rating: 5, country: 'Argentina', text: 'Perfecto. Lo que quería.', useful: 1 },
-      { rating: 5, country: 'Argentina', text: 'Buenísimo.', useful: 0 },
+      { rating: 5, date: '2026', country: 'Argentina', text: 'Perfecto. Lo que quería.', useful: 1 },
+      { rating: 5, date: '2026', country: 'Argentina', text: 'Buenísimo.', useful: 0 },
     ],
     faq: [
       { question: '¿Qué accesorios incluye?', answer: 'Pistola de pintar y un kit de accesorios para pintura e inflado, según su publicación y confirmado por reseñas reales de compradores.' },
@@ -109416,8 +109416,8 @@ No es para vos si necesitás doble perno para más seguridad (mirá la Kallay 40
       { label: 'Espesor de puerta', value: '3 a 6,5 cm' },
     ],
     customerReviews: [
-      { rating: 4, country: 'Argentina', text: 'Es excelente. Se siente re sólida y pesada, no es la clásica chapa barata de siempre, es muy buena. Viene re bien de fabrica. Yo la desarme para dar vuelta el pestillo y agregarle lubricante y quedó perfecta.', useful: 5 },
-      { rating: 4, country: 'Argentina', text: 'Es una cerrada normal, materiales buenos, no es excelente. Antes de colocar conviene desarmar y lubricar las placas de la llave y la nuez para que deslicen bien, ya que viene casi seca.', useful: 3 },
+      { rating: 4, date: '2026', country: 'Argentina', text: 'Es excelente. Se siente re sólida y pesada, no es la clásica chapa barata de siempre, es muy buena. Viene re bien de fabrica. Yo la desarme para dar vuelta el pestillo y agregarle lubricante y quedó perfecta.', useful: 5 },
+      { rating: 4, date: '2025', country: 'Argentina', text: 'Es una cerrada normal, materiales buenos, no es excelente. Antes de colocar conviene desarmar y lubricar las placas de la llave y la nuez para que deslicen bien, ya que viene casi seca.', useful: 3 },
     ],
     faq: [
       { question: '¿Por qué es la más vendida?', answer: 'Es 2° en el ranking de ventas de Manuales de MercadoLibre, con {{reviews:MLAU139920880}} calificaciones, la base de reseñas más grande de esta comparativa.' },
@@ -109517,8 +109517,8 @@ No es para vos si buscás la opción más económica (mirá la cerradura reforza
       { label: 'Uso recomendado', value: 'Puertas exteriores, portones' },
     ],
     customerReviews: [
-      { rating: 5, country: 'Argentina', text: 'La mejor cerradura. Cerrar los ojos y compralo. Es sumamente rígida.', useful: 2 },
-      { rating: 5, country: 'Argentina', text: 'De calidad.', useful: 2 },
+      { rating: 5, date: '2026', country: 'Argentina', text: 'La mejor cerradura. Cerrar los ojos y compralo. Es sumamente rígida.', useful: 2 },
+      { rating: 5, date: '2025', country: 'Argentina', text: 'De calidad.', useful: 2 },
     ],
     faq: [
       { question: '¿Qué significa que tiene doble perno?', answer: 'Significa que traba la puerta en dos puntos en vez de uno, lo que suma resistencia frente a intentos de forzarla. Es el único de esta comparativa con doble perno.' },
@@ -109618,7 +109618,7 @@ No es para vos si tu puerta no es de madera con el espesor adecuado (25 a 35mm) 
       { label: 'Protección', value: 'Anticorrosión' },
     ],
     customerReviews: [
-      { rating: 5, country: 'Argentina', text: 'La calidad trabex de siempre.', useful: 4 },
+      { rating: 5, date: '2025', country: 'Argentina', text: 'La calidad trabex de siempre.', useful: 4 },
     ],
     faq: [
       { question: '¿Qué significa que tiene 4 combinaciones?', answer: 'Significa que se puede reconfigurar el mecanismo para que funcione con una llave distinta a la original, sin cambiar toda la cerradura. Útil si perdiste las llaves o heredaste cerraduras viejas.' },
@@ -109718,7 +109718,7 @@ No es para vos si tu puerta es de madera o metal estándar: ahí te sirven mejor
       { label: 'Apto para', value: 'Puertas de vidrio Blindex' },
     ],
     customerReviews: [
-      { rating: 5, country: 'Argentina', text: 'Me gustó, la relación calidad precio está bien. Colocas cada parte en su respectivo vidrio, apretas los 2 tornillos que presionan el vidrio (no lo perforan) y se sostiene firme.', useful: 5 },
+      { rating: 5, date: '2025', country: 'Argentina', text: 'Me gustó, la relación calidad precio está bien. Colocas cada parte en su respectivo vidrio, apretas los 2 tornillos que presionan el vidrio (no lo perforan) y se sostiene firme.', useful: 5 },
     ],
     faq: [
       { question: '¿Sirve para cualquier tipo de puerta?', answer: 'No, es específica para puertas de vidrio Blindex. Para puertas de madera o metal, mirá las otras 4 cerraduras de esta comparativa.' },
@@ -109815,7 +109815,7 @@ No es para vos si buscás más seguridad mecánica al mejor precio: la Kallay 40
       { label: 'Llaves incluidas', value: '2' },
     ],
     customerReviews: [
-      { rating: 5, country: 'Argentina', text: 'Excelente, muy buena es la misma marca que la que tenía que duro 40 años, espero que me dé el mismo resultado. Gracias.', useful: 3 },
+      { rating: 5, date: '2025', country: 'Argentina', text: 'Excelente, muy buena es la misma marca que la que tenía que duro 40 años, espero que me dé el mismo resultado. Gracias.', useful: 3 },
     ],
     faq: [
       { question: '¿Por qué es la más cara de esta comparativa?', answer: 'Por su acabado en bronce cromado y el respaldo de marca. No tiene doble perno, así que la diferencia de precio frente a la Kallay 4000 es por acabado y marca, no por más seguridad mecánica.' },
