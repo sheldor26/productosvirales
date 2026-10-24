@@ -1,8 +1,8 @@
 {
   "version": 4,
-  "total": 1069,
+  "total": 1068,
   "porArchivo": {
     "src/data/guides.ts": 590,
-    "src/data/curated-products.ts": 479
+    "src/data/curated-products.ts": 478
   }
 }

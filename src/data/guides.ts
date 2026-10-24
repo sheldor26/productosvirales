@@ -27126,6 +27126,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     ],
     internalLinks: [
       { label: "Ver todos los juguetes virales", href: "/categoria/juguetes" },
+      { label: "Cocina de juguete: cuál comprar", href: "/guias/juguetes/cocina-de-juguete" },
       { label: "Mejores peluches de personajes: Bluey, Monster High y más", href: "/guias/juguetes/mejores-peluches-personajes-argentina" },
       { label: "Hot Wheels y autos de colección: cuál comprar", href: "/guias/juguetes/hot-wheels-autos-coleccion" },
       { label: "Proyector astronauta: ¿cuál conviene y vale la pena?", href: "/guias/juguetes/proyector-astronauta" },
@@ -27277,6 +27278,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     ],
     internalLinks: [
       { label: "Día del Niño: qué regalar según la edad", href: "/guias/juguetes/dia-del-nino-argentina" },
+      { label: "Cocina de juguete: cuál comprar", href: "/guias/juguetes/cocina-de-juguete" },
       { label: "Día de la Madre: regalos que se usan", href: "/guias/hogar/dia-de-la-madre-argentina" },
       { label: "Mejores perfumes árabes de hombre", href: "/guias/mejores-perfumes-arabes-hombre" },
       { label: "Perfumes árabes de mujer: cuál comprar", href: "/guias/perfumes-arabes-mujer" },
@@ -27345,6 +27347,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     ],
     internalLinks: [
       { label: "Día del Niño: qué regalar según la edad", href: "/guias/juguetes/dia-del-nino-argentina" },
+      { label: "Cocina de juguete: cuál comprar", href: "/guias/juguetes/cocina-de-juguete" },
       { label: "Mejores peluches de personajes: Bluey, Monster High y más", href: "/guias/juguetes/mejores-peluches-personajes-argentina" },
       { label: "Proyector portátil: cuál comprar y cuál conviene", href: "/guias/tech/proyector-portatil" },
     ],
@@ -27472,6 +27475,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     internalLinks: [
       { label: "Ver todos los juguetes virales", href: "/categoria/juguetes" },
       { label: "Guía de regalos por edad para el Día del Niño", href: "/guias/juguetes/dia-del-nino-argentina" },
+      { label: "Cocina de juguete: cuál comprar", href: "/guias/juguetes/cocina-de-juguete" },
     ],
     internalLinksTitle: "Seguí explorando",
   },
@@ -35268,6 +35272,128 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { label: "Día del Niño: qué regalar según la edad", href: "/guias/juguetes/dia-del-nino-argentina" },
       { label: "Mejores peluches de personajes: Bluey, Monster High y más", href: "/guias/juguetes/mejores-peluches-personajes-argentina" },
       { label: "Proyector astronauta: ¿cuál conviene y vale la pena?", href: "/guias/juguetes/proyector-astronauta" },
+      { label: "Cocina de juguete: cuál comprar", href: "/guias/juguetes/cocina-de-juguete" },
+    ],
+    internalLinksTitle: "Más guías del silo Juguetes",
+  },
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva cocina de juguete — silo juguetes, categoría
+  // "cocina-de-juguete". Origen: "seguí con las guías" 2026-10-24,
+  // keyword "cocina de juguete" (3.600/mes). 5 productos: la cocinita
+  // Duravit ya existía en el catálogo (citada en dia-del-nino-argentina)
+  // y era la más vendida real de la categoría — se sumó en vez de
+  // dejarla afuera, para no canibalizar esta guía nueva con su propia
+  // ficha. Las otras 4 (Minichef, Petit Gourmet, Cebra, Mega Baby)
+  // sourceadas en vivo el mismo día.
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "cocina-de-juguete",
+    category: "cocina-de-juguete",
+    silo: "juguetes",
+    pillar: true,
+    title: `Cocina de juguete: cuál comprar en Argentina [2026]`,
+    seoTitle: `Cocina de Juguete: Cuál Comprar en Argentina | 2026`,
+    metaDescription: `Comparamos 5 cocinas de juguete: la más vendida, la más económica, la de madera, con luz y sonido, y la premium. Precios reales de MercadoLibre.`,
+    ogTitle: `Cocina de juguete: cuál comprar en Argentina`,
+    ogDescription: `De la más vendida a la premium con heladera y lavarropas: 5 cocinas de juguete comparadas por material, efectos y precio real de MercadoLibre.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_922127-MLA110455738694_052026-F.webp`,
+    h1: `Cocina de juguete: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene la **[cocinita Duravit Mi Cocina](/producto/cocinita-de-juguete-duravit-mi-cocina-con-horno-y-33-piezas-rosa-mla56487348)** (alrededor de {{precio:MLA56487348:k}}): la más vendida de esta comparativa, 1° en Cocinas de Juguete de MercadoLibre, con {{reviews:MLA56487348}} calificaciones. Si priorizás precio, la **[Petit Gourmet](/producto/juego-de-cocinitas-infantiles-de-juguete-petit-gourmet-color-multicolor-mla28571760)**, la más económica y con más reseñas de todas ({{reviews:MLA28571760}}). Si buscás una cocina de madera en vez de plástico, la **[Minichef](/producto/cocina-minichef-pintada-juguete-madera-ninos-ninas-infantil-mlau3331707022)**. Si querés efectos de luz, sonido y vapor simulando agua real, la **[Cebra](/producto/mini-cocinita-infantil-con-luz-sonido-30-accesorios-multicolor-mla62600376)**. Y si buscás la más completa, con heladera, lavarropas y pizarra mágica, la **[Mega Baby](/producto/cocinita-de-madera-mega-baby-multifuncion-pizarra-magica-luz-unico-mla66012182)**, la premium de esta comparativa.`,
+    publishedDate: "2026-10-24",
+    updatedDate: "2026-10-24",
+    hasDisclosure: true,
+    readingTime: 9,
+    standfirst: `Una cocina de juguete va de {{precio:MLA28571760:k}} a {{precio:MLA66012182:k}}. Comparamos 5 cocinas reales de MercadoLibre Argentina por material, efectos (luz, sonido, vapor) y respaldo de reseñas, con las contras reales que dejaron compradores verificados.`,
+    quickPicks: [
+      { productMlaId: "MLA56487348", label: "La más vendida", labelColor: "green", tagline: "Cocinita Duravit: 1° en Cocinas de Juguete, {{reviews:MLA56487348}} calificaciones" },
+      { productMlaId: "MLA28571760", label: "La más económica", labelColor: "slate", tagline: "Petit Gourmet: la más barata, con más reseñas de todas ({{reviews:MLA28571760}})" },
+      { productMlaId: "MLAU3331707022", label: "La de madera", labelColor: "amber", tagline: "Minichef: de madera simple, sin funciones extra" },
+      { productMlaId: "MLA62600376", label: "Con luz, sonido y vapor", labelColor: "blue", tagline: "Cebra: simula agua real en la canilla" },
+      { productMlaId: "MLA66012182", label: "La más completa (premium)", labelColor: "purple", tagline: "Mega Baby: heladera, lavarropas y pizarra mágica" },
+    ],
+    intro: [
+      `Una cocina de juguete no es un producto único: hay modelos de plástico económicos con pocas piezas, cocinas de madera que imitan mejor el mueble real, versiones con luz y sonido que simulan cocinar de verdad, y sets premium multifunción con heladera y lavarropas incluidos.`,
+      `En esta guía comparamos 5 cocinas de juguete reales de MercadoLibre Argentina por material, efectos y respaldo de reseñas, con las contras que dejaron compradores verificados: desde tamaños que no coinciden con lo declarado en la ficha hasta accesorios que conviene sacar si hay chicos muy chiquitos en la casa.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_922127-MLA110455738694_052026-F.webp", alt: `Cocinita de juguete Duravit Mi Cocina, la más vendida de Argentina`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, la **[cocinita Duravit](/producto/cocinita-de-juguete-duravit-mi-cocina-con-horno-y-33-piezas-rosa-mla56487348)**: la más vendida. Si priorizás precio, la **[Petit Gourmet](/producto/juego-de-cocinitas-infantiles-de-juguete-petit-gourmet-color-multicolor-mla28571760)**. Si buscás madera en vez de plástico, la **[Minichef](/producto/cocina-minichef-pintada-juguete-madera-ninos-ninas-infantil-mlau3331707022)**. Si querés luz, sonido y vapor, la **[Cebra](/producto/mini-cocinita-infantil-con-luz-sonido-30-accesorios-multicolor-mla62600376)**. Y si buscás la más completa, la **[Mega Baby](/producto/cocinita-de-madera-mega-baby-multifuncion-pizarra-magica-luz-unico-mla66012182)**.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos las cocinas de juguete con más ventas y opiniones reales en MercadoLibre Argentina. Las ordenamos por lo que define la compra: **material** (madera o plástico), **efectos** (luz, sonido, vapor simulado) y **respaldo real de reseñas**, citando contras reales de compradores verificados, incluyendo discrepancias de tamaño entre lo declarado y lo que reportan los compradores. Los precios que ves en las fichas y tablas se revisan contra MercadoLibre varias veces por semana.` },
+
+      { type: "h2", title: `Qué mirar antes de comprar una cocina de juguete`, id: "que-mirar" },
+      { type: "p", content: `Lo primero: el material. La mayoría de esta comparativa es de plástico, pero dos (Minichef y Mega Baby) son de madera, más durable y con un diseño que imita mejor una cocina real. Segundo, los efectos: algunas vienen sin luz ni sonido (juego simbólico puro), otras suman luz y sonido, y una (la Cebra) incluso un efecto de vapor que simula agua corriendo en la canilla.` },
+      { type: "p", content: `Tercero, y muy importante: el tamaño declarado en la ficha no siempre coincide con el tamaño real armado. En esta comparativa hubo casos de ambos signos: compradores que esperaban algo más grande y se encontraron con un producto chico, y un caso contrario, donde el tamaño armado terminó siendo mayor al declarado por el vendedor. Conviene siempre revisar las reseñas de compradores antes de comprar, no solo la ficha técnica.` },
+
+      { type: "h2", title: `Las mejores cocinas de juguete 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Cocinita Duravit Mi Cocina, la más vendida` },
+      { type: "product-card", productMlaId: "MLA56487348", label: "La más vendida", labelColor: "green", ranking: 1, description: `Juego simbólico con horno, 33 piezas. 1° en Cocinas de Juguete de MercadoLibre, con {{reviews:MLA56487348}} calificaciones y {{rating:MLA56487348}} estrellas.` },
+      { type: "p", content: `Es 1° en el ranking de ventas de Cocinas de Juguete de MercadoLibre, con {{reviews:MLA56487348}} calificaciones a {{rating:MLA56487348}} estrellas, la base de reseñas más grande después de la Petit Gourmet. Trae horno y 33 piezas de accesorios, a alrededor de {{precio:MLA56487348:k}}.` },
+      { type: "p", content: `Lo honesto: la propia ficha técnica del vendedor se contradice sobre la edad (un campo dice 2 años, otro dice 5 a 7 años). Las reseñas reales confirman que en la práctica se usa más cerca de los 2 a 4 años.` },
+      { type: "pull-quote", content: `"Hermoso me encantó y las niñas felices recomendado juegan todo el tiempo."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `2. Petit Gourmet, la más económica` },
+      { type: "product-card", productMlaId: "MLA28571760", label: "La más económica", labelColor: "slate", ranking: 2, description: `Estructura portátil, 24 piezas. 10° en Cocinas de Juguete, con {{reviews:MLA28571760}} calificaciones, la base más grande de esta comparativa.` },
+      { type: "p", content: `Es la más económica de esta comparativa, a alrededor de {{precio:MLA28571760:k}}, y tiene {{reviews:MLA28571760}} calificaciones a {{rating:MLA28571760}} estrellas: la base de reseñas más grande de las cinco, con diferencia. Su estructura es portátil (32 × 47 × 19 cm), ideal para espacios reducidos.` },
+      { type: "p", content: `Lo honesto: varias reseñas avisan que algunos accesorios (piezas de comida) son más chicos de lo esperado, conviene sacarlos si hay chicos que todavía se llevan objetos a la boca.` },
+      { type: "pull-quote", content: `"Una forma hermosa de darle una alegría a mí nieta que vive lejos de mí, gracias mercado libre y mercado pago."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `3. Minichef, la de madera` },
+      { type: "product-card", productMlaId: "MLAU3331707022", label: "La de madera", labelColor: "amber", ranking: 3, description: `Madera pintada, 25 piezas. 2° en Cocinas de Juguete, {{reviews:MLAU3331707022}} calificaciones y {{rating:MLAU3331707022}} estrellas.` },
+      { type: "p", content: `Es de madera (fibrofácil pintada) en vez de plástico, 2° en el ranking de ventas de Cocinas de Juguete, con {{reviews:MLAU3331707022}} calificaciones a {{rating:MLAU3331707022}} estrellas, a alrededor de {{precio:MLAU3331707022:k}}. A diferencia de la Mega Baby (también de madera), es una opción simple, sin luz ni sonido ni funciones extra.` },
+      { type: "p", content: `Lo honesto: viene desarmada, y varias reseñas recomiendan reforzar las uniones con cola blanca al armarla. No trae luz ni sonido.` },
+      { type: "pull-quote", content: `"Espectacular!!! no es difícil armarla pero si mandaran una pequeña guía se haría más rápido."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `4. Cebra, con luz, sonido y vapor` },
+      { type: "product-card", productMlaId: "MLA62600376", label: "Con luz, sonido y vapor", labelColor: "blue", ranking: 4, description: `30 accesorios, luz, sonido y efecto de vapor simulando agua real. 15° en Cocinas de Juguete, {{reviews:MLA62600376}} calificaciones.` },
+      { type: "p", content: `Es la única de esta comparativa con luz, sonido y un efecto de vapor que simula agua real saliendo de la canilla, a alrededor de {{precio:MLA62600376:k}}. Tiene {{reviews:MLA62600376}} calificaciones a {{rating:MLA62600376}} estrellas.` },
+      { type: "p", content: `Lo honesto: varias reseñas avisan que es más chica de lo que parece en las fotos ("es re mini"), pensala para que el chico juegue sentado, no parado como en una cocina de tamaño real.` },
+      { type: "pull-quote", content: `"Hermosa la cocina tiene luces y sale humo como si fuera que estas cocinando real muy lindaaa ami nena le encanto."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `5. Mega Baby, la más completa (premium)` },
+      { type: "product-card", productMlaId: "MLA66012182", label: "La más completa (premium)", labelColor: "purple", ranking: 5, description: `Madera, heladera con dispenser, lavarropas y pizarra mágica integrada. 3° en Cocinas de Juguete, {{rating:MLA66012182}} estrellas.` },
+      { type: "p", content: `Es la opción premium de esta comparativa: de madera, con heladera con dispenser funcional, lavarropas con puertas abatibles, hornallas con luz y una pizarra mágica integrada, a alrededor de {{precio:MLA66012182:k}}. Tiene {{reviews:MLA66012182}} calificaciones a {{rating:MLA66012182}} estrellas.` },
+      { type: "p", content: `Lo honesto: es, por lejos, la más cara de esta comparativa, y varias reseñas confirman que el tamaño armado real (cerca de 1m de ancho por 1,10m de alto) es mayor al declarado por el vendedor (95 × 70cm). El armado lleva alrededor de 2 horas.` },
+      { type: "pull-quote", content: `"Excelente! es preciosa, completa y de buena calidad. Cuesta un poco armarla porque lleva tiempo pero es tan hermosa que vale la pena la paciencia del armado."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h2", title: `Tabla comparativa: material, efectos y precio`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Material`, `Efectos`, `Precio`, `Calificaciones`], rows: [
+        [`[Duravit Mi Cocina](https://meli.la/24CpASH)`, `Plástico`, `Sin luz ni sonido`, `{{precio:MLA56487348}}`, `{{rating:MLA56487348}} ★ ({{reviews:MLA56487348}})`],
+        [`[Petit Gourmet](https://meli.la/1SfMDoF)`, `Plástico`, `Sin luz ni sonido`, `{{precio:MLA28571760}}`, `{{rating:MLA28571760}} ★ ({{reviews:MLA28571760}})`],
+        [`[Minichef](https://meli.la/1XNJfzX)`, `Madera`, `Sin luz ni sonido`, `{{precio:MLAU3331707022}}`, `{{rating:MLAU3331707022}} ★ ({{reviews:MLAU3331707022}})`],
+        [`[Cebra](https://meli.la/2P4Dh9S)`, `Plástico`, `Luz, sonido y vapor`, `{{precio:MLA62600376}}`, `{{rating:MLA62600376}} ★ ({{reviews:MLA62600376}})`],
+        [`[Mega Baby](https://meli.la/1myqgsP)`, `Madera`, `Luz y sonido`, `{{precio:MLA66012182}}`, `{{rating:MLA66012182}} ★ ({{reviews:MLA66012182}})`],
+      ] },
+
+      { type: "h2", title: `Cuál cocina de juguete elegir según tu caso`, id: "cual-elegir" },
+      { type: "list", items: [
+        `No sabés cuál elegir, querés la compra segura: la cocinita Duravit ({{precio:MLA56487348:k}}). La más vendida.`,
+        `Priorizás precio: la Petit Gourmet ({{precio:MLA28571760:k}}). La más económica y con más reseñas de todas.`,
+        `Preferís madera en vez de plástico: la Minichef ({{precio:MLAU3331707022:k}}).`,
+        `Querés efectos realistas (luz, sonido, vapor): la Cebra ({{precio:MLA62600376:k}}).`,
+        `Buscás la opción más completa y tenés el presupuesto: la Mega Baby ({{precio:MLA66012182:k}}). Heladera, lavarropas y pizarra mágica.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la mayoría, la **[cocinita Duravit](/producto/cocinita-de-juguete-duravit-mi-cocina-con-horno-y-33-piezas-rosa-mla56487348)** es la compra más segura: la más vendida de esta comparativa. Si priorizás precio, la **[Petit Gourmet](/producto/juego-de-cocinitas-infantiles-de-juguete-petit-gourmet-color-multicolor-mla28571760)**, la más económica y con más reseñas. Si preferís madera, la **[Minichef](/producto/cocina-minichef-pintada-juguete-madera-ninos-ninas-infantil-mlau3331707022)**. Si querés efectos realistas, la **[Cebra](/producto/mini-cocinita-infantil-con-luz-sonido-30-accesorios-multicolor-mla62600376)**. Y si buscás la más completa, la **[Mega Baby](/producto/cocinita-de-madera-mega-baby-multifuncion-pizarra-magica-luz-unico-mla66012182)**, con heladera, lavarropas y pizarra mágica.` },
+      { type: "h2", title: "Preguntas frecuentes", id: "faq" },
+    ],
+    faq: [
+      { question: `¿Cuál es la mejor cocina de juguete en Argentina?`, answer: `La más vendida es la [cocinita Duravit](/producto/cocinita-de-juguete-duravit-mi-cocina-con-horno-y-33-piezas-rosa-mla56487348), 1° en el ranking de ventas de la categoría. Si priorizás precio, la [Petit Gourmet](/producto/juego-de-cocinitas-infantiles-de-juguete-petit-gourmet-color-multicolor-mla28571760), la más económica.` },
+      { question: `¿Conviene una cocina de madera o de plástico?`, answer: `Depende de la prioridad. La madera (como la [Minichef](/producto/cocina-minichef-pintada-juguete-madera-ninos-ninas-infantil-mlau3331707022) o la [Mega Baby](/producto/cocinita-de-madera-mega-baby-multifuncion-pizarra-magica-luz-unico-mla66012182) de esta comparativa) es más durable y luce más real, pero suele ser más cara. El plástico es más económico y liviano.` },
+      { question: `¿El tamaño declarado en la ficha coincide con el real?`, answer: `No siempre. En esta comparativa hubo casos de ambos signos: la [Cebra](/producto/mini-cocinita-infantil-con-luz-sonido-30-accesorios-multicolor-mla62600376) resultó más chica de lo esperado según varias reseñas, mientras que la [Mega Baby](/producto/cocinita-de-madera-mega-baby-multifuncion-pizarra-magica-luz-unico-mla66012182) terminó siendo más grande que lo declarado. Conviene revisar siempre las reseñas de compradores antes de comprar.` },
+      { question: `¿Cuál tiene más reseñas?`, answer: `La [Petit Gourmet](/producto/juego-de-cocinitas-infantiles-de-juguete-petit-gourmet-color-multicolor-mla28571760), con {{reviews:MLA28571760}} calificaciones, muy por encima de cualquier otra de esta comparativa.` },
+      { question: `¿Hay alguna con efectos de luz y sonido?`, answer: `Sí, la [Cebra](/producto/mini-cocinita-infantil-con-luz-sonido-30-accesorios-multicolor-mla62600376) tiene luz, sonido y un efecto de vapor que simula agua real en la canilla. La [Mega Baby](/producto/cocinita-de-madera-mega-baby-multifuncion-pizarra-magica-luz-unico-mla66012182) también tiene luz y sonido en las hornallas.` },
+      { question: `¿Los accesorios son seguros para chicos muy chiquitos?`, answer: `Varias reseñas de la [Petit Gourmet](/producto/juego-de-cocinitas-infantiles-de-juguete-petit-gourmet-color-multicolor-mla28571760) avisan que algunos accesorios (piezas de comida) son chicos. Si hay bebés o chicos que todavía se llevan objetos a la boca en casa, conviene sacar esas piezas antes de dárselas.` },
+      { question: `¿Para qué edad son estas cocinas de juguete?`, answer: `La mayoría apunta a 2-5 años, aunque la [cocinita Duravit](/producto/cocinita-de-juguete-duravit-mi-cocina-con-horno-y-33-piezas-rosa-mla56487348) tiene una contradicción en su propia ficha técnica (2 años en un campo, 5 a 7 en otro); las reseñas confirman que en la práctica se usa más cerca de los 2-4 años.` },
+    ],
+    internalLinks: [
+      { label: "Día del Niño: qué regalar según la edad", href: "/guias/juguetes/dia-del-nino-argentina" },
+      { label: "Mejores peluches de personajes: Bluey, Monster High y más", href: "/guias/juguetes/mejores-peluches-personajes-argentina" },
+      { label: "Hot Wheels y autos de colección: cuál comprar", href: "/guias/juguetes/hot-wheels-autos-coleccion" },
+      { label: "Proyector Astronauta: ¿cuál conviene y vale la pena?", href: "/guias/juguetes/proyector-astronauta" },
     ],
     internalLinksTitle: "Más guías del silo Juguetes",
   },
@@ -37234,6 +37360,11 @@ export const guideCategories: Record<string, { name: string; description: string
     name: "Guía de Proyector Astronauta",
     description:
       "El proyector de galaxia viral de TikTok: cuál tiene stock real en Argentina, qué trae y si vale la pena como luz de noche decorativa.",
+  },
+  "cocina-de-juguete": {
+    name: "Guía de Cocina de Juguete",
+    description:
+      "De madera o plástico, con luz y sonido o sin efectos: cuál cocina de juguete conviene según edad, precio y respaldo de reseñas reales.",
   },
   masajeadores: {
     name: "Guía de Masajeadores",

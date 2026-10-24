@@ -79224,7 +79224,7 @@ Comprá este gimnasio si buscás el juguete que más te va a durar por edad, con
       { label: "Edad recomendada (otro campo de la misma ficha)", value: "5 a 7 años — la propia ficha del vendedor se contradice entre ambos campos" },
       { label: "Ranking en MercadoLibre Argentina", value: "1.º más vendido en Cocinas de Juguete (julio 2026)" },
     ],
-    relatedProducts: ["MLA62609709", "MLA30894790"],
+    relatedProducts: ["MLAU3331707022", "MLA28571760", "MLA62600376", "MLA66012182"],
     priceUpdated: "2026-10-07",
     priceLastChecked: "2026-10-12",
     priceStatus: "fresh",
@@ -79232,7 +79232,7 @@ Comprá este gimnasio si buscás el juguete que más te va a durar por edad, con
     description: "Cocinita de juguete Duravit Mi Cocina, 33 piezas con horno. 1.ª más vendida de su categoría en MercadoLibre Argentina, con más de 1.350 opiniones reales.",
     seoTitle: "Cocinita Duravit Mi Cocina: la más vendida en Argentina",
     metaDescription: "Cocinita de juguete Duravit con horno, 33 piezas, rosa. 1.ª más vendida en Argentina, opiniones reales de compradores.",
-    verdict: "Sirve si buscás la cocina de juguete con más respaldo de compradores de esta guía: 1.ª más vendida de toda la categoría en MercadoLibre Argentina, con 33 piezas y horno incluido. Un dato de honestidad importante: la propia ficha técnica del vendedor se contradice sobre la edad, un campo dice 2 años y otro dice 5 a 7 años. Las reseñas reales confirman que a los 2-3 años el tamaño le queda cómodo, así que en la práctica se usa más cerca del piso de 2 años que del rango de 5 a 7, pero conviene saber que la propia ficha no lo resuelve. No es para vos si buscás algo con menos piezas para armar o un juguete de construcción en vez de juego simbólico: para eso, los bloques magnéticos de esta misma guía.",
+    verdict: "Sirve si buscás la cocina de juguete con más respaldo de compradores: 1.ª más vendida de toda la categoría en MercadoLibre Argentina, con 33 piezas y horno incluido. Un dato de honestidad importante: la propia ficha técnica del vendedor se contradice sobre la edad, un campo dice 2 años y otro dice 5 a 7 años. Las reseñas reales confirman que a los 2-3 años el tamaño le queda cómodo, así que en la práctica se usa más cerca del piso de 2 años que del rango de 5 a 7, pero conviene saber que la propia ficha no lo resuelve. No es para vos si buscás algo más económico: para eso, la Petit Gourmet de nuestra [guía de cocina de juguete](/guias/juguetes/cocina-de-juguete).",
     pros: [
       "1.ª más vendida de la categoría Cocinas de Juguete en MercadoLibre Argentina, con más de 1.350 calificaciones reales",
       "33 piezas incluidas, con horno",
@@ -79246,7 +79246,7 @@ Comprá este gimnasio si buscás el juguete que más te va a durar por edad, con
     ],
     articleBody: `## Qué es y para quién
 
-La cocinita Duravit Mi Cocina es un set de juego simbólico con horno y 33 piezas de accesorios (ollas, utensilios, alimentos de juguete), 1.ª más vendida de toda la categoría Cocinas de Juguete en MercadoLibre Argentina, con 1.356 calificaciones.
+La cocinita Duravit Mi Cocina es un set de juego simbólico con horno y 33 piezas de accesorios (ollas, utensilios, alimentos de juguete), 1.ª más vendida de toda la categoría Cocinas de Juguete en MercadoLibre Argentina, con {{reviews:MLA56487348}} calificaciones.
 
 ## La contradicción de edad, explicada
 
@@ -79260,13 +79260,13 @@ Trae 54 × 42 × 26 cm de estructura de plástico con horno y 33 piezas de acces
 
 "Hermoso me encantó y las niñas felices recomendado juegan todo el tiempo" resume el tono general de las reseñas. Otra compradora aclara el tema del tamaño: "tal vez yo lo recomiendo para edad menos de 4 por la altura". Y una tercera confirma que "a mi hija de 1 año le viene de 10 el tamaño pero creo que para más de 5 años no es".
 
-## Cómo se compara con los bloques magnéticos de esta guía
+## Cómo se compara con las otras cocinas de esta guía
 
-Frente a los [bloques magnéticos](/producto/bloques-magneticos-cubos-para-armar-estilo-minecraft-60-piezas-mla62609709), la cocinita es juego simbólico (imitar una actividad real) mientras que los bloques son construcción libre. Ambos apuntan a la misma franja de edad (2-5 años), pero desarrollan habilidades distintas — no compiten, se complementan.
+Frente a la [Petit Gourmet](/producto/juego-de-cocinitas-infantiles-de-juguete-petit-gourmet-color-multicolor-mla28571760), que es más económica y tiene más reseñas, la Duravit es la que ocupa el 1° puesto real de ventas de la categoría. Frente a la [Minichef](/producto/cocina-minichef-pintada-juguete-madera-ninos-ninas-infantil-mlau3331707022) o la [Mega Baby](/producto/cocinita-de-madera-mega-baby-multifuncion-pizarra-magica-luz-unico-mla66012182), ambas de madera, la Duravit es de plástico y más económica que la Mega Baby.
 
 ## Para quién sí y para quién no
 
-Comprá esta cocinita si buscás el juguete de juego simbólico con más respaldo de compradores de esta guía. No es para vos si tu hijo o hija ya tiene más de 5 años (las reseñas avisan que el tamaño se queda chico) o si buscás juego de construcción: para eso, los [bloques magnéticos](/producto/bloques-magneticos-cubos-para-armar-estilo-minecraft-60-piezas-mla62609709) de esta misma guía.`,
+Comprá esta cocinita si buscás la opción con más respaldo de ventas reales. No es para vos si tu hijo o hija ya tiene más de 5 años (las reseñas avisan que el tamaño se queda chico) o si buscás algo más económico: para eso, la [Petit Gourmet](/producto/juego-de-cocinitas-infantiles-de-juguete-petit-gourmet-color-multicolor-mla28571760) de nuestra [guía de cocina de juguete](/guias/juguetes/cocina-de-juguete).`,
     faq: [
       {
         question: "¿Para qué edad es la cocinita Duravit, 2 años o 5-7 años?",
@@ -79286,9 +79286,9 @@ Comprá esta cocinita si buscás el juguete de juego simbólico con más respald
       },
     ],
     customerReviews: [
-      { rating: 5, country: "Argentina", date: "hace 1 año", text: "Hermoso me encantó y las niñas felices recomendado juegan todo el tiempo." },
-      { rating: 5, country: "Argentina", date: "hace más de 1 año", useful: 4, text: "...tal vez yo lo recomiendo para edad menos de 4 por la altura." },
-      { rating: 4, country: "Argentina", date: "hace más de 1 año", useful: 3, text: "...a mi hija de 1 año le viene de 10 el tamaño pero creo que para más de 5 años no es." },
+      { rating: 5, country: "Argentina", date: "2025", text: "Hermoso me encantó y las niñas felices recomendado juegan todo el tiempo." },
+      { rating: 5, country: "Argentina", date: "2025", useful: 4, text: "...tal vez yo lo recomiendo para edad menos de 4 por la altura." },
+      { rating: 4, country: "Argentina", date: "2025", useful: 3, text: "...a mi hija de 1 año le viene de 10 el tamaño pero creo que para más de 5 años no es." },
     ],
     structuredData: {
       "@context": "https://schema.org",
@@ -79301,13 +79301,13 @@ Comprá esta cocinita si buscás el juguete de juego simbólico con más respald
         "@type": "Offer",
         url: "https://www.mercadolibre.com.ar/cocinita-de-juguete-duravit-mi-cocina-con-horno-y-33-piezas-rosa/p/MLA56487348",
         priceCurrency: "ARS",
-        price: "24790",
+        price: "26505",
         availability: "https://schema.org/InStock",
       },
       aggregateRating: {
         "@type": "AggregateRating",
-        ratingValue: "4.5",
-        reviewCount: "1356",
+        ratingValue: "4.6",
+        reviewCount: "1351",
       },
     },
   },
@@ -79429,6 +79429,461 @@ Comprá estos bloques si buscás el juguete de construcción con mejor rating de
         "@type": "AggregateRating",
         ratingValue: "4.8",
         reviewCount: "843",
+      },
+    },
+  },
+  {
+    id: "MLAU3331707022",
+    title: "Cocina Minichef Pintada Juguete Madera Niños Niñas Infantil",
+    canonicalName: "Cocina Minichef Pintada de Madera",
+    brand: "Minichef",
+    price: 69900,
+    originalPrice: 69900,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_716649-MLA118702017887_102026-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_716649-MLA118702017887_102026-O.webp"],
+    category: "Juguetes",
+    categorySlug: "juguetes",
+    permalink: "https://www.mercadolibre.com.ar/cocina-minichef-pintada-juguete-madera-ninos-ninas-infantil/up/MLAU3331707022",
+    affiliateUrl: "https://meli.la/1XNJfzX", // Link generado con el linkbuilder oficial (etiqueta productosvirales), 2026-10-24.
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 102,
+    soldQuantity: 1000,
+    badge: "bestseller",
+    pastelColor: "var(--pastel-pink)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Minichef" },
+      { label: "Modelo", value: "Minichef Rosa" },
+      { label: "Color", value: "Minichef rosa eco st blanco" },
+      { label: "Material", value: "Madera (fibrofácil pintada)" },
+      { label: "Medidas", value: "80 × 60 × 35 cm" },
+      { label: "Piezas", value: "25, incluye sticker decorativo" },
+      { label: "Luz o sonido", value: "No trae" },
+      { label: "Ranking en MercadoLibre Argentina", value: "2.º más vendido en Cocinas de Juguete (octubre 2026)" },
+    ],
+    relatedProducts: ["MLA28571760", "MLA62600376", "MLA66012182", "MLA56487348"],
+    priceUpdated: "2026-10-24",
+    priceLastChecked: "2026-10-24",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-10-24",
+    description: "Cocina de juguete Minichef de madera, pintada, 25 piezas. 2.ª más vendida de su categoría en MercadoLibre Argentina, con {{reviews:MLAU3331707022}} opiniones reales.",
+    seoTitle: "Cocina Minichef de Madera: Precio y Opiniones",
+    metaDescription: "Cocina de juguete Minichef de madera pintada, 25 piezas, 80x60x35cm. 2.ª más vendida en Argentina, con {{reviews:MLAU3331707022}} opiniones reales.",
+    verdict: "Sirve si buscás una cocina de juguete de madera simple, sin funciones extra: 2.ª más vendida de toda la categoría en MercadoLibre Argentina, con {{reviews:MLAU3331707022}} calificaciones reales a {{rating:MLAU3331707022}} estrellas. Viene desarmada y varias reseñas recomiendan reforzar las uniones con cola blanca al armarla, un detalle que el vendedor no aclara en la publicación. No trae luz ni sonido, es juego simbólico puro. No es para vos si buscás una cocina de plástico con efectos de luz y sonido: para eso, la Cebra de esta misma guía.",
+    pros: [
+      "Es de madera (fibrofácil pintada), más durable que las de plástico de esta comparativa",
+      "2.ª más vendida de la categoría Cocinas de Juguete en MercadoLibre Argentina, con {{reviews:MLAU3331707022}} calificaciones reales a {{rating:MLAU3331707022}} estrellas",
+      "\"Espectacular!!! no es difícil armarla pero si mandaran una pequeña guía se haría más rápido\", según una reseña real",
+    ],
+    cons: [
+      "Viene desarmada; varias reseñas recomiendan reforzar las uniones con cola blanca",
+      "No trae luz ni sonido",
+      "Base de reseñas chica ({{reviews:MLAU3331707022}}), muy por debajo de la Petit Gourmet",
+    ],
+    articleBody: `## Qué es y para quién
+
+La cocina Minichef es un set de juego simbólico de madera (fibrofácil pintada), 25 piezas, 2.ª más vendida de toda la categoría Cocinas de Juguete en MercadoLibre Argentina, con {{reviews:MLAU3331707022}} calificaciones.
+
+## Cómo funciona
+
+Mide 80 × 60 × 35 cm y se entrega desarmada: según el vendedor "es portátil" y "se entrega desarmada, es muy sencilla de armar, va toda encastrada". Varias reseñas reales coinciden en que conviene reforzar las uniones con cola blanca para que quede más firme, un paso que la publicación no aclara. No tiene luz ni sonido: es juego simbólico puro, sin funciones electrónicas.
+
+## Lo que dicen los compradores reales
+
+"Espectacular!!! no es difícil armarla pero si mandaran una pequeña guía se haría más rápido" resume una reseña con 8 votos útiles. Otra compradora aclara el único punto flojo: "Muy lindo. Solo al armarlo recomiendo pegar todo con cola. Yo todavía no lo hice pero sería lo ideal."
+
+## Cómo se compara con las otras cocinas de esta guía
+
+Frente a la [Cebra](/producto/mini-cocinita-infantil-con-luz-sonido-30-accesorios-multicolor-mla62600376) o la [Petit Gourmet](/producto/juego-de-cocinitas-infantiles-de-juguete-petit-gourmet-color-multicolor-mla28571760), ambas de plástico, la Minichef es de madera, más durable y con un diseño que imita mejor una cocina real. Frente a la [Mega Baby](/producto/cocinita-de-madera-mega-baby-multifuncion-pizarra-magica-luz-unico-mla66012182), que también es de madera, la Minichef es mucho más simple y económica: no tiene heladera, lavarropas ni pizarra mágica, ni luz ni sonido.
+
+## Para quién sí y para quién no
+
+Comprá esta cocina si priorizás una cocina de madera por sobre una de plástico, y no te molesta armarla vos mismo (con cola blanca de refuerzo). No es para vos si buscás efectos de luz y sonido: para eso, la [Cebra](/producto/mini-cocinita-infantil-con-luz-sonido-30-accesorios-multicolor-mla62600376) de esta misma guía.`,
+    faq: [
+      {
+        question: "¿La cocina Minichef viene armada?",
+        answer: "No, se entrega desarmada pero encastrada, según el vendedor es sencilla de armar. Varias reseñas reales recomiendan reforzar las uniones con cola blanca.",
+      },
+      {
+        question: "¿Es de madera o de plástico?",
+        answer: "Es de madera (fibrofácil pintada). La Mega Baby de esta guía también es de madera, pero mucho más grande y con más funciones (heladera, lavarropas, pizarra mágica); la Minichef es una opción de madera simple y más económica.",
+      },
+      {
+        question: "¿Trae luz o sonido?",
+        answer: "No, es un juguete de juego simbólico sin funciones electrónicas.",
+      },
+      {
+        question: "¿Cuántas piezas incluye?",
+        answer: "25 piezas, incluyendo un sticker decorativo.",
+      },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "2025", useful: 8, text: "Espectacular!!! no es difícil armarla pero si mandaran una pequeña guía se haría más rápido." },
+      { rating: 5, country: "Argentina", date: "2026", useful: 14, text: "Muy lindo. Solo al armarlo recomiendo pegar todo con cola. Yo todavía no lo hice pero sería lo ideal." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Cocina Minichef Pintada de Madera",
+      image: ["https://http2.mlstatic.com/D_NQ_NP_716649-MLA118702017887_102026-O.webp"],
+      description: "Cocina de juguete Minichef de madera pintada, 25 piezas.",
+      brand: { "@type": "Brand", name: "Minichef" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/cocina-minichef-pintada-juguete-madera-ninos-ninas-infantil/up/MLAU3331707022",
+        priceCurrency: "ARS",
+        price: "69900",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.7",
+        reviewCount: "102",
+      },
+    },
+  },
+  {
+    id: "MLA28571760",
+    title: "Juego De Cocinitas Infantiles De Juguete Petit Gourmet Color Multicolor",
+    canonicalName: "Cocina de Juguete Petit Gourmet",
+    brand: "Lionel's",
+    price: 22900,
+    originalPrice: 24900,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_910246-MLA109750491415_032026-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_910246-MLA109750491415_032026-O.webp"],
+    category: "Juguetes",
+    categorySlug: "juguetes",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA28571760",
+    affiliateUrl: "https://meli.la/1SfMDoF", // Link generado con el linkbuilder oficial (etiqueta productosvirales), 2026-10-24.
+    condition: "new",
+    freeShipping: true,
+    rating: 4.4,
+    reviewCount: 2642,
+    soldQuantity: 10000,
+    badge: "bestseller",
+    pastelColor: "var(--pastel-blue)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Lionel's (Petit Gourmet)" },
+      { label: "Color", value: "Amarillo / Verde" },
+      { label: "Material", value: "Plástico (lavable con agua y jabón)" },
+      { label: "Medidas", value: "32 × 47 × 19 cm (ancho × alto × profundidad)" },
+      { label: "Piezas", value: "24, entre ollas, sartén y alimentos de juguete" },
+      { label: "Luz o sonido", value: "No trae" },
+      { label: "Ranking en MercadoLibre Argentina", value: "10.º más vendido en Cocinas de Juguete (octubre 2026)" },
+    ],
+    relatedProducts: ["MLAU3331707022", "MLA62600376", "MLA66012182", "MLA56487348"],
+    priceUpdated: "2026-10-24",
+    priceLastChecked: "2026-10-24",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-10-24",
+    description: "Cocina de juguete Petit Gourmet con 24 piezas, estructura portátil. 10.ª más vendida de su categoría en MercadoLibre Argentina, con {{reviews:MLA28571760}} opiniones reales, la base más grande de esta comparativa.",
+    seoTitle: "Cocina de Juguete Petit Gourmet: la Más Económica",
+    metaDescription: "Cocina de juguete Petit Gourmet, 24 piezas, portátil. La más económica y con más reseñas de la categoría en Argentina: {{reviews:MLA28571760}} opiniones reales.",
+    verdict: "Sirve si buscás la cocina de juguete con más respaldo de compradores de esta comparativa: {{reviews:MLA28571760}} calificaciones reales a {{rating:MLA28571760}} estrellas, muy por encima de cualquier otra de las cinco. Es la más económica, con estructura portátil que no ocupa mucho lugar. Lo honesto: varias reseñas avisan que algunos accesorios (piezas de comida) son más chicos de lo esperado, y conviene sacarlos si hay chicos que todavía se llevan cosas a la boca. No es para vos si buscás algo más grande o con efectos de luz y sonido: para eso, la Cebra o la Mega Baby de esta misma guía.",
+    pros: [
+      "{{reviews:MLA28571760}} calificaciones reales a {{rating:MLA28571760}} estrellas, la base de reseñas más grande de esta comparativa, con diferencia",
+      "La más económica de las cinco de esta guía",
+      "Estructura portátil (32 × 47 × 19 cm), fácil de guardar en espacios reducidos",
+      "\"Una forma hermosa de darle una alegría a mí nieta que vive lejos de mí\", según una reseña real",
+    ],
+    cons: [
+      "Algunos accesorios (piezas de comida) son más chicos de lo esperado, según reseñas reales",
+      "No trae luz ni sonido",
+      "No es la más grande de esta comparativa (para eso, la Mega Baby)",
+    ],
+    articleBody: `## Qué es y para quién
+
+La cocina Petit Gourmet es un set de juego simbólico de plástico con 24 piezas (ollas, sartén y alimentos de juguete), 10.ª más vendida de toda la categoría Cocinas de Juguete en MercadoLibre Argentina, con {{reviews:MLA28571760}} calificaciones: la base de reseñas más grande de esta comparativa, con diferencia.
+
+## Cómo funciona
+
+Es una estructura portátil de 32 cm de ancho por 47 cm de alto y 19 cm de profundidad, pensada para espacios reducidos. El plástico se limpia con agua y jabón, e incluye herramientas de cocina (colador, espátula, rallador) para simular el uso de utensilios reales. No tiene luz ni sonido.
+
+## Lo que dicen los compradores reales
+
+"Una forma hermosa de darle una alegría a mí nieta que vive lejos de mí, gracias mercado libre y mercado pago" resume una reseña con 37 votos útiles. Otra compradora aclara el único punto flojo: "Ella feliz con su cocina! pensé que iba a ser un poquito más grande, algunos de los accesorios se los tuve que sacar por qué eran muy pequeños, pero resiste bastante los golpes."
+
+## Cómo se compara con las otras cocinas de esta guía
+
+Frente a la [Minichef](/producto/cocina-minichef-pintada-juguete-madera-ninos-ninas-infantil-mlau3331707022) o la [Mega Baby](/producto/cocinita-de-madera-mega-baby-multifuncion-pizarra-magica-luz-unico-mla66012182), la Petit Gourmet es la más económica de esta comparativa y, por lejos, la que más reseñas acumula: {{reviews:MLA28571760}}, muy por encima de cualquiera de las otras cuatro (la segunda base más grande es la de la [cocinita Duravit](/producto/cocinita-de-juguete-duravit-mi-cocina-con-horno-y-33-piezas-rosa-mla56487348), con {{reviews:MLA56487348}}). No tiene efectos de luz ni sonido como la [Cebra](/producto/mini-cocinita-infantil-con-luz-sonido-30-accesorios-multicolor-mla62600376).
+
+## Para quién sí y para quién no
+
+Comprá esta cocina si priorizás precio y el respaldo de más compradores reales. No es para vos si tenés chicos que todavía se llevan objetos pequeños a la boca (revisá los accesorios más chicos antes de dárselos) o si buscás algo más grande: para eso, la [Mega Baby](/producto/cocinita-de-madera-mega-baby-multifuncion-pizarra-magica-luz-unico-mla66012182) de esta misma guía.`,
+    faq: [
+      {
+        question: "¿Por qué la Petit Gourmet tiene tantas más reseñas que las otras cocinas de esta guía?",
+        answer: "Es la más económica y con más antigüedad en el mercado de las cinco, lleva vendida más de 10 mil unidades según su propia publicación, lo que explica la diferencia frente a modelos más nuevos o más caros.",
+      },
+      {
+        question: "¿Los accesorios son seguros para chicos chiquitos?",
+        answer: "Varias reseñas reales avisan que algunos accesorios (piezas de comida) son más chicos de lo esperado. Si hay chicos que todavía se llevan objetos a la boca, conviene sacar esas piezas antes de dárselas.",
+      },
+      {
+        question: "¿Trae luz o sonido?",
+        answer: "No, es un juguete de juego simbólico sin funciones electrónicas.",
+      },
+      {
+        question: "¿Es grande?",
+        answer: "Es compacta (32 × 47 × 19 cm), con estructura portátil pensada justamente para espacios reducidos.",
+      },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "2025", useful: 37, text: "Una forma hermosa de darle una alegría a mí nieta que vive lejos de mí, gracias mercado libre y mercado pago." },
+      { rating: 5, country: "Argentina", date: "2025", useful: 10, text: "Ella feliz con su cocina! pensé que iba a ser un poquito más grande, algunos de los accesorios se los tuve que sacar por qué eran muy pequeños, pero resiste bastante los golpes." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Cocina de Juguete Petit Gourmet",
+      image: ["https://http2.mlstatic.com/D_NQ_NP_910246-MLA109750491415_032026-O.webp"],
+      description: "Cocina de juguete Petit Gourmet, 24 piezas, estructura portátil.",
+      brand: { "@type": "Brand", name: "Lionel's" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/p/MLA28571760",
+        priceCurrency: "ARS",
+        price: "22900",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.4",
+        reviewCount: "2642",
+      },
+    },
+  },
+  {
+    id: "MLA62600376",
+    title: "Mini Cocinita Infantil Con Luz Sonido + 30 Accesorios Multicolor",
+    canonicalName: "Mini Cocinita Cebra con Luz y Sonido",
+    brand: "Cebra",
+    price: 41990,
+    originalPrice: 49990,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_655264-MLA99736507493_112025-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_655264-MLA99736507493_112025-O.webp"],
+    category: "Juguetes",
+    categorySlug: "juguetes",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA62600376",
+    affiliateUrl: "https://meli.la/2P4Dh9S", // Link generado con el linkbuilder oficial (etiqueta productosvirales), 2026-10-24.
+    condition: "new",
+    freeShipping: true,
+    rating: 4.5,
+    reviewCount: 154,
+    soldQuantity: 500,
+    badge: "bestseller",
+    pastelColor: "var(--pastel-amber)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Cebra" },
+      { label: "Modelo", value: "Mini" },
+      { label: "Color", value: "Multicolor" },
+      { label: "Material", value: "Plástico" },
+      { label: "Medidas", value: "36 × 30 × 13 cm" },
+      { label: "Luz o sonido", value: "Con luz y sonido (requiere pilas AA)" },
+      { label: "Ranking en MercadoLibre Argentina", value: "15.º más vendida en Cocinas de Juguete (octubre 2026)" },
+    ],
+    relatedProducts: ["MLAU3331707022", "MLA28571760", "MLA66012182", "MLA56487348"],
+    priceUpdated: "2026-10-24",
+    priceLastChecked: "2026-10-24",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-10-24",
+    description: "Mini cocinita Cebra con luz, sonido y efecto de vapor simulando agua real, 30 accesorios. 15.ª más vendida de su categoría en MercadoLibre Argentina, con {{reviews:MLA62600376}} opiniones reales.",
+    seoTitle: "Mini Cocinita Cebra: con Luz, Sonido y Vapor",
+    metaDescription: "Mini cocinita Cebra con luz, sonido y efecto de vapor, 30 accesorios. 15.ª más vendida en Argentina, con {{reviews:MLA62600376}} opiniones reales.",
+    verdict: "Sirve si buscás la única cocina de juguete de esta comparativa con luz, sonido y un efecto de vapor que simula agua real en la canilla: {{reviews:MLA62600376}} calificaciones reales a {{rating:MLA62600376}} estrellas. Lo honesto: varias reseñas avisan que es más chica de lo que aparenta en las fotos (\"es re mini\"), así que si buscás algo de tamaño real para que el chico se pare a jugar, no es la opción. No es para vos si priorizás tamaño por sobre efectos: para eso, la Mega Baby de esta misma guía.",
+    pros: [
+      "La única de esta comparativa con efecto de vapor simulando agua real en la canilla, además de luz y sonido",
+      "{{reviews:MLA62600376}} calificaciones reales a {{rating:MLA62600376}} estrellas",
+      "30 accesorios incluidos",
+      "\"Hermosa la cocina tiene luces y sale humo como si fuera que estas cocinando real\", según una reseña real",
+    ],
+    cons: [
+      "Varias reseñas avisan que es más chica de lo que parece en las fotos (\"es re mini\")",
+      "Requiere pilas AA, no incluidas",
+      "Base de reseñas intermedia ({{reviews:MLA62600376}}), menos que la Petit Gourmet",
+    ],
+    articleBody: `## Qué es y para quién
+
+La mini cocinita Cebra es un set de juego simbólico de plástico con luz, sonido y un efecto de vapor que simula agua real saliendo de la canilla, 30 accesorios incluidos, 15.ª más vendida de toda la categoría Cocinas de Juguete en MercadoLibre Argentina, con {{reviews:MLA62600376}} calificaciones.
+
+## Cómo funciona
+
+Mide 36 × 30 × 13 cm, funciona a pilas AA (no incluidas) y tiene luz, sonido y el efecto de vapor en la zona de la canilla, pensado para imitar el agua corriendo. Es la única de esta comparativa con esa combinación de efectos.
+
+## Lo que dicen los compradores reales
+
+"Hermosa la cocina tiene luces y sale humo como si fuera que estas cocinando real muy lindaaa ami nena le encanto" resume una reseña reciente. Pero el tamaño es el punto a tener en cuenta: "Es lo que muestra en imagen pensé que era más grande" y "Es re mini" son quejas que se repiten en las reseñas.
+
+## Cómo se compara con las otras cocinas de esta guía
+
+Frente a la [Petit Gourmet](/producto/juego-de-cocinitas-infantiles-de-juguete-petit-gourmet-color-multicolor-mla28571760) o la [Minichef](/producto/cocina-minichef-pintada-juguete-madera-ninos-ninas-infantil-mlau3331707022), que no tienen luz ni sonido, la Cebra es la única con esos efectos más el vapor simulado. A cambio, varias reseñas confirman que es notablemente más chica que las demás de esta comparativa.
+
+## Para quién sí y para quién no
+
+Comprá esta cocinita si priorizás los efectos (luz, sonido, vapor) por sobre el tamaño, para chicos más chicos que juegan sentados. No es para vos si buscás que el chico se pare a jugar como en una cocina de tamaño real: para eso, la [Mega Baby](/producto/cocinita-de-madera-mega-baby-multifuncion-pizarra-magica-luz-unico-mla66012182) de esta misma guía.`,
+    faq: [
+      {
+        question: "¿Es realmente de tamaño chico?",
+        answer: "Sí, varias reseñas reales avisan que es más chica de lo que aparenta en las fotos (\"es re mini\"). Pensala para que el chico juegue sentado, no parado como en una cocina de tamaño real.",
+      },
+      {
+        question: "¿Qué efectos tiene la luz y el sonido?",
+        answer: "Tiene luz, sonido y un efecto de vapor que simula agua real saliendo de la canilla. Es la única de esta comparativa con esa combinación.",
+      },
+      {
+        question: "¿Necesita pilas?",
+        answer: "Sí, pilas AA, no incluidas en la caja.",
+      },
+      {
+        question: "¿Cuántos accesorios trae?",
+        answer: "30 accesorios incluidos.",
+      },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "2026", useful: 1, text: "Hermosa la cocina tiene luces y sale humo como si fuera que estas cocinando real muy lindaaa ami nena le encanto." },
+      { rating: 5, country: "Argentina", date: "2025", useful: 3, text: "Es lo que muestra en imagen pensé que era más grande." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Mini Cocinita Cebra con Luz y Sonido",
+      image: ["https://http2.mlstatic.com/D_NQ_NP_655264-MLA99736507493_112025-O.webp"],
+      description: "Mini cocinita Cebra con luz, sonido y efecto de vapor, 30 accesorios.",
+      brand: { "@type": "Brand", name: "Cebra" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/p/MLA62600376",
+        priceCurrency: "ARS",
+        price: "41990",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.5",
+        reviewCount: "154",
+      },
+    },
+  },
+  {
+    id: "MLA66012182",
+    title: "Cocinita De Madera Mega Baby Multifunción Pizarra Mágica Luz Unico",
+    canonicalName: "Cocinita de Madera Mega Baby Multifunción",
+    brand: "Mega Baby",
+    price: 200816,
+    originalPrice: 236255,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_602213-MLA117089193965_092026-O.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_602213-MLA117089193965_092026-O.webp"],
+    category: "Juguetes",
+    categorySlug: "juguetes",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA66012182",
+    affiliateUrl: "https://meli.la/1myqgsP", // Link generado con el linkbuilder oficial (etiqueta productosvirales), 2026-10-24.
+    condition: "new",
+    freeShipping: true,
+    rating: 4.9,
+    reviewCount: 23,
+    soldQuantity: 100,
+    badge: "bestseller",
+    pastelColor: "var(--pastel-purple)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Mega Baby" },
+      { label: "Color", value: "Único (blanco)" },
+      { label: "Material", value: "Madera, 8mm de espesor" },
+      { label: "Medidas declaradas por el vendedor", value: "95 cm de alto × 70 cm de ancho" },
+      { label: "Medidas según reseñas reales", value: "Aprox. 1 m de ancho × 1,10 m de alto (mayores a las declaradas)" },
+      { label: "Funciones", value: "Heladera con dispenser, lavarropas con puertas abatibles, hornallas con luz, pizarra mágica de dibujo y borrado" },
+      { label: "Luz o sonido", value: "Con luz y sonido (requiere pilas)" },
+      { label: "Garantía de fábrica", value: "1 mes" },
+      { label: "Ranking en MercadoLibre Argentina", value: "3.º más vendida en Cocinas de Juguete (octubre 2026)" },
+    ],
+    relatedProducts: ["MLAU3331707022", "MLA28571760", "MLA62600376", "MLA56487348"],
+    priceUpdated: "2026-10-24",
+    priceLastChecked: "2026-10-24",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-10-24",
+    description: "Cocinita de madera Mega Baby multifunción, con heladera, lavarropas y pizarra mágica, luz y sonido. 3.ª más vendida de su categoría en MercadoLibre Argentina, con {{rating:MLA66012182}} estrellas.",
+    seoTitle: "Cocinita Mega Baby Multifunción: la Premium en Argentina",
+    metaDescription: "Cocinita de madera Mega Baby con heladera, lavarropas y pizarra mágica, luz y sonido. 3.ª más vendida en Argentina, {{rating:MLA66012182}} estrellas.",
+    verdict: "Sirve si buscás la cocina de juguete más completa de esta comparativa: de madera, con heladera con dispenser, lavarropas con puertas abatibles, hornallas con luz y una pizarra mágica integrada para dibujar. {{rating:MLA66012182}} estrellas, aunque con una base de reseñas chica ({{reviews:MLA66012182}}), lo decimos de frente. Un dato de honestidad importante: varias reseñas reales confirman que el tamaño armado es más grande que el declarado por el vendedor (cerca de 1 metro de ancho por 1,10 de alto, contra los 95 × 70cm que figuran en la ficha), y el armado lleva alrededor de 2 horas. Es, por lejos, la más cara de esta comparativa. No es para vos si buscás algo compacto o económico: para eso, cualquiera de las otras cuatro de esta guía.",
+    pros: [
+      "La más completa de esta comparativa: heladera con dispenser, lavarropas con puertas abatibles, hornallas con luz y pizarra mágica integrada",
+      "{{rating:MLA66012182}} estrellas, la calificación más alta de esta comparativa (base chica: {{reviews:MLA66012182}} opiniones)",
+      "Es de madera, no de plástico",
+      "\"Excelente! es preciosa, completa y de buena calidad\", según una reseña real",
+    ],
+    cons: [
+      "Es, por lejos, la más cara de esta comparativa",
+      "El tamaño armado real es mayor al declarado por el vendedor, según reseñas reales (cerca de 1m de ancho × 1,10m de alto, contra 95 × 70cm en la ficha)",
+      "El armado lleva alrededor de 2 horas, según reseñas reales",
+      "Base de reseñas la más chica de esta comparativa ({{reviews:MLA66012182}} calificaciones)",
+    ],
+    articleBody: `## Qué es y para quién
+
+La cocinita Mega Baby es la opción premium de esta comparativa: de madera de 8mm de espesor, con heladera con dispenser funcional, lavarropas con puertas abatibles, hornallas con luz y una pizarra mágica integrada que permite dibujar y borrar repetidamente. Es 3.ª más vendida de toda la categoría Cocinas de Juguete en MercadoLibre Argentina, con {{rating:MLA66012182}} estrellas.
+
+## El tamaño, aclarado con honestidad
+
+La ficha del vendedor declara 95 cm de alto por 70 cm de ancho, pero varias reseñas reales de compradores describen un tamaño armado mayor: cerca de 1 metro de ancho por 1,10 metro de alto. Una compradora incluso tuvo que armar un suplemento y elevarla 18 cm más para adaptarla a su hija. No inventamos este dato, sale directamente de las reseñas reales: antes de comprar, conviene medir el espacio disponible pensando en el tamaño que reportan los compradores, no solo el declarado en la ficha.
+
+## Lo que dicen los compradores reales
+
+"Excelente! es preciosa, completa y de buena calidad. Cuesta un poco armarla porque lleva tiempo pero es tan hermosa que vale la pena la paciencia del armado" resume el tono general. Otra reseña, de 4 estrellas, aporta el dato del tamaño: "Está muy completa y con la guía, se arma unas 2 hs!! el tamaño que no lo informan es de 1 mts x 1,10 alto, le tuve que armar un suplemento y elevarla unos 18 cm, así quedó bien."
+
+## Cómo se compara con las otras cocinas de esta guía
+
+Frente a la [Petit Gourmet](/producto/juego-de-cocinitas-infantiles-de-juguete-petit-gourmet-color-multicolor-mla28571760) (la más económica) o la [Cebra](/producto/mini-cocinita-infantil-con-luz-sonido-30-accesorios-multicolor-mla62600376) (la más chica), la Mega Baby es, por lejos, la más cara y la más completa: ninguna otra de esta comparativa tiene heladera, lavarropas y pizarra mágica en un solo mueble.
+
+## Para quién sí y para quién no
+
+Comprá esta cocinita si buscás la opción más completa y tenés el espacio y el presupuesto para una cocina de juguete grande. No es para vos si buscás algo compacto o económico: para eso, la [Petit Gourmet](/producto/juego-de-cocinitas-infantiles-de-juguete-petit-gourmet-color-multicolor-mla28571760) de esta misma guía.`,
+    faq: [
+      {
+        question: "¿El tamaño real coincide con el declarado en la ficha?",
+        answer: "No del todo. El vendedor declara 95 × 70cm, pero varias reseñas reales de compradores reportan un tamaño armado mayor, cerca de 1 metro de ancho por 1,10 de alto. Conviene medir el espacio pensando en ese tamaño, no solo en el declarado.",
+      },
+      {
+        question: "¿Cuánto tarda en armarse?",
+        answer: "Alrededor de 2 horas, según reseñas reales de compradores que siguieron la guía incluida.",
+      },
+      {
+        question: "¿Qué funciones tiene?",
+        answer: "Heladera con dispenser funcional, lavarropas con puertas abatibles, hornallas con luz y una pizarra mágica integrada para dibujar y borrar.",
+      },
+      {
+        question: "¿Por qué es tan cara comparada con las otras de esta guía?",
+        answer: "Es la más completa y de mayor tamaño: combina varias funciones (heladera, lavarropas, hornallas, pizarra) que ninguna otra cocina de esta comparativa tiene juntas, y es de madera en vez de plástico.",
+      },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "2026", useful: 2, text: "Excelente! es preciosa, completa y de buena calidad. Cuesta un poco armarla porque lleva tiempo pero es tan hermosa que vale la pena la paciencia del armado." },
+      { rating: 4, country: "Argentina", date: "2026", useful: 11, text: "Está muy completa y con la guía, se arma unas 2 hs!! el tamaño que no lo informan es de 1 mts x 1,10 alto, le tuve que armar un suplemento y elevarla unos 18 cm, así quedó bien para una nena." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Cocinita de Madera Mega Baby Multifunción",
+      image: ["https://http2.mlstatic.com/D_NQ_NP_602213-MLA117089193965_092026-O.webp"],
+      description: "Cocinita de madera Mega Baby con heladera, lavarropas, hornallas y pizarra mágica, luz y sonido.",
+      brand: { "@type": "Brand", name: "Mega Baby" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/p/MLA66012182",
+        priceCurrency: "ARS",
+        price: "200816",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.9",
+        reviewCount: "23",
       },
     },
   },
