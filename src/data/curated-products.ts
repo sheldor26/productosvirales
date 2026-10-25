@@ -110361,7 +110361,7 @@ No es para vos si buscás más seguridad mecánica al mejor precio: la Kallay 40
       { label: "Colores disponibles en esta publicación", value: "Azul, Burdeos, Negro, Plateado" },
       { label: "Condición", value: "Nuevo, sellado, con garantía del vendedor" },
     ],
-    relatedProducts: ["MLAU5285018599"],
+    relatedProducts: ["MLAU5285018599", "MLAU5284864525", "MLAU5585094174"],
     reviewsSampledAt: "2026-10-25",
     verdict: "El iPhone 18 Pro recién llegó a MercadoLibre Argentina de la mano de revendedores, no de un distribuidor oficial de Apple: hoy no existe esa figura en el país para la línea 18 (sí para la 17 y la 16). Este ejemplar lo vende camredtecnology, una tienda con más de 6.700 calificaciones en su catálogo general (Nintendo Switch 2, PlayStation 5 Pro, Samsung Galaxy S25 Ultra), aunque esta publicación puntual del iPhone 18 Pro todavía no tiene opiniones propias por ser tan nueva. El chip real es el A20 Pro, no el que dice la ficha de MercadoLibre. El precio de hoy es de mercado de importador: es esperable que baje si Apple suma un distribuidor oficial en Argentina más adelante.",
     pros: [
@@ -110458,7 +110458,7 @@ Esta publicación la vende camredtecnology, una tienda con 4.9 estrellas y más 
       { label: "Colores disponibles en esta publicación", value: "Azul, Negro, Plateado" },
       { label: "Condición", value: "Nuevo, sellado, con garantía del vendedor" },
     ],
-    relatedProducts: ["MLAU5324238070"],
+    relatedProducts: ["MLAU5324238070", "MLAU5585094174", "MLAU5284864525"],
     customerReviews: [
       { rating: 5, date: "2026-10", country: "Argentina", text: "Al momento perfecto.", useful: 0 },
     ],
@@ -110522,6 +110522,222 @@ La vende la misma tienda que el Pro de esta comparativa, camredtecnology (4.9 es
         reviewCount: "2",
         bestRating: "5",
         worstRating: "1",
+      },
+    },
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // iPhone 18 Pro 512GB / Pro Max 256GB — sourcing en vivo
+  // 2026-10-25, a pedido de Juan de sumar "los demás modelos"
+  // (otras capacidades) tras publicar la guía con Pro 256GB y Pro
+  // Max 512GB. El Pro 512GB es del mismo vendedor camredtecnology.
+  // El Pro Max 256GB es de un vendedor NUEVO, tecnoimex: también
+  // verificado en vivo (4.9★, más de 6.700 calificaciones en su catálogo
+  // general, insignia MercadoLíder, +1.100 seguidores, +500
+  // productos — vende Nintendo Switch 2, PS5 Pro, Galaxy S25 Ultra,
+  // iPhone 17 Pro Max). Se descartó un tercer candidato para la
+  // variante 1TB (vendedor LUXDUTYFREE, +25 ventas, catálogo
+  // mezclado de perfumes/ropa usada con solo 2 iPhones entre 24
+  // publicaciones) por no cumplir la misma barra de confianza.
+  // ─────────────────────────────────────────────────────────
+  {
+    id: "MLAU5284864525",
+    title: "Apple iPhone 18 Pro 512GB",
+    canonicalName: "iPhone 18 Pro 512GB",
+    brand: "Apple",
+    price: 4199999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_955099-MLA118334866933_092026-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_955099-MLA118334866933_092026-F.webp",
+    ],
+    category: "Tech",
+    categorySlug: "tech",
+    permalink: "https://www.mercadolibre.com.ar/apple-iphone-1-8-pro-512gb-sellado-con-garantia/up/MLAU5284864525",
+    affiliateUrl: "https://meli.la/16yPxZp",
+    condition: "new",
+    freeShipping: true,
+    rating: 5.0,
+    reviewCount: 1,
+    soldQuantity: 3,
+    priceUpdated: "2026-10-25",
+    priceLastChecked: "2026-10-25",
+    priceStatus: "fresh",
+    visibility: "normal",
+    seoTitle: "iPhone 18 Pro 512GB en Argentina: precio y specs reales",
+    metaDescription: "iPhone 18 Pro 512GB a {{precio:MLAU5284864525}} en MercadoLibre, {{rating:MLAU5284864525}}★. La versión de mayor capacidad del Pro, con vendedor verificado.",
+    description: "iPhone 18 Pro, 512GB, chip A20 Pro. Calificaciones reales, con un promedio de {{rating:MLAU5284864525}} estrellas. Comprado hoy en Argentina a través de un revendedor, no de un distribuidor oficial de Apple.",
+    specs: [
+      { label: "Marca", value: "Apple" },
+      { label: "Modelo", value: "iPhone 18 Pro" },
+      { label: "Chip", value: "A20 Pro, con refrigeración por vapor (la ficha de MercadoLibre de esta publicación dice \"Apple A16 Bionic\": es un error de carga del vendedor, el A16 es el chip del iPhone 15 Pro de 2023, dos generaciones atrás. El real es el A20 Pro, confirmado por Apple Support)" },
+      { label: "Memoria interna", value: "512 GB" },
+      { label: "Memoria RAM", value: "12 GB" },
+      { label: "Cámara principal", value: "Fusion de 48 Mpx con apertura variable, según Apple" },
+      { label: "Sistema operativo", value: "iOS" },
+      { label: "Batería", value: "Hasta 34 horas de reproducción de video; hasta 50% de carga en unos 15 minutos, según Apple. Apple no la destaca en su página de specs, pero sí la publica en la etiqueta energética europea (obligatoria por ley en la UE): 4.056 mAh" },
+      { label: "Conectividad", value: "5G, 1 eSIM, sin Dual SIM físico" },
+      { label: "Colores disponibles en esta publicación", value: "Azul, Burdeos, Negro, Plateado" },
+      { label: "Condición", value: "Nuevo, sellado, con garantía del vendedor" },
+    ],
+    relatedProducts: ["MLAU5324238070", "MLAU5285018599", "MLAU5585094174"],
+    customerReviews: [
+      { rating: 5, date: "2026-10", country: "Argentina", text: "Cámara: un lujo. Batería: es lo único que siempre está en deuda. Que se puede decir que no se sepa, es lo mejor del mercado.", useful: 0 },
+    ],
+    reviewsSampledAt: "2026-10-25",
+    verdict: "El iPhone 18 Pro 512GB es la versión de mayor capacidad del Pro de esta comparativa, del mismo vendedor camredtecnology (4.9 estrellas, más de 6.700 calificaciones en su catálogo general). Como el resto de la línea 18, llegó a Argentina por un revendedor, no por un distribuidor oficial de Apple. Ya tiene calificaciones reales, con un promedio de {{rating:MLAU5284864525}} estrellas, que destacan la cámara pero marcan la batería como un punto flojo. El chip real es el A20 Pro, no el que figura en la ficha técnica de MercadoLibre.",
+    pros: [
+      "Chip real A20 Pro (fabricado en 2 nanómetros, con refrigeración por vapor), corrigiendo el dato erróneo de la ficha de MercadoLibre",
+      "El doble de almacenamiento que la versión de 256GB de esta comparativa",
+      "Vendido por camredtecnology: 4.9 estrellas en más de 6.700 calificaciones de su catálogo general",
+      "Calificaciones reales con un promedio de {{rating:MLAU5284864525}} estrellas, que destacan la cámara",
+      "4 colores disponibles en esta publicación: Azul, Burdeos, Negro y Plateado",
+    ],
+    cons: [
+      "Todavía no hay distribuidor oficial de Apple para la línea 18 en Argentina: lo que hay en MercadoLibre son revendedores/importadores",
+      "{{preciodif:MLAU5284864525:MLAU5324238070}} más caro que la versión de 256GB de esta comparativa, por el doble de almacenamiento",
+      "Las reseñas reales disponibles hasta ahora marcan la batería como un punto en deuda, aunque elogian el resto del equipo",
+      "La ficha técnica de MercadoLibre carga mal el procesador (dice A16 Bionic)",
+    ],
+    articleBody: `## Qué es y en qué contexto se compra hoy
+
+El iPhone 18 Pro 512GB es la versión de mayor almacenamiento del [iPhone 18 Pro](/producto/apple-iphone-18-pro-256gb-mlau5324238070) de esta comparativa, del mismo vendedor, camredtecnology. Como el resto de la línea 18, en Argentina hoy se consigue solo a través de revendedores: todavía no hay distribuidor oficial de Apple en el país para esta generación.
+
+## El chip real (y el error de la ficha de MercadoLibre)
+
+Igual que en la versión de 256GB, la ficha técnica de esta publicación dice "Apple A16 Bionic" en el campo de procesador: un error de carga del vendedor. El chip real es el **A20 Pro**, fabricado en 2 nanómetros con refrigeración por vapor, confirmado por Apple Support.
+
+## Las primeras reseñas reales
+
+Esta publicación ya tiene calificaciones reales, con un promedio de {{rating:MLAU5284864525}} estrellas: "Cámara: un lujo. Batería: es lo único que siempre está en deuda. Que se puede decir que no se sepa, es lo mejor del mercado." Es una base todavía chica, pero marca de entrada algo honesto: la cámara convence, la batería es el punto que más se cuestiona, coherente con lo que reportan otras reviews reales de la línea 18 Pro.
+
+## Para quién tiene sentido pagar más por 512GB
+
+Frente al [iPhone 18 Pro 256GB](/producto/apple-iphone-18-pro-256gb-mlau5324238070) de esta comparativa, la diferencia es solo almacenamiento: mismo chip, misma cámara, misma batería declarada. Tiene sentido si grabás mucho video 4K, viajás con poca conectividad a la nube, o simplemente no querés preocuparte nunca por el espacio.`,
+    faq: [
+      { question: "¿Cuál es el chip real del iPhone 18 Pro 512GB?", answer: "El A20 Pro, con refrigeración por vapor. La ficha técnica de esta publicación en MercadoLibre dice \"Apple A16 Bionic\" por error: ese es el chip del iPhone 15 Pro de 2023, no el del 18 Pro." },
+      { question: "¿Qué diferencia tiene con la versión de 256GB?", answer: "Solo el almacenamiento: mismo chip, cámara y batería declarada que el iPhone 18 Pro 256GB de esta comparativa. Cuesta {{preciodif:MLAU5284864525:MLAU5324238070}} más." },
+      { question: "¿Tiene opiniones reales?", answer: "Sí, ya tiene calificaciones reales ({{rating:MLAU5284864525}} estrellas) que destacan la cámara pero marcan la batería como punto flojo. Es una base todavía chica por ser una publicación nueva." },
+      { question: "¿Es confiable el vendedor?", answer: "camredtecnology tiene 4.9 estrellas en más de 6.700 calificaciones de su catálogo general (Nintendo Switch 2, PS5 Pro, Galaxy S25 Ultra, entre otros), el mismo vendedor que el iPhone 18 Pro 256GB de esta comparativa." },
+      { question: "¿Qué colores tiene disponibles esta publicación?", answer: "Azul, Burdeos, Negro y Plateado." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "iPhone 18 Pro 512GB",
+      description: "iPhone 18 Pro, 512GB, chip A20 Pro, cámara Fusion de 48 Mpx.",
+      brand: { "@type": "Brand", name: "Apple" },
+      sku: "MLAU5284864525",
+      category: "Celulares",
+      image: "https://http2.mlstatic.com/D_NQ_NP_955099-MLA118334866933_092026-F.webp",
+      url: "https://productosvirales.com.ar/producto/apple-iphone-18-pro-512gb-mlau5284864525",
+      offers: {
+        "@type": "Offer",
+        priceCurrency: "ARS",
+        price: "4199999",
+        availability: "https://schema.org/InStock",
+        seller: { "@type": "Organization", name: "MercadoLibre Argentina" },
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "5.0",
+        reviewCount: "1",
+        bestRating: "5",
+        worstRating: "1",
+      },
+    },
+  },
+  {
+    id: "MLAU5585094174",
+    title: "Apple iPhone 18 Pro Max 256GB",
+    canonicalName: "iPhone 18 Pro Max 256GB",
+    brand: "Apple",
+    price: 4789000,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_835792-MLA119686016987_102026-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_835792-MLA119686016987_102026-F.webp",
+    ],
+    category: "Tech",
+    categorySlug: "tech",
+    permalink: "https://www.mercadolibre.com.ar/apple-iphone-1-8-pro-max-256gb-12gb-ram/up/MLAU5585094174",
+    affiliateUrl: "https://meli.la/2RJQmi9",
+    condition: "new",
+    freeShipping: true,
+    priceUpdated: "2026-10-25",
+    priceLastChecked: "2026-10-25",
+    priceStatus: "fresh",
+    visibility: "normal",
+    seoTitle: "iPhone 18 Pro Max 256GB en Argentina: precio y specs reales",
+    metaDescription: "iPhone 18 Pro Max 256GB a {{precio:MLAU5585094174}} en MercadoLibre. Ojo: hoy cuesta más que la versión de 512GB de otro vendedor, te lo contamos de frente.",
+    description: "iPhone 18 Pro Max, 256GB, chip A20 Pro. Comprado hoy en Argentina a través de un revendedor, no de un distribuidor oficial de Apple.",
+    specs: [
+      { label: "Marca", value: "Apple" },
+      { label: "Modelo", value: "iPhone 18 Pro Max" },
+      { label: "Chip", value: "A20 Pro, con refrigeración por vapor, según Apple" },
+      { label: "Memoria interna", value: "256 GB" },
+      { label: "Memoria RAM", value: "12 GB" },
+      { label: "Cámara principal", value: "Fusion de 48 Mpx con apertura variable, según Apple" },
+      { label: "Sistema operativo", value: "iOS" },
+      { label: "Batería", value: "Hasta 43 horas de reproducción de video; hasta 50% de carga en unos 15 minutos, según Apple. Apple no la destaca en su página de specs, pero sí la publica en la etiqueta energética europea (obligatoria por ley en la UE): 5.391 mAh (versión con SIM física)" },
+      { label: "Conectividad", value: "5G, 1 eSIM, sin Dual SIM físico" },
+      { label: "Colores disponibles en esta publicación", value: "Azul, Negro, Plateado" },
+      { label: "Condición", value: "Nuevo, sellado, con garantía del vendedor" },
+    ],
+    relatedProducts: ["MLAU5285018599", "MLAU5324238070", "MLAU5284864525"],
+    reviewsSampledAt: "2026-10-25",
+    verdict: "El iPhone 18 Pro Max 256GB es la entrada a la línea Pro Max de esta comparativa, con toda la pantalla y batería del Pro Max. Ojo con el precio: hoy cuesta {{preciodif:MLAU5585094174:MLAU5285018599}} más que la versión de 512GB de esta misma comparativa (de otro vendedor), pese a tener la mitad del almacenamiento. Es una rareza real del mercado de revendedores, no un error nuestro: cada uno pone su propio margen. Si el precio te importa, hoy conviene más la versión de 512GB. Lo vende tecnoimex, un vendedor nuevo en esta guía pero con trayectoria sólida: 4.9 estrellas en más de 6.700 calificaciones de su catálogo general, insignia MercadoLíder (\"uno de los mejores del sitio\" según MercadoLibre), más de 1.100 seguidores. Esta publicación puntual todavía no tiene opiniones propias por ser nueva.",
+    pros: [
+      "Chip real A20 Pro (fabricado en 2 nanómetros, con refrigeración por vapor), según Apple",
+      "Toda la pantalla y batería del Pro Max (hasta 43 horas de video)",
+      "Vendido por tecnoimex: 4.9 estrellas en más de 6.700 calificaciones de su catálogo general, insignia MercadoLíder",
+      "3 colores disponibles en esta publicación: Azul, Negro y Plateado",
+    ],
+    cons: [
+      "Todavía no hay distribuidor oficial de Apple para la línea 18 en Argentina: lo que hay en MercadoLibre son revendedores/importadores",
+      "Cuesta {{preciodif:MLAU5585094174:MLAU5285018599}} más que la versión de 512GB de esta comparativa (de otro vendedor), pese a tener la mitad del almacenamiento: conviene comparar precio antes de elegir por capacidad",
+      "Esta publicación puntual todavía no tiene opiniones propias por ser tan nueva",
+      "256GB puede quedarse corto si grabás mucho video 4K o viajás con poca conectividad a la nube",
+      "El precio de hoy es de mercado de importador, no de una lista oficial de Apple Argentina",
+    ],
+    articleBody: `## Qué es y en qué contexto se compra hoy
+
+El iPhone 18 Pro Max 256GB es la puerta de entrada a la línea Pro Max de esta comparativa: toda la pantalla y batería del Pro Max. Como el resto de la línea 18, en Argentina hoy se consigue solo a través de revendedores, no de un distribuidor oficial de Apple.
+
+## El vendedor
+
+A diferencia de las otras 3 fichas de esta comparativa, esta la vende **tecnoimex**, un vendedor nuevo en esta guía pero con una trayectoria sólida y comparable: 4.9 estrellas en más de 6.700 calificaciones de su catálogo general, insignia MercadoLíder ("uno de los mejores del sitio" según la propia MercadoLibre), más de 1.100 seguidores y más de 500 productos publicados, entre ellos Nintendo Switch 2, PlayStation 5 Pro, Samsung Galaxy S25 Ultra y iPhone 17 Pro Max. Esta publicación puntual del iPhone 18 Pro Max todavía no acumuló sus propias opiniones por ser tan nueva.
+
+## Qué suma frente al Pro
+
+Frente al [iPhone 18 Pro 256GB](/producto/apple-iphone-18-pro-256gb-mlau5324238070) de esta comparativa, la diferencia real es pantalla y batería más grandes: hasta 43 horas de reproducción de video contra las 34 del Pro, según Apple. Frente al [iPhone 18 Pro Max 512GB](/producto/apple-iphone-18-pro-max-512gb-mlau5285018599) de esta comparativa, la diferencia de capacidad es la esperable (la mitad de almacenamiento), pero el precio no: esta versión cuesta {{preciodif:MLAU5585094174:MLAU5285018599}} MÁS, pese a tener menos GB. Es una rareza real del mercado de revendedores (cada vendedor pone su propio margen), no un error nuestro, pero conviene saberlo antes de elegir.
+
+## Para quién tiene sentido, con esta salvedad de precio
+
+Comprá esta versión si querés toda la experiencia Pro Max (pantalla y batería grandes) y 256GB te alcanza. Pero antes de decidirte, compará: hoy, la versión de [512GB de esta comparativa](/producto/apple-iphone-18-pro-max-512gb-mlau5285018599) sale más barata pese a tener el doble de espacio. Si grabás mucho video 4K o viajás seguido con poca conectividad a la nube, esa versión te conviene en los dos sentidos.`,
+    faq: [
+      { question: "¿Cuál es el chip real del iPhone 18 Pro Max 256GB?", answer: "El A20 Pro, con refrigeración por vapor, confirmado por Apple." },
+      { question: "¿Qué diferencia tiene con la versión de 512GB?", answer: "El almacenamiento (la mitad), pero ojo con el precio: esta versión de 256GB cuesta {{preciodif:MLAU5585094174:MLAU5285018599}} MÁS que la de 512GB de esta comparativa (de otro vendedor), no menos. Es una rareza real del mercado de revendedores, no un error nuestro: conviene comparar antes de elegir por capacidad." },
+      { question: "¿Es confiable el vendedor?", answer: "tecnoimex tiene 4.9 estrellas en más de 6.700 calificaciones de su catálogo general, insignia MercadoLíder (\"uno de los mejores del sitio\"), más de 1.100 seguidores y más de 500 productos publicados. Esta publicación puntual todavía no tiene opiniones propias por ser nueva." },
+      { question: "¿Qué colores tiene disponibles esta publicación?", answer: "Azul, Negro y Plateado." },
+      { question: "¿Hay distribuidor oficial de Apple en Argentina para el iPhone 18?", answer: "No todavía. Hoy, en MercadoLibre, las publicaciones del iPhone 18 son de revendedores/importadores, a diferencia del iPhone 17 y el 16, que sí tienen tienda oficial Apple." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "iPhone 18 Pro Max 256GB",
+      description: "iPhone 18 Pro Max, 256GB, chip A20 Pro, cámara Fusion de 48 Mpx.",
+      brand: { "@type": "Brand", name: "Apple" },
+      sku: "MLAU5585094174",
+      category: "Celulares",
+      image: "https://http2.mlstatic.com/D_NQ_NP_835792-MLA119686016987_102026-F.webp",
+      url: "https://productosvirales.com.ar/producto/apple-iphone-18-pro-max-256gb-mlau5585094174",
+      offers: {
+        "@type": "Offer",
+        priceCurrency: "ARS",
+        price: "4789000",
+        availability: "https://schema.org/InStock",
+        seller: { "@type": "Organization", name: "MercadoLibre Argentina" },
       },
     },
   },
