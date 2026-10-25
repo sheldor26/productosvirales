@@ -86,7 +86,9 @@ export default function MetodologiaPage() {
       <p className="text-base text-[var(--text-secondary)] leading-relaxed">
         Los precios del catálogo se re-verifican contra MercadoLibre varias
         veces por semana con un proceso automatizado, no a mano producto por
-        producto. Cada ficha muestra la fecha de la última verificación.
+        producto. La mayoría de las fichas muestra la fecha de la última
+        verificación; en casos puntuales (fichas de reserva que se usan solo
+        mientras el producto principal está sin stock) ese dato puede faltar.
       </p>
       <p className="text-base text-[var(--text-secondary)] leading-relaxed">
         Cuando alguien de nuestro equipo verifica un precio a mano en vivo
@@ -101,12 +103,12 @@ export default function MetodologiaPage() {
         Qué pasa cuando un producto se queda sin stock
       </h2>
       <p className="text-base text-[var(--text-secondary)] leading-relaxed">
-        Cuando detectamos que un producto recomendado se agotó o la
-        publicación se dio de baja, lo sacamos de las guías que lo
-        mencionaban y lo reemplazamos por una alternativa real con stock
-        vigente. La ficha vieja se marca para que no aparezca en listados ni
-        en buscadores: no queremos recomendar un producto fantasma que ya no
-        se puede comprar.
+        El chequeo de precios automatizado marca la ficha como sin stock, pero
+        sacarla de las guías que la mencionaban y reemplazarla por una
+        alternativa real es un paso editorial que hace nuestro equipo: no es
+        instantáneo, puede tardar en detectarse. Cuando lo hacemos, la ficha
+        vieja se marca para que no aparezca en listados ni en buscadores: no
+        queremos recomendar un producto fantasma que ya no se puede comprar.
       </p>
 
       <h2 className="text-xl font-bold text-[var(--text-primary)] mt-6">

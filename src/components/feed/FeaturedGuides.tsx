@@ -6,7 +6,7 @@ import { guideHref } from "@/lib/guide-url";
 import { getGuideThumbnail } from "@/lib/guide-thumbnail";
 import { toPlainText } from "@/lib/parse-inline-links";
 
-function GuideCard({ guide, priority }: { guide: Guide; priority?: boolean }) {
+function GuideCard({ guide }: { guide: Guide }) {
   const thumbnail = getGuideThumbnail(guide);
   const title = guide.ogTitle || guide.title;
   // `ogDescription` no pasa por injectLivePrices (igual que en /guias), así que
@@ -25,7 +25,6 @@ function GuideCard({ guide, priority }: { guide: Guide; priority?: boolean }) {
             alt={thumbnail.alt}
             width={thumbnail.width}
             height={thumbnail.height}
-            preload={priority}
             className={`w-full h-full ${thumbnail.fit === "contain" ? "object-contain p-3" : "object-cover"}`}
           />
         </div>
@@ -82,8 +81,8 @@ export function FeaturedGuides({ guides }: { guides: Guide[] }) {
       </div>
 
       <div className="grid grid-cols-2 md:grid-cols-3 gap-3.5">
-        {guides.map((guide, i) => (
-          <GuideCard key={guide.slug} guide={guide} priority={i === 0} />
+        {guides.map((guide) => (
+          <GuideCard key={guide.slug} guide={guide} />
         ))}
       </div>
     </section>
