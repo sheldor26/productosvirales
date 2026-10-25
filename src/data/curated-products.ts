@@ -110741,6 +110741,449 @@ Comprá esta versión si querés toda la experiencia Pro Max (pantalla y baterí
       },
     },
   },
+
+  // ─── Escritorio gamer: sourcing en vivo 2026-10-25 (Chrome real). Silo gaming ───
+  {
+    id: "MLA1684821953",
+    title: "Escritorio Gamer Moderno Madesa Para Pc Y Consola Negro 94248N",
+    canonicalName: "Escritorio Gamer Madesa 9424",
+    brand: "Madesa",
+    price: 95400,
+    originalPrice: 209998,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_873518-MLU78430694672_082024-F.webp",
+    images: ["https://http2.mlstatic.com/D_Q_NP_873518-MLU78430694672_082024-F.webp"],
+    category: "Gaming",
+    categorySlug: "gaming",
+    permalink: "https://www.mercadolibre.com.ar/escritorio-gamer-moderno-madesa-para-pc-y-consola/p/MLA24250183",
+    affiliateUrl: "https://meli.la/2ZTKyT8",
+    condition: "new",
+    freeShipping: false,
+    rating: 4.8,
+    reviewCount: 380,
+    soldQuantity: 100,
+    priceUpdated: "2026-10-25",
+    priceLastChecked: "2026-10-25",
+    priceVerifiedAt: "2026-10-25",
+    priceStatus: "fresh",
+    visibility: "normal",
+    pastelColor: "var(--pastel-green)",
+    seoTitle: "Escritorio Gamer Madesa 9424: el más barato, ¿conviene?",
+    metaDescription: "A {{precio:MLA1684821953}} es el más barato de la comparativa y el único con estantería y lugar para la CPU. Lo que conviene saber antes de comprarlo.",
+    description: "Escritorio gamer Madesa 9424: el más barato de esta comparativa y el único con estantería lateral (5 estantes, uno para la CPU). Negro, 120x54x76cm, con {{reviews:MLA1684821953}} calificaciones reales.",
+    specs: [
+      { label: "Marca", value: "Madesa" },
+      { label: "Modelo", value: "94248N" },
+      { label: "Material", value: "MDP y MDF" },
+      { label: "Medidas (largo x profundidad x altura)", value: "120 x 54 x 76 cm" },
+      { label: "Capacidad de peso", value: "20 kg" },
+      { label: "Cajones", value: "No tiene" },
+      { label: "Estantes", value: "5, uno de ellos pensado como estante para la CPU" },
+      { label: "Forma", value: "Recta (no es en L)" },
+      { label: "Luces LED", value: "No tiene" },
+      { label: "Ensamblado", value: "Requiere armado, incluye manual" },
+      { label: "Color", value: "Negro" },
+    ],
+    relatedProducts: ["MLAU3521484692", "MLA2861789374", "MLA1502626043"],
+    customerReviews: [
+      { rating: 5, date: "2025-10", country: "Colombia", text: "Vino en buen estado y me gusto mucho.", useful: 6 },
+      { rating: 4, date: "2025-12", country: "Brasil", text: "Producto bueno por su relación calidad-precio, único detalle que llegó con daños.", useful: 5 },
+      { rating: 5, date: "2025-11", country: "Brasil", text: "¡Excelente, fácil de instalar con el video de instrucciones, color hermoso, tamaño ideal y aún sobra, lo recomiendo mucho!", useful: 6 },
+    ],
+    reviewsSampledAt: "2026-10-25",
+    verdict: "El Madesa 9424 es, con diferencia, el más barato de esta comparativa y el único que suma estantería lateral con un lugar pensado para la CPU, útil si no tenés otro mueble donde guardar la torre o la consola. A cambio no tiene forma de L (menos superficie de apoyo) ni luces. De sus {{reviews:MLA1684821953}} calificaciones, buena parte de las que traen texto visible en la publicación son de compradores de Brasil y Colombia (MercadoLibre comparte el sistema de reseñas entre países de la región), así que conviene leerlas sabiendo eso, aunque el patrón que describen (buena relación precio-calidad, fácil de armar) se sostiene.",
+    pros: [
+      "El más barato de la comparativa por lejos: {{preciodif:MLAU3521484692:MLA1684821953}} menos que el Good Game, el segundo más económico",
+      "Único con estantería lateral (5 estantes) y un lugar pensado específicamente para la CPU o la consola",
+      "Vendido por la tienda oficial de Madesa, MercadoLíder Platinum con más de 10 mil ventas",
+      "Trae manual de ensamblado impreso",
+      "{{reviews:MLA1684821953}} calificaciones con {{rating:MLA1684821953}} estrellas de promedio",
+    ],
+    cons: [
+      "Buena parte de las reseñas con texto que trae la publicación son de compradores de Brasil y Colombia, no de Argentina: MercadoLibre comparte el sistema de calificaciones entre países de la región",
+      "No es en forma de L: tiene menos superficie de apoyo que el Gadnic de esta comparativa",
+      "Sin luces LED ni ningún detalle gamer más allá del nombre",
+      "Una reseña real avisa que su unidad llegó con daños de transporte, algo a tener en cuenta al recibirlo",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Madesa 9424 es un escritorio recto de MDP y MDF, pensado para PC de escritorio o consola, con una columna lateral de cinco estantes (uno de ellos, el de abajo, pensado para apoyar la CPU o la consola en vertical). Es el más barato de esta comparativa de escritorios gamer, a {{precio:MLA1684821953}}, bastante por debajo incluso del segundo más económico.
+
+## Lo bueno: precio y estantería
+
+La ventaja real frente a los otros tres de esta guía no es solo el precio: es que viene con un mueble de guardado incorporado. Los otros tres son mesas lisas, pensadas para que el resto del setup (torre, consola, libros, parlantes) se acomode en otro lado. El Madesa 9424 ya trae dónde ponerlo, lo cual simplifica bastante si estás armando un rincón gamer desde cero y no tenés otro mueble a mano.
+
+## La contra real: de dónde vienen las reseñas
+
+Un dato que conviene saber antes de leer las opiniones: buena parte de las {{reviews:MLA1684821953}} calificaciones con texto visible en la publicación vienen marcadas como de Brasil o Colombia, con la etiqueta "Traducido" al lado. MercadoLibre comparte el sistema de calificaciones entre países de la región, así que esto es normal y no un error de carga, pero vale aclararlo: no son necesariamente compradores argentinos. Dicho esto, el patrón que describen esas reseñas (buena relación precio-calidad, fácil de armar con el video de instrucciones) es consistente, y una de ellas sí avisa de un problema real: llegó con daños de transporte, algo para tener presente al recibirlo y revisarlo antes de firmar la entrega.
+
+## Para quién sí y para quién no
+
+Tiene sentido si tu prioridad es gastar lo menos posible y necesitás un lugar para guardar la torre o la consola sin comprar un mueble aparte. No es la opción si buscás más superficie de trabajo (ahí el [Gadnic en L](/producto/escritorio-gamer-en-l-gadnic-mfc-textura-carbono-estructura-acero-130x50x74-mla2861789374) rinde mejor) o si el detalle RGB te importa (para eso, el [Tecno4U Spirit](/producto/escritorio-gamer-mesa-led-rgb-spirit-control-remoto-negro-tecno4u-mla1502626043)).`,
+    faq: [
+      { question: "¿El Madesa 9424 tiene cajones?", answer: "No. Tiene estantería lateral abierta (5 estantes), uno de ellos pensado para apoyar la CPU o la consola, pero no cajones cerrados." },
+      { question: "¿Cuánto peso soporta?", answer: "Según la ficha técnica, 20 kg de capacidad total sobre la superficie de trabajo." },
+      { question: "¿Las reseñas son de compradores argentinos?", answer: "Muchas de las que trae la publicación con texto visible son de Brasil y Colombia, marcadas como traducidas. MercadoLibre comparte las calificaciones entre países de la región. El patrón que describen (buena relación precio-calidad, fácil armado) se sostiene igual." },
+      { question: "¿Viene con manual de armado?", answer: "Sí, incluye manual de ensamblado impreso, y según una reseña real también hay un video de instrucciones disponible." },
+      { question: "¿Es en forma de L como el Gadnic?", answer: "No, es un escritorio recto. Si buscás más superficie de apoyo en esquina, el Gadnic en L de esta comparativa es la opción." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Escritorio Gamer Madesa 9424",
+      description: "Escritorio gamer Madesa 9424, 120x54x76cm, con estantería lateral y lugar para la CPU.",
+      brand: { "@type": "Brand", name: "Madesa" },
+      sku: "MLA1684821953",
+      category: "Muebles para el hogar",
+      image: "https://http2.mlstatic.com/D_Q_NP_873518-MLU78430694672_082024-F.webp",
+      url: "https://productosvirales.com.ar/producto/escritorio-gamer-moderno-madesa-para-pc-y-consola-negro-94248n-mla1684821953",
+      offers: {
+        "@type": "Offer",
+        priceCurrency: "ARS",
+        price: "95400",
+        availability: "https://schema.org/InStock",
+        seller: { "@type": "Organization", name: "MercadoLibre Argentina" },
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.8",
+        reviewCount: "380",
+        bestRating: "5",
+        worstRating: "1",
+      },
+    },
+  },
+  {
+    id: "MLAU3521484692",
+    title: "Escritorio Gamer Mesa Pc Gaming Good Game EGG-01 Carbono",
+    canonicalName: "Escritorio Gamer Good Game EGG-01",
+    brand: "Good Game",
+    price: 109199,
+    originalPrice: 139999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_849755-MLA110167151293_042026-F.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_849755-MLA110167151293_042026-F.webp"],
+    category: "Gaming",
+    categorySlug: "gaming",
+    permalink: "https://www.mercadolibre.com.ar/escritorio-gamer-mesa-pc-gaming-good-game/up/MLAU3521484692",
+    affiliateUrl: "https://meli.la/32F2WDV",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 498,
+    soldQuantity: 1000,
+    priceUpdated: "2026-10-25",
+    priceLastChecked: "2026-10-25",
+    priceVerifiedAt: "2026-10-25",
+    priceStatus: "fresh",
+    visibility: "normal",
+    pastelColor: "var(--pastel-blue)",
+    seoTitle: "Escritorio Gamer Good Game EGG-01: el más calificado, ¿por qué?",
+    metaDescription: "El escritorio gamer con más calificaciones de esta comparativa (3° en Mesas de Computación de MercadoLibre), a {{precio:MLAU3521484692}} con {{reviews:MLAU3521484692}} opiniones.",
+    description: "Escritorio gamer Good Game EGG-01: el de más calificaciones de esta comparativa (3° en el ranking de Mesas de Computación de MercadoLibre), estructura en Z de madera y metal, {{reviews:MLAU3521484692}} calificaciones reales.",
+    specs: [
+      { label: "Marca", value: "Good Game" },
+      { label: "Modelo", value: "EGG-01" },
+      { label: "Material", value: "Tablero MDF laqueado (acabado \"Carbono\") sobre estructura de metal" },
+      { label: "Medidas (largo x profundidad x altura)", value: "120 x 60 x 75 cm" },
+      { label: "Cajones", value: "No tiene" },
+      { label: "Forma", value: "Recta, patas en Z" },
+      { label: "Luces LED", value: "No tiene" },
+      { label: "Ensamblado", value: "Requiere armado, incluye herramientas y manual" },
+      { label: "Color", value: "Negro (Carbono)" },
+      { label: "Ranking en MercadoLibre", value: "3° en el ranking de Mesas de Computación (badge propio de la plataforma)" },
+    ],
+    relatedProducts: ["MLA1684821953", "MLA2861789374", "MLA1502626043"],
+    customerReviews: [
+      { rating: 5, date: "2026-06", country: "Argentina", text: "Lindo, de buena calidad y muy fácil de armar. Llegó puntual. Tiene buenas terminaciones, es más grande de lo que esperaba y viene con las herramientas necesarias para armarlo por si no tienes. Lo mejor que puedes comprar por el precio.", useful: 10 },
+      { rating: 5, date: "2026-06", country: "Argentina", text: "La verdad quedé muy conforme con la mesa, excelente la calidad y precio, súper recomendable.", useful: 24 },
+      { rating: 5, date: "2025-12", country: "Argentina", text: "Un espectáculo la mesa, fácil de instalar, viene con el manual. Además los materiales de primera calidad, super cómoda y práctica. Tiene todo lo necesario. Fuerte y resistente.", useful: 13 },
+    ],
+    reviewsSampledAt: "2026-10-25",
+    verdict: "El Good Game EGG-01 es el escritorio gamer con más calificaciones de esta comparativa: {{reviews:MLAU3521484692}}, por encima de los otros tres. MercadoLibre además lo marca como 3° en el ranking de Mesas de Computación de todo el sitio. Es una mesa sin vueltas (sin LED, sin forma de L, sin cajones), pero con estructura firme y buenas terminaciones según quienes ya la compraron. Para quien solo necesita una superficie de trabajo sólida y no busca accesorios extra, es la entrada más probada.",
+    pros: [
+      "El de más calificaciones de la comparativa: {{reviews:MLAU3521484692}}, además 3° en el ranking propio de MercadoLibre para Mesas de Computación",
+      "Vendido por Good Game, tienda oficial MercadoLíder Platinum con más de 10 mil ventas",
+      "{{reviews:MLAU3521484692}} calificaciones reales con {{rating:MLAU3521484692}} estrellas de promedio",
+      "Varias reseñas destacan que es más grande de lo que esperaban y que las terminaciones son buenas para el precio",
+      "Trae las herramientas necesarias para armarlo",
+    ],
+    cons: [
+      "Sin luces LED ni ningún detalle RGB, pese a venderse como escritorio \"gamer\"",
+      "No tiene forma de L ni estantería: es una superficie plana sin guardado",
+      "{{preciodif:MLAU3521484692:MLA1684821953}} más caro que el Madesa, el más barato de la comparativa",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Good Game EGG-01 es un escritorio recto con patas en Z, tablero de MDF laqueado con terminación "Carbono" sobre estructura de metal. Es el escritorio con más calificaciones de esta comparativa, y MercadoLibre lo marca además como 3° en el ranking de Mesas de Computación, con más de mil unidades vendidas por la tienda oficial de Good Game.
+
+## Lo bueno: la base de opiniones más grande y buenas terminaciones
+
+El dato que más pesa acá no es una característica de la ficha técnica, es el volumen: con {{reviews:MLAU3521484692}} calificaciones y {{rating:MLAU3521484692}} estrellas, es la opción con más respaldo de compradores de las cuatro. Las reseñas repiten el mismo patrón: fácil de armar, viene con las herramientas, y más de un comprador menciona que el tablero es más grande y de mejor terminación de lo que esperaba por el precio.
+
+## La contra real: es una mesa, sin más
+
+A diferencia del Madesa (que suma estantería) o del Gadnic (que suma forma en L), el EGG-01 es una superficie de trabajo pura: sin cajones, sin estantes, sin luces. Si buscás algo del "paquete completo" gamer (RGB, accesorios, forma en L), no es la opción; si lo que necesitás es una mesa sólida y confiable, cumple y las reseñas lo confirman.
+
+## Para quién sí y para quién no
+
+Comprala si priorizás una superficie de trabajo firme, con buen respaldo de otros compradores, sin pagar de más por accesorios que capaz no vas a usar. Si buscás guardado incorporado, el [Madesa 9424](/producto/escritorio-gamer-moderno-madesa-para-pc-y-consola-negro-94248n-mla1684821953) es más barato y además lo trae; si buscás más superficie en esquina, el [Gadnic en L](/producto/escritorio-gamer-en-l-gadnic-mfc-textura-carbono-estructura-acero-130x50x74-mla2861789374) rinde más.`,
+    faq: [
+      { question: "¿Por qué tiene tantas calificaciones?", answer: "Es el escritorio con más opiniones de esta comparativa ({{reviews:MLAU3521484692}}). MercadoLibre además lo marca como 3° en el ranking de Mesas de Computación de todo el sitio, con más de mil unidades vendidas por su tienda oficial. Las reseñas destacan buena terminación y armado fácil." },
+      { question: "¿Tiene luces LED?", answer: "No. Es un escritorio sin RGB ni ningún detalle luminoso, pese a venderse como \"gamer\"." },
+      { question: "¿Es en forma de L?", answer: "No, es recto con patas en Z. Si buscás más superficie en esquina, el Gadnic en L de esta comparativa es la opción." },
+      { question: "¿Cuánto tarda en armarse?", answer: "Viene con las herramientas y el manual necesarios. Varias reseñas lo describen como fácil y rápido de armar." },
+      { question: "¿Qué material tiene el tablero?", answer: "MDF laqueado con terminación \"Carbono\" (un acabado texturizado, no fibra de carbono real), sobre estructura metálica." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Escritorio Gamer Good Game EGG-01",
+      description: "Escritorio gamer Good Game EGG-01, 120x60x75cm, el de más calificaciones de esta comparativa, 3° en el ranking de Mesas de Computación de MercadoLibre Argentina.",
+      brand: { "@type": "Brand", name: "Good Game" },
+      sku: "MLAU3521484692",
+      category: "Muebles para el hogar",
+      image: "https://http2.mlstatic.com/D_NQ_NP_849755-MLA110167151293_042026-F.webp",
+      url: "https://productosvirales.com.ar/producto/escritorio-gamer-mesa-pc-gaming-good-game-egg-01-carbono-mlau3521484692",
+      offers: {
+        "@type": "Offer",
+        priceCurrency: "ARS",
+        price: "109199",
+        availability: "https://schema.org/InStock",
+        seller: { "@type": "Organization", name: "MercadoLibre Argentina" },
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.8",
+        reviewCount: "498",
+        bestRating: "5",
+        worstRating: "1",
+      },
+    },
+  },
+  {
+    id: "MLA2861789374",
+    title: "Escritorio Gamer En L Gadnic Mfc Textura Carbono Estructura Acero 130x50x74",
+    canonicalName: "Escritorio Gamer Gadnic En L",
+    brand: "Gadnic",
+    price: 143599,
+    originalPrice: 425149,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_952552-MLA105899762332_022026-F.webp",
+    images: ["https://http2.mlstatic.com/D_Q_NP_952552-MLA105899762332_022026-F.webp"],
+    category: "Gaming",
+    categorySlug: "gaming",
+    permalink: "https://www.mercadolibre.com.ar/escritorio-gamer-en-l-gadnic-mfc-textura-carbono-estructura-acero-medidas-130x50x74/p/MLA65243937",
+    affiliateUrl: "https://meli.la/2hbZqXR",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 326,
+    soldQuantity: 1000,
+    priceUpdated: "2026-10-25",
+    priceLastChecked: "2026-10-25",
+    priceVerifiedAt: "2026-10-25",
+    priceStatus: "fresh",
+    visibility: "normal",
+    pastelColor: "var(--pastel-purple)",
+    seoTitle: "Escritorio Gamer Gadnic En L: el de más superficie, ¿conviene?",
+    metaDescription: "El único en forma de L de esta comparativa: 130x130cm de superficie, a {{precio:MLA2861789374}} con {{reviews:MLA2861789374}} calificaciones reales.",
+    description: "Escritorio gamer Gadnic en L: el único de esta comparativa con forma de esquina (130x130cm), estructura de acero y tablero MFC con textura carbono. {{reviews:MLA2861789374}} calificaciones, {{rating:MLA2861789374}} estrellas.",
+    specs: [
+      { label: "Marca", value: "Gadnic" },
+      { label: "Modelo", value: "ESCRI016" },
+      { label: "Material", value: "Tablero MFC con textura \"carbono\" (acabado impreso, no es fibra de carbono real) sobre estructura de acero" },
+      { label: "Medidas (largo x ancho x altura)", value: "130 x 130 x 74 cm" },
+      { label: "Peso del mueble", value: "19 kg" },
+      { label: "Forma", value: "En L, para esquina" },
+      { label: "Cajones", value: "No tiene" },
+      { label: "Luces LED", value: "No tiene (el filo rojo de los bordes es una terminación de color, no una luz)" },
+      { label: "Accesorios incluidos", value: "Soporte elevado para monitor, portavasos y gancho para auriculares integrados al tablero" },
+      { label: "Ensamblado", value: "Requiere armado, incluye manual de instrucciones" },
+      { label: "Color", value: "Negro con detalle rojo" },
+    ],
+    relatedProducts: ["MLA1684821953", "MLAU3521484692", "MLA1502626043"],
+    customerReviews: [
+      { rating: 5, date: "2026-03", country: "Argentina", text: "Muy buena relación precio/prestación. Cómoda.", useful: 39 },
+      { rating: 5, date: "2026-01", country: "Argentina", text: "Excelente mesa. Gracias.", useful: 55 },
+      { rating: 5, date: "2026-02", country: "Argentina", text: "Me encantó. Fue muy fácil de armar.", useful: 52 },
+    ],
+    reviewsSampledAt: "2026-10-25",
+    verdict: "El Gadnic en L es el único de esta comparativa con forma de esquina: 130x130cm de superficie, bastante más que los escritorios rectos. Suma soporte para monitor, portavasos y gancho para auriculares integrados al tablero. Ojo con dos cosas antes de comprar: la \"textura carbono\" es un acabado impreso sobre MFC, no fibra de carbono real, y el precio de lista tachado (muy por encima del final) es bastante más alto que lo que de verdad vale el mueble en el mercado, algo común en MercadoLibre que no le resta nada al precio final que vas a pagar. Con {{reviews:MLA2861789374}} calificaciones y {{rating:MLA2861789374}} estrellas, de una marca con más de un millón de ventas en la plataforma, es la opción con más respaldo para quien prioriza espacio.",
+    pros: [
+      "El único de esta comparativa en forma de L: 130x130cm, bastante más superficie que los escritorios rectos",
+      "Trae soporte elevado para monitor, portavasos y gancho para auriculares ya integrados al tablero",
+      "Vendido por Gadnic, marca con más de un millón de ventas y más de 806 mil seguidores en MercadoLibre",
+      "{{reviews:MLA2861789374}} calificaciones con {{rating:MLA2861789374}} estrellas de promedio, 2° en el ranking de Mesas de Computación",
+      "Estructura de acero, no solo caños finos: varias reseñas destacan que es firme y no se mueve",
+    ],
+    cons: [
+      "La \"textura carbono\" del tablero es un acabado impreso sobre MFC laminado, no fibra de carbono real: es una aclaración de honestidad, no un defecto, pero el nombre puede confundir",
+      "Sin luces LED: el filo rojo que se ve en las fotos es la terminación del borde, no iluminación",
+      "{{preciodif:MLA2861789374:MLAU3521484692}} más caro que el Good Game, el de más calificaciones de la comparativa",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Gadnic en L es un escritorio gamer con forma de esquina, 130x130cm de tablero MFC con acabado texturizado tipo carbono, sobre estructura de acero. Es el único de los cuatro escritorios de esta comparativa pensado para aprovechar un rincón en vez de una pared recta, y trae de fábrica soporte elevado para monitor, portavasos y gancho para auriculares integrados al borde del tablero.
+
+## Lo bueno: superficie real y accesorios integrados
+
+La diferencia frente a los otros tres escritorios de esta guía es concreta: 130x130cm en L es bastante más superficie útil que un escritorio recto de 120cm, sobre todo si usás dos monitores o necesitás lugar para una consola al lado de la PC. Los accesorios (portavasos, gancho de auriculares, soporte elevado) ya vienen integrados al tablero, no son algo que tengas que comprar aparte. Gadnic además es una marca con trayectoria real en el sitio: más de un millón de ventas acumuladas y más de 806 mil seguidores.
+
+## La contra real: el nombre promete más de lo que es
+
+Dos aclaraciones honestas antes de comprar. Primero, el "carbono" del nombre es un acabado texturizado impreso sobre el laminado MFC, no fibra de carbono real: se ve bien y es durable, pero no es el material que el nombre sugiere. Segundo, el precio de lista que aparece tachado en la publicación (muy por encima del precio final) es bastante más alto que lo que de verdad vale este tipo de mueble en el mercado, un patrón común en MercadoLibre. No afecta lo que vas a pagar, pero conviene no guiarse por el "66% off" como si fuera el verdadero ahorro.
+
+## Para quién sí y para quién no
+
+Comprala si necesitás más superficie de trabajo que un escritorio recto, sobre todo si tenés dos monitores o pensás usar la esquina de la habitación. Si tu prioridad es el precio más bajo posible, el [Madesa](/producto/escritorio-gamer-moderno-madesa-para-pc-y-consola-negro-94248n-mla1684821953) cuesta bastante menos; si buscás el detalle RGB, el [Tecno4U Spirit](/producto/escritorio-gamer-mesa-led-rgb-spirit-control-remoto-negro-tecno4u-mla1502626043) es la opción de esta comparativa.`,
+    faq: [
+      { question: "¿El Gadnic en L tiene luces LED?", answer: "No. El filo rojo que se ve en las fotos es la terminación de color del borde del tablero, no una luz. Para RGB real, el Tecno4U Spirit de esta comparativa sí lo trae." },
+      { question: "¿Es fibra de carbono de verdad?", answer: "No. \"Textura carbono\" es el nombre comercial de un acabado impreso sobre el tablero de MFC, no el material real. Es una aclaración de honestidad, no afecta la resistencia del mueble." },
+      { question: "¿Qué accesorios trae integrados?", answer: "Soporte elevado para monitor, portavasos y gancho para auriculares, los tres ya integrados al tablero, sin costo extra." },
+      { question: "¿Por qué el precio de lista es tan alto comparado con el final?", answer: "Es un patrón común en MercadoLibre: el precio \"original\" tachado suele estar bastante por encima del valor real de mercado del producto. No cambia lo que terminás pagando, pero conviene no guiarse por el porcentaje de descuento como una referencia real." },
+      { question: "¿Cuánto pesa y qué tan firme es?", answer: "19 kg, con estructura de acero. Varias reseñas destacan que no se mueve ni tambalea, a diferencia de escritorios con patas más finas." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Escritorio Gamer Gadnic En L",
+      description: "Escritorio gamer Gadnic en L, 130x130x74cm, con soporte para monitor, portavasos y gancho para auriculares integrados.",
+      brand: { "@type": "Brand", name: "Gadnic" },
+      sku: "MLA2861789374",
+      category: "Muebles para el hogar",
+      image: "https://http2.mlstatic.com/D_Q_NP_952552-MLA105899762332_022026-F.webp",
+      url: "https://productosvirales.com.ar/producto/escritorio-gamer-en-l-gadnic-mfc-textura-carbono-estructura-acero-130x50x74-mla2861789374",
+      offers: {
+        "@type": "Offer",
+        priceCurrency: "ARS",
+        price: "143599",
+        availability: "https://schema.org/InStock",
+        seller: { "@type": "Organization", name: "MercadoLibre Argentina" },
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.8",
+        reviewCount: "326",
+        bestRating: "5",
+        worstRating: "1",
+      },
+    },
+  },
+  {
+    id: "MLA1502626043",
+    title: "Escritorio Gamer Mesa Led Rgb Spirit Control Remoto Negro Tecno4U",
+    canonicalName: "Escritorio Gamer Tecno4U Spirit RGB",
+    brand: "Tecno4U",
+    price: 175180,
+    originalPrice: 194645,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_980181-MLA111611110118_062026-F.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_980181-MLA111611110118_062026-F.webp"],
+    category: "Gaming",
+    categorySlug: "gaming",
+    permalink: "https://www.mercadolibre.com.ar/escritorio-gamer-mesa-led-rgb-spirit-control-remoto/up/MLAU3221026454",
+    affiliateUrl: "https://meli.la/1rueKBU",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.9,
+    reviewCount: 53,
+    soldQuantity: 100,
+    priceUpdated: "2026-10-25",
+    priceLastChecked: "2026-10-25",
+    priceVerifiedAt: "2026-10-25",
+    priceStatus: "fresh",
+    visibility: "normal",
+    pastelColor: "var(--pastel-amber)",
+    seoTitle: "Escritorio Gamer Tecno4U Spirit RGB: el mejor valorado, con un ojo",
+    metaDescription: "{{rating:MLA1502626043}} estrellas en {{reviews:MLA1502626043}} calificaciones. Pero el nombre dice \"control remoto\" y la propia descripción aclara que no lo incluye. Leé antes de comprar.",
+    description: "Escritorio gamer Tecno4U Spirit con luz LED RGB controlada por Bluetooth, portavasos, gancho para auriculares y almohadilla para el celular. El mejor valorado de esta comparativa, {{rating:MLA1502626043}} estrellas en {{reviews:MLA1502626043}} calificaciones.",
+    specs: [
+      { label: "Marca", value: "Tecno4U" },
+      { label: "Modelo", value: "Mesa gamer RGB" },
+      { label: "Material", value: "Acero laminado en frío, tablero con acabado texturizado tipo fibra de carbono (no es fibra de carbono real)" },
+      { label: "Medidas (largo x profundidad x altura)", value: "120 x 60 x 73 cm" },
+      { label: "Color", value: "Negro con rojo" },
+      { label: "Luces LED", value: "Sí, RGB, controladas por Bluetooth desde el celular" },
+      { label: "Control remoto físico", value: "No incluye, pese a que el nombre de la publicación lo menciona: la propia descripción del vendedor lo aclara" },
+      { label: "Accesorios", value: "Portavasos, gancho para auriculares y almohadilla para el celular, integrados al tablero" },
+      { label: "Cajones", value: "No tiene" },
+      { label: "Forma", value: "Recta (no es en L)" },
+      { label: "Manual de ensamblado", value: "No incluye manual impreso, según la ficha técnica" },
+    ],
+    relatedProducts: ["MLA1684821953", "MLAU3521484692", "MLA2861789374"],
+    customerReviews: [
+      { rating: 5, date: "2026-08", country: "Argentina", text: "Muy fácil armarlo con las indicaciones y las marcas de donde iría cada tornillo, me encantó el espacio.", useful: 1 },
+      { rating: 5, date: "2026-03", country: "Argentina", text: "Hermoso escritorio, súper resistente y las luces nos fascinan.", useful: 1 },
+      { rating: 4, date: "2026-07", country: "Argentina", text: "Casi perfecto, no me vino el portavasos, todo el resto bien, es precioso y de excelente calidad, lo armamos fácil con el manual. Mi hijo feliz.", useful: 1 },
+    ],
+    reviewsSampledAt: "2026-10-25",
+    verdict: "El Tecno4U Spirit es el mejor valorado de esta comparativa, {{rating:MLA1502626043}} estrellas en {{reviews:MLA1502626043}} calificaciones, con luz LED RGB real (no solo un borde de color) controlada por una app de Bluetooth. Pero hay algo que hay que decir de frente: la publicación se llama \"Control Remoto\" y el nombre lo repite, pero la propia descripción del vendedor aclara en mayúsculas que NO incluye control remoto físico, que las luces se manejan por Bluetooth desde el celular. No es un invento nuestro, es lo que dice la misma ficha. Más allá de eso, es el escritorio con mejor rating de los cuatro y el único con RGB real.",
+    pros: [
+      "El mejor valorado de la comparativa: {{rating:MLA1502626043}} estrellas en {{reviews:MLA1502626043}} calificaciones",
+      "Luz LED RGB real, controlada por Bluetooth desde el celular, no solo un borde de color",
+      "Trae portavasos, gancho para auriculares y almohadilla para el celular integrados al tablero",
+      "Vendido por T4U Tecno4U, tienda oficial MercadoLíder Platinum, con buen stock disponible",
+      "Varias reseñas destacan que las luces son el punto que más sorprende para bien",
+    ],
+    cons: [
+      "La publicación se llama \"Control Remoto\" pero la propia descripción del vendedor aclara que NO lo incluye: las luces se manejan por Bluetooth, no por un control físico. Confirmalo antes de comprar si ese dato te define la elección",
+      "No incluye manual de ensamblado impreso según la ficha técnica (una reseña real sí menciona haber armado con un manual, así que puede variar según el lote)",
+      "Una reseña real avisa que a su unidad no le vino el portavasos",
+      "El acabado tipo fibra de carbono del tablero es un texturizado impreso, no el material real",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Tecno4U Spirit es un escritorio gamer recto, de acero laminado en frío con un tablero de acabado texturizado tipo fibra de carbono, que suma luz LED RGB en el borde controlada por Bluetooth desde el celular. Es el más caro de esta comparativa, pero también el mejor valorado: {{rating:MLA1502626043}} estrellas en {{reviews:MLA1502626043}} calificaciones.
+
+## Lo que hay que aclarar antes de comprarlo: el nombre promete de más
+
+Esto es lo más importante de esta ficha. La publicación se llama "Escritorio Gamer Mesa Led Rgb Spirit Control Remoto", pero si leés la descripción completa que escribió el propio vendedor, dice textual: "NO INCLUYE CONTROL REMOTO" y aclara que "SE MANEJAN LAS LUCES POR BLUETOOTH". O sea que el nombre de la publicación promete algo que la misma ficha, más abajo, desmiente. No es que nosotros lo infiramos: está escrito así por el vendedor. Si para vos la diferencia entre un control remoto físico y una app de Bluetooth en el celular es importante, es el dato que tenés que tener antes de comprar.
+
+## Lo bueno: el mejor rating y luces reales
+
+Afuera de esa confusión puntual, es el escritorio con mejor rating de los cuatro de esta comparativa, y las reseñas reales lo confirman: varios compradores destacan específicamente que las luces RGB son mejores de lo esperado ("las luces nos fascinan"). Trae portavasos, gancho para auriculares y almohadilla para el celular, todo integrado al tablero.
+
+## La contra real
+
+Una reseña real y honesta avisa que a su unidad no le vino el portavasos pese a figurar en la ficha, algo para chequear al recibirlo. Y según la ficha técnica no incluye manual impreso (aunque una reseña menciona haber armado "con el manual", así que puede depender del lote). Como el resto de esta comparativa, el acabado "fibra de carbono" del tablero es un texturizado, no el material real.
+
+## Para quién sí y para quién no
+
+Comprala si el detalle RGB real te importa y estás dispuesto a manejarlo desde el celular por Bluetooth, no con un control físico. Si buscás precio, el [Madesa](/producto/escritorio-gamer-moderno-madesa-para-pc-y-consola-negro-94248n-mla1684821953) es bastante más barato; si buscás superficie, el [Gadnic en L](/producto/escritorio-gamer-en-l-gadnic-mfc-textura-carbono-estructura-acero-130x50x74-mla2861789374) rinde más espacio por el mismo rango de precio.`,
+    faq: [
+      { question: "¿El Tecno4U Spirit trae control remoto?", answer: "No, pese a que el nombre de la publicación lo menciona. La propia descripción del vendedor aclara que NO incluye control remoto físico: las luces RGB se controlan por Bluetooth desde el celular." },
+      { question: "¿Las luces son RGB de verdad o solo un detalle de color?", answer: "Son luces LED RGB reales en el borde del tablero, no un acabado de color fijo como en el Gadnic de esta comparativa. Se controlan por una app de Bluetooth." },
+      { question: "¿Por qué es el mejor valorado de la comparativa?", answer: "Tiene {{rating:MLA1502626043}} estrellas en {{reviews:MLA1502626043}} calificaciones, el promedio más alto de los cuatro escritorios de esta guía. Varias reseñas destacan específicamente las luces." },
+      { question: "¿Incluye manual de armado?", answer: "Según la ficha técnica no incluye manual impreso, aunque una reseña real menciona haber armado el escritorio con un manual, así que puede variar según el lote que te toque." },
+      { question: "¿Trae todos los accesorios de las fotos?", answer: "En general sí (portavasos, gancho para auriculares, almohadilla para celular), pero una reseña real avisa que a su unidad no le vino el portavasos. Conviene revisar el paquete completo al recibirlo." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Escritorio Gamer Tecno4U Spirit RGB",
+      description: "Escritorio gamer Tecno4U Spirit, 120x60x73cm, con luz LED RGB controlada por Bluetooth.",
+      brand: { "@type": "Brand", name: "Tecno4U" },
+      sku: "MLA1502626043",
+      category: "Muebles para el hogar",
+      image: "https://http2.mlstatic.com/D_NQ_NP_980181-MLA111611110118_062026-F.webp",
+      url: "https://productosvirales.com.ar/producto/escritorio-gamer-mesa-led-rgb-spirit-control-remoto-negro-tecno4u-mla1502626043",
+      offers: {
+        "@type": "Offer",
+        priceCurrency: "ARS",
+        price: "175180",
+        availability: "https://schema.org/InStock",
+        seller: { "@type": "Organization", name: "MercadoLibre Argentina" },
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.9",
+        reviewCount: "53",
+        bestRating: "5",
+        worstRating: "1",
+      },
+    },
+  },
 ];
 
 export const categoryPastels: Record<string, string> = {

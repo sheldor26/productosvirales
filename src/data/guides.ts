@@ -2676,6 +2676,7 @@ export const guides: Guide[] = [
       { question: `¿Conviene comprar un kit de teclado y mouse o cada pieza por separado?`, answer: `Depende de qué estés buscando. El [kit Gadnic K4 Move](/producto/kit-gaming-teclado-y-mouse-gadnic-iluminacion-led-rgb-alta-precision-mla19079378) resuelve las dos piezas por {{precio:MLA19079378}}, con teclado de membrana. Si querés un teclado mecánico de verdad y un mouse de marca, el [Redragon Kumara K552](/producto/teclado-gamer-redragon-kumara-k552-mecanico-rgb-espanol-latinoamerica-mla16369071) más el [Logitech G203](/producto/mouse-gamer-logitech-g203-lightsync-white-mla44849297) salen más, pero no es la misma calidad de pieza: el kit es la opción de entrada, no una versión con descuento de las mismas piezas.` },
       { question: `¿El setup gamer incluye la PC?`, answer: `No. Esta guía cubre lo que rodea a la computadora o consola que ya tenés o vas a elegir aparte: monitor, silla, teclado, mouse y auriculares. Armar o elegir la PC es una decisión más grande, con specs que están fuera de lo que verificamos para este catálogo.` },
       { question: `¿Qué cambia si juego en consola en vez de PC?`, answer: `El teclado y el mouse se reemplazan por el control de tu consola. En [PS5](/guias/gaming/joystick-ps5) es el DualSense oficial; en [Xbox](/guias/gaming/joystick-xbox), el control Xbox Wireless. El resto del setup (monitor, silla, auriculares) es igual para PC o consola.` },
+      { question: `¿Necesito un escritorio especial para armar el setup?`, answer: `No es obligatorio, pero ayuda: un escritorio recto alcanza para un monitor, y uno en L suma superficie si vas a usar dos. Comparamos las opciones reales de MercadoLibre Argentina en la [guía de escritorio gamer](/guias/gaming/escritorio-gamer), separada de esta porque no todos necesitan cambiar el que ya tienen.` },
     ],
     internalLinksTitle: `Las piezas destacadas, una por una`,
     internalLinks: [
@@ -2794,6 +2795,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { label: "Teclado gamer: cuál comprar", href: "/guias/gaming/teclado-gamer" },
       { label: "Mouse gamer: cuál comprar", href: "/guias/gaming/mouse-gamer" },
       { label: "Monitor gamer: cuál comprar", href: "/guias/gaming/monitor-gamer" },
+      { label: "Escritorio gamer: cuál comprar", href: "/guias/gaming/escritorio-gamer" },
       { label: "Joystick para PC: cuál comprar", href: "/guias/gaming/joystick-pc" },
       { label: "Kit gamer: teclado + mouse en una compra", href: "/guias/gaming/kit-gamer" },
       { label: "Proyector portátil para jugar en pantalla grande", href: "/guias/tech/proyector-portatil" },
@@ -3512,8 +3514,118 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { label: "Silla gamer: cuál comprar (la guía completa)", href: "/guias/gaming/silla-gamer" },
       { label: "Mouse gamer: cuál comprar", href: "/guias/gaming/mouse-gamer" },
       { label: "Teclado gamer: cuál comprar", href: "/guias/gaming/teclado-gamer" },
+      { label: "Escritorio gamer: cuál comprar", href: "/guias/gaming/escritorio-gamer" },
       { label: "Joystick para PC: cuál comprar", href: "/guias/gaming/joystick-pc" },
       { label: "Kit gamer: teclado + mouse en una compra", href: "/guias/gaming/kit-gamer" },
+    ],
+    internalLinksTitle: "Más para tu setup gamer",
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // SATÉLITE escritorio-gamer — silo gaming
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "escritorio-gamer",
+    category: "gaming",
+    silo: "gaming",
+    title: `Escritorio gamer: cuál comprar en Argentina [2026]`,
+    seoTitle: `Escritorio Gamer: Cuál Comprar en Argentina | Guía 2026`,
+    metaDescription: `Escritorio gamer desde {{precio:MLA1684821953:k}}: comparamos 4 opciones reales de MercadoLibre (recto, en L, con estantería, con RGB) por precio, superficie y reseñas.`,
+    ogTitle: `Escritorio gamer: cuál comprar en Argentina`,
+    ogDescription: `Del más barato con estantería al premium con RGB real, pasando por el más calificado y el único en L. Comparamos 4 escritorios gamer reales de MercadoLibre Argentina por precio, superficie y reseñas.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_849755-MLA110167151293_042026-F.webp`,
+    h1: `Escritorio gamer: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría, el mejor escritorio gamer es el **[Good Game EGG-01](/producto/escritorio-gamer-mesa-pc-gaming-good-game-egg-01-carbono-mlau3521484692)** (desde {{precio:MLAU3521484692:k}}): el más calificado de MercadoLibre Argentina en esta comparativa, sólido y sin vueltas. Si querés gastar lo mínimo y necesitás dónde guardar la torre, el **[Madesa 9424](/producto/escritorio-gamer-moderno-madesa-para-pc-y-consola-negro-94248n-mla1684821953)** ({{precio:MLA1684821953:k}}) es el más barato y el único con estantería. Si necesitás más superficie para dos monitores, el **[Gadnic en L](/producto/escritorio-gamer-en-l-gadnic-mfc-textura-carbono-estructura-acero-130x50x74-mla2861789374)** ({{precio:MLA2861789374:k}}) es el único en forma de esquina. Y si el RGB real te importa, el **[Tecno4U Spirit](/producto/escritorio-gamer-mesa-led-rgb-spirit-control-remoto-negro-tecno4u-mla1502626043)** ({{precio:MLA1502626043:k}}) es el mejor valorado de los cuatro, aunque ojo: pese a su nombre, no trae control remoto físico.`,
+    publishedDate: "2026-10-25",
+    updatedDate: "2026-10-25",
+    hasDisclosure: true,
+    readingTime: 10,
+    standfirst: `Un escritorio gamer en Argentina va de {{precio:MLA1684821953:k}} a {{precio:MLA1502626043:k}}, y la diferencia real no es el nombre "gamer": es la forma (recto o en L), si trae guardado o no, y si el RGB es de verdad o solo un detalle de color. Comparamos 4 escritorios reales y en stock de MercadoLibre Argentina, con precios en vivo y lo que las publicaciones no siempre aclaran.`,
+    quickPicks: [
+      { productMlaId: "MLAU3521484692", label: "El más calificado", labelColor: "green", tagline: "Good Game EGG-01: 3° en Mesas de Computación, sólido y sin vueltas" },
+      { productMlaId: "MLA1684821953", label: "El más barato", labelColor: "blue", tagline: "Madesa 9424: el más económico y el único con estantería para la CPU" },
+      { productMlaId: "MLA2861789374", label: "El de más superficie", labelColor: "purple", tagline: "Gadnic en L: 130x130cm, el único en forma de esquina" },
+      { productMlaId: "MLA1502626043", label: "El mejor valorado", labelColor: "amber", tagline: "Tecno4U Spirit: el rating más alto, con RGB real por Bluetooth" },
+    ],
+    intro: [
+      `"Escritorio gamer" en MercadoLibre te tira miles de resultados, casi todos parecidos: tablero negro, patas en ángulo, alguna foto con luces de neón de fondo que no vienen con la mesa. La diferencia real entre uno y otro no está en el nombre: está en si tiene forma de L o es recto, si suma guardado (estantes, cajones) o es solo una superficie, y si el RGB de las fotos es de verdad o es la foto de ambiente la que tiene las luces, no el escritorio.`,
+      `En esta guía comparamos 4 escritorios gamer reales y en stock de Argentina (Madesa, Good Game, Gadnic, Tecno4U), con precios en vivo de MercadoLibre y lo bueno y lo malo de cada uno, incluida una aclaración honesta sobre un nombre de publicación que promete más de lo que da.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_849755-MLA110167151293_042026-F.webp", alt: `Escritorio gamer Good Game EGG-01, el más calificado de esta comparativa`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, el **Good Game EGG-01**: el más calificado de esta comparativa, sólido y sin vueltas. Si priorizás **precio y guardado**, el **Madesa 9424** es el más barato y el único con estantería para la CPU. Si necesitás **más superficie** (dos monitores, esquina de la habitación), el **Gadnic en L** es el único en forma de L. Y si el **RGB real** te importa, el **Tecno4U Spirit** es el mejor valorado, aunque pese al nombre de la publicación no trae control remoto físico: las luces se manejan por Bluetooth desde el celular.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** buscamos en vivo los escritorios gamer con más ventas y mejores reseñas reales de MercadoLibre Argentina, verificando precio, ficha técnica y las calificaciones de compradores producto por producto. Cuando una ficha técnica dice algo que la propia descripción del vendedor contradice (como el "control remoto" del Tecno4U), lo aclaramos. Precios verificados en octubre de 2026 y revisados varias veces por semana.` },
+
+      { type: "h2", title: `Qué mirar antes de comprar un escritorio gamer`, id: "que-mirar" },
+      { type: "p", content: `Lo primero es la **forma**: recto o en L. Un escritorio recto de 120cm alcanza para un monitor y el setup básico; uno en L suma superficie real para dos monitores, una consola al lado, o simplemente más lugar para moverte. La contra de la L es que ocupa más espacio de piso y necesita un rincón disponible.` },
+      { type: "p", content: `Después, el **guardado**: la mayoría de los escritorios gamer son solo una superficie plana, sin cajones ni estantes. Si no tenés otro mueble para la torre, la consola o los juegos, un escritorio con estantería (como el Madesa de esta guía) te ahorra comprar algo aparte. Y por último, el **RGB**: muchas fotos de producto muestran luces de ambiente que no vienen con el escritorio. Fijate si la ficha técnica dice explícitamente "con luces LED" antes de asumir que las tiene.` },
+
+      { type: "h2", title: `Los mejores escritorios gamer 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Madesa 9424: el más barato` },
+      { type: "product-card", productMlaId: "MLA1684821953", label: "El más barato", labelColor: "blue", ranking: 1, description: `El más económico de esta comparativa y el único con estantería (5 estantes, uno para la CPU). {{rating:MLA1684821953}} estrellas en {{reviews:MLA1684821953}} calificaciones.` },
+      { type: "p", content: `Si tu prioridad es gastar lo menos posible, es este. El Madesa 9424 cuesta {{precio:MLA1684821953:k}}, bastante por debajo incluso del segundo más barato de la comparativa, y es el único de los cuatro que suma estantería lateral con un lugar pensado para la CPU o la consola. Si no tenés otro mueble donde guardar la torre, eso te ahorra una compra aparte.` },
+      { type: "p", content: `Lo honesto: no es en forma de L (menos superficie que el Gadnic) y no tiene ningún detalle RGB. Y buena parte de las reseñas con texto visible en la publicación son de compradores de Brasil y Colombia, no de Argentina (MercadoLibre comparte el sistema de calificaciones entre países de la región). El patrón que describen igual se sostiene: buena relación precio-calidad, fácil de armar.` },
+
+      { type: "h3", title: `2. Good Game EGG-01: el más calificado` },
+      { type: "product-card", productMlaId: "MLAU3521484692", label: "El más calificado", labelColor: "green", ranking: 2, description: `3° en el ranking de Mesas de Computación de MercadoLibre. Estructura en Z de madera y metal, sin vueltas. {{rating:MLAU3521484692}} estrellas en {{reviews:MLAU3521484692}} calificaciones, la mayor cantidad de las cuatro.` },
+      { type: "p", content: `El Good Game EGG-01 es el escritorio gamer con más calificaciones de esta comparativa: {{reviews:MLAU3521484692}}, por encima de los otros tres. MercadoLibre además lo marca como 3° en el ranking de Mesas de Computación de todo el sitio. A {{precio:MLAU3521484692:k}}, es una mesa sin accesorios extra (sin LED, sin forma de L, sin estantería), pero con buena terminación según quienes ya la compraron: varias reseñas dicen que es más grande y mejor terminada de lo que esperaban por el precio.` },
+      { type: "pull-quote", content: `"Lindo, de buena calidad y muy fácil de armar. Llegó puntual. Tiene buenas terminaciones, es más grande de lo que esperaba y viene con las herramientas necesarias para armarlo. Lo mejor que puedes comprar por el precio."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `3. Gadnic en L: el de más superficie` },
+      { type: "product-card", productMlaId: "MLA2861789374", label: "Más superficie", labelColor: "purple", ranking: 3, description: `El único en forma de L de esta comparativa: 130x130cm. Trae soporte para monitor, portavasos y gancho para auriculares integrados. {{rating:MLA2861789374}} estrellas en {{reviews:MLA2861789374}} calificaciones, 2° en el ranking de Mesas de Computación.` },
+      { type: "p", content: `Si necesitás más lugar (dos monitores, una consola al lado de la PC, o simplemente más espacio para moverte), el Gadnic en L es la única opción en forma de esquina de esta comparativa: 130x130cm de superficie, bastante más que un escritorio recto de 120cm. A {{precio:MLA2861789374:k}}, ya trae soporte elevado para monitor, portavasos y gancho para auriculares integrados al tablero, y es de una marca con más de un millón de ventas en MercadoLibre (2° en el ranking de Mesas de Computación, un escalón por encima del Good Game).` },
+      { type: "p", content: `Dos aclaraciones honestas antes de comprarlo. La "textura carbono" del tablero es un acabado impreso sobre MFC laminado, no fibra de carbono real: se ve bien, pero no es el material que el nombre sugiere. Y el precio de lista tachado en la publicación es bastante más alto que lo que de verdad vale el mueble en el mercado, un patrón común en MercadoLibre que no cambia lo que vas a pagar, pero conviene no tomar el "66% off" como el ahorro real.` },
+
+      { type: "h3", title: `4. Tecno4U Spirit: el mejor valorado (con RGB real)` },
+      { type: "product-card", productMlaId: "MLA1502626043", label: "Mejor valorado", labelColor: "amber", ranking: 4, description: `{{rating:MLA1502626043}} estrellas, el rating más alto de la comparativa. Luz LED RGB real controlada por Bluetooth. Ojo: pese al nombre, no incluye control remoto físico.` },
+      { type: "p", content: `El Tecno4U Spirit es el más caro y también el mejor valorado de los cuatro: {{rating:MLA1502626043}} estrellas en {{reviews:MLA1502626043}} calificaciones, a {{precio:MLA1502626043:k}}. A diferencia del Gadnic, acá el RGB es real: luces LED en el borde del tablero, controladas por una app de Bluetooth desde el celular. Trae también portavasos, gancho para auriculares y almohadilla para el celular.` },
+      { type: "p", content: `Lo que hay que aclarar de frente: la publicación se llama "Control Remoto", pero la propia descripción del vendedor dice textual que **no incluye control remoto físico**, que las luces se manejan por Bluetooth. No es algo que infirramos nosotros, está escrito así en la misma ficha. Si esa diferencia te importa, es el dato a tener antes de comprar.` },
+
+      { type: "h2", title: `Tabla comparativa: por forma, guardado y precio`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Forma`, `Guardado`, `RGB`, `Ideal para`], rows: [
+        [`[Madesa 9424](https://meli.la/2ZTKyT8)`, `{{precio:MLA1684821953}}`, `Recto`, `Sí, 5 estantes + lugar CPU`, `No`, `Gastar lo mínimo`],
+        [`[Good Game EGG-01](https://meli.la/32F2WDV)`, `{{precio:MLAU3521484692}}`, `Recto`, `No`, `No`, `El más calificado, sin vueltas`],
+        [`[Gadnic en L](https://meli.la/2hbZqXR)`, `{{precio:MLA2861789374}}`, `En L`, `No`, `No (solo filo de color)`, `Más superficie, dos monitores`],
+        [`[Tecno4U Spirit](https://meli.la/1rueKBU)`, `{{precio:MLA1502626043}}`, `Recto`, `No`, `Sí, por Bluetooth`, `RGB real, mejor valorado`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu escritorio gamer`, id: "como-elegir" },
+      { type: "h3", title: `1. ¿Recto o en L?` },
+      { type: "p", content: `Recto alcanza para un monitor y el setup básico, y suele ser más barato. En L suma superficie real para dos monitores o una consola al lado, a cambio de ocupar más espacio de piso. Si tenés el rincón disponible y necesitás más lugar, la L se nota desde el primer día.` },
+      { type: "h3", title: `2. ¿Necesitás guardado incorporado?` },
+      { type: "p", content: `La mayoría de los escritorios gamer son solo una superficie plana. Si no tenés otro mueble donde poner la torre, la consola o los juegos, uno con estantería (como el Madesa de esta guía) te resuelve eso sin comprar algo aparte.` },
+      { type: "h3", title: `3. ¿El RGB es de verdad?` },
+      { type: "p", content: `Muchas publicaciones usan fotos de ambiente con luces de neón que no vienen con el escritorio: esas luces son de la foto, no del producto. Fijate si la ficha técnica dice explícitamente "con luces LED: sí" (como el Tecno4U de esta guía) antes de asumir que el escritorio las tiene.` },
+
+      { type: "h2", title: `Cuánto cuesta un escritorio gamer en Argentina [octubre 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**{{precio:MLA1684821953:k}}:** la entrada. El [Madesa 9424](https://meli.la/2ZTKyT8), el más barato y el único con estantería.`,
+        `**{{precio:MLAU3521484692:k}}:** el más calificado. El [Good Game EGG-01](https://meli.la/32F2WDV), con {{reviews:MLAU3521484692}} calificaciones, 3° en el ranking de Mesas de Computación de MercadoLibre.`,
+        `**{{precio:MLA2861789374:k}}:** más superficie. El [Gadnic en L](https://meli.la/2hbZqXR), el único en forma de esquina.`,
+        `**{{precio:MLA1502626043:k}} o más:** el premium. El [Tecno4U Spirit](https://meli.la/1rueKBU), el mejor valorado y con RGB real.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál escritorio gamer comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la mayoría, el **Good Game EGG-01**: el más calificado de esta comparativa, sólido y sin vueltas. Si priorizás **precio y necesitás guardado**, el **Madesa 9424** es el más barato y el único con estantería para la CPU. Si te hace falta **más superficie** para dos monitores o una esquina, el **Gadnic en L** es la única opción en L (y el que más alto figura en el ranking de ventas de MercadoLibre, 2° contra el 3° del Good Game). Y si el **RGB real** te importa, el **Tecno4U Spirit** es el mejor valorado, aunque pese al nombre no trae control remoto físico: se maneja por Bluetooth. El error a evitar: comprar por las fotos de ambiente con luces de neón que no vienen con el escritorio, o pagar de más por "fibra de carbono" que en realidad es un acabado impreso.` },
+    ],
+    faq: [
+      { question: `¿Cuál es el mejor escritorio gamer en Argentina?`, answer: `Para la mayoría, el [Good Game EGG-01](https://meli.la/32F2WDV): el más calificado de esta comparativa, con {{reviews:MLAU3521484692}} opiniones. Si priorizás precio, el [Madesa 9424](https://meli.la/2ZTKyT8) es el más barato; si necesitás más superficie, el [Gadnic en L](https://meli.la/2hbZqXR) (además 2° en el ranking de ventas de MercadoLibre); y si querés RGB real, el [Tecno4U Spirit](https://meli.la/1rueKBU) es el mejor valorado ({{rating:MLA1502626043}} estrellas).` },
+      { question: `¿Conviene un escritorio gamer recto o en L?`, answer: `Depende del espacio que uses y de cuántas pantallas tengas. Recto alcanza para un monitor y el setup básico, y suele ser más barato. En L (como el [Gadnic](https://meli.la/2hbZqXR) de esta guía, 130x130cm) suma superficie real para dos monitores o una consola al lado, a cambio de necesitar un rincón disponible.` },
+      { question: `¿Los escritorios gamer tienen luces LED?`, answer: `No todos. Muchas fotos de producto usan ambientes con luces de neón que no vienen con el escritorio. De esta comparativa, solo el [Tecno4U Spirit](https://meli.la/1rueKBU) trae RGB real (controlado por Bluetooth); el resto no tiene luces, aunque alguno como el [Gadnic](https://meli.la/2hbZqXR) tiene un filo de color que no es iluminación.` },
+      { question: `¿Qué escritorio gamer conviene si no tengo mueble para la PC?`, answer: `El [Madesa 9424](https://meli.la/2ZTKyT8) es el único de esta comparativa con estantería incorporada (5 estantes, uno pensado para la CPU o la consola), además de ser el más barato.` },
+      { question: `¿Es verdad que el Tecno4U Spirit no trae control remoto?`, answer: `Sí. Pese a que el nombre de la publicación dice "Control Remoto", la propia descripción del vendedor aclara que NO lo incluye: las luces RGB se manejan por Bluetooth desde el celular. Lo marcamos en la ficha porque el nombre puede llevar a confusión.` },
+      { question: `¿La "fibra de carbono" del tablero es un material real?`, answer: `En esta comparativa, no. Tanto el Gadnic como el Tecno4U usan ese nombre para un acabado texturizado impreso sobre el tablero (MFC o acero), no fibra de carbono real. Es una aclaración de honestidad, no afecta la resistencia del mueble.` },
+      { question: `¿Cuánto hay que armarlos, vienen con herramientas?`, answer: `Los cuatro escritorios de esta comparativa requieren armado. El Good Game y el Madesa traen manual impreso y herramientas; el Tecno4U, según la ficha técnica, no incluye manual impreso (aunque una reseña real menciona haber usado un video de instrucciones).` },
+    ],
+    internalLinks: [
+      { label: "Silla gamer: cuál comprar", href: "/guias/gaming/silla-gamer" },
+      { label: "Setup gamer completo: cuánto sale armarlo", href: "/guias/gaming/setup-gamer" },
+      { label: "Monitor gamer: cuál comprar", href: "/guias/gaming/monitor-gamer" },
+      { label: "Teclado gamer: cuál comprar", href: "/guias/gaming/teclado-gamer" },
+      { label: "Mouse gamer: cuál comprar", href: "/guias/gaming/mouse-gamer" },
     ],
     internalLinksTitle: "Más para tu setup gamer",
   },
