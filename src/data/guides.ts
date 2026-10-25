@@ -37045,6 +37045,128 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     ],
     internalLinksTitle: "Más de hogar y jardín",
   },
+
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva iphone-18 — silo tech, categoría "iphone". Origen:
+  // pedido directo de Juan 2026-10-25 (línea nueva de Apple, ganar
+  // notoriedad/SEO temprano). Keyword "iphone 18" validada con
+  // Keyword Planner: 110.000/mes Argentina (74.000 Ubersuggest),
+  // "iphone 18 pro max" 40.500, "iphone 18 pro" 18.100, "iphone duo"
+  // 8.100. SERP de "iphone duo" con dificultad orgánica baja (SD 17,
+  // Ubersuggest) por ser tema recién publicado, sin contenido SEO
+  // asentado; "iphone plegable" en cambio lo domina 100% prensa
+  // grande (Clarín, TN, Xataka), sin hueco real para un sitio DA1 —
+  // por eso el ángulo "iphone duo" y no "iphone plegable" para esa
+  // sección. Cero canibalización (no existía contenido de iPhone en
+  // el sitio). Sourcing de Pro/Pro Max en vivo el mismo día (ver
+  // fichas en curated-products.ts): confirmado con Juan vía
+  // AskUserQuestion que SÍ se monetiza con aviso honesto de que
+  // todavía no hay distribuidor oficial de Apple en el país. El
+  // iPhone Duo es deliberadamente informativo, sin product-card ni
+  // link de afiliado (instrucción explícita de Juan: "Solo informar,
+  // sin link para el Duo todavía... pero podemos ir ganando
+  // visibilidad") — la única opción real en ML es una publicación de
+  // un vendedor sin ventas ni reputación, que no se nombra ni se
+  // linkea. El enlace de esa sección va a la página oficial de Apple
+  // (no afiliado), aclarando que es internacional, no de Argentina.
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "iphone-18",
+    category: "iphone",
+    silo: "tech",
+    title: `iPhone 18: Pro, Pro Max y el iPhone Duo en Argentina [2026]`,
+    seoTitle: `iPhone 18 en Argentina: Precio, Specs y el iPhone Duo`,
+    metaDescription: `iPhone 18 Pro y Pro Max ya están en MercadoLibre Argentina: precio real, specs verificadas y vendedor confiable. Más lo que se sabe hasta ahora del iPhone Duo.`,
+    ogTitle: `iPhone 18 en Argentina: precio real y el iPhone Duo`,
+    ogDescription: `iPhone 18 Pro y Pro Max comparados con precios reales de MercadoLibre Argentina, y todo lo que se sabe hasta ahora del iPhone Duo, el primer plegable de Apple.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_631647-MLA116920350112_092026-F.webp`,
+    h1: `iPhone 18: Pro, Pro Max y el iPhone Duo plegable en Argentina [2026]`,
+    directAnswer: `El **[iPhone 18 Pro](/producto/apple-iphone-18-pro-256gb-mlau5324238070)** (desde {{precio:MLAU5324238070:k}}) y el **[iPhone 18 Pro Max](/producto/apple-iphone-18-pro-max-512gb-mlau5285018599)** (desde {{precio:MLAU5285018599:k}}) ya se consiguen en MercadoLibre Argentina, aunque todavía no hay distribuidor oficial de Apple para esta línea: lo que hay son revendedores. La diferencia entre los dos es sobre todo batería y pantalla, con el Pro Max rindiendo hasta 43 horas de video contra 34 del Pro. El **iPhone Duo**, el primer plegable de Apple, todavía no tiene ninguna opción de compra confiable en el país: acá contamos lo que se sabe hasta ahora, sin recomendar ninguna publicación puntual.`,
+    publishedDate: "2026-10-25",
+    updatedDate: "2026-10-25",
+    hasDisclosure: true,
+    readingTime: 9,
+    standfirst: `Apple presentó la línea iPhone 18 en septiembre de 2026, con el Pro y el Pro Max ya a la venta y el iPhone Duo (su primer plegable) agotándose en las reservas internacionales. En Argentina, hoy, nada de esto llegó todavía por un distribuidor oficial de Apple: el Pro y el Pro Max sí se consiguen con revendedores verificables en MercadoLibre, mientras que el Duo no tiene todavía una opción de compra confiable en el país. Esta guía separa las dos situaciones con precios reales y la misma honestidad de siempre.`,
+    quickPicks: [
+      { productMlaId: "MLAU5324238070", label: "Mejor elección general", labelColor: "green", tagline: "iPhone 18 Pro: toda la línea Pro, chip A20 Pro real" },
+      { productMlaId: "MLAU5285018599", label: "Más batería y pantalla", labelColor: "blue", tagline: "iPhone 18 Pro Max: hasta 43 horas de video, 512GB" },
+    ],
+    intro: [
+      `Apple presentó la línea iPhone 18 el 9 de septiembre de 2026, con el chip A20 Pro (fabricado en 2 nanómetros, con refrigeración por vapor) como la novedad central del Pro y el Pro Max, y el iPhone Duo como la gran apuesta: el primer teléfono plegable de la marca, con una pantalla interior de 7,6 pulgadas. En Estados Unidos, el Pro arranca en USD 1.199 y el Pro Max en USD 1.299 (ambos de 256GB); el Duo, bastante más caro, va de USD 1.999 a USD 3.199 según capacidad.`,
+      `En Argentina, el panorama es distinto para cada modelo. El [iPhone 18 Pro](/producto/apple-iphone-18-pro-256gb-mlau5324238070) y el [iPhone 18 Pro Max](/producto/apple-iphone-18-pro-max-512gb-mlau5285018599) ya se consiguen en MercadoLibre con vendedores de trayectoria real verificable, aunque todavía sin distribuidor oficial de Apple en el país. El iPhone Duo, en cambio, hoy no tiene ninguna opción de compra que podamos recomendar con la misma confianza: más abajo contamos qué se sabe del equipo y por qué no incluimos ningún link de compra para él, al menos por ahora.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_631647-MLA116920350112_092026-F.webp", alt: `iPhone 18 Pro, la elección general de esta guía`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `El **[iPhone 18 Pro](/producto/apple-iphone-18-pro-256gb-mlau5324238070)** (desde {{precio:MLAU5324238070:k}}) y el **[iPhone 18 Pro Max](/producto/apple-iphone-18-pro-max-512gb-mlau5285018599)** (desde {{precio:MLAU5285018599:k}}) ya están en MercadoLibre Argentina, con revendedores verificables mientras no haya distribución oficial de Apple. La diferencia real entre ambos es **batería y pantalla**: el Pro Max rinde hasta 43 horas de video contra 34 del Pro. El **iPhone Duo** todavía no tiene una opción de compra confiable en el país: lo contamos más abajo, sin recomendar ninguna publicación puntual.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo armamos esta guía:** las fichas del Pro y el Pro Max son del mismo vendedor, una tienda con más de 6.700 calificaciones en su catálogo general, aunque estas publicaciones puntuales del iPhone 18 son nuevas y casi sin opiniones propias todavía. Verificamos el chip real cruzando fuentes como Apple Support y MacRumors contra las propias imágenes de marketing oficial de Apple que trae la galería de cada publicación, porque la ficha técnica de MercadoLibre de las dos tiene un error de carga (dice "Apple A16 Bionic", el chip del iPhone 15 Pro, no el real). La sección del iPhone Duo es solo informativa: no lleva botón de compra ni recomienda ninguna publicación puntual, porque no encontramos ninguna con la confianza suficiente.` },
+
+      { type: "warning", content: `Todavía no hay distribuidor oficial de Apple en Argentina para la línea 18, a diferencia del iPhone 17 y el 16, que sí tienen tienda oficial. Lo que vas a encontrar en MercadoLibre, incluidas las publicaciones de esta guía, son revendedores que importan el equipo. El precio de hoy responde a ese mercado de importación: es esperable que baje si Apple suma un distribuidor oficial en el país más adelante.` },
+
+      { type: "h2", title: `Qué cambia en la línea 18`, id: "que-cambia" },
+      { type: "p", content: `El cambio central del [iPhone 18 Pro](/producto/apple-iphone-18-pro-256gb-mlau5324238070) y el [iPhone 18 Pro Max](/producto/apple-iphone-18-pro-max-512gb-mlau5285018599) es el chip **A20 Pro**, el primero de Apple fabricado en un proceso de 2 nanómetros, con un sistema de refrigeración por vapor que promete más potencia sostenida sin que el equipo se recaliente tanto en uso exigente. La cámara principal pasa a ser una Fusion de 48 Mpx con apertura variable, según la ficha oficial de Apple. En batería, Apple declara hasta 34 horas de reproducción de video en el Pro y hasta 43 en el Pro Max, con carga al 50% en unos 15 minutos.` },
+      { type: "p", content: `Un dato a tener en cuenta si buscás esta ficha técnica en MercadoLibre: las dos publicaciones de esta guía tienen un error de carga en el campo de procesador, que dice "Apple A16 Bionic" (el chip del iPhone 15 Pro, de 2023, dos generaciones atrás). Lo corregimos en cada ficha, pero es un buen ejemplo de por qué conviene no dar por bueno un dato técnico de una publicación sin cruzarlo con otra fuente.` },
+
+      { type: "h2", title: `El iPhone 18 Pro y Pro Max en Argentina`, id: "ranking" },
+
+      { type: "h3", title: `1. iPhone 18 Pro: mejor elección general` },
+      { type: "product-card", productMlaId: "MLAU5324238070", label: "Mejor elección general", labelColor: "green", ranking: 1, description: `256GB, chip A20 Pro real, cámara Fusion de 48 Mpx. Vendido por una tienda con 4,9 estrellas en más de 6.700 calificaciones de su catálogo general.` },
+      { type: "p", content: `El [iPhone 18 Pro](/producto/apple-iphone-18-pro-256gb-mlau5324238070) es la puerta de entrada a la línea Pro de esta generación, a alrededor de {{precio:MLAU5324238070:k}}. Lo vende camredtecnology, una tienda con 4,9 estrellas y más de 6.700 calificaciones en su catálogo general (Nintendo Switch 2, PlayStation 5 Pro, Samsung Galaxy S25 Ultra, entre otros productos de volumen real).` },
+      { type: "p", content: `La contra real: esta publicación puntual todavía no tiene opiniones propias por ser tan nueva, y el precio de hoy es de mercado de importador, no de una lista oficial de Apple Argentina. Disponible en 4 colores: Azul, Burdeos, Negro y Plateado.` },
+
+      { type: "h3", title: `2. iPhone 18 Pro Max: más batería y pantalla` },
+      { type: "product-card", productMlaId: "MLAU5285018599", label: "Más batería y pantalla", labelColor: "blue", ranking: 2, description: `512GB, chip A20 Pro real, hasta 43 horas de video. {{rating:MLAU5285018599}} estrellas en sus primeras {{reviews:MLAU5285018599}} calificaciones.` },
+      { type: "p", content: `El [iPhone 18 Pro Max](/producto/apple-iphone-18-pro-max-512gb-mlau5285018599), del mismo vendedor que el Pro de esta guía, suma batería y pantalla más grandes a cambio de {{preciodif:MLAU5285018599:MLAU5324238070}} más, a alrededor de {{precio:MLAU5285018599:k}}. Ya tiene 3 ventas y sus primeras {{reviews:MLAU5285018599}} calificaciones, con un promedio de {{rating:MLAU5285018599}} estrellas.` },
+      { type: "pull-quote", content: `"Al momento perfecto."`, attribution: `Opinión verificada en MercadoLibre` },
+      { type: "p", content: `La contra real: con solo {{reviews:MLAU5285018599}} calificaciones, es una base todavía muy chica para sacar conclusiones firmes, aunque la primera señal es positiva. Disponible en 3 colores: Azul, Negro y Plateado.` },
+
+      { type: "h2", title: `Tabla comparativa: Pro vs Pro Max`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Chip`, `Batería (video)`, `Colores`, `Ideal para`], rows: [
+        [`[iPhone 18 Pro](/producto/apple-iphone-18-pro-256gb-mlau5324238070)`, `{{precio:MLAU5324238070}}`, `A20 Pro`, `Hasta 34 horas`, `Azul, Burdeos, Negro, Plateado`, `Entrada a la línea Pro`],
+        [`[iPhone 18 Pro Max](/producto/apple-iphone-18-pro-max-512gb-mlau5285018599)`, `{{precio:MLAU5285018599}}`, `A20 Pro`, `Hasta 43 horas`, `Azul, Negro, Plateado`, `Más pantalla y batería`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir entre el Pro y el Pro Max`, id: "como-elegir" },
+      { type: "h3", title: `¿Te alcanza con una jornada larga de batería, o querés el máximo?` },
+      { type: "p", content: `El [iPhone 18 Pro](/producto/apple-iphone-18-pro-256gb-mlau5324238070) ya rinde 34 horas de video, de sobra para el día a día. Si viajás seguido o pasás mucho tiempo sin cargador a mano, las 43 horas del [Pro Max](/producto/apple-iphone-18-pro-max-512gb-mlau5285018599) son una diferencia real, no solo de marketing.` },
+      { type: "h3", title: `¿Te importa la pantalla más grande?` },
+      { type: "p", content: `El Pro Max tiene la pantalla más grande de los dos, algo a tener en cuenta si venís de un modelo chico y notás la diferencia al mirar video o leer.` },
+      { type: "h3", title: `¿Cuánto te importa el precio?` },
+      { type: "p", content: `El [Pro Max](/producto/apple-iphone-18-pro-max-512gb-mlau5285018599) de esta comparativa cuesta {{preciodif:MLAU5285018599:MLAU5324238070}} más que el [Pro](/producto/apple-iphone-18-pro-256gb-mlau5324238070) (son capacidades distintas, 512GB contra 256GB, no es una comparación 1 a 1). Si el presupuesto es ajustado, el Pro te da toda la experiencia Pro de esta generación a un precio más accesible.` },
+
+      { type: "h2", title: `Qué se sabe hasta ahora del iPhone Duo, el primer plegable de Apple`, id: "iphone-duo" },
+      { type: "p", content: `El iPhone Duo es el primer teléfono plegable de Apple, presentado el mismo 9 de septiembre de 2026 junto al resto de la línea 18. Según la ficha oficial, tiene una pantalla exterior de 5,4 pulgadas y una interior OLED de 7,6 pulgadas al desplegarlo (la más grande instalada hasta ahora en un iPhone), con un grosor de 5,2 mm abierto y 11,3 mm cerrado, 254 gramos de peso, y una bisagra de titanio con más de 100 piezas diseñada para minimizar el pliegue visible en el centro de la pantalla.` },
+      { type: "p", content: `En Estados Unidos, Apple lo vende desde USD 1.999 (256GB) hasta USD 3.199 (2TB). Las reservas internacionales abrieron a mediados de octubre de 2026 y la demanda fue tan alta que, en varios países, las entregas se corrieron de octubre a noviembre, diciembre e incluso enero de 2027 para quienes reservaron después de los primeros minutos.` },
+      { type: "p", content: `Apple todavía no anunció precio ni fecha de lanzamiento oficial para Argentina. Al buscarlo en MercadoLibre Argentina hoy, encontramos una sola publicación real del equipo (no accesorios ni fundas), de un vendedor sin ventas ni calificaciones previas: no la nombramos ni la linkeamos acá, porque no podemos verificar que sea una compra segura. Si te interesa reservarlo apenas se pueda, la única dirección confiable hoy es la [página oficial del iPhone Duo en Apple](https://www.apple.com/la/iphone-duo/) (aclarando que es la página internacional de Latinoamérica, no una tienda de Apple Argentina, que todavía no existe para este equipo). Vamos a actualizar esta sección en cuanto cambie la situación.` },
+
+      { type: "h2", title: `Cuánto cuesta el iPhone 18 en Argentina [octubre 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de {{precio:MLAU5324238070:k}}:** el [iPhone 18 Pro](/producto/apple-iphone-18-pro-256gb-mlau5324238070), 256GB, la entrada a la línea Pro.`,
+        `**Alrededor de {{precio:MLAU5285018599:k}}:** el [iPhone 18 Pro Max](/producto/apple-iphone-18-pro-max-512gb-mlau5285018599), 512GB, más batería y pantalla.`,
+        `**Sin precio ni distribución oficial todavía:** el iPhone Duo. En Estados Unidos arranca en USD 1.999 (256GB); en Argentina solo hay una publicación de un vendedor sin reputación verificable, que no recomendamos.`,
+      ] },
+
+      { type: "h2", title: `Veredicto`, id: "veredicto" },
+      { type: "verdict", content: `Para la mayoría, el **[iPhone 18 Pro](/producto/apple-iphone-18-pro-256gb-mlau5324238070)**: toda la experiencia Pro de esta generación, con el chip A20 Pro real, a un precio más accesible que el Pro Max. Si necesitás la mayor batería posible o una pantalla más grande, el **[iPhone 18 Pro Max](/producto/apple-iphone-18-pro-max-512gb-mlau5285018599)**. Los dos se consiguen hoy en MercadoLibre Argentina con un vendedor de trayectoria verificable, aunque todavía sin distribución oficial de Apple en el país. El **iPhone Duo** es distinto: hasta que exista una opción de compra que podamos verificar, la recomendación es esperar y seguir esta guía, que vamos a actualizar en cuanto cambie la situación.` },
+    ],
+    faq: [
+      { question: `¿Cuándo sale el iPhone 18 en Argentina?`, answer: `El iPhone 18 Pro y el Pro Max ya se consiguen en MercadoLibre Argentina desde octubre de 2026, aunque todavía sin un distribuidor oficial de Apple en el país. El iPhone Duo no tiene fecha ni precio oficial confirmado para Argentina.` },
+      { question: `¿Cuál es el chip real del iPhone 18 Pro?`, answer: `El A20 Pro, fabricado en 2 nanómetros con refrigeración por vapor. Las fichas de MercadoLibre de esta guía tienen un error de carga que dice "Apple A16 Bionic": ese es el chip del iPhone 15 Pro de 2023, no el del 18 Pro.` },
+      { question: `¿Qué diferencia hay entre el iPhone 18 Pro y el Pro Max?`, answer: `Principalmente batería y pantalla: el Pro Max rinde hasta 43 horas de reproducción de video contra 34 del Pro, según Apple, y tiene pantalla más grande. La publicación del Pro Max de esta guía es además de 512GB contra 256GB del Pro, y cuesta {{preciodif:MLAU5285018599:MLAU5324238070}} más.` },
+      { question: `¿Hay distribuidor oficial de Apple en Argentina para el iPhone 18?`, answer: `No todavía. Hoy, en MercadoLibre, las publicaciones del iPhone 18 son de revendedores/importadores, a diferencia del iPhone 17 y el 16, que sí tienen tienda oficial Apple con distribuidor autorizado.` },
+      { question: `¿Qué es el iPhone Duo?`, answer: `El primer teléfono plegable de Apple, presentado el 9 de septiembre de 2026. Tiene pantalla exterior de 5,4 pulgadas e interior OLED de 7,6 pulgadas al desplegarlo, con bisagra de titanio.` },
+      { question: `¿Cuánto cuesta el iPhone Duo?`, answer: `En Estados Unidos, de USD 1.999 (256GB) a USD 3.199 (2TB). Apple todavía no anunció precio oficial para Argentina.` },
+      { question: `¿Se puede comprar el iPhone Duo en Argentina?`, answer: `No con una opción que podamos recomendar hoy. Encontramos una sola publicación real del equipo en MercadoLibre Argentina, de un vendedor sin ventas ni calificaciones previas, y preferimos no nombrarla ni linkearla hasta poder verificarla con confianza.` },
+      { question: `¿Qué colores tiene el iPhone 18 Pro?`, answer: `En la publicación de esta guía: Azul, Burdeos, Negro y Plateado. El Pro Max de esta misma guía está disponible en Azul, Negro y Plateado.` },
+    ],
+    internalLinks: [
+      { label: "Smartwatch: cuál comprar en Argentina", href: "/guias/tech/smartwatch" },
+      { label: "Cargador portátil: cuál comprar en Argentina", href: "/guias/tech/cargador-portatil" },
+      { label: "Reloj Garmin: cuál comprar en Argentina", href: "/guias/tech/reloj-garmin" },
+    ],
+    internalLinksTitle: "Más de tecnología",
+  },
 ];
 
 /**
@@ -37310,6 +37432,11 @@ export const guideCategories: Record<string, { name: string; description: string
     name: "Guía de Relojes Garmin",
     description:
       "Forerunner, Fenix e Instinct: cuál conviene según si corrés, entrenás o salís al cerro, con batería y resistencia verificadas contra Garmin.",
+  },
+  iphone: {
+    name: "Guía de iPhone",
+    description:
+      "Pro, Pro Max y el iPhone Duo plegable: precios reales verificados en MercadoLibre Argentina y qué cambia entre modelos.",
   },
   "impresoras-3d": {
     name: "Guía de Impresoras 3D",
