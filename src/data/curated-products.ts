@@ -111184,6 +111184,451 @@ Comprala si el detalle RGB real te importa y estás dispuesto a manejarlo desde 
       },
     },
   },
+  {
+    id: "MLA45866946",
+    title: "Silla Ergonomica Circle Line CL-9050 Mesh Negra",
+    canonicalName: "Silla Ergonómica Circle Line CL-9050",
+    brand: "Circle Line",
+    price: 74999,
+    originalPrice: 109999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_767825-MLA96145926685_102025-OO.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_767825-MLA96145926685_102025-OO.webp"],
+    category: "Oficina",
+    categorySlug: "oficina",
+    permalink: "https://www.mercadolibre.com.ar/silla-de-escritorio-oficina-ergonomica-circle-line-mesh-color-negro/p/MLA45866946",
+    affiliateUrl: "https://meli.la/2TMASqa",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.4,
+    reviewCount: 1319,
+    priceUpdated: "2026-10-25",
+    priceLastChecked: "2026-10-25",
+    priceVerifiedAt: "2026-10-25",
+    priceStatus: "fresh",
+    visibility: "normal",
+    pastelColor: "var(--pastel-blue)",
+    seoTitle: "Silla Ergonómica Circle Line CL-9050: la más barata, ¿rinde?",
+    metaDescription: "La silla ergonómica más barata de esta comparativa, a {{precio:MLA45866946}} con {{reviews:MLA45866946}} calificaciones reales. Soporta hasta 100 kg.",
+    description: "Silla ergonómica Circle Line CL-9050: la más barata de esta comparativa, tapizado Mesh, estructura de acero inoxidable, {{reviews:MLA45866946}} calificaciones reales.",
+    specs: [
+      { label: "Marca", value: "Circle Line" },
+      { label: "Modelo", value: "CL-9050" },
+      { label: "Material del tapizado", value: "Mesh" },
+      { label: "Estructura", value: "Acero inoxidable, acabado cromado" },
+      { label: "Relleno", value: "Espuma y goma" },
+      { label: "Peso máximo soportado", value: "100 kg" },
+      { label: "Altura del respaldo", value: "46,5 cm" },
+      { label: "Profundidad del asiento", value: "41 cm" },
+      { label: "Ancho de la silla", value: "57 cm" },
+      { label: "Altura máxima de la silla", value: "98,5 cm" },
+      { label: "Apoyabrazos", value: "Sí, fijos (no ajustables)" },
+      { label: "Apoyacabezas", value: "No tiene" },
+      { label: "Apoyapiés", value: "No tiene" },
+      { label: "Ensamblado", value: "Requiere armado, incluye manual" },
+    ],
+    relatedProducts: ["MLA53389976", "MLA2402856528", "MLA1493999325"],
+    customerReviews: [
+      { rating: 4, date: "2026-03", country: "Argentina", text: "La silla cumple. Si buscas algo para laburar un par de horas está más que bien. Ahora buscas algo para toda la vida y que sea buena no es esta. Esta es la típica bueno, bonito, barato. Buena postura, los rodamientos son medio pelo pero van, apoyabrazos bien, costuras bien. Resumen, si buscas algo barato y cómodo, es esta!.", useful: 18 },
+      { rating: 5, date: "2025-11", country: "Argentina", text: "Tiene multiples usos, para escritorio, en nuestro caso lo usamos para peluqueria.", useful: 21 },
+      { rating: 5, date: "2026-01", country: "Argentina", text: "Sirve para laburar, mirar tele y hasta para poner la ropa recien descolgada.", useful: 94 },
+    ],
+    reviewsSampledAt: "2026-10-25",
+    verdict: "El Circle Line CL-9050 es la silla ergonómica más barata de esta comparativa, a {{precio:MLA45866946}}, y también la que más calificaciones acumula: {{reviews:MLA45866946}}, bien por encima de las otras tres. Tapizado Mesh, estructura de acero inoxidable y altura ajustable cumplen para laburar o estudiar unas horas por día. Lo que no tiene: apoyacabezas, apoyapiés, ni apoyabrazos regulables, y declara el peso máximo soportado más bajo de la comparativa (100 kg). Para uso liviano y gastar lo mínimo, es la entrada más probada; para sentarte muchas horas o pesar más, conviene mirar una de las otras tres.",
+    pros: [
+      "La más barata de esta comparativa, a {{precio:MLA45866946}}",
+      "La de más calificaciones: {{reviews:MLA45866946}} opiniones con {{rating:MLA45866946}} estrellas de promedio",
+      "Tapizado Mesh transpirable y estructura de acero inoxidable con acabado cromado",
+      "Altura ajustable y buena relación precio-calidad según las reseñas ('bueno, bonito, barato')",
+    ],
+    cons: [
+      "El peso máximo soportado más bajo de la comparativa: 100 kg, contra 120 y 150 kg declarados de la Cougar y la Alpina, y 250 kg declarados (con una contradicción sin resolver) de la Dyvan",
+      "Apoyabrazos fijos (no ajustables) y sin apoyacabezas ni apoyapiés",
+      "Reseñas de uso intensivo señalan que los rodamientos son 'medio pelo' y que no es para 'toda la vida'",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Circle Line CL-9050 es una silla ergonómica de escritorio con tapizado Mesh y estructura de acero inoxidable con acabado cromado. Es la más barata de esta comparativa y también la que más calificaciones reales acumula en MercadoLibre Argentina: {{reviews:MLA45866946}}.
+
+## Lo bueno: precio y volumen de opiniones
+
+A {{precio:MLA45866946}}, es la entrada más accesible de las cuatro sillas de esta guía, y lo avala el volumen: {{reviews:MLA45866946}} calificaciones con {{rating:MLA45866946}} estrellas de promedio, bien por encima de las otras tres. El tapizado Mesh transpira bien, la altura es ajustable, y varias reseñas la describen con la fórmula clásica: "bueno, bonito, barato".
+
+## La contra real: la más básica en soporte
+
+Es la única de esta comparativa sin apoyacabezas ni apoyapiés, con apoyabrazos fijos (no se ajustan), y declara el peso máximo soportado más bajo: 100 kg, contra 120 y 150 kg declarados de la Cougar y la Alpina, y hasta 250 kg declarados de la Dyvan (aunque esa cifra tiene una contradicción sin resolver dentro de su propia página de MercadoLibre, ver su ficha). Una reseña real lo resume bien: cumple para laburar un par de horas, pero "si buscas algo para toda la vida y que sea buena, no es esta".
+
+## Para quién sí y para quién no
+
+Comprala si tu prioridad es gastar lo mínimo y la vas a usar unas horas por día. Si pesás más de 100 kg, te sentás muchas horas seguidas o querés apoyacabezas y apoyapiés, conviene mirar la [Alpina S5](/producto/silla-ergonomica-alpina-s5-reclinable-mesh-negra-mla53389976) o, directamente, la [Dyvan E05](/producto/silla-ergonomica-dyvan-e05-reclinable-con-apoyapies-gris-mla1493999325).`,
+    faq: [
+      { question: "¿Cuánto peso soporta la Circle Line CL-9050?", answer: "Según su ficha técnica, hasta 100 kg: el máximo declarado más bajo de esta comparativa de 4 sillas ergonómicas. Si pesás más que eso, conviene mirar una de las otras tres, que declaran entre 120 y 150 kg (la Dyvan declara 250 kg, pero esa cifra tiene una contradicción sin resolver dentro de su propia página de MercadoLibre)." },
+      { question: "¿Tiene apoyacabezas o apoyapiés?", answer: "No. Es la única silla de esta comparativa sin ninguno de los dos. Si los necesitás, la Alpina S5 trae apoyacabezas y la Dyvan E05 trae ambos." },
+      { question: "¿Los apoyabrazos son ajustables?", answer: "No, son fijos: suben y bajan con la silla, pero no se regulan en altura ni ángulo por separado." },
+      { question: "¿Por qué es tan barata comparada con las otras?", answer: "Es la entrada de la comparativa: menos capacidad de peso, sin apoyacabezas ni apoyapiés, apoyabrazos fijos. Para uso liviano de unas horas por día cumple bien, según confirman sus {{reviews:MLA45866946}} calificaciones." },
+      { question: "¿Viene armada?", answer: "No, requiere ensamblado. Incluye manual de armado." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Silla Ergonómica Circle Line CL-9050",
+      description: "Silla ergonómica Circle Line CL-9050, tapizado Mesh, estructura de acero inoxidable, la más barata de esta comparativa de MercadoLibre Argentina.",
+      brand: { "@type": "Brand", name: "Circle Line" },
+      sku: "MLA45866946",
+      category: "Muebles para el hogar",
+      image: "https://http2.mlstatic.com/D_NQ_NP_767825-MLA96145926685_102025-OO.webp",
+      url: "https://productosvirales.com.ar/producto/silla-ergonomica-circle-line-cl-9050-mesh-negra-mla45866946",
+      offers: {
+        "@type": "Offer",
+        priceCurrency: "ARS",
+        price: "74999",
+        availability: "https://schema.org/InStock",
+        seller: { "@type": "Organization", name: "MercadoLibre Argentina" },
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.4",
+        reviewCount: "1319",
+        bestRating: "5",
+        worstRating: "1",
+      },
+    },
+  },
+  {
+    id: "MLA53389976",
+    title: "Silla Ergonomica Alpina S5 Reclinable Mesh Negra",
+    canonicalName: "Silla Ergonómica Alpina S5",
+    brand: "Alpina",
+    price: 159990,
+    originalPrice: 196000,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_833379-MLA99413629500_112025-OO.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_833379-MLA99413629500_112025-OO.webp"],
+    category: "Oficina",
+    categorySlug: "oficina",
+    permalink: "https://www.mercadolibre.com.ar/silla-oficina-ergonomica-reclinable-escritorio-s5-mesh-color-negro-material-del-tapizado-tela-mesh/p/MLA53389976",
+    affiliateUrl: "https://meli.la/2QR5Ejw",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.6,
+    reviewCount: 385,
+    priceUpdated: "2026-10-25",
+    priceLastChecked: "2026-10-25",
+    priceVerifiedAt: "2026-10-25",
+    priceStatus: "fresh",
+    visibility: "normal",
+    pastelColor: "var(--pastel-slate)",
+    seoTitle: "Silla Alpina S5: cómoda, pero no para todos los altos",
+    metaDescription: "Silla ergonómica reclinable con apoyacabezas, a {{precio:MLA53389976}}. Soporta hasta 150 kg, pero las reseñas advierten: no es ideal si medís más de 1,75m.",
+    description: "Silla ergonómica Alpina S5: reclinable, con apoyacabezas y hasta 150 kg de peso soportado, la opción intermedia de esta comparativa de {{reviews:MLA53389976}} calificaciones.",
+    specs: [
+      { label: "Marca", value: "Alpina" },
+      { label: "Modelo", value: "S5" },
+      { label: "Material del tapizado", value: "Tela Mesh" },
+      { label: "Relleno", value: "Poliuretano" },
+      { label: "Acabado de la estructura", value: "Cromado" },
+      { label: "Peso máximo soportado", value: "150 kg" },
+      { label: "Altura del respaldo", value: "59 cm" },
+      { label: "Profundidad del asiento", value: "50 cm" },
+      { label: "Ancho de la silla", value: "45 cm" },
+      { label: "Altura máxima de la silla", value: "130 cm" },
+      { label: "Apoyacabezas", value: "Sí" },
+      { label: "Apoyabrazos", value: "Sí, fijos (no ajustables)" },
+      { label: "Apoyapiés", value: "No tiene" },
+      { label: "Ensamblado", value: "Requiere armado, incluye manual" },
+    ],
+    relatedProducts: ["MLA45866946", "MLA2402856528", "MLA1493999325"],
+    customerReviews: [
+      { rating: 4, date: "2025-10", country: "Argentina", text: "Buena relación calidad/precio, si mides mas de 1.75 olvidate de esta silla. La tuve que regalar, vamos a buscar otra.", useful: 17 },
+      { rating: 4, date: "2025-11", country: "Argentina", text: "Es buen producto, pero si eres muy alto no lo recomiendo, yo mido 1,90 y tengo dificultades pero el resto de mi familia le va perfecto.", useful: 9 },
+      { rating: 5, date: "2026-01", country: "Argentina", text: "La silla es cómoda y mantiene una buena postura. El respaldo se regula bien tanto en posición vertical como en la inclinación hacia atrás. El asiento y los apoyabrazos son confortables. Las ruedas ruedan bien, no se traban, y gira sin problemas. Como detalle, la tela del asiento/respaldo/apoyabrazos puede resultar un poco calurosa en esta época, pero se la ve resistente.", useful: 7 },
+    ],
+    reviewsSampledAt: "2026-10-25",
+    verdict: "La Alpina S5 es la opción intermedia de esta comparativa: reclinable, con apoyacabezas y hasta 150 kg de peso soportado, a {{precio:MLA53389976}}. El respaldo se regula bien y los apoyabrazos son cómodos según las reseñas. La contra real, confirmada por varios compradores: la altura máxima de 130 cm la hace incómoda para gente de más de 1,75 a 1,80m, al punto de que algunos la devolvieron o regalaron por eso. Si medís dentro de ese rango, cumple bien; si sos alto, conviene ver otra opción de la comparativa.",
+    pros: [
+      "Reclinable y con apoyacabezas, a diferencia de la más barata de la comparativa",
+      "Soporta hasta 150 kg, la segunda capacidad más alta de las cuatro",
+      "Respaldo regulable en inclinación y apoyabrazos cómodos según las reseñas",
+      "{{reviews:MLA53389976}} calificaciones con {{rating:MLA53389976}} estrellas de promedio",
+    ],
+    cons: [
+      "Altura máxima de 130 cm: varias reseñas de compradores de 1,75m a 1,90m reportan incomodidad real, al punto de devolverla o regalarla",
+      "Apoyabrazos fijos, no ajustables",
+      "Sin apoyapiés",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Alpina S5 es una silla ergonómica reclinable con tapizado de tela Mesh, apoyacabezas y estructura con acabado cromado. Es la opción intermedia de esta comparativa: más prestaciones que la Circle Line, a bastante menos precio que la Cougar Stryder o la Dyvan E05.
+
+## Lo bueno: reclinable, apoyacabezas y buena capacidad de peso
+
+A {{precio:MLA53389976}}, suma lo que la más barata de la comparativa no tiene: apoyacabezas y respaldo reclinable, con una buena regulación según las reseñas ("se regula bien tanto en posición vertical como en la inclinación hacia atrás"). Soporta hasta 150 kg, la segunda capacidad más alta de las cuatro sillas de esta guía, con {{reviews:MLA53389976}} calificaciones y {{rating:MLA53389976}} estrellas de promedio.
+
+## La contra real: no es para todas las alturas
+
+Acá hay que ser honestos con un dato que no está en la ficha técnica pero sí en las reseñas: con 130 cm de altura máxima, varios compradores de entre 1,75 y 1,90 metros reportan dificultades reales de comodidad. Uno de ellos la tuvo que regalar y buscar otra; otro, con 1,90m, confirma que le cuesta aunque "el resto de mi familia le va perfecto". No es un defecto de fabricación, es un límite de diseño que conviene conocer antes de comprar si sos alto.
+
+## Para quién sí y para quién no
+
+Comprala si medís hasta 1,75m aproximadamente y buscás reclinación y apoyacabezas sin pagar el salto a la Cougar Stryder o la Dyvan E05. Si sos más alto, o ya tuviste este problema con otra silla, conviene mirar la [Cougar Stryder](/producto/silla-ergonomica-cougar-stryder-hibrida-gris-mla2402856528) o la [Dyvan E05](/producto/silla-ergonomica-dyvan-e05-reclinable-con-apoyapies-gris-mla1493999325): ninguna de las dos tiene reseñas reportando este problema, aunque sus specs de altura máxima (125 cm y 130 cm) no son muy distintas a los 130 cm de esta Alpina, así que el límite parece estar más en el diseño puntual del respaldo que en un número de ficha técnica.`,
+    faq: [
+      { question: "¿La Alpina S5 sirve si soy alto?", answer: "Con reservas. Su altura máxima es de 130 cm, y varias reseñas reales de compradores de entre 1,75 y 1,90 metros reportan incomodidad, al punto de devolverla o regalarla. Si medís más de 1,75m, conviene probar otra silla de esta comparativa antes de comprar." },
+      { question: "¿Cuánto peso soporta?", answer: "Hasta 150 kg según su ficha técnica, la segunda capacidad más alta de esta comparativa de 4 sillas. La Dyvan E05 declara 250 kg, pero esa cifra tiene una contradicción sin resolver dentro de su propia página de MercadoLibre (ver su ficha)." },
+      { question: "¿Tiene apoyacabezas?", answer: "Sí, es una de las tres de esta comparativa que lo trae (la Circle Line es la única sin apoyacabezas)." },
+      { question: "¿Los apoyabrazos son ajustables?", answer: "No, son fijos." },
+      { question: "¿Tiene apoyapiés?", answer: "No. De esta comparativa, solo la Dyvan E05 lo trae." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Silla Ergonómica Alpina S5",
+      description: "Silla ergonómica Alpina S5, reclinable, con apoyacabezas, tela Mesh, hasta 150 kg de peso soportado, de MercadoLibre Argentina.",
+      brand: { "@type": "Brand", name: "Alpina" },
+      sku: "MLA53389976",
+      category: "Muebles para el hogar",
+      image: "https://http2.mlstatic.com/D_NQ_NP_833379-MLA99413629500_112025-OO.webp",
+      url: "https://productosvirales.com.ar/producto/silla-ergonomica-alpina-s5-reclinable-mesh-negra-mla53389976",
+      offers: {
+        "@type": "Offer",
+        priceCurrency: "ARS",
+        price: "159990",
+        availability: "https://schema.org/InStock",
+        seller: { "@type": "Organization", name: "MercadoLibre Argentina" },
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.6",
+        reviewCount: "385",
+        bestRating: "5",
+        worstRating: "1",
+      },
+    },
+  },
+  {
+    id: "MLA2402856528",
+    title: "Silla Ergonomica Cougar Stryder Hibrida Gris",
+    canonicalName: "Silla Ergonómica Cougar Stryder",
+    brand: "Cougar",
+    price: 369999,
+    originalPrice: 449999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_872111-MLA101583303614_122025-OO.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_872111-MLA101583303614_122025-OO.webp"],
+    category: "Oficina",
+    categorySlug: "oficina",
+    permalink: "https://articulo.mercadolibre.com.ar/MLA-2402856528",
+    affiliateUrl: "https://meli.la/21pY1ZA",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 611,
+    priceUpdated: "2026-10-25",
+    priceLastChecked: "2026-10-25",
+    priceVerifiedAt: "2026-10-25",
+    priceStatus: "fresh",
+    visibility: "normal",
+    pastelColor: "var(--pastel-green)",
+    seoTitle: "Silla Cougar Stryder: la mejor valorada, ¿por qué?",
+    metaDescription: "Silla híbrida (gamer y ergonómica) con {{rating:MLA2402856528}} estrellas, la mejor valorada de esta comparativa. Apoyabrazos ajustables en altura y soporte lumbar regulable.",
+    description: "Silla ergonómica Cougar Stryder: híbrida entre gamer y oficina, {{rating:MLA2402856528}} estrellas en {{reviews:MLA2402856528}} calificaciones, la mejor valorada de esta comparativa.",
+    specs: [
+      { label: "Marca", value: "Cougar" },
+      { label: "Línea / Modelo", value: "Stryder (3MSTDBLB.0001)" },
+      { label: "Material del tapizado", value: "Tela simil lino" },
+      { label: "Estructura", value: "Acero inoxidable y plástico" },
+      { label: "Relleno", value: "Espuma" },
+      { label: "Acabado de la estructura", value: "Cromado" },
+      { label: "Peso máximo soportado", value: "120 kg" },
+      { label: "Altura del respaldo", value: "70 cm" },
+      { label: "Profundidad del asiento", value: "49 cm" },
+      { label: "Ancho de la silla", value: "68 cm" },
+      { label: "Altura máxima de la silla", value: "125 cm" },
+      { label: "Peso de la silla", value: "15 kg" },
+      { label: "Reclinación del respaldo", value: "De 90° a 120°" },
+      { label: "Soporte lumbar", value: "Regulable" },
+      { label: "Apoyacabezas", value: "Sí" },
+      { label: "Apoyabrazos", value: "Ajustables en altura (suben y bajan, no giran)" },
+      { label: "Apoyapiés", value: "No tiene" },
+      { label: "Clasificación en MercadoLibre", value: "Híbrida: declarada \"Es gamer: Sí\" y \"Es ergonómica: Sí\"" },
+    ],
+    relatedProducts: ["MLA45866946", "MLA53389976", "MLA1493999325"],
+    customerReviews: [
+      { rating: 5, date: "2025-11", country: "Argentina", text: "La mejor silla de mercado libre sin duda. Calidad 10/10, reclinable hacia atrás y con posibilidad de establecer si se quiere más tranqui o más de una. El almohadón de la espalda y de la cabeza me queda justos 10/10 (mido 1.69). Adicional el almohadón donde se apoya la cola es súper grande, re práctico para los que nos sentamos como indios para trabajar. Único disclaimer: los apoya brazos no son regulables de altura, solo podes levantarlos y bajarlos tipo los del avión/colectivo.", useful: 33 },
+      { rating: 5, date: "2025-11", country: "Argentina", text: "Es increíble la calidad de esos materiales, es demasiado cómoda, tiene una súper movilidad por sus ruedas. Lo que sí, lo único, es que vas a necesitar un juego de llave tubos para hacer más fácil la tarea, ya que los tornillos son bien justos y hay que hacer un poco de fuerza, y con la llave que viene se dificulta un poquito. Es increíble, le doy un 10 en estética, comodidad, te podés inclinar, los apoyabrazos quedan en el lugar que prefieras, es increíble esta silla, la recomiendo al 100%.", useful: 14 },
+      { rating: 5, date: "2026-07", country: "Argentina", text: "La compré hace varios meses y ya es momento de asegurar que es la mejor compra que hice en años. Yo soy tamaño minion así que para trabajar es espectacular y para ver pelis más aún. El asiento es mega acolchado, blandito y resistente, el respaldo en la zona lumbar me salvó la espalda (hago trabajos de costura y computadora 24/7).", useful: 11 },
+    ],
+    reviewsSampledAt: "2026-10-25",
+    verdict: "La Cougar Stryder es la silla mejor valorada de esta comparativa: {{rating:MLA2402856528}} estrellas en {{reviews:MLA2402856528}} calificaciones, por encima de las otras tres. MercadoLibre la clasifica como híbrida (gamer y ergonómica a la vez), con soporte lumbar regulable, reclinación de 90° a 120° y apoyabrazos que se ajustan en altura. A {{precio:MLA2402856528}}, es la opción del medio-alto de la comparativa: más cara que la Alpina, bastante más barata que la Dyvan E05. Si tu prioridad es la mejor experiencia validada por otros compradores, es la elegida.",
+    pros: [
+      "La mejor valorada de la comparativa: {{rating:MLA2402856528}} estrellas en {{reviews:MLA2402856528}} calificaciones",
+      "Clasificada como híbrida por MercadoLibre: diseño gamer con prestaciones ergonómicas reales (soporte lumbar regulable, reclinación 90°-120°)",
+      "Apoyabrazos ajustables en altura y apoyacabezas incluido",
+      "Reseñas reales destacan materiales de calidad y buena movilidad de las ruedas",
+    ],
+    cons: [
+      "Los apoyabrazos solo se ajustan en altura (suben y bajan), no en ángulo ni profundidad, según aclaran las propias reseñas",
+      "Peso máximo soportado de 120 kg, por debajo de la Alpina (150 kg) y de los 250 kg que declara la Dyvan (cifra con una contradicción sin resolver dentro de su propia página de MercadoLibre)",
+      "{{preciodif:MLA2402856528:MLA53389976}} más cara que la Alpina S5",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Cougar Stryder es una silla de escritorio que MercadoLibre clasifica como híbrida: combina el diseño robusto típico de una silla gamer con prestaciones pensadas para oficina, como soporte lumbar regulable y reclinación de 90° a 120°. Es la mejor valorada de esta comparativa de 4 sillas ergonómicas.
+
+## Lo bueno: la calificación más alta y versatilidad real
+
+Con {{rating:MLA2402856528}} estrellas en {{reviews:MLA2402856528}} calificaciones, es la silla con mejor puntaje de esta guía. Las reseñas reales coinciden en materiales de calidad, buena movilidad de las ruedas y comodidad para jornadas largas; una compradora que trabaja con costura y computadora todo el día destaca que "el respaldo en la zona lumbar me salvó la espalda". Trae apoyacabezas y apoyabrazos ajustables en altura.
+
+## La contra real: los apoyabrazos no son multidireccionales
+
+Pese a figurar como "ajustables" en la ficha técnica, varias reseñas aclaran que el ajuste es solo de altura, tipo los de un avión o colectivo: suben y bajan, pero no giran ni se abren hacia los costados. Tampoco es la que más peso soporta: 120 kg declarados, por debajo de la Alpina (150 kg) y de los 250 kg que declara la Dyvan E05, aunque esa cifra tiene una contradicción sin resolver dentro de la propia página de MercadoLibre de ese producto.
+
+## Para quién sí y para quién no
+
+Comprala si buscás la opción con mejor respaldo de otros compradores y un diseño híbrido que sirve tanto para jugar como para trabajar. Si necesitás apoyapiés integrado, la [Dyvan E05](/producto/silla-ergonomica-dyvan-e05-reclinable-con-apoyapies-gris-mla1493999325) es la única que lo trae; si buscás gastar menos, la [Alpina S5](/producto/silla-ergonomica-alpina-s5-reclinable-mesh-negra-mla53389976) cumple a mitad de precio.`,
+    faq: [
+      { question: "¿Por qué la Cougar Stryder es la mejor valorada?", answer: "Tiene {{rating:MLA2402856528}} estrellas en {{reviews:MLA2402856528}} calificaciones, la calificación más alta de las 4 sillas de esta comparativa. Las reseñas destacan materiales de calidad, comodidad y buena movilidad." },
+      { question: "¿Es una silla gamer o ergonómica?", answer: "Las dos. MercadoLibre la clasifica como híbrida: tiene diseño y materiales típicos de una silla gamer, pero con prestaciones ergonómicas reales como soporte lumbar regulable y reclinación de 90° a 120°." },
+      { question: "¿Los apoyabrazos son realmente ajustables?", answer: "Se ajustan en altura (suben y bajan, como los de un avión), pero no giran ni se abren hacia los costados. Varias reseñas lo aclaran para que no se confunda con un ajuste multidireccional completo." },
+      { question: "¿Cuánto peso soporta?", answer: "Hasta 120 kg según su ficha técnica. Es menos que la Alpina S5 (150 kg). La Dyvan E05 declara 250 kg, pero esa cifra tiene una contradicción sin resolver dentro de su propia página de MercadoLibre (ver su ficha)." },
+      { question: "¿Tiene apoyapiés?", answer: "No. De esta comparativa, solo la Dyvan E05 lo trae." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Silla Ergonómica Cougar Stryder",
+      description: "Silla ergonómica híbrida Cougar Stryder, tela simil lino, soporte lumbar regulable, la mejor valorada de esta comparativa de MercadoLibre Argentina.",
+      brand: { "@type": "Brand", name: "Cougar" },
+      sku: "MLA2402856528",
+      category: "Muebles para el hogar",
+      image: "https://http2.mlstatic.com/D_NQ_NP_872111-MLA101583303614_122025-OO.webp",
+      url: "https://productosvirales.com.ar/producto/silla-ergonomica-cougar-stryder-hibrida-gris-mla2402856528",
+      offers: {
+        "@type": "Offer",
+        priceCurrency: "ARS",
+        price: "369999",
+        availability: "https://schema.org/InStock",
+        seller: { "@type": "Organization", name: "MercadoLibre Argentina" },
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.8",
+        reviewCount: "611",
+        bestRating: "5",
+        worstRating: "1",
+      },
+    },
+  },
+  {
+    id: "MLA1493999325",
+    title: "Silla Ergonomica Dyvan E05 Reclinable Con Apoyapies Gris",
+    canonicalName: "Silla Ergonómica Dyvan E05",
+    brand: "Dyvan",
+    price: 599999,
+    originalPrice: 1758174,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_736663-MLA112737906665_062026-F.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_736663-MLA112737906665_062026-F.webp"],
+    category: "Oficina",
+    categorySlug: "oficina",
+    permalink: "https://articulo.mercadolibre.com.ar/MLA-1493999325",
+    affiliateUrl: "https://meli.la/1wfUKwo",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.6,
+    reviewCount: 100,
+    priceUpdated: "2026-10-25",
+    priceLastChecked: "2026-10-25",
+    priceVerifiedAt: "2026-10-25",
+    priceStatus: "fresh",
+    visibility: "normal",
+    pastelColor: "var(--pastel-purple)",
+    seoTitle: "Silla Ergonómica Dyvan E05: la premium con apoyapiés",
+    metaDescription: "Silla reclinable premium con apoyapiés integrado, a {{precio:MLA1493999325}}. La única de esta comparativa con apoyapiés, aunque con pocas opiniones todavía.",
+    description: "Silla ergonómica Dyvan E05: reclinable, con apoyapiés integrado (única de esta comparativa), apoyacabezas y apoyabrazos ajustables, la más cara de la guía.",
+    specs: [
+      { label: "Marca", value: "Dyvan" },
+      { label: "Modelo", value: "DYVAN E05" },
+      { label: "Material del tapizado", value: "Malla" },
+      { label: "Estructura", value: "Plástico e hierro" },
+      { label: "Relleno", value: "Espuma" },
+      { label: "Acabado de la estructura", value: "Cromado" },
+      { label: "Peso máximo soportado", value: "250 kg según la ficha técnica (el resumen de reseñas con IA de MercadoLibre dice \"hasta 120 kg\"; ninguna reseña individual confirma cuál de los dos números es el real)" },
+      { label: "Altura del respaldo", value: "60 cm" },
+      { label: "Profundidad del asiento", value: "51 cm" },
+      { label: "Ancho de la silla", value: "66 cm" },
+      { label: "Altura máxima de la silla", value: "130 cm" },
+      { label: "Apoyacabezas", value: "Sí" },
+      { label: "Apoyabrazos", value: "Ajustables" },
+      { label: "Apoyapiés", value: "Sí, la única de esta comparativa" },
+      { label: "Respaldo reclinable", value: "Sí" },
+      { label: "Ensamblado", value: "Requiere armado, incluye manual" },
+    ],
+    relatedProducts: ["MLA45866946", "MLA53389976", "MLA2402856528"],
+    customerReviews: [
+      { rating: 5, date: "2026-06", country: "Argentina", text: "Excelente producto. Super facil de armar a pesar de tener varias piezas. Muy bien embalado y una atención súper dispuesta y rápida. Lo recomiendo. No solo por material y producto en sí. Sino por la experiencia que brindan con la atención. Tuve un problema con el cabezal de la cervical, llegó con un problema de fábrica. El mismo día de la entrega me comuniqué, me respondieron a los minutos y se encargaron de programar una visita para cambiar mano a mano la unidad del cabezal. Al otro día, estaban nuevamente con horario puntual efectuando el cambio. Pongo 5 estrellas pq no hay más. Pero muy contento con la atención recibida.", useful: 6 },
+      { rating: 5, date: "2026-06", country: "Argentina", text: "La recomiendo totalmente. Por algunas reseñas esperaba menos de lo que es, me sorprendió para bien. Muy buenos materiales, las patas son súper gruesas y las partes plásticas también. Es súper cómoda, se puede ajustar según tu altura.", useful: 5 },
+    ],
+    reviewsSampledAt: "2026-10-25",
+    verdict: "La Dyvan E05 es la premium de esta comparativa y la única con apoyapiés integrado, un diferencial real frente a las otras tres. Reclinable, con apoyacabezas y apoyabrazos ajustables, a {{precio:MLA1493999325}}. Dos datos honestos antes de comprarla: tiene bastante menos respaldo de opiniones que las otras (apenas {{reviews:MLA1493999325}} calificaciones), y hay una contradicción real dentro de la propia página de MercadoLibre sobre cuánto peso soporta: la ficha técnica dice 250 kg, pero el resumen de reseñas generado por IA de la plataforma dice \"hasta 120 kg\". Ninguna reseña individual confirma uno u otro número, así que si ese dato te define la compra, conviene no asumir el máximo sin verificar.",
+    pros: [
+      "La única de esta comparativa con apoyapiés integrado",
+      "Reclinable, con apoyacabezas y apoyabrazos ajustables",
+      "Atención del vendedor rápida y efectiva ante un problema de fábrica, según una reseña real",
+      "Materiales descriptos como robustos: \"las patas son súper gruesas\"",
+    ],
+    cons: [
+      "Apenas {{reviews:MLA1493999325}} calificaciones, bastante menos respaldo que las otras tres de esta comparativa",
+      "Discrepancia real sin resolver: la ficha técnica declara 250 kg de peso máximo, pero el resumen de reseñas con IA de MercadoLibre dice \"hasta 120 kg\"",
+      "{{preciodif:MLA1493999325:MLA2402856528}} más cara que la Cougar Stryder, la segunda más cara de la comparativa",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Dyvan E05 es una silla ergonómica reclinable con tapizado de malla, apoyacabezas, apoyabrazos ajustables y, a diferencia de las otras tres de esta comparativa, apoyapiés integrado. Es la más cara de la guía.
+
+## Lo bueno: la única con apoyapiés, y buena atención post-venta
+
+El diferencial real frente a las otras tres sillas de esta comparativa es el apoyapiés integrado, pensado para reclinarse del todo y descansar las piernas sin levantarte. Las reseñas disponibles describen materiales robustos ("las patas son súper gruesas") y destacan la atención del vendedor: un comprador recibió el cabezal con un defecto de fábrica y se lo cambiaron al día siguiente, con horario puntual.
+
+## La contra real: pocas opiniones y una contradicción sin resolver
+
+Hay que decirlo de frente: con apenas {{reviews:MLA1493999325}} calificaciones, es la silla con menos respaldo de compradores de esta comparativa, lejos de las {{reviews:MLA45866946}} de la Circle Line o las {{reviews:MLA2402856528}} de la Cougar Stryder. Y hay un dato que la propia página de MercadoLibre contradice: la ficha técnica declara un peso máximo soportado de 250 kg, pero el resumen de reseñas generado por inteligencia artificial de la plataforma dice que su diseño "la hacen adecuada para soportar hasta 120 kg". No encontramos ninguna reseña individual que confirme uno u otro número de forma directa, así que si tu peso está cerca del límite, lo honesto es no asumir el máximo declarado sin confirmarlo antes de comprar.
+
+## Para quién sí y para quién no
+
+Comprala si el apoyapiés integrado es un diferencial que de verdad vas a usar y no te importa pagar la diferencia de precio frente a las otras tres. Si preferís una opción con más respaldo de otros compradores, la [Cougar Stryder](/producto/silla-ergonomica-cougar-stryder-hibrida-gris-mla2402856528) tiene varias veces más calificaciones a un precio bastante menor.`,
+    faq: [
+      { question: "¿Cuánto peso soporta realmente la Dyvan E05?", answer: "Hay una contradicción real dentro de la propia página de MercadoLibre: la ficha técnica declara 250 kg, pero el resumen de reseñas generado por IA de la plataforma dice \"hasta 120 kg\". No encontramos ninguna reseña que confirme uno u otro número con precisión, así que si ese dato te define la compra, no asumas el máximo sin consultarlo directamente con el vendedor." },
+      { question: "¿Por qué tiene tan pocas calificaciones comparada con las otras?", answer: "Con {{reviews:MLA1493999325}} opiniones, es la que menos acumula de esta comparativa de 4 sillas, lejos de las más de mil de la Circle Line. Puede deberse a su precio más alto (menos volumen de ventas) o a ser un lanzamiento más reciente; no tenemos un dato oficial que lo explique." },
+      { question: "¿Es la única con apoyapiés?", answer: "Sí. De las 4 sillas de esta comparativa, es la única con apoyapiés integrado." },
+      { question: "¿Tiene apoyacabezas y apoyabrazos ajustables?", answer: "Sí a ambos, según su ficha técnica." },
+      { question: "¿Qué pasa si llega con un defecto de fábrica?", answer: "Según una reseña real, el vendedor respondió el mismo día y resolvió el cambio de una pieza defectuosa (el cabezal) al día siguiente, con horario puntual." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Silla Ergonómica Dyvan E05",
+      description: "Silla ergonómica reclinable Dyvan E05, con apoyapiés integrado, apoyacabezas y apoyabrazos ajustables, de MercadoLibre Argentina.",
+      brand: { "@type": "Brand", name: "Dyvan" },
+      sku: "MLA1493999325",
+      category: "Muebles para el hogar",
+      image: "https://http2.mlstatic.com/D_NQ_NP_736663-MLA112737906665_062026-F.webp",
+      url: "https://productosvirales.com.ar/producto/silla-ergonomica-dyvan-e05-reclinable-con-apoyapies-gris-mla1493999325",
+      offers: {
+        "@type": "Offer",
+        priceCurrency: "ARS",
+        price: "599999",
+        availability: "https://schema.org/InStock",
+        seller: { "@type": "Organization", name: "MercadoLibre Argentina" },
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.6",
+        reviewCount: "100",
+        bestRating: "5",
+        worstRating: "1",
+      },
+    },
+  },
 ];
 
 export const categoryPastels: Record<string, string> = {

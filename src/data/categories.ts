@@ -380,4 +380,24 @@ export const categories: Category[] = [
       </ul>
     `,
   },
+  {
+    slug: "oficina",
+    name: "Oficina",
+    icon: "Briefcase",
+    pastel: "var(--color-pastel-slate)",
+    h1: "Oficina: Sillas Ergonómicas y Mobiliario",
+    description: "Mobiliario de oficina y home office comparado por lo que decide el uso real: peso máximo soportado, ergonomía y respaldo de opiniones, con precio real de MercadoLibre",
+    buyersGuide: `
+      <h2>Qué vas a encontrar en esta categoría</h2>
+      <p>Sillas ergonómicas de Circle Line, Alpina, Cougar y Dyvan para quien trabaja muchas horas sentado. Comparamos publicaciones reales de MercadoLibre Argentina por precio, peso máximo soportado y respaldo de reseñas, no por lo que promete el título del vendedor.</p>
+
+      <h2>Qué mirar antes de comprar</h2>
+      <ul>
+        <li><strong>Peso máximo soportado:</strong> la ficha técnica lo declara, pero conviene cruzarlo contra las reseñas reales cuando hay dudas; no siempre coincide con lo que dice el resumen de opiniones de la propia publicación.</li>
+        <li><strong>Altura máxima de la silla:</strong> un dato que casi nunca se destaca en la ficha técnica, pero que las reseñas de compradores altos sí confirman o desmienten.</li>
+        <li><strong>Apoyacabezas y apoyapiés:</strong> no todas las sillas los traen; si pasás muchas horas sentado, marcan la diferencia real en sesiones largas.</li>
+        <li><strong>Respaldo de reseñas:</strong> un rating alto con pocas opiniones no es lo mismo que un rating sostenido por cientos o miles de compradores reales.</li>
+      </ul>
+    `,
+  },
 ];

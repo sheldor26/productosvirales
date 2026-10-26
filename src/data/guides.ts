@@ -2771,7 +2771,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "h3", title: `2. Por tu peso y las horas de uso` },
       { type: "p", content: `Si pesás bastante o la vas a usar muchas horas todos los días, mirá el peso que soporta (las buenas declaran 120 kg o más, como la Cougar Armor) y la solidez de la base. Una silla barata aguanta el uso liviano, pero con peso y uso intensivo conviene una premium robusta para que no se hunda ni se rompa el pistón al año.` },
       { type: "h3", title: `3. ¿Silla gamer o silla ergonómica de oficina?` },
-      { type: "p", content: `Es la otra gran duda. La silla gamer tiene respaldo alto, reclinación amplia y estética deportiva; la ergonómica de oficina apunta a la postura pura (malla, soporte lumbar regulable) y suele ser más cara a igual calidad. Para jugar, estudiar y trabajar combinado, una buena silla gamer cumple las dos funciones. Si tu prioridad absoluta es la espalda y la postura para 8 horas de oficina, una ergonómica dedicada puede convenir más.` },
+      { type: "p", content: `Es la otra gran duda. La silla gamer tiene respaldo alto, reclinación amplia y estética deportiva; la ergonómica de oficina apunta a la postura pura (malla, soporte lumbar regulable) y suele ser más cara a igual calidad. Para jugar, estudiar y trabajar combinado, una buena silla gamer cumple las dos funciones. Si tu prioridad absoluta es la espalda y la postura para 8 horas de oficina, mirá nuestra [guía de sillas ergonómicas](/guias/oficina/silla-ergonomica), con 4 opciones reales comparadas por peso soportado y altura.` },
 
       { type: "h2", title: `Cuánto cuesta una silla gamer en Argentina [agosto 2026]`, id: "precios" },
       { type: "list", items: [
@@ -2787,7 +2787,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { question: `¿Cuál es la mejor silla gamer en Argentina?`, answer: `Para la mayoría, la [Alpina PRE-FT055](https://meli.la/2CJ8LqU): la más elegida de esta comparativa (más de 1.800 opiniones) y la más barata. Si querés calidad premium que dure y soporte hasta 120 kg, la [Cougar Armor Elite](https://meli.la/1Z2hdW6) es la mejor valorada (4.9). Para no transpirar, una de tela como la [Cougar Fusion EX](https://meli.la/1drE2G6).` },
       { question: `¿Qué es mejor para una silla gamer, cuero sintético o tela?`, answer: `Depende de qué te moleste. El cuero sintético es más fácil de limpiar y más barato, pero se calienta y se pega en verano. La tela es más fresca y transpirable, ideal para muchas horas o zonas calurosas, a cambio de juntar más polvo. Si transpirás, andá a tela ([Cougar Fusion](https://meli.la/1drE2G6) o [Corsair](https://meli.la/1fUDsKj)); si priorizás precio y limpieza, cuero sintético ([Alpina](https://meli.la/2CJ8LqU)).` },
       { question: `¿Cuánto peso soporta una silla gamer?`, answer: `Las de entrada aguantan el uso normal, pero no siempre publican el máximo; las premium lo declaran: la [Cougar Armor Elite](https://meli.la/1Z2hdW6), por ejemplo, soporta hasta 120 kg. Si pesás bastante o la vas a usar muchas horas, conviene una con buen peso declarado y base sólida, para que no se hunda ni se rompa el pistón.` },
-      { question: `¿Vale la pena una silla gamer o conviene una silla de oficina?`, answer: `Para jugar, estudiar y trabajar combinado, una buena silla gamer cumple las dos funciones: respaldo alto, reclinación y comodidad para muchas horas. Una ergonómica de oficina apunta más a la postura pura (malla, lumbar regulable) y suele costar más a igual calidad. Si tu prioridad absoluta es la espalda para 8 horas de oficina, evaluá una ergonómica; si no, la gamer rinde.` },
+      { question: `¿Vale la pena una silla gamer o conviene una silla de oficina?`, answer: `Para jugar, estudiar y trabajar combinado, una buena silla gamer cumple las dos funciones: respaldo alto, reclinación y comodidad para muchas horas. Una ergonómica de oficina apunta más a la postura pura (malla, lumbar regulable) y suele costar más a igual calidad. Si tu prioridad absoluta es la espalda para 8 horas de oficina, comparamos 4 opciones reales en nuestra [guía de sillas ergonómicas](/guias/oficina/silla-ergonomica); si no, la gamer rinde.` },
       { question: `¿Las sillas gamer son cómodas para trabajar muchas horas?`, answer: `Sí, sobre todo las de gama media para arriba, que traen mejor gomaespuma, respaldo reclinable y soporte lumbar. Las más baratas (como la Alpina PRE-FT055) cumplen para uso normal, pero si te sentás 8 horas todos los días conviene una premium con tela transpirable o cuero de calidad y buen soporte lumbar, para no terminar con dolor de espalda.` },
     ],
     internalLinks: [
@@ -2798,6 +2798,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { label: "Escritorio gamer: cuál comprar", href: "/guias/gaming/escritorio-gamer" },
       { label: "Joystick para PC: cuál comprar", href: "/guias/gaming/joystick-pc" },
       { label: "Kit gamer: teclado + mouse en una compra", href: "/guias/gaming/kit-gamer" },
+      { label: "Silla ergonómica de oficina: cuál comprar", href: "/guias/oficina/silla-ergonomica" },
       { label: "Proyector portátil para jugar en pantalla grande", href: "/guias/tech/proyector-portatil" },
     ],
     internalLinksTitle: "Más para tu setup gamer",
@@ -37305,6 +37306,114 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     ],
     internalLinksTitle: "Más de tecnología",
   },
+
+  // ─────────────────────────────────────────────────────────
+  // SATÉLITE silla-ergonomica — silo oficina
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "silla-ergonomica",
+    category: "oficina",
+    silo: "oficina",
+    title: `Silla ergonómica: cuál comprar en Argentina [2026]`,
+    seoTitle: `Silla Ergonómica: Cuál Comprar en Argentina | Guía 2026`,
+    metaDescription: `Silla ergonómica desde {{precio:MLA45866946:k}}: comparamos 4 sillas reales de MercadoLibre por peso soportado, prestaciones y reseñas honestas.`,
+    ogTitle: `Silla ergonómica: cuál comprar en Argentina`,
+    ogDescription: `De la más barata a la premium con apoyapiés, pasando por la mejor valorada. Comparamos 4 sillas ergonómicas reales de MercadoLibre Argentina por precio, peso soportado y reseñas reales de compradores.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_872111-MLA101583303614_122025-OO.webp`,
+    h1: `Silla ergonómica: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría, la mejor silla ergonómica es la **[Cougar Stryder](/producto/silla-ergonomica-cougar-stryder-hibrida-gris-mla2402856528)** (desde {{precio:MLA2402856528:k}}): la mejor valorada de MercadoLibre Argentina en esta comparativa, híbrida entre diseño gamer y prestaciones de oficina. Si querés gastar lo mínimo, la **[Circle Line CL-9050](/producto/silla-ergonomica-circle-line-cl-9050-mesh-negra-mla45866946)** ({{precio:MLA45866946:k}}) es la más barata. Si buscás el punto intermedio con apoyacabezas, la **[Alpina S5](/producto/silla-ergonomica-alpina-s5-reclinable-mesh-negra-mla53389976)** ({{precio:MLA53389976:k}}) cumple, aunque ojo si medís más de 1,75m. Y si querés apoyapiés integrado, la **[Dyvan E05](/producto/silla-ergonomica-dyvan-e05-reclinable-con-apoyapies-gris-mla1493999325)** ({{precio:MLA1493999325:k}}) es la única con esa prestación, aunque todavía con pocas opiniones.`,
+    publishedDate: "2026-10-25",
+    updatedDate: "2026-10-25",
+    hasDisclosure: true,
+    readingTime: 10,
+    standfirst: `Una silla ergonómica en Argentina va de {{precio:MLA45866946:k}} a {{precio:MLA1493999325:k}}, y la diferencia real no es solo el precio: es cuánto peso soporta, si tiene apoyacabezas y apoyapiés, y qué tan alto podés ser para que te quede cómoda. Comparamos 4 sillas reales y en stock de MercadoLibre Argentina, con precios en vivo y lo que las publicaciones no siempre aclaran.`,
+    quickPicks: [
+      { productMlaId: "MLA2402856528", label: "La mejor valorada", labelColor: "green", tagline: "Cougar Stryder: la mejor calificada, híbrida entre gamer y oficina" },
+      { productMlaId: "MLA45866946", label: "La más barata", labelColor: "blue", tagline: "Circle Line CL-9050: la más económica y la de más calificaciones" },
+      { productMlaId: "MLA53389976", label: "La intermedia", labelColor: "slate", tagline: "Alpina S5: con apoyacabezas, pero no para más de 1,75m" },
+      { productMlaId: "MLA1493999325", label: "La premium con apoyapiés", labelColor: "purple", tagline: "Dyvan E05: la única con apoyapiés integrado" },
+    ],
+    intro: [
+      `"Silla ergonómica" en MercadoLibre te tira cientos de resultados, con precios que van de **{{precio:MLA45866946}}** a **{{precio:MLA1493999325}}**. La diferencia real no está solo en el precio: está en cuánto peso declara soportar cada una (de 100 a 150 kg confirmados en esta comparativa, con un cuarto modelo que declara 250 kg pero sin confirmar, ver más abajo), si tiene apoyacabezas y apoyapiés, y un dato que casi nadie mira antes de comprar: la altura máxima de la silla, que puede dejarte incómodo si sos alto.`,
+      `En esta guía comparamos 4 sillas ergonómicas reales y en stock de Argentina (Circle Line, Alpina, Cougar, Dyvan), con precios en vivo de MercadoLibre y lo bueno y lo malo de cada una, incluidas dos aclaraciones honestas: una limitación de altura real confirmada por compradores, y una contradicción dentro de la propia página de MercadoLibre sobre cuánto peso soporta una de las cuatro.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_872111-MLA101583303614_122025-OO.webp", alt: `Silla ergonómica Cougar Stryder, la mejor valorada de esta comparativa`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, la **Cougar Stryder**: la mejor valorada de esta comparativa ({{rating:MLA2402856528}} estrellas), híbrida entre diseño gamer y prestaciones de oficina. Si priorizás **precio**, la **Circle Line CL-9050** es la más barata. Si buscás el **punto intermedio** con apoyacabezas, la **Alpina S5**, aunque no es para más de 1,75m según confirman varios compradores. Y si querés **apoyapiés integrado**, la **Dyvan E05** es la única que lo trae, aunque todavía con pocas opiniones y una contradicción real sobre cuánto peso soporta.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** buscamos en vivo las sillas ergonómicas con más ventas y mejores reseñas reales de MercadoLibre Argentina, verificando precio, ficha técnica y calificaciones de compradores producto por producto. Cuando una ficha técnica dice algo que las reseñas reales contradicen o matizan (como la altura máxima de la Alpina o el peso que soporta la Dyvan), lo aclaramos. Precios verificados en octubre de 2026 y revisados varias veces por semana.` },
+
+      { type: "h2", title: `Qué mirar antes de comprar una silla ergonómica`, id: "que-mirar" },
+      { type: "p", content: `Lo primero es el **peso máximo soportado**: en esta comparativa va de 100 a 150 kg declarados sin dudas, más un cuarto modelo (la Dyvan) que declara 250 kg pero con una contradicción interna sin resolver en su propia página de MercadoLibre, así que no lo tomamos como un dato confirmado. No es un detalle menor para que la silla no se hunda ni se rompa el pistón con el tiempo. Después, fijate si tiene **apoyacabezas** (clave para sesiones largas, evita la tensión de cuello) y **apoyapiés** (poco común, pero si reclinás del todo para descansar, se nota).` },
+      { type: "p", content: `Un dato que casi nadie revisa antes de comprar: la **altura máxima de la silla**. Las fichas técnicas no siempre lo destacan, pero si medís más de 1,75-1,80m, una silla con poco recorrido de altura puede quedarte incómoda. En esta guía lo confirmamos con reseñas reales, no solo con la ficha técnica.` },
+
+      { type: "h2", title: `Las mejores sillas ergonómicas 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Circle Line CL-9050: la más barata` },
+      { type: "product-card", productMlaId: "MLA45866946", label: "La más barata", labelColor: "blue", ranking: 1, description: `La más económica de esta comparativa y la de más calificaciones. {{rating:MLA45866946}} estrellas en {{reviews:MLA45866946}} opiniones. Soporta hasta 100 kg.` },
+      { type: "p", content: `Si tu prioridad es gastar lo menos posible, es esta. La Circle Line CL-9050 cuesta {{precio:MLA45866946:k}}, bastante por debajo de las otras tres, y es además la que más calificaciones reales acumula de toda la comparativa: {{reviews:MLA45866946}}. Tapizado Mesh, estructura de acero inoxidable y altura ajustable.` },
+      { type: "p", content: `Lo honesto: es la única de las cuatro sin apoyacabezas ni apoyapiés, tiene apoyabrazos fijos (no se ajustan) y declara el peso máximo soportado más bajo de la comparativa, 100 kg. Una reseña real lo resume bien: cumple para laburar un par de horas, pero no es "para toda la vida".` },
+
+      { type: "h3", title: `2. Alpina S5: la intermedia` },
+      { type: "product-card", productMlaId: "MLA53389976", label: "La intermedia", labelColor: "slate", ranking: 2, description: `Reclinable, con apoyacabezas y hasta 150 kg de peso soportado. {{rating:MLA53389976}} estrellas en {{reviews:MLA53389976}} calificaciones.` },
+      { type: "p", content: `La Alpina S5 es el punto medio de esta comparativa: a {{precio:MLA53389976:k}}, suma apoyacabezas y respaldo reclinable (algo que la Circle Line no tiene) y soporta hasta 150 kg, la segunda capacidad más alta de las cuatro.` },
+      { type: "p", content: `La aclaración honesta, y la más importante de esta guía: con 130 cm de altura máxima, varios compradores de entre 1,75 y 1,90 metros reportan incomodidad real, al punto de devolverla o regalarla. No es un defecto de fabricación, es un límite de diseño que conviene conocer antes de comprar si sos alto.` },
+      { type: "pull-quote", content: `"Buena relación calidad/precio, si mides mas de 1.75 olvidate de esta silla. La tuve que regalar, vamos a buscar otra."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `3. Cougar Stryder: la mejor valorada` },
+      { type: "product-card", productMlaId: "MLA2402856528", label: "La mejor valorada", labelColor: "green", ranking: 3, description: `{{rating:MLA2402856528}} estrellas, la calificación más alta de la comparativa. Híbrida entre silla gamer y ergonómica, con soporte lumbar regulable.` },
+      { type: "p", content: `La Cougar Stryder es la silla con mejor puntaje de esta guía: {{rating:MLA2402856528}} estrellas en {{reviews:MLA2402856528}} calificaciones, a {{precio:MLA2402856528:k}}. MercadoLibre la clasifica como híbrida (gamer y ergonómica a la vez), con soporte lumbar regulable, reclinación de 90° a 120° y apoyabrazos ajustables en altura.` },
+      { type: "p", content: `Lo honesto: pese a figurar como "ajustables" en la ficha técnica, varias reseñas aclaran que el ajuste de los apoyabrazos es solo de altura, tipo los de un avión, no multidireccional. Y soporta hasta 120 kg, menos que la Alpina (150 kg) y que los 250 kg que declara la Dyvan, una cifra con una contradicción sin resolver dentro de su propia página de MercadoLibre.` },
+      { type: "pull-quote", content: `"La mejor silla de mercado libre sin duda. Calidad 10/10, reclinable hacia atrás y con posibilidad de establecer si se quiere más tranqui o más de una."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `4. Dyvan E05: la premium con apoyapiés` },
+      { type: "product-card", productMlaId: "MLA1493999325", label: "Premium con apoyapiés", labelColor: "purple", ranking: 4, description: `La única de esta comparativa con apoyapiés integrado. Reclinable, con apoyacabezas y apoyabrazos ajustables. {{rating:MLA1493999325}} estrellas en apenas {{reviews:MLA1493999325}} calificaciones.` },
+      { type: "p", content: `La Dyvan E05 es la más cara de las cuatro ({{precio:MLA1493999325:k}}) y la única con apoyapiés integrado, pensado para reclinarse del todo y descansar las piernas sin levantarte. Trae también apoyacabezas y apoyabrazos ajustables.` },
+      { type: "p", content: `Dos aclaraciones honestas antes de comprarla. Tiene bastante menos respaldo de opiniones que las otras tres: apenas {{reviews:MLA1493999325}} calificaciones. Y hay una contradicción real dentro de la propia página de MercadoLibre: la ficha técnica declara 250 kg de peso máximo, pero el resumen de reseñas generado por IA de la plataforma dice que su diseño "la hacen adecuada para soportar hasta 120 kg". Ninguna reseña individual confirma uno u otro número, así que si tu peso está cerca del límite, lo honesto es no asumir el máximo sin consultarlo antes de comprar.` },
+
+      { type: "h2", title: `Tabla comparativa: por peso soportado, prestaciones y precio`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Peso soportado`, `Apoyacabezas`, `Apoyapiés`, `Ideal para`], rows: [
+        [`[Circle Line CL-9050](https://meli.la/2TMASqa)`, `{{precio:MLA45866946}}`, `100 kg`, `No`, `No`, `Gastar lo mínimo`],
+        [`[Alpina S5](https://meli.la/2QR5Ejw)`, `{{precio:MLA53389976}}`, `150 kg`, `Sí`, `No`, `Punto medio (hasta 1,75m)`],
+        [`[Cougar Stryder](https://meli.la/21pY1ZA)`, `{{precio:MLA2402856528}}`, `120 kg`, `Sí`, `No`, `La mejor valorada`],
+        [`[Dyvan E05](https://meli.la/1wfUKwo)`, `{{precio:MLA1493999325}}`, `250 kg declarados (contradicho por el resumen de IA de ML)`, `Sí`, `Sí`, `Apoyapiés integrado`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu silla ergonómica`, id: "como-elegir" },
+      { type: "h3", title: `1. Cuánto peso necesitás que soporte` },
+      { type: "p", content: `Si pesás cerca o por encima de 100 kg, la Circle Line de esta guía queda corta. La Alpina (150 kg) y la Cougar (120 kg) cubren la mayoría de los casos; la Dyvan declara 250 kg, pero con la contradicción interna que explicamos arriba, así que si estás cerca del límite conviene confirmarlo con el vendedor antes de pagar.` },
+      { type: "h3", title: `2. Tu altura, no solo tu peso` },
+      { type: "p", content: `Es el dato que menos se mira y más importa. Si medís más de 1,75-1,80m, la Alpina de esta guía puede quedarte chica, según confirman varias reseñas reales. La Cougar y la Dyvan no tienen reseñas reportando el mismo problema, aunque sus specs de altura máxima (125 cm y 130 cm respectivamente) no son muy distintas a los 130 cm de la Alpina: el límite parece estar más en el diseño puntual del respaldo de la Alpina que en un número de ficha técnica.` },
+      { type: "h3", title: `3. ¿Apoyacabezas, apoyapiés, o ninguno de los dos?` },
+      { type: "p", content: `Si pasás muchas horas sentado, el apoyacabezas evita la tensión de cuello: lo tienen la Alpina, la Cougar y la Dyvan, no la Circle Line. El apoyapiés es menos común y solo lo trae la Dyvan de esta comparativa: tiene sentido si pensás reclinarte del todo para descansar sin levantarte de la silla.` },
+
+      { type: "h2", title: `Cuánto cuesta una silla ergonómica en Argentina [octubre 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**{{precio:MLA45866946:k}}:** la entrada. La [Circle Line CL-9050](https://meli.la/2TMASqa), la más barata y la de más calificaciones, pero con 100 kg de peso máximo soportado.`,
+        `**{{precio:MLA53389976:k}}:** el punto medio. La [Alpina S5](https://meli.la/2QR5Ejw), con apoyacabezas y 150 kg soportados, no recomendada si medís más de 1,75m.`,
+        `**{{precio:MLA2402856528:k}}:** la mejor valorada. La [Cougar Stryder](https://meli.la/21pY1ZA), con {{reviews:MLA2402856528}} calificaciones y {{rating:MLA2402856528}} estrellas.`,
+        `**{{precio:MLA1493999325:k}} o más:** la premium. La [Dyvan E05](https://meli.la/1wfUKwo), la única con apoyapiés integrado.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál silla ergonómica comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la mayoría, la **Cougar Stryder**: la mejor valorada de esta comparativa ({{rating:MLA2402856528}} estrellas), híbrida entre diseño gamer y prestaciones de oficina, con buen respaldo lumbar. Si priorizás **precio** y vas a usarla unas horas por día, la **Circle Line CL-9050** es la más barata, sabiendo que soporta menos peso y no tiene apoyacabezas ni apoyapiés. Si buscás el **punto intermedio**, la **Alpina S5** suma apoyacabezas y reclinación, pero no es para más de 1,75m según confirman las propias reseñas. Y si necesitás **apoyapiés integrado**, la **Dyvan E05** es la única opción, aunque con menos respaldo de opiniones y una contradicción real sobre cuánto peso soporta que conviene chequear antes de comprar si pesás cerca del límite. El error a evitar: comprar por el peso máximo declarado sin leer las reseñas reales, que en esta comparativa cuentan una historia más completa que la ficha técnica.` },
+    ],
+    faq: [
+      { question: `¿Cuál es la mejor silla ergonómica en Argentina?`, answer: `Para la mayoría, la [Cougar Stryder](https://meli.la/21pY1ZA): la mejor valorada de esta comparativa, con {{reviews:MLA2402856528}} calificaciones y {{rating:MLA2402856528}} estrellas. Si priorizás precio, la [Circle Line CL-9050](https://meli.la/2TMASqa) es la más barata; si necesitás apoyapiés, la [Dyvan E05](https://meli.la/1wfUKwo) es la única que lo trae.` },
+      { question: `¿Cuánto peso soporta una silla ergonómica?`, answer: `Varía mucho. En esta comparativa va de 100 kg (Circle Line) a 250 kg declarados (Dyvan E05, aunque con una contradicción real: el resumen de reseñas con IA de MercadoLibre dice "hasta 120 kg" para ese mismo producto). La Alpina soporta 150 kg y la Cougar 120 kg.` },
+      { question: `¿Las sillas ergonómicas sirven si soy alto?`, answer: `Depende del modelo, y es un dato que casi nunca está claro en la ficha técnica. La Alpina S5 de esta guía, con 130 cm de altura máxima, tiene varias reseñas reales de compradores de 1,75 a 1,90 metros que reportan incomodidad. La Cougar (125 cm) y la Dyvan (130 cm) no tienen reseñas reportando el mismo problema, aunque sus specs de altura no son muy distintas: el límite de la Alpina parece estar en el diseño del respaldo, no solo en un número de ficha técnica.` },
+      { question: `¿Qué silla de esta comparativa tiene apoyapiés?`, answer: `Solo la [Dyvan E05](https://meli.la/1wfUKwo). Es la única de las cuatro con apoyapiés integrado, pensado para reclinarse del todo y descansar las piernas sin levantarte.` },
+      { question: `¿Qué diferencia hay entre una silla ergonómica y una silla gamer?`, answer: `La ergonómica apunta a la postura pura para muchas horas de oficina (malla, soporte lumbar regulable); la gamer suma estética deportiva y reclinación amplia, pero no siempre declara el peso máximo que soporta. La [Cougar Stryder](https://meli.la/21pY1ZA) de esta guía es un punto medio: MercadoLibre la clasifica como híbrida entre las dos categorías. Si buscás específicamente una silla gamer, tenemos una [guía dedicada](/guias/gaming/silla-gamer).` },
+      { question: `¿Los apoyabrazos de estas sillas son ajustables?`, answer: `Depende del modelo. La Circle Line y la Alpina tienen apoyabrazos fijos. La Cougar y la Dyvan los tienen ajustables, aunque en la Cougar varias reseñas aclaran que el ajuste es solo de altura (suben y bajan), no multidireccional.` },
+      { question: `¿Vienen armadas?`, answer: `No, las cuatro requieren ensamblado. Todas incluyen manual de armado y, según las reseñas, el armado es manejable solo o acompañado, sin necesitar herramientas especiales salvo en algún caso puntual.` },
+    ],
+    internalLinks: [
+      { label: "Silla gamer: cuál comprar", href: "/guias/gaming/silla-gamer" },
+      { label: "Escritorio gamer: cuál comprar", href: "/guias/gaming/escritorio-gamer" },
+    ],
+    internalLinksTitle: "Más para tu espacio de trabajo",
+  },
 ];
 
 /**
@@ -37391,6 +37500,11 @@ export const guideSilos: Record<string, { name: string; description: string }> =
   bebes: {
     name: "Bebés",
     description: "Cochecitos, corralitos y artículos de paseo para bebés, comparados con precio real de MercadoLibre.",
+  },
+  oficina: {
+    name: "Oficina",
+    description:
+      "Mobiliario de oficina y home office comparado por lo que decide el uso real: peso máximo soportado, ergonomía y respaldo de opiniones, con precio real de MercadoLibre.",
   },
 };
 
@@ -37950,5 +38064,10 @@ export const guideCategories: Record<string, { name: string; description: string
     name: "Guía de Aspiradoras Lava Tapizados",
     description:
       "Aspiradoras lava tapizados para sillones, alfombras y autos comparadas por potencia, capacidad de tanque y precio real de MercadoLibre.",
+  },
+  oficina: {
+    name: "Guía de Oficina",
+    description:
+      "Mobiliario de oficina y home office comparado por lo que decide el uso real: peso máximo soportado, ajustes y respaldo de opiniones, con precios reales de MercadoLibre.",
   },
 };
