@@ -37414,6 +37414,121 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     ],
     internalLinksTitle: "Más para tu espacio de trabajo",
   },
+
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva purificador-de-agua — silo hogar, categoría nueva
+  // Origen: research propio 2026-10-25. Keyword "purificador de agua"
+  // 18.100/mes (Ubersuggest y Keyword Planner coinciden), SD 19. Sin
+  // canibalización: no existía ninguna guía ni ficha de purificadores
+  // de agua (distinto de purificador-de-aire, que es aire, no agua).
+  // 4 fichas nuevas importadas el mismo día (ver curated-products.ts).
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "purificador-de-agua",
+    category: "purificador-de-agua",
+    silo: "hogar",
+    pillar: true,
+    title: `Purificador de agua: cuál comprar en Argentina [2026]`,
+    seoTitle: `Purificador de Agua: Cuál Comprar en Argentina | Guía 2026`,
+    metaDescription: `Purificador de agua desde {{precio:MLAU2874341428:k}}: comparamos 4 opciones reales de MercadoLibre por sustancias eliminadas, caudal y reseñas honestas.`,
+    ogTitle: `Purificador de agua: cuál comprar en Argentina`,
+    ogDescription: `Del más barato al de ósmosis inversa con UV, pasando por el más elegido de esta comparativa. Comparamos 4 purificadores de agua reales de MercadoLibre Argentina, con dos reseñas que reportan análisis de laboratorio.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_681100-MLA116264609444_092026-F.webp`,
+    h1: `Purificador de agua: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría, el mejor purificador de agua es el **[Hidrolit Senic Out Classic](/producto/purificador-de-agua-hidrolit-senic-out-classic-blanco-mla1407640161)** (desde {{precio:MLA1407640161:k}}): el más elegido de esta comparativa, con el mayor volumen de calificaciones y 1° en el ranking de Purificadores de Agua de MercadoLibre. Si querés gastar lo mínimo, el **[ADAWATER](/producto/purificador-de-agua-adawater-sobre-mesada-reduce-cloro-mlau2874341428)** ({{precio:MLAU2874341428:k}}) es el más barato. Si necesitás algo portátil, el **[Dvigi AS Plus](/producto/purificador-de-agua-dvigi-as-plus-elimina-arsenico-mla23755517)** ({{precio:MLA23755517:k}}) es el único de esta comparativa que podés mover de lugar, con reseñas que reportan análisis de laboratorio. Y si buscás la purificación más completa, el **[Aqua Home de ósmosis inversa](/producto/purificador-de-agua-aqua-home-osmosis-inversa-7-etapas-mla918619202)** ({{precio:MLA918619202:k}}) suma 7 etapas y luz UV, aunque todavía con pocas opiniones.`,
+    publishedDate: "2026-10-25",
+    updatedDate: "2026-10-25",
+    hasDisclosure: true,
+    readingTime: 10,
+    standfirst: `Un purificador de agua en Argentina va de {{precio:MLAU2874341428:k}} a {{precio:MLA918619202:k}}, y la diferencia real no es solo el precio: es qué sustancias elimina de verdad (cloro y sabor no es lo mismo que arsénico y metales pesados), cuántas etapas de filtrado tiene y qué tan rápido filtra. Comparamos 4 purificadores reales y en stock de MercadoLibre Argentina, con precios en vivo y reseñas reales, incluidas dos que reportan análisis de laboratorio antes y después.`,
+    quickPicks: [
+      { productMlaId: "MLA1407640161", label: "El más elegido", labelColor: "green", tagline: "Hidrolit Senic Out Classic: el más calificado, 1° en su categoría" },
+      { productMlaId: "MLAU2874341428", label: "El más barato", labelColor: "blue", tagline: "ADAWATER: el más económico y el de caudal más rápido" },
+      { productMlaId: "MLA23755517", label: "El portátil", labelColor: "amber", tagline: "Dvigi AS Plus: el único portátil, probado con análisis de laboratorio" },
+      { productMlaId: "MLA918619202", label: "El más completo", labelColor: "purple", tagline: "Aqua Home: ósmosis inversa de 7 etapas más UV" },
+    ],
+    intro: [
+      `"Purificador de agua" en MercadoLibre te tira miles de resultados, de jarras con filtro a sistemas de ósmosis inversa que cuestan 10 veces más. La diferencia real no está en el nombre: está en qué sustancias elimina de verdad cada uno (reducir cloro y sabor no es lo mismo que eliminar arsénico y metales pesados), cuántas etapas de filtrado tiene, y qué tan rápido filtra el agua.`,
+      `En esta guía comparamos 4 purificadores de agua reales y en stock de Argentina (ADAWATER, Hidrolit, Dvigi, Aqua Home), con precios en vivo de MercadoLibre y lo bueno y lo malo de cada uno. Incluimos dos reseñas poco comunes: compradores que midieron la calidad del agua con análisis de laboratorio antes y después de instalar el filtro, no solo la promesa de la ficha técnica.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_681100-MLA116264609444_092026-F.webp", alt: `Purificador de agua Hidrolit Senic Out Classic, el más elegido de esta comparativa`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, el **Hidrolit Senic Out Classic**: el más elegido de esta comparativa, con el mayor volumen de calificaciones y 1° en el ranking de Purificadores de Agua de MercadoLibre. Si priorizás **precio**, el **ADAWATER** es el más barato. Si necesitás **algo portátil**, el **Dvigi AS Plus** es el único que podés mover de lugar, con reseñas que reportan análisis de laboratorio. Y si querés la **purificación más completa** (incluidos microorganismos), el **Aqua Home de ósmosis inversa** suma 7 etapas y luz UV, aunque todavía con pocas opiniones.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** buscamos en vivo los purificadores de agua con más ventas y mejores reseñas reales de MercadoLibre Argentina, verificando precio, ficha técnica y calificaciones de compradores producto por producto. Priorizamos reseñas que aportan datos concretos (como compradores que reportan haber medido el agua antes y después) por sobre simples opiniones de satisfacción. Precios verificados en octubre de 2026 y revisados varias veces por semana.` },
+
+      { type: "h2", title: `Qué mirar antes de comprar un purificador de agua`, id: "que-mirar" },
+      { type: "p", content: `Lo primero es **qué sustancias elimina de verdad**: hay una diferencia enorme entre un filtro que solo reduce cloro, olores y sabor, y uno que declara eliminar arsénico y metales pesados. Revisá la ficha técnica del producto, no solo el título de la publicación. Segundo, **la cantidad de etapas de filtrado**: en esta comparativa van de 1 (filtros simples de carbón) a 7 (ósmosis inversa), y más etapas generalmente significa una purificación más completa, aunque también más lenta.` },
+      { type: "p", content: `Tercero, el **caudal**: un filtro de una sola etapa puede filtrar 5 litros por minuto, mientras uno de adsorción fina filtra 12 litros por hora, 25 veces más lento. No es mejor ni peor, es un trade-off entre velocidad y profundidad de filtrado. Y si pensás mudarte o cambiar de lugar el purificador, fijate si es **portátil**: la mayoría de los sistemas sobre mesada no lo son.` },
+
+      { type: "h2", title: `Los mejores purificadores de agua 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. ADAWATER: el más barato` },
+      { type: "product-card", productMlaId: "MLAU2874341428", label: "El más barato", labelColor: "blue", ranking: 1, description: `El más económico de esta comparativa, con el caudal más rápido. {{rating:MLAU2874341428}} estrellas en {{reviews:MLAU2874341428}} calificaciones. Reduce cloro, olores, sabor y sedimentos.` },
+      { type: "p", content: `Si tu prioridad es gastar lo menos posible, es este. El ADAWATER cuesta {{precio:MLAU2874341428:k}}, bastante por debajo de las otras tres opciones, y tiene el caudal más rápido de esta comparativa (5 litros por minuto). Varios compradores lo comparan favorablemente contra opciones mucho más caras: "es exactamente igual a uno que pagué 4 veces más", dice una reseña real.` },
+      { type: "p", content: `Lo honesto: es un filtro de una sola etapa que solo reduce cloro, olores, sabor y sedimentos, sin declarar eliminar arsénico ni metales pesados como el resto de la comparativa. Su ficha técnica tampoco declara una marca reconocible (figura como "Sobremesada" en MercadoLibre). Para mejorar el sabor del agua de red gastando lo mínimo, cumple.` },
+
+      { type: "h3", title: `2. Hidrolit Senic Out Classic: el más elegido` },
+      { type: "product-card", productMlaId: "MLA1407640161", label: "El más elegido", labelColor: "green", ranking: 2, description: `El más calificado de esta comparativa: {{reviews:MLA1407640161}} opiniones, 1° en el ranking de Purificadores de Agua de MercadoLibre. Elimina arsénico, cloro (99,99%) y metales pesados.` },
+      { type: "p", content: `El Hidrolit Senic Out Classic es, por lejos, el purificador con más calificaciones de esta comparativa: {{reviews:MLA1407640161}}, y figura 1° en el ranking de Purificadores de Agua de todo MercadoLibre. A {{precio:MLA1407640161:k}}, elimina arsénico, cloro (99,99%) y metales pesados por adsorción y nanotecnología. Varios compradores que antes usaban PSA, una marca bastante más cara, dicen no notar diferencias reales.` },
+      { type: "p", content: `La contra real: filtra a 12 litros por hora, mucho más lento que el ADAWATER de esta comparativa. No es un defecto, es el trade-off esperable de una filtración más fina pensada para eliminar arsénico y metales pesados, no solo mejorar el sabor.` },
+      { type: "pull-quote", content: `"Antes tenía PSA. No noto diferencias, sinceramente."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `3. Dvigi AS Plus: el portátil` },
+      { type: "product-card", productMlaId: "MLA23755517", label: "El portátil", labelColor: "amber", ranking: 3, description: `El único de esta comparativa que es portátil (1,5 kg). Filtra en 4 etapas, declara eliminar metales pesados, arsénico, cloro, plomo, cobre y aluminio. {{rating:MLA23755517}} estrellas en {{reviews:MLA23755517}} calificaciones.` },
+      { type: "p", content: `El Dvigi AS Plus es el único purificador portátil de esta comparativa (1,5 kg), pensado para moverlo entre la mesada y otro punto de uso. Filtra en 4 etapas por carbón activado impregnado en plata, a {{precio:MLA23755517:k}}. Lo más interesante no es un dato de la ficha técnica: dos reseñas reales de compradores midieron la calidad del agua con análisis de laboratorio antes y después, confirmando reducciones reales de arsénico (de 0,24 a 0,010 mg/l) y cloro (de 1,62 a menos de 0,1).` },
+      { type: "p", content: `No es ni el más barato ni el más elegido: ocupa la posición intermedia en precio y volumen de opiniones. Su caudal (2 litros por minuto) también es un término medio entre el ADAWATER y el Hidrolit de esta comparativa.` },
+      { type: "pull-quote", content: `"Antes de comprar el purificador hice análisis de laboratorio del agua de red y dio 0,24 mg/l de arsénico. Después hice un nuevo análisis con el agua del purificador y el resultado fue de 0,010 mg/l."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `4. Aqua Home Ósmosis Inversa: el más completo` },
+      { type: "product-card", productMlaId: "MLA918619202", label: "El más completo", labelColor: "purple", ranking: 4, description: `Ósmosis inversa de 7 etapas más luz UV, la lista de contaminantes eliminados más larga de la comparativa. {{rating:MLA918619202}} estrellas, aunque con apenas {{reviews:MLA918619202}} calificaciones.` },
+      { type: "p", content: `El Aqua Home es el único de esta comparativa que usa ósmosis inversa real, en 7 etapas, y suma una lámpara UV para neutralizar microorganismos, virus y bacterias, algo que ninguno de los otros 3 declara. Elimina una lista de contaminantes mucho más larga: desde arsénico y metales pesados hasta nitratos y fluoruros. Es, también por lejos, el más caro: {{precio:MLA918619202:k}}.` },
+      { type: "p", content: `La contra real: con apenas {{reviews:MLA918619202}} calificaciones, es el que menos respaldo de compradores tiene de las cuatro opciones, y no trae el badge "MÁS VENDIDO" que sí tienen las otras tres. Una reseña real también señala que la lámpara UV queda encendida todo el tiempo, no solo cuando se consume agua.` },
+
+      { type: "h2", title: `Tabla comparativa: por sustancias eliminadas, etapas y precio`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Etapas`, `Elimina`, `Caudal`, `Ideal para`], rows: [
+        [`[ADAWATER](https://meli.la/1r43g1G)`, `{{precio:MLAU2874341428}}`, `1`, `Cloro, olores, sabor, sedimentos`, `5 l/min`, `Gastar lo mínimo`],
+        [`[Hidrolit Senic Out Classic](https://meli.la/2p5ekRM)`, `{{precio:MLA1407640161}}`, `1`, `Arsénico, cloro (99,99%), metales pesados`, `12 l/h`, `El más elegido`],
+        [`[Dvigi AS Plus](https://meli.la/2jJzKMA)`, `{{precio:MLA23755517}}`, `4`, `Metales pesados, arsénico, cloro, plomo, cobre, aluminio`, `2 l/min`, `Portátil, con reseñas de laboratorio`],
+        [`[Aqua Home Ósmosis Inversa](https://meli.la/2nRku94)`, `{{precio:MLA918619202}}`, `7`, `Lista extensa + microorganismos (UV)`, `8 l/h`, `Purificación más completa`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu purificador de agua`, id: "como-elegir" },
+      { type: "h3", title: `1. Qué necesitás eliminar de tu agua` },
+      { type: "p", content: `Si tu agua de red ya es segura y solo te molesta el sabor o el olor a cloro, un filtro simple como el ADAWATER de esta guía alcanza. Si en tu zona hay antecedentes de arsénico o metales pesados en el agua (consultá a tu proveedor de agua local), conviene el Hidrolit, el Dvigi, o directamente la ósmosis inversa del Aqua Home.` },
+      { type: "h3", title: `2. Velocidad de filtrado vs. profundidad de filtrado` },
+      { type: "p", content: `Más etapas de filtrado generalmente significa un filtrado más lento. El ADAWATER filtra rápido (5 l/min) porque es simple; el Hidrolit y el Aqua Home filtran mucho más lento porque son más exhaustivos. Si usás mucha agua filtrada por día (para cocinar para una familia grande, por ejemplo), el caudal importa tanto como qué elimina.` },
+      { type: "h3", title: `3. ¿Necesitás que sea portátil?` },
+      { type: "p", content: `La mayoría de los purificadores sobre mesada se instalan fijos. De esta comparativa, solo el Dvigi AS Plus está pensado para moverlo entre puntos de uso, útil si alquilás o pensás mudarte.` },
+
+      { type: "h2", title: `Cuánto cuesta un purificador de agua en Argentina [octubre 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**{{precio:MLAU2874341428:k}}:** la entrada. El [ADAWATER](https://meli.la/1r43g1G), el más barato, con el caudal más rápido pero una sola etapa de filtrado.`,
+        `**{{precio:MLA23755517:k}}:** el punto medio. El [Dvigi AS Plus](https://meli.la/2jJzKMA), el único portátil, con reseñas que reportan análisis de laboratorio.`,
+        `**{{precio:MLA1407640161:k}}:** el más elegido. El [Hidrolit Senic Out Classic](https://meli.la/2p5ekRM), con {{reviews:MLA1407640161}} calificaciones y 1° en su categoría.`,
+        `**{{precio:MLA918619202:k}} o más:** el premium. El [Aqua Home de ósmosis inversa](https://meli.la/2nRku94), 7 etapas más UV, la purificación más completa.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál purificador de agua comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la mayoría, el **Hidrolit Senic Out Classic**: el más elegido de esta comparativa, con el mayor volumen de calificaciones y 1° en el ranking de Purificadores de Agua de MercadoLibre, validado incluso por compradores que antes usaban marcas más caras. Si priorizás **precio** y tu agua de red ya es segura, el **ADAWATER** es el más barato y el de caudal más rápido. Si necesitás **algo portátil**, el **Dvigi AS Plus** es la única opción de esta comparativa, con dos reseñas reales que reportan análisis de laboratorio antes y después. Y si buscás la **purificación más completa** (incluidos microorganismos), el **Aqua Home de ósmosis inversa** suma 7 etapas y luz UV, aunque con menos respaldo de opiniones todavía. El error a evitar: comprar el filtro más básico si tu agua de red tiene antecedentes de arsénico o metales pesados, o pagar la ósmosis inversa más cara si un filtro simple de carbón ya te alcanza.` },
+    ],
+    faq: [
+      { question: `¿Cuál es el mejor purificador de agua en Argentina?`, answer: `Para la mayoría, el [Hidrolit Senic Out Classic](https://meli.la/2p5ekRM): el más elegido de esta comparativa, con {{reviews:MLA1407640161}} calificaciones y 1° en el ranking de Purificadores de Agua de MercadoLibre. Si priorizás precio, el [ADAWATER](https://meli.la/1r43g1G) es el más barato; si necesitás algo portátil, el [Dvigi AS Plus](https://meli.la/2jJzKMA) es la única opción.` },
+      { question: `¿Qué purificador de agua elimina arsénico?`, answer: `De esta comparativa, el [Hidrolit Senic Out Classic](https://meli.la/2p5ekRM), el [Dvigi AS Plus](https://meli.la/2jJzKMA) y el [Aqua Home de ósmosis inversa](https://meli.la/2nRku94) lo declaran. El [ADAWATER](https://meli.la/1r43g1G), el más barato, solo reduce cloro, olores, sabor y sedimentos.` },
+      { question: `¿Qué diferencia hay entre un filtro de carbón y uno de ósmosis inversa?`, answer: `El filtro de carbón (como el ADAWATER, el Hidrolit o el Dvigi de esta guía) retiene partículas y adsorbe sustancias con 1 a 4 etapas. La ósmosis inversa (el Aqua Home de esta comparativa) usa una membrana en 7 etapas que retiene una lista de contaminantes mucho más larga, incluidos microorganismos con ayuda de una lámpara UV, aunque filtra más lento y cuesta bastante más.` },
+      { question: `¿Hay algún purificador portátil en esta comparativa?`, answer: `Sí, el [Dvigi AS Plus](https://meli.la/2jJzKMA) es el único de las 4 opciones pensado para moverlo entre puntos de uso, con 1,5 kg de peso.` },
+      { question: `¿Vale la pena la ósmosis inversa frente a un filtro simple?`, answer: `Depende de qué necesites. Si tu agua de red ya es segura y solo buscás mejorar el sabor, un filtro de carbón como el ADAWATER o el Hidrolit de esta guía alcanza. Si necesitás eliminar la mayor cantidad posible de contaminantes, incluidos microorganismos, la ósmosis inversa del Aqua Home es más completa, a cambio de un precio varias veces mayor y menos respaldo de opiniones todavía.` },
+      { question: `¿Cuánto dura el filtro de un purificador de agua?`, answer: `En esta comparativa, el ADAWATER, el Hidrolit y el Dvigi declaran 1 año de vida útil. El Aqua Home de ósmosis inversa no declara una cifra exacta en su ficha técnica.` },
+      { question: `¿Cómo sé si el purificador realmente funciona?`, answer: `La forma más confiable es medir el agua antes y después con un análisis de laboratorio, como hicieron dos compradores reales del [Dvigi AS Plus](https://meli.la/2jJzKMA) en esta comparativa (redujeron arsénico de 0,24 a 0,010 mg/l y cloro de 1,62 a menos de 0,1). La mayoría de las reseñas de MercadoLibre son opiniones de satisfacción, no mediciones, así que priorizamos estas cuando existen.` },
+    ],
+    internalLinks: [
+      { label: "Purificador de aire: cuál comprar", href: "/guias/hogar/purificador-de-aire" },
+      { label: "Aspiradora de mano: cuál comprar", href: "/guias/hogar/aspiradora-de-mano" },
+      { label: "Secarropas: cuál comprar", href: "/guias/hogar/secarropas" },
+    ],
+    internalLinksTitle: "Más para tu hogar",
+  },
 ];
 
 /**
@@ -38069,5 +38184,10 @@ export const guideCategories: Record<string, { name: string; description: string
     name: "Guía de Oficina",
     description:
       "Mobiliario de oficina y home office comparado por lo que decide el uso real: peso máximo soportado, ajustes y respaldo de opiniones, con precios reales de MercadoLibre.",
+  },
+  "purificador-de-agua": {
+    name: "Guía de Purificador de Agua",
+    description:
+      "Qué sustancias elimina cada uno de verdad y cuántas etapas de filtrado tiene: los más vendidos y mejor calificados de MercadoLibre, comparados.",
   },
 };

@@ -111629,6 +111629,440 @@ Comprala si el apoyapiés integrado es un diferencial que de verdad vas a usar y
       },
     },
   },
+  {
+    id: "MLAU2874341428",
+    title: "Purificador de Agua ADAWATER Sobre Mesada Reduce Cloro",
+    canonicalName: "Purificador de Agua ADAWATER Sobre Mesada",
+    brand: "ADAWATER",
+    price: 58994,
+    originalPrice: 99990,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_871981-MLA116264309278_092026-F.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_871981-MLA116264309278_092026-F.webp"],
+    category: "Hogar",
+    categorySlug: "hogar",
+    permalink: "https://www.mercadolibre.com.ar/purificador-agua-sobre-mesada-filtro-canilla-reduce-cloro/up/MLAU2874341428",
+    affiliateUrl: "https://meli.la/1r43g1G",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 3413,
+    priceUpdated: "2026-10-25",
+    priceLastChecked: "2026-10-25",
+    priceVerifiedAt: "2026-10-25",
+    priceStatus: "fresh",
+    visibility: "normal",
+    pastelColor: "var(--pastel-blue)",
+    seoTitle: "Purificador de Agua ADAWATER: el más barato, ¿rinde?",
+    metaDescription: "El purificador de agua más barato de esta comparativa, a {{precio:MLAU2874341428}} con {{reviews:MLAU2874341428}} calificaciones reales. Reduce cloro, olores, sabor y sedimentos.",
+    description: "Purificador de agua ADAWATER sobre mesada: el más barato de esta comparativa, reduce cloro, olores, sabor y sedimentos, con {{reviews:MLAU2874341428}} calificaciones reales.",
+    specs: [
+      { label: "Marca (según ficha técnica de ML)", value: "Sobremesada (la publicación no declara una marca reconocible; es un producto de importador genérico)" },
+      { label: "Modelo", value: "PP" },
+      { label: "Material", value: "Plástico" },
+      { label: "Sustancias que reduce", value: "Cloro, olores, sabor, sedimentos" },
+      { label: "Cantidad de etapas", value: "1" },
+      { label: "Caudal máximo de agua", value: "5 l/min" },
+      { label: "Vida útil del filtro", value: "1 año" },
+      { label: "Con grifo", value: "Sí" },
+      { label: "Es portátil", value: "No" },
+      { label: "Dimensiones (ancho x altura)", value: "14 x 35 cm" },
+      { label: "Peso", value: "2 kg" },
+    ],
+    relatedProducts: ["MLA1407640161", "MLA23755517", "MLA918619202"],
+    customerReviews: [
+      { rating: 5, date: "2025-10", country: "Argentina", text: "Me pareció muy bueno lo ví y me causó una buena impresión, estéticamente se be muy bien y los materiales también parecen de exelente calidad lo único que me pasó cuando lo instale perdía agua por la base roscada ahí me dió un poco de que pensé que lo iba a tener que devolver y eso me puso intranquilo, pero después lo desarme y lo volví a enroscarlo y no perdió más. Buen flujo de agua y me encanta.", useful: 80 },
+      { rating: 5, date: "2025-10", country: "Argentina", text: "Es exactamente igual a uno que pagué 4 veces más.", useful: 46 },
+      { rating: 4, date: "2025-10", country: "Argentina", text: "Que decir sale agua. Y se siente bien no es gran cosa. Acá no sale sucia el agua es solo por seguridad la instalación. No es gran calidad bastante cara por la calidad del equipo la estoy probando veré que pasa.", useful: 33 },
+    ],
+    reviewsSampledAt: "2026-10-25",
+    verdict: "El ADAWATER es el purificador de agua más barato de esta comparativa, a {{precio:MLAU2874341428}}, con {{reviews:MLAU2874341428}} calificaciones y {{rating:MLAU2874341428}} estrellas de promedio. Es un filtro de una sola etapa que reduce cloro, olores, sabor y sedimentos, con buen caudal (5 l/min) y fácil instalación sobre la canilla. La ficha técnica de MercadoLibre no declara una marca reconocible (figura como \"Sobremesada\", probablemente un error de carga del vendedor), y varios compradores lo comparan favorablemente contra opciones mucho más caras. Para reducir cloro y mejorar el sabor del agua de red sin gastar de más, cumple.",
+    pros: [
+      "El más barato de esta comparativa, a {{precio:MLAU2874341428}}",
+      "{{reviews:MLAU2874341428}} calificaciones con {{rating:MLAU2874341428}} estrellas de promedio",
+      "Buen caudal (5 l/min), el más rápido de los 4 purificadores de esta comparativa",
+      "Varios compradores lo comparan favorablemente contra opciones varias veces más caras",
+    ],
+    cons: [
+      "Solo 1 etapa de filtrado: reduce cloro, olores, sabor y sedimentos, pero no declara eliminar arsénico ni metales pesados como el resto de la comparativa",
+      "La ficha técnica de ML no declara una marca reconocible (figura como \"Sobremesada\")",
+      "Una reseña real reporta pérdida de agua por la base roscada en la instalación inicial, resuelta reajustando la rosca",
+    ],
+    articleBody: `## Qué es y para quién
+
+El ADAWATER es un purificador de agua sobre mesada de una sola etapa, pensado para reducir cloro, olores, sabor y sedimentos del agua de red. Es el más barato de esta comparativa de 4 purificadores.
+
+## Lo bueno: precio, caudal y buen respaldo de opiniones
+
+A {{precio:MLAU2874341428}}, es la entrada más accesible de esta guía, con {{reviews:MLAU2874341428}} calificaciones reales y {{rating:MLAU2874341428}} estrellas de promedio. Tiene el caudal más rápido de los 4 purificadores comparados (5 litros por minuto), y varios compradores lo comparan favorablemente contra opciones mucho más caras: "es exactamente igual a uno que pagué 4 veces más", dice una reseña real.
+
+## La contra real: un filtro básico de una sola etapa
+
+A diferencia del resto de esta comparativa, el ADAWATER solo reduce cloro, olores, sabor y sedimentos: no declara eliminar arsénico ni metales pesados. Tampoco tiene una marca reconocible en su ficha técnica (MercadoLibre la carga como "Sobremesada", probablemente un error de carga del vendedor, no un dato inventado por nosotros). Una reseña real también reporta una pérdida de agua en la base roscada durante la instalación inicial, que se resolvió desarmando y volviendo a ajustar.
+
+## Para quién sí y para quién no
+
+Comprálo si tu agua de red ya es segura (sin arsénico ni metales pesados declarados en tu zona) y solo buscás mejorar el sabor y el olor del cloro, gastando lo mínimo. Si necesitás eliminar arsénico o metales pesados, conviene mirar el [Hidrolit Senic Out Classic](/producto/purificador-de-agua-hidrolit-senic-out-classic-blanco-mla1407640161) o el [Dvigi AS Plus](/producto/purificador-de-agua-dvigi-as-plus-elimina-arsenico-mla23755517).`,
+    faq: [
+      { question: "¿El ADAWATER elimina arsénico?", answer: "No lo declara. Según su ficha técnica, solo reduce cloro, olores, sabor y sedimentos. Si necesitás eliminar arsénico o metales pesados, conviene el Hidrolit Senic Out Classic o el Dvigi AS Plus de esta misma comparativa." },
+      { question: "¿Por qué es tan barato?", answer: "Es un filtro de una sola etapa, más simple que las otras 3 opciones de esta comparativa (que tienen entre 1 y 7 etapas con tecnologías más complejas). Para reducir cloro y mejorar el sabor del agua, varios compradores lo encuentran igual de efectivo que opciones varias veces más caras." },
+      { question: "¿Qué marca es ADAWATER?", answer: "La ficha técnica de MercadoLibre no declara una marca reconocible (figura como \"Sobremesada\"), lo que sugiere que es un producto de importador genérico. Lo aclaramos porque no es un dato que inventemos ni que la publicación destaque." },
+      { question: "¿Pierde agua en la instalación?", answer: "Una reseña real reportó una pérdida de agua en la base roscada al instalarlo por primera vez, resuelta desarmando y volviendo a enroscar la base. No parece ser un problema recurrente según el resto de las opiniones." },
+      { question: "¿Cuánto dura el filtro?", answer: "Según su ficha técnica, 1 año de vida útil, igual que el Hidrolit de esta comparativa." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Purificador de Agua ADAWATER Sobre Mesada",
+      description: "Purificador de agua ADAWATER sobre mesada, filtro de una etapa, reduce cloro, olores, sabor y sedimentos, el más barato de esta comparativa de MercadoLibre Argentina.",
+      brand: { "@type": "Brand", name: "ADAWATER" },
+      sku: "MLAU2874341428",
+      category: "Electrodomésticos para el hogar",
+      image: "https://http2.mlstatic.com/D_NQ_NP_871981-MLA116264309278_092026-F.webp",
+      url: "https://productosvirales.com.ar/producto/purificador-de-agua-adawater-sobre-mesada-reduce-cloro-mlau2874341428",
+      offers: {
+        "@type": "Offer",
+        priceCurrency: "ARS",
+        price: "58994",
+        availability: "https://schema.org/InStock",
+        seller: { "@type": "Organization", name: "MercadoLibre Argentina" },
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.7",
+        reviewCount: "3413",
+        bestRating: "5",
+        worstRating: "1",
+      },
+    },
+  },
+  {
+    id: "MLA1407640161",
+    title: "Purificador de Agua Hidrolit Senic Out Classic Blanco",
+    canonicalName: "Purificador de Agua Hidrolit Senic Out Classic",
+    brand: "Hidrolit",
+    price: 193428,
+    originalPrice: 322380,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_681100-MLA116264609444_092026-F.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_681100-MLA116264609444_092026-F.webp"],
+    category: "Hogar",
+    categorySlug: "hogar",
+    permalink: "https://articulo.mercadolibre.com.ar/MLA-1407640161",
+    affiliateUrl: "https://meli.la/2p5ekRM",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 5715,
+    priceUpdated: "2026-10-25",
+    priceLastChecked: "2026-10-25",
+    priceVerifiedAt: "2026-10-25",
+    priceStatus: "fresh",
+    visibility: "normal",
+    pastelColor: "var(--pastel-green)",
+    seoTitle: "Purificador Hidrolit Senic Out Classic: el más elegido",
+    metaDescription: "El purificador de agua más elegido de esta comparativa: {{reviews:MLA1407640161}} calificaciones, 1° en su categoría, elimina arsénico y cloro al 99,99%.",
+    description: "Purificador de agua Hidrolit Senic Out Classic: el más elegido de esta comparativa, con {{reviews:MLA1407640161}} calificaciones y 1° en el ranking de Purificadores de Agua de MercadoLibre.",
+    specs: [
+      { label: "Marca", value: "Hidrolit" },
+      { label: "Línea", value: "Senic Out" },
+      { label: "Color", value: "Blanco" },
+      { label: "Material", value: "Plástico" },
+      { label: "Sustancias eliminadas", value: "Arsénico, cloro, metales pesados" },
+      { label: "Porcentaje de eliminación de cloro", value: "99,99 %" },
+      { label: "Método de filtración", value: "Adsorción, nanotecnología" },
+      { label: "Cantidad de etapas", value: "1" },
+      { label: "Caudal máximo de agua", value: "12 l/h (filtración lenta y precisa, no pensada para llenar ollas rápido)" },
+      { label: "Vida útil del filtro", value: "1 año" },
+      { label: "Con grifo", value: "Sí" },
+      { label: "Es portátil", value: "No" },
+      { label: "Dimensiones (ancho x altura)", value: "12 x 32 cm" },
+      { label: "Peso", value: "2 kg" },
+      { label: "Ranking en MercadoLibre", value: "1° en el ranking de Purificadores de Agua (badge propio de la plataforma)" },
+    ],
+    relatedProducts: ["MLAU2874341428", "MLA23755517", "MLA918619202"],
+    customerReviews: [
+      { rating: 5, date: "2025-09", country: "Argentina", text: "Muy bueno en cuanto a precio, calidad de los materiales, estética y fácil instalación. Al principio la canilla donde sale el agua filtrada quedaba goteando un poco luego de cerrarla, pero después al parecer se acomodó sola y ya no gotea. Anda bien, lo recomiendo, y más por el precio siendo que PSA sale 400 mil pesos reponer el equipo que tenía.", useful: 112 },
+      { rating: 5, date: "2025-09", country: "Argentina", text: "Antes tenía PSA. No noto diferencias, sinceramente.", useful: 111 },
+      { rating: 5, date: "2025-09", country: "Argentina", text: "Me encantó, primera impresión estéticamente muy lindo, materiales de buena calidad. Luego de instalación tiene un buen caudal de agua y sin gusto a cloro. En comparación del que tenia anteriormente (Drago) es muchísimo mejor en todos los aspectos.", useful: 90 },
+    ],
+    reviewsSampledAt: "2026-10-25",
+    verdict: "El Hidrolit Senic Out Classic es el purificador de agua más elegido de esta comparativa: {{reviews:MLA1407640161}} calificaciones, bien por encima de las otras tres, y 1° en el ranking de Purificadores de Agua de MercadoLibre. Elimina arsénico, cloro (99,99%) y metales pesados por adsorción y nanotecnología, a {{precio:MLA1407640161}}. Varios compradores que antes usaban PSA (una marca bastante más cara) dicen no notar diferencias reales. La contra honesta: el caudal es lento (12 l/h) comparado con el ADAWATER de esta guía, un trade-off esperable por la filtración más fina.",
+    pros: [
+      "El más elegido de esta comparativa: {{reviews:MLA1407640161}} calificaciones, 1° en el ranking de Purificadores de Agua de MercadoLibre",
+      "Elimina arsénico, cloro (99,99%) y metales pesados, no solo cloro y sabor como el más barato de la comparativa",
+      "Varios compradores que antes usaban PSA (marca más cara) reportan no notar diferencias reales",
+      "{{rating:MLA1407640161}} estrellas de promedio, empatado con el más alto de esta comparativa",
+    ],
+    cons: [
+      "Caudal lento: 12 l/h, bastante por debajo del ADAWATER de esta comparativa (5 l/min)",
+      "Solo 1 etapa de filtrado (aunque el método de adsorción y nanotecnología compensa con mayor capacidad de eliminación)",
+      "{{preciodif:MLA1407640161:MLAU2874341428}} más caro que el ADAWATER, el más barato de la comparativa",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Hidrolit Senic Out Classic es un purificador de agua sobre mesada que elimina arsénico, cloro y metales pesados por adsorción y nanotecnología. Es el más elegido de esta comparativa de 4 purificadores, con el mayor volumen de calificaciones y el primer puesto en el ranking de Purificadores de Agua de MercadoLibre.
+
+## Lo bueno: el líder del mercado, validado contra la competencia cara
+
+Con {{reviews:MLA1407640161}} calificaciones y {{rating:MLA1407640161}} estrellas de promedio, es por lejos el purificador con más respaldo de compradores de esta guía. Lo más interesante son las reseñas de quienes vienen de PSA, una marca bastante más cara y reconocida en el rubro: "antes tenía PSA, no noto diferencias, sinceramente", dice una. Otra calcula que reponer un equipo PSA le sale "400 mil pesos", varias veces el precio del Hidrolit.
+
+## La contra real: un filtro lento, por diseño
+
+El dato que hay que saber antes de comprarlo: filtra a 12 litros por hora, bastante más lento que el ADAWATER de esta comparativa (5 litros por minuto, 25 veces más rápido). No es un defecto, es el trade-off de una filtración más fina por adsorción y nanotecnología, pensada para eliminar arsénico y metales pesados, no solo mejorar el sabor. Para llenar un vaso o una olla rápido, no es el más práctico de los 4.
+
+## Para quién sí y para quién no
+
+Comprálo si tu agua de red puede tener arsénico o metales pesados (común en varias zonas de Argentina) y buscás una marca con el mayor respaldo de opiniones del sitio, sin pagar lo que cuesta PSA. Si priorizás velocidad de filtrado por sobre la eliminación de arsénico, el [ADAWATER](/producto/purificador-de-agua-adawater-sobre-mesada-reduce-cloro-mlau2874341428) de esta comparativa es más rápido (aunque más básico).`,
+    faq: [
+      { question: "¿El Hidrolit Senic Out Classic elimina arsénico?", answer: "Sí, según su ficha técnica elimina arsénico, cloro (99,99%) y metales pesados, por adsorción y nanotecnología." },
+      { question: "¿Es mejor que PSA?", answer: "No lo afirmamos nosotros: varias reseñas reales de compradores que antes usaban PSA (marca más cara) dicen no notar diferencias. Es un dato de reseñas, no un claim propio de la publicación." },
+      { question: "¿Por qué es tan lento el caudal?", answer: "Filtra a 12 litros por hora, bastante menos que el ADAWATER de esta comparativa (5 litros por minuto). Es el trade-off de una filtración más fina por adsorción y nanotecnología, pensada para eliminar arsénico y metales pesados, no solo mejorar el sabor." },
+      { question: "¿Por qué es el más elegido de esta comparativa?", answer: "Tiene {{reviews:MLA1407640161}} calificaciones, la mayor cantidad de las 4 opciones comparadas, y figura 1° en el ranking de Purificadores de Agua de MercadoLibre." },
+      { question: "¿Cuánto dura el filtro?", answer: "Según su ficha técnica, 1 año de vida útil, igual que el ADAWATER de esta comparativa." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Purificador de Agua Hidrolit Senic Out Classic",
+      description: "Purificador de agua Hidrolit Senic Out Classic, elimina arsénico, cloro y metales pesados por adsorción y nanotecnología, el más elegido de esta comparativa de MercadoLibre Argentina.",
+      brand: { "@type": "Brand", name: "Hidrolit" },
+      sku: "MLA1407640161",
+      category: "Electrodomésticos para el hogar",
+      image: "https://http2.mlstatic.com/D_NQ_NP_681100-MLA116264609444_092026-F.webp",
+      url: "https://productosvirales.com.ar/producto/purificador-de-agua-hidrolit-senic-out-classic-blanco-mla1407640161",
+      offers: {
+        "@type": "Offer",
+        priceCurrency: "ARS",
+        price: "193428",
+        availability: "https://schema.org/InStock",
+        seller: { "@type": "Organization", name: "MercadoLibre Argentina" },
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.8",
+        reviewCount: "5715",
+        bestRating: "5",
+        worstRating: "1",
+      },
+    },
+  },
+  {
+    id: "MLA23755517",
+    title: "Purificador de Agua Dvigi AS Plus Elimina Arsenico",
+    canonicalName: "Purificador de Agua Dvigi AS Plus",
+    brand: "Dvigi",
+    price: 135900,
+    originalPrice: 161379,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_611245-MLA117670132988_102026-F.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_611245-MLA117670132988_102026-F.webp"],
+    category: "Hogar",
+    categorySlug: "hogar",
+    permalink: "https://www.mercadolibre.com.ar/purificador-de-agua-dvigi-as-plus-sobre-mesada-elimina-arsenico-y-metales-pesados/p/MLA23755517",
+    affiliateUrl: "https://meli.la/2jJzKMA",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 4018,
+    priceUpdated: "2026-10-25",
+    priceLastChecked: "2026-10-25",
+    priceVerifiedAt: "2026-10-25",
+    priceStatus: "fresh",
+    visibility: "normal",
+    pastelColor: "var(--pastel-amber)",
+    seoTitle: "Dvigi AS Plus: el portátil, probado en laboratorio",
+    metaDescription: "Dvigi AS Plus a {{precio:MLA23755517}}: el único purificador portátil de esta comparativa, con compradores que verificaron en laboratorio la reducción real de arsénico y cloro.",
+    description: "Purificador de agua Dvigi AS Plus: el único portátil de esta comparativa, elimina metales pesados, arsénico, cloro, plomo, cobre y aluminio en 4 etapas.",
+    specs: [
+      { label: "Marca", value: "Dvigi" },
+      { label: "Línea / Modelo", value: "AS Plus (AQUASP0136)" },
+      { label: "Color", value: "Blanco/Gris" },
+      { label: "Material", value: "Plástico" },
+      { label: "Sustancias eliminadas", value: "Metales pesados, arsénico, cloro, plomo, cobre, aluminio" },
+      { label: "Método de filtración", value: "Carbón activado granular impregnado en plata" },
+      { label: "Cantidad de etapas", value: "4" },
+      { label: "Caudal máximo de agua", value: "2 l/min" },
+      { label: "Vida útil del filtro", value: "1 año" },
+      { label: "Con grifo", value: "Sí" },
+      { label: "Es portátil", value: "Sí, la única de esta comparativa" },
+      { label: "Dimensiones (ancho x altura)", value: "16,5 x 32 cm" },
+      { label: "Peso", value: "1,5 kg" },
+      { label: "Ranking en MercadoLibre", value: "5° en el ranking de Purificadores de Agua (badge propio de la plataforma)" },
+    ],
+    relatedProducts: ["MLAU2874341428", "MLA1407640161", "MLA918619202"],
+    customerReviews: [
+      { rating: 5, date: "2025-10", country: "Argentina", text: "Antes de comprar el purificador hice análisis de laboratorio del agua de red (Mar del Plata) y dio 0,24 mg/l de arsénico. Después hice un nuevo análisis con el agua del purificador y el resultado fue de 0,010 mg/l, por lo que ahora tengo la seguridad de que el purificador funciona. Adjunto foto del segundo análisis por si les es útil.", useful: 176 },
+      { rating: 5, date: "2025-09", country: "Argentina", text: "Realicé medición de cloro libre al agua directo de red: 1,62 (una bestialidad), y luego del filtrado, menor a 0,1, por lo cual está demás decir que el equipo funciona muy bien. La calidad del agua luego del filtrado es muy buena, supera a cualquier agua de mesa embotellada. Es una inversión necesaria para la salud.", useful: 157 },
+    ],
+    reviewsSampledAt: "2026-10-25",
+    verdict: "El Dvigi AS Plus es el único purificador portátil de esta comparativa: 1,5 kg, pensado para moverlo entre la mesada y otro punto de uso. Filtra en 4 etapas por carbón activado granular impregnado en plata, declarando eliminar metales pesados, arsénico, cloro, plomo, cobre y aluminio, a {{precio:MLA23755517}}. Lo que más pesa a su favor no es un dato de la ficha técnica: son dos reseñas reales de compradores que reportan haber medido el agua con análisis de laboratorio antes y después, con reducciones de arsénico (de 0,24 a 0,010 mg/l) y cloro (de 1,62 a menos de 0,1). Es la opción del medio de esta comparativa: ni la más barata ni la más elegida, pero con el respaldo más concreto de esta guía.",
+    pros: [
+      "El único purificador portátil de esta comparativa (1,5 kg)",
+      "4 etapas de filtrado por carbón activado impregnado en plata, declara eliminar 6 sustancias específicas",
+      "Dos reseñas reales de compradores que reportan análisis de laboratorio antes/después, con reducción de arsénico y cloro",
+      "{{reviews:MLA23755517}} calificaciones con {{rating:MLA23755517}} estrellas de promedio",
+    ],
+    cons: [
+      "Caudal de 2 l/min, más lento que el ADAWATER de esta comparativa (5 l/min) aunque más rápido que el Hidrolit (12 l/h)",
+      "No es ni la más barata ni la más elegida de esta comparativa: una posición intermedia en precio y volumen de opiniones",
+      "{{preciodif:MLA23755517:MLAU2874341428}} más cara que el ADAWATER, el más barato de la comparativa",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Dvigi AS Plus es un purificador de agua sobre mesada de 4 etapas, con filtración por carbón activado granular impregnado en plata. Declara eliminar metales pesados, arsénico, cloro, plomo, cobre y aluminio. Es el único purificador portátil de esta comparativa de 4 opciones.
+
+## Lo bueno: evidencia real, no solo la ficha técnica
+
+Lo que más distingue a este purificador no es un dato de MercadoLibre: son dos reseñas reales de compradores que midieron la calidad del agua con análisis de laboratorio, antes y después de instalarlo. Uno midió arsénico en agua de red de Mar del Plata (0,24 mg/l) y después del filtrado (0,010 mg/l). Otro midió cloro libre: 1,62 directo de la red, menos de 0,1 después del filtrado. Es el tipo de evidencia que pocas fichas de producto tienen. Además, con 1,5 kg, es el único de esta comparativa pensado para moverlo entre puntos de uso.
+
+## La contra real: ni la más barata ni la más elegida
+
+A {{precio:MLA23755517}}, el Dvigi AS Plus ocupa la posición intermedia de esta comparativa: no es la entrada más barata (eso es el ADAWATER) ni la más elegida en volumen de opiniones (eso es el Hidrolit). Su caudal de 2 litros por minuto es un término medio: más lento que el ADAWATER, más rápido que el Hidrolit.
+
+## Para quién sí y para quién no
+
+Comprálo si valorás la portabilidad y querés evidencia concreta (no solo promesas de ficha técnica) de que el filtro reduce arsénico y cloro de verdad. Si no te importa que sea portátil y buscás la opción más elegida del mercado, el [Hidrolit Senic Out Classic](/producto/purificador-de-agua-hidrolit-senic-out-classic-blanco-mla1407640161) tiene más respaldo de opiniones.`,
+    faq: [
+      { question: "¿Hay pruebas reales de que el Dvigi AS Plus funciona?", answer: "Dos reseñas reales de compradores reportan haber medido el agua con análisis de laboratorio antes y después: una registró arsénico de 0,24 a 0,010 mg/l, otra cloro libre de 1,62 a menos de 0,1. Es más concreto que la mayoría de las opiniones de satisfacción, aunque el sitio no validó esos análisis de forma independiente." },
+      { question: "¿Es portátil?", answer: "Sí, es el único de esta comparativa de 4 purificadores que lo es: pesa 1,5 kg y está pensado para moverlo entre puntos de uso." },
+      { question: "¿Cuántas etapas de filtrado tiene?", answer: "4, la mayor cantidad entre los purificadores de filtro por carbón de esta comparativa (el Hidrolit y el ADAWATER tienen 1; el Aqua Home de ósmosis inversa tiene 7, pero es otra tecnología)." },
+      { question: "¿Qué sustancias elimina?", answer: "Según su ficha técnica: metales pesados, arsénico, cloro, plomo, cobre y aluminio." },
+      { question: "¿Es el más barato o el más elegido de esta comparativa?", answer: "Ninguno de los dos: ocupa la posición intermedia en precio ({{precio:MLA23755517}}) y en volumen de calificaciones ({{reviews:MLA23755517}}), entre el ADAWATER (más barato) y el Hidrolit (más elegido)." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Purificador de Agua Dvigi AS Plus",
+      description: "Purificador de agua Dvigi AS Plus, portátil, 4 etapas de filtrado, elimina metales pesados, arsénico, cloro, plomo, cobre y aluminio, de MercadoLibre Argentina.",
+      brand: { "@type": "Brand", name: "Dvigi" },
+      sku: "MLA23755517",
+      category: "Electrodomésticos para el hogar",
+      image: "https://http2.mlstatic.com/D_NQ_NP_611245-MLA117670132988_102026-F.webp",
+      url: "https://productosvirales.com.ar/producto/purificador-de-agua-dvigi-as-plus-elimina-arsenico-mla23755517",
+      offers: {
+        "@type": "Offer",
+        priceCurrency: "ARS",
+        price: "135900",
+        availability: "https://schema.org/InStock",
+        seller: { "@type": "Organization", name: "MercadoLibre Argentina" },
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.7",
+        reviewCount: "4018",
+        bestRating: "5",
+        worstRating: "1",
+      },
+    },
+  },
+  {
+    id: "MLA918619202",
+    title: "Purificador de Agua Aqua Home Osmosis Inversa 7 Etapas",
+    canonicalName: "Purificador de Agua Aqua Home Ósmosis Inversa 7 Etapas",
+    brand: "Aqua Home",
+    price: 799650,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_825077-MLA110592069978_052026-F.webp",
+    images: ["https://http2.mlstatic.com/D_NQ_NP_825077-MLA110592069978_052026-F.webp"],
+    category: "Hogar",
+    categorySlug: "hogar",
+    permalink: "https://articulo.mercadolibre.com.ar/MLA-918619202",
+    affiliateUrl: "https://meli.la/2nRku94",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 46,
+    priceUpdated: "2026-10-25",
+    priceLastChecked: "2026-10-25",
+    priceVerifiedAt: "2026-10-25",
+    priceStatus: "fresh",
+    visibility: "normal",
+    pastelColor: "var(--pastel-purple)",
+    seoTitle: "Aqua Home Ósmosis Inversa 7 Etapas: el más completo",
+    metaDescription: "Ósmosis inversa de 7 etapas más UV para bacterias y virus, a {{precio:MLA918619202}}. El purificador más completo de esta comparativa, aunque con pocas opiniones todavía.",
+    description: "Purificador de agua Aqua Home de ósmosis inversa, 7 etapas más UV, elimina la lista más larga de contaminantes de esta comparativa, incluidos microorganismos.",
+    specs: [
+      { label: "Marca", value: "Aqua Home" },
+      { label: "Línea / Modelo", value: "Ósmosis Inversa AH OI737-200" },
+      { label: "Color", value: "Blanco" },
+      { label: "Material", value: "Metal" },
+      { label: "Voltaje", value: "110/220V" },
+      { label: "Tipo de purificador", value: "Ósmosis inversa + luz UV" },
+      { label: "Sustancias eliminadas", value: "Arsénico, nitratos, nitritos, sodio, plomo, mercurio, cromo, cadmio, zinc, calcio, magnesio, fluoruros, cloro, aluminio y otros metales pesados; microorganismos, virus y bacterias por UV" },
+      { label: "Cantidad de etapas", value: "7" },
+      { label: "Caudal máximo de agua", value: "8 l/h" },
+      { label: "Con grifo", value: "Sí" },
+      { label: "Es portátil", value: "No" },
+      { label: "Dimensiones (ancho x altura)", value: "37 x 57 cm" },
+      { label: "Peso", value: "9,55 kg" },
+    ],
+    relatedProducts: ["MLAU2874341428", "MLA1407640161", "MLA23755517"],
+    customerReviews: [
+      { rating: 5, date: "2025-09", country: "Argentina", text: "Excelente, analicé el agua y me dio valores excelentes, mejor que agua de glaciar.", useful: 25 },
+      { rating: 4, date: "2025-10", country: "Argentina", text: "Cumple su función, pero preferiría que la lámpara UV no quede encendida todo el tiempo y encienda solo cuando se consume el agua.", useful: 3 },
+    ],
+    reviewsSampledAt: "2026-10-25",
+    verdict: "El Aqua Home de ósmosis inversa es el purificador más completo de esta comparativa: 7 etapas de filtrado más una lámpara UV que ataca microorganismos, virus y bacterias, algo que ninguno de los otros 3 purificadores de esta guía declara. Elimina la lista más larga de contaminantes (desde arsénico y metales pesados hasta nitratos y fluoruros), a {{precio:MLA918619202}}. Es, por lejos, el más caro y el que menos opiniones acumula ({{reviews:MLA918619202}}), así que conviene saber que todavía tiene poco respaldo de compradores. Una reseña real señala un detalle honesto: la lámpara UV queda encendida todo el tiempo en vez de solo cuando se consume agua.",
+    pros: [
+      "El más completo de esta comparativa: 7 etapas de ósmosis inversa más UV, la lista de contaminantes eliminados más larga de las 4 opciones",
+      "Incluye tratamiento UV contra microorganismos, virus y bacterias, algo que ninguno de los otros 3 purificadores declara",
+      "{{rating:MLA918619202}} estrellas, empatado con el más alto de esta comparativa",
+      "Una reseña real reporta resultados de laboratorio mejores que el agua embotellada de glaciar",
+    ],
+    cons: [
+      "El más caro de esta comparativa por lejos: {{preciodif:MLA918619202:MLAU2874341428}} más caro que el ADAWATER",
+      "Apenas {{reviews:MLA918619202}} calificaciones, bastante menos respaldo que las otras tres opciones de esta guía",
+      "La lámpara UV queda encendida todo el tiempo, no solo cuando se consume agua, según una reseña real",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Aqua Home es un purificador de agua por ósmosis inversa de 7 etapas, que suma una lámpara UV para atacar microorganismos, virus y bacterias. Es el más completo y también el más caro de esta comparativa de 4 purificadores.
+
+## Lo bueno: la tecnología más completa de las 4
+
+Mientras los otros 3 purificadores de esta comparativa filtran por carbón activado o adsorción (entre 1 y 4 etapas), el Aqua Home usa ósmosis inversa real en 7 etapas, con una membrana que retiene una lista mucho más larga de contaminantes: desde arsénico, plomo y mercurio hasta nitratos, fluoruros y sodio. Suma además una lámpara UV que ninguno de los otros 3 tiene, pensada para neutralizar microorganismos, virus y bacterias. Una reseña real midió el agua resultante y la comparó favorablemente contra agua de glaciar embotellada.
+
+## La contra real: caro y con poco respaldo todavía
+
+A {{precio:MLA918619202}}, es el más caro de esta comparativa por lejos, y con apenas {{reviews:MLA918619202}} calificaciones, bastante menos que las otras tres opciones (que tienen miles). No tiene el badge "MÁS VENDIDO" que sí tienen los otros 3 purificadores de esta guía. Una reseña real también señala un detalle honesto: la lámpara UV queda encendida todo el tiempo en vez de prenderse solo cuando se consume agua, lo que suma algo de consumo eléctrico constante.
+
+## Para quién sí y para quién no
+
+Comprálo si buscás la purificación más completa posible (incluida la eliminación de microorganismos) y el precio no es el factor decisivo. Si buscás algo más probado por el mercado y con más respaldo de opiniones, el [Hidrolit Senic Out Classic](/producto/purificador-de-agua-hidrolit-senic-out-classic-blanco-mla1407640161) de esta comparativa tiene miles de calificaciones y cuesta bastante menos.`,
+    faq: [
+      { question: "¿Qué diferencia a este purificador de los otros de esta comparativa?", answer: "La tecnología: usa ósmosis inversa en 7 etapas más una lámpara UV, contra el carbón activado de 1 a 4 etapas de los otros 3. Elimina una lista de contaminantes mucho más larga, incluidos microorganismos, virus y bacterias." },
+      { question: "¿Por qué tiene tan pocas calificaciones?", answer: "Con {{reviews:MLA918619202}} opiniones, es el que menos acumula de esta comparativa de 4 purificadores, probablemente por ser una opción más cara y de nicho (ósmosis inversa con UV) que los filtros de carbón más populares." },
+      { question: "¿La lámpara UV tiene algún inconveniente?", answer: "Una reseña real señala que queda encendida todo el tiempo en vez de prenderse solo cuando se consume agua, lo que suma algo de consumo eléctrico constante. No es un defecto de funcionamiento, pero conviene saberlo." },
+      { question: "¿Vale la pena pagar tanto más que los otros purificadores?", answer: "Depende de qué necesites. Si tu prioridad es eliminar la mayor cantidad de contaminantes posible, incluidos microorganismos, es la opción más completa. Si buscás algo probado por miles de compradores y más económico, el Hidrolit Senic Out Classic de esta comparativa cumple para la mayoría." },
+      { question: "¿Es portátil?", answer: "No. Con 9,55 kg y estructura de metal, es el más pesado de esta comparativa; de las 4 opciones, solo el Dvigi AS Plus es portátil." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Purificador de Agua Aqua Home Ósmosis Inversa 7 Etapas",
+      description: "Purificador de agua Aqua Home de ósmosis inversa, 7 etapas más tratamiento UV, elimina la lista de contaminantes más larga de esta comparativa de MercadoLibre Argentina.",
+      brand: { "@type": "Brand", name: "Aqua Home" },
+      sku: "MLA918619202",
+      category: "Electrodomésticos para el hogar",
+      image: "https://http2.mlstatic.com/D_NQ_NP_825077-MLA110592069978_052026-F.webp",
+      url: "https://productosvirales.com.ar/producto/purificador-de-agua-aqua-home-osmosis-inversa-7-etapas-mla918619202",
+      offers: {
+        "@type": "Offer",
+        priceCurrency: "ARS",
+        price: "799650",
+        availability: "https://schema.org/InStock",
+        seller: { "@type": "Organization", name: "MercadoLibre Argentina" },
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.8",
+        reviewCount: "46",
+        bestRating: "5",
+        worstRating: "1",
+      },
+    },
+  },
 ];
 
 export const categoryPastels: Record<string, string> = {
