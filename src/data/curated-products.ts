@@ -63583,7 +63583,7 @@ Comprá el Surrey Smart Wi-Fi si el control por app te resulta un plus real (pro
     id: "MLA15503957",
     title: "Balanza Digital Con Bluetooth Personal De Baño Peso Corporal 180 Kg Diseño Minimalista Femmto",
     canonicalName: "Balanza Digital Femmto BWS11",
-    price: 17999,
+    price: 19999,
     originalPrice: 27999,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_845343-MLA114064454295_072026-O.webp",
@@ -63598,8 +63598,7 @@ Comprá el Surrey Smart Wi-Fi si el control por app te resulta un plus real (pro
     freeShipping: true,
     brand: "Femmto",
     rating: 4.8,
-    reviewCount: 80888,
-    ratingBreakdown: { five: "86.26%", four: "9.64%", three: "2.29%", two: "0.67%", one: "1.14%" },
+    reviewCount: 83087,
     pastelColor: "var(--pastel-green)",
     visibility: "normal",
     specs: [
@@ -63618,10 +63617,11 @@ Comprá el Surrey Smart Wi-Fi si el control por app te resulta un plus real (pro
       { label: "Dimensiones", value: "26 x 26 x 2,2 cm" },
     ],
     relatedProducts: ["MLA19147005", "MLA38252447"],
-    priceUpdated: "2026-10-02",
-    priceLastChecked: "2026-10-12",
+    priceUpdated: "2026-10-26",
+    priceLastChecked: "2026-10-26",
+    priceVerifiedAt: "2026-10-26",
     priceStatus: "fresh",
-    reviewsSampledAt: "2026-07-06",
+    reviewsSampledAt: "2026-10-26",
     description: "Balanza digital Femmto BWS11: plataforma de vidrio, hasta 180 kg, diseño minimalista. La más vendida del catálogo por lejos, con más de 72.000 calificaciones. Solo mide peso (sin grasa corporal ni IMC), para quien busca lo esencial al mejor precio.",
     seoTitle: "Balanza Digital Femmto: la más vendida, ¿conviene?",
     metaDescription: "Balanza digital Femmto BWS11: vidrio templado, hasta 180 kg, más de 72.000 calificaciones. Precio real, pros, contras y para quién conviene.",
@@ -63661,29 +63661,37 @@ Comprá la Femmto BWS11 si lo único que necesitás es saber tu peso de forma pr
     ],
   },
   {
+    // ACTUALIZADO 2026-10-26: la publicación original (color Negro) quedó
+    // "Este producto no está disponible. Elige otra variante." en ML, verificado
+    // en vivo. Se encontró el mismo modelo Femmto BCS15 en color Gris, activo y
+    // con stock (catálogo MLA21361039, vendido por Femmto Healthcare, tienda
+    // oficial). Se mantiene el `id` interno MLA19147005 (no se toca la URL/slug
+    // del sitio ni las referencias cruzadas de otras fichas); permalink y
+    // affiliateUrl pasan a apuntar a la publicación nueva. Precio verificado en
+    // vivo: $40.999, 4.8★, 18.067 reseñas (antes $26.999, dato de julio/2026).
     id: "MLA19147005",
     title: "Balanza Digital con Bluetooth Femmto BCS15 para Baño Medidor de Grasa Corporal y Masa Muscular",
     canonicalName: "Balanza Digital Femmto BCS15 (análisis corporal)",
-    price: 26999,
-    originalPrice: 60000,
+    price: 40999,
+    originalPrice: 65000,
     currency: "ARS",
-    image: "https://http2.mlstatic.com/D_NQ_NP_894046-MLA112729941096_062026-O.webp",
+    image: "https://http2.mlstatic.com/D_NQ_NP_931612-MLA114049899111_072026-F.webp",
     images: [
-      "https://http2.mlstatic.com/D_NQ_NP_894046-MLA112729941096_062026-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_931612-MLA114049899111_072026-F.webp",
     ],
     category: "Salud y Bienestar",
     categorySlug: "salud-bienestar",
-    permalink: "https://www.mercadolibre.com.ar/balanza-digital-con-bluetooth-femmto-bcs15-para-bano-medidor-de-grasa-corporal-y-masa-muscular/p/MLA19147005",
-    affiliateUrl: "https://meli.la/1JsFuZh",
+    permalink: "https://www.mercadolibre.com.ar/balanza-digital-con-bluetooth-personal-minimalista-smart-bioimpedancia-4-electrodos-invisibles-porcentaje-grasa-corporal-femmto/p/MLA21361039",
+    affiliateUrl: "https://meli.la/2JiPcpW",
     condition: "new",
     freeShipping: true,
     rating: 4.8,
-    reviewCount: 42213,
-    ratingBreakdown: { five: "84.9%", four: "10.39%", three: "2.57%", two: "0.71%", one: "1.43%" },
+    reviewCount: 18067,
     pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Femmto" },
+      { label: "Color", value: "Gris" },
       { label: "Plataforma", value: "Vidrio templado antideslizante" },
       { label: "Capacidad máxima", value: "180 kg" },
       { label: "Con Bluetooth", value: "Sí, con sincronización de app" },
@@ -63697,17 +63705,18 @@ Comprá la Femmto BWS11 si lo único que necesitás es saber tu peso de forma pr
       { label: "Dimensiones", value: "26 x 26 x 2,2 cm" },
     ],
     relatedProducts: ["MLA15503957", "MLA38252447"],
-    priceUpdated: "2026-07-27",
-    priceLastChecked: "2026-07-27",
+    priceUpdated: "2026-10-26",
+    priceLastChecked: "2026-10-26",
+    priceVerifiedAt: "2026-10-26",
     priceStatus: "fresh",
-    reviewsSampledAt: "2026-07-06",
-    description: "Balanza digital Femmto con Bluetooth: mide grasa corporal, IMC y sincroniza con app (iOS/Android). Más de 41.000 calificaciones. Contra honesta: hay que retirar una cinta plástica de los sensores antes del primer uso, o solo muestra el peso.",
+    reviewsSampledAt: "2026-10-26",
+    description: "Balanza digital Femmto con Bluetooth: mide grasa corporal, IMC y sincroniza con app (iOS/Android). {{reviews:MLA19147005}} calificaciones. Contra honesta: hay que retirar una cinta plástica de los sensores antes del primer uso, o solo muestra el peso.",
     seoTitle: "Balanza Femmto con Grasa Corporal: ¿vale la pena?",
-    metaDescription: "Balanza digital Femmto con Bluetooth: grasa corporal, IMC y app. Más de 41.000 calificaciones. Precio real, pros, contras y para quién conviene.",
-    verdict: "Esta Femmto sirve si querés más que el peso: grasa corporal, IMC y un registro por app, con un respaldo de opiniones enorme (más de 41.000). No sirve si vas a ignorar el detalle de sacar la cinta plástica protectora de los sensores antes de usarla por primera vez: sin eso, solo muestra el peso.",
+    metaDescription: "Balanza digital Femmto con Bluetooth: grasa corporal, IMC y app. {{reviews:MLA19147005}} calificaciones. Precio real, pros, contras y para quién conviene.",
+    verdict: "Esta Femmto sirve si querés más que el peso: grasa corporal, IMC y un registro por app, con un respaldo de opiniones enorme ({{reviews:MLA19147005}}). No sirve si vas a ignorar el detalle de sacar la cinta plástica protectora de los sensores antes de usarla por primera vez: sin eso, solo muestra el peso.",
     pros: [
       "Mide grasa corporal e IMC además del peso, con sincronización a una app (iOS y Android)",
-      "Más de 41.000 calificaciones con 4.8 de promedio: segundo respaldo más grande de la categoría",
+      "{{reviews:MLA19147005}} calificaciones con {{rating:MLA19147005}} de promedio",
       "Reseñas confirman consistencia: pesándose varias veces seguidas, marca siempre el mismo valor",
       "La app permite hacer seguimiento de varios parámetros a lo largo del tiempo",
     ],
@@ -63722,7 +63731,7 @@ Esta Femmto es la versión con análisis corporal de la marca: además de pesar,
 
 ## Lo bueno
 
-Las reseñas destacan la consistencia: pesándose varias veces seguidas en cualquier posición, siempre marca el mismo valor, algo que no siempre pasa con balanzas genéricas. La app muestra varios parámetros y permite llevar un registro en el tiempo. Con más de 41.000 calificaciones, es la segunda balanza con más respaldo de esta comparativa.
+Las reseñas destacan la consistencia: pesándose varias veces seguidas en cualquier posición, siempre marca el mismo valor, algo que no siempre pasa con balanzas genéricas. La app muestra varios parámetros y permite llevar un registro en el tiempo. Tiene {{reviews:MLA19147005}} calificaciones.
 
 ## La contra real
 
@@ -63860,14 +63869,13 @@ Es para vos si: querés el análisis de composición corporal más completo de e
   },
   {
     id: "MLA15286360",
-    // Sin stock confirmado en vivo el 2026-07-10 ("Este producto no está disponible").
-    // Sacado del ranking activo de la guía balanza-digital (reemplazada por Utile
-    // UT-1108 en quickPicks), pero se mantiene documentada con nota de sin stock
-    // por si repone. Reviews reales en vivo: 140 (no 14.161 como decía una nota
-    // vieja de tracking, que estaba mal).
+    // RESUELTO 2026-10-26: estaba marcada sin stock desde 2026-07-10, pero
+    // verificado en vivo hoy volvió a tener stock (ÚLTIMAS 2 UNIDADES, +1000
+    // vendidos, 15.708 opiniones). Se revirtió la nota de "sin stock" en la
+    // guía balanza-digital (quickPicks/H3/callout) y en esta ficha.
     title: "Balanza digital Omron Premium HN-289 silky grey, hasta 150 kg",
     canonicalName: "Balanza Digital Omron Premium HN-289",
-    price: 75000,
+    price: 73800,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_959353-MLA40287511478_122019-O.webp",
     images: [
@@ -63880,8 +63888,7 @@ Es para vos si: querés el análisis de composición corporal más completo de e
     condition: "new",
     freeShipping: true,
     rating: 4.8,
-    reviewCount: 15411,
-    ratingBreakdown: { five: "88.62%", four: "7.53%", three: "1.8%", two: "0.54%", one: "1.51%" },
+    reviewCount: 15708,
     pastelColor: "var(--pastel-amber)",
     visibility: "normal",
     specs: [
@@ -63897,14 +63904,15 @@ Es para vos si: querés el análisis de composición corporal más completo de e
       { label: "Batería", value: "1 pila de litio 3V (incluida)" },
     ],
     relatedProducts: ["MLA15503957", "MLA19147005"],
-    priceUpdated: "2026-09-25",
-    priceLastChecked: "2026-10-12",
+    priceUpdated: "2026-10-26",
+    priceLastChecked: "2026-10-26",
+    priceVerifiedAt: "2026-10-26",
     priceStatus: "fresh",
-    reviewsSampledAt: "2026-07-06",
-    description: "Balanza digital Omron Premium HN-289: marca médica reconocida globalmente, con certificado INMETRO. Solo pesa (sin grasa corporal ni IMC), pero con la precisión y durabilidad que respalda la marca Omron. Sin stock por el momento.",
+    reviewsSampledAt: "2026-10-26",
+    description: "Balanza digital Omron Premium HN-289: marca médica reconocida globalmente, con certificado INMETRO. Solo pesa (sin grasa corporal ni IMC), pero con la precisión y durabilidad que respalda la marca Omron.",
     seoTitle: "Balanza Omron Premium HN-289: opinión honesta",
     metaDescription: "Balanza digital Omron Premium HN-289: marca médica reconocida, certificado INMETRO. Precio real, pros, contras y para quién conviene.",
-    verdict: "La Omron HN-289 sirve si preferís una marca médica reconocida globalmente por sobre las funciones de análisis corporal. No sirve si buscás grasa corporal o IMC: esta balanza solo pesa, aunque lo hace con la precisión que la marca garantiza. Actualmente sin stock en Mercado Libre.",
+    verdict: "La Omron HN-289 sirve si preferís una marca médica reconocida globalmente por sobre las funciones de análisis corporal. No sirve si buscás grasa corporal o IMC: esta balanza solo pesa, aunque lo hace con la precisión que la marca garantiza.",
     pros: [
       "Marca Omron, reconocida mundialmente en dispositivos médicos (tensiómetros, termómetros)",
       "4.8 de promedio en sus calificaciones",
@@ -63943,8 +63951,8 @@ Comprá la Omron HN-289 si valorás la precisión y el respaldo de una marca mé
     id: "MLA65535495",
     title: "Balanza De Baño Personal Inteligente Bluetooth 200 Kg Utile Azul",
     canonicalName: "Balanza Digital Utile UT-1108",
-    price: 51388,
-    originalPrice: 60985,
+    price: 52673,
+    originalPrice: 64235,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_959353-MLA40287511478_122019-O.webp",
     category: "Salud y Bienestar",
@@ -63953,9 +63961,8 @@ Comprá la Omron HN-289 si valorás la precisión y el respaldo de una marca mé
     affiliateUrl: "https://meli.la/2GzBmsp",
     condition: "new",
     freeShipping: true,
-    rating: 4.9,
-    reviewCount: 36,
-    ratingBreakdown: { five: "94.12%", four: "0%", three: "5.88%", two: "0%", one: "0%" },
+    rating: 5.0,
+    reviewCount: 41,
     pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
@@ -63971,14 +63978,15 @@ Comprá la Omron HN-289 si valorás la precisión y el respaldo de una marca mé
       { label: "Alimentación", value: "Pilas (no incluidas)" },
     ],
     relatedProducts: ["MLA15503957", "MLA19147005"],
-    priceUpdated: "2026-10-07",
-    priceLastChecked: "2026-10-12",
+    priceUpdated: "2026-10-26",
+    priceLastChecked: "2026-10-26",
+    priceVerifiedAt: "2026-10-26",
     priceStatus: "fresh",
-    reviewsSampledAt: "2026-07-06",
-    description: "Balanza digital Utile UT-1108: 200 kg de capacidad (la mayor de esta comparativa) y análisis completo (grasa corporal, agua, masa muscular, masa ósea, grasa visceral) con app iMon. Contra honesta: todavía tiene pocas calificaciones (17).",
+    reviewsSampledAt: "2026-10-26",
+    description: "Balanza digital Utile UT-1108: 200 kg de capacidad (la mayor de esta comparativa) y análisis completo (grasa corporal, agua, masa muscular, masa ósea, grasa visceral) con app iMon. Contra honesta: todavía tiene pocas calificaciones ({{reviews:MLA65535495}}).",
     seoTitle: "Balanza Utile UT-1108: 200 kg y análisis completo",
     metaDescription: "Balanza digital Utile UT-1108: hasta 200 kg, grasa corporal, agua y masa muscular con app. Precio real, pros, contras y para quién conviene.",
-    verdict: "La Utile UT-1108 sirve si necesitás una balanza de mayor capacidad (200 kg) con el análisis corporal más completo de esta comparativa (grasa, agua, masa muscular y ósea). No sirve si preferís ir a lo más probado: todavía tiene pocas calificaciones (17), aunque todas muy positivas.",
+    verdict: "La Utile UT-1108 sirve si necesitás una balanza de mayor capacidad (200 kg) con el análisis corporal más completo de esta comparativa (grasa, agua, masa muscular y ósea). No sirve si preferís ir a lo más probado: todavía tiene pocas calificaciones ({{reviews:MLA65535495}}), aunque todas muy positivas.",
     pros: [
       "La mayor capacidad de peso de esta comparativa: 200 kg",
       "El análisis más completo: grasa corporal, agua, masa muscular, masa ósea y grasa visceral",
@@ -63986,7 +63994,7 @@ Comprá la Omron HN-289 si valorás la precisión y el respaldo de una marca mé
       "4.9 de rating, aunque con pocas calificaciones todavía",
     ],
     cons: [
-      "Base de opiniones chica (17 calificaciones) frente a las Femmto de esta guía",
+      "Base de opiniones chica ({{reviews:MLA65535495}} calificaciones) frente a las Femmto de esta guía",
       "No incluye las pilas",
       "Usa 4 pilas AAA, un consumo mayor que otras balanzas de esta guía",
     ],
@@ -64008,7 +64016,7 @@ Comprá la Utile UT-1108 si necesitás mayor capacidad de peso (200 kg) o el an�
     faq: [
       { question: "¿Cuál es la capacidad máxima de la Utile UT-1108?", answer: "200 kg, la mayor de esta comparativa." },
       { question: "¿Qué mide además del peso?", answer: "Grasa corporal, agua corporal, masa muscular, masa ósea y grasa visceral, todo sincronizado con la app iMon por Bluetooth." },
-      { question: "¿Por qué tiene pocas calificaciones?", answer: "Es un producto más nuevo en el catálogo, así que su base de opiniones (17) todavía es chica, aunque todas muy positivas hasta ahora." },
+      { question: "¿Por qué tiene pocas calificaciones?", answer: "Es un producto más nuevo en el catálogo, así que su base de opiniones ({{reviews:MLA65535495}}) todavía es chica, aunque todas muy positivas hasta ahora." },
       { question: "¿Incluye las pilas?", answer: "No, usa 4 pilas AAA que no vienen incluidas en la compra." },
     ],
   },
@@ -64016,7 +64024,7 @@ Comprá la Utile UT-1108 si necesitás mayor capacidad de peso (200 kg) o el an�
     id: "MLA60038492",
     title: "Balanza Digital Smart Fitness Med Corp App Recargable Noga Blanco",
     canonicalName: "Balanza Digital Noga NG-B01 (recargable)",
-    price: 25899,
+    price: 21490,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_775610-MLA94481919788_102025-O.webp",
     images: [
@@ -64029,8 +64037,7 @@ Comprá la Utile UT-1108 si necesitás mayor capacidad de peso (200 kg) o el an�
     condition: "new",
     freeShipping: true,
     rating: 4.8,
-    reviewCount: 503,
-    ratingBreakdown: { five: "89.24%", four: "8.66%", three: "1.31%", two: "0.26%", one: "0.52%" },
+    reviewCount: 528,
     pastelColor: "var(--pastel-green)",
     visibility: "normal",
     specs: [
@@ -64043,17 +64050,18 @@ Comprá la Utile UT-1108 si necesitás mayor capacidad de peso (200 kg) o el an�
       { label: "Dimensiones", value: "26 x 26 x 2 cm" },
     ],
     relatedProducts: ["MLA15503957", "MLA15286360"],
-    priceUpdated: "2026-10-12",
-    priceLastChecked: "2026-10-12",
+    priceUpdated: "2026-10-26",
+    priceLastChecked: "2026-10-26",
+    priceVerifiedAt: "2026-10-26",
     priceStatus: "fresh",
-    reviewsSampledAt: "2026-07-06",
-    description: "Balanza digital Noga NG-B01: se recarga por cable USB, sin pilas. 4.9 de rating en {{reviews:MLA60038492}} calificaciones. La ficha no confirma grasa corporal, aunque varias reseñas mencionan que la app muestra datos adicionales.",
+    reviewsSampledAt: "2026-10-26",
+    description: "Balanza digital Noga NG-B01: se recarga por cable USB, sin pilas. {{rating:MLA60038492}} de rating en {{reviews:MLA60038492}} calificaciones. La ficha no confirma grasa corporal, aunque varias reseñas mencionan que la app muestra datos adicionales.",
     seoTitle: "Balanza Noga recargable: ¿vale la pena?",
     metaDescription: "Balanza digital Noga NG-B01: recargable por USB, sin pilas. Precio real, pros, contras y para quién conviene según las reseñas.",
     verdict: "La Noga NG-B01 sirve si no querés depender de pilas: se recarga por cable USB, es precisa según las reseñas y tiene buen respaldo de opiniones (381) por poca plata. No sirve si buscás grasa corporal confirmada oficialmente en la ficha: la especificación no lo confirma, aunque la app muestra otros datos según compradores.",
     pros: [
       "Se recarga por cable USB: no necesita comprar pilas nunca",
-      "4.9 de rating en {{reviews:MLA60038492}} calificaciones, con reseñas que confirman precisión probándola con varias personas",
+      "{{rating:MLA60038492}} de rating en {{reviews:MLA60038492}} calificaciones, con reseñas que confirman precisión probándola con varias personas",
       "Precio accesible dentro de las opciones con conexión a app",
       "Buenos materiales según las reseñas, pese a verse chica",
     ],
@@ -93875,7 +93883,8 @@ Si venís de un colchón hundido y no querés irte al otro extremo, ese es el pu
     title: "Masajeador De Cuello Gadnic Yapeyu Cervical Shiatsu Calor Infrarrojo 8 Nodos 3 Niveles",
     canonicalName: "Gadnic Yapeyú MASAJ142",
     mpn: "MASAJ142",
-    price: 65999,
+    price: 81349,
+    originalPrice: 133349,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_800955-MLA105902920242_022026-O.webp",
     images: [
@@ -93891,7 +93900,7 @@ Si venís de un colchón hundido y no querés irte al otro extremo, ese es el pu
     condition: "new",
     freeShipping: false,
     rating: 4.6,
-    reviewCount: 2044,
+    reviewCount: 2093,
     pastelColor: "var(--pastel-pink)",
     specs: [
       { label: "Marca", value: "Gadnic" },
@@ -93912,7 +93921,7 @@ Si venís de un colchón hundido y no querés irte al otro extremo, ese es el pu
       { label: "Peso", value: "1,7 kg" },
     ],
     relatedProducts: ["MLA24127896", "MLA24203342", "MLA25263767"],
-    priceUpdated: "2026-09-28", priceLastChecked: "2026-08-17", priceVerifiedAt: "2026-08-17",
+    priceUpdated: "2026-10-26", priceLastChecked: "2026-10-26", priceVerifiedAt: "2026-10-26",
     priceStatus: "fresh", reviewsSampledAt: "2026-08-17",
     description: "Masajeador cervical tipo U con 8 nodos shiatsu bidireccionales, calor infrarrojo y 3 niveles de intensidad. Inalámbrico, con cargador de 220V y de 12V para el auto.",
     verdict: "Es el tipo U más completo de la guía en lo que declara la ficha: 8 nodos que giran en las dos direcciones, calor infrarrojo, 3 intensidades y 50 W. Que sea inalámbrico y traiga cargador de auto lo hace realmente portátil. El matiz honesto lo pone un comprador: **la ficha no declara cuánto dura la batería** y él mide unas 2 horas, además de que no tiene luz de carga, así que nunca sabés cuándo está al 100%.",
@@ -93990,8 +93999,8 @@ Es el tipo U más completo de la guía en lo que declara la ficha: 8 nodos bidir
     affiliateUrl: "https://meli.la/2R9wp8o",
     condition: "new",
     freeShipping: false,
-    rating: 4.5,
-    reviewCount: 211,
+    rating: 4.6,
+    reviewCount: 574,
     pastelColor: "var(--pastel-pink)",
     specs: [
       { label: "Marca", value: "Wolke" },
@@ -94006,8 +94015,8 @@ Es el tipo U más completo de la guía en lo que declara la ficha: 8 nodos bidir
       { label: "Color", value: "Negro" },
     ],
     relatedProducts: ["MLA25864057", "MLA24127896", "MLAU189502779"],
-    priceUpdated: "2026-10-07", priceLastChecked: "2026-08-17", priceVerifiedAt: "2026-08-17",
-    priceStatus: "fresh", reviewsSampledAt: "2026-08-17",
+    priceUpdated: "2026-10-26", priceLastChecked: "2026-10-26", priceVerifiedAt: "2026-10-26",
+    priceStatus: "fresh", reviewsSampledAt: "2026-10-26",
     description: "Masajeador multiuso que cubre cervical, espalda, lumbares y pies, con regulador de velocidad y calor. Marca con certificado de seguridad eléctrica declarado en la ficha.",
     verdict: "Es el multiuso del grupo: la misma máquina sirve para el cuello y para la cintura, y su ficha declara certificado de seguridad eléctrica con organismo identificado, algo que no todos publican. La contra concreta y repetida en las reseñas es que **va con cable**: su ficha no lo declara inalámbrico y un comprador avisa que eso limita el movimiento y que a veces necesita que alguien se lo aplique.",
     pros: [
@@ -94070,8 +94079,9 @@ Es el multiuso de la guía: la misma máquina sirve para el cuello y para la cin
     title: "Almohada Masajeadora Eléctrica para Cuello Inalámbrica con Calor y Vibración, Recargable USB",
     canonicalName: "Almohada masajeadora Ydtech Relaxante Muscular",
     mpn: "Relaxante Muscular",
-    price: 27990,
+    price: 33500,
     currency: "ARS",
+    visibility: "deprioritized",
     image: "https://http2.mlstatic.com/D_NQ_NP_658864-MLA107082198431_022026-O.webp",
     images: [
       "https://http2.mlstatic.com/D_NQ_NP_658864-MLA107082198431_022026-O.webp",
@@ -94085,9 +94095,10 @@ Es el multiuso de la guía: la misma máquina sirve para el cuello y para la cin
     condition: "new",
     freeShipping: false,
     rating: 4.3,
-    reviewCount: 59,
+    reviewCount: 63,
     pastelColor: "var(--pastel-pink)",
     specs: [
+      { label: "Stock", value: "Queda 1 unidad de un solo vendedor (0 ventas, sin buena calificación de atención). Verificado el 2026-10-26." },
       { label: "Marca", value: "Ydtech. Su ficha no menciona la marca Baza" },
       { label: "Modelo", value: "Relaxante Muscular" },
       { label: "Formato", value: "Almohada, no tipo U" },
@@ -94098,10 +94109,10 @@ Es el multiuso de la guía: la misma máquina sirve para el cuello y para la cin
       { label: "Color", value: "Marrón" },
     ],
     relatedProducts: ["MLA24127896", "MLA25864057", "MLA28420339"],
-    priceUpdated: "2026-10-12", priceLastChecked: "2026-08-17", priceVerifiedAt: "2026-08-17",
-    priceStatus: "fresh", reviewsSampledAt: "2026-08-17",
+    priceUpdated: "2026-10-26", priceLastChecked: "2026-10-26", priceVerifiedAt: "2026-10-26",
+    priceStatus: "fresh", reviewsSampledAt: "2026-10-26",
     description: "Almohada masajeadora inalámbrica de 26 x 24 cm y 10 cm de espesor, recargable por USB, con funda desmontable. Formato para apoyar el cuello, no tipo U.",
-    verdict: "Es el formato distinto de la guía: en vez de colgarse del cuello, se apoya la cabeza encima y el propio peso hace la presión. Es el más barato del grupo y el que menos ficha técnica publica, apenas ocho campos. Un dato a tener presente: **la guía la llamaba \"Baza\" pero la publicación es marca Ydtech**, y con unas 45 opiniones es el respaldo más chico de esta comparativa.",
+    verdict: "Es el formato distinto de la guía: en vez de colgarse del cuello, se apoya la cabeza encima y el propio peso hace la presión. Es el más barato del grupo y el que menos ficha técnica publica, apenas ocho campos. Un dato a tener presente: **la guía la llamaba \"Baza\" pero la publicación es marca Ydtech**, y con unas 63 opiniones es el respaldo más chico de esta comparativa. **Actualización de stock (26/10/2026): queda 1 sola unidad, de un único vendedor sin ventas previas y sin buena calificación de atención** — antes de comprar, conviene confirmar en la propia publicación que sigue disponible.",
     pros: [
       "El más barato de los cuatro que sumamos al catálogo en esta tanda",
       "Inalámbrica y recargable por USB",
@@ -94193,8 +94204,8 @@ Es el formato distinto de la guía y el más barato: apoyás la cabeza y el prop
       { label: "Alimentación", value: "220V" },
     ],
     relatedProducts: ["MLA28420339", "MLAU274288377", "MLA24203342"],
-    priceUpdated: "2026-09-04", priceLastChecked: "2026-08-17", priceVerifiedAt: "2026-08-17",
-    priceStatus: "fresh", reviewsSampledAt: "2026-08-17",
+    priceUpdated: "2026-10-26", priceLastChecked: "2026-10-26", priceVerifiedAt: "2026-10-26",
+    priceStatus: "fresh", reviewsSampledAt: "2026-10-26",
     description: "Respaldo masajeador con rodillos shiatsu, vibración y calor, plegable, para apoyar sobre una silla o sillón. Soporta hasta 120 kg y declara certificado de seguridad eléctrica.",
     verdict: "Es el más caro de esta guía y el único con rodillos shiatsu de verdad en formato respaldo: se apoya sobre cualquier silla y trabaja cervical, espalda y glúteos. Plegable, 120 kg de peso máximo y certificado eléctrico con organismo identificado. **La contra la repiten dos compradores distintos y conviene saberla antes: no llega más arriba de los hombros**, así que si tu dolor es alto de nuca, este formato te queda corto.",
     pros: [
@@ -94260,7 +94271,7 @@ Es el más caro de esta guía y el único con rodillos shiatsu de verdad en form
     title: "Bordeadora Eléctrica Tramontina 1500 W — Corte de 28 cm, Eje Recto, 85 dB",
     canonicalName: "Tramontina 79634939",
     mpn: "79634939",
-    price: 90000,
+    price: 127990,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_907115-MLA100006958249_122025-O.webp",
     images: [
@@ -94273,7 +94284,7 @@ Es el más caro de esta guía y el único con rodillos shiatsu de verdad en form
     condition: "new",
     freeShipping: false,
     rating: 4.7,
-    reviewCount: 28759,
+    reviewCount: 27579,
     badge: "bestseller",
     pastelColor: "var(--pastel-green)",
     specs: [
@@ -94296,8 +94307,8 @@ Es el más caro de esta guía y el único con rodillos shiatsu de verdad en form
       { label: "Medidas (largo x ancho x alto)", value: "89 x 30 x 91 cm" },
     ],
     relatedProducts: ["MLA9075289", "MLA14737979", "MLA15841017"],
-    priceUpdated: "2026-10-12", priceLastChecked: "2026-10-05", priceVerifiedAt: "2026-10-05",
-    priceStatus: "fresh", reviewsSampledAt: "2026-08-17",
+    priceUpdated: "2026-10-26", priceLastChecked: "2026-10-26", priceVerifiedAt: "2026-10-26",
+    priceStatus: "fresh", reviewsSampledAt: "2026-10-26",
     description: "Bordeadora de 1.500 W con corte de 28 cm, eje recto y 85 dB declarados. Es la más elegida de esta comparativa por lejos: {{reviews:MLA9096807}} opiniones con {{rating:MLA9096807}} de promedio.",
     seoTitle: "Tramontina 1500 W: {{reviews:MLA9096807}} opiniones y corte de 28 cm",
     metaDescription: "Bordeadora Tramontina de 1.500 W y corte de 28 cm, con {{reviews:MLA9096807}} opiniones y {{rating:MLA9096807}} estrellas. Más potente y más barata que varios modelos de menor potencia.",
@@ -94465,7 +94476,7 @@ Es la mejor puntuada de esta comparativa con {{rating:MLA9075289}}, y la más ba
     title: "Bordeadora Eléctrica Gamma G3081AR 1000 W — Corte de 35 cm, Con Arnés",
     canonicalName: "Gamma G3081AR",
     mpn: "G3081",
-    price: 203165,
+    price: 170831,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_926265-MLA99986569393_112025-O.webp",
     images: [
@@ -94477,8 +94488,8 @@ Es la mejor puntuada de esta comparativa con {{rating:MLA9075289}}, y la más ba
     affiliateUrl: "https://meli.la/31uqt5H",
     condition: "new",
     freeShipping: false,
-    rating: 4.4,
-    reviewCount: 518,
+    rating: 4.5,
+    reviewCount: 532,
     pastelColor: "var(--pastel-purple)",
     specs: [
       { label: "Marca", value: "Gamma" },
@@ -94497,8 +94508,8 @@ Es la mejor puntuada de esta comparativa con {{rating:MLA9075289}}, y la más ba
       { label: "Medidas (largo x ancho x alto)", value: "88 x 35 x 16 cm" },
     ],
     relatedProducts: ["MLA9096807", "MLA19812920", "MLA15841017"],
-    priceUpdated: "2026-10-09", priceLastChecked: "2026-10-05", priceVerifiedAt: "2026-10-05",
-    priceStatus: "fresh", reviewsSampledAt: "2026-08-17",
+    priceUpdated: "2026-10-26", priceLastChecked: "2026-10-26", priceVerifiedAt: "2026-10-26",
+    priceStatus: "fresh", reviewsSampledAt: "2026-10-26",
     description: "Bordeadora de 1.000 W con el corte más ancho de la comparativa, 35 cm, empatada con la Black+Decker GL1000, y arnés incluido. Los compradores la describen como lo más cercano a una desmalezadora en versión eléctrica.",
     seoTitle: "Gamma G3081AR: corte de 35 cm y arnés incluido",
     metaDescription: "Bordeadora Gamma G3081AR de 1.000 W con corte de 35 cm, eje curvo y arnés incluido. Potente para maleza, pero pesa 4,5 kg y declara 96 dB.",
@@ -94762,7 +94773,7 @@ Es la única inalámbrica de esta comparativa, y sin cable no hay alargue que te
     title: "Bordeadora Eléctrica Black+Decker GL1000 900 W — Corte de 35 cm, Cabezal Ajustable",
     canonicalName: "Black+Decker GL1000",
     mpn: "GL1000",
-    price: 239736,
+    price: 224999,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_736035-MLA95935128445_102025-O.webp",
     images: [
@@ -94775,7 +94786,7 @@ Es la única inalámbrica de esta comparativa, y sin cable no hay alargue que te
     condition: "new",
     freeShipping: false,
     rating: 4.7,
-    reviewCount: 2625,
+    reviewCount: 2386,
     pastelColor: "var(--pastel-purple)",
     specs: [
       { label: "Marca", value: "Black+Decker" },
@@ -94796,12 +94807,12 @@ Es la única inalámbrica de esta comparativa, y sin cable no hay alargue que te
       { label: "Nivel de ruido", value: "No lo publica" },
     ],
     relatedProducts: ["MLA14737979", "MLA9096807", "MLA9075289"],
-    priceUpdated: "2026-10-12", priceLastChecked: "2026-10-05", priceVerifiedAt: "2026-10-05",
-    priceStatus: "fresh", reviewsSampledAt: "2026-08-17",
-    description: "Bordeadora de 900 W con corte de 35 cm, cabezal ajustable y certificado de seguridad eléctrica declarado. Es la segunda más cara de la comparativa, con {{rating:MLA15841017}} sobre {{reviews:MLA15841017}} opiniones.",
+    priceUpdated: "2026-10-26", priceLastChecked: "2026-10-26", priceVerifiedAt: "2026-10-26",
+    priceStatus: "fresh", reviewsSampledAt: "2026-10-26",
+    description: "Bordeadora de 900 W con corte de 35 cm, cabezal ajustable y certificado de seguridad eléctrica declarado. Es la más cara de la comparativa, con {{rating:MLA15841017}} sobre {{reviews:MLA15841017}} opiniones.",
     seoTitle: "Black+Decker GL1000: la premium de la comparativa",
-    metaDescription: "Bordeadora Black+Decker GL1000 de 900 W con corte de 35 cm y cabezal ajustable. La segunda más cara del grupo, con {{rating:MLA15841017}} estrellas y certificado eléctrico declarado.",
-    verdict: "Es la **segunda más cara de esta comparativa**, y conviene mirar bien qué compra esa diferencia: **900 W**, menos que la Tramontina de 1.500 W que sale menos de la mitad. Lo que sí aporta es marca con service, **cabezal ajustable** (la única del grupo que lo declara), corte de 35 cm y un **certificado de seguridad eléctrica con organismo identificado**, algo que solo ella publica acá. Sus {{reviews:MLA15841017}} opiniones con {{rating:MLA15841017}} la respaldan. La contra más repetida en las reseñas es concreta: **gasta mucha tanza** y varios terminan anulando el avance automático.",
+    metaDescription: "Bordeadora Black+Decker GL1000 de 900 W con corte de 35 cm y cabezal ajustable. La más cara del grupo, con {{rating:MLA15841017}} estrellas y certificado eléctrico declarado.",
+    verdict: "Es la **más cara de esta comparativa**, y conviene mirar bien qué compra esa diferencia: **900 W**, menos que la Tramontina de 1.500 W que sale menos de la mitad. Lo que sí aporta es marca con service, **cabezal ajustable** (la única del grupo que lo declara), corte de 35 cm y un **certificado de seguridad eléctrica con organismo identificado**, algo que solo ella publica acá. Sus {{reviews:MLA15841017}} opiniones con {{rating:MLA15841017}} la respaldan. La contra más repetida en las reseñas es concreta: **gasta mucha tanza** y varios terminan anulando el avance automático.",
     pros: [
       "Corte de 35 cm, el más ancho del grupo junto con la Gamma G3081AR",
       "Cabezal ajustable, la única de esta comparativa que lo declara",
@@ -94810,7 +94821,7 @@ Es la única inalámbrica de esta comparativa, y sin cable no hay alargue que te
       "\"Ya corté tres veces un terreno de 700 metros y ni se mosqueó\", según un comprador",
     ],
     cons: [
-      "La segunda más cara de esta comparativa, con 900 W: menos potencia que modelos que salen menos de la mitad",
+      "La más cara de esta comparativa, con 900 W: menos potencia que modelos que salen menos de la mitad",
       "\"Gasta tanza a lo loco\", según un comprador de 5 estrellas",
       "\"Hay que anular el automático\", según otro comprador que lo hizo él mismo",
       "Su ficha declara \"Con carcasa de protección: No\"",
@@ -94825,11 +94836,11 @@ Es la única inalámbrica de esta comparativa, y sin cable no hay alargue que te
     ],
     articleBody: `## Qué es la Black+Decker GL1000
 
-Es la segunda bordeadora más cara de [nuestra comparativa de bordeadoras eléctricas en Argentina](/guias/hogar-jardin/bordeadora-electrica), con marca de service reconocida. Cuesta {{precio:MLA15841017}} y tiene {{reviews:MLA15841017}} calificaciones con {{rating:MLA15841017}} estrellas en MercadoLibre Argentina.
+Es la bordeadora más cara de [nuestra comparativa de bordeadoras eléctricas en Argentina](/guias/hogar-jardin/bordeadora-electrica), con marca de service reconocida. Cuesta {{precio:MLA15841017}} y tiene {{reviews:MLA15841017}} calificaciones con {{rating:MLA15841017}} estrellas en MercadoLibre Argentina.
 
-## La segunda más cara: conviene mirar qué compra esa diferencia
+## La más cara: conviene mirar qué compra esa diferencia
 
-Es la segunda más cara de esta comparativa (detrás de la Gamma G3081AR), y conviene mirar bien qué compra esa diferencia: 900 W, menos que la [Tramontina de 1.500 W](/producto/bordeadora-electrica-tramontina-1500-w-corte-de-28-cm-eje-recto-85-db-mla9096807) de esta misma comparativa, que sale menos de la mitad.
+Es la más cara de esta comparativa, y conviene mirar bien qué compra esa diferencia: 900 W, menos que la [Tramontina de 1.500 W](/producto/bordeadora-electrica-tramontina-1500-w-corte-de-28-cm-eje-recto-85-db-mla9096807) de esta misma comparativa, que sale menos de la mitad.
 
 ## Cabezal ajustable y certificado de seguridad con organismo identificado
 
@@ -94849,9 +94860,9 @@ Su ficha declara "Con carcasa de protección: No", y el mango no es regulable, a
 
 ## El veredicto
 
-Es la segunda más cara de esta comparativa, y conviene mirar bien qué compra esa diferencia: 900 W, menos que la Tramontina de 1.500 W que sale menos de la mitad. Lo que sí aporta es marca con service, cabezal ajustable y certificado de seguridad con organismo identificado. La contra más repetida en las reseñas: gasta mucha tanza.`,
+Es la más cara de esta comparativa, y conviene mirar bien qué compra esa diferencia: 900 W, menos que la Tramontina de 1.500 W que sale menos de la mitad. Lo que sí aporta es marca con service, cabezal ajustable y certificado de seguridad con organismo identificado. La contra más repetida en las reseñas: gasta mucha tanza.`,
     faq: [
-      { question: "¿Por qué es de las más caras si tiene menos potencia que la Tramontina?", answer: "El precio se justifica en la marca con service, el cabezal ajustable (único de esta comparativa) y el certificado de seguridad eléctrica con organismo identificado, no en más potencia. Es la segunda más cara del grupo, detrás de la Gamma G3081AR." },
+      { question: "¿Por qué es de las más caras si tiene menos potencia que la Tramontina?", answer: "El precio se justifica en la marca con service, el cabezal ajustable (único de esta comparativa) y el certificado de seguridad eléctrica con organismo identificado, no en más potencia. Es la más cara del grupo." },
       { question: "¿Gasta mucha tanza?", answer: "Sí, es la contra más repetida en las reseñas: varios compradores confirman un consumo alto de tanza, y algunos terminaron anulando el avance automático." },
       { question: "¿Tiene certificado de seguridad?", answer: "Sí, con organismo identificado (NCC, otorgado por Net Connection International S.R.L.), la única de esta comparativa que lo publica así." },
       { question: "¿El mango es regulable?", answer: "No, a diferencia de otras opciones de esta comparativa que sí permiten ajustar el mango además del manillar." },
