@@ -36104,6 +36104,11 @@ Para adultos mayores, personas en rehabilitación o cualquiera que pase muchas h
     },
   },
   {
+    // Sin stock desde el 2026-10-27: ningún vendedor tiene esta publicación disponible en
+    // Mercado Libre Argentina ("Este producto no está disponible. Elige otra variante.",
+    // verificado en vivo). Atma sigue listando el modelo en su catálogo de fabricante, pero
+    // no hay oferta real de compra. El reemplazo asignado en las guías es la Atma FR246AWP
+    // (MLA39932833, 6L, mismo motor y ventana). Ficha dejada como referencia histórica.
     id: 'MLA39861162',
     title: "Freidora De Aire Atma Fr248ap 1750w 8l Y Control Táctil",
     brand: "Atma",
@@ -36131,9 +36136,9 @@ Para adultos mayores, personas en rehabilitación o cualquiera que pase muchas h
     rating: 4.8,
     reviewCount: 5971,
     soldQuantity: undefined,
+    visibility: "deprioritized",
     pastelColor: 'var(--pastel-coral)',
-    description: "¡Bienvenido a una nueva era de cocina con la Freidora de Aire ATMA FR248ABP! Con una impresionante capacidad de 8 litros y una potente potencia de 1750W, esta freidora de aire está diseñada para satisfacer todas tus necesidades culinarias, ya sea para cocinar grandes comidas familiares o para prepar",
-    badge: 'viral',
+    description: "Sin stock en Mercado Libre Argentina desde el 2026-10-27: ningún vendedor la tiene disponible. El reemplazo recomendado es la Atma FR246AWP de 6 litros (mismo motor, misma ventana).",
     seoTitle: "Freidora de Aire Atma FR248ABP 8L - 8 Funciones",
     metaDescription: 'Freidora Atma FR248ABP de 8L (familia de 4-5) con 8 programas, ventana con luz y 1750W. 4.8★ con miles de compradores. Pros, contras y opiniones.',
     ogTitle: 'Freidora de Aire Atma FR248ABP 8L — 8 Funciones + Ventana con Luz | ProductosVirales',
@@ -98851,7 +98856,7 @@ Tiene la nota más alta de esta comparativa y es la única del grupo que declara
       { label: "Ventana transparente", value: "No" },
       { label: "Canastos", value: "1, como las otras seis" },
     ],
-    relatedProducts: ["MLA57822248","MLA46208363","MLA39861128"],
+    relatedProducts: ["MLA57822248","MLA46208363","MLA39932833"],
     priceUpdated: "2026-09-25", priceLastChecked: "2026-08-18", priceVerifiedAt: "2026-08-18",
     priceStatus: "fresh", reviewsSampledAt: "2026-08-18",
     description: "La más barata del catálogo: 2,7 litros y control por perillas. Para una o dos personas, según sus propios compradores.",
@@ -98884,7 +98889,7 @@ Su rango va de 155 a 200 °C, bastante más arriba que las freidoras digitales d
 
 Un escalón arriba, dentro de la misma marca, está la [Kanji KJHAF1404](/producto/freidora-de-aire-kanji-kjhaf1404-4-litros-1-4-kw-digital-mla57822248): 4 litros, control digital y rango desde 80 °C, por {{preciodif:MLA57822248:MLA46031096}} más. Si el uso es para más de una o dos personas, o si te interesa recalentar sin resecar, esa diferencia de precio se justifica.
 
-Contra las freidoras más grandes de la comparativa, como la [Liliana AF966N Airview](/producto/freidora-de-aire-liliana-af966n-airview-6-litros-con-ventana-mla46208363) ({{preciodif:MLA46208363:MLA46031096}} más, 6 litros con ventana) o la [Atma FR248AWP](/producto/freidora-de-aire-atma-fr248awp-8-litros-1-75-kw-blanca-con-ventana-mla39861128) ({{preciodif:MLA39861128:MLA46031096}} más, 8 litros, la más elegida del catálogo), la diferencia de capacidad es enorme. La Kanji Home KJHAF1003 no compite en ese terreno: su argumento es el precio y el tamaño mínimo, no el rendimiento para una familia.
+Contra las freidoras más grandes de la comparativa, como la [Liliana AF966N Airview](/producto/freidora-de-aire-liliana-af966n-airview-6-litros-con-ventana-mla46208363) ({{preciodif:MLA46208363:MLA46031096}} más, 6 litros con ventana) o la [Atma FR246AWP](/producto/freidora-de-aire-atma-fr246awp-6-litros-1-75-kw-blanca-con-ventana-mla39932833) ({{preciodif:MLA39932833:MLA46031096}} más, 6 litros con ventana y service nacional), la diferencia de capacidad es importante. La Kanji Home KJHAF1003 no compite en ese terreno: su argumento es el precio y el tamaño mínimo, no el rendimiento para una familia.
 
 ## Para quién es, y para quién no
 
@@ -99010,7 +99015,7 @@ No es para vos si necesitás ventana para controlar la cocción sin abrir, o si 
       { label: "Apagado al retirar la bandeja", value: "Sí. Se detiene sola y retoma al reinsertarla" },
       { label: "Peso", value: "7,7 kg. Su ficha de ML lo carga como 7.700 usando el punto como separador de miles" },
     ],
-    relatedProducts: ["MLA42479783","MLA39861128","MLA57822248"],
+    relatedProducts: ["MLA42479783","MLA39932833","MLA57822248"],
     priceUpdated: "2026-09-30", priceLastChecked: "2026-09-03", priceVerifiedAt: "2026-09-03",
     priceStatus: "fresh", reviewsSampledAt: "2026-09-03",
     description: "6 litros con ventana transparente, doble altura y la nota más alta de nuestra comparativa. También la de respaldo más chico, con poco más de 150 opiniones.",
@@ -99047,7 +99052,7 @@ Una reseña se queja de que los sonidos de aviso molestan. Es una queja menor de
 
 La [Novohome NH-AF70WIX](/producto/freidora-de-aire-novohome-nh-af70wix-7-litros-4-funciones-mla42479783) cuesta {{preciodif:MLA42479783:MLA46208363}} más y tiene 1 litro más de capacidad, pero carga una reseña seria sobre apagado espontáneo que esta ficha no tiene.
 
-La [Atma FR248AWP](/producto/freidora-de-aire-atma-fr248awp-8-litros-1-75-kw-blanca-con-ventana-mla39861128) cuesta {{preciodif:MLA39861128:MLA46208363}} más, con 8 litros y el respaldo de opiniones más grande de todo el catálogo, muy por encima de esta.
+La [Atma FR246AWP](/producto/freidora-de-aire-atma-fr246awp-6-litros-1-75-kw-blanca-con-ventana-mla39932833) tiene la misma capacidad (6 litros) y también ventana, pero suma la red de service nacional de Atma y {{preciodif:MLA39932833:MLA46208363}} de diferencia de precio.
 
 La [Kanji KJHAF1404](/producto/freidora-de-aire-kanji-kjhaf1404-4-litros-1-4-kw-digital-mla57822248) cuesta {{preciodif:MLA46208363:MLA57822248}} menos, aunque con 4 litros en vez de 6 y sin la función de doble altura que distingue a esta Liliana.
 
@@ -99090,7 +99095,7 @@ No es para vos si te preocupa comprar a ciegas sobre el color exacto que va a ll
       { label: "Peso", value: "8 kg" },
       { label: "Canastos", value: "1, como las otras seis" },
     ],
-    relatedProducts: ["MLA39861128","MLA46208363","MLA45520216"],
+    relatedProducts: ["MLA39932833","MLA46208363","MLA45520216"],
     priceUpdated: "2026-10-09", priceLastChecked: "2026-09-03", priceVerifiedAt: "2026-09-03",
     priceStatus: "fresh", reviewsSampledAt: "2026-09-03",
     description: "7 litros con ventana, cuatro funciones y más de 2.000 opiniones. Una opinión reporta que a los 3 meses se apagaba sola a los 10 minutos.",
@@ -99119,11 +99124,11 @@ Dos reseñas más apuntan a algo distinto de una falla: el ajuste inicial de tie
 
 ## Lo que cumple bien
 
-Con **8 kg** es la más pesada de las que declaran peso en esta comparativa, así que conviene un lugar fijo en la mesada. A cambio trae **ventana transparente** para controlar la cocción sin abrir el canasto, y un rango que arranca en **80 °C**, lo bastante bajo como para recalentar sin resecar del todo (aunque no tan bajo como el piso de 75 °C de la Atma FR248AWP).
+Con **8 kg** es la más pesada de las que declaran peso en esta comparativa, así que conviene un lugar fijo en la mesada. A cambio trae **ventana transparente** para controlar la cocción sin abrir el canasto, y un rango que arranca en **80 °C**, apenas arriba del piso de 75 °C de la Atma FR246AWP.
 
 ## Contra las otras freidoras de la comparativa
 
-La [Atma FR248AWP](/producto/freidora-de-aire-atma-fr248awp-8-litros-1-75-kw-blanca-con-ventana-mla39861128) cuesta {{preciodif:MLA39861128:MLA42479783}} más, tiene 1 litro más de capacidad y es la más elegida de todo el catálogo por lejos, con el doble de opiniones. Entre sus reseñas no aparece un reclamo de apagado espontáneo como el de esta ficha.
+La [Atma FR246AWP](/producto/freidora-de-aire-atma-fr246awp-6-litros-1-75-kw-blanca-con-ventana-mla39932833) cuesta {{preciodif:MLA39932833:MLA42479783}} más y tiene 1 litro menos de capacidad, aunque suma la red de service nacional de Atma. Entre sus reseñas no aparece un reclamo de apagado espontáneo como el de esta ficha.
 
 La [Liliana AF966N Airview](/producto/freidora-de-aire-liliana-af966n-airview-6-litros-con-ventana-mla46208363) cuesta {{preciodif:MLA42479783:MLA46208363}} menos, aunque con 6 litros es más chica y su respaldo de opiniones es mucho menor.
 
@@ -99133,16 +99138,16 @@ La [Philco FR259PH](/producto/freidora-de-aire-philco-fr259ph-9-litros-2-kw-mla4
 
 Es para vos si buscás 7 litros con ventana y cuatro funciones a un precio intermedio, y estás dispuesto a calibrar los primeros usos hasta encontrarle la mano al equipo.
 
-No es para vos si te preocupa el reporte de apagado espontáneo y preferís un modelo con más respaldo de opiniones sin ese reclamo puntual, como la Atma FR248AWP de esta misma comparativa.`,
+No es para vos si te preocupa el reporte de apagado espontáneo y preferís un modelo sin ese reclamo puntual y con la nota más alta del grupo, como la Liliana AF966N Airview de esta misma comparativa.`,
     faq: [
       { question: "¿Es cierto que la Novohome NH-AF70WIX se apaga sola?", answer: "Hay un reporte concreto: una reseña de un comprador que la usó varios meses cuenta que, a partir de los 3 meses de uso, empezó a apagarse sola a los 10 minutos, en todos los usos. Es una sola reseña entre más de 2.000 calificaciones, así que no podemos confirmar que sea un problema generalizado, pero preferimos avisarlo antes que silenciarlo." },
       { question: "¿Qué tan grave es ese reclamo, le pasa a la mayoría?", answer: "No hay forma de saberlo con certeza desde acá: es un solo reporte entre {{reviews:MLA42479783}} calificaciones, la mayoría de las cuales son positivas. Lo tratamos como una señal de alerta a tener en cuenta, no como una falla confirmada en toda la partida." },
       { question: "¿Cuántos litros tiene y para cuántas personas alcanza?", answer: "Tiene 7 litros, un tamaño intermedio en esta comparativa. Alcanza para una familia de tamaño medio sin necesidad de cocinar en varias tandas." },
       { question: "¿Qué funciones tiene además de freír?", answer: "Declara cuatro funciones: freír, asar, recalentar y deshidratar. El rango de temperatura va de 80 a 200 °C." },
       { question: "¿Trae ventana para ver la cocción?", answer: "Sí, ventana transparente, así que se puede controlar el punto de cocción sin abrir el canasto." },
-      { question: "¿Conviene más esta o la Atma FR248AWP?", answer: "La Atma FR248AWP cuesta {{preciodif:MLA39861128:MLA42479783}} más, pero tiene 1 litro más de capacidad, es la más elegida de todo el catálogo (con el doble de opiniones) y entre sus reseñas no aparece un reclamo de apagado como el de esta ficha." },
+      { question: "¿Conviene más esta o la Atma FR246AWP?", answer: "La Atma FR246AWP cuesta {{preciodif:MLA39932833:MLA42479783}} más y tiene 1 litro menos de capacidad, pero suma la red de service nacional de Atma y entre sus reseñas no aparece un reclamo de apagado como el de esta ficha." },
       { question: "¿Cuánto pesa y cuánto lugar ocupa?", answer: "Pesa 8 kg, la más pesada de las freidoras que declaran peso en esta comparativa. Conviene dejarla en un lugar fijo de la mesada en vez de guardarla y sacarla cada vez." },
-      { question: "¿Sirve para recalentar comida sin resecarla?", answer: "Su rango arranca en 80 °C, lo bastante bajo como para recalentar sin resecar del todo. No baja tanto como el piso de 75 °C de la Atma FR248AWP de esta misma comparativa, pero cumple." },
+      { question: "¿Sirve para recalentar comida sin resecarla?", answer: "Su rango arranca en 80 °C, apenas arriba del piso de 75 °C de la Atma FR246AWP de esta misma comparativa, pero cumple." },
       { question: "¿Por qué a algunas personas les salió seca la primera cocción?", answer: "Dos reseñas hablan de la curva de aprendizaje típica de una freidora nueva. Una subió la temperatura de más y le salió el pollo seco; después de dejar los valores preestablecidos, funcionó bien. Otra necesitó más tiempo del que traía programado para las papas. Es normal calibrar los primeros usos hasta encontrarle la mano al equipo." },
     ],
   },
@@ -99167,7 +99172,7 @@ No es para vos si te preocupa el reporte de apagado espontáneo y preferís un m
       { label: "Canastos", value: "1, como las otras seis" },
       { label: "Peso", value: "No declarado en la ficha" },
     ],
-    relatedProducts: ["MLA39861128","MLA36816568","MLA42479783"],
+    relatedProducts: ["MLA39932833","MLA36816568","MLA42479783"],
     priceUpdated: "2026-10-12", priceLastChecked: "2026-08-18", priceVerifiedAt: "2026-08-18",
     priceStatus: "fresh", reviewsSampledAt: "2026-08-18",
     description: "9 litros y 2 kW, la potencia más alta de nuestra comparativa. Una opinión reporta que la rejilla interior se peló a los 5 o 6 usos.",
@@ -99202,7 +99207,7 @@ Una reseña aporta un matiz honesto que vale la pena repetir: el dorado de las p
 
 ## Contra las otras freidoras de la comparativa
 
-La [Atma FR248AWP](/producto/freidora-de-aire-atma-fr248awp-8-litros-1-75-kw-blanca-con-ventana-mla39861128) cuesta {{preciodif:MLA45520216:MLA39861128}} menos, con 1 litro menos de capacidad pero ventana transparente y el mayor respaldo de opiniones de todo el catálogo.
+La [Atma FR246AWP](/producto/freidora-de-aire-atma-fr246awp-6-litros-1-75-kw-blanca-con-ventana-mla39932833) cuesta {{preciodif:MLA39932833:MLA45520216}} menos, con 3 litros menos de capacidad pero ventana transparente y la red de service nacional de Atma.
 
 La [Gadnic Cuk AIRCRISP](/producto/freidora-de-aire-gadnic-cuk-aircrisp-17-litros-formato-horno-mla36816568) cuesta {{preciodif:MLA36816568:MLA45520216}} más, con casi el doble de capacidad (17 litros) pero en formato horno con puerta, no canasto.
 
@@ -99220,11 +99225,17 @@ No es para vos si priorizás la ventana transparente para controlar la cocción 
       { question: "¿Por qué a veces las papas no doran igual?", answer: "Una reseña aporta un matiz honesto: el dorado depende también del tipo y la frescura de la papa, no solo de la freidora. Es una variable que aplica a cualquier freidora de aire, no un problema exclusivo de este modelo." },
       { question: "¿Cuántos programas de cocción tiene?", answer: "12 programas de cocción, según el título de la publicación vigente en MercadoLibre." },
       { question: "¿Cuánto pesa?", answer: "Su ficha de MercadoLibre no declara peso, así que en ese dato puntual no se la puede comparar con el resto del catálogo." },
-      { question: "¿Vale la pena pagar más que por la Atma FR248AWP?", answer: "La Atma FR248AWP cuesta {{preciodif:MLA45520216:MLA39861128}} menos, tiene 1 litro menos de capacidad, pero suma ventana transparente y es la freidora con más respaldo de opiniones de todo el catálogo. Si la ventana es importante para vos, la Atma es la opción más sólida." },
+      { question: "¿Vale la pena pagar más que por la Atma FR246AWP?", answer: "La Atma FR246AWP cuesta {{preciodif:MLA39932833:MLA45520216}} menos, tiene 3 litros menos de capacidad, pero suma ventana transparente y la red de service nacional de Atma. Si la ventana es importante para vos, la Atma es la opción más sólida." },
       { question: "¿Para cuántas personas alcanza?", answer: "Con 9 litros, es de las más grandes de esta comparativa y alcanza cómodo para una familia numerosa, sobre todo con el canasto lleno gracias a su potencia de 2 kW." },
     ],
   },
   {
+    // Sin stock desde el 2026-10-27: ningún vendedor tiene esta publicación disponible en
+    // Mercado Libre Argentina ("Este producto no está disponible. Elige otra variante.",
+    // verificado en vivo, sin otra variante a la que saltar). Atma sigue listando el modelo
+    // en su catálogo de fabricante, pero no hay oferta real de compra. El reemplazo asignado
+    // en las guías es la Atma FR246AWP (MLA39932833, 6L, mismo motor y ventana). Ficha
+    // dejada como referencia histórica, no se borra ni se cambia el id.
     id: "MLA39861128",
     title: "Freidora de Aire Atma FR248AWP — 8 Litros, 1,75 kW, Blanca con Ventana",
     canonicalName: "Atma FR248AWP", mpn: "FR248AWP",
@@ -99235,7 +99246,8 @@ No es para vos si priorizás la ventana transparente para controlar la cocción 
     permalink: "https://www.mercadolibre.com.ar/p/MLA39861128",
     affiliateUrl: "https://meli.la/19o3ttY",
     condition: "new", freeShipping: false, rating: 4.8, reviewCount: 4142,
-    badge: "bestseller", pastelColor: "var(--pastel-pink)",
+    visibility: "deprioritized",
+    pastelColor: "var(--pastel-pink)",
     specs: [
       { label: "Marca", value: "Atma" },
       { label: "Modelo", value: "FR248AWP. La ficha técnica de la publicación dice FR248ABP, pero ese es el código de la versión negra: Atma publica FR248AWP como la blanca y FR248ABP como la negra" },
@@ -99252,19 +99264,23 @@ No es para vos si priorizás la ventana transparente para controlar la cocción 
     relatedProducts: ["MLA42479783","MLA45520216","MLA46208363"],
     priceUpdated: "2026-10-07", priceLastChecked: "2026-09-03", priceVerifiedAt: "2026-09-03",
     priceStatus: "fresh", reviewsSampledAt: "2026-09-03",
-    description: "La más elegida de nuestra comparativa, con más de 4.000 opiniones. 8 litros, cuatro funciones, ventana transparente y el rango de temperatura más amplio del grupo.",
-    seoTitle: "Atma FR248AWP: la freidora más elegida",
-    metaDescription: "Freidora de aire Atma FR248AWP de 8 litros con ventana y cuatro funciones, la más elegida de la comparativa con más de 4.000 opiniones.",
-    verdict: "Es **la más elegida de esta comparativa por lejos**: **{{reviews:MLA39861128}} opiniones** con {{rating:MLA39861128}}. Ninguna otra del grupo se le acerca en respaldo, y ese es su argumento principal. Declara **8 litros**, cuatro funciones, **ventana transparente** y el **piso de temperatura de 75 °C**, de los más bajos entre las que declaran rango, que es lo que permite recalentar sin arruinar. Con **5,5 kg** es de las livianas para su tamaño. Un detalle de transparencia: **la ficha técnica de la publicación dice FR248ABP, pero ese código es el de la versión negra**. Lo chequeamos contra el catálogo de Atma, que publica la FR248AWP como la blanca y la FR248ABP como la negra, y esta es la blanca. Usamos el nombre del título, que es el que coincide con el fabricante. Las opiniones son entusiastas y coinciden en lo mismo: reemplaza la sartén y es simple de usar.",
-    pros: ["La más elegida de esta comparativa, con más de 4.000 opiniones","8 litros con ventana transparente","Cuatro funciones: freír, recalentar, deshidratar y asar","Piso de 75 °C, de los más bajos entre las que declaran rango","5,5 kg, liviana para su capacidad"],
-    cons: ["La publicación se contradice a sí misma en el código de modelo","Un solo canasto, como las otras seis","De las más caras del grupo","No declara nivel de ruido"],
+    description: "Sin stock en Mercado Libre Argentina desde el 2026-10-27: ningún vendedor la tiene disponible. Fue la más elegida de nuestra comparativa, con más de 4.000 opiniones; el reemplazo recomendado es la Atma FR246AWP de 6 litros (mismo motor, misma ventana).",
+    seoTitle: "Atma FR248AWP: sin stock, reemplazada por la FR246AWP",
+    metaDescription: "La Atma FR248AWP de 8 litros no tiene stock en Mercado Libre Argentina desde octubre de 2026. Te contamos qué la reemplaza y qué sabemos de este modelo.",
+    verdict: "**Sin stock en Mercado Libre Argentina desde el 2026-10-27**: ningún vendedor tiene esta publicación disponible, verificado en vivo. Fue, mientras se podía comprar, **la más elegida de esta comparativa por lejos**: acumuló opiniones muy por encima del resto del grupo. Declaraba **8 litros**, cuatro funciones, **ventana transparente** y el **piso de temperatura de 75 °C**, de los más bajos entre las que declaran rango. El reemplazo que recomendamos hoy es la [Atma FR246AWP de 6 litros](/producto/freidora-de-aire-atma-fr246awp-6-litros-1-75-kw-blanca-con-ventana-mla39932833): mismo motor de 1,75 kW y misma ventana, en un cuerpo más chico, con stock real. Un detalle de transparencia que seguía vigente mientras se vendía: **la ficha técnica de la publicación dice FR248ABP, pero ese código es el de la versión negra**. Lo chequeamos contra el catálogo de Atma, que publica la FR248AWP como la blanca y la FR248ABP como la negra, y esta era la blanca.",
+    pros: ["Fue la más elegida de esta comparativa, con más de 4.000 opiniones","8 litros con ventana transparente","Cuatro funciones: freír, recalentar, deshidratar y asar","Piso de 75 °C, de los más bajos entre las que declaran rango","5,5 kg, liviana para su capacidad"],
+    cons: ["Sin stock en ningún vendedor de Mercado Libre Argentina desde octubre de 2026","La publicación se contradice a sí misma en el código de modelo","Un solo canasto, como las otras seis","No declara nivel de ruido"],
     customerReviews: [
       { rating: 5, country: "Argentina", text: "Por ahora excelente. Tiene una rejilla que se saca, todo con antiadherente, fácil de limpiar. Cocina bien y tiene varias funciones." },
       { rating: 5, country: "Argentina", text: "Me dijeron que me iba a cambiar la vida y sí, me la cambió para bien. Soy un inútil en la cocina y con esto como muy bien." },
     ],
-    articleBody: `## Qué es la Atma FR248AWP
+    articleBody: `## Sin stock desde octubre de 2026
 
-Es una freidora de aire de 8 litros, con pantalla digital táctil y ventana transparente para ver la cocción sin abrir el canasto. Cuesta {{precio:MLA39861128}} y tiene {{reviews:MLA39861128}} calificaciones con {{rating:MLA39861128}} estrellas en MercadoLibre Argentina, en [nuestra comparativa de las mejores freidoras de aire en Argentina](/guias/mejores-freidoras-de-aire-argentina).
+**Verificado en vivo el 2026-10-27: ningún vendedor tiene esta publicación disponible en Mercado Libre Argentina**, "Este producto no está disponible. Elige otra variante", sin otra opción a la que saltar. El resto de este análisis queda como referencia histórica de cuando se podía comprar. Si buscás el reemplazo que recomendamos hoy, es la [Atma FR246AWP de 6 litros](/producto/freidora-de-aire-atma-fr246awp-6-litros-1-75-kw-blanca-con-ventana-mla39932833): mismo motor de 1,75 kW y misma ventana, con stock real.
+
+## Qué es la Atma FR248AWP
+
+Era una freidora de aire de 8 litros, con pantalla digital táctil y ventana transparente para ver la cocción sin abrir el canasto. En [nuestra comparativa de las mejores freidoras de aire en Argentina](/guias/mejores-freidoras-de-aire-argentina) ocupaba el lugar de más elegida.
 
 ## Por qué es la más elegida del grupo
 
@@ -99330,7 +99346,7 @@ No es para vos si el presupuesto es la prioridad número uno: hay opciones más 
       { label: "Medidas", value: "40,4 x 31,9 x 35,4 cm" },
       { label: "Accesorios", value: "Bandeja recogemigas, bandeja de aceite, rejilla, cesta, tenedor para asador, mango y jaula" },
     ],
-    relatedProducts: ["MLA45520216","MLA39861128","MLA42479783"],
+    relatedProducts: ["MLA45520216","MLA39932833","MLA42479783"],
     priceUpdated: "2026-10-07", priceLastChecked: "2026-08-18", priceVerifiedAt: "2026-08-18",
     priceStatus: "fresh", reviewsSampledAt: "2026-08-18",
     description: "17 litros en formato horno con puerta y jaula para asador. Es la de mayor capacidad del catálogo, y sus compradores avisan que limpiarla da trabajo.",
@@ -99361,7 +99377,7 @@ Acá está el trade-off real, y lo sacamos textual de una reseña: **limpiar las
 
 ## Vale la pena el salto de precio
 
-Es, por lejos, la más cara de esta comparativa. Cuesta {{preciodif:MLA36816568:MLA39861128}} más que la [Atma FR248AWP](/producto/freidora-de-aire-atma-fr248awp-8-litros-1-75-kw-blanca-con-ventana-mla39861128), {{preciodif:MLA36816568:MLA45520216}} más que la [Philco FR259PH](/producto/freidora-de-aire-philco-fr259ph-9-litros-2-kw-mla45520216) y {{preciodif:MLA36816568:MLA42479783}} más que la [Novohome NH-AF70WIX](/producto/freidora-de-aire-novohome-nh-af70wix-7-litros-4-funciones-mla42479783). Esa diferencia solo se justifica si el plan es asar piezas enteras o cocinar para un grupo grande: si el uso es freír papas y milanesas para 2 o 3 personas, cualquiera de esas tres opciones más económicas alcanza y sobra.
+Es, por lejos, la más cara de esta comparativa. Cuesta {{preciodif:MLA36816568:MLA39932833}} más que la [Atma FR246AWP](/producto/freidora-de-aire-atma-fr246awp-6-litros-1-75-kw-blanca-con-ventana-mla39932833), {{preciodif:MLA36816568:MLA45520216}} más que la [Philco FR259PH](/producto/freidora-de-aire-philco-fr259ph-9-litros-2-kw-mla45520216) y {{preciodif:MLA36816568:MLA42479783}} más que la [Novohome NH-AF70WIX](/producto/freidora-de-aire-novohome-nh-af70wix-7-litros-4-funciones-mla42479783). Esa diferencia solo se justifica si el plan es asar piezas enteras o cocinar para un grupo grande: si el uso es freír papas y milanesas para 2 o 3 personas, cualquiera de esas tres opciones más económicas alcanza y sobra.
 
 ## Para quién es, y para quién no
 
@@ -99374,7 +99390,7 @@ No es para vos si buscás la comodidad de lavar un solo canasto en el lavavajill
       { question: "¿Es difícil de limpiar?", answer: "Sí, más que una freidora de canasto convencional. Una reseña lo dice de forma textual: \"es un embole el tema de limpiar las partes, al igual que un horno\". Es la contracara de tener más accesorios y un formato de puertas en vez de un canasto único." },
       { question: "¿Qué accesorios trae incluidos?", answer: "Siete: bandeja recogemigas, bandeja de aceite, rejilla, cesta, tenedor para asador, mango y jaula giratoria. Es el equipamiento más completo de esta comparativa." },
       { question: "¿Reemplaza al horno y al microondas de la cocina?", answer: "Según una reseña, sí: un comprador cuenta que dejó de usar horno y microondas después de comprarla, para un grupo familiar reducido. No es una promesa nuestra, es la experiencia reportada por quien la usa a diario." },
-      { question: "¿Vale la pena pagar tanto más que una freidora de canasto normal?", answer: "Depende del uso. Cuesta {{preciodif:MLA36816568:MLA39861128}} más que la Atma FR248AWP de 8 litros. Si el plan es asar piezas enteras o cocinar en volumen, se justifica; si solo vas a freír porciones chicas para 2 o 3 personas, una freidora de canasto de esta misma comparativa alcanza con menos plata." },
+      { question: "¿Vale la pena pagar tanto más que una freidora de canasto normal?", answer: "Depende del uso. Cuesta {{preciodif:MLA36816568:MLA39932833}} más que la Atma FR246AWP de 6 litros. Si el plan es asar piezas enteras o cocinar en volumen, se justifica; si solo vas a freír porciones chicas para 2 o 3 personas, una freidora de canasto de esta misma comparativa alcanza con menos plata." },
       { question: "¿De qué color viene?", answer: "Plateado, es el único color de esta publicación." },
       { question: "¿Cuánto espacio de mesada necesita?", answer: "Mide 40,4 x 31,9 x 35,4 cm, bastante más que una freidora de canasto convencional. Al tener puertas que se abren hacia afuera, conviene dejarle espacio libre alrededor, no solo en el ancho de la base." },
     ],
@@ -99406,7 +99422,7 @@ No es para vos si buscás la comodidad de lavar un solo canasto en el lavavajill
       { label: "Superficie antiadherente", value: "Si" },
       { label: "Voltaje", value: "220V" },
     ],
-    relatedProducts: ["MLA39861128", "MLA46208363", "MLA42479783"],
+    relatedProducts: ["MLA39932833", "MLA46208363", "MLA42479783"],
     priceUpdated: "2026-10-12", priceLastChecked: "2026-08-20", priceVerifiedAt: "2026-08-20",
     priceStatus: "fresh", reviewsSampledAt: "2026-08-20",
     description: "La hermana de 6 litros de la Atma FR248AWP: mismo motor de 1,75 kW y misma ventana, en un cuerpo mas chico. Puesto 4 entre las mas vendidas de Mercado Libre Argentina.",
@@ -99432,7 +99448,7 @@ Comparte el rango de 75 a 200 °C con la versión de 8 litros, uno de los pisos 
 
 ## Lo que la ficha no dice
 
-Ni el fabricante ni la publicación declaran **peso ni medidas** para este modelo puntual. Es un hueco de información real: si el lugar en la mesada es ajustado, conviene guiarse por la Atma de 8 litros, que sí declara 5,5 kg y 20 x 20 x 25 cm, como referencia aproximada de una freidora de esta marca.
+Ni el fabricante ni la publicación declaran **peso ni medidas** para este modelo puntual. Es un hueco de información real: si el lugar en la mesada es ajustado, conviene confirmarlo directo con el vendedor antes de comprar.
 
 ## Cuánta evidencia real hay detrás de la nota
 
@@ -99440,7 +99456,7 @@ MercadoLibre agrupa las opiniones de esta freidora al nivel del anuncio, que inc
 
 ## Contra las otras freidoras de la comparativa
 
-Cuesta {{preciodif:MLA39861128:MLA39932833}} menos que la Atma FR248AWP de 8 litros, con el mismo motor pero 2 litros menos de capacidad: la elección entre ambas es de tamaño, no de calidad.
+Es el sucesor directo de la Atma FR248AWP de 8 litros, que al 2026-10-27 no tiene stock en ningún vendedor de Mercado Libre Argentina: comparte el mismo motor de 1,75 kW y la misma ventana, en un cuerpo de 6 litros en vez de 8.
 
 Contra la [Liliana AF966N Airview](/producto/freidora-de-aire-liliana-af966n-airview-6-litros-con-ventana-mla46208363), que también tiene 6 litros y ventana, esta cuesta {{preciodif:MLA46208363:MLA39932833}} menos y comparte casi la misma capacidad, aunque la Liliana suma la posibilidad de cocinar en doble altura.
 
@@ -99452,11 +99468,11 @@ Es para vos si cocinan 2 o 3 personas, si querés el mismo motor de la Atma más
 
 No es para vos si cocinan para una familia de 5 o más, porque 6 litros se quedan cortos, o si necesitás confirmar peso y medidas exactas antes de comprar: esta ficha en particular no los declara.`,
     faq: [
-      { question: "¿Es la misma freidora que la Atma FR248AWP de 8 litros?", answer: "Comparte el mismo motor de 1,75 kW y el mismo piso de temperatura de 75 °C, pero es un modelo distinto con 6 litros de capacidad en vez de 8. La elección entre ambas es de tamaño, no de calidad: el resto de las especificaciones declaradas coincide." },
-      { question: "¿Para cuántas personas alcanza?", answer: "Con 6 litros rinde bien para 2 o 3 personas. Para una familia de 5 o más conviene la versión de 8 litros de esta misma marca, que está en la comparativa." },
+      { question: "¿Es la misma freidora que la Atma FR248AWP de 8 litros?", answer: "Comparte el mismo motor de 1,75 kW y el mismo piso de temperatura de 75 °C, pero es un modelo distinto con 6 litros de capacidad en vez de 8. Esa versión de 8 litros no tiene stock en ningún vendedor de Mercado Libre Argentina desde octubre de 2026, así que esta de 6 litros es hoy la forma real de conseguir ese mismo motor dentro de la marca." },
+      { question: "¿Para cuántas personas alcanza?", answer: "Con 6 litros rinde bien para 2 o 3 personas. Para una familia de 5 o más, la versión de 8 litros de esta misma marca sería lo ideal, pero no tiene stock en ningún vendedor de Mercado Libre Argentina: conviene mirar la Philco FR259PH de 9 litros u otra opción de mayor capacidad de esta comparativa." },
       { question: "¿Sirve para recalentar comida sin resecarla?", answer: "Sí. Comparte el piso de 75 °C con la Atma de 8 litros, uno de los más bajos entre las freidoras digitales de esta comparativa, y ese rango es justamente el que permite recalentar sin arruinar la comida." },
       { question: "¿Cuánto pesa y qué medidas tiene?", answer: "Ni el fabricante ni la publicación de MercadoLibre declaran peso ni medidas para este modelo puntual. Es una limitación real de la ficha, así que si el espacio en la mesada es ajustado, conviene confirmar el tamaño con el vendedor antes de comprar." },
-      { question: "¿Vale la pena pagar más por la de 8 litros?", answer: "Depende de cuántas personas cocinen. La versión de 8 litros cuesta {{preciodif:MLA39861128:MLA39932833}} más y comparte el mismo motor: si cocinan 2 o 3 personas, esta de 6 litros alcanza y sobra." },
+      { question: "¿Vale la pena pagar más por la de 8 litros?", answer: "La versión de 8 litros no tiene stock en ningún vendedor de Mercado Libre Argentina desde octubre de 2026, así que no es una opción real hoy. Si cocinan 2 o 3 personas, esta de 6 litros alcanza y sobra; para más capacidad, conviene mirar la Philco FR259PH de 9 litros de esta misma comparativa." },
       { question: "¿Viene en otro color además de blanco?", answer: "Sí, la publicación de MercadoLibre también ofrece una versión negra con el mismo modelo base. Esta ficha corresponde específicamente a la blanca." },
       { question: "¿Cuántas opiniones reales tiene esta freidora?", answer: "MercadoLibre muestra {{reviews:MLA39932833}} calificaciones, pero las agrupa a nivel de anuncio, que incluye tanto la versión blanca como la negra. No hay forma de separar cuántas corresponden a cada color desde la información pública." },
       { question: "¿Trae ventana para ver la cocción?", answer: "Sí, ventana transparente, igual que la versión de 8 litros de esta misma línea." },
@@ -99885,7 +99901,7 @@ No es para vos si priorizás la potencia (1,2 kW es de las más bajas para 5 lit
       { label: "Medidas", value: "32 cm de alto x 31,5 x 31,5 cm" },
       { label: "Voltaje", value: "220V" },
     ],
-    relatedProducts: ["MLA45520216", "MLA36816568", "MLA39861128"],
+    relatedProducts: ["MLA45520216", "MLA36816568", "MLA39932833"],
     priceUpdated: "2026-10-07", priceLastChecked: "2026-09-03", priceVerifiedAt: "2026-09-03",
     priceStatus: "fresh", reviewsSampledAt: "2026-09-03",
     description: "Diez litros con doce funciones automaticas, la de mayor capacidad a canasto de nuestro catalogo. Puesto 20 entre las mas vendidas de Mercado Libre Argentina.",
@@ -99912,7 +99928,7 @@ Una reseña avisa algo esperable en un canasto de este tamaño: **las papas nece
 
 ## El precio: por qué es tan cara comparada con el resto
 
-Es, por lejos, la más cara de nuestro catálogo de freidoras de canasto. Cuesta {{preciodif:MLA41479634:MLA45520216}} más que la [Philco FR259PH](/producto/freidora-de-aire-philco-fr259ph-9-litros-2-kw-mla45520216) de 9 litros, y {{preciodif:MLA41479634:MLA39861128}} más que la [Atma FR248AWP](/producto/freidora-de-aire-atma-fr248awp-8-litros-1-75-kw-blanca-con-ventana-mla39861128), la más elegida del catálogo. Esa diferencia solo se justifica si de verdad necesitás los 10 litros completos: para una familia de 3 o 4, cualquiera de esas dos opciones alcanza y sobra por bastante menos plata.
+Es, por lejos, la más cara de nuestro catálogo de freidoras de canasto. Cuesta {{preciodif:MLA41479634:MLA45520216}} más que la [Philco FR259PH](/producto/freidora-de-aire-philco-fr259ph-9-litros-2-kw-mla45520216) de 9 litros, y {{preciodif:MLA41479634:MLA39932833}} más que la [Atma FR246AWP](/producto/freidora-de-aire-atma-fr246awp-6-litros-1-75-kw-blanca-con-ventana-mla39932833). Esa diferencia solo se justifica si de verdad necesitás los 10 litros completos: para una familia de 3 o 4, la Philco de 9 litros alcanza y sobra por bastante menos plata.
 
 ## Contra la opción de mayor capacidad todavía, en formato horno
 
@@ -99927,7 +99943,7 @@ No es para vos si cocinás para 3 o 4 personas: hay opciones de 8 y 9 litros de 
       { question: "¿Entra un pollo entero de verdad?", answer: "Sí, según más de una reseña. Una la describe como enorme y cuenta que entra un pollo entero cómodamente, algo que ninguna freidora más chica de esta comparativa puede prometer con la misma facilidad." },
       { question: "¿Para cuántas personas alcanza?", answer: "Con 10 litros, alcanza para una familia de 5 personas o más sin necesidad de cocinar en varias tandas. Es la mayor capacidad a canasto (sin pasar a formato horno) de todo nuestro catálogo." },
       { question: "¿Por qué hay que remover las papas varias veces?", answer: "Una reseña lo avisa: con un canasto de este tamaño, conviene remover las papas más de una vez durante la cocción para que doren parejo. No es una falla del equipo, es una consecuencia lógica de tener mucho más volumen." },
-      { question: "¿Vale la pena pagar tanto más que por una de 8 o 9 litros?", answer: "Depende del tamaño de tu familia. Cuesta {{preciodif:MLA41479634:MLA39861128}} más que la Atma FR248AWP de 8 litros. Si cocinás para 3 o 4 personas, esa opción alcanza y sobra por bastante menos plata. Si necesitás los 10 litros completos (familias de 5 o más), la diferencia se justifica." },
+      { question: "¿Vale la pena pagar tanto más que por una de 9 litros?", answer: "Depende del tamaño de tu familia. Cuesta {{preciodif:MLA41479634:MLA45520216}} más que la Philco FR259PH de 9 litros. Si cocinás para 3 o 4 personas, esa opción alcanza y sobra por bastante menos plata. Si necesitás los 10 litros completos (familias de 5 o más), la diferencia se justifica." },
       { question: "¿Cuántas funciones automáticas tiene?", answer: "12 funciones automáticas declaradas, con un rango de temperatura de 80 a 200 °C." },
       { question: "¿Conviene más esta o la Gadnic Cuk AIRCRISP de 17 litros?", answer: "La Gadnic Cuk cuesta {{preciodif:MLA41479634:MLA36816568}} menos y tiene casi el doble de capacidad, pero es formato horno con puerta, no canasto. Si el volumen es lo más importante y no te molesta ese formato, esa opción rinde más por el precio." },
       { question: "¿Cuánto pesa?", answer: "Su ficha de MercadoLibre no declara peso, así que en ese dato puntual no se la puede comparar con el resto del catálogo. Sí declara medidas: 32 cm de alto por 31,5 x 31,5 cm de base." },
