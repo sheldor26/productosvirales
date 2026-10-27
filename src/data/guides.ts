@@ -11516,15 +11516,16 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     category: "freidoras-de-aire",
     title: `Freidoras de aire gran capacidad (8-10L): Para cocinar en volumen`,
     seoTitle: `Freidoras de aire de gran capacidad: 8 a 10 litros`,
-    metaDescription: `Mejores freidoras de aire de gran capacidad en Argentina: Philco 9L, Peabody 10L, Philips 9L, Suono 10L. Cuánto espacio ocupan y para cuántas personas sirven.`,
-    h1: `Freidoras de aire gran capacidad: Cocina para 6-8 personas en una sola tanda`,
+    metaDescription: `Freidoras de aire de gran capacidad en Argentina: Novohome 8.5L, Philco 9L, Peabody 10L, Philips 9L. Cuánto espacio ocupan y para cuántas personas sirven.`,
+    h1: `Freidoras de aire gran capacidad: Cocina para 4 a 8 personas en una sola tanda`,
     publishedDate: "2026-06-11",
     updatedDate: "2026-10-27",
     hasDisclosure: true,
     standfirst: `Comparamos las freidoras de aire de 7.6 a 10 litros disponibles hoy en Argentina, simples y de doble canasta, para que elijas según cuánta gente cocinás y cuánto espacio tenés en la mesada.`,
     quickPicks: [
-      { productMlaId: "MLA45520216", label: "Mejor precio, simple", labelColor: "green", tagline: "9L, la más potente del segmento económico sin pagar el extra de doble canasta" },
-      { productMlaId: "MLA28709303", label: "Mejor doble canasta económica", labelColor: "blue", tagline: "7.6L en dos cestas al precio más accesible del segmento doble" },
+      { productMlaId: "MLA42522966", label: "Mejor precio con ventana", labelColor: "green", tagline: "8.5L con ventana, más barata que la Philco y la más vendida de Novohome en control táctil" },
+      { productMlaId: "MLA45520216", label: "Más potente, sin ventana", labelColor: "blue", tagline: "9L y 2kW, la más potente del segmento económico" },
+      { productMlaId: "MLA28709303", label: "Mejor doble canasta económica", labelColor: "purple", tagline: "7.6L en dos cestas al precio más accesible del segmento doble" },
       { productMlaId: "MLA55779230", label: "Premium y máxima capacidad disponible", labelColor: "amber", tagline: "9L, mejor distribución de aire, pantalla táctil y app" },
     ],
     intro: [
@@ -11535,7 +11536,8 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
 
       { type: "h2", title: `Resumen rápido: cuál elegir según tu caso`, id: "resumen-rapido" },
       { type: "list", items: [
-        `**Mejor precio, simple:** [Philco FR259PH](/producto/freidora-de-aire-philco-fr259ph-9-litros-2-kw-mla45520216) — 9L, 2kW, volumen real para 5-6 personas sin pagar el extra de doble canasta.`,
+        `**Mejor precio con ventana:** [Novohome AH 802 WIX](/producto/freidora-de-aire-novohome-ah-802-wix-8-5-litros-1-7-kw-con-ventana-mla42522966) — 8.5L con ventana, más barata que la Philco y la más vendida de Novohome en control táctil.`,
+        `**Más potente, sin ventana:** [Philco FR259PH](/producto/freidora-de-aire-philco-fr259ph-9-litros-2-kw-mla45520216) — 9L, 2kW, la más potente del segmento económico.`,
         `**Mejor doble canasta económica:** [Oster Dual DiamondForce](https://meli.la/1rwaoYB) — 7.6L en dos cestas al precio más accesible del segmento.`,
         `**Premium y máxima capacidad disponible:** [Philips PHNA35100](https://meli.la/15VAU5a) — 9L, mejor distribución de aire, pantalla táctil y app (la Peabody 10L y la Suono 10L están sin stock).`,
       ] },
@@ -11547,34 +11549,38 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
 
       { type: "h2", title: `El ranking: mejores freidoras de gran capacidad`, id: "ranking" },
 
-      { type: "h3", title: `1. Philco FR259PH — mejor precio, simple` },
-      { type: "product-card", productMlaId: "MLA45520216", label: "Mejor precio, simple", labelColor: "green", ranking: 1, description: `9 litros, 2 kW, la más potente del grupo, sin ventana. {{rating:MLA45520216}} en {{reviews:MLA45520216}} calificaciones.` },
-      { type: "callout", calloutVariant: "warning", calloutTitle: "La línea Atma de 8L (FR248) no tiene stock", content: `Esta guía recomendaba antes la Atma FR248AWP de 8 litros como la opción económica. Al 2026-10-27, ningún vendedor la tiene en stock en Mercado Libre Argentina (ni la blanca ni la negra FR248ABP): la publicación marca "Este producto no está disponible" sin otra variante a la que saltar. En su lugar, la Philco FR259PH ocupa el lugar de mejor precio simple: tiene más capacidad (9L contra 8L) y más potencia (2kW contra 1,75kW), aunque a diferencia de la Atma no trae ventana transparente.` },
-      { type: "p", content: `Máquina de trabajo: fríe bien, la cantidad es real. No tiene lujos (sin pantalla táctil sofisticada, sin ventana) pero es confiable y la más accesible del segmento de gran capacidad. Una reseña reporta que a los 5 o 6 usos se le empezó a pelar la rejilla interior, un dato de durabilidad real que vale la pena saber.` },
+      { type: "h3", title: `1. Novohome AH 802 WIX — mejor precio con ventana` },
+      { type: "product-card", productMlaId: "MLA42522966", label: "Mejor precio con ventana", labelColor: "green", ranking: 1, description: `8,5 litros, ventana transparente, panel táctil a color. La más vendida de Novohome en control táctil. {{rating:MLA42522966}} en {{reviews:MLA42522966}} calificaciones.` },
+      { type: "p", content: `Cuesta {{preciodif:MLA45520216:MLA42522966}} menos que la Philco y suma ventana transparente, algo que la Philco no tiene. A cambio, tiene medio litro menos de capacidad y 300 W menos de potencia. El título de la publicación promete "12 funciones"; la ficha técnica de ML solo confirma 10 — lo marcamos porque es justo el tipo de exageración que conviene chequear antes de comprar por esa cifra.` },
 
-      { type: "h3", title: `2. Oster Dual DiamondForce — mejor doble canasta económica` },
-      { type: "product-card", productMlaId: "MLA28709303", label: "Doble canasta económica", labelColor: "blue", ranking: 2, description: `7.6 litros en dos canastas independientes, recubrimiento DiamondForce. 4.7 estrellas en 410 calificaciones.` },
+      { type: "h3", title: `2. Philco FR259PH — más potente, sin ventana` },
+      { type: "product-card", productMlaId: "MLA45520216", label: "Más potente, sin ventana", labelColor: "blue", ranking: 2, description: `9 litros, 2 kW, la más potente entre las simples económicas (la Atma FRD248AP de doble canasta declara 2,2 kW), sin ventana. {{rating:MLA45520216}} en {{reviews:MLA45520216}} calificaciones.` },
+      { type: "callout", calloutVariant: "warning", calloutTitle: "La línea Atma de 8L (FR248) no tiene stock", content: `Esta guía recomendaba antes la Atma FR248AWP de 8 litros como la opción económica. Al 2026-10-27, ningún vendedor la tiene en stock en Mercado Libre Argentina (ni la blanca ni la negra FR248ABP): la publicación marca "Este producto no está disponible" sin otra variante a la que saltar. Hoy esa franja de precio la cubren la Novohome AH 802 WIX (con ventana) y esta Philco (más potencia y capacidad, sin ventana).` },
+      { type: "p", content: `Máquina de trabajo: fríe bien, la cantidad es real. No tiene lujos (sin pantalla táctil sofisticada, sin ventana) pero es confiable. Una reseña reporta que a los 5 o 6 usos se le empezó a pelar la rejilla interior, un dato de durabilidad real que vale la pena saber.` },
+
+      { type: "h3", title: `3. Oster Dual DiamondForce — mejor doble canasta económica` },
+      { type: "product-card", productMlaId: "MLA28709303", label: "Doble canasta económica", labelColor: "purple", ranking: 3, description: `7.6 litros en dos canastas independientes, recubrimiento DiamondForce. {{rating:MLA28709303}} en {{reviews:MLA28709303}} calificaciones.` },
       { type: "p", content: `Es la doble canasta más accesible del grupo. Buen candidato si querés cocinar dos cosas a la vez sin pagar lo que pide Philips o el doble piso de Peabody.` },
 
-      { type: "h3", title: `3. Atma FRD248AP — doble canasta nacional` },
-      { type: "product-card", productMlaId: "MLA40161710", label: "Doble canasta nacional", labelColor: "blue", ranking: 3, description: `8.5 litros en dos canastas de 2200W, más potencia que la Oster. 4.9 estrellas en 730 calificaciones.` },
+      { type: "h3", title: `4. Atma FRD248AP — doble canasta nacional` },
+      { type: "product-card", productMlaId: "MLA40161710", label: "Doble canasta nacional", labelColor: "blue", ranking: 4, description: `8.5 litros en dos canastas de 2200W, más potencia que la Oster. {{rating:MLA40161710}} en {{reviews:MLA40161710}} calificaciones.` },
       { type: "p", content: `Más potencia (2200W) que la Oster, y la ventaja de la red de service de Atma en todo el país. Las cestas no tienen divisores de aire independientes, así que la distribución no siempre es perfectamente pareja entre las dos.` },
 
-      { type: "h3", title: `4. Suono Airfryer 10L — sin stock` },
-      { type: "p", content: `10 litros, doble resistencia, 12 programas, 4.8 estrellas en 1.946 calificaciones. Es una sola canasta grande (no doble piso), así que no tiene el problema de distribución desigual entre niveles. La contra: service técnico menos consolidado que Atma o Peabody si algo falla fuera de garantía. Está sin stock en Mercado Libre por el momento — la dejamos documentada porque suele reponerse. [Ver ficha](/producto/airfryer-suono-digital-y-doble-resistencia-12-programas-10l-negro-mla54106293) para chequear disponibilidad.` },
+      { type: "h3", title: `5. Suono Airfryer 10L — sin stock` },
+      { type: "p", content: `10 litros, doble resistencia, 12 programas, {{rating:MLA54106293}} en {{reviews:MLA54106293}} calificaciones. Es una sola canasta grande (no doble piso), así que no tiene el problema de distribución desigual entre niveles. La contra: service técnico menos consolidado que Atma o Peabody si algo falla fuera de garantía. Está sin stock en Mercado Libre por el momento — la dejamos documentada porque suele reponerse. [Ver ficha](/producto/airfryer-suono-digital-y-doble-resistencia-12-programas-10l-negro-mla54106293) para chequear disponibilidad.` },
 
-      { type: "h3", title: `5. Peabody PE-AFDL102N — 10L en doble piso (sin stock)` },
+      { type: "h3", title: `6. Peabody PE-AFDL102N — 10L en doble piso (sin stock)` },
       { type: "p", content: `10 litros en doble piso, la mayor capacidad del catálogo, 4.9 estrellas. Está sin stock en Mercado Libre por el momento; la dejamos documentada porque suele reponerse. Si cocinás para 6-8 personas y aparece disponible, funciona bien. La contra real del doble piso: el de arriba nunca queda tan crocante como el de abajo, porque el aire ya pasó por el piso inferior. No sirve bien para dos preparaciones con tiempos distintos. [Ver ficha](/producto/freidora-doble-piso-pe-afdl102n-capacidad-10-l-peabody-negro-mla53776810) para chequear disponibilidad.` },
 
-      { type: "h3", title: `6. Philips PHNA35100 — premium y máxima capacidad disponible` },
-      { type: "product-card", productMlaId: "MLA55779230", label: "Premium y máxima capacidad disponible", labelColor: "amber", ranking: 6, description: `9 litros en doble canasta, pantalla táctil, app móvil, mejor distribución de aire de la categoría. 4.9 estrellas en 597 calificaciones.` },
+      { type: "h3", title: `7. Philips PHNA35100 — premium y máxima capacidad disponible` },
+      { type: "product-card", productMlaId: "MLA55779230", label: "Premium y máxima capacidad disponible", labelColor: "amber", ranking: 7, description: `9 litros en doble canasta, pantalla táctil, app móvil, mejor distribución de aire de la categoría. {{rating:MLA55779230}} en {{reviews:MLA55779230}} calificaciones.` },
       { type: "p", content: `Es la más cara de la lista, pero también la única con regulación de aire independiente entre canastas — la distribución más pareja del grupo. Con la Peabody 10L y la Suono 10L sin stock, esta pasa a ser la de mayor capacidad realmente disponible hoy. Para la mayoría, la app y los accesorios extra no justifican {{preciodif:MLA55779230:MLA45520216}} más que la Philco simple. Tiene sentido si valorás la tecnología, la capacidad y podés pagarla.` },
 
       { type: "callout", calloutVariant: "warning", calloutTitle: "Ojo con la Kanji Home KJH-1700DC", content: `Esta guía la recomendaba antes como la opción económica de 8L. Ya no lo es: hoy cuesta {{preciodif:MLA45520216:MLA42113760}} más que la Philco FR259PH simple, y más que casi todas las dobles canastas de esta lista. Si la ves ofertada bien por debajo de su precio de lista puede seguir teniendo sentido, pero al precio de catálogo actual no es la alternativa económica que solía ser.` },
 
       { type: "h2", title: `¿Cuántas personas alimenta cada tamaño?` },
       { type: "p", content: `Realidad práctica:` },
-      { type: "p", content: `8-9 litros (Philco, Kanji):` },
+      { type: "p", content: `8-9 litros (Philco, Novohome):` },
       { type: "list", items: [
         `4-5 personas normales`,
         `5-6 personas moderado`,
@@ -11594,7 +11600,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       ]},
       { type: "h2", title: `Espacio en la mesada: Medidas críticas` },
       { type: "p", content: `Esto nadie lo menciona y es importante. Una freidora de 8-10L ocupa:` },
-      { type: "p", content: `Simple (Atma 8L, Kanji 8L):` },
+      { type: "p", content: `Simple (Novohome 8.5L, Philco 9L):` },
       { type: "list", items: [
         `Ancho: 35-40cm`,
         `Profundidad: 32-35cm`,
@@ -11618,12 +11624,12 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "p", content: `Medí tu mesada antes de comprar.` },
       { type: "h2", title: `Distribución de aire: Por qué no todas cocinan igual` },
       { type: "p", content: `Freidora de 8L simple con un ventilador calienta parejo. Freidora de 10L con un ventilador lucha porque aire tiene que llegar a más espacio.` },
-      { type: "p", content: `Acá conviene mirar los números reales, porque están más cerca de lo que parece: la Philco de 9 litros declara 2 kW y la Kanji de 8 litros, 1.700 W. Lo que cambia la distribución es el diseño del ventilador y cuán llena esté la canasta, no esa diferencia de potencia.` },
+      { type: "p", content: `Acá conviene mirar los números reales, porque están más cerca de lo que parece: la Philco de 9 litros declara 2 kW y la Novohome de 8,5 litros, 1.700 W. Lo que cambia la distribución es el diseño del ventilador y cuán llena esté la canasta, no esa diferencia de potencia.` },
       { type: "p", content: `Dobles (Atma 8.5, Philips 9) tienen mejor distribución por diseño de dos cestas.` },
       { type: "p", content: `Resultado: En papas fritas, diferencia es 1-2 minutos de cocción. No es crítico pero se nota.` },
       { type: "h2", title: `Potencia: por qué pesa menos de lo que parece` },
-      { type: "p", content: `Entre las dos opciones económicas de esta comparativa hay 300 W de diferencia a favor de la Philco: 2 kW contra 1.700 W de la Kanji. En la práctica no alcanza para que notes un cambio drástico en el tiempo de cocción.` },
-      { type: "p", content: `Lo que sí cambia el tiempo es cuánto cargás la canasta. La misma freidora de 8 litros llena hasta arriba tarda bastante más que a media carga, y esa diferencia es mucho más grande que cualquier salto de 50 W entre modelos.` },
+      { type: "p", content: `Entre las dos opciones económicas de esta comparativa hay 300 W de diferencia a favor de la Philco: 2 kW contra 1.700 W de la Novohome. En la práctica no alcanza para que notes un cambio drástico en el tiempo de cocción.` },
+      { type: "p", content: `Lo que sí cambia el tiempo es cuánto cargás la canasta. La misma freidora de 8 litros llena hasta arriba tarda bastante más que a media carga, y esa diferencia es mucho más grande que cualquier salto de potencia entre modelos.` },
       { type: "p", content: `Si estás comparando dos freidoras grandes y la única diferencia que ves es la potencia declarada, probablemente no sea ese el dato por el que conviene decidir.` },
       { type: "h2", title: `¿Cuándo comprar gran capacidad?` },
       { type: "p", content: `Compra freidora grande si:` },
@@ -11644,7 +11650,8 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       ]},
       { type: "h2", title: `Guía rápida por perfil` },
       { type: "list", items: [
-        `**Presupuesto ajustado, 4-6 personas:** [Philco FR259PH](/producto/freidora-de-aire-philco-fr259ph-9-litros-2-kw-mla45520216) — 9L, la más potente del segmento económico, sin lujos.`,
+        `**Presupuesto ajustado, con ventana:** [Novohome AH 802 WIX](/producto/freidora-de-aire-novohome-ah-802-wix-8-5-litros-1-7-kw-con-ventana-mla42522966) — 8.5L con ventana, más barata que la Philco.`,
+        `**Presupuesto ajustado, más potencia:** [Philco FR259PH](/producto/freidora-de-aire-philco-fr259ph-9-litros-2-kw-mla45520216) — 9L, la más potente del segmento económico, sin ventana.`,
         `**Doble canasta sin gastar de más:** [Oster Dual DiamondForce](https://meli.la/1rwaoYB) — dos cestas al precio más accesible del segmento doble.`,
         `**Versatilidad y potencia (5-6 personas):** [Atma FRD248AP](https://meli.la/2aw3uVJ) — doble canasta con 2200W y service nacional.`,
         `**Máxima capacidad para reuniones (6-8 personas):** [Philips PHNA35100](https://meli.la/15VAU5a) — 9L, la de mayor capacidad disponible hoy (la Peabody PE-AFDL102N y la Suono, ambas de 10L, están sin stock).`,
@@ -11652,7 +11659,8 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
 
       { type: "h2", title: `Tabla comparativa`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Capacidad`, `Tipo`, `Ideal para`], rows: [
-        [`[Philco FR259PH](/producto/freidora-de-aire-philco-fr259ph-9-litros-2-kw-mla45520216)`, `{{precio:MLA45520216}}`, `9 L`, `Simple`, `Mejor precio del segmento grande`],
+        [`[Novohome AH 802 WIX](/producto/freidora-de-aire-novohome-ah-802-wix-8-5-litros-1-7-kw-con-ventana-mla42522966)`, `{{precio:MLA42522966}}`, `8.5 L`, `Simple`, `Mejor precio con ventana`],
+        [`[Philco FR259PH](/producto/freidora-de-aire-philco-fr259ph-9-litros-2-kw-mla45520216)`, `{{precio:MLA45520216}}`, `9 L`, `Simple`, `Más potencia, sin ventana`],
         [`[Oster Dual DiamondForce](https://meli.la/1rwaoYB)`, `{{precio:MLA28709303}}`, `7.6 L`, `Doble canasta`, `Doble canasta económica`],
         [`[Atma FRD248AP](https://meli.la/2aw3uVJ)`, `{{precio:MLA40161710}}`, `8.5 L`, `Doble canasta`, `Más potencia, service nacional`],
         [`[Suono Airfryer (sin stock)](/producto/airfryer-suono-digital-y-doble-resistencia-12-programas-10l-negro-mla54106293)`, `—`, `10 L`, `Canasta única`, `Máxima capacidad, cuando repongan`],
@@ -11661,7 +11669,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       ]},
 
       { type: "h2", title: `Veredicto: cuál comprar`, id: "veredicto" },
-      { type: "verdict", content: `Si el presupuesto manda y no necesitás doble canasta, la [Philco FR259PH](/producto/freidora-de-aire-philco-fr259ph-9-litros-2-kw-mla45520216). Si querés cocinar dos cosas a la vez sin gastar de más, la [Oster Dual DiamondForce](https://meli.la/1rwaoYB). Para reuniones o familias de 6-8, la [Philips PHNA35100](https://meli.la/15VAU5a) de 9 litros es la de mayor capacidad disponible hoy (la Peabody PE-AFDL102N y la Suono, ambas de 10L, están sin stock) y además tiene la mejor distribución de aire del grupo.` },
+      { type: "verdict", content: `Si el presupuesto manda, no necesitás doble canasta y querés ver la cocción sin abrir el canasto, la [Novohome AH 802 WIX](/producto/freidora-de-aire-novohome-ah-802-wix-8-5-litros-1-7-kw-con-ventana-mla42522966). Si preferís algo más de capacidad y potencia y no te importa no tener ventana, la [Philco FR259PH](/producto/freidora-de-aire-philco-fr259ph-9-litros-2-kw-mla45520216). Si querés cocinar dos cosas a la vez sin gastar de más, la [Oster Dual DiamondForce](https://meli.la/1rwaoYB). Para reuniones o familias de 6-8, la [Philips PHNA35100](https://meli.la/15VAU5a) de 9 litros es la de mayor capacidad disponible hoy (la Peabody PE-AFDL102N y la Suono, ambas de 10L, están sin stock) y además tiene la mejor distribución de aire del grupo.` },
     ],
     faq: [
       {

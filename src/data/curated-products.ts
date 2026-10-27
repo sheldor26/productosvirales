@@ -38967,6 +38967,7 @@ La Gadnic de 6.5 litros es una freidora de aire familiar bien dimensionada, con 
     condition: 'new',
     freeShipping: false,
     rating: 4.8,
+    reviewCount: 1946,
     soldQuantity: 1000,
     pastelColor: 'var(--pastel-coral)',
     description: "SKU: HOG0360NEG  \nAirFryer Digital Suono 10L con Doble Resistencia – Potencia, Capacidad y Versatilidad  \n\nLa AirFryer Digital Suono de 10 litros es el electrodoméstico ideal para quienes buscan cocinar de forma más saludable y práctica. Con su sistema de convección de aire caliente y doble resisten",
@@ -99095,7 +99096,7 @@ No es para vos si te preocupa comprar a ciegas sobre el color exacto que va a ll
       { label: "Peso", value: "8 kg" },
       { label: "Canastos", value: "1, como las otras seis" },
     ],
-    relatedProducts: ["MLA39932833","MLA46208363","MLA45520216"],
+    relatedProducts: ["MLA42522966","MLA39932833","MLA45520216"],
     priceUpdated: "2026-10-09", priceLastChecked: "2026-09-03", priceVerifiedAt: "2026-09-03",
     priceStatus: "fresh", reviewsSampledAt: "2026-09-03",
     description: "7 litros con ventana, cuatro funciones y más de 2.000 opiniones. Una opinión reporta que a los 3 meses se apagaba sola a los 10 minutos.",
@@ -99422,7 +99423,7 @@ No es para vos si buscás la comodidad de lavar un solo canasto en el lavavajill
       { label: "Superficie antiadherente", value: "Si" },
       { label: "Voltaje", value: "220V" },
     ],
-    relatedProducts: ["MLA39932833", "MLA46208363", "MLA42479783"],
+    relatedProducts: ["MLA45520216", "MLA46208363", "MLA42479783"],
     priceUpdated: "2026-10-12", priceLastChecked: "2026-08-20", priceVerifiedAt: "2026-08-20",
     priceStatus: "fresh", reviewsSampledAt: "2026-08-20",
     description: "La hermana de 6 litros de la Atma FR248AWP: mismo motor de 1,75 kW y misma ventana, en un cuerpo mas chico. Puesto 4 entre las mas vendidas de Mercado Libre Argentina.",
@@ -99477,6 +99478,108 @@ No es para vos si cocinan para una familia de 5 o más, porque 6 litros se queda
       { question: "¿Cuántas opiniones reales tiene esta freidora?", answer: "MercadoLibre muestra {{reviews:MLA39932833}} calificaciones, pero las agrupa a nivel de anuncio, que incluye tanto la versión blanca como la negra. No hay forma de separar cuántas corresponden a cada color desde la información pública." },
       { question: "¿Trae ventana para ver la cocción?", answer: "Sí, ventana transparente, igual que la versión de 8 litros de esta misma línea." },
       { question: "¿Conviene más esta o la Liliana AF966N Airview?", answer: "Ambas tienen 6 litros y ventana. Esta cuesta {{preciodif:MLA46208363:MLA39932833}} menos, pero la Liliana suma la posibilidad de cocinar en doble altura, algo que esta ficha no ofrece." },
+    ],
+  },
+  {
+    id: "MLA42522966",
+    title: "Freidora de Aire Novohome AH 802 WIX — 8,5 Litros, 1,7 kW, con Ventana",
+    canonicalName: "Novohome AH 802 WIX", mpn: "NF-AH802WIX",
+    price: 129990, currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_885336-MLA110374694849_042026-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_885336-MLA110374694849_042026-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_718369-MLA110374694859_042026-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_619885-MLA109505176576_042026-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_834108-MLA109505236334_042026-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_896592-MLA109505206410_042026-F.webp",
+    ],
+    category: "Cocina", categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/freidora-de-aire-novohome-85-lts-air-fryer-panel-digital-color-tactil-12-funciones-con-ventana-visor-color-negro/p/MLA42522966",
+    affiliateUrl: "https://meli.la/2MRJKbf",
+    condition: "new", freeShipping: true, rating: 4.8, reviewCount: 2173,
+    badge: "bestseller", pastelColor: "var(--pastel-amber)",
+    specs: [
+      { label: "Marca", value: "Novohome" },
+      { label: "Modelo", value: "AH 802 WIX (SKU NF-AH802WIX)" },
+      { label: "Capacidad", value: "8,5 litros" },
+      { label: "Potencia", value: "1,7 kW" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Control", value: "Digital con pantalla táctil a color" },
+      { label: "Rango de temperatura", value: "80 a 200 °C" },
+      { label: "Canastos", value: "1" },
+      { label: "Ventana transparente", value: "Sí" },
+      { label: "Superficie antiadherente", value: "Sí" },
+      { label: "Accesorios incluidos", value: "Rejilla" },
+      { label: "Dimensiones", value: "35 cm alto x 37,5 cm ancho x 28,8 cm largo. Peso no declarado" },
+      { label: "Funciones", value: "10 preestablecidas: alitas de pollo, batata, camarones, carne, papas fritas congeladas, pescado, pizza, pollo, torta y maní. El título de la publicación dice \"12 funciones\", pero la ficha técnica de ML solo declara 10" },
+    ],
+    relatedProducts: ["MLA45520216", "MLA42479783", "MLA39932833"],
+    priceUpdated: "2026-10-27", priceLastChecked: "2026-10-27", priceVerifiedAt: "2026-10-27",
+    priceStatus: "fresh", reviewsSampledAt: "2026-10-27",
+    description: "8,5 litros con ventana transparente, panel táctil a color y {{reviews:MLA42522966}} calificaciones a {{rating:MLA42522966}} estrellas. Hoy es la insignia \"MÁS VENDIDO\" de Novohome en control táctil.",
+    seoTitle: "Novohome AH 802 WIX: 8,5L, la más vendida en táctil",
+    metaDescription: "Freidora de aire Novohome AH 802 WIX de 8,5 litros con ventana y panel táctil a color. Precio, specs reales y opiniones ({{reviews:MLA42522966}} calificaciones, {{rating:MLA42522966}}★).",
+    verdict: "Es la **freidora más vendida de Novohome en control táctil** hoy: {{reviews:MLA42522966}} calificaciones con {{rating:MLA42522966}} estrellas. Declara **8,5 litros**, ventana transparente, panel táctil a color y 10 funciones preestablecidas (el título de la publicación promete \"12 funciones\", la ficha técnica solo confirma 10). A {{precio:MLA42522966}} queda por debajo de otras freidoras grandes del catálogo con menos respaldo de opiniones.",
+    pros: [
+      "8,5 litros, de las más grandes del catálogo a este precio",
+      "Insignia \"MÁS VENDIDO\" de Novohome en control táctil (+5 mil vendidos)",
+      "Ventana transparente con panel táctil a color",
+      "{{rating:MLA42522966}}⭐ con {{reviews:MLA42522966}} calificaciones, de las más altas en volumen del catálogo",
+      "Incluye rejilla",
+    ],
+    cons: [
+      "El título promete \"12 funciones\", la ficha técnica de ML solo declara 10",
+      "Un comprador reporta que le faltó la rejilla superior en la caja",
+      "Un solo canasto, no permite dos cocciones a la vez",
+      "No declara peso en la ficha",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", text: "La freidora, es perfecta! mejor de lo q esperaba, la capacidad es mas grande de lo q crei, cocine pollo, medallones, papas fritas! excelente! super recomendable!." },
+      { rating: 5, country: "Argentina", text: "Es excelente. La comida sale toda riquísima; crocante x fuera y jugosa por dentro. Los vegetales igualmente excelente." },
+      { rating: 5, country: "Argentina", text: "Es muy lindo, practico, te ayuda en ahorrar tiempo a la hora de cocinar, es sencillo su manejo y funcionamiento. La capacidad que tiene para cocinar es buena, es grande y espaciosa la canasta, que diría que entra un pollo mediano." },
+      { rating: 1, country: "Argentina", text: "Me faltó la rejilla de arriba, o sea la reja primera de horno, por favor necesito, pues quiero hacer la garantía del producto." },
+    ],
+    articleBody: `## Qué es la Novohome AH 802 WIX
+
+Es una freidora de aire de 8,5 litros con panel digital táctil a color y ventana transparente para ver la cocción sin abrir el canasto. Cuesta {{precio:MLA42522966}} y tiene {{reviews:MLA42522966}} calificaciones con {{rating:MLA42522966}} estrellas en MercadoLibre Argentina, hoy la insignia "MÁS VENDIDO" de Novohome en control táctil (3° lugar en la categoría "De Aire").
+
+## El título promete 12 funciones, la ficha técnica declara 10
+
+El título de la publicación dice "12 Funciones", pero tanto la ficha técnica de ML como la descripción del vendedor solo listan 10 preestablecidos por tipo de alimento: alitas de pollo, batata, camarones, carne, papas fritas congeladas, pescado, pizza, pollo, torta y maní. Lo marcamos porque es justamente el tipo de discrepancia que preferimos aclarar antes que repetir sin chequear.
+
+## Capacidad real: 8,5 litros con ventana
+
+Con 8,5 litros es de las más grandes del catálogo a este precio, por encima de la propia [Novohome NH-AF70WIX de 7 litros](/producto/freidora-de-aire-novohome-nh-af70wix-7-litros-4-funciones-mla42479783) y muy cerca de la [Philco FR259PH de 9 litros](/producto/freidora-de-aire-philco-fr259ph-9-litros-2-kw-mla45520216), con la diferencia de que esta sí trae ventana transparente. El rango de temperatura va de 80 a 200 °C, con control digital a color.
+
+## Lo que dice la gente que la compró
+
+Los comentarios en ML repiten el mismo patrón: capacidad más grande de lo esperado, cocción pareja (crocante por fuera, jugoso por dentro) y manejo sencillo incluso para quien no cocina seguido. Una reseña específica menciona que entra un pollo mediano.
+
+No todo es parejo: una reseña reporta que **le faltó la rejilla superior dentro de la caja** y tuvo que reclamar garantía. No es un patrón repetido entre las reseñas disponibles, pero lo publicamos igual porque es el tipo de detalle de logística que conviene saber antes de comprar (revisar el contenido de la caja al recibirla).
+
+## Contra las otras freidoras de la comparativa
+
+Contra la [Novohome NH-AF70WIX de 7 litros](/producto/freidora-de-aire-novohome-nh-af70wix-7-litros-4-funciones-mla42479783), de la misma marca: esta tiene 1,5 litros más de capacidad y algo más de respaldo de opiniones, por {{preciodif:MLA42522966:MLA42479783}} más.
+
+Contra la [Philco FR259PH de 9 litros](/producto/freidora-de-aire-philco-fr259ph-9-litros-2-kw-mla45520216): la Philco tiene algo más de capacidad y potencia (2 kW contra 1,7 kW), pero no trae ventana transparente. Esta cuesta {{preciodif:MLA42522966:MLA45520216}} menos y suma el visor que la Philco no tiene.
+
+Contra la [Atma FR246AWP de 6 litros](/producto/freidora-de-aire-atma-fr246awp-6-litros-1-75-kw-blanca-con-ventana-mla39932833): cuestan prácticamente lo mismo. La Atma suma la red de service nacional de la marca, pero esta tiene 2,5 litros más de capacidad al mismo precio.
+
+## Para quién es, y para quién no
+
+Es para vos si buscás la mayor capacidad posible sin pagar de más, si la ventana para controlar la cocción te importa, o si preferís el modelo con más respaldo de opiniones dentro del catálogo de freidoras grandes.
+
+No es para vos si contaste con las "12 funciones" prometidas en el título (son 10 reales), si necesitás doble canasto para cocinar dos cosas a la vez, o si el service técnico de la marca es un factor decisivo (ahí la Atma tiene mejor cobertura declarada).`,
+    faq: [
+      { question: "¿Cuántas funciones tiene realmente?", answer: "El título de la publicación dice 12, pero la ficha técnica de MercadoLibre solo declara 10 preestablecidos: alitas de pollo, batata, camarones, carne, papas fritas congeladas, pescado, pizza, pollo, torta y maní. Lo marcamos porque es una discrepancia real entre el título y los datos técnicos." },
+      { question: "¿Para cuántas personas alcanza?", answer: "Con 8,5 litros alcanza cómodo para una familia numerosa; una reseña menciona que entra un pollo mediano. Es de las capacidades más grandes del catálogo a este precio." },
+      { question: "¿Trae ventana para ver la cocción?", answer: "Sí, ventana transparente con panel digital táctil a color, así que podés controlar el punto de cocción sin abrir el canasto." },
+      { question: "¿Es cierto que puede faltar algún accesorio en la caja?", answer: "Hay un reporte puntual: una reseña cuenta que le faltó la rejilla superior y tuvo que reclamar garantía. No es un patrón repetido entre las reseñas disponibles, pero conviene revisar el contenido de la caja al recibirla." },
+      { question: "¿Cuánto pesa y qué medidas tiene?", answer: "Mide 35 cm de alto, 37,5 cm de ancho y 28,8 cm de largo. El peso no está declarado en la ficha de MercadoLibre." },
+      { question: "¿Conviene más esta o la Novohome NH-AF70WIX de 7 litros?", answer: "Esta tiene 1,5 litros más de capacidad y algo más de respaldo de opiniones, por {{preciodif:MLA42522966:MLA42479783}} más. Si el presupuesto es muy ajustado, la de 7 litros sigue siendo una opción válida." },
+      { question: "¿Vale la pena pagar más por la Philco FR259PH?", answer: "La Philco tiene algo más de capacidad y potencia, pero no trae ventana transparente. Esta Novohome cuesta {{preciodif:MLA42522966:MLA45520216}} menos y suma la ventana que le falta a la Philco. Si controlar la cocción sin abrir el canasto te importa, esta es la opción más sólida." },
+      { question: "¿Cuántas calificaciones reales tiene?", answer: "{{reviews:MLA42522966}} calificaciones con {{rating:MLA42522966}} estrellas, de las más altas en volumen entre las freidoras grandes del catálogo." },
+      { question: "¿Tiene un solo canasto?", answer: "Sí, un solo canasto de 8,5 litros. Si necesitás cocinar dos cosas distintas al mismo tiempo, hay que mirar un modelo de doble canasta en vez de este." },
     ],
   },
   {

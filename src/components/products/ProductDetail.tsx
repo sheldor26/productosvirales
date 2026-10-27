@@ -43,6 +43,16 @@ import { PriceHistoryChart } from "./PriceHistoryChart";
 import { CouponBadge } from "./CouponBadge";
 import { ShareButtons } from "@/components/widgets/ShareButtons";
 import type { Product } from "@/lib/types";
+
+const BADGE_LABELS: Record<NonNullable<Product["badge"]>, string> = {
+  viral: "VIRAL",
+  trending: "TRENDING",
+  "hot-deal": "HOT DEAL",
+  bestseller: "BESTSELLER",
+  "summer-pick": "PARA VERANO",
+  "tiktok-viral": "VIRAL EN TIKTOK",
+  collector: "EDICIÓN ESPECIAL",
+};
 import type { PriceChartData } from "@/lib/price-history";
 
 interface ProductDetailProps {
@@ -361,7 +371,7 @@ export function ProductDetail({
           {product.badge && (
             <div className="mt-3">
               <Badge variant={product.badge}>
-                {product.badge === "viral" ? "VIRAL" : product.badge === "trending" ? "TRENDING" : "HOT DEAL"}
+                {BADGE_LABELS[product.badge] ?? "HOT DEAL"}
               </Badge>
             </div>
           )}
