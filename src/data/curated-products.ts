@@ -112195,6 +112195,506 @@ Comprálo si buscás la purificación más completa posible (incluida la elimina
   },
 ];
 
+// Array separado para no empujar el literal de curatedProducts más allá del
+// límite de complejidad de unión que TypeScript puede representar (TS2590).
+// Se agrega con .push() más abajo, el array const sigue siendo mutable.
+const curatedProductsMaquinasHelado: Product[] = [
+  {
+    id: "MLA61371753",
+    title: "Máquina de Helados Atma Dolce ICMAT1010N — 500 ml, 10 Programas",
+    canonicalName: "Atma Dolce ICMAT1010N", mpn: "ICMAT1010N",
+    price: 435168, originalPrice: 622722, currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_977138-MLA98479221222_112025-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_977138-MLA98479221222_112025-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_920657-MLA97106808003_112025-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_645468-MLA97106631109_112025-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_873392-MLA99924622735_112025-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_960472-MLA96652194236_112025-F.webp",
+    ],
+    category: "Cocina", categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/maquina-de-helado-atma-dolce-icmat1010n-10-programas-inox/p/MLA61371753",
+    affiliateUrl: "https://meli.la/2MRJKbf",
+    condition: "new", freeShipping: true, rating: 4.7, reviewCount: 124,
+    badge: "bestseller", pastelColor: "var(--pastel-pink)",
+    specs: [
+      { label: "Marca / Modelo", value: "Atma / ICMAT1010N" },
+      { label: "Capacidad", value: "500 ml (porción individual, no para varias personas)" },
+      { label: "Potencia", value: "500 W" },
+      { label: "Voltaje", value: "220-240V, 50/60Hz, Clase II" },
+      { label: "Material", value: "Acero inoxidable" },
+      { label: "Peso", value: "5,49 kg (declarado por Atma en el manual oficial)" },
+      { label: "Dimensiones", value: "33,7 x 30 x 19,1 cm, alto x ancho x profundidad (manual oficial)" },
+      { label: "Mecanismo", value: "Precongelado: hay que congelar el vaso con la mezcla 24 horas antes de procesarlo. No es instantánea" },
+      { label: "Programas", value: "10: Gelato, Helado Liviano, Helado Clásico, Sorbete, Yogurt Helado, Helado Italiano, Slushie, Café Frappé, Cóctel, Milkshake (manual oficial)" },
+      { label: "Garantía", value: "12 meses, NEWSAN S.A., origen China" },
+      { label: "Color", value: "Plateado" },
+    ],
+    relatedProducts: ["MLA62550272", "MLA61372015", "MLA62665909", "MLA76224105", "MLA78438327"],
+    priceUpdated: "2026-10-27", priceLastChecked: "2026-10-27", priceVerifiedAt: "2026-10-27",
+    priceStatus: "fresh", reviewsSampledAt: "2026-10-27",
+    description: "La más barata de esta comparativa entre las que precongelan: 500 ml, 10 programas y acero inoxidable, a {{precio:MLA61371753}} con {{reviews:MLA61371753}} calificaciones.",
+    seoTitle: "Atma Dolce ICMAT1010N: la más barata, 10 programas",
+    metaDescription: "Máquina de helados Atma Dolce ICMAT1010N: 500 ml, 10 programas, hay que precongelar 24hs. Precio real, specs del manual oficial y opiniones.",
+    verdict: "Es la opción más barata de esta comparativa entre las que necesitan precongelado: {{precio:MLA61371753}} con {{reviews:MLA61371753}} calificaciones a {{rating:MLA61371753}} estrellas. Declara **10 programas** (del manual oficial de Atma, no de la publicación), incluidos slushie, café frappé y cóctel además de los helados clásicos. Funciona igual que la Ninja CREAMi: hay que congelar el vaso con la mezcla **24 horas antes** de procesarlo, no es instantánea. Con **500 ml** es la de menor capacidad de esta comparativa, pensada para una porción individual.",
+    pros: [
+      "La más barata entre las que precongelan de esta comparativa",
+      "10 programas reales, incluidos slushie, café frappé y cóctel",
+      "Acero inoxidable, 5,49 kg, compacta",
+      "Garantía nacional de NEWSAN/Atma, service más accesible que una marca importada",
+    ],
+    cons: [
+      "Hay que precongelar el vaso 24 horas antes, no sirve para un antojo del momento",
+      "500 ml es porción individual, no alcanza para varias personas",
+      "Una reseña real reporta que llegó fallada y no obtuvo respuesta del vendedor",
+      "La ficha técnica de la publicación dice \"12 funciones\"; el manual oficial de Atma declara 10",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", text: "Qué decirles, comemos helados todos los días. Para este helado puse frutillas congeladas hasta la línea y complete con leche y dos cucharadas de azúcar. Quedó increíble. Yo uso la función helado dos veces y queda así, la primera sale arenoso. Cuando llegue la vas a enchufar y te va a dar la opción de elevar para que puedas sacar el envase, no lo pares porque después es un quilombo lograr sacarlo y el soporte de atma no te ayuda nada." },
+      { rating: 1, country: "Argentina", text: "Mala la devolví. Nunca me contestaron de la empresa, vino fallada." },
+    ],
+    articleBody: `## Qué es la Atma Dolce ICMAT1010N
+
+Es una máquina de helados de 500 ml con panel táctil, pensada para porciones individuales. Cuesta {{precio:MLA61371753}} y tiene {{reviews:MLA61371753}} calificaciones con {{rating:MLA61371753}} estrellas en MercadoLibre Argentina, dentro de [nuestra comparativa de las mejores máquinas de helado en Argentina](/guias/cocina/maquina-de-helados).
+
+## El mecanismo: hay que congelar el vaso 24 horas antes
+
+El manual oficial de Atma es claro en esto: se cargan los ingredientes en el vaso mezclador, se congela en el freezer **durante aproximadamente 24 horas**, y recién entonces se procesa (unos 2 minutos). Es el mismo mecanismo que usa la Ninja CREAMi, y es información que la publicación de MercadoLibre no deja tan clara con su "tiempo de preparación: 2 minutos", que describe solo el paso final. Si buscás algo instantáneo, esta no es la máquina: mirá la [Atma Frost](/producto/maquina-de-bebidas-y-helados-atma-frost-sluats01n-2-l-5-programas-mla61372015) o la [Westinghouse SIMX0023](/producto/maquina-de-helados-westinghouse-simx0023-2-6-l-compresor-mla62665909), que funcionan con compresor y no necesitan espera.
+
+## Los 10 programas, según el manual oficial
+
+El título de la publicación promete "12 funciones", pero el manual oficial de Atma (que es la fuente que usamos para zanjar esta discrepancia) declara 10 programas de receta: Gelato, Helado Liviano, Helado Clásico, Sorbete, Yogurt Helado, Helado Italiano, Slushie, Café Frappé, Cóctel y Milkshake. Cada uno ajusta la velocidad y el tiempo del motor de forma distinta, así que no es solo una etiqueta: elegir el programa correcto importa para la textura final.
+
+## Lo que dice la gente que la compró
+
+Una reseña detallada y muy útil explica cómo sacarle el jugo: usar frutas congeladas con leche y azúcar da buen resultado, pero conviene correr la función de helado dos veces porque la primera pasada suele salir arenosa. La misma reseña advierte algo importante que no está en la publicación: cuando termina de procesar, el botón de elevación levanta el mecanismo para poder sacar el vaso, y hay que dejar que ese paso termine solo. Si lo parás a mitad de camino (el ruido puede asustar), sacar el vaso después se complica, y el soporte de Atma no ayudó en ese caso puntual.
+
+No todo es parejo: una reseña de una estrella reporta que la unidad llegó fallada y que nunca obtuvo respuesta de la empresa. Es una sola reseña entre {{reviews:MLA61371753}} calificaciones, mayormente positivas, pero preferimos publicarla antes que ocultarla.
+
+## Para quién es, y para quién no
+
+Es para vos si querés la entrada más barata a este tipo de máquina, si te gusta experimentar con sabores (slushie, café frappé y cóctel además de los helados clásicos), y si no te molesta planificar con un día de anticipación.
+
+No es para vos si buscás algo instantáneo para cuando te agarra el antojo (ahí conviene un compresor como la Atma Frost o la Westinghouse), o si cocinás para más de una persona por vez: 500 ml es una porción chica.`,
+    faq: [
+      { question: "¿Es cierto que tarda solo 2 minutos?", answer: "Esos 2 minutos son solo el paso final de procesamiento. Antes hay que congelar el vaso con la mezcla durante aproximadamente 24 horas, según el manual oficial de Atma. No es una máquina instantánea." },
+      { question: "¿Cuántas funciones tiene realmente?", answer: "El título de la publicación dice 12, pero el manual oficial de Atma declara 10 programas: Gelato, Helado Liviano, Helado Clásico, Sorbete, Yogurt Helado, Helado Italiano, Slushie, Café Frappé, Cóctel y Milkshake." },
+      { question: "¿Alcanza para una familia?", answer: "No. Con 500 ml es una porción individual o para compartir entre dos personas en cantidad chica. Si necesitás más volumen, conviene mirar la Atma Frost (2 L) o la Westinghouse SIMX0023 (2,6 L), ambas de esta misma comparativa." },
+      { question: "¿Puedo hacer slushies o bebidas, o solo helado?", answer: "También hace slushie, café frappé y cóctel, además de los programas de helado clásico, gelato, sorbete y yogur helado. Son 10 programas en total." },
+      { question: "¿Hay que precongelar los ingredientes antes de cargar el vaso?", answer: "No, al revés: se cargan los ingredientes líquidos o frescos en el vaso y recién ahí se congela el conjunto durante 24 horas. No se precongelan los ingredientes por separado." },
+      { question: "¿Qué pasa si no dejo que termine el paso de elevación?", answer: "Una reseña real advierte que si pausás la máquina a mitad del paso de elevación (el ruido puede asustar), después cuesta mucho sacar el vaso. Conviene dejar que ese paso se complete solo." },
+      { question: "¿Qué garantía tiene?", answer: "12 meses de garantía de NEWSAN S.A., que importa y distribuye los productos Atma en Argentina." },
+      { question: "¿Conviene más esta o la Ninja CREAMi?", answer: "Las dos usan el mismo mecanismo de precongelado de 24 horas. Esta cuesta {{preciodif:MLA62550272:MLA61371753}} menos y tiene más programas (10 contra 7), pero la Ninja tiene más respaldo de opiniones y es la marca más reconocida de la categoría." },
+    ],
+  },
+  {
+    id: "MLA62550272",
+    title: "Máquina de Helados Ninja CREAMi NC300EU — 1,4 L, 7 Programas",
+    canonicalName: "Ninja CREAMi NC300EU", mpn: "NC300EU",
+    price: 761999, currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_772725-MLA107797901535_022026-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_772725-MLA107797901535_022026-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_842156-MLA99618404579_112025-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_848763-MLA107798556245_022026-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_701227-MLA107799207797_022026-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_746658-MLA107798646573_022026-F.webp",
+    ],
+    category: "Cocina", categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/maquina-de-helados-y-postres-ninja-creami/p/MLA62550272",
+    affiliateUrl: "https://meli.la/2LrHLMk",
+    condition: "new", freeShipping: true, rating: 4.8, reviewCount: 358,
+    badge: "bestseller", pastelColor: "var(--pastel-blue)",
+    specs: [
+      { label: "Marca / Línea / Modelo", value: "Ninja / Creami / NC300EU" },
+      { label: "Capacidad", value: "1,4 L" },
+      { label: "Potencia", value: "800 W" },
+      { label: "Voltaje", value: "220V, 50/60Hz" },
+      { label: "Color", value: "Negro y Plateado" },
+      { label: "Dimensiones", value: "40,5 x 16,6 x 30,6 cm, alto x ancho x profundidad" },
+      { label: "Mecanismo", value: "Precongelado: hay que congelar el pote con la mezcla 24 horas antes de procesarlo. No es instantánea" },
+      { label: "Programas", value: "7: incluye helado, helado liviano, gelato, sorbet, smoothie bowl, milkshake y mix-ins" },
+      { label: "Incluye recetario", value: "Sí" },
+    ],
+    relatedProducts: ["MLA61371753", "MLA61372015", "MLA62665909", "MLA76224105", "MLA78438327"],
+    priceUpdated: "2026-10-27", priceLastChecked: "2026-10-27", priceVerifiedAt: "2026-10-27",
+    priceStatus: "fresh", reviewsSampledAt: "2026-10-27",
+    description: "La marca más reconocida de la categoría: 1,4 L, 7 programas, con el mayor respaldo de opiniones de esta comparativa a {{precio:MLA62550272}}.",
+    seoTitle: "Ninja CREAMi NC300EU: la más conocida, 7 programas",
+    metaDescription: "Ninja CREAMi NC300EU: 1,4 L, 7 programas, hay que precongelar 24hs. La más vendida y mejor calificada de esta comparativa, con precio real de MercadoLibre.",
+    verdict: "Es la **máquina más reconocida de la categoría**, con {{reviews:MLA62550272}} calificaciones a {{rating:MLA62550272}} estrellas, el mayor respaldo de esta comparativa. Declara **1,4 L** de capacidad (casi el triple que la Atma Dolce) y 7 programas, incluido uno para mix-ins (agregar trozos de galletita o chocolate después de procesar). Como la Atma Dolce, hay que **congelar el pote 24 horas antes** de procesarlo: no es instantánea. A {{precio:MLA62550272}} es la más cara de esta comparativa.",
+    pros: [
+      "La marca más reconocida de la categoría, con el mayor respaldo de opiniones",
+      "1,4 L de capacidad, casi el triple que la Atma Dolce",
+      "Permite hacer helado sin azúcar, apto dietas específicas, con recetario incluido",
+      "Función de mix-ins para agregar trozos después de procesar",
+    ],
+    cons: [
+      "La más cara de esta comparativa",
+      "Hay que precongelar el pote 24 horas antes, no sirve para un antojo del momento",
+      "Según usuarios de largo plazo, la textura queda más \"helada\" que cremosa comparada con un helado de local",
+      "Viene con un solo pote: para no esperar un día entero entre sabores hay que comprar más por separado",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", text: "Es buenísima, la estoy usando hace dos semanas, con 3 ingredientes re sencillos te deja hacer helados sin azúcar super naturales y riquísimos. Probé ya haciendo de limón, de chocolate..." },
+      { rating: 5, country: "Argentina", text: "Es un producto excelente para preparar helados saludables con texturas cremosas. La máquina es sencilla de usar, totalmente recomendada y cuenta con un motor potente que permite elaborar distintas recetas." },
+    ],
+    articleBody: `## Qué es la Ninja CREAMi NC300EU
+
+Es la versión de entrada de la línea Creami de Ninja, la marca que popularizó este tipo de máquina en Estados Unidos. Cuesta {{precio:MLA62550272}} y tiene {{reviews:MLA62550272}} calificaciones con {{rating:MLA62550272}} estrellas en MercadoLibre Argentina, dentro de [nuestra comparativa de las mejores máquinas de helado en Argentina](/guias/cocina/maquina-de-helados).
+
+## El mecanismo: rellenar, congelar 24 horas, batir, servir
+
+Así lo resume la propia Ninja en tres pasos: llenar el pote con los ingredientes, congelar 24 horas, y batir en el programa elegido. Es exactamente el mismo mecanismo que la [Atma Dolce](/producto/maquina-de-helados-atma-dolce-icmat1010n-500-ml-10-programas-mla61371753): no hay atajo para tenerlo listo el mismo día que lo pensás. Usuarios con más de un año de uso real coinciden en que esto hay que tenerlo asumido antes de comprar: "no hay sesiones de helado improvisadas", como lo resume una reseña de largo plazo en video. Si tu prioridad es no esperar, mirá la [Atma Frost](/producto/maquina-de-bebidas-y-helados-atma-frost-sluats01n-2-l-5-programas-mla61372015) o la [Westinghouse SIMX0023](/producto/maquina-de-helados-westinghouse-simx0023-2-6-l-compresor-mla62665909).
+
+## Lo que dicen los usuarios de largo plazo que las reseñas de compra no cuentan
+
+Revisamos testimonios en video de usuarios con uno a cinco años de uso real (no solo la primera semana), y aparecen patrones consistentes que vale la pena saber antes de comprar. El más repetido: la textura final suele salir **más "helada" que cremosa** comparada con un helado de local, sobre todo con las recetas más simples del librito. El tipo de leche que uses cambia bastante el resultado: leche entera da mejor sabor, y una leche con más proteína (tipo Fairlife) mejora la textura sin perder mucho sabor. Otro dato real: la tapa es la pieza más difícil de limpiar bien, y si no se lava a fondo después de cada uso puede acumular residuos con mal olor. Por último, viene con un solo pote: usuarios habituales terminan comprando 3 a 5 potes extra para no tener que esperar un día entero cada vez que quieren un sabor nuevo.
+
+## Lo que dice la gente que la compró en Argentina
+
+Las reseñas en MercadoLibre son consistentes con lo anterior en el lado positivo: compradores destacan que con pocos ingredientes se puede hacer helado sin azúcar, natural y cremoso, con un motor que se siente potente. No encontramos en Argentina el mismo volumen de reseñas negativas detalladas que en los testimonios de largo plazo en inglés, probablemente porque acá el producto es más nuevo.
+
+## Para quién es, y para quién no
+
+Es para vos si valorás la marca con más respaldo de la categoría, si necesitás controlar azúcar o ingredientes por un tema de dieta, o si vas a usarla seguido (el precio se amortiza mejor con uso frecuente).
+
+No es para vos si buscás algo instantáneo sin planificación (ahí un compresor como la Atma Frost o la Westinghouse rinde mejor), o si el presupuesto es un factor: es la más cara de esta comparativa por lejos.`,
+    faq: [
+      { question: "¿Es verdad que hay que congelar 24 horas antes?", answer: "Sí, es el mecanismo central de la máquina: se llena el pote con los ingredientes, se congela 24 horas, y recién después se procesa. No existe un modo instantáneo en este modelo." },
+      { question: "¿Por qué es más cara que la Atma Dolce si hacen lo mismo?", answer: "Cuesta {{preciodif:MLA62550272:MLA61371753}} más. Tiene más capacidad (1,4 L contra 500 ml) y es la marca más reconocida de la categoría, con el mayor respaldo de opiniones, pero menos programas (7 contra 10)." },
+      { question: "¿El helado queda igual que uno comprado en un local?", answer: "Según usuarios de largo plazo, no exactamente: suele quedar un poco más \"helado\" que cremoso con las recetas simples del librito. Mejora bastante probando con distintos tipos de leche y re-procesando una segunda vez si hace falta." },
+      { question: "¿Viene con varios potes para hacer distintos sabores?", answer: "No, viene con uno solo. Como cada sabor necesita 24 horas de congelado, usuarios habituales suelen comprar 3 a 5 potes extra por separado para tener varios sabores listos sin esperar un día entero cada vez." },
+      { question: "¿Es difícil de limpiar?", answer: "La pieza más complicada es la tapa, según usuarios de largo plazo: si no se lava bien después de cada uso puede acumular residuos. Conviene limpiarla con agua caliente apenas se termina de usar." },
+      { question: "¿Sirve para helado sin azúcar o dietas específicas?", answer: "Sí, es uno de los puntos más valorados en las reseñas: permite controlar exactamente qué ingredientes lleva cada sabor, útil para dietas sin azúcar, sin lactosa o con control de calorías." },
+      { question: "¿Es ruidosa?", answer: "Sí, según usuarios de largo plazo puede alcanzar niveles comparables a una cortadora de césped durante el procesamiento, que dura unos minutos por tanda." },
+      { question: "¿Cuántas calificaciones reales tiene en Argentina?", answer: "{{reviews:MLA62550272}} calificaciones con {{rating:MLA62550272}} estrellas, el mayor respaldo de todas las máquinas de esta comparativa." },
+    ],
+  },
+  {
+    id: "MLA61372015",
+    title: "Máquina de Bebidas y Helados Atma Frost SLUATS01N — 2 L, 5 Programas",
+    canonicalName: "Atma Frost SLUATS01N", mpn: "SLUATS01N",
+    price: 487928, originalPrice: 750837, currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_958509-MLA100002747197_112025-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_958509-MLA100002747197_112025-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_693594-MLA96601684205_102025-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_729199-MLA96603084785_102025-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_762582-MLA97106729513_112025-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_730080-MLA96652668588_112025-F.webp",
+    ],
+    category: "Cocina", categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/maquina-de-bebidas-y-helados-atma-frost-sluats01n-5-programas-blanca/p/MLA61372015",
+    affiliateUrl: "https://meli.la/1T7n335",
+    condition: "new", freeShipping: true, rating: 4.7, reviewCount: 162,
+    badge: "bestseller", pastelColor: "var(--pastel-amber)",
+    specs: [
+      { label: "Marca / Modelo", value: "Atma / SLUATS01N" },
+      { label: "Capacidad", value: "2 litros" },
+      { label: "Potencia", value: "150 W" },
+      { label: "Voltaje", value: "220-240V, 50Hz, Clase I, refrigerante R290" },
+      { label: "Peso", value: "11,2 kg (declarado por Atma en el manual oficial)" },
+      { label: "Dimensiones", value: "43,8 x 22,2 x 44,2 cm, alto x ancho x profundidad (manual oficial)" },
+      { label: "Mecanismo", value: "Compresor: hace el helado o la bebida al instante, sin precongelar ingredientes" },
+      { label: "Programas", value: "5: Slushie, Helado soft, Cóctel, Bebida frozen, Milkshake (manual oficial)" },
+      { label: "Requisito de azúcar", value: "El manual oficial exige mínimo 6% de azúcar en los ingredientes; por debajo de eso puede dañar la máquina" },
+      { label: "Garantía", value: "12 meses, origen China" },
+      { label: "Color", value: "Blanca" },
+    ],
+    relatedProducts: ["MLA61371753", "MLA62550272", "MLA62665909", "MLA76224105", "MLA78438327"],
+    priceUpdated: "2026-10-27", priceLastChecked: "2026-10-27", priceVerifiedAt: "2026-10-27",
+    priceStatus: "fresh", reviewsSampledAt: "2026-10-27",
+    description: "La versátil de esta comparativa: 5 programas (helado soft, slushie, cóctel, bebida frozen, milkshake) con compresor real, sin precongelar nada, a {{precio:MLA61372015}}.",
+    seoTitle: "Atma Frost SLUATS01N: al instante, 5 programas",
+    metaDescription: "Atma Frost SLUATS01N: helado soft, slushie, cóctel y milkshake al instante con compresor, sin precongelar. Precio real y opiniones de MercadoLibre.",
+    verdict: "Es una de las opciones **sin espera** de esta comparativa: tiene compresor real (refrigerante R290) y hace helado soft, slushie, cóctel, bebida frozen o milkshake **al instante**, sin precongelar nada. Cuesta {{precio:MLA61372015}} con {{reviews:MLA61372015}} calificaciones a {{rating:MLA61372015}} estrellas. Con **2 litros** tiene cuatro veces la capacidad de la Atma Dolce. La salvedad real, respaldada por una reseña muy votada: para **helado** específicamente (no bebidas) varios compradores la encuentran floja, mejor pensada para slushies y tragos.",
+    pros: [
+      "Al instante, sin precongelar nada: compresor real con refrigerante R290",
+      "5 programas distintos: helado soft, slushie, cóctel, bebida frozen, milkshake",
+      "2 litros de capacidad, cuatro veces la de la Atma Dolce",
+      "Garantía nacional de NEWSAN/Atma",
+    ],
+    cons: [
+      "Varias reseñas coinciden en que para helado (no bebidas) el resultado queda apenas sólido y dura poco",
+      "Pesada (11,2 kg) y grande (44 cm de profundidad), ocupa bastante espacio",
+      "Limpieza exigente, sobre todo si quedan residuos grasosos",
+      "Exige mínimo 6% de azúcar en los ingredientes, no sirve para recetas bajas en azúcar",
+    ],
+    customerReviews: [
+      { rating: 4, country: "Argentina", text: "La usé poco (3 o 4 veces) porque la devolví. Para hacer bebidas frozen y tragos es muy buena. Pero para helados (lo que más me interesaba) no es muy útil, en el mejor de los casos queda a penas sólido y dura muy poquito (a comer rápido), eso que lo probé con las cajitas de milkaut que tiene la receta perfecta. También es bastante lenta y limpiarla es la peor parte, sobre todo si el producto era grasoso. Es un buen producto para tener que la utilidad principal no sea helado, sino que sea algo excepcional. El precio no es malísimo pero siento que es algo que no debería costar más de 300mil (200usd)." },
+      { rating: 5, country: "Argentina", text: "La máquina de helados tiene una excelente calidad de materiales y muchas opciones de uso, permitiendo preparar diferentes tipos de helados y bebidas con facilidad. Es una opción ideal para familias con niños." },
+    ],
+    articleBody: `## Qué es la Atma Frost SLUATS01N
+
+Es una máquina de bebidas heladas y helado soft con compresor incorporado (refrigerante R290), pensada para no tener que planificar con anticipación. Cuesta {{precio:MLA61372015}} y tiene {{reviews:MLA61372015}} calificaciones con {{rating:MLA61372015}} estrellas en MercadoLibre Argentina, dentro de [nuestra comparativa de las mejores máquinas de helado en Argentina](/guias/cocina/maquina-de-helados).
+
+## El mecanismo: compresor real, sin precongelar nada
+
+A diferencia de la [Atma Dolce](/producto/maquina-de-helados-atma-dolce-icmat1010n-500-ml-10-programas-mla61371753) y la [Ninja CREAMi](/producto/maquina-de-helados-ninja-creami-nc300eu-1-4-l-7-programas-mla62550272), que necesitan 24 horas de precongelado, esta tiene compresor propio: el manual oficial de Atma incluso advierte explícitamente que **no conviene precongelar los ingredientes**, porque puede atascar la cuchilla mezcladora antes de que se forme el helado. Se cargan los ingredientes líquidos (a temperatura de heladera, 5-8°C) y la máquina enfría y bate al mismo tiempo. El manual también exige que los ingredientes tengan **al menos 6% de azúcar**: por debajo de ese umbral, puede dañar el equipo.
+
+## Honestidad sobre la contra más repetida: mejor para bebidas que para helado
+
+La reseña más votada de la publicación (78 personas la marcaron útil) es clara: la compradora la devolvió después de usarla 3 o 4 veces porque, aunque funciona muy bien para bebidas frozen y tragos, el resultado como helado propiamente dicho "queda a penas sólido y dura muy poquito", incluso siguiendo la receta recomendada con las cajitas de Milkaut. La misma reseña la describe como lenta y difícil de limpiar cuando el producto usado era grasoso. No es un caso aislado: es el patrón más repetido entre las reseñas negativas de esta máquina. Si tu prioridad es específicamente el helado, conviene saber esto antes de comprar.
+
+## Para quién es, y para quién no
+
+Es para vos si lo que más vas a usar son bebidas heladas, slushies, milkshakes o tragos, si no querés planificar con un día de anticipación, o si tenés espacio de sobra en la cocina para una máquina de 11,2 kg.
+
+No es para vos si tu prioridad principal es el helado: ahí la [Atma Dolce](/producto/maquina-de-helados-atma-dolce-icmat1010n-500-ml-10-programas-mla61371753) o la [Ninja CREAMi](/producto/maquina-de-helados-ninja-creami-nc300eu-1-4-l-7-programas-mla62550272) dan mejor resultado, aunque haya que esperar 24 horas.`,
+    faq: [
+      { question: "¿Hay que precongelar los ingredientes antes de usarla?", answer: "No, y el manual oficial de Atma lo desaconseja explícitamente: puede hacer que la cuchilla se atasque. Se usan ingredientes fríos de heladera (5-8°C), nunca precongelados." },
+      { question: "¿Es mejor para bebidas o para helado?", answer: "Según la reseña más votada de la publicación, es mejor para bebidas frozen, slushies y tragos. Para helado propiamente dicho, varios compradores reportan que el resultado queda apenas sólido y dura poco tiempo." },
+      { question: "¿Qué programas tiene?", answer: "5 según el manual oficial: Slushie, Helado soft, Cóctel, Bebida frozen y Milkshake." },
+      { question: "¿Necesita que los ingredientes tengan azúcar?", answer: "Sí, el manual oficial exige un mínimo de 6% de azúcar en los ingredientes. Usar ingredientes sin azúcar o muy bajos en azúcar puede dañar la máquina." },
+      { question: "¿Cuánto pesa y qué lugar necesita?", answer: "11,2 kg y 43,8 x 22,2 x 44,2 cm según el manual oficial de Atma. Es bastante más grande y pesada que la Atma Dolce (5,49 kg)." },
+      { question: "¿Es difícil de limpiar?", answer: "Según las reseñas, la limpieza es exigente, sobre todo cuando el producto usado era grasoso. El manual recomienda lavar todas las piezas a mano o en lavavajillas después de cada uso." },
+      { question: "¿Conviene más esta o la Westinghouse SIMX0023?", answer: "Las dos tienen compresor y no necesitan precongelado. Esta cuesta {{preciodif:MLA61372015:MLA62665909}} más, pero suma la función de helado soft con boquilla de extrusión que la Westinghouse no tiene." },
+      { question: "¿Cuánto tiempo hay que esperar al conectarla por primera vez?", answer: "El manual oficial pide mantenerla en posición vertical al menos 2 horas antes del primer uso, para que el compresor se asiente." },
+    ],
+  },
+  {
+    id: "MLA62665909",
+    title: "Máquina de Helados Westinghouse SIMX0023 — 2,6 L, Compresor",
+    canonicalName: "Westinghouse SIMX0023", mpn: "SIMX0023",
+    price: 334517, originalPrice: 352123, currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_957046-MLA99417568474_112025-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_957046-MLA99417568474_112025-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_865687-MLA99417430950_112025-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_911334-MLA99417549026_112025-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_812449-MLA99901170217_112025-F.webp",
+    ],
+    category: "Cocina", categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/maquina-de-helados-westinghouse-simx0023-con-frecuencia-de-5060hs-capacidad-de-26l-blanco/p/MLA62665909",
+    affiliateUrl: "https://meli.la/26w2E9t",
+    condition: "new", freeShipping: true, rating: 4.3, reviewCount: 39,
+    badge: "bestseller", pastelColor: "var(--pastel-purple)",
+    specs: [
+      { label: "Marca / Modelo", value: "Westinghouse / SIMX0023" },
+      { label: "Capacidad", value: "2,6 litros, la más grande de esta comparativa" },
+      { label: "Potencia", value: "1.500 W" },
+      { label: "Voltaje", value: "220V, 50/60Hz" },
+      { label: "Material", value: "Acero inoxidable" },
+      { label: "Tiempo de preparación", value: "20 minutos, con compresor propio" },
+      { label: "Mecanismo", value: "Compresor: hace el helado al instante, sin precongelar ingredientes" },
+      { label: "Garantía", value: "2 años de fábrica, la más larga de esta comparativa" },
+      { label: "Color", value: "Blanco" },
+    ],
+    relatedProducts: ["MLA61371753", "MLA62550272", "MLA61372015", "MLA76224105", "MLA78438327"],
+    priceUpdated: "2026-10-27", priceLastChecked: "2026-10-27", priceVerifiedAt: "2026-10-27",
+    priceStatus: "fresh", reviewsSampledAt: "2026-10-27",
+    description: "La más barata y la de mayor capacidad de esta comparativa: 2,6 L con compresor, sin precongelar, a {{precio:MLA62665909}}.",
+    seoTitle: "Westinghouse SIMX0023: la más barata, 2,6 L",
+    metaDescription: "Máquina de helados Westinghouse SIMX0023: 2,6 L, compresor, 20 minutos, la más barata de esta comparativa. Precio real y opiniones de MercadoLibre.",
+    verdict: "Es la opción **más barata y de mayor capacidad** de esta comparativa: {{precio:MLA62665909}} por 2,6 litros con compresor propio, sin precongelar nada. Declara **1.500 W** de potencia y un tiempo de preparación de **20 minutos**. Tiene {{reviews:MLA62665909}} calificaciones a {{rating:MLA62665909}} estrellas, el rating más bajo entre las fichas de esta comparativa que ya tienen reseñas (la Gadnic CUK MHELA011 es más nueva y todavía no acumula ninguna). Como con la Atma Frost, varias reseñas señalan que rinde mejor para bebidas y frappés que para la consistencia de un helado tradicional.",
+    pros: [
+      "La más barata de esta comparativa",
+      "2,6 litros, la mayor capacidad de esta comparativa",
+      "Compresor real, sin precongelar nada, lista en 20 minutos",
+      "2 años de garantía, el doble que la Atma Dolce y la Atma Frost (las únicas otras fichas de esta comparativa que declaran plazo)",
+    ],
+    cons: [
+      "El rating más bajo ({{rating:MLA62665909}}) entre las fichas que ya tienen reseñas de esta comparativa",
+      "Dos reseñas reales coinciden: mejor para bebidas y frappés que para helado tradicional",
+      "Para la textura ideal de helado, algunas reseñas recomiendan terminarlo unas horas en el freezer",
+      "No declara funciones específicas de slushie o cóctel como la Atma Frost",
+    ],
+    customerReviews: [
+      { rating: 4, country: "Argentina", text: "La máquina me pareció muy buena. Enfría y congela muy bien, por su diseño es excelente para las bebidas, frappes y milkshakes. En el caso de los helados no le permite tener la consistencia ideal, pero luego al ponerlo en el freezer unas horas queda muy bien. Quedan muy buenos con la mezcla para helados de milkaut, buenos, fáciles y económicos!" },
+      { rating: 5, country: "Argentina", text: "Está muy buena para hacer tragos! tmb para los nenes le pones jugo le pones y a los 15 min tenes jugos frozzen. Con respecto a los helados no le agarre la mano para que me salga la textura." },
+    ],
+    articleBody: `## Qué es la Westinghouse SIMX0023
+
+Es la opción más barata y de mayor capacidad de esta comparativa: 2,6 litros con compresor propio, de una marca reconocida. Cuesta {{precio:MLA62665909}} y tiene {{reviews:MLA62665909}} calificaciones con {{rating:MLA62665909}} estrellas en MercadoLibre Argentina, dentro de [nuestra comparativa de las mejores máquinas de helado en Argentina](/guias/cocina/maquina-de-helados).
+
+## El mecanismo: compresor, sin precongelar, 20 minutos
+
+Como la [Atma Frost](/producto/maquina-de-bebidas-y-helados-atma-frost-sluats01n-2-l-5-programas-mla61372015), tiene compresor propio: se cargan los ingredientes frescos y la máquina enfría y bate en simultáneo. El proceso completo declara 20 minutos, sin necesidad de planificar el día anterior como con la [Atma Dolce](/producto/maquina-de-helados-atma-dolce-icmat1010n-500-ml-10-programas-mla61371753) o la [Ninja CREAMi](/producto/maquina-de-helados-ninja-creami-nc300eu-1-4-l-7-programas-mla62550272). Con 1.500 W es la de mayor potencia declarada de esta comparativa.
+
+## El mismo patrón honesto que aparece en la Atma Frost
+
+Dos reseñas reales, independientes entre sí, coinciden en algo que vale la pena saber antes de comprar: la máquina rinde muy bien para bebidas, frappés y milkshakes (una la describe lista en 15 minutos para jugos frozen), pero para lograr la consistencia ideal de un helado tradicional hace falta práctica, o directamente terminarlo unas horas en el freezer después de procesarlo. Es el mismo patrón que encontramos en la Atma Frost: los compresores instantáneos de esta gama rinden mejor en bebidas heladas que en helado propiamente dicho. Si tu prioridad es específicamente el helado y no querés depender de un paso extra en el freezer, la Atma Dolce o la Ninja CREAMi (que sí precongelan) dan un resultado más parejo.
+
+## Para quién es, y para quién no
+
+Es para vos si buscás el precio más bajo de esta comparativa, si vas a usarla sobre todo para bebidas heladas y frappés, o si necesitás la mayor capacidad posible sin pagar de más.
+
+No es para vos si tu prioridad es el helado con consistencia perfecta desde el primer intento: ahí conviene practicar con esta máquina o directamente ir a una de precongelado como la Atma Dolce.`,
+    faq: [
+      { question: "¿Hay que precongelar los ingredientes?", answer: "No, tiene compresor propio: se cargan los ingredientes frescos y la máquina enfría y bate en simultáneo, lista en unos 20 minutos." },
+      { question: "¿Es mejor para bebidas o para helado?", answer: "Según dos reseñas reales independientes, rinde mejor para bebidas, frappés y milkshakes. Para la consistencia ideal de un helado tradicional, algunas reseñas recomiendan terminarlo unas horas en el freezer después de procesarlo." },
+      { question: "¿Por qué es la más barata si tiene más potencia que las otras?", answer: "Cuesta {{preciodif:MLA62665909:MLA61372015}} menos que la Atma Frost. Parte de esa diferencia se explica porque tiene menos funciones específicas (sin slushie ni cóctel dedicados) y un respaldo de opiniones más chico ({{reviews:MLA62665909}} calificaciones)." },
+      { question: "¿Qué garantía tiene?", answer: "2 años de fábrica, el doble que la Atma Dolce y la Atma Frost (12 meses cada una), las únicas otras fichas de esta comparativa que declaran plazo de garantía." },
+      { question: "¿Cuánta capacidad tiene?", answer: "2,6 litros, la mayor de esta comparativa: más que los 2 litros de la Atma Frost, el 1,4 L de la Ninja CREAMi y los 500 ml de la Atma Dolce." },
+      { question: "¿De qué material está hecha?", answer: "Acero inoxidable, según la ficha técnica de MercadoLibre." },
+      { question: "¿Conviene más esta o la Atma Frost?", answer: "Las dos tienen compresor y el mismo patrón de rendir mejor en bebidas que en helado. Esta cuesta {{preciodif:MLA62665909:MLA61372015}} menos y tiene más capacidad, pero la Atma Frost suma funciones dedicadas de slushie y cóctel que esta no declara." },
+    ],
+  },
+  {
+    id: "MLA76224105",
+    title: "Máquina de Helados CUK by Gadnic MHELA009 — 12 Programas, 3 Recipientes",
+    canonicalName: "CUK by Gadnic MHELA009", mpn: "MHELA009",
+    price: 579999, currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_941561-MLA115519047817_082026-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_941561-MLA115519047817_082026-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_794744-MLA115518051293_082026-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_930233-MLA114186326878_082026-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_849572-MLA115518669217_082026-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_924028-MLA115518256909_082026-F.webp",
+    ],
+    category: "Cocina", categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/maquina-para-hacer-helado-cuk-by-gadnic-700w-220v-12-programas-automaticos-display-led-2500-rpm-incluye-3-recipientes-base-antideslizante/p/MLA76224105",
+    affiliateUrl: "https://meli.la/1QCqeUY",
+    condition: "new", freeShipping: true, rating: 4.6, reviewCount: 34,
+    badge: "bestseller", pastelColor: "var(--pastel-green)",
+    specs: [
+      { label: "Marca / Modelo", value: "Gadnic / CUK MHELA009" },
+      { label: "Recipientes", value: "3 incluidos, 625 ml máximo cada uno (320 ml de mezcla congelada, 430 ml de llenado)" },
+      { label: "Potencia", value: "700 W" },
+      { label: "Voltaje", value: "220-240V, 50Hz" },
+      { label: "Velocidad", value: "2.500 RPM" },
+      { label: "Material", value: "Plástico, apto lavavajillas" },
+      { label: "Peso", value: "5,05 kg" },
+      { label: "Dimensiones", value: "40 x 26 x 19 cm" },
+      { label: "Mecanismo", value: "Precongelado: opera solo a cuchillas, sin compresor. Hay que congelar cada recipiente antes de procesar" },
+      { label: "Programas", value: "12 automáticos, incluidas funciones Mix-In y Re-Spin para ajustar la textura" },
+    ],
+    relatedProducts: ["MLA61371753", "MLA62550272", "MLA61372015", "MLA62665909", "MLA78438327"],
+    priceUpdated: "2026-10-27", priceLastChecked: "2026-10-27", priceVerifiedAt: "2026-10-27",
+    priceStatus: "fresh", reviewsSampledAt: "2026-10-27",
+    description: "La única de esta comparativa que viene con 3 recipientes incluidos: 12 programas, a {{precio:MLA76224105}} con {{reviews:MLA76224105}} calificaciones.",
+    seoTitle: "Gadnic CUK MHELA009: 12 programas, 3 potes incluidos",
+    metaDescription: "Máquina de helados CUK by Gadnic MHELA009: 12 programas, viene con 3 recipientes, hay que precongelar 24hs. Precio real y specs de MercadoLibre.",
+    verdict: "Es la única de esta comparativa que viene con **3 recipientes incluidos**, lo que resuelve de entrada el problema de \"un solo pote\" que reportan los usuarios de largo plazo de la Ninja CREAMi: podés tener 3 sabores precongelados en simultáneo sin comprar nada extra. Cuesta {{precio:MLA76224105}} con {{reviews:MLA76224105}} calificaciones a {{rating:MLA76224105}} estrellas, y declara **12 programas**, el mayor número de esta comparativa. Funciona con el mismo mecanismo de precongelado que la Atma Dolce y la Ninja CREAMi: no es instantánea.",
+    pros: [
+      "Viene con 3 recipientes incluidos, resuelve el problema del \"pote único\" de la Ninja CREAMi",
+      "12 programas, el mayor número de esta comparativa",
+      "Funciones Mix-In y Re-Spin para ajustar la textura final",
+      "Piezas aptas para lavavajillas",
+    ],
+    cons: [
+      "Hay que precongelar cada recipiente antes de procesar, igual que la Atma Dolce y la Ninja CREAMi",
+      "Pocas calificaciones todavía ({{reviews:MLA76224105}}) comparado con la Ninja CREAMi ({{reviews:MLA62550272}})",
+      "Una reseña real admite que todavía está \"aprendiendo\" a lograr la textura ideal",
+      "Cada recipiente admite menos mezcla (625 ml máximo) que el pote único de la Ninja CREAMi (1,4 L)",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", text: "Es una maravilla, mezcle yogurt natural con proteína y lo hizo helado. Ideal para hacer helados saludables." },
+      { rating: 5, country: "Argentina", text: "Hermosa, solo me falta aprender a que salga el helado más armado, estoy aprendiendo. Me da tranquilidad que comemos sano xq nos encanta el helado." },
+    ],
+    articleBody: `## Qué es la Gadnic CUK MHELA009
+
+Es una máquina de helados de precongelado (el mismo mecanismo que la Ninja CREAMi), con la diferencia de que viene con **3 recipientes incluidos** en vez de uno solo. Cuesta {{precio:MLA76224105}} y tiene {{reviews:MLA76224105}} calificaciones con {{rating:MLA76224105}} estrellas en MercadoLibre Argentina, dentro de [nuestra comparativa de las mejores máquinas de helado en Argentina](/guias/cocina/maquina-de-helados).
+
+## El mecanismo: igual que la Ninja CREAMi, pero con 3 potes de entrada
+
+Como la [Atma Dolce](/producto/maquina-de-helados-atma-dolce-icmat1010n-500-ml-10-programas-mla61371753) y la [Ninja CREAMi](/producto/maquina-de-helados-ninja-creami-nc300eu-1-4-l-7-programas-mla62550272), funciona exclusivamente a cuchillas: no tiene compresor, así que hay que congelar cada recipiente con la mezcla antes de procesarlo. La diferencia real frente a esas dos es que no viene con un solo recipiente: trae 3 de 625 ml cada uno, lo que significa que podés tener 3 sabores distintos precongelados en simultáneo. Es justo el problema que señalamos en la ficha de la Ninja CREAMi, respaldado por usuarios de largo plazo: con un solo pote, cada sabor nuevo implica esperar 24 horas más. Acá no hace falta comprar potes extra para resolverlo, al menos para empezar.
+
+## 12 programas y funciones Mix-In y Re-Spin
+
+Según su propia descripción, incluye 12 programas automáticos (helado tradicional, gelato, sorbet, yogur helado, milkshake, slushie y otras recetas congeladas), el número más alto de esta comparativa. Suma además funciones llamadas Mix-In (para incorporar trozos de fruta, chocolate o frutos secos durante el proceso) y Re-Spin (para volver a procesar y mejorar la textura), con el mismo nombre que popularizó la Ninja CREAMi.
+
+## Lo que dice la gente que la compró
+
+Con solo {{reviews:MLA76224105}} calificaciones es la que menos respaldo tiene de las 3 fichas de precongelado (contra {{reviews:MLA61371753}} de la Atma Dolce y {{reviews:MLA62550272}} de la Ninja CREAMi), algo esperable en un modelo más nuevo. Las reseñas disponibles son honestas: una compradora cuenta que logró hacer helado mezclando yogur natural con proteína, "ideal para hacer helados saludables"; otra, más cauta, admite que todavía está aprendiendo a lograr que el helado salga "más armado" pero igual valora poder comer algo más sano.
+
+## Para quién es, y para quién no
+
+Es para vos si te gusta la idea del precongelado (tipo Creami) pero no querés arrancar comprando potes extra, o si vas a preparar varios sabores en paralelo seguido.
+
+No es para vos si buscás algo instantáneo sin esperar 24 horas: ahí conviene la [Atma Frost](/producto/maquina-de-bebidas-y-helados-atma-frost-sluats01n-2-l-5-programas-mla61372015) o la [Westinghouse SIMX0023](/producto/maquina-de-helados-westinghouse-simx0023-2-6-l-compresor-mla62665909), que tienen compresor propio.`,
+    faq: [
+      { question: "¿Hay que precongelar los recipientes?", answer: "Sí, exactamente igual que la Atma Dolce y la Ninja CREAMi: no tiene compresor, funciona solo con cuchillas. Hay que congelar cada recipiente con la mezcla antes de procesarlo." },
+      { question: "¿Cuántos recipientes incluye?", answer: "3, de 625 ml de capacidad máxima cada uno (320 ml de mezcla congelada, 430 ml de llenado). Es la única de esta comparativa que no viene con un solo recipiente." },
+      { question: "¿Por qué tiene menos calificaciones que la Ninja CREAMi?", answer: "Con {{reviews:MLA76224105}} calificaciones es un modelo más nuevo en el mercado argentino; la Ninja CREAMi acumula {{reviews:MLA62550272}}. No es necesariamente un problema de calidad, pero conviene saberlo antes de comprar." },
+      { question: "¿Qué son las funciones Mix-In y Re-Spin?", answer: "Mix-In sirve para incorporar trozos de fruta, chocolate o frutos secos durante el proceso. Re-Spin vuelve a procesar la mezcla para mejorar la textura final, con el mismo nombre que popularizó la Ninja CREAMi." },
+      { question: "¿Es apta lavavajillas?", answer: "Sí, según su descripción las piezas desmontables son aptas para lavavajillas." },
+      { question: "¿Conviene más esta o la Ninja CREAMi?", answer: "Cuesta {{preciodif:MLA76224105:MLA62550272}} menos y viene con 3 recipientes en vez de uno, pero la Ninja CREAMi tiene mucho más respaldo de opiniones ({{reviews:MLA62550272}} contra {{reviews:MLA76224105}}) y mayor capacidad por recipiente (1,4 L contra 625 ml)." },
+      { question: "¿Qué trae la caja?", answer: "La máquina, 3 recipientes para preparación, un componente desmontable del sistema y el manual de usuario." },
+    ],
+  },
+  {
+    id: "MLA78438327",
+    title: "Máquina de Granizados y Helado CUK by Gadnic MHELA011 — 2 L, Compresor",
+    canonicalName: "CUK by Gadnic MHELA011", mpn: "MHELA011",
+    price: 659999, originalPrice: 745349, currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_911504-MLA115355404976_082026-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_911504-MLA115355404976_082026-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_867783-MLA115355754406_082026-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_660826-MLA115355783646_082026-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_699845-MLA115957521846_092026-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_758525-MLA115355518514_082026-F.webp",
+    ],
+    category: "Cocina", categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/maquina-de-granizados-y-helado-soft-gadnic-2l-185w-compresor-refrigerante-r290-panel-led-motor-brushless-consistencia-regulable-limpieza-automatica-acero-inoxidable-sus-304/p/MLA78438327",
+    affiliateUrl: "https://meli.la/1P3L9nH",
+    condition: "new", freeShipping: true,
+    pastelColor: "var(--pastel-coral)",
+    specs: [
+      { label: "Marca / Modelo", value: "Gadnic / CUK MHELA011" },
+      { label: "Capacidad", value: "2 litros para granizados, 1 litro para helado soft (varía según el programa)" },
+      { label: "Potencia", value: "185 W" },
+      { label: "Refrigerante", value: "R290, compresor propio" },
+      { label: "Motor", value: "Brushless" },
+      { label: "Material", value: "Acero inoxidable SUS 304" },
+      { label: "Tiempo de preparación", value: "20 a 30 minutos" },
+      { label: "Mecanismo", value: "Compresor: no hace falta precongelar ingredientes" },
+      { label: "Panel", value: "LED, con consistencia regulable" },
+      { label: "Limpieza", value: "Automática" },
+    ],
+    relatedProducts: ["MLA61371753", "MLA62550272", "MLA61372015", "MLA62665909", "MLA76224105"],
+    priceUpdated: "2026-10-27", priceLastChecked: "2026-10-27", priceVerifiedAt: "2026-10-27",
+    priceStatus: "fresh", reviewsSampledAt: "2026-10-27",
+    description: "Compresor real con gas R290, sin precongelar nada: 2 L para granizados y 1 L para helado soft, a {{precio:MLA78438327}}.",
+    seoTitle: "Gadnic CUK MHELA011: compresor R290, sin precongelar",
+    metaDescription: "Máquina de granizados y helado soft CUK by Gadnic MHELA011: compresor con gas R290, sin precongelar ingredientes. Precio real de MercadoLibre.",
+    verdict: "Es una de las tres máquinas con compresor de esta comparativa, junto a la Atma Frost y la Westinghouse SIMX0023: no hace falta precongelar nada, el gas refrigerante R290 enfría la mezcla en el momento. Cuesta {{precio:MLA78438327}} y declara **2 litros** de capacidad para granizados (1 litro para helado soft), acero inoxidable SUS 304 y limpieza automática. Es un modelo recién llegado al catálogo: todavía no acumula calificaciones en MercadoLibre Argentina, así que conviene tomar sus datos con cautela hasta que haya más compradores reales.",
+    pros: [
+      "Compresor real con gas R290, no hace falta precongelar nada",
+      "Acero inoxidable SUS 304, un grado específico que ni la Atma Frost ni la Westinghouse declaran",
+      "Consistencia regulable y limpieza automática",
+      "Pensada tanto para granizados y bebidas como para helado soft",
+    ],
+    cons: [
+      "Todavía sin calificaciones en MercadoLibre Argentina (modelo recién llegado, +25 vendidos)",
+      "Tiempo de preparación de 20 a 30 minutos, no es instantánea en el sentido literal",
+      "Es la segunda más cara de esta comparativa",
+      "La capacidad cambia según el programa: 2 L para granizados pero solo 1 L para helado soft",
+    ],
+    articleBody: `## Qué es la Gadnic CUK MHELA011
+
+Es una de las tres máquinas con compresor de esta comparativa (junto a la [Atma Frost](/producto/maquina-de-bebidas-y-helados-atma-frost-sluats01n-2-l-5-programas-mla61372015) y la [Westinghouse SIMX0023](/producto/maquina-de-helados-westinghouse-simx0023-2-6-l-compresor-mla62665909)): no hay que precongelar nada, un compresor con gas refrigerante R290 enfría la mezcla mientras la bate. Cuesta {{precio:MLA78438327}} en MercadoLibre Argentina, dentro de [nuestra comparativa de las mejores máquinas de helado en Argentina](/guias/cocina/maquina-de-helados).
+
+## El mecanismo: compresor real, pensado para granizados y bebidas
+
+La propia descripción del producto lo compara directamente contra las máquinas de precongelado: mientras esas dependen de congelar un recipiente 24 horas antes, esta usa refrigeración directa por compresor para preparar la mezcla al momento, sin hielo ni recipientes precongelados. Declara 2 litros de capacidad para granizados y 1 litro para helado soft (la capacidad cambia según el programa), con motor brushless y panel LED para ajustar la consistencia. El tiempo de preparación declarado es de 20 a 30 minutos, más parecido al de la Westinghouse SIMX0023 que al de la Atma Frost.
+
+## Todavía sin reseñas: hay que tomarlo con cautela
+
+A diferencia de las otras 5 fichas de esta comparativa, que ya tienen calificaciones reales, esta es un modelo recién llegado al catálogo de MercadoLibre Argentina y **todavía no acumula ninguna reseña**, pese a tener más de 25 unidades vendidas. No podemos confirmar todavía si comparte el mismo patrón que encontramos en la Atma Frost y la Westinghouse (mejor para bebidas que para helado): comparte familia de mecanismo con esas dos, pero esa es una pregunta que solo las reseñas reales van a poder responder con el tiempo. Mientras tanto, si priorizás un historial de opiniones comprobado, la Atma Frost o la Westinghouse tienen mucho más respaldo.
+
+## Para quién es, y para quién no
+
+Es para vos si te interesa el material (acero inoxidable SUS 304, un grado específico que ni la Atma Frost ni la Westinghouse declaran) y no te molesta ser de los primeros compradores de un modelo sin historial de reseñas todavía.
+
+No es para vos si preferís comprar algo con reseñas reales que confirmen el resultado: ahí la [Atma Frost](/producto/maquina-de-bebidas-y-helados-atma-frost-sluats01n-2-l-5-programas-mla61372015) ({{reviews:MLA61372015}} calificaciones) o la [Westinghouse SIMX0023](/producto/maquina-de-helados-westinghouse-simx0023-2-6-l-compresor-mla62665909) ({{reviews:MLA62665909}} calificaciones) ya tienen reseñas reales acumuladas.`,
+    faq: [
+      { question: "¿Hay que precongelar los ingredientes?", answer: "No, tiene compresor propio con gas R290: enfría y bate la mezcla al mismo tiempo, igual que la Atma Frost y la Westinghouse SIMX0023." },
+      { question: "¿Por qué no tiene calificaciones todavía?", answer: "Es un modelo recién llegado al catálogo de MercadoLibre Argentina. Tiene más de 25 unidades vendidas pero, al momento de esta comparativa, todavía ninguna reseña publicada." },
+      { question: "¿Cuánta capacidad tiene?", answer: "2 litros para granizados y 1 litro para helado soft; la capacidad cambia según el programa que uses." },
+      { question: "¿Cuánto tarda en preparar algo?", answer: "Entre 20 y 30 minutos, según su propia descripción." },
+      { question: "¿De qué material está hecha?", answer: "Acero inoxidable SUS 304, un grado específico que ni la Atma Frost ni la Westinghouse declaran en sus propias fichas." },
+      { question: "¿Es mejor para bebidas o para helado, como la Atma Frost?", answer: "Todavía no hay reseñas reales para confirmarlo. Por su mecanismo (compresor, sin precongelar) comparte familia con la Atma Frost y la Westinghouse, que sí reportan mejor resultado en bebidas que en helado, pero no podemos confirmar si esta máquina repite el mismo patrón." },
+      { question: "¿Conviene más esta o la Atma Frost?", answer: "Cuesta {{preciodif:MLA78438327:MLA61372015}} más y no tiene reseñas todavía, pero suma motor brushless, acero inoxidable SUS 304 y limpieza automática que la Atma Frost no declara." },
+    ],
+  },
+];
+
+curatedProducts.push(...curatedProductsMaquinasHelado);
+
 export const categoryPastels: Record<string, string> = {
   cocina: 'var(--pastel-coral)',
   hogar: 'var(--pastel-amber)',
