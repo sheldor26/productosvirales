@@ -1,19 +1,21 @@
 import type { Coupon } from "@/lib/types";
 
-// Un solo cupón, y el piso vuelve a bajar al tramo chico:
-//   >= $80.000      -> MODONUBE ($8.000)
-//   menos de $80k   -> sin badge
-// Ayer la mínima era $250.000 (MELIBONUS) y hoy baja a $80.000: entran muchos
-// más productos, pero el de ticket alto cobra $8.000 en vez de $25.000.
-// Desde el 17/10 vienen mandando uno solo por día y rotando el tramo sin
-// patrón previsible, así que nunca asumir el monto antes del mensaje.
+// Tramo nuevo, no visto antes en la serie: $10.000 con mínima $100.000.
+//   >= $100.000     -> TUCUPON ($10.000)
+//   menos de $100k  -> sin badge
+//
+// OJO con la vigencia: el mensaje llegó de noche ("cerramos la jornada de
+// hoy") y NO dice hasta cuándo vale, a diferencia de todos los anteriores que
+// aclaraban "hoy de 9:00 a 23:59". Se asume el mismo corte de siempre (hoy
+// 23:59) porque es preferible que el badge desaparezca de más y no que prometa
+// un descuento que el carrito rechaza. Sin `validFrom`: ya está activo.
 export const activeCoupons: Coupon[] = [
   {
-    code: "MODONUBE",
-    discountAmount: 8000,
-    minPurchase: 80000,
-    validFrom: "2026-10-23T09:00:00-03:00",
-    validUntil: "2026-10-23T23:59:00-03:00",
+    code: "TUCUPON",
+    discountAmount: 10000,
+    minPurchase: 100000,
+    validFrom: null,
+    validUntil: "2026-10-28T23:59:00-03:00",
     active: true,
   },
 ];
