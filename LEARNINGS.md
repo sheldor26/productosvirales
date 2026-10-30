@@ -16,6 +16,82 @@
 **Archivos involucrados:** `path/a/archivo.ts`
 -->
 
+## 2026-10-30 — Expandir una lista de "los mejores" rompe cualquier superlativo que no esté acotado al subconjunto correcto
+
+**Qué funcionó (otra vez, la lección salió de un error atrapado a tiempo):** al expandir la guía de
+Black Friday de 6 a 19 productos (pedido explícito de Juan: "no de unos 4 productos aislados"), dos
+frases que habían sido ciertas en la versión chica ("la más opinada de toda esta guía", "el tercer
+producto con más reseñas de toda esta guía") quedaron falsas al sumar más productos: el bloque de
+"cuidado" (Balanza Femmto, 83.087 reseñas) y otro producto del ranking (DualSense, 64.231) pasaron a
+tener más reseñas que los que hacían el claim. La auditoría externa (Gemini) lo atrapó cruzando el
+`reviewCount` real de cada producto citado contra el superlativo de la frase.
+
+**Por qué:** es la misma familia de bug que ya está documentada en memoria global
+(`superlativo-se-rompe-al-sumar-un-producto`), pero esta vez no fue al sumar un producto a una guía
+de ranking fijo, sino al expandir una lista editorial completa: cualquier frase tipo "el más X de
+esta guía/categoría/comparativa" es una afirmación que depende del universo exacto que se está
+comparando, y ese universo cambió a mitad de sesión. El bug no se nota en la escritura, solo al
+cruzar cada número contra todos los demás números de la misma página.
+
+**Cuándo aplicarlo:** cada vez que se agregan productos a una lista ya escrita (no solo al crearla
+de cero), grepear todos los superlativos de esa guía ("más", "mayor", "el único", "el más barato
+de") y volver a verificar cada uno contra el universo nuevo, no solo contra el puñado de productos
+que se acaban de agregar. Si el superlativo es real solo dentro de un subconjunto (ej. "los que
+están en buen precio" vs. "todos los productos de la guía"), acotar la frase a ese subconjunto en
+vez de a "toda la guía".
+
+**Archivos involucrados:** `src/data/guides.ts`
+
+## 2026-10-30 — Construir un token nuevo ({{preciomin:ID}}) en vez de tipear "está en su mínimo" a mano
+
+**Qué funcionó:** para la guía de Black Friday + CyberMonday, el ángulo central era "¿el precio
+bajó de verdad?", y afirmarlo en prosa sin un dato vivo detrás hubiera sido exactamente el tipo de
+claim que la guía pide desconfiar. En vez de escribir el mínimo histórico a mano, se agregaron dos
+tokens nuevos a `src/lib/price-token.ts` ({{preciomin:ID}} y {{preciominfecha:ID}}), que resuelven
+en vivo contra `price-history.json` con el mismo criterio de honestidad que {{precio:ID}} (si no
+hay historial, el token queda visible). Se extendió `scripts/check-price-tokens.cjs` para
+validarlos. El resultado: la guía puede decir "está en su mínimo" y que sea cierto hoy, el mes que
+viene y en cualquier Black Friday futuro, sin que nadie tenga que acordarse de actualizarla a mano.
+
+**Por qué:** el patrón ya existía para precio actual, reseñas y rating — faltaba la pieza para
+"mínimo histórico", que es exactamente el dato que un evento de ofertas necesita citar de forma
+honesta y perdurable. Construir la pieza que falta (en vez de tipear el número una vez) es la
+diferencia entre una guía que envejece mal y una que se puede reutilizar año tras año.
+
+**Cuándo aplicarlo:** cualquier guía que necesite citar un dato histórico/derivado (no el precio de
+hoy, sino "cuánto bajó", "cuál fue el pico", etc.) y vaya a reutilizarse en el tiempo. Antes de
+tipear el número, preguntarse si existe el dato vivo en algún lado del sitio (`price-history.ts`,
+`analyzePriceHistory`) y, si no hay token para exponerlo en prosa, es más barato construirlo que
+mantenerlo a mano.
+
+**Archivos involucrados:** `src/lib/price-token.ts`, `scripts/check-price-tokens.cjs`
+
+## 2026-10-30 — Un token que resuelve bien igual puede quedar mal usado en la prosa: revisar el render final, no solo que el token exista
+
+**Qué funcionó (la lección, en realidad, salió de un error atrapado a tiempo):** al escribir los 4
+productos "en su mínimo" de la guía de Black Friday, una de las descripciones decía "hoy cuesta
+{{preciomin:ID}}" en vez de "{{precio:ID}}" — el token resolvía perfecto (sin typo, sin ID roto,
+`guides:check` en verde), pero estaba mal elegido: mostraba el mínimo histórico como si fuera el
+precio de hoy. Para 3 de los 4 productos los dos valores coincidían (estaban exactos en su mínimo),
+así que el error no se notaba. Para el cuarto (Smart TV TCL, a +2,6% de su mínimo) el render mostró
+un número distinto al que decía la prosa de al lado ("el mismo precio que tiene hoy" al lado de dos
+cifras distintas). Lo atrapó una auditoría externa (Codex) en la primera pasada, no la revisión
+propia inicial.
+
+**Por qué:** `guides:check` valida que un token apunte a un producto real con el dato que promete
+(precio, mínimo, reseñas), pero no puede saber si ese es el token *correcto* para lo que la frase
+de al lado está afirmando — eso es un juicio editorial, no mecánico. Cuando dos tokens resuelven a
+veces al mismo número (precio actual == mínimo histórico), el error queda invisible hasta que algún
+caso real los separa.
+
+**Cuándo aplicarlo:** siempre que una guía tenga varios productos con el mismo patrón de prosa
+("hoy cuesta X", "está en su mínimo"), revisar el render final (navegador, no solo el código) de
+*cada* producto, no solo del primero o de uno al azar — el bug se esconde justo en el caso que no
+coincide por casualidad. Mejor todavía: diseñar el texto para que cada tipo de dato (precio actual
+vs. mínimo histórico) tenga su propio token inconfundible y usarlos con disciplina, no de memoria.
+
+**Archivos involucrados:** `src/data/guides.ts` (guía `black-friday-cybermonday-argentina`)
+
 ## 2026-09-21 — Para el rating/reviewCount real de un producto, mirar la sección "Opiniones del producto", no el badge de arriba
 
 **Qué funcionó:** al refrescar productos en el checklist SEO del 21/9, verificar el rating/cantidad

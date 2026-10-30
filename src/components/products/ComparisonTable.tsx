@@ -99,9 +99,16 @@ export function ComparisonTable({ products, onRemove, onClear }: ComparisonTable
                 </div>
 
                 {p.bestPrice && (
-                  <span className="mt-1 inline-flex items-center gap-1 text-[10px] font-medium text-[var(--color-trending-up)]">
+                  <span
+                    className="mt-1 inline-flex items-center gap-1 text-[10px] font-medium text-[var(--color-trending-up)]"
+                    title={
+                      p.isExactMin
+                        ? "El precio de hoy es el más bajo que le registramos a este producto."
+                        : "El precio de hoy está a 5% o menos de su mínimo registrado."
+                    }
+                  >
                     <TrendingDown size={10} />
-                    Mínimo histórico
+                    {p.isExactMin ? "Mínimo histórico" : "Cerca de su mínimo"}
                   </span>
                 )}
 

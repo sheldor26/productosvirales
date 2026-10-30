@@ -15,9 +15,16 @@ const path = require("node:path");
 const ROOT = path.join(__dirname, "..");
 const GUIDES = path.join(ROOT, "src", "data", "guides.ts");
 const PRODUCTS = path.join(ROOT, "src", "data", "curated-products.ts");
+const PRICE_HISTORY = path.join(ROOT, "src", "data", "price-history.json");
 
 const guidesSrc = fs.readFileSync(GUIDES, "utf8");
 const productsSrc = fs.readFileSync(PRODUCTS, "utf8");
+const priceHistory = JSON.parse(fs.readFileSync(PRICE_HISTORY, "utf8"));
+// Mismo piso que analyzePriceHistory() en src/lib/price-history.ts: hace falta
+// al menos 2 puntos para un mínimo honesto.
+const withHistory = new Set(
+  Object.keys(priceHistory).filter((id) => (priceHistory[id] ?? []).length >= 2)
+);
 
 // IDs de producto que tienen precio > 0 (misma lógica de parseo que el backfill).
 const priced = new Set();
@@ -81,15 +88,33 @@ function recolectar(re) {
 }
 const usedReviews = recolectar(/\{\{\s*reviews:([A-Za-z0-9]+)\s*\}\}/g);
 const usedRating = recolectar(/\{\{\s*rating:([A-Za-z0-9]+)\s*\}\}/g);
+const usedPriceMin = recolectar(/\{\{\s*preciomin:([A-Za-z0-9]+)\s*\}\}/g);
+const usedPriceMinFecha = recolectar(/\{\{\s*preciominfecha:([A-Za-z0-9]+)\s*\}\}/g);
 
 const broken = [...new Set(used)].filter((id) => !priced.has(id));
 const brokenPairs = usedPairs.filter(([a, b]) => !priced.has(a) || !priced.has(b));
 const brokenReviews = [...new Set(usedReviews)].filter((id) => !withReviews.has(id));
 const brokenRating = [...new Set(usedRating)].filter((id) => !withRating.has(id));
+const brokenPriceMin = [...new Set(usedPriceMin)].filter((id) => !priced.has(id) || !withHistory.has(id));
+const brokenPriceMinFecha = [...new Set(usedPriceMinFecha)].filter((id) => !priced.has(id) || !withHistory.has(id));
 
 console.log(`Tokens de precio encontrados: ${used.length} (${new Set(used).size} productos distintos)`);
 console.log(`Tokens de diferencia encontrados: ${usedPairs.length}`);
 console.log(`Tokens de reseñas encontrados: ${usedReviews.length} | de rating: ${usedRating.length}`);
+console.log(`Tokens de mínimo histórico encontrados: ${usedPriceMin.length} | de fecha de mínimo: ${usedPriceMinFecha.length}`);
+
+if (brokenPriceMin.length > 0 || brokenPriceMinFecha.length > 0) {
+  if (brokenPriceMin.length > 0) {
+    console.error(`\n✖ ${brokenPriceMin.length} token(s) {{preciomin:ID}} sin precio o sin historial (≥2 chequeos):`);
+    for (const id of brokenPriceMin) console.error(`   {{preciomin:${id}}}`);
+  }
+  if (brokenPriceMinFecha.length > 0) {
+    console.error(`\n✖ ${brokenPriceMinFecha.length} token(s) {{preciominfecha:ID}} sin precio o sin historial (≥2 chequeos):`);
+    for (const id of brokenPriceMinFecha) console.error(`   {{preciominfecha:${id}}}`);
+  }
+  console.error(`\nRevisá el/los ID en curated-products.ts o en price-history.json.`);
+  process.exit(1);
+}
 
 if (brokenReviews.length > 0 || brokenRating.length > 0) {
   if (brokenReviews.length > 0) {

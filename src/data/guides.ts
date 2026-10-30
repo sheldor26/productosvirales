@@ -2848,7 +2848,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
 
       { type: "h3", title: `1. Kotion Each G9000 — el más vendido` },
       { type: "product-card", productMlaId: "MLA9406415", label: "El más vendido", labelColor: "green", ranking: 1, description: `Con cable, micrófono y luz LED, al precio más bajo. 4.6 estrellas en {{reviews:MLA9406415}} calificaciones: los auriculares gamer más vendidos del país.` },
-      { type: "p", content: `Si querés entrar al gaming con micrófono y buen sonido sin gastar casi nada, son estos. Los Kotion Each G9000 son **los más vendidos del país por amplio margen** ({{reviews:MLA9406415}} opiniones, un número que ninguno se acerca) y cuestan alrededor de $41.000, con cable, micrófono y luz LED. Para jugar en la PC o la consola y hablar con el equipo, cumplen de sobra.` },
+      { type: "p", content: `Si querés entrar al gaming con micrófono y buen sonido sin gastar casi nada, son estos. Los Kotion Each G9000 son **los más vendidos del país por amplio margen** ({{reviews:MLA9406415}} opiniones, un número que ninguno se acerca) y cuestan alrededor de {{precio:MLA9406415:k}}, con cable, micrófono y luz LED. Para jugar en la PC o la consola y hablar con el equipo, cumplen de sobra.` },
       { type: "p", content: `Lo honesto que sale en las reseñas: el micrófono es omnidireccional, así que levanta ruido de fondo y no es de estudio (aunque el tono de voz en sí está bien valorado para el precio), y son auriculares de entrada, no de competición seria. Pero por lo que salen y la montaña de gente conforme, son la compra más segura para arrancar.` },
       { type: "pull-quote", content: `"Superó mis expectativas, muy cómodo y con buen sonido. Lo uso en la PS4 y en la PC y anda fenomenal."`, attribution: `Opinión verificada en MercadoLibre` },
 
@@ -2860,7 +2860,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
 
       { type: "h3", title: `3. Logitech G435 — el mejor inalámbrico accesible` },
       { type: "product-card", productMlaId: "MLA18651915", label: "Inalámbrico accesible", labelColor: "blue", ranking: 3, description: `Inalámbrico (Bluetooth y 2.4 GHz), livianísimo (165 g) y de marca de primera. 4.7 estrellas en {{reviews:MLA18651915}} calificaciones.` },
-      { type: "p", content: `Si querés cortar el cable sin irte a precio premium, el Logitech G435 es el inalámbrico accesible más elegido ({{reviews:MLA18651915}} opiniones). Es **muy liviano** (165 g, casi no lo sentís), se conecta por **Bluetooth y 2.4 GHz** (PC, consolas y celular) y trae la calidad de Logitech G, a alrededor de $150.000. La libertad del inalámbrico de una marca seria sin pagar de más.` },
+      { type: "p", content: `Si querés cortar el cable sin irte a precio premium, el Logitech G435 es el inalámbrico accesible más elegido ({{reviews:MLA18651915}} opiniones). Es **muy liviano** (165 g, casi no lo sentís), se conecta por **Bluetooth y 2.4 GHz** (PC, consolas y celular) y trae la calidad de Logitech G, a alrededor de {{precio:MLA18651915:k}}. La libertad del inalámbrico de una marca seria sin pagar de más.` },
       { type: "p", content: `No tiene tantos graves ni la construcción de los premium, pero para la mayoría que quiere inalámbrico cómodo y de marca, es el punto justo. Si querés inalámbrico gastando menos, mirá el Redragon de abajo; si querés el premium, el G733.` },
 
       { type: "h3", title: `4. HyperX Cloud — el clásico cómodo` },
@@ -8675,6 +8675,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     h1: "Pava eléctrica en MercadoLibre: guía para no equivocarte",
     publishedDate: "2026-05-02",
     updatedDate: "2026-08-31",
+    sitemapLastmod: "2026-10-30",
     hasDisclosure: true,
     standfirst: "MercadoLibre tiene cientos de modelos de pava eléctrica, con vendedores oficiales y otros que no lo son. Te contamos cómo comprar sin que te estafen y cuáles son las mejores ofertas verificadas.",
     quickPicks: [
@@ -8805,7 +8806,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       {
         type: "p",
         content:
-          "Hot Sale (mayo): descuentos reales 10-20%. Black Friday/Cyber Monday (noviembre): 15-25%. Trampa en ambos: inflan precio antes y luego \"descuentan\" a precio normal. Cómo verificar: usar \"Evolución de precio\" en la publicación. Si el precio subió antes de la fecha y \"bajó\" justo a lo que estaba, no es un descuento real.",
+          "Hot Sale (mayo): descuentos reales 10-20%. [Black Friday/Cyber Monday](/guias/hogar/black-friday-cybermonday-argentina) (noviembre): 15-25%. Trampa en ambos: inflan precio antes y luego \"descuentan\" a precio normal. Cómo verificar: usar \"Evolución de precio\" en la publicación. Si el precio subió antes de la fecha y \"bajó\" justo a lo que estaba, no es un descuento real.",
       },
 
       { type: "h2", title: "Veredicto: cuándo comprar acá", id: "veredicto" },
@@ -13608,7 +13609,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     directAnswer: `Las freidoras de aire Atma tienen buenas opiniones: los modelos que se consiguen hoy están en **4.8 o 4.9 estrellas**, y entre todos suman más de 15.000 calificaciones en MercadoLibre. Un cambio importante: al 2026-10-27, **ningún vendedor tiene en stock en Mercado Libre Argentina la línea FR248 de 8 litros** (ni la blanca FR248AWP ni la negra FR248ABP, verificado en vivo, "Este producto no está disponible" sin otra variante a la que saltar). Mercado Libre le asigna hoy la insignia de más vendida en control táctil a la **[Atma FR246AWP de 6 litros](/producto/freidora-de-aire-atma-fr246awp-6-litros-1-75-kw-blanca-con-ventana-mla39932833)**, con {{reviews:MLA39932833}} opiniones y {{rating:MLA39932833}} estrellas, a {{precio:MLA39932833}}: es prácticamente la misma máquina que la de 8 litros (mismo motor de 1,75 kW, misma ventana transparente), en un cuerpo más chico. Para más litros hay que pasar a la doble canasta FRD248AP. Una contra a tener en cuenta: son ruidosas, sobre todo la doble canasta. Atma cumple, pero no es de las marcas silenciosas.`,
     publishedDate: "2026-04-18",
     updatedDate: "2026-10-27",
-    sitemapLastmod: "2026-10-27",
+    sitemapLastmod: "2026-10-30",
     hasDisclosure: true,
     standfirst: `Comparamos los modelos de Atma disponibles hoy en Argentina: capacidad, consumo y para quién sirve cada uno, según precio, presupuesto y espacio en la mesada.`,
     quickPicks: [
@@ -13662,7 +13663,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
         `[Atma FR901DP Grill 6.3L en Mercado Libre](https://meli.la/1gGXWsc)`,
         `[Atma Pro Doble FRD248AP 8.5L en Mercado Libre](https://meli.la/2aw3uVJ)`,
       ]},
-      { type: "p", content: `Generalmente en Black Friday y a fin de año hay descuentos interesantes. Si no te apura, es buen momento para esperar.` },
+      { type: "p", content: `Generalmente en [Black Friday](/guias/hogar/black-friday-cybermonday-argentina) y a fin de año hay descuentos interesantes. Si no te apura, es buen momento para esperar.` },
       { type: "h2", title: `Pros y contras generales de las freidoras Atma` },
       { type: "p", content: `Ventajas:` },
       { type: "list", items: [
@@ -15637,6 +15638,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     h1: "Perfumes árabes precio 2026: qué cuesta cada marca en Argentina",
     publishedDate: "2026-04-17",
     updatedDate: "2026-06-26",
+    sitemapLastmod: "2026-10-30",
     hasDisclosure: true,
     intro: [
       "La pregunta que me llega más seguido es esta: cuánto cuestan realmente los perfumes árabes. Y la respuesta corta es que depende de la marca, la concentración y el importador. La respuesta larga es este artículo, con rangos actualizados a 2026 y lo que conviene para cada presupuesto."
@@ -15867,7 +15869,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       },
       {
         type: "p",
-        content: "Las temporadas de ofertas son Hot Sale (mayo) y Black Friday (noviembre). En esas dos ventanas es cuando los importadores mueven stock con descuento real, no marketing."
+        content: "Las temporadas de ofertas son Hot Sale (mayo) y [Black Friday](/guias/hogar/black-friday-cybermonday-argentina) (noviembre). En esas dos ventanas es cuando los importadores mueven stock con descuento real, no marketing."
       },
       {
         type: "p",
@@ -21547,7 +21549,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { type: "list", items: [
         `**Alrededor de {{precio:MLA15705813:k}}:** la franja accesible. La [Dolce Gusto Piccolo XS](https://meli.la/1f93McA), la de cápsulas más vendida y probada del país.`,
         `**Alrededor de {{precio:MLA24730361:k}}:** el espresso Nespresso. La [Essenza Mini](https://meli.la/1g3EDxT) compacta, la entrada a la línea con la mejor relación.`,
-        `**Más de $500.000:** la multisistema. La [Smartlife 3 en 1](https://meli.la/1soScPB) que acepta Nespresso, Dolce Gusto y café molido, con espumador.`,
+        `**Alrededor de {{precio:MLA28314113:k}}:** la multisistema. La [Smartlife 3 en 1](https://meli.la/1soScPB) que acepta Nespresso, Dolce Gusto y café molido, con espumador.`,
         `**No te olvides de las cápsulas:** el costo real es máquina más cápsulas. Calculá cuántos cafés tomás por día antes de elegir el sistema.`,
       ] },
 
@@ -27373,6 +27375,175 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
   },
 
   // ─────────────────────────────────────────────────────────
+  // Guía nueva black-friday-cybermonday-argentina — silo "hogar", categoría
+  // fechas-especiales (mismo contenedor que dia-de-la-madre-argentina,
+  // dia-del-nino-argentina y regalos-de-navidad-argentina). Origen: backlog
+  // docs/keywords-backlog.md tanda 8 (2026-08-20) — las keywords de fecha
+  // sola ("cuándo es el Black Friday") las come el AI Overview y pierden
+  // contra Frávega/medios grandes (DA 78-93), confirmado con SERP real. El
+  // único ángulo que sobrevive es "¿el descuento es real?", apoyado en datos
+  // propios de price-history.json que ni el AIO ni los retailers pueden
+  // replicar. Fechas verificadas en vivo el 2026-10-30 (WebSearch, múltiples
+  // medios argentinos independientes: Black Friday viernes 27/11/2026;
+  // CyberMonday organizado por CACE, lunes 2 a miércoles 4/11/2026 — ya casi
+  // sin ventana de indexación para esta edición, pero la guía queda armada
+  // para reutilizarse cada año). Para sostener el ángulo sin tipear precios
+  // a mano que se desactualizan, se agregaron los tokens "preciomin" y
+  // "preciominfecha" a src/lib/price-token.ts (resuelven en vivo contra
+  // price-history.json, mismo criterio de honestidad que el token "precio").
+  // Los 6 productos citados (4 "sí bajaron de verdad" + 2 "cuidado, están en
+  // su máximo") salen de un barrido real de los 987 productos con historial:
+  // sin inventar ningún caso, son los que el propio dato mostró.
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "black-friday-cybermonday-argentina",
+    category: "fechas-especiales",
+    silo: "hogar",
+    title: `Black Friday y CyberMonday Argentina 2026: cómo saber si el precio es real`,
+    h1: `Black Friday y CyberMonday Argentina 2026 — cómo saber si el precio bajó de verdad`,
+    seoTitle: `Black Friday y CyberMonday 2026: ¿el descuento es real?`,
+    metaDescription: `Black Friday es el 27 de noviembre y CyberMonday del 2 al 4. Te mostramos cómo comprobar con datos reales si un precio bajó de verdad antes de comprar.`,
+    ogTitle: `Black Friday Argentina: ¿bajó de precio de verdad?`,
+    ogDescription: `Comprobamos con el historial real de precios si la "oferta" es una baja de verdad o solo lo parece. Cuándo es cada evento y 19 ejemplos reales de todos los rubros, ahora mismo.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_2X_675525-MLA99461311188_112025-F.webp`,
+    publishedDate: "2026-10-30",
+    updatedDate: "2026-10-30",
+    hasDisclosure: true,
+    standfirst: `El Black Friday 2026 en Argentina es el viernes 27 de noviembre; el CyberMonday, organizado por la CACE, va del lunes 2 al miércoles 4 de noviembre. Antes de guiarte por el cartel de "oferta", te mostramos cómo comprobar vos mismo si el precio bajó de verdad, con el historial real de productos de todos los rubros del sitio: 14 que hoy están en su mínimo registrado o muy cerca, y 5 que no, en cocina, climatización, gaming, audio, hogar, deportes, seguridad, salud y mascotas.`,
+    directAnswer: `El **Black Friday 2026** en Argentina es el **viernes 27 de noviembre**. El **CyberMonday 2026**, organizado por la Cámara Argentina de Comercio Electrónico (CACE), va del **lunes 2 al miércoles 4 de noviembre**. Lo que importa más que la fecha es si el precio bajó de verdad: un precio "de oferta" solo vale si está cerca de su mínimo histórico real, no de un precio inflado unos días antes. Más abajo mostramos 19 productos reales de todos los rubros del sitio: los que hoy están en su mínimo histórico o cerca, y los que no, con el dato a la vista.`,
+    quickPicks: [
+      { productMlaId: "MLA31178643", label: "Mínimo histórico real", labelColor: "purple", tagline: "Lattafa Khamrah Qahwa: en su mínimo exacto, con envío gratis" },
+      { productMlaId: "MLA20657750", label: "Mínimo histórico real", labelColor: "blue", tagline: "Roomba 692: nunca estuvo más barata que ahora en nuestro seguimiento" },
+      { productMlaId: "MLA24601443", label: "Mínimo histórico real", labelColor: "amber", tagline: "Pava eléctrica Philips: también en su piso de precio" },
+      { productMlaId: "MLA49197748", label: "Cerca de su mínimo histórico", labelColor: "green", tagline: "Smart TV TCL 43\" QLED: apenas por encima de su precio más bajo registrado" },
+    ],
+    intro: [
+      `Todos los años pasa lo mismo: llega el Black Friday, los carteles rojos se multiplican, y una parte de esos "hasta 50% OFF" son sobre un precio que subió unos días antes para poder "bajarlo" después. No es una costumbre exclusiva de Argentina ni de MercadoLibre: es la práctica más vieja del comercio online en todo el mundo, y la razón por la que cada vez más gente desconfía de la fecha entera.`,
+      `Acá no te pedimos que confíes en el cartel. Seguimos el precio real de cientos de productos en MercadoLibre Argentina a lo largo de varios meses, así que en vez de decirte "creenos", te mostramos el historial. Primero las fechas, después el truco a evitar, y al final 19 casos reales de todos los rubros del sitio: 14 productos que hoy están efectivamente en su precio más bajo registrado o muy cerca, y 5 que no, aunque el cartel diga lo que diga.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_675525-MLA99461311188_112025-F.webp", alt: `Smart TV TCL 43 pulgadas QLED Pro, uno de los productos que hoy está cerca de su precio más bajo registrado antes del Black Friday 2026`, imageSize: "hero" },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo armamos esta guía:** seguimos el precio real de más de 900 productos en MercadoLibre Argentina con chequeos periódicos a lo largo de varios meses de 2026, guardando cada valor con su fecha. Los veredictos de esta guía ("está en su mínimo", "está en su máximo") salen de ese historial real, no de una estimación. Un producto necesita al menos 2 chequeos registrados para que el cálculo sea honesto.` },
+
+      { type: "h2", title: `Cuándo es el Black Friday y el CyberMonday 2026 en Argentina`, id: "cuando-es" },
+      { type: "p", content: `El **Black Friday** nació en Estados Unidos como el viernes después de Acción de Gracias, y en 2026 cae el **viernes 27 de noviembre**. En Argentina no lo organiza una sola entidad: lo toman de forma informal la mayoría de las tiendas online y MercadoLibre, cada una con sus propias fechas y reglas, así que conviene revisar las condiciones de cada vendedor en particular.` },
+      { type: "p", content: `El **CyberMonday**, en cambio, sí tiene organizador oficial en Argentina: lo arma la Cámara Argentina de Comercio Electrónico (CACE) desde su sitio cybermonday.com.ar, con sello oficial para las tiendas que lo cumplen. La edición 2026 va del **lunes 2 al miércoles 4 de noviembre**, con más de 800 marcas participantes (las fuentes varían entre 800 y 1.000+ según el corte). Participar no obliga a la marca a extender el descuento a sus locales físicos, aunque varias lo hacen.` },
+      { type: "callout", calloutVariant: "tip", content: `Este año el orden es poco intuitivo: el **CyberMonday (2 al 4 de noviembre) llega primero**, y el **Black Friday (27 de noviembre) casi un mes después**. Las fechas cambian cada año, así que si estás leyendo esto en otra temporada, confirmá el calendario vigente antes de planificar una compra grande.` },
+
+      { type: "h2", title: `El truco más viejo: subir el precio antes para "bajarlo" después`, id: "truco-precio-inflado" },
+      { type: "p", content: `El mecanismo es simple y está documentado en todo el mundo, no solo en Argentina: unos días o semanas antes de la fecha de ofertas, el precio de un producto sube. El día de la "oferta", baja de nuevo, pero apenas hasta el precio que ya tenía antes de la suba, o incluso más arriba. El cartel dice "30% OFF" y es matemáticamente cierto, pero compara contra un precio que nadie pagó nunca de verdad.` },
+      { type: "p", content: `Tiene nombre: en psicología del consumidor se llama **efecto ancla**. El cerebro no calcula el valor real de un producto, se agarra de la primera cifra que ve (el precio "antes") para decidir si algo es barato. Cuanto más alta es esa ancla, más barata parece la rebaja, aunque el precio final sea el mismo de siempre.` },
+      { type: "p", content: `La única forma de desarmar el truco es mirar más atrás que la semana previa al evento. Un precio "de oferta" solo vale algo si está cerca del **mínimo real** de los últimos meses, no del precio que tenía la publicación hace diez días.` },
+      { type: "callout", calloutVariant: "warning", calloutTitle: "Dos trampas frecuentes en Black Friday y Cyber Monday", content: `**Producto señuelo:** algunas marcas sacan una versión levemente inferior de un modelo (un puerto menos, una pantalla más chica) específicamente para fechas de ofertas; el nombre cambia apenas una letra o un número. Comparás contra el "precio de siempre" de un producto distinto. **Descuento fantasma:** bajan el precio del producto pero suben el costo de envío o el seguro por el mismo monto; el total que pagás no cambió, pero tu atención quedó en el precio tachado.` },
+
+      { type: "h2", title: `Cómo comprobarlo vos mismo antes de comprar`, id: "como-comprobar" },
+      { type: "list", boxed: true, items: [
+        `**Mirá el historial, no el cartel.** Si la publicación de MercadoLibre tiene gráfico de precio histórico, revisalo antes de decidir. Nosotros hacemos este seguimiento para los productos de nuestras guías, y lo mostramos abajo.`,
+        `**Desconfiá de los descuentos redondos y altísimos.** Un "70% OFF" en un electrodoméstico de marca reconocida es una señal para revisar el historial antes de confiar en el cartel: ese tipo de porcentaje rara vez sale de un precio real.`,
+        `**Compará contra el precio de hace 2-3 meses, no de la semana pasada.** Si herramientas como Keepa o CamelCamelCamel (pensadas para Amazon, no para MercadoLibre) o el propio historial de la publicación muestran que el precio "de oferta" ya estuvo ahí en agosto o septiembre, no bajó: volvió.`,
+        `**Confirmá que sea el mismo modelo exacto, no una versión "especial edición Black Friday".** Si el nombre o el código cambió aunque sea una letra, puede ser un producto distinto por dentro, no el mismo a mejor precio.`,
+        `**El envío gratis también es precio.** Un producto con el mismo precio pero que pasa a cobrar envío no bajó, aunque el cartel diga "oferta".`,
+        `**Aplicá la regla de las 24 horas.** Si una oferta no estaba en tu lista antes de entrar a comprar, esperá un día antes de confirmar. Si al día siguiente ya no la necesitás, te ahorraste el 100%, no el 30% del cartel.`,
+      ] },
+
+      { type: "h2", title: `14 productos de todos los rubros que hoy SÍ están cerca de su precio más bajo real`, id: "casos-reales-abajo" },
+      { type: "p", content: `El Black Friday no es un día de electrodomésticos: es un día de ofertas en todos los rubros del sitio, de la ducha del baño al mouse de la PC. Por eso este barrido no se quedó en 2 o 3 productos: recorrimos nuestro propio seguimiento de precios en cocina, climatización, gaming, audio, hogar, deportes, seguridad, salud y mascotas, sin elegir a propósito para quedar bien. Estos nueve tienen el desarrollo completo abajo; otros cinco más están en la tabla comparativa, todos verificados con el mismo método.` },
+
+      { type: "h3", title: `1. Lattafa Khamrah Qahwa EDP 100ml — en su mínimo registrado`, bigNumber: true },
+      { type: "product-card", productMlaId: "MLA31178643", label: "Mínimo histórico real", labelColor: "purple", ranking: 1, description: `Perfume árabe unisex de 100ml. {{rating:MLA31178643}} estrellas en {{reviews:MLA31178643}} calificaciones. Hoy cuesta {{precio:MLA31178643}}, igual a su mínimo histórico registrado.` },
+      { type: "p", content: `Uno de los perfumes árabes más vendidos del catálogo hoy está en su piso exacto: {{precio:MLA31178643}}. La contra real: la propia ficha lo marca "estrictamente para invierno", el perfil dulce-especiado se vuelve pesado con calor — en pleno cambio de estación en Argentina, conviene guardarlo para cuando baje la temperatura, no para usarlo ya. Si buscás más opciones del rubro, la [guía completa de perfumes árabes](/guias/perfumes-arabes) compara marcas y familias olfativas, y el [índice de precios de perfumes árabes](/indice-precios/perfumes-arabes) muestra cómo evolucionó el precio de todo el catálogo en los últimos meses.` },
+
+      { type: "h3", title: `2. Aspiradora Robot Roomba 692 — en su mínimo registrado`, bigNumber: true },
+      { type: "product-card", productMlaId: "MLA20657750", label: "Mínimo histórico real", labelColor: "blue", ranking: 2, description: `El Roomba de entrada de iRobot. {{rating:MLA20657750}} estrellas en {{reviews:MLA20657750}} calificaciones. Nunca estuvo más barato en nuestro historial: hoy cuesta {{precio:MLA20657750}}.` },
+      { type: "p", content: `Si venías esperando al Roomba de entrada, este es un buen momento real: {{precio:MLA20657750}} es el valor más bajo que le vimos. La contra real: no mapea (navegación aleatoria) y no trapea, a diferencia de los modelos más nuevos de la marca. Para comparar contra otros robots aspiradora antes de decidir, está la [guía completa de robot aspiradora](/guias/robot-aspiradora).` },
+
+      { type: "h3", title: `3. Pava Eléctrica Philips HD9350 — en su mínimo registrado`, bigNumber: true },
+      { type: "product-card", productMlaId: "MLA24601443", label: "Mínimo histórico real", labelColor: "amber", ranking: 3, description: `Pava eléctrica de acero SUS304, 1,7 litros. {{rating:MLA24601443}} estrellas en {{reviews:MLA24601443}} calificaciones. Hoy cuesta {{precio:MLA24601443}}, su piso real de precio.` },
+      { type: "p", content: `No todo lo que vale la pena en esta fecha es de ticket alto: esta pava también está en su mínimo real, {{precio:MLA24601443}}. La contra real: no tiene control de temperatura, solo hierve a 100°C — si la buscás para cebar mate, no corta sola a la temperatura justa.` },
+
+      { type: "h3", title: `4. Smart TV TCL 43" QLED Pro — casi en su mínimo`, bigNumber: true },
+      { type: "product-card", productMlaId: "MLA49197748", label: "Cerca de su mínimo histórico", labelColor: "green", ranking: 4, description: `Smart TV 43" QLED Pro con Google TV y Dolby Audio. {{rating:MLA49197748}} estrellas en {{reviews:MLA49197748}} calificaciones. Hoy cuesta {{precio:MLA49197748}}, apenas por encima de su mínimo registrado de {{preciomin:MLA49197748}}.` },
+      { type: "p", content: `Su mínimo histórico es {{preciomin:MLA49197748}}; hoy cuesta {{precio:MLA49197748}}, a muy poca distancia de ese piso y lejos de su máximo registrado. No es el mínimo exacto, pero sí uno de los mejores precios reales que le vimos en meses. La contra real: pese al panel QLED, la resolución es Full HD (1080p), no 4K — para una pantalla de 43" sentado cerca, se nota.` },
+
+      { type: "h3", title: `5. Ducha Eléctrica Lorenzetti Loren 6800W — casi en su mínimo`, bigNumber: true },
+      { type: "product-card", productMlaId: "MLA19765518", label: "Cerca de su mínimo histórico", labelColor: "blue", ranking: 5, description: `Ducha eléctrica de 6.800W con 4 niveles de temperatura. {{rating:MLA19765518}} estrellas en {{reviews:MLA19765518}} calificaciones, la más opinada de los 14 productos en buen precio de esta guía. Hoy cuesta {{precio:MLA19765518}}, apenas por encima de su mínimo registrado de {{preciomin:MLA19765518}}.` },
+      { type: "p", content: `Con {{reviews:MLA19765518}} calificaciones es el producto con más reseñas reales de los 14 que están hoy en buen precio en esta guía — un respaldo que pocos artículos de cualquier categoría alcanzan. Su mínimo histórico es {{preciomin:MLA19765518}}; hoy cuesta {{precio:MLA19765518}}, apenas por encima de ese piso. La contra real: ninguna de las duchas eléctricas de esta categoría en el catálogo declara la Marca S de Seguridad Eléctrica en su ficha de MercadoLibre (solo un organismo certificador, que no es lo mismo); antes de instalarla, confirmá con un electricista matriculado que la instalación cumple norma.` },
+
+      { type: "h3", title: `6. Mouse Gamer Logitech G203 Lightsync — en su mínimo registrado`, bigNumber: true },
+      { type: "product-card", productMlaId: "MLA44849297", label: "Mínimo histórico real", labelColor: "slate", ranking: 6, description: `Mouse gamer con iluminación Lightsync. {{rating:MLA44849297}} estrellas en {{reviews:MLA44849297}} calificaciones. Hoy cuesta {{precio:MLA44849297}}, igual a su mínimo histórico.` },
+      { type: "p", content: `El gaming también tiene su ejemplo real: este Logitech está hoy a {{precio:MLA44849297}}, el mismo piso que vimos en nuestro seguimiento, con {{reviews:MLA44849297}} calificaciones de respaldo. La contra real: usa switches Omron rateados a 10 millones de clics, lejos de los 50 millones de los mouse más caros; varias reseñas reportan que el cable se raja con el uso en el punto donde se dobla cerca del cuerpo; y es chico, pensado para agarre tipo garra o pinza, no para manos grandes con agarre de palma completo. Para otros periféricos y combos, la [guía de kit gamer](/guias/gaming/kit-gamer) compara opciones completas.` },
+
+      { type: "h3", title: `7. Conservadora Termolar SUV-58 de 20L — casi en su mínimo`, bigNumber: true },
+      { type: "product-card", productMlaId: "MLA22505559", label: "Cerca de su mínimo histórico", labelColor: "amber", ranking: 7, description: `Conservadora de 20 litros, gris. {{rating:MLA22505559}} estrellas en {{reviews:MLA22505559}} calificaciones. Hoy cuesta {{precio:MLA22505559}}, apenas por encima de su mínimo registrado de {{preciomin:MLA22505559}}.` },
+      { type: "p", content: `De cara al verano, esta conservadora de 20 litros está hoy en {{precio:MLA22505559}}, a muy poca distancia de su mínimo real de {{preciomin:MLA22505559}}, con {{reviews:MLA22505559}} opiniones de respaldo — el tercer producto con más reseñas de los 14 en buen precio de esta guía. La contra real: los 20 litros alcanzan para una salida chica o de pareja, no para un asado familiar grande, y tiene manija simple, sin ruedas ni desagote para el agua del hielo derretido. Para comparar tamaños y marcas antes de decidir, la [guía completa de conservadoras](/guias/hogar-jardin/conservadora) tiene el resto del catálogo.` },
+
+      { type: "h3", title: `8. Termo Stanley Mate System de 1,2L — en su mínimo registrado`, bigNumber: true },
+      { type: "product-card", productMlaId: "MLA19761025", label: "Mínimo histórico real", labelColor: "green", ranking: 8, description: `Termo Stanley Original con pico cebador, 1,2 litros. {{rating:MLA19761025}} estrellas en {{reviews:MLA19761025}} calificaciones. Hoy cuesta {{precio:MLA19761025}}, su mínimo histórico.` },
+      { type: "p", content: `El termo más argentino de esta guía: hoy está a {{precio:MLA19761025}}, su piso real. La marca da garantía de por vida sobre el aislamiento, que es lo que justifica pagar más que un termo genérico. La contra real: aun en su mínimo, sigue costando casi el doble que las alternativas argentinas de termo para mate; el pico es cebador integrado, no multidireccional, así que hay que inclinarlo siempre para el mismo lado; y varias reseñas coinciden en que conviene precalentarlo con agua caliente antes de cargar el agua para mate, porque si no, al cuarto mate ya se empieza a enfriar.` },
+
+      { type: "h3", title: `9. JBL Tune 720BT — en su mínimo registrado`, bigNumber: true },
+      { type: "product-card", productMlaId: "MLA24519483", label: "Mínimo histórico real", labelColor: "purple", ranking: 9, description: `Auriculares inalámbricos JBL Tune 720BT. {{rating:MLA24519483}} estrellas en {{reviews:MLA24519483}} calificaciones. Hoy cuesta {{precio:MLA24519483}}, igual a su mínimo histórico.` },
+      { type: "p", content: `Cierra el recorrido por audio: estos JBL están hoy a {{precio:MLA24519483}}, el mismo valor que su mínimo registrado, con {{reviews:MLA24519483}} calificaciones reales detrás. La contra real: no tienen cancelación activa de ruido (solo aislamiento pasivo de los auriculares cerrados) ni ninguna resistencia declarada al agua o el sudor, así que no son la mejor opción para entrenar o para usar en la calle con mucho ruido ambiente.` },
+
+      { type: "p", content: `Además de estos nueve, otros cinco productos de cocina, movilidad, fitness, seguridad y mascotas también están hoy en su mínimo o muy cerca — están en la tabla comparativa más abajo, con el mismo criterio de verificación.` },
+
+      { type: "warning", content: `**5 ejemplos reales de lo que NO es una baja real, en 4 rubros distintos.** No decimos que estos vendedores estén haciendo trampa a propósito (no tenemos forma de saberlo), pero sí que el precio actual está lejos de ser un buen momento para comprar, pase lo que pase con el cartel. En **cocina**: el [Airfryer HD9280/90 de Philips](/producto/airfryer-hd9280-90-essential-xl-color-negro-philips-mla19630913) hoy cuesta {{precio:MLA19630913:k}}, contra un mínimo de {{preciomin:MLA19630913}} el {{preciominfecha:MLA19630913}} — casi el triple; la [Freidora de Aire Peabody PE-AFD650N](/producto/freidora-de-aire-peabody-pe-afd650n-6-5l-visor-7-programas-color-negro-mla44703897) está en {{precio:MLA44703897:k}} contra un mínimo de {{preciomin:MLA44703897}} el {{preciominfecha:MLA44703897}}. En **salud**: la [Balanza Digital Bluetooth Femmto](/producto/balanza-digital-con-bluetooth-personal-de-bano-peso-corporal-180-kg-diseno-minim-mla15503957), con {{reviews:MLA15503957}} calificaciones, está a {{precio:MLA15503957:k}} contra un mínimo de {{preciomin:MLA15503957}} el {{preciominfecha:MLA15503957}}. En **gaming**: el [Joystick DualSense PS5 Galactic Purple](/producto/joystick-inalambrico-dualsense-ps5-original-galactic-purple-mla18917848) está en {{precio:MLA18917848:k}} contra {{preciomin:MLA18917848}} el {{preciominfecha:MLA18917848}}. En **seguridad**: la [Cámara WiFi Gadnic SX39](/producto/camara-de-seguridad-wifi-ip-gadnic-sx39-fhd-motorizada-1080p-audio-bidireccional-mla18711640) está en {{precio:MLA18711640:k}} contra {{preciomin:MLA18711640}} el {{preciominfecha:MLA18711640}}. No sabemos qué precio de referencia va a usar un eventual cartel de "oferta" el día del evento, pero si el precio final queda cerca del de hoy en cualquiera de estos cinco, el historial muestra que no sería una baja real frente al mínimo que de verdad tuvieron.` },
+
+      { type: "h2", title: `Qué más mirar antes de comprar, además del precio`, id: "que-mirar" },
+      { type: "list", items: [
+        `**Vendedor oficial vs. marketplace.** Un mismo producto puede tener varias publicaciones a distinto precio; la del vendedor oficial suele tener mejor garantía aunque no sea la más barata.`,
+        `**Costo y plazo de envío.** Un precio más bajo con envío pago puede terminar costando más que uno más caro con envío gratis.`,
+        `**Cuotas sin interés.** En fechas de ofertas suelen aparecer planes de 3, 6 o 12 cuotas sin interés que no están disponibles el resto del año; a veces ahí está el verdadero ahorro, más que en el precio de contado.`,
+        `**Política de cambio y devolución.** Revisá el plazo antes de comprar, no cuando ya necesitás devolver algo.`,
+      ] },
+
+      { type: "h2", title: `Los 14 productos en su mínimo o cerca, por rubro`, id: "tabla" },
+      { type: "table", headers: [`Producto`, `Rubro`, `Precio hoy`, `Mínimo histórico`, `Calificación`], rows: [
+        [`[Lattafa Khamrah Qahwa](https://meli.la/1B8Vwwf)`, `Perfumes`, `{{precio:MLA31178643}}`, `{{preciomin:MLA31178643}}`, `{{rating:MLA31178643}} ({{reviews:MLA31178643}} opiniones)`],
+        [`[Roomba 692](https://meli.la/1aR5CYZ)`, `Robot aspiradora`, `{{precio:MLA20657750}}`, `{{preciomin:MLA20657750}}`, `{{rating:MLA20657750}} ({{reviews:MLA20657750}} opiniones)`],
+        [`[Pava Philips HD9350](https://meli.la/2kpg1Zr)`, `Cocina`, `{{precio:MLA24601443}}`, `{{preciomin:MLA24601443}}`, `{{rating:MLA24601443}} ({{reviews:MLA24601443}} opiniones)`],
+        [`[Smart TV TCL 43" QLED Pro](https://meli.la/1t9xDb2)`, `Tech`, `{{precio:MLA49197748}}`, `{{preciomin:MLA49197748}}`, `{{rating:MLA49197748}} ({{reviews:MLA49197748}} opiniones)`],
+        [`[Ducha Lorenzetti Loren 6800W](https://meli.la/2TrdDUA)`, `Climatización`, `{{precio:MLA19765518}}`, `{{preciomin:MLA19765518}}`, `{{rating:MLA19765518}} ({{reviews:MLA19765518}} opiniones)`],
+        [`[Mouse Logitech G203](https://meli.la/2EEbq8S)`, `Gaming`, `{{precio:MLA44849297}}`, `{{preciomin:MLA44849297}}`, `{{rating:MLA44849297}} ({{reviews:MLA44849297}} opiniones)`],
+        [`[Conservadora Termolar SUV-58](https://meli.la/1bgL6a3)`, `Hogar y jardín`, `{{precio:MLA22505559}}`, `{{preciomin:MLA22505559}}`, `{{rating:MLA22505559}} ({{reviews:MLA22505559}} opiniones)`],
+        [`[Termo Stanley Mate System](https://meli.la/1JtPJue)`, `Deportes / mate`, `{{precio:MLA19761025}}`, `{{preciomin:MLA19761025}}`, `{{rating:MLA19761025}} ({{reviews:MLA19761025}} opiniones)`],
+        [`[JBL Tune 720BT](https://meli.la/1PhKyyq)`, `Audio`, `{{precio:MLA24519483}}`, `{{preciomin:MLA24519483}}`, `{{rating:MLA24519483}} ({{reviews:MLA24519483}} opiniones)`],
+        [`[Cafetera Dolce Gusto Piccolo XS](https://meli.la/1f93McA)`, `Cocina`, `{{precio:MLA15705813}}`, `{{preciomin:MLA15705813}}`, `{{rating:MLA15705813}} ({{reviews:MLA15705813}} opiniones)`],
+        [`[Casco SLP Bicicleta MTB](https://meli.la/31HN4gD)`, `Movilidad`, `{{precio:MLA19906148}}`, `{{preciomin:MLA19906148}}`, `{{rating:MLA19906148}} ({{reviews:MLA19906148}} opiniones)`],
+        [`[Kit Mancuernas BS Fit 20kg](https://meli.la/2bL81ab)`, `Fitness`, `{{precio:MLA44965610}}`, `{{preciomin:MLA44965610}}`, `{{rating:MLA44965610}} ({{reviews:MLA44965610}} opiniones)`],
+        [`[Kit Alarma PST G30](https://meli.la/2tv7arA)`, `Seguridad`, `{{precio:MLA28261746}}`, `{{preciomin:MLA28261746}}`, `{{rating:MLA28261746}} ({{reviews:MLA28261746}} opiniones)`],
+        [`[Rascador FIFI&MINI](https://meli.la/1e3ZKJt)`, `Mascotas`, `{{precio:MLA43852971}}`, `{{preciomin:MLA43852971}}`, `{{rating:MLA43852971}} ({{reviews:MLA43852971}} opiniones)`],
+      ] },
+
+      { type: "verdict", content: `El Black Friday 2026 es el viernes 27 de noviembre y el Cyber Monday (CyberMonday para la CACE) va del 2 al 4 de noviembre. Pero la fecha importa menos que el dato: de los 19 productos que chequeamos en profundidad para esta guía, cubriendo 14 rubros distintos (perfumes, robot aspiradora, cocina, tech, climatización, gaming, hogar y jardín, deportes, audio, movilidad, fitness, seguridad, salud y mascotas), 14 están hoy en su mínimo histórico real o muy cerca y 5 están lejos de serlo, aunque el cartel de la fecha diga lo contrario. Antes de comprar cualquier cosa por el Black Friday, buscá el historial de precio real de ese producto puntual, no el porcentaje del cartel ni la categoría a la que pertenece.` },
+    ],
+    faq: [
+      { question: `¿Cuándo es el Black Friday 2026 en Argentina?`, answer: `El viernes 27 de noviembre de 2026. A diferencia del CyberMonday, no tiene un organizador único en Argentina: cada tienda define sus propias fechas y condiciones, generalmente alrededor de ese viernes.` },
+      { question: `¿Cuándo es el CyberMonday 2026 en Argentina?`, answer: `Del lunes 2 al miércoles 4 de noviembre de 2026, organizado por la Cámara Argentina de Comercio Electrónico (CACE), con más de 800 marcas participantes y sello oficial para las tiendas adheridas.` },
+      { question: `¿Cuál es la diferencia entre Black Friday y CyberMonday en Argentina?`, answer: `El CyberMonday tiene un organizador oficial (la CACE) con sello y fecha fija cada año; el Black Friday es una fecha informal que cada tienda adopta a su manera, sin una entidad central que la regule en Argentina. En 2026, además, el CyberMonday cae antes (2 al 4 de noviembre) que el Black Friday (27 de noviembre).` },
+      { question: `¿Cómo sé si un descuento de Black Friday es real?`, answer: `Comparando el precio "de oferta" contra el mínimo real de los últimos meses, no contra el precio de la semana anterior. Si el precio de oferta ya estuvo ahí (o más bajo) hace dos o tres meses, no bajó: volvió a un valor que ya había tenido. Nosotros hacemos ese seguimiento para los productos de nuestras guías y lo mostramos con cada precio.` },
+      { question: `¿Por qué algunos precios suben antes del Black Friday?`, answer: `Es una práctica conocida en el comercio online de todo el mundo: subir el precio unos días o semanas antes para poder anunciar un "descuento" que en realidad vuelve al precio original, o queda apenas por debajo. Por eso el porcentaje del cartel puede ser matemáticamente correcto y al mismo tiempo engañoso.` },
+      { question: `¿Conviene comprar en Black Friday, sea cual sea el rubro?`, answer: `Depende del producto puntual, no del rubro ni de la fecha en general. De los 19 que chequeamos en profundidad para esta guía (cocina, climatización, gaming, audio, hogar, deportes, tech, seguridad, salud y mascotas), 14 están hoy en su piso de precio real o muy cerca (vale la pena) y 5 están lejos de su mínimo (no vale la pena a ese precio, sea cual sea el cartel que tengan el día del evento). El rubro no predice el resultado: hay que mirar cada producto.` },
+      { question: `¿Esta verificación aplica a todos los rubros del sitio, o solo a electrodomésticos?`, answer: `Aplica a todos: en esta guía verificamos productos reales de perfumes, robot aspiradora, cocina, tech, climatización, gaming, hogar y jardín, deportes, audio, movilidad, fitness, seguridad, salud y mascotas. El método (comparar contra el mínimo histórico real, no contra el precio de la semana pasada) funciona igual sea cual sea la categoría; lo que cambia es el resultado producto por producto.` },
+      { question: `¿El CyberMonday y el Black Friday tienen las mismas ofertas?`, answer: `No necesariamente. Son eventos organizados por separado (uno por la CACE, el otro informal) y cada tienda decide qué productos participan en cada uno. Conviene chequear el precio real en ambas fechas en vez de asumir que la primera oferta que ves es la mejor del mes.` },
+      { question: `¿Hasta cuándo duran las ofertas del CyberMonday?`, answer: `El sello oficial de la CACE cubre del 2 al 4 de noviembre, pero muchas tiendas extienden sus descuentos informalmente unos días más (lo que suele llamarse "Cyber Week"). Esa extensión no tiene el mismo respaldo ni sello oficial: conviene verificar el precio real igual, extensión o no.` },
+      { question: `¿Conviene comprar en cuotas sin interés o pagar de contado en estas fechas?`, answer: `Depende: en MercadoLibre, el mismo vendedor suele tener una publicación "Clásica" sin cuotas al lado de la que ofrece cuotas sin interés. Si el precio de contado de la Clásica es más bajo que el precio "en cuotas" de la otra, el interés ya está metido en el precio base aunque el cartel diga "sin interés". Comparar ambas publicaciones antes de elegir evita pagar ese interés escondido.` },
+    ],
+    internalLinks: [
+      { label: "Robot aspiradora: cuál comprar", href: "/guias/robot-aspiradora" },
+      { label: "Mejores pavas eléctricas en Argentina", href: "/guias/pava-electrica" },
+      { label: "Pava eléctrica Philips: ¿vale la pena pagar premium?", href: "/guias/pava-electrica-philips" },
+      { label: "Mejores freidoras de aire en Argentina", href: "/guias/mejores-freidoras-de-aire-argentina" },
+      { label: "Perfumes árabes: guía completa", href: "/guias/perfumes-arabes" },
+      { label: "Kit gamer: cuál comprar", href: "/guias/gaming/kit-gamer" },
+      { label: "Conservadora: cuál comprar en Argentina", href: "/guias/hogar-jardin/conservadora" },
+      { label: "Regalos de Navidad: qué regalar según a quién", href: "/guias/hogar/regalos-de-navidad-argentina" },
+    ],
+    internalLinksTitle: "Seguí leyendo",
+  },
+
+  // ─────────────────────────────────────────────────────────
   // Guía nueva regalos-de-navidad-argentina — silo "hogar", categoría
   // fechas-especiales (mismo contenedor que dia-de-la-madre-argentina y
   // dia-del-nino-argentina). Origen: research de regalos de fin de año
@@ -27409,6 +27580,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     directAnswer: `En Argentina los regalos de Navidad se abren la noche del 24 de diciembre, después de la medianoche, no la mañana del 25 como en otros países. Para los más chicos hay una segunda entrega el 6 de enero, el Día de Reyes. Si tenés que elegir ya: para él, el perfume **[Lattafa Asad Intense](/producto/lattafa-asad-intense-hombre-edp-100ml-mla19715215)** (alrededor de {{precio:MLA19715215:k}}); para ella, el **[Lattafa Yara Elixir](/producto/lattafa-yara-elixir-edp-100ml-mla60836327)** (alrededor de {{precio:MLA60836327:k}}); y para compartir el 24 a la noche, la **[conservadora Termolar de 20 L](/producto/heladera-conservadora-suv-termolar-suv-58-56805-de-20l-gris-playa-picnic-mla22505559)** (alrededor de {{precio:MLA22505559:k}}).`,
     publishedDate: "2026-10-29",
     updatedDate: "2026-10-29",
+    sitemapLastmod: "2026-10-30",
     hasDisclosure: true,
     readingTime: 10,
     standfirst: `La Navidad en Argentina cae en pleno verano y casi siempre hay que regalarle a más de una persona. Por eso esta guía no va por presupuesto único sino por a quién le toca: para él, para ella, para los más chicos y para la casa. Ocho productos reales de MercadoLibre Argentina, con precio actualizado, reseñas reales y la contra honesta de cada uno.`,
@@ -27516,6 +27688,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { label: "Día del Niño: qué regalar según la edad", href: "/guias/juguetes/dia-del-nino-argentina" },
       { label: "Cocina de juguete: cuál comprar", href: "/guias/juguetes/cocina-de-juguete" },
       { label: "Día de la Madre: regalos que se usan", href: "/guias/hogar/dia-de-la-madre-argentina" },
+      { label: "Black Friday y CyberMonday: cómo saber si el precio es real", href: "/guias/hogar/black-friday-cybermonday-argentina" },
       { label: "Mejores perfumes árabes de hombre", href: "/guias/mejores-perfumes-arabes-hombre" },
       { label: "Perfumes árabes de mujer: cuál comprar", href: "/guias/perfumes-arabes-mujer" },
       { label: "Conservadora: cuál comprar en Argentina", href: "/guias/hogar-jardin/conservadora" },

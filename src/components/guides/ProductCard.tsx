@@ -111,6 +111,7 @@ export function ProductCard({ section }: ProductCardProps) {
   // pero acá no pasamos por ese DTO porque necesitamos articleBody/faq del Product completo.
   const priceHistory = analyzePriceHistory(product.id, product.price);
   const bestPrice = priceHistory?.verdict.tone === "good";
+  const isExactMin = !!priceHistory && priceHistory.current <= priceHistory.min;
   // priceLastChecked (automático) o priceVerifiedAt (a mano) — el que haya, no inventamos fecha.
   const verifiedDate = product.priceLastChecked || product.priceVerifiedAt;
 
@@ -184,10 +185,14 @@ export function ProductCard({ section }: ProductCardProps) {
               {bestPrice && (
                 <Badge
                   variant="price-low"
-                  title="El precio de hoy es el más bajo que le registramos a este producto."
+                  title={
+                    isExactMin
+                      ? "El precio de hoy es el más bajo que le registramos a este producto."
+                      : "El precio de hoy está a 5% o menos de su mínimo registrado."
+                  }
                 >
                   <TrendingDown size={10} />
-                  Mínimo histórico
+                  {isExactMin ? "Mínimo histórico" : "Cerca de su mínimo"}
                 </Badge>
               )}
             </div>
@@ -373,10 +378,14 @@ export function ProductCard({ section }: ProductCardProps) {
               {bestPrice && (
                 <Badge
                   variant="price-low"
-                  title="El precio de hoy es el más bajo que le registramos a este producto."
+                  title={
+                    isExactMin
+                      ? "El precio de hoy es el más bajo que le registramos a este producto."
+                      : "El precio de hoy está a 5% o menos de su mínimo registrado."
+                  }
                 >
                   <TrendingDown size={10} />
-                  Mínimo histórico
+                  {isExactMin ? "Mínimo histórico" : "Cerca de su mínimo"}
                 </Badge>
               )}
             </div>

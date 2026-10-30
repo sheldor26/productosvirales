@@ -427,10 +427,14 @@ export function ProductDetail({
             <Badge
               variant="price-low"
               className="self-start mt-2"
-              title="El precio de hoy es el más bajo (o casi) que le registramos a este producto."
+              title={
+                priceHistory.current <= priceHistory.min
+                  ? "El precio de hoy es el más bajo que le registramos a este producto."
+                  : "El precio de hoy está a 5% o menos de su mínimo registrado."
+              }
             >
               <TrendingDown size={10} />
-              Mínimo histórico
+              {priceHistory.current <= priceHistory.min ? "Mínimo histórico" : "Cerca de su mínimo"}
             </Badge>
           )}
 

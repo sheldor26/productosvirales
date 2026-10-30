@@ -77,6 +77,7 @@ export function ProductCard({
     badge,
     pastelColor,
     bestPrice,
+    isExactMin,
     rating,
     soldQuantity,
     freeShipping,
@@ -324,10 +325,14 @@ export function ProductCard({
           <Badge
             variant="price-low"
             className="mt-1.5"
-            title="El precio de hoy es el más bajo que le registramos a este producto."
+            title={
+              isExactMin
+                ? "El precio de hoy es el más bajo que le registramos a este producto."
+                : "El precio de hoy está a 5% o menos de su mínimo registrado."
+            }
           >
             <TrendingDown size={10} />
-            Mínimo histórico
+            {isExactMin ? "Mínimo histórico" : "Cerca de su mínimo"}
           </Badge>
         )}
 

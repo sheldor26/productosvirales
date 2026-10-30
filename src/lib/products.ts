@@ -51,6 +51,7 @@ export function toCardProduct(p: Product): CardProduct {
     freeShipping: p.freeShipping,
     brand: p.brand,
     bestPrice: priceHistory?.verdict.tone === "good",
+    isExactMin: !!priceHistory && priceHistory.current <= priceHistory.min,
   };
 }
 

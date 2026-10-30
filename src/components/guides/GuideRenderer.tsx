@@ -550,7 +550,9 @@ function AboveFoldCta({ productMlaId }: { productMlaId: string }) {
   const priceText = product.price
     ? formatPrice(product.price, product.currency)
     : null;
-  const bestPrice = analyzePriceHistory(product.id, product.price)?.verdict.tone === "good";
+  const priceHistory = analyzePriceHistory(product.id, product.price);
+  const bestPrice = priceHistory?.verdict.tone === "good";
+  const isExactMin = !!priceHistory && priceHistory.current <= priceHistory.min;
   return (
     <div
       className="not-prose my-6 flex flex-wrap items-center gap-4 rounded-[var(--radius-card)] border p-4"
@@ -590,10 +592,14 @@ function AboveFoldCta({ productMlaId }: { productMlaId: string }) {
           <Badge
             variant="price-low"
             className="mt-1"
-            title="El precio de hoy es el más bajo que le registramos a este producto."
+            title={
+              isExactMin
+                ? "El precio de hoy es el más bajo que le registramos a este producto."
+                : "El precio de hoy está a 5% o menos de su mínimo registrado."
+            }
           >
             <TrendingDown size={10} />
-            Mínimo histórico
+            {isExactMin ? "Mínimo histórico" : "Cerca de su mínimo"}
           </Badge>
         )}
       </div>

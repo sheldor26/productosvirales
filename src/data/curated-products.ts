@@ -49461,6 +49461,7 @@ El X20 Max es el más completo: tiene la estación todo-en-uno del [X20 Pro](/pr
     price: 368499,
     priceUpdated: "2026-10-02",
     priceLastChecked: "2026-10-12",
+    priceStatus: "fresh",
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_941712-MLA101345707619_122025-F.jpg',
     images: [

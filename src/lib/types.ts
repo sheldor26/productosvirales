@@ -25,6 +25,10 @@ export type CardProduct = Pick<
    * según `analyzePriceHistory`. Derivado en el server al armar la tarjeta,
    * no es un campo real del catálogo. */
   bestPrice?: boolean;
+  /** true solo si el precio actual ES el mínimo histórico exacto (no solo
+   * "cerca"). Distingue el badge "Mínimo histórico" de "Cerca de su mínimo"
+   * sin sobreclamar cuando el precio está apenas por encima del piso real. */
+  isExactMin?: boolean;
 };
 
 export interface Product {
