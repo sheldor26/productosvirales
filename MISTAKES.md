@@ -16,6 +16,49 @@
 **Archivos involucrados:** `path/a/archivo.ts`
 -->
 
+## 2026-10-31 — Deuda acumulada: 5 fichas con swap de vendedor de sesiones anteriores tenían números hardcodeados que contradecían sus propios campos guardados
+
+**Qué pasó:** revisando con el mismo criterio del hallazgo anterior (ver entrada de arriba) 5 fichas que habían tenido swap de vendedor en sesiones previas (Rasasi Hawas Black, Omron HEM-6124, Set Lattafa Yara + Candy, Afnan 9PM listing alternativo, Xiaomi S40c), aparecieron errores reales en 4 de las 5 — ninguno nuevo de hoy, todos preexistentes:
+- Precios/reseñas hardcodeados que no coincidían ni siquiera con los campos `rating`/`reviewCount` guardados en la propia ficha (no solo desactualizados respecto a la publicación nueva tras el swap, sino matemáticamente distintos de lo que la ficha dice de sí misma).
+- El caso más serio: el cons del Set Lattafa decía "solo $3.869 más barato que comprar las 2 sueltas", calculado con precios individuales de hace mucho tiempo. Con los precios reales de hoy (Yara $93.061 + Yara Candy $51.424 = $144.485 vs set $114.874), el ahorro real es $29.611 — la ficha estaba vendiendo el set como "apenas conviene" cuando en realidad conviene bastante.
+- El segundo más serio: la ficha "listing alternativo" de Afnan 9PM tenía `rating: 4.9, reviewCount: 293` en sus campos, pero su propia prosa (pros, cons, FAQ, articleBody) seguía diciendo "82 opiniones con 4.7 de rating... casi 1.900 en la publicación principal" — números que no coincidían ni con los campos de esta ficha ni con los de la ficha principal real (26.384, no "casi 1.900").
+- Mismos números hardcodeados también estaban repetidos en guides.ts (las guías que referencian estas fichas), hasta en un título de H3 que decía literalmente "— 811 reseñas".
+
+**Por qué:** cuando se corrige el precio de venta tras un swap de vendedor (que sí se actualiza porque hay un script dedicado para eso), nadie revisa si la PROSA alrededor (verdict, pros, cons, articleBody, FAQ, y las menciones en las guías que citan esa ficha) seguía usando números tipeados a mano de antes del swap, o de antes de que la ficha creciera su historial. El checklist mecánico (`guides:check`) no detecta esto: valida que los tokens existan y resuelvan, no que un número HARDCODEADO sea coherente con los campos de la misma ficha.
+
+**Cómo evitarlo:** cuando se marca un swap de vendedor en el comentario de una ficha (`// Swap de vendedor...`), en esa misma sesión grepear el ID de esa ficha contra TODO el repo (`grep -n "ID" src/data/guides.ts src/data/curated-products.ts`) y revisar cada número hardcodeado de rating/reseñas/precio que aparezca cerca, no asumir que alcanza con actualizar los campos top-level (`rating`, `reviewCount`, `price`). Cualquier comparación de precios entre 2+ productos escrita como una resta exacta ("solo $X más barato") es especialmente frágil: mejor describir la relación cualitativamente con tokens para cada precio individual, sin fijar el delta exacto en texto.
+
+**Archivos involucrados:** `src/data/curated-products.ts` y `src/data/guides.ts` (fichas MLA41306043, MLA24111585, MLA45984979, MLA47054851, MLA61420449, y las guías que las referencian)
+
+## 2026-10-31 — Un swap de vendedor vuelve falsos los superlativos de precio/rating de TODA la guía, no solo del producto que cambió
+
+**Qué pasó:** al reescribir la guía "bicicleta-electrica" por 3 productos sin stock, la Rango Worker Plus (vigente, no una de las removidas) había tenido un swap de vendedor ese mismo día por quedarse sin stock la publicación original. El swap cambió sus datos reales de forma significativa: pasó de 5.0★/10 reseñas (publicación vieja) a 4.8★/17 reseñas (publicación nueva), y de ser una de las más baratas a costar más que otras dos. Yo seguí escribiendo toda la prosa de la guía (quickPicks, tabla, verdict, FAQ, y las fichas de 3 productos vecinos) asumiendo los números viejos. Resultado: "Valentini es la más barata" y "Rango tiene el mejor rating" quedaron **falsos** — Safeway y Rango costaban menos que Valentini, y MOOY tenía mejor rating (4.9★) que Rango. Costó 3 rondas completas del trío auditor (Codex detectó el "5.0"/"10" hardcodeado una vez, pero recién Gemini en la pasada 3 hizo el cálculo cruzado de precios/ratings entre las 5 fichas y encontró la contradicción real).
+
+**Por qué:** `npm run guides:check` valida que los tokens `{{precio:ID}}`/`{{rating:ID}}` existan y resuelvan, pero no valida que un superlativo en prosa ("la más barata", "mejor rating") sea matemáticamente cierto comparado contra las OTRAS fichas de la misma comparativa — eso es lectura semántica, no un chequeo mecánico. Y yo mismo no recalculé el ranking completo de precio/rating de las 5 fichas después del swap, solo corregí los números de la ficha que cambió.
+
+**Cómo evitarlo:** cada vez que el precio o el rating de una ficha cambia (por swap de vendedor, por una corrida de precios, o por cualquier otro motivo) y esa ficha participa de una guía comparativa con roles tipo "la más barata"/"mejor rating"/"mayor potencia", recalcular a mano el ranking completo de las fichas vigentes de esa guía (precio, rating, reviewCount) ANTES de asumir que los roles siguen siendo válidos — no alcanza con mirar la ficha que cambió. Si un rol ya no es cierto, reasignarlo explícitamente al producto que sí lo cumple hoy, en todos los bloques de la guía (directAnswer, standfirst, quickPicks, callout, H3/product-card/p de cada producto, tabla, "cómo elegir", lista de precios, verdict, FAQ) y en las fichas de los productos cuyo rol cambió.
+
+**Archivos involucrados:** `src/data/guides.ts` (guía `bicicleta-electrica`), `src/data/curated-products.ts` (fichas MLA59609902, MLA47150419, MLAU3399532573, MLAU3143206258)
+
+## 2026-10-30 — Reseña contaminada: copié texto de un producto a la ficha de otro por error
+
+**Qué pasó:** al escribir en secuencia las fichas de 4 productos nuevos (guía "artículo personal"), la ficha de la valija SAS Travel (MLA815939359) terminó con una reseña que empezaba con el mismo texto literal de una reseña real de la mochila New Bip (MLA1820695681): "tiene un bolsillo que mantiene el frio... tela de buen calidad", cortada a mitad de frase. Es un dato falso para ese producto: una valija rígida de ABS no tiene "tela". El `articleBody` arrastró la contaminación con una frase inventada ("otra reseña destaca un bolsillo térmico interno") que ningún comprador real de esa valija escribió. Lo atrapó Gemini en la primera ronda de auditoría, no mi propia revisión.
+
+**Por qué:** estaba transcribiendo reseñas de varias publicaciones de MercadoLibre casi en simultáneo (abrir pestaña, leer, cerrar, pasar a la siguiente), y en algún punto pegué el texto que tenía "a mano" de la ficha anterior en vez de volver a leer la reseña real de la publicación que estaba armando en ese momento. `npm run guides:check` no lo detecta: el texto es sintácticamente válido, solo que pertenece a otro producto.
+
+**Cómo evitarlo:** al transcribir reseñas para varias fichas en la misma sesión, pegar el texto inmediatamente después de leerlo (no guardarlo "para después"), y antes de cerrar cada ficha, grep rápido de una frase característica de cada reseña citada contra el resto del archivo — si aparece en dos productos distintos, es la misma contaminación. Señal de alarma extra: si una reseña describe un material o feature que no está en los `specs` de ese producto (acá: "tela" en una ficha cuyo `specs` dice "Material: ABS/Policarbonato"), es sospechosa.
+
+**Archivos involucrados:** `src/data/curated-products.ts` (ficha MLA815939359)
+
+## 2026-10-11 — El deploy de producción de Vercel falló 2 veces seguidas sin que el código tuviera la culpa
+
+**Qué pasó:** después de pushear el commit e231edc (guides.ts + scripts/docs del agente QA), el build de producción en Vercel falló dos veces en 22 a 32 segundos con `Turbopack build failed with 20 errors: Module not found: Can't resolve '@vercel/turbopack-next/internal/font/google/font'` (las fuentes Plus Jakarta Sans / DM Sans / Dancing Script de `layout.tsx`). El sitio siguió sirviendo la versión anterior, así que no hubo caída, pero el cambio no estuvo publicado hasta el tercer intento. El build local (`npm run build`) había pasado dos veces con el mismo código.
+
+**Por qué:** no era el contenido. El mismo commit compiló bien como Preview, y el commit anterior se reconstruyó bien como Preview el mismo día. Fue una falla intermitente del build de producción al resolver las fuentes de Google. Además, el push no avisa: el workflow "Avisar a IndexNow" salió en verde (`success`) mientras el deploy estaba en `failure`, así que ese verde no dice nada sobre el deploy.
+
+**Cómo evitarlo / resolverlo:** después de cada push que importe, no asumir que quedó publicado: chequear el estado del deploy (`gh api repos/sheldor26/productosvirales/deployments/<id>/statuses` o `npx vercel ls productosvirales`) y que el cambio aparezca en el sitio real (curl al HTML). Si falla con ese error de fuentes: (1) mirar los logs con `npx vercel inspect <dpl_id> --logs`; (2) probar el mismo commit como Preview con `npx vercel redeploy <dpl_id> --target preview` para separar "mi código" de "Vercel"; (3) reintentar producción con `npx vercel redeploy <dpl_id> --target production`. No promover un Preview a producción: se construye con las variables de entorno de preview y las `NEXT_PUBLIC_*` quedan grabadas en el build.
+
+
 ## 2026-09-28 — Threads: TV posteado con topic_tag "Gaming Threads" por inercia
 
 **Qué pasó:** en una tanda larga de Threads (10 posts seguidos), publiqué una Smart TV TCL 55"

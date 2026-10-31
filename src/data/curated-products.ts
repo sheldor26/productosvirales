@@ -23957,9 +23957,14 @@ Si querés comparar con otras opciones del segmento, mirá el [Etheos retráctil
     title: 'Ventilador De Techo Peabody Pe-vtrdc425b 42 Retractil Cantidad de aspas 3 Estructura Blanco Aspas Transparente Diámetro 1.067 m Frecuencia 50 Hz Material de las aspas Acrílico',
     brand: "Peabody",
     price: 637361,
-    priceUpdated: "2026-09-14",
-    priceLastChecked: "2026-09-14",
-    priceStatus: "fresh",
+    // Toda la línea Peabody 425/425B quedó discontinuada en ML (verificado en
+    // vivo el 2026-10-31: ningún vendedor tiene el modelo exacto activo hoy;
+    // el catálogo de Peabody retráctiles pasó a la línea 410/411, specs
+    // distintas). No se encontró swap de vendedor 1:1 — ver docs/productos-sin-stock.md.
+    visibility: "deprioritized",
+    priceUpdated: "2026-10-31",
+    priceLastChecked: "2026-10-31",
+    priceStatus: "out_of_stock",
     originalPrice: undefined,
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_2X_830524-MLA99953512795_112025-F.webp',
@@ -30126,9 +30131,9 @@ Robot Gadnic AC800, base autolimpiante con bolsa de 3,2 L, cepillos laterales (c
     id: 'MLA61420449',
     title: 'Aspiradora Robot Xiaomi Vacuum S40c E101 Blanco',
     brand: "Xiaomi",
-    price: 324990,
-    priceUpdated: "2026-10-05",
-    priceLastChecked: "2026-10-12",
+    price: 338775,
+    priceUpdated: "2026-10-31",
+    priceLastChecked: "2026-10-31",
     priceStatus: "fresh",
     originalPrice: undefined,
     currency: 'ARS',
@@ -30142,8 +30147,17 @@ Robot Gadnic AC800, base autolimpiante con bolsa de 3,2 L, cepillos laterales (c
     ],
     category: 'Electrodomésticos y Aires Ac.',
     categorySlug: 'hogar',
-    permalink: 'https://www.mercadolibre.com.ar/aspiradora-robot-xiaomi-vacuum-s40c-e101-blanco/p/MLA61420449',
-    affiliateUrl: 'https://meli.la/16WtjsG',
+    // Publicación original (MLA61420449) se quedó sin stock, verificado en
+    // vivo el 2026-10-31 ("no está disponible. Elige otra variante", única
+    // variante). Swap de vendedor: mismo modelo exacto (Xiaomi S40C,
+    // BHR9664EU), catálogo MLAU4130920870 / item MLA1845384655, vendedor
+    // KVORTEX (MercadoLíder Platinum, +5mil ventas, devolución 30 días).
+    // Volver a la publicación original si recupera stock — permalink viejo
+    // comentado abajo. rating/reviewCount siguen siendo los de la publicación
+    // original (reviewCount guardado: 2453) — pendiente de revisión editorial.
+    // permalink viejo: "https://www.mercadolibre.com.ar/aspiradora-robot-xiaomi-vacuum-s40c-e101-blanco/p/MLA61420449"
+    permalink: 'https://www.mercadolibre.com.ar/aspiradora-robot-xiaomi-vacuum-s40c-e101-blanco/up/MLAU4130920870',
+    affiliateUrl: 'https://meli.la/1eGBJox',
     condition: 'new',
     freeShipping: false,
     rating: 4.9,
@@ -30156,12 +30170,12 @@ Robot Gadnic AC800, base autolimpiante con bolsa de 3,2 L, cepillos laterales (c
     pastelColor: 'var(--pastel-amber)',
     aiReviewSummary: 'Destaca por su increíble potencia de succión y capacidad para dejar los pisos impecables, ideal para el mantenimiento diario del hogar. Su mapeo eficiente y conexión rápida a la app permiten una limpieza autónoma y programada. Además es silenciosa, rápida y estéticamente agradable.',
     seoTitle: 'Aspiradora Robot Xiaomi S40c: Mapeo Láser, Aspira y Trapea',
-    metaDescription: 'Aspiradora robot Xiaomi S40c: mapeo láser LDS, 5000 Pa, aspira y trapea, con app Xiaomi Home. 4.8★ con {{reviews:MLA61420449}} opiniones. El Xiaomi con mapeo más accesible.',
+    metaDescription: 'Aspiradora robot Xiaomi S40c: mapeo láser LDS, 5000 Pa, aspira y trapea, con app Xiaomi Home. {{rating:MLA61420449}}★ con {{reviews:MLA61420449}} opiniones. El Xiaomi con mapeo más accesible.',
     ogTitle: 'Xiaomi S40c: el robot con mapeo láser más vendido y accesible',
-    ogDescription: '4.8★ con 761 opiniones. Mapeo láser LDS, 5000 Pa, aspira y trapea y se maneja por app. El mejor precio/calidad de la línea Xiaomi. Analizamos para quién rinde.',
+    ogDescription: '{{rating:MLA61420449}}★ con {{reviews:MLA61420449}} opiniones. Mapeo láser LDS, 5000 Pa, aspira y trapea y se maneja por app. El mejor precio/calidad de la línea Xiaomi. Analizamos para quién rinde.',
     h1: 'Aspiradora robot Xiaomi S40c: mapeo láser LDS, 5000 Pa y app, el Xiaomi con mapeo más accesible',
     pros: [
-      '4.8⭐ con {{reviews:MLA61420449}} calificaciones: uno de los robots más vendidos y mejor valorados del catálogo',
+      '{{rating:MLA61420449}}⭐ con {{reviews:MLA61420449}} calificaciones: uno de los robots más vendidos y mejor valorados del catálogo',
       'Mapeo láser LDS con escaneo 360°: recorre ordenado, con habitaciones y zonas prohibidas',
       '5.000 Pa con 4 modos (hasta Turbo): muy bueno para levantar pelo de mascota',
       'Aspira y trapea, con 3 niveles de caudal de agua',
@@ -30174,7 +30188,7 @@ Robot Gadnic AC800, base autolimpiante con bolsa de 3,2 L, cepillos laterales (c
       'La torre del sensor LDS lo deja en unos 10 cm de alto: no entra bajo muebles muy bajos',
       'Depósito con divisiones internas, algo incómodo de limpiar; repuestos difíciles de conseguir',
     ],
-    verdict: 'El Xiaomi con mapeo láser más accesible y el mejor precio/calidad de la línea: mapea preciso, aspira fuerte y se maneja todo por app. El trapeado es de mantenimiento y la batería queda justa para casas grandes, pero para departamentos y mantenimiento diario con mascotas es una de las compras más recomendables del catálogo.',
+    verdict: 'El Xiaomi con mapeo láser más accesible y el mejor precio/calidad de la línea: mapea preciso, aspira fuerte y se maneja todo por app. El trapeado es de mantenimiento y la batería queda justa para casas grandes, pero para departamentos y mantenimiento diario con mascotas es una de las compras más recomendables del catálogo. Lo honesto: el vendedor original se quedó sin stock el 31/10/2026 y pasamos a otra publicación del mismo modelo exacto; estas {{reviews:MLA61420449}} calificaciones son heredadas de la publicación original, no de la vigente hoy.',
     articleBody: `## Mapeo láser LDS: la función que lo cambia todo
 
 A diferencia de los robots económicos que andan al azar, el S40c usa navegación **láser LDS con escaneo 360°**. En unos 15 minutos arma un mapa preciso de la casa en la app Xiaomi Home, y a partir de ahí recorre ordenado, sin repetir ni dejar huecos, y vuelve solo a la base.
@@ -32356,11 +32370,11 @@ Esta ATMA no tiene función mate ni control de temperatura variable. Si tomás m
     title: 'Pava Eléctrica Atma PEAT1351WP — Interior Acero Inoxidable, 1.8L, 1500W, Blanca',
     canonicalName: 'Pava Eléctrica Atma PEAT1351 Blanca',
     brand: "Atma",
-    price: 54900,
-    priceLastChecked: "2026-10-12",
-    priceUpdated: "2026-08-31",
+    price: 36999,
+    priceLastChecked: "2026-10-31",
+    priceUpdated: "2026-10-31",
     priceStatus: "fresh",
-    priceVerifiedAt: "2026-08-31",
+    priceVerifiedAt: "2026-10-31",
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_869906-MLA114993395092_082026-F.webp',
     images: [
@@ -32369,8 +32383,15 @@ Esta ATMA no tiene función mate ni control de temperatura variable. Si tomás m
     category: 'Cocina',
     categorySlug: 'cocina',
     visibility: 'normal',
-    permalink: 'https://www.mercadolibre.com.ar/pava-electrica-1500w-18-litros-atma-blanco-peat1351wp/up/MLAU4016948916',
-    affiliateUrl: 'https://meli.la/1rMrWSu',
+    // Publicación anterior (MLAU4016948916, mismo vendedor) se quedó sin
+    // stock, verificado en vivo el 2026-10-31 ("no está disponible. Elige
+    // otra variante", única variante). Swap de vendedor: mismo modelo exacto
+    // (Atma PEAT1351WP, misma ficha técnica), catálogo MLA49199049 / item
+    // MLA2177080184, vendedor PHOTOSTORE, badge MÁS VENDIDO. Volver a la
+    // publicación anterior si recupera stock — permalink viejo comentado abajo.
+    // permalink viejo: "https://www.mercadolibre.com.ar/pava-electrica-1500w-18-litros-atma-blanco-peat1351wp/up/MLAU4016948916"
+    permalink: 'https://www.mercadolibre.com.ar/pava-electrica-1500w-18-litros-atma-blanco/p/MLA49199049',
+    affiliateUrl: 'https://meli.la/1mMbqaY',
     condition: 'new',
     freeShipping: false,
     soldQuantity: 5,
@@ -41245,11 +41266,11 @@ Comprar a vendedores con reputación verificada en Mercado Libre y desconfiar de
     title: "Perfume Rasasi Hawas Black 100ml Eau De Parfum Aromático Frutal Unisex",
     canonicalName: "Rasasi Hawas Black EDP 100ml",
     brand: "Rasasi",
-    price: 96000,
-    visibility: "deprioritized",
-    priceUpdated: "2026-10-05",
-    priceLastChecked: "2026-10-05",
-    priceStatus: "out_of_stock",
+    price: 82078,
+    visibility: "normal",
+    priceUpdated: "2026-10-31",
+    priceLastChecked: "2026-10-31",
+    priceStatus: "fresh",
     originalPrice: undefined,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_677810-MLA79663066925_092024-O.webp",
@@ -41262,8 +41283,18 @@ Comprar a vendedores con reputación verificada en Mercado Libre y desconfiar de
     ],
     category: "Belleza",
     categorySlug: "belleza",
-    permalink: "https://www.mercadolibre.com.ar/perfume-rasasi-hawas-black-100ml-eau-de-parfum-aromatico-frutal-unisex/p/MLA41306043",
-    affiliateUrl: "https://meli.la/2T9ofP2",
+    // Publicación original (MLA41306043) se quedó sin stock, verificado en
+    // vivo el 2026-10-31 ("Este producto no está disponible por el momento").
+    // Swap de vendedor (mismo producto, otro publicador): catálogo
+    // MLAU4354012090 / item MLA2098005177, 5.0★, +25 vendidos. Volver a la
+    // publicación original si recupera stock — permalink viejo comentado abajo.
+    // IMPORTANTE: reviewCount/rating/customerReviews de este ficha siguen
+    // siendo los de la publicación ORIGINAL (reviewCount guardado: 4051) — la
+    // nueva publicación tiene mucho menos historial. Pendiente de revisión editorial
+    // si esto se vuelve una ficha de largo plazo (ver docs/productos-sin-stock.md).
+    // permalink viejo: "https://www.mercadolibre.com.ar/perfume-rasasi-hawas-black-100ml-eau-de-parfum-aromatico-frutal-unisex/p/MLA41306043"
+    permalink: "https://www.mercadolibre.com.ar/perfume-rasasi-hawas-black-100ml-eau-de-parfum-aromatico-fru/up/MLAU4354012090",
+    affiliateUrl: "https://meli.la/12K2goY",
     condition: "new",
     freeShipping: true,
     rating: 4.8,
@@ -41286,7 +41317,7 @@ Comprar a vendedores con reputación verificada en Mercado Libre y desconfiar de
     seoTitle: "Rasasi Hawas Black 100ml: review y precio Argentina",
     metaDescription: "Análisis del Rasasi Hawas Black EDP 100ml: notas confirmadas, rating 4,8 en {{reviews:MLA41306043}} reseñas y si es unisex de verdad. Precio actualizado en Argentina.",
     ogTitle: "Rasasi Hawas Black 100ml: aromático frutal con fondo de pachulí y maderas",
-    ogDescription: "Piña, bergamota y toronja arriba; pachulí, cedro y jazmín en el medio; musgo de roble y ámbar de fondo. Rating 4,8 en más de 3.400 reseñas, aunque no es tan unisex como dice el título.",
+    ogDescription: "Piña, bergamota y toronja arriba; pachulí, cedro y jazmín en el medio; musgo de roble y ámbar de fondo. Rating {{rating:MLA41306043}} en {{reviews:MLA41306043}} reseñas, aunque no es tan unisex como dice el título.",
     h1: "Rasasi Hawas Black 100ml: review con datos reales y reseñas",
     description: "Eau de parfum aromático frutal con apertura de piña, bergamota y toronja, corazón de pachulí, cedro y jazmín, y fondo de musgo de roble y ámbar. Se vende como unisex, aunque la ficha técnica de Mercado Libre lo clasifica como perfume de hombre y las reseñas lo describen como un aroma maduro.",
     pros: [
@@ -41302,7 +41333,7 @@ Comprar a vendedores con reputación verificada en Mercado Libre y desconfiar de
       "Reseñas advierten que puede sentirse demasiado maduro para menores de 30 años. Conviene probarlo antes si es tu primer perfume árabe.",
       "Solo viene en 100ml, sin opción de frasco chico para probar antes de comprar el tamaño completo.",
     ],
-    verdict: "A $76.433 por 100ml, con 4,8 de rating en {{reviews:MLA41306043}} reseñas, Hawas Black es de los perfumes árabes con más volumen de opiniones reales del catálogo. Cumple si buscás un aromático frutal con fondo serio de pachulí, parecido al Club de Nuit Intense o al Hacivat. Ojo con el rótulo unisex: la propia ficha de Mercado Libre lo marca como perfume de hombre y las reseñas lo describen como un aroma de hombre maduro, así que si buscás algo realmente parejo para cualquier género, conviene probarlo antes.",
+    verdict: "A alrededor de {{precio:MLA41306043:k}} por 100ml, con {{rating:MLA41306043}} de rating en {{reviews:MLA41306043}} reseñas, Hawas Black es de los perfumes árabes con más volumen de opiniones reales del catálogo. Cumple si buscás un aromático frutal con fondo serio de pachulí, parecido al Club de Nuit Intense o al Hacivat. Ojo con el rótulo unisex: la propia ficha de Mercado Libre lo marca como perfume de hombre y las reseñas lo describen como un aroma de hombre maduro, así que si buscás algo realmente parejo para cualquier género, conviene probarlo antes. Lo honesto: el vendedor original se quedó sin stock el 31/10/2026 y pasamos a otra publicación del mismo producto; esa publicación nueva tiene mucho menos historial de ventas que el que reflejan estas {{reviews:MLA41306043}} reseñas, heredado de la publicación original.",
     bestSeason: ["Otoño", "Invierno", "Noches de verano"],
     bestOccasion: ["Salidas nocturnas", "Citas", "Eventos formales"],
     notRecommendedFor: ["Uso diurno de oficina", "Primer perfume árabe sin probarlo antes", "Menores de 30 según varias reseñas"],
@@ -41338,7 +41369,7 @@ Comprar a vendedores con reputación verificada en Mercado Libre y desconfiar de
     aiReviewSummary:
       "Los compradores destacan la proyección fuerte y el fondo amaderado-pachulí, y lo comparan seguido con Club de Nuit Intense y con Hacivat. El punto de fricción es el género: se vende como unisex pero varias reseñas y la propia ficha técnica lo describen como un perfume de hombre maduro, no recomendado para menores de 30.",
 
-    articleBody: `Hawas Black es la versión 2024 de la línea Hawas de Rasasi, la casa emiratí conocida por perfumes árabes que buscan parecerse a fragancias caras a una fracción del precio. Esta variante suma pachulí y musgo de roble al ADN cítrico-frutal de la línea, apuntando a un perfil más serio para la noche. En Mercado Libre Argentina acumula 4,8 de rating sobre 3.464 reseñas, uno de los volúmenes de opiniones más altos de todo el catálogo de perfumes árabes.
+    articleBody: `Hawas Black es la versión 2024 de la línea Hawas de Rasasi, la casa emiratí conocida por perfumes árabes que buscan parecerse a fragancias caras a una fracción del precio. Esta variante suma pachulí y musgo de roble al ADN cítrico-frutal de la línea, apuntando a un perfil más serio para la noche. En Mercado Libre Argentina acumula {{rating:MLA41306043}} de rating sobre {{reviews:MLA41306043}} reseñas, uno de los volúmenes de opiniones más altos de todo el catálogo de perfumes árabes (heredado de la publicación original; el vendedor se quedó sin stock el 31/10/2026 y la publicación vigente hoy tiene mucho menos historial propio).
 
 ## ¿Es tan unisex como dice el título?
 
@@ -43776,9 +43807,9 @@ Es para vos si: buscás un cítrico-gourmand liviano para primavera-verano o uso
     id: "MLA47054851",
     title: "Perfume Afnan 9 Pm 100 Ml Eau De Parfum",
     brand: "Afnan",
-    price: 67900,
-    priceUpdated: "2026-10-05",
-    priceLastChecked: "2026-10-05",
+    price: 57125,
+    priceUpdated: "2026-10-31",
+    priceLastChecked: "2026-10-31",
     priceStatus: "fresh",
     originalPrice: undefined,
     currency: "ARS",
@@ -43792,8 +43823,17 @@ Es para vos si: buscás un cítrico-gourmand liviano para primavera-verano o uso
     ],
     category: "Belleza",
     categorySlug: "belleza",
-    permalink: "https://www.mercadolibre.com.ar/perfume-afnan-9-pm-100-ml-eau-de-parfum/p/MLA47054851",
-    affiliateUrl: "https://meli.la/2Njx2cC",
+    // Publicación original (MLA47054851) se quedó sin stock, verificado en
+    // vivo el 2026-10-31 ("Este producto no está disponible por el momento").
+    // Swap de vendedor: mismo producto (Afnan 9pm EDP 100ml), catálogo
+    // MLA47090361 / item MLA2185283445, 4.9★, +500 vendidos, badge MÁS
+    // VENDIDO. Volver a la publicación original si recupera stock —
+    // permalink viejo comentado abajo. rating/reviewCount siguen siendo los
+    // de la publicación original (reviewCount guardado: 293) — pendiente de
+    // revisión editorial.
+    // permalink viejo: "https://www.mercadolibre.com.ar/perfume-afnan-9-pm-100-ml-eau-de-parfum/p/MLA47054851"
+    permalink: "https://www.mercadolibre.com.ar/afnan-9pm-edp-100-ml-hombre/p/MLA47090361",
+    affiliateUrl: "https://meli.la/2gAJvWX",
     condition: "new",
     freeShipping: true,
     rating: 4.9,
@@ -43813,14 +43853,14 @@ Es para vos si: buscás un cítrico-gourmand liviano para primavera-verano o uso
       "Longevidad de 8-10 horas reportada (hasta 12 en piel que lo fija bien)",
       "Proyección fuerte las primeras 3-4 horas: se nota al entrar a un lugar",
       "Eau de Parfum de 100 ml con envío gratis",
-      "Rating 4.7 en este listing y de los árabes masculinos más vendidos del catálogo",
+      "Rating {{rating:MLA47054851}} en este listing y de los árabes masculinos más vendidos del catálogo",
     ],
     cons: [
       "Es de los más vendidos: vas a cruzar gente con el mismo perfume",
       "En verano la combinación dulce-vainilla empalaga y satura",
       "No sirve para oficina formal: es fuerte y se proyecta mucho",
       "La apertura puede sentirse un poco sintética los primeros minutos",
-      "Es un listing alternativo: solo 82 opiniones acá contra casi 1.900 en la publicación principal",
+      "Es un listing alternativo: {{reviews:MLA47054851}} opiniones acá contra {{reviews:MLA19846768}} en la publicación principal",
     ],
     articleBody: `## Qué es y para quién alcanza
 
@@ -43848,7 +43888,7 @@ Sumá dos detalles honestos: la apertura puede sentirse un poco sintética los p
 
 ## La contra real de este listing
 
-Este es un listing alternativo del Afnan 9PM, vendido por otro publicador en MercadoLibre. Es el mismo producto que la ficha principal del sitio, pero con menos historial: 82 opiniones (rating 4.7) contra casi 1.900 de la publicación más establecida. Para validar con una comunidad de reseñas más grande, conviene mirar la ficha principal del Afnan 9PM.
+Este es un listing alternativo del Afnan 9PM, vendido por otro publicador en MercadoLibre. Es el mismo producto que la ficha principal del sitio, pero con menos historial: {{reviews:MLA47054851}} opiniones (rating {{rating:MLA47054851}}) contra {{reviews:MLA19846768}} de la publicación más establecida. Para validar con una comunidad de reseñas más grande, conviene mirar la ficha principal del Afnan 9PM. Lo honesto: el vendedor de este listing también tuvo un cambio de publicación por falta de stock (31/10/2026); estas {{reviews:MLA47054851}} calificaciones son heredadas de la publicación anterior, no de la vigente hoy.
 
 ## Para quién sí y para quién no
 
@@ -43884,7 +43924,7 @@ El Afnan 9PM hace bien una sola cosa: ser un dulce masculino potente y reconocib
       },
       {
         question: "¿Por qué este listing tiene menos opiniones que otros del mismo perfume?",
-        answer: "Es un listing alternativo del mismo Afnan 9PM, publicado por otro vendedor: tiene 82 opiniones con 4.7 de rating. La publicación principal del mismo producto acumula casi 1.900 opiniones, que sirven para validar con una comunidad más grande.",
+        answer: "Es un listing alternativo del mismo Afnan 9PM, publicado por otro vendedor: tiene {{reviews:MLA47054851}} opiniones con {{rating:MLA47054851}} de rating. La publicación principal del mismo producto acumula {{reviews:MLA19846768}} opiniones, que sirven para validar con una comunidad más grande.",
       },
     ],
   },
@@ -46602,9 +46642,9 @@ Recomendación final: si dudás entre el set y un 100ml individual, andá por el
   {
     id: "MLA45984979",
     title: "Set Lattafa Yara + Yara Candy 5th Anniversary Edition 2x100ml Mujer",
-    price: 93826,
-    priceUpdated: "2026-09-25",
-    priceLastChecked: "2026-09-25",
+    price: 114874,
+    priceUpdated: "2026-10-31",
+    priceLastChecked: "2026-10-31",
     priceStatus: "fresh",
     originalPrice: undefined,
     currency: "ARS",
@@ -46618,8 +46658,18 @@ Recomendación final: si dudás entre el set y un 100ml individual, andá por el
     ],
     category: "Belleza",
     categorySlug: "belleza",
-    permalink: "https://www.mercadolibre.com.ar/set-lattafa-yara-rosa-candy-5to-aniversario/p/MLA45984979",
-    affiliateUrl: "https://meli.la/2qjxA7G",
+    // Publicación original (MLA45984979, también compra internacional) se
+    // quedó sin stock, verificado en vivo el 2026-10-31 ("no está disponible
+    // por el momento"). Swap de vendedor: mismo set exacto, catálogo
+    // MLA2121176806 / item MLA4025945600, vendedor VYSEGLOBAL ARG
+    // (MercadoLíder Platinum, +1000 ventas). Sigue siendo compra
+    // internacional, igual que la publicación original. Volver a la
+    // publicación original si recupera stock — permalink viejo comentado abajo.
+    // rating/reviewCount siguen siendo los de la publicación original
+    // (reviewCount guardado: 1287) — pendiente de revisión editorial.
+    // permalink viejo: "https://www.mercadolibre.com.ar/set-lattafa-yara-rosa-candy-5to-aniversario/p/MLA45984979"
+    permalink: "https://www.mercadolibre.com.ar/lattafa-yara-5th-anniversary-2-pcs-gift-set-yara/p/MLA2121176806",
+    affiliateUrl: "https://meli.la/1Qwm8nv",
     condition: "new",
     freeShipping: false,
     rating: 4.8,
@@ -46632,6 +46682,7 @@ Recomendación final: si dudás entre el set y un 100ml individual, andá por el
 
     pros: [
       "2 × 100 ml — el formato más grande, suficiente para meses de uso intensivo",
+      "Hoy sale más barato comprado junto que las 2 fragancias sueltas por separado (verificá los precios individuales, pueden cambiar)",
       "Las 2 versiones más vendidas y populares de la línea Yara",
       "Rating 4.8 con {{reviews:MLA45984979}} reseñas — uno de los sets mejor valorados del catálogo",
       "Edición limitada del 5to aniversario — coleccionable",
@@ -46640,21 +46691,20 @@ Recomendación final: si dudás entre el set y un 100ml individual, andá por el
       "Las dos fragancias son complementarias: Yara para diario, Candy para ocasiones",
     ],
     cons: [
-      "Precio alto: solo $3.869 más barato que comprar las 2 versiones individuales sueltas",
       "NO vegano (a diferencia del Set My Yara Collection que sí lo es)",
       "NO libre de crueldad animal",
       "Solo 2 fragancias — si querés probar las 4 versiones, mejor el Set My Yara Collection",
-      "Compra internacional: el precio final puede incluir aranceles e impuestos extra",
+      "Compra internacional: el precio final puede incluir aranceles e impuestos extra, y el envío puede demorar más",
     ],
     verdict:
-      "El set para fans confirmados de Yara que quieren las 2 versiones más populares en formato 100 ml grande con presentación coleccionable. Si todavía no probaste la línea Yara, mejor empezá por el Set My Yara Collection ($64.508) con 4 fragancias en 25 ml. Si ya sabés que Yara y Candy son tus favoritos, este set te da el formato grande con el bonus del packaging especial.",
+      "El set para fans confirmados de Yara que quieren las 2 versiones más populares en formato 100 ml grande con presentación coleccionable. Si todavía no probaste la línea Yara, mejor empezá por el Set My Yara Collection ($64.508) con 4 fragancias en 25 ml. Si ya sabés que Yara y Candy son tus favoritos, este set te da el formato grande con el bonus del packaging especial. Lo honesto: el vendedor original se quedó sin stock el 31/10/2026 y pasamos a otra publicación del mismo set; estas {{reviews:MLA45984979}} calificaciones son heredadas de la publicación original, no de la vigente hoy.",
 
     seoTitle: "Set Yara + Yara Candy 2x100ml: review y opiniones",
     metaDescription:
       "Set edición limitada Yara + Yara Candy 5to aniversario: review completa, 200+ reseñas analizadas, comparación contra Set My Yara Collection y compra individual. Rating 4.8 ML.",
     ogTitle: "Set Yara + Yara Candy 5to Aniversario — Edición Especial Lattafa",
     ogDescription:
-      "Las 2 Yara más vendidas en 100ml cada una. Edición limitada coleccionable. Rating 4.8 con 811 reseñas verificadas.",
+      "Las 2 Yara más vendidas en 100ml cada una. Edición limitada coleccionable. Rating {{rating:MLA45984979}} con {{reviews:MLA45984979}} reseñas verificadas.",
     h1: "Set Lattafa Yara + Yara Candy 5to Aniversario — la edición especial para fans confirmados",
 
     articleBody: `El Set 5to Aniversario es la edición especial que Lattafa lanzó en 2024 para celebrar 5 años desde el lanzamiento del Yara original (2020). Incluye dos productos: Yara EDP en frasco rosa pastel y Yara Candy EDP en frasco rosa fucsia, ambos en formato 100 ml. Con {{reviews:MLA45984979}} calificaciones y rating 4.8 en Mercado Libre, es uno de los productos mejor valorados del catálogo árabe femenino.
@@ -46683,12 +46733,12 @@ Algunas compradoras descubrieron una tercera forma de usar el set: mezclando las
 
 ## Precio y conveniencia versus alternativas
 
-El set cuesta $100.528 (compra internacional) e incluye 200 ml totales. Comparado con:
+El set cuesta {{precio:MLA45984979}} (compra internacional) e incluye 200 ml totales. Comparado con:
 
 - **Set My Yara Collection ($64.508):** 4 fragancias × 25 ml = 100 ml total. Mejor para descubrir la línea o regalar a alguien que nunca probó Yara. Único producto vegano del catálogo.
-- **Yara individual 100 ml:** ~$60.000.
-- **Yara Candy individual 100 ml:** $44.397.
-- **Sumados ($60.000 + $44.397 = $104.397):** El set sale levemente más conveniente que comprar las 2 fragancias por separado, pero la diferencia es marginal ($3.869).
+- **Yara individual 100 ml:** {{precio:MLAU2983186467}}.
+- **Yara Candy individual 100 ml:** {{precio:MLA39865991}}.
+- **Sumados:** comprando las 2 fragancias sueltas hoy sale más caro que el set. Esta diferencia depende del precio vigente de cada publicación en el momento de comprar, así que conviene verificarla antes de decidir.
 
 La ventaja real del set no es tanto el precio sino la **edición limitada coleccionable** y el **valor de regalo premium**. La caja de aniversario es más elegante que las cajas individuales y para un regalo de cumpleaños, día de la madre o aniversario, suma puntos visuales.
 
@@ -46798,7 +46848,7 @@ Una compradora colombiana comparte un dato útil: "recomiendo dejar macerar por 
       {
         name: "Compra individual de Yara 100 ml + Yara Candy 100 ml",
         similarity:
-          "Casi mismo precio total ($60.000 + $44.397 = $104.397 individual vs $100.528 set). La ventaja del set es la edición especial coleccionable, no el ahorro económico (apenas $3.869).",
+          "Hoy comprar las 2 fragancias sueltas sale más caro que el set (los precios de cada publicación cambian, conviene verificarlos antes de decidir). Además de un posible ahorro, el set suma la edición especial coleccionable que la compra individual no tiene.",
       },
       {
         name: "Yara Elixir individual ($68.000)",
@@ -46861,12 +46911,12 @@ Una compradora colombiana comparte un dato útil: "recomiendo dejar macerar por 
       {
         question: "¿Cuál es la diferencia con el Set My Yara Collection?",
         answer:
-          "Son productos distintos para públicos distintos. El Set My Yara Collection ($64.508) tiene 4 fragancias × 25 ml (incluye Yara, Yara Moi, Yara Tous y Yara Candy) y es ideal para descubrir la línea o regalar a alguien que nunca la probó. Es vegano y libre de crueldad. El Set 5to Aniversario ($100.528) tiene 2 fragancias × 100 ml (solo Yara y Yara Candy) y es para fans confirmados que quieren ambas versiones en formato grande con presentación coleccionable. NO es vegano.",
+          "Son productos distintos para públicos distintos. El Set My Yara Collection ($64.508) tiene 4 fragancias × 25 ml (incluye Yara, Yara Moi, Yara Tous y Yara Candy) y es ideal para descubrir la línea o regalar a alguien que nunca la probó. Es vegano y libre de crueldad. El Set 5to Aniversario ({{precio:MLA45984979}}) tiene 2 fragancias × 100 ml (solo Yara y Yara Candy) y es para fans confirmados que quieren ambas versiones en formato grande con presentación coleccionable. NO es vegano.",
       },
       {
         question: "¿Vale la pena versus comprar las 2 fragancias por separado?",
         answer:
-          "El precio individual sumado de Yara ($60.000 aprox) y Yara Candy ($44.397) da $104.397, levemente superior a los $100.528 del set. La conveniencia económica es marginal ($3.869). La ventaja real está en la edición limitada coleccionable y el valor de regalo. Si buscás solo precio, comprá las 2 individualmente. Si buscás el packaging especial o lo querés como regalo, el set vale la pena.",
+          "Sí, hoy el set sale más barato que comprar Yara ({{precio:MLAU2983186467}}) y Yara Candy ({{precio:MLA39865991}}) por separado, aunque esa diferencia depende de los precios vigentes en cada publicación y puede cambiar: conviene comparar antes de decidir. Además del posible ahorro, el set suma la edición limitada coleccionable y el valor de regalo que la compra individual no tiene.",
       },
       {
         question: "¿Cómo huele cada fragancia?",
@@ -73563,8 +73613,8 @@ Comprá el Coronet YK-BPW4 si el precio es tu prioridad y no te molesta una pequ
     id: "MLA24111585",
     title: "Tensiómetro digital de muñeca automático Omron HEM-6124 gris",
     canonicalName: "Tensiómetro Digital de Muñeca Omron HEM-6124",
-    price: 84999,
-    originalPrice: 130725,
+    price: 121446,
+    originalPrice: undefined,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_Q_NP_861229-MLU72826918143_112023-F.webp",
     images: [
@@ -73573,14 +73623,22 @@ Comprá el Coronet YK-BPW4 si el precio es tu prioridad y no te molesta una pequ
     category: "Salud y Bienestar",
     categorySlug: "salud-bienestar",
     // Publicación original (MLA24111585, vendedor distinto) se quedó sin stock
-    // el 2026-07-20. Mismo producto (Omron HEM-6124), publicación alternativa
-    // con stock confirmado en Farmacias Selma (tienda oficial). Volver a la
-    // publicación original si recupera stock — permalink viejo comentado abajo.
-    // permalink viejo: "https://www.mercadolibre.com.ar/tensiometro-digital-de-muneca-automatico-omron-hem-6124-gris/p/MLA24111585"
-    permalink: "https://www.mercadolibre.com.ar/omron-tensiometro-digital-de-muneca-hem6124/up/MLAU332481087",
-    affiliateUrl: "https://meli.la/2wbFaEU",
+    // el 2026-07-20. Primer swap de vendedor: Farmacias Selma (MLAU332481087).
+    // SEGUNDO swap, 2026-10-31: esa publicación de Farmacias Selma TAMBIÉN se
+    // quedó sin stock ("Este producto no está disponible por el momento",
+    // verificado en vivo). Nuevo vendedor: Farma Plus, catálogo MLA28753837 /
+    // item MLA1441913191, 4.9★, +100 vendidos, $121.446. Volver a cualquiera
+    // de las dos publicaciones anteriores si recuperan stock — permalinks
+    // viejos comentados abajo.
+    // permalink viejo (original): "https://www.mercadolibre.com.ar/tensiometro-digital-de-muneca-automatico-omron-hem-6124-gris/p/MLA24111585"
+    // permalink viejo (1er swap, Farmacias Selma): "https://www.mercadolibre.com.ar/omron-tensiometro-digital-de-muneca-hem6124/up/MLAU332481087"
+    permalink: "https://www.mercadolibre.com.ar/tensiometro-de-muneca-omron-hem-6124-essential-cts/p/MLA28753837",
+    affiliateUrl: "https://meli.la/2gBoQMa",
     condition: "new",
     freeShipping: true,
+    // rating/reviewCount siguen siendo los de la publicación de Farmacias
+    // Selma (el swap anterior), no los de Farma Plus (swap actual, +100
+    // vendidos). Pendiente de revisión editorial, ver nota arriba.
     rating: 4.8,
     reviewCount: 6682,
     soldQuantity: 10000,
@@ -73600,14 +73658,14 @@ Comprá el Coronet YK-BPW4 si el precio es tu prioridad y no te molesta una pequ
       { label: "Estuche", value: "No incluido" },
     ],
     relatedProducts: ["MLA24044627", "MLA22255575", "MLA24533653"],
-    priceUpdated: "2026-09-14",
-    priceLastChecked: "2026-09-14",
+    priceUpdated: "2026-10-31",
+    priceLastChecked: "2026-10-31",
     priceStatus: "fresh",
     reviewsSampledAt: "2026-07-19",
     description: "Tensiómetro digital de muñeca Omron HEM-6124: la mejor combinación de marca reconocida y formato compacto de esta guía, con {{reviews:MLA24111585}} opiniones reales.",
     seoTitle: "Omron HEM-6124: tensiómetro de muñeca de marca líder",
     metaDescription: "Tensiómetro digital de muñeca Omron HEM-6124. {{reviews:MLA24111585}} opiniones reales, 4.8 estrellas. Precio actualizado y contras honestas.",
-    verdict: "Sirve si buscás el respaldo de marca Omron en formato muñeca, más compacto y barato que la versión de brazo de la misma marca. Tiene {{reviews:MLA24111585}} calificaciones reales, la segunda base más grande de esta guía. La contra real: no incluye estuche de guardado, según una reseña. No es para vos si preferís el formato brazo (el estándar de medición): para eso, el Omron HEM-7142 de esta guía.",
+    verdict: "Sirve si buscás el respaldo de marca Omron en formato muñeca, más compacto y barato que la versión de brazo de la misma marca. Tiene {{reviews:MLA24111585}} calificaciones reales, la segunda base más grande de esta guía. La contra real: no incluye estuche de guardado, según una reseña. No es para vos si preferís el formato brazo (el estándar de medición): para eso, el Omron HEM-7142 de esta guía. Lo honesto: el vendedor tuvo dos cambios de publicación por falta de stock (31/10/2026 el último); estas {{reviews:MLA24111585}} calificaciones son heredadas de una publicación anterior, no de la que está vigente hoy.",
     pros: [
       "Marca líder de la categoría en formato muñeca, más compacto que el de brazo",
       "{{reviews:MLA24111585}} calificaciones reales, la segunda base más grande de esta guía",
@@ -83286,24 +83344,24 @@ Comprala si priorizás cuadro de aluminio y frenos a disco por sobre el precio, 
       { label: "Peso de la bicicleta", value: "24 kg" },
       { label: "Es plegable", value: "Sí" },
     ],
-    relatedProducts: ["MLA47150419", "MLA63590384", "MLAU3143206258", "MLA26955875", "MLA53621331"],
+    relatedProducts: ["MLA47150419", "MLAU3399532573", "MLA62339970", "MLAU3143206258"],
     priceUpdated: "2026-09-28",
     priceLastChecked: "2026-10-12",
     priceStatus: "fresh",
     reviewsSampledAt: "2026-08-06",
-    description: "Valentini Plegable 20: la más barata de esta comparativa de bicicletas eléctricas, con stock inmediato en Argentina. Plegable, motor de 350 W y batería removible.",
-    seoTitle: "Valentini Plegable 20: la bicicleta eléctrica más barata",
-    metaDescription: "Bicicleta eléctrica Valentini Plegable 20: la más barata de la comparativa, motor 350W, plegable, batería removible. Precio real y contras honestas.",
-    verdict: "La Valentini Plegable 20 es la más barata de esta comparativa de bicicletas eléctricas, con stock inmediato en Argentina (no es importación con demora) y motor de 350 W. La contra real: la ficha técnica de MercadoLibre declara la autonomía en \"45 h\" (horas), un dato con error de unidad que no pudimos confirmar en kilómetros reales.",
+    description: "Valentini Plegable 20: plegable con stock inmediato en Argentina (no importación), motor de 350 W y batería removible.",
+    seoTitle: "Valentini Plegable 20: bicicleta eléctrica con stock inmediato",
+    metaDescription: "Bicicleta eléctrica Valentini Plegable 20: stock inmediato en Argentina, motor 350W, plegable, batería removible. Precio real y contras honestas.",
+    verdict: "La Valentini Plegable 20 tiene stock inmediato en Argentina (no es importación con demora), es plegable y tiene motor de 350 W. La contra real: la ficha técnica de MercadoLibre declara la autonomía en \"45 h\" (horas), un dato con error de unidad que no pudimos confirmar en kilómetros reales.",
     pros: [
-      "La más barata de esta comparativa: $1.399.000",
-      "Plegable, con batería de litio removible",
       "Stock inmediato en Argentina (envío en 1-2 días, no importación)",
+      "Plegable, con batería de litio removible",
       "Vendida por tienda con más de 1.000 ventas y categoría MercadoLíder Gold",
     ],
     cons: [
       "La ficha técnica declara la autonomía en \"45 h\" (horas), un error de unidad que no pudimos traducir a kilómetros reales con certeza",
-      "Motor de 350 W, menos potente que la MOOY M7 (500 W) o la HONEYWHALE (900 W) de esta comparativa",
+      "No es la más barata de esta comparativa: la Safeway y la Rango cuestan menos",
+      "Motor de 350 W, menos potente que la MOOY M7 (500 W) o la HONEYWHALE (1.000 W) de esta comparativa",
       "Solo {{reviews:MLA59609902}} calificaciones todavía",
     ],
     articleBody: `## Qué es y para quién
@@ -83312,7 +83370,7 @@ La Valentini Plegable 20 es una bicicleta eléctrica plegable rodado 20, con mot
 
 ## Lo bueno
 
-Es la más barata de esta comparativa, a $1.399.000, con stock inmediato en Argentina (no es una importación con semanas de demora). Está vendida por "Import Racer", con más de 1.000 ventas y categoría MercadoLíder Gold. Una compradora real la describe: "la batería tiene muy buena autonomía, el motor responde perfecto y es súper cómoda para usar todos los días".
+Tiene stock inmediato en Argentina (no es una importación con semanas de demora), a {{precio:MLA59609902}}. Está vendida por "Import Racer", con más de 1.000 ventas y categoría MercadoLíder Gold. Una compradora real la describe: "la batería tiene muy buena autonomía, el motor responde perfecto y es súper cómoda para usar todos los días".
 
 ## La contra real
 
@@ -83320,9 +83378,9 @@ La ficha técnica de MercadoLibre declara la autonomía como "45 h" (horas), un 
 
 ## Para quién sí y para quién no
 
-Comprala si buscás la opción más económica de esta comparativa con stock inmediato y formato plegable. Si necesitás un dato de autonomía real y verificable antes de comprar, la Rango Worker Plus o la HONEYWHALE de esta guía declaran su autonomía en kilómetros de forma más clara.`,
+Comprala si buscás stock inmediato y formato plegable sin esperar una importación. Si priorizás el precio más bajo, la Safeway o la Rango de esta comparativa cuestan menos. Si necesitás un dato de autonomía real y verificable antes de comprar, la Rango Worker Plus o la HONEYWHALE de esta guía declaran su autonomía en kilómetros de forma más clara.`,
     faq: [
-      { question: "¿Es la bicicleta eléctrica más barata de esta comparativa?", answer: "Sí, a $1.399.000 es la más barata de esta guía de bicicletas eléctricas." },
+      { question: "¿Es la bicicleta eléctrica más barata de esta comparativa?", answer: "No: a {{precio:MLA59609902}}, la Safeway EM100 y la Rango Worker Plus cuestan menos. La Valentini se destaca por tener stock inmediato en Argentina, sin espera de importación." },
       { question: "¿Cuál es la autonomía real de la Valentini Plegable 20?", answer: "La ficha técnica de MercadoLibre la declara como \"45 h\" (horas), un dato con error de unidad que no pudimos confirmar en kilómetros. No hay reseñas que reporten la distancia real recorrida." },
       { question: "¿Tiene stock inmediato en Argentina?", answer: "Sí, según la publicación se envía en 1-2 días desde Argentina, no es una importación con demora." },
       { question: "¿Es plegable?", answer: "Sí, según la ficha técnica, con batería de litio removible." },
@@ -83332,7 +83390,7 @@ Comprala si buscás la opción más económica de esta comparativa con stock inm
     id: "MLA47150419",
     title: "Bicicleta Eléctrica Plegable Autono50km Rango Worker Plus Color Verde",
     canonicalName: "Bicicleta Eléctrica Rango Worker Plus",
-    price: 2000000,
+    price: 1350000,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_600440-MLA99928920461_112025-O.webp",
     images: [
@@ -83340,8 +83398,20 @@ Comprala si buscás la opción más económica de esta comparativa con stock inm
     ],
     category: "Movilidad",
     categorySlug: "movilidad",
-    permalink: "https://www.mercadolibre.com.ar/bicicleta-electrica-plegable-autono50km-rango-worker-plus-color-verde/p/MLA47150419",
-    affiliateUrl: "https://meli.la/1kHhjpZ",
+    // Publicación original (MLA47150419) se quedó sin stock, verificado en
+    // vivo el 2026-10-31 ("no está disponible. Elige otra variante", única
+    // variante). Swap de vendedor: mismo rubro/marca (Rango, plegable,
+    // acelerador, autonomía 50km declarada en el título), catálogo
+    // MLA65095687 / item MLA2824707868, 4.9★, +50 vendidos, $1.350.000.
+    // ADVERTENCIA: el título de este listing NO dice literalmente "Worker
+    // Plus" (dice "Con Acelerador Aut50km Negro", color distinto al original
+    // verde) — no se pudo confirmar que sea el mismo sub-modelo exacto que
+    // declaran los `specs` de abajo ("Modelo: Worker Plus"). Pendiente
+    // verificar specs 1:1 antes de dar por cerrado este swap. Volver a la
+    // publicación original si recupera stock — permalink viejo comentado abajo.
+    // permalink viejo: "https://www.mercadolibre.com.ar/bicicleta-electrica-plegable-autono50km-rango-worker-plus-color-verde/p/MLA47150419"
+    permalink: "https://www.mercadolibre.com.ar/bicicleta-electrica-plegable-rango-con-acelerador-aut50km-negro/p/MLA65095687",
+    affiliateUrl: "https://meli.la/2uYL56z",
     condition: "new",
     freeShipping: true,
     rating: 4.8,
@@ -83358,23 +83428,23 @@ Comprala si buscás la opción más económica de esta comparativa con stock inm
       { label: "Sistema", value: "EPAC (asistencia al pedaleo) + acelerador impermeable" },
       { label: "Neumáticos", value: "Rueda ancha (fat tire)" },
     ],
-    relatedProducts: ["MLA59609902", "MLA63590384", "MLAU3143206258", "MLA26955875", "MLA53621331"],
+    relatedProducts: ["MLA59609902", "MLAU3399532573", "MLA62339970", "MLAU3143206258"],
     priceUpdated: "2026-10-09",
     priceLastChecked: "2026-10-12",
     priceStatus: "fresh",
     reviewsSampledAt: "2026-08-06",
-    description: "Rango Worker Plus: el mejor rating de esta comparativa de bicicletas eléctricas (5.0), plegable en 3 pasos, con acelerador impermeable. Pensada por el vendedor para uso de trabajo/delivery.",
+    description: "Rango Worker Plus: plegable en 3 pasos con acelerador impermeable, pensada por el vendedor para uso de trabajo/delivery. {{reviews:MLA47150419}} calificaciones a {{rating:MLA47150419}} estrellas.",
     seoTitle: "Rango Worker Plus: bicicleta eléctrica plegable para trabajo",
-    metaDescription: "Bicicleta eléctrica Rango Worker Plus: 5.0 estrellas, plegable, acelerador impermeable, 50km de autonomía declarada. Precio real y contras honestas.",
-    verdict: "La Rango Worker Plus tiene el mejor rating de esta comparativa (5.0 estrellas), aunque con solo {{reviews:MLA47150419}} calificaciones. Es plegable en 3 pasos, con sistema EPAC de asistencia al pedaleo más acelerador impermeable, y el vendedor la posiciona explícitamente para trabajo/delivery. La contra real: los 50 km de autonomía son una cifra del vendedor que ninguna reseña visible confirma de forma independiente.",
+    metaDescription: "Bicicleta eléctrica Rango Worker Plus: plegable, acelerador impermeable, 50km de autonomía declarada. {{reviews:MLA47150419}} opiniones reales. Precio y contras honestas.",
+    verdict: "La Rango Worker Plus es plegable en 3 pasos, con sistema EPAC de asistencia al pedaleo más acelerador impermeable, y el vendedor la posiciona explícitamente para trabajo/delivery. Tiene {{reviews:MLA47150419}} calificaciones a {{rating:MLA47150419}} estrellas. La contra real: los 50 km de autonomía son una cifra del vendedor que ninguna reseña visible confirma de forma independiente.",
     pros: [
-      "El mejor rating de esta comparativa: 5.0 estrellas",
+      "Pensada explícitamente por el vendedor para trabajo o delivery: acelerador impermeable además de pedaleo asistido",
       "Plegable en 3 pasos, con acelerador impermeable además de la asistencia al pedaleo",
       "Vendida por tienda oficial Rango con más de 1.000 ventas",
       "Stock confirmado en vivo al momento de la verificación",
     ],
     cons: [
-      "Solo {{reviews:MLA47150419}} calificaciones, volumen bajo para un 5.0 estrellas",
+      "Solo {{reviews:MLA47150419}} calificaciones, volumen bajo todavía",
       "Los 50 km de autonomía son una cifra del vendedor, ninguna reseña visible la confirma de forma independiente",
       "No declara la potencia del motor en watts en la ficha técnica",
     ],
@@ -83384,15 +83454,15 @@ La Rango Worker Plus es una bicicleta eléctrica plegable con sistema EPAC (asis
 
 ## Lo bueno
 
-Tiene el mejor rating de esta comparativa, 5.0 estrellas, vendida por la tienda oficial Rango con más de 1.000 ventas y stock confirmado en vivo. Una compradora real la describe: "se lleva todas las miradas por su practicidad, comodidad y calidad". Es plegable en 3 pasos y combina pedaleo asistido con acelerador impermeable, útil para uso diario en cualquier clima.
+Está vendida por la tienda oficial Rango, con más de 1.000 ventas y stock confirmado en vivo. Una compradora real la describe: "se lleva todas las miradas por su practicidad, comodidad y calidad". Es plegable en 3 pasos y combina pedaleo asistido con acelerador impermeable, útil para uso diario en cualquier clima, y el vendedor la posiciona explícitamente para trabajo o delivery.
 
 ## La contra real
 
-Los 50 km de autonomía que declara la publicación son una cifra del vendedor: ninguna reseña visible del producto confirma esa distancia de forma independiente con un recorrido real. Tampoco declara la potencia del motor en watts en la ficha técnica, un dato que sí aparece en la mayoría de las demás bicicletas de esta comparativa. Solo {{reviews:MLA47150419}} calificaciones todavía, así que el 5.0 estrellas tiene poco respaldo estadístico.
+Los 50 km de autonomía que declara la publicación son una cifra del vendedor: ninguna reseña visible del producto confirma esa distancia de forma independiente con un recorrido real. Tampoco declara la potencia del motor en watts en la ficha técnica, un dato que sí aparece en la mayoría de las demás bicicletas de esta comparativa. Solo {{reviews:MLA47150419}} calificaciones todavía, volumen bajo.
 
 ## Para quién sí y para quién no
 
-Comprala si buscás una bicicleta eléctrica plegable pensada para uso de trabajo diario, con acelerador además del pedaleo asistido. Si preferís un dato de potencia de motor claramente declarado, la Enova, la Kroner o la MOOY M7 de esta comparativa lo especifican en watts.`,
+Comprala si buscás una bicicleta eléctrica plegable pensada para uso de trabajo diario, con acelerador además del pedaleo asistido. Si preferís un dato de potencia de motor claramente declarado, la Safeway, la MOOY M7 o la HONEYWHALE de esta comparativa lo especifican en watts.`,
     faq: [
       { question: "¿Cuál es la autonomía real de la Rango Worker Plus?", answer: "El vendedor declara 50 km, pero ninguna reseña visible del producto confirma esa distancia de forma independiente con un recorrido real reportado." },
       { question: "¿Es plegable?", answer: "Sí, se pliega en 3 pasos según la publicación." },
@@ -83405,6 +83475,15 @@ Comprala si buscás una bicicleta eléctrica plegable pensada para uso de trabaj
     title: "Bicicleta Eléctrica R29 350w Shimano 8 Velocidades Kroner Verde Lima",
     canonicalName: "Bicicleta Eléctrica Kroner R29",
     price: 1549726,
+    // Sin stock, verificado en vivo el 2026-10-31 ("no está disponible.
+    // Elige otra variante", única variante, mismo modelo sin drift de
+    // specs). Búsqueda de vendedor alternativo: no se encontró NINGÚN
+    // vendedor con la marca Kroner activa en ML hoy (ni este modelo ni otros).
+    // No hay swap disponible — ver docs/productos-sin-stock.md.
+    visibility: "deprioritized",
+    priceStatus: "out_of_stock",
+    priceUpdated: "2026-10-31",
+    priceLastChecked: "2026-10-31",
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_786383-MLA110341892464_052026-O.webp",
     images: [
@@ -83419,7 +83498,6 @@ Comprala si buscás una bicicleta eléctrica plegable pensada para uso de trabaj
     rating: 4.6,
     reviewCount: 82,
     pastelColor: "var(--pastel-green)",
-    visibility: "normal",
     specs: [
       { label: "Marca", value: "Kroner" },
       { label: "Modelo", value: "KR-E29" },
@@ -83433,9 +83511,6 @@ Comprala si buscás una bicicleta eléctrica plegable pensada para uso de trabaj
       { label: "Es plegable", value: "No" },
     ],
     relatedProducts: ["MLA59609902", "MLA47150419", "MLAU3143206258", "MLA26955875", "MLA53621331"],
-    priceUpdated: "2026-09-04",
-    priceLastChecked: "2026-09-04",
-    priceStatus: "fresh",
     reviewsSampledAt: "2026-08-06",
     description: "Kroner R29: la única mountain bike rígida rodado 29 de esta comparativa de bicicletas eléctricas, con componentes Shimano y batería removible. Insignia de \"3° más vendida en Bicicletas Eléctricas\" de MercadoLibre.",
     seoTitle: "Kroner R29: bicicleta eléctrica mountain bike rodado 29",
@@ -83507,19 +83582,19 @@ Comprala si buscás específicamente el formato rodado 29 (rueda grande) con com
       { label: "Es plegable", value: "No" },
       { label: "Requiere ensamblado", value: "Sí" },
     ],
-    relatedProducts: ["MLA59609902", "MLA47150419", "MLA63590384", "MLA26955875", "MLA53621331"],
+    relatedProducts: ["MLA59609902", "MLA47150419", "MLAU3399532573", "MLA62339970"],
     priceUpdated: "2026-10-07",
     priceLastChecked: "2026-10-12",
     priceStatus: "fresh",
     reviewsSampledAt: "2026-08-06",
-    description: "MOOY M7: la segunda mayor potencia de motor de esta comparativa de bicicletas eléctricas (500 W, detrás de la HONEYWHALE), formato fat-tire/chopper único de esta guía. Velocidad máxima de 40 km/h confirmada por una reseña real.",
+    description: "MOOY M7: el mejor rating de esta comparativa de bicicletas eléctricas ({{rating:MLAU3143206258}}★ en {{reviews:MLAU3143206258}} calificaciones), formato fat-tire/chopper único de esta guía. Velocidad máxima de 40 km/h confirmada por una reseña real.",
     seoTitle: "MOOY M7: bicicleta eléctrica de 500W formato chopper",
-    metaDescription: "Bicicleta eléctrica MOOY M7: motor 500W, batería 48V 15Ah, velocidad máxima 40km/h confirmada. Precio real y contras honestas antes de comprar.",
-    verdict: "La MOOY M7 tiene la segunda mayor potencia de motor de esta comparativa, detrás de la HONEYWHALE: 500 W con batería de 48V/15Ah (720 Wh). Un comprador real confirmó que alcanza los 40 km/h reales. Formato fat-tire/chopper, único de esta guía. La contra real: el vendedor no declara la autonomía en kilómetros en ningún lugar de la ficha.",
+    metaDescription: "Bicicleta eléctrica MOOY M7: motor 500W, batería 48V 15Ah, velocidad máxima 40km/h confirmada. {{rating:MLAU3143206258}}★, el mejor rating de la comparativa.",
+    verdict: "La MOOY M7 tiene el mejor rating de esta comparativa ({{rating:MLAU3143206258}}★ en {{reviews:MLAU3143206258}} calificaciones) y la segunda mayor potencia de motor, detrás de la HONEYWHALE: 500 W con batería de 48V/15Ah (720 Wh). Un comprador real confirmó que alcanza los 40 km/h reales. Formato fat-tire/chopper, único de esta guía. La contra real: el vendedor no declara la autonomía en kilómetros en ningún lugar de la ficha.",
     pros: [
+      "El mejor rating de esta comparativa: {{rating:MLAU3143206258}}★ en {{reviews:MLAU3143206258}} calificaciones",
       "Segunda mayor potencia de motor de esta comparativa, detrás de la HONEYWHALE: 500 W",
       "Velocidad máxima de 40 km/h confirmada por una reseña real, no solo por el vendedor",
-      "Batería de mayor capacidad energética de esta guía: 48V/15Ah (720 Wh)",
       "Formato fat-tire/chopper, variedad visual y de uso frente al resto de la comparativa",
     ],
     cons: [
@@ -83533,7 +83608,7 @@ La MOOY M7 es una bicicleta eléctrica de formato fat-tire/chopper (rueda ancha,
 
 ## Lo bueno
 
-Tiene la segunda mayor potencia de motor de esta comparativa, detrás de la HONEYWHALE (900 W): 500 W, con la batería de mayor capacidad energética del grupo (720 Wh). Un comprador real confirma que "la velocidad máxima alcanzada es de 40 km/h reales" y que "prácticamente no hace ruido y se puede usar sin necesidad de pedalear".
+Tiene el mejor rating de esta comparativa ({{rating:MLAU3143206258}}★ en {{reviews:MLAU3143206258}} calificaciones) y la segunda mayor potencia de motor, detrás de la HONEYWHALE (1.000 W): 500 W, con la batería de mayor capacidad energética del grupo (720 Wh). Un comprador real confirma que "la velocidad máxima alcanzada es de 40 km/h reales" y que "prácticamente no hace ruido y se puede usar sin necesidad de pedalear".
 
 ## La contra real
 
@@ -83544,8 +83619,9 @@ El vendedor no declara la autonomía en kilómetros en ningún lugar de la ficha
 Comprala si priorizás potencia de motor y un formato visual distinto (fat-tire/chopper) por sobre un dato de autonomía declarado. Si necesitás saber la autonomía exacta antes de comprar, la Rango Worker Plus o la HONEYWHALE de esta comparativa sí declaran una cifra en kilómetros (aunque también con matices que aclaramos en sus propias fichas).`,
     faq: [
       { question: "¿Cuál es la velocidad máxima real de la MOOY M7?", answer: "40 km/h según el vendedor, y un comprador real confirmó en su reseña que alcanzó esa velocidad de forma efectiva." },
+      { question: "¿Tiene el mejor rating de la comparativa?", answer: "Sí, hoy es la de mejor rating entre las cinco bicicletas eléctricas de esta guía: {{rating:MLAU3143206258}}★ en {{reviews:MLAU3143206258}} calificaciones." },
       { question: "¿Cuál es la autonomía de la MOOY M7?", answer: "El vendedor no la declara en kilómetros en ningún lugar de la ficha técnica. No inventamos una cifra: es un dato faltante, no confirmado." },
-      { question: "¿Qué potencia tiene el motor?", answer: "500 W, la segunda mayor potencia de esta comparativa de bicicletas eléctricas, detrás de la HONEYWHALE (900 W)." },
+      { question: "¿Qué potencia tiene el motor?", answer: "500 W, la segunda mayor potencia de esta comparativa de bicicletas eléctricas, detrás de la HONEYWHALE (1.000 W)." },
       { question: "¿Viene armada?", answer: "No, según una reseña real llega en caja y requiere ensamblar algunas partes, aunque el proceso se describe como \"nada complicado\"." },
     ],
   },
@@ -83554,6 +83630,16 @@ Comprala si priorizás potencia de motor y un formato visual distinto (fat-tire/
     title: "Bicicleta Eléctrica Asistida Enova 350v Shimano Epac Rod 26",
     canonicalName: "Bicicleta Eléctrica Enova Asistida Rodado 26",
     price: 1842999,
+    // Sin stock, verificado en vivo el 2026-10-31 ("no está disponible.
+    // Elige otra variante", única variante, mismo modelo sin drift de
+    // specs). Búsqueda de vendedor alternativo: no se encontró NINGÚN
+    // vendedor "Nuevo" con este modelo (solo 3 publicaciones "Usado",
+    // $900.000-$1.200.000). No hay swap disponible — ver
+    // docs/productos-sin-stock.md.
+    visibility: "deprioritized",
+    priceStatus: "out_of_stock",
+    priceUpdated: "2026-10-31",
+    priceLastChecked: "2026-10-31",
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_807303-MLA95395791512_102025-O.webp",
     images: [
@@ -83568,7 +83654,6 @@ Comprala si priorizás potencia de motor y un formato visual distinto (fat-tire/
     rating: 4.6,
     reviewCount: 144,
     pastelColor: "var(--pastel-purple)",
-    visibility: "normal",
     specs: [
       { label: "Marca", value: "Enova" },
       { label: "Modelo", value: "ENV-ECP2-DK" },
@@ -83582,9 +83667,6 @@ Comprala si priorizás potencia de motor y un formato visual distinto (fat-tire/
       { label: "Es plegable", value: "No" },
     ],
     relatedProducts: ["MLA59609902", "MLA47150419", "MLA63590384", "MLAU3143206258", "MLA53621331"],
-    priceUpdated: "2026-10-12",
-    priceLastChecked: "2026-10-12",
-    priceStatus: "fresh",
     reviewsSampledAt: "2026-08-06",
     description: "Enova Asistida: la más elegida de esta comparativa de bicicletas eléctricas, con {{reviews:MLA26955875}} reseñas reales verificadas en Argentina, sin salvedades regionales. Sistema EPAC de asistencia al pedaleo, componentes Shimano.",
     seoTitle: "Enova Asistida: la eléctrica con más reseñas reales",
@@ -83628,6 +83710,17 @@ Comprala si priorizás el mayor respaldo real de reseñas verificadas en Argenti
     title: "Bicicleta Eléctrica HONEYWHALE F6 Pro-S, 50 km de autonomía, 45 km/h, Motor 900W, Batería extraíble, 20\" Neumáticos inflables, Suspensión delantera, Frenos a disco delantero y trasero, Negro",
     canonicalName: "Bicicleta Eléctrica HONEYWHALE F6 Pro-S",
     price: 2099000,
+    // Sin stock, verificado en vivo el 2026-10-31: el catálogo de ML
+    // redirige este ID a OTRO modelo Honey Whale (F6s, "Autonomía 40KM" en
+    // vez de los 50km de este título — specs distintas), y ESE modelo
+    // redirigido TAMBIÉN está sin stock ("no está disponible. Elige otra
+    // variante"). No es un swap simple: haría falta sourcear un reemplazo
+    // real. Sacada del ranking de la guía `bicicleta-electrica` (pilar) el
+    // 2026-10-31 — ver docs/productos-sin-stock.md.
+    visibility: "deprioritized",
+    priceStatus: "out_of_stock",
+    priceUpdated: "2026-10-31",
+    priceLastChecked: "2026-10-31",
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_959391-MLA115113002049_072026-O.webp",
     images: [
@@ -83642,7 +83735,6 @@ Comprala si priorizás el mayor respaldo real de reseñas verificadas en Argenti
     rating: 4.7,
     reviewCount: 348,
     pastelColor: "var(--pastel-coral)",
-    visibility: "normal",
     specs: [
       { label: "Marca", value: "HONEYWHALE" },
       { label: "Modelo", value: "F6 Pro-S" },
@@ -83658,9 +83750,6 @@ Comprala si priorizás el mayor respaldo real de reseñas verificadas en Argenti
       { label: "Frenos", value: "A disco, delantero y trasero" },
     ],
     relatedProducts: ["MLA59609902", "MLA47150419", "MLA63590384", "MLAU3143206258", "MLA26955875"],
-    priceUpdated: "2026-09-09",
-    priceLastChecked: "2026-09-09",
-    priceStatus: "fresh",
     reviewsSampledAt: "2026-08-06",
     description: "HONEYWHALE F6 Pro-S: la más cara y la de mayor potencia (900W) y velocidad máxima declarada (45km/h) de esta comparativa de bicicletas eléctricas. Sus {{reviews:MLA53621331}} reseñas incluyen compradores de otros países, no son 100% de Argentina.",
     seoTitle: "HONEYWHALE F6 Pro-S: la bicicleta eléctrica más potente",
@@ -113046,6 +113135,337 @@ Es para vos si querés una valija rígida con candado TSA que entre al límite e
 ];
 
 curatedProducts.push(...curatedProductsEquipajeViaje);
+
+const curatedProductsReemplazosOct31: Product[] = [
+  {
+    // Ficha nueva (2026-10-31): sucesor real del PE-VTRDC425B de arriba, que
+    // quedó discontinuado (toda la línea 425 sin vendedor en ML). Esta línea
+    // 410 es la que Peabody vende hoy en el mismo rol (retráctil DC 42",
+    // ambos con luz LED). Diferencia real declarada en ficha: control remoto
+    // incluido y programable, que el 425B no declaraba. Sourceado en vivo
+    // (reviewCount real: 2862).
+    id: 'MLA45342519',
+    title: 'Ventilador De Techo Peabody PE-VTRDC410B — 42", Motor DC, Con Luz LED, 6 Velocidades',
+    canonicalName: 'Ventilador de Techo Peabody PE-VTRDC410B',
+    brand: 'Peabody',
+    price: 247624,
+    priceUpdated: '2026-10-31',
+    priceLastChecked: '2026-10-31',
+    priceStatus: 'fresh',
+    originalPrice: 299999,
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_940175-MLA119048887087_102026-OO.webp',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_940175-MLA119048887087_102026-OO.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_756564-MLA106304995714_022026-O.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_769741-MLA105241507681_012026-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_954423-MLA106935240541_022026-O.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_875876-MLA106303902546_022026-O.webp',
+    ],
+    category: 'Ventiladores de Techo',
+    categorySlug: 'hogar',
+    permalink: 'https://www.mercadolibre.com.ar/ventilador-de-techo-peabody-pe-vtrdc410b-42-retractil-cantidad-de-aspas-4-estructura-blanco-aspas-blanco-diametro-1067-m-frecuencia-wats-material-de-las-aspas-acrilico/p/MLA45342519',
+    affiliateUrl: 'https://meli.la/27YN6Zf',
+    condition: 'new',
+    freeShipping: true,
+    rating: 4.9,
+    reviewCount: 2862,
+    soldQuantity: 5000,
+    badge: 'bestseller',
+    pastelColor: 'var(--pastel-blue)',
+    visibility: 'normal',
+    specs: [
+      { label: 'Marca', value: 'Peabody' },
+      { label: 'Modelo', value: 'PE-VTRDC410B' },
+      { label: 'Línea', value: 'Retráctil, motor DC' },
+      { label: 'Diámetro', value: '1,07 m (42")' },
+      { label: 'Cantidad de aspas', value: '4' },
+      { label: 'Material de las aspas', value: 'Acrílico' },
+      { label: 'Cantidad de velocidades', value: '6' },
+      { label: 'Potencia', value: '65 W' },
+      { label: 'Con luz', value: 'Sí, LED' },
+      { label: 'Control remoto', value: 'Sí, incluido' },
+      { label: 'Nivel de ruido', value: '46 dB' },
+      { label: 'Es programable', value: 'Sí' },
+    ],
+    relatedProducts: ['MLA41606856', 'MLA17380375'],
+    reviewsSampledAt: '2026-10-31',
+    description: 'Ventilador de techo Peabody PE-VTRDC410B: retráctil, motor DC de 6 velocidades, con luz LED integrada y control remoto. Sucesor directo del PE-VTRDC425B (toda esa línea quedó discontinuada). {{reviews:MLA45342519}} calificaciones reales a {{rating:MLA45342519}} estrellas.',
+    seoTitle: 'Peabody PE-VTRDC410B: ventilador de techo retráctil con luz',
+    metaDescription: 'Ventilador de techo Peabody PE-VTRDC410B: retráctil, motor DC, luz LED, 6 velocidades. {{reviews:MLA45342519}} opiniones reales. Precio actualizado y contras honestas.',
+    verdict: 'El PE-VTRDC410B es el ventilador de techo retráctil que Peabody vende hoy (reemplazó a la línea 425, discontinuada): motor DC de 6 velocidades, luz LED integrada y control remoto, con {{reviews:MLA45342519}} calificaciones reales a {{rating:MLA45342519}} estrellas. La contra real, que aparece en más de una reseña: la ficha promociona un dimmer para regular la intensidad de la luz que varias reseñas confirman que NO existe en la práctica — la luz es de intensidad fija. También suena un "bip" al usar el control o la tecla de luz, que algunas reseñas describen como molesto.',
+    pros: [
+      '{{reviews:MLA45342519}} calificaciones reales a {{rating:MLA45342519}} estrellas, uno de los ventiladores de techo retráctiles más vendidos del catálogo',
+      'Motor DC con 6 velocidades reales, según varias reseñas que destacan la diferencia entre cada una',
+      'Luz LED integrada, controlable con el mismo remoto',
+      'Instalación simple: según una reseña, un electricista hizo la conexión completa en 40 minutos',
+      'Muy silencioso según múltiples reseñas (46 dB declarados en ficha técnica)',
+    ],
+    cons: [
+      'La ficha promociona un dimmer para la intensidad de la luz que, según más de una reseña, no existe en la práctica (la luz es de intensidad fija)',
+      'Hace un "bip" audible al usar el control remoto o la tecla de luz, que una reseña describe como molesto',
+      'El logo "Peabody" aparece grande a los dos lados del aro, más visible que en otras marcas según una reseña',
+    ],
+    customerReviews: [
+      {
+        rating: 5,
+        text: 'Luego de 34 años se rompió el ventilador de techo y buscando me recomendaron este ventilador. Llamé a un electricista para que haga la conexión y en 40min ya tenía todo listo. Se maneja con el control remoto sin problemas. El cambio de opciones de luces que tiene es increíble, me encanta. En sí es todo silencioso, solo hace ruido el control remoto al apretar los botones. Una excelente compra por donde se lo mire.',
+        country: 'Argentina',
+      },
+      {
+        rating: 5,
+        text: 'En la descripción dice que tiene dimmer para la luz, pero no es así. Fuera de eso, el resto es excelente, súper silencioso, fácil de instalar, no es necesario agujerear el techo si se tienen caja octogonal, trae los agujeros para agarrarla directamente. Eso sí, con tornillos del 8 buenos.',
+        country: 'Argentina',
+      },
+      {
+        rating: 4,
+        text: 'Todo estuvo correcto, la calidad de los materiales parece buena y ventila super bien. A diferencia de lo que se ve en las fotos el ventilador tiene de los dos lados una leyenda de "Peabody" gigante. Este no tiene para manejar la intensidad de la luz. Y lo último raro es que cada vez que haces algo con el control o con la tecla de luz hace un "bip" medio molesto. Por fuera de esos detalles el producto cumple con lo que prometió y parece bueno.',
+        country: 'Argentina',
+      },
+    ],
+    articleBody: `## Qué es y para quién
+
+El Peabody PE-VTRDC410B es un ventilador de techo retráctil (las aspas se repliegan cuando está apagado) con motor DC de 6 velocidades y luz LED integrada. Es el modelo que Peabody vende hoy en este formato: la línea anterior (425, incluido el PE-VTRDC425B) quedó discontinuada en MercadoLibre, sin ningún vendedor activo al 2026-10-31.
+
+## Cómo funciona
+
+Trae control remoto incluido para manejar las 6 velocidades y la luz LED desde el sillón, sin necesidad de llave de pared. Varias reseñas coinciden en que la instalación es rápida (una reporta 40 minutos con electricista) cuando hay caja octogonal previa, y que el funcionamiento es muy silencioso: la ficha técnica declara 46 dB, y ninguna reseña lo contradice.
+
+## La contra real
+
+Dos reseñas independientes señalan que la ficha promociona un dimmer para regular la intensidad de la luz LED que, en la práctica, no existe: la luz prende a una sola intensidad fija. Otra reseña suma que el control remoto y la tecla de luz hacen un "bip" audible cada vez que se usan, algo que describe como molesto. Ninguna de las dos cosas afecta el funcionamiento del ventilador en sí, pero conviene saberlo antes de comprar si buscás control fino de iluminación.
+
+## Para quién sí y para quién no
+
+Compralo si buscás un retráctil DC silencioso con luz integrada y no te importa que la luz sea de intensidad fija. Si necesitás controlar la intensidad de la luz con precisión, esta ficha no lo ofrece pese a lo que sugiere la descripción del vendedor.`,
+    faq: [
+      { question: '¿El PE-VTRDC410B reemplaza al PE-VTRDC425B?', answer: 'En la práctica sí: la línea 425 (incluido el PE-VTRDC425B) quedó discontinuada en MercadoLibre, sin ningún vendedor activo. El 410B es el retráctil DC que Peabody vende hoy en ese rol. Los dos tienen luz LED; la diferencia real es que el 410B suma control remoto incluido y función programable, que el 425B no declaraba.' },
+      { question: '¿Tiene dimmer para regular la luz?', answer: 'La descripción del vendedor lo sugiere, pero más de una reseña real confirma que no: la luz LED es de intensidad fija, sin regulación.' },
+      { question: '¿Es ruidoso?', answer: 'No, según la ficha técnica (46 dB) y múltiples reseñas que lo describen como muy silencioso. El único ruido que mencionan algunas reseñas es un "bip" del control remoto o la tecla de luz al usarlos.' },
+      { question: '¿Viene con control remoto?', answer: 'Sí, incluido, para manejar las 6 velocidades y la luz LED.' },
+    ],
+  },
+  {
+    // Ficha nueva (2026-10-31): reemplaza el rol "única rodado 29" que
+    // dejó vacante la Kroner R29 (de arriba), sin vendedor en ML. Sourceada
+    // en vivo (reviewCount real: 34, volumen bajo, se declara honesto).
+    id: "MLAU3399532573",
+    title: "Bicicleta Eléctrica Safeway EM100 Rodado 29 — Motor 350W, 36V, Shimano",
+    canonicalName: "Bicicleta Eléctrica Safeway EM100 Rodado 29",
+    brand: "Safeway",
+    price: 1326043,
+    priceUpdated: "2026-10-31",
+    priceLastChecked: "2026-10-31",
+    priceStatus: "fresh",
+    originalPrice: 1690000,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_836768-MLA117832731116_102026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_836768-MLA117832731116_102026-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_717179-MLA117942784556_102026-F.jpg",
+      "https://http2.mlstatic.com/D_NQ_NP_814892-MLA117868115940_102026-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_910129-MLA119460281977_102026-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_708306-MLA117389062372_102026-O.webp",
+    ],
+    category: "Movilidad",
+    categorySlug: "movilidad",
+    permalink: "https://www.mercadolibre.com.ar/bicicleta-electrica-mtb-rodado-29-motor-350w-36v-shimano/up/MLAU3399532573",
+    affiliateUrl: "https://meli.la/1FmTYh7",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.6,
+    reviewCount: 34,
+    pastelColor: "var(--pastel-green)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Safeway" },
+      { label: "Modelo", value: "EM100" },
+      { label: "Rodado", value: "29" },
+      { label: "Potencia del motor", value: "350 W" },
+      { label: "Voltaje de la batería", value: "36 V" },
+      { label: "Batería", value: "Litio, 10,4 Ah, removible" },
+      { label: "Velocidad máxima", value: "25 km/h" },
+      { label: "Peso máximo soportado", value: "150 kg" },
+      { label: "Peso de la bicicleta", value: "26 kg" },
+      { label: "Con acelerador independiente", value: "Sí" },
+      { label: "Es plegable", value: "No" },
+      { label: "Requiere ensamblado", value: "Sí" },
+    ],
+    relatedProducts: ["MLA59609902", "MLA47150419", "MLAU3143206258", "MLA62339970"],
+    reviewsSampledAt: "2026-10-31",
+    description: "Safeway EM100: la más barata de esta comparativa de bicicletas eléctricas y la única rodado 29 (rueda grande), motor de 350W, componentes Shimano y batería removible. {{reviews:MLAU3399532573}} calificaciones reales a {{rating:MLAU3399532573}} estrellas.",
+    seoTitle: "Safeway EM100: bicicleta eléctrica rodado 29 más barata",
+    metaDescription: "Bicicleta eléctrica Safeway EM100: la más barata de la comparativa, rodado 29, motor 350W, Shimano, batería removible. {{reviews:MLAU3399532573}} opiniones reales.",
+    verdict: "La Safeway EM100 es la más barata de esta comparativa de bicicletas eléctricas y la única mountain bike rígida rodado 29 (rueda grande), con motor de 350W, componentes Shimano y batería removible de 10,4 Ah. La contra real: solo {{reviews:MLAU3399532573}} calificaciones todavía, volumen bajo para confirmar el rating de forma sólida, y requiere ensamblado al recibirla (aunque varias reseñas dicen que es simple con las herramientas que trae).",
+    pros: [
+      "La más barata de esta comparativa de bicicletas eléctricas",
+      "Única mountain bike rígida rodado 29 (rueda grande) de esta comparativa",
+      "Motor de 350W con componentes Shimano",
+      "Batería removible de 36V/10,4 Ah, más fácil de cargar sin mover toda la bicicleta",
+      "Acelerador independiente, además de la asistencia al pedaleo",
+      "Varias reseñas confirman que el armado es simple con las herramientas incluidas",
+    ],
+    cons: [
+      "Solo {{reviews:MLAU3399532573}} calificaciones, volumen bajo para confirmar el rating con solidez",
+      "No declara autonomía en kilómetros en la ficha técnica",
+      "Requiere ensamblado al recibirla",
+      "Pesa 26 kg",
+    ],
+    customerReviews: [
+      {
+        rating: 5,
+        text: "Me llegó muy rápido, fácil de armar, y tras la primera prueba me pareció excelente. Muy buena calidad de todos sus componentes. Es mi primer e-bike y creo que es la indicada.",
+        country: "Argentina",
+      },
+      {
+        rating: 5,
+        text: "Funciona perfecto, rinde lo que dice la publicación y es fácil de armar, con las herramientas que trae.",
+        country: "Argentina",
+      },
+      {
+        rating: 5,
+        text: "Llega casi armada!! y trae todas las herramientas necesarias.",
+        country: "Argentina",
+      },
+    ],
+    articleBody: `## Qué es y para quién
+
+La Safeway EM100 es una bicicleta eléctrica mountain bike rígida, rodado 29 (rueda grande), con motor de 350W, 36V, componentes Shimano y batería de litio removible.
+
+## Lo bueno
+
+Es la más barata de esta comparativa, y también la única con rodado 29. Varias reseñas coinciden en que el armado es simple con las herramientas que trae de fábrica ("fácil de armar", "llega casi armada"), y que el motor rinde lo que promete la publicación. Suma acelerador independiente además de la asistencia al pedaleo.
+
+## La contra real
+
+Solo tiene {{reviews:MLAU3399532573}} calificaciones todavía: una base chica para confiar en el {{rating:MLAU3399532573}} con total solidez, aunque las reseñas visibles son consistentes entre sí. La ficha técnica no declara autonomía en kilómetros, así que no hay un número oficial para citar. Requiere ensamblado al recibirla (no llega 100% armada).
+
+## Para quién sí y para quién no
+
+Comprala si buscás el precio más bajo de esta comparativa o específicamente el formato rodado 29 con componentes Shimano, y no te molesta armarla vos mismo al recibirla. Si preferís más historial de reseñas, la Valentini o la HONEYWHALE de esta comparativa tienen más respaldo.`,
+    faq: [
+      { question: "¿Es la bicicleta eléctrica más barata de esta comparativa?", answer: "Sí, hoy es la más barata de las cinco bicicletas eléctricas de esta guía." },
+      { question: "¿La Safeway EM100 tiene rodado 29?", answer: "Sí, es la única bicicleta eléctrica de esta comparativa con rodado 29 (rueda grande de mountain bike)." },
+      { question: "¿Cuánto pesa?", answer: "26 kg según la ficha técnica." },
+      { question: "¿Cuál es la autonomía real?", answer: "La ficha técnica no declara un número de kilómetros. No inventamos una cifra que el vendedor no publicó." },
+      { question: "¿Llega armada?", answer: "No del todo: requiere ensamblado, pero varias reseñas confirman que es simple con las herramientas incluidas." },
+    ],
+  },
+  {
+    // Ficha nueva (2026-10-31): reemplaza el rol "mayor potencia" que dejó
+    // vacante la Honeywhale F6 Pro-S (de arriba), sin vendedor en ML (y su
+    // sucesor redirigido, la F6s, también sin stock). Esta es una línea
+    // distinta de Honeywhale, con MÁS potencia que la original (900W → 1000W
+    // real según ficha técnica, aunque el título del vendedor dice "1080W").
+    // reviewCount real: 147, la base más grande de toda esta comparativa —
+    // también cubre el rol de "mejor respaldo de reseñas" que había dejado
+    // vacante la Enova (no se encontró reemplazo mejor para ese rol
+    // específico tras revisar 4 candidatos más: Rango Go City, Acubat,
+    // Valentini Rodado 26 MTB, búsquedas genéricas — ninguno superó esto en
+    // reseñas ni ofreció un ángulo honesto mejor).
+    id: "MLA62339970",
+    title: "Bicicleta Eléctrica HONEYWHALE K6S — Motor 1000W, 55 km/h, Batería Extraíble 48V/15,6Ah",
+    canonicalName: "Bicicleta Eléctrica HONEYWHALE K6S",
+    brand: "HONEYWHALE",
+    price: 2149641,
+    priceUpdated: "2026-10-31",
+    priceLastChecked: "2026-10-31",
+    priceStatus: "fresh",
+    originalPrice: 3665000,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_717248-MLA113810751950_072026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_717248-MLA113810751950_072026-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_833366-MLA116679933579_082026-F.jpg",
+      "https://http2.mlstatic.com/D_NQ_NP_668942-MLA115107645489_072026-O.webp",
+    ],
+    category: "Movilidad",
+    categorySlug: "movilidad",
+    permalink: "https://www.mercadolibre.com.ar/bicicleta-electrica-honeywhale-k6s-65-km-de-autonomia-55-kmh-motor-1080-w-bateria-extraible-20-neumaticos-inflables-suspension-delantera-y-trasera-freno-a-disco-hidraulicos/p/MLA62339970",
+    affiliateUrl: "https://meli.la/2zNv8EJ",
+    condition: "new",
+    freeShipping: false,
+    rating: 4.7,
+    reviewCount: 147,
+    soldQuantity: 500,
+    pastelColor: "var(--pastel-coral)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "HONEYWHALE" },
+      { label: "Modelo", value: "K6S-CO-DB" },
+      { label: "Rodado", value: "20" },
+      { label: "Potencia del motor", value: "1.000 W (el título del vendedor dice 1.080 W, la ficha técnica estructurada declara 1.000 W)" },
+      { label: "Velocidad máxima", value: "55 km/h" },
+      { label: "Voltaje de la batería", value: "48 V" },
+      { label: "Capacidad de la batería", value: "15,6 Ah, extraíble" },
+      { label: "Peso", value: "43 kg" },
+      { label: "Peso máximo soportado", value: "150 kg" },
+      { label: "Con acelerador independiente", value: "Sí" },
+      { label: "Con luces", value: "Sí" },
+      { label: "Es plegable", value: "No" },
+    ],
+    relatedProducts: ["MLA59609902", "MLA47150419", "MLAU3399532573", "MLAU3143206258"],
+    reviewsSampledAt: "2026-10-31",
+    description: "HONEYWHALE K6S: la bicicleta eléctrica de mayor potencia de esta comparativa (1.000W reales según ficha técnica), con batería extraíble de 48V/15,6Ah. {{reviews:MLA62339970}} calificaciones a {{rating:MLA62339970}} estrellas, la base más grande de esta guía.",
+    seoTitle: "HONEYWHALE K6S: bicicleta eléctrica de alta potencia",
+    metaDescription: "Bicicleta eléctrica HONEYWHALE K6S: motor 1.000W, 55 km/h, batería extraíble 48V. {{reviews:MLA62339970}} opiniones reales. Precio actualizado y contras honestas.",
+    verdict: "La HONEYWHALE K6S es la bicicleta eléctrica de mayor potencia de esta comparativa: 1.000W reales según su ficha técnica estructurada (el título del vendedor dice 1.080W, una discrepancia menor que preferimos aclarar), con 55 km/h de velocidad máxima y batería extraíble de 48V/15,6Ah. Tiene {{reviews:MLA62339970}} calificaciones a {{rating:MLA62339970}} estrellas, la base de reseñas más grande de esta guía. La contra real: pesa 43 kg, la más pesada de esta comparativa, y una reseña (de Brasil, catálogo regional) señala detalles menores —neumáticos de calidad inferior a modelos anteriores, sin espejos ni guiñadores, puerto de carga mejorable— que conviene conocer antes de comprar.",
+    pros: [
+      "{{reviews:MLA62339970}} calificaciones a {{rating:MLA62339970}} estrellas, la base de reseñas más grande de esta comparativa",
+      "Motor más potente de la guía: 1.000W reales, 55 km/h de velocidad máxima",
+      "Batería extraíble de 48V/15,6Ah, fácil de cargar sin mover toda la bicicleta",
+      "Frenos a disco hidráulicos, suspensión delantera y trasera",
+      "Una reseña argentina real la describe como \"práctica, rápida y cómoda para el día a día\"",
+    ],
+    cons: [
+      "Pesa 43 kg, la más pesada de esta comparativa",
+      "El título del vendedor dice 1.080W, pero la ficha técnica estructurada declara 1.000W — aclaramos la discrepancia en vez de repetir la cifra mayor sin chequear",
+      "Una reseña (de Brasil, catálogo regional) señala neumáticos de calidad inferior a modelos anteriores, sin espejos ni guiñadores, y un puerto de carga mejorable",
+      "No es plegable",
+      "Parte de las {{reviews:MLA62339970}} calificaciones incluye compradores de otros países del catálogo regional, no son 100% de Argentina",
+    ],
+    customerReviews: [
+      {
+        rating: 5,
+        text: "Exelente la bicicleta electrica!! practica rápida cómoda para el día a día, muy buena!!!",
+        country: "Argentina",
+      },
+      {
+        rating: 4,
+        text: "Excelente y muy rápida, pero requiere atención en algunos detalles. El motor responde muy rápido y tiene mucha fuerza, en línea recta alcanza los 50 km/h con facilidad. Lo que dejó que desear: los neumáticos parecen de menor calidad que en modelos anteriores, sentí falta de direccionales y retrovisores (es muy rápida, mirar hacia atrás es incómodo sin ellos), y la entrada del cargador dejó que desear.",
+        country: "Brasil",
+      },
+      {
+        rating: 4,
+        text: "En general mi experiencia fue de 6/10. La ergonomía deja que desear (mido 1,78m y mis rodillas quedan muy altas al pedalear, el cuadro es chico). Mi unidad vino con bastante chirrido que no se fue ni lubricando. En rendimiento, la velocidad máxima conmigo (85kg) ronda los 45 km/h; en subidas leves cae a unos 25 km/h, no esperes mucha fuerza en pendientes.",
+        country: "Brasil",
+      },
+    ],
+    articleBody: `## Qué es y para quién
+
+La HONEYWHALE K6S es una bicicleta eléctrica de alta potencia (1.000W según ficha técnica), rodado 20, con batería extraíble de 48V/15,6Ah y frenos a disco hidráulicos. Es la opción para quien prioriza velocidad y potencia por sobre todo lo demás en esta comparativa.
+
+## Cómo funciona
+
+Con acelerador independiente además de pedaleo asistido, una reseña real confirma que el motor "responde muy rápido y tiene mucha fuerza": en línea recta llega a 50 km/h con facilidad. La ficha técnica declara 55 km/h de velocidad máxima oficial. Tiene suspensión delantera y trasera, y frenos a disco hidráulicos.
+
+## La contra real
+
+Dos reseñas de Brasil (catálogo regional de MercadoLibre) señalan puntos distintos a tener en cuenta: una menciona neumáticos de menor calidad que en modelos anteriores de la marca, falta de espejos retrovisores y direccionales (relevante dado lo rápida que es), y un puerto de carga mejorable; la otra señala que en subidas la velocidad cae bastante (de 45 a 25 km/h con un conductor de 85kg), que la ergonomía no es ideal para alguien alto, y que su unidad vino con un chirrido que la lubricación no resolvió del todo. Pesa 43 kg, la más pesada de esta comparativa.
+
+## Para quién sí y para quién no
+
+Comprala si priorizás potencia y velocidad por sobre todo, y no te importa el peso a la hora de moverla o guardarla. Si preferís algo más liviano y manejable para uso diario en ciudad, la [Valentini Plegable 20](/producto/bicicleta-electrica-valentini-plegable-20-32km-h-350w-negro-mla59609902) de esta comparativa es una alternativa más práctica.`,
+    faq: [
+      { question: "¿Cuánta potencia tiene realmente la HONEYWHALE K6S?", answer: "El título del vendedor dice 1.080W, pero la ficha técnica estructurada de MercadoLibre declara 1.000W. Aclaramos la discrepancia en vez de citar la cifra mayor sin verificar." },
+      { question: "¿Las reseñas son todas de Argentina?", answer: "No todas. Varias de las reseñas visibles son de Brasil (catálogo regional de MercadoLibre), marcadas como traducidas." },
+      { question: "¿Cuánto pesa?", answer: "43 kg según la ficha técnica, la más pesada de esta comparativa." },
+      { question: "¿Tiene batería extraíble?", answer: "Sí, de 48V y 15,6Ah, se puede cargar sin mover toda la bicicleta." },
+    ],
+  },
+];
+
+curatedProducts.push(...curatedProductsReemplazosOct31);
 
 export const categoryPastels: Record<string, string> = {
   cocina: 'var(--pastel-coral)',

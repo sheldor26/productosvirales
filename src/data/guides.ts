@@ -14995,7 +14995,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       },
       {
         type: "p",
-        content: "La edición especial de Lattafa por los 5 años del lanzamiento de Yara original (2020). Incluye Yara (rosa pastel) y Yara Candy (rosa fucsia) en formato 100ml cada uno, con presentación coleccionable. Con 811 calificaciones y rating 4.8 en Mercado Libre. **Compra internacional**: el precio puede incluir aranceles e impuestos extra al cerrar la compra."
+        content: "La edición especial de Lattafa por los 5 años del lanzamiento de Yara original (2020). Incluye Yara (rosa pastel) y Yara Candy (rosa fucsia) en formato 100ml cada uno, con presentación coleccionable. Con {{reviews:MLA45984979}} calificaciones y rating {{rating:MLA45984979}} en Mercado Libre. **Compra internacional**: el precio puede incluir aranceles e impuestos extra al cerrar la compra."
       },
       {
         type: "p",
@@ -15003,14 +15003,14 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       },
       {
         type: "p",
-        content: "**En contra:** NO vegano (a diferencia del Set My Yara Collection); NO libre de crueldad; solo 2 fragancias (no incluye Tous, Moi ni Elixir); la conveniencia económica vs comprar individual es marginal ($3.869 de ahorro)."
+        content: "**En contra:** NO vegano (a diferencia del Set My Yara Collection); NO libre de crueldad; solo 2 fragancias (no incluye Tous, Moi ni Elixir); compra internacional, con aranceles e impuestos que pueden variar el precio final."
       },
       {
         type: "product-card",
         productMlaId: "MLA45984979",
         label: "Edición especial coleccionable",
         labelColor: "amber",
-        description: "Yara + Yara Candy en 100ml cada uno. 200ml totales. Edición limitada del 5to aniversario. Rating 4.8 con 811 reseñas. La elegancia clásica + la dulzura juvenil en un solo set."
+        description: "Yara + Yara Candy en 100ml cada uno. 200ml totales. Edición limitada del 5to aniversario. Rating {{rating:MLA45984979}} con {{reviews:MLA45984979}} reseñas. La elegancia clásica + la dulzura juvenil en un solo set."
       },
       {
         type: "h3",
@@ -15020,13 +15020,13 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
         type: "table",
         headers: ["Característica", "My Yara Collection", "5to Aniversario"],
         rows: [
-          ["Precio", "$64.508", "$100.528"],
+          ["Precio", "$64.508", "{{precio:MLA45984979}}"],
           ["Fragancias", "4 (Yara, Moi, Tous, Candy)", "2 (Yara, Candy)"],
           ["Volumen total", "100ml (4 × 25ml)", "200ml (2 × 100ml)"],
           ["Vegano", "Sí", "No"],
           ["Libre de crueldad", "Sí", "No"],
           ["Tipo de compra", "Local", "Internacional"],
-          ["Rating ML", "4.8 (720 reseñas)", "4.8 (811 reseñas)"],
+          ["Rating ML", "4.8 (720 reseñas)", "{{rating:MLA45984979}} ({{reviews:MLA45984979}} reseñas)"],
           ["Mejor para", "Descubrir / Regalar a quien no conoce", "Fans confirmados / Uso intensivo"]
         ]
       },
@@ -15038,7 +15038,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
         type: "list",
         items: [
           "**Si nunca probaste Yara:** Set My Yara Collection ($64.508). Probás 4 versiones antes de decidir cuál te gusta más.",
-          "**Si ya conocés y amás Yara y Candy:** Set 5to Aniversario ($100.528). Te asegurás formato grande y presentación coleccionable.",
+          "**Si ya conocés y amás Yara y Candy:** Set 5to Aniversario ({{precio:MLA45984979}}). Te asegurás formato grande y presentación coleccionable.",
           "**Si querés probar Yara Elixir:** ningún set lo incluye. Comprá el 100ml individual ({{precio:MLA60836327}}).",
           "**Si el veganismo es importante para vos:** Set My Yara Collection es el único vegano de la línea.",
           "**Si ya sabés cuál Yara específica querés (Tous, Moi, Elixir):** comprá el 100ml individual de esa, no un set."
@@ -15857,7 +15857,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       },
       {
         type: "p",
-        content: "**Entre $70.000 y $100.000 — colección premium**. [Kingdom Man](https://meli.la/2aRjHd9) ($71.198), [Emeer Caja con Luces](https://meli.la/21q6DEg) ($75.811), [Hawas Black](https://meli.la/2T9ofP2) ($75.388), [Hawas Ice](https://meli.la/24kQeRc) ($76.284), [Erba Pura Árabe](https://meli.la/2WydUup) ($73.160). Perfumes para quien ya conoce el nicho y busca algo con más carácter."
+        content: "**Entre $70.000 y $100.000 — colección premium**. [Kingdom Man](https://meli.la/2aRjHd9) ($71.198), [Emeer Caja con Luces](https://meli.la/21q6DEg) ($75.811), [Hawas Black](https://meli.la/2T9ofP2) ({{precio:MLA41306043}}), [Hawas Ice](https://meli.la/24kQeRc) ($76.284), [Erba Pura Árabe](https://meli.la/2WydUup) ($73.160). Perfumes para quien ya conoce el nicho y busca algo con más carácter."
       },
       {
         type: "p",
@@ -16416,14 +16416,14 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       },
       {
         type: "p",
-        content: "Si ya conocés y te encanta la línea Yara, también está disponible el **Set 5to Aniversario** ($100.528) con 2 fragancias en 100ml cada una (Yara + Yara Candy). Es una edición limitada coleccionable, ideal para regalo premium. Atención: es compra internacional y NO es vegano."
+        content: "Si ya conocés y te encanta la línea Yara, también está disponible el **Set 5to Aniversario** ({{precio:MLA45984979}}) con 2 fragancias en 100ml cada una (Yara + Yara Candy). Es una edición limitada coleccionable, ideal para regalo premium. Atención: es compra internacional y NO es vegano."
       },
       {
         type: "product-card",
         productMlaId: "MLA45984979",
         label: "Edición especial",
         labelColor: "amber",
-        description: "Yara + Yara Candy en 100ml cada uno. Edición coleccionable del 5to aniversario. Rating 4.8 con 811 reseñas. Para fans confirmados de Yara que quieren las 2 versiones más vendidas."
+        description: "Yara + Yara Candy en 100ml cada uno. Edición coleccionable del 5to aniversario. Rating {{rating:MLA45984979}} con {{reviews:MLA45984979}} reseñas. Para fans confirmados de Yara que quieren las 2 versiones más vendidas."
       },
       {
         type: "p",
@@ -18397,6 +18397,9 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { type: "p", content: `Si ya tenés decidido el formato y querés ver los modelos uno por uno, están comparados en la [guía de lavarropas automáticos](/guias/hogar/lavarropas-automatico).` },
       { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** las revoluciones, la capacidad y el formato de carga salen de la ficha técnica de cada publicación de Mercado Libre, no de la descripción del vendedor. Los precios se verifican solos contra ML. El reparto entre frontales y superiores sale de contar los veinte más vendidos de la categoría el 2026-08-20. Una salvedad de honestidad: **seguimos cuatro frontales y un solo modelo de carga superior**, así que cuando decimos "el de carga superior de esta comparativa" hablamos de ese equipo, no del formato entero.` },
     ],
+    faq: [
+      { question: "¿Cuál es mejor, un lavarropas de carga frontal o de carga superior?", answer: "Depende de tu lavadero, no del formato en sí. El de carga superior de esta comparativa (Whirlpool WWI16CS) tiene la mayor capacidad del grupo (10 kg) y se carga sin agacharte; el frontal gana en que se puede empotrar bajo la mesada y, en esta muestra, llega a centrifugados más altos (hasta 1.400 rpm). Ojo con asumir que el formato define las revoluciones: acá el superior centrifuga más rápido (740 rpm) que uno de los frontales (600 rpm)." },
+    ],
     internalLinks: [
       { label: `Lavarropas automático: cuál comprar`, href: "/guias/hogar/lavarropas-automatico" },
       { label: `Secarropas: cuál conviene`, href: "/guias/hogar/secarropas" },
@@ -18506,6 +18509,9 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       ]},
       { type: "p", content: `Si ya decidiste que querés no frost, los modelos están comparados uno por uno en la [guía de heladeras no frost](/guias/hogar/heladera-no-frost).` },
       { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** la tecnología de deshielo, la capacidad y la eficiencia energética salen de la ficha técnica de cada publicación de Mercado Libre, no de la descripción del vendedor. Los precios se verifican solos y por eso las diferencias que citamos siguen siendo ciertas cuando cambien. Una salvedad: **comparamos modelos de capacidad parecida, no idénticos**, porque no existen los mismos litros exactos en las dos tecnologías; la diferencia de precio se lee junto a la de capacidad, no sola.` },
+    ],
+    faq: [
+      { question: "¿Cuál es mejor, una heladera no frost o cíclica?", answer: "Depende de cuánto te molesta descongelar. La cíclica suele costar menos y rendir más litros por el mismo precio (en esta comparación, la Drean cíclica de 396 L sale menos que la Whirlpool no frost de 386 L), pero acumula hielo en la pared del fondo y hay que descongelarla cada tanto. La no frost nunca forma escarcha, así que conviene si la heladera está siempre llena o sos familia grande; si es para dos personas o un fin de semana, la cíclica alcanza y te ahorrás plata." },
     ],
     internalLinks: [
       { label: `Heladeras no frost: cuál comprar`, href: "/guias/hogar/heladera-no-frost" },
@@ -18777,12 +18783,12 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       },
       {
         type: "h3",
-        title: "6. Set Lattafa Yara + Yara Candy 5th Anniversary — 811 reseñas"
+        title: "6. Set Lattafa Yara + Yara Candy 5th Anniversary — edición coleccionable"
       },
       {
         type: "product-card",
         productMlaId: "MLA45984979",
-        description: "Edición aniversario de la línea Yara: dos frascos de 100ml (Yara original + Yara Candy) por el precio combinado. Ideal para regalar o para fans de la línea que quieren ambos sin pagar por separado. 4.8⭐ con 811 reseñas: el set más vendido del catálogo árabe.",
+        description: "Edición aniversario de la línea Yara: dos frascos de 100ml (Yara original + Yara Candy) por el precio combinado. Ideal para regalar o para fans de la línea que quieren ambos sin pagar por separado. {{rating:MLA45984979}}⭐ con {{reviews:MLA45984979}} reseñas.",
         ranking: 6
       },
       {
@@ -18916,7 +18922,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       },
       {
         question: "¿Cuál es el set más vendido?",
-        answer: "El Set Lattafa Yara + Yara Candy 5th Anniversary, con 811 reseñas y rating 4.8⭐. Trae dos frascos de 100ml (Yara original + Yara Candy) por el precio combinado. Le sigue el Set My Yara Collection con 720 reseñas: 4 miniaturas de 25ml de la línea Yara, ideal para probar antes de comprar un frasco grande."
+        answer: "El Set Lattafa Yara + Yara Candy 5th Anniversary, con {{reviews:MLA45984979}} reseñas y rating {{rating:MLA45984979}}⭐. Trae dos frascos de 100ml (Yara original + Yara Candy) por el precio combinado. Le sigue el Set My Yara Collection con 720 reseñas: 4 miniaturas de 25ml de la línea Yara, ideal para probar antes de comprar un frasco grande."
       }
     ],
     internalLinks: [
@@ -19432,8 +19438,8 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { type: "p", content: `Es la mejor opción si tenés alfombras gruesas, mascotas que sueltan mucho pelo o pisos con mucho detalle de zócalos. Si te tira Xiaomi pero querés gastar menos, abajo está el S40c. Comparamos toda la línea en la [guía de robot aspiradora Xiaomi](/guias/robot-aspiradora-xiaomi).` },
   
       { type: "h3", title: `4. Xiaomi Robot Vacuum S40c — mejor entrada a Xiaomi` },
-      { type: "product-card", productMlaId: "MLA61420449", label: "Mejor entrada", labelColor: "green", ranking: 4, description: `Mapeo, WiFi y app Mi Home en español por menos de {{precio:MLA61420449:k}}. La puerta más barata al ecosistema Xiaomi, con 4.8 estrellas. Sin base de autovaciado, pero cumple.` },
-      { type: "p", content: `El [Xiaomi S40c](https://meli.la/16WtjsG) es la forma más accesible de entrar al ecosistema Xiaomi con mapeo real. Por menos de {{precio:MLA61420449:k}} tenés navegación inteligente, WiFi y la app **Mi Home** en español —la misma que ya usás si tenés una balanza o una lámpara Xiaomi—. Con **4.8 estrellas**, es de los más elegidos en su rango de precio.` },
+      { type: "product-card", productMlaId: "MLA61420449", label: "Mejor entrada", labelColor: "green", ranking: 4, description: `Mapeo, WiFi y app Mi Home en español por menos de {{precio:MLA61420449:k}}. La puerta más barata al ecosistema Xiaomi, con {{rating:MLA61420449}} estrellas. Sin base de autovaciado, pero cumple.` },
+      { type: "p", content: `El [Xiaomi S40c](https://meli.la/16WtjsG) es la forma más accesible de entrar al ecosistema Xiaomi con mapeo real. Por menos de {{precio:MLA61420449:k}} tenés navegación inteligente, WiFi y la app **Mi Home** en español —la misma que ya usás si tenés una balanza o una lámpara Xiaomi—. Con **{{rating:MLA61420449}} estrellas**, es de los más elegidos en su rango de precio.` },
       { type: "p", content: `No trae base de autovaciado (vaciás el depósito a mano cada par de días) y la succión es menor que la del S40 Pro, pero para un departamento o una casa de pisos lisos cumple sobrado. Es el clásico "primer robot" sin arrepentimientos.` },
   
       { type: "h3", title: `5. Gadnic AspiRob — mejor trapeado` },
@@ -19658,6 +19664,10 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { label: "Mejor aspiradora robot por caso", href: "/guias/mejor-aspiradora-robot" },
       { label: "Precios de robot aspiradora en Argentina", href: "/guias/robot-aspiradora-precio-argentina" },
       { label: "Robot aspiradora con mapeo láser", href: "/guias/robot-aspiradora-con-mapeo-laser" },
+      { label: "Robot aspiradora Xiaomi", href: "/guias/robot-aspiradora-xiaomi" },
+      { label: "Robot aspiradora Samsung Jetbot", href: "/guias/robot-aspiradora-samsung" },
+      { label: "Robot aspiradora Roomba", href: "/guias/robot-aspiradora-roomba" },
+      { label: "Gadnic vs Xiaomi: cuál conviene", href: "/guias/aspiradora-robot-gadnic-vs-xiaomi" },
     ],
     internalLinksTitle: "Guías relacionadas",
     quickPicks: [
@@ -19715,7 +19725,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { type: "h3", title: `El mejor valor del medio: Gadnic AC800 con LIDAR` },
       { type: "product-card", productMlaId: "MLA62126950", label: "Mejor valor del rango medio", labelColor: "green", ranking: 1, description: `A {{precio:MLA62126950}} es lo más cerca de un premium sin pagar premium. Trae navegación LIDAR (láser), base autolimpiante con bolsa de 3.2L para olvidarte de vaciar por semanas, 140 minutos de autonomía y app Tuya. Tiene rating 4.8 con más de 1.000 vendidas. Es el robot que en 2023 costaba el doble.` },
       { type: "p", content: `La [Gadnic AC800](https://meli.la/2UjN3FV) es la mejor demostración de por qué conviene esperar a juntar para el rango medio-alto: por {{precio:MLA62126950}} te llevás láser, mapeo fino y autovaciado, un combo que define a los premium. La contra honesta es la de marca económica: Gadnic no tiene la red de service de Xiaomi o Samsung, así que ante una falla dependés más del vendedor. Si querés todo el detalle de la marca, lo desglosamos en la [guía de robots Gadnic](/guias/robot-aspiradora-gadnic).` },
-      { type: "p", content: `Si tu presupuesto es más ajustado dentro del medio, hay un escalón claro. La [Gadnic 5 Modos](https://meli.la/2kRauwY) a {{precio:MLA45951645}} y la [Gadnic 3 Modos](https://meli.la/2WGATBu) a {{precio:MLA42045783}} son la entrada al medio sin láser. Subiendo, la [Xiaomi S40c](https://meli.la/16WtjsG) a {{precio:MLA61420449}} te mete en el ecosistema Mi Home con mapeo y rating 4.8 —la puerta de entrada a la marca con mejor app del mercado, que repasamos en la [guía de robots Xiaomi](/guias/robot-aspiradora-xiaomi)—. La [Gadnic AspiRob](https://meli.la/2mPhJwy) a {{precio:MLA36838658}} suma trapeado con mapeo (rating 4.8). Y si buscás aspirado y trapeado a la vez con respaldo de marca grande, la [Samsung POWERbot E](https://meli.la/2UEp3uq) a {{precio:MLA18917302}} lo hace simultáneo con su motor Digital Inverter y SmartThings.` },
+      { type: "p", content: `Si tu presupuesto es más ajustado dentro del medio, hay un escalón claro. La [Gadnic 5 Modos](https://meli.la/2kRauwY) a {{precio:MLA45951645}} y la [Gadnic 3 Modos](https://meli.la/2WGATBu) a {{precio:MLA42045783}} son la entrada al medio sin láser. Subiendo, la [Xiaomi S40c](https://meli.la/16WtjsG) a {{precio:MLA61420449}} te mete en el ecosistema Mi Home con mapeo y rating {{rating:MLA61420449}} —la puerta de entrada a la marca con mejor app del mercado, que repasamos en la [guía de robots Xiaomi](/guias/robot-aspiradora-xiaomi)—. La [Gadnic AspiRob](https://meli.la/2mPhJwy) a {{precio:MLA36838658}} suma trapeado con mapeo (rating 4.8). Y si buscás aspirado y trapeado a la vez con respaldo de marca grande, la [Samsung POWERbot E](https://meli.la/2UEp3uq) a {{precio:MLA18917302}} lo hace simultáneo con su motor Digital Inverter y SmartThings.` },
       { type: "p", content: `Dos opciones más para tener en cuenta en este rango: la [Atma láser/mapeo](https://meli.la/14txuhx) a {{precio:MLA53579189}} combina láser y mapeo con doble tarea (450 ml de polvo + 250 ml de agua) y marca nacional con service, y la [Xiaomi S20](https://meli.la/18CB1Wa) a {{precio:MLA44714806}} agrega comando de voz y aspirado de alfombras al ecosistema Xiaomi.` },
       { type: "pull-quote", content: `Pasé de uno que chocaba contra todo a este que mapea la casa y la diferencia es de otro planeta. Lo programo desde el laburo y cuando llego está todo hecho.`, attribution: `— Comprador en Argentina, 2025` },
   
@@ -20385,7 +20395,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
   
         { type: `h3`, title: `Mejor primer robot con mapeo: Xiaomi S40c` },
         { type: `product-card`, productMlaId: `MLA61420449`, label: `Mejor primer robot`, labelColor: `blue`, ranking: 2, description: `Mapeo, app Mi Home en español y precio accesible. Para arrancar bien sin gastar de más.` },
-        { type: `p`, content: `Si es tu primera aspiradora robot y no querés gastar fortuna pero tampoco comprar algo que choque todo el día, esta es la entrada inteligente. La app Mi Home está en español, es de las más fáciles de configurar, y te deja armar mapas y zonas prohibidas. Tiene 4.8 con 761 calificaciones. No trae autovaciado, así que la vaciás vos cada par de usos, pero a este precio es lo razonable. Es la que le regalaría a alguien que nunca tuvo un robot.` },
+        { type: `p`, content: `Si es tu primera aspiradora robot y no querés gastar fortuna pero tampoco comprar algo que choque todo el día, esta es la entrada inteligente. La app Mi Home está en español, es de las más fáciles de configurar, y te deja armar mapas y zonas prohibidas. Tiene {{rating:MLA61420449}} con {{reviews:MLA61420449}} calificaciones. No trae autovaciado, así que la vaciás vos cada par de usos, pero a este precio es lo razonable. Es la que le regalaría a alguien que nunca tuvo un robot.` },
   
         { type: `h3`, title: `Mejor económica y para mascotas: Fika Nexos` },
         { type: `product-card`, productMlaId: `MLA63784269`, label: `Económica y mascotas`, labelColor: `amber`, ranking: 3, description: `La más vendida del catálogo. Navegación giroscópica ordenada y buena con el pelo de mascota.` },
@@ -21360,6 +21370,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { label: "Cafetera automática: del grano a la taza", href: "/guias/cafetera-automatica" },
       { label: "Cafetera de filtro: las mejores", href: "/guias/cafetera-de-filtro" },
       { label: "Cafetera italiana (moka): cuál comprar", href: "/guias/cafetera-italiana" },
+      { label: "Prensa francesa: cuál comprar", href: "/guias/prensa-francesa" },
       { label: "Cafetera Nespresso: cuál comprar", href: "/guias/cafetera-nespresso" },
       { label: "Cafetera Dolce Gusto: cuál comprar", href: "/guias/cafetera-dolce-gusto" },
       { label: "Día de la Madre: regalos que se usan", href: "/guias/hogar/dia-de-la-madre-argentina" },
@@ -22718,6 +22729,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { label: "Cepillo secador: cuál comprar", href: "/guias/cuidado-personal/cepillo-secador" },
       { label: "Cepillo de dientes eléctrico: cuál comprar", href: "/guias/cuidado-personal/cepillo-de-dientes-electrico" },
       { label: "Planchita de pelo: cuál comprar", href: "/guias/cuidado-personal/planchita-de-pelo" },
+      { label: "Planchita de pelo profesional: cuál comprar", href: "/guias/cuidado-personal/planchita-de-pelo-profesional" },
       { label: "Máquina de afeitar: cuál comprar", href: "/guias/cuidado-personal/maquina-de-afeitar" },
       { label: "Cortadora de pelo: cuál comprar", href: "/guias/cuidado-personal/cortadora-de-pelo" },
       { label: "Depiladora eléctrica: cuál comprar", href: "/guias/cuidado-personal/depiladora-electrica" },
@@ -22951,7 +22963,10 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     internalLinks: [
       { label: "Secador de pelo: cuál comprar (pilar del silo)", href: "/guias/cuidado-personal/secador-de-pelo" },
       { label: "Planchita de pelo: cuál comprar", href: "/guias/cuidado-personal/planchita-de-pelo" },
+      { label: "Planchita de pelo profesional: cuál comprar", href: "/guias/cuidado-personal/planchita-de-pelo-profesional" },
       { label: "Máquina de afeitar: cuál comprar", href: "/guias/cuidado-personal/maquina-de-afeitar" },
+      { label: "Cortadora de pelo: cuál comprar", href: "/guias/cuidado-personal/cortadora-de-pelo" },
+      { label: "Depiladora eléctrica: cuál comprar", href: "/guias/cuidado-personal/depiladora-electrica" },
     ],
     internalLinksTitle: "Más de cuidado personal",
   },
@@ -23069,7 +23084,9 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     ],
     internalLinks: [
       { label: "Secador de pelo: cuál comprar (pilar del silo)", href: "/guias/cuidado-personal/secador-de-pelo" },
+      { label: "Cepillo secador: cuál comprar", href: "/guias/cuidado-personal/cepillo-secador" },
       { label: "Planchita de pelo: cuál comprar", href: "/guias/cuidado-personal/planchita-de-pelo" },
+      { label: "Planchita de pelo profesional: cuál comprar", href: "/guias/cuidado-personal/planchita-de-pelo-profesional" },
       { label: "Máquina de afeitar: cuál comprar", href: "/guias/cuidado-personal/maquina-de-afeitar" },
       { label: "Depiladora eléctrica: cuál comprar", href: "/guias/cuidado-personal/depiladora-electrica" },
     ],
@@ -23178,7 +23195,9 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     ],
     internalLinks: [
       { label: "Secador de pelo: cuál comprar (pilar del silo)", href: "/guias/cuidado-personal/secador-de-pelo" },
+      { label: "Cepillo secador: cuál comprar", href: "/guias/cuidado-personal/cepillo-secador" },
       { label: "Planchita de pelo: cuál comprar", href: "/guias/cuidado-personal/planchita-de-pelo" },
+      { label: "Planchita de pelo profesional: cuál comprar", href: "/guias/cuidado-personal/planchita-de-pelo-profesional" },
       { label: "Máquina de afeitar: cuál comprar", href: "/guias/cuidado-personal/maquina-de-afeitar" },
       { label: "Cortadora de pelo: cuál comprar", href: "/guias/cuidado-personal/cortadora-de-pelo" },
       { label: "Uñas soft gel: cómo hacerlas en casa", href: "/guias/cuidado-personal/unas-soft-gel" },
@@ -23419,8 +23438,10 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     internalLinks: [
       { label: "Planchita de pelo: guía general (pilar del silo)", href: "/guias/cuidado-personal/planchita-de-pelo" },
       { label: "Secador de pelo: cuál comprar", href: "/guias/cuidado-personal/secador-de-pelo" },
+      { label: "Cepillo secador: cuál comprar", href: "/guias/cuidado-personal/cepillo-secador" },
       { label: "Máquina de afeitar: cuál comprar", href: "/guias/cuidado-personal/maquina-de-afeitar" },
       { label: "Cortadora de pelo: cuál comprar", href: "/guias/cuidado-personal/cortadora-de-pelo" },
+      { label: "Depiladora eléctrica: cuál comprar", href: "/guias/cuidado-personal/depiladora-electrica" },
     ],
     internalLinksTitle: "Más de cuidado personal",
   },
@@ -25794,7 +25815,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { type: "p", content: `Lo honesto: al ser de muñeca, una reseña señala una diferencia de 1 punto frente a un tensiómetro de brazo.` },
 
       { type: "h3", title: `3. Omron HEM-6124 — marca líder en muñeca` },
-      { type: "product-card", productMlaId: "MLA24111585", label: "Marca líder en muñeca", labelColor: "blue", ranking: 3, description: `De muñeca, automático. 4.8 estrellas en 6.682 calificaciones, el respaldo de Omron más compacto.` },
+      { type: "product-card", productMlaId: "MLA24111585", label: "Marca líder en muñeca", labelColor: "blue", ranking: 3, description: `De muñeca, automático. {{rating:MLA24111585}} estrellas en {{reviews:MLA24111585}} calificaciones, el respaldo de Omron más compacto.` },
       { type: "p", content: `El respaldo de la marca líder en formato muñeca, más compacto y barato que la versión de brazo de la misma marca, a alrededor de {{precio:MLA24111585:k}}.` },
       { type: "p", content: `La contra real: no incluye estuche de guardado, según una reseña.` },
 
@@ -28236,7 +28257,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { question: `¿Alguna de esta comparativa tiene componentes Shimano confirmados?`, answer: `Sí, dos: la [Olmo Amelie Rapide](/producto/olmo-bicicleta-vintage-amelie-rapide-acero-rod-26-6v-mla25595804) (cambio trasero TZ500) y la [Oxea Shadane](/producto/bicicleta-aluminio-oxea-shadane-rodado-26-21-vel-shimano-mla1376856967) (TX30 delantero, Tourney trasero). El resto usa marcas genéricas.` },
       { question: `¿Cuánto peso soportan estas bicicletas rodado 26?`, answer: `Varía entre 85 kg (la [Fire Bird Doble Suspensión](/producto/bicicleta-mountain-bike-firebird-doble-suspension-rodado-26-color-negro-tamano-d-mla47793497), el límite más bajo) y 120 kg (la [Hoko](/producto/bic-mtb-dama-rodado-26-con-suspension-18-vel-hoko-envio-mla1173239137) y la [Oxea](/producto/bicicleta-aluminio-oxea-shadane-rodado-26-21-vel-shimano-mla1376856967), el máximo de esta comparativa).` },
       { question: `¿Cuál conviene si busco algo simple para paseo en plano?`, answer: `La [Kelinbike Playera](/producto/bicicleta-playera-kelinbike-v26pdf-rodado-26-mujer-fucsia-hierro-mla26928305): sin cambios de velocidad, estilo cruiser cómodo y la más barata de esta comparativa.` },
-      { question: `¿Puedo usar una bicicleta rodado 26 con motor eléctrico?`, answer: `No las de esta guía: son bicicletas sin motor. Si buscás pedaleo asistido, revisá nuestra [guía de bicicleta eléctrica](/guias/movilidad/bicicleta-electrica), que incluye un modelo rodado 26.` },
+      { question: `¿Puedo usar una bicicleta rodado 26 con motor eléctrico?`, answer: `No las de esta guía: son bicicletas sin motor. Si buscás pedaleo asistido, revisá nuestra [guía de bicicleta eléctrica](/guias/movilidad/bicicleta-electrica); hoy ninguna de las vigentes es rodado 26, pero sí tiene una rodado 29.` },
     ],
     internalLinks: [
       { label: "Ver toda la categoría Movilidad", href: "/categoria/movilidad" },
@@ -28381,110 +28402,108 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     pillar: true,
     title: `Bicicleta eléctrica: cuál comprar en Argentina [2026]`,
     seoTitle: `Bicicleta Eléctrica: Cuál Comprar en Argentina [2026]`,
-    metaDescription: `Comparamos 6 bicicletas eléctricas de Argentina: Valentini, Enova, Kroner, MOOY, Rango y HONEYWHALE. Precios y reseñas reales, y cuál conviene.`,
+    metaDescription: `Comparamos 5 bicicletas eléctricas de Argentina: Valentini, Rango, Safeway, HONEYWHALE y MOOY M7. Precios y reseñas reales, y cuál conviene.`,
     ogTitle: `Bicicleta eléctrica: cuál comprar en Argentina`,
-    ogDescription: `De la más elegida a la más potente: 6 bicicletas eléctricas comparadas por precio real, respaldo de reseñas y autonomía, con contras honestos incluidos.`,
-    ogImage: `https://http2.mlstatic.com/D_NQ_NP_807303-MLA95395791512_102025-O.webp`,
+    ogDescription: `5 bicicletas eléctricas comparadas por precio real, respaldo de reseñas y autonomía, con contras honestos incluidos.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_2X_785429-MLA114553770427_072026-F.webp`,
     h1: `Bicicleta eléctrica: cuál comprar en Argentina y cuál conviene [2026]`,
-    directAnswer: `Para la mayoría conviene la **[Enova Asistida](/producto/bicicleta-electrica-asistida-enova-350v-shimano-epac-rod-26-mla26955875)** (alrededor de {{precio:MLA26955875:k}}): la más elegida, con 139 reseñas reales verificadas en Argentina, sin salvedades. Si priorizás precio, la **[Valentini Plegable 20](/producto/bicicleta-electrica-valentini-plegable-20-32km-h-350w-negro-mla59609902)** (alrededor de {{precio:MLA59609902:k}}), la más barata y con stock inmediato. Si buscás más potencia, la **[HONEYWHALE F6 Pro-S](/producto/bicicleta-electrica-honeywhale-f6-pro-s-50-km-de-autonomia-45-km-h-motor-900w-ba-mla53621331)** (900 W, 45 km/h). Y para rodado 29, la **[Kroner R29](/producto/bicicleta-electrica-r29-350w-shimano-8-velocidades-kroner-verde-lima-mla63590384)**.`,
+    directAnswer: `Para la mayoría conviene la **[Safeway EM100](/producto/bicicleta-electrica-safeway-em100-rodado-29-motor-350w-36v-shimano-mlau3399532573)** (alrededor de {{precio:MLAU3399532573:k}}): la más barata de esta comparativa, y también la única rodado 29. Si buscás stock inmediato sin esperar una importación, la **[Valentini Plegable 20](/producto/bicicleta-electrica-valentini-plegable-20-32km-h-350w-negro-mla59609902)**. Para trabajo o delivery, la **[Rango Worker Plus](/producto/bicicleta-electrica-plegable-autono50km-rango-worker-plus-color-verde-mla47150419)** (acelerador impermeable). Si querés el mejor respaldo de reseñas, la **[HONEYWHALE K6S](/producto/bicicleta-electrica-honeywhale-k6s-motor-1000w-55-km-h-bateria-extraible-48v-15-mla62339970)** ({{reviews:MLA62339970}} calificaciones, también la más potente). Y si priorizás rating, la **[MOOY M7](/producto/bicicleta-electrica-m7-40km-h-mlau3143206258)** ({{rating:MLAU3143206258}} estrellas, también formato distinto).`,
     publishedDate: "2026-08-06",
-    updatedDate: "2026-08-06",
+    updatedDate: "2026-10-31",
     hasDisclosure: true,
-    readingTime: 10,
-    standfirst: `Una bicicleta eléctrica va de {{precio:MLA59609902:k}} (la más barata de esta comparativa) a {{precio:MLA53621331:k}} (la más cara y más potente). Comparamos 6 bicicletas eléctricas reales de MercadoLibre Argentina por precio, respaldo de reseñas y autonomía declarada, con contras honestos incluidos. Distinta de un [monopatín eléctrico](/guias/movilidad/monopatin-electrico): acá es una bicicleta de verdad, con pedales, cuadro y cadena, con motor de asistencia.`,
+    readingTime: 11,
+    standfirst: `Una bicicleta eléctrica va de {{precio:MLAU3399532573:k}} (la más barata de esta comparativa) a {{precio:MLA62339970:k}} (la más cara y más potente). Comparamos 5 bicicletas eléctricas reales de MercadoLibre Argentina por precio, respaldo de reseñas y autonomía declarada, con contras honestos incluidos. Distinta de un [monopatín eléctrico](/guias/movilidad/monopatin-electrico): acá es una bicicleta de verdad, con pedales, cuadro y cadena, con motor de asistencia.`,
     quickPicks: [
-      { productMlaId: "MLA26955875", label: "La más elegida", labelColor: "green", tagline: "Enova Asistida: 139 reseñas reales verificadas en Argentina, sin salvedades" },
-      { productMlaId: "MLA59609902", label: "La más barata", labelColor: "amber", tagline: "Valentini Plegable 20: la de menor precio, stock inmediato en Argentina" },
-      { productMlaId: "MLA53621331", label: "Mayor potencia", labelColor: "purple", tagline: "HONEYWHALE F6 Pro-S: motor de 900W, 45 km/h de velocidad máxima declarada" },
-      { productMlaId: "MLA47150419", label: "Mejor rating", labelColor: "blue", tagline: "Rango Worker Plus: 5.0 estrellas, plegable con acelerador" },
+      { productMlaId: "MLAU3399532573", label: "La más barata", labelColor: "green", tagline: "Safeway EM100: la más barata de esta comparativa, también la única rodado 29" },
+      { productMlaId: "MLA47150419", label: "Para trabajo/delivery", labelColor: "blue", tagline: "Rango Worker Plus: acelerador impermeable, pensada por el vendedor para trabajo o delivery" },
+      { productMlaId: "MLA62339970", label: "Mayor potencia", labelColor: "purple", tagline: "HONEYWHALE K6S: motor de 1.000W, {{reviews:MLA62339970}} calificaciones, la base de reseñas más grande de la guía" },
+      { productMlaId: "MLAU3143206258", label: "Mejor rating", labelColor: "slate", tagline: "MOOY M7: {{rating:MLAU3143206258}} estrellas, el mejor rating de esta comparativa" },
     ],
     intro: [
       `Una **bicicleta eléctrica** (e-bike) es distinta de un [monopatín eléctrico](/guias/movilidad/monopatin-electrico): acá hablamos de una bicicleta de verdad, con cuadro, pedales y cadena, a la que se le suma un motor de asistencia y una batería. El pedaleo sigue siendo parte de la experiencia (salvo cuando el modelo trae acelerador), a diferencia del monopatín, que es una plataforma sin pedales.`,
-      `Comparamos 6 bicicletas eléctricas reales de MercadoLibre Argentina por precio, respaldo de reseñas (no solo la nota, sino cuántos compradores la sostienen y si son de Argentina) y specs de motor/batería verificadas contra la ficha técnica. Un aviso honesto de entrada: varias fichas técnicas de esta categoría tienen errores de unidad en la batería o la autonomía (horas en vez de kilómetros, mAh en vez de Ah); lo aclaramos producto por producto en vez de repetir el dato con error.`,
+      `Comparamos 5 bicicletas eléctricas reales de MercadoLibre Argentina por precio, respaldo de reseñas (no solo la nota, sino cuántos compradores la sostienen y si son de Argentina) y specs de motor/batería verificadas contra la ficha técnica. Un aviso honesto de entrada: varias fichas técnicas de esta categoría tienen errores de unidad en la batería o la autonomía (horas en vez de kilómetros, mAh en vez de Ah), o diferencias entre lo que dice el título del vendedor y lo que declara la ficha técnica estructurada; lo aclaramos producto por producto en vez de repetir el dato sin chequear.`,
     ],
     sections: [
-      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_807303-MLA95395791512_102025-O.webp", alt: `Bicicleta eléctrica Enova Asistida, la más elegida de esta comparativa`, imageSize: "hero" },
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_785429-MLA114553770427_072026-F.webp", alt: `Bicicleta eléctrica Valentini Plegable 20, con stock inmediato en Argentina`, imageSize: "hero" },
 
-      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la **mayoría**, la **[Enova Asistida](/producto/bicicleta-electrica-asistida-enova-350v-shimano-epac-rod-26-mla26955875)** (la más elegida, 139 reseñas verificadas en Argentina). Si priorizás **precio**, la **[Valentini Plegable 20](/producto/bicicleta-electrica-valentini-plegable-20-32km-h-350w-negro-mla59609902)** (la más barata, stock inmediato). Para **potencia**, la **[HONEYWHALE F6 Pro-S](/producto/bicicleta-electrica-honeywhale-f6-pro-s-50-km-de-autonomia-45-km-h-motor-900w-ba-mla53621331)** (900W, 45 km/h). Y para **rodado 29**, la **[Kroner R29](/producto/bicicleta-electrica-r29-350w-shimano-8-velocidades-kroner-verde-lima-mla63590384)**.` },
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la **mayoría**, la **[Safeway EM100](/producto/bicicleta-electrica-safeway-em100-rodado-29-motor-350w-36v-shimano-mlau3399532573)** (la más barata, también rodado 29). Si buscás **stock inmediato** sin importación, la **[Valentini Plegable 20](/producto/bicicleta-electrica-valentini-plegable-20-32km-h-350w-negro-mla59609902)**. Para **trabajo o delivery**, la **[Rango Worker Plus](/producto/bicicleta-electrica-plegable-autono50km-rango-worker-plus-color-verde-mla47150419)** (acelerador impermeable). Para **potencia y respaldo de reseñas**, la **[HONEYWHALE K6S](/producto/bicicleta-electrica-honeywhale-k6s-motor-1000w-55-km-h-bateria-extraible-48v-15-mla62339970)** (1.000W, {{reviews:MLA62339970}} calificaciones). Y si priorizás **rating**, la **[MOOY M7](/producto/bicicleta-electrica-m7-40km-h-mlau3143206258)** ({{rating:MLAU3143206258}} estrellas, también formato distinto).` },
+
+      { type: "callout", calloutVariant: "note", calloutTitle: "Actualización de stock (31/10/2026)", content: `Sacamos 3 modelos de este ranking —Enova Asistida, Kroner R29 y HONEYWHALE F6 Pro-S— porque se quedaron sin stock del vendedor que veníamos verificando, sin reemplazo del mismo modelo exacto en ningún otro vendedor de MercadoLibre. Encontramos reemplazo real para dos de los tres roles que dejaron vacantes: la Safeway EM100 cubre "rodado 29" (rol de la Kroner) y la HONEYWHALE K6S cubre "mayor potencia" (rol de la F6 Pro-S, con más potencia todavía: 1.000W vs 900W) — y de paso suma el mejor respaldo de reseñas de toda la guía ({{reviews:MLA62339970}}), cubriendo también el rol que dejó vacante la Enova. Si volvemos a encontrar vendedor para las que sacamos, las reincorporamos.` },
 
       { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos bicicletas eléctricas con ventas reales en MercadoLibre Argentina, verificadas en vivo. Las ordenamos por **respaldo de reseñas de compradores argentinos** (marcando cuando una calificación incluye reseñas de otros países del catálogo regional), **motor y batería** cruzados contra la ficha técnica, y **precio**. Los precios que ves en las fichas y tablas se revisan contra MercadoLibre tres veces por semana.` },
 
       { type: "h2", title: `Qué mirar antes de comprar una bicicleta eléctrica`, id: "que-mirar" },
-      { type: "p", content: `**Potencia del motor y velocidad máxima.** Va de 250 W (25 km/h) a 900 W (45 km/h) en esta comparativa. A mayor potencia y velocidad, más rápido se descarga la batería a esa velocidad tope.` },
+      { type: "p", content: `**Potencia del motor y velocidad máxima.** Va de 350 W (25-32 km/h) a 1.000 W (55 km/h) en esta comparativa. A mayor potencia y velocidad, más rápido se descarga la batería a esa velocidad tope.` },
       { type: "p", content: `**Autonomía: desconfiá del dato del vendedor si no hay reseñas que lo confirmen.** Varias publicaciones declaran una autonomía en kilómetros que ninguna reseña real confirma con un recorrido reportado. No es necesariamente falso, pero conviene tratarlo como estimación optimista del vendedor, no como un hecho verificado.` },
       { type: "p", content: `**De dónde son las reseñas.** Algunas fichas de esta categoría muestran calificaciones que incluyen compradores de otros países del catálogo regional de MercadoLibre (mayoría de Brasil), no solo de Argentina. La propia ficha lo aclara cuando pasa; lo señalamos producto por producto.` },
       { type: "callout", calloutVariant: "note", calloutTitle: "Distinta de un monopatín eléctrico y de una bici sin motor", content: `Si buscás una plataforma sin pedales, revisá nuestra [guía de monopatín eléctrico](/guias/movilidad/monopatin-electrico). Si preferís una bicicleta sin motor, mirá nuestras guías de [rodado 29](/guias/movilidad/bicicleta-rodado-29) y [rodado 26](/guias/movilidad/bicicleta-rodado-26).` },
 
       { type: "h2", title: `Las mejores bicicletas eléctricas de 2026`, id: "ranking" },
 
-      { type: "h3", title: `1. Enova Asistida — la más elegida` },
-      { type: "product-card", productMlaId: "MLA26955875", label: "La más elegida", labelColor: "green", ranking: 1, description: `139 calificaciones reales de compradores en Argentina, sin salvedad regional. Sistema EPAC de asistencia al pedaleo con componentes Shimano, motor de 250W.` },
-      { type: "p", content: `La [Enova Asistida](/producto/bicicleta-electrica-asistida-enova-350v-shimano-epac-rod-26-mla26955875) tiene la mayor base de reseñas verificadas específicamente en Argentina de esta comparativa: **139 calificaciones con 4.6 estrellas**, sin la salvedad de reseñas de otros países, a alrededor de {{precio:MLA26955875:k}}. Trae sistema EPAC de asistencia al pedaleo con componentes Shimano.` },
-      { type: "p", content: `Lo honesto: la ficha técnica declara la batería en "10,4 mAh", un error de unidad (debería ser Ah) que se repite tanto en la ficha como en la descripción del vendedor. Tampoco declara autonomía en km; el dato de ~40 km surge de una reseña real, no del vendedor.` },
-      { type: "pull-quote", content: `"Espectacular. Muy buena para las personas que por motivos varios no pueden hacer mucho esfuerzo al momento de pedalear. Particularmente me viene bien por una hernia de disco en la parte baja de la columna."`, attribution: `Comprador verificado en MercadoLibre, opinión con 37 votos útiles` },
+      { type: "h3", title: `1. Valentini Plegable 20 — stock inmediato` },
+      { type: "product-card", productMlaId: "MLA59609902", label: "Stock inmediato", labelColor: "amber", ranking: 1, description: `Con stock inmediato en Argentina (no importación), sin esperar un envío desde el exterior. Plegable, motor de 350W y batería removible.` },
+      { type: "p", content: `La [Valentini Plegable 20](/producto/bicicleta-electrica-valentini-plegable-20-32km-h-350w-negro-mla59609902) tiene stock inmediato en Argentina (no es importación con semanas de demora), a alrededor de {{precio:MLA59609902:k}}. Motor de 350 W, plegable, con batería de litio removible.` },
+      { type: "p", content: `Lo honesto: no es la más barata de esta comparativa (la Safeway y la Rango cuestan menos). La ficha técnica declara la autonomía en "45 h" (horas), un error de unidad que no pudimos traducir a kilómetros reales con certeza. Solo {{reviews:MLA59609902}} calificaciones todavía.` },
 
-      { type: "h3", title: `2. Valentini Plegable 20 — la más barata` },
-      { type: "product-card", productMlaId: "MLA59609902", label: "La más barata", labelColor: "amber", ranking: 2, description: `La de menor precio de esta comparativa, con stock inmediato en Argentina (no importación). Plegable, motor de 350W y batería removible.` },
-      { type: "p", content: `La [Valentini Plegable 20](/producto/bicicleta-electrica-valentini-plegable-20-32km-h-350w-negro-mla59609902) es la más barata de esta comparativa, a alrededor de {{precio:MLA59609902:k}}, con stock inmediato en Argentina (no es importación con semanas de demora). Motor de 350 W, plegable, con batería de litio removible.` },
-      { type: "p", content: `Lo honesto: la ficha técnica declara la autonomía en "45 h" (horas), un error de unidad que no pudimos traducir a kilómetros reales con certeza. Solo 33 calificaciones todavía.` },
+      { type: "h3", title: `2. Rango Worker Plus — para trabajo o delivery` },
+      { type: "product-card", productMlaId: "MLA47150419", label: "Para trabajo/delivery", labelColor: "blue", ranking: 2, description: `Pensada por el vendedor para trabajo o delivery: plegable en 3 pasos, con acelerador impermeable además de pedaleo asistido. {{reviews:MLA47150419}} calificaciones a {{rating:MLA47150419}} estrellas.` },
+      { type: "p", content: `La [Rango Worker Plus](/producto/bicicleta-electrica-plegable-autono50km-rango-worker-plus-color-verde-mla47150419) está pensada por el vendedor para trabajo o delivery, a alrededor de {{precio:MLA47150419:k}}. Plegable en 3 pasos, combina asistencia al pedaleo (EPAC) con un acelerador impermeable.` },
+      { type: "p", content: `Lo honesto: tiene {{reviews:MLA47150419}} calificaciones a {{rating:MLA47150419}} estrellas, volumen bajo todavía. Los 50 km de autonomía que declara son una cifra del vendedor que ninguna reseña visible confirma de forma independiente. Además, el vendedor original se quedó sin stock el 31/10/2026 y pasamos a otra publicación de la misma marca (Rango): el modelo exacto que compra hoy quien hace clic puede diferir levemente del que reseñamos (color y nombre de línea distintos), aunque mismo tipo de bicicleta, misma marca y misma autonomía declarada.` },
 
-      { type: "h3", title: `3. Rango Worker Plus — mejor rating` },
-      { type: "product-card", productMlaId: "MLA47150419", label: "Mejor rating", labelColor: "blue", ranking: 3, description: `El mejor rating de esta comparativa (5.0 estrellas), aunque con solo 10 calificaciones. Plegable en 3 pasos, con acelerador impermeable además de pedaleo asistido.` },
-      { type: "p", content: `La [Rango Worker Plus](/producto/bicicleta-electrica-plegable-autono50km-rango-worker-plus-color-verde-mla47150419) tiene el mejor rating de esta comparativa, **5.0 estrellas**, a alrededor de {{precio:MLA47150419:k}}. Plegable en 3 pasos, combina asistencia al pedaleo (EPAC) con un acelerador impermeable, y el vendedor la posiciona explícitamente para trabajo o delivery.` },
-      { type: "p", content: `Lo honesto: solo tiene 10 calificaciones, volumen bajo para un 5.0. Los 50 km de autonomía que declara son una cifra del vendedor que ninguna reseña visible confirma de forma independiente.` },
+      { type: "h3", title: `3. Safeway EM100 — la más barata y única rodado 29` },
+      { type: "product-card", productMlaId: "MLAU3399532573", label: "La más barata", labelColor: "green", ranking: 3, description: `La más barata de esta comparativa, y también la única mountain bike eléctrica rígida rodado 29, con componentes Shimano y batería removible.` },
+      { type: "p", content: `La [Safeway EM100](/producto/bicicleta-electrica-safeway-em100-rodado-29-motor-350w-36v-shimano-mlau3399532573) es la más barata de esta comparativa, a alrededor de {{precio:MLAU3399532573:k}}, y también la única con rodado 29 (rueda grande), con motor de 350W, componentes Shimano y batería removible de 36V/10,4 Ah.` },
+      { type: "p", content: `Lo honesto: solo tiene {{reviews:MLAU3399532573}} calificaciones todavía, volumen bajo. No declara autonomía en kilómetros en la ficha técnica, y requiere ensamblado al recibirla (aunque varias reseñas dicen que es simple con las herramientas que trae).` },
 
-      { type: "h3", title: `4. Kroner R29 — única rodado 29` },
-      { type: "product-card", productMlaId: "MLA63590384", label: "Única rodado 29", labelColor: "slate", ranking: 4, description: `La única mountain bike eléctrica rígida rodado 29 de esta comparativa, con 8 velocidades Shimano y batería removible. Insignia de "3° más vendida" en MercadoLibre.` },
-      { type: "p", content: `La [Kroner R29](/producto/bicicleta-electrica-r29-350w-shimano-8-velocidades-kroner-verde-lima-mla63590384) es la única bicicleta eléctrica de esta comparativa con rodado 29 (rueda grande), con 8 velocidades de componentes Shimano y batería removible, a alrededor de {{precio:MLA63590384:k}}. MercadoLibre la marca como "3° más vendida en Bicicletas Eléctricas".` },
-      { type: "p", content: `Lo honesto: pesa 30 kg, la más pesada de esta comparativa. La autonomía de 40-45 km que promociona el vendedor aparece en material gráfico, no como un campo estructurado de la ficha técnica — aunque un comprador real reportó casi 45 km en una carga con uso moderado.` },
+      { type: "h3", title: `4. HONEYWHALE K6S — mayor potencia` },
+      { type: "product-card", productMlaId: "MLA62339970", label: "Mayor potencia", labelColor: "purple", ranking: 4, description: `Motor de 1.000W, la mayor potencia de esta comparativa. {{reviews:MLA62339970}} calificaciones, la base de reseñas más grande de la guía.` },
+      { type: "p", content: `La [HONEYWHALE K6S](/producto/bicicleta-electrica-honeywhale-k6s-motor-1000w-55-km-h-bateria-extraible-48v-15-mla62339970) tiene la mayor potencia de esta comparativa: **1.000 W** según su ficha técnica (el título del vendedor dice 1.080W), con batería extraíble de 48V/15,6Ah, a alrededor de {{precio:MLA62339970:k}}. Tiene {{reviews:MLA62339970}} calificaciones a {{rating:MLA62339970}} estrellas, la base más grande de toda esta guía.` },
+      { type: "p", content: `Lo honesto: pesa 43 kg, la más pesada de esta comparativa. Una reseña (de Brasil, catálogo regional) señala neumáticos de calidad inferior a modelos anteriores de la marca, falta de espejos y direccionales, y un puerto de carga mejorable.` },
 
-      { type: "h3", title: `5. MOOY M7 — formato fat-tire/chopper` },
-      { type: "product-card", productMlaId: "MLAU3143206258", label: "Formato distinto", labelColor: "purple", ranking: 5, description: `Motor de 500W (la segunda mayor potencia de esta comparativa, detrás de la opción de 900 W), formato fat-tire/chopper único de esta guía, con velocidad máxima de 40 km/h confirmada por una reseña real, no solo por el vendedor.` },
-      { type: "p", content: `La [MOOY M7](/producto/bicicleta-electrica-m7-40km-h-mlau3143206258) tiene la segunda mayor potencia de motor de esta comparativa, detrás de la [HONEYWHALE](/producto/bicicleta-electrica-honeywhale-f6-pro-s-50-km-de-autonomia-45-km-h-motor-900w-ba-mla53621331): **500 W**, con batería de 48V/15Ah, a alrededor de {{precio:MLAU3143206258:k}}. Un comprador real confirmó que alcanza los 40 km/h reales. Formato fat-tire/chopper, único de esta guía.` },
+      { type: "h3", title: `5. MOOY M7 — mejor rating y formato distinto` },
+      { type: "product-card", productMlaId: "MLAU3143206258", label: "Mejor rating", labelColor: "slate", ranking: 5, description: `El mejor rating de esta comparativa ({{rating:MLAU3143206258}} estrellas en {{reviews:MLAU3143206258}} calificaciones), con formato fat-tire/chopper único de esta guía y velocidad máxima de 40 km/h confirmada por una reseña real, no solo por el vendedor.` },
+      { type: "p", content: `La [MOOY M7](/producto/bicicleta-electrica-m7-40km-h-mlau3143206258) tiene el mejor rating de esta comparativa (**{{rating:MLAU3143206258}} estrellas** en {{reviews:MLAU3143206258}} calificaciones), con formato fat-tire/chopper único de esta guía, motor de **500 W** y batería de 48V/15Ah, a alrededor de {{precio:MLAU3143206258:k}}. Un comprador real confirmó que alcanza los 40 km/h reales.` },
       { type: "p", content: `Lo honesto: el vendedor no declara la autonomía en kilómetros en ningún lugar de la ficha técnica. No es plegable y requiere ensamblado.` },
       { type: "pull-quote", content: `"La bicicleta es excelente. Viene bastante armada en una caja. Hay que agregarle algunas cosas (nada complicado) y ya queda lista. La velocidad maxima alcanzada es de 40 km/h reales. Muy recomendable, prácticamente no hace ruido y se puede usar sin necesidad de pedalear (mido 1,90 mts)."`, attribution: `Comprador verificado en MercadoLibre, opinión con 48 votos útiles` },
 
-      { type: "h3", title: `6. HONEYWHALE F6 Pro-S — mayor potencia total` },
-      { type: "product-card", productMlaId: "MLA53621331", label: "Mayor potencia", labelColor: "purple", ranking: 6, description: `900W de potencia y 45 km/h de velocidad máxima declarada, las cifras más altas de esta comparativa. Frenos a disco delantero y trasero, plegable. La más cara.` },
-      { type: "p", content: `La [HONEYWHALE F6 Pro-S](/producto/bicicleta-electrica-honeywhale-f6-pro-s-50-km-de-autonomia-45-km-h-motor-900w-ba-mla53621331) tiene la mayor potencia (**900 W**, 70 N.m de torque) y la mayor velocidad máxima declarada (**45 km/h**) de toda esta comparativa, con frenos a disco delantero y trasero, a alrededor de {{precio:MLA53621331:k}}. Es plegable, con suspensión delantera.` },
-      { type: "p", content: `Lo honesto: sus 196 calificaciones y 4.8 estrellas incluyen reseñas de otros países del catálogo regional (la propia ficha lo aclara); el proxy de ventas específico de Argentina es "+50 ventas" de la tienda oficial local. Los 50 km de autonomía a máxima potencia son una cifra optimista del vendedor, no confirmada para uso real en Argentina.` },
-
       { type: "h2", title: `Tabla comparativa: precio, motor y autonomía`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Motor`, `Velocidad máxima`, `Plegable`, `Ideal para`], rows: [
-        [`[Valentini Plegable 20](/producto/bicicleta-electrica-valentini-plegable-20-32km-h-350w-negro-mla59609902)`, `{{precio:MLA59609902}}`, `350 W`, `32 km/h`, `Sí`, `La más barata`],
-        [`[Rango Worker Plus](/producto/bicicleta-electrica-plegable-autono50km-rango-worker-plus-color-verde-mla47150419)`, `{{precio:MLA47150419}}`, `No declarado`, `32 km/h`, `Sí, en 3 pasos`, `Mejor rating`],
-        [`[Kroner R29](/producto/bicicleta-electrica-r29-350w-shimano-8-velocidades-kroner-verde-lima-mla63590384)`, `{{precio:MLA63590384}}`, `350 W`, `No declarada`, `No`, `Única rodado 29`],
-        [`[MOOY M7](/producto/bicicleta-electrica-m7-40km-h-mlau3143206258)`, `{{precio:MLAU3143206258}}`, `500 W`, `40 km/h (confirmada por reseña)`, `No`, `Formato fat-tire/chopper`],
-        [`[Enova Asistida](/producto/bicicleta-electrica-asistida-enova-350v-shimano-epac-rod-26-mla26955875)`, `{{precio:MLA26955875}}`, `250 W`, `25 km/h`, `No`, `La más elegida`],
-        [`[HONEYWHALE F6 Pro-S](/producto/bicicleta-electrica-honeywhale-f6-pro-s-50-km-de-autonomia-45-km-h-motor-900w-ba-mla53621331)`, `{{precio:MLA53621331}}`, `900 W`, `45 km/h`, `Sí`, `Mayor potencia`],
+        [`[Valentini Plegable 20](/producto/bicicleta-electrica-valentini-plegable-20-32km-h-350w-negro-mla59609902)`, `{{precio:MLA59609902}}`, `350 W`, `32 km/h`, `Sí`, `Stock inmediato`],
+        [`[Rango Worker Plus](/producto/bicicleta-electrica-plegable-autono50km-rango-worker-plus-color-verde-mla47150419)`, `{{precio:MLA47150419}}`, `No declarado`, `32 km/h`, `Sí, en 3 pasos`, `Para trabajo/delivery`],
+        [`[Safeway EM100](/producto/bicicleta-electrica-safeway-em100-rodado-29-motor-350w-36v-shimano-mlau3399532573)`, `{{precio:MLAU3399532573}}`, `350 W`, `25 km/h`, `No`, `La más barata`],
+        [`[HONEYWHALE K6S](/producto/bicicleta-electrica-honeywhale-k6s-motor-1000w-55-km-h-bateria-extraible-48v-15-mla62339970)`, `{{precio:MLA62339970}}`, `1.000 W`, `55 km/h`, `No`, `Mayor potencia`],
+        [`[MOOY M7](/producto/bicicleta-electrica-m7-40km-h-mlau3143206258)`, `{{precio:MLAU3143206258}}`, `500 W`, `40 km/h (confirmada por reseña)`, `No`, `Mejor rating`],
       ] },
 
       { type: "h2", title: `Cómo elegir tu bicicleta eléctrica`, id: "como-elegir" },
-      { type: "h3", title: `1. El respaldo de reseñas, de dónde son` },
-      { type: "p", content: `La [Enova](/producto/bicicleta-electrica-asistida-enova-350v-shimano-epac-rod-26-mla26955875) tiene el mejor respaldo verificado específicamente en Argentina (139 reseñas, sin salvedad). La [HONEYWHALE](/producto/bicicleta-electrica-honeywhale-f6-pro-s-50-km-de-autonomia-45-km-h-motor-900w-ba-mla53621331) tiene más reseñas en total (196), pero incluyen compradores de otros países del catálogo regional — su proxy de ventas local real es mucho más chico.` },
+      { type: "h3", title: `1. El respaldo de reseñas` },
+      { type: "p", content: `La [HONEYWHALE K6S](/producto/bicicleta-electrica-honeywhale-k6s-motor-1000w-55-km-h-bateria-extraible-48v-15-mla62339970) tiene el mayor respaldo de esta comparativa ({{reviews:MLA62339970}} calificaciones), aunque parte de esas reseñas incluyen compradores de otros países del catálogo regional. Entre las que son 100% Argentina sin esa salvedad, la [Valentini](/producto/bicicleta-electrica-valentini-plegable-20-32km-h-350w-negro-mla59609902) tiene el mayor respaldo ({{reviews:MLA59609902}} calificaciones). La [MOOY M7](/producto/bicicleta-electrica-m7-40km-h-mlau3143206258) tiene el mejor rating ({{rating:MLAU3143206258}} estrellas), con {{reviews:MLAU3143206258}} calificaciones.` },
       { type: "h3", title: `2. Potencia según el uso` },
-      { type: "p", content: `Para uso urbano tranquilo, los 250-350 W de la [Enova](/producto/bicicleta-electrica-asistida-enova-350v-shimano-epac-rod-26-mla26955875), la [Valentini](/producto/bicicleta-electrica-valentini-plegable-20-32km-h-350w-negro-mla59609902) o la [Kroner](/producto/bicicleta-electrica-r29-350w-shimano-8-velocidades-kroner-verde-lima-mla63590384) alcanzan. Si buscás más velocidad o subir pendientes con menos esfuerzo, la [MOOY M7](/producto/bicicleta-electrica-m7-40km-h-mlau3143206258) (500W) o la [HONEYWHALE](/producto/bicicleta-electrica-honeywhale-f6-pro-s-50-km-de-autonomia-45-km-h-motor-900w-ba-mla53621331) (900W) rinden más, a mayor precio.` },
+      { type: "p", content: `Para uso urbano tranquilo, los 350 W de la [Valentini](/producto/bicicleta-electrica-valentini-plegable-20-32km-h-350w-negro-mla59609902) o la [Safeway EM100](/producto/bicicleta-electrica-safeway-em100-rodado-29-motor-350w-36v-shimano-mlau3399532573) alcanzan. Si buscás más velocidad o potencia, la [HONEYWHALE K6S](/producto/bicicleta-electrica-honeywhale-k6s-motor-1000w-55-km-h-bateria-extraible-48v-15-mla62339970) (1.000W, 55 km/h) es la más potente de esta comparativa, aunque pesa 43 kg. La [MOOY M7](/producto/bicicleta-electrica-m7-40km-h-mlau3143206258) (500W) queda en un punto intermedio, con formato distinto (fat-tire/chopper).` },
+      { type: "h3", title: `3. Rodado y formato` },
+      { type: "p", content: `Si buscás específicamente rodado 29 (rueda grande de mountain bike), la [Safeway EM100](/producto/bicicleta-electrica-safeway-em100-rodado-29-motor-350w-36v-shimano-mlau3399532573) es la única de esta comparativa con ese tamaño. El resto son rodado 20 (plegables o fat-tire) salvo la Rango, que no declara rodado.` },
 
-      { type: "h2", title: `Cuánto cuesta una bicicleta eléctrica [agosto 2026]`, id: "precios" },
+      { type: "h2", title: `Cuánto cuesta una bicicleta eléctrica [octubre 2026]`, id: "precios" },
       { type: "list", items: [
-        `**Alrededor de {{precio:MLA59609902:k}}:** la más barata, la [Valentini Plegable 20](/producto/bicicleta-electrica-valentini-plegable-20-32km-h-350w-negro-mla59609902).`,
-        `**Alrededor de {{precio:MLA47150419:k}}:** mejor rating, la [Rango Worker Plus](/producto/bicicleta-electrica-plegable-autono50km-rango-worker-plus-color-verde-mla47150419).`,
-        `**Alrededor de {{precio:MLA63590384:k}}:** única rodado 29, la [Kroner R29](/producto/bicicleta-electrica-r29-350w-shimano-8-velocidades-kroner-verde-lima-mla63590384).`,
-        `**Alrededor de {{precio:MLAU3143206258:k}}:** segunda mayor potencia y formato fat-tire/chopper, la [MOOY M7](/producto/bicicleta-electrica-m7-40km-h-mlau3143206258).`,
-        `**Alrededor de {{precio:MLA26955875:k}}:** la más elegida, la [Enova Asistida](/producto/bicicleta-electrica-asistida-enova-350v-shimano-epac-rod-26-mla26955875).`,
-        `**Alrededor de {{precio:MLA53621331:k}}:** la más cara y más potente, la [HONEYWHALE F6 Pro-S](/producto/bicicleta-electrica-honeywhale-f6-pro-s-50-km-de-autonomia-45-km-h-motor-900w-ba-mla53621331).`,
+        `**Alrededor de {{precio:MLAU3399532573:k}}:** la más barata y única rodado 29, la [Safeway EM100](/producto/bicicleta-electrica-safeway-em100-rodado-29-motor-350w-36v-shimano-mlau3399532573).`,
+        `**Alrededor de {{precio:MLA47150419:k}}:** para trabajo o delivery, la [Rango Worker Plus](/producto/bicicleta-electrica-plegable-autono50km-rango-worker-plus-color-verde-mla47150419).`,
+        `**Alrededor de {{precio:MLA59609902:k}}:** stock inmediato sin importación, la [Valentini Plegable 20](/producto/bicicleta-electrica-valentini-plegable-20-32km-h-350w-negro-mla59609902).`,
+        `**Alrededor de {{precio:MLAU3143206258:k}}:** mejor rating y formato fat-tire/chopper, la [MOOY M7](/producto/bicicleta-electrica-m7-40km-h-mlau3143206258).`,
+        `**Alrededor de {{precio:MLA62339970:k}}:** la más cara, más potente y con más reseñas, la [HONEYWHALE K6S](/producto/bicicleta-electrica-honeywhale-k6s-motor-1000w-55-km-h-bateria-extraible-48v-15-mla62339970).`,
       ] },
 
       { type: "h2", title: `Veredicto: cuál bicicleta eléctrica comprar`, id: "veredicto" },
-      { type: "verdict", content: `Para la **mayoría**, la **[Enova Asistida](/producto/bicicleta-electrica-asistida-enova-350v-shimano-epac-rod-26-mla26955875)**: el mejor respaldo de reseñas verificadas en Argentina, sin salvedades. Si priorizás **precio**, la **[Valentini Plegable 20](/producto/bicicleta-electrica-valentini-plegable-20-32km-h-350w-negro-mla59609902)**, con stock inmediato. Si buscás **rodado 29**, la **[Kroner R29](/producto/bicicleta-electrica-r29-350w-shimano-8-velocidades-kroner-verde-lima-mla63590384)** es la única de esta comparativa. Y si **potencia y velocidad** son tu prioridad, la **[HONEYWHALE F6 Pro-S](/producto/bicicleta-electrica-honeywhale-f6-pro-s-50-km-de-autonomia-45-km-h-motor-900w-ba-mla53621331)** (900W, 45 km/h), aunque con la salvedad de que su volumen de reseñas incluye compradores de otros países.` },
+      { type: "verdict", content: `Para la **mayoría**, la **[Safeway EM100](/producto/bicicleta-electrica-safeway-em100-rodado-29-motor-350w-36v-shimano-mlau3399532573)**: la más barata de esta comparativa, y también la única rodado 29. Si buscás **stock inmediato** sin esperar una importación, la **[Valentini Plegable 20](/producto/bicicleta-electrica-valentini-plegable-20-32km-h-350w-negro-mla59609902)**. Para **trabajo o delivery**, la **[Rango Worker Plus](/producto/bicicleta-electrica-plegable-autono50km-rango-worker-plus-color-verde-mla47150419)** (acelerador impermeable). Si **potencia y respaldo de reseñas** son tu prioridad, la **[HONEYWHALE K6S](/producto/bicicleta-electrica-honeywhale-k6s-motor-1000w-55-km-h-bateria-extraible-48v-15-mla62339970)** (1.000W, {{reviews:MLA62339970}} calificaciones). Y si priorizás **rating**, la **[MOOY M7](/producto/bicicleta-electrica-m7-40km-h-mlau3143206258)** ({{rating:MLAU3143206258}} estrellas, también formato distinto).` },
     ],
     faq: [
-      { question: `¿Cuál es la mejor bicicleta eléctrica en Argentina?`, answer: `Por respaldo de reseñas verificadas en Argentina, la [Enova Asistida](/producto/bicicleta-electrica-asistida-enova-350v-shimano-epac-rod-26-mla26955875): 139 calificaciones, sin salvedad regional. Si priorizás precio, la [Valentini Plegable 20](/producto/bicicleta-electrica-valentini-plegable-20-32km-h-350w-negro-mla59609902) es la más barata con stock inmediato.` },
+      { question: `¿Cuál es la mejor bicicleta eléctrica en Argentina?`, answer: `Depende de la prioridad: por precio, la [Safeway EM100](/producto/bicicleta-electrica-safeway-em100-rodado-29-motor-350w-36v-shimano-mlau3399532573), la más barata de esta comparativa. Por respaldo de reseñas y potencia, la [HONEYWHALE K6S](/producto/bicicleta-electrica-honeywhale-k6s-motor-1000w-55-km-h-bateria-extraible-48v-15-mla62339970), con {{reviews:MLA62339970}} calificaciones.` },
       { question: `¿Qué diferencia hay entre una bicicleta eléctrica y un monopatín eléctrico?`, answer: `La bicicleta eléctrica es una bicicleta de verdad (cuadro, pedales, cadena) con motor de asistencia. El monopatín eléctrico (ver nuestra [guía dedicada](/guias/movilidad/monopatin-electrico)) es una plataforma sin pedales.` },
-      { question: `¿Cuál tiene más autonomía?`, answer: `La mayoría declara entre 45 y 50 km, pero son cifras del vendedor que casi ninguna reseña confirma con un recorrido real reportado. Tratalas como estimaciones optimistas, no como garantía.` },
-      { question: `¿Alguna es rodado 29?`, answer: `Sí, la [Kroner R29](/producto/bicicleta-electrica-r29-350w-shimano-8-velocidades-kroner-verde-lima-mla63590384) es la única mountain bike eléctrica rígida rodado 29 de esta comparativa; el resto son rodado 20 o 26.` },
-      { question: `¿Cuál conviene para trabajo o delivery?`, answer: `La [Rango Worker Plus](/producto/bicicleta-electrica-plegable-autono50km-rango-worker-plus-color-verde-mla47150419), que el propio vendedor posiciona para ese uso, con acelerador además de pedaleo asistido.` },
-      { question: `¿Las reseñas de la HONEYWHALE son todas de Argentina?`, answer: `No. La ficha de MercadoLibre aclara que incluyen opiniones de otros países del catálogo regional (mayoría de Brasil). El proxy de ventas local real es "+50 ventas" de la tienda oficial argentina.` },
+      { question: `¿Cuál tiene más autonomía?`, answer: `Solo dos la declaran en kilómetros: la [Rango Worker Plus](/producto/bicicleta-electrica-plegable-autono50km-rango-worker-plus-color-verde-mla47150419) (50 km) y la [HONEYWHALE K6S](/producto/bicicleta-electrica-honeywhale-k6s-motor-1000w-55-km-h-bateria-extraible-48v-15-mla62339970) (65 km), y son cifras del vendedor que ninguna reseña confirma con un recorrido real reportado. La Valentini tiene un error de unidad en su ficha técnica, y la Safeway y la MOOY M7 no declaran autonomía en kilómetros. Tratalas como estimaciones optimistas, no como garantía.` },
+      { question: `¿Cuál conviene para trabajo o delivery?`, answer: `La [Rango Worker Plus](/producto/bicicleta-electrica-plegable-autono50km-rango-worker-plus-color-verde-mla47150419), que el vendedor posiciona para ese uso, con acelerador además de pedaleo asistido.` },
+      { question: `¿Alguna es rodado 29?`, answer: `Sí, la [Safeway EM100](/producto/bicicleta-electrica-safeway-em100-rodado-29-motor-350w-36v-shimano-mlau3399532573) es la única mountain bike eléctrica rígida rodado 29 de esta comparativa.` },
+      { question: `¿Cuál es la más potente?`, answer: `La [HONEYWHALE K6S](/producto/bicicleta-electrica-honeywhale-k6s-motor-1000w-55-km-h-bateria-extraible-48v-15-mla62339970), con 1.000W según su ficha técnica (el título del vendedor dice 1.080W) y 55 km/h de velocidad máxima declarada.` },
+      { question: `¿Cuál es la más barata?`, answer: `La [Safeway EM100](/producto/bicicleta-electrica-safeway-em100-rodado-29-motor-350w-36v-shimano-mlau3399532573), a alrededor de {{precio:MLAU3399532573:k}}.` },
+      { question: `¿Cuál tiene el mejor rating?`, answer: `La [MOOY M7](/producto/bicicleta-electrica-m7-40km-h-mlau3143206258), con {{rating:MLAU3143206258}} estrellas en {{reviews:MLAU3143206258}} calificaciones.` },
     ],
     internalLinks: [
       { label: "Ver toda la categoría Movilidad", href: "/categoria/movilidad" },
@@ -30115,6 +30134,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { type: "h2", title: `Preguntas frecuentes`, id: "faq" },
     ],
     faq: [
+      { question: `¿Cuál es el mejor colchón inflable de 2 plazas en Argentina?`, answer: `Para la mayoría, el [Intex Dura Beam 64762](/producto/colchon-inflable-intex-2-plazas-dura-beam-standard-con-bomba-integrada-mla22705331): 25 cm de alto, la mayor altura de esta comparativa, con bomba de aire incorporada. Si priorizás gastar lo mínimo o cargarlo liviano para camping, el [Sufin](/producto/colchon-inflable-de-2-plazas-con-inflador-incorporado-y-almohadas-mla58365620), el más barato y el más liviano (1,98 kg).` },
       { question: `¿Qué medida tiene un colchón inflable de 2 plazas?`, answer: `El estándar es 191 x 137 cm, que es lo que declaran las fichas del [Intex](/producto/colchon-inflable-intex-2-plazas-dura-beam-standard-con-bomba-integrada-mla22705331) y el [Suono](/producto/colchon-inflable-2-plazas-con-almohadas-inflador-portatil-azul-mla28995489) de esta comparativa; el [Sufin](/producto/colchon-inflable-de-2-plazas-con-inflador-incorporado-y-almohadas-mla58365620) solo declara "2 plazas". Lo que cambia entre modelos no es el largo ni el ancho sino la altura: 25 cm el Intex y 22 cm el Suono.` },
       { question: `¿Los colchones inflables vienen con inflador?`, answer: `Los tres de esta comparativa traen bomba de aire incorporada, así que no hace falta comprar un inflador aparte. Ojo: ninguno declara bomba eléctrica. El Intex y el Suono declaran inflador manual y el Sufin uno de pie, y las reseñas reales coinciden en que inflarlos lleva su rato de esfuerzo.` },
       { question: `¿Cuánto sale un colchón inflable de 2 plazas en Argentina?`, answer: `En esta comparativa van de {{precio:MLA58365620:k}} el más barato a {{precio:MLA28995489:k}} el más caro. La diferencia no siempre se explica por las prestaciones: el más caro de los tres declara 3 cm menos de altura que el Intex.` },
@@ -36162,7 +36182,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     h1: `¿Es buena la marca Peabody? Lo que dicen 13 productos con datos reales`,
     directAnswer: `Sí, en general: Peabody es una marca nacional de electro de cocina y hogar, con garantía oficial reclamable en Argentina, y una de las líneas más grandes de nuestro catálogo entre marcas propias (13 productos vigentes, más uno sin stock). Su licuadora de mano **[PE-LMA327B](https://meli.la/2JgxVog)** tiene **{{reviews:MLA13112158}} opiniones a {{rating:MLA13112158}} estrellas**, la base de calificaciones más grande de toda la marca en nuestro catálogo, y sus freidoras de aire sostienen rating de 4.8 o más en casi toda la línea. No es pareja en todo: su única cafetera totalmente automática, la PE-CE5023IX, tiene muy pocas opiniones para un precio de {{precio:MLA53370426}}, y su service está más concentrado en AMBA que en el interior del país. Te mostramos los números, categoría por categoría.`,
     publishedDate: "2026-09-25",
-    updatedDate: "2026-09-25",
+    updatedDate: "2026-10-31",
     hasDisclosure: true,
     readingTime: 8,
     standfirst: `Peabody se metió fuerte en electro de cocina argentino: freidoras de aire, pavas eléctricas, cafeteras con molinillo integrado, ventiladores y pequeños electrodomésticos. Con un catálogo tan amplio, la pregunta lógica es si el nivel se sostiene en todos los rubros. Analizamos los 13 productos Peabody vigentes en nuestro catálogo (más uno sin stock) con su rating y cantidad real de opiniones en MercadoLibre, categoría por categoría, incluido el producto donde conviene mirar dos veces.`,
@@ -36170,7 +36190,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { productMlaId: "MLA13112158", label: "La más probada de la marca", labelColor: "green", tagline: `Licuadora de mano PE-LMA327B: {{reviews:MLA13112158}} opiniones a {{rating:MLA13112158}} estrellas, la base más grande de todo el catálogo Peabody` },
       { productMlaId: "MLA41829394", label: "Mejor en freidoras de aire", labelColor: "blue", tagline: "Freidora PE-AFD720N 7.2L con visor 360°, la elegida en nuestra guía dedicada de freidoras Peabody" },
       { productMlaId: "MLA15276005", label: "Mejor en pavas eléctricas", labelColor: "purple", tagline: `Pava vintage PE-KV8215R: {{reviews:MLA15276005}} opiniones, la pava Peabody más probada` },
-      { productMlaId: "MLA41606856", label: "Mejor en ventiladores", labelColor: "slate", tagline: "Ventilador de pie PE-VP1860N: el mejor calificado de su categoría en nuestro catálogo" },
+      { productMlaId: "MLA45342519", label: "Mejor en ventiladores", labelColor: "slate", tagline: "Ventilador de techo retráctil PE-VTRDC410B: el mejor calificado de la marca en nuestro catálogo" },
     ],
     intro: [
       `"Peabody es buena marca" y "Peabody opiniones" son búsquedas que vienen creciendo en Argentina, sobre todo porque la marca se metió fuerte en electro de cocina: freidoras de aire, pavas eléctricas, cafeteras con molinillo integrado, ventiladores y hasta pequeños electrodomésticos. Con un catálogo tan amplio, la pregunta lógica es si el nivel se sostiene en todos los rubros o solo en algunos.`,
@@ -36181,9 +36201,9 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
 
       { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Sí, en general: Peabody es una marca nacional de electro de cocina y hogar, con garantía oficial reclamable en Argentina. Su **[licuadora de mano PE-LMA327B](https://meli.la/2JgxVog)** tiene {{reviews:MLA13112158}} opiniones a {{rating:MLA13112158}} estrellas, la base más grande de toda la marca en nuestro catálogo, y sus freidoras de aire sostienen rating de 4.8 o más en casi toda la línea. El matiz honesto: el service está más concentrado en AMBA que en el interior, y su cafetera totalmente automática ({{precio:MLA53370426}}) todavía tiene muy pocas opiniones para el precio. Conviene mirar el producto puntual, no solo el nombre de la marca.` },
 
-      { type: "p", content: `**Los Peabody que más recomendamos hoy:** en pequeños electrodomésticos, la **[licuadora de mano PE-LMA327B](https://meli.la/2JgxVog)** (alrededor de {{precio:MLA13112158:k}}), la más probada de toda la marca. En freidoras de aire, la **[PE-AFD720N de 7.2L con visor 360°](https://meli.la/1tZqZqD)** (alrededor de {{precio:MLA41829394:k}}) para uso familiar, o la **[PE-AFD650N de 6.5L](https://meli.la/2zaHWZ2)** (alrededor de {{precio:MLA44703897:k}}) si son dos o tres en casa. En pavas eléctricas, la **[vintage PE-KV8215R](https://meli.la/1h5c9zR)** (alrededor de {{precio:MLA15276005:k}}), la más probada de la línea. En cafeteras, la **[PE-CE5010N con molinillo integrado](https://meli.la/2uKu8pv)** (alrededor de {{precio:MLA47077888:k}}). Y en ventiladores, el **[de pie PE-VP1860N](https://meli.la/2P1uH4q)** (alrededor de {{precio:MLA41606856:k}}).` },
+      { type: "p", content: `**Los Peabody que más recomendamos hoy:** en pequeños electrodomésticos, la **[licuadora de mano PE-LMA327B](https://meli.la/2JgxVog)** (alrededor de {{precio:MLA13112158:k}}), la más probada de toda la marca. En freidoras de aire, la **[PE-AFD720N de 7.2L con visor 360°](https://meli.la/1tZqZqD)** (alrededor de {{precio:MLA41829394:k}}) para uso familiar, o la **[PE-AFD650N de 6.5L](https://meli.la/2zaHWZ2)** (alrededor de {{precio:MLA44703897:k}}) si son dos o tres en casa. En pavas eléctricas, la **[vintage PE-KV8215R](https://meli.la/1h5c9zR)** (alrededor de {{precio:MLA15276005:k}}), la más probada de la línea. En cafeteras, la **[PE-CE5010N con molinillo integrado](https://meli.la/2uKu8pv)** (alrededor de {{precio:MLA47077888:k}}). Y en ventiladores, el **[retráctil de techo PE-VTRDC410B](https://meli.la/27YN6Zf)** (alrededor de {{precio:MLA45342519:k}}).` },
 
-      { type: "trust-block", trustVariant: "methodology", content: `**Cómo evaluamos:** relevamos los 13 productos Peabody con stock activo hoy en nuestro catálogo (más uno, la freidora doble piso de 10 litros, que quedó sin stock y no incluimos en las recomendaciones), en 5 categorías: pequeños electrodomésticos, freidoras de aire, pavas eléctricas, cafeteras y ventiladores. Para cada uno tomamos el rating y la cantidad real de calificaciones de MercadoLibre, sin promediar categorías que no compiten entre sí. Los datos de marca (garantía, alcance del service) salen de nuestras propias guías ya publicadas y verificadas contra reseñas reales, nunca inventados. Los precios se revisan periódicamente contra MercadoLibre.` },
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo evaluamos:** relevamos los 13 productos Peabody con stock activo hoy en nuestro catálogo (más uno sin stock que no incluimos en las recomendaciones, la freidora doble piso de 10 litros), en 5 categorías: pequeños electrodomésticos, freidoras de aire, pavas eléctricas, cafeteras y ventiladores. El ventilador de techo retráctil PE-VTRDC425B, que listábamos en versiones anteriores de esta guía, quedó discontinuado y lo reemplazamos por su sucesor real, el PE-VTRDC410B: ese reemplazo ya es uno de los 13 productos activos citados arriba, no un segundo caso sin stock. Para cada uno tomamos el rating y la cantidad real de calificaciones de MercadoLibre, sin promediar categorías que no compiten entre sí. Los datos de marca (garantía, alcance del service) salen de nuestras propias guías ya publicadas y verificadas contra reseñas reales, nunca inventados. Los precios se revisan periódicamente contra MercadoLibre.` },
 
       { type: "h2", title: `¿Qué tipo de marca es Peabody?`, id: "la-marca" },
       { type: "p", content: `Peabody es una marca nacional de electro de cocina y hogar, con garantía oficial reclamable en Argentina (el plazo exacto varía según el producto y el vendedor: confirmalo en la ficha antes de comprar). Tiene presencia consolidada en freidoras de aire y pavas eléctricas, dos de las categorías más competidas del electro argentino, donde compite de igual a igual con marcas como Atma, Philips y Oster.` },
@@ -36207,9 +36227,9 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { type: "product-card", productMlaId: "MLA47077888", label: "El molinillo integrado más accesible", labelColor: "amber", ranking: 4, description: `Molinillo cónico de muelas, bomba italiana de 19 bares y portafiltro de 58mm. {{rating:MLA47077888}} estrellas en {{reviews:MLA47077888}} calificaciones.` },
       { type: "p", content: `La **[PE-CE5010N](https://meli.la/2uKu8pv)** es la cafetera con molinillo integrado más accesible de todo nuestro catálogo, con bomba italiana de 19 bares y portafiltro de 58mm, la medida de las máquinas de cafetería. Tiene {{reviews:MLA47077888}} calificaciones a {{rating:MLA47077888}} estrellas: buen respaldo, aunque menor que sus freidoras y pavas. La marca también tiene una cafetera totalmente automática, la PE-CE5023IX, que desarrollamos en la sección siguiente porque merece una mirada más cuidadosa.` },
 
-      { type: "h3", title: `Ventiladores: buen nivel, sin sorpresas` },
-      { type: "product-card", productMlaId: "MLA41606856", label: "Mejor en ventiladores", labelColor: "slate", ranking: 5, description: `18 pulgadas, 3 paletas, 60W. {{rating:MLA41606856}} estrellas en {{reviews:MLA41606856}} calificaciones. El ventilador Peabody mejor calificado de nuestro catálogo.` },
-      { type: "p", content: `El **[ventilador de pie PE-VP1860N](https://meli.la/2P1uH4q)** es el mejor calificado de su categoría en nuestro catálogo: {{reviews:MLA41606856}} calificaciones a {{rating:MLA41606856}} estrellas. Si buscás algo más grande, el ventilador de techo retráctil de Peabody también sostiene buen nivel ({{rating:MLA43536904}} estrellas en {{reviews:MLA43536904}} calificaciones), aunque es el ventilador más caro de la marca en nuestro catálogo.` },
+      { type: "h3", title: `Ventiladores: el retráctil de techo supera al de pie` },
+      { type: "product-card", productMlaId: "MLA45342519", label: "Mejor en ventiladores", labelColor: "slate", ranking: 5, description: `Retráctil de techo, motor DC, 6 velocidades, luz LED. {{rating:MLA45342519}} estrellas en {{reviews:MLA45342519}} calificaciones, el ventilador Peabody mejor calificado y con más respaldo de nuestro catálogo.` },
+      { type: "p", content: `El **[ventilador de techo retráctil PE-VTRDC410B](https://meli.la/27YN6Zf)** es el mejor calificado de la marca en nuestro catálogo: {{reviews:MLA45342519}} calificaciones a {{rating:MLA45342519}} estrellas, por encima del [ventilador de pie PE-VP1860N](https://meli.la/2P1uH4q) ({{reviews:MLA41606856}} calificaciones a {{rating:MLA41606856}} estrellas). Reemplazó a la línea 425 (incluido el PE-VTRDC425B), que quedó discontinuada en MercadoLibre sin ningún vendedor activo. La contra real: la ficha promociona un dimmer de luz que, según más de una reseña, no existe en la práctica (la luz es de intensidad fija).` },
 
       { type: "h2", title: `Dónde tener cuidado con Peabody`, id: "donde-cuidado" },
       { type: "p", content: `Ser honestos con lo bueno implica serlo también con lo flojo. La **[PE-CE5023IX](https://meli.la/1n158eE)**, la única cafetera totalmente automática de Peabody en nuestro catálogo, cuesta {{precio:MLA53370426}} y todavía tiene solo **{{reviews:MLA53370426}} calificaciones**, una base chica para una compra de casi $1.000.000. En nuestro análisis dedicado ya documentamos dos avisos serios que aparecen entre esas pocas reseñas: la crítica más detallada dice que el molinillo integrado "no alcanza a moler tan fino como para el expreso perfecto", justo la función por la que se paga esta máquina, y otro comprador reporta que tuvo que sumar una térmica dedicada y cableado exclusivo por el consumo eléctrico. Si tu instalación es justa, es un costo extra a considerar antes de comprar.` },
@@ -36224,7 +36244,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
         [`[Pava vintage PE-KV8215R](https://meli.la/1h5c9zR)`, `Cocina`, `{{precio:MLA15276005}}`, `{{rating:MLA15276005}}`, `{{reviews:MLA15276005}}`],
         [`[Pava digital PE-DK2200N](https://meli.la/2cyQgD2)`, `Cocina`, `{{precio:MLA47275624}}`, `{{rating:MLA47275624}}`, `{{reviews:MLA47275624}}`],
         [`[Cafetera PE-CE5010N](https://meli.la/2uKu8pv)`, `Cocina`, `{{precio:MLA47077888}}`, `{{rating:MLA47077888}}`, `{{reviews:MLA47077888}}`],
-        [`[Ventilador de pie PE-VP1860N](https://meli.la/2P1uH4q)`, `Climatización`, `{{precio:MLA41606856}}`, `{{rating:MLA41606856}}`, `{{reviews:MLA41606856}}`],
+        [`[Ventilador retráctil PE-VTRDC410B](https://meli.la/27YN6Zf)`, `Climatización`, `{{precio:MLA45342519}}`, `{{rating:MLA45342519}}`, `{{reviews:MLA45342519}}`],
       ] },
 
       { type: "h2", title: `Cómo elegir dentro del catálogo Peabody`, id: "como-elegir" },
@@ -37032,6 +37052,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     ],
     internalLinks: [
       { label: "Procesadora de alimentos: cuál comprar en Argentina", href: "/guias/cocina/procesadora-de-alimentos" },
+      { label: "Robot de cocina: cuál comprar en Argentina", href: "/guias/cocina/robot-de-cocina" },
       { label: "Batidora: cuál comprar en Argentina", href: "/guias/cocina/batidora" },
       { label: "Exprimidor: cuál comprar en Argentina", href: "/guias/cocina/exprimidor" },
     ],
