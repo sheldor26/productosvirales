@@ -112696,6 +112696,357 @@ No es para vos si preferís comprar algo con reseñas reales que confirmen el re
 
 curatedProducts.push(...curatedProductsMaquinasHelado);
 
+// ─── Equipaje de viaje: artículo personal y carry on (sourcing 2026-10-30) ───
+// Contexto: Aerolíneas Argentinas sacó en mayo 2026 el carry on gratis de las
+// tarifas más económicas; solo queda gratis el "artículo personal" (40x30x15cm,
+// máx 3kg, declarado en aerolineas.com.ar/franquicia-de-equipaje). El carry on
+// (55x35x25cm, 8kg cabotaje/10kg internacional) ya no es gratis en todas las
+// tarifas. Los 4 productos de este lote fueron sourceados en vivo cruzando la
+// ficha técnica estructurada de ML contra esas dos medidas oficiales — ninguno
+// de los "artículo personal" encontrados cumple del todo (la mayoría está
+// pensado para el estándar europeo/Ryanair de 40x30x20cm, 5cm más que lo que
+// pide Aerolíneas Argentinas), pero sí hay diferencias reales entre ellos.
+const curatedProductsEquipajeViaje: Product[] = [
+  {
+    id: "MLA1863874835",
+    title: "Mochila Viagem Feminina Masculina Impermeable Y Duradero Negro Liso",
+    canonicalName: "Mochila Romantic Crown Viagem",
+    brand: "Romantic Crown",
+    price: 46999, originalPrice: 68888, currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_865065-MLA108440250417_032026-F.jpg",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_865065-MLA108440250417_032026-F.jpg",
+      "https://http2.mlstatic.com/D_NQ_NP_911889-MLA113909413965_062026-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_804030-MLA113910686389_062026-O.webp",
+    ],
+    category: "Viaje", categorySlug: "equipaje-de-viaje",
+    permalink: "https://www.mercadolibre.com.ar/mochila-viagem-feminina-masculina-impermeable-y-duradero/up/MLAU4188729372?pdp_filters=item_id:MLA1863874835",
+    affiliateUrl: "https://meli.la/252QUfq",
+    condition: "new", freeShipping: true, rating: 4.9, reviewCount: 2910,
+    badge: "bestseller", pastelColor: "var(--pastel-slate)",
+    specs: [
+      { label: "Marca", value: "Romantic Crown" },
+      { label: "Capacidad", value: "30 a 42 litros, con fuelle expansible" },
+      { label: "Medidas cerrada", value: "45 cm alto x 32 cm ancho x 12 cm profundidad (ficha técnica de MercadoLibre)" },
+      { label: "Medidas expandida", value: "45 cm alto x 32 cm ancho x 22 cm profundidad (descripción del vendedor)" },
+      { label: "Material", value: "Oxford/poliéster reforzado, impermeable" },
+      { label: "Compartimento para notebook", value: "Hasta 17,3\", acolchado" },
+      { label: "Bolsillos", value: "10, incluidos 2 cierres chicos adelante y 1 en la espalda" },
+      { label: "Puerto USB y salida de auriculares", value: "Sí" },
+      { label: "Ruedas", value: "No" },
+      { label: "Carga recomendada de uso diario", value: "Hasta 15 kg (declarado por el vendedor)" },
+      { label: "Capacidad máxima de carga estructural", value: "25 kg (declarado por el vendedor)" },
+      { label: "Color", value: "Negro (también disponible en gris)" },
+    ],
+    relatedProducts: ["MLA1820695681", "MLA2562082188", "MLA815939359"],
+    priceUpdated: "2026-10-30", priceLastChecked: "2026-10-30", priceVerifiedAt: "2026-10-30",
+    priceStatus: "fresh", reviewsSampledAt: "2026-10-30",
+    description: "La mochila más vendida del catálogo de MercadoLibre Argentina para viaje: {{reviews:MLA1863874835}} calificaciones. Cerrada mide 12 cm de profundidad, el único de los \"artículo personal\" que chequeamos que entra bajo el límite real de Aerolíneas Argentinas en ese eje.",
+    seoTitle: "Mochila Romantic Crown Viagem: ¿entra como artículo personal?",
+    metaDescription: "Mochila Romantic Crown Viagem: 45x32x12cm cerrada, {{reviews:MLA1863874835}} calificaciones. La única de las que chequeamos con la profundidad real bajo el límite de Aerolíneas Argentinas.",
+    verdict: "Con {{reviews:MLA1863874835}} calificaciones y {{rating:MLA1863874835}} estrellas es, por lejos, la mochila de viaje más elegida del catálogo de MercadoLibre Argentina. Cerrada mide 45 x 32 x 12 cm: el ancho y el alto todavía exceden el límite oficial de \"artículo personal\" de Aerolíneas Argentinas (40 x 30 x 15 cm), pero la profundidad (12 cm) es la única de las cuatro fichas de este lote que entra bajo el límite real de 15 cm. Tiene fuelle para expandirse hasta 22 cm de profundidad cuando hace falta más lugar, aunque ahí ya pierde la ventaja. Reseñas reales marcan que, pese al nombre, a algunos les resultó chica e incómoda para viajar, y que la tela no es a prueba de balas a largo plazo.",
+    pros: [
+      "La mochila de viaje más vendida y con más reseñas de todo el catálogo: {{reviews:MLA1863874835}} calificaciones a {{rating:MLA1863874835}} estrellas",
+      "Cerrada mide 12 cm de profundidad: la única de los 4 productos de este lote que entra bajo el límite real de Aerolíneas Argentinas en ese eje (15 cm)",
+      "Se expande con fuelle hasta 22 cm cuando necesitás más lugar, con 10 bolsillos y compartimento acolchado para notebook de hasta 17,3\"",
+      "Puerto USB y salida de auriculares integrados, correas y espalda acolchadas",
+    ],
+    cons: [
+      "El ancho (32 cm) y el alto (45 cm) todavía exceden el límite oficial de artículo personal de Aerolíneas Argentinas (30 cm y 40 cm)",
+      "Más de una reseña real dice que, pese al nombre \"Viagem\" (viaje en portugués), la encontraron chica e incómoda para ese uso específico",
+      "Otra reseña reporta que la tela y las costuras no son tan resistentes a largo plazo como otras opciones del mismo precio",
+      "Expandida (22 cm de profundidad) ya no entra bajo el límite de artículo personal, aunque sigue sirviendo como equipaje de mano normal",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "2026", useful: 69, text: "Espacio: buena distribución de compartimentos. Material: la tela es muy linda y tiene muy buena calidad de confección. Linda, con buenos materiales y calidad de confección. Se amplía bastante. Tiene compartimentos prácticos, el de adelante te para uso general, el central para ropa y el trasero para computadora. Además dos cierres chicos adelante y uno en la espalda para mayor seguridad. La espalda y correas son cómodas y acolchadas. Muy recomendable. El color gris claro es hermoso." },
+      { rating: 2, country: "Argentina", date: "2026", useful: 2, text: "La compré pensando que era ideal para un viaje pero la verdad es que es muy chica e incómoda." },
+      { rating: 2, country: "Argentina", date: "2026", useful: 1, text: "Material: la tela no es resistente. Las costuras y cierres no son reforzados. Por el mismo precio compré otra con muchísima mejor calidad y más de un año de uso y sigue intacta." },
+    ],
+    articleBody: `## Qué es la mochila Romantic Crown Viagem
+
+Es una mochila de viaje de 30 a 42 litros (según uses o no el fuelle expansible), con compartimento acolchado para notebook de hasta 17,3", puerto USB, salida de auriculares y 10 bolsillos. Cuesta {{precio:MLA1863874835}} y es, con {{reviews:MLA1863874835}} calificaciones, la mochila de viaje más elegida de MercadoLibre Argentina dentro de [nuestra guía de artículo personal para Aerolíneas Argentinas](/guias/articulo-personal-avion-argentina).
+
+## La medida que de verdad importa: la profundidad
+
+Desde mayo de 2026, Aerolíneas Argentinas solo deja subir gratis en las tarifas más económicas un "artículo personal" de hasta 40 x 30 x 15 cm. Cruzamos la ficha técnica estructurada de esta mochila (no el título de marketing) contra esa medida: cerrada mide 45 cm de alto x 32 cm de ancho x 12 cm de profundidad. El alto y el ancho todavía se pasan del límite, pero la profundidad (el eje que más importa para que algo entre bajo el asiento) es de 12 cm, 3 cm por debajo del máximo. De las cuatro fichas que chequeamos para esta guía, es la única que logra eso cerrada. Ojo: si usás el fuelle para expandirla, la profundidad sube a 22 cm y ahí ya no entra como artículo personal.
+
+## Lo que dicen las reseñas
+
+Con {{reviews:MLA1863874835}} calificaciones es el producto con más data real de esta comparativa. La reseña más útil (69 marcas de "útil") describe "buena distribución de compartimentos", "muy buena calidad de confección" y correas "cómodas y acolchadas", con el detalle de que el compartimento central es para ropa y el trasero para la notebook.
+
+## La contra real
+
+No todas las reseñas coinciden. Una compradora que la eligió justamente para viajar fue clara: "la compré pensando que era ideal para un viaje pero la verdad es que es muy chica e incómoda". Otra reseña, más reciente, apunta a la durabilidad: "la tela no es resistente, las costuras y cierres no son reforzados", y compara con otra mochila del mismo precio que le duró más de un año intacta. Con {{reviews:MLA1863874835}} opiniones es normal que aparezcan experiencias distintas, pero conviene saber que no es unánime.
+
+## Para quién es, y para quién no
+
+Es para vos si volás con Aerolíneas Argentinas y querés el artículo personal que más chance real tiene de pasar sin problema por la profundidad, y si valorás tener el respaldo de miles de reseñas reales antes de comprar. No es para vos si necesitás que el ancho y el alto también entren estrictos en la medida oficial (ahí ningún producto que revisamos cumple del todo), o si priorizás la mejor durabilidad posible por sobre el precio.`,
+    faq: [
+      { question: "¿Entra como artículo personal en Aerolíneas Argentinas?", answer: "Parcialmente. Cerrada mide 45 x 32 x 12 cm contra el límite oficial de 40 x 30 x 15 cm: la profundidad (12 cm) entra bajo el máximo, pero el ancho y el alto todavía lo superan. Es la mejor de las que chequeamos en ese eje, no una garantía total." },
+      { question: "¿Qué pasa si uso el fuelle para expandirla?", answer: "Pasa a 22 cm de profundidad, por encima del límite de artículo personal. Sigue sirviendo como mochila de equipaje de mano normal, pero ya no calificaría como artículo personal gratis." },
+      { question: "¿Por qué tiene tantas reseñas?", answer: "Es la mochila de viaje número 1 en ventas de su categoría en MercadoLibre Argentina, con {{reviews:MLA1863874835}} calificaciones acumuladas." },
+      { question: "¿Entra una notebook grande?", answer: "El compartimento para notebook acolchado es para hasta 17,3 pulgadas, según la ficha del vendedor." },
+      { question: "¿Es resistente al agua?", answer: "La ficha la declara a prueba de agua e impermeable. Algunas reseñas la describen de buena calidad de tela; otra puntual reporta que la tela y las costuras no son tan resistentes a largo plazo." },
+      { question: "¿Tiene puerto USB para cargar el celular?", answer: "Sí, trae salida para auriculares y puerto USB integrados en el exterior." },
+      { question: "¿Cuánto peso soporta?", answer: "El vendedor declara hasta 15 kg para uso diario recomendado y una capacidad máxima de carga estructural de 25 kg." },
+    ],
+  },
+  {
+    id: "MLA1820695681",
+    title: "Mochila New Bip Viral 40l Impermeable Capacidad Carry On Color Negro Diseño de la tela Liso",
+    canonicalName: "Mochila New Bip Viral 40L",
+    brand: "New Bip",
+    price: 40623.6, originalPrice: 69800, currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_955696-MLA112854711939_062026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_955696-MLA112854711939_062026-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_862932-MLA112855022095_062026-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_625211-MLA112854846025_062026-O.webp",
+    ],
+    category: "Viaje", categorySlug: "equipaje-de-viaje",
+    permalink: "https://www.mercadolibre.com.ar/mochila-new-bip-viral-40l-impermeable-capacidad-carry-on-color-negro-diseno-de-la-tela-liso/p/MLA72765165?pdp_filters=item_id:MLA1820695681",
+    affiliateUrl: "https://meli.la/2Qc1rKa",
+    condition: "new", freeShipping: true, rating: 4.8, reviewCount: 2492,
+    badge: "bestseller", pastelColor: "var(--pastel-amber)",
+    specs: [
+      { label: "Marca", value: "New Bip" },
+      { label: "Capacidad", value: "40 litros" },
+      { label: "Medidas (ficha técnica)", value: "43 cm alto x 32 cm ancho x 20 cm profundidad" },
+      { label: "Medidas (descripción del vendedor)", value: "42 cm alto x 31 cm ancho x 17 cm profundidad (discrepancia real entre fuentes de la misma publicación)" },
+      { label: "Material", value: "Nylon impermeable" },
+      { label: "Espalda", value: "Acolchada" },
+      { label: "Compartimento para notebook", value: "Hasta 17\"" },
+      { label: "Ruedas", value: "No" },
+      { label: "Ranking en MercadoLibre", value: "4° más vendido en Mochilas" },
+      { label: "Color", value: "Negro (disponible en 10 colores más)" },
+    ],
+    relatedProducts: ["MLA1863874835", "MLA2562082188", "MLA815939359"],
+    priceUpdated: "2026-10-30", priceLastChecked: "2026-10-30", priceVerifiedAt: "2026-10-30",
+    priceStatus: "fresh", reviewsSampledAt: "2026-10-30",
+    description: "La opción más barata de este lote, 4° más vendida en Mochilas con {{reviews:MLA1820695681}} calificaciones. Ni su propia ficha técnica ni su descripción coinciden en la profundidad, y ninguna de las dos entra en el límite de artículo personal.",
+    seoTitle: "Mochila New Bip Viral 40L: la más barata, ¿entra en el avión?",
+    metaDescription: "Mochila New Bip Viral 40L: {{precio:MLA1820695681:k}}, {{reviews:MLA1820695681}} calificaciones. La ficha técnica declara 20cm de profundidad, la descripción 17cm: ninguna entra como artículo personal.",
+    verdict: "A {{precio:MLA1820695681}} es la opción más barata de este lote y la 4° más vendida en Mochilas de MercadoLibre Argentina, con {{reviews:MLA1820695681}} calificaciones a {{rating:MLA1820695681}} estrellas. El problema es la profundidad: la ficha técnica estructurada declara 20 cm (33% más que el límite de 15 cm de artículo personal de Aerolíneas Argentinas), mientras que la descripción del propio vendedor dice 17 cm (todavía 13% de más). Ninguna de las dos cifras entra. Una compradora real, en una de las reseñas más útiles de la publicación, lo dice ella misma: \"espero que pase en el avión pq supera un poquito las medidas permitidas\".",
+    pros: [
+      "La más barata de este lote por lejos: {{precio:MLA1820695681}}",
+      "4° más vendida en la categoría Mochilas de MercadoLibre Argentina, con {{reviews:MLA1820695681}} calificaciones a {{rating:MLA1820695681}} estrellas",
+      "Nylon impermeable, espalda acolchada y compartimento para notebook de hasta 17\"",
+      "Una reseña real confirma que aguantó un viaje de 20 días usada como carry on y como mochila de playa",
+    ],
+    cons: [
+      "La ficha técnica declara 20 cm de profundidad (33% más que el límite de artículo personal); la descripción del vendedor dice 17 cm (13% de más): ninguna de las dos entra",
+      "Una compradora real duda textualmente, antes de viajar, si va a pasar el control de medidas en el aeropuerto",
+      "Otra reseña reporta que uno de los pasadores del cierre falló, aunque el resto del bolsillo siguió cerrando bien",
+      "La propia publicación se contradice en sus medidas: ficha técnica y descripción no coinciden",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "2026", useful: 28, text: "La mochila es muy linda, se ve re linda calidad. Es la primera vez que la estreno. Espero que pase en el avión pq supera un poquito las medidas permitidas." },
+      { rating: 5, country: "Argentina", date: "2026", useful: 7, text: "Espacio: excelente capacidad, tiene un bolsillo que mantiene el frio lo cual para viajes sencillos es un lujo. Es una muy muy buena compra tiene muy buena capacidad, la tela es de muy buena calidad. Lo umico uno de los cierres fallo en uno de los pasadores pero con el otro el bolsillo cierrra perfecto. Ya la use en un viaje de 20 dias con un carry on y como mochila que me llevaba a la playa, y la use para dos viajes de fin de semana como unico equipaje. El compartimento para notebook es super acolchado y seguro para dispositivos electronicos, entra una notebook de 16\"." },
+      { rating: 5, country: "Argentina", date: "2026", useful: 7, text: "Comodidad: comoda. Espacio: grande. Se siente de buena calidad." },
+    ],
+    articleBody: `## Qué es la mochila New Bip Viral 40L
+
+Es una mochila de 40 litros de nylon impermeable, con espalda acolchada y compartimento para notebook de hasta 17". Cuesta {{precio:MLA1820695681}}, la más barata de las cuatro fichas de [nuestra guía de artículo personal para Aerolíneas Argentinas](/guias/articulo-personal-avion-argentina), y es la 4° más vendida en la categoría Mochilas de todo MercadoLibre Argentina.
+
+## Dos medidas distintas en la misma publicación
+
+Acá aparece algo que vale la pena señalar: la ficha técnica estructurada de esta publicación (los atributos que completa el vendedor en un formulario) declara 43 x 32 x 20 cm, pero la descripción libre que escribió el mismo vendedor dice 42 x 31 x 17 cm. Ninguna de las dos coincide con el límite de artículo personal de Aerolíneas Argentinas (40 x 30 x 15 cm): la ficha técnica se pasa un 33% en profundidad, la descripción un 13%. Usamos la ficha técnica como dato principal porque es un atributo estructurado, más confiable que el texto libre de la descripción, pero avisamos la discrepancia porque cambia bastante cuánto se pasa del límite.
+
+## Lo que dice una compradora real, antes de viajar
+
+La reseña más útil de la publicación (28 marcas de "útil") es, en sí misma, la mejor prueba de esto: "la mochila es muy linda, se ve re linda calidad... espero que pase en el avión pq supera un poquito las medidas permitidas". Es una compradora dudando en voz alta, antes de viajar, de si el tamaño real le va a traer problemas en el aeropuerto. Otra reseña con mucho detalle confirma que la usó con éxito en un viaje de 20 días como carry on (no como artículo personal) y para dos fines de semana como único equipaje, con un compartimento para notebook que entra hasta una de 16".
+
+## La contra real
+
+Más allá de la medida, una reseña reporta que uno de los pasadores del cierre falló con el uso, aunque el bolsillo siguió cerrando bien con el pasador que quedó. No es un fallo grave, pero es el tipo de detalle que conviene saber en una mochila pensada para viajar seguido.
+
+## Para quién es, y para quién no
+
+Es para vos si buscás la opción más barata para un carry on normal (no estricto como artículo personal) y no te molesta un margen de incertidumbre en el control de tamaño. No es para vos si necesitás la certeza de que algo entra exacto como artículo personal gratis: en ese caso, de este mismo lote, la [Romantic Crown Viagem](/producto/mochila-viagem-feminina-masculina-impermeable-y-duradero-negro-liso-mla1863874835) tiene mejor chance real en el eje que más importa (la profundidad).`,
+    faq: [
+      { question: "¿Entra como artículo personal en Aerolíneas Argentinas?", answer: "No, por ningún lado. La ficha técnica declara 20 cm de profundidad y la propia descripción del vendedor 17 cm; el límite oficial es 15 cm. Conviene tratarla como carry on (equipaje de mano con cargo según tarifa), no como artículo personal gratis." },
+      { question: "¿Por qué la ficha técnica y la descripción dicen medidas distintas?", answer: "Es una discrepancia real dentro de la misma publicación de MercadoLibre: la ficha técnica estructurada declara 43x32x20cm y la descripción libre del vendedor dice 42x31x17cm. Usamos la ficha técnica como dato principal por ser más confiable, pero ninguna de las dos entra en el límite de artículo personal." },
+      { question: "¿Sirve para un viaje largo?", answer: "Una reseña real confirma que la usó con éxito en un viaje de 20 días como carry on y como mochila de playa, con buena capacidad y compartimento para notebook de hasta 16\"." },
+      { question: "¿Es resistente?", answer: "Es de nylon impermeable y la mayoría de las reseñas la describe de buena calidad. Una reseña puntual reporta que uno de los pasadores del cierre falló, aunque el bolsillo siguió funcionando con el otro pasador." },
+      { question: "¿Por qué es tan barata comparada con las otras de esta guía?", answer: "Es la opción de entrada de precio de este lote. Cuesta {{preciodif:MLA1820695681:MLA1863874835}} menos que la Romantic Crown Viagem, aunque esa tiene mejor chance real de entrar como artículo personal." },
+      { question: "¿Cuántos colores tiene?", answer: "Está disponible en 11 colores distintos, incluido el negro de esta ficha." },
+    ],
+  },
+  {
+    id: "MLA2562082188",
+    title: "Valija De Cabina Wacky Rígida Extra Chica Abs 49x32x20",
+    canonicalName: "Valija Wacky Rígida Extra Chica",
+    mpn: "ABS RÍGIDA EXTRA CHICA",
+    brand: "Wacky",
+    price: 69900, originalPrice: 111000, currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_652181-MLA117216263873_092026-F.jpg",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_652181-MLA117216263873_092026-F.jpg",
+      "https://http2.mlstatic.com/D_NQ_NP_865662-MLA117158550355_092026-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_800482-MLA117158726109_092026-O.webp",
+    ],
+    category: "Viaje", categorySlug: "equipaje-de-viaje",
+    permalink: "https://www.mercadolibre.com.ar/valija-de-cabina-wacky-rigida-extra-chica-abs-49x32x20/up/MLAU3551435437?pdp_filters=item_id:MLA2562082188",
+    affiliateUrl: "https://meli.la/1MDWosW",
+    condition: "new", freeShipping: true, rating: 4.8, reviewCount: 619,
+    pastelColor: "var(--pastel-blue)",
+    specs: [
+      { label: "Marca", value: "Wacky" },
+      { label: "Modelo", value: "ABS Rígida Extra Chica" },
+      { label: "Medidas", value: "44 cm alto x 32 cm ancho x 20 cm profundidad (49 cm de alto contando las ruedas, según la descripción del vendedor)" },
+      { label: "Material", value: "Policarbonato (el título de la publicación dice \"ABS\", pero la ficha técnica declara Policarbonato)" },
+      { label: "Tipo de cubierta", value: "Rígida" },
+      { label: "Peso", value: "2,3 kg" },
+      { label: "Ruedas", value: "Sí, 8 ruedas (doble rueda giro 360° x 4)" },
+      { label: "Candado TSA", value: "No" },
+      { label: "Es plegable", value: "No" },
+      { label: "Color", value: "Negro con diseño Diamantes (disponible en más colores)" },
+    ],
+    relatedProducts: ["MLA815939359", "MLA1863874835", "MLA1820695681"],
+    priceUpdated: "2026-10-30", priceLastChecked: "2026-10-30", priceVerifiedAt: "2026-10-30",
+    priceStatus: "fresh", reviewsSampledAt: "2026-10-30",
+    description: "Valija de cabina rígida que entra con margen real en el límite de carry on de Aerolíneas Argentinas (55x35x25cm): 49x32x20cm con ruedas. {{reviews:MLA2562082188}} calificaciones, {{rating:MLA2562082188}} estrellas.",
+    seoTitle: "Valija Wacky rígida chica: entra como carry on, con margen real",
+    metaDescription: "Valija Wacky rígida extra chica: 49x32x20cm con ruedas, entra con margen en el límite de carry on de Aerolíneas (55x35x25cm). {{reviews:MLA2562082188}} calificaciones verificadas.",
+    verdict: "Cuesta {{precio:MLA2562082188}} y entra en el límite de carry on de Aerolíneas Argentinas (55 x 35 x 25 cm) con más margen que la otra valija de esta guía (la SAS Travel entra justo, sin margen en la altura): mide 44 cm de alto (49 cm contando las ruedas), 32 cm de ancho y 20 cm de profundidad, con entre 3 y 6 cm de sobra en cada eje, positivo en los tres. Tiene {{reviews:MLA2562082188}} calificaciones a {{rating:MLA2562082188}} estrellas. La contra real, que aparece en más de una reseña independiente: el cierre puede ceder si la cargás de más, así que conviene no superar unos 7-8 kg de contenido.",
+    pros: [
+      "Entra con margen real en el límite de carry on de Aerolíneas Argentinas (55x35x25cm): mide 49x32x20cm con ruedas, entre 3 y 6 cm de sobra en cada eje",
+      "Policarbonato rígido con 8 ruedas de giro 360°, {{reviews:MLA2562082188}} calificaciones a {{rating:MLA2562082188}} estrellas",
+      "Liviana para ser rígida: 2,3 kg vacía",
+    ],
+    cons: [
+      "Sin candado TSA integrado",
+      "El cierre puede fallar si se la carga de más: dos reseñas independientes avisan no superar los 7-8 kg de contenido",
+      "Es el modelo \"extra chico\" de la línea Wacky: otros modelos de la misma marca son más grandes y no cumplen la misma medida",
+      "No es plegable, ocupa su volumen completo para guardar",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "2026", useful: 6, text: "Excelente, ya la use y resultó muy conveniente la compra. Sólo no hay q superar la cantidad de carga para no forzar el cierre." },
+      { rating: 5, country: "Argentina", date: "2026", useful: 4, text: "Excelente producto, muy bueno lo esperado no tuve ningún problema lleva 5 vuelos y nada el tamaño es perfecto y entra bastante (bien acomodado)." },
+      { rating: 5, country: "Argentina", date: "2026", useful: 3, text: "Excelente! dimensiones acordes a lo solicitado por las aerolíneas para cabina. Resistente su estructura y las ruedas, ya la use sin ningún problema." },
+      { rating: 2, country: "Argentina", date: "2026", text: "Se rompió el cierre luego de un uso. Llevaba poca cantidad de peso así que no fue cerrada forzadamente. Dependiendo de lo que se transporte, obviamente, no le cabe tanto en especial si es ropa. Máximo 7-8 kilos." },
+    ],
+    articleBody: `## Qué es la valija Wacky rígida extra chica
+
+Es una valija de cabina rígida de policarbonato, con 8 ruedas de giro 360° y candado de combinación (sin TSA). Cuesta {{precio:MLA2562082188}} y es el modelo "extra chico" de la línea Wacky, pensado específicamente para carry on. Tiene {{reviews:MLA2562082188}} calificaciones a {{rating:MLA2562082188}} estrellas en MercadoLibre Argentina.
+
+## Entra con margen real en los tres ejes
+
+Chequeamos su ficha técnica estructurada contra el límite de carry on de Aerolíneas Argentinas (55 x 35 x 25 cm): esta valija mide 44 cm de alto (49 cm contando las ruedas, según su propia descripción), 32 cm de ancho y 20 cm de profundidad. Entra con entre 3 y 6 cm de sobra en cada uno de los tres ejes, más margen que la otra valija de [nuestra guía de artículo personal y carry on para Aerolíneas Argentinas](/guias/articulo-personal-avion-argentina): la SAS Travel entra justo, sin margen en la altura. El propio vendedor advierte en la descripción que es el modelo "extra chico" y recomienda revisar las medidas antes de comprar, algo que agradecemos como aviso honesto.
+
+## Lo que confirman las reseñas
+
+Varias reseñas reales citan específicamente el uso en avión: una dice que "dimensiones acordes a lo solicitado por las aerolíneas para cabina", otra que "lleva 5 vuelos y nada, el tamaño es perfecto y entra bastante". Con {{reviews:MLA2562082188}} calificaciones tiene un respaldo real sólido, aunque no es la valija con más reseñas de esta comparativa (ese lugar es de la SAS Travel, con {{reviews:MLA815939359}}).
+
+## La contra real: no la sobrecargues
+
+Dos reseñas independientes, una positiva (5 estrellas) y una negativa (2 estrellas), coinciden en la misma advertencia: el cierre puede ceder si cargás la valija de más. La reseña negativa es textual: "se rompió el cierre luego de un uso... no le cabe tanto en especial si es ropa, máximo 7-8 kilos". No es una falla universal (la mayoría de las reseñas son muy positivas), pero es un límite real a tener en cuenta, sobre todo porque no trae candado TSA para reforzar el cierre.
+
+## Para quién es, y para quién no
+
+Es para vos si necesitás una valija rígida que entre con margen de verdad en el carry on de Aerolíneas Argentinas, y si viajás liviano (hasta 7-8 kg dentro de la valija, sin forzar el cierre). No es para vos si necesitás cargarla al límite de peso o si te importa tener candado TSA integrado de fábrica.`,
+    faq: [
+      { question: "¿Entra como carry on en Aerolíneas Argentinas?", answer: "Sí, con margen real. Mide 44 cm de alto (49 cm con ruedas), 32 cm de ancho y 20 cm de profundidad, contra el límite oficial de 55x35x25cm: sobran entre 3 y 6 cm en cada eje." },
+      { question: "¿Tiene candado TSA?", answer: "No, trae candado de combinación simple, sin el sistema TSA que permite a seguridad aeroportuaria abrirlo sin romperlo." },
+      { question: "¿Cuánto peso aguanta?", answer: "No hay un límite oficial declarado, pero dos reseñas independientes avisan no superar los 7-8 kg de contenido para no forzar el cierre." },
+      { question: "¿Es la misma valija que las versiones más grandes de Wacky?", answer: "No. Es el modelo \"extra chico\" de la línea, pensado específicamente para carry on. Otros tamaños de la misma marca tienen medidas distintas y no necesariamente cumplen el mismo límite." },
+      { question: "¿Pesa mucho vacía?", answer: "2,3 kg, liviana para ser una valija rígida de policarbonato." },
+      { question: "¿Tiene ruedas giratorias?", answer: "Sí, 8 ruedas en total (doble rueda con giro de 360° en cada una de las 4 esquinas)." },
+    ],
+  },
+  {
+    id: "MLA815939359",
+    title: "Valija Chica Cabina Carry On De Mano De Viaje Carrion Ruedas",
+    canonicalName: "Valija SAS Travel MOVA",
+    mpn: "MOVA",
+    brand: "SAS Travel",
+    price: 88200, originalPrice: 105000, currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_772988-MLA108302837058_032026-F.jpg",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_772988-MLA108302837058_032026-F.jpg",
+      "https://http2.mlstatic.com/D_NQ_NP_747710-MLA117704324639_092026-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_606367-MLA116215880772_092026-O.webp",
+    ],
+    category: "Viaje", categorySlug: "equipaje-de-viaje",
+    permalink: "https://articulo.mercadolibre.com.ar/MLA-815939359-valija-chica-cabina-carry-on-de-mano-de-viaje-carrion-ruedas-_JM",
+    affiliateUrl: "https://meli.la/1m6P153",
+    condition: "new", freeShipping: true, rating: 4.8, reviewCount: 710,
+    badge: "bestseller", pastelColor: "var(--pastel-green)",
+    specs: [
+      { label: "Marca / Modelo", value: "SAS Travel / MOVA" },
+      { label: "Tamaño", value: "Equipaje de mano" },
+      { label: "Medidas cerrada (ficha técnica)", value: "55 cm alto x 34 cm ancho x 22 cm profundidad" },
+      { label: "Medidas cerrada (descripción del vendedor)", value: "55 cm alto x 35 cm ancho x 22 cm profundidad" },
+      { label: "Medidas con fuelle abierto", value: "Profundidad +5 cm, hasta 27 cm según la descripción del vendedor" },
+      { label: "Peso vacía", value: "2,6 kg (declarado por el vendedor)" },
+      { label: "Material", value: "ABS" },
+      { label: "Tipo de cubierta", value: "Rígida" },
+      { label: "Candado TSA", value: "Sí" },
+      { label: "Ruedas", value: "Sí, 4 ruedas dobles con giro 360°" },
+      { label: "Capacidad", value: "30 litros, con fuelle extensible" },
+      { label: "Ranking en MercadoLibre", value: "7° más vendida en Valijas" },
+    ],
+    relatedProducts: ["MLA2562082188", "MLA1863874835", "MLA1820695681"],
+    priceUpdated: "2026-10-30", priceLastChecked: "2026-10-30", priceVerifiedAt: "2026-10-30",
+    priceStatus: "fresh", reviewsSampledAt: "2026-10-30",
+    description: "7° valija más vendida de MercadoLibre Argentina, {{reviews:MLA815939359}} calificaciones. Cerrada entra justo en el límite de carry on de Aerolíneas; con el fuelle abierto, se pasa.",
+    seoTitle: "Valija SAS Travel MOVA: entra justo, hasta que abrís el fuelle",
+    metaDescription: "Valija SAS Travel MOVA: 55x34x22cm cerrada, al límite exacto del carry on de Aerolíneas Argentinas. Con el fuelle abierto suma hasta 5cm más y deja de entrar.",
+    verdict: "A {{precio:MLA815939359}}, con {{reviews:MLA815939359}} calificaciones a {{rating:MLA815939359}} estrellas, es la 7° valija más vendida de MercadoLibre Argentina. Cerrada mide 55 x 34 x 22 cm: entra en el límite de carry on de Aerolíneas Argentinas (55 x 35 x 25 cm), pero justo en el alto, sin margen. Tiene candado TSA y fuelle extensible, aunque el fuelle es la trampa: abierto, la profundidad sube hasta 27 cm según la propia descripción del vendedor, 2 cm por encima del límite. Al menos una reseña real reporta además no haber recibido el doble fuelle que mostraba la foto, así que conviene confirmar el modelo exacto antes de comprar.",
+    pros: [
+      "Cerrada entra en el límite de carry on de Aerolíneas Argentinas (55x35x25cm), con candado TSA integrado",
+      "7° valija más vendida de MercadoLibre Argentina, con {{reviews:MLA815939359}} calificaciones a {{rating:MLA815939359}} estrellas",
+      "4 ruedas dobles con giro 360° y resistencia probada cargada al límite, según una reseña real de un viaje en avión y micro",
+      "Fuelle extensible para sumar volumen cuando no hace falta que entre como carry on estricto",
+    ],
+    cons: [
+      "Entra al límite exacto de altura (55 cm contra el máximo de 55 cm): sin margen real",
+      "Con el fuelle extensible abierto, la profundidad sube hasta 27 cm según la descripción del vendedor, 2 cm por encima del límite de carry on",
+      "Al menos una reseña real reporta no haber recibido el doble fuelle que mostraba la imagen de la publicación",
+      "Hay una discrepancia de 1 cm en el ancho entre la ficha técnica (34 cm) y la descripción del vendedor (35 cm)",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "2026", useful: 16, text: "Compramos dos valijas, la gris y azul, primero y principal excelentes. La calidad es hermosa, la compramos y a los 2 días creo las usamos, nos fuimos de bs as a córdoba en avión y micros. A la ida súper bien, a la vuelta las re cargamos con cosas y se la super bancaron igual, pensábamos que iban a explotar pero no, posta buenísimas. Estéticamente son hermosas, facheras y muy cómodas, las rueditas giran con una suavidad hermosa. Dato extra, tiene un cierre q hace q la valija se \"extienda\" o se \"agrande\" entonces te facilita a la hora de cerrar la valija, lo agrandas, cerras normal, luego el cierre extra y queda como comprimido." },
+      { rating: 2, country: "Argentina", date: "2026", text: "Calidad mejorable." },
+      { rating: 2, country: "Argentina", date: "2025", text: "No tenia doble fuelle como indicaba la imagen." },
+    ],
+    articleBody: `## Qué es la valija SAS Travel MOVA
+
+Es una valija de cabina rígida de ABS, con candado TSA, 4 ruedas dobles de giro 360° y un fuelle extensible para sumar volumen. Cuesta {{precio:MLA815939359}} y es la 7° valija más vendida de toda la categoría Valijas de MercadoLibre Argentina, con {{reviews:MLA815939359}} calificaciones a {{rating:MLA815939359}} estrellas.
+
+## Entra justo, sin margen
+
+Su ficha técnica declara 55 cm de alto x 34 cm de ancho x 22 cm de profundidad. Contra el límite de carry on de Aerolíneas Argentinas (55 x 35 x 25 cm), eso significa: entra justo en la altura (exactamente 55 cm, sin ningún margen), con 1 cm de sobra en el ancho y 3 cm en la profundidad. Es la única valija de [nuestra guía de artículo personal y carry on para Aerolíneas Argentinas](/guias/articulo-personal-avion-argentina), junto con la Wacky, que entra cerrada dentro del límite — pero acá sin el colchón de centímetros que tiene la Wacky.
+
+## La trampa del fuelle
+
+Esta valija tiene un cierre extra que permite "agrandarla" para cargar más. Una reseña real lo describe así: "tiene un cierre q hace q la valija se extienda o se agrande... lo agrandas, cerras normal, luego el cierre extra y queda como comprimido". El problema es que, según la propia descripción del vendedor, con el fuelle abierto la profundidad sube 5 cm más, hasta 27 cm — 2 cm por encima del límite de carry on. Es decir: la misma valija que entra cerrada deja de entrar si usás la función que más la promociona el vendedor.
+
+## Una reseña real pone en duda el fuelle doble
+
+No todo es tan simple: al menos una reseña de 2 estrellas reporta algo distinto, "no tenia doble fuelle como indicaba la imagen". Puede ser una variación entre lotes o colores, pero es un motivo más para revisar bien la ficha del color y variante exacta que vayas a comprar, no solo la foto principal.
+
+## Lo que confirman los viajes reales
+
+La reseña más útil de la publicación (16 marcas de "útil") cuenta un viaje real en avión y en micro entre Buenos Aires y Córdoba, con la valija cargada al límite en la vuelta, "pensábamos que iban a explotar pero no, posta buenísimas".
+
+## Para quién es, y para quién no
+
+Es para vos si querés una valija rígida con candado TSA que entre al límite exacto del carry on cuando la llevás cerrada, y la flexibilidad de agrandarla cuando no viajás en Aerolíneas Argentinas o cuando el carry on no tiene que ser estricto. No es para vos si necesitás usar el fuelle siempre (ahí se pasa del límite) o si preferís un margen de seguridad real en vez de una medida justa: para eso, de este mismo lote, la [valija Wacky](/producto/valija-de-cabina-wacky-rigida-extra-chica-abs-49x32x20-mla2562082188) entra con más margen.`,
+    faq: [
+      { question: "¿Entra como carry on en Aerolíneas Argentinas?", answer: "Cerrada sí, pero justo: mide 55 cm de alto contra el máximo exacto de 55 cm, sin margen. Con el fuelle extensible abierto, la profundidad sube hasta 27 cm según la descripción del vendedor, 2 cm por encima del límite de 25 cm." },
+      { question: "¿Qué es el fuelle extensible?", answer: "Un segundo cierre que permite agrandar la valija para cargar más volumen. Según la descripción del vendedor, usarlo suma hasta 5 cm de profundidad, lo que hace que deje de entrar en el límite de carry on." },
+      { question: "¿Tiene candado TSA?", answer: "Sí, a diferencia de la valija Wacky de esta misma comparativa, que trae candado de combinación simple sin sistema TSA." },
+      { question: "¿Por qué una reseña dice que no tenía doble fuelle?", answer: "Al menos un comprador reportó no haber recibido el doble fuelle que mostraba la imagen de la publicación. Puede variar entre lotes o colores; conviene confirmar en la ficha específica del color que vayas a comprar." },
+      { question: "¿Resiste viajes largos y carga pesada?", answer: "Una reseña real describe un viaje en avión y micro entre Buenos Aires y Córdoba con la valija muy cargada en la vuelta, sin romperse ni abrirse." },
+      { question: "¿Cuánto pesa vacía?", answer: "2,6 kg, según la descripción del vendedor." },
+      { question: "¿Conviene esta o la valija Wacky de la misma guía?", answer: "La Wacky entra con más margen real en el límite de carry on (hasta 6 cm de sobra en algunos ejes) y cuesta {{preciodif:MLA2562082188:MLA815939359}} menos, pero no trae candado TSA. Esta SAS Travel sí tiene TSA y fuelle extensible, a cambio de entrar justo, sin margen, cuando está cerrada." },
+    ],
+  },
+];
+
+curatedProducts.push(...curatedProductsEquipajeViaje);
+
 export const categoryPastels: Record<string, string> = {
   cocina: 'var(--pastel-coral)',
   hogar: 'var(--pastel-amber)',

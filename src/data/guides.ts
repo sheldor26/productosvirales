@@ -27395,6 +27395,111 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
   // su máximo") salen de un barrido real de los 987 productos con historial:
   // sin inventar ningún caso, son los que el propio dato mostró.
   // ─────────────────────────────────────────────────────────
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva "artículo personal" (equipaje de mano para Aerolíneas
+  // Argentinas), creada 2026-10-30. Ángulo: desde mayo de 2026 Aerolíneas
+  // Argentinas sacó el carry on gratis de las tarifas más económicas; solo
+  // queda gratis el "artículo personal" (40x30x15cm, máx 3kg, declarado en
+  // aerolineas.com.ar/franquicia-de-equipaje). Investigación propia (ver
+  // scratchpad de la sesión) encontró que la inmensa mayoría de los
+  // productos vendidos como "artículo personal" en MercadoLibre Argentina
+  // están pensados para el estándar europeo/Ryanair (40x30x20cm), 5cm más
+  // profundos que lo que pide Aerolíneas Argentinas — así que la guía no
+  // promete "esto entra seguro", sino que muestra la medida real de cada
+  // producto (ficha técnica, no título de marketing) contra el límite
+  // oficial, con 2 mochilas de "artículo personal" (ninguna cumple del
+  // todo, pero con matices reales entre ellas) y 2 valijas de "carry on"
+  // (ambas sí cumplen, con distinto margen). No hay ningún producto 100%
+  // compliant en "artículo personal": se dice así de claro en la guía.
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "articulo-personal-avion-argentina",
+    category: "equipaje-de-viaje",
+    title: `Artículo personal para Aerolíneas Argentinas: qué mochila entra de verdad`,
+    seoTitle: `Artículo personal Aerolíneas Argentinas: qué mochila entra`,
+    metaDescription: `Aerolíneas Argentinas pide 40x30x15cm de artículo personal. Cruzamos la ficha técnica real de las mochilas más vendidas de MercadoLibre: ninguna cumple del todo.`,
+    h1: `Artículo personal para Aerolíneas Argentinas — qué entra de verdad (y qué no)`,
+    publishedDate: "2026-10-30",
+    updatedDate: "2026-10-30",
+    hasDisclosure: true,
+    standfirst: `Desde mayo de 2026, Aerolíneas Argentinas solo deja subir gratis en las tarifas más baratas un "artículo personal" de 40x30x15cm. Cruzamos la ficha técnica real de las mochilas y valijas más vendidas de MercadoLibre Argentina contra las medidas exactas de Aerolíneas Argentinas, no contra el título de la publicación.`,
+    directAnswer: `Ninguna mochila de "artículo personal" que revisamos cumple del todo: casi todas están pensadas para el estándar europeo (40x30x20cm), 5cm más profundas que lo que pide Aerolíneas Argentinas. La [mochila Romantic Crown Viagem](/producto/mochila-viagem-feminina-masculina-impermeable-y-duradero-negro-liso-mla1863874835) es la que más se acerca: su profundidad real (12cm) sí entra bajo el límite. Si preferís la certeza de que algo entra, una valija rígida de carry on como la [Wacky](/producto/valija-de-cabina-wacky-rigida-extra-chica-abs-49x32x20-mla2562082188) cumple con margen real, aunque el carry on ya no es gratis en todas las tarifas.`,
+    intro: [
+      `Hasta abril de 2026, subir una mochila o un bolso de mano a un vuelo de Aerolíneas Argentinas era gratis en casi cualquier tarifa. Desde mayo, eso cambió: en las tarifas más económicas solo queda gratis el "artículo personal", una categoría mucho más chica que el carry on tradicional, con una medida máxima específica que la aerolínea publica en su propia web.`,
+      `El problema es que MercadoLibre está lleno de mochilas y bolsos que dicen "artículo personal" o "apto avión" en el título, pero la mayoría fueron pensadas para el estándar europeo de aerolíneas low-cost (Ryanair y similares), que es más grande que el argentino. Cruzamos la ficha técnica real de los productos más vendidos contra la medida exacta de Aerolíneas Argentinas para saber cuáles se acercan de verdad y cuáles no, y sumamos dos valijas de carry on para quien prefiera pagar la franquicia y viajar sin dudas.`,
+    ],
+    quickPicks: [
+      { productMlaId: "MLA1863874835", label: "Mejor para artículo personal", labelColor: "blue", tagline: "La única con la profundidad real bajo el límite de Aerolíneas Argentinas" },
+      { productMlaId: "MLA1820695681", label: "Más barata", labelColor: "amber", tagline: "La opción de entrada, aunque no entra como artículo personal" },
+      { productMlaId: "MLA2562082188", label: "Carry on con más margen", labelColor: "green", tagline: "Entra con hasta 6cm de sobra en cada eje del límite de carry on" },
+      { productMlaId: "MLA815939359", label: "Carry on con candado TSA", labelColor: "slate", tagline: "Entra justo, con fuelle extensible para cuando no haga falta ser estricto" },
+    ],
+    sections: [
+      { type: "trust-block", content: `Cómo armamos esta guía: cruzamos la ficha técnica estructurada de cada publicación (no el título de marketing del vendedor) contra las dos medidas oficiales que publica Aerolíneas Argentinas en aerolineas.com.ar/franquicia-de-equipaje. Cuando la ficha técnica y la descripción del vendedor no coinciden, lo decimos explícitamente. Los precios y reseñas se verifican automáticamente contra MercadoLibre.` },
+
+      { type: "h2", title: "Qué cambió con Aerolíneas Argentinas en 2026", id: "que-cambio" },
+      { type: "p", content: `Desde mayo de 2026, el equipaje de mano gratuito en las tarifas más económicas de Aerolíneas Argentinas se achicó. Antes, un bolso o mochila de tamaño carry on normal subía sin cargo en casi cualquier tarifa. Ahora, en las tarifas de entrada solo queda gratis el "artículo personal": un bolso chico que entra bajo el asiento de adelante. Si querés subir algo más grande (una valija de cabina tradicional), en esas tarifas hay que pagar la franquicia de carry on aparte, o directamente elegir una tarifa superior que ya lo incluya.` },
+      { type: "callout", calloutVariant: "note", content: `**Antes de viajar, confirmá siempre tu tarifa exacta** en la confirmación de la reserva de Aerolíneas Argentinas: las franquicias de equipaje cambian según el tipo de tarifa (Promo, Economy, Flex, etc.), y esta guía compara productos contra la medida de artículo personal, no contra la franquicia completa de cada tarifa.` },
+
+      { type: "h2", title: "Las dos medidas oficiales", id: "medidas-oficiales" },
+      { type: "p", content: `Aerolíneas Argentinas declara dos categorías de equipaje de mano, cada una con su propia medida máxima:` },
+      { type: "table", headers: ["Categoría", "Medida máxima", "Peso máximo", "Costo"], rows: [
+        ["Artículo personal", "40 x 30 x 15 cm", "3 kg", "Gratis en todas las tarifas"],
+        ["Carry on (equipaje de cabina)", "55 x 35 x 25 cm", "8 kg cabotaje / 10 kg internacional", "Según tarifa (puede tener costo adicional)"],
+      ] },
+      { type: "p", content: `El eje que más complica a mochilas y bolsos es la profundidad: 15 cm es bastante menos que los 20 cm del estándar europeo (Ryanair y otras low-cost), que es el molde que usan la mayoría de las publicaciones de MercadoLibre cuando dicen "artículo personal" o "apto avión" sin aclarar para qué aerolínea.` },
+
+      { type: "h2", title: "Las 2 mochilas de artículo personal, medida real contra medida oficial", id: "ranking" },
+
+      { type: "h3", title: "1. Mochila Romantic Crown Viagem — la que más se acerca", bigNumber: true },
+      { type: "product-card", productMlaId: "MLA1863874835", label: "Mejor para artículo personal", labelColor: "blue", ranking: 1, description: `Mochila de viaje de 30 a 42 litros, expandible con fuelle. {{rating:MLA1863874835}} estrellas en {{reviews:MLA1863874835}} calificaciones, la más vendida de esta categoría en MercadoLibre Argentina.` },
+      { type: "p", content: `Cerrada mide 45 cm de alto x 32 cm de ancho x 12 cm de profundidad, según su ficha técnica. El alto y el ancho todavía se pasan del límite de artículo personal (40 x 30 cm), pero la profundidad —el eje que más importa para que algo entre bajo el asiento— es de 12 cm, 3 cm por debajo del máximo de 15 cm. De las cuatro fichas de esta guía, es la única que logra eso cerrada. La contra real: más de una reseña real dice que, pese al nombre "Viagem" (viaje en portugués), la encontró chica e incómoda para ese uso específico, y otra reporta que la tela no es tan resistente a largo plazo. Si usás el fuelle para expandirla, la profundidad sube a 22 cm y ahí ya no entra como artículo personal.` },
+
+      { type: "h3", title: "2. Mochila New Bip Viral 40L — la más barata, no entra", bigNumber: true },
+      { type: "product-card", productMlaId: "MLA1820695681", label: "Más barata", labelColor: "amber", ranking: 2, description: `Mochila de 40 litros, nylon impermeable. {{rating:MLA1820695681}} estrellas en {{reviews:MLA1820695681}} calificaciones, 4° más vendida en Mochilas de MercadoLibre Argentina.` },
+      { type: "p", content: `Es la opción más barata de esta guía, pero su propia ficha técnica declara 20 cm de profundidad (33% más que el límite de artículo personal), y hasta la descripción del vendedor, más favorable, dice 17 cm (todavía 13% de más). Ninguna de las dos entra. Lo llamativo es que hasta una compradora real lo nota antes de viajar: en una de las reseñas más útiles de la publicación escribe "espero que pase en el avión pq supera un poquito las medidas permitidas". Sirve bien como carry on normal (no estricto), y una reseña confirma que aguantó un viaje de 20 días sin problema, pero no es la opción si necesitás que algo entre exacto como artículo personal gratis.` },
+
+      { type: "h2", title: "Las 2 valijas de carry on, para cuando preferís pagar la franquicia", id: "carry-on" },
+
+      { type: "h3", title: "3. Valija Wacky rígida extra chica — la que más margen tiene", bigNumber: true },
+      { type: "product-card", productMlaId: "MLA2562082188", label: "Carry on con más margen", labelColor: "green", ranking: 3, description: `Valija rígida de policarbonato, 49x32x20cm con ruedas. {{rating:MLA2562082188}} estrellas en {{reviews:MLA2562082188}} calificaciones.` },
+      { type: "p", content: `Contra el límite de carry on (55 x 35 x 25 cm), esta valija entra con entre 3 y 6 cm de sobra en cada uno de los tres ejes: más margen que la otra valija de esta guía (la SAS Travel entra justo, sin margen en la altura). Tiene 8 ruedas de giro 360° y es liviana para ser rígida (2,3 kg). La contra real: no trae candado TSA, y dos reseñas independientes avisan que el cierre puede ceder si se la carga de más (conviene no superar unos 7-8 kg de contenido).` },
+
+      { type: "h3", title: "4. Valija SAS Travel MOVA — entra justo, con candado TSA", bigNumber: true },
+      { type: "product-card", productMlaId: "MLA815939359", label: "Carry on con candado TSA", labelColor: "slate", ranking: 4, description: `Valija rígida de ABS con candado TSA y fuelle extensible, 55x34x22cm cerrada. {{rating:MLA815939359}} estrellas en {{reviews:MLA815939359}} calificaciones, 7° más vendida en Valijas.` },
+      { type: "p", content: `Cerrada entra en el límite de carry on, pero justo: 55 cm de alto contra el máximo exacto de 55 cm, sin margen. Tiene candado TSA integrado (a diferencia de la Wacky) y un fuelle extensible para sumar volumen cuando no hace falta ser estricto con la medida. La contra real: con el fuelle abierto, la profundidad sube hasta 27 cm según la propia descripción del vendedor, 2 cm por encima del límite — la misma valija que entra cerrada deja de entrar si usás la función que más promociona el vendedor. Al menos una reseña real reporta además no haber recibido el doble fuelle que mostraba la imagen de la publicación.` },
+
+      { type: "h2", title: "Las 4 fichas, medida real contra medida oficial", id: "tabla-comparativa" },
+      { type: "table", headers: ["Producto", "Tipo", "Medida real (cerrada)", "¿Entra?", "Precio", "Calificación"], rows: [
+        ["[Romantic Crown Viagem](https://meli.la/252QUfq)", "Artículo personal", "45x32x12cm", "Solo en profundidad", "{{precio:MLA1863874835}}", "{{rating:MLA1863874835}} ({{reviews:MLA1863874835}})"],
+        ["[New Bip Viral 40L](https://meli.la/2Qc1rKa)", "Artículo personal", "43x32x20cm", "No", "{{precio:MLA1820695681}}", "{{rating:MLA1820695681}} ({{reviews:MLA1820695681}})"],
+        ["[Wacky rígida extra chica](https://meli.la/1MDWosW)", "Carry on", "44x32x20cm (49cm con ruedas)", "Sí, con margen", "{{precio:MLA2562082188}}", "{{rating:MLA2562082188}} ({{reviews:MLA2562082188}})"],
+        ["[SAS Travel MOVA](https://meli.la/1m6P153)", "Carry on", "55x34x22cm", "Sí, justo", "{{precio:MLA815939359}}", "{{rating:MLA815939359}} ({{reviews:MLA815939359}})"],
+      ] },
+
+      { type: "h2", title: "Cómo elegir entre artículo personal y carry on", id: "como-elegir" },
+      { type: "list", items: [
+        `**Volás con una tarifa económica y querés viajar sin pagar de más:** apuntá al artículo personal, pero asumí que ninguna mochila del mercado entra 100% segura — la Romantic Crown Viagem es la que más chance real tiene por su profundidad.`,
+        `**Preferís la certeza de que tu equipaje entra, y no te molesta pagar la franquicia:** una valija rígida de carry on como la Wacky o la SAS Travel te saca la duda, siempre que no uses el fuelle extensible al límite.`,
+        `**Viajás con notebook y necesitás trabajar en el destino:** las dos mochilas de esta guía tienen compartimento acolchado (hasta 17" o 17,3"); ninguna de las valijas está pensada para eso.`,
+        `**Tenés equipaje frágil o que preferís bajo llave:** la SAS Travel es la única de esta guía con candado TSA integrado de fábrica.`,
+      ] },
+
+      { type: "h2", title: "Cuánto cuesta el equipaje de mano en octubre de 2026", id: "cuanto-cuesta" },
+      { type: "p", content: `Las mochilas de esta guía van de {{precio:MLA1820695681:k}} a {{precio:MLA1863874835:k}}. Las valijas rígidas de carry on, de {{precio:MLA2562082188:k}} a {{precio:MLA815939359:k}}. En general, una mochila de artículo personal decente arranca cerca de los $40.000, y una valija rígida de carry on con buen respaldo de reseñas ronda entre $65.000 y $90.000.` },
+
+      { type: "verdict", content: `Ningún producto que revisamos cumple al 100% la medida de artículo personal de Aerolíneas Argentinas (40x30x15cm): la mayoría de lo que vende MercadoLibre como "artículo personal" está pensado para el estándar europeo, 5cm más profundo. De las cuatro fichas de esta guía, la [mochila Romantic Crown Viagem](/producto/mochila-viagem-feminina-masculina-impermeable-y-duradero-negro-liso-mla1863874835) es la que más se acerca, con la profundidad real bajo el límite. Si preferís no arriesgarte, una valija rígida de carry on como la [Wacky](/producto/valija-de-cabina-wacky-rigida-extra-chica-abs-49x32x20-mla2562082188) entra con margen real, a cambio de pagar la franquicia de carry on en las tarifas que no la incluyen gratis.` },
+    ],
+    faq: [
+      { question: "¿Cuál es la medida oficial del artículo personal de Aerolíneas Argentinas?", answer: "40 x 30 x 15 cm, con un máximo de 3 kg, declarado en aerolineas.com.ar/franquicia-de-equipaje. Es gratis en todas las tarifas." },
+      { question: "¿Y la medida del carry on?", answer: "55 x 35 x 25 cm, con un máximo de 8 kg en vuelos de cabotaje y 10 kg en internacionales. Desde mayo de 2026 no es gratis en todas las tarifas: depende de la tarifa que compres." },
+      { question: "¿Por qué ninguna mochila de MercadoLibre entra del todo como artículo personal?", answer: "Porque la mayoría de las publicaciones que dicen \"artículo personal\" o \"apto avión\" están pensadas para el estándar europeo de aerolíneas low-cost (Ryanair y similares), que permite hasta 20 cm de profundidad. Aerolíneas Argentinas pide 15 cm, 5 cm menos." },
+      { question: "¿Qué mochila entra mejor como artículo personal?", answer: "La Romantic Crown Viagem, cuya ficha técnica declara 12 cm de profundidad cerrada, bajo el límite de 15 cm. El ancho y el alto todavía exceden la medida oficial, así que no es una garantía al 100%, pero es la mejor opción real que encontramos." },
+      { question: "¿Conviene una valija rígida en vez de una mochila?", answer: "Si preferís la certeza de que tu equipaje entra y no te molesta pagar la franquicia de carry on, sí. Las dos valijas de esta guía (Wacky y SAS Travel) cumplen la medida de carry on, con distinto margen." },
+      { question: "¿Qué pasa si mi equipaje no entra en el control del aeropuerto?", answer: "Depende de la política de cada vuelo y mostrador: puede implicar pagar la franquicia de carry on en el momento, a un costo mayor que comprarla antes, o despachar el equipaje. Conviene confirmar la medida exacta antes de viajar, no solo confiar en el título de la publicación." },
+      { question: "¿Esta guía aplica a otras aerolíneas además de Aerolíneas Argentinas?", answer: "Las medidas que usamos como referencia son específicamente las de Aerolíneas Argentinas. Otras aerolíneas (JetSMART, Flybondi) tienen sus propias franquicias, que pueden ser distintas." },
+    ],
+  },
   {
     slug: "black-friday-cybermonday-argentina",
     category: "fechas-especiales",
@@ -37836,6 +37941,11 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
  * aspiradoras-robot agrupado).
  */
 export const guideSilos: Record<string, { name: string; description: string }> = {
+  "equipaje-de-viaje": {
+    name: "Equipaje de Viaje",
+    description:
+      "Mochilas y valijas comparadas contra las medidas reales de Aerolíneas Argentinas, no contra el título de marketing del vendedor.",
+  },
   musica: {
     name: "Música",
     description:
@@ -37934,6 +38044,7 @@ export const categorySiloFallback: Record<string, string> = {
   masajeadores: "salud-bienestar",
   "perfumes-arabes": "cuidado-personal",
   "aspiradoras-robot": "hogar",
+  "equipaje-de-viaje": "equipaje-de-viaje",
 };
 
 /** Silo de display de una guía para `/guias`: el real si lo tiene, si no el fallback por categoría legacy. */
@@ -37942,6 +38053,11 @@ export function getDisplaySilo(g: Pick<Guide, "silo" | "category">): string {
 }
 
 export const guideCategories: Record<string, { name: string; description: string }> = {
+  "equipaje-de-viaje": {
+    name: "Guía de Equipaje de Viaje",
+    description:
+      "Mochilas y valijas comparadas contra las medidas reales de Aerolíneas Argentinas, no contra el título de marketing del vendedor.",
+  },
   guitarras: {
     name: "Guía de Guitarras",
     description:

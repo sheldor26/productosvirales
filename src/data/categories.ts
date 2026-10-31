@@ -381,6 +381,26 @@ export const categories: Category[] = [
     `,
   },
   {
+    slug: "equipaje-de-viaje",
+    name: "Viaje",
+    icon: "Luggage",
+    pastel: "var(--color-pastel-blue)",
+    h1: "Equipaje de Viaje: Artículo Personal y Carry On",
+    description: "Mochilas y valijas comparadas contra las medidas reales de Aerolíneas Argentinas, con precio real de MercadoLibre",
+    buyersGuide: `
+      <h2>Qué vas a encontrar en esta categoría</h2>
+      <p>Mochilas y valijas pensadas para entrar como equipaje de mano, comparadas contra las dos medidas oficiales de Aerolíneas Argentinas: el "artículo personal" (40x30x15cm, gratis en toda tarifa) y el "carry on" (55x35x25cm, con cargo según tarifa desde mayo de 2026). Cruzamos la ficha técnica real de cada publicación contra esos límites, no el título de marketing del vendedor.</p>
+
+      <h2>Qué mirar antes de comprar</h2>
+      <ul>
+        <li><strong>La profundidad, no solo el alto y el ancho:</strong> la mayoría de los productos "artículo personal" de MercadoLibre están pensados para el estándar europeo (Ryanair, 40x30x20cm), 5cm más profundos que lo que pide Aerolíneas Argentinas.</li>
+        <li><strong>Ficha técnica vs descripción del vendedor:</strong> en más de un producto, las medidas declaradas en la ficha técnica estructurada no coinciden con las de la descripción libre. Cuando difieren, usamos la ficha técnica como dato principal.</li>
+        <li><strong>Fuelles y expansiones:</strong> varias valijas y mochilas tienen un fuelle que suma volumen — y también centímetros que pueden sacarlas del límite permitido.</li>
+        <li><strong>Reseñas reales de viajes:</strong> buscá reseñas que mencionen específicamente el uso en avión, no solo la calidad general del producto.</li>
+      </ul>
+    `,
+  },
+  {
     slug: "oficina",
     name: "Oficina",
     icon: "Briefcase",
