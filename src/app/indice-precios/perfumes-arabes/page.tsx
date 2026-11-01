@@ -73,6 +73,7 @@ export default function PerfumesArabesPriceIndexPage() {
             spatialCoverage: { "@type": "Place", name: "Argentina" },
             creator: { "@type": "Organization", name: "ProductosVirales", url: "https://productosvirales.com.ar" },
             variableMeasured: "Precio de venta en Mercado Libre Argentina (ARS)",
+            license: "https://productosvirales.com.ar/terminos",
           }),
         }}
       />
