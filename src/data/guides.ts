@@ -23607,7 +23607,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { productMlaId: "MLA15733526", label: "Mejor eficiencia", labelColor: "purple", tagline: "Rheem 85L: categoría A, doble aislación" },
     ],
     intro: [
-      `Cambiar el calefón a gas por un termotanque eléctrico dejó de ser una rareza en Argentina: varios compradores en las reseñas lo eligen justamente por eso, y reportan pagar menos de luz que lo que pagaban antes de gas. El termotanque eléctrico calienta y guarda una reserva de agua caliente en un tanque aislado, a diferencia del calefón que la calienta al instante y no la almacena.`,
+      `Cambiar el calefón a gas por un termotanque eléctrico dejó de ser una rareza en Argentina: varios compradores en las reseñas lo eligen justamente por eso, y reportan pagar menos de luz que lo que pagaban antes de gas. El termotanque eléctrico calienta y guarda una reserva de agua caliente en un tanque aislado, a diferencia del calefón a gas, que la calienta al instante y no la almacena.`,
       `El problema es que no todos los termotanques eléctricos son iguales, aunque los precios se parezcan. Hay modelos sin aislamiento térmico ni protección anticorrosiva vendiendo casi lo mismo que otros que sí los traen, y la eficiencia energética real (una categoría de A a G, como en los aires acondicionados) varía bastante entre marcas.`,
       `Esta guía compara los 4 termotanques eléctricos con mejor respaldo de compradores reales en MercadoLibre Argentina, de 40 a 85 litros, para que elijas según cuánta agua caliente necesitás y qué estás dispuesto a resignar por precio.`,
     ],
@@ -23673,7 +23673,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       ]},
 
       { type: "h2", title: `Termotanque eléctrico vs. calefón: la diferencia real` },
-      { type: "p", content: `El termotanque calienta y guarda una reserva de agua caliente en un tanque aislado, lista para usar. El calefón (a gas o eléctrico) calienta el agua al instante, a medida que la usás, sin almacenarla. El termotanque conviene si querés varias duchas seguidas sin esperar; el calefón, si el espacio es limitado y no querés instalar un tanque grande. Vamos a comparar los calefones eléctricos en detalle en una guía aparte de este mismo sitio.` },
+      { type: "p", content: `El termotanque calienta y guarda una reserva de agua caliente en un tanque aislado (40 a 85 litros), lista para usar. El calefón eléctrico, en cambio, es más chico: hay modelos con un tanque de solo 20 litros que se carga antes de bañarse, y modelos instantáneos que calientan el agua al paso, sin almacenarla. El termotanque conviene si querés varias duchas seguidas sin esperar; el calefón eléctrico, si el espacio es limitado y no necesitás tanta capacidad. Comparamos los calefones eléctricos reales de MercadoLibre Argentina en nuestra [guía de calefones eléctricos](/guias/agua-caliente/calefon-electrico).` },
 
       { type: "h2", title: `Cuánto cuesta un termotanque eléctrico en Argentina [julio 2026]`, id: "precios" },
       { type: "list", items: [
@@ -23699,6 +23699,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { question: `¿Cada cuánto hay que cambiar el ánodo de magnesio?`, answer: `El manual del Señorial exige recambiar el ánodo de magnesio antes de los 18 meses para no perder la garantía (3 años en la línea Zafiro, 5 en la Family). Es un repuesto económico que protege el tanque de la corrosión: sin ese recambio, además de caer la garantía, la vida útil del equipo baja. Conviene revisarlo entre los 6 meses y el año.` },
     ],
     internalLinks: [
+      { label: "Calefón eléctrico: cuál comprar en Argentina", href: "/guias/agua-caliente/calefon-electrico" },
       { label: "Termotanque a gas: cuál comprar en Argentina", href: "/guias/agua-caliente/termotanque-a-gas" },
       { label: "Ducha eléctrica: cuál comprar en Argentina", href: "/guias/agua-caliente/ducha-electrica" },
       { label: "Estufa eléctrica de bajo consumo: cuál comprar", href: "/guias/climatizacion/estufa-electrica-bajo-consumo" },
@@ -26988,7 +26989,147 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     internalLinks: [
       { label: "Termotanque eléctrico: cuál comprar en Argentina", href: "/guias/agua-caliente/termotanque-electrico" },
       { label: "Termotanque a gas: cuál comprar en Argentina", href: "/guias/agua-caliente/termotanque-a-gas" },
+      { label: "Calefón eléctrico: cuál comprar en Argentina", href: "/guias/agua-caliente/calefon-electrico" },
       { label: "Estufa eléctrica de bajo consumo: cuál gasta menos", href: "/guias/climatizacion/estufa-electrica-bajo-consumo" },
+      { label: "Caloventor: cuál comprar en Argentina", href: "/guias/climatizacion/caloventor" },
+    ],
+    internalLinksTitle: "Más para el agua caliente de tu casa",
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // PILAR calefon-electrico — silo agua-caliente (junto a termotanque-electrico
+  // y ducha-electrica). Origen: keywords-backlog tanda 19, "calefón eléctrico"
+  // 22.200/mes en Keyword Planner, bloqueada hasta sourcear calefones
+  // eléctricos reales (el catálogo solo tenía a gas). 5 fichas nuevas,
+  // sourcing en vivo 2026-11-01 (Chrome de Juan, ML bloquea el navegador
+  // interno). Diferenciación explícita de ducha-electrica (sin tanque,
+  // integrada a la ducha) y termotanque-electrico (40-85L, toda la casa):
+  // "calefón eléctrico" acá cubre dos sub-tipos reales, con tanque chico
+  // de 20L y sin tanque de alta potencia, cruzados contra la categoría real
+  // de MercadoLibre. La línea de termotanque-electrico que prometía esta
+  // guía aparte queda enlazada acá.
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "calefon-electrico",
+    category: "calefones-electricos",
+    silo: "agua-caliente",
+    pillar: true,
+    title: `Calefón eléctrico: cuál comprar en Argentina [2026]`,
+    seoTitle: `Calefón Eléctrico: Cuál Comprar en Argentina [2026]`,
+    metaDescription: `Comparamos 5 calefones eléctricos reales de MercadoLibre: con tanque chico de 20 litros e instantáneos sin tanque. Precio real y la contra honesta de cada uno.`,
+    ogTitle: `Calefón eléctrico: cuál comprar en Argentina`,
+    ogDescription: `Del calefón con tanque más barato al instantáneo más completo: 5 calefones eléctricos comparados por capacidad, potencia y respaldo real de reseñas, con contras honestos incluidos.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_729324-MLA110167661176_042026-F.webp`,
+    h1: `Calefón eléctrico: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Depende de qué necesites. Si buscás la opción más barata con tanque chico, el **[LYL](/producto/calefon-electrico-ducha-pvc-20-litros-nivel-de-agua-mlau234621421)** (alrededor de {{precio:MLAU234621421:k}}). Si preferís el más vendido y mejor calificado, el **[Bertan Llave Corte](/producto/calefon-electrico-ducha-cable-pvc-20-litros-reforzado-llave-corte-tecla-bertan-mla68940150)** (alrededor de {{precio:MLA68940150:k}}). Si querés agua caliente instantánea sin instalar un tanque y podés confirmar caudal e instalación eléctrica, el **[Euterma Hadron](/producto/calefon-electrico-euterma-digital-hadron-8-kw-tipo-atmor-mlau311032832)** (alrededor de {{precio:MLAU311032832:k}}) o, con más funciones y mejor ficha técnica, el **[Oryx OR-W01](/producto/calefon-electrico-instantaneo-3-segund-8-8l-digital-diseno-negro-mla60443688)** (alrededor de {{precio:MLA60443688:k}}).`,
+    publishedDate: "2026-11-01",
+    updatedDate: "2026-11-01",
+    hasDisclosure: true,
+    readingTime: 9,
+    standfirst: `Un calefón eléctrico va de {{precio:MLAU234621421:k}} (el de tanque chico más barato) a {{precio:MLA60443688:k}} (el instantáneo más completo). Comparamos 5 calefones eléctricos reales de MercadoLibre Argentina, de tanque chico de 20 litros e instantáneos sin tanque, por capacidad, potencia y respaldo real de reseñas, con contras honestos incluidos, dentro de nuestro silo de [Agua Caliente](/guias/agua-caliente/termotanque-electrico).`,
+    quickPicks: [
+      { productMlaId: "MLAU234621421", label: "El más barato", labelColor: "green", tagline: "LYL: tanque de 20L, el calefón eléctrico más económico de esta comparativa" },
+      { productMlaId: "MLA68940150", label: "El más vendido", labelColor: "blue", tagline: "Bertan Llave Corte: MÁS VENDIDO 1° en Eléctricos, el mejor rating del grupo" },
+      { productMlaId: "MLAU311032832", label: "Instantáneo, el más accesible", labelColor: "amber", tagline: "Euterma Hadron: 8 kW, sin tanque, control digital" },
+      { productMlaId: "MLA60443688", label: "Instantáneo, el más completo", labelColor: "purple", tagline: "Oryx OR-W01: 8,8 kW, eficiencia A, la ficha técnica más rica" },
+    ],
+    intro: [
+      `"Calefón eléctrico" es un término que en MercadoLibre agrupa dos productos bien distintos: los que tienen un tanque chico (20 litros) que se carga antes de bañarse, y los instantáneos de alta potencia que calientan el agua al paso, sin almacenarla, pensados para abastecer más de un punto de la casa. No son la misma compra ni resuelven lo mismo, y confundirlos puede hacer que termines con el producto equivocado.`,
+      `Comparamos 5 calefones eléctricos reales de MercadoLibre Argentina, verificados en vivo: tres con tanque chico (el más barato, el más vendido y el único de acero inoxidable) y dos instantáneos (el más accesible y el más completo). Con precio real, specs verificadas y la contra honesta de cada uno, sacada de reseñas de compradores reales.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_729324-MLA110167661176_042026-F.webp", alt: `Calefón eléctrico Bertan Llave Corte, el más vendido de esta comparativa de MercadoLibre Argentina`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la opción más **barata** con tanque, el **[LYL](/producto/calefon-electrico-ducha-pvc-20-litros-nivel-de-agua-mlau234621421)**. Para el **más vendido y mejor calificado**, el **[Bertan Llave Corte](/producto/calefon-electrico-ducha-cable-pvc-20-litros-reforzado-llave-corte-tecla-bertan-mla68940150)**. Si querés algo **instantáneo sin tanque** y podés **confirmar caudal e instalación eléctrica**, el **[Euterma Hadron](/producto/calefon-electrico-euterma-digital-hadron-8-kw-tipo-atmor-mlau311032832)** o, más completo, el **[Oryx OR-W01](/producto/calefon-electrico-instantaneo-3-segund-8-8l-digital-diseno-negro-mla60443688)**.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** partimos de la categoría Calefones y Eléctricos de MercadoLibre Argentina y verificamos cada publicación en vivo el 2026-11-01: precio, stock, ranking propio de más vendidos de MercadoLibre, ficha técnica y reseñas de compradores reales. Miramos especialmente tres campos que deciden la compra: **con tanque o instantáneo**, **potencia**, y **respaldo real de reseñas**, incluyendo lo que las reseñas avisan sobre instalación y presión de agua que la ficha del vendedor no siempre aclara. Los precios se verifican periódicamente contra MercadoLibre.` },
+
+      { type: "h2", title: `Calefón eléctrico, ducha eléctrica y termotanque: la diferencia real`, id: "diferencia" },
+      { type: "p", content: `Los tres productos calientan agua con electricidad, pero no son lo mismo. La **ducha eléctrica** (ver nuestra [guía de duchas eléctricas](/guias/agua-caliente/ducha-electrica)) va integrada a la propia flor de ducha, sin tanque, y es la más chica y económica de las tres. El **termotanque eléctrico** (ver nuestra [guía de termotanques eléctricos](/guias/agua-caliente/termotanque-electrico)) es un tanque grande (40 a 85 litros) que mantiene una reserva de agua caliente lista para varias duchas seguidas. El **calefón eléctrico**, el de esta guía, queda en el medio: hay modelos con un tanque chico de 20 litros que se carga antes de bañarse, y modelos instantáneos de alta potencia que calientan al paso como una ducha eléctrica, pero separados del cabezal, pensados para abastecer más de un punto de la casa.` },
+      { type: "p", content: `Si el espacio es muy limitado y solo necesitás una ducha, una ducha eléctrica alcanza y es más barata. Si tu familia usa mucha agua caliente seguida (varias duchas, cocina y baño a la vez), un termotanque de 40 litros o más rinde mejor. El calefón eléctrico de esta guía conviene cuando buscás algo intermedio: más autonomía que una ducha eléctrica, sin instalar un tanque grande.` },
+
+      { type: "h2", title: `Con tanque chico: para una ducha por carga`, id: "con-tanque" },
+      { type: "p", content: `Estos tres se cargan antes de bañarse y esa agua alcanza para una ducha completa. Van de {{precio:MLAU234621421:k}} a {{precio:MLAU197017324:k}}.` },
+
+      { type: "h3", title: `1. LYL, el más barato` },
+      { type: "product-card", productMlaId: "MLAU234621421", label: "El más barato", labelColor: "green", ranking: 1, description: `Tanque de 20 litros, 1,2 kW, plástico. {{rating:MLAU234621421}} de puntaje sobre {{reviews:MLAU234621421}} opiniones, MÁS VENDIDO 2° en Eléctricos.` },
+      { type: "p", content: `El más barato de esta comparativa, a {{precio:MLAU234621421:k}}. Según una reseña real, tarda entre 15 y 20 minutos en calentar y el agua caliente alcanza para unos 10 minutos de ducha.` },
+      { type: "pull-quote", content: `"Si sos pobre compralo, es lo que hay jaja."`, attribution: `Comprador del LYL, calificación 5/5 (460 votos útiles)` },
+      { type: "p", content: `La contra real, repetida en varias reseñas: algunos componentes plásticos (la tuerca de ajuste y las arandelas de sellado) son de calidad floja y pueden empezar a perder agua con el uso.` },
+
+      { type: "h3", title: `2. Bertan Llave Corte, el más vendido` },
+      { type: "product-card", productMlaId: "MLA68940150", label: "El más vendido", labelColor: "blue", ranking: 2, description: `Tanque de 20 litros con visor de nivel de agua. MÁS VENDIDO 1° en Eléctricos, el mejor rating de esta comparativa ({{rating:MLA68940150}} en {{reviews:MLA68940150}} opiniones).` },
+      { type: "p", content: `Tiene la insignia MÁS VENDIDO, 1° en Eléctricos de MercadoLibre, y el mejor rating de las 5 fichas de esta guía. Trae visor de nivel de agua y el kit de instalación incluye el buje de sujeción para pared.` },
+      { type: "pull-quote", content: `"Presión: muy poca la que descarga la flor de la ducha, no le encuentro la falla. Temperatura: muy buen 3/4 tanque en aproximadamente 15 minutos."`, attribution: `Comprador del Bertan, calificación 4/5` },
+      { type: "p", content: `La contra real: según esa misma reseña, la presión que descarga la flor de ducha es baja, aunque la temperatura del agua no es un problema.` },
+
+      { type: "h3", title: `3. Diluvio MAX, el único de acero inoxidable` },
+      { type: "product-card", productMlaId: "MLAU197017324", label: "Acero inoxidable", labelColor: "purple", ranking: 3, description: `Tanque de 20 litros de acero inoxidable, industria Argentina. {{rating:MLAU197017324}} de puntaje sobre {{reviews:MLAU197017324}} opiniones.` },
+      { type: "p", content: `Es el único calefón con tanque de esta comparativa hecho de acero inoxidable (LYL y Bertan son de plástico), industria Argentina, con corte de seguridad por bajo nivel de agua.` },
+      { type: "callout", calloutVariant: "warning", calloutTitle: "El acero inoxidable, puesto a prueba por las reseñas", content: `Pese al material, dos reseñas reales por separado reportan óxido en la resistencia interna (la pieza que calienta el agua): una a los 2-3 meses de uso, otra explica el mecanismo exacto, que se oxida en la unión, y al no tener tapón inferior, ese óxido se mezcla con el agua de cada carga nueva. Esta última lo dice sin vueltas: el precio es excesivo frente a un modelo plástico que, según su experiencia, cumple la misma función.` },
+      { type: "pull-quote", content: `"Cumple su función pero puede mejorar el producto mucho más. Y el precio es excesivo por estos comentarios que realicé. Uno plástico funciona igual. Solo por estética sale más caro."`, attribution: `Comprador del Diluvio MAX, calificación 3/5` },
+      { type: "p", content: `Lo que sí funciona bien: un comprador real que lo instaló en serie con su termotanque eléctrico reporta un ahorro de $100.000 por mes en electricidad.` },
+
+      { type: "h2", title: `Instantáneos: sin tanque, para más de un punto de la casa`, id: "instantaneos" },
+      { type: "warning", content: `**El Oryx necesita instalación eléctrica dedicada confirmada por reseñas reales; el Euterma, probablemente también, aunque sin esa confirmación. Los dos tienen quejas reales de caudal.** El Oryx necesita un circuito propio con cable de 6mm (no un enchufe compartido) y disyuntor según la potencia, confirmado por varias reseñas reales con ese detalle exacto. Del Euterma, ninguna reseña detalla su instalación eléctrica, pero por tratarse también de un equipo de 8 kW es razonable esperar algo similar, sin darlo por confirmado. Sobre el caudal: el Euterma baja si abrís mucho la canilla, según su reseña más votada; el comprador más votado del Oryx reporta que, pese a tener buena presión de agua en su casa, el agua no le llegaba a una bacha a dos metros del equipo. Confirmá estos puntos antes de comprar, y hacé la instalación eléctrica con un electricista matriculado.` },
+
+      { type: "h3", title: `4. Euterma Hadron, el instantáneo más accesible` },
+      { type: "product-card", productMlaId: "MLAU311032832", label: "Instantáneo, el más accesible", labelColor: "amber", ranking: 4, description: `8 kW, sin tanque, control digital con 4 temperaturas de frío y 3 de agua caliente. {{rating:MLAU311032832}} de puntaje sobre {{reviews:MLAU311032832}} opiniones.` },
+      { type: "p", content: `El instantáneo más accesible de esta comparativa, a {{precio:MLAU311032832:k}}, 26% off sobre su precio de lista. Lo vende Casa Somoza, especialistas en climatización desde 1976.` },
+      { type: "pull-quote", content: `"Es de buena clidad. Solo otorga agua caliente con poco caudal. Si abris mucho la canilla, fuiste."`, attribution: `Comprador del Euterma Hadron, calificación 4/5 (18 votos útiles)` },
+      { type: "p", content: `La contra real, según esa misma reseña: el caudal de agua caliente baja si abrís mucho la canilla. Sobre la instalación eléctrica, ninguna reseña de este modelo la detalla; al ser un equipo de 8 kW, conviene confirmarla con un electricista antes de comprar, en vez de asumirla.` },
+
+      { type: "h3", title: `5. Oryx OR-W01, el más completo` },
+      { type: "product-card", productMlaId: "MLA60443688", label: "Instantáneo, el más completo", labelColor: "slate", ranking: 5, description: `8,8 kW, control táctil, eficiencia energética A, pantalla digital. {{rating:MLA60443688}} de puntaje sobre {{reviews:MLA60443688}} opiniones, MÁS VENDIDO 11° en Calefones.` },
+      { type: "p", content: `Es el calefón con la ficha técnica más completa de esta comparativa (13 specs reales declaradas): 8,8 litros por minuto de calentamiento, encendido ionizado, control táctil y eficiencia energética categoría A, la más alta posible en Argentina. Es también el más caro de los 5.` },
+      { type: "pull-quote", content: `"Anda muy bien lo q si respetar el cable de 6 y una instalación aparte derecho al pilar. Ya q consume 30 amp a 47 grados pero con eso te sobra para bañarte."`, attribution: `Comprador del Oryx OR-W01, calificación 5/5 (54 votos útiles)` },
+      { type: "p", content: `La contra real: necesita instalación eléctrica dedicada con cable de 6mm, confirmado por varias reseñas. Y según su reseña más votada (121 votos útiles), con buena presión de agua en la casa el equipo igual no le entregaba caudal a una bacha a dos metros de distancia; consultó si una bomba presurizadora lo solucionaba, sin confirmación de si funcionó.` },
+
+      { type: "h2", title: `Las 5 fichas comparadas`, id: "tabla-comparativa" },
+      { type: "table", headers: ["Modelo", "Tipo", "Precio", "Rating", "Ideal para"], rows: [
+        [`[LYL](/producto/calefon-electrico-ducha-pvc-20-litros-nivel-de-agua-mlau234621421)`, "Con tanque (20L)", `{{precio:MLAU234621421}}`, `{{rating:MLAU234621421}}`, "La opción más barata"],
+        [`[Bertan Llave Corte](/producto/calefon-electrico-ducha-cable-pvc-20-litros-reforzado-llave-corte-tecla-bertan-mla68940150)`, "Con tanque (20L)", `{{precio:MLA68940150}}`, `{{rating:MLA68940150}}`, "Más vendido y mejor calificado"],
+        [`[Diluvio MAX](/producto/ducha-calentador-calefon-electrico-20-lts-acero-inox-diluvio-mlau197017324)`, "Con tanque (20L, acero)", `{{precio:MLAU197017324}}`, `{{rating:MLAU197017324}}`, "Preferís la estética de acero inoxidable"],
+        [`[Euterma Hadron](/producto/calefon-electrico-euterma-digital-hadron-8-kw-tipo-atmor-mlau311032832)`, "Instantáneo, sin tanque", `{{precio:MLAU311032832}}`, `{{rating:MLAU311032832}}`, "Instantáneo más accesible"],
+        [`[Oryx OR-W01](/producto/calefon-electrico-instantaneo-3-segund-8-8l-digital-diseno-negro-mla60443688)`, "Instantáneo, sin tanque", `{{precio:MLA60443688}}`, `{{rating:MLA60443688}}`, "El más completo"],
+      ] },
+      { type: "p", content: `El nombre de cada modelo lleva directo a su ficha completa, con specs verificadas y las reseñas reales que sostienen cada contra.` },
+
+      { type: "h2", title: `Cómo elegir tu calefón eléctrico`, id: "como-elegir" },
+      { type: "h3", title: `1. Definí primero: con tanque o instantáneo` },
+      { type: "p", content: `Si solo necesitás resolver una ducha y el espacio es chico, uno de los tres con tanque (LYL, Bertan o Diluvio MAX) alcanza. Si querés abastecer más de un punto de la casa (cocina y baño, por ejemplo) sin instalar un tanque grande, un instantáneo como el Euterma o el Oryx de esta comparativa rinde mejor, siempre que confirmes antes el caudal y la instalación eléctrica.` },
+      { type: "h3", title: `2. Si vas por un instantáneo, no asumas que el caudal va a alcanzar` },
+      { type: "p", content: `Es la contra real de esta categoría, aunque no es exactamente la misma en los dos modelos: el Euterma baja de caudal si abrís mucho la canilla, según su reseña más votada. El comprador más votado del Oryx reporta que, con buena presión de agua en su casa, el equipo igual no le entregaba agua a un punto a dos metros de distancia. En los dos casos, conviene no exigirle demasiado caudal a la vez ni a mucha distancia del equipo.` },
+      { type: "h3", title: `3. Presupuestá la instalación eléctrica aparte` },
+      { type: "p", content: `Ninguna reseña de los tres calefones con tanque de esta comparativa menciona una instalación eléctrica especial, pero son de menor potencia (1,2 kW o 1100 W) que los instantáneos. El Oryx sí pide un circuito eléctrico dedicado con cable de 6mm, confirmado por varias reseñas reales con ese detalle exacto; del Euterma ninguna reseña lo detalla, pero por ser también un equipo de 8 kW es razonable esperar algo similar. En ningún caso está detallado con precisión en la ficha del vendedor: hacé la instalación con un electricista matriculado y confirmá el circuito que corresponde antes de comprar.` },
+
+      { type: "h2", title: `Cuánto cuesta un calefón eléctrico en Argentina`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de {{precio:MLAU234621421:k}}:** el [LYL](/producto/calefon-electrico-ducha-pvc-20-litros-nivel-de-agua-mlau234621421), con tanque de 20 litros, el más barato de esta comparativa.`,
+        `**Alrededor de {{precio:MLA68940150:k}}:** el [Bertan Llave Corte](/producto/calefon-electrico-ducha-cable-pvc-20-litros-reforzado-llave-corte-tecla-bertan-mla68940150), el más vendido y mejor calificado.`,
+        `**Alrededor de {{precio:MLAU197017324:k}}:** el [Diluvio MAX](/producto/ducha-calentador-calefon-electrico-20-lts-acero-inox-diluvio-mlau197017324), con tanque de acero inoxidable.`,
+        `**Alrededor de {{precio:MLAU311032832:k}}:** el [Euterma Hadron](/producto/calefon-electrico-euterma-digital-hadron-8-kw-tipo-atmor-mlau311032832), instantáneo, el más accesible de esta comparativa.`,
+        `**Alrededor de {{precio:MLA60443688:k}}:** el [Oryx OR-W01](/producto/calefon-electrico-instantaneo-3-segund-8-8l-digital-diseno-negro-mla60443688), instantáneo, el más completo.`,
+      ] },
+
+      { type: "verdict", content: `Para la mayoría, el **[LYL](/producto/calefon-electrico-ducha-pvc-20-litros-nivel-de-agua-mlau234621421)**: la opción con tanque más barata de esta comparativa. Si preferís más respaldo de ventas y mejor rating, el **[Bertan Llave Corte](/producto/calefon-electrico-ducha-cable-pvc-20-litros-reforzado-llave-corte-tecla-bertan-mla68940150)**, sabiendo que la presión de su flor de ducha es baja según una reseña real. Si preferís el acero inoxidable, el **[Diluvio MAX](/producto/ducha-calentador-calefon-electrico-20-lts-acero-inox-diluvio-mlau197017324)**, con la salvedad honesta de las reseñas sobre óxido interno. Y si no vas a exigirle mucho caudal a la vez y podés hacer la instalación eléctrica dedicada que piden las reseñas (sobre todo del Oryx), un instantáneo sin tanque: el **[Euterma Hadron](/producto/calefon-electrico-euterma-digital-hadron-8-kw-tipo-atmor-mlau311032832)** es el más accesible, y el **[Oryx OR-W01](/producto/calefon-electrico-instantaneo-3-segund-8-8l-digital-diseno-negro-mla60443688)** el más completo.` },
+
+      { type: "h2", title: `Preguntas frecuentes`, id: "faq" },
+    ],
+    faq: [
+      { question: `¿Cuál es el mejor calefón eléctrico en Argentina?`, answer: `Depende del uso: para la mayoría, con tanque y el precio más bajo, el [LYL](/producto/calefon-electrico-ducha-pvc-20-litros-nivel-de-agua-mlau234621421). Para más respaldo de ventas y mejor rating, el [Bertan Llave Corte](/producto/calefon-electrico-ducha-cable-pvc-20-litros-reforzado-llave-corte-tecla-bertan-mla68940150). Para algo instantáneo y sin tanque, el [Oryx OR-W01](/producto/calefon-electrico-instantaneo-3-segund-8-8l-digital-diseno-negro-mla60443688) es el más completo.` },
+      { question: `¿Qué diferencia hay entre un calefón con tanque y uno instantáneo?`, answer: `El de tanque (como el LYL, el Bertan o el Diluvio MAX de esta guía) se carga con 20 litros antes de bañarse, y esa agua alcanza para una ducha. El instantáneo (como el Euterma o el Oryx) no almacena agua: la calienta al paso, con más potencia, pensado para abastecer más de un punto de la casa.` },
+      { question: `¿Qué diferencia hay entre un calefón eléctrico y una ducha eléctrica?`, answer: `La ducha eléctrica va integrada a la propia flor de ducha, sin tanque, y es la más chica y económica de las dos categorías. El calefón eléctrico de esta guía es un equipo aparte: con tanque chico de 20 litros, o instantáneo de mayor potencia pensado para abastecer más de un punto de la casa. Mirá nuestra [guía de duchas eléctricas](/guias/agua-caliente/ducha-electrica) para esa categoría.` },
+      { question: `¿Qué diferencia hay con un termotanque eléctrico?`, answer: `El termotanque eléctrico (ver nuestra [guía de termotanques](/guias/agua-caliente/termotanque-electrico)) tiene un tanque grande, de 40 a 85 litros, pensado para varias duchas seguidas sin esperar. El calefón eléctrico de esta guía, con tanque de solo 20 litros o instantáneo sin tanque, es una opción intermedia cuando no necesitás tanta capacidad o el espacio de instalación es más chico.` },
+      { question: `¿Los calefones instantáneos necesitan una instalación especial?`, answer: `El Oryx sí, confirmado por varias reseñas reales: un circuito eléctrico dedicado con cable de 6mm, no un enchufe compartido. Del Euterma ninguna reseña lo detalla, aunque por ser también un equipo de 8 kW es razonable esperar algo similar. En los dos casos conviene confirmarlo con un electricista matriculado antes de comprar.` },
+      { question: `¿Cuál es el calefón eléctrico más barato de esta guía?`, answer: `El [LYL](/producto/calefon-electrico-ducha-pvc-20-litros-nivel-de-agua-mlau234621421), a {{precio:MLAU234621421}}, con tanque de 20 litros.` },
+      { question: `¿Vale la pena el calefón de acero inoxidable?`, answer: `Según las reseñas reales del [Diluvio MAX](/producto/ducha-calentador-calefon-electrico-20-lts-acero-inox-diluvio-mlau197017324), no necesariamente: más de una reporta óxido en la resistencia interna a los 2-3 meses de uso, y una lo considera caro frente a un modelo plástico que cumple la misma función.` },
+    ],
+    internalLinks: [
+      { label: "Termotanque eléctrico: cuál comprar en Argentina", href: "/guias/agua-caliente/termotanque-electrico" },
+      { label: "Termotanque a gas: cuál comprar en Argentina", href: "/guias/agua-caliente/termotanque-a-gas" },
+      { label: "Ducha eléctrica: cuál comprar en Argentina", href: "/guias/agua-caliente/ducha-electrica" },
+      { label: "Estufa eléctrica de bajo consumo: cuál comprar", href: "/guias/climatizacion/estufa-electrica-bajo-consumo" },
       { label: "Caloventor: cuál comprar en Argentina", href: "/guias/climatizacion/caloventor" },
     ],
     internalLinksTitle: "Más para el agua caliente de tu casa",

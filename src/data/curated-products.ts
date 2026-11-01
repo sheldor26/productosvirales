@@ -113467,6 +113467,535 @@ Comprala si priorizás potencia y velocidad por sobre todo, y no te importa el p
 
 curatedProducts.push(...curatedProductsReemplazosOct31);
 
+// ─────────────────────────────────────────────────────────
+// Guía nueva calefón eléctrico — silo agua-caliente (junto a
+// termotanque-electrico y ducha-electrica). Origen: keywords-backlog
+// tanda 19, "calefón eléctrico" 22.200/mes en Keyword Planner, bloqueada
+// porque el catálogo solo tenía calefones a gas. Sourcing en vivo
+// 2026-11-01 (Chrome de Juan, ML bloquea el navegador interno).
+// 5 fichas: 3 con tanque chico (20L, se carga antes de bañarse) y 2
+// instantáneas sin tanque (alta potencia, requieren buena presión de
+// agua e instalación eléctrica dedicada, confirmado por reseñas reales).
+// ─────────────────────────────────────────────────────────
+const curatedProductsCalefonElectrico: Product[] = [
+  {
+    id: "MLAU234621421",
+    title: "Calefon Electrico Ducha Pvc 20 Litros Nivel De Agua",
+    canonicalName: "LYL Calefón Eléctrico 20L",
+    brand: "LYL",
+    price: 21000,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_851911-MLA117657045690_102026-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_851911-MLA117657045690_102026-F.webp",
+    ],
+    category: "Climatización",
+    categorySlug: "climatizacion",
+    permalink: "https://www.mercadolibre.com.ar/calefon-electrico-ducha-pvc-20-litros-nivel-de-agua/up/MLAU234621421",
+    affiliateUrl: "https://meli.la/1SEwAL7",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.5,
+    reviewCount: 4272,
+    pastelColor: "var(--pastel-green)",
+    specs: [
+      { label: "Marca", value: "LYL" },
+      { label: "Vendedor", value: "BERTAN, tienda oficial, +50 mil ventas" },
+      { label: "Potencia", value: "1,2 kW" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Capacidad", value: "20 litros (una ducha completa por carga)" },
+      { label: "Material", value: "Plástico (PVC)" },
+      { label: "Tipo", value: "Calefón eléctrico de ducha, con tanque" },
+      { label: "Ranking MercadoLibre", value: "MÁS VENDIDO, 2° en Eléctricos" },
+      { label: "Condición", value: "Nuevo" },
+      { label: "Envío", value: "Gratis (FULL)" },
+    ],
+    relatedProducts: ["MLA68940150", "MLAU197017324", "MLAU311032832", "MLA60443688"],
+    priceUpdated: "2026-11-01", priceLastChecked: "2026-11-01", priceStatus: "fresh", reviewsSampledAt: "2026-11-01",
+    description: "Calefón eléctrico LYL de PVC, tanque de 20 litros, 1,2 kW. El más barato de esta comparativa, con {{reviews:MLAU234621421}} opiniones a {{rating:MLAU234621421}} estrellas y la insignia MÁS VENDIDO, 2° en Eléctricos de MercadoLibre.",
+    seoTitle: "Calefón Eléctrico LYL 20L: el más barato, con tanque",
+    metaDescription: "Calefón eléctrico LYL, tanque de 20 litros, 1,2 kW. {{reviews:MLAU234621421}} opiniones a {{rating:MLAU234621421}} estrellas, el más barato de esta comparativa.",
+    verdict: "Es el calefón eléctrico más barato de esta comparativa, a {{precio:MLAU234621421}}, con tanque de 20 litros que alcanza para una ducha completa en una sola carga. Tiene la insignia MÁS VENDIDO, 2° en Eléctricos de MercadoLibre, con {{reviews:MLAU234621421}} calificaciones a {{rating:MLAU234621421}} estrellas. La salvedad honesta que confirman varias reseñas reales: algunos componentes plásticos (la tuerca de ajuste de la ducha y las arandelas de sellado) son de calidad floja y pueden empezar a perder agua con el uso.",
+    pros: [
+      "El más barato de esta comparativa",
+      "Tanque de 20 litros: alcanza agua para una ducha completa en una sola carga",
+      `{{reviews:MLAU234621421}} calificaciones a {{rating:MLAU234621421}} estrellas, MÁS VENDIDO 2° en Eléctricos de MercadoLibre`,
+      "Instalación simple según reseñas reales: se saca la ducha anterior y se coloca este calefón en su lugar",
+    ],
+    cons: [
+      "Varios compradores reportan componentes plásticos de calidad floja (tuerca de ajuste y arandelas de sellado) que pueden empezar a perder agua",
+      "Una reseña real avisa que la ficha no especifica el material de la resistencia: la de su unidad llegó de aluminio, no la variante que mostraba la foto del producto",
+      "Según una reseña real, el agua caliente alcanza para unos 10 minutos de ducha antes de que la presión empiece a bajar",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace más de 1 año", useful: 460, text: "Si sos pobre compralo, es lo que hay jaja." },
+      { rating: 5, country: "Argentina", date: "hace más de 1 año", useful: 167, text: "Voy a dar mi opinión para aquellos que están indecisos muy buen calefón para el precio más que sobrado las fichas encantarán bien los plásticos muy buenos y rápido al calentar ya lo probé y genial. Más que es un producto argentino muy bueno la verdad por el precio." },
+      { rating: 5, country: "Argentina", date: "hace más de 1 año", useful: 141, text: "De 10 como diegolll!!! cumple todos los principios basicos que debe cumplir este artilugio. Instalacian super facil, sacas la ducha y le pones esto y listo. Nada de atornillar o esas cosas, hace 1 mes lo uso y se la re aguanta. Tiempo de duracion para que caliente entre 15 a 20 minutos. Tiempo de ducha 10 minutos maximo. Los primeros 6 minutos sale flama flama y despues ya va goteando menos pero ahi ya sabes que tenes que meterle pata o sino te quedas con jabon." },
+      { rating: 2, country: "Argentina", date: "hace más de 1 año", useful: 1, text: "Algunos componentes plásticos son de muy mala calidad. La tuerca que ajusta la ducha propiamente dicho y las arandelas de fibra que hacen de sellado no cumplen con su función. La tuerca no ajusta, las arandelas se disolvieron, el artefacto comenzó a perder agua por el agujero de la ducha. Tuve que inventar reemplazos para las piezas que no anduvieron. Una lástima." },
+    ],
+    articleBody: `## Qué es el calefón eléctrico LYL
+
+Es un calefón eléctrico de PVC con tanque de 20 litros: se carga antes de bañarse y esa agua alcanza para una ducha completa. Cuesta {{precio:MLAU234621421}}, el más barato de esta comparativa, y lleva la insignia MÁS VENDIDO, 2° en la categoría Eléctricos de MercadoLibre.
+
+## Cuánto tarda en calentar
+
+Según una reseña real, el tanque tarda entre 15 y 20 minutos en calentar, y el agua caliente alcanza para unos 10 minutos de ducha antes de que la presión empiece a bajar. La instalación es simple: se saca la ducha anterior y se coloca este calefón en su lugar, sin necesidad de atornillar nada extra.
+
+## Las contras reales
+
+Varias reseñas coinciden en el mismo punto débil: algunos componentes plásticos (la tuerca que ajusta la ducha y las arandelas de fibra que hacen de sellado) son de calidad floja y pueden empezar a perder agua con el uso. Otra reseña real avisa que la ficha no especifica de qué material es la resistencia interna: la de su unidad llegó de aluminio, distinta a la que mostraba la foto del producto.
+
+## Para quién es, y para quién no
+
+Es para vos si buscás la opción más económica para resolver una ducha sin instalar un tanque grande ni gastar en un modelo instantáneo. Si preferís más respaldo de ventas y mejor rating, el [Bertan Llave Corte](/producto/calefon-electrico-ducha-cable-pvc-20-litros-reforzado-llave-corte-tecla-bertan-mla68940150) de esta comparativa es 1° en Eléctricos de MercadoLibre.
+
+## El veredicto
+
+El calefón eléctrico más barato de esta comparativa, con tanque de 20 litros y MÁS VENDIDO 2° en su categoría, con una contra real y repetida en las reseñas: algunos componentes plásticos son de calidad floja.`,
+    faq: [
+      { question: "¿Cuánto tarda en calentar el agua el calefón LYL?", answer: "Según una reseña real, entre 15 y 20 minutos, y el agua caliente alcanza para unos 10 minutos de ducha." },
+      { question: "¿Es fácil de instalar?", answer: "Sí, según reseñas reales: se saca la ducha anterior y se coloca este calefón en su lugar, sin necesidad de atornillar nada extra." },
+      { question: "¿Tiene algún problema de calidad conocido?", answer: "Varias reseñas reales reportan que algunos componentes plásticos (la tuerca de ajuste y las arandelas de sellado) son de calidad floja y pueden empezar a perder agua con el uso." },
+      { question: "¿Es el calefón eléctrico más barato de MercadoLibre?", answer: "Es el más barato de esta comparativa puntual, con la insignia MÁS VENDIDO, 2° en Eléctricos de MercadoLibre." },
+      { question: "¿Cuántos litros tiene el tanque?", answer: "20 litros, que según la ficha alcanzan para una ducha completa en una sola carga." },
+      { question: "¿Tiene envío gratis?", answer: "Sí, lo despacha la tienda oficial BERTAN por FULL con envío gratis." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "LYL Calefón Eléctrico 20L",
+      image: ["https://http2.mlstatic.com/D_NQ_NP_851911-MLA117657045690_102026-F.webp"],
+      description: "Calefón eléctrico LYL de PVC, tanque de 20 litros, 1,2 kW.",
+      brand: { "@type": "Brand", name: "LYL" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/calefon-electrico-ducha-pvc-20-litros-nivel-de-agua/up/MLAU234621421",
+        priceCurrency: "ARS",
+        price: "21000",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.5",
+        reviewCount: "4272",
+      },
+    },
+  },
+  {
+    id: "MLA68940150",
+    title: "Calefon Electrico Ducha Cable Pvc 20 Litros Reforzado Llave Corte Tecla - Bertan",
+    canonicalName: "Bertan Llave Corte Calefón Eléctrico 20L",
+    brand: "Bertan",
+    price: 45500,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_729324-MLA110167661176_042026-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_729324-MLA110167661176_042026-F.webp",
+    ],
+    category: "Climatización",
+    categorySlug: "climatizacion",
+    permalink: "https://www.mercadolibre.com.ar/calefon-electrico-ducha-cable-pvc-20-litros-reforzado-llave-corte-tecla-bertan/p/MLA68940150",
+    affiliateUrl: "https://meli.la/15NyonX",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 360,
+    pastelColor: "var(--pastel-blue)",
+    specs: [
+      { label: "Marca", value: "Bertan (tienda oficial)" },
+      { label: "Potencia", value: "1,2 kW" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Capacidad", value: "20 litros (una ducha completa por carga)" },
+      { label: "Visor de nivel de agua", value: "Sí, para monitorear el llenado manual" },
+      { label: "Caja eléctrica", value: "Con luz indicadora de funcionamiento" },
+      { label: "Kit de instalación", value: "Incluye buje de sujeción para pared" },
+      { label: "Estructura", value: "32 cm de alto, 33 cm de ancho, 24 cm de profundidad" },
+      { label: "Ranking MercadoLibre", value: "MÁS VENDIDO, 1° en Eléctricos" },
+      { label: "Condición", value: "Nuevo, +1000 vendidos" },
+    ],
+    relatedProducts: ["MLAU234621421", "MLAU197017324", "MLAU311032832", "MLA60443688"],
+    priceUpdated: "2026-11-01", priceLastChecked: "2026-11-01", priceStatus: "fresh", reviewsSampledAt: "2026-11-01",
+    description: "Calefón eléctrico Bertan Llave Corte, tanque de 20 litros, 1,2 kW. El más vendido de esta comparativa: MÁS VENDIDO 1° en Eléctricos de MercadoLibre, con {{reviews:MLA68940150}} opiniones a {{rating:MLA68940150}} estrellas.",
+    seoTitle: "Calefón Eléctrico Bertan Llave Corte: el más vendido",
+    metaDescription: "Calefón eléctrico Bertan Llave Corte, tanque de 20 litros. MÁS VENDIDO 1° en Eléctricos de MercadoLibre, {{reviews:MLA68940150}} opiniones a {{rating:MLA68940150}} estrellas.",
+    verdict: "Es el calefón eléctrico más vendido de esta comparativa: tiene la insignia MÁS VENDIDO, 1° en Eléctricos de MercadoLibre, con el mejor rating de todo el grupo ({{rating:MLA68940150}} estrellas en {{reviews:MLA68940150}} opiniones). Cuesta {{precio:MLA68940150}}, con tanque de 20 litros, visor de nivel de agua y buje de sujeción para pared incluido. La salvedad honesta: según una reseña real, la presión que descarga la flor de ducha es baja.",
+    pros: [
+      "El más vendido de esta comparativa: MÁS VENDIDO, 1° en Eléctricos de MercadoLibre",
+      `El mejor rating de esta comparativa: {{rating:MLA68940150}} estrellas en {{reviews:MLA68940150}} opiniones`,
+      "Trae visor de nivel de agua y buje de sujeción para pared incluido",
+      "Caja eléctrica con luz indicadora de funcionamiento",
+    ],
+    cons: [
+      "Según una reseña real, la presión que descarga la flor de ducha es baja",
+      "Es más del doble de precio que el LYL de esta comparativa, con la misma capacidad de tanque (20 litros)",
+    ],
+    customerReviews: [
+      { rating: 4, country: "Argentina", date: "hace 4 meses", useful: 9, text: "Presión: muy poca la que descarga la flor de la ducha, no le encuentro la falla. Temperatura: muy buen 3/4 tanque en aproximadamente 15 minutos." },
+      { rating: 5, country: "Argentina", date: "hace 1 mes", useful: 7, text: "Hace meses lo compré no calentó el cable nada. Es muy buena la calidad del producto. Muy satisfecha." },
+      { rating: 5, country: "Argentina", date: "hace 4 meses", useful: 4, text: "Presión: normal. Instalación: fácil. En mi caso me sirve bastante ya que el agua se calienta mejor que con una ducha eléctrica. Personalmente me parece bueno, veremos con el tiempo." },
+    ],
+    articleBody: `## Qué es el calefón eléctrico Bertan Llave Corte
+
+Es un calefón eléctrico de PVC con tanque de 20 litros y llave de corte integrada, de la tienda oficial Bertan. Cuesta {{precio:MLA68940150}} y es el más vendido de esta comparativa: tiene la insignia MÁS VENDIDO, 1° en la categoría Eléctricos de MercadoLibre.
+
+## El mejor rating de esta comparativa
+
+Con {{rating:MLA68940150}} estrellas en {{reviews:MLA68940150}} opiniones, es el mejor calificado de las 5 fichas de esta guía. Trae un visor de nivel de agua para monitorear el llenado manual, caja eléctrica con luz indicadora, y el kit incluye buje de sujeción para pared, pensado para esta estructura de 32 cm de alto, 33 cm de ancho y 24 cm de profundidad.
+
+## La contra real
+
+Según una reseña real con fecha de hace 4 meses, la presión que descarga la flor de ducha es baja, aunque la misma reseña destaca que calienta bien (3/4 del tanque en aproximadamente 15 minutos). Otra reseña real aclara que el cable nunca se calentó en varios meses de uso, un dato de seguridad relevante en un producto eléctrico.
+
+## Para quién es, y para quién no
+
+Es para vos si priorizás el respaldo de ventas y calificaciones por sobre el precio más bajo. Si buscás la opción más económica con la misma capacidad de tanque, el [LYL](/producto/calefon-electrico-ducha-pvc-20-litros-nivel-de-agua-mlau234621421) de esta comparativa cuesta menos de la mitad.
+
+## El veredicto
+
+El calefón eléctrico más vendido y mejor calificado de esta comparativa, con una contra real: la presión de la flor de ducha es baja según una reseña real, aunque la temperatura del agua no es un problema.`,
+    faq: [
+      { question: "¿Es el calefón eléctrico más vendido de MercadoLibre?", answer: "Es el más vendido de esta comparativa puntual, con la insignia MÁS VENDIDO, 1° en Eléctricos de MercadoLibre." },
+      { question: "¿La presión de agua es un problema?", answer: "Según una reseña real, la presión que descarga la flor de ducha es baja, aunque la misma reseña confirma que calienta bien." },
+      { question: "¿Trae visor de nivel de agua?", answer: "Sí, para monitorear el volumen restante durante el llenado manual del tanque." },
+      { question: "¿Qué incluye el kit de instalación?", answer: "Un buje de sujeción para pared y las conexiones necesarias, pensado para esta estructura de 32 cm de alto, 33 cm de ancho y 24 cm de profundidad." },
+      { question: "¿Es seguro el cable eléctrico?", answer: "Según una reseña real, el cable nunca se calentó en varios meses de uso." },
+      { question: "¿Cuántos litros tiene el tanque?", answer: "20 litros, que según la ficha alcanzan para una ducha completa en una sola carga." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Bertan Llave Corte Calefón Eléctrico 20L",
+      image: ["https://http2.mlstatic.com/D_NQ_NP_729324-MLA110167661176_042026-F.webp"],
+      description: "Calefón eléctrico Bertan Llave Corte, tanque de 20 litros, 1,2 kW.",
+      brand: { "@type": "Brand", name: "Bertan" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/calefon-electrico-ducha-cable-pvc-20-litros-reforzado-llave-corte-tecla-bertan/p/MLA68940150",
+        priceCurrency: "ARS",
+        price: "45500",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.7",
+        reviewCount: "360",
+      },
+    },
+  },
+  {
+    id: "MLAU197017324",
+    title: "Ducha Calentador Calefon Electrico 20 Lts Acero Inox Diluvio",
+    canonicalName: "Diluvio MAX Calefón Eléctrico Acero Inoxidable 20L",
+    brand: "Indelplas",
+    price: 89999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_850396-MLA40187660715_122019-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_850396-MLA40187660715_122019-F.webp",
+    ],
+    category: "Climatización",
+    categorySlug: "climatizacion",
+    permalink: "https://www.mercadolibre.com.ar/ducha-calentador-calefon-electrico-20-lts-acero-inox-diluvio/up/MLAU197017324",
+    affiliateUrl: "https://meli.la/2TBrEy4",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.6,
+    reviewCount: 92,
+    pastelColor: "var(--pastel-purple)",
+    specs: [
+      { label: "Marca", value: "Indelplas" },
+      { label: "Modelo", value: "Diluvio MAX" },
+      { label: "Vendedor", value: "Dario Hogar, tienda oficial, +10 mil ventas" },
+      { label: "Potencia", value: "1100 W" },
+      { label: "Capacidad", value: "20 litros" },
+      { label: "Material del tanque", value: "Acero inoxidable" },
+      { label: "Encendido", value: "Llave con luz indicadora" },
+      { label: "Seguridad", value: "Corte por bajo nivel de agua" },
+      { label: "Largo de cable", value: "1 metro" },
+      { label: "Origen", value: "Industria Argentina" },
+    ],
+    relatedProducts: ["MLAU234621421", "MLA68940150", "MLAU311032832", "MLA60443688"],
+    priceUpdated: "2026-11-01", priceLastChecked: "2026-11-01", priceStatus: "fresh", reviewsSampledAt: "2026-11-01",
+    description: "Calefón eléctrico Diluvio MAX (Indelplas), tanque de acero inoxidable de 20 litros, 1100 W. {{reviews:MLAU197017324}} opiniones a {{rating:MLAU197017324}} estrellas. Industria Argentina.",
+    seoTitle: "Calefón Eléctrico Diluvio MAX: acero inoxidable, 20L",
+    metaDescription: "Calefón eléctrico Diluvio MAX de acero inoxidable, 20 litros, 1100 W. {{reviews:MLAU197017324}} opiniones a {{rating:MLAU197017324}} estrellas, industria Argentina.",
+    verdict: "Es el único de esta comparativa con tanque de acero inoxidable (los otros dos modelos con tanque son de plástico), industria Argentina, a {{precio:MLAU197017324}}. {{reviews:MLAU197017324}} calificaciones a {{rating:MLAU197017324}} estrellas. La contra real, y relevante: pese al acero inoxidable, dos reseñas reales por separado reportan óxido en la resistencia interna (una a los 2-3 meses de uso, la otra describe el mecanismo exacto), y esa segunda reseña directamente dice que el precio es excesivo para lo que ofrece frente a un modelo plástico.",
+    pros: [
+      "El único de esta comparativa con tanque de acero inoxidable (los otros dos con tanque son de plástico)",
+      "Industria Argentina, con sello de normas estandarizadas",
+      "Corte de seguridad por bajo nivel de agua",
+      `{{reviews:MLAU197017324}} calificaciones a {{rating:MLAU197017324}} estrellas, vendido por tienda oficial con +10 mil ventas`,
+    ],
+    cons: [
+      "Pese al acero inoxidable, dos reseñas reales por separado reportan óxido en la resistencia interna: una a los 2-3 meses de uso, la otra explica que se oxida en la unión",
+      "Una reseña real describe el precio como excesivo frente a un modelo plástico que, según su experiencia, funciona igual",
+      "Es el más caro de los tres calefones con tanque de esta comparativa",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace 10 meses", useful: 5, text: "Le adapté la flor luego de conectarla al caño de la pared. Ahorramos $100.000 al mes en electricidad comparado con nuestro termotanque eléctrico y, al estar éste en serie, el termotanque sirve como calentamiento previo para cuando se bañan muchos y no quieren esperar 15 minutos a que vuelva a calentar." },
+      { rating: 3, country: "Argentina", date: "hace más de 1 año", useful: 1, text: "2/3 meses de uso y óxido en el interior. Materiales x mejorar." },
+      { rating: 3, country: "Argentina", date: "hace más de 1 año", useful: 1, text: "El duchador calienta y cumple su función, eso como lo positivo. Como lo negativo y varios puntos de mejora son los siguientes: la tapa de arriba no se quita toda, lo que hace que sea muy incómodo poner la rosca plástica al caño de la ducha. Si bien se ve que es de acero inoxidable (lo usé 3 veces) la resistencia que trae internamente para calentar el agua se oxida en la unión, lo que hace que quede ese óxido en el agua y al no tener tapón inferior siempre queda un remanente de agua que se oxida para luego mezclarse con la nueva y uno se ducha con esa agua. Como dije. Cumple su función pero puede mejorar el producto mucho más. Y el precio es excesivo por estos comentarios que realicé. Uno plástico funciona igual. Solo por estética sale más caro." },
+    ],
+    articleBody: `## Qué es el calefón eléctrico Diluvio MAX
+
+Es el único calefón eléctrico con tanque de esta comparativa hecho de acero inoxidable (los otros dos, LYL y Bertan, son de plástico), de 20 litros y 1100 W, marca Indelplas, modelo Diluvio MAX. Cuesta {{precio:MLAU197017324}}, industria Argentina, con corte de seguridad automático por bajo nivel de agua.
+
+## El acero inoxidable, puesto a prueba por las reseñas
+
+Acá es donde conviene frenar antes de comprar por el material: una reseña real reporta óxido en el interior a los 2-3 meses de uso. Otra reseña real, por separado, explica el mecanismo con más detalle: pese al acero inoxidable, la resistencia que calienta el agua se oxida en la unión, y al no tener tapón inferior, ese óxido se mezcla con el agua de cada carga nueva. Esa segunda reseña lo dice sin vueltas: "el precio es excesivo por estos comentarios que realicé, uno plástico funciona igual, solo por estética sale más caro".
+
+## Lo que si funciona bien
+
+Un comprador real que lo instaló en serie con su termotanque eléctrico reporta un ahorro de $100.000 por mes en electricidad, usando el calefón como calentamiento rápido y el termotanque como respaldo para cuando se bañan varias personas seguidas. La tapa superior, según una reseña real, es incómoda de sacar del todo al conectar la rosca plástica al caño de la ducha.
+
+## Para quién es, y para quién no
+
+Es para vos si preferís la estética del acero inoxidable y estás dispuesto a convivir con el problema de oxidación interna que reportan las reseñas, sin una forma real de evitarlo (no tiene tapón inferior para purgar el remanente). Si priorizás no pagar de más por un material que, según las reseñas, no cumple del todo su promesa, el [Bertan Llave Corte](/producto/calefon-electrico-ducha-cable-pvc-20-litros-reforzado-llave-corte-tecla-bertan-mla68940150) de esta comparativa es plástico, más barato y mejor calificado.
+
+## El veredicto
+
+El único con tanque de acero inoxidable de esta comparativa, con una contra real importante: pese al material, varias reseñas reportan óxido en la resistencia interna a los pocos meses de uso, y una lo considera caro para lo que ofrece.`,
+    faq: [
+      { question: "¿El tanque de acero inoxidable se oxida?", answer: "La carcasa exterior no, pero dos reseñas reales por separado reportan óxido en la resistencia interna (la pieza que calienta el agua): una a los 2-3 meses de uso, la otra explica que se oxida en la unión y, al no tener tapón inferior, ese óxido se mezcla con el agua de cada carga nueva." },
+      { question: "¿Vale la pena pagar más por el acero inoxidable?", answer: "Según una reseña real, no necesariamente: reporta que un modelo plástico cumple la misma función, y que el precio del Diluvio MAX es excesivo frente a eso." },
+      { question: "¿Es de industria Argentina?", answer: "Sí, la marca es Indelplas, fabricante argentino." },
+      { question: "¿Tiene corte de seguridad?", answer: "Sí, corte automático por bajo nivel de agua." },
+      { question: "¿Cuánto se puede ahorrar usándolo junto a un termotanque?", answer: "Un comprador real reporta un ahorro de $100.000 por mes en electricidad al usarlo en serie con su termotanque eléctrico como respaldo." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Diluvio MAX Calefón Eléctrico Acero Inoxidable 20L",
+      image: ["https://http2.mlstatic.com/D_NQ_NP_850396-MLA40187660715_122019-F.webp"],
+      description: "Calefón eléctrico Diluvio MAX, tanque de acero inoxidable de 20 litros, 1100 W.",
+      brand: { "@type": "Brand", name: "Indelplas" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/ducha-calentador-calefon-electrico-20-lts-acero-inox-diluvio/up/MLAU197017324",
+        priceCurrency: "ARS",
+        price: "89999",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.6",
+        reviewCount: "92",
+      },
+    },
+  },
+  {
+    id: "MLAU311032832",
+    title: "Calefón Eléctrico Euterma Digital Hadron 8 Kw - Tipo Atmor",
+    canonicalName: "Euterma Hadron 8kW Calefón Eléctrico Instantáneo",
+    brand: "Euterma",
+    price: 299000,
+    originalPrice: 405000,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_719051-MLA92217042275_092025-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_719051-MLA92217042275_092025-F.webp",
+    ],
+    category: "Climatización",
+    categorySlug: "climatizacion",
+    permalink: "https://www.mercadolibre.com.ar/calefon-electrico-euterma-digital-hadron-8-kw-tipo-atmor/up/MLAU311032832",
+    affiliateUrl: "https://meli.la/1rmJSZf",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.1,
+    reviewCount: 53,
+    pastelColor: "var(--pastel-amber)",
+    specs: [
+      { label: "Marca", value: "Euterma" },
+      { label: "Modelo", value: "Hadron 8kW" },
+      { label: "Vendedor", value: "Casa Somoza, especialistas en climatización desde 1976, San Justo, Bs. As." },
+      { label: "Tipo", value: "Instantáneo, sin tanque (calienta al paso)" },
+      { label: "Potencia", value: "8 kW" },
+      { label: "Control", value: "Digital, temperatura regulable (4 niveles frío + 3 agua caliente, confirmado por reseñas reales)" },
+      { label: "Garantía", value: "12 meses de fábrica" },
+    ],
+    relatedProducts: ["MLAU234621421", "MLA68940150", "MLAU197017324", "MLA60443688"],
+    priceUpdated: "2026-11-01", priceLastChecked: "2026-11-01", priceStatus: "fresh", reviewsSampledAt: "2026-11-01",
+    description: "Calefón eléctrico instantáneo Euterma Hadron, 8 kW, digital, sin tanque. El más accesible de los instantáneos de esta comparativa, {{reviews:MLAU311032832}} opiniones a {{rating:MLAU311032832}} estrellas.",
+    seoTitle: "Calefón Eléctrico Euterma Hadron 8kW: instantáneo",
+    metaDescription: "Calefón eléctrico instantáneo Euterma Hadron 8kW, sin tanque, digital. {{reviews:MLAU311032832}} opiniones a {{rating:MLAU311032832}} estrellas, de Casa Somoza.",
+    verdict: "Es el calefón eléctrico instantáneo más accesible de esta comparativa, a {{precio:MLAU311032832}}, 26% off sobre su precio de lista. No tiene tanque: calienta el agua al paso, con control digital de temperatura (4 niveles de frío y 3 de agua caliente, confirmado por una reseña real). {{reviews:MLAU311032832}} calificaciones a {{rating:MLAU311032832}} estrellas. La contra real, según su reseña más votada: el caudal de agua caliente es bajo si abrís mucho la canilla. Al ser un equipo de 8 kW, como todo instantáneo de alta potencia conviene confirmar con un electricista la instalación eléctrica antes de comprar; ninguna reseña de este modelo en particular detalla ese punto.",
+    pros: [
+      "El instantáneo más accesible de esta comparativa, 26% off sobre su precio de lista",
+      "Control digital con temperatura regulable (4 niveles de frío y 3 de agua caliente, confirmado por reseñas reales)",
+      "Vendido por Casa Somoza, especialistas en climatización desde 1976",
+      "No ocupa lugar de tanque: ideal cuando el espacio de instalación es limitado",
+    ],
+    cons: [
+      "Según su reseña más votada, el caudal de agua caliente es bajo si abrís mucho la canilla",
+      "Al ser un equipo de 8 kW, es esperable que necesite una instalación eléctrica robusta, pero ninguna reseña de este modelo lo detalla (sí lo confirman, para un equipo similar, las reseñas del Oryx de esta comparativa)",
+      "Rating más bajo de esta comparativa (4,1 estrellas)",
+    ],
+    customerReviews: [
+      { rating: 4, country: "Argentina", date: "hace 1 año", useful: 18, text: "Es de buena clidad. Solo otorga agua caliente con poco caudal. Si abris mucho la canilla, fuiste." },
+      { rating: 5, country: "Argentina", date: "hace más de 1 año", useful: 10, text: "Cumple la función perfectamente ,la funcion digital de 4 temperaturas frio + 3 para agua caliente funcionan ,creo que es un calefon practico y ahorrativo de energia." },
+      { rating: 4, country: "Argentina", date: "hace más de 1 año", useful: 10, text: "Bueno por ahora todavia no lo utilizo completamente. Solo lo probe, la instalacion fue facil." },
+      { rating: 5, country: "Argentina", date: "hace más de 1 año", useful: 8, text: "Instalado cerca de las canillas o ducha a utilizar, funciona perfecto." },
+    ],
+    articleBody: `## Qué es el calefón eléctrico Euterma Hadron
+
+A diferencia de los tres anteriores de esta comparativa, el Euterma Hadron no tiene tanque: calienta el agua al paso, de forma instantánea, con 8 kW de potencia y control digital. Cuesta {{precio:MLAU311032832}}, 26% off sobre su precio de lista, y lo vende Casa Somoza, especialistas en climatización desde 1976.
+
+## Cómo funciona el control digital
+
+Una reseña real confirma que la función digital de 4 temperaturas de frío más 3 de agua caliente funciona bien, y lo describe como "práctico y ahorrativo de energía". Es un dato valioso porque la ficha del vendedor no detalla esa función con precisión.
+
+## La contra real: el caudal baja si abrís mucho la canilla
+
+La reseña más votada de esta ficha lo resume así: "es de buena calidad, solo otorga agua caliente con poco caudal, si abrís mucho la canilla, fuiste". Es la contra real de este modelo puntual. Sobre la instalación eléctrica, ninguna reseña de este Euterma la detalla; al ser un equipo de 8 kW, es razonable esperar que necesite un circuito dedicado (como confirman, con datos concretos, las reseñas del [Oryx OR-W01](/producto/calefon-electrico-instantaneo-3-segund-8-8l-digital-diseno-negro-mla60443688) de esta misma comparativa, un equipo del mismo tipo), pero conviene confirmarlo con un electricista antes de comprar en vez de asumirlo.
+
+## Para quién es, y para quién no
+
+Es para vos si buscás la opción instantánea más accesible y no vas a exigirle demasiado caudal a la vez. Si buscás más funciones y una ficha técnica más detallada declarada por el vendedor, el [Oryx OR-W01](/producto/calefon-electrico-instantaneo-3-segund-8-8l-digital-diseno-negro-mla60443688) de esta comparativa es más completo, a mayor precio.
+
+## El veredicto
+
+El calefón eléctrico instantáneo más accesible de esta comparativa, con control digital real, pero con una contra real que confirma su reseña más votada: el caudal de agua caliente baja si abrís mucho la canilla.`,
+    faq: [
+      { question: "¿El Euterma Hadron tiene tanque?", answer: "No, es instantáneo: calienta el agua al paso, sin almacenarla." },
+      { question: "¿El caudal es un problema?", answer: "Según su reseña más votada, sí: otorga agua caliente con poco caudal, y si abrís mucho la canilla, no da abasto." },
+      { question: "¿Qué instalación eléctrica necesita?", answer: "Ninguna reseña de este modelo lo detalla. Al ser un equipo de 8 kW, es razonable esperar que necesite un circuito eléctrico dedicado, como sí confirman las reseñas del Oryx OR-W01 de esta comparativa (un equipo similar); conviene confirmarlo con un electricista antes de comprar." },
+      { question: "¿Tiene control de temperatura?", answer: "Sí, digital, con 4 niveles de frío y 3 de agua caliente, confirmado por una reseña real." },
+      { question: "¿Quién lo vende?", answer: "Casa Somoza, especialistas en climatización con trayectoria desde 1976, con sede en San Justo, Buenos Aires." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Euterma Hadron 8kW Calefón Eléctrico Instantáneo",
+      image: ["https://http2.mlstatic.com/D_NQ_NP_719051-MLA92217042275_092025-F.webp"],
+      description: "Calefón eléctrico instantáneo Euterma Hadron, 8 kW, digital, sin tanque.",
+      brand: { "@type": "Brand", name: "Euterma" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/calefon-electrico-euterma-digital-hadron-8-kw-tipo-atmor/up/MLAU311032832",
+        priceCurrency: "ARS",
+        price: "299000",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.1",
+        reviewCount: "53",
+      },
+    },
+  },
+  {
+    id: "MLA60443688",
+    title: "Calefon Electrico Instantaneo 3 Segund 8,8l Digital Diseño Negro",
+    canonicalName: "Oryx OR-W01 Calefón Eléctrico Instantáneo Digital",
+    brand: "Oryx",
+    price: 448200,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_706596-MLA99448831106_112025-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_706596-MLA99448831106_112025-F.webp",
+    ],
+    category: "Climatización",
+    categorySlug: "climatizacion",
+    permalink: "https://www.mercadolibre.com.ar/calefon-electrico-instantaneo-3-segund-88l-digital-diseno-negro/p/MLA60443688",
+    affiliateUrl: "https://meli.la/1SirhN6",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.3,
+    reviewCount: 199,
+    pastelColor: "var(--pastel-coral)",
+    specs: [
+      { label: "Marca", value: "Oryx" },
+      { label: "Modelo", value: "OR-W01" },
+      { label: "Línea", value: "Calentador de agua" },
+      { label: "Vendedor", value: "BMS Store, tienda oficial, +10 mil ventas" },
+      { label: "Tipo de alimentación", value: "Corriente doméstica" },
+      { label: "Color", value: "Negro" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Potencia", value: "8,8 kW" },
+      { label: "Tiempo de calentamiento", value: "8,8 l/min" },
+      { label: "Tipo de encendido", value: "Ionizado" },
+      { label: "Tipo de control", value: "Táctil" },
+      { label: "Eficiencia energética Argentina", value: "A" },
+      { label: "Sin llama piloto", value: "Sí" },
+      { label: "Con pantalla", value: "Sí" },
+      { label: "Dimensiones", value: "47 cm alto x 27 cm ancho x 5 cm profundidad" },
+      { label: "Ranking MercadoLibre", value: "MÁS VENDIDO, 11° en Calefones" },
+    ],
+    relatedProducts: ["MLAU234621421", "MLA68940150", "MLAU197017324", "MLAU311032832"],
+    priceUpdated: "2026-11-01", priceLastChecked: "2026-11-01", priceStatus: "fresh", reviewsSampledAt: "2026-11-01",
+    description: "Calefón eléctrico instantáneo Oryx OR-W01, 8,8 kW, digital, control táctil, eficiencia energética A. El más completo de esta comparativa, {{reviews:MLA60443688}} opiniones a {{rating:MLA60443688}} estrellas.",
+    seoTitle: "Calefón Eléctrico Oryx OR-W01: el más completo",
+    metaDescription: "Calefón eléctrico instantáneo Oryx OR-W01, 8,8 kW, control táctil, eficiencia A. {{reviews:MLA60443688}} opiniones a {{rating:MLA60443688}} estrellas, el más completo de esta comparativa.",
+    verdict: "Es el calefón eléctrico más completo de esta comparativa: 8,8 kW, control táctil, eficiencia energética categoría A, encendido ionizado y pantalla digital, con la ficha técnica más detallada de las 5 fichas de esta guía. Cuesta {{precio:MLA60443688}}, el más caro, a {{rating:MLA60443688}} estrellas en {{reviews:MLA60443688}} opiniones. La contra real, confirmada por varias reseñas independientes: necesita instalación eléctrica dedicada con cable de 6mm, y según su reseña más votada, el caudal puede no llegar bien a canillas alejadas del equipo incluso con buena presión de agua en la casa.",
+    pros: [
+      "La ficha técnica más completa de esta comparativa: 13 specs reales declaradas (potencia, l/min, encendido, control, eficiencia)",
+      "Eficiencia energética categoría A (la más alta posible)",
+      "MÁS VENDIDO, 11° en la categoría Calefones de MercadoLibre",
+      "No ocupa lugar de tanque: ideal cuando el espacio de instalación es limitado",
+    ],
+    cons: [
+      "El más caro de esta comparativa por lejos",
+      "Según su reseña más votada (121 votos útiles), con la casa teniendo buena presión de agua el equipo igual no entregaba caudal a una bacha a dos metros de distancia; el comprador consultó si una bomba presurizadora podía resolverlo, sin confirmación de si funcionó",
+      "Necesita instalación eléctrica dedicada con cable de 6mm y disyuntor propio (20 o 40 amperes, según el caso), confirmado por varias reseñas reales",
+    ],
+    customerReviews: [
+      { rating: 4, country: "Argentina", date: "hace 4 meses", useful: 121, text: "Hola buenas noches yo compré este producto calentador de agua instantáneo marca oryx llegó todo bien el tema x el que te escribo es x q no da presión te comento q la casa cuenta con una presión de agua muy adecuada mi consulta es si se le puede conectar una bomba presurizadora en caso que no se pueda conectar una bomba presurizadora tendré q devolverlo ya q el agua no sale ni en la bacha q está a dos metros del equipo. Espero respuesta desde ya muchas gracias." },
+      { rating: 5, country: "Argentina", date: "hace 4 meses", useful: 54, text: "Anda muy bien lo q si respetar el cable de 6 y una instalación aparte derecho al pilar. Ya q consume 30 amp a 47 grados pero con eso te sobra para bañarte." },
+      { rating: 4, country: "Argentina", date: "hace 11 meses", useful: 39, text: "Vivimos en un depto y abastece bien caliente el agua en la cocina donde lo instalamos y llega bien a la ducha del baño poniendolo en temperatura al maximo 55°, prende al toque y se apaga al cerrar el grigo, tuvimos que conectarlo a una termina de 40 amperes con los cables que corresponden, esteticamente es precioso!!!!." },
+      { rating: 5, country: "Argentina", date: "hace 10 meses", useful: 37, text: "Exelente producto, lo único que hay que tener presente al momento de adquirirlo, es saber que se deberá cambiar l ainstacion electrica para su alimentación y poner cable de 6mm con disyuntor de 20, en el manual lo dice. Una vez hecha la instalacion correctamente, el producto es exelente." },
+    ],
+    articleBody: `## Qué es el calefón eléctrico Oryx OR-W01
+
+Es el calefón eléctrico más completo de esta comparativa: instantáneo, sin tanque, 8,8 kW, con la ficha técnica más detallada de las 5 (13 specs reales declaradas por el vendedor). Cuesta {{precio:MLA60443688}}, el más caro, y lo vende BMS Store, tienda oficial con más de 10 mil ventas. Tiene la insignia MÁS VENDIDO, 11° en la categoría Calefones de MercadoLibre.
+
+## Lo que lo diferencia: ficha técnica real, no solo marketing
+
+A diferencia de los otros calefones instantáneos de esta comparativa, su ficha declara datos concretos y verificables: 8,8 litros por minuto de calentamiento, encendido ionizado, control táctil, eficiencia energética categoría A (la más alta posible en Argentina) y pantalla digital. Mide 47 x 27 x 5 cm.
+
+## La contra real: cable de 6mm obligatorio, y caudal a distancia
+
+Dos reseñas reales distintas coinciden en que hace falta cable de 6mm, con un disyuntor propio de 20 o 40 amperes según el caso, conectado directo al tablero y no a un enchufe compartido, para que funcione bien. Aparte, la reseña más votada de esta ficha (121 votos útiles) cuenta algo más puntual: pese a que su casa tenía, según sus palabras, "una presión de agua muy adecuada", el equipo igual no le entregaba agua a una bacha a dos metros de distancia, y consultó si una bomba presurizadora podía resolverlo (no encontramos confirmación de si funcionó). No es necesariamente un problema de presión de la red: puede ser una limitación del propio equipo para mantener caudal a distancia.
+
+## Para quién es, y para quién no
+
+Es para vos si podés hacer la instalación eléctrica dedicada que piden las reseñas, y buscás la ficha técnica más completa de esta comparativa. Si preferís una opción instantánea más barata y te alcanza con menos funciones declaradas, el [Euterma Hadron](/producto/calefon-electrico-euterma-digital-hadron-8-kw-tipo-atmor-mlau311032832) de esta comparativa cuesta bastante menos.
+
+## El veredicto
+
+El calefón eléctrico más completo y con la ficha técnica más rica de esta comparativa, al precio más alto, con dos contras reales confirmadas por varias reseñas independientes: necesita instalación eléctrica dedicada con cable de 6mm, y el caudal puede no llegar bien a puntos alejados del equipo.`,
+    faq: [
+      { question: "¿Qué instalación eléctrica necesita el Oryx OR-W01?", answer: "Según varias reseñas reales, un circuito dedicado con cable de 6mm y disyuntor propio (20 o 40 amperes según el caso), conectado directo al tablero y no a un enchufe compartido." },
+      { question: "¿Necesita buena presión de agua?", answer: "Según su reseña más votada (121 votos útiles), el comprador tenía buena presión de agua en su casa y aun así el equipo no le entregaba caudal a una bacha a dos metros de distancia; consultó si una bomba presurizadora podía resolverlo, sin confirmación de si funcionó." },
+      { question: "¿Qué eficiencia energética tiene?", answer: "Categoría A, la más alta posible en Argentina para este tipo de producto." },
+      { question: "¿Tiene control táctil?", answer: "Sí, con pantalla digital y encendido ionizado." },
+      { question: "¿Cuánto calienta por minuto?", answer: "8,8 litros por minuto, según la ficha técnica declarada por el vendedor." },
+      { question: "¿Es el calefón eléctrico más caro de esta comparativa?", answer: "Sí, es el más caro de las 5 fichas, pero también el que trae la ficha técnica más completa." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Oryx OR-W01 Calefón Eléctrico Instantáneo Digital",
+      image: ["https://http2.mlstatic.com/D_NQ_NP_706596-MLA99448831106_112025-F.webp"],
+      description: "Calefón eléctrico instantáneo Oryx OR-W01, 8,8 kW, digital, control táctil, eficiencia energética A.",
+      brand: { "@type": "Brand", name: "Oryx" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/calefon-electrico-instantaneo-3-segund-88l-digital-diseno-negro/p/MLA60443688",
+        priceCurrency: "ARS",
+        price: "448200",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.3",
+        reviewCount: "199",
+      },
+    },
+  },
+];
+
+curatedProducts.push(...curatedProductsCalefonElectrico);
+
 export const categoryPastels: Record<string, string> = {
   cocina: 'var(--pastel-coral)',
   hogar: 'var(--pastel-amber)',
