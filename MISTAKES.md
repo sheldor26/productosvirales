@@ -16,6 +16,16 @@
 **Archivos involucrados:** `path/a/archivo.ts`
 -->
 
+## 2026-11-02 — Una ficha tenía el `reviewCount` correcto pero la prosa citaba un número viejo a mano, y nadie lo chequeó hasta hoy
+
+**Qué pasó:** en la ficha del Waterdog Ombu (`curated-products.ts`), el campo `reviewCount` ya decía 10.322 desde antes de esta sesión, pero cons, verdict, articleBody (x2) y una FAQ seguían diciendo "58 calificaciones, la base de opiniones más chica de esta guía" — un número que nunca estuvo cerca del campo estructurado y que además ya era falso antes de hoy (10.322 era más que el Lüsqtoff y el Stanley de ese momento).
+
+**Por qué:** en algún momento se actualizó el campo `reviewCount` (probablemente un script de precios/reseñas) pero nadie re-revisó la prosa que lo citaba a mano con un número distinto. El chequeo automático `check-hardcoded-reviews.cjs` solo mide si SUBE la cantidad de menciones hardcodeadas, no si una mención hardcodeada existente quedó desincronizada del campo real.
+
+**Cómo evitarlo:** al refrescar cualquier producto, además de actualizar `reviewCount`, grepear el propio `id` del producto dentro de su ficha buscando números sueltos en la prosa (cons, verdict, articleBody, faq) y confirmar que coincidan con el campo estructurado, no solo con lo que se acaba de verificar en vivo. Mejor todavía: preferir siempre el token `{{reviews:ID}}` en vez de escribir el número a mano, que es justamente lo que previene este tipo de desincronización.
+
+**Archivos involucrados:** `src/data/curated-products.ts` (ficha MLA19856080)
+
 ## 2026-11-02 — Sumar un producto nuevo a una guía rompió un claim de superlativo ("el más caro") en otro producto ya existente
 
 **Qué pasó:** al refrescar `smartwatch`, actualicé el Amazfit Bip 6 (link muerto, swap de catálogo). La ficha del Amazfit afirmaba en 3 lugares distintos "es el más caro de esta comparativa" / "ninguna de esta guía tiene NFC" — afirmaciones que eran ciertas cuando se escribieron, pero que el Samsung Galaxy Watch7 (agregado a la guía en una sesión anterior, a $530.000) ya había vuelto falsas. Nadie había vuelto a revisar los claims de superlativo del Amazfit después de que el Samsung entrara al ranking. El trío auditor lo atrapó (incluida la contradicción real de NFC), no yo.

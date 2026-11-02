@@ -70431,8 +70431,7 @@ Comprá la Ultracomb YG-2712V si priorizás la mayor cantidad de frascos y una p
     id: "MLA19761025",
     title: "Termo Stanley Original Mate System Classic 1.2 Litros",
     canonicalName: "Termo Stanley Mate System Classic 1,2L",
-    price: 98000,
-    originalPrice: 160000,
+    price: 92039,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_Q_NP_890141-MLA113708481777_062026-F.webp",
     images: [
@@ -70446,7 +70445,7 @@ Comprá la Ultracomb YG-2712V si priorizás la mayor cantidad de frascos y una p
     condition: "new",
     freeShipping: true,
     rating: 4.8,
-    reviewCount: 7551,
+    reviewCount: 7885,
     soldQuantity: 500,
     pastelColor: "var(--pastel-blue)",
     visibility: "normal",
@@ -70469,10 +70468,10 @@ Comprá la Ultracomb YG-2712V si priorizás la mayor cantidad de frascos y una p
       { label: "Garantía", value: "De por vida, declarada por el vendedor" },
     ],
     relatedProducts: ["MLA15297106", "MLA19589790", "MLA19856080"],
-    priceUpdated: "2026-10-12",
-    priceLastChecked: "2026-10-12",
+    priceUpdated: "2026-11-02",
+    priceLastChecked: "2026-11-02",
     priceStatus: "fresh",
-    reviewsSampledAt: "2026-07-16",
+    reviewsSampledAt: "2026-11-02",
     description: "Termo Stanley Original Mate System Classic 1,2 litros: la marca de mayor reconocimiento global de esta categoría, con 4.8 estrellas en {{reviews:MLA19761025}} calificaciones. Tapón cebador integrado y garantía de por vida.",
     seoTitle: "Termo Stanley Mate System: el más elegido, ¿vale el precio?",
     metaDescription: "Termo Stanley Original Mate System Classic 1,2L: tapón cebador integrado, garantía de por vida. Precio real y opiniones verificadas.",
@@ -70492,7 +70491,7 @@ Comprá la Ultracomb YG-2712V si priorizás la mayor cantidad de frascos y una p
     ],
     articleBody: `## Qué es y para quién
 
-El Stanley Original Mate System Classic 1,2 litros es el termo más reconocido de Argentina para cebar mate: acero inoxidable 18/8, con un tapón cebador integrado de alta precisión pensado específicamente para esa función, y una tapa de doble pared que funciona como mate o vaso. Tiene {{reviews:MLA19761025}} calificaciones reales y el puesto #1 en la categoría Termos de MercadoLibre, aunque el Lumilagro de esta guía junta más respaldo total (26.780 calificaciones).
+El Stanley Original Mate System Classic 1,2 litros es el termo más reconocido de Argentina para cebar mate: acero inoxidable 18/8, con un tapón cebador integrado de alta precisión pensado específicamente para esa función, y una tapa de doble pared que funciona como mate o vaso. Tiene {{reviews:MLA19761025}} calificaciones reales y el puesto #1 en la categoría Termos de MercadoLibre, aunque el Lumilagro de esta guía junta más respaldo total ({{reviews:MLA15297106}} calificaciones).
 
 ## Cómo funciona
 
@@ -70536,7 +70535,7 @@ Comprá el Stanley si el precio no es tu prioridad y valorás el tapón cebador 
     id: "MLA15297106",
     title: "Termo Lumilagro de acero inoxidable Luminox 1 litro pico matero Bala",
     canonicalName: "Termo Lumilagro Luminox 1L",
-    price: 54560,
+    price: 56000,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_Q_NP_722833-MLA99475133414_112025-F.webp",
     images: [
@@ -70550,7 +70549,7 @@ Comprá el Stanley si el precio no es tu prioridad y valorás el tapón cebador 
     condition: "new",
     freeShipping: true,
     rating: 4.7,
-    reviewCount: 31479,
+    reviewCount: 27909,
     soldQuantity: 100000,
     pastelColor: "var(--pastel-green)",
     visibility: "normal",
@@ -70572,10 +70571,10 @@ Comprá el Stanley si el precio no es tu prioridad y valorás el tapón cebador 
       { label: "Conservación", value: "Fría hasta 9 horas, caliente hasta 12 horas" },
     ],
     relatedProducts: ["MLA19761025", "MLA19589790", "MLA19856080"],
-    priceUpdated: "2026-10-09",
-    priceLastChecked: "2026-10-12",
+    priceUpdated: "2026-11-02",
+    priceLastChecked: "2026-11-02",
     priceStatus: "fresh",
-    reviewsSampledAt: "2026-07-16",
+    reviewsSampledAt: "2026-11-02",
     description: "Termo Lumilagro Luminox 1 litro: el más calificado de Argentina en esta categoría, con 4.7 estrellas en {{reviews:MLA15297106}} calificaciones. Pico cebador multidireccional, marca argentina con 80 años en el mercado.",
     seoTitle: "Termo Lumilagro Luminox: el más calificado, ¿vale la pena?",
     metaDescription: "Termo Lumilagro Luminox 1L: {{reviews:MLA15297106}} calificaciones, pico cebador multidireccional. Precio real y opiniones verificadas.",
@@ -70590,7 +70589,7 @@ Comprá el Stanley si el precio no es tu prioridad y valorás el tapón cebador 
       "Sin manija, a diferencia del Stanley y el Waterdog de esta guía",
       "La pintura se raya con el uso, según más de una reseña",
       "La duración real de la temperatura para tomar mate cómodo ronda las 6-8 horas, no las 24 horas que algunos compradores esperan de entrada",
-      "Antes del primer uso conviene dejar salir el agua sobrante en el fregadero, no directo sobre la mano, según una reseña",
+      "Antes del primer uso conviene dejar salir el agua sobrante en la pileta, no directo sobre la mano, según una reseña",
     ],
     articleBody: `## Qué es y para quién
 
@@ -70602,7 +70601,7 @@ El pico cebador multidireccional con sistema antigoteo permite cebar sin desceba
 
 ## La contra real
 
-Varias reseñas coinciden en dos puntos: la pintura del exterior se raya con el uso normal, y la duración real de la temperatura ideal para cebar mate ronda las 6-8 horas, no las 24 horas o más que algunos compradores esperan de la categoría en general (el termo sigue "tibio" bastante más tiempo, pero para un mate rico conviene recalentar después de ese lapso). Una reseña también recomienda, antes del primer uso, dejar salir el agua sobrante del pico sobre el fregadero y no directo sobre la mano, porque puede salpicar.
+Varias reseñas coinciden en dos puntos: la pintura del exterior se raya con el uso normal, y la duración real de la temperatura ideal para cebar mate ronda las 6-8 horas, no las 24 horas o más que algunos compradores esperan de la categoría en general (el termo sigue "tibio" bastante más tiempo, pero para un mate rico conviene recalentar después de ese lapso). Una reseña también recomienda, antes del primer uso, dejar salir el agua sobrante del pico sobre la pileta y no directo sobre la mano, porque puede salpicar.
 
 ## Cómo se compara con los otros de esta guía
 
@@ -70630,7 +70629,7 @@ Comprá el Lumilagro Luminox si buscás el termo con más respaldo de compradore
       },
       {
         question: "¿Hay que hacer algo especial antes del primer uso?",
-        answer: "Una reseña recomienda dejar salir el agua sobrante del pico sobre el fregadero (no sobre la mano) las primeras veces, porque puede salpicar un poco de aire junto con el agua.",
+        answer: "Una reseña recomienda dejar salir el agua sobrante del pico sobre la pileta (no sobre la mano) las primeras veces, porque puede salpicar un poco de aire junto con el agua.",
       },
     ],
   },
@@ -70638,8 +70637,8 @@ Comprá el Lumilagro Luminox si buscás el termo con más respaldo de compradore
     id: "MLA19589790",
     title: "Termo Acero Inoxidable Lusqtoff TL1-9 Clásico De 1 Litro Frio/calor",
     canonicalName: "Termo Lüsqtoff TL1-9 1L",
-    price: 48979,
-    originalPrice: 69374,
+    price: 45000,
+    originalPrice: 49999,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_Q_NP_939184-MLA108433443685_032026-F.webp",
     images: [
@@ -70653,7 +70652,7 @@ Comprá el Lumilagro Luminox si buscás el termo con más respaldo de compradore
     condition: "new",
     freeShipping: true,
     rating: 4.7,
-    reviewCount: 7427,
+    reviewCount: 7717,
     soldQuantity: 10000,
     pastelColor: "var(--pastel-purple)",
     visibility: "normal",
@@ -70676,14 +70675,14 @@ Comprá el Lumilagro Luminox si buscás el termo con más respaldo de compradore
       { label: "Conservación", value: "Fría hasta 20 horas, caliente hasta 20 horas" },
     ],
     relatedProducts: ["MLA19761025", "MLA15297106", "MLA19856080"],
-    priceUpdated: "2026-10-12",
-    priceLastChecked: "2026-10-12",
+    priceUpdated: "2026-11-02",
+    priceLastChecked: "2026-11-02",
     priceStatus: "fresh",
-    reviewsSampledAt: "2026-07-16",
+    reviewsSampledAt: "2026-11-02",
     description: "Termo Lüsqtoff TL1-9 1 litro: el más equipado en funciones de esta guía (antigoteo, antideslizante, pico multidireccional). 4.7 estrellas en {{reviews:MLA19589790}} calificaciones.",
     seoTitle: "Termo Lüsqtoff TL1-9: el más completo en funciones",
     metaDescription: "Termo Lüsqtoff TL1-9 1L: antigoteo, antideslizante, pico multidireccional. Precio real y opiniones verificadas.",
-    verdict: "Sirve si buscás el termo con más funciones juntas de esta guía (antigoteo, antideslizante, pico multidireccional, manija) a un precio intermedio: {{reviews:MLA19589790}} calificaciones lo respaldan, con pruebas caseras de temperatura que confirman buen rendimiento. Un aviso: la ficha de MercadoLibre etiqueta el modelo como 'TL1-9N', que es el código de una variante negra discontinuada por el fabricante, pero el termo que estás comprando (verde, TL1-9) sigue activo y con miles de ventas, así que probablemente sea solo un error de carga de datos de ML. Fijate en el precio final, no en el 25% de descuento del cartel.",
+    verdict: "Sirve si buscás el termo con más funciones juntas de esta guía (antigoteo, antideslizante, pico multidireccional, manija) a un precio intermedio: {{reviews:MLA19589790}} calificaciones lo respaldan, con pruebas caseras de temperatura que confirman buen rendimiento. Un aviso: la ficha de MercadoLibre etiqueta el modelo como 'TL1-9N', que es el código de una variante negra discontinuada por el fabricante, pero el termo que estás comprando (verde, TL1-9) sigue activo y con miles de ventas, así que probablemente sea solo un error de carga de datos de ML. Fijate siempre en el precio final: el cartel de descuento de esta publicación viene cambiando bastante con el tiempo.",
     pros: [
       "El más equipado de esta guía en funciones: manija, antigoteo, superficie antideslizante y pico multidireccional, todo junto",
       "4.7 estrellas en {{reviews:MLA19589790}} calificaciones, #1 en Termos Lüsqtoff",
@@ -70691,7 +70690,7 @@ Comprá el Lumilagro Luminox si buscás el termo con más respaldo de compradore
       "Reseñas lo comparan favorablemente contra el Stanley",
     ],
     cons: [
-      "El precio de lista tiene un descuento inflado (25% off desde $69.374): mirá el precio final, no el cartel",
+      "El precio de lista y el porcentaje de descuento del cartel cambiaron varias veces en esta publicación: mirá siempre el precio final, no el cartel",
       "La ficha técnica de MercadoLibre etiqueta el 'Modelo' como TL1-9N, el código de una variante negra que el fabricante marca como discontinuada en su sitio oficial",
       "Una reseña marca que la tapa es 'media dura' de abrir, aunque aclara que no afecta el funcionamiento",
       "Ficha técnica dice 'Con vacío interno: No', a diferencia de los otros 3 termos de esta guía",
@@ -70706,7 +70705,7 @@ El pico multidireccional con sistema antigoteo permite cebar sin pérdidas, y la
 
 ## La contra real
 
-Hay un detalle a aclarar: la ficha técnica de MercadoLibre etiqueta el atributo "Modelo" de esta variante Verde como "TL1-9N", que es el código exacto de la variante Negra que el fabricante marca como discontinuada en su sitio oficial (lusqtoff.com.ar). Esto genera confusión, pero todo indica que es un error de carga de atributos de MercadoLibre (que a veces comparte una misma ficha técnica entre variantes de color de un mismo modelo base), no que el producto esté discontinuado: la publicación está activa, con más de 10.000 vendidos y {{reviews:MLA19589790}} calificaciones recientes. Aparte de esto, el cartel de descuento (25% off desde $69.374) es otro precio de lista inflado típico de la categoría: lo que importa es el precio final. Una reseña también marca que la tapa es "media dura" de abrir, aunque aclara que es un detalle menor que no afecta el rendimiento.
+Hay un detalle a aclarar: la ficha técnica de MercadoLibre etiqueta el atributo "Modelo" de esta variante Verde como "TL1-9N", que es el código exacto de la variante Negra que el fabricante marca como discontinuada en su sitio oficial (lusqtoff.com.ar). Esto genera confusión, pero todo indica que es un error de carga de atributos de MercadoLibre (que a veces comparte una misma ficha técnica entre variantes de color de un mismo modelo base), no que el producto esté discontinuado: la publicación está activa, con más de 10.000 vendidos y {{reviews:MLA19589790}} calificaciones recientes. Aparte de esto, el cartel de descuento de esta publicación cambió varias veces (llegó a mostrar 25% off desde un precio de lista de $69.374, un precio de lista inflado típico de la categoría; a principios de noviembre de 2026 mostraba un 9% off desde $49.999, un descuento más realista): en cualquier caso, lo que importa es el precio final, no el cartel. Una reseña también marca que la tapa es "media dura" de abrir, aunque aclara que es un detalle menor que no afecta el rendimiento.
 
 ## Cómo se compara con los otros de esta guía
 
@@ -70729,8 +70728,8 @@ Comprá el Lüsqtoff TL1-9 si buscás el termo con más funciones juntas de esta
         answer: "Sí, junto con pico multidireccional y base antideslizante: es el termo más equipado en funciones de esta guía.",
       },
       {
-        question: "¿Por qué el descuento es del 25%?",
-        answer: "Es un precio de lista inflado típico de la categoría ($69.374 tachado); lo que importa es comparar el precio final contra el resto de la guía.",
+        question: "¿Por qué cambia tanto el descuento que muestra el cartel?",
+        answer: "El precio de lista de esta publicación cambió varias veces: llegó a mostrar 25% off desde $69.374 (un precio de lista inflado típico de la categoría), y a principios de noviembre de 2026 mostraba 9% off desde $49.999, un descuento más realista. En cualquier caso, lo que importa es comparar el precio final contra el resto de la guía.",
       },
       {
         question: "¿Es difícil de abrir?",
@@ -70742,7 +70741,8 @@ Comprá el Lüsqtoff TL1-9 si buscás el termo con más funciones juntas de esta
     id: "MLA19856080",
     title: "Termo Waterdog Ombu Doble Pared De Acero Inoxidable 1 Litro Negro",
     canonicalName: "Termo Waterdog Ombu 1L",
-    price: 47500,
+    price: 43700,
+    originalPrice: 46000,
     currency: "ARS",
     image: "https://acdn-us.mitiendanube.com/stores/006/287/055/products/termo_acero_inoxidable_waterdog_ombu1000bk-6efee311afdb90467217606223819130-1024-1024.webp",
     images: [
@@ -70757,7 +70757,7 @@ Comprá el Lüsqtoff TL1-9 si buscás el termo con más funciones juntas de esta
     condition: "new",
     freeShipping: true,
     rating: 4.8,
-    reviewCount: 10322,
+    reviewCount: 10807,
     soldQuantity: 100,
     pastelColor: "var(--pastel-amber)",
     visibility: "normal",
@@ -70779,14 +70779,14 @@ Comprá el Lüsqtoff TL1-9 si buscás el termo con más funciones juntas de esta
       { label: "Aprobación INAL", value: "Sí" },
     ],
     relatedProducts: ["MLA19761025", "MLA15297106", "MLA19589790"],
-    priceUpdated: "2026-10-12",
-    priceLastChecked: "2026-10-12",
+    priceUpdated: "2026-11-02",
+    priceLastChecked: "2026-11-02",
     priceStatus: "fresh",
-    reviewsSampledAt: "2026-07-16",
+    reviewsSampledAt: "2026-11-02",
     description: "Termo Waterdog Ombu 1 litro: el más económico de esta guía, con manija y aprobado por INAL. Datos técnicos confirmados en la página oficial del fabricante.",
     seoTitle: "Termo Waterdog Ombu: el más barato, ¿rinde igual?",
     metaDescription: "Termo Waterdog Ombu 1L: el más económico, con manija y aprobado por INAL. Precio real y opiniones verificadas.",
-    verdict: "Sirve si el precio es lo que más te importa: es el más barato de esta guía, con manija y aprobado por INAL. Conserva menos horas que las otras 3 opciones (8h caliente/12h fría, contra 12-20h del resto), y tiene la base de opiniones más chica (58 calificaciones). Una reseña real avisa: no lo sostengas de la manija mientras ajustás el tapón, porque la soldadura puede despegarse con ese uso puntual. Para uso ocasional o de entrada, cumple bien; para uso diario intensivo de mate, el Lumilagro o el Lüsqtoff de esta guía rinden más horas.",
+    verdict: "Sirve si el precio es lo que más te importa: es el más barato de esta guía, con manija y aprobado por INAL. Conserva menos horas que las otras 3 opciones (8h caliente/12h fría, contra 12-20h del resto). Una reseña real avisa: no lo sostengas de la manija mientras ajustás el tapón, porque la soldadura puede despegarse con ese uso puntual. Para uso ocasional o de entrada, cumple bien; para uso diario intensivo de mate, el Lumilagro o el Lüsqtoff de esta guía rinden más horas.",
     pros: [
       "El más económico de esta guía",
       "Manija incluida, a diferencia del Lumilagro",
@@ -70794,10 +70794,9 @@ Comprá el Lüsqtoff TL1-9 si buscás el termo con más funciones juntas de esta
       "Reseñas destacan el pico 360° como cómodo para dosificar",
     ],
     cons: [
-      "Solo 58 calificaciones en la publicación de MercadoLibre, la base más chica de esta guía",
       "Conserva menos horas que el resto (8h caliente / 12h fría, contra 12-20h de las otras 3)",
       "Una reseña real reporta que la soldadura de la manija se despegó al sostenerlo de ahí mientras ajustaba el tapón, aunque la propia reseña lo atribuye a mal uso",
-      "No tiene el respaldo de opiniones masivo de Lumilagro o Lüsqtoff",
+      "No tiene el respaldo de opiniones del Lumilagro, el más calificado de esta guía",
     ],
     articleBody: `## Qué es y para quién
 
@@ -70809,15 +70808,15 @@ El pico multidireccional con sistema antigoteo permite dosificar el agua, y la m
 
 ## La contra real
 
-Es el termo con menos horas de conservación declaradas de esta guía (8 horas caliente, contra 12-20 horas del resto) y el que tiene menos calificaciones en su publicación de MercadoLibre (58, la base más chica). Una reseña real aporta un dato de cuidado concreto: la soldadura de la manija se le despegó al sostener el termo de ahí mientras ajustaba el tapón, aunque la misma reseña aclara que fue "un mal uso nuestro" y que igual lo recomienda. La recomendación práctica: sostené el cuerpo del termo, no la manija, al abrir o cerrar el tapón con fuerza.
+Es el termo con menos horas de conservación declaradas de esta guía (8 horas caliente, contra 12-20 horas del resto). Una reseña real aporta un dato de cuidado concreto: la soldadura de la manija se le despegó al sostener el termo de ahí mientras ajustaba el tapón, aunque la misma reseña aclara que fue "un mal uso nuestro" y que igual lo recomienda. La recomendación práctica: sostené el cuerpo del termo, no la manija, al abrir o cerrar el tapón con fuerza.
 
 ## Cómo se compara con los otros de esta guía
 
-Frente al [Lumilagro](/producto/termo-lumilagro-de-acero-inoxidable-luminox-1-litro-pico-matero-bala-mla15297106) (sin manija, pero con 26.780 calificaciones), el Waterdog suma manija a cambio de mucho menos respaldo de opiniones. Frente al [Lüsqtoff TL1-9](/producto/termo-acero-inoxidable-lusqtoff-tl1-9-clasico-de-1-litro-frio-calor-mla19589790) (20 horas de conservación declaradas), el Waterdog conserva menos tiempo. Frente al [Stanley](/producto/termo-stanley-original-mate-system-classic-1-2-litros-mla19761025), es varias veces más barato pero sin el tapón cebador integrado específico para mate.
+Frente al [Lumilagro](/producto/termo-lumilagro-de-acero-inoxidable-luminox-1-litro-pico-matero-bala-mla15297106) (sin manija, pero con {{reviews:MLA15297106}} calificaciones, el más calificado de esta guía), el Waterdog suma manija a cambio de bastante menos respaldo de opiniones. Frente al [Lüsqtoff TL1-9](/producto/termo-acero-inoxidable-lusqtoff-tl1-9-clasico-de-1-litro-frio-calor-mla19589790) (20 horas de conservación declaradas), el Waterdog conserva menos tiempo. Frente al [Stanley](/producto/termo-stanley-original-mate-system-classic-1-2-litros-mla19761025), es varias veces más barato pero sin el tapón cebador integrado específico para mate.
 
 ## Para quién sí y para quién no
 
-Comprá el Waterdog Ombu si el precio es tu prioridad número uno y buscás un termo simple con manija para uso ocasional. No es la mejor opción si tomás mate todo el día y necesitás que el agua aguante caliente muchas horas seguidas: ahí el [Lüsqtoff](/producto/termo-acero-inoxidable-lusqtoff-tl1-9-clasico-de-1-litro-frio-calor-mla19589790) o el [Lumilagro](/producto/termo-lumilagro-de-acero-inoxidable-luminox-1-litro-pico-matero-bala-mla15297106) de esta guía, con más horas declaradas y mucho más respaldo de opiniones, rinden mejor.`,
+Comprá el Waterdog Ombu si el precio es tu prioridad número uno y buscás un termo simple con manija para uso ocasional. No es la mejor opción si tomás mate todo el día y necesitás que el agua aguante caliente muchas horas seguidas: ahí el [Lüsqtoff](/producto/termo-acero-inoxidable-lusqtoff-tl1-9-clasico-de-1-litro-frio-calor-mla19589790) (con más horas declaradas) o el [Lumilagro](/producto/termo-lumilagro-de-acero-inoxidable-luminox-1-litro-pico-matero-bala-mla15297106) (con bastante más respaldo de opiniones) de esta guía rinden mejor en ese punto.`,
     faq: [
       {
         question: "¿Cuánto dura el agua caliente?",
@@ -70832,8 +70831,8 @@ Comprá el Waterdog Ombu si el precio es tu prioridad número uno y buscás un t
         answer: "Sí, aprobado por INAL (Instituto Nacional de Alimentos), según la página oficial del fabricante.",
       },
       {
-        question: "¿Por qué tiene menos calificaciones que los otros termos de esta guía?",
-        answer: "Es el termo con menos reseñas en su publicación de MercadoLibre ({{reviews:MLA19856080}}), aunque los datos técnicos están confirmados de forma independiente en la página oficial de Waterdog.",
+        question: "¿Cuántas calificaciones tiene este termo?",
+        answer: "{{reviews:MLA19856080}} a noviembre de 2026, bastante más que el Lüsqtoff o el Stanley de esta guía, aunque menos que el Lumilagro, el más calificado del grupo. Los datos técnicos además están confirmados de forma independiente en la página oficial de Waterdog.",
       },
       {
         question: "¿Hay algún cuidado especial al usarlo?",
