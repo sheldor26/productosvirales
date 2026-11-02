@@ -7,6 +7,12 @@
 > 🔴 = se quedo sin stock (el link de afiliado apunta a una pagina pausada).
 > Entradas nuevas arriba.
 
+## 2026-11-02
+
+- 🟢 VOLVIO EL STOCK — **MLA26853638** Velador Gadnic NI70 — Luz de Noche LED 7 Colores Recargable 24hs
+  - ML: https://www.mercadolibre.com.ar/velador-gadnic-luz-de-noche-led-tactil-recargable-usb-7-colores-control-tactil-ni70/p/MLA26853638
+  - Sitio: https://productosvirales.com.ar/producto/MLA26853638
+
 ## 2026-10-07
 
 - 🟢 VOLVIO EL STOCK — **MLAU274288377** Masajeador De Espalda Asiento Cuello Auto Silla Vibra Calor

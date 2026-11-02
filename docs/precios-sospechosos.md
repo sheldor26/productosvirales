@@ -6,6 +6,30 @@
 > chequearlos en MercadoLibre. Si son reales, avisar para aplicarlos a mano.
 > Entradas nuevas arriba.
 
+## 2026-11-02
+
+- **MLA16132352** — Cámara Deportiva Akaso V50X: $176.899 → $599.999 (+239%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA16132352
+  - Sitio: https://productosvirales.com.ar/producto/MLA16132352
+- **MLA8732921** — Auriculares Gamer Con Cable HyperX Cloud HX-HSCA Black y Red: $91.379 → $779.403 (+753%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA8732921
+  - Sitio: https://productosvirales.com.ar/producto/MLA8732921
+- **MLA42113760** — Freidora De Aire Kanji Home 8 Litros +10 Funciones Canasta Antiadherente Kjh-1700dc 1700w Lh Color Negro: $293.000 → $115.499 (-61%)
+  - ML: https://www.mercadolibre.com.ar/freidora-de-aire-kanji-home-8-litros-10-funciones-canasta-antiadherente-kjh-1700dc-1700w-lh-color-negro/p/MLA42113760
+  - Sitio: https://productosvirales.com.ar/producto/MLA42113760
+- **MLA19769919** — Afeitadora Remington R31a Rotativo Recargable Usb Color Negro: $149.999 → $299.999 (+100%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA19769919
+  - Sitio: https://productosvirales.com.ar/producto/MLA19769919
+- **MLA29597823** — Bombilla Mate El Santo Mate Hexagonal Acero Inoxidable Bronce Filtro Plano: $3.883 → $50.491 (+1200%)
+  - ML: https://www.mercadolibre.com.ar/bombilla-mate-el-santo-mate-hexagonal-acero-inoxidable-bronce-filtro-plano/p/MLA29597823
+  - Sitio: https://productosvirales.com.ar/producto/MLA29597823
+- **MLA69809119** — Zapateros Mueble Zapatos Organizador Zapatero De Metal Plateado De 8 Pisos: $59.999 → $21.688 (-64%)
+  - ML: https://www.mercadolibre.com.ar/zapateros-mueble-zapatos-organizador-zapatero-de-metal-plateado-de-8-pisos/p/MLA69809119
+  - Sitio: https://productosvirales.com.ar/producto/MLA69809119
+- **MLA57822248** — Freidora de Aire Kanji KJHAF1404 — 4 Litros, 1,4 kW, Digital: $76.000 → $199.999 (+163%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA57822248
+  - Sitio: https://productosvirales.com.ar/producto/MLA57822248
+
 ## 2026-10-12
 
 - **MLA23305108** — Guitarra Eléctrica Fender Squier Stratocaster Sonic HSS: $553.799 → $1.251.000 (+126%)
