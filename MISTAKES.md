@@ -16,6 +16,16 @@
 **Archivos involucrados:** `path/a/archivo.ts`
 -->
 
+## 2026-11-02 — REGLA CONFIRMADA: el desincronismo campo/prosa de reseñas es un patrón recurrente, no un caso aislado
+
+**Qué pasó:** el mismo bug exacto del hallazgo de Waterdog (abajo) se repitió dos veces más el mismo día, en la misma sesión, en la guía `cafetera-de-filtro`: la ficha de Smartlife SL-CM1095 tenía `reviewCount: 1738` correcto en el campo, pero description, pros, verdict, articleBody (con un desglose "77/10/7" que sumaba exactamente 94) y FAQ seguían diciendo "94" en más de 10 lugares. El precio tenía el mismo problema: el campo decía 104.849 pero la prosa decía "$79.999" en casi todos lados.
+
+**Por qué:** algún script o proceso anterior actualiza `reviewCount`/`price` sin tocar la prosa que los cita a mano, y el chequeo automático (`check-hardcoded-reviews.cjs`, `check-stale-prose-prices.cjs`) solo detecta si SUBE la cantidad total de menciones hardcodeadas o si un precio en prosa se desvía más de 3% del campo — no detecta una prosa vieja que coincidentemente quedó "congelada" en un valor que ya no se compara contra nada en tiempo real.
+
+**Cómo evitarlo:** dejó de ser un caso aislado — es la norma, no la excepción, en cualquier ficha que no se haya tocado en varios meses. Al refrescar un producto, el primer paso debería ser `grep` del `id` dentro de su propia ficha completa (no solo leer el campo `reviewCount`/`price`) para ver si hay números sueltos en la prosa, ANTES de asumir que el campo estructurado es la única fuente de verdad desactualizada. Y preferir siempre `{{reviews:ID}}`/`{{precio:ID}}` en vez de escribir el número a mano, que es justamente lo que previene que este bug exista en primer lugar.
+
+**Archivos involucrados:** `src/data/curated-products.ts` (ficha MLA15297115)
+
 ## 2026-11-02 — Una ficha tenía el `reviewCount` correcto pero la prosa citaba un número viejo a mano, y nadie lo chequeó hasta hoy
 
 **Qué pasó:** en la ficha del Waterdog Ombu (`curated-products.ts`), el campo `reviewCount` ya decía 10.322 desde antes de esta sesión, pero cons, verdict, articleBody (x2) y una FAQ seguían diciendo "58 calificaciones, la base de opiniones más chica de esta guía" — un número que nunca estuvo cerca del campo estructurado y que además ya era falso antes de hoy (10.322 era más que el Lüsqtoff y el Stanley de ese momento).

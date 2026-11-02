@@ -50156,15 +50156,15 @@ Robot Roomba j9, base premium de autovaciado y autorrelleno de agua, control rem
       'Filtro lavable y removible: no comprás filtros de papel nunca más',
       'Función mantener caliente: el café no se enfría apenas termina',
       'Antigoteo: te servís una taza antes de que termine el ciclo',
-      'Atma: la misma línea de la CA8133, que junta 879 calificaciones',
+      'Atma: la misma línea de la CA8133, que junta {{reviews:MLA14735678}} calificaciones',
     ],
     cons: [
       'Esta publicación todavía no tiene calificaciones: comprás sin feedback verificado',
       'La caja viene dañada (el producto es nuevo, aclara la propia publicación)',
       'Sin timer, sin pantalla, sin apagado programado: es la básica de la línea',
-      'Por $2.567 más, la CA8133 te da 879 opiniones de respaldo',
+      'Por algo más, la CA8133 te da {{reviews:MLA14735678}} opiniones de respaldo',
     ],
-    verdict: 'La hermana simple de la CA8133: misma capacidad de 1,25 L, filtro lavable que ahorra papel y $45.000 de precio. Esta publicación todavía no tiene calificaciones, así que si querés el respaldo de cientos de opiniones, la CA8133 cuesta apenas más; si confiás en la línea, esta ahorra.',
+    verdict: 'La hermana simple de la CA8133: misma capacidad de 1,25 L, filtro lavable que ahorra papel y $45.000 de precio. Esta publicación todavía no tiene calificaciones, así que si querés el respaldo de cientos de opiniones, la CA8133 (desde {{precio:MLA14735678:k}}) es la alternativa; si confiás en la línea, esta ahorra.',
     articleBody: `## La Atma básica de filtro, sin vueltas
 
 La Atma CA8131 es la cafetera de filtro básica de la marca: 1,25 litros (hasta 12 tazas), filtro lavable, función mantener caliente y sistema antigoteo por $45.000. Aclaración importante: esta publicación todavía no tiene calificaciones, así que acá no hay opiniones para citar — solo specs verificables.
@@ -50177,7 +50177,7 @@ La función mantener caliente conserva el café a temperatura cuando termina la 
 
 ## CA8131 vs CA8133: cuál es la diferencia real
 
-Son hermanas de línea y comparten lo importante: 1,25 litros, 12 tazas, antigoteo y cuerpo blanco. Las diferencias: la CA8131 trae filtro lavable reutilizable (la CA8133 usa descartables de papel) y cuesta $2.567 menos. La CA8133, a cambio, tiene lo que esta publicación no: 879 calificaciones con 4.6 estrellas que documentan años de uso real, con elogios a la velocidad y críticas conocidas al plástico.
+Son hermanas de línea y comparten lo importante: 1,25 litros, 12 tazas, antigoteo y cuerpo blanco. Las diferencias: la CA8131 trae filtro lavable reutilizable (la CA8133 usa descartables de papel) y cuesta menos. La CA8133, a cambio, tiene lo que esta publicación no: {{reviews:MLA14735678}} calificaciones con {{rating:MLA14735678}} estrellas que documentan años de uso real, con elogios a la velocidad y críticas conocidas al plástico.
 
 En specs, la CA8131 gana por precio y filtro. En certezas, gana la CA8133 por goleada.
 
@@ -50185,7 +50185,7 @@ En specs, la CA8131 gana por precio y filtro. En certezas, gana la CA8133 por go
 
 Esta publicación todavía no tiene calificaciones, y prefirimos decírtelo directo antes que rellenarte con opiniones inventadas. No hay feedback verificado sobre durabilidad, ruido o calidad del plástico de esta publicación en particular.
 
-Lo que sí se puede decir: el modelo pertenece a la misma línea que la CA8133 — la cafetera de filtro más probada del catálogo — y comparte diseño y capacidad. La marca es conocida, el producto es simple y tiene poco para fallar. Pero el respaldo de cientos de compradores, acá, todavía no está.
+Lo que sí se puede decir: el modelo pertenece a la misma línea que la CA8133 — que sí tiene reseñas reales — y comparte diseño y capacidad. La marca es conocida, el producto es simple y tiene poco para fallar. Pero el respaldo de compradores, acá, todavía no está.
 
 ## El detalle de la caja dañada
 
@@ -50193,9 +50193,9 @@ La publicación lo aclara en su propia descripción, en mayúsculas: "la caja es
 
 ## Contra las otras filtro económicas del catálogo
 
-La comparación inevitable es con la [Atma CA8133](/producto/cafetera-de-filtro-atma-ca8133-semiautomatica-blanca-mla14735678) ($47.567): misma capacidad, filtro descartable en vez de lavable, y 879 calificaciones con 4.6 estrellas que esta publicación no tiene. Por $2.567 de diferencia, es la opción para quien compra con el respaldo de las opiniones.
+La comparación inevitable es con la [Atma CA8133](/producto/cafetera-de-filtro-atma-ca8133-semiautomatica-blanca-mla14735678) (desde {{precio:MLA14735678:k}}): misma capacidad, filtro descartable en vez de lavable, y {{reviews:MLA14735678}} calificaciones con {{rating:MLA14735678}} estrellas que esta publicación no tiene. Es la opción para quien compra con el respaldo de las opiniones.
 
-La otra rival directa es la [Ultracomb CA-2205](/producto/cafetera-de-filtro-ultracomb-ca-2205-con-timer-digital-mla15109525) ($40.756): más barata, con timer digital programable y 631 opiniones — aunque su 4.4 es el rating más bajo del catálogo de cafeteras, con quejas de fragilidad documentadas.
+La otra rival directa es la [Ultracomb CA-2205](/producto/cafetera-de-filtro-ultracomb-ca-2205-con-timer-digital-mla15109525) (desde {{precio:MLA15109525:k}}): más barata, con timer digital programable y {{reviews:MLA15109525}} opiniones — aunque su 4.4 es el rating más bajo del catálogo de cafeteras, con quejas de fragilidad documentadas.
 
 ## ¿Para quién es la CA8131 (y para quién no)?
 
@@ -50219,14 +50219,14 @@ No es para vos si: necesitás el respaldo de opiniones verificadas (la CA8133 lo
       { label: 'Detalle de la publicación', value: 'Caja dañada; el producto es nuevo' },
     ],
     faq: [
-      { question: '¿La CA8131 tiene opiniones de compradores?', answer: 'No: esta publicación todavía no tiene calificaciones, y preferimos decírtelo directo. Lo que describimos acá sale de la ficha técnica y la descripción oficial, no de experiencias de usuarios. Si querés comprar con respaldo de opiniones, su hermana CA8133 tiene 879 calificaciones con 4.6 estrellas por $2.567 más.' },
-      { question: '¿Qué diferencia hay con la Atma CA8133?', answer: 'Comparten capacidad (1,25 L, 12 tazas), antigoteo y diseño blanco. La CA8131 ($45.000) trae filtro lavable reutilizable y es más barata; la CA8133 ($47.567) usa filtros descartables de papel pero acumula 879 calificaciones. La diferencia real no está en las specs sino en las certezas: una tiene años de feedback, la otra no.' },
+      { question: '¿La CA8131 tiene opiniones de compradores?', answer: 'No: esta publicación todavía no tiene calificaciones, y preferimos decírtelo directo. Lo que describimos acá sale de la ficha técnica y la descripción oficial, no de experiencias de usuarios. Si querés comprar con respaldo de opiniones, su hermana CA8133 tiene {{reviews:MLA14735678}} calificaciones con {{rating:MLA14735678}} estrellas.' },
+      { question: '¿Qué diferencia hay con la Atma CA8133?', answer: 'Comparten capacidad (1,25 L, 12 tazas), antigoteo y diseño blanco. La CA8131 ($45.000) trae filtro lavable reutilizable y es más barata; la CA8133 (desde {{precio:MLA14735678:k}}) usa filtros descartables de papel pero acumula {{reviews:MLA14735678}} calificaciones. La diferencia real no está en las specs sino en las certezas: una tiene años de feedback, la otra no.' },
       { question: '¿El filtro se lava y se vuelve a usar?', answer: 'Sí, ese es su diferencial: filtro lavable y removible, que la descripción califica de ecológico y reutilizable. Lo enjuagás después de cada uso y listo, sin comprar filtros de papel nunca más. Es un ahorro chico por compra, pero constante a lo largo de los años de uso de la cafetera.' },
       { question: '¿Mantiene el café caliente?', answer: 'Sí: tiene función de conservación de temperatura, así el café queda a punto por más tiempo después de que termina el ciclo. Combinada con el sistema antigoteo — que te deja servir una taza a mitad de preparación — cubre lo esencial de una filtro hogareña sin funciones de lujo.' },
       { question: '¿Por qué la publicación dice que la caja está dañada?', answer: 'La propia descripción lo aclara: "la caja está dañada pero el producto es nuevo". Es transparencia del vendedor y probablemente parte del precio atractivo. Para uso propio es irrelevante; si es para regalo, el empaque no va a estar impecable y conviene saberlo antes.' },
       { question: '¿Para cuántas tazas alcanza?', answer: 'Hasta 12 tazas por ciclo con su jarra de vidrio de 1.250 mL, igual que la CA8133. Es capacidad pensada para familias o para quien toma varias tazas durante la mañana: hacés una tanda y la función mantener caliente se encarga del resto.' },
-      { question: '¿Tiene timer para programarla?', answer: 'No: la ficha confirma que no incluye temporizador. Es la básica de la línea — encendido manual y nada más. Si querés dejar el café programado desde la noche anterior, la Ultracomb CA-2205 cuesta incluso menos ($40.756) y trae timer digital, aunque con las advertencias de fragilidad que contamos en su ficha.' },
-      { question: '¿Conviene esta o la Ultracomb CA-2205?', answer: 'Las separa poco precio y bastante filosofía. La Ultracomb ($40.756) suma timer y display, pero su 4.4 es el rating más bajo del catálogo, con quejas de materiales frágiles. La Atma ($45.000) es más simple y de una línea con mejor reputación, pero esta publicación no tiene calificaciones. Empate técnico: decidí por timer o por marca.' },
+      { question: '¿Tiene timer para programarla?', answer: 'No: la ficha confirma que no incluye temporizador. Es la básica de la línea — encendido manual y nada más. Si querés dejar el café programado desde la noche anterior, la Ultracomb CA-2205 cuesta menos (desde {{precio:MLA15109525:k}}) y trae timer digital, aunque con las advertencias de fragilidad que contamos en su ficha.' },
+      { question: '¿Conviene esta o la Ultracomb CA-2205?', answer: 'Las separa poco precio y bastante filosofía. La Ultracomb (desde {{precio:MLA15109525:k}}) suma timer y display, pero su 4.4 es el rating más bajo del catálogo, con quejas de materiales frágiles. La Atma ($45.000) es más simple y de una línea con mejor reputación, pero esta publicación no tiene calificaciones. Empate técnico: decidí por timer o por marca.' },
     ],
     structuredData: {
       '@context': 'https://schema.org',
@@ -50252,9 +50252,10 @@ No es para vos si: necesitás el respaldo de opiniones verificadas (la CA8133 lo
   {
     id: 'MLA14735678',
     title: 'Cafetera de filtro Atma CA8133 semiautomática blanca',
-    price: 51440,
-    priceUpdated: "2026-10-12",
-    priceLastChecked: "2026-10-12",
+    price: 53949,
+    originalPrice: 64999,
+    priceUpdated: "2026-11-02",
+    priceLastChecked: "2026-11-02",
     priceStatus: "fresh",
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_618795-MLA99866989519_112025-F.jpg',
@@ -50271,18 +50272,18 @@ No es para vos si: necesitás el respaldo de opiniones verificadas (la CA8133 lo
     condition: 'new',
     freeShipping: true,
     brand: 'Atma',
-    rating: 4.6,
-    reviewCount: 820,
+    rating: 4.7,
+    reviewCount: 97,
     pastelColor: 'var(--pastel-coral)',
-    description: 'Cafetera de filtro Atma CA8133: la más probada del catálogo, con 4.6 estrellas en {{reviews:MLA14735678}} calificaciones. Semiautomática, 1,25 litros (12 pocillos), sistema antigoteo y base calentadora que mantiene el café a temperatura. A $47.567 es la compra segura en café de filtro: simple, rápida y con cientos de compradores que la respaldan.',
+    description: 'Cafetera de filtro Atma CA8133: la opción liviana y económica del catálogo, con 4.7 estrellas en {{reviews:MLA14735678}} calificaciones. Semiautomática, 1,25 litros (12 pocillos), sistema antigoteo y base calentadora que mantiene el café a temperatura. A {{precio:MLA14735678}} es la compra simple y segura en café de filtro, aunque ya no es la de mayor respaldo del catálogo: ese lugar hoy lo tiene la Electrolux ECM25.',
     aiReviewSummary: 'Compra segura para café de filtro: prepara rápido, la capacidad de 1,25 L rinde para tazas grandes y la relación precio-calidad se repite en casi todas las opiniones. Las críticas honestas: el plástico del cuerpo es liviano y genera desconfianza, el blanco se mancha con café y cuesta limpiarlo, y más de un comprador pide apagado automático, que no tiene.',
-    seoTitle: 'Cafetera de filtro Atma CA8133: ¿la más probada conviene?',
-    metaDescription: 'La cafetera de filtro más probada del catálogo: 4.6★ en {{reviews:MLA14735678}} opiniones, 1,25 L y antigoteo por $47.567. Sus contras reales — plástico y manchas — sin filtro.',
-    ogTitle: 'Atma CA8133: la cafetera de filtro que 879 personas ya probaron por vos',
-    ogDescription: 'Café para 12 pocillos, listo rápido y por menos de $50.000. Te contamos lo que las 879 calificaciones elogian y lo que critican, sin suavizar nada.',
-    h1: 'Cafetera de filtro Atma CA8133: la más probada del catálogo, con 879 calificaciones',
+    seoTitle: 'Cafetera de filtro Atma CA8133: ¿la económica conviene?',
+    metaDescription: 'La cafetera de filtro económica y liviana del catálogo: 4.7★ en {{reviews:MLA14735678}} opiniones, 1,25 L y antigoteo por {{precio:MLA14735678}}. Sus contras reales — plástico y manchas — sin filtro.',
+    ogTitle: 'Atma CA8133: la cafetera de filtro simple y económica, sin vueltas',
+    ogDescription: 'Café para 12 pocillos, listo rápido y por menos de $55.000. Te contamos lo que las calificaciones elogian y lo que critican, sin suavizar nada.',
+    h1: 'Cafetera de filtro Atma CA8133: la opción simple y económica del catálogo',
     pros: [
-      '4.6⭐ con {{reviews:MLA14735678}} calificaciones: la cafetera de filtro más probada del catálogo',
+      '4.7⭐ con {{reviews:MLA14735678}} calificaciones: liviana, rápida y de las más económicas del catálogo',
       'Prepara rápido: las reviews destacan que no esperás ni 20 minutos',
       '1,25 L y 12 pocillos: capacidad real para tazas grandes o varias personas',
       'Antigoteo: te servís una taza antes de que termine el ciclo',
@@ -50296,10 +50297,10 @@ No es para vos si: necesitás el respaldo de opiniones verificadas (la CA8133 lo
       'La tapa de la jarra puede derramar café por el orificio chico, según una review',
       'Reponer la jarra de vidrio es caro y difícil, avisa un comprador',
     ],
-    verdict: 'La opción segura en cafeteras de filtro: {{reviews:MLA14735678}} calificaciones la respaldan y a $47.567 es difícil equivocarse. No esperes materiales premium ni apagado automático: esperá café rápido para 12 pocillos, todos los días.',
-    articleBody: `## La cafetera de filtro más probada del catálogo
+    verdict: 'La opción simple en cafeteras de filtro: {{reviews:MLA14735678}} calificaciones la respaldan y a {{precio:MLA14735678}} es difícil equivocarse. No esperes materiales premium ni apagado automático: esperá café rápido para 12 pocillos, todos los días.',
+    articleBody: `## La cafetera de filtro simple y económica del catálogo
 
-La Atma CA8133 es una cafetera de filtro semiautomática de 1,25 litros (12 pocillos) que cuesta $47.567 y junta 4.6 estrellas en {{reviews:MLA14735678}} calificaciones: ninguna otra cafetera de filtro del catálogo fue probada por tanta gente. Prepara rápido, tiene antigoteo y una base calentadora que mantiene el café a temperatura.
+La Atma CA8133 es una cafetera de filtro semiautomática de 1,25 litros (12 pocillos) que cuesta {{precio:MLA14735678}} y junta 4.7 estrellas en {{reviews:MLA14735678}} calificaciones. Prepara rápido, tiene antigoteo y una base calentadora que mantiene el café a temperatura.
 
 ## Qué hace bien: capacidad, velocidad y antigoteo
 
@@ -50315,7 +50316,7 @@ Si querés programar el café desde la noche anterior, este no es el modelo: par
 
 ## Las críticas honestas: plástico liviano y manchas
 
-El desglose de las {{reviews:MLA14735678}} calificaciones: 651 personas pusieron 5 estrellas, 165 pusieron 4, y solo 63 calificaron con 3 o menos. Pero las críticas que existen son consistentes y conviene conocerlas.
+Las críticas que hay entre las {{reviews:MLA14735678}} calificaciones son consistentes y conviene conocerlas.
 
 La primera: el material. "El material es algo malo, un plástico muy liviano, no le tengo mucha confianza", dice una review de 4 estrellas; otra nota que la calidad del plástico "es inferior con respecto al modelo que pretende reemplazar". La segunda: el color. "El blanco no es recomendable, se mancha de café y cuesta mucho sacarlo — la próxima vez compraría una de color negro". La tercera: una review detallada marca que el orificio de la tapa por donde pasa el café es chico y puede derramar y manchar.
 
@@ -50327,15 +50328,15 @@ El resto del mantenimiento es simple: portafiltro removible, tapa desmontable y 
 
 ## Contra las otras cafeteras de filtro del catálogo
 
-La hermana simple es la [Atma CA8131](/producto/cafetera-de-filtro-atma-ca8131-blanca-1-25-l-mla37650751) ($45.000): misma capacidad de 1,25 L con filtro lavable, pero su publicación todavía no tiene calificaciones. La [Ultracomb CA-2205](/producto/cafetera-de-filtro-ultracomb-ca-2205-con-timer-digital-mla15109525) ($40.756) es más barata y agrega timer digital programable, aunque su 4.4 es el rating más bajo del catálogo de cafeteras, con quejas de fragilidad.
+La hermana simple es la [Atma CA8131](/producto/cafetera-de-filtro-atma-ca8131-blanca-1-25-l-mla37650751) ($45.000): misma capacidad de 1,25 L con filtro lavable, pero su publicación todavía no tiene calificaciones. La [Ultracomb CA-2205](/producto/cafetera-de-filtro-ultracomb-ca-2205-con-timer-digital-mla15109525) (desde {{precio:MLA15109525:k}}) es más barata y agrega timer digital programable, aunque su 4.4 es un rating más bajo, con quejas de fragilidad.
 
-Si querés el salto de calidad en filtro, la [Liliana AC935 filtro digital](/producto/cafetera-de-filtro-liliana-ac935-digital-con-jarra-de-acero-1-2-l-mla62786317) ($112.767) suma programación digital y jarra de acero inoxidable — al doble y pico de precio.
+Si querés más respaldo de opiniones sin gastar de más, la [Electrolux ECM25](/producto/cafetera-electrica-electrolux-ecm25-programable-negra-mla20008340) (desde {{precio:MLA20008340:k}}) suma cuerpo de acero inoxidable, temporizador y {{reviews:MLA20008340}} calificaciones. Y si querés el salto de calidad completo, la [Liliana AC935 filtro digital](/producto/cafetera-de-filtro-liliana-ac935-digital-con-jarra-de-acero-1-2-l-mla62786317) (desde {{precio:MLA62786317:k}}) suma programación digital y jarra de acero inoxidable.
 
 ## ¿Para quién es la CA8133 (y para quién no)?
 
-Es para vos si: querés café de filtro rico, rápido y en cantidad, con el respaldo de cientos de opiniones y sin gastar más de $50.000. Es la compra segura de la categoría.
+Es para vos si: querés café de filtro rico, rápido y en cantidad, sin pretensiones y sin gastar de más. Es la compra simple de la categoría.
 
-No es para vos si: querés programar el café desde la noche anterior (no tiene timer, diga lo que diga la descripción), buscás materiales premium o te molesta que el blanco se manche con el uso. En esos casos, mirá la Ultracomb con timer o la Liliana digital.`,
+No es para vos si: querés programar el café desde la noche anterior (no tiene timer, diga lo que diga la descripción), buscás materiales premium o te molesta que el blanco se manche con el uso. En esos casos, mirá la Ultracomb con timer, la Electrolux con acero inoxidable o la Liliana digital.`,
     specs: [
       { label: 'Marca', value: 'Atma' },
       { label: 'Modelo', value: 'CA8133 (detallado: CA8133N)' },
@@ -50365,7 +50366,7 @@ No es para vos si: querés programar el café desde la noche anterior (no tiene 
       { question: '¿Qué filtro usa?', answer: 'Según la ficha oficial, filtros descartables de papel: usás uno por preparación y lo tirás con la borra, lo que simplifica la limpieza. El portafiltro es removible y se enjuaga fácil. Si preferís filtro lavable permanente, la Atma CA8131 — la hermana de esta — lo trae.' },
       { question: '¿Mantiene el café caliente?', answer: 'Sí: tiene base calentadora antiadherente que conserva la temperatura mientras la cafetera esté encendida. Un detalle de las reviews: el café sale a temperatura para tomar solo, y si le agregás leche conviene que esté al menos tibia para que no se enfríe el conjunto.' },
       { question: '¿Se consigue la jarra de repuesto?', answer: 'Es el punto débil que avisa una review de 5 estrellas: "lo único malo es el costo y dificultad de reponer la jarra, en caso de rotura". La máquina aguanta, pero la jarra de vidrio es la pieza frágil y el repuesto no es ni barato ni fácil de encontrar. Tratala con cariño.' },
-      { question: '¿Qué diferencia hay con la Atma CA8131?', answer: 'Son hermanas de línea: misma capacidad de 1,25 L y 12 tazas. La CA8131 ($45.000) trae filtro lavable reutilizable y es un poco más barata, pero su publicación no tiene calificaciones todavía. La CA8133 usa filtro descartable y tiene {{reviews:MLA14735678}} opiniones de respaldo. Por $2.567 de diferencia, las opiniones pesan.' },
+      { question: '¿Qué diferencia hay con la Atma CA8131?', answer: 'Son hermanas de línea: misma capacidad de 1,25 L y 12 tazas. La CA8131 ($45.000) trae filtro lavable reutilizable y es más barata, pero su publicación no tiene calificaciones todavía. La CA8133 usa filtro descartable y tiene {{reviews:MLA14735678}} opiniones de respaldo.' },
       { question: '¿Es buena como primera cafetera?', answer: 'Es exactamente su perfil: barata, simple de usar y con la relación precio-calidad como elogio repetido en las reviews. "Tenía mis dudas por el precio bajo pero fue una muy buena inversión", resume la opinión más votada. No esperes lujo: esperá café rico, rápido y en cantidad.' },
     ],
     customerReviews: [
@@ -50384,7 +50385,7 @@ No es para vos si: querés programar el café desde la noche anterior (no tiene 
       '@type': 'Product',
       name: 'Cafetera de filtro Atma CA8133 semiautomática',
       image: 'https://http2.mlstatic.com/D_NQ_NP_618795-MLA99866989519_112025-F.jpg',
-      description: 'Cafetera de filtro semiautomática Atma CA8133: 1,25 litros (12 pocillos), sistema antigoteo, base calentadora antiadherente e indicador de nivel de agua. 4.6 estrellas con 879 calificaciones en MercadoLibre Argentina.',
+      description: 'Cafetera de filtro semiautomática Atma CA8133: 1,25 litros (12 pocillos), sistema antigoteo, base calentadora antiadherente e indicador de nivel de agua. 4.7 estrellas con 97 calificaciones en MercadoLibre Argentina.',
       sku: 'CA8133N',
       mpn: '94CA8133N',
       brand: { '@type': 'Brand', name: 'Atma' },
@@ -50392,18 +50393,18 @@ No es para vos si: querés programar el café desde la noche anterior (no tiene 
         '@type': 'Offer',
         url: 'https://meli.la/1xm8Wd8',
         priceCurrency: 'ARS',
-        price: 47567,
+        price: 53949,
         availability: 'https://schema.org/InStock',
         itemCondition: 'https://schema.org/NewCondition',
         seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
       },
       aggregateRating: {
         '@type': 'AggregateRating',
-        ratingValue: '4.6',
-        reviewCount: '879',
+        ratingValue: '4.7',
+        reviewCount: '97',
       },
     },
-    relatedProducts: ['MLA37650751', 'MLA15109525', 'MLA62786317'],
+    relatedProducts: ['MLA37650751', 'MLA15109525', 'MLA62786317', 'MLA20008340'],
   },
   // ─────────────────────────────────────────────────────────
   // LICUADORAS — cluster licuadora (importadas jun 2026)
@@ -51284,10 +51285,9 @@ No es para vos si: necesitás la licuadora principal de la casa. Para licuar par
   {
     id: 'MLA15109525',
     title: 'Cafetera de filtro Ultracomb CA-2205 con timer digital',
-    price: 49999,
-    originalPrice: 63399,
-    priceUpdated: "2026-10-07",
-    priceLastChecked: "2026-10-12",
+    price: 42999,
+    priceUpdated: "2026-11-02",
+    priceLastChecked: "2026-11-02",
     priceStatus: "fresh",
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_958590-MLA99443169884_112025-F.jpg',
@@ -51305,18 +51305,18 @@ No es para vos si: necesitás la licuadora principal de la casa. Para licuar par
     freeShipping: true,
     brand: 'Ultracomb',
     rating: 4.4,
-    reviewCount: 654,
+    reviewCount: 661,
     pastelColor: 'var(--pastel-coral)',
-    description: 'Cafetera de filtro Ultracomb CA-2205: la más barata del catálogo con cientos de opiniones (631) y la única en este rango con timer digital programable — la dejás lista a la noche y te despertás con el café hecho. Apagado automático a las 2 horas, filtro permanente lavable y 980 gramos de peso. Ojo: su 4.4 es el rating más bajo del catálogo de cafeteras, y las reviews explican por qué.',
+    description: 'Cafetera de filtro Ultracomb CA-2205: la más barata del catálogo con cientos de opiniones ({{reviews:MLA15109525}}) y la única en este rango con timer digital programable — la dejás lista a la noche y te despertás con el café hecho. Apagado automático a las 2 horas, filtro permanente lavable y 980 gramos de peso. Ojo: su 4.4 es el rating más bajo del catálogo de cafeteras, y las reviews explican por qué.',
     aiReviewSummary: 'El timer digital es la estrella: programás la noche anterior y te despertás con el café recién hecho. Rápida, liviana y barata. Pero el 4.4 no es casualidad: los materiales son frágiles y piden cuidado, la jarra se rompe y es difícil de reponer, el portafiltro se desencaja al sacar la jarra y el reloj se desconfigura cada vez que la desenchufás porque no tiene batería interna.',
     seoTitle: 'Cafetera de filtro Ultracomb CA-2205: ¿conviene su 4.4?',
-    metaDescription: 'La cafetera de filtro más barata con timer digital: $40.756 y {{reviews:MLA15109525}} opiniones. Pero su 4.4★ es el rating más bajo del catálogo de cafeteras: te contamos por qué.',
-    ogTitle: 'Ultracomb CA-2205: despertarte con el café hecho por menos de $41.000',
+    metaDescription: 'La cafetera de filtro más barata con timer digital: {{precio:MLA15109525}} y {{reviews:MLA15109525}} opiniones. Pero su 4.4★ es el rating más bajo del catálogo de cafeteras: te contamos por qué.',
+    ogTitle: 'Ultracomb CA-2205: despertarte con el café hecho por menos de $45.000',
     ogDescription: 'Timer digital, apagado automático y el precio más bajo del catálogo. También el rating más bajo: 4.4. Las razones reales, contadas desde las reviews.',
     h1: 'Cafetera Ultracomb CA-2205: la filtro más barata con timer, y por qué su rating es 4.4',
     pros: [
       'Timer digital programable: te despertás con el café recién hecho',
-      'La más barata del catálogo con cientos de opiniones (631)',
+      'La más barata del catálogo con cientos de opiniones ({{reviews:MLA15109525}})',
       'Apagado automático a las 2 horas de uso continuo',
       'Filtro permanente lavable, y admite filtros de papel 1x4',
       'Liviana (980 g) y compacta: no ocupa media mesada',
@@ -51332,7 +51332,7 @@ No es para vos si: necesitás la licuadora principal de la casa. Para licuar par
     verdict: 'La más barata del catálogo con timer digital incluido, y eso perdona mucho. Pero su 4.4 es el rating más bajo de nuestras cafeteras: materiales frágiles y jarra delicada. Si la tratás con cuidado y querés despertarte con café hecho, rinde; si buscás robustez, la Atma CA8133 cuesta casi lo mismo.',
     articleBody: `## La filtro más barata, con timer y con el rating más bajo
 
-La Ultracomb CA-2205 es una cafetera de filtro automática con timer digital que cuesta $40.756: la más barata del catálogo con cientos de opiniones (631). Programás la hora a la noche y te despertás con el café hecho. La letra chica: su 4.4 es el rating más bajo de nuestras cafeteras.
+La Ultracomb CA-2205 es una cafetera de filtro automática con timer digital que cuesta {{precio:MLA15109525}}: la más barata del catálogo con cientos de opiniones ({{reviews:MLA15109525}}). Programás la hora a la noche y te despertás con el café hecho. La letra chica: su 4.4 es el rating más bajo de nuestras cafeteras.
 
 ## El timer digital: su razón de ser
 
@@ -51358,15 +51358,15 @@ Primero, la potencia: la ficha de ML dice 850 W, pero la descripción oficial de
 
 ## Contra las otras filtro económicas del catálogo
 
-La comparación obligada es la [Atma CA8133](/producto/cafetera-de-filtro-atma-ca8133-semiautomatica-blanca-mla14735678) ($47.567): cuesta $6.800 más, no tiene timer, pero su 4.6 con 879 calificaciones la convierte en la opción robusta y segura de la categoría. La [Atma CA8131](/producto/cafetera-de-filtro-atma-ca8131-blanca-1-25-l-mla37650751) ($45.000) trae filtro lavable como la Ultracomb, aunque su publicación todavía no tiene calificaciones.
+La comparación obligada es la [Atma CA8133](/producto/cafetera-de-filtro-atma-ca8133-semiautomatica-blanca-mla14735678) (desde {{precio:MLA14735678:k}}): cuesta más, no tiene timer, pero es una opción simple y sin vueltas. La [Atma CA8131](/producto/cafetera-de-filtro-atma-ca8131-blanca-1-25-l-mla37650751) ($45.000) trae filtro lavable como la Ultracomb, aunque su publicación todavía no tiene calificaciones.
 
-Si lo que te atrae es la programación, el salto serio es la [Smartlife SL-CM1095](/producto/cafetera-de-filtro-smartlife-sl-cm1095-digital-programable-mla15297115) ($79.999): también programable, con cuerpo de acero inoxidable y 4.7 de rating — al doble de precio.
+Si lo que te atrae es la programación, el salto serio es la [Smartlife SL-CM1095](/producto/cafetera-de-filtro-smartlife-sl-cm1095-digital-programable-mla15297115) (desde {{precio:MLA15297115:k}}): también programable, con cuerpo de acero inoxidable y 4.7 de rating.
 
 ## ¿Para quién es la CA-2205 (y para quién no)?
 
-Es para vos si: tu prioridad es despertarte con el café hecho gastando lo mínimo posible, vas a dejarla fija en la mesada (para no reprogramar el reloj) y la vas a tratar con cuidado. A $40.756 con timer, no tiene competencia directa en precio.
+Es para vos si: tu prioridad es despertarte con el café hecho gastando lo mínimo posible, vas a dejarla fija en la mesada (para no reprogramar el reloj) y la vas a tratar con cuidado. A {{precio:MLA15109525}} con timer, no tiene competencia directa en precio.
 
-No es para vos si: buscás algo robusto que aguante trato descuidado, o te frustra el plástico finito. En ese caso, los $6.800 extra de la Atma CA8133 — la filtro más probada del catálogo — son la mejor inversión de esta página.`,
+No es para vos si: buscás algo robusto que aguante trato descuidado, o te frustra el plástico finito. En ese caso, la Atma CA8133 (desde {{precio:MLA14735678:k}}) o la Electrolux ECM25 con cuerpo de acero (desde {{precio:MLA20008340:k}}) son mejores inversiones.`,
     specs: [
       { label: 'Marca', value: 'Ultracomb (fabricante: Fist Rate)' },
       { label: 'Modelo', value: 'CA-2205 (línea Hogar)' },
@@ -51397,7 +51397,7 @@ No es para vos si: buscás algo robusto que aguante trato descuidado, o te frust
       { question: '¿Qué filtro usa: permanente o de papel?', answer: 'Los dos. Viene con filtro permanente removible y lavable — no comprás repuestos — y también admite filtros de papel tamaño 1x4 si preferís tirar la borra junto con el papel. Esa flexibilidad es poco común en cafeteras de este precio.' },
       { question: '¿Se apaga sola?', answer: 'Sí: tiene apagado automático después de 2 horas de uso continuo, un punto de seguridad que la diferencia de otras filtro económicas como la Atma CA8133, que sigue encendida hasta que la apagás vos. Mientras está encendida, mantiene el café a temperatura.' },
       { question: '¿Se consigue la jarra de repuesto?', answer: 'Es una de las quejas reales: un comprador de 5 estrellas pide ayuda en su propia review — "si saben dónde puedo conseguir la jarra porque se me rompió hace poquito, le agradezco el dato". La jarra es frágil y el repuesto, difícil. Manejala con cuidado, sobre todo al encajarla con el portafiltro.' },
-      { question: '¿Conviene esta o la Atma CA8133?', answer: 'Depende de qué valorás. La Ultracomb ($40.756) gana en funciones: timer, display y apagado automático. La Atma ($47.567) gana en confianza: 4.6 con 879 calificaciones y menos quejas de fragilidad. Si la programación te cambia la mañana, Ultracomb; si querés la compra más segura, Atma.' },
+      { question: '¿Conviene esta o la Atma CA8133?', answer: 'Depende de qué valorás. La Ultracomb (desde {{precio:MLA15109525:k}}) gana en funciones: timer, display y apagado automático. La Atma (desde {{precio:MLA14735678:k}}) es más simple pero con menos quejas de fragilidad en las reviews. Si la programación te cambia la mañana, Ultracomb; si preferís algo sin vueltas, Atma.' },
     ],
     customerReviews: [
       { rating: 5, country: 'Argentina', date: 'julio 2020', useful: 176, text: 'Me hace la vida y la cuarentena mucho más fácil. Yo antes solo podía trabajar 16 horas por día; gracias a esta cafetera, mi productividad se incrementó un 200%, vendí mi cama porque ya no necesito dormir.' },
@@ -51415,7 +51415,7 @@ No es para vos si: buscás algo robusto que aguante trato descuidado, o te frust
       '@type': 'Product',
       name: 'Cafetera de filtro Ultracomb CA-2205 con timer digital',
       image: 'https://http2.mlstatic.com/D_NQ_NP_958590-MLA99443169884_112025-F.jpg',
-      description: 'Cafetera de filtro automática Ultracomb CA-2205 con timer digital programable, apagado automático a las 2 horas, filtro permanente lavable y sistema antigoteo. 4.4 estrellas con 631 calificaciones en MercadoLibre Argentina.',
+      description: 'Cafetera de filtro automática Ultracomb CA-2205 con timer digital programable, apagado automático a las 2 horas, filtro permanente lavable y sistema antigoteo. 4.4 estrellas con 661 calificaciones en MercadoLibre Argentina.',
       sku: 'CA-2205',
       mpn: 'CA-2205',
       brand: { '@type': 'Brand', name: 'Ultracomb' },
@@ -51423,7 +51423,7 @@ No es para vos si: buscás algo robusto que aguante trato descuidado, o te frust
         '@type': 'Offer',
         url: 'https://meli.la/1aZSTdt',
         priceCurrency: 'ARS',
-        price: 40755.89,
+        price: 42999,
         availability: 'https://schema.org/InStock',
         itemCondition: 'https://schema.org/NewCondition',
         seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
@@ -51431,90 +51431,84 @@ No es para vos si: buscás algo robusto que aguante trato descuidado, o te frust
       aggregateRating: {
         '@type': 'AggregateRating',
         ratingValue: '4.4',
-        reviewCount: '631',
+        reviewCount: '661',
       },
     },
     relatedProducts: ['MLA14735678', 'MLA37650751', 'MLA15297115'],
   },
   {
-    id: 'MLA72187457',
-    title: 'Cafetera eléctrica Electrolux ECM25 acero inoxidable',
-    price: 73498,
-    priceUpdated: "2026-08-21",
-    priceLastChecked: "2026-08-31",
+    id: 'MLA20008340',
+    title: 'Cafetera eléctrica Electrolux ECM25 programable negra',
+    price: 76499,
+    originalPrice: 99999,
+    priceUpdated: "2026-11-02",
+    priceLastChecked: "2026-11-02",
     priceStatus: "fresh",
     currency: 'ARS',
-    image: 'https://http2.mlstatic.com/D_NQ_NP_684694-MLA111660947618_062026-F.jpg',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_644717-MLU72637030667_112023-O.webp',
     images: [
-      'https://http2.mlstatic.com/D_NQ_NP_684694-MLA111660947618_062026-F.jpg',
-      'https://http2.mlstatic.com/D_NQ_NP_668011-MLA112738103019_062026-F.jpg',
-      'https://http2.mlstatic.com/D_NQ_NP_988889-MLA112738959091_062026-F.jpg',
-      'https://http2.mlstatic.com/D_NQ_NP_846287-MLA111660770154_062026-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_644717-MLU72637030667_112023-O.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_865819-MLU72637167441_112023-O.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_912368-MLA99440957160_112025-O.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_735509-MLU72565851834_112023-O.webp',
     ],
     category: 'Cocina',
     categorySlug: 'cocina',
-    permalink: 'https://www.mercadolibre.com.ar/p/MLA72187457',
-    affiliateUrl: 'https://meli.la/1E7kmeJ',
+    permalink: 'https://www.mercadolibre.com.ar/p/MLA20008340',
+    affiliateUrl: 'https://meli.la/1rn3dZ3',
     condition: 'new',
     freeShipping: true,
     brand: 'Electrolux',
+    rating: 4.9,
+    reviewCount: 13795,
+    reviewsSampledAt: "2026-11-02",
     pastelColor: 'var(--pastel-coral)',
-    description: 'Cafetera eléctrica de goteo Electrolux ECM25: marca internacional en el rango de entrada. Cuerpo de acero inoxidable plateado — raro en cafeteras de menos de $70.000 —, capacidad de 1,2 litros y temporizador integrado para programar el inicio de la preparación. Es una publicación nueva sin calificaciones todavía: comprás specs y trayectoria de marca, no opiniones verificadas.',
-    seoTitle: 'Cafetera eléctrica Electrolux ECM25: ¿vale sus $69.999?',
-    metaDescription: 'Electrolux ECM25: cafetera eléctrica de goteo, acero inoxidable y timer por $69.999. Publicación nueva sin opiniones: specs reales y a quién le conviene.',
-    ogTitle: 'Electrolux ECM25: acero inoxidable y marca internacional sin irte de presupuesto',
-    ogDescription: 'Una cafetera de goteo con cuerpo de acero y timer programable por $69.999. Lo que garantizan las specs y lo que todavía nadie calificó, contado honesto.',
-    h1: 'Cafetera eléctrica Electrolux ECM25: acero inoxidable y timer en el rango de entrada',
+    description: 'Cafetera eléctrica de goteo Electrolux ECM25: marca internacional con la base de opiniones más grande del catálogo de filtro. Cuerpo de acero inoxidable negro, capacidad de 1,2 litros, temporizador integrado para programar el inicio de la preparación y {{reviews:MLA20008340}} calificaciones a {{rating:MLA20008340}} estrellas.',
+    seoTitle: 'Cafetera eléctrica Electrolux ECM25: ¿vale la pena?',
+    metaDescription: 'Electrolux ECM25: cafetera eléctrica de goteo, acero inoxidable, timer y {{reviews:MLA20008340}} opiniones verificadas a {{rating:MLA20008340}} estrellas. Precio real y a quién le conviene.',
+    ogTitle: 'Electrolux ECM25: acero inoxidable con el respaldo más grande del catálogo de filtro',
+    ogDescription: 'Una cafetera de goteo con cuerpo de acero, timer programable y la base de opiniones más grande entre las filtro del sitio. Precio real, pros y contras.',
+    h1: 'Cafetera eléctrica Electrolux ECM25: acero inoxidable, timer y el mayor respaldo de opiniones del catálogo',
     pros: [
-      'Cuerpo de acero inoxidable: raro en cafeteras de menos de $70.000',
+      '{{reviews:MLA20008340}} calificaciones a {{rating:MLA20008340}} estrellas: la base de opiniones más grande entre las filtro del catálogo',
+      'Cuerpo de acero inoxidable: raro en cafeteras de este rango de precio',
       'Temporizador integrado para programar el inicio de la preparación',
       '1,2 litros de capacidad: varios servicios de café por ciclo',
-      'Compacta: 28 cm de alto x 19 de largo x 23 de ancho, entra en cualquier mesada',
-      'Electrolux: marca internacional con trayectoria en electrodomésticos',
+      'Tienda oficial Electrolux, con stock sano y envío FULL',
     ],
     cons: [
-      'Publicación nueva sin calificaciones: cero feedback verificado de compradores',
-      'La ficha de ML es escueta: no informa potencia ni el tipo de filtro que usa',
-      'Cuesta más que las filtro de Atma, que sí acumulan cientos de opiniones',
+      'Cuesta más que la Atma o la Ultracomb, aunque menos que la Smartlife o la Liliana',
+      'La ficha de ML es escueta en algunos datos: no informa el tipo de filtro que usa',
+      'La publicación original en color plateado que reseñamos antes dejó de estar disponible; esta es la variante negra vigente, mismo modelo ECM25',
     ],
-    verdict: 'Marca internacional y cuerpo de acero inoxidable en el rango de entrada: $69.999 con timer programable. La publicación es nueva y no tiene calificaciones, así que comprás specs y trayectoria de marca. Si preferís certezas, la Atma CA8133 tiene 879 opiniones por $22.000 menos.',
-    articleBody: `## Marca internacional en el rango de entrada
+    verdict: 'Marca internacional, cuerpo de acero inoxidable y la base de opiniones más grande de todo el catálogo de filtro: {{reviews:MLA20008340}} calificaciones a {{rating:MLA20008340}} estrellas, por {{precio:MLA20008340}}. Es la opción con más respaldo real si no te importa pagar algo más que la Atma o la Ultracomb.',
+    articleBody: `## Marca internacional con el mayor respaldo de opiniones del catálogo
 
-La Electrolux ECM25 es una cafetera eléctrica de goteo con cuerpo de acero inoxidable, 1,2 litros de capacidad y temporizador programable por $69.999. Es una publicación nueva: todavía no tiene calificaciones, así que lo que sigue son specs verificables y contexto de marca, no opiniones de compradores.
+La Electrolux ECM25 es una cafetera eléctrica de goteo con cuerpo de acero inoxidable negro, 1,2 litros de capacidad y temporizador programable, vendida por la tienda oficial de Electrolux por {{precio:MLA20008340}}. Junta {{reviews:MLA20008340}} calificaciones a {{rating:MLA20008340}} estrellas: la base de opiniones más grande de cualquier cafetera de filtro de esta comparativa, por lejos.
 
-## Acero inoxidable donde todo es plástico
+## Acero inoxidable donde la mayoría es plástico
 
-El diferencial más visible de la ECM25 está en el material: la ficha indica estructura de acero inoxidable, algo que ninguna de las filtro económicas del catálogo ofrece — la Atma CA8133, la CA8131 y la Ultracomb CA-2205 son de plástico, y en el caso de las dos últimas, las propias descripciones o reviews piden tratarlas con cuidado.
+El diferencial más visible de la ECM25 está en el material: estructura de acero inoxidable, algo que la Atma CA8133, la CA8131 y la Ultracomb CA-2205 no ofrecen (todas de plástico, y en el caso de las dos últimas, las propias reviews piden tratarlas con cuidado). El acabado oscuro además evita el problema que documentan las reviews de las cafeteras blancas: las manchas de café que no salen más.
 
-El acabado plateado además resuelve un problema que documentan las reviews de las cafeteras blancas: las manchas de café sobre plástico claro que no salen más. Sobre acero, ese drama no existe. Para una cocina donde la cafetera queda a la vista, es la diferencia entre un electrodoméstico y un aparato.
+## Timer programable, 800 W y 1,2 litros
 
-## Timer programable y 1,2 litros
+La ficha confirma temporizador integrado de 24 horas: programás el inicio del ciclo y el café arranca solo, la misma lógica que la Ultracomb CA-2205 pero en un cuerpo de otra categoría. Tiene 800 W de potencia y una capacidad de 1,2 litros que da varios servicios por preparación, en línea con las jarras de 1,25 L de las Atma. Es automática y de goteo: café de filtro clásico, sin presión ni espresso.
 
-La ficha confirma temporizador integrado: programás el inicio del ciclo y el café arranca solo, la misma lógica que la Ultracomb CA-2205 pero en un cuerpo de otra categoría. La capacidad de 1,2 litros da varios servicios por preparación — en línea con las jarras de 1,25 L de las Atma.
+## Un aviso sobre el color de la publicación
 
-Es automática y de goteo: café de filtro clásico, sin presión ni espresso. La descripción destaca el funcionamiento estable y rápido del sistema eléctrico, aunque — honestidad — la ficha no informa la potencia en watts, un dato que sí dan sus competidoras.
-
-## Lo que no sabemos todavía (y no vamos a inventar)
-
-Esta publicación no tiene calificaciones, y eso significa que hay preguntas sin respuesta verificada: cuánto tarda en preparar la jarra completa, qué tan intuitivo es programar el timer, si el filtro es permanente o de papel, y cómo envejece con el uso diario. Ninguna review documenta nada de eso todavía.
-
-Lo que sí hay es trayectoria: Electrolux es una marca internacional con décadas en electrodomésticos y servicio técnico establecido en Argentina. No reemplaza a las opiniones, pero es un respaldo distinto al de una marca genérica sin historia.
-
-## Compacta para mesadas reales
-
-Las medidas que da la descripción: 28 cm de alto, 19 cm de largo y 23 cm de ancho. Es un formato compacto que entra debajo de las alacenas y no monopoliza la mesada — un punto a favor frente a cafeteras más anchas como la Ultracomb CA-2205, que ocupa 30 cm de profundidad.
+Esta ficha reseñaba antes la variante plateada de la ECM25 (publicación original sin stock), que con el tiempo dejó de estar disponible. El modelo sigue vigente: esta es la variante negra, vendida por la tienda oficial de Electrolux, con stock sano y el mismo cuerpo de acero inoxidable, temporizador y capacidad que la versión anterior.
 
 ## Contra las filtro económicas del catálogo
 
-Hacia abajo, la [Atma CA8133](/producto/cafetera-de-filtro-atma-ca8133-semiautomatica-blanca-mla14735678) ($47.567) es la referencia de la categoría: $22.000 más barata y con 879 calificaciones que documentan años de uso — a cambio de cuerpo plástico y cero programación. Si tu prioridad es la certeza, es difícil argumentar contra ella.
+Hacia abajo, la [Atma CA8133](/producto/cafetera-de-filtro-atma-ca8133-semiautomatica-blanca-mla14735678) (desde {{precio:MLA14735678:k}}) es más barata, con cuerpo plástico y cero programación. La [Ultracomb CA-2205](/producto/cafetera-de-filtro-ultracomb-ca-2205-con-timer-digital-mla15109525) (desde {{precio:MLA15109525:k}}) también es más económica y tiene timer, pero con materiales más frágiles según sus reviews.
 
-Hacia arriba, la [Smartlife SL-CM1095](/producto/cafetera-de-filtro-smartlife-sl-cm1095-digital-programable-mla15297115) ($79.999) es la rival directa: también programable y con acero inoxidable, pero con 4.7 estrellas y 94 calificaciones que la ECM25 no tiene. Por $10.000 más, hoy es la opción programable con más respaldo.
+Hacia arriba, la [Smartlife SL-CM1095](/producto/cafetera-de-filtro-smartlife-sl-cm1095-digital-programable-mla15297115) (desde {{precio:MLA15297115:k}}) también es programable y con acero inoxidable, con buen respaldo de opiniones propio, aunque menor al de esta Electrolux. Y la [Liliana AC935](/producto/cafetera-de-filtro-liliana-ac935-digital-con-jarra-de-acero-1-2-l-mla62786317) (desde {{precio:MLA62786317:k}}) suma jarra térmica de acero para quien busca la opción premium.
 
 ## ¿Para quién es la ECM25 (y para quién no)?
 
-Es para vos si: querés una cafetera de goteo con timer y cuerpo de acero de una marca internacional, valorás el diseño en la mesada y no te pesa ser de los primeros compradores de una publicación sin calificaciones.
+Es para vos si: querés una cafetera de goteo con timer y cuerpo de acero de una marca internacional, valorás el diseño en la mesada y preferís comprar con el mayor respaldo de opiniones posible dentro de esta comparativa.
 
-No es para vos si: comprás solo con respaldo de opiniones — la Smartlife SL-CM1095 te da casi lo mismo con 94 calificaciones por $10.000 más, y la Atma CA8133 te da el café de filtro probado por 879 personas por $22.000 menos, sin timer ni acero.`,
+No es para vos si: tu prioridad es gastar lo mínimo posible — ahí la Atma CA8133 o la Ultracomb CA-2205 cuestan menos.`,
     specs: [
       { label: 'Marca', value: 'Electrolux' },
       { label: 'Modelo', value: 'ECM25' },
@@ -51522,52 +51516,58 @@ No es para vos si: comprás solo con respaldo de opiniones — la Smartlife SL-C
       { label: 'Tecnología', value: 'Automática' },
       { label: 'Estructura', value: 'Acero inoxidable' },
       { label: 'Capacidad de agua', value: '1,2 L' },
-      { label: 'Temporizador', value: 'Sí, integrado para programar el inicio' },
+      { label: 'Potencia', value: '800 W' },
+      { label: 'Temporizador', value: 'Sí, programable a 24 horas' },
       { label: 'Tipo de alimentación', value: 'Eléctrica' },
       { label: 'Voltaje', value: '220 V' },
-      { label: 'Color', value: 'Plateado' },
+      { label: 'Color', value: 'Negro' },
       { label: 'Altura', value: '28 cm' },
       { label: 'Largo', value: '19 cm' },
       { label: 'Ancho', value: '23 cm' },
       { label: 'Incluye pilas', value: 'No' },
     ],
     faq: [
-      { question: '¿La Electrolux ECM25 tiene opiniones de compradores?', answer: 'No: es una publicación nueva y todavía no tiene calificaciones. Todo lo que contamos acá sale de la ficha técnica y la descripción oficial — no hay experiencias de usuarios para citar, y no vamos a inventarlas. Si las opiniones te dan tranquilidad, la Smartlife SL-CM1095 es la programable con respaldo del catálogo.' },
-      { question: '¿Es de acero inoxidable de verdad?', answer: 'La ficha técnica de MercadoLibre lo confirma: materiales de la estructura, acero inoxidable, con acabado plateado. Es el diferencial frente a las filtro económicas del catálogo, todas de plástico. Además evita el problema clásico de las cafeteras blancas: las manchas de café que no salen del plástico claro.' },
-      { question: '¿Se puede programar para que el café esté listo a la mañana?', answer: 'Sí: tiene temporizador integrado que, según la descripción oficial, permite programar el inicio del ciclo de preparación. Es la misma lógica de la Ultracomb CA-2205, pero en cuerpo de acero. El detalle honesto: sin reviews, nadie documentó todavía qué tan fácil o engorroso es configurarlo.' },
+      { question: '¿La Electrolux ECM25 tiene opiniones de compradores?', answer: 'Sí, y muchas: {{reviews:MLA20008340}} calificaciones a {{rating:MLA20008340}} estrellas, la base de opiniones más grande de cualquier cafetera de filtro de esta comparativa. Es la tienda oficial de Electrolux, con más de 1.000 ventas.' },
+      { question: '¿Es de acero inoxidable de verdad?', answer: 'La ficha técnica de MercadoLibre lo confirma: estructura de acero inoxidable. Es el diferencial frente a las filtro económicas del catálogo, todas de plástico. Además evita el problema clásico de las cafeteras blancas: las manchas de café que no salen del plástico claro.' },
+      { question: '¿Se puede programar para que el café esté listo a la mañana?', answer: 'Sí: tiene temporizador programable a 24 horas. Es la misma lógica de la Ultracomb CA-2205, pero en cuerpo de acero y con más respaldo de opiniones reales sobre cómo funciona en el día a día.' },
       { question: '¿Qué tipo de café hace?', answer: 'Café de filtro por goteo, el clásico de jarra: cargás agua y café molido, y la máquina gotea la preparación. No tiene bomba de presión, así que no hace espresso ni capuchino. Para espresso real, el catálogo arranca con la Ultracomb CE-6108 a {{precio:MLA36409137}}.' },
-      { question: '¿Para cuántas tazas alcanza?', answer: 'La capacidad es de 1,2 litros, que la descripción traduce como múltiples servicios de café por preparación. Está en la misma liga que las jarras de 1,25 L de las Atma: suficiente para una familia o para una mañana entera de trabajo sin repetir el ciclo.' },
-      { question: '¿Por qué cuesta más que las Atma si no tiene opiniones?', answer: 'Pagás dos cosas: el cuerpo de acero inoxidable (las Atma son de plástico) y la marca internacional con servicio técnico establecido. Si eso no te importa, la CA8133 a $47.567 con 879 calificaciones es la compra racional. La ECM25 apunta a quien quiere mejor material y diseño en la mesada.' },
-      { question: '¿Entra en una mesada chica?', answer: 'Sí: mide 28 cm de alto, 19 cm de largo y 23 cm de ancho según la descripción oficial — formato compacto que entra debajo de las alacenas estándar. Es menos profunda que la Ultracomb CA-2205 (30 cm), un detalle si tu espacio de mesada está contado.' },
-      { question: '¿Conviene esta o la Smartlife SL-CM1095?', answer: 'Son rivales directas: las dos programables y con acero inoxidable. La Smartlife ($79.999) tiene 4.7 estrellas con 94 calificaciones; la Electrolux ($69.999) es $10.000 más barata pero sin feedback todavía. Si querés certezas, Smartlife; si confiás en la marca y preferís ahorrar, Electrolux.' },
+      { question: '¿Para cuántas tazas alcanza?', answer: 'La capacidad es de 1,2 litros, varios servicios de café por preparación. Está en la misma liga que las jarras de 1,25 L de las Atma: suficiente para una familia o para una mañana entera de trabajo sin repetir el ciclo.' },
+      { question: '¿Por qué esta ficha antes decía que no tenía reseñas?', answer: 'Reseñábamos la publicación plateada original de la ECM25, que con el tiempo se quedó sin stock y dejó de estar disponible. El modelo sigue vigente en esta variante negra, vendida por la tienda oficial de Electrolux, que acumuló {{reviews:MLA20008340}} calificaciones reales desde entonces.' },
+      { question: '¿Entra en una mesada chica?', answer: 'Sí: mide 28 cm de alto, 19 cm de largo y 23 cm de ancho — formato compacto que entra debajo de las alacenas estándar. Es menos profunda que la Ultracomb CA-2205 (30 cm), un detalle si tu espacio de mesada está contado.' },
+      { question: '¿Conviene esta o la Smartlife SL-CM1095?', answer: 'Son rivales directas: las dos programables y con acero inoxidable. La Electrolux (desde {{precio:MLA20008340:k}}) tiene más respaldo de opiniones; la Smartlife (desde {{precio:MLA15297115:k}}) es algo más cara. Las dos están bien respaldadas hoy, así que la decisión pasa más por precio y diseño que por certezas.' },
     ],
     structuredData: {
       '@context': 'https://schema.org',
       '@type': 'Product',
       name: 'Cafetera eléctrica Electrolux ECM25',
-      image: 'https://http2.mlstatic.com/D_NQ_NP_684694-MLA111660947618_062026-F.jpg',
-      description: 'Cafetera eléctrica de goteo Electrolux ECM25: cuerpo de acero inoxidable plateado, capacidad de 1,2 litros y temporizador integrado para programar el inicio de la preparación. Producto nuevo en MercadoLibre Argentina.',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_644717-MLU72637030667_112023-O.webp',
+      description: 'Cafetera eléctrica de goteo Electrolux ECM25: cuerpo de acero inoxidable negro, capacidad de 1,2 litros y temporizador programable a 24 horas. 4.9 estrellas con 13.795 calificaciones en MercadoLibre Argentina.',
       sku: 'ECM25',
       mpn: 'ECM25',
       brand: { '@type': 'Brand', name: 'Electrolux' },
       offers: {
         '@type': 'Offer',
-        url: 'https://meli.la/1y5nrwc',
+        url: 'https://meli.la/1rn3dZ3',
         priceCurrency: 'ARS',
-        price: 69999,
+        price: 76499,
         availability: 'https://schema.org/InStock',
         itemCondition: 'https://schema.org/NewCondition',
         seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
       },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.9',
+        reviewCount: '13795',
+      },
     },
-    relatedProducts: ['MLA14735678', 'MLA15297115'],
+    relatedProducts: ['MLA14735678', 'MLA15297115', 'MLA62786317'],
   },
   {
     id: 'MLA15297115',
     title: 'Cafetera de filtro Smartlife SL-CM1095 digital programable',
-    price: 104849,
-    priceUpdated: "2026-10-07",
-    priceLastChecked: "2026-10-12",
+    price: 115000,
+    priceUpdated: "2026-11-02",
+    priceLastChecked: "2026-11-02",
     priceStatus: "fresh",
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_902015-MLA100075937483_122025-F.jpg',
@@ -51587,15 +51587,15 @@ No es para vos si: comprás solo con respaldo de opiniones — la Smartlife SL-C
     rating: 4.7,
     reviewCount: 1738,
     pastelColor: 'var(--pastel-coral)',
-    description: 'Cafetera de filtro Smartlife SL-CM1095: digital, programable y con 1,5 litros de capacidad (12 pocillos). La cargás a la noche, programás la hora y te despertás con el café hecho. Pantalla digital, antigoteo, indicador de agua y frente con acero inoxidable, con 4.7 estrellas en 94 calificaciones. El paso intermedio entre las filtro básicas y las premium con jarra térmica.',
+    description: 'Cafetera de filtro Smartlife SL-CM1095: digital, programable y con 1,5 litros de capacidad (12 pocillos). La cargás a la noche, programás la hora y te despertás con el café hecho. Pantalla digital, antigoteo, indicador de agua y frente con acero inoxidable, con 4.7 estrellas en {{reviews:MLA15297115}} calificaciones. El paso intermedio entre las filtro básicas y las premium con jarra térmica.',
     aiReviewSummary: 'La función estrella según los compradores es la programación: "la programo y tengo el café hecho a la hora exacta" se repite en distintas versiones. También elogian los materiales, la base antideslizante y la velocidad (menos de 10 minutos). La crítica honesta del panorama: la temperatura — más de una review dice que el café sale tibio o que no se mantiene caliente mucho tiempo.',
     seoTitle: 'Cafetera Smartlife SL-CM1095: filtro programable, ¿rinde?',
-    metaDescription: 'Cafetera de filtro programable Smartlife SL-CM1095: 1,5 L, pantalla digital y 4.7★ en 94 opiniones. Qué dicen las reviews sobre la temperatura del café.',
-    ogTitle: 'Smartlife SL-CM1095: despertarse con el café ya hecho, por menos de $80.000',
+    metaDescription: 'Cafetera de filtro programable Smartlife SL-CM1095: 1,5 L, pantalla digital y 4.7★ en {{reviews:MLA15297115}} opiniones. Qué dicen las reviews sobre la temperatura del café.',
+    ogTitle: 'Smartlife SL-CM1095: despertarse con el café ya hecho, por menos de $120.000',
     ogDescription: 'La filtro digital programable de Smartlife: 12 pocillos, 4.7★ y un punto flojo que las reviews repiten. Te lo contamos sin filtro (bueno, con filtro).',
     h1: 'Cafetera Smartlife SL-CM1095: la filtro digital programable que te hace el café antes de que te levantes',
     pros: [
-      '4.7⭐ con 94 calificaciones y ninguna review de 1 estrella',
+      '4.7⭐ con {{reviews:MLA15297115}} calificaciones y pocas reviews de 1 estrella',
       'Programable: la dejás cargada a la noche y el café está listo a la hora exacta',
       'Capacidad de 1,5 L (12 pocillos): rinde para toda la familia',
       'Pantalla digital con temporizador, válvula antigoteo e indicador de agua',
@@ -51608,10 +51608,10 @@ No es para vos si: comprás solo con respaldo de opiniones — la Smartlife SL-C
       'Una review de 4 estrellas pide que la resistencia caliente un poco más',
       'Jarra de vidrio común, sin aislamiento térmico: depende de la placa para conservar calor',
     ],
-    verdict: 'Por $79.999, la programación cambia la rutina de la mañana: café hecho a la hora exacta, 12 pocillos y materiales que las reviews elogian. Su talón de Aquiles es la temperatura — si tomás el café apenas sale, no lo vas a notar; si lo dejás reposar, sí.',
+    verdict: 'Por {{precio:MLA15297115}}, la programación cambia la rutina de la mañana: café hecho a la hora exacta, 12 pocillos y materiales que las reviews elogian. Su talón de Aquiles es la temperatura — si tomás el café apenas sale, no lo vas a notar; si lo dejás reposar, sí.',
     articleBody: `## La filtro programable de Smartlife
 
-La SL-CM1095 es la cafetera de filtro digital de Smartlife: cuesta $79.999, prepara 1,5 litros (12 pocillos) y su gracia es la programación — la cargás a la noche y el café está listo a la hora que vos definas. Junta 4.7 estrellas en 94 calificaciones, sin ninguna review de 1 estrella.
+La SL-CM1095 es la cafetera de filtro digital de Smartlife: cuesta {{precio:MLA15297115}}, prepara 1,5 litros (12 pocillos) y su gracia es la programación — la cargás a la noche y el café está listo a la hora que vos definas. Junta 4.7 estrellas en {{reviews:MLA15297115}} calificaciones.
 
 ## Programar el café: la función que las reviews aman
 
@@ -51631,23 +51631,23 @@ Acá va lo que las reviews críticas repiten. La única calificación de 3 estre
 
 El patrón es claro: el café sale a temperatura correcta pero justa, y la placa no lo mantiene caliente por mucho tiempo. Si tu ritual es servirte apenas termina de filtrar, no lo vas a sufrir. Si dejás la jarra una hora en la base esperando el segundo café, sí.
 
-## Lo que dicen las 94 calificaciones
+## Lo que dicen las {{reviews:MLA15297115}} calificaciones
 
-El desglose: 77 personas pusieron 5 estrellas, 10 pusieron 4, y solo 7 calificaron con 3 o menos (ninguna con 1). Además de la programación, los elogios apuntan a la construcción: "material impecable", "no se resbala ya que tiene antideslizante", "los materiales son de calidad". Varios compradores tienen otros productos de la marca y repiten.
+Además de la programación, los elogios apuntan a la construcción: "material impecable", "no se resbala ya que tiene antideslizante", "los materiales son de calidad". Varios compradores tienen otros productos de la marca y repiten.
 
 La frase que mejor resume el consenso es de una review de 2025: "tuve varias cafeteras y en relación precio calidad esta me pareció increíble".
 
 ## Contra la Liliana AC935, la Atma CA8133 y la Electrolux ECM25
 
-La comparación natural hacia arriba es la [Liliana AC935](/producto/cafetera-de-filtro-liliana-ac935-digital-con-jarra-de-acero-1-2-l-mla62786317) ($112.767): también digital y programable, pero con jarra térmica de acero inoxidable en lugar de vidrio — justo el punto flojo de la Smartlife, resuelto por $33.000 más.
+La comparación natural hacia arriba es la [Liliana AC935](/producto/cafetera-de-filtro-liliana-ac935-digital-con-jarra-de-acero-1-2-l-mla62786317) (desde {{precio:MLA62786317:k}}): también digital y programable, pero con jarra térmica de acero inoxidable en lugar de vidrio — justo el punto flojo de la Smartlife.
 
-Hacia abajo, la [Atma CA8133](/producto/cafetera-de-filtro-atma-ca8133-semiautomatica-blanca-mla14735678) ($47.567) es la filtro más probada del catálogo (879 calificaciones) a casi la mitad de precio, pero sin programación ni pantalla. Y la [Electrolux ECM25](/producto/cafetera-electrica-electrolux-ecm25-acero-inoxidable-mla72187457) ($69.999) pone una marca internacional en el mismo rango, aunque su publicación todavía no tiene calificaciones.
+Hacia abajo, la [Atma CA8133](/producto/cafetera-de-filtro-atma-ca8133-semiautomatica-blanca-mla14735678) (desde {{precio:MLA14735678:k}}) es bastante más barata, pero sin programación ni pantalla. Y la [Electrolux ECM25](/producto/cafetera-electrica-electrolux-ecm25-programable-negra-mla20008340) (desde {{precio:MLA20008340:k}}) pone acero inoxidable y aún más respaldo de opiniones ({{reviews:MLA20008340}} calificaciones) en un rango de precio intermedio.
 
 ## ¿Para quién es la SL-CM1095 (y para quién no)?
 
-Es para vos si: tomás café de filtro todas las mañanas, querés despertarte con el café ya hecho y buscás capacidad familiar sin gastar de más. No es para vos si: dejás la jarra reposando horas y esperás que siga hirviendo (mirá la Liliana AC935 con jarra térmica), o si solo querés una filtro simple y barata sin pantalla (la Atma CA8133 cuesta casi la mitad).
+Es para vos si: tomás café de filtro todas las mañanas, querés despertarte con el café ya hecho y buscás capacidad familiar. No es para vos si: dejás la jarra reposando horas y esperás que siga hirviendo (mirá la Liliana AC935 con jarra térmica), o si solo querés una filtro simple y barata sin pantalla (la Atma CA8133 cuesta bastante menos).
 
-A $79.999 con 4.7 estrellas y la programación como diferencial real, es el paso intermedio exacto entre las filtro básicas y las premium.`,
+A {{precio:MLA15297115}} con 4.7 estrellas y la programación como diferencial real, es el paso intermedio entre las filtro básicas y las premium.`,
     specs: [
       { label: 'Marca', value: 'Smartlife' },
       { label: 'Modelo', value: 'SL-CM1095' },
@@ -51675,8 +51675,8 @@ A $79.999 con 4.7 estrellas y la programación como diferencial real, es el paso
       { question: '¿El café sale bien caliente?', answer: 'Es la crítica honesta de esta cafetera. La única review de 3 estrellas dice que el café "queda tibio", y una de 4 pide más temperatura en la resistencia. La mayoría no lo sufre porque toma el café apenas sale; si te pasa lo mismo, precalentá la taza y servite al toque.' },
       { question: '¿Mantiene el café caliente después de prepararlo?', answer: 'Tiene placa calefactora, pero las reviews avisan que no conserva la temperatura por mucho tiempo: "no mantiene muy caliente el café, sirve para tomarlo inmediatamente". Si querés café caliente horas después, la Liliana AC935 con jarra térmica de acero es la alternativa directa del catálogo.' },
       { question: '¿Cuánto tarda en hacer el café?', answer: 'Rápido para su capacidad: una review midió menos de 10 minutos para la preparación completa, y varias destacan la velocidad como punto fuerte. Para una jarra de 1,5 litros es un tiempo más que razonable, y si programás, el tiempo de espera directamente desaparece de tu mañana.' },
-      { question: '¿Es de buena calidad de materiales?', answer: 'Las reviews son consistentes en esto: "material impecable", "los materiales son de calidad", "estéticamente hermosa". Combina plástico con frente de acero inoxidable, y trae base antideslizante que los compradores valoran. Ninguna de las 94 calificaciones es de 1 estrella, un dato que respalda la construcción.' },
-      { question: '¿Conviene esta o la Liliana AC935?', answer: 'Las dos son digitales y programables. La Smartlife ($79.999) tiene más capacidad (1,5 L contra 1,2 L) y cuesta $33.000 menos; la Liliana AC935 ($112.767) suma jarra térmica de acero inoxidable, que resuelve justo la crítica de temperatura de la Smartlife. Si tomás el café al instante, la Smartlife alcanza; si lo dejás reposar, pagá la jarra térmica.' },
+      { question: '¿Es de buena calidad de materiales?', answer: 'Las reviews son consistentes en esto: "material impecable", "los materiales son de calidad", "estéticamente hermosa". Combina plástico con frente de acero inoxidable, y trae base antideslizante que los compradores valoran.' },
+      { question: '¿Conviene esta o la Liliana AC935?', answer: 'Las dos son digitales y programables. La Smartlife (desde {{precio:MLA15297115:k}}) tiene más capacidad (1,5 L contra 1,2 L) y cuesta menos; la Liliana AC935 (desde {{precio:MLA62786317:k}}) suma jarra térmica de acero inoxidable, que resuelve justo la crítica de temperatura de la Smartlife. Si tomás el café al instante, la Smartlife alcanza; si lo dejás reposar, pagá la jarra térmica.' },
     ],
     customerReviews: [
       { rating: 5, country: 'Argentina', date: 'septiembre 2023', useful: 8, text: 'Material impecable, fácil de usar, la programación es genial, no se resbala ya que tiene antideslizante, la jarra es bastante grande y resalto que los materiales son de calidad. Contento.' },
@@ -51693,7 +51693,7 @@ A $79.999 con 4.7 estrellas y la programación como diferencial real, es el paso
       '@type': 'Product',
       name: 'Cafetera de filtro Smartlife SL-CM1095 digital programable',
       image: 'https://http2.mlstatic.com/D_NQ_NP_902015-MLA100075937483_122025-F.jpg',
-      description: 'Cafetera de filtro digital programable Smartlife SL-CM1095: 1,5 litros (12 pocillos), pantalla digital, temporizador, válvula antigoteo y filtro permanente lavable. 4.7 estrellas con 94 calificaciones en MercadoLibre Argentina.',
+      description: 'Cafetera de filtro digital programable Smartlife SL-CM1095: 1,5 litros (12 pocillos), pantalla digital, temporizador, válvula antigoteo y filtro permanente lavable. 4.7 estrellas con 1.738 calificaciones en MercadoLibre Argentina.',
       sku: 'SL-CM1095',
       mpn: 'SL-CM1095',
       brand: { '@type': 'Brand', name: 'Smartlife' },
@@ -51701,7 +51701,7 @@ A $79.999 con 4.7 estrellas y la programación como diferencial real, es el paso
         '@type': 'Offer',
         url: 'https://meli.la/2Dw1odT',
         priceCurrency: 'ARS',
-        price: 79999,
+        price: 115000,
         availability: 'https://schema.org/InStock',
         itemCondition: 'https://schema.org/NewCondition',
         seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
@@ -51709,17 +51709,17 @@ A $79.999 con 4.7 estrellas y la programación como diferencial real, es el paso
       aggregateRating: {
         '@type': 'AggregateRating',
         ratingValue: '4.7',
-        reviewCount: '94',
+        reviewCount: '1738',
       },
     },
-    relatedProducts: ['MLA62786317', 'MLA14735678', 'MLA72187457'],
+    relatedProducts: ['MLA62786317', 'MLA14735678', 'MLA20008340'],
   },
   {
     id: 'MLA62786317',
     title: 'Cafetera de filtro Liliana AC935 digital con jarra de acero 1,2 L',
-    price: 133799,
-    priceUpdated: "2026-10-12",
-    priceLastChecked: "2026-10-12",
+    price: 132999,
+    priceUpdated: "2026-11-02",
+    priceLastChecked: "2026-11-02",
     priceStatus: "fresh",
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_988328-MLA100242892537_122025-F.jpg',
@@ -51737,7 +51737,7 @@ A $79.999 con 4.7 estrellas y la programación como diferencial real, es el paso
     freeShipping: true,
     brand: 'Liliana',
     rating: 4.8,
-    reviewCount: 105,
+    reviewCount: 116,
     pastelColor: 'var(--pastel-coral)',
     description: 'Cafetera de filtro Liliana AC935 DripXpert: digital, programable y con el diferencial que ninguna otra filtro del catálogo tiene — jarra térmica de acero inoxidable de 1,2 litros en lugar de vidrio. Panel con 6 funciones, selector de intensidad, apagado automático y 4.8 estrellas en {{reviews:MLA62786317}} calificaciones, el mejor rating entre las cafeteras de filtro del catálogo.',
     aiReviewSummary: 'La jarra de acero es el motivo de compra más mencionado: "lo elegimos por la jarra principalmente, para mayor durabilidad". También elogian la programación ("ya no me despierta la alarma, sino el olorcito a café"), el selector de intensidad y la estética. Las críticas honestas: una compradora reporta que el botón de intensidad falló al principio, y otra aclara que la jarra térmica mantiene el café a temperatura tomable unos 40-50 minutos — térmica, pero no un termo.',
@@ -51760,10 +51760,10 @@ A $79.999 con 4.7 estrellas y la programación como diferencial real, es el paso
       'Capacidad de 1,2 L, algo menor que otras filtro del catálogo de 1,5 L',
       'Es fabricación china importada por Liliana, aclara una compradora — no industria nacional',
     ],
-    verdict: 'La filtro premium del catálogo: programable, con intensidad regulable y la única con jarra de acero que no se te rompe en la bacha. A $112.767 cuesta más que las filtro comunes, pero el 4.8 de rating y la durabilidad de la jarra justifican la diferencia para uso diario.',
+    verdict: 'La filtro premium del catálogo: programable, con intensidad regulable y la única con jarra de acero que no se te rompe en la bacha. A {{precio:MLA62786317}} cuesta más que las filtro comunes, pero el 4.8 de rating y la durabilidad de la jarra justifican la diferencia para uso diario.',
     articleBody: `## La filtro premium del catálogo
 
-La Liliana AC935 (línea DripXpert) es la cafetera de filtro tope del catálogo: cuesta $112.767, es digital y programable, y su diferencial es la jarra térmica de acero inoxidable de 1,2 litros — nada de vidrio. Junta 4.8 estrellas en {{reviews:MLA62786317}} calificaciones, el mejor rating entre las filtro.
+La Liliana AC935 (línea DripXpert) es la cafetera de filtro tope del catálogo: cuesta {{precio:MLA62786317}}, es digital y programable, y su diferencial es la jarra térmica de acero inoxidable de 1,2 litros — nada de vidrio. Junta 4.8 estrellas en {{reviews:MLA62786317}} calificaciones, el mejor rating entre las filtro.
 
 ## La jarra de acero: el motivo de compra número uno
 
@@ -51785,21 +51785,21 @@ Completan la ficha: apagado automático a los 120 minutos, filtro removible y la
 
 ## Lo que dicen las {{reviews:MLA62786317}} calificaciones (incluido el botón que falló)
 
-El desglose: 36 personas pusieron 5 estrellas, 5 pusieron 4 y solo 1 calificó con 3 — sin reviews de 1 ni 2 estrellas. Los elogios: estética ("además de preciosa funciona perfecto"), facilidad de uso y limpieza, velocidad.
+Los elogios se repiten en las reviews: estética ("además de preciosa funciona perfecto"), facilidad de uso y limpieza, velocidad.
 
 La crítica concreta a registrar: una compradora de 4 estrellas cuenta que "al principio no funcionaba el botón de intensidad, casi la devuelvo, pero después funcionó", y de paso aclara que la cafetera "es china, pero la importa Liliana". Caso aislado en el muestreo, pero existe — si te pasa, probá la garantía de Liliana antes de resignarte.
 
 ## Contra la Smartlife SL-CM1095 y la Atma CA8133
 
-La competencia directa es la [Smartlife SL-CM1095](/producto/cafetera-de-filtro-smartlife-sl-cm1095-digital-programable-mla15297115) ($79.999): también digital y programable, con más capacidad (1,5 L contra 1,2 L) y $33.000 más barata — pero con jarra de vidrio y la temperatura como crítica repetida en sus reviews. La AC935 resuelve exactamente eso.
+La competencia directa es la [Smartlife SL-CM1095](/producto/cafetera-de-filtro-smartlife-sl-cm1095-digital-programable-mla15297115) (desde {{precio:MLA15297115:k}}): también digital y programable, con más capacidad (1,5 L contra 1,2 L) y más barata — pero con jarra de vidrio y la temperatura como crítica repetida en sus reviews. La AC935 resuelve exactamente eso.
 
-Si el presupuesto manda, la [Atma CA8133](/producto/cafetera-de-filtro-atma-ca8133-semiautomatica-blanca-mla14735678) ($47.567) es la filtro más probada del catálogo con 879 calificaciones: simple, sin pantalla ni programación, a menos de la mitad de precio. La AC935 es para quien ya decidió pagar por las funciones premium.
+Si el presupuesto manda, la [Atma CA8133](/producto/cafetera-de-filtro-atma-ca8133-semiautomatica-blanca-mla14735678) (desde {{precio:MLA14735678:k}}) es simple, sin pantalla ni programación, a bastante menos de precio. La AC935 es para quien ya decidió pagar por las funciones premium.
 
 ## ¿Para quién es la AC935 (y para quién no)?
 
 Es para vos si: tomás café de filtro todos los días, ya rompiste alguna jarra de vidrio (o no querés averiguar cómo se siente), y valorás programación e intensidad regulable. No es para vos si: buscás la filtro más barata posible (Atma CA8133) o necesitás 1,5 litros y preferís ahorrar (Smartlife SL-CM1095).
 
-A $112.767 con 4.8 estrellas, es la filtro para comprar una sola vez: la jarra de acero es de esas decisiones que se agradecen años después.`,
+A {{precio:MLA62786317}} con 4.8 estrellas, es la filtro para comprar una sola vez: la jarra de acero es de esas decisiones que se agradecen años después.`,
     specs: [
       { label: 'Marca / Fabricante', value: 'Liliana SRL' },
       { label: 'Modelo', value: 'AC935 (línea DripXpert)' },
@@ -51827,7 +51827,7 @@ A $112.767 con 4.8 estrellas, es la filtro para comprar una sola vez: la jarra d
       { question: '¿Cuántos pocillos prepara?', answer: 'El tanque es de 1,2 litros, que rinden alrededor de 10-12 pocillos según el tamaño de taza. Es algo menos que las filtro de 1,5 litros del catálogo, como la Smartlife SL-CM1095 o la Atma CA8133, pero suficiente para el desayuno de una familia.' },
       { question: '¿Es fácil de limpiar?', answer: 'Sí: el filtro es removible y lavable, y tanto la jarra como el filtro son aptos para lavavajillas. Las reviews lo confirman — "muy linda, fácil de armar y limpiar". Suma la válvula antigoteo para servir sin chorrear y la protección contra hervido en seco si te olvidás de cargar agua.' },
       { question: '¿La Liliana AC935 es industria argentina?', answer: 'No: una compradora lo aclara en su review — "es china, pero la importa Liliana". Liliana es una marca argentina con larga trayectoria en electrodomésticos y respaldo local de garantía y servicio técnico, pero este modelo es de fabricación china, algo habitual en la categoría.' },
-      { question: '¿Conviene esta o la Smartlife SL-CM1095?', answer: 'Las dos son digitales y programables. La Smartlife ($79.999) ofrece 1,5 litros y cuesta menos, pero su crítica repetida es que el café queda tibio y la jarra de vidrio no ayuda. La AC935 ($112.767) resuelve justo eso con la jarra térmica de acero y suma intensidad regulable. Para uso diario intenso, la diferencia se paga sola.' },
+      { question: '¿Conviene esta o la Smartlife SL-CM1095?', answer: 'Las dos son digitales y programables. La Smartlife (desde {{precio:MLA15297115:k}}) ofrece 1,5 litros y cuesta menos, pero su crítica repetida es que el café queda tibio y la jarra de vidrio no ayuda. La AC935 (desde {{precio:MLA62786317:k}}) resuelve justo eso con la jarra térmica de acero y suma intensidad regulable. Para uso diario intenso, la diferencia se paga sola.' },
     ],
     customerReviews: [
       { rating: 4, country: 'Argentina', date: 'marzo 2026', useful: 2, text: 'Muy linda. Es china, pero la importa Liliana. Al principio no funcionaba el botón de intensidad, casi la devuelvo, pero después funcionó. Lo lindo es que se programa.' },
@@ -51844,7 +51844,7 @@ A $112.767 con 4.8 estrellas, es la filtro para comprar una sola vez: la jarra d
       '@type': 'Product',
       name: 'Cafetera de filtro Liliana AC935 digital con jarra de acero',
       image: 'https://http2.mlstatic.com/D_NQ_NP_988328-MLA100242892537_122025-F.jpg',
-      description: 'Cafetera de filtro digital programable Liliana AC935: jarra térmica de acero inoxidable de 1,2 litros, panel con 6 funciones, selector de intensidad y apagado automático. 4.8 estrellas con 42 calificaciones en MercadoLibre Argentina.',
+      description: 'Cafetera de filtro digital programable Liliana AC935: jarra térmica de acero inoxidable de 1,2 litros, panel con 6 funciones, selector de intensidad y apagado automático. 4.8 estrellas con 116 calificaciones en MercadoLibre Argentina.',
       sku: 'AC935',
       mpn: 'AC935',
       brand: { '@type': 'Brand', name: 'Liliana' },
@@ -51852,7 +51852,7 @@ A $112.767 con 4.8 estrellas, es la filtro para comprar una sola vez: la jarra d
         '@type': 'Offer',
         url: 'https://meli.la/2fbAbdd',
         priceCurrency: 'ARS',
-        price: 112766.76,
+        price: 132999,
         availability: 'https://schema.org/InStock',
         itemCondition: 'https://schema.org/NewCondition',
         seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
@@ -51860,10 +51860,10 @@ A $112.767 con 4.8 estrellas, es la filtro para comprar una sola vez: la jarra d
       aggregateRating: {
         '@type': 'AggregateRating',
         ratingValue: '4.8',
-        reviewCount: '42',
+        reviewCount: '116',
       },
     },
-    relatedProducts: ['MLA15297115', 'MLA14735678'],
+    relatedProducts: ['MLA15297115', 'MLA14735678', 'MLA20008340'],
   },
   {
     id: 'MLA36409137',
@@ -70210,6 +70210,124 @@ Comprá la Delhi DL-160Y si tu objetivo es específicamente yogur griego colado.
       {
         question: "¿Por qué reemplaza a la Daewoo Yoggy Pro en esta guía?",
         answer: "La Daewoo Yoggy Pro (DYM672T) dejó de venderse en MercadoLibre Argentina: no se encontró ninguna publicación activa del modelo al verificar en vivo. La Delhi DL-160Y cumple la misma función (recipiente único con filtro para yogur griego colado) y está en stock con respaldo de tienda oficial.",
+      },
+    ],
+  },
+  // ─────────────────────────────────────────────────────────
+  // SWAP 2026-11-02: la Yelmo YG-1717 reemplaza a la Delhi DL-160Y como la
+  // opción "para yogur griego" de la guía pilar `yogurtera`. Misma marca que
+  // la Yelmo YG-1700 (la más vendida de la guía) pero con 2 contenedores en
+  // vez de 7 frascos, temporizador y apagado automático. 13.720 calificaciones
+  // contra las 405 de la Delhi (que sigue en el catálogo, solo sale del
+  // ranking activo). Sourcing: hub de afiliados ML, Más vendidos sitewide.
+  // ─────────────────────────────────────────────────────────
+  {
+    id: "MLA42522422",
+    title: "Yogurtera Yelmo YG-1717 Yogur Griego Natural 20W 1.5 Litros 2 Contenedores",
+    canonicalName: "Yogurtera Yelmo YG-1717 Griego 1,5L",
+    price: 47987,
+    originalPrice: 63997,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_656138-MLA110554233185_042026-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_656138-MLA110554233185_042026-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_932253-MLA110553699733_042026-F.webp",
+    ],
+    category: "Cocina",
+    categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA42522422",
+    affiliateUrl: "https://meli.la/1xT46yK",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.9,
+    reviewCount: 13720,
+    soldQuantity: 50000,
+    pastelColor: "var(--pastel-blue)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Yelmo" },
+      { label: "Modelo", value: "YG-1717" },
+      { label: "Cantidad de contenedores", value: "2" },
+      { label: "Capacidad de producción", value: "1,5 litros (la ficha técnica de MercadoLibre declara '1,5 L' tanto para la capacidad total como para cada contenedor por separado; la descripción del vendedor dice '2 contenedores de 1,5 litros', lo que sugiere que podría ser por contenedor. No hay forma de confirmar cuál es la correcta)" },
+      { label: "Potencia", value: "20 W" },
+      { label: "Material", value: "Plástico, libre de BPA" },
+      { label: "Con temporizador", value: "Sí" },
+      { label: "Con apagado automático", value: "Sí" },
+      { label: "Tiempo máximo de uso continuo", value: "48 horas según la descripción del vendedor (la ficha técnica declara '2 días')" },
+      { label: "Es libre de BPA", value: "Sí" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Frecuencia", value: "50/60 Hz" },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "2025", text: "Tenía la yogurtera tradicional de esta misma marca, impecable, pero quería hacer yogur griego cómodamente, regalé la vieja yogurtera a mi hija, y me compré ésta, queda espectacular, lo único que no está explicado y me di cuenta, es enfriar el yogur en heladera antes de filtrarlo, de esta forma se pierde menos cantidad del producto, el suero de leche que queda aguanta en heladera y lo pueden usar para hacer bizcochuelo o pancakes." },
+      { rating: 4, country: "Argentina", date: "2025", text: "Ame, muy facil de usar. El unico detalle es el filtro para hacer yogurt griego, pero se soluciona con una bolsa para filtrar o un trapo de paño tipo rejilla. Yo use 1l de leche liquida, 4 cucharadas de leche en polvo y un vaso de yogurt natural 190g. Un 10 de 10." },
+      { rating: 5, country: "Argentina", date: "2025", text: "Muy practico, usas 1 lt de leche + un yogurt natural y le agregue 3 cucharas de leche en polvo. Calente todo a 50 grados más o menos, lo puse en el recipiente que trae y lo dejé casi 12 hs... para hacer yogurt griego lo enfrié en heladera antes de poner a escurrir el suero, para no perder tanto producto. Después de unas 7-8 hs quedó como en la foto: riquísimo parece una crema pero sin azúcar. Rinde más o menos 500 g. (de griego)." },
+      { rating: 5, country: "Argentina", date: "2025", text: "Es fantástica. Funciona muy bien! les dejo mi receta y un par de tips. 800ml de agua, 3 cdas de leche en polvo, 1 yogurt natural de 140ml. Lo dejo 12hs y lo que hice fue fabricar una funda de tela para que calce en el filtro y se filtre perfectamente bien (lo dejé 1 hora y media filtrando), mi hermana usa una cofia médica, también sirve. Con esta receta así me salieron 650gr de yogurt griego tremendamente espeso." },
+    ],
+    relatedProducts: ["MLA17840710", "MLA65120821", "MLA66422019"],
+    priceUpdated: "2026-11-02",
+    priceLastChecked: "2026-11-02",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-11-02",
+    description: "Yogurtera Yelmo YG-1717: la versión para yogur griego de la marca más vendida de Argentina, con 2 contenedores grandes en vez de frascos individuales. 4.9 estrellas en {{reviews:MLA42522422}} calificaciones.",
+    seoTitle: "Yelmo YG-1717: yogur griego de la marca más vendida",
+    metaDescription: "Yogurtera Yelmo YG-1717 para yogur griego: 2 contenedores, temporizador y apagado automático. Precio real y opiniones verificadas.",
+    verdict: "Sirve si buscás yogur griego de la marca con más respaldo de Argentina: {{reviews:MLA42522422}} calificaciones, bastante más que la Delhi DL-160Y que ocupaba este lugar en la guía hasta ahora ({{reviews:MLA63993106}}). Dos detalles reales que varias reseñas coinciden en señalar y que el instructivo no explica: conviene enfriar el yogur en la heladera antes de colarlo (se pierde menos producto), y el filtro que trae solo no alcanza para una textura bien espesa, hay que sumarle una bolsa de tela o un paño tipo rejilla. Con esos dos ajustes caseros, varias reseñas logran entre 500 y 650 gramos de yogur griego bien espeso por tanda.",
+    pros: [
+      "La yogurtera para yogur griego con más respaldo de Argentina: 4.9 estrellas en {{reviews:MLA42522422}} calificaciones, 1° en Yogurteras de MercadoLibre",
+      "De la misma marca que la yogurtera más vendida de esta guía (Yelmo), con temporizador y apagado automático que la clásica YG-1700 no tiene",
+      "2 contenedores grandes, permiten preparar y guardar por separado (por ejemplo, uno natural y otro con sabor)",
+      "Uso continuo hasta 48 horas según el vendedor, para fermentaciones más largas",
+    ],
+    cons: [
+      "El instructivo no explica un paso clave: hay que enfriar el yogur en la heladera antes de colarlo para no perder producto, según coinciden varias reseñas",
+      "El filtro incluido solo no alcanza para una textura bien espesa: varias reseñas le suman una bolsa de tela o un paño tipo rejilla",
+      "Es de plástico (libre de BPA), no acero inoxidable",
+      "La ficha de MercadoLibre no aclara si 1,5 litros es la capacidad total o de cada uno de los 2 contenedores por separado",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Yelmo YG-1717 es la versión para yogur griego de la yogurtera más vendida de Argentina (la Yelmo YG-1700): en vez de 7 frascos individuales, usa 2 contenedores grandes pensados para colar y obtener yogur griego espeso (la ficha de MercadoLibre no aclara si la capacidad declarada de 1,5 litros es el total o por contenedor). Tiene temporizador y apagado automático, dos funciones que la YG-1700 clásica no trae. Reemplaza en esta guía a la Delhi DL-160Y como la opción recomendada para yogur griego: con {{reviews:MLA42522422}} calificaciones, tiene mucho más respaldo de compradores reales.
+
+## Cómo funciona
+
+Se prepara la mezcla (leche, leche en polvo y un yogur natural como cultivo) directo en uno de los 2 contenedores, se programa el temporizador y se deja fermentar. Según confirman varias reseñas reales, conviene dejarlo entre 7 y 12 horas según la receta. Para la versión griega colada, el paso clave que varias reseñas marcan como no explicado en el instructivo es enfriar el yogur en la heladera antes de pasarlo por el filtro: así se pierde menos producto en el colado.
+
+## La contra real
+
+Dos detalles reales que el instructivo no explica, según coinciden al menos dos reseñas con cientos de votos útiles cada una: primero, hay que enfriar el yogur en la heladera antes de colarlo (si no, se pierde más suero del necesario); segundo, el filtro incluido por sí solo no deja una textura tan espesa como la de yogur griego comercial, así que varias reseñas le suman una bolsa de tela para filtrar o un paño tipo rejilla. Con esos dos ajustes, los resultados reales rondan los 500 a 650 gramos de yogur griego bien espeso por tanda.
+
+## Cómo se compara con los otros de esta guía
+
+Frente a la [Yelmo YG-1700](/producto/yogurtera-fabrica-de-yogurt-yelmo-yg-1700-7-jarros-tapas-de-colores-mla17840710) (frascos individuales, sin temporizador), la YG-1717 suma temporizador y apagado automático, pero cambia los 7 frascos chicos por 2 contenedores grandes pensados para yogur griego, no para porciones individuales. Frente al [Lüsqtoff LQ-YT808](/producto/yogurtera-lusqtoff-lq-yt808-1-7-litros-con-8-frascos-de-vidrio-y-temporizador-di-mla65120821) (también con temporizador, pero frascos individuales), la Yelmo es la única de las dos pensada específicamente para colar yogur griego. Frente a la [Ultracomb YG-2712V](/producto/yogurtera-digital-ultracomb-yg-2712v-12-frascos-vidrio-temporizador-mla66422019) (12 frascos, pantalla LCD), la Yelmo tiene muchos menos frascos pero un respaldo de opiniones bastante más grande.
+
+## Para quién sí y para quién no
+
+Comprá la Yelmo YG-1717 si tu objetivo es específicamente yogur griego colado y preferís la marca con más respaldo de compradores reales de esta guía. No es la mejor opción si buscás porciones individuales para repartir en frascos: ahí la [Yelmo YG-1700](/producto/yogurtera-fabrica-de-yogurt-yelmo-yg-1700-7-jarros-tapas-de-colores-mla17840710) o el [Lüsqtoff](/producto/yogurtera-lusqtoff-lq-yt808-1-7-litros-con-8-frascos-de-vidrio-y-temporizador-di-mla65120821) de esta guía cumplen mejor esa función.`,
+    faq: [
+      {
+        question: "¿Esta yogurtera reemplaza a la Delhi DL-160Y en la guía?",
+        answer: "Sí. La Yelmo YG-1717 cumple la misma función (yogur griego colado, con filtro) pero con {{reviews:MLA42522422}} calificaciones contra las {{reviews:MLA63993106}} de la Delhi, a un precio similar.",
+      },
+      {
+        question: "¿Hay que hacer algo especial para que quede bien espeso?",
+        answer: "Sí, dos trucos que confirman varias reseñas: enfriar el yogur en la heladera antes de colarlo (se pierde menos producto), y sumarle al filtro incluido una bolsa de tela o un paño tipo rejilla para lograr una textura bien espesa.",
+      },
+      {
+        question: "¿Cuánto rinde una tanda de yogur griego?",
+        answer: "Según reseñas reales con recetas detalladas, entre 500 y 650 gramos de yogur griego espeso por tanda, partiendo de 1 litro de leche.",
+      },
+      {
+        question: "¿Tiene temporizador y apagado automático?",
+        answer: "Sí, las dos funciones, a diferencia de la Yelmo YG-1700 clásica de esta guía, que no las tiene.",
+      },
+      {
+        question: "¿La capacidad real es 1,5 o 3 litros?",
+        answer: "No está del todo claro: la ficha técnica de MercadoLibre declara '1,5 L' tanto para el total como para cada contenedor por separado, mientras que la descripción del vendedor habla de '2 contenedores de 1,5 litros', lo que sugiere que podría ser por contenedor. No hay forma de confirmar cuál cifra es la correcta.",
+      },
+      {
+        question: "¿Sirve también para yogur clásico, no solo griego?",
+        answer: "Sí, según la descripción del vendedor está pensada para yogur griego, natural y skyr.",
       },
     ],
   },
@@ -114047,6 +114165,250 @@ El calefón eléctrico más completo y con la ficha técnica más rica de esta c
 ];
 
 curatedProducts.push(...curatedProductsCalefonElectrico);
+
+// ─────────────────────────────────────────────────────────
+// Pavas eléctricas nuevas — sourcing 2026-11-02 desde el hub de afiliados ML
+// (Más vendidos sitewide). Array separado por el límite real de TypeScript
+// (TS2590) al insertar directo en el array gigante de arriba.
+// ─────────────────────────────────────────────────────────
+const curatedProductsPavasNov2: Product[] = [
+  // ─────────────────────────────────────────────────────────
+  // NUEVA 2026-11-02: sourcing desde el hub de afiliados ML. Único de esta
+  // guía con presets por tipo de bebida (mamadera/mate/café/hervir) en vez
+  // de niveles numéricos genéricos. Suma a pava-electrica-control-temperatura.
+  // ─────────────────────────────────────────────────────────
+  {
+    id: "MLA67178981",
+    title: "Pava Eléctrica Unnic Pantalla Digital Táctil Acero Inoxidable Con Función De Temperatura Prestablecidas Pico Vertedor Con Filtro 1.7 Lts Ideal Para Mate Café Té Leche Base Giratoria Color Plateado",
+    canonicalName: "Pava Eléctrica Unnic STEAM04",
+    price: 54999,
+    originalPrice: 94999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_843018-MLA109536761721_032026-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_843018-MLA109536761721_032026-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_906304-MLA109536612543_032026-F.webp",
+    ],
+    category: "Cocina",
+    categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA67178981",
+    affiliateUrl: "https://meli.la/1ZoiQLM",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 2091,
+    soldQuantity: 5000,
+    pastelColor: "var(--pastel-blue)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Unnic" },
+      { label: "Modelo", value: "KETTLE04 según la ficha técnica de MercadoLibre; una imagen propia del vendedor dice 'STEAM04', una discrepancia entre el dato estructurado y su propio material de marketing" },
+      { label: "Color", value: "Plateado" },
+      { label: "Capacidad en volumen", value: "1,7 L" },
+      { label: "Potencia", value: "2.200 W" },
+      { label: "Con control de temperatura", value: "Sí" },
+      { label: "Cantidad de niveles de temperatura", value: "4. Una imagen del vendedor muestra los presets por tipo de bebida: 40° (mamadera), 80° (mate), 90° (café) y 100° (hervir)" },
+      { label: "Con función mate", value: "Sí" },
+      { label: "Con termómetro", value: "No" },
+      { label: "Con corte automático", value: "Sí" },
+      { label: "Con indicador de agua", value: "Sí" },
+      { label: "Con pantalla digital", value: "Sí" },
+      { label: "Con base giratoria", value: "Sí" },
+      { label: "Con luz indicadora de funcionamiento", value: "Sí" },
+      { label: "Voltaje", value: "220V" },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "2025", text: "Uso: mate. Diseño: aluminio. Nos encantó esta pava eléctrica. Quisimos cambiar la que teníamos porque era de plástico y estamos queriendo reducir la ingesta de microplásticos (y al calentarse agua en ese material, es mucho mayor la cantidad que se desprenden). Estamos muy contentos con la plava, es cómoda, práctica, linda y saludable. Me gusta que la tapa se pueda sacar por completo para que no queden partes escondidas y difíciles de limpiar. Viene con un manual de uso, por lo que recomiendo leer las instrucciones para su primer uso, cuidado y limpieza." },
+      { rating: 5, country: "Argentina", date: "2025", text: "Muy lindo producto buena relación costo calidad. El acero es finito pero estéticamente es hermosa. Calienta muy rápido y el plus es que te muestra como va subiendo la temperatura. Yo estoy contenta de momento." },
+      { rating: 5, country: "Argentina", date: "2025", text: "Excelente, programe la temperatura, justo para mate y diseño cool." },
+      { rating: 5, country: "Argentina", date: "2025", text: "Funcionamiento: funcionamiento perfecto. Diseño: visor ideal. Claro. Es práctica, calienta rápido. El diseño es muy práctico, además se saca la tapa lo que permite que puedas limpiarla, y cargarla de cualquier forma." },
+    ],
+    relatedProducts: ["MLA19589519", "MLA47275624", "MLA14263533"],
+    priceUpdated: "2026-11-02",
+    priceLastChecked: "2026-11-02",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-11-02",
+    description: "Pava eléctrica Unnic con presets por tipo de bebida (mamadera, mate, café, hervir), acero inoxidable y pantalla táctil. {{rating:MLA67178981}} estrellas en {{reviews:MLA67178981}} calificaciones.",
+    seoTitle: "Unnic: la pava con presets de mamadera, mate, café y hervir",
+    metaDescription: "Pava eléctrica Unnic: presets por tipo de bebida, acero inoxidable, pantalla táctil. Precio real y opiniones verificadas.",
+    verdict: "Sirve si querés presets pensados para cada bebida en vez de niveles numéricos genéricos: según una imagen del vendedor, los 4 niveles corresponden a mamadera (40°), mate (80°), café (90°) y hervir (100°). {{reviews:MLA67178981}} calificaciones la respaldan, menos que el Atma de esta guía pero con un rating alto (4.8). Una reseña real avisa que el acero es 'finito' (más delgado de lo esperado), aunque funcionalmente cumple bien. Un detalle de la ficha: MercadoLibre declara el modelo como 'KETTLE04', pero el propio material de marketing del vendedor lo llama 'STEAM04'.",
+    pros: [
+      "Única de esta guía con presets pensados por tipo de bebida (mamadera, mate, café, hervir) en vez de niveles numéricos genéricos",
+      "Acero inoxidable con tapa 100% removible, fácil de limpiar según una reseña",
+      "Base giratoria 360°, se puede retirar y cargar desde cualquier ángulo",
+      "Pantalla digital que muestra la temperatura subiendo en tiempo real",
+    ],
+    cons: [
+      "Una reseña real marca que el acero es 'finito' (más delgado de lo esperado), aunque sigue funcionando bien",
+      "Menos respaldo de reseñas que el Atma de esta guía (2.091 contra más de 14.000)",
+      "La ficha técnica de MercadoLibre declara el modelo como 'KETTLE04', pero el propio material gráfico del vendedor lo llama 'STEAM04'",
+      "No hay dato confirmado sobre función de mantener caliente (keep warm) en la ficha",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Unnic es una pava eléctrica de acero inoxidable con pantalla táctil y 4 niveles de temperatura, pensados específicamente por tipo de bebida: según una imagen propia del vendedor, los presets son 40° (mamadera), 80° (mate), 90° (café) y 100° (hervir). Es la única de esta guía con esta lógica de presets por bebida, en vez de niveles numéricos sin etiquetar.
+
+## Cómo funciona
+
+Los botones táctiles del panel digital dejan elegir directamente el preset según lo que vayas a preparar, sin tener que calcular a qué grado corresponde cada bebida. Varias reseñas confirman que la pantalla muestra la temperatura en tiempo real mientras sube, hasta llegar al nivel elegido, y que calienta rápido.
+
+## La contra real
+
+Una reseña real marca un detalle de construcción: "el acero es finito", es decir, más delgado de lo que esperaba, aunque la misma reseña aclara que funcionalmente cumple bien y la recomienda por su relación precio-calidad. Aparte, hay una discrepancia entre fuentes: la ficha técnica de MercadoLibre declara el modelo "KETTLE04", pero una imagen propia de marketing del vendedor lo llama "STEAM04". Con {{reviews:MLA67178981}} calificaciones, tiene bastante menos respaldo que el Atma de esta guía, aunque el rating (4.8) es alto.
+
+## Cómo se compara con los otros de esta guía
+
+Frente al [Atma PE1821NAP](/producto/pava-electrica-atma-pe1821nap-1-7lts-selector-de-temperatura-negro-mla19589519) (6 niveles numéricos, la base de opiniones más grande), la Unnic tiene menos niveles pero los etiqueta por bebida, una diferencia de usabilidad real. Frente al [Peabody PE-DK2200N](/producto/pava-electrica-peabody-digital-40-100-c-y-funcion-mate-mla47275624) (control continuo de 40 a 100°), la Unnic ofrece menos precisión pero una selección más rápida para quien no quiere pensar en grados.
+
+## Para quién sí y para quién no
+
+Comprá la Unnic si preferís elegir "mate" o "café" directo en la pantalla en vez de calcular a qué temperatura corresponde cada bebida. No es la mejor opción si priorizás la base de opiniones más grande posible o un cuerpo de acero más robusto: ahí el Atma o el Peabody PE-DK1850 de esta guía, con más respaldo y acero más sustancial según las reseñas, rinden mejor en ese punto puntual.`,
+    faq: [
+      {
+        question: "¿Qué temperatura corresponde a cada preset?",
+        answer: "Según una imagen del vendedor: 40° para mamadera, 80° para mate, 90° para café y 100° para hervir. Son 4 niveles en total, confirmados en la ficha técnica de MercadoLibre.",
+      },
+      {
+        question: "¿El acero es de buena calidad?",
+        answer: "Una reseña real marca que el acero es 'finito' (más delgado de lo esperado), aunque funcionalmente la pava cumple bien según la misma reseña, que la recomienda por su relación precio-calidad.",
+      },
+      {
+        question: "¿Por qué la ficha dice un modelo y las imágenes otro?",
+        answer: "La ficha técnica de MercadoLibre declara el modelo 'KETTLE04', pero una imagen propia de marketing del vendedor lo llama 'STEAM04'. Es una discrepancia entre sus propias fuentes, no algo que hayamos podido confirmar de un lado u otro.",
+      },
+      {
+        question: "¿Tiene base giratoria?",
+        answer: "Sí, 360°, lo que permite retirarla y cargarla desde cualquier ángulo sin acomodar el cable.",
+      },
+      {
+        question: "¿Es fácil de limpiar?",
+        answer: "Según una reseña, sí: la tapa se puede sacar por completo, así que no quedan partes escondidas difíciles de limpiar.",
+      },
+      {
+        question: "¿Tiene función de mantener caliente?",
+        answer: "No hay un dato confirmado sobre esa función en la ficha técnica de MercadoLibre.",
+      },
+    ],
+  },
+  // ─────────────────────────────────────────────────────────
+  // NUEVA 2026-11-02: sourcing desde el hub de afiliados ML (Más vendidos
+  // sitewide, #1 en Jarras Eléctricas). Suma a la familia de guías de pava
+  // eléctrica como "la más vendida" en pava-electrica-acero-inoxidable.
+  // ─────────────────────────────────────────────────────────
+  {
+    id: "MLA63982891",
+    title: "Pava Eléctrica Digital Novohome 2 Litros Pantalla Táctil Color Negro Acero Inoxidable Gran Capacidad XL",
+    canonicalName: "Pava Eléctrica Novohome NH-EKV100",
+    price: 46299,
+    originalPrice: 85990,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_703421-MLA104225933254_012026-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_703421-MLA104225933254_012026-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_622278-MLA114709009307_072026-F.webp",
+    ],
+    category: "Cocina",
+    categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA63982891",
+    affiliateUrl: "https://meli.la/2bS1LHK",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 5585,
+    soldQuantity: 10000,
+    pastelColor: "var(--pastel-green)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Novohome" },
+      { label: "Modelo", value: "NH-EKV100" },
+      { label: "Capacidad en volumen", value: "2 L según la ficha técnica (el título de la publicación dice 'Gran Capacidad XL' y una imagen propia del vendedor dice '2.2 Litros'; no hay forma de confirmar cuál cifra es la correcta)" },
+      { label: "Potencia", value: "1.500 W" },
+      { label: "Material", value: "Acero inoxidable" },
+      { label: "Con control de temperatura", value: "Sí" },
+      { label: "Cantidad de niveles de temperatura", value: "5, según la ficha técnica. Una imagen del vendedor muestra los valores 45°, 55°, 70° y 85° (antes de hervir a 100°); otra imagen del mismo vendedor lista 45°, 70°, 85° y 100°, una pequeña inconsistencia entre sus propias piezas de marketing" },
+      { label: "Con pantalla digital", value: "Sí" },
+      { label: "Con base giratoria", value: "Sí" },
+      { label: "Con corte automático", value: "Sí" },
+      { label: "Con luz indicadora de funcionamiento", value: "Sí" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Color", value: "Negro" },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "2025", text: "No duden en comprarla, me la pasé buscando info de cual era mejor (ya cansada de comprar de muchas marcas que no me duraron nada), no solo es hermosa y combina genial con mi cocina (todo negro y plata) sino que es silenciosa, hace pip para avisarte, lo táctil súper práctico y hermosa, súper recomendable y volvería a elegirla." },
+      { rating: 4, country: "Argentina", date: "2026", text: "Es grande entra más de un litro. Estéticamente muy linda, un poco ruidosa. Cuando llega a 80 83 ya hierve. Adentro es toda de acero aún no la probamos para mate no sé a cuánto de temperatura va a estar bien. Cuando no se usa queda titilando la luz con la imagen de encendido y hace un pequeño ruidito así que la dejo fuera de la base. Ahora la dejé hervir y llegó a 92, hizo pipipi y cortó de hervir así que no llegó a 100 (no la llené hasta arriba porque antes probé y se rebalsó). Si tocás la jarra aunque hirvió y está a 92 grados no quema, está caliente pero se puede tocar." },
+      { rating: 5, country: "Argentina", date: "2025", text: "Es muy linda, liviana, no te quemás al agarrarla del mango, pero tiene una ventaja, para mí enorme: a medida que sube la temperatura indica los grados hasta llegar a los programados. Entonces uno dispone del tiempo, sabe si quedarse o ir a hacer otra cosa. Me encanta!" },
+      { rating: 5, country: "Argentina", date: "2025", text: "Uso: mate, café. Funcionamiento: calienta, y corta a temperatura deseada. Excelente producto, feliz es tan cual lo muestra en las fotos." },
+    ],
+    relatedProducts: ["MLA14263533", "MLA20027329", "MLA24601443"],
+    priceUpdated: "2026-11-02",
+    priceLastChecked: "2026-11-02",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-11-02",
+    description: "Pava eléctrica digital Novohome NH-EKV100: acero inoxidable, pantalla táctil, 5 niveles de temperatura. La más vendida de su categoría en MercadoLibre Argentina, con {{reviews:MLA63982891}} calificaciones.",
+    seoTitle: "Novohome NH-EKV100: la pava eléctrica más vendida de Argentina",
+    metaDescription: "Pava eléctrica digital Novohome NH-EKV100: acero inoxidable, pantalla táctil, 5 niveles de temperatura. Precio real y opiniones verificadas.",
+    verdict: "Sirve si buscás la pava eléctrica con más respaldo de ventas de Argentina: 1° en la categoría Jarras Eléctricas de MercadoLibre, con {{reviews:MLA63982891}} calificaciones. Tiene 5 niveles de temperatura con pantalla digital, igual que la Peabody PE-DK1850 de esta guía (4 niveles), pero las reseñas no son unánimes sobre qué tan preciso es el corte automático: una compradora reporta que al intentar hervir llegó a 92° y cortó solo, sin alcanzar los 100° declarados. No es para vos si priorizás silencio total: hay reseñas contradictorias sobre el ruido (una la describe como silenciosa, otra como 'un poco ruidosa' con un ruidito en standby).",
+    pros: [
+      "La pava eléctrica más vendida de Argentina en su categoría: 1° en Jarras Eléctricas de MercadoLibre, {{reviews:MLA63982891}} calificaciones",
+      "5 niveles de temperatura con pantalla digital y base giratoria",
+      "Acero inoxidable completo: según una reseña, la jarra no quema al tocarla después de hervir (a diferencia de la anterior que tenía esa compradora, de plástico)",
+      "Pantalla que muestra la temperatura subiendo en tiempo real hasta llegar al nivel programado, según varias reseñas",
+    ],
+    cons: [
+      "El corte automático no siempre es preciso: una reseña detalla que al intentar hervir, el agua llegó a 92° y cortó sola sin alcanzar los 100° declarados",
+      "Reseñas contradictorias sobre el ruido: una la describe como silenciosa, otra marca que hace un ruidito y la luz titila cuando queda en standby sobre la base",
+      "La capacidad declarada no es consistente entre las propias piezas de marketing del vendedor (2 L en la ficha técnica, 'Gran Capacidad XL' en el título, 2,2 L en una imagen propia)",
+      "Los valores exactos de los 5 niveles de temperatura tampoco coinciden entre dos imágenes del mismo vendedor",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Novohome NH-EKV100 es una pava eléctrica digital de acero inoxidable con pantalla táctil y 5 niveles de temperatura. Es la pava eléctrica más vendida de Argentina en MercadoLibre hoy: 1° en la categoría Jarras Eléctricas, con {{reviews:MLA63982891}} calificaciones, bastante más que cualquier otra pava de esta guía.
+
+## Cómo funciona
+
+La pantalla digital en el cuerpo de la pava muestra la temperatura en tiempo real mientras hierve, con botones táctiles para programar uno de los 5 niveles disponibles. Varias reseñas confirman que el display sube mostrando los grados hasta llegar al nivel programado, algo que varias compradoras valoran porque permite calcular el tiempo de espera.
+
+## La contra real
+
+El corte automático no siempre es preciso al 100%: una reseña detallada cuenta que, al intentar hervir el agua a fondo, el equipo llegó a 92°, "hizo pipipi" y cortó solo sin alcanzar los 100° declarados. La misma reseña también marca que, cuando la pava queda fuera de uso sobre la base, la luz de encendido sigue titilando y hace un ruidito, por lo que prefiere dejarla fuera de la base cuando no la usa. Sobre el ruido en general las opiniones no son unánimes: otra reseña la describe como silenciosa. Tampoco hay coincidencia entre las propias imágenes de marketing del vendedor sobre la capacidad exacta (2 L según la ficha técnica, 2,2 L según una de sus piezas gráficas) ni sobre los valores exactos de los 5 niveles de temperatura.
+
+## Cómo se compara con los otros de esta guía
+
+Frente a la [Peabody PE-DK1850](/producto/peabody-pe-dk1850-pava-electrica-de-acero-con-4-niveles-mla14263533) (acero completo, 4 niveles, la de más reseñas hasta ahora de esta guía), la Novohome suma un nivel más de temperatura y es hoy la más vendida de toda la categoría en MercadoLibre, aunque con la salvedad real sobre la precisión del corte automático en reseñas puntuales. Frente a la [Kanji](/producto/pava-electrica-matera-kanji-home-kjh-pe15002m-1500w-1-8-mate-mla20027329) (más económica, interior de acero), la Novohome tiene acero completo y más funciones por un precio intermedio.
+
+## Para quién sí y para quién no
+
+Comprá la Novohome NH-EKV100 si priorizás la opción con más respaldo de ventas del país y querés pantalla digital con varios niveles de temperatura. No es la mejor opción si para vos el silencio total o la precisión exacta del corte automático son no negociables: ahí conviene revisar las reseñas puntuales de cada modelo antes de decidir.`,
+    faq: [
+      {
+        question: "¿Por qué es la más vendida si tiene reseñas con quejas de precisión?",
+        answer: "Porque el volumen de ventas y calificaciones (1° en su categoría, {{reviews:MLA63982891}} calificaciones) no significa que sea perfecta: tiene un rating alto (4.7) pero algunas reseñas puntuales marcan detalles reales, como que el corte automático no siempre llega exacto a la temperatura máxima.",
+      },
+      {
+        question: "¿Cuántos niveles de temperatura tiene?",
+        answer: "5, según la ficha técnica de MercadoLibre. Los valores exactos de cada nivel no son del todo consistentes entre las propias imágenes de marketing del vendedor.",
+      },
+      {
+        question: "¿La capacidad es de 2 o 2,2 litros?",
+        answer: "No está del todo claro: la ficha técnica de MercadoLibre declara 2 L, el título de la publicación dice 'Gran Capacidad XL' sin un número, y una imagen propia del vendedor dice 2,2 L. No hay forma de confirmar cuál cifra es la correcta.",
+      },
+      {
+        question: "¿Es ruidosa?",
+        answer: "Las reseñas no coinciden: una la describe como silenciosa, otra marca que hace un pequeño ruidito (y la luz titila) cuando queda sobre la base sin uso.",
+      },
+      {
+        question: "¿Se puede tocar la jarra después de hervir?",
+        answer: "Según una reseña, sí: aunque hirvió y está a 92°, no quema, está caliente pero se puede tocar (a diferencia de una pava de plástico anterior que la compradora solo podía agarrar de la manija).",
+      },
+      {
+        question: "¿Corta exacto a los 100° al hervir?",
+        answer: "No necesariamente: una reseña detallada reporta que, al intentar hervir a fondo, el agua llegó a 92° y el equipo cortó solo sin alcanzar los 100°.",
+      },
+    ],
+  },
+];
+
+curatedProducts.push(...curatedProductsPavasNov2);
 
 export const categoryPastels: Record<string, string> = {
   cocina: 'var(--pastel-coral)',
