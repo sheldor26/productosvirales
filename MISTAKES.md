@@ -16,7 +16,27 @@
 **Archivos involucrados:** `path/a/archivo.ts`
 -->
 
-## 2026-11-02 — Un swap de vendedor a medias dejó el campo `id` de una ficha desincronizado de su propio link, y nada automático lo detectó
+## 2026-11-02 — Usé {{reviews:ID:k}}, un sufijo que solo existe para {{precio:ID:k}}, y quedó sin resolver en la página
+
+**Qué pasó:** al escribir taglines y respuestas cortas donde quería un número de reseñas redondeado (tipo "10 mil calificaciones" en vez de "10.345"), usé `{{reviews:MLA22138728:k}}` copiando el patrón de `{{precio:ID:k}}`, que sí soporta ese sufijo para redondear a miles. El token de reseñas no tiene esa variante: el regex en `src/lib/price-token.ts` (`REVIEWS_TOKEN_RE`) solo matchea `{{reviews:ID}}` sin sufijo. El resultado: el texto `{{reviews:MLA22138728:k}}` quedaba renderizado literal, visible tal cual en la página publicada. Lo usé 7 veces en la sesión antes de notarlo navegando el preview en vivo.
+
+**Por qué:** dos tokens que se ven simétricos (`{{precio:ID:k}}` / `{{reviews:ID:k}}`) no necesariamente soportan las mismas opciones — hay que verificar cada uno contra su propia implementación, no asumir por analogía. Además, ningún checker mecánico (`guides:check`) lo atrapa: el validador de tokens de reseñas no reconoce un sufijo `:k` como "roto", simplemente no lo cuenta como token válido ni como texto plano sospechoso — pasa en silencio.
+
+**Cómo evitarlo:** antes de usar una variante/sufijo de un token que no se usó antes en la sesión, grepear `src/lib/price-token.ts` para confirmar que existe. Y, más en general: una verificación visual real del renderizado (no solo `guides:check` en verde) es la única red que atrapa este tipo de bug, porque el archivo de datos es sintácticamente válido y el checker de tokens no audita sufijos inventados.
+
+**Archivos involucrados:** `src/data/guides.ts`, `src/data/curated-products.ts`, `src/lib/price-token.ts` (solo lectura, para confirmar el regex)
+
+## 2026-11-02 — Al borrar una sección con Edit, el old_string cortó el título pero dejó dos párrafos huérfanos sin heading
+
+**Qué pasó:** al eliminar una sección completa de la guía `secador-de-pelo` (el H2 "¿Y el Daewoo...?" más sus dos párrafos, que ya no aplicaba porque el producto volvió al ranking activo), el `old_string` del Edit que armé solo cubrió el H2 del título. Los dos párrafos del cuerpo quedaron huérfanos, flotando justo después de la última ficha del ranking, sin ningún heading que los introdujera — contenido sintácticamente válido (seguía siendo JSON/TS correcto) pero editorialmente roto: afirmaban que el Daewoo "no se consigue" justo después de que su propia ficha, dos párrafos antes, dijera que sí. El trío auditor lo atrapó en la primera pasada; yo no lo había notado.
+
+**Por qué:** al armar el `old_string`/`new_string` de un Edit que borra una sección, es fácil mirar solo la primera línea distintiva (el título) para delimitar el bloque y no verificar que el reemplazo cubra el bloque completo hasta el siguiente heading real.
+
+**Cómo evitarlo:** al borrar una sección completa, incluir en el `old_string` desde el heading hasta la línea exacta donde empieza la sección siguiente (no asumir dónde termina por el nombre del título). Después de un borrado de sección, grepear una frase clave del contenido borrado para confirmar que no quedó ningún resto.
+
+**Archivos involucrados:** `src/data/guides.ts`
+
+## 2026-11-02 — Usé {{reviews:ID:k}}, un sufijo que solo existe para {{precio:ID:k}}, y quedó sin resolver en la página
 
 **Qué pasó:** al refrescar `pava-electrica-acero-inoxidable`, uno de los 8 productos (Atma PEAT1351) tenía el link de afiliado roto: `meli.la/1rMrWSu` ya no llevaba al producto, redirigía a una página social genérica sin ningún error visible. Investigando encontré que una sesión anterior (2026-10-31) ya había hecho un swap de vendedor por falta de stock, documentado en un comentario de código, pero solo había actualizado `permalink` y `affiliateUrl` — el campo `id` de la ficha seguía apuntando al ID viejo y muerto. `guides:check` nunca lo marcó porque el `productMlaId` SÍ existía en el catálogo (apuntaba a una ficha real), solo que esa ficha tenía datos de un producto que ya no se podía comprar por ese link.
 
