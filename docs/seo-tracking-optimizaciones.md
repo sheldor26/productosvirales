@@ -1,5 +1,23 @@
 # Tracking de optimizaciones de guías (SEO)
 
+## 2026-11-02 — Refresh de `robot-aspiradora-gadnic` — el "5 Modos" quedó sin stock, el "3 Modos" cambió de producto por completo, y el AC800 no era "el único con LIDAR"
+
+Origen: siguiente guía del backlog "vencidas con más afiliados" (119 días, 16 afiliados), tras `philips-freidoras-de-aire-review`. Verifiqué en vivo los 4 productos activos con el Chrome del usuario.
+
+**Hallazgo 1: Gadnic 5 Modos (MLA45951645) quedó sin stock.** Solo tiene un color (Negro), seleccionado y marcado "Este producto no está disponible". Busqué un vendedor nuevo con el modelo exacto (rob2.0, ROB00513) y no apareció ninguno, solo usados. Se marcó `deprioritized` + `out_of_stock`, se sacó del ranking activo de la guía (pasó de 4 a 3 productos: AC800, AspiRob, 3 Modos), y se documentó el caso con la rutina de `docs/productos-sin-stock.md`.
+
+**Hallazgo 2 (el grande): el catálogo ID de "Gadnic 3 Modos" (MLA42045783) ya no vende el mismo producto que describía la guía.** Verificado en vivo: hoy es un robot con WiFi, app Tuya, control por voz (Alexa, Google Home) y trapeado — nada que ver con "sin app, sin láser, sin mapeo" que decía la guía. La FICHA de producto ya había sido corregida en una pasada anterior (no por mí) para reflejar esto, pero la guía nunca se actualizó para coincidir — el mismo patrón de "la guía no cruza contra la ficha que ya tenía los datos correctos" que apareció en `philips-freidoras-de-aire-review` con el HD9280/90, repetido el mismo día en otro silo distinto. Reescribí la sección H3 completa de la guía, el quickPick, la fila de la tabla, "cuál elegir", el veredicto y 3 entradas de FAQ.
+
+**Hallazgo 3 (efecto de segundo orden del #2): la ficha de 3 Modos se auto-identificaba como "Gadnic AspiRob" en varios campos clave** (`title`, `h1`, `metaDescription`, `line`, `specs`, 3 párrafos de `articleBody`) — una colisión de identidad real con el OTRO producto del catálogo que genuinamente se llama así (MLA36838658, con mapeo láser LiDAR real). Al verificar esa ficha hermana descubrí además que la guía afirmaba que el AC800 era "el único Gadnic con navegación LIDAR" — falso, el AspiRob también mapea con LiDAR; lo único exclusivo del AC800 es la base autolimpiante (autovaciado). Se corrigieron ambas cosas.
+
+**Trío auditor: 3 rondas.** Ronda 1: ambos NO-GO. Codex marcó las dos falsas-exclusividades de LIDAR, dos menciones de "5 Modos" fuera del callout dedicado (en la intro y en una FAQ), la colisión de nombre "AspiRob" en la ficha de 3 Modos (title/h1/metaDescription/line/specs/articleBody) y un `ogDescription` del AC800 con "548 opiniones" hardcodeado pese a que `reviewCount` ya era 997. agy marcó además que la tabla comparativa decía "Trapea: No" para el AC800 cuando sí trapea (tanque 250mL, verificado en su propia ficha). Se corrigieron los 6. Ronda 2: Codex encontró una tercera mención residual de "AspiRob" (sin link, en una FAQ) que no contaba como las 2 referencias cruzadas válidas al otro producto; agy dio GO limpio. Ronda 3 (solo Codex, confirmación corta tras el último fix): GO.
+
+**Deuda dejada a propósito para otra sesión (señalada por agy, no bloqueante para esta guía):** 3 guías satélite del mismo silo (`robot-aspiradora-precio-argentina`, `mejores-robot-aspiradora-trapeadora`, `aspiradora-robot-gadnic-vs-xiaomi`) todavía describen al 3 Modos con su texto viejo o al 5 Modos como activo — no se tocaron para no mezclar el alcance de esta tanda.
+
+**Lección reforzada (va también a MISTAKES.md):** un ID de catálogo de MercadoLibre no identifica un producto fijo para siempre — puede cambiar de modelo por completo sin avisar. Releer la ficha ENTERA (no solo precio/reviewCount) antes de confiar en que el contenido escrito en una sesión anterior sigue describiendo lo que la publicación vende hoy.
+
+**Verificado:** `tsc --noEmit` limpio, `npm run guides:check` en verde (0 deuda nueva, techo de reseñas hardcodeadas bajado de 896 a 893), `npm run build` sin errores. Mismo problema de red con Google Fonts en el dev server local que en guías anteriores del día; me apoyé en el build de producción limpio.
+
 ## 2026-11-02 — Refresh de `philips-freidoras-de-aire-review` — la guía describía mal el HD9280/90 pese a que su propia ficha ya tenía los datos correctos
 
 Origen: siguiente guía del backlog "vencidas con más afiliados", tras `monopatin-electrico`. Verifiqué en vivo las 4 fichas activas (NA120/00, HD9280/90, PHNA23100, PHNA35100) con el Chrome del usuario; la quinta (HD9270/91) ya estaba `deprioritized` de antes, sin tocar.

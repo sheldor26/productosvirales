@@ -19969,35 +19969,34 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     category: "aspiradoras-robot",
     title: `Robot aspiradora Gadnic: opiniones y review de la línea`,
     seoTitle: `Robot aspiradora Gadnic: opiniones y review [2026]`,
-    metaDescription: `¿Vale la pena un robot aspiradora Gadnic? Opiniones y review de la línea: el AC800 con LIDAR y base autolimpiante compite bien; el 3 Modos queda corto.`,
+    metaDescription: `¿Vale la pena un robot aspiradora Gadnic? Opiniones y review de la línea: el AC800 con LIDAR y base autolimpiante compite bien; el 3 Modos ahora suma WiFi y voz.`,
     ogTitle: `Robot aspiradora Gadnic: ¿conviene la marca argentina barata?`,
     ogDescription: `Probamos la lógica de la línea Gadnic, de "3 modos" al tope con base autolimpiante. Te decimos cuál vale la pena y cuál mejor saltear.`,
     h1: `Robot aspiradora Gadnic [2026]: review de toda la línea, modo por modo`,
     publishedDate: "2026-06-06",
-    updatedDate: "2026-07-06",
+    updatedDate: "2026-11-02",
     hasDisclosure: true,
     standfirst: `Gadnic es la marca argentina que más vende robots aspiradora en Mercado Libre. Su catálogo va desde un equipo básico de tres modos hasta uno con LIDAR y base autolimpiante. Acá te ordenamos cuál es cuál y para quién conviene cada uno.`,
     intro: [
-      `Si buscás "robot aspiradora" en Mercado Libre Argentina, tarde o temprano caés en un Gadnic. Es una marca local con distribución fuerte online, precios agresivos y un catálogo que crece todos los años. El problema es que sus modelos se venden por "modos" —3 modos, 5 modos, hasta el famoso "Gadnic 4 modos" que mucha gente busca— y eso confunde más de lo que ayuda.`,
+      `Si buscás "robot aspiradora" en Mercado Libre Argentina, tarde o temprano caés en un Gadnic. Es una marca local con distribución fuerte online, precios agresivos y un catálogo que crece todos los años. El problema es que sus modelos se venden por "modos" (mucha gente busca directamente "3 modos" o el famoso "Gadnic 4 modos") y esa oferta cambia con el tiempo, más de lo que uno esperaría —y eso confunde más de lo que ayuda.`,
       `Acá la pregunta de fondo es simple: ¿Gadnic es barato porque recorta features que importan, o porque es una marca argentina que vende directo y se saltea intermediarios? La respuesta corta es: las dos cosas, según el modelo. El tope de gama (el AC800 con LIDAR y base autolimpiante) juega en otra liga que el de entrada, y mezclarlos es el error más común.`,
-      `Pasamos por los cuatro robots Gadnic que se consiguen hoy, ordenados de mejor a más básico, con qué hace cada uno, qué le falta y a quién le sirve. Si querés ir directo: acá va la versión corta.`,
+      `Pasamos por los tres robots Gadnic que están en stock estable hoy, ordenados de mejor a más básico, con qué hace cada uno, qué le falta y a quién le sirve. Si querés ir directo: acá va la versión corta.`,
     ],
     sections: [
       { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_757562-MLA98254774359_112025-F.webp", alt: `Robot aspiradora Gadnic AC800 con LIDAR y base autolimpiante sobre piso de departamento argentino`, imageSize: "hero" },
 
-      { type: "p", content: `Un robot aspiradora Gadnic vale la pena según el modelo que elijas. El tope de gama, con LIDAR y base autolimpiante, compite bien contra marcas globales de precio parecido. El de entrada, sin app ni mapeo, solo rinde en departamentos chicos.` },
+      { type: "p", content: `Un robot aspiradora Gadnic vale la pena según el modelo que elijas. El tope de gama, con LIDAR y base autolimpiante, compite bien contra marcas globales de precio parecido. El de entrada, hoy con WiFi y app, rinde bien para el mantenimiento diario en departamentos y casas medianas.` },
 
       { type: "h2", title: `Resumen rápido: cuál Gadnic comprar según tu caso`, id: "resumen" },
       { type: "list", items: [
-        `**Mejor de la línea (con LIDAR + autovaciado):** [Gadnic 5000 Pa LIDAR AC800](https://meli.la/2UjN3FV) — el único que mapea con láser y se vacía solo.`,
-        `**Mejor relación trapeado + mapeo:** [Gadnic AspiRob](https://meli.la/2mPhJwy) — aspira y trapea con mapeo, sin pagar de más.`,
-        `**Entrada con trapeo y app:** [Gadnic 5 Modos](https://meli.la/2kRauwY) — depósito de agua, app y sensores anticaída a buen precio.`,
-        `**Lo más barato para probar:** [Gadnic 3 Modos](https://meli.la/2WGATBu) — sin app y sin láser, para departamento chico o regalar.`,
+        `**Mejor de la línea (con LIDAR + autovaciado):** [Gadnic 5000 Pa LIDAR AC800](https://meli.la/2UjN3FV) — el único Gadnic con base autolimpiante, que además mapea con láser.`,
+        `**Mejor relación trapeado + mapeo:** [Gadnic AspiRob](https://meli.la/2mPhJwy) — aspira y trapea con mapeo láser LiDAR, sin pagar el autovaciado.`,
+        `**El más barato, con app y voz:** [Gadnic 3 Modos](https://meli.la/2WGATBu) — WiFi, app Tuya, Alexa/Google Home y trapeo, sin mapeo, al precio más bajo de la línea.`,
       ]},
   
-      { type: "callout", calloutVariant: "tip", calloutTitle: `Sobre el "Gadnic 4 modos"`, content: `Mucha gente busca el "Gadnic 4 modos" pensando que es un modelo puntual. En la práctica, Gadnic nombra sus robots por la cantidad de modos de limpieza (auto, bordes, focalizado, trapeo, etc.), y la oferta concreta varía según el lote. Hoy los que se consiguen estables son el de **3 modos**, el de **5 modos**, el **AspiRob** y el tope **AC800**. Si ves un "4 modos" listado, fijate las specs reales: casi siempre es una variante intermedia del 3 o del 5 modos.` },
-  
-      { type: "trust-block", trustVariant: "methodology", content: `Cómo comparamos: miramos las cuatro variantes de Gadnic que están en stock estable en Mercado Libre Argentina a junio 2026. Para cada una pesamos succión real (en Pa), tipo de navegación (random vs. mapeo vs. LIDAR), si tiene app, si trapea, y si incluye base autolimpiante. No inventamos resultados de laboratorio: los datos de potencia y autonomía son los que declara la marca, y las calificaciones que citamos son las que tienen los listings oficiales. Cuando un modelo no tiene rating suficiente, lo decimos.` },
+      { type: "callout", calloutVariant: "tip", calloutTitle: `Sobre el "Gadnic 4 modos" o el "5 modos"`, content: `Mucha gente busca el "Gadnic 4 modos" o el "5 modos" pensando que es un modelo puntual y estable. En la práctica, Gadnic nombra y renueva sus robots por la cantidad de modos de limpieza (auto, bordes, focalizado, trapeo, etc.), y la oferta concreta cambia según el lote y hasta el vendedor. Hoy los que se consiguen estables son el **3 Modos** (que en noviembre de 2026 pasó a traer WiFi, app y control por voz, algo que antes no tenía), el **AspiRob** con mapeo láser y el tope **AC800**. El "5 Modos" que describíamos antes quedó sin stock y no encontramos un vendedor nuevo con el mismo modelo exacto; si ves un "4 modos" o un "5 modos" listado, fijate las specs reales en vez de guiarte solo por el nombre.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `Cómo comparamos: miramos las variantes de Gadnic que están en stock estable en Mercado Libre Argentina, verificadas en vivo. Para cada una pesamos succión real (en Pa), tipo de navegación (random vs. mapeo vs. LIDAR), si tiene app, si trapea, y si incluye base autolimpiante. No inventamos resultados de laboratorio: los datos de potencia y autonomía son los que declara la marca, y las calificaciones que citamos son las que tienen los listings oficiales. Cuando un modelo no tiene rating suficiente o se queda sin stock, lo decimos.` },
   
       { type: "h2", title: `Por qué Gadnic vende tanto (y qué significa para vos)`, id: "por-que-gadnic" },
       { type: "p", content: `Gadnic es una marca argentina de electrónica y electrodomésticos con presencia muy fuerte en venta online. No es una multinacional con red de service en cada barrio como Xiaomi o Samsung, pero tampoco es un importador anónimo: tiene catálogo estable, listings oficiales y repuestos que se consiguen. Eso, en el mundo de los robots aspiradora baratos, ya es bastante.` },
@@ -20006,38 +20005,31 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
   
       { type: "h2", title: `El ranking de la línea Gadnic`, id: "ranking" },
   
-      { type: "h3", title: `1. Gadnic 5000 Pa LIDAR AC800 — el tope, y el único que vale "premium"` },
-      { type: "product-card", productMlaId: "MLA62126950", label: "Mejor de la línea", labelColor: "green", ranking: 1, description: `El único Gadnic con navegación LIDAR y base autolimpiante. Mapea la casa con láser, aspira con 5000 Pa, se vacía solo en una bolsa de 3.2L y declara 140 minutos de autonomía. Tiene rating 4.8 con más de 1.000 vendidas, lo que para una marca argentina es muchísimo respaldo.` },
-      { type: "p", content: `Acá está el salto real de Gadnic. El [AC800](https://meli.la/2UjN3FV) usa **LIDAR** —un láser giratorio que arma el mapa de tu casa— en lugar de chocar y rebotar al azar. Eso significa recorrido ordenado, por habitación, sin dejar el ambiente a medias ni pasar tres veces por el mismo lugar.` },
+      { type: "h3", title: `1. Gadnic 5000 Pa LIDAR AC800 — el tope, y el único que se vacía solo` },
+      { type: "product-card", productMlaId: "MLA62126950", label: "Mejor de la línea", labelColor: "green", ranking: 1, description: `El único Gadnic con base autolimpiante. Mapea la casa con láser LIDAR (igual que el AspiRob), aspira con 5000 Pa, se vacía solo en una bolsa de 3.2L y declara 140 minutos de autonomía. Tiene rating 4.8 con más de 1.000 vendidas, lo que para una marca argentina es muchísimo respaldo.` },
+      { type: "p", content: `Acá está el salto real de Gadnic. El [AC800](https://meli.la/2UjN3FV) usa **LIDAR** —un láser giratorio que arma el mapa de tu casa— en lugar de chocar y rebotar al azar, igual que el AspiRob. Eso significa recorrido ordenado, por habitación, sin dejar el ambiente a medias ni pasar tres veces por el mismo lugar.` },
       { type: "p", content: `Lo que de verdad cambia la vida es la **base autolimpiante**: el robot vuelve solo a la estación y se vacía en una bolsa de **3.2 litros**, así que en vez de limpiar el depósito todos los días, lo hacés cada varias semanas. Esa función, que hasta 2023 solo veías en equipos de más de un millón, acá viene en un robot de unos {{precio:MLA62126950:k}}. Sumá **5000 Pa** de succión, batería de **3200 mAh** para unos **140 minutos** de autonomía y la app **Tuya** para horarios y mapa, y entendés por qué junta {{reviews:MLA62126950}} reseñas con {{rating:MLA62126950}} de promedio.` },
       { type: "p", content: `¿La parte honesta? Es Tuya, no un ecosistema propio: la app cumple pero no es la más prolija, y el service no tiene la cobertura de una marca global. Aun así, para el precio, es el robot con autovaciado más accesible de origen argentino que vas a encontrar.` },
       { type: "pull-quote", content: `Pensé que el autovaciado era un chiche, hasta que pasé tres semanas sin tocar el robot. La casa impecable y yo sin acordarme de que existe.`, attribution: `— Comprador en Argentina, 2025` },
   
-      { type: "h3", title: `2. Gadnic AspiRob — trapeo + mapeo sin pagar el LIDAR` },
-      { type: "product-card", productMlaId: "MLA36838658", label: "Mejor para trapear", labelColor: "blue", ranking: 2, description: `Aspira y trapea, mapea el ambiente y detecta obstáculos, todo manejable desde la app. Tiene rating 4.8 y se ubica un escalón debajo del AC800: sin base autolimpiante, pero con la combinación de trapeado + mapeo que la mayoría de los hogares necesita.` },
-      { type: "p", content: `Si lo tuyo es **piso duro** —porcelanato, cerámica, flotante— y querés que pase el trapo además de aspirar, el [AspiRob](https://meli.la/2mPhJwy) es el punto dulce de la línea. Combina aspirado y trapeado, arma mapa del ambiente para moverse ordenado y detecta obstáculos para no quedarse trabado. También tiene **4.8 de rating**, igual que el tope.` },
-      { type: "p", content: `La diferencia con el AC800 es clara y es de billetera: el AspiRob **no tiene base autolimpiante** ni LIDAR de láser. Mapea bien, pero el vaciado lo hacés a mano y la navegación es por sensores, no por láser giratorio. A cambio, te ahorrás un buen pellizco. Para un departamento o una casa de uno o dos ambientes con mucho piso, va sobrado.` },
-  
-      { type: "h3", title: `3. Gadnic 5 Modos — entrada con app, trapeo y depósito de agua` },
-      { type: "product-card", productMlaId: "MLA45951645", label: "Entrada con app", labelColor: "amber", ranking: 3, description: `Cinco modos de limpieza, depósito de agua para trapear, app para programar y sensores anti-colisión y anticaída. Sin mapeo ni LIDAR: navega de forma más simple, pero suma app y trapeado a un precio de gama de entrada.` },
-      { type: "p", content: `El [Gadnic 5 Modos](https://meli.la/2kRauwY) es el primer escalón "con onda": trae **app**, **depósito de agua** para pasar el trapo y **sensores anti-colisión y anticaída** para que no se caiga por la escalera ni se trabe golpeando muebles. Los "5 modos" son las rutinas de limpieza (auto, bordes, focalizado, etc.).` },
-      { type: "p", content: `El recorte respecto del AspiRob es la **navegación**: este no mapea. Se mueve con una lógica más básica, así que en una casa grande con muchos ambientes vas a notar que repite zonas o deja rincones. Pero para un **monoambiente o un departamento chico**, donde el robot tiene poco terreno que cubrir, la falta de mapeo casi no se siente, y te llevás app + trapeado por bastante menos plata.` },
-  
-      { type: "h3", title: `4. Gadnic 3 Modos — el básico para probar el formato` },
-      { type: "product-card", productMlaId: "MLA42045783", label: "El más simple", labelColor: "purple", ranking: 4, description: `El robot de entrada de Gadnic: tres modos de limpieza, sin app y sin láser. Cumple para aspirar piso liso en espacios chicos, pero no esperés mapeo, control desde el celular ni trapeado.` },
-      { type: "p", content: `El [Gadnic 3 Modos](https://meli.la/2WGATBu) es lo más despojado de la línea. **Sin app, sin láser, sin mapeo.** Lo prendés, elige uno de sus tres modos y barre el piso moviéndose de forma básica. Es el típico robot para quien quiere **probar el formato sin gastar**, o para regalar.` },
-      { type: "p", content: `Acá conviene ser claro para que no compres mal: si tenés más de un ambiente, alfombras o querés programar horarios desde el celular, este modelo te va a quedar corto rápido. La diferencia de precio con el [5 Modos](https://meli.la/2kRauwY) —que sí trae app y depósito de agua— es chica, y por ese poquito más ganás features que se usan todos los días. El 3 Modos tiene sentido solo si tu prioridad absoluta es el precio mínimo.` },
-  
-      { type: "callout", calloutVariant: "warning", calloutTitle: `El error de comprar por el número de "modos"`, content: `Más "modos" no significa mejor robot. Lo que de verdad mueve la aguja es la **navegación** (LIDAR > mapeo por sensores > random), si trae **app** y si **trapea o se autovacía**. Un 5 Modos sin mapeo limpia peor una casa grande que un AspiRob con mapeo, aunque tenga más "modos". Comprá por feature, no por número.` },
-  
+      { type: "h3", title: `2. Gadnic AspiRob — trapeo + mapeo LIDAR sin pagar el autovaciado` },
+      { type: "product-card", productMlaId: "MLA36838658", label: "Mejor para trapear", labelColor: "blue", ranking: 2, description: `Aspira y trapea, mapea con láser LIDAR y detecta obstáculos, todo manejable desde la app. Tiene rating 4.8 y se ubica un escalón debajo del AC800: sin base autolimpiante, pero con la combinación de trapeado + mapeo láser que la mayoría de los hogares necesita.` },
+      { type: "p", content: `Si lo tuyo es **piso duro** —porcelanato, cerámica, flotante— y querés que pase el trapo además de aspirar, el [AspiRob](https://meli.la/2mPhJwy) es el punto dulce de la línea. Combina aspirado y trapeado, arma un mapa real con LIDAR para moverse ordenado y detecta obstáculos para no quedarse trabado. También tiene **4.8 de rating**, igual que el tope.` },
+      { type: "p", content: `La diferencia con el AC800 es clara y es de billetera: el AspiRob **no tiene base autolimpiante**. Mapea con láser igual que el tope, pero el vaciado del depósito lo hacés a mano. A cambio, te ahorrás un buen pellizco. Para un departamento o una casa de uno o dos ambientes con mucho piso, va sobrado.` },
+
+      { type: "h3", title: `3. Gadnic 3 Modos — el más barato, ahora con WiFi, app y voz` },
+      { type: "product-card", productMlaId: "MLA42045783", label: "El más barato", labelColor: "purple", ranking: 3, description: `El robot de entrada de Gadnic: hoy trae WiFi, app Tuya, control por voz (Alexa, Google Home) y trapeado con tanque de agua. Sin mapeo: navega de forma aleatoria con sensores de obstáculo. Al precio más bajo de la línea.` },
+      { type: "p", content: `El [Gadnic 3 Modos](https://meli.la/2WGATBu) cambió bastante respecto a lo que era antes: hoy trae **WiFi con app Tuya**, **control por voz** (Alexa y Google Home) y **trapeado** con un tanque de agua de 150 mL, todo al precio más bajo del catálogo. Los "tres modos" son las rutinas de limpieza: Automático, Bordes y Punto Programado.` },
+      { type: "p", content: `El recorte respecto del AspiRob es la **navegación**: este no mapea, se mueve de forma aleatoria con sensores de obstáculo y anticaída. En una casa grande con muchos ambientes vas a notar que repite zonas. Pero para un **monoambiente o un departamento chico**, donde el robot tiene poco terreno que cubrir, la falta de mapeo casi no se siente, y te llevás WiFi, app, voz y trapeado por bastante menos plata que el resto de la línea.` },
+
+      { type: "callout", calloutVariant: "warning", calloutTitle: `El error de comprar por el número de "modos"`, content: `Más "modos" no significa mejor robot. Lo que de verdad mueve la aguja es la **navegación** (LIDAR > mapeo por sensores > random), si trae **app** y si **trapea o se autovacía**. El 3 Modos de hoy ya no es el robot despojado que era antes, pero sigue sin mapear: elegilo por precio y por sumar WiFi/voz/trapeo a bajo costo, no esperando el recorrido ordenado de un robot con LIDAR.` },
+
       { type: "h2", title: `Tabla comparativa de la línea Gadnic`, id: "tabla" },
       { type: "table", headers: [`Modelo`, `Precio`, `Navegación`, `Trapea`, `App`, `Autovaciado`, `Para quién`], rows: [
-        [`[AC800 5000 Pa LIDAR](https://meli.la/2UjN3FV)`, `{{precio:MLA62126950}}`, `LIDAR (láser)`, `No`, `Tuya`, `Sí (3.2L)`, `Casa grande, querés "instalarlo y olvidarte"`],
-        [`[AspiRob](https://meli.la/2mPhJwy)`, `{{precio:MLA36838658}}`, `Mapeo por sensores`, `Sí`, `Sí`, `No`, `Depto con mucho piso duro, querés trapeado`],
-        [`[5 Modos](https://meli.la/2kRauwY)`, `{{precio:MLA45951645}}`, `Básica (sin mapeo)`, `Sí`, `Sí`, `No`, `Monoambiente o depto chico, con app`],
-        [`[3 Modos](https://meli.la/2WGATBu)`, `{{precio:MLA42045783}}`, `Básica (sin mapeo)`, `No`, `No`, `No`, `Probar el formato barato o regalar`],
+        [`[AC800 5000 Pa LIDAR](https://meli.la/2UjN3FV)`, `{{precio:MLA62126950}}`, `LIDAR (láser)`, `Sí (250 mL)`, `Tuya`, `Sí (3.2L)`, `Casa grande, querés "instalarlo y olvidarte"`],
+        [`[AspiRob](https://meli.la/2mPhJwy)`, `{{precio:MLA36838658}}`, `LIDAR (láser)`, `Sí`, `Tuya`, `No`, `Depto con mucho piso duro, querés trapeado`],
+        [`[3 Modos](https://meli.la/2WGATBu)`, `{{precio:MLA42045783}}`, `Básica (sin mapeo)`, `Sí`, `Tuya`, `No`, `El precio más bajo, con WiFi, voz y trapeo`],
       ]},
-      { type: "p", content: `Ojo con un detalle que sorprende: el **3 Modos figura más caro que el 5 Modos** en algunos lotes, pero ofrece menos (no trae app ni trapeado). Es un caso clásico de precio que no sigue a las features. Si los ves a precio parecido, el [5 Modos](https://meli.la/2kRauwY) es la compra más inteligente de los dos.` },
   
       { type: "h2", title: `Garantía, app y repuestos: lo que tenés que saber antes de comprar`, id: "garantia" },
       { type: "p", content: `Acá va la parte que casi nadie te cuenta y que importa más que un par de Pa de succión. Gadnic es **marca argentina con venta oficial**, así que comprándola en un listing oficial de Mercado Libre tenés **garantía local** y factura. Eso te ahorra el dolor de cabeza de la importación gris, donde si el robot falla a los seis meses no tenés a quién reclamarle.` },
@@ -20046,24 +20038,23 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
   
       { type: "h2", title: `Cuál elegir según tu caso`, id: "cual-elegir" },
       { type: "list", items: [
-        `**Casa grande o de varios ambientes y odiás vaciar el depósito:** el [AC800 con LIDAR y base autolimpiante](https://meli.la/2UjN3FV). Es el único que mapea con láser y se vacía solo. Pagás más, pero es el que de verdad "te deja la casa impecable" sin que lo toques.`,
-        `**Departamento con mucho piso duro y querés que pase el trapo:** el [AspiRob](https://meli.la/2mPhJwy). Mapea, aspira y trapea, sin pagar el LIDAR.`,
-        `**Monoambiente o departamento chico, con app y trapeado:** el [5 Modos](https://meli.la/2kRauwY). En poco espacio, la falta de mapeo casi no se nota.`,
-        `**Solo querés probar el formato gastando lo mínimo:** el [3 Modos](https://meli.la/2WGATBu). Básico, sin app, para piso liso en espacios chicos.`,
+        `**Casa grande o de varios ambientes y odiás vaciar el depósito:** el [AC800 con LIDAR y base autolimpiante](https://meli.la/2UjN3FV). Es el único Gadnic que se vacía solo. Pagás más, pero es el que de verdad "te deja la casa impecable" sin que lo toques.`,
+        `**Departamento con mucho piso duro y querés que pase el trapo, con mapeo real:** el [AspiRob](https://meli.la/2mPhJwy). Mapea con LIDAR, aspira y trapea, sin pagar el autovaciado.`,
+        `**Querés el precio más bajo, pero con WiFi, app y trapeado:** el [Gadnic 3 Modos](https://meli.la/2WGATBu). Sin mapeo, pero con voz (Alexa/Google Home) y trapeado al precio más accesible de la línea.`,
         `**Querés comparar Gadnic contra otras marcas:** mirá nuestra guía de [precios de robots aspiradora en Argentina](/guias/robot-aspiradora-precio-argentina) y el [ranking de robots trapeadores](/guias/mejores-robot-aspiradora-trapeadora).`,
       ]},
-  
+
       { type: "h2", title: `Veredicto: ¿conviene Gadnic?`, id: "veredicto" },
-      { type: "verdict", content: `Gadnic no es la marca con mejor app ni con la red de service más grande, y eso lo decimos de frente. Pero es la forma más barata de tener features que importan de verdad —mapeo, trapeado, y en el AC800 hasta LIDAR con base autolimpiante— con garantía argentina y repuestos disponibles. Si tu prioridad es relación precio-feature y comprás el modelo correcto para tu casa (no el de más "modos"), Gadnic es una compra sensata. El AC800 es el que más recomendamos; el 3 Modos, solo si el precio mínimo es lo único que importa.` },
+      { type: "verdict", content: `Gadnic no es la marca con mejor app ni con la red de service más grande, y eso lo decimos de frente. Pero es la forma más barata de tener features que importan de verdad —mapeo láser, trapeado, y en el AC800 hasta autovaciado— con garantía argentina y repuestos disponibles. Si tu prioridad es relación precio-feature y comprás el modelo correcto para tu casa (no el de más "modos"), Gadnic es una compra sensata. El AC800 es el que más recomendamos si podés pagarlo; el AspiRob si querés mapeo real sin el autovaciado; y el 3 Modos si tu prioridad es el precio mínimo con WiFi, voz y trapeado igual.` },
     ],
     faq: [
       {
         question: `¿Cuál es el "Gadnic 4 modos" que aparece en las búsquedas?`,
-        answer: `Gadnic nombra sus robots por la cantidad de modos de limpieza, y la oferta concreta cambia según el lote. Hoy los modelos estables son el de 3 modos, el de 5 modos, el AspiRob y el tope AC800. Si ves un "4 modos" listado, revisá las specs reales: suele ser una variante intermedia. Lo importante no es el número de modos sino la navegación, si trae app y si trapea o se autovacía.`,
+        answer: `Gadnic nombra sus robots por la cantidad de modos de limpieza, y la oferta concreta cambia según el lote y hasta el vendedor. Hoy los modelos estables son el 3 Modos (que en noviembre de 2026 pasó a traer WiFi, app y voz), el AspiRob con mapeo láser y el tope AC800. Si ves un "4 modos" listado, revisá las specs reales en vez de guiarte por el nombre: lo importante no es el número de modos sino la navegación, si trae app y si trapea o se autovacía.`,
       },
       {
         question: `¿Vale la pena pagar el AC800 frente a los Gadnic más baratos?`,
-        answer: `Si tenés una casa grande o de varios ambientes, sí: es el único con LIDAR (mapeo por láser) y base autolimpiante, así que se mueve ordenado y se vacía solo durante semanas. En un departamento chico la diferencia se nota menos, y ahí el AspiRob o el 5 Modos rinden bien por bastante menos plata.`,
+        answer: `Si tenés una casa grande o de varios ambientes, sí: es el único con base autolimpiante, así que se vacía solo durante semanas (el AspiRob también mapea con LIDAR, pero el vaciado lo hacés a mano). En un departamento chico la diferencia se nota menos, y ahí el AspiRob o el 3 Modos rinden bien por bastante menos plata.`,
       },
       {
         question: `¿Gadnic tiene garantía y service en Argentina?`,
@@ -20071,21 +20062,21 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       },
       {
         question: `¿Qué app usa el robot aspiradora Gadnic?`,
-        answer: `Usa Tuya, una plataforma genérica de casa inteligente, en español. Sirve para programar horarios, elegir modo y, en el AC800, ver el mapa. Es estable, aunque no tan pulida como Mi Home de Xiaomi o SmartThings de Samsung, que son ecosistemas dedicados. Los modelos 3 Modos no traen app.`,
+        answer: `Usa Tuya, una plataforma genérica de casa inteligente, en español. Sirve para programar horarios, elegir modo y, en el AC800 y el AspiRob, ver el mapa. Es estable, aunque no tan pulida como Mi Home de Xiaomi o SmartThings de Samsung, que son ecosistemas dedicados. Los tres modelos activos de la línea (3 Modos, AspiRob, AC800) traen app hoy.`,
       },
       {
         question: `¿El Gadnic AspiRob trapea bien el piso?`,
-        answer: `Aspira y trapea en la misma pasada, y suma mapeo del ambiente para moverse ordenado, algo que los Gadnic más baratos no tienen. Para piso duro (porcelanato, cerámica, flotante) en un departamento, es la opción más equilibrada de la línea sin pagar el LIDAR del AC800.`,
+        answer: `Aspira y trapea en la misma pasada, y suma mapeo láser LIDAR para moverse ordenado, algo que solo comparte con el AC800 dentro de la línea. Para piso duro (porcelanato, cerámica, flotante) en un departamento, es la opción más equilibrada de la línea sin pagar el autovaciado del AC800.`,
       },
       {
         question: `¿Sirve un Gadnic 3 Modos o conviene gastar un poco más?`,
-        answer: `El 3 Modos cumple para aspirar piso liso en espacios chicos, pero no tiene app, mapeo ni trapeado. Como la diferencia de precio con el 5 Modos es chica —y en algunos lotes el 3 Modos hasta sale más caro—, el 5 Modos suele ser la mejor compra: misma base, pero con app y depósito de agua.`,
+        answer: `Hoy el 3 Modos ya no es el robot despojado que era antes: trae WiFi, app Tuya, control por voz (Alexa, Google Home) y trapeado con tanque de agua, al precio más bajo de la línea. Lo que le falta frente al AspiRob es el mapeo: navega de forma aleatoria, así que en una casa grande repite zonas. Para un departamento o monoambiente, rinde bien y es la compra más barata con esas funciones.`,
       },
     ],
     quickPicks: [
       { productMlaId: "MLA62126950", label: "Mejor de la línea", labelColor: "green", tagline: "LIDAR + base autolimpiante, se vacía solo" },
-      { productMlaId: "MLA36838658", label: "Mejor para trapear", labelColor: "blue", tagline: "Mapeo + trapeado sin pagar el LIDAR" },
-      { productMlaId: "MLA45951645", label: "Entrada con app", labelColor: "amber", tagline: "App y trapeado para depto chico" },
+      { productMlaId: "MLA36838658", label: "Mejor para trapear", labelColor: "blue", tagline: "Mapeo LIDAR + trapeado sin pagar el autovaciado" },
+      { productMlaId: "MLA42045783", label: "El más barato", labelColor: "purple", tagline: "WiFi, app, voz y trapeado al precio más bajo" },
     ],
     internalLinks: [
       { label: `Guía completa de robots aspiradora en Argentina`, href: "/guias/robot-aspiradora" },

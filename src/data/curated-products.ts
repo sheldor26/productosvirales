@@ -29186,13 +29186,13 @@ Robot Fika Nexos + base de carga, 4 cepillos laterales (2 instalados + 2 de repu
   },
   {
     id: 'MLA42045783',
-    title: 'Aspiradora Robot Gadnic 3 Modos Limpieza Poder De Succión Negro',
+    title: 'Aspiradora Robot Gadnic 3 Modos WiFi App y Voz Trapeadora Negro',
     brand: "Gadnic",
-    price: 178999,
-    priceUpdated: "2026-10-02",
-    priceLastChecked: "2026-10-12",
+    price: 179015,
+    priceUpdated: "2026-11-02",
+    priceLastChecked: "2026-11-02",
     priceStatus: "fresh",
-    originalPrice: 619549,
+    originalPrice: 353149,
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_2X_723033-MLA99930194955_112025-F.webp',
     images: [
@@ -29209,18 +29209,18 @@ Robot Fika Nexos + base de carga, 4 cepillos laterales (2 instalados + 2 de repu
     condition: 'new',
     freeShipping: false,
     rating: 4.6,
-    reviewCount: 4480,
+    reviewCount: 2823,
     soldQuantity: undefined,
     pastelColor: 'var(--pastel-amber)',
-    line: 'AspiRob',
+    line: '3 Modos',
     color: 'Negro',
     badge: 'viral',
     aiReviewSummary: 'Destaca por su excelente capacidad para dejar los pisos brillantes y facilitar las tareas del hogar. Su funcionamiento es eficiente, con una batería de larga duración y la posibilidad de controlarla desde el celular.',
     seoTitle: 'Aspiradora Robot Gadnic: Aspira y Trapea con WiFi y App',
-    metaDescription: 'Aspiradora robot Gadnic AspiRob: aspira y trapea, con WiFi, app Tuya y voz. Sensores de obstáculo y 120 min de batería. 4.6★ con miles de opiniones.',
+    metaDescription: 'Aspiradora robot Gadnic 3 Modos: aspira y trapea, con WiFi, app Tuya y voz. Sensores de obstáculo y 120 min de batería. 4.6★ con miles de opiniones.',
     ogTitle: 'Aspiradora Robot Gadnic: el 2 en 1 con app, voz y 120 min de batería',
     ogDescription: '4.6★ con miles de opiniones. Aspira y trapea, con WiFi, app Tuya y control por voz. Sensores de obstáculo y 120 min de autonomía. Para quién rinde y para quién no.',
-    h1: 'Aspiradora robot Gadnic AspiRob: aspira y trapea con WiFi, app y control por voz, con 120 min de batería',
+    h1: 'Aspiradora robot Gadnic 3 Modos: aspira y trapea con WiFi, app y control por voz, con 120 min de batería',
     pros: [
       '4.6⭐ con miles de opiniones: uno de los robots más vendidos del catálogo',
       '2 en 1: aspira y trapea, con tanque de agua de 150 mL y mopa',
@@ -29238,21 +29238,21 @@ Robot Fika Nexos + base de carga, 4 cepillos laterales (2 instalados + 2 de repu
     verdict: 'El 2 en 1 con app más equilibrado de su rango: aspira y trapea, suma WiFi, voz y sensores de obstáculo, y tiene la mejor autonomía (120 min) de la gama económica. No mapea ni hace limpieza profunda, pero para el mantenimiento diario, sobre todo con mascotas, es de lo más recomendable por su precio.',
     articleBody: `## Qué hace: aspira y trapea con 450 Pa de succión
 
-La Gadnic AspiRob es una aspiradora robot y trapeadora 2 en 1. Aspira y barre con 450 Pa hacia un depósito de polvo de 350 mL, y trapea con una mopa alimentada por un tanque de agua de 150 mL. Tiene tres modos: Automático (toda la superficie en zigzag), Bordes (perímetro y zócalos) y Punto Programado (una zona concentrada).
+La Gadnic 3 Modos es una aspiradora robot y trapeadora 2 en 1. Aspira y barre con 450 Pa hacia un depósito de polvo de 350 mL, y trapea con una mopa alimentada por un tanque de agua de 150 mL. Tiene tres modos: Automático (toda la superficie en zigzag), Bordes (perímetro y zócalos) y Punto Programado (una zona concentrada).
 
 Conviene ser honesto con el trapeado, como lo son los compradores: es un paño húmedo de mantenimiento. Levanta el polvo fino que queda después de aspirar y refresca el piso, pero no saca manchas pegadas ni reemplaza un trapeado a mano. Lo mejor es aspirar primero y dejar la mopa para mantener.
 
 ## WiFi, app Tuya y control por voz
 
-Acá está la diferencia con los robots más básicos. La AspiRob se conecta por WiFi a la app Tuya, desde donde la encendés, elegís el modo, regulás la succión y programás horarios. Además funciona por voz con Alexa y Google Home, y trae control remoto y avisos por voz.
+Acá está la diferencia con los robots más básicos. El 3 Modos se conecta por WiFi a la app Tuya, desde donde la encendés, elegís el modo, regulás la succión y programás horarios. Además funciona por voz con Alexa y Google Home, y trae control remoto y avisos por voz.
 
 Un detalle honesto que aparece en las opiniones: varios prefieren el control remoto porque la app a veces cuesta de conectar. Pero la opción está, y para programarla cuando no estás en casa es muy cómoda.
 
 ## Navega sin mapeo, pero con sensores de obstáculo
 
-La AspiRob no arma un mapa de la casa: se mueve de forma aleatoria y va corrigiendo. La diferencia con un robot de entrada como la [Midow MDW/RZT](/producto/aspiradora-robot-con-wifi-smart-115w-midow-3-modos-con-base-negro-mla48378491) es que esta suma sensores de obstáculo infrarrojos además de los anticaídas, así que choca bastante menos y esquiva la mayoría de los muebles.
+El 3 Modos no arma un mapa de la casa: se mueve de forma aleatoria y va corrigiendo. La diferencia con un robot de entrada como la [Midow MDW/RZT](/producto/aspiradora-robot-con-wifi-smart-115w-midow-3-modos-con-base-negro-mla48378491) es que esta suma sensores de obstáculo infrarrojos además de los anticaídas, así que choca bastante menos y esquiva la mayoría de los muebles.
 
-Aun así, sin mapeo repite zonas y a veces le cuesta encontrar la base si quedó lejos. Muchas opiniones lo dicen con cariño ("no es smart, pero cumple"). Si querés recorrido ordenado y memoria de los ambientes, la categoría que buscás es la de mapeo, por ejemplo la [Gadnic 5 Modos con mapeo](/producto/aspiradora-robot-gadnic-5-modos-limpieza-trapeo-inteligente-deposito-de-agua-pol-mla45951645) o, en gama alta, la [Xiaomi Robot Vacuum S40 Pro](/producto/aspiradora-xiaomi-robot-vacuum-s40-pro-color-blanco-15000-pa-mla66281403).
+Aun así, sin mapeo repite zonas y a veces le cuesta encontrar la base si quedó lejos. Muchas opiniones lo dicen con cariño ("no es smart, pero cumple"). Si querés recorrido ordenado y memoria de los ambientes, la categoría que buscás es la de mapeo láser de verdad, por ejemplo la [Gadnic AspiRob con LiDAR](/producto/aspiradora-robot-trapeadora-gadnic-aspirob-recargable-inteligente-detecta-obstac-mla36838658) o, en gama alta, la [Xiaomi Robot Vacuum S40 Pro](/producto/aspiradora-xiaomi-robot-vacuum-s40-pro-color-blanco-15000-pa-mla66281403).
 
 ## 120 minutos de batería: la mejor de la gama económica
 
@@ -29264,13 +29264,13 @@ Es el uso más repetido en las opiniones: juntar pelo de perros y gatos. El filt
 
 ## En qué se diferencia de los otros robots del catálogo
 
-La AspiRob está un escalón arriba de la [Midow MDW/RZT](/producto/aspiradora-robot-con-wifi-smart-115w-midow-3-modos-con-base-negro-mla48378491), que es más barata pero no tiene sensores de obstáculo. Frente a la [Kärcher RCV 1](/producto/aspiradora-robot-karcher-rcv-1-mla42103831), la Gadnic suma WiFi, app, voz y trapeado. Si querés dar el salto a mapeo y recorrido ordenado, la referencia es la [Gadnic 5 Modos](/producto/aspiradora-robot-gadnic-5-modos-limpieza-trapeo-inteligente-deposito-de-agua-pol-mla45951645), y en la gama alta la [Xiaomi S40 Pro](/producto/aspiradora-xiaomi-robot-vacuum-s40-pro-color-blanco-15000-pa-mla66281403) con 15.000 Pa. La AspiRob se elige por el equilibrio: 2 en 1, app, voz y la mejor batería de su rango, a precio económico.
+El 3 Modos está un escalón arriba de la [Midow MDW/RZT](/producto/aspiradora-robot-con-wifi-smart-115w-midow-3-modos-con-base-negro-mla48378491), que es más barata pero no tiene sensores de obstáculo. Frente a la [Kärcher RCV 1](/producto/aspiradora-robot-karcher-rcv-1-mla42103831), la Gadnic suma WiFi, app, voz y trapeado. Si querés dar el salto a mapeo láser y recorrido ordenado, la referencia dentro de Gadnic es la [AspiRob con LiDAR](/producto/aspiradora-robot-trapeadora-gadnic-aspirob-recargable-inteligente-detecta-obstac-mla36838658), y en la gama alta la [Xiaomi S40 Pro](/producto/aspiradora-xiaomi-robot-vacuum-s40-pro-color-blanco-15000-pa-mla66281403) con 15.000 Pa. El 3 Modos se elige por el equilibrio: 2 en 1, app, voz y la mejor batería de su rango, a precio económico.
 
 ## Qué incluye la caja
 
-Robot Gadnic AspiRob, adaptador de corriente, base de carga, 2 cepillos laterales, mopa, control remoto y depósito de agua de 150 mL.`,
+Robot Gadnic 3 Modos, adaptador de corriente, base de carga, 2 cepillos laterales, mopa, control remoto y depósito de agua de 150 mL.`,
     specs: [
-      { label: 'Marca / Modelo', value: 'Gadnic / AspiRob (ROB00507)' },
+      { label: 'Marca / Modelo', value: 'Gadnic / 3 Modos (ROB00507)' },
       { label: 'Tipo', value: '2 en 1: aspira y trapea' },
       { label: 'Succión', value: '450 Pa · 3 niveles' },
       { label: 'Potencia', value: '14,8 W' },
@@ -29289,14 +29289,14 @@ Robot Gadnic AspiRob, adaptador de corriente, base de carga, 2 cepillos laterale
       { label: 'Color', value: 'Negro' },
     ],
     faq: [
-      { question: '¿La Gadnic AspiRob tiene app y control por voz?', answer: 'Sí. Se conecta por WiFi a la app Tuya, desde donde la programás, elegís el modo y regulás la succión. Además funciona por voz con Alexa y Google Home, y trae control remoto. Varios compradores usan más el control remoto porque la app a veces cuesta conectar.' },
+      { question: '¿La Gadnic 3 Modos tiene app y control por voz?', answer: 'Sí. Se conecta por WiFi a la app Tuya, desde donde la programás, elegís el modo y regulás la succión. Además funciona por voz con Alexa y Google Home, y trae control remoto. Varios compradores usan más el control remoto porque la app a veces cuesta conectar.' },
       { question: '¿Mapea la casa?', answer: 'No arma un mapa. Se mueve de forma aleatoria, aunque tiene sensores de obstáculo infrarrojos (además de anticaídas) que la hacen chocar menos que un robot básico. Sin mapeo repite zonas y a veces le cuesta volver a la base. Si querés recorrido ordenado, conviene un robot con mapeo.' },
       { question: '¿Aspira y trapea de verdad?', answer: 'Sí, es 2 en 1: aspira y barre con 450 Pa hacia un depósito de 350 mL y trapea con una mopa alimentada por un tanque de 150 mL. El trapeado es de mantenimiento (un paño húmedo): lo ideal es aspirar primero y usar la mopa para repasar, no esperar un fregado profundo.' },
       { question: '¿Sirve para pelos de mascota?', answer: 'Sí, es el uso más mencionado en las opiniones. Junta muy bien pelo de perros y gatos en el mantenimiento diario, sobre todo bajo las camas. El filtro es lavable y conviene vaciar el depósito seguido cuando hay mucho pelo, porque es chico.' },
       { question: '¿Cuánto dura la batería?', answer: 'Hasta 120 minutos, la mejor autonomía de los robots económicos del catálogo. Alcanza para limpiar casas medianas (80 a 120 m²) con una sola carga. Tarda unas 4 a 5 horas en cargar y vuelve sola a la base cuando se está por quedar sin batería.' },
-      { question: '¿En qué se diferencia de la Midow MDW/RZT?', answer: 'Las dos son 2 en 1 con WiFi, pero la Gadnic AspiRob suma sensores de obstáculo infrarrojos (la Midow solo tiene anticaídas), control por voz con Alexa y Google, y más autonomía (120 vs 80 min). La Midow es más económica; la Gadnic choca menos y dura más.' },
-      { question: '¿En qué se diferencia de un robot con mapeo?', answer: 'Un robot con mapeo arma el plano de la casa, recorre ordenado y guarda zonas. La AspiRob no mapea: se mueve aleatorio, así que repite lugares y tarda más en cubrir todo. A cambio cuesta bastante menos. Si querés mapeo dentro de Gadnic, está la 5 Modos; en gama alta, Xiaomi o Samsung.' },
-      { question: '¿Qué viene en la caja?', answer: 'El robot Gadnic AspiRob, el adaptador de corriente, la base de carga, 2 cepillos laterales, la mopa, el control remoto y el depósito de agua de 150 mL.' },
+      { question: '¿En qué se diferencia de la Midow MDW/RZT?', answer: 'Las dos son 2 en 1 con WiFi, pero la Gadnic 3 Modos suma sensores de obstáculo infrarrojos (la Midow solo tiene anticaídas), control por voz con Alexa y Google, y más autonomía (120 vs 80 min). La Midow es más económica; la Gadnic choca menos y dura más.' },
+      { question: '¿En qué se diferencia de un robot con mapeo?', answer: 'Un robot con mapeo arma el plano de la casa, recorre ordenado y guarda zonas. El 3 Modos no mapea: se mueve aleatorio, así que repite lugares y tarda más en cubrir todo. A cambio cuesta bastante menos. Si querés mapeo láser dentro de Gadnic, está el otro modelo de la línea, el AspiRob, que sí trae LiDAR; en gama alta, Xiaomi o Samsung.' },
+      { question: '¿Qué viene en la caja?', answer: 'El robot Gadnic 3 Modos, el adaptador de corriente, la base de carga, 2 cepillos laterales, la mopa, el control remoto y el depósito de agua de 150 mL.' },
     ],
     customerReviews: [
       { rating: 5, date: '2025-01-27', country: 'Argentina', text: 'En relación precio calidad está perfecto. Quieren una de 5 estrellas, compren de esas que salen 5 veces más. Tengo una casa con habitaciones de 4x4 y la barre joya mientras trabajo en la compu. Es lo que buscaba al precio que está. La estoy pagando en cuotas que salen menos que tres kilos de milanesas.', useful: 496 },
@@ -29308,23 +29308,23 @@ Robot Gadnic AspiRob, adaptador de corriente, base de carga, 2 cepillos laterale
       { rating: 5, date: '2025-01-27', country: 'Argentina', text: 'Un 95% de lo que esperaba. No llega bien a las esquinas: al tener 33 cm de diámetro necesitaría escobillas más largas. No llega a la base si está lejos o en otra habitación, pero le doy la orden cuando trabaja cerca del cargador. Me encantó que pasa muy bien debajo de mi cama king, que está a 10 cm del suelo y nunca podía limpiar.', useful: 20 },
       { rating: 5, date: '2024-11-17', country: 'Argentina', text: 'Como aspiradora es genial, como trapeadora deja marcas en el piso. Le saqué el trapeador y usándola solo como aspiradora es una 5 estrellas. La función de trapeado le baja la nota final.', useful: 13 },
     ],
-    relatedProducts: ['MLA48378491', 'MLA45951645', 'MLA66281403'],
+    relatedProducts: ['MLA48378491', 'MLA36838658', 'MLA66281403'],
     structuredData: {
       '@context': 'https://schema.org',
       '@type': 'Product',
-      name: 'Aspiradora Robot Gadnic AspiRob 2 en 1',
-      description: 'Aspiradora robot y trapeadora Gadnic AspiRob 2 en 1: aspira y trapea con 450 Pa de succión, depósito de polvo de 350 mL, tanque de agua de 150 mL, WiFi con app Tuya, control por voz (Alexa, Google Home), sensores de obstáculo infrarrojos y anticaídas, filtro lavable y batería de hasta 120 minutos con retorno automático a la base.',
+      name: 'Aspiradora Robot Gadnic 3 Modos WiFi App y Voz',
+      description: 'Aspiradora robot y trapeadora Gadnic 3 Modos 2 en 1: aspira y trapea con 450 Pa de succión, depósito de polvo de 350 mL, tanque de agua de 150 mL, WiFi con app Tuya, control por voz (Alexa, Google Home), sensores de obstáculo infrarrojos y anticaídas, filtro lavable y batería de hasta 120 minutos con retorno automático a la base.',
       brand: { '@type': 'Brand', name: 'Gadnic' },
       model: 'ROB00507',
       sku: 'MLA42045783',
       category: 'Aspiradoras robot',
       color: 'Negro',
       image: 'https://http2.mlstatic.com/D_NQ_NP_2X_723033-MLA99930194955_112025-F.webp',
-      url: 'https://productosvirales.com.ar/producto/aspiradora-robot-gadnic-3-modos-limpieza-poder-de-succion-negro-mla42045783',
+      url: 'https://productosvirales.com.ar/producto/aspiradora-robot-gadnic-3-modos-wifi-app-y-voz-trapeadora-negro-mla42045783',
       offers: {
         '@type': 'Offer',
         priceCurrency: 'ARS',
-        price: '270522',
+        price: '179015',
         availability: 'https://schema.org/InStock',
         seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
         url: 'https://meli.la/2WGATBu',
@@ -29332,24 +29332,24 @@ Robot Gadnic AspiRob, adaptador de corriente, base de carga, 2 cepillos laterale
       aggregateRating: {
         '@type': 'AggregateRating',
         ratingValue: '4.6',
-        reviewCount: '3735',
+        reviewCount: '2823',
         bestRating: '5',
         worstRating: '1',
       },
     },
     bestOccasion: ['Mantenimiento diario en departamentos y casas medianas', 'Familias con mascotas', 'Quien quiere app, voz y trapeado a precio bajo'],
     notRecommendedFor: ['Limpieza profunda', 'Quien quiere mapeo y recorrido ordenado', 'Casas muy grandes en una sola pasada'],
-    description: 'La aspiradora robot y trapeadora Gadnic AspiRob aspira y trapea en una sola pasada, con WiFi, app Tuya y control por voz (Alexa y Google Home). Suma sensores de obstáculo infrarrojos y hasta 120 minutos de batería, la mejor autonomía de la gama económica. Vuelve sola a la base y es ideal para el mantenimiento diario, sobre todo en casas con mascotas.',
+    description: 'La aspiradora robot y trapeadora Gadnic 3 Modos aspira y trapea en una sola pasada, con WiFi, app Tuya y control por voz (Alexa y Google Home). Suma sensores de obstáculo infrarrojos y hasta 120 minutos de batería, la mejor autonomía de la gama económica. Vuelve sola a la base y es ideal para el mantenimiento diario, sobre todo en casas con mascotas.',
   },
   {
     id: 'MLA36838658',
     title: 'Aspiradora Robot Trapeadora Gadnic AspiRob Recargable Inteligente Detecta Obstáculos Mapeo App',
     brand: "Gadnic",
-    price: 297099,
-    priceUpdated: "2026-10-12",
-    priceLastChecked: "2026-10-12",
+    price: 296499,
+    priceUpdated: "2026-11-02",
+    priceLastChecked: "2026-11-02",
     priceStatus: "fresh",
-    originalPrice: undefined,
+    originalPrice: 609999,
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_2X_950503-MLA100012462368_122025-F.webp',
     images: [
@@ -29366,7 +29366,7 @@ Robot Gadnic AspiRob, adaptador de corriente, base de carga, 2 cepillos laterale
     condition: 'new',
     freeShipping: false,
     rating: 4.8,
-    reviewCount: 1143,
+    reviewCount: 1234,
     reviewsWithPhotos: 4,
     soldQuantity: 1000,
     line: 'Rob',
@@ -29377,7 +29377,7 @@ Robot Gadnic AspiRob, adaptador de corriente, base de carga, 2 cepillos laterale
     seoTitle: 'Aspiradora Robot Gadnic AspiRob: Mapeo Láser y 3000 Pa',
     metaDescription: 'Aspiradora robot Gadnic AspiRob: mapeo láser LiDAR, 3000 Pa, aspira y trapea, app y voz. El mapeo de Gadnic más accesible. 4.8★ con {{reviews:MLA36838658}} opiniones.',
     ogTitle: 'Aspiradora Robot Gadnic AspiRob: el mapeo láser de Gadnic más accesible',
-    ogDescription: '4.8★ con 872 opiniones. Mapeo láser de verdad, 3000 Pa, aspira y trapea, app y voz, muy silenciosa. El LiDAR de Gadnic sin pagar el premium. Para quién rinde.',
+    ogDescription: '4.8★ con {{reviews:MLA36838658}} opiniones. Mapeo láser de verdad, 3000 Pa, aspira y trapea, app y voz, muy silenciosa. El LiDAR de Gadnic sin pagar el premium. Para quién rinde.',
     h1: 'Aspiradora robot Gadnic AspiRob: mapeo láser, 3000 Pa y trapeo, el LiDAR de Gadnic más accesible',
     articleBody: `## Mapeo láser de verdad
 
@@ -29441,7 +29441,7 @@ Robot Gadnic AspiRob, adaptador, estación de carga, 2 cepillos laterales, trape
       offers: {
         '@type': 'Offer',
         priceCurrency: 'ARS',
-        price: '330049',
+        price: '296499',
         availability: 'https://schema.org/InStock',
         seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
         url: 'https://meli.la/2mPhJwy',
@@ -29449,7 +29449,7 @@ Robot Gadnic AspiRob, adaptador, estación de carga, 2 cepillos laterales, trape
       aggregateRating: {
         '@type': 'AggregateRating',
         ratingValue: '4.8',
-        reviewCount: '872',
+        reviewCount: '1234',
         bestRating: '5',
         worstRating: '1',
       },
@@ -29488,7 +29488,7 @@ Robot Gadnic AspiRob, adaptador, estación de carga, 2 cepillos laterales, trape
     verdict: 'El mapeo láser de Gadnic más accesible: mapea de verdad, guarda el plano de la casa y te deja elegir zonas desde la app, todo muy silencioso y a precio de gama intermedia. Aspira muy bien el pelo de mascota; el trapeado es solo para mantener y no tiene autovaciado (vaciás el depósito a diario). Si querés mapeo real sin pagar el premium, es de las mejores compras del catálogo.',
     bestOccasion: ['Mapeo láser a precio accesible', 'Hogares con mascotas', 'Casas medianas con varios ambientes/pisos'],
     notRecommendedFor: ['Quien quiere base de autovaciado (mejor el AC800 LiDAR)', 'Limpieza profunda (el trapeado es de mantenimiento)', 'Muebles muy bajos (mide 9,8 cm)'],
-    relatedProducts: ['MLA45951645', 'MLA62126950', 'MLA44714806'],
+    relatedProducts: ['MLA42045783', 'MLA62126950', 'MLA44714806'],
     description: 'Limpieza inteligente con tecnología láser La Aspiradora Robot Gadnic con Estación de Descarga redefine la limpieza del hogar con su sistema de navegación láser avanzada, que mapea tu casa con precisión milimétrica para cubrir cada rincón de forma eficiente. Su potente motor NIDEC de 3000 Pa ofrece u',
   },
   {
@@ -29827,10 +29827,15 @@ Robot Midow, base de carga, adaptador de corriente, control remoto, tanque de ag
     brand: "Gadnic",
     price: 253799,
     priceUpdated: "2026-09-11",
-    priceLastChecked: "2026-09-18",
-    priceStatus: "fresh",
+    priceLastChecked: "2026-11-02",
+    priceStatus: "out_of_stock",
     originalPrice: 588049,
     currency: 'ARS',
+    // Sin stock verificado el 2026-11-02: único color (Negro) muestra "Este producto no
+    // está disponible. Elige otra variante." Se buscó un vendedor nuevo con el mismo modelo
+    // exacto (rob2.0 ROB00513) y no existe ninguna publicación nueva, solo usados. Ver
+    // docs/productos-sin-stock.md.
+    visibility: 'deprioritized',
     image: 'https://http2.mlstatic.com/D_NQ_NP_2X_733529-MLA99985509933_112025-F.webp',
     images: [
       'https://http2.mlstatic.com/D_NQ_NP_2X_733529-MLA99985509933_112025-F.webp',
@@ -29846,7 +29851,7 @@ Robot Midow, base de carga, adaptador de corriente, control remoto, tanque de ag
     condition: 'new',
     freeShipping: false,
     rating: 4.6,
-    reviewCount: 1484,
+    reviewCount: 1552,
     reviewsWithPhotos: 4,
     soldQuantity: 1000,
     line: 'Rob',
@@ -29857,7 +29862,7 @@ Robot Midow, base de carga, adaptador de corriente, control remoto, tanque de ag
     seoTitle: 'Aspiradora Robot Gadnic 5 Modos: Aspira, Trapea y App WiFi',
     metaDescription: 'Aspiradora robot Gadnic 5 Modos: aspira y trapea, 5 modos, app WiFi y voz (Alexa/Google). Ideal para pelos de mascota. 4.6★ con {{reviews:MLA45951645}} opiniones.',
     ogTitle: 'Aspiradora Robot Gadnic 5 Modos: el 2 en 1 con app más vendido',
-    ogDescription: '4.6★ con 1.293 opiniones. Aspira y trapea con 5 modos, app WiFi y voz. Marca local a precio bajo. Ojo con el "mapeo 3D": en la práctica es navegación giroscópica.',
+    ogDescription: '4.6★ con {{reviews:MLA45951645}} opiniones. Aspira y trapea con 5 modos, app WiFi y voz. Marca local a precio bajo. Ojo con el "mapeo 3D": en la práctica es navegación giroscópica. Hoy sin stock, dejamos la ficha para consulta.',
     h1: 'Aspiradora robot Gadnic 5 Modos: aspira y trapea con app WiFi y voz, el 2 en 1 más vendido de Gadnic',
     pros: [
       '4.6⭐ con {{reviews:MLA45951645}} calificaciones: uno de los robots Gadnic más vendidos del catálogo',
@@ -29868,12 +29873,13 @@ Robot Midow, base de carga, adaptador de corriente, control remoto, tanque de ag
       'Marca local (Gadnic) con service en Argentina, a precio bajo',
     ],
     cons: [
+      'Sin stock verificado el 2026-11-02: la publicación no tiene ofertas vigentes en este momento; dejamos la ficha para consulta',
       'El "mapeo 3D" del marketing es navegación giroscópica: en la práctica no guarda un mapa real ni zonas (lo dicen muchas opiniones)',
       'Succión modesta (2000 Pa) y trapeado flojo: para mantenimiento, no limpieza profunda',
       'En potencia alta la batería rinde poco; choca y se traba si no despejás el piso',
       'La app es básica y a algunos les cuesta conectarla; hace un beep al iniciar y terminar',
     ],
-    verdict: 'El Gadnic 2 en 1 con app y voz más vendido: aspira muy bien el pelo de mascota, trapea para mantener y se maneja desde el celu, todo a precio bajo y con marca local. Ojo con el marketing: el "mapeo 3D" en la práctica es navegación giroscópica que no guarda zonas, así que anda más bien aleatorio. Para el mantenimiento diario en casas despejadas es una gran relación precio/calidad; si querés mapeo real, mirá un robot con LiDAR.',
+    verdict: 'Sin stock verificado el 2026-11-02 (ver cons), dejamos esta ficha para consulta y no la recomendamos como compra activa por ahora. El Gadnic 2 en 1 con app y voz más vendido: aspira muy bien el pelo de mascota, trapea para mantener y se maneja desde el celu, todo a precio bajo y con marca local. Ojo con el marketing: el "mapeo 3D" en la práctica es navegación giroscópica que no guarda zonas, así que anda más bien aleatorio. Para el mantenimiento diario en casas despejadas era una gran relación precio/calidad; si querés mapeo real, mirá un robot con LiDAR.',
     articleBody: `## Aspira y trapea con 5 modos
 
 El Gadnic 5 Modos es un robot 2 en 1: aspira y trapea en la misma salida. Su nombre viene de los cinco modos de limpieza: Automático (toda la superficie), Bordes (perímetro y zócalos), Zig-zag (de lado a lado), Puntual (una zona concentrada) y Trapeo (solo mopa con el tanque de agua). Tiene un depósito de polvo grande de 510 mL y un tanque de agua de 350 mL.
@@ -29900,7 +29906,7 @@ Si tenés perros o gatos, es para lo que más se compra y donde mejor cumple. El
 
 ## En qué se diferencia de los otros robots del catálogo
 
-Dentro de Gadnic, el [AspiRob](/producto/aspiradora-robot-gadnic-3-modos-limpieza-poder-de-succion-negro-mla42045783) es el hermano con sensores de obstáculo infrarrojos y control por voz, en un rango parecido. Frente a un genérico con WiFi como la [Midow MDW/RZT](/producto/aspiradora-robot-con-wifi-smart-115w-midow-3-modos-con-base-negro-mla48378491), el Gadnic suma los 5 modos y la marca local. Y si querés dar el salto a mapeo láser de verdad, ahí entran las Xiaomi como la [S20](/producto/aspiradora-robot-xiaomi-vacuum-s20-negra-mla44714806). El 5 Modos se elige por ser un 2 en 1 con app, pet friendly y económico.
+Dentro de Gadnic, el [3 Modos](/producto/aspiradora-robot-gadnic-3-modos-wifi-app-y-voz-trapeadora-negro-mla42045783) es el hermano con sensores de obstáculo infrarrojos y control por voz, en un rango parecido. Frente a un genérico con WiFi como la [Midow MDW/RZT](/producto/aspiradora-robot-con-wifi-smart-115w-midow-3-modos-con-base-negro-mla48378491), el Gadnic suma los 5 modos y la marca local. Y si querés dar el salto a mapeo láser de verdad, ahí entran las Xiaomi como la [S20](/producto/aspiradora-robot-xiaomi-vacuum-s20-negra-mla44714806), o dentro de Gadnic la [AspiRob con LiDAR](/producto/aspiradora-robot-trapeadora-gadnic-aspirob-recargable-inteligente-detecta-obstac-mla36838658). El 5 Modos se elegía por ser un 2 en 1 con app, pet friendly y económico, pero hoy está sin stock (ver cons).
 
 ## Qué incluye la caja
 
@@ -29929,7 +29935,7 @@ Robot Gadnic, cepillo principal, cepillo lateral, compartimento de polvo, filtro
       { question: '¿Trapea bien?', answer: 'El trapeado es de mantenimiento. Humedece el piso con un tanque de 350 mL y lo repasa, pero no saca manchas y algunas opiniones notan que deja el piso un poco mojado. Lo mejor es aspirar primero y usar la mopa para repasar.' },
       { question: '¿Cuánto dura la batería?', answer: 'Entre 80 y 130 minutos según el modo, suficiente para una casa mediana, y vuelve sola a la base (la carga tarda 4 a 5 horas). En potencia alta rinde bastante menos, así que en casas grandes conviene sectorizar cerrando puertas.' },
       { question: '¿Pasa por debajo de los muebles?', answer: 'Sí, su diseño compacto le permite pasar bajo camas y muebles bajos, donde se acumula el polvo y el pelo. Conviene despejar el piso (sillas, cables, alfombras sueltas) para que no se trabe.' },
-      { question: '¿En qué se diferencia del Gadnic AspiRob o de un robot con mapeo?', answer: 'El Gadnic AspiRob es el hermano con sensores de obstáculo infrarrojos, en un rango parecido. Frente a un robot con mapeo láser (como las Xiaomi), el 5 Modos no guarda mapa ni zonas: es más simple y económico, y se elige por ser un 2 en 1 con app a precio bajo, no por navegación inteligente.' },
+      { question: '¿En qué se diferencia del Gadnic 3 Modos o de un robot con mapeo?', answer: 'El Gadnic 3 Modos es el hermano con sensores de obstáculo infrarrojos, en un rango parecido. Frente a un robot con mapeo láser (como el Gadnic AspiRob o las Xiaomi), el 5 Modos no guarda mapa ni zonas: es más simple y económico, y se elegía por ser un 2 en 1 con app a precio bajo, no por navegación inteligente.' },
       { question: '¿Qué incluye la caja?', answer: 'Robot Gadnic, cepillo principal y lateral, compartimento de polvo, filtro con cartuchos de repuesto, base de carga, juego de depósito de agua, paño de limpieza, herramienta de limpieza, adaptador de corriente y control remoto.' },
     ],
     customerReviews: [
@@ -29958,15 +29964,15 @@ Robot Gadnic, cepillo principal, cepillo lateral, compartimento de polvo, filtro
       offers: {
         '@type': 'Offer',
         priceCurrency: 'ARS',
-        price: '250999',
-        availability: 'https://schema.org/InStock',
+        price: '253799',
+        availability: 'https://schema.org/OutOfStock',
         seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
         url: 'https://meli.la/2kRauwY',
       },
       aggregateRating: {
         '@type': 'AggregateRating',
         ratingValue: '4.6',
-        reviewCount: '1293',
+        reviewCount: '1552',
         bestRating: '5',
         worstRating: '1',
       },
@@ -29979,11 +29985,11 @@ Robot Gadnic, cepillo principal, cepillo lateral, compartimento de polvo, filtro
     id: 'MLA62126950',
     title: 'Aspiradora Robot Gadnic 5000 Pa LIDAR 360 Base Autolimpiante Bolsa 3.2 Litros 140 Min Autonomia 3200 mAh App Tuya',
     brand: "Gadnic",
-    price: 416299,
-    priceUpdated: "2026-10-07",
-    priceLastChecked: "2026-10-12",
+    price: 524947,
+    priceUpdated: "2026-11-02",
+    priceLastChecked: "2026-11-02",
     priceStatus: "fresh",
-    originalPrice: undefined,
+    originalPrice: 730849,
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_2X_757562-MLA98254774359_112025-F.webp',
     images: [
@@ -30000,7 +30006,7 @@ Robot Gadnic, cepillo principal, cepillo lateral, compartimento de polvo, filtro
     condition: 'new',
     freeShipping: false,
     rating: 4.8,
-    reviewCount: 848,
+    reviewCount: 997,
     reviewsWithPhotos: 4,
     soldQuantity: 1000,
     color: 'Negro',
@@ -30010,7 +30016,7 @@ Robot Gadnic, cepillo principal, cepillo lateral, compartimento de polvo, filtro
     seoTitle: 'Aspiradora Robot Gadnic LiDAR: Mapeo, 5000 Pa y Autovaciado',
     metaDescription: 'Aspiradora robot Gadnic LiDAR 360: mapeo láser, 5000 Pa, base autolimpiante (se vacía sola) y app. El premium de marca local. 4.8★ con {{reviews:MLA62126950}} opiniones.',
     ogTitle: 'Aspiradora Robot Gadnic LiDAR 360: el premium de marca local con autovaciado',
-    ogDescription: '4.8★ con 548 opiniones. Mapeo láser de verdad, 5000 Pa, base autolimpiante y app, a un precio muy por debajo de las importadas premium. Analizamos para quién rinde.',
+    ogDescription: '4.8★ con {{reviews:MLA62126950}} opiniones. Mapeo láser de verdad, 5000 Pa, base autolimpiante y app, a un precio muy por debajo de las importadas premium. Analizamos para quién rinde.',
     h1: 'Aspiradora robot Gadnic LiDAR 360: mapeo láser, 5000 Pa y base autolimpiante, el premium de marca local',
     articleBody: `## Mapeo láser LiDAR 360: este sí mapea de verdad
 
@@ -30076,7 +30082,7 @@ Robot Gadnic AC800, base autolimpiante con bolsa de 3,2 L, cepillos laterales (c
       offers: {
         '@type': 'Offer',
         priceCurrency: 'ARS',
-        price: '507799',
+        price: '524947',
         availability: 'https://schema.org/InStock',
         seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
         url: 'https://meli.la/2UjN3FV',
@@ -30084,7 +30090,7 @@ Robot Gadnic AC800, base autolimpiante con bolsa de 3,2 L, cepillos laterales (c
       aggregateRating: {
         '@type': 'AggregateRating',
         ratingValue: '4.8',
-        reviewCount: '548',
+        reviewCount: '997',
         bestRating: '5',
         worstRating: '1',
       },
@@ -30125,7 +30131,7 @@ Robot Gadnic AC800, base autolimpiante con bolsa de 3,2 L, cepillos laterales (c
     verdict: 'El premium de Gadnic y el LiDAR + base autolimpiante más accesible del catálogo: mapea de verdad, se vacía solo y aspira muy bien el pelo de mascota, todo a un precio muy por debajo de las importadas premium y con service local. La fricción está en la app Tuya y el WiFi (solo 2,4 GHz, manual flojo): pasada esa curva inicial, es una de las mejores relaciones precio/calidad del catálogo para quien quiere automatización total sin gastar fortunas.',
     bestOccasion: ['Máxima automatización a precio de marca local', 'Hogares con mascotas y casas medianas/grandes', 'Quien quiere LiDAR + autovaciado sin pagar importado'],
     notRecommendedFor: ['Quien no quiera lidiar con la app Tuya / WiFi 2,4 GHz', 'Limpieza profunda (el trapeado es de mantenimiento)', 'Muebles muy bajos (mide 9,7 cm)'],
-    relatedProducts: ['MLA45951645', 'MLA44240016', 'MLA26504431'],
+    relatedProducts: ['MLA36838658', 'MLA44240016', 'MLA26504431'],
     description: 'Cod. : ROB0518X Aspiradora Trapeadora Robot Gadnic AC800 Con Base Carga Mapeo Inteligente    ACERCA DE ÉSTE PRODUCTO:  Limpieza Inteligente Con Mapeo Laser: La aspiradora robot Gadnic AC800 incorpora tecnologia LIDAR 360 que permite mapeo preciso del entorno. Organiza recorridos eficientes evitando ',
   },
   {
@@ -30216,7 +30222,7 @@ Un detalle que aparece en las opiniones: la torre del sensor láser sobresale ar
 
 ## En qué se diferencia de los otros robots del catálogo
 
-El S40c es el punto justo de la línea Xiaomi: tenés el mapeo láser y la app a un precio accesible. Por encima está el [S40 Pro](/producto/aspiradora-xiaomi-robot-vacuum-s40-pro-color-blanco-15000-pa-mla66281403), con más succión, brazo extensible y más batería. Por debajo, los robots económicos del catálogo no mapean. Frente a un 2 en 1 barato como la [Gadnic AspiRob](/producto/aspiradora-robot-gadnic-3-modos-limpieza-poder-de-succion-negro-mla42045783), el Xiaomi gana en navegación (láser vs aleatoria) y app. Es la compra recomendada para quien quiere mapeo real sin pagar la gama alta.
+El S40c es el punto justo de la línea Xiaomi: tenés el mapeo láser y la app a un precio accesible. Por encima está el [S40 Pro](/producto/aspiradora-xiaomi-robot-vacuum-s40-pro-color-blanco-15000-pa-mla66281403), con más succión, brazo extensible y más batería. Por debajo, los robots económicos del catálogo no mapean. Frente a un 2 en 1 barato como la [Gadnic 3 Modos](/producto/aspiradora-robot-gadnic-3-modos-wifi-app-y-voz-trapeadora-negro-mla42045783), el Xiaomi gana en navegación (láser vs aleatoria) y app. Es la compra recomendada para quien quiere mapeo real sin pagar la gama alta.
 
 ## Para quién es
 

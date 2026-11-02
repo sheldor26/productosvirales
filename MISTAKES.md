@@ -3,6 +3,16 @@
 > Bitácora de cosas que salieron mal. Crece con cada error.
 > Formato: fecha — qué pasó — por qué — cómo evitarlo la próxima vez.
 
+## 2026-11-02 — El ID de catálogo de MercadoLibre no es estable: puede cambiar de producto por completo sin que nadie lo note
+
+**Qué pasó:** en el refresh de `robot-aspiradora-gadnic`, el producto "Gadnic 3 Modos" (MLA42045783) resultó ser hoy un robot completamente distinto al que describía la guía: pasó de "sin app, sin láser, sin mapeo" a tener WiFi, app Tuya, control por voz (Alexa, Google Home) y trapeado. La ficha de producto YA había sido actualizada para reflejar esto en una pasada anterior (pros, cons, verdict, articleBody, specs, FAQ todos correctos) — pero al copiar/adaptar ese contenido, alguien dejó el `title`, `h1`, `metaDescription`, `line` y varios párrafos autoreferenciándose como "Gadnic AspiRob", el nombre de OTRO producto real del mismo catálogo (MLA36838658) con specs distintas (ese sí con mapeo láser LiDAR). Quedó una colisión de identidad entre dos SKUs reales del sitio, invisible hasta que el trío auditor la señaló explícitamente en dos rondas separadas.
+
+**Por qué:** el ID de catálogo de MercadoLibre (`MLAxxxxxxx` en un `/p/` URL) no identifica un producto fijo para siempre — identifica una PUBLICACIÓN, y el vendedor (o Mercado Libre reasignando ofertas al "mejor precio" del catálogo) puede cambiar completamente qué modelo físico se vende bajo ese ID con el tiempo. Confiar en que "ya verifiqué este ID antes, no hace falta revisar de nuevo" es un error: hay que releer la ficha completa (no solo precio/reviewCount) cada vez que se retoma un producto, y verificar en vivo contra el permalink real, no asumir que el contenido escrito en una sesión anterior sigue describiendo lo mismo que hoy vende esa publicación.
+
+**Cómo evitarlo:** al actualizar una ficha, releer TODO el bloque (no solo los campos numéricos) y compararlo contra lo que la publicación real muestra hoy en vivo. Si el contenido escrito usa el nombre de otro producto del catálogo propio (plagio accidental de una ficha a otra, común cuando se adapta contenido de una ficha "hermana" como plantilla), grepear ese nombre en TODO el bloque (`title`, `h1`, `metaDescription`, `ogDescription`, `line`, `specs`, `articleBody`, `faq`) antes de darlo por corregido — encontrar 2 de 3 menciones no es encontrarlas todas, como pasó acá (recién en la ronda 3 del trío apareció la tercera).
+
+**Archivos involucrados:** `src/data/curated-products.ts` (fichas MLA42045783 y MLA36838658), `src/data/guides.ts` (guía `robot-aspiradora-gadnic`)
+
 <!-- Agregar entradas nuevas arriba. Plantilla:
 
 ## 2026-MM-DD — Título breve del error
