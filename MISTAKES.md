@@ -16,6 +16,16 @@
 **Archivos involucrados:** `path/a/archivo.ts`
 -->
 
+## 2026-11-02 — Mail de cupones Cyber Monday salió con el asunto ($45.000) inconsistente con el banner ($80.000)
+
+**Qué pasó:** al armar `scripts/notify-coupon-email.cjs`, el asunto y el preheader del mail se calculan automáticamente con `topCoupon()` sobre los cupones `active` en `coupons.ts` (toma el de mayor descuento). Cuando NOVIEMBREON ($80.000) se verificó agotado en el carrito real y se desactivó, el asunto pasó a calcular $45.000 solo. Juan pidió explícitamente "dejalo con el banner de 80.000" para la imagen del banner (como gancho visual, aceptando que NOVIEMBREON ya no aparece en la lista funcional de cupones de abajo). Solo restauré la imagen del banner a la versión de $80.000 — no caí en que el asunto, calculado por separado, también necesitaba reconciliarse con esa misma decisión. El mail salió a 37 suscriptores con el asunto diciendo "$45.000" y el banner de adentro diciendo "$80.000": inconsistente, y ya no se puede deshacer una vez enviado.
+
+**Por qué:** el asunto y el banner son dos piezas de contenido generadas por caminos completamente distintos (uno es texto calculado en runtime por el script, el otro es una imagen estática generada con IA y guardada en `public/`). Cuando Juan dio una instrucción sobre UNA de las dos piezas ("dejalo con el banner de 80.000"), no verifiqué si la otra pieza relacionada necesitaba el mismo ajuste antes de correr `--send`. El preview que mostré antes de mandar (`--preview`) sí reflejaba el asunto real ($45.000), pero no lo volví a leer con atención después del pedido del banner — asumí que "banner" cerraba el tema completo.
+
+**Cómo evitarlo:** cuando una pieza de contenido generada (asunto, preheader, banner, CTA) tiene una cifra o dato que también aparece en otra pieza relacionada del mismo envío, tratarlas como un solo bloque a reconciliar siempre juntas, no una por una según lo que el usuario mencionó last. Antes de cualquier `--send` real (no solo `--preview`), releer explícitamente CADA pieza de contenido generada (asunto, preheader, banner, cuerpo) buscando cifras que deban coincidir entre sí, no solo que cada una sea individualmente correcta.
+
+**Archivos involucrados:** `scripts/notify-coupon-email.cjs`, `public/images/email/cybermonday-2026-banner.png`
+
 ## 2026-10-31 — Deuda acumulada: 5 fichas con swap de vendedor de sesiones anteriores tenían números hardcodeados que contradecían sus propios campos guardados
 
 **Qué pasó:** revisando con el mismo criterio del hallazgo anterior (ver entrada de arriba) 5 fichas que habían tenido swap de vendedor en sesiones previas (Rasasi Hawas Black, Omron HEM-6124, Set Lattafa Yara + Candy, Afnan 9PM listing alternativo, Xiaomi S40c), aparecieron errores reales en 4 de las 5 — ninguno nuevo de hoy, todos preexistentes:
