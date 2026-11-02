@@ -8217,7 +8217,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     title: "Pava Philips: ¿vale la pena pagar premium?",
     seoTitle: "Pava eléctrica Philips: ¿vale la pena? Guía 2026",
     metaDescription:
-      "Philips cobra {{precio:MLA24601443:k}} por una pava. ¿Vale la pena frente a una Atma de {{precio:MLAU4016948916:k}}? Comparativa honesta y cuándo sí conviene comprarla.",
+      "Philips cobra {{precio:MLA24601443:k}} por una pava. ¿Vale la pena frente a una Atma de {{precio:MLA49199049:k}}? Comparativa honesta y cuándo sí conviene comprarla.",
     ogTitle: "Pava eléctrica Philips: ¿vale la pena el precio premium?",
     ogDescription:
       "Comparativa honesta de pavas Philips frente a Atma, Peabody y Oster. Cuándo sí vale y cuándo no.",
@@ -8228,7 +8228,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     standfirst: "Philips cobra el doble o el triple que una Atma o Peabody. Comparamos si la diferencia se nota de verdad, cuándo se justifica pagar el premium y cuándo no.",
     quickPicks: [
       { productMlaId: "MLA24601443", label: "La Philips que se justifica", labelColor: "green", tagline: "Acero completo, dura 4-5 años con uso diario" },
-      { productMlaId: "MLAU4016948916", label: "Mejor relación precio", labelColor: "amber", tagline: "Interior de acero, con service en Argentina" },
+      { productMlaId: "MLA49199049", label: "Mejor relación precio", labelColor: "amber", tagline: "Interior de acero, con service en Argentina" },
       { productMlaId: "MLA47275624", label: "Si necesitás control de temperatura", labelColor: "blue", tagline: "Control continuo 40-100°, algo que Philips básica no tiene" },
       { productMlaId: "MLA47183370", label: "El premium de diseño", labelColor: "purple", tagline: "Doble pared y 6 niveles de temperatura" },
     ],
@@ -8243,7 +8243,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "h2", title: "Resumen rápido: cuál comprar según tu caso", id: "resumen-rapido" },
       { type: "list", items: [
         "**La Philips que se justifica:** [Philips HD9350](https://meli.la/2kpg1Zr) — acero completo, dura 4-5 años con uso diario.",
-        "**Mejor relación precio:** [Atma PEAT1351](https://meli.la/1rMrWSu) — interior de acero, con service en Argentina.",
+        "**Mejor relación precio:** [Atma PEAT1351](https://meli.la/1mMbqaY) — interior de acero, con service en Argentina.",
         "**Si necesitás control de temperatura:** [Peabody PE-DK2200N](https://meli.la/2cyQgD2) — control continuo 40-100°, algo que Philips básica no tiene.",
         "**El premium de diseño:** [Philips HD9396](https://meli.la/1nfm8ft) — doble pared y 6 niveles de temperatura.",
       ] },
@@ -8258,13 +8258,13 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "h2", title: "El ranking: pavas Philips y sus alternativas", id: "ranking" },
 
       { type: "h3", title: "1. Philips HD9350 — la que sí se justifica" },
-      { type: "product-card", productMlaId: "MLA24601443", label: "La Philips que se justifica", labelColor: "green", ranking: 1, description: "Acero inoxidable completo, 1.7L, 2200W (hierve en 3-4 minutos), apagado automático, filtro anti-sarro removible. 4.7 estrellas en 230 calificaciones." },
+      { type: "product-card", productMlaId: "MLA24601443", label: "La Philips que se justifica", labelColor: "green", ranking: 1, description: "Acero inoxidable completo, 1.7L, 2200W (hierve en 3-4 minutos), apagado automático, filtro anti-sarro removible. 4.7 estrellas en {{reviews:MLA24601443}} calificaciones." },
       { type: "p", content: "Hace exactamente lo mismo que una Atma: hierve agua. La diferencia es que está mejor terminada y dura más — hasta 4-5 años con uso diario. Si tu pava actual se rompe cada año, puede valer la pena. Si te dura 3-4 años, no tanto." },
       { type: "pull-quote", content: "Excelente, si bien muchos se quejan que no tiene para regular la temperatura, yo me quedo al lado 2 minutos y voy tanteando que temperatura quiero [...] yo tuve una pava electrica philips mas de 12 años y la cambie porque ya estaba viejita, pero la verdad es una marca excelente para estas cosas.", attribution: "— Comprador verificado en MercadoLibre, hace 7 meses · 6 personas lo encontraron útil" },
 
       { type: "h3", title: "2. Atma PEAT1351 — mejor relación precio" },
-      { type: "product-card", productMlaId: "MLAU4016948916", label: "Mejor relación precio", labelColor: "amber", ranking: 2, description: "Interior de acero inoxidable, exterior plástico, 1.8L, marca argentina con service local. Publicación nueva (sin reseñas todavía), mismo modelo de siempre." },
-      { type: "p", content: "Gana en precio (cuesta bastante menos), servicio técnico en Argentina y disponibilidad de repuestos, y tiene más capacidad (1.8L vs 1.7L). Pierde en que el exterior es plástico (no acero completo como la Philips) y en durabilidad estimada (2-3 años vs 4-5). Ojo: es una publicación nueva de otro vendedor, sin historial de reseñas propio todavía — la anterior, con miles de calificaciones, se agotó." },
+      { type: "product-card", productMlaId: "MLA49199049", label: "Mejor relación precio", labelColor: "amber", ranking: 2, description: "Interior de acero inoxidable, exterior plástico, 1.8L, marca argentina con service local. Catálogo consolidado de MercadoLibre, con {{reviews:MLA49199049}} calificaciones, mismo modelo de siempre." },
+      { type: "p", content: "Gana en precio (cuesta bastante menos), servicio técnico en Argentina y disponibilidad de repuestos, y tiene más capacidad (1.8L vs 1.7L). Pierde en que el exterior es plástico (no acero completo como la Philips) y en durabilidad estimada (2-3 años vs 4-5)." },
 
       { type: "h3", title: "3. Peabody PE-DK2200N — si necesitás control de temperatura" },
       { type: "product-card", productMlaId: "MLA47275624", label: "Control de temperatura", labelColor: "blue", ranking: 3, description: "Pantalla digital, control continuo de temperatura (40°-100°), función mantener caliente. 4.9 estrellas, el rating más alto de la comparativa." },
@@ -8284,7 +8284,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
         headers: ["Modelo", "Precio", "Material", "Control temp", "Ideal para"],
         rows: [
           ["[Philips HD9350](https://meli.la/2kpg1Zr)", "{{precio:MLA24601443}}", "Acero completo", "No", "La Philips que sí se justifica"],
-          ["[Atma PEAT1351](https://meli.la/1rMrWSu)", "{{precio:MLAU4016948916}}", "Interior acero", "No", "Presupuesto ajustado"],
+          ["[Atma PEAT1351](https://meli.la/1mMbqaY)", "{{precio:MLA49199049}}", "Interior acero", "No", "Presupuesto ajustado"],
           ["[Peabody PE-DK2200N](https://meli.la/2cyQgD2)", "{{precio:MLA47275624}}", "Acero completo", "Continuo 40-100°", "Necesitás temperatura exacta"],
           ["[Oster con control de temperatura](https://meli.la/1JfvkMc)", "{{precio:MLA11145436}}", "Plástico", "Sí (mate)", "Función mate con otra marca"],
           ["[Philips HD9396](https://meli.la/1nfm8ft)", "{{precio:MLA47183370}}", "Acero completo", "6 niveles preseteados", "Diseño y doble pared"],
@@ -8295,13 +8295,13 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "h3", title: "Garantía oficial vs. importados" },
       { type: "p", content: "En MercadoLibre hay distribuidores oficiales (garantía oficial Philips, precio un poco más alto) e importadores (traen de afuera, un poco más barato, pero con garantía del importador, no de Philips). Si vas a pagar por una Philips, vale la pena pagar el extra y comprarla con garantía oficial." },
       { type: "h3", title: 'El mito del "dura para siempre"' },
-      { type: "p", content: "Escuchamos mil veces: las Philips duran toda la vida. No. Una buena pava Philips dura 4-6 años con uso diario. Una económica dura 2-3. Con los precios de hoy, Philips {{precio:MLA24601443:k}} ÷ 5 años sale más barata por año de lo que parece a simple vista frente a Atma {{precio:MLAU4016948916:k}} ÷ 2.5 años. La ventaja real es no tener que comprar cada 2 años, no el precio por año." },
+      { type: "p", content: "Escuchamos mil veces: las Philips duran toda la vida. No. Una buena pava Philips dura 4-6 años con uso diario. Una económica dura 2-3. Con los precios de hoy, Philips {{precio:MLA24601443:k}} ÷ 5 años sale más barata por año de lo que parece a simple vista frente a Atma {{precio:MLA49199049:k}} ÷ 2.5 años. La ventaja real es no tener que comprar cada 2 años, no el precio por año." },
 
       { type: "callout", calloutVariant: "tip", calloutTitle: "Cuándo sí vale la pena una Philips", content: "Tu pava actual se rompe cada 1-2 años, tomás mate o té 5+ veces por día, te molesta el sabor a plástico, o querés algo que no falle. En esos casos, la inversión se justifica." },
       { type: "callout", calloutVariant: "warning", calloutTitle: "Cuándo NO vale la pena", content: "Tu pava actual dura 3-4 años, solo hervís agua ocasionalmente, necesitás control de temperatura (Philips básica no tiene, mirá la Peabody), o tenés presupuesto ajustado (la Atma hace el mismo trabajo por bastante menos)." },
 
       { type: "h2", title: "Veredicto: cuál comprar", id: "veredicto" },
-      { type: "verdict", content: "Si tu pava actual te dura 1-2 años y después se rompe, la [Philips HD9350](https://meli.la/2kpg1Zr) puede ser buena inversión. Si te dura 3-4 años, la [Atma PEAT1351](https://meli.la/1rMrWSu) hace lo mismo por bastante menos (es una publicación nueva, sin reseñas propias todavía). ¿Necesitás control de temperatura? Ninguna Philips básica lo tiene: andá directo a la [Peabody PE-DK2200N](https://meli.la/2cyQgD2)." },
+      { type: "verdict", content: "Si tu pava actual te dura 1-2 años y después se rompe, la [Philips HD9350](https://meli.la/2kpg1Zr) puede ser buena inversión. Si te dura 3-4 años, la [Atma PEAT1351](https://meli.la/1mMbqaY) hace lo mismo por bastante menos. ¿Necesitás control de temperatura? Ninguna Philips básica lo tiene: andá directo a la [Peabody PE-DK2200N](https://meli.la/2cyQgD2)." },
     ],
     faq: [
       {
@@ -8339,7 +8339,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     internalLinks: [
       { label: "Ver Philips HD9350", href: "https://meli.la/2kpg1Zr" },
       { label: "Ver Philips HD9396 premium", href: "https://meli.la/1nfm8ft" },
-      { label: "Ver Atma PEAT1351", href: "https://meli.la/1rMrWSu" },
+      { label: "Ver Atma PEAT1351", href: "https://meli.la/1mMbqaY" },
       { label: "Ver Peabody digital", href: "https://meli.la/2cyQgD2" },
       { label: "Ver Oster con control temp", href: "https://meli.la/1JfvkMc" },
       { label: "Ver Peabody PE-DK1850 acero", href: "https://meli.la/2T7Y1zd" },
@@ -8375,7 +8375,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     hasDisclosure: true,
     standfirst: "Atma es la marca argentina más vendida de pavas eléctricas: service en todo el país y precio accesible. Te contamos cuál modelo vale la pena y cuál evitar.",
     quickPicks: [
-      { productMlaId: "MLAU4016948916", label: "El modelo Atma recomendado", labelColor: "green", tagline: "Interior de acero, 1.8L (publicación nueva, sin reseñas todavía)" },
+      { productMlaId: "MLA49199049", label: "El modelo Atma recomendado", labelColor: "green", tagline: "Interior de acero, 1.8L, {{reviews:MLA49199049}} calificaciones" },
       { productMlaId: "MLA24601443", label: "Si querés acero completo", labelColor: "blue", tagline: "Interior y exterior de acero, dura más" },
       { productMlaId: "MLA47275624", label: "Si necesitás control de temperatura", labelColor: "purple", tagline: "Control continuo 40-100°" },
       { productMlaId: "MLA61505857", label: "Alternativa económica con acero", labelColor: "amber", tagline: "Acero completo por menos" },
@@ -8383,16 +8383,16 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     intro: [
       "Atma es argentina. Tiene servicio técnico en todo el país. Y cuesta bastante menos que una Philips.",
       "La pregunta que todos se hacen es: ¿será buena o es \"barata y mala\"?",
-      "Usamos una Atma PEAT1351 (la versión negra, hoy descontinuada) durante dos meses. La llenamos de sarro a propósito para ver cómo aguantaba. Siguió funcionando. No es perfecta. Tiene sus problemas. Pero hace lo que tiene que hacer: hierve agua y el interior de acero no altera el sabor. Es exactamente el mismo modelo que analizamos acá, ahora en una publicación nueva (blanca, de otro vendedor) por {{precio:MLAU4016948916}}.",
+      "Usamos una Atma PEAT1351 (la versión negra, hoy descontinuada) durante dos meses. La llenamos de sarro a propósito para ver cómo aguantaba. Siguió funcionando. No es perfecta. Tiene sus problemas. Pero hace lo que tiene que hacer: hierve agua y el interior de acero no altera el sabor. Es exactamente el mismo modelo que analizamos acá, hoy en el catálogo consolidado de MercadoLibre (blanca) por {{precio:MLA49199049}}, con {{reviews:MLA49199049}} calificaciones propias.",
     ],
     sections: [
       { type: "image", src: "https://http2.mlstatic.com/D_NQ_869906-MLA114993395092_082026-F.webp", alt: "Atma PEAT1351, interior de acero inoxidable, el modelo Atma recomendado", imageSize: "hero" },
 
-      { type: "callout", calloutVariant: "note", calloutTitle: "La publicación original se agotó", content: "La Atma PEAT1351 que probamos y usamos como referencia en esta guía se vendía en una publicación negra con miles de calificaciones acumuladas. Esa publicación se agotó. La que está disponible hoy es de otro vendedor, en blanco, y todavía no tiene reseñas propias — es el mismo modelo, con la misma ficha técnica, pero no vamos a repetir claims de \"la más votada\" que ya no aplican a esta publicación puntual." },
+      { type: "callout", calloutVariant: "note", calloutTitle: "Mismo modelo, catálogo consolidado", content: "La Atma PEAT1351 que probamos y usamos como referencia en esta guía pasó por varios vendedores con el tiempo. Hoy vive en el catálogo consolidado de MercadoLibre, en blanco, con {{reviews:MLA49199049}} calificaciones propias — es el mismo modelo, con la misma ficha técnica de siempre." },
 
       { type: "h2", title: "Resumen rápido: cuál comprar según tu caso", id: "resumen-rapido" },
       { type: "list", items: [
-        "**El modelo Atma recomendado:** [Atma PEAT1351](https://meli.la/1rMrWSu) — interior de acero, 1.8L (publicación nueva, sin reseñas todavía).",
+        "**El modelo Atma recomendado:** [Atma PEAT1351](https://meli.la/1mMbqaY) — interior de acero, 1.8L, {{reviews:MLA49199049}} calificaciones.",
         "**Si querés acero completo:** [Philips HD9350](https://meli.la/2kpg1Zr) — interior y exterior de acero, dura más.",
         "**Si necesitás control de temperatura:** [Peabody PE-DK2200N](https://meli.la/2cyQgD2) — control continuo de 40 a 100°.",
         "**Alternativa económica con acero:** [Liliana AP152](https://meli.la/1QMfKob) — acero completo por menos plata.",
@@ -8406,29 +8406,29 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "h2", title: "El ranking: el modelo Atma y sus alternativas", id: "ranking" },
 
       { type: "h3", title: "1. Atma PEAT1351 — el modelo Atma recomendado" },
-      { type: "product-card", productMlaId: "MLAU4016948916", label: "El modelo Atma recomendado", labelColor: "green", ranking: 1, description: "Interior acero inoxidable (no altera sabor del agua), exterior plástico blanco, 1.8 litros, 1500W. Publicación nueva de otro vendedor, sin reseñas todavía." },
-      { type: "p", content: "Lo bueno: agua sin sabor a plástico, 1.8L llenan dos termos, y cuesta {{preciodif:MLA24601443:MLAU4016948916}} menos que la Philips HD9350. Lo malo: 1500W hierve un poco más lento que las de 2200W, el exterior sigue siendo plástico, no tiene control de temperatura, y esta publicación puntual todavía no tiene historial de reseñas (la anterior, con miles, se agotó)." },
+      { type: "product-card", productMlaId: "MLA49199049", label: "El modelo Atma recomendado", labelColor: "green", ranking: 1, description: "Interior acero inoxidable (no altera sabor del agua), exterior plástico blanco, 1.8 litros, 1500W. Catálogo consolidado de MercadoLibre, con {{reviews:MLA49199049}} calificaciones." },
+      { type: "p", content: "Lo bueno: agua sin sabor a plástico, 1.8L llenan dos termos, y cuesta {{preciodif:MLA24601443:MLA49199049}} menos que la Philips HD9350. Lo malo: 1500W hierve un poco más lento que las de 2200W, el exterior sigue siendo plástico, y no tiene control de temperatura." },
 
-      { type: "callout", calloutVariant: "warning", calloutTitle: "El modelo Atma que no recomendamos", content: "No compres el [Atma PE0821AP](https://meli.la/27qLeLL) ({{precio:MLA19589524}}): es de plástico completo (interior y exterior), así que después de 6-12 meses el agua hervida empieza a tener sabor raro. La PEAT1351 tiene interior de acero por apenas {{preciodif:MLAU4016948916:MLA19589524}} más." },
+      { type: "callout", calloutVariant: "warning", calloutTitle: "El modelo Atma que no recomendamos", content: "No compres el [Atma PE0821AP](https://meli.la/27qLeLL) ({{precio:MLA19589524}}): es de plástico completo (interior y exterior), así que después de 6-12 meses el agua hervida empieza a tener sabor raro. La PEAT1351 tiene interior de acero por apenas {{preciodif:MLA49199049:MLA19589524}} más." },
 
       { type: "h3", title: "2. Philips HD9350 — si querés acero completo" },
-      { type: "product-card", productMlaId: "MLA24601443", label: "Acero completo", labelColor: "blue", ranking: 2, description: "Acero inoxidable completo (interior y exterior), 1.7L, 2200W. 4.7 estrellas en 230 calificaciones." },
-      { type: "p", content: "Gana en velocidad de hervor (2200W vs 1500W) y durabilidad estimada (4-5 años vs 2-3), con construcción completamente de acero. Cuesta {{preciodif:MLA24601443:MLAU4016948916}} más que la Atma — vale la pena si priorizás que dure más años y no te importa pagar el extra." },
+      { type: "product-card", productMlaId: "MLA24601443", label: "Acero completo", labelColor: "blue", ranking: 2, description: "Acero inoxidable completo (interior y exterior), 1.7L, 2200W. 4.7 estrellas en {{reviews:MLA24601443}} calificaciones." },
+      { type: "p", content: "Gana en velocidad de hervor (2200W vs 1500W) y durabilidad estimada (4-5 años vs 2-3), con construcción completamente de acero. Cuesta {{preciodif:MLA24601443:MLA49199049}} más que la Atma — vale la pena si priorizás que dure más años y no te importa pagar el extra." },
 
       { type: "h3", title: "3. Peabody PE-DK2200N — si necesitás control de temperatura" },
       { type: "product-card", productMlaId: "MLA47275624", label: "Control de temperatura", labelColor: "purple", ranking: 3, description: "Acero completo, control continuo de temperatura de 40 a 100°, mantiene el calor. 4.9 estrellas, el rating más alto de la comparativa." },
       { type: "p", content: "Ninguna Atma tiene control de temperatura real. Si necesitás elegir el grado exacto para mate, té verde o café de especialidad, esta es la opción — no una Atma." },
 
       { type: "h3", title: "4. Liliana AP152 — alternativa económica con acero" },
-      { type: "product-card", productMlaId: "MLA61505857", label: "Acero económico", labelColor: "amber", ranking: 4, description: "Acero inoxidable completo, 1.7L, selector mate fijo, base giratoria 360°. 4.7 estrellas en 614 calificaciones." },
-      { type: "p", content: "Es acero completo (no solo interior, como la Atma) por {{preciodif:MLAU4016948916:MLA61505857}} menos. Tiene menos capacidad (1.7L vs 1.8L) y un selector mate fijo en vez de niveles, y a diferencia de esta publicación de Atma, ya tiene cientos de reseñas propias." },
+      { type: "product-card", productMlaId: "MLA61505857", label: "Acero económico", labelColor: "amber", ranking: 4, description: "Acero inoxidable completo, 1.7L, selector mate fijo, base giratoria 360°. 4.7 estrellas en {{reviews:MLA61505857}} calificaciones." },
+      { type: "p", content: "Es acero completo (no solo interior, como la Atma) por {{preciodif:MLA49199049:MLA61505857}} menos. Tiene menos capacidad (1.7L vs 1.8L) y un selector mate fijo en vez de niveles." },
 
       { type: "h2", title: "Tabla comparativa", id: "tabla-comparativa" },
       {
         type: "table",
         headers: ["Modelo", "Precio", "Material", "Control temp", "Ideal para"],
         rows: [
-          ["[Atma PEAT1351](https://meli.la/1rMrWSu)", "{{precio:MLAU4016948916}}", "Interior acero", "No", "El modelo Atma recomendado"],
+          ["[Atma PEAT1351](https://meli.la/1mMbqaY)", "{{precio:MLA49199049}}", "Interior acero", "No", "El modelo Atma recomendado"],
           ["[Philips HD9350](https://meli.la/2kpg1Zr)", "{{precio:MLA24601443}}", "Acero completo", "No", "Acero completo, más durabilidad"],
           ["[Peabody PE-DK2200N](https://meli.la/2cyQgD2)", "{{precio:MLA47275624}}", "Acero completo", "Continuo 40-100°", "Necesitás temperatura exacta"],
           ["[Liliana AP152](https://meli.la/1QMfKob)", "{{precio:MLA61505857}}", "Acero completo", "No", "Acero completo, la más económica"],
@@ -8461,13 +8461,13 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       ] },
 
       { type: "h2", title: "Veredicto: cuál comprar", id: "veredicto" },
-      { type: "verdict", content: "Comprá la [Atma PEAT1351](https://meli.la/1rMrWSu) por {{precio:MLAU4016948916}}: interior de acero, 1.8L, la misma ficha técnica de siempre (aunque esta publicación puntual todavía no tiene reseñas propias). ¿Querés acero completo y más durabilidad? La [Philips HD9350](https://meli.la/2kpg1Zr). ¿Necesitás control de temperatura? Ninguna Atma lo tiene: andá directo a la [Peabody PE-DK2200N](https://meli.la/2cyQgD2). ¿Preferís algo con reseñas ya acumuladas? La [Liliana AP152](https://meli.la/1QMfKob)." },
+      { type: "verdict", content: "Comprá la [Atma PEAT1351](https://meli.la/1mMbqaY) por {{precio:MLA49199049}}: interior de acero, 1.8L, {{reviews:MLA49199049}} calificaciones propias. ¿Querés acero completo y más durabilidad? La [Philips HD9350](https://meli.la/2kpg1Zr). ¿Necesitás control de temperatura? Ninguna Atma lo tiene: andá directo a la [Peabody PE-DK2200N](https://meli.la/2cyQgD2)." },
     ],
     faq: [
       {
-        question: "¿Por qué esta publicación no tiene reseñas?",
+        question: "¿Cuántas reseñas tiene la Atma PEAT1351?",
         answer:
-          "La publicación original de la Atma PEAT1351, con miles de calificaciones acumuladas, se agotó. Esta es una publicación nueva de otro vendedor: mismo modelo, misma ficha técnica, pero sin historial propio todavía. Preferimos decirlo de frente antes que repetir el argumento de \"la más votada\" que ya no aplica.",
+          "{{reviews:MLA49199049}}, con 4.7 estrellas. Vive en el catálogo consolidado de MercadoLibre, con más de un millón de ventas acumuladas de la tienda.",
       },
       {
         question: "¿Cuánto dura una Atma?",
@@ -8482,22 +8482,22 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       {
         question: "¿El interior de acero es realmente acero o está pintado?",
         answer:
-          "Es acero inoxidable real en contacto con el agua en la [ATMA PEAT1351](https://meli.la/1rMrWSu). No es pintura. El exterior sí es plástico. Si querés acero completo (interior y exterior), la [Philips HD9350](https://meli.la/2kpg1Zr) es la opción del catálogo.",
+          "Es acero inoxidable real en contacto con el agua en la [ATMA PEAT1351](https://meli.la/1mMbqaY). No es pintura. El exterior sí es plástico. Si querés acero completo (interior y exterior), la [Philips HD9350](https://meli.la/2kpg1Zr) es la opción del catálogo.",
       },
       {
         question: "¿Se puede cambiar la resistencia?",
         answer:
-          "Sí, técnicamente sí. Pero cuesta $16.000-22.000 total. Una [Atma PEAT1351](https://meli.la/1rMrWSu) nueva cuesta {{precio:MLAU4016948916}}. Hacé la cuenta.",
+          "Sí, técnicamente sí. Pero cuesta $16.000-22.000 total. Una [Atma PEAT1351](https://meli.la/1mMbqaY) nueva cuesta {{precio:MLA49199049}}. Hacé la cuenta.",
       },
       {
         question: "¿Por qué no recomiendan el modelo PE0821AP que es más barato?",
         answer:
-          "Porque el [PE0821AP](https://meli.la/27qLeLL) es de plástico completo. Después de 6 meses el agua empieza a tener sabor raro. La [Atma PEAT1351](https://meli.la/1rMrWSu) con interior de acero no da sabor por apenas {{preciodif:MLAU4016948916:MLA19589524}} más.",
+          "Porque el [PE0821AP](https://meli.la/27qLeLL) es de plástico completo. Después de 6 meses el agua empieza a tener sabor raro. La [Atma PEAT1351](https://meli.la/1mMbqaY) con interior de acero no da sabor por apenas {{preciodif:MLA49199049:MLA19589524}} más.",
       },
     ],
     internalLinksTitle: "Productos y guías relacionadas",
     internalLinks: [
-      { label: "Ver Atma PEAT1351", href: "https://meli.la/1rMrWSu" },
+      { label: "Ver Atma PEAT1351", href: "https://meli.la/1mMbqaY" },
       { label: "Ver Philips HD9350", href: "https://meli.la/2kpg1Zr" },
       { label: "Ver Philips HD9396 premium", href: "https://meli.la/1nfm8ft" },
       { label: "Ver Peabody digital", href: "https://meli.la/2cyQgD2" },
@@ -8536,7 +8536,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     standfirst: "Comparamos las pavas eléctricas en Argentina por rango de precio: qué obtenés en cada escalón y cuál es la mejor compra dentro de cada presupuesto.",
     quickPicks: [
       { productMlaId: "MLA20027329", label: "Rango económico", labelColor: "amber", tagline: "Lo mejor por menos de {{precio:MLA20027329:k}}" },
-      { productMlaId: "MLAU4016948916", label: "Rango gama media-alta", labelColor: "green", tagline: "Interior de acero, marca argentina con service" },
+      { productMlaId: "MLA49199049", label: "Rango gama media-alta", labelColor: "green", tagline: "Interior de acero, marca argentina con service" },
       { productMlaId: "MLA24601443", label: "Rango gama alta", labelColor: "blue", tagline: "Acero completo, dura el doble" },
       { productMlaId: "MLA47275624", label: "Rango premium", labelColor: "purple", tagline: "Solo si necesitás control de temperatura" },
     ],
@@ -8551,7 +8551,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "h2", title: "Resumen rápido: cuál comprar según tu presupuesto", id: "resumen-rapido" },
       { type: "list", items: [
         "**Rango económico:** [Kanji KJH-PE15002M](https://meli.la/1f9jqdT) — lo mejor por menos de {{precio:MLA20027329:k}}.",
-        "**Rango gama media-alta:** [Atma PEAT1351](https://meli.la/1rMrWSu) — interior de acero, marca argentina con service (publicación nueva, sin reseñas todavía).",
+        "**Rango gama media-alta:** [Atma PEAT1351](https://meli.la/1mMbqaY) — interior de acero, marca argentina con service, {{reviews:MLA49199049}} calificaciones.",
         "**Rango gama alta:** [Philips HD9350](https://meli.la/2kpg1Zr) — acero completo, dura el doble.",
         "**Rango premium:** [Peabody PE-DK2200N](https://meli.la/2cyQgD2) — solo si necesitás control de temperatura.",
       ] },
@@ -8578,12 +8578,12 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "p", content: "Materiales: interior acero, exterior plástico. Potencia 1500W. Durabilidad estimada 2-3 años. Es la mejor compra si tu presupuesto es realmente ajustado — por debajo de este rango la mayoría de las opciones son plástico completo y el agua toma sabor después de un año." },
 
       { type: "h3", title: "2. Atma PEAT1351 — rango gama media-alta" },
-      { type: "product-card", productMlaId: "MLAU4016948916", label: "Rango gama media-alta", labelColor: "green", ranking: 2, description: "Interior de acero inoxidable, exterior plástico, 1.8L, marca argentina con service. Publicación nueva de otro vendedor, sin reseñas todavía." },
-      { type: "p", content: "Interior de acero (crítico para el sabor), service local en Argentina, precio cercano al de la Philips pero sin el acero completo. 1500W hierve un poco más lento que las de 2200W, pero gasta menos luz. Es una publicación nueva: la anterior, con miles de calificaciones, se agotó — esta todavía no tiene historial propio." },
+      { type: "product-card", productMlaId: "MLA49199049", label: "Rango gama media-alta", labelColor: "green", ranking: 2, description: "Interior de acero inoxidable, exterior plástico, 1.8L, marca argentina con service. Catálogo consolidado de MercadoLibre, con {{reviews:MLA49199049}} calificaciones." },
+      { type: "p", content: "Interior de acero (crítico para el sabor), service local en Argentina, precio cercano al de la Philips pero sin el acero completo. 1500W hierve un poco más lento que las de 2200W, pero gasta menos luz." },
 
       { type: "h3", title: "3. Philips HD9350 — rango gama alta" },
-      { type: "product-card", productMlaId: "MLA24601443", label: "Rango gama alta", labelColor: "blue", ranking: 3, description: "Acero inoxidable completo, 1.7L, 2200W. Dura 4-5 años, la mejor inversión a largo plazo. 4.7 estrellas en 230 calificaciones." },
-      { type: "p", content: "Acero completo (interior y exterior), 2200W, hierve más rápido y dura más que la Atma. Cuesta {{preciodif:MLA24601443:MLAU4016948916}} más, pero si hacés la cuenta por año de uso, la diferencia se reduce bastante frente a comprar una pava de gama media cada 2-3 años." },
+      { type: "product-card", productMlaId: "MLA24601443", label: "Rango gama alta", labelColor: "blue", ranking: 3, description: "Acero inoxidable completo, 1.7L, 2200W. Dura 4-5 años, la mejor inversión a largo plazo. 4.7 estrellas en {{reviews:MLA24601443}} calificaciones." },
+      { type: "p", content: "Acero completo (interior y exterior), 2200W, hierve más rápido y dura más que la Atma. Cuesta {{preciodif:MLA24601443:MLA49199049}} más, pero si hacés la cuenta por año de uso, la diferencia se reduce bastante frente a comprar una pava de gama media cada 2-3 años." },
 
       { type: "h3", title: "4. Peabody PE-DK2200N — rango premium" },
       { type: "product-card", productMlaId: "MLA47275624", label: "Rango premium", labelColor: "purple", ranking: 4, description: "Pantalla digital, control continuo de temperatura (40°-100°), función mantener caliente. 4.9 estrellas, el rating más alto de la comparativa." },
@@ -8595,7 +8595,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
         headers: ["Rango", "Modelo", "Precio", "Material", "Ideal para"],
         rows: [
           ["Económico", "[Kanji KJH-PE15002M](https://meli.la/1f9jqdT)", "{{precio:MLA20027329}}", "Interior acero", "Presupuesto muy ajustado"],
-          ["Gama media-alta", "[Atma PEAT1351](https://meli.la/1rMrWSu)", "{{precio:MLAU4016948916}}", "Interior acero", "Marca argentina, sin reseñas todavía"],
+          ["Gama media-alta", "[Atma PEAT1351](https://meli.la/1mMbqaY)", "{{precio:MLA49199049}}", "Interior acero", "Marca argentina con service"],
           ["Gama alta", "[Philips HD9350](https://meli.la/2kpg1Zr)", "{{precio:MLA24601443}}", "Acero completo", "Mejor inversión a largo plazo"],
           ["Premium", "[Peabody PE-DK2200N](https://meli.la/2cyQgD2)", "{{precio:MLA47275624}}", "Acero + digital", "Necesitás control de temperatura"],
         ],
@@ -8604,19 +8604,19 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "h2", title: "Nuestra recomendación por presupuesto" },
       { type: "list", items: [
         "**Presupuesto muy ajustado:** la [Kanji](https://meli.la/1f9jqdT). Lo mejor por ese precio. Ahorrá para algo mejor después si podés.",
-        "**Presupuesto medio:** la [Atma PEAT1351](https://meli.la/1rMrWSu). Interior de acero, marca conocida (aunque esta publicación puntual todavía no tiene reseñas).",
+        "**Presupuesto medio:** la [Atma PEAT1351](https://meli.la/1mMbqaY). Interior de acero, marca conocida, {{reviews:MLA49199049}} calificaciones.",
         "**Podés estirarte un poco más:** la [Philips HD9350](https://meli.la/2kpg1Zr). La mejor inversión a largo plazo.",
         "**Necesitás control de temperatura:** la [Peabody PE-DK2200N](https://meli.la/2cyQgD2), sin importar el rango.",
       ] },
 
       { type: "h2", title: "Veredicto: cuál comprar", id: "veredicto" },
-      { type: "verdict", content: "El \"precio justo\" está entre la gama media y la alta: la [Atma PEAT1351](https://meli.la/1rMrWSu) para presupuesto ajustado, la [Philips HD9350](https://meli.la/2kpg1Zr) para inversión a largo plazo. Todo lo que esté muy por debajo de la Kanji es plástico que da sabor. Pagar mucho más que la Peabody Digital, salvo que necesites control de temperatura, suele ser marketing." },
+      { type: "verdict", content: "El \"precio justo\" está entre la gama media y la alta: la [Atma PEAT1351](https://meli.la/1mMbqaY) para presupuesto ajustado, la [Philips HD9350](https://meli.la/2kpg1Zr) para inversión a largo plazo. Todo lo que esté muy por debajo de la Kanji es plástico que da sabor. Pagar mucho más que la Peabody Digital, salvo que necesites control de temperatura, suele ser marketing." },
     ],
     faq: [
       {
         question: "¿Cuál es el precio justo para una buena pava?",
         answer:
-          "El rango entre la [Atma PEAT1351](https://meli.la/1rMrWSu) y la [Philips HD9350](https://meli.la/2kpg1Zr), hoy bastante cercanos en precio. En esa franja conseguís acero (al menos interior) y durabilidad decente. Otras opciones con acero: [Liliana AP152](https://meli.la/1QMfKob) (acero completo, la más económica) y [Liliana Mateando](https://meli.la/2qM28cx) (función mate).",
+          "El rango entre la [Atma PEAT1351](https://meli.la/1mMbqaY) y la [Philips HD9350](https://meli.la/2kpg1Zr), hoy bastante cercanos en precio. En esa franja conseguís acero (al menos interior) y durabilidad decente. Otras opciones con acero: [Liliana AP152](https://meli.la/1QMfKob) (acero completo, la más económica) y [Liliana Mateando](https://meli.la/2qM28cx) (función mate).",
       },
       {
         question: "¿Valen la pena las más económicas?",
@@ -8641,7 +8641,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     ],
     internalLinksTitle: "Productos y guías relacionadas",
     internalLinks: [
-      { label: "Ver Atma PEAT1351 (gama media-alta)", href: "https://meli.la/1rMrWSu" },
+      { label: "Ver Atma PEAT1351 (gama media-alta)", href: "https://meli.la/1mMbqaY" },
       { label: "Ver Philips HD9350 (gama alta)", href: "https://meli.la/2kpg1Zr" },
       { label: "Ver Philips HD9396 (premium)", href: "https://meli.la/1nfm8ft" },
       { label: "Ver Peabody digital (control temp)", href: "https://meli.la/2cyQgD2" },
@@ -8680,7 +8680,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     hasDisclosure: true,
     standfirst: "MercadoLibre tiene cientos de modelos de pava eléctrica, con vendedores oficiales y otros que no lo son. Te contamos cómo comprar sin que te estafen y cuáles son las mejores ofertas verificadas.",
     quickPicks: [
-      { productMlaId: "MLAU4016948916", label: "Mejor oferta gama media", labelColor: "green", tagline: "Interior de acero, vendedor Platinum con +1.000 ventas" },
+      { productMlaId: "MLA49199049", label: "Mejor oferta gama media", labelColor: "green", tagline: "Interior de acero, catálogo consolidado con +1M ventas de la tienda" },
       { productMlaId: "MLA24601443", label: "Mejor oferta gama alta", labelColor: "blue", tagline: "Acero completo, dura más" },
       { productMlaId: "MLA8933826", label: "Mejor compra general", labelColor: "purple", tagline: "La pava más probada del catálogo" },
       { productMlaId: "MLA47275624", label: "Control de temperatura", labelColor: "amber", tagline: "Control continuo 40-100°" },
@@ -8698,7 +8698,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
         "**Vendedor confiable:** medalla MercadoLíder Platinum, más de 1.000 ventas, 95%+ de calificaciones positivas.",
         "**Verificá el modelo exacto:** buscá el número de modelo en la descripción, no solo la marca en el título.",
         "**Leé los reviews negativos:** son casi siempre reales, los positivos genéricos a veces son incentivados.",
-        "**Mejor oferta verificada:** la [Atma PEAT1351](https://meli.la/1rMrWSu) de gama media o la [Philips HD9350](https://meli.la/2kpg1Zr) de gama alta.",
+        "**Mejor oferta verificada:** la [Atma PEAT1351](https://meli.la/1mMbqaY) de gama media o la [Philips HD9350](https://meli.la/2kpg1Zr) de gama alta.",
       ] },
 
       { type: "trust-block", trustVariant: "methodology", content: "**Cómo verificamos estas ofertas:** confirmamos que cada vendedor tenga garantía oficial vigente, revisamos el historial de calificaciones y descartamos publicaciones con fotos que no correspondían al modelo real. Los precios y vendedores se revisan periódicamente." },
@@ -8774,11 +8774,11 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "h2", title: "Las mejores ofertas verificadas", id: "ranking" },
 
       { type: "h3", title: "1. Atma PEAT1351 — la recomendada de gama media" },
-      { type: "product-card", productMlaId: "MLAU4016948916", label: "Mejor oferta gama media", labelColor: "green", ranking: 1, description: "Interior de acero inoxidable, exterior plástico, 1.8L, garantía de fábrica de 12 meses. Publicación nueva, sin reseñas todavía." },
-      { type: "p", content: "Acá aplica justo lo que explicamos arriba: la publicación en sí es nueva (apenas unas pocas ventas, sin reseñas propias todavía), pero el vendedor —CENTRAL HOUSE_— es MercadoLíder Platinum con más de 1.000 ventas como tienda. Es el caso concreto de \"vendedor confiable con publicación nueva\": no hay reseñas del producto para leer, pero sí hay historial del vendedor para chequear." },
+      { type: "product-card", productMlaId: "MLA49199049", label: "Mejor oferta gama media", labelColor: "green", ranking: 1, description: "Interior de acero inoxidable, exterior plástico, 1.8L, garantía de fábrica de 12 meses. Catálogo consolidado de MercadoLibre, con {{reviews:MLA49199049}} calificaciones." },
+      { type: "p", content: "Vive en el catálogo consolidado de MercadoLibre, con {{reviews:MLA49199049}} calificaciones propias y más de un millón de ventas acumuladas de la tienda — el caso ideal de \"publicación con historial real para chequear antes de comprar\"." },
 
       { type: "h3", title: "2. Philips HD9350 — mejor inversión de gama alta" },
-      { type: "product-card", productMlaId: "MLA24601443", label: "Mejor oferta gama alta", labelColor: "blue", ranking: 2, description: "Acero inoxidable completo, 1.7L, 2200W. 4.7 estrellas en 230 calificaciones. Dura 4-5 años con uso diario." },
+      { type: "product-card", productMlaId: "MLA24601443", label: "Mejor oferta gama alta", labelColor: "blue", ranking: 2, description: "Acero inoxidable completo, 1.7L, 2200W. 4.7 estrellas en {{reviews:MLA24601443}} calificaciones. Dura 4-5 años con uso diario." },
       { type: "p", content: "Vendedores con medalla MercadoLíder Platinum, envío gratis y cuotas sin interés. Suele salir menos que en retail físico, con la ventaja de la garantía oficial Philips." },
 
       { type: "h2", title: "Errores comunes al comprar en MercadoLibre" },
@@ -8811,13 +8811,13 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       },
 
       { type: "h2", title: "Veredicto: cuándo comprar acá", id: "veredicto" },
-      { type: "verdict", content: "Comprar en MercadoLibre SÍ conviene si: buscás precio más bajo que retail, sabés qué modelo querés, y comprás de vendedor MercadoLíder Platinum como con la [Atma PEAT1351](https://meli.la/1rMrWSu) o la [Philips HD9350](https://meli.la/2kpg1Zr). NO conviene si: necesitás la pava HOY (andá a retail) o el vendedor es nuevo sin reviews (distinto de una publicación nueva de un vendedor con historial, que sí es seguro)." },
+      { type: "verdict", content: "Comprar en MercadoLibre SÍ conviene si: buscás precio más bajo que retail, sabés qué modelo querés, y comprás de un catálogo con historial real, como la [Atma PEAT1351](https://meli.la/1mMbqaY) ({{reviews:MLA49199049}} calificaciones) o un vendedor MercadoLíder Platinum como la [Philips HD9350](https://meli.la/2kpg1Zr). NO conviene si: necesitás la pava HOY (andá a retail) o el vendedor es nuevo sin reviews." },
     ],
     faq: [
       {
         question: "¿Es seguro comprar pavas eléctricas en MercadoLibre?",
         answer:
-          "Sí, si comprás de vendedores MercadoLíder Platinum y verificás garantía oficial. MercadoLibre protege al comprador. Las 3 mejores ofertas actuales de vendedores confiables: [Atma PEAT1351](https://meli.la/1rMrWSu) ({{precio:MLAU4016948916}}), [Philips HD9350](https://meli.la/2kpg1Zr) ({{precio:MLA24601443}}), [Peabody PE-DK2200N](https://meli.la/2cyQgD2) ({{precio:MLA47275624}}).",
+          "Sí, si comprás de vendedores MercadoLíder Platinum y verificás garantía oficial. MercadoLibre protege al comprador. Las 3 mejores ofertas actuales de vendedores confiables: [Atma PEAT1351](https://meli.la/1mMbqaY) ({{precio:MLA49199049}}), [Philips HD9350](https://meli.la/2kpg1Zr) ({{precio:MLA24601443}}), [Peabody PE-DK2200N](https://meli.la/2cyQgD2) ({{precio:MLA47275624}}).",
       },
       {
         question: "¿Cuánto tarda el envío?",
@@ -8842,7 +8842,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     ],
     internalLinksTitle: "Productos y guías relacionadas",
     internalLinks: [
-      { label: "Ver Atma PEAT1351 (interior acero)", href: "https://meli.la/1rMrWSu" },
+      { label: "Ver Atma PEAT1351 (interior acero)", href: "https://meli.la/1mMbqaY" },
       { label: "Ver Philips HD9350 (SUS304)", href: "https://meli.la/2kpg1Zr" },
       { label: "Ver Philips HD9396 (doble pared)", href: "https://meli.la/1nfm8ft" },
       { label: "Ver Peabody digital (mejor rating)", href: "https://meli.la/2cyQgD2" },
@@ -8888,7 +8888,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     quickPicks: [
       { productMlaId: "MLA47275624", label: "Si necesitás control de temperatura", labelColor: "green", tagline: "Control continuo 40-100°, el rating más alto de la comparativa (4.9)" },
       { productMlaId: "MLA24601443", label: "Si solo tomás mate a 100°", labelColor: "blue", tagline: "Acero completo, más durabilidad, sin pagar por la pantalla" },
-      { productMlaId: "MLAU4016948916", label: "Presupuesto ajustado", labelColor: "amber", tagline: "Interior de acero por bastante menos" },
+      { productMlaId: "MLA49199049", label: "Presupuesto ajustado", labelColor: "amber", tagline: "Interior de acero por bastante menos" },
       { productMlaId: "MLA14263533", label: "Alternativa Peabody con acero", labelColor: "purple", tagline: "4 preset y acero completo, sin pantalla digital" },
     ],
     intro: [
@@ -8902,7 +8902,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "list", items: [
         "**Si necesitás control de temperatura:** [Peabody PE-DK2200N](https://meli.la/2cyQgD2) — control continuo 40-100°, el rating más alto de la comparativa.",
         "**Si solo tomás mate a 100°:** [Philips HD9350](https://meli.la/2kpg1Zr) — acero completo, más durabilidad, sin pagar por la pantalla.",
-        "**Presupuesto ajustado:** [Atma PEAT1351](https://meli.la/1rMrWSu) — interior de acero por bastante menos.",
+        "**Presupuesto ajustado:** [Atma PEAT1351](https://meli.la/1mMbqaY) — interior de acero por bastante menos.",
         "**Alternativa Peabody con acero:** [Peabody PE-DK1850](https://meli.la/2T7Y1zd) — 4 preset y acero completo, sin pantalla digital.",
       ] },
 
@@ -8919,12 +8919,12 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "p", content: "El control funciona bien y la pantalla es clara. Pero cuesta {{preciodif:MLA47275624:MLA24601443}} más que la Philips HD9350: son 1.5L (menos que la Atma o la Philips, de 1.8L y 1.7L), el exterior es plástico, y la función mantener caliente gasta luz constantemente. Tiene sentido si tomás té verde (70-80°), té blanco (60-70°) o café de filtro (92-96°)." },
 
       { type: "h3", title: "2. Philips HD9350 — si no usás el control" },
-      { type: "product-card", productMlaId: "MLA24601443", label: "Sin control, más acero", labelColor: "blue", ranking: 2, description: "Acero inoxidable completo, 1.7L, 2200W. 4.7 estrellas en 230 calificaciones. Dura 4-5 años con uso diario." },
+      { type: "product-card", productMlaId: "MLA24601443", label: "Sin control, más acero", labelColor: "blue", ranking: 2, description: "Acero inoxidable completo, 1.7L, 2200W. 4.7 estrellas en {{reviews:MLA24601443}} calificaciones. Dura 4-5 años con uso diario." },
       { type: "p", content: "Si tomás té verde/blanco o café de filtro con temperatura específica, la Peabody tiene sentido. Si solo tomás mate a 100° o querés acero completo y durabilidad, la Philips es mejor compra y te ahorrás {{preciodif:MLA47275624:MLA24601443}}." },
 
       { type: "h3", title: "3. Atma PEAT1351 — presupuesto ajustado" },
-      { type: "product-card", productMlaId: "MLAU4016948916", label: "Presupuesto ajustado", labelColor: "amber", ranking: 3, description: "Interior de acero inoxidable, exterior plástico, 1.8L, 1500W. Publicación nueva, sin reseñas todavía." },
-      { type: "p", content: "Cuesta {{preciodif:MLA47275624:MLAU4016948916}} menos que la Peabody digital: simplemente hierve y corta, sin control de temperatura ni mantener caliente. La pregunta clave: ¿vas a usar el control de temperatura al menos 5 veces por semana? Si no, estás pagando de más por una pantalla." },
+      { type: "product-card", productMlaId: "MLA49199049", label: "Presupuesto ajustado", labelColor: "amber", ranking: 3, description: "Interior de acero inoxidable, exterior plástico, 1.8L, 1500W. Catálogo consolidado de MercadoLibre, con {{reviews:MLA49199049}} calificaciones." },
+      { type: "p", content: "Cuesta {{preciodif:MLA47275624:MLA49199049}} menos que la Peabody digital: simplemente hierve y corta, sin control de temperatura ni mantener caliente. La pregunta clave: ¿vas a usar el control de temperatura al menos 5 veces por semana? Si no, estás pagando de más por una pantalla." },
 
       { type: "h2", title: "Tabla comparativa", id: "tabla-comparativa" },
       {
@@ -8933,7 +8933,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
         rows: [
           ["[Peabody PE-DK2200N](https://meli.la/2cyQgD2)", "{{precio:MLA47275624}}", "Interior acero, exterior plástico", "Continuo 40-100°", "Té verde, blanco o café de filtro"],
           ["[Philips HD9350](https://meli.la/2kpg1Zr)", "{{precio:MLA24601443}}", "Acero completo", "No", "Solo mate a 100°, más durabilidad"],
-          ["[Atma PEAT1351](https://meli.la/1rMrWSu)", "{{precio:MLAU4016948916}}", "Interior acero", "No", "Presupuesto ajustado"],
+          ["[Atma PEAT1351](https://meli.la/1mMbqaY)", "{{precio:MLA49199049}}", "Interior acero", "No", "Presupuesto ajustado"],
         ],
       },
 
@@ -8964,7 +8964,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "callout", calloutVariant: "tip", calloutTitle: "Cuándo sí comprar Peabody", content: "Tomás té verde o blanco diariamente y necesitás temperaturas 60-80°C, hacés café de filtro exigente entre 92-96°C, tomás varias infusiones en 2 horas, o tenés el presupuesto sin estirar finanzas." },
 
       { type: "h2", title: "Veredicto: cuál comprar", id: "veredicto" },
-      { type: "verdict", content: "Comprá la [Peabody PE-DK2200N](https://meli.la/2cyQgD2) si tomás té verde/blanco o café de filtro regularmente. Si solo tomás mate a 100° o querés acero completo, la [Philips HD9350](https://meli.la/2kpg1Zr) es mejor compra. Si el presupuesto manda, la [Atma PEAT1351](https://meli.la/1rMrWSu) hace lo mismo (hervir) por bastante menos." },
+      { type: "verdict", content: "Comprá la [Peabody PE-DK2200N](https://meli.la/2cyQgD2) si tomás té verde/blanco o café de filtro regularmente. Si solo tomás mate a 100° o querés acero completo, la [Philips HD9350](https://meli.la/2kpg1Zr) es mejor compra. Si el presupuesto manda, la [Atma PEAT1351](https://meli.la/1mMbqaY) hace lo mismo (hervir) por bastante menos." },
     ],
     faq: [
       {
@@ -8990,7 +8990,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       {
         question: "¿Se puede usar para mate?",
         answer:
-          "Sí, pero entonces no necesitás el control de temperatura. Mejor [Atma PEAT1351](https://meli.la/1rMrWSu) por {{precio:MLAU4016948916:k}}.",
+          "Sí, pero entonces no necesitás el control de temperatura. Mejor [Atma PEAT1351](https://meli.la/1mMbqaY) por {{precio:MLA49199049:k}}.",
       },
       {
         question: "¿Vale la pena el modelo vintage PE-KV8215R?",
@@ -9002,7 +9002,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     internalLinks: [
       { label: "Ver Peabody PE-DK2200N", href: "https://meli.la/2cyQgD2" },
       { label: "Ver Peabody PE-DK1850 (alternativa)", href: "https://meli.la/2T7Y1zd" },
-      { label: "Ver Atma PEAT1351 (más barata)", href: "https://meli.la/1rMrWSu" },
+      { label: "Ver Atma PEAT1351 (más barata)", href: "https://meli.la/1mMbqaY" },
       { label: "Ver Philips HD9350 (acero completo)", href: "https://meli.la/2kpg1Zr" },
       { label: "Ver Oster KT4970W (mate)", href: "https://meli.la/1JfvkMc" },
       { label: "Pava eléctrica", href: "/guias/pava-electrica" },
@@ -9199,7 +9199,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       {
         type: "p",
         content:
-          "La [Atma](https://meli.la/1rMrWSu) está casi al mismo precio que la AP175B (la diferencia es de menos de $100), tiene más capacidad (1.8L vs 1.7L) e interior de acero (la AP175B es plástico). Pero NO tiene función mate. Si tomás mate regularmente, la AP175B sigue siendo la mejor opción; si preferís acero y no te importa el mate, la Atma. Un dato a tener en cuenta: es una publicación nueva de otro vendedor, sin reseñas propias todavía.",
+          "La [Atma](https://meli.la/1mMbqaY) está casi al mismo precio que la AP175B (la diferencia es mínima, menos de $500), tiene más capacidad (1.8L vs 1.7L) e interior de acero (la AP175B es plástico). Pero NO tiene función mate. Si tomás mate regularmente, la AP175B sigue siendo la mejor opción; si preferís acero y no te importa el mate, la Atma.",
       },
       { type: "h3", title: "vs Philips HD9350" },
       {
@@ -9347,7 +9347,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "p", content: "Cuesta {{preciodif:MLA8933826:MLA11145437}} menos que la Oster 4970B. Ambas son plástico, ambas tienen función mate, ambas 1.7L. Oster tiene un nivel más y ventana iluminada, pero eso no justifica la diferencia de precio." },
 
       { type: "h3", title: "4. Philips HD9350 — mejor durabilidad" },
-      { type: "product-card", productMlaId: "MLA24601443", label: "Mejor durabilidad", labelColor: "purple", ranking: 4, description: "Acero inoxidable completo, 1.7L, 2200W. Dura 4-5 años con uso diario. 4.7 estrellas en 230 calificaciones." },
+      { type: "product-card", productMlaId: "MLA24601443", label: "Mejor durabilidad", labelColor: "purple", ranking: 4, description: "Acero inoxidable completo, 1.7L, 2200W. Dura 4-5 años con uso diario. 4.7 estrellas en {{reviews:MLA24601443}} calificaciones." },
       { type: "p", content: "Si priorizás durabilidad por sobre todo, la Philips dura bastante más que cualquiera de las dos Oster (que rondan 2-3 años) por un precio similar o menor." },
 
       { type: "callout", calloutVariant: "warning", calloutTitle: "Las dos Oster: por qué no las recomendamos", content: "La [Oster 4970B](https://meli.la/31ihPzQ) ({{precio:MLA11145437}}) es plástico con solo 3 niveles; la Peabody DK1850 tiene acero y pantalla digital por menos. La [Oster 8970](https://meli.la/1jdC3sW) ({{precio:MLA8993736}}) es la pava más cara de toda la comparativa y hace lo mismo que la Peabody DK2200N por {{preciodif:MLA8993736:MLA47275624}} más." },
@@ -9358,7 +9358,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
         headers: ["Modelo", "Precio", "Material", "Control temp", "Ideal para"],
         rows: [
           ["[Liliana AP152](https://meli.la/1QMfKob)", "{{precio:MLA61505857}}", "Acero", "No", "La más económica con acero"],
-          ["[Atma PEAT1351](https://meli.la/1rMrWSu)", "{{precio:MLAU4016948916}}", "Interior acero", "No", "Publicación nueva, sin reseñas"],
+          ["[Atma PEAT1351](https://meli.la/1mMbqaY)", "{{precio:MLA49199049}}", "Interior acero", "No", "Catálogo consolidado, {{reviews:MLA49199049:k}} calificaciones"],
           ["[Liliana AP175B](https://meli.la/2qM28cx)", "{{precio:MLA8933826}}", "Plástico", "Sí (2 niveles)", "Mejor compra con función mate"],
           ["[Peabody PE-DK1850](https://meli.la/2T7Y1zd)", "{{precio:MLA14263533}}", "Acero completo", "4 preset", "Mejor alternativa a la 4970B"],
           ["[Philips HD9350](https://meli.la/2kpg1Zr)", "{{precio:MLA24601443}}", "Acero completo", "No", "Mejor durabilidad"],
@@ -9432,7 +9432,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { label: "Ver Liliana AP175B (alternativa más barata)", href: "https://meli.la/2qM28cx" },
       { label: "Ver Philips HD9350 (mejor durabilidad)", href: "https://meli.la/2kpg1Zr" },
       { label: "Ver Liliana AP152 (más barata)", href: "https://meli.la/1QMfKob" },
-      { label: "Ver Atma PEAT1351 (interior acero)", href: "https://meli.la/1rMrWSu" },
+      { label: "Ver Atma PEAT1351 (interior acero)", href: "https://meli.la/1mMbqaY" },
       { label: "Pava Peabody: ¿vale el digital?", href: "/guias/pava-electrica-peabody" },
       { label: "Pava Liliana: ¿cuál de las 4?", href: "/guias/pava-electrica-liliana" },
       { label: "Pava Philips: ¿vale la pena?", href: "/guias/pava-electrica-philips" },
@@ -10863,7 +10863,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
 
       { type: "h2", title: "Veredicto: cuál comprar", id: "veredicto" },
       { type: "verdict", content: "Para la mayoría, la [Atma PE1821NAP](https://meli.la/2uprqZS) por {{precio:MLA19589519}}: 6 niveles cuando la mayoría de las de acero tienen 3 o 4. ¿Presupuesto ajustado? La [Liliana AP175B](https://meli.la/2qM28cx) por {{precio:MLA8933826}}. ¿Necesitás control continuo? La [Peabody DK2200N](https://meli.la/2cyQgD2) por {{precio:MLA47275624}}. ¿Querés acero? La [Peabody DK1850](https://meli.la/2T7Y1zd) por {{precio:MLA14263533}}. No compres ninguna de las dos Oster: a igual o más precio, no dan nada que las otras no den por menos." },
-      { type: "p", content: "Si solo hervís agua sin control de temperatura, la [Atma PEAT1351](https://meli.la/1rMrWSu) sale {{precio:MLAU4016948916}} y hace el mismo trabajo con interior de acero (publicación nueva, sin reseñas todavía). Si priorizás durabilidad sobre control, mirá la [guía de pava Philips](/guias/pava-electrica-philips). Y si querés una pava de [acero inoxidable sin control](/guias/pava-electrica-acero-inoxidable), esa es otra categoría." },
+      { type: "p", content: "Si solo hervís agua sin control de temperatura, la [Atma PEAT1351](https://meli.la/1mMbqaY) sale {{precio:MLA49199049}} y hace el mismo trabajo con interior de acero. Si priorizás durabilidad sobre control, mirá la [guía de pava Philips](/guias/pava-electrica-philips). Y si querés una pava de [acero inoxidable sin control](/guias/pava-electrica-acero-inoxidable), esa es otra categoría." },
     ],
     faq: [
       { question: "¿Por qué Atma es mejor que modelos más caros?", answer: "La [Atma](https://meli.la/2uprqZS) tiene 6 niveles de temperatura por {{precio:MLA19589519}}. El [Oster 4970B](https://meli.la/31ihPzQ) tiene 3 niveles por {{precio:MLA11145437}}. La [Peabody DK1850](https://meli.la/2T7Y1zd) tiene 4 preset por {{precio:MLA14263533}}. Atma tiene más control por menos plata. La única desventaja es material: plástico vs acero." },
@@ -11009,7 +11009,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       "8 pavas de acero comparadas. El acero no toma olor después de 2 años. Kanji (budget) y Peabody DK1850 (premium) son las mejores compras.",
     h1: "Pava Eléctrica Acero Inoxidable: ¿Cuál Comprar en 2026?",
     publishedDate: "2026-06-13",
-    updatedDate: "2026-08-31",
+    updatedDate: "2026-11-02",
     hasDisclosure: true,
     standfirst: "Comparamos las pavas de acero inoxidable que se consiguen hoy en Argentina: acero completo vs interior, control de temperatura o no, y por qué el acero no toma olor como el plástico.",
     quickPicks: [
@@ -11019,7 +11019,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { productMlaId: "MLA47275624", label: "Control continuo", labelColor: "purple", tagline: "Temperatura exacta de 40 a 100°, el rating más alto (4.9)" },
     ],
     intro: [
-      "Comparamos ocho pavas de acero disponibles en Argentina (una de ellas, una publicación nueva sin reseñas todavía). Los precios van de {{precio:MLA20027329}} a {{precio:MLA8993736}}. El acero tiene una ventaja real sobre plástico y vidrio: no toma olor después de dos años. Si el material no es tu prioridad y buscás la mejor pava eléctrica en general (de cualquier material), mirá nuestra [guía completa de pava eléctrica](/guias/pava-electrica).",
+      "Comparamos ocho pavas de acero disponibles en Argentina. Los precios van de {{precio:MLA20027329}} a {{precio:MLA54676373}}. El acero tiene una ventaja real sobre plástico y vidrio: no toma olor después de dos años. Si el material no es tu prioridad y buscás la mejor pava eléctrica en general (de cualquier material), mirá nuestra [guía completa de pava eléctrica](/guias/pava-electrica).",
       "Las pavas de plástico que después de año y medio empiezan a oler raro no se arreglan limpiando con vinagre o detergente: el olor persiste. Con acero nunca pasa eso. Después de tres años el agua sigue sabiendo igual que el primer día.",
       "La [Kanji](https://meli.la/1f9jqdT) por {{precio:MLA20027329}} es la más barata con acero. Si tu presupuesto es medio, la [Peabody DK1850](https://meli.la/2T7Y1zd) por {{precio:MLA14263533}} tiene acero completo y 4 preset de temperatura. La [Oster 8970](https://meli.la/1jdC3sW) hace básicamente lo mismo que la Peabody DK1850 por {{preciodif:MLA8993736:MLA14263533}} más — la diferencia es pura marca.",
     ],
@@ -11042,25 +11042,25 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "h2", title: "El ranking: mejores pavas de acero inoxidable", id: "ranking" },
 
       { type: "h3", title: "1. Peabody PE-DK1850 — mejor acero completo" },
-      { type: "product-card", productMlaId: "MLA14263533", label: "Mejor acero completo", labelColor: "green", ranking: 1, description: "Acero inoxidable completo, 1.7L, 2200W, 4 preset de temperatura (50°/70°/80°/100°), pantalla digital. 4.7 estrellas en 1.554 calificaciones." },
+      { type: "product-card", productMlaId: "MLA14263533", label: "Mejor acero completo", labelColor: "green", ranking: 1, description: "Acero inoxidable completo, 1.7L, 2200W, 4 preset de temperatura (50°/70°/80°/100°), pantalla digital. 4.7 estrellas en {{reviews:MLA14263533}} calificaciones." },
       { type: "p", content: "Tiene todo lo importante: acero completo, 4 preset que cubren té blanco, té verde, mate y hervir, y pantalla digital. Cuesta {{preciodif:MLA14263533:MLA20027329}} más que la Kanji (acero completo vs básico, 4 preset vs 2 niveles) y {{preciodif:MLA8993736:MLA14263533}} menos que la Oster 8970, que hace exactamente lo mismo." },
       { type: "pull-quote", content: "Si estás leyendo opiniones para decidirte, no leas más, comprá de una. La pava es excelente [...] La temperatura de 80°c para mí es la ideal para el mate [...] Yo volvería a comprar y definitivamente la recomiendo.", attribution: "— Comprador verificado en MercadoLibre, hace más de 1 año · 33 personas lo encontraron útil" },
 
       { type: "h3", title: "2. Kanji KJH-PE15002M — más económica" },
-      { type: "product-card", productMlaId: "MLA20027329", label: "Más económica", labelColor: "amber", ranking: 2, description: "Interior de acero inoxidable, 1.8L, 1500W, 2 niveles de control con selector mecánico. La más barata de la lista con algo de acero: 4.5 estrellas en 3.793 calificaciones." },
-      { type: "p", content: "Para presupuesto muy ajustado, es la entrada más sensata: acero (interior) y 2 niveles de control por menos que cualquier otra de la lista. Es más barata que la Liliana AP152, que ni siquiera tiene control de temperatura." },
+      { type: "product-card", productMlaId: "MLA20027329", label: "Más económica", labelColor: "amber", ranking: 2, description: "Interior de acero inoxidable, 1.8L, 1500W, 2 niveles de control con selector mecánico. La más barata de la lista con algo de acero: 4.5 estrellas en {{reviews:MLA20027329}} calificaciones." },
+      { type: "p", content: "Para presupuesto muy ajustado, es la entrada más sensata: acero (interior) y 2 niveles de control por menos que cualquier otra de la lista. Es más barata que la Liliana AP152, que no tiene selector variable de temperatura." },
 
       { type: "h3", title: "3. Philips HD9350 — mejor durabilidad" },
-      { type: "product-card", productMlaId: "MLA24601443", label: "Mejor durabilidad", labelColor: "purple", ranking: 3, description: "Acero SUS304 de grado alimentario, 1.7L, sin control de temperatura. La que más dura de la comparativa: hasta 4 años y medio con uso diario. 4.7 estrellas en 230 calificaciones." },
+      { type: "product-card", productMlaId: "MLA24601443", label: "Mejor durabilidad", labelColor: "purple", ranking: 3, description: "Acero SUS304 de grado alimentario, 1.7L, sin control de temperatura. La que más dura de la comparativa: hasta 4 años y medio con uso diario. 4.7 estrellas en {{reviews:MLA24601443}} calificaciones." },
       { type: "p", content: "No tiene ningún control de temperatura, así que cuesta {{preciodif:MLA14263533:MLA24601443}} menos que la Peabody DK1850. La ventaja real es la durabilidad: acero SUS304 de grado alimentario que aguantó 4 años y medio de uso diario en nuestra prueba, más que cualquier otro modelo de esta lista." },
 
       { type: "h3", title: "4. Liliana AP152 — solo hervir, sin vueltas" },
-      { type: "product-card", productMlaId: "MLA61505857", label: "Rápida y simple", labelColor: "amber", ranking: 4, description: "Acero inoxidable completo, 1.7L, 1500W, selector mate fijo, base giratoria 360°, filtro removible. 4.7 estrellas en 614 calificaciones." },
+      { type: "product-card", productMlaId: "MLA61505857", label: "Rápida y simple", labelColor: "amber", ranking: 4, description: "Acero inoxidable completo, 1.7L, 1500W, selector mate fijo, base giratoria 360°, filtro removible. 4.7 estrellas en {{reviews:MLA61505857}} calificaciones." },
       { type: "p", content: "Si solo hervís agua sin necesitar control de temperatura, esta es la opción directa: acero completo, selector mate fijo y base giratoria. Es la pava de acero completo más barata del catálogo. No trae mapeo de temperaturas ni pantalla, pero tampoco lo necesitás si tu uso es simple." },
 
-      { type: "h3", title: "5. Atma PEAT1351 — interior acero, publicación nueva" },
-      { type: "product-card", productMlaId: "MLAU4016948916", label: "Interior acero", labelColor: "amber", ranking: 5, description: "Interior de acero inoxidable, exterior plástico, 1.8L, 1500W. Publicación nueva de otro vendedor: la anterior, con miles de reseñas, se agotó." },
-      { type: "p", content: "Mismo modelo de siempre, ahora en una publicación distinta. Interior de acero, 1.8L (la mayor capacidad de esta lista junto con la Kanji), sin control de temperatura. La diferencia real frente a la Liliana AP152: cuesta {{preciodif:MLAU4016948916:MLA61505857}} más y el exterior es plástico, no acero completo. Elegís esta si preferís la marca Atma específicamente o si la Liliana no tiene stock; si no, la Liliana AP152 rinde igual por menos." },
+      { type: "h3", title: "5. Atma PEAT1351 — interior acero, catálogo consolidado" },
+      { type: "product-card", productMlaId: "MLA49199049", label: "Interior acero", labelColor: "amber", ranking: 5, description: "Interior de acero inoxidable, exterior plástico, 1.8L, 1500W. Catálogo consolidado de MercadoLibre, con {{reviews:MLA49199049}} calificaciones." },
+      { type: "p", content: "Mismo modelo de siempre. Interior de acero, 1.8L (la mayor capacidad de esta lista junto con la Kanji), sin control de temperatura. La diferencia real frente a la Liliana AP152: cuesta {{preciodif:MLA49199049:MLA61505857}} más y el exterior es plástico, no acero completo. Elegís esta si preferís la marca Atma específicamente; si no, la Liliana AP152 rinde igual por menos." },
 
       { type: "h3", title: "6. Liliana Safeheat AAP992N — premium híbrida" },
       { type: "product-card", productMlaId: "MLA54676373", label: "Premium", labelColor: "purple", ranking: 6, description: "Doble pared (interior acero, exterior plástico), 7 niveles de temperatura, mantiene caliente, pantalla digital. 4.8 estrellas." },
@@ -11081,7 +11081,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
           ["[Kanji KJH-PE15002M](https://meli.la/1f9jqdT)", "{{precio:MLA20027329}}", "2 niveles", "Interior", "Presupuesto muy ajustado"],
           ["[Philips HD9350](https://meli.la/2kpg1Zr)", "{{precio:MLA24601443}}", "No", "Completo", "Máxima durabilidad"],
           ["[Liliana AP152](https://meli.la/1QMfKob)", "{{precio:MLA61505857}}", "No", "Completo", "Solo hervir, sin vueltas"],
-          ["[Atma PEAT1351](https://meli.la/1rMrWSu)", "{{precio:MLAU4016948916}}", "No", "Interior", "Marca conocida, publicación nueva"],
+          ["[Atma PEAT1351](https://meli.la/1mMbqaY)", "{{precio:MLA49199049}}", "No", "Interior", "Marca conocida, {{reviews:MLA49199049:k}} calificaciones"],
           ["[Liliana Safeheat AAP992N](https://meli.la/2kApAsJ)", "{{precio:MLA54676373}}", "7 niveles", "Híbrida", "Máximo control + mantener caliente"],
           ["[Peabody PE-DK2200N](https://meli.la/2cyQgD2)", "{{precio:MLA47275624}}", "Continuo", "Completo", "Infusiones exactas"],
           ["[Oster 8970](https://meli.la/1jdC3sW)", "{{precio:MLA8993736}}", "4 niveles", "Completo", "No recomendada: igual que la Peabody DK1850 por más"],
@@ -11094,7 +11094,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
 
       { type: "h2", title: "Durabilidad real: 3-4 años" },
       { type: "p", content: "Usé pavas de acero durante cuatro años. [Philips HD9350](https://meli.la/2kpg1Zr): 4 años y medio (murió por termostato). [Peabody PE-DK1850](https://meli.la/2T7Y1zd): 3 años y 8 meses (resistencia eléctrica). Promedio: 4 años y 1 mes. Lo que falla es termostato, resistencia, o base — no el material." },
-      { type: "p", content: "Pavas de plástico duran aproximadamente 2.5 años antes que el olor sea molesto. Pavas de vidrio duran 2.5 años antes que las manchas de sarro sean permanentes. Matemática del precio por año, con los precios de hoy: [Kanji](https://meli.la/1f9jqdT) {{precio:MLA20027329:k}} ÷ 3 años ≈ $6.100 por año. [Peabody DK1850](https://meli.la/2T7Y1zd) {{precio:MLA14263533:k}} ÷ 3.5 años ≈ $18.800 por año. [Oster 8970](https://meli.la/1jdC3sW) {{precio:MLA8993736:k}} ÷ 3.5 años ≈ $28.600 por año — la más cara por año sin justificación." },
+      { type: "p", content: "Pavas de plástico duran aproximadamente 2.5 años antes que el olor sea molesto. Pavas de vidrio duran 2.5 años antes que las manchas de sarro sean permanentes. Matemática del precio por año, con los precios de hoy: [Kanji](https://meli.la/1f9jqdT) {{precio:MLA20027329:k}} ÷ 3 años ≈ $8.300 por año. [Peabody DK1850](https://meli.la/2T7Y1zd) {{precio:MLA14263533:k}} ÷ 3.5 años ≈ $17.600 por año. [Oster 8970](https://meli.la/1jdC3sW) {{precio:MLA8993736:k}} ÷ 3.5 años ≈ $28.000 por año — la más cara por año sin justificación." },
 
       { type: "h2", title: "Veredicto: cuál comprar", id: "veredicto" },
       { type: "verdict", content: "Comprá la [Peabody PE-DK1850](https://meli.la/2T7Y1zd) por {{precio:MLA14263533}} si tu presupuesto es medio: acero completo, 4 preset, pantalla digital, dura 3-4 años. ¿Presupuesto muy ajustado? La [Kanji](https://meli.la/1f9jqdT) por {{precio:MLA20027329}}. ¿Solo hervís agua sin control? La [Liliana AP152](https://meli.la/1QMfKob) por {{precio:MLA61505857}}." },
@@ -11106,7 +11106,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { question: "¿Cuánto dura una pava de acero?", answer: "Entre 3 y 4 años con uso diario. Lo que falla es termostato, resistencia, o base. El acero no se degrada. El interior sigue perfecto. Philips dura 4-5 años. Otras marcas 3-4 años." },
       { question: "¿Vale pagar más por acero vs plástico?", answer: "Depende. Acero dura 3-4 años sin tomar olor. Plástico dura 2-3 años y después huele. El costo por año termina siendo parecido entre ambos materiales. La ventaja real del acero no es el precio: es que no toma olor." },
       { question: "¿Por qué Peabody es mejor que Oster?", answer: "La [Peabody DK1850](https://meli.la/2T7Y1zd) por {{precio:MLA14263533}} hace exactamente lo mismo que la [Oster 8970](https://meli.la/1jdC3sW) por {{precio:MLA8993736}}: acero completo, 4 niveles de temperatura, pantalla digital. La diferencia de {{preciodif:MLA8993736:MLA14263533}} es solo marca. Oster mantiene caliente 30 minutos, pero esa diferencia no justifica pagar tanto más." },
-      { question: "¿La Kanji es buena opción?", answer: "Sí, para presupuesto muy ajustado. Tiene acero (interior) + 2 niveles de control, a {{precio:MLA20027329}}. Es más barata que la [Liliana AP152](https://meli.la/1QMfKob) que ni siquiera tiene control de temperatura. Dura alrededor de 3 años. Mejor opción ultra-budget del grupo." },
+      { question: "¿La Kanji es buena opción?", answer: "Sí, para presupuesto muy ajustado. Tiene acero (interior) + 2 niveles de control, a {{precio:MLA20027329}}. Es más barata que la [Liliana AP152](https://meli.la/1QMfKob) que no tiene selector variable de temperatura. Dura alrededor de 3 años. Mejor opción ultra-budget del grupo." },
       { question: "¿Control de temperatura vale la pena en acero?", answer: "Sí. La [Peabody DK1850](https://meli.la/2T7Y1zd) con 4 preset no cuesta mucho más que la [Philips HD9350](https://meli.la/2kpg1Zr), que no tiene ningún control. Por poco más tenés mate a 80°, té verde a 70°, té blanco a 50°. Vale completamente la pena." },
     ],
     internalLinksTitle: "Relacionado",
@@ -11179,7 +11179,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "p", content: "Consume solo 800W vs 1850-2200W de otras pavas, así que hierve un poco más lento (5-6 minutos vs 3). Tiene sentido si tomás té en hebras regularmente y necesitás algo un poco más chico que las pavas estándar." },
 
       { type: "h3", title: "2. Liliana Safeheat AAP992N — alternativa compacta" },
-      { type: "product-card", productMlaId: "MLA54676373", label: "Alternativa compacta", labelColor: "blue", ranking: 2, description: "Interior acero inoxidable, exterior plástico, 1.5L, 1500W, 7 niveles de temperatura, pantalla digital, función mantener caliente. 4.8 estrellas en 204 calificaciones." },
+      { type: "product-card", productMlaId: "MLA54676373", label: "Alternativa compacta", labelColor: "blue", ranking: 2, description: "Interior acero inoxidable, exterior plástico, 1.5L, 1500W, 7 niveles de temperatura, pantalla digital, función mantener caliente. 4.8 estrellas en {{reviews:MLA54676373}} calificaciones." },
       { type: "p", content: "Cuesta {{preciodif:MLA54676373:MLA50312411}} más que la Daewoo. La diferencia: tiene más potencia (1500W vs 800W) pero no tiene infusor profesional. Elegí según si te importa más la potencia o el infusor." },
 
       { type: "h2", title: "Alternativa: pavas para auto de 12V" },

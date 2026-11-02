@@ -16,6 +16,26 @@
 **Archivos involucrados:** `path/a/archivo.ts`
 -->
 
+## 2026-11-02 — Un swap de vendedor a medias dejó el campo `id` de una ficha desincronizado de su propio link, y nada automático lo detectó
+
+**Qué pasó:** al refrescar `pava-electrica-acero-inoxidable`, uno de los 8 productos (Atma PEAT1351) tenía el link de afiliado roto: `meli.la/1rMrWSu` ya no llevaba al producto, redirigía a una página social genérica sin ningún error visible. Investigando encontré que una sesión anterior (2026-10-31) ya había hecho un swap de vendedor por falta de stock, documentado en un comentario de código, pero solo había actualizado `permalink` y `affiliateUrl` — el campo `id` de la ficha seguía apuntando al ID viejo y muerto. `guides:check` nunca lo marcó porque el `productMlaId` SÍ existía en el catálogo (apuntaba a una ficha real), solo que esa ficha tenía datos de un producto que ya no se podía comprar por ese link.
+
+**Por qué:** cuando se actualiza un `id` de ficha a mano tras un swap de vendedor, es fácil actualizar los campos "visibles" (precio, permalink, affiliateUrl) y olvidar el campo `id` en sí, porque no aparece en ningún render de la página — es puramente interno. Ningún checker automático valida que `id` coincida con lo que dicen `permalink`/`affiliateUrl`, porque asume que son siempre consistentes.
+
+**Cómo evitarlo:** al cerrar un swap de vendedor, revisar explícitamente que el campo `id` de la ficha sea el mismo ID que aparece en el `permalink` nuevo. Y en términos generales: no confiar en que el `id` de una ficha es el canónico solo porque `guides:check` no se quejó — si un producto viene de un swap documentado en comentarios, navegar al `affiliateUrl` real antes de dar el refresh por cerrado.
+
+**Archivos involucrados:** `src/data/curated-products.ts` (antes `MLAU4016948916`, ahora `MLA49199049`)
+
+## 2026-11-02 — Extraje un link de afiliado por WhatsApp en vez del generador oficial
+
+**Qué pasó:** al necesitar el link de afiliado de un producto de reemplazo, usé el botón "Compartir → WhatsApp" de la ficha de MercadoLibre para capturar la URL `meli.la` del texto pre-armado, en vez de usar el Link Builder oficial (`mercadolibre.com.ar/afiliados/linkbuilder`). Juan me corrigió en el momento.
+
+**Por qué:** el atajo de WhatsApp funciona (genera un link `meli.la` válido), pero no deja verificar a simple vista qué etiqueta de afiliado quedó asociada al link — el Link Builder sí muestra y permite elegir la etiqueta ("productosvirales" vs. otras como "productosviralesthreads" o "internacionales"), así que es el único método que garantiza la atribución correcta.
+
+**Cómo evitarlo:** generar siempre los links de afiliado nuevos desde `https://www.mercadolibre.com.ar/afiliados/linkbuilder#hub`, verificando que la etiqueta en uso sea "productosvirales" antes de generar. No usar atajos de compartir (WhatsApp, Mail, etc.) como fuente del link.
+
+**Archivos involucrados:** ninguno (proceso, no código)
+
 ## 2026-11-02 — Sustituí el token {{reviews:ID}} dentro de un desglose "X de 5 estrellas", pero el token resuelve al TOTAL
 
 **Qué pasó:** durante el refresh de `cafetera-automatica`, varias fichas tenían frases tipo "97 personas pusieron 5 estrellas, 10 pusieron 4 y el resto 3 o menos" con números literales viejos. Al actualizar el reviewCount, reemplacé el primer número de esos desgloses por el token `{{reviews:ID}}` pensando que servía como "placeholder genérico de un número real" — pero el token resuelve al TOTAL de reseñas, no al subconjunto de 5 estrellas. El resultado: sumas matemáticamente imposibles (ej. 256 + 24 + 25 sobre un total de 256). Pasó 4 veces en fichas distintas (Oster EM7301, Peabody PE-CE5023IX, Peabody PE-CE5010N x2, Oster BVSTEM5501B) antes de que el trío auditor lo atrapara en rondas 3 y 4 — no lo noté yo mismo ni la primera ni la segunda vez que lo repetí.

@@ -32367,15 +32367,15 @@ Esta ATMA no tiene función mate ni control de temperatura variable. Si tomás m
     relatedProducts: ['MLA11145436', 'MLA24601443', 'MLA47275624', 'MLA47183370'],
   },
   {
-    id: 'MLAU4016948916',
+    id: 'MLA49199049',
     title: 'Pava Eléctrica Atma PEAT1351WP — Interior Acero Inoxidable, 1.8L, 1500W, Blanca',
     canonicalName: 'Pava Eléctrica Atma PEAT1351 Blanca',
     brand: "Atma",
-    price: 36999,
-    priceLastChecked: "2026-10-31",
-    priceUpdated: "2026-10-31",
+    price: 49999,
+    priceLastChecked: "2026-11-02",
+    priceUpdated: "2026-11-02",
     priceStatus: "fresh",
-    priceVerifiedAt: "2026-10-31",
+    priceVerifiedAt: "2026-11-02",
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_869906-MLA114993395092_082026-F.webp',
     images: [
@@ -32384,47 +32384,47 @@ Esta ATMA no tiene función mate ni control de temperatura variable. Si tomás m
     category: 'Cocina',
     categorySlug: 'cocina',
     visibility: 'normal',
-    // Publicación anterior (MLAU4016948916, mismo vendedor) se quedó sin
-    // stock, verificado en vivo el 2026-10-31 ("no está disponible. Elige
-    // otra variante", única variante). Swap de vendedor: mismo modelo exacto
-    // (Atma PEAT1351WP, misma ficha técnica), catálogo MLA49199049 / item
-    // MLA2177080184, vendedor PHOTOSTORE, badge MÁS VENDIDO. Volver a la
-    // publicación anterior si recupera stock — permalink viejo comentado abajo.
-    // permalink viejo: "https://www.mercadolibre.com.ar/pava-electrica-1500w-18-litros-atma-blanco-peat1351wp/up/MLAU4016948916"
+    // El `id` quedó desincronizado del permalink/affiliateUrl reales desde el
+    // swap de vendedor del 2026-10-31 (nunca se actualizó el campo `id`,
+    // solo permalink/affiliateUrl). Corregido el 2026-11-02: catálogo
+    // consolidado "Mercado Libre" (MLA49199049), +1M ventas de la tienda,
+    // 7.980 calificaciones propias — ya NO es "publicación nueva sin
+    // reseñas" como decía la prosa vieja.
     permalink: 'https://www.mercadolibre.com.ar/pava-electrica-1500w-18-litros-atma-blanco/p/MLA49199049',
     affiliateUrl: 'https://meli.la/1mMbqaY',
     condition: 'new',
     freeShipping: false,
-    soldQuantity: 5,
+    rating: 4.7,
+    reviewCount: 7980,
+    reviewsSampledAt: "2026-11-02",
+    soldQuantity: 5000,
     pastelColor: 'var(--pastel-coral)',
-    description: 'Pava eléctrica ATMA PEAT1351 con interior de acero inoxidable. Exterior plástico blanco. 1500W, corte automático a 100°C, filtro, indicador de nivel de agua. Sin control de temperatura variable. Publicación nueva de otro vendedor: mismo modelo de siempre, sin historial de reseñas todavía.',
+    description: 'Pava eléctrica ATMA PEAT1351 con interior de acero inoxidable. Exterior plástico blanco. 1500W, corte automático a 100°C, filtro, indicador de nivel de agua. Sin control de temperatura variable. Catálogo consolidado de MercadoLibre, con {{reviews:MLA49199049}} calificaciones propias.',
     pros: [
       'Interior de acero inoxidable — agua sin sabor a plástico',
       '1.8L de capacidad',
       'Marca argentina con service en todo el país',
-      'Vendedor MercadoLíder Platinum, más de 1.000 ventas como tienda',
+      '4.7⭐ con {{reviews:MLA49199049}} calificaciones — catálogo consolidado de MercadoLibre, +1M ventas de la tienda',
       'Filtro y corte automático',
     ],
     cons: [
-      'Publicación nueva: todavía no acumuló reseñas propias',
       'Sin control de temperatura — solo hierve a 100°C',
       'Sin función mate',
       'Exterior plástico (no acero completo)',
-      'Solo 5 unidades vendidas hasta el momento en esta publicación puntual',
     ],
-    verdict: 'Es el mismo modelo ATMA PEAT1351 de siempre —interior de acero, 1.8L, 1500W— pero en una publicación nueva de otro vendedor, después de que la original se agotara. Todavía no tiene historial de reseñas propio, así que no podemos repetir el argumento de "la más votada": lo que sí se sostiene es la ficha técnica (idéntica a la de siempre) y que la vende un MercadoLíder Platinum con más de 1.000 ventas como tienda.',
+    verdict: 'Es el mismo modelo ATMA PEAT1351 de siempre —interior de acero, 1.8L, 1500W— ahora en el catálogo consolidado de MercadoLibre: 4.7⭐ con {{reviews:MLA49199049}} calificaciones propias y más de un millón de ventas de la tienda. La ficha técnica es la misma de siempre, y acá sí hay historial de reseñas real para respaldarla.',
     seoTitle: "Pava Eléctrica ATMA Blanca Acero Inox 1.8L 1500W",
-    metaDescription: 'Pava eléctrica ATMA PEAT1351 blanca, interior acero inoxidable, 1.8L, 1500W. Publicación nueva de otro vendedor tras agotarse la original: mismo modelo, sin reseñas propias todavía.',
+    metaDescription: 'Pava eléctrica ATMA PEAT1351 blanca, interior acero inoxidable, 1.8L, 1500W. {{reviews:MLA49199049}} calificaciones en MercadoLibre.',
     ogTitle: 'Pava eléctrica ATMA blanca — interior acero inoxidable, 1.8L, 1500W',
-    ogDescription: 'El mismo modelo ATMA PEAT1351 de siempre, ahora en blanco y de otro vendedor. Interior de acero inoxidable, 1.8L, 1500W, corte automático. Ver precio →',
+    ogDescription: 'El mismo modelo ATMA PEAT1351 de siempre, interior de acero inoxidable, 1.8L, 1500W, corte automático. {{reviews:MLA49199049}} calificaciones. Ver precio →',
     h1: 'Pava eléctrica ATMA blanca — interior de acero inoxidable, 1.8L',
     articleBody: `El interior de acero inoxidable no es un detalle de marketing — es la diferencia entre una pava que le agrega sabor al agua y una que no. Las pavas de plástico interior, especialmente las nuevas, transfieren un leve gusto metálico o plástico al agua caliente. El acero inoxidable no hace eso: el agua hierve, sale, y tiene el sabor que tenía cuando entró.
 
-La ATMA PEAT1351 tiene el exterior en plástico (en esta publicación, blanco) y el interior del jarro en acero inoxidable. Es exactamente el mismo modelo que circuló durante meses en el catálogo — la publicación original se agotó y esta es de otro vendedor.
+La ATMA PEAT1351 tiene el exterior en plástico (en esta publicación, blanco) y el interior del jarro en acero inoxidable. Es exactamente el mismo modelo que circuló durante meses en el catálogo.
 
-## Por qué esta ficha no habla de reseñas
+## Volumen de reseñas
 
-La publicación original de esta pava tenía miles de calificaciones acumuladas y era, por lejos, la de mayor respaldo del catálogo de pavas. Esa publicación se agotó. Esta es una publicación nueva, de otro vendedor, con apenas unas pocas ventas hasta el momento: no tiene historial de reseñas propio. No vamos a inventar ni a copiar el argumento de "la más votada" para un listado que recién arranca. Lo que sí podemos afirmar con certeza es la ficha técnica, que es la misma de siempre, y que el vendedor es un MercadoLíder Platinum con más de 1.000 ventas como tienda (no del producto puntual).
+Con {{reviews:MLA49199049}} calificaciones y 4.7 estrellas, es de las pavas con mayor respaldo del catálogo. La publicación vive en el catálogo consolidado de MercadoLibre, vendida con más de un millón de ventas acumuladas de la tienda.
 
 ## Lo que hace y lo que no hace
 
@@ -32458,9 +32458,9 @@ Esta ATMA no tiene función mate ni control de temperatura variable. Si tomás m
     ],
     faq: [
       {
-        question: '¿Por qué esta ficha no muestra calificaciones?',
+        question: '¿Cuántas calificaciones tiene esta pava?',
         answer:
-          'Es una publicación nueva, de un vendedor distinto al de la publicación original (que se agotó). Todavía no acumuló reseñas propias. Preferimos decir esto de frente antes que reciclar el argumento de "la más votada" de la publicación anterior, que ya no aplica acá.',
+          '{{reviews:MLA49199049}}, con 4.7 estrellas. Es el catálogo consolidado de MercadoLibre, con más de un millón de ventas acumuladas de la tienda.',
       },
       {
         question: '¿Por qué importa que el interior sea de acero inoxidable?',
@@ -32480,7 +32480,7 @@ Esta ATMA no tiene función mate ni control de temperatura variable. Si tomás m
       {
         question: '¿Es la misma pava que antes, solo que en otro color?',
         answer:
-          'Sí, mismo modelo PEAT1351, misma ficha técnica (interior acero, 1500W, 1.8L). Cambia el color (blanco en vez de negro), el vendedor y que esta publicación todavía no tiene historial de reseñas.',
+          'Sí, mismo modelo PEAT1351, misma ficha técnica (interior acero, 1500W, 1.8L). Cambia el color (blanco en vez de negro) y que ahora vive en el catálogo consolidado de MercadoLibre.',
       },
     ],
     relatedProducts: ['MLA11145436', 'MLA24601443', 'MLA47275624', 'MLA47183370'],
@@ -32490,11 +32490,12 @@ Esta ATMA no tiene función mate ni control de temperatura variable. Si tomás m
     title: 'Pava Eléctrica Philips HD9350 — Acero SUS304, 1.7L',
     brand: "Philips",
     badge: 'trending',
-    price: 51999,
-    priceUpdated: "2026-10-09",
-    priceLastChecked: "2026-10-12",
+    price: 59999,
+    priceUpdated: "2026-11-02",
+    priceLastChecked: "2026-11-02",
+    priceVerifiedAt: "2026-11-02",
     priceStatus: "fresh",
-    originalPrice: 80000,
+    originalPrice: 69999,
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_2X_883402-MLA99440961426_112025-F.webp',
     images: [
@@ -32510,7 +32511,7 @@ Esta ATMA no tiene función mate ni control de temperatura variable. Si tomás m
     condition: 'new',
     freeShipping: false,
     rating: 4.7,
-    reviewCount: 378,
+    reviewCount: 435,
     soldQuantity: 500,
     pastelColor: 'var(--pastel-coral)',
     description: 'Pava eléctrica Philips Daily Collection con cuerpo en acero inoxidable SUS304 apto para uso alimentario, filtro de micromalla desmontable de 200 micrones, Controlador Strix UK. 1.7L, 1850-2200W, base giratoria 360°, garantía 2 años.',
@@ -32527,7 +32528,7 @@ Esta ATMA no tiene función mate ni control de temperatura variable. Si tomás m
       'Sin control de temperatura — solo hierve a 100°C',
       'Sin función mate — no tiene selector de temperatura',
       '{{reviews:MLA24601443}} calificaciones — volumen moderado vs ATMA ({{reviews:MLA49747515}}) y Oster ({{reviews:MLA11145436}})',
-      'Precio más alto del catálogo ($52.499)',
+      '{{precio:MLA24601443}} — de las más caras del grupo comparado',
     ],
     verdict: 'Si vivís en zona de agua dura y buscás una pava que no transfiera sabores ni se rompa al año, la HD9350/90 tiene los componentes verificables para eso: SUS304, Controlador Strix y filtro desmontable. La garantía de 2 años es uno de los períodos más largos en la categoría dentro del mercado argentino. Lo que no tiene es control de temperatura — para mate, la Oster BVSTKT4970W lo resuelve con selector analógico.',
     seoTitle: 'Pava Eléctrica Philips HD9350 — Acero SUS304, 1.7L',
@@ -32593,7 +32594,7 @@ La garantía es de 2 años, que Philips cubre a través de su red de service ofi
       { label: 'Peso', value: '973g' },
       { label: 'Dimensiones', value: '15 × 22 × 25 cm' },
       { label: 'Garantía', value: '2 años (Philips Argentina)' },
-      { label: 'Rating', value: '4.7 ⭐ (85 calificaciones — incluye opiniones de otros países)' },
+      { label: 'Rating', value: '4.7 ⭐ ({{reviews:MLA24601443}} calificaciones — incluye opiniones de otros países)' },
     ],
     faq: [
       {
@@ -32640,14 +32641,14 @@ La garantía es de 2 años, que Philips cubre a través de su red de service ofi
         '@type': 'Offer',
         url: 'https://meli.la/2kpg1Zr',
         priceCurrency: 'ARS',
-        price: 52499,
+        price: 59999,
         availability: 'https://schema.org/InStock',
         seller: { '@type': 'Organization', name: 'MercadoLibre' },
       },
       aggregateRating: {
         '@type': 'AggregateRating',
         ratingValue: '4.7',
-        reviewCount: '85',
+        reviewCount: '435',
       },
     },
     relatedProducts: ['MLA49747515', 'MLA11145436', 'MLA47275624', 'MLA47183370'],
@@ -32657,9 +32658,10 @@ La garantía es de 2 años, que Philips cubre a través de su red de service ofi
     title: 'Pava Eléctrica Peabody Digital — 40–100°C y Función Mate',
     brand: "Peabody",
     badge: 'viral',
-    price: 75140,
-    priceUpdated: "2026-10-07",
-    priceLastChecked: "2026-10-12",
+    price: 78699,
+    priceUpdated: "2026-11-02",
+    priceLastChecked: "2026-11-02",
+    priceVerifiedAt: "2026-11-02",
     priceStatus: "fresh",
     originalPrice: 99999,
     currency: 'ARS',
@@ -32678,7 +32680,7 @@ La garantía es de 2 años, que Philips cubre a través de su red de service ofi
     condition: 'new',
     freeShipping: false,
     rating: 4.9,
-    reviewCount: 1320,
+    reviewCount: 1466,
     soldQuantity: 1000,
     pastelColor: 'var(--pastel-coral)',
     description: 'Pava eléctrica Peabody con display LED y panel touch, temperatura regulable de 40°C a 100°C, función mate, keep warm hasta 2 horas, función memoria (recuerda configuración 30 min ante cortes de luz), interior acero inoxidable, doble pared, Termostato Strix, 1.5L, 2200W.',
@@ -32695,14 +32697,14 @@ La garantía es de 2 años, que Philips cubre a través de su red de service ofi
     cons: [
       'Cable de 0.75m — el más corto del catálogo, puede ser justo',
       '1.5L de capacidad — menor que ATMA (1.8L) y Oster/Philips (1.7L)',
-      'Precio más alto del catálogo ($69.999)',
+      '{{precio:MLA47275624}} — de las más caras del catálogo',
       'Sin infusor incluido',
     ],
     verdict: 'Las otras pavas del sitio hacen una cosa: hervir agua a 100°C. La Peabody PE-DK2200N hace todo con un display LED y un panel táctil que te deja elegir cualquier temperatura entre 40 y 100°C. Y después la mantiene hasta 2 horas. Con 4.9⭐ sobre {{reviews:MLA47275624}} calificaciones es la pava con mejor rating del catálogo. El cable corto (0.75m) y la capacidad menor (1.5L) son los únicos puntos donde las otras le ganan.',
     seoTitle: 'Pava Peabody PE-DK2200N digital 1,5 litros: precio y review',
     metaDescription: 'Review de la Peabody PE-DK2200N digital negra de 1,5 litros: control 40-100°C, función mate, keep warm 2 h, precio actualizado y contras reales.',
     ogTitle: 'Pava Eléctrica Peabody PE-DK2200N — Display LED, 40–100°C, Función Mate y Keep Warm 2h',
-    ogDescription: 'Display LED táctil, temperatura seleccionable de 40° a 100°C, función mate, mantiene temperatura 2 h y función memoria para cortes de luz. 4.9⭐ / 929 cal.',
+    ogDescription: 'Display LED táctil, temperatura seleccionable de 40° a 100°C, función mate, mantiene temperatura 2 h y función memoria para cortes de luz. 4.9⭐ / {{reviews:MLA47275624:k}} cal.',
     h1: 'Pava eléctrica Peabody PE-DK2200N: display LED touch, 40°C a 100°C, función mate y keep warm 2 horas',
     articleBody: `Las otras pavas eléctricas de este sitio hacen una cosa: hervir agua a 100°C. Algunas tienen control analógico de temperatura, un par tienen función mate. La Peabody PE-DK2200N hace todo eso con un display LED en el cuerpo y un panel táctil que te deja elegir cualquier temperatura entre 40 y 100°C en incrementos de 5 grados. Y después mantiene esa temperatura hasta dos horas.
 
@@ -32712,7 +32714,7 @@ Con 4.9 estrellas sobre {{reviews:MLA47275624}} calificaciones, es el producto c
 
 El cuerpo negro tiene un display LED frontal que muestra la temperatura seleccionada. Cuatro botones táctiles: flecha arriba (sube temperatura), flecha abajo (baja temperatura), power y el ícono de keep warm. No hay perilla ni graduaciones físicas. Todo desde la pantalla.
 
-Los 290 comentarios confirman que la respuesta al tacto es precisa y que el display es legible de noche.
+Los comentarios de compradores confirman que la respuesta al tacto es precisa y que el display es legible de noche.
 
 ## 40°C a 100°C: por qué importa el rango completo
 
@@ -32746,7 +32748,7 @@ Dos cosas que vale la pena tener en cuenta. El cable mide 0.75 metros — si el 
 
 ## Calificaciones
 
-4.9⭐ sobre {{reviews:MLA47275624}} calificaciones y 290 comentarios. El resumen de ML: "La pava eléctrica destaca por su capacidad de calentar el agua rápidamente y mantenerla caliente, además de permitir seleccionar la temperatura ideal para diferentes preparaciones. En general, es un producto de buena calidad y funcionalidad, con un interior de acero inoxidable que asegura durabilidad."`,
+4.9⭐ sobre {{reviews:MLA47275624}} calificaciones. El resumen de ML: "La pava eléctrica destaca por su capacidad de calentar el agua rápidamente y mantenerla caliente, además de permitir seleccionar la temperatura ideal para diferentes preparaciones. En general, es un producto de buena calidad y funcionalidad, con un interior de acero inoxidable que asegura durabilidad."`,
     specs: [
       { label: 'Marca', value: 'Peabody' },
       { label: 'Modelo', value: 'PE-DK2200N' },
@@ -32766,7 +32768,7 @@ Dos cosas que vale la pena tener en cuenta. El cable mide 0.75 metros — si el 
       { label: 'Cable', value: '0.75m ⚠️' },
       { label: 'Corte automático', value: 'Sí + doble protección de seguridad' },
       { label: 'Guardacable', value: 'Sí' },
-      { label: 'Rating', value: '4.9 ⭐ (929 calificaciones — 290 comentarios)' },
+      { label: 'Rating', value: '4.9 ⭐ ({{reviews:MLA47275624}} calificaciones)' },
     ],
     faq: [
       {
@@ -32797,7 +32799,7 @@ Dos cosas que vale la pena tener en cuenta. El cable mide 0.75 metros — si el 
       {
         question: '¿Cuánto tarda en calentar?',
         answer:
-          'Con 2.200W es la pava más potente del catálogo — junto con la [Philips HD9396](/producto/pava-electrica-philips-hd9396-1-7l-doble-pared-y-6-temp-mla47183370) y la [Peabody PE-DK1850](/producto/peabody-pe-dk1850-pava-electrica-de-acero-con-4-niveles-mla14263533). El calentamiento es rápido según los 290 comentarios.',
+          'Con 2.200W es la pava más potente del catálogo — junto con la [Philips HD9396](/producto/pava-electrica-philips-hd9396-1-7l-doble-pared-y-6-temp-mla47183370) y la [Peabody PE-DK1850](/producto/peabody-pe-dk1850-pava-electrica-de-acero-con-4-niveles-mla14263533). El calentamiento es rápido según los comentarios de compradores.',
       },
     ],
     structuredData: {
@@ -32813,14 +32815,14 @@ Dos cosas que vale la pena tener en cuenta. El cable mide 0.75 metros — si el 
         '@type': 'Offer',
         url: 'https://meli.la/2cyQgD2',
         priceCurrency: 'ARS',
-        price: 69999,
+        price: 78699,
         availability: 'https://schema.org/InStock',
         seller: { '@type': 'Organization', name: 'MercadoLibre' },
       },
       aggregateRating: {
         '@type': 'AggregateRating',
         ratingValue: '4.9',
-        reviewCount: '461',
+        reviewCount: '1466',
       },
     },
     relatedProducts: ['MLA49747515', 'MLA11145436', 'MLA24601443', 'MLA47183370'],
@@ -33245,10 +33247,10 @@ Si querés precisión de grado con display digital, el [Peabody PE-DK2200N](/pro
     brand: "Peabody",
     badge: 'trending',
     relatedProducts: ['MLA47275624', 'MLA24601443', 'MLA47183370', 'MLA49747515'],
-    price: 64690,
-    priceUpdated: "2026-10-07",
-    priceLastChecked: "2026-10-12",
-    priceVerifiedAt: "2026-09-18",
+    price: 61455,
+    priceUpdated: "2026-11-02",
+    priceLastChecked: "2026-11-02",
+    priceVerifiedAt: "2026-11-02",
     priceStatus: "fresh",
     originalPrice: undefined,
     currency: 'ARS',
@@ -33267,7 +33269,7 @@ Si querés precisión de grado con display digital, el [Peabody PE-DK2200N](/pro
     condition: 'new',
     freeShipping: false,
     rating: 4.7,
-    reviewCount: 1948,
+    reviewCount: 2110,
     soldQuantity: 1318,
     pastelColor: 'var(--pastel-coral)',
     description: 'Peabody PE-DK1850: pava eléctrica de acero inoxidable, 1.7L, 2200W, 4 niveles de temperatura, display digital en mango, base giratoria 360°, corte automático. El producto con mayor volumen de reseñas del catálogo de pavas. 4.7⭐ con {{reviews:MLA14263533}} calificaciones.',
@@ -33277,7 +33279,7 @@ Si querés precisión de grado con display digital, el [Peabody PE-DK2200N](/pro
       '1.7L — más capacidad que el PE-DK2200N (1.5L)',
       '4 niveles de temperatura preestablecidos',
       'Display digital en el mango — temperatura siempre visible',
-      '20% OFF — de $69.999 a $55.900',
+      '{{precio:MLA14263533}} con envío gratis',
       'Base giratoria 360°',
       '2.200W — calentamiento rápido (2-3 min para 1.7L)',
     ],
@@ -33291,7 +33293,7 @@ Si querés precisión de grado con display digital, el [Peabody PE-DK2200N](/pro
     seoTitle: 'Peabody PE-DK1850: pava eléctrica de acero con 4 niveles',
     metaDescription: 'Pava eléctrica Peabody PE-DK1850: acero inoxidable, 1.7L, 4 niveles de temperatura, display digital y corte automático. {{reviews:MLA14263533}} calificaciones en MercadoLibre.',
     ogTitle: 'Peabody PE-DK1850: pava eléctrica de acero con 4 niveles',
-    ogDescription: 'Pava eléctrica Peabody PE-DK1850: acero inoxidable, 1.7L, 4 niveles de temperatura, display digital y corte automático. 1.318 calificaciones en MercadoLibre.',
+    ogDescription: 'Pava eléctrica Peabody PE-DK1850: acero inoxidable, 1.7L, 4 niveles de temperatura, display digital y corte automático. {{reviews:MLA14263533}} calificaciones en MercadoLibre.',
     h1: 'Peabody PE-DK1850: pava eléctrica de acero con 4 niveles de temperatura',
     articleBody: `El PE-DK1850 es la pava de acero inoxidable de Peabody — cuerpo metálico completo, 1.7L, 4 niveles de temperatura preestablecidos y display digital en el mango. Con {{reviews:MLA14263533}} calificaciones en MercadoLibre, tiene el mayor volumen de reseñas del catálogo de pavas del sitio.
 
@@ -33345,7 +33347,7 @@ Con {{reviews:MLA14263533}} calificaciones y 826 comentarios, el PE-DK1850 tiene
       { label: 'Corte automático', value: 'Sí' },
       { label: 'Indicador de agua', value: 'Sí (lateral)' },
       { label: 'Base giratoria', value: 'Sí — 360°' },
-      { label: 'Rating', value: '4.7 ⭐ (1.318 calificaciones — 826 comentarios)' },
+      { label: 'Rating', value: '4.7 ⭐ ({{reviews:MLA14263533}} calificaciones)' },
     ],
     faq: [
       {
@@ -33388,14 +33390,14 @@ Con {{reviews:MLA14263533}} calificaciones y 826 comentarios, el PE-DK1850 tiene
         '@type': 'Offer',
         url: 'https://meli.la/2T7Y1zd',
         priceCurrency: 'ARS',
-        price: 55900,
+        price: 61455,
         availability: 'https://schema.org/InStock',
         seller: { '@type': 'Organization', name: 'MercadoLibre' },
       },
       aggregateRating: {
         '@type': 'AggregateRating',
         ratingValue: '4.7',
-        reviewCount: '1318',
+        reviewCount: '2110',
       },
     },
   },
@@ -33484,8 +33486,9 @@ La Peabody vintage es una pava linda y bien hecha para el matero exigente con la
     badge: 'hot-deal',
     relatedProducts: ['MLA47275624', 'MLA14263533', 'MLA24601443', 'MLA49747515'],
     price: 41900,
-    priceUpdated: "2026-09-25",
-    priceLastChecked: "2026-10-12",
+    priceUpdated: "2026-11-02",
+    priceLastChecked: "2026-11-02",
+    priceVerifiedAt: "2026-11-02",
     priceStatus: "fresh",
     originalPrice: undefined,
     currency: 'ARS',
@@ -33504,12 +33507,12 @@ La Peabody vintage es una pava linda y bien hecha para el matero exigente con la
     condition: 'new',
     freeShipping: false,
     rating: 4.7,
-    reviewCount: 650,
+    reviewCount: 673,
     soldQuantity: 298,
     pastelColor: 'var(--pastel-coral)',
-    description: 'Pava eléctrica Liliana AP152: cuerpo de acero inoxidable, 1.7L, 1500W, selector de 2 modos (agua para mate y hervir), corte automático, cable extraíble, base giratoria 360°, eficiencia Clase A. La más económica del catálogo de pavas. 4.7⭐ con {{reviews:MLA61505857}} calificaciones.',
+    description: 'Pava eléctrica Liliana AP152: cuerpo de acero inoxidable, 1.7L, 1500W, selector de 2 modos (agua para mate y hervir), corte automático, cable extraíble, base giratoria 360°, eficiencia Clase A. La pava de acero inoxidable completo más económica del catálogo. 4.7⭐ con {{reviews:MLA61505857}} calificaciones.',
     pros: [
-      '$31.999 — precio más bajo del catálogo de pavas',
+      '{{precio:MLA61505857}} — la pava de acero inoxidable completo más barata del catálogo (la Kanji es más barata todavía, pero solo con acero en el interior)',
       'Cuerpo de acero inoxidable completo',
       'Selector "Agua para mate" con botón físico etiquetado',
       '1.7L — alcanza para 6-8 mates',
@@ -33525,13 +33528,13 @@ La Peabody vintage es una pava linda y bien hecha para el matero exigente con la
       'Sin keep warm',
       '⚠️ Inconsistencia sobre filtro: ficha dice "sin filtro", vendedor dice "removible"',
     ],
-    verdict: 'La Liliana AP152 es la pava más accesible del catálogo ($31.999) y tiene un detalle que la separa del resto: un botón físico etiquetado "Agua para mate" en la base. Los compradores confirman en las reseñas que calienta el agua a la temperatura justa. Si querés acero inoxidable con selector dedicado para mate sin pagar pantallas digitales ni control continuo, es la opción concreta.',
+    verdict: 'La Liliana AP152 es la pava de acero completo más accesible del catálogo ({{precio:MLA61505857}}) y tiene un detalle que la separa del resto: un botón físico etiquetado "Agua para mate" en la base. Los compradores confirman en las reseñas que calienta el agua a la temperatura justa. Si querés acero inoxidable con selector dedicado para mate sin pagar pantallas digitales ni control continuo, es la opción concreta.',
     seoTitle: 'Liliana AP152: pava eléctrica de acero con selector mate',
-    metaDescription: 'Pava eléctrica Liliana AP152: acero inoxidable, 1.7L, selector "Agua para mate", corte automático y cable extraíble. La más económica del catálogo.',
+    metaDescription: 'Pava eléctrica Liliana AP152: acero inoxidable, 1.7L, selector "Agua para mate", corte automático y cable extraíble. La más económica del catálogo con acero completo.',
     ogTitle: 'Liliana AP152: pava eléctrica de acero con selector mate',
-    ogDescription: 'Pava eléctrica Liliana AP152: acero inoxidable, 1.7L, selector Agua para mate, corte automático y cable extraíble. La más económica del catálogo. $31.999.',
+    ogDescription: 'Pava eléctrica Liliana AP152: acero inoxidable, 1.7L, selector Agua para mate, corte automático y cable extraíble. La más económica del catálogo con acero completo. {{precio:MLA61505857}}.',
     h1: 'Liliana AP152: pava eléctrica de acero con selector para agua de mate',
-    articleBody: `La Liliana AP152 es la pava más accesible del catálogo en precio ($31.999) y tiene un detalle que la separa del resto: en la base hay dos botones con indicadores de luz, uno etiquetado "Agua para mate" y otro "Hervir". Lo dice el diagrama del manual incluido en el listing.
+    articleBody: `La Liliana AP152 es la pava de acero completo más accesible del catálogo en precio ({{precio:MLA61505857}}) y tiene un detalle que la separa del resto: en la base hay dos botones con indicadores de luz, uno etiquetado "Agua para mate" y otro "Hervir". Lo dice el diagrama del manual incluido en el listing.
 
 La ficha técnica de MercadoLibre lista "Con función mate: No", pero el manual del producto contradice ese dato. El botón existe y está etiquetado. Los compradores lo confirman en las reseñas: el resumen de opiniones destaca específicamente que "tiene una opción específica para mate que calienta el agua a la temperatura justa".
 
@@ -33561,9 +33564,9 @@ El cable de alimentación es extraíble. Esto facilita el almacenamiento y limit
 
 El filtro: la ficha técnica dice "Con filtro: No". La descripción del vendedor menciona "Filtro removible para fácil mantenimiento". Antes de comprar, vale verificar con el vendedor si el filtro está incluido o si es un dato del vendedor que no coincide con la especificación oficial.
 
-## $31.999 y el contexto del catálogo
+## {{precio:MLA61505857}} y el contexto del catálogo
 
-La AP152 es la pava más accesible del catálogo. Para quien necesita agua caliente para mate sin pantallas ni configuraciones, y quiere acero inoxidable con un botón dedicado para la temperatura del mate, es una opción concreta. Para quien necesita keep warm, control preciso de temperatura o más potencia, los modelos Peabody y Philips del sitio cubren eso a mayor precio.`,
+La AP152 es la pava de acero inoxidable completo más accesible del catálogo (la Kanji es más barata, pero solo tiene acero en el interior). Para quien necesita agua caliente para mate sin pantallas ni configuraciones, y quiere acero inoxidable con un botón dedicado para la temperatura del mate, es una opción concreta. Para quien necesita keep warm, control preciso de temperatura o más potencia, los modelos Peabody y Philips del sitio cubren eso a mayor precio.`,
     specs: [
       { label: 'Marca', value: 'Liliana' },
       { label: 'Modelo', value: 'AP152' },
@@ -33581,7 +33584,7 @@ La AP152 es la pava más accesible del catálogo. Para quien necesita agua calie
       { label: 'Sistema antigoteo', value: 'Sí' },
       { label: 'Eficiencia energética', value: 'Clase A' },
       { label: 'Peso', value: '1.1 kg' },
-      { label: 'Rating', value: '4.7 ⭐ (298 calificaciones — 188 comentarios)' },
+      { label: 'Rating', value: '4.7 ⭐ ({{reviews:MLA61505857}} calificaciones)' },
     ],
     faq: [
       {
@@ -33624,14 +33627,14 @@ La AP152 es la pava más accesible del catálogo. Para quien necesita agua calie
         '@type': 'Offer',
         url: 'https://meli.la/1QMfKob',
         priceCurrency: 'ARS',
-        price: 31999,
+        price: 41900,
         availability: 'https://schema.org/InStock',
         seller: { '@type': 'Organization', name: 'MercadoLibre' },
       },
       aggregateRating: {
         '@type': 'AggregateRating',
         ratingValue: '4.7',
-        reviewCount: '298',
+        reviewCount: '673',
       },
     },
   },
@@ -34130,9 +34133,10 @@ La Oster BVSTKT4970B es una pava práctica y rápida, con un corte automático m
     brand: "Oster",
     visibility: 'deprioritized',
     relatedProducts: ['MLA11145436', 'MLA47275624', 'MLA24601443', 'MLA14263533'],
-    price: 117000,
-    priceUpdated: "2026-10-12",
-    priceLastChecked: "2026-10-12",
+    price: 97899,
+    priceUpdated: "2026-11-02",
+    priceLastChecked: "2026-11-02",
+    priceVerifiedAt: "2026-11-02",
     priceStatus: "fresh",
     originalPrice: undefined,
     currency: 'ARS',
@@ -34150,8 +34154,8 @@ La Oster BVSTKT4970B es una pava práctica y rápida, con un corte automático m
     affiliateUrl: 'https://meli.la/1jdC3sW',
     condition: 'new',
     freeShipping: false,
-    rating: 4.8,
-    reviewCount: 4896,
+    rating: 4.9,
+    reviewCount: 4456,
     soldQuantity: undefined,
     pastelColor: 'var(--pastel-coral)',
     description: "CUATRO TEMPERATURAS PREDEFINIDAS\nPanel de control fácil de usar con ajustes de temperatura ideales para tés verdes, blancos, negros, oolong y mate.\n\nYA NO NECESITAS CALENTAR EL AGUA UNA Y OTRA VEZ\nLa función “mantener caliente” ayuda a mantener el agua a la temperatura elegida por más tiempo, optimi",
@@ -34160,7 +34164,7 @@ La Oster BVSTKT4970B es una pava práctica y rápida, con un corte automático m
       "Cuatro temperaturas predefinidas para distintos tés y mate",
       "Función mantener caliente",
       "Calienta rápido por el material de acero",
-      "Rating de 4.8 sobre casi 1.600 calificaciones",
+      "Rating de {{rating:MLA8993736}} sobre {{reviews:MLA8993736}} calificaciones",
     ],
     cons: [
       "El acero se calienta al tacto y se marca fácil con las huellas",
@@ -34168,7 +34172,7 @@ La Oster BVSTKT4970B es una pava práctica y rápida, con un corte automático m
       "Al sacarla de la base para cebar se resetea y hay que volver a accionarla",
     ],
     verdict: "Una pava eléctrica de acero inoxidable con temperaturas predefinidas y mantener caliente, valorada por la calidad de materiales. Tené en cuenta que se marca con las huellas y que se resetea al sacarla de la base.",
-    articleBody: `La Oster 8970 es una pava eléctrica de acero inoxidable con cuatro temperaturas predefinidas y función mantener caliente. Con 4.8 de promedio sobre casi 1.600 calificaciones, es de las mejor puntuadas de su categoría. Lo que más valoran los compradores es justamente el material: acero en lugar de plástico, algo que se nota tanto en la durabilidad como en la sensación de producto más caro.
+    articleBody: `La Oster 8970 es una pava eléctrica de acero inoxidable con cuatro temperaturas predefinidas y función mantener caliente. Con {{rating:MLA8993736}} de promedio sobre {{reviews:MLA8993736}} calificaciones, es de las mejor puntuadas de su categoría. Lo que más valoran los compradores es justamente el material: acero en lugar de plástico, algo que se nota tanto en la durabilidad como en la sensación de producto más caro.
 
 ## Capacidad y materiales
 
@@ -34200,7 +34204,7 @@ La Oster 8970 es una pava de acero bien valorada por calidad de materiales y tem
       { rating: 4, country: "Argentina", date: "2024-05-26", text: "Excelente calidad de materiales y muy bonita. El acero la hace linda y de apariencia cara, pero se marca muy fácil: si sos medio obse como yo, todos los días hay que pegarle una repasada.", useful: 18 },
       { rating: 5, country: "Argentina", date: "2024-02-01", text: "Muy buena, era lo que esperaba. Tiene mucha capacidad y no es aparatosa. Mi esposa feliz, y una esposa feliz son mates ricos.", useful: 15 },
     ],
-    reviewsSampledAt: "2026-06-16",
+    reviewsSampledAt: "2026-11-02",
   },
   {
     // Energy Beauty Bar facial — LISTADO ACTIVO en stock (Golden T Lift, vendedor Mercado Líder, $24.999).
@@ -67724,11 +67728,12 @@ Es para vos si: querés una pava con selector de temperatura real a un precio m�
     id: 'MLA54676373',
     title: 'Pava Eléctrica Liliana Aap992n Safeheat Negro',
     canonicalName: 'Pava eléctrica Liliana Safeheat AP992N 1.5L',
-    reviewsSampledAt: '2026-07-09',
+    reviewsSampledAt: '2026-11-02',
     brand: "Liliana",
-    price: 112000,
-    priceLastChecked: "2026-10-12",
-    priceUpdated: "2026-10-12",
+    price: 112616,
+    priceLastChecked: "2026-11-02",
+    priceUpdated: "2026-11-02",
+    priceVerifiedAt: "2026-11-02",
     priceStatus: "fresh",
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_Q_NP_627842-MLA99993060575_112025-F.webp',
@@ -67744,14 +67749,14 @@ Es para vos si: querés una pava con selector de temperatura real a un precio m�
     condition: 'new',
     freeShipping: false,
     rating: 4.8,
-    reviewCount: 460,
-    description: 'Pava eléctrica Liliana Safeheat AP992N de 1,5 litros: doble pared que no se calienta al tacto por fuera, 7 niveles de temperatura con pantalla digital y función Keep Warm. Interior 100% acero inoxidable. 4.8⭐ con 211 calificaciones. Reemplaza al listado AP992B, que MercadoLibre no permite usar en el programa de afiliados; mismo producto, publicación distinta.',
+    reviewCount: 474,
+    description: 'Pava eléctrica Liliana Safeheat AP992N de 1,5 litros: doble pared que no se calienta al tacto por fuera, 7 niveles de temperatura con pantalla digital y función Keep Warm. Interior 100% acero inoxidable. 4.8⭐ con {{reviews:MLA54676373}} calificaciones. Reemplaza al listado AP992B, que MercadoLibre no permite usar en el programa de afiliados; mismo producto, publicación distinta.',
     seoTitle: 'Pava Liliana Safeheat AP992N 1.5L: 7 niveles de temperatura',
     metaDescription: 'Pava eléctrica Liliana Safeheat AP992N de 1.5L: doble pared que no se calienta, 7 niveles de temperatura y función Keep Warm. 4.8⭐ con {{reviews:MLA54676373}} calificaciones en ML.',
-    ogTitle: 'Pava eléctrica Liliana Safeheat AP992N: doble pared, 7 niveles, 4.8⭐/211',
+    ogTitle: 'Pava eléctrica Liliana Safeheat AP992N: doble pared, 7 niveles, 4.8⭐/{{reviews:MLA54676373:k}}',
     ogDescription: 'Doble pared que no se calienta al tacto, 7 niveles de temperatura con pantalla digital y función Keep Warm. Interior de acero inoxidable, 1.5L. Ver precio →',
     h1: 'Pava eléctrica Liliana Safeheat AP992N: 7 niveles de temperatura, ¿vale la pena?',
-    verdict: 'A $67.609, es la pava con más niveles de temperatura del catálogo (7, de aproximadamente 45°C a 100°C según una reseña) y la única con doble pared Safeheat que no se calienta al tacto por fuera. El costado flojo: la propia ficha de ML carga mal el atributo "control de temperatura" (dice que no tiene, cuando sí tiene), y su base de {{reviews:MLA54676373}} calificaciones es chica al lado de las {{reviews:MLA19589519}} de la Atma PE1821NAP.',
+    verdict: 'A {{precio:MLA54676373}}, es la pava con más niveles de temperatura del catálogo (7, de aproximadamente 45°C a 100°C según una reseña) y la única con doble pared Safeheat que no se calienta al tacto por fuera. El costado flojo: la propia ficha de ML carga mal el atributo "control de temperatura" (dice que no tiene, cuando sí tiene), y su base de {{reviews:MLA54676373}} calificaciones es chica al lado de las {{reviews:MLA19589519}} de la Atma PE1821NAP.',
     pros: [
       '7 niveles de temperatura reales: una reseña detallada confirma que van de aproximadamente 45°C a 100°C y que la pava avisa al llegar al nivel elegido',
       'Doble pared protectora Safeheat: el exterior no se calienta al tacto aunque el agua esté hirviendo adentro, confirmado por Liliana y Frávega',
@@ -67854,7 +67859,7 @@ Es para vos si: querés niveles de temperatura reales para distintas infusiones,
       },
       {
         question: '¿En qué se diferencia de la Atma PE1821NAP?',
-        answer: 'La [Atma PE1821NAP](/producto/pava-electrica-atma-pe1821nap-1-7lts-selector-de-temperatura-negro-mla19589519) tiene un selector de temperatura continuo (perilla, sin cantidad de niveles publicada) y más potencia (2200W), a $55.290, pero su exterior sí se calienta y el interruptor no se apaga solo al cortar. Esta Liliana suma niveles fijos, doble pared que no se calienta y función Keep Warm, a $67.609.',
+        answer: 'La [Atma PE1821NAP](/producto/pava-electrica-atma-pe1821nap-1-7lts-selector-de-temperatura-negro-mla19589519) tiene un selector de temperatura continuo (perilla, sin cantidad de niveles publicada) y más potencia (2200W), a $55.290, pero su exterior sí se calienta y el interruptor no se apaga solo al cortar. Esta Liliana suma niveles fijos, doble pared que no se calienta y función Keep Warm, a {{precio:MLA54676373}}.',
       },
     ],
     relatedProducts: ['MLA19589519', 'MLA47275624', 'MLA11145436', 'MLA49747515'],
@@ -67863,11 +67868,12 @@ Es para vos si: querés niveles de temperatura reales para distintas infusiones,
     id: 'MLA20027329',
     title: 'Pava Eléctrica Matera Kanji Home Kjh-pe15002m 1500w 1.8 Mate',
     canonicalName: 'Pava eléctrica matera Kanji Home KJH-PE15002M 1.8L',
-    reviewsSampledAt: '2026-07-09',
+    reviewsSampledAt: '2026-11-02',
     brand: "Kanji",
-    price: 20490,
-    priceLastChecked: "2026-10-12",
-    priceUpdated: "2026-10-07",
+    price: 24990,
+    priceLastChecked: "2026-11-02",
+    priceUpdated: "2026-11-02",
+    priceVerifiedAt: "2026-11-02",
     priceStatus: "fresh",
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_Q_NP_835793-MLA99371079764_112025-F.webp',
@@ -67884,10 +67890,10 @@ Es para vos si: querés niveles de temperatura reales para distintas infusiones,
     condition: 'new',
     freeShipping: false,
     rating: 4.5,
-    reviewCount: 4518,
+    reviewCount: 4791,
     description: 'Pava eléctrica matera Kanji Home KJH-PE15002M de 1,8L, con función mate de 2 niveles (cebar y hervir), corte automático y base giratoria 360°. Interior de acero. 4.5⭐ con {{reviews:MLA20027329}} calificaciones, la pava más barata del catálogo.',
     pros: [
-      'A $18.299, es la pava más barata de todo el catálogo, y ya viene con función mate (2 niveles de temperatura)',
+      'A {{precio:MLA20027329}}, es la pava más barata de todo el catálogo, y ya viene con función mate (2 niveles de temperatura)',
       'El corte automático funciona de verdad: una reseña lo describe con precisión, "un botón para indicar que caliente para mate o que hierva el agua, para esto último tiene corte automático"',
       'Base giratoria 360° y luz indicadora de encendido',
       '4.5⭐ con {{reviews:MLA20027329}} calificaciones, un volumen alto para el precio que tiene',
@@ -67900,11 +67906,11 @@ Es para vos si: querés niveles de temperatura reales para distintas infusiones,
       'Sin indicador de nivel de agua, sin pantalla digital, sin filtro ni infusor: solo un led que avisa que está encendida',
       'Una reseña con 5 estrellas avisa que "son descartables": la suya dejó de funcionar a los 2 años exactos, aunque agrega que "está bien en relación precio calidad"',
     ],
-    verdict: 'A $18.299, es la pava más barata de todo el catálogo y la única en ese rango de precio con función mate incorporada: un botón alterna entre calentar para cebar y hervir a fondo, con corte automático real. La letra chica: una reseña dice que casi no se nota la diferencia entre los dos niveles, y otra advierte que a los 2 años suele dejar de funcionar. Para lo que cuesta, sigue siendo un trato razonable, no la que compres esperando que dure una década.',
+    verdict: 'A {{precio:MLA20027329}}, es la pava más barata de todo el catálogo y la única en ese rango de precio con función mate incorporada: un botón alterna entre calentar para cebar y hervir a fondo, con corte automático real. La letra chica: una reseña dice que casi no se nota la diferencia entre los dos niveles, y otra advierte que a los 2 años suele dejar de funcionar. Para lo que cuesta, sigue siendo un trato razonable, no la que compres esperando que dure una década.',
     seoTitle: 'Pava Matera Kanji Home KJH-PE15002M 1.8L: precio y reseñas',
     metaDescription: 'Pava eléctrica matera Kanji Home KJH-PE15002M de 1.8L, función mate de 2 niveles y corte automático. 4.5⭐ con {{reviews:MLA20027329}} calificaciones. La más barata del catálogo.',
-    ogTitle: 'Pava eléctrica matera Kanji Home KJH-PE15002M: la más barata del catálogo, 4.5⭐/3.837',
-    ogDescription: 'Función mate de 2 niveles, corte automático y base giratoria 360°. 1,8L, 1500W, $18.299. Mirá lo que dicen las reseñas reales antes de comprar →',
+    ogTitle: 'Pava eléctrica matera Kanji Home KJH-PE15002M: la más barata del catálogo, 4.5⭐/{{reviews:MLA20027329:k}}',
+    ogDescription: 'Función mate de 2 niveles, corte automático y base giratoria 360°. 1,8L, 1500W, {{precio:MLA20027329}}. Mirá lo que dicen las reseñas reales antes de comprar →',
     h1: 'Pava eléctrica matera Kanji Home KJH-PE15002M: la más barata, ¿aguanta?',
     articleBody: `## Qué es y qué trae
 
@@ -67932,7 +67938,7 @@ En durabilidad, hay una advertencia concreta de una reseña de 5 estrellas: "fun
 
 Si preferís pagar un poco más por una pava con selector de temperatura continuo y muchas más reseñas detrás, la [Atma PE1821NAP](/producto/pava-electrica-atma-pe1821nap-1-7lts-selector-de-temperatura-negro-mla19589519) tiene 2200W y 14.738 calificaciones, a $55.290, aunque sin función mate etiquetada y con un interruptor que no se apaga solo.
 
-Si buscás control de temperatura con pantalla digital y función mate explícita, la [Peabody Digital PE-DK2200N](/producto/pava-electrica-peabody-digital-40-100-c-y-funcion-mate-mla47275624) ofrece un rango continuo de 40 a 100°C, a $69.433, casi cuatro veces el precio de esta Kanji.
+Si buscás control de temperatura con pantalla digital y función mate explícita, la [Peabody Digital PE-DK2200N](/producto/pava-electrica-peabody-digital-40-100-c-y-funcion-mate-mla47275624) ofrece un rango continuo de 40 a 100°C, a {{precio:MLA47275624}}, poco más de tres veces el precio de esta Kanji.
 
 Y si preferís una pava de vidrio con corte pensado para mate y LED, a un precio intermedio, la [Winco W1719](/producto/pava-jarra-electrica-corte-mate-vidrio-led-winco-w1719-color-transparente-mla51108369) sale $32.465 con 4.8⭐ y 1.447 calificaciones.
 
