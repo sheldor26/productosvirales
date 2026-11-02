@@ -73539,7 +73539,7 @@ Comprá el Aspen Air Pro II si valorás no depender de pilas descartables y viaj
     id: "MLA24044627",
     title: "Omron Tensiómetro Hem-7142 Digital Automático De Brazo Color Blanco",
     canonicalName: "Tensiómetro Digital de Brazo Omron HEM-7142",
-    price: 99999,
+    price: 87561,
     originalPrice: 159999,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_Q_NP_866786-MLU72565713896_112023-F.webp",
@@ -73553,7 +73553,7 @@ Comprá el Aspen Air Pro II si valorás no depender de pilas descartables y viaj
     condition: "new",
     freeShipping: true,
     rating: 4.9,
-    reviewCount: 33357,
+    reviewCount: 34793,
     soldQuantity: 50000,
     pastelColor: "var(--pastel-green)",
     visibility: "normal",
@@ -73572,10 +73572,10 @@ Comprá el Aspen Air Pro II si valorás no depender de pilas descartables y viaj
       { label: "Garantía", value: "12 meses de fábrica (declarada por el vendedor)" },
     ],
     relatedProducts: ["MLA22255575", "MLA24111585", "MLA24533653"],
-    priceUpdated: "2026-10-09",
-    priceLastChecked: "2026-10-12",
+    priceUpdated: "2026-11-02",
+    priceLastChecked: "2026-11-02",
     priceStatus: "fresh",
-    reviewsSampledAt: "2026-07-19",
+    reviewsSampledAt: "2026-11-02",
     description: "Tensiómetro digital de brazo Omron HEM-7142: la marca líder de esta guía, con {{reviews:MLA24044627}} opiniones reales, el mayor volumen de toda la categoría en MercadoLibre Argentina.",
     seoTitle: "Omron HEM-7142: el tensiómetro con más opiniones reales",
     metaDescription: "Tensiómetro digital de brazo Omron HEM-7142. {{reviews:MLA24044627}} opiniones reales, 4.9 estrellas. Precio actualizado y contras honestas.",
@@ -73614,7 +73614,7 @@ Comprá el Omron HEM-7142 si el respaldo de marca y el tipo brazo son tu priorid
     faq: [
       {
         question: "¿Por qué es tan caro comparado con otros tensiómetros?",
-        answer: "Por el respaldo de marca: Omron es una marca ampliamente reconocida en dispositivos médicos hogareños, con el mayor volumen de reseñas reales de toda la categoría en este sitio (27.369). Una reseña real señala que cuesta 3-4 veces más que alternativas genéricas.",
+        answer: "Por el respaldo de marca: Omron es una marca ampliamente reconocida en dispositivos médicos hogareños, con el mayor volumen de reseñas reales de toda la categoría en este sitio ({{reviews:MLA24044627}}). Una reseña real señala que cuesta 3-4 veces más que alternativas genéricas.",
       },
       {
         question: "¿Tiene Bluetooth?",
@@ -73640,13 +73640,13 @@ Comprá el Omron HEM-7142 si el respaldo de marca y el tipo brazo son tu priorid
         "@type": "Offer",
         url: "https://www.mercadolibre.com.ar/omron-tensiometro-hem-7142-digital-automatico-de-brazo-color-blanco/p/MLA24044627",
         priceCurrency: "ARS",
-        price: "85900",
+        price: "87561",
         availability: "https://schema.org/InStock",
       },
       aggregateRating: {
         "@type": "AggregateRating",
         ratingValue: "4.9",
-        reviewCount: "27408",
+        reviewCount: "34793",
       },
     },
   },
@@ -73654,7 +73654,7 @@ Comprá el Omron HEM-7142 si el respaldo de marca y el tipo brazo son tu priorid
     id: "MLA22255575",
     title: "Tensiometro Digital De Muñeca Medidor De Presión Arterial Color Blanco",
     canonicalName: "Tensiómetro Digital de Muñeca Coronet YK-BPW4",
-    price: 31003,
+    price: 30525,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_Q_NP_685624-MLA49759434820_042022-F.webp",
     images: [
@@ -73667,7 +73667,7 @@ Comprá el Omron HEM-7142 si el respaldo de marca y el tipo brazo son tu priorid
     condition: "new",
     freeShipping: true,
     rating: 4.6,
-    reviewCount: 3272,
+    reviewCount: 3377,
     soldQuantity: 10000,
     pastelColor: "var(--pastel-coral)",
     visibility: "normal",
@@ -73684,16 +73684,16 @@ Comprá el Omron HEM-7142 si el respaldo de marca y el tipo brazo son tu priorid
       { label: "Certificación", value: "ANMAT RPPTM 1440-151 (declarada en descripción)" },
     ],
     relatedProducts: ["MLA24044627", "MLA24111585", "MLA24533653"],
-    priceUpdated: "2026-09-30",
-    priceLastChecked: "2026-10-12",
+    priceUpdated: "2026-11-02",
+    priceLastChecked: "2026-11-02",
     priceStatus: "fresh",
-    reviewsSampledAt: "2026-07-19",
+    reviewsSampledAt: "2026-11-02",
     description: "Tensiómetro digital de muñeca Coronet YK-BPW4: el más económico de esta guía, con {{reviews:MLA22255575}} opiniones reales, menos de la mitad del precio del Omron de brazo.",
     seoTitle: "Coronet YK-BPW4: el tensiómetro más económico",
     metaDescription: "Tensiómetro digital de muñeca Coronet YK-BPW4, el más económico. {{reviews:MLA22255575}} opiniones reales, 4.6 estrellas. Precio actualizado.",
-    verdict: "Sirve si buscás el tensiómetro más barato de esta guía con buen volumen de reseñas reales (3.230): menos de la mitad del precio del Omron de brazo. Algunos compradores cuentan haber comparado sus lecturas con las de un profesional de la salud y reportan resultados similares (testimonios de comprador, no una validación de este sitio). La contra real: al ser de muñeca, una reseña señala una diferencia de 1 punto frente a un tensiómetro de brazo. Hay además una contradicción menor entre fuentes: la descripción del vendedor menciona la marca \"Euromix\", mientras la ficha técnica dice \"Coronet\" (usamos el dato de la ficha técnica, que tiene prioridad según nuestra jerarquía de fuentes). No es para vos si preferís el estándar de brazo: para eso, el Omron HEM-7142 de esta guía.",
+    verdict: "Sirve si buscás el tensiómetro más barato de esta guía con buen volumen de reseñas reales ({{reviews:MLA22255575}}): menos de la mitad del precio del Omron de brazo. Algunos compradores cuentan haber comparado sus lecturas con las de un profesional de la salud y reportan resultados similares (testimonios de comprador, no una validación de este sitio). La contra real: al ser de muñeca, una reseña señala una diferencia de 1 punto frente a un tensiómetro de brazo. Hay además una contradicción menor entre fuentes: la descripción del vendedor menciona la marca \"Euromix\", mientras la ficha técnica dice \"Coronet\" (usamos el dato de la ficha técnica, que tiene prioridad según nuestra jerarquía de fuentes). No es para vos si preferís el estándar de brazo: para eso, el Omron HEM-7142 de esta guía.",
     pros: [
-      "El más económico de esta guía, con buen volumen de reseñas reales (3.230)",
+      "El más económico de esta guía, con buen volumen de reseñas reales ({{reviews:MLA22255575}})",
       "99 memorias, buena capacidad de almacenamiento (el Microlife de esta guía tiene más, pero es un modelo más caro y especializado)",
       "Algunos compradores cuentan haber comparado sus lecturas con las de un profesional de la salud y notaron resultados similares (testimonio, no validación clínica de este sitio)",
       "Certificación ANMAT declarada (RPPTM 1440-151)",
@@ -73719,7 +73719,7 @@ Al ser de muñeca (no de brazo, el formato de referencia), una reseña real deta
 
 ## Cómo se compara con los otros de esta guía
 
-Frente al [Omron HEM-7142](/producto/omron-tensiometro-hem-7142-digital-automatico-de-brazo-color-blanco-mla24044627) (brazo, marca líder), el Coronet cuesta menos de la mitad, aunque pierde en respaldo de marca. Frente al [Omron HEM-6124](/producto/tensiometro-digital-de-muneca-automatico-omron-hem-6124-gris-mla24111585) (también muñeca, misma franja de precio superior), el Coronet es más barato con volumen de reseñas comparable.
+Frente al [Omron HEM-7142](/producto/omron-tensiometro-hem-7142-digital-automatico-de-brazo-color-blanco-mla24044627) (brazo, marca líder), el Coronet cuesta menos de la mitad, aunque pierde en respaldo de marca. Frente al [Omron HEM-6124](/producto/tensiometro-digital-de-muneca-automatico-omron-hem-6124-gris-mla24111585) (también muñeca, de marca líder y hoy el más caro de esta guía), el Coronet es mucho más barato con volumen de reseñas comparable.
 
 ## Para quién sí y para quién no
 
@@ -73753,13 +73753,13 @@ Comprá el Coronet YK-BPW4 si el precio es tu prioridad y no te molesta una pequ
         "@type": "Offer",
         url: "https://www.mercadolibre.com.ar/tensiometro-digital-de-muneca-medidor-de-presion-arterial-color-blanco/p/MLA22255575",
         priceCurrency: "ARS",
-        price: "39250",
+        price: "30525",
         availability: "https://schema.org/InStock",
       },
       aggregateRating: {
         "@type": "AggregateRating",
         ratingValue: "4.6",
-        reviewCount: "3230",
+        reviewCount: "3377",
       },
     },
   },
@@ -73767,7 +73767,7 @@ Comprá el Coronet YK-BPW4 si el precio es tu prioridad y no te molesta una pequ
     id: "MLA24111585",
     title: "Tensiómetro digital de muñeca automático Omron HEM-6124 gris",
     canonicalName: "Tensiómetro Digital de Muñeca Omron HEM-6124",
-    price: 121446,
+    price: 151036,
     originalPrice: undefined,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_Q_NP_861229-MLU72826918143_112023-F.webp",
@@ -73779,22 +73779,21 @@ Comprá el Coronet YK-BPW4 si el precio es tu prioridad y no te molesta una pequ
     // Publicación original (MLA24111585, vendedor distinto) se quedó sin stock
     // el 2026-07-20. Primer swap de vendedor: Farmacias Selma (MLAU332481087).
     // SEGUNDO swap, 2026-10-31: esa publicación de Farmacias Selma TAMBIÉN se
-    // quedó sin stock ("Este producto no está disponible por el momento",
-    // verificado en vivo). Nuevo vendedor: Farma Plus, catálogo MLA28753837 /
-    // item MLA1441913191, 4.9★, +100 vendidos, $121.446. Volver a cualquiera
-    // de las dos publicaciones anteriores si recuperan stock — permalinks
-    // viejos comentados abajo.
+    // quedó sin stock. Nuevo vendedor: Farma Plus, catálogo MLA28753837.
+    // TERCER swap, 2026-11-02: el mismo catálogo MLA28753837 ahora muestra
+    // como oferta vigente a GONTOCAL (MercadoLíder, +5 mil ventas), $151.036,
+    // 4.9★, 1445 reseñas — verificado en vivo. El catálogo no cambió de URL,
+    // solo cambió qué vendedor gana la oferta/Buy Box. rating/reviewCount
+    // de esta vez SÍ son los de la publicación vigente (GONTOCAL), no
+    // heredados de un vendedor anterior — confirmado navegando en vivo.
     // permalink viejo (original): "https://www.mercadolibre.com.ar/tensiometro-digital-de-muneca-automatico-omron-hem-6124-gris/p/MLA24111585"
     // permalink viejo (1er swap, Farmacias Selma): "https://www.mercadolibre.com.ar/omron-tensiometro-digital-de-muneca-hem6124/up/MLAU332481087"
     permalink: "https://www.mercadolibre.com.ar/tensiometro-de-muneca-omron-hem-6124-essential-cts/p/MLA28753837",
     affiliateUrl: "https://meli.la/2gBoQMa",
     condition: "new",
     freeShipping: true,
-    // rating/reviewCount siguen siendo los de la publicación de Farmacias
-    // Selma (el swap anterior), no los de Farma Plus (swap actual, +100
-    // vendidos). Pendiente de revisión editorial, ver nota arriba.
-    rating: 4.8,
-    reviewCount: 6682,
+    rating: 4.9,
+    reviewCount: 1445,
     soldQuantity: 10000,
     pastelColor: "var(--pastel-blue)",
     visibility: "normal",
@@ -73812,17 +73811,17 @@ Comprá el Coronet YK-BPW4 si el precio es tu prioridad y no te molesta una pequ
       { label: "Estuche", value: "No incluido" },
     ],
     relatedProducts: ["MLA24044627", "MLA22255575", "MLA24533653"],
-    priceUpdated: "2026-10-31",
-    priceLastChecked: "2026-10-31",
+    priceUpdated: "2026-11-02",
+    priceLastChecked: "2026-11-02",
     priceStatus: "fresh",
-    reviewsSampledAt: "2026-07-19",
+    reviewsSampledAt: "2026-11-02",
     description: "Tensiómetro digital de muñeca Omron HEM-6124: la mejor combinación de marca reconocida y formato compacto de esta guía, con {{reviews:MLA24111585}} opiniones reales.",
     seoTitle: "Omron HEM-6124: tensiómetro de muñeca de marca líder",
-    metaDescription: "Tensiómetro digital de muñeca Omron HEM-6124. {{reviews:MLA24111585}} opiniones reales, 4.8 estrellas. Precio actualizado y contras honestas.",
-    verdict: "Sirve si buscás el respaldo de marca Omron en formato muñeca, más compacto y barato que la versión de brazo de la misma marca. Tiene {{reviews:MLA24111585}} calificaciones reales, la segunda base más grande de esta guía. La contra real: no incluye estuche de guardado, según una reseña. No es para vos si preferís el formato brazo (el estándar de medición): para eso, el Omron HEM-7142 de esta guía. Lo honesto: el vendedor tuvo dos cambios de publicación por falta de stock (31/10/2026 el último); estas {{reviews:MLA24111585}} calificaciones son heredadas de una publicación anterior, no de la que está vigente hoy.",
+    metaDescription: "Tensiómetro digital de muñeca Omron HEM-6124. {{reviews:MLA24111585}} opiniones reales, 4.9 estrellas. Precio actualizado y contras honestas.",
+    verdict: "Sirve si buscás el respaldo de marca Omron en formato muñeca, más compacto que la versión de brazo de la misma marca — aunque hoy no más barato: con el precio actual, es el tensiómetro más caro de esta guía. Tiene {{reviews:MLA24111585}} calificaciones reales en su publicación vigente. La contra real: no incluye estuche de guardado, según una reseña. No es para vos si preferís el formato brazo (el estándar de medición) o buscás el precio más bajo: para eso, el Omron HEM-7142 o la Coronet YK-BPW4 de esta guía. Lo honesto: el vendedor cambió de publicación dos veces por falta de stock, y una tercera vez más (02/11/2026) porque otro vendedor ganó la oferta dentro del mismo catálogo, sin que mediara una baja de stock; cada cambio de vendedor reinicia el historial de reseñas visible, así que el volumen de opiniones de este modelo fue variando con el tiempo y hoy es menor que el de la Coronet de esta guía, pese a ser la marca líder.",
     pros: [
       "Marca líder de la categoría en formato muñeca, más compacto que el de brazo",
-      "{{reviews:MLA24111585}} calificaciones reales, la segunda base más grande de esta guía",
+      "{{reviews:MLA24111585}} calificaciones reales en su publicación vigente",
       "Pilas AAA incluidas de fábrica (a diferencia de la Coronet, que no las incluye)",
       "Una reseña cuenta haberlo comparado con un equipo de clínica y haber notado lecturas similares (testimonio de comprador, no validación de este sitio)",
       "Sensor de posición del corazón, según una reseña",
@@ -73835,7 +73834,7 @@ Comprá el Coronet YK-BPW4 si el precio es tu prioridad y no te molesta una pequ
     ],
     articleBody: `## Qué es y para quién
 
-El Omron HEM-6124 es un tensiómetro digital de muñeca de la marca líder de esta guía. Es la opción para quien quiere el respaldo de Omron en un formato más compacto y barato que la versión de brazo de la misma marca.
+El Omron HEM-6124 es un tensiómetro digital de muñeca de la marca líder de esta guía. Es la opción para quien quiere el respaldo de Omron en un formato más compacto que la versión de brazo de la misma marca — aunque, con el precio de hoy, no más barato: es el más caro de esta guía.
 
 ## Cómo funciona
 
@@ -73847,7 +73846,7 @@ El punto más concreto que aparece en las reseñas es la ausencia de estuche: "n
 
 ## Cómo se compara con los otros de esta guía
 
-Frente a la [Coronet YK-BPW4](/producto/tensiometro-digital-de-muneca-medidor-de-presion-arterial-color-blanco-mla22255575) (también muñeca, más barata), el Omron cuesta el doble pero suma el respaldo de marca y casi el doble de reseñas reales. Frente al [Omron HEM-7142](/producto/omron-tensiometro-hem-7142-digital-automatico-de-brazo-color-blanco-mla24044627) (brazo, misma marca), el HEM-6124 es más compacto pero pierde el formato de referencia.
+Frente a la [Coronet YK-BPW4](/producto/tensiometro-digital-de-muneca-medidor-de-presion-arterial-color-blanco-mla22255575) (también muñeca, mucho más barata), el Omron cuesta casi cinco veces más y hoy tiene menos reseñas acumuladas en su publicación actual — un efecto de los cambios de vendedor, no una señal de menor calidad del producto — pero suma el respaldo de la marca líder. Frente al [Omron HEM-7142](/producto/omron-tensiometro-hem-7142-digital-automatico-de-brazo-color-blanco-mla24044627) (brazo, misma marca), el HEM-6124 es más compacto pero pierde el formato de referencia.
 
 ## Para quién sí y para quién no
 
@@ -73863,7 +73862,7 @@ Comprá el Omron HEM-6124 si querés el respaldo de la marca líder en un format
       },
       {
         question: "¿Por qué elegir este en vez del Omron de brazo?",
-        answer: "Es más compacto y más barato que el HEM-7142 (brazo) de esta guía, aunque el formato brazo suele preferirse como estándar de medición.",
+        answer: "Es más compacto que el HEM-7142 (brazo) de esta guía, pero no más barato: con el precio actual, es el más caro de esta guía. El formato brazo, además, suele preferirse como estándar de medición.",
       },
       {
         question: "¿Tiene conectividad con app?",
@@ -73879,15 +73878,15 @@ Comprá el Omron HEM-6124 si querés el respaldo de la marca líder en un format
       brand: { "@type": "Brand", name: "Omron" },
       offers: {
         "@type": "Offer",
-        url: "https://www.mercadolibre.com.ar/omron-tensiometro-digital-de-muneca-hem6124/up/MLAU332481087",
+        url: "https://www.mercadolibre.com.ar/tensiometro-de-muneca-omron-hem-6124-essential-cts/p/MLA28753837",
         priceCurrency: "ARS",
-        price: "71479",
+        price: "151036",
         availability: "https://schema.org/InStock",
       },
       aggregateRating: {
         "@type": "AggregateRating",
-        ratingValue: "4.8",
-        reviewCount: "6682",
+        ratingValue: "4.9",
+        reviewCount: "1445",
       },
     },
   },
@@ -73895,8 +73894,8 @@ Comprá el Omron HEM-6124 si querés el respaldo de la marca líder en un format
     id: "MLA24533653",
     title: "Tensiómetro digital de brazo Microlife BP A200 AFIB blanco",
     canonicalName: "Tensiómetro Digital de Brazo Microlife BP A200 AFIB",
-    price: 133390,
-    originalPrice: 131473,
+    price: 98539,
+    originalPrice: 140770,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_Q_NP_688153-MLA84480880023_052025-F.webp",
     images: [
@@ -73909,7 +73908,7 @@ Comprá el Omron HEM-6124 si querés el respaldo de la marca líder en un format
     condition: "new",
     freeShipping: true,
     rating: 4.8,
-    reviewCount: 330,
+    reviewCount: 329,
     soldQuantity: 1000,
     pastelColor: "var(--pastel-purple)",
     visibility: "normal",
@@ -73927,14 +73926,14 @@ Comprá el Omron HEM-6124 si querés el respaldo de la marca líder en un format
       { label: "Bluetooth", value: "No" },
     ],
     relatedProducts: ["MLA24044627", "MLA22255575", "MLA24111585"],
-    priceUpdated: "2026-10-12",
-    priceLastChecked: "2026-10-12",
+    priceUpdated: "2026-11-02",
+    priceLastChecked: "2026-11-02",
     priceStatus: "fresh",
-    reviewsSampledAt: "2026-07-19",
+    reviewsSampledAt: "2026-11-02",
     description: "Tensiómetro digital de brazo Microlife BP A200 AFIB: el único de esta guía con tecnología PAD (aviso de pulso irregular) declarada en su ficha técnica.",
     seoTitle: "Microlife BP A200 AFIB: aviso de pulso irregular",
     metaDescription: "Tensiómetro digital de brazo Microlife BP A200 AFIB, con tecnología PAD de aviso de pulso irregular. Precio actualizado y opiniones reales.",
-    verdict: "Sirve si buscás el único tensiómetro de esta guía con tecnología PAD (aviso de pulso irregular durante la medición) declarada en su ficha técnica, con 200 memorias, la mayor capacidad de la comparativa. No diagnostica arritmia: es un dato de ficha, no una recomendación médica, y el nombre de la publicación (\"AFIB\") suena más clínico que la función real. Consultá siempre con un profesional de la salud si necesitás monitorear arritmia. La contra real: tiene bastante menos volumen de reseñas que el resto de esta guía (292 contra miles), y no tiene descuento tan agresivo como otros modelos. No es para vos si buscás el mayor historial de reseñas posible: para eso, el Omron HEM-7142 de esta guía tiene casi 100 veces más calificaciones.",
+    verdict: "Sirve si buscás el único tensiómetro de esta guía con tecnología PAD (aviso de pulso irregular durante la medición) declarada en su ficha técnica, con 200 memorias, la mayor capacidad de la comparativa. No diagnostica arritmia: es un dato de ficha, no una recomendación médica, y el nombre de la publicación (\"AFIB\") suena más clínico que la función real. Consultá siempre con un profesional de la salud si necesitás monitorear arritmia. La contra real: tiene bastante menos volumen de reseñas que el resto de esta guía ({{reviews:MLA24533653}} contra miles). No es para vos si buscás el mayor historial de reseñas posible: para eso, el Omron HEM-7142 de esta guía tiene más de 100 veces más calificaciones.",
     pros: [
       "El único de esta guía con tecnología PAD (aviso de pulso irregular durante la medición) declarada en su ficha técnica",
       "200 memorias, la mayor capacidad de esta guía",
@@ -73942,8 +73941,8 @@ Comprá el Omron HEM-6124 si querés el respaldo de la marca líder en un format
       "Marca suiza con presencia establecida en farmacias",
     ],
     cons: [
-      "{{reviews:MLA24533653}} calificaciones, bastante menos volumen que el resto de esta guía (3.230 a 27.369)",
-      "Precio alto sin descuento tan agresivo como otros modelos de esta guía",
+      "{{reviews:MLA24533653}} calificaciones, bastante menos volumen que el resto de esta guía",
+      "Precio alto en términos absolutos, pese al descuento vigente",
       "Sin Bluetooth ni app propia mencionada en la ficha",
       "No incluye adaptador a corriente, solo funciona a pila AA de fábrica",
     ],
@@ -73957,7 +73956,7 @@ Con 200 memorias (la mayor capacidad de esta guía) y tecnología MAM (que prome
 
 ## La contra real
 
-El punto más honesto a señalar es el volumen de reseñas: con solo {{reviews:MLA24533653}} calificaciones (contra miles en el resto de esta guía), hay menos historial acumulado sobre durabilidad y uso cotidiano. El precio tampoco tiene el descuento agresivo que sí tienen otros modelos de esta guía. Y el nombre "AFIB" de la publicación es más ambicioso que lo que la propia ficha técnica declara.
+El punto más honesto a señalar es el volumen de reseñas: con solo {{reviews:MLA24533653}} calificaciones (contra miles en el resto de esta guía), hay menos historial acumulado sobre durabilidad y uso cotidiano. Y el nombre "AFIB" de la publicación es más ambicioso que lo que la propia ficha técnica declara.
 
 ## Cómo se compara con los otros de esta guía
 
@@ -73995,13 +73994,13 @@ Comprá el Microlife BP A200 AFIB si buscás el aviso de pulso irregular declara
         "@type": "Offer",
         url: "https://www.mercadolibre.com.ar/tensiometro-digital-de-brazo-microlife-bp-a200-afib-blanco/p/MLA24533653",
         priceCurrency: "ARS",
-        price: "115419",
+        price: "98539",
         availability: "https://schema.org/InStock",
       },
       aggregateRating: {
         "@type": "AggregateRating",
         ratingValue: "4.8",
-        reviewCount: "292",
+        reviewCount: "329",
       },
     },
   },

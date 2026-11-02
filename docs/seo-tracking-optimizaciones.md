@@ -1,5 +1,19 @@
 # Tracking de optimizaciones de guías (SEO)
 
+## 2026-11-02 — Refresh de `tensiometro-digital` (salud-bienestar) — tercer swap de vendedor del Omron HEM-6124 lo hizo pasar de "barato" a "el más caro"
+
+Origen: siguiente guía del backlog "vencidas con más afiliados" (47 días, 9 afiliados), tras `robot-aspiradora-gadnic`. Contenido de salud (YMYL): los disclaimers médicos ya existentes (no diagnóstico, consultar profesional, distinción PAD/AFIBsens) no se tocaron, solo se verificó que siguieran intactos tras el refresh.
+
+**Hallazgo 1 (bug preexistente, no inducido): el Microlife BP A200 AFIB tenía un "descuento negativo"** — `originalPrice` ($131.473) era MENOR que `price` ($133.390), el mismo patrón ya visto este día en otro producto. Corregido con los valores reales verificados en vivo ($98.539 con 30% OFF sobre $140.770).
+
+**Hallazgo 2 (el grande): el Omron HEM-6124 tuvo un TERCER cambio de vendedor** sobre el mismo catálogo (MLA28753837, ya documentado con 2 swaps previos por falta de stock). El vendedor vigente hoy es GONTOCAL, con un salto de precio del 24% ($121.446 → $151.036) y un reviewCount que bajó de 6682 (heredado del vendedor anterior) a 1445 (el real de la publicación vigente, esta vez sí actualizado). Este único cambio rompió DOS superlativos distintos en la ficha y la guía: (a) el HEM-6124 dejó de ser "la segunda base de reseñas más grande" (pasó a tercera, detrás de la Coronet), y (b) — el que se me pasó en la primera pasada, lo encontró el trío — dejó de ser "más barato que la versión de brazo" para pasar a ser el tensiómetro MÁS CARO de las 4 fichas de la guía. Se corrigieron ambos ejes en los 5 lugares donde aparecían (guía + verdict/pros/description/articleBody/FAQ de la ficha), y se corrigió también el standfirst de la guía, que daba a entender que el Microlife era el techo de precio.
+
+**Trío auditor: 2 rondas.** Ronda 1: ambos NO-GO por el mismo hallazgo central (la contradicción "más barato" vs. el precio real), más Codex señalando que la explicación pública del swap decía "tres cambios por falta de stock" cuando el tercero en realidad fue un cambio de Buy Box sin stock-out (se corrigió para distinguir ambos casos), y `updatedDate`/`sitemapLastmod` sin bumpear. Ronda 2: GO/GO limpio.
+
+**Lección reforzada (va también a MISTAKES.md):** un mismo cambio de precio puede romper más de un superlativo a la vez, en ejes distintos (precio relativo Y volumen de reseñas relativo). Corregir el primero que se nota no es señal de haber terminado — hay que recorrer explícitamente cada eje comparativo que la guía usa.
+
+**Verificado:** `tsc --noEmit` limpio, `npm run guides:check` en verde (0 deuda nueva, techo de reseñas hardcodeadas bajado de 893 a 887), `npm run build` sin errores.
+
 ## 2026-11-02 — Refresh de `robot-aspiradora-gadnic` — el "5 Modos" quedó sin stock, el "3 Modos" cambió de producto por completo, y el AC800 no era "el único con LIDAR"
 
 Origen: siguiente guía del backlog "vencidas con más afiliados" (119 días, 16 afiliados), tras `philips-freidoras-de-aire-review`. Verifiqué en vivo los 4 productos activos con el Chrome del usuario.

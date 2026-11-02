@@ -3,6 +3,16 @@
 > Bitácora de cosas que salieron mal. Crece con cada error.
 > Formato: fecha — qué pasó — por qué — cómo evitarlo la próxima vez.
 
+## 2026-11-02 — Corregir un superlativo roto no alcanza si hay DOS superlativos atados al mismo cambio de precio
+
+**Qué pasó:** en el refresh de `tensiometro-digital`, el Omron HEM-6124 (ya con historial de 2 swaps de vendedor documentados) tuvo un tercer swap que le subió el precio un 24% y le bajó el reviewCount de 6682 a 1445. Corregí de entrada el superlativo de reseñas ("segunda base más grande de esta guía" dejó de ser cierto, ahora es la tercera) en los 5 lugares donde aparecía. Pero el MISMO cambio de precio rompió un segundo superlativo distinto, que no toqué en la primera pasada: la ficha y la guía seguían diciendo que el HEM-6124 era "más compacto y barato que la versión de brazo" — con el precio nuevo, pasó a ser el tensiómetro MÁS CARO de las 4 fichas de la guía, lo opuesto de "barato". Lo encontraron Codex y agy en la ronda 1 del trío auditor, no yo.
+
+**Por qué:** un mismo cambio numérico (un precio que sube) puede romper varios superlativos independientes a la vez (precio relativo Y volumen de reseñas relativo, en este caso), y cada uno vive en frases distintas del texto. Arreglar el primero que uno nota no significa haber terminado de recalcular todo lo que ese número sostenía — hay que preguntarse, para CADA eje que la guía usa como argumento de venta (precio, reseñas, rating, capacidad), si el cambio de hoy invalidó alguna afirmación relativa en ese eje, no solo en el eje que motivó la edición.
+
+**Cómo evitarlo:** después de actualizar un precio o reviewCount que cambia sustancialmente, hacer una lista explícita de los ejes comparativos que la guía usa (no solo el que motivó el cambio) y recorrerla uno por uno: ¿sigue siendo el más barato/caro? ¿sigue siendo el que tiene más/menos reseñas? ¿sigue siendo el más grande/chico? Grepear "más barato", "más caro", "el único", "la segunda", etc. contra el nuevo estado, no asumir que corregir un hallazgo cubre los demás. Es la tercera vez en el mismo día que aparece esta familia de bug (ya documentada antes como "tokenizar un precio no alcanza"), ahora en su variante "un precio roto puede tener más de una víctima".
+
+**Archivos involucrados:** `src/data/guides.ts` (guía `tensiometro-digital`), `src/data/curated-products.ts` (ficha MLA24111585)
+
 ## 2026-11-02 — El ID de catálogo de MercadoLibre no es estable: puede cambiar de producto por completo sin que nadie lo note
 
 **Qué pasó:** en el refresh de `robot-aspiradora-gadnic`, el producto "Gadnic 3 Modos" (MLA42045783) resultó ser hoy un robot completamente distinto al que describía la guía: pasó de "sin app, sin láser, sin mapeo" a tener WiFi, app Tuya, control por voz (Alexa, Google Home) y trapeado. La ficha de producto YA había sido actualizada para reflejar esto en una pasada anterior (pros, cons, verdict, articleBody, specs, FAQ todos correctos) — pero al copiar/adaptar ese contenido, alguien dejó el `title`, `h1`, `metaDescription`, `line` y varios párrafos autoreferenciándose como "Gadnic AspiRob", el nombre de OTRO producto real del mismo catálogo (MLA36838658) con specs distintas (ese sí con mapeo láser LiDAR). Quedó una colisión de identidad entre dos SKUs reales del sitio, invisible hasta que el trío auditor la señaló explícitamente en dos rondas separadas.
