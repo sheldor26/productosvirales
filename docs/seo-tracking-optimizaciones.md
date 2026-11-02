@@ -1,5 +1,19 @@
 # Tracking de optimizaciones de guías (SEO)
 
+## 2026-11-02 — Refresh de `philips-freidoras-de-aire-review` — la guía describía mal el HD9280/90 pese a que su propia ficha ya tenía los datos correctos
+
+Origen: siguiente guía del backlog "vencidas con más afiliados", tras `monopatin-electrico`. Verifiqué en vivo las 4 fichas activas (NA120/00, HD9280/90, PHNA23100, PHNA35100) con el Chrome del usuario; la quinta (HD9270/91) ya estaba `deprioritized` de antes, sin tocar.
+
+**Hallazgo grande: la sección H3 propia del HD9280/90 (MLA19630913) describía un producto distinto al que realmente se vende en esa publicación.** Decía "~8 litros, canasta simple, sin controles inteligentes... no hay conectividad bluetooth ni pantallitas innecesarias" — todo falso para esta ficha puntual, que es de 6.2L, con Wi-Fi confirmado, control por la app NutriU y la única freidora del catálogo compatible con Amazon Alexa. La propia ficha de producto (ya existente, completa, con 7 presets nombrados) ya tenía la descripción correcta hace tiempo — la guía nunca se escribió cruzando contra ella. Se reescribió la sección completa (título H3, product-card, 2 párrafos, fila de tabla, mención en el veredicto, metaDescription/ogTitle/ogDescription) para que coincida con la realidad del producto.
+
+**Precio/reviewCount actualizados en vivo en las 4 fichas activas**, con el mismo patrón de desincronismo campo/prosa que ya viene apareciendo en cada guía del día: 3 de las 4 fichas tenían el campo top-level `price`/`reviewCount` bien pero el bloque `structuredData.offers.price`/`aggregateRating.reviewCount` (que vive en el mismo objeto, se escribe aparte) seguía con el valor viejo — lo encontró Codex en la ronda 1. En la ronda 2 apareció un tercer residual, un precio hardcodeado de OTRO producto (NA120/00, "$86.490") mencionado de paso dentro del `articleBody` de la ficha de PHNA23100, nunca tokenizado.
+
+**Superlativo roto por el cambio de precios, otra vez la misma familia de bug:** la guía decía que la PHNA35100 (doble canasta) era "la inversión más grande de la línea" — dejó de ser cierto en cuanto el HD9280/90 ($449.999) pasó a costar más que la PHNA35100 ($277.999) tras el refresh de precios. Se reescribió para separar los dos ejes: la PHNA35100 tiene la mayor CAPACIDAD (9L), el HD9280/90 es hoy la más CARA (por Wi-Fi/Alexa).
+
+**Trío auditor: 3 rondas.** Ronda 1: Codex NO-GO con los 4 bloqueantes de arriba (structuredData desincronizado en 3 fichas, 2 hardcodes residuales en NA120/00, el superlativo roto de PHNA35100, `updatedDate` sin bumpear). Se corrigieron los 4. Ronda 2: Codex encontró el quinto residual (precio hardcodeado de NA120/00 dentro de la ficha de PHNA23100); agy dio GO limpio evaluando el párrafo reescrito como natural y la segmentación entre las 4 opciones como clara para AIO/SERP. Ronda 3 (solo Codex, confirmación corta tras el último fix): GO.
+
+**Verificado:** `tsc --noEmit` limpio, `npm run guides:check` en verde (0 deuda nueva, techo de reseñas hardcodeadas bajado de 898 a 896), `npm run build` sin errores. El dev server local sigue fallando por el mismo problema de red con Google Fonts no relacionado al contenido; me apoyé en el build de producción limpio, no pude hacer verificación visual en vivo.
+
 ## 2026-11-02 — Sourcing nuevo desde el hub de afiliados ML: Yelmo YG-1717 reemplaza a Delhi DL-160Y en `yogurtera` + `yogurtera-daewoo`, y 2 pavas eléctricas nuevas (Novohome, Unnic) suman a `pava-electrica-acero-inoxidable` y `pava-electrica-control-temperatura`
 
 Origen: pedido explícito de Juan de explorar el hub de afiliados de Mercado Libre (`afiliados/hub/explore`, pestaña Más vendidos) para encontrar productos faltantes en guías existentes o candidatos a guías nuevas. Research hecho con el Chrome del usuario, cruzando los hallazgos contra las 292 guías del sitio.
