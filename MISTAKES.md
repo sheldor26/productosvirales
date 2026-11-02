@@ -16,6 +16,16 @@
 **Archivos involucrados:** `path/a/archivo.ts`
 -->
 
+## 2026-11-02 — El commit de otra sesión concurrente arrastró mi trabajo sin commitear bajo su propio mensaje
+
+**Qué pasó:** mientras esta sesión trabajaba sourcing de productos nuevos (Yelmo YG-1717, pavas Novohome/Unnic) sin commitear todavía, al menos otras 2 sesiones concurrentes estaban editando los mismos dos archivos (`src/data/curated-products.ts`, `src/data/guides.ts`) sobre el mismo checkout compartido, siguiendo el mismo backlog del reporte SEO semanal. Una de ellas (trabajando `cafetera-de-filtro`) corrió `git commit` con el working tree en el estado que tenía en ese momento — y como mi contenido de yogurtera/pava ya estaba escrito en disco pero sin commitear, quedó adentro de ese commit (`2cfe36f`), bajo un mensaje que solo menciona cafetera.
+
+**Por qué:** la mitigación ya documentada en memoria ("verificar el index antes de commitear en multi-sesión") asume que el riesgo es QUE YO arrastre archivos ajenos ya *staged* al commitear. Este caso es el inverso: OTRA sesión commiteó y arrastró MI contenido sin stagear, porque ambas compartíamos el mismo working tree físico, no solo el mismo repo. `git status`/`git diff` antes de mi propio commit no hubiera prevenido esto — el problema ocurrió en el commit ajeno, no en el mío.
+
+**Cómo evitarlo:** cuando el trabajo de contenido es sustancial (varias fichas, varias guías) y se sabe que hay backlog compartido con otras sesiones corriendo en paralelo, commitear en commits chicos y frecuentes en vez de acumular todo el trabajo sin commitear hasta el final — reduce la ventana en la que un commit ajeno puede arrastrar lo propio. Si de todos modos pasa (se detecta por un `git diff --stat` sospechosamente chico después de haber escrito mucho contenido), no intentar reescribir el commit ajeno (`amend`/`rebase`) sin preguntar: puede ya estar siendo usado como base por otra sesión. Verificar con `git show <hash> -- archivo | grep <IDs propios>` que el contenido quedó bien igual, documentar el mensaje de commit engañoso en el tracking doc, y seguir.
+
+**Archivos involucrados:** `src/data/curated-products.ts`, `src/data/guides.ts` — contenido real sin pérdida, solo el commit `2cfe36f` tiene un mensaje que no refleja todo lo que contiene.
+
 ## 2026-11-02 — REGLA CONFIRMADA: el desincronismo campo/prosa de reseñas es un patrón recurrente, no un caso aislado
 
 **Qué pasó:** el mismo bug exacto del hallazgo de Waterdog (abajo) se repitió dos veces más el mismo día, en la misma sesión, en la guía `cafetera-de-filtro`: la ficha de Smartlife SL-CM1095 tenía `reviewCount: 1738` correcto en el campo, pero description, pros, verdict, articleBody (con un desglose "77/10/7" que sumaba exactamente 94) y FAQ seguían diciendo "94" en más de 10 lugares. El precio tenía el mismo problema: el campo decía 104.849 pero la prosa decía "$79.999" en casi todos lados.

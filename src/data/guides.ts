@@ -10810,7 +10810,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "trust-block", trustVariant: "methodology", content: "**Cómo comparamos:** analizamos las pavas con control de temperatura disponibles hoy en MercadoLibre Argentina y las ordenamos por relación precio-prestaciones. Miramos cuántos niveles de control real tiene cada una (no el marketing), si el material es plástico o acero, y qué dicen las calificaciones públicas de compradores reales. Los precios se revisan periódicamente." },
 
       { type: "h2", title: "Las ocho opciones" },
-      { type: "p", content: "Encontré ocho modelos con control de temperatura en Argentina. Peabody y Liliana tienen dos cada una, Oster también dos, y hay uno de Atma y uno de Unnic. Cuatro son plástico, tres acero, y una híbrida. Los precios van de {{precio:MLA8933826}} a {{precio:MLA8993736}}." },
+      { type: "p", content: "Encontré ocho modelos con control de temperatura en Argentina. Peabody y Liliana tienen dos cada una, Oster también dos, y hay uno de Atma y uno de Unnic. Tres son plástico, cuatro acero, y una híbrida. Los precios van de {{precio:MLA8933826}} a {{precio:MLA8993736}}." },
       { type: "callout", calloutVariant: "tip", calloutTitle: "¿Cuántos niveles necesitás en realidad?", content: "La mayoría usa 3-4 temperaturas: 50-60° para té blanco, 70° para té verde, 80° para mate, 100° para hervir. Más niveles que eso son un extra, no una necesidad — salvo que prepares infusiones muy específicas." },
 
       { type: "h2", title: "El ranking: mejores pavas con control de temperatura", id: "ranking" },
@@ -10837,7 +10837,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "product-card", productMlaId: "MLA54676373", label: "Premium", labelColor: "purple", ranking: 5, description: "7 niveles de temperatura, doble pared (interior acero, exterior plástico), mantiene caliente, pantalla digital. 4.8 estrellas, aunque con base de opiniones más chica (204)." },
       { type: "p", content: "Es la que más niveles ofrece (7) y la única con doble pared de esta lista, así que se mantiene tibia por fuera aunque hierva adentro. Cuesta {{preciodif:MLA54676373:MLA19589519}} más que la Atma — se justifica si te importa la doble pared o si necesitás mantener el agua caliente por más tiempo sin volver a hervir." },
 
-      { type: "h3", title: "6. Unnic STEAM04 — presets por bebida" },
+      { type: "h3", title: "6. Unnic — presets por bebida" },
       { type: "product-card", productMlaId: "MLA67178981", label: "Presets por bebida", labelColor: "slate", ranking: 6, description: "Acero inoxidable, pantalla táctil, 4 niveles etiquetados por bebida (mamadera, mate, café, hervir), según una imagen del vendedor. {{rating:MLA67178981}} estrellas en {{reviews:MLA67178981}} calificaciones." },
       { type: "p", content: "Es la única de esta lista que etiqueta los niveles por tipo de bebida en vez de mostrar solo el número de grados: según una imagen del vendedor, los presets son 40° (mamadera), 80° (mate), 90° (café) y 100° (hervir). Cuesta {{preciodif:MLA67178981:MLA19589519}} más que la Atma, pero resuelve de entrada la pregunta de a qué temperatura corresponde cada bebida." },
       { type: "p", content: "Lo honesto: tiene bastante menos respaldo que la Atma ({{reviews:MLA67178981}} contra {{reviews:MLA19589519}} calificaciones), y una reseña real marca que el acero es 'finito' (más delgado de lo esperado), aunque funcionalmente cumple bien." },
@@ -10857,7 +10857,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
           ["[Liliana Safeheat AAP992N](https://meli.la/2kApAsJ)", "{{precio:MLA54676373}}", "7", "Híbrida", "Máximo control + mantener caliente"],
           ["[Oster 4970B](https://meli.la/31ihPzQ)", "{{precio:MLA11145437}}", "3", "Plástico", "No recomendado: menos niveles que la Atma por más plata"],
           ["[Oster 8970](https://meli.la/1jdC3sW)", "{{precio:MLA8993736}}", "4", "Acero", "No recomendado: igual que la Peabody DK1850 por más"],
-          ["[Unnic STEAM04](https://meli.la/1ZoiQLM)", "{{precio:MLA67178981}}", "4", "Acero", "Presets etiquetados por bebida, no por grado"],
+          ["[Unnic](https://meli.la/1ZoiQLM)", "{{precio:MLA67178981}}", "4", "Acero", "Presets etiquetados por bebida, no por grado"],
         ],
       },
 
@@ -10866,11 +10866,11 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "p", content: "Para la mayoría, preset digital o niveles mecánicos alcanzan. Las temperaturas estándar (50°/70°/80°/90°/100°) están en los preset de Peabody o niveles de Atma. Control continuo tiene sentido solo si preparás infusiones muy específicas." },
 
       { type: "h2", title: "Plástico vs acero: qué importa más" },
-      { type: "p", content: "Cuatro modelos son plástico, dos acero, uno híbrido. La diferencia de precio entre plástico y acero ronda los $10.000 a $20.000. Acero dura más (3-4 años vs 2-3 años). Plástico no se rompe, pero toma olor después de 1-2 años. Podés limpiarlo con vinagre pero no desaparece completamente." },
+      { type: "p", content: "Tres modelos son plástico, cuatro acero, uno híbrido. La diferencia de precio entre plástico y acero ronda los $10.000 a $20.000. Acero dura más (3-4 años vs 2-3 años). Plástico no se rompe, pero toma olor después de 1-2 años. Podés limpiarlo con vinagre pero no desaparece completamente." },
       { type: "p", content: "La matemática, con los precios de hoy: plástico ({{precio:MLA8933826:k}}) dura 2-3 años, entre $15.300 y $22.950 por año. Acero ({{precio:MLA14263533:k}}) dura 3-4 años, entre $16.475 y $21.967 por año. La diferencia anual es chica, no se define solo por plata. Si tu presupuesto es ajustado, plástico funciona bien. Si querés algo que dure más y no tome olor, vale la pena el extra de acero." },
 
       { type: "h2", title: "Veredicto: cuál comprar", id: "veredicto" },
-      { type: "verdict", content: "Para la mayoría, la [Atma PE1821NAP](https://meli.la/2uprqZS) por {{precio:MLA19589519}}: 6 niveles cuando la mayoría de las de acero tienen 3 o 4. ¿Presupuesto ajustado? La [Liliana AP175B](https://meli.la/2qM28cx) por {{precio:MLA8933826}}. ¿Necesitás control continuo? La [Peabody DK2200N](https://meli.la/2cyQgD2) por {{precio:MLA47275624}}. ¿Querés acero? La [Peabody DK1850](https://meli.la/2T7Y1zd) por {{precio:MLA14263533}}. ¿Preferís elegir directo 'mate' o 'café' en vez de calcular grados? La [Unnic STEAM04](https://meli.la/1ZoiQLM) por {{precio:MLA67178981}}. No compres ninguna de las dos Oster: a igual o más precio, no dan nada que las otras no den por menos." },
+      { type: "verdict", content: "Para la mayoría, la [Atma PE1821NAP](https://meli.la/2uprqZS) por {{precio:MLA19589519}}: 6 niveles cuando la mayoría de las de acero tienen 3 o 4. ¿Presupuesto ajustado? La [Liliana AP175B](https://meli.la/2qM28cx) por {{precio:MLA8933826}}. ¿Necesitás control continuo? La [Peabody DK2200N](https://meli.la/2cyQgD2) por {{precio:MLA47275624}}. ¿Querés acero? La [Peabody DK1850](https://meli.la/2T7Y1zd) por {{precio:MLA14263533}}. ¿Preferís elegir directo 'mate' o 'café' en vez de calcular grados? La [Unnic](https://meli.la/1ZoiQLM) por {{precio:MLA67178981}}. No compres ninguna de las dos Oster: a igual o más precio, no dan nada que las otras no den por menos." },
       { type: "p", content: "Si solo hervís agua sin control de temperatura, la [Atma PEAT1351](https://meli.la/1mMbqaY) sale {{precio:MLA49199049}} y hace el mismo trabajo con interior de acero. Si priorizás durabilidad sobre control, mirá la [guía de pava Philips](/guias/pava-electrica-philips). Y si querés una pava de [acero inoxidable sin control](/guias/pava-electrica-acero-inoxidable), esa es otra categoría." },
     ],
     faq: [
@@ -10881,7 +10881,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { question: "¿Control continuo es mejor que preset?", answer: "Solo si necesitás temperaturas muy específicas. Control continuo ([Peabody DK2200N](https://meli.la/2cyQgD2)) te deja elegir cualquier número entre 40 y 100. Preset te limita a 4-6 temperaturas fijas. Para la mayoría, preset alcanza porque las temperaturas estándar (50/70/80/100) están incluidas." },
       { question: "¿Por qué Oster es tan cara?", answer: "Marca. La [Oster 8970](https://meli.la/1jdC3sW) a {{precio:MLA8993736}} tiene lo mismo que la [Peabody DK1850](https://meli.la/2T7Y1zd) a {{precio:MLA14263533}}: acero, varios niveles de temperatura, pantalla digital. La diferencia de {{preciodif:MLA8993736:MLA14263533}} es solo marca." },
       { question: "¿Cuánto dura una pava con control de temperatura?", answer: "Plástico: 2-3 años. Acero: 3-4 años. El control de temperatura puede fallar después de 2 años (termostato descalibrado, pantalla digital rota). Pero en general duran lo mismo que pavas sin control." },
-      { question: "¿Qué pava tiene presets por tipo de bebida en vez de por grado?", answer: "La [Unnic STEAM04](https://meli.la/1ZoiQLM), la única de esta guía que etiqueta sus 4 niveles por bebida (mamadera, mate, café, hervir) según una imagen del vendedor, en vez de solo mostrar el número de grados. El resto de las pavas de esta comparativa muestran únicamente la temperatura." },
+      { question: "¿Qué pava tiene presets por tipo de bebida en vez de por grado?", answer: "La [Unnic](https://meli.la/1ZoiQLM) (la ficha técnica de MercadoLibre declara el modelo 'KETTLE04'; una imagen de marketing del propio vendedor lo llama 'STEAM04'), la única de esta guía que etiqueta sus 4 niveles por bebida (mamadera, mate, café, hervir), en vez de solo mostrar el número de grados. El resto de las pavas de esta comparativa muestran únicamente la temperatura." },
     ],
     internalLinksTitle: "Relacionado",
     internalLinks: [
