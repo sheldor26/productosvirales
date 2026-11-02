@@ -1,5 +1,21 @@
 # Tracking de optimizaciones de guías (SEO)
 
+## 2026-11-02 — Refresh de `cargador-portatil` (pilar tech) — el Energizer con visor LCD quedó sin stock, y una baja de precio del Xiaomi rompió dos superlativos del Gadnic
+
+Origen: último guía del backlog "vencidas con más afiliados" del día (111 días, 9 afiliados), tras `tensiometro-digital`. Verifiqué en vivo los 6 productos activos con el Chrome del usuario.
+
+**Hallazgo 1: Energizer Ultimate 10.000 mAh con visor LCD (MLA47759077) quedó sin stock.** Único color, "Este producto no está disponible". Busqué un vendedor nuevo con el modelo exacto (UE10073PQ) y no apareció ninguno — ML sugiere una "Energizer MAX" (UE10068C) como relacionada, pero es otra línea de la marca, no el mismo producto. Se marcó `deprioritized`/`out_of_stock`, se sacó del ranking activo (6→5 productos: Gadnic, Ugreen, Xiaomi, Mcdodo, Energizer 27k), se reemplazó su sección H3 por un callout explicativo, se sacó de la tabla y del veredicto (que la recomendaba activamente), y se registró en `docs/productos-sin-stock.md`.
+
+**Hallazgo 2: el precio del Xiaomi bajó fuerte** (de $40.311 a $32.999, sin descuento tachado — nota aparte: su publicación muestra "Últimas 3 unidades", a monitorear) **y eso rompió dos superlativos del Gadnic** que nadie tocó en la primera pasada: "al precio más bajo de la comparativa" y "por menos de lo que sale un 10.000 de marca" — con el Xiaomi ahora más barato ($32.999 vs $47.949 del Gadnic), ambas afirmaciones se volvieron falsas. Lo encontró Codex en la ronda 1, no yo. Se corrigieron para hablar de "mejor relación mAh por peso" (que sigue siendo cierto: $1,92/mAh el Gadnic contra $2,32 el Mcdodo y $3,30 el Xiaomi) en vez de "el más barato".
+
+**Hallazgo 3 (mismo día, misma familia de bug): el reviewCount del Energizer 27.000 subió** (210→226) **y eso rompió su propia afirmación de "la base de opiniones más chica"** — el Mcdodo, con 74, es ahora la más chica. Se sacó esa afirmación de 4 lugares (guía x2, ficha x2).
+
+**Trío auditor: 2 rondas.** Ronda 1: Codex NO-GO con los 2 superlativos rotos del Gadnic/Energizer 27k más una ficha (Energizer 10k sin stock) que todavía tenía un "Compralo si..." activo contradiciendo su propio estado; agy dio GO con 3 mejoras opcionales (limpiar `relatedProducts` de 5 fichas que apuntaban al producto sin stock, singularizar "los Energizer" → "el Energizer" en la ficha del Mcdodo ahora que solo queda uno activo, registrar en productos-sin-stock.md). Se aplicaron los 3 bloqueantes y las 3 mejoras. Ronda 2: GO/GO limpio.
+
+**Lección reforzada (va también a MISTAKES.md):** con 6 productos en una misma comparativa, un solo cambio de precio o reviewCount puede romper superlativos de OTROS productos de la comparativa, no solo del que cambió. Hay que recorrer cada eje de comparación (precio, precio/capacidad, reviewCount) contra todos los productos, no solo revisar el que se tocó.
+
+**Verificado:** `tsc --noEmit` limpio, `npm run guides:check` en verde (0 deuda nueva, techo de reseñas hardcodeadas bajado de 887 a 886), `npm run build` sin errores.
+
 ## 2026-11-02 — Refresh de `tensiometro-digital` (salud-bienestar) — tercer swap de vendedor del Omron HEM-6124 lo hizo pasar de "barato" a "el más caro"
 
 Origen: siguiente guía del backlog "vencidas con más afiliados" (47 días, 9 afiliados), tras `robot-aspiradora-gadnic`. Contenido de salud (YMYL): los disclaimers médicos ya existentes (no diagnóstico, consultar profesional, distinción PAD/AFIBsens) no se tocaron, solo se verificó que siguieran intactos tras el refresh.

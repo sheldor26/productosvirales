@@ -65630,7 +65630,7 @@ Comprá este kit si estás construyendo o remodelando (podés pasar los cables p
       { label: "Incluye cable", value: "Sí" },
       { label: "Color", value: "Negro" },
     ],
-    relatedProducts: ["MLA40654567", "MLA29504563", "MLA47759077"],
+    relatedProducts: ["MLA40654567", "MLA29504563", "MLA51985227"],
     priceUpdated: "2026-10-09",
     priceLastChecked: "2026-10-12",
     priceStatus: "fresh",
@@ -65678,8 +65678,8 @@ Compralo si querés la mayor autonomía por la menor plata para viajes, cortes d
     title: "Cargador Portatil Gadnic 25000 Mah Carga Rapida 5v 2a Dual Entrada Micro Entrada Tipo C Negro",
     canonicalName: "Cargador Portátil Gadnic 25.000 mAh",
     brand: "Gadnic",
-    price: 47099,
-    originalPrice: 64999,
+    price: 47949,
+    originalPrice: 83349,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_781826-MLA81270222720_122024-F.jpg",
     images: [
@@ -65693,7 +65693,7 @@ Compralo si querés la mayor autonomía por la menor plata para viajes, cortes d
     condition: "new",
     freeShipping: true,
     rating: 4.6,
-    reviewCount: 4438,
+    reviewCount: 4800,
     pastelColor: "var(--pastel-green)",
     visibility: "normal",
     specs: [
@@ -65707,17 +65707,17 @@ Compralo si querés la mayor autonomía por la menor plata para viajes, cortes d
       { label: "Dimensiones", value: "148 x 70 x 28 mm" },
       { label: "Color", value: "Negro" },
     ],
-    relatedProducts: ["MLA40654567", "MLA29504563", "MLA47759077"],
-    priceUpdated: "2026-10-02",
-    priceLastChecked: "2026-10-12",
+    relatedProducts: ["MLA40654567", "MLA29504563", "MLA51985227"],
+    priceUpdated: "2026-11-02",
+    priceLastChecked: "2026-11-02",
     priceStatus: "fresh",
-    reviewsSampledAt: "2026-07-14",
-    description: "Cargador portátil Gadnic de 25.000 mAh con entrada USB-C y doble salida USB: 4º más vendido de la categoría en MercadoLibre, con más de 3.300 calificaciones.",
+    reviewsSampledAt: "2026-11-02",
+    description: "Cargador portátil Gadnic de 25.000 mAh con entrada USB-C y doble salida USB: 4º más vendido de la categoría en MercadoLibre, con {{reviews:MLA28743686}} calificaciones.",
     seoTitle: "Power Bank Gadnic 25.000 mAh: la mayor capacidad, ¿rinde?",
-    metaDescription: "Cargador portátil Gadnic 25.000 mAh: 4º más vendido de la categoría en Argentina, con más de 3.300 calificaciones. Precio real, pros y contras.",
+    metaDescription: "Cargador portátil Gadnic 25.000 mAh: 4º más vendido de la categoría en Argentina, con {{reviews:MLA28743686}} calificaciones. Precio real, pros y contras.",
     verdict: "El Gadnic de 25.000 mAh sirve si querés la mayor capacidad por la menor plata y no te molesta el tamaño: es de los power banks más vendidos del catálogo y la relación mAh por peso es de las mejores de esta guía. No sirve si buscás algo liviano de bolsillo o carga rápida de última generación: acá pagás poco por muchos mAh, no por velocidad ni portabilidad.",
     pros: [
-      "4º más vendido de la categoría en MercadoLibre, con más de 3.300 calificaciones y 4.6 de promedio",
+      "4º más vendido de la categoría en MercadoLibre, con {{reviews:MLA28743686}} calificaciones y 4.6 de promedio",
       "25.000 mAh: la mayor capacidad de esta guía, con buena relación mAh por peso",
       "Entrada USB-C además de Micro USB, más moderna que el modelo anterior de la marca",
       "Una reseña con iPhone 13 Plus reporta 4 cargas completas con una sola carga del power bank",
@@ -65730,11 +65730,11 @@ Compralo si querés la mayor autonomía por la menor plata para viajes, cortes d
     ],
     articleBody: `## Qué es y para quién
 
-El Gadnic de 25.000 mAh es de los cargadores portátiles más vendidos de MercadoLibre Argentina (4º en su categoría, más de 3.300 calificaciones): mucha capacidad con entrada USB-C, a un precio menor que el de los power banks de marca de la mitad de capacidad. Es la opción para quien quiere autonomía bruta gastando lo mínimo.
+El Gadnic de 25.000 mAh es de los cargadores portátiles más vendidos de MercadoLibre Argentina (4º en su categoría, {{reviews:MLA28743686}} calificaciones): mucha capacidad con entrada USB-C, a un precio similar al de los power banks de marca de la mitad de capacidad. Es la opción para quien quiere la mayor autonomía bruta sin pagar mucho más que por un 10.000 mAh.
 
 ## Lo bueno
 
-La cuenta es simple: máxima capacidad, mínimo precio. Con 25.000 mAh tenés para varias cargas completas de celular (una reseña con iPhone 13 Plus reporta 4 cargas), y las dos salidas USB permiten enchufar dos dispositivos a la vez. Suma entrada USB-C para recargarlo, más moderna que el Micro USB de los modelos más viejos de la marca. El respaldo es real: más de 3.300 calificaciones y 4.6 de promedio.
+La cuenta es simple: máxima capacidad, mínimo precio. Con 25.000 mAh tenés para varias cargas completas de celular (una reseña con iPhone 13 Plus reporta 4 cargas), y las dos salidas USB permiten enchufar dos dispositivos a la vez. Suma entrada USB-C para recargarlo, más moderna que el Micro USB de los modelos más viejos de la marca. El respaldo es real: {{reviews:MLA28743686}} calificaciones y 4.6 de promedio.
 
 ## La contra real
 
@@ -65754,7 +65754,8 @@ Compralo si querés la mayor autonomía por la menor plata para viajes, cortes d
     id: "MLA41677171",
     title: "Ugreen 10,000mah 20w Magnetic Power Bank, Cargador Portátil Color Negro",
     canonicalName: "Cargador Portátil Ugreen Magnético 10.000 mAh (MagSafe)",
-    price: 99999,
+    price: 89999,
+    originalPrice: 103999,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_914518-MLA99549344178_122025-O.webp",
     images: [
@@ -65767,7 +65768,7 @@ Compralo si querés la mayor autonomía por la menor plata para viajes, cortes d
     condition: "new",
     freeShipping: true,
     rating: 4.8,
-    reviewCount: 2347,
+    reviewCount: 2566,
     ratingBreakdown: { five: "86.45%", four: "8.69%", three: "2.01%", two: "1.1%", one: "1.75%" },
     pastelColor: "var(--pastel-blue)",
     visibility: "normal",
@@ -65782,18 +65783,18 @@ Compralo si querés la mayor autonomía por la menor plata para viajes, cortes d
       { label: "Protección contra sobrecarga", value: "Sí" },
       { label: "Color", value: "Negro" },
     ],
-    relatedProducts: ["MLA40654567", "MLA47759077", "MLA29504563"],
-    priceUpdated: "2026-10-12",
-    priceLastChecked: "2026-10-12",
+    relatedProducts: ["MLA40654567", "MLA51985227", "MLA29504563"],
+    priceUpdated: "2026-11-02",
+    priceLastChecked: "2026-11-02",
     priceStatus: "fresh",
-    reviewsSampledAt: "2026-07-06",
-    description: "Power bank magnético Ugreen de 10.000 mAh compatible con MagSafe: se pega atrás del iPhone y carga sin cable. Más de 1.500 calificaciones. Contra honesta de las reseñas: la carga inalámbrica es lenta y calienta; para velocidad, usalo con el cable.",
+    reviewsSampledAt: "2026-11-02",
+    description: "Power bank magnético Ugreen de 10.000 mAh compatible con MagSafe: se pega atrás del iPhone y carga sin cable. {{reviews:MLA41677171}} calificaciones. Contra honesta de las reseñas: la carga inalámbrica es lenta y calienta; para velocidad, usalo con el cable.",
     seoTitle: "Ugreen Magnético 10.000: ¿el power bank para iPhone?",
     metaDescription: "Power bank magnético Ugreen 10.000 mAh compatible MagSafe: se pega al iPhone y carga sin cable. Precio real en Argentina, pros y contras.",
     verdict: "El Ugreen magnético sirve si tenés un iPhone con MagSafe y querés cargar sin cables: se pega atrás del teléfono y listo, con el respaldo de una marca seria de accesorios. No sirve si esperás velocidad por la vía inalámbrica: las reseñas coinciden en que por imán carga lento y calienta, y que para apuro conviene el cable USB-C de 20 W.",
     pros: [
       "Se pega magnéticamente al iPhone (compatible MagSafe) y carga sin cable",
-      "Más de 1.500 calificaciones con 4.8 de promedio, la más probada de las magnéticas",
+      "{{reviews:MLA41677171}} calificaciones con 4.8 de promedio, la más probada de las magnéticas",
       "Por cable USB-C entrega 20 W: carga rápida real para iPhone",
       "Tamaño compacto, cómodo para usar el teléfono mientras carga pegado",
       "Una reseña de viaje larga (vuelos de 11 horas y tours) confirma que rinde el día completo",
@@ -65810,7 +65811,7 @@ El Ugreen PB561 es un power bank magnético de 10.000 mAh: se pega a la espalda 
 
 ## Lo bueno
 
-La experiencia magnética funciona: se adhiere firme (incluso con fundas MagSafe, confirma una reseña) y podés seguir usando el teléfono mientras carga. Con 10.000 mAh da para unas dos cargas de iPhone, y la reseña de un viajero con vuelos de 11 horas lo confirma en uso real. Por cable USB-C entrega 20 W, la carga rápida que el iPhone aprovecha. Con más de 1.500 calificaciones, es de las opciones magnéticas más probadas del catálogo.
+La experiencia magnética funciona: se adhiere firme (incluso con fundas MagSafe, confirma una reseña) y podés seguir usando el teléfono mientras carga. Con 10.000 mAh da para unas dos cargas de iPhone, y la reseña de un viajero con vuelos de 11 horas lo confirma en uso real. Por cable USB-C entrega 20 W, la carga rápida que el iPhone aprovecha. Con {{reviews:MLA41677171}} calificaciones, es de las opciones magnéticas más probadas del catálogo.
 
 ## La contra real
 
@@ -65831,7 +65832,7 @@ Compralo si tenés iPhone con MagSafe y valorás cargar sin cables en el escrito
     id: "MLA40654567",
     title: "Cargador Xiaomi 10000mah 22.5w para celulares Android-iPhone",
     canonicalName: "Cargador Portátil Xiaomi 10.000 mAh 22,5 W",
-    price: 40311,
+    price: 32999,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_604358-MLA99985510449_112025-O.webp",
     images: [
@@ -65844,7 +65845,7 @@ Compralo si tenés iPhone con MagSafe y valorás cargar sin cables en el escrito
     condition: "new",
     freeShipping: true,
     rating: 4.8,
-    reviewCount: 1547,
+    reviewCount: 1754,
     ratingBreakdown: { five: "87.24%", four: "9.77%", three: "1.81%", two: "0.45%", one: "0.72%" },
     pastelColor: "var(--pastel-purple)",
     visibility: "normal",
@@ -65861,18 +65862,18 @@ Compralo si tenés iPhone con MagSafe y valorás cargar sin cables en el escrito
       { label: "Compatible", value: "Android y iPhone" },
       { label: "Color", value: "Blanco" },
     ],
-    relatedProducts: ["MLA29504563", "MLA47759077", "MLA41677171"],
-    priceUpdated: "2026-10-12",
-    priceLastChecked: "2026-10-12",
+    relatedProducts: ["MLA29504563", "MLA51985227", "MLA41677171"],
+    priceUpdated: "2026-11-02",
+    priceLastChecked: "2026-11-02",
     priceStatus: "fresh",
-    reviewsSampledAt: "2026-07-06",
+    reviewsSampledAt: "2026-11-02",
     description: "Cargador portátil Xiaomi de 10.000 mAh con 22,5 W y 3 puertos: la puerta de entrada a los power banks de marca, a precio de genérico. Contra honesta de una reseña documentada: la capacidad útil real ronda los 5.500-6.500 mAh, como en todo power bank.",
     seoTitle: "Xiaomi 10.000 mAh: ¿el mejor power bank de entrada?",
-    metaDescription: "Cargador portátil Xiaomi 10.000 mAh 22,5 W: marca, carga rápida y más de 1.100 calificaciones a precio de genérico. Pros, contras y veredicto.",
+    metaDescription: "Cargador portátil Xiaomi 10.000 mAh 22,5 W: marca, carga rápida y {{reviews:MLA40654567}} calificaciones a precio de genérico. Pros, contras y veredicto.",
     verdict: "El Xiaomi de 10.000 mAh sirve si querés tu primer power bank de marca sin pagar más que por un genérico: 22,5 W de carga rápida, 3 puertos y el respaldo Xiaomi por el precio de un Gadnic. No sirve si esperás las 2 cargas completas que sugiere el número: como en todo power bank, la capacidad útil real es menor (una reseña documentada la calcula en unos 5.500 mAh), así que en un celular con batería grande rinde una carga larga y monedas.",
     pros: [
       "Precio de genérico con marca global: la compra de entrada más lógica de la categoría",
-      "Carga rápida de 22,5 W real, con más de 1.100 calificaciones y 4.8 de promedio",
+      "Carga rápida de 22,5 W real, con {{reviews:MLA40654567}} calificaciones y 4.8 de promedio",
       "3 puertos para cargar varios dispositivos",
       "Compacto y liviano, de bolsillo",
       "Reseñas reportan 5 a 6 cargas en celulares con baterías chicas (iPhone SE, Galaxy S22)",
@@ -65888,7 +65889,7 @@ El Xiaomi P16ZM es el power bank de entrada de la marca: 10.000 mAh, 22,5 W de c
 
 ## Lo bueno
 
-Por lo que sale un power bank sin nombre, acá tenés marca global, carga rápida de 22,5 W que activa el modo turbo en celulares compatibles y 3 puertos para cargar auriculares y teléfono a la vez. Es compacto, de bolsillo, y su promedio de 4.8 en más de 1.100 calificaciones lo respalda. Compradores con celulares de batería chica (iPhone SE, Galaxy S22) reportan 5 y hasta 6 cargas por ciclo.
+Por lo que sale un power bank sin nombre, acá tenés marca global, carga rápida de 22,5 W que activa el modo turbo en celulares compatibles y 3 puertos para cargar auriculares y teléfono a la vez. Es compacto, de bolsillo, y su promedio de 4.8 en {{reviews:MLA40654567}} calificaciones lo respalda. Compradores con celulares de batería chica (iPhone SE, Galaxy S22) reportan 5 y hasta 6 cargas por ciclo.
 
 ## La contra real
 
@@ -65910,6 +65911,13 @@ Compralo si querés el power bank diario de marca al mejor precio: para el bolso
     canonicalName: "Cargador Portátil Energizer Ultimate 10.000 mAh con visor",
     price: 72000,
     currency: "ARS",
+    // Sin stock verificado el 2026-11-02: único color (Negro) muestra "Este
+    // producto no está disponible. Elige otra variante." Se buscó el mismo
+    // modelo exacto (UE10073PQ) con otro vendedor y no apareció ninguno; la
+    // "Energizer MAX" (UE10068C) que ML sugiere como relacionada es un modelo
+    // DISTINTO (otra línea), no un swap válido del mismo producto. Candidato
+    // a evaluar como reemplazo en una próxima sesión si se decide importar
+    // su ficha. Ver docs/productos-sin-stock.md.
     image: "https://http2.mlstatic.com/D_NQ_NP_882986-MLA107453338853_022026-O.webp",
     images: [
       "https://http2.mlstatic.com/D_NQ_NP_882986-MLA107453338853_022026-O.webp",
@@ -65921,10 +65929,10 @@ Compralo si querés el power bank diario de marca al mejor precio: para el bolso
     condition: "new",
     freeShipping: true,
     rating: 4.8,
-    reviewCount: 712,
+    reviewCount: 823,
     ratingBreakdown: { five: "85.05%", four: "10.33%", three: "1.54%", two: "0.88%", one: "2.2%" },
     pastelColor: "var(--pastel-amber)",
-    visibility: "normal",
+    visibility: "deprioritized",
     specs: [
       { label: "Marca", value: "Energizer" },
       { label: "Modelo", value: "UE10073PQ" },
@@ -65939,13 +65947,13 @@ Compralo si querés el power bank diario de marca al mejor precio: para el bolso
     ],
     relatedProducts: ["MLA40654567", "MLA51985227", "MLA28743686"],
     priceUpdated: "2026-10-07",
-    priceLastChecked: "2026-10-07",
-    priceStatus: "fresh",
-    reviewsSampledAt: "2026-07-06",
+    priceLastChecked: "2026-11-02",
+    priceStatus: "out_of_stock",
+    reviewsSampledAt: "2026-11-02",
     description: "Power bank Energizer Ultimate de 10.000 mAh con visor LCD que muestra el porcentaje exacto de batería restante. 22,5 W de carga rápida. Una reseña midió: iPhone 15 de 20 a 90% en una hora y cuarto usando solo el 30% del cargador.",
     seoTitle: "Energizer Ultimate 10.000: ¿vale el visor LCD?",
     metaDescription: "Power bank Energizer Ultimate 10.000 mAh: visor LCD con porcentaje, 22,5 W y marca clásica. Precio real en Argentina, pros, contras y veredicto.",
-    verdict: "El Energizer Ultimate de 10.000 mAh sirve si querés saber exactamente cuánta batería le queda al cargador (visor LCD con porcentaje, no 4 lucecitas) y valorás una marca de energía clásica: una reseña midió un iPhone 15 de 20 a 90% consumiendo solo 30% del equipo. No sirve si el precio manda: hace lo mismo que el Xiaomi de 10.000 mAh, que sale un 20% menos.",
+    verdict: "Sin stock verificado el 2026-11-02 (ver cons), dejamos esta ficha para consulta y no la recomendamos como compra activa por ahora. El Energizer Ultimate de 10.000 mAh servía si querés saber exactamente cuánta batería le queda al cargador (visor LCD con porcentaje, no 4 lucecitas) y valorás una marca de energía clásica: una reseña midió un iPhone 15 de 20 a 90% consumiendo solo 30% del equipo. No era para vos si el precio manda: hacía lo mismo que el Xiaomi de 10.000 mAh, que sale bastante menos.",
     pros: [
       "Visor LCD con porcentaje exacto de carga restante, en vez de las típicas 4 lucecitas",
       "Prueba real de una reseña: iPhone 15 de 20 a 90% en 1h15, usando solo el 30% del power bank (da unas 3 cargas)",
@@ -65954,9 +65962,10 @@ Compralo si querés el power bank diario de marca al mejor precio: para el bolso
       "Tamaño y peso contenidos, según reseñas",
     ],
     cons: [
+      "Sin stock verificado el 2026-11-02: la publicación no tiene ofertas vigentes en este momento; dejamos la ficha para consulta",
       "Más caro que el Xiaomi de la misma capacidad y potencia",
       "El cable USB incluido es muy corto, marcan las reseñas",
-      "Base de calificaciones más chica que los líderes de la categoría (455)",
+      "Base de calificaciones más chica que los líderes de la categoría ({{reviews:MLA47759077}})",
     ],
     articleBody: `## Qué es y para quién
 
@@ -65972,7 +65981,7 @@ El precio: hace esencialmente lo mismo que el Xiaomi de 10.000 mAh y 22,5 W, per
 
 ## Para quién sí y para quién no
 
-Compralo si el porcentaje exacto en pantalla te resuelve una ansiedad real y preferís una marca de energía de toda la vida. No lo compres si buscás la mejor relación precio-prestaciones: el Xiaomi equivalente da lo mismo por menos.`,
+Sin stock verificado el 2026-11-02, hoy no es una compra posible: dejamos esta ficha para consulta. Cuando tenía stock, servía para quien el porcentaje exacto en pantalla le resolvía una ansiedad real y prefería una marca de energía de toda la vida; no era la mejor relación precio-prestaciones (el Xiaomi equivalente daba lo mismo por menos).`,
     faq: [
       { question: "¿Cuántas cargas da el Energizer Ultimate de 10.000 mAh?", answer: "Unas 3 cargas de iPhone: una reseña midió que llevar un iPhone 15 de 20 a 90% consumió solo el 30% del power bank. En celulares con batería más grande, contá 1 a 2 cargas." },
       { question: "¿Qué muestra el visor LCD?", answer: "El porcentaje exacto de batería restante del power bank, en vez de las típicas 4 luces. Sabés exactamente con cuánto salís de casa." },
@@ -66065,7 +66074,8 @@ Compralo si querés el mejor power bank grande de marca: viajes, trabajo en la c
     id: "MLA29504563",
     title: "Powerbank 22.5w Mcdodo Display Digital 20000mah 1c+2a Mc-3891 Color Negro",
     canonicalName: "Cargador Portátil Mcdodo MC-3891 20.000 mAh con display",
-    price: 48344,
+    price: 46428,
+    originalPrice: 50889,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_752397-MLA91726232138_092025-O.webp",
     images: [
@@ -66078,7 +66088,7 @@ Compralo si querés el mejor power bank grande de marca: viajes, trabajo en la c
     condition: "new",
     freeShipping: true,
     rating: 4.9,
-    reviewCount: 60,
+    reviewCount: 74,
     ratingBreakdown: { five: "93.48%", four: "6.52%", three: "0%", two: "0%", one: "0%" },
     pastelColor: "var(--pastel-purple)",
     visibility: "normal",
@@ -66096,11 +66106,11 @@ Compralo si querés el mejor power bank grande de marca: viajes, trabajo en la c
       { label: "Color", value: "Negro" },
     ],
     relatedProducts: ["MLA40654567", "MLA28743686", "MLA51985227"],
-    priceUpdated: "2026-10-07",
-    priceLastChecked: "2026-10-12",
+    priceUpdated: "2026-11-02",
+    priceLastChecked: "2026-11-02",
     priceStatus: "fresh",
-    reviewsSampledAt: "2026-07-06",
-    description: "Cargador portátil Mcdodo de 20.000 mAh con display digital de porcentaje y 22,5 W de turbo. 4.9 de promedio sin ninguna calificación por debajo de 4 estrellas, aunque con base de opiniones chica (46). Una reseña lo llevó 2 meses por el Camino de Santiago.",
+    reviewsSampledAt: "2026-11-02",
+    description: "Cargador portátil Mcdodo de 20.000 mAh con display digital de porcentaje y 22,5 W de turbo. 4.9 de promedio sin ninguna calificación por debajo de 4 estrellas, aunque con base de opiniones chica ({{reviews:MLA29504563}}). Una reseña lo llevó 2 meses por el Camino de Santiago.",
     seoTitle: "Mcdodo 20.000 con display: ¿la joya escondida?",
     metaDescription: "Power bank Mcdodo 20.000 mAh: display digital, 22,5 W de turbo y 4.9 estrellas. Precio real en Argentina, pros, contras y para quién conviene.",
     verdict: "El Mcdodo de 20.000 mAh sirve si querés capacidad grande con turbo de 22,5 W y display de porcentaje exacto, pagando menos que las marcas más conocidas: una reseña midió una carga de 20 a 85% en 30 minutos, igual que un cargador de pared de 25 W. No sirve si solo comprás con respaldo masivo: su base de {{reviews:MLA29504563}} calificaciones es chica (aunque sin una sola opinión por debajo de 4 estrellas).",
@@ -66112,7 +66122,7 @@ Compralo si querés el mejor power bank grande de marca: viajes, trabajo en la c
       "Prueba de resistencia real: una reseña lo usó 2 meses en el Camino de Santiago cargando celular, cámara y auriculares sin fallas",
     ],
     cons: [
-      "Base de calificaciones chica (46) frente a los superventas de la categoría",
+      "Base de calificaciones chica ({{reviews:MLA29504563}}) frente a los superventas de la categoría",
       "Marca menos conocida en Argentina que Xiaomi o Energizer",
       "El cable incluido es de solo 20 cm",
       "Como todo 20.000 mAh, es de mochila, no de bolsillo",
@@ -66131,19 +66141,20 @@ El historial: {{reviews:MLA29504563}} calificaciones contra las miles de un Gadn
 
 ## Para quién sí y para quién no
 
-Compralo si querés el combo capacidad + turbo + display al mejor precio y no te frena una base de opiniones chica. No lo compres si solo confiás en productos con miles de calificaciones: para eso está el Gadnic (más vendido, más lento) o los Energizer.`,
+Compralo si querés el combo capacidad + turbo + display al mejor precio y no te frena una base de opiniones chica. No lo compres si solo confiás en productos con miles de calificaciones: para eso está el Gadnic (más vendido, más lento) o el Energizer de 27.000 mAh.`,
     faq: [
       { question: "¿El Mcdodo de 20.000 mAh carga rápido de verdad?", answer: "Sí: una reseña midió su Galaxy S22 de 20 a 85% en 30 minutos, el mismo tiempo que el cargador de pared de 25 W, gastando solo 15% del power bank." },
       { question: "¿Qué muestra el display?", answer: "El porcentaje exacto de batería restante del power bank, en vez de las 4 lucecitas típicas." },
       { question: "¿Cuántas cargas de celular da?", answer: "Con la capacidad útil real de un 20.000 mAh (unos 12.000-14.000 por la conversión de voltaje), da para 2 a 3 cargas completas de un celular moderno. Una reseña reporta varias cargas diarias durante 2 meses de viaje." },
-      { question: "¿Es confiable una marca poco conocida?", answer: "Mcdodo es un fabricante especialista en accesorios de carga. Su base de opiniones acá es chica (46), pero con 4.9 de promedio y ninguna calificación por debajo de 4 estrellas. Si preferís historial masivo, el Gadnic o los Energizer de esta guía tienen más respaldo." },
+      { question: "¿Es confiable una marca poco conocida?", answer: "Mcdodo es un fabricante especialista en accesorios de carga. Su base de opiniones acá es chica ({{reviews:MLA29504563}}), pero con 4.9 de promedio y ninguna calificación por debajo de 4 estrellas. Si preferís historial masivo, el Gadnic o el Energizer de 27.000 mAh de esta guía tienen más respaldo." },
     ],
   },
   {
     id: "MLA51985227",
     title: "Power Bank Energizer Ultimate Cargador Portatil Powerbank 27000mah Led Carga Super Rapida 65w Color Negro",
     canonicalName: "Cargador Portátil Energizer Ultimate 27.000 mAh 65 W",
-    price: 128000,
+    price: 131100,
+    originalPrice: 190000,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_829207-MLA100024459847_122025-O.webp",
     images: [
@@ -66156,7 +66167,7 @@ Compralo si querés el combo capacidad + turbo + display al mejor precio y no te
     condition: "new",
     freeShipping: true,
     rating: 4.8,
-    reviewCount: 210,
+    reviewCount: 226,
     ratingBreakdown: { five: "86.54%", four: "8.97%", three: "2.56%", two: "0.64%", one: "1.28%" },
     pastelColor: "var(--pastel-coral)",
     visibility: "normal",
@@ -66173,11 +66184,11 @@ Compralo si querés el combo capacidad + turbo + display al mejor precio y no te
       { label: "Compatible", value: "Celular, tablet, notebook, reloj, auriculares" },
       { label: "Color", value: "Negro" },
     ],
-    relatedProducts: ["MLA47759077", "MLA29504563", "MLA28743686"],
-    priceUpdated: "2026-10-07",
-    priceLastChecked: "2026-10-12",
+    relatedProducts: ["MLA41677171", "MLA29504563", "MLA28743686"],
+    priceUpdated: "2026-11-02",
+    priceLastChecked: "2026-11-02",
     priceStatus: "fresh",
-    reviewsSampledAt: "2026-07-06",
+    reviewsSampledAt: "2026-11-02",
     description: "Power bank Energizer Ultimate de 27.000 mAh y 65 W: el único de la comparativa que carga notebooks. 4 puertos, visor LED y modo para smartwatch y auriculares. Sus 27.000 mAh (unos 99,9 Wh) quedan bajo el límite típico de 100 Wh de las aerolíneas.",
     seoTitle: "Energizer 27.000 mAh 65W: ¿el power bank total?",
     metaDescription: "Power bank Energizer Ultimate 27.000 mAh y 65 W: carga notebooks, 4 puertos y visor LED. El premium de la categoría en Argentina. Pros y contras.",
@@ -66191,7 +66202,7 @@ Compralo si querés el combo capacidad + turbo + display al mejor precio y no te
     ],
     cons: [
       "El más caro de la comparativa, alrededor del doble que un 20.000 mAh de marca",
-      "La base de calificaciones más chica del grupo (156), aunque con 4.8 de promedio",
+      "Pagás potencia (65 W) que no vas a usar si solo cargás el celular",
       "Grande y pesado: es un equipo de mochila para uso serio, no un accesorio de bolsillo",
     ],
     articleBody: `## Qué es y para quién
@@ -66204,7 +66215,7 @@ Los 65 W no son marketing: un comprador con un celular de carga de 68 W reporta 
 
 ## La contra real
 
-El precio: alrededor del doble que un 20.000 mAh de marca. Si no vas a cargar una notebook o un celular de 60 W o más, esa diferencia compra potencia que nunca vas a usar. Su base de {{reviews:MLA51985227}} calificaciones es la más chica de nuestra comparativa (el promedio 4.8 acompaña, pero el historial es menor). Y es el más grande y pesado del grupo: herramienta de trabajo, no accesorio.
+El precio: alrededor del doble que un 20.000 mAh de marca. Si no vas a cargar una notebook o un celular de 60 W o más, esa diferencia compra potencia que nunca vas a usar. Y es el más grande y pesado del grupo: herramienta de trabajo, no accesorio.
 
 ## Para quién sí y para quién no
 

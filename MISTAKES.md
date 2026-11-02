@@ -3,6 +3,16 @@
 > Bitácora de cosas que salieron mal. Crece con cada error.
 > Formato: fecha — qué pasó — por qué — cómo evitarlo la próxima vez.
 
+## 2026-11-02 — Un refresh de 6 productos a la vez multiplica los superlativos que hay que recalcular, no solo los precios
+
+**Qué pasó:** en el refresh de `cargador-portatil` (6 fichas), actualicé todos los precios y reviewCount, pero en la primera pasada dejé pasar que la baja de precio del Xiaomi (de $40.311 a $32.999) rompió DOS afirmaciones sobre el Gadnic ("al precio más bajo de la comparativa" y "por menos de lo que sale un 10.000 de marca" — el Gadnic a $47.949 ya no es ni lo uno ni lo otro), y que la suba de reviewCount del Energizer 27.000 (de 210 a 226) rompió su propia afirmación de tener "la base de opiniones más chica" (el Mcdodo, con 74, es ahora la más chica). Lo encontró Codex en la ronda 1 del trío, no yo — es la tercera vez en el mismo día que pasa esta familia de bug, ya documentada dos veces antes hoy.
+
+**Por qué:** con 2 productos es manejable recalcular a mano cada superlativo tras un refresh de precios. Con 6 productos y varios ejes de comparación (precio absoluto, precio por mAh, volumen de reseñas), la cantidad de afirmaciones relativas que pueden romperse crece mucho más rápido que la cantidad de productos — cualquier par de productos puede intercambiar su posición relativa en cualquier eje, y cada cruce roto puede estar escrito en varios lugares (guía Y ficha, varias veces cada una).
+
+**Cómo evitarlo:** en un refresh de 4+ productos, antes de cerrar, armar una tabla mental (o escrita) de cada eje de comparación (precio, precio/capacidad, reviewCount, rating) con los 6 valores nuevos ordenados, y grepear cada superlativo ("el más barato", "menos que", "la base más chica", "el único", "el mayor") contra esa tabla, uno por uno — no confiar en que arreglar el hallazgo más obvio (el producto que cambió más) cubre los efectos indirectos sobre los demás productos de la misma comparativa.
+
+**Archivos involucrados:** `src/data/guides.ts` (guía `cargador-portatil`), `src/data/curated-products.ts` (fichas MLA28743686, MLA51985227)
+
 ## 2026-11-02 — Corregir un superlativo roto no alcanza si hay DOS superlativos atados al mismo cambio de precio
 
 **Qué pasó:** en el refresh de `tensiometro-digital`, el Omron HEM-6124 (ya con historial de 2 swaps de vendedor documentados) tuvo un tercer swap que le subió el precio un 24% y le bajó el reviewCount de 6682 a 1445. Corregí de entrada el superlativo de reseñas ("segunda base más grande de esta guía" dejó de ser cierto, ahora es la tercera) en los 5 lugares donde aparecía. Pero el MISMO cambio de precio rompió un segundo superlativo distinto, que no toqué en la primera pasada: la ficha y la guía seguían diciendo que el HEM-6124 era "más compacto y barato que la versión de brazo" — con el precio nuevo, pasó a ser el tensiómetro MÁS CARO de las 4 fichas de la guía, lo opuesto de "barato". Lo encontraron Codex y agy en la ronda 1 del trío auditor, no yo.
