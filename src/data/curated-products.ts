@@ -76323,8 +76323,8 @@ Comprá el sensor solar Tuya si necesitás cubrir un punto específico de exteri
     id: "MLA42520227",
     title: "Smartwatch Xiaomi Redmi 5 Lite 1.96 Negro",
     canonicalName: "Smartwatch Xiaomi Redmi Watch 5 Lite",
-    price: 104499,
-    originalPrice: 104999,
+    price: 109512,
+    originalPrice: 186999,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_661173-MLA99926131065_112025-O.webp",
     images: [
@@ -76337,7 +76337,7 @@ Comprá el sensor solar Tuya si necesitás cubrir un punto específico de exteri
     condition: "new",
     freeShipping: true,
     rating: 4.9,
-    reviewCount: 36492,
+    reviewCount: 38302,
     soldQuantity: 10000,
     pastelColor: "var(--pastel-green)",
     visibility: "normal",
@@ -76355,11 +76355,12 @@ Comprá el sensor solar Tuya si necesitás cubrir un punto específico de exteri
       { label: "Compatibilidad", value: "Android 8.0+ / iOS 12.0+ (app HyperOS)" },
       { label: "Materiales y contenido de la caja", value: "Marco de plástico (recubrimiento NCVM), correa de TPU (135-205 mm). Incluye cable de carga magnética y manual — dato de la web oficial de Xiaomi" },
     ],
-    relatedProducts: ["MLA26666337", "MLA51929440", "MLA24530447", "MLA38058572"],
-    priceUpdated: "2026-10-12",
-    priceLastChecked: "2026-10-12",
+    relatedProducts: ["MLA26666337", "MLA57802650", "MLA24530447", "MLA38058572"],
+    priceUpdated: "2026-11-02",
+    priceLastChecked: "2026-11-02",
+    priceVerifiedAt: "2026-11-02",
     priceStatus: "fresh",
-    reviewsSampledAt: "2026-07-19",
+    reviewsSampledAt: "2026-11-02",
     description: "Smartwatch Xiaomi Redmi Watch 5 Lite: el más elegido de esta guía, 1° más vendido de la categoría en MercadoLibre Argentina, con GPS real integrado y pantalla AMOLED.",
     seoTitle: "Xiaomi Redmi Watch 5 Lite: el smartwatch más vendido",
     metaDescription: "Smartwatch Xiaomi Redmi Watch 5 Lite, GPS real, pantalla AMOLED. El más vendido de Argentina, precio actualizado.",
@@ -76390,7 +76391,7 @@ La batería declarada por el fabricante (18 días) es un número de mejor caso. 
 
 ## Cómo se compara con las otras de esta guía
 
-Frente al [JD Venecia Sport](/producto/smartwatch-jd-venecia-sport-bluetooth-llamadas-pantalla-1-96-tactil-malla-color-mla26666337) (económico), el Xiaomi suma GPS real y pantalla AMOLED, pero cuesta el doble. Frente al [Amazfit Bip 6](/producto/smartwatch-reloj-inteligente-amazfit-bip-6-amoled-1-97-gps-llamadas-bluetooth-5-mla51929440) (premium), el Xiaomi también trae asistente de voz integrado (Alexa, según reviews internacionales), pero el asistente con IA del Amazfit es más avanzado y tiene mejor batería confirmada en uso real. Frente al [Haylou Solar LS05S](/producto/smartwatch-haylou-solar-ls05s-reloj-inteligente-con-bateria-de-15-dias-mla24530447) (batería de 15 días), el Xiaomi tiene mejor pantalla y GPS, pero menos autonomía.
+Frente al [JD Venecia Sport](/producto/smartwatch-jd-venecia-sport-bluetooth-llamadas-pantalla-1-96-tactil-malla-color-mla26666337) (económico), el Xiaomi suma GPS real y pantalla AMOLED, pero cuesta el doble. Frente al [Amazfit Bip 6](/producto/smartwatch-amazfit-bip-6-gps-integrado-alexa-amoled-1-97-color-negro-mla57802650) (premium), el Xiaomi también trae asistente de voz integrado (Alexa, según reviews internacionales), pero el asistente con IA del Amazfit es más avanzado y tiene mejor batería confirmada en uso real. Frente al [Haylou Solar LS05S](/producto/smartwatch-haylou-solar-ls05s-reloj-inteligente-con-bateria-de-15-dias-mla24530447) (batería de 15 días), el Xiaomi tiene mejor pantalla y GPS, pero menos autonomía.
 
 ## Para quién sí y para quién no
 
@@ -76428,13 +76429,13 @@ Comprá el Xiaomi Redmi Watch 5 Lite si buscás el smartwatch con más respaldo 
         "@type": "Offer",
         url: "https://www.mercadolibre.com.ar/smartwatch-xiaomi-redmi-5-lite-196-negro/p/MLA42520227",
         priceCurrency: "ARS",
-        price: "91999",
+        price: "109512",
         availability: "https://schema.org/InStock",
       },
       aggregateRating: {
         "@type": "AggregateRating",
-        ratingValue: "4.8",
-        reviewCount: "31634",
+        ratingValue: "4.9",
+        reviewCount: "38302",
       },
     },
   },
@@ -76442,7 +76443,7 @@ Comprá el Xiaomi Redmi Watch 5 Lite si buscás el smartwatch con más respaldo 
     id: "MLA26666337",
     title: "Smartwatch JD Venecia Sport Bluetooth Llamadas Pantalla 1.96 Táctil Malla Color Negro Resistente Al Agua IP68",
     canonicalName: "Smartwatch JD Venecia Sport",
-    price: 37635,
+    price: 38999,
     originalPrice: 49999,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_Q_NP_956541-MLA109309748244_042026-F.webp",
@@ -76457,7 +76458,7 @@ Comprá el Xiaomi Redmi Watch 5 Lite si buscás el smartwatch con más respaldo 
     freeShipping: true,
     brand: "JD Jottade",
     rating: 4.5,
-    reviewCount: 6654,
+    reviewCount: 7074,
     soldQuantity: 100000,
     pastelColor: "var(--pastel-purple)",
     visibility: "normal",
@@ -76472,11 +76473,12 @@ Comprá el Xiaomi Redmi Watch 5 Lite si buscás el smartwatch con más respaldo 
       { label: "Compatibilidad", value: "Android 4.4+ / iOS 8.0+" },
       { label: "Sensores declarados en la ficha oficial", value: "No incluye frecuencia cardíaca ni presión arterial en la lista de funciones y sensores" },
     ],
-    relatedProducts: ["MLA42520227", "MLA51929440", "MLA24530447", "MLA38058572"],
-    priceUpdated: "2026-10-02",
-    priceLastChecked: "2026-10-12",
+    relatedProducts: ["MLA42520227", "MLA57802650", "MLA24530447", "MLA38058572"],
+    priceUpdated: "2026-11-02",
+    priceLastChecked: "2026-11-02",
+    priceVerifiedAt: "2026-11-02",
     priceStatus: "fresh",
-    reviewsSampledAt: "2026-07-19",
+    reviewsSampledAt: "2026-11-02",
     description: "Smartwatch JD Venecia Sport: el más económico de esta guía, de tienda oficial con más de 100 mil ventas, aunque con una discrepancia real entre lo que reportan los compradores y lo que declara su ficha técnica sobre sensores de salud.",
     seoTitle: "JD Venecia Sport: el smartwatch más económico",
     metaDescription: "Smartwatch JD Venecia Sport, resistente al agua IP68. El más económico de esta guía, precio actualizado.",
@@ -76507,11 +76509,11 @@ Hay una discrepancia real que conviene señalar con honestidad: varias reseñas 
 
 ## Cómo se compara con las otras de esta guía
 
-Frente al [Xiaomi Redmi Watch 5 Lite](/producto/smartwatch-xiaomi-redmi-5-lite-1-96-negro-mla42520227) (elección general), el JD Venecia cuesta la mitad pero sin GPS ni AMOLED. Frente al [Amazfit Bip 6](/producto/smartwatch-reloj-inteligente-amazfit-bip-6-amoled-1-97-gps-llamadas-bluetooth-5-mla51929440) (premium), la diferencia de precio es de más de 4 veces. Frente al [Haylou Solar LS05S](/producto/smartwatch-haylou-solar-ls05s-reloj-inteligente-con-bateria-de-15-dias-mla24530447) (batería 15 días), el JD Venecia es más barato pero con menos reseñas de respaldo relativo a su volumen de ventas.
+Frente al [Xiaomi Redmi Watch 5 Lite](/producto/smartwatch-xiaomi-redmi-5-lite-1-96-negro-mla42520227) (elección general), el JD Venecia cuesta la mitad pero sin GPS ni AMOLED. Frente al [Amazfit Bip 6](/producto/smartwatch-amazfit-bip-6-gps-integrado-alexa-amoled-1-97-color-negro-mla57802650) (premium), la diferencia de precio es de más de 4 veces. Frente al [Haylou Solar LS05S](/producto/smartwatch-haylou-solar-ls05s-reloj-inteligente-con-bateria-de-15-dias-mla24530447) (batería 15 días), el JD Venecia es más barato pero con menos reseñas de respaldo relativo a su volumen de ventas.
 
 ## Para quién sí y para quién no
 
-Comprá el JD Venecia Sport si buscás lo más básico y económico: notificaciones, pasos, llamadas por Bluetooth. No es para vos si buscás GPS real, pantalla AMOLED, o mediciones de salud confiables: para eso, el [Xiaomi](/producto/smartwatch-xiaomi-redmi-5-lite-1-96-negro-mla42520227) o el [Amazfit](/producto/smartwatch-reloj-inteligente-amazfit-bip-6-amoled-1-97-gps-llamadas-bluetooth-5-mla51929440) de esta guía.`,
+Comprá el JD Venecia Sport si buscás lo más básico y económico: notificaciones, pasos, llamadas por Bluetooth. No es para vos si buscás GPS real, pantalla AMOLED, o mediciones de salud confiables: para eso, el [Xiaomi](/producto/smartwatch-xiaomi-redmi-5-lite-1-96-negro-mla42520227) o el [Amazfit](/producto/smartwatch-amazfit-bip-6-gps-integrado-alexa-amoled-1-97-color-negro-mla57802650) de esta guía.`,
     faq: [
       {
         question: "¿Mide la presión arterial de forma confiable?",
@@ -76541,21 +76543,28 @@ Comprá el JD Venecia Sport si buscás lo más básico y económico: notificacio
         "@type": "Offer",
         url: "https://www.mercadolibre.com.ar/smartwatch-jd-venecia-sport-bluetooth-llamadas-pantalla-196-tactil-malla-color-negro-resistente-al-agua-ip68/p/MLA26666337",
         priceCurrency: "ARS",
-        price: "38799",
+        price: "38999",
         availability: "https://schema.org/InStock",
       },
       aggregateRating: {
         "@type": "AggregateRating",
         ratingValue: "4.5",
-        reviewCount: "5886",
+        reviewCount: "7074",
       },
     },
   },
   {
-    id: "MLA51929440",
-    title: "Smartwatch Reloj Inteligente Amazfit Bip 6 Amoled 1.97 GPS Llamadas Bluetooth 5 ATM 150 Modos Deportivos Ultra Duración De Batería Asistente AI",
+    id: "MLA57802650",
+    // SWAP DE VENDEDOR (2026-11-02): el link de afiliado de la publicación
+    // original (MLA51929440, meli.la/2eTZSJx) quedó muerto — redirige a una
+    // página social genérica, no al producto. Reemplazado por un catálogo
+    // vigente del mismo modelo físico (mismo Zepp Flow, misma reseña de
+    // batería de "2 semanas / 21%" ya citada abajo, confirmado navegando en
+    // vivo — ML comparte reseñas a nivel de catálogo). Nuevo link generado
+    // vía Link Builder oficial, tag productosvirales confirmado.
+    title: "Smartwatch Amazfit Bip 6 GPS Integrado Alexa Amoled 1.97 Color Negro",
     canonicalName: "Smartwatch Amazfit Bip 6",
-    price: 167199,
+    price: 177510,
     originalPrice: 230526,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_622879-MLA99965332573_112025-O.webp",
@@ -76564,12 +76573,12 @@ Comprá el JD Venecia Sport si buscás lo más básico y económico: notificacio
     ],
     category: "Tech",
     categorySlug: "tech",
-    permalink: "https://www.mercadolibre.com.ar/smartwatch-reloj-inteligente-amazfit-bip-6-amoled-197-gps-llamadas-bluetooth-5-atm-150-modos-deportivos-ultra-duracion-de-bateria-asistente-ai/p/MLA51929440",
-    affiliateUrl: "https://meli.la/2eTZSJx",
+    permalink: "https://www.mercadolibre.com.ar/smartwatch-amazfit-bip-6-gps-integrado-alexa-amoled-197-color-negro/p/MLA57802650",
+    affiliateUrl: "https://meli.la/1rbzxbH",
     condition: "new",
     freeShipping: true,
     rating: 4.9,
-    reviewCount: 7418,
+    reviewCount: 11206,
     soldQuantity: 1000,
     pastelColor: "var(--pastel-purple)",
     visibility: "normal",
@@ -76588,14 +76597,15 @@ Comprá el JD Venecia Sport si buscás lo más básico y económico: notificacio
       { label: "Almacenamiento interno", value: "512 MB, compartido entre watch faces, apps, música y mapas offline (se llena rápido con uso intensivo)" },
     ],
     relatedProducts: ["MLA42520227", "MLA26666337", "MLA24530447", "MLA38058572"],
-    priceUpdated: "2026-09-14",
-    priceLastChecked: "2026-09-14",
+    priceUpdated: "2026-11-02",
+    priceLastChecked: "2026-11-02",
+    priceVerifiedAt: "2026-11-02",
     priceStatus: "fresh",
-    reviewsSampledAt: "2026-07-19",
+    reviewsSampledAt: "2026-11-02",
     description: "Smartwatch Amazfit Bip 6: la opción premium de esta guía, con GPS real, pantalla AMOLED grande y un asistente de voz con IA que responde WhatsApp, de Zepp Health (empresa cotizante en NYSE, ex ecosistema Xiaomi).",
     seoTitle: "Amazfit Bip 6: el smartwatch premium con IA",
-    metaDescription: "Smartwatch Amazfit Bip 6, GPS real, AMOLED, asistente de voz con IA. {{reviews:MLA51929440}} opiniones reales, precio actualizado.",
-    verdict: "Sirve si buscás el smartwatch más completo de esta guía: GPS real, pantalla AMOLED grande, 2 semanas de batería confirmadas en uso real por reseñas, y un asistente de voz con IA que responde WhatsApp por voz o teclado. Es de Zepp Health (Amazfit), empresa cotizante en NYSE y ex parte del ecosistema Xiaomi, con trazabilidad real. La contra real: no tiene NFC, algo que a este precio varios compradores esperarían para pagos sin contacto. No es para vos si buscás el precio más bajo: es 2 a 5 veces más caro que las otras opciones de esta guía.",
+    metaDescription: "Smartwatch Amazfit Bip 6, GPS real, AMOLED, asistente de voz con IA. {{reviews:MLA57802650}} opiniones reales, precio actualizado.",
+    verdict: "Sirve si buscás el smartwatch más completo de esta guía: GPS real, pantalla AMOLED grande, 2 semanas de batería confirmadas en uso real por reseñas, y un asistente de voz con IA que responde WhatsApp por voz o teclado. Es de Zepp Health (Amazfit), empresa cotizante en NYSE y ex parte del ecosistema Xiaomi, con trazabilidad real. La contra real: no tiene NFC, algo que a este precio varios compradores esperarían para pagos sin contacto. No es para vos si buscás el precio más bajo: es 2 a 5 veces más caro que las opciones económicas de esta guía (aunque el Samsung Galaxy Watch7 sigue siendo más caro).",
     pros: [
       "GPS real integrado con 5 sistemas satelitales, pantalla AMOLED de 2.000 nits de brillo máximo (dato de la web oficial de Amazfit)",
       "Batería de 2 semanas confirmada en uso real: \"hoy se cumplen exactamente 2 semanas desde la última vez que lo cargué, y aún me queda 21% de batería\", según una reseña con 228 votos útiles — coincide con los 14 días de uso típico que declara el fabricante",
@@ -76603,8 +76613,8 @@ Comprá el JD Venecia Sport si buscás lo más básico y económico: notificacio
       "Rating más alto de esta guía (4.9), de una empresa con trazabilidad real (Zepp Health, NYSE)",
     ],
     cons: [
-      "Sin NFC, pese a ser la opción más cara de esta guía",
-      "El más caro de esta comparativa: 2 a 5 veces más que las otras opciones",
+      "Sin NFC, pese a ser la segunda opción más cara de esta guía",
+      "La segunda opción más cara de esta comparativa: 2 a 5 veces más que las opciones económicas",
       "Sin WiFi. En uso intensivo (GPS y monitoreo cada 1 minuto) la batería declarada por el fabricante baja a 6 días, lejos de las 2 semanas de uso típico",
       "Solo 512 MB de almacenamiento interno, compartido entre watch faces, apps, música y mapas offline: se llena rápido si usás varias funciones a la vez",
       "En iPhone, la funcionalidad de IA queda recortada: no se pueden responder mensajes de texto desde el reloj (solo verlos) y el asistente de notificaciones no funciona igual que en Android",
@@ -76632,7 +76642,7 @@ Frente al [Xiaomi Redmi Watch 5 Lite](/producto/smartwatch-xiaomi-redmi-5-lite-1
 
 ## Para quién sí y para quién no
 
-Comprá el Amazfit Bip 6 si buscás el smartwatch más completo de esta guía y el precio no es tu limitante principal. No es para vos si buscás la opción más económica o necesitás NFC para pagos sin contacto: para eso, ninguna de esta guía lo tiene, pero el [Xiaomi](/producto/smartwatch-xiaomi-redmi-5-lite-1-96-negro-mla42520227) cuesta bastante menos con funciones similares de GPS.`,
+Comprá el Amazfit Bip 6 si buscás el smartwatch más completo de esta guía y el precio no es tu limitante principal. No es para vos si necesitás NFC para pagos sin contacto: para eso, el [Samsung Galaxy Watch7](/producto/reloj-inteligente-samsung-galaxy-watch7-de-44-mm-con-bluetooth-galaxy-ai-pantall-mla38058572) es la única opción de esta guía que lo tiene. Si buscás la opción más económica con GPS, el [Xiaomi](/producto/smartwatch-xiaomi-redmi-5-lite-1-96-negro-mla42520227) cuesta bastante menos con funciones similares.`,
     faq: [
       {
         question: "¿La batería de 2 semanas es real?",
@@ -76676,15 +76686,15 @@ Comprá el Amazfit Bip 6 si buscás el smartwatch más completo de esta guía y 
       brand: { "@type": "Brand", name: "Amazfit" },
       offers: {
         "@type": "Offer",
-        url: "https://www.mercadolibre.com.ar/smartwatch-reloj-inteligente-amazfit-bip-6-amoled-197-gps-llamadas-bluetooth-5-atm-150-modos-deportivos-ultra-duracion-de-bateria-asistente-ai/p/MLA51929440",
+        url: "https://www.mercadolibre.com.ar/smartwatch-amazfit-bip-6-gps-integrado-alexa-amoled-197-color-negro/p/MLA57802650",
         priceCurrency: "ARS",
-        price: "175199",
+        price: "177510",
         availability: "https://schema.org/InStock",
       },
       aggregateRating: {
         "@type": "AggregateRating",
         ratingValue: "4.9",
-        reviewCount: "6776",
+        reviewCount: "11206",
       },
     },
   },
@@ -76692,7 +76702,7 @@ Comprá el Amazfit Bip 6 si buscás el smartwatch más completo de esta guía y 
     id: "MLA24530447",
     title: "Smartwatch Haylou Solar LS05S Reloj Inteligente Con Batería De 15 Días",
     canonicalName: "Smartwatch Haylou Solar LS05S",
-    price: 73306,
+    price: 71106,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_Q_NP_723094-MLA99461634584_112025-F.webp",
     images: [
@@ -76705,7 +76715,7 @@ Comprá el Amazfit Bip 6 si buscás el smartwatch más completo de esta guía y 
     condition: "new",
     freeShipping: true,
     rating: 4.7,
-    reviewCount: 75,
+    reviewCount: 76,
     soldQuantity: 100,
     pastelColor: "var(--pastel-blue)",
     visibility: "normal",
@@ -76722,15 +76732,16 @@ Comprá el Amazfit Bip 6 si buscás el smartwatch más completo de esta guía y 
       { label: "Compatibilidad", value: "Android / iOS" },
       { label: "Vendedor", value: "Tienda oficial (ALNI SHOP), +10 mil ventas" },
     ],
-    relatedProducts: ["MLA42520227", "MLA26666337", "MLA51929440", "MLA38058572"],
-    priceUpdated: "2026-09-23",
-    priceLastChecked: "2026-10-12",
+    relatedProducts: ["MLA42520227", "MLA26666337", "MLA57802650", "MLA38058572"],
+    priceUpdated: "2026-11-02",
+    priceLastChecked: "2026-11-02",
+    priceVerifiedAt: "2026-11-02",
     priceStatus: "fresh",
-    reviewsSampledAt: "2026-07-19",
+    reviewsSampledAt: "2026-11-02",
     description: "Smartwatch Haylou Solar LS05S: la variante diferenciada de esta guía, pensado explícitamente para no cargarlo casi nunca, con 15 días de batería declarados a un precio accesible.",
     seoTitle: "Haylou Solar LS05S: el smartwatch de batería más larga",
     metaDescription: "Smartwatch Haylou Solar LS05S, batería de 15 días. Precio accesible, opiniones reales de MercadoLibre.",
-    verdict: "Sirve si tu prioridad es no estar cargando el reloj todos los días: es el único de esta guía pensado explícitamente para 15 días de autonomía, a un precio accesible y de tienda oficial con respaldo de ventas. La contra real: tiene muy pocas reseñas (75) comparado con las otras 3 opciones de esta guía, y al 22 de julio de 2026 la publicación mostraba solo 3 unidades en stock — un dato que cambia rápido, conviene verificar disponibilidad en vivo antes de comprar. No es para vos si buscás GPS real o pantalla AMOLED: para eso, el Xiaomi o el Amazfit de esta guía.",
+    verdict: "Sirve si tu prioridad es no estar cargando el reloj todos los días: es el único de esta guía pensado explícitamente para 15 días de autonomía, a un precio accesible y de tienda oficial con respaldo de ventas. La contra real: tiene muy pocas reseñas ({{reviews:MLA24530447}}) comparado con las otras 4 opciones de esta guía. No es para vos si buscás GPS real o pantalla AMOLED: para eso, el Xiaomi o el Amazfit de esta guía.",
     pros: [
       "El único de esta guía pensado explícitamente para 15 días de batería sin cargar",
       "Precio accesible para el diferencial de autonomía que ofrece",
@@ -76738,8 +76749,7 @@ Comprá el Amazfit Bip 6 si buscás el smartwatch más completo de esta guía y 
       "Sensor de frecuencia cardíaca y monitor de sueño incluidos",
     ],
     cons: [
-      "Muy pocas reseñas (75) comparado con las otras 3 opciones de esta guía, con votos de \"útil\" bajos (0-1) — poco volumen de validación social",
-      "Stock bajo al 22 de julio de 2026 (\"últimas 3 unidades\" en la publicación) — dato volátil, puede cambiar de un día para el otro; verificar disponibilidad en vivo antes de comprar",
+      "Muy pocas reseñas ({{reviews:MLA24530447}}) comparado con las otras 4 opciones de esta guía, con votos de \"útil\" bajos (0-1) — poco volumen de validación social",
       "Sin GPS, sin NFC, sin WiFi",
       "Pantalla TFT LCD, no AMOLED, la de menor calidad visual de esta guía",
       "Sin SpO2 (oxígeno en sangre) ni llamadas Bluetooth, según reviews internacionales del mismo modelo",
@@ -76755,15 +76765,15 @@ Pantalla TFT LCD de 1,28" (240x240) en caja de PC/ABS de 45,3 mm, batería de 34
 
 ## La contra real
 
-Este modelo tiene mucho menos volumen de reseñas que las otras 3 opciones de esta guía: apenas {{reviews:MLA24530447}} calificaciones, con votos de "útil" muy bajos (0 a 1) en las reseñas con texto. Eso significa menos validación social de la que tienen el Xiaomi, el JD Venecia o el Amazfit. Además, al 22 de julio de 2026 la publicación mostraba solo 3 unidades disponibles — es un dato que cambia rápido (puede agotarse o reponerse en cualquier momento), así que conviene verificar el stock en vivo antes de decidirse.
+Este modelo tiene mucho menos volumen de reseñas que las otras 4 opciones de esta guía: apenas {{reviews:MLA24530447}} calificaciones, con votos de "útil" muy bajos (0 a 1) en las reseñas con texto. Eso significa menos validación social de la que tienen el Xiaomi, el JD Venecia, el Amazfit o el Samsung.
 
 ## Cómo se compara con las otras de esta guía
 
-Frente al [Xiaomi Redmi Watch 5 Lite](/producto/smartwatch-xiaomi-redmi-5-lite-1-96-negro-mla42520227) (elección general), el Haylou dura más sin cargar pero sin GPS ni AMOLED. Frente al [JD Venecia Sport](/producto/smartwatch-jd-venecia-sport-bluetooth-llamadas-pantalla-1-96-tactil-malla-color-mla26666337) (económico), tienen precio similar, pero el Haylou tiene mucho menos volumen de reseñas de respaldo. Frente al [Amazfit Bip 6](/producto/smartwatch-reloj-inteligente-amazfit-bip-6-amoled-1-97-gps-llamadas-bluetooth-5-mla51929440) (premium), el Haylou es mucho más económico, con el trade-off de menos funciones.
+Frente al [Xiaomi Redmi Watch 5 Lite](/producto/smartwatch-xiaomi-redmi-5-lite-1-96-negro-mla42520227) (elección general), el Haylou dura más sin cargar pero sin GPS ni AMOLED. Frente al [JD Venecia Sport](/producto/smartwatch-jd-venecia-sport-bluetooth-llamadas-pantalla-1-96-tactil-malla-color-mla26666337) (económico), tienen precio similar, pero el Haylou tiene mucho menos volumen de reseñas de respaldo. Frente al [Amazfit Bip 6](/producto/smartwatch-amazfit-bip-6-gps-integrado-alexa-amoled-1-97-color-negro-mla57802650) (premium), el Haylou es mucho más económico, con el trade-off de menos funciones.
 
 ## Para quién sí y para quién no
 
-Comprá el Haylou Solar LS05S si tu prioridad es no cargar el reloj seguido, y verificás stock disponible antes de comprar. No es para vos si buscás GPS real, pantalla AMOLED, o el mayor respaldo de reseñas: para eso, el [Xiaomi](/producto/smartwatch-xiaomi-redmi-5-lite-1-96-negro-mla42520227) o el [Amazfit](/producto/smartwatch-reloj-inteligente-amazfit-bip-6-amoled-1-97-gps-llamadas-bluetooth-5-mla51929440) de esta guía.`,
+Comprá el Haylou Solar LS05S si tu prioridad es no cargar el reloj seguido. No es para vos si buscás GPS real, pantalla AMOLED, o el mayor respaldo de reseñas: para eso, el [Xiaomi](/producto/smartwatch-xiaomi-redmi-5-lite-1-96-negro-mla42520227) o el [Amazfit](/producto/smartwatch-amazfit-bip-6-gps-integrado-alexa-amoled-1-97-color-negro-mla57802650) de esta guía.`,
     faq: [
       {
         question: "¿Realmente dura 15 días de batería?",
@@ -76771,15 +76781,11 @@ Comprá el Haylou Solar LS05S si tu prioridad es no cargar el reloj seguido, y v
       },
       {
         question: "¿Por qué tiene tan pocas reseñas?",
-        answer: "Tiene menor volumen de ventas en esta plataforma puntual ({{reviews:MLA24530447}} calificaciones) comparado con las otras 3 opciones de esta guía, que tienen miles.",
+        answer: "Tiene menor volumen de ventas en esta plataforma puntual ({{reviews:MLA24530447}} calificaciones) comparado con las otras 4 opciones de esta guía, que tienen miles.",
       },
       {
         question: "¿Sirve para nadar?",
         answer: "Es resistente al agua (IP68) hasta unos 5 metros de profundidad, pero no está pensado para buceo o natación profunda.",
-      },
-      {
-        question: "¿Hay stock disponible?",
-        answer: "Al 22 de julio de 2026 la publicación mostraba solo 3 unidades, un dato que cambia rápido. Verificá disponibilidad en vivo antes de comprar.",
       },
     ],
     structuredData: {
@@ -76793,13 +76799,13 @@ Comprá el Haylou Solar LS05S si tu prioridad es no cargar el reloj seguido, y v
         "@type": "Offer",
         url: "https://www.mercadolibre.com.ar/smartwatch-haylou-solar-ls05s-reloj-inteligente-con-bateria-de-15-dias/p/MLA24530447",
         priceCurrency: "ARS",
-        price: "69796",
+        price: "71106",
         availability: "https://schema.org/InStock",
       },
       aggregateRating: {
         "@type": "AggregateRating",
         ratingValue: "4.7",
-        reviewCount: "75",
+        reviewCount: "76",
       },
     },
   },
@@ -76864,7 +76870,7 @@ Comprá el Haylou Solar LS05S si tu prioridad es no cargar el reloj seguido, y v
       { label: "Caja del reloj", value: "Aluminio" },
       { label: "Accesorios incluidos", value: "Cargador inalámbrico con cable USB-C" },
     ],
-    relatedProducts: ["MLA42520227", "MLA26666337", "MLA51929440", "MLA24530447"],
+    relatedProducts: ["MLA42520227", "MLA26666337", "MLA57802650", "MLA24530447"],
     reviewsSampledAt: "2026-07-27",
     description: "Smartwatch Samsung Galaxy Watch7 44mm: la única de esta guía con NFC real para pagos sin contacto y GPS de doble frecuencia, con la base de reseñas más grande ({{reviews:MLA38058572}} calificaciones), aunque solo compatible con Android.",
     seoTitle: "Samsung Galaxy Watch7: el smartwatch con NFC de esta guía",
@@ -76902,11 +76908,11 @@ Hay un matiz más sobre el ECG y la presión arterial que vale la pena aclarar, 
 
 ## Cómo se compara con las otras de esta guía
 
-Frente al [Xiaomi Redmi Watch 5 Lite](/producto/smartwatch-xiaomi-redmi-5-lite-1-96-negro-mla42520227) (elección general), el Samsung suma NFC real, mejor GPS y sensores más completos (ECG, composición corporal), pero cuesta bastante más y su batería real (menos de 2 días) queda muy por detrás de los 18 días declarados del Xiaomi. Frente al [Amazfit Bip 6](/producto/smartwatch-reloj-inteligente-amazfit-bip-6-amoled-1-97-gps-llamadas-bluetooth-5-mla51929440) (premium sin NFC), el Samsung resuelve justo lo que al Amazfit le falta (pagos sin contacto), pero pierde feo en autonomía: 2 semanas confirmadas del Amazfit contra menos de 2 días del Samsung. Frente al [JD Venecia](/producto/smartwatch-jd-venecia-sport-bluetooth-llamadas-pantalla-1-96-tactil-malla-color-mla26666337) y al [Haylou](/producto/smartwatch-haylou-solar-ls05s-reloj-inteligente-con-bateria-de-15-dias-mla24530447), el Samsung es varias veces más caro pero con un ecosistema y una base de reseñas incomparablemente más grande.
+Frente al [Xiaomi Redmi Watch 5 Lite](/producto/smartwatch-xiaomi-redmi-5-lite-1-96-negro-mla42520227) (elección general), el Samsung suma NFC real, mejor GPS y sensores más completos (ECG, composición corporal), pero cuesta bastante más y su batería real (menos de 2 días) queda muy por detrás de los 18 días declarados del Xiaomi. Frente al [Amazfit Bip 6](/producto/smartwatch-amazfit-bip-6-gps-integrado-alexa-amoled-1-97-color-negro-mla57802650) (premium sin NFC), el Samsung resuelve justo lo que al Amazfit le falta (pagos sin contacto), pero pierde feo en autonomía: 2 semanas confirmadas del Amazfit contra menos de 2 días del Samsung. Frente al [JD Venecia](/producto/smartwatch-jd-venecia-sport-bluetooth-llamadas-pantalla-1-96-tactil-malla-color-mla26666337) y al [Haylou](/producto/smartwatch-haylou-solar-ls05s-reloj-inteligente-con-bateria-de-15-dias-mla24530447), el Samsung es varias veces más caro pero con un ecosistema y una base de reseñas incomparablemente más grande.
 
 ## Para quién sí y para quién no
 
-Comprá el Samsung Galaxy Watch7 si tenés un celular Android y querés pagar sin contacto desde la muñeca, con el GPS y los sensores más completos de esta guía, y no te molesta cargarlo todos los días. No es para vos si tenés iPhone (no es compatible) o si priorizás la autonomía: para eso, el [Amazfit Bip 6](/producto/smartwatch-reloj-inteligente-amazfit-bip-6-amoled-1-97-gps-llamadas-bluetooth-5-mla51929440) o el [Haylou Solar](/producto/smartwatch-haylou-solar-ls05s-reloj-inteligente-con-bateria-de-15-dias-mla24530447) de esta guía rinden muchísimo más entre cargas.`,
+Comprá el Samsung Galaxy Watch7 si tenés un celular Android y querés pagar sin contacto desde la muñeca, con el GPS y los sensores más completos de esta guía, y no te molesta cargarlo todos los días. No es para vos si tenés iPhone (no es compatible) o si priorizás la autonomía: para eso, el [Amazfit Bip 6](/producto/smartwatch-amazfit-bip-6-gps-integrado-alexa-amoled-1-97-color-negro-mla57802650) o el [Haylou Solar](/producto/smartwatch-haylou-solar-ls05s-reloj-inteligente-con-bateria-de-15-dias-mla24530447) de esta guía rinden muchísimo más entre cargas.`,
     faq: [
       {
         question: "¿Funciona con iPhone?",
@@ -76961,7 +76967,7 @@ Comprá el Samsung Galaxy Watch7 si tenés un celular Android y querés pagar si
       aggregateRating: {
         "@type": "AggregateRating",
         ratingValue: "4.9",
-        reviewCount: "9204",
+        reviewCount: "11795",
       },
     },
   },
@@ -77032,7 +77038,7 @@ Comprá el Samsung Galaxy Watch7 si tenés un celular Android y querés pagar si
       { rating: 5, country: "Brasil", date: "junio 2026", useful: 0, text: "Batería: Batería de 14 días. Pantalla: Sin pantalla. Producto original, llegó rápido. Y ya estoy usando. (traducida del portugués; ML tradujo mal \"Sem tela\" como \"Sin tela\" en vez de \"Sin pantalla\")" },
     ],
     reviewsSampledAt: "2026-07-28",
-    relatedProducts: ["MLA38058572", "MLA51929440", "MLA42520227"],
+    relatedProducts: ["MLA38058572", "MLA57802650", "MLA42520227"],
     priceUpdated: "2026-10-12",
     priceLastChecked: "2026-10-12",
     priceStatus: "fresh",

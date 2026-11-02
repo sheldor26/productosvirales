@@ -16,6 +16,16 @@
 **Archivos involucrados:** `path/a/archivo.ts`
 -->
 
+## 2026-11-02 — Sumar un producto nuevo a una guía rompió un claim de superlativo ("el más caro") en otro producto ya existente
+
+**Qué pasó:** al refrescar `smartwatch`, actualicé el Amazfit Bip 6 (link muerto, swap de catálogo). La ficha del Amazfit afirmaba en 3 lugares distintos "es el más caro de esta comparativa" / "ninguna de esta guía tiene NFC" — afirmaciones que eran ciertas cuando se escribieron, pero que el Samsung Galaxy Watch7 (agregado a la guía en una sesión anterior, a $530.000) ya había vuelto falsas. Nadie había vuelto a revisar los claims de superlativo del Amazfit después de que el Samsung entrara al ranking. El trío auditor lo atrapó (incluida la contradicción real de NFC), no yo.
+
+**Por qué:** un claim de superlativo ("el más caro", "el único sin X", "ninguna otra opción tiene Y") depende del CONJUNTO completo de productos de la guía, no solo del producto que lo contiene. Cuando se agrega o se quita un producto de una guía, cualquier superlativo en los OTROS productos puede quedar roto sin que nadie haya tocado el texto que lo contiene — el cambio que lo rompe pasa en otro lado, por eso es fácil no verlo.
+
+**Cómo evitarlo:** al agregar o sacar un producto de una guía con ranking, grepear los otros productos de esa misma guía por frases de superlativo ("el más caro", "el único", "ninguna de esta guía", "por lejos") antes de dar el cambio por cerrado — no alcanza con verificar que el producto nuevo/actualizado sea correcto en sí mismo.
+
+**Archivos involucrados:** `src/data/curated-products.ts`, `src/data/guides.ts`
+
 ## 2026-11-02 — Usé {{reviews:ID:k}}, un sufijo que solo existe para {{precio:ID:k}}, y quedó sin resolver en la página
 
 **Qué pasó:** al escribir taglines y respuestas cortas donde quería un número de reseñas redondeado (tipo "10 mil calificaciones" en vez de "10.345"), usé `{{reviews:MLA22138728:k}}` copiando el patrón de `{{precio:ID:k}}`, que sí soporta ese sufijo para redondear a miles. El token de reseñas no tiene esa variante: el regex en `src/lib/price-token.ts` (`REVIEWS_TOKEN_RE`) solo matchea `{{reviews:ID}}` sin sufijo. El resultado: el texto `{{reviews:MLA22138728:k}}` quedaba renderizado literal, visible tal cual en la página publicada. Lo usé 7 veces en la sesión antes de notarlo navegando el preview en vivo.
@@ -36,7 +46,7 @@
 
 **Archivos involucrados:** `src/data/guides.ts`
 
-## 2026-11-02 — Usé {{reviews:ID:k}}, un sufijo que solo existe para {{precio:ID:k}}, y quedó sin resolver en la página
+## 2026-11-02 — Un swap de vendedor a medias dejó el campo `id` de una ficha desincronizado de su propio link, y nada automático lo detectó
 
 **Qué pasó:** al refrescar `pava-electrica-acero-inoxidable`, uno de los 8 productos (Atma PEAT1351) tenía el link de afiliado roto: `meli.la/1rMrWSu` ya no llevaba al producto, redirigía a una página social genérica sin ningún error visible. Investigando encontré que una sesión anterior (2026-10-31) ya había hecho un swap de vendedor por falta de stock, documentado en un comentario de código, pero solo había actualizado `permalink` y `affiliateUrl` — el campo `id` de la ficha seguía apuntando al ID viejo y muerto. `guides:check` nunca lo marcó porque el `productMlaId` SÍ existía en el catálogo (apuntaba a una ficha real), solo que esa ficha tenía datos de un producto que ya no se podía comprar por ese link.
 
