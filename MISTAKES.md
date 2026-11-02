@@ -16,6 +16,16 @@
 **Archivos involucrados:** `path/a/archivo.ts`
 -->
 
+## 2026-11-02 — Tokenizar un precio no alcanza: una conclusión cualitativa vieja puede sobrevivir al cambio de precio que la volvió falsa
+
+**Qué pasó:** en el refresh de `monopatin-electrico`, actualicé los 5 precios en vivo y tokenicé las menciones hardcodeadas, pero no revisé si alguna conclusión cualitativa que dependía del ORDEN RELATIVO de esos precios seguía siendo cierta. Con los precios nuevos, la Logus L7 ($738.479) dejó de ser "la más cara de esta comparativa" — ese título pasó a la Daihatsu V200 ($1.145.000) — pero la afirmación "es la más cara" (no un número, una conclusión) seguía escrita en 7 lugares distintos (standfirst de la guía, un párrafo del ranking, la lista de precios, y verdict/cons/articleBody/FAQ de la propia ficha de Logus). Lo encontró agy en la primera ronda del trío auditor, no yo.
+
+**Por qué:** tokenizar `{{precio:ID}}` resuelve el NÚMERO automáticamente, pero no resuelve las palabras que alguien escribió alrededor de ese número en el momento en que esa comparación era cierta ("la más cara", "la más barata", "empatada con X"). Esas palabras quedan como texto estático para siempre, aunque el precio que las justificaba cambie.
+
+**Cómo evitarlo:** después de actualizar precios/reseñas de una comparativa de varios productos, antes de cerrar, recalcular a mano el ranking real por cada eje que la guía usa como argumento de venta (más barato, más caro, más reseñado, mejor rating) y grepear frases como "la más cara", "la más barata", "el mayor", "el menor", "empata" contra ese recálculo — no asumir que están bien solo porque los números debajo ya se tokenizaron. Es la misma familia de bug que "sumar un producto rompe un superlativo" (ya documentado), pero en su variante "cambiar un precio rompe un superlativo", sin necesidad de agregar ni sacar ningún producto.
+
+**Archivos involucrados:** `src/data/guides.ts`, `src/data/curated-products.ts` (ficha MLA35313780)
+
 ## 2026-11-02 — El commit de otra sesión concurrente arrastró mi trabajo sin commitear bajo su propio mensaje
 
 **Qué pasó:** mientras esta sesión trabajaba sourcing de productos nuevos (Yelmo YG-1717, pavas Novohome/Unnic) sin commitear todavía, al menos otras 2 sesiones concurrentes estaban editando los mismos dos archivos (`src/data/curated-products.ts`, `src/data/guides.ts`) sobre el mismo checkout compartido, siguiendo el mismo backlog del reporte SEO semanal. Una de ellas (trabajando `cafetera-de-filtro`) corrió `git commit` con el working tree en el estado que tenía en ese momento — y como mi contenido de yogurtera/pava ya estaba escrito en disco pero sin commitear, quedó adentro de ese commit (`2cfe36f`), bajo un mensaje que solo menciona cafetera.

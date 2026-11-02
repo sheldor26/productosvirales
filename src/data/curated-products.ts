@@ -82267,6 +82267,7 @@ Comprala si el respaldo de casi 1.100 reseñas te da confianza y no te preocupa 
     title: "Monopatín Eléctrico Gadnic KINGS221 Recargable Plegable Con Luz Resistente Al Agua",
     canonicalName: "Monopatín Gadnic KINGS221",
     price: 599999,
+    originalPrice: 1192649,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_953371-MLA99453599262_112025-O.webp",
     images: [
@@ -82279,7 +82280,7 @@ Comprala si el respaldo de casi 1.100 reseñas te da confianza y no te preocupa 
     condition: "new",
     freeShipping: true,
     rating: 4.7,
-    reviewCount: 224,
+    reviewCount: 266,
     pastelColor: "var(--pastel-green)",
     visibility: "normal",
     specs: [
@@ -82297,18 +82298,18 @@ Comprala si el respaldo de casi 1.100 reseñas te da confianza y no te preocupa 
       { label: "Freno", value: "Eléctrico a disco" },
       { label: "Resistente al agua", value: "Sí" },
     ],
-    relatedProducts: ["MLA23535856", "MLA68036626", "MLA57835728", "MLA35313780", "MLA49566209"],
-    priceUpdated: "2026-09-14",
-    priceLastChecked: "2026-10-12",
+    relatedProducts: ["MLA68036626", "MLA57835728", "MLA35313780", "MLA49566209"],
+    priceUpdated: "2026-11-02",
+    priceLastChecked: "2026-11-02",
     priceStatus: "fresh",
-    reviewsSampledAt: "2026-08-05",
-    description: "Gadnic KINGS221: la mayor base de reseñas de esta comparativa ({{reviews:MLA49998952}} calificaciones, 4.6 estrellas) y el precio más bajo junto con la Philco. Resistente al agua, con luz LED y freno eléctrico a disco.",
+    reviewsSampledAt: "2026-11-02",
+    description: "Gadnic KINGS221: la mayor base de reseñas de esta comparativa ({{reviews:MLA49998952}} calificaciones, {{rating:MLA49998952}} estrellas) y hoy también el más barato entre las opciones para adultos. Resistente al agua, con luz LED y freno eléctrico a disco.",
     seoTitle: "Gadnic KINGS221: el monopatín eléctrico más reseñado",
-    metaDescription: "Gadnic KINGS221: {{reviews:MLA49998952}} calificaciones, 4.6 estrellas, resistente al agua. Precio real, autonomía real verificada contra reseñas y contras honestas.",
-    verdict: "El Gadnic KINGS221 tiene la base de reseñas más grande de esta comparativa ({{reviews:MLA49998952}} calificaciones) con un rating sólido de 4.6. Es de los más baratos y de los más livianos entre las opciones para adultos (la Philco es más liviana todavía, con 12,5 kg contra los 13,7 kg de la Gadnic). La contra real: varias reseñas confirman que la autonomía baja a la mitad de la declarada si usás la luz prendida a velocidad máxima, y no tiene suspensión.",
+    metaDescription: "Gadnic KINGS221: {{reviews:MLA49998952}} calificaciones, {{rating:MLA49998952}} estrellas, resistente al agua. Precio real, autonomía real verificada contra reseñas y contras honestas.",
+    verdict: "El Gadnic KINGS221 tiene la base de reseñas más grande de esta comparativa ({{reviews:MLA49998952}} calificaciones) con un rating sólido de {{rating:MLA49998952}}. Es de los más baratos y de los más livianos entre las opciones para adultos de esta comparativa (13,7 kg). La contra real: varias reseñas confirman que la autonomía baja a la mitad de la declarada si usás la luz prendida a velocidad máxima, y no tiene suspensión.",
     pros: [
-      "La mayor base de reseñas de esta comparativa: {{reviews:MLA49998952}} calificaciones con 4.6 estrellas",
-      "De los más baratos, prácticamente empatado con la Philco",
+      "La mayor base de reseñas de esta comparativa: {{reviews:MLA49998952}} calificaciones con {{rating:MLA49998952}} estrellas",
+      "El más barato entre las opciones para adultos de esta comparativa",
       "De los más livianos entre las opciones para adultos de esta comparativa (13,7 kg)",
       "Resistente al agua y con freno eléctrico a disco",
     ],
@@ -82323,7 +82324,7 @@ El Gadnic KINGS221 es un monopatín eléctrico plegable de 300 W, freno eléctri
 
 ## Lo bueno
 
-Con {{reviews:MLA49998952}} calificaciones y 4.6 estrellas, es el monopatín con más respaldo real de compradores de esta guía. Es de los más baratos (prácticamente empatado con la Philco) y de los más livianos entre las opciones pensadas para adultos, con 13,7 kg (la Philco es más liviana todavía, con 12,5 kg).
+Con {{reviews:MLA49998952}} calificaciones y {{rating:MLA49998952}} estrellas, es el monopatín con más respaldo real de compradores de esta guía. Es el más barato entre las opciones para adultos y de los más livianos entre las opciones pensadas para adultos, con 13,7 kg.
 
 ## La contra real
 
@@ -82335,7 +82336,7 @@ Comprala si buscás el mejor respaldo de reseñas al precio más bajo, y no te i
     faq: [
       { question: "¿Cuál es la autonomía real del Gadnic KINGS221?", answer: "La ficha declara 25 km, pero varias reseñas reales confirman que con la luz prendida a velocidad máxima la autonomía baja a unos 12-15 km." },
       { question: "¿Tiene suspensión?", answer: "No, según la ficha técnica y las reseñas. Hay que tener cuidado en calles con pozos o cunetas." },
-      { question: "¿Cuántas calificaciones tiene?", answer: "{{reviews:MLA49998952}} calificaciones con 4.6 estrellas, la base de reseñas más grande de esta comparativa de 6 monopatines eléctricos." },
+      { question: "¿Cuántas calificaciones tiene?", answer: "{{reviews:MLA49998952}} calificaciones con {{rating:MLA49998952}} estrellas, la base de reseñas más grande de esta comparativa." },
       { question: "¿Es resistente al agua?", answer: "Sí, según la ficha técnica del producto." },
     ],
   },
@@ -82343,7 +82344,7 @@ Comprala si buscás el mejor respaldo de reseñas al precio más bajo, y no te i
     id: "MLA23535856",
     title: "Monopatín Eléctrico Philco Plegable 250w 25km Color Negro",
     canonicalName: "Monopatín Philco MSMPANEM1P",
-    price: 765999,
+    price: 650000,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_970378-MLA99899820189_112025-O.webp",
     images: [
@@ -82355,10 +82356,10 @@ Comprala si buscás el mejor respaldo de reseñas al precio más bajo, y no te i
     affiliateUrl: "https://meli.la/2SCnaSH",
     condition: "new",
     freeShipping: true,
-    rating: 4.4,
-    reviewCount: 77,
+    rating: 4.3,
+    reviewCount: 78,
     pastelColor: "var(--pastel-blue)",
-    visibility: "normal",
+    visibility: "deprioritized",
     specs: [
       { label: "Marca", value: "Philco" },
       { label: "Modelo", value: "MSMPANEM1P" },
@@ -82370,43 +82371,46 @@ Comprala si buscás el mejor respaldo de reseñas al precio más bajo, y no te i
       { label: "Peso", value: "12,5 kg" },
     ],
     relatedProducts: ["MLA49998952", "MLA68036626", "MLA57835728", "MLA35313780", "MLA49566209"],
-    priceUpdated: "2026-09-18",
-    priceLastChecked: "2026-09-28",
-    priceStatus: "fresh",
-    reviewsSampledAt: "2026-08-05",
-    description: "Philco MSMPANEM1P: prácticamente empatado con la Gadnic como el más barato de esta comparativa, y el más liviano entre las opciones para adultos (12,5 kg). Motor más chico (250 W) y ficha técnica más incompleta que el resto.",
-    seoTitle: "Philco: el monopatín eléctrico más liviano y barato",
-    metaDescription: "Philco MSMPANEM1P: 4.3 estrellas en {{reviews:MLA23535856}} calificaciones, 12,5 kg, motor 250W. Precio real, specs verificadas y contras honestas antes de comprar.",
-    verdict: "El Philco MSMPANEM1P empata como el más barato de esta comparativa (una diferencia de apenas $624 contra la Gadnic) y es el más liviano entre las opciones para adultos, con 12,5 kg. Tiene el motor más chico de los 6 (250 W) y su ficha técnica en MercadoLibre no declara autonomía ni peso máximo soportado, algo que sí tienen las demás. Reseñas reales confirman que alcanza los 25 km/h declarados.",
+    priceUpdated: "2026-11-02",
+    priceLastChecked: "2026-11-02",
+    priceStatus: "out_of_stock",
+    reviewsSampledAt: "2026-11-02",
+    description: "Philco MSMPANEM1P: el más liviano entre las opciones para adultos de esta comparativa (12,5 kg), pero hoy fuera del ranking activo: la publicación quedó excluida del Programa de Afiliados de MercadoLibre y sus ofertas vigentes son de vendedores sin historial de ventas. Dejamos la ficha para consulta, no la recomendamos como compra activa.",
+    seoTitle: "Philco: el monopatín eléctrico más liviano, hoy sin recomendar",
+    metaDescription: "Philco MSMPANEM1P: {{rating:MLA23535856}} estrellas en {{reviews:MLA23535856}} calificaciones, 12,5 kg, motor 250W. Por qué dejó de estar en nuestro ranking activo, explicado.",
+    verdict: "El Philco MSMPANEM1P es el más liviano entre las opciones para adultos de esta comparativa (12,5 kg) y reseñas reales confirman que alcanza los 25 km/h declarados. Pero hoy no lo recomendamos como compra activa: la publicación quedó excluida del Programa de Afiliados de MercadoLibre (no es un link roto nuestro, es una restricción de la plataforma) y las ofertas vigentes en su ficha son todas de vendedores sin historial de ventas, con precios que van de $650.000 a $1.250.000 según el vendedor. La Gadnic KINGS221, que ya era la más elegida de esta comparativa, hoy también es la más barata entre las opciones para adultos.",
     pros: [
-      "Empata como el más barato de esta comparativa (diferencia de apenas $624 contra la Gadnic)",
       "El más liviano entre las opciones para adultos de esta comparativa (12,5 kg)",
       "Reseñas reales confirman que alcanza la velocidad máxima declarada (25 km/h)",
       "{{reviews:MLA23535856}} calificaciones, una base de reseñas real considerable",
     ],
     cons: [
+      "Excluido hoy del Programa de Afiliados de MercadoLibre: no podemos linkearlo con nuestro afiliado",
+      "Las ofertas vigentes en su ficha son todas de vendedores sin historial de ventas, con una sola unidad cada uno",
       "El motor más chico de esta comparativa (250 W)",
       "La ficha técnica de MercadoLibre no declara autonomía ni peso máximo soportado, a diferencia de las demás fichas de esta comparativa",
-      "El dato de capacidad de batería que muestra la ficha de ML (6,6 mAh) es implausible para un vehículo eléctrico (probable error de tipeo del vendedor, no lo pudimos confirmar)",
-      "Reseñas reales mencionan que puede llegar con una rueda desinflada",
     ],
     articleBody: `## Qué es y para quién
 
-El Philco MSMPANEM1P es un monopatín eléctrico plegable de 250 W, el motor más chico de esta comparativa, pensado para quien prioriza el precio más bajo posible.
+El Philco MSMPANEM1P es un monopatín eléctrico plegable de 250 W, el motor más chico de esta comparativa, el más liviano entre las opciones para adultos.
 
-## Lo bueno
+## Por qué ya no está en el ranking activo
 
-Empata como el más barato de esta comparativa (apenas $624 de diferencia contra la Gadnic) y es el más liviano entre las opciones para adultos, con 12,5 kg. Reseñas reales confirman que alcanza los 25 km/h declarados sin problema. Una reseña real lo resume bien: lo compró porque era el más barato y en cuotas, y cada cuota le sale menos que dos boletos de colectivo por día.
+La publicación quedó excluida del Programa de Afiliados de MercadoLibre: no es un link roto de nuestro lado, es una restricción de la plataforma sobre esa publicación puntual. Además, al revisarla en vivo, las 4 ofertas de venta vigentes son de vendedores sin historial de ventas ("0 ventas, no tiene suficientes ventas para evaluar su atención"), cada uno con una sola unidad en stock, y a precios que van de $650.000 a $1.250.000 según el vendedor: una oferta fragmentada e inestable, no la compra segura que era antes. Por eso dejó de ser una recomendación activa.
+
+## Lo bueno (sigue siendo cierto sobre el producto en sí)
+
+Es el más liviano entre las opciones para adultos de esta comparativa, con 12,5 kg. Reseñas reales confirman que alcanza los 25 km/h declarados sin problema.
 
 ## La contra real
 
-Tiene el motor más chico de esta comparativa (250 W) y su ficha técnica en MercadoLibre no declara autonomía ni peso máximo soportado, a diferencia de las demás fichas de esta comparativa. El dato de capacidad de batería que muestra la ficha (6,6 mAh) es un número implausible para un vehículo eléctrico de este tipo; no pudimos confirmar si es un error de tipeo del vendedor, así que lo marcamos como dato no verificable en vez de repetirlo como si fuera un hecho. Reseñas reales también mencionan que puede llegar con una rueda desinflada de fábrica.
+Tiene el motor más chico de esta comparativa (250 W) y su ficha técnica en MercadoLibre no declara autonomía ni peso máximo soportado, a diferencia de las demás fichas de esta comparativa. El dato de capacidad de batería que muestra la ficha (6,6 mAh) es un número implausible para un vehículo eléctrico de este tipo; no pudimos confirmar si es un error de tipeo del vendedor, así que lo marcamos como dato no verificable en vez de repetirlo como si fuera un hecho.
 
 ## Para quién sí y para quién no
 
-Comprala si el precio es tu prioridad número uno y aceptás una ficha técnica más incompleta que el resto (sin dato de autonomía ni peso máximo). Si preferís una ficha técnica completa a un precio casi idéntico, la Gadnic KINGS221 es la alternativa directa.`,
+Hoy no lo recomendamos como compra activa por los motivos de arriba. Si buscás algo liviano y económico, la [Gadnic KINGS221](/producto/monopatin-electrico-gadnic-kings221-recargable-plegable-con-luz-resistente-al-ag-mla49998952) es hoy la alternativa directa: más barata, con más respaldo de reseñas y con link de afiliado funcionando.`,
     faq: [
-      { question: "¿Cuál es el monopatín eléctrico más barato de esta comparativa?", answer: "El Philco MSMPANEM1P y el Gadnic KINGS221 empatan prácticamente en precio, con apenas $624 de diferencia entre ambos." },
+      { question: "¿Por qué el Philco ya no aparece en el ranking activo de la comparativa?", answer: "Porque su publicación quedó excluida del Programa de Afiliados de MercadoLibre (no podemos generarle un link de afiliado funcional) y, al revisarla en vivo, las 4 ofertas vigentes son de vendedores sin historial de ventas con una sola unidad cada uno, a precios que van de $650.000 a $1.250.000 según el vendedor." },
       { question: "¿Cuánto pesa el Philco?", answer: "12,5 kg según la ficha técnica, el más liviano entre las opciones para adultos de esta comparativa." },
       { question: "¿Cuál es su autonomía?", answer: "La ficha técnica de MercadoLibre no declara este dato para este producto, a diferencia de las demás fichas de esta comparativa." },
       { question: "¿Alcanza la velocidad máxima declarada?", answer: "Sí, reseñas reales de compradores confirman que llega a los 25 km/h declarados." },
@@ -82416,7 +82420,7 @@ Comprala si el precio es tu prioridad número uno y aceptás una ficha técnica 
     id: "MLA68036626",
     title: "Scooter Eléctrico Xiaomi 6 Lite Color Negro 500w Max Autonomía 25km Suspensión Doble",
     canonicalName: "Monopatín Xiaomi Electric Scooter 6 Lite",
-    price: 876236,
+    price: 849900,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_814999-MLA109596163862_042026-O.webp",
     images: [
@@ -82429,7 +82433,7 @@ Comprala si el precio es tu prioridad número uno y aceptás una ficha técnica 
     condition: "new",
     freeShipping: true,
     rating: 4.8,
-    reviewCount: 80,
+    reviewCount: 97,
     pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
@@ -82447,23 +82451,22 @@ Comprala si el precio es tu prioridad número uno y aceptás una ficha técnica 
       { label: "Freno", value: "Tambor (delantero) y E-ABS (trasero)" },
       { label: "Suspensión", value: "Doble" },
     ],
-    relatedProducts: ["MLA49998952", "MLA23535856", "MLA57835728", "MLA35313780", "MLA49566209"],
-    priceUpdated: "2026-10-12",
-    priceLastChecked: "2026-10-12",
+    relatedProducts: ["MLA49998952", "MLA57835728", "MLA35313780", "MLA49566209"],
+    priceUpdated: "2026-11-02",
+    priceLastChecked: "2026-11-02",
     priceStatus: "fresh",
-    reviewsSampledAt: "2026-08-05",
-    description: "Xiaomi 6 Lite: la marca global de electrónica de consumo más reconocible de esta comparativa, con doble suspensión y freno tambor + E-ABS. 4.8 estrellas, pero con solo {{reviews:MLA68036626}} calificaciones, la base de reseñas más chica de las 6.",
+    reviewsSampledAt: "2026-11-02",
+    description: "Xiaomi 6 Lite: la marca global de electrónica de consumo más reconocible de esta comparativa, con doble suspensión y freno tambor + E-ABS. {{rating:MLA68036626}} estrellas en {{reviews:MLA68036626}} calificaciones.",
     seoTitle: "Xiaomi 6 Lite: monopatín eléctrico de marca internacional",
-    metaDescription: "Xiaomi Electric Scooter 6 Lite: 500W, doble suspensión, 4.8 estrellas. Precio real, specs verificadas y contras honestas antes de comprar.",
-    verdict: "El Xiaomi 6 Lite es la marca global de electrónica de consumo más reconocible de esta comparativa, con doble suspensión y freno tambor + E-ABS. Tiene el mejor rating junto con la Logus (4.8 estrellas), pero con solo 16 calificaciones, la base de reseñas más chica de esta comparativa. Buena opción si el nombre de marca y la terminación te importan más que el respaldo de reseñas.",
+    metaDescription: "Xiaomi Electric Scooter 6 Lite: 500W, doble suspensión, {{rating:MLA68036626}} estrellas. Precio real, specs verificadas y contras honestas antes de comprar.",
+    verdict: "El Xiaomi 6 Lite es la marca global de electrónica de consumo más reconocible de esta comparativa, con doble suspensión y freno tambor + E-ABS. Tiene el mejor rating junto con la Logus ({{rating:MLA68036626}} estrellas) y {{reviews:MLA68036626}} calificaciones de respaldo. Buena opción si el nombre de marca y la terminación te importan.",
     pros: [
       "La marca global de electrónica de consumo más reconocible de esta comparativa (Xiaomi)",
-      "Empata como el mejor rating de esta comparativa: 4.8 estrellas",
+      "Empata como el mejor rating de esta comparativa: {{rating:MLA68036626}} estrellas",
       "Doble suspensión, algo que ninguna otra de esta comparativa tiene",
       "Freno tambor + E-ABS en las dos ruedas",
     ],
     cons: [
-      "Solo 16 calificaciones, la base de reseñas más chica de esta comparativa por lejos (la Gadnic tiene 156)",
       "Velocidad máxima de 25 km/h, la más baja de las opciones de 500W de esta comparativa (la Daihatsu con el mismo motor declara 35 km/h)",
       "Es de las más pesadas: 18 kg",
     ],
@@ -82473,17 +82476,17 @@ El Xiaomi 6 Lite es un scooter eléctrico plegable de 500 W con doble suspensió
 
 ## Lo bueno
 
-Empata como el mejor rating de esta comparativa (4.8 estrellas) y es la única con doble suspensión, algo que se nota en calles en mal estado. Reseñas reales describen un uso diario para ir al trabajo, con comandos simples y buena tecnología.
+Empata como el mejor rating de esta comparativa ({{rating:MLA68036626}} estrellas) y es la única con doble suspensión, algo que se nota en calles en mal estado. Reseñas reales describen un uso diario para ir al trabajo, con comandos simples y buena tecnología.
 
 ## La contra real
 
-Tiene solo {{reviews:MLA68036626}} calificaciones, la base de reseñas más chica de esta comparativa por lejos (la Gadnic tiene 156). Pese a tener el mismo motor de 500 W que la Daihatsu V200, su velocidad máxima declarada es de 25 km/h, bastante menos que los 35 km/h que declara la Daihatsu. Es además una de las más pesadas de esta comparativa, con 18 kg.
+Pese a tener el mismo motor de 500 W que la Daihatsu V200, su velocidad máxima declarada es de 25 km/h, bastante menos que los 35 km/h que declara la Daihatsu. Es además una de las más pesadas de esta comparativa, con 18 kg.
 
 ## Para quién sí y para quién no
 
-Comprala si el nombre de marca reconocida y la doble suspensión te importan, y aceptás un respaldo de reseñas todavía chico. Si preferís más reseñas antes de decidir, la Gadnic o la Logus tienen mucho más historial.`,
+Comprala si el nombre de marca reconocida y la doble suspensión te importan.`,
     faq: [
-      { question: "¿Cuántas calificaciones tiene el Xiaomi 6 Lite?", answer: "{{reviews:MLA68036626}} calificaciones con 4.8 estrellas, la base de reseñas más chica de esta comparativa de 6 monopatines eléctricos." },
+      { question: "¿Cuántas calificaciones tiene el Xiaomi 6 Lite?", answer: "{{reviews:MLA68036626}} calificaciones con {{rating:MLA68036626}} estrellas." },
       { question: "¿Tiene suspensión?", answer: "Sí, doble suspensión según la ficha técnica, la única de esta comparativa con esa característica." },
       { question: "¿Cuánto pesa?", answer: "18 kg según la ficha técnica, de las más pesadas de esta comparativa." },
       { question: "¿Cuál es su velocidad máxima?", answer: "25 km/h según la ficha técnica, la más baja entre las opciones de 500W de esta comparativa." },
@@ -82493,7 +82496,7 @@ Comprala si el nombre de marca reconocida y la doble suspensión te importan, y 
     id: "MLA57835728",
     title: "Monopatín Eléctrico Daihatsu V200 500W Tracción Trasera 10'' 15.6Ah Negro",
     canonicalName: "Monopatín Daihatsu V200",
-    price: 1246911,
+    price: 1145000,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_982717-MLA113592192481_062026-O.webp",
     images: [
@@ -82523,11 +82526,11 @@ Comprala si el nombre de marca reconocida y la doble suspensión te importan, y 
       { label: "Peso", value: "16 kg" },
       { label: "Freno", value: "Tambor" },
     ],
-    relatedProducts: ["MLA49998952", "MLA23535856", "MLA68036626", "MLA35313780", "MLA49566209"],
-    priceUpdated: "2026-10-12",
-    priceLastChecked: "2026-10-12",
+    relatedProducts: ["MLA49998952", "MLA68036626", "MLA35313780", "MLA49566209"],
+    priceUpdated: "2026-11-02",
+    priceLastChecked: "2026-11-02",
     priceStatus: "fresh",
-    reviewsSampledAt: "2026-08-05",
+    reviewsSampledAt: "2026-11-02",
     description: "Daihatsu V200: la mayor autonomía declarada (35 km) y el mayor soporte de peso (120 kg) de esta comparativa. La ficha declara 35 km/h de velocidad máxima, pero una reseña real reporta que sale limitada a 25 km/h de fábrica (dato no confirmado al 100%).",
     seoTitle: "Daihatsu V200: el monopatín eléctrico con más autonomía",
     metaDescription: "Daihatsu V200: 500W, 35 km de autonomía declarada, soporta hasta 120 kg. Precio real y la verdad sobre su velocidad máxima, según reseñas reales.",
@@ -82536,7 +82539,7 @@ Comprala si el nombre de marca reconocida y la doble suspensión te importan, y 
       "Mayor autonomía declarada de esta comparativa: 35 km",
       "Mayor soporte de peso de esta comparativa: 120 kg",
       "Motor de 500 W, empatado con el Xiaomi como el más potente",
-      "4.7 estrellas en {{reviews:MLA57835728}} calificaciones",
+      "{{rating:MLA57835728}} estrellas en {{reviews:MLA57835728}} calificaciones",
     ],
     cons: [
       "La ficha declara 35 km/h de velocidad máxima, pero una reseña real reporta que sale de fábrica limitada a 25 km/h (no confirmado al 100%); el máximo alcanzable con un ajuste no oficial sería de 30 km/h, no los 35 declarados",
@@ -82561,7 +82564,7 @@ El título y la ficha técnica declaran 35 km/h de velocidad máxima, pero una r
 Comprala si priorizás la mayor autonomía y soporte de peso declarados, y no te importa que la velocidad máxima real probablemente sea menor a la del título. Si la velocidad tope es tu prioridad, ninguna de esta comparativa la garantiza sin matices: revisá el detalle de cada una antes de decidir por ese factor solo.`,
     faq: [
       { question: "¿El Daihatsu V200 llega realmente a 35 km/h?", answer: "La ficha técnica lo declara, pero una reseña real de un comprador indica que sale de fábrica limitado a 25 km/h y que el máximo alcanzable con un ajuste no oficial es 30 km/h, no 35. Lo marcamos como una discrepancia real, no confirmada al 100%." },
-      { question: "¿Cuál es su autonomía?", answer: "35 km según la ficha técnica, la mayor de esta comparativa de 6 monopatines eléctricos." },
+      { question: "¿Cuál es su autonomía?", answer: "35 km según la ficha técnica, la mayor de esta comparativa." },
       { question: "¿Cuánto peso soporta?", answer: "120 kg según la ficha técnica, el máximo de esta comparativa." },
       { question: "¿Tiene Bluetooth?", answer: "No, según la ficha técnica, a diferencia de otras opciones de esta comparativa como la Xiaomi o la Logus." },
     ],
@@ -82570,7 +82573,8 @@ Comprala si priorizás la mayor autonomía y soporte de peso declarados, y no te
     id: "MLA35313780",
     title: "Monopatin Electrico Logus L7 350 Watts Color Plata",
     canonicalName: "Monopatín Logus L7",
-    price: 881805,
+    price: 738479,
+    originalPrice: 1085998,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_837452-MLA113794567144_072026-O.webp",
     images: [
@@ -82583,7 +82587,7 @@ Comprala si priorizás la mayor autonomía y soporte de peso declarados, y no te
     condition: "new",
     freeShipping: true,
     rating: 4.8,
-    reviewCount: 122,
+    reviewCount: 123,
     pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     specs: [
@@ -82599,17 +82603,17 @@ Comprala si priorizás la mayor autonomía y soporte de peso declarados, y no te
       { label: "Freno", value: "A disco" },
       { label: "Bluetooth", value: "Sí" },
     ],
-    relatedProducts: ["MLA49998952", "MLA23535856", "MLA68036626", "MLA57835728", "MLA49566209"],
-    priceUpdated: "2026-10-09",
-    priceLastChecked: "2026-10-12",
+    relatedProducts: ["MLA49998952", "MLA68036626", "MLA57835728", "MLA49566209"],
+    priceUpdated: "2026-11-02",
+    priceLastChecked: "2026-11-02",
     priceStatus: "fresh",
-    reviewsSampledAt: "2026-08-05",
-    description: "Logus L7: empata como el mejor rating de esta comparativa (4.8 estrellas) con la segunda base de reseñas más grande (112). Batería extraíble y bluetooth, pero la autonomía declarada más baja de las 6 (12 km).",
+    reviewsSampledAt: "2026-11-02",
+    description: "Logus L7: empata como el mejor rating de esta comparativa ({{rating:MLA35313780}} estrellas) con la segunda base de reseñas más grande ({{reviews:MLA35313780}}). Batería extraíble y bluetooth, pero la autonomía declarada más baja de la comparativa (12 km).",
     seoTitle: "Logus L7: monopatín eléctrico con batería extraíble",
-    metaDescription: "Logus L7: 350W, batería extraíble, bluetooth. 4.8 estrellas en {{reviews:MLA35313780}} calificaciones. Precio real, specs verificadas y contras honestas.",
-    verdict: "El Logus L7 empata como el mejor rating de esta comparativa (4.8 estrellas) con la segunda base de reseñas más grande ({{reviews:MLA35313780}} calificaciones). Tiene batería extraíble y bluetooth, pero declara la autonomía más baja de las 6 (12 km) y reseñas reales confirman que la duración de batería es su punto débil. Es además la más cara de esta comparativa.",
+    metaDescription: "Logus L7: 350W, batería extraíble, bluetooth. {{rating:MLA35313780}} estrellas en {{reviews:MLA35313780}} calificaciones. Precio real, specs verificadas y contras honestas.",
+    verdict: "El Logus L7 empata como el mejor rating de esta comparativa ({{rating:MLA35313780}} estrellas) con la segunda base de reseñas más grande ({{reviews:MLA35313780}} calificaciones). Tiene batería extraíble y bluetooth, pero declara la autonomía más baja de la comparativa (12 km) y reseñas reales confirman que la duración de batería es su punto débil.",
     pros: [
-      "Empata como el mejor rating de esta comparativa: 4.8 estrellas",
+      "Empata como el mejor rating de esta comparativa: {{rating:MLA35313780}} estrellas",
       "Segunda base de reseñas más grande: {{reviews:MLA35313780}} calificaciones",
       "Batería extraíble, útil para cargarla sin mover todo el monopatín",
       "Bluetooth y freno a disco",
@@ -82617,7 +82621,6 @@ Comprala si priorizás la mayor autonomía y soporte de peso declarados, y no te
     cons: [
       "Autonomía declarada más baja de esta comparativa: solo 12 km",
       "Reseñas reales confirman que la duración de batería es el punto débil del producto",
-      "Es la más cara de esta comparativa ($1.085.998)",
     ],
     articleBody: `## Qué es y para quién
 
@@ -82625,27 +82628,27 @@ El Logus L7 es un monopatín eléctrico plegable de 350 W con batería extraíbl
 
 ## Lo bueno
 
-Empata como el mejor rating de esta comparativa (4.8 estrellas) con la segunda base de reseñas más grande, {{reviews:MLA35313780}} calificaciones. La batería extraíble es un plus real: se puede cargar aparte sin mover todo el monopatín. Reseñas reales lo describen con buena relación precio-calidad y práctico para guardar.
+Empata como el mejor rating de esta comparativa ({{rating:MLA35313780}} estrellas) con la segunda base de reseñas más grande, {{reviews:MLA35313780}} calificaciones. La batería extraíble es un plus real: se puede cargar aparte sin mover todo el monopatín. Reseñas reales lo describen con buena relación precio-calidad y práctico para guardar.
 
 ## La contra real
 
-Declara la autonomía más baja de esta comparativa: solo 12 km, muy por debajo de los 25-35 km de las demás. Reseñas reales confirman que la duración de la batería es justamente el punto débil ("lo único que cambiaría es la durabilidad de la batería"). Es además la más cara de esta comparativa.
+Declara la autonomía más baja de esta comparativa: solo 12 km, muy por debajo de los 25-35 km de las demás. Reseñas reales confirman que la duración de la batería es justamente el punto débil ("lo único que cambiaría es la durabilidad de la batería").
 
 ## Para quién sí y para quién no
 
 Comprala si valorás el respaldo de reseñas, el rating alto y la batería extraíble, y tus trayectos son cortos (la autonomía real ronda los 12 km). Si necesitás más autonomía para trayectos largos, la Daihatsu V200 (35 km declarados) es una alternativa a considerar.`,
     faq: [
-      { question: "¿Cuál es la autonomía del Logus L7?", answer: "12 km según la ficha técnica, la más baja de esta comparativa de 6 monopatines eléctricos. Reseñas reales confirman que la duración de batería es su punto débil." },
+      { question: "¿Cuál es la autonomía del Logus L7?", answer: "12 km según la ficha técnica, la más baja de esta comparativa. Reseñas reales confirman que la duración de batería es su punto débil." },
       { question: "¿Tiene batería extraíble?", answer: "Sí, según la ficha técnica, algo que ninguna otra de esta comparativa declara." },
-      { question: "¿Cuántas calificaciones tiene?", answer: "{{reviews:MLA35313780}} calificaciones con 4.8 estrellas, la segunda base de reseñas más grande de esta comparativa, después de la Gadnic." },
-      { question: "¿Es la opción más cara de esta comparativa?", answer: "Sí, a $1.085.998 es la más cara de las 6 opciones de esta guía." },
+      { question: "¿Cuántas calificaciones tiene?", answer: "{{reviews:MLA35313780}} calificaciones con {{rating:MLA35313780}} estrellas, la segunda base de reseñas más grande de esta comparativa, después de la Gadnic." },
+      { question: "¿Es la opción más cara de esta comparativa?", answer: "No: a {{precio:MLA35313780}} queda en un rango intermedio. La Daihatsu V200 es hoy la más cara de esta comparativa." },
     ],
   },
   {
     id: "MLA49566209",
     title: "Monopatín Eléctrico Black Power R32 M Negro",
     canonicalName: "Monopatín Black Power R32 B",
-    price: 456000,
+    price: 588480,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_861715-MLA111583984906_062026-O.webp",
     images: [
@@ -82657,8 +82660,8 @@ Comprala si valorás el respaldo de reseñas, el rating alto y la batería extra
     affiliateUrl: "https://meli.la/11fpRWw",
     condition: "new",
     freeShipping: true,
-    rating: 4.4,
-    reviewCount: 31,
+    rating: 4.7,
+    reviewCount: 43,
     pastelColor: "var(--pastel-pink)",
     visibility: "normal",
     specs: [
@@ -82675,11 +82678,11 @@ Comprala si valorás el respaldo de reseñas, el rating alto y la batería extra
       { label: "Peso", value: "11,5 kg" },
       { label: "Freno", value: "Disco trasero" },
     ],
-    relatedProducts: ["MLA49998952", "MLA23535856", "MLA68036626", "MLA57835728", "MLA35313780"],
-    priceUpdated: "2026-10-12",
-    priceLastChecked: "2026-10-12",
+    relatedProducts: ["MLA49998952", "MLA68036626", "MLA57835728", "MLA35313780"],
+    priceUpdated: "2026-11-02",
+    priceLastChecked: "2026-11-02",
     priceStatus: "fresh",
-    reviewsSampledAt: "2026-08-05",
+    reviewsSampledAt: "2026-11-02",
     description: "Black Power R32 M: aparece en la categoría general de monopatín eléctrico, pero la ficha técnica lo declara para 8-13 años. No es una opción para adultos pese a estar listada junto a las demás.",
     seoTitle: "Black Power R32: el monopatín eléctrico pensado para chicos",
     metaDescription: "Black Power R32 M: la ficha técnica lo declara para 8-13 años, no para adultos. Precio real y por qué esta guía lo separa de las demás opciones.",
@@ -82687,7 +82690,7 @@ Comprala si valorás el respaldo de reseñas, el rating alto y la batería extra
     pros: [
       "Liviano y fácil de manejar según reseñas reales",
       "Precio accesible dentro de la categoría",
-      "{{reviews:MLA49566209}} calificaciones con 4.4 estrellas",
+      "{{reviews:MLA49566209}} calificaciones con {{rating:MLA49566209}} estrellas",
     ],
     cons: [
       "La ficha técnica lo declara para 8-13 años (edad mínima 8 años): no es una opción pensada para adultos, aunque aparece en la misma categoría general de MercadoLibre",
@@ -82700,7 +82703,7 @@ El Black Power R32 M es un monopatín eléctrico plegable de 320 W que aparece e
 
 ## Lo bueno
 
-Para lo que es (un monopatín pensado para chicos), cumple: es liviano (11,5 kg), fácil de manejar según reseñas reales, y tiene un precio accesible con {{reviews:MLA49566209}} calificaciones y 4.4 estrellas de respaldo.
+Para lo que es (un monopatín pensado para chicos), cumple: es liviano (11,5 kg), fácil de manejar según reseñas reales, y tiene un precio accesible con {{reviews:MLA49566209}} calificaciones y {{rating:MLA49566209}} estrellas de respaldo.
 
 ## La contra real (y la más importante de esta ficha)
 
@@ -82708,7 +82711,7 @@ No es un monopatín eléctrico "chico" o "de entrada" para adultos: la ficha té
 
 ## Para quién sí y para quién no
 
-Comprala si estás buscando un monopatín eléctrico para un chico de 8 a 13 años. Si buscás uno para vos como adulto, cualquiera de las otras 5 opciones de esta comparativa (Gadnic, Philco, Xiaomi, Daihatsu o Logus) es la que corresponde, todas declaradas para 16 años o más (salvo la Gadnic, declarada desde 13 años).`,
+Comprala si estás buscando un monopatín eléctrico para un chico de 8 a 13 años. Si buscás uno para vos como adulto, cualquiera de las otras 4 opciones de esta comparativa (Gadnic, Xiaomi, Daihatsu o Logus) es la que corresponde, todas declaradas para 16 años o más (salvo la Gadnic, declarada desde 13 años).`,
     faq: [
       { question: "¿El Black Power R32 M es para adultos o para chicos?", answer: "Según su propia ficha técnica, es para chicos: edad mínima recomendada 8 años, edad recomendada 8-13 años. No está pensado para uso adulto, aunque aparece listado en la misma categoría general de MercadoLibre que las opciones para adultos." },
       { question: "¿Por qué está en esta comparativa si es para chicos?", answer: "Porque aparece en los resultados de búsqueda de \"monopatín eléctrico\" junto con las opciones para adultos, y queríamos avisarte antes de que lo confundas con una opción de entrada para vos." },
