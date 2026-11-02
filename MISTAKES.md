@@ -16,11 +16,51 @@
 **Archivos involucrados:** `path/a/archivo.ts`
 -->
 
+## 2026-11-02 — Sustituí el token {{reviews:ID}} dentro de un desglose "X de 5 estrellas", pero el token resuelve al TOTAL
+
+**Qué pasó:** durante el refresh de `cafetera-automatica`, varias fichas tenían frases tipo "97 personas pusieron 5 estrellas, 10 pusieron 4 y el resto 3 o menos" con números literales viejos. Al actualizar el reviewCount, reemplacé el primer número de esos desgloses por el token `{{reviews:ID}}` pensando que servía como "placeholder genérico de un número real" — pero el token resuelve al TOTAL de reseñas, no al subconjunto de 5 estrellas. El resultado: sumas matemáticamente imposibles (ej. 256 + 24 + 25 sobre un total de 256). Pasó 4 veces en fichas distintas (Oster EM7301, Peabody PE-CE5023IX, Peabody PE-CE5010N x2, Oster BVSTEM5501B) antes de que el trío auditor lo atrapara en rondas 3 y 4 — no lo noté yo mismo ni la primera ni la segunda vez que lo repetí.
+
+**Por qué:** un token de precio/reseñas es "el dato real de esa ID", pero cada token resuelve a UN campo específico (el total), no a lo que sea que el texto alrededor implique. Sustituir un número hardcodeado por un token sin pensar qué representa ese número en la frase es tan peligroso como el hardcodeo que se está corrigiendo.
+
+**Cómo evitarlo:** antes de meter un token en un desglose, breakdown o cualquier frase que implique una PARTE del total (no el total mismo), parar y preguntarse qué representa el número que se está reemplazando. Si es un subconjunto que no se puede reverificar en vivo (el desglose por estrellas real de HOY), no inventar ni reusar el total: pasar a lenguaje cualitativo ("predominio de 5 estrellas, un bloque sólido de 4, muy pocas bajas") en vez de números puntuales no verificables.
+
+**Archivos involucrados:** `src/data/curated-products.ts` (MLA48828162, MLA53370426, MLA47077888, MLA23909880)
+
+## 2026-11-02 — Escribí una comparación que contradecía mi propia investigación en vivo de la misma sesión
+
+**Qué pasó:** al escribir la comparación De'Longhi vs. Philips EP2231/42 (en la ficha de De'Longhi y en la guía `cafetera-automatica`), afirmé que la Philips "no tiene espuma de leche automática" — es falso: tiene el sistema Lattego, que SÍ espuma leche automáticamente, y yo mismo lo había confirmado navegando en vivo a la ficha técnica de ML ("Funcionamiento: super automático", doble boquilla Lattego) apenas antes, en la misma sesión. El trío auditor (agy, ronda 2) lo atrapó.
+
+**Por qué:** al redactar un párrafo de comparación nuevo, escribí desde una impresión general/recordada del producto en vez de volver a mirar los datos que ya había recolectado yo mismo unos minutos antes en la misma conversación. Contradecir la propia investigación reciente es un error más evitable que uno de dato faltante.
+
+**Cómo evitarlo:** al escribir cualquier frase comparativa ("X no tiene Y", "a diferencia de X") sobre un producto que ya se verificó en la misma sesión, releer las specs/notas recién tomadas antes de tipear la afirmación, no confiar en la memoria de lo que "se sabe" del producto.
+
+**Archivos involucrados:** `src/data/curated-products.ts` (MLA39987014, MLA18154570), `src/data/guides.ts` (`cafetera-automatica`)
+
+## 2026-11-02 — Verifiqué un precio en vivo y después lo olvidé aplicar
+
+**Qué pasó:** al refrescar `cafetera-automatica`, navegué en vivo a los 5 productos del ranking y anoté los precios/ratings reales de los 5, incluida la Peabody PE-CE5010N ($442.799). Apliqué los cambios a 4 de los 5 (me metí de lleno en los 2 casos más complicados: De'Longhi y Peabody PE-CE5023IX, que arrastraron una cascada de correcciones en otras 3 guías) y di el refresh por cerrado sin confirmar que el quinto —el más simple de los cinco— también se hubiera aplicado. Lo noté recién en la revisión visual final, cuando el quickPick siguió mostrando el precio viejo.
+
+**Por qué:** cuanto más compleja se pone una tarea (en este caso, descubrir que 3 guías de marca adicionales también citaban estos precios), más fácil es perder de vista el ítem más simple de la lista original mientras se persigue el más complicado. No tenía una lista de verificación explícita de "5 productos, verificar que los 5 tengan price/rating/reviewCount actualizados en curated-products.ts" — confiaba en la memoria de la tarea.
+
+**Cómo evitarlo:** cuando se verifican varios productos en vivo antes de editar, anotar la lista completa en un lugar fijo (aunque sea un comentario temporal) y tacarla a medida que cada uno se aplica al archivo — no solo "lo tengo en la cabeza". Al final de la verificación mecánica (`guides:check`/`build`), hacer una pasada visual del renderizado real de la guía completa (no solo de las secciones que se tocaron a mano) para que un precio sin actualizar salte a la vista antes de cerrar la tarea.
+
+**Archivos involucrados:** `src/data/curated-products.ts` (MLA47077888)
+
+## 2026-11-02 — Corregir el precio de un producto premium rompió frases en otras 3 guías que no sabía que existían
+
+**Qué pasó:** al refrescar los 5 productos de `cafetera-automatica`, recién al corregir el precio de Peabody PE-CE5023IX (que casi se duplicó) descubrí, por casualidad, revisando `relatedProducts` de la ficha de Philips, que el mismo producto, con el mismo precio hardcodeado, también aparecía citado en `cafetera-philips`, `cafetera-peabody` y `cafetera-oster` — tres guías de marca que ni sabía que existían hasta ese momento. Terminé corrigiendo 4 guías en vez de 1.
+
+**Por qué:** no hice un `grep -rn "MLA<id>"` de los 5 IDs antes de empezar a editar — asumí que el radio de impacto de "actualizar el precio de un producto" era la guía que se pidió refrescar. En un sitio con guías de categoría ("cafetera automática") y guías de marca ("cafetera Peabody", "cafetera Philips") que comparten el mismo catálogo de productos, un producto casi siempre aparece en más de un lugar.
+
+**Cómo evitarlo:** antes de tocar el precio/rating/reviewCount de un producto que va a cambiar mucho (no una corrección de centavos), correr `grep -rn "MLA<id>"` sobre `guides.ts` Y `curated-products.ts` para ver CADA lugar que lo cita, no solo la guía que se pidió refrescar. Si aparece en 3+ guías con cifras hardcodeadas (no tokens), avisarle a Juan el alcance real antes de seguir, en vez de descubrirlo a mitad de camino.
+
+**Archivos involucrados:** `src/data/guides.ts` (slugs `cafetera-philips`, `cafetera-peabody`, `cafetera-oster`), `src/data/curated-products.ts`
+
 ## 2026-11-02 — Repetí un error ya documentado: corregir el dato en la guía y olvidar la ficha del producto
 
 **Qué pasó:** al refrescar `planchita-de-pelo`, actualicé precio/rating/reviewCount de los 6 productos en los campos estructurados de `curated-products.ts` y arreglé la prosa de la guía (`guides.ts`), pero no revisé la prosa de las 6 fichas individuales (description, pros, cons, verdict, articleBody, faq). Codex lo marcó NO-GO en la primera ronda del trío auditor: 3 fichas (Philips, Revlon, Allure) tenían precios/ratings/reviewCount viejos hardcodeados en el texto, pese a que los campos estructurados ya estaban bien. Encima, el salto de precio de Philips (de $116.639 a $210.000) rompió una comparación relativa en la ficha de OTRO producto que no había tocado (Remington: "cuesta bastante más que la GA.MA" dejó de ser cierto) — eso recién lo encontró agy en la segunda ronda, y tardó 3 rondas más en terminar de limpiarse (una contra residual basada en precio, y un "pagás ese diferencial" que sugería un sobreprecio que ya no existía).
 
-**Por qué:** ya existe una entrada en `LEARNINGS.md` (2026-10-30) que documenta exactamente este patrón — "un superlativo corregido en la guía puede seguir vivo, textual, en la ficha del producto" — y no la apliqué de forma proactiva al empezar el refresh. Además, nunca until ahora había pasado que cambiar el precio de UN producto rompiera una frase comparativa en la ficha de OTRO producto de la misma guía; no tenía ese chequeo en la rutina.
+**Por qué:** ya existe una entrada en `LEARNINGS.md` (2026-10-30) que documenta exactamente este patrón — "un superlativo corregido en la guía puede seguir vivo, textual, en la ficha del producto" — y no la apliqué de forma proactiva al empezar el refresh. Además, nunca hasta ahora había pasado que cambiar el precio de UN producto rompiera una frase comparativa en la ficha de OTRO producto de la misma guía; no tenía ese chequeo en la rutina.
 
 **Cómo evitarlo:** cuando se corrige precio/rating/reviewCount de un producto que aparece en una guía, antes de dar el refresh por terminado: (1) grepear el ID del producto en `curated-products.ts` y revisar TODA su prosa (no solo los campos estructurados), (2) grepear en la ficha de los DEMÁS productos de la misma guía comparaciones relativas de precio ("más cara/barata que", "doble", "triple", "mitad", "por menos/más plata") que puedan haberse vuelto falsas por el cambio, no solo en la ficha del producto que cambió. Ninguno de estos dos chequeos está automatizado todavía (`guides:check` no los cubre); por ahora depende de hacerlos a mano antes de la primera pasada del trío, no de que el trío los encuentre.
 

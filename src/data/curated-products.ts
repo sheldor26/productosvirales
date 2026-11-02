@@ -51942,7 +51942,7 @@ Incluye recetario para cafés y capuchinos, cuchara medidora y el espumador. Con
 
 El siguiente escalón es la [Smartlife SL-EC8501](/producto/cafetera-express-smartlife-sl-ec8501-20-bares-con-espumador-mla18562154) ({{precio:MLA18562154}}), y un poco por debajo de esa está la [Liliana express 2 en 1](/producto/cafetera-express-liliana-ac985-digital-2-en-1-de-20-bar-mla62547964) ({{precio:MLA62547964}}), que sube a 20 bares de presión con pantalla digital. Las dos cuestan entre {{preciodif:MLA62547964:MLA36409137}} y {{preciodif:MLA18562154:MLA36409137}} más que la Ultracomb.
 
-El salto de marca es la [Oster BVSTEM5501B](/producto/cafetera-espresso-oster-bvstem5501b-negra-mla23909880) ($289.999): mismos 15 bares pero con espumador con depósito de leche, estructura de acero y el respaldo de la marca de cafeteras más buscada de Argentina — a más del doble de precio.
+El salto de marca es la [Oster BVSTEM5501B](/producto/cafetera-espresso-oster-bvstem5501b-negra-mla23909880) ({{precio:MLA23909880}}): mismos 15 bares pero con espumador con depósito de leche, estructura de acero y el respaldo de la marca de cafeteras más buscada de Argentina — a más del doble de precio.
 
 ## ¿Para quién es la CE-6108 (y para quién no)?
 
@@ -51979,7 +51979,7 @@ No es para vos si: querés apretar un botón y listo (mirá las cafeteras de cá
       { question: '¿Es difícil de usar?', answer: 'Tiene curva de aprendizaje, y las reviews lo admiten con humor: "la primera vez que la usé me estresé un poco, tuve que ver un video en YouTube". El consejo repetido: leer el manual o mirar un tutorial antes del primer café. La recompensa, según un comprador: "una vez que le encontrás el punto es bárbara".' },
       { question: '¿Es ruidosa?', answer: 'La bomba es potente y eso se escucha: "un poquito ruidosa y vibradora", describe la review que la usa a diario en una oficina — y aclara que es precisamente porque es robusta. Son segundos de extracción, no un ruido constante, pero en una cocina abierta de madrugada se nota.' },
       { question: '¿Aguanta uso intensivo?', answer: 'El mejor dato de durabilidad viene de una review de 5 estrellas: la compró para su casa porque es la misma que usan en su trabajo, "permanentemente y somos varios empleados". Para una express de {{precio:MLA36409137}}, que haya una sobreviviendo al uso de oficina es más valioso que cualquier spec.' },
-      { question: '¿Conviene esta o una express de marca más conocida?', answer: 'Depende del presupuesto. La CE-6108 ({{precio:MLA36409137}}) hace espresso real con 15 bares y 4.6 de rating. La Oster BVSTEM5501B ($289.999) suma espumador con depósito de leche, estructura de acero y marca, a más del doble. Si es tu primera express y no sabés si el ritual es para vos, arrancá barato.' },
+      { question: '¿Conviene esta o una express de marca más conocida?', answer: 'Depende del presupuesto. La CE-6108 ({{precio:MLA36409137}}) hace espresso real con 15 bares y 4.6 de rating. La Oster BVSTEM5501B ({{precio:MLA23909880}}) suma espumador con depósito de leche, estructura de acero y marca, a más del doble. Si es tu primera express y no sabés si el ritual es para vos, arrancá barato.' },
     ],
     customerReviews: [
       { rating: 5, country: 'Argentina', date: 'enero 2018', useful: 412, text: 'La cafetera es excelente. No tiene altura suficiente como para poner jarros de capuchino ni sacando la bandeja para derrames, pero igual se pueden hacer tranquilamente porque se puede poner una jarra con pico para hacer el café y así se agrega el café a los jarros de capuchino. El pico facilita el agregado del café al jarro y siempre queda entre la leche y la espuma. Se preparan rápido porque la cafetera calienta enseguida, lo que también permite sacar de a dos pocillos, jarritos americanos o cualquier taza de esas medidas rápidamente.' },
@@ -52293,7 +52293,7 @@ A {{precio:MLA18562154}} con 4.6 estrellas y {{reviews:MLA18562154}} votos, es l
       { question: '¿Cómo sé cuándo está lista para tirar el café?', answer: 'La luz titila mientras calienta; cuando queda fija, está lista. Aplica igual para el café y para el vapor del espumador. Es el tip operativo más repetido de las reviews.' },
       { question: '¿Espuma bien la leche?', answer: 'Sí, es de lo más elogiado: "espumar la leche es facilísimo". Trucos del panorama: entibiar la leche antes en el microondas y dejar correr el primer chorrito de agua del vaporizador en otro vaso. Una sola review (uso intensivo, 4 meses) reporta que el espumador perdió fuerza con el tiempo.' },
       { question: '¿Sale caliente el café?', answer: 'Sí, y para mejorarlo la máquina tiene calentador de tazas arriba. El tip de las reviews: precalentar la taza con el agua caliente de la propia máquina antes de extraer.' },
-      { question: '¿Conviene esta o la Oster BVSTEM5501B?', answer: 'La Smartlife da 20 bares + cápsulas Nespresso por {{precio:MLA18562154}}; la Oster da mejor espumador (con depósito de leche), marca y terminación por $289.999, sin opción de cápsulas. Para entrar al espresso con flexibilidad, la Smartlife; para capuchinos diarios con menos maniobra, la Oster.' },
+      { question: '¿Conviene esta o la Oster BVSTEM5501B?', answer: 'La Smartlife da 20 bares + cápsulas Nespresso por {{precio:MLA18562154}}; la Oster da mejor espumador (con depósito de leche), marca y terminación por {{precio:MLA23909880}}, sin opción de cápsulas. Para entrar al espresso con flexibilidad, la Smartlife; para capuchinos diarios con menos maniobra, la Oster.' },
     ],
     customerReviews: [
       { rating: 5, country: 'Argentina', date: 'febrero 2022', useful: 313, text: 'La compré para mi madre y no le tenía fe. Me sorprendió para bien. Es sencilla pero tiene todo. El tanque de agua se puede desmontar para cargarlo más fácil. Solo tiene tres botones: encendido, café y espumadera. La espumadera se puede seleccionar con una rueda lateral para vapor o agua caliente. Viene con dos mangos portafiltro: uno para el café espresso y el otro para cápsulas.' },
@@ -52544,7 +52544,7 @@ La aclaración de ficha de siempre: el atributo de ML "capacidad de tazas: 2" no
 
 Dentro de la misma línea, la [Liliana Prosteam AC987](/producto/cafetera-express-liliana-prosteam-ac987-digital-de-20-bar-mla70273936) ($222.995) cuesta $50.000 menos y tiene más tanque (1,5 litros) y la curiosa función de espresso frío — pero la leche se espuma a mano. Si tomás más espresso y americano que lattes, la Prosteam rinde más por peso.
 
-El cruce interesante es la [Oster BVSTEM5501B](/producto/cafetera-espresso-oster-bvstem5501b-negra-mla23909880) ($289.999): cuesta $17.000 más, tiene depósito de leche de 250 mL con espumador y, sobre todo, 4.7 estrellas con 402 calificaciones — la experiencia real que a la Latesense le falta. A cambio, la Oster es de 15 bares, no corta sola la extracción y su espumador es señalado como incómodo en las reviews. Automatización nueva sin historial contra marca probada con mañas conocidas.
+El cruce interesante es la [Oster BVSTEM5501B](/producto/cafetera-espresso-oster-bvstem5501b-negra-mla23909880) ({{precio:MLA23909880}}): cuesta más, tiene depósito de leche de 250 mL con espumador y, sobre todo, 4.7 estrellas con {{reviews:MLA23909880}} calificaciones — la experiencia real que a la Latesense le falta. A cambio, la Oster es de 15 bares, no corta sola la extracción y su espumador es señalado como incómodo en las reviews. Automatización nueva sin historial contra marca probada con mañas conocidas.
 
 ## ¿Para quién es la Latesense AC991 (y para quién no)?
 
@@ -52581,7 +52581,7 @@ A $272.544, es una apuesta razonada: pagás la automatización de la leche y con
       { question: '¿Es complicada de limpiar por el circuito de leche?', answer: 'Las máquinas con sistema de leche exigen más disciplina de limpieza que una express común: los restos de leche son el enemigo. A favor de la AC991, tanto el tanque de agua como el depósito de leche son transparentes y desmontables, lo que simplifica el enjuague diario. La ficha aclara que no tiene función de limpieza automática.' },
       { question: '¿El depósito de leche se puede guardar en la heladera?', answer: 'La ficha oficial no lo especifica, así que no lo podemos afirmar. Lo que sí confirma es que el depósito de 700 mL es desmontable y transparente. Hasta que haya manual público o reviews que lo confirmen, asumí que la práctica segura es cargar la leche que vas a usar y enjuagar el depósito después de cada uso.' },
       { question: '¿Es industria argentina?', answer: 'Sí: la ficha oficial declara origen Argentina, igual que su hermana Prosteam — algo poco frecuente en la categoría, donde domina la fabricación china. Suma el respaldo local de Liliana: garantía de fábrica y red de servicio técnico en el país, un punto relevante en una máquina con sistema de leche que puede requerir mantenimiento.' },
-      { question: '¿Conviene esta o la Oster BVSTEM5501B?', answer: 'Son apuestas opuestas. La Oster ($289.999) tiene 402 calificaciones con 4.7 estrellas: sabés exactamente qué comprás, incluidas sus mañas (no corta sola, espumador incómodo, 15 bares). La Latesense ($272.544) ofrece más presión, corte automático y latte con un botón, pero sin ninguna review todavía. Certeza probada contra specs superiores: depende de tu tolerancia a estrenar.' },
+      { question: '¿Conviene esta o la Oster BVSTEM5501B?', answer: 'Son apuestas opuestas. La Oster ({{precio:MLA23909880}}) tiene {{reviews:MLA23909880}} calificaciones con 4.7 estrellas: sabés exactamente qué comprás, incluidas sus mañas (no corta sola, espumador incómodo, 15 bares). La Latesense ($272.544) ofrece más presión, corte automático y latte con un botón, pero sin ninguna review todavía. Certeza probada contra specs superiores: depende de tu tolerancia a estrenar.' },
     ],
     structuredData: {
       '@context': 'https://schema.org',
@@ -53544,7 +53544,7 @@ A $528.131 con 4.7 estrellas y {{reviews:MLA28314113}} opiniones, es la compra m
     verdict: 'La forma más barata de tener una Oster espresso real en la mesada: 15 bares, espumador y marca con respaldo. Si querés molinillo integrado y corte automático, el salto es la Perfect Brew EM7301 — al triple de precio.',
     articleBody: `## La puerta de entrada a Oster
 
-La BVSTEM5501B es la cafetera espresso accesible de Oster: cuesta $289.999, tiene bomba italiana de 15 bares, espumador de leche con depósito propio y junta 4.7 estrellas en {{reviews:MLA23909880}} calificaciones. "Cafetera Oster" es de lo más buscado en Google Argentina cuando se habla de café, y este modelo es el que responde esa búsqueda sin irse al precio de los tope de gama.
+La BVSTEM5501B es la cafetera espresso accesible de Oster: cuesta {{precio:MLA23909880}}, tiene bomba italiana de 15 bares, espumador de leche con depósito propio y junta 4.7 estrellas en {{reviews:MLA23909880}} calificaciones. "Cafetera Oster" es de lo más buscado en Google Argentina cuando se habla de café, y este modelo es el que responde esa búsqueda sin irse al precio de los tope de gama.
 
 La promesa es simple: espresso, capuchino, latte y americano en casa, con la presión correcta para que el café salga con crema y no como un cortado lavado.
 
@@ -53562,7 +53562,7 @@ En la práctica es menos grave de lo que suena: con dos o tres cafés le tomás 
 
 ## Lo que dicen las {{reviews:MLA23909880}} calificaciones (incluidas las críticas)
 
-El desglose: 313 personas pusieron 5 estrellas, 67 pusieron 4, y solo 22 calificaron con 3 o menos. Los elogios constantes: facilidad de uso, facilidad de limpieza, velocidad, y que es la entrada ideal al espresso — varios compradores primerizos la recomiendan exactamente para eso.
+El desglose: predominio de 5 estrellas, un bloque sólido de 4, y muy pocas calificaciones bajas. Los elogios constantes: facilidad de uso, facilidad de limpieza, velocidad, y que es la entrada ideal al espresso — varios compradores primerizos la recomiendan exactamente para eso.
 
 Las críticas, que están y conviene conocer: el café "a veces medio tibio" (el tip clásico: precalentar la taza con agua caliente), el espumador incómodo, y la sensación de que algunas piezas son "un poco baratitas, mucho plástico" — aunque la estructura es de acero inoxidable. Un dato bueno de durabilidad: una review de fines de 2025 reporta un año y medio de uso diario sin problemas, con la recomendación de usar agua filtrada y limpieza regular.
 
@@ -53574,15 +53574,15 @@ El mantenimiento que sugiere el panorama de opiniones: agua de filtro para evita
 
 ## Contra las otras espresso del catálogo
 
-El salto natural dentro de Oster es la [Perfect Brew EM7301](/producto/cafetera-espresso-oster-perfect-brew-em7301-con-molinillo-mla48828162) ($838.899): molinillo integrado, corte automático y 4.9 estrellas — pero cuesta casi el triple. En el medio está la [Peabody PE-CE5010N](/producto/cafetera-express-peabody-pe-ce5010n-19-bar-con-molinillo-mla47077888) ($520.336), que agrega molinillo por menos plata que la Oster grande.
+El salto natural dentro de Oster es la [Perfect Brew EM7301](/producto/cafetera-espresso-oster-perfect-brew-em7301-con-molinillo-mla48828162) ({{precio:MLA48828162}}): molinillo integrado, corte automático y 4.8 estrellas — pero cuesta bastante más. En el medio está la [Peabody PE-CE5010N](/producto/cafetera-express-peabody-pe-ce5010n-19-bar-con-molinillo-mla47077888) ({{precio:MLA47077888}}), que agrega molinillo por menos plata que la Oster grande.
 
-Hacia abajo, la [Smartlife SL-EC8501](/producto/cafetera-express-smartlife-sl-ec8501-20-bares-con-espumador-mla18562154) ({{precio:MLA18562154}}) y la [Ultracomb CE-6108](/producto/cafetera-express-ultracomb-ce-6108-15-bar-roja-mla36409137) ($133.999) hacen espresso de 15-20 bares por menos, con más de mil reviews entre las dos — a cambio de resignar la marca y el espumador con depósito. Y si lo que buscás es cero ritual, la [Dolce Gusto Piccolo XS](/producto/cafetera-de-capsulas-moulinex-dolce-gusto-piccolo-xs-mla15705813) ($155.132) resuelve con cápsulas.
+Hacia abajo, la [Smartlife SL-EC8501](/producto/cafetera-express-smartlife-sl-ec8501-20-bares-con-espumador-mla18562154) ({{precio:MLA18562154}}) y la [Ultracomb CE-6108](/producto/cafetera-express-ultracomb-ce-6108-15-bar-roja-mla36409137) ({{precio:MLA36409137}}) hacen espresso de 15-20 bares por menos, con más de mil reviews entre las dos — a cambio de resignar la marca y el espumador con depósito. Y si lo que buscás es cero ritual, la [Dolce Gusto Piccolo XS](/producto/cafetera-de-capsulas-moulinex-dolce-gusto-piccolo-xs-mla15705813) ({{precio:MLA15705813}}) resuelve con cápsulas.
 
 ## ¿Para quién es la Oster 5501 (y para quién no)?
 
 Es para vos si: querés tu primera espresso "seria" con respaldo de marca, tomás capuchinos o lattes (el espumador acá vale oro) y no te molesta cortar la extracción a mano. No es para vos si: querés molinillo integrado y automatización (Perfect Brew o Peabody con molinillo), o si tu presupuesto está en los $130-200K, donde la Ultracomb da espresso digno sin la marca.
 
-A $289.999 con 4.7 estrellas, es el punto medio exacto del catálogo: más seria que las económicas, mucho más accesible que los tope de gama.`,
+A {{precio:MLA23909880}} con 4.7 estrellas, es el punto medio exacto del catálogo: más seria que las económicas, mucho más accesible que los tope de gama.`,
     specs: [
       { label: 'Marca / Fabricante', value: 'Oster' },
       { label: 'Modelo', value: 'BVSTEM5501B' },
@@ -53611,7 +53611,7 @@ A $289.999 con 4.7 estrellas, es el punto medio exacto del catálogo: más seria
       { question: '¿Es buena como primera cafetera espresso?', answer: 'Es exactamente el perfil que más la recomienda en las reviews: fácil de usar, fácil de limpiar, completa de accesorios y con resultado de espresso real. Más de un comprador primerizo dice que es "muy buena opción para entrar al mundo del café espresso".' },
       { question: '¿Qué mantenimiento necesita?', answer: 'El que confirma una review con un año y medio de uso diario: agua de filtro para evitar sarro, enjuague del espumador después de usarlo y una limpieza profunda periódica. Nada fuera de lo normal para una espresso.' },
       { question: '¿Puede hacer dos cafés a la vez?', answer: 'Sí: tiene doble boquilla y filtro para café doble. Una review aclara que las dos tazas entran bien corriendo el depósito de leche, un detalle práctico del diseño compacto.' },
-      { question: '¿Conviene esta o la Oster Perfect Brew?', answer: 'Depende del presupuesto. La 5501 ($289.999) da espresso y capuchino con 15 bares; la Perfect Brew EM7301 ($838.899) agrega molinillo integrado, corte automático y 4.9 estrellas. Si el café recién molido no es tu obsesión, la 5501 cubre el 90% del uso real por un tercio del precio.' },
+      { question: '¿Conviene esta o la Oster Perfect Brew?', answer: 'Depende del presupuesto. La 5501 ({{precio:MLA23909880}}) da espresso y capuchino con 15 bares; la Perfect Brew EM7301 ({{precio:MLA48828162}}) agrega molinillo integrado, corte automático y 4.8 estrellas. Si el café recién molido no es tu obsesión, la 5501 cubre el 90% del uso real por bastante menos.' },
     ],
     customerReviews: [
       { rating: 5, country: 'Argentina', date: 'junio 2024', useful: 11, text: 'Es mi primera cafetera. Me encantó, fácil de usar, de limpiar. La calidad del material capaz es un poco baratito, mucho plástico, pero para una cafetera de hogar sirve. Viene con filtro para 1 y 2 tazas. Las 2 tazas entran perfectamente corriendo el envase de leche, lo que me pareció muy práctico. La leche no tarda en espumar y el café seguía caliente.' },
@@ -53628,7 +53628,7 @@ A $289.999 con 4.7 estrellas, es el punto medio exacto del catálogo: más seria
       '@type': 'Product',
       name: 'Cafetera espresso Oster BVSTEM5501B',
       image: 'https://http2.mlstatic.com/D_NQ_NP_811045-MLA100066139885_122025-F.jpg',
-      description: 'Cafetera espresso semiautomática Oster BVSTEM5501B: bomba italiana de 15 bares, espumador de leche con depósito de 250 mL, estructura de acero inoxidable, filtros para café simple y doble. 4.7 estrellas con 402 calificaciones en MercadoLibre Argentina.',
+      description: 'Cafetera espresso semiautomática Oster BVSTEM5501B: bomba italiana de 15 bares, espumador de leche con depósito de 250 mL, estructura de acero inoxidable, filtros para café simple y doble. 4.7 estrellas con 435 calificaciones en MercadoLibre Argentina.',
       sku: 'BVSTEM5501B',
       mpn: 'BVSTEM5501B',
       brand: { '@type': 'Brand', name: 'Oster' },
@@ -53636,7 +53636,7 @@ A $289.999 con 4.7 estrellas, es el punto medio exacto del catálogo: más seria
         '@type': 'Offer',
         url: 'https://meli.la/1SZrW1t',
         priceCurrency: 'ARS',
-        price: 289999,
+        price: 349999,
         availability: 'https://schema.org/InStock',
         itemCondition: 'https://schema.org/NewCondition',
         seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
@@ -53644,7 +53644,7 @@ A $289.999 con 4.7 estrellas, es el punto medio exacto del catálogo: más seria
       aggregateRating: {
         '@type': 'AggregateRating',
         ratingValue: '4.7',
-        reviewCount: '402',
+        reviewCount: '435',
       },
     },
     relatedProducts: ['MLA48828162', 'MLA47077888', 'MLA18562154', 'MLA36409137'],
@@ -53652,11 +53652,11 @@ A $289.999 con 4.7 estrellas, es el punto medio exacto del catálogo: más seria
   {
     id: 'MLA47077888',
     title: 'Cafetera express Peabody PE-CE5010N 19 bar con molinillo',
-    price: 452108,
+    price: 442799,
     originalPrice: 799999,
-    priceUpdated: "2026-10-09",
-    priceLastChecked: "2026-10-12",
-    priceVerifiedAt: "2026-09-18",
+    priceUpdated: "2026-11-02",
+    priceLastChecked: "2026-11-02",
+    priceVerifiedAt: "2026-11-02",
     priceStatus: "fresh",
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_937822-MLA99945605211_112025-F.jpg',
@@ -53674,14 +53674,15 @@ A $289.999 con 4.7 estrellas, es el punto medio exacto del catálogo: más seria
     freeShipping: true,
     brand: 'Peabody',
     rating: 4.6,
-    reviewCount: 237,
+    reviewCount: 256,
+    reviewsSampledAt: "2026-11-02",
     pastelColor: 'var(--pastel-coral)',
-    description: 'Cafetera express Peabody PE-CE5010N: la forma más barata de tener molinillo integrado en el catálogo. Bomba italiana ULKA de 19 bares con manómetro frontal, molinillo cónico de muelas con 20 niveles, tolva de 200 gramos y sistema Thermoblock de calentamiento rápido. Café recién molido por la mitad de lo que cuestan los tope de gama, con 4.6 estrellas en {{reviews:MLA47077888}} calificaciones.',
+    description: 'Cafetera express Peabody PE-CE5010N: la forma más barata de tener molinillo integrado en el catálogo. Bomba italiana ULKA de 19 bares con manómetro frontal, molinillo cónico de muelas con 20 niveles, tolva de 200 gramos y sistema Thermoblock de calentamiento rápido. Café recién molido por una fracción de lo que cuestan los tope de gama, con 4.6 estrellas en {{reviews:MLA47077888}} calificaciones.',
     aiReviewSummary: 'Los compradores la celebran como "la cafetera más económica con molino integrado": el molinillo de muelas convence, la lanceta texturiza bien la leche y el modo manual es el favorito de los aficionados al barismo. Las críticas honestas: trabaja siempre con preinfusión (hay que acostumbrarse), el molino es lento y a algunos no les muele lo suficientemente fino, la recuperación entre cafés puede demorar varios minutos y hay detalles de terminación mejorables, como la soldadura de la jarrita.',
     seoTitle: 'Cafetera Peabody PE-CE5010N: molinillo y 19 bar, ¿rinde?',
-    metaDescription: 'La express con molinillo más accesible del catálogo: 19 bares, muelas de 20 niveles y 4.6★ en {{reviews:MLA47077888}} opiniones. Sus contras honestas antes de gastar $520.336.',
+    metaDescription: 'La express con molinillo más accesible del catálogo: 19 bares, muelas de 20 niveles y 4.6★ en {{reviews:MLA47077888}} opiniones. Sus contras honestas antes de comprar.',
     ogTitle: 'Café recién molido sin pagar el tope de gama: la apuesta de Peabody',
-    ogDescription: 'Molinillo de muelas, bomba ULKA de 19 bares y portafiltro de 58 mm a mitad de precio que las grandes. Lo que aman los compradores y las 4 cosas que critican.',
+    ogDescription: 'Molinillo de muelas, bomba ULKA de 19 bares y portafiltro de 58 mm por bastante menos que las grandes. Lo que aman los compradores y las 4 cosas que critican.',
     h1: 'Cafetera express Peabody PE-CE5010N: molinillo integrado y 19 bares al precio más accesible del catálogo',
     pros: [
       '4.6⭐ con {{reviews:MLA47077888}} calificaciones: la express con molinillo integrado más barata del catálogo',
@@ -53698,12 +53699,12 @@ A $289.999 con 4.7 estrellas, es el punto medio exacto del catálogo: más seria
       'La lanceta tiene un solo orificio y hace bastante ruido al espumar',
       'Detalles de terminación: una review señala marcas de soldadura en la jarrita de leche',
     ],
-    verdict: 'La puerta de entrada real al café recién molido: molinillo de muelas, 19 bares y portafiltro de 58 mm por la mitad de lo que cuestan los tope de gama. Pide paciencia para calibrar y convivir con la preinfusión, pero a este precio nadie más te da molino integrado.',
+    verdict: 'La puerta de entrada real al café recién molido: molinillo de muelas, 19 bares y portafiltro de 58 mm por una fracción de lo que cuestan los tope de gama. Pide paciencia para calibrar y convivir con la preinfusión, pero a este precio nadie más te da molino integrado.',
     articleBody: `## Molinillo integrado sin pagar tope de gama
 
-La Peabody PE-CE5010N cuesta $520.336 y es la cafetera express con molinillo integrado más barata del catálogo. Tiene bomba italiana ULKA de 19 bares, molinillo cónico de muelas con 20 niveles y 4.6 estrellas en {{reviews:MLA47077888}} calificaciones. La síntesis la hace un comprador: "la cafetera más económica con molino integrado... excelente opción si entrás al mundo del café".
+La Peabody PE-CE5010N cuesta {{precio:MLA47077888}} y es la cafetera express con molinillo integrado más barata del catálogo. Tiene bomba italiana ULKA de 19 bares, molinillo cónico de muelas con 20 niveles y 4.6 estrellas en {{reviews:MLA47077888}} calificaciones. La síntesis la hace un comprador: "la cafetera más económica con molino integrado... excelente opción si entrás al mundo del café".
 
-Las otras dos máquinas con molinillo del catálogo cuestan $838.899 y $981.818. Esa es la dimensión de la diferencia.
+Las otras dos máquinas con molinillo del catálogo cuestan {{precio:MLA48828162}} y {{precio:MLA53370426}}. Esa es la dimensión de la diferencia.
 
 ## Bomba ULKA de 19 bares y Thermoblock
 
@@ -53725,21 +53726,21 @@ El modo manual — vos decidís cuándo cortar la extracción, además de la dos
 
 ## Las críticas honestas de las {{reviews:MLA47077888}} calificaciones
 
-El desglose: {{reviews:MLA47077888}} calificaciones de 5 estrellas, 24 de 4, y 25 de 3 o menos (incluidas 13 de 1 estrella) — por eso el 4.6, el rating más bajo entre las cafeteras de gama alta del catálogo. Los patrones críticos concretos: la máquina trabaja siempre con preinfusión y no se puede desactivar ("hay que agarrarle la mano, ya que eso es un recurso para ciertas ocasiones"), la recuperación entre cafés puede demorar ("tuve que esperar como cinco minutos hasta que esté lista para tirar otro café") y a una review de 4 estrellas le faltó temperatura de caldera.
+El desglose, con predominio de 5 estrellas pero una porción real de calificaciones bajas — por eso el 4.6, el rating más bajo entre las cafeteras de gama alta del catálogo. Los patrones críticos concretos: la máquina trabaja siempre con preinfusión y no se puede desactivar ("hay que agarrarle la mano, ya que eso es un recurso para ciertas ocasiones"), la recuperación entre cafés puede demorar ("tuve que esperar como cinco minutos hasta que esté lista para tirar otro café") y a una review de 4 estrellas le faltó temperatura de caldera.
 
 También hay detalles de terminación: un comprador encontró marcas de soldadura en la jarrita de leche y teme que se oxide. Y un dato de precio que aparece más de una vez: "me parece un muy buen producto pero creo que el precio no es acorde" — varios la compraron en oferta y la relación precio-calidad les cerró recién ahí.
 
 ## Contra las otras con molinillo del catálogo
 
-El salto de calidad es la [Oster Perfect Brew EM7301](/producto/cafetera-espresso-oster-perfect-brew-em7301-con-molinillo-mla48828162) ($838.899): molinillo de 30 configuraciones, dosificación automática del espresso y 4.9 estrellas — el mejor rating del catálogo — por $318.000 más. El tope absoluto es la [Peabody PE-CE5023IX](/producto/cafetera-express-peabody-pe-ce5023ix-automatica-con-molinillo-mla53370426) ($981.818), automática, aunque sus propias reviews también critican el molinillo.
+El salto de calidad es la [Oster Perfect Brew EM7301](/producto/cafetera-espresso-oster-perfect-brew-em7301-con-molinillo-mla48828162) ({{precio:MLA48828162}}): molinillo de 30 configuraciones, dosificación automática del espresso y 4.8 estrellas — por bastante más. El tope absoluto es la [Peabody PE-CE5023IX](/producto/cafetera-express-peabody-pe-ce5023ix-automatica-con-molinillo-mla53370426) ({{precio:MLA53370426}}), automática, aunque sus propias reviews también critican el molinillo.
 
-Hacia abajo, la [Oster BVSTEM5501B](/producto/cafetera-espresso-oster-bvstem5501b-negra-mla23909880) ($289.999) hace espresso y capuchino con 4.7 estrellas por $230.000 menos — pero sin molinillo: el grano lo molés aparte o comprás café molido. Esa es exactamente la decisión: ¿cuánto vale para vos moler en el momento?
+Hacia abajo, la [Oster BVSTEM5501B](/producto/cafetera-espresso-oster-bvstem5501b-negra-mla23909880) ({{precio:MLA23909880}}) hace espresso y capuchino con 4.7 estrellas por bastante menos — pero sin molinillo: el grano lo molés aparte o comprás café molido. Esa es exactamente la decisión: ¿cuánto vale para vos moler en el momento?
 
 ## ¿Para quién es la PE-CE5010N (y para quién no)?
 
 Es para vos si: querés entrar al café de especialidad con grano recién molido sin gastar $800.000 o más, te divierte calibrar y aprender (portafiltro de 58 mm, modo manual, manómetro), y tu ritmo es de 1-2 cafés por sesión. No es para vos si: querés resultados inmediatos sin calibración (la Oster 5501 con café molido es más directa), servís muchos cafés seguidos (la recuperación es lenta) o buscás una máquina premium sin compromisos — para eso está la Oster EM7301.
 
-A $520.336 con 4.6 estrellas, es el mejor precio de entrada al mundo del molinillo integrado: con sus mañas, pero sin competencia en su rango.`,
+A {{precio:MLA47077888}} con 4.6 estrellas, es el mejor precio de entrada al mundo del molinillo integrado: con sus mañas, pero sin competencia en su rango.`,
     specs: [
       { label: 'Marca', value: 'Peabody' },
       { label: 'Línea', value: 'Cafetera Express' },
@@ -53767,8 +53768,8 @@ A $520.336 con 4.6 estrellas, es el mejor precio de entrada al mundo del molinil
       { question: '¿Cuánto tarda entre café y café?', answer: 'Ahí está una de las críticas honestas: la recuperación puede ser lenta. Una review de 5 estrellas cuenta que "tuve que esperar como cinco minutos hasta que esté lista para tirar otro café", especialmente después de usar el vapor. Para 1 o 2 cafés por sesión no molesta; para servir una mesa de seis, sí.' },
       { question: '¿El portafiltro es de 58 mm?', answer: 'Sí, y es uno de los puntos que más destacan los compradores con conocimientos de barismo: 58 mm es el tamaño comercial de las máquinas de cafetería. "Para quienes buscan aprender a calibrar como baristas, con su tamaño de 58 mm es lo mejor que hay", dice una review. El portafiltro y los filtros se describen como robustos y de buena calidad.' },
       { question: '¿La lanceta espuma bien la leche?', answer: 'Sí, con una particularidad: tiene un solo orificio, pero buena presión de vapor. Las reviews coinciden: "espuma bien, hace mucho ruido eso sí", "texturiza bien la leche como para hacer latte art". Viene con jarrita de leche de acero inoxidable incluida, aunque una review señala marcas de soldadura en su terminación.' },
-      { question: '¿Por qué tiene 4.6 y no más?', answer: 'De {{reviews:MLA47077888}} calificaciones, 188 son de 5 estrellas y 24 de 4, pero hay 25 de 3 o menos — incluidas 13 de 1 estrella. Los patrones críticos: la preinfusión obligatoria, el molino lento o no tan fino, la espera entre cafés y la sensación de que el precio de lista es alto (varios la compraron en oferta). Los compradores conformes responden que quien dice que saca mal café "es porque no la sabe usar": la calibración inicial es clave.' },
-      { question: '¿Conviene esta o la Oster Perfect Brew EM7301?', answer: 'La Oster EM7301 ($838.899) tiene mejor molinillo (30 configuraciones), dosificación automática y 4.9 estrellas — pero cuesta $318.000 más. Esta Peabody ($520.336) da el mismo concepto de grano recién molido con más trabajo manual y rating 4.6. Si el presupuesto llega, la Oster es la compra más redonda; si no, esta es la única forma de tener molinillo integrado a este precio.' },
+      { question: '¿Por qué tiene 4.6 y no más?', answer: 'De {{reviews:MLA47077888}} calificaciones, predominan las de 5 estrellas, pero hay una porción real de calificaciones bajas. Los patrones críticos: la preinfusión obligatoria, el molino lento o no tan fino, la espera entre cafés y la sensación de que el precio de lista es alto (varios la compraron en oferta). Los compradores conformes responden que quien dice que saca mal café "es porque no la sabe usar": la calibración inicial es clave.' },
+      { question: '¿Conviene esta o la Oster Perfect Brew EM7301?', answer: 'La Oster EM7301 ({{precio:MLA48828162}}) tiene mejor molinillo (30 configuraciones), dosificación automática y mejor rating (4.8 contra 4.6) — pero cuesta bastante más del doble. Esta Peabody ({{precio:MLA47077888}}) da el mismo concepto de grano recién molido con más trabajo manual. Si el presupuesto llega, la Oster es la compra más redonda; si no, esta es la única forma de tener molinillo integrado a este precio.' },
       { question: '¿Sirve para alguien que recién empieza?', answer: 'Sí, con la expectativa correcta: vas a tener que calibrar la molienda al principio y eso puede llevar días de prueba. Una compradora lo cuenta tal cual: "me costó mucho calibrar la molienda para que salga bien el café... cuando lo logré, la extracción fue perfecta y quedé súper satisfecha. Solo tengan paciencia al principio". Si querés cero curva de aprendizaje, mirá las cafeteras de cápsulas del catálogo.' },
       { question: '¿Qué incluye en la caja?', answer: 'Además de la máquina: jarrita para leche de acero inoxidable, tamper (pisón) para compactar el café, filtros, bandeja de goteo desmontable y bandeja superior de precalentado de tazas con espacio para guardar accesorios. También tiene función de agua caliente para preparar té u otras infusiones sin pasar por el café.' },
     ],
@@ -53788,7 +53789,7 @@ A $520.336 con 4.6 estrellas, es el mejor precio de entrada al mundo del molinil
       '@type': 'Product',
       name: 'Cafetera express Peabody PE-CE5010N',
       image: 'https://http2.mlstatic.com/D_NQ_NP_937822-MLA99945605211_112025-F.jpg',
-      description: 'Cafetera express semiautomática Peabody PE-CE5010N con molinillo cónico de muelas de 20 niveles, bomba italiana ULKA de 19 bares, manómetro frontal, sistema Thermoblock y tanque removible de 1,4 L. 4.6 estrellas con 237 calificaciones en MercadoLibre Argentina.',
+      description: 'Cafetera express semiautomática Peabody PE-CE5010N con molinillo cónico de muelas de 20 niveles, bomba italiana ULKA de 19 bares, manómetro frontal, sistema Thermoblock y tanque removible de 1,4 L. 4.6 estrellas con 256 calificaciones en MercadoLibre Argentina.',
       sku: 'PE-CE5010N',
       mpn: 'PE-CE5010N',
       brand: { '@type': 'Brand', name: 'Peabody' },
@@ -53796,7 +53797,7 @@ A $520.336 con 4.6 estrellas, es el mejor precio de entrada al mundo del molinil
         '@type': 'Offer',
         url: 'https://meli.la/2uKu8pv',
         priceCurrency: 'ARS',
-        price: 520336,
+        price: 442799,
         availability: 'https://schema.org/InStock',
         itemCondition: 'https://schema.org/NewCondition',
         seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
@@ -53804,7 +53805,7 @@ A $520.336 con 4.6 estrellas, es el mejor precio de entrada al mundo del molinil
       aggregateRating: {
         '@type': 'AggregateRating',
         ratingValue: '4.6',
-        reviewCount: '237',
+        reviewCount: '256',
       },
     },
     relatedProducts: ['MLA53370426', 'MLA48828162', 'MLA23909880'],
@@ -53812,10 +53813,11 @@ A $520.336 con 4.6 estrellas, es el mejor precio de entrada al mundo del molinil
   {
     id: 'MLA48828162',
     title: 'Cafetera espresso Oster Perfect Brew EM7301 con molinillo',
-    price: 1012500,
+    price: 1007999,
     originalPrice: undefined,
-    priceUpdated: "2026-10-12",
-    priceLastChecked: "2026-10-12",
+    priceUpdated: "2026-11-02",
+    priceLastChecked: "2026-11-02",
+    priceVerifiedAt: "2026-11-02",
     priceStatus: "fresh",
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_611727-MLA100054728735_122025-F.jpg',
@@ -53833,17 +53835,18 @@ A $520.336 con 4.6 estrellas, es el mejor precio de entrada al mundo del molinil
     freeShipping: true,
     brand: 'Oster',
     rating: 4.8,
-    reviewCount: 354,
+    reviewCount: 405,
+    reviewsSampledAt: "2026-11-02",
     pastelColor: 'var(--pastel-coral)',
-    description: 'Cafetera espresso Oster Perfect Brew EM7301: el tope de gama de Oster en el catálogo, con molinillo cónico de muelas integrado de 30 configuraciones, portafiltro comercial de 58 mm y tubo de vapor Tempsense para microespuma. Espresso simple o doble con un botón, desde café recién molido. Tiene el mejor rating de todas las cafeteras del catálogo: 4.9 estrellas con {{reviews:MLA48828162}} calificaciones.',
+    description: 'Cafetera espresso Oster Perfect Brew EM7301: el tope de gama de Oster en el catálogo, con molinillo cónico de muelas integrado de 30 configuraciones, portafiltro comercial de 58 mm y tubo de vapor Tempsense para microespuma. Espresso simple o doble con un botón, desde café recién molido. Tiene el mejor rating de todas las cafeteras del catálogo: 4.8 estrellas con {{reviews:MLA48828162}} calificaciones.',
     aiReviewSummary: 'El mejor rating del catálogo de cafeteras: compradores destacan la calidad de los materiales, el molinillo que muele al punto y un espresso "que no le envidia nada a las grandes cafeteras", con varios logrando extracciones de 25-30 segundos de manual. Las críticas, pocas y puntuales: la dosificación automática del molinillo a veces tira más café del justo, la punta del texturizador se marca con la leche y no es una máquina para grandes volúmenes seguidos.',
     seoTitle: 'Cafetera Oster Perfect Brew EM7301: ¿vale el tope de gama?',
-    metaDescription: 'El tope de gama de Oster: molinillo integrado de 30 niveles, portafiltro de 58 mm y 4.9★ en {{reviews:MLA48828162}} opiniones. Lo que elogian las reviews y sus contras reales.',
+    metaDescription: 'El tope de gama de Oster: molinillo integrado de 30 niveles, portafiltro de 58 mm y 4.8★ en {{reviews:MLA48828162}} opiniones. Lo que elogian las reviews y sus contras reales.',
     ogTitle: 'Del grano a la taza: la Oster con molinillo que tiene el mejor rating del catálogo',
-    ogDescription: 'Café recién molido, portafiltro de 58 mm como las máquinas de cafetería y 4.9 estrellas. Te contamos qué dicen los compradores y los detalles a saber antes de invertir.',
+    ogDescription: 'Café recién molido, portafiltro de 58 mm como las máquinas de cafetería y 4.8 estrellas. Te contamos qué dicen los compradores y los detalles a saber antes de invertir.',
     h1: 'Cafetera espresso Oster Perfect Brew EM7301: molinillo integrado, 58 mm y el mejor rating del catálogo',
     pros: [
-      '4.9⭐ con {{reviews:MLA48828162}} calificaciones: el mejor rating de todas las cafeteras del catálogo',
+      '4.8⭐ con {{reviews:MLA48828162}} calificaciones: el mejor rating de todas las cafeteras del catálogo',
       'Molinillo cónico de muelas con 30 configuraciones: café recién molido en cada taza',
       'Portafiltro comercial de 58 mm, el estándar de las máquinas de cafetería',
       'Tubo de vapor Tempsense: microespuma suave para lattes y capuchinos',
@@ -53851,16 +53854,16 @@ A $520.336 con 4.6 estrellas, es el mejor precio de entrada al mundo del molinil
       'Viene completa: filtros simples y presurizados, jarra de leche, prensador y pin de limpieza',
     ],
     cons: [
-      'Cuesta casi el triple que la Oster BVSTEM5501B, la espresso de entrada de la marca',
+      'Cuesta más de tres veces lo que la Oster BVSTEM5501B, la espresso de entrada de la marca',
       'La dosificación del molinillo a veces tira más café del justo: varios la usan en modo manual',
       'La punta del texturizador de leche tiende a marcarse con el uso, según alguna review',
       'No es para grandes volúmenes: un comprador avisa que no conviene sobreexigirla con muchos cafés seguidos',
       'El molinillo necesita un período de asentamiento de muelas, aclarado en el propio manual',
     ],
-    verdict: 'El tope de Oster cumple lo que promete: café recién molido, extracción seria con portafiltro de 58 mm y el mejor rating del catálogo (4.9). Si el café recién molido no te importa, la Oster 5501 cubre lo esencial por un tercio del precio.',
+    verdict: 'El tope de Oster cumple lo que promete: café recién molido, extracción seria con portafiltro de 58 mm y el mejor rating del catálogo (4.8). Si el café recién molido no te importa, la Oster 5501 cubre lo esencial por menos de un tercio del precio.',
     articleBody: `## El tope de Oster, con el mejor rating del catálogo
 
-La Oster Perfect Brew EM7301 cuesta $838.899 y es la cafetera mejor calificada de todo el catálogo: 4.9 estrellas en {{reviews:MLA48828162}} opiniones, sin una sola calificación de 1 o 2 estrellas. Es una espresso semiautomática con molinillo cónico integrado, portafiltro comercial de 58 mm y tubo de vapor para microespuma — la experiencia de cafetería completa, del grano a la taza.
+La Oster Perfect Brew EM7301 cuesta {{precio:MLA48828162}} y es una de las cafeteras mejor calificadas del catálogo: 4.8 estrellas en {{reviews:MLA48828162}} opiniones. Es una espresso semiautomática con molinillo cónico integrado, portafiltro comercial de 58 mm y tubo de vapor para microespuma — la experiencia de cafetería completa, del grano a la taza.
 
 El argumento de venta es uno: café recién molido. Todo lo demás de la máquina está construido alrededor de eso.
 
@@ -53878,7 +53881,7 @@ La extracción es con un botón: espresso sencillo o doble, sin tener que cortar
 
 ## Lo que dicen las {{reviews:MLA48828162}} calificaciones
 
-El desglose es contundente: 97 personas pusieron 5 estrellas, 10 pusieron 4 y solo 3 calificaron con 3. Cero calificaciones de 1 o 2 estrellas. Los elogios repetidos: la calidad de los materiales ("sorprendió la calidad", "muy buena terminación"), el resultado en taza ("hace un café que no le envidia nada a las grandes cafeteras") y que no hace mucho ruido.
+El desglose es contundente: predominio claro de 5 estrellas, prácticamente sin calificaciones de 1 o 2. Los elogios repetidos: la calidad de los materiales ("sorprendió la calidad", "muy buena terminación"), el resultado en taza ("hace un café que no le envidia nada a las grandes cafeteras") y que no hace mucho ruido.
 
 Hay un dato honesto sobre la construcción que aporta la review más detallada: no es exclusivamente de acero inoxidable, tiene partes de plástico — aunque el mismo comprador destaca "la calidad en sus materiales y en su robustez".
 
@@ -53886,19 +53889,19 @@ Hay un dato honesto sobre la construcción que aporta la review más detallada: 
 
 Las críticas son pocas pero concretas. Un comprador con semanas de uso avisa que "la molienda a veces te tira más café de lo que corresponde, así que háganlo de manera manual como recomendación" — la dosificación automática del molinillo no siempre clava el gramaje. El mismo comprador agrega que la máquina responde bien preparando 3 o 4 cafés seguidos, pero que no conviene sobreexigirla: "tampoco es para grandes producciones".
 
-Otra review de 4 estrellas nota que la punta del texturizador de leche se marca con el uso (posiblemente leche fría que se adhiere con la temperatura). Y está el período de asentamiento de las muelas del molinillo, que el manual aclara de antemano. Nada de esto mueve el 4.9 — pero conviene saberlo antes de invertir $838.899.
+Otra review de 4 estrellas nota que la punta del texturizador de leche se marca con el uso (posiblemente leche fría que se adhiere con la temperatura). Y está el período de asentamiento de las muelas del molinillo, que el manual aclara de antemano. Nada de esto mueve demasiado el 4.8 — pero conviene saberlo antes de invertir {{precio:MLA48828162}}.
 
 ## Contra la Oster chica y las Peabody
 
-La pregunta obligada: ¿y la [Oster BVSTEM5501B](/producto/cafetera-espresso-oster-bvstem5501b-negra-mla23909880) ($289.999)? Hace espresso y capuchino con 15 bares por un tercio del precio, pero sin molinillo, sin corte automático y con 4.7 en vez de 4.9. Si el café recién molido no es tu prioridad, es la compra racional.
+La pregunta obligada: ¿y la [Oster BVSTEM5501B](/producto/cafetera-espresso-oster-bvstem5501b-negra-mla23909880) ({{precio:MLA23909880}})? Hace espresso y capuchino con 15 bares por menos de un tercio del precio, pero sin molinillo, sin corte automático y con 4.7 en vez de 4.8. Si el café recién molido no es tu prioridad, es la compra racional.
 
-Entre las que sí muelen, la [Peabody PE-CE5010N](/producto/cafetera-express-peabody-pe-ce5010n-19-bar-con-molinillo-mla47077888) ($520.336) es la alternativa más barata con molinillo integrado — más manual y con rating 4.6. Y por encima de todas está la [Peabody PE-CE5023IX](/producto/cafetera-express-peabody-pe-ce5023ix-automatica-con-molinillo-mla53370426) ($981.818), automática, que cuesta $143.000 más que esta Oster con menos opiniones que la respalden.
+Entre las que sí muelen, la [Peabody PE-CE5010N](/producto/cafetera-express-peabody-pe-ce5010n-19-bar-con-molinillo-mla47077888) ({{precio:MLA47077888}}) es la alternativa más barata con molinillo integrado — más manual y con rating 4.6. Y por encima de todas está la [Peabody PE-CE5023IX](/producto/cafetera-express-peabody-pe-ce5023ix-automatica-con-molinillo-mla53370426) ({{precio:MLA53370426}}), automática, que ahora cuesta más del doble que esta Oster.
 
 ## ¿Para quién es la Perfect Brew (y para quién no)?
 
 Es para vos si: querés café de especialidad en casa con grano recién molido, valorás el portafiltro de 58 mm para aprender técnica de barista en serio, y preferís pagar una vez por una máquina completa antes que comprar molinillo aparte. No es para vos si: tu uso es café con leche ocasional (la 5501 sobra), buscás una máquina para un local con alta demanda, o el presupuesto manda — abajo de los $550.000 la Peabody PE-CE5010N muele también.
 
-A $838.899 con 4.9 estrellas y cero calificaciones negativas, es la compra más segura de la gama alta del catálogo.`,
+A {{precio:MLA48828162}} con 4.8 estrellas, es una de las compras más seguras de la gama alta del catálogo.`,
     specs: [
       { label: 'Marca / Fabricante', value: 'Oster (Newell)' },
       { label: 'Línea', value: 'Perfect Brew' },
@@ -53926,9 +53929,9 @@ A $838.899 con 4.9 estrellas y cero calificaciones negativas, es la compra más 
       { question: '¿Corta sola la extracción?', answer: 'Sí: preparás un espresso sencillo o doble con solo presionar un botón, sin tener que frenar el agua a mano como en las espresso de entrada (la Oster 5501, por ejemplo, no corta sola). Es una de las comodidades que justifican la diferencia de precio dentro de la marca.' },
       { question: '¿Sirve para un local o cafetería?', answer: 'Para volúmenes chicos. Un comprador que la usa intensivamente cuenta que responde muy bien preparando 3 o 4 cafés seguidos, pero recomienda no sobreexplotarla "porque tampoco es para grandes producciones". Para una oficina o un emprendimiento con demanda moderada va bien; para un local con fila de clientes, conviene una máquina comercial.' },
       { question: '¿Es ruidosa al moler?', answer: 'Según las opiniones, no especialmente: "muy buena, no hace mucho ruido y es re útil", dice una review. Todo molinillo de muelas hace su ruido al triturar el grano, pero no aparecen quejas de ruido en las {{reviews:MLA48828162}} calificaciones, algo que sí pasa con otras cafeteras del catálogo.' },
-      { question: '¿Qué critican los compradores?', answer: 'Tres cosas puntuales: la dosificación automática del molinillo a veces tira más café del justo (la recomendación de un comprador es dosificar en modo manual), la punta del texturizador de leche tiende a marcarse con el uso, y las muelas necesitan un período de asentamiento que el manual aclara. Con {{reviews:MLA48828162}} calificaciones de 5 estrellas sobre 110, ninguna crítica es estructural.' },
-      { question: '¿Conviene esta o la Oster BVSTEM5501B?', answer: 'La 5501 ($289.999) hace espresso y capuchino con 15 bares por un tercio del precio, pero sin molinillo y sin corte automático: usás café ya molido y frenás la extracción vos. La EM7301 ($838.899) suma grano recién molido, 58 mm y dosificación automática. Si el café recién molido no es tu obsesión, la 5501 cubre el 90% del uso real; si querés el ritual completo, esta es la definitiva.' },
-      { question: '¿Conviene esta o la Peabody PE-CE5023IX?', answer: 'La Peabody PE-CE5023IX ($981.818) es automática y cuesta $143.000 más, con 4.8 estrellas en 75 opiniones — y sus reviews señalan el molinillo como punto flojo. Esta Oster tiene mejor rating (4.9 en 110), cuesta menos y su molinillo de 30 configuraciones es de lo más elogiado. Salvo que necesites la automatización completa de la Peabody, la Oster es la compra más respaldada.' },
+      { question: '¿Qué critican los compradores?', answer: 'Tres cosas puntuales: la dosificación automática del molinillo a veces tira más café del justo (la recomendación de un comprador es dosificar en modo manual), la punta del texturizador de leche tiende a marcarse con el uso, y las muelas necesitan un período de asentamiento que el manual aclara. Con {{reviews:MLA48828162}} calificaciones en total y predominio claro de 5 estrellas, ninguna crítica es estructural.' },
+      { question: '¿Conviene esta o la Oster BVSTEM5501B?', answer: 'La 5501 ({{precio:MLA23909880}}) hace espresso y capuchino con 15 bares por menos de un tercio del precio, pero sin molinillo y sin corte automático: usás café ya molido y frenás la extracción vos. La EM7301 ({{precio:MLA48828162}}) suma grano recién molido, 58 mm y dosificación automática. Si el café recién molido no es tu obsesión, la 5501 cubre el 90% del uso real; si querés el ritual completo, esta es la definitiva.' },
+      { question: '¿Conviene esta o la Peabody PE-CE5023IX?', answer: 'La Peabody PE-CE5023IX ({{precio:MLA53370426}}) es automática y hoy cuesta bastante más del doble, con {{reviews:MLA53370426}} opiniones — y sus reviews señalan el molinillo como punto flojo. Esta Oster tiene el mismo rating (4.8), cuesta mucho menos y su molinillo de 30 configuraciones es de lo más elogiado. Salvo que necesites la automatización completa de la Peabody, la Oster es la compra más respaldada.' },
       { question: '¿Qué accesorios incluye?', answer: 'Viene completa para arrancar el mismo día: filtros simples y presurizados en versiones de 1 y 2 tazas, jarra para leche, prensador de café (tamper) y pin de limpieza. Los filtros presurizados son más permisivos para principiantes; los simples aprovechan mejor el grano recién molido cuando ya calibrás la molienda.' },
     ],
     customerReviews: [
@@ -53946,7 +53949,7 @@ A $838.899 con 4.9 estrellas y cero calificaciones negativas, es la compra más 
       '@type': 'Product',
       name: 'Cafetera espresso Oster Perfect Brew EM7301',
       image: 'https://http2.mlstatic.com/D_NQ_NP_611727-MLA100054728735_122025-F.jpg',
-      description: 'Cafetera espresso semiautomática Oster Perfect Brew EM7301 con molinillo cónico de muelas de 30 configuraciones, portafiltro comercial de 58 mm, tubo de vapor Tempsense para microespuma y 15 bares de presión. 4.9 estrellas con 110 calificaciones en MercadoLibre Argentina.',
+      description: 'Cafetera espresso semiautomática Oster Perfect Brew EM7301 con molinillo cónico de muelas de 30 configuraciones, portafiltro comercial de 58 mm, tubo de vapor Tempsense para microespuma y 15 bares de presión. 4.8 estrellas con {{reviews:MLA48828162}} calificaciones en MercadoLibre Argentina.',
       sku: 'OSBVSTEM7301',
       mpn: 'OSBVSTEM7301-054',
       brand: { '@type': 'Brand', name: 'Oster' },
@@ -53954,15 +53957,15 @@ A $838.899 con 4.9 estrellas y cero calificaciones negativas, es la compra más 
         '@type': 'Offer',
         url: 'https://meli.la/2amGBqP',
         priceCurrency: 'ARS',
-        price: 838899,
+        price: 1007999,
         availability: 'https://schema.org/InStock',
         itemCondition: 'https://schema.org/NewCondition',
         seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
       },
       aggregateRating: {
         '@type': 'AggregateRating',
-        ratingValue: '4.9',
-        reviewCount: '110',
+        ratingValue: '4.8',
+        reviewCount: '405',
       },
     },
     relatedProducts: ['MLA23909880', 'MLA53370426', 'MLA47077888'],
@@ -53970,11 +53973,11 @@ A $838.899 con 4.9 estrellas y cero calificaciones negativas, es la compra más 
   {
     id: 'MLA53370426',
     title: 'Cafetera express Peabody PE-CE5023IX automática con molinillo',
-    price: 998650,
+    price: 2049999,
     originalPrice: undefined,
-    priceUpdated: "2026-09-18",
-    priceLastChecked: "2026-09-23",
-    priceVerifiedAt: "2026-09-18",
+    priceUpdated: "2026-11-02",
+    priceLastChecked: "2026-11-02",
+    priceVerifiedAt: "2026-11-02",
     priceStatus: "fresh",
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_968437-MLA100069135559_122025-F.jpg',
@@ -53992,13 +53995,14 @@ A $838.899 con 4.9 estrellas y cero calificaciones negativas, es la compra más 
     freeShipping: true,
     brand: 'Peabody',
     rating: 4.8,
-    reviewCount: 90,
+    reviewCount: 91,
+    reviewsSampledAt: "2026-11-02",
     pastelColor: 'var(--pastel-coral)',
-    description: 'Cafetera express Peabody PE-CE5023IX: el tope de gama absoluto del catálogo, a $981.818. Express automática con molinillo integrado, tanque de 2,8 litros y estructura de acero inoxidable, pensada para quien quiere automatización completa del grano a la taza. Tiene 4.8 estrellas, pero solo {{reviews:MLA53370426}} calificaciones — pocas para una compra de este precio, y por eso este análisis es especialmente honesto.',
+    description: 'Cafetera express Peabody PE-CE5023IX: una de las más caras del catálogo, a {{precio:MLA53370426}}. Express automática con molinillo integrado, tanque de 2,8 litros y estructura de acero inoxidable, pensada para quien quiere automatización completa del grano a la taza. Tiene 4.8 estrellas, pero solo {{reviews:MLA53370426}} calificaciones — pocas para una compra de este precio, y por eso este análisis es especialmente honesto.',
     aiReviewSummary: 'Los compradores destacan la robustez, las terminaciones, el doble termoblock y un espresso "como de confitería" una vez calibrada — incluso hay quien la usa para vender café en una panadería. Las críticas son serias para el precio: el molinillo integrado no muele tan fino como pide un espresso perfecto y tiende a taparse, el consumo eléctrico es altísimo (ficha de 20 A que puede exigir instalación dedicada), y hay reportes puntuales de pérdida de agua por el portafiltro, presión justa y café tibio.',
-    seoTitle: 'Cafetera Peabody PE-CE5023IX: ¿vale casi un millón?',
+    seoTitle: 'Cafetera Peabody PE-CE5023IX: ¿vale más de dos millones?',
     metaDescription: 'La express automática tope de gama de Peabody: molinillo integrado y 4.8★, pero solo {{reviews:MLA53370426}} opiniones. Sus contras reales y las alternativas que cuestan menos.',
-    ogTitle: 'Casi un millón de pesos en cafetera: lo que nadie te cuenta antes de pagarla',
+    ogTitle: 'Más de dos millones de pesos en cafetera: lo que nadie te cuenta antes de pagarla',
     ogDescription: 'Automática, con molinillo y doble termoblock — pero con un molinillo criticado y una ficha de 20 A que puede pedir instalación eléctrica propia. Análisis sin filtro.',
     h1: 'Cafetera express Peabody PE-CE5023IX automática: el tope de gama del catálogo, analizado sin filtro',
     pros: [
@@ -54010,18 +54014,18 @@ A $838.899 con 4.9 estrellas y cero calificaciones negativas, es la compra más 
       'Aguanta uso comercial liviano: una compradora la usa para vender café en su panadería',
     ],
     cons: [
-      'Cuesta $981.818 con solo {{reviews:MLA53370426}} calificaciones: poco respaldo estadístico para semejante inversión',
+      'Cuesta {{precio:MLA53370426}}, más del doble que la Oster EM7301, con solo {{reviews:MLA53370426}} calificaciones: poco respaldo estadístico para semejante inversión',
       'El molinillo es el punto flojo señalado: no muele tan fino como pide un espresso perfecto y tiende a taparse',
       'Consumo eléctrico muy alto: ficha de 20 A — un comprador tuvo que instalar una térmica y cableado dedicados',
       'Reportes puntuales de pérdida de agua por el portafiltro, presión justa y café que sale tibio',
       'Curva de aprendizaje real: varios compradores quemaron bastante café hasta calibrarla',
     ],
-    verdict: 'Es una buena máquina con un problema de contexto: a $981.818, la Oster EM7301 hace casi lo mismo por $143.000 menos, con mejor rating y un molinillo menos criticado. Tiene sentido solo si la automatización completa y el tanque de 2,8 L valen esa diferencia para vos.',
+    verdict: 'Es una buena máquina con un problema de precio: a {{precio:MLA53370426}}, cuesta hoy más del doble que la Oster EM7301, que hace casi lo mismo, con el mismo rating y un molinillo menos criticado. Tiene sentido solo si la automatización completa y el tanque de 2,8 L valen esa diferencia para vos.',
     articleBody: `## La automática más cara del catálogo
 
-La Peabody PE-CE5023IX cuesta $981.818 — la cafetera más cara de todo el catálogo — y es la única express automática con molinillo integrado que tenemos. Junta 4.8 estrellas, pero con solo {{reviews:MLA53370426}} calificaciones. Y ahí está el primer punto honesto de este análisis: para una compra de casi un millón de pesos, {{reviews:MLA53370426}} opiniones es poco respaldo estadístico. Vamos a contarte lo que esas 75 voces dicen, incluidas las críticas.
+La Peabody PE-CE5023IX cuesta {{precio:MLA53370426}} — una de las cafeteras más caras del catálogo — y es la única express automática con molinillo integrado que tenemos. Junta 4.8 estrellas, pero con solo {{reviews:MLA53370426}} calificaciones. Y ahí está el primer punto honesto de este análisis: para una compra de esta magnitud, {{reviews:MLA53370426}} opiniones es poco respaldo estadístico. Vamos a contarte lo que esas voces dicen, incluidas las críticas.
 
-## Qué hace por casi un millón de pesos
+## Qué ofrece por más de dos millones de pesos
 
 La propuesta es automatización completa: molinillo integrado, dosificación y extracción automáticas, tanque de 2,8 litros (el más grande del catálogo, ideal para no recargar a cada rato) y estructura de acero inoxidable. Los compradores describen doble termoblock — calienta rápido y se recupera bien entre cafés — y accesorios de peso profesional: "el peso del tamper y el portafiltro, doble termoblock y demás características dan cuenta del nivel y el uso para el cual está pensado el producto".
 
@@ -54041,21 +54045,21 @@ Traducido: antes de comprarla, verificá que tu instalación eléctrica soporte 
 
 ## Lo que dicen las {{reviews:MLA53370426}} calificaciones
 
-El desglose: {{reviews:MLA53370426}} calificaciones de 5 estrellas, 12 de 4 y 3 de 3 — cero de 1 y 2 estrellas, lo cual habla bien dentro de la muestra chica. Los elogios: robustez, terminaciones, velocidad, espresso de nivel una vez calibrada, y un caso de buen servicio posventa.
+El desglose, con predominio claro de 5 estrellas y sin calificaciones de 1 o 2 dentro de la muestra chica. Los elogios: robustez, terminaciones, velocidad, espresso de nivel una vez calibrada, y un caso de buen servicio posventa.
 
 Las críticas concretas, además del molinillo y el consumo: una review reporta que "pierde agua por el portafiltro", otra que "la presión es un poco baja y la temperatura del café no es del todo apta", y otra que el café sale tibio o frío al principio. Y el patrón transversal: la curva de aprendizaje es real — "tuve que aprender bien qué molienda necesita... sí, gasté bastante café", "los primeros eran unos cafés malísimos, pero con práctica salen igual o mejores que los de cafetería".
 
 ## Las alternativas que hacen casi lo mismo por menos
 
-Esta es la sección que justifica el análisis. La [Oster Perfect Brew EM7301](/producto/cafetera-espresso-oster-perfect-brew-em7301-con-molinillo-mla48828162) ($838.899) también muele el grano en el momento, con un molinillo de 30 configuraciones que sus reviews elogian en vez de criticar, dosificación automática del espresso y 4.9 estrellas en 110 opiniones — mejor rating, más respaldo y $143.000 menos. Lo que resignás es la automatización completa y el tanque gigante.
+Esta es la sección que justifica el análisis. La [Oster Perfect Brew EM7301](/producto/cafetera-espresso-oster-perfect-brew-em7301-con-molinillo-mla48828162) ({{precio:MLA48828162}}) también muele el grano en el momento, con un molinillo de 30 configuraciones que sus reviews elogian en vez de criticar, dosificación automática del espresso y 4.8 estrellas en {{reviews:MLA48828162}} opiniones — mismo rating, más respaldo y la conseguís por menos de la mitad de precio. Lo que resignás es la automatización completa y el tanque gigante.
 
-Y si el presupuesto manda, la [Peabody PE-CE5010N](/producto/cafetera-express-peabody-pe-ce5010n-19-bar-con-molinillo-mla47077888) ($520.336) de la misma marca trae molinillo integrado de 20 niveles y bomba ULKA de 19 bares por poco más de la mitad del precio — más manual, con 4.6 estrellas y sus propias mañas, pero con la misma idea de fondo: café recién molido en casa.
+Y si el presupuesto manda, la [Peabody PE-CE5010N](/producto/cafetera-express-peabody-pe-ce5010n-19-bar-con-molinillo-mla47077888) ({{precio:MLA47077888}}) de la misma marca trae molinillo integrado de 20 niveles y bomba ULKA de 19 bares por menos de una cuarta parte del precio — más manual, con 4.6 estrellas y sus propias mañas, pero con la misma idea de fondo: café recién molido en casa.
 
 ## ¿Para quién es la PE-CE5023IX (y para quién no)?
 
-Es para vos si: querés la máxima automatización del catálogo del grano a la taza, le vas a dar uso intensivo (el tanque de 2,8 L y el doble termoblock están pensados para eso, incluso para un emprendimiento chico), tu instalación eléctrica soporta una ficha de 20 A, y el millón no te duele. No es para vos si: buscás la mejor relación precio-resultado en gama alta (la Oster EM7301 gana en rating, respaldo y precio), el espresso ultrafino es tu obsesión (el molinillo es el punto flojo reconocido), o no querés gastos sorpresa de electricista.
+Es para vos si: querés la máxima automatización del catálogo del grano a la taza, le vas a dar uso intensivo (el tanque de 2,8 L y el doble termoblock están pensados para eso, incluso para un emprendimiento chico), tu instalación eléctrica soporta una ficha de 20 A, y los dos millones no te duelen. No es para vos si: buscás la mejor relación precio-resultado en gama alta (la Oster EM7301 gana en rating, respaldo y precio), el espresso ultrafino es tu obsesión (el molinillo es el punto flojo reconocido), o no querés gastos sorpresa de electricista.
 
-A $981.818 con 4.8 estrellas y solo {{reviews:MLA53370426}} opiniones, es una buena máquina que pide comprarse con los ojos abiertos — y con las alternativas sobre la mesa.`,
+A {{precio:MLA53370426}} con 4.8 estrellas y solo {{reviews:MLA53370426}} opiniones, es una buena máquina que pide comprarse con los ojos abiertos — y con las alternativas sobre la mesa.`,
     specs: [
       { label: 'Marca', value: 'Peabody' },
       { label: 'Modelo', value: 'PE-CE5023IX' },
@@ -54075,13 +54079,13 @@ A $981.818 con 4.8 estrellas y solo {{reviews:MLA53370426}} opiniones, es una bu
     ],
     faq: [
       { question: '¿La Peabody PE-CE5023IX es automática de verdad?', answer: 'Sí, es la única express automática del catálogo: muele el grano, dosifica y extrae sin que tengas que operar cada paso como en las semiautomáticas. Igual no es magia: las reviews coinciden en que hay que calibrar molienda, gramaje y temperatura al principio — "tuve que aprender bien qué molienda necesita... sí, gasté bastante café" — y después de esa curva el espresso sale "como de confitería".' },
-      { question: '¿El molinillo integrado es bueno?', answer: 'Es el punto flojo señalado en las opiniones, y siendo una máquina de $981.818 hay que decirlo claro. Una review de 3 estrellas lo resume: "el molinillo integrado no alcanza a moler tan fino como para el expreso perfecto, muy criticable si invertís esa plata para que te solucione todo". Otros compradores agregan que conviene usarlo siempre en los niveles más finos (1 o 0) y que tiende a taparse, por lo que hay que limpiarlo seguido con el cepillo que trae.' },
+      { question: '¿El molinillo integrado es bueno?', answer: 'Es el punto flojo señalado en las opiniones, y siendo una máquina de {{precio:MLA53370426}} hay que decirlo claro. Una review de 3 estrellas lo resume: "el molinillo integrado no alcanza a moler tan fino como para el expreso perfecto, muy criticable si invertís esa plata para que te solucione todo". Otros compradores agregan que conviene usarlo siempre en los niveles más finos (1 o 0) y que tiende a taparse, por lo que hay que limpiarlo seguido con el cepillo que trae.' },
       { question: '¿Necesito una instalación eléctrica especial?', answer: 'Posiblemente, y es la contra menos publicitada: la máquina tiene ficha de 20 amperes y un comprador midió un consumo de unos 13,5 A. Él mismo cuenta que tuvo que agregar una térmica aparte y un tramo de cables exclusivo para la cafetera, porque su conexión hogareña común no alcanzaba. Antes de comprarla, verificá con un electricista que tu instalación soporte una ficha de 20 A.' },
       { question: '¿Sirve para un local o emprendimiento?', answer: 'Para volúmenes chicos, sí: una compradora la usa para vender café en su panadería y la describe rápida, con buena recuperación y calentando la leche al toque — aclarando que va bien "si no vendés 50 por día". El tanque de 2,8 litros y el doble termoblock ayudan en uso intensivo. Para una cafetería con demanda real, sigue siendo una máquina hogareña tope de gama, no una comercial.' },
-      { question: '¿Por qué cuesta casi un millón de pesos?', answer: 'Por la combinación que ninguna otra del catálogo tiene: automatización completa, molinillo integrado, tanque de 2,8 L, doble termoblock y construcción de acero inoxidable con accesorios de peso profesional. La pregunta honesta es si esa combinación vale $143.000 más que la Oster EM7301, que muele y dosifica automático el espresso con mejor rating (4.9 contra 4.8) y más opiniones (110 contra 75).' },
-      { question: '¿Conviene esta o la Oster Perfect Brew EM7301?', answer: 'Para la mayoría, la Oster: cuesta $838.899 (contra $981.818), tiene el mejor rating del catálogo (4.9 en 110 opiniones) y su molinillo de 30 configuraciones es elogiado en las reviews, mientras que el de la Peabody es criticado. La Peabody gana en automatización total, tanque de 2,8 L y capacidad de uso intensivo. Si esas tres cosas no son decisivas para vos, la diferencia de precio no se justifica.' },
+      { question: '¿Por qué cuesta tanto?', answer: 'Por la combinación que ninguna otra del catálogo tiene: automatización completa, molinillo integrado, tanque de 2,8 L, doble termoblock y construcción de acero inoxidable con accesorios de peso profesional. La pregunta honesta es si esa combinación vale pagar más del doble que la Oster EM7301, que muele y dosifica automático el espresso con el mismo rating (4.8) y más opiniones.' },
+      { question: '¿Conviene esta o la Oster Perfect Brew EM7301?', answer: 'Para la mayoría, la Oster: cuesta {{precio:MLA48828162}} (contra {{precio:MLA53370426}} de esta Peabody), tiene el mismo rating (4.8) y su molinillo de 30 configuraciones es elogiado en las reviews, mientras que el de la Peabody es criticado. La Peabody gana en automatización total, tanque de 2,8 L y capacidad de uso intensivo. Si esas tres cosas no son decisivas para vos, la diferencia de precio hoy es enorme y difícil de justificar.' },
       { question: '¿El café sale caliente?', answer: 'Mayormente sí, pero hay reportes en contra que conviene conocer: una review de 4 estrellas dice que "el café queda frío" (la compradora asume que le falta aprender a usarla) y una de 3 estrellas señala que "la temperatura del café no es del todo apta". El patrón sugiere que la temperatura depende de la calibración y el precalentamiento — no es un defecto universal, pero aparece más de una vez en solo {{reviews:MLA53370426}} opiniones.' },
-      { question: '¿Es confiable comprar con solo {{reviews:MLA53370426}} calificaciones?', answer: 'Es la pregunta correcta para una compra de este precio. Lo bueno: de esas 75, cero son de 1 o 2 estrellas — 60 de 5, 12 de 4 y 3 de 3, un panorama sólido. Lo prudente: es una muestra chica comparada con las {{reviews:MLA48828162}} de la Oster EM7301 o las {{reviews:MLA47077888}} de la Peabody PE-CE5010N, y las críticas que existen (molinillo, consumo eléctrico, pérdidas puntuales de agua) son consistentes entre sí. Comprala sabiendo eso.' },
+      { question: '¿Es confiable comprar con solo {{reviews:MLA53370426}} calificaciones?', answer: 'Es la pregunta correcta para una compra de este precio. Lo prudente: es una muestra chica comparada con las {{reviews:MLA48828162}} de la Oster EM7301 o las {{reviews:MLA47077888}} de la Peabody PE-CE5010N, y las críticas que existen (molinillo, consumo eléctrico, pérdidas puntuales de agua) son consistentes entre sí. Comprala sabiendo eso.' },
     ],
     customerReviews: [
       { rating: 4, country: 'Argentina', date: 'noviembre 2025', useful: 13, text: 'Es una buena máquina para tener en casa. Hace buen espresso y emulsiona bien la leche si le agarrás la mano. No me convenció tanto el tema de la presión/bares porque siempre va a ser muy rápida la extracción. La molienda la tenés que usar siempre en 1 o 0 para que salga bien el espresso, y con mínimo 20 g de café para el doble. El molinillo no está mal pero suele taparse: hay que limpiarlo (con el cepillito que trae) frecuentemente para que salga bien el café y no se hagan grumos. Le doy 4/5.' },
@@ -54099,7 +54103,7 @@ A $981.818 con 4.8 estrellas y solo {{reviews:MLA53370426}} opiniones, es una bu
       '@type': 'Product',
       name: 'Cafetera express Peabody PE-CE5023IX automática',
       image: 'https://http2.mlstatic.com/D_NQ_NP_968437-MLA100069135559_122025-F.jpg',
-      description: 'Cafetera express automática Peabody PE-CE5023IX con molinillo integrado, tanque de agua de 2,8 litros, estructura de acero inoxidable y temporizador. El tope de gama del catálogo. 4.8 estrellas con 75 calificaciones en MercadoLibre Argentina.',
+      description: 'Cafetera express automática Peabody PE-CE5023IX con molinillo integrado, tanque de agua de 2,8 litros, estructura de acero inoxidable y temporizador. Una de las más caras del catálogo. 4.8 estrellas con 91 calificaciones en MercadoLibre Argentina.',
       sku: 'PE-CE5023IX',
       mpn: 'PE-CE5023IX',
       brand: { '@type': 'Brand', name: 'Peabody' },
@@ -54107,7 +54111,7 @@ A $981.818 con 4.8 estrellas y solo {{reviews:MLA53370426}} opiniones, es una bu
         '@type': 'Offer',
         url: 'https://meli.la/1n158eE',
         priceCurrency: 'ARS',
-        price: 981818,
+        price: 2049999,
         availability: 'https://schema.org/InStock',
         itemCondition: 'https://schema.org/NewCondition',
         seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
@@ -54115,7 +54119,7 @@ A $981.818 con 4.8 estrellas y solo {{reviews:MLA53370426}} opiniones, es una bu
       aggregateRating: {
         '@type': 'AggregateRating',
         ratingValue: '4.8',
-        reviewCount: '75',
+        reviewCount: '91',
       },
     },
     relatedProducts: ['MLA48828162', 'MLA47077888'],
@@ -54130,8 +54134,13 @@ A $981.818 con 4.8 estrellas y solo {{reviews:MLA53370426}} opiniones, es una bu
     price: 1359999,
     originalPrice: 1699999,
     priceUpdated: "2026-10-07",
-    priceLastChecked: "2026-10-12",
-    priceStatus: "fresh",
+    priceLastChecked: "2026-11-02",
+    // Sin stock desde al menos 2026-11-02: "Este producto no está disponible. Elige otra
+    // variante" (única variante), verificado en vivo. No se encontró ningún vendedor con el
+    // mismo modelo exacto (EP5541/50) activo en ML. Reemplazada en la guía cafetera-automatica
+    // por la Philips EP2231/42 Serie 2200 Lattego (MLA18154570, ficha nueva). Se conserva esta
+    // ficha íntegra como registro (docs/productos-sin-stock.md).
+    priceStatus: "out_of_stock",
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_Q_NP_875997-MLA111832258952_062026-F.webp',
     images: [
@@ -54147,11 +54156,12 @@ A $981.818 con 4.8 estrellas y solo {{reviews:MLA53370426}} opiniones, es una bu
     brand: 'Philips',
     rating: 4.9,
     reviewCount: 287,
+    visibility: "deprioritized",
     pastelColor: 'var(--pastel-coral)',
-    description: 'Cafetera espresso totalmente automática de la Tienda Oficial de Philips en MercadoLibre: molinillo cerámico integrado, sistema de espuma LatteGo y 20 bebidas preprogramadas. Cuesta $1.376.999 (precio de lista $1.699.999) y tiene 4.9 estrellas en {{reviews:MLA63908884}} opiniones, pero sus propios compradores avisan: el precio es alto para lo que resuelve y pide mantenimiento constante.',
-    seoTitle: "Philips EP5541/50 Serie 5500: ¿vale $1,3 millón?",
-    metaDescription: 'Análisis de la Philips EP5541/50 Serie 5500: molinillo cerámico, LatteGo y 4.9★ en {{reviews:MLA63908884}} opiniones. El precio real y el mantenimiento que nadie te cuenta.',
-    ogTitle: "Pagar $1,3 millón por una cafetera automática: ¿vale la pena?",
+    description: 'Sin stock: esta publicación de Philips EP5541/50 Serie 5500 ya no tiene vendedor activo en MercadoLibre ("elige otra variante", sin ninguna otra a la que saltar). Era una cafetera totalmente automática con molinillo cerámico, sistema de espuma LatteGo y 20 bebidas preprogramadas. La reemplazamos en la guía por la Philips EP2231/42 Serie 2200 Lattego, con mucho más respaldo de opiniones y bastante más barata.',
+    seoTitle: "Philips EP5541/50 Serie 5500: sin stock, análisis y reemplazo",
+    metaDescription: 'La Philips EP5541/50 Serie 5500 se quedó sin stock en MercadoLibre Argentina. Qué ofrecía y por qué la reemplazamos por la EP2231/42 Lattego en nuestra guía.',
+    ogTitle: "Philips EP5541/50 Serie 5500: sin stock, qué la reemplaza",
     ogDescription: 'LatteGo, molinillo cerámico y 20 bebidas preprogramadas — pero las propias reseñas avisan sobre el precio y el mantenimiento. Análisis sin filtro de la Philips Serie 5500.',
     h1: "Cafetera espresso automática Philips EP5541/50 Serie 5500: análisis sin filtro",
     pros: [
@@ -54169,10 +54179,10 @@ A $981.818 con 4.8 estrellas y solo {{reviews:MLA53370426}} opiniones, es una bu
       'Solo 2 porciones simultáneas y un recipiente de leche chico (0,26 L): hay que recargar seguido con uso familiar',
       'En una reseña real para este mismo modelo en la web oficial de Philips Argentina, un comprador señala que el café con leche "llega a media taza de las grandes"',
     ],
-    verdict: "Es una cafetera automática de verdad -no una express con más pasos- con un sistema de leche que las reseñas confirman fácil de limpiar y un molinillo que resuelve el café recién molido sin comprar nada aparte. El problema es el precio: a $1.376.999 compite directo con la De'Longhi Magnifica Start en la franja premium, y hasta sus propios compradores avisan que solo conviene comprarla en oferta. Si el mantenimiento periódico no te asusta y buscás automatización total, cumple; si el presupuesto ronda el millón y medio, compará primero contra la alternativa de De'Longhi antes de decidir.",
+    verdict: "Sin stock al día de hoy: esta publicación no tiene vendedor activo y no encontramos otro con el mismo modelo exacto. El análisis de abajo describe la máquina mientras estuvo disponible (seguía siendo automática de verdad, con un sistema de leche fácil de limpiar y un molinillo que resolvía el café recién molido), pero si estás buscando qué comprar hoy, la reemplazamos en la guía por la Philips EP2231/42 Serie 2200 Lattego, con mucho más respaldo de opiniones y bastante más barata.",
     articleBody: `## Qué es la Philips EP5541/50 Serie 5500
 
-La EP5541/50 es la cafetera espresso totalmente automática que Philips vende oficialmente en Argentina, a través de su Tienda Oficial en MercadoLibre. Cuesta $1.376.999 (precio de lista $1.699.999) y tiene 4.9 estrellas en {{reviews:MLA63908884}} calificaciones, con más de 1.000 unidades vendidas. Es del grano a la taza: no hay portafiltro que cargar ni café que moler aparte, todo pasa dentro de la máquina.
+La EP5541/50 es la cafetera espresso totalmente automática que Philips vende oficialmente en Argentina, a través de su Tienda Oficial en MercadoLibre. Cuesta $1.359.999 (precio de lista $1.699.999) y tiene 4.9 estrellas en {{reviews:MLA63908884}} calificaciones, con más de 1.000 unidades vendidas. Es del grano a la taza: no hay portafiltro que cargar ni café que moler aparte, todo pasa dentro de la máquina.
 
 ## Cómo funciona: molinillo, LatteGo y 20 bebidas
 
@@ -54188,7 +54198,7 @@ El resumen de opiniones la describe como intuitiva, compacta, silenciosa y con u
 
 ## Cómo se compara con la De'Longhi Magnifica Start (la otra premium del catálogo)
 
-En la franja arriba del millón de pesos, la comparación obligada es contra la De'Longhi Magnifica Start ECAM220.80.SB. La Philips, a $1.376.999, queda por debajo de esa referencia, con el sistema LatteGo de espuma de leche y memoria para 4 perfiles de usuario — la De'Longhi arma la espuma con su propio sistema, LatteCrema Hot, pero suma cuerpo de acero inoxidable donde la Philips es de plástico. Antes de decidir entre las dos conviene revisar el rating y el volumen de opiniones real de cada una al momento de comprar, además del respaldo de tienda oficial. [Ver la ficha completa de la De'Longhi Magnifica Start](/producto/cafetera-espresso-de-longhi-magnifica-start-ecam220-80-sb-15-bar-gris-mla39987014) para el comparativo cara a cara.
+En la franja arriba del millón de pesos, la comparación obligada es contra la De'Longhi Magnifica Start ECAM220.80.SB. La Philips, a $1.359.999, queda por debajo de esa referencia, con el sistema LatteGo de espuma de leche y memoria para 4 perfiles de usuario — la De'Longhi arma la espuma con su propio sistema, LatteCrema Hot, pero suma cuerpo de acero inoxidable donde la Philips es de plástico. Antes de decidir entre las dos conviene revisar el rating y el volumen de opiniones real de cada una al momento de comprar, además del respaldo de tienda oficial. [Ver la ficha completa de la De'Longhi Magnifica Start](/producto/cafetera-espresso-de-longhi-magnifica-start-ecam220-80-sb-15-bar-gris-mla39987014) para el comparativo cara a cara.
 
 ## ¿Para quién es (y para quién no)?
 
@@ -54196,7 +54206,7 @@ Es para vos si: querés automatización completa sin aprender a operar una expre
 
 ## Veredicto
 
-A $1.376.999 con 4.9 estrellas en {{reviews:MLA63908884}} opiniones y el respaldo de la Tienda Oficial de Philips, es una cafetera automática que cumple lo que promete: café de calidad sin operar nada manualmente. Pero el precio es real y hasta sus compradores lo marcan como el punto débil. Comprala si el mantenimiento periódico no te asusta y la comparás primero contra la De'Longhi Magnifica Start para decidir con los números de las dos sobre la mesa.`,
+A $1.359.999 con 4.9 estrellas en {{reviews:MLA63908884}} opiniones y el respaldo de la Tienda Oficial de Philips, es una cafetera automática que cumple lo que promete: café de calidad sin operar nada manualmente. Pero el precio es real y hasta sus compradores lo marcan como el punto débil. Comprala si el mantenimiento periódico no te asusta y la comparás primero contra la De'Longhi Magnifica Start para decidir con los números de las dos sobre la mesa.`,
     specs: [
       { label: 'Marca / Modelo', value: 'Philips / EP5541/50 (Serie 5500)' },
       { label: 'Tipo', value: 'Cafetera espresso totalmente automática' },
@@ -54220,7 +54230,7 @@ A $1.376.999 con 4.9 estrellas en {{reviews:MLA63908884}} opiniones y el respald
       { question: '¿Qué es el sistema LatteGo y por qué importa?', answer: 'Es el sistema de espuma de leche de Philips: dos piezas sin tubos que arman espuma con un botón, incluso con leches vegetales, y que se lavan en menos de 10 segundos según el fabricante. Las reseñas lo confirman: "la limpieza es una maravilla, el recipiente de leche tiene una limpieza rápida".' },
       { question: '¿Cuánto mantenimiento necesita?', answer: 'Más del que suele mencionarse en la publicidad. Según una reseña real de comprador, hay que cambiar el filtro de agua cada 3 meses, usar pastillas desengrasantes una vez al mes y hacer una descalcificación cada cierto tiempo. Es mantenimiento recurrente, no un gasto único.' },
       { question: '¿Sirve para café helado?', answer: 'Sí, de las 20 bebidas preprogramadas hay versiones frías además de las calientes (espresso, lattes, capuchinos), calibradas según Philips para mantener el mismo sabor en ambas versiones.' },
-      { question: '¿Por qué cuesta $1.376.999?', answer: 'Por la combinación de molinillo cerámico integrado, sistema LatteGo, 20 bebidas preprogramadas y pantalla táctil con memoria de perfiles. Es un precio alto y hasta las propias reseñas lo señalan: "el precio es muy alto por lo que te ofrece, solo la recomiendo si la encontrás en oferta".' },
+      { question: '¿Por qué cuesta $1.359.999?', answer: 'Por la combinación de molinillo cerámico integrado, sistema LatteGo, 20 bebidas preprogramadas y pantalla táctil con memoria de perfiles. Es un precio alto y hasta las propias reseñas lo señalan: "el precio es muy alto por lo que te ofrece, solo la recomiendo si la encontrás en oferta".' },
       { question: '¿Conviene esta o la De\'Longhi Magnifica Start?', answer: 'Las dos compiten en la franja premium arriba del millón de pesos. La Philips suma el sistema LatteGo y memoria para 4 perfiles, pero su estructura es de plástico; la De\'Longhi tiene cuerpo de acero inoxidable. Antes de decidir conviene comparar el rating y el volumen de opiniones vigente de cada una. [Ver la ficha completa de la De\'Longhi Magnifica Start](/producto/cafetera-espresso-de-longhi-magnifica-start-ecam220-80-sb-15-bar-gris-mla39987014) para el comparativo cara a cara.' },
       { question: '¿La estructura es de metal?', answer: 'No: según su propia ficha técnica en MercadoLibre, la estructura es de plástico (con metal en algunas partes internas). Es un dato a tener en cuenta a este precio, sobre todo si comparás contra máquinas de cuerpo de acero inoxidable.' },
       { question: '¿Es ruidosa?', answer: 'Las reseñas la describen consistentemente como silenciosa: una compradora la elige entre otras cosas por eso y otra la califica "manejable por adolescentes" por lo simple e intuitiva que resulta de usar.' },
@@ -54237,7 +54247,7 @@ A $1.376.999 con 4.9 estrellas en {{reviews:MLA63908884}} opiniones y el respald
       '@type': 'Product',
       name: 'Philips EP5541/50 Serie 5500 LatteGo',
       image: 'https://http2.mlstatic.com/D_Q_NP_875997-MLA111832258952_062026-F.webp',
-      description: 'Cafetera espresso totalmente automática Philips EP5541/50 Serie 5500, con molinillo cerámico integrado, sistema de espuma de leche LatteGo y 20 bebidas preprogramadas. 4.9 estrellas con 162 calificaciones en MercadoLibre Argentina, vendida por la Tienda Oficial de Philips.',
+      description: 'Cafetera espresso totalmente automática Philips EP5541/50 Serie 5500, con molinillo cerámico integrado, sistema de espuma de leche LatteGo y 20 bebidas preprogramadas. Sin stock al momento de esta actualización; reemplazada por la Philips EP2231/42 Lattego.',
       sku: 'EP5541/50',
       mpn: 'EP5541/50',
       brand: { '@type': 'Brand', name: 'Philips' },
@@ -54245,15 +54255,15 @@ A $1.376.999 con 4.9 estrellas en {{reviews:MLA63908884}} opiniones y el respald
         '@type': 'Offer',
         url: 'https://www.mercadolibre.com.ar/p/MLA63908884',
         priceCurrency: 'ARS',
-        price: 1376999,
-        availability: 'https://schema.org/InStock',
+        price: 1359999,
+        availability: 'https://schema.org/OutOfStock',
         itemCondition: 'https://schema.org/NewCondition',
         seller: { '@type': 'Organization', name: 'Philips (Tienda Oficial MercadoLibre Argentina)' },
       },
       aggregateRating: {
         '@type': 'AggregateRating',
         ratingValue: '4.9',
-        reviewCount: '162',
+        reviewCount: '287',
       },
     },
     relatedProducts: ['MLA39987014', 'MLA53370426', 'MLA48828162'],
@@ -54265,11 +54275,12 @@ A $1.376.999 con 4.9 estrellas en {{reviews:MLA63908884}} opiniones y el respald
     canonicalName: "De'Longhi Magnifica Start ECAM220.80.SB",
     brand: "De'Longhi",
     mpn: 'ECAM220.80.SB',
-    reviewsSampledAt: '2026-07-27',
-    price: 1799999,
+    reviewsSampledAt: '2026-11-02',
+    price: 2655000,
     originalPrice: undefined,
-    priceUpdated: "2026-09-21",
-    priceLastChecked: "2026-10-12",
+    priceUpdated: "2026-11-02",
+    priceLastChecked: "2026-11-02",
+    priceVerifiedAt: "2026-11-02",
     priceStatus: "fresh",
     currency: 'ARS',
     // Imágenes reales pasadas por Juan (copiadas del listado), verificadas con HEAD el 27/07/2026:
@@ -54290,35 +54301,35 @@ A $1.376.999 con 4.9 estrellas en {{reviews:MLA63908884}} opiniones y el respald
     affiliateUrl: 'https://meli.la/1XU8pVs',
     condition: 'new',
     freeShipping: true,
-    rating: 4.7,
-    reviewCount: 45,
+    rating: 4.6,
+    reviewCount: 48,
     reviewsWithPhotos: 3,
     pastelColor: 'var(--pastel-coral)',
-    description: "Cafetera espresso De'Longhi Magnifica Start ECAM220.80.SB: la superautomática más cara del catálogo, a $1.779.914,53. Muele el grano fresco antes de cada café, arma espuma de leche sola con la tecnología LatteCrema Hot y prepara 5 bebidas con un solo toque. Vendida y despachada por Mercado Libre (Full), con 4.7 estrellas — pero solo {{reviews:MLA39987014}} calificaciones para este precio.",
-    aiReviewSummary: 'Las reseñas completas que pudimos revisar (5 de las 35 totales — MercadoLibre no expandió el resto sin interacción manual) coinciden en la presentación, la calidad de los materiales y lo fácil que resulta de usar, incluso para preparar café con leche "con un solo botón". La única voz con un matiz negativo real aparece dentro de una reseña de 5 estrellas: el consumo de café/grano sube rápido una vez que la usás seguido. No hay ninguna reseña de 4 estrellas o menos entre las que pudimos ver, algo llamativo para una muestra ya chica de 35 calificaciones en total a este precio.',
-    seoTitle: "De'Longhi Magnifica Start ECAM220.80.SB: ¿vale $1,78M?",
-    metaDescription: "Análisis de la cafetera más cara del catálogo: muele el grano, arma espuma de leche sola y son 4.7★ en {{reviews:MLA39987014}} opiniones. El precio real y para quién tiene sentido.",
-    ogTitle: "$1,78 millones por una cafetera: la más cara del catálogo, analizada",
-    ogDescription: "Superautomática de verdad, con espuma de leche sin manijear y 5 bebidas de un toque — pero con solo 35 calificaciones para semejante precio. Análisis sin filtro.",
+    description: "Cafetera espresso De'Longhi Magnifica Start ECAM220.80.SB: la superautomática más cara del catálogo, a {{precio:MLA39987014}}. Muele el grano fresco antes de cada café, arma espuma de leche sola con la tecnología LatteCrema Hot y prepara 5 bebidas con un solo toque. Vendida y despachada por Mercado Libre (Full), con 4.6 estrellas y {{reviews:MLA39987014}} calificaciones.",
+    aiReviewSummary: 'Las reseñas completas que pudimos revisar en su momento (una muestra chica — MercadoLibre no expandió el resto sin interacción manual) coinciden en la presentación, la calidad de los materiales y lo fácil que resulta de usar, incluso para preparar café con leche "con un solo botón". La única voz con un matiz negativo real aparece dentro de una reseña de 5 estrellas: el consumo de café/grano sube rápido una vez que la usás seguido.',
+    seoTitle: "De'Longhi Magnifica Start ECAM220.80.SB: ¿vale la pena?",
+    metaDescription: "Análisis de la cafetera más cara del catálogo: muele el grano, arma espuma de leche sola y son 4.6★ en {{reviews:MLA39987014}} opiniones. El precio real y para quién tiene sentido.",
+    ogTitle: "La cafetera más cara del catálogo, analizada sin filtro",
+    ogDescription: "Superautomática de verdad, con espuma de leche sin manijear y 5 bebidas de un toque — pero con una base de opiniones chica para semejante precio. Análisis sin filtro.",
     h1: "Cafetera espresso De'Longhi Magnifica Start ECAM220.80.SB: la más cara del catálogo, analizada sin filtro",
     pros: [
       'Superautomática real: muele el grano fresco antes de cada café, con tolva para 250 g y 7 niveles de molienda',
       'Tecnología LatteCrema Hot: arma espuma de leche sola, sin manijear una lanza de vapor, con limpieza de un toque',
       '5 bebidas con un solo botón: Espresso, Café, Cappuccino, Latte Macchiato y Agua caliente',
       'Vendida y despachada por Mercado Libre (Tienda Oficial, Full, +1 millón de ventas): Compra Protegida, Factura A y 1 año de garantía de fábrica',
-      'Mismo precio en 6 cuotas sin interés de $296.652,42',
+      'Mismo precio en 6 cuotas sin interés de $442.500',
       'Pantalla digital y doble boquilla — panel simple, sin curva de aprendizaje según las reseñas disponibles',
     ],
     cons: [
-      'Cuesta $1.779.914,53 — un 29% más que la siguiente más cara del catálogo (Philips EP5541/50, $1.376.999) y casi el doble que la Peabody PE-CE5023IX ($1.044.999)',
-      'Solo {{reviews:MLA39987014}} calificaciones para este precio: una muestra chica, más chica incluso que la de la Philips ({{reviews:MLA63908884}}) o la Oster EM7301 ({{reviews:MLA48828162}})',
+      'Cuesta {{precio:MLA39987014}} — alrededor de un 30% más que la siguiente más cara del catálogo, la Peabody PE-CE5023IX ({{precio:MLA53370426}})',
+      'Solo {{reviews:MLA39987014}} calificaciones para este precio: una muestra chica, más chica incluso que la de la Philips EP2231/42 ({{reviews:MLA18154570}}) o la Oster EM7301 ({{reviews:MLA48828162}})',
       'Según una reseña real de 5 estrellas, el consumo de café "se eleva exponencialmente" con el uso — el costo por taza puede terminar siendo más alto de lo esperado',
       'Pesa 9,2 kg según el fabricante (mismo modelo global): conviene tener un lugar fijo en la mesada, no es para mover seguido',
     ],
-    verdict: "Es la cafetera más premium y más cara del catálogo: muele el grano, arma la espuma de leche sola y la vende Mercado Libre directamente. Pero a $1.779.914,53 — con solo {{reviews:MLA39987014}} calificaciones — hay que preguntarse si esa automatización extra justifica pagar $403.000 más que la Philips EP5541/50 o casi el doble que la Peabody PE-CE5023IX. Si el presupuesto no es problema y el LatteCrema Hot automático es no negociable, es la mejor opción del catálogo hoy. Si no, compará primero contra esas dos antes de pagar la diferencia.",
+    verdict: "Es la cafetera más premium y más cara del catálogo: muele el grano, arma la espuma de leche sola y la vende Mercado Libre directamente. Pero a {{precio:MLA39987014}} — con solo {{reviews:MLA39987014}} calificaciones — hay que preguntarse si esa automatización extra justifica pagar bastante más que la Peabody PE-CE5023IX, o mucho más que la Philips EP2231/42, una automática real a una fracción del precio. Si el presupuesto no es problema y el LatteCrema Hot automático es no negociable, es la mejor opción del catálogo hoy. Si no, compará primero contra esas dos antes de pagar la diferencia.",
     articleBody: `## La cafetera más cara del catálogo
 
-La De'Longhi Magnifica Start ECAM220.80.SB cuesta $1.779.914,53 — la cafetera más cara de todo el catálogo, superando incluso a la Philips EP5541/50 ($1.376.999) y a la Peabody PE-CE5023IX ($1.044.999), que hasta ahora se disputaban el primer puesto. Tiene 4.7 estrellas, pero con apenas {{reviews:MLA39987014}} calificaciones. Está vendida y despachada directamente por Mercado Libre (Full, Tienda Oficial, más de un millón de ventas), lo que suma un plus de confianza que las otras dos no tienen de la misma forma.
+La De'Longhi Magnifica Start ECAM220.80.SB cuesta {{precio:MLA39987014}} — la cafetera más cara de todo el catálogo, por encima de la Peabody PE-CE5023IX ({{precio:MLA53370426}}). Tiene 4.6 estrellas, con {{reviews:MLA39987014}} calificaciones. Está vendida y despachada directamente por Mercado Libre (Full, Tienda Oficial, más de un millón de ventas), lo que suma un plus de confianza que las otras no tienen de la misma forma.
 
 ## Qué hace: del grano a la taza, con espuma de leche sola
 
@@ -54338,17 +54349,17 @@ A diferencia de la mayoría de las cafeteras del catálogo (vendidas por tercero
 
 ## Cómo se compara con las otras cafeteras del catálogo
 
-Contra la [Philips EP5541/50 Serie 5500](/producto/cafetera-espresso-automatica-philips-ep5541-50-serie-5500-negra-mla63908884) ($1.376.999): la Philips suma 20 bebidas preprogramadas y memoria para 4 perfiles de usuario, con mejor volumen de opiniones (162 contra 35), pero sus propios compradores avisan que "el precio es muy alto por lo que te ofrece" y que pide mantenimiento periódico (filtro cada 3 meses, desengrasante mensual, descalcificación). La De'Longhi cuesta $403.000 más, pero tiene estructura de acero inoxidable (la Philips es de plástico, según su propia ficha técnica).
+Contra la [Philips EP2231/42 Serie 2200 Lattego](/producto/cafetera-expresso-philips-ep2231-42-serie-2200-lattego-1-8l-negro-mla18154570) ({{precio:MLA18154570}}): la Philips también espuma la leche sola (sistema Lattego) y tiene un volumen de opiniones muchísimo más grande ({{reviews:MLA18154570}} contra {{reviews:MLA39987014}}), pero prepara menos bebidas de un solo toque que la De'Longhi. La De'Longhi cuesta varias veces más, pero suma 5 bebidas de un toque y estructura de acero inoxidable (la Philips es de acero esmaltado, según su propia ficha técnica).
 
-Contra la [Peabody PE-CE5023IX](/producto/cafetera-express-peabody-pe-ce5023ix-automatica-con-molinillo-mla53370426) ($1.044.999): la Peabody tiene molinillo integrado también, pero sus reseñas señalan justamente el molinillo como el punto flojo ("no alcanza a moler tan fino como para el expreso perfecto") y una ficha eléctrica de 20 A que puede pedir instalación dedicada. La De'Longhi cuesta casi el doble, pero no arrastra ninguna de esas dos quejas en las reseñas disponibles.
+Contra la [Peabody PE-CE5023IX](/producto/cafetera-express-peabody-pe-ce5023ix-automatica-con-molinillo-mla53370426) ({{precio:MLA53370426}}): la Peabody tiene molinillo integrado también, pero sus reseñas señalan justamente el molinillo como el punto flojo ("no alcanza a moler tan fino como para el expreso perfecto") y una ficha eléctrica de 20 A que puede pedir instalación dedicada. La De'Longhi cuesta alrededor de un 30% más, pero no arrastra ninguna de esas dos quejas en las reseñas disponibles.
 
-Contra la [Oster Perfect Brew EM7301](/producto/cafetera-espresso-oster-perfect-brew-em7301-con-molinillo-mla48828162) ($967.135): tiene mejor relación precio-rating (4.8★ en 138 opiniones) y un molinillo de 30 configuraciones elogiado en sus reseñas, pero no automatiza la espuma de leche — hay que manejar la lanza de vapor a mano. Es la alternativa lógica si la automatización total de la De'Longhi no justifica pagar casi el doble.
+Contra la [Oster Perfect Brew EM7301](/producto/cafetera-espresso-oster-perfect-brew-em7301-con-molinillo-mla48828162) ({{precio:MLA48828162}}): tiene buena relación precio-rating (4.8★ en {{reviews:MLA48828162}} opiniones) y un molinillo de 30 configuraciones elogiado en sus reseñas, pero no automatiza la espuma de leche — hay que manejar la lanza de vapor a mano. Es la alternativa lógica si la automatización total de la De'Longhi no justifica pagar más del doble.
 
 ## ¿Para quién es (y para quién no)?
 
-Es para vos si: el presupuesto no es la limitante, querés la automatización más completa del catálogo (grano molido al momento + espuma de leche sola, sin manijear nada), y valorás que la venda y despache Mercado Libre directamente. No es para vos si: buscás la mejor relación precio-resultado en la franja premium (ahí la Oster EM7301 sigue ganando), te preocupa comprar con una muestra chica de opiniones (35, la más chica del trío de cafeteras premium), o el consumo extra de café por lo cómoda que es la máquina te importa para el presupuesto mensual.
+Es para vos si: el presupuesto no es la limitante, querés la automatización más completa del catálogo (grano molido al momento + espuma de leche sola, sin manijear nada), y valorás que la venda y despache Mercado Libre directamente. No es para vos si: buscás la mejor relación precio-resultado en la franja premium (ahí la Oster EM7301 sigue ganando), te preocupa comprar con una muestra chica de opiniones ({{reviews:MLA39987014}}, de las más chicas entre las cafeteras premium del catálogo), o el consumo extra de café por lo cómoda que es la máquina te importa para el presupuesto mensual.
 
-A $1.779.914,53 con 4.7 estrellas y solo {{reviews:MLA39987014}} opiniones, es la cafetera más completa del catálogo, pero también la que menos margen de opiniones tiene para respaldar semejante precio.`,
+A {{precio:MLA39987014}} con 4.6 estrellas y {{reviews:MLA39987014}} opiniones, es la cafetera más completa del catálogo, pero también la más cara con diferencia.`,
     specs: [
       { label: 'Marca / Línea', value: "De'Longhi / Magnifica Start" },
       { label: 'Modelo', value: 'ECAM220.80.SB' },
@@ -54372,10 +54383,10 @@ A $1.779.914,53 con 4.7 estrellas y solo {{reviews:MLA39987014}} opiniones, es l
       { question: '¿Hace espuma de leche sola?', answer: 'Sí, con la tecnología LatteCrema Hot: arma espuma de leche fina y caliente sin que tengas que manejar una lanza de vapor a mano, con limpieza automática de un toque después de cada uso. Es la base de las bebidas Cappuccino y Latte Macchiato que prepara con un solo botón.' },
       { question: '¿Cuántas bebidas prepara con un toque?', answer: 'Cinco: Espresso, Café, Cappuccino, Latte Macchiato y Agua caliente. Todo se elige desde una pantalla digital con doble boquilla de salida.' },
       { question: '¿Quién vende y envía esta cafetera?', answer: 'La vende y despacha Mercado Libre directamente (Tienda Oficial, logística Full, más de un millón de ventas). Eso suma Compra Protegida, devolución gratis dentro de los 30 días, Factura A y 1 año de garantía de fábrica — un respaldo distinto al de comprarle a un vendedor particular.' },
-      { question: '¿Por qué cuesta $1.779.914,53?', answer: "Es la combinación más completa del catálogo: molinillo integrado, espuma de leche automática con LatteCrema Hot, 5 bebidas de un toque y la logística Full de Mercado Libre. Es un 29% más cara que la Philips EP5541/50 ($1.376.999) y casi el doble que la Peabody PE-CE5023IX ($1.044.999), las otras dos superautomáticas premium del catálogo." },
-      { question: "¿Conviene esta o la Peabody PE-CE5023IX?", answer: 'Las reseñas de la Peabody marcan el molinillo como punto flojo ("no alcanza a moler tan fino") y una ficha eléctrica de 20 A que puede pedir instalación dedicada. La De\'Longhi no arrastra ninguna de esas dos quejas en las reseñas disponibles, pero cuesta casi el doble ($1.779.914,53 contra $1.044.999).' },
-      { question: '¿Y contra la Philips EP5541/50?', answer: 'La Philips suma 20 bebidas preprogramadas y memoria para 4 perfiles, con más volumen de opiniones (162 contra 35) — pero sus propios compradores avisan que el precio es alto para lo que ofrece y que pide mantenimiento periódico (filtro, desengrasante, descalcificación). La De\'Longhi cuesta $403.000 más, pero tiene estructura de acero inoxidable (la Philips es de plástico, según su ficha técnica).' },
-      { question: '¿Es confiable comprar con pocas calificaciones?', answer: 'Es la pregunta correcta para este precio: {{reviews:MLA39987014}} es la muestra más chica entre las cafeteras automáticas más caras del catálogo (contra {{reviews:MLA63908884}} de la Philips EP5541/50 y {{reviews:MLA48828162}} de la Oster EM7301). Las cinco reseñas completas que pudimos revisar son todas de 5 estrellas, sin ninguna crítica seria más allá del mayor consumo de café que señala una compradora. Es una base sólida pero chica para una compra de casi $1,8 millones.' },
+      { question: '¿Por qué cuesta tanto?', answer: "Es la combinación más completa del catálogo: molinillo integrado, espuma de leche automática con LatteCrema Hot, 5 bebidas de un toque y la logística Full de Mercado Libre. Cuesta alrededor de un 30% más que la Peabody PE-CE5023IX ({{precio:MLA53370426}}), la otra superautomática premium del catálogo, y varias veces más que la Philips EP2231/42 ({{precio:MLA18154570}}), que es más simple pero mucho más barata." },
+      { question: "¿Conviene esta o la Peabody PE-CE5023IX?", answer: 'Las reseñas de la Peabody marcan el molinillo como punto flojo ("no alcanza a moler tan fino") y una ficha eléctrica de 20 A que puede pedir instalación dedicada. La De\'Longhi no arrastra ninguna de esas dos quejas en las reseñas disponibles, pero cuesta alrededor de un 30% más ({{precio:MLA39987014}} contra {{precio:MLA53370426}}).' },
+      { question: '¿Y contra la Philips EP2231/42?', answer: 'La Philips también espuma la leche sola (sistema Lattego), es mucho más barata ({{precio:MLA18154570}}) y tiene un volumen de opiniones enorme ({{reviews:MLA18154570}}), pero prepara menos bebidas de un solo toque. La De\'Longhi cuesta varias veces más, pero suma 5 bebidas de un toque y estructura de acero inoxidable (la Philips es de acero esmaltado, según su ficha técnica).' },
+      { question: '¿Es confiable comprar con pocas calificaciones?', answer: 'Es la pregunta correcta para este precio: {{reviews:MLA39987014}} es una muestra chica entre las cafeteras automáticas más caras del catálogo (contra {{reviews:MLA53370426}} de la Peabody PE-CE5023IX o {{reviews:MLA48828162}} de la Oster EM7301). Las reseñas completas que pudimos revisar son mayormente positivas, sin ninguna crítica seria más allá del mayor consumo de café que señala una compradora. Es una base razonable pero chica para una compra de este precio.' },
     ],
     customerReviews: [
       { rating: 5, country: 'Argentina', date: 'diciembre 2025', useful: 4, text: 'Muy buena cafetera. Excelente presentación y funcionamiento. Los materiales son de excelente calidad. La única parte mala: la cantidad de café que consumís se eleva exponencialmente con lo práctica que es usarla.' },
@@ -54388,7 +54399,7 @@ A $1.779.914,53 con 4.7 estrellas y solo {{reviews:MLA39987014}} opiniones, es l
       '@type': 'Product',
       name: "De'Longhi Magnifica Start ECAM220.80.SB",
       image: 'https://http2.mlstatic.com/D_NQ_NP_2X_886012-MLA99454642066_112025-F.webp',
-      description: "Cafetera espresso superautomática De'Longhi Magnifica Start ECAM220.80.SB, con molinillo integrado, espuma de leche automática LatteCrema Hot y 5 bebidas de un toque. Vendida y despachada por Mercado Libre Argentina (Full). 4.7 estrellas con 35 calificaciones.",
+      description: "Cafetera espresso superautomática De'Longhi Magnifica Start ECAM220.80.SB, con molinillo integrado, espuma de leche automática LatteCrema Hot y 5 bebidas de un toque. Vendida y despachada por Mercado Libre Argentina (Full). 4.6 estrellas con 48 calificaciones.",
       sku: 'ECAM220.80.SB',
       mpn: 'ECAM220.80.SB',
       brand: { '@type': 'Brand', name: "De'Longhi" },
@@ -54396,18 +54407,18 @@ A $1.779.914,53 con 4.7 estrellas y solo {{reviews:MLA39987014}} opiniones, es l
         '@type': 'Offer',
         url: 'https://www.mercadolibre.com.ar/cafetera-espresso-magnifica-ecam22080sb-15bar-color-gris-delonghi/p/MLA39987014',
         priceCurrency: 'ARS',
-        price: 1779914.53,
+        price: 2655000,
         availability: 'https://schema.org/InStock',
         itemCondition: 'https://schema.org/NewCondition',
         seller: { '@type': 'Organization', name: 'Mercado Libre Argentina' },
       },
       aggregateRating: {
         '@type': 'AggregateRating',
-        ratingValue: '4.7',
-        reviewCount: '35',
+        ratingValue: '4.6',
+        reviewCount: '48',
       },
     },
-    relatedProducts: ['MLA63908884', 'MLA53370426', 'MLA48828162'],
+    relatedProducts: ['MLA18154570', 'MLA53370426', 'MLA48828162'],
   },
 
   // ─────────────────────────────────────────────────────────
@@ -57786,7 +57797,7 @@ Ambas reviews también destacan algo positivo que la ficha de MercadoLibre no re
       { question: '¿Cuánto dura la garantía?', answer: 'La ficha de esta publicación indica 12 meses de garantía de fábrica, aunque una reseña real de un comprador menciona haber recibido 2,5 años. Confirmá la garantía vigente con el vendedor antes de comprar.' },
       { question: '¿Por qué tiene tantas más calificaciones que el resto de la guía?', answer: 'Es un modelo de entrada de gama de alto volumen de ventas en toda la región (la reseña más votada es de Brasil), por eso acumula miles de calificaciones frente a los cientos o decenas de otros modelos premium de esta comparativa.' },
     ],
-    relatedProducts: ['MLA18154570', 'MLA24006301', 'MLA63908884'],
+    relatedProducts: ['MLA18154570', 'MLA24006301', 'MLA53370426'],
     structuredData: {
       '@context': 'https://schema.org',
       '@type': 'Product',
@@ -57802,7 +57813,7 @@ Ambas reviews también destacan algo positivo que la ficha de MercadoLibre no re
       offers: {
         '@type': 'Offer',
         priceCurrency: 'ARS',
-        price: '779989',
+        price: '793999',
         availability: 'https://schema.org/InStock',
         seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
       },
@@ -57821,25 +57832,26 @@ Ambas reviews también destacan algo positivo que la ficha de MercadoLibre no re
     title: 'Cafetera Expresso Philips Ep2231/42 Serie 2200 Lattego 1.8l Negro',
     canonicalName: 'Philips EP2231/42 Serie 2200 Lattego',
     brand: 'Philips',
-    price: 898499,
+    price: 862628,
     originalPrice: 1449999,
-    priceUpdated: "2026-10-17",
-    priceLastChecked: "2026-10-17",
+    priceUpdated: "2026-11-02",
+    priceLastChecked: "2026-11-02",
+    priceVerifiedAt: "2026-11-02",
     priceStatus: "fresh",
     currency: 'ARS',
-    image: 'https://http2.mlstatic.com/D_NQ_NP_812447-MLA99915298947_112025-F.jpg',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_812447-MLA99915298947_112025-O.webp',
     images: [
-      'https://http2.mlstatic.com/D_NQ_NP_812447-MLA99915298947_112025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_812447-MLA99915298947_112025-O.webp',
     ],
     category: 'Cocina',
     categorySlug: 'cocina',
-    permalink: 'https://www.mercadolibre.com.ar/cafetera-expresso-philips-ep223142-serie-2200-lattego-18l-negro/p/MLA18154570',
+    permalink: 'https://www.mercadolibre.com.ar/p/MLA18154570',
     affiliateUrl: 'https://meli.la/2N57aNJ',
     condition: 'new',
     freeShipping: true,
     rating: 4.7,
-    reviewCount: 778,
-    reviewsSampledAt: '2026-10-17',
+    reviewCount: 806,
+    reviewsSampledAt: '2026-11-02',
     pastelColor: 'var(--pastel-violet)',
     visibility: 'normal',
     description: 'Cafetera Philips EP2231/42 Serie 2200 Lattego: super automática con sistema Lattego de espuma de leche integrado, #12 en el ranking de cafeteras de MercadoLibre Argentina con {{reviews:MLA18154570}} calificaciones. La más completa de la gama media de Philips en esta guía, con la honestidad de que el nivel barista queda afuera de su alcance.',
@@ -57872,7 +57884,7 @@ Una review profesional de una casa especializada en cafeteras (sobre otra varian
 
 ## Para quién tiene sentido
 
-Si lo que buscás es la comodidad de apretar un botón y tener espresso con leche sin tocar nada más, la EP2231/42 cumple y tiene el respaldo de casi 800 compradores reales. Si en cambio sos exigente con la calidad del café y buscás resultado de cafetería, ninguna automática de esta franja de precio (Philips o DeLonghi) te va a dejar completamente conforme: para eso existen las máquinas semi-profesionales con vaporizador manual, como La Specialista Arte Evo de la guía de DeLonghi.`,
+Si lo que buscás es la comodidad de apretar un botón y tener espresso con leche sin tocar nada más, la EP2231/42 cumple y tiene el respaldo de más de 800 compradores reales. Si en cambio sos exigente con la calidad del café y buscás resultado de cafetería, ninguna automática de esta franja de precio (Philips o DeLonghi) te va a dejar completamente conforme: para eso existen las máquinas semi-profesionales con vaporizador manual, como La Specialista Arte Evo de la guía de DeLonghi.`,
     specs: [
       { label: 'Marca / Modelo', value: 'Philips / EP2231/42 Serie 2200' },
       { label: 'Tipo', value: 'Cafetera súper automática' },
@@ -57911,14 +57923,14 @@ Si lo que buscás es la comodidad de apretar un botón y tener espresso con lech
       offers: {
         '@type': 'Offer',
         priceCurrency: 'ARS',
-        price: '898499',
+        price: '862628',
         availability: 'https://schema.org/InStock',
         seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
       },
       aggregateRating: {
         '@type': 'AggregateRating',
         ratingValue: '4.7',
-        reviewCount: '778',
+        reviewCount: '806',
         bestRating: '5',
         worstRating: '1',
       },
