@@ -1815,6 +1815,7 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Veredicto: cuál microondas comprar`, id: "veredicto" },
       { type: "verdict", content: `Para la mayoría, el **BGH Quick Chef 20L** a perilla: el más vendido y barato, simple y confiable para calentar y descongelar. Si preferís **control digital**, el **BGH Eco** (o el **Atma** como alternativa). Si querés **dorar y gratinar**, el **Samsung 23L** con grill (acordate del toma de 20A). Para **familia o más espacio**, el **BGH 28L**. El error a evitar: pagar grill o litros que no vas a usar, o quedarte corto de tamaño si son varios en casa.` },
+      { type: "p", content: `Si no corre apuro, puede convenir esperar a [Black Friday 2026 en Argentina: cómo saber si el descuento es real](/guias/hogar/black-friday-cybermonday-argentina) antes de comprar: te mostramos cómo confirmar con el historial real si el precio bajó de verdad.` },
     ],
     faq: [
       { question: `¿Cuál es el mejor microondas en Argentina?`, answer: `Para la mayoría, el [BGH Quick Chef 20L](https://meli.la/27RQQKV): es el más vendido del país (más de 4.100 opiniones), simple y barato, ideal para calentar y descongelar. Si querés control digital, el [BGH Eco](https://meli.la/2jy5EDC) o el [Atma](https://meli.la/2Gh5aGU); con grill, el [Samsung 23L](https://meli.la/2TU2ytf).` },
@@ -13552,6 +13553,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "p", content: `Ninja con su tecnología Crispi Wave apunta a una textura exterior más crocante. Funciona. La diferencia frente a marcas nacionales en papas y rebozados es perceptible.` },
       { type: "p", content: `Atma y Peabody son las más accesibles en precio y tienen el mejor soporte posventa en Argentina (garantía local, repuestos, service en todo el país). Para uso cotidiano sin grandes exigencias, rinden muy bien.` },
       { type: "p", content: `Gadnic y Suono son las más económicas en capacidad (Kanji dejó de serlo, su precio se duplicó en agosto de 2026). Funcionan, pero si en dos años necesitás un repuesto o un técnico, ahí está el riesgo real. No es imposible conseguirlo, pero no es tan fácil como con Atma o Philips.` },
+      { type: "p", content: `Si podés esperar, conviene mirar [Black Friday 2026 en Argentina: cómo saber si el descuento es real](/guias/hogar/black-friday-cybermonday-argentina) antes de comprar, para confirmar con el historial real si el precio bajó de verdad.` },
     ],
     faq: [
       {
@@ -18133,6 +18135,10 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
         title: "Dupes masculinos top"
       },
       {
+        type: "p",
+        content: "Estos cuatro son los dupes más buscados del lado masculino. Si en cambio buscás [perfumes árabes para hombre](/guias/mejores-perfumes-arabes-hombre) en general, no solo clones, tenemos el ranking completo de la categoría con 13 opciones."
+      },
+      {
         type: "h3",
         title: "1. Armaf Club de Nuit Intense Man — el dupe del Creed Aventus"
       },
@@ -18295,6 +18301,10 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       {
         type: "p",
         content: "¿Viste un frasco y no sabés cuál dupe es? Tenemos [perfumes árabes por color del frasco](/guias/perfumes-arabes-por-color) para identificarlo rápido. Y si recién arrancás en el nicho, [nuestra guía para empezar con perfumes árabes](/guias/perfumes-arabes) explica marcas, precios y cómo elegir el primero."
+      },
+      {
+        type: "p",
+        content: "Si podés esperar unas semanas, la ventana de [Black Friday 2026 en Argentina: cómo saber si el descuento es real](/guias/hogar/black-friday-cybermonday-argentina) puede mejorar varios de estos precios: te mostramos cómo confirmar con el historial real si la baja es de verdad antes de comprar."
       },
       {
         type: "h2",
@@ -18849,7 +18859,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       },
       {
         type: "p",
-        content: "El perfume árabe de hombre más vendido en Argentina es el Rasasi Hawas Ice (9.144 reseñas, 4.8⭐). Le siguen: **Asad Intense** (7.245, 4.6⭐) y **Afnan 9PM Elixir** (1.060, 4.8⭐). Los tres en familias olfativas distintas: Hawas Ice es fresco-frutal-acuático, Asad Intense es especiado-amaderado, 9PM Elixir es gourmand-oriental. Para profundizar en cada uno y conocer otras alternativas masculinas, ver el [top 10 de perfumes árabes para hombre](/guias/mejores-perfumes-arabes-hombre)."
+        content: "El perfume árabe de hombre más vendido en Argentina es el Rasasi Hawas Ice (9.144 reseñas, 4.8⭐). Le siguen: **Asad Intense** (7.245, 4.6⭐) y **Afnan 9PM Elixir** (1.060, 4.8⭐). Los tres en familias olfativas distintas: Hawas Ice es fresco-frutal-acuático, Asad Intense es especiado-amaderado, 9PM Elixir es gourmand-oriental. Para profundizar en cada uno y conocer otras alternativas masculinas, ver el top 10 de [perfumes árabes para hombre](/guias/mejores-perfumes-arabes-hombre)."
       },
       {
         type: "h2",
@@ -26315,6 +26325,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
 
       { type: "h2", title: `Veredicto: cuál smartwatch comprar`, id: "veredicto" },
       { type: "verdict", content: `Para la mayoría, el **[Xiaomi Redmi Watch 5 Lite](/producto/smartwatch-xiaomi-redmi-5-lite-1-96-negro-mla42520227)** es la compra más segura: el más vendido, con GPS real. Si buscás el más económico, el **[JD Venecia Sport](/producto/smartwatch-jd-venecia-sport-bluetooth-llamadas-pantalla-1-96-tactil-malla-color-mla26666337)**. Si priorizás más funciones, el **[Amazfit Bip 6](/producto/smartwatch-reloj-inteligente-amazfit-bip-6-amoled-1-97-gps-llamadas-bluetooth-5-mla51929440)**. Si tu prioridad es no cargarlo casi nunca, el **[Haylou Solar LS05S](/producto/smartwatch-haylou-solar-ls05s-reloj-inteligente-con-bateria-de-15-dias-mla24530447)**. Y si querés pagar sin contacto y tenés Android, el **[Samsung Galaxy Watch7](/producto/reloj-inteligente-samsung-galaxy-watch7-de-44-mm-con-bluetooth-galaxy-ai-pantall-mla38058572)**.` },
+      { type: "p", content: `Antes de pagar precio de lista, conviene mirar [Black Friday 2026 en Argentina: cómo saber si el descuento es real](/guias/hogar/black-friday-cybermonday-argentina): te explicamos cómo confirmar con el historial real si una baja es de verdad.` },
     ],
     faq: [
       { question: `¿Cuál es el mejor smartwatch en Argentina?`, answer: `Para la mayoría, el [Xiaomi Redmi Watch 5 Lite](/producto/smartwatch-xiaomi-redmi-5-lite-1-96-negro-mla42520227): el 1° más vendido de la categoría en MercadoLibre Argentina, con GPS real integrado.` },
@@ -32370,6 +32381,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       ] },
 
       { type: "verdict", content: `Para la mayoría, el **[Drean Next 6.06 Eco](/producto/lavarropas-automatico-drean-next-6-06-eco-carga-frontal-6-kg-600-rpm-mla6348146)**: es el más elegido de la comparativa por lejos, el más barato de los cinco y el de mejor eficiencia energética declarada. Compralo sabiendo que son **6 kg y 600 rpm**, o sea que es para una o dos personas. Si son familia, el **[Whirlpool de 8 kg](/producto/lavarropas-automatico-whirlpool-wnq80as-inverter-carga-frontal-8-kg-14-programas-mla21651412)** por sus 14 programas, asumiendo que hace ruido al arrancar. Si querés la ropa lo más seca posible al sacarla, el **[Samsung Serie 4](/producto/lavarropas-automatico-samsung-serie-4-ww70aa46bx-7-kg-1-400-rpm-eco-bubble-mla20798476)** con 1.400 rpm. Si el lavadero es angosto, el **[Samsung de 7 kg](/producto/lavarropas-automatico-samsung-inverter-7-kg-carga-frontal-6-programas-mla22827012)** con 55 cm de profundidad. Y si necesitás 10 kg sí o sí, el **[Whirlpool de carga superior](/producto/lavarropas-automatico-whirlpool-wwi16cs-carga-superior-10-kg-740-rpm-mla36014732)**, sabiendo que declara eficiencia D y que mide 1,05 m de alto.` },
+      { type: "p", content: `Si podés esperar unas semanas, conviene revisar [Black Friday 2026 en Argentina: cómo saber si el descuento es real](/guias/hogar/black-friday-cybermonday-argentina) antes de comprar, para confirmar con el historial real si el precio bajó de verdad.` },
 
       { type: "h2", title: `Preguntas frecuentes`, id: "faq" },
     ],
@@ -32504,6 +32516,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       ] },
 
       { type: "verdict", content: `Para la mayoría, la **Samsung RT29K577J**: declara la mejor eficiencia de la comparativa, trae inverter y tiene más de 1.100 opiniones detrás. Compralá sabiendo que **es bajita** y que sus estantes no están bien espaciados. Si son familia grande, la **Philco Side by Side** de 428 litros, que es la más elegida del grupo, asumiendo que no trae inverter. Si querés equilibrio entre litros y consumo, la **Whirlpool WRM42HB**, midiendo antes porque es la más alta de las que publican altura. Si necesitás elegir hacia qué lado abre, la **Gafa**. Y si el presupuesto manda, la **Philco de 174 litros**, sabiendo que es chica y que declara eficiencia B.` },
+      { type: "p", content: `Una heladera no es una compra que se apura: si podés esperar, conviene mirar [Black Friday 2026 en Argentina: cómo saber si el descuento es real](/guias/hogar/black-friday-cybermonday-argentina) antes de pagar precio de lista.` },
 
       { type: "h2", title: `Preguntas frecuentes`, id: "faq" },
     ],
