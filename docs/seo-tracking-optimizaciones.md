@@ -1,5 +1,25 @@
 # Tracking de optimizaciones de guías (SEO)
 
+## 2026-11-02 — Refresh de `perfumes-arabes-dupes` (reporte SEO semanal)
+
+Origen: checklist del reporte SEO semanal (`docs/seo-reports/2026-11-02.md`), oportunidad 2 ("2ª guía que más plata da del sitio, vencida hace 46 días; revisar stock, modelos nuevos y contras de reseñas; subir `updatedDate` solo si cambia algo real. Título como está"). GSC baseline (snapshot #59, 28 días): 577 clicks, 23.005 impresiones, posición 6.2, CTR 2.5%. No se tocó título/meta/slug/H1 (freeze intencional, ya rankea top 5-6).
+
+**Stock de los 9 productos del ranking:** confirmado `normal`/`fresh` en los 9 por el monitoreo automático — nada roto que arreglar ahí.
+
+**Modelos nuevos:** se revisó el listado de ML "dupe perfume arabe" (226 resultados) buscando un dupe de marca reconocida con volumen comparable a los 9 ya incluidos. No apareció ninguno — el resto son genéricos sin marca, de menor confianza. No se agregó ningún producto.
+
+**Hallazgo real — Rasasi Hawas Black (MLA41306043, rank 8):** tuvo un swap de vendedor el 31/10 (ver `docs/productos-sin-stock.md`). El `reviewCount` había quedado en 4.051 (heredado de la publicación vieja); la publicación vigente, verificada en vivo, tiene solo 4 reseñas reales (5.0★) y "+50 vendidos" (no 1.000). Se corrigieron `rating`/`reviewCount`/`reviewsSampledAt`/`soldQuantity`, y se reescribieron los pasajes de prosa (`pros`, `verdict`, `articleBody`, `metaDescription`, cierre "Para quién es y para quién no") que afirmaban literalmente "es de los perfumes árabes con más volumen de opiniones reales del catálogo" — con 4 reseñas reales esa afirmación pasó a ser directamente falsa. La reescritura distingue explícitamente el historial de la publicación anterior (comparaciones con Club de Nuit/Hacivat, duración reportada) de la publicación vigente. `customerReviews` citadas y FAQ no se tocaron: son reseñas reales fechadas sobre el mismo producto físico, siguen siendo legítimas.
+
+**Link duplicado detectado y corregido:** un agente de la misma sesión había agregado un link nuevo (ancla "perfumes árabes para hombre" → `mejores-perfumes-arabes-hombre`) sin saber que esta guía ya tenía uno casi idéntico de una sesión anterior (ancla "perfume árabe hombre", trio-auditado, ver abajo "Ya estaba hecho: links a mejores-perfumes-arabes-hombre"). Se sacó el duplicado nuevo, se dejó el original.
+
+**Link nuevo legítimo:** ancla exacta "Black Friday 2026 en Argentina: cómo saber si el descuento es real" → `/guias/hogar/black-friday-cybermonday-argentina`, antes del veredicto (también parte del checklist del reporte).
+
+`updatedDate` 2026-09-17 → 2026-11-02, `sitemapLastmod` sincronizado igual.
+
+**Trío auditor:** 3 pasadas hasta GO doble. 1ª (Codex NO-GO: `metaDescription` y cierre de `articleBody` seguían con "4,8"/"volumen real de opiniones" sin actualizar; Gemini falló por permisos headless, reintentado con `--dangerously-skip-permissions` autorizado por Juan en el chat). 2ª (Codex NO-GO: `soldQuantity` seguía en 1.000; Gemini GO limpio). 3ª (Codex GO, solo confirmando el fix de `soldQuantity`; sugirió sincronizar `sitemapLastmod` como mejora opcional, aplicado). Verificado tras cada pasada que `agy` no escribió nada en los archivos auditados (`git diff`/`git status` limpios salvo los cambios propios).
+
+**Verificación:** `npx tsc --noEmit`, `npm run guides:check`, `npm run build` en verde en cada pasada.
+
 ## 2026-10-24 — Ronda de mejoras SEO/GEO sobre guías existentes
 
 Origen: 3 research en paralelo (SEO técnico con datos reales de GSC, GEO/citabilidad en IA, engagement/retención), a pedido de Juan de "buscar posibles mejoras para el sitio". Se implementaron los ítems de esfuerzo chico/mediano y riesgo bajo; quedan pendientes los de esfuerzo mediano/grande para una ronda futura (ver lista al final).
@@ -3128,6 +3148,30 @@ Re-medir: ~2026-11-27, un mes después de publicada.
 
 **Refuerzo adicional (mismo día, a pedido de Juan: "algo más para fortalecer esas guías"):** se replicó el mismo patrón en las 6 guías hermanas del silo `robot-aspiradora` que todavía no enlazaban a `mejor-aspiradora-robot` — `robot-aspiradora-precio-argentina`, `robot-aspiradora-xiaomi`, `robot-aspiradora-gadnic`, `robot-aspiradora-con-mapeo-laser`, `como-funciona-robot-aspiradora` y `robot-aspiradora-atma` —, todas ya enlazaban al hub `robot-aspiradora` pero ninguna a la página de decisión. Con esto, `mejor-aspiradora-robot` pasa de 3 a 9 links internos entrantes desde guías del propio silo (las 3 previas: `robot-aspiradora` recién sumado, `mejores-robot-aspiradora-trapeadora` y `robot-aspiradora-roomba`, ya existentes). No se buscó un paralelo igual de limpio para `chromecast` fuera del silo tech: `parlantes` y `auriculares-inalambricos` (las guías de audio que `chromecast` sí enlaza) mantienen su enlazado interno acotado 100% al silo audio por diseño, así que cruzar ese límite no sigue un patrón ya establecido — se dejó sin tocar. Verificado de nuevo: `tsc --noEmit`, `npm run build`, `check-guide-internal-links` (0 rotos sobre 289 guías) y `check-canonical-product-links` en verde; confirmado en navegador que el link nuevo renderiza en `robot-aspiradora-atma`.
 
-**Pendiente, no ejecutado hoy:** el resto del bucket "PARCIAL" de la auditoría de guías genéricas (cafetera-italiana, cocina-a-gas, amoladora, termotanque-a-gas, mancuernas, mouse-inalambrico, almohada-cervical, prensa-francesa, entre otras) — Juan pidió arrancar por estas dos, no las siguientes.
-
 Re-medir: ~2026-11-27, un mes después (mismo criterio: 3-4 semanas mínimo para separar el efecto del enlace nuevo de la maduración natural).
+
+## Resto del bucket "PARCIAL" (28 guías genéricas, pos 6-15 en la variante de investigación) — 2026-10-27
+
+**Origen:** Juan pidió seguir con el resto de la lista "PARCIAL" (cafetera-italiana, mancuernas, etc.) de la auditoría de guías genéricas. Se recuperó el archivo `/tmp/generico-audit.json` de esa auditoría (173 guías clasificadas), se armó un grafo de `category`/`internalLinks` de las 289 guías vía script (`/tmp/guides-graph.json`) para detectar reciprocidad real, y se procesaron las 28 guías "PARCIAL" restantes (excluidas chromecast y robot-aspiradora, ya cerradas arriba).
+
+**Resultado de la clasificación:** de las 28, solo 7 tenían hermanas reales en su categoría sin el link de vuelta (candidatas a refuerzo de enlazado) y 2 tenían un hueco de contenido genuino (sin la pregunta "¿cuál es mejor?" en su FAQ) con antigüedad suficiente para tocarlas. Las otras ~19 (ventilador-de-pie, impresora-3d, amoladora, termotanque-a-gas, mouse-inalambrico, teclado-gamer, parrilla-electrica, casco-bicicleta, camara-deportiva, power-bank-solar, cepillo-de-dientes-electrico, almohada-cervical, tabla-planchar, botas-de-presoterapia, lavarropas/heladera ya cubiertas abajo) **ya tenían la FAQ "cuál es mejor X" bien puesta y ningún hueco de enlazado real** (o no tienen hermanas en su categoría, o ya reciben cross-sell desde guías afines de otro silo) — no había más margen de mejora de bajo riesgo sin forzar un link o una reescritura.
+
+**Enlazado interno sumado (sin tocar prosa), 3 clusters:**
+1. **Cafeteras:** el hub `cafetera-express` ya enlazaba a `cafetera-italiana` pero no a `prensa-francesa` (hermana del mismo tipo "manual"). Se sumó el link. `que-cafetera-comprar` (la guía de decisión del silo) no se tocó porque su alcance declarado es solo 3 sistemas (express/cápsulas/filtro): forzar italiana/prensa ahí sería un link fuera de alcance, no un refuerzo natural.
+2. **Cuidado personal (herramientas de pelo):** sub-cluster real dentro de la categoría amplia `cuidado-personal` (`secador-de-pelo` hub + `cepillo-secador`, `cortadora-de-pelo`, `depiladora-electrica`, `planchita-de-pelo`, `planchita-de-pelo-profesional`). El hub no enlazaba a `planchita-de-pelo-profesional` (único hueco del hub); `cepillo-secador`, `cortadora-de-pelo` y `planchita-de-pelo-profesional` se completaron cruzándose entre sí y con `depiladora-electrica`. **Se descartó explícitamente** enlazar `cepillo-de-dientes-electrico` (higiene bucal) desde este sub-cluster pese a compartir la categoría amplia: forzar un link cepillo-de-pelo→cepillo-de-dientes no sigue ningún patrón temático real del sitio.
+3. **Robot aspiradora (cierre del cluster, continuación de la entrada anterior):** a `mejores-robot-aspiradora-trapeadora` le faltaban 4 hermanas (`robot-aspiradora-xiaomi`, `robot-aspiradora-samsung`, `robot-aspiradora-roomba`, `aspiradora-robot-gadnic-vs-xiaomi`), ya sumadas. También se sumó `mandolina-de-cocina` → `robot-de-cocina` (ambos aparatos de prep de cocina, mismo patrón que sus otros links a procesadora/batidora/exprimidor).
+
+**Contenido: 3 preguntas de FAQ nuevas (hueco real, no solo link), con antigüedad verificada antes de tocar:**
+- `lavarropas-carga-frontal-o-superior` (68 días sin tocar): no tenía bloque `faq` del todo. Se agregó un único FAQ "¿Cuál es mejor, un lavarropas de carga frontal o de carga superior?", honesto con la tesis real de la guía (no lo decide el formato, decide el rpm).
+- `heladera-no-frost-o-ciclica` (68 días sin tocar): mismo caso, sin `faq`. Se agregó "¿Cuál es mejor, una heladera no frost o cíclica?".
+- `colchon-inflable-2-plazas` (74 días sin tocar): ya tenía FAQ de 8 preguntas pero ninguna con el patrón exacto. Se agregó "¿Cuál es el mejor colchón inflable de 2 plazas en Argentina?" como primera entrada, sin tocar las 8 existentes.
+
+**Dejadas para más adelante, por frescura (no por falta de hueco):** `mancuernas` (actualizada hace 15 días, 2026-10-12) y `botas-de-presoterapia` (publicada hace 19 días, 2026-10-08) tienen el mismo hueco de FAQ ("¿cuál es mejor?" ausente) pero están por debajo de las "varias semanas" mínimas de la regla `no-reoptimizar-guias-frescas`: tocar contenido tan pronto resetea la señal de evaluación de Google. Revisar de nuevo a partir de mediados de noviembre (~3-4 semanas desde su último touch).
+
+**Gotcha de esta ronda:** el primer chequeo automático de "¿tiene la guía la pregunta 'cuál es mejor'?" usaba una regex que solo matcheaba comillas invertidas (\`...\`) y venía con un error de límites de ventana (bleeding al guide siguiente). Produjo 2 falsos positivos (`cocina-a-gas` y `ventilador-de-pie` parecían no tener la pregunta cuando sí la tenían, con comillas dobles). Se corrigió la regex para aceptar ambos estilos de comillas y se limitó la ventana al rango real de cada guía (entre su `slug:` y el siguiente) antes de confiar en el resultado y editar nada.
+
+**Verificación:** `npx tsc --noEmit`, `npm run build`, y 5 scripts de check (`check-guide-internal-links` 0 rotos / 289 guías, `check-canonical-product-links`, `check-guide-monetization`, `check-hardcoded-reviews` sin subir el techo de 1059, `check-price-tokens`) en verde. Verificado en navegador: las 3 FAQ nuevas renderizan y el schema FAQPage las toma automático (el componente ya inserta el H2 "Preguntas frecuentes" solo con que `guide.faq` no esté vacío, no hace falta agregarlo a mano en `sections`).
+
+**Pendiente, no ejecutado hoy:** las 18 guías "GAP" (estructural, mayormente nicho/bajo volumen) de la auditoría original, y el seguimiento de `mancuernas`/`botas-de-presoterapia` cuando maduren.
+
+Re-medir: ~2026-11-27, un mes después (mismo criterio que arriba).

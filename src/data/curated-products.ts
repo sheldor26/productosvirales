@@ -41287,21 +41287,23 @@ Comprar a vendedores con reputación verificada en Mercado Libre y desconfiar de
     // Publicación original (MLA41306043) se quedó sin stock, verificado en
     // vivo el 2026-10-31 ("Este producto no está disponible por el momento").
     // Swap de vendedor (mismo producto, otro publicador): catálogo
-    // MLAU4354012090 / item MLA2098005177, 5.0★, +25 vendidos. Volver a la
-    // publicación original si recupera stock — permalink viejo comentado abajo.
-    // IMPORTANTE: reviewCount/rating/customerReviews de este ficha siguen
-    // siendo los de la publicación ORIGINAL (reviewCount guardado: 4051) — la
-    // nueva publicación tiene mucho menos historial. Pendiente de revisión editorial
-    // si esto se vuelve una ficha de largo plazo (ver docs/productos-sin-stock.md).
+    // MLAU4354012090 / item MLA2098005177. Volver a la publicación original
+    // si recupera stock — permalink viejo comentado abajo.
+    // RESUELTO 2026-11-02: reviewCount/rating ya reflejan la publicación
+    // NUEVA (verificada en vivo), no la heredada de la original (que tenía
+    // un rating distinto y muchísimas más opiniones acumuladas). La prosa
+    // (pros/verdict/articleBody) se reescribió para no seguir afirmando que
+    // es de los perfumes con más volumen de opiniones del catálogo: la
+    // publicación vigente hoy tiene muy pocas reseñas propias.
     // permalink viejo: "https://www.mercadolibre.com.ar/perfume-rasasi-hawas-black-100ml-eau-de-parfum-aromatico-frutal-unisex/p/MLA41306043"
     permalink: "https://www.mercadolibre.com.ar/perfume-rasasi-hawas-black-100ml-eau-de-parfum-aromatico-fru/up/MLAU4354012090",
     affiliateUrl: "https://meli.la/12K2goY",
     condition: "new",
     freeShipping: true,
-    rating: 4.8,
-    reviewCount: 4051,
-    reviewsSampledAt: "2026-07-09",
-    soldQuantity: 1000,
+    rating: 5.0,
+    reviewCount: 4,
+    reviewsSampledAt: "2026-11-02",
+    soldQuantity: 50,
     pastelColor: "var(--pastel-pink)",
     olfactiveFamily: ["Aromática frutal", "Amaderada"],
     notes: {
@@ -41316,14 +41318,14 @@ Comprar a vendedores con reputación verificada en Mercado Libre y desconfiar de
     volume: 100,
     volumeUnit: "mL",
     seoTitle: "Rasasi Hawas Black 100ml: review y precio Argentina",
-    metaDescription: "Análisis del Rasasi Hawas Black EDP 100ml: notas confirmadas, rating 4,8 en {{reviews:MLA41306043}} reseñas y si es unisex de verdad. Precio actualizado en Argentina.",
+    metaDescription: "Análisis del Rasasi Hawas Black EDP 100ml: notas confirmadas, rating {{rating:MLA41306043}} en {{reviews:MLA41306043}} reseñas y si es unisex de verdad. Precio actualizado en Argentina.",
     ogTitle: "Rasasi Hawas Black 100ml: aromático frutal con fondo de pachulí y maderas",
     ogDescription: "Piña, bergamota y toronja arriba; pachulí, cedro y jazmín en el medio; musgo de roble y ámbar de fondo. Rating {{rating:MLA41306043}} en {{reviews:MLA41306043}} reseñas, aunque no es tan unisex como dice el título.",
     h1: "Rasasi Hawas Black 100ml: review con datos reales y reseñas",
     description: "Eau de parfum aromático frutal con apertura de piña, bergamota y toronja, corazón de pachulí, cedro y jazmín, y fondo de musgo de roble y ámbar. Se vende como unisex, aunque la ficha técnica de Mercado Libre lo clasifica como perfume de hombre y las reseñas lo describen como un aroma maduro.",
     pros: [
       "Notas confirmadas por Fragrantica y por la ficha técnica de Rasasi en Mercado Libre: piña, bergamota y toronja arriba, pachulí, cedro y jazmín en el medio, musgo de roble y ámbar de fondo.",
-      "Rating muy alto con volumen real: 4,8 sobre {{reviews:MLA41306043}} reseñas, de los más consistentes del catálogo de perfumes árabes.",
+      "Rating perfecto en la publicación actual ({{rating:MLA41306043}} sobre {{reviews:MLA41306043}} reseñas), aunque es una publicación nueva tras un cambio de vendedor: el historial grande de opiniones que tenía antes pertenece a la publicación original, hoy sin stock.",
       "Proyección fuerte, se nota en la ropa y en quien tenés cerca según varias reseñas.",
       "Varios compradores lo comparan directo con Club de Nuit Intense de Armaf y con Hacivat, y lo encuentran muy similar en el registro cítrico-amaderado.",
       "Incluye estuche y trae un sello con código para verificar autenticidad en el sitio de Rasasi.",
@@ -41334,7 +41336,7 @@ Comprar a vendedores con reputación verificada en Mercado Libre y desconfiar de
       "Reseñas advierten que puede sentirse demasiado maduro para menores de 30 años. Conviene probarlo antes si es tu primer perfume árabe.",
       "Solo viene en 100ml, sin opción de frasco chico para probar antes de comprar el tamaño completo.",
     ],
-    verdict: "A alrededor de {{precio:MLA41306043:k}} por 100ml, con {{rating:MLA41306043}} de rating en {{reviews:MLA41306043}} reseñas, Hawas Black es de los perfumes árabes con más volumen de opiniones reales del catálogo. Cumple si buscás un aromático frutal con fondo serio de pachulí, parecido al Club de Nuit Intense o al Hacivat. Ojo con el rótulo unisex: la propia ficha de Mercado Libre lo marca como perfume de hombre y las reseñas lo describen como un aroma de hombre maduro, así que si buscás algo realmente parejo para cualquier género, conviene probarlo antes. Lo honesto: el vendedor original se quedó sin stock el 31/10/2026 y pasamos a otra publicación del mismo producto; esa publicación nueva tiene mucho menos historial de ventas que el que reflejan estas {{reviews:MLA41306043}} reseñas, heredado de la publicación original.",
+    verdict: "A alrededor de {{precio:MLA41306043:k}} por 100ml, con {{rating:MLA41306043}} de rating en {{reviews:MLA41306043}} reseñas, Hawas Black cumple si buscás un aromático frutal con fondo serio de pachulí, parecido al Club de Nuit Intense o al Hacivat (comparaciones que vienen del historial del producto bajo su publicación anterior, con miles de reseñas, antes del cambio de vendedor). Ojo con el rótulo unisex: la propia ficha de Mercado Libre lo marca como perfume de hombre y las reseñas lo describen como un aroma de hombre maduro, así que si buscás algo realmente parejo para cualquier género, conviene probarlo antes. Lo honesto: el vendedor original se quedó sin stock el 31/10/2026 y pasamos a otra publicación del mismo producto; es nueva, con pocas reseñas propias todavía, aunque las que tiene son 5 estrellas.",
     bestSeason: ["Otoño", "Invierno", "Noches de verano"],
     bestOccasion: ["Salidas nocturnas", "Citas", "Eventos formales"],
     notRecommendedFor: ["Uso diurno de oficina", "Primer perfume árabe sin probarlo antes", "Menores de 30 según varias reseñas"],
@@ -41370,7 +41372,7 @@ Comprar a vendedores con reputación verificada en Mercado Libre y desconfiar de
     aiReviewSummary:
       "Los compradores destacan la proyección fuerte y el fondo amaderado-pachulí, y lo comparan seguido con Club de Nuit Intense y con Hacivat. El punto de fricción es el género: se vende como unisex pero varias reseñas y la propia ficha técnica lo describen como un perfume de hombre maduro, no recomendado para menores de 30.",
 
-    articleBody: `Hawas Black es la versión 2024 de la línea Hawas de Rasasi, la casa emiratí conocida por perfumes árabes que buscan parecerse a fragancias caras a una fracción del precio. Esta variante suma pachulí y musgo de roble al ADN cítrico-frutal de la línea, apuntando a un perfil más serio para la noche. En Mercado Libre Argentina acumula {{rating:MLA41306043}} de rating sobre {{reviews:MLA41306043}} reseñas, uno de los volúmenes de opiniones más altos de todo el catálogo de perfumes árabes (heredado de la publicación original; el vendedor se quedó sin stock el 31/10/2026 y la publicación vigente hoy tiene mucho menos historial propio).
+    articleBody: `Hawas Black es la versión 2024 de la línea Hawas de Rasasi, la casa emiratí conocida por perfumes árabes que buscan parecerse a fragancias caras a una fracción del precio. Esta variante suma pachulí y musgo de roble al ADN cítrico-frutal de la línea, apuntando a un perfil más serio para la noche. En Mercado Libre Argentina la publicación vigente acumula {{rating:MLA41306043}} de rating sobre {{reviews:MLA41306043}} reseñas: es una publicación nueva, con pocas opiniones propias todavía, después de que el vendedor original (que llegó a tener miles de reseñas) se quedara sin stock el 31/10/2026. Las comparaciones con otros perfumes que siguen más abajo vienen de ese historial más grande, porque es el mismo producto fabricado por Rasasi, solo que vendido hoy por otra publicación.
 
 ## ¿Es tan unisex como dice el título?
 
@@ -41406,7 +41408,7 @@ Una reseña detallada describe el proceso: la caja trae un sello que se raspa co
 
 ## Para quién es y para quién no
 
-Es para vos si: ya usás perfumes árabes y buscás algo con fondo serio de pachulí y maderas para la noche; te gusta el registro de Club de Nuit pero querés variar; tenés más de 30 años o no te molesta un perfume que se lee maduro; buscás volumen real de opiniones antes de comprar, con {{reviews:MLA41306043}} reseñas y 4,8 de rating. No es para vos si: buscás un unisex parejo en el sentido literal, ya que la propia ficha lo marca como perfume de hombre; es tu primer perfume árabe y preferís algo más amable para arrancar; necesitás una duración de 8 horas garantizada en piel sin variación; querés probar un frasco chico antes de comprometerte con 100ml.`,
+Es para vos si: ya usás perfumes árabes y buscás algo con fondo serio de pachulí y maderas para la noche; te gusta el registro de Club de Nuit pero querés variar; tenés más de 30 años o no te molesta un perfume que se lee maduro; te alcanza con el historial del producto bajo su publicación anterior (miles de reseñas con 4,8 de rating) aunque la publicación vigente hoy sea nueva, con {{rating:MLA41306043}} en {{reviews:MLA41306043}} reseñas propias. No es para vos si: buscás volumen real de opiniones en la publicación actual antes de comprar, ya que todavía tiene poco historial propio; buscás un unisex parejo en el sentido literal, ya que la propia ficha lo marca como perfume de hombre; es tu primer perfume árabe y preferís algo más amable para arrancar; necesitás una duración de 8 horas garantizada en piel sin variación; querés probar un frasco chico antes de comprometerte con 100ml.`,
 
     specs: [
       { label: "Marca", value: "Rasasi" },
