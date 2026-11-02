@@ -1,5 +1,35 @@
 # Tracking de optimizaciones de guías (SEO)
 
+## 2026-11-02 — Refresh de `planchita-de-pelo` (reporte SEO semanal, backlog "vencidas con más afiliados")
+
+Origen: continuación del backlog de refreshes de guías vencidas iniciado con `perfumes-arabes-dupes` (ver entrada de abajo). Primera optimización real de esta guía desde su creación (2026-07-06); no tenía baseline de optimización previo en este archivo. Keyword principal "planchita de pelo" en posición 2.0 en GSC (36% cobertura) → freeze intencional de título/H1/slug, solo se tocó contenido.
+
+**Verificación en vivo de los 6 productos del ranking** (MercadoLibre, vía Chrome real por bloqueo del navegador interno): se encontraron 4 hallazgos reales, ninguno era obvio por el monitoreo automático (`priceStatus: fresh` en los 6 antes de esta revisión porque el script de precios vía API oficial devuelve `API_HTTP_401` — token vencido, pendiente de que Juan lo renueve; avisado aparte).
+
+1. **GA.MA (MLA44129880):** el catálogo tenía `rating: 4.8` pero la publicación vigente mide **4.7** (29.623 calificaciones, no 26.360). El texto de la guía ya decía "4.7" correctamente — el dato desactualizado estaba solo en `curated-products.ts`. Corregido.
+2. **Allure (MLA24043222):** al revés — el catálogo tenía `rating: 4.8` (correcto), pero la guía hardcodeaba "4.7 en más de 1.000 calificaciones" en el product-card. Corregido a "4.8 en más de 2.000" (live: 4.8/2.281).
+3. **Precio de Revlon (MLA47856504) mal cargado:** el catálogo tenía `price: 399999`; la publicación real cuesta **$69.999**. Error de carga de datos (no una baja real), confirmado comparando título exacto de la ficha. Corregido.
+4. **Philips 5000 (MLA44124334) con riesgo de vendedor:** precio subió de $116.639 a **$210.000** (casi el triple de la GA.MA, no "el doble" como decía la guía) y la única publicación activa en este momento la vende **NIHUEPISANI, 0 ventas, "no brinda buena atención"** — mismo patrón que el swap de Rasasi Hawas Black de la sesión anterior. Se evaluó una alternativa más barata ($90.000, vendedor ADRIANAPEDRONETTO) pero tiene 3 ventas, 0 reseñas y "última en stock": tampoco es buena. Decisión: mantener el pick (mismo producto físico, mismas {{reviews}}/{{rating}} históricas reales), pero reescribir el párrafo "Lo honesto" con el precio correcto y una advertencia explícita de comprarle a este vendedor puntual antes de confirmar. Reflejado también en la sección de precios por tramos (Philips pasó de agruparse con la Remington a tener su propio tramo, más cerca del precio de la BaByliss).
+
+**Precios de los 6 productos actualizados a valor real verificado a mano** (GA.MA $59.712→$70.799, Remington $65.000→$70.999, BaByliss $212.491→$310.000, Philips $116.639→$210.000, Revlon $399.999→$69.999, Allure $40.779→$21.660), cada uno con `priceVerifiedAt: "2026-11-02"` para que no se pisen solos por 7 días. `reviewCount` de los 6 actualizado a la cifra real vigente.
+
+**Sección de precios por tramos reescrita:** agrupaba a la Remington ($70.999) y la Philips ($210.000, antes de este refresh $116.639) en el mismo tramo "con extras" — dejó de tener sentido con el precio nuevo de Philips. Ahora: tramo económico (Allure), tramo "punto justo" (GA.MA + Revlon + Remington, las tres ~$70-71k), tramo propio para Philips (con la advertencia de vendedor), tramo profesional (BaByliss). Título del H2 también tenía `[julio 2026]` hardcodeado sin actualizar desde la creación; pasó a `[noviembre 2026]`.
+
+**Pendiente para Juan (no bloqueante, fuera de esta guía):** el script `scripts/update-prices-from-ml.cjs` está devolviendo `API_HTTP_401` en los 6 productos probados — el token de la API oficial de MercadoLibre parece vencido. Esto afecta la corrida automática de precios en general, no solo esta guía.
+
+**Trío auditor — 4 pasadas hasta GO doble (pedido de Juan: nivel "obra maestra", no un GO con pendientes).**
+- Pasada 1: Codex NO-GO (fichas de Philips, Revlon y Allure en `curated-products.ts` seguían con precios/ratings/reviewCount viejos en la prosa, pese a que los campos estructurados ya estaban corregidos) + agy sin salida (timeout). Se corrigieron las 3 fichas.
+- Pasada 2: Codex GO condicional + agy NO-GO, con 2 hallazgos reales que Codex no había visto: la ficha de Remington seguía diciendo "cuesta bastante más que la GA.MA" cuando con los precios nuevos están a $200 de diferencia (prácticamente iguales), y una inconsistencia de conteo de Allure entre guía y ficha ("más de 1.000" vs "más de 2.000"). Se corrigieron las 3 menciones de Remington y se unificó Allure.
+- Pasada 3 (Codex puntual): encontró que `cons[0]` de Remington seguía siendo una contra basada en precio ("más cara que las comunes"), contradiciendo los 3 pasajes recién corregidos. Se reemplazó por un dato honesto no relacionado al precio (cable 1,8 m contra los 3 m de la BaByliss).
+- Pasada 4 (confirmación final, Codex + agy): agy encontró el último resabio — el `verdict` de la ficha Remington y el párrafo equivalente de la guía seguían diciendo "pagás ese diferencial", lo que sugería un sobreprecio que ya no existe. Se reformuló a "no hay sobreprecio real, pero te quedás con una base de opiniones más chica". También se terminó de unificar Allure a "más de 2.000" en los 3 campos que quedaban con "más de 1.000" (description, metaDescription, verdict).
+- Pasada 5 (confirmación, ambos): **GO / GO final.** Verificaron que todas las comparaciones relativas de precio (triple, 4 a 5 veces, mitad, fracción) y los conteos de reseñas son matemáticamente correctos contra los precios y `reviewCount` reales a esta fecha.
+
+Lección para la próxima: al corregir precios/ratings de productos que aparecen en una guía, revisar también la prosa de la ficha individual (`curated-products.ts`: description, pros, cons, verdict, articleBody, faq) y no solo los campos estructurados — ahí es donde el trío encontró la mayoría de los hallazgos reales de esta tanda. También conviene, al tocar el precio de un producto, grepear comparaciones relativas de precio ("doble", "triple", "mitad", "más cara/barata que", "por menos plata") entre TODOS los productos de la guía, no solo el que cambió: el salto de precio de Philips invalidó una frase sobre Remington que nadie tocó a propósito.
+
+`updatedDate`: 2026-09-07 → 2026-11-02.
+
+---
+
 ## 2026-11-02 — Refresh de `perfumes-arabes-dupes` (reporte SEO semanal)
 
 Origen: checklist del reporte SEO semanal (`docs/seo-reports/2026-11-02.md`), oportunidad 2 ("2ª guía que más plata da del sitio, vencida hace 46 días; revisar stock, modelos nuevos y contras de reseñas; subir `updatedDate` solo si cambia algo real. Título como está"). GSC baseline (snapshot #59, 28 días): 577 clicks, 23.005 impresiones, posición 6.2, CTR 2.5%. No se tocó título/meta/slug/H1 (freeze intencional, ya rankea top 5-6).

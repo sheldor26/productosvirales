@@ -16,6 +16,16 @@
 **Archivos involucrados:** `path/a/archivo.ts`
 -->
 
+## 2026-11-02 — Repetí un error ya documentado: corregir el dato en la guía y olvidar la ficha del producto
+
+**Qué pasó:** al refrescar `planchita-de-pelo`, actualicé precio/rating/reviewCount de los 6 productos en los campos estructurados de `curated-products.ts` y arreglé la prosa de la guía (`guides.ts`), pero no revisé la prosa de las 6 fichas individuales (description, pros, cons, verdict, articleBody, faq). Codex lo marcó NO-GO en la primera ronda del trío auditor: 3 fichas (Philips, Revlon, Allure) tenían precios/ratings/reviewCount viejos hardcodeados en el texto, pese a que los campos estructurados ya estaban bien. Encima, el salto de precio de Philips (de $116.639 a $210.000) rompió una comparación relativa en la ficha de OTRO producto que no había tocado (Remington: "cuesta bastante más que la GA.MA" dejó de ser cierto) — eso recién lo encontró agy en la segunda ronda, y tardó 3 rondas más en terminar de limpiarse (una contra residual basada en precio, y un "pagás ese diferencial" que sugería un sobreprecio que ya no existía).
+
+**Por qué:** ya existe una entrada en `LEARNINGS.md` (2026-10-30) que documenta exactamente este patrón — "un superlativo corregido en la guía puede seguir vivo, textual, en la ficha del producto" — y no la apliqué de forma proactiva al empezar el refresh. Además, nunca until ahora había pasado que cambiar el precio de UN producto rompiera una frase comparativa en la ficha de OTRO producto de la misma guía; no tenía ese chequeo en la rutina.
+
+**Cómo evitarlo:** cuando se corrige precio/rating/reviewCount de un producto que aparece en una guía, antes de dar el refresh por terminado: (1) grepear el ID del producto en `curated-products.ts` y revisar TODA su prosa (no solo los campos estructurados), (2) grepear en la ficha de los DEMÁS productos de la misma guía comparaciones relativas de precio ("más cara/barata que", "doble", "triple", "mitad", "por menos/más plata") que puedan haberse vuelto falsas por el cambio, no solo en la ficha del producto que cambió. Ninguno de estos dos chequeos está automatizado todavía (`guides:check` no los cubre); por ahora depende de hacerlos a mano antes de la primera pasada del trío, no de que el trío los encuentre.
+
+**Archivos involucrados:** `src/data/curated-products.ts`, `src/data/guides.ts`
+
 ## 2026-11-02 — Mail de cupones Cyber Monday salió con el asunto ($45.000) inconsistente con el banner ($80.000)
 
 **Qué pasó:** al armar `scripts/notify-coupon-email.cjs`, el asunto y el preheader del mail se calculan automáticamente con `topCoupon()` sobre los cupones `active` en `coupons.ts` (toma el de mayor descuento). Cuando NOVIEMBREON ($80.000) se verificó agotado en el carrito real y se desactivó, el asunto pasó a calcular $45.000 solo. Juan pidió explícitamente "dejalo con el banner de 80.000" para la imagen del banner (como gancho visual, aceptando que NOVIEMBREON ya no aparece en la lista funcional de cupones de abajo). Solo restauré la imagen del banner a la versión de $80.000 — no caí en que el asunto, calculado por separado, también necesitaba reconciliarse con esa misma decisión. El mail salió a 37 suscriptores con el asunto diciendo "$45.000" y el banner de adentro diciendo "$80.000": inconsistente, y ya no se puede deshacer una vez enviado.
