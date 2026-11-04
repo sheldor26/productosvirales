@@ -3408,3 +3408,57 @@ Re-medir: ~2026-11-27, un mes después (mismo criterio: 3-4 semanas mínimo para
 **Pendiente, no ejecutado hoy:** las 18 guías "GAP" (estructural, mayormente nicho/bajo volumen) de la auditoría original, y el seguimiento de `mancuernas`/`botas-de-presoterapia` cuando maduren.
 
 Re-medir: ~2026-11-27, un mes después (mismo criterio que arriba).
+
+## `termotanque-electrico` — refresh acotado por brecha posición/conversión — 2026-11-03
+
+**Baseline (GSC snapshot del 2026-11-03, 28 días):** 81 clicks, 6.147 impresiones, posición promedio 5,68, CTR 1,32%. GA4: solo 7 afiliados en 28 días pese a la buena posición. `updatedDate` previo: 2026-07-09 (117 días sin tocar, nunca optimizada desde su creación).
+
+**Diagnóstico (no era AIO ni stock):** desglose por query mostró que ~205 impresiones (un tercio del total) venían de un cluster "marca" ("mejores marcas de termotanque electrico", "que marca de termotanque electrico es mejor", "cual es la mejor marca de termotanque electrico"), posiciones 3 a 7, **0% de CTR**. Verificación manual en vivo (Google AR, sin sesión) para esa query: sin AI Overview; el SERP está dominado por ads + 2 carruseles de video (YouTube/Reels) + PAA antes de los resultados web, y la guía no aparecía en la primera pantalla. La guía nunca respondía explícitamente "qué marca es mejor" pese a que Keyword Planner confirmó volumen real repartido por marca (Señorial 1.600-1.900/mes, Saiar 1.300/mes, Sherman 1.300/mes, Escorial 880-1.000/mes, Rheem 880/mes) — Saiar y Escorial no están en el catálogo del sitio.
+
+**Cambios (sin tocar título/meta/slug/H1, freeze por posición ya buena):**
+1. H2 nuevo "¿Qué marca de termotanque eléctrico es mejor?" + lista + FAQ equivalente, respondiendo directo el cluster de 0% CTR. Menciona Saiar/Escorial por nombre, aclarando honestamente que no están en la comparativa por falta de historial de opiniones verificadas (sin inventar precio/specs/rating de esas dos marcas).
+2. Suavizado del framing de la contra "sin aislamiento ni anticorrosivo" del pick top (Señorial Zafiro) en 4 lugares, conectándola con el dato del ánodo de magnesio (que ya existía en la guía, desconectado del primer contra que lee el usuario).
+3. 4 conteos de reseñas hardcodeados y desactualizados migrados a `{{reviews:MLA...}}` (techo de `check-hardcoded-reviews.cjs` bajado de 886 a 882).
+4. H2 de precios: sacado el "[julio 2026]" estático del título (hallazgo del trío, no bloqueante) para no contradecir el `updatedDate` nuevo.
+
+**Verificación:** `npm run guides:check` en verde (0 deuda nueva), `npx tsc --noEmit` limpio, `npm run build` OK (primer intento falló por una falla intermitente conocida de fuentes de Google, no relacionada con el contenido). Trío auditor: Codex GO, Gemini/agy GO, sin bloqueantes en ninguna de las dos pasadas (primera pasada).
+
+Re-medir: ~2026-12-01, 4 semanas después (foco: si el cluster "marca" empieza a generar clicks).
+
+## `camara-de-seguridad-exterior` — gap de contenido en quickPick + reviews desactualizadas — 2026-11-03
+
+**Baseline (GSC snapshot del 2026-11-03, 28 días):** ~12.900 impresiones, posición ~7-9, solo 24 clicks (CTR ~0,19%, el peor de un lote de guías vencidas analizadas ese día), 3 afiliados. `updatedDate` previo: 2026-08-08. Título/meta ya se habían cambiado el 2026-10-24 (en ventana de observación hasta ~2026-11-21) para atacar el mismo problema de CTR; por eso este refresh NO tocó título/meta/slug/H1, solo contenido y enlazado. Verificación manual en vivo del SERP (Google AR, sin sesión): AI Overview activo que no cita a productosvirales, 3 bloques de ads, carrusel shopping, resultados dominados por marcas grandes de monitoreo (Verisure, Prosegur, Hikvision) antes de cualquier blog comparativo — el techo acá es de autoridad/posición, no de snippet.
+
+**Cambios:**
+1. **Gap de contenido real:** `quickPicks` tenía 4 productos (incluía Geotek doble lente, MLA43877246) pero el cuerpo de la guía (ranking, tabla, veredicto, FAQ) solo desarrollaba 3 — Geotek no tenía product-card ni aparecía en tabla/veredicto/FAQ, siendo el producto con más reseñas de los 4 (13.571). Se agregó H3 + product-card + prosa + fila de tabla + mención en veredicto + 1 FAQ nueva, con datos reales de su ficha `/producto/`.
+2. **Reviews hardcodeadas desactualizadas:** "más de 8.600" (SX37, real 9.007) y "apenas 11 calificaciones" (DM200W-Pro, real 123 — ya no es "recién llegada") migradas a tokens `{{reviews:...}}` y reescrito el framing en 3 lugares.
+3. **Enlazado interno:** gap real encontrado grepeando `internalLinks` de las hermanas del silo `seguridad` — `camara-tplink-tapo` vende el kit Tapo C500 como "la única opción para exterior" pero no enlazaba de vuelta a esta guía. Se agregó el link faltante (y el saliente recíproco desde esta guía).
+4. H2 de precios: sacado el "[julio 2026]" estático del título.
+5. `updatedDate`: 2026-08-08 → 2026-11-03.
+
+**Trío auditor, 5 rondas de Codex (no 1-2 como lo habitual):** Codex encontró primero contradicciones de "historial" al sumar el 4to producto (corregido), después de "mejor resolución" porque la Gadnic DM200W-Pro (3MP en una sola toma) se seguía presentando como superior a la Geotek (3MP por lente, en dos tomas) cuando ambas dan la misma resolución por toma — el framing correcto es de formato (una toma vs. dos), no de resolución. La corrección necesitó 2 rondas adicionales porque quedaban frases sueltas del mismo problema en lugares no listados en la primera corrección (prosa del ranking). Codex también se quedó sin cupo a mitad de la 3ra pasada (reseteó ~2026-11-04 6:11am); se retomó manualmente horas antes de lo previsto porque Juan avisó que ya respondía. Gemini/agy: GO limpio en 3 pasadas, confirmando ambas correcciones; no se re-lanzó una 4ta vez porque los últimos fixes fueron solo de wording dentro del dominio "datos" (eliminar un superlativo falso), no tocaron nada del dominio GEO/SERP/copy que audita Gemini.
+
+**Verificación:** `npm run guides:check` (8 scripts) en verde, `npx tsc --noEmit` limpio, `npm run build` OK. Stock de los 4 productos confirmado `normal` antes de empezar.
+
+Re-medir: ~2026-12-01, 4 semanas después (el objetivo de este refresh no era CTR directo — eso lo está atacando el cambio de título/meta del 24/10 — sino cerrar el gap de contenido y el enlazado; igual vale la pena mirar si el título/meta en observación mejoró el CTR para esa fecha).
+
+## `perfumes-arabes-por-color` — corrección de clasificación por color, sin tocar título/meta (congelado) — 2026-11-03
+
+**Baseline (GSC snapshot del 2026-11-03, 28 días):** 14 clicks, 7.108 impresiones, posición 6,73, CTR 0,20%. Título/meta/H1/slug CONGELADOS: 4 reescrituras de seoTitle/metaDescription (jun-ago 2026) + 1 prueba de alt/filename de imágenes (sep 2026) ya se probaron sin mover el CTR; el propio tracking doc cerró el tema el 2026-09-21 ("no se invierte más ahí"). Diagnóstico confirmado de nuevo hoy: queries en posición 3-5 con 0% CTR — el click se lo lleva el pack de imágenes de Google, no el snippet de texto. Por eso este refresh fue solo de contenido.
+
+**Hallazgo real (el que justificó tocarla):** la guía existe para identificar un perfume por el COLOR DEL FRASCO, y varios productos estaban mal clasificados por color contra su propia ficha:
+- Lattafa Yara Elixir: estaba en "dorado", el frasco real es rosa claro con detalles en oro rosado (coincide con cómo ya lo tiene la guía hermana `yara-lattafa-guia-completa`, pero no esta).
+- Bharara King y Maahir Legacy: estaban en "dorado", son respectivamente vidrio oscuro con tapa madera-cobre y plateado/cromado.
+- Armaf Club de Nuit Intense Man: estaba en "azul oscuro", es negro.
+- Lattafa Asad Intense y Afnan 9PM: estaban en "marrón", son negros (Asad Intense con medallón dorado, Afnan 9PM con tapa cromada).
+- Asad Intense además tenía reviews/rating hardcodeados y desactualizados ("7.245 reseñas, rating 4.6") sosteniendo un superlativo falso ("el más validado del catálogo") que otros 4 productos de la misma guía ya desmentían con más reseñas reales. Migrado a `{{reviews:...}}`/`{{rating:...}}`.
+
+**Fix aplicado:** corrección de texto en los 6 productos mal descriptos, más un fix ESTRUCTURAL (no solo de texto, hallazgo de la 2da ronda de Codex): se creó una sección nueva "Perfumes árabes que mucha gente confunde de color" y se movieron ahí los 4 product-cards que seguían ubicados bajo encabezados de color que su propio texto ya desmentía (Bharara King, Maahir Legacy, Asad Intense, Afnan 9PM). Las secciones "dorados" y "marrones" quedaron cada una con su único producto realmente de ese color (Fakhar Gold Extract y Khamrah Qahwa). Se corrigió una referencia cruzada rota y se agregaron links en prosa a varios productos mencionados sin link.
+
+**Trío auditor:** Codex NO-GO en la 1ra pasada (el hallazgo estructural de arriba) → corregido → GO en la 2da. Gemini/agy GO en ambas pasadas, sin hallazgos nuevos (confirmó explícitamente que la reubicación resuelve la contradicción y que la propuesta de valor de la guía queda honesta y fortalecida). Mejoras opcionales de Gemini sin aplicar (quedan para un próximo refresh): la tarjeta de Asad Intense se repite entre la sección de confusiones y la de rojos (dos intenciones de búsqueda distintas, aceptable pero un poco repetitivo); la sección "azules y celestes" solo muestra la tarjeta visual de Club de Nuit (negro), no la de Hawas Ice (el azul real); el `directAnswer` no menciona el rosa pese a ser el color más buscado de la guía.
+
+**Verificación:** `npm run guides:check` (8 scripts) en verde, `npx tsc --noEmit` limpio, `npm run build` OK.
+
+**Nota de proceso:** esta guía se trabajó como piloto de un sistema de "tandas en paralelo" (3 guías a la vez vía la tool Workflow). Las otras 2 de la tanda (`yara-lattafa-guia-completa`, `donde-comprar-perfumes-arabes-argentina`) se auto-excluyeron correctamente: son grupos activos de un experimento A/B de octubre con evaluación recién el 22/11, tocarlas ahora contaminaría la medición. Se encontró y documentó un bug real en la lógica de "no repetir auditoría si el fix no tocó ese dominio" (quedó invertida la condición), que infló la cantidad de rondas de esta guía; el cierre final se hizo a mano con el método de siempre (Codex + Gemini en paralelo), no con el loop automático.
+
+Re-medir: no aplica CTR (título/meta congelados, sin cambio esperado ahí). Revisar en 2026-12-01 si el fix de clasificación por color generó algún comentario o reclamo de usuario, y decidir en esa fecha si vale la pena la página dedicada a "perfume árabe blanco y dorado" (390 búsquedas/mes reales, Keyword Planner) que quedó pendiente sin resolver desde los reportes del 26/10 y 02/11.

@@ -5829,22 +5829,22 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     ogDescription: `De la bala fija más probada a la domo motorizada con inteligencia artificial. Comparamos las cámaras de seguridad para exterior más vendidas de Argentina por resistencia al agua, motor y precio real.`,
     ogImage: `https://http2.mlstatic.com/D_NQ_NP_863560-MLA109753503435_032026-O.webp`,
     h1: `Cámara de seguridad exterior: cuál comprar en Argentina y cuál conviene [2026]`,
-    directAnswer: `La mejor cámara de seguridad para exterior depende de si necesitás cubrir un ángulo fijo o un área amplia. Para un punto fijo (la entrada, el frente), la más elegida por historial de compradores es la **Gadnic SX37** (alrededor de {{precio:MLA18967142:k}}): bala fija, IP65 y más de 8.600 opiniones. Si necesitás que la cámara gire y cubra más área, te convienen la **Ezviz C8c** (marca internacional, IP66, detección de personas por IA) o la **Gadnic DM200W-Pro** (la de mejor resolución, 3MP, aunque recién llegada al catálogo).`,
+    directAnswer: `La mejor cámara de seguridad para exterior depende de si necesitás cubrir un ángulo fijo o un área amplia. Para un punto fijo (la entrada, el frente), la bala fija más elegida es la **Gadnic SX37** (alrededor de {{precio:MLA18967142:k}}): IP65 y {{reviews:MLA18967142}} opiniones. Si necesitás que la cámara gire y cubra más área, te convienen la **Ezviz C8c** (marca internacional, IP66, detección de personas por IA) o la **Gadnic DM200W-Pro** (3MP en una sola toma). Y si querés cubrir dos ángulos con un solo equipo, la **Geotek doble lente** combina una vista fija panorámica con una motorizada, con {{reviews:MLA43877246}} opiniones, el mayor historial de las cuatro.`,
     publishedDate: "2026-07-12",
-    updatedDate: "2026-08-08",
-    sitemapLastmod: "2026-08-08",
+    updatedDate: "2026-11-03",
+    sitemapLastmod: "2026-11-03",
     hasDisclosure: true,
     readingTime: 8,
     standfirst: `Una cámara de seguridad para exterior arranca en {{precio:MLA66204799:k}} (domo motorizada de 3MP) y llega a {{precio:MLA66806823:k}} (domo de marca internacional), sin pagar mensualidad. Te mostramos cuál conviene según necesites un ángulo fijo o cobertura amplia, comparando las más vendidas de Argentina con precios reales de MercadoLibre.`,
     quickPicks: [
-      { productMlaId: "MLA18967142", label: "La más probada", labelColor: "amber", tagline: "Gadnic SX37: bala fija, más de 8.600 opiniones, la de mayor historial" },
+      { productMlaId: "MLA18967142", label: "Bala fija más elegida", labelColor: "amber", tagline: "Gadnic SX37: bala fija, {{reviews:MLA18967142}} opiniones" },
       { productMlaId: "MLA66806823", label: "Mejor marca y motor", labelColor: "blue", tagline: "Ezviz C8c: domo motorizada, IP66 y detección de personas por IA" },
-      { productMlaId: "MLA66204799", label: "Mejor resolución", labelColor: "purple", tagline: "Gadnic DM200W-Pro: 3MP y el motor más amplio, aunque recién llegada" },
-      { productMlaId: "MLA43877246", label: "Si querés doble vista", labelColor: "green", tagline: "Geotek doble lente: vista panorámica + motorizada en un solo equipo" },
+      { productMlaId: "MLA66204799", label: "3MP en una sola toma", labelColor: "purple", tagline: "Gadnic DM200W-Pro: 3MP en una sola toma y el motor más amplio de las cuatro" },
+      { productMlaId: "MLA43877246", label: "Mayor historial", labelColor: "green", tagline: "Geotek doble lente: vista panorámica + motorizada, {{reviews:MLA43877246}} opiniones" },
     ],
     intro: [
-      `No todas las cámaras "para exterior" son iguales, aunque casi todas digan "resistente al agua" en el título. La certificación real es la IP (Ingress Protection): IP65 o IP66 confirmado en la ficha técnica, no una promesa del vendedor. Y la segunda decisión, tan importante como la resistencia al agua, es si necesitás una cámara fija (apunta a un solo lugar) o motorizada (gira y cubre más área).`,
-      `En esta guía comparamos las cámaras de seguridad para exterior más vendidas de Argentina: una bala fija con el mayor historial de compradores, y dos domo motorizadas con distinto enfoque (marca internacional vs. resolución). Si buscás una cámara genérica sin definir todavía si es para adentro o afuera, arrancá por la [guía general de cámaras de seguridad](/guias/seguridad/camara-de-seguridad).`,
+      `No todas las cámaras "para exterior" son iguales, aunque casi todas digan "resistente al agua" en el título. La certificación real es la IP (Ingress Protection): IP65 o IP66 confirmado en la ficha técnica, no una promesa del vendedor. Y la segunda decisión, tan importante como la resistencia al agua, es si necesitás una cámara fija (apunta a un solo lugar) o motorizada (gira y cubre más área), o directamente una de doble lente que hace las dos cosas a la vez.`,
+      `En esta guía comparamos las cámaras de seguridad para exterior más vendidas de Argentina: una bala fija con mucho historial de compradores, dos domo motorizadas con distinto enfoque (marca internacional vs. resolución), y una de doble lente que combina vista fija y motorizada en un solo equipo. Si buscás una cámara genérica sin definir todavía si es para adentro o afuera, arrancá por la [guía general de cámaras de seguridad](/guias/seguridad/camara-de-seguridad).`,
     ],
     sections: [
       { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_863560-MLA109753503435_032026-O.webp", alt: `Cámara de seguridad Ezviz C8c, domo motorizada para exterior`, imageSize: "hero" },
@@ -5856,65 +5856,74 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       { type: "list", items: [
         `Un ángulo fijo y bien definido (puerta, frente): alcanza una bala fija como la Gadnic SX37 de esta guía.`,
         `Un patio, jardín o área amplia: conviene una motorizada como la Ezviz C8c o la Gadnic DM200W-Pro.`,
-        `Cubrir dos ángulos con un solo equipo: existe la opción de doble lente (ver la Geotek de la guía general).`,
+        `Cubrir dos ángulos con un solo equipo: la Geotek doble lente de esta guía combina una vista fija panorámica con una motorizada.`,
       ]},
 
       { type: "h2", title: `Las mejores cámaras de seguridad exterior 2026`, id: "ranking" },
 
-      { type: "h3", title: `1. Gadnic SX37 — la más probada` },
-      { type: "product-card", productMlaId: "MLA18967142", label: "La más probada", labelColor: "amber", ranking: 1, description: `Bala fija, IP65, con puerto LAN además de Wi-Fi. 4.6 estrellas en más de 8.600 calificaciones: la cámara exterior individual con más historial del catálogo.` },
-      { type: "p", content: `Si sabés exactamente qué ángulo querés vigilar, la Gadnic SX37 es la opción con más respaldo: más de 8.600 opiniones, muy por encima de cualquier otra cámara exterior individual del catálogo. No es motorizada, así que cubre el punto fijo donde la instalás, a alrededor de {{precio:MLA18967142:k}}. Trae puerto LAN (RJ45) además de Wi-Fi 2.4 GHz, así que si la señal inalámbrica no llega bien, la conectás por cable y listo.` },
+      { type: "h3", title: `1. Gadnic SX37 — bala fija más elegida` },
+      { type: "product-card", productMlaId: "MLA18967142", label: "Bala fija más elegida", labelColor: "amber", ranking: 1, description: `Bala fija, IP65, con puerto LAN además de Wi-Fi. 4.6 estrellas en {{reviews:MLA18967142}} calificaciones y la cámara fija individual más elegida del catálogo.` },
+      { type: "p", content: `Si sabés exactamente qué ángulo querés vigilar, la Gadnic SX37 es la bala fija más elegida del catálogo, con {{reviews:MLA18967142}} opiniones. No es motorizada, así que cubre el punto fijo donde la instalás, a alrededor de {{precio:MLA18967142:k}}. Trae puerto LAN (RJ45) además de Wi-Fi 2.4 GHz, así que si la señal inalámbrica no llega bien, la conectás por cable y listo.` },
       { type: "p", content: `Lo honesto: no gira, así que si necesitás cubrir un área amplia no es la indicada. Y como toda cámara Wi-Fi, con conexión floja se puede tildar, aunque para eso está el puerto LAN de respaldo.` },
       { type: "pull-quote", content: `La cámara es fenomenal, te ahorra tener que comprar un dvr. Hay que tener cuidado con el wifi, que no sea incompatible con la frecuencia de tu router, en mi caso tuve que conectarla con un cable de red al router por la ficha rj45. A la larga fue mejor porque no tengo problemas de transmisión.`, attribution: `— Comprador verificado en MercadoLibre, 2025` },
 
       { type: "h3", title: `2. Ezviz C8c — mejor marca y motor` },
       { type: "product-card", productMlaId: "MLA66806823", label: "Mejor marca y motor", labelColor: "blue", ranking: 2, description: `Domo motorizada, IP66, detección de personas por inteligencia artificial. 4.8 estrellas, vendida por tienda oficial con más de 100 mil ventas.` },
-      { type: "p", content: `La Ezviz C8c suma lo que la SX37 no tiene: motor PTZ (gira 350° en horizontal y 80° en vertical) y detección de personas por inteligencia artificial, que reduce las falsas alarmas por mascotas o ramas moviéndose. Es de una marca internacional reconocida en el rubro, vendida por una tienda oficial con más de 100 mil ventas, a alrededor de {{precio:MLA66806823:k}}. Junto con la DM200W-Pro, es de las dos IP66 de esta guía (la SX37 es IP65). El fabricante declara hasta 512 GB de memoria, aunque varias reviews técnicas coinciden en un límite real de 256 GB.` },
+      { type: "p", content: `La Ezviz C8c suma lo que la SX37 no tiene: motor PTZ (gira 350° en horizontal y 80° en vertical) y detección de personas por inteligencia artificial, que reduce las falsas alarmas por mascotas o ramas moviéndose. Es de una marca internacional reconocida en el rubro, vendida por una tienda oficial con más de 100 mil ventas, a alrededor de {{precio:MLA66806823:k}}. Junto con la DM200W-Pro y la Geotek, es una de las tres IP66 de esta guía (la SX37 es IP65). El fabricante declara hasta 512 GB de memoria, aunque varias reviews técnicas coinciden en un límite real de 256 GB.` },
       { type: "p", content: `Lo honesto: una reseña detallada marca tres matices reales. La señal de Wi-Fi le llegó "baja" según la propia app (aunque funcionó bien igual), la respuesta es un poco lenta cuando se mueve la cámara con el motor, y la alarma suena menos fuerte de lo que promete la ficha. Ninguno de los tres le impidió calificarla con 5 estrellas, pero son detalles que solo cuenta alguien que la usa.` },
       { type: "pull-quote", content: `Excelente producto. La instalación fue sencilla, aunque el lugar que elegí no era tan accesible. La señal del wifi llega "baja" según indica la app, pero funciona correctamente y se puede acceder sin problema. Solo es un poco lenta la respuesta cuando hacemos movimientos de la cámara. Las opciones de detección de movimiento, detección humana y horarios de alerta funcionan muy bien. La alarma no es tan ruidosa como dice, pero cumple su propósito.`, attribution: `— Comprador verificado en MercadoLibre, 2025` },
 
-      { type: "h3", title: `3. Gadnic DM200W-Pro — mejor resolución` },
-      { type: "product-card", productMlaId: "MLA66204799", label: "Mejor resolución", labelColor: "purple", ranking: 3, description: `Domo motorizada, 3MP, el motor más amplio (355°/90°) y compatible con ONVIF/RTSP. Recién llegada al catálogo: apenas 11 calificaciones.` },
-      { type: "p", content: `En papel, la Gadnic DM200W-Pro es la más avanzada de esta guía: 3MP de resolución (contra el Full HD del resto), el motor más amplio y compatibilidad con ONVIF y RTSP, protocolos que permiten integrarla a un sistema de cámaras de terceros en vez de depender solo de la app del fabricante, a alrededor de {{precio:MLA66204799:k}}.` },
-      { type: "p", content: `Lo honesto, y es importante: tiene apenas {{reviews:MLA66204799}} calificaciones, muy por debajo de la SX37 ({{reviews:MLA18967142}}) o la C8c ({{reviews:MLA66806823}}). Y una reseña de 3 estrellas le pone un matiz a la ventaja técnica: "muchas opciones requieren pago, protocolo muy cerrado, solo sirve si vas a poner todas las cámaras de la misma marca y modelo". La spec es real, pero el historial todavía no acompaña.` },
+      { type: "h3", title: `3. Gadnic DM200W-Pro — 3MP en una sola toma` },
+      { type: "product-card", productMlaId: "MLA66204799", label: "3MP en una sola toma", labelColor: "purple", ranking: 3, description: `Domo motorizada, 3MP en una sola imagen, el motor más amplio (355°/90°) y compatible con ONVIF/RTSP. La de menos historial de esta guía: {{reviews:MLA66204799}} calificaciones.` },
+      { type: "p", content: `En papel, la Gadnic DM200W-Pro es la más avanzada de esta guía: 3MP en una sola toma (contra el Full HD de 2MP de la SX37 y la Ezviz C8c), el motor más amplio y compatibilidad con ONVIF y RTSP, protocolos que permiten integrarla a un sistema de cámaras de terceros en vez de depender solo de la app del fabricante, a alrededor de {{precio:MLA66204799:k}}. La Geotek también entrega 3MP por lente, pero divididos en dos tomas separadas (ver más abajo), no en una sola imagen como la DM200W-Pro.` },
+      { type: "p", content: `Lo honesto: tiene {{reviews:MLA66204799}} calificaciones, la de menos historial de las cuatro de esta guía (contra las {{reviews:MLA18967142}} de la SX37 o las {{reviews:MLA43877246}} de la Geotek). Y una reseña de 3 estrellas le pone un matiz a la ventaja técnica: "muchas opciones requieren pago, protocolo muy cerrado, solo sirve si vas a poner todas las cámaras de la misma marca y modelo". La spec es real, pero conviene saber que el respaldo de compradores todavía es el más chico del grupo.` },
       { type: "pull-quote", content: `Muchas opciones requieren pago, protocolo muy cerrado, solo sirve si vas a poner todas las cámaras de la misma marca y modelo.`, attribution: `— Comprador verificado en MercadoLibre, 3 de 5 estrellas, 2026` },
+
+      { type: "h3", title: `4. Geotek doble lente — la de mayor historial` },
+      { type: "product-card", productMlaId: "MLA43877246", label: "Mayor historial", labelColor: "green", ranking: 4, description: `Domo doble lente (fija panorámica + motorizada), IP66, visión nocturna a color de 20 m. 4.8 estrellas en {{reviews:MLA43877246}} calificaciones, el mayor historial de esta guía.` },
+      { type: "p", content: `La Geotek GT-A33BN resuelve la disyuntiva fija-o-motorizada de otra forma: tiene dos lentes en el mismo cuerpo, uno fijo con vista panorámica y uno motorizado que sigue el movimiento, y en la app ves las dos tomas a la vez. El "6 MP" del título es la suma de los dos lentes de 3 MP, no la resolución de una sola imagen. Es IP66, con visión nocturna a color de 20 m declarados y una función de retorno automático: si el lente motorizado sigue a una persona y la pierde de vista, vuelve solo a la posición de vigilancia principal después de unos segundos. A alrededor de {{precio:MLA43877246:k}}, con {{reviews:MLA43877246}} calificaciones, es la de mayor historial de las cuatro.` },
+      { type: "p", content: `Lo honesto: según una reseña de 4 estrellas con 142 votos útiles, los tornillos de montaje que vienen en la caja son de mala calidad; el comprador los cambió por otros antes de instalarla. Y solo se conecta a redes Wi-Fi de 2.4 GHz, no a 5 GHz.` },
 
       { type: "h2", title: `Tabla comparativa: cámaras de seguridad exterior`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Tipo`, `Resistencia`, `Ideal para`], rows: [
-        [`[Gadnic SX37](https://meli.la/19g95Yv)`, `{{precio:MLA18967142}}`, `Bala fija`, `IP65`, `Ángulo fijo, la más probada`],
+        [`[Gadnic SX37](https://meli.la/19g95Yv)`, `{{precio:MLA18967142}}`, `Bala fija`, `IP65`, `Ángulo fijo, bala fija más elegida`],
         [`[Ezviz C8c](https://meli.la/2huJpqG)`, `{{precio:MLA66806823}}`, `Domo motorizada`, `IP66`, `Marca internacional, IA`],
-        [`[Gadnic DM200W-Pro](https://meli.la/2f8sBDJ)`, `{{precio:MLA66204799}}`, `Domo motorizada`, `IP66`, `Mejor resolución, 3MP`],
+        [`[Gadnic DM200W-Pro](https://meli.la/2f8sBDJ)`, `{{precio:MLA66204799}}`, `Domo motorizada`, `IP66`, `3MP en una sola toma`],
+        [`[Geotek doble lente](https://meli.la/1GQsniy)`, `{{precio:MLA43877246}}`, `Domo doble lente`, `IP66`, `Fija + motorizada, mayor historial`],
       ] },
 
       { type: "h2", title: `Cómo elegir tu cámara de seguridad exterior`, id: "como-elegir" },
       { type: "h3", title: `1. IP65 o IP66: la diferencia real` },
-      { type: "p", content: `Las dos certificaciones sirven para exterior, pero IP66 (Ezviz C8c y DM200W-Pro) resiste mejor chorros de agua directos que IP65 (Gadnic SX37). Si la cámara va a quedar totalmente expuesta a la lluvia sin ningún resguardo, IP66 da más margen; bajo un alero o techo, IP65 alcanza de sobra.` },
+      { type: "p", content: `Las dos certificaciones sirven para exterior, pero IP66 (Ezviz C8c, DM200W-Pro y Geotek) resiste mejor chorros de agua directos que IP65 (Gadnic SX37). Si la cámara va a quedar totalmente expuesta a la lluvia sin ningún resguardo, IP66 da más margen; bajo un alero o techo, IP65 alcanza de sobra.` },
       { type: "h3", title: `2. Puerto LAN: el respaldo que pocos miran` },
-      { type: "p", content: `La Gadnic SX37 y la Ezviz C8c admiten conexión por cable de red (RJ45) además de Wi-Fi; la Gadnic DM200W-Pro, según su ficha, es solo Wi-Fi. Si el lugar de instalación tiene Wi-Fi débil, tener puerto LAN elimina el problema de raíz en vez de depender de la señal inalámbrica: es un dato que vale la pena confirmar antes de comprar si esa es tu situación.` },
+      { type: "p", content: `La Gadnic SX37, la Ezviz C8c y la Geotek doble lente admiten conexión por cable de red (RJ45) además de Wi-Fi; la Gadnic DM200W-Pro, según su ficha, es solo Wi-Fi. Si el lugar de instalación tiene Wi-Fi débil, tener puerto LAN elimina el problema de raíz en vez de depender de la señal inalámbrica: es un dato que vale la pena confirmar antes de comprar si esa es tu situación. Un detalle aparte de la Geotek: solo se conecta a redes Wi-Fi de 2.4 GHz, no a 5 GHz.` },
       { type: "h3", title: `3. Historial de compradores vs. specs en papel` },
-      { type: "p", content: `La Gadnic DM200W-Pro gana en resolución y protocolos avanzados, pero tiene apenas {{reviews:MLA66204799}} calificaciones contra las {{reviews:MLA18967142}} de la SX37. No es que la spec sea falsa: es que el respaldo de compradores todavía no se construyó. Si preferís apoyarte en el historial antes de decidir, la SX37 o la C8c tienen mucho más recorrido.` },
+      { type: "p", content: `De las cuatro, la Geotek doble lente tiene el mayor historial ({{reviews:MLA43877246}} calificaciones), seguida por la SX37 ({{reviews:MLA18967142}}) y la Ezviz C8c ({{reviews:MLA66806823}}). La Gadnic DM200W-Pro tiene 3MP en una sola toma y protocolos avanzados, pero tiene {{reviews:MLA66204799}} calificaciones, la de menos respaldo del grupo. No es que la spec sea falsa: es que el historial de compradores todavía es más chico que el de las otras tres.` },
 
-      { type: "h2", title: `Cuánto cuesta una cámara de seguridad exterior [julio 2026]`, id: "precios" },
+      { type: "h2", title: `Cuánto cuesta una cámara de seguridad exterior [2026]`, id: "precios" },
       { type: "list", items: [
-        `**Alrededor de {{precio:MLA66204799:k}}:** la [Gadnic DM200W-Pro](https://meli.la/2f8sBDJ), domo motorizada de mejor resolución y la más económica de esta guía.`,
-        `**Alrededor de {{precio:MLA18967142:k}}:** la [Gadnic SX37](https://meli.la/19g95Yv), bala fija, la de mayor historial de compradores.`,
+        `**Alrededor de {{precio:MLA66204799:k}}:** la [Gadnic DM200W-Pro](https://meli.la/2f8sBDJ), domo motorizada con 3MP en una sola toma y la más económica de esta guía.`,
+        `**Alrededor de {{precio:MLA18967142:k}}:** la [Gadnic SX37](https://meli.la/19g95Yv), bala fija, con mucho historial de compradores.`,
+        `**Alrededor de {{precio:MLA43877246:k}}:** la [Geotek doble lente](https://meli.la/1GQsniy), fija + motorizada en un solo equipo, la de mayor historial.`,
         `**Alrededor de {{precio:MLA66806823:k}}:** la [Ezviz C8c](https://meli.la/2huJpqG), domo motorizada de marca internacional, la más cara del grupo.`,
       ] },
 
       { type: "h2", title: `Veredicto: cuál cámara de seguridad exterior comprar`, id: "veredicto" },
-      { type: "verdict", content: `Para un ángulo fijo (la entrada, el frente) y el mayor respaldo de compradores, la **Gadnic SX37**: bala fija, IP65 y más de 8.600 opiniones. Si necesitás que la cámara gire y priorizás una marca internacional con detección inteligente de personas, la **Ezviz C8c**. Y si te interesa la mejor resolución técnica (3MP) y el precio más bajo de esta guía, y no te importa que sea un modelo nuevo con poco historial, la **Gadnic DM200W-Pro**. En los tres casos, la memoria micro-SD se compra aparte.` },
+      { type: "verdict", content: `Para un ángulo fijo (la entrada, el frente) y mucho respaldo de compradores, la **Gadnic SX37**: bala fija, IP65 y {{reviews:MLA18967142}} opiniones. Si necesitás que la cámara gire y priorizás una marca internacional con detección inteligente de personas, la **Ezviz C8c**. Si te interesa una sola toma de 3MP (en vez de dos tomas separadas, como la Geotek) y el precio más bajo de esta guía, la **Gadnic DM200W-Pro**, sabiendo que es la de menos historial de las cuatro. Y si querés cubrir dos ángulos con un solo equipo (vista fija panorámica + motorizada) y el mayor respaldo de compradores de esta comparativa, la **Geotek doble lente**. En los cuatro casos, la memoria micro-SD se compra aparte.` },
     ],
     faq: [
-      { question: `¿Cuál es la mejor cámara de seguridad para exterior en Argentina?`, answer: `Depende de si necesitás un ángulo fijo o cobertura amplia. Para un punto fijo con el mayor respaldo de compradores, la Gadnic SX37 (más de 8.600 opiniones). Para que gire y cubra más área, la Ezviz C8c (marca internacional, IP66) o la Gadnic DM200W-Pro (mejor resolución, 3MP).` },
+      { question: `¿Cuál es la mejor cámara de seguridad para exterior en Argentina?`, answer: `Depende de si necesitás un ángulo fijo, cobertura amplia o las dos cosas a la vez. Para un punto fijo con mucho respaldo de compradores, la Gadnic SX37. Para que gire, la Ezviz C8c (marca internacional, IP66) o la Gadnic DM200W-Pro (3MP en una sola toma). Para cubrir dos ángulos con un solo equipo, la Geotek doble lente, la de mayor historial de las cuatro.` },
       { question: `¿Qué diferencia hay entre IP65 e IP66?`, answer: `Las dos sirven para exterior, pero IP66 resiste mejor los chorros de agua directos que IP65. Bajo un alero o techo, IP65 alcanza; totalmente expuesta a la lluvia, IP66 da más margen.` },
-      { question: `¿Conviene una cámara fija o motorizada para exterior?`, answer: `Una fija (bala) alcanza si sabés exactamente qué ángulo querés vigilar y cuesta menos. Una motorizada (domo) gira desde la app y cubre un área más amplia con un solo equipo, a mayor precio.` },
-      { question: `¿Las cámaras de exterior necesitan buen Wi-Fi?`, answer: `Sí, como toda cámara Wi-Fi. La Gadnic SX37 y la Ezviz C8c de esta guía admiten también conexión por cable de red (RJ45), una alternativa real si el Wi-Fi donde se instala es débil; la Gadnic DM200W-Pro, según su ficha, depende solo del Wi-Fi.` },
-      { question: `¿Vienen con memoria para grabar?`, answer: `No, ninguna de las tres. Sin una micro-SD comprada aparte, la cámara muestra en vivo pero no graba.` },
-      { question: `¿Vale la pena una cámara con pocas calificaciones pero mejores specs?`, answer: `Depende de cuánto priorices el historial. La Gadnic DM200W-Pro tiene la mejor resolución de esta guía (3MP) pero apenas 11 calificaciones; la SX37 y la C8c tienen mucho más recorrido de compradores reales.` },
+      { question: `¿Conviene una cámara fija o motorizada para exterior?`, answer: `Una fija (bala) alcanza si sabés exactamente qué ángulo querés vigilar y cuesta menos. Una motorizada (domo) gira desde la app y cubre un área más amplia con un solo equipo, a mayor precio. Y existe una tercera opción, la doble lente, que combina una vista fija panorámica con una motorizada en el mismo equipo.` },
+      { question: `¿Las cámaras de exterior necesitan buen Wi-Fi?`, answer: `Sí, como toda cámara Wi-Fi. La Gadnic SX37, la Ezviz C8c y la Geotek doble lente de esta guía admiten también conexión por cable de red (RJ45), una alternativa real si el Wi-Fi donde se instala es débil; la Gadnic DM200W-Pro, según su ficha, depende solo del Wi-Fi.` },
+      { question: `¿Vienen con memoria para grabar?`, answer: `No, ninguna de las cuatro. Sin una micro-SD comprada aparte, la cámara muestra en vivo pero no graba.` },
+      { question: `¿Vale la pena una cámara con menos calificaciones pero mejores specs?`, answer: `Depende de cuánto priorices el historial. La Gadnic DM200W-Pro tiene 3MP en una sola toma (la Geotek también da 3MP, pero divididos en dos tomas) pero el menor número de calificaciones de las cuatro; la SX37, la C8c y la Geotek tienen bastante más recorrido de compradores reales.` },
+      { question: `¿Qué es una cámara de doble lente y vale la pena?`, answer: `Tiene dos cámaras en un solo cuerpo: una fija con vista panorámica y una motorizada que sigue el movimiento, y en la app ves las dos tomas a la vez. La Geotek de esta guía es IP66, con visión nocturna a color, y tiene el mayor historial de compradores de las cuatro opciones comparadas.` },
     ],
     internalLinks: [
       { label: "Cámaras de seguridad: cuál comprar en Argentina", href: "/guias/seguridad/camara-de-seguridad" },
       { label: "Cámaras Ezviz: cuál comprar (la gama completa)", href: "/guias/seguridad/camara-ezviz" },
+      { label: "Cámaras TP-Link Tapo: cuál comprar en Argentina", href: "/guias/seguridad/camara-tplink-tapo" },
       { label: "Kit de cámaras de seguridad: cuál comprar", href: "/guias/seguridad/kit-camaras-seguridad" },
       { label: "Cerradura de puerta: cuál comprar en Argentina", href: "/guias/seguridad/cerradura-de-puerta" },
       { label: "Alarma para casa: cuál comprar en Argentina", href: "/guias/seguridad/alarma-para-casa" },
@@ -6202,6 +6211,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
     ],
     internalLinks: [
       { label: "Cámaras de seguridad: la guía completa", href: "/guias/seguridad/camara-de-seguridad" },
+      { label: "Cámaras de seguridad exterior: cuál comprar", href: "/guias/seguridad/camara-de-seguridad-exterior" },
       { label: "Kit de cámaras de seguridad: cuál comprar", href: "/guias/seguridad/kit-camaras-seguridad" },
       { label: "Cámaras Ezviz: cuál comprar (la gama completa)", href: "/guias/seguridad/camara-ezviz" },
     ],
@@ -17774,16 +17784,16 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       "¿Viste un perfume árabe blanco con tapa dorada y no sabés cuál es? Encontralo por el color del frasco: nombre exacto, perfil y precio en Argentina.",
     ogTitle: "El perfume árabe rosa que viste en TikTok: nombre exacto y dónde está",
     ogDescription:
-      "Lo viste en un reel, no recordás cómo se llama, pero recordás el color. Esta guía lista los perfumes árabes más buscados de Argentina ordenados por color del envase — con nombre exacto, perfil olfativo y precio real.",
+      "Lo viste en un reel, no recordás cómo se llama, pero recordás el color. Esta guía lista los perfumes árabes más buscados de Argentina ordenados por color del envase, con nombre exacto, perfil olfativo y precio real.",
     h1: "Perfumes árabes por color del envase: encontrá el frasco viral por su color (2026)",
-    directAnswer: `Si viste un perfume árabe **blanco con detalles dorados**, casi siempre es uno de dos: el **Lattafa Yara Moi**, frasco blanco entero con tapa y detalles metalizados, o el **Lattafa Her Confession**, que se reconoce al toque porque **lleva un busto dorado arriba del frasco**. Si el frasco es **dorado entero**, lo más probable es el Fakhar Gold o el Maahir Legacy. Si es **azul**, el Asad o el Bharara King. Abajo está cada color con su nombre exacto, en qué se diferencian los parecidos y el precio de hoy en Argentina.`,
+    directAnswer: `Si viste un perfume árabe **blanco con detalles dorados**, casi siempre es uno de dos: el **Lattafa Yara Moi**, frasco blanco entero con tapa y detalles metalizados, o el **Lattafa Her Confession**, que se reconoce al toque porque **lleva un busto dorado arriba del frasco**. Si el frasco es **dorado entero**, lo más probable es el Fakhar Gold. Si es **azul**, el Rasasi Hawas Ice. Si es **negro** (muchos lo recuerdan como "azul oscuro"), el Armaf Club de Nuit Intense Man. Abajo está cada color con su nombre exacto, en qué se diferencian los parecidos y el precio de hoy en Argentina.`,
     publishedDate: "2026-06-01",
     updatedDate: "2026-09-07",
     sitemapLastmod: "2026-09-07",
     hasDisclosure: true,
     intro: [
       "Pasa todo el tiempo: ves un perfume árabe en un reel de TikTok, te llama la atención, pero no escuchaste bien el nombre. Lo único que recordás es el color del envase. Rosa pastel, dorado intenso, azul cristal, marrón café. Esta guía resuelve exactamente ese problema.",
-      "Listamos los perfumes árabes más buscados en Argentina ordenados por color del frasco, con su nombre exacto, perfil olfativo, precio y link directo a la ficha. Cubrimos los seis colores que más se buscan en Google según datos reales: rosa, dorado, azul, marrón, rojo y blanco — más algunas variantes menos comunes."
+      "Listamos los perfumes árabes más buscados en Argentina ordenados por color del frasco, con su nombre exacto, perfil olfativo, precio y link directo a la ficha. Cubrimos los seis colores que más se buscan en Google según datos reales: rosa, dorado, azul, marrón, rojo y blanco, más algunas variantes menos comunes."
     ],
     sections: [
       {
@@ -17799,7 +17809,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       },
       {
         type: "p",
-        content: "Por color de envase, los más buscados en Argentina son: **blanco con dorado** → Lattafa Yara Moi o Her Confession (este último con un busto dorado sobre la tapa). **Rosa** → Lattafa Yara Candy, Yara (original), Bade'e Al Oud Noble Blush o Sabah Al Ward. **Dorado** → Lattafa Yara Elixir, Fakhar Gold Extract, Maahir Legacy o Bharara King. **Azul / celeste** → Rasasi Hawas Ice (el clon del Invictus). **Azul oscuro / negro** → Armaf Club de Nuit Intense Man. **Marrón / café** → Lattafa Khamrah Qahwa, Khamrah Parfum, Asad Bourbon o Afnan 9PM. **Rojo o bordó** → Lattafa Asad Intense. Abajo está el detalle de cada uno con perfil olfativo, precio y a quién le queda bien."
+        content: "Por color de envase, los más buscados en Argentina son: **blanco con dorado** → Lattafa Yara Moi o Her Confession (este último con un busto dorado sobre la tapa). **Rosa / fucsia** → Lattafa Yara Candy, Yara (original), Lattafa Yara Elixir (rosa claro con oro rosado), Bade'e Al Oud Noble Blush o Sabah Al Ward. **Dorado** → Fakhar Gold Extract. **Azul / celeste** → Rasasi Hawas Ice (el clon del Invictus). **Negro** (a veces buscado como 'azul oscuro') → Armaf Club de Nuit Intense Man. **Marrón / café** → Lattafa Khamrah Qahwa, [Khamrah Parfum](/producto/lattafa-khamrah-parfum-100ml-unisex-mla53013853) o Asad Bourbon. Abajo está el detalle de cada uno con perfil olfativo, precio y a quién le queda bien."
       },
       {
         type: "p",
@@ -17812,13 +17822,11 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
           ["Blanco con dorado", "[Lattafa Yara Moi](https://meli.la/1qBuAFB)", "{{precio:MLA32288168}}", "{{reviews:MLA32288168}}"],
           ["Blanco con dorado (busto)", "[Lattafa Her Confession](https://meli.la/1EBDqh9)", "{{precio:MLA41304983}}", "{{reviews:MLA41304983}}"],
           ["Rosa", "[Lattafa Yara Candy](https://meli.la/2XYzvaU)", "{{precio:MLA39865991}}", "{{reviews:MLA39865991}}"],
-          ["Dorado femenino", "[Lattafa Yara Elixir](https://meli.la/2NrY6fF)", "{{precio:MLA60836327}}", "{{reviews:MLA60836327}}"],
+          ["Rosa claro con oro rosado", "[Lattafa Yara Elixir](https://meli.la/2NrY6fF)", "{{precio:MLA60836327}}", "{{reviews:MLA60836327}}"],
           ["Dorado premium unisex", "[Fakhar Gold Extract](https://meli.la/2RmHufc)", "{{precio:MLA32488004}}", "{{reviews:MLA32488004}}"],
-          ["Dorado masculino", "[Bharara King](https://meli.la/2DTqjeW)", "{{precio:MLA19053146}}", "{{reviews:MLA19053146}}"],
           ["Celeste / azul claro", "[Rasasi Hawas Ice](https://meli.la/24kQeRc)", "{{precio:MLA29780185}}", "{{reviews:MLA29780185}}"],
-          ["Azul oscuro", "[Armaf Club de Nuit Intense Man](https://meli.la/1BzsFJE)", "{{precio:MLA16122300}}", "{{reviews:MLA16122300}}"],
+          ["Negro", "[Armaf Club de Nuit Intense Man](https://meli.la/1BzsFJE)", "{{precio:MLA16122300}}", "{{reviews:MLA16122300}}"],
           ["Marrón / café", "[Lattafa Khamrah Qahwa](https://meli.la/1B8Vwwf)", "{{precio:MLA31178643}}", "{{reviews:MLA31178643}}"],
-          ["Marrón rojizo / bordó", "[Lattafa Asad Intense](https://meli.la/26owfqo)", "{{precio:MLA19715215}}", "{{reviews:MLA19715215}}"],
         ]
       },
       {
@@ -17827,7 +17835,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       },
       {
         type: "p",
-        content: "Muchos frascos combinan un color base con un dorado que casi siempre es la tapa o el líquido, no el color que define el aroma. Para identificarlo, fijate en el color que domina. Si viste **azul con dorado**, manda el azul: es un acuático fresco, casi seguro el Rasasi Hawas Ice (el clon del Invictus). **Rojo o bordó con dorado** apunta al Lattafa Asad Intense. **Rosa con dorado** suele ser el Lattafa Yara Candy (el Yara original combina rosa con plateado, no dorado). **Blanco con dorado** son casi siempre dos: el Yara Moi, blanco liso con detalles dorados, o el Her Confession, que se distingue al toque porque lleva un busto dorado sobre la tapa. Y si el frasco es directamente **dorado**, mirá la sección de dorados más abajo (Yara Elixir, Fakhar Gold Extract, Maahir Legacy)."
+        content: "Muchos frascos combinan un color base con un dorado que casi siempre es la tapa o el líquido, no el color que define el aroma. Para identificarlo, fijate en el color que domina. Si viste **azul con dorado**, manda el azul: es un acuático fresco, casi seguro el Rasasi Hawas Ice (el clon del Invictus). **Rosa o fucsia con dorado** es casi siempre el Lattafa Yara Candy (rosa intenso, gourmand dulce). El Yara Elixir se confunde seguido con este grupo, pero es rosa claro con detalles en oro rosado, no fucsia ni dorado, con un perfil dulce-cítrico-oriental; el Yara original combina rosa con plateado, no dorado. **Blanco con dorado** son casi siempre dos: el Yara Moi, blanco liso con detalles dorados, o el Her Confession, que se distingue al toque porque lleva un busto dorado sobre la tapa. Y si el frasco es directamente **dorado**, mirá la sección de dorados más abajo (Fakhar Gold Extract)."
       },
       {
         type: "trust-block",
@@ -17852,8 +17860,16 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
         labelColor: "amber"
       },
       {
+        type: "product-card",
+        productMlaId: "MLA60836327",
+        variant: "compact",
+        description: "Yara Elixir: frasco rosa claro con detalles en oro rosado. La versión más concentrada de la línea Yara, dulce-cítrico-oriental con vainilla y ámbar. 8 horas de duración con buen anclaje. Empatado con Yara Candy en 20M+ vistas de TikTok, uno de los árabes femeninos más virales de 2025-2026.",
+        label: "Rosa claro con oro rosado",
+        labelColor: "green"
+      },
+      {
         type: "p",
-        content: "Si el frasco que viste era rosa con detalles plateados (no dorados), es el Yara original: el que arrancó el fenómeno TikTok, con tuberosa, almizcle, orquídea y vainilla. Al momento de esta nota la publicación está sin stock; si buscás un perfume rosa más floral y menos asociado a la línea Yara, [Sabah Al Ward](/guias/perfumes-arabes-mujer) (rosa con dorado, floral-oriental) y [Bade'e Al Oud Noble Blush](/guias/perfumes-arabes-mujer) (rosa rubor con detalle dorado) son alternativas dentro del catálogo. Para todas las versiones de Yara comparadas en detalle, ver la [guía completa Yara Lattafa](/guias/yara-lattafa-guia-completa)."
+        content: "Si el frasco que viste era rosa con detalles plateados (no dorados), es el [Yara original](/producto/perfume-de-mujer-lattafa-yara-edp-100-ml-arabe-original-mlau2983186467): el que arrancó el fenómeno TikTok, con mandarina, almizcle, orquídea y vainilla. Si buscás un perfume rosa más floral y menos asociado a la línea Yara, [Sabah Al Ward](/producto/perfume-sabah-al-ward-mujer-eau-de-parfum-100-ml-floral-oriental-mla49628348) (rosa con dorado, floral-oriental) y [Bade'e Al Oud Noble Blush](/producto/perfume-mujer-lattafa-bade-e-al-oud-noble-blush-edp-100ml-mla43643712) (rosa rubor con detalle dorado) son alternativas dentro del catálogo. Para todas las versiones de Yara comparadas en detalle, ver la [guía completa Yara Lattafa](/guias/yara-lattafa-guia-completa)."
       },
       {
         type: "h2",
@@ -17861,38 +17877,14 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       },
       {
         type: "p",
-        content: "El dorado es el color premium del nicho árabe — asociado a las líneas más caras o más \"de noche\". Estos son los más vendidos en Argentina:"
-      },
-      {
-        type: "product-card",
-        productMlaId: "MLA60836327",
-        variant: "compact",
-        description: "Yara Elixir: dorado intenso con detalles oscuros. La versión más concentrada de la línea Yara — dulce-cítrico-oriental con vainilla y ámbar. 8 horas de duración con buen anclaje. El árabe femenino más viral de 2025-2026.",
-        label: "Dorado femenino top",
-        labelColor: "green"
+        content: "El dorado es el color premium del nicho árabe, asociado a las líneas más caras o más \"de noche\". Hoy en nuestro catálogo el único realmente dorado es este:"
       },
       {
         type: "product-card",
         productMlaId: "MLA32488004",
         variant: "compact",
-        description: "Fakhar Gold Extract: dorado masivo con tapa cobriza. Oriental-amaderado-ahumado con oud y ámbar. La línea más cara del portafolio Lattafa pero todavía a un tercio del precio de equivalentes occidentales. Unisex.",
+        description: "Fakhar Gold Extract: dorado masivo con tapa cobriza. Floral-amaderado-ambarado con cuero, jara (láudano) y ámbar de fondo. Parte de la línea premium de Lattafa, a una fracción del precio de equivalentes occidentales. Unisex.",
         label: "Dorado premium unisex",
-        labelColor: "amber"
-      },
-      {
-        type: "product-card",
-        productMlaId: "MLA19053146",
-        variant: "compact",
-        description: "Bharara King: dorado clásico con corona en el cap. Oriental-especiado-amaderado para hombre. Marca premium del nicho con presencia fuerte en Argentina. Para evento formal o noche elegante.",
-        label: "Dorado masculino premium",
-        labelColor: "amber"
-      },
-      {
-        type: "product-card",
-        productMlaId: "MLA37755803",
-        variant: "compact",
-        description: "Maahir Legacy: dorado oscuro con dorado claro. Oriental-amaderado intenso con duración alta. La alternativa Lattafa premium para hombre cuando ya conocés Asad y querés algo más sofisticado.",
-        label: "Dorado masculino sofisticado",
         labelColor: "amber"
       },
       {
@@ -17901,55 +17893,79 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       },
       {
         type: "p",
-        content: "El azul y el celeste son los colores asociados a perfiles frescos-acuáticos-cítricos. En el nicho árabe son menos comunes pero los dos que existen son referencia obligada:"
+        content: "El azul y el celeste son los colores asociados a perfiles frescos-acuáticos-cítricos. En el nicho árabe son menos comunes, y sumamos acá también el negro del Club de Nuit, que mucha gente busca como 'azul oscuro' sin serlo:"
       },
       {
         type: "product-card",
         productMlaId: "MLA16122300",
         variant: "compact",
-        description: "Club de Nuit Intense Man: azul oscuro casi negro con tapa plateada. El dupe clásico del Creed Aventus para hombre. Frutal-amaderado-ahumado con piña, abedul y pachulí. 200ml de frasco — alcanza para 2-3 años. Comparado constantemente con perfumes que cuestan 4 veces más.",
-        label: "Azul oscuro — el dupe del Aventus",
-        labelColor: "blue"
+        description: "Club de Nuit Intense Man: negro mate con tapa también negra y pequeños strass, sin ningún tinte azul (muchos lo recuerdan como 'azul oscuro', pero el frasco real es negro). El dupe clásico del Creed Aventus para hombre. Frutal-amaderado-ahumado con piña, abedul y pachulí. 200ml de frasco, alcanza para 2-3 años. Comparado constantemente con perfumes que cuestan 4 veces más.",
+        label: "Negro: el dupe del Aventus",
+        labelColor: "slate"
       },
       {
         type: "p",
-        content: "Si buscás algo más celeste y refrescante, el **Rasasi Hawas Ice** (envase celeste cristal) es el otro referente — un fresco frutal con manzana congelada que se compara constantemente con el Paco Rabanne Invictus. Es uno de los pocos árabes pensados para verano y deporte. Lo cubrimos en detalle en [mejores perfumes árabes para hombre](/guias/mejores-perfumes-arabes-hombre)."
+        content: "Si buscás algo más celeste y refrescante, el [**Rasasi Hawas Ice**](/producto/rasasi-hawas-ice-edp-100ml-hombre-mla29780185) (envase celeste cristal) es el otro referente: un fresco frutal con manzana congelada que se compara constantemente con el Paco Rabanne Invictus. Es uno de los pocos árabes de esta guía pensados para verano y deporte, junto con el Maahir Legacy (ver la sección de confusiones de color más abajo). Lo cubrimos en detalle en [mejores perfumes árabes para hombre](/guias/mejores-perfumes-arabes-hombre)."
       },
       {
         type: "h2",
-        title: "Perfumes árabes marrones, café o oscuros"
+        title: "Perfumes árabes marrones y café"
       },
       {
         type: "p",
-        content: "El marrón es el color de los perfumes árabes más \"de invierno\": gourmands con café, vainilla, tabaco o canela. Estos son los principales:"
+        content: "El marrón es el color de los perfumes árabes más \"de invierno\": gourmands con café, vainilla, tabaco o canela. Hoy en nuestro catálogo el principal es este:"
       },
       {
         type: "product-card",
         productMlaId: "MLA31178643",
         variant: "compact",
-        description: "Khamrah Qahwa: marrón café con detalles dorados. Café tostado, canela, vainilla y dátiles. Unisex, intenso, perfecto para otoño-invierno. El gourmand árabe que arrasa en TikTok y rivaliza con Tobacco Vanille de Tom Ford.",
-        label: "Café/marrón viral",
+        description: "Khamrah Qahwa: frasco transparente con líquido dorado-ambarino estilo coñac, dentro de una caja marrón con tipografía dorada. Café tostado, canela, vainilla y dátiles. Unisex, intenso, perfecto para otoño-invierno. El gourmand árabe que arrasa en TikTok y rivaliza con Tobacco Vanille de Tom Ford.",
+        label: "Transparente, caja marrón",
         labelColor: "amber"
+      },
+      {
+        type: "h2",
+        title: "Perfumes árabes que mucha gente confunde de color"
+      },
+      {
+        type: "p",
+        content: "Estos cuatro se buscan seguido por un color que en realidad no tienen, porque el nombre o la familia del perfume sugiere uno distinto al del frasco real:"
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA19053146",
+        variant: "compact",
+        description: "Bharara King: frasco de vidrio oscuro con tapa madera-cobre lisa, sin forma de corona ni color dorado. Oriental-especiado-amaderado para hombre. Marca premium del nicho con presencia fuerte en Argentina. Para evento formal o noche elegante.",
+        label: "Oscuro con tapa madera-cobre, no dorado",
+        labelColor: "slate"
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA37755803",
+        variant: "compact",
+        description: "Maahir Legacy: frasco plateado/cromado con tapa en forma de cabeza de caballo, no es dorado. Aromático fresco y cítrico (no oriental, pese a lo que sugiere el nombre), con duración moderada (5 a 6 horas en piel, por debajo de las 8 que declara la ficha técnica). La alternativa Lattafa premium para hombre cuando ya conocés Asad y querés algo más sofisticado.",
+        label: "Plateado cabeza de caballo, no dorado",
+        labelColor: "slate"
       },
       {
         type: "product-card",
         productMlaId: "MLA19715215",
         variant: "compact",
-        description: "Asad Intense: marrón oscuro casi rojo con tapa dorada. El masculino árabe más validado del catálogo argentino: 7.245 reseñas, rating 4.6. Especiado-amaderado con base avainillada. Comparado con Dior Sauvage Elixir a una décima parte del precio.",
-        label: "Marrón rojizo masculino top",
-        labelColor: "green"
+        description: "Asad Intense: frasco y caja negros, con medallón de león y detalles dorados; no es marrón ni rojo. Especiado-amaderado con base avainillada, con {{reviews:MLA19715215}} reseñas y rating {{rating:MLA19715215}}. Comparado con Dior Sauvage Elixir a una décima parte del precio.",
+        label: "Negro con medallón dorado, no marrón",
+        labelColor: "slate"
       },
       {
         type: "product-card",
         productMlaId: "MLA19846768",
         variant: "compact",
-        description: "Afnan 9PM: marrón oscuro con detalles dorados. Café, canela, vainilla y ámbar — un postre en perfume. Ideal para otoño e invierno, proyecta fuerte, dura 10 horas. No es para oficina diurna.",
-        label: "Marrón gourmand masculino",
-        labelColor: "amber"
+        description: "Afnan 9PM: frasco negro con tapa y marco cromados/plateados; no tiene marrón ni dorado. Manzana, canela, vainilla y ámbar, un postre en perfume. Ideal para otoño e invierno, proyecta fuerte, dura 6 a 8 horas según la piel. No es para oficina diurna.",
+        label: "Negro cromado, no marrón",
+        labelColor: "slate"
       },
       {
         type: "p",
-        content: "Otras variantes oscuras: [Asad Bourbon](https://meli.la/1qWMdCK) (marrón bourbon con notas de tabaco) y [Asad Negro](https://meli.la/2t9EpWq) (la versión más oscura de la familia Asad). Para conocer las diferencias entre los tres Asad, mirá la comparativa específica."
+        content: "Otras variantes oscuras de la familia Asad: [Asad Bourbon](/producto/perfume-de-hombre-asad-bourbon-marron-100ml-arabe-generico-mlau3798337289) (marrón bourbon con notas de tabaco) y [Asad Negro](/producto/perfume-asad-negro-100ml-estilo-arabe-exquisito-generico-mlau3562485598) (la versión más oscura de la familia). Para conocer las diferencias entre los tres Asad, mirá la [comparativa específica](/guias/lattafa-asad-comparativa)."
       },
       {
         type: "h2",
@@ -17957,15 +17973,15 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       },
       {
         type: "p",
-        content: "El rojo no es un color tan común en el nicho árabe, pero hay opciones. El más buscado bajo \"perfume árabe rojo\" suele ser:"
+        content: "No tenemos en el catálogo un perfume árabe con frasco realmente rojo. El que más aparece cuando se busca \"perfume árabe rojo\" en Argentina es el Lattafa Asad Intense, aunque su frasco real es negro con medallón dorado, no rojo:"
       },
       {
         type: "product-card",
         productMlaId: "MLA19715215",
         variant: "compact",
-        description: "Lattafa Asad Intense: aunque técnicamente es marrón oscuro, en muchas fotos y reels aparece como rojo intenso o bordó por la iluminación. Es el primero que aparece cuando se busca \"perfume árabe rojo\" en Argentina.",
-        label: "El más buscado bajo 'rojo'",
-        labelColor: "blue"
+        description: "Lattafa Asad Intense: frasco y caja negros con medallón de león y detalles dorados. No es rojo ni bordó, aunque en alguna foto con mala iluminación pueda parecerlo: es el perfume que más aparece cuando se busca \"perfume árabe rojo\" en Argentina.",
+        label: "El más buscado bajo 'rojo' (en realidad negro)",
+        labelColor: "slate"
       },
       {
         type: "h2",
@@ -17979,7 +17995,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
         type: "product-card",
         productMlaId: "MLA32288168",
         variant: "compact",
-        description: "Yara Moi: frasco blanco entero con detalles metalizados dorados. Floral-frutal-gourmand con pera, jazmín y vainilla — la variante más suave y de menor proyección de toda la línea Yara, pensada para uso diario. {{rating:MLA32288168}}⭐ con {{reviews:MLA32288168}} reseñas.",
+        description: "Yara Moi: frasco blanco entero con detalles metalizados dorados. Floral-frutal-gourmand con pera, jazmín y vainilla; la variante más suave y de menor proyección de toda la línea Yara, pensada para uso diario. {{rating:MLA32288168}}⭐ con {{reviews:MLA32288168}} reseñas.",
         label: "Blanco con dorado",
         labelColor: "amber"
       },
@@ -17997,7 +18013,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       },
       {
         type: "p",
-        content: "Si en cambio viste un frasco blanco sin dorado, suele tratarse de una edición especial o de línea que rota en el catálogo argentino — contactanos con el detalle visual que recuerdes (forma del frasco, tapa, otros colores) para ayudarte a identificarlo."
+        content: "Si en cambio viste un frasco blanco sin dorado, suele tratarse de una edición especial o de línea que rota en el catálogo argentino: contactanos con el detalle visual que recuerdes (forma del frasco, tapa, otros colores) para ayudarte a identificarlo."
       },
       {
         type: "h2",
@@ -18005,11 +18021,11 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       },
       {
         type: "p",
-        content: "Pasa por tres razones bien concretas. **Primera**: TikTok y reels muestran el frasco mucho más claro que el nombre. El color se queda en la cabeza; el nombre se pierde. **Segunda**: muchos perfumes árabes tienen nombres difíciles de pronunciar o de escribir bien (Khamrah, Bade'e Al Oud, Qaed Al Fursan) — pero el color del envase es universal. **Tercera**: dentro de una misma línea (Yara, por ejemplo), las variantes se distinguen visualmente por el color de la tapa o el frasco, no tanto por el nombre."
+        content: "Pasa por tres razones bien concretas. **Primera**: TikTok y reels muestran el frasco mucho más claro que el nombre. El color se queda en la cabeza; el nombre se pierde. **Segunda**: muchos perfumes árabes tienen nombres difíciles de pronunciar o de escribir bien (Khamrah, Bade'e Al Oud, Qaed Al Fursan), pero el color del envase es universal. **Tercera**: dentro de una misma línea (Yara, por ejemplo), las variantes se distinguen visualmente por el color de la tapa o el frasco, no tanto por el nombre."
       },
       {
         type: "p",
-        content: "Lo que ningún reel te dice: el color del envase no determina el aroma. Un perfume rosa puede ser dulce y empalagoso (Yara Candy) o floral seco (Sabah Al Ward). Antes de comprar solo por el color, vale la pena chequear el perfil olfativo real."
+        content: "Lo que ningún reel te dice: el color del envase no determina el aroma. Un perfume rosa puede ser dulce y empalagoso (Yara Candy) o floral seco y amaderado (Bade'e Al Oud Noble Blush). Antes de comprar solo por el color, vale la pena chequear el perfil olfativo real."
       },
       {
         type: "h2",
@@ -18037,7 +18053,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       },
       {
         type: "p",
-        content: "Buscar perfumes árabes por color es válido como punto de partida, pero conviene confirmar el perfil olfativo antes de comprar. La mayoría de las búsquedas por color en Argentina (rosa, dorado, marrón, azul) tienen un perfume claro y dominante en cada categoría: Yara para rosa, Yara Elixir o Fakhar para dorado, Khamrah Qahwa para marrón café, Club de Nuit Intense Man para azul oscuro, Hawas Ice para celeste. Esos cinco cubren el 70% de las búsquedas por color."
+        content: "Buscar perfumes árabes por color es válido como punto de partida, pero conviene confirmar el perfil olfativo antes de comprar. La mayoría de las búsquedas por color en Argentina (rosa, dorado, marrón, azul) tienen un perfume claro y dominante en cada categoría: Yara Candy o Yara Elixir para rosa/fucsia, Fakhar Gold Extract para dorado, Khamrah Qahwa para marrón café, Club de Nuit Intense Man para negro, Hawas Ice para celeste. Esos cinco perfiles cubren el 70% de las búsquedas por color."
       },
       {
         type: "p",
@@ -18051,15 +18067,15 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       },
       {
         question: "¿Cuál es el perfume árabe dorado más buscado?",
-        answer: "Para mujer es Lattafa Yara Elixir (dorado intenso, la versión más concentrada). Para hombre es Lattafa Fakhar Gold Extract (dorado con cobre) o Bharara King (dorado con corona). Si ves uno dorado más oscuro con detalles bordó, es probable que sea Asad Intense o Afnan 9PM."
+        answer: "El dorado más buscado de esta franja es el Fakhar Gold Extract (unisex, dorado masivo con tapa cobriza); el Yara Elixir que mucha gente recuerda como \"dorado\" es en realidad rosa claro con detalles en oro rosado, no un frasco dorado entero. Para hombre, la opción realmente dorada es el Fakhar Gold Extract: el Bharara King tiene vidrio oscuro con tapa madera-cobre, no dorado."
       },
       {
         question: "¿Qué perfume árabe es azul como el Invictus?",
-        answer: "Rasasi Hawas Ice — celeste cristal con detalles plateados. Comparte el perfil fresco-frutal-acuático del Paco Rabanne Invictus a un tercio del precio. Es el dupe árabe más recomendado del Invictus en Argentina. El otro azul-oscuro popular es Armaf Club de Nuit Intense Man, pero ese es el dupe del Creed Aventus, no del Invictus."
+        answer: "Rasasi Hawas Ice: celeste cristal con detalles plateados. Comparte el perfil fresco-frutal-acuático del Paco Rabanne Invictus a un tercio del precio. Es el dupe árabe más recomendado del Invictus en Argentina. El otro negro popular (a veces buscado como 'azul oscuro') es Armaf Club de Nuit Intense Man, pero ese es el dupe del Creed Aventus, no del Invictus."
       },
       {
         question: "¿Cuál es el perfume árabe marrón con café?",
-        answer: "Lattafa Khamrah Qahwa: frasco marrón café con detalles dorados, notas de café tostado, canela, vainilla y dátiles. Es el gourmand árabe más viral de TikTok. La versión Parfum (más concentrada) viene en envase similar pero con detalles distintos."
+        answer: "Lattafa Khamrah Qahwa: frasco transparente con líquido dorado-ambarino dentro de una caja marrón, notas de café tostado, canela, vainilla y dátiles. Es el gourmand árabe más viral de TikTok. La versión Parfum (más concentrada) viene en un envase también transparente con líquido ámbar, pero con un corte y detalles distintos."
       },
       {
         question: "¿El color del envase determina el aroma?",
@@ -18067,7 +18083,7 @@ La contra a saber antes de comprar: los apoyabrazos son fijos, y **la ficha de M
       },
       {
         question: "¿Por qué no recuerdo el nombre pero sí el color?",
-        answer: "Pasa todo el tiempo, y tiene tres razones: los reels y videos muestran el frasco más que el nombre, los nombres árabes son difíciles de retener si no estás familiarizado, y dentro de una misma línea (como Yara) las variantes se distinguen visualmente. Por eso esta guía está organizada por color — para que llegues al perfume correcto en el primer intento."
+        answer: "Pasa todo el tiempo, y tiene tres razones: los reels y videos muestran el frasco más que el nombre, los nombres árabes son difíciles de retener si no estás familiarizado, y dentro de una misma línea (como Yara) las variantes se distinguen visualmente. Por eso esta guía está organizada por color, para que llegues al perfume correcto en el primer intento."
       }
     ],
     internalLinks: [
@@ -23611,15 +23627,15 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
     ogDescription: `De 40 a 85 litros: comparamos los termotanques eléctricos más vendidos de Argentina por capacidad, eficiencia energética y precio real de MercadoLibre.`,
     ogImage: `https://http2.mlstatic.com/D_NQ_NP_672433-MLA99496742056_112025-O.webp`,
     h1: `Termotanque eléctrico: cuál comprar en Argentina y cuál conviene [2026]`,
-    directAnswer: `El mejor termotanque eléctrico para la mayoría es uno de unos 50 litros: alcanza para 2 o 3 personas y equilibra precio, consumo y capacidad. Con ese criterio, hoy en Argentina el más elegido es el **Señorial Zafiro** (alrededor de {{precio:MLA15585571:k}}): por lejos el más comprado del país, con más de 3.100 opiniones. Para una persona sola, el Exahome de 40 litros es el más barato; para familia y mejor aislamiento, el Sherman de 85 litros; y si priorizás eficiencia energética, el Rheem categoría A.`,
+    directAnswer: `El mejor termotanque eléctrico para la mayoría es uno de unos 50 litros: alcanza para 2 o 3 personas y equilibra precio, consumo y capacidad. Con ese criterio, hoy en Argentina el más elegido es el **Señorial Zafiro** (alrededor de {{precio:MLA15585571:k}}): por lejos el más comprado del país, con {{reviews:MLA15585571}} opiniones. Para una persona sola, el Exahome de 40 litros es el más barato; para familia y mejor aislamiento, el Sherman de 85 litros; y si priorizás eficiencia energética, el Rheem categoría A.`,
     publishedDate: "2026-07-12",
-    updatedDate: "2026-07-09",
-    sitemapLastmod: "2026-08-03",
+    updatedDate: "2026-11-03",
+    sitemapLastmod: "2026-11-03",
     hasDisclosure: true,
     readingTime: 9,
     standfirst: `Hay termotanques eléctricos desde {{precio:MLA45424072:k}} hasta más de {{precio:MLA15733526:k}}, con capacidades de 40 a 85 litros y diferencias reales en eficiencia energética. Te mostramos los más vendidos de Argentina, qué resignás en cada uno y cuál conviene según cuánta agua caliente necesitás, con precios reales de MercadoLibre.`,
     quickPicks: [
-      { productMlaId: "MLA15585571", label: "El más vendido", labelColor: "green", tagline: "Señorial Zafiro: por lejos el más comprado y calificado, 3.106 opiniones" },
+      { productMlaId: "MLA15585571", label: "El más vendido", labelColor: "green", tagline: "Señorial Zafiro: por lejos el más comprado y calificado, {{reviews:MLA15585571}} opiniones" },
       { productMlaId: "MLA19904759", label: "El mejor calificado", labelColor: "blue", tagline: "Sherman 85L: aislamiento y anticorrosivo, 4.8 estrellas" },
       { productMlaId: "MLA45424072", label: "El más económico", labelColor: "amber", tagline: "Exahome 40L: el más barato, ideal para una persona" },
       { productMlaId: "MLA15733526", label: "Mejor eficiencia", labelColor: "purple", tagline: "Rheem 85L: categoría A, doble aislación" },
@@ -23633,7 +23649,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { type: "image", src: "/images/heros/termotanque-electrico.webp", alt: `Termotanque eléctrico vertical de acero instalado en el lavadero de una casa, con sus caños de agua a la vista`, imageSize: "hero" },
 
       { type: "h2", title: `Resumen rápido: cuál comprar según tu caso` },
-      { type: "p", content: `El termotanque eléctrico más vendido de Argentina es el Señorial Zafiro de 50 litros, por lejos: tiene casi seis veces más calificaciones que el segundo de esta lista. Pero no trae aislamiento térmico ni protección anticorrosiva, dos características que si te importan a mediano plazo, encontrás en el Sherman o el Rheem. Para una persona sola, el Exahome de 40 litros es el más barato y aun así trae ambas.` },
+      { type: "p", content: `El termotanque eléctrico más vendido de Argentina es el Señorial Zafiro de 50 litros, por lejos: tiene casi seis veces más calificaciones que el segundo de esta lista. No trae aislamiento térmico ni protección anticorrosiva extra, aunque sí trae, como todos los de esta guía, el ánodo de magnesio de protección estándar (te explicamos por qué importa más abajo). Si el aislamiento y el anticorrosivo extra te importan a mediano plazo, los encontrás en el Sherman o el Rheem. Para una persona sola, el Exahome de 40 litros es el más barato y aun así trae ambas.` },
       { type: "list", items: [
         `Más vendido y calificado: [Señorial Zafiro 50L](/producto/termotanque-electrico-senorial-tesz-65-zafiro-blanco-50-litros-superior-mla15585571)`,
         `Mejor calificado y con aislamiento + anticorrosivo: [Sherman 85L](/producto/termotanque-electrico-sherman-tepc085eshk2-blanco-85l-mla19904759)`,
@@ -23641,12 +23657,22 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
         `Mejor eficiencia energética (categoría A): [Rheem 85L](/producto/termotanque-electrico-rheem-aee-tep085rh-negro-85l-mm-mla15733526)`,
       ]},
 
+      { type: "h2", title: `¿Qué marca de termotanque eléctrico es mejor?`, id: "mejor-marca" },
+      { type: "p", content: `No hay una sola marca mejor para todos los casos: lo que más cambia el resultado real entre marcas es si el modelo trae aislamiento térmico, protección anticorrosiva y qué eficiencia energética declara, no el nombre por sí solo. Entre las marcas específicas de termotanques que comparamos acá, Señorial es la más elegida por lejos en Argentina, mientras que Sherman y Rheem traen de fábrica aislamiento y protección anticorrosiva.` },
+      { type: "list", items: [
+        `**Señorial**: la marca más vendida y con más opiniones de esta comparativa, pero sin aislamiento ni anticorrosivo de fábrica.`,
+        `**Sherman** y **Rheem**: traen aislamiento térmico y protección anticorrosiva de fábrica; el Rheem suma la mejor eficiencia energética (categoría A).`,
+        `**Exahome**: la más económica de esta comparativa y aun así trae aislamiento y anticorrosivo.`,
+        `**Saiar** y **Escorial**: también son marcas específicas de termotanques con búsquedas propias en Argentina, pero hoy no están entre los modelos con el historial de opiniones verificadas que seguimos en nuestro catálogo, así que no entraron a esta comparativa.`,
+      ]},
+      { type: "p", content: `Más allá del nombre, lo que conviene mirar en cualquier marca es la etiqueta de eficiencia energética (de A a G), si declara aislamiento térmico y protección anticorrosiva, y si trae ánodo de magnesio de recambio, algo que llevan todos los termotanques sea cual sea la marca (ver la sección de instalación y mantenimiento más abajo).` },
+
       { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos los termotanques eléctricos con más ventas y calificaciones reales en MercadoLibre Argentina, de marcas específicas del rubro (Señorial, Sherman, Rheem) y de precio accesible (Exahome). Evaluamos lo que más importa al elegir uno: la **capacidad** en litros, si trae **aislamiento térmico** y **protección anticorrosiva**, la **eficiencia energética** declarada (categoría A a G) y el precio real. Las calificaciones son de compradores reales. Los precios que ves en las fichas y tablas se revisan contra MercadoLibre tres veces por semana.` },
 
       { type: "h3", title: `Los 4 que comparamos` },
-      { type: "product-card", productMlaId: "MLA15585571", label: "El más vendido", labelColor: "green", ranking: 1, description: `50 litros, liviano, se cuelga o apoya. 4.7 estrellas en 3.106 calificaciones, ninguna otra marca de esta guía se acerca. No trae aislamiento ni anticorrosivo.` },
+      { type: "product-card", productMlaId: "MLA15585571", label: "El más vendido", labelColor: "green", ranking: 1, description: `50 litros, liviano, se cuelga o apoya. 4.7 estrellas en {{reviews:MLA15585571}} calificaciones, ninguna otra marca de esta guía se acerca. No trae aislamiento ni anticorrosivo extra, aunque sí trae el ánodo de magnesio estándar de todos los termotanques.` },
       { type: "pull-quote", content: `Anda perfecto. Se puede apoyar y colgar, y regular la temperatura fácilmente. Para dos duchas seguidas va bien, aunque prefiero esperar un poco. Respecto al consumo por ahora pago menos de luz que lo que antes pagaba de gas.`, attribution: `— Comprador verificado en MercadoLibre, 2025 · 38 personas lo encontraron útil` },
-      { type: "product-card", productMlaId: "MLA19904759", label: "El mejor calificado", labelColor: "blue", ranking: 2, description: `85 litros, supervisado por Rheem. Trae aislamiento térmico y protección anticorrosiva. Recupera 86 litros por hora. 4.8 estrellas en 514 calificaciones.` },
+      { type: "product-card", productMlaId: "MLA19904759", label: "El mejor calificado", labelColor: "blue", ranking: 2, description: `85 litros, supervisado por Rheem. Trae aislamiento térmico y protección anticorrosiva. Recupera 86 litros por hora. 4.8 estrellas en {{reviews:MLA19904759}} calificaciones.` },
       { type: "product-card", productMlaId: "MLA45424072", label: "El más económico", labelColor: "amber", ranking: 3, description: `40 litros, el más barato de esta guía y aun así trae aislamiento y anticorrosivo. Incluye soporte para colgar. Ideal para una persona o departamento chico.` },
       { type: "product-card", productMlaId: "MLA15733526", label: "Mejor eficiencia", labelColor: "purple", ranking: 4, description: `85 litros, eficiencia energética categoría A (la más alta comparada acá) gracias a doble aislación. El más caro de los 4, pero con marca de trayectoria internacional en termotanques.` },
       { type: "pull-quote", content: `Cambié de un saiar a este rheem, y se nota la diferencia de calidad. Tip: recuerden nunca conectar piezas de bronce directo al hierro del termo, e intercalen algo aislante como plástico, para evitar la corrosión (por corriente galvánica) y que se dañe el termo mucho antes de lo esperado.`, attribution: `— Comprador verificado en MercadoLibre, 2025 · 74 personas lo encontraron útil` },
@@ -23671,7 +23697,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { type: "p", content: `Los termotanques eléctricos en Argentina llevan una etiqueta de eficiencia energética de la A (la más eficiente) a la G (la menos eficiente), igual que un aire acondicionado o una heladera. De los 4 de esta guía, el Rheem es categoría A gracias a una doble aislación térmica, el Sherman es C, y el Señorial (el más vendido) es E, la más baja del grupo.` },
       { type: "callout", calloutVariant: "tip", calloutTitle: "Por qué la eficiencia importa más en un termotanque que en otros electrodomésticos", content: `A diferencia de un ventilador o una heladera, el termotanque mantiene agua caliente durante horas sin usarla. Sin buen aislamiento térmico, pierde temperatura seguido y el resistor eléctrico vuelve a prenderse para recalentarla, lo que se nota directo en la factura de luz.` },
       { type: "h3", title: `3. Aislamiento térmico y protección anticorrosiva` },
-      { type: "p", content: `Son las dos características técnicas que más diferencia el precio de este grupo, y no siempre las declara el título de la publicación. El Sherman, el Exahome y el Rheem traen las dos; el Señorial (el más vendido) no trae ninguna. Sin protección anticorrosiva, el tanque interno es más vulnerable a la oxidación con los años, algo que en un equipo en contacto constante con agua pesa más que en otros electrodomésticos.` },
+      { type: "p", content: `Son las dos características técnicas que más diferencia el precio de este grupo, y no siempre las declara el título de la publicación. El Sherman, el Exahome y el Rheem traen las dos; el Señorial (el más vendido) no trae ninguna. Sin protección anticorrosiva, el tanque interno es más vulnerable a la oxidación con los años, algo que en un equipo en contacto constante con agua pesa más que en otros electrodomésticos. De todos modos, el Señorial sí trae, como el resto, el ánodo de magnesio de protección estándar que llevan todos los termotanques (lo explicamos en la sección de instalación y mantenimiento).` },
       { type: "h3", title: `4. Colgar o de pie` },
       { type: "p", content: `No todos los termotanques admiten las dos instalaciones. El Señorial y el Exahome se pueden colgar o apoyar; el Sherman y el Rheem de esta guía son solo de instalación de pie. Si el espacio disponible es una pared angosta sin lugar en el piso, conviene confirmar esto antes de comprar.` },
 
@@ -23693,7 +23719,7 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       { type: "h2", title: `Termotanque eléctrico vs. calefón: la diferencia real` },
       { type: "p", content: `El termotanque calienta y guarda una reserva de agua caliente en un tanque aislado (40 a 85 litros), lista para usar. El calefón eléctrico, en cambio, es más chico: hay modelos con un tanque de solo 20 litros que se carga antes de bañarse, y modelos instantáneos que calientan el agua al paso, sin almacenarla. El termotanque conviene si querés varias duchas seguidas sin esperar; el calefón eléctrico, si el espacio es limitado y no necesitás tanta capacidad. Comparamos los calefones eléctricos reales de MercadoLibre Argentina en nuestra [guía de calefones eléctricos](/guias/agua-caliente/calefon-electrico).` },
 
-      { type: "h2", title: `Cuánto cuesta un termotanque eléctrico en Argentina [julio 2026]`, id: "precios" },
+      { type: "h2", title: `Cuánto cuesta un termotanque eléctrico en Argentina [2026]`, id: "precios" },
       { type: "list", items: [
         `**Alrededor de {{precio:MLA45424072:k}}:** el más económico, el [Exahome de 40 litros](https://meli.la/1iYQuEF), ideal para una persona.`,
         `**Alrededor de {{precio:MLA15585571:k}}:** el más vendido, el [Señorial Zafiro de 50 litros](https://meli.la/3188Pdf), sin aislamiento ni anticorrosivo.`,
@@ -23702,10 +23728,11 @@ La diferencia entre 600 y 1.400 rpm sí es enorme, y esa misma carga puede pasar
       ] },
 
       { type: "h2", title: `Veredicto: cuál termotanque eléctrico comprar`, id: "veredicto" },
-      { type: "verdict", content: `Para la mayoría, el **Señorial Zafiro** de 50 litros: es el más vendido y calificado por lejos, liviano y de los más baratos, aunque resigna aislamiento y anticorrosivo. Si tu familia usa mucha agua caliente seguida y querés esas dos características, el **Sherman** de 85 litros suma aislamiento, anticorrosivo y la mejor calificación promedio del grupo. Para una persona sola o un departamento chico, el **Exahome** de 40 litros es el más barato sin resignar aislamiento ni anticorrosivo. Y si priorizás la eficiencia energética a largo plazo por sobre el desembolso inicial, el **Rheem** de 85 litros es categoría A, la más alta comparada acá.` },
+      { type: "verdict", content: `Para la mayoría, el **Señorial Zafiro** de 50 litros: es el más vendido y calificado por lejos, liviano y de los más baratos, aunque resigna el aislamiento y el anticorrosivo extra (sí trae, como todos los de esta guía, el ánodo de magnesio estándar). Si tu familia usa mucha agua caliente seguida y querés esas dos características, el **Sherman** de 85 litros suma aislamiento, anticorrosivo y la mejor calificación promedio del grupo. Para una persona sola o un departamento chico, el **Exahome** de 40 litros es el más barato sin resignar aislamiento ni anticorrosivo. Y si priorizás la eficiencia energética a largo plazo por sobre el desembolso inicial, el **Rheem** de 85 litros es categoría A, la más alta comparada acá.` },
     ],
     faq: [
-      { question: `¿Cuál es el mejor termotanque eléctrico en Argentina?`, answer: `El más elegido en Argentina es un termotanque de 50 litros, por su equilibrio entre capacidad y precio: en ventas y calificaciones ese lugar lo ocupa el Señorial Zafiro (3.106 calificaciones). Si priorizás aislamiento térmico y protección anticorrosiva, el Sherman de 85 litros tiene la mejor calificación promedio (4.8). Para la mejor eficiencia energética, el Rheem de 85 litros es categoría A.` },
+      { question: `¿Cuál es el mejor termotanque eléctrico en Argentina?`, answer: `El más elegido en Argentina es un termotanque de 50 litros, por su equilibrio entre capacidad y precio: en ventas y calificaciones ese lugar lo ocupa el Señorial Zafiro ({{reviews:MLA15585571}} calificaciones). Si priorizás aislamiento térmico y protección anticorrosiva, el Sherman de 85 litros tiene la mejor calificación promedio (4.8). Para la mejor eficiencia energética, el Rheem de 85 litros es categoría A.` },
+      { question: `¿Qué marca de termotanque eléctrico es mejor?`, answer: `No hay una marca mejor para todos los casos: lo que más cambia entre marcas es si el modelo trae aislamiento térmico, protección anticorrosiva y qué eficiencia energética declara. Señorial es la marca más vendida en Argentina, Sherman y Rheem traen aislamiento y anticorrosivo de fábrica, y Exahome es la más económica sin resignar ninguna de las dos.` },
       { question: `¿Cuántos litros de termotanque necesito?`, answer: `Para una persona sola o un departamento chico, 40 litros alcanzan. Para 2-3 personas, 50 litros. Para una familia de 3 o más con duchas seguidas, conviene 85 litros o más, para no quedarte sin agua caliente a mitad de ducha.` },
       { question: `¿Qué diferencia hay entre un termotanque eléctrico y un calefón?`, answer: `El termotanque calienta y guarda una reserva de agua caliente en un tanque aislado, lista para usar en cualquier momento. El calefón la calienta al instante mientras la usás, sin almacenarla. El termotanque conviene para varias duchas seguidas sin esperar; el calefón, cuando el espacio de instalación es limitado.` },
       { question: `¿Cuánto consume un termotanque eléctrico por mes?`, answer: `Depende de la potencia (1.5 a 2 kW en los de esta guía), el aislamiento térmico y el uso: si lo dejás siempre enchufado mantiene la temperatura todo el día, mientras que si lo encendés solo antes de bañarte, el consumo baja. Los modelos con mejor eficiencia energética (categoría A, como el Rheem) consumen menos para mantener la misma temperatura.` },
