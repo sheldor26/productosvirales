@@ -6,6 +6,45 @@
 > chequearlos en MercadoLibre. Si son reales, avisar para aplicarlos a mano.
 > Entradas nuevas arriba.
 
+## 2026-11-04
+
+- **MLA16132352** — Cámara Deportiva Akaso V50X: $176.899 → $599.999 (+239%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA16132352
+  - Sitio: https://productosvirales.com.ar/producto/MLA16132352
+- **MLA27036811** — Cámara Instantánea Híbrida Fujifilm Instax Mini Evo: $374.216 → $899.999 (+141%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA27036811
+  - Sitio: https://productosvirales.com.ar/producto/MLA27036811
+- **MLA27167036** — Horno Grill Eléctrico Atma Hgab4523pi 45l 1400w Negro: $364.670 → $163.899 (-55%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA27167036
+  - Sitio: https://productosvirales.com.ar/producto/MLA27167036
+- **MLA8732921** — Auriculares Gamer Con Cable HyperX Cloud HX-HSCA Black y Red: $91.379 → $779.403 (+753%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA8732921
+  - Sitio: https://productosvirales.com.ar/producto/MLA8732921
+- **MLA16122300** — Armaf Club de Nuit Intense Man EDP 200ml: $117.999 → $356.132 (+202%)
+  - ML: https://www.mercadolibre.com.ar/armaf-club-de-nuit-intense-man-edp-200ml/p/MLA16122300
+  - Sitio: https://productosvirales.com.ar/producto/MLA16122300
+- **MLA42113760** — Freidora De Aire Kanji Home 8 Litros +10 Funciones Canasta Antiadherente Kjh-1700dc 1700w Lh Color Negro: $293.000 → $135.093 (-54%)
+  - ML: https://www.mercadolibre.com.ar/freidora-de-aire-kanji-home-8-litros-10-funciones-canasta-antiadherente-kjh-1700dc-1700w-lh-color-negro/p/MLA42113760
+  - Sitio: https://productosvirales.com.ar/producto/MLA42113760
+- **MLA37794717** — Cámara De Seguridad Ezviz Ty1 Wifi Interior Motorizada: $53.999 → $162.500 (+201%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA37794717
+  - Sitio: https://productosvirales.com.ar/producto/MLA37794717
+- **MLA50045029** — Termómetro Digital Infrarrojo Lepu LFR30B Frente Memoria Adultos Niños: $25.990 → $58.421 (+125%)
+  - ML: https://www.mercadolibre.com.ar/termometro-digital-infrarrojo-lepu-lfr30b-frente-memoria-adultos-ninos/p/MLA50045029
+  - Sitio: https://productosvirales.com.ar/producto/MLA50045029
+- **MLA29597823** — Bombilla Mate El Santo Mate Hexagonal Acero Inoxidable Bronce Filtro Plano: $3.883 → $50.491 (+1200%)
+  - ML: https://www.mercadolibre.com.ar/bombilla-mate-el-santo-mate-hexagonal-acero-inoxidable-bronce-filtro-plano/p/MLA29597823
+  - Sitio: https://productosvirales.com.ar/producto/MLA29597823
+- **MLA69809119** — Zapateros Mueble Zapatos Organizador Zapatero De Metal Plateado De 8 Pisos: $59.999 → $21.688 (-64%)
+  - ML: https://www.mercadolibre.com.ar/zapateros-mueble-zapatos-organizador-zapatero-de-metal-plateado-de-8-pisos/p/MLA69809119
+  - Sitio: https://productosvirales.com.ar/producto/MLA69809119
+- **MLA57822248** — Freidora de Aire Kanji KJHAF1404 — 4 Litros, 1,4 kW, Digital: $76.000 → $199.999 (+163%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA57822248
+  - Sitio: https://productosvirales.com.ar/producto/MLA57822248
+- **MLA50578777** — Botas de Presoterapia Gadnic 9 Intensidades Temporizador Automático 15 Min Controlador Plantillas: $348.549 → $92.149 (-74%)
+  - ML: https://www.mercadolibre.com.ar/botas-de-presoterapia-gadnic-9-intensidades-temporizador-automatico-15-min-controlador-plantillas/p/MLA50578777
+  - Sitio: https://productosvirales.com.ar/producto/MLA50578777
+
 ## 2026-10-12
 
 - **MLA23305108** — Guitarra Eléctrica Fender Squier Stratocaster Sonic HSS: $553.799 → $1.251.000 (+126%)
