@@ -1,37 +1,36 @@
 import type { Coupon } from "@/lib/types";
 
-// Día 2 de Cyber Monday: mismos tres tramos de ayer, solo cambian los códigos.
+// Día 3 de Cyber Monday: mismos tres tramos y montos, solo cambian los códigos.
 // `getApplicableCoupon` se queda con el que más descuento da para cada precio:
-//   >= $1.000.000    -> ARRANCAMELI ($80.000)
-//   $500k a $1.000k  -> CYBEREXPLOTA ($45.000)
-//   $250k a $500k    -> MELIMODOCYBER ($20.000)
+//   >= $1.000.000    -> CYBERENCENDIDO ($80.000)
+//   $500k a $1.000k  -> MELIROMPETODO ($45.000)
+//   $250k a $500k    -> CYBERALMAX ($20.000)
 //   menos de $250k   -> sin badge
 //
-// El mensaje no trae vigencia; se asume el corte de siempre (hoy 23:59), igual
-// que ayer. Sin `validFrom`: ya están activos.
+// Hoy arrancan a las 10:00, no a las 00:00 como el 2/11, de ahí el validFrom.
 export const activeCoupons: Coupon[] = [
   {
-    code: "MELIMODOCYBER",
+    code: "CYBERALMAX",
     discountAmount: 20000,
     minPurchase: 250000,
-    validFrom: null,
-    validUntil: "2026-11-03T23:59:00-03:00",
+    validFrom: "2026-11-04T10:00:00-03:00",
+    validUntil: "2026-11-04T23:59:00-03:00",
     active: true,
   },
   {
-    code: "CYBEREXPLOTA",
+    code: "MELIROMPETODO",
     discountAmount: 45000,
     minPurchase: 500000,
-    validFrom: null,
-    validUntil: "2026-11-03T23:59:00-03:00",
+    validFrom: "2026-11-04T10:00:00-03:00",
+    validUntil: "2026-11-04T23:59:00-03:00",
     active: true,
   },
   {
-    code: "ARRANCAMELI",
+    code: "CYBERENCENDIDO",
     discountAmount: 80000,
     minPurchase: 1000000,
-    validFrom: null,
-    validUntil: "2026-11-03T23:59:00-03:00",
+    validFrom: "2026-11-04T10:00:00-03:00",
+    validUntil: "2026-11-04T23:59:00-03:00",
     active: true,
   },
 ];
