@@ -25,6 +25,24 @@
 ---
 -->
 
+## 2026-11-04 — Retomar el proyecto (sin cambios)
+
+**Qué se hizo:**
+- Sin cambios: solo se leyó CURRENT_STATE.md y el historial de git para retomar el contexto, y se le propuso a Juan el próximo paso (guía `bordeadora a nafta`, publicar Regalos de Navidad, guía `balanza de baño digital`).
+
+**Archivos tocados:** SESSION_LOG.md (esta entrada)
+
+**Estado al cerrar:** sin commitear (solo esta entrada de bitácora); sin cambios de código ni contenido.
+
+**Decisiones pendientes para Juan:**
+- Elegir por dónde seguir: bordeadora a nafta (pico de demanda nov-ene), publicar Regalos de Navidad 2026 (hoy STAGED), balanza de baño, u otra cosa.
+- Confirmar si ya hizo el `git push` del commit de Fogonero (`7b5d8c0`).
+
+**Próximo paso sugerido:**
+- Sourcing de bordeadoras a nafta en MercadoLibre siguiendo `docs/guias.md` y `docs/fichas.md`.
+
+---
+
 ## 2026-08-31 (b) — Chequeo de indexación: robot-aspiradora-samsung (falso negativo por búsqueda web, confirmado indexada en GSC)
 
 **Qué se hizo:**
