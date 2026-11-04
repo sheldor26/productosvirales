@@ -8,6 +8,34 @@
 > Entradas nuevas arriba.
 
 
+## 2026-11-04
+
+- **elecciones estados unidos** — 200 mil+ búsquedas (+1.000%, 3 d)
+- **fecha de cobro jubilados noviembre 2026** — 100 mil+ búsquedas (+1.000%, anteayer)
+- **jesus de miguel** — 100 mil+ búsquedas (+1.000%, anteayer)
+- **aek - real madrid** — 50 mil+ búsquedas (+1.000%, 3 h)
+- **barcelona - aston villa** — 50 mil+ búsquedas (+1.000%, ayer)
+- **fin de semana** — 50 mil+ búsquedas (+1.000%, 16 h)
+- **posiciones de atlético de madrid contra bayern** — 50 mil+ búsquedas (+1.000%, 22 h)
+- **pedro rosemblat** — 50 mil+ búsquedas (+500%, 4 d)
+- **nano villarnovo australia** — 20 mil+ búsquedas (+1.000%, ayer)
+- **antártida** — 20 mil+ búsquedas (+1.000%, ayer)
+- **daniel bifulco** — 20 mil+ búsquedas (+1.000%, 7 h)
+- **chlamyphorus** — 20 mil+ búsquedas (+1.000%, ayer)
+- **edificio** — 20 mil+ búsquedas (+1.000%, 21 h)
+- **real madrid** — 20 mil+ búsquedas (+400%, 2 h)
+- **side** — 20 mil+ búsquedas (+1.000%, ayer)
+- **trump** — 20 mil+ búsquedas (+1.000%, ayer)
+- **dexter** — 20 mil+ búsquedas (+100%, anteayer)
+- **paraguay** — 20 mil+ búsquedas (+1.000%, 23 h)
+- **sporting** — 20 mil+ búsquedas (+300%, anteayer)
+- **fenerbahçe - liverpool** — 10 mil+ búsquedas (+1.000%, 3 h)
+- **nelson castro** — 10 mil+ búsquedas (+1.000%, 6 h)
+- **liverpool** — 10 mil+ búsquedas (+1.000%, 2 h)
+- **rb leipzig - manchester city** — 5 mil+ búsquedas (+1.000%, 1 h)
+- **4 de noviembre** — 5 mil+ búsquedas (+1.000%, 21 h)
+- **lens - como** — 2 mil+ búsquedas (+1.000%, 1 h)
+
 ## 2026-10-07
 
 - **argentina - benín** — 2 M+ búsquedas (+1.000%, 21 h)
