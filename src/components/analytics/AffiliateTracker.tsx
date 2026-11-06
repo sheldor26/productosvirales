@@ -12,7 +12,14 @@ declare global {
   }
 }
 
-const SEGUIR_CAP_KEY = "pv_seguir_ml_banner_last_shown";
+// v2 (sufijo nuevo a propósito): la clave vieja "pv_seguir_ml_banner_last_shown"
+// quedaba escrita en el teléfono de cualquiera que haya disparado el aviso
+// pasivo ANTES de que existiera el gate de mobile (SeguirMlGate) — aunque
+// nunca lo haya llegado a VER (se mostraba en la pestaña que quedaba atrás,
+// invisible en el deep link a la app). Con la clave vieja, ese click viejo
+// seguía gastando el cupo semanal del gate nuevo, así que nunca se mostraba
+// nada. Confirmado con una grabación de Juan, 2026-11-06.
+const SEGUIR_CAP_KEY = "pv_seguir_ml_v2_last_shown";
 const SEGUIR_CAP_DAYS = 7;
 const SEGUIR_BANNER_AUTO_HIDE_MS = 6000;
 // Mismo límite que ya validó Codex en el prototipo: máximo ~1,4s, con
