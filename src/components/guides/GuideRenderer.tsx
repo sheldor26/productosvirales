@@ -24,6 +24,7 @@ import { injectLivePrices } from "@/lib/price-token";
 import { analyzePriceHistory } from "@/lib/price-history";
 import { Stars } from "./Stars";
 import { HeadingAnchorButton } from "./HeadingAnchorButton";
+import { SeguirMlCard } from "@/components/widgets/SeguirMlCard";
 
 interface GuideRendererProps {
   guide: Guide;
@@ -794,6 +795,13 @@ export function GuideRenderer({ guide: rawGuide }: GuideRendererProps) {
             </p>
           </aside>
 
+          {/* Seguir en ML, temprano en el cuerpo — mismo criterio que el aside
+              de Telegram/WhatsApp de arriba: un CTA de bajo compromiso rinde
+              mejor metido en el contenido que solo al final. */}
+          <div className="not-prose mb-8">
+            <SeguirMlCard copy="default" />
+          </div>
+
           {/* Sections */}
           {bodySections.map((section, i) => {
             const next = bodySections[i + 1];
@@ -807,6 +815,11 @@ export function GuideRenderer({ guide: rawGuide }: GuideRendererProps) {
                 {/* Repetir CTA al producto #1 tras el veredicto */}
                 {section.type === "verdict" && topPickId && (
                   <VerdictCta productMlaId={topPickId} />
+                )}
+                {section.type === "verdict" && (
+                  <div className="not-prose mb-8">
+                    <SeguirMlCard copy="verdict" />
+                  </div>
                 )}
               </Fragment>
             );

@@ -40,14 +40,14 @@ export function NewsletterBanner() {
       const full = document.documentElement.scrollHeight;
       // Necesita recorrido real (guías largas) Y haber pasado el umbral de ratio.
       if (window.scrollY > 600 && full > 0 && scrolled / full >= TRIGGER_SCROLL_RATIO) {
-        // El link "Seguinos en MercadoLibre" (SeguirMlInline.tsx) vive en el
-        // mismo tramo final de la ficha donde suele caer este umbral — si
-        // justo está en pantalla, el newsletter lo tapa. No nos perdemos el
-        // disparo: seguimos escuchando y se muestra apenas esa franja salga
-        // de la vista (el visitante sigue bajando o lo cierra).
-        const seguirMl = document.getElementById("seguir-ml-inline");
-        if (seguirMl) {
-          const r = seguirMl.getBoundingClientRect();
+        // Las tarjetas "Seguinos en MercadoLibre" (SeguirMlCard.tsx) pueden
+        // vivir en varios puntos de una guía o ficha — si CUALQUIERA está en
+        // pantalla justo cuando se cumple este umbral, el newsletter la
+        // taparía. No nos perdemos el disparo: seguimos escuchando y se
+        // muestra apenas esa franja salga de la vista.
+        const seguirMlCards = document.querySelectorAll(".seguir-ml-card");
+        for (const card of seguirMlCards) {
+          const r = card.getBoundingClientRect();
           if (r.top < window.innerHeight && r.bottom > 0) return;
         }
         setShow(true);

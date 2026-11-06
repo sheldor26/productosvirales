@@ -42,7 +42,7 @@ import { AffiliateLink } from "@/components/affiliate/AffiliateLink";
 import { PriceHistoryChart } from "./PriceHistoryChart";
 import { CouponBadge } from "./CouponBadge";
 import { ShareButtons } from "@/components/widgets/ShareButtons";
-import { SeguirMlInline } from "@/components/widgets/SeguirMlInline";
+import { SeguirMlCard } from "@/components/widgets/SeguirMlCard";
 import type { Product } from "@/lib/types";
 
 const BADGE_LABELS: Record<NonNullable<Product["badge"]>, string> = {
@@ -876,11 +876,12 @@ export function ProductDetail({
               <ExternalLink size={16} />
             </AffiliateLink>
           )}
-          <div className="flex justify-center">
-            <SeguirMlInline variant="dark" />
-          </div>
         </div>
       )}
+
+      <div className="mt-5 max-w-3xl mx-auto">
+        <SeguirMlCard copy="verdict" />
+      </div>
 
       <RecentlyViewed excludeId={product.id} currentCategorySlug={product.categorySlug} />
 
