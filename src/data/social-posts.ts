@@ -5069,4 +5069,2124 @@ export const socialPosts: SocialPost[] = [
     offPct: "21",
     postedAt: "2026-10-03T11:50:17-03:00",
   },
+  {
+    title: "Samsung Galaxy S26 Ultra 512GB 12GB RAM",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_763049-MLA107401577298_032026-O.webp",
+    affiliateUrl: "https://meli.la/2ecMH9b",
+    newPrice: "2.165.000",
+    oldPrice: "2.165.000",
+    offPct: "0",
+    postedAt: "2026-10-04T12:50:20-03:00",
+  },
+  {
+    title: "Monitor Gamer Samsung 27\" Full HD IPS 100Hz (LS27D300GALX)",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_685774-MLA99523893106_122025-O.webp",
+    affiliateUrl: "https://meli.la/2AZ85ZP",
+    newPrice: "210.799",
+    oldPrice: "358.884",
+    offPct: "41",
+    postedAt: "2026-10-04T16:19:05-03:00",
+  },
+  {
+    title: "Smart TV Philips 43\" LED Full HD Titan OS (43PFD6910/77)",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_867025-MLA118393535447_092026-O.webp",
+    affiliateUrl: "https://meli.la/1V7Ke9H",
+    newPrice: "419.216",
+    oldPrice: "560.299",
+    offPct: "25",
+    postedAt: "2026-10-04T16:46:35-03:00",
+  },
+  {
+    title: "Aire Acondicionado Split Philco Inverter 3750W Frío/Calor",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_836672-MLA107516172167_022026-O.webp",
+    affiliateUrl: "https://meli.la/1UNDCK1",
+    newPrice: "799.999",
+    oldPrice: "1.499.999",
+    offPct: "46",
+    postedAt: "2026-10-05T08:10:23-03:00",
+  },
+  {
+    title: "Smartphone Motorola Moto G06 128GB 4GB RAM Azul Marino",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_999997-MLA93732490421_092025-O.webp",
+    affiliateUrl: "https://meli.la/1XQ2eVP",
+    newPrice: "264.999",
+    oldPrice: "399.999",
+    offPct: "33",
+    postedAt: "2026-10-05T08:40:43-03:00",
+  },
+  {
+    title: "Joystick DualSense PS5 Gray Camouflage",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_845127-MLA110352998993_042026-O.webp",
+    affiliateUrl: "https://meli.la/2JHM1aj",
+    newPrice: "167.999",
+    oldPrice: "189.999",
+    offPct: "11",
+    postedAt: "2026-10-05T09:11:23-03:00",
+  },
+  {
+    title: "Heladera con Freezer Philco 199L Blanca (NPHCT225B)",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_965189-MLA116978899387_082026-O.webp",
+    affiliateUrl: "https://meli.la/1UV8axy",
+    newPrice: "599.615",
+    oldPrice: "999.999",
+    offPct: "40",
+    postedAt: "2026-10-05T09:41:48-03:00",
+  },
+  {
+    title: "Paquete Nintendo Switch 2 + Mario Kart World 256GB",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_702013-MLA99442057204_112025-O.webp",
+    affiliateUrl: "https://meli.la/2811cfs",
+    newPrice: "1.353.999",
+    oldPrice: "1.353.999",
+    offPct: "0",
+    postedAt: "2026-10-05T10:08:24-03:00",
+  },
+  {
+    title: "Xiaomi Redmi Note 15 Pro 8GB RAM 256GB Negro",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_848773-MLA111914479146_062026-O.webp",
+    affiliateUrl: "https://meli.la/1aA9zB9",
+    newPrice: "567.000",
+    oldPrice: "567.000",
+    offPct: "0",
+    postedAt: "2026-10-05T10:39:20-03:00",
+  },
+  {
+    title: "Monitor Gamer ASRock Challenger CL25FFA 24,5\" 120Hz",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_728524-MLA100464313074_122025-O.webp",
+    affiliateUrl: "https://meli.la/1i4UDgo",
+    newPrice: "179.999",
+    oldPrice: "339.999",
+    offPct: "47",
+    postedAt: "2026-10-05T11:10:14-03:00",
+  },
+  {
+    title: "Motorola Moto G15 256GB 8GB RAM + Funda de regalo",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_879184-MLA90557082581_082025-O.webp",
+    affiliateUrl: "https://meli.la/1fjpzYB",
+    newPrice: "327.999",
+    oldPrice: "399.999",
+    offPct: "18",
+    postedAt: "2026-10-05T11:41:20-03:00",
+  },
+  {
+    title: "Lavarropas Philco 6 Kg Carga Frontal Inverter Blanco",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_930684-MLA108811432239_032026-O.webp",
+    affiliateUrl: "https://meli.la/1AEdRwG",
+    newPrice: "569.000",
+    oldPrice: "799.999",
+    offPct: "28",
+    postedAt: "2026-10-05T17:02:33-03:00",
+  },
+  {
+    title: "Auriculares Gamer Inalámbricos Redragon Zeus Pro H510-PRO",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_849742-MLA115366363526_082026-O.webp",
+    affiliateUrl: "https://meli.la/2NEJM1u",
+    newPrice: "126.000",
+    oldPrice: "171.420",
+    offPct: "26",
+    postedAt: "2026-10-05T17:33:51-03:00",
+  },
+  {
+    title: "Tablet Xiaomi Redmi Pad 2 11\" 4GB RAM 128GB",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_975815-MLA99510216084_112025-O.webp",
+    affiliateUrl: "https://meli.la/1HSpdAY",
+    newPrice: "396.500",
+    oldPrice: "396.500",
+    offPct: "0",
+    postedAt: "2026-10-05T18:04:43-03:00",
+  },
+  {
+    title: "Consola Sony PlayStation 5 Pro 2TB Digital CFI-7020",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_892350-MLA99979858751_112025-O.webp",
+    affiliateUrl: "https://meli.la/2Sm9w1m",
+    newPrice: "2.544.000",
+    oldPrice: "2.650.000",
+    offPct: "4",
+    postedAt: "2026-10-05T18:35:54-03:00",
+  },
+  {
+    title: "Heladera con Freezer Cíclica Drean 215L Inox (RZD215PVARX0)",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_731158-MLA106669410739_022026-O.webp",
+    affiliateUrl: "https://meli.la/1jwp1UU",
+    newPrice: "639.999",
+    oldPrice: "909.998",
+    offPct: "29",
+    postedAt: "2026-10-05T19:06:46-03:00",
+  },
+  {
+    title: "Smartwatch Xiaomi Smart Band 10 Pro AMOLED 1.74\" GPS 5ATM",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_801838-MLA117189212949_092026-O.webp",
+    affiliateUrl: "https://meli.la/33xQ6Nr",
+    newPrice: "147.999",
+    oldPrice: "299.999",
+    offPct: "50",
+    postedAt: "2026-10-05T19:37:53-03:00",
+  },
+  {
+    title: "Joystick Sony PlayStation DualSense Inalámbrico Black PS5",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_759059-MLA99508283678_112025-O.webp",
+    affiliateUrl: "https://meli.la/2eXut3S",
+    newPrice: "144.999",
+    oldPrice: "144.999",
+    offPct: "0",
+    postedAt: "2026-10-05T20:09:07-03:00",
+  },
+  {
+    title: "Smartphone Motorola Moto G06 128GB 4GB RAM Azul Marino",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_999997-MLA93732490421_092025-O.webp",
+    affiliateUrl: "https://meli.la/1XQ2eVP",
+    newPrice: "257.049",
+    oldPrice: "399.999",
+    offPct: "35",
+    postedAt: "2026-10-06T08:15:57-03:00",
+  },
+  {
+    title: "Sony PlayStation 4 Slim CUH-20 1TB Standard Negro",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_798586-MLA40076060236_122019-O.webp",
+    affiliateUrl: "https://meli.la/2HdaBDZ",
+    newPrice: "645.000",
+    oldPrice: "645.000",
+    offPct: "0",
+    postedAt: "2026-10-06T08:46:47-03:00",
+  },
+  {
+    title: "Monitor Noblex 27\" NXSM2700 Full HD 1ms 100Hz",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_728527-MLA99914838207_112025-O.webp",
+    affiliateUrl: "https://meli.la/1Rc4gT2",
+    newPrice: "185.999",
+    oldPrice: "356.399",
+    offPct: "47",
+    postedAt: "2026-10-06T09:12:38-03:00",
+  },
+  {
+    title: "Celular TCL K70 128GB 4GB RAM Midnight Black",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_757592-MLA112459004514_062026-O.webp",
+    affiliateUrl: "https://meli.la/24qvUvc",
+    newPrice: "199.999",
+    oldPrice: "319.999",
+    offPct: "37",
+    postedAt: "2026-10-06T09:45:05-03:00",
+  },
+  {
+    title: "Amazon Kindle E-reader 2024 11ª Gen 6\" 16GB Negro",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_985552-MLA99883033435_112025-O.webp",
+    affiliateUrl: "https://meli.la/1MMyC5J",
+    newPrice: "289.999",
+    oldPrice: "289.999",
+    offPct: "0",
+    postedAt: "2026-10-06T10:16:23-03:00",
+  },
+  {
+    title: "Heladera Smartlife No Frost Inverter 260L con Dispenser",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_938794-MLA99990284005_112025-O.webp",
+    affiliateUrl: "https://meli.la/2FtbWR8",
+    newPrice: "799.999",
+    oldPrice: "999.999",
+    offPct: "20",
+    postedAt: "2026-10-06T10:48:01-03:00",
+  },
+  {
+    title: "Lavarropas Philco 6 Kg Carga Frontal Inverter Blanco",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_930684-MLA108811432239_032026-O.webp",
+    affiliateUrl: "https://meli.la/1AEdRwG",
+    newPrice: "569.000",
+    oldPrice: "799.999",
+    offPct: "28",
+    postedAt: "2026-10-06T11:19:22-03:00",
+  },
+  {
+    title: "Paquete Nintendo Switch 2 + Mario Kart World 256GB",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_702013-MLA99442057204_112025-O.webp",
+    affiliateUrl: "https://meli.la/2811cfs",
+    newPrice: "1.353.999",
+    oldPrice: "1.353.999",
+    offPct: "0",
+    postedAt: "2026-10-06T11:50:18-03:00",
+  },
+  {
+    title: "Consola Sony PlayStation 5 Pro 2TB Digital CFI-7020",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_892350-MLA99979858751_112025-O.webp",
+    affiliateUrl: "https://meli.la/2Sm9w1m",
+    newPrice: "2.519.999",
+    oldPrice: "2.519.999",
+    offPct: "0",
+    postedAt: "2026-10-06T16:38:27-03:00",
+  },
+  {
+    title: "Heladera Midea Top Mount 240L Blanca (MDRT333FGE01A)",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_699970-MLA107726946923_022026-O.webp",
+    affiliateUrl: "https://meli.la/2x5XaPQ",
+    newPrice: "689.999",
+    oldPrice: "899.999",
+    offPct: "23",
+    postedAt: "2026-10-06T17:09:45-03:00",
+  },
+  {
+    title: "Motorola Moto G86 Power 5G 8GB RAM 256GB",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_607066-MLA105588045805_012026-O.webp",
+    affiliateUrl: "https://meli.la/2pYLoUQ",
+    newPrice: "558.081",
+    oldPrice: "558.081",
+    offPct: "0",
+    postedAt: "2026-10-06T17:41:31-03:00",
+  },
+  {
+    title: "Auriculares Sony Bluetooth Inalámbricos WH-CH520 Azul",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_840938-MLA99416676892_112025-O.webp",
+    affiliateUrl: "https://meli.la/1Qz8poT",
+    newPrice: "87.999",
+    oldPrice: "87.999",
+    offPct: "0",
+    postedAt: "2026-10-06T18:12:42-03:00",
+  },
+  {
+    title: "Samsung Galaxy A56 5G 8GB RAM 128GB Rosa",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_961354-MLA99386204570_112025-O.webp",
+    affiliateUrl: "https://meli.la/24QH2dA",
+    newPrice: "597.829",
+    oldPrice: "597.829",
+    offPct: "0",
+    postedAt: "2026-10-06T18:43:49-03:00",
+  },
+  {
+    title: "Smartwatch Xiaomi Smart Band 10 Pro AMOLED 1.74\" GPS 5ATM",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_801838-MLA117189212949_092026-O.webp",
+    affiliateUrl: "https://meli.la/33xQ6Nr",
+    newPrice: "143.299",
+    oldPrice: "199.999",
+    offPct: "28",
+    postedAt: "2026-10-06T19:15:21-03:00",
+  },
+  {
+    title: "Monitor Gamer ASRock Challenger CL25FFA 24,5\" 120Hz",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_728524-MLA100464313074_122025-O.webp",
+    affiliateUrl: "https://meli.la/1i4UDgo",
+    newPrice: "179.999",
+    oldPrice: "339.999",
+    offPct: "47",
+    postedAt: "2026-10-06T19:46:51-03:00",
+  },
+  {
+    title: "Joystick Sony PlayStation DualSense Inalámbrico Black PS5",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_759059-MLA99508283678_112025-O.webp",
+    affiliateUrl: "https://meli.la/2eXut3S",
+    newPrice: "144.999",
+    oldPrice: "144.999",
+    offPct: "0",
+    postedAt: "2026-10-06T20:18:17-03:00",
+  },
+  {
+    title: "Aire Acondicionado Split Philco PHS32HA4CNE 2900F Frío/Calor",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_960914-MLA107829968120_032026-O.webp",
+    affiliateUrl: "https://meli.la/2ARhvUP",
+    newPrice: "671.142",
+    oldPrice: "899.999",
+    offPct: "25",
+    postedAt: "2026-10-07T08:10:22-03:00",
+  },
+  {
+    title: "Xiaomi Redmi 15C 8GB RAM 128GB Dual SIM Negro",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_923666-MLA99523869358_122025-O.webp",
+    affiliateUrl: "https://meli.la/2PHhcXR",
+    newPrice: "319.000",
+    oldPrice: "319.000",
+    offPct: "0",
+    postedAt: "2026-10-07T08:36:28-03:00",
+  },
+  {
+    title: "Amazon Kindle E-reader 2024 11ª Gen 6\" 16GB Negro",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_985552-MLA99883033435_112025-O.webp",
+    affiliateUrl: "https://meli.la/1MMyC5J",
+    newPrice: "284.900",
+    oldPrice: "284.900",
+    offPct: "0",
+    postedAt: "2026-10-07T09:07:56-03:00",
+  },
+  {
+    title: "Smartwatch Xiaomi Smart Band 10 Pro AMOLED 1.74\" GPS 5ATM",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_801838-MLA117189212949_092026-O.webp",
+    affiliateUrl: "https://meli.la/33xQ6Nr",
+    newPrice: "143.299",
+    oldPrice: "199.999",
+    offPct: "28",
+    postedAt: "2026-10-07T09:39:24-03:00",
+  },
+  {
+    title: "Joystick Sony PlayStation DualSense Inalámbrico Black PS5",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_759059-MLA99508283678_112025-O.webp",
+    affiliateUrl: "https://meli.la/2eXut3S",
+    newPrice: "144.999",
+    oldPrice: "144.999",
+    offPct: "0",
+    postedAt: "2026-10-07T10:10:51-03:00",
+  },
+  {
+    title: "Paquete Nintendo Switch 2 + Mario Kart World 256GB",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_702013-MLA99442057204_112025-O.webp",
+    affiliateUrl: "https://meli.la/2811cfs",
+    newPrice: "1.353.999",
+    oldPrice: "1.353.999",
+    offPct: "0",
+    postedAt: "2026-10-07T10:42:35-03:00",
+  },
+  {
+    title: "Lavarropas Philco 6 Kg Carga Frontal Inverter Blanco",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_930684-MLA108811432239_032026-O.webp",
+    affiliateUrl: "https://meli.la/1AEdRwG",
+    newPrice: "569.000",
+    oldPrice: "799.999",
+    offPct: "28",
+    postedAt: "2026-10-07T11:13:49-03:00",
+  },
+  {
+    title: "Smartphone Motorola Moto G06 128GB 4GB RAM Azul Marino",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_999997-MLA93732490421_092025-O.webp",
+    affiliateUrl: "https://meli.la/1XQ2eVP",
+    newPrice: "257.049",
+    oldPrice: "399.999",
+    offPct: "35",
+    postedAt: "2026-10-07T11:45:33-03:00",
+  },
+  {
+    title: "Auriculares Gamer Inalámbricos Redragon Zeus Pro H510-PRO",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_849742-MLA115366363526_082026-O.webp",
+    affiliateUrl: "https://meli.la/2NEJM1u",
+    newPrice: "124.125",
+    oldPrice: "163.305",
+    offPct: "23",
+    postedAt: "2026-10-07T16:56:50-03:00",
+  },
+  {
+    title: "Notebook HP 15 AMD Ryzen 7 8GB/512GB",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_825957-MLA107343343293_022026-O.webp",
+    affiliateUrl: "https://meli.la/1Zx4bfe",
+    newPrice: "1.279.999",
+    oldPrice: "2.459.999",
+    offPct: "47",
+    postedAt: "2026-10-08T09:10:46-03:00",
+  },
+  {
+    title: "Nintendo Switch OLED + Super Mario Bros. Wonder",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_813812-MLA118587329809_102026-O.webp",
+    affiliateUrl: "https://meli.la/27Ky4i7",
+    newPrice: "719.999",
+    oldPrice: "719.999",
+    offPct: "0",
+    postedAt: "2026-10-08T09:42:44-03:00",
+  },
+  {
+    title: "PlayStation Portal Remote Player Blanco",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_919284-MLA99994125807_112025-O.webp",
+    affiliateUrl: "https://meli.la/2HHKzvz",
+    newPrice: "590.491",
+    oldPrice: "664.999",
+    offPct: "11",
+    postedAt: "2026-10-08T10:14:21-03:00",
+  },
+  {
+    title: "Aspiradora Gadnic 2 en 1 Vertical + de Mano 600W 15KPa",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_928530-MLA109897100656_042026-O.webp",
+    affiliateUrl: "https://meli.la/2f8MBrw",
+    newPrice: "75.749",
+    oldPrice: "138.749",
+    offPct: "45",
+    postedAt: "2026-10-08T10:47:31-03:00",
+  },
+  {
+    title: "Gamepad Redragon Harrow Pro Inalámbrico G808PRO",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_769478-MLA99951904179_112025-O.webp",
+    affiliateUrl: "https://meli.la/2SPmDFH",
+    newPrice: "56.336",
+    oldPrice: "96.800",
+    offPct: "41",
+    postedAt: "2026-10-08T11:18:49-03:00",
+  },
+  {
+    title: "Samsung Galaxy A57 5G 8GB/256GB",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_903196-MLA111298938664_052026-O.webp",
+    affiliateUrl: "https://meli.la/2H2fxbo",
+    newPrice: "834.199",
+    oldPrice: "834.199",
+    offPct: "0",
+    postedAt: "2026-10-08T11:45:50-03:00",
+  },
+  {
+    title: "Smart TV Philco 32\" HD Vidaa PLD32HS24VH",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_725232-MLA99510129160_112025-O.webp",
+    affiliateUrl: "https://meli.la/1A6T42k",
+    newPrice: "304.999",
+    oldPrice: "304.999",
+    offPct: "0",
+    postedAt: "2026-10-08T12:11:48-03:00",
+  },
+  {
+    title: "Monitor Gamer Valkyrie VH2410V2 24\" 200Hz IPS",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_641240-MLA99974331101_112025-O.webp",
+    affiliateUrl: "https://meli.la/1wdd7tH",
+    newPrice: "223.999",
+    oldPrice: "319.999",
+    offPct: "30",
+    postedAt: "2026-10-08T18:02:15-03:00",
+  },
+  {
+    title: "Tensiómetro Digital de Brazo Bluetooth Femmto KF-DT65S",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_750127-MLA114688955266_082026-O.webp",
+    affiliateUrl: "https://meli.la/1y3KjeF",
+    newPrice: "32.999",
+    oldPrice: "49.999",
+    offPct: "34",
+    postedAt: "2026-10-08T18:33:00-03:00",
+  },
+  {
+    title: "Monitor Gamer 27\" Samsung Full HD IPS 100Hz LS27D300GALX",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_685774-MLA99523893106_122025-O.webp",
+    affiliateUrl: "https://meli.la/2AZ85ZP",
+    newPrice: "206.499",
+    oldPrice: "309.990",
+    offPct: "33",
+    postedAt: "2026-10-08T19:04:52-03:00",
+  },
+  {
+    title: "Lavarropas Philco 5kg Carga Superior Gris",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_838014-MLA108088518600_032026-O.webp",
+    affiliateUrl: "https://meli.la/1JdCCrM",
+    newPrice: "469.999",
+    oldPrice: "699.999",
+    offPct: "32",
+    postedAt: "2026-10-08T19:36:44-03:00",
+  },
+  {
+    title: "Monitor Samsung 22\" Gamer Full HD IPS 100Hz",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_641204-MLA100016236545_122025-O.webp",
+    affiliateUrl: "https://meli.la/2EyYGLm",
+    newPrice: "157.139",
+    oldPrice: "233.999",
+    offPct: "32",
+    postedAt: "2026-10-08T20:03:16-03:00",
+  },
+  {
+    title: "Creatina Monohidratada Star Nutrition 300g Doypack",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_822619-MLA99367408620_112025-O.webp",
+    affiliateUrl: "https://meli.la/2tGov2r",
+    newPrice: "25.000",
+    oldPrice: "25.000",
+    offPct: "0",
+    postedAt: "2026-10-09T10:20:19-03:00",
+  },
+  {
+    title: "Smartphone Motorola Moto G06 128GB 4GB RAM Azul Marino",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_999997-MLA93732490421_092025-O.webp",
+    affiliateUrl: "https://meli.la/1XQ2eVP",
+    newPrice: "254.751",
+    oldPrice: "399.999",
+    offPct: "36",
+    postedAt: "2026-10-09T10:46:55-03:00",
+  },
+  {
+    title: "Xiaomi Redmi Note 15 Pro 8GB/256GB 4G",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_848773-MLA111914479146_062026-O.webp",
+    affiliateUrl: "https://meli.la/1aA9zB9",
+    newPrice: "554.453",
+    oldPrice: "554.453",
+    offPct: "0",
+    postedAt: "2026-10-09T11:14:52-03:00",
+  },
+  {
+    title: "Monitor Samsung 24\" Gamer S3 S30GD Full HD IPS 100Hz",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_918310-MLA99927876503_112025-O.webp",
+    affiliateUrl: "https://meli.la/23zeYi7",
+    newPrice: "169.645",
+    oldPrice: "169.645",
+    offPct: "0",
+    postedAt: "2026-10-09T11:42:54-03:00",
+  },
+  {
+    title: "Monitor Gamer LG UltraGear 24\" 180Hz Full HD",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_721575-MLA99938046415_112025-O.webp",
+    affiliateUrl: "https://meli.la/1kdUXCc",
+    newPrice: "211.389",
+    oldPrice: "279.194",
+    offPct: "24",
+    postedAt: "2026-10-09T18:57:51-03:00",
+  },
+  {
+    title: "Monitor Noblex 27\" Full HD 100Hz 1ms NXSM2700",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_728527-MLA99914838207_112025-O.webp",
+    affiliateUrl: "https://meli.la/1Rc4gT2",
+    newPrice: "185.999",
+    oldPrice: "356.399",
+    offPct: "47",
+    postedAt: "2026-10-09T19:26:06-03:00",
+  },
+  {
+    title: "Planchita de Pelo BaBylissPRO Nano Titanium 9559",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_857948-MLA99963813379_112025-O.webp",
+    affiliateUrl: "https://meli.la/1MVKvBn",
+    newPrice: "224.990",
+    oldPrice: "308.788",
+    offPct: "27",
+    postedAt: "2026-10-09T19:54:13-03:00",
+  },
+  {
+    title: "Amoladora Angular 115mm 820W Black+Decker G720",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_687450-MLA99371744100_112025-O.webp",
+    affiliateUrl: "https://meli.la/2CTttGb",
+    newPrice: "68.274",
+    oldPrice: "82.300",
+    offPct: "17",
+    postedAt: "2026-10-09T20:22:29-03:00",
+  },
+  {
+    title: "Motorola Moto G15 256GB 8GB RAM + Funda",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_879184-MLA90557082581_082025-O.webp",
+    affiliateUrl: "https://meli.la/1fjpzYB",
+    newPrice: "327.999",
+    oldPrice: "399.999",
+    offPct: "18",
+    postedAt: "2026-10-09T20:58:46-03:00",
+  },
+  {
+    title: "Smart TV Noblex 32\" HD Roku TV DB32X3010",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_948298-MLA112571889079_062026-O.webp",
+    affiliateUrl: "https://meli.la/1vUatQt",
+    newPrice: "264.999",
+    oldPrice: "359.999",
+    offPct: "26",
+    postedAt: "2026-10-10T09:17:10-03:00",
+  },
+  {
+    title: "Consola PlayStation 5 Slim Digital 1TB + Returnal y Ratchet",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_939311-MLA95740904228_102025-O.webp",
+    affiliateUrl: "https://meli.la/1goVQeh",
+    newPrice: "1.299.000",
+    oldPrice: "1.299.000",
+    offPct: "0",
+    postedAt: "2026-10-10T09:48:15-03:00",
+  },
+  {
+    title: "Notebook Lenovo IdeaPad Slim Core i3 N305 8GB 128GB 15.6\"",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_927566-MLA113529511351_062026-O.webp",
+    affiliateUrl: "https://meli.la/2HduPTr",
+    newPrice: "789.999",
+    oldPrice: "1.410.748",
+    offPct: "44",
+    postedAt: "2026-10-10T10:19:28-03:00",
+  },
+  {
+    title: "Auriculares Sony Bluetooth Inalámbricos WH-CH520 Azul",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_840938-MLA99416676892_112025-O.webp",
+    affiliateUrl: "https://meli.la/1Qz8poT",
+    newPrice: "83.999",
+    oldPrice: "103.999",
+    offPct: "19",
+    postedAt: "2026-10-10T10:52:29-03:00",
+  },
+  {
+    title: "Cepillo Secador y Voluminizador Exxtra Tech DM2 con Iones",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_693429-MLA112745524611_062026-O.webp",
+    affiliateUrl: "https://meli.la/31vJrH8",
+    newPrice: "19.999",
+    oldPrice: "24.999",
+    offPct: "20",
+    postedAt: "2026-10-10T11:23:25-03:00",
+  },
+  {
+    title: "Sony PlayStation 4 Slim 500GB Standard con DualShock 4 (CUH-2215A)",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_892617-MLA115781234667_082026-O.webp",
+    affiliateUrl: "https://meli.la/1C8gaXq",
+    newPrice: "566.519",
+    oldPrice: "566.519",
+    offPct: "0",
+    postedAt: "2026-10-10T11:49:00-03:00",
+  },
+  {
+    title: "Nintendo Switch OLED 64GB Standard Color Neón",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_661962-MLA99529485202_122025-O.webp",
+    affiliateUrl: "https://meli.la/2m8nAtf",
+    newPrice: "735.300",
+    oldPrice: "735.300",
+    offPct: "0",
+    postedAt: "2026-10-10T16:42:47-03:00",
+  },
+  {
+    title: "Monitor MSI Pro MP242L 23.8\" Full HD 100Hz",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_637316-MLA99984541487_112025-O.webp",
+    affiliateUrl: "https://meli.la/2DBfRx1",
+    newPrice: "179.999",
+    oldPrice: "249.999",
+    offPct: "28",
+    postedAt: "2026-10-10T17:08:23-03:00",
+  },
+  {
+    title: "Videojuego Super Mario Galaxy + Galaxy 2 para Nintendo Switch",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_636639-MLA99542553282_122025-O.webp",
+    affiliateUrl: "https://meli.la/1CvZ4ns",
+    newPrice: "114.999",
+    oldPrice: "114.999",
+    offPct: "0",
+    postedAt: "2026-10-10T17:35:22-03:00",
+  },
+  {
+    title: "Microondas Digital Smartlife 23L con Grill",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_628245-MLA109090156076_042026-O.webp",
+    affiliateUrl: "https://meli.la/22MzVYX",
+    newPrice: "180.000",
+    oldPrice: "180.000",
+    offPct: "0",
+    postedAt: "2026-10-10T18:02:44-03:00",
+  },
+  {
+    title: "Heladera Smartlife No Frost Inverter 260L con Dispenser",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_938794-MLA99990284005_112025-O.webp",
+    affiliateUrl: "https://meli.la/2FtbWR8",
+    newPrice: "776.365",
+    oldPrice: "776.365",
+    offPct: "0",
+    postedAt: "2026-10-10T18:30:15-03:00",
+  },
+  {
+    title: "Monitor Gamer 27\" Samsung Full HD IPS 100Hz LS27D300GALX",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_685774-MLA99523893106_122025-O.webp",
+    affiliateUrl: "https://meli.la/2AZ85ZP",
+    newPrice: "206.399",
+    oldPrice: "206.399",
+    offPct: "0",
+    postedAt: "2026-10-10T18:57:24-03:00",
+  },
+  {
+    title: "Monitor Gamer LG UltraGear 24\" 180Hz Full HD",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_721575-MLA99938046415_112025-O.webp",
+    affiliateUrl: "https://meli.la/1kdUXCc",
+    newPrice: "211.389",
+    oldPrice: "279.194",
+    offPct: "24",
+    postedAt: "2026-10-10T19:25:16-03:00",
+  },
+  {
+    title: "Notebook Lenovo IdeaPad Slim Core i3 N305 8GB 128GB 15.6\"",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_927566-MLA113529511351_062026-O.webp",
+    affiliateUrl: "https://meli.la/2HduPTr",
+    newPrice: "789.999",
+    oldPrice: "1.410.748",
+    offPct: "44",
+    postedAt: "2026-10-11T08:54:15-03:00",
+  },
+  {
+    title: "Videojuego Super Mario Galaxy + Galaxy 2 para Nintendo Switch",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_636639-MLA99542553282_122025-O.webp",
+    affiliateUrl: "https://meli.la/1CvZ4ns",
+    newPrice: "114.999",
+    oldPrice: "114.999",
+    offPct: "0",
+    postedAt: "2026-10-11T09:21:33-03:00",
+  },
+  {
+    title: "Perfume Carolina Herrera La Bomba 80ml Edp Mujer",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_605112-MLA92822618683_092025-O.webp",
+    affiliateUrl: "https://meli.la/2rBB2EA",
+    newPrice: "85.754",
+    oldPrice: "85.754",
+    offPct: "0",
+    postedAt: "2026-10-11T09:48:53-03:00",
+  },
+  {
+    title: "Sérum Láser Triple Acción L'Oréal Paris Revitalift Anti-Edad 30ml",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_602682-MLA93316343250_092025-O.webp",
+    affiliateUrl: "https://meli.la/1cNSnk1",
+    newPrice: "34.794",
+    oldPrice: "57.990",
+    offPct: "40",
+    postedAt: "2026-10-11T09:48:53-03:00",
+  },
+  {
+    title: "Cafetera Moulinex Dolce Gusto Piccolo XS Black",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_987636-MLA99378032752_112025-O.webp",
+    affiliateUrl: "https://meli.la/2CvQMKA",
+    newPrice: "179.999",
+    oldPrice: "179.999",
+    offPct: "0",
+    postedAt: "2026-10-11T09:48:53-03:00",
+  },
+  {
+    title: "Masajeador Cervical Eléctrico Inalámbrico Femmto",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_965769-MLA110594813506_052026-O.webp",
+    affiliateUrl: "https://meli.la/11F4Zws",
+    newPrice: "40.739",
+    oldPrice: "40.739",
+    offPct: "0",
+    postedAt: "2026-10-11T09:48:53-03:00",
+  },
+  {
+    title: "Perfume Carolina Herrera La Bomba 80ml Edp Mujer",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_605112-MLA92822618683_092025-O.webp",
+    affiliateUrl: "https://meli.la/2rBB2EA",
+    newPrice: "85.754",
+    oldPrice: "85.754",
+    offPct: "0",
+    postedAt: "2026-10-11T10:15:24-03:00",
+  },
+  {
+    title: "Cafetera Moulinex Dolce Gusto Piccolo XS Black",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_987636-MLA99378032752_112025-O.webp",
+    affiliateUrl: "https://meli.la/2CvQMKA",
+    newPrice: "179.999",
+    oldPrice: "179.999",
+    offPct: "0",
+    postedAt: "2026-10-11T16:59:01-03:00",
+  },
+  {
+    title: "Alhajero Joyero con Cajones Organizador Blanco",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_657072-MLA101186276510_122025-O.webp",
+    affiliateUrl: "https://meli.la/2Q1bJJN",
+    newPrice: "32.700",
+    oldPrice: "32.700",
+    offPct: "0",
+    postedAt: "2026-10-11T17:27:11-03:00",
+  },
+  {
+    title: "Juego de Sábanas Queen 600h Cotton Touch Beige 160x200",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_906566-MLA104311744172_012026-O.webp",
+    affiliateUrl: "https://meli.la/1ZdRrpM",
+    newPrice: "28.952",
+    oldPrice: "32.900",
+    offPct: "12",
+    postedAt: "2026-10-11T17:55:11-03:00",
+  },
+  {
+    title: "Set de Cubiertos Tramontina New Kolor 23199 Rojo",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_792114-MLA99446768788_112025-O.webp",
+    affiliateUrl: "https://meli.la/23qf7b7",
+    newPrice: "29.159",
+    oldPrice: "32.999",
+    offPct: "11",
+    postedAt: "2026-10-11T19:46:22-03:00",
+  },
+  {
+    title: "Perfume Carolina Herrera La Bomba 80ml Edp Mujer",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_605112-MLA92822618683_092025-O.webp",
+    affiliateUrl: "https://meli.la/2rBB2EA",
+    newPrice: "80.545",
+    oldPrice: "80.545",
+    offPct: "0",
+    postedAt: "2026-10-12T10:41:30-03:00",
+  },
+  {
+    title: "Secador de Pelo Teknikpro Full Technology 5000 Negro",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_973034-MLA110628062137_042026-O.webp",
+    affiliateUrl: "https://meli.la/2jzvayx",
+    newPrice: "69.990",
+    oldPrice: "79.990",
+    offPct: "12",
+    postedAt: "2026-10-12T11:12:05-03:00",
+  },
+  {
+    title: "Motorola Moto G06 128GB 4GB RAM Azul Marino",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_999997-MLA93732490421_092025-O.webp",
+    affiliateUrl: "https://meli.la/1XQ2eVP",
+    newPrice: "254.751",
+    oldPrice: "399.999",
+    offPct: "36",
+    postedAt: "2026-10-12T11:40:14-03:00",
+  },
+  {
+    title: "Smart TV Hisense 43\" Full HD 43A42K",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_762716-MLA117092682051_092026-O.webp",
+    affiliateUrl: "https://meli.la/32pRQSf",
+    newPrice: "433.039",
+    oldPrice: "550.999",
+    offPct: "21",
+    postedAt: "2026-10-12T12:08:44-03:00",
+  },
+  {
+    title: "Planchita de Pelo Philips StraightCare Essential HP8401/40",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_719011-MLA74642491522_022024-O.webp",
+    affiliateUrl: "https://meli.la/1xFgHvZ",
+    newPrice: "25.730",
+    oldPrice: "53.319",
+    offPct: "51",
+    postedAt: "2026-10-12T17:17:30-03:00",
+  },
+  {
+    title: "Secador de Pelo Studio 9 Professional 2400W Iónico Plegable Negro",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_901629-MLA80777820709_112024-O.webp",
+    affiliateUrl: "https://meli.la/211MTMP",
+    newPrice: "41.994",
+    oldPrice: "69.990",
+    offPct: "40",
+    postedAt: "2026-10-12T19:50:50-03:00",
+  },
+  {
+    title: "Perfume Moschino Fresh Couture Pink EDT 100ml Mujeres Floral",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_817149-MLA96501645211_102025-O.webp",
+    affiliateUrl: "https://meli.la/2gCXLVX",
+    newPrice: "90.636",
+    oldPrice: "90.636",
+    offPct: "0",
+    postedAt: "2026-10-12T20:18:47-03:00",
+  },
+  {
+    title: "Kérastase K Set Première: Pre Shampoo Concentré 250ml + Shampoo 250ml",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_952486-MLA99885757177_112025-O.webp",
+    affiliateUrl: "https://meli.la/2f8T62d",
+    newPrice: "165.390",
+    oldPrice: "194.576",
+    offPct: "14",
+    postedAt: "2026-10-12T20:46:10-03:00",
+  },
+  {
+    title: "Nintendo Switch OLED 64GB Standard Color Neón",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_661962-MLA99529485202_122025-O.webp",
+    affiliateUrl: "https://meli.la/2m8nAtf",
+    newPrice: "735.300",
+    oldPrice: "735.300",
+    offPct: "0",
+    postedAt: "2026-10-13T08:41:06-03:00",
+  },
+  {
+    title: "Videojuego Super Mario Galaxy + Galaxy 2 para Nintendo Switch",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_636639-MLA99542553282_122025-O.webp",
+    affiliateUrl: "https://meli.la/1CvZ4ns",
+    newPrice: "105.599",
+    oldPrice: "105.599",
+    offPct: "0",
+    postedAt: "2026-10-13T09:08:22-03:00",
+  },
+  {
+    title: "Consola Nintendo Switch 2 + Pokémon Legends Z-A Edition Color Negro",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_734825-MLA97378328254_112025-O.webp",
+    affiliateUrl: "https://meli.la/2rr26qy",
+    newPrice: "1.290.099",
+    oldPrice: "1.389.999",
+    offPct: "7",
+    postedAt: "2026-10-13T09:35:40-03:00",
+  },
+  {
+    title: "Smart TV BGH 43\" Full HD Vidaa B4325FH5",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_810619-MLA109768635799_032026-O.webp",
+    affiliateUrl: "https://meli.la/1yE8rfZ",
+    newPrice: "398.868",
+    oldPrice: "398.868",
+    offPct: "0",
+    postedAt: "2026-10-13T19:00:47-03:00",
+  },
+  {
+    title: "Monitor MSI Pro MP242L 23.8\" Full HD 100Hz 4ms",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_637316-MLA99984541487_112025-O.webp",
+    affiliateUrl: "https://meli.la/2DBfRx1",
+    newPrice: "179.899",
+    oldPrice: "249.999",
+    offPct: "28",
+    postedAt: "2026-10-13T19:28:40-03:00",
+  },
+  {
+    title: "Consola Sony PlayStation 5 Slim Digital 825GB 4K",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_600358-MLA99951902509_112025-O.webp",
+    affiliateUrl: "https://meli.la/2eZWGvi",
+    newPrice: "1.354.829",
+    oldPrice: "1.849.999",
+    offPct: "26",
+    postedAt: "2026-10-14T08:10:00-03:00",
+  },
+  {
+    title: "Smart TV LG 43\" UHD 4K con AI ThinQ 43UA8050PSA",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_953036-MLA110596173662_052026-O.webp",
+    affiliateUrl: "https://meli.la/1iH3eVh",
+    newPrice: "594.999",
+    oldPrice: "999.999",
+    offPct: "40",
+    postedAt: "2026-10-14T08:37:04-03:00",
+  },
+  {
+    title: "Notebook Gamer MSI Cyborg 15 Core Ultra 7 RTX 5070 16GB 1TB",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_748480-MLA98409502572_112025-O.webp",
+    affiliateUrl: "https://meli.la/32EUAe2",
+    newPrice: "3.239.990",
+    oldPrice: "4.499.999",
+    offPct: "28",
+    postedAt: "2026-10-14T09:03:56-03:00",
+  },
+  {
+    title: "PC Gamer AMD Ryzen 7 5700 32GB SSD 1TB GeForce RTX 5060",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_663379-MLA99504065230_112025-O.webp",
+    affiliateUrl: "https://meli.la/2B9VmzP",
+    newPrice: "1.882.264",
+    oldPrice: "2.369.999",
+    offPct: "20",
+    postedAt: "2026-10-14T19:00:36-03:00",
+  },
+  {
+    title: "Smart TV BGH 43\" Full HD Google TV",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_620453-MLA115299583159_072026-O.webp",
+    affiliateUrl: "https://meli.la/19Smrtx",
+    newPrice: "492.450",
+    oldPrice: "802.123",
+    offPct: "38",
+    postedAt: "2026-10-14T19:28:18-03:00",
+  },
+  {
+    title: "Paquete Nintendo Switch 2 + Mario Kart World 256GB",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_702013-MLA99442057204_112025-O.webp",
+    affiliateUrl: "https://meli.la/2811cfs",
+    newPrice: "1.345.119",
+    oldPrice: "1.345.119",
+    offPct: "0",
+    postedAt: "2026-10-15T08:06:57-03:00",
+  },
+  {
+    title: "Notebook Gigabyte Aero X16 Ryzen AI 9 HX 370 RTX 5070 32GB",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_689640-MLA109813483025_032026-O.webp",
+    affiliateUrl: "https://meli.la/1DauqHn",
+    newPrice: "4.765.999",
+    oldPrice: "7.665.480",
+    offPct: "37",
+    postedAt: "2026-10-15T08:34:04-03:00",
+  },
+  {
+    title: "Sony PlayStation 4 Slim 500GB con DualShock 4 (CUH-2215A)",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_892617-MLA115781234667_082026-O.webp",
+    affiliateUrl: "https://meli.la/1C8gaXq",
+    newPrice: "566.519",
+    oldPrice: "960.000",
+    offPct: "40",
+    postedAt: "2026-10-15T09:00:56-03:00",
+  },
+  {
+    title: "Meta Quest 3s 128GB Realidad Mixta",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_901655-MLA94134417812_102025-O.webp",
+    affiliateUrl: "https://meli.la/1cTtpdH",
+    newPrice: "915.757",
+    oldPrice: "1.289.799",
+    offPct: "29",
+    postedAt: "2026-10-15T19:00:46-03:00",
+  },
+  {
+    title: "Monitor Gamer 27\" Samsung Full HD IPS 100Hz LS27D300GALX",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_685774-MLA99523893106_122025-O.webp",
+    affiliateUrl: "https://meli.la/2AZ85ZP",
+    newPrice: "205.999",
+    oldPrice: "299.999",
+    offPct: "31",
+    postedAt: "2026-10-15T19:28:10-03:00",
+  },
+  {
+    title: "Nintendo Switch OLED 64GB Standard Color Neón",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_661962-MLA99529485202_122025-O.webp",
+    affiliateUrl: "https://meli.la/2m8nAtf",
+    newPrice: "735.300",
+    oldPrice: "735.300",
+    offPct: "0",
+    postedAt: "2026-10-16T08:03:40-03:00",
+  },
+  {
+    title: "Smart TV Samsung 50\" UHD 4K 50U8000F",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_813072-MLA115849865992_092026-O.webp",
+    affiliateUrl: "https://meli.la/2qa9jL5",
+    newPrice: "681.999",
+    oldPrice: "917.999",
+    offPct: "25",
+    postedAt: "2026-10-16T08:31:09-03:00",
+  },
+  {
+    title: "Monitor Gamer ASRock Challenger CL25FFA 24,5\" Full HD IPS 120Hz 1ms",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_728524-MLA100464313074_122025-O.webp",
+    affiliateUrl: "https://meli.la/1i4UDgo",
+    newPrice: "178.216",
+    oldPrice: "236.422",
+    offPct: "24",
+    postedAt: "2026-10-16T08:58:04-03:00",
+  },
+  {
+    title: "Smart TV Samsung 55\" QLED 4K Q6F",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_840312-MLA108249322714_032026-O.webp",
+    affiliateUrl: "https://meli.la/2GdMxYx",
+    newPrice: "814.999",
+    oldPrice: "1.049.999",
+    offPct: "22",
+    postedAt: "2026-10-17T08:34:56-03:00",
+  },
+  {
+    title: "Consola Nintendo Switch 2 256GB",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_935475-MLA85089057919_052025-O.webp",
+    affiliateUrl: "https://meli.la/2rJFZck",
+    newPrice: "1.175.999",
+    oldPrice: "1.175.999",
+    offPct: "0",
+    postedAt: "2026-10-17T09:04:52-03:00",
+  },
+  {
+    title: "Eau de Toilette Cacharel Amor Amor Mujer 100ml",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_670549-MLA110528476045_042026-O.webp",
+    affiliateUrl: "https://meli.la/34jYZ47",
+    newPrice: "84.750",
+    oldPrice: "145.000",
+    offPct: "41",
+    postedAt: "2026-10-17T09:32:14-03:00",
+  },
+  {
+    title: "Notebook Gamer MSI Cyborg 15 Core Ultra 7 RTX 5070 16GB 1TB",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_748480-MLA98409502572_112025-O.webp",
+    affiliateUrl: "https://meli.la/32EUAe2",
+    newPrice: "3.142.790",
+    oldPrice: "4.499.999",
+    offPct: "30",
+    postedAt: "2026-10-19T09:30:48-03:00",
+  },
+  {
+    title: "Sony PlayStation 4 Slim 500GB con DualShock 4 (CUH-2215A)",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_892617-MLA115781234667_082026-O.webp",
+    affiliateUrl: "https://meli.la/1C8gaXq",
+    newPrice: "566.519",
+    oldPrice: "760.000",
+    offPct: "25",
+    postedAt: "2026-10-19T09:58:03-03:00",
+  },
+  {
+    title: "Meta Quest 3s 128GB Realidad Mixta",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_901655-MLA94134417812_102025-O.webp",
+    affiliateUrl: "https://meli.la/1cTtpdH",
+    newPrice: "888.285",
+    oldPrice: "1.289.799",
+    offPct: "31",
+    postedAt: "2026-10-19T19:00:29-03:00",
+  },
+  {
+    title: "Smart TV LG 43\" UHD 4K con AI ThinQ 43UA8050PSA",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_953036-MLA110596173662_052026-O.webp",
+    affiliateUrl: "https://meli.la/1iH3eVh",
+    newPrice: "601.257",
+    oldPrice: "999.999",
+    offPct: "39",
+    postedAt: "2026-10-19T19:26:58-03:00",
+  },
+  {
+    title: "PC Gamer AMD Ryzen 7 5700 32GB SSD 1TB GeForce RTX 5060",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_663379-MLA99504065230_112025-O.webp",
+    affiliateUrl: "https://meli.la/2B9VmzP",
+    newPrice: "1.900.099",
+    oldPrice: "2.369.999",
+    offPct: "19",
+    postedAt: "2026-10-19T19:53:41-03:00",
+  },
+  {
+    title: "Consola Sony PlayStation 5 Slim Digital 825GB 4K",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_600358-MLA99951902509_112025-O.webp",
+    affiliateUrl: "https://meli.la/2eZWGvi",
+    newPrice: "1.344.960",
+    oldPrice: "1.344.960",
+    offPct: "0",
+    postedAt: "2026-10-20T07:15:52-03:00",
+  },
+  {
+    title: "Monitor MSI Pro MP242L 24\" Full HD IPS 100Hz",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_637316-MLA99984541487_112025-O.webp",
+    affiliateUrl: "https://meli.la/2DBfRx1",
+    newPrice: "159.999",
+    oldPrice: "249.999",
+    offPct: "36",
+    postedAt: "2026-10-20T08:03:42-03:00",
+  },
+  {
+    title: "Smart TV Philips 43\" LED Full HD 43PFD6910/77",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_867025-MLA118393535447_092026-O.webp",
+    affiliateUrl: "https://meli.la/1V7Ke9H",
+    newPrice: "419.216",
+    oldPrice: "560.299",
+    offPct: "25",
+    postedAt: "2026-10-20T08:31:01-03:00",
+  },
+  {
+    title: "Consola Nintendo Switch 2 256GB",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_935475-MLA85089057919_052025-O.webp",
+    affiliateUrl: "https://meli.la/2rJFZck",
+    newPrice: "1.169.999",
+    oldPrice: "1.169.999",
+    offPct: "0",
+    postedAt: "2026-10-20T08:57:49-03:00",
+  },
+  {
+    title: "Monitor Gamer LG UltraGear 24\" 180Hz Full HD (24GS60F-B)",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_721575-MLA99938046415_112025-O.webp",
+    affiliateUrl: "https://meli.la/1kdUXCc",
+    newPrice: "210.810",
+    oldPrice: "210.810",
+    offPct: "0",
+    postedAt: "2026-10-20T09:25:06-03:00",
+  },
+  {
+    title: "Nintendo Switch OLED 64GB Standard Color Neón",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_661962-MLA99529485202_122025-O.webp",
+    affiliateUrl: "https://meli.la/2m8nAtf",
+    newPrice: "735.300",
+    oldPrice: "735.300",
+    offPct: "0",
+    postedAt: "2026-10-20T19:00:32-03:00",
+  },
+  {
+    title: "Smart TV TCL 55\" LED 4K UHD Google TV 55P635-F",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_919501-MLA95706693678_102025-O.webp",
+    affiliateUrl: "https://meli.la/24ammfr",
+    newPrice: "775.999",
+    oldPrice: "775.999",
+    offPct: "0",
+    postedAt: "2026-10-20T19:26:59-03:00",
+  },
+  {
+    title: "Monitor Gamer 27\" Samsung Full HD IPS 100Hz LS27D300GALX",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_685774-MLA99523893106_122025-O.webp",
+    affiliateUrl: "https://meli.la/2AZ85ZP",
+    newPrice: "199.940",
+    oldPrice: "309.990",
+    offPct: "35",
+    postedAt: "2026-10-20T19:54:03-03:00",
+  },
+  {
+    title: "Aire Acondicionado Split Inverter Hyundai 3200W Wi-Fi HY11INV-3200FCW",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_712004-MLA113359456409_062026-O.webp",
+    affiliateUrl: "https://meli.la/1bFz2V8",
+    newPrice: "742.049",
+    oldPrice: "742.049",
+    offPct: "0",
+    postedAt: "2026-10-21T11:15:49-03:00",
+  },
+  {
+    title: "Cocina Escorial Candor S2 Blanca a Gas Natural",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_873732-MLA117020687241_092026-O.webp",
+    affiliateUrl: "https://meli.la/22BFnVn",
+    newPrice: "384.999",
+    oldPrice: "535.200",
+    offPct: "28",
+    postedAt: "2026-10-21T11:41:49-03:00",
+  },
+  {
+    title: "Lavarropas Philco 5kg Carga Superior Gris 700 RPM",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_838014-MLA108088518600_032026-O.webp",
+    affiliateUrl: "https://meli.la/1JdCCrM",
+    newPrice: "444.708",
+    oldPrice: "699.999",
+    offPct: "36",
+    postedAt: "2026-10-21T12:09:26-03:00",
+  },
+  {
+    title: "Heladera Whirlpool No Frost 340 Lts (WRM40MB)",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_917396-MLA111512367284_062026-O.webp",
+    affiliateUrl: "https://meli.la/1JeQoCn",
+    newPrice: "879.999",
+    oldPrice: "1.049.999",
+    offPct: "16",
+    postedAt: "2026-10-21T13:42:15-03:00",
+  },
+  {
+    title: "Meta Quest 3s 128GB Realidad Mixta",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_901655-MLA94134417812_102025-O.webp",
+    affiliateUrl: "https://meli.la/1cTtpdH",
+    newPrice: "888.285",
+    oldPrice: "1.289.799",
+    offPct: "31",
+    postedAt: "2026-10-21T19:00:34-03:00",
+  },
+  {
+    title: "Notebook Gamer MSI Cyborg 15 Core Ultra 7 RTX 5070 16GB 1TB",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_748480-MLA98409502572_112025-O.webp",
+    affiliateUrl: "https://meli.la/32EUAe2",
+    newPrice: "3.142.790",
+    oldPrice: "4.499.999",
+    offPct: "30",
+    postedAt: "2026-10-21T19:26:55-03:00",
+  },
+  {
+    title: "Smart TV LG 43\" UHD 4K con AI ThinQ 43UA8050PSA",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_953036-MLA110596173662_052026-O.webp",
+    affiliateUrl: "https://meli.la/1iH3eVh",
+    newPrice: "601.257",
+    oldPrice: "999.999",
+    offPct: "39",
+    postedAt: "2026-10-21T19:53:29-03:00",
+  },
+  {
+    title: "PC Gamer AMD Ryzen 7 5700 32GB SSD 1TB GeForce RTX 5060",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_663379-MLA99504065230_112025-O.webp",
+    affiliateUrl: "https://meli.la/2B9VmzP",
+    newPrice: "1.900.099",
+    oldPrice: "2.369.999",
+    offPct: "19",
+    postedAt: "2026-10-21T20:20:37-03:00",
+  },
+  {
+    title: "Smart TV BGH 43\" Full HD Vidaa B4325FH5",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_810619-MLA109768635799_032026-O.webp",
+    affiliateUrl: "https://meli.la/1yE8rfZ",
+    newPrice: "398.970",
+    oldPrice: "465.000",
+    offPct: "14",
+    postedAt: "2026-10-22T06:43:54-03:00",
+  },
+  {
+    title: "Consola Nintendo Switch 2 256GB",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_935475-MLA85089057919_052025-O.webp",
+    affiliateUrl: "https://meli.la/2rJFZck",
+    newPrice: "1.149.000",
+    oldPrice: "1.149.000",
+    offPct: "0",
+    postedAt: "2026-10-22T07:32:16-03:00",
+  },
+  {
+    title: "Aire Acondicionado Split Philco Inverter 3750W Frío/Calor A++ PHIN37HA2AN",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_836672-MLA107516172167_022026-O.webp",
+    affiliateUrl: "https://meli.la/1UNDCK1",
+    newPrice: "799.999",
+    oldPrice: "799.999",
+    offPct: "0",
+    postedAt: "2026-10-22T08:04:10-03:00",
+  },
+  {
+    title: "Monitor Gamer ASRock Challenger CL25FFA 24,5\" Full HD IPS 120Hz 1ms",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_728524-MLA100464313074_122025-O.webp",
+    affiliateUrl: "https://meli.la/1i4UDgo",
+    newPrice: "178.216",
+    oldPrice: "236.422",
+    offPct: "24",
+    postedAt: "2026-10-22T08:31:01-03:00",
+  },
+  {
+    title: "Lavarropas Philco 6 Kg Carga Frontal Inverter Blanco 1200 RPM",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_930684-MLA108811432239_032026-O.webp",
+    affiliateUrl: "https://meli.la/1AEdRwG",
+    newPrice: "569.000",
+    oldPrice: "799.999",
+    offPct: "28",
+    postedAt: "2026-10-22T08:57:53-03:00",
+  },
+  {
+    title: "Consola Sony PlayStation 5 Slim Digital 825GB 4K",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_600358-MLA99951902509_112025-O.webp",
+    affiliateUrl: "https://meli.la/2eZWGvi",
+    newPrice: "1.400.000",
+    oldPrice: "1.400.000",
+    offPct: "0",
+    postedAt: "2026-10-22T19:00:35-03:00",
+  },
+  {
+    title: "Smart TV Samsung 55\" QLED 4K Q6F",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_840312-MLA108249322714_032026-O.webp",
+    affiliateUrl: "https://meli.la/2GdMxYx",
+    newPrice: "879.999",
+    oldPrice: "1.099.999",
+    offPct: "20",
+    postedAt: "2026-10-22T19:26:55-03:00",
+  },
+  {
+    title: "Heladera con Freezer Cíclica Drean 215 L Inox RZD215PVARX0",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_731158-MLA106669410739_022026-O.webp",
+    affiliateUrl: "https://meli.la/1jwp1UU",
+    newPrice: "699.999",
+    oldPrice: "699.999",
+    offPct: "0",
+    postedAt: "2026-10-22T19:53:27-03:00",
+  },
+  {
+    title: "Smart TV Noblex 32\" HD Vidaa Dolby Digital",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_679109-MLA100245563133_122025-O.webp",
+    affiliateUrl: "https://meli.la/146z165",
+    newPrice: "287.119",
+    oldPrice: "389.399",
+    offPct: "26",
+    postedAt: "2026-10-23T08:04:43-03:00",
+  },
+  {
+    title: "Monitor Gamer Samsung 22\" Full HD IPS 100Hz",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_641204-MLA100016236545_122025-O.webp",
+    affiliateUrl: "https://meli.la/2EyYGLm",
+    newPrice: "150.410",
+    oldPrice: "233.999",
+    offPct: "35",
+    postedAt: "2026-10-23T08:31:05-03:00",
+  },
+  {
+    title: "Aire Acondicionado Split Frío/Calor Philco 2900F PHS32HA4CNE 3400W",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_960914-MLA107829968120_032026-O.webp",
+    affiliateUrl: "https://meli.la/2ARhvUP",
+    newPrice: "690.999",
+    oldPrice: "974.999",
+    offPct: "29",
+    postedAt: "2026-10-23T08:58:03-03:00",
+  },
+  {
+    title: "Monitor Gamer Samsung 24\" Full HD IPS 100Hz S30GD",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_918310-MLA99927876503_112025-O.webp",
+    affiliateUrl: "https://meli.la/23zeYi7",
+    newPrice: "168.755",
+    oldPrice: "168.755",
+    offPct: "0",
+    postedAt: "2026-10-23T09:24:55-03:00",
+  },
+  {
+    title: "Smart TV Samsung 50\" UHD 4K 50U8000F",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_813072-MLA115849865992_092026-O.webp",
+    affiliateUrl: "https://meli.la/2qa9jL5",
+    newPrice: "728.999",
+    oldPrice: "999.999",
+    offPct: "27",
+    postedAt: "2026-10-23T09:51:54-03:00",
+  },
+  {
+    title: "Smartphone Motorola Moto G06 128GB 4GB RAM azul marino",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_999997-MLA93732490421_092025-O.webp",
+    affiliateUrl: "https://meli.la/1XQ2eVP",
+    newPrice: "239.999",
+    oldPrice: "399.999",
+    offPct: "40",
+    postedAt: "2026-10-23T19:00:39-03:00",
+  },
+  {
+    title: "Smart TV TCL 55\" LED 4K UHD Google TV 55P635-F",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_919501-MLA95706693678_102025-O.webp",
+    affiliateUrl: "https://meli.la/24ammfr",
+    newPrice: "780.000",
+    oldPrice: "780.000",
+    offPct: "0",
+    postedAt: "2026-10-23T19:27:10-03:00",
+  },
+  {
+    title: "Monitor Gamer LG UltraGear 24\" 180Hz Full HD (24GS60F-B)",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_721575-MLA99938046415_112025-O.webp",
+    affiliateUrl: "https://meli.la/1kdUXCc",
+    newPrice: "210.810",
+    oldPrice: "210.810",
+    offPct: "0",
+    postedAt: "2026-10-23T19:53:50-03:00",
+  },
+  {
+    title: "Smart TV Philips 43\" LED Full HD 43PFD6910/77",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_867025-MLA118393535447_092026-O.webp",
+    affiliateUrl: "https://meli.la/1V7Ke9H",
+    newPrice: "424.415",
+    oldPrice: "424.415",
+    offPct: "0",
+    postedAt: "2026-10-24T08:07:14-03:00",
+  },
+  {
+    title: "Meta Quest 3s 128GB Realidad Mixta",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_901655-MLA94134417812_102025-O.webp",
+    affiliateUrl: "https://meli.la/1cTtpdH",
+    newPrice: "888.285",
+    oldPrice: "1.289.799",
+    offPct: "31",
+    postedAt: "2026-10-24T08:35:44-03:00",
+  },
+  {
+    title: "Lavarropas Philco 5kg Carga Superior Gris 700 RPM",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_838014-MLA108088518600_032026-O.webp",
+    affiliateUrl: "https://meli.la/1JdCCrM",
+    newPrice: "444.708",
+    oldPrice: "699.999",
+    offPct: "36",
+    postedAt: "2026-10-24T09:01:22-03:00",
+  },
+  {
+    title: "Smart TV LG 43\" UHD 4K con AI ThinQ 43UA8050PSA",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_953036-MLA110596173662_052026-O.webp",
+    affiliateUrl: "https://meli.la/1iH3eVh",
+    newPrice: "601.257",
+    oldPrice: "999.999",
+    offPct: "39",
+    postedAt: "2026-10-24T09:27:01-03:00",
+  },
+  {
+    title: "Heladera Whirlpool No Frost 340 Lts (WRM40MB)",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_917396-MLA111512367284_062026-O.webp",
+    affiliateUrl: "https://meli.la/1JeQoCn",
+    newPrice: "879.999",
+    oldPrice: "1.049.999",
+    offPct: "16",
+    postedAt: "2026-10-24T09:53:44-03:00",
+  },
+  {
+    title: "Notebook Gamer MSI Cyborg 15 Core Ultra 7 RTX 5070 16GB 1TB",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_748480-MLA98409502572_112025-O.webp",
+    affiliateUrl: "https://meli.la/32EUAe2",
+    newPrice: "3.199.990",
+    oldPrice: "4.499.999",
+    offPct: "28",
+    postedAt: "2026-10-26T09:28:42-03:00",
+  },
+  {
+    title: "Sony PlayStation 4 Slim 500GB con DualShock 4 (CUH-2215A)",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_892617-MLA115781234667_082026-O.webp",
+    affiliateUrl: "https://meli.la/1C8gaXq",
+    newPrice: "559.550",
+    oldPrice: "559.550",
+    offPct: "0",
+    postedAt: "2026-10-26T09:56:12-03:00",
+  },
+  {
+    title: "Monitor Gamer MSI MAG 255F 25\" 240Hz Full HD 0.5ms",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_642566-MLA112371737276_062026-O.webp",
+    affiliateUrl: "https://meli.la/2uNvai8",
+    newPrice: "239.863",
+    oldPrice: "274.999",
+    offPct: "12",
+    postedAt: "2026-10-26T10:23:12-03:00",
+  },
+  {
+    title: "Consola Nintendo Switch 2 256GB",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_935475-MLA85089057919_052025-O.webp",
+    affiliateUrl: "https://meli.la/2rJFZck",
+    newPrice: "1.180.000",
+    oldPrice: "1.180.000",
+    offPct: "0",
+    postedAt: "2026-10-26T19:00:40-03:00",
+  },
+  {
+    title: "Smart TV LG 43\" UHD 4K AI ThinQ (43UA8050PSA)",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_953036-MLA110596173662_052026-O.webp",
+    affiliateUrl: "https://meli.la/1iH3eVh",
+    newPrice: "601.257",
+    oldPrice: "999.999",
+    offPct: "39",
+    postedAt: "2026-10-26T19:27:48-03:00",
+  },
+  {
+    title: "Consola PlayStation 5 Slim Digital 825GB",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_600358-MLA99951902509_112025-O.webp",
+    affiliateUrl: "https://meli.la/2eZWGvi",
+    newPrice: "1.453.000",
+    oldPrice: "1.453.000",
+    offPct: "0",
+    postedAt: "2026-10-27T11:42:22-03:00",
+  },
+  {
+    title: "Smart TV Samsung 55\" QLED 4K Q6F",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_840312-MLA108249322714_032026-O.webp",
+    affiliateUrl: "https://meli.la/2GdMxYx",
+    newPrice: "879.999",
+    oldPrice: "1.099.999",
+    offPct: "20",
+    postedAt: "2026-10-27T12:08:59-03:00",
+  },
+  {
+    title: "Monitor Gamer ASRock 27\" Curvo 280Hz",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_784317-MLA115398141657_072026-O.webp",
+    affiliateUrl: "https://meli.la/2yCTy1r",
+    newPrice: "358.979",
+    oldPrice: "388.079",
+    offPct: "7",
+    postedAt: "2026-10-27T12:34:52-03:00",
+  },
+  {
+    title: "Smart TV Samsung 55\" QLED 4K Q6F",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_840312-MLA108249322714_032026-O.webp",
+    affiliateUrl: "https://meli.la/2GdMxYx",
+    newPrice: "879.999",
+    oldPrice: "1.099.999",
+    offPct: "20",
+    postedAt: "2026-10-27T18:47:43-03:00",
+  },
+  {
+    title: "Smart TV TCL 55\" 55P635-F LED 4K Google TV",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_919501-MLA95706693678_102025-O.webp",
+    affiliateUrl: "https://meli.la/24ammfr",
+    newPrice: "775.999",
+    oldPrice: "775.999",
+    offPct: "0",
+    postedAt: "2026-10-27T18:47:43-03:00",
+  },
+  {
+    title: "Consola Sony PlayStation 5 Pro 2TB Digital CFI-7020",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_892350-MLA99979858751_112025-O.webp",
+    affiliateUrl: "https://meli.la/2Sm9w1m",
+    newPrice: "2.472.586",
+    oldPrice: "2.472.586",
+    offPct: "0",
+    postedAt: "2026-10-28T19:41:54-03:00",
+  },
+  {
+    title: "Monitor Gamer 27\" Samsung Full HD IPS 100Hz LS27D300GALX",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_685774-MLA99523893106_122025-O.webp",
+    affiliateUrl: "https://meli.la/2AZ85ZP",
+    newPrice: "202.420",
+    oldPrice: "202.420",
+    offPct: "0",
+    postedAt: "2026-10-28T20:08:57-03:00",
+  },
+  {
+    title: "Monitor Gamer ASUS TUF Gaming VG34VQL3A 34\" WQHD Curvo 180Hz",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_682053-MLA96076033449_102025-O.webp",
+    affiliateUrl: "https://meli.la/1K8xPpe",
+    newPrice: "911.799",
+    oldPrice: "1.019.999",
+    offPct: "10",
+    postedAt: "2026-10-29T11:18:59-03:00",
+  },
+  {
+    title: "Smart TV Philips 43\" Full HD 43PFD6910/77",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_867025-MLA118393535447_092026-O.webp",
+    affiliateUrl: "https://meli.la/1V7Ke9H",
+    newPrice: "442.868",
+    oldPrice: "462.699",
+    offPct: "4",
+    postedAt: "2026-10-29T11:45:54-03:00",
+  },
+  {
+    title: "Apple iPhone 18 Pro Max 256 GB (preventa)",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_784536-MLA116011154830_092026-O.webp",
+    affiliateUrl: "https://meli.la/25rGnrK",
+    newPrice: "3.999.999",
+    oldPrice: "3.999.999",
+    offPct: "0",
+    postedAt: "2026-10-29T16:48:54-03:00",
+  },
+  {
+    title: "Apple iPhone 18 Pro 256 GB (preventa)",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_784536-MLA116011154830_092026-O.webp",
+    affiliateUrl: "https://meli.la/1b6kWgt",
+    newPrice: "3.799.999",
+    oldPrice: "3.799.999",
+    offPct: "0",
+    postedAt: "2026-10-29T16:49:00-03:00",
+  },
+  {
+    title: "Monitor Gamer Valkyrie VH2410V2 24\" 200Hz IPS",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_641240-MLA99974331101_112025-O.webp",
+    affiliateUrl: "https://meli.la/1wdd7tH",
+    newPrice: "223.999",
+    oldPrice: "319.999",
+    offPct: "30",
+    postedAt: "2026-10-30T16:35:14-03:00",
+  },
+  {
+    title: "Auriculares Gamer Inalámbricos Redragon Zeus Pro H510-PRO",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_930330-MLA84300927016_052025-O.webp",
+    affiliateUrl: "https://meli.la/2NEJM1u",
+    newPrice: "117.511",
+    oldPrice: "150.000",
+    offPct: "21",
+    postedAt: "2026-10-30T17:02:28-03:00",
+  },
+  {
+    title: "Monitor Gamer Valkyrie VH2410V2 24\" 200Hz IPS",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_641240-MLA99974331101_112025-O.webp",
+    affiliateUrl: "https://meli.la/1wdd7tH",
+    newPrice: "223.999",
+    oldPrice: "319.999",
+    offPct: "30",
+    postedAt: "2026-10-30T18:21:30-03:00",
+  },
+  {
+    title: "Monitor Gamer 27\" Samsung Full HD IPS 100Hz",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_685774-MLA99523893106_122025-O.webp",
+    affiliateUrl: "https://meli.la/2AZ85ZP",
+    newPrice: "210.166",
+    oldPrice: "293.695",
+    offPct: "28",
+    postedAt: "2026-10-30T18:21:30-03:00",
+  },
+  {
+    title: "Smart TV TCL 55\" 55C6K Mini LED QLED 4K 144Hz Game Master",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_826843-MLA115291503609_072026-O.webp",
+    affiliateUrl: "https://meli.la/1NUgnvd",
+    newPrice: "1.252.000",
+    oldPrice: "1.252.000",
+    offPct: "0",
+    postedAt: "2026-10-31T19:31:49-03:00",
+  },
+  {
+    title: "PC Gamer AMD Ryzen 7 5700 32GB SSD 1TB GeForce RTX 5060",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_663379-MLA99504065230_112025-O.webp",
+    affiliateUrl: "https://meli.la/2B9VmzP",
+    newPrice: "1.901.088",
+    oldPrice: "1.901.088",
+    offPct: "0",
+    postedAt: "2026-10-31T19:58:32-03:00",
+  },
+  {
+    title: "Consola Sony PlayStation 5 Slim Digital 825GB Blanca",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_600358-MLA99951902509_112025-O.webp",
+    affiliateUrl: "https://meli.la/2eZWGvi",
+    newPrice: "1.370.000",
+    oldPrice: "1.370.000",
+    offPct: "0",
+    postedAt: "2026-11-01T12:31:29-03:00",
+  },
+  {
+    title: "Notebook Gamer MSI Cyborg 15 Core Ultra 7 RTX 5070 16GB 1TB",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_748480-MLA98409502572_112025-O.webp",
+    affiliateUrl: "https://meli.la/32EUAe2",
+    newPrice: "3.167.999",
+    oldPrice: "3.399.999",
+    offPct: "6",
+    postedAt: "2026-11-01T13:48:06-03:00",
+  },
+  {
+    title: "Paquete Nintendo Switch 2 + Mario Kart World 256GB",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_702013-MLA99442057204_112025-O.webp",
+    affiliateUrl: "https://meli.la/2811cfs",
+    newPrice: "1.344.999",
+    oldPrice: "1.344.999",
+    offPct: "0",
+    postedAt: "2026-11-01T15:18:52-03:00",
+  },
+  {
+    title: "Smart TV Samsung 75\" 4K Crystal UHD 75U8000F",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_875494-MLA99029638996_112025-O.webp",
+    affiliateUrl: "https://meli.la/2svJMyS",
+    newPrice: "1.892.999",
+    oldPrice: "1.892.999",
+    offPct: "0",
+    postedAt: "2026-11-01T15:45:59-03:00",
+  },
+  {
+    title: "Sony PlayStation DualSense Joystick Inalámbrico Negro PS5",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_759059-MLA99508283678_112025-O.webp",
+    affiliateUrl: "https://meli.la/2eXut3S",
+    newPrice: "149.899",
+    oldPrice: "149.899",
+    offPct: "0",
+    postedAt: "2026-11-01T16:33:04-03:00",
+  },
+  {
+    title: "Nintendo Switch OLED 64GB Neón + Super Mario Bros. Wonder",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_670243-MLA99993162789_112025-F.webp",
+    affiliateUrl: "https://meli.la/1yoa1Y7",
+    newPrice: "625.099",
+    oldPrice: "625.099",
+    offPct: "0",
+    postedAt: "2026-11-02T08:38:16-03:00",
+  },
+  {
+    title: "Nintendo Switch 2 + EA SPORTS FC 27",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_891780-MLA118776556471_102026-F.webp",
+    affiliateUrl: "https://meli.la/2Y6a6mK",
+    newPrice: "1.472.499",
+    oldPrice: "1.779.999",
+    offPct: "17",
+    postedAt: "2026-11-02T09:31:05-03:00",
+  },
+  {
+    title: "Volante Logitech G29 con Pedalera PS5 PS4 PC",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_789821-MLA99726889699_112025-F.webp",
+    affiliateUrl: "https://meli.la/1a2ntCN",
+    newPrice: "502.599",
+    oldPrice: "502.599",
+    offPct: "0",
+    postedAt: "2026-11-02T09:58:07-03:00",
+  },
+  {
+    title: "Auriculares Logitech Astro A50 Gen 5 con Base",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_706136-MLA99542649562_122025-F.webp",
+    affiliateUrl: "https://meli.la/2kWuVZz",
+    newPrice: "740.200",
+    oldPrice: "740.200",
+    offPct: "0",
+    postedAt: "2026-11-02T10:25:50-03:00",
+  },
+  {
+    title: "Smart TV Samsung 55\" QLED Q6F 4K",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_840312-MLA108249322714_032026-F.webp",
+    affiliateUrl: "https://meli.la/2GdMxYx",
+    newPrice: "819.999",
+    oldPrice: "819.999",
+    offPct: "0",
+    postedAt: "2026-11-02T10:51:31-03:00",
+  },
+  {
+    title: "Smart TV TCL 55\" QLED 4K 55T6C Google TV",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_641225-MLA83385122312_042025-F.webp",
+    affiliateUrl: "https://meli.la/2A3J6nT",
+    newPrice: "729.999",
+    oldPrice: "729.999",
+    offPct: "0",
+    postedAt: "2026-11-02T11:40:58-03:00",
+  },
+  {
+    title: "Monitor Xiaomi A27Qi 27\" 2K QHD 120Hz",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_867676-MLA111041191241_042026-F.webp",
+    affiliateUrl: "https://meli.la/1uJ1iiz",
+    newPrice: "299.999",
+    oldPrice: "299.999",
+    offPct: "0",
+    postedAt: "2026-11-02T12:08:56-03:00",
+  },
+  {
+    title: "Monitor Gamer MSI MAG 255F 25\" 240Hz Full HD",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_642566-MLA112371737276_062026-F.webp",
+    affiliateUrl: "https://meli.la/2uNvai8",
+    newPrice: "231.805",
+    oldPrice: "231.805",
+    offPct: "0",
+    postedAt: "2026-11-02T12:35:56-03:00",
+  },
+  {
+    title: "Auriculares Razer BlackShark V2 HyperSpeed Wireless",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_956653-MLA108928504404_032026-F.webp",
+    affiliateUrl: "https://meli.la/33J2n3x",
+    newPrice: "285.999",
+    oldPrice: "285.999",
+    offPct: "0",
+    postedAt: "2026-11-02T13:04:02-03:00",
+  },
+  {
+    title: "Notebook Acer Aspire Go 15 Ryzen 7 16GB/512GB",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_876025-MLA111198115363_052026-F.webp",
+    affiliateUrl: "https://meli.la/1LvTEMc",
+    newPrice: "1290599",
+    oldPrice: "1290599",
+    offPct: "0",
+    postedAt: "2026-11-02T16:01:03-03:00",
+  },
+  {
+    title: "Monitor MSI Pro MP242 23.8\" FHD 100Hz",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_637316-MLA99984541487_112025-F.webp",
+    affiliateUrl: "https://meli.la/2CpJCCk",
+    newPrice: "169999",
+    oldPrice: "169999",
+    offPct: "0",
+    postedAt: "2026-11-03T10:38:04-03:00",
+  },
+  {
+    title: "Aspiradora Robot Gadnic Láser LDS con trapeado",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_724942-MLA106375069086_022026-F.webp",
+    affiliateUrl: "https://meli.la/2ch8hdt",
+    newPrice: "276399",
+    oldPrice: "276399",
+    offPct: "0",
+    postedAt: "2026-11-03T11:06:27-03:00",
+  },
+  {
+    title: "Deshumidificador Portátil Gadnic 6 L",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_637845-MLA109034776689_032026-F.webp",
+    affiliateUrl: "https://meli.la/2aV4aZz",
+    newPrice: "288749",
+    oldPrice: "288749",
+    offPct: "0",
+    postedAt: "2026-11-03T11:35:43-03:00",
+  },
+  {
+    title: "Notebook ASUS Vivobook 14 Core 3 8GB/512GB",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_977481-MLA119477327355_102026-F.webp",
+    affiliateUrl: "https://meli.la/1PXdKbH",
+    newPrice: "939999",
+    oldPrice: "939999",
+    offPct: "0",
+    postedAt: "2026-11-03T12:07:50-03:00",
+  },
+  {
+    title: "Smart TV Noblex DL65X9500 65\" QLED 4K Google TV",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_781060-MLA119343339303_102026-F.webp",
+    affiliateUrl: "https://meli.la/1ybSpTR",
+    newPrice: "1143999",
+    oldPrice: "1143999",
+    offPct: "0",
+    postedAt: "2026-11-03T16:39:31-03:00",
+  },
+  {
+    title: "Apple iPad 11 Wi-Fi 128 GB",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_736872-MLA96642290566_112025-F.webp",
+    affiliateUrl: "https://meli.la/1ios3xB",
+    newPrice: "1249999",
+    oldPrice: "1249999",
+    offPct: "0",
+    postedAt: "2026-11-03T17:05:44-03:00",
+  },
+  {
+    title: "Samsung Galaxy A37 5G 256 GB 8 GB RAM",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_957703-MLA111073380432_052026-F.webp",
+    affiliateUrl: "https://meli.la/1SFF7Fx",
+    newPrice: "859999",
+    oldPrice: "859999",
+    offPct: "0",
+    postedAt: "2026-11-03T18:06:32-03:00",
+  },
+  {
+    title: "Apple iPhone 15 128 GB",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_784557-MLA95493924244_102025-F.webp",
+    affiliateUrl: "https://meli.la/31Qz7JT",
+    newPrice: "1529999",
+    oldPrice: "1529999",
+    offPct: "0",
+    postedAt: "2026-11-03T18:32:58-03:00",
+  },
+  {
+    title: "Motorola Edge 70 Fusion 5G",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_775922-MLA111036681324_052026-F.webp",
+    affiliateUrl: "https://meli.la/2BLkZZe",
+    newPrice: "799999",
+    oldPrice: "799999",
+    offPct: "0",
+    postedAt: "2026-11-03T18:58:50-03:00",
+  },
+  {
+    title: "Motorola Razr 70 Plegable 5G 256 GB",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_617314-MLA110156462842_042026-F.webp",
+    affiliateUrl: "https://meli.la/12vBwoU",
+    newPrice: "1299999",
+    oldPrice: "1299999",
+    offPct: "0",
+    postedAt: "2026-11-03T19:25:01-03:00",
+  },
+  {
+    title: "Heladera No Frost Philco Inverter 244 L",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_769145-MLA115950132716_092026-F.webp",
+    affiliateUrl: "https://meli.la/1MmAbbW",
+    newPrice: "679999",
+    oldPrice: "679999",
+    offPct: "0",
+    postedAt: "2026-11-04T10:19:48-03:00",
+  },
+  {
+    title: "Aire Acondicionado Split Inverter Sansei 4730 Fg Frío/Calor",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_825337-MLA118354442118_102026-F.webp",
+    affiliateUrl: "https://meli.la/17ogAsj",
+    newPrice: "999999",
+    oldPrice: "999999",
+    offPct: "0",
+    postedAt: "2026-11-04T10:46:28-03:00",
+  },
+  {
+    title: "Smart TV TCL 55\" 4K 55V6C-F Google TV",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_900058-MLA108865608835_032026-F.webp",
+    affiliateUrl: "https://meli.la/33tSwiC",
+    newPrice: "679999",
+    oldPrice: "679999",
+    offPct: "0",
+    postedAt: "2026-11-04T12:06:38-03:00",
+  },
+  {
+    title: "Smart TV Samsung 55\" QLED Q6F 4K",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_840312-MLA108249322714_032026-F.webp",
+    affiliateUrl: "https://meli.la/2GdMxYx",
+    newPrice: "776899",
+    oldPrice: "776899",
+    offPct: "0",
+    postedAt: "2026-11-04T13:30:49-03:00",
+  },
+  {
+    title: "Monitor MSI Pro MP242 23.8\" FHD 100Hz",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_637316-MLA99984541487_112025-F.webp",
+    affiliateUrl: "https://meli.la/2CpJCCk",
+    newPrice: "169999",
+    oldPrice: "169999",
+    offPct: "0",
+    postedAt: "2026-11-04T14:39:18-03:00",
+  },
+  {
+    title: "Notebook HP 15-fd0267la Core i5 8GB/512GB Táctil con mochila y mouse",
+    imageUrl:
+      "https://http2.mlstatic.com/D_NQ_NP_2X_638456-MLA108805561183_032026-F.webp",
+    affiliateUrl: "https://meli.la/2QVLF63",
+    newPrice: "1149999",
+    oldPrice: "1149999",
+    offPct: "0",
+    postedAt: "2026-11-06T10:35:23-03:00",
+  },
 ];

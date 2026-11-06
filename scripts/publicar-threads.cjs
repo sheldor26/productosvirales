@@ -108,6 +108,13 @@ function requireAffiliateLinkInText(text) {
   // 2026-09-13 que el formato de siempre es "👉 meli.la/XXXXX" sin
   // protocolo, Threads lo auto-linkea igual.
   const hasLink = /(?:https:\/\/)?meli\.la\/\S+/i.test(text || "");
+  // Excepción acordada con Juan el 2026-10-27 (test de formato): los hilos
+  // llevan el link en la primera respuesta y los posts de opinión/pregunta no
+  // llevan link. Solo se salta con ALLOW_NO_LINK_IN_POST=1 puesto a propósito.
+  if (!hasLink && process.env.ALLOW_NO_LINK_IN_POST === "1") {
+    console.error("⚠️  ALLOW_NO_LINK_IN_POST=1: publicando sin link en el cuerpo (hilo: link en la respuesta).");
+    return;
+  }
   if (!hasLink) {
     console.error(
       "BLOQUEADO: el texto del post no tiene un link meli.la/... pegado en el cuerpo.\n" +
