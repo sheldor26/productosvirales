@@ -363,9 +363,9 @@ export default function GuiasIndexPage() {
         aria-label="Silos de guías"
         className="sticky top-14 md:top-16 z-40 -mx-4 md:-mx-6 px-4 md:px-6 py-2.5 bg-[var(--bg-primary)]/90 backdrop-blur-xl border-b border-[var(--border)] mb-6"
       >
-        <ul className="flex flex-wrap gap-[7px] overflow-x-auto">
+        <ul className="flex gap-[7px] overflow-x-auto snap-x snap-mandatory hide-scrollbar">
           {categoriesForNav.map((silo) => (
-            <li key={silo.slug}>
+            <li key={silo.slug} className="shrink-0 snap-start">
               <a
                 href={`#silo-${silo.slug}`}
                 className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full text-[13px] font-semibold border border-[var(--border)] bg-[var(--bg-primary)] text-[var(--text-primary)] hover:bg-[var(--bg-secondary)] transition-colors whitespace-nowrap"
