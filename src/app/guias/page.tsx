@@ -8,6 +8,7 @@ import { getGuideCardSignals } from "@/lib/guide-card-signals";
 import { baseOpenGraph } from "@/lib/site-og";
 import { toPlainText } from "@/lib/parse-inline-links";
 import type { Guide } from "@/lib/types";
+import { SiloNav } from "@/components/guides/SiloNav";
 
 // Revalidate daily so scheduled guides appear on their publishedDate
 export const revalidate = 86400;
@@ -359,26 +360,7 @@ export default function GuiasIndexPage() {
         <span>precios verificados automáticamente</span>
       </div>
 
-      <nav
-        aria-label="Silos de guías"
-        className="sticky top-14 md:top-16 z-40 -mx-4 md:-mx-6 px-4 md:px-6 py-2.5 bg-[var(--bg-primary)]/90 backdrop-blur-xl border-b border-[var(--border)] mb-6"
-      >
-        <ul className="flex gap-[7px] overflow-x-auto snap-x snap-mandatory hide-scrollbar">
-          {categoriesForNav.map((silo) => (
-            <li key={silo.slug} className="shrink-0 snap-start">
-              <a
-                href={`#silo-${silo.slug}`}
-                className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full text-[13px] font-semibold border border-[var(--border)] bg-[var(--bg-primary)] text-[var(--text-primary)] hover:bg-[var(--bg-secondary)] transition-colors whitespace-nowrap"
-              >
-                <span>{silo.name}</span>
-                <span className="text-[11.5px] text-[var(--text-muted)]">
-                  {silo.count}
-                </span>
-              </a>
-            </li>
-          ))}
-        </ul>
-      </nav>
+      <SiloNav categories={categoriesForNav} />
 
       {siloEntries.map((silo) => (
         <section

@@ -10,6 +10,7 @@ import { SearchInput } from "@/components/ui/SearchInput";
 import { WhatsAppIcon } from "@/components/icons/WhatsAppIcon";
 import { CATEGORY_NAV } from "@/data/category-nav";
 import { useSavedProducts } from "@/lib/use-saved-products";
+import { useHeaderHidden } from "@/lib/use-header-hidden";
 import { MobileNav } from "./MobileNav";
 
 const NAV_LINK_CLS =
@@ -20,8 +21,6 @@ const WHATSAPP_CHANNEL_URL = "https://whatsapp.com/channel/0029Vb8OJXB6mYPIHG0M4
 
 export function Header() {
   const [scrolled, setScrolled] = useState(false);
-  const [hidden, setHidden] = useState(false);
-  const lastScrollYRef = useRef(0);
   const [mobileNavOpen, setMobileNavOpen] = useState(false);
   const [searchOpen, setSearchOpen] = useState(false);
   const [catOpen, setCatOpen] = useState(false);
@@ -40,34 +39,23 @@ export function Header() {
 
   useEffect(() => {
     setMounted(true);
-    // Header sticky fijo nunca le devuelve esos ~60px al contenido — en una
-    // guía larga (el formato estándar del sitio) compite todo el scroll con
-    // la barra de direcciones del navegador y con los CTAs fijos de abajo.
-    // Mismo patrón que MUI/Material ("Hide App Bar"): se esconde al bajar,
-    // reaparece al subir. No se esconde con el dropdown de categorías o el
-    // buscador abiertos (se vería cortado a mitad de interacción), ni cerca
-    // del tope (umbral de 80px, para no parpadear apenas arranca el scroll).
-    const handleScroll = () => {
-      const y = window.scrollY;
-      setScrolled(y > 10);
-      if (catOpen || searchOpen) {
-        setHidden(false);
-        lastScrollYRef.current = y;
-        return;
-      }
-      const delta = y - lastScrollYRef.current;
-      if (y < 80) {
-        setHidden(false);
-      } else if (delta > 10) {
-        setHidden(true);
-      } else if (delta < -10) {
-        setHidden(false);
-      }
-      lastScrollYRef.current = y;
-    };
+  }, []);
+
+  useEffect(() => {
+    const handleScroll = () => setScrolled(window.scrollY > 10);
     window.addEventListener("scroll", handleScroll, { passive: true });
     return () => window.removeEventListener("scroll", handleScroll);
-  }, [catOpen, searchOpen]);
+  }, []);
+
+  // Header sticky fijo nunca le devuelve esos ~60px al contenido — en una
+  // guía larga (el formato estándar del sitio) compite todo el scroll con
+  // la barra de direcciones del navegador y con los CTAs fijos de abajo.
+  // Mismo patrón que MUI/Material ("Hide App Bar"): se esconde al bajar,
+  // reaparece al subir (useHeaderHidden, compartido con SiloNav.tsx en
+  // /guias para que se muevan juntos). No se esconde con el dropdown de
+  // categorías o el buscador abiertos (se vería cortado a mitad de
+  // interacción).
+  const hidden = useHeaderHidden(catOpen || searchOpen);
 
   // Cerrar el dropdown de categorías con Escape.
   useEffect(() => {
