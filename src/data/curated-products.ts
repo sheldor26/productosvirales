@@ -7,6 +7,1014 @@ import type { Product } from '@/lib/types';
  * Última actualización: 2026-04-10
  */
 
+  // Reemplazo de Vera 16kg PVC (MLAU264994773, deprioritized más abajo: sin stock, "Elige otra
+  // variante", el formato /up/ de Vera para 16kg ya no existe en ningún vendedor). Sourcing en
+  // vivo 2026-11-06: FM-Todo Pesas 16kg, pero es HIERRO FUNDIDO (no PVC como la Vera reemplazada)
+  // — cambia el eje de material de la guía: ya no es "dos PVC, una fundición", ahora es "una PVC,
+  // dos fundición". Reposicionada como "la intermedia" en vez de "marca reconocida" (FM-Todo no
+  // tiene el mismo perfil de marca que Vera). Nota perfecta sobre unas 17 opiniones, +1000 ventas del vendedor.
+const kettlebellFmTodoPesas16kg: Product = {
+    id: 'MLA44439259',
+    title: 'Kettlebell 16kg FM-Todo Pesas — Hierro Fundido, Peso Intermedio',
+    canonicalName: 'FM-Todo Pesas 16kg Hierro Fundido',
+    brand: 'FM-Todo Pesas',
+    mpn: 'Pesa rusa 16kg',
+    price: 119520,
+    priceUpdated: "2026-11-06",
+    priceLastChecked: "2026-11-06",
+    priceVerifiedAt: "2026-11-06",
+    priceStatus: "fresh",
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_750124-MLA100026561727_122025-F.webp',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_750124-MLA100026561727_122025-F.webp',
+    ],
+    category: 'Fitness',
+    categorySlug: 'fitness',
+    permalink: 'https://www.mercadolibre.com.ar/kettlebell-16-kg-fm-todo-pesas-pesa-rusa-hierro-fundido-negro/p/MLA44439259',
+    affiliateUrl: 'https://meli.la/1Fj5jA7',
+    condition: 'new',
+    freeShipping: true,
+    rating: 5.0,
+    reviewCount: 17,
+    reviewsSampledAt: '2026-11-06',
+    pastelColor: 'var(--pastel-blue)',
+    visibility: 'normal',
+    description: 'Pesa rusa de 16 kg en hierro fundido, de FM-Todo Pesas. {{rating:MLA44439259}} estrellas en {{reviews:MLA44439259}} calificaciones: la opción de peso intermedio de esta comparativa.',
+    seoTitle: 'Pesa Rusa FM-Todo 16kg: hierro fundido, peso intermedio',
+    metaDescription: 'Pesa rusa FM-Todo Pesas 16kg, hierro fundido. {{rating:MLA44439259}}★ en {{reviews:MLA44439259}} calificaciones por {{precio:MLA44439259}}.',
+    pros: [
+      '{{rating:MLA44439259}} estrellas en {{reviews:MLA44439259}} calificaciones, nota perfecta',
+      'Hierro fundido: más durable y preciso que el PVC, igual que la G-Fitness de esta comparativa',
+      'Según reseñas, no raya el piso y tiene buen agarre pese a no tener recubrimiento',
+      'Peso intermedio (16 kg), un escalón arriba de la Sport Maniac de esta comparativa',
+      'Vendedor con MercadoLíder y más de 1000 ventas',
+    ],
+    cons: [
+      'Base de reseñas chica ({{reviews:MLA44439259}} calificaciones), la más chica entre las pesas de peso fijo de esta guía',
+      'Sin recubrimiento de goma: al ser hierro fundido golpea más fuerte contra el piso que el PVC',
+      'Un solo peso fijo (16 kg): no sirve para progresión si buscás variar la carga',
+      'No tiene tienda oficial de marca como la Vera que reemplaza',
+    ],
+    verdict: 'Es la opción de **peso intermedio** de esta comparativa: 16 kg en hierro fundido, con {{rating:MLA44439259}} estrellas en {{reviews:MLA44439259}} calificaciones. A diferencia de la Sport Maniac (PVC), es hierro fundido como la G-Fitness, así que aguanta mejor el uso intensivo pero golpea más fuerte contra el piso si se apoya con fuerza.',
+    articleBody: `## La opción de peso intermedio de esta comparativa
+
+Es una pesa rusa de 16 kg en hierro fundido, un escalón de peso entre la Sport Maniac de 10 kg y la G-Fitness de 28 kg de esta comparativa. Tiene {{rating:MLA44439259}} estrellas en {{reviews:MLA44439259}} calificaciones, aunque sobre una base más chica que el resto del grupo.
+
+## Hierro fundido, no PVC
+
+A diferencia de la Sport Maniac (PVC), esta es hierro fundido, el mismo material que la G-Fitness de esta comparativa: más durable y preciso, pero sin el amortiguado del PVC contra el piso. Según reseñas reales, no raya el piso y tiene buen agarre pese a no tener recubrimiento de goma.
+
+## Para quién conviene este peso puntual
+
+Los 16 kg la ubican como un paso lógico después de la Sport Maniac de 10 kg, para quien ya entrena hace un tiempo y busca sumar carga sin saltar directo a los 28 kg de la G-Fitness. Al ser hierro fundido, como con cualquier pesa de este material, conviene apoyarla con cuidado en el piso.`,
+    specs: [
+      { label: 'Marca', value: 'FM-Todo Pesas' },
+      { label: 'Peso', value: '16 kg' },
+      { label: 'Material', value: 'Hierro fundido' },
+      { label: 'Con recubrimiento', value: 'No' },
+      { label: 'Color', value: 'Negro' },
+    ],
+    customerReviews: [
+      { rating: 5, date: '2025', country: 'Argentina', text: 'Una masa! ba dum ts.', useful: 1 },
+      { rating: 5, date: '2026', country: 'Argentina', text: 'Es una pesa compacta, bien equilibrada con buena base, la recomiendo.', useful: 0 },
+      { rating: 5, date: '2026', country: 'Argentina', text: 'Lo está usando mi pareja y veo cada vez mejores resultados, muy buen material y no raya el piso y tiene buen agarre, si tenes mano pequeña o grande.', useful: 0 },
+    ],
+    faq: [
+      { question: '¿Por qué elegir esta en vez de la más barata de la comparativa?', answer: 'Si ya entrenás hace un tiempo y buscás un peso intermedio (16 kg) en hierro fundido, esta es la opción. Para empezar desde cero, la Sport Maniac de 10 kg es más accesible.' },
+      { question: '¿Es de hierro fundido?', answer: 'Sí, a diferencia de la Sport Maniac de esta comparativa, que es PVC. Es el mismo material que la G-Fitness, la premium de 28 kg.' },
+      { question: '¿Raya el piso?', answer: 'Según reseñas reales, no, aunque al ser hierro fundido sin recubrimiento conviene apoyarla con cuidado, no dejarla caer con fuerza.' },
+    ],
+    relatedProducts: ['MLA36796031', 'MLA41456133', 'MLA75506336'],
+};
+
+  // Reemplazo de LEVELFIT Levspi200 (MLA62445462, deprioritized más abajo: sin stock, "Elige otra
+  // variante", el modelo Levspi200 ya no tiene ningún vendedor en ML — ver docs/productos-sin-stock.md).
+  // Sourcing en vivo 2026-11-06: más vendida de la categoría spinning por lejos (+5mil vs. ~500
+  // del resto), 300 kg soportados (el doble del reemplazado), nota de 4.7 sobre unas 1097 opiniones.
+const bicicletaEnergyFit8Niveles: Product = {
+    id: "MLA21651867",
+    title: "Bicicleta Fija Spinning Energy Fit — 300 kg, Volante 12 kg, App Bluetooth",
+    canonicalName: "Energy Fit Gym 8 Niveles",
+    brand: "Energy Fit",
+    mpn: "Engomada c/grip cromado",
+    price: 394560,
+    originalPrice: 712000,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_678531-MLA115292824318_082026-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_678531-MLA115292824318_082026-F.webp",
+    ],
+    category: "Fitness",
+    categorySlug: "fitness",
+    permalink: "https://www.mercadolibre.com.ar/bicicleta-fija-spinning-profesional-gym-8-niveles-28-kgs-con-app-bluetooth/p/MLA21651867",
+    affiliateUrl: "https://meli.la/2bMpjqb",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 1097,
+    pastelColor: "var(--pastel-blue)",
+    specs: [
+      { label: "Marca", value: "Energy Fit" },
+      { label: "Tipo de bicicleta fija", value: "Spinning" },
+      { label: "Tipo de resistencia", value: "Mecánica, por perilla de ajuste" },
+      { label: "Peso del volante de inercia", value: "12 kg" },
+      { label: "Peso máximo soportado", value: "300 kg, el más alto de esta comparativa" },
+      { label: "Peso del equipo", value: "28 kg" },
+      { label: "Con Bluetooth", value: "Sí, app LFIT (Android e iOS)" },
+      { label: "Con pantalla propia", value: "No, las métricas se ven en el celular vía app" },
+      { label: "Con freno de seguridad", value: "Sí, sistema PUSH TO STOP" },
+      { label: "Con asiento ajustable", value: "Sí, acolchado con resortes, 6 niveles" },
+      { label: "Con manubrio ajustable", value: "Sí, FOAM FLEX, 6 niveles" },
+      { label: "Con soporte para celular/tablet", value: "Sí" },
+      { label: "Es plegable", value: "No" },
+      { label: "Altura máxima recomendada", value: "1,95 m" },
+      { label: "Medidas (largo x ancho)", value: "1 m x 48 cm" },
+      { label: "Color", value: "Negro" },
+    ],
+    relatedProducts: ["MLA67137053", "MLA45267058", "MLA53273514"],
+    priceUpdated: "2026-11-06", priceLastChecked: "2026-11-06", priceVerifiedAt: "2026-11-06",
+    priceStatus: "fresh", reviewsSampledAt: "2026-11-06",
+    description: "Bicicleta de spinning reforzada a 300 kg, la más vendida de esta comparativa por lejos (+5 mil unidades). Tiene {{reviews:MLA21651867}} calificaciones con {{rating:MLA21651867}} de promedio.",
+    seoTitle: "Bicicleta Fija Energy Fit: 300 kg soportados, la más vendida",
+    metaDescription: "Bicicleta fija spinning Energy Fit, reforzada a 300 kg, volante de 12 kg y app Bluetooth. {{reviews:MLA21651867}} opiniones y {{rating:MLA21651867}} estrellas. La app viene en chino de entrada, según compradores.",
+    verdict: "Es la **bicicleta más vendida de esta comparativa**, con más de 5 mil unidades y {{rating:MLA21651867}} sobre {{reviews:MLA21651867}} opiniones. Soporta 300 kg, el doble que la mayoría de esta guía, con asiento y manubrio regulables en 6 niveles cada uno. La contra real, que varias compradoras confirman con humor: **la app LFIT viene configurada en chino de entrada**, hay que entrar a mano a cambiar el idioma la primera vez.",
+    pros: [
+      "La más vendida de esta comparativa por lejos: +5 mil unidades, frente a las ~500 del resto del grupo",
+      "300 kg de peso máximo soportado, el doble o más que el resto de esta guía",
+      "{{rating:MLA21651867}} sobre {{reviews:MLA21651867}} opiniones, la base de reseñas más grande de esta comparativa",
+      "Asiento y manubrio regulables en 6 niveles cada uno, cómoda para compradores de 1,60 a 1,97 m",
+      "Sistema de frenado por seguridad (PUSH TO STOP) y silenciosa según varias reseñas",
+    ],
+    cons: [
+      "La app LFIT viene configurada en chino de entrada; hay que cambiar el idioma a mano la primera vez",
+      "No tiene pantalla propia: todas las métricas se ven en el celular conectado por Bluetooth",
+      "El asiento le resultó incómodo a algún comprador, aunque es reemplazable",
+      "No es plegable",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", text: "Está buenísima. Mido 1.69 y peso 75 kilos, la altura es la correcta y se la banca bien para hacer spinning. El armado es fácil, la armé sola en un toque, y eso que soy pésima para las cosas manuales. La aplicación está en chino!!! un quilombo, pero descubrí que sacando captura de pantalla google la traduce, así que me guíe hasta la configuración de idiomas y la puse en español." },
+      { rating: 5, country: "Argentina", text: "El producto es excelente, lo único incomodo, es el asiento. Acá mi señora mide 1.64 mtrs y pesa 69 kilos y yo mido 1.97 mtrs, peso 130 kilos y es una maravilla la bicicleta, muy silenciosa." },
+      { rating: 5, country: "Argentina", text: "Barbara, facil de armar, uso perfecto tanto para mi 1.60 estatura y mi pareja 1.85 le viene bien. La silla la graduamos y rebien." },
+    ],
+    articleBody: `## Qué es la bicicleta fija Energy Fit
+
+Es una bicicleta de spinning reforzada a 300 kg, la más vendida de [nuestra comparativa de bicicletas fijas en Argentina](/guias/fitness/bicicleta-fija) por lejos: más de 5 mil unidades vendidas. Cuesta {{precio:MLA21651867}} y tiene {{reviews:MLA21651867}} calificaciones con {{rating:MLA21651867}} estrellas.
+
+## 300 kg soportados y volante de 12 kg
+
+Con 300 kg de peso máximo soportado duplica (o más) al resto de esta comparativa. El volante de inercia pesa 12 kg, con resistencia mecánica por perilla y freno de seguridad PUSH TO STOP. El asiento y el manubrio se regulan en 6 niveles cada uno: compradores de 1,60 m a 1,97 m reportan que les anda bien.
+
+## La más vendida, lejos del resto
+
+Con más de 5 mil unidades vendidas y {{rating:MLA21651867}} sobre {{reviews:MLA21651867}} opiniones, es la que más respaldo tiene de toda esta guía. Se conecta por Bluetooth a la app LFIT (Android e iOS), con medición de calorías, distancia, pulso y hasta un modo multijugador para competir online.
+
+## La contra: la app arranca en chino
+
+Esta es la advertencia honesta antes de comprar. Más de una compradora lo reporta: la app LFIT viene configurada en chino de entrada. Una la resolvió así: "descubrí que sacando captura de pantalla google la traduce, así que me guíe hasta la configuración de idiomas y la puse en español". No es un defecto de fabricación, pero conviene saberlo antes de abrir la caja. Otro comprador avisa que el asiento le resultó incómodo, aunque calificó la bicicleta en general como "una maravilla".
+
+## Para quién es, y para quién no
+
+Es para vos si buscás la bicicleta con más respaldo de compradores de esta comparativa y necesitás soportar mucho peso. No es para vos si te molesta tener que configurar una app en otro idioma antes de usarla, o si preferís una bicicleta con pantalla propia en vez de depender del celular.
+
+## El veredicto
+
+Es la bicicleta más vendida de esta comparativa, con 300 kg de capacidad y la base de reseñas más grande del grupo. La contra real: la app viene en chino de entrada, aunque se resuelve en unos minutos con el truco de la captura traducida.`,
+    faq: [
+      { question: "¿Por qué es la más vendida de la comparativa?", answer: "Tiene más de 5 mil unidades vendidas, lejos de las ~500 del resto del grupo, y {{rating:MLA21651867}} de promedio sobre {{reviews:MLA21651867}} opiniones." },
+      { question: "¿Cuánto peso soporta?", answer: "300 kg, el doble o más que el resto de esta comparativa." },
+      { question: "¿La app funciona en español?", answer: "Al principio no: según varias reseñas, la app LFIT viene configurada en chino. Se resuelve entrando a la configuración de idioma; una compradora lo logró sacando una captura de pantalla y traduciéndola con Google para guiarse." },
+      { question: "¿Tiene pantalla propia?", answer: "No. Todas las métricas (calorías, distancia, pulso, tiempo) se ven en el celular conectado por Bluetooth a la app LFIT." },
+      { question: "¿Qué tan pesado es el volante de inercia?", answer: "12 kg, el más pesado de esta comparativa." },
+      { question: "¿Es cómoda para personas altas o pesadas?", answer: "Según reseñas, sí: compradores de 1,60 m a 1,97 m (y hasta 130 kg) reportan que les anda bien, con asiento y manubrio regulables en 6 niveles cada uno." },
+    ],
+};
+
+  // Reemplazo de High Performance 10 kg (MLA43766711, deprioritized más abajo: sin stock, "Elige
+  // otra variante", sin sucesor declarado del vendedor). Sourcing en vivo 2026-11-06: G-Fitness
+  // 10 kg, por unidad igual que la reemplazada, nota perfecta sobre unas 273 opiniones (la más alta de las 4),
+  // +1000 vendidos, tienda oficial.
+const mancuernaGFitness10kg: Product = {
+    id: "MLA26893967",
+    title: "Mancuerna Hexagonal G-Fitness 10 kg — Engomada Cromada, Precio por Unidad",
+    canonicalName: "G-Fitness Hexagonal 10kg",
+    brand: "G-Fitness",
+    mpn: "Engomada c/grip cromado",
+    price: 102530,
+    originalPrice: 139537,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_625728-MLA110282217391_042026-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_625728-MLA110282217391_042026-F.webp",
+    ],
+    category: "Fitness",
+    categorySlug: "fitness",
+    permalink: "https://www.mercadolibre.com.ar/mancuerna-hexagonal-engomada-cromada-10kg-x-unidad-color-negro-grip-entrenamiento-gym-hogar/p/MLA26893967",
+    affiliateUrl: "https://meli.la/1FyKhzk",
+    condition: "new",
+    freeShipping: true,
+    rating: 5.0,
+    reviewCount: 273,
+    pastelColor: "var(--pastel-purple)",
+    specs: [
+      { label: "Marca", value: "G-Fitness" },
+      { label: "Modelo", value: "Engomada c/grip cromado" },
+      { label: "Peso", value: "10 kg" },
+      { label: "Formato de venta", value: "Por unidad, no por par — para un par hay que comprar dos publicaciones" },
+      { label: "Es ajustable", value: "No, peso fijo" },
+      { label: "Forma", value: "Hexagonal, no rueda por el piso" },
+      { label: "Material", value: "Recubrimiento de goma de alta densidad, mango cromado de 25 mm" },
+      { label: "Con identificador de peso", value: "Sí" },
+      { label: "Agarre", value: "Antideslizante, mango de 25 mm de diámetro" },
+      { label: "Extremos", value: "Recubiertos de goma, protegen el piso y las manos" },
+      { label: "Largo", value: "24 cm" },
+      { label: "Color", value: "Negro" },
+      { label: "Tienda", value: "Oficial GFITNESS en MercadoLibre, +10 mil ventas" },
+    ],
+    relatedProducts: ["MLA35569367", "MLA44965610", "MLA35253570"],
+    priceUpdated: "2026-11-06", priceLastChecked: "2026-11-06", priceVerifiedAt: "2026-11-06",
+    priceStatus: "fresh", reviewsSampledAt: "2026-11-06",
+    description: "Mancuerna hexagonal fija de 10 kg, engomada, vendida por unidad. Tiene {{reviews:MLA26893967}} calificaciones con {{rating:MLA26893967}} de promedio, la nota más alta de esta comparativa.",
+    seoTitle: "Mancuerna Hexagonal G-Fitness 10 kg: {{rating:MLA26893967}} de nota",
+    metaDescription: "Mancuerna hexagonal engomada cromada de 10 kg, {{reviews:MLA26893967}} opiniones y {{rating:MLA26893967}} estrellas, la nota más alta de esta comparativa. Se vende por unidad, no por par.",
+    verdict: "Es la mancuerna **mejor calificada de esta comparativa**, con {{rating:MLA26893967}} sobre {{reviews:MLA26893967}} opiniones. Su forma hexagonal no rueda por el piso y el recubrimiento de goma de alta densidad protege el suelo y las manos. La aclaración que hay que hacer antes de comprar, porque genera confusión real: **se vende por unidad, no por par**, así que para entrenar con dos hay que agregar dos unidades al carrito.",
+    pros: [
+      "La nota más alta de esta comparativa: {{rating:MLA26893967}} sobre {{reviews:MLA26893967}} opiniones",
+      "Forma hexagonal: no rueda por el piso al dejarla",
+      "Recubrimiento de goma de alta densidad que protege el piso y amortigua el golpe",
+      "Mango cromado de 25 mm, agarre antideslizante",
+      "Vendida por la tienda oficial de G-Fitness en MercadoLibre, con +10 mil ventas",
+    ],
+    cons: [
+      "Se vende por unidad, no por par: hay que comprar dos publicaciones para entrenar con las dos manos",
+      "Base de reseñas más chica que otras mancuernas del sitio ({{reviews:MLA26893967}}), aunque con nota perfecta",
+      "No declara si el mango tiene alguna forma ergonómica más allá del recubrimiento antideslizante",
+      "Solo disponible en negro",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", text: "Es un espectáculo. Me compré un par y la verdad tienen una calidad increíble." },
+      { rating: 5, country: "Argentina", text: "Son excelentes. Buena calidad y terminación las recomiendo." },
+      { rating: 5, country: "Argentina", text: "Excelente!!! buena calidad del producto. Es lo que estaba buscando." },
+    ],
+    articleBody: `## Qué es la mancuerna hexagonal G-Fitness
+
+Es una mancuerna fija engomada, con la nota más alta de [nuestra comparativa de mancuernas en Argentina](/guias/fitness/mancuernas). Esta publicación es de 10 kg y cuesta {{precio:MLA26893967}}, con {{reviews:MLA26893967}} calificaciones y {{rating:MLA26893967}} estrellas de promedio.
+
+## Se vende por unidad, no por par
+
+Esta es la aclaración más importante antes de comprar: el precio y la publicación son **por una sola mancuerna**, no por el par. Para entrenar con las dos manos hay que sumar dos unidades al carrito.
+
+## Forma hexagonal, recubrimiento de goma y mango cromado
+
+A diferencia de las mancuernas redondas, la forma hexagonal evita que ruede por el piso al soltarla. El recubrimiento es de goma de alta densidad, con los extremos reforzados para proteger el piso y las manos, y un mango cromado de 25 mm de diámetro para un agarre cómodo y antideslizante.
+
+## La nota más alta de la comparativa
+
+Con {{rating:MLA26893967}} sobre {{reviews:MLA26893967}} opiniones es la mejor calificada de este grupo, vendida por la tienda oficial de G-Fitness en MercadoLibre, con más de 10 mil ventas. Su base de reseñas es más chica que otras mancuernas del sitio, pero con nota perfecta.
+
+## Para quién es, y para quién no
+
+Es para vos si entrenás en serio y preferís peso fijo antes que ajustable, o si ya tenés algunas mancuernas y querés sumar pesos puntuales. No es para vos si buscás comprar "el par" en una sola publicación: para eso, los kits de esta comparativa como el [DeporAr](/producto/kit-de-mancuernas-deporar-25-kg-barra-con-tope-a-rosca-y-discos-pvc-mla35569367) ya vienen armados de a dos.
+
+## El veredicto
+
+Es la mancuerna mejor calificada de esta comparativa, con forma hexagonal que no rueda y buen recubrimiento de goma. La aclaración que hay que hacer sí o sí antes de comprar: se vende por unidad, no por par.`,
+    faq: [
+      { question: "¿Esta publicación trae una mancuerna o el par?", answer: "Trae una sola mancuerna. Para entrenar con las dos manos hay que sumar dos unidades al carrito." },
+      { question: "¿Por qué es hexagonal y no redonda?", answer: "La forma hexagonal evita que la mancuerna ruede por el piso cuando la soltás, algo que sí pasa con las redondas." },
+      { question: "¿De qué está hecho el mango?", answer: "Es cromado, de 25 mm de diámetro, pensado para un agarre cómodo y antideslizante." },
+      { question: "¿Protege el piso al apoyarla?", answer: "Sí, el recubrimiento de goma de alta densidad amortigua el golpe y los extremos reforzados protegen tanto el piso como las manos." },
+      { question: "¿Por qué tiene la nota más alta de la comparativa?", answer: "Tiene {{rating:MLA26893967}} de promedio sobre {{reviews:MLA26893967}} opiniones, la calificación más alta entre las cuatro mancuernas de esta guía." },
+      { question: "¿La vende una tienda oficial?", answer: "Sí, la tienda oficial de GFITNESS en MercadoLibre, con más de 10 mil ventas." },
+    ],
+};
+
+// Guía nueva elíptica — silo fitness (sourcing MercadoLibre 2026-11-06). Keyword validada:
+// "eliptica" 2.400/mes AR, "bicicleta eliptica" 1.000/mes AR (Ubersuggest + Keyword Planner
+// cruzados). Los 4 con stock verificado en vivo el mismo día, ninguno "Usado" ni de un solo
+// vendedor particular.
+const elipticaJbhEquipAb11: Product = {
+    id: "MLA19152014",
+    title: "Elíptica JBH Equip AB-11 — A Cinta, 2 en 1 con Asiento, 100 Niveles",
+    canonicalName: "JBH Equip AB-11",
+    brand: "JBH Equip",
+    mpn: "AB-11",
+    price: 353390,
+    originalPrice: 379990,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_607881-MLA95708226708_102025-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_607881-MLA95708226708_102025-F.webp",
+    ],
+    category: "Fitness",
+    categorySlug: "fitness",
+    permalink: "https://www.mercadolibre.com.ar/eliptica-jbh-equip-ab-11-a-cinta-100-niveles-resistencia-con-pantalla/p/MLA19152014",
+    affiliateUrl: "https://meli.la/1coSTta",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.6,
+    reviewCount: 213,
+    pastelColor: "var(--pastel-green)",
+    specs: [
+      { label: "Marca", value: "JBH Equip" },
+      { label: "Modelo", value: "AB-11" },
+      { label: "Tipo de resistencia", value: "A cinta" },
+      { label: "Peso máximo soportado", value: "110 kg" },
+      { label: "Niveles de resistencia", value: "100" },
+      { label: "Con asiento ajustable", value: "Sí, 2 en 1 (elíptica + bicicleta)" },
+      { label: "Con pantalla", value: "Sí, a pilas (2 AA, no incluidas)" },
+      { label: "Funciones", value: "Calorías, distancia, tiempo, velocidad, escáner" },
+      { label: "Con ruedas de transporte", value: "Sí" },
+      { label: "Movimiento de brazos", value: "Sí" },
+      { label: "Peso del equipo", value: "25 kg" },
+      { label: "Color", value: "Negro" },
+    ],
+    relatedProducts: ["MLA52118154", "MLA29264866", "MLA29553324"],
+    priceUpdated: "2026-11-06", priceLastChecked: "2026-11-06", priceVerifiedAt: "2026-11-06",
+    priceStatus: "fresh", reviewsSampledAt: "2026-11-06",
+    description: "Elíptica 2 en 1 con asiento, resistencia a cinta y 100 niveles. La más vendida de esta comparativa. Tiene {{reviews:MLA19152014}} calificaciones con {{rating:MLA19152014}} de promedio.",
+    seoTitle: "Elíptica JBH Equip AB-11: la más vendida, 2 en 1 con asiento",
+    metaDescription: "Elíptica JBH Equip AB-11, a cinta, 2 en 1 con asiento y 100 niveles de resistencia. {{reviews:MLA19152014}} opiniones y {{rating:MLA19152014}} estrellas, la más vendida de esta comparativa.",
+    verdict: "Es la **elíptica más vendida de esta comparativa**, con {{rating:MLA19152014}} sobre {{reviews:MLA19152014}} opiniones. Es 2 en 1 (combina elíptica y bicicleta con asiento) y la más accesible de precio. La contra real: es resistencia a cinta, no magnética, así que con el uso algunas piezas se aflojan y puede sonar más que una magnética, según reportan más de un comprador.",
+    pros: [
+      "La más vendida de esta comparativa: +5 mil ventas de la tienda oficial",
+      "2 en 1: combina elíptica y bicicleta con asiento en el mismo equipo",
+      "100 niveles de resistencia, el número más alto de esta comparativa",
+      "La más accesible de precio de las cuatro",
+      "Funciones completas: calorías, distancia, tiempo, velocidad y escáner",
+    ],
+    cons: [
+      "Resistencia a cinta, no magnética: con el uso se desgasta más y puede sonar más que una magnética",
+      "Más de un comprador reporta que algunas piezas se aflojan con el uso frecuente",
+      "El monitor funciona a pilas (2 AA), que no vienen incluidas",
+      "No declara si el mango tiene recubrimiento antideslizante más allá del material base",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", text: "Compré este modelo pues me es muy cómodo. Ya he tenido de otras marcas muy conocidas y esta marca no tiene nada que envidiarles. Es cómodo. Fácil de armar. Hay que tener a mano las herramientas." },
+      { rating: 4, country: "Argentina", text: "Está bien, pero se aflojan partes a cada rato." },
+      { rating: 4, country: "Argentina", text: "Bueno. Un poco ruidoso a pesar de lubricar." },
+    ],
+    articleBody: `## Qué es la elíptica JBH Equip AB-11
+
+Es una elíptica 2 en 1 (combina elíptica y bicicleta con asiento), la más vendida de [nuestra comparativa de elípticas en Argentina](/guias/fitness/eliptica). Cuesta {{precio:MLA19152014}} y tiene {{reviews:MLA19152014}} calificaciones con {{rating:MLA19152014}} estrellas.
+
+## 2 en 1, y la más accesible de precio
+
+Suma un asiento regulable al movimiento elíptico, así que podés alternar entre entrenar de pie o sentado (lo mismo que la Ranbak 300 y la World Fitness 92503 de esta comparativa, a diferencia de la Randers, que es standing puro). Con 100 niveles de resistencia (el número más alto del grupo) y funciones de calorías, distancia, tiempo, velocidad y escáner en el monitor.
+
+## La más vendida, lejos del resto
+
+Con más de 5 mil ventas de la tienda oficial y {{rating:MLA19152014}} sobre {{reviews:MLA19152014}} opiniones, es la elíptica con más respaldo de compradores de esta guía. Soporta hasta 110 kg y trae ruedas de transporte para moverla con comodidad.
+
+## La contra: resistencia a cinta, no magnética
+
+Esta es la advertencia honesta antes de comprar. A diferencia de las otras tres de esta comparativa, usa resistencia a cinta, no magnética: más de un comprador reporta que algunas piezas se aflojan con el uso frecuente, y otro la describe como "un poco ruidosa a pesar de lubricar". No es un defecto grave, pero conviene saberlo si buscás la opción más silenciosa.
+
+## Para quién es, y para quién no
+
+Es para vos si buscás la opción más vendida y accesible de esta comparativa, y valorás poder alternar entre elíptica y bicicleta con asiento. No es para vos si el silencio es tu prioridad número uno: para eso, la [Randers Arg-1931](/guias/fitness/eliptica) de esta misma comparativa es magnética.
+
+## El veredicto
+
+Es la elíptica más vendida de esta comparativa, 2 en 1 y la más accesible de precio. La contra real: resistencia a cinta, que se afloja un poco con el uso y puede sonar más que una magnética.`,
+    faq: [
+      { question: "¿Por qué es la más vendida de la comparativa?", answer: "Tiene más de 5 mil ventas de la tienda oficial y {{rating:MLA19152014}} de promedio sobre {{reviews:MLA19152014}} opiniones, la base de ventas más grande de esta guía." },
+      { question: "¿Es 2 en 1?", answer: "Sí, combina movimiento elíptico con un asiento regulable tipo bicicleta, así que podés alternar entre entrenar de pie o sentado." },
+      { question: "¿La resistencia es magnética?", answer: "No, es a cinta. Es más básica que la resistencia magnética de otras elípticas de esta comparativa, y según reseñas algunas piezas se aflojan con el uso frecuente." },
+      { question: "¿Cuánto peso soporta?", answer: "110 kg." },
+      { question: "¿El monitor necesita pilas?", answer: "Sí, funciona con 2 pilas AA que no vienen incluidas en la caja." },
+      { question: "¿Es ruidosa?", answer: "Según una reseña, puede sonar un poco incluso lubricada, algo típico de la resistencia a cinta frente a la magnética." },
+    ],
+};
+
+// Mejor calificada de la comparativa de elíptica (4.8, la nota más alta de las 4).
+const elipticaRanbak300: Product = {
+    id: "MLA52118154",
+    title: "Caminador Elíptico Ranbak 300 — 3 en 1, Asiento Regulable",
+    canonicalName: "Ranbak 300",
+    brand: "Ranbak",
+    mpn: "RAN-300",
+    price: 369900,
+    originalPrice: 369900,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_702432-MLA99433714718_112025-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_702432-MLA99433714718_112025-F.webp",
+    ],
+    category: "Fitness",
+    categorySlug: "fitness",
+    permalink: "https://www.mercadolibre.com.ar/caminador-eliptico-ranbak-300-asiento-regulable-negro/p/MLA52118154",
+    affiliateUrl: "https://meli.la/2HKEYvJ",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 88,
+    pastelColor: "var(--pastel-purple)",
+    specs: [
+      { label: "Marca", value: "Ranbak" },
+      { label: "Modelo", value: "RAN-300" },
+      { label: "Tipo de resistencia", value: "Mecánica" },
+      { label: "Funciones", value: "Combina escalador, bicicleta y simulador de ski" },
+      { label: "Peso máximo soportado", value: "100 kg" },
+      { label: "Longitud de zancada", value: "28 cm" },
+      { label: "Niveles de resistencia", value: "8" },
+      { label: "Con asiento ajustable", value: "Sí" },
+      { label: "Con pantalla", value: "Sí, velocidad, tiempo, distancia y calorías" },
+      { label: "Con ruedas de transporte", value: "Sí" },
+      { label: "Medidas", value: "89,5 x 66,5 x 142,5 cm, diseño compacto" },
+      { label: "Garantía", value: "6 meses de fábrica" },
+      { label: "Color", value: "Negro" },
+    ],
+    relatedProducts: ["MLA19152014", "MLA29264866", "MLA29553324"],
+    priceUpdated: "2026-11-06", priceLastChecked: "2026-11-06", priceVerifiedAt: "2026-11-06",
+    priceStatus: "fresh", reviewsSampledAt: "2026-11-06",
+    description: "Caminador elíptico 3 en 1 (escalador, bicicleta y simulador de ski), compacto, con asiento regulable. La mejor calificada de esta comparativa. Tiene {{reviews:MLA52118154}} calificaciones con {{rating:MLA52118154}} de promedio.",
+    seoTitle: "Caminador Elíptico Ranbak 300: {{rating:MLA52118154}} de nota, 3 en 1",
+    metaDescription: "Caminador elíptico Ranbak 300, 3 en 1 con asiento regulable. {{reviews:MLA52118154}} opiniones y {{rating:MLA52118154}} estrellas, la mejor calificada de esta comparativa.",
+    verdict: "Es el **caminador elíptico mejor calificado de esta comparativa**, con {{rating:MLA52118154}} sobre {{reviews:MLA52118154}} opiniones. Combina tres ejercicios en un solo equipo (escalador, bicicleta y simulador de ski) en un diseño compacto, con 6 meses de garantía de fábrica. La contra real: su base de reseñas es más chica que la de otros modelos de esta comparativa.",
+    pros: [
+      "La nota más alta de esta comparativa: {{rating:MLA52118154}} sobre {{reviews:MLA52118154}} opiniones",
+      "3 en 1: combina escalador, bicicleta y simulador de ski",
+      "Diseño compacto (89,5 x 66,5 cm de base), ahorra espacio",
+      "Vendido por tienda oficial con 6 meses de garantía de fábrica",
+      "Asiento regulable confirmado en la ficha técnica",
+    ],
+    cons: [
+      "Base de reseñas más chica (88) que la JBH Equip o la World Fitness de esta comparativa",
+      "Resistencia mecánica, no magnética, más básica que la Randers o la World Fitness",
+      "Un comprador reportó una arandela del pedal fallada al ajustar, aunque sin mayores consecuencias",
+      "Soporta 100 kg, menos que la JBH Equip o la World Fitness (110 kg)",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", text: "Muy linda la máquina esta de tortura anda flama." },
+      { rating: 5, country: "Argentina", text: "Me encanta! la amamos! es muy práctica para moverla, súper útil para hacer actividad en casa. Fue fácil armarla, solo una arandela del pedal vino media fallada y se quebró al ajustar, pero nada que no se pueda solucionar." },
+      { rating: 5, country: "Argentina", text: "Muy buena, me sirve un montón 2 ejercicios en un solo aparato, buen precio y calidad, recomiendo su compra." },
+    ],
+    articleBody: `## Qué es el caminador elíptico Ranbak 300
+
+Es un caminador elíptico 3 en 1, con la nota más alta de [nuestra comparativa de elípticas en Argentina](/guias/fitness/eliptica). Cuesta {{precio:MLA52118154}} y tiene {{reviews:MLA52118154}} calificaciones con {{rating:MLA52118154}} estrellas.
+
+## Tres ejercicios en un solo equipo
+
+Combina escalador, bicicleta y simulador de ski en un diseño compacto (89,5 x 66,5 x 142,5 cm), ideal para espacios chicos. La zancada de 28 cm da un movimiento natural, con 8 niveles de resistencia mecánica y asiento regulable.
+
+## La mejor calificada de la comparativa
+
+Con {{rating:MLA52118154}} sobre {{reviews:MLA52118154}} opiniones, es la nota más alta de este grupo. Vendida por tienda oficial, con 6 meses de garantía de fábrica. Una compradora la resume así: "muy buena, me sirve un montón 2 ejercicios en un solo aparato, buen precio y calidad".
+
+## La contra: una base de reseñas más chica
+
+Esta es la advertencia honesta antes de comprar. Aunque tiene la nota más alta, su base de reseñas (88) es más chica que la de la JBH Equip o la World Fitness de esta comparativa. Un comprador también reportó que una arandela del pedal vino media fallada y se quebró al ajustar, aunque aclara que "nada que no se pueda solucionar".
+
+## Para quién es, y para quién no
+
+Es para vos si buscás la mejor calificada de esta comparativa y valorás un diseño compacto con tres tipos de ejercicio en un solo equipo. No es para vos si necesitás soportar más de 100 kg: para eso, la JBH Equip o la World Fitness de esta comparativa llegan a 110 kg.
+
+## El veredicto
+
+Es el caminador elíptico mejor calificado de esta comparativa, compacto y 3 en 1. La contra real: su base de reseñas es más chica que la del resto del grupo.`,
+    faq: [
+      { question: "¿Por qué tiene la nota más alta de la comparativa?", answer: "Tiene {{rating:MLA52118154}} de promedio sobre {{reviews:MLA52118154}} opiniones, la calificación más alta entre los cuatro equipos de esta guía." },
+      { question: "¿Qué significa que sea 3 en 1?", answer: "Combina escalador, bicicleta y simulador de ski en un mismo equipo, con asiento regulable." },
+      { question: "¿Cuánto peso soporta?", answer: "100 kg." },
+      { question: "¿Es compacto?", answer: "Sí, mide 89,5 x 66,5 x 142,5 cm, de los más compactos de esta comparativa." },
+      { question: "¿Tiene garantía?", answer: "Sí, 6 meses de garantía de fábrica, vendido por tienda oficial." },
+      { question: "¿La resistencia es magnética?", answer: "No, es mecánica. Para resistencia magnética, mirá la Randers Arg-1931 o la World Fitness 92503 de esta comparativa." },
+    ],
+};
+
+// La más silenciosa (magnética) de la comparativa de elíptica.
+const elipticaRandersArg1931: Product = {
+    id: "MLA29264866",
+    title: "Caminador Elíptico Randers Arg-1931 — Magnético, Sin Asiento",
+    canonicalName: "Randers Arg-1931",
+    brand: "Randers",
+    mpn: "ARG-1931",
+    price: 575899,
+    originalPrice: 709999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_938359-MLA108357404165_032026-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_938359-MLA108357404165_032026-F.webp",
+    ],
+    category: "Fitness",
+    categorySlug: "fitness",
+    permalink: "https://www.mercadolibre.com.ar/caminador-eliptico-randers-arg-1931-magnetico-asiento-ajust-color-gris/p/MLA29264866",
+    affiliateUrl: "https://meli.la/1r3twc6",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 176,
+    pastelColor: "var(--pastel-blue)",
+    specs: [
+      { label: "Marca", value: "Randers" },
+      { label: "Modelo", value: "ARG-1931" },
+      { label: "Tipo de resistencia", value: "Magnético" },
+      { label: "Peso máximo soportado", value: "100 kg" },
+      { label: "Niveles de resistencia", value: "8" },
+      { label: "Con pantalla", value: "Sí" },
+      { label: "Con ruedas de transporte", value: "Sí" },
+      { label: "Con agarres antideslizantes", value: "Sí" },
+      { label: "Con asiento ajustable", value: "No (standing, sin asiento, pese a lo que sugiere el título)" },
+      { label: "Garantía", value: "6 meses de fábrica" },
+      { label: "Color", value: "Gris" },
+    ],
+    relatedProducts: ["MLA19152014", "MLA52118154", "MLA29553324"],
+    priceUpdated: "2026-11-06", priceLastChecked: "2026-11-06", priceVerifiedAt: "2026-11-06",
+    priceStatus: "fresh", reviewsSampledAt: "2026-11-06",
+    description: "Caminador elíptico magnético, standing (sin asiento). La más silenciosa de esta comparativa según compradores. Tiene {{reviews:MLA29264866}} calificaciones con {{rating:MLA29264866}} de promedio.",
+    seoTitle: "Caminador Elíptico Randers Arg-1931: magnético, la más silenciosa",
+    metaDescription: "Caminador elíptico Randers Arg-1931, resistencia magnética. {{reviews:MLA29264866}} opiniones y {{rating:MLA29264866}} estrellas. Ojo: pese al título, no trae asiento.",
+    verdict: "Es la opción de **resistencia magnética más silenciosa** de esta comparativa, con {{rating:MLA29264866}} sobre {{reviews:MLA29264866}} opiniones. Vendida por tienda oficial con 6 meses de garantía. La aclaración honesta que hay que hacer antes de comprar: **pese a que el título dice \"asiento ajustable\", la ficha técnica confirma que este modelo NO tiene asiento**, es un caminador standing puro.",
+    pros: [
+      "Resistencia magnética: la más silenciosa de esta comparativa según una comparación directa de un comprador",
+      "Tienda oficial (NOVOGAR) con más de 100 mil ventas y 6 meses de garantía de fábrica",
+      "+500 vendidos, buena base de reseñas (176)",
+      "Agarres antideslizantes y ruedas de transporte",
+    ],
+    cons: [
+      "El título del vendedor dice \"asiento ajustable\", pero la ficha técnica confirma que NO trae asiento: es un caminador standing puro, una discrepancia real a tener en cuenta",
+      "La más cara de esta comparativa",
+      "Un comprador reporta que el manual de armado no es muy bueno (se resolvió con videos de YouTube)",
+      "Soporta 100 kg, menos que la JBH Equip o la World Fitness",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", text: "Recién llevo una semana usandolo, está re manso (bueno) y silencioso, tuve otro con cinta y hacía un quilombo esté es mansito y la computadora de diez, yo con el tiempo y la distancia recorrida estoy hecho lo demás suma, me llevó un tiempo armarlo porqué soy de madera con las herramientas, lo volvería a comprar es re práctico para hacer ejercicio sobre todo en invierno." },
+      { rating: 5, country: "Argentina", text: "El manual no es muy bueno para armarlo. Pero buscando videos en youtube me facilitó el armado." },
+    ],
+    articleBody: `## Qué es el caminador elíptico Randers Arg-1931
+
+Es un caminador elíptico de resistencia magnética, el más silencioso de [nuestra comparativa de elípticas en Argentina](/guias/fitness/eliptica) según compradores. Cuesta {{precio:MLA29264866}} y tiene {{reviews:MLA29264866}} calificaciones con {{rating:MLA29264866}} estrellas.
+
+## Ojo: el título dice "asiento ajustable", pero no lo trae
+
+Esta es la aclaración más importante antes de comprar. El nombre de la publicación menciona "asiento ajustable", pero la ficha técnica del vendedor confirma que este modelo **no tiene asiento**: es un caminador standing puro, para usar de pie. Si buscás un modelo con asiento, mirá la [JBH Equip AB-11](/guias/fitness/eliptica) o la [World Fitness 92503](/guias/fitness/eliptica) de esta misma comparativa.
+
+## Resistencia magnética: la más silenciosa del grupo
+
+Un comprador que tuvo antes un modelo a cinta lo resume con precisión: "tuve otro con cinta y hacía un quilombo, esté es mansito". La resistencia magnética es, por diseño, más silenciosa y suave que la resistencia a cinta o mecánica de los otros modelos de esta comparativa.
+
+## Tienda oficial, con garantía real
+
+Está vendida por NOVOGAR, tienda oficial de Randers con más de 100 mil ventas, y trae 6 meses de garantía de fábrica, algo que no todos los modelos de esta comparativa declaran.
+
+## Para quién es, y para quién no
+
+Es para vos si el silencio es tu prioridad y no te importa entrenar de pie. No es para vos si buscás un asiento para alternar posiciones: a pesar del título de la publicación, este modelo no lo trae.
+
+## El veredicto
+
+Es la elíptica más silenciosa de esta comparativa, con resistencia magnética y el respaldo de una tienda oficial con garantía. La contra real: pese a lo que sugiere el título, no tiene asiento.`,
+    faq: [
+      { question: "¿Trae asiento este modelo?", answer: "No. Pese a que el título de la publicación menciona \"asiento ajustable\", la ficha técnica confirma que este modelo es un caminador standing puro, sin asiento." },
+      { question: "¿Por qué es la más silenciosa de la comparativa?", answer: "Usa resistencia magnética, más suave y silenciosa que la resistencia a cinta o mecánica de otros modelos. Un comprador que tuvo antes un modelo a cinta lo confirma directamente en su reseña." },
+      { question: "¿Cuánto peso soporta?", answer: "100 kg." },
+      { question: "¿Tiene garantía?", answer: "Sí, 6 meses de garantía de fábrica, vendida por la tienda oficial NOVOGAR." },
+      { question: "¿Es fácil de armar?", answer: "Según un comprador, el manual impreso no es muy claro, pero se resuelve fácil buscando videos de armado en YouTube." },
+      { question: "¿Por qué es más cara que las otras de la comparativa?", answer: "Por el tipo de resistencia (magnética, más cara de fabricar que la mecánica o a cinta) y por ser de una marca con tienda oficial y garantía de fábrica." },
+    ],
+};
+
+// La más completa (única con medición de pulso) de la comparativa de elíptica.
+const elipticaWorldFitness92503: Product = {
+    id: "MLA29553324",
+    title: "Caminador Elíptico World Fitness 92503 — Magnético con Asiento y Pulso",
+    canonicalName: "World Fitness 92503",
+    brand: "World Fitness",
+    mpn: "92503",
+    price: 421799,
+    originalPrice: 599999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_760710-MLA99990355323_112025-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_760710-MLA99990355323_112025-F.webp",
+    ],
+    category: "Fitness",
+    categorySlug: "fitness",
+    permalink: "https://www.mercadolibre.com.ar/caminador-eliptico-magnetico-casiento-world-fitness-92503/p/MLA29553324",
+    affiliateUrl: "https://meli.la/12ZKUE2",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.6,
+    reviewCount: 121,
+    pastelColor: "var(--pastel-amber)",
+    specs: [
+      { label: "Marca", value: "World Fitness" },
+      { label: "Modelo", value: "92503" },
+      { label: "Tipo de resistencia", value: "Magnético" },
+      { label: "Peso máximo soportado", value: "110 kg" },
+      { label: "Niveles de resistencia", value: "8" },
+      { label: "Con asiento ajustable", value: "Sí" },
+      { label: "Con pantalla", value: "Sí, calorías, distancia, pulso, tiempo y velocidad" },
+      { label: "Con ruedas de transporte", value: "Sí" },
+      { label: "Peso del equipo", value: "28,6 kg" },
+      { label: "Garantía", value: "6 meses de fábrica" },
+    ],
+    relatedProducts: ["MLA19152014", "MLA52118154", "MLA29264866"],
+    priceUpdated: "2026-11-06", priceLastChecked: "2026-11-06", priceVerifiedAt: "2026-11-06",
+    priceStatus: "fresh", reviewsSampledAt: "2026-11-06",
+    description: "Caminador elíptico magnético con asiento, la única de esta comparativa con medición de pulso cardíaco. Tiene {{reviews:MLA29553324}} calificaciones con {{rating:MLA29553324}} de promedio.",
+    seoTitle: "Caminador Elíptico World Fitness 92503: con asiento y medición de pulso",
+    metaDescription: "Caminador elíptico World Fitness 92503, magnético, con asiento y medición de pulso. {{reviews:MLA29553324}} opiniones y {{rating:MLA29553324}} estrellas.",
+    verdict: "Es la opción **más completa de esta comparativa**: magnética, con asiento regulable y la única de las cuatro que mide pulso cardíaco en la pantalla. Tiene {{rating:MLA29553324}} sobre {{reviews:MLA29553324}} opiniones. La aclaración honesta: un comprador reporta que el manual no declara el peso máximo soportado y que el vendedor, consultado por preguntas, respondió 130 kg, aunque la ficha técnica oficial dice 110 kg.",
+    pros: [
+      "La única de esta comparativa que mide pulso cardíaco además de calorías, distancia, tiempo y velocidad",
+      "Resistencia magnética: silenciosa según reseñas",
+      "Con asiento ajustable, confirmado en la ficha técnica",
+      "+500 vendidos y stock amplio (+50 disponibles) al momento de verificar",
+      "Tienda oficial con 6 meses de garantía de fábrica",
+    ],
+    cons: [
+      "El manual no declara el peso máximo soportado; la ficha técnica oficial dice 110 kg, pero un comprador reporta que el vendedor respondió 130 kg al consultarle por preguntas — una discrepancia real a tener en cuenta",
+      "Base de reseñas intermedia (121), menos que la JBH Equip",
+      "No es la más barata ni la más calificada de esta comparativa",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", text: "La calidad es muy buena, los caños son gruesos, y es muy silencioso. Los materiales son de buena calidad y las terminaciones son excelentes. Hace un mes que lo uso todos los días." },
+      { rating: 5, country: "Argentina", text: "El elíptico está muy bueno, el hecho de que tenga asiento lo hace aún mejor. El ruido que hace es mínimo, estamos muy conformes. Lo único que no me convence es que preguntamos varias veces cuánto peso soporta porque queríamos algo duradero y estable y nos respondieron 130 kg. Pero en el manual no dice nada sobre el peso y me parece fundamental." },
+    ],
+    articleBody: `## Qué es el caminador elíptico World Fitness 92503
+
+Es un caminador elíptico magnético con asiento, la opción más completa de [nuestra comparativa de elípticas en Argentina](/guias/fitness/eliptica). Cuesta {{precio:MLA29553324}} y tiene {{reviews:MLA29553324}} calificaciones con {{rating:MLA29553324}} estrellas.
+
+## La única que mide pulso cardíaco
+
+Además de calorías, distancia, tiempo y velocidad (lo que traen los otros modelos de esta comparativa), su pantalla suma medición de pulso cardíaco, un dato que ninguna otra elíptica de esta guía ofrece. Es magnética, con asiento ajustable y soporta hasta 110 kg.
+
+## Silenciosa y con buenos materiales, según compradores
+
+Una compradora la describe así: "la calidad es muy buena, los caños son gruesos, y es muy silencioso. Los materiales son de buena calidad y las terminaciones son excelentes". Otra suma: "el ruido que hace es mínimo, estamos muy conformes".
+
+## La contra: una discrepancia sobre el peso máximo
+
+Esta es la advertencia honesta antes de comprar. Una compradora reporta que el manual no declara el peso máximo soportado, y que al consultar por preguntas de la publicación, el vendedor respondió 130 kg. La ficha técnica oficial, sin embargo, declara 110 kg. Por la regla de honestidad de este sitio, usamos el dato de la ficha técnica (110 kg) y no la respuesta verbal del vendedor, pero conviene que lo sepas antes de comprar si tu peso está en ese rango.
+
+## Para quién es, y para quién no
+
+Es para vos si querés la opción más completa de esta comparativa, con asiento y seguimiento de pulso cardíaco. No es para vos si buscás la opción más barata: para eso, la JBH Equip AB-11 o la Ranbak 300 de esta comparativa cuestan menos.
+
+## El veredicto
+
+Es la elíptica más completa de esta comparativa: magnética, con asiento y la única que mide pulso. La contra real: una discrepancia entre el peso máximo que declara la ficha (110 kg) y lo que respondió el vendedor por preguntas (130 kg).`,
+    faq: [
+      { question: "¿Mide el pulso cardíaco?", answer: "Sí, es la única de esta comparativa que suma medición de pulso en la pantalla, además de calorías, distancia, tiempo y velocidad." },
+      { question: "¿Cuánto peso soporta realmente?", answer: "La ficha técnica oficial dice 110 kg. Una compradora reporta que el vendedor respondió 130 kg por preguntas, pero el manual no lo aclara, así que conviene guiarse por el dato de la ficha." },
+      { question: "¿Trae asiento?", answer: "Sí, con asiento ajustable, confirmado en la ficha técnica." },
+      { question: "¿Es silenciosa?", answer: "Sí, según varias reseñas. Usa resistencia magnética, que es más silenciosa que la resistencia a cinta o mecánica." },
+      { question: "¿Tiene garantía?", answer: "Sí, 6 meses de garantía de fábrica, vendida por la tienda oficial World Fitness." },
+      { question: "¿Hay stock disponible?", answer: "Sí, al momento de verificar tenía más de 50 unidades disponibles, la base de stock más amplia de esta comparativa." },
+    ],
+};
+
+// La más vendida y accesible de la comparativa de máquina de remo.
+const remoGadnicForce: Product = {
+    id: "MLA67718289",
+    title: "Máquina de Remo Force by Gadnic — Plegable, Resistencia Regulable",
+    canonicalName: "Gadnic Force",
+    brand: "Gadnic",
+    mpn: "FORCE",
+    price: 239999,
+    originalPrice: 475149,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_722197-MLA109363145828_042026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_722197-MLA109363145828_042026-O.webp",
+    ],
+    category: "Fitness",
+    categorySlug: "fitness",
+    permalink: "https://www.mercadolibre.com.ar/maquina-de-remo-force-by-gadnic-plegable-resistencia-regulable-monitor-digital-pedales-antideslizantes/p/MLA67718289",
+    affiliateUrl: "https://meli.la/2XYH635",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 84,
+    pastelColor: "var(--pastel-coral)",
+    specs: [
+      { label: "Marca", value: "Gadnic" },
+      { label: "Modelo", value: "Force" },
+      { label: "Material", value: "Acero" },
+      { label: "Resistencia", value: "Regulable (el vendedor no declara si es hidráulica, magnética o mecánica)" },
+      { label: "Con pantalla", value: "Sí, monitor digital" },
+      { label: "Es plegable", value: "Sí" },
+      { label: "Dimensiones", value: "1,42 m x 47 cm x 65 cm" },
+      { label: "Peso máximo soportado", value: "No declarado en la ficha técnica" },
+      { label: "Color", value: "Negro" },
+    ],
+    relatedProducts: ["MLA53156142", "MLA42102298", "MLA44417409"],
+    priceUpdated: "2026-11-06", priceLastChecked: "2026-11-06", priceVerifiedAt: "2026-11-06",
+    priceStatus: "fresh", reviewsSampledAt: "2026-11-06",
+    description: "Máquina de remo plegable, resistencia regulable y monitor digital. La más vendida y accesible de esta comparativa. Tiene {{reviews:MLA67718289}} calificaciones con {{rating:MLA67718289}} de promedio.",
+    seoTitle: "Máquina de Remo Gadnic Force: la más vendida, plegable y accesible",
+    metaDescription: "Máquina de remo Gadnic Force, plegable, resistencia regulable. {{reviews:MLA67718289}} opiniones y {{rating:MLA67718289}} estrellas, la más vendida de esta comparativa.",
+    verdict: "Es la **máquina de remo más vendida y accesible de esta comparativa**, con {{rating:MLA67718289}} sobre {{reviews:MLA67718289}} opiniones, badge de \"Más vendido\" en su categoría y tienda oficial con más de un millón de ventas. La aclaración honesta: ni la ficha técnica ni la descripción declaran el tipo de mecanismo de resistencia (hidráulico, magnético o mecánico) ni el peso máximo soportado, algo que las otras tres de esta comparativa sí confirman.",
+    pros: [
+      "La más barata de esta comparativa, bastante por debajo de las otras tres",
+      "Badge \"Más vendido\" (8° en Máquinas de Musculación) y tienda oficial con más de un millón de ventas",
+      "Es plegable, fácil de guardar en espacios chicos",
+      "Buena calificación ({{rating:MLA67718289}}) con una base sólida de opiniones",
+      "Stock amplio al momento de verificar",
+    ],
+    cons: [
+      "No declara el tipo de mecanismo de resistencia (hidráulico, magnético o mecánico), algo que sí confirman las otras tres máquinas de esta comparativa",
+      "Tampoco declara el peso máximo soportado en la ficha técnica",
+      "Un comprador en el límite superior de peso reporta que el equipo resiste bien, pero es una referencia informal, no un dato oficial",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", text: "Desde julio lo uso una hora diaria. Y como estoy en el límite superior del peso que soporta, pensé que ni iba a durar. Me equivoqué, sigue como el primer día. Excelente producto." },
+    ],
+    articleBody: `## Qué es la máquina de remo Gadnic Force
+
+Es una máquina de remo plegable con resistencia regulable y monitor digital, la más vendida de [nuestra comparativa de máquinas de remo en Argentina](/guias/fitness/maquina-de-remo). Cuesta {{precio:MLA67718289}} y tiene {{reviews:MLA67718289}} calificaciones con {{rating:MLA67718289}} estrellas.
+
+## La más barata y la más vendida, lejos del resto
+
+Con el badge "Más vendido" (8° en Máquinas de Musculación) y una tienda oficial con más de un millón de ventas, es la opción con más respaldo de volumen de esta comparativa. También es, por bastante margen, la más accesible de precio de las cuatro.
+
+## La contra: no declara el mecanismo de resistencia ni el peso máximo
+
+Esta es la advertencia honesta antes de comprar. Ni la ficha técnica ni la descripción del vendedor dicen si la resistencia es hidráulica, magnética o mecánica, ni cuál es el peso máximo que soporta el equipo. Las otras tres máquinas de esta comparativa sí declaran ambos datos. Un comprador que dice estar "en el límite superior del peso que soporta" cuenta que el equipo aguanta bien el uso diario, pero es una referencia de un usuario, no un dato oficial del fabricante.
+
+## Para quién es, y para quién no
+
+Es para vos si buscás la opción más económica y plegable de esta comparativa, y no te preocupa no tener el dato exacto de mecanismo o peso máximo. Si ese dato es importante para vos, la [G-Fitness TJ-2201](/guias/fitness/maquina-de-remo) declara mecanismo magnético y 150 kg de capacidad.
+
+## El veredicto
+
+Es la máquina de remo más vendida y accesible de esta comparativa, plegable y con buena calificación. La contra real: no declara el mecanismo de resistencia ni el peso máximo soportado.`,
+    faq: [
+      { question: "¿Por qué es la más vendida de la comparativa?", answer: "Tiene el badge \"Más vendido\" (8° en Máquinas de Musculación) y está vendida por una tienda oficial con más de un millón de ventas, el respaldo de volumen más grande de esta guía." },
+      { question: "¿Qué tipo de resistencia tiene?", answer: "El vendedor la describe como \"regulable\", pero ni la ficha técnica ni la descripción aclaran si el mecanismo es hidráulico, magnético o mecánico." },
+      { question: "¿Cuánto peso soporta?", answer: "No está declarado en la ficha técnica. Si ese dato es importante para vos, la G-Fitness TJ-2201 o la Body Skull de esta comparativa sí declaran 150 kg." },
+      { question: "¿Es plegable?", answer: "Sí, se pliega para guardar en espacios chicos." },
+      { question: "¿Es la más barata de la comparativa?", answer: "Sí, por bastante margen frente a las otras tres de esta guía." },
+    ],
+};
+
+// La mejor calificada y más estable (no plegable) de la comparativa de máquina de remo.
+const remoGFitnessTj2201: Product = {
+    id: "MLA53156142",
+    title: "Simulador de Remo G-Fitness TJ-2201 — Magnético, Soporta 150 kg",
+    canonicalName: "G-Fitness TJ-2201",
+    brand: "G-Fitness",
+    mpn: "TJ-2201",
+    price: 691705,
+    originalPrice: 1453512,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_688533-MLA104683405102_012026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_688533-MLA104683405102_012026-O.webp",
+    ],
+    category: "Fitness",
+    categorySlug: "fitness",
+    permalink: "https://www.mercadolibre.com.ar/simulador-de-remo-tj-2201-residencial-monitor-lcd-8-niveles-sistema-magnetico-inercia-2kg-soporta-150kg-ergonomico/p/MLA53156142",
+    affiliateUrl: "https://meli.la/1t8ds62",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.9,
+    reviewCount: 65,
+    pastelColor: "var(--pastel-pink)",
+    specs: [
+      { label: "Marca", value: "G-Fitness" },
+      { label: "Modelo", value: "TJ-2201" },
+      { label: "Material", value: "Hierro" },
+      { label: "Mecanismo de resistencia", value: "Magnético, inercia de 2 kg" },
+      { label: "Niveles de intensidad", value: "8" },
+      { label: "Peso máximo soportado", value: "150 kg" },
+      { label: "Con pantalla", value: "Sí, monitor LCD" },
+      { label: "Con ruedas", value: "Sí" },
+      { label: "Es plegable", value: "No" },
+      { label: "Dimensiones", value: "1,445 m x 49 cm x 64,5 cm" },
+      { label: "Color", value: "Negro" },
+    ],
+    relatedProducts: ["MLA67718289", "MLA42102298", "MLA44417409"],
+    priceUpdated: "2026-11-06", priceLastChecked: "2026-11-06", priceVerifiedAt: "2026-11-06",
+    priceStatus: "fresh", reviewsSampledAt: "2026-11-06",
+    description: "Simulador de remo magnético, soporta 150 kg, no es plegable. La mejor calificada de esta comparativa. Tiene {{reviews:MLA53156142}} calificaciones con {{rating:MLA53156142}} de promedio.",
+    seoTitle: "Simulador de Remo G-Fitness TJ-2201: {{rating:MLA53156142}} de nota, soporta 150 kg",
+    metaDescription: "Simulador de remo G-Fitness TJ-2201, magnético, soporta 150 kg. {{reviews:MLA53156142}} opiniones y {{rating:MLA53156142}} estrellas, la mejor calificada de esta comparativa.",
+    verdict: "Es el **simulador de remo mejor calificado de esta comparativa**, con {{rating:MLA53156142}} sobre {{reviews:MLA53156142}} opiniones. Mecanismo magnético declarado, estructura de hierro y 150 kg de capacidad, la más alta junto con la Body Skull de esta guía. La contra real: no es plegable, así que ocupa espacio fijo, y solo tiene 8 niveles de intensidad, menos que la Randers.",
+    pros: [
+      "La nota más alta de esta comparativa: {{rating:MLA53156142}} sobre {{reviews:MLA53156142}} opiniones",
+      "Mecanismo de resistencia magnético declarado en la ficha técnica, no \"regulable\" genérico",
+      "150 kg de capacidad, la más alta junto con la Body Skull de esta comparativa",
+      "Estructura de hierro, con ruedas para mover el equipo armado",
+    ],
+    cons: [
+      "No es plegable: a diferencia de las otras tres de esta comparativa, ocupa espacio fijo de forma permanente",
+      "Solo 8 niveles de intensidad, la mitad que la Randers de esta comparativa (16)",
+      "Un comprador pidió más niveles de fuerza para entrenamiento avanzado",
+      "Es la segunda más cara de esta comparativa, bastante por encima de la Gadnic y la Randers",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", text: "Cumple muy bien las exigencia que le doy. Para entrenamiento nivel medio anda perfecto. Sin ruido al deslizarce. Le faltaría un poco más de peso. Tiene hasta el nivel 8 de fuerza. Tendría que tener hasta un 10 o 12 por lo menos. Pero 30 min anda bien." },
+    ],
+    articleBody: `## Qué es el simulador de remo G-Fitness TJ-2201
+
+Es un simulador de remo de resistencia magnética, el mejor calificado de [nuestra comparativa de máquinas de remo en Argentina](/guias/fitness/maquina-de-remo). Cuesta {{precio:MLA53156142}} y tiene {{reviews:MLA53156142}} calificaciones con {{rating:MLA53156142}} estrellas.
+
+## Magnético declarado, y la mayor capacidad de peso junto con la Body Skull
+
+A diferencia de la Gadnic de esta comparativa, la ficha técnica confirma el mecanismo (magnético, con inercia de 2 kg) y el peso máximo soportado (150 kg, empatado con la Body Skull como el más alto del grupo). Tiene estructura de hierro y ruedas para moverlo una vez armado.
+
+## La nota más alta, con una contra real: no es plegable
+
+Con {{rating:MLA53156142}} sobre {{reviews:MLA53156142}} opiniones, es la mejor calificada de esta guía. Un comprador la resume así: "cumple muy bien las exigencias que le doy, para entrenamiento nivel medio anda perfecto, sin ruido al deslizarse". El mismo comprador pide más niveles de fuerza: el equipo tiene 8, la mitad que la Randers de esta comparativa (16). Además, a diferencia de las otras tres, no es plegable: ocupa espacio fijo.
+
+## Para quién es, y para quién no
+
+Es para vos si priorizás una estructura firme con mecanismo y capacidad de peso confirmados por escrito. No es para vos si necesitás guardarlo entre usos: para eso, la Gadnic, la Randers o la Body Skull de esta comparativa se pliegan.
+
+## El veredicto
+
+Es el simulador de remo mejor calificado de esta comparativa, con mecanismo magnético y capacidad declarados. La contra real: no es plegable y tiene menos niveles de intensidad que la Randers.`,
+    faq: [
+      { question: "¿Por qué tiene la nota más alta de la comparativa?", answer: "Tiene {{rating:MLA53156142}} de promedio sobre {{reviews:MLA53156142}} opiniones, la calificación más alta entre las cuatro máquinas de esta guía." },
+      { question: "¿Qué tipo de resistencia tiene?", answer: "Magnética, con inercia de 2 kg, declarada en la ficha técnica." },
+      { question: "¿Es plegable?", answer: "No. A diferencia de las otras tres de esta comparativa, ocupa espacio fijo de forma permanente." },
+      { question: "¿Cuánto peso soporta?", answer: "150 kg, la capacidad más alta de esta comparativa junto con la Body Skull." },
+      { question: "¿Cuántos niveles de intensidad tiene?", answer: "8. La Randers de esta comparativa tiene 16, el doble." },
+    ],
+};
+
+// La de más niveles de intensidad y mayor base de reseñas de la comparativa de máquina de remo.
+const remoRandersArg903: Product = {
+    id: "MLA42102298",
+    title: "Simulador de Remo Randers ARG-903 — Magnético, Plegable, 16 Niveles",
+    canonicalName: "Randers ARG-903",
+    brand: "Randers",
+    mpn: "ARG-903-X",
+    price: 552899,
+    originalPrice: 993906,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_684955-MLA95520794754_102025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_684955-MLA95520794754_102025-O.webp",
+    ],
+    category: "Fitness",
+    categorySlug: "fitness",
+    permalink: "https://www.mercadolibre.com.ar/simulador-de-remo-randers-magnetico-plegable-asiento-ergonomico-arg-903/p/MLA42102298",
+    affiliateUrl: "https://meli.la/2pGc9jp",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 118,
+    pastelColor: "var(--pastel-slate)",
+    specs: [
+      { label: "Marca", value: "Randers" },
+      { label: "Modelo", value: "ARG-903-X (el título de la publicación dice ARG-903)" },
+      { label: "Material", value: "Acero" },
+      { label: "Mecanismo de resistencia", value: "Magnético" },
+      { label: "Niveles de intensidad", value: "16" },
+      { label: "Peso máximo soportado", value: "120 kg" },
+      { label: "Con pantalla", value: "Sí" },
+      { label: "Con ruedas", value: "Sí" },
+      { label: "Es plegable", value: "Sí" },
+      { label: "Dimensiones", value: "1,01 m x 22 cm x 60 cm (plegado)" },
+      { label: "Color", value: "Negro" },
+    ],
+    relatedProducts: ["MLA67718289", "MLA53156142", "MLA44417409"],
+    priceUpdated: "2026-11-06", priceLastChecked: "2026-11-06", priceVerifiedAt: "2026-11-06",
+    priceStatus: "fresh", reviewsSampledAt: "2026-11-06",
+    description: "Simulador de remo magnético y plegable, con 16 niveles de intensidad, el doble que el resto de esta comparativa. Tiene {{reviews:MLA42102298}} calificaciones con {{rating:MLA42102298}} de promedio.",
+    seoTitle: "Simulador de Remo Randers ARG-903: plegable, 16 niveles de intensidad",
+    metaDescription: "Simulador de remo Randers ARG-903, magnético y plegable, 16 niveles de intensidad. {{reviews:MLA42102298}} opiniones y {{rating:MLA42102298}} estrellas.",
+    verdict: "Es el simulador de remo con **más niveles de intensidad y la base de reseñas más grande de esta comparativa**, con {{rating:MLA42102298}} sobre {{reviews:MLA42102298}} opiniones. Magnético, plegable, con 16 niveles de ajuste (el doble que la G-Fitness). La aclaración honesta: soporta 120 kg, la menor capacidad declarada de esta comparativa, y un comprador avisa que el armado lleva tiempo.",
+    pros: [
+      "16 niveles de intensidad, el doble que la G-Fitness de esta comparativa",
+      "La base de reseñas más grande de esta guía ({{reviews:MLA42102298}} calificaciones)",
+      "Es plegable, pensado para guardar en espacios chicos",
+      "Tienda oficial con más de 50 mil ventas",
+    ],
+    cons: [
+      "Soporta 120 kg, la menor capacidad declarada de esta comparativa (la G-Fitness y la Body Skull llegan a 150 kg; la Gadnic no declara este dato)",
+      "Un comprador avisa que el armado \"asusta\" al principio y conviene hacerlo con tiempo y paciencia",
+      "El modelo en la ficha técnica dice ARG-903-X, mientras el título de la publicación dice ARG-903: una diferencia menor, no estructural",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", text: "Muy satisfecho con este aparato, asusta al tener que armarlo pero guiándose con el manual no hay ningún problema. Hacerlo con tiempo eso sí, yo con paciencia pude y con gardel de fondo..." },
+    ],
+    articleBody: `## Qué es el simulador de remo Randers ARG-903
+
+Es un simulador de remo magnético y plegable, el de más niveles de intensidad de [nuestra comparativa de máquinas de remo en Argentina](/guias/fitness/maquina-de-remo). Cuesta {{precio:MLA42102298}} y tiene {{reviews:MLA42102298}} calificaciones con {{rating:MLA42102298}} estrellas.
+
+## 16 niveles de intensidad, el doble que la G-Fitness
+
+Con mecanismo magnético y 16 niveles de ajuste (el doble que la G-Fitness TJ-2201 de esta comparativa), es la opción con más margen para subir la exigencia a medida que mejora el entrenamiento. También es plegable, pensada para espacios chicos.
+
+## La base de reseñas más grande de la comparativa
+
+Con {{rating:MLA42102298}} sobre {{reviews:MLA42102298}} opiniones, tiene el respaldo de compradores más amplio de esta guía, vendida por una tienda oficial con más de 50 mil ventas.
+
+## La contra: la menor capacidad declarada del grupo
+
+Esta es la advertencia honesta antes de comprar. Soporta 120 kg, por debajo de la G-Fitness y la Body Skull de esta comparativa, que llegan a 150 kg (la Gadnic no declara este dato). Un comprador también avisa sobre el armado: "asusta al tener que armarlo, pero guiándose con el manual no hay ningún problema, hacerlo con tiempo eso sí".
+
+## Para quién es, y para quién no
+
+Es para vos si buscás margen para progresar en intensidad y no superás los 120 kg. Si necesitás más capacidad de peso, la G-Fitness TJ-2201 o la Body Skull de esta comparativa llegan a 150 kg.
+
+## El veredicto
+
+Es el simulador de remo con más niveles de intensidad y la base de reseñas más grande de esta comparativa, plegable y magnético. La contra real: la menor capacidad declarada del grupo.`,
+    faq: [
+      { question: "¿Cuántos niveles de intensidad tiene?", answer: "16, el doble que la G-Fitness TJ-2201 de esta comparativa." },
+      { question: "¿Cuánto peso soporta?", answer: "120 kg, la menor capacidad declarada de esta comparativa (la Gadnic no declara este dato). Si necesitás más, la G-Fitness o la Body Skull llegan a 150 kg." },
+      { question: "¿Es plegable?", answer: "Sí, pensada para guardar en espacios chicos." },
+      { question: "¿Es difícil de armar?", answer: "Según un comprador, el armado impresiona al principio pero se resuelve bien siguiendo el manual, con tiempo y paciencia." },
+      { question: "¿Por qué el modelo dice ARG-903-X y no ARG-903?", answer: "El título de la publicación usa ARG-903, mientras la ficha técnica declara ARG-903-X. Es la misma máquina, solo cambia el sufijo del modelo." },
+    ],
+};
+
+// La premium y distinta (resistencia por agua, madera) de la comparativa de máquina de remo.
+const remoBodySkullWater: Product = {
+    id: "MLA44417409",
+    title: "Simulador de Remo con Agua Body Skull — Madera, Soporta 150 kg",
+    canonicalName: "Body Skull Water Rower",
+    brand: "Body Skull",
+    mpn: "Wood",
+    price: 872999,
+    originalPrice: 1249040,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_607158-MLA119930774609_102026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_607158-MLA119930774609_102026-O.webp",
+    ],
+    category: "Fitness",
+    categorySlug: "fitness",
+    permalink: "https://www.mercadolibre.com.ar/simulador-de-remo-con-agua-body-skull-de-madera-water-rower-machine-usuario-150-kg-desagote-facil-con-accesorio-incluido-marron/p/MLA44417409",
+    affiliateUrl: "https://meli.la/2AxK7qm",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 19,
+    pastelColor: "var(--pastel-violet)",
+    specs: [
+      { label: "Marca", value: "Body Skull" },
+      { label: "Modelo", value: "Wood" },
+      { label: "Material", value: "Madera" },
+      { label: "Mecanismo de resistencia", value: "Agua (resistencia progresiva natural, sin niveles fijos)" },
+      { label: "Peso máximo soportado", value: "150 kg" },
+      { label: "Con pantalla", value: "Sí" },
+      { label: "Con ruedas", value: "Sí" },
+      { label: "Es plegable", value: "Sí" },
+      { label: "Dimensiones", value: "1,82 m x 48 cm x 48 cm" },
+      { label: "Color", value: "Marrón oscuro" },
+    ],
+    relatedProducts: ["MLA67718289", "MLA53156142", "MLA42102298"],
+    priceUpdated: "2026-11-06", priceLastChecked: "2026-11-06", priceVerifiedAt: "2026-11-06",
+    priceStatus: "fresh", reviewsSampledAt: "2026-11-06",
+    description: "Simulador de remo con agua, estructura de madera, la opción premium de esta comparativa. Tiene {{reviews:MLA44417409}} calificaciones con {{rating:MLA44417409}} de promedio.",
+    seoTitle: "Simulador de Remo con Agua Body Skull: madera, la opción premium",
+    metaDescription: "Simulador de remo con agua Body Skull, de madera, soporta 150 kg. {{reviews:MLA44417409}} opiniones y {{rating:MLA44417409}} estrellas, la opción premium de esta comparativa.",
+    verdict: "Es la opción **premium y distinta de esta comparativa**: resistencia por agua (no magnética ni mecánica), estructura de madera y 150 kg de capacidad, empatada con la G-Fitness como la más alta del grupo. Tiene {{rating:MLA44417409}} sobre {{reviews:MLA44417409}} opiniones. La aclaración honesta: es la más cara de las cuatro y tiene la base de reseñas más chica de esta comparativa.",
+    pros: [
+      "Resistencia por agua: progresiva y natural, el tipo de mecanismo más parecido al remo real, distinto a las otras tres (magnéticas o sin declarar)",
+      "Estructura de madera, con una terminación más cercana a equipo de gimnasio que las otras tres",
+      "150 kg de capacidad, empatada con la G-Fitness como la más alta de esta comparativa",
+      "Es plegable pese a ser de madera",
+    ],
+    cons: [
+      "Es la más cara de esta comparativa, bastante por encima de las otras tres",
+      "Tiene la base de reseñas más chica de esta comparativa (19)",
+      "La resistencia por agua implica llenar el tanque y, para guardarla, desagotarlo, un paso extra que las magnéticas no tienen",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", text: "Excelente equipo de remo. La calidad de fabricación es muy buena." },
+      { rating: 5, country: "Argentina", text: "Me encanta. Es todo lo que está bien para los que no tenemos tiempo de ir al gimnasio. No es una compra. Es una inversión." },
+    ],
+    articleBody: `## Qué es el simulador de remo con agua Body Skull
+
+Es un simulador de remo con resistencia por agua y estructura de madera, la opción premium de [nuestra comparativa de máquinas de remo en Argentina](/guias/fitness/maquina-de-remo). Cuesta {{precio:MLA44417409}} y tiene {{reviews:MLA44417409}} calificaciones con {{rating:MLA44417409}} estrellas.
+
+## Resistencia por agua: la más parecida al remo real
+
+A diferencia de las otras tres de esta comparativa (magnéticas o sin mecanismo declarado), este modelo usa resistencia por agua: el esfuerzo escala de forma natural y progresiva con la fuerza del remado, el mecanismo más cercano a una máquina de remo de gimnasio o al remo real sobre el agua. La estructura de madera acompaña esa idea, con una terminación distinta a las otras tres.
+
+## 150 kg de capacidad, y plegable pese al material
+
+Soporta hasta 150 kg, empatada con la G-Fitness TJ-2201 como la capacidad más alta de esta comparativa, y pese a ser de madera, se pliega para guardar. Una compradora la resume así: "no es una compra, es una inversión".
+
+## La contra: la más cara, y la base de reseñas más chica
+
+Esta es la advertencia honesta antes de comprar. Es la más cara de esta comparativa por buen margen, y tiene la base de reseñas más chica del grupo (19). La resistencia por agua también implica un paso extra que las magnéticas no tienen: llenar el tanque antes de usarla y desagotarlo si hace falta moverla o guardarla.
+
+## Para quién es, y para quién no
+
+Es para vos si buscás la sensación más parecida al remo real y no te importa pagar más por eso. No es para vos si buscás la opción más probada por volumen de compradores: para eso, la Randers de esta comparativa tiene {{reviews:MLA42102298}} opiniones.
+
+## El veredicto
+
+Es la máquina de remo premium y distinta de esta comparativa, con resistencia por agua y estructura de madera. La contra real: es la más cara del grupo y la que menos reseñas acumula todavía.`,
+    faq: [
+      { question: "¿Qué tipo de resistencia usa?", answer: "Agua. A diferencia de las otras tres de esta comparativa (magnéticas o sin mecanismo declarado), la resistencia escala de forma natural con la fuerza del remado, sin niveles fijos para ajustar." },
+      { question: "¿Es de madera real?", answer: "Sí, la ficha técnica declara madera como material principal." },
+      { question: "¿Cuánto peso soporta?", answer: "150 kg, empatada con la G-Fitness TJ-2201 como la capacidad más alta de esta comparativa." },
+      { question: "¿Es plegable?", answer: "Sí, pese a ser de madera." },
+      { question: "¿Por qué es la más cara de la comparativa?", answer: "Por el tipo de resistencia (agua, más compleja de fabricar que la magnética) y la estructura de madera, con una terminación más cercana a equipo de gimnasio." },
+      { question: "¿Hay que llenarla de agua?", answer: "Sí, el tanque se llena para generar la resistencia, y se puede desagotar fácil si hace falta mover o guardar el equipo." },
+    ],
+};
+
 export const curatedProducts: Product[] = [
   // ─── Insta360: los modelos verificados con stock nacional (ago 2026). Silo tech ───
   // Specs verificadas contra insta360.com, store.insta360.com y el manual online oficial.
@@ -60296,7 +61304,7 @@ Una reseña real avisa: "cuando la usen apóyenla lo más suave posible en el pi
       { question: '¿Se puede romper?', answer: 'Según una reseña real, la base de PVC puede rajarse si se apoya con fuerza o se tira al piso. Conviene bajarla con cuidado después de cada serie.' },
       { question: '¿Es de hierro fundido?', answer: 'No, es de PVC relleno. Si buscás hierro fundido para uso más intensivo, en esta misma comparativa está la G-Fitness.' },
     ],
-    relatedProducts: ['MLA41456133', 'MLAU264994773', 'MLA75506336'],
+    relatedProducts: ['MLA41456133', 'MLA44439259', 'MLA75506336'],
     structuredData: {
       '@context': 'https://schema.org',
       '@type': 'Product',
@@ -60393,7 +61401,7 @@ Un comprador la describe con detalle: "es de muy buena manufactura [...] está m
       { question: '¿Sirve para principiantes?', answer: 'No es la primera opción: al ser de 28 kg fijos, está pensada para quien ya entrena con cargas altas. Para empezar, conviene una opción más liviana de esta misma comparativa.' },
       { question: '¿Tiene recubrimiento de goma?', answer: 'No, es hierro fundido sin recubrimiento. A diferencia de las PVC de esta comparativa, golpea más fuerte contra el piso.' },
     ],
-    relatedProducts: ['MLA36796031', 'MLAU264994773', 'MLA75506336'],
+    relatedProducts: ['MLA36796031', 'MLA44439259', 'MLA75506336'],
     structuredData: {
       '@context': 'https://schema.org',
       '@type': 'Product',
@@ -60431,8 +61439,8 @@ Un comprador la describe con detalle: "es de muy buena manufactura [...] está m
     mpn: 'Pesa Rusa',
     price: 31000,
     priceUpdated: "2026-10-21",
-    priceLastChecked: "2026-10-21",
-    priceStatus: "fresh",
+    priceLastChecked: "2026-11-06",
+    priceStatus: "out_of_stock",
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_914783-MLA116735667428_092026-O.webp',
     images: [
@@ -60450,7 +61458,12 @@ Un comprador la describe con detalle: "es de muy buena manufactura [...] está m
     reviewCount: 31,
     reviewsSampledAt: '2026-10-21',
     pastelColor: 'var(--pastel-blue)',
-    visibility: 'normal',
+    // DEPRIORIZADO 2026-11-06: sin stock en vivo, "Este producto no está disponible. Elige otra
+    // variante." Se buscó Vera 16kg en ML (regla de swap de vendedor primero,
+    // docs/productos-sin-stock.md) y la marca solo tiene kits de 6kg/8kg disponibles hoy, no el
+    // 16kg standalone. Reemplazado en la guía pesa-rusa por MLA44439259 (FM-Todo Pesas 16kg,
+    // hierro fundido). No se borra la ficha por si reaparece stock.
+    visibility: 'deprioritized',
     description: 'Pesa rusa de 16 kg en PVC, de Vera, marca con tienda oficial en MercadoLibre. {{rating:MLAU264994773}} estrellas en {{reviews:MLAU264994773}} calificaciones: la marca reconocida de esta comparativa.',
     seoTitle: 'Pesa Rusa Vera 16kg: la marca reconocida',
     metaDescription: 'Pesa rusa Vera 16kg PVC, de tienda oficial en MercadoLibre. {{rating:MLAU264994773}}★ en {{reviews:MLAU264994773}} calificaciones por {{precio:MLAU264994773}}.',
@@ -60518,6 +61531,7 @@ Los 16 kg la ubican como un paso lógico después de la Sport Maniac de 10 kg, p
     },
   },
 
+  kettlebellFmTodoPesas16kg,
   {
     id: 'MLA75506336',
     title: 'Pesa Rusa Kettlebell Recargable Accesorio Mango Alpina AKE-09',
@@ -60587,7 +61601,7 @@ No incluye discos: el producto es solo el mango con el sistema de cierre. Tiene 
       { question: '¿Para quién tiene sentido comprarla?', answer: 'Para quien ya tiene discos de entrenamiento (de una barra o mancuernas ajustables) y quiere aprovecharlos también en formato kettlebell, sin comprar varias pesas rusas de peso fijo.' },
       { question: '¿Se siente igual que una pesa rusa tradicional?', answer: 'Es similar, pero el peso queda distribuido de forma distinta al estar armado con discos apilados en vez de ser una sola pieza fundida o rellena.' },
     ],
-    relatedProducts: ['MLA36796031', 'MLA41456133', 'MLAU264994773'],
+    relatedProducts: ['MLA36796031', 'MLA41456133', 'MLA44439259'],
     structuredData: {
       '@context': 'https://schema.org',
       '@type': 'Product',
@@ -104394,7 +105408,7 @@ Para quien prioriza una marca internacional reconocida y no le importa pagar bas
       { label: "Unidades por pack", value: "2 mancuernas + barra + discos" },
       { label: "Envío", value: "Gratis" },
     ],
-    relatedProducts: ["MLA44965610", "MLA35253570", "MLA43766711"],
+    relatedProducts: ["MLA44965610", "MLA35253570", "MLA26893967"],
     priceUpdated: "2026-11-04", priceLastChecked: "2026-09-09", priceVerifiedAt: "2026-09-09",
     priceStatus: "fresh", reviewsSampledAt: "2026-09-09",
     description: "Kit de 25 kg en discos con barra conversora a rosca: armá dos mancuernas independientes o una barra completa. Es el más elegido de esta comparativa con {{reviews:MLA35569367}} opiniones y {{rating:MLA35569367}} de promedio.",
@@ -104491,7 +105505,7 @@ Es el kit con más respaldo de esta comparativa por lejos, y su combo de mancuer
       { label: "Unidades por pack", value: "2" },
       { label: "Vendedor", value: "Tienda oficial de MercadoLibre, MercadoLíder Platinum" },
     ],
-    relatedProducts: ["MLA35569367", "MLA35253570", "MLA43766711"],
+    relatedProducts: ["MLA35569367", "MLA35253570", "MLA26893967"],
     priceUpdated: "2026-11-04", priceLastChecked: "2026-09-09", priceVerifiedAt: "2026-09-09",
     priceStatus: "fresh", reviewsSampledAt: "2026-09-09",
     description: "Kit ajustable de 20 kg con discos y barra, vendido por la tienda oficial de BS Fit en MercadoLibre. Tiene {{reviews:MLA44965610}} calificaciones con {{rating:MLA44965610}} de promedio.",
@@ -104548,6 +105562,7 @@ Es un kit ajustable con buen respaldo de reseñas y el plus de venir de la tiend
       { question: "¿De qué material son los discos?", answer: "PVC con interior de concreto, según la ficha técnica y la descripción del vendedor." },
     ],
   },
+  mancuernaGFitness10kg,
   {
     id: "MLA43766711",
     title: "Mancuerna Hexagonal High Performance 10 kg — Engomada, Precio por Unidad",
@@ -104568,6 +105583,13 @@ Es un kit ajustable con buen respaldo de reseñas y el plus de venir de la tiend
     freeShipping: true,
     rating: 4.9,
     reviewCount: 1837,
+    // DEPRIORIZADO 2026-11-06: sin stock en vivo, "Este producto no está disponible. Elige otra
+    // variante." Se buscó "High Performance" mancuerna hexagonal en ML (regla de swap de vendedor
+    // primero, docs/productos-sin-stock.md) y no aparece ningún vendedor con el modelo exacto.
+    // Reemplazado en la guía mancuernas por MLA26893967 (G-Fitness 10 kg). No se borra la ficha
+    // por si reaparece stock.
+    visibility: "deprioritized",
+    priceStatus: "out_of_stock",
     pastelColor: "var(--pastel-purple)",
     specs: [
       { label: "Marca", value: "High Performance" },
@@ -104585,8 +105607,8 @@ Es un kit ajustable con buen respaldo de reseñas y el plus de venir de la tiend
       { label: "Origen", value: "Importado, según declara el vendedor" },
     ],
     relatedProducts: ["MLA35569367", "MLA44965610", "MLA35253570"],
-    priceUpdated: "2026-09-14", priceLastChecked: "2026-09-09", priceVerifiedAt: "2026-09-09",
-    priceStatus: "fresh", reviewsSampledAt: "2026-09-09",
+    priceUpdated: "2026-09-14", priceLastChecked: "2026-11-06", priceVerifiedAt: "2026-09-09",
+    reviewsSampledAt: "2026-09-09",
     description: "Mancuerna hexagonal fija de 10 kg, engomada, vendida por unidad. Tiene {{reviews:MLA43766711}} calificaciones con {{rating:MLA43766711}} de promedio, la nota más alta de esta comparativa.",
     seoTitle: "Mancuerna Hexagonal High Performance 10 kg: {{rating:MLA43766711}} de nota",
     metaDescription: "Mancuerna hexagonal engomada de 10 kg, {{reviews:MLA43766711}} opiniones y {{rating:MLA43766711}} estrellas, la nota más alta de esta comparativa. Se vende por unidad, no por par.",
@@ -104679,7 +105701,7 @@ Es la mancuerna mejor calificada de esta comparativa, con forma hexagonal que no
       { label: "Color", value: "Negro (también disponible en rosa)" },
       { label: "Relleno", value: "Granalla metálica y cemento, sellado herméticamente" },
     ],
-    relatedProducts: ["MLA35569367", "MLA44965610", "MLA43766711"],
+    relatedProducts: ["MLA35569367", "MLA44965610", "MLA26893967"],
     priceUpdated: "2026-11-04", priceLastChecked: "2026-09-09", priceVerifiedAt: "2026-09-09",
     priceStatus: "fresh", reviewsSampledAt: "2026-09-09",
     description: "Par de mancuernas fijas de 2 kg cada una, recubiertas en PVC. Es la más barata de esta comparativa, con {{reviews:MLA35253570}} calificaciones y {{rating:MLA35253570}} de promedio.",
@@ -104718,7 +105740,7 @@ Esta es la advertencia honesta antes de comprar. Un comprador de 4 estrellas lo 
 
 ## La más barata de la comparativa
 
-Frente a los otros tres productos de esta guía, todos entre {{precio:MLA43766711:k}} y {{precio:MLA35569367:k}}, este par sale bastante menos. Es la puerta de entrada obvia si nunca entrenaste con pesas o si buscás algo liviano para sumar a rutinas de cardio.
+Frente a los otros tres productos de esta guía, todos entre {{precio:MLA44965610:k}} y {{precio:MLA26893967:k}}, este par sale bastante menos. Es la puerta de entrada obvia si nunca entrenaste con pesas o si buscás algo liviano para sumar a rutinas de cardio.
 
 ## Para quién es, y para quién no
 
@@ -104779,7 +105801,7 @@ Es la opción más barata de esta comparativa y una buena puerta de entrada al e
       { label: "Es plegable", value: "No" },
       { label: "Medidas (largo x ancho)", value: "1,05 m x 45 cm" },
     ],
-    relatedProducts: ["MLA62445462", "MLA45267058", "MLA53273514"],
+    relatedProducts: ["MLA21651867", "MLA45267058", "MLA53273514"],
     priceUpdated: "2026-11-04", priceLastChecked: "2026-09-09", priceVerifiedAt: "2026-09-09",
     priceStatus: "fresh", reviewsSampledAt: "2026-09-09",
     description: "Bicicleta de spinning reforzada, 120 kg de peso soportado y volante de 6 kg, con Bluetooth. Es la mejor calificada de esta comparativa: {{reviews:MLA67137053}} opiniones con {{rating:MLA67137053}} de promedio.",
@@ -104829,13 +105851,22 @@ Es para vos si buscás la bicicleta mejor calificada de esta comparativa y valor
 Es la bicicleta mejor calificada de esta comparativa, reforzada a 120 kg y con el volante más pesado del grupo. La contra real: el manubrio y el asiento se mueven un poco en la posición más alta, aunque se resuelve bajando el manubrio un escalón.`,
     faq: [
       { question: "¿Por qué es la mejor calificada de la comparativa?", answer: "Tiene {{rating:MLA67137053}} de promedio sobre {{reviews:MLA67137053}} opiniones, la nota más alta entre las cuatro bicicletas de esta guía." },
-      { question: "¿Cuánto peso soporta?", answer: "120 kg, un buen número para su categoría (aunque si necesitás más, la LEVELFIT de esta comparativa soporta 150 kg)." },
+      { question: "¿Cuánto peso soporta?", answer: "120 kg, un buen número para su categoría (aunque si necesitás más, la Energy Fit de esta comparativa soporta 300 kg)." },
       { question: "¿Tiene Bluetooth?", answer: "Sí, se puede conectar con apps de entrenamiento." },
       { question: "¿El manubrio se mueve?", answer: "Un comprador reporta que en la posición más alta se mueve un poco, pero se resuelve bajándolo un escalón, y aclara que el asiento apenas se mueve y no molesta." },
       { question: "¿Qué tan pesado es el volante de inercia?", answer: "6 kg, el más pesado de esta comparativa, lo que da un pedaleo más fluido." },
       { question: "¿Es ruidosa?", answer: "No se reporta ruido en las reseñas verificadas; usa transmisión por correa, que es más silenciosa que una de cadena." },
     ],
   },
+  bicicletaEnergyFit8Niveles,
+  elipticaJbhEquipAb11,
+  elipticaRanbak300,
+  elipticaRandersArg1931,
+  elipticaWorldFitness92503,
+  remoGadnicForce,
+  remoGFitnessTj2201,
+  remoRandersArg903,
+  remoBodySkullWater,
   {
     id: "MLA62445462",
     title: "Bicicleta Fija Spinning LEVELFIT Levspi200 — Reforzada 150 kg, Volante 4 kg",
@@ -104857,6 +105888,14 @@ Es la bicicleta mejor calificada de esta comparativa, reforzada a 120 kg y con e
     freeShipping: true,
     rating: 4.6,
     reviewCount: 99,
+    // DEPRIORIZADO 2026-11-06: sin stock en vivo, "Este producto no está disponible. Elige otra
+    // variante." Se buscó el modelo exacto Levspi200 en ML (regla de swap de vendedor primero,
+    // docs/productos-sin-stock.md) y ya no aparece en ningún vendedor — la línea LEVELFIT actual
+    // es Levmag200/Levspi300/Levspi400, modelos distintos, no sucesores declarados. Reemplazado en
+    // la guía bicicleta-fija por MLA21651867 (Energy Fit Gym 8 Niveles). No se borra la ficha por
+    // si reaparece stock del modelo exacto.
+    visibility: "deprioritized",
+    priceStatus: "out_of_stock",
     pastelColor: "var(--pastel-blue)",
     specs: [
       { label: "Marca", value: "Pontec SA (Levelfit)" },
@@ -104878,8 +105917,8 @@ Es la bicicleta mejor calificada de esta comparativa, reforzada a 120 kg y con e
       { label: "Medidas (largo x ancho x alto)", value: "93 cm x 45 cm x 1 m" },
     ],
     relatedProducts: ["MLA67137053", "MLA45267058", "MLA53273514"],
-    priceUpdated: "2026-10-12", priceLastChecked: "2026-09-09", priceVerifiedAt: "2026-09-09",
-    priceStatus: "fresh", reviewsSampledAt: "2026-09-09",
+    priceUpdated: "2026-10-12", priceLastChecked: "2026-11-06", priceVerifiedAt: "2026-09-09",
+    reviewsSampledAt: "2026-09-09",
     description: "Bicicleta de spinning reforzada a 150 kg, el peso máximo más alto de esta comparativa. Tiene {{reviews:MLA62445462}} calificaciones con {{rating:MLA62445462}} de promedio.",
     seoTitle: "Bicicleta Fija LEVELFIT Levspi200: soporta 150 kg, la más reforzada",
     metaDescription: "Bicicleta fija spinning LEVELFIT Levspi200, reforzada a 150 kg. {{reviews:MLA62445462}} opiniones y {{rating:MLA62445462}} estrellas. El asiento tiene poco recorrido hacia arriba, según varios compradores.",
@@ -104975,7 +106014,7 @@ Es la bicicleta que más peso soporta de esta comparativa (150 kg) y la más bar
       { label: "Peso de la bicicleta", value: "24 kg" },
       { label: "Medidas (largo x ancho x alto)", value: "1,19 m x 51 cm x 98 cm" },
     ],
-    relatedProducts: ["MLA67137053", "MLA62445462", "MLA53273514"],
+    relatedProducts: ["MLA67137053", "MLA21651867", "MLA53273514"],
     priceUpdated: "2026-11-04", priceLastChecked: "2026-09-09", priceVerifiedAt: "2026-09-09",
     priceStatus: "fresh", reviewsSampledAt: "2026-09-09",
     description: "Bicicleta fija reclinada (recumbent), con respaldo y asiento tipo butaca, la única de este tipo en la comparativa. Tiene {{reviews:MLA45267058}} calificaciones con {{rating:MLA45267058}} de promedio.",
@@ -105069,7 +106108,7 @@ Es la única bicicleta reclinada de esta comparativa, con asiento tipo butaca mu
       { label: "Voltaje de la pantalla", value: "1,5V (a pila)" },
       { label: "Requiere ensamblado", value: "Sí" },
     ],
-    relatedProducts: ["MLA67137053", "MLA62445462", "MLA45267058"],
+    relatedProducts: ["MLA67137053", "MLA21651867", "MLA45267058"],
     priceUpdated: "2026-11-04", priceLastChecked: "2026-09-09", priceVerifiedAt: "2026-09-09",
     priceStatus: "fresh", reviewsSampledAt: "2026-09-09",
     description: "Bicicleta fija vertical magnética para uso hogareño, la más barata de esta comparativa. Tiene {{reviews:MLA53273514}} calificaciones con {{rating:MLA53273514}} de promedio.",
