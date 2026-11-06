@@ -27,6 +27,18 @@ const SEGUIR_BANNER_AUTO_HIDE_MS = 6000;
 const SEGUIR_GATE_DELAY_MS = 1400;
 // md:hidden es el breakpoint que ya usa StickyMobileCta.tsx para "esto es mobile".
 const MOBILE_BREAKPOINT = 768;
+// Pedido de Juan, 2026-11-06, tras probar el gate en vivo: "no queda como
+// quiero... que no le aparezca eso a la gente". Y después extendió la misma
+// observación al banner pasivo de desktop: con target="_blank", la atención
+// de la persona se va a la pestaña nueva de MercadoLibre, no vuelve a la que
+// quedó atrás — "no tiene ningún sentido que quede así" en NINGUNO de los
+// dos formatos, no solo en mobile. Los dos quedan apagados acá mientras se
+// busca otro enfoque de fondo (no es un ajuste de copy o de timing, es la
+// premisa completa de "mostrar algo en la pestaña que queda atrás"). Los
+// componentes (SeguirMlGate.tsx, SeguirMlBanner.tsx) quedan armados para
+// retomarlos — prender esto es el único cambio necesario para el momento en
+// que se encuentre un enfoque que sí tenga sentido.
+const SEGUIR_FEATURE_ENABLED = false;
 
 function seguirShownRecently(): boolean {
   try {
@@ -137,6 +149,8 @@ export function AffiliateTracker() {
       // El newsletter ya ocupa el mismo rincón de pantalla (o, en mobile, el
       // mismo momento de atención). Si está abierto, no competimos: no se
       // muestra esta vez y no se gasta el cupo semanal.
+      if (!SEGUIR_FEATURE_ENABLED) return;
+
       const newsletterShowing = document.querySelector(".newsletter-popup");
       if (newsletterShowing || seguirShownRecently()) return;
 
