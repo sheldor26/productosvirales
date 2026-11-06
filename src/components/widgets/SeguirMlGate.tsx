@@ -12,6 +12,15 @@
  * botón hacen lo mismo que dejar correr el tiempo — todas las salidas llevan
  * a MercadoLibre, ninguna la aborta (ver AffiliateTracker.tsx, que maneja el
  * timer real y abre el link).
+ *
+ * Copy (2026-11-06, pedido de Juan): la primera versión decía "Cuando abra
+ * Mercado Libre, tocá Seguir" — una orden, sin ningún motivo para querer
+ * hacerlo. Reescrito como pregunta + reciprocidad: la persona ACABA de
+ * encontrar un precio que le gustó (por eso está por comprar), así que en
+ * vez de instruir la acción se la encuadra como algo que la persona elige a
+ * cambio de lo que ya recibió, no como un paso obligatorio más. El fondo
+ * (bg-black/8) es apenas perceptible a propósito, para que la tarjeta se
+ * sienta como una invitación y no como un modal que bloquea la pantalla.
  */
 export function SeguirMlGate({
   show,
@@ -24,7 +33,7 @@ export function SeguirMlGate({
 }) {
   return (
     <div
-      className={`fixed inset-0 z-50 flex items-center justify-center bg-black/15 px-4 transition-opacity duration-150 print:hidden ${
+      className={`fixed inset-0 z-50 flex items-center justify-center bg-black/8 px-4 transition-opacity duration-150 print:hidden ${
         show ? "opacity-100" : "opacity-0 invisible pointer-events-none"
       }`}
       onClick={onProceed}
@@ -54,10 +63,10 @@ export function SeguirMlGate({
           className="mb-1 text-center text-[15px] font-extrabold leading-tight text-[var(--text-primary)]"
           style={{ fontFamily: "var(--font-display)" }}
         >
-          Cuando abra Mercado Libre, tocá Seguir
+          ¿Te gustó este precio?
         </p>
         <p className="mb-3.5 text-center text-[13px] leading-tight text-[var(--text-secondary)]">
-          Para ver nuestros próximos cupones
+          Seguinos en Mercado Libre y enterate de los próximos
         </p>
         <button
           type="button"

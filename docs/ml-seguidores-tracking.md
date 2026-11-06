@@ -33,6 +33,7 @@ apuntado a esa página — no está hecho todavía.
 | Fecha | Seguidores | Nota |
 |---|---|---|
 | 2026-11-06 | +30 | Baseline, ANTES de activar el banner en producción (deploy el mismo día) |
+| 2026-11-06 | +40 | Mismo día, horas después. OJO: el gate de mobile recién quedó andando de verdad al final del día (bug de clave de cupo vieja, ver commit `d8dab0a`) — hasta ese fix nunca se había mostrado a un usuario real. Este salto probablemente NO es efecto del aviso todavía; puede ser crecimiento orgánico o algún click de prueba durante la sesión. Tratar como un segundo punto de referencia, no como la primera medición post-lanzamiento real. |
 
 ## Qué mirar en paralelo (GA4)
 
