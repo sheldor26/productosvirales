@@ -447,3 +447,17 @@ h1, h2, h3, h4, h5, h6 {
 @media (prefers-reduced-motion: reduce) {
   .saved-toast-in { animation: none; }
 }
+
+/* Barra de progreso del aviso "seguinos en ML" (SeguirMlBanner.tsx): se
+   achica de izquierda a derecha durante los 6s que el aviso queda abierto,
+   mismo tiempo que su auto-hide en JS. */
+@keyframes seguir-ml-countdown {
+  from { transform: scaleX(1); }
+  to { transform: scaleX(0); }
+}
+.seguir-ml-countdown {
+  animation: seguir-ml-countdown 6s linear forwards;
+}
+@media (prefers-reduced-motion: reduce) {
+  .seguir-ml-countdown { animation: none; transform: scaleX(0); }
+}

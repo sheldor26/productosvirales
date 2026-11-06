@@ -1,12 +1,37 @@
 "use client";
 
-import { useEffect } from "react";
+import { useEffect, useRef, useState } from "react";
 import { track } from "@vercel/analytics";
+import { SeguirMlBanner } from "@/components/widgets/SeguirMlBanner";
 
 declare global {
   interface Window {
     gtag?: (...args: unknown[]) => void;
     clarity?: (...args: unknown[]) => void;
+  }
+}
+
+const SEGUIR_BANNER_CAP_KEY = "pv_seguir_ml_banner_last_shown";
+const SEGUIR_BANNER_CAP_DAYS = 7;
+const SEGUIR_BANNER_AUTO_HIDE_MS = 6000;
+
+function seguirBannerShownRecently(): boolean {
+  try {
+    const v = localStorage.getItem(SEGUIR_BANNER_CAP_KEY);
+    if (!v) return false;
+    const parsed = parseInt(v, 10);
+    if (Number.isNaN(parsed)) return false;
+    return Date.now() - parsed < SEGUIR_BANNER_CAP_DAYS * 24 * 60 * 60 * 1000;
+  } catch {
+    return false;
+  }
+}
+
+function markSeguirBannerShown() {
+  try {
+    localStorage.setItem(SEGUIR_BANNER_CAP_KEY, String(Date.now()));
+  } catch {
+    // localStorage puede fallar (modo privado); no es crítico.
   }
 }
 
@@ -21,8 +46,15 @@ declare global {
  *
  * No toca los componentes de botón: escucha a nivel documento (capture) y filtra
  * por el `rel`. Si mañana se agrega otro botón de afiliado, ya queda trackeado.
+ *
+ * El mismo click dispara, además, el aviso "seguinos en ML" (SeguirMlBanner):
+ * una vez por semana por navegador, y nunca si el newsletter (NewsletterBanner)
+ * ya está abierto — no le pedimos dos cosas a la misma persona a la vez.
  */
 export function AffiliateTracker() {
+  const [showSeguirBanner, setShowSeguirBanner] = useState(false);
+  const seguirBannerHideTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
+
   useEffect(() => {
     function handleClick(event: MouseEvent) {
       const el = event.target as HTMLElement | null;
@@ -48,11 +80,35 @@ export function AffiliateTracker() {
         page_path: payload.page_path,
         link_url: payload.link_url,
       });
+
+      // El newsletter (NewsletterBanner.tsx) ya ocupa este mismo rincón de
+      // pantalla. Si está abierto, no competimos por la atención: no se
+      // muestra esta vez y no se gasta el cupo semanal.
+      const newsletterShowing = document.querySelector(".newsletter-popup");
+      if (newsletterShowing || seguirBannerShownRecently()) return;
+
+      markSeguirBannerShown();
+      setShowSeguirBanner(true);
+      window.gtag?.("event", "seguir_ml_banner_shown", { page_path: payload.page_path });
+      window.clarity?.("event", "seguir_ml_banner_shown");
+      if (seguirBannerHideTimer.current) clearTimeout(seguirBannerHideTimer.current);
+      seguirBannerHideTimer.current = setTimeout(
+        () => setShowSeguirBanner(false),
+        SEGUIR_BANNER_AUTO_HIDE_MS
+      );
     }
 
     document.addEventListener("click", handleClick, { capture: true });
     return () => document.removeEventListener("click", handleClick, { capture: true });
   }, []);
 
-  return null;
+  return (
+    <SeguirMlBanner
+      show={showSeguirBanner}
+      onClose={() => {
+        if (seguirBannerHideTimer.current) clearTimeout(seguirBannerHideTimer.current);
+        setShowSeguirBanner(false);
+      }}
+    />
+  );
 }
