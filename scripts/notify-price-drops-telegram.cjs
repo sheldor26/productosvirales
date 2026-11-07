@@ -38,7 +38,9 @@ const MAX = argNum("--max", 5);
 const MIN_PCT = argNum("--min", 15);
 
 function extractProductBlock(src, id) {
-  const blocks = src.split(/\n  \{\n/).slice(1);
+  // Separa también las fichas `const nombre: Product = {...}` extraídas antes
+  // del array (fix TS2590, ver tasks/lessons.md) — si no, quedan invisibles acá.
+  const blocks = src.split(/\n(?:  \{|const \w+: Product = \{)\n/).slice(1);
   for (const b of blocks) {
     const m = b.match(/(?:^|\n)\s*id:\s*['"`]([^'"`]+)['"`]/);
     if (m && m[1].toUpperCase() === id.toUpperCase()) return b;

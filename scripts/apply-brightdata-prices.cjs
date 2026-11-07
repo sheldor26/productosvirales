@@ -135,7 +135,13 @@ function numProp(block, prop) {
 }
 
 function loadCatalog(src) {
-  const blocks = src.split(/\n  \{\n/).slice(1);
+  // Separa tanto los objetos literales del array (`\n  {\n`) como las fichas
+  // extraídas a `const nombre: Product = {...}` antes del array (patrón usado
+  // para esquivar TS2590 "union type too complex" del catalogo gigante, ver
+  // tasks/lessons.md 2026-11-06/07) — sin el segundo caso, esas fichas quedan
+  // totalmente afuera del parseo (ni error, ni bloque vacío: directo no existen
+  // para este script), así que nunca se les actualiza el precio.
+  const blocks = src.split(/\n(?:  \{|const \w+: Product = \{)\n/).slice(1);
   return blocks.map((b) => ({
     id: get(b, "id"),
     title: get(b, "title"),

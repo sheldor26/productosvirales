@@ -74,7 +74,9 @@ jobs:
           node -e "
           const fs = require('fs');
           const src = fs.readFileSync('src/data/curated-products.ts', 'utf8');
-          const blocks = src.split(/\n  \{\n/).slice(1);
+          // Separa tambien las fichas 'const nombre: Product = {...}' extraidas
+          // antes del array (fix TS2590), si no quedan afuera de la lista de URLs.
+          const blocks = src.split(/\n(?:  \{|const \w+: Product = \{)\n/).slice(1);
           function get(block, prop) {
             const m = block.match(new RegExp('(?:^|\\\\n)\\\\s*' + prop + ':\\\\s*[\\'\"\`]([^\\'\"\`]*)[\\'\"\`]'));
             return m ? m[1] : '';

@@ -53,7 +53,9 @@ function unsubUrl(email) {
 // affiliateUrl + imagen por id, parseando el catálogo (.ts).
 function catalogLookup(idSet) {
   const src = fs.readFileSync(CATALOG_PATH, "utf8");
-  const blocks = src.split(/\n {2}\{\n/).slice(1);
+  // Separa también las fichas `const nombre: Product = {...}` extraídas antes
+  // del array (fix TS2590, ver tasks/lessons.md) — si no, quedan invisibles acá.
+  const blocks = src.split(/\n(?:  \{|const \w+: Product = \{)\n/).slice(1);
   const map = {};
   for (const b of blocks) {
     const idm = b.match(/(?:^|\n)\s*id:\s*['"`]([^'"`]+)['"`]/);
@@ -255,7 +257,7 @@ async function main() {
   // ejemplo) y lo escribe a .cache/email-preview.html para revisarlo.
   if (process.argv.includes("--preview")) {
     const src = fs.readFileSync(CATALOG_PATH, "utf8");
-    const blocks = src.split(/\n {2}\{\n/).slice(1);
+    const blocks = src.split(/\n(?:  \{|const \w+: Product = \{)\n/).slice(1);
     const sample = [];
     for (const b of blocks) {
       const id = (b.match(/id:\s*['"`]([^'"`]+)/) || [])[1];

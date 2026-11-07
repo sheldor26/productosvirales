@@ -125,7 +125,9 @@ function bestCoupon(coupons, price) {
 // --- Parseo liviano del catálogo: id, title, price, image, affiliateUrl, rating, reviewCount, visibility ---
 function loadCatalog() {
   const src = fs.readFileSync(CATALOG_PATH, "utf8");
-  const blocks = src.split(/\n {2}\{\n/).slice(1);
+  // Separa también las fichas `const nombre: Product = {...}` extraídas antes
+  // del array (fix TS2590, ver tasks/lessons.md) — si no, quedan invisibles acá.
+  const blocks = src.split(/\n(?:  \{|const \w+: Product = \{)\n/).slice(1);
   const products = [];
   for (const b of blocks) {
     const id = (b.match(/(?:^|\n)\s*id:\s*['"`]([^'"`]+)['"`]/) || [])[1];

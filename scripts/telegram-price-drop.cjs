@@ -62,7 +62,9 @@ function productSlug(id, title) {
 
 // ─── Extraer el bloque del producto de curated-products.ts (mismo enfoque que price-drops.cjs) ───
 function extractProductBlock(src, id) {
-  const blocks = src.split(/\n  \{\n/).slice(1);
+  // Separa también las fichas `const nombre: Product = {...}` extraídas antes
+  // del array (fix TS2590, ver tasks/lessons.md) — si no, quedan invisibles acá.
+  const blocks = src.split(/\n(?:  \{|const \w+: Product = \{)\n/).slice(1);
   for (const b of blocks) {
     const idMatch = b.match(/(?:^|\n)\s*id:\s*['"`]([^'"`]+)['"`]/);
     if (idMatch && idMatch[1].toUpperCase() === id.toUpperCase()) return b;
