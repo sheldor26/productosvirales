@@ -1067,3 +1067,11 @@ ciclo de reseñas y no se puede armar un lineup honesto.
 
 El 3 va antes del 4 a propósito: no sirve que haya 5.000 publicaciones si las que tienen prueba
 social están discontinuadas. Detalle completo en `MISTAKES.md`.
+
+---
+
+## Ejecutado — 2026-11-07 · "cucha para perro" (tanda 23)
+
+Confirmado con GSC antes de tocar nada: `casa-para-perro` rankea en posición 14,0 para "casa para perro" (2 impresiones, 0 clicks) — lejísimos de la zona de freeze (top 2-5), así que no había riesgo en tocar título/H1/slug. Se decidió NO tocar el slug (`casa-para-perro` se mantiene, cambio de slug es una decisión aparte con redirect de por medio) y sí todo lo demás: title, seoTitle, metaDescription, ogTitle, ogDescription, h1, standfirst, intro, alt del hero, 2 H2, 5 preguntas de FAQ, y las 4 menciones recíprocas desde guías hermanas + la mención cruzada en `cama-para-perro`. "Casa" solo queda en: el `category`/breadcrumb (cosmético, atado al slug, no se tocó) y los nombres reales de 2 productos del catálogo (son el título real de la publicación de ML, no se inventan). Verificado visualmente en el dev server. `updatedDate`/`sitemapLastmod` → 2026-11-07.
+
+Pendiente real: medir en GSC dentro de unas semanas si "cucha para perro" empieza a aparecer (la query todavía no tenía datos propios al momento del cambio, cobertura insuficiente).
