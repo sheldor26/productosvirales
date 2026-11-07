@@ -238,21 +238,8 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: node scripts/notify-price-drops-telegram.cjs
 
-      # Manda las bajas por EMAIL a los suscriptores con source='price-alert'.
-      # Si faltan los secrets (RESEND_API_KEY / DATABASE_URL / UNSUBSCRIBE_SECRET),
-      # el script no-opea sin romper (ver notify-price-drops-email.cjs).
-      - name: Avisar bajas de precio por email (suscriptores)
-        if: steps.gate.outputs.skip != 'true'
-        continue-on-error: true
-        env:
-          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
-          EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
-          DATABASE_URL: ${{ secrets.DATABASE_URL }}
-          UNSUBSCRIBE_SECRET: ${{ secrets.UNSUBSCRIBE_SECRET }}
-          SITE_URL: https://productosvirales.com.ar
-        run: node scripts/notify-price-drops-email.cjs --send
-
       - name: Abrir Pull Request si hubo cambios
+        id: pr
         if: steps.gate.outputs.skip != 'true'
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -260,6 +247,7 @@ jobs:
           set -e
           if [ -z "$(git status --porcelain -- src/data/curated-products.ts docs/precios-sospechosos.md docs/cambios-de-stock.md src/data/price-history.json)" ]; then
             echo "Sin cambios de precio, casos sospechosos ni cambios de stock nuevos. No se abre PR."
+            echo "merged=false" >> "$GITHUB_OUTPUT"
             exit 0
           fi
 
@@ -294,5 +282,27 @@ jobs:
           Generado por el workflow .github/workflows/update-prices-brightdata.yml"
 
           echo "Auto-mergeando el PR..."
-          gh pr merge "$BRANCH" --merge --delete-branch || \
+          if gh pr merge "$BRANCH" --merge --delete-branch; then
+            echo "merged=true" >> "$GITHUB_OUTPUT"
+          else
             echo "No se pudo auto-mergear (revisar permisos/protecciones de rama); el PR queda abierto para mergear a mano."
+            echo "merged=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      # Manda las bajas por EMAIL a los suscriptores con source='price-alert'.
+      # SIEMPRE después de confirmar que el merge salió bien — antes este paso
+      # corría antes de abrir el PR, así que si el merge fallaba el email ya
+      # había salido avisando un precio que el sitio todavía no mostraba
+      # (hallazgo trio-auditor, 2026-11-07). Si faltan los secrets
+      # (RESEND_API_KEY / DATABASE_URL / UNSUBSCRIBE_SECRET), el script
+      # no-opea sin romper (ver notify-price-drops-email.cjs).
+      - name: Avisar bajas de precio por email (suscriptores)
+        if: steps.gate.outputs.skip != 'true' && steps.pr.outputs.merged == 'true'
+        continue-on-error: true
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+          UNSUBSCRIBE_SECRET: ${{ secrets.UNSUBSCRIBE_SECRET }}
+          SITE_URL: https://productosvirales.com.ar
+        run: node scripts/notify-price-drops-email.cjs --send

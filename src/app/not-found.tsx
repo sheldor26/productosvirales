@@ -22,6 +22,9 @@ import { categories } from "@/data/categories";
 export const metadata: Metadata = {
   title: "Página no encontrada",
   robots: { index: false, follow: true },
+  // Sin esto hereda el canonical de la home (layout.tsx), señal contradictoria
+  // en una página noindex (hallazgo trio-auditor, 2026-11-07).
+  alternates: { canonical: null },
 };
 
 const CATEGORY_ICONS: Record<string, LucideIcon> = {

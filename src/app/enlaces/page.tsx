@@ -45,14 +45,20 @@ const SOCIAL_LINKS = [
 const DAY_MS = 24 * 60 * 60 * 1000;
 
 // postedAt en el futuro (typo de zona horaria al cargar el dato a mano) no
-// debe colar el producto como "recién posteado" — hallazgo real de la
-// auditoría (trio-auditor, Codex): Date.now() - futuro da negativo.
+// debe colar el producto como "recién posteado". El intento anterior
+// (Math.max(0, ...) directo acá) no lo lograba: un negativo clampeado a 0
+// sigue siendo "< DAY_MS" en el filtro de recentPosts, así que el post
+// igual se colaba y se mostraba como "Posteado hace 0 min" — hallazgo real
+// de la auditoría (trio-auditor, Codex, 2026-11-07). Ahora esta función
+// devuelve el valor crudo (puede ser negativo) y cada lugar que la usa
+// decide qué hacer con un futuro: el filtro de recentPosts lo excluye
+// explícitamente, timeAgoLabel lo clampea solo para mostrar.
 function msSincePosted(isoDate: string): number {
-  return Math.max(0, Date.now() - new Date(isoDate).getTime());
+  return Date.now() - new Date(isoDate).getTime();
 }
 
 function timeAgoLabel(isoDate: string): string {
-  const diffMs = msSincePosted(isoDate);
+  const diffMs = Math.max(0, msSincePosted(isoDate));
   const minutes = Math.floor(diffMs / 60000);
   if (minutes < 60) return `Posteado hace ${minutes} min`;
   const hours = Math.floor(minutes / 60);
@@ -134,8 +140,14 @@ export default function EnlacesPage() {
   const sorted = [...socialPosts].sort(
     (a, b) => new Date(b.postedAt).getTime() - new Date(a.postedAt).getTime()
   );
-  const recentPosts = sorted.filter((post) => msSincePosted(post.postedAt) < DAY_MS);
-  const olderPosts = sorted.filter((post) => msSincePosted(post.postedAt) >= DAY_MS);
+  const recentPosts = sorted.filter((post) => {
+    const ms = msSincePosted(post.postedAt);
+    return ms >= 0 && ms < DAY_MS;
+  });
+  const olderPosts = sorted.filter((post) => {
+    const ms = msSincePosted(post.postedAt);
+    return ms < 0 || ms >= DAY_MS;
+  });
 
   return (
     <div id="enlaces-page" className="max-w-[520px] mx-auto px-4 py-6 flex flex-col items-center">

@@ -84,10 +84,14 @@ export function SeguirMlCard({
 
         <div className="flex shrink-0 items-center gap-3 rounded-[16px] bg-white/80 p-2.5 pr-4 shadow-[0_4px_18px_rgba(43,33,64,0.18)] backdrop-blur-sm transition-colors group-hover:bg-white">
           <span className="flex items-center gap-1.5 rounded-full bg-white px-2 py-1.5 shadow-sm">
+            {/* width/height = dimensión real del PNG (no la renderizada): el navegador
+                las usa para reservar el aspect-ratio antes de que cargue la imagen y
+                evitar un salto de layout (CLS) — la altura visible la sigue poniendo
+                la className (hallazgo trio-auditor, 2026-11-07). */}
             {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src="/images/seguir-ml/ml-logo-name.png" alt="" aria-hidden className="h-[11px] w-auto" />
+            <img src="/images/seguir-ml/ml-logo-name.png" alt="" aria-hidden width={637} height={56} className="h-[11px] w-auto" />
             {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src="/images/seguir-ml/ml-seguir-btn.png" alt="" aria-hidden className="h-[17px] w-auto rounded-full" />
+            <img src="/images/seguir-ml/ml-seguir-btn.png" alt="" aria-hidden width={144} height={61} className="h-[17px] w-auto rounded-full" />
           </span>
           <span className="text-[13px] font-extrabold text-[#2b2140]">Seguir →</span>
         </div>

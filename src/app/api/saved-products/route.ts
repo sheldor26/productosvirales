@@ -16,9 +16,13 @@ export async function GET(request: Request) {
 
   if (ids.length === 0) return NextResponse.json([]);
 
-  const byId = new Map(curatedProducts.map((p) => [p.id, p]));
+  // Normalizado a mayúsculas en los dos lados: los ids del catálogo son
+  // siempre MLA.../MLAU... en mayúsculas, pero un id guardado en localStorage
+  // hace tiempo (o escrito a mano en minúscula) no matcheaba y el producto
+  // "desaparecía" de Guardados sin ningún error (hallazgo trio-auditor, 2026-11-07).
+  const byId = new Map(curatedProducts.map((p) => [p.id.toUpperCase(), p]));
   const ordered = ids
-    .map((id) => byId.get(id))
+    .map((id) => byId.get(id.toUpperCase()))
     .filter((p): p is NonNullable<typeof p> => p !== undefined);
 
   return NextResponse.json(ordered.map(toCardProduct));

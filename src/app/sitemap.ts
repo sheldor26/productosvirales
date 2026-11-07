@@ -82,8 +82,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const guidePages: MetadataRoute.Sitemap = getPublishedGuides().map((guide) => {
     // La más reciente entre la actualización editorial y el lastmod de sitemap
     // (cambios menores tipo links internos que ameritan re-crawl).
+    // Fallback a publishedDate (toda guía publicada lo tiene) si alguna vez
+    // falta tanto updatedDate como sitemapLastmod: sin esto, `dates.pop()`
+    // da undefined y `new Date(undefined)` es un Invalid Date, un <lastmod>
+    // inválido en el XML (hallazgo trio-auditor, 2026-11-07).
     const dates = [guide.updatedDate, guide.sitemapLastmod].filter(Boolean) as string[];
-    const lastmod = dates.sort().pop() as string;
+    const lastmod = dates.sort().pop() || guide.publishedDate;
     const imagenes = guideImages(guide);
     return {
       url: `${SITE_URL}${guideHref(guide)}`,

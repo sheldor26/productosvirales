@@ -93,7 +93,9 @@ export default function Home() {
               "@type": "SearchAction",
               target: {
                 "@type": "EntryPoint",
-                urlTemplate: "https://productosvirales.com.ar/?q={search_term_string}",
+                // La home no lee searchParams (es estática); la búsqueda real
+                // vive en /buscar (hallazgo trio-auditor, 2026-11-07).
+                urlTemplate: "https://productosvirales.com.ar/buscar?q={search_term_string}",
               },
               "query-input": "required name=search_term_string",
             },

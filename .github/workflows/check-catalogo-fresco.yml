@@ -20,9 +20,13 @@ name: Chequear que el catalogo siga fresco
 
 on:
   schedule:
-    # 11:00 UTC = 08:00 en Argentina. Despues de la corrida de precios de la
-    # madrugada, asi que mide el resultado del dia, no el del dia anterior.
-    - cron: "0 11 * * *"
+    # 13:30 UTC = 10:30 en Argentina. El workflow de precios (lunes/miercoles/
+    # viernes) dispara a las 12:07 UTC y puede tardar hasta ~31 min (corrida
+    # principal + reintento de productos sin datos) — antes este chequeo
+    # corria a las 11:00 UTC, ANTES de esa corrida, asi que lunes/miercoles/
+    # viernes median el estado de ayer, no el de hoy (hallazgo trio-auditor,
+    # 2026-11-07). Con 13:30 UTC queda margen de sobra incluso en el peor caso.
+    - cron: "30 13 * * *"
   workflow_dispatch:
 
 permissions:

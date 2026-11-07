@@ -18,6 +18,10 @@ export const metadata: Metadata = {
   title: "Buscar productos",
   description: "Buscá entre los productos curados de ProductosVirales, con filtros de precio, envío y calificación.",
   robots: { index: false, follow: true },
+  // Sin esto hereda el canonical de la home (layout.tsx), una señal
+  // contradictoria para Google: una página noindex no debería declarar
+  // canonical hacia otra URL indexable (hallazgo trio-auditor, 2026-11-07).
+  alternates: { canonical: null },
 };
 
 export default async function BuscarPage({ searchParams }: Props) {

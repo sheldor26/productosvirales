@@ -32,6 +32,7 @@ on:
       - "Avisar a IndexNow (Bing/Yandex)"
       - "Chequear que el catalogo siga fresco"
       - "Bot social autónomo (Instagram)"
+      - "Digest semanal de bajas de precio"
     types: [completed]
 
 permissions:

@@ -40,7 +40,17 @@ export function proxy(request: NextRequest) {
   const match = pathname.match(/^\/producto\/([^/]+)$/);
   if (!match) return NextResponse.next();
 
-  const slug = decodeURIComponent(match[1]);
+  let slug: string;
+  try {
+    slug = decodeURIComponent(match[1]);
+  } catch {
+    // Porcentaje mal codificado (bot/crawler con una URL trunca o inválida):
+    // decodeURIComponent tira URIError sin este try/catch, y eso se traduce
+    // en un 500 en vez de un 404 (hallazgo trio-auditor, 2026-11-07).
+    const url = request.nextUrl.clone();
+    url.pathname = NOT_FOUND_REWRITE_PATH;
+    return NextResponse.rewrite(url, { status: 404 });
+  }
   const idMatch = slug.match(MLA_ID_RE);
   const id = idMatch ? idMatch[1].toUpperCase() : null;
   const canonical = id ? slugMap[id] : undefined;
