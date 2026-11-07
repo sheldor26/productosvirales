@@ -1,8 +1,4 @@
 import type { NextConfig } from "next";
-// Import relativo (no `@/`): el alias de tsconfig no se resuelve al compilar
-// este archivo. `product-url` no importa nada, así que entra solo.
-import { curatedProducts } from "./src/data/curated-products";
-import { productSlug } from "./src/lib/product-url";
 
 const nextConfig: NextConfig = {
   images: {
@@ -25,23 +21,17 @@ const nextConfig: NextConfig = {
     // re-optimizar la imagen cada vez que expira el cache (default: 4h).
     minimumCacheTTL: 2678400, // 31 días
   },
-  // 308 de verdad para la URL legacy `/producto/MLA123` → la canónica con slug.
-  //
-  // La ficha ya redirige sola, pero como la ruta está prerenderizada ese
-  // redirect sale como `<meta http-equiv="refresh">` adentro de un HTTP 200:
-  // para un crawler no es un redirect, es una página más, sin H1. Resolviéndolo
-  // acá el redirect ocurre en el borde, antes de renderizar nada.
-  //
-  // Los links internos ya apuntan todos a la canónica
-  // (scripts/check-canonical-product-links.cjs lo verifica); esto cubre los
-  // links viejos de afuera y lo que Google ya tenga indexado.
-  async redirects() {
-    return curatedProducts.map((product) => ({
-      source: `/producto/${product.id}`,
-      destination: `/producto/${productSlug(product)}`,
-      permanent: true, // 308
-    }));
-  },
+  // El 308 de `/producto/MLA123` (URL legacy) → la canónica con slug YA NO se
+  // declara acá. Hasta 2026-11-07 esta función generaba un redirect estático
+  // por producto (1.067, uno por cada uno del catálogo) y Vercel ya avisaba
+  // en el build "total number of custom routes exceeds 1000, this can reduce
+  // performance" — acercándose al límite real de la plataforma.
+  // `src/proxy.ts` resuelve exactamente el mismo caso en el borde (real 308,
+  // antes de renderizar nada) de forma dinámica, leyendo `product-slug-map.json`
+  // en vez de 1.067 reglas fijas — y de paso cubre dos casos que esto no
+  // cubría: slug viejo de una ficha renombrada, y 404 real para un ID que no
+  // existe. Si `/producto/MLA123` alguna vez deja de redirigir bien, el lugar
+  // para mirar es `src/proxy.ts`, no acá.
 
   async rewrites() {
     return [
